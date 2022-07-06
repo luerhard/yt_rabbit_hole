@@ -20,7 +20,7 @@ class YtRequestor:
         self.end_url = "&type=video&maxResults=50&key="
         self.keys = ApiKey(API_KEYS)
 
-    def _request(self, video_id: str, key: str):
+    def _recommended_videos(self, video_id: str, key: str):
         url = "".join((self.base_url, video_id, self.end_url, key))
         resp = requests.get(url)
         response = json.loads(resp.text)
@@ -35,13 +35,13 @@ class YtRequestor:
 
         raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
 
-    def request(self, video_id: str):
+    def get_recommended_videos(self, video_id: str):
         try:
-            response = self._request(video_id, self.keys.use())
+            response = self._recommended_videos(video_id, self.keys.use())
         except YtRequestorError:
             self.keys.switch_key()
             try:
-                response = self._request(video_id, self.keys.use())
+                response = self._recommended_videos(video_id, self.keys.use())
             except Exception as e:
                 raise e
         return response
