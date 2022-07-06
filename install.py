@@ -1,7 +1,5 @@
-from pathlib import Path
-import os
 import subprocess
-import sys
+
 
 def run_command(command):
     process = subprocess.Popen(command, stdout=subprocess.PIPE, shell=True)
@@ -11,9 +9,12 @@ def run_command(command):
             break
         print(line.decode().strip())
 
+
 print("Installing environment ...")
 run_command("conda env create --name yt_rabbit_hole --file env.yaml")
 print("Install pre-commit ...")
 run_command("conda run --name yt_rabbit_hole pre-commit install")
 print("Updating pre-commit hooks ...")
 run_command("conda run --name yt_rabbit_hole pre-commit autoupdate")
+print("installing ipywidgets")
+run_command("jupyter labextension install @jupyter-widgets/jupyterlab-manager")
