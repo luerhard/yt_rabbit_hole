@@ -14,15 +14,18 @@ class YtRequestorError(Exception):
 class YtRequestor:
     def __init__(self) -> None:
 
-        self.base_url = (
-            "https://www.googleapis.com/youtube/v3/search?part=snippet&relatedToVideoId="
-        )
-        self.end_url = "&type=video&maxResults=50&key="
+        self.base_url = "https://www.googleapis.com/youtube/v3/search"
         self.keys = ApiKey(API_KEYS)
 
     def _recommended_videos(self, video_id: str, key: str):
-        url = "".join((self.base_url, video_id, self.end_url, key))
-        resp = requests.get(url)
+        params = {
+            "part": "snippet",
+            "relatedToVideoId": video_id,
+            "type": "video",
+            "maxResults": "50",
+            "key": key,
+        }
+        resp = requests.get(self.base_url, params=params)
         response = json.loads(resp.text)
 
         if resp.status_code == 200:
@@ -34,6 +37,34 @@ class YtRequestor:
                 raise HTTPError("Could not find video id: {}".format(video_id))
 
         raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
+
+    def _search(self, query: str, key: str):
+        params = {
+            "type": "video",
+            "part": "snippet",
+            "maxResults": "5000",
+            "q": query,
+            "key": key,
+        }
+
+        resp = requests.get(self.base_url, params=params)
+        response = json.loads(resp.text)
+
+        if resp.status_code == 200:
+            return response
+        elif resp.status_code == 400:
+            if response["error"]["message"] == "API key not valid. Please pass a valid API key.":
+                raise YtRequestorError("invalid api key: {}".format(key))
+
+        raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
+
+    def search(self, query: str):
+        try:
+            response = self._search(query, self.keys.use())
+        except Exception as e:
+            raise e
+
+        return response
 
     def get_recommended_videos(self, video_id: str):
         try:
