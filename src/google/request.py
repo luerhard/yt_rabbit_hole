@@ -1,4 +1,7 @@
 import json
+from typing import Dict
+from typing import Optional
+from typing import Union
 
 import requests
 from requests.exceptions import HTTPError
@@ -17,12 +20,12 @@ class YtRequestor:
         self.base_url = "https://www.googleapis.com/youtube/v3/search"
         self.keys = ApiKey(API_KEYS)
 
-    def _recommended_videos(self, video_id: str, key: str):
-        params = {
+    def _recommended_videos(self, video_id: str, key: str, max_results: int):
+        params: Dict[str, Union[int, str]] = {
             "part": "snippet",
             "relatedToVideoId": video_id,
             "type": "video",
-            "maxResults": "50",
+            "maxResults": max_results,
             "key": key,
         }
         resp = requests.get(self.base_url, params=params)
@@ -35,17 +38,42 @@ class YtRequestor:
                 raise YtRequestorError("invalid api key: {}".format(key))
             elif response["error"]["message"] == "Request contains an invalid argument.":
                 raise HTTPError("Could not find video id: {}".format(video_id))
+        elif resp.status_code == 403:
+            raise YtRequestorError("exceeded API quota: {}".format(key))
+        elif resp.status_code == 404:
+            return {
+                "id": {"videoId": video_id},
+                "items": {},
+            }
 
         raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
 
-    def _search(self, query: str, key: str):
-        params = {
+    def get_recommended_videos(self, video_id: str, max_results: int = 50):
+
+        while len(self.keys.valid_keys) >= 0:
+            try:
+                response = self._recommended_videos(
+                    video_id,
+                    self.keys.use(),
+                    max_results=max_results,
+                )
+                return response
+            except YtRequestorError:
+                self.keys.switch_key()
+            except Exception as e:
+                raise e
+
+    def _search(self, query: str, key: str, max_results: int, page_token: Optional[str] = None):
+        params: Dict[str, Union[int, str]] = {
             "type": "video",
             "part": "snippet",
-            "maxResults": "5000",
+            "maxResults": max_results,
             "q": query,
             "key": key,
         }
+
+        if page_token:
+            params["pageToken"] = page_token
 
         resp = requests.get(self.base_url, params=params)
         response = json.loads(resp.text)
@@ -55,24 +83,23 @@ class YtRequestor:
         elif resp.status_code == 400:
             if response["error"]["message"] == "API key not valid. Please pass a valid API key.":
                 raise YtRequestorError("invalid api key: {}".format(key))
+        elif resp.status_code == 403:
+            raise YtRequestorError("exceeded API quota: {}".format(key))
 
         raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
 
-    def search(self, query: str):
-        try:
-            response = self._search(query, self.keys.use())
-        except Exception as e:
-            raise e
+    def search(self, query: str, max_results: int = 50):
 
-        return response
-
-    def get_recommended_videos(self, video_id: str):
-        try:
-            response = self._recommended_videos(video_id, self.keys.use())
-        except YtRequestorError:
-            self.keys.switch_key()
+        while len(self.keys.valid_keys) >= 0:
             try:
-                response = self._recommended_videos(video_id, self.keys.use())
+                response = self._search(
+                    query,
+                    self.keys.use(),
+                    max_results=max_results,
+                    page_token=None,
+                )
+                return response
+            except YtRequestorError:
+                self.keys.switch_key()
             except Exception as e:
                 raise e
-        return response
