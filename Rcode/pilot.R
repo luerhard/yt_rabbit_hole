@@ -27,6 +27,13 @@ table(df$origin)
 # >   0   1   2   3   4   5   6   7   8   9  10  11 
 # > 828 792 972 120 588 972 480 576 312 384 204 996 
 
+## create igraph object [snowball] ----
+
+df$Target <- df$video_id
+df$Source <- df$source_video_id
+
+g <- graph_from_data_frame(df, directed = TRUE)
+
 ## word clouds from origin [snowball] ----
 
 wc_gen <- function(originInteger=1){
@@ -100,15 +107,25 @@ df <- read.csv('../data/raw/roe_v_wade_catch_all.csv')
 
 df <- df[df$video_id %in% unique(df$source_video_id) & df$video_id != "",]
 
-## create igraph object ----
+nodeslist <- df[,c(2:6)]
+nodeslist <- nodeslist[match(unique(nodeslist$video_id), nodeslist$video_id),]
+colnames(nodeslist)[1] <- c("Source")
+edgelist <- df[,c(8,2)]
+colnames(edgelist) <- c("Source","Target")
+edgelist <- edgelist[edgelist$Source %in% nodeslist$Source, ]
+edgelist <- edgelist[edgelist$Target %in% nodeslist$Source, ]
 
-df$Target <- df$video_id
-df$Source <- df$source_video_id
+## create igraph object [catch all] ----
 
-g <- graph_from_data_frame(df, directed = TRUE)
+g <- graph_from_data_frame(edgelist, directed = TRUE, vertices = nodeslist)
 components <- components(g)
 
 g <- induced_subgraph(g, vids = V(g)[components$membership %in% which.max(components$csize)])
 
+#cluster_optimal(g) # takes long
+cl <- cluster_louvain(as.undirected(g))
 
-# cluster_optimal(g) # takes long
+
+V(g)$cluster <- cl$membership
+
+plot(g, vertex.color=V(g)$cluster, vertex.label=NA, vertex.size=4, edge.arrow.size=0.5)
