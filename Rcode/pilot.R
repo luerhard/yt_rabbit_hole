@@ -5,13 +5,13 @@ library('igraph')
 library('tm')         # to create wordcloud
 library('wordcloud')  # to create wordcloud
 
-# load data ----
+## load data [snowball] ----
 
 df <- read.csv('../data/raw/roe_v_wade_max_12_test.csv')
 
 df$id <- c(1:nrow(df))
 
-# mark (seed) origin of video ----
+## mark (seed) origin of video [snowball] ----
 
 # check origin of the video
 df$origin <- 0
@@ -27,7 +27,7 @@ table(df$origin)
 # >   0   1   2   3   4   5   6   7   8   9  10  11 
 # > 828 792 972 120 588 972 480 576 312 384 204 996 
 
-# wordclouds from origin ----
+## word clouds from origin [snowball] ----
 
 wc_gen <- function(originInteger=1){
   text <- df$description[df$origin==originInteger]
@@ -93,10 +93,22 @@ wc_gen <- function(originInteger=1){
 #dev.off()
 
 
-# load network ----
+
+## load data [catch all] ----
+
+df <- read.csv('../data/raw/roe_v_wade_catch_all.csv')
+
+df <- df[df$video_id %in% unique(df$source_video_id) & df$video_id != "",]
+
+## create igraph object ----
 
 df$Target <- df$video_id
 df$Source <- df$source_video_id
 
 g <- graph_from_data_frame(df, directed = TRUE)
-length(components(g))
+components <- components(g)
+
+g <- induced_subgraph(g, vids = V(g)[components$membership %in% which.max(components$csize)])
+
+
+# cluster_optimal(g) # takes long
