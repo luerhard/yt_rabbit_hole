@@ -45,29 +45,35 @@ class YtRequestor:
         page_token = None
         results = []
 
-        if max_results < 50:
-            _max_results = max_results
-        else:
-            _max_results = 50
-
         for i in range(n_iter):
-            response = self._single_request(self._search, q, page_token, _max_results)
-            page_token = response["nextPageToken"]
+            response = self._single_request(func, q, page_token, max_results)
             results.extend(response["items"])
+            page_token = response.get("nextPageToken")
+            if not page_token:
+                break
         else:
             response = self._single_request(self._search, q, page_token, rest)
             results.extend(response["items"])
 
         return results
 
-    def _recommended_videos(self, video_id: str, key: str, max_results: int):
+    def _recommended_videos(
+        self, video_id: str, key: str, max_results: int, page_token: str | None = None,
+    ):
         params: Dict[str, Union[int, str]] = {
             "part": "snippet",
             "relatedToVideoId": video_id,
             "type": "video",
             "maxResults": max_results,
             "key": key,
+            "relevanceLanguage": "en",
+            "safeSearch": "none",
+            "regionCode": "us",
         }
+
+        if page_token:
+            params["pageToken"] = page_token
+
         resp = requests.get(self.base_url, params=params)
         response = json.loads(resp.text)
 
@@ -88,13 +94,16 @@ class YtRequestor:
 
         raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
 
-    def _search(self, query: str, key: str, max_results: int, page_token: Optional[str] = None):
+    def _search(self, query: str, key: str, max_results: int, page_token: str | None = None):
         params: Dict[str, Union[int, str]] = {
             "type": "video",
             "part": "snippet",
             "maxResults": max_results,
             "q": query,
             "key": key,
+            "relevanceLanguage": "en",
+            "safeSearch": "none",
+            "regionCode": "us",
         }
 
         if page_token:
