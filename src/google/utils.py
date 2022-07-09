@@ -14,7 +14,8 @@ def row_info(row):
     result["date"] = snippet.get("publishedAt")
     result["title"] = snippet.get("title")
     result["description"] = snippet.get("description")
-    result["channelTitle"] = snippet.get("channelTitle")
+    result["channel_title"] = snippet.get("channelTitle")
+    result["channel_id"] = snippet.get("channelId")
 
     return result
 
@@ -51,6 +52,10 @@ def run_step(tube, data, max_results):
         temp["search_rank"] = range(1, len(temp) + 1)
         data = pd.concat([data, temp])
 
+        metadata = tube.get_video_metadata(video_id)
+        for name, val in metadata.items():
+            data.loc[(data.video_id == video_id) & (data.step == 0), name] = val
+
     return data
 
 
@@ -61,11 +66,17 @@ def create_network(data):
     for row in data.loc[data.step == 0, :].itertuples():
         g.add_node(
             row.video_id,
-            data=row.date,
+            step=row.step,
+            date=row.date,
             title=row.title,
             description=row.description,
-            channel_title=row.channelTitle,
-            step=row.step,
+            channel_title=row.channel_title,
+            channel_id=row.channel_id,
+            fav_count=row.fav_count,
+            view_count=row.view_count,
+            like_count=row.like_count,
+            comment_count=row.comment_count,
+            duration=row.duration,
         )
 
     # add edges
