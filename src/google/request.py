@@ -1,8 +1,9 @@
 import json
 from typing import Dict
-from typing import Optional
 from typing import Union
+from urllib.parse import urljoin
 
+import numpy as np
 import requests
 from requests.exceptions import HTTPError
 
@@ -17,10 +18,12 @@ class YtRequestorError(Exception):
 class YtRequestor:
     def __init__(self) -> None:
 
-        self.base_url = "https://www.googleapis.com/youtube/v3/search"
+        self.base_url = "https://www.googleapis.com/youtube/v3/"
+        self.search_url = urljoin(self.base_url, "search")
+        self.video_url = urljoin(self.base_url, "videos")
         self.keys = ApiKey(API_KEYS)
 
-    def _single_request(self, func, q: str, page_token: str | None, max_results: int = 50):
+    def _single_request(self, func, q: str, page_token: str | None = None, max_results: int = 50):
         while len(self.keys.valid_keys) >= 0:
             try:
                 response = func(
@@ -58,7 +61,11 @@ class YtRequestor:
         return results
 
     def _recommended_videos(
-        self, video_id: str, key: str, max_results: int, page_token: str | None = None,
+        self,
+        video_id: str,
+        key: str,
+        max_results: int,
+        page_token: str | None = None,
     ):
         params: Dict[str, Union[int, str]] = {
             "part": "snippet",
@@ -74,7 +81,7 @@ class YtRequestor:
         if page_token:
             params["pageToken"] = page_token
 
-        resp = requests.get(self.base_url, params=params)
+        resp = requests.get(self.search_url, params=params)
         response = json.loads(resp.text)
 
         if resp.status_code == 200:
@@ -109,7 +116,7 @@ class YtRequestor:
         if page_token:
             params["pageToken"] = page_token
 
-        resp = requests.get(self.base_url, params=params)
+        resp = requests.get(self.search_url, params=params)
         response = json.loads(resp.text)
 
         if resp.status_code == 200:
@@ -121,6 +128,40 @@ class YtRequestor:
             raise YtRequestorError("exceeded API quota: {}".format(key))
 
         raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
+
+    def _video_metadata(self, video_id: str, key: str, **kwargs):
+        params = {
+            "part": ["contentDetails", "statistics"],
+            "id": video_id,
+            "key": key,
+        }
+        resp = requests.get(self.video_url, params=params)
+        response = json.loads(resp.text)
+
+        if resp.status_code == 200:
+            return response
+        elif resp.status_code == 400:
+            if response["error"]["message"] == "API key not valid. Please pass a valid API key.":
+                raise YtRequestorError("invalid api key: {}".format(key))
+        elif resp.status_code == 403:
+            raise YtRequestorError("exceeded API quota: {}".format(key))
+
+        raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
+
+    def get_video_metadata(self, video_id: str):
+        response = self._single_request(self._video_metadata, video_id)
+        item = response["items"][0]
+        stats = item["statistics"]
+        details = item["contentDetails"]
+
+        r = dict()
+        r["view_count"] = float(stats.get("viewCount", np.nan))
+        r["like_count"] = float(stats.get("likeCount", np.nan))
+        r["fav_count"] = float(stats.get("favoriteCount", np.nan))
+        r["comment_count"] = float(stats.get("commentCount", np.nan))
+        r["duration"] = details.get("duration", "")
+
+        return r
 
     def get_recommended_videos(self, video_id: str, max_results: int = 50):
         response = self._multi_request(
