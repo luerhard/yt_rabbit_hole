@@ -6,7 +6,7 @@ graph [
     step 0
     date "2020-02-06T16:14:46Z"
     title "How To Draw Stitch From Lilo And Stitch"
-    description "Today, we're learning how to draw Stitch from Lilo and Stitch! We hope you follow along with us, all you need is something to draw ..."
+    description "Today, we're learning how to draw Stitch from Lilo and Stitch! We hope you follow along with us, all you need is something to draw with, paper, and coloring supplies.&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -21,7 +21,7 @@ graph [
     step 0
     date "2021-09-23T13:00:22Z"
     title "How To Draw A Cute Unicorn Doughnut"
-    description "Follow along with us and learn how to draw a super cute unicorn doughnut! Art Supplies ~ This is a list of the supplies we used, ..."
+    description "Follow along with us and learn how to draw a super cute unicorn doughnut! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Pencil and erasure&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -36,7 +36,7 @@ graph [
     step 0
     date "2021-01-05T14:01:19Z"
     title "Learn How to Draw for Beginners - Episode 1"
-    description "What do you need to start drawing and learn art and illustration? Just paper and pencil. We're not going to get to fancy in this first ..."
+    description "What do you need to start drawing and learn art and illustration? Just paper and pencil. We're not going to get to fancy in this first class. We will start with the very basics about how everything we are going to draw is made up of simple shapes. 2D shapes like squares, circles and triangles and also 3d shapes like spheres, cylinders, cubes and cones.&#10;&#10;00:00 Intro&#10;00:56 How This Class Works&#10;01:35 What You Need&#10;02:08 Looking At The World Like An Artist&#10;02:50 Drawing Lines&#10;03:25 Drawing Shapes&#10;05:19 Everything Is Made of Shapes&#10;06:18 Cubes, Spheres and Cones&#10;07:01 Drawing A Cube&#10;07:40 Drawing Spheres&#10;08:18 Drawing Cones&#10;08:37 Drawing Cylinders&#10;08:54 Homework"
     channel_title "Brad's Art School"
     channel_id "UClX5lGGHeZ7OILb1ozSNtOg"
     fav_count 0
@@ -51,7 +51,7 @@ graph [
     step 0
     date "2022-03-21T14:59:55Z"
     title "How To Draw Air Jordan 1 Shoes"
-    description "Yes! Today, Jack and I are learning how to draw Air Jordan 1 shoes! These are one of his favorite shoes and was so excited to do ..."
+    description "Yes! Today, Jack and I are learning how to draw Air Jordan 1 shoes! These are one of his favorite shoes and was so excited to do this lesson. We hope you and your kids have just as much fun drawing these with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Pencil and erasure&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -66,7 +66,7 @@ graph [
     step 0
     date "2022-01-14T23:00:01Z"
     title "How to draw ANY POSE in 10 minutes | DrawlikeaSir"
-    description "A video tutorial about how to draw any pose or gesture - for beginners :) Works with any style, be it comic, manga, anime or real ..."
+    description "A video tutorial about how to draw any pose or gesture - for beginners :)&#10;Works with any style, be it comic, manga, anime or real gestures.&#10;I personally love drawing fighting and action poses, but it also works&#10;with any other situation!&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#9654;&#9654;&#9654;  https://drawlikeasir.com/materials/&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Website -------------- https://drawlikeasir.com&#10;&#10149; Twitter ---------------- https://twitter.com/Drawinglikeasir&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;&#127925; Background Music &#127925;&#10;https://youtu.be/_cqyPtip8GA - Naruto remix by Rayden&#10;https://youtu.be/65Jqq2f4T3I"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -81,7 +81,7 @@ graph [
     step 0
     date "2021-06-21T13:00:10Z"
     title "How To Draw A Funny Summer Pineapple"
-    description "Today, Jack and I are learning how to draw a funny pineapple ready for summer! Art Supplies - This is a list of the supplies we ..."
+    description "Today, Jack and I are learning how to draw a funny pineapple ready for summer!&#10;&#127912; Art Supplies - This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub.&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -96,7 +96,7 @@ graph [
     step 0
     date "2021-11-01T13:00:14Z"
     title "How To Draw Huggy Wuggy | Poppy Playtime (Draw &#38;amp; Color)"
-    description "Learn how to draw Huggy Wuggy from Poppy Playtime with Cartooning Club How To Draw. I'll teach you the simple method of ..."
+    description "Learn how to draw Huggy Wuggy from Poppy Playtime with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you need ideas on what to draw then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe a d check out our Community feed for rules and updates. &#10084;&#65039;&#10;&#10;Check out my Playlist below for more of your favourite characters.&#10;&#10;How to Draw Video Game Characters&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlpzlPLJD46irSobCKrVQf4h&#10;&#10;Supplies used:&#10;For my regular drawings I start with a black Sharpie fine point marker. I then use Bianyo brand markers to color them in or you can use whatever you feel most comfortable with. I'm also drawing on printer friendly paper to prevent ink bleeding.&#10;&#10;For my sketch tutorials I experiment with various pencil brands but right now I'm happy using black Staedtler 2B-8B pencils on sketch paper. My go to is the 4B pencil.&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -111,7 +111,7 @@ graph [
     step 0
     date "2017-06-13T16:30:12Z"
     title "How To Draw A Cartoon Watermelon"
-    description "You can purchase our How To Draw Funny Food ebook here https://www.artforkidshub.com/book/draw-funny-food/ Learn how to ..."
+    description "You can purchase our How To Draw Funny Food ebook here https://www.artforkidshub.com/book/draw-funny-food/ Learn how to draw a cartoon watermelon. This lesson is meant for younger artists, but still fun for older artists too!&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -126,7 +126,7 @@ graph [
     step 0
     date "2021-05-11T15:44:59Z"
     title "HOW TO DRAW APPLE IPHONE"
-    description "Learn to draw Apple iPhone STORE: https://teespring.com/stores/guuhstore SUBSCRIBE: https://goo.gl/QnNBj6 INSTAGRAM: ..."
+    description "Learn to draw Apple iPhone &#10;&#10;STORE: https://teespring.com/stores/guuhstore&#10;SUBSCRIBE: https://goo.gl/QnNBj6&#10;INSTAGRAM: https://www.instagram.com/guuhdesenhos&#10;FACEBOOK: https://www.facebook.com/guuhdesenhos&#10;BLOG: http://canalguuhdesenhos.blogspot.com.br&#10;&#10;guuhmult@hotmail.com&#10;&#10;#GuuhDrawings&#10;&#10;how to draw step by step easy drawing tutorial&#10;como desenhar passo a passo tutorial desenho simples f&#225;cil&#10;hoe om te teken&#10;si te vizatosh&#10;wie zeichnet man zeichen tutorial leicht&#10;&#4773;&#4757;&#4852;&#4725; &#4773;&#4757;&#4848;&#4634;&#4659;&#4621;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#10;&#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1398;&#1391;&#1377;&#1408;&#1381;&#1388;&#10;nec&#601; &#231;&#601;km&#601;k&#10;nola marraztu&#10;&#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;&#10;&#1103;&#1082; &#1084;&#1072;&#1083;&#1103;&#1074;&#1072;&#1094;&#1100;&#10;kako crtati&#10;&#1082;&#1072;&#1082; &#1076;&#1072; &#1088;&#1080;&#1089;&#1091;&#1074;&#1072;&#1084;&#10;&#3257;&#3271;&#3223;&#3270; &#3256;&#3270;&#3251;&#3270;&#3247;&#3265;&#3253;&#3265;&#3238;&#3265;&#10;com dibuixar&#10;&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;sa unsa nga paagi aron sa pagkalos&#10;mmene kudzatunga&#10;&#22914;&#20309;&#30011;&#10;&#22914;&#20309;&#30059;&#10;nzira yekukwevera&#10;&#3482;&#3548;&#3524;&#3548;&#3512;&#3503; &#3461;&#3507;&#3538;&#3505;&#3530;&#3505;&#3546;&#10;&#44536;&#47532;&#45716; &#48169;&#48277;&#10;cumu a girari&#10;ki jan yo desine&#10;kako nacrtati&#10;&#231;awa bikujin&#10;hvordan man tegner&#10;ako kresli&#357;&#10;kako narisati&#10;como dibujar paso a paso tutorial dibujo simple y f&#225;cil &#10;Kiel desegni&#10;kuidas joonistada&#10;Paano Gumuhit&#10;kuinka piirt&#228;&#228;&#10;comment dessiner pas &#224; pas tutoriel dessin facile&#10;Hoe te tekenjen&#10;mar a tharraing thu&#10;como dese&#241;ar&#10;sut i dynnu&#10;&#4320;&#4317;&#4306;&#4317;&#4320; &#4307;&#4304;&#4309;&#4334;&#4304;&#4322;&#4317;&#4311;&#10;&#960;&#969;&#962; &#957;&#945; &#950;&#969;&#947;&#961;&#945;&#966;&#943;&#963;&#969;&#10;&#2709;&#2695; &#2736;&#2752;&#2724;&#2759; &#2726;&#2763;&#2736;&#2741;&#2753;&#10;yadda za a zana&#10;pehea e huki ai&#10;&#1488;&#1497;&#1498; &#1500;&#1510;&#1497;&#1497;&#1512;&#10;&#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;&#10;kos duab li cas&#10;hoe te tekenen&#10;hogyan rajzolj&#10;esi ise&#10;&#1493;&#1493;&#1497; &#1510;&#1493; &#1510;&#1497;&#1506;&#1503;&#10;cara menggambar&#10;bi o &#7779;e fa&#10;conas a tharraingt&#10;hvernig &#225; a&#240; teikna&#10;come disegnare passo dopo passo tutorial disegno facile&#10;&#25551;&#12367;&#26041;&#27861;&#10;cara nggambar&#10;&#6042;&#6036;&#6080;&#6036;&#6018;&#6076;&#6042;&#10;&#3751;&#3764;&#3735;&#3765;&#3713;&#3762;&#3737;&#3777;&#3733;&#3785;&#3745;&#10;duci&#10;k&#257; z&#299;m&#275;t&#10;kaip pie&#353;ti&#10;w&#233;i zeechnen&#10;&#1082;&#1072;&#1082;&#1086; &#1076;&#1072; &#1094;&#1088;&#1090;&#1072;&#1096;&#10;&#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3381;&#3376;&#3375;&#3405;&#3349;&#3405;&#3349;&#3363;&#3330;&#10;bagaimana untuk menarik&#10;ahoana no hisintonana&#10;kif tfassal&#10;me pehea ki te utu&#10;&#2325;&#2360;&#2375; &#2325;&#2366;&#2338;&#2366;&#2357;&#2375;&#10;&#1093;&#1101;&#1088;&#1093;&#1101;&#1085; &#1079;&#1091;&#1088;&#1072;&#1093;&#10;&#2325;&#2360;&#2352;&#2368; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2327;&#2352;&#2381;&#2344;&#2375;&#10;hvordan &#229; tegne&#10;&#1669;&#1606;&#1707;&#1607; &#1585;&#1587;&#1605;&#10;&#1670;&#1591;&#1608;&#1585;&#1740; &#1591;&#1585;&#1575;&#1581;&#1740; &#1705;&#1606;&#1740;&#1605;&#10;jak narysowa&#263;&#10;&#2581;&#2623;&#2613;&#2631;&#2562; &#2582;&#2623;&#2673;&#2586;&#2595;&#2622; &#2617;&#2632;&#10;&#1082;&#1072;&#1085;&#1090;&#1080;&#1087; &#1090;&#1072;&#1088;&#1090;&#1072;&#1090;&#10;cum s&#259; atrag&#259;&#10;&#1082;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;&#10;le auala e faalatalata&#10;&#1050;&#1072;&#1082;&#1086; &#1094;&#1088;&#1090;&#1072;&#1090;&#1080;&#10;ho hohela joang&#10;&#1706;&#1574;&#1610;&#1606; &#1658;&#1575;&#1607;&#1610;&#1608;&#10;sida loo sawiro&#10;jinsi ya kuteka&#10;hur man ritar&#10;kumaha carana menggambar&#10;&#1095;&#1251; &#1090;&#1072;&#1074;&#1088; &#1073;&#1072; &#1082;&#1072;&#1096;&#1080;&#1076;&#1072;&#1085;&#1080;&#10;&#3623;&#3634;&#3604;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;&#10;&#2997;&#2992;&#3016;&#2997;&#2980;&#3009; &#2958;&#2986;&#3021;&#2986;&#2975;&#3007;&#10;jak kreslit&#10;&#3086;&#3122;&#3134; &#3095;&#3136;&#3119;&#3134;&#3122;&#3135;&#10;nas&#305;l &#231;izilir&#10;&#1103;&#1082; &#1085;&#1072;&#1084;&#1072;&#1083;&#1102;&#1074;&#1072;&#1090;&#1080;&#10;&#1705;&#1729; &#1705;&#1587; &#1591;&#1585;&#1581; &#1575;&#1662;&#1606;&#1740; &#1591;&#1585;&#1601; &#1605;&#1578;&#1608;&#1580;&#1729; &#1705;&#1585;&#1606;&#1746; &#1705;&#1746; &#1604;&#1574;&#1746;&#10;qanday chizish kerak&#10;l&#224;m th&#7871; n&#224;o &#273;&#7875; v&#7869;&#10;indlela yokudweba&#10;indlela ukudweba"
     channel_title "GuuhDrawings"
     channel_id "UCEDqrzeStonXUKvrtQIlDFg"
     fav_count 0
@@ -141,7 +141,7 @@ graph [
     step 0
     date "2022-06-06T13:00:04Z"
     title "How To Draw A Graduation Puppy"
-    description "Yay! Today, we're learning how to draw a cute puppy ready for graduation! Art Supplies ~ This is a list of the supplies we used, but ..."
+    description "Yay! Today, we're learning how to draw a cute puppy ready for graduation! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -156,7 +156,7 @@ graph [
     step 0
     date "2021-03-29T16:15:46Z"
     title "HOW TO DRAW KAKASHI"
-    description "Learn to draw Kakashi STORE: https://teespring.com/stores/guuhstore SUBSCRIBE: https://goo.gl/QnNBj6 INSTAGRAM: ..."
+    description "Learn to draw Kakashi&#10;&#10;STORE: https://teespring.com/stores/guuhstore&#10;SUBSCRIBE: https://goo.gl/QnNBj6&#10;INSTAGRAM: https://www.instagram.com/guuhdesenhos&#10;FACEBOOK: https://www.facebook.com/guuhdesenhos&#10;BLOG: http://canalguuhdesenhos.blogspot.com.br&#10;&#10;guuhmult@hotmail.com&#10;&#10;#GuuhDrawings&#10;&#10;how to draw step by step easy drawing tutorial&#10;como desenhar passo a passo tutorial desenho simples f&#225;cil&#10;hoe om te teken&#10;si te vizatosh&#10;wie zeichnet man zeichen tutorial leicht&#10;&#4773;&#4757;&#4852;&#4725; &#4773;&#4757;&#4848;&#4634;&#4659;&#4621;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#10;&#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1398;&#1391;&#1377;&#1408;&#1381;&#1388;&#10;nec&#601; &#231;&#601;km&#601;k&#10;nola marraztu&#10;&#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;&#10;&#1103;&#1082; &#1084;&#1072;&#1083;&#1103;&#1074;&#1072;&#1094;&#1100;&#10;kako crtati&#10;&#1082;&#1072;&#1082; &#1076;&#1072; &#1088;&#1080;&#1089;&#1091;&#1074;&#1072;&#1084;&#10;&#3257;&#3271;&#3223;&#3270; &#3256;&#3270;&#3251;&#3270;&#3247;&#3265;&#3253;&#3265;&#3238;&#3265;&#10;com dibuixar&#10;&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;sa unsa nga paagi aron sa pagkalos&#10;mmene kudzatunga&#10;&#22914;&#20309;&#30011;&#10;&#22914;&#20309;&#30059;&#10;nzira yekukwevera&#10;&#3482;&#3548;&#3524;&#3548;&#3512;&#3503; &#3461;&#3507;&#3538;&#3505;&#3530;&#3505;&#3546;&#10;&#44536;&#47532;&#45716; &#48169;&#48277;&#10;cumu a girari&#10;ki jan yo desine&#10;kako nacrtati&#10;&#231;awa bikujin&#10;hvordan man tegner&#10;ako kresli&#357;&#10;kako narisati&#10;como dibujar paso a paso tutorial dibujo simple y f&#225;cil &#10;Kiel desegni&#10;kuidas joonistada&#10;Paano Gumuhit&#10;kuinka piirt&#228;&#228;&#10;comment dessiner pas &#224; pas tutoriel dessin facile&#10;Hoe te tekenjen&#10;mar a tharraing thu&#10;como dese&#241;ar&#10;sut i dynnu&#10;&#4320;&#4317;&#4306;&#4317;&#4320; &#4307;&#4304;&#4309;&#4334;&#4304;&#4322;&#4317;&#4311;&#10;&#960;&#969;&#962; &#957;&#945; &#950;&#969;&#947;&#961;&#945;&#966;&#943;&#963;&#969;&#10;&#2709;&#2695; &#2736;&#2752;&#2724;&#2759; &#2726;&#2763;&#2736;&#2741;&#2753;&#10;yadda za a zana&#10;pehea e huki ai&#10;&#1488;&#1497;&#1498; &#1500;&#1510;&#1497;&#1497;&#1512;&#10;&#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;&#10;kos duab li cas&#10;hoe te tekenen&#10;hogyan rajzolj&#10;esi ise&#10;&#1493;&#1493;&#1497; &#1510;&#1493; &#1510;&#1497;&#1506;&#1503;&#10;cara menggambar&#10;bi o &#7779;e fa&#10;conas a tharraingt&#10;hvernig &#225; a&#240; teikna&#10;come disegnare passo dopo passo tutorial disegno facile&#10;&#25551;&#12367;&#26041;&#27861;&#10;cara nggambar&#10;&#6042;&#6036;&#6080;&#6036;&#6018;&#6076;&#6042;&#10;&#3751;&#3764;&#3735;&#3765;&#3713;&#3762;&#3737;&#3777;&#3733;&#3785;&#3745;&#10;duci&#10;k&#257; z&#299;m&#275;t&#10;kaip pie&#353;ti&#10;w&#233;i zeechnen&#10;&#1082;&#1072;&#1082;&#1086; &#1076;&#1072; &#1094;&#1088;&#1090;&#1072;&#1096;&#10;&#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3381;&#3376;&#3375;&#3405;&#3349;&#3405;&#3349;&#3363;&#3330;&#10;bagaimana untuk menarik&#10;ahoana no hisintonana&#10;kif tfassal&#10;me pehea ki te utu&#10;&#2325;&#2360;&#2375; &#2325;&#2366;&#2338;&#2366;&#2357;&#2375;&#10;&#1093;&#1101;&#1088;&#1093;&#1101;&#1085; &#1079;&#1091;&#1088;&#1072;&#1093;&#10;&#2325;&#2360;&#2352;&#2368; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2327;&#2352;&#2381;&#2344;&#2375;&#10;hvordan &#229; tegne&#10;&#1669;&#1606;&#1707;&#1607; &#1585;&#1587;&#1605;&#10;&#1670;&#1591;&#1608;&#1585;&#1740; &#1591;&#1585;&#1575;&#1581;&#1740; &#1705;&#1606;&#1740;&#1605;&#10;jak narysowa&#263;&#10;&#2581;&#2623;&#2613;&#2631;&#2562; &#2582;&#2623;&#2673;&#2586;&#2595;&#2622; &#2617;&#2632;&#10;&#1082;&#1072;&#1085;&#1090;&#1080;&#1087; &#1090;&#1072;&#1088;&#1090;&#1072;&#1090;&#10;cum s&#259; atrag&#259;&#10;&#1082;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;&#10;le auala e faalatalata&#10;&#1050;&#1072;&#1082;&#1086; &#1094;&#1088;&#1090;&#1072;&#1090;&#1080;&#10;ho hohela joang&#10;&#1706;&#1574;&#1610;&#1606; &#1658;&#1575;&#1607;&#1610;&#1608;&#10;sida loo sawiro&#10;jinsi ya kuteka&#10;hur man ritar&#10;kumaha carana menggambar&#10;&#1095;&#1251; &#1090;&#1072;&#1074;&#1088; &#1073;&#1072; &#1082;&#1072;&#1096;&#1080;&#1076;&#1072;&#1085;&#1080;&#10;&#3623;&#3634;&#3604;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;&#10;&#2997;&#2992;&#3016;&#2997;&#2980;&#3009; &#2958;&#2986;&#3021;&#2986;&#2975;&#3007;&#10;jak kreslit&#10;&#3086;&#3122;&#3134; &#3095;&#3136;&#3119;&#3134;&#3122;&#3135;&#10;nas&#305;l &#231;izilir&#10;&#1103;&#1082; &#1085;&#1072;&#1084;&#1072;&#1083;&#1102;&#1074;&#1072;&#1090;&#1080;&#10;&#1705;&#1729; &#1705;&#1587; &#1591;&#1585;&#1581; &#1575;&#1662;&#1606;&#1740; &#1591;&#1585;&#1601; &#1605;&#1578;&#1608;&#1580;&#1729; &#1705;&#1585;&#1606;&#1746; &#1705;&#1746; &#1604;&#1574;&#1746;&#10;qanday chizish kerak&#10;l&#224;m th&#7871; n&#224;o &#273;&#7875; v&#7869;&#10;indlela yokudweba&#10;indlela ukudweba"
     channel_title "GuuhDrawings"
     channel_id "UCEDqrzeStonXUKvrtQIlDFg"
     fav_count 0
@@ -171,7 +171,7 @@ graph [
     step 0
     date "2022-06-21T13:00:31Z"
     title "How To Draw A Pool"
-    description "Follow along with us and learn how to draw a funny blow-up pool! Art Supplies ~ This is a list of the supplies we used, but feel free ..."
+    description "Follow along with us and learn how to draw a funny blow-up pool! Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -186,7 +186,7 @@ graph [
     step 0
     date "2021-01-10T09:00:31Z"
     title "How to Draw and Paint AMONG US Game Character (using acrylic paint)"
-    description "I show you how to make a painting of Among Us (the easy way). That's right, this time I will show you how to draw and paint the ..."
+    description "I show you how to make a painting of Among Us (the easy way). That's right, this time I will show you how to draw and paint the main character of the  Among Us game using acrylic paint on canvas.  I loved the result!&#10;&#10;Material used: Canvas (30x20 cm), permanent ink marker, acrylic paint (titanium white, ultramarine blue, vemilion, magenta and primary yellow).&#10;&#10;- Music: Eyes Gone Wrong by Kevin MacLeod (Artist: http://incompetech.com/)&#10;&#10;#amongus #amonguspainting #howtopaint&#10;&#10;----------&#10;&#9829; More videos:  https://goo.gl/YLqaps&#10;&#9829; Subscribe: https://goo.gl/hR6LDh"
     channel_title "Drawbook"
     channel_id "UCWVWlwtGywEvwwFEkjQoPvQ"
     fav_count 0
@@ -201,7 +201,7 @@ graph [
     step 0
     date "2022-06-20T13:00:14Z"
     title "How To Draw A Cute Oyster And Pearl"
-    description "Follow along with us and learn how to draw a cute oyster with a pearl inside. Art Supplies ~ This is a list of the supplies we used, ..."
+    description "Follow along with us and learn how to draw a cute oyster with a pearl inside. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -216,7 +216,7 @@ graph [
     step 0
     date "2021-03-13T10:15:14Z"
     title "Easy anime drawing | how to draw anime girl easy step-by-step"
-    description "Easy anime drawing | how to draw anime girl easy step-by-step Like + subscribe How to draw a girl Easy drawing &#8230;"
+    description "Easy anime drawing | how to draw anime girl easy step-by-step &#10;&#10;Like + subscribe &#10;&#10;How to draw a girl &#10;Easy drawing&#10; &#10;&#8230;&#8230;.. &#8230;&#8230;&#8230; &#8230;&#8230;.. &#8230;&#8230;&#8230;. &#8230;&#8230;..&#10;&#10;&#8230;&#8230;&#8230; &#8230;&#8230;&#8230;. &#8230;&#8230;.. &#8230;&#8230;&#8230; &#8230;&#8230;&#8230; &#8230;&#8230;..&#10;&#10;All music in my video are from &#10;&#10;1-&#10;close your eyes by Rexlambo https://soundcloud.com/rexlambo&#8203;&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: https://bit.ly/-close-your-eyes&#8203;&#10;Music promoted by Audio Library https://youtu.be/fa-IRH-WFq8&#8203;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;&#10;&#10;2-&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;Faithful Mission by Artificial.Music https://soundcloud.com/artificial-music&#8203;&#10;Creative Commons &#8212; Attribution 3.0 Unported  &#8212; CC BY 3.0 &#10;Free Download: http://bit.ly/-faithful-mission&#8203;&#10;Music promoted by Audio Library https://youtu.be/-738ly_V3RQ&#8203;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;3-&#10;&#10;Underwater by Roa https://soundcloud.com/roa_music1031&#8203; &#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: http://bit.ly/-underwater&#8203;&#10;Music promoted by Audio Library https://youtu.be/ffyI5yd-yLA&#8203;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;3-&#10;&#10;Humsafar by ASHUTOSH https://soundcloud.com/grandakt&#8203;&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: http://bit.ly/-humsafar&#8203;&#10;Music promoted by Audio Library https://youtu.be/VMqBV32HrLs&#8203;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;"
     channel_title "Easy to Draw"
     channel_id "UCB4oTt91SQQJnZY5Yo7mxoA"
     fav_count 0
@@ -231,7 +231,7 @@ graph [
     step 0
     date "2020-04-03T14:15:14Z"
     title "How To Draw Sonic From Sonic The Hedgehog Movie"
-    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of Sonic The Hedgehog."
+    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of Sonic The Hedgehog. You can watch it on digital TODAY: https://paramnt.us/GetSonic&#10;#SonicTheHedgehog #ParamountPictures #Paramount&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -246,7 +246,7 @@ graph [
     step 0
     date "2021-09-01T04:26:02Z"
     title "Learning How to Draw with No Experience"
-    description "In this video, I show you how I was able to learn how to draw from no experience in less than 7 days of work. Using simple ..."
+    description "In this video, I show you how I was able to learn how to draw from no experience in less than 7 days of work. Using simple, practical, and repeatable techniques, I was able to achieve a level of drawing I only dreamed of.  You can follow the exact same steps I learned to achieve similar or even better results than I got. &#128170;&#127996;&#10;&#10;As a kid, one of my favourite hobbies was to draw, but I was never any good at it. Once I got older, I had the fixed mindset that I've reached the highest level I could draw at, and others were just more gifted and talented than I was. But after a shift in mindset that anything is learnable, I unlocked even higher levels of drawing I had no idea I had.&#10;&#10;Timestamps:&#10;&#10;0:00 - Intro&#10;0:41 - Get Started&#10;1:35 - Drawing Shapes&#10;2:15 - Drawing Horse&#10;2:40 - Shading&#10;3:13 - Figure Drawing&#10;4:11 - Cute Style Drawing&#10;5:16 - Portrait Drawing&#10;6:43 - Outro&#10;&#10;I primarily watched tutorials on Skillshare to learn these techniques. (not sponsored)&#10;&#9654;&#65039; Get ONE MONTH FREE OF PREMIUM using my link: https://skl.sh/3sBFOrf&#10;&#10;Some of the teachers I learned from:&#10;Gabrielle Brickey&#10;Ecky O&#10;JW Learning&#10;&#10;&#9654;&#65039; Where I get my ROYALTY FREE MUSIC FOR YOUTUBE (Get a 30 day free trial!): &#10;https://www.epidemicsound.com/referral/02sj71&#10;&#10;Business Inquiries &#9654;&#65039; michaelbsambusiness@gmail.com&#10;&#10;Find me on all my other social media platforms!&#10;INSTAGRAM &#9654;&#65039; https://www.instagram.com/michaelbsam/&#10;TIKTOK &#9654;&#65039; http://www.tiktok.com/@michaelbsam&#10;MORE VIDEOS &#9654;&#65039; https://www.youtube.com/channel/UCtlVyGMidQ3VcYSYr8Nsm2w?sub_confirmation=1&#10;&#10;Tags: how to draw for beginners, learning to draw, how to draw, learning how to draw, drawing for beginners, drawing basics, drawing 101, drawing tablet, which drawing tablet, how drawing easy, how to draw anime, how to draw a flower, what drawing tablet should I use, how to draw better, how I learned to draw, figure drawing, anime drawing, cartoon drawing, shading drawing, portrait drawing, how to draw people, sketchbook, sketching, what drawing software should I use, michael b-sam&#10;&#10;#Learning #howtodraw"
     channel_title "MBS"
     channel_id "UCtlVyGMidQ3VcYSYr8Nsm2w"
     fav_count 0
@@ -261,7 +261,7 @@ graph [
     step 0
     date "2022-05-24T13:42:16Z"
     title "How To Draw Knuckles From Sonic The Hedgehog 2"
-    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of #SonicMovie2. You can watch ..."
+    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of #SonicMovie2. You can watch it on digital TODAY: https://paramnt.us/WatchSonic2&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -276,7 +276,7 @@ graph [
     step 0
     date "2021-10-31T18:55:24Z"
     title "How to draw basic anatomy"
-    description "The first 1000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/bluebiscuits09211 heyyy new video ..."
+    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/bluebiscuits09211&#10;&#10;&#10;heyyy new video finally ! i hope this helps ;;v;; if you think there's anything i need to improve on please let me know !&#10;life has been kicking my asss but im still trying my best so that's all that matter haha&#10;&#10;&#10;&#10;_______________________________________________________ &#10;&#10;.:Music Used:. &#10;&#10;&#10;&#10084;&#65039;&#8205;Serenity - Lofi Hip Hop Beat&#10; https://www.youtube.com/watch?v=Cx1qHKE_y9Q&#10;&#10;&#10084;&#65039;&#8205;Sorry&#10;https://www.youtube.com/watch?v=jZLcg7IGdnk&#10;&#10;&#10084;&#65039;&#8205;Lighter&#10;https://www.youtube.com/watch?v=QCzRXx1DA_U&#10;&#10;&#10084;&#65039;&#8205;Biscuit&#10;https://www.youtube.com/watch?v=EtZ2m2Zm3vY&#10;&#10;&#10;&#10;i don't own the music, all rights go to their respectful owners ;w; &#10;_________________________________________________________ &#10;&#10;.:Websites:. &#10;&#10;&#9654;Instagram: https://www.instagram.com/bluebescuits/&#8203;&#10;&#10;&#10;&#9654;Twitter: https://mobile.twitter.com/bluebescuits&#10;&#10;&#10;&#10;&#10047; ~ I love you ~ &#10047;V"
     channel_title "Bluebiscuits"
     channel_id "UCGz8UsnQO9C2xz_ZlsxAMRQ"
     fav_count 0
@@ -291,7 +291,7 @@ graph [
     step 0
     date "2022-01-04T14:00:23Z"
     title "How To Draw A Sloth"
-    description "Yay, we're so excited to draw with you! Today, we're learning how to draw a cartoon sloth. Art Supplies ~ This is a list of the ..."
+    description "Yay, we're so excited to draw with you! Today, we're learning how to draw a cartoon sloth. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -306,7 +306,7 @@ graph [
     step 0
     date "2020-10-07T14:28:09Z"
     title "HOW TO DRAW A CUTE CUP DRINK ,STEP BY STEP ,DRAW CUTE THINGS"
-    description "In this video, you can learn &#34; How to draw cute drinking cup &#34; step by step If you want to see more of my videos, You can check out ..."
+    description "In this video, you can learn &#34; How to draw cute drinking cup &#34; step by step&#10;If you want to see more of my videos, You can check out and subscribe to JACK ENTERTAINMENT at the links below &#10;Draw cute things: https://www.youtube.com/channel/UC8vdLmIXTaI_nR0U6jRe-Dg&#10;JACKDesenhos: https://www.youtube.com/channel/UC0HQAlTYVdrYFTDznvOc8Yw&#10;Draw cute-Design: https://www.youtube.com/channel/UCFCr-W4IS5ZoGfUtSBd5lEQ&#10;JACKDibujos: https://www.youtube.com/channel/UC9Ef9pcwB4qQ6QLGpChs9aA&#10;Draw cute-Step by step: https://www.youtube.com/channel/UC0XxBRF_QmkpWJ1FPmVmd1Q&#10;Draw cute-Kawaii: https://www.youtube.com/channel/UCsddAu-OxasA1TGoL5me_PQ&#10;Draw cute-Disegni: https://www.youtube.com/channel/UCn7yjAcTRKwV7AOofHUQmcA&#10;Draw cute-Easy: https://www.youtube.com/channel/UCdqWCQLEVOocojYaA6N_I9A&#10;----------------------------------------------------------------------------------------------&#10;Contact us:&#10;email: cutedrawingentertainment@gmail.com&#10;Facebook:&#8203;https://facebook.com/drawcutethingsbyjack&#10;blogger: https://drawcutethings.blogspot.com/&#10;Subscribe:&#8203;https://youtube.com/channel/UC8vdLmIXTaI_nR0U6jRe-Dg/&#10;----------------------------------------------------------------------------------------------&#10;Draw cute things&#10;Draw cute things for the beginner &#10;Draw cute things step by step&#10;Draw cute things super easy&#10;#Drawcutethings&#10;----------------------------------------------------------------------------------------------&#10;Tekening&#10;Vizatim&#10;&#4661;&#4821;&#4621;&#10;&#1585;&#1587;&#1605;&#10;&#1350;&#1391;&#1377;&#1408;&#1401;&#1400;&#1410;&#1385;&#1397;&#1400;&#1410;&#1398;&#10;R&#601;sm&#10;Marrazketa&#10;&#1052;&#1072;&#1083;&#1103;&#1074;&#1072;&#1085;&#1085;&#1077;&#10;&#2437;&#2457;&#2509;&#2453;&#2472;&#10;Crtanje&#10;&#1056;&#1080;&#1089;&#1091;&#1074;&#1072;&#1085;&#1077;&#10;Dibuix&#10;Pagdrowing&#10;Kujambula&#10;Disegnu&#10;Crtanje&#10;V&#253;kres&#10;Tegning&#10;Tekening&#10;Desegna&#309;o&#10;Joonistamine&#10;Pagguhit&#10;Piirustus&#10;Dessin&#10;Tekening&#10;Debuxo&#10;&#4316;&#4304;&#4334;&#4304;&#4310;&#4312;&#10;Zeichnung&#10;&#931;&#967;&#941;&#948;&#953;&#959;&#10;&#2714;&#2751;&#2724;&#2765;&#2736;&#10;Desen&#10;Zane&#10;Kaha&#10;&#1510;&#1460;&#1497;&#1493;&#1468;&#10;&#2330;&#2367;&#2340;&#2381;&#2352;&#2325;&#2366;&#2352;&#2368;&#10;Teeb duab&#10;Rajz&#10;Teikning&#10;Ihe osise&#10;Gambar&#10;L&#237;n&#237;ocht&#10;Disegno&#10;&#12362;&#32117;&#12363;&#12365;&#10;Gambar&#10;&#3226;&#3263;&#3236;&#3277;&#3248;,&#10;&#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;&#6018;&#6086;&#6035;&#6076;&#6042;&#10;Igishushanyo&#10;&#44536;&#47548;&#10;Xet&#10;&#3758;&#3769;&#3738;&#3777;&#3733;&#3785;&#3745;&#10;Z&#299;m&#275;&#353;ana&#10;Pie&#353;imas&#10;Zeechnen&#10;&#1062;&#1088;&#1090;&#1077;&#1078;&#10;mpitan-&#10;Melukis&#10;&#3361;&#3405;&#3376;&#3399;&#3390;&#3375;&#3391;&#3330;&#3351;&#3405;&#10;Tpin&#289;ija&#10;Tuhi&#10;&#2352;&#2375;&#2326;&#2366;&#2306;&#2325;&#2344;&#10;&#1047;&#1091;&#1088;&#1072;&#1093;&#10;&#4117;&#4143;&#4150;&#4102;&#4157;&#4146;&#4097;&#4156;&#4100;&#4154;&#4152;&#10;&#2352;&#2375;&#2326;&#2366;&#2330;&#2367;&#2340;&#2381;&#2352;&#10;Tegning&#10;&#2842;&#2879;&#2852;&#2893;&#2864;&#2878;&#2841;&#2893;&#2837;&#2856;&#10;&#1585;&#1587;&#1605;&#1608;&#10; &#1606;&#1602;&#1575;&#1588;&#1740; &#10;Rysunek&#10;Desenho&#10;&#2593;&#2608;&#2622;&#2567;&#2672;&#2583;&#10;Desen&#10;&#1056;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#10;Ata&#10;Dealbh&#10;&#1062;&#1088;&#1090;&#1072;&#1114;&#1077;&#10;Ho taka&#10;Kubata&#10;&#1658;&#1575;&#1607;&#1607; &#1706;&#1585;&#1575;&#1574;&#1723; &#10;&#3463;&#3507;&#3539;&#3512;&#10;Kreslenie&#10;Risba&#10;Sawiridda&#10;Dibujo&#10;Ngagambar&#10;Kuchora&#10;Teckning&#10;&#1056;&#1072;&#1089;&#1084;&#1082;&#1072;&#1096;&#1251;&#10;&#2997;&#2992;&#3016;&#2980;&#2994;&#3021;&#10;&#1056;&#1241;&#1089;&#1077;&#1084;&#10;&#3105;&#3149;&#3120;&#3134;&#3119;&#3135;&#3074;&#3095;&#3149;&#10;&#3585;&#3634;&#3619;&#3623;&#3634;&#3604;&#3616;&#3634;&#3614;&#10;&#199;izim&#10;Surat &#10;&#231;ekmek&#10;&#1052;&#1072;&#1083;&#1102;&#1074;&#1072;&#1085;&#1085;&#1103;&#10;&#1672;&#1585;&#1575;&#1574;&#1606;&#1711; ,&#1585;&#1749;&#1587;&#1609;&#1605; &#1587;&#1609;&#1586;&#1609;&#1588; &#10;Chizish&#10;&#272;ang v&#7869;&#10;Arlunio&#10;Ukuzoba&#10;&#1510;&#1497;&#1497;&#1499;&#1506;&#1504;&#1493;&#1504;&#1490;&#10;Yiya&#10;Ukudweba&#10;how to draw step by step easy drawing tutorial&#10;como desenhar passo a passo tutorial desenho simples f&#225;cil&#10;hoe om te teken&#10;si te vizatosh&#10;wie zeichnet man zeichen tutorial leicht&#10;&#4773;&#4757;&#4852;&#4725; &#4773;&#4757;&#4848;&#4634;&#4659;&#4621;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#10;&#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1398;&#1391;&#1377;&#1408;&#1381;&#1388;&#10;nec&#601; &#231;&#601;km&#601;k&#10;nola marraztu&#10;&#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;&#10;&#1103;&#1082; &#1084;&#1072;&#1083;&#1103;&#1074;&#1072;&#1094;&#1100;&#10;kako crtati&#10;&#1082;&#1072;&#1082; &#1076;&#1072; &#1088;&#1080;&#1089;&#1091;&#1074;&#1072;&#1084;&#10;&#3257;&#3271;&#3223;&#3270; &#3256;&#3270;&#3251;&#3270;&#3247;&#3265;&#3253;&#3265;&#3238;&#3265;&#10;com dibuixar&#10;&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;sa unsa nga paagi aron sa pagkalos&#10;mmene kudzatunga&#10;&#22914;&#20309;&#30011;&#10;&#22914;&#20309;&#30059;&#10;nzira yekukwevera&#10;&#3482;&#3548;&#3524;&#3548;&#3512;&#3503; &#3461;&#3507;&#3538;&#3505;&#3530;&#3505;&#3546;&#10;&#44536;&#47532;&#45716; &#48169;&#48277;&#10;cumu a girari&#10;ki jan yo desine&#10;kako nacrtati&#10;&#231;awa bikujin&#10;hvordan man tegner&#10;ako kresli&#357;&#10;kako narisati&#10;como dibujar paso a paso tutorial dibujo simple y f&#225;cil &#10;Kiel desegni&#10;kuidas joonistada&#10;Paano Gumuhit&#10;kuinka piirt&#228;&#228;&#10;comment dessiner pas &#224; pas tutoriel dessin facile&#10;Hoe te tekenjen&#10;mar a tharraing thu&#10;como dese&#241;ar&#10;sut i dynnu&#10;&#4320;&#4317;&#4306;&#4317;&#4320; &#4307;&#4304;&#4309;&#4334;&#4304;&#4322;&#4317;&#4311;&#10;&#960;&#969;&#962; &#957;&#945; &#950;&#969;&#947;&#961;&#945;&#966;&#943;&#963;&#969;&#10;&#2709;&#2695; &#2736;&#2752;&#2724;&#2759; &#2726;&#2763;&#2736;&#2741;&#2753;&#10;yadda za a zana&#10;pehea e huki ai&#10;&#1488;&#1497;&#1498; &#1500;&#1510;&#1497;&#1497;&#1512;&#10;&#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;&#10;kos duab li cas&#10;hoe te tekenen&#10;hogyan rajzolj&#10;esi ise&#10;&#1493;&#1493;&#1497; &#1510;&#1493; &#1510;&#1497;&#1506;&#1503;&#10;cara menggambar&#10;bi o &#7779;e fa&#10;conas a tharraingt&#10;hvernig &#225; a&#240; teikna&#10;come disegnare passo dopo passo tutorial disegno facile&#10;&#25551;&#12367;&#26041;&#27861;&#10;cara nggambar&#10;&#6042;&#6036;&#6080;&#6036;&#6018;&#6076;&#6042;&#10;&#3751;&#3764;&#3735;&#3765;&#3713;&#3762;&#3737;&#3777;&#3733;&#3785;&#3745;&#10;duci&#10;k&#257; z&#299;m&#275;t&#10;kaip pie&#353;ti&#10;w&#233;i zeechnen&#10;&#1082;&#1072;&#1082;&#1086; &#1076;&#1072; &#1094;&#1088;&#1090;&#1072;&#1096;&#10;&#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3381;&#3376;&#3375;&#3405;&#3349;&#3405;&#3349;&#3363;&#3330;&#10;bagaimana untuk menarik&#10;ahoana no hisintonana&#10;kif tfassal&#10;me pehea ki te utu&#10;&#2325;&#2360;&#2375; &#2325;&#2366;&#2338;&#2366;&#2357;&#2375;&#10;&#1093;&#1101;&#1088;&#1093;&#1101;&#1085; &#1079;&#1091;&#1088;&#1072;&#1093;&#10;&#2325;&#2360;&#2352;&#2368; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2327;&#2352;&#2381;&#2344;&#2375;&#10;hvordan &#229; tegne&#10;&#1669;&#1606;&#1707;&#1607; &#1585;&#1587;&#1605;&#10;&#1670;&#1591;&#1608;&#1585;&#1740; &#1591;&#1585;&#1575;&#1581;&#1740; &#1705;&#1606;&#1740;&#1605;&#10;jak narysowa&#263;&#10;&#2581;&#2623;&#2613;&#2631;&#2562; &#2582;&#2623;&#2673;&#2586;&#2595;&#2622; &#2617;&#2632;&#10;&#1082;&#1072;&#1085;&#1090;&#1080;&#1087; &#1090;&#1072;&#1088;&#1090;&#1072;&#1090;&#10;cum s&#259; atrag&#259;&#10;&#1082;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;&#10;le auala e faalatalata&#10;&#1050;&#1072;&#1082;&#1086; &#1094;&#1088;&#1090;&#1072;&#1090;&#1080;&#10;ho hohela joang&#10;&#1706;&#1574;&#1610;&#1606; &#1658;&#1575;&#1607;&#1610;&#1608;&#10;sida loo sawiro&#10;jinsi ya kuteka&#10;hur man ritar&#10;kumaha carana menggambar&#10;&#1095;&#1251; &#1090;&#1072;&#1074;&#1088; &#1073;&#1072; &#1082;&#1072;&#1096;&#1080;&#1076;&#1072;&#1085;&#1080;&#10;&#3623;&#3634;&#3604;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;&#10;&#2997;&#2992;&#3016;&#2997;&#2980;&#3009; &#2958;&#2986;&#3021;&#2986;&#2975;&#3007;&#10;jak kreslit&#10;&#3086;&#3122;&#3134; &#3095;&#3136;&#3119;&#3134;&#3122;&#3135;&#10;nas&#305;l &#231;izilir&#10;&#1103;&#1082; &#1085;&#1072;&#1084;&#1072;&#1083;&#1102;&#1074;&#1072;&#1090;&#1080;&#10;&#1705;&#1729; &#1705;&#1587; &#1591;&#1585;&#1581; &#1575;&#1662;&#1606;&#1740; &#1591;&#1585;&#1601; &#1605;&#1578;&#1608;&#1580;&#1729; &#1705;&#1585;&#1606;&#1746; &#1705;&#1746; &#1604;&#1574;&#1746;&#10;qanday chizish kerak&#10;l&#224;m th&#7871; n&#224;o &#273;&#7875; v&#7869;&#10;indlela yokudweba&#10;indlela ukudweba"
     channel_title "Draw cute things"
     channel_id "UC8vdLmIXTaI_nR0U6jRe-Dg"
     fav_count 0
@@ -321,7 +321,7 @@ graph [
     step 0
     date "2021-04-08T13:00:18Z"
     title "How To Draw A Cute Cat Unicorn"
-    description "Today, Hadley and I are learning how to draw a cute cat unicorn! We hope you and your kids have a lot of fun following along with ..."
+    description "Today, Hadley and I are learning how to draw a cute cat unicorn! We hope you and your kids have a lot of fun following along with us. &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -336,7 +336,7 @@ graph [
     step 0
     date "2021-11-20T14:00:06Z"
     title "How to Draw Piper Rockelle &#129321;Famous YouTuber"
-    description "Learn How to Draw cute Piper Rockelle wearing her BBY merch outfit. Easy, step by step cartoon girl drawing."
+    description "Learn How to Draw cute Piper Rockelle wearing her BBY merch outfit. Easy, step by step cartoon girl drawing. #Drawsocuteyoutuber #piperrockelle&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -351,7 +351,7 @@ graph [
     step 0
     date "2021-08-05T13:20:49Z"
     title "How To Draw A Nintendo Switch Folding Surprise"
-    description "Today, Austin and I are making and drawing a really cool Nintendo Switch folding surprise. When it's folded up, it's in controller ..."
+    description "Today, Austin and I are making and drawing a really cool Nintendo Switch folding surprise. When it's folded up, it's in controller mode! When it's open, it's in screen mode! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -366,7 +366,7 @@ graph [
     step 0
     date "2022-01-14T13:00:23Z"
     title "How to draw a face / step by step / draw with me"
-    description "Hi, I'm Chommang. I made a video with my voice after a long time. Today is a video of how to draw a face. Let's draw together!"
+    description "&#128056;Hi, I'm Chommang.&#10; I made a video with my voice after a long time.&#10;Today is a video of how to draw a face.&#10;Let's draw together!&#10;I hope you have a good day. &#128522;&#10;(After you draw this picture, if you post it on Instagram and tag it @chommang, I'll look around it often and hit the like button.&#129303;)&#10;&#10;&#128140;&#10;Daily drawing on Instagram : @chommang&#10;&#10;&#127912;&#10;Drawing: 4B Pencil&#10;&#10;&#128161;&#10;My Pinterest&#10;https://www.pinterest.co.kr/chommang_drawing/drawing-practice_chommang&#10;&#10;&#128204; My Custom Procreate Brush and texture.&#10;https://www.etsy.com/listing/1019058443/watercolor-painting-brushes-for?ref=shop_home_active_1&#38;pro=1&#10;&#10;&#128722;Drawing technique&#10;https://www.youtube.com/playlist?list=PLz6PZDKHWxi_32GbseBfHslxAKzXtKJgl&#10;&#10;#pencildrawing #drawing #howtodraw"
     channel_title "&#51312;&#47609; Chommang_Drawing"
     channel_id "UCm5108VByLkHnu4-b-moBLQ"
     fav_count 0
@@ -381,7 +381,7 @@ graph [
     step 0
     date "2016-02-11T00:53:43Z"
     title "How To Draw A Volcano"
-    description "Learn how to draw a volcano erupting and exploding lava everywhere! EMAIL A PHOTO OF YOUR ART: ..."
+    description "Learn how to draw a volcano erupting and exploding lava everywhere!&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -396,7 +396,7 @@ graph [
     step 0
     date "2018-02-28T15:00:08Z"
     title "How to Draw Super Sonic | Art Tutorial"
-    description "Welcome to the largest library of online classes for artists. Good morning everyone! In today's Art Tutorial I'll be showing you How ..."
+    description "Welcome to the largest library of online classes for artists.&#10;&#10;Good morning everyone! In today's Art Tutorial I'll be showing you How to Draw Super Sonic. Grab your paper, ink, pens or pencils and lets get started!I have a large selection of educational online classes for you to enjoy so please subscribe.&#10;&#10;New art tutorials posted 7 days a week so be sure to SUBSCRIBE and click that bell icon to get notifications.&#10;&#10;LIKE and SHARE this video and please check out more of our easy art tutorials so you can learn how to get better at drawing. We have one of the largest drawing courses on the internet and we post them 7 days a week for beginners and young aspiring artists. We have over a thousand easy to draw cartoon characters in our massive Playlist library.&#10;&#10;Select from any of the Playlists below.&#10;&#10;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10;&#10;Learn How to Draw Chibi Characters&#10;View this Playlist- goo.gl/gRhWCo&#10;&#10;Learn How to Draw Pokemon Characters&#10;View this Playlist- goo.gl/EJpnJ0&#10;&#10;Learn How to Draw Heroes &#38; Villains&#10;View this Playlist- goo.gl/5TkggF&#10;&#10;Learn How to Draw Dragon Ball Z Characters&#10;View this Playlist- goo.gl/uFjwHm&#10;&#10;Learn How to Draw FNaF Characters&#10;View this Playlist- goo.gl/sGRKhs&#10;&#10;Learn How to Draw Video Game Characters&#10;View this Playlist- goo.gl/j18FQO&#10;&#10;Learn How to Draw Anime Characters&#10;View this Playlist- goo.gl/FhqBaB&#10;&#10;Learn How to Draw Teen Titans GO! Characters&#10;View this Playlist- goo.gl/ATt1a6&#10;&#10;Learn How to Draw Clash of Clans Characters&#10;View this Playlist- goo.gl/SLNPx4&#10;&#10;Learn How to Draw Minecraft Characters&#10;View this Playlist- goo.gl/er1sfi&#10;&#10;Learn How to Draw Popular TV Characters&#10;View this Playlist- goo.gl/3FxVDA&#10;&#10;Learn How to Draw Disney Characters&#10;View this Playlist- goo.gl/R4ItYd&#10;&#10;Learn How to Draw Movie Characters&#10;View this Playlist- goo.gl/4bHJU3&#10;&#10;Learn How to Draw Star Wars Characters&#10;View this Playlist- goo.gl/hnRKUK&#10;&#10;Learn How to Draw Undertale Characters&#10;View this Playlist- goo.gl/5YVnk7&#10;&#10;Learn How to Draw Wrestling Superstars&#10;View this Playlist- goo.gl/eO9MKQ&#10;&#10;Learn How to Draw Popular Youtubers&#10;View this Playlist- goo.gl/46MXk1&#10;&#10;Learn How to Draw Adventure Time Characters&#10;View this Playlist- goo.gl/HX3iUN&#10;&#10;Learn How to Draw Gravity Falls Characters&#10;View this Playlist- goo.gl/P4SCsF&#10;&#10;Learn How to Draw Shopkins Characters&#10;View this Playlist- goo.gl/64QLIN&#10;&#10;Learn How to Draw for Beginners Art Lessons&#10;View this Playlist- goo.gl/38qbbN&#10;&#10;Learn How to Draw for Halloween Characters&#10;View this Playlist- goo.gl/WsVbwy&#10;&#10;Learn How to Draw for Christmas Characters&#10;View this Playlist- goo.gl/pThR4q&#10;&#10;We also have a library of Edible Art tutorials in our Epic Baking Playlist- goo.gl/vWi7VQ&#10;&#10;Visit our Fun Stuff Playlist to see some of our animated shorts. We add new ones once in a while.&#10;Visit the Fun Stuff Playlist- https://goo.gl/yHdziC&#10;&#10;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10;&#10;Thanks for watching everyone.&#10;#howtodraw #drawing #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -411,7 +411,7 @@ graph [
     step 0
     date "2020-03-20T15:33:40Z"
     title "How To Draw A Pok&#233; Ball Folding Surprise"
-    description "We love Pok&#233;mon! This was also one of our most requested lessons. Today, we're learning how to draw a Pok&#233; Ball folding ..."
+    description "We love Pok&#233;mon! This was also one of our most requested lessons. Today, we're learning how to draw a Pok&#233; Ball folding surprise.  We drew Pikachu inside, but you could draw any Pok&#233;mon you want.&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -426,7 +426,7 @@ graph [
     step 0
     date "2020-06-20T13:30:03Z"
     title "How to draw Bodies (Tutorial) | Drawlikeasir"
-    description "How to draw a woman &#9655;&#9655; https://youtu.be/r0NlfaCIaB8 An elaborate Tutorial on how to draw the male body (for beginners and ..."
+    description "How to draw a woman &#9654;&#9654; https://youtu.be/r0NlfaCIaB8 &#10;&#10;An elaborate Tutorial on how to draw the male body (for beginners and advanced artists).&#10;I'm going into detail about anatomy and also drawing muscles here, so you are in for a treat :)&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#128073;&#128073; https://drawlikeasir.com/materials &#128072;&#128072; &#10;&#10;00:00 - Beginning&#10;00:50 - Drawing Basic Proportions&#10;03:10 - Tips about drawing proportions&#10;04:00 - Drawings Muscles &#38; details&#10;08:00 - Summary &#38; Overview&#10;&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Website -------------- https://drawlikeasir.com&#10;&#10149; Twitter ---------------- https://twitter.com/Drawinglikeasir&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;&#10;&#127925; Background Music &#127925;&#10;https://youtu.be/tmP2EqYgQQM"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -441,7 +441,7 @@ graph [
     step 0
     date "2021-02-26T14:00:08Z"
     title "How To Draw A Panda"
-    description "Austin and I are learning how to draw a cartoon panda today! We hope you have fun following along with us. &#8205;   JOIN OUR ART ..."
+    description "Austin and I are learning how to draw a cartoon panda today! We hope you have fun following along with us. &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -456,7 +456,7 @@ graph [
     step 0
     date "2020-02-16T16:08:10Z"
     title "HOW TO DRAW A CUTE CAKE, DRAW CUTE THINGS"
-    description "In this video, you can learn &#34; How to draw cute cake &#34; step by step If you want to see more of my videos, You can check out and ..."
+    description "In this video, you can learn &#34; How to draw cute cake &#34; step by step&#10;If you want to see more of my videos, You can check out and subscribe to JACK ENTERTAINMENT at the links below &#10;Draw cute things: https://www.youtube.com/channel/UC8vdLmIXTaI_nR0U6jRe-Dg&#10;JACKDesenhos: https://www.youtube.com/channel/UC0HQAlTYVdrYFTDznvOc8Yw&#10;Draw cute-Design: https://www.youtube.com/channel/UCFCr-W4IS5ZoGfUtSBd5lEQ&#10;JACKDibujos: https://www.youtube.com/channel/UC9Ef9pcwB4qQ6QLGpChs9aA&#10;Draw cute-Step by step: https://www.youtube.com/channel/UC0XxBRF_QmkpWJ1FPmVmd1Q&#10;Draw cute-Kawaii: https://www.youtube.com/channel/UCsddAu-OxasA1TGoL5me_PQ&#10;Draw cute-Disegni: https://www.youtube.com/channel/UCn7yjAcTRKwV7AOofHUQmcA&#10;Draw cute-Easy: https://www.youtube.com/channel/UCdqWCQLEVOocojYaA6N_I9A&#10;----------------------------------------------------------------------------------------------&#10;Contact us:&#10;email: cutedrawingentertainment@gmail.com&#10;Facebook:&#8203;https://facebook.com/drawcutethingsbyjack&#10;blogger: https://drawcutethings.blogspot.com/&#10;Subscribe:&#8203;https://youtube.com/channel/UC8vdLmIXTaI_nR0U6jRe-Dg/&#10;----------------------------------------------------------------------------------------------&#10;Draw cute things&#10;Draw cute things for the beginner &#10;Draw cute things step by step&#10;Draw cute things super easy&#10;#Drawcutethings&#10;----------------------------------------------------------------------------------------------&#10;Tekening&#10;Vizatim&#10;&#4661;&#4821;&#4621;&#10;&#1585;&#1587;&#1605;&#10;&#1350;&#1391;&#1377;&#1408;&#1401;&#1400;&#1410;&#1385;&#1397;&#1400;&#1410;&#1398;&#10;R&#601;sm&#10;Marrazketa&#10;&#1052;&#1072;&#1083;&#1103;&#1074;&#1072;&#1085;&#1085;&#1077;&#10;&#2437;&#2457;&#2509;&#2453;&#2472;&#10;Crtanje&#10;&#1056;&#1080;&#1089;&#1091;&#1074;&#1072;&#1085;&#1077;&#10;Dibuix&#10;Pagdrowing&#10;Kujambula&#10;Disegnu&#10;Crtanje&#10;V&#253;kres&#10;Tegning&#10;Tekening&#10;Desegna&#309;o&#10;Joonistamine&#10;Pagguhit&#10;Piirustus&#10;Dessin&#10;Tekening&#10;Debuxo&#10;&#4316;&#4304;&#4334;&#4304;&#4310;&#4312;&#10;Zeichnung&#10;&#931;&#967;&#941;&#948;&#953;&#959;&#10;&#2714;&#2751;&#2724;&#2765;&#2736;&#10;Desen&#10;Zane&#10;Kaha&#10;&#1510;&#1460;&#1497;&#1493;&#1468;&#10;&#2330;&#2367;&#2340;&#2381;&#2352;&#2325;&#2366;&#2352;&#2368;&#10;Teeb duab&#10;Rajz&#10;Teikning&#10;Ihe osise&#10;Gambar&#10;L&#237;n&#237;ocht&#10;Disegno&#10;&#12362;&#32117;&#12363;&#12365;&#10;Gambar&#10;&#3226;&#3263;&#3236;&#3277;&#3248;,&#10;&#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;&#6018;&#6086;&#6035;&#6076;&#6042;&#10;Igishushanyo&#10;&#44536;&#47548;&#10;Xet&#10;&#3758;&#3769;&#3738;&#3777;&#3733;&#3785;&#3745;&#10;Z&#299;m&#275;&#353;ana&#10;Pie&#353;imas&#10;Zeechnen&#10;&#1062;&#1088;&#1090;&#1077;&#1078;&#10;mpitan-&#10;Melukis&#10;&#3361;&#3405;&#3376;&#3399;&#3390;&#3375;&#3391;&#3330;&#3351;&#3405;&#10;Tpin&#289;ija&#10;Tuhi&#10;&#2352;&#2375;&#2326;&#2366;&#2306;&#2325;&#2344;&#10;&#1047;&#1091;&#1088;&#1072;&#1093;&#10;&#4117;&#4143;&#4150;&#4102;&#4157;&#4146;&#4097;&#4156;&#4100;&#4154;&#4152;&#10;&#2352;&#2375;&#2326;&#2366;&#2330;&#2367;&#2340;&#2381;&#2352;&#10;Tegning&#10;&#2842;&#2879;&#2852;&#2893;&#2864;&#2878;&#2841;&#2893;&#2837;&#2856;&#10;&#1585;&#1587;&#1605;&#1608;&#10; &#1606;&#1602;&#1575;&#1588;&#1740; &#10;Rysunek&#10;Desenho&#10;&#2593;&#2608;&#2622;&#2567;&#2672;&#2583;&#10;Desen&#10;&#1056;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#10;Ata&#10;Dealbh&#10;&#1062;&#1088;&#1090;&#1072;&#1114;&#1077;&#10;Ho taka&#10;Kubata&#10;&#1658;&#1575;&#1607;&#1607; &#1706;&#1585;&#1575;&#1574;&#1723; &#10;&#3463;&#3507;&#3539;&#3512;&#10;Kreslenie&#10;Risba&#10;Sawiridda&#10;Dibujo&#10;Ngagambar&#10;Kuchora&#10;Teckning&#10;&#1056;&#1072;&#1089;&#1084;&#1082;&#1072;&#1096;&#1251;&#10;&#2997;&#2992;&#3016;&#2980;&#2994;&#3021;&#10;&#1056;&#1241;&#1089;&#1077;&#1084;&#10;&#3105;&#3149;&#3120;&#3134;&#3119;&#3135;&#3074;&#3095;&#3149;&#10;&#3585;&#3634;&#3619;&#3623;&#3634;&#3604;&#3616;&#3634;&#3614;&#10;&#199;izim&#10;Surat &#10;&#231;ekmek&#10;&#1052;&#1072;&#1083;&#1102;&#1074;&#1072;&#1085;&#1085;&#1103;&#10;&#1672;&#1585;&#1575;&#1574;&#1606;&#1711; ,&#1585;&#1749;&#1587;&#1609;&#1605; &#1587;&#1609;&#1586;&#1609;&#1588; &#10;Chizish&#10;&#272;ang v&#7869;&#10;Arlunio&#10;Ukuzoba&#10;&#1510;&#1497;&#1497;&#1499;&#1506;&#1504;&#1493;&#1504;&#1490;&#10;Yiya&#10;Ukudweba&#10;how to draw step by step easy drawing tutorial&#10;como desenhar passo a passo tutorial desenho simples f&#225;cil&#10;hoe om te teken&#10;si te vizatosh&#10;wie zeichnet man zeichen tutorial leicht&#10;&#4773;&#4757;&#4852;&#4725; &#4773;&#4757;&#4848;&#4634;&#4659;&#4621;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#10;&#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1398;&#1391;&#1377;&#1408;&#1381;&#1388;&#10;nec&#601; &#231;&#601;km&#601;k&#10;nola marraztu&#10;&#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;&#10;&#1103;&#1082; &#1084;&#1072;&#1083;&#1103;&#1074;&#1072;&#1094;&#1100;&#10;kako crtati&#10;&#1082;&#1072;&#1082; &#1076;&#1072; &#1088;&#1080;&#1089;&#1091;&#1074;&#1072;&#1084;&#10;&#3257;&#3271;&#3223;&#3270; &#3256;&#3270;&#3251;&#3270;&#3247;&#3265;&#3253;&#3265;&#3238;&#3265;&#10;com dibuixar&#10;&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;sa unsa nga paagi aron sa pagkalos&#10;mmene kudzatunga&#10;&#22914;&#20309;&#30011;&#10;&#22914;&#20309;&#30059;&#10;nzira yekukwevera&#10;&#3482;&#3548;&#3524;&#3548;&#3512;&#3503; &#3461;&#3507;&#3538;&#3505;&#3530;&#3505;&#3546;&#10;&#44536;&#47532;&#45716; &#48169;&#48277;&#10;cumu a girari&#10;ki jan yo desine&#10;kako nacrtati&#10;&#231;awa bikujin&#10;hvordan man tegner&#10;ako kresli&#357;&#10;kako narisati&#10;como dibujar paso a paso tutorial dibujo simple y f&#225;cil &#10;Kiel desegni&#10;kuidas joonistada&#10;Paano Gumuhit&#10;kuinka piirt&#228;&#228;&#10;comment dessiner pas &#224; pas tutoriel dessin facile&#10;Hoe te tekenjen&#10;mar a tharraing thu&#10;como dese&#241;ar&#10;sut i dynnu&#10;&#4320;&#4317;&#4306;&#4317;&#4320; &#4307;&#4304;&#4309;&#4334;&#4304;&#4322;&#4317;&#4311;&#10;&#960;&#969;&#962; &#957;&#945; &#950;&#969;&#947;&#961;&#945;&#966;&#943;&#963;&#969;&#10;&#2709;&#2695; &#2736;&#2752;&#2724;&#2759; &#2726;&#2763;&#2736;&#2741;&#2753;&#10;yadda za a zana&#10;pehea e huki ai&#10;&#1488;&#1497;&#1498; &#1500;&#1510;&#1497;&#1497;&#1512;&#10;&#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;&#10;kos duab li cas&#10;hoe te tekenen&#10;hogyan rajzolj&#10;esi ise&#10;&#1493;&#1493;&#1497; &#1510;&#1493; &#1510;&#1497;&#1506;&#1503;&#10;cara menggambar&#10;bi o &#7779;e fa&#10;conas a tharraingt&#10;hvernig &#225; a&#240; teikna&#10;come disegnare passo dopo passo tutorial disegno facile&#10;&#25551;&#12367;&#26041;&#27861;&#10;cara nggambar&#10;&#6042;&#6036;&#6080;&#6036;&#6018;&#6076;&#6042;&#10;&#3751;&#3764;&#3735;&#3765;&#3713;&#3762;&#3737;&#3777;&#3733;&#3785;&#3745;&#10;duci&#10;k&#257; z&#299;m&#275;t&#10;kaip pie&#353;ti&#10;w&#233;i zeechnen&#10;&#1082;&#1072;&#1082;&#1086; &#1076;&#1072; &#1094;&#1088;&#1090;&#1072;&#1096;&#10;&#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3381;&#3376;&#3375;&#3405;&#3349;&#3405;&#3349;&#3363;&#3330;&#10;bagaimana untuk menarik&#10;ahoana no hisintonana&#10;kif tfassal&#10;me pehea ki te utu&#10;&#2325;&#2360;&#2375; &#2325;&#2366;&#2338;&#2366;&#2357;&#2375;&#10;&#1093;&#1101;&#1088;&#1093;&#1101;&#1085; &#1079;&#1091;&#1088;&#1072;&#1093;&#10;&#2325;&#2360;&#2352;&#2368; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2327;&#2352;&#2381;&#2344;&#2375;&#10;hvordan &#229; tegne&#10;&#1669;&#1606;&#1707;&#1607; &#1585;&#1587;&#1605;&#10;&#1670;&#1591;&#1608;&#1585;&#1740; &#1591;&#1585;&#1575;&#1581;&#1740; &#1705;&#1606;&#1740;&#1605;&#10;jak narysowa&#263;&#10;&#2581;&#2623;&#2613;&#2631;&#2562; &#2582;&#2623;&#2673;&#2586;&#2595;&#2622; &#2617;&#2632;&#10;&#1082;&#1072;&#1085;&#1090;&#1080;&#1087; &#1090;&#1072;&#1088;&#1090;&#1072;&#1090;&#10;cum s&#259; atrag&#259;&#10;&#1082;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;&#10;le auala e faalatalata&#10;&#1050;&#1072;&#1082;&#1086; &#1094;&#1088;&#1090;&#1072;&#1090;&#1080;&#10;ho hohela joang&#10;&#1706;&#1574;&#1610;&#1606; &#1658;&#1575;&#1607;&#1610;&#1608;&#10;sida loo sawiro&#10;jinsi ya kuteka&#10;hur man ritar&#10;kumaha carana menggambar&#10;&#1095;&#1251; &#1090;&#1072;&#1074;&#1088; &#1073;&#1072; &#1082;&#1072;&#1096;&#1080;&#1076;&#1072;&#1085;&#1080;&#10;&#3623;&#3634;&#3604;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;&#10;&#2997;&#2992;&#3016;&#2997;&#2980;&#3009; &#2958;&#2986;&#3021;&#2986;&#2975;&#3007;&#10;jak kreslit&#10;&#3086;&#3122;&#3134; &#3095;&#3136;&#3119;&#3134;&#3122;&#3135;&#10;nas&#305;l &#231;izilir&#10;&#1103;&#1082; &#1085;&#1072;&#1084;&#1072;&#1083;&#1102;&#1074;&#1072;&#1090;&#1080;&#10;&#1705;&#1729; &#1705;&#1587; &#1591;&#1585;&#1581; &#1575;&#1662;&#1606;&#1740; &#1591;&#1585;&#1601; &#1605;&#1578;&#1608;&#1580;&#1729; &#1705;&#1585;&#1606;&#1746; &#1705;&#1746; &#1604;&#1574;&#1746;&#10;qanday chizish kerak&#10;l&#224;m th&#7871; n&#224;o &#273;&#7875; v&#7869;&#10;indlela yokudweba&#10;indlela ukudweba"
     channel_title "Draw cute things"
     channel_id "UC8vdLmIXTaI_nR0U6jRe-Dg"
     fav_count 0
@@ -471,7 +471,7 @@ graph [
     step 0
     date "2019-11-21T15:42:59Z"
     title "How To Draw A Puppy Present Folding Surprise"
-    description "The holidays are a perfect time to spend time together with your family and the people you love. One of our favorite things to do as ..."
+    description "The holidays are a perfect time to spend time together with your family and the people you love. One of our favorite things to do as a family is ART! To celebrate YouTube Kids app &#34;Together Time,&#34; we thought it would be fun to draw a puppy present folding surprise!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -486,7 +486,7 @@ graph [
     step 0
     date "2021-09-20T21:36:08Z"
     title "Draw Minion | How To Draw A Minion"
-    description "Learn How to Draw a Minion from Despicable Me. If you enjoyed today's lessons then you may want to challenge yourself on our ..."
+    description "Learn How to Draw a Minion from Despicable Me. If you enjoyed today's lessons then you may want to challenge yourself on our main channel Cartooning Club (formerly Cartooning 4 Kids). Or, you can stay right here and enjoy lessons designed for kids and beginners artists.&#10;&#10;Check out our Cartooning Club Main channel for thousands more drawing tutorials like this: https://www.youtube.com/user/cartooning4kids&#10;&#10;***********************************************************************************&#10;&#10;#howtodraw #cartooningclub"
     channel_title "Cartooning Club Junior"
     channel_id "UCwuY5vFq1JrYuJUldW1-kYg"
     fav_count 0
@@ -501,7 +501,7 @@ graph [
     step 0
     date "2015-07-29T13:32:14Z"
     title "How To Draw A Minion"
-    description "Banana! Learn how to draw a minion with us. Here's also the link to the official Minion movie website, where you can reference ..."
+    description "Banana! Learn how to draw a minion with us. Here's also the link to the official Minion movie website, where you can reference other minion images http://www.minionsmovie.com/minions.html&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -516,7 +516,7 @@ graph [
     step 0
     date "2022-06-29T13:00:04Z"
     title "How to Draw a Cloud Smoothie Cute Drink &#9729;&#65039; Summer Art Series #17"
-    description "Mmmm! Perfect Drink for Summer! Learn How to Draw a cute Cloud Smoothie. Easy step by step kawaii Drink Food art."
+    description "Mmmm! Perfect Drink for Summer! Learn How to Draw a cute Cloud Smoothie. Easy step by step kawaii Drink Food art. #drawsocutesummer&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -531,7 +531,7 @@ graph [
     step 0
     date "2017-07-20T14:17:48Z"
     title "How To Draw The Pusheen Cat Eating A Cookie *GIVEAWAY*"
-    description "THANKS to Gund for sending us this adorable plush Pusheen. Visit their website to purchase her https://goo.gl/1CPJxU Follow ..."
+    description "&#10084;&#65039;  THANKS to Gund for sending us this adorable plush Pusheen. Visit their website to purchase her https://goo.gl/1CPJxU Follow along with us and learn how to draw the Pusheen cat eating a cookie! Stay until the end for details on how to win this cute little plush from Gund!&#10;&#127912;   ART SUPPLIES https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#9993;&#65039;  EMAIL a photo of your child's artwork to:&#10;myart@artforkidshub.com&#10;&#10;&#128230;  MAIL your child's artwork to:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -546,7 +546,7 @@ graph [
     step 0
     date "2020-03-19T15:01:07Z"
     title "How to Draw Faces for Beginners | Anime Manga Drawing Tutorial"
-    description "START HERE! Back to the basics! Learn how I draw OR how to draw faces in my Anime and Manga art style for beginners step by ..."
+    description "START HERE! Back to the basics! Learn how I draw OR how to draw faces in my Anime and Manga art style for beginners step by step. This Drawing tutorial covers both male and female frontal views of the face.&#10;&#10;GET MY APPLE BLACK MANGA &#38; HOW TO DRAW BOOKS: &#10;https://www.amazon.com/shop/whytmanga/list/2JHV82TV1QX2N&#10;PATREON: https://www.patreon.com/WhytManga&#10;&#10;APPLE BLACK OFFICIAL WEBSITE: &#10;https://www.saturday-am.com/series/apple-black/&#10;&#10;READ BACASSI:&#10;https://www.saturday-am.com/issues/satpm2&#10;&#10;DOWNLOAD THE SATURDAY AM MOBILE APP FREE!&#10;https://www.saturday-am.com/app&#10;&#10;FOLLOW ME ON SOCIAL MEDIA!&#10;INSTAGRAM:  http://www.instagram.com/WhytManga&#10;TWITTER:        http://www.twitter.com/WhytManga&#10;TWITCH:         https://www.twitch.tv/whytmanga&#10;&#10;FACEBOOK:    http://www.facebook.com/WhytManga&#10;REDDIT:          https://www.reddit.com/r/WhytManga&#10;DISCORD:       https://discord.gg/bC6KXQe&#10;&#10;READ APPLE BLACK HERE FREE [ONLY EARLY CHAPTER(S)]: &#10;https://pilotmanga.com/series/apple-black/&#10;&#10;LEARN ART! &#38; GET 2 FREE MONTHS OF SKILLSHARE HERE:&#10;https://skillshare-ambassador.pxf.io/WhytManga&#10;&#10;POPULAR ART VIDEO PLAYLISTS&#10;HOW TO WRITE STORIES VIDEOS: https://www.youtube.com/watch?v=Jl7aYar1E7c&#38;list=PLvbRG_rCROkfHpM2DTHnOaxPw-62f-LJT&#10;MANGA TUTORIALS: https://www.youtube.com/watch?v=iA54SgqLbzI&#38;list=PLvbRG_rCROkfqungjT2BxCQMPhd8malem&#10;VIDEOS ABOUT MY MANGA/COMICS: https://www.youtube.com/watch?v=SZVN6MNBS9s&#38;list=PLvbRG_rCROkd86vpJBVS7EeYQ4SuceLeK&#10;ART CHALLENGES: https://www.youtube.com/watch?v=PiNCtdfgk2I&#38;list=PLvbRG_rCROkdmwrL7DSpzIi3qb_edd1Lf&#10;DIGITAL ART VIDEOS: https://www.youtube.com/watch?v=8I4uEmCqpME&#38;list=PLvbRG_rCROkeNoIc0jtn-0KYe_dm5lyMz&#10;TRADITIONAL ART VIDEOS: https://www.youtube.com/watch?v=GDHG0ZcM8Eo&#38;list=PLvbRG_rCROkfBJycgcsOdCiAZ51xP1HGt&#10;MANGA TUTORIALS: https://www.youtube.com/watch?v=13LzsThej88&#38;list=PLvbRG_rCROkfUVF8K-bt2l2vRekibU1p5&#10;ANATOMY VIDEOS: https://www.youtube.com/watch?v=GLAap-xx1xk&#38;list=PLvbRG_rCROkdYObsgyOkD73ieuVx48cyh&#10;&#10;MUSIC BY &#34;OVER9000&#34;&#10;Youtube: https://www.youtube.com/c/over9000&#10;&#10;NEW VIDEOS EVERY WEEK! THURSDAYS AND SATURDAYS! &#10;Tutorials, Art and Writing Tips, Reviews, Fanart, Drawing Challenges, Fun Discussions, Contests, Giveaways, Specials, Art and Drawing Challenges, Comic | Manga Updates and more!&#10;&#10;MY MANGA TOOLS:&#10;Deleter G-pen, Deleter Type A B4 Comic book Paper, Deleter type 6 ink, Manga Studio 5, Clip Studio Paint EX, Photoshop, Illustrator After Effects, InDesign, Final Cut Pro X, SAI, Mechanical Pencils, Erasers, Rulers, Brushes, Gouache, Water Color, Copic Markers Ciao 72 B, Copic Marker Sketch 72 A, Skin Tone Copic Markers, White pigment Signo pen, Pentel Brush Pen, Copic Refills, Mustek A3 Pro 1200 USB Scanner, Pen Tablets, Screentones, Spectrum Noir Illustrator and Classique Markers, Spectrum Noir Art Liner, SN Premium Marker Pad and Pizza&#10;&#10;#HowtoDraw #Anime #DrawingTutorial&#10;THANKS FOR HITTING THE NOTIFICATION BELL, SUBSCRIBE &#38; LIKE BUTTONS."
     channel_title "Whyt Manga"
     channel_id "UCvMBMKniUFj89VwhH-MOG8w"
     fav_count 0
@@ -561,7 +561,7 @@ graph [
     step 0
     date "2018-01-12T16:42:36Z"
     title "How To Draw Cartoon Cotton Candy"
-    description "It's Fun-Friday, time to grab those markers and follow along with us. Today, we're learning how to draw cartoon cotton candy!"
+    description "It&#8217;s Fun-Friday, time to grab those markers and follow along with us. Today, we&#8217;re learning how to draw cartoon cotton candy!&#10;We always hope you&#8217;re going to follow along with us so we can draw together. Art is always more fun with friends!&#10;&#10;&#127912;   ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -576,7 +576,7 @@ graph [
     step 0
     date "2021-04-19T10:45:00Z"
     title "How to draw a rabbit from numbers 200"
-    description "Easy step by step drawing on how to draw a rabbit from numbers 200, you can pause the video at every step to follow the steps of ..."
+    description "Easy step by step drawing on how to draw a rabbit from numbers 200, you can pause the video at every step to follow the steps of drawing carefully and you can enjoy with coloring as well. Happy Day :)&#10;&#10;1. Car drawing: https://bit.ly/33YK6uV&#10;2. Hero drawing: https://bit.ly/2EbhKDj&#10;3. Amazing drawing: https://bit.ly/2sRmGKT&#10;4. Drawing pages:  https://bit.ly/352088s&#10;5. Movie Character: https://bit.ly/2rgQYqd&#10;6. Drawing easy:  https://bit.ly/352ic2d&#10;7. Best Fun Videos: https://bit.ly/2LAUYIZ&#10;8. Animal Coloring: https://bit.ly/341CNCF&#10;9. Dress Coloring: https://bit.ly/33Y2Eva&#10;10. Drawing and Coloring: https://bit.ly/2LEpRwe&#10;&#10;#howtodraw #jelly #drawing&#10;-----------------------------------------------------------------------------&#10;Subscribe to Jelly Draw Arts:  http://pesc.pw/C5FKP&#10;-----------------------------------------------------------------------------&#10;If you liked this video, please Like, share with friends on social networks and leave your opinion in the comments &#10;-----------------------------------------------------------------------------&#10;EMAIL A PHOTO OF YOUR ART: &#10;thongvuthy45@gmail.com&#10;-----------------------------------------------------------------------------&#10;&#10;Thanks for watching!!"
     channel_title "Jelly Draw Arts"
     channel_id "UC4MiOwCjSw5T50QsApwQNjw"
     fav_count 0
@@ -591,7 +591,7 @@ graph [
     step 0
     date "2021-07-07T13:00:17Z"
     title "How To Draw A Waterslide"
-    description "Today, Hadley and I are learning how to draw a fun water slide! We hope you and your family enjoy following along with us."
+    description "Today, Hadley and I are learning how to draw a fun water slide! We hope you and your family enjoy following along with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -606,7 +606,7 @@ graph [
     step 0
     date "2021-04-30T17:07:10Z"
     title "6 Steps to Draw Anything"
-    description "Antonio Stappaerts is a professional concept artist and teacher. In this video, he'll detail his six steps on how you can learn to ..."
+    description "Antonio Stappaerts is a professional concept artist and teacher. In this video, he&#8217;ll detail his six steps on how you can learn to draw anything and provide you with a better understanding of form, design, and structure. You&#8217;ll learn how to break down complex subjects into simple shapes, the importance of shape design, and get some valuable tips on manipulating basic shapes to make them more dynamic and interesting. If you&#8217;ve been trying to draw the world around you (or from imagination) and your artwork is not living up to your expectations, then this lesson will really help you out.&#10;&#10;Follow Antonio:&#10;Website - https://artwod.com/&#10;Youtube - https://www.youtube.com/channel/UCltFySN5X6ySPNF6nQNAh4Q &#10;ArtStation - https://www.artstation.com/astappaerts &#10;Facebook - https://www.facebook.com/antonio.stap &#10;&#10;Related Links:&#10;Drawing WITHOUT Imagination - When You Can't Visualize ANYTHING - https://youtu.be/LWgXSxxEjgs &#10;Character Concepting Process - Loose Sketch to Final Painting - https://youtu.be/aLl0sBs9l8w &#10;Level Up Your Character Design with Knight Zhang - https://youtu.be/CjiKlLE3NuI &#10;&#10;#form #design #structure&#10;&#10;&#10;Subscribe to Proko: http://bit.ly/SubProko&#10;Don't miss new tutorials - Hit the BELL!&#10;&#10;Premium Videos - http://www.proko.com/store&#10;Course Package Deals - http://www.proko.com/package-deals&#10;Pose photo sets - http://www.proko.com/poses&#10;&#10;&#10;FOLLOW PROKO:&#10;&#10;Email Newsletter- http://www.proko.com/subscribe&#10;Instagram - http://instagram.com/stanprokopenko&#10;Twitter - https://twitter.com/StanProkopenko&#10;Facebook - https://www.facebook.com/prokotv&#10;Tumblr - http://stanprokopenko.tumblr.com/&#10;Pinterest - https://www.pinterest.com/stanprokopenko/pins/&#10;&#10;&#10;WATCH MORE PROKO:&#10;&#10;Latest Uploads: https://www.youtube.com/watch?v=-Pu1uGh1-Y4&#38;list=PLtG4P3lq8RHH0YGMCXa4uWsHVwTDkDcpN&#10;Figure Drawing: https://www.youtube.com/watch?v=74HR59yFZ7Y&#38;list=PLtG4P3lq8RHGuMuprDarMz_Y9Fbw_d2ws&#10;Art of Caricature: https://www.youtube.com/watch?v=FOURPIkpPXk&#38;list=PLtG4P3lq8RHEkeRGn6aFRct0kq4oDwwTa&#10;Popular Videos: https://www.youtube.com/watch?v=1EPNYWeEf1U&#38;list=PLtG4P3lq8RHHR_SKsGtufNd8uo2L7_vTQ&#10;&#10;&#10;ABOUT PROKO:&#10;&#10;Instructional How to Draw videos for artists. My drawing lessons are approachable enough for beginners and detailed enough for advanced artists. My philosophy is to teach timeless concepts in an entertaining way. I believe that when you are having fun, you learn better. I take pride in producing high quality videos that you will enjoy watching and re-watching.&#10;&#10;&#10;CREDITS:&#10;Artist | Instructor - Antonio Stappaerts (https://artwod.com/)&#10;Producer - Stan Prokopenko (http://www.stanprokopenko.com), &#10;Script - Antonio Stappaerts&#10;Production Assistance - Sean Ramsey (http://www.peoplewhodrawstuff.com)&#10;Editing - Dzmitry Tsydzik, Sean Ramsey&#10;&#10;Music Used with Permission&#10;Intro - The Freak Fandango Orchestra&#10;&#10;&#34;Jazzy Frenchy&#34; by Bensound&#10;bensound.com&#10;&#10;A Minor Jazz by Brett Van Donsel is licensed under a  Creative Commons License.&#10;&#10;Jingle Jazz by Quantum Jazz is licensed under a Attribution-ShareAlike 3.0 International License. &#10;&#10;Orbiting A Distant Planet by Quantum Jazz is licensed under a Attribution-ShareAlike 3.0 International License.&#10;Permissions beyond the scope of this license may be available at http://www.jamendo.com/en/list/a104389/end-of-line.&#10;&#10;Someday My Prince Will Come by Andre Brito&#10;https://soundcloud.com/andrebritobatera/08-andre-brito-someday-my&#10;&#10;&#34;Gypsy Jazz in Paris 1935&#34; by Brett Van Donsel &#10;https://soundcloud.com/brett-van-donsel/gypsy-jazz-in-paris-1935-aged-audio&#10;&#10;&#34;Ain't No Friend of Mine&#34; by Bryan Teoh &#10;http://sleepfacingwest.com/"
     channel_title "Proko"
     channel_id "UClM2LuQ1q5WEc23462tQzBg"
     fav_count 0
@@ -621,7 +621,7 @@ graph [
     step 0
     date "2017-06-07T15:06:10Z"
     title "How To Draw Lemonade"
-    description "Learn how to draw a refreshing glass of lemonade! Become an Art Club member https://www.artforkidshub.com/join-art-club/ ..."
+    description "Learn how to draw a refreshing glass of lemonade!&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -636,7 +636,7 @@ graph [
     step 0
     date "2021-07-29T01:00:06Z"
     title "How to Draw Anime Clothes | BEGINNER Tutorial"
-    description "in this anime tutorial, i show u how to draw clothes and folds and wrinkles i'm also gonna show u how to color clothes so yeah lol ..."
+    description "in this anime tutorial, i show u how to draw clothes and folds and wrinkles&#10;i'm also gonna show u how to color clothes&#10;so yeah lol watch till the end n like n subscribe&#10;lmao&#10;&#10;Watch my other videos! &#10;How to Draw Anime Using a Phone: https://www.youtube.com/watch?v=yIyoSYju3bo&#10;How to Draw HOT Anime Boy: https://www.youtube.com/watch?v=B27MR7gNFW4&#10;How to Draw Anime Guy: https://youtu.be/n2Sgp1XDQ78&#10;How to Draw Using Your Phone: https://youtu.be/gU6ZRLqfKtk&#10;How to Draw Side View Face: https://youtu.be/rl4aDGYOHnI&#10;&#10;Timestamps&#10;00:00 Intro&#10;00:33 How it works&#10;01:50 Let's Draw&#10;03:55 Using References&#10;05:35 Recap &#10;06:32 How to Color&#10;&#10;Products:&#10;Mic: https://amzn.to/37mHASx&#10;Pop filter: https://amzn.to/3hkVKI9&#10;Graphics Tablet: https://amzn.to/3hfchNQ&#10;&#10;Music&#10;Music provided by BGM President&#10;Track : Sunny side up - https://youtu.be/x7uK5IwqqIw&#10;&#10;give my vid a like if you're reading this description"
     channel_title "Kooleen"
     channel_id "UCL_Zrh9lwoOT7ftTRA-npvg"
     fav_count 0
@@ -651,7 +651,7 @@ graph [
     step 0
     date "2022-07-08T17:12:14Z"
     title "How To Draw Funny Frozen Yogurt"
-    description "Happy Friday! Today, we're learning how to draw funny frozen yogurt! You can change this lesson and add even more tasty ..."
+    description "Happy Friday! Today, we're learning how to draw funny frozen yogurt! You can change this lesson and add even more tasty toppings! Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -666,7 +666,7 @@ graph [
     step 0
     date "2020-01-17T14:51:42Z"
     title "How to draw SPIDER-MAN Drawing and Coloring Pages | Tim Tim TV"
-    description "Please subscribe and share : https://bit.ly/2JrAlyp. Spider-man Video #2: https://youtu.be/DkKVZYwJfe0 How to draw SPIDER ..."
+    description "Please subscribe and share : https://bit.ly/2JrAlyp.&#10;&#10;Spider-man Video #2: https://youtu.be/DkKVZYwJfe0&#10;&#10;How to draw SPIDER MAN Drawing and Coloring Pages | Tim Tim TV&#10;#drawspiderman #drawingforkids #timtimtv"
     channel_title "Tim Tim TV"
     channel_id "UCgmdH3vaYWU4HPW7A77BW3Q"
     fav_count 0
@@ -681,7 +681,7 @@ graph [
     step 0
     date "2021-04-23T14:06:53Z"
     title "How To Draw A Unicorn Ice Cream Cone (Ice Cream-icorn)"
-    description "Hadley and I are also learning how to draw a cute and funny unicorn that's also an ice cream cone! We call it an ice cream-icorn ..."
+    description "Hadley and I are also learning how to draw a cute and funny unicorn that's also an ice cream cone! We call it an ice cream-icorn &#129322;&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -711,7 +711,7 @@ graph [
     step 0
     date "2017-05-04T15:02:55Z"
     title "How To Draw A Cartoon Dolphin"
-    description "Follow along with us and learn how to draw a cute cartoon dolphin ever! Become an Art Club member ..."
+    description "Follow along with us and learn how to draw a cute cartoon dolphin ever!&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -726,7 +726,7 @@ graph [
     step 0
     date "2015-04-01T14:46:14Z"
     title "Why people believe they can&#8217;t draw - and how to prove they can | Graham Shaw | TEDxHull"
-    description "Why is it that so many people think they can't draw? Where did we learn to believe that? Graham Shaw will shatter this illusion ..."
+    description "Why is it that so many people think they can&#8217;t draw? Where did we learn to believe that? Graham Shaw will shatter this illusion &#8211; quite literally - in a very practical way. He&#8217;ll demonstrate how the simple act of drawing has the power to make a positive difference in the world.&#10;&#10;Graham specialises in the art of communication and has helped thousands of people to make important presentations. He is perhaps best known for his use of fast cartoon drawings to communicate ideas and is the author of &#8216;The Art of Business Communication&#8217;.&#10;&#10;This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx"
     channel_title "TEDx Talks"
     channel_id "UCsT0YIqwnpJCM-mx7-gSA4Q"
     fav_count 0
@@ -741,7 +741,7 @@ graph [
     step 0
     date "2019-05-03T11:30:03Z"
     title "How To Draw A Heart With Wings For Mom"
-    description "Mother's day is coming up, celebrate by learning how to draw a heart with wings! #howtodraw #artforkidshub ART SUPPLIES ..."
+    description "Mother's day is coming up, celebrate by learning how to draw a heart with wings! #howtodraw #artforkidshub&#10;&#10;&#127912;   ART SUPPLIES we love (Amazon affiliate links): &#10;Faber-Castell Art Supplies For Kids! https://amzn.to/2LiN5Xo&#10;Sharpie Markers https://amzn.to/2S6WzXX&#10;Printer Paper https://amzn.to/2FuLT3P&#10;Prismacolor Pencils https://amzn.to/2QYoBob&#10;Pentel Oil Pastels (classroom) https://amzn.to/2OU5Sbo&#10;Pentel Watercolor (tubes) https://amzn.to/2zdSmur&#10;Watercolor (dry cake) https://amzn.to/2zirsBJ&#10;Canson Watercolor Paper https://amzn.to/2S6XvLX&#10;Watercolor brushes https://amzn.to/2S9CY9B&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -756,7 +756,7 @@ graph [
     step 0
     date "2021-03-10T13:56:04Z"
     title "How to draw an eye/eyes easy step by step for beginners Eye drawing easy tutorial with pencil basics"
-    description "Use HB for drawing basic Shapes, 4B for Darker Shades &#38; 2B for detailing How to draw an eye/eyes easy step by step for ..."
+    description "Use HB for drawing basic Shapes,&#10;4B for Darker Shades &#38;&#10;2B for detailing&#10;&#10;How to draw an eye/eyes easy step by step for beginners Eye drawing easy tutorial with pencil basics...easy trick...eye drawing reference..draw easy channel...eye drawing ideas...eye drawing basic&#10;Draw easy channel eye"
     channel_title "draw easy channel"
     channel_id "UCr7s1_OGmc0mUzAO7M6iK6Q"
     fav_count 0
@@ -771,7 +771,7 @@ graph [
     step 0
     date "2020-03-27T21:20:08Z"
     title "How To Draw Bluey"
-    description "Bluey is one of our new favorite cartoon series on Disney+! If you haven't already, you need to check it out. Today, we're learning ..."
+    description "Bluey is one of our new favorite cartoon series on Disney+! If you haven't already, you need to check it out. Today, we're learning how to draw Bluey! Her and Bingo are our favorites. Well, Mum and Dad are pretty great too.&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -786,7 +786,7 @@ graph [
     step 0
     date "2021-08-26T12:00:00Z"
     title "How to Draw ANYTHING Using Simple Shapes"
-    description "Learn how you can use simple shapes to draw objects, people, animals, or entire scenes! The first 1000 people to use this link will ..."
+    description "Learn how you can use simple shapes to draw objects, people, animals, or entire scenes!&#10;The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/rapidfireart08211&#10;&#10;This tutorial is an introduction to help you get started and give you the confidence to approach drawing more complex subjects so you can develop your drawing skills and explore your passion further. Learning how to construct the foundation of a drawing helps you see the underlying structures instead of getting lost in the little details. This can speed up your process significantly and over time will help increase your drawing accuracy, thanks to the power of OBSERVATION.&#10;&#10;Open your sketchbook and get ready to draw some simple shapes, but don't be afraid to morph them to your advantage as well.&#10;&#10;Whether you're drawing a very detailed scene or a complex object, this approach can help you plan out your entire drawing in just a few short minutes, so you don't waste hours on a drawing that, in the end, doesn't turn out looking quite right.&#10;&#10;If you have any additional ideas or insights to share with the community, please leave it in the comments section. We'd love to hear it :) Thank you!!&#10;&#10;&#9999;&#65039; TOOLS I USED&#10;- Dollarstore Mechanical Pencil (Studio brand) that comes with 0.5mm 2B Lead&#10;&#10;&#10;&#128276; Subscribe for more FREE drawing tutorials: https://www.youtube.com/user/RapidFireArt?sub_confimation=1&#10;&#10;&#10;&#9200; SKIP TO TIMESTAMP &#9200;&#10;00:00 - Intro&#10;00:23 - Example #1: Soda Can&#10;01:47 - Example #2: Fly&#10;02:11 - Example #3: Bird&#10;06:05 - Example #4: Person&#10;08:20 - Example #5: Motorcycle (Drawn two different ways)&#10;10:21 - Reference Photos You Can Use&#10;&#10;Reference photo credits: Pixabay&#10;&#10;&#129520; MY CAMERA EQUIPMENT&#10;Overhead Camera and Lens (Sony A6500): https://amzn.to/2IKnwha&#10;Video Capture Card: https://amzn.to/3mxtK7a&#10;Overhead Camera Crane: https://amzn.to/2TUZOUA&#10;Tripod: https://amzn.to/2IIIYmS&#10;Lights: https://amzn.to/33fGh5R&#10;Microphone: https://amzn.to/2xyv6cB&#10;&#10;&#128085; RFA STORE:&#10;https://teespring.com/stores/rapidfireart&#10;&#10;&#128226; If you enjoyed this video, help others enjoy it by adding captions in your native language. Thank you! - &#10;&#10;DISCLAIMER&#10;- This video was sponsored by Skillshare&#10;&#10;- This content contains affiliate links. If you decide to make a purchase through the link, I will make a small commission at no additional cost to you. This helps fund free tutorials on the RFA channel and website. Thank you for your support!"
     channel_title "RapidFireArt"
     channel_id "UCDQNp22J8fGKdMytv0s3Zgg"
     fav_count 0
@@ -801,7 +801,7 @@ graph [
     step 0
     date "2017-01-25T13:47:47Z"
     title "How To Draw A Cute Ice Cream Cone"
-    description "Be careful today's lesson may get you really hungry! We're learning how to draw a cute ice cream cone. We hope you're going to ..."
+    description "Be careful today's lesson may get you really hungry! We're learning how to draw a cute ice cream cone. We hope you're going to follow along with us. This project is super easy and super short, but a lot of fun. Remember to add your own details, maybe your cone has more than one scoop or maybe it has a cherry on top!&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -816,7 +816,7 @@ graph [
     step 0
     date "2022-07-08T13:35:27Z"
     title "How to draw SONIC charging with Power / Powerful Sonic"
-    description "I show you an easy way to draw Sonic The Hedgehog at the precise moment when one of his transitions begins, here he is ..."
+    description "I show you an easy way to draw Sonic The Hedgehog at the precise moment when one of his transitions begins, here he is charging with power and his body seems to be electrified.&#10;&#10;#sonic #powerfulsonic #sonicthehedgehog"
     channel_title "Drawbook"
     channel_id "UCWVWlwtGywEvwwFEkjQoPvQ"
     fav_count 0
@@ -831,7 +831,7 @@ graph [
     step 0
     date "2020-04-19T14:06:57Z"
     title "How To Draw Baby Sonic From Sonic The Hedgehog Movie"
-    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of Sonic The Hedgehog."
+    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of Sonic The Hedgehog. You can watch it on digital TODAY: https://paramnt.us/GetSonic&#10;#SonicTheHedgehog #ParamountPictures #Paramount&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -846,7 +846,7 @@ graph [
     step 0
     date "2018-10-12T13:00:51Z"
     title "How to Draw Hyper Realistic Eyes | Step by Step"
-    description "Follow my simple, detailed steps to draw a realistic eye in pencil. My method is aimed to help even the most complete beginner ..."
+    description "Follow my simple, detailed steps to draw a realistic eye in pencil. My method is aimed to help even the most complete beginner draw something they once thought was impossible.&#10;&#10;If you get stuck on the shading part, please refer to my shading tutorials below. If you have any questions, leave them in the comments and I'll get back to you as soon as I can :)&#10;&#10;&#128276; Subscribe for more FREE drawing tutorials: https://www.youtube.com/user/RapidFireArt?sub_confimation=1&#10;&#10;&#9989; RELATED TUTORIALS&#10;How to Shade for Beginners: https://www.youtube.com/watch?v=-WR-FyUQc6I&#10;Shading Techniques: https://www.youtube.com/watch?v=tGx4sypoPjY&#10;How to Draw a Pair of Eyes: https://www.youtube.com/watch?v=Xs4fSe-hSIk&#10;How to Draw Matching Symmetrical Eyes: https://www.youtube.com/watch?v=AQ2icsQkdFI&#10;How to Draw an Eye from the Side: https://www.youtube.com/watch?v=pLJsWn1V_Jw&#10;&#10;&#9999;&#65039;&#10084;&#65039; TOOLS I USED&#10;- HB + 4B Mechanical Pencil Lead: https://amzn.to/2EpZx56&#10;- Blending Stump: https://amzn.to/2wcMobn&#10;- Kneadable Eraser: https://amzn.to/2M5tVYV&#10;- Electric Eraser: https://amzn.to/2JYP2t6&#10;- White Gel Pen: https://amzn.to/2EpcMmU&#10;- SmudgeGuard Glove: https://amzn.to/2YLPsr7&#10;- Soft Tissue Paper: https://amzn.to/2JYkjwr&#10;- Canson Drawing Paper (If you want smooth drawings, look for paper labelled as &#34;fine tooth&#34; or smooth, but make sure it's thick so you can work it): https://amzn.to/2A5saTx&#10;- Ruler&#10;&#10;&#10;&#128293;&#128293; SKIP TO...&#10;Intro - 0:00&#10;Tools:   0:20&#10;Step 1 - Circle:  0:51&#10;Step 2 - Eye Angle: 1:23&#10;Step 3 - Eye Shape: 1:50&#10;Step 4 - Eye Crease: 3:13&#10;Step 5 - Iris:  4:32&#10;Step 6 - Highlight: 5:42&#10;Step 7 - Pupil:  6:48&#10;Step 8 - Iris Detail: 8:35&#10;            - Cast Shadow 10:16&#10;Step 9 - Shade Eye: 18:09&#10;            - Cast Shadow: 20:46&#10;Step 10 - Skin Details: 21:57&#10;Step 11 - Shade Skin: 22:43&#10;Step 12 - Blending: 28:08&#10;Step 13 - Touch-ups: 29:19&#10;Step 14 - Eyelashes: 30:50&#10; - Shadows: 39:04&#10; - Reflection: 42:25&#10;Step 15 - Make it POP: 43:24&#10; - Darken: 43:56&#10; - Lighten: 47:13&#10;Step 16 - Touch-Ups: 48:23&#10;&#10;&#129520; MY CAMERA EQUIPMENT&#10;Overhead Camcorder for Tutorials (Canon Vixia HF R400): https://amzn.to/33foV8Q&#10;Overhead Camcorder Mount: https://amzn.to/2TK76f1&#10;Camera for every other angle (Sony a 5000): https://amzn.to/39Noc1p&#10;Portrait Lens: https://amzn.to/2vSijBq&#10;Macro (Closeup) Lens: https://amzn.to/2W7jk32&#10;Lights: https://amzn.to/2w1nvmq&#10;Light Bulbs: https://amzn.to/2Qbbu4A&#10;Microphone: https://amzn.to/2xyv6cB&#10;&#10;&#10;&#128226; If you enjoyed this video, help others enjoy it by adding captions in your native language. Thank you! - http://www.youtube.com/timedtext_video?v=zqNZ9df0tho&#38;ref=share&#10;&#10;&#128085; RFA STORE:&#10;https://teespring.com/stores/rapidfireart&#10;&#10;DISCLAIMER&#10;This content contains affiliate links. If you decide to make a purchase through the link, I will make a small commission at no additional cost to you. This helps fund free tutorials on the RFA channel and website. Thank you for your support!"
     channel_title "RapidFireArt"
     channel_id "UCDQNp22J8fGKdMytv0s3Zgg"
     fav_count 0
@@ -861,7 +861,7 @@ graph [
     step 0
     date "2016-11-16T13:00:04Z"
     title "How To Draw Pikachu (with color)"
-    description "Follow along with us and learn how to draw Pikachu from Pokemon! Purchase my &#34;I Heart Art&#34; shirt ..."
+    description "Follow along with us and learn how to draw Pikachu from Pokemon!&#10;Purchase my &#34;I Heart Art&#34; shirt http://www.redbubble.com/people/artforkidshub/works/23802690-i-heart-art&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -876,7 +876,7 @@ graph [
     step 0
     date "2015-01-15T04:26:07Z"
     title "How to draw Snoopy [Peanuts] drawing tutorial"
-    description "Subscribe fore more drawing lesson: http://www.youtube.com/user/drawingsimple Learn how to draw Snoopy character from ..."
+    description "Subscribe fore more drawing lesson: http://www.youtube.com/user/drawingsimple&#10;&#10;Learn how to draw Snoopy character from Peanuts in this simple and easy step by step video.&#10;&#10;Please LIKE and SHARE this video on your tumblr, facebook, twitter, or pinterest (:&#10;&#10;Post &#38; share your finished drawing here:&#10;http://www.facebook.com/drawingSimple"
     channel_title "DrawingSimple"
     channel_id "UC7IJicvcegDtRXNZieuBEoQ"
     fav_count 0
@@ -891,7 +891,7 @@ graph [
     step 0
     date "2017-06-27T11:30:01Z"
     title "How To Draw The Kissing Emoji"
-    description "Learn how to draw the kissing emoji! Become an Art Club member https://www.artforkidshub.com/join-art-club/ Learn more about ..."
+    description "Learn how to draw the kissing emoji!&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -906,7 +906,7 @@ graph [
     step 0
     date "2015-06-23T22:00:01Z"
     title "How to Draw an Impossible Pentagram"
-    description "How to draw an impossible pentagram, the illusion of a 3D intertwined Pentagram. Have fun! My Coloring Book 'Wandering ..."
+    description "How to draw an impossible pentagram, the illusion of a 3D intertwined Pentagram.&#10;Have fun!&#10;&#10;My Coloring Book 'Wandering Minds':&#10;https://dearingdraws.com/wandering-minds-coloring-book/&#10;&#10;Visit me @:&#10;&#10;My Website: https://dearingdraws.com/&#10;&#10;FaceBook: http://www.facebook.com/dearingdraws&#10;&#10;Instagram: http://instagram.com/dearing_draws&#10;&#10;Books:&#10;http://amzn.to/1xAF1T6&#10;&#10;Tools and Materials:&#10;&#10;Staedler Drawing 5 Set Advanced Compass: &#10;http://amzn.to/1FdIf2R&#10;&#10;Faber Castell TK Fine Vario Pencil 0.5 MM&#10;http://amzn.to/1ML43bN&#10;&#10;Triangle Rotring Ruler &#10;http://amzn.to/1ML4i6I&#10;&#10;Drawing Circle Template&#10;http://amzn.to/1GKyD2U&#10;&#10;Black Marker&#10;http://amzn.to/1wcCd3j&#10;&#10;Derwent Paper Size A3 /16.5 x 11.75 inch&#10;http://amzn.to/17I7DTd&#10;&#10;Micron pens&#10;http://amzn.to/1AxnXAy&#10;&#10;Caran D'Ache Pablo Color Pencils&#10;http://amzn.to/1wcAtXY&#10;&#10;Rotring Fineliner pen set 0.3/ 0.5/ 0.7mm&#10;http://amzn.to/19WgpPd&#10;&#10;My website hosting&#10;http://bit.ly/1Efgs6B"
     channel_title "Dearing Wang"
     channel_id "UCUfc5V23Oy_XD99LHYPvp4Q"
     fav_count 0
@@ -921,7 +921,7 @@ graph [
     step 0
     date "2022-05-26T14:34:25Z"
     title "How To Draw Tails From Sonic The Hedgehog 2"
-    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of #SonicMovie2. You can watch ..."
+    description "This lesson is sponsored by Paramount. They asked us to help them celebrate the home release of #SonicMovie2. You can watch it on digital TODAY: https://paramnt.us/WatchSonic2&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -936,7 +936,7 @@ graph [
     step 0
     date "2022-01-21T12:00:11Z"
     title "Easy anime drawing ||  How to draw anime step by step || Easy drawing for beginners"
-    description "Hey guys! In this art drawing tutorial i will show you Easy anime drawing || How to draw anime step by step || Easy drawing for ..."
+    description "Hey guys! &#10;In this art drawing tutorial i will show you Easy anime drawing ||  How to draw anime step by step || Easy drawing for beginners. If you like the video don't forget to like, comment and share! &#10; &#10;&#9658; Used things  &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#10;(1) 4B Pencil (you can use any)&#10;(2) Blending stump&#10;&#10;&#9658; Subscribe my channel: &#10;https://www.youtube.com/c/SayahArts&#10;&#10;&#9658;For business inquiries: &#10;muradisaeeda@gmail.com&#10;&#10;Instagram page: https://www.instagram.com/sayah._arts/&#10;Facebook page: https://www.facebook.com/sayaharts&#10;Tiktok: https://www.tiktok.com/@sayaharts17?&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;&#10;JJD - A New Adventure (feat. Molly Ann) [NCS10 Release]&#10;https://www.youtube.com/watch?v=ZTwCDpFJEZ4&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10; &#10;#Drawingtutorial #pencilsketch  #drawing"
     channel_title "Sayah Arts"
     channel_id "UCooYhgsXKVBQK-8bC6sv32Q"
     fav_count 0
@@ -951,7 +951,7 @@ graph [
     step 0
     date "2022-04-11T13:44:39Z"
     title "How To Draw A Pandacorn (Panda Unicorn)"
-    description "Yay! Happy Monday, art friends! Today, Hadley and I are learning how to draw a cute pandacorn. Art Supplies ~ This is a list of the ..."
+    description "Yay! Happy Monday, art friends! Today, Hadley and I are learning how to draw a cute pandacorn. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -966,7 +966,7 @@ graph [
     step 0
     date "2021-11-24T14:00:26Z"
     title "How to Draw a Cat Easy &#128062;"
-    description "RIP to my Cat MaoMao. &#10084;&#65039; This Drawing is inspired by him! You are so missed. Learn How to Draw a cute tabby cartoon Cat ..."
+    description "RIP to my Cat MaoMao. &#10084;&#65039; This Drawing is inspired by him! You are so missed. Learn How to Draw a cute tabby cartoon Cat easy, step by step. #drawsocutecat #cats&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -981,7 +981,7 @@ graph [
     step 0
     date "2018-03-22T14:52:07Z"
     title "How To Draw The Cutest Easter Bunny"
-    description "Learn how to draw the cutest Easter Bunny ever! ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/ ..."
+    description "Learn how to draw the cutest Easter Bunny ever! &#10;&#127912;   ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -996,7 +996,7 @@ graph [
     step 0
     date "2022-01-03T14:00:00Z"
     title "How To Draw Sonic the Hedgehog | Step By Step Tutorial"
-    description "Learn how to draw Sonic the Hedgehog with Cartooning Club How To Draw. I'll teach you the simple method of drawing using ..."
+    description "Learn how to draw Sonic the Hedgehog with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you need ideas on what to draw then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list.&#10;&#10;Check out my Playlist below for more of your favourite characters.&#10;&#10;How to Draw Video Game Characters&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlpzlPLJD46irSobCKrVQf4h&#10;&#10;Supplies used:&#10;For my regular drawings I start with a black Sharpie fine point marker. I then use Bianyo brand markers to color them in or you can use whatever you feel most comfortable with. I'm also drawing on printer friendly paper to prevent ink bleeding.&#10;&#10;For my sketch tutorials I experiment with various pencil brands but right now I'm happy using black Staedtler 2B-8B pencils on sketch paper. My go to is the 4B pencil.&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -1011,7 +1011,7 @@ graph [
     step 0
     date "2020-10-12T13:09:31Z"
     title "How To Draw A Cute Cupcake Monster Folding Surprise"
-    description "Learn how to draw a cute and super scary cupcake monster! This might be my new favorite folding surprise lesson. We hope you ..."
+    description "Learn how to draw a cute and super scary cupcake monster! This might be my new favorite folding surprise lesson. We hope you have fun following along with us.&#10;00:00 Hey, art-friends&#10;00:23 How to fold your paper&#10;01:30 How to draw a cute cupcake monster&#10;13:58 How to color a cute cupcake monster (time-lapse)&#10;12:16 Finished!&#10;&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1026,7 +1026,7 @@ graph [
     step 0
     date "2014-08-02T06:36:03Z"
     title "How to Draw a Cartoon Mouse"
-    description "An easy way to draw a simple cartoon mouse in under 2 minutes. Have a go and tell me how you did. Join me on Facebook and ..."
+    description "An easy way to draw a simple cartoon mouse in under 2 minutes.&#10;&#10;Have a go and tell me how you did.&#10;&#10;Join me on Facebook and tell me if you have tried this drawing.&#10;&#10;Start by drawing a circle with a straight line extending off the top in the shape of a number 6.&#10;&#10;Draw two large semi circles for ears.&#10;&#10;Continue with a larger curved line for the mouses body, this is like a large backwards number 6.&#10;&#10;Add three small round paws and a horizontal line ending in three smaller round paws. The front leg and paws are smaller than the back.&#10;&#10;Continue with a line to the mouse's nose. Colour the mouse's nose and eye. Add three whiskers on each side of the nose and a long &#34;S&#34; shaped tail.&#10;&#10;SUBSCRIBE for more art videos, Drawing and painting tutorials http://www.youtube.com/subscription_center?add_user=shaunryanart &#10;&#10;Say hi to me on Facebook http://www.facebook.com/shaunryanart &#10;&#10;WEBSITE: http://www.shaunryan.co.nz"
     channel_title "Shaun Ryan Art"
     channel_id "UCZ9SFMQ0nqK7gRGCxa7G8fw"
     fav_count 0
@@ -1041,7 +1041,7 @@ graph [
     step 0
     date "2022-06-29T15:43:23Z"
     title "How To Draw A Patriotic Eagle"
-    description "Independence day is coming up, to celebrate we thought it would be fun to draw a patriotic eagle! Art Supplies ~ This is a list of the ..."
+    description "Independence day is coming up, to celebrate we thought it would be fun to draw a patriotic eagle!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1056,7 +1056,7 @@ graph [
     step 0
     date "2020-07-14T12:38:02Z"
     title "How to draw a girl with umbrella step by step / Easy drawing for girls step by step"
-    description "Very easy drawing step by step on How to draw a girl with umbrella step by step / Easy drawing for girls step by step. If you like the ..."
+    description "Very easy drawing step by step on How to draw a girl with umbrella step by step / Easy drawing for girls step by step. If you like the video don't forget to like, comment and share!&#10;&#10;subscribe my channel for more amazing videos:    https://www.youtube.com/channel/UCooY...&#10; &#10;Related Tutorials:&#10;How to draw a beautiful girl in easy way || Easy drawing for girls step by step: https://www.youtube.com/watch?v=NXRfJdnrWTM&#10;Dress drawing on a girl | fashion illustration drawing step by step: https://www.youtube.com/watch?v=aqWuQOjxPQ4&#38;t=29s&#10;Beautiful Girl Drawing Step by Step Easy // G&#252;zel elbise &#231;izimi &#128149; k&#305;z nas&#305;l &#231;izilir: https://www.youtube.com/watch?v=S-QciRsulZc&#10;How To Draw Two Friends Hugging Each other // Friendship Day Drawing 2020 // &#1610;&#1608;&#1605; &#1575;&#1604;&#1589;&#1583;&#1575;&#1602;&#1577; &#1575;&#1604;&#1585;&#1587;&#1605;: https://www.youtube.com/watch?v=H57py6YFzY4&#10;&#10;Music taken from NoCopyrighSounds&#128071;&#127996;&#10;https://youtu.be/K4DyBUG242c&#10;&#10;Thank you for your support and have a great day!&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;#girlwithumbrella #naturedrawing #pencildrawing #easydrawing #drawingtutorial"
     channel_title "Sayah Arts"
     channel_id "UCooYhgsXKVBQK-8bC6sv32Q"
     fav_count 0
@@ -1071,7 +1071,7 @@ graph [
     step 0
     date "2019-11-19T18:40:11Z"
     title "How To Draw Baby Yoda From The Mandalorian"
-    description "This video is not sponsored by Disney. We purchased our own subscription to Disney + and have been loving it so much."
+    description "This video is not sponsored by Disney. We purchased our own subscription to Disney + and have been loving it so much. We watched the Mandalorian last night and died over baby Yoda. We thought it would be fun to learn how to draw him today. We hope you follow along with us!&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1086,7 +1086,7 @@ graph [
     step 0
     date "2022-01-10T13:46:46Z"
     title "How to Draw a Cute Easy Lollipop for Kids Step by Step"
-    description "How to Draw a Cute Easy Lollipop for Kids Step by Step Subscribe https://www.shorturl.at/jsA27 ..."
+    description "How to Draw a Cute Easy Lollipop for Kids Step by Step &#10;Subscribe &#128073;&#128073;https://www.shorturl.at/jsA27 &#10;https://in.pinterest.com/Easydrawingsyt&#10;Instagram &#128073;&#128073;https://www.instagram.com/cuteeasy.drawings&#10;Thanks for your support and Love &#129303;&#10;Please comment if you like it  &#128591;&#10;Subscribe, Like, and Share &#128591;&#128591;&#10;Stay Home Stay Safe and Draw with me &#128512;&#10;#cuteeasydrawings #cedfansclub #easydrawings #cutedrawings&#10;&#10;How do you draw a lolly?&#10;How do you draw a candy cute?&#10;how to draw a candy,&#10;how to draw a lollipop easy step by step,&#10;lollipop drawing colour,&#10;how to draw a lollipop easy,&#10;how to draw a lollipop cute and easy,&#10;how to draw a lollipop draw so cute,&#10;how to draw a lollipop super cute and easy,&#10;how to draw a lollipop easy step by step,&#10;how to draw a lollipop art hub,&#10;how to draw a big lollipop,&#10;how to draw a realistic lollipop step by step,&#10;how to draw lips with a lollipop for beginners,&#10;how to draw lips with a lollipop step by step,&#10;how to draw a cute lollipop,&#10;how to draw a christmas lollipop,&#10;how to draw a giant lollipop,&#10;how to draw a heart lollipop,&#10;how to draw a lollipop step by step,&#10;how to draw a small lollipop,&#10;how to draw the lollipop,&#10;how to draw a unicorn lollipop,&#10;how to draw a lollipop video,&#10;how we draw a lollipop,&#10;how you draw a lollipop,&#10;&#1053;&#1072;&#1088;&#1080;&#1089;&#1091;&#1081; &#1084;&#1080;&#1083;&#1099;&#1081; &#1083;&#1077;&#1075;&#1082;&#1080;&#1081; &#1083;&#1077;&#1076;&#1077;&#1085;&#1077;&#1094;,&#10;&#1053;&#1072;&#1088;&#1080;&#1089;&#1091;&#1081; &#1084;&#1080;&#1083;&#1099;&#1081; &#1083;&#1077;&#1075;&#1082;&#1080;&#1081; &#1083;&#1077;&#1076;&#1077;&#1085;&#1077;&#1094;,&#10;Dibuja una piruleta linda y f&#225;cil,&#10;Dessinez une sucette facile et mignonne,&#10;&#1575;&#1585;&#1587;&#1605; &#1605;&#1589;&#1575;&#1589;&#1577; &#1604;&#1591;&#1610;&#1601;&#1577; &#1608;&#1587;&#1607;&#1604;&#1577; &#1548;&#10;Zeichne einen s&#252;&#223;en einfachen Lutscher,&#10;Menggambar Lolipop Mudah Lucu,&#10;Disegna un simpatico lecca-lecca facile,&#10;Desenhe um pirulito f&#225;cil e fofo,&#10;&#1053;&#1072;&#1088;&#1080;&#1089;&#1091;&#1081; &#1084;&#1080;&#1083;&#1099;&#1081; &#1083;&#1077;&#1075;&#1082;&#1080;&#1081; &#1083;&#1077;&#1076;&#1077;&#1085;&#1077;&#1094;,&#10;Step by step drawing,&#10;cute drawing,&#10;drawing tutorial,&#10;drawing easy,&#10;drawing art,&#10;drawing and coloring,&#10;Draw,  &#10;Drawings,&#10;Basic Drawings,&#10;How to Draw,&#10;How to Draw good,&#10;How to Draw Cute,&#10;Draw so Cute Drawings,&#10;Very Easy Drawings,&#10;Simple Drawings,&#10;Drawings Lessons,&#10;Line Drawings,&#10;How to Color,&#10;How to Colour,&#10;Cute Drawings.&#10;Easy Drawings,&#10;Simple Drawings,&#10;Very Easy Drawing,&#10;Drawings for Beginners,&#10;Kids Drawings,&#10;Draw something Easy,&#10;What to Draw,&#10;What to Draw Today,&#10;Something easy to Draw,&#10;Dibujar,&#10;Dibujos,&#10;Dibujos b&#225;sicos,&#10;Como dibujar,&#10;C&#243;mo dibujar bien,&#10;C&#243;mo dibujar lindo,&#10;Dibujar dibujos tan lindos,&#10;Dibujos Muy Sencillos,&#10;Dibujos Sencillos,&#10;Lecciones de dibujos,&#10;Dibujos de l&#237;neas,&#10;C&#243;mo colorear,&#10;C&#243;mo colorear,&#10;Dibujos bonitos.&#10;Dibujos Sencillos,&#10;Dibujos Sencillos,&#10;Dibujo muy f&#225;cil,&#10;Dibujos para principiantes,&#10;Dibujos Para Ni&#241;os,&#10;&#10;Desenhar,&#10;Desenhos,&#10;Desenhos b&#225;sicos,&#10;Como desenhar,&#10;Como desenhar bem,&#10;Como Desenhar Fofo,&#10;Desenhe desenhos t&#227;o fofos,&#10;Desenhos muito f&#225;ceis,&#10;Desenhos Simples,&#10;Aulas de desenhos,&#10;Desenhos em linha,&#10;Como colorir,&#10;Como colorir,&#10;Desenhos bonitos.&#10;Desenhos f&#225;ceis,&#10;Desenhos Simples,&#10;Desenho Muito F&#225;cil,&#10;Desenhos para iniciantes,&#10;Desenhos infantis,&#10;&#10;Dessiner,&#10;Dessins,&#10;Dessins de base,&#10;Comment dessiner,&#10;Comment bien dessiner,&#10;Comment dessiner mignon,&#10;Dessinez des dessins si mignons,&#10;Dessins tr&#232;s faciles,&#10;Dessins simples,&#10;Cours de dessin,&#10;Dessins au trait,&#10;Comment colorier,&#10;Comment colorier,&#10;Dessins mignons.&#10;Dessins faciles,&#10;Dessins simples,&#10;Dessin tr&#232;s facile,&#10;Dessins pour d&#233;butants,&#10;Dessins d'enfants,&#10;&#10;Disegnare,&#10;Disegni,&#10;Disegni di base,&#10;Come disegnare,&#10;Come disegnare bene,&#10;Come disegnare carino,&#10;Disegna disegni cos&#236; carini,&#10;Disegni molto facili,&#10;Disegni Semplici,&#10;Lezioni di disegno,&#10;disegni al tratto,&#10;Come colorare,&#10;Come colorare,&#10;Disegni carini.&#10;Disegni facili,&#10;Disegni Semplici,&#10;Disegno molto facile,&#10;Disegni per principianti,&#10;Disegni per bambini,&#10;&#10;&#1056;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;,&#10;&#1056;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;,&#10;&#1054;&#1089;&#1085;&#1086;&#1074;&#1085;&#1099;&#1077; &#1095;&#1077;&#1088;&#1090;&#1077;&#1078;&#1080;,&#10;&#1050;&#1072;&#1082; &#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;,&#10;&#1050;&#1072;&#1082; &#1093;&#1086;&#1088;&#1086;&#1096;&#1086; &#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;,&#10;&#1050;&#1072;&#1082; &#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100; &#1084;&#1080;&#1083;&#1086;,&#10;&#1053;&#1072;&#1088;&#1080;&#1089;&#1091;&#1081;&#1090;&#1077; &#1090;&#1072;&#1082;&#1080;&#1077; &#1084;&#1080;&#1083;&#1099;&#1077; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;,&#10;&#1054;&#1095;&#1077;&#1085;&#1100; &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1077; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;,&#10;&#1055;&#1088;&#1086;&#1089;&#1090;&#1099;&#1077; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;,&#10;&#1059;&#1088;&#1086;&#1082;&#1080; &#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103;,&#10;&#1063;&#1077;&#1088;&#1090;&#1077;&#1078;&#1080;,&#10;&#1050;&#1072;&#1082; &#1088;&#1072;&#1089;&#1082;&#1088;&#1072;&#1089;&#1080;&#1090;&#1100;,&#10;&#1050;&#1072;&#1082; &#1088;&#1072;&#1089;&#1082;&#1088;&#1072;&#1089;&#1080;&#1090;&#1100;,&#10;&#1057;&#1080;&#1084;&#1087;&#1072;&#1090;&#1080;&#1095;&#1085;&#1099;&#1077; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;.&#10;&#1051;&#1077;&#1075;&#1082;&#1080;&#1077; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;,&#10;&#1055;&#1088;&#1086;&#1089;&#1090;&#1099;&#1077; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;,&#10;&#1054;&#1095;&#1077;&#1085;&#1100; &#1083;&#1077;&#1075;&#1082;&#1080;&#1081; &#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;,&#10;&#1056;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080; &#1076;&#1083;&#1103; &#1085;&#1072;&#1095;&#1080;&#1085;&#1072;&#1102;&#1097;&#1080;&#1093;,&#10;&#1044;&#1077;&#1090;&#1089;&#1082;&#1080;&#1077; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1080;,&#10;&#10;&#1585;&#1587;&#1605;&#1548;&#10;&#1575;&#1604;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578;&#1548;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1571;&#1587;&#1575;&#1587;&#1610;&#1577; &#1548;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#1548;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1580;&#1610;&#1583; &#1548;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1604;&#1591;&#1610;&#1601; &#1548;&#10;&#1575;&#1585;&#1587;&#1605; &#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1604;&#1591;&#1610;&#1601;&#1577; &#1604;&#1604;&#1594;&#1575;&#1610;&#1577; &#1548;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1587;&#1607;&#1604;&#1577; &#1580;&#1583;&#1575;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1576;&#1587;&#1610;&#1591;&#1577;&#10;&#1583;&#1585;&#1608;&#1587; &#1575;&#1604;&#1585;&#1587;&#1605;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1575;&#1604;&#1582;&#1591; &#1548;&#10;&#1603;&#1610;&#1601; &#1578;&#1604;&#1608;&#1606; &#1548;&#10;&#1603;&#1610;&#1601; &#1578;&#1604;&#1608;&#1606; &#1548;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1604;&#1591;&#1610;&#1601;&#1577;.&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1587;&#1607;&#1604;&#1577;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1576;&#1587;&#1610;&#1591;&#1577;&#10;&#1585;&#1587;&#1605; &#1587;&#1607;&#1604; &#1580;&#1583;&#1575; &#1548;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1604;&#1604;&#1605;&#1576;&#1578;&#1583;&#1574;&#1610;&#1606; &#1548;&#10;&#1585;&#1587;&#1608;&#1605;&#1575;&#1578; &#1575;&#1604;&#1575;&#1591;&#1601;&#1575;&#1604;&#10;&#10;&#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2310;&#2360;&#2366;&#2344; &#2330;&#2367;&#2340;&#2381;&#2352;&#10;&#2330;&#2367;&#2340;&#2381;&#2352; &#2325;&#2376;&#2360;&#2375; &#2348;&#2344;&#2366;&#2351;&#2375;,&#10;&#2309;&#2330;&#2381;&#2331;&#2366; &#2330;&#2367;&#2340;&#2381;&#2352; &#2348;&#2344;&#2366;&#2344;&#2366; &#2360;&#2368;&#2326;&#2375;,&#10;&#2325;&#2381;&#2351;&#2370;&#2335; &#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327; &#2348;&#2344;&#2366;&#2351;&#2375;,&#10;&#2348;&#2361;&#2369;&#2340; &#2346;&#2381;&#2351;&#2366;&#2352;&#2375; &#2330;&#2367;&#2340;&#2381;&#2352; &#2348;&#2344;&#2366;&#2319;&#2306;,&#10;&#2348;&#2361;&#2369;&#2340; &#2310;&#2360;&#2366;&#2344; &#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2360;&#2352;&#2354; &#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327; &#2325;&#2381;&#2354;&#2366;&#2360;,&#10;&#2352;&#2375;&#2326;&#2366; &#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2325;&#2354;&#2352; &#2325;&#2376;&#2360;&#2375; &#2325;&#2352;&#2375;,&#10;&#2346;&#2381;&#2351;&#2366;&#2352;&#2366; &#2330;&#2367;&#2340;&#2381;&#2352;&#2404;&#10;&#2310;&#2360;&#2366;&#2344; &#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2360;&#2352;&#2354; &#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2348;&#2361;&#2369;&#2340; &#2310;&#2360;&#2366;&#2344; &#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327;,&#10;&#2358;&#2369;&#2352;&#2369;&#2310;&#2340;&#2368; &#2325;&#2375; &#2354;&#2367;&#2319; &#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2348;&#2330;&#2381;&#2330;&#2379;&#2306; &#2325;&#2375; &#2330;&#2367;&#2340;&#2381;&#2352;,&#10;&#2348;&#2330;&#2381;&#2330;&#2379; &#2325;&#2375; &#2354;&#2367;&#2319; &#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327;,&#10;&#2348;&#2330;&#2381;&#2330;&#2379; &#2325;&#2366; &#2310;&#2352;&#2381;&#2335; &#2325;&#2381;&#2354;&#2366;&#2360;,"
     channel_title "Cute Easy Drawings"
     channel_id "UCNB0kOpUqpB7MUqW53zN8aA"
     fav_count 0
@@ -1101,7 +1101,7 @@ graph [
     step 0
     date "2020-02-21T14:03:58Z"
     title "How To Draw Flamemallow From YouTube Kids App"
-    description "Did you know you can watch many of our lessons on YouTube Kids? Visit our YouTube Kids channel here ..."
+    description "Did you know you can watch many of our lessons on YouTube Kids? Visit our YouTube Kids channel here https://www.youtubekids.com/channel/UC5XMF3Inoi8R9nSI8ChOsdQ This month we thought it would be fun to help the YouTube Kids app celebrate it's birthday! The app is now 5 years-old and we love using it. This is not a sponsored video we just thought it would be fun to draw characters from the app.&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1116,7 +1116,7 @@ graph [
     step 0
     date "2021-12-03T11:30:04Z"
     title "HOW TO DRAW EYES | All styles | Drawlikeasir"
-    description "This is the very first video on this channel that was sponsored! Yay!! :) Go ahead and check out Zyro! https://zyro.com/drawlikeasir ..."
+    description "This is the very first video on this channel that was sponsored! Yay!! :)&#10;Go ahead and check out Zyro! https://zyro.com/drawlikeasir &#10;&#10;In this video I'll show you how to draw eyes in a realistic way,&#10;in different perspectives and angles and how to stylize cartoona and anime eyes. &#10;Hope it helps :)&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#9654;&#9654;&#9654;  https://drawlikeasir.com/materials/&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Website -------------- https://drawlikeasir.com&#10;&#10149; Twitter ---------------- https://twitter.com/Drawinglikeasir&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;&#127925; Background Music &#127925;&#10;https://youtu.be/SrSj9FVdX3w&#10;&#10;00:00 - 00:45 Intro&#10;00:45 - 02:15 Sponsor&#10;02:15 - 05:05 How to draw an eye&#10;05:05 - 07:24 How to draw eyes in perspective and angles&#10;07:24 - 10:57 How to draw eyes in a cartoon or anime style&#10;10:57 - 11:50 Cheat Sheet"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -1131,7 +1131,7 @@ graph [
     step 0
     date "2021-05-05T13:17:17Z"
     title "How To Draw The Best Teacher Ever Folding Surprise"
-    description "Today, we're learning how to draw a folding surprise for the best teacher ever! &#8205;   JOIN OUR ART HUB MEMBERSHIP!"
+    description "Today, we're learning how to draw a folding surprise for the best teacher ever!&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1146,7 +1146,7 @@ graph [
     step 0
     date "2020-07-18T11:23:18Z"
     title "HOW TO DRAW SIMPLE FACES (easy)"
-    description "Summer sale celebrating 11000+ students and counting! Get 25% OFF ($130) the -ART School for Digital Artists- program with ..."
+    description "&#127774; Summer sale celebrating 11000+ students and counting! Get 25% OFF ($130) the -ART School for Digital Artists- program with coupon code ARTSCHOOL &#127891; http://cbr.sh/q8zql0 - until July 31st 2022 ONLY!! Join us! &#10;&#10;&#128396; Get my brushes for FREE here: http://cbr.sh/befto&#10;&#128640; My Store: https://cubebrush.co/mb&#10;&#10;#ARTSchool&#10;&#10;Let's face it, drawing faces isn't easy. OR SO YOU THOUGHT! This week I'll be showing you some of my own tricks to draw simple faces in my style - not portraits, we're talking about faces seen from a distance here!&#10;&#10;FOLLOW ME ON SOCIAL MEDIA:&#10;&#9999; Twitter: https://twitter.com/bluefley&#10;&#128247; Instagram: https://instagram.com/bluefley&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;OTHER DOPE VIDEOS YOU MIGHT LIKE:&#10;&#10;BEGIN HERE&#10;####################################&#10;The Beginner's Guide to Digital Art: https://youtu.be/O40KGoCmpNA&#10;7 Fundamentals of Art: https://youtu.be/N-buLx_tV6U&#10;&#10;FUNDAMENTALS&#10;####################################&#10;How to practice drawing anatomy (noob to pro): https://youtu.be/L303Qy6rivs&#10;How to Draw Good Lineart: https://youtu.be/ZzgrOMCd380&#10;Drawing the male body: https://youtu.be/VUKd7BF8yC0&#10;Drawing the female body: https://youtu.be/3uZn_vDO1Ow&#10;How to shade your drawings: https://youtu.be/hTh9NpGPeYw&#10;How to pick colors for your art: https://youtu.be/z0zrrbzmUEE&#10;How to paint light: https://youtu.be/qZPXxLOUSSY&#10;How to draw simple faces: https://youtu.be/6SKkS_1geZ0&#10;How to easily draw hair (male &#38; female): https://youtu.be/-KupUx6vr0k&#10;How to design better characters: https://youtu.be/A01M6vrGwJI&#10;How I design OCs: https://youtu.be/4vbjRmj3UHM&#10;How to draw anything from imagination: https://youtu.be/2aAP47l5e48&#10;&#10;ART CAREER&#10;####################################&#10;Art/YouTube Studio Tour 2020: https://youtu.be/xN_UrCy_toQ&#10;So, you want to be a concept artist?: https://youtu.be/y85k6_OAugI&#10;So, you want to be an illustrator?: https://youtu.be/ERvHoqFFOM4&#10;13 ways to earn money as a digital artist: https://youtu.be/l9q-5FiZvlA&#10;My art career path (from 4 to 34): https://youtu.be/5Vlweg2vDP8&#10;How to be a successful artist ASAP: https://youtu.be/j7ycWOTLqbc&#10;Character concept sheet presentation: https://youtu.be/dVdOviH1hHg&#10;How consistency can make you a millionaire: https://youtu.be/DrwqPX8BxTQ&#10;&#10;LEVEL-UP&#10;####################################&#10;GOOD artists VS BAD artists: https://youtu.be/Jtrmi6babCQ&#10;The secret rule to learn anything faster: https://youtu.be/HdJsGiNnzns&#10;How to paint faster: https://youtu.be/ByuwEiTlRLw&#10;The fastest way to improve your art (10 tips): https://youtu.be/3FWXRYqqjbA&#10;How to make your art look professional (when it isn't): https://youtu.be/p94rNzkcZxs&#10;Find your art style: https://youtu.be/YAcGujSvh4U&#10;The only 4 tips you need to stay motivated 24/7: https://youtu.be/gXp1C6lWBOA&#10;10 deadly mistakes to avoid as artists: https://youtu.be/W0J63JF6MIU&#10;5 tips to improve your art by 500%: https://youtu.be/toH9AYFKMI4&#10;&#10;ADVANCED&#10;####################################&#10;How to color your drawings (gradient maps): https://youtu.be/OyWpAU_SVD0&#10;How to color your drawings (in any software): https://youtu.be/Wvng0oPkNy4&#10;How to color your drawings (in 5 simple steps): https://youtu.be/A218Xy42_Ps&#10;Grayscale to color (secret technique): https://youtu.be/3Zkh8KV2vbQ&#10;How to paint skin like a pro: https://youtu.be/QBsIDLX6msc&#10;Better composition in 10 min: https://youtu.be/Zbi_XUtb1Mk&#10;How to draw simple environments: https://youtu.be/1wXv4TZuG1k&#10;How to paint backgrounds (3 simple ways): https://youtu.be/d8ajGIu4JSc&#10;How to paint without lineart (max difficulty): https://youtu.be/rBKHU2hVf2g&#10;How to paint quick environments using 3D: https://youtu.be/2YJ67uTXWWY&#10;Your painting is not done until you do this (pro secrets): https://youtu.be/GzxT3agjt0g&#10;&#10;CHALLENGES&#10;####################################&#10;I draw hands for 12 hours (to see how much I can improve): https://youtu.be/lT9KxB5Wl2s&#10;I redraw my 2004 drawing: https://youtu.be/P1YbqwPMavM&#10;How to create painting, in 10 minutes: https://youtu.be/ywYvCkHx_5A&#10;Testing 3 Free Painting Apps: https://youtu.be/Ct4puOM_NaU&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;"
     channel_title "Marc Brunet"
     channel_id "UCKtu_JtQCY0yryIy6zK4ZCg"
     fav_count 0
@@ -1161,7 +1161,7 @@ graph [
     step 0
     date "2018-10-08T16:13:25Z"
     title "How To Draw A Puppy Stack (Folding Surprise)"
-    description "Learn how to draw a puppy stack (folding surprise)! ART SUPPLIES we love (Amazon affiliate links): Sharpie Markers ..."
+    description "Learn how to draw a puppy stack (folding surprise)!&#10;&#127912;   ART SUPPLIES we love (Amazon affiliate links): &#10;Sharpie Markers http://a.co/76TMEpK&#10;Printer Paper http://a.co/4KxrkBU&#10;Prismacolor Pencils http://a.co/6lfdKSU&#10;Pentel Oil Pastels http://a.co/8TUq9vN&#10;Pentel Watercolor (tubes) http://a.co/7gS4C8J&#10;Watercolor (dry cake) http://a.co/iuN0vQT&#10;Canson Watercolor Paper http://a.co/7mOYPP5&#10;Watercolor brushes http://a.co/a2x6mKL&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1176,7 +1176,7 @@ graph [
     step 0
     date "2021-01-11T15:30:05Z"
     title "How to Draw Taj Mahal Picture from number 44 | Very Easy Drawing"
-    description "Taj Mahal Drawing from number 44 step-by-step for Beginners in Easy Way Subscribe Painting Channel : Real Art ..."
+    description "Taj Mahal Drawing from number 44 step-by-step for Beginners in Easy Way&#10;&#10;Subscribe Painting Channel : Real Art : https://youtube.com/channel/UCj7dPNus...&#10;&#10;#acdrawing #tajmahaldrawing&#10;&#10;Tajmahel Drawing | Tajmahal Drawing | How to Draw Tajmahal from number 44&#10;&#10;How to Draw Taj Mahal Step-by-step | Easy Drawing for All&#10;https://youtu.be/9-_mwxjKLeo"
     channel_title "A C Drawing"
     channel_id "UCqc-JrBasBeHwMeXpjCVKKA"
     fav_count 0
@@ -1191,7 +1191,7 @@ graph [
     step 0
     date "2022-07-06T15:26:27Z"
     title "How To Draw A Funny Summer Sun"
-    description "Happy summer! Today, Austin and I are learning how to draw a funny summer sun! Art Supplies ~ This is a list of the supplies we ..."
+    description "Happy summer! Today, Austin and I are learning how to draw a funny summer sun! Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1206,7 +1206,7 @@ graph [
     step 0
     date "2022-06-28T13:00:02Z"
     title "How To Draw Sonic the Hedgehog | Sonic 2 Sketch Tutorial"
-    description "SUBSCRIBE for more daily drawing videos like this every single day! https://www.youtube.com/c/CartooningClubHowtoDraw ..."
+    description "SUBSCRIBE for more daily drawing videos like this every single day! &#10;https://www.youtube.com/c/CartooningClubHowtoDraw&#10;&#10;Welcome to the best Online Education Program for artists. Learn how to draw Sonic the Hedgehog with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;&#10;Art Supplies:&#10;Staedtler Black 4B Pencils: https://amzn.to/3LnDQni&#10;Canson Sketch paper: https://amzn.to/3Jeo0tl&#10;&#10;Check out my Sketch Playlist below for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub #sonic #sonicthehedgehog"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -1221,7 +1221,7 @@ graph [
     step 0
     date "2022-05-02T13:00:28Z"
     title "How To Draw A Mom And Baby Fox"
-    description "Mother's Day is coming up! We thought it would be fun to celebrate by learning how to draw a mom and baby fox. We hope you ..."
+    description "Mother's Day is coming up! We thought it would be fun to celebrate by learning how to draw a mom and baby fox. We hope you have a lot of fun drawing with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1236,7 +1236,7 @@ graph [
     step 0
     date "2022-01-14T14:00:14Z"
     title "How to Draw Isabela Madrigal &#127800;Disney Encanto"
-    description "Learn How to Draw cute Isabela Madrigal from Disney's Encanto. Easy, step by step cartoon Hispanic pretty girl drawing."
+    description "Learn How to Draw cute Isabela Madrigal from Disney's Encanto. Easy, step by step cartoon Hispanic pretty girl drawing. #drawsocutedisney #encantoisabela&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -1251,7 +1251,7 @@ graph [
     step 0
     date "2020-01-28T15:36:17Z"
     title "How To Draw A Shark Folding Surprise Puppet"
-    description "Learn how to draw a shark folding surprise puppet! This is a super fun art project for any age. All you need is something to draw ..."
+    description "Learn how to draw a shark folding surprise puppet! This is a super fun art project for any age. All you need is something to draw with, paper, and coloring supplies.&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1266,7 +1266,7 @@ graph [
     step 0
     date "2017-09-28T22:00:02Z"
     title "How to Draw Scary Smile - Halloween Drawings"
-    description "How to Draw Scary Smile - Halloween Drawings Here is an evil smile that I drew. I drew it because so many people requested the ..."
+    description "How to Draw Scary Smile - Halloween Drawings&#10;&#10;Here is an evil smile that I drew. I drew it because so many people requested the evil halloween smile. Halloween is edgy and represents our greatest fears. Its such an amazing time of year, being dangerous within a controlled safe environment. &#10;&#10;Halloween drawings are the exciting by product of this. I go through different halloween drawings step by step and teach you how to draw them. I'm going to be uploading every single day, so don't miss out. &#10;&#10;&#10;Sub here: https://www.youtube.com/subscription_center?add_user=halloweendrawings&#10;&#10;Sub to my main channel: https://www.youtube.com/subscription_center?add_user=easythingstodraw101"
     channel_title "HalloweenDrawings"
     channel_id "UCsZIqtpykFSf-mHdN5IVI4w"
     fav_count 0
@@ -1281,7 +1281,7 @@ graph [
     step 0
     date "2020-09-17T16:20:54Z"
     title "How To Draw Pizza - Preschool"
-    description "This lesson is meant for younger artists. Today, we're learning how to draw pizza! You can also have extra fun with your drawing ..."
+    description "This lesson is meant for younger artists. Today, we're learning how to draw pizza! You can also have extra fun with your drawing by changing it...maybe turn it into a spider pizza. &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1296,7 +1296,7 @@ graph [
     step 0
     date "2020-09-20T19:39:31Z"
     title "How to draw mechs and everything else basically"
-    description "It's finally here. The &#34;how do you draw robots&#34; tutorial. Learn how to draw mechs or whatever you want really, I dunno, just draw ..."
+    description "It's finally here. The &#34;how do you draw robots&#34; tutorial. Learn how to draw mechs or whatever you want really, I dunno, just draw something.&#10;&#10;CHROMA MOMA is &#10;&#10;KENN: https://www.twitter.com/meanhouseart | https://www.instagram.com/meanhouseart &#10;&#10;MUSIC &#127926;&#10;&#10;Lakey Inspired - The Process&#10;Music by Mark Generous - Orange And Pomegranate - https://thmatc.co/?l=16FCEC36&#10;Music by frumhere, kevatta - warm feeling - https://thmatc.co/?l=6E212500&#10;Music by Dylan Rockoff - Anymore (NDAF Chill Remix) - https://thmatc.co/?l=D74AD4A1&#10;Music by Visceral Beats - Best Friends Forever - https://thmatc.co/?l=C511A7C4&#10;Music by frumhere, kevatta - late night bump - https://thmatc.co/?l=E44D9AA2&#10;Music by Mark Generous - Meganne - https://thmatc.co/?l=14E5F668"
     channel_title "Chroma Moma"
     channel_id "UCpgi6wIZv7c6TlAY-d1PMuw"
     fav_count 0
@@ -1311,7 +1311,7 @@ graph [
     step 0
     date "2019-05-27T11:30:01Z"
     title "How To Draw A Heart Flag"
-    description "Follow along with us and learn how to draw a heart shaped flag. We are truly grateful for all of the people that have given their ..."
+    description "Follow along with us and learn how to draw a heart shaped flag. We are truly grateful for all of the people that have given their lives for our country. Thank you!  #howtodraw #artforkidshub&#10;&#10;&#127912;   ART SUPPLIES we love (Amazon affiliate links): &#10;Faber-Castell Art Supplies For Kids! https://amzn.to/2LiN5Xo&#10;Sharpie Markers https://amzn.to/2S6WzXX&#10;Printer Paper https://amzn.to/2FuLT3P&#10;Prismacolor Pencils https://amzn.to/2QYoBob&#10;Pentel Oil Pastels (classroom) https://amzn.to/2OU5Sbo&#10;Pentel Watercolor (tubes) https://amzn.to/2zdSmur&#10;Watercolor (dry cake) https://amzn.to/2zirsBJ&#10;Canson Watercolor Paper https://amzn.to/2S6XvLX&#10;Watercolor brushes https://amzn.to/2S9CY9B&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1326,7 +1326,7 @@ graph [
     step 0
     date "2021-12-14T02:45:03Z"
     title "HOW TO DRAW A PANDA EASY STEP BY STEP - DRAWING A PANDA EASY"
-    description "HOW TO DRAW A PANDA EASY STEP BY STEP - DRAWING A PANDA EASY Drawing and coloring, draw, coloring, how to draw, ..."
+    description "HOW TO DRAW A PANDA EASY STEP BY STEP - DRAWING A PANDA EASY&#10;Drawing and coloring, draw, coloring, how to draw, kawaii drawings, pencil sketch, drawings tumblr, painting, drawing class, how to draw step by step, how to draw easy, drawing outline, sketch drawing, easy drawing, scenery drawing, learn to draw, como dibujar, dibujar, dibujos kawaii, desenhar, como desenhar, desenhos para desenhar, desenhar, desenhos tumblr, desenhos kawaii, dessin kawaii, Como Desenhar, aula de desenho, tutorial,&#10;Desenhando, fazer desenho,&#10;How to Draw, DRAWINGS TUMBLR,&#10;passo a passo, aprender a desenhar,&#10; how to draw easy stuff, easy stuff"
     channel_title "Learn step by step"
     channel_id "UCm5rnY9Iye5Eq_Nq2Y42T-g"
     fav_count 0
@@ -1341,7 +1341,7 @@ graph [
     step 0
     date "2022-06-13T13:00:12Z"
     title "How To Draw A Dad Puppet For Father&#38;#39;s Day"
-    description "Hey, art friends! Today, we're learning how to draw a dad puppet for Father's Day! Art Supplies ~ This is a list of the supplies we ..."
+    description "Hey, art friends! Today, we're learning how to draw a dad puppet for Father's Day!  &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1356,7 +1356,7 @@ graph [
     step 0
     date "2022-03-16T19:00:15Z"
     title "The EASIEST way to start Learning to Draw Anatomy!"
-    description "Artists shown in Video! @Snguine | Tim Lochner | Cao Xiaojv | Nico Wright | @nr_kura | @tarou2 | Mingchen Shen Check out my ..."
+    description "&#9654; Artists shown in Video!&#10;@Snguine | Tim Lochner | Cao Xiaojv | Nico Wright | @nr_kura | @tarou2 | Mingchen Shen&#10;&#10;Check out my brushes! (Procreate, Photoshop &#38; CSP) : &#10;&#9654; www.ergojosh.com/brushes&#10;&#10;For More Timelapse Voiceovers &#38; Breakdowns of how I study and behind the scenes Artwork, Support me on Patreon! &#10;&#9654; https://geni.us/ergojoshpatreon&#10;&#10;My Pinterest &#38; Artstation &#10;&#9654;https://www.pinterest.com/ergojosh/_saved/&#10;&#9654;https://www.artstation.com/ergo_josh/likes&#10;&#10;/////////////////////////////////////////////////////////////////////////////////////////// &#10;PROCREATE BRUSHES--------&#9654; https://geni.us/ergojoshbrushes &#9664;&#10;Get Started with Procreate! &#10;&#9654;https://youtu.be/rbSPSE5SHvE &#10;///////////////////////////////////////////////////////////////////////////////////////////&#10;&#10;The BEST Screen Protectors!&#10;Get Paperlike! &#9654; http://paperlike.com/ergojosh&#10;&#9654;https://youtu.be/gHUw7l2EX3s&#10;&#9654;https://youtu.be/Z483r-3EATs&#10;Sketchboard Pro: --&#9654; https://sketchboardpro.com/&#10;Wanna know what I use for my setup/videos? Check the link below!&#10;&#9654;https://geni.us/ergojoshamazon&#10;///////////////////////////////////////////////////////////////////////////////////////////&#10;&#10;Purchases made through some links will provide some compensation to support the channel. Thank you!"
     channel_title "e r g o j o s h"
     channel_id "UCD6v_eY0IDEGittgHsmd8aQ"
     fav_count 0
@@ -1371,7 +1371,7 @@ graph [
     step 0
     date "2018-03-12T10:00:21Z"
     title "How To Draw A Tulip In A Pot - Plant A Flower Day"
-    description "Plant A Flower Day is every March 12th! We thought it would be a lot of fun to celebrate by learning how to draw a tulip in a pot!"
+    description "Plant A Flower Day is every March 12th! We thought it would be a lot of fun to celebrate by learning how to draw a tulip in a pot!&#10;&#127912;   ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1386,7 +1386,7 @@ graph [
     step 0
     date "2019-12-22T14:00:07Z"
     title "How To Draw Spider-Man | Step By Step Tutorial"
-    description "Learn How to Draw Spider-Man from the largest library of step by step online classes for artists. Grab your pen and paper and ..."
+    description "Learn How to Draw Spider-Man from the largest library of step by step online classes for artists. Grab your pen and paper and follow along as I guide you through these step by step drawing instructions. I use Adobe Photoshop to add a splash of color to my drawings. Check out Photoshop for students in the link below:&#10;&#10;https://www.adobe.com&#10;&#10;Check out my Super Heroes and Villains Playlist for more of your favourite characters.&#10;&#10;How to Draw Super Heroes &#38; Villains&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlopoNpCMws2k3z1Wi_G5OOM&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe a d check out our Community feed for rules and updates. &#10084;&#65039;&#10;&#10;Be sure to &#10084;&#65039;SUBSCRIBE&#10084;&#65039; and click that notification icon &#128276; so you don't miss a single lesson. New art tutorials posted 7 days a week.&#10;&#10;Thanks for watching and I'll see you again tomorrow.&#10;&#10;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10;&#10;FOLLOW ME ON FACEBOOK:&#10;https://www.facebook.com/Cartooning4Fun&#10;&#10;Visit my Official Website: http://www.cartooning4kids.com&#10;FOLLOW ME on TikTok: https://vm.tiktok.com/ZMJhBBEGR/&#65279;&#10;&#10;#cartooningclub #howtodraw #spiderman"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -1401,7 +1401,7 @@ graph [
     step 0
     date "2021-01-21T14:00:26Z"
     title "How To Draw Indominus Rex From Jurassic Park"
-    description "Today, we're learning how to draw the super cool Indominus Rex from Jurassic Park! &#8205;   JOIN OUR ART HUB MEMBERSHIP!"
+    description "Today, we're learning how to draw the super cool Indominus Rex from Jurassic Park!&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1416,7 +1416,7 @@ graph [
     step 0
     date "2021-08-12T12:00:08Z"
     title "How to Draw ANY Pose You Want (WITHOUT Learning Anatomy!)"
-    description "anime pose tutorial in this video, i teach u how to draw literally any anime pose that u want! Watch my other videos! How to Draw ..."
+    description "anime pose tutorial&#10;in this video, i teach u how to draw literally any anime pose that u want!&#10;&#10;&#10;Watch my other videos! &#10;How to Draw BETTER Line Art: https://www.youtube.com/watch?v=m9oYFhoXrRg&#10;How to Draw HOT Anime Boy: https://www.youtube.com/watch?v=B27MR7gNFW4&#10;How to Draw Anime Guy: https://youtu.be/n2Sgp1XDQ78&#10;How to Draw Using Your Phone: https://youtu.be/gU6ZRLqfKtk&#10;How to Draw TRUE BEAUTY: https://www.youtube.com/watch?v=5zDH2SXTinQ&#10;&#10;do U wanna be a youtuber? check out this free tool uwu&#10;https://www.tubebuddy.com/dospordos&#10;&#10;Products:&#10;Mic: https://amzn.to/37mHASx&#10;Pop filter: https://amzn.to/3hkVKI9&#10;Graphics Tablet: https://amzn.to/3hfchNQ&#10;&#10;Music&#10;&#127925;Music provided by BGM President&#10;&#127925;Track : Sunny side up - https://youtu.be/x7uK5IwqqIw&#10;&#10;give my vid a like if you're reading this description :DD"
     channel_title "Kooleen"
     channel_id "UCL_Zrh9lwoOT7ftTRA-npvg"
     fav_count 0
@@ -1431,7 +1431,7 @@ graph [
     step 0
     date "2022-06-30T15:32:10Z"
     title "How To Draw An Exploding Cupcake"
-    description "Today, Hadley and I are learning how to draw a funny exploding cupcake for Independence Day! We hope you have a lot of fun ..."
+    description "Today, Hadley and I are learning how to draw a funny exploding cupcake for Independence Day! We hope you have a lot of fun following along with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1446,7 +1446,7 @@ graph [
     step 0
     date "2019-12-05T18:19:25Z"
     title "How to draw Nezuko"
-    description "This is a step by step tutorial on how to draw Nezuko from the anime Kimetsu no yaiba Please give it a like and share :)"
+    description "This is a step by step tutorial on how to draw Nezuko from the anime Kimetsu no yaiba&#10;Please give it a like and share :)"
     channel_title "Erza Scarlet Art"
     channel_id "UCTPJmcmQkPCN0Sl9LP6UXtA"
     fav_count 0
@@ -1461,7 +1461,7 @@ graph [
     step 0
     date "2019-03-05T12:30:03Z"
     title "How To Draw A Funny iPhone"
-    description "Learn how to draw a funny iPhone! #howtodraw #artforkidshub ART SUPPLIES we love (Amazon affiliate links): Faber-Castell ..."
+    description "Learn how to draw a funny iPhone! #howtodraw #artforkidshub&#10;&#10;&#127912;   ART SUPPLIES we love (Amazon affiliate links): &#10;Faber-Castell Art Supplies For Kids! https://amzn.to/2LiN5Xo&#10;Sharpie Markers https://amzn.to/2S6WzXX&#10;Printer Paper https://amzn.to/2FuLT3P&#10;Prismacolor Pencils https://amzn.to/2QYoBob&#10;Pentel Oil Pastels (classroom) https://amzn.to/2OU5Sbo&#10;Pentel Watercolor (tubes) https://amzn.to/2zdSmur&#10;Watercolor (dry cake) https://amzn.to/2zirsBJ&#10;Canson Watercolor Paper https://amzn.to/2S6XvLX&#10;Watercolor brushes https://amzn.to/2S9CY9B&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1476,7 +1476,7 @@ graph [
     step 0
     date "2014-09-11T14:17:07Z"
     title "How To Draw A Rattlesnake"
-    description "How to draw a rattlesnake...awesome! We've been doing a lot of coloring this week, but we had to take a break and do this super ..."
+    description "How to draw a rattlesnake...awesome! We've been doing a lot of coloring this week, but we had to take a break and do this super cool drawing.&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;&#10;MATERIALS USED IN THIS VIDEO:&#10;Sharpie&#10;Paper&#10;&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1491,7 +1491,7 @@ graph [
     step 0
     date "2022-07-06T19:04:32Z"
     title "The National Lottery Lotto draw results from Wednesday 06 July 2022"
-    description "The National Lottery Lotto draws take place in front of an independent adjudicator. Rules and Procedures apply (and Account ..."
+    description "The National Lottery Lotto draws take place in front of an independent adjudicator.  &#10;&#10;Rules and Procedures apply (and Account Terms if playing online). Players must be 18+ and physically located in the UK or IoM.&#10;&#10;To enter the next available draw, visit http://bit.ly/Play--Lotto&#10;&#10;You can also check your Lotto tickets on our website:&#10;http://bit.ly/LottoCheckResults&#10;&#10;Dream Big Play Small. National Lottery games should always be fun, playing in a way that is right for you. Using our handy toolkit (http://bit.ly/HealthyPlay-Toolkit) you can set limits, take time out or set up reminders.&#10;&#10;#Lotto #NationalLottery #DreamBigPlaySmall #ItCouldBeYou #Hotpicks #LottoLiveDraws #NationalLotteryLiveResults"
     channel_title "The National Lottery"
     channel_id "UCnOiv4Hp3fu43NDHl335cvQ"
     fav_count 0
@@ -1506,7 +1506,7 @@ graph [
     step 0
     date "2017-02-27T16:27:36Z"
     title "How To Draw A Cute Unicorn"
-    description "Learn how to draw a cute unicorn in just a few steps. Become an Art Club member https://www.artforkidshub.com/join-art-club/ ..."
+    description "Learn how to draw a cute unicorn in just a few steps. &#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1521,7 +1521,7 @@ graph [
     step 0
     date "2016-05-12T21:23:11Z"
     title "How to Draw Penguin Easy / Drawing on a Whiteboard"
-    description "How to Draw Penguin Step by Step Very Easy/ Drawing on a Whiteboard. More videos: How to Draw Wolf Easy ..."
+    description "How to Draw Penguin Step by Step Very Easy/ Drawing on a Whiteboard.&#10;&#10;More videos:&#10;How to Draw Wolf Easy - https://youtu.be/zuVulTBs1Ps&#10;How to draw an elephant very easy for beginners - https://youtu.be/xtNLaZ880_0&#10;How to Draw a Shark Very Easy - https://youtu.be/uKlHP16PTBA"
     channel_title "Whiteboard Drawing EZ"
     channel_id "UCEQEZa79a3rLO45NFwcmXhQ"
     fav_count 0
@@ -1536,7 +1536,7 @@ graph [
     step 0
     date "2021-04-24T19:08:50Z"
     title "Easy anime drawing | how to draw anime girl wearing a mask easy step-by-step"
-    description "Easy anime drawing | how to anime girl wearing a mask easy step-by-step Like + subscribe How to draw anime girl How to draw a ..."
+    description "Easy anime drawing | how to anime girl wearing a mask easy step-by-step &#10;&#10;Like + subscribe &#10;&#10;&#10;How to draw anime girl &#10;&#10;How to draw a girl wearing a mask &#10;&#10;..... ...... ...... ......&#10;&#10;All songs &#10;1- &#10;&#10;Fragments - AER&#216;HEAD https://soundcloud.com/aerohead &#10;Creative Commons &#8212; Attribution-ShareAlike 3.0 Unported &#8212; CC BY-SA 3.0 &#10;Free Download / Stream: https://bit.ly/al-fragments&#10;Music promoted by Audio Library https://youtu.be/O7PzeUTESAA&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;2-&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;close your eyes by Rexlambo https://soundcloud.com/rexlambo&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: https://bit.ly/-close-your-eyes&#10;Music promoted by Audio Library https://youtu.be/fa-IRH-WFq8&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;"
     channel_title "Easy to Draw"
     channel_id "UCB4oTt91SQQJnZY5Yo7mxoA"
     fav_count 0
@@ -1551,7 +1551,7 @@ graph [
     step 0
     date "2021-08-02T13:12:41Z"
     title "How To Draw A Cute Cartoon Narwhal"
-    description "Follow along with us and learn how to draw a super cute cartoon narwhal! Art Supplies ~ This is a list of the supplies we used, but ..."
+    description "Follow along with us and learn how to draw a super cute cartoon narwhal!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1566,7 +1566,7 @@ graph [
     step 0
     date "2013-12-28T11:00:03Z"
     title "Learn To Draw #01 - Sketching Basics + Materials"
-    description "DRAWING MATERIALS: Graphite Pencils I Use: http://amzn.to/2olaCcO Charcoal Pencils: http://amzn.to/2oMGquP Kneaded ..."
+    description "DRAWING MATERIALS:&#10;Graphite Pencils I Use: http://amzn.to/2olaCcO&#10;Charcoal Pencils: http://amzn.to/2oMGquP&#10;Kneaded Erasers: http://amzn.to/2pH9tgO&#10;Blending Stumps: http://amzn.to/2ol7uxH &#10;Sketchbook: http://amzn.to/2p8RXpN&#10;Toned Tan Sketchbook: http://amzn.to/2oO4Ggo&#10;6 Shades of Grey Pens: http://amzn.to/2oNT6Sq&#10;Electric Eraser: http://amzn.to/2p8NaEE&#10;&#10;Social Links: https://linktr.ee/SchaeferArt&#10;Site: https://www.SchaeferFineArt.com/&#10;&#10;Learn all of the materials involved in sketching and drawing and also some basic shading techniques and sketching concepts.&#10;&#10;In this video, I start off going through all of the materials you're going to need for learning to sketch and draw. Once you have a better understanding of those, you can start drawing simple shapes and lines and practicing sketching with an HB, B, or 2B pencil. These are good pencils for sketching lightly but also allow you to go a little darker when needed for shading. I plan to cover perspective, values, edges, shading techniques, proportions, landscapes and many other topics of sketching and drawing for beginners and intermediate artists.&#10;&#10;&#8226; My Site: http://www.Brandon-Schaefer.com&#10;&#8226; Facebook: http://www.facebook.com/SchaeferArt&#10;&#8226; Instagram: http://www.instagram.com/SchaeferArt&#10;&#8226; Etsy: http://www.etsy.com/shop/SchaeferArt&#10;&#10;SchaeferArt &#9658; http://www.youtube.com/user/SchaeferArt&#10;&#10;With this Channel, I explore a variety of concepts regarding learning to draw or how to draw almost any subject, learning to paint landscapes &#38; still lifes in acrylic paint or oil paint, and many other topics involving art, painting, technical aspects, and life.&#10;&#10;#LearnToDraw #Sketching #LearnToSketch"
     channel_title "SchaeferArt"
     channel_id "UC26yPlaptBN_X2FfWbJ-iCw"
     fav_count 0
@@ -1581,7 +1581,7 @@ graph [
     step 0
     date "2022-02-08T22:10:34Z"
     title "How To Draw Dogs (Our Top 10 Favorite Dog Lessons)"
-    description "This video is a collection of 10 how-to-draw dog art lessons! Hadley picked these out as her top 10 that we've done so far."
+    description "This video is a collection of 10 how-to-draw dog art lessons! Hadley picked these out as her top 10 that we've done so far. We hope you have a lot of fun drawing dogs with us. &#10;00:00 Hey, art friends!&#10;00:10 How To Draw A Poodle&#10;10:00 How To Draw A Dalmatian&#10;16:40 How To Draw A Schnauzer&#10;27:19 How To Draw A Golden Retriever&#10;34:36 How To Draw A Pomeranian&#10;43:06 How To Draw A Westie&#10;58:08 How To Draw A Chihuahua&#10;01:09:57 How To Draw A Yorkie&#10;01:19:21 How To Draw A Goldendoodle&#10;01:28:10 How To Draw A Border Collie&#10;&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1596,7 +1596,7 @@ graph [
     step 0
     date "2022-07-09T20:00:00Z"
     title "How To Draw Keroppi | Hello Kitty Crafts"
-    description "Hello Friends! Keroppi's birthday is July 10th, so in honor of our friend of the month, we're going to show you how to draw Keroppi!"
+    description "Hello Friends! Keroppi&#8217;s birthday is July 10th, so in honor of our friend of the month, we&#8217;re going to show you how to draw Keroppi! Did you know Keroppi lives in Donut Pond and loves to swim, play games, and play baseball? We think he would approve of this fun activity as well, so let&#8217;s get started!&#10;&#10;Subscribe to the channel for new weekly videos: http://bit.ly/HelloKittyFriends&#10;&#10;Materials needed: &#10;White Paper&#10;Big and small black marker&#10;Green, red and pink markers&#10; &#10;Step-by-step instructions:&#10;(0:53) Step 1: Start by drawing two large circles for Keroppi&#8217;s eyes and color in his pupils.  &#10;(01:02) Step 2: Draw a rounded oval for Keroppi&#8217;s head. &#10;(01:07) Step 3: Keroppi&#8217;s blushing! Fill in his adorable cheeks with pink marker. &#10;(01:14) Step 4:  Fill in his head with your green marker.&#10;(01:21) Step 5: Finish off his head with a wide V for his mouth. &#10;(01:27) Step 6: Draw his arms and a tulip shape for his left foot. &#10;(02:02) Step 7: Draw his right foot to finish off his arms and feet.&#10;(02:04) Step 8: Use green to color his arms and feet.&#10;(02:18) Step 9: Draw three red stripes to complete Keroppi&#8217;s outfit!&#10;(02:35) Step 10: Don&#8217;t forget to use a black marker to complete his bowtie. Very dapper!&#10;If you want to see more supercute content from Hello Kitty and Friends, check out these fun playlists: &#10;&#10;Recent Activities: http://bit.ly/32SjBIu&#10;Supercute Adventures | Season 5: https://bit.ly/3I4JdGU&#10;Supercute Adventures | Season 4: https://bit.ly/3ppBQ4s&#10;Supercute Adventures | Season 3: https://bit.ly/3q0zKt1&#10;Supercute Adventures: https://bit.ly/2HfWT6f&#10;Sweet Moments with Hello Kitty: https://bit.ly/2YGmGuc&#10;Hello Kitty Crafts: http://bit.ly/30DLgfi&#10;Hello Kitty Cooking Fun: http://bit.ly/2uSBZnA&#10;Let's Play, Hello Kitty!: http://bit.ly/2u6skts&#10;Unboxing!: http://bit.ly/362LhKN&#10;Gudetama: http://bit.ly/2R4HsAA&#10; &#10;Subscribe &#38; Follow: &#10;https://www.facebook.com/hellokitty &#10;https://www.instagram.com/hellokitty  &#10;https://www.twitter.com/hellokitty&#10;http://www.pinterest.com/hellokitty&#10;http://www.tiktok.com/@hellokitty&#10;&#10;#HelloKittyandFriends #HowToDraw #SupercuteAdventures&#10;&#169;2022 SANRIO CO.,LTD. Character images are protected by Copyright. All rights reserved."
     channel_title "Hello Kitty and Friends"
     channel_id "UCQBOAYwPdqzr1TxmjT-91Sg"
     fav_count 0
@@ -1611,7 +1611,7 @@ graph [
     step 0
     date "2016-06-08T17:16:47Z"
     title "How To Draw A Cartoon Turtle"
-    description "Follow along with us and learn how to draw a cute cartoon turtle! EMAIL A PHOTO OF YOUR ART: myart@artforkidshub.com MAIL ..."
+    description "Follow along with us and learn how to draw a cute cartoon turtle!&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;To purchase an Art For Kids Hub t-shirt https://artforkidshub.threadless.com&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1626,7 +1626,7 @@ graph [
     step 0
     date "2016-04-20T00:19:28Z"
     title "16: Kids&#38;#39; Tutorial - How to Draw a Flower Sunflower (A) in 2 Min | Simple, Easy &#38;amp; Fun | Vivi Santoso"
-    description "This video is created to show young kids how to create simple, yet cute drawings in a short period of time. I have used these same ..."
+    description "This video is created to show young kids how to create simple, yet cute drawings in a short period of time.  I have used these same techniques  to teach my grade school son to draw for his homework and projects.  Hope this video is helpful.&#10;Be sure to subscribe to my channel for lots more drawing tutorials.  Thanks for watching."
     channel_title "Vivi Santoso"
     channel_id "UC-ssZIpgrd9lQROsYTf1cYg"
     fav_count 0
@@ -1641,7 +1641,7 @@ graph [
     step 0
     date "2018-07-27T21:30:40Z"
     title "How To Draw Funny Popcorn"
-    description "Learn how to draw funny popcorn! ART SUPPLIES we use (amazon affiliate links): Sharpie Markers http://a.co/76TMEpK Printer ..."
+    description "Learn how to draw funny popcorn!&#10;&#127912;  ART SUPPLIES we use (amazon affiliate links): &#10;Sharpie Markers http://a.co/76TMEpK&#10;Printer Paper http://a.co/4KxrkBU&#10;Prismacolor Pencils http://a.co/6lfdKSU&#10;Pentel Oil Pastels http://a.co/8TUq9vN&#10;Pentel Watercolor (tubes) http://a.co/7gS4C8J&#10;Watercolor (dry cake) http://a.co/iuN0vQT&#10;Canson Watercolor Paper http://a.co/7mOYPP5&#10;Watercolor brushes http://a.co/a2x6mKL&#10;&#10;&#128250;   SUBSCRIBE to our channel http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1656,7 +1656,7 @@ graph [
     step 0
     date "2014-12-02T16:00:11Z"
     title "How To Draw Simple Geometric Patterns - Dumbbell Tiling"
-    description "How 2 Draw Simple Geometric Patterns Tutorial #2. Again a very simple geometric pattern which I named 'Dumbblles'. A simple ..."
+    description "How 2 Draw Simple Geometric Patterns Tutorial #2. Again a very simple geometric pattern which I named 'Dumbblles'. A simple idea. A geometric pattern created by square cross lacing lines onto a square grid. Have fun!&#10;&#10;&#9998; &#9998; &#9998; My Coloring Book  &#9998; &#9998; &#9998;:&#10;https://dearingdraws.com/wandering-minds-coloring-book/&#10;&#10;My Website&#10;https://dearingdraws.com/&#10;&#10;FaceBook&#10;http://www.facebook.com/dearingdraws&#10;&#10;Instagram&#10;http://instagram.com/dearing_draws&#10;&#10;Other Books:&#10;http://amzn.to/1xAF1T6&#10;&#10;Some of the Tools and Materials that I use:&#10;&#10;Books:&#10;http://amzn.to/1xAF1T6&#10;&#10;Tools and Materials:&#10;&#10;Staedler Drawing 5 Set Advanced Compass: &#10;http://amzn.to/1FdIf2R&#10;&#10;Faber Castell TK Fine Vario Pencil 0.5 MM&#10;http://amzn.to/1ML43bN&#10;&#10;Triangle Rotring Ruler &#10;http://amzn.to/1ML4i6I&#10;&#10;Black Marker&#10;http://amzn.to/1wcCd3j&#10;&#10;Derwent Paper Size A3 /16.5 x 11.75 inch&#10;http://amzn.to/17I7DTd&#10;&#10;Micron pens&#10;http://amzn.to/1AxnXAy&#10;&#10;Caran D'Ache Pablo Color Pencils&#10;http://amzn.to/1wcAtXY&#10;&#10;Rotring Fineliner pen set 0.3/ 0.5/ 0.7mm&#10;http://amzn.to/19WgpPd"
     channel_title "Dearing Wang"
     channel_id "UCUfc5V23Oy_XD99LHYPvp4Q"
     fav_count 0
@@ -1671,7 +1671,7 @@ graph [
     step 0
     date "2020-06-19T20:34:58Z"
     title "How To Draw A Penrose Triangle - Optical Illusion"
-    description "Learn how to draw a crazy Penrose triangle! This is a fun optical illusion to draw. You can even memorize the steps and draw it ..."
+    description "Learn how to draw a crazy Penrose triangle! This is a fun optical illusion to draw. You can even memorize the steps and draw it again! &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1686,7 +1686,7 @@ graph [
     step 0
     date "2014-11-27T08:49:28Z"
     title "How to draw a princess crown"
-    description "How to draw a princess crown Publishing : Suart86 All Rights Reserved (P) &#38; (C) Suart86 2014."
+    description "How to draw a princess crown&#10;Publishing : Suart86&#10;All Rights Reserved (P) &#38; (C) Suart86 2014"
     channel_title "Suart86"
     channel_id "UCl3k4s54YQomWsy54_hX88w"
     fav_count 0
@@ -1701,7 +1701,7 @@ graph [
     step 0
     date "2020-06-18T12:52:09Z"
     title "How To Draw A Waterfall Landscape - #CampYouTube Draw #WithMe"
-    description "In this lesson, we're learning how to draw a beautiful waterfall landscape! Check out our entire #CampYoutube playlist ..."
+    description "In this lesson, we're learning how to draw a beautiful waterfall landscape! Check out our entire #CampYoutube playlist https://www.youtube.com/playlist?list=PLnoO3k54vcBQOYILzlnnzJEBhWBNpiKLA&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1716,7 +1716,7 @@ graph [
     step 0
     date "2021-11-22T14:00:02Z"
     title "How to Draw Mirabel Madrigal &#129419;Disney Encanto"
-    description "Learn How to Draw cute Mirabel Madrigal from Disney's Encanto. Easy, step by step cartoon Hispanic girl drawing."
+    description "Learn How to Draw cute Mirabel Madrigal from Disney's Encanto. Easy, step by step cartoon Hispanic girl drawing. #drawsocutedisney #drawsocutegirl #encanto&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -1731,7 +1731,7 @@ graph [
     step 0
     date "2018-09-28T13:22:25Z"
     title "How To Draw An Ice Cream Tower (Folding Surprise)"
-    description "Learn how to draw an ice cream tower with folding! ART SUPPLIES we love (Amazon affiliate links): Sharpie Markers ..."
+    description "Learn how to draw an ice cream tower with folding!&#10;&#127912;   ART SUPPLIES we love (Amazon affiliate links): &#10;Sharpie Markers http://a.co/76TMEpK&#10;Printer Paper http://a.co/4KxrkBU&#10;Prismacolor Pencils http://a.co/6lfdKSU&#10;Pentel Oil Pastels http://a.co/8TUq9vN&#10;Pentel Watercolor (tubes) http://a.co/7gS4C8J&#10;Watercolor (dry cake) http://a.co/iuN0vQT&#10;Canson Watercolor Paper http://a.co/7mOYPP5&#10;Watercolor brushes http://a.co/a2x6mKL&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1746,7 +1746,7 @@ graph [
     step 0
     date "2017-10-18T22:00:01Z"
     title "How to Draw a Cat - Easy - Halloween Drawings"
-    description "How to Draw a Cat - Easy - Halloween Drawings In this video I go over how to draw a halloween style cat. Its an image strongly ..."
+    description "How to Draw a Cat - Easy - Halloween Drawings&#10;&#10;In this video I go over how to draw a halloween style cat. Its an image strongly ingrained into our minds when you think of halloween and all it represents.  Usually you see this type of cat in front of a moon. Here is a super fast way to draw a cat. Its probably one of the easiest cats you will ever draw. This drawing tutorial is made for people that can't draw. Anyone can pick up a marker and follow the steps. If you love halloween, please tell me in the comments! Happy Halloween! :D"
     channel_title "HalloweenDrawings"
     channel_id "UCsZIqtpykFSf-mHdN5IVI4w"
     fav_count 0
@@ -1761,7 +1761,7 @@ graph [
     step 0
     date "2018-03-09T15:34:22Z"
     title "How To Draw Paper Mario"
-    description "March 10th is Mario Day! To celebrate, we're learning how to draw Paper Mario. I hope you're going to follow along with me."
+    description "March 10th is Mario Day! To celebrate, we're learning how to draw Paper Mario. I hope you're going to follow along with me.&#10;&#127912;   ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1776,7 +1776,7 @@ graph [
     step 0
     date "2018-11-20T21:15:45Z"
     title "How to draw anime School girl | easy drawing tutorial"
-    description "(May 2020) &#9734; ok just want to say, this video is pretty old, and I'm sorry but it's basically just me drawing. I know I didn't explain ..."
+    description "(May 2020)&#10;&#10;&#9734; ok just want to say, this video is pretty old, and I&#8217;m   sorry but it&#8217;s basically just me drawing. I know I didn&#8217;t explain anything and it&#8217;s not really a &#8220;how to draw&#8221; and so please understand that when I posted this I didn&#8217;t expect it to blow up haha&#8230;&#10;&#10;&#8212;&#8212;&#8212;&#10;&#10;&#9734; If you enjoyed this video make sure to LIKE, COMMENT, AND SUBSCRIBE for more of my content! Don&#8217;t forget to comment down below video ideas or requests for future videos!&#10;&#10;&#8212;&#8212;&#8212;&#10;&#10;&#9734; SOCIALS:&#10;Instagram: https://instagram.com/draws_jenni?utm_medium=copy_link&#10;Tiktok: https://vm.tiktok.com/ZMeTfCpSb/&#10;&#10;&#8212;&#8212;&#8212;&#10;&#10;&#9734; I DO NOT OWN ANY MUSIC USED IN THIS VIDEO!&#10;&#10;&#10;&#8212;&#8212;&#8212;&#10;&#10;&#9734; I hope everyone is having a nice day today! See you in the next video! Have a good one!"
     channel_title "Jenni Draws"
     channel_id "UCU8N8_lRvVU53JiivKYdzeA"
     fav_count 0
@@ -1791,7 +1791,7 @@ graph [
     step 0
     date "2020-05-29T13:00:21Z"
     title "How To Draw Godzilla"
-    description "Learn how to draw a simple version of Godzilla! Be sure to add a background too! &#8205;   JOIN OUR ART HUB MEMBERSHIP!"
+    description "Learn how to draw a simple version of Godzilla! Be sure to add a background too! &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1806,7 +1806,7 @@ graph [
     step 0
     date "2021-11-03T13:00:08Z"
     title "How To Draw a Dragon | Sketch Tutorial"
-    description "Learn how to draw a realistic Dragon with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy ..."
+    description "Learn how to draw a realistic Dragon with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you need ideas on what to draw then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list.&#10;&#10;Check out my Sketch Playlist below for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;Supplies used:&#10;For my regular drawings I start with a black Sharpie fine point marker. I then use Bianyo brand markers to color them in or you can use whatever you feel most comfortable with. I'm also drawing on printer friendly paper to prevent ink bleeding.&#10;&#10;For my sketch tutorials I experiment with various pencil brands but right now I'm happy using black Staedtler 2B-8B pencils on sketch paper. My go to is the 4B pencil.&#10;&#10;Share today's drawing with me on Facebook, Instagram, or on Twitter for a chance to be featured in an upcoming Artist Spotlight.&#10084;&#65039;&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;Visit our Club website for more information, lessons, and news:&#10;https://bit.ly/3u6i4MK&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -1821,7 +1821,7 @@ graph [
     step 0
     date "2017-06-12T16:15:13Z"
     title "How To Draw A Dachshund"
-    description "Learn how to draw a dachshund! Grab a marker and some paper, we hope you're going to follow along with us. Become an Art ..."
+    description "Learn how to draw a dachshund! Grab a marker and some paper, we hope you're going to follow along with us. &#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1836,7 +1836,7 @@ graph [
     step 0
     date "2016-06-09T11:22:20Z"
     title "How to draw a COIN FOR 10 SECONDS"
-    description "In this video tutorial I show you how to draw a COIN FOR 10 SECONDS!!! These are 5 amazing simple tricks that you can perform ..."
+    description "In this video tutorial I show you how to draw a COIN FOR 10 SECONDS!!!&#10;These are 5 amazing simple tricks that you can perform at home and you need to know. Are so easy and funny this Life hacks!!!&#10;&#10;Detailed information for the incredible tricks in the video:&#10;&#10;1) No-leak magic bag: You need is a zip baggy, bamboo skewers and water. Fill the bag almost to the top. Zip it shut, and start sticking bamboo skewers through the bag. Sometimes a few drops will leak out, but overall, this is a simple yet impressive trick!&#10;&#10;2) Printing coin picture on a paper: You need is a pencil ( not a pen ), piece of paper and coin. Set a white piece of paper on top of the coin where you would like the coin's impression to be. Hold the paper down firmly with your hand. You want to make sure it is still and stays in the same position the whole time you are creating the rubbing. This way, the impression will be clear, and not blurred.&#10;Using either the side of a pencil or a colourful crayon, rub back and forth across the surface of the coin as it sits underneath the paper. An impression of the coin will begin to appear. Make sure you rub carefully, as you don't want to tear the paper.&#10;Continue rubbing until the entire impression of the coin is showing up on the paper. You can rub lightly for a soft image, or rub a bit longer for a darker image. You can repeat with the other side of the coin using another part of the paper. Then try it with all of the other coins you gathered!&#10;&#10;3) Soap in Microwave: I put a soap into the microwave on high for about 2 minutes and watch it expand like crazy.&#10;This is an old experiment that we have been wanting to try. The soap expands due to the pockets of air in the soap. It was an old myth that ivory soap got that way because they whipped the soap mixture too long causing the soap to contain little pockets of air. So that is supposedly why it is the soap that Watch what happens when we do it!&#10;&#10;4) Experiment with water drops: This super simple science experiment requires only a penny, some water, and a dropper (or syringe). I show you how could carefully squeeze drops of water at a time onto the top of the penny, and the droplets would combine to form a bubble of water.&#10;WHAT'S HAPPENING?&#10;Water has a high surface tension. Surface tension helps a drop of water hold its shape. If the coin is dry and flat, the water can be added until it&#8217;s almost twice as high as the coin itself.&#10;&#10;5) Magic Experiment: Fill up the a glass with water, keep a paper over the glass and keep the palm of your hand paced on the paper and turn the glass upside down and let it go. The card remains attached to the rim of the glass and does not allow the water to flow out. BOOM!!!!!&#10;WHY DOES THIS HAPPEN :&#10;This happens because the air pressure exerted on the paper from underneath is greater that the weight of the water inside the glass. This is why the card manages to hold up the water not letting it spill out.&#10;&#10;5 Simple Tricks To Mess With Your Friends!!!&#10;Feel the magic!!!&#10;&#10;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&#10;Subscribe if you like: DIY's, diy craft projects, diy crafts tutorials, diy ideas, crafts tutorials  and more! This channel is a place where I share my love for life and all-things girly!&#10;Subscribe and let's be allies :)&#10;Check back for new videos every week!&#10;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&#10;&#10084;Please subscribe to my channel&#10084;:&#10;www.youtube.com/MORENDIY&#10;&#10;&#10047;&#10047;&#10047;FOLLOW ME&#10047;&#10047;&#10047;:&#10;&#10142; Instagram: https://instagram.com/morenadiy/&#10;&#10142; VK : http://vk.com/morena_diy&#10;&#10142; VK group: http://vk.com/morenadiy&#10;&#10142; Facebook: https://www.facebook.com/groups/morenadiy/&#10;&#10;&#1050;&#1086;&#1084;&#1087;&#1086;&#1079;&#1080;&#1094;&#1080;&#1103; &#34;Italian Afternoon&#34; &#1087;&#1088;&#1080;&#1085;&#1072;&#1076;&#1083;&#1077;&#1078;&#1080;&#1090; &#1080;&#1089;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1102; Twin Musicom. &#1051;&#1080;&#1094;&#1077;&#1085;&#1079;&#1080;&#1103;: Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/).&#10;&#1048;&#1089;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;: http://www.twinmusicom.org/"
     channel_title "MORENA DIY"
     channel_id "UCU1Q_8uk_xgAWXG7OFyVyMw"
     fav_count 0
@@ -1851,7 +1851,7 @@ graph [
     step 0
     date "2017-01-30T12:00:02Z"
     title "How To Draw Ariel The Little Mermaid"
-    description "Learn how to draw a cute simple version of Ariel from The Little Mermaid! So grab those markers and coloring pencils and follow ..."
+    description "Learn how to draw a cute simple version of Ariel from The Little Mermaid! So grab those markers and coloring pencils and follow along with us! Also, check out Disney's official Ariel princess website http://princess.disney.com/ariel&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1866,7 +1866,7 @@ graph [
     step 0
     date "2021-06-06T18:21:02Z"
     title "How to draw Hands in 10 Minutes | Tutorial | Drawlikeasir"
-    description "How to draw hands in less than 10 minutes. I made it an easy, beginner friendly tutorial, I hope it helps you guys out :) &#9655; Wooden ..."
+    description "How to draw hands in less than 10 minutes.&#10;I made it an easy, beginner friendly tutorial, I hope it helps you guys out :)&#10;&#10;&#9654; Wooden hand Doll&#10;https://amzn.to/3x1SLeR&#10;&#9654;Handy APP (Android)&#10;https://play.google.com/store/apps/details?id=com.beliefengine.handyapp&#38;hl=en&#10;&#9654; Handy APP (IOS)&#10;https://apps.apple.com/us/app/handy-art-reference-tool/id478643661&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#128073;&#128073; https://drawlikeasir.com/materials &#128072;&#128072;&#10;&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Website -------------- https://drawlikeasir.com&#10;&#10149; Twitter ---------------- https://twitter.com/Drawinglikeasir&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;&#10;00:00 - Intro&#10;01:03 - How to draw a finger&#10;04:03 - How to draw the palm / Backhand&#10;06:36 - How to draw a thumb&#10;07:50 - Tips &#38; tricks for drawing hands&#10;&#10;&#127925;Hintergrundmusik&#127925;&#10;https://youtu.be/U7vg4ZKFf54"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -1881,7 +1881,7 @@ graph [
     step 0
     date "2020-04-02T18:27:06Z"
     title "How To Draw A Mermicorn"
-    description "Today, we're learning how to draw a really cute mermicorn! Join our monthly membership and download our app! You can watch ..."
+    description "Today, we're learning how to draw a really cute mermicorn!&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1896,7 +1896,7 @@ graph [
     step 0
     date "2015-10-22T17:54:54Z"
     title "How to Draw a Cat in a Witches Hat - Halloween Drawings"
-    description "How to Draw a Cat in a Witches Hat - Halloween Drawings In this drawing I go over how to draw a cat wearing a witches ..."
+    description "How to Draw a Cat in a Witches Hat - Halloween Drawings&#10;&#10;In this drawing I go over how to draw a cat wearing a witches halloween hat.  I try and go through it step by step. I try to put my thought on the drawing down into words.  Check out the Video! :D&#10;&#10;BUY an ARM PENCIL CASE: http://arm-adillo.com&#10;MAIN SITE: http://www.EnzymeArt.com"
     channel_title "HalloweenDrawings"
     channel_id "UCsZIqtpykFSf-mHdN5IVI4w"
     fav_count 0
@@ -1911,7 +1911,7 @@ graph [
     step 0
     date "2021-02-11T14:00:12Z"
     title "How To Draw Valentine&#38;#39;s Baby Yoda (Grogu)"
-    description "Awe, today, we're learning how to draw Baby Yoda (Grogu) holding a heart! &#8205;   JOIN OUR ART HUB MEMBERSHIP!"
+    description "Awe, today, we're learning how to draw Baby Yoda (Grogu) holding a heart!&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1926,7 +1926,7 @@ graph [
     step 0
     date "2021-03-26T13:00:01Z"
     title "How to Draw a Bunny Easy &#127800;&#128048; Spring"
-    description "Happy Spring Cuties! Learn How to Draw a cute Bunny Rabbit EASY, step by step to celebrate Easter and Spring. Kawaii ..."
+    description "Happy Spring Cuties! &#129392; Learn How to Draw a cute Bunny Rabbit EASY, step by step to celebrate Easter and Spring. Kawaii cartoon bunny art. &#128149;How to Draw Cute Spring Art Easy: https://www.youtube.com/watch?v=mTahEfXnWx4&#38;list=PLbVzRnseEFtzDJZD6CzDBqZZjglpd9E62&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -1941,7 +1941,7 @@ graph [
     step 0
     date "2018-04-02T14:37:58Z"
     title "How To Draw A Sunflower"
-    description "Learn how to draw a sunflower! This lesson is super simple, perfect for young artists and still fun for any age ART SUPPLIES ..."
+    description "Learn how to draw a sunflower! This lesson is super simple, perfect for young artists and still fun for any age &#127803;&#10;&#127912;   ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1956,7 +1956,7 @@ graph [
     step 0
     date "2019-08-07T15:47:55Z"
     title "How to draw a Girl with Glasses step by step//Pencil sketch"
-    description "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you. pencil name : DOMS ( ZOOM ..."
+    description "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.&#10;&#10;pencil  name :  DOMS ( ZOOM ULTIMATE DARK ) pencil &#10;&#10;&#9661; Visit to my other channel :&#10;&#10142; https://www.youtube.com/channel/UC-K2...&#10;&#10;Visit to my channel: https://www.youtube.com/channel/UCqdh...&#10;&#10;.................... Music &#9834;&#9835;  ......................&#10;Song: Lost In The Night (ft. Pipa Moran) by THBD https://soundcloud.com/thbdsultan&#10;Creative Commons &#8212; Attribution 3.0 Unported&#8212; CC BY 3.0 &#10;http://creativecommons.org/licenses/b...&#10;&#10;Song: Reflona by SilentCrafter https://soundcloud.com/user-907904720&#10;Creative Commons &#8212; Attribution-NoDerivs 3.0 Unported  &#8212; CC BY-ND 3.0 &#10;Free Download / Stream: http://bit.ly/Reflona&#10;Music promoted by Audio Library https://youtu.be/ZdhZ1GAT8BQ&#10;&#10;Song: Endless Summer by extenz https://soundcloud.com/extenz&#10;Creative Commons &#8212; Attribution 3.0 Unported  &#8212; CC BY 3.0 &#10;Free Download / Stream: http://bit.ly/2REdANn&#10;Music promoted by Audio Library https://youtu.be/dH8sbGnmfZo&#10; &#10;Song: Good For You by THBD https://soundcloud.com/thbdsultan&#10;Creative Commons &#8212; Attribution 3.0 Unported&#8212; CC BY 3.0 &#10;http://creativecommons.org/licenses/b...&#10;Music promoted by Audio Library https://youtu.be/-K_YSjqKgvQ&#10;..................... &#9834;&#9835; .................................&#10;&#10;#GirlFace #PencilSketch&#10;&#10;If u like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Mukta easy drawing"
     channel_id "UCqdh3prF3MqEZ9opJPlbi1g"
     fav_count 0
@@ -1971,7 +1971,7 @@ graph [
     step 0
     date "2019-10-14T14:49:48Z"
     title "How To Draw A Monarch Butterfly"
-    description "Follow along with us and learn how to draw a Monarch butterfly! Join our monthly membership and download our app! You can ..."
+    description "Follow along with us and learn how to draw a Monarch butterfly!&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -1986,7 +1986,7 @@ graph [
     step 0
     date "2017-11-11T09:54:21Z"
     title "How to Draw a House Step by Step Easy for Beginners/Kids &#8211; Simple Houses Drawing Tutorial"
-    description "Learn how to draw a House with the help of our drawing lessons! In this video I will walk you step by step through the drawing ..."
+    description "Learn how to draw a House with the help of our drawing lessons! In this video I will walk you step by step through the drawing techniques you will need to create your own House pencil drawings. On this channel you will find drawing tutorials for kids and also for beginners. This lesson will be showing you how you can sketch a House with an easy tutorial.&#10;&#10;How do you draw a House? Anyone can draw Houses. With some practices and learn the basics of drawing you could even learn how to draw like a pro! Even if you plan on drawing cartoon-style House, learning these basics will help your House drawings stand out from the rest. The more you draw, the more you'll improve. &#10;&#10;Simple house drawing &#8211; what to draw actually? Practice with basic, elemental shapes of house in the beginning. These basic shapes will form the basis of many harder shapes as you continue drawing. Then challenge yourself some more by drawing variations of a shape: different sizes, and different kinds of houses. Try to do at least one drawing a day, even if it's just a tiny sketch. Keep practicing and good luck with your drawing.&#10;&#10;New house drawing: https://youtu.be/6OhVa1ZkXUI &#10;Watch more videos: https://youtu.be/KtT_I6aoEms&#10;&#10;UCIDraw is a channel where you can find fun and simple house (and more) drawing tutorials to follow in a step-by-step manner without all the technical stuff. New drawing video tutorials uploaded several times a week. Flick through the channel to see the latest! And don&#8217;t forget to subscribe, like, share and comment our videos.&#10;Subscribe: https://www.youtube.com/channel/UC0GhfaQPXitnoD-0QfxrodQ?sub_confirmation=1&#10;Channel: http://www.youtube.com/channel/UC0GhfaQPXitnoD-0QfxrodQ&#10;Google+: https://plus.google.com/u/0/b/103559907489907612730/&#10;Video link: https://www.youtube.com/watch?v=K2EBkXrnh0s"
     channel_title "UCIDraw"
     channel_id "UC0GhfaQPXitnoD-0QfxrodQ"
     fav_count 0
@@ -2001,7 +2001,7 @@ graph [
     step 0
     date "2021-06-03T13:00:10Z"
     title "How To Draw Mew From Pok&#233;mon"
-    description "Today, Jack and I are learning how to draw Mew from Pok&#233;mon! &#8205;   JOIN OUR ART HUB MEMBERSHIP!"
+    description "Today, Jack and I are learning how to draw Mew from Pok&#233;mon!&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2016,7 +2016,7 @@ graph [
     step 0
     date "2022-07-05T12:44:56Z"
     title "I tried to paint ANIME vs. SEMI REALISTIC - Draw Hatsune Miku #shorts #hutachan"
-    description "Thank you for watching!! Please don't forget to subscribe to my channel for more videos like this."
+    description "&#10084; Thank you for watching!! Please don't forget to subscribe to my channel for more videos like this.&#10;----------------------------------------------------------------------------------------&#10;Shop for my designs &#9658; https://shop.spreadshirt.com/huta-chan&#10;Meow ART &#9658; https://www.youtube.com/watch?v=-CvfW4UN6QQ&#10;Meow House &#9658; https://www.youtube.com/channel/UCsCNy2kpQPpp1S8czP23Lng&#10;Commission &#9658; hutacommission96@gmail.com&#10;&#10;Instagram &#9658; https://www.instagram.com/hutachan96/&#10;Facebook &#9658; https://www.facebook.com/hutachan96&#10;TikTok &#9658; https://www.tiktok.com/@hutachan_96&#10;Twitter &#9658; https://twitter.com/hutachan96&#10;-------------------------------------------------------------------------------------------&#10;Official Channel&#10;&#169; B&#7843;n quy&#7873;n thu&#7897;c v&#7873; Huta Chan&#10;&#169; Copyright by Huta Chan &#9758; Do Not Reup&#10;&#10;#hutachan #howtodraw #drawing #hutachanstudio #hutaart &#10;#HutaChan #artdrawing #semirealistic #style #animestyle #watercolor #HutaChan96 #art"
     channel_title "Huta Chan"
     channel_id "UC8zu2OozCIfLIoDyCQmlHhA"
     fav_count 0
@@ -2031,7 +2031,7 @@ graph [
     step 0
     date "2020-03-18T16:36:21Z"
     title "How To Draw A Big Easter Bunny Portrait"
-    description "Today we're learning how to draw The Easter Bunny portrait! Join our monthly membership and download our app! You can ..."
+    description "Today we're learning how to draw The Easter Bunny portrait! &#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2061,7 +2061,7 @@ graph [
     step 0
     date "2021-09-29T17:00:21Z"
     title "How To Draw The Grim Reaper Cute Cartoon"
-    description "Today, Hadley and I are learning how to draw a funny cute grim reaper for Halloween! Art Supplies ~ This is a list of the supplies ..."
+    description "Today, Hadley and I are learning how to draw a funny cute grim reaper for Halloween! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2091,7 +2091,7 @@ graph [
     step 0
     date "2021-03-24T13:00:11Z"
     title "How To Draw A Fishbowl - Preschool"
-    description "Today, Olivia and I are learning how to draw a super simple fishbowl. This lesson is meant for younger artists, but it's still a lot of ..."
+    description "Today, Olivia and I are learning how to draw a super simple fishbowl. This lesson is meant for younger artists, but it's still a lot of fun for everyone! &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2106,7 +2106,7 @@ graph [
     step 0
     date "2022-07-05T08:22:25Z"
     title "Bolalar uchun yoqimli sher va rangni qanday chizish mumkin .How to draw cute lion and color for kids"
-    description "Bolalar uchun yoqimli sher va rangni qanday chizish mumkin .How to draw cute lion and color for kids #cypetcany ,#&#1089;&#1091;&#1088;&#1077;&#1090;&#1073;&#1086;&#1103;&#1091; ..."
+    description "Bolalar uchun yoqimli sher va rangni qanday chizish mumkin .How to draw cute lion and color for kids&#10;#cypetcany ,#&#1089;&#1091;&#1088;&#1077;&#1090;&#1073;&#1086;&#1103;&#1091; ,#&#1090;&#1091;&#1089;&#1090;&#1077;&#1088; ,#rasmchizish ,#&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1099;&#1087;&#1091;&#1081;&#1088;&#1077;&#1085;&#1091; ,#&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081; ,#drawdolls ,#bolalaruchunrasmchizish ,#bolalar ,#chizish ,#drawingforchildren ,#drawingforkids ,#&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090; ,#&#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1199;&#1095;&#1199;&#1085;&#1089;&#1199;&#1088;&#1257;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091; ,#&#231;ocuklari&#231;in&#231;izim ,#&#231;ocuklar ,#bolalaruchun ,#&#231;izim #&#231;izim ,#dessinpourenfants ,#draw #drawing #drawtoys ,#drawpicture ,#drawpictureozbek ,#drawpicturevideo ,#cutedrawing ,#cutedrawingforkids ,#cutedraws ,#&#1089;&#1091;&#1088;&#1077;&#1090; ,#&#1089;&#1072;&#1083;&#1091; ,#&#1073;&#1086;&#1103;&#1091; ,#&#1090;&#1091;&#1089;&#1090;&#1077;&#1088; ,#rasm ,#&#1089;&#1072;&#1083;&#1099;&#1087; ,#&#1091;&#1081;&#1088;&#1077;&#1085;&#1091; ,#&#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; ,#&#1089;&#1072;&#1083;&#1091; ,#bolalar ,#rasmchizish ,#rasm ,#&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; ,#&#1076;&#1083;&#1103; ,#&#1076;&#1077;&#1090;&#1077;&#1081; ,#drawing#for#children ,#&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072; ,#&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085; ,#&#1089;&#1091;&#1088;&#1077;&#1090; ,"
     channel_title "BeeBee TV"
     channel_id "UCDwKU9bqL1JZiqmtNAWzcqg"
     fav_count 0
@@ -2121,7 +2121,7 @@ graph [
     step 0
     date "2021-09-28T13:07:53Z"
     title "How To Draw A Halloween Folding Surprise (Skeleton Grave)"
-    description "Follow along with us and learn how to draw a really cool Halloween folding surprise. It's of a cartoon skeleton breaking out of a ..."
+    description "Follow along with us and learn how to draw a really cool Halloween folding surprise. It's of a cartoon skeleton breaking out of a grave!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2136,7 +2136,7 @@ graph [
     step 0
     date "2012-05-05T18:47:59Z"
     title "How to Draw Clouds / Sky with Pencil || Very Easy Drawing Tips &#38;amp; Tricks 3"
-    description "How to draw Clouds / Sky with Pencil || Very Easy Drawing Tips &#38; Tricks 3. In this video I demonstrate how to draw clouds very ..."
+    description "How to draw Clouds / Sky with Pencil || Very Easy Drawing Tips &#38; Tricks 3. In this video I demonstrate how to draw clouds very easily and in very short time. You can always add detail layer on top of this. I believe its the easiest method/ way to draw clouds that exists.&#10;&#10;how to draw a cloud drawing clouds paint with pencil learn storm art lessons drawings of realistic free online for step by tutorials cartoon learning steps who cartoons pictures easy landscape the on sketching rain sketch class clouded lesson beginners pencils sky stars in nature scene scenes from kids beautiful is natural talent landscapes artists that set types sketches grass cool color best textures techniques moon better black and white amazing artist very skies horizon trick how to draw a cloud drawing clouds paint with pencil learn storm art lessons drawings of realistic free online for step by tutorials cartoon learning steps who cartoons pictures easy landscape the on sketching rain sketch class clouded lesson beginners pencils sky stars in nature scene scenes from kids beautiful is natural talent landscapes artists that set types sketches grass cool color best textures techniques moon better black and white amazing artist very skies horizon trick how to draw a cloud drawing clouds paint with pencil learn storm art lessons drawings of realistic free online for step by tutorials cartoon learning steps who cartoons pictures easy landscape the on sketching rain sketch class clouded lesson beginners pencils sky stars in nature scene scenes from kids beautiful is natural talent landscapes artists that set types sketches grass cool color best textures techniques moon better black and white amazing artist very skies horizon trick how to draw a cloud drawing clouds paint with pencil learn storm art lessons drawings of realistic free online for step by tutorials cartoon learning steps who cartoons pictures easy landscape the on sketching rain sketch class clouded lesson beginners pencils sky stars in nature scene scenes from kids beautiful is natural talent landscapes artists that set types sketches grass cool color best textures techniques moon better black and white amazing artist very skies horizon trick"
     channel_title "Riar Art"
     channel_id "UCDHsVNkt45SwPVCq3U5SOVw"
     fav_count 0
@@ -2151,7 +2151,7 @@ graph [
     step 0
     date "2022-05-18T13:02:48Z"
     title "How To Draw A Minecraft Parrot"
-    description "We hope you and your little artists have a lot of fun following along with us and learning how to draw a Minecraft parrot!"
+    description "We hope you and your little artists have a lot of fun following along with us and learning how to draw a Minecraft parrot!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2166,7 +2166,7 @@ graph [
     step 0
     date "2021-03-06T15:53:33Z"
     title "How To Draw Tiger | Sketch Saturday"
-    description "Learn How to Draw a realistic Tiger. SUBSCRIBE for more tutorials like this every single day! Check out my Sketch Playlist below ..."
+    description "Learn How to Draw a realistic Tiger. SUBSCRIBE for more tutorials like this every single day! &#10;&#10;Check out my Sketch Playlist below for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;Visit and Subscribe to our Cartooning Club Junior channel for even more lessons each week! https://www.youtube.com/channel/UCwuY5vFq1JrYuJUldW1-kYg&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;***********************************************************************************&#10;&#10;#howtodraw #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -2181,7 +2181,7 @@ graph [
     step 0
     date "2018-07-11T22:49:17Z"
     title "How To Draw Funny Cupcakes"
-    description "Learn how to draw funny cupcakes! Support the stream: https://streamlabs.com/ArtforKidsHub ART SUPPLIES we use (amazon ..."
+    description "Learn how to draw funny cupcakes!&#10;Support the stream: https://streamlabs.com/ArtforKidsHub &#10;&#127912;  ART SUPPLIES we use (amazon affiliate links): &#10;Sharpie Markers http://a.co/76TMEpK&#10;Printer Paper http://a.co/4KxrkBU&#10;Prismacolor Pencils http://a.co/6lfdKSU&#10;Pentel Oil Pastels http://a.co/8TUq9vN&#10;Pentel Watercolor (tubes) http://a.co/7gS4C8J&#10;Watercolor (dry cake) http://a.co/iuN0vQT&#10;Canson Watercolor Paper http://a.co/7mOYPP5&#10;Watercolor brushes http://a.co/a2x6mKL&#10;&#10;&#128250;   SUBSCRIBE to our channel http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2196,7 +2196,7 @@ graph [
     step 0
     date "2022-06-10T14:00:00Z"
     title "How to Draw BTS &#38;amp; ARMY / Acrylic Painting for Beginners"
-    description "Today, I painted a view of the BTS concert. Beginners can draw along easily. Follow me step by step. Please subscribe and like."
+    description "Today, I painted a view of the BTS concert.&#10;Beginners can draw along easily. &#10;Follow me step by step.&#10;Please subscribe and like. Thank you~~&#10;&#10;&#50724;&#45720;&#51008; &#48169;&#53444;&#49548;&#45380;&#45800; &#44277;&#50672;&#51109;&#47732;&#51060; &#48372;&#51060;&#45716; &#54413;&#44221;&#51012; &#44536;&#47140;&#48372;&#50520;&#50612;&#50836;. &#10;&#52488;&#48372;&#51088; &#48516;&#46308;&#46020; &#49789;&#44172; &#46384;&#46972; &#44536;&#47540;&#49688; &#51080;&#50612;&#50836;. &#10;&#52264;&#44540;&#52264;&#44540; &#46384;&#46972;&#44536;&#47140;&#48372;&#49464;&#50836;.&#10;&#44396;&#46021;&#44284; &#51339;&#50500;&#50836; &#44845; &#48512;&#53441;&#46300;&#47140;&#50836;. &#44048;&#49324;&#54633;&#45768;&#45796;~~&#10;&#10;Colors listed on the screen&#10;-Acrylic painting&#10;-Canvas 25cm*25cm / 28cm*23cm&#10;BGM uses the YouTube library&#10; #AcrylicPainting #BTSpainting #painting"
     channel_title "Joony art"
     channel_id "UCjkGAyhG0Q6H4_gzdfTMg-g"
     fav_count 0
@@ -2211,7 +2211,7 @@ graph [
     step 0
     date "2017-03-08T13:30:01Z"
     title "How To Draw A Cute Birthday Cake"
-    description "Follow along and draw a cute birthday cake! You can learn more and purchase our funny food ebook here ..."
+    description "Follow along and draw a cute birthday cake! You can learn more and purchase our funny food ebook here https://www.artforkidshub.com/book/draw-funny-food/&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2226,7 +2226,7 @@ graph [
     step 0
     date "2021-08-14T13:15:01Z"
     title "How To Draw a DOG | GOLDEN LAB PUPPY | Sketch Saturday"
-    description "If you want to learn how to sketch the easy way then follow along with today's lesson. Learn how to draw a golden lab puppy in ..."
+    description "If you want to learn how to sketch the easy way then follow along with today&#8217;s lesson. Learn how to draw a golden lab puppy in this week's Sketch Saturday tutorial. If you need ideas on what to draw then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list.&#10;&#10;Check out my Sketch Playlist below for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;Share today's drawing with me on Facebook, Instagram, or on Twitter for a chance to be featured in an upcoming Artist Spotlight.&#10084;&#65039;&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;***********************************************************************************&#10;&#10;#howtodraw #cartooningclub #sketch"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -2241,7 +2241,7 @@ graph [
     step 0
     date "2021-01-13T14:00:05Z"
     title "How To Draw A Snake - Cobra - Advanced"
-    description "Today, Jack and I are learning how to draw a snake...a cobra snake! We hope you have a lot of fun following along with us too."
+    description "Today, Jack and I are learning how to draw a snake...a cobra snake! We hope you have a lot of fun following along with us too.&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2256,7 +2256,7 @@ graph [
     step 0
     date "2014-03-08T13:12:32Z"
     title "How to draw a wave for kids"
-    description "You can see the original tutorial of How to draw a wave for kids at ..."
+    description "You can see the original tutorial of How to draw a wave for kids at http://www.drawingnow.com/tutorials/119616/how-to-draw-a-wave-for-kids/"
     channel_title "DrawingNow"
     channel_id "UCEVUT5iso7zmNTtwYd7eY5w"
     fav_count 0
@@ -2271,7 +2271,7 @@ graph [
     step 0
     date "2016-10-12T13:56:58Z"
     title "How To Draw Cartoon Candy Corn"
-    description "Did you know there's more to this lesson? Visit https://www.artforkidshub.com/join-art-club/ to become an Art Club Member!"
+    description "Did you know there's more to this lesson? Visit https://www.artforkidshub.com/join-art-club/ to become an Art Club Member!&#10;&#10;SUBSCRIBE to us on YOUTUBE!&#10;http://bit.ly/afksubscribe&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW our INSTAGRAM!&#10;http://instagram.com/artforkidshub&#10;&#10;EMAIL A PHOTO OF YOUR ART!&#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART!&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;Hi, my name is Rob. I have three super cool kids. We love doing art and sharing it with others. We upload new art videos Monday through Friday."
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2286,7 +2286,7 @@ graph [
     step 0
     date "2020-09-25T13:00:10Z"
     title "How to Draw AMONG US Game Character"
-    description "Are you a Crewmate or an Impostor?? Learn How to Draw and Color a cute Among Us Game character spacesuit easy, step by ..."
+    description "Are you a Crewmate or an Impostor?? &#128522;Learn How to Draw and Color a cute Among Us Game character spacesuit easy, step by step drawing lesson tutorial. This online multiplayer social deduction game takes place in a space themed setting where players take the role of either Crewmate or Impostor. &#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -2301,7 +2301,7 @@ graph [
     step 0
     date "2016-08-31T13:00:01Z"
     title "How To Draw A Cartoon Tinkerbell"
-    description "Learn how to draw a cartoon Tinkerbell. Have you ever visited Disney's fairy website? Check it out! You can look at pictures of ..."
+    description "Learn how to draw a cartoon Tinkerbell. Have you ever visited Disney's fairy website? Check it out! You can look at pictures of other fairies and try drawing them on your own. http://fairies.disney.com/tinker-bell&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;To purchase an Art For Kids Hub t-shirt https://artforkidshub.threadless.com&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2316,7 +2316,7 @@ graph [
     step 0
     date "2019-07-15T00:47:09Z"
     title "How To Draw Faces- Front View: CARTOONING 101 #1"
-    description "Get my new PENCIL PACK for PROCREATE here: https://gum.co/beejaydelpencils ..."
+    description "&#10084;&#65039;Get my new PENCIL PACK for PROCREATE here: &#10;https://gum.co/beejaydelpencils&#10;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#10;&#10084;&#65039;Get my NEW Cartoon Animal Creator Pack: 150 Brushes for Procreate &#38; Photoshop here:&#10;https://gum.co/beejaydelanimalbrushes&#10;&#10084;&#65039;Get my CARTOON INKING BRUSH PACK here: https://gum.co/beejaydelbrushset&#10;&#10084;&#65039;Get my all new TEXTURE BRUSH PACK here: https://gumroad.com/l/beejaydeltexturepack&#10;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#10;&#10;&#10145;&#65039;Visit my Amazon page to pick up the Keep Creating Sketchbook, buy a shirt, see what accessories I use with my iPad, or to check out what products I use to film these videos! &#10;https://www.amazon.com/shop/letsdrawwithbeejaydel&#10;&#10;&#9996;&#65039; Follow me:&#10;Instagram: https://www.instagram.com/beejaydel&#10;Twitter: https://www.twitter.com/beejaydel&#10;Facebook: https://www.facebook.com/beejaydelart&#10;Website: https://www.beejaydel.com&#10;&#10;&#128073;Join the FB group at:&#10;https://www.facebook.com/groups/keepcreatingart/&#10;&#10;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#9632;&#10;&#10;The first in a new series of videos...Cartooning 101!  In this first episode, I walk you through how to use basic shapes and proportions to draw different types of cartoon heads! &#10;&#10;Want to see your art featured in an upcoming video?  Just want to meet some cool new people?  Make sure to join the new FaceBook I started just for that!&#10;https://www.facebook.com/groups/keepcreatingart/&#10;&#10;Let me know in the comments what you would like to see covered in upcoming episodes...you might see your idea come to life!"
     channel_title "Let's Draw with BeeJayDeL"
     channel_id "UConkqv19MKj0aVMfIQDiOOw"
     fav_count 0
@@ -2331,7 +2331,7 @@ graph [
     step 0
     date "2021-04-21T13:20:14Z"
     title "How To Draw A Hot Dog Monster - Folding Surprise"
-    description "Today, Austin and I are also learning how to draw a super funny hot dog monster! &#8205;   JOIN OUR ART HUB MEMBERSHIP!"
+    description "Today, Austin and I are also learning how to draw a super funny hot dog monster!&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2346,7 +2346,7 @@ graph [
     step 0
     date "2022-06-18T10:30:33Z"
     title "How to draw Perspective | Beginner Tutorial | DrawlikeaSir"
-    description "A beginner tutorial on how to draw humans in perspective! Works in manga, comic, anime and any other drawing style :) ALL OF ..."
+    description "A beginner tutorial on how to draw humans in perspective!&#10;Works in manga, comic, anime and any other drawing style :)&#10;&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#9654;&#9654;&#9654;  https://drawlikeasir.com/materials/&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Website -------------- https://drawlikeasir.com&#10;&#10149; Twitter ---------------- https://twitter.com/Drawinglikeasir&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;&#127925; Background Music &#127925;&#10;https://youtu.be/_SVRllcZCXA&#10;https://youtu.be/6Cm4zNQD5gY"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -2361,7 +2361,7 @@ graph [
     step 0
     date "2021-02-08T14:00:04Z"
     title "How To Draw A Cute Valentine&#38;#39;s Heart - Preschool"
-    description "Olivia and I are learning how to draw a cute and funny cartoon heart! We hope you and your kids have fun following along with us ..."
+    description "Olivia and I are learning how to draw a cute and funny cartoon heart! We hope you and your kids have fun following along with us too. &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2376,7 +2376,7 @@ graph [
     step 0
     date "2022-06-17T13:00:20Z"
     title "How to Draw Eleven | Stranger Things 4"
-    description "Learn How to Draw cute Eleven from Netflix's Stranger Things 4. Easy step by step cartoon girl character drawing."
+    description "Learn How to Draw cute Eleven from Netflix's Stranger Things 4. Easy step by step cartoon girl character drawing. #drawsocutestrangerthings #elevenstrangerthings&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -2391,7 +2391,7 @@ graph [
     step 0
     date "2016-11-06T17:33:42Z"
     title "How To Draw A Dragon"
-    description "I first published this lesson as an Art Club lesson on August 31! Become an Art Club member at ..."
+    description "I first published this lesson as an Art Club lesson on August 31!&#10;Become an Art Club member at https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2406,7 +2406,7 @@ graph [
     step 0
     date "2016-08-01T08:01:09Z"
     title "How to draw Nagisa Shiota (Assassination Classroom)"
-    description "Special thanks to Fuyu and Link Lovell for supporting me on Patreon ^^ This is a step by step tutorial on how to draw Nagisa ..."
+    description "Special thanks to Fuyu and Link Lovell for supporting me on Patreon ^^&#10;This is a step by step tutorial on how to draw Nagisa Shiota from Assassination Classroom.&#10;Please give it a like and share :) help me upload your requests faster become my patron :) https://www.patreon.com/user?u=2776327&#38;alert=2&#38;ty=h&#10;facebook- https://www.facebook.com/erzamarie.dr...&#10;twitter-  @marie_dragneel&#10;be my patron :) - https://www.patreon.com/user?u=277632...&#10;These are the products I always use:&#10;Pencil: Faber Castell No.2- http://www.fabercastell.com/products/pencils&#10;Colored pencil: Faber Castell 36 Classic Colour Pencils-http://www.nationalbookstore.com/school-office/art-crafts/faber-castell-48-classic-colour-pencils.html&#10;Permanent marker: Uni Pin Pigment liner-http://www.jetpens.com/Uni-Pin-Pen-01-Pigment-Ink-0.28-mm-Black-Ink/pd/7281&#10;Bond paper: Amspec Bond Writing Paper-http://amspec.ph/product-brands/&#10;Eraser: Faber Castell PVC free eraser-http://www.fabercastell.com/art-and-graphic/artist-products/accessories/EraserPVCFREE708630/188730&#10;Sharpener: Yoka Auto Triple holes-http://www.productpilot.com/en/supplier/creative-wealth-international-ltd/product/yoka-pencil-sharpener-ks8-14-1/&#10;&#10;EDITING SOFTWARE USED&#10;Wondershare Filmora-https://filmora.wondershare.com/"
     channel_title "Erza Scarlet Art"
     channel_id "UCTPJmcmQkPCN0Sl9LP6UXtA"
     fav_count 0
@@ -2421,7 +2421,7 @@ graph [
     step 0
     date "2019-12-02T14:00:08Z"
     title "How To Draw Crazy Cookie Santa Puppet (Folding Surprise)"
-    description "Hey art-friends, this lesson is a fun way to create a Santa puppet! We use the same steps as our folding surprise lessons. Join our ..."
+    description "Hey art-friends, this lesson is a fun way to create a Santa puppet! We use the same steps as our folding surprise lessons.&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2436,7 +2436,7 @@ graph [
     step 0
     date "2021-05-28T19:00:03Z"
     title "How to draw FORESHORTENING | Perspective Tutorial | Drawlikeasir"
-    description "My video on how to draw poses in a foreshortened perspective! I only made it a 10 minute tutorial, but I think thats enough for ..."
+    description "My video on how to draw poses in a foreshortened perspective!&#10;I only made it a 10 minute tutorial, but I think thats enough for beginners to understand drawing angles :)&#10;&#10;&#9654;Anatomy Doll&#10;https://amzn.to/3bSjL8z&#10;&#9654;Handy APP (Android)&#10;https://play.google.com/store/apps/details?id=com.beliefengine.handyapp&#38;hl=en&#10;&#9654; Handy APP (IOS)&#10;https://apps.apple.com/us/app/handy-art-reference-tool/id478643661&#10;&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#128073;&#128073; https://drawlikeasir.com/materials &#128072;&#128072;&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Website -------------- https://drawlikeasir.com&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Twitter ---------------- https://twitter.com/Kaitokuehn&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;&#127925; Background Music &#127925;&#10;https://youtu.be/xc_0wfIuuzw&#10;https://youtu.be/dbgdmI8Nmak"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -2451,7 +2451,7 @@ graph [
     step 0
     date "2017-03-23T15:34:18Z"
     title "How To Draw A Cartoon Giraffe"
-    description "Become an Art Club member https://www.artforkidshub.com/join-art-club/ Learn more about the art supplies we love to use ..."
+    description "Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2466,7 +2466,7 @@ graph [
     step 0
     date "2022-07-08T19:00:07Z"
     title "Draw Mirabel (Encanto) in 10 Art Styles Swap Challenge | 10 Art Styles Challenge | Mei Yu Fun Friday"
-    description "Mei Yu's Book Store &#128397;&#65039; https://www.amazon.com/shop/meiyu 100+ Books: Own or Gift Mei Yu's Coloring Books, Comic ..."
+    description "&#127752;  &#128218; &#128397;&#65039;   Mei Yu's Book Store &#127752;  &#128218; &#128397;&#65039;&#10;https://www.amazon.com/shop/meiyu&#10;100+ Books: Own or Gift Mei Yu's Coloring Books, Comic Collections, &#38; How to Draw eBooks / paperbacks + the art supplies she uses!&#10;&#10;---------------------&#10;&#10;A 10 Art Styles Swap Challenge where I reimagine and draw Mirabel from Encanto in 10 different art styles. How will I style switch Mirabel in this Fun Friday video?&#10;&#10;In this fun style swap challenge, see how Mirabel from Encanto is reimagined in 10 art styles. I do this style swap with Yu-gi-oh!, Genshin Impact, Demon Slayer, Dora the Explorer, Among Us, Poppy Playtime, Diary of a Wimpy Kid, Hey Arnold, my own Fun2draw style, and Edvard Munch's The Scream! Which style was your favorite today?&#10;&#10;For more art challenges, Puddi Panda comics, Fun Friday videos, reimagine art challenges, drawing challenge ideas, art inspiration, and how to draw videos, check out my channel!&#10;&#10;Subscribe: https://www.youtube.com/meiyu?sub_confirmation=1&#10;&#10;---------------------&#10;&#10;Music:&#10;Sneaky Snooper by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;Artist: http://audionautix.com/&#10;&#10;Impending Boom by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100198&#10;Artist: http://incompetech.com/&#10;&#10;Intended Force by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100195&#10;Artist: http://incompetech.com/&#10;&#10;Colorless Aura by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400008&#10;Artist: http://incompetech.com/&#10;&#10;Cipher - Electronic Light by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100844&#10;Artist: http://incompetech.com/&#10;&#10;Music from the YouTube Audio Library&#10;https://www.youtube.com/audiolibrary&#10;&#10;---------------------&#10;&#10;Some of the links above are affiliate links. As an Amazon associate, I earn from qualifying purchases. If you make a purchase through them, I will earn a small commission at no additional cost to you.&#10;&#10;#meiyu #encanto #mirabel #styleswap #10artstyles #artchallenge #drawingchallenge #funfriday"
     channel_title "Mei Yu"
     channel_id "UCFf_ebUsE0QHD9AMVTD_npQ"
     fav_count 0
@@ -2481,7 +2481,7 @@ graph [
     step 0
     date "2020-04-24T13:44:27Z"
     title "How To Draw Dr Robotnik From Sonic The Hedgehog Movie"
-    description "This lesson is sponsored by @paramountmovies. They asked us to help them celebrate the home release of Sonic The Hedgehog ..."
+    description "This lesson is sponsored by @paramountmovies. They asked us to help them celebrate the home release of Sonic The Hedgehog. You can watch it on digital TODAY: https://paramnt.us/GetSonic&#10;#SonicTheHedgehog #ParamountPictures #Paramount&#10;&#10;Join our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2496,7 +2496,7 @@ graph [
     step 0
     date "2015-09-08T17:53:23Z"
     title "How to draw Herobrine from Minecraft step by step drawing lesson"
-    description "Learn how to draw Herobrine from Minecraft. Draw the fun and easy way. Follow along with our step by step drawing lessons."
+    description "Learn how to draw Herobrine from Minecraft. Draw the fun and easy way. Follow along with our step by step drawing lessons. Watch our video previews and then draw it yourself with our easy to follow lessons.&#10;&#10;Minecraft Characters drawing lessons:&#10;View this Playlist - https://goo.gl/dWDPZw&#10;&#10;How to draw Herobrine from Minecraft step by step drawing lesson&#10;&#10;****************************************&#10;&#10;Hi there! Sometimes you wanna draw your favorite character or smth like that, but you just look at the picture and don't know where to start...So you can watch how I do it and draw it with me.&#10;&#10;Learn how to draw the fun and easy way. This is a super simple step by step drawing lesson for young artists. In this video I guide you through every single line. Be sure to check out our entire selection of playlists. You'll find all your favourite characters there and more added each week.&#10;&#10;Thanks for watching! Like this video, share it with your friends, subscribe to my channel, have fun!&#10;&#10;How to draw Steve from minecraft drawing lesson:&#10;https://youtu.be/ZCgsf-Jn8Ws&#10;&#10;How to draw Jesse from minecraft Story mode drawing lesson:&#10;https://youtu.be/aAhHx69eW5Q&#10;&#10;How to draw Herobrine from Minecraft drawing lesson:&#10;https://youtu.be/vFotWl8vMfA&#10;&#10;How to draw Creeper from Minecraft drawing lesson:&#10;https://youtu.be/Oihb9UGFWPk&#10;&#10;We also provide Speed Draw Previews of our latest lessons so you can get a quick preview. &#10;Visit our Speed Draw Preview Playlist - https://goo.gl/i2JaUq&#10;&#10;****************************************&#10;&#10;EMAIL YOUR ART:&#10;karpackiedrawing@gmail.com&#10;&#10;&#10;Join the Club! SUBSCRIBE Today! New Lessons every day&#10;&#10;SUBSCRIBE Here:&#10;http://bit.ly/1HJntJs&#10;&#10;FOLLOW us on FACEBOOK:&#10;https://facebook.com/facedrawer&#10;&#10;FOLLOW us on INSTAGRAM:&#10;http://instagram.com/facedrawer_official&#10;&#10;FOLLOW us on TWITTER:&#10;http://twitter.com/facedrawer&#10;&#10;Visit our SHOP:&#10;http://facedrawer.myshopify.com&#10;&#10;&#10;Please help our channel grow by giving LIKES, sharing with friends and circles, adding comments and watching our lessons. Thanks for watching everyone.&#10;&#10;****************************************&#10;How to draw Herobrine from Minecraft step by step drawing lesson"
     channel_title "Facedrawer - How to Draw"
     channel_id "UChXBChGRG95GZGPmLVV39PQ"
     fav_count 0
@@ -2511,7 +2511,7 @@ graph [
     step 0
     date "2020-07-21T16:21:04Z"
     title "How To Draw A Lotus Flower"
-    description "Learn how to draw a beautiful lotus flower! Remember, it's ok if your drawings look different then ours. Have fun and practice!"
+    description "Learn how to draw a beautiful lotus flower! Remember, it's ok if your drawings look different then ours. Have fun and practice! &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2526,7 +2526,7 @@ graph [
     step 0
     date "2013-07-26T16:50:43Z"
     title "ICl Lewis Structure: How to Draw the Lewis Structure for the Iodine Chloride"
-    description "A step-by-step explanation of how to draw the ICl Lewis Dot Structure (Iodine chloride). For the ICl structure use the periodic table ..."
+    description "A step-by-step explanation of how to draw the ICl Lewis Dot Structure (Iodine chloride).&#10;&#10;For the ICl structure use the periodic table to find the total number of valence electrons for the ICl molecule. Once we know how many valence electrons there are in ICl we can distribute them around the central atom with the goal of filling the outer shells of each atom.&#10;&#10;In the Lewis structure of ICl structure there are a total of 14 valence electrons. ICl is also called Iodine chloride.&#10;&#10;----- Steps to Write Lewis Structure for compounds like ICl -----&#10;1. Find the total valence electrons for the ICl molecule.&#10;2. Put the least electronegative atom in the center. Note: Hydrogen (H) always goes outside.&#10;3. Put two electrons between atoms to form a chemical bond.&#10;4. Complete octets on outside atoms.&#10;5. If central atom does not have an octet, move electrons from outer atoms to form double or triple bonds.&#10;&#10;----- Lewis Resources -----&#10;&#8226; Lewis Structures Made Simple: https://youtu.be/1ZlnzyHahvo&#10;&#8226; More practice: https://youtu.be/DQclmBeIKTc&#10;&#8226; Counting Valence Electrons: https://youtu.be/VBp7mKdcrDk&#10;&#8226; Calculating Formal Charge: https://youtu.be/vOFAPlq4y_k&#10;&#8226; Exceptions to the Octet Rule: https://youtu.be/Dkj-SMBLQzM&#10;&#10;Lewis Structures, also called Electron Dot Structures, are important to learn because they help us understand how atoms and electrons are arranged in a molecule, such as Iodine chloride. This can help us determine the molecular geometry, how the molecule might react with other molecules, and some of the physical properties of the molecule (like boiling point and surface tension).&#10;&#10;Chemistry help at https://www.Breslyn.org"
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -2541,7 +2541,7 @@ graph [
     step 0
     date "2022-05-13T13:48:10Z"
     title "How To Draw A Strawberry Monster Folding Surprise"
-    description "Happy Friday! Today, we're learning how to draw a strawberry monster folding surprise! We hope you have a lot of fun following ..."
+    description "Happy Friday! Today, we're learning how to draw a strawberry monster folding surprise! We hope you have a lot of fun following along with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2556,7 +2556,7 @@ graph [
     step 0
     date "2018-02-26T18:54:26Z"
     title "How to draw a boat. &#9973;"
-    description "This video shows how to draw a boat in easy and simple way . subscribe to our channel for such awesome drawing tips ..."
+    description "This video shows how to draw a boat in easy and simple way .&#10;subscribe to our channel for such awesome drawing tips . &#10;&#10;https://www.youtube.com/channel/UC8A2O54sslNBAI1h_1DGwbg?view_as=subscriber&#10;&#10;Please give your valuable suggestion to us so that we can make our channel more effective and helpful.Thank you"
     channel_title "The Dessiner"
     channel_id "UC8A2O54sslNBAI1h_1DGwbg"
     fav_count 0
@@ -2571,7 +2571,7 @@ graph [
     step 0
     date "2022-06-22T13:00:41Z"
     title "How To Draw Funny Onion Rings"
-    description "Today, Austin and I are learning how to draw a funny basket of onion rings! We hope you have a lot of fun following along with us."
+    description "Today, Austin and I are learning how to draw a funny basket of onion rings! We hope you have a lot of fun following along with us. Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Pencil and erasure&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2586,7 +2586,7 @@ graph [
     step 0
     date "2021-11-19T19:58:21Z"
     title "How to draw HUGGY WUGGY Chasing Me | Poppy Playtime Game | FNF"
-    description "I show you how to draw and paint Huggy Wuggy, the famous blue creature with cartoonish red lips, sharp teeth, plastic eyes, and ..."
+    description "I show you how to draw and paint Huggy Wuggy, the famous blue creature with cartoonish red lips, sharp teeth, plastic eyes, and yellow hands and feet from the Poppy Playtime game.  It is also in vogue for the Huggy Wuggy vs Friday Night Funkin version.&#10;&#10;This time I have drawn the precise moment when Huggy Wuggy is chasing me through the vent.&#10;&#10;#huggywuggy #fnf #poppyplaytime&#10;----------&#10;&#9829; More videos:  https://goo.gl/YLqaps&#10;&#9829; Subscribe: https://goo.gl/hR6LDh"
     channel_title "Drawbook"
     channel_id "UCWVWlwtGywEvwwFEkjQoPvQ"
     fav_count 0
@@ -2601,7 +2601,7 @@ graph [
     step 0
     date "2015-02-25T17:01:07Z"
     title "How To Draw A Hummingbird"
-    description "Follow along and learn how to draw a hummingbird! We're using Sharpies and Prismacolor colored pencils in this lesson."
+    description "Follow along and learn how to draw a hummingbird! We're using Sharpies and Prismacolor colored pencils in this lesson.&#10;&#10;Here are the links to Amazon, for these art supplies (affil. links):&#10;Prismacolor colored pencils: http://bit.ly/afkhprisma48&#10;Sharpies: http://bit.ly/afkhsharpie&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2616,7 +2616,7 @@ graph [
     step 0
     date "2021-01-16T12:05:53Z"
     title "How to Draw a Simple Cute Unicorn Cake, Easy Draw and Color Step by Step"
-    description "How to Draw a Cute Unicorn Cake, Easy Drawings. Thanks for your support and Love Please comment if you like it ..."
+    description "How to Draw a Cute Unicorn Cake, Easy Drawings.&#10;Thanks for your support and Love &#129303;&#10;Please comment if you like it  &#128591;&#10;Subscribe, Like, and Share &#128591;&#128591;&#10;Stay Home Stay Safe and Draw with me &#128512;&#10;#cuteeasydrawings #easydrawings #cake #unicorncake #cutedrawings #simplecake&#10;https://www.instagram.com/cuteeasy.drawings&#10;https://in.pinterest.com/Easydrawingsyt&#10;https://easydrawingsyt.blogspot.com&#10;&#10;&#10;drawing,&#10;cute drawing,&#10;drawing cake,&#10;draw a cake,&#10;draw cute cake,&#10;drawing tutorial,&#10;drawing easy,&#10;drawing art,&#10;drawing and colouring,&#10;drawing easy,&#10;drawing cartoon,&#10;drawing easy,&#10;Learn to draw,&#10;learn to draw,&#10;learn to draw step by step,&#10;learn to draw from,&#10;learn to draw cute,&#10;learn to draw kids,&#10;learn to draw things,&#10;can u learn to draw,&#10;learn to draw 4 u,&#10;learn to draw videos,&#10;learn to draw youtube,&#10;learn to draw youtube channel,&#10;can you learn to draw,&#10;how to draw a, &#10;how to draw,&#10;learn to draw easy,&#10;learn to draw good,&#10;learn to draw youtube,&#10;learn to draw in 5 days,&#10;learn to draw in 5 minutes,&#10;drawings,&#10;drawings easy,&#10;drawings for kids,&#10;drawings for girls,&#10;zeichnen,&#10;Zeichnen lernen,&#10;Zeichnen lehren,&#10;Bringen Sie Kindern das Zeichnen bei,&#10;Lerne Zeichnen f&#252;r Kinder,&#10;Lerne Zeichnen f&#252;r Anf&#228;nger,"
     channel_title "Cute Easy Drawings"
     channel_id "UCNB0kOpUqpB7MUqW53zN8aA"
     fav_count 0
@@ -2631,7 +2631,7 @@ graph [
     step 0
     date "2021-01-05T14:00:06Z"
     title "How To Draw A Flower (Tulip)- Preschool"
-    description "This lesson is meant for younger artists. We hope you have a lot of fun following along with us and learning how to draw a cute ..."
+    description "This lesson is meant for younger artists. We hope you have a lot of fun following along with us and learning how to draw a cute flower for preschoolers. &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2661,7 +2661,7 @@ graph [
     step 0
     date "2016-08-22T13:00:03Z"
     title "How To Draw Cartoon Spider-Man"
-    description "Happy Monday, art friends! Today we're learning how to draw cartoon Spider-Man. Don't forget to also check out ..."
+    description "Happy Monday, art friends! Today we're learning how to draw cartoon Spider-Man. Don't forget to also check out https://www.artforkidshub.com to see this week's featured artists!&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;To purchase an Art For Kids Hub t-shirt https://artforkidshub.threadless.com&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2676,7 +2676,7 @@ graph [
     step 0
     date "2014-10-02T11:42:07Z"
     title "How to draw a truck"
-    description "How to draw a truck step by step Publishing : Suart86 All Rights Reserved (P) &#38; (C) Suart86 2014."
+    description "How to draw a truck step by step&#10;Publishing : Suart86&#10;All Rights Reserved (P) &#38; (C) Suart86 2014"
     channel_title "Suart86"
     channel_id "UCl3k4s54YQomWsy54_hX88w"
     fav_count 0
@@ -2691,7 +2691,7 @@ graph [
     step 0
     date "2022-02-22T14:00:01Z"
     title "How To Draw Otters Mom And Baby"
-    description "Today, Hadley and I are learning how to draw cute otters! We hope you have a lot of fun drawing these otters with us. Art Supplies ..."
+    description "Today, Hadley and I are learning how to draw cute otters! We hope you have a lot of fun drawing these otters with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2706,7 +2706,7 @@ graph [
     step 0
     date "2022-07-05T12:00:22Z"
     title "Bunny Rainbow Drawing, Painting, Coloring for Kids &#38;amp; Toddlers | How to Draw Paint Easy"
-    description "Hi! Welcome to my channel! Today I am drawing and painting a rainbow bunny for you! I hope you enjoy watching my tutorial ..."
+    description "Hi!&#10;Welcome to my channel!&#10;&#10;Today I am drawing and painting a rainbow bunny for you!&#10;&#10;&#10;I hope you enjoy watching my tutorial video.&#10;Don't forget to &#10084; SUBSCRIBE &#9658; https://www.youtube.com/channel/UC2UxGhphfYS2wfB7cx4MZuQ?view_as=subscriber and &#10084; LIKE &#10084; &#10;&#10;Thanks for watching! Have a good day!"
     channel_title "ART BEE"
     channel_id "UC2UxGhphfYS2wfB7cx4MZuQ"
     fav_count 0
@@ -2721,7 +2721,7 @@ graph [
     step 0
     date "2022-06-27T13:49:56Z"
     title "How To Draw An Eagle - Letter E - Preschool"
-    description "Follow along with Olivia and me and learn how to draw an eagle! First, we'll draw the letter E and turn it into our eagles."
+    description "Follow along with Olivia and me and learn how to draw an eagle! First, we'll draw the letter E and turn it into our eagles. Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Crayons&#10;~Paper&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2736,7 +2736,7 @@ graph [
     step 0
     date "2022-05-05T13:09:03Z"
     title "how to draw &#10024;JUICY&#10024; lips"
-    description "in this video, let's learn how to draw &#10024;juicy&#10024;and smegsea lips watch this vod next: https://youtu.be/dPA20ZY9nZk Clip Studio ..."
+    description "in this video, let's learn how to draw &#10024;juicy&#10024;and smegsea lips&#10;watch this vod next: https://youtu.be/dPA20ZY9nZk&#10;&#10;Clip Studio Paint (my drawing program)&#10;https://bit.ly/3bcrBJa&#10;*affiliate link btw&#10;&#10;Equipment:&#10;Mic: https://amzn.to/3ks0Qok&#10;Pop filter: https://amzn.to/3yrMtpg&#10;Graphics Tablet: https://amzn.to/2UWPArz&#10;Camera: https://amzn.to/3zrPN53&#10;&#10;my brushes&#10;&#12501;&#12521;&#12483;&#12488; (flat pen)&#10;old pen content id: 1358977 &#10;new pen content id: 1702959&#10;hair brush: 1868700&#10;&#10;give my vid a like if you're reading this description uwu&#10;&#10;Contact this email for business: kooleen.business@gmail.com"
     channel_title "Kooleen"
     channel_id "UCL_Zrh9lwoOT7ftTRA-npvg"
     fav_count 0
@@ -2751,7 +2751,7 @@ graph [
     step 0
     date "2022-03-07T13:53:11Z"
     title "How To Draw Mirabel From Encanto"
-    description "Yay! Today, Hadley and I are learning how to draw Mirabel from Encanto! We love this movie, especially the music! Art Supplies ..."
+    description "Yay! Today, Hadley and I are learning how to draw Mirabel from Encanto! We love this movie, especially the music! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2766,7 +2766,7 @@ graph [
     step 0
     date "2016-06-20T19:00:01Z"
     title "How to Draw Baby from FNaF Sister Location"
-    description "Learn How to Draw Baby from FNaF Sister Location Subscribe to the channel: ..."
+    description "Learn How to Draw Baby from FNaF Sister Location&#10;Subscribe to the channel:&#10;http://www.youtube.com/user/facedrawer?sub_confirmation=1&#10;&#10;Draw the fun and easy way. Follow along with our step by step drawing lessons. Watch our video previews and then draw it yourself with our easy to follow lessons.&#10;&#10;Follow along the easy steps here: http://www.facedrawer.com/how-to-draw-baby-sister-location/&#10;&#10;****************************************&#10;&#10;Learn how to draw the fun and easy way. This is a super simple step by step drawing lesson for Kids and beginners. In this video I guide you through every single line. Be sure to check out our entire selection of playlists. You'll find all your favourite characters there and more added each week.&#10;&#10;Learn how to draw Pokemon characters in this drawing lessons:&#10;View the playlist - https://goo.gl/2m8K4L&#10;&#10;Watch how to draw Five Nights at Freddy's 4 (FNAF 4) Characters:&#10;View this Playlist - https://goo.gl/e0Tevx&#10;&#10;Undertale Characters drawing lessons:&#10;https://goo.gl/pI6ViD&#10;&#10;We also provide Speed Draw Previews of our latest lessons so you can get a quick preview. &#10;Visit our Speed Draw Preview Playlist - https://goo.gl/i2JaUq&#10;&#10;****************************************&#10;&#10;SUBSCRIBE for more easy step by step drawing lessons for kids and beginners:&#10;http://www.youtube.com/user/facedrawer?sub_confirmation=1&#10;&#10;Facebook - https://facebook.com/facedrawer&#10;Instegram - http://instagram.com/facedrawer_official&#10;Twitter - http://twitter.com/facedrawer&#10;Facedrawer shop - http://facedrawer.myshopify.com&#10;Email your art - karpackiedrawing@gmail.com&#10;&#10;Please help our channel grow by giving LIKES, sharing with friends and circles, adding comments and watching our lessons. Thanks for watching everyone.&#10;&#10;****************************************&#10;&#10;how to draw, step by step, easy, for beginners, for kids, draw, drawing, how to, drawing lesson, drawing tutorial, facedrawer, characters, fnaf, sister location, baby, all character,"
     channel_title "Facedrawer - How to Draw"
     channel_id "UChXBChGRG95GZGPmLVV39PQ"
     fav_count 0
@@ -2781,7 +2781,7 @@ graph [
     step 0
     date "2021-11-18T14:27:01Z"
     title "How To Draw A Cartoon Dalmatian Puppy"
-    description "Mrs. Hubs (Teryn) and I are learning how to draw a cute cartoon dalmatian puppy! We hope you and your art little artists love ..."
+    description "Mrs. Hubs (Teryn) and I are learning how to draw a cute cartoon dalmatian puppy! We hope you and your art little artists love drawing along with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2796,7 +2796,7 @@ graph [
     step 0
     date "2021-12-10T00:00:08Z"
     title "How To Draw Graffiti Letters Tutorial- Basic Straight Piece"
-    description "If you have any questions reach out! Shop: https://sive.bigcartel.com/ Insta: https://www.instagram.com/s1ve/?hl=en."
+    description "If you have any questions reach out!&#10;Shop: https://sive.bigcartel.com/&#10;Insta: https://www.instagram.com/s1ve/?hl=en"
     channel_title "IISIVEII"
     channel_id "UCCjtLuWu2fOTa_BT2gCBKrQ"
     fav_count 0
@@ -2811,7 +2811,7 @@ graph [
     step 0
     date "2017-05-09T15:00:04Z"
     title "How To Draw A Cartoon Horse"
-    description "Follow along with us and learn how to draw a horse! Become an Art Club member https://www.artforkidshub.com/join-art-club/ ..."
+    description "Follow along with us and learn how to draw a horse!&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2826,7 +2826,7 @@ graph [
     step 0
     date "2022-02-06T04:00:06Z"
     title "Easy Drawing Tricks For Beginners"
-    description "In today's class, we want to teach you some great ideas for using your imagination to create beautiful images and even impressive ..."
+    description "In today's class, we want to teach you some great ideas for using your imagination to create beautiful images and even impressive drawings. To enjoy art, it is not necessary to be an expert. Relive the child in you and remember how happy you were when you painted, without rules and prejudice. Today we will help you use pencil and paper to enjoy an afternoon relaxing. Are you ready for these drawing hacks?&#13;&#10;&#13;&#10;Get ready to discover easy drawing tricks for beginners. Get ready to transform simple figures into a work of art. You can make lines and, little by little, create beautiful and minimalist animals. We recommend you use a blackboard and many colors to create all the drawings you can imagine, from plants and flowers to objects. You can also try to create landscapes that only you have visited before.&#13;&#10;&#13;&#10;TIMESTAMPS:&#13;&#10;01:59 &#8211; Easy bird pictures&#13;&#10;04:00 &#8211; Quick plants&#13;&#10;06:25 &#8211; Fluffy animal&#13;&#10;08:52 - Animals with numbers&#13;&#10;10:57 &#8211; Digital Art&#13;&#10;&#10;We advise adult supervision and care at all times.&#10;&#10;This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.&#10;&#10;The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate.&#10;&#10;All product and company names shown in the video are trademarks&#8482; or registered&#174; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.&#10;&#10;---------------------------------------------------------------------------------------- &#10;&#10;&#10;&#10;5-Minute Crafts: http://bit.ly/2itjCyw&#10;&#10;Facebook: https://www.facebook.com/5min.crafts/ &#10;&#10;Instagram: https://www.instagram.com/5.min.crafts/ &#10;&#10;Twitter: https://twitter.com/5m_crafts&#10;&#10;&#10;&#10;Subscribe to 5-Minute Crafts GIRLY: https://goo.gl/fWbJqz&#10;&#10;The Bright Side of Youtube: https://goo.gl/rQTJZz&#10;&#10;For more videos and articles visit: http://www.brightside.me/&#10;&#10;&#10;&#10;Music by Epidemic Sound: https://www.epidemicsound.com/"
     channel_title "5-Minute Crafts PLAY"
     channel_id "UC57XAjJ04TY8gNxOWf-Sy0Q"
     fav_count 0
@@ -2841,7 +2841,7 @@ graph [
     step 0
     date "2018-12-10T14:59:24Z"
     title "How To Draw A Christmas Kitten Stack (Folding Surprise)"
-    description "Learn how to draw a Christmas kitten stack with folding surprise! Use your creativity to add more Christmas things in the surprise."
+    description "Learn how to draw a Christmas kitten stack with folding surprise! Use your creativity to add more Christmas things in the surprise. You could also turn this into a funny homemade card. #howtodraw #artforkidshub&#10;&#10;&#127912;   ART SUPPLIES we love (Amazon affiliate links): &#10;Sharpie Markers https://amzn.to/2S6WzXX&#10;Printer Paper https://amzn.to/2FuLT3P&#10;Prismacolor Pencils https://amzn.to/2QYoBob&#10;Pentel Oil Pastels (classroom) https://amzn.to/2OU5Sbo&#10;Pentel Watercolor (tubes) https://amzn.to/2zdSmur&#10;Watercolor (dry cake) https://amzn.to/2zirsBJ&#10;Canson Watercolor Paper https://amzn.to/2S6XvLX&#10;Watercolor brushes https://amzn.to/2S9CY9B&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2856,7 +2856,7 @@ graph [
     step 0
     date "2021-08-04T10:03:37Z"
     title "How to DRAW FACES (From ALL angles) | Drawlikeasir"
-    description "A tutorial video about how to draw faces from any angle (Below, above and 3/4) Theres also a little step by step part :) ALL OF MY ..."
+    description "A tutorial video about how to draw faces from any angle (Below, above and 3/4)&#10;Theres also a little step by step part :)&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#9654;&#9654;&#9654;  https://drawlikeasir.com/materials/&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Webside -------------- https://drawlikeasir.com&#10;&#10149; Twitter ---------------- https://twitter.com/Drawinglikeasir&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;0:00 - Intro&#10;1:35 - Drawing faces in 3/4 view&#10;5:45 - Drawing faces from above&#10;7:05 - Drawing faces from below&#10;9:45 - Using References while drawing&#10;&#10;&#127925; Background Music &#127925;&#10;https://youtu.be/k8PKXHrIV0Q&#10;https://youtu.be/PhhGEA_317w"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -2871,7 +2871,7 @@ graph [
     step 0
     date "2017-12-23T11:00:04Z"
     title "How To Draw The Cutest Puppy"
-    description "Learn how to draw the cutest puppy in the world! ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/ ..."
+    description "Learn how to draw the cutest puppy in the world! &#10;&#127912;   ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2886,7 +2886,7 @@ graph [
     step 0
     date "2010-11-04T17:07:17Z"
     title "Tutorial : How to draw a male body (basic proportions)"
-    description "You can download the brushes for free here : https://shop.stval.fr/categorie-produit/telechargements/ Prerequisite: ..."
+    description "You can download the brushes for free here : https://shop.stval.fr/categorie-produit/telechargements/&#10;&#10;Prerequisite: http://www.youtube.com/watch?v=6GNNg1-Mwrw&#10;&#10;____Click on &#34;Show more&#34; to look at my other tutorials___&#10;&#10;_____ HOW TO DRAW (digital and traditional art)_____&#10; &#10;FACE:&#10;http://www.youtube.com/watch?v=NfKr4-HlKKw&#10;&#10;FEMALE BODY&#10;http://www.youtube.com/watch?v=-PvyW0lKosY&#10;&#10;MALE BODY&#10;http://www.youtube.com/watch?v=6SXp6ELaxsQ&#10;&#10;HATCHING &#38; BLENDING&#10;http://www.youtube.com/watch?v=qfHU16E5uVo&#10;&#10; &#10;____HOW TO PAINT (Digital art)____&#10; &#10;SKIN: &#10;http://www.youtube.com/watch?v=Qaoomb_s-8A (uncensored)&#10;http://www.youtube.com/watch?v=dTeNFkjW4HQ (censored)&#10;&#10;SKIN TEXTURE&#10;http://www.youtube.com/watch?v=D1uaysIgEOs&#10;&#10;FACE&#10;http://www.youtube.com/watch?v=CUbMmzk2_Lo&#10;&#10;EYES&#10;http://www.youtube.com/watch?v=AeSmClhlxxw&#10;http://www.youtube.com/watch?v=SiX_K-jP_98&#10;http://www.youtube.com/watch?v=IQJs-Vlv4dw (old version)&#10;&#10;EYELASHES&#10;Basic brush: http://www.youtube.com/watch?v=iJIo2D_yjUk&#10;Free StVal brushes: http://www.youtube.com/watch?v=jhJnAmXBvls&#10;&#10;SMOKEY EYES&#10;http://www.youtube.com/watch?v=RKGmGZ4nOy4&#10;&#10;MOUTH: &#10;Painting: http://www.youtube.com/watch?v=C5p1B2Z9hKQ&#10;Lipgloss: http://www.youtube.com/watch?v=8WmkG3vZnss&#10;&#10;EAR&#10;http://www.youtube.com/watch?v=oUZN57Jcbpw&#10;&#10;HAIR&#10;http://www.youtube.com/watch?v=2ZwNXaL3cmk (long hair)&#10;http://www.youtube.com/watch?v=hZb2z04EAzU (short hair)&#10;&#10;HANDS:&#10;http://www.youtube.com/watch?v=ESvVMdHVRqo&#10;http://www.youtube.com/watch?v=qfHU16E5uVo&#10;&#10;CLOTHES&#10;http://www.youtube.com/watch?v=YwVIH4l4L50&#10;&#10;SEMI-REALISTIC CHARACTER&#10;http://www.youtube.com/watch?v=M5DbDecn16o&#10;&#10;ANGEL&#10;http://www.youtube.com/watch?v=2cDkZEzkSP4&#10;&#10;PRINCESS DRESS&#10;http://www.youtube.com/watch?v=GrRaBDmzAFw&#10;&#10;FLOWER&#10;http://www.youtube.com/watch?v=5W-hGnUWpFE&#10; &#10;&#10;I'm Stephanie Valentin (website : http://www.stval.fr), a french artist : violinist, singer, composer, painter and sculptor&#10;&#10;I often put new artwork and free downloads on my website http://www.stval.fr :&#10;&#10;- How to draw videos&#10;- Free brushes for Adobe Photoshop (CS2, CS3, CS4) and Gimp&#10;- Painting tutorials (french and english text and pictures)&#10;- Free celebrity wallpaper&#10;- Digital art gallery and print&#10;- Free songs to download (mp3), lyrics and sheet music&#10;- Free online dress up games&#10;- Oil painting (musicians, artistic nude, animal...)&#10;- Photo retouching tutorials and pics&#10;- 2D and 3D animation&#10;- Sculpture&#10;&#10;Subscribe to my channel : http://www.youtube.com/subscription_center?add_user=stephanievalentin&#10;&#10;&#10;Deviant Art : http://stephanievalentin.deviantart.com/&#10;&#10;Facebook : http://www.facebook.com/pages/Stephanie-Valentin/130526120328858&#10;&#10;Twitter : http://twitter.com/stephvalentin&#10;&#10;ITunes : http://itunes.apple.com/fr/artist/stephanie-valentin/id357893682&#10;&#10;Amazon.com : http://tinyurl.com/c6fx3ts&#10;&#10;Amazon.fr : http://tinyurl.com/csurjw9"
     channel_title "Stephanie Valentin Art"
     channel_id "UCifOaTniAm4rPFEju-tsPRw"
     fav_count 0
@@ -2901,7 +2901,7 @@ graph [
     step 0
     date "2022-01-28T16:37:49Z"
     title "How To Draw A Cute Phoenix"
-    description "In this lesson, we're learning how to draw a really cute mythical phoenix! We hope you and your kids have a lot of fun drawing ..."
+    description "In this lesson, we're learning how to draw a really cute mythical phoenix! We hope you and your kids have a lot of fun drawing along with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2916,7 +2916,7 @@ graph [
     step 0
     date "2021-11-05T14:07:28Z"
     title "How to draw SONIC The Hedgehog Running (step by step)"
-    description "I show you how to draw and paint Sonic The Hedgehog easily using markers. This time, it will be Sonic running and leaving a trail ..."
+    description "I show you how to draw and paint Sonic The Hedgehog easily using markers. This time, it will be Sonic running and leaving a trail of dust behind him. I hope you like it.&#10;&#10;#sonic #sonicthehedgehog&#10;----------&#10;&#9829; More videos:  https://goo.gl/YLqaps&#10;&#9829; Subscribe: https://goo.gl/hR6LDh"
     channel_title "Drawbook"
     channel_id "UCWVWlwtGywEvwwFEkjQoPvQ"
     fav_count 0
@@ -2931,7 +2931,7 @@ graph [
     step 0
     date "2022-06-09T13:00:28Z"
     title "How To Draw Dr Strange"
-    description "Today, we're learning how to draw Dr. Strange! We hope you and your kids have a lot of fun following along with us! Art Supplies ..."
+    description "Today, we're learning how to draw Dr. Strange! We hope you and your kids have a lot of fun following along with us! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2946,7 +2946,7 @@ graph [
     step 0
     date "2022-06-17T13:00:25Z"
     title "How To Draw A Child On Dad&#38;#39;s Shoulders"
-    description "In this lesson, we're learning how to draw a child riding on dad's shoulders! You can change this drawing so it looks like you and ..."
+    description "In this lesson, we're learning how to draw a child riding on dad's shoulders! You can change this drawing so it looks like you and your dad. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2961,7 +2961,7 @@ graph [
     step 0
     date "2021-07-05T13:17:11Z"
     title "How to draw Cat from Number 20 | How to turn Number 20 Into A cute cat | Easy Drawing Step by step"
-    description "How to draw Cat from Number 20 | How to turn Number 20 Into A cute cat | Easy Drawing Step by step Welcome to think Drawing ..."
+    description "How to draw Cat from Number 20 | How to turn Number 20 Into A cute cat | Easy Drawing Step by step &#10;&#10;Welcome to think Drawing&#10;Learn How to draw cute cat from number 20Very very Easy, Quick And simple. &#10;&#10;If you want to daily learning Drawing, So subscribe this Chanel and press The bell icon &#10;&#10;&#10;Visit My Other Chanel &#10;https://youtube.com/c/TaufikFunArtwork&#10;&#10;&#10;Hi friends &#9786; Hope you have a good day. In this video, I made a tutorial on drawing Numbers for beginners . Step by step &#129321;. I use Boardmarker Snowman. Watch Step by step drawing. &#128524; Don't forget to follow me on&#10;&#120284;&#120289;&#120294;&#120295;&#120276;&#120282;&#120293;&#120276;&#120288;: &#10;&#10;https://www.instagram.com/thinkdrawing02/&#10;&#10;https://www.instagram.com/taufik_funart02/&#10;&#10;https://www.instagram.com/taufiqurohmnn/&#10; &#10;&#120281;&#120276;&#120278;&#120280;&#120277;&#120290;&#120290;&#120286; &#120281;&#120276;&#120289;&#120294;&#120291;&#120276;&#120282;&#120280;&#10; https://www.facebook.com/Tutorialmenggambr/ &#10;&#10;&#8730;VISIT&#10;MY CHANNEL :&#10;https://youtube.com/channel/UCsSaheswb8O3aW7Lj7eyYyg&#10;&#10;&#127356;&#127364;&#127362;&#127352;&#127346; &#127345;&#127368; :&#10;&#119808;&#119828;&#119811;&#119816;&#119822; &#119819;&#119816;&#119809;&#119825;&#119808;&#119825;&#119832; - &#119832;&#119822;&#119828;&#119827;&#119828;&#119809;&#119812; &#119810;&#119825;&#119812;&#119808;&#119827;&#119822;&#119825;&#119826;&#10;&#10;&#10;MUSIC VLOG NO COPY RIGHT :&#10;https://youtube.com/c/VlogNoCopyrightMusic&#10;&#10;AUDIO MUSIC NO COPY RIGHT :&#10;https://youtube.com/c/audiolibrary-channel&#10;&#10;Criticism, Suggestions and input Write in the comments column yes. If this video is useful. Don't forget to Like, Share and SUBSCRIBER, friends. &#9786; Any question? send us a mail: &#119853;&#119851;&#119848;&#119841;&#119846;&#119834;&#119847;&#120785;&#120787;&#120784;@&#119840;&#119846;&#119834;&#119842;&#119845;.&#119836;&#119848;&#119846;&#10;&#10;&#10;&#10;&#10;Related :&#10;how to draw,how to draw a cat,art for kids,drawing cat,drawing cat for kids,drawing cat noir, how to draw cat,how to draw cat noir,how to draw cat for kids, how to draw cat, how to draw cat easy, how to draw cats, how to draw cat anime, how to draw cat digital, how to draw cat realistic, how to draw cat noir, how to draw cat unicorn, how to draw caterpillar, how to draw cat face, drawing from number, drawing from number 1, drawing from numbers, drawing from numbers and alphabets, drawing from number 2, drawing from number 3, drawing from number 5, drawing from number 10, drawing from numbers and letters, drawing from number 6,easy drawing, easy drawing tutorial, easy drawing tricks, easy drawing for beginners, easy drawing anime, easy drawings, easy drawing oil pastel, easy drawing pencil, easy drawing animal, easy drawing with watercolor,Mpdrawing tutorial, Apdrawing, Drawing teacher suraj, &#10;&#10;&#10;&#10;&#10;#Howtodraw&#10;#Drawingcat&#10;#Easydrawing&#10;#Thinkdrawing&#10;#Apdrawing&#10;#Drawingteachersuraj&#10;#Apdrawing &#10;#cat&#10;#Dog&#10;#Number&#10;#Drawingfromnumber &#10;#artforkid &#10;#drawingfromnumber20"
     channel_title "Think Drawing"
     channel_id "UCx6rVbhwFFmqTHAtTigQwdg"
     fav_count 0
@@ -2976,7 +2976,7 @@ graph [
     step 0
     date "2022-03-18T13:46:24Z"
     title "How To Draw Isabela From Encanto"
-    description "Today, Teryn and I are learning how to draw Isabela from Encanto! We hope you and your kids have a lot of fun drawing her with ..."
+    description "Today, Teryn and I are learning how to draw Isabela from Encanto! We hope you and your kids have a lot of fun drawing her with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -2991,7 +2991,7 @@ graph [
     step 0
     date "2022-05-05T17:56:48Z"
     title "How To Draw Abby Park Red Easy | Easy Turning Red Drawing Step By Step &#8211; Art Famiya"
-    description "Learn to how to draw abby park red easy from eaey turning red drawing step by step ..."
+    description "Learn to how to draw abby park red easy from eaey turning red drawing step by step&#10;-------------------------------------------------------------------------------------------&#10;Check out My Playlists : &#10;Art Famiya Amazing Drawing Videos &#10;https://www.youtube.com/playlist?list=PLzc62uXdiuK9VIZYP9JrpwdG-gk8R42E1&#10;Art Famiya Sketching videos : &#10;https://www.youtube.com/playlist?list=PLzc62uXdiuK8zaULi0yHSr304FVq-wkdN&#10;Art Famiya Coloring Videos : &#10;https://www.youtube.com/playlist?list=PLzc62uXdiuK-Iqtfb5MChU6KpGvTh-RMJ&#10;-----------------------------------------------------------------------------------------------------------------&#10;#howtodraw #abbypark #turningred &#10;#DrawingTutorial  #PencilDrawing #FaceDrawing &#10;#ArtFamiya&#10;#coloring #sketching #drawing"
     channel_title "Art Famiya - How To Draw"
     channel_id "UC308wD1ZLyVCUFSWYcSwKAA"
     fav_count 0
@@ -3006,7 +3006,7 @@ graph [
     step 0
     date "2020-10-16T15:00:10Z"
     title "How To Draw A Candy Corn Monster Folding Surprise"
-    description "Happy Friday! Today, we're learning how to draw a candy corn monster. We hope you have a lot of fun following along with us!"
+    description "Happy Friday! Today, we're learning how to draw a candy corn monster. We hope you have a lot of fun following along with us!&#10;00:00 Hey, art-friends!&#10;00:19 Folding paper&#10;01:17 How to draw a candy corn monster&#10;10:37 Coloring (time-lapse)&#10;11:05 Finished!&#10;&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3021,7 +3021,7 @@ graph [
     step 0
     date "2022-06-24T13:00:38Z"
     title "How To Draw Iron Man MK 85 | Draw &#38;amp; Color Tutorial"
-    description "Welcome to the best Online Education Program for artists. Learn how to draw and color Ironman in his Mark 85 suit with ..."
+    description "Welcome to the best Online Education Program for artists. Learn how to draw and color Ironman in his Mark 85 suit with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;&#10;Art Supplies:&#10;Staedtler Black 4B Pencils: https://amzn.to/3LnDQni&#10;Sharpie Markers: https://amzn.to/3JigPQY&#10;Prismacolor pencils&#10;&#10;Check out my Playlist below for more of your favourite characters.&#10;&#10;How to Draw Super Heroes &#38; Villains&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlopoNpCMws2k3z1Wi_G5OOM&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub #ironman"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -3036,7 +3036,7 @@ graph [
     step 0
     date "2022-05-16T13:45:12Z"
     title "How To Draw A Mermaid Corgi"
-    description "Hey, art friends! Today, Hadley and I are learning how to draw a cute mermaid corgi! We hope you have a lot of fun drawing with ..."
+    description "Hey, art friends! Today, Hadley and I are learning how to draw a cute mermaid corgi! We hope you have a lot of fun drawing with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3051,7 +3051,7 @@ graph [
     step 0
     date "2022-03-11T14:00:01Z"
     title "How to Draw Mei Lee | Turning Red"
-    description "Learn How to Draw cute Meilin Mei Lee from Disney Pixar's Turning Red. Easy, step by step cartoon girl drawing with glasses."
+    description "Learn How to Draw cute Meilin Mei Lee from Disney Pixar's Turning Red. Easy, step by step cartoon girl drawing with glasses. #drawsocutedisney #turningreddisney&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -3066,7 +3066,7 @@ graph [
     step 0
     date "2022-02-28T14:00:22Z"
     title "How To Draw A Velociraptor Dinosaur (Blue)"
-    description "Today, Hadley and I are learning how to draw a really cool velociraptor dinosaur! We hope you have a lot of fun drawing this dino ..."
+    description "Today, Hadley and I are learning how to draw a really cool velociraptor dinosaur! We hope you have a lot of fun drawing this dino with us. Be sure to also add background to complete your drawing. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3081,7 +3081,7 @@ graph [
     step 0
     date "2020-10-11T12:22:47Z"
     title "How to draw a cat with butterfly - pencil sketch for beginners ||  step by step drawing"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; (1) Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) (2) Blending Stump (You can use Paint brush or ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;(1) Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) &#10;                         &#10;(2) Blending Stump &#10;(You can use  Paint brush or cotton buds instead of this blending stump  )&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#10;&#9661; Visit to my channel :&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: contactwithfarjana@gmail.com&#10;&#10;&#10;&#9661; My Facebook Page Link &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923&#10;&#10;&#10;&#10;Subscribe to my other channel: &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;&#10;1. Song: JayJen &#38; Roa - Paradise&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/9svC-oqbvUU&#10;&#10;2. Song: Keisay - Inner Rage&#10;Link: https://youtu.be/luLcLAETgJg&#10;Music promoted by FreeMusicWave.&#10;&#10;3. Song: KSMK - You (Vlog No Copyright Music)&#10;Music promoted by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/974y9fyIaG4&#10;&#10;4. Song: Hozgram - Everything&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution-ShareAlike 3.0 Unported&#10;Video Link: https://youtu.be/HAhPfAc-dN0&#10;  &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;#PencilDrawing     #DrawingTutorial #Drawing&#10;&#10;&#10;&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -3096,7 +3096,7 @@ graph [
     step 0
     date "2018-01-30T11:00:02Z"
     title "How To Draw A Cartoon Fish (for young artists)"
-    description "Learn how to draw a cartoon fish! This lesson is meant for younger artists. ART SUPPLIES we love ..."
+    description "Learn how to draw a cartoon fish! This lesson is meant for younger artists.&#10;&#127912;   ART SUPPLIES we love https://www.artforkidshub.com/art-supplies/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#128104;&#8205;&#127912;   BECOME an ART CLUB MEMBER https://www.artforkidshub.com/join-art-club/ &#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;&#128116;&#127995; &#128105;&#127995; &#128102;&#127995; &#128103;&#127995; &#128102;&#127995; &#128118;&#127995;  Learn more about us https://www.artforkidshub.com/about/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3111,7 +3111,7 @@ graph [
     step 0
     date "2022-05-15T20:00:00Z"
     title "NOOB vs PRO vs HACKER In JUST DRAW!? (ALL LEVELS!)"
-    description "NOOB vs PRO vs HACKER In JUST DRAW!? (ALL LEVELS!) LANKYBOX MERCH (Foxy+Boxy+Rocky plushie!)! &#9659; https://www."
+    description "NOOB vs PRO vs HACKER In JUST DRAW!? (ALL LEVELS!)&#10;LANKYBOX MERCH (Foxy+Boxy+Rocky plushie!)! &#9658; https://www.LankyBoxShop.com&#10;Get Foxy &#38; Boxy PLUSHIES on Amazon!&#10;https://www.Amazon.com/lankybox&#10;&#10;SUBSCRIBE to LankyBox Channel! (Animations!)&#10;https://www.youtube.com/LankyBoxChannel&#10;&#10;Use star code' LankyBox' when buying Robux to support us! &#10084;&#10;&#10;FOLLOW US!&#10;INSTAGRAM &#9658; https://www.instagram.com/LankyBox/&#10;FACEBOOK &#9658; https://www.facebook.com/LankyBox&#10;TWITTER &#9658; https://www.twitter.com/LankyBox&#10;TIKTOK &#9658; https://www.tiktok.com/@lankybox&#10;&#10;LankyBox World!&#10;YOUTUBE &#9658; https://www.youtube.com/LankyBoxWorld&#10;INSTAGRAM &#9658; https://www.instagram.com/LankyBoxWorld&#10;TIKTOK &#9658; https://www.tiktok.com/@lankyboxworld"
     channel_title "LankyBox"
     channel_id "UCSf0s2ogUVYpJPuzW1zpAOg"
     fav_count 0
@@ -3126,7 +3126,7 @@ graph [
     step 0
     date "2022-06-08T13:00:32Z"
     title "How To Draw A Funny Pack Of Gum"
-    description "Follow along with us and learn how to draw a funny pack of gum! Art Supplies ~ This is a list of the supplies we used, but feel free ..."
+    description "Follow along with us and learn how to draw a funny pack of gum!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3141,7 +3141,7 @@ graph [
     step 0
     date "2021-04-10T02:30:16Z"
     title "How to Draw a simple Landscape - Easy Pencil Drawing"
-    description "Learn How to draw an easy landscape scenery step by step easy. Landscape Pencil Drawing - Pencil Drawings Easy Landscape ..."
+    description "Learn How to draw an easy landscape scenery step by step easy. Landscape Pencil Drawing - Pencil Drawings Easy Landscape Painting in Pencil Drawing.&#10;&#128154; For Drawing online videos Visit my channel QWE Art here: https://www.youtube.com/c/HowtoDrawandDIY?sub_confirmation=1&#10;&#10;&#9661; Facebook link: https://bit.ly/2qFg6qh&#10;&#10;&#127912; About This Video:&#10;In this video I am going to show you an easy and simple landscape drawing of hill, tree and river. From this video we will learn how easily to draw a simple landscape in only 4 minutes.&#10;&#10;&#8505;&#65039;Materials &#8505;&#65039;&#10;1. Artline Pencil&#10;2. Double A Paper&#10;3. piece of cotton or tissue to blend&#10;4. a round shape paper to shape the sun&#10;&#10;&#127912; Queries Solved In This Video:&#10;drawings,&#10;how to draw,&#10;landscape drawing,&#10;pencil sketch drawing,&#10;pencil sketch,&#10;pencil art,&#10;pencil drawing,&#10;easy pencil drawings,&#10;scenery sketch,&#10;scenery drawing,&#10;easy landscape drawing.&#10;&#10;&#10;About This Channel 'QWE ART':&#10;YouTube/drawings presents QWE art / How to Draw is a drawing tutorial channel. We upload How to draw step by step easy drawing videos. All types of Art and Drawing videos for kids are available here. Basic drawings, Pencil sketch, line art, oil pastels drawing, one point perspective art, color drawings, 3D art, realistic drawing, etc are presented here easily. How To Draw  Cartoon, Animals,  Birds, Fruits, house, super heros, logos, Flowers, Flags, Fishes, Abstract, etc you can learn from this channel very easily. &#10;&#10;&#10;English (USA - American &#38; European Union) : Learn easily how to draw Easy. Online Drawing Art class.&#10;Spain: Aprende f&#225;cilmente c&#243;mo dibujar F&#225;cil. Clase de dibujo en l&#237;nea.&#10;Turkish: Kolay &#231;izmeyi kolayca &#246;&#287;renin. &#199;evrimi&#231;i &#199;izim Sanat&#305; s&#305;n&#305;f&#305;.&#10;Arab: &#1578;&#1593;&#1604;&#1605; &#1576;&#1587;&#1607;&#1608;&#1604;&#1577; &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1587;&#1607;&#1604;. &#1575;&#1604;&#1591;&#1576;&#1602;&#1577; &#1575;&#1604;&#1585;&#1587;&#1605; &#1593;&#1604;&#1609; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578;.&#10;taealam bshwlt kayfiat rusim suhla. altabiqat alrasm ealaa alaintarnat.&#10;Germany: Erfahren Sie ganz einfach, wie Sie Easy zeichnen. Online Zeichenstunde.&#10;France: Apprenez facilement &#224; dessiner facile. Cours de dessin en ligne..&#10;Italy: Impara facilmente come disegnare Facile. Classe di arte di disegno online.&#10;Latin: Securus discere facile duci. Tractus Online Ars genus.&#10;&#10;Become a member of QWE community: &#10;1&#65039;&#8419; Watch the entire video&#10;2&#65039;&#8419; SUBSCRIBE&#10;3&#65039;&#8419; Drop a LIKE &#10;4&#65039;&#8419;  Comment your opinion about this video&#10;&#10;Presented by: QWE ART&#10;----------------------------------------&#10;#landscape_drawing&#10;#pencil_drawing&#10;#How_to_Draw_landscape"
     channel_title "QWE Art"
     channel_id "UCDG5w5YhEmMTF5uqaziDACQ"
     fav_count 0
@@ -3156,7 +3156,7 @@ graph [
     step 0
     date "2021-04-23T13:00:21Z"
     title "How To Draw A Cat - Preschool"
-    description "Happy Friday! Olivia and I are learning how to draw a cat using shapes! We hope you and your little artists have a lot of fun ..."
+    description "Happy Friday! Olivia and I are learning how to draw a cat using shapes! We hope you and your little artists have a lot of fun following along with us. &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3171,7 +3171,7 @@ graph [
     step 0
     date "2017-09-05T17:30:00Z"
     title "Learning to Draw"
-    description "True art has no limits ~LIKE &#38; SUBSCRIBE~ JOIN for Discord and Benefits!: https://www.youtube.com/butteredsidedown/join ..."
+    description "True art has no limits&#10;&#10;~LIKE &#38; SUBSCRIBE~ &#10;&#10;JOIN for Discord and Benefits!: https://www.youtube.com/butteredsidedown/join&#10;&#10;PATREON: &#10;https://patreon.com/butteredsidedown&#10;TWITTER: &#10;https://twitter.com/ButteredSideDwn&#10;INSTAGRAM:&#10;https://www.instagram.com/thebutteredsidedown/&#10;REDDIT: &#10;https://www.reddit.com/r/ButteredSideDown/&#10;FACEBOOK:&#10;https://www.facebook.com/TheButteredSideDown&#10;BRAVE:&#10;https://brave.com/but949&#10;&#10;Subscribe to our channel to enjoy reality bending comedy videos! Comedy, visual effects, do it yourself, mayhem and more can be found within Buttered Side Down."
     channel_title "Buttered Side Down"
     channel_id "UCsfO3qhfcTvcPQGd3ppBqww"
     fav_count 0
@@ -3186,7 +3186,7 @@ graph [
     step 0
     date "2020-10-22T14:35:05Z"
     title "How To Draw A Scary Witch Folding Surprise"
-    description "We're back, and we missed you! Today, we're learning how to draw a scary witch folding surprise! Inside of the mouth, you could ..."
+    description "We're back, and we missed you! Today, we're learning how to draw a scary witch folding surprise! Inside of the mouth, you could add whatever you want. We added a friendly spider, but you can add candy, bats, and maybe even a worm.&#10;00:00 Hey, art-friends!&#10;00:11 How to fold your paper&#10;01:13 How to draw your scary witch folding surprise&#10;16:37 How to color your scary witch (time-lapse)&#10;16:53 Finished!&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3201,7 +3201,7 @@ graph [
     step 0
     date "2020-11-19T03:00:30Z"
     title "How to Draw a Lion Easy Step by Step || Lion Drawing"
-    description "How to draw a lion easy step by step for beginners. Easy Lion drawing online video tutorial for kids and beginners."
+    description "How to draw a lion easy step by step for beginners. Easy Lion drawing online video tutorial for kids and beginners. &#120138;&#120166;&#120147;&#120164;&#120148;&#120163;&#120154;&#120147;&#120150; '&#8474;&#120142;&#120124; &#120120;&#8477;&#120139;' : t.ly/Z6Vb&#10;&#128154; For Drawing online videos Visit my channel QWE Art here: https://www.youtube.com/c/HowtoDrawandDIY?sub_confirmation=1&#10;&#10;&#9661; Facebook link: https://bit.ly/2qFg6qh&#10;&#10;#lion_drawing #HowToDrawLion&#10;&#10;You can request anything in the comments section, but please be patient while I get to your request. You also have a better chance of getting your request done sooner if you're a subscriber :) &#10;Visit here for easy drawing tutorials: &#10;------------------------------------------&#10;&#10;About This Video&#10;&#127912;---&#127912;---&#127912;--&#127912;---&#127912;&#10;In This video we will learn How to draw a lion easy step by step for beginners. Easy Lion drawing online video tutorial for kids and beginners.&#10;&#10;&#127912; Queries Solved In This Video:&#10;Drawing,&#10;How to draw,&#10;how to draw a lion,&#10;lion drawing,&#10;lion sketch,&#10;lion drawing easy,&#10;lion face drawing,&#10;lion drawing for kids,&#10;lion king drawing,&#10;how to draw a lion for kids,&#10;how to draw a lion step by step,&#10;simple lion drawing,&#10;how to draw a lion easy,&#10;&#10;&#10;How to draw a lion | easy draw lion | pencil draw lion | step by step draw lion | Lion draw | wild animal lion | beginners draw lion | beautiful technique lion draw | pencil shade lion | kids easy draw lion&#10;&#10;About This Channel 'QWE ART':&#10;YouTube/drawings presents QWE art / How to Draw is a drawing tutorial channel. We upload How to draw step by step easy drawing videos. All types of Art and Drawing videos for kids are available here. Basic drawings, Pencil sketch, line art, oil pastels drawing, one point perspective art, color drawings, 3D art, realistic drawing, etc are presented here easily. How To Draw  Cartoon, Animals,  Birds, Fruits, house, super heros, logos, Flowers, Flags, Fishes, Abstract, etc you can learn from this channel very easily. &#10;&#10;&#10;------------------------------------------&#10;English (USA - American &#38; European Union) : Learn easily how to draw Easy. Online Drawing Art class.&#10;Spain: Aprende f&#225;cilmente c&#243;mo dibujar F&#225;cil. Clase de dibujo en l&#237;nea.&#10;Turkish: Kolay &#231;izmeyi kolayca &#246;&#287;renin. &#199;evrimi&#231;i &#199;izim Sanat&#305; s&#305;n&#305;f&#305;.&#10;Arab: &#1578;&#1593;&#1604;&#1605; &#1576;&#1587;&#1607;&#1608;&#1604;&#1577; &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1587;&#1607;&#1604;. &#1575;&#1604;&#1591;&#1576;&#1602;&#1577; &#1575;&#1604;&#1585;&#1587;&#1605; &#1593;&#1604;&#1609; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578;.&#10;taealam bshwlt kayfiat rusim suhla. altabiqat alrasm ealaa alaintarnat.&#10;Germany: Erfahren Sie ganz einfach, wie Sie Easy zeichnen. Online Zeichenstunde.&#10;France: Apprenez facilement &#224; dessiner facile. Cours de dessin en ligne..&#10;Italy: Impara facilmente come disegnare Facile. Classe di arte di disegno online.&#10;Latin: Securus discere facile duci. Tractus Online Ars genus.&#10;#Drawing&#10;&#10;&#10;&#10;Become a member of QWE community: &#10;1&#65039;&#8419; Watch the entire video&#10;2&#65039;&#8419; SUBSCRIBE&#10;3&#65039;&#8419; Drop a LIKE &#10;4&#65039;&#8419;  Comment your opinion about this video&#10;----------------------------------------&#10;&#10;&#10;#How_to_Draw_Lion&#10;Presented by: QWE ART"
     channel_title "QWE Art"
     channel_id "UCDG5w5YhEmMTF5uqaziDACQ"
     fav_count 0
@@ -3216,7 +3216,7 @@ graph [
     step 0
     date "2020-09-29T16:25:06Z"
     title "How To Draw Chase From Paw Patrol - Preschool"
-    description "This lesson is meant for younger artists. This lesson is also a bit challenging, Olivia is four-years-old and I was so proud of how ..."
+    description "This lesson is meant for younger artists. This lesson is also a bit challenging, Olivia is four-years-old and I was so proud of how her drawing turned out. &#10;Timestamps for navigating:&#10;00:00 Hey, art-friends&#10;00:13 Art supplies - visit https://www.artforkidshub.com/ for more info&#10;01:00 How to draw Chase from Paw Patrol&#10;10:37 Finished!&#10;&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3231,7 +3231,7 @@ graph [
     step 0
     date "2018-09-08T07:30:02Z"
     title "How to Draw Buildings in Perspective: A Street in Edinburgh"
-    description "Learn How to Draw Buildings in Perspective in this Narrated Drawing tutorial of an Edinburgh Street, using a 4B pencil. Would you ..."
+    description "Learn How to Draw Buildings in Perspective in this Narrated Drawing tutorial of an Edinburgh Street, using a 4B pencil. Would you like to learn to draw from scratch? If so click to view online course: https://courses.circlelineartschool.com/p/join&#10;&#10;Watch Next: How to Draw Perspective Playlist: http://bit.ly/1QV3SsW&#10;&#10;Circle Line Art School Episode #302: How to Draw Buildings in Perspective: Edinburgh City: Cockburn Street. This perspective drawing is a pencil drawing of a road and some buildings in Perspective.&#10;&#10;I hope you LIKE, COMMENT &#38; SUBSCRIBE: https://youtube.com/circlelineartschool&#10;&#10;How to draw Buildings in Perspective: Edinburgh Street: Narrated Circle Line Art School: Episode 302&#10;&#10;Thank you for watching this Perspective art tutorial from my channel, Circle Line Art School, please subscribe to my channel for a new art tutorial each week, there are now more than 300 of my drawings to watch! https://www.youtube.com/circlelineartschool&#10;&#10;Circle Line Art School&#10;&#10;Hi, my name is Tom McPherson and I founded Circle Line Art School as an online art education resource for all. My aim is to inspire people to learn to draw and be more creative.&#10;&#10;For more details on Circle Line Art School please visit my website: http://www.circlelineartschool.com&#10;&#10;Thank you for your support and have a great day! &#10;&#10;Tom McPherson&#10;&#10;Music used in this pencil drawing tutorial:&#10;Wistful Harp by Andrew Huang&#10;&#10;Circle Line Art School&#10;https://www.circlelineartschool.com"
     channel_title "Circle Line Art School"
     channel_id "UCVQxmyIOutGT4lmWlDN9pmA"
     fav_count 0
@@ -3246,7 +3246,7 @@ graph [
     step 0
     date "2022-05-30T13:00:04Z"
     title "How To Draw A Star - Memorial Day"
-    description "To honor the men and women that gave everything, we thought it would be fun to learn how to draw a star. Art Supplies ~ This is a ..."
+    description "To honor the men and women that gave everything, we thought it would be fun to learn how to draw a star.&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Pencil and erasure&#10;~Template&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3261,7 +3261,7 @@ graph [
     step 0
     date "2021-05-08T03:00:10Z"
     title "How to draw Anime from Different Angle&#9474;Drawing Tutorial"
-    description "how to draw from Upfront angle Character : kato megumin Paper : 300 Series Bristol - Strathmore Artist Papers ( Vellum surface ) ..."
+    description "how to draw from Upfront angle &#10;Character : kato megumin &#10;&#10;&#10;&#10;Paper : 300 Series Bristol - Strathmore Artist Papers ( Vellum surface ) &#10;&#10;Camera : Sony A6400&#10;&#10;Adobe premiere pro cc&#10;&#10;&#10;-- ---------------------------------------------------------------&#10;&#10;dont forget to comment ,like and share guys ;)  and rate hows my drawing and if u have any question or tips anything ask me in comment section thank y guys :)&#10;&#10;follow me on &#10;Facebook :https://www.facebook.com/kaiums.art/&#10;&#10;Instagram : https://www.instagram.com/the_shinigami_artist/&#10;&#10;Twitter :     https://twitter.com/abdulkaium24&#10;&#10;&#10;Music : &#10;Good Love by Vendredi https://soundcloud.com/vendrediduo&#8203;&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: https://bit.ly/3unfdOw&#8203;&#10;Music promoted by Audio Library https://youtu.be/HVH3GJyejXY&#10;&#10;&#10;&#10;#ANIME  #Drawing #HowTo"
     channel_title "Shinigami Arts"
     channel_id "UCKOjp24BNTkttoa9pzftI3g"
     fav_count 0
@@ -3276,7 +3276,7 @@ graph [
     step 0
     date "2016-07-13T16:51:43Z"
     title "How To Draw Snowball From The Secret Life Of Pets"
-    description "We're drawing another character from The Secret Life Of Pets. Today we're learning how to draw Snowball. He was our favorite ..."
+    description "We're drawing another character from The Secret Life Of Pets. Today we're learning how to draw Snowball. He was our favorite character. Austin is only four years old; he did a great job. All kids are at different skill levels, so it's important to remind them that it's ok if their drawing doesn't look like mine. Encourage them to have fun!  http://www.thesecretlifeofpets.com&#10;&#10;Parents, here's our affiliate link to purchase this toy on Amazon http://amzn.to/29Fi4Z0&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;To purchase an Art For Kids Hub t-shirt https://artforkidshub.threadless.com&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3291,7 +3291,7 @@ graph [
     step 0
     date "2016-04-14T04:02:28Z"
     title "How to draw  Puppy- Step by step for children, kids, beginners"
-    description "How to draw Puppy- Step by step for children, kids, beginners Step by step lesson.Tutorial of drawing technique Drawing tutorial ..."
+    description "How to draw  Puppy- Step by step for children, kids, beginners &#10;Step by step lesson.Tutorial of drawing technique &#10;Drawing tutorial,Art Tutorial Youtube Video&#10;&#10;Subscribe   https://www.youtube.com/subscription_center?add_user=cartoonhub&#10;Playlist    https://www.youtube.com/playlist?list=PLUM9tYw-dq9NODT7bizxohLb25CoZ-CKO&#10;Website     http://cartoonhub.com/&#10;Blog        http://cartoonhub22.blogspot.in/&#10;&#10;Facebook    https://www.facebook.com/04cartoonhub"
     channel_title "Cartoon Hub"
     channel_id "UCVNPZiacmOWIiRMSvdvTpnQ"
     fav_count 0
@@ -3306,7 +3306,7 @@ graph [
     step 0
     date "2022-02-14T13:43:05Z"
     title "How To Draw A Heart Monster - Folding Surprise"
-    description "Happy Valentine's Day! Today, Jack and I are learning how to draw a funny heart monster. We hope you and your kids have a lot ..."
+    description "Happy Valentine's Day! Today, Jack and I are learning how to draw a funny heart monster. We hope you and your kids have a lot of fun drawing with us!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3321,7 +3321,7 @@ graph [
     step 0
     date "2021-04-20T22:55:47Z"
     title "Easy anime drawing | how to draw anime boy wearing a mask"
-    description "Easy anime drawing | how to draw anime boy wearing a mask Like + subscribe How to draw anime boy Easy anime drawings ..."
+    description "Easy anime drawing | how to draw anime boy wearing a mask &#10;&#10;Like + subscribe &#10;&#10;&#10;How to draw anime boy &#10;&#10;Easy anime drawings&#10;&#10;songs&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;2-&#10;&#128315;&#10;&#34;Sappheiros - Embrace&#34; is under a Creative Commons license (CC BY 3.0)&#10;Music promoted by BreakingCopyright: https://bit.ly/sappheiros-embrace&#8203;&#10;&#128314;&#10;&#10;&#10;3-&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;Underwater by Roa https://soundcloud.com/roa_music1031&#8203; &#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: http://bit.ly/-underwater&#8203;&#10;Music promoted by Audio Library https://youtu.be/ffyI5yd-yLA&#8203;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;"
     channel_title "Easy to Draw"
     channel_id "UCB4oTt91SQQJnZY5Yo7mxoA"
     fav_count 0
@@ -3336,7 +3336,7 @@ graph [
     step 0
     date "2020-12-17T22:02:16Z"
     title "How To Draw Christmas Baby Yoda"
-    description "We love The Mandalorian, and with Christmas coming up, we couldn't resist! Today, we thought it would be fun to learn how to ..."
+    description "We love The Mandalorian, and with Christmas coming up, we couldn't resist! Today, we thought it would be fun to learn how to draw Christmas baby Yoda. &#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3351,7 +3351,7 @@ graph [
     step 0
     date "2022-05-20T20:00:05Z"
     title "All My Characters in ONE Drawing (well...I tried.)"
-    description "Hey guys! Today I am trying to tackle the HUGE challenge of drawing ALL my characters into ONE artwork. I ended up doing this ..."
+    description "Hey guys! Today I am trying to tackle the HUGE challenge of drawing ALL my characters into ONE artwork. I ended up doing this digitally using procreate. This was SO time consuming, but I had a ton of fun bringing back all of my original characters in this massive digital painting.&#10;&#10;I also put this design onto shirts and a poster on my store! Check it out!&#10;SHIRT: https://moriahelizabethmerch.com/listing/jam-packed-bunch-design?product=46&#10;POSTER: https://moriahelizabethmerch.com/listing/jam-packed-bunch-art-print?product=624&#10;ME NAILS: https://slateland.com/collections/menails&#10;&#10;&#10;___________WELCOME TO MY CHANNEL__________&#10;&#10;Hey! my name is Moriah (pronounced muh-rye-yuh &#128514; ) and this is my channel....obviously. I'm 27 and like doing anything creative...and being snarky.....just a lil. I make a lot of decorating, painting and general art videos here. I'm obsessed with editing and adding lil bits to my videos, so if that's not your thing....oof you may hate this haha. I paint on squishies, thrift store finds, and other random things I pick up. I also love to draw, but don't expect anything too skilled, I'm not the best at that haha. You will also find occasional crafting/testing crafting kits on my channel which are always a hot mess. And even some baking (REALLY bad at that, but it's fun to try LOL). &#10;&#10;CURRENT SERIES:&#10;Squishy Makeovers: Fixing and decorating used squishies sent from my viewers&#10;Thrift Store Makeovers: Fixing and decorating stuff I find at thrift stores/yard sales&#10;Bake With ME: Recreating squishies I've decorated in real life&#10;Create This Book: Drawing in the prompt book that I wrote (available to purchase and follow along)&#10;Squishy Unboxing: Opening used squishy packages sent from viewers&#10;Craft Kit Testing: pretty self explanatory. testing craft kits.&#10;&#10;Find Products I Use (contains affiliate links):&#10;https://a.co/4XDtrmV&#10;&#10;&#10;___UPLOAD SCHEDULE___&#10;&#10;Every Friday at 4:00pm ET: Alternating Squishy Makeovers, Thrift Makeovers, Craft Kit Reviews, Create This Book, Mail Openings and Miscellaneous crafts and DIYs&#10;&#10;&#10;____PURCHASE ME PRODUCTS____&#10;&#10;CREATE THIS BOOK:&#10;https://amzn.to/2vUerfI&#10;&#10;CREATE THIS BOOK 2:&#10;https://amzn.to/2Nx2G9f&#10;&#10;ME Merchandise:&#10;https://moriahelizabethmerch.com/&#10;&#10;ME Pin &#38; Sticker Shop:&#10;https://me-merch.myshopify.com&#10;&#10;&#10;____ME SOCIALS____&#10;&#10;INSTAGRAM: &#10;https://www.instagram.com/moriahelizabethofficial/&#10;&#10;TIKTOK:&#10;https://www.tiktok.com/@moriahelizabeth&#10;&#10;FACEBOOK:&#10;https://www.facebook.com/Moriah-Elizabeth-102592864903627&#10;&#10;SNAPCHAT:&#10;MoriahOfficial&#10;&#10;VISIT ME WEBSITE:&#10;https://www.moriahelizabeth.com/&#10;&#10;&#10;____CONTACT ME____&#10;&#10;EMAIL PICTURES OF YOUR ART (Create This Book or Fan art only please):&#10;Artwork@Moriah.video&#10;&#10;FOR BUSINESS INQUIRIES/OPPORTUNITIES ONLY:&#10;moriah@nightmedia.co&#10;&#10;&#10;_____MAIL ME_____&#10;&#10;For sending squishies, Letters, or general fan mail, please contact: FANMAIL@MORIAH.VIDEO to request my P.O. box address &#10;(must be 13+ to send mail)&#10;ATTENTION: Unfortunately I can only respond to a small amount of people each week. This is to make sure that I get a reasonable amount of mail and can feature the maximum amount on camera. I apologize in advance if you do not hear back from me, I may not have even seen the message. This email gets SUPER clogged with thousands of messages. Currently have 50,000+ unread messages just in this folder. SORRY PEEPS!*"
     channel_title "Moriah Elizabeth"
     channel_id "UCYAB7hh1ohA8-iX54EpMdeA"
     fav_count 0
@@ -3366,7 +3366,7 @@ graph [
     step 0
     date "2017-04-28T15:48:32Z"
     title "How To Draw A Realistic Sea Turtle"
-    description "Learn how to draw a realistic sea turtle! Become an Art Club member https://www.artforkidshub.com/join-art-club/ Learn more ..."
+    description "Learn how to draw a realistic sea turtle!&#10;&#10;Become an Art Club member https://www.artforkidshub.com/join-art-club/ &#10;Learn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/&#10;Learn more about us https://www.artforkidshub.com/about/&#10;&#10;Subscribe to our channel here http://bit.ly/afksubscribe&#10;&#10;You can also find us on:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;TWITTER http://twitter.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;Would your kids like to have their art featured in our Monday video?&#10;&#10;EMAIL a photo to myart@artforkidshub.com&#10;&#10;or&#10;&#10;MAIL their art to:&#10;&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3381,7 +3381,7 @@ graph [
     step 0
     date "2019-02-20T15:30:01Z"
     title "How to Draw BT21 Cooky | BTS Jungkook Persona"
-    description "Learn how to draw and color this cute bunny from BT21 easy, step by step art tutorial. Kawaii Cooky is BTS member Jungkook's ..."
+    description "Learn how to draw and color this cute bunny from BT21 easy, step by step art tutorial. Kawaii Cooky is BTS member Jungkook's persona. He's a rabbit with attitude. BT21 is a game from Line Friends Creators. &#10;&#9733;Easy, simple follow along drawing lessons for kids or beginners. Fun, Cute art! &#10;&#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages.&#10;&#9733;Drawing Tutorials on everything  and Everyday Objects (school supplies, etc) can all be found here at Draw So Cute! &#10;&#9733;You can learn how to color with markers, color pencils and much more. Coloring pages. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw?sub_confirmation=1&#10;&#10;-Website: Download FREE coloring pages and crafts: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywennie/&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -3396,7 +3396,7 @@ graph [
     step 0
     date "2022-02-03T14:00:09Z"
     title "How To Draw A Rose"
-    description "Today, Hadley and I are learning how to draw a rose! This drawing is perfect for Valentine's Day and Mother's Day! Art Supplies ..."
+    description "Today, Hadley and I are learning how to draw a rose! This drawing is perfect for Valentine's Day and Mother's Day! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3411,7 +3411,7 @@ graph [
     step 0
     date "2022-06-24T10:00:01Z"
     title "How to draw Numberblock One | Drawing Tutorial for Kids | @Numberblocks"
-    description "Learn how to draw Numberblock One with this brilliant drawing tutorial for kids! Follow the step-by-step guide as our artists take ..."
+    description "Learn how to draw Numberblock One with this brilliant drawing tutorial for kids! Follow the step-by-step guide as our artists take you through a simple way to draw these favourite cartoon characters.&#10;&#10;For more, download the official Numberblocks apps;&#10;https://www.learningblocks.tv/numberblocks/apps&#10;&#10;Official website;&#10;https://www.learningblocks.tv/numberblocks/home&#10;&#10;As seen on CBeebies! Watch Numberblocks full episodes on BBC iPlayer: https://bbc.in/2ZHvNtl &#10;Subscribe for more Numberblocks: https://goo.gl/rF32S8&#10;Visit the Numberblocks on;&#10;Twitter: @numberblocks&#10;Facebook: facebook.com/numberblocks/&#10;Instagram: @numberblocks&#10;&#10;We are the Numberblocks! Little blocks with big ideas, having a ton of number fun. Learn how to add, subtract and count the fun and educational way! In this educational CBeebies cartoon for kids, children can learn how to count with basic maths sums, using addition and subtraction with singular blocks that join together to make increasingly bigger numbers.&#10;&#10;#Numberblocks #LearnToCount #Drawingtutorialsforkids #Howtodraw #NumberblockOne"
     channel_title "Numberblocks"
     channel_id "UCPlwvN0w4qFSP1FllALB92w"
     fav_count 0
@@ -3426,7 +3426,7 @@ graph [
     step 0
     date "2022-01-24T14:00:06Z"
     title "How To Draw A Baby Seal Cartoon"
-    description "Today, Austin and I are learning how to draw a cute cartoon baby seal! We hope you and your kids have a lot of fun drawing this ..."
+    description "Today, Austin and I are learning how to draw a cute cartoon baby seal! We hope you and your kids have a lot of fun drawing this with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3441,7 +3441,7 @@ graph [
     step 0
     date "2022-06-01T12:00:14Z"
     title "How to Draw Easy Landscape Painting&#65372;Acrylic Painting Tutorial"
-    description "Hello! Welcome to the Art Space :) Art is the best place to create &#38; relax. Today I'm painting easy acrylic sunset landscape on ..."
+    description "Hello! Welcome to the Art Space :) &#10;Art is the best place to create &#38; relax.&#10;Today I'm painting easy acrylic sunset landscape on canvas in step by step technique for beginners using satisfying masking tape. &#10;I hope you enjoy watching my painting. &#10;Watch and paint along with every tutorial video.&#10;Thanks for watching! Happy painting! &#10;Have a good day!&#10;Please to Subscribe and Like &#10084;"
     channel_title "Art Space"
     channel_id "UCvxzTKmHYIvGJMHXCkOQSoA"
     fav_count 0
@@ -3456,7 +3456,7 @@ graph [
     step 0
     date "2022-06-14T13:59:05Z"
     title "How To Draw A Golf Cart"
-    description "Follow along with us and learn how to draw a golf cart! You can finish this drawing by adding someone driving the cart!"
+    description "Follow along with us and learn how to draw a golf cart! You can finish this drawing by adding someone driving the cart!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3471,7 +3471,7 @@ graph [
     step 0
     date "2016-03-16T15:00:00Z"
     title "How to Draw Better and more Precise on Snapchat - Zoom Tool (Snapchat Tips and Tricks)"
-    description "Follow me EVERYWHERE! &#9655;Snapchat - AaronFPS or BreakTheNetSnap &#9655;Twitter - http://www.twitter.com/AaronFPS ..."
+    description "Follow me EVERYWHERE!&#10;&#9654;Snapchat - AaronFPS or BreakTheNetSnap&#10;&#9654;Twitter - http://www.twitter.com/AaronFPS&#10;&#9654;Instagram - Search &#34;AaronFPS&#34;&#10;&#9654;Periscope - http://www.periscope.tv/AaronFPS &#10;&#10;&#10;#BreakTheInternet&#10;&#10;&#10;How to Draw Better and more Precise on Snapchat - Zoom Tool (Snapchat Tips and Tricks)&#10;How to Draw Better and more Precise on Snapchat - Zoom Tool (Snapchat Tips and Tricks)&#10;How to Draw Better and more Precise on Snapchat - Zoom Tool (Snapchat Tips and Tricks)"
     channel_title "Aaron Martinez"
     channel_id "UCTJH6F6ClCILYFtX2saO_xA"
     fav_count 0
@@ -3486,7 +3486,7 @@ graph [
     step 0
     date "2022-06-15T13:00:13Z"
     title "How To Draw A Cute Girl Gnome"
-    description "Follow along with us and learn how to draw a cute girl gnome! We hope you also take time to color and add extra decorations to ..."
+    description "Follow along with us and learn how to draw a cute girl gnome! We hope you also take time to color and add extra decorations to your drawing.&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3501,7 +3501,7 @@ graph [
     step 0
     date "2021-09-22T12:00:30Z"
     title "TEACH YOUR KID TO DRAW! Awesome Hacks To Improve Creativity"
-    description "TIMESTAMPS: 01:25 - Cute idea for a t-shirt customization 02:03 - Drawing with bubble wrap 02:30 - Cute mini stamp 05:06 ..."
+    description "TIMESTAMPS:&#13;&#10;01:25 - Cute idea for a t-shirt customization&#13;&#10;02:03 - Drawing with bubble wrap&#13;&#10;02:30 - Cute mini stamp&#13;&#10;05:06 - Easy hairstyle&#13;&#10;&#10;This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.&#10;&#10;The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate.&#10;&#10;All product and company names shown in the video are trademarks&#8482; or registered&#174; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.&#10;&#10; ---------------------------------------------------------------------------------------- &#10;&#10; 5-Minute Crafts: http://bit.ly/2itjCyw&#10;&#10;Facebook: https://www.facebook.com/5min.crafts/ &#10;Instagram: https://www.instagram.com/5.min.crafts/ &#10;Twitter: https://twitter.com/5m_crafts&#10;&#10;Subscribe to 5-Minute Crafts GIRLY: https://goo.gl/fWbJqz&#10;&#10;The Bright Side of Youtube: https://goo.gl/rQTJZz&#10;&#10;---------------------------------------------------------------------------------------- &#10;&#10;For more videos and articles visit: http://www.brightside.me/&#10;&#10;Music by Epidemic Sound: https://www.epidemicsound.com/"
     channel_title "5-Minute Crafts Tech"
     channel_id "UCXFeIOYbhWHrXCIqerycvNQ"
     fav_count 0
@@ -3516,7 +3516,7 @@ graph [
     step 0
     date "2022-06-16T13:00:30Z"
     title "How To Draw A Cat - Letter C - Preschool"
-    description "Today, Olivia and I are learning how to draw a cat by first drawing the letter C! We hope you and your little artists have a lot of fun ..."
+    description "Today, Olivia and I are learning how to draw a cat by first drawing the letter C! We hope you and your little artists have a lot of fun drawing with us.&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Crayons&#10;~Paper&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3531,7 +3531,7 @@ graph [
     step 0
     date "2022-06-25T13:00:35Z"
     title "How to Draw a Cute Watermelon &#127817; Summer Art Series #14"
-    description "Let's celebrate Summer with this cute and very cool Watermelon that's ready to hit the pool or beach. Easy, step by step cartoon ..."
+    description "Let's celebrate Summer with this cute and very cool Watermelon that's ready to hit the pool or beach. Easy, step by step cartoon kawaii Fruit drawing. #drawsocutesummer  #summerwatermelon&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -3546,7 +3546,7 @@ graph [
     step 0
     date "2022-05-19T13:00:06Z"
     title "How To Draw A Cute Cartoon Griffin"
-    description "In this art lesson, Hadley and I are learning how to draw a super cute griffin! We hope you and your kids have a lot of fun drawing ..."
+    description "In this art lesson, Hadley and I are learning how to draw a super cute griffin! We hope you and your kids have a lot of fun drawing this mythical creature. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3561,7 +3561,7 @@ graph [
     step 0
     date "2022-06-30T13:00:26Z"
     title "How To Draw Miles Morales | Spider Man Draw &#38;amp; Color"
-    description "SUBSCRIBE for more daily drawing videos like this every single day! https://www.youtube.com/c/CartooningClubHowtoDraw ..."
+    description "SUBSCRIBE for more daily drawing videos like this every single day! &#10;https://www.youtube.com/c/CartooningClubHowtoDraw&#10;&#10;Welcome to the best Online Education Program for artists. Learn how to draw Miles Morales with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more daily drawing videos like this every single day! &#10;https://www.youtube.com/c/CartooningClubHowtoDraw&#10;&#10;Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;&#10;Art Supplies:&#10;Staedtler Black 4B Pencils: https://amzn.to/3LnDQni&#10;Canson Sketch paper: https://amzn.to/3Jeo0tl&#10;Sharpie Markers: https://amzn.to/3JigPQY&#10;Prismacolor pencils&#10;&#10;Check out my Playlist below for more of your favourite characters.&#10;&#10;How to Draw Super Heroes &#38; Villains&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlopoNpCMws2k3z1Wi_G5OOM&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub #spiderman #milesmorales #art"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -3576,7 +3576,7 @@ graph [
     step 0
     date "2016-09-07T13:00:04Z"
     title "How To Draw A Cartoon Belle From Beauty And The Beast"
-    description "Learn how to draw a princess with us! Today we're learning how to draw Belle from Beauty and The Beast. Become a member ..."
+    description "Learn how to draw a princess with us! Today we're learning how to draw Belle from Beauty and The Beast. Become a member and get more to this lesson! https://www.artforkidshub.com/join-art-club/&#10;&#10;EMAIL A PHOTO OF YOUR ART: &#10;myart@artforkidshub.com&#10;&#10;MAIL US YOUR ART:&#10;Art for Kids Hub&#10;P.O. Box 927&#10;Pleasant Grove, UT 84062&#10;&#10;To purchase an Art For Kids Hub t-shirt https://artforkidshub.threadless.com&#10;&#10;SUBSCRIBE for regular drawing and art lessons:&#10;http://bit.ly/afksubscribe&#10;&#10;Visit AFK website for free printable steps:&#10;http://artforkidshub.com&#10;&#10;LIKE us on FACEBOOK!&#10;http://facebook.com/artforkidshub&#10;&#10;FOLLOW us on TWITTER!&#10;http://twitter.com/artforkidshub&#10;&#10;FOLLOW us on TUMBLR:&#10;http://artforkidshub.tumblr.com/&#10;&#10;FOLLOW our INSTAGRAM:&#10;http://instagram.com/artforkidshub&#10;&#10;JOIN our circle on GOOGLE PLUS:&#10;https://plus.google.com/+RobJensenAFK/&#10;&#10;Hi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:&#10;http://artforkidshub.com/about-the-author/"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3591,7 +3591,7 @@ graph [
     step 0
     date "2020-12-09T17:00:11Z"
     title "How To Draw HANDS"
-    description "This video is all about drawing hands. I cover basic forms, things to avoid, tips and tricks, and shadowing and detail. Hands have ..."
+    description "This video is all about drawing hands.  I cover basic forms, things to avoid, tips and tricks, and shadowing and detail.  Hands have so much movement and expression that it's impossible to cover everything in one video, but I hope this overview helps you with your own hand drawing!Thanks for watching!  If you enjoyed this video, please share the link, and don't forget to subscribe to keep up to date on future content. &#10;&#10;&#10;Check out my new website at https://www.davidfinchart.com where you can find my Drawing Superhero Heads full length course, broken down into lessons, and also a list of free drawing resources.&#10;&#10;&#10;Follow me on Instagram at https://www.instagram.com/dfinchartist/&#10;&#10;&#10;Join my Discord to keep up on livestream updates and other news. https://discord.gg/XUbstjx&#10;&#10;&#10;https://www.indiegogo.com/projects/david-finch-s-exclusive-red-sonja-cover#/&#10;&#10;&#10;Batman Catwoman exclusive cover:  https://www.shop.comicsketchart.com/David-Finch-Exclusive-Variants_c402.htm&#10;&#10;Follow Uri Montiero, my new super talented video editor, on Instagram!https://www.instagram.com/uri.motion/&#10;&#10;&#10;&#10;High resolution images from this video can be found here:&#10;&#10;https://gum.co/JkMnD&#10;&#10;&#10;-----------------------------------------------------------------------------------------------------------------------------------&#10;My Current List of Tools&#10;&#10;Links below are affiliate links.  If you make a purchase through an affiliate link I'll get a commission.&#10;&#10;https://amzn.to/2MooC46 tombow fudenosuke brush pen hard&#10;https://amzn.to/3dvG6aR staedler lead holder&#10;https://amzn.to/3cvNrFZ pentel arts brush &#10;https://amzn.to/3eOwSqq sakura pigma micron 01&#10;https://amzn.to/2MoBfwd faber castell kneaded eraser&#10;https://amzn.to/2Xwr9Q6 2h lead&#10;https://amzn.to/305Jzc1 strathmore 200 series bristol paper&#10;https://amzn.to/36XgBg5 lead pointer&#10;https://amzn.to/3gQtmgN uni posca white pens"
     channel_title "David Finch"
     channel_id "UC0-xeMXO_Vu8_wqqKf_Nipg"
     fav_count 0
@@ -3606,7 +3606,7 @@ graph [
     step 0
     date "2020-05-27T15:17:24Z"
     title "How To Draw The RMS Titanic"
-    description "Today we're learning how to draw the historic RMS Titanic. &#8205;   JOIN OUR ART HUB MEMBERSHIP!"
+    description "Today we're learning how to draw the historic RMS Titanic.&#10;&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3621,7 +3621,7 @@ graph [
     step 0
     date "2021-03-23T15:45:01Z"
     title "How to Draw Faces (beginner friendly)"
-    description "Quick tutorial going over some basics! &#10024; Monthly tutorials on my Patreon: https://www.patreon.com/samdoesarts &#11088;&#65039; my ..."
+    description "Quick tutorial going over some basics! &#10;&#10;&#10024; Monthly tutorials on my Patreon: https://www.patreon.com/samdoesarts&#10;&#10;&#11088;&#65039; my instagram: https://www.instagram.com/samdoesarts/&#10;&#10;&#128171; Gumroad shop: https://gumroad.com/samdoesarts&#10;&#10;&#129321; my Prints: https://www.inprnt.com/gallery/samdoesarts/"
     channel_title "Sam Does Arts"
     channel_id "UCNNOvB507MRfny7Jcv8MmOw"
     fav_count 0
@@ -3636,7 +3636,7 @@ graph [
     step 0
     date "2022-04-06T13:00:20Z"
     title "How To Draw Boba Fett"
-    description "Yay! Today, Jack and I are learning how to draw Boba Fett from the Book of Boba Fett! We hope you and your kids have a lot of ..."
+    description "Yay! Today, Jack and I are learning how to draw Boba Fett from the Book of Boba Fett! We hope you and your kids have a lot of fun following along with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3651,7 +3651,7 @@ graph [
     step 0
     date "2022-05-13T12:15:20Z"
     title "How to Draw Easy Acrylic Moonlight Landscape&#65372;Painting Tutorial"
-    description "Hello! Welcome to the Art Space :) Art is the best place to create &#38; relax. Today I'm painting easy acrylic moonlight landscape on ..."
+    description "Hello! Welcome to the Art Space :) &#10;Art is the best place to create &#38; relax.&#10;Today I'm painting easy acrylic moonlight landscape on canvas in step by step technique for beginners using satisfying piping bags &#38; masking tape. &#10;I hope you enjoy watching my painting compilation. &#10;Watch and paint along with every tutorial video.&#10;Thanks for watching! Happy painting! &#10;Have a good day!&#10;Please to Subscribe and Like &#10084;"
     channel_title "Art Space"
     channel_id "UCvxzTKmHYIvGJMHXCkOQSoA"
     fav_count 0
@@ -3666,7 +3666,7 @@ graph [
     step 0
     date "2022-05-31T13:00:30Z"
     title "How To Draw A Bee - Letter B - Preschool"
-    description "Today, we're learning how to draw a bee by first drawing the letter B! Art Supplies ~ This is a list of the supplies we used, but feel ..."
+    description "Today, we're learning how to draw a bee by first drawing the letter B! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Crayons&#10;~Paper&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3681,7 +3681,7 @@ graph [
     step 0
     date "2013-11-04T14:23:06Z"
     title "How to Draw Quadangle tutorial - Sacred Geometry &#38;amp; Mandala For Beginners Video HD"
-    description "Introductory video of how to draw sacred geometric patterns. In this video series I will show how to draw a equal sided Quadangle."
+    description "Introductory video of how to draw sacred geometric patterns.  In this video series I will show how to draw a equal sided Quadangle. One of the basic polygon forms and techniques that are used to draw sacred geometric patterns in general.&#10;&#10;&#9998; &#9998; &#9998; My Coloring Book  &#9998; &#9998; &#9998;:&#10;https://dearingdraws.com/wandering-minds-coloring-book/&#10;&#10;My Website&#10;https://dearingdraws.com/&#10;&#10;FaceBook&#10;http://www.facebook.com/dearingdraws&#10;&#10;Instagram&#10;http://instagram.com/dearing_draws&#10;&#10;Books:&#10;http://amzn.to/1xAF1T6&#10;&#10;Tools and Materials:&#10;&#10;Staedler Drawing 5 Set Advanced Compass: &#10;http://amzn.to/1FdIf2R&#10;&#10;Faber Castell TK Fine Vario Pencil 0.5 MM&#10;http://amzn.to/1ML43bN&#10;&#10;Triangle Rotring Ruler &#10;http://amzn.to/1ML4i6I&#10;&#10;Black Marker&#10;http://amzn.to/1wcCd3j&#10;&#10;Derwent Paper Size A3 /16.5 x 11.75 inch&#10;http://amzn.to/17I7DTd&#10;&#10;Micron pens&#10;http://amzn.to/1AxnXAy&#10;&#10;Caran D'Ache Pablo Color Pencils&#10;http://amzn.to/1wcAtXY&#10;&#10;Rotring Fineliner pen set 0.3/ 0.5/ 0.7mm&#10;http://amzn.to/19WgpPd"
     channel_title "Dearing Wang"
     channel_id "UCUfc5V23Oy_XD99LHYPvp4Q"
     fav_count 0
@@ -3696,7 +3696,7 @@ graph [
     step 0
     date "2021-08-03T13:24:09Z"
     title "How To Draw An Airplane"
-    description "Today, Austin and I are learning how to draw an airplane! Art Supplies ~ This is a list of the supplies we used, but feel free to use ..."
+    description "Today, Austin and I are learning how to draw an airplane!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3711,7 +3711,7 @@ graph [
     step 0
     date "2019-10-12T14:12:09Z"
     title "HOW TO DRAW BODIES | Drawing Tutorial"
-    description "BUY MY COLORING PAGES AND PROCREATE BRUSHES : https://nataliamadej.gumroad.com Today I'll show you my way of ..."
+    description "&#9829; BUY MY COLORING PAGES AND PROCREATE BRUSHES &#128525; :  https://nataliamadej.gumroad.com&#10;&#10;Today I'll show you my way of drawing bodies so I hope you'll find it helpful! &#10;Enjoy, Natalia &#129505;&#10;&#10;&#10; &#9999;&#65039;ART SUPPLIES USED IN THIS VIDEO: &#10;&#10;&#9655; SMLT Smooth Bristol Bristol https://amzn.to/3iougS8&#10;&#9655; Prismacolor Col-Erase pencils https://amzn.to/2RnbjTY&#10;&#9655; Pentel Orenz Mechanical pencil (0.5) https://amzn.to/2ZrScwD&#10;&#9655; Faber Castell eraser https://amzn.to/3k4nAJs&#10;&#9655; Copic Multiliners, Mangaka Fineliners https://amzn.to/2RkrAZZ&#10;&#9655; Copic Markers https://amzn.to/2Fo3bAl&#10;&#9655; Promarkers, Brushmarkers https://amzn.to/33kEEnS&#10;&#9655; Ohuhu Markers https://amzn.to/3iouIQk&#10;&#9655; Faber-Castell Polychromos Colored pencils https://amzn.to/3bT0QJr&#10;&#9655; Prismacolor Premiere Pencils https://amzn.to/2Rn2Jos&#10;&#10;&#9829; product links are affiliate, you can support me at no extra cost to you, thank you! &#9829;&#10;&#10;&#128241; MY OFFICIAL SOCIAL MEDIA&#10;&#10;&#9655; INSTAGRAM:  https://www.instagram.com/nataliamadej/&#10;&#9655; FACEBOOK: https://www.facebook.com/nataliamillu...&#10;&#9655; TUMBLR: http://nataliamillustrations.tumblr.com/&#10;&#10;&#10;&#10;&#128717;&#65039; BUY MY GOODIES HERE:&#10;&#10;&#9655; PHONE CASES: https://pl.flamecase.com/nataliamadej&#10;&#9655; STICKERS, NOTEBOOKS, TSHIRTS &#38; MORE: &#10;https://www.redbubble.com/people/nata...&#10;&#10;&#128231; For all the business inquiries contact me at: natalia.madej.illustrations@gmail.com &#10;&#10;Music credit: &#10;Epidemic Sound"
     channel_title "Natalia Madej"
     channel_id "UCO5jE40qITPk-5xvgsVSMeA"
     fav_count 0
@@ -3726,7 +3726,7 @@ graph [
     step 0
     date "2022-04-20T13:00:29Z"
     title "How To Draw Spiny From Mario"
-    description "Yes! Today, we're learning how to draw Spiny from Mario, everyone's favorite spike turtle! Art Supplies ~ This is a list of the ..."
+    description "Yes! Today, we're learning how to draw Spiny from Mario, everyone's favorite spike turtle! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3741,7 +3741,7 @@ graph [
     step 0
     date "2020-06-06T21:00:07Z"
     title "HOW TO DRAW A HOUSE EASY"
-    description "HOW TO DRAW A HOUSE EASY DRAWING A HOUSE how to draw a house easy step by step Drawing and coloring, draw, ..."
+    description "HOW TO DRAW A HOUSE EASY&#10;DRAWING A HOUSE&#10;how to draw a house easy step by step&#10;Drawing and coloring, draw, coloring, how to draw, kawaii drawings, pencil sketch, drawings tumblr, painting, drawing class, how to draw step by step, how to draw easy, drawing outline, sketch drawing, easy drawing, scenery drawing, learn to draw, como dibujar, dibujar, dibujos kawaii, desenhar, como desenhar, desenhos para desenhar, desenhar, desenhos tumblr, desenhos kawaii, dessin kawaii, Como Desenhar, aula de desenho, tutorial,&#10;Desenhando, fazer desenho,&#10;How to Draw, DRAWINGS TUMBLR,&#10;passo a passo, aprender a desenhar,&#10; how to draw easy stuff, easy stuff"
     channel_title "Learn step by step"
     channel_id "UCm5rnY9Iye5Eq_Nq2Y42T-g"
     fav_count 0
@@ -3756,7 +3756,7 @@ graph [
     step 0
     date "2021-07-01T14:49:14Z"
     title "How To Draw An Alicorn (Unicorn &#38;amp; Pegasus)"
-    description "Today, Hadley and I are learning how to draw a really cute alicorn! We hope you and your kids have fun following along with us ..."
+    description "Today, Hadley and I are learning how to draw a really cute alicorn! We hope you and your kids have fun following along with us and drawing this mythical cross between a unicorn and a pegasus. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub&#10;&#10;00:00 Today we're drawing an alicorn&#10;00:05 Art supplies used in this lesson&#10;00:17 How to draw an alicorn&#10;05:04 Drawing the alicorn wings&#10;09:38 Timelapse coloring an alicorn&#10;10:04 Finished, also other things you can add.&#10;10:35 We hope you had fun, goodbye!"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3771,7 +3771,7 @@ graph [
     step 0
     date "2013-11-07T15:38:38Z"
     title "How to draw Seed of Life pattern"
-    description "Colorsheet can be downloaded at: http://dearingdraws.com/downloadstore/ The Seed of Life Mandala pattern is created by seven ..."
+    description "Colorsheet can be downloaded at:&#10;http://dearingdraws.com/downloadstore/&#10;&#10;The Seed of Life Mandala pattern is created by seven overlapping circles in a symmetrical formation. It is believed by some that the symbol of the seven circles represent the 6 days of creation en the seventh day of rest.&#10;One of the basic polygon forms and techniques that are used to draw sacred geometric patterns in general.&#10;&#10;&#9998; &#9998; &#9998; My Coloring Book  &#9998; &#9998; &#9998;:&#10;https://dearingdraws.com/wandering-minds-coloring-book/&#10;&#10;My Website&#10;https://dearingdraws.com/&#10;&#10;FaceBook&#10;http://www.facebook.com/dearingdraws&#10;&#10;Instagram&#10;http://instagram.com/dearing_draws&#10;&#10;Some of the Tools and Materials that I use:&#10;&#10;Books:&#10;http://amzn.to/1xAF1T6&#10;&#10;Tools and Materials:&#10;&#10;Staedler Drawing 5 Set Advanced Compass: &#10;http://amzn.to/1FdIf2R&#10;&#10;Faber Castell TK Fine Vario Pencil 0.5 MM&#10;http://amzn.to/1ML43bN&#10;&#10;Triangle Rotring Ruler &#10;http://amzn.to/1ML4i6I&#10;&#10;Black Marker&#10;http://amzn.to/1wcCd3j&#10;&#10;Derwent Paper Size A3 /16.5 x 11.75 inch&#10;http://amzn.to/17I7DTd&#10;&#10;Micron pens&#10;http://amzn.to/1AxnXAy&#10;&#10;Caran D'Ache Pablo Color Pencils&#10;http://amzn.to/1wcAtXY&#10;&#10;Rotring Fineliner pen set 0.3/ 0.5/ 0.7mm&#10;http://amzn.to/19WgpPd"
     channel_title "Dearing Wang"
     channel_id "UCUfc5V23Oy_XD99LHYPvp4Q"
     fav_count 0
@@ -3786,7 +3786,7 @@ graph [
     step 0
     date "2022-03-28T13:00:30Z"
     title "How To Draw Luisa From Encanto"
-    description "Luisa was one of my favorite characters from Encanto! We hope you and your kids have a lot of fun learning how to draw Luisa ..."
+    description "Luisa was one of my favorite characters from Encanto! We hope you and your kids have a lot of fun learning how to draw Luisa with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3801,7 +3801,7 @@ graph [
     step 0
     date "2019-09-04T16:51:13Z"
     title "32 Fun and Simple Drawing Tricks  Easy Tips on How to Draw and Doodle"
-    description "Left your hands be the tool of art! Try our Creative doodle and drawing ideas. 32 COOL DRAWING TRICKS YOU'LL WANT TO ..."
+    description "Left your hands be the tool of art! Try our Creative doodle and drawing ideas.&#10;&#10;32 COOL DRAWING TRICKS YOU'LL WANT TO TRY RIGHT AWAY&#10;&#10;SUBSCRIBE: http://bit.ly/2tDEJmm&#10;&#10;00:00 Hand Tracing Animals (how to draw dog, cat, mouse, giraffe, shark and more)&#10;08:40 Folding Surprise Shark Card&#10;10:22 How to Turn circle into Animals&#10;&#10;&#10;Do you like this Drawing tricks and tips compilation video? Do you like the hand drawings?"
     channel_title "Facedrawer - How to Draw"
     channel_id "UChXBChGRG95GZGPmLVV39PQ"
     fav_count 0
@@ -3816,7 +3816,7 @@ graph [
     step 0
     date "2022-06-07T13:00:31Z"
     title "How To Draw A Firefly - Preschool"
-    description "Olivia and I are learning how to draw a cute firefly! We hope you and your little artists have a lot of fun drawing a firefly with us."
+    description "Olivia and I are learning how to draw a cute firefly! We hope you and your little artists have a lot of fun drawing a firefly with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Crayon&#10;~Paper&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3831,7 +3831,7 @@ graph [
     step 0
     date "2019-09-30T12:13:43Z"
     title "How to draw a person | EASY TO FOLLOW"
-    description "How to draw a person | EASY TO FOLLOW."
+    description "How to draw a person | EASY TO FOLLOW"
     channel_title "How To Draw"
     channel_id "UC4mxkC-CDziCHeIeYsekTJg"
     fav_count 0
@@ -3846,7 +3846,7 @@ graph [
     step 0
     date "2022-06-24T13:22:45Z"
     title "How To Draw Obi-Wan Kenobi"
-    description "We've loved the Disney Obi-Wan series, and thought it would be really fun to learn how to draw Obi-Wan Kenobi! We hope you ..."
+    description "We've loved the Disney Obi-Wan series, and thought it would be really fun to learn how to draw Obi-Wan Kenobi! We hope you have a lot of fun drawing with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3861,7 +3861,7 @@ graph [
     step 0
     date "2021-05-01T11:21:45Z"
     title "How to draw a face"
-    description "Hello, I'm Chommang. Today, I talked about how to draw faces in more detail. I hope this video will help you draw your face ..."
+    description "&#128056;&#10;Hello, I'm Chommang.&#10;Today, I talked about how to draw faces in more detail.&#10;I hope this video will help you draw your face naturally. :)&#10;&#10;&#127880; My Drawing class (Croquis)&#10;https://en.class101.net/products/chommang&#10;&#10;&#127912;&#10;Drawing :  2B pencil&#10;&#10;&#128161;&#10;Reference image source&#10;&#34;Draw together PINS&#34;&#10;https://www.pinterest.co.kr/chommang_drawing/&#10;&#10;&#10;&#128140;&#10;Instagram  : @chommang&#10;Contact : chommang@gmail.com&#10;&#10;#drawing #sketch #howtodraw"
     channel_title "&#51312;&#47609; Chommang_Drawing"
     channel_id "UCm5108VByLkHnu4-b-moBLQ"
     fav_count 0
@@ -3876,7 +3876,7 @@ graph [
     step 0
     date "2022-06-28T17:10:26Z"
     title "How To Draw A Seashell"
-    description "Follow along with us and learn how to draw a really cool seashell! Art Supplies ~ This is a list of the supplies we used, but feel free ..."
+    description "Follow along with us and learn how to draw a really cool seashell! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3891,7 +3891,7 @@ graph [
     step 0
     date "2014-02-21T07:02:56Z"
     title "How to Draw Anime Wolves"
-    description "You can see the original tutorial of How to draw anime Wolves at ..."
+    description "You can see the original tutorial of How to draw anime Wolves at http://www.drawingnow.com/tutorials/119423/how-to-draw-anime-wolves/"
     channel_title "DrawingNow"
     channel_id "UCEVUT5iso7zmNTtwYd7eY5w"
     fav_count 0
@@ -3906,7 +3906,7 @@ graph [
     step 0
     date "2022-07-01T19:13:51Z"
     title "&#127464;&#127462; How To Draw The Canada Flag - Happy Canada Day!"
-    description "To all of our Canadian friends, Happy Canada Day! To celebrate we thought it would be fun to learn how to draw the Canadian ..."
+    description "To all of our Canadian friends, Happy Canada Day! To celebrate we thought it would be fun to learn how to draw the Canadian flag &#127464;&#127462;&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Pencil and erasure&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3921,7 +3921,7 @@ graph [
     step 0
     date "2018-11-21T16:16:42Z"
     title "Easy way to draw a realistic eye for Beginners step by step (Using only 1 pencil)"
-    description "Drawing an Eye with only one Pencil. Pencil name : DOMS ( ZOOM ULTIMATE DARK ) pencil #HowToDrawARealisticEye &#1603;&#1610;&#1601;&#1610;&#1577; ..."
+    description "Drawing an Eye with only one Pencil. Pencil  name :  DOMS ( ZOOM ULTIMATE DARK ) pencil &#10;&#10;#HowToDrawARealisticEye&#10;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1575;&#1604;&#1593;&#1610;&#1606;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#9661; Visit to my channel :&#10;&#10142; https://www.youtube.com/channel/UCd3s7BuoOlu4bRJL6RdGWXw&#10;&#10;&#9661; My Facebook Page Link &#10;&#10142;https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923&#10;&#10;&#9661; My Twitter Link &#10;&#10142;https://twitter.com/FarjanaDrawing&#10;&#10;Subscribe to my other channel: https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;.................... Music &#9834;&#9835;  ......................&#10;1. title of the track : Zonoma &#8211; Don't Let Me Down [SR]&#10;link : https://www.youtube.com/watch?v=6-GCzk4gtvE&#10;Music provided by YouTubers Music - No Copyright Music&#10;&#10;2. Track: Unknown Brain - Why Do I? (ft. Bri Tolani) [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/tcHJodG5hX8&#10;Free Download / Stream: http://ncs.io/WhyDoIYO&#10;&#10;..................... &#9834;&#9835; .................................&#10;if u like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -3936,7 +3936,7 @@ graph [
     step 0
     date "2021-11-02T13:00:00Z"
     title "How To Draw A Ford Bronco"
-    description "Yay! Today, Austin and I are learning how to draw one of my favorite cars, a Ford Bronco! We hope you have a lot of fun following ..."
+    description "Yay! Today, Austin and I are learning how to draw one of my favorite cars, a Ford Bronco! We hope you have a lot of fun following along with us! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3951,7 +3951,7 @@ graph [
     step 0
     date "2022-06-03T13:00:21Z"
     title "How To Draw Bunzo Bunny | Poppy Playtime Ch.2 Draw &#38;amp; Color"
-    description "Learn how to draw Bunzo Bunny from Poppy Playtime Chapter 2 with Cartooning Club How To Draw. I'll teach you the simple ..."
+    description "Learn how to draw Bunzo Bunny from Poppy Playtime Chapter 2 with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;Art Supplies:&#10;Staedtler Black 4B Pencils: https://amzn.to/3LnDQni&#10;Canson Sketch paper: https://amzn.to/3Jeo0tl&#10;Sharpie Markers: https://amzn.to/3JigPQY&#10;Prismacolor pencils&#10;&#10;Check out my Playlist below for more of your favourite characters.&#10;&#10;How to Draw Video Game Characters&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlpzlPLJD46irSobCKrVQf4h&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -3966,7 +3966,7 @@ graph [
     step 0
     date "2022-05-11T13:00:19Z"
     title "How To Draw A Snake (Letter S) - Preschool"
-    description "In this lesson, Olivia and I are learning how to draw a snake, but first, we're drawing the letter S! Art Supplies ~ This is a list of the ..."
+    description "In this lesson, Olivia and I are learning how to draw a snake, but first, we're drawing the letter S!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Crayons&#10;~Paper&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -3981,7 +3981,7 @@ graph [
     step 0
     date "2019-02-28T12:39:32Z"
     title "How to Draw + Shade Lips in Pencil"
-    description "Learn how to draw and shade REALISTIC lips, step by step with pencil. There are many ways you can customize your drawing to ..."
+    description "Learn how to draw and shade REALISTIC lips, step by step with pencil. There are many ways you can customize your drawing to make it extra unique, which I'll explain in the tutorial. With this lip drawing tutorial, you can learn how to draw any lip shape from SCRATCH!&#10;&#10;For more examples, check out my other lip drawing videos which are linked down below...&#10;&#10;&#9989; RELATED TUTORIALS&#10;Understanding light / How to shade: https://www.youtube.com/watch?v=-WR-FyUQc6I&#10;Shading Techniques: https://www.youtube.com/watch?v=tGx4sypoPjY&#10;Learn to draw different lip shapes: https://www.youtube.com/watch?v=QjzB1qIvVkk&#10;Triangle method for drawing lips: https://www.youtube.com/watch?v=mFVTfgXDBWg&#38;t=1s&#10;How to Draw a Smile w Teeth: https://www.youtube.com/watch?v=9GFcOaKXYyk&#10;&#10;&#128276; Subscribe for more FREE drawing tutorials: https://www.youtube.com/user/RapidFireArt?sub_confimation=1&#10;&#10;&#9999;&#65039;&#10084;&#65039; TOOLS I USED&#10;HB + 5B Derwent Pencils: https://amzn.to/2GPXme7&#10;Prismacolor Kneadable Eraser: https://amzn.to/2IRrYtR&#10;SmudgeGuard Glove: https://amzn.to/2C7Sq14&#10;Soft Tissue Paper: https://amzn.to/2JYkjwr&#10;Canson Drawing Paper (If you want smooth drawings, look for paper labelled as &#34;fine tooth&#34; or smooth, but make sure it's thick so you can work it): https://amzn.to/2A5saTx&#10;Try Canson Bristol Vellum, for super smooth drawings: https://amzn.to/2tGaWIr&#10;&#10;&#10;&#9200; SKIP TO TIMESTAMP &#9200;&#10;Intro - 0:00&#10;Tools - 0:20&#10;Lip construction - 1:00&#10;Shading base layer - 6:17&#10;Light planning - 9:50&#10;Bottom lip shading - 11:49&#10;     Bottom lip highlights - 22:43&#10;Top lip shading - 26:58&#10;Bottom lip cast shadow - 30:32&#10;&#10;&#129520; MY CAMERA EQUIPMENT&#10;Overhead Camcorder for Tutorials (Canon Vixia HF R400): https://amzn.to/33foV8Q&#10;Overhead Camcorder Mount: https://amzn.to/2TK76f1&#10;Camera for every other angle (Sony a 5000): https://amzn.to/39Noc1p&#10;Portrait Lens: https://amzn.to/2vSijBq&#10;Macro (Closeup) Lens: https://amzn.to/2W7jk32&#10;Lights: https://amzn.to/2w1nvmq&#10;Light Bulbs: https://amzn.to/2Qbbu4A&#10;Microphone: https://amzn.to/2xyv6cB&#10;&#10;&#10;&#128085; RFA STORE:&#10;https://teespring.com/stores/rapidfireart&#10;&#10;&#128226; If you enjoyed this video, help others enjoy it by adding captions in your native language. Thank you! - http://www.youtube.com/timedtext_video?ref=share&#38;v=s3GeiAKJYI8&#10;&#10;DISCLAIMER&#10;This content contains affiliate links. If you decide to make a purchase through the link, I will make a small commission at no additional cost to you. This helps fund free tutorials on the RFA channel and website. Thank you for your support!"
     channel_title "RapidFireArt"
     channel_id "UCDQNp22J8fGKdMytv0s3Zgg"
     fav_count 0
@@ -3996,7 +3996,7 @@ graph [
     step 0
     date "2022-03-25T13:00:04Z"
     title "How To Draw A Pop It Toy"
-    description "In this art lesson, Austin and I are learning how to draw a fun pop it toy! Art Supplies ~ This is a list of the supplies we used, but feel ..."
+    description "In this art lesson, Austin and I are learning how to draw a fun pop it toy! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -4011,7 +4011,7 @@ graph [
     step 0
     date "2020-02-23T17:00:00Z"
     title "How to draw a face for beginners from sketch to finish | Emmy Kalia"
-    description "Join me on Patreon: https://www.patreon.com/emmykalia In the drawing course, I will teach you all the basic elements of art step ..."
+    description "Join me on Patreon: https://www.patreon.com/emmykalia&#10;&#10;In the drawing course, I will teach you all the basic elements of art step by step and give you plenty to practice with. Want to join? Check out the details here: http://emmykalia.com/learn&#10;&#10;In this video, I'm showing how you can draw a face for beginners from a reference photo starting from sketch to finish. Which techniques I use to draw from a reference photo. List of materials below &#8595;&#10;&#10;DRAWING MATERIALS:&#10;Bristol smooth paper: https://amzn.to/338qLbn&#10;Mechanical pencil: https://amzn.to/2Sgp1YL&#10;HB lead refill: https://amzn.to/36SRFEP&#10;Graphite pencils: https://amzn.to/2YmZDXw&#10;Black pencils: https://amzn.to/2SMW8VM&#10;Eraser Pencil 7056: https://amzn.to/33cTcoL&#10;White acrylic marker: https://amzn.to/2H6DcLz&#10;Pencil Sharpener: https://amzn.to/2KnQ80k&#10;Kneaded eraser: https://amzn.to/2YFXuRU&#10;Blending stumps: https://amzn.to/2T0AJH6&#10;Soft tissue: https://amzn.to/2ZsWPEp&#10;&#10;&#10095; Subscribe to my channel so you never miss a new video: http://bit.ly/EmmyKalia&#10;&#10;WATCH NEXT:&#10;&#8226; Best way to practice shading with charcoal and graphite pencils - Draw a sphere - https://youtu.be/rbkkhJCM3ac&#10;&#8226; How to draw, shade a realistic eye with a teardrop - https://youtu.be/ZP8goZl9JH0&#10;&#8226; How to draw, shade, blend realistic skin Part 1 - https://youtu.be/80ewdDwAVk4&#10;&#8226; How to draw a realistic brown hair updo - https://youtu.be/DDfecJw11wA&#10;&#8226; Drawing skin tones with colored pencils - https://youtu.be/-O4BOsf7LIk&#10;&#10;-------------------------------------------------------------------------&#10;&#10;WHAT I USE TO FILM:&#10;Tripod: https://goo.gl/0MttWu&#10;Camera: https://goo.gl/3o6a4o&#10;Lights: https://goo.gl/IaMg4v&#10;&#10;--------------------------------------------------------------------------&#10;&#10;&#10095; Connect with me:&#10;&#8226; Website: https://emmykalia.com&#10;&#8226; Instagram: https://instagram.com/emmykalia&#10;&#8226; Facebook: https://facebook.com/emmykalia&#10;&#10;&#10095; Music: http://share.epidemicsound.com/Music&#10;Gavin Luke - Nadir, ES - Blue Brook, Gavin Luke - Broken Pieces"
     channel_title "Emmy Kalia"
     channel_id "UCXyk40gJRzA9WJ27UA1xlgQ"
     fav_count 0
@@ -4026,7 +4026,7 @@ graph [
     step 0
     date "2022-05-05T13:00:18Z"
     title "How To Draw A Cinco De Mayo Cactus"
-    description "Happy Cinco De Mayo! Today, we're celebrating by learning how to draw a singing cactus! We hope you have a lot of fun drawing ..."
+    description "Happy Cinco De Mayo! Today, we're celebrating by learning how to draw a singing cactus! We hope you have a lot of fun drawing this with us. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -4041,7 +4041,7 @@ graph [
     step 0
     date "2022-06-17T15:16:19Z"
     title "How to Draw and Paint SONIC The Hedgehog (Painting using acrylic on canvas)"
-    description "Hi Guys! Today I show you how to draw and paint Sonic The Hedgehog (step by step) in a painting using acrylic paint on canvas."
+    description "Hi Guys! Today I show you how to draw and paint Sonic The Hedgehog (step by step) in a painting using acrylic paint on canvas.&#10;As you can see, for this painting I have only used a few colors, basically cobalt blue, ocher yellow, lemon yellow, white, vermilion (for the background) and naples yellow hue. Only for the outline of the drawing I used a black permanent ink marker and at the end of the process, a dark blue marker for the shadows.&#10;Canvas measurements are 11.8 x 11.8 inches. (30x30cm).&#10;&#10;#SonicTheHedgehog #SonicPainting #Sonic"
     channel_title "Drawbook"
     channel_id "UCWVWlwtGywEvwwFEkjQoPvQ"
     fav_count 0
@@ -4056,7 +4056,7 @@ graph [
     step 0
     date "2021-11-15T15:32:20Z"
     title "How To Draw A Panda - Preschool"
-    description "Today, Olivia and I are learning how to draw a cute panda! This lesson is meant for younger artists, but it's still a lot of fun for ..."
+    description "Today, Olivia and I are learning how to draw a cute panda! This lesson is meant for younger artists, but it's still a lot of fun for everyone. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Crayons&#10;~Paper&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -4071,7 +4071,7 @@ graph [
     step 0
     date "2022-06-25T13:00:14Z"
     title "How To Draw Vecna | Stranger Things 4 Sketch Tutorial"
-    description "SUBSCRIBE for more daily drawing videos like this every single day! https://www.youtube.com/c/CartooningClubHowtoDraw ..."
+    description "SUBSCRIBE for more daily drawing videos like this every single day! &#10;https://www.youtube.com/c/CartooningClubHowtoDraw&#10;&#10;Welcome to the best Online Education Program for artists. Learn how to draw Vecna from Stranger Things Season 4 with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more drawing tutorials every single day! Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;&#10;Art Supplies:&#10;Staedtler Black 4B Pencils: https://amzn.to/3LnDQni&#10;Canson Sketch paper: https://amzn.to/3Jeo0tl&#10;&#10;Check out my Sketch Playlist below for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub #strangerthings"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -4086,7 +4086,7 @@ graph [
     step 0
     date "2022-02-15T14:00:06Z"
     title "How To Draw Funny Gumdrops"
-    description "Happy National Gumdrops Day! We hope you have a lot of fun learning how to draw funny gumdrops with us! Art Supplies ~ This ..."
+    description "Happy National Gumdrops Day! We hope you have a lot of fun learning how to draw funny gumdrops with us!&#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -4101,7 +4101,7 @@ graph [
     step 0
     date "2021-06-15T13:00:04Z"
     title "How to Draw a Tiger Easy &#128047;Cute Cartoon Animal"
-    description "Hope you loved the silly Tiger Joke Cuties! Learn How to Draw a Tiger easy, step by step drawing tutorial. Kawaii cute cartoon ..."
+    description "Hope you loved the silly Tiger Joke Cuties! &#128522; Learn How to Draw a Tiger easy, step by step drawing tutorial. Kawaii cute cartoon Tiger drawing lesson. #drawsocuteanimals&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -4116,7 +4116,7 @@ graph [
     step 0
     date "2022-03-23T13:00:05Z"
     title "How To Draw A Unicorn - Preschool"
-    description "Today, Olivia and I are learning how to draw a cute unicorn using shapes! This lesson is meant for younger artists but fun for ..."
+    description "Today, Olivia and I are learning how to draw a cute unicorn using shapes! This lesson is meant for younger artists but fun for everyone. &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Crayons&#10;~Paper&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -4131,7 +4131,7 @@ graph [
     step 0
     date "2017-06-16T11:00:00Z"
     title "How to Draw 3D Letter M - Drawing with pencil - Awesome Trick Art."
-    description "Drawing 3D Letter M with charcoal pencil. How to draw letter M. Cool anamorphic illusion. Awesome trick art. Artistic drawing with ..."
+    description "Drawing 3D Letter M with charcoal pencil. How to draw letter M. &#10;Cool anamorphic illusion. Awesome trick art. Artistic drawing with Vamos.&#10;&#9989; Hungarian anamorphic artist Sandor Vamos creates incredible trick-of-the-eye, 3D drawings that seem to jump from the page.&#10;&#9658; https://mymodernmet.com/3d-drawings-anamorphic-art-sandor-vamos/&#10;&#8226; Material used: &#10;Paper: A/4, white.(Fabriano Elle Erre 220 g.)&#10;STABILO Pen 68. dark grey.&#10;DERWENT charcoal pencil dark.&#10;Paper cutter scalpel.&#10;Kneaded eraser.&#10;Cotton material.&#10;&#9834; Music: &#10;1. Switch It Up - Silent Partner,&#10;2. Electro Sketch by Kevin MacLeod is licensed under a Creative Commons Attribution license &#10;(https://creativecommons.org/licenses/...) &#10;Source: http://incompetech.com/music/royalty-... &#10;Artist: http://incompetech.com/ /&#10;3. Bounce House - Silent Partner&#10;(Youtube Music Audio Library) &#10;4. Real World - Silent Partner,&#10;(Youtube Music Audio Library)&#10;http://www.youtube.com/audiolibrary&#10;By Sandor Vamos. I'm Hungarian.&#10;Copyright &#169; New video. Vamos. All rights reserved.&#10;#Drawing #TrickArt #HowToDraw&#10;@VamosART Drawing"
     channel_title "VamossART"
     channel_id "UChJX37Qpc8U-xQDmm4DcGyA"
     fav_count 0
@@ -4146,7 +4146,7 @@ graph [
     step 0
     date "2022-07-05T15:02:38Z"
     title "How To Draw Beedrill Pokemon"
-    description "Hey, art friends! Today, Jack and I are learning how to draw Beedrill Pok&#233;mon! This lesson is a little more advanced but still fun for ..."
+    description "Hey, art friends! Today, Jack and I are learning how to draw Beedrill Pok&#233;mon! This lesson is a little more advanced but still fun for everyone! &#10;Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.&#10;~Pencil and erasure&#10;~Sharpie (or something to draw with)&#10;~Paper (we use marker paper)&#10;~Markers to color with (we use Bianyo)&#10;~Colored pencils (sometimes we also use Prismacolor colored pencils)&#10;Visit our art supply page for more information about the supplies used in this lesson.&#10;&#127912;   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub&#10;&#128105;&#8205;&#127912;  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/&#10;&#128250;   SUBSCRIBE to our channel here http://bit.ly/afksubscribe&#10;&#10;&#128247;  POST your child's artwork to:&#10;FACEBOOK http://facebook.com/artforkidshub&#10;INSTAGRAM http://instagram.com/artforkidshub&#10;&#10;#howtodraw #artforkidshub"
     channel_title "Art for Kids Hub"
     channel_id "UC5XMF3Inoi8R9nSI8ChOsdQ"
     fav_count 0
@@ -4161,7 +4161,7 @@ graph [
     step 0
     date "2021-07-05T17:12:45Z"
     title "How to Draw a Couple Walking in the Rain / Red Acrylic Painting"
-    description "JayLee - How to paint with acrylic / Painting Techniques --------------------------------------------------- &#10070; Channel Membership : Please ..."
+    description "JayLee - How to paint with acrylic / Painting Techniques&#10;---------------------------------------------------&#10;&#10070; Channel Membership : &#10;Please become a member of my channel. You can buy me a cup of coffee, and push me to create more videos.&#10;---------------------------------------------------&#10;Jay Lee is a painting youtuber. He paints beautiful world on the canvas, and share videos for you and everyone. Put Jay Lee's painting in your space, and make world beautiful.&#10;&#10070; Jay Lee Store : &#10;https://teespring.com/stores/jayartpainting&#10;&#10070; Patreon : https://www.patreon.com/jayartpainting&#10;&#10070; PayPal Donation : paypal.me/jayartpainting&#10;---------------------------------------------------&#10;Jay Lee&#45716; &#54620;&#44397;&#51064; &#44536;&#47548; &#50976;&#53916;&#48260; &#51077;&#45768;&#45796;. &#52884;&#48260;&#49828;&#50640; &#50500;&#47492;&#45796;&#50868; &#49464;&#49345;&#51012; &#44536;&#47532;&#44256; &#50689;&#49345;&#51004;&#47196; &#45812;&#50500; &#49324;&#46988;&#46308;&#50640;&#44172; &#44277;&#50976;&#54633;&#45768;&#45796;. &#50668;&#47084;&#48516;&#51032; &#44277;&#44036;&#51012; Jay Lee&#51032; &#44536;&#47548;&#51004;&#47196; &#50500;&#47492;&#45813;&#44172; &#47564;&#46308;&#50612;&#48372;&#49464;&#50836;.&#10;Jay Lee &#26159;&#20303;&#22312;&#21488;&#28771;&#30340;&#38867;&#22283;&#20154;&#65292;&#19968;&#20301;&#30059;&#30059;&#30340;YouTuber&#12290;&#22312;&#30059;&#24067;&#19978;&#32362;&#35069;&#32654;&#40599;&#30340;&#19990;&#30028;&#65292;&#20006;&#29992;&#24433;&#29255;&#30340;&#26041;&#24335;&#20998;&#20139;&#32102;&#22823;&#23478;&#12290;&#25226;Jay Lee&#30340;&#30059;&#25918;&#22312;&#20320;&#30340;&#31354;&#38291;&#35041;&#65292;&#35731;&#19990;&#30028;&#26356;&#32654;&#40599;&#12290;&#10;---------------------------------------------------&#10;&#10070; Music&#10;Meditation Impromptu by Kevin MacLeod &#10;http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100161&#10;http://incompetech.com/&#10;---------------------------------------------------&#10;&#10070; Contacts&#10;E-mail : tkstoryman@hotmail.com&#10;........................................................"
     channel_title "Jay Lee Painting"
     channel_id "UCHm9SiOLG8UoBT8STWY5mVA"
     fav_count 0
@@ -4176,7 +4176,7 @@ graph [
     step 0
     date "2020-05-09T13:00:11Z"
     title "How To Draw Venom | Sketch Saturday (Step by Step)"
-    description "Welcome to the largest library of online classes for artists. Venom 2 is coming!! Leave a if you want to see more sketch tutorials ..."
+    description "Welcome to the largest library of online classes for artists. Venom 2 is coming!! Leave a &#128077; if you want to see more sketch tutorials like this. Sketch Sunday&#8217;s too perhaps? Drop your suggestions in the comments below. &#10;&#10;Thank you for all the amazing artwork submissions and &#10084;&#65039; you&#8217;ve sent my way. Your support has really helped me get through these tough times. &#10;&#10;Venom has to be one of my favourite Marvel characters so today I'll be showing you how to draw a realistic sketch illustration. Grab your pencil and paper and follow along as I guide you through these step by step drawing instructions. &#10;&#10;If I&#8217;m going too fast just pause the video. Most importantly is I don&#8217;t want you to give up. Keep practicing and stay positive. You&#8217;ll get there- we all just need practice. Check out my Sketch Playlist for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;***********************************************************************************&#10;SUPPLIES &#38; MATERIALS:&#10;Sharpie 4 Pack- https://amzn.to/37jfw1Q&#10;Sharpie 12 Pack- https://amzn.to/33774zf&#10;Derwent Graphic Pencil Set (12 pencils, 6B-4H)- https://amzn.to/2s1J83F&#10;Strathmore 300 Sketch Pad (11x14, 100 sheets)- https://amzn.to/2OufFqz&#10;Sakura Pigma Micron 08 Ink Pens (6 Pack)- https://amzn.to/2pDqlee&#10;Faber-Castell Kneaded Eraser (4 pack)- https://amzn.to/2O0UFZv&#10;Prismacolor Premiere Color Pencils (72 colors)- https://amzn.to/2raqiqq&#10;***********************************************************************************&#10;Be sure to &#10084;&#65039;SUBSCRIBE&#10084;&#65039; and click that notification icon &#128276; so you don't miss a single lesson. New art tutorials posted 7 days a week!&#10;&#10;#stayhome #withme #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -4191,7 +4191,7 @@ graph [
     step 0
     date "2022-06-25T15:32:49Z"
     title "I tried to draw Zendaya as &#10024;opposite gender&#10024; and i am SHOOK &#128558;&#8205;&#128168; | JULIA GISELLA"
-    description "sub to my Patreon here: https://www.patreon.com/juliagisella my new ASMR channel ..."
+    description "&#128149;sub to my Patreon here:  https://www.patreon.com/juliagisella &#10;&#128420;my new ASMR channel &#128516; https://www.youtube.com/channel/UCulQujlNk4oNsz9NK3ANX-A/featured&#10;&#10;&#128149; art shop: www.juliagisella.com  &#10;&#128420;insta: @julia_gisella https://www.instagram.com/julia_gisella/&#8203;&#10;&#10;&#128420;Art TikTok: @juliagisella https://www.tiktok.com/@juliagisella?&#8203;&#10;&#128420;personal TikTok: @notjuliagisella https://www.tiktok.com/@notjuliagisella?lang=de-DE&#10;&#128420;Snapchat: @juliagisella&#10;&#10;&#128420;PR/Business: julia@kyra.com&#10;&#10;&#128149;PRODUCTS I USE&#128149;*&#10;Watercolours: Winsor and newton https://amzn.to/3mnlQOg&#10;Pencils: Caran d&#8217;ache luminance https://amzn.to/3uCqIT9&#10;Brushes: &#10;Da Vinci Casaneo Brushes 6 https://amzn.to/3Bm3rYx&#10;Da Vinci Casaneo Brush 2 https://amzn.to/3Bm3tzD&#10;Winsor and Newton Brush 6 https://amzn.to/3l7n2ps&#10;4. Winsor and Newton Brush 12 https://amzn.to/3uCabi2&#10;5. Winsor and Newton Brush 000 https://amzn.to/3uCFsl8&#10;&#10;Frog tape: https://amzn.to/3B6FtQE&#10;Gouache white: https://amzn.to/2WGqfTC&#10;&#10;x&#10;&#10;*Links included in this description might be affiliate links. Meaning that If you purchase a product or service with the links that I provide I may receive a small commission. There is no additional charge to you. Thank you for supporting my channel so I can continue to provide you with free content each week!&#128149;"
     channel_title "JULIA GISELLA"
     channel_id "UCCPsBYxLUykj5xbgOGTRzKQ"
     fav_count 0
@@ -4206,7 +4206,7 @@ graph [
     step 0
     date "2022-07-11T01:44:02Z"
     title "Anime sketch | how to draw madara uchiha step-by-step"
-    description "Anime sketch | how to draw madara uchiha step-by-step Like + subscribe ...... ...... ...... ....... ........ ...... ...... Pencil : zebra ..."
+    description "Anime sketch | how to draw madara uchiha step-by-step &#10;&#10;&#10;Like + subscribe &#10;&#10;&#10;...... ...... ...... ....... ........ ...... ......&#10; &#10;Pencil : zebra &#10;&#10;&#8230;&#8230;. &#8230;&#8230;. &#8230;&#8230; &#8230;.&#10;&#10;&#10;all songs i use on my videos are from&#10;&#10;vlog no copyright &#10;&#10;audio library"
     channel_title "Easy to Draw"
     channel_id "UCB4oTt91SQQJnZY5Yo7mxoA"
     fav_count 0
@@ -4236,7 +4236,7 @@ graph [
     step 0
     date "2022-01-21T05:00:14Z"
     title "How to Draw Mother From Word MOM | Easy Mother&#38;#39;s Drawing"
-    description "How to Draw Mother From Word MOM | Easy Mother's Drawing #KuchSikho #MomDrawing #Mother'sDrawing #Drawing."
+    description "How to Draw Mother From Word MOM | Easy Mother's&#10;Drawing&#10;&#10;#KuchSikho&#10;#MomDrawing&#10;#Mother'sDrawing&#10;#Drawing"
     channel_title "KUCH SIKHO"
     channel_id "UCbxrS2YkSmn86RNgNSlU0sw"
     fav_count 0
@@ -4251,7 +4251,7 @@ graph [
     step 0
     date "2019-09-21T07:53:03Z"
     title "#International Peace Day #Drawing on Peace #How to Draw World Peace Day Poster by Arty&#38;#39;s Corner"
-    description "International Peace Day #Drawing on Peace #How to Draw World Peace Day Poster by Arty's Corner International Peace Day ..."
+    description "#International Peace Day #Drawing on Peace #How to Draw World Peace Day Poster by Arty's Corner&#10;&#10;International Peace Day | Drawing on Peace | How to Draw World Peace Day Poster by Arty's Corner&#10;&#10;This is Beautiful and Easy Drawing on International Peace Day which is on 21 September. You can draw it easily by following my tutorial step by step. It's perfect for competition as well. Please like share and subscribe my channel Arty's Corner.&#10;#ArtysCorner&#10;#internationalpeaceday&#10;#posterdrawing&#10;#peacedaydrawing&#10;#worldpeacedaydrawing&#10;#peacedayposter"
     channel_title "Arty's Corner"
     channel_id "UCzFto1TOK7RJyjAIEAfTV-g"
     fav_count 0
@@ -4266,7 +4266,7 @@ graph [
     step 0
     date "2022-07-04T09:00:04Z"
     title "Tools Drawing, Painting, Coloring for Kids &#38;amp; Toddlers | How to Draw tools, Paint Basics # 10"
-    description "In this video you will learn following topics Tools Drawing, Painting, Coloring for Kids &#38; Toddlers | How to Draw tools, Paint Basics ..."
+    description "In this video you will learn following topics&#10;&#10;Tools Drawing, Painting, Coloring for Kids &#38; Toddlers | How to Draw tools, Paint Basics # 10"
     channel_title "magic board"
     channel_id "UCxcBD_Z3WvkgJdXx28QiW1g"
     fav_count 0
@@ -4281,7 +4281,7 @@ graph [
     step 0
     date "2020-06-12T00:10:22Z"
     title "How to Draw a Simple Cute Cake"
-    description "How to Draw a Simple Cute Cake step by step. Draw with me Subscribe, Like and Comment."
+    description "How to Draw a Simple Cute Cake step by step.  Draw with me &#128512;&#10;Subscribe, Like and Comment"
     channel_title "Cute Easy Drawings"
     channel_id "UCNB0kOpUqpB7MUqW53zN8aA"
     fav_count 0
@@ -4296,7 +4296,7 @@ graph [
     step 0
     date "2022-05-11T11:24:02Z"
     title "how to draw at different ages"
-    description "how to draw at different ages.... Let's try to beat YouTube's algorithm as Steveee, Megamanny, Alexa Real and Spectator did."
+    description "how to draw at different ages....&#10;Let's try to beat YouTube's algorithm as Steveee, Megamanny, Alexa Real  and Spectator did.&#10;&#10;#minecraft&#8203; #meme&#8203; #memes&#10;&#10;meme,memes,minecraft funny,minecraft,minecraft meme,minecraft memes,funny minecraft memes,pepenos,minecraft cursed,funny minecraft,steveee,alexa real,pepenos minecraft,cursed minecraft,iq,iq test,craft,mine,tnt,stevee,minecraft but,minecraft challenge,minecraft mods,minecraft update,minecraft 1.18"
     channel_title "Pepenos"
     channel_id "UCakK45iga0I_Uaw-ccvPL6Q"
     fav_count 0
@@ -4311,7 +4311,7 @@ graph [
     step 0
     date "2022-06-10T06:00:03Z"
     title "How to Draw A Hawk"
-    description "Hello welcome to my channel We offer here some interesting content like easy Hawk Drawing and Coloring #drawings ..."
+    description "Hello welcome to my channel&#10;We offer here some interesting content like easy Hawk Drawing and Coloring&#10;&#10;#drawings #drawingideas #howtodraw&#10;&#10;If you are looking for drawing ideas and coloring then you are at the right place. And we share cool drawings and coloring for you people.&#10;&#10;Thank you for visiting us...&#10;&#10;More video:&#10;&#10;How To Draw A Mug&#10;https://www.youtube.com/watch?v=vbI9JYA4z0o&#10;&#10;How To Draw Air Balloon&#10;https://www.youtube.com/watch?v=4WqYEb_fZJw&#10;&#10;How To Draw A Table&#10;https://www.youtube.com/watch?v=nX5nvNckIew&#10;&#10;How To Draw Cute Makeup kit&#10;https://www.youtube.com/watch?v=jk5j_XxMMYU&#10;&#10;How To Draw A Bottle&#10;https://www.youtube.com/watch?v=mK8tgxg2ozg"
     channel_title "Unique Coloring Pages"
     channel_id "UCswUCeCmfc7hqwCDqJlwhfg"
     fav_count 0
@@ -4326,7 +4326,7 @@ graph [
     step 0
     date "2022-05-18T14:00:03Z"
     title "How to draw Doctor Strange"
-    description "How to draw Doctor Strange How to draw Doctor Strange Helo Welcome to my chanel !!! ''Draw For Fun''Follow along to learn ..."
+    description "How to draw Doctor Strange&#10;How to draw Doctor Strange&#10;&#10;&#10;Helo Welcome to my chanel !!! ''Draw For Fun''Follow along to learn how to draw , super easy, step by step.. drawing lesson .&#10;&#10;&#9733; Instagram: https://www.instagram.com/drawforfun_yt/&#10;&#10;Take a peek at my online shop for hand-drawn stickers, printables, and other stationery goodies! &#10;&#10;https://displate.com/drawforfun&#10;https://www.redbubble.com/people/DrawForFunYt/shop?asc=u&#10;&#10;Thanks for watching everyone. #drawforfun"
     channel_title "Draw For Fun"
     channel_id "UCJJiCsW19n6fdoxcUMvcitQ"
     fav_count 0
@@ -4341,7 +4341,7 @@ graph [
     step 0
     date "2022-06-20T21:05:28Z"
     title "GTA 5 But Whatever I Draw Comes To LIFE! (Part 5)"
-    description "today whatever i draw comes to LIFE in GTA 5! This is one of my favorite series on the channel. WATCH UNTIL THE END!"
+    description "today whatever i draw comes to LIFE in GTA 5! This is one of my favorite series on the channel. WATCH UNTIL THE END! It gets intense! we are close to 8 mil!! SUBSCRIBE&#10;&#10;&#128085;Caylus Merch&#128085;  https://shopcaylus.com/&#10;&#128247; &#119842;&#119847;&#119852;&#119853;&#119834;&#119840;&#119851;&#119834;&#119846;&#128247; https://www.instagram.com/caylus/&#10;&#128038;Twitter&#128038;  https://twitter.com/Caylusq&#10;&#128125; DISCORD&#128125; https://discord.gg/S9qTFu9Yag&#10;&#127925;Tiktok&#127925;  https://www.tiktok.com/@infinite?lang=en&#10;&#128218;FaceBook&#128218; https://www.facebook.com/InfiniteLists.Official/&#10;&#129485;&#8205;&#9794;&#65039;Shorts Channel&#129485;&#8205;&#9794;&#65039; https://www.youtube.com/c/InfiniteShorts&#10;&#128377;&#65039;Gaming Shorts Channel&#128377;&#65039;https://www.youtube.com/channel/UCPD5p5Qe-NhRGfWBpwqpt1w&#10;&#10;Subscribe to my &#120316;&#120321;&#120309;&#120306;&#120319; &#120304;&#120309;&#120302;&#120315;&#120315;&#120306;&#120313;: @Infinite"
     channel_title "Caylus"
     channel_id "UCVAYy7_zddIx6USjXscV9Vg"
     fav_count 0
@@ -4356,7 +4356,7 @@ graph [
     step 0
     date "2022-07-10T14:56:16Z"
     title "How to Draw Colorful City in the Night / Abstract Cityscape Painting / Acrylic Painting Techniques"
-    description "How to Draw Abstract Painting How to Draw Cityscape Painting How to Draw Acrylic Painting Acrylic Painting Techniques Palette ..."
+    description "How to Draw Abstract Painting &#10;How to Draw Cityscape Painting &#10;How to Draw Acrylic Painting &#10;Acrylic Painting Techniques&#10;Palette knife painting &#10;&#10;365 Days Challenge(Day #353)&#160; using acrylic paints from BRUSTRO .&#10;&#10;You can buy them at ......http://www.creativehands.in&#10;You can use coupon code SURAJ10 for 10% discount. &#10;&#10;Now you can purchase my first&#160; WORKSHOP VIDEO VOLUME - 1 &#10;&#10;For more info please visit....&#10;&#10;Instagram : https://www.instagram.com/surajfinearts/&#10;&#10;Facebook : https://www.facebook.com/SurajFineArts/&#10;&#10;#Acrylicpainting #abstractpainting"
     channel_title "SurajFineArts - Abstract ART"
     channel_id "UC0DAJW9IjtV4lIz7dDVDBFA"
     fav_count 0
@@ -4371,7 +4371,7 @@ graph [
     step 0
     date "2019-06-23T07:00:04Z"
     title "Standing Magic Unicorn | Teach How to Draw Basics With This Video to Kids #29"
-    description "I love unicorn so so so much It's now ready to run (maybe fly ) Love is everywhere."
+    description "I love unicorn so so so much &#128525; It's now ready to run (maybe fly &#128519;)&#10;&#10;Love is everywhere &#9825;"
     channel_title "Magic Fingers Art"
     channel_id "UCzjNADgaUyuH8ffMhxmphRw"
     fav_count 0
@@ -4386,7 +4386,7 @@ graph [
     step 0
     date "2022-01-31T21:00:16Z"
     title "How to Draw Eyes"
-    description "Head to https://squarespace.com/davidfinch to save 10% off your first purchase of a website or domain using code DAVIDFINCH ..."
+    description "Head to https://squarespace.com/davidfinch to save 10% off your first purchase of a website or domain using code DAVIDFINCH&#10;&#10;This video is all about drawing eyes, and placing them in the head at any angle.  One of the toughest challenges facing cartoonists, and comic artists, is how to get the eyes to sit properly in the head at different angles, without having to resort to reference.  We also go over the ways that eyes open and close, and the changes that happen when we look in different directions.  That has a bigger impact than you may think!&#10;&#10;Thanks so much for watching!  If you enjoyed, please hit like and subscribe, and share with your friends.  &#10;&#10;For more in-depth Lessons and Courses, visit DavidFinchArt.com&#10;&#10;Merch is now available!  Visit https://david-finch.myspreadshop.com/"
     channel_title "David Finch"
     channel_id "UC0-xeMXO_Vu8_wqqKf_Nipg"
     fav_count 0
@@ -4401,7 +4401,7 @@ graph [
     step 0
     date "2015-10-25T09:56:43Z"
     title "How to draw a kitchen (one point perspective)"
-    description "If you like this video LIKE,COMM and SUBSCRIBE :) Follow me on: -Facebook: ..."
+    description "If you like this video LIKE,COMM and SUBSCRIBE :)&#10;&#10;Follow me on:&#10;&#10;-Facebook: https://www.facebook.com/Myna-AG-1648445818701691/?ref=hl&#10;&#10;-Instagram: https://www.instagram.com/sz_myna/&#10;&#10;-Pinterest: https://ro.pinterest.com/SzaboIasmina/"
     channel_title "Myna"
     channel_id "UCapbmZbuUFzXg6_lEREqzPQ"
     fav_count 0
@@ -4416,7 +4416,7 @@ graph [
     step 0
     date "2021-08-23T12:50:21Z"
     title "How to draw face for beginners tutorial"
-    description "how to draw,how to draw a face,face drawing,How to draw face for beginners tutorial,how to draw faces,how to draw eyes,how to ..."
+    description "how to draw,how to draw a face,face drawing,How to draw face for beginners tutorial,how to draw faces,how to draw eyes,how to draw a girl,how to draw faces for beginner show to draw a face for beginners,how to draw faces step by step,how to draw faces easy,how to draw a realistic face,how to draw portraits,how to draw a person,how to draw a female face,how to draw face proportions,how to draw face features,how to draw realistic faceshow to draw faces for beginners"
     channel_title "PROCrEATE"
     channel_id "UCL3bRvVRXoT0G3aZMGaF_JA"
     fav_count 0
@@ -4431,7 +4431,7 @@ graph [
     step 0
     date "2021-03-06T07:18:10Z"
     title "Diana and Roma How to Draw Cartoon Kitten Adventures"
-    description "Diana and Roma How to Draw Cartoon Kitten Adventures! Subscribe to Kids Diana Show - http://bit.ly/2k7NrSx DIANA Instagram ..."
+    description "Diana and Roma How to Draw Cartoon Kitten Adventures!&#10;&#10;Subscribe to Kids Diana Show - http://bit.ly/2k7NrSx&#10;DIANA Instagram https://www.instagram.com/kidsdianashow/&#10;ROMA Instagram https://www.instagram.com/kidsromashow/&#10; #dianaandromacartoon Facebook https://www.facebook.com/KidsDianaShowOfficial/"
     channel_title "&#10047; Kids Diana Show"
     channel_id "UCk8GzjMOrta8yxDcKfylJYw"
     fav_count 0
@@ -4446,7 +4446,7 @@ graph [
     step 0
     date "2021-04-25T09:00:01Z"
     title "How to Draw Beautiful Sunset in the Beach | Easy Sunset Scenery Drawing"
-    description "How to Draw Beautiful Sunset in the Beach | Easy Sunset Scenery Drawing with Oil Pastels Step by Step. By watching this easy ..."
+    description "How to Draw Beautiful Sunset in the Beach | Easy Sunset Scenery Drawing with Oil Pastels Step by Step.&#10;&#10;By watching this easy scenery drawing, we can learn about how to draw easy nature scenery with oil patels, how to draw beautiful sunset scenery, how to draw easy mountain and beach scenery, and also learn about oil pastels gradation technique.&#10;&#10;Materials :&#10;1). A5 sketch or drawing paper &#10;2). Snowman twinpen&#10;3). Greebel Oil Pastels.&#10;&#10;If you like this video, I hope you dont mind to click subscribe, like, comment, and share.&#10;&#10;And dont forget to activate the notification.&#10;&#10;#HowtoDrawEasyScenery #OilPastelDrawing #EasySceneryDrawing #HowtoDraw"
     channel_title "How to Draw Easy Scenery"
     channel_id "UCS1P5m1UIgPMluE2BEXNb1A"
     fav_count 0
@@ -4461,7 +4461,7 @@ graph [
     step 0
     date "2021-02-20T02:30:02Z"
     title "ROSE Drawing Easy &#127801;| How to Draw a Rose step by step"
-    description "How to Draw a Rose step by step. Learn how to draw a rose for beginners step by step easy. Rose drawing easy step by step ..."
+    description "How to Draw a Rose step by step. Learn how to draw a rose for beginners step by step easy. Rose drawing easy step by step tutorial/ Rose pencil sketch lesson. &#127801;&#10;&#128154; For Drawing online videos Visit my channel QWE Art here: https://www.youtube.com/c/HowtoDrawandDIY?sub_confirmation=1&#10;&#10;&#9661; Facebook link: https://bit.ly/2qFg6qh&#10;&#10;About This Video:&#10;How to Draw a Rose step by step. In this I am going to show you Rose sketch easy for beginners. From this video we will learn how to draw a rose step by step easy.&#10;&#10;&#127801; Queries Solved In This Video:&#10;drawings,&#10;how to draw,&#10;how to draw a rose step by step,&#10;how to draw a rose,&#10;rose drawing,&#10;rose sketch,&#10;rose drawing easy,&#10;rose flower drawing,&#10;simple rose drawing,&#10;how to draw a rose easy,&#10;how to draw a rose flower,&#10;how to draw a rose for beginners,&#10;how to draw a rose for kids,&#10;how to draw a simple rose.&#10;&#10;&#10;About This Channel 'QWE ART':&#10;YouTube/drawings presents QWE art / How to Draw is a drawing tutorial channel. We upload How to draw step by step easy drawing videos. All types of Art and Drawing videos for kids are available here. Basic drawings, Pencil sketch, line art, oil pastels drawing, one point perspective art, color drawings, 3D art, realistic drawing, etc are presented here easily. How To Draw  Cartoon, Animals,  Birds, Fruits, house, super heros, logos, Flowers, Flags, Fishes, Abstract, etc you can learn from this channel very easily. &#10;&#10;&#10;English (USA - American &#38; European Union) : Learn easily how to draw Easy. Online Drawing Art class.&#10;Spain: Aprende f&#225;cilmente c&#243;mo dibujar F&#225;cil. Clase de dibujo en l&#237;nea.&#10;Turkish: Kolay &#231;izmeyi kolayca &#246;&#287;renin. &#199;evrimi&#231;i &#199;izim Sanat&#305; s&#305;n&#305;f&#305;.&#10;Arab: &#1578;&#1593;&#1604;&#1605; &#1576;&#1587;&#1607;&#1608;&#1604;&#1577; &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1587;&#1607;&#1604;. &#1575;&#1604;&#1591;&#1576;&#1602;&#1577; &#1575;&#1604;&#1585;&#1587;&#1605; &#1593;&#1604;&#1609; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578;.&#10;taealam bshwlt kayfiat rusim suhla. altabiqat alrasm ealaa alaintarnat.&#10;Germany: Erfahren Sie ganz einfach, wie Sie Easy zeichnen. Online Zeichenstunde.&#10;France: Apprenez facilement &#224; dessiner facile. Cours de dessin en ligne..&#10;Italy: Impara facilmente come disegnare Facile. Classe di arte di disegno online.&#10;Latin: Securus discere facile duci. Tractus Online Ars genus.&#10;&#10;Become a member of QWE community: &#10;1&#65039;&#8419; Watch the entire video&#10;2&#65039;&#8419; SUBSCRIBE&#10;3&#65039;&#8419; Drop a LIKE &#10;4&#65039;&#8419;  Comment your opinion about this video&#10;&#10;Presented by: QWE ART&#10;----------------------------------------&#10;#rose_drawing&#10;#drawing&#10;#How_to_Draw_rose"
     channel_title "QWE Art"
     channel_id "UCDG5w5YhEmMTF5uqaziDACQ"
     fav_count 0
@@ -4476,7 +4476,7 @@ graph [
     step 0
     date "2022-03-26T14:05:26Z"
     title "How to draw a Manga Page | Drawlikeasir"
-    description "My Tutorial on how to draw or make a manga or comic page for your own project! ALL OF MY ART SUPPLIES: ..."
+    description "My Tutorial on how to draw or make a manga or comic page for your own project!&#10;&#10;ALL OF MY ART SUPPLIES:&#10;&#9654;&#9654;&#9654;  https://drawlikeasir.com/materials/&#10;&#10;&#128681; Social Media &#128681;&#10;&#10149; German Channel-- https://www.youtube.com/drawinglikeasir&#10;&#10149; Patreon --------------- https://www.patreon.com/drawlikeasir&#10;&#10149; Website -------------- https://drawlikeasir.com&#10;&#10149; Twitter ---------------- https://twitter.com/Drawinglikeasir&#10;&#10149; Facebook ----------- http://www.facebook.com/drawinglikeasir&#10;&#10149; Instagram------------ https://www.instagram.com/drawinglikeasir&#10;&#10;&#127925; Background Music &#127925;&#10;&#34;Until my bones shatter&#34;&#10;MYTH Original Soundtrack&#10;https://youtu.be/PUUgUGBHKx8"
     channel_title "Draw like a Sir"
     channel_id "UCnzCSbvTWDvty7Hr9Ind4ow"
     fav_count 0
@@ -4506,7 +4506,7 @@ graph [
     step 0
     date "2021-11-15T05:01:08Z"
     title "ROSE Drawing Easy &#127801;| How to Draw a Rose step by step | Dots Drawing"
-    description "ROSE Drawing Easy | How to Draw a Rose step by step | Dots Drawing #Kuchsikho #RoseDrawing #Rose #Drawing ..."
+    description "ROSE Drawing Easy &#127801;| How to Draw a Rose step by step | Dots Drawing&#10;&#10;#Kuchsikho&#10;#RoseDrawing&#10;#Rose&#10;#Drawing&#10;#DotsDrawing"
     channel_title "KUCH SIKHO"
     channel_id "UCbxrS2YkSmn86RNgNSlU0sw"
     fav_count 0
@@ -4521,7 +4521,7 @@ graph [
     step 0
     date "2022-07-05T12:00:17Z"
     title "How To Draw Naruto&#38;#39;s Nine Tails Eye! - Step By Step Tutorial"
-    description "Step by step tutorial on how to draw Naruto's Nine Tails Eye! &#9999;Step By Step Tutorials: bit.ly/3unod8r For business purposes ..."
+    description "Step by step tutorial on how to draw Naruto's Nine Tails Eye!&#10;&#10;&#9999;Step By Step Tutorials: bit.ly/3unod8r&#10;&#129309;For business purposes email me at: Yairsasson22@gmail.com&#10;&#10;&#10152;Materials:&#10;&#10;Copic Markers Ciao set A - https://amzn.to/2rGQ6rL&#10;&#10;Copic Markers Ciao set B - https://amzn.to/2IiJyWx&#10;&#10;Black Pen: Copic Multiliner Inking Pen - https://amzn.to/2rFj3o1&#10;&#10;Color pencils : Prisma Colors - https://amzn.to/2rFkrGo&#10;&#10;White Pen for Highlights - https://amzn.to/2rHf6yq&#10;&#10;Color pastels - https://amzn.to/2IGrJnI&#10;&#10;Glue Pads(glues the paper to the table) - https://amzn.to/2IBZRRM&#10;&#10;Charcoal eraser - https://amzn.to/2IDDonw&#10;&#10;-Paper - regular A4 paper&#10;&#10;Eraser Stick https://amzn.to/2wHzvsQ (Or cheaper alternative: https://amzn.to/2wHzvsQ)&#10;&#10;****&#10;&#9658;Subscribe: http://www.youtube.com/YairSassonArt&#10;&#9658;Facebook :https://www.facebook.com/YairSassonDrawings&#10;&#9658;Instagram: https://instagram.com/yairsassonart&#10;&#10;****&#10;&#9658;Royalty free music:&#10;HOPEX - Conquer [Copyright Free Trap].mp3&#10;Extan - Next Galaxy [Drum and Bass] royalty free music  FMH promotion.mp3&#10;Extan - Next Galaxy [Drum and Bass] royalty free music  FMH promotion.mp3"
     channel_title "Yair Sasson Art"
     channel_id "UCMGw5u3Yqb6crAtxznj8kxw"
     fav_count 0
@@ -4551,7 +4551,7 @@ graph [
     step 0
     date "2022-07-07T18:00:32Z"
     title "Drawing SECRET POPPY PLAYTIME TOYS To BRING ALIVE In GTA 5"
-    description "Drawing Secret Poppy Playtime Toys To Bring Alive In GTA 5 With Mods! &#9655;MY MAIN CHANNEL ..."
+    description "Drawing Secret Poppy Playtime Toys To Bring Alive In GTA 5 With Mods!&#10;&#9654;MY MAIN CHANNEL &#128073; https://www.youtube.com/projectjamesify&#10;&#9654;JOIN AS A MEMBER! TAP &#128073; https://www.youtube.com/jamesify/join&#10;&#10;Every Secret toy from Poppy Playtime I draw comes to life in GTA V! This time, we are going to draw PJ Pug A Pillar, Bunzo Bunny, and many more we have never seen before! Baby Long Legs has been caught in a fire, so we need to draw to rescue him!&#10;&#10;Follow me on Twitter! http://bit.ly/ProjectJamesifyTwitter&#10;Join my Discord server! http://bit.ly/ProjectJamesifyDiscord&#10;Follow my Instagram! http://bit.ly/ProjectJamesifyInstagram"
     channel_title "Jamesify"
     channel_id "UC9BgqXldGODtJszmPOmzVDw"
     fav_count 0
@@ -4581,7 +4581,7 @@ graph [
     step 0
     date "2021-06-06T09:00:01Z"
     title "How to Draw Easy and Beautiful Sunset Scenery Drawing with Oil Pastels"
-    description "How to Draw Easy and Beautiful Sunset Scenery Drawing | Easy Scenery Drawing with Oil Pastels Step by Step. By watching this ..."
+    description "How to Draw Easy and Beautiful Sunset Scenery Drawing | Easy Scenery Drawing with Oil Pastels Step by Step.&#10;&#10;By watching this easy scenery drawing, we can learn about how to draw easy nature scenery with oil patels, how to draw beautiful sunset scenery, how to draw beach scenery, and also learn about oil pastels gradation technique.&#10;&#10;Materials :&#10;1). A5 sketch or drawing paper &#10;2). Snowman twinpen&#10;3). Greebel Oil Pastels.&#10;&#10;If you like this video, I hope you dont mind to click subscribe, like, comment, and share.&#10;&#10;And dont forget to activate the notification.&#10;&#10;#HowtoDrawEasyScenery #OilPastelDrawing #EasySceneryDrawing #HowtoDraw"
     channel_title "How to Draw Easy Scenery"
     channel_id "UCS1P5m1UIgPMluE2BEXNb1A"
     fav_count 0
@@ -4596,7 +4596,7 @@ graph [
     step 0
     date "2021-04-15T17:01:26Z"
     title "How To Draw A Angry Lion From Number 53 | How To Make A Lion Drawing Step By Step"
-    description "How To Draw A Angry Lion From Number 53 | How To Make A Lion Drawing Step By Step Learn to draw a lion from number 53."
+    description "How To Draw A Angry Lion From Number 53 | How To Make A Lion Drawing Step By Step&#10;&#10;Learn to draw a lion from number 53. Lion drawing tutorial, lion drawing for beginners.&#10;&#10;If you like this video please Like, Share and Subscribe (press the bell icon for more videos).&#10;&#10;Visit to my channel: https://www.youtube.com/channel/UCRGgV39ZNTL44X7mdh4JRPg&#10;&#10;My Facebook: https://www.facebook.com/pg/M-P-Drawing-Tutorial-102291995189027/home/&#10;&#10;My Instagram link: https://www.instagram.com/mpdrawing23/&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211; Music &#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;&#10;Above by Limujii https://soundcloud.com/limujii&#8203;&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: https://bit.ly/39PgR3a&#8203;&#10;Music promoted by Audio Library https://youtu.be/cUWU_T9KBk8&#8203;&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;&#10;Thanks for watching&#10;&#10;#MPdrawingTutorial #Lion #LionDrawing&#10;#Drawing &#10;#EasyDrawing &#10;#How_To_Draw_A_Lion_Easy"
     channel_title "M P Drawing Tutorial"
     channel_id "UCRGgV39ZNTL44X7mdh4JRPg"
     fav_count 0
@@ -4611,7 +4611,7 @@ graph [
     step 0
     date "2018-12-06T19:01:06Z"
     title "How to Draw the Lewis Dot Structure for BaO: Barium Oxide"
-    description "A step-by-step explanation of how to draw the BaO Lewis Dot Structure. For BaO we have an ionic compound and we need to take ..."
+    description "A step-by-step explanation of how to draw the BaO Lewis Dot Structure.&#10;&#10;For BaO we have an ionic compound and we need to take that into account when we draw the Lewis Structure. We&#8217;ll first draw the metal and put it in brackets with its charge on the outside (video: finding ionic charge: https://youtu.be/M22YQ1hHhEY).&#10;&#10;Next, we'll draw the Lewis Structure for the O 2- ion and add brackets. We put the two ions together to complete the Lewis structure for BaO. Note that BaO is also called Barium Oxide.&#10;&#10;----- Lewis Resources -----&#10;&#8226; Lewis Structures for Ionic Compounds: https://youtu.be/2urppjeSfgA&#10;&#8226; Lewis Structures for Covalent Compounds: https://youtu.be/1ZlnzyHahvo&#10;&#8226; Counting Valence Electrons: https://youtu.be/VBp7mKdcrDk&#10;&#8226; Calculating Formal Charge: https://youtu.be/vOFAPlq4y_k&#10;&#8226; Exceptions to the Octet Rule: https://youtu.be/Dkj-SMBLQzM&#10;&#10;More chemistry help at https://www.Breslyn.org.&#10;&#10;Note that is it more common to draw Lewis Structures for covalent (molecular) compounds where valance electrons are shared. In the case of ionic compounds, where we have a metal bonded to a non-metal (or group of non-metals), the Lewis diagram represents a formula unit. Many of these formula units make up a crystal lattice. So when we talk about the structure for BaO we think of it together with other BaO formula units in a crystal (NaCl is a good example of this: https://en.wikipedia.org/wiki/Sodium_chloride).&#10;&#10;Drawing/writing done in InkScape. Screen capture done with Camtasia Studio 4.0. Done on a Dell Dimension laptop computer with a Wacom digital tablet (Bamboo)."
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -4626,7 +4626,7 @@ graph [
     step 0
     date "2018-01-14T14:25:18Z"
     title "HOW TO DRAW: FACE | Basic Proportion"
-    description "NEW Face Drawing Tutorial Here: https://youtu.be/gT5zBXuKO3I Art materials I used in This video: &#9675; Pencils: ..."
+    description "NEW Face Drawing Tutorial Here: https://youtu.be/gT5zBXuKO3I&#10;&#10;&#10;Art materials I used in This video:&#10;&#9679; Pencils: https://amzn.to/3gbRY5S &#10;&#9679; Paper: https://amzn.to/3x0WASy &#10;&#9679; Rubber: https://amzn.to/3stPfYd&#10;&#10;&#10;Murals, artworks and other helpful article &#9658; http://www.derkunstwerker.de &#10;&#10;&#9658;Visit my Blog on: http://derkunstwerker.de/blog/ &#10;&#10;CONNECT WITH ME: &#10;Instagram: http://www.instagram.com/lazy.arts &#10;Facebook: http://www.facebook.com/derkunstwerker &#10;&#10;This was my very first method to draw a head with guiding lines. For me it's the easiest way to get confident with proportion. After practicing a few times you won't need the guiding lines anymore - just imagin them. Have fun!&#10;&#10;Thumbs up if you like it!"
     channel_title "Lazy Arts"
     channel_id "UCrUymy0bmowXvKVmw-DTlyw"
     fav_count 0
@@ -4641,7 +4641,7 @@ graph [
     step 0
     date "2019-06-28T11:00:06Z"
     title "How to draw a girl step by step / Pencil Sketch drawing"
-    description "pencil name : DOMS ( ZOOM ULTIMATE DARK ) pencil Subscribe to my channel to get more drawing videos. &#9661; Visit to my ..."
+    description "pencil  name :  DOMS ( ZOOM ULTIMATE DARK ) pencil &#10;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#9661; Visit to my channel :&#10;&#10142; https://www.youtube.com/channel/UCd3s7BuoOlu4bRJL6RdGWXw&#10;&#10;Subscribe to my other channel: https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;.................... Music &#9834;&#9835;  ......................&#10;&#10;1. Song: it's different - Shadows (feat. Miss Mary) [NCS Release]&#10;Link:  https://youtu.be/UHbDJ1oPuGo &#10;Music promoted by NoCopyrightSounds&#10;&#10;2. Song: OmgLoSteve - The Horizon&#10;Link: https://youtu.be/p6_7JGIqasc&#10;Music promoted by FreeMusicWave.&#10;&#10;3. Song: James Stik&#229; - Leaving The Lights (feat. VEELA)&#10;Link: https://youtu.be/cuxvC9nQqmk&#10;Music promoted by FreeMusicWave.&#10;&#10;4. Song: Sad Puppy - I'm Moving On&#10;Link: https://youtu.be/gBwQTgxSRbQ&#10;Music promoted by FreeMusicWave.&#10;&#10;..................... &#9834;&#9835; .................................&#10;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#1584;&#1575;&#1578; &#1588;&#1593;&#1585; &#1580;&#1605;&#1610;&#1604;&#10;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#10;#DrawingsForBeginners   #ArtVideo  #FaceDrawing   &#10;&#10;satisfying art&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -4656,7 +4656,7 @@ graph [
     step 0
     date "2016-09-15T22:47:21Z"
     title "How to Draw 2D Animation on Paper - Traditional Animation"
-    description "2danimation #traditionalanimation #framebyframe Click Here for Real Animator Training ..."
+    description "#2danimation #traditionalanimation #framebyframe&#10;Click Here for Real Animator Training   &#10;https://ambanimation.com/ambaa/join-the-real-animator-training-library/&#10;&#10;Mobile phone video diary entries posted on the AMB Animation Academy Facebook page. In this Video I demonstrate the process of how to animate a horse via the medium of traditional hand drawn animation. Animating frame by frame on paper is a great alternative for people who don't have access to expensive animation software.&#10;In the above demonstration I outline the process of making a rough in between drawing and then taking it further. I also explain the purpose of the lightbox and how to use it accordingly when drawing different sections of the frame. &#10;&#10;Visit AMB Animation Academy http://bit.ly/1KYS1wq&#10;Become the animator that your dreams deserve. &#10;&#10;Join the Facebook page &#10;https://en-gb.facebook.com/ambanimationacademy/&#10;&#10;follow me on Twitter&#10;https://twitter.com/AMBartist"
     channel_title "AMB Animation Academy"
     channel_id "UCLViOaV_TMX1DL3mc-giHVg"
     fav_count 0
@@ -4686,7 +4686,7 @@ graph [
     step 0
     date "2021-12-25T15:30:06Z"
     title "How to Draw 2022 Numbers 3D Trick Art on Line Paper"
-    description "Easy trick art step by step. Draw the numbers, draw lines to the dot, add shading and some thin lines of lined paper. Click for ..."
+    description "Easy trick art step by step. Draw the numbers, draw lines to the dot, add shading and some thin lines of lined paper. Click for NARRATED version: https://youtu.be/791N_xB7zRQ Please join my online drawing course for beginners: https://www.circlelineartschool.com &#10;&#10;See how to draw 3d numbers step by step. All receding lines go to the dot.&#10;&#10;Watch Next: Full narrated version of this video: https://youtu.be/791N_xB7zRQ&#10;I hope you LIKE, COMMENT &#38; SUBSCRIBE: https://youtube.com/circlelineartschool&#10;&#10;How to Draw 3D Trick Art on Line Paper: Episode 474&#10;&#10;Thank you for watching this drawing tutorial from my channel, Circle Line Art School, please subscribe to my channel for a new art tutorial each week.&#10;&#10;Circle Line Art School&#10;&#10;Hi, my name is Tom McPherson and I founded Circle Line Art School as an online art education resource for all. My aim is to inspire people to learn to draw and be more creative.&#10;&#10;For more details on Circle Line Art School please visit my website: https://www.circlelineartschool.com&#10;&#10;#circlelineartschool&#10;&#10;Thank you for your support and have a great day! &#10;&#10;Tom McPherson&#10;&#10;Circle Line Art School&#10;https://www.circlelineartschool.com&#10;&#10;Music used in this drawing tutorial:&#10;Icelandic Arpeggios by DivKid."
     channel_title "Circle Line Art School"
     channel_id "UCVQxmyIOutGT4lmWlDN9pmA"
     fav_count 0
@@ -4701,7 +4701,7 @@ graph [
     step 0
     date "2021-03-30T15:57:51Z"
     title "How to Draw a Duck from Number 2 | Easy Drawing"
-    description "How to draw a cute duck from number 2. Easy pencil drawings for beginners. #howtodraw #easydrawing #duck Music: Song: ..."
+    description "How to draw a cute duck from number 2. Easy pencil drawings for beginners.&#10;#howtodraw #easydrawing #duck&#10;&#10;Music: &#10;Song: Electro-Light &#38; Shiah Maisel - Letter [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://NCS.io/Letter&#10;Watch: http://youtu.be/LIvSF0fQPJc&#10;&#10;&#169;Easy Art Time 2021"
     channel_title "Easy Art Time - Drawing School"
     channel_id "UC-_Bni_m4eCnq0fH5Hxm8ww"
     fav_count 0
@@ -4716,7 +4716,7 @@ graph [
     step 0
     date "2022-06-04T13:21:51Z"
     title "How to draw Anime GIRL  - step by step || Pencil Sketch for beginners"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name - DOMS ( ZOOM ULTIMATE DARK ) Pencil / 2B Pencil and Artline love art sketch ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name -  DOMS ( ZOOM ULTIMATE DARK )  Pencil /  2B Pencil&#10;and    Artline love art sketch pencil  8B&#10;2. Paper Name -  Double A Offset paper&#10;3. Blending Stump &#10;(You can use  Paint brush, Tissue Paper or cotton buds instead of this blending stump)  &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;Manga Girl Pencil Sketch&#10;#PencilDrawing   #GirlDrawing  #FaceDrawing   &#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -4731,7 +4731,7 @@ graph [
     step 0
     date "2022-05-06T18:38:32Z"
     title "GTA 5 But Whatever I Draw Comes To LIFE! (Part 4)"
-    description "Today, whatever I draw in GTA 5 COMES TO LIFE! Watch until the end it gets WILD... Caylus Merch   https://shopcaylus.com/ ..."
+    description "Today, whatever I draw in GTA 5 COMES TO LIFE! Watch until the end it gets WILD...&#10;&#10;&#128085;Caylus Merch&#128085;  https://shopcaylus.com/&#10;&#128247; &#119842;&#119847;&#119852;&#119853;&#119834;&#119840;&#119851;&#119834;&#119846;&#128247; https://www.instagram.com/caylus/&#10;&#128038;Twitter&#128038;  https://twitter.com/Caylusq&#10;&#128125; DISCORD&#128125; https://discord.gg/S9qTFu9Yag&#10;&#127925;Tiktok&#127925;  https://www.tiktok.com/@infinite?lang=en&#10;&#128218;FaceBook&#128218; https://www.facebook.com/InfiniteLists.Official/&#10;&#129485;&#8205;&#9794;&#65039;Shorts Channel&#129485;&#8205;&#9794;&#65039; https://www.youtube.com/c/InfiniteShorts&#10;&#128377;&#65039;Gaming Shorts Channel&#128377;&#65039;https://www.youtube.com/channel/UCPD5p5Qe-NhRGfWBpwqpt1w&#10;&#10;Subscribe to my &#120316;&#120321;&#120309;&#120306;&#120319; &#120304;&#120309;&#120302;&#120315;&#120315;&#120306;&#120313;:"
     channel_title "Caylus"
     channel_id "UCVAYy7_zddIx6USjXscV9Vg"
     fav_count 0
@@ -4746,7 +4746,7 @@ graph [
     step 0
     date "2022-07-01T01:00:12Z"
     title "UFC 276 Fighters Draw Their Opponents!"
-    description "Watch as UFC 276 superstars are given a drawing challenge to draw their opponents ahead of their main card matchups on ..."
+    description "Watch as UFC 276 superstars are given a drawing challenge to draw their opponents ahead of their main card matchups on Saturday! How well can our fighters draw each other in this art challenge?&#10;&#10;Subscribe to get all the latest UFC content: https://ufc.ac/3u8FIJp&#10;&#10;Experience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/&#10;&#10;To order UFC Pay-Per-Views on ESPN+, visit https://ufc.ac/3NKBvmx (U.S. only)&#10;&#10;To order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)&#10;&#10;&#128073; Shop official UFC Gear, visit https://ufcstore.com&#10;&#128073; Shop official UFC Memorabilia, visit https://ufccollectibles.com&#10;&#128073; Shop official UFC VIP Live Event Experiences, visit https://ufc.ac/3Oz2gLH&#10;&#10;Connect with UFC online and on Social:&#10;&#128308; Website: http://www.ufc.com&#10;&#128309; Twitter: http://www.twitter.com/ufc&#10;&#128309; Facebook: http://www.facebook.com/ufc&#10;&#128308; Instagram: http://www.instagram.com/ufc&#10;&#128993; Snapchat: UFC&#10;&#128995; Twitch: https://www.twitch.tv/ufc&#10;&#10;Connect with UFC FIGHT PASS on Social:&#10;&#128309; Twitter: http://www.twitter.com/ufcfightpass&#10;&#128309; Facebook: http://www.facebook.com/ufcfightpass&#10;&#128308; Instagram: http://www.instagram.com/ufcfightpass&#10;&#10;#UFC #UFC276"
     channel_title "UFC - Ultimate Fighting Championship"
     channel_id "UCvgfXK4nTYKudb0rFR6noLA"
     fav_count 0
@@ -4761,7 +4761,7 @@ graph [
     step 0
     date "2022-03-25T18:05:02Z"
     title "How To Draw Elephant From Number 311 | Easy Elephant Drawing Tutorial | Elephant Drawing Easy Video"
-    description "How To Draw Elephant From Number 311 | Easy Elephant Drawing Tutorial | Elephant Drawing Easy Video Welcome to M P ..."
+    description "How To Draw Elephant From Number 311 | Easy Elephant Drawing Tutorial | Elephant Drawing Easy Video&#10;&#10;Welcome to M P Drawing Tutorial&#10;&#10;Learn how to draw an elephant very easy step by step.&#10;&#10;If you like this video so pls like, share &#38; subscribe to my channel and press the bell icon for more videos.&#10;&#10;................... Music credit ..................... &#10;&#10;&#10;............................................................&#10;&#10;My Instagram:&#10;My Facebook:&#10;&#10;Thanks for watching &#10;&#10;#howtodraw #drawing #elephantdrawing #elephant #mpdrawingtutorial"
     channel_title "M P Drawing Tutorial"
     channel_id "UCRGgV39ZNTL44X7mdh4JRPg"
     fav_count 0
@@ -4776,7 +4776,7 @@ graph [
     step 0
     date "2022-05-14T10:09:17Z"
     title "How to draw with your kid #Shorts"
-    description "Does your child like to draw? But not only on paper?) See how to draw with a child without mess. Also take a look at how to learn ..."
+    description "Does your child like to draw? But not only on paper?) See how to draw with a child without mess. Also take a look at how to learn numbers with a child and how to feed a child with healthy food by tricking him.&#13;&#10;&#10;This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate. The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. All product and company names shown in the video are trademarks&#8482;&#65039; or registered&#174;&#65039; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.&#13;&#10; ---------------------------------------------------------------------------------------- &#13;&#10;Our Social Media: &#13;&#10;Facebook: https://www.facebook.com/5min.crafts/&#8203; &#13;&#10;Instagram: https://www.instagram.com/5.min.crafts/&#8203; &#13;&#10;Twitter: https://twitter.com/5m_crafts&#8203; &#13;&#10;Subscribe to 5-Minute Crafts DIY: https://goo.gl/fWbJqz&#8203; &#13;&#10;Subscribe to 5-Minute Crafts PLAY: https://goo.gl/PEuLVt&#8203; &#13;&#10;Subscribe to 5-Minute Crafts MEN: http://bit.ly/2S69VUG&#8203; &#13;&#10;The Bright Side of Youtube: https://goo.gl/rQTJZz&#8203; &#13;&#10;---------------------------------------------------------------------------------------- &#13;&#10;For more videos and articles visit: &#13;&#10;http://www.brightside.me&#8203; &#13;&#10;Music by Epidemic Sound: https://www.epidemicsound.com/"
     channel_title "5-Minute Crafts SHORTS"
     channel_id "UCmWrgDnQgY5t2IhjpdKu-jg"
     fav_count 0
@@ -4791,7 +4791,7 @@ graph [
     step 0
     date "2020-10-29T13:00:08Z"
     title "How to Draw Doraemon Easy"
-    description "Learn How to Draw cute Doraemon easy, step by step drawing lesson tutorial. Kawaii anime cartoon Doraemon is a robotic cat ..."
+    description "Learn How to Draw cute Doraemon easy, step by step drawing lesson tutorial. Kawaii anime cartoon Doraemon is a robotic cat from the future that helps Nobita. &#128149;How to Draw Anime Cartoon Characters Easy: https://www.youtube.com/watch?v=NW20U356pmA&#38;list=PLbVzRnseEFtwxmSIcCjN48Zg5bm_XgpVp  #drawsocuteanime&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -4806,7 +4806,7 @@ graph [
     step 0
     date "2015-05-13T16:45:22Z"
     title "How To Draw Chica From Five Nights At Freddy&#38;#39;s Step By Step"
-    description "Hey all you artists. Here's another one you asked for, How to draw Chica from Five Nights at Freddy's step by step! Get the pens I ..."
+    description "Hey all you artists. Here's another one you asked for, How to draw Chica from Five Nights at Freddy's step by step!&#10;&#10;Get the pens I use:  http://tinyurl.com/k8tzy6s&#10;&#10;&#10;Chica is fun to draw because she's much easier to draw than the others. She kinda reminds me of Big Bird from Sesame Street! You don't need many colours to draw Chica. &#10;&#10;Here's what you'll need;&#10;&#10;- Some paper&#10;- A Pencil&#10;-A Black Marker Pen&#10;- A Yellow Pen&#10;- A Dark Red Pen&#10;- A Grey Pen&#10;- A White Gel Pen&#10;&#10; This will probably be the last FNAF I draw for a while, as you guys have lots of other suggestions for me to draw! If you enjoyed the video please give it a like and share. If you're feeling really generous, subscribe and don't miss out on the next video!&#10;&#10;Music: Imcompetech.com"
     channel_title "Clarkey"
     channel_id "UCSwcOl6SKG-dlWQwl4BWeQw"
     fav_count 0
@@ -4821,7 +4821,7 @@ graph [
     step 0
     date "2021-07-14T12:59:14Z"
     title "Draw Yourself as a Peanuts Character in Pages with a Snoopy Artist | Apple"
-    description "Learn how to draw yourself as a Peanuts character in Pages with the help of The Snoopy Show storyboard artist Krista Porter and ..."
+    description "Learn how to draw yourself as a Peanuts character in Pages with the help of The Snoopy Show storyboard artist Krista Porter and Anthony from Today at Apple.&#10;&#10;Watch The Snoopy Show on Apple TV+:&#160;https://apple.co/3qTylTn&#10;&#10;For extra inspiration, download our drawing references here:  https://apple.co/drawlikepeanuts&#10;&#10;What You&#8217;ll Need:&#10;iPad or iPhone&#10;Pages app&#10;Apple Pencil (optional)&#10;&#10;0:00 Introduction&#10;0:40 Meet showrunner Mark Evestaff&#10;0:46 All about The Snoopy Show&#10;1:25 Meet storyboard artist Krista Porter &#10;2:06 Step 1: Start with basic shapes&#10;4:21 Step 2: Create emotion with simple lines &#10;6:11 Step 3: Add your signature look&#10;6:56 Step 4: Get extra with colors&#10;8:40 Anthony recaps his top 4 takeaways&#10;&#10;How to multitask with Split View on your iPad: https://apple.co/3gPm9yB&#10;How to write on your iPad with your Apple Pencil: https://apple.co/3gTM7km&#10;Draw, annotate, and use Scribble in Pages: https://apple.co/3gOSxBn&#10;Everyone Can Create Drawing Guide: https://apple.co/3xCsMLi&#10;&#10;ABOUT TODAY AT APPLE &#10;Today at Apple offers free sessions in-store and online that inspire hands-on creativity in photography, art, design, video, coding, music, and more using iPad, iPhone, and Mac. &#10;&#10;Register for Today at Apple in-store and online sessions at http://apple.co/today&#10;&#10;Subscribe to Apple on YouTube: http://apple.co/yt&#10;&#10;#TodayatApple #Pages #TheSnoopyShow&#10;&#10;Welcome to the official Apple YouTube channel. Here you&#8217;ll find news about product launches, tutorials, and other great content. Our more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
     channel_title "Apple"
     channel_id "UCE_M8A5yxnLfW0KghEeajjw"
     fav_count 0
@@ -4836,7 +4836,7 @@ graph [
     step 0
     date "2017-09-26T14:02:06Z"
     title "How to Draw a Nose - EASY"
-    description "How to draw a nose step by step for beginners. Learn how to create a variety of nose shapes using this method! Requested by: ..."
+    description "How to draw a nose step by step for beginners. Learn how to create a variety of nose shapes using this method!&#10;&#10;Requested by: Wendy Nelson :)&#10;&#10;&#128276; SUBSCRIBE for more FREE drawing tutorials: https://www.youtube.com/user/RapidFireArt?sub_confimation=1&#10;&#10;&#9989; RELATED TUTORIALS&#10;How to draw a nose from the side: https://www.youtube.com/watch?v=cxspC_lJqkk&#10;How to draw noses from the 3/4 view: http://rapidfireart.com/2016/09/27/how-to-draw-a-nose-from-the-34-view/&#10;How to draw a nose on a face: http://rapidfireart.com/2015/12/07/how-to-draw-a-face-in-8-steps/&#10;How to shade: http://rapidfireart.com/2016/07/19/how-to-shade-the-ultimate-tutorial/&#10;&#10;&#9999;&#65039;&#10084;&#65039; TOOLS I USED&#10;- Canson Sketch Paper: https://amzn.to/2Wlij87&#10;- Derwent Graphic Pencils: https://amzn.to/2GPXme7&#10;- 4B Mechanical Pencil Lead: https://amzn.to/2EpZx56&#10;- Kneadable Eraser: https://amzn.to/2M5tVYV&#10;- Blending Stump: https://amzn.to/2wcMobn&#10;- Transparent Ruler&#10;- Soft Tissue Paper: https://amzn.to/2JYkjwr&#10;&#10;&#9200; SKIP TO TIMESTAMP &#9200;&#10;Intro: 0:00&#10;Preliminary Guidelines Pt 1: 0:10&#10;Drawing Noses on a Face: 2:18&#10;Preliminary Guidelines Pt 2: 4:18&#10;Shading: 6:26&#10;Blending: 11:43&#10;Lifting Highlights! (my fav part): 14:24&#10;&#10;&#10;&#128226; If you enjoyed this video, help others enjoy it by adding captions in your native language. Thank you! - http://www.youtube.com/timedtext_video?ref=share&#38;v=DeFv3pg_Fxk&#10;&#10;&#128085; RFA STORE:&#10;https://teespring.com/stores/rapidfireart&#10;&#10;&#10;FOLLOW ME HERE:&#10;Website: www.rapidfireart.com&#10;Facebook: www.facebook.com/RapidFireArtTutorials&#10;&#10;CREDIT&#10;Intro by RavenProDesign&#10;youtube.com/user/RavenProDesign&#10;ravenprodesign.com&#10;&#10;MUSIC USED:&#10;(These are affiliate links to AudioJungle)&#10;https://goo.gl/KYX24o&#10;https://goo.gl/azBBsW&#10;https://goo.gl/f4xmaF&#10;&#10;DISCLAIMER&#10;This content contains affiliate links. If you decide to make a purchase through the link, I will make a small commission at no additional cost to you. This helps fund free tutorials on the RFA channel and website. Thank you for your support!"
     channel_title "RapidFireArt"
     channel_id "UCDQNp22J8fGKdMytv0s3Zgg"
     fav_count 0
@@ -4851,7 +4851,7 @@ graph [
     step 0
     date "2022-03-15T15:00:07Z"
     title "How to Draw Water Reflection Effect / Acrylic Painting Techniques"
-    description "How to paint with acrylics / Painting Techniques / Jay Lee is a painting youtuber. He paints beautiful world on the canvas using ..."
+    description "How to paint with acrylics / Painting Techniques /&#10;Jay Lee is a painting youtuber. He paints beautiful world on the canvas using familiar objects in life, and share videos for you and everyone. Put Jay's painting in your space, and make world beautiful.&#10;&#10070; Jay Lee Store : &#10;https://jayartpainting.creator-spring.com/&#10;&#10070; Patreon : https://www.patreon.com/jayartpainting&#10;&#10070; PayPal Donation : paypal.me/jayartpainting&#10;---------------------------------------------------&#10;&#10070; Channel Membership : &#10;Please become a member of my channel. You can buy me a cup of coffee, and push me to create more videos.&#10;---------------------------------------------------&#10;Jay Lee&#45716; &#54620;&#44397;&#51064; &#44536;&#47548; &#50976;&#53916;&#48260; &#51077;&#45768;&#45796;. &#52884;&#48260;&#49828;&#50640; &#50500;&#47492;&#45796;&#50868; &#49464;&#49345;&#51012; &#44536;&#47140; &#44536;&#47548;&#50689;&#49345;&#51012; &#44277;&#50976;&#54633;&#45768;&#45796;. &#52572;&#44540;&#50640; &#54620;&#44397;&#51064;&#48516;&#46308; &#50976;&#51077;&#51060; &#47566;&#50500;&#51256;&#49436; &#44592;&#48516;&#51060; &#51339;&#45348;&#50836;. &#44048;&#49324;&#54633;&#45768;&#45796;. &#10;&#50668;&#47084;&#48516;&#51032; &#44277;&#44036;&#50640; Jay&#51032; &#44536;&#47548;&#51012; &#45459;&#50500; &#50500;&#47492;&#45813;&#44172; &#47564;&#46308;&#50612;&#48372;&#49464;&#50836;.&#10;(&#22739;&#20811;&#21147;&#30059;, &#20122;&#20811;&#21147;&#30011;)&#10;Jay Lee &#26159;&#20303;&#22312;&#21488;&#28771;&#30340;&#38867;&#22283;&#20154;&#65292;&#19968;&#20301;&#30059;&#30059;&#30340;YouTuber&#12290;&#22312;&#30059;&#24067;&#19978;&#32362;&#35069;&#32654;&#40599;&#30340;&#19990;&#30028;&#65292;&#20006;&#29992;&#24433;&#29255;&#30340;&#26041;&#24335;&#20998;&#20139;&#32102;&#22823;&#23478;&#12290;&#25226;Jay&#30340;&#30059;&#25918;&#22312;&#20320;&#30340;&#31354;&#38291;&#35041;&#65292;&#35731;&#19990;&#30028;&#26356;&#32654;&#40599;&#12290;&#10;&#10070; Jay Lee Store : &#10;https://teespring.com/stores/jayartpainting&#10;---------------------------------------------------&#10;&#10070; Music&#10;Mesmerize by Kevin MacLeod&#10;https://creativecommons.org/licenses/by/4.0/&#10;http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500005&#10;http://incompetech.com/&#10;---------------------------------------------------&#10;&#10070; Contacts&#10;E-mail : tkstoryman@hotmail.com&#10;........................................................"
     channel_title "Jay Lee Painting"
     channel_id "UCHm9SiOLG8UoBT8STWY5mVA"
     fav_count 0
@@ -4866,7 +4866,7 @@ graph [
     step 0
     date "2020-05-14T08:00:03Z"
     title "FRUITS (BUAH-BUAHAN) - COMPLETE edition - How to Draw and Color for Kids - CoconanaTV"
-    description "Let's learn to draw FRUITS. This video invites all kids to draw and color FRUITS with Coconana. Including: - Apple. - Strawberry."
+    description "Let's learn to draw FRUITS.&#10;This video invites all kids to draw and color FRUITS with Coconana.&#10;Including:&#10;- Apple.&#10;- Strawberry.&#10;- Orange.&#10;- Mango.&#10;- Cherry.&#10;- Grape.&#10;- Pineapple.&#10;- Banana.&#10;- Mangosteen.&#10;- Watermelon.&#10;- Star fruit.&#10;- Water apple.&#10;- Papaya.&#10;&#10;All of you can learn how to draw in this video, line by line and also how to color.&#10;&#10;Also, don't forget to like and subscribe!&#10;Happy drawing!&#10;&#10;By Coconana&#10;&#10;&#10;Mari belajar konsep menggambar BUAH-BUAHAN.&#10;Seperti berikut ini:&#10;- Apel.&#10;- Stroberi.&#10;- Jeruk.&#10;- Mangga.&#10;- Ceri.&#10;- Anggur.&#10;- Nanas.&#10;- Pisang.&#10;- Manggis.&#10;- Semangka.&#10;- Belimbing.&#10;- Jambu air.&#10;- Pepaya.&#10;&#10;Video ini mengajak adik-adik untuk menggambar BUAH-BUAHAN.&#10;adik-adik dapat mencontoh cara menggambar di video ini, garis demi garis dan juga cara untuk mewarnai.&#10;&#10;Jangan lupa untuk like dan subscribe!&#10;Selamat menggambar!&#10;&#10;Oleh Coconana.&#10;&#10;&#10;How to DRAW and COLOR  (cara menggambar dan mewarnai) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zZCh58hZ3T0IiMWJKqzEQA3&#10;&#10;Popular NURSERY RHYMES (lagu populer untuk anak-anak) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zbhWIbmzbE9XAiWhYcgIbxU&#10;&#10;How to draw FRUITS (cara menggambar dan mewarnai BUAH) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zYRKTOtZVA35-JQ_3WGy-Eq&#10;&#10;How to draw DINOSAUR (cara menggambar dan mewarnai DINOSAURUS) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zay6w33nb1uTIXATSWtgeHB&#10;&#10;How to draw ANIMAL (cara menggambar dan mewarnai HEWAN) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zYlEXJ8-5j-oZJiDVDNx64G&#10;&#10;How to draw SCENERY (cara menggambar dan mewarnai PEMANDANGAN) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zYrCbJM0a28Tqq982RSQ4Ps&#10;&#10;How to Draw VEGETABLES (menggambar dan mewarnai SAYURAN) Playlist -&#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zZJqsubajYlxvlvHSzbeuaa&#10;&#10;How to Draw FLOWERS (menggambar dan mewarnai BUNGA) Playlist -&#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zaiXVKKpQK5WH0zPuphH0q1&#10;&#10;How to draw and color COMPILATION (KOMPILASI cara menggambar dan mewarnai) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zZxtxjomxug7ePFKQJHIsmE&#10;&#10;COCONANA COMPILATION series (seri KOMPILASI COCONANA) Playlist - &#10;https://www.youtube.com/playlist?list=PLrddgQn0g0zbjGgSXT3Pmu2BbtSB_t8IT&#10;&#10;&#10;Like and follow us on Facebook &#10;https://www.facebook.com/Coconanatv/&#10;&#10;Visit our website&#10;https://www.coconanatv.com/&#10;&#10;For business inquiries: coconanaentertainment@gmail.com&#10;#fruits #howtodraw #kids #kidsshow #coconana"
     channel_title "Coconana"
     channel_id "UCkWDuV69rXFbjoZTUg4rvTg"
     fav_count 0
@@ -4881,7 +4881,7 @@ graph [
     step 0
     date "2021-08-16T14:15:11Z"
     title "How to Draw Easy Landscape Tutorial Compilation #1&#65372;Satisfying Acrylic Painting With Piping Bags ASMR"
-    description "Hello! Welcome to the Art Space :) Art is the best place to create &#38; relax. Today I'm painting easy acrylic moonlight landscape on ..."
+    description "Hello! Welcome to the Art Space :) &#10;Art is the best place to create &#38; relax.&#10;Today I'm painting easy acrylic moonlight landscape on canvas in step by step technique for beginners using satisfying piping bags &#38; masking tape. &#10;I hope you enjoy watching my painting. &#10;Watch and paint along with every tutorial video.&#10;Thanks for watching! Happy painting! &#10;Have a good day!&#10;Don't forget to Subscribe and Like &#10084; &#10;#ArtSpace #LandscapePainting #AcrylicPainting"
     channel_title "Art Space"
     channel_id "UCvxzTKmHYIvGJMHXCkOQSoA"
     fav_count 0
@@ -4896,7 +4896,7 @@ graph [
     step 0
     date "2016-05-30T10:09:01Z"
     title "How to draw Hinata (Haikyuu) step by step tutorial"
-    description "As requested, here is a step by step tutorial on how to draw Hinata from the anime Haikyuu. Hope you guys like it ^^ don't forget to ..."
+    description "As requested, here is a step by step tutorial on how to draw Hinata from the anime Haikyuu. Hope you guys like it ^^ don't forget to like and share :) &#10;&#10;facebook- https://www.facebook.com/erzamarie.dragneel&#10;twitter-  @marie_dragneel&#10;be my patron :) - https://www.patreon.com/user?u=2776327&#38;alert=2&#38;ty=h&#10;&#10;&#10;facebook- https://www.facebook.com/erzamarie.dragneel&#10;twitter-  @marie_dragneel&#10;be my patron :) - https://www.patreon.com/user?u=2776327&#38;alert=2&#38;ty=h&#10;These are the products I always use:&#10;Pencil: Faber Castell No.2- http://www.fabercastell.com/products/pencils&#10;Colored pencil: Faber Castell 36 Classic Colour Pencils-http://www.nationalbookstore.com/school-office/art-crafts/faber-castell-48-classic-colour-pencils.html&#10;Permanent marker: Uni Pin Pigment liner-http://www.jetpens.com/Uni-Pin-Pen-01-Pigment-Ink-0.28-mm-Black-Ink/pd/7281&#10;Bond paper: Amspec Bond Writing Paper-http://amspec.ph/product-brands/&#10;Eraser: Faber Castell PVC free eraser-http://www.fabercastell.com/art-and-graphic/artist-products/accessories/EraserPVCFREE708630/188730&#10;Sharpener: Yoka Auto Triple holes-http://www.productpilot.com/en/supplier/creative-wealth-international-ltd/product/yoka-pencil-sharpener-ks8-14-1/&#10;&#10;EDITING SOFTWARE USED&#10;Wondershare Filmora-https://filmora.wondershare.com/"
     channel_title "Erza Scarlet Art"
     channel_id "UCTPJmcmQkPCN0Sl9LP6UXtA"
     fav_count 0
@@ -4911,7 +4911,7 @@ graph [
     step 0
     date "2018-09-05T12:45:46Z"
     title "How to draw heart diagram in exams ?"
-    description "How to draw human heart step by step ? Drawing human heart's diagram is very easy . We can draw it step by step. In this video I ..."
+    description "How to draw human heart step by step ?&#10;&#10;Drawing human heart's diagram is very easy . We can draw it step by step. &#10;   In this video I have shown how to draw easily human heart.&#10; Students ask to draw heart in the exam . But the feel uneasy. If you seriously watch my drawing you also able to draw heart easily.  You have to practice 10 to 12 times. It is most effective and easy method.  If you enjoy my video then it please like shere and subscribe my channel. &#10;&#10;In this video I drew the outline of vertical section of heart. &#10;N.B. I gave here tutorial in English.  But being not my mother language I can't narrated clearly in English . So you should take it lightly.&#10;Join me on Facebook https://www.facebook.com/sanaularts &#10;&#10;#heartdiagram #humanhearts #schoolproject"
     channel_title "Arts and Crafts"
     channel_id "UCGRQy6k8a0FR0cxA8xjweVQ"
     fav_count 0
@@ -4926,7 +4926,7 @@ graph [
     step 0
     date "2022-06-21T13:00:16Z"
     title "How To Draw Huggy Wuggy | Poppy Playtime (Draw &#38;amp; Color)"
-    description "Welcome to the best Online Education Program for artists. Learn how to draw Huggy Wuggy from Poppy Playtime with Cartooning ..."
+    description "Welcome to the best Online Education Program for artists. Learn how to draw Huggy Wuggy from Poppy Playtime with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more drawing tutorials like this every single day! Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;&#10;Art Supplies:&#10;Sharpie Markers: https://amzn.to/3JigPQY&#10;Bianyo Color Markers: https://amzn.to/3oyGWuQ&#10;&#10;Check out my Playlist below for more of your favourite characters.&#10;&#10;How To Draw Poppy Playtime Characters&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlqjIQzR274ZkG0rAeS5OAUJ&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -4941,7 +4941,7 @@ graph [
     step 0
     date "2019-05-20T11:00:00Z"
     title "Best friends &#10084;  pencil Sketch Tutorial || How To Draw Two Friends Hugging Each other"
-    description "Best friends drawing pencil name : DOMS ( ZOOM ULTIMATE DARK ) pencil Subscribe to my channel to get more drawing videos."
+    description "Best friends drawing&#10;&#10;pencil  name :  DOMS ( ZOOM ULTIMATE DARK ) pencil &#10;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#9661; Visit to my channel :&#10;&#10142; https://www.youtube.com/channel/UCd3s7BuoOlu4bRJL6RdGWXw&#10;&#10;&#9661; My Facebook Page Link &#10;&#10142;https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923&#10;&#10;&#9661; My Twitter Link &#10;&#10142;https://twitter.com/FarjanaDrawing&#10;&#10;Subscribe to my other channel: https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;.................... Music &#9834;&#9835;  ......................&#10;1.  Giulio Cercato - Friends&#10;https://www.facebook.com/GiulioCercat...&#10;https://www.instagram.com/giuliocercato&#10;&#10;Music from Soundcloud&#10;Music provided by RFM: https://youtu.be/JghL94h-_SA&#10;&#10;2. Song: Alevo - Never Be Alone&#10;Link: https://youtu.be/ogDShlEtxiw&#10;Music promoted by FMW. Released by Morph Records.&#10;&#10;3. Song: KEVIN FLY &#38; Luc One - Summer Nights&#10;Link: https://youtu.be/3G9wTCO0ku0&#10;Music promoted by FreeMusicWave.&#10;&#10;4. Song: Beachwood - Merge (Vlog No Copyright Music)&#10;Music provided by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/ARc2N-QvJIE&#10;&#10;5. Childhood by Mike Chino https://soundcloud.com/mike-chino&#10;Creative Commons &#8212; Attribution-ShareAlike 3.0 Unported  &#8212; CC BY-SA 3.0 &#10;http://creativecommons.org/licenses/b...&#10;Music promoted by Audio Library https://youtu.be/RWaPL0km2fs&#10;&#10;&#10;..................... &#9834;&#9835; .................................&#10;&#10;&#10;#Pencil_Drawing    #Girl_Drawing   #Best_Friends_Drawing&#10;&#10; &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1575;&#1601;&#1590;&#1604; &#1589;&#1583;&#1610;&#1602;&#1575;&#1578; &#10;&#10;&#1571;&#1601;&#1590;&#1604; &#1571;&#1589;&#1583;&#1602;&#1575;&#1569; &#1575;&#1604;&#1585;&#1587;&#1605;&#10;&#10;&#1571;&#1601;&#1590;&#1604; &#1571;&#1589;&#1583;&#1602;&#1575;&#1569;&#10;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1571;&#1601;&#1590;&#1604; &#1575;&#1604;&#1571;&#1589;&#1583;&#1602;&#1575;&#1569;&#10;&#10;&#10;friends drawing, &#10;best friend sketch drawing&#10;how to draw friends&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -4956,7 +4956,7 @@ graph [
     step 0
     date "2015-09-21T10:16:07Z"
     title "How to Draw HANDS and HAND POSES!"
-    description "Download the reference files: http://bit.ly/DWJ_HandPoses Get the Tutorial Archive (and more!)"
+    description "Download the reference files:&#10;http://bit.ly/DWJ_HandPoses&#10;Get the Tutorial Archive (and more!):&#10;http://www.jazzastudios.com/Shop.php&#10;&#10;--------------------------------&#10;MORE OF ME! - Follow/Sub &#8628;&#10;--------------------------------&#10;&#9654; DAILY VLOG: https://www.youtube.com/dailyjazza&#10;&#9654; Instagram+IGTV: https://instagram.com/DrawWithJazza&#10;&#9654; Twitch: https://www.twitch.tv/DrawWithJazza&#10;&#9654; Twitter: @JosiahBrooks (https://twitter.com/JosiahBrooks)&#10;&#9654; Facebook: http://www.facebook.com/Josiah.Jazza.Brooks&#10;--------------------------------"
     channel_title "Jazza"
     channel_id "UCHu2KNu6TtJ0p4hpSW7Yv7Q"
     fav_count 0
@@ -4971,7 +4971,7 @@ graph [
     step 0
     date "2018-08-24T15:36:39Z"
     title "How to Draw the Lewis Dot Structure for S 2-  (Sulfide ion)"
-    description "A step-by-step explanation of how to draw the S2- Lewis Dot Structure. For the S2- Lewis structure use the periodic table to find ..."
+    description "A step-by-step explanation of how to draw the S2- Lewis Dot Structure.&#10;&#10;For the S2- Lewis structure use the periodic table to find the total number of valence electrons for the S atom. Once we know how many valence electrons there are in S we can distribute them around the central atom with the goal of filling the outer shells of each atom.&#10;&#10;Because the Sulfide ion (S2-) has an extra electron (the negative sign denotes an extra electron) we need to add that to the 6 valence electrons for the neutral atom S.&#10;&#10;In the Lewis structure of S2- structure there are a total of 8 valence electrons. S2- is also called Sulfide ion.&#10;&#10;For a complete tutorial on drawing Lewis Structures, see my video: https://youtu.be/1ZlnzyHahvo &#10;&#10;For more practice, see https://youtu.be/DQclmBeIKTc &#10;&#10;To learn to find the valence electrons: https://youtu.be/VBp7mKdcrDk &#10;&#10;Get more chemistry help at http://www.thegeoexchange.org/chemistry/bonding&#10;&#10;Drawing/writing done in InkScape. Screen capture done with Camtasia Studio 4.0. Done on a Dell Dimension laptop computer with a Wacom digital tablet (Bamboo)."
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -4986,7 +4986,7 @@ graph [
     step 0
     date "2022-04-15T12:02:51Z"
     title "How to Draw the Harry Potter Logo #Shorts"
-    description "CreativeArt #Satisfying &#9659;Visit to my channel : https://www.youtube.com/c/FarjanaDrawingAcademy &#9659;For business inquiries: ..."
+    description "#CreativeArt #Satisfying &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10; #DrawingTutorial #Drawing&#10;&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -5001,7 +5001,7 @@ graph [
     step 0
     date "2019-09-11T12:06:51Z"
     title "How to draw an eye with teardrop for Beginners || EASY WAY TO DRAW A REALISTIC EYE ||"
-    description "pencil name : DOMS ( ZOOM ULTIMATE DARK ) pencil Subscribe to my channel to get more drawing videos."
+    description "pencil  name :  DOMS ( ZOOM ULTIMATE DARK ) pencil &#10;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9661; Visit to my channel :&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9661; My Facebook Page Link &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;Subscribe to my other channel: &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;&#10;1. Song: Daloka - From The Rubble (Vlog No Copyright Music)&#10;Music provided by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/aVD7fQacttY&#10;&#10;2. &#10;&#10;3.Adventures by A Himitsu https://www.youtube.com/channel/UCgFw...&#10;Creative Commons &#8212; Attribution 3.0 Unported&#8212; CC BY 3.0 &#10;http://creativecommons.org/licenses/b...&#10;Music released by Argofox https://youtu.be/8BXNwnxaVQE&#10;Music provided by Audio Library https://youtu.be/MkNeIUgNPQ8&#10; &#10;4.&#10; &#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;#HowToDrawEyebrows    #DrawingTutorial  #&#1585;&#1587;&#1605;&#10;&#10;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1575;&#1604;&#1593;&#1610;&#1606; &#1575;&#1604;&#1608;&#1575;&#1602;&#1593;&#1610;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1593;&#1610;&#1606;&#10;&#10;&#10;&#2310;&#2305;&#2326; &#2326;&#2368;&#2306;&#2330;&#2344;&#2366;&#10;&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -5016,7 +5016,7 @@ graph [
     step 0
     date "2022-07-07T19:04:25Z"
     title "The National Lottery Set For Life draw results from Thursday 07 July 2022"
-    description "The National Lottery Set For Life draws take place in front of an independent adjudicator. Rules, Procedures and Game Specific ..."
+    description "The National Lottery Set For Life draws take place in front of an independent adjudicator.  &#10;&#10;Rules, Procedures and Game Specific Rules apply (and Account Terms if playing online). Players must be 18+ and physically located in the UK or IoM.&#10;&#10;To enter the next available draw, visit http://bit.ly/PlaySetForLife&#10;&#10;You can also check your Set For Life tickets on our website:&#10;http://bit.ly/SFLCheckResults&#10;&#10;Dream Big Play Small. National Lottery games should always be fun, playing in a way that is right for you. Using our handy toolkit (http://bit.ly/HealthyPlay-Toolkit) you can set limits, take time out or set up reminders.&#10;&#10;#SetForLifeTNL #NationalLottery #DreamBigPlaySmall #SmashEveryMonth #SetForLifeLiveDraws #NationalLotteryLiveResults"
     channel_title "The National Lottery"
     channel_id "UCnOiv4Hp3fu43NDHl335cvQ"
     fav_count 0
@@ -5031,7 +5031,7 @@ graph [
     step 0
     date "2022-07-10T13:00:20Z"
     title "How To Draw Gru | Minions Sketch Tutorial (Step by Step)"
-    description "Welcome to the best Online Education Program for artists. Learn how to draw Gru from the Minions with Cartooning Club How To ..."
+    description "Welcome to the best Online Education Program for artists. Learn how to draw Gru from the Minions with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more daily drawing videos like this every single day! &#10;https://www.youtube.com/c/CartooningClubHowtoDraw&#10;&#10;Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;Art Supplies:&#10;Staedtler Black 4B Pencils: https://amzn.to/3LnDQni&#10;Canson Sketch paper: https://amzn.to/3Jeo0tl&#10;&#10;Check out my Sketch Playlist below for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub #minions"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -5046,7 +5046,7 @@ graph [
     step 0
     date "2022-04-09T18:55:53Z"
     title "Easiest Way To Draw The Moon &#127769; #shorts"
-    description "Main Art Channel: @SuperRaeDizzle &#8680; OTHER PLACES TO FIND ME! &#8680; Instagram: @Rae_Dizzle_ https://bit.ly/35lxl1B ..."
+    description "Main Art Channel: @SuperRaeDizzle  &#10;&#10;&#8680; OTHER PLACES TO FIND ME!  &#8680;&#10;Instagram: @Rae_Dizzle_ https://bit.ly/35lxl1B &#10;Personal Instagram: @dizzlerae https://bit.ly/37CngwX&#10;Twitter: @superraedizzle https://bit.ly/2L8lZ9l&#10;Tiktok: @Rae_Dizzle_ https://bit.ly/2ZmY4Y3&#10;Facebook: https://bit.ly/3LXFr2U&#10;Business Email: contact@raedizzle.com  &#10;&#10;&#8680; AMAZON SHOP MY FAVORITE ART SUPPLIES &#8680;&#10;https://amzn.to/3siuv8i&#10;&#10;#Drawing #arttutorial"
     channel_title "Rae Dizzle Shorts"
     channel_id "UC2qUk37WhyQg_qNmePcRrgQ"
     fav_count 0
@@ -5061,7 +5061,7 @@ graph [
     step 0
     date "2022-07-09T06:32:42Z"
     title "Pink Ping World &#127752; Toca Life World DIY / How to draw Rainbow Hair / Paper crafts"
-    description "How to draw PPW Toca Life World How to draw Rainbow Hair SUPPLIES You Might Love (Amazon affiliate links) &#8226;Sharpies ..."
+    description "How to draw PPW Toca Life World&#10;How to draw Rainbow Hair &#10;&#127912; SUPPLIES You Might Love (Amazon affiliate links)&#10;&#8226;Sharpies : https://amzn.to/37YxdbX&#10;&#8226;Sakura White Gelly Roll pen : https://amzn.to/3M8MZ2v&#10;&#8226;Touch Twin Markers 60 : https://amzn.to/3vpkhnu&#10;&#8226;Micron Pen Set : https://amzn.to/37S2DR5&#10;&#8226;Double-Sided Tape for Crafts : https://amzn.to/3KU7wHZ&#10;&#8226;Arrtx Skin Tone Markers : https://amzn.to/3Off0aG&#10;&#8226;Water color pencils&#10;&#10;#tocaboca #tocalifeworld #pinkpingworld&#10;&#10;Track: Ikson - Hey [Official]&#10;Music provided by Ikson&#174; &#10;Listen: https://youtu.be/X-e2vCj7u7M&#10;&#10;Track: Ikson - Anywhere [Official]&#10;Music provided by Ikson&#174; &#10;Listen: https://youtu.be/zwPhqU29rWQ"
     channel_title "Pink Ping World"
     channel_id "UCV4gTxgaJ8R7zKNlcV428bg"
     fav_count 0
@@ -5076,7 +5076,7 @@ graph [
     step 0
     date "2017-04-19T01:00:02Z"
     title "How to Draw a Fruit | Teach Drawing Fruits |  Colouring with Colored"
-    description "Colouring with Colored Markers Enjoy &#38; SUBSCRIBE, thanks~ Color TV + SUBSCRIBE ..."
+    description "Colouring with Colored Markers&#10;Enjoy &#38; SUBSCRIBE, thanks~ Color TV&#10;+ SUBSCRIBE : https://www.youtube.com/channel/UCuIm9xZiFItIMagCx5UaOqA"
     channel_title "Color TV"
     channel_id "UCCgrMn0KGLxZPA3nA1T1AFw"
     fav_count 0
@@ -5091,7 +5091,7 @@ graph [
     step 0
     date "2020-08-15T03:00:13Z"
     title "How to Draw a Dog Step by Step &#128021;"
-    description "Learn How to draw a Dog Step by Step easy for beginners. Easy dog drawing tutorial for kids. For Drawing online videos Visit ..."
+    description "Learn How to draw a Dog Step by Step easy for beginners. Easy dog drawing tutorial for kids.&#10;&#128154; For Drawing online videos Visit my channel QWE Art here: https://www.youtube.com/c/HowtoDrawandDIY?sub_confirmation=1&#10;&#10;&#9661; Facebook link: https://bit.ly/2qFg6qh&#10;&#10;#Dog_Drawing&#10;------------------------------------------&#10;About This Video&#10;&#127912;---&#127912;---&#127912;--&#127912;---&#127912;&#10;In This video I will show you how to draw a Dog.&#10;&#10;&#127912; Queries Solved In This Video:&#10;Drawing &#10;How to draw &#10;how to draw a puppy step by step,&#10;how to draw a cute dog step by step,&#10;how to draw a dog step by step for beginners slow and easy,&#10;how to draw a dog step by step easy,&#10;how to draw a cute dog step by step,&#10;how to draw a puppy step by step,&#10;how to draw a dog step by step for beginners slow and easy,&#10;how to draw a dog step by step easy,&#10;how to draw a dog,&#10;how to draw a dog step by step,&#10;how to draw a dog for kids,&#10;how to draw a dog easy,&#10;how to draw a cute dog,&#10;how do you draw a dog,&#10;Dog Drawing,&#10;Draw a Dog,&#10;&#10;About This Channel 'QWE ART':&#10;YouTube/drawings presents QWE art / How to Draw is a drawing tutorial channel. We upload How to draw step by step easy drawing videos. All types of Art and Drawing videos for kids are available here. Basic drawings, Pencil sketch, line art, oil pastels drawing, one point perspective art, color drawings, 3D art, realistic drawing, etc are presented here easily. How To Draw  Cartoon, Animals,  Birds, Fruits, house, super heros, logos, Flowers, Flags, Fishes, Abstract, etc you can learn from this channel very easily. &#10;&#10;&#10;------------------------------------------&#10;English (USA - American &#38; European Union) : Learn easily how to draw Easy. Online Drawing Art class.&#10;Spain: Aprende f&#225;cilmente c&#243;mo dibujar F&#225;cil. Clase de dibujo en l&#237;nea.&#10;Turkish: Kolay &#231;izmeyi kolayca &#246;&#287;renin. &#199;evrimi&#231;i &#199;izim Sanat&#305; s&#305;n&#305;f&#305;.&#10;Arab: &#1578;&#1593;&#1604;&#1605; &#1576;&#1587;&#1607;&#1608;&#1604;&#1577; &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1587;&#1607;&#1604;. &#1575;&#1604;&#1591;&#1576;&#1602;&#1577; &#1575;&#1604;&#1585;&#1587;&#1605; &#1593;&#1604;&#1609; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578;.&#10;taealam bshwlt kayfiat rusim suhla. altabiqat alrasm ealaa alaintarnat.&#10;Germany: Erfahren Sie ganz einfach, wie Sie Easy zeichnen. Online Zeichenstunde.&#10;France: Apprenez facilement &#224; dessiner facile. Cours de dessin en ligne..&#10;Italy: Impara facilmente come disegnare Facile. Classe di arte di disegno online.&#10;Latin: Securus discere facile duci. Tractus Online Ars genus.&#10;#Drawing&#10;&#10;Become a member of QWE community: &#10;1&#65039;&#8419; Watch the entire video&#10;2&#65039;&#8419; SUBSCRIBE&#10;3&#65039;&#8419; Drop a LIKE &#10;4&#65039;&#8419;  Comment your opinion about this video&#10;----------------------------------------&#10;&#10;&#10;#How_to_Draw_dog&#10;#HowToDrawADog&#10;Presented by: QWE ART&#10;Subscribe QWE Art, Subscribe to happiness..."
     channel_title "QWE Art"
     channel_id "UCDG5w5YhEmMTF5uqaziDACQ"
     fav_count 0
@@ -5106,7 +5106,7 @@ graph [
     step 0
     date "2022-05-28T14:40:55Z"
     title "How to draw SONIC The Hedgehog FIGHTING with SHADOW"
-    description "Sonic vs. Shadow Fight! Today I show you how to draw Sonic The Hedgehog fighting Shadow, the black and red hedgehog, in an ..."
+    description "&#161;Sonic vs. Shadow Fight! Today I show you how to draw Sonic The Hedgehog fighting Shadow, the black and red hedgehog, in an easy (and quick) way. Without a doubt, this will be one of the most anticipated confrontations of Sonic 3.&#10;For this drawing I have used ballpoint markers to fill in and pen-tip markers to make the shadows, but above all to make that halo of light that the characters leave when they are hit quickly.&#10;&#10;#SonicVsShadow #Sonic #Shadow"
     channel_title "Drawbook"
     channel_id "UCWVWlwtGywEvwwFEkjQoPvQ"
     fav_count 0
@@ -5121,7 +5121,7 @@ graph [
     step 0
     date "2021-12-03T20:20:13Z"
     title "HOW TO DRAW EVEN CIRCLE &#11093; | #SHORTS"
-    description "Shorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #YouTubeShorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #5MCSHORTS&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; ..."
+    description "#Shorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #YouTubeShorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #5MCSHORTS&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #SHORTVIDEO&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #SHORTSINDIA&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;&#10;Standing in front of board and wondering of having a giant compass? Don't struggle, we know some tricks to make you the best in class &#128526;&#10;&#10;We advise adult supervision and care at all times. &#10;&#10;This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate. &#10;&#10;The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. &#10;&#10;All product and company names shown in the video are trademarks&#8482;&#65039; or registered&#174;&#65039; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. &#10;&#10;---------------------------------------------------------------------------------------- &#10;&#10;5-Minute Crafts: http://bit.ly/2itjCyw &#10;&#10;Facebook: https://www.facebook.com/5min.crafts/ &#10;&#10;Instagram: https://www.instagram.com/5.min.crafts/ &#10;&#10;Twitter: https://twitter.com/5m_crafts &#10;&#10;&#10;&#10;5-Minute Crafts GIRLY: https://goo.gl/fWbJqz &#10;&#10;5-Minute Crafts PLAY: https://goo.gl/PEuLVt&#10;&#10;The Bright Side of Youtube: https://goo.gl/rQTJZz &#10;&#10;For more videos and articles visit: http://www.brightside.me/ &#10;&#10;Music by Epidemic Sound: https://www.epidemicsound.com/"
     channel_title "5-Minute Crafts Recycle"
     channel_id "UCCLVg6BI7NxDIp6GFKfFGFw"
     fav_count 0
@@ -5136,7 +5136,7 @@ graph [
     step 0
     date "2022-07-05T13:00:02Z"
     title "How to Draw Young Gru | Minions: The Rise of Gru"
-    description "Learn How to Draw cute Gru as a young boy in Minions Movie, The Rise of Gru. Easy, step by step cartoon boy drawing."
+    description "Learn How to Draw cute Gru as a young boy in Minions Movie, The Rise of Gru. Easy, step by step cartoon boy drawing. #drawsocuteminions #gruminions&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -5151,7 +5151,7 @@ graph [
     step 0
     date "2022-04-15T10:30:17Z"
     title "How to draw a girl with teddy bear | New drawing 2022 | @SPLENDID ART"
-    description "How to draw a girl with teddy bear | New drawing 2022 | @SPLENDID ART I've made this drawing the simplest drawing. Anyone ..."
+    description "How to draw a girl with teddy bear | New drawing 2022 | @SPLENDID ART &#10;&#10;I've made this drawing the simplest drawing. Anyone can easily draw this picture. Hopefully everyone will draw it. What I used is given below&#10;&#10;&#10;Used things &#10;&#10; 1. DOMS Ultimate Dark&#10;&#10;2. Ivory Smooth White&#10;&#10;3. Blending stump (You can use Paint brush,Tissue paper or cotton buds instead of this blending stump)&#10;&#10;&#10;New drawing 2022&#10;Drawing images &#10;Hijab girl drawing &#10;drawing for girls&#10;easy drawing for girls&#10;drawing of girl&#10;girl drawing&#10;splendidart&#10;drawing girl&#10;girl drawing easy&#10;drawing of girls&#10;how to draw a girl&#10;easy girl drawing&#10;step by step&#10;tutorial video&#10;art video&#10;&#10;&#10;Other Accounts-&#10;Twitter :https://mobile.twitter.com/home&#10;&#10;Instagram :https://www.instagram.com/ranjay7483&#10;&#10;Facebook :https://www.facebook.com/splendidart123/&#10;&#10;_____________________Music__________________________&#10;Track : Unknown Brain - Faceless (ft. Marvin Divine &#38; Bri Tolani) [NCS Release] Music promoted by NoCopyrightSounds. Watch : Free Download/Stream : https://ncs.io/FCLS&#10;____________________________________________________&#10;&#10;Subscribe to my channel for more drawing videos. &#10;&#10;#new_drawing &#10;#drawing_images&#10;#splendid_art&#10;&#10;Thank you for watching."
     channel_title "SPLENDID ART"
     channel_id "UCjh0l2diGkfUXv_7g6hUUFQ"
     fav_count 0
@@ -5166,7 +5166,7 @@ graph [
     step 0
     date "2022-04-29T14:00:32Z"
     title "How to Draw BTS Concert Scene / Acrylic Painting / STEP by STEP"
-    description "Today, I painted a view of the BTS concert scene. Beginners can draw along easily. Follow me step by step. Please subscribe and ..."
+    description "Today, I painted a view of the BTS concert scene.&#10;Beginners can draw along easily. &#10;Follow me step by step.&#10;Please subscribe and like. Thank you~~&#10;&#10;&#50724;&#45720;&#51008; BTS &#53080;&#49436;&#53944; &#51109;&#47732;&#51012; &#44536;&#47140;&#48372;&#50520;&#50612;&#50836;. &#10;&#52488;&#48372;&#51088; &#48516;&#46308;&#46020; &#49789;&#44172; &#46384;&#46972; &#44536;&#47540;&#49688; &#51080;&#50612;&#50836;. &#10;&#52264;&#44540;&#52264;&#44540; &#46384;&#46972;&#44536;&#47140;&#48372;&#49464;&#50836;.&#10;&#44396;&#46021;&#44284; &#51339;&#50500;&#50836; &#44845; &#48512;&#53441;&#46300;&#47140;&#50836;. &#44048;&#49324;&#54633;&#45768;&#45796;~~&#10;&#10;Colors listed on the screen&#10;-Acrylic painting&#10;-Canvas 25cm*25cm / 28cm*23cm&#10;BGM uses the YouTube library&#10; #AcrylicPainting #landscapepainting #painting"
     channel_title "Joony art"
     channel_id "UCjkGAyhG0Q6H4_gzdfTMg-g"
     fav_count 0
@@ -5181,7 +5181,7 @@ graph [
     step 0
     date "2022-06-25T12:30:15Z"
     title "How to Draw a Red Apple + More Drawings with ChuChu - ChuChu TV Drawing Lessons for Kids"
-    description "How to Draw a Red Apple + More Drawings with ChuChu - ChuChu TV Drawing Lessons for Kids To download and watch this ..."
+    description "How to Draw a Red Apple + More Drawings with ChuChu - ChuChu TV Drawing Lessons for Kids&#10;To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -5196,7 +5196,7 @@ graph [
     step 0
     date "2022-07-07T12:20:33Z"
     title "Draw: Grand Slam Hungary 2022"
-    description "Welcome to the official Judo channel, brought to you by the International Judo Federation! Here you can watch ALL IJF World ..."
+    description "Welcome to the official Judo channel, brought to you by the International Judo Federation!&#10;&#10;Here you can watch ALL IJF World Judo Tour events LIVE, along with various Judo Highlight shows, video series, best moments, athlete interviews and much more!&#10;&#10;Watch our videos &#9658; https://bit.ly/JudoVideos&#10;Subscribe here &#9658; https://bit.ly/SubscribeJudo&#10;&#10;Follow all events, including up to 22 events per year, such as World Championships (Senior, Junior, Cadets, Veterans, Kata, Open, Teams) and World Judo Tour (Masters, Grand Slam, Grand Prix, Continental Open).&#10;&#10;For more information about judo, events, or the federation, visit https://www.ijf.org/"
     channel_title "Judo"
     channel_id "UCeYa3QaP2n7I8SpGSqD-kUQ"
     fav_count 0
@@ -5226,7 +5226,7 @@ graph [
     step 0
     date "2022-07-10T07:32:07Z"
     title "[LIVE] 2PM PCSO LOTTO RESULTS TODAY SWERTRES (3D) EZ2 (2D) DRAW!"
-    description "JULY 10, 2022 Results for EZ2 and SWERTRES SUNDAY Draw - 3 Digit and 2 Digit lotto PCSO Lotto Live Draw! @PCSO GOV ..."
+    description "JULY 10, 2022  Results for EZ2 and SWERTRES SUNDAY Draw - 3 Digit and 2 Digit lotto&#13;&#10;PCSO Lotto Live Draw!  @PCSO GOV  &#13;&#10;&#13;&#10;Gusto mo ng history ng swertres results? Check my video:&#13;&#10;https://www.youtube.com/watch?v=V7A6a_oL6uY&#13;&#10;&#13;&#10;[LIVE] 2PM PCSO LOTTO RESULTS TODAY SWERTRES 3D EZ2 2D DRAW!&#13;&#10;&#13;&#10;Useful Links - panoorin para sa Contest Q and A (Php100 load) :&#13;&#10;===========&#13;&#10;HOW TO APPLY FOR LOTTO OUTLET:&#13;&#10;https://www.youtube.com/watch?v=fK6v-b9JbmY&#13;&#10;&#13;&#10;How to Win Swertres 3D lotto 10% chance:&#13;&#10;https://www.youtube.com/watch?v=PZ9xgasRPY0&#13;&#10;&#13;&#10;HOW TO PLAY 2D LOTTO&#13;&#10;https://www.youtube.com/watch?v=ydpAsMWnv_E&#13;&#10;&#13;&#10;HOW TO PLAY 3D LOTTO:&#13;&#10;https://www.youtube.com/watch?v=9n9mitOMgQo&#13;&#10;&#13;&#10;ANO ANG GAGAWIN MANALO SA LOTTO&#13;&#10;https://www.youtube.com/watch?v=MUeUGip2f2o&#13;&#10;&#13;&#10;PAANO MAG &#34;RAMBOL&#34; PLAY SA 4D:&#13;&#10;https://www.youtube.com/watch?v=lZpIvxprcbA&#13;&#10;&#13;&#10;HOW MUCH CONSOLATION PRIZE 6D LOTTO&#13;&#10;https://www.youtube.com/watch?v=IXE2hZ8-19c&#13;&#10;&#13;&#10;HOW TO &#34;ADVANCE PLAY&#34;&#13;&#10;https://www.youtube.com/watch?v=Tw0nnZzU5eI&#13;&#10;&#13;&#10;HOW TO BUY PCSO LOTTO TICKETS USING GCASH:&#13;&#10;https://www.youtube.com/watch?v=X8KR2CM_6H4&#13;&#10;&#13;&#10;PCSO Lotto Result history can be found here:&#13;&#10;------------------------------------------&#13;&#10;https://www.tayatayo.com&#13;&#10;------------------------------------------&#13;&#10;&#13;&#10;Swertres lotto results 3x a day&#13;&#10;ez2 lotto results 3x a day&#13;&#10;and jackpot bearing games every 9pm&#13;&#10;7 days a week&#13;&#10; &#13;&#10;Ang hindi mag subscribe, HINDI MANANALO! Kaya Subscribe ka na!&#13;&#10;SUBSCRIBE OR TALO KA FOREVER!&#13;&#10;&#13;&#10;&#13;&#10;SUBSCRIBE!&#13;&#10;&#13;&#10;&#13;&#10;PCSO Lotto result history:&#13;&#10;Ultra 6/58: https://www.youtube.com/watch?v=KERzNd5k_o4&#38;list=PL6EZ0kgJBwR00JGeaYZbTnqnYvkBn73Yc&#13;&#10;Grand 6/55: https://pcsoonlinelottoresults.com/results/grandlotto-6-55-pcso-results/&#13;&#10;Super 6/49: https://www.youtube.com/watch?v=DHhIY0h24cA&#38;list=PL6EZ0kgJBwR1KRBT3limHk0_Bn2yYrGJa&#13;&#10;Mega 6/45: https://www.youtube.com/watch?v=KERzNd5k_o4&#38;list=PL6EZ0kgJBwR35Dq3J2h1L60MWsBFzgFGT&#13;&#10;Lotto 6/42: https://www.youtube.com/watch?v=DHhIY0h24cA&#38;list=PL6EZ0kgJBwR07rv8rZi6qU7S-lxEuVhp_&#13;&#10;&#13;&#10;6D Lotto: https://pcsoonlinelottoresults.com/results/6-digit-results/&#13;&#10;4D Lotto: https://pcsoonlinelottoresults.com/results/4d-pcso-lotto-results/&#13;&#10;3D Swertres: https://pcsoonlinelottoresults.com/results/swertres-result-today/&#13;&#10;2D ez2: https://pcsoonlinelottoresults.com/results/ez2-results-today/&#13;&#10;&#13;&#10;Subscribe! Updated ka na sa PCSO Lotto Results, May pa raffle kami gabi gabi!&#13;&#10;&#13;&#10;Lotto result history on our website:&#13;&#10;Ultra 6/58:  https://tayatayo.com/results/6-58-pcso-ultralotto-results/&#13;&#10;Grand 6/55:  https://tayatayo.com/results/6-55-pcso-grand-lottoresults/&#13;&#10;Super 6/49:  https://tayatayo.com/results/6-49-pcso-superlotto-results/&#13;&#10;Mega 6/45:  https://tayatayo.com/results/6-45-pcso-megalotto-results/&#13;&#10;Lotto 6/42:  https://tayatayo.com/results/6-42-pcso-national-lotto-results/&#13;&#10;&#13;&#10;&#13;&#10;Be a Sponsor: &#13;&#10;https://tayatayo.com/join&#13;&#10;&#13;&#10;Thanks @PCSO GOV and @PTV &#13;&#10;HELPFUL RESOURCES:&#13;&#10;HOW TO APPLY FOR LOTTO OUTLET:&#13;&#10;https://www.youtube.com/watch?v=fK6v-b9JbmY&#13;&#10;&#13;&#10;#PCSOLottoresultToday&#13;&#10;&#13;&#10;------------------------------------------------&#13;&#10;&#13;&#10;========================&#13;&#10;&#13;&#10;Pcso Lotto Results for March 12, 2022 Saturday 2 draw.&#13;&#10;&#13;&#10;Tonights game: 2d lotto, 3d lotto, 6d lotto, 6/42, Super 6/49 &#13;&#10;&#13;&#10;This Channel uploads daily lotto results which includes: 2d lotto, 3d lotto, 4d lotto, 6d lotto, lotto 6/42, megalotto 6/45, superlotto 6/49, grandlotto 6/55 and ultralotto 6/58.&#13;&#10;&#13;&#10;Search terms:&#13;&#10;pcso lotto results today&#13;&#10;pcso 9pm draw today&#13;&#10;pcso lotto&#13;&#10;pcso results&#13;&#10;pcso lotto draw&#13;&#10;pcso results today 9pm&#13;&#10;swertres result today 9pm&#13;&#10;swertres result&#13;&#10;swertres lotto result today 9pm&#13;&#10;swertres result 9pm&#13;&#10;lotto result today&#13;&#10;lotto result today pcso&#13;&#10;lotto results&#13;&#10;lotto draw tonight&#13;&#10;lotto result today 9pm&#13;&#10;3d result today&#13;&#10;3d lotto result today 9pm&#13;&#10;3d result 9pm today&#13;&#10;3d result 9pm&#13;&#10;3d lotto result&#13;&#10;3d lotto result today 9pm draw&#13;&#10;2d lotto result today&#13;&#10;2d result today 9pm&#13;&#10;2d lotto result today 9pm&#13;&#10;2d lotto 9pm&#13;&#10;ez2 result today&#13;&#10;ez2 lotto result today 9pm&#13;&#10;ez2 lotto result&#13;&#10;ez2 lotto results today&#13;&#10;ez2 result today 9pm&#13;&#10;9pm lotto result today&#13;&#10;9pm result today&#13;&#10;4d lotto result today&#13;&#10;4d result today&#13;&#10;6/45 megalotto result today&#13;&#10;6/58 ultralotto result today&#13;&#10;lotto result march 11 2022&#13;&#10;#pcsolottoresults&#13;&#10;#lottoresulttoday&#13;&#10;#lottoresult9pm&#13;&#10;#pcsolotto&#13;&#10;&#13;&#10;&#13;&#10;You came to this video because you were searching for information about &#8230;"
     channel_title "K3 - PCSO LIVE LOTTO RESULTS"
     channel_id "UCYEdWjOw89xlYnYh8Q2Q30w"
     fav_count 0
@@ -5241,7 +5241,7 @@ graph [
     step 0
     date "2022-06-11T11:15:00Z"
     title "Scooter Drawing, Painting, Coloring for Kids &#38;amp; Toddlers | How to Draw, Paint Basics #238"
-    description "Learn Drawing, Painting, Coloring Basics for Kids and Toddlers I love riding my scooter in the park so much. It's so important to ..."
+    description "Learn Drawing, Painting, Coloring Basics for Kids and Toddlers&#10;I love riding my scooter in the park so much. It's so important to wear a helmet while we are riding a scooter. This is a lovely, colorful scooter. Let's draw and paint together. Please try to draw with me...&#10;&#10;Art &#9825;"
     channel_title "Magic Fingers Art"
     channel_id "UCzjNADgaUyuH8ffMhxmphRw"
     fav_count 0
@@ -5256,7 +5256,7 @@ graph [
     step 0
     date "2022-07-04T17:59:20Z"
     title "Upgrading WORLD&#38;#39;S STRONGEST CAR in Draw Joust! (Pt 2)"
-    description "Upgrading WORLD'S STRONGEST CAR in Draw Joust! (Pt 2) w/BeckBroPlays &#10003; SUBSCRIBE FOR COOKIES 's ..."
+    description "Upgrading WORLD'S STRONGEST CAR in Draw Joust! (Pt 2) w/BeckBroPlays&#10;&#9989; SUBSCRIBE FOR COOKIES &#127850;'s &#10145; https://bit.ly/2nfAo85&#10;&#128085; MERCH - https://beckbrojack.co?utm_source=youtube&#38;utm_medium=beckproplays&#10;&#10;MAIN CHANNEL:&#10;https://www.youtube.com/beckbrojack&#10;&#10;&#128106; This video is suited for ALL ages!&#10;&#10;&#128077; FOLLOW ME! &#10;&#129094; Twitter - https://twitter.com/BeckBroJack&#10;&#10;&#127925; Outro Music by&#10;&#9658; Bandcamp: https://bitonal-landscape.bandcamp.com/ &#10;&#9658; Facebook: https://goo.gl/RVt0oW &#10;&#9658; YouTube: https://www.youtube.com/c/BitonalLand...&#10;&#10;Music: https://www.epidemicsound.com/&#10;&#10;SUBSCRIBE so you NEVER miss a NEW video!"
     channel_title "BeckBroPlays"
     channel_id "UCZmIVgXi4Cv82se7-xsoZAw"
     fav_count 0
@@ -5271,7 +5271,7 @@ graph [
     step 0
     date "2022-07-06T11:05:00Z"
     title "How to draw a car easy for kids? Bolalar uchun mashinalar qanday chizish mumkin"
-    description "How to draw a car easy for kids? Bolalar uchun mashinalar qanday chizish mumkin #rasmchizish ,#drawdolls ..."
+    description "How to draw a car easy for kids? Bolalar uchun mashinalar qanday chizish mumkin&#10;&#10;#rasmchizish  ,#drawdolls ,#bolalaruchunrasmchizish ,#bolalar ,#chizish ,#drawingforchildren ,#drawingforkids,#&#231;ocuklar ,#bolalaruchun ,#&#231;izim #&#231;izim ,#dessinpourenfants ,#draw #drawing #drawtoys ,#drawpicture ,#drawpictureozbek ,#drawpicturevideo ,#cutedrawing ,#cutedrawingforkids ,#cutedraws  #rasm#bolalar ,#rasmchizish ,#rasm #drawing#for#children,#i&#231;in#funkeepart ,#tobiart #&#231;izim ,#dessin ,#pour ,#drawtoys ,#tutorial ,#enfants ,#draw #drawings #drawdolls ,#toys #dolls #doll #drawpictureozbek #drawpicturevideo #drawpictures #ozbek #cute #cutedrawingforkids"
     channel_title "Bee Draw Tv"
     channel_id "UC-_y-9BH_7pFNFGX8WXSoVA"
     fav_count 0
@@ -5286,7 +5286,7 @@ graph [
     step 0
     date "2022-07-02T12:16:12Z"
     title "How to Draw a Parrot? - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step"
-    description "How to Draw a Parrot? - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step To download and watch this ..."
+    description "How to Draw a Parrot? - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step&#10;To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -5301,7 +5301,7 @@ graph [
     step 0
     date "2022-07-10T16:00:06Z"
     title "How To Draw Anti-Venom | Step By Step | Marvel"
-    description "Learn How To Draw Anti-Venom Step By Step from Marvel Request, Message me -----} https://www.patreon.com/artsimple Donate ..."
+    description "Learn How To Draw Anti-Venom Step By Step from Marvel&#10;Request, Message me -----} https://www.patreon.com/artsimple&#10;Donate ----- } https://paypal.me/ArtSimple"
     channel_title "Art.Simple."
     channel_id "UC567DbfLo5ktc8JBrFKCQeA"
     fav_count 0
@@ -5316,7 +5316,7 @@ graph [
     step 0
     date "2017-12-10T23:17:26Z"
     title "How to Draw the Lewis Structure for PCl4+"
-    description "A step-by-step explanation of how to draw the PCl4+ Lewis Dot Structure. For the PCl4+ structure use the periodic table to find the ..."
+    description "A step-by-step explanation of how to draw the PCl4+ Lewis Dot Structure.&#10;&#10;For the PCl4+ structure use the periodic table to find the total number of valence electrons for the PCl4+ molecule. Once we know how many valence electrons there are in PCl4+ we can distribute them around the central atom with the goal of filling the outer shells of each atom.&#10;&#10;Note that since we have a positive charge that means we&#8217;ll take a way an electron.  That&#8217;s how we ended up with 32 valence electrons.  You should put the PCl4+  Lewis Structure in brackets with as 1+ on the outside to show that it is an ion with a positive one charge.&#10;&#10;In the Lewis structure of PCl4+ structure there are a total of 32 valence electrons. &#10;&#10;----- Steps to Write Lewis Structure for compounds like PCl4+ -----&#10;1. Find the total valence electrons for the PCl4+ molecule.&#10;2. Put the least electronegative atom in the center. Note: Hydrogen (H) always goes outside.&#10;3. Put two electrons between atoms to form a chemical bond.&#10;4. Complete octets on outside atoms.&#10;5. If central atom does not have an octet, move electrons from outer atoms to form double or triple bonds.&#10;&#10;----- Lewis Resources -----&#10;&#8226; Lewis Structures Made Simple: https://youtu.be/1ZlnzyHahvo&#10;&#8226; More practice: https://youtu.be/DQclmBeIKTc&#10;&#8226; Counting Valence Electrons: https://youtu.be/VBp7mKdcrDk&#10;&#8226; Calculating Formal Charge: https://youtu.be/vOFAPlq4y_k&#10;&#8226; Exceptions to the Octet Rule: https://youtu.be/Dkj-SMBLQzM&#10;&#10;Lewis Structures, also called Electron Dot Structures, are important to learn because they help us understand how atoms and electrons are arranged in a molecule, such as . This can help us determine the molecular geometry, how the molecule might react with other molecules, and some of the physical properties of the molecule (like boiling point and surface tension).&#10;&#10;Chemistry help at https://www.Breslyn.org"
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -5331,7 +5331,7 @@ graph [
     step 0
     date "2018-10-11T15:26:11Z"
     title "How to Draw the Lewis Dot Structure for CaO   ( Calcium oxide )"
-    description "A step-by-step explanation of how to draw the CaO Lewis Dot Structure. For CaO we have an ionic compound and we need to ..."
+    description "A step-by-step explanation of how to draw the CaO Lewis Dot Structure.&#10;&#10;For CaO we have an ionic compound and we need to take that into account when we draw the Lewis Structure. We&#8217;ll first draw the metal and put it in brackets with its charge on the outside (video: finding ionic charge: https://youtu.be/M22YQ1hHhEY).&#10;&#10;Next, we'll draw the Lewis Structure for the O2- ion and add brackets. We put the two ions together to complete the Lewis structure for CaO. Note that CaO is also called Calcium oxide.&#10;&#10;For a complete tutorial on drawing Lewis Structures, see my video: https://youtu.be/1ZlnzyHahvo&#10;&#10;For more practice, see https://youtu.be/DQclmBeIKTc&#10;&#10;To learn to find the valence electrons: https://youtu.be/VBp7mKdcrDk&#10;&#10;Note that is it more common to draw Lewis Structures for covalent (molecular) compounds where valance electrons are shared. In the case of ionic compounds, where we have a metal bonded to a non-metal (or group of non-metals), the Lewis diagram represents a formula unit. Many of these formula units make up a crystal lattice. So when we talk about the structure for CaO we think of it together with other CaO formula units in a crystal (NaCl is a good example of this: https://en.wikipedia.org/wiki/Sodium_chloride).&#10;&#10;Get more chemistry help at http://www.thegeoexchange.org/chemistry/bonding&#10;&#10;Drawing/writing done in InkScape. Screen capture done with Camtasia Studio 4.0. Done on a Dell Dimension laptop computer with a Wacom digital tablet (Bamboo)."
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -5346,7 +5346,7 @@ graph [
     step 0
     date "2022-01-17T23:17:16Z"
     title "&#128992;&#128073;How to Draw SONIC and TAILS  &#11088;Coloring and Drawing SONIC &#11088; Easy Drawing &#128308;"
-    description "How to Draw SONIC and TAILS &#11088;Coloring and Drawing SONIC &#11088; Easy Drawing Subscribe http://bit.ly/2m3YiCn."
+    description "&#11088;&#11088;&#128992;&#128073;How to Draw SONIC and TAILS  &#11088;Coloring and Drawing SONIC &#11088; Easy Drawing &#128308;&#10;&#10;&#128308;&#128073;&#128073; Subscribe http://bit.ly/2m3YiCn"
     channel_title "Easy Drawing"
     channel_id "UCecCngpPbJJZkK_b2RvSb-Q"
     fav_count 0
@@ -5361,7 +5361,7 @@ graph [
     step 0
     date "2021-11-22T07:24:03Z"
     title "Like A Boss!&#129400; How To Draw A Perfect Circle #shorts"
-    description "Shorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #YouTubeShorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #5MCSHORTS&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; ..."
+    description "#Shorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #YouTubeShorts&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #5MCSHORTS&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #SHORTVIDEO&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; #SHORTSINDIA&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;&#10;This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate. &#10;&#10;The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate. &#10;&#10;All product and company names shown in the video are trademarks&#8482;&#65039; or registered&#174;&#65039; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. &#10;---------------------------------------------------------------------------------------- &#10;&#10;5-Minute Crafts: http://bit.ly/2itjCyw&#8203; &#10;Facebook: https://www.facebook.com/5min.crafts/&#8203; &#10;Instagram: https://www.instagram.com/5.min.crafts/&#8203; &#10;Twitter: https://twitter.com/5m_crafts&#8203; &#10;&#10;5-Minute Crafts GIRLY: https://goo.gl/fWbJqz&#8203; &#10;5-Minute Crafts PLAY: https://goo.gl/PEuLVt&#8203;&#10;The Bright Side of Youtube: https://goo.gl/rQTJZz&#8203; &#10;For more videos and articles visit: http://www.brightside.me/&#8203; &#10;Music by Epidemic Sound: https://www.epidemicsound.com/"
     channel_title "5-Minute Crafts LIKE"
     channel_id "UCzTWHWnJ6VIcbkpqyv7_FaQ"
     fav_count 0
@@ -5376,7 +5376,7 @@ graph [
     step 0
     date "2019-03-14T14:17:22Z"
     title "Don&#38;#39;ts &#38;amp; Do&#38;#39;s: How to Draw Realistic Lips (Mouth) &#8211; Easy Step by Step Tutorial for Beginners (2019)"
-    description "Real-time videos + tutorials: https://www.patreon.com/silviemahdal Instagram for more tips: ..."
+    description "Real-time videos + tutorials: https://www.patreon.com/silviemahdal &#10;Instagram for more tips:  https://www.instagram.com/silviemahdal_art/&#10;&#10;In this drawing tutorial I explain how to draw realistic lips and mouth. It is a do's and don'ts step by step art tutorial, you will see common mistakes beginners often make and my tips how to fix them to improve your drawings and make them look more realistic. I will explain all the basic steps so you can easily follow them and draw with me! I hope these tips will be helpful for you! If yes please give the video thumbs up and hit that subscribe button because many new art tutorials are coming soon.&#10;&#10;Please take these tips only as suggestions when you want to learn to draw realistic lips and mouth. Do not take them as mandatory rules. &#10; &#10;1) How to get the basic proportions of lips / mouth right: 00:25:09&#10;2) How to create realistic shading of lips / mouth: 02:26:09&#10;3) How to draw realistic details / texture: 09:24:05&#10;4) How to add highlights to the drawing: 11:44:10&#10;&#10;Note: I made this tutorial about 2 years ago on my Instagram account, I share it on my YouTube channel for the first time. In the meantime, there have been few don'ts and do's videos on YouTube, but I decided to share my own version of it. This is the way I actually draw lips myself. I try to use little different process, tools and techniques from other artists.&#10;&#10;Subscribe here:&#10;https://www.youtube.com/channel/UCQp5qNTmUn1MlgF2RD2f7MQ?sub_confirmation=1&#10;&#10;TOOLS / DRAWING MATERIALS I use for my realistic drawings:&#10;- Smooth Bristol paper&#10;- Graphite pencils&#10;- Blending stump for blending details&#10;- Soft paintbrush for blending larger drawings&#10;- Pencil eraser for precision erasing&#10;- Kneaded eraser for erasing larger parts&#10;&#10;MUSIC SOURCE:&#10;YouTube Audi Library &#10;&#10;#howtodrawlips #arttutorial #dontsdos"
     channel_title "Silvie Mahdal"
     channel_id "UCQp5qNTmUn1MlgF2RD2f7MQ"
     fav_count 0
@@ -5391,7 +5391,7 @@ graph [
     step 0
     date "2018-08-19T07:31:15Z"
     title "How To Draw Forest Scenery with Animals / Forest Drawing/with Elephant."
-    description "How To Draw Forest Scenery with Animals,This tutorial is Very easy for kids,I hope kids will like it..thank you.. if you liked this video ..."
+    description "How To Draw Forest Scenery with Animals,This tutorial is Very easy for kids,I hope kids will like it..thank you..&#10; if you liked this video watch my other AviArts&#38;Craft videos from here&#10;To see more videos-https://www.youtube.com/results?search_query=AviArts%26Craft&#10;#oilpasteldrawing,#SceneryDrawing,#DrawingAcademy,#DrawingLessons,#OilpastelScenery,&#10;#ForestDrawing,#JungleDrawing,#ElephantDrawing,"
     channel_title "AviArts&#38;Craft"
     channel_id "UCIIS5Brh4SkA9YmH9t0PP0w"
     fav_count 0
@@ -5406,7 +5406,7 @@ graph [
     step 0
     date "2022-07-11T07:31:39Z"
     title "How to draw scissors and accessories drawing for kids?"
-    description "How to draw scissors and accessories drawing for kids? Bolalar Uchun makas ve aksesuar &#231;izimi Super Easy Drawings, Simple ..."
+    description "How to draw scissors and accessories drawing for kids? Bolalar Uchun makas ve aksesuar &#231;izimi&#10;&#10;Super Easy Drawings, Simple Drawings , Easy Drawing , Kids Drawings , Drawing Tutorial, Baby Shark Drawing, Unicorn, Unicorn Drawing, Unicorn Cake Drawing Easy, Unicorn Draw, Cute Unicorn Cake, 2021,  Easy Unicorn drawing, Step by step drawing, Super Simple Drawing, Drawing for Kids, How to Draw Unicorn Easy, Hello Kitty Drawing, Cute Animal Drawings, Cartoon Character Drawings, Kawaii Drawings, Chibi Drawing, Panda Drawing, Easy Drawings &#38; Coloring, Disney Drawings, Cute House Drawing, Cartoon Drawings, SpongeBob Drawing, Princess Drawings, Frozen drawing, Dessert Drawings, Fun Drawings, Sweet drawings, Marvel Superheroes Drawing, Among Us Drawing and much more. 2022&#10;&#10;&#10;drawing for kids , painting for kids , draw a picture , learning to draw , paint a picture , drawing videos , painting videos | bolalar uchun rasm chizish , bolalar uchun rasm chizish ,&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1099;&#1087; &#1091;&#1081;&#1088;&#1077;&#1085;&#1091; , rasm chizish , chizishni o'rganish , rasm chizishni o'rganish , videolarni chizish, videolarni bo'yash | &#231;ocuklar i&#231;in &#231;izim , &#231;ocuklar i&#231;in boyama , resim &#231;izmek , &#231;izmeyi &#246;&#287;renmek , resim boyama , &#231;izim videolar&#305; , boyama videolar&#305; | &#10;Zeichnen f&#252;r Kinder , Malen f&#252;r Kinder , Zeichnen eines Bildes , Zeichnen lernen , Malen eines Bildes ,Videos zeichnen , Videos malen |&#10;&#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; &#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; | &#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; &#1076;&#1083;&#1103; &#1076;&#1077;&#1090;&#1077;&#1081;, &#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; &#1076;&#1083;&#1103; &#1076;&#1077;&#1090;&#1077;&#1081; | desenho para crian&#231;as , pintura para crian&#231;as , para crian&#231;as | &#2348;&#2330;&#2381;&#2330;&#2379;&#2306; &#2325;&#2375; &#2354;&#2367;&#2319; &#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327;, &#2348;&#2330;&#2381;&#2330;&#2379;&#2306; &#2325;&#2375; &#2354;&#2367;&#2319; &#2346;&#2375;&#2306;&#2335;&#2367;&#2306;&#2327; |  #Drawapicture, #drawapicture, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasmchizish, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1099;&#1087;&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #drawdolls, #bolalaruchunrasmchizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081;, #drawingforchildren, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090;, #&#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1199;&#1095;&#1199;&#1085;&#1089;&#1199;&#1088;&#1257;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklari&#231;in&#231;izim, #dessinpourenfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289; #Draw, #drawing, #drawpicture, #picture, #FunKeepArt, #BeTaiNangTV, #ToBiART , #drawpicture, #drawdolls, #drawtoys, #drawtoys, #drawdolls, #drawpictureozbek, #drawpictureozbek, #cuteDraws, #cutedraws, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasm #chizish, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1099;&#1087; #&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #&#1199;&#1081;&#1076;&#1110;&#1187; #&#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; #&#1089;&#1072;&#1083;&#1091;, #bolalar #uchun #rasm #chizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; #&#1076;&#1083;&#1103; #&#1076;&#1077;&#1090;&#1077;&#1081;, #drawing #for #children, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072; #&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085; #&#1089;&#1091;&#1088;&#1077;&#1090;, #&#1575;&#1604;&#1585;&#1587;&#1605; #&#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604;#&#1548; #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088; #&#1199;&#1095;&#1199;&#1085; #&#1089;&#1199;&#1088;&#1257;&#1090; #&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;#&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklar #i&#231;in #&#231;izim, #dessin #pour #enfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289; #Draw, #drawing, #drawpicture, #picture, #draw #picture, #draw #dolls, #draw #toys, #drawtoys, #drawdolls, FunKeepArt, BeTaiNangTV, ToBiART, bolalaruchunrasmchizish, &#10;&#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; &#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1199;&#1095;&#1199;&#1085;&#1089;&#1199;&#1088;&#1257;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, &#50500;&#51060;&#46308;&#51012;&#50948;&#54620; &#44536;&#47548;, &#231;ocuklari&#231;in&#231;izim, &#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081; , drawingforchildren , &#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090; , &#1199;&#1081;&#1076;&#1110;&#1187; &#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; &#1089;&#1072;&#1083;&#1091; , drawpictureozbek , &#1089;&#1091;&#1088;&#1077;&#1090; &#1073;&#1086;&#1103;&#1091; , bolalar uchun rasm chizish , rasm chizish , &#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1099;&#1087; &#1091;&#1081;&#1088;&#1077;&#1085;&#1091; , cute draws , &#1199;&#1081;&#1076;&#1110;&#1187; &#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; &#1089;&#1072;&#1083;&#1091;&#10;&#10;&#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1099;&#1087; &#1091;&#1081;&#1088;&#1077;&#1085;&#1091;&#10;how to draw step by step easy drawing tutorial&#10;como desenhar passo a passo tutorial desenho simples f&#225;cil&#10;como dibujar paso a paso tutorial dibujo simple y f&#225;cil&#10;comment dessiner pas &#224; pas tutoriel dessin facile&#10;come disegnare passo dopo passo tutorial disegno facile&#10;wie zeichnet man zeichen tutorial leicht&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605;&#10;hoe om te teken&#10;si te vizatosh&#10;&#4773;&#4757;&#4852;&#4725; &#4773;&#4757;&#4848;&#4634;&#4659;&#4621;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#10;&#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1398;&#1391;&#1377;&#1408;&#1381;&#1388;&#10;nec&#601; &#231;&#601;km&#601;k&#10;nola marraztu&#10;&#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;&#10;&#1103;&#1082; &#1084;&#1072;&#1083;&#1103;&#1074;&#1072;&#1094;&#1100;&#10;kako crtati&#10;&#1082;&#1072;&#1082; &#1076;&#1072; &#1088;&#1080;&#1089;&#1091;&#1074;&#1072;&#1084;&#10;&#3257;&#3271;&#3223;&#3270; &#3256;&#3270;&#3251;&#3270;&#3247;&#3265;&#3253;&#3265;&#3238;&#3265;&#10;com dibuixar&#10;&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;sa unsa nga paagi aron sa pagkalos&#10;mmene kudzatunga&#10;&#22914;&#20309;&#30011;&#10;&#22914;&#20309;&#30059;&#10;nzira yekukwevera&#10;&#3482;&#3548;&#3524;&#3548;&#3512;&#3503; &#3461;&#3507;&#3538;&#3505;&#3530;&#3505;&#3546;&#10;&#44536;&#47532;&#45716; &#48169;&#48277;&#10;cumu a girari&#10;ki jan yo desine&#10;kako nacrtati&#10;&#231;awa bikujin&#10;hvordan man tegner&#10;ako kresli&#357;&#10;kako narisati &#10;Kiel desegni&#10;kuidas joonistada&#10;Paano Gumuhit&#10;kuinka piirt&#228;&#228;&#10;Hoe te tekenjen&#10;mar a tharraing thu&#10;como dese&#241;ar&#10;sut i dynnu&#10;&#4320;&#4317;&#4306;&#4317;&#4320; &#4307;&#4304;&#4309;&#4334;&#4304;&#4322;&#4317;&#4311;&#10;&#960;&#969;&#962; &#957;&#945; &#950;&#969;&#947;&#961;&#945;&#966;&#943;&#963;&#969;&#10;&#2709;&#2695; &#2736;&#2752;&#2724;&#2759; &#2726;&#2763;&#2736;&#2741;&#2753;&#10;yadda za a zana&#10;pehea e huki ai&#10;&#1488;&#1497;&#1498; &#1500;&#1510;&#1497;&#1497;&#1512;&#10;&#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;&#10;kos duab li cas&#10;hoe te tekenen&#10;hogyan rajzolj&#10;esi ise&#10;&#1493;&#1493;&#1497; &#1510;&#1493; &#1510;&#1497;&#1506;&#1503;&#10;cara menggambar&#10;bi o &#7779;e fa&#10;conas a tharraingt&#10;hvernig &#225; a&#240; teikna&#10;&#25551;&#12367;&#26041;&#27861;&#10;cara nggambar&#10;&#6042;&#6036;&#6080;&#6036;&#6018;&#6076;&#6042;&#10;&#3751;&#3764;&#3735;&#3765;&#3713;&#3762;&#3737;&#3777;&#3733;&#3785;&#3745;&#10;duci&#10;k&#257; z&#299;m&#275;t&#10;kaip pie&#353;ti&#10;w&#233;i zeechnen&#10;&#1082;&#1072;&#1082;&#1086; &#1076;&#1072; &#1094;&#1088;&#1090;&#1072;&#1096;&#10;&#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3381;&#3376;&#3375;&#3405;&#3349;&#3405;&#3349;&#3363;&#3330;&#10;bagaimana untuk menarik&#10;ahoana no hisintonana&#10;kif tfassal&#10;me pehea ki te utu&#10;&#2325;&#2360;&#2375; &#2325;&#2366;&#2338;&#2366;&#2357;&#2375;&#10;&#1093;&#1101;&#1088;&#1093;&#1101;&#1085; &#1079;&#1091;&#1088;&#1072;&#1093;&#10;&#2325;&#2360;&#2352;&#2368; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2327;&#2352;&#2381;&#2344;&#2375;&#10;hvordan &#229; tegne&#10;&#1669;&#1606;&#1707;&#1607; &#1585;&#1587;&#1605;&#10;&#1670;&#1591;&#1608;&#1585;&#1740; &#1591;&#1585;&#1575;&#1581;&#1740; &#1705;&#1606;&#1740;&#1605;&#10;jak narysowa&#263;&#10;&#2581;&#2623;&#2613;&#2631;&#2562; &#2582;&#2623;&#2673;&#2586;&#2595;&#2622; &#2617;&#2632;&#10;&#1082;&#1072;&#1085;&#1090;&#1080;&#1087; &#1090;&#1072;&#1088;&#1090;&#1072;&#1090;&#10;cum s&#259; atrag&#259;&#10;&#1082;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;&#10;le auala e faalatalata&#10;&#1050;&#1072;&#1082;&#1086; &#1094;&#1088;&#1090;&#1072;&#1090;&#1080;&#10;ho hohela joang&#10;&#1706;&#1574;&#1610;&#1606; &#1658;&#1575;&#1607;&#1610;&#1608;&#10;sida loo sawiro&#10;jinsi ya kuteka&#10;hur man ritar&#10;kumaha carana menggambar&#10;&#1095;&#1251; &#1090;&#1072;&#1074;&#1088; &#1073;&#1072; &#1082;&#1072;&#1096;&#1080;&#1076;&#1072;&#1085;&#1080;&#10;&#3623;&#3634;&#3604;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;&#10;&#2997;&#2992;&#3016;&#2997;&#2980;&#3009; &#2958;&#2986;&#3021;&#2986;&#2975;&#3007;&#10;jak kreslit&#10;&#3086;&#3122;&#3134; &#3095;&#3136;&#3119;&#3134;&#3122;&#3135;&#10;nas&#305;l &#231;izilir&#10;&#1103;&#1082; &#1085;&#1072;&#1084;&#1072;&#1083;&#1102;&#1074;&#1072;&#1090;&#1080;&#10;&#1705;&#1729; &#1705;&#1587; &#1591;&#1585;&#1581; &#1575;&#1662;&#1606;&#1740; &#1591;&#1585;&#1601; &#1605;&#1578;&#1608;&#1580;&#1729; &#1705;&#1585;&#1606;&#1746; &#1705;&#1746; &#1604;&#1574;&#1746;"
     channel_title "ART FOR KIDS TV"
     channel_id "UCZkMKAhKNOExB-rchsaRmkA"
     fav_count 0
@@ -5421,7 +5421,7 @@ graph [
     step 0
     date "2022-07-03T13:00:01Z"
     title "How To Draw Kratos | God of War Sketch Tutorial (Step by Step)"
-    description "SUBSCRIBE for more daily drawing videos like this every single day! https://www.youtube.com/c/CartooningClubHowtoDraw ..."
+    description "SUBSCRIBE for more daily drawing videos like this every single day! &#10;https://www.youtube.com/c/CartooningClubHowtoDraw&#10;&#10;Welcome to the best Online Education Program for artists. Learn how to draw Kratos from God of War with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. &#10;&#10;Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;Art Supplies:&#10;Staedtler Black 4B Pencils: https://amzn.to/3LnDQni&#10;Canson Sketch paper: https://amzn.to/3Jeo0tl&#10;&#10;Check out my Sketch Playlist below for more of your favourite characters.&#10;&#10;Sketch Tutorials&#10;https://www.youtube.com/playlist?list=PLktSUNu3rLlofUWYQTX6rtVnSXLlM6uF-&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub #kratos #godofwar"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -5436,7 +5436,7 @@ graph [
     step 0
     date "2022-07-07T16:00:09Z"
     title "How To Draw Muichiro Tokito (Mist Hashira) | Step By Step | Demon Slayer"
-    description "Learn How To Draw Muichiro Tokito The Mist Pillar Step By Step From Demon Slayer Request?"
+    description "Learn How To Draw Muichiro Tokito The Mist Pillar Step By Step From Demon Slayer&#10;Request? -----} https://www.patreon.com/artsimple&#10;Donate ----- } https://paypal.me/ArtSimple"
     channel_title "Art.Simple."
     channel_id "UC567DbfLo5ktc8JBrFKCQeA"
     fav_count 0
@@ -5451,7 +5451,7 @@ graph [
     step 0
     date "2022-06-14T13:00:24Z"
     title "How to Draw Sox from Lightyear | Cartoon Cat"
-    description "Learn How to Draw Buzz Lightyear's cute robotic ginger and white Cat from Disney and Pixar's Lightyear animated movie."
+    description "Learn How to Draw Buzz Lightyear's cute robotic ginger and white Cat from Disney and Pixar's Lightyear animated movie. #drawsocutecat. #soxlightyear&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -5466,7 +5466,7 @@ graph [
     step 0
     date "2020-09-12T19:00:06Z"
     title "HOW TO DRAW A HOUSE EASY STEP BY STEP"
-    description "HOW TO DRAW A HOUSE EASY STEP BY STEP drawing for kids, how to draw for kids, video for kids Drawing and coloring, draw ..."
+    description "HOW TO DRAW A HOUSE EASY STEP BY STEP &#10;drawing for kids, how to draw for kids, video for kids&#10;Drawing and coloring, draw, coloring, how to draw, kawaii drawings, pencil sketch, drawings tumblr, painting, drawing class, how to draw step by step, how to draw easy, drawing outline, sketch drawing, easy drawing, scenery drawing, learn to draw, como dibujar, dibujar, dibujos kawaii, desenhar, como desenhar, desenhos para desenhar, desenhar, desenhos tumblr, desenhos kawaii, dessin kawaii, Como Desenhar, aula de desenho, tutorial,&#10;Desenhando, fazer desenho,&#10;How to Draw, DRAWINGS TUMBLR,&#10;passo a passo, aprender a desenhar,&#10; how to draw easy stuff, easy stuff"
     channel_title "Learn step by step"
     channel_id "UCm5rnY9Iye5Eq_Nq2Y42T-g"
     fav_count 0
@@ -5481,7 +5481,7 @@ graph [
     step 0
     date "2022-06-18T13:00:15Z"
     title "HOW TO DRAW WITH YOUR KIDS #SHORTS"
-    description "We prepared amazing drawing hacks for creative parents! In this video, you'll on simple tips on how to create amazing pictures ..."
+    description "We prepared amazing drawing hacks for creative parents! In this video, you'll on simple tips on how to create amazing pictures with crayons and paint! #shorts #parenting #5mcshorts&#10;----------------------------------------------------------------------------------------&#10;Our Social Media:&#10;&#10;5-Minute Crafts YouTube: http://bit.ly/2itjCyw&#10;Facebook: https://www.facebook.com/5min.crafts/&#10;Instagram: https://www.instagram.com/5.min.crafts/&#10;Twitter: https://twitter.com/5m_crafts&#10;&#10;Subscribe to 5-Minute Crafts GIRLY: https://goo.gl/fWbJqz&#10;Subscribe to 5-Minute Crafts KIDS: https://goo.gl/PEuLVt&#10;Subscribe to 5-Minute Crafts MEN: http://bit.ly/2S69VUG&#10;&#10;The Bright Side of Youtube: https://goo.gl/rQTJZz&#10;&#10;----------------------------------------------------------------------------------------&#10;For more videos and articles visit:&#10;http://www.brightside.me&#10;&#10;For brand partnership enquiries: brands@thesoul-publishing.com&#10;&#10;Music by Epidemic Sound: https://www.epidemicsound.com/"
     channel_title "5-Minute Crafts VS"
     channel_id "UC56_hOqEtBqHwnVNBzOWj-A"
     fav_count 0
@@ -5496,7 +5496,7 @@ graph [
     step 0
     date "2022-06-30T07:05:59Z"
     title "how to draw &#10024;ANYA&#10024;"
-    description "HOW TO DRAW ANYA FORGER spy x family Clip Studio Paint (my drawing program) https://bit.ly/3bcrBJa *affiliate link btw ..."
+    description "HOW TO DRAW ANYA FORGER spy x family&#10;&#10;Clip Studio Paint (my drawing program)&#10;https://bit.ly/3bcrBJa&#10;*affiliate link btw&#10;&#10;Equipment:&#10;Mic: https://amzn.to/3ks0Qok&#10;Pop filter: https://amzn.to/3yrMtpg&#10;Graphics Tablet: https://amzn.to/2UWPArz&#10;Camera: https://amzn.to/3zrPN53&#10;&#10;my brushes&#10;&#12501;&#12521;&#12483;&#12488; (flat pen)&#10;old pen content id: 1358977 &#10;new pen content id: 1702959&#10;hair brush: 1868700&#10;&#10;give my vid a like if you're reading this description uwu&#10;&#10;Contact this email for business: kooleen.business@gmail.com"
     channel_title "Kooleen"
     channel_id "UCL_Zrh9lwoOT7ftTRA-npvg"
     fav_count 0
@@ -5511,7 +5511,7 @@ graph [
     step 0
     date "2022-04-28T15:11:17Z"
     title "Alice Oseman Teaches The Cast Of Heartstopper How To Draw Nick and Charlie &#127912; | Netflix"
-    description "Watch Alice Oseman give the cast of Heartstopper an adorably giggly art lesson. Out of Kit Connor, Joe Locke, Yasmin Finney, ..."
+    description "Watch Alice Oseman give the cast of Heartstopper an adorably giggly art lesson. Out of Kit Connor, Joe Locke, Yasmin Finney, William Gao, Corinna Brown and Kizzy Edgell, who do you think created the best likeness? &#127810;&#10;&#10;0:00 - Draw Charlie&#10;3:29 - Draw Nick&#10;6:13 - Draw Alice&#10;&#10;#Heartstopper #AliceOseman #Netflix&#10;&#10;&#10145;&#65039;SUBSCRIBE FOR MORE: http://bit.ly/29kBByr&#10;&#10;About Netflix:&#10;Netflix is the world's leading streaming entertainment service with 222 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.&#10;&#10;Alice Oseman Teaches The Cast Of Heartstopper How To Draw Nick and Charlie &#127912;&#160;| Netflix&#10;https://www.youtube.com/stillwatchingnetflix&#10;&#10;Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series."
     channel_title "Still Watching Netflix"
     channel_id "UCGie8GMlUo3kBKIopdvumVQ"
     fav_count 0
@@ -5526,7 +5526,7 @@ graph [
     step 0
     date "2022-07-06T19:19:16Z"
     title "The National Lottery Thunderball draw results from Wednesday 06 July 2022"
-    description "The National Lottery Thunderball draws take place in front of an independent adjudicator. Rules and Procedures apply (and ..."
+    description "The National Lottery Thunderball draws take place in front of an independent adjudicator.  &#10;&#10;Rules and Procedures apply (and Account Terms if playing online). Players must be 18+ and physically located in the UK or IoM.&#10;&#10;To enter the next available draw, visit http://bit.ly/PlayThunderball &#10;&#10;You can also check your Thunderball tickets on our website:&#10;http://bit.ly/ThunderballCheckResults&#10;&#10;Dream Big Play Small. National Lottery games should always be fun, playing in a way that is right for you. Using our handy toolkit (http://bit.ly/HealthyPlay-Toolkit) you can set limits, take time out or set up reminders.&#10;&#10;#Thunderball #NationalLottery #DreamBigPlaySmall #ThunderballWednesday #ThunderballLiveDraws #NationalLotteryLiveResults"
     channel_title "The National Lottery"
     channel_id "UCnOiv4Hp3fu43NDHl335cvQ"
     fav_count 0
@@ -5541,7 +5541,7 @@ graph [
     step 0
     date "2020-09-10T05:00:05Z"
     title "How to Draw a Realistic Dog | Tutorial for BEGINNERS"
-    description "In this video I'm going to Draw a Hyper Realistic Dog using Graphite pencils, Follow my simple, detailed steps to draw a realistic ..."
+    description "In this video I'm going to Draw a Hyper Realistic Dog using Graphite pencils, Follow my simple, detailed steps to draw a realistic Dog with realistic Fur texture. My method is aimed to help even the most complete beginner to draw something they once thought was impossible.&#10;&#10;GOOD NEWS!!....You can now get my Drawing course for 90% OFF in Flash Sale for August 2021.&#10;Here's the link: https://bit.ly/3iDcahS (Valid for 5-Days only).&#10;&#10;Line Drawing Reference:&#10;https://www.patreon.com/posts/line-drawing-39780469&#10;&#10;Line Drawing Grid Reference:&#10;https://www.patreon.com/posts/line-drawing-39780463&#10;&#10;Grid Reference:&#10;https://www.patreon.com/posts/grid-reference-39780458&#10;&#10;Reference Image:&#10;https://www.patreon.com/posts/reference-image-39780460&#10;&#10;Realtime Tutorial:&#10;https://www.patreon.com/posts/41501959&#10;&#10;&#10;SUPPORT me on patreon for some extra content EVERY WEEK, here's the link to my patreon profile:&#10;https://www.patreon.com/join/Artbyalihaider&#10;&#10;&#10;Please SUBSCRIBE if you're new to my channel &#38; turn your &#128276; (Bell icon) notifications ON, so you never miss any new video tutorial &#10;&#10; Let's stay in touch! :)&#10;&#10;&#128248; Instagram: http://instagram.com/alihaiderrehman&#10;&#128216; Facebook: http://www.facebook.com/artbyalihaider&#10;&#10;-------------------------------&#10;&#10; WANT TO WATCH MORE OF MY VIDEOS? &#10;&#10;Here you Go: &#10;https://www.youtube.com/Artbyalihaider&#10;&#10;-----------------------------------&#10;&#9835; MUSIC &#9834;&#10;&#10;- Moving on&#10;- First time experience&#10;- Honey&#10;- Rio Nights&#10;by YouTube Audio library."
     channel_title "Art By Ali Haider"
     channel_id "UCcc1rEeoxyi4SJWPqhvM7Ww"
     fav_count 0
@@ -5556,7 +5556,7 @@ graph [
     step 0
     date "2021-12-10T14:15:12Z"
     title "How to Draw Easy Landscape Painting&#65372; Acrylic Painting Tutorial"
-    description "Hello! Welcome to the Art Space :) Art is the best place to create &#38; relax. Today I'm painting easy acrylic tree landscape on canvas ..."
+    description "Hello! Welcome to the Art Space :) &#10;Art is the best place to create &#38; relax.&#10;Today I'm painting easy acrylic tree landscape on canvas in step by step technique for beginners using satisfying masking tape. &#10;I hope you enjoy watching my painting. &#10;Watch and paint along with every tutorial video.&#10;Thanks for watching! Happy painting! &#10;Have a good day!&#10;Don't forget to Subscribe and Like &#10084; &#10;#ArtSpace #LandscapePainting #AcrylicPainting"
     channel_title "Art Space"
     channel_id "UCvxzTKmHYIvGJMHXCkOQSoA"
     fav_count 0
@@ -5571,7 +5571,7 @@ graph [
     step 0
     date "2018-08-24T15:58:42Z"
     title "How to Draw the Lewis Dot Structure for F-  (Fluoride ion)"
-    description "A step-by-step explanation of how to draw the F- Lewis Dot Structure. For the F- Lewis structure use the periodic table to find the ..."
+    description "A step-by-step explanation of how to draw the F- Lewis Dot Structure.&#10;&#10;For the F- Lewis structure use the periodic table to find the total number of valence electrons for the F atom. Once we know how many valence electrons there are in F we can distribute them around the central atom with the goal of filling the outer shells of each atom.&#10;&#10;Because the Fluoride ion (F- has an extra electron (the negative sign denotes an extra electron) we need to add that to the 7 valence electrons for the neutral atom F.&#10;&#10;In the Lewis structure of F- structure there are a total of 8 valence electrons. F- is also called Fluoride ion.&#10;&#10;----- Lewis Resources -----&#10;&#8226; Lewis Structures for Ionic Compounds: https://youtu.be/2urppjeSfgA&#10;&#8226; Lewis Structures for Covalent Compounds: https://youtu.be/1ZlnzyHahvo&#10;&#8226; Counting Valence Electrons: https://youtu.be/VBp7mKdcrDk&#10;&#8226; Calculating Formal Charge: https://youtu.be/vOFAPlq4y_k&#10;&#8226; Exceptions to the Octet Rule: https://youtu.be/Dkj-SMBLQzM&#10;&#10;More chemistry help at https://www.Breslyn.org.&#10;&#10;Drawing/writing done in InkScape. Screen capture done with Camtasia Studio 4.0. Done on a Dell Dimension laptop computer with a Wacom digital tablet (Bamboo)."
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -5586,7 +5586,7 @@ graph [
     step 0
     date "2022-04-24T14:01:19Z"
     title "I &#10024;FORCED&#10024;my boyfriend to draw me as a CUTE Studio Ghibli character&#128519; | JULIA GISELLA"
-    description "sub to my Patreon here: https://www.patreon.com/juliagisella my new ASMR channel ..."
+    description "&#128149;sub to my Patreon here:  https://www.patreon.com/juliagisella &#10;&#128420;my new ASMR channel &#128516; https://www.youtube.com/channel/UCulQujlNk4oNsz9NK3ANX-A/featured&#10;&#10;&#128149; art shop: www.juliagisella.com  &#10;&#128420;insta: @julia_gisella https://www.instagram.com/julia_gisella/&#8203;&#10;&#10;&#128420;Art TikTok: @juliagisella https://www.tiktok.com/@juliagisella?&#8203;&#10;&#128420;personal TikTok: @notjuliagisella https://www.tiktok.com/@notjuliagisella?lang=de-DE&#10;&#128420;Snapchat: @juliagisella&#10;&#10;&#128420;PR/Business: julia@kyra.com&#10;&#10;&#128149;PRODUCTS I USE&#128149;*&#10;Watercolours: Winsor and newton https://amzn.to/3mnlQOg&#10;Pencils: Caran d&#8217;ache luminance https://amzn.to/3uCqIT9&#10;Brushes: &#10;Da Vinci Casaneo Brushes 6 https://amzn.to/3Bm3rYx&#10;Da Vinci Casaneo Brush 2 https://amzn.to/3Bm3tzD&#10;Winsor and Newton Brush 6 https://amzn.to/3l7n2ps&#10;4. Winsor and Newton Brush 12 https://amzn.to/3uCabi2&#10;5. Winsor and Newton Brush 000 https://amzn.to/3uCFsl8&#10;&#10;Frog tape: https://amzn.to/3B6FtQE&#10;Gouache white: https://amzn.to/2WGqfTC&#10;&#10;x&#10;&#10;*Links included in this description might be affiliate links. Meaning that If you purchase a product or service with the links that I provide I may receive a small commission. There is no additional charge to you. Thank you for supporting my channel so I can continue to provide you with free content each week!&#128149;"
     channel_title "JULIA GISELLA"
     channel_id "UCCPsBYxLUykj5xbgOGTRzKQ"
     fav_count 0
@@ -5601,7 +5601,7 @@ graph [
     step 0
     date "2020-12-17T19:00:03Z"
     title "HOW TO DRAW A PEACOCK EASY STEP BY STEP"
-    description "HOW TO DRAW A PEACOCK EASY STEP BY STEP Drawing and coloring, draw, coloring, how to draw, kawaii drawings, pencil ..."
+    description "HOW TO DRAW A PEACOCK EASY STEP BY STEP&#10;Drawing and coloring, draw, coloring, how to draw, kawaii drawings, pencil sketch, drawings tumblr, painting, drawing class, how to draw step by step, how to draw easy, drawing outline, sketch drawing, easy drawing, scenery drawing, learn to draw, como dibujar, dibujar, dibujos kawaii, desenhar, como desenhar, desenhos para desenhar, desenhar, desenhos tumblr, desenhos kawaii, dessin kawaii, Como Desenhar, aula de desenho, tutorial,&#10;Desenhando, fazer desenho,&#10;How to Draw, DRAWINGS TUMBLR,&#10;passo a passo, aprender a desenhar,&#10; how to draw easy stuff, easy stuff"
     channel_title "Learn step by step"
     channel_id "UCm5rnY9Iye5Eq_Nq2Y42T-g"
     fav_count 0
@@ -5616,7 +5616,7 @@ graph [
     step 0
     date "2022-02-04T11:00:02Z"
     title "How to Draw Numbers in 3D? - Learn to Write 3D Numbers - Trick Art"
-    description "Writing small 3D numbers from 1 to 9. Learn to write 3D numbers. Trick Art. 3D write numbers on line paper. How to draw numbers ..."
+    description "Writing small 3D numbers from 1 to 9. Learn to write 3D numbers.&#10;Trick Art. 3D write numbers on line paper. How to draw numbers in 3D?&#10;Calligraphic 3D Art.&#10;&#10;-----------------------------&#10;Material used:&#10;Paper: lined paper.&#10;Graphite pencil.&#10;0,7mm Free Ink Roller pen.&#10;---------------------------------&#10;Music:&#10; Island Dream - Chris Haugen.&#10;YouTube Audio Library.&#10;-------------------------------&#10;&#10;By Sandor Vamos. I'm Hungarian.&#10;Copyright &#169; New video 2022. Vamos. All rights reserved.&#10;@VamossART Drawing &#10;#Drawing #Art #HowToDraw"
     channel_title "VamossART"
     channel_id "UChJX37Qpc8U-xQDmm4DcGyA"
     fav_count 0
@@ -5631,7 +5631,7 @@ graph [
     step 0
     date "2022-06-18T12:00:39Z"
     title "How to draw a groom with a rose and a bride | Cara menggambar Pengantin untuk anak-anak"
-    description "How to draw a groom with a rose and a bride | Cara menggambar Pengantin untuk anak-anak|C&#243;mo dibujar para los ni&#241;os la ..."
+    description "How to draw a groom with a rose and a bride | Cara menggambar Pengantin untuk anak-anak|C&#243;mo dibujar para los ni&#241;os la novia y el novio&#10;&#10;#&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasmchizish, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1099;&#1087;&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #drawdolls, #bolalaruchunrasmchizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081;, #drawingforchildren, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090;, # #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1199;&#1095;&#1199;&#1085;&#1089;&#1199;&#1088;&#1257;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklari&#231;in&#231;izim, #dessinpourenfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289;&#10;#Draw, #drawing, #drawpicture, #picture, #drawpicture, #drawdolls, #drawtoys, #drawtoys, #drawdolls, #drawpictureozbek, #drawpictureozbek, #cuteDraws, #cutedraws,&#10;#&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasm #chizish, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1099;&#1087; #&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #&#1199;&#1081;&#1076;&#1110;&#1187; #&#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; #&#1089;&#1072;&#1083;&#1091;, #bolalar #uchun #rasm #chizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; #&#1076;&#1083;&#1103; #&#1076;&#1077;&#1090;&#1077;&#1081;, #drawing #for #children, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072; #&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085; #&#1089;&#1091;&#1088;&#1077;&#1090;, # #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088; #&#1199;&#1095;&#1199;&#1085; #&#1089;&#1199;&#1088;&#1257;&#1090; #&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;#&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklar #i&#231;in #&#231;izim, #dessin #pour #enfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289;&#10;#Draw, #drawing, #drawpicture, #picture, #draw #picture, #draw #dolls, #draw #toys, #drawtoys, #drawdolls, #drawpictureozbek, #draw #picture #ozbek, #cute Draws, #cute draws, #FunKeepArt, #BeTaiNangTV, #ToBiART"
     channel_title "Joy of art"
     channel_id "UCpHawaV1Z1-aOxsjoG1c8wQ"
     fav_count 0
@@ -5646,7 +5646,7 @@ graph [
     step 0
     date "2022-07-11T07:29:26Z"
     title "How to draw a mermaid for kids ? &#191;C&#243;mo dibujar una sirena para ni&#241;os? &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1581;&#1608;&#1585;&#1610;&#1577; &#1575;&#1604;&#1576;&#1581;&#1585; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604;&#1567;"
-    description "How to draw a mermaid for kids ? &#191;C&#243;mo dibujar una sirena para ni&#241;os? &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1581;&#1608;&#1585;&#1610;&#1577; &#1575;&#1604;&#1576;&#1581;&#1585; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604;&#1567; Super Easy Drawings ..."
+    description "How to draw a mermaid for kids ? &#191;C&#243;mo dibujar una sirena para ni&#241;os? &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1581;&#1608;&#1585;&#1610;&#1577; &#1575;&#1604;&#1576;&#1581;&#1585; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604;&#1567;&#10;&#10;Super Easy Drawings, Simple Drawings , Easy Drawing , Kids Drawings , Drawing Tutorial, Baby Shark Drawing, Unicorn, Unicorn Drawing, Unicorn Cake Drawing Easy, Unicorn Draw, Cute Unicorn Cake, 2021,  Easy Unicorn drawing, Step by step drawing, Super Simple Drawing, Drawing for Kids, How to Draw Unicorn Easy, Hello Kitty Drawing, Cute Animal Drawings, Cartoon Character Drawings, Kawaii Drawings, Chibi Drawing, Panda Drawing, Easy Drawings &#38; Coloring, Disney Drawings, Cute House Drawing, Cartoon Drawings, SpongeBob Drawing, Princess Drawings, Frozen drawing, Dessert Drawings, Fun Drawings, Sweet drawings, Marvel Superheroes Drawing, Among Us Drawing and much more. 2022&#10;&#10;&#10;drawing for kids , painting for kids , draw a picture , learning to draw , paint a picture , drawing videos , painting videos | bolalar uchun rasm chizish , bolalar uchun rasm chizish ,&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1099;&#1087; &#1091;&#1081;&#1088;&#1077;&#1085;&#1091; , rasm chizish , chizishni o'rganish , rasm chizishni o'rganish , videolarni chizish, videolarni bo'yash | &#231;ocuklar i&#231;in &#231;izim , &#231;ocuklar i&#231;in boyama , resim &#231;izmek , &#231;izmeyi &#246;&#287;renmek , resim boyama , &#231;izim videolar&#305; , boyama videolar&#305; | &#10;Zeichnen f&#252;r Kinder , Malen f&#252;r Kinder , Zeichnen eines Bildes , Zeichnen lernen , Malen eines Bildes ,Videos zeichnen , Videos malen |&#10;&#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; &#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; | &#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; &#1076;&#1083;&#1103; &#1076;&#1077;&#1090;&#1077;&#1081;, &#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; &#1076;&#1083;&#1103; &#1076;&#1077;&#1090;&#1077;&#1081; | desenho para crian&#231;as , pintura para crian&#231;as , para crian&#231;as | &#2348;&#2330;&#2381;&#2330;&#2379;&#2306; &#2325;&#2375; &#2354;&#2367;&#2319; &#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327;, &#2348;&#2330;&#2381;&#2330;&#2379;&#2306; &#2325;&#2375; &#2354;&#2367;&#2319; &#2346;&#2375;&#2306;&#2335;&#2367;&#2306;&#2327; |  #Drawapicture, #drawapicture, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasmchizish, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1099;&#1087;&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #drawdolls, #bolalaruchunrasmchizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081;, #drawingforchildren, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090;, #&#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1199;&#1095;&#1199;&#1085;&#1089;&#1199;&#1088;&#1257;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklari&#231;in&#231;izim, #dessinpourenfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289; #Draw, #drawing, #drawpicture, #picture, #FunKeepArt, #BeTaiNangTV, #ToBiART , #drawpicture, #drawdolls, #drawtoys, #drawtoys, #drawdolls, #drawpictureozbek, #drawpictureozbek, #cuteDraws, #cutedraws, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasm #chizish, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1099;&#1087; #&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #&#1199;&#1081;&#1076;&#1110;&#1187; #&#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; #&#1089;&#1072;&#1083;&#1091;, #bolalar #uchun #rasm #chizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; #&#1076;&#1083;&#1103; #&#1076;&#1077;&#1090;&#1077;&#1081;, #drawing #for #children, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072; #&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085; #&#1089;&#1091;&#1088;&#1077;&#1090;, #&#1575;&#1604;&#1585;&#1587;&#1605; #&#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604;#&#1548; #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088; #&#1199;&#1095;&#1199;&#1085; #&#1089;&#1199;&#1088;&#1257;&#1090; #&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;#&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklar #i&#231;in #&#231;izim, #dessin #pour #enfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289; #Draw, #drawing, #drawpicture, #picture, #draw #picture, #draw #dolls, #draw #toys, #drawtoys, #drawdolls, FunKeepArt, BeTaiNangTV, ToBiART, bolalaruchunrasmchizish, &#10;&#1575;&#1604;&#1585;&#1587;&#1605; &#1604;&#1604;&#1571;&#1591;&#1601;&#1575;&#1604; &#1548; &#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1199;&#1095;&#1199;&#1085;&#1089;&#1199;&#1088;&#1257;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, &#50500;&#51060;&#46308;&#51012;&#50948;&#54620; &#44536;&#47548;, &#231;ocuklari&#231;in&#231;izim, &#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081; , drawingforchildren , &#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090; , &#1199;&#1081;&#1076;&#1110;&#1187; &#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; &#1089;&#1072;&#1083;&#1091; , drawpictureozbek , &#1089;&#1091;&#1088;&#1077;&#1090; &#1073;&#1086;&#1103;&#1091; , bolalar uchun rasm chizish , rasm chizish , &#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1099;&#1087; &#1091;&#1081;&#1088;&#1077;&#1085;&#1091; , cute draws , &#1199;&#1081;&#1076;&#1110;&#1187; &#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; &#1089;&#1072;&#1083;&#1091;&#10;&#10;&#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1099;&#1087; &#1091;&#1081;&#1088;&#1077;&#1085;&#1091;&#10;how to draw step by step easy drawing tutorial&#10;como desenhar passo a passo tutorial desenho simples f&#225;cil&#10;como dibujar paso a paso tutorial dibujo simple y f&#225;cil&#10;comment dessiner pas &#224; pas tutoriel dessin facile&#10;come disegnare passo dopo passo tutorial disegno facile&#10;wie zeichnet man zeichen tutorial leicht&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605;&#10;hoe om te teken&#10;si te vizatosh&#10;&#4773;&#4757;&#4852;&#4725; &#4773;&#4757;&#4848;&#4634;&#4659;&#4621;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#10;&#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1398;&#1391;&#1377;&#1408;&#1381;&#1388;&#10;nec&#601; &#231;&#601;km&#601;k&#10;nola marraztu&#10;&#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;&#10;&#1103;&#1082; &#1084;&#1072;&#1083;&#1103;&#1074;&#1072;&#1094;&#1100;&#10;kako crtati&#10;&#1082;&#1072;&#1082; &#1076;&#1072; &#1088;&#1080;&#1089;&#1091;&#1074;&#1072;&#1084;&#10;&#3257;&#3271;&#3223;&#3270; &#3256;&#3270;&#3251;&#3270;&#3247;&#3265;&#3253;&#3265;&#3238;&#3265;&#10;com dibuixar&#10;&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;sa unsa nga paagi aron sa pagkalos&#10;mmene kudzatunga&#10;&#22914;&#20309;&#30011;&#10;&#22914;&#20309;&#30059;&#10;nzira yekukwevera&#10;&#3482;&#3548;&#3524;&#3548;&#3512;&#3503; &#3461;&#3507;&#3538;&#3505;&#3530;&#3505;&#3546;&#10;&#44536;&#47532;&#45716; &#48169;&#48277;&#10;cumu a girari&#10;ki jan yo desine&#10;kako nacrtati&#10;&#231;awa bikujin&#10;hvordan man tegner&#10;ako kresli&#357;&#10;kako narisati &#10;Kiel desegni&#10;kuidas joonistada&#10;Paano Gumuhit&#10;kuinka piirt&#228;&#228;&#10;Hoe te tekenjen&#10;mar a tharraing thu&#10;como dese&#241;ar&#10;sut i dynnu&#10;&#4320;&#4317;&#4306;&#4317;&#4320; &#4307;&#4304;&#4309;&#4334;&#4304;&#4322;&#4317;&#4311;&#10;&#960;&#969;&#962; &#957;&#945; &#950;&#969;&#947;&#961;&#945;&#966;&#943;&#963;&#969;&#10;&#2709;&#2695; &#2736;&#2752;&#2724;&#2759; &#2726;&#2763;&#2736;&#2741;&#2753;&#10;yadda za a zana&#10;pehea e huki ai&#10;&#1488;&#1497;&#1498; &#1500;&#1510;&#1497;&#1497;&#1512;&#10;&#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;&#10;kos duab li cas&#10;hoe te tekenen&#10;hogyan rajzolj&#10;esi ise&#10;&#1493;&#1493;&#1497; &#1510;&#1493; &#1510;&#1497;&#1506;&#1503;&#10;cara menggambar&#10;bi o &#7779;e fa&#10;conas a tharraingt&#10;hvernig &#225; a&#240; teikna&#10;&#25551;&#12367;&#26041;&#27861;&#10;cara nggambar&#10;&#6042;&#6036;&#6080;&#6036;&#6018;&#6076;&#6042;&#10;&#3751;&#3764;&#3735;&#3765;&#3713;&#3762;&#3737;&#3777;&#3733;&#3785;&#3745;&#10;duci&#10;k&#257; z&#299;m&#275;t&#10;kaip pie&#353;ti&#10;w&#233;i zeechnen&#10;&#1082;&#1072;&#1082;&#1086; &#1076;&#1072; &#1094;&#1088;&#1090;&#1072;&#1096;&#10;&#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3381;&#3376;&#3375;&#3405;&#3349;&#3405;&#3349;&#3363;&#3330;&#10;bagaimana untuk menarik&#10;ahoana no hisintonana&#10;kif tfassal&#10;me pehea ki te utu&#10;&#2325;&#2360;&#2375; &#2325;&#2366;&#2338;&#2366;&#2357;&#2375;&#10;&#1093;&#1101;&#1088;&#1093;&#1101;&#1085; &#1079;&#1091;&#1088;&#1072;&#1093;&#10;&#2325;&#2360;&#2352;&#2368; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2327;&#2352;&#2381;&#2344;&#2375;&#10;hvordan &#229; tegne&#10;&#1669;&#1606;&#1707;&#1607; &#1585;&#1587;&#1605;&#10;&#1670;&#1591;&#1608;&#1585;&#1740; &#1591;&#1585;&#1575;&#1581;&#1740; &#1705;&#1606;&#1740;&#1605;&#10;jak narysowa&#263;&#10;&#2581;&#2623;&#2613;&#2631;&#2562; &#2582;&#2623;&#2673;&#2586;&#2595;&#2622; &#2617;&#2632;&#10;&#1082;&#1072;&#1085;&#1090;&#1080;&#1087; &#1090;&#1072;&#1088;&#1090;&#1072;&#1090;&#10;cum s&#259; atrag&#259;&#10;&#1082;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;&#10;le auala e faalatalata&#10;&#1050;&#1072;&#1082;&#1086; &#1094;&#1088;&#1090;&#1072;&#1090;&#1080;&#10;ho hohela joang&#10;&#1706;&#1574;&#1610;&#1606; &#1658;&#1575;&#1607;&#1610;&#1608;&#10;sida loo sawiro&#10;jinsi ya kuteka&#10;hur man ritar&#10;kumaha carana menggambar&#10;&#1095;&#1251; &#1090;&#1072;&#1074;&#1088; &#1073;&#1072; &#1082;&#1072;&#1096;&#1080;&#1076;&#1072;&#1085;&#1080;&#10;&#3623;&#3634;&#3604;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;&#10;&#2997;&#2992;&#3016;&#2997;&#2980;&#3009; &#2958;&#2986;&#3021;&#2986;&#2975;&#3007;&#10;jak kreslit&#10;&#3086;&#3122;&#3134; &#3095;&#3136;&#3119;&#3134;&#3122;&#3135;&#10;nas&#305;l &#231;izilir&#10;&#1103;&#1082; &#1085;&#1072;&#1084;&#1072;&#1083;&#1102;&#1074;&#1072;&#1090;&#1080;&#10;&#1705;&#1729; &#1705;&#1587; &#1591;&#1585;&#1581; &#1575;&#1662;&#1606;&#1740; &#1591;&#1585;&#1601; &#1605;&#1578;&#1608;&#1580;&#1729; &#1705;&#1585;&#1606;&#1746; &#1705;&#1746; &#1604;&#1574;&#1746;"
     channel_title "ART FOR KIDS TV"
     channel_id "UCZkMKAhKNOExB-rchsaRmkA"
     fav_count 0
@@ -5661,7 +5661,7 @@ graph [
     step 0
     date "2021-08-05T14:10:01Z"
     title "How to Draw a Girl in the Forest / Olive Green Acrylic Painting"
-    description "How to paint with acrylic / Painting Techniques - JayLee - --------------------------------------------------- &#10070; Channel Membership : Please ..."
+    description "How to paint with acrylic / Painting Techniques - JayLee -&#10;---------------------------------------------------&#10;&#10070; Channel Membership : &#10;Please become a member of my channel. You can buy me a cup of coffee, and push me to create more videos.&#10;---------------------------------------------------&#10;Jay Lee is a painting youtuber. He paints beautiful world on the canvas, and share videos for you and everyone. Put Jay's painting in your space, and make world beautiful.&#10;&#10070; Jay Lee Store : &#10;https://teespring.com/stores/jayartpainting&#10;&#10070; Patreon : https://www.patreon.com/jayartpainting&#10;&#10070; PayPal Donation : paypal.me/jayartpainting&#10;---------------------------------------------------&#10;Jay Lee&#45716; &#54620;&#44397;&#51064; &#44536;&#47548; &#50976;&#53916;&#48260; &#51077;&#45768;&#45796;. &#52884;&#48260;&#49828;&#50640; &#44536;&#47548;&#51012; &#44536;&#47532;&#44256; &#50689;&#49345;&#51004;&#47196; &#47564;&#46308;&#50612; &#49324;&#46988;&#46308;&#50640;&#44172; &#44277;&#50976;&#54633;&#45768;&#45796;. &#52572;&#44540;&#50640; &#54620;&#44397;&#51064;&#48516;&#46308; &#50976;&#51077;&#51060; &#47566;&#50500;&#51256;&#49436; &#44592;&#48516;&#51060; &#51339;&#45348;&#50836;. &#44048;&#49324;&#54633;&#45768;&#45796;. &#10;&#50668;&#47084;&#48516;&#51032; &#44277;&#44036;&#50640; Jay&#51032; &#44536;&#47548;&#51012; &#45459;&#50500; &#50500;&#47492;&#45813;&#44172; &#47564;&#46308;&#50612;&#48372;&#49464;&#50836;.&#10;Jay Lee &#26159;&#20303;&#22312;&#21488;&#28771;&#30340;&#38867;&#22283;&#20154;&#65292;&#19968;&#20301;&#30059;&#30059;&#30340;YouTuber&#12290;&#22312;&#30059;&#24067;&#19978;&#32362;&#35069;&#32654;&#40599;&#30340;&#19990;&#30028;&#65292;&#20006;&#29992;&#24433;&#29255;&#30340;&#26041;&#24335;&#20998;&#20139;&#32102;&#22823;&#23478;&#12290;&#25226;Jay&#30340;&#30059;&#25918;&#22312;&#20320;&#30340;&#31354;&#38291;&#35041;&#65292;&#35731;&#19990;&#30028;&#26356;&#32654;&#40599;&#12290;&#10;&#10070; Jay Lee Store : &#10;https://teespring.com/stores/jayartpainting&#10;---------------------------------------------------&#10;&#10070; Music&#10;Meditation Impromptu by Kevin MacLeod &#10;http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100161&#10;http://incompetech.com/&#10;---------------------------------------------------&#10;&#10070; Contacts&#10;E-mail : tkstoryman@hotmail.com&#10;........................................................"
     channel_title "Jay Lee Painting"
     channel_id "UCHm9SiOLG8UoBT8STWY5mVA"
     fav_count 0
@@ -5676,7 +5676,7 @@ graph [
     step 0
     date "2018-11-09T12:11:02Z"
     title "How to Draw/Color Anime Eyes | Real time Coloring tutorial"
-    description "Hello guys back again with as u asked for a real time coloring tutorial How To draw Anime Eyes/How to Color Anime Eyes Tools: ..."
+    description "Hello guys back again with as u asked for a real time coloring tutorial &#10;&#10;How To draw Anime Eyes/How to Color Anime Eyes&#10;&#10;Tools: Faber castell classics &#10;            Faber castell polychromos&#10;&#10;watch the full drawing :&#10;https://youtu.be/wsIZ5UIgzUM&#10;&#10;&#10;Camera : Blackberry Z10&#10;&#10;Adobe premiere pro cc&#10;&#10;-----------------------------------------------------------------&#10;&#10;dont forget to comment ,like and share guys ;)  and rate hows my drawing and if u have any question or tips anything ask me in comment section thank y guys :)&#10;&#10;follow me on &#10;Facebook :https://www.facebook.com/kaiums.art&#10;&#10;Instagram : https://www.instagram.com/the_shinigami_artist/&#10;&#10;Twitter :     https://twitter.com/abdulkaium24&#10;&#10; -----------------------------------------------------------&#10;Music :&#10;&#127926;Track 1Track: Alex Skrindo &#38; Miza - Thinkin' [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/CkC5igeV_tM&#10;Free Download / Stream: http://ncs.io/ThinkinYO&#10;&#10;Track 2 :Kadenza - Harpuia [NCS Release]&#10;watch : https://www.youtube.com/watch?v=f0J2lyVy9_8&#10;https://www.youtube.com/watch?v=f0J2lyVy9_8&#10;&#10;Track 3 Itro &#38; Kontinuum - Alive [NCS Release]&#10;watch : https://www.youtube.com/watch?v=-xKKo7t72Tg&#10;Free Download / Stream: http://ncs.io/alive"
     channel_title "Shinigami Arts"
     channel_id "UCKOjp24BNTkttoa9pzftI3g"
     fav_count 0
@@ -5691,7 +5691,7 @@ graph [
     step 0
     date "2022-07-05T11:45:02Z"
     title "A for apple and c for cat | how to draw cat easy step by step for kids | Alphabet drawing for kids"
-    description "Hello This is vinu kids channel. Today let's learn how to draw c for cat cute drawing and coloring page for kids. Let's have fun ..."
+    description "Hello &#10;This is vinu kids channel. Today let's learn how to draw c for cat cute drawing and coloring page for kids.&#10;Let's have fun studying by drawing colouring with a colour pen .&#10;&#10;&#10;We upload education video for toddlers and kids and children. Such as abcd alphabet | counting numbers | drawing kids | coloring | hindi ginti&#10;&#10;Thanks for watching Like share subscribe.&#10;&#10;#cforcat&#10;#catdrawing"
     channel_title "Vinu Kids"
     channel_id "UCJEF88_W24PE2oQleNchQ_Q"
     fav_count 0
@@ -5706,7 +5706,7 @@ graph [
     step 0
     date "2021-03-17T11:36:43Z"
     title "How to Draw a Cute Zebra Step by Step? - Drawing &#38;amp; Coloring Lessons with ChuChu - ChuChu TV"
-    description "To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!"
+    description "To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS&#10;.&#10;.&#10;. How to Draw a Cute Zebra Step by Step? - Drawing &#38; Coloring Lessons with ChuChu - ChuChu TV"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -5721,7 +5721,7 @@ graph [
     step 0
     date "2022-07-08T07:30:04Z"
     title "easy peacock rangoli desgns with 5*3 dots made easy to draw for compititions|latest peacock kolams"
-    description "hi friends my name is sarojamma and welcome to my youtube channel village talent rangoli my channel is helpful to draw all types ..."
+    description "hi friends&#10;my name is sarojamma and welcome to my youtube channel village talent rangoli&#10;my channel is helpful to draw all types of SMALL RANGOLI or KOLAMS designs like SIMPLE RANGOLI,DAILY RANGOLI,LATEST MUGGULU,RANGOLI KOLANGAL,PULLI KOLANGAL and manymore&#10;here also you find festival rangoli,rangoli muggulu,kolam rangoli,rangoli kolangal,dhanurmasam muggulu,sankranthi muggulu,border design,rangoli diwali or deepavali sankranthi or pongal margazi,(vinayaka chavathi),sivarathri,ugadi&#10;all the KOLAMS(RANGOLI) are draw very simple step by step with colour.hence it is very easy to redraw the RANGOLIS AND MUGGULU&#10;I feel so great to draw our traditional RANGOLIS,MUGGULU,KOLAMS MADE EASY TO EVERYONE&#10;Please subscribe to my channel village talent rangoli for intertacting with you please leave your comment for grow my youtube channel&#10;easy peacock rangoli desgns with 5*3 dots made easy to draw for compititions|latest peacock kolams &#10;channel tags; &#10;5 pulli kolangal,rangoli kolam,muggulu designs,bhogi muggulu,&#10;small rangoli design,chukkala muggulu,kolam with dots,easykolangal color kolams,peacock rangoli,new kolams,daily rangoli,free hand rangoli,latest rangoli with dots,easy rangoli designs,big rangoli,parrot kolams,small kolam designs,how to draw rangoli,festival rangoli,rangoli muggulu,kolam rangoli,rangoli kolangal,dhanurmasam muggulu,sankranthi muggulu,border design,rangoli for diwali,&#10;village talent rangoli,kolam,rangoli,muggulu,rangoli designs,mugulu,kolam designs,villag talent rangoli designs,rangoli kolam,muggulu designs,kolangal,peacock rangoli designs,kolangal,flower rangoli kolangal,peacock kolam,flower rangoli designs,mayil kolam,lotus rangoli designs,"
     channel_title "village talent rangoli"
     channel_id "UCuW2ukklff7wSJzJQMxB5zg"
     fav_count 0
@@ -5736,7 +5736,7 @@ graph [
     step 0
     date "2020-06-30T13:30:11Z"
     title "How to draw a girl with beautiful dress | Clothes Style | Fashion drawing | Clothes style design"
-    description "Facbook : https://www.facebook.com/camstyleart/ instagram : https://www.instagram.com/camstyles1/ Youtube ..."
+    description "Facbook : https://www.facebook.com/camstyleart/&#10;instagram : https://www.instagram.com/camstyles1/&#10;Youtube : https://www.youtube.com/channel/UC9cJS2L6vSpyVkqanE-m4vA/videos?sub_confirmation=1&#10;&#10;Welcome to my  CAM STYLES video! I make drawing video that are easy to understand and apply. So whether you're a beginner or seasoned artist, you can still follow along. As a person who struggled all throughout elementary and high school, I like to explore more effective ways of drawing. That's why I strive to create drawing videos that work for everyone!&#10;&#10;&#10;I hope you enjoy this video. Please share the video on your social media so that you can help me grow my channel.&#10;&#10070; Support me reach 1000k subs&#128158;&#10;&#10070; In this video is How to draw a girl with beautiful dress | Clothes Style | Fashion drawing | Clothes style design &#10;&#10070; Please don't forget to subscribe my YouTube channel &#38; activate the bell &#128276; so as not to miss the next videos.&#10;&#10;&#128276; Please leave a comment to let me know what kind of drawing you would like to see next.&#10;&#10;Thank you for your support and have a great day!&#10;&#10;Music Background&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Song: Vinsand - All Mine&#10;Link: https://youtu.be/QpwrrLagS1E&#10;Music promoted by FreeMusicWave.&#10;&#10;2. Song: Ellis - Clear My Head No&#10;Music promoted by Housefactory No Copyright&#10;Video Link: https://youtu.be/_x4Nrz3A3V0&#10;&#10;3. Song: Zero Venture - Point Of View (feat. Cadence XYZ) &#10;Link: https://youtu.be/EnarUjBnLXw&#10;Music promoted by FMW. Released by Mind Resurgence.&#10;&#10;4. Track: Young - Giulio Cercato [NCM Release]&#10;Music provided by NoCopyrightMusic https://www.youtube.com/channel/UCtlN...&#10;Watch: https://youtu.be/wjB4PNsVo7o&#10;&#10;5. Song: Sad Puppy - Flamakae Baby&#10;Link: https://youtu.be/xLUcXrYcILA&#10;Music promoted by FreeMusicWave."
     channel_title "CAM STYLES"
     channel_id "UC9cJS2L6vSpyVkqanE-m4vA"
     fav_count 0
@@ -5751,7 +5751,7 @@ graph [
     step 0
     date "2017-01-10T17:42:36Z"
     title "How to draw spectacles with Number zero I| How to draw gagools easily ,@how to draw step by step"
-    description "howtodrawstepbystep #drawingwithnumbers #stilllife."
+    description "#howtodrawstepbystep #drawingwithnumbers #stilllife"
     channel_title "how to draw step by step"
     channel_id "UC--x-s6OUUmuqGBoXpx5N9A"
     fav_count 0
@@ -5766,7 +5766,7 @@ graph [
     step 0
     date "2013-08-05T17:47:32Z"
     title "PF6 Lewis Structure: How to Draw the Lewis Structure for Hexafluorophosphate"
-    description "A step-by-step explanation of how to draw the PF6 - Lewis Dot Structure (Hexafluorophosphate ion). For the PF6 - structure use ..."
+    description "A step-by-step explanation of how to draw the PF6 - Lewis Dot Structure (Hexafluorophosphate ion).&#10;&#10;For the PF6 - structure use the periodic table to find the total number of valence electrons for the PF6 - molecule. Once we know how many valence electrons there are in PF6 - we can distribute them around the central atom with the goal of filling the outer shells of each atom.&#10;&#10;In the Lewis structure of PF6 - structure there are a total of 48 valence electrons. PF6 - is also called Hexafluorophosphate ion.&#10;&#10;Note that PF6 - can have an Expanded Octet and have more than eight valence electrons. Because of this there may be several possible Lewis Structures. To arrive at the most favorable Lewis Structure we need to consider formal charges. See how to calculate formal charges: https://www.youtube.com/watch?v=vOFAPlq4y_k&#10;&#10;Also note that you should put the PF6 Lewis structure in brackets with as 1- on the outside to show that it is an ion with a negative one charge.&#10;&#10;----- Steps to Write Lewis Structure for compounds like PF6 - ------&#10;1. Find the total valence electrons for the PF6 - molecule.&#10;2. Put the least electronegative atom in the center. Note: Hydrogen (H) always goes outside.&#10;3. Put two electrons between atoms to form a chemical bond.&#10;4. Complete octets on outside atoms.&#10;5. If central atom does not have an octet, move electrons from outer atoms to form double or triple bonds.&#10;&#10;----- Lewis Resources -----&#10;&#8226; Lewis Structures Made Simple: https://youtu.be/1ZlnzyHahvo&#10;&#8226; More practice: https://youtu.be/DQclmBeIKTc&#10;&#8226; Counting Valence Electrons: https://youtu.be/VBp7mKdcrDk&#10;&#8226; Calculating Formal Charge: https://youtu.be/vOFAPlq4y_k&#10;&#8226; Exceptions to the Octet Rule: https://youtu.be/Dkj-SMBLQzM&#10;&#10;Lewis Structures, also called Electron Dot Structures, are important to learn because they help us understand how atoms and electrons are arranged in a molecule, such as Hexafluorophosphate ion. This can help us determine the molecular geometry, how the molecule might react with other molecules, and some of the physical properties of the molecule (like boiling point and surface tension).&#10;&#10;Chemistry help at https://www.Breslyn.org"
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -5781,7 +5781,7 @@ graph [
     step 0
     date "2021-01-12T21:49:11Z"
     title "How to Draw the Lewis Dot Structure for CH4: Methane"
-    description "A step-by-step explanation of how to draw the CH4 Lewis Dot Structure (Methane). For the CH4 structure use the periodic table to ..."
+    description "A step-by-step explanation of how to draw the CH4 Lewis Dot Structure (Methane).&#10;&#10;For the CH4 structure use the periodic table to find the total number of valence electrons for the CH4 molecule. Once we know how many valence electrons there are in CH4 we can distribute them around the central atom with the goal of filling the outer shells of each atom.&#10;&#10;In the Lewis structure of CH4 structure there are a total of 8 valence electrons. CH4 is also called Methane.&#10;&#10;----- Steps to Write Lewis Structure for compounds like CH4 -----&#10;&#10;1. Find the total valence electrons for the CH4 molecule.&#10;2. Put the least electronegative atom in the center. Note: Hydrogen (H) always goes outside.&#10;3. Put two electrons between atoms to form a chemical bond.&#10;4. Complete octets on outside atoms.&#10;5. If central atom does not have an octet, move electrons from outer atoms to form double or triple bonds.&#10;&#10;----- CH4 Information -----&#10;Name / Formula                Methane / CH4&#10;Valence Electrons              8&#10;Molecular Geometry         Tetrahedral, Bond Angles 109.5 &#176;&#13;&#10;Electron Geometry            Tetrahedral&#10;Polarity                                Non-Polar&#10;Hybridization on C             sp3&#10;&#10;----- Lewis Resources -----&#10;&#8226; Lewis Structures Made Simple: https://youtu.be/1ZlnzyHahvo&#10;&#8226; More practice: https://youtu.be/DQclmBeIKTc&#10;&#8226; Counting Valence Electrons: https://youtu.be/VBp7mKdcrDk&#10;&#8226; Calculating Formal Charge: https://youtu.be/vOFAPlq4y_k&#10;&#8226; Exceptions to the Octet Rule: https://youtu.be/Dkj-SMBLQzM&#10;&#8226; https://en.wikipedia.org/wiki/Methane&#10;&#8226; Preparation of Methane: https://youtu.be/tdFLvCTBJ0o&#10;&#10;Lewis Structures are important to learn because they help us understand how atoms and electrons are arranged in a molecule, such as Methane. This can help us determine the molecular geometry, how the molecule might react with other molecules, and some of the physical properties of the molecule (like boiling point and surface tension).&#10;&#10;Chemistry help at https://www.Breslyn.org"
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -5796,7 +5796,7 @@ graph [
     step 0
     date "2022-07-10T15:51:52Z"
     title "How to DRAW KNUCKLES from Sonic Boom ( step by step )"
-    description "howtodraw #knuckles #sonicboom #leagueofjoy Hi friends!! SUBSCRIBE: https://bit.ly/34oLDew In this video we will draw ..."
+    description "#howtodraw #knuckles #sonicboom #leagueofjoy&#10;&#10;Hi friends!!&#10;&#10;SUBSCRIBE: https://bit.ly/34oLDew&#10;&#10;In this video we will draw knuckles. The draw is inspired by the cartoon : &#34; Sonic Boom &#34;. Let's draw and color the drawing step by step. We love drawing, so watch our videos. We have several videos with characters from the Sonic the Hedgehog. Draw with us!&#10;&#10;Link &#34; How to DRAW KNUCKLES &#34; , &#34; How to DRAW KNUCKLES step by step &#34; , &#34; How to DRAW KNUCKLES easy &#34; , &#34; DRAWING KNUCKLES &#34; , &#34; DRAW KNUCKLES &#34; , &#34; How to DRAW KNUCKLES from Sonic Boom &#34; , &#34; How to DRAW KNUCKLES - Sonic Boom &#34; , &#34; How to DRAW KNUCKLES THE ECHIDNA &#34; , &#34; How to DRAW and COLOR KNUCKLES &#34; , &#34; How to DRAW SONIC BOOM CHARACTERS &#34; : https://youtu.be/8Tc69AHRxCU&#10;&#10;@League of Joy - How to Draw &#10;&#10;League of Joy&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;how to draw sonic the hedgehog &#10;sonic drawing&#10;sonic the hedgehog drawing&#10;how to draw sonic the hedgehog easy&#10;how to draw sonic easy&#10;how to draw sonic the hedgehog step by step easy&#10;how to draw sonic step by step easy&#10;how to draw sonic&#10;hedgehog drawing&#10;how to draw sonic hedgehog&#10;hoe om te teken&#10;si te vizatosh&#10;wie zeichnet man zeichen tutorial leicht&#10;&#4773;&#4757;&#4852;&#4725; &#4773;&#4757;&#4848;&#4634;&#4659;&#4621;&#10;&#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;&#10;&#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1398;&#1391;&#1377;&#1408;&#1381;&#1388;&#10;nec&#601; &#231;&#601;km&#601;k&#10;nola marraztu&#10;&#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;&#10;&#1103;&#1082; &#1084;&#1072;&#1083;&#1103;&#1074;&#1072;&#1094;&#1100;&#10;kako crtati&#10;&#1082;&#1072;&#1082; &#1076;&#1072; &#1088;&#1080;&#1089;&#1091;&#1074;&#1072;&#1084;&#10;&#3257;&#3271;&#3223;&#3270; &#3256;&#3270;&#3251;&#3270;&#3247;&#3265;&#3253;&#3265;&#3238;&#3265;&#10;com dibuixar&#10;&#1089;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091;&#10;sa unsa nga paagi aron sa pagkalos&#10;mmene kudzatunga&#10;&#22914;&#20309;&#30011;&#10;&#22914;&#20309;&#30059;&#10;nzira yekukwevera&#10;&#3482;&#3548;&#3524;&#3548;&#3512;&#3503; &#3461;&#3507;&#3538;&#3505;&#3530;&#3505;&#3546;&#10;&#44536;&#47532;&#45716; &#48169;&#48277;&#10;cumu a girari&#10;ki jan yo desine&#10;kako nacrtati&#10;&#231;awa bikujin&#10;hvordan man tegner&#10;ako kresli&#357;&#10;kako narisati &#10;Kiel desegni&#10;kuidas joonistada&#10;Paano Gumuhit&#10;kuinka piirt&#228;&#228;&#10;comment dessiner pas &#224; pas tutoriel dessin facile&#10;Hoe te tekenjen&#10;mar a tharraing thu&#10;como dese&#241;ar&#10;sut i dynnu&#10;&#4320;&#4317;&#4306;&#4317;&#4320; &#4307;&#4304;&#4309;&#4334;&#4304;&#4322;&#4317;&#4311;&#10;&#960;&#969;&#962; &#957;&#945; &#950;&#969;&#947;&#961;&#945;&#966;&#943;&#963;&#969;&#10;&#2709;&#2695; &#2736;&#2752;&#2724;&#2759; &#2726;&#2763;&#2736;&#2741;&#2753;&#10;yadda za a zana&#10;pehea e huki ai&#10;&#1488;&#1497;&#1498; &#1500;&#1510;&#1497;&#1497;&#1512;&#10;&#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;&#10;kos duab li cas&#10;hoe te tekenen&#10;hogyan rajzolj&#10;esi ise&#10;&#1493;&#1493;&#1497; &#1510;&#1493; &#1510;&#1497;&#1506;&#1503;&#10;cara menggambar&#10;how to draw step by step easy drawing tutorial&#10;bi o &#7779;e fa&#10;conas a tharraingt&#10;hvernig &#225; a&#240; teikna&#10;come disegnare passo dopo passo tutorial disegno facile&#10;&#25551;&#12367;&#26041;&#27861;&#10;cara nggambar&#10;&#6042;&#6036;&#6080;&#6036;&#6018;&#6076;&#6042;&#10;&#3751;&#3764;&#3735;&#3765;&#3713;&#3762;&#3737;&#3777;&#3733;&#3785;&#3745;&#10;duci&#10;k&#257; z&#299;m&#275;t&#10;kaip pie&#353;ti&#10;w&#233;i zeechnen&#10;&#1082;&#1072;&#1082;&#1086; &#1076;&#1072; &#1094;&#1088;&#1090;&#1072;&#1096;&#10;&#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3381;&#3376;&#3375;&#3405;&#3349;&#3405;&#3349;&#3363;&#3330;&#10;bagaimana untuk menarik&#10;ahoana no hisintonana&#10;kif tfassal&#10;me pehea ki te utu&#10;&#2325;&#2360;&#2375; &#2325;&#2366;&#2338;&#2366;&#2357;&#2375;&#10;&#1093;&#1101;&#1088;&#1093;&#1101;&#1085; &#1079;&#1091;&#1088;&#1072;&#1093;&#10;&#2325;&#2360;&#2352;&#2368; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2327;&#2352;&#2381;&#2344;&#2375;&#10;hvordan &#229; tegne&#10;&#1669;&#1606;&#1707;&#1607; &#1585;&#1587;&#1605;&#10;&#1670;&#1591;&#1608;&#1585;&#1740; &#1591;&#1585;&#1575;&#1581;&#1740; &#1705;&#1606;&#1740;&#1605;&#10;jak narysowa&#263;&#10;&#2581;&#2623;&#2613;&#2631;&#2562; &#2582;&#2623;&#2673;&#2586;&#2595;&#2622; &#2617;&#2632;&#10;&#1082;&#1072;&#1085;&#1090;&#1080;&#1087; &#1090;&#1072;&#1088;&#1090;&#1072;&#1090;&#10;cum s&#259; atrag&#259;&#10;&#1082;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100;&#10;le auala e faalatalata&#10;&#1050;&#1072;&#1082;&#1086; &#1094;&#1088;&#1090;&#1072;&#1090;&#1080;&#10;ho hohela joang&#10;&#1706;&#1574;&#1610;&#1606; &#1658;&#1575;&#1607;&#1610;&#1608;&#10;sida loo sawiro&#10;jinsi ya kuteka&#10;hur man ritar&#10;kumaha carana menggambar&#10;&#1095;&#1251; &#1090;&#1072;&#1074;&#1088; &#1073;&#1072; &#1082;&#1072;&#1096;&#1080;&#1076;&#1072;&#1085;&#1080;&#10;&#3623;&#3634;&#3604;&#3629;&#3618;&#3656;&#3634;&#3591;&#3652;&#3619;&#10;&#2997;&#2992;&#3016;&#2997;&#2980;&#3009; &#2958;&#2986;&#3021;&#2986;&#2975;&#3007;&#10;jak kreslit&#10;&#3086;&#3122;&#3134; &#3095;&#3136;&#3119;&#3134;&#3122;&#3135;&#10;nas&#305;l &#231;izilir&#10;&#1103;&#1082; &#1085;&#1072;&#1084;&#1072;&#1083;&#1102;&#1074;&#1072;&#1090;&#1080;&#10;&#1705;&#1729; &#1705;&#1587; &#1591;&#1585;&#1581; &#1575;&#1662;&#1606;&#1740; &#1591;&#1585;&#1601; &#1605;&#1578;&#1608;&#1580;&#1729; &#1705;&#1585;&#1606;&#1746; &#1705;&#1746; &#1604;&#1574;&#1746;&#10;qanday chizish kerak&#10;l&#224;m th&#7871; n&#224;o &#273;&#7875; v&#7869;&#10;indlela yokudweba&#10;indlela ukudweba"
     channel_title "League of Joy - How to Draw"
     channel_id "UCyR4yhSiCLGCxScsmlRMXqg"
     fav_count 0
@@ -5811,7 +5811,7 @@ graph [
     step 0
     date "2022-07-03T17:48:45Z"
     title "MAPPING BODY SQUISH &#38;amp; SKINDENTATION (How To Draw)"
-    description "How To Draw Anime squish and skindentation for simple Figure drawing How to draw anime manga tight clothes and straps basic ..."
+    description "How To Draw Anime squish and skindentation for simple Figure drawing How to draw anime manga tight clothes and straps basic shapes https://www.Patreon.com/mikeymegamega for mapping body surface and how to draw thick fat getting squeezed and bulging anatomy anime and manga materials and body parts getting grabbed and squeezed. V-Tuber and curvy poses looking squishy! This cute beginner How To make a character sheet mapping body curves Tutorial will look at the shape and measurements of the squishy parts of character design. #howtodraw #squish #grab - cara menggambar - Paano Gumuhit - como desenhar - como dibujar - &#25551;&#12365;&#26041; - &#44536;&#47532;&#45716; &#48169;&#48277; - &#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;,&#10;&#10;WORKSHEETS ON PATREON! https://www.patreon.com/mikeymegamega&#10;TWITCH DRAWING LIVE! https://www.twitch.tv/mikeymegamega&#10;FULL ART LIVESTREAM ARCHIVE! https://www.youtube.com/channel/UCfhWo8ONiKQhkQXARgoRepw&#10;&#10;&#10;&#10;---&#10;&#10;Music: Dan Henig - Arpy"
     channel_title "mikeymegamega"
     channel_id "UCOvvFK_EhrX9exQ-jkLPg8w"
     fav_count 0
@@ -5826,7 +5826,7 @@ graph [
     step 0
     date "2018-12-07T19:11:50Z"
     title "How to Draw the Lewis Dot Structure for CaI2: Calcium iodide"
-    description "A step-by-step explanation of how to draw the CaI2 Lewis Dot Structure. For CaI2 we have an ionic compound and we need to ..."
+    description "A step-by-step explanation of how to draw the CaI2 Lewis Dot Structure.&#10;&#10;For CaI2 we have an ionic compound and we need to take that into account when we draw the Lewis Structure. We&#8217;ll first draw the metal and put it in brackets with its charge on the outside (video: finding ionic charge: https://youtu.be/M22YQ1hHhEY).&#10;&#10;Next, we'll draw the Lewis Structure for the I- ion and add brackets. We put the two ions together to complete the Lewis structure for CaI2. Note that CaI2 is also called Calcium iodide.&#10;&#10;----- Lewis Resources -----&#10;&#8226; Lewis Structures for Ionic Compounds: https://youtu.be/2urppjeSfgA&#10;&#8226; Lewis Structures for Covalent Compounds: https://youtu.be/1ZlnzyHahvo&#10;&#8226; Counting Valence Electrons: https://youtu.be/VBp7mKdcrDk&#10;&#8226; Calculating Formal Charge: https://youtu.be/vOFAPlq4y_k&#10;&#8226; Exceptions to the Octet Rule: https://youtu.be/Dkj-SMBLQzM&#10;&#10;More chemistry help at https://www.Breslyn.org.&#10;&#10;Note that is it more common to draw Lewis Structures for covalent (molecular) compounds where valance electrons are shared. In the case of ionic compounds, where we have a metal bonded to a non-metal (or group of non-metals), the Lewis diagram represents a formula unit. Many of these formula units make up a crystal lattice. So when we talk about the structure for CaI2 we think of it together with other CaI2 formula units in a crystal (NaCl is a good example of this: https://en.wikipedia.org/wiki/Sodium_chloride).&#10;&#10;Drawing/writing done in InkScape. Screen capture done with Camtasia Studio 4.0. Done on a Dell Dimension laptop computer with a Wacom digital tablet (Bamboo)."
     channel_title "Wayne Breslyn"
     channel_id "UCaUF73YX-uQTGwDB20I3n3g"
     fav_count 0
@@ -5841,7 +5841,7 @@ graph [
     step 0
     date "2022-07-10T11:00:32Z"
     title "How to draw Shoes / &#1050;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100; &#1086;&#1073;&#1091;&#1074;&#1100; / &#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1072;&#1103;&#1179; &#1082;&#1080;&#1110;&#1084;"
-    description "How to draw Shoes / &#1050;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100; &#1086;&#1073;&#1091;&#1074;&#1100; / &#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1072;&#1103;&#1179; &#1082;&#1080;&#1110;&#1084; #draw #&#1089;&#1091;&#1088;&#1077;&#1090; #funkeepart."
+    description "How to draw Shoes / &#1050;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100; &#1086;&#1073;&#1091;&#1074;&#1100; / &#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1072;&#1103;&#1179; &#1082;&#1080;&#1110;&#1084;&#10;#draw #&#1089;&#1091;&#1088;&#1077;&#1090; #funkeepart"
     channel_title "QOSHAQAN"
     channel_id "UCdw__DXvtpcrh1cEaeijJZw"
     fav_count 0
@@ -5856,7 +5856,7 @@ graph [
     step 0
     date "2022-07-06T13:00:19Z"
     title "How To Draw Knuckles | Sonic 2 (Draw &#38;amp; Color)"
-    description "Welcome to the best Online Education Program for artists. Learn how to draw Knuckles from Sonic 2 with Cartooning Club How To ..."
+    description "Welcome to the best Online Education Program for artists. Learn how to draw Knuckles from Sonic 2 with Cartooning Club How To Draw. I'll teach you the simple method of drawing using easy to follow step by step instructions. If you're looking for some easy to follow homeschool programs or art lesson ideas then SUBSCRIBE for more daily drawing videos like this every single day! &#10;https://www.youtube.com/c/CartooningClubHowtoDraw&#10;&#10;Drop a request in the comments below to get it added to our list. Leave a LIKE if you enjoyed this video.&#10;&#10;The ARTIST SPOTLIGHT is coming! Share your artwork with me via email, Twitter or Instagram for a chance to have your art featured in an upcoming video. Subscribe and check out our Community feed for rules and updates. &#10084;&#65039;&#10;Art Supplies:&#10;Sharpie Markers: https://amzn.to/3JigPQY&#10;Bianyo Color Markers: https://amzn.to/3oyGWuQ&#10;&#10;Check out my Playlist below for more of your favourite characters.&#10;&#10;How to Draw Sonic Characters&#10;https://www.youtube.com/watch?v=ahHV2IypdUM&#38;list=PLktSUNu3rLlrUDY3JePad7EUCDfESvaj6&#10;&#10;Support this channel by becoming a member:&#10;https://www.youtube.com/channel/UC-biucJWhM8HwjsQ96uoIUw/join&#10;&#10;Your contribution helps pay for every single lesson we share. Everything from paper, Sharpies, color markers and even the electric bill helps keep our channel going. Thank you so much for your patronage.&#10;&#10;Whether you're homeschooling, virtual learning or taking some online classes our Cartooning Club channel has thousands of how to draw tutorials available for all artistic levels and age groups. Our online classes are designed to make even the most difficult subjects easy to follow.&#10;&#10;You can also help support my work by sharing this channel with your friends and tuning in each day for my daily tutorials. &#10;&#10;#howtodraw #cartooningclub #knuckles #sonic"
     channel_title "Cartooning Club How to Draw"
     channel_id "UC-biucJWhM8HwjsQ96uoIUw"
     fav_count 0
@@ -5871,7 +5871,7 @@ graph [
     step 0
     date "2021-10-21T06:00:11Z"
     title "A Boy with Mask Sketch for beginners | How to Draw a Boy | draw a boy hair | The Crazy Sketcher"
-    description "The Sketcher lovers. how are you i hope that you are fine and i am a also fine. dear friends i am a sketcher and artist. i make ..."
+    description "The Sketcher lovers. how are you i hope that you are fine and i am a also fine. dear friends i am a sketcher and artist. i make videos step by step for beginners. see you my vides and learn. &#10;&#10;A Boy with Mask Sketch for beginners | How to Draw a Boy | draw a boy hair | &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; | Side Face Drawing | Sketch | Pencil Sketch | Boy drawing | sketch | drawing | portrait drawing | easy drawing | The Crazy Sketcher&#10;&#10;&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1.Pencil Name :  9B ( MONO ART DRAWING PENCIL ) &#10;                        &#10;2. Cotton Buds &#10;(You can use    Tissue paper,   Paint/makeup brush   or cotton buds instead of this blending stump, etc&#10;&#10;#TheCrazySketcher&#10;#HowtoDraw&#10;#&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;#&#2354;&#2337;&#2364;&#2325;&#2368; &#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327;&#10;#girldrawing&#10;#BoyDrawing&#10;&#10;In this video you will learn to draw a sketch of a boy step by step with pencil. After watching this video you will be able to make a drawing if you have even small experience.&#10;&#10;Cover Topic :&#10;A Boy with Mask Sketch for beginners&#10;how to draw a boy for kids,&#10;how to draw a boy easy,&#10;how to draw a boy face,&#10;how to draw a boy and girl,&#10;how to draw a boy with mask,&#10;how to draw a boy sketch,&#10;how to draw a boy step by step,&#10;how to draw a boy anime,&#10;how to draw a boy with earphones,&#10;how to draw a boy easy for kids,&#10;a boy drawing,&#10;a boy drawing with mask,&#10;make a boy drawing,&#10;learn to draw&#10;#drawingtutorial&#10;&#2354;&#2337;&#2364;&#2325;&#2368; &#2337;&#2381;&#2352;&#2366;&#2311;&#2306;&#2327;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;,&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;Drawing Tutorial&#10;How to draw a boy&#10;draw boy&#10;A girl with beautiful hair&#10;beautiful hair&#10;a girl with a mask&#10;side face hairstyle&#10;Hidden face Girl drawing&#10;beautiful barbie drawing&#10;draw so cute&#10;step by step&#10;how to draw&#10;&#10;Social Media Accounts:&#10;Instagram i.d : https://www.instagram.com/Creative.Squad1/&#10;facebook I.d: Muhammad Asif Jamal&#10;&#10;Thanks For Watching And Subscribe for More Sketching Videos"
     channel_title "The Crazy Sketcher"
     channel_id "UCDBPogMgopD-bBKgeHLwquQ"
     fav_count 0
@@ -5916,7 +5916,7 @@ graph [
     step 0
     date "2022-06-12T13:02:13Z"
     title "How to draw a girl with School Bag (Back side) - step by step || Pencil sketch Tutorial || Art video"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name - DOMS ( ZOOM ULTIMATE DARK ) Pencil / 2B Pencil and 4B 2. Paper Name ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name -  DOMS ( ZOOM ULTIMATE DARK )  Pencil /  2B Pencil&#10;and  4B&#10;2. Paper Name -  Double A Offset paper&#10;3. Blending Stump &#10;(You can use  Paint brush, Tissue Paper or cotton buds instead of this blending stump)  &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;#PencilDrawing   #GirlDrawing  &#10;#DrawingTutorial &#10;&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -5931,7 +5931,7 @@ graph [
     step 0
     date "2022-02-23T07:47:40Z"
     title "How to Draw a Girl with Lehenga | drawing girl | How to Draw a Girl with Beautiful Traditional dress"
-    description "How to draw a girl with beautiful dress || pencil sketch for beginners || Girl with beautiful dress &#9726; Used Things 1:- Pencil Name ..."
+    description "How to draw a girl with beautiful dress || pencil sketch for beginners || Girl with beautiful dress&#10;&#10;&#9726; Used Things&#10;&#10;1:- Pencil Name - DOMS (Daddy's Princess) - X-TRa SUPER DARK&#10;&#10;2:- BLACK PENCIL NAME - (FABER CASTELL) Black Matt 1111&#10;&#10;3:- DRAWING BOOK NAME - (VIDHYARTHI NOTEBOOK)&#10;&#10;4:- Blending Stump&#10;&#10;Welcome to my channel &#128591;&#10;&#10;Name :- Niru usha singh&#10;&#10;My Other channel &#128071;&#10;&#10;1:- https://youtube.com/channel/UCgHyZ-Tdx2Jnzg0V0XtkCfA&#10;&#10;2:-https://youtube.com/channel/UCiC7BJ83RRfDgWNsZkOB&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;Drawing&#10;drawing girl&#10;Barbie drawing&#10;Doll drawing&#10;How to draw a girl&#10;girl drawing&#10;girls drawing&#10;lehenga drawing&#10;drawing drawing&#10;girl dress drawing&#10;lehenga girl drawing&#10;drawing Barbie&#10;girl easy drawing&#10;how to draw girl&#10;simple drawing of girl&#10;sketch drawing of girl&#10;art girl&#10;Barbie drawing easy&#10;drawing dress&#10;drawing for girls&#10;drawing girl easy&#10;drawing of a girl&#10;Barbie drawings&#10;barbie drawing&#10;design drawing&#10;doll drawing&#10;easy girl&#10;draw barbie&#10;drawing a girl&#10;drawing doll&#10;drawing doll girl&#10;drawing easy&#10;drawing girls&#10;drawing of girl&#10;drawings&#10;dress design drawing&#10;dress drawing&#10;fashion illustration drawing&#10;home drawing&#10;how to draw a gir&#10;modern girl drawing&#10;niru usha Singh arts&#10;saree girl drawing&#10;a girl&#10;art drawing pencil&#10;backside girl drawing&#10;Barbie drawing simple&#10;Barbie girl drawing&#10;Barbie sketch&#10;beautiful Barbie drawing&#10;cake drawing&#10;cute girl drawing&#10;doll drawing girl&#10;doll ku drawing&#10;draw a&#10;draw a girl&#10;draw dress design &#10;draw the girl&#10;drawing dress girl&#10;drawing easy girl&#10;drawing easy girl&#10;drawing easy girls&#10;drawing girl face easy&#10;drawing kaise banate hain&#10;drawing lehenga&#10;drawing mandala art&#10;drawing of Barbie&#10;drawing of girl easy&#10;drawing sketch&#10;dress drawing design&#10;dress drawing on a girl&#10;easy drawing for girls&#10;easy pencil drawing&#10;farjana drawing academy easy&#10;girl back drawing&#10;girl backside drawing easy&#10;girl drawing easy cute&#10;girl ki drawing&#10;girl lehenga drawing&#10;girl pencil drawing&#10;girl sketch&#10;girl backside drawing&#10;easy girls shading drawing&#10;girls sketch&#10;how to draw a girl with beautiful dress&#10;mandala art&#10;pencil drawing&#10;pencil drawing for girls&#10;pencil drawing girl face&#10;pencil drawing girl backside&#10;pencil drawing of girl farjana drawing academy&#10;simple drawing girl&#10;simple drawing Barbie&#10;simple drawings simple drawing&#10;sketch drawing girl&#10;sketch drawing with pencil&#10;sketch drawing girl&#10;sketch drawing with pencil&#10;sketch sketch sketch&#10;stylish girls drawing&#10;traditional drawing&#10;traditional dress&#10;traditional girl drawing&#10;traditional girl pencil drawing&#10;two girls drawing&#10;very easy drawing&#10;very very easy drawing&#10;&#10;Girl with Beautiful Lehenga || How to draw a Girl with Beautiful Traditional dress ||&#10;Girl Drawing || How to drawing a fashion Girl || Dress Design drawing model || Barbie drawing || Drawing&#10;How to draw a girl with umbrella step by step/Easy drawing for girls Step by step&#10;Easy realistic drawing/Easy pencil sketching easy two sisters drawing&#10;princess Dress drawing | Barbie Drawing | How to draw a Barbie Girl with beautiful dress Drawing&#10;How to draw a beautiful traditional Girl very easy | Saree drawing | Girl drawing | pencil sketch&#10;Multi - Coloured French Nail art&#10;How to draw a fashion girl | Girl Drawing | Dress Design drawing model | Barbie drawing | Drawings&#10;How to draw sri Mahalaxmi Devi drawing day 7&#10;A Girl with Beautiful Dress || How to draw a Girl with Beautiful Traditional Dress || Girl Dress&#10;How to Draw a girl beautiful girl Doing yoga Girl Drawing&#10;&#10;how to draw a girl&#10;drawing girl&#10;girls drawing&#10;drawing&#10;girl drawing&#10;barbie drawing&#10;niru usha Singh arts&#10;sketch&#10;doll drawing&#10;How to draw girls&#10;sketch drawing&#10;barbie doll drawing&#10;shading drawing&#10;sketches&#10;swing drawing&#10;drawing doll&#10;drawing drawing&#10;easy drawing for step by step&#10;farjana drawing academy&#10;pencil shading drawing&#10;shading drawing&#10;art girl&#10;barbie girl drawing&#10;beautiful girl art&#10;draw&#10;drawing drawing barbie&#10;drawing easy girl&#10;drawing of&#10;drawing pencil&#10;drawing sketch&#10;drawing for girls&#10;easy drawing girls&#10;girl art&#10;girl drawing easy&#10;how to draw a barbie doll&#10;how to draw a girl with beautiful dress&#10;How to draw dress design&#10;lehenga girl drawing&#10;mandala girl drawing&#10;mandala art girl dress&#10;pencil sketch&#10;a girl drawing&#10;art drawing pencil&#10;backside pencil&#10;barbie barbie drawing&#10;barbie drawing barbie drawing&#10;beautiful and easy drawings&#10;beautiful drawing&#10;beautiful girl drawing&#10;black pencil drawing&#10;cam styles&#10;circle drawing girl&#10;design girl&#10;doll drawing doll drawing&#10;doll drawing easy girl&#10;doll drawings easy girl&#10;doll drawings&#10;doll sketch drawing&#10;draw a beautiful drawing&#10;draw a girl&#10;draw a girl with beautiful dress&#10;draw barbie&#10;drawing a girl&#10;drawing drawing drawing drawing drawing drawing&#10;drawing drawing pencil&#10;drawing easy&#10;drawing easy and beautiful&#10;drawing for girls&#10;drawing for girls easy step by step&#10;drawing for girl&#10;drawing girl back side&#10;drawing girls&#10;drawing jaise banate hain&#10;drawing of a girl with beautiful dress&#10;drawing of barbie&#10;drawing princess&#10;drawing simple design&#10;drawings&#10;drawings beautiful&#10;&#10;&#10;&#10;&#10;If you&#10084; like this video then please&#128591; like share and subscribe my channel"
     channel_title "Niru Usha Singh Arts"
     channel_id "UCWE8zhAMAzSHbXSVLOGTpKQ"
     fav_count 0
@@ -5946,7 +5946,7 @@ graph [
     step 0
     date "2018-10-08T14:15:01Z"
     title "Durga Puja Drawing for Beginners | How to Draw Durga Maa Step by Step Slowly"
-    description "For today, its Durga Utsav Drawing easy for Beginners Step by Step Tutorial to learn How to Draw goddess durga and ..."
+    description "For today, its Durga Utsav Drawing easy for Beginners Step by Step Tutorial to learn How to Draw goddess durga and mahishasura along with other god and goddess. lord Ganesha god Kartik , Maa Lokkhi and Sharashoti. Its a Beautiful Scenery Drawing for in Color Pencil.&#10;&#128587; Hey everyone! Lets Draw Durga Thakur ! &#10;This how to draw durga puja scenery to make Sharadotsav Festival card or poster drawing idea. We used pencil to draw This beautiful scenery of suvho bijoya and then used colored pencil and marker to paint the Navratri Celebration image. Try out this easy tutorial for kids and beginners.&#10;please subscribe&#10;https://www.youtube.com/channel/UC0HzurhMEW9xZ-f-vji3ScQ?sub_confirmation=1&#10; &#10;This is for everyone to enjoy drawing art , learn drawing and painting in a easy way, especially to inspire kids and beginners . &#10;&#10;So watch the whole drawing tutorial of Durga puja Festival Drawing for Beginners in Color Pencil | Navratri Special durga puja  greeting card making tutorial&#10;&#2350;&#2366;&#2305; &#2358;&#2375;&#2352;&#2366;&#2357;&#2366;&#2354;&#2368; &#2324;&#2352; &#2350;&#2361;&#2367;&#2359;&#2366;&#2360;&#2369;&#2352; &#2360;&#2306;&#2327;&#2381;&#2352;&#2366;&#2350; | &#2342;&#2375;&#2326;&#2367;&#2351;&#2375; ,&#2325;&#2376;&#2360;&#2375; &#2352;&#2370;&#2346; &#2348;&#2342;&#2354;&#2325;&#2352; &#2349;&#2327;&#2366; &#2341;&#2366; &#2350;&#2361;&#2367;&#2359;&#2366;&#2360;&#2369;&#2352;&#10;Some other Play List,&#10;&#10;Sunset Scenery Drawing in Pencil for Beginners Step by Step&#10;https://www.youtube.com/watch?v=JcF8xppGlhg&#38;t=0s&#38;list=PLYpCAWq10vQdNhDo1-10Pwv5Ba0xWqmeg&#38;index=1&#10;&#10;How to Draw Scenery of Moonlight with Pencil step by step&#10;https://www.youtube.com/watch?v=seSubGTd6co&#38;t=6s&#38;index=1&#38;list=PLYpCAWq10vQd2PtSZPKzx2x9hlMrbhU2G&#10;follow us &#10;twitter  &#10;https://twitter.com/1ArtCenter&#10;facebook &#10;https://www.facebook.com/oneartcenter/&#10;Google+ https://plus.google.com/u/0/b/104282618155304208753/104282618155304208753&#10;&#10;Hope you have Enjoyed this drawing. Please hit&#128077;&#128077;&#128077; the like button if you've enjoyed this art idea &#127902;and don't forget to comment&#128394; and subscribe&#9654; for more kids' art lessons &#10;PLZ share&#128483; it to your friends&#128109; &#10;&#10;Subho Bijoya Drawing for Durga Puja Festival Tutorial in Color Pencil | How to Draw Durga puja celebration&#10;https://youtu.be/Oxe0sScTr5c&#10;See you in the next video. &#10;Subscribe to support us.. happy Durga Puja 2018 .&#10;Take Care.&#10;#durga_drawing #durga_puja #subho_bijoya"
     channel_title "One Art Center"
     channel_id "UC0HzurhMEW9xZ-f-vji3ScQ"
     fav_count 0
@@ -5961,7 +5961,7 @@ graph [
     step 0
     date "2021-03-19T19:00:16Z"
     title "How to draw a cute bunny easy - how to draw a easter bunny step by step"
-    description "How to draw a cute bunny easy - how to draw a easter bunny step by step Drawing and coloring, draw, coloring, how to draw, ..."
+    description "How to draw a cute bunny easy - how to draw a easter bunny step by step&#10;Drawing and coloring, draw, coloring, how to draw, kawaii drawings, pencil sketch, drawings tumblr, painting, drawing class, how to draw step by step, how to draw easy, drawing outline, sketch drawing, easy drawing, scenery drawing, learn to draw, como dibujar, dibujar, dibujos kawaii, desenhar, como desenhar, desenhos para desenhar, desenhar, desenhos tumblr, desenhos kawaii, dessin kawaii, Como Desenhar, aula de desenho, tutorial,&#10;Desenhando, fazer desenho,&#10;How to Draw, DRAWINGS TUMBLR,&#10;passo a passo, aprender a desenhar,&#10; how to draw easy stuff, easy stuff"
     channel_title "Learn step by step"
     channel_id "UCm5rnY9Iye5Eq_Nq2Y42T-g"
     fav_count 0
@@ -5976,7 +5976,7 @@ graph [
     step 0
     date "2022-07-11T09:30:45Z"
     title "How to Draw Lollipop, Lollipop Drawing, Draw and Color Cute Lollipop, Draw Lollipop"
-    description "shorts How to Draw Lollipop, Lollipop Drawing, Draw and Color Cute Lollipop, Draw Lollipop, Easy Pen Drawing Steps Pen ..."
+    description "#shorts&#10;How to Draw Lollipop, Lollipop Drawing, Draw and Color Cute Lollipop, Draw Lollipop, Easy Pen Drawing Steps&#10;Pen drawing of  Lollipop using Stylus, &#10;Like, Share, Subscribe click the &#128276; Bell icon if you enjoyed this drawing video from Two Colors"
     channel_title "Two Colors"
     channel_id "UCJh7bwwOeugJSLXioycL6iA"
     fav_count 0
@@ -5991,7 +5991,7 @@ graph [
     step 0
     date "2022-06-15T11:02:16Z"
     title "10 easy drawing ideas || Pencil Sketch for beginners || How to draw  - step by step"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name - DOMS ( ZOOM ULTIMATE DARK ) Pencil / 2B Pencil and Artline love art sketch ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name -  DOMS ( ZOOM ULTIMATE DARK )  Pencil /  2B Pencil&#10;and    Artline love art sketch pencil  8B&#10;2. Paper Name -  Double A Offset paper&#10;3. Blending Stump &#10;(You can use  Paint brush, Tissue Paper or cotton buds instead of this blending stump)  &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10; #GirlDrawing  #FaceDrawing   &#10;&#10;#DrawingTutorial &#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6006,7 +6006,7 @@ graph [
     step 0
     date "2019-09-11T20:28:25Z"
     title "Sketch Devi Durga || How to draw Durga Devi step by step"
-    description "Draw Devi Durga. I used Doms pencil. thank you watching the video. please subscribe my channel. Music: ."
+    description "Draw Devi Durga. I used Doms pencil. thank you watching the video. please subscribe my channel.&#10;______________________________________________________________&#10;&#10;Music: ...........................................&#10;Song: Kazura - Deseo Del Coraz&#243;n (Vlog No Copyright Music)&#10;Music promoted by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/taru-TIdOOg&#10;_____________________________________________________________&#10;&#10;#DrawingDeviDurga&#10;#MaaDurgaDraw&#10;#DeviDurgaDraw&#10;______________________________________________________________&#10;Thanks A Lot."
     channel_title "Himan Artists"
     channel_id "UCSEq4ZRNSIYUFJAsEHKZJtw"
     fav_count 0
@@ -6021,7 +6021,7 @@ graph [
     step 0
     date "2020-05-02T09:00:14Z"
     title "How to Draw Nature Scenery of Waterfall, Sunset and Houses | Easy Waterfall Sunset Scenery Drawing"
-    description "How to Draw Nature Scenery of Waterfall, Sunset, and Houses | Easy Sunset Over Waterfall Scenery Drawing. How to draw easy ..."
+    description "How to Draw Nature Scenery of Waterfall, Sunset, and Houses | Easy Sunset Over Waterfall Scenery Drawing.&#10;&#10;How to draw easy and beautiful sunset over waterfall scenery with oil pastels and color pencils for beginner. Simple sunset scenery drawing step by step.&#10;&#10;Hi everybody, welcome to my channel, how to draw easy scenery. In this video, I am going to draw a simple scenery of sunset, waterfall, and houses with oil pastels step by step. &#10;&#10;It is simple scenery but looks beautiful. By watching this video, we can learn: How to draw easy sunset scenery drawing, How to draw a beautiful nature scenery, How to draw waterfall scenery, How to draw houses beside waterfall, and also how to color scenery with oil pastels gradation technique.&#10;&#10;To draw this simple scenery, we need :&#10;1). Paper or sketch book&#10;2). Black pen, marker, or pencil&#10;3). Oil pastels and color pencils&#10;4). Tissue&#10;&#10;First Step : Sketching&#10;To draw the outline of the scenery, I use a snowman twinpen. You can also use ur pencil or marker for this step.&#10;&#10;When drawing the outline, try to draw it from front side to the back side object. It will be good for the scenery.&#10;&#10;Second Step : Coloring&#10;For coloring, I use Greebel oil pastels with 55 colors to color the scenery. I also use Faber castel color pencils to color some spots &#10;&#10;You can see the name of the colors I use during the video, in coloring step. So please don't skip this video and watch it till the end.&#10;&#10;Thank you so much for watching this video. I Hope you enjoy and like it.&#10;&#10;If you like this video, I hope you dont mind to click subscribe, like, comment, and share.&#10;&#10;And dont forget to activate the notification.&#10;&#10;#HowtoDraw #HowtoDrawEasyScenery #EasySceneryDrawing #HowtoDrawSimpleLandscape"
     channel_title "How to Draw Easy Scenery"
     channel_id "UCS1P5m1UIgPMluE2BEXNb1A"
     fav_count 0
@@ -6036,7 +6036,7 @@ graph [
     step 0
     date "2022-03-11T15:00:34Z"
     title "Painting Brilliant Pink Forest / Acrylic Painting Techniques / How to Draw Little Red Riding Hood"
-    description "How to paint little red riding hood with acrylics / Painting Techniques / Jay Lee is a painting youtuber. He paints beautiful world on ..."
+    description "How to paint little red riding hood with acrylics / Painting Techniques /&#10;Jay Lee is a painting youtuber. He paints beautiful world on the canvas using familiar objects in life, and share videos for you and everyone. Put Jay's painting in your space, and make world beautiful.&#10;&#10070; Jay Lee Store : &#10;https://jayartpainting.creator-spring.com/&#10;&#10070; Patreon : https://www.patreon.com/jayartpainting&#10;&#10070; PayPal Donation : paypal.me/jayartpainting&#10;---------------------------------------------------&#10;&#10070; Channel Membership : &#10;Please become a member of my channel. You can buy me a cup of coffee, and push me to create more videos.&#10;---------------------------------------------------&#10;Jay Lee&#45716; &#54620;&#44397;&#51064; &#44536;&#47548; &#50976;&#53916;&#48260; &#51077;&#45768;&#45796;. &#52884;&#48260;&#49828;&#50640; &#50500;&#47492;&#45796;&#50868; &#49464;&#49345;&#51012; &#44536;&#47140; &#44536;&#47548;&#50689;&#49345;&#51012; &#44277;&#50976;&#54633;&#45768;&#45796;. &#52572;&#44540;&#50640; &#54620;&#44397;&#51064;&#48516;&#46308; &#50976;&#51077;&#51060; &#47566;&#50500;&#51256;&#49436; &#44592;&#48516;&#51060; &#51339;&#45348;&#50836;. &#44048;&#49324;&#54633;&#45768;&#45796;. &#10;&#50668;&#47084;&#48516;&#51032; &#44277;&#44036;&#50640; Jay&#51032; &#44536;&#47548;&#51012; &#45459;&#50500; &#50500;&#47492;&#45813;&#44172; &#47564;&#46308;&#50612;&#48372;&#49464;&#50836;.&#10;(&#22739;&#20811;&#21147;&#30059;, &#20122;&#20811;&#21147;&#30011;)&#10;Jay Lee &#26159;&#20303;&#22312;&#21488;&#28771;&#30340;&#38867;&#22283;&#20154;&#65292;&#19968;&#20301;&#30059;&#30059;&#30340;YouTuber&#12290;&#22312;&#30059;&#24067;&#19978;&#32362;&#35069;&#32654;&#40599;&#30340;&#19990;&#30028;&#65292;&#20006;&#29992;&#24433;&#29255;&#30340;&#26041;&#24335;&#20998;&#20139;&#32102;&#22823;&#23478;&#12290;&#25226;Jay&#30340;&#30059;&#25918;&#22312;&#20320;&#30340;&#31354;&#38291;&#35041;&#65292;&#35731;&#19990;&#30028;&#26356;&#32654;&#40599;&#12290;&#10;&#10070; Jay Lee Store : &#10;https://teespring.com/stores/jayartpainting&#10;---------------------------------------------------&#10;&#10070; Music&#10;Meditation Impromptu by Kevin MacLeod &#10;https://creativecommons.org/licenses/by/4.0/&#10;http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100161&#10;http://incompetech.com/&#10;---------------------------------------------------&#10;&#10070; Contacts&#10;E-mail : tkstoryman@hotmail.com&#10;........................................................"
     channel_title "Jay Lee Painting"
     channel_id "UCHm9SiOLG8UoBT8STWY5mVA"
     fav_count 0
@@ -6051,7 +6051,7 @@ graph [
     step 0
     date "2018-01-03T19:55:05Z"
     title "How to draw a Tiger with the word &#38;#39;Tiger&#38;#39; | Drawing tutorial"
-    description "Learn how to draw a tiger with the word 'Tiger', it's very easy. Hope you enjoy the video! My instagram: ..."
+    description "Learn how to draw a tiger with the word 'Tiger', it's very easy. Hope you enjoy the video!&#10;&#10;My instagram: https://www.instagram.com/happyangeldrawings/&#10;&#10;Music I used: &#10;Last Summer by Ikson:  http://www.soundcloud.com/ikson &#10;Music promoted by Audio Library https://youtu.be/n2oTA5JSk80"
     channel_title "HappyAngel Drawings"
     channel_id "UCRn_7PfYToplMO-htjqp2XQ"
     fav_count 0
@@ -6066,7 +6066,7 @@ graph [
     step 0
     date "2022-07-07T15:12:41Z"
     title "Body Mapping MORE GRAB &#38;amp; SQUEEZE (How To Draw)"
-    description "How To Draw Anime squish and skindentation for simple Figure drawing How to draw anime manga tight clothes and straps basic ..."
+    description "How To Draw Anime squish and skindentation for simple Figure drawing How to draw anime manga tight clothes and straps basic shapes https://www.Patreon.com/mikeymegamega for mapping body surface and how to draw thick fat getting squeezed and bulging anatomy anime and manga materials and body parts getting grabbed and squeezed. V-Tuber and curvy poses looking squishy! This cute beginner How To make a character sheet mapping body curves Tutorial will look at the shape and measurements of the squishy parts of character design. #howtodraw #squish #grab - cara menggambar - Paano Gumuhit - como desenhar - como dibujar - &#25551;&#12365;&#26041; - &#44536;&#47532;&#45716; &#48169;&#48277; - &#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;,&#10;&#10;WORKSHEETS ON PATREON! https://www.patreon.com/mikeymegamega&#10;TWITCH DRAWING LIVE! https://www.twitch.tv/mikeymegamega&#10;FULL ART LIVESTREAM ARCHIVE! https://www.youtube.com/channel/UCfhWo8ONiKQhkQXARgoRepw&#10;&#10;&#10;---&#10;&#10;Music: Dan Henig - Arpy"
     channel_title "mikeymegamega"
     channel_id "UCOvvFK_EhrX9exQ-jkLPg8w"
     fav_count 0
@@ -6081,7 +6081,7 @@ graph [
     step 0
     date "2022-04-06T14:00:18Z"
     title "How to Draw a Couple Under the Moonlight / Acrylic Painting for Beginners"
-    description "Today, I painted a view of the a couple under the moonlight. Beginners can draw along easily. Follow me step by step. Please ..."
+    description "Today, I painted a view of the a couple under the moonlight.&#10;Beginners can draw along easily. &#10;Follow me step by step.&#10;Please subscribe and like. Thank you~~&#10;&#10;&#50724;&#45720;&#51008; &#45804;&#48731;&#50500;&#47000; &#52964;&#54540;&#51060; &#48372;&#51060;&#45716; &#54413;&#44221;&#51012; &#44536;&#47140;&#48372;&#50520;&#50612;&#50836;. &#10;&#52488;&#48372;&#51088; &#48516;&#46308;&#46020; &#49789;&#44172; &#46384;&#46972; &#44536;&#47540;&#49688; &#51080;&#50612;&#50836;. &#10;&#52264;&#44540;&#52264;&#44540; &#46384;&#46972;&#44536;&#47140;&#48372;&#49464;&#50836;.&#10;&#44396;&#46021;&#44284; &#51339;&#50500;&#50836; &#44845; &#48512;&#53441;&#46300;&#47140;&#50836;. &#44048;&#49324;&#54633;&#45768;&#45796;~~&#10;&#10;Colors listed on the screen&#10;-Acrylic painting&#10;-Canvas 25cm*25cm / 28cm*23cm&#10;&#10;BGM uses the YouTube library&#10;-----------------------------------------------------&#10;Email : hnbr0302@gmail.com&#10;&#10; #AcrylicPainting #painting #art"
     channel_title "Joony art"
     channel_id "UCjkGAyhG0Q6H4_gzdfTMg-g"
     fav_count 0
@@ -6096,7 +6096,7 @@ graph [
     step 0
     date "2018-11-29T11:54:34Z"
     title "How to draw bunny girl (Sakurajima Mai)"
-    description "This is a step by step tutorial on how to draw the bunny girl senpai Sakurajima Mai :) Its been a long while since I posted a tutorial ..."
+    description "This is a step by step tutorial on how to draw the bunny girl senpai Sakurajima Mai :) Its been a long while since I posted a tutorial on a character and I finally did it again. Hope this helps ^^ This video is sped up to minimize time for upload so just re-adjust the speed to 0.25x if you want :)&#10;Please give it a like and share :)"
     channel_title "Erza Scarlet Art"
     channel_id "UCTPJmcmQkPCN0Sl9LP6UXtA"
     fav_count 0
@@ -6111,7 +6111,7 @@ graph [
     step 0
     date "2022-03-18T07:32:11Z"
     title "A HOTTER way to draw a side view face"
-    description "a hotter way to draw side view characters #shorts Clip Studio Paint (my drawing program) https://bit.ly/3bcrBJa *affiliate link btw ..."
+    description "a hotter way to draw side view characters &#10;#shorts&#10;&#10;Clip Studio Paint (my drawing program)&#10;https://bit.ly/3bcrBJa&#10;*affiliate link btw&#10;&#10;Equipment:&#10;Mic: https://amzn.to/3ks0Qok&#10;Pop filter: https://amzn.to/3yrMtpg&#10;Graphics Tablet: https://amzn.to/2UWPArz&#10;Camera: https://amzn.to/3zrPN53&#10;&#10;my brushes&#10;&#12501;&#12521;&#12483;&#12488; (flat pen)&#10;old pen content id: 1358977 &#10;new pen content id: 1702959&#10;hair brush: 1868700&#10;&#10;give my vid a like if you're reading this description uwu&#10;&#10;Contact this email for business: kooleen.business@gmail.com"
     channel_title "Kooleen"
     channel_id "UCL_Zrh9lwoOT7ftTRA-npvg"
     fav_count 0
@@ -6126,7 +6126,7 @@ graph [
     step 0
     date "2022-04-09T12:15:00Z"
     title "Tutorial on how to draw properly | Drawing Tutorials And Tips"
-    description "Tutorial on how to draw properly | Drawing Tutorials And Tips Welcome to Perfect Miniature Chanel!"
+    description "Tutorial on how to draw properly | Drawing Tutorials And Tips&#10;Welcome to Perfect Miniature Chanel!&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;I really hope you enjoy it and don't forget to subscribe to this channel for the latest videos, subscribe to our channel here: https://bom.to/tFnBq6&#10;The channel specializes in creating small houses and pretty small objects with easy-to-implement materials.Please follow and practice your products, do not forget to exchange with me in the comment section for better products, thank you very much !!!&#10;#DIYMiniature #CardboardHouse #MiniatureCardboardHouse"
     channel_title "Perfect Miniature"
     channel_id "UCIPdkive6e8lXg4bsc9NAqw"
     fav_count 0
@@ -6141,7 +6141,7 @@ graph [
     step 0
     date "2021-06-10T14:28:25Z"
     title "How to draw a man walking dog / Acrylic / Painting technique"
-    description "JayLee - How to paint with acrylic / Painting Techniques --------------------------------------------------- &#10070; Channel Membership : Please ..."
+    description "JayLee - How to paint with acrylic / Painting Techniques&#10;---------------------------------------------------&#10;&#10070; Channel Membership : &#10;Please become a member of my channel. You can buy me a cup of coffee, and push me to create more videos.&#10;---------------------------------------------------&#10;Jay Lee is a painting youtuber. He paints beautiful world on the canvas, and share videos for you and everyone. Put Jay Lee's painting in your space, and make world beautiful.&#10;&#10070; Jay Lee Store : &#10;https://teespring.com/stores/jayartpainting&#10;&#10070; Patreon : https://www.patreon.com/jayartpainting&#10;&#10070; PayPal Donation : paypal.me/jayartpainting&#10;---------------------------------------------------&#10;Jay Lee&#45716; &#54620;&#44397;&#51064; &#44536;&#47548; &#50976;&#53916;&#48260; &#51077;&#45768;&#45796;. &#52884;&#48260;&#49828;&#50640; &#50500;&#47492;&#45796;&#50868; &#49464;&#49345;&#51012; &#44536;&#47532;&#44256; &#45817;&#49888;&#44284; &#47784;&#46160;&#47484; &#50948;&#54644; &#50689;&#49345;&#51012; &#44277;&#50976;&#54633;&#45768;&#45796;. &#50668;&#47084;&#48516;&#51032; &#44277;&#44036;&#50640; Jay Lee&#51032; &#44536;&#47548;&#51012; &#45347;&#50612; &#49464;&#49345;&#51012; &#50500;&#47492;&#45813;&#44172; &#47564;&#46308;&#50612;&#48372;&#49464;&#50836;.&#10;Jay Lee&#26159;&#38867;&#22283;&#20154;&#20303;&#22312;&#21488;&#28771;&#65292;&#30059;&#30059;YouTuber&#12290;&#20182;&#22312;&#30059;&#24067;&#19978;&#32362;&#35069;&#20102;&#32654;&#40599;&#30340;&#19990;&#30028;&#65292;&#28982;&#25110;&#20998;&#20139;&#32102;&#22823;&#23478;&#24433;&#29255;&#12290;&#25226;Jay Lee&#30340;&#30059;&#25918;&#22312;&#20320;&#30340;&#31354;&#38291;&#35041;, &#35731;&#19990;&#30028;&#32654;&#40599;&#10;---------------------------------------------------&#10;&#10070; Music&#10;Meditation Impromptu by Kevin MacLeod &#10;http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100161&#10;http://incompetech.com/&#10;---------------------------------------------------&#10;&#10070; Contacts&#10;E-mail : tkstoryman@hotmail.com&#10;Instagram : /jayleepainting&#10;Pinterest : /jayleepainting&#10;........................................................"
     channel_title "Jay Lee Painting"
     channel_id "UCHm9SiOLG8UoBT8STWY5mVA"
     fav_count 0
@@ -6171,7 +6171,7 @@ graph [
     step 0
     date "2020-07-31T03:30:03Z"
     title "how to draw spiderman step by step || spiderman drawing for beginners || Marvel Cartoons drawing"
-    description "how to draw spiderman step by step || spiderman drawing for beginners || Marvel Cartoons drawing Hello, Everyone, My name ..."
+    description "how to draw spiderman step by step || spiderman drawing for beginners || Marvel Cartoons drawing&#10;&#10;Hello, Everyone, &#128522; My name is Suraj... Hope you are doing great!&#10;&#10;Click here to SUBSCRIBE &#128071;&#128071;&#128071;&#10;https://www.youtube.com/channel/UC9_sTdqikflvSevdvJtvjuQ&#10;&#10;&#10;&#9654;&#65039;Follow me on Instagram :   &#10;https://www.instagram.com/worldart_suraj &#10;&#10;&#9654;&#65039;Follow me on Facebook :   &#10; https://www.facebook.com/worlofart/"
     channel_title "WORLD OF ART"
     channel_id "UC9_sTdqikflvSevdvJtvjuQ"
     fav_count 0
@@ -6186,7 +6186,7 @@ graph [
     step 0
     date "2021-07-10T12:30:16Z"
     title "How to Draw a Jaguar? - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step"
-    description "To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!"
+    description "To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS&#10;.&#10;.&#10;. How to Draw a Jaguar Step by Step? - Drawing with ChuChu - ChuChu TV Drawing Lessons for Kids"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -6201,7 +6201,7 @@ graph [
     step 0
     date "2020-04-30T04:31:46Z"
     title "SLANTING LINE|| How to draw slanting line ||Learn to draw slanting line ||Slanting line for nursery"
-    description "In this video kids will learn about slanting line. we have explained about it through animation. Hope, kids will enjoy it #slantingline ..."
+    description "In this video kids will learn about slanting line. we have explained about it through animation. Hope, kids will enjoy it&#10;#slantingline #howtodrawslantingline #learntodrawslantingline&#10;&#10;&#10;We have provided the link of all the lines.Please click the below link and watch all videos &#128071;&#10;&#10;1.Standing Line &#128071;: https://youtu.be/82hn1r26ohk&#10;&#10;2. Sleeping Line:&#128071; &#10;https://youtu.be/zNXoQx6Ef4M&#10;&#10;3. Left Slanting Line :&#128071;&#10;https://youtu.be/6sNtwDHJm5U&#10;&#10;4. Right Slanting Line:&#128071;&#10;https://youtu.be/eDepOd_dqEo&#10;&#10;5. Up Curve: &#128071;&#10;https://youtu.be/TyyGQo_bO2E&#10;&#10;6. Down Curve:&#128071;&#10;https://youtu.be/ntU3iCmJ91I&#10;&#10;7.Left Curve:&#128071;&#10;https://youtu.be/R6XsCkPaSvU&#10;&#10;8.Right Curve:&#128071;&#10;https://youtu.be/4q8pzhvOYTs&#10;&#10;9.1 to 100 Table:&#128071;&#10;https://youtu.be/5gnTXqG-vPg&#10;&#10;10. Single digit addition:&#128071;&#10;https://youtu.be/0z9z7JNN9f4&#10;&#10;11. Two Digit addition:&#128071;&#10;https://youtu.be/rGGxw72jcK0&#10;&#10;12. 1 Digit multiplication:&#128071;&#10;https://youtu.be/RHyg9RbtAAE&#10;&#10;13. &#2309; &#2310; &#2311; &#2312; in hindi:&#128071;&#10;https://youtu.be/6Q631FB1fOo&#10;&#10;14.&#2309; &#2310; &#2311; &#2312; in English:&#128071;&#10;https://youtu.be/-5XliwhaFh4&#10;&#10;15. &#2325; &#2326; &#2327; &#2328; in English:&#128071;&#10;https://youtu.be/IJQ_ozugUwk&#10;&#10;16.Daily use English sentences:&#128071;&#10;https://youtu.be/9orlsi7wv94&#10;&#10;17. Phonics sound of English alphabets: &#128071;&#10;https://youtu.be/YRRP3rWBem4&#10;&#10;18. ABCD English alphabets:&#128071;&#10;https://youtu.be/YRRP3rWBem4"
     channel_title "Learning Champ Zone"
     channel_id "UC-QpPQhR2lLaeRnp-jj1YrQ"
     fav_count 0
@@ -6216,7 +6216,7 @@ graph [
     step 0
     date "2020-05-22T14:50:50Z"
     title "How to draw Earth Layers Diagram Drawing || Easy way to draw science Poster chart project"
-    description "Hi friends, Our Earth is full of mysteries There is more to the Earth than what we can see on the surface. In fact, if you were able to ..."
+    description "Hi friends,&#10;Our Earth is full of mysteries &#10;There is more to the Earth than what we can see on the surface. In fact, if you were able to hold the Earth in your hand and slice it in half, you'd see that it has multiple layers. &#10; Each layer has its own properties, composition, and characteristics that affects many of the key processes of our planet. They are, in order from the exterior to the interior &#8211; the crust, the mantle, the outer core, and the inner core.&#10;&#10;So in this drawing I will show you a very easy way to draw a perfect science diagram drawing,&#10;you will need a compass a ruler a pencil and of course some colors you like, I am using pencil colors&#10;in this tutorial video but you can use any colors you like. &#10;&#10;If you like this video subscribe my channel for more videos like this.&#10;press the link below.&#10;SUBSCRIBE &#128071;&#128071;&#128071; &#10;https://www.youtube.com/channel/UCYrej78OpWfvfKyNYa6dLHA?view_as=subscriber?sub_confirmation=1&#10;&#10;join and be friends&#128578;&#10;&#10;&#128073;Facebook - https://www.facebook.com/gurzaib.art.5&#10;&#128073;Twitter - https://twitter.com/gurzaib1&#10;&#128073;Pinterest - https://www.pinterest.co.uk/gurzaib_art&#10;&#128073;Instagram - https://www.instagram.com/gurzaib_art&#10;&#10;#science&#10;#diagram&#10;#gurzaib"
     channel_title "Gurzaib art"
     channel_id "UCYrej78OpWfvfKyNYa6dLHA"
     fav_count 0
@@ -6231,7 +6231,7 @@ graph [
     step 0
     date "2021-09-11T11:30:03Z"
     title "How to Draw a Wolf? - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step"
-    description "How to Draw a Wolf Step by Step? - Drawing with ChuChu - ChuChu TV Drawing Lessons for Kids To download and watch this ..."
+    description "How to Draw a Wolf Step by Step? - Drawing with ChuChu - ChuChu TV Drawing Lessons for Kids&#10;To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS&#10;.&#10;.&#10;."
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -6246,7 +6246,7 @@ graph [
     step 0
     date "2021-01-18T07:09:41Z"
     title "Easy drawing for beginners - A girl (Back side) ||  How to Draw a Girl with Cap - step by step"
-    description "How to Draw a Girl with Cap , &#9659; Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; (1) Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) (2) Blending ..."
+    description "How to Draw a Girl with Cap , &#10;&#10;&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;(1) Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) &#10;                                &#10;(2) Blending Stump &#10;(You can use  Cotton buds instead of this blending stump)  &#10;&#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;&#10;Song: ACN8 - If The World Was Ending&#10;Music provided by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/6kxyHxzilug&#10; &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#10;#PencilDrawing   #GirlDrawing  #DrawingTutorial &#10;&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6261,7 +6261,7 @@ graph [
     step 0
     date "2022-07-09T10:52:15Z"
     title "Saturday Lotto Results Draw 4275 | Saturday, 9 July 2022 | The Lott"
-    description "Are you a winner? Check your ticket: https://www.thelott.com/results/check-my-ticket See full draw results: ..."
+    description "Are you a winner? Check your ticket: https://www.thelott.com/results/check-my-ticket&#10;See full draw results: https://www.thelott.com/results&#10;&#10;Official Saturday Lotto Draw Results from The Lott - Saturday, 9 July 2022 Draw No. 4275&#10;There&#8217;s the chance to become a millionaire every Saturday night with Saturday Lotto. Wouldn&#8217;t it be nice. &#10;&#10;Watch the moment the winning numbers are drawn for Powerball, Oz Lotto, Saturday Lotto, and Monday &#38; Wednesday Lotto on 7TWO, at thelott.com, or here on our official YouTube channel.&#10;&#10;Have Fun Play Responsibly. Gamblers Help 1800 858 858"
     channel_title "The Lott - Official Home of Australia's Lotteries"
     channel_id "UCx6gqcHRMwhZ2703pDuExBQ"
     fav_count 0
@@ -6276,7 +6276,7 @@ graph [
     step 0
     date "2022-06-04T11:30:12Z"
     title "How to Draw a Flower? - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step"
-    description "How to Draw a Flower? - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step To download and watch this ..."
+    description "How to Draw a Flower? - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step&#10;To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -6291,7 +6291,7 @@ graph [
     step 0
     date "2022-04-22T09:30:59Z"
     title "How to Draw Lips Easily  #CreativeArt  #Shorts"
-    description "LipsDrawing #DrawingTutorial &#9659;Visit to my channel : https://www.youtube.com/c/FarjanaDrawingAcademy &#9659;For business ..."
+    description "#LipsDrawing  &#10;#DrawingTutorial &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6306,7 +6306,7 @@ graph [
     step 0
     date "2022-06-20T11:12:10Z"
     title "How to draw smiley face - step by step || Pencil Sketch for beginners"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name - DOMS ( ZOOM ULTIMATE DARK ) Pencil / 2B Pencil and 4B 2. Paper Name ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name -  DOMS ( ZOOM ULTIMATE DARK )  Pencil /  2B Pencil&#10;and   4B&#10;2. Paper Name -  Double A Offset paper&#10;3. Blending Stump &#10;(You can use  Paint brush, Tissue Paper or cotton buds instead of this blending stump)  &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;1. &#10;&#10;2. &#10;&#10;3.&#10; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;#PencilDrawing   #GirlDrawing  #FaceDrawing  &#10;&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6336,7 +6336,7 @@ graph [
     step 0
     date "2022-05-10T10:03:18Z"
     title "How to draw A girl with Butterfly - step by step || Face of Girl Pencil sketch for beginners"
-    description "SatisfyingCreativeArt &#9659; Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name - DOMS ( ZOOM ULTIMATE DARK ) Pencil / 2B Pencil and ..."
+    description "#SatisfyingCreativeArt &#10;&#10;&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name -  DOMS ( ZOOM ULTIMATE DARK )  Pencil /  2B Pencil&#10;and   Faber Castell 8B&#10;2. Paper Name -  Double A Offset paper&#10;3. Blending Stump &#10;(You can use  Paint brush, Tissue Paper or cotton buds instead of this blending stump)  &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;1. &#10;&#10;2. &#10;&#10;3.&#10; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;#FaceDrawing   &#10;#Artvideo&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6351,7 +6351,7 @@ graph [
     step 0
     date "2022-05-28T11:30:13Z"
     title "How to Draw a Rainbow - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step"
-    description "How to Draw a Rainbow - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step To download and watch this ..."
+    description "How to Draw a Rainbow - Drawing with ChuChu &#8211; ChuChu TV Drawing for Kids Easy Step by Step&#10;To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -6366,7 +6366,7 @@ graph [
     step 0
     date "2022-07-11T08:26:47Z"
     title "How to draw a car | Easy draw car | Easy drawing"
-    description "How to draw a car | Easy car drawing #drawing #cardrawing #art #shorts #youtubeshorts #priyankacreativeguru."
+    description "How to draw a car | Easy car drawing &#10;&#10;&#10;#drawing &#10;#cardrawing&#10;#art&#10;#shorts &#10;#youtubeshorts &#10;#priyankacreativeguru"
     channel_title "priyanka creative guru"
     channel_id "UCQUjhzkpcd4pSJhAiHvhK3A"
     fav_count 0
@@ -6381,7 +6381,7 @@ graph [
     step 0
     date "2018-07-28T01:56:13Z"
     title "Number drawing for D.el.Ed.|| How to draw pictures using english number 1 to 10."
-    description "Hi friends. This video is for teacher How to draw boat,candela,bird,kite,squirrel,duck,peacock,cock,hen,bat ball simple and easy ..."
+    description "Hi friends.&#10;This video is for teacher How to draw boat,candela,bird,kite,squirrel,duck,peacock,cock,hen,bat ball simple and easy step by step for D l edstudents.&#10;Don't forget to like this video.&#10;Please subscribe my channel to gate more Videos.&#10;My new channel GENELIA ART. &#10;Please subscribe my new channel to get acrylic painting video.&#10;&#10;&#10;&#10;&#10;#tarun_art_number_drawing"
     channel_title "TARUN ART"
     channel_id "UC2zaxuac5NE5rDkU2cJArTg"
     fav_count 0
@@ -6396,7 +6396,7 @@ graph [
     step 0
     date "2019-05-10T05:00:00Z"
     title "Numberblocks Songs | Let&#38;#39;s All Draw Numbers | CBeebies"
-    description "Learn how to draw numbers with this song from the Numberblocks. For more Numberblocks and full episodes visit ..."
+    description "Learn how to draw numbers with this song from the Numberblocks.&#10;&#10;For more Numberblocks and full episodes visit - https://www.bbc.co.uk/iplayer/episodes/b08bzfnh/numberblocks&#10;&#10;CBeebies is dedicated to delighting and surprising its pre-school audience and it remains the UK's most watched and most loved channel for the under-sixes. &#10;&#10;Visit us at http://www.bbc.co.uk/cbeebies&#10;&#10;#CBeebies"
     channel_title "CBeebies"
     channel_id "UC0fXNmjDoC7ckPyT6qM8Urw"
     fav_count 0
@@ -6411,7 +6411,7 @@ graph [
     step 0
     date "2021-01-02T11:30:02Z"
     title "How to Draw an Elephant Step by Step? - Drawing with ChuChu - ChuChu TV Drawing Lessons for Kids"
-    description "To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!"
+    description "To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS&#10;.&#10;.&#10;. How to Draw an Elephant Step by Step? - Drawing with ChuChu - ChuChu TV Drawing Lessons for Kids"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -6426,7 +6426,7 @@ graph [
     step 0
     date "2022-02-23T11:30:08Z"
     title "How to Draw a Super Girl - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step"
-    description "How to Draw a Super Girl - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step To download and watch this ..."
+    description "How to Draw a Super Girl - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step&#10;To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -6441,7 +6441,7 @@ graph [
     step 0
     date "2019-06-23T11:30:02Z"
     title "A girl with beautiful hair Pencil Sketch drawing / How to draw a girl"
-    description "Pencil name : DOMS ( ZOOM ULTIMATE DARK ) pencil Subscribe to my channel to get more drawing videos. &#9661; Visit to my ..."
+    description "Pencil  name :  DOMS ( ZOOM ULTIMATE DARK ) pencil &#10;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#9661; Visit to my channel :&#10;&#10142; https://www.youtube.com/channel/UCd3s7BuoOlu4bRJL6RdGWXw&#10;&#10;&#9661; My Facebook Page Link &#10;&#10142;https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923&#10;&#10;&#9661; My Twitter Link &#10;&#10142;https://twitter.com/FarjanaDrawing&#10;&#10;Subscribe to my other channel: https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;.................... Music &#9834;&#9835;  ......................&#10;1. Song: Vinsand - All Mine&#10;Link: https://youtu.be/QpwrrLagS1E&#10;Music promoted by FreeMusicWave.&#10;&#10;2. Song: Ellis - Clear My Head No&#10;Music promoted by Housefactory No Copyright&#10;Video Link: https://youtu.be/_x4Nrz3A3V0&#10;&#10;3. Song: Zero Venture - Point Of View (feat. Cadence XYZ) &#10;Link: https://youtu.be/EnarUjBnLXw&#10;Music promoted by FMW. Released by Mind Resurgence.&#10;&#10;4. Track: Young - Giulio Cercato [NCM Release]&#10;Music provided by NoCopyrightMusic https://www.youtube.com/channel/UCtlN...&#10;Watch: https://youtu.be/wjB4PNsVo7o&#10;&#10;5. Song: Sad Puppy - Flamakae Baby&#10;Link: https://youtu.be/xLUcXrYcILA&#10;Music promoted by FreeMusicWave.&#10;..................... &#9834;&#9835; .................................&#10;&#10;&#10;#PencilSketch   #ArtVideo   #FaceDrawing &#10;&#10;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#1584;&#1575;&#1578; &#1588;&#1593;&#1585; &#1580;&#1605;&#1610;&#1604;&#10;&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#10;satisfying art &#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6456,7 +6456,7 @@ graph [
     step 0
     date "2022-05-28T12:01:31Z"
     title "HOW TO DRAW LEGS"
-    description "How To Draw Legs simple easy beginner Tutorial. How to draw cute legs https://www.Patreon.com/mikeymegamega anime ..."
+    description "How To Draw Legs simple easy beginner Tutorial. How to draw cute legs https://www.Patreon.com/mikeymegamega anime manga legs knee and drawing the leg from basic shapes for anime and manga girls who have legs with basic shapes and simple beginner drawing. V-Tuber poses and simple slim legs! This cute How To Draw the knee and leg Tutorial will look at the shape and measurements of the leg for simple cute character design. #howtodraw #legs #cute - cara menggambar - Paano Gumuhit - como desenhar - como dibujar - &#25551;&#12365;&#26041; - &#44536;&#47532;&#45716; &#48169;&#48277; - &#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;,&#10;&#10;WORKSHEETS ON PATREON! https://www.patreon.com/mikeymegamega&#10;TWITCH DRAWING LIVE! https://www.twitch.tv/mikeymegamega&#10;FULL ART LIVESTREAM ARCHIVE! https://www.youtube.com/channel/UCfhWo8ONiKQhkQXARgoRepw&#10;&#10;---&#10;&#10;Music: Dan Henig - Arpy"
     channel_title "mikeymegamega"
     channel_id "UCOvvFK_EhrX9exQ-jkLPg8w"
     fav_count 0
@@ -6471,7 +6471,7 @@ graph [
     step 0
     date "2022-02-10T05:15:01Z"
     title "How to draw a Girl with Beautiful Traditional Dress || girl with Beautiful lehenga || Mandala art"
-    description "How to draw a Girl with Beautiful Traditional Dress || girl with Beautiful lehenga || Mandala art, drawing for girls, drawing of girl, ..."
+    description "How to draw a Girl with Beautiful Traditional Dress || girl with Beautiful lehenga || Mandala art, drawing for girls, drawing of girl, girls drawing, girl drawing, drawing neelu, easy drawing, drawing, how to draw a girl, drawing girl, pencil drawing, girl drawing easy, simple drawing, easy drawings, sketches, sketch of girl, draw girl, drawings, Drawings, Beautiful traditional dress, Mandala art, beautiful lehenga, pencil sketch for beginner&#10;&#10;&#129310;Any questions contact me.&#129310;&#10;Instagram https://www.instagram.com/drawingneelu&#10;Facebook https://www.facebook.com/Drawingneelu&#10;Pinterest https://pinterest.com/drawingneelu&#10;&#10;{ &#128158; Daily Uploading Videos Time &#9201;&#65039; 10:45 AM &#128158; }&#10;&#10;Use Materials&#10;1.Doms Zoom Ultimate Dark&#10;2.Blending Stump&#10;3.Push Eraser&#10;4.White Gel Pen&#10;&#10;{ Music &#9834;&#9835;  credit }     &#10;1.Song: Tobjan - Back To Summer&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/OGW-hA0lhlo&#10;&#10;2.Song: Itro &#38; Tobu - Cloud 9 [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/cloud9&#10;Watch: http://youtu.be/VtKbiyyVZks&#10;&#10;3.Song: Julius Dreisig &#38; Zeus X Crona - Invisible [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/Invisible&#10;Watch: http://youtu.be/QglaLzo_aPk&#10;&#10;#DrawingGirl #pencildrawing #Easydrawing"
     channel_title "Drawing Neelu"
     channel_id "UCxCk6hXGtDzezrsdW9zb9eA"
     fav_count 0
@@ -6486,7 +6486,7 @@ graph [
     step 0
     date "2022-01-27T07:59:02Z"
     title "How  to draw A Boy taking a selfie | Pencil sketch for beginners | Easy drawing | simple drawing"
-    description "How to draw A Boy taking a selfie | Pencil sketch for beginners | Easy drawing | simple drawing drawing for boy, drawing of boy, ..."
+    description "How  to draw A Boy taking a selfie | Pencil sketch for beginners | Easy drawing | simple drawing&#10;drawing for boy, drawing of boy, boy drawing, drawing neelu, easy drawing, drawing, how to draw a boy, drawing boy, pencil drawing, boy drawing easy, simple drawing, easy drawings, sketches, sketch of boy, draw boy, drawings, drawing for kids, for kids drawing, drawing ideas, Drawings, draw A Boy taking a selfie, A Boy taking a selfie, Boy taking a selfie&#10;&#10;&#129310;Any questions contact me.&#129310;&#10;Instagram https://www.instagram.com/drawingneelu&#10;Facebook https://www.facebook.com/Drawingneelu&#10;Pinterest https://pinterest.com/drawingneelu&#10;&#10;{ &#128158; Daily Uploading Videos Time &#9201;&#65039; 10:45 AM &#128158; }&#10;&#10;Use Materials&#10;1.Pencil 4B&#10;2.Doms HB/2&#10;3.Blending Stump&#10;4.Eraser&#10;&#10;{ Music &#9834;&#9835;  credit }     &#10;1.Song: Atch - Forever&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/EPzBCnYRB7U&#10;&#10;2.Song: Tobjan - Memories&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/AlG68LXJmwo&#10;&#10;#Drawingboy #Pencildrawing #Easydrawing"
     channel_title "Drawing Neelu"
     channel_id "UCxCk6hXGtDzezrsdW9zb9eA"
     fav_count 0
@@ -6531,7 +6531,7 @@ graph [
     step 0
     date "2022-07-09T13:00:01Z"
     title "I draw in this way to learn to be natural / How to draw a body / Keep giong!"
-    description "Hi, I'm Chommang. Today's video is also a video of studying drawing together. Even if you don't draw together right now, I hope ..."
+    description "&#128056;Hi, I'm Chommang.&#10;Today's video is also a video of studying drawing together.&#10;Even if you don't draw together right now, I hope we can draw together later when we have time.&#10;I hope you have a good day. &#128522;&#10;&#10;&#128140;&#10;Daily drawing on Instagram : @chommang&#10;&#10;&#127912;&#10;Drawing: 4B Pencil&#10;&#10;&#128161;&#10;My Pinterest&#10;https://www.pinterest.co.kr/chommang_drawing/drawing-practice_chommang&#10;&#10;&#128204; My Custom Procreate Brush and texture.&#10;https://www.etsy.com/listing/1019058443/watercolor-painting-brushes-for?ref=shop_home_active_1&#38;pro=1&#10;&#10;#pencildrawing #drawing #howtodraw"
     channel_title "&#51312;&#47609; Chommang_Drawing"
     channel_id "UCm5108VByLkHnu4-b-moBLQ"
     fav_count 0
@@ -6546,7 +6546,7 @@ graph [
     step 0
     date "2017-12-02T16:23:58Z"
     title "Fantastic Mr. Fox - How to Draw Fantastic Mr Fox with Gertit and Teacher (Diy With Paper)"
-    description "How to Draw Fantastic Mr. Fox with Gertit and Teacher (Diy With Paper) - Fantastic Mr Fox SUBSCRIBE to Gertit's Adventures: ..."
+    description "How to Draw Fantastic Mr. Fox with Gertit and Teacher (Diy With Paper) - Fantastic Mr Fox&#10;SUBSCRIBE to Gertit's Adventures: https://smarturl.it/GertitSubscribe&#10;&#10;Enjoy watching a video of making Fox puppet out of a toilet roll paper.&#10;Our mission is to sent some positive energy to you kids and give you some How To tips to make you also at home this kind of entertain toys for you kids. &#10;Kids learning mission is to give more education staff for kids and also ways for parents to be creative with their kids on helping them doing new toys and have much funn.&#10;&#10;Hope you will Enjoy this video, if YES, please LIKE and SHARE our video.&#10;&#10;Thanks for Watching!&#10;&#10;DIY &#38; Crafts for Kids videos playlist: https://www.youtube.com/playlist?list=PLI0lA199KYzu7_-8H8dkWYYdmVhvgeC-u"
     channel_title "Gerti ToysReview"
     channel_id "UCFsLEAbWprS7OHuGDLlP-DQ"
     fav_count 0
@@ -6561,7 +6561,7 @@ graph [
     step 0
     date "2017-05-23T18:10:55Z"
     title "How to Draw Lord Krishna and Radha Drawing"
-    description "How to Draw Lord Krishna and Radha Drawing."
+    description "How to Draw Lord Krishna and Radha Drawing"
     channel_title "KIDS CARTOON DRAWINGS"
     channel_id "UCytePDFmydcE-g3pIVR3Rog"
     fav_count 0
@@ -6576,7 +6576,7 @@ graph [
     step 0
     date "2021-11-13T11:30:06Z"
     title "How to Draw a Watermelon? - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step"
-    description "How to Draw a Watermelon? - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step To download and watch ..."
+    description "How to Draw a Watermelon? - Drawing with ChuChu - ChuChu TV Drawing for Kids Easy Step by Step&#10;To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!&#10;For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid&#10;For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS"
     channel_title "ChuChuTV Surprise Eggs Learning Videos"
     channel_id "UCKcQ7Jo2VAGHiPMfDwzeRUw"
     fav_count 0
@@ -6591,7 +6591,7 @@ graph [
     step 0
     date "2022-03-24T10:40:44Z"
     title "A Cute Face - Drawing Tutorial || How to draw a girl - Step by step || Pencil Sketch"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name - DOMS ( ZOOM ULTIMATE DARK ) Pencil / 2B Pencil 2. Paper Name - Double A ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name -  DOMS ( ZOOM ULTIMATE DARK )  Pencil /  2B Pencil&#10;2. Paper Name -  Double A Offset paper&#10;3. Blending Stump &#10;(You can use  Paint brush, Tissue Paper or cotton buds instead of this blending stump)  &#10;4. White gel pen &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;#PencilDrawing   #GirlDrawing  #FaceDrawing  &#10;&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6606,7 +6606,7 @@ graph [
     step 0
     date "2022-07-10T06:33:10Z"
     title "&#2350;&#2366;&#2340;&#2381;&#2352; 1% &#2354;&#2379;&#2327; &#2332;&#2366;&#2344;&#2340;&#2375; &#2361;&#2376;&#2306; &#2320;&#2360;&#2366; &#2340;&#2352;&#2368;&#2325;&#2366; / How to Draw Cute Girl Drawing / step by step for beginners"
-    description "&#2350;&#2366;&#2340;&#2381;&#2352; 1% &#2354;&#2379;&#2327; &#2332;&#2366;&#2344;&#2340;&#2375; &#2361;&#2376;&#2306; &#2320;&#2360;&#2366; &#2340;&#2352;&#2368;&#2325;&#2366; / How to Draw Cute Girl Drawing / step by step for beginners Like ..."
+    description "&#2350;&#2366;&#2340;&#2381;&#2352; 1% &#2354;&#2379;&#2327; &#2332;&#2366;&#2344;&#2340;&#2375; &#2361;&#2376;&#2306; &#2320;&#2360;&#2366; &#2340;&#2352;&#2368;&#2325;&#2366; / How to Draw Cute Girl Drawing / step by step for beginners&#10;&#10;&#10;Like &#10;Share &#10;Subscribe &#10;&#10;Doms Brush Pen : https://amzn.to/2NM9W34 &#10;&#10;Camlin Brush Pen : https://amzn.to/2N0Dvxa &#10;&#10;Acrylic Paint marker: https://amzn.to/3884GOO &#10;&#10;Water colour link : https://amzn.to/396U2Zy &#10;&#10;Sharpie Permanent Marker Buy AffiliateLink : https://amzn.to/3a8cBLc &#10;&#10;Sharpie Ultra fine point Permanent Color marker Affiliate link: &#10;https://amzn.to/3ktwSzK &#10;&#10;Doms Color Buy Affiliate link : &#10;https://amzn.to/33CcJ4u &#10;&#10;Gallery Oil Pastel Affiliate link   : &#10;https://amzn.to/2XHUdDM &#10;&#10;Dark Pencil 8B Affiliate link  :- &#10;https://amzn.to/31DcweA &#10;&#10;Masking Tape Affiliate link   :- https://amzn.to/33Le0WT &#10;&#10;Correction Pen Affiliate link   : https://amzn.to/31sgZ3C &#10;&#10;Ultra Smoot 200 GSM Paper Affiliate link   : https://amzn.to/31BRD3k &#10;&#10;Camlin Artists Oil Pastels Affiliate link  : https://amzn.to/30Eisok &#10;&#10;My Vlog Channel link &#10;AP Vlog :- https://youtu.be/J6jsITMKfMU &#10;&#10;Facebook link:- &#10;&#10;https://www.facebook.com/Apdrawingofficial/ &#10;&#10;Instagram link:-&#10;https://www.Instagram.com/apdrawingofficial&#10;&#10;#girl #drawing #art #easy"
     channel_title "A P DRAWING"
     channel_id "UC_Q8qN8FTr4h4Waf01bty7g"
     fav_count 0
@@ -6636,7 +6636,7 @@ graph [
     step 0
     date "2022-05-30T20:30:19Z"
     title "Everything I Draw Comes To Life In PK XD"
-    description "Thanks to PK XD for sponsoring todays video! If you enjoyed the game make sure to download it right now at ..."
+    description "Thanks to PK XD for sponsoring todays video! If you enjoyed the game make sure to download it right now at https://pkxd.onelink.me/V7Ue/caylusxd6 and redeem a free gift using my code &#8220;CODECAYLUSPKXD&#8221;&#10;&#10;&#128085;Caylus Merch&#128085;  https://shopcaylus.com/&#10;&#128247; &#119842;&#119847;&#119852;&#119853;&#119834;&#119840;&#119851;&#119834;&#119846;&#128247; https://www.instagram.com/caylus/&#10;&#128038;Twitter&#128038;  https://twitter.com/Caylusq&#10;&#128125; DISCORD&#128125; https://discord.gg/S9qTFu9Yag&#10;&#127925;Tiktok&#127925;  https://www.tiktok.com/@infinite?lang=en&#10;&#128218;FaceBook&#128218; https://www.facebook.com/InfiniteLists.Official/&#10;&#129485;&#8205;&#9794;&#65039;Shorts Channel&#129485;&#8205;&#9794;&#65039; https://www.youtube.com/c/InfiniteShorts&#10;&#128377;&#65039;Gaming Shorts Channel&#128377;&#65039;https://www.youtube.com/channel/UCPD5p5Qe-NhRGfWBpwqpt1w&#10;&#10;Subscribe to my &#120316;&#120321;&#120309;&#120306;&#120319; &#120304;&#120309;&#120302;&#120315;&#120315;&#120306;&#120313;: @Infinite"
     channel_title "Caylus"
     channel_id "UCVAYy7_zddIx6USjXscV9Vg"
     fav_count 0
@@ -6651,7 +6651,7 @@ graph [
     step 0
     date "2022-07-08T15:09:09Z"
     title "H &#2360;&#2375; &#2312;&#2342; &#2346;&#2352; &#2330;&#2367;&#2340;&#2381;&#2352; &#2348;&#2344;&#2366;&#2344;&#2366; &#2360;&#2368;&#2326;&#2375;&#2306; | How to Draw Eid Mubarak Festival Easy | Step by Step for beginners"
-    description "H &#2360;&#2375; &#2312;&#2342; &#2346;&#2352; &#2330;&#2367;&#2340;&#2381;&#2352; &#2348;&#2344;&#2366;&#2344;&#2366; &#2360;&#2368;&#2326;&#2375;&#2306; | How to Draw Eid Mubarak Festival Easy | Step by Step for beginners Like ..."
+    description "H &#2360;&#2375; &#2312;&#2342; &#2346;&#2352; &#2330;&#2367;&#2340;&#2381;&#2352; &#2348;&#2344;&#2366;&#2344;&#2366; &#2360;&#2368;&#2326;&#2375;&#2306; | How to Draw Eid Mubarak Festival Easy | Step by Step for beginners&#10;&#10;Like &#10;Share &#10;Subscribe &#10;&#10;Doms Brush Pen : https://amzn.to/2NM9W34 &#10;&#10;Camlin Brush Pen : https://amzn.to/2N0Dvxa &#10;&#10;Acrylic Paint marker: https://amzn.to/3884GOO &#10;&#10;Water colour link : https://amzn.to/396U2Zy &#10;&#10;Sharpie Permanent Marker Buy AffiliateLink : https://amzn.to/3a8cBLc &#10;&#10;Sharpie Ultra fine point Permanent Color marker Affiliate link: &#10;https://amzn.to/3ktwSzK &#10;&#10;Doms Color Buy Affiliate link : &#10;https://amzn.to/33CcJ4u &#10;&#10;Gallery Oil Pastel Affiliate link   : &#10;https://amzn.to/2XHUdDM &#10;&#10;Dark Pencil 8B Affiliate link  :- &#10;https://amzn.to/31DcweA &#10;&#10;Masking Tape Affiliate link   :- https://amzn.to/33Le0WT &#10;&#10;Correction Pen Affiliate link   : https://amzn.to/31sgZ3C &#10;&#10;Ultra Smoot 200 GSM Paper Affiliate link   : https://amzn.to/31BRD3k &#10;&#10;Camlin Artists Oil Pastels Affiliate link  : https://amzn.to/30Eisok &#10;&#10;My Vlog Channel link &#10;AP Vlog :- https://youtu.be/J6jsITMKfMU &#10;&#10;Facebook link:- &#10;&#10;https://www.facebook.com/Apdrawingofficial/ &#10;&#10;Instagram link:-&#10;https://www.Instagram.com/apdrawingofficial&#10;&#10;#art #drawing #eid #easy"
     channel_title "A P DRAWING"
     channel_id "UC_Q8qN8FTr4h4Waf01bty7g"
     fav_count 0
@@ -6666,7 +6666,7 @@ graph [
     step 0
     date "2018-11-30T10:12:35Z"
     title "How to draw easy Mahatma Gandhi Ji face pencil drawing for kids"
-    description "People make drawings, sketches and portraits of Mahatma Gandhi but it is difficult to draw him by following others tutorial. Here in ..."
+    description "People make drawings, sketches and portraits of Mahatma Gandhi but it is difficult to draw him by following others tutorial.  Here in this article, we will explain easy steps to learn and draw Mahatma Gandhi face pencil drawing.&#10;&#10;By following the video, kids can draw easy Mahatma Gandhi ji face line pencil step by step. Go further to learn how to draw Gandhi ji pencil drawing step by step.&#10;&#10;You can also check for More info here- https://thedrawingclub.net/how-to-draw-mahatma-gandhi-face-in-10-minutes.html/&#10;&#10;#drawing #gandhiji #Mahatma gandhi"
     channel_title "How to draw with perfection"
     channel_id "UC_XdeArtQ4_mBBCwIOqsG9w"
     fav_count 0
@@ -6681,7 +6681,7 @@ graph [
     step 0
     date "2022-07-07T13:00:10Z"
     title "How to Draw Nayeon &#127925;&#11088;&#65039; Twice Kpop POP!"
-    description "Learn How to Draw cute Nayeon from Twice Kpop girl group in her POP! music video. Easy, step by step pretty girl celebrity singer ..."
+    description "Learn How to Draw cute Nayeon from Twice Kpop girl group in her POP! music video. Easy, step by step pretty girl celebrity singer drawing. #drawsocutekpop #twicenayeonpop&#10;&#10084;&#65039;&#128536; Draw So Cute Merchandise: https://www.youtube.com/channel/UC3dEvA1is6-0_yuei9iCdEw/store&#10;&#10084;&#65039; SUPPLIES You Might Love (Amazon affiliate links): &#8226;Sharpies: https://amzn.to/2PXvbf4&#10;&#8226;Sketch Pad Mini: https://amzn.to/2YnwpmC&#10;&#8226;Sketch Pencils: https://amzn.to/2W15lfx&#10;&#8226;White Gel Pen: https://amzn.to/3iC0v08&#10;&#8226;Prismacolor Color Pencils: https://amzn.to/2YldJUD&#10;&#8226;Marker Paper: https://amzn.to/2W5pfpX&#10;&#8226;Prismacolor Markers: https://amzn.to/2VhI1FR&#10;&#8226;Copic Markers: https://amzn.to/2E6vC1Y   https://amzn.to/3amHZF4&#10;#howtodraw  #drawsocute&#10;&#9733;Easy, simple follow along drawing lessons for beginners. Fun, Cute art . &#9733;Learn How to Draw the EASY, Step by Step Way while having fun and building skills and confidence. Learning videos for all ages. Great for teachers to share with their students.&#10;&#9733;Drawing Tutorials on everything&#10;&#9733;You can learn how to color with markers, color pencils and much more. &#10;&#9733;FUN ART CHALLENGES, DIY's and Coloring Pages and Activities can also be found here!&#10;&#9733;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion!&#10;Enjoy Art and have fun being creative and becoming an artist! &#10084;&#10;&#10;&#10084;SUBSCRIBE: http://www.youtube.com/channel/UC3dEv...&#10;&#10;-Website: http://www.drawsocute.com &#10;-Facebook: http://www.facebook.com/drawsoocute&#10;-Instagram: https://instagram.com/drawsocutebywen...&#10;Have a GREAT day and see YOU later! :)"
     channel_title "Draw So Cute"
     channel_id "UC3dEvA1is6-0_yuei9iCdEw"
     fav_count 0
@@ -6696,7 +6696,7 @@ graph [
     step 0
     date "2022-06-22T20:52:31Z"
     title "How to draw faces in different angles &#128578;&#9997;&#127995; #art #shorts"
-    description "how to draw, how to draw a face, face drawing,How to draw face for beginners tutorial,how to draw faces,how to draw eyes,how to ..."
+    description "how to draw, how to draw a face, face drawing,How to draw face for beginners tutorial,how to draw faces,how to draw eyes,how to draw a girl,how to draw faces for beginner show to draw a face for beginners,how to draw faces step by step,how to draw faces easy,how to draw a realistic face,how to draw portraits,how to draw a person,how to draw a female face,how to draw face proportions,how to draw face features,how to draw realistic faces, how to draw faces for beginners, how to draw face, how to draw face easy, how to draw goku, how to draw goku easy, how to draw gokus face, how to draw dragonball, how to draw dragon ball, how to draw anime face, how to draw manga, how to draw manga face, how to draw anime, draw face easy, draw easy face, how to draw mouth, how to draw nose, how to draw ears, how to draw ear, how to draw eyes,how to draw eye, how to draw face easy, how to draw face simple, face drawing, easy face drawing, anime face, easy anime face, manga face, easy manga face, draw face sideways, draw face from profile, draw face from side, how to draw face sideways, how to draw face from profile, how to draw face from side, how to draw nose from side, how to draw nose sideways, nose from side, how to draw anime nose, how to draw anime nose from side, how to draw anime nose sideways, how to draw face in different angles, how to draw faces different angles, how to draw face sideways, how to draw back, how to draw tutorial, drawing face tutorial&#10;#drawing #howto #tutorial #shorts #art #howtodraw"
     channel_title "chibi4rt"
     channel_id "UCdsurUB3F35D_eiNO74FZ9w"
     fav_count 0
@@ -6711,7 +6711,7 @@ graph [
     step 0
     date "2022-07-10T05:15:01Z"
     title "How to draw a girl with BTS cap covered face || Pencil drawing tutorial || Girl drawing || drawing"
-    description "How to draw a girl with BTS cap covered face || Pencil drawing tutorial || Girl drawing || drawing, drawing for girls, drawing of girl, ..."
+    description "How to draw a girl with BTS cap covered face || Pencil drawing tutorial || Girl drawing || drawing, drawing for girls, drawing of girl, girls drawing, girl drawing, drawing neelu, easy drawing, drawing, how to draw a girl, drawing girl, pencil drawing, girl drawing easy, simple drawing, easy drawings, girl draw, drawings, drawing pictures, drawing video, girl easy drawing, pencil art, girl with cap, cap with girl drawing, cap with cap sketch, girl with cap covered face&#10;&#10;&#129310;Any questions contact me.&#129310;&#10;Instagram https://www.instagram.com/drawingneelu&#10;Facebook https://www.facebook.com/Drawingneelu&#10;Pinterest https://pinterest.com/drawingneelu&#10;&#10;{ &#128158; Daily Uploading Videos Time &#9201;&#65039; 10:45 AM &#128158; }&#10;&#10;Use Materials&#10;1. Double A Paper&#10;2. Doms Zoom Ultimate Dark&#10;3. Blending Stump&#10;4. Push up Eraser&#10;5. White Gel Pen&#10;&#10;{ Music &#9834;&#9835;  credit }     &#10;1.Song: Tobjan - Hawaii&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/h00qeHfqCx0&#10;&#10;2.Song: Jim Yosef - Firefly [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/jyfirefly&#10;Watch: http://youtu.be/x_OwcYTNbHs&#10;&#10;3.Song: Julius Dreisig &#38; Zeus X Crona - Invisible [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/Invisible&#10;Watch: http://youtu.be/QglaLzo_aPk&#10;&#10;#Girldrawing #Pencildrawing #Easydrawing"
     channel_title "Drawing Neelu"
     channel_id "UCxCk6hXGtDzezrsdW9zb9eA"
     fav_count 0
@@ -6726,7 +6726,7 @@ graph [
     step 0
     date "2020-05-01T10:55:57Z"
     title "How to draw a girl with Butterfly in Moonlight for beginners || Pencil sketch || Art Video"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1.Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) 2.Tissue paper 3. Eraser Subscribe to my ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1.Pencil Name :  DOMS ( ZOOM ULTIMATE DARK ) &#10;2.Tissue paper &#10;3. Eraser           &#10;&#10;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#10;&#9661; Visit to my channel :&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#10;&#9661; My Facebook Page Link &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923&#10;&#10;&#10;&#10;Subscribe to my other channel: &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;&#10;1. Song: Osh&#243;va - Our Fantasies&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/2QugMAPmjqQ&#10;&#10;2. Song: Alban Chela - You're My Reason Now (ft. SIRMA)&#10;Link: https://youtu.be/57YWX_vmnBE&#10;Music promoted by FMW. Released by Magic.&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#10;#Pencil_Drawing   #Girl_Drawing  #Art_Video&#10;&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6741,7 +6741,7 @@ graph [
     step 0
     date "2022-07-08T06:08:51Z"
     title "Bolalar uchun vertolyot rasm chizish. &#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1042;&#1077;&#1088;&#1090;&#1086;&#1083;&#1077;&#1090;. How to draw a helicopter.&#128520;&#128520;&#128520;&#128293;&#128293;&#128293;#shorts"
-    description "Bolalar uchun vertolyot rasm chizish. &#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1042;&#1077;&#1088;&#1090;&#1086;&#1083;&#1077;&#1090;. How to draw a helicopter."
+    description "Bolalar uchun vertolyot rasm chizish. &#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1042;&#1077;&#1088;&#1090;&#1086;&#1083;&#1077;&#1090;. How to draw a helicopter.&#128293;&#128293;&#128293;&#128520;&#128520;&#128520;&#128293;&#128293;&#128293;&#10;https://youtu.be/mq9JzzAGBz0&#10;&#10;#FunKeepArt, #BeTaiNangTV, #ToBIART, #Drawapicture, #drawapicture, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1091;&#1089;&#1090;&#1077;&#1088;, #rasmchizish, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1099;&#1087;&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #drawdolls, #bolalaruchunrasmchizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081;, #drawingforchildren, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090;, #JLbs pusla #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1091;&#1095;&#1091;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #001, #&#231;ocuklari&#231;in&#231;izim, #dessinpourenfants, #700 #Draw, #drawing, #drawpicture, #picture, #drawpicture, #drawdolls, #drawtoys, #drawtoys, #drawdolls, #drawpictureozbek, #drawpictureozbek, #cuteDraws, #cutedraws, #cyper #&#1089;&#1072;&#1083;&#1091;, #c&#1091;&#1088;&#1077;&#1090; #&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1091;&#1089;&#1090;&#1077;&#1088;, #rasm #chizish, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1099;&#1087; #&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #&#1199;&#1081;&#1076;i&#1187; #&#1089;&#1091;&#1088;&#1077;&#1090;i&#1085; #&#1089;&#1072;&#1083;&#1091;, #bolalar #uchun #rasm #chizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; #&#1076;&#1083;&#1103; #&#1076;&#1077;&#1090;&#1077;&#1081;, #drawing #for #children, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1075;&#1072; #&#1072;&#1088;&#1085;&#1072;&#1083;&#1075;&#1072;&#1085; #&#1089;&#1091;&#1088;&#1077;&#1090;, ### #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088; #&#1091;&#1095;&#1091;&#1085; #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #00#, #&#231;ocuklar #i&#231;in #&#231;izim, #dessin #pour #enfants, #7100 #Draw, #drawing, #drawpicture, #picture, #draw #picture, #draw #dolls, #draw #toys, #drawtoys, #drawdolls, #drawpictureozbek, #draw #picture #ozbek, #cute #Draws, #cute #draws"
     channel_title "Draw Dolls"
     channel_id "UCt-6dB601y5bV_QTwcYGpoA"
     fav_count 0
@@ -6756,7 +6756,7 @@ graph [
     step 0
     date "2013-11-21T13:41:35Z"
     title "How to draw a JCB backhoe loader machine Drawing."
-    description "This is the video drawing of a JCB machine kids love this machine and its been dedicated to them. Teach your children how to ..."
+    description "This is the video drawing of a JCB machine kids love this machine and its been dedicated to them. Teach your children how to draw the JCB machine  &#10;Our Web site: www.howmachineworks.com&#10;&#10;Please Like / Comment / Share to motivate our team.  &#10;&#10;Join Our Face Book Page: https://www.facebook.com/helpmedrawit&#10;&#10;Please bookmark our site http://www.HowMachineWorks.com &#10;&#10;You can Subscribe to us for more technical videos; thanks for your support have a great day."
     channel_title "Techtrixinfo Drawings"
     channel_id "UCwNSiE2tMuUQiBwVUzc9j8w"
     fav_count 0
@@ -6771,7 +6771,7 @@ graph [
     step 0
     date "2022-02-25T04:50:27Z"
     title "a HOTTER way to draw anime eyes"
-    description "how to draw eyes Clip Studio Paint (my drawing program) https://bit.ly/3bcrBJa *affiliate link btw Equipment: Mic: ..."
+    description "how to draw eyes&#10;&#10;Clip Studio Paint (my drawing program)&#10;https://bit.ly/3bcrBJa&#10;*affiliate link btw&#10;&#10;Equipment:&#10;Mic: https://amzn.to/3ks0Qok&#10;Pop filter: https://amzn.to/3yrMtpg&#10;Graphics Tablet: https://amzn.to/2UWPArz&#10;Camera: https://amzn.to/3zrPN53&#10;&#10;my brushes&#10;&#12501;&#12521;&#12483;&#12488; (flat pen)&#10;old pen content id: 1358977 &#10;new pen content id: 1702959&#10;hair brush: 1868700&#10;&#10;give my vid a like if you're reading this description uwu&#10;&#10;Contact this email for business: kooleen.business@gmail.com"
     channel_title "Kooleen"
     channel_id "UCL_Zrh9lwoOT7ftTRA-npvg"
     fav_count 0
@@ -6801,7 +6801,7 @@ graph [
     step 0
     date "2022-07-08T11:00:15Z"
     title "How To Draw Scenery | Drawing River and Bridge Scenery _ Oil Pastels Drawing"
-    description "How To Draw Scenery | Drawing River and Bridge Scenery _ Oil Pastels Drawing By watching this easy scenery drawing, we can ..."
+    description "How To Draw Scenery | Drawing River and Bridge Scenery _ Oil Pastels Drawing&#10;&#10;By watching this easy scenery drawing, we can learn about how to draw easy nature scenery with oil pastels, Drawing River and Bridge Scenery gradation technique.&#10;&#10;Materials :&#10;1). A5 sketch or drawing paper &#10;2). Snowman twinpen&#10;3). Greebel Oil Pastels.&#10;&#10;If you like this video, I hope you dont mind to click subscribe, like, comment, and share.&#10;&#10;And dont forget to activate the notification.&#10;&#10;#oilpasteldrawing  #HowtoDrawEasyScenery #EasySceneryDrawing"
     channel_title "How to Draw Easy Scenery"
     channel_id "UCS1P5m1UIgPMluE2BEXNb1A"
     fav_count 0
@@ -6816,7 +6816,7 @@ graph [
     step 0
     date "2022-07-03T10:15:57Z"
     title "How to draw a girl wearing cap (Easy) || Pencil Sketch for beginners || bir k&#305;z nas&#305;l &#231;izilir"
-    description "Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name - DOMS ( ZOOM ULTIMATE DARK ) Pencil / 2B Pencil 2. Paper Name - Double A ..."
+    description "&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name -  DOMS ( ZOOM ULTIMATE DARK )  Pencil /  2B Pencil&#10;2. Paper Name -  Double A Offset paper&#10;3. Blending Stump &#10;(You can use  Paint brush, Tissue Paper or cotton buds instead of this blending stump)  &#10;&#10;&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;#PencilDrawing    #FaceDrawing   #DrawingTutorial &#10;&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6831,7 +6831,7 @@ graph [
     step 0
     date "2022-07-08T14:00:01Z"
     title "Finding Motivation to Draw"
-    description "I hope you enjoy this video :) if you do please let me know by giving the video a thumbs up or leaving me a comment ^^ and don't ..."
+    description "I hope you enjoy this video :) if you do please let me know by giving the video a thumbs up or leaving me a comment ^^ and don't forget to subscribe to my channel and click the bell icon if you want to be sure not to miss any of my videos &#9829;&#10;thank you for watching!&#10;&#10;Music: Loop-Caught - Andrew Langdon from the YouTube Audio Library"
     channel_title "Pearberrie"
     channel_id "UCIgfk9t1wTc-4IBI6uO5ewQ"
     fav_count 0
@@ -6846,7 +6846,7 @@ graph [
     step 0
     date "2015-02-23T15:31:26Z"
     title "How to draw a motorbike"
-    description "How to draw a motorbike Publishing : Suart86 All Rights Reserved (P) &#38; (C) Suart86 2014."
+    description "How to draw a motorbike&#10;Publishing : Suart86&#10;All Rights Reserved (P) &#38; (C) Suart86 2014"
     channel_title "Suart86"
     channel_id "UCl3k4s54YQomWsy54_hX88w"
     fav_count 0
@@ -6861,7 +6861,7 @@ graph [
     step 0
     date "2022-05-27T11:17:57Z"
     title "Easy Way to Draw side face of  a girl || Satisfying Creative Art"
-    description "Visit to my channel : https://www.youtube.com/c/FarjanaDrawingAcademy &#9659;For business inquiries: ..."
+    description "&#9658;Visit to my channel :&#10; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#9658;For business inquiries: &#10;contactwithfarjana@gmail.com&#10;&#10;&#9658; My Instagram Page Link -&#10;https://www.instagram.com/farjana_drawing_academy_/&#10;&#10;&#9658; Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;#tranding&#10;#viralvideo&#10;#Satisfying &#10;#GirlDrawing  &#10;#FaceDrawing   &#10;&#10;About me:&#10;If you're new, hi, my name's Farjana! &#10;On this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!&#10;If you like my videos, Don't forget to subscribe and hit the bell.&#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -6891,7 +6891,7 @@ graph [
     step 0
     date "2019-08-29T12:54:48Z"
     title "How to Draw Lord Ganesha part-1 for beginners|| Ganesh chaturthi special || Ganpati Drawing"
-    description "Click the link for part-2 video https://youtu.be/JZgkGgRBKgU Hello Friends, Welcome to 'The Canvas' I'll upload this complete ..."
+    description "Click the link for part-2 video&#10;https://youtu.be/JZgkGgRBKgU&#10;&#10;Hello Friends, Welcome to 'The Canvas'&#10;&#10;  I'll upload this complete painting in 2 parts, this is the part-1 video, In this video i show you How to draw Lord Ganesha/Ganpati Drawing/Ganesh ji ki Drawing/Lord CHILD GANESHA Drawing/Ganesh chaturthi festival drawing step by step with using oil pastels.&#10;&#10; this painting is specially made for Kids or All beginners level students....&#10;&#10;just follow the step procedure shown in the tutorial.. I hope you you like it...&#10;   &#10;&#10;&#10;#ganesha_drawing #ganesh_chaturthi_2020 #child_ganesha #The_Canvas&#10;-------------------------------------------------------------------------------------------------------&#10;&#10;your Likes, Comments, &#38; Share motivate us to prepare more art &#38; craft ideas &#38; tutorials for you. So please like, share and comment.&#10;&#10;Click here to Subscribe&#10;https://www.youtube.com/c/thecanvas20&#10;-------------------------------------------------------------------------------------------------------&#10;&#10;SOCIALS:&#10;&#10;Facebook: https://www.facebook.com/The-Canvas-1729318297115111/&#10;&#10;Twitter: https://twitter.com/DipakDa71804584&#10;&#10;Instrgram: https://www.instagram.com/thecanvas20&#10;&#10;-------------------------------------------------------------------------------------------------------&#10;&#10;Music Credits:&#10;&#10;Thank you...."
     channel_title "The Canvas"
     channel_id "UCcTqfQH-VIGE1YdmGywntlg"
     fav_count 0
@@ -6906,7 +6906,7 @@ graph [
     step 0
     date "2022-07-10T16:09:46Z"
     title "How to draw scenery of spring scason || Spring scason drawing step by step|"
-    description "How to draw scenery of spring scason || Spring scason drawing step by step| welcome to mou's colours."
+    description "How to draw scenery of spring scason || Spring scason drawing step by step|&#10;&#10;welcome to mou's colours.&#10;&#10;#Howtodrawsceneryofspringscason &#10; #Howtodraweasyscenerydrawing &#10;#howtodraw &#10;#easyscenerydrawing&#10;#Springscasondrawingstepbystep &#10;&#10;*Used things&#10;&#9733;paper &#8211;Art paper&#10;&#9733;Marker &#8211;fle office &#10;&#9733;Pencil colour &#8211;Faber&#8211;Castell&#10;&#10;In this video, I tried to draw a spring scason drawing  for the beginners.I showed every step of my drawing. I hope, this video will help you to learn new drawing skills.&#10;&#10;Like and subscribe my channel, if you find this video interesting. &#10;&#10;How to draw scenery of spring scason.&#10;&#10;Thank you.....!!!&#10;&#10;Link of other videos:&#10;&#10;https://www.youtube.com/watch?v=xEwPMSvVJLI&#38;t=8s&#10;&#10;https://www.youtube.com/watch?v=Skot2LiKBI8&#10;&#10;&#10;Keyword inquiry-&#10;1)How to draw scenery of spring scason &#10;2)Spring scason drawing step by step"
     channel_title "Mou's Colours"
     channel_id "UCgVCyZVb7FFpMi6W1s_wsDg"
     fav_count 0
@@ -6936,7 +6936,7 @@ graph [
     step 0
     date "2022-07-11T08:00:26Z"
     title "How To Draw A Moth"
-    description "Learn How To Draw A Moth We offer here some interesting content like easy Moth Drawing and Coloring #drawings ..."
+    description "Learn How To Draw A Moth&#10;We offer here some interesting content like easy Moth Drawing and Coloring&#10;&#10;#drawings #drawingideas #howtodraw&#10;&#10;If you are looking for drawing ideas and coloring then you are at the right place. And we share cool drawings and coloring for you people.&#10;&#10;Thank you for visiting us...&#10;&#10;More video:&#10;&#10;How To Draw A Mug&#10;https://www.youtube.com/watch?v=vbI9JYA4z0o&#10;&#10;How To Draw Air Balloon&#10;https://www.youtube.com/watch?v=4WqYEb_fZJw&#10;&#10;How To Draw A Table&#10;https://www.youtube.com/watch?v=nX5nvNckIew&#10;&#10;How To Draw Cute Makeup kit&#10;https://www.youtube.com/watch?v=jk5j_XxMMYU&#10;&#10;How To Draw A Bottle&#10;https://www.youtube.com/watch?v=mK8tgxg2ozg"
     channel_title "Unique Coloring Pages"
     channel_id "UCswUCeCmfc7hqwCDqJlwhfg"
     fav_count 0
@@ -6951,7 +6951,7 @@ graph [
     step 0
     date "2022-07-11T10:14:05Z"
     title "(Illustration Making) how to draw pretty girls #procreate  #shorts #&#12452;&#12521;&#12473;&#12488;&#12513;&#12452;&#12461;&#12531;&#12464;"
-    description "kawaii**pretty music&#9825; Lo-fi BGM&#8595; https://youtu.be/K2t6MuE4dfk Please subscribe Lo-fi Music PLAYLIST ..."
+    description "&#8595;kawaii**pretty music&#9825; &#127926;  Lo-fi BGM&#8595;&#10;https://youtu.be/K2t6MuE4dfk&#10;&#10;&#10;Please subscribe &#128048;&#10;&#10;Lo-fi Music PLAYLIST&#10;https://youtube.com/playlist?list=PLn077DyINkcDcnIe8y1YF_G2jwJHFPCs0&#10;&#10;Illustration by mollydomon&#10;https://www.instagram.com/mollydomon/&#10;&#10;66"
     channel_title "Boo chill&#128048; (Lo-fi music)"
     channel_id "UCRpewydtX-OxxACTANy9_mQ"
     fav_count 0
@@ -6966,7 +6966,7 @@ graph [
     step 0
     date "2021-05-24T10:43:32Z"
     title "How to draw world environment day poster, Save nature drawing easy"
-    description "Color drawing Book have tutorials for Beginners to make drawing easier. So that don't forget to subscribe our channel. also like ..."
+    description "Color drawing Book have tutorials for Beginners to make drawing easier. So that don't forget to subscribe our channel. also like and comments in video.&#10;&#10;Follow Facebook :: https://www.facebook.com/Sayataru&#10;Follow Instagram :: https://www.instagram.com/sayatarucreation&#10;Follow Twitter :: https://twitter.com/sayataru10&#10;Join FB Group :: https://www.facebook.com/groups/sayatarucreation&#10;E-mail :: colordrawingbook@gmail.com&#10;&#10;This video about How to draw world environment day poster.&#10;save nature drawing easy, save the nature drawing for competition&#10;save environment drawing for competition&#10;drawing of nature with oil pastels, save trees save nature drawing&#10;save trees save earth drawing, how to draw save nature easy&#10;how to draw save environment poster, how to draw scenery of nature&#10;environment day poster drawing, environment day drawing competition 2021&#10;easy drawing, scenery drawing, drawing school, painting tutorials&#10;how to draw simple scenery for beginners&#10;#Drawing #Painting #EnvironmentDay"
     channel_title "Color Drawing Book"
     channel_id "UC4B4GVw19XBxE8jHUVhBbgw"
     fav_count 0
@@ -6981,7 +6981,7 @@ graph [
     step 0
     date "2022-07-08T16:00:01Z"
     title "How To Draw Quetzalcoatlas | Step By Step | Jurassic World Dominion"
-    description "Learn How To Draw Quetzalcoatlas Step By Step from Jurassic World Dominion Request, Message me ..."
+    description "Learn How To Draw Quetzalcoatlas Step By Step from Jurassic World Dominion&#10;Request, Message me -----} https://www.patreon.com/artsimple&#10;Donate ----- } https://paypal.me/ArtSimple"
     channel_title "Art.Simple."
     channel_id "UC567DbfLo5ktc8JBrFKCQeA"
     fav_count 0
@@ -7011,7 +7011,7 @@ graph [
     step 0
     date "2022-07-09T06:30:01Z"
     title "&#2350;&#2366;&#2340;&#2381;&#2352; 1% &#2354;&#2379;&#2327; &#2332;&#2366;&#2344;&#2340;&#2375; &#2361;&#2376;&#2306; &#2320;&#2360;&#2366; &#2340;&#2352;&#2368;&#2325;&#2366; / How to Draw Monkey Drawing / step by step for beginners"
-    description "&#2350;&#2366;&#2340;&#2381;&#2352; 1% &#2354;&#2379;&#2327; &#2332;&#2366;&#2344;&#2340;&#2375; &#2361;&#2376;&#2306; &#2320;&#2360;&#2366; &#2340;&#2352;&#2368;&#2325;&#2366; / How to Draw Monkey Drawing / step by step for beginners Like ..."
+    description "&#2350;&#2366;&#2340;&#2381;&#2352; 1% &#2354;&#2379;&#2327; &#2332;&#2366;&#2344;&#2340;&#2375; &#2361;&#2376;&#2306; &#2320;&#2360;&#2366; &#2340;&#2352;&#2368;&#2325;&#2366; / How to Draw Monkey Drawing / step by step for beginners&#10;&#10;Like &#10;Share &#10;Subscribe &#10;&#10;Doms Brush Pen : https://amzn.to/2NM9W34 &#10;&#10;Camlin Brush Pen : https://amzn.to/2N0Dvxa &#10;&#10;Acrylic Paint marker: https://amzn.to/3884GOO &#10;&#10;Water colour link : https://amzn.to/396U2Zy &#10;&#10;Sharpie Permanent Marker Buy AffiliateLink : https://amzn.to/3a8cBLc &#10;&#10;Sharpie Ultra fine point Permanent Color marker Affiliate link: &#10;https://amzn.to/3ktwSzK &#10;&#10;Doms Color Buy Affiliate link : &#10;https://amzn.to/33CcJ4u &#10;&#10;Gallery Oil Pastel Affiliate link   : &#10;https://amzn.to/2XHUdDM &#10;&#10;Dark Pencil 8B Affiliate link  :- &#10;https://amzn.to/31DcweA &#10;&#10;Masking Tape Affiliate link   :- https://amzn.to/33Le0WT &#10;&#10;Correction Pen Affiliate link   : https://amzn.to/31sgZ3C &#10;&#10;Ultra Smoot 200 GSM Paper Affiliate link   : https://amzn.to/31BRD3k &#10;&#10;Camlin Artists Oil Pastels Affiliate link  : https://amzn.to/30Eisok &#10;&#10;My Vlog Channel link &#10;AP Vlog :- https://youtu.be/J6jsITMKfMU &#10;&#10;Facebook link:- &#10;&#10;https://www.facebook.com/Apdrawingofficial/ &#10;&#10;Instagram link:-&#10;https://www.Instagram.com/apdrawingofficial&#10;&#10;#monkey #art #drawing #easy"
     channel_title "A P DRAWING"
     channel_id "UC_Q8qN8FTr4h4Waf01bty7g"
     fav_count 0
@@ -7026,7 +7026,7 @@ graph [
     step 0
     date "2022-07-10T13:30:00Z"
     title "easy peacock rangoli with dots made easy to draw for festivals|parrot kolangal designs|nemali muggu"
-    description "hi friends my name is sarojamma and welcome to my youtube channel village talent rangoli my channel is helpful to draw all types ..."
+    description "hi friends&#10;my name is sarojamma and welcome to my youtube channel village talent rangoli&#10;my channel is helpful to draw all types of SMALL RANGOLI or KOLAMS designs like SIMPLE RANGOLI,DAILY RANGOLI,LATEST MUGGULU,RANGOLI KOLANGAL,PULLI KOLANGAL and manymore&#10;here also you find festival rangoli,rangoli muggulu,kolam rangoli,rangoli kolangal,dhanurmasam muggulu,sankranthi muggulu,border design,rangoli diwali or deepavali sankranthi or pongal margazi,(vinayaka chavathi),sivarathri,ugadi&#10;all the KOLAMS(RANGOLI) are draw very simple step by step with colour.hence it is very easy to redraw the RANGOLIS AND MUGGULU&#10;I feel so great to draw our traditional RANGOLIS,MUGGULU,KOLAMS MADE EASY TO EVERYONE&#10;Please subscribe to my channel village talent rangoli for intertacting with you please leave your comment for grow my youtube channel&#10; &#10;channel tags; &#10;5 pulli kolangal,rangoli kolam,muggulu designs,bhogi muggulu,&#10;small rangoli design,chukkala muggulu,kolam with dots,easykolangal color kolams,peacock rangoli,new kolams,daily rangoli,free hand rangoli,latest rangoli with dots,easy rangoli designs,big rangoli,parrot kolams,small kolam designs,how to draw rangoli,festival rangoli,rangoli muggulu,kolam rangoli,rangoli kolangal,dhanurmasam muggulu,sankranthi muggulu,border design,rangoli for diwali,"
     channel_title "village talent rangoli"
     channel_id "UCuW2ukklff7wSJzJQMxB5zg"
     fav_count 0
@@ -7041,7 +7041,7 @@ graph [
     step 0
     date "2016-09-13T15:51:05Z"
     title "How to Draw Mahatma Gandhi Color Drawing Step by step"
-    description "How to Draw Mahatma Gandhi Drawing step by step Mohandas Karamchand Gandhi Drawing / Gandhi Jayanti Greeting / Father ..."
+    description "How to Draw Mahatma Gandhi Drawing step by step&#10;Mohandas Karamchand Gandhi Drawing / Gandhi Jayanti Greeting&#10;/ Father of the Nation Drawing / Gandhi / Bapuji Drawing"
     channel_title "KIDS CARTOON DRAWINGS"
     channel_id "UCytePDFmydcE-g3pIVR3Rog"
     fav_count 0
@@ -7056,7 +7056,7 @@ graph [
     step 0
     date "2022-05-31T15:47:22Z"
     title "I tried to draw my mom with $100 EXTRAVAGANT vs. $0.99 cheap pencils&#128563; which is better? (#Shorts)"
-    description "I tried to draw my mom with $100 EXTRAVAGANT vs. $0.99 cheap pencils   which is better? I am also on Insta and TikTok: ..."
+    description "I tried to draw my mom with $100 EXTRAVAGANT vs. $0.99 cheap pencils&#128563; which is better?&#10;&#10;I am also on Insta and TikTok: &#10;&#128149;Insta: @ninjagirldraws&#10;&#129293;Art TikTok: @ninjagirldraws&#10;&#10;&#129293;Business: mihaiudania@gmail.com"
     channel_title "DANIA"
     channel_id "UClakIe_HUo6sP4dWTHRD-vg"
     fav_count 0
@@ -7086,7 +7086,7 @@ graph [
     step 0
     date "2022-07-11T08:49:01Z"
     title "How to draw a sketch of Lord Shiva // Easy way to draw Shiva sketch"
-    description "artandcraft #pencilsketch How to draw a sketch of Lord Shiva // Easy way to draw Shiva sketch You learn in this video, How to ..."
+    description "#artandcraft #pencilsketch&#10;How to draw a sketch of Lord Shiva // Easy way to draw Shiva sketch You learn in this video, How to draw a sketch of Lord Shiva on paper pencil step by step for all art #pencilpainting #kidsdrawing #priyaraocreation                  &#10; &#10;Facebookpage&#10;&#10;Instagram&#10;https://www.instagram.com/its_annnu_yadav"
     channel_title "Art and Craft"
     channel_id "UCoNhusubMZeAa9nzJmOKlhQ"
     fav_count 0
@@ -7116,7 +7116,7 @@ graph [
     step 0
     date "2022-07-11T04:41:57Z"
     title "how to draw human spine / backbone drawing | spinal cord diagram | spine drawing"
-    description "how to draw human spine / backbone drawing | spinal cord diagram | spine drawing Hi friends welcome to my Om Art Channel ..."
+    description "backbone drawing | spinal cord diagram | spinal cord drawing &#10;&#10;Hi friends&#10;           welcome to my Om Art Channel,this video  I will show you how to draw human spine / backbone&#10;&#10;&#10;PLAYLIST LINKS :-&#10;My previous class 6 videos&#128071;&#10;https://youtube.com/playlist?list=PL8rvIj08NoovecFApFrO_poIHhdAdJg2O&#10;&#10;My Previous class 7 videos &#128071;&#10;https://youtube.com/playlist?list=PL8rvIj08NoovRhnSfwIrAX1vtsPgndweU&#10;&#10;My previous class 8 videos&#128071;&#10;https://youtube.com/playlist?list=PL8rvIj08NooujY3_zhwqmOo9lq1ToN0&#10;&#10;My previous class 9 videos &#128071;&#10;https://youtube.com/playlist?list=PL8rvIj08NooszwmHsm0vdlSfdnkLeK1Q-&#10;&#10;&#10;My previous class 10 videos &#128071;&#10;https://youtube.com/playlist?list=PL8rvIj08NoovdnNmojfToitDKNzUvf9a6&#10;&#10;My previous class 11 videos &#128071;&#10;https://youtube.com/playlist?list=PL8rvIj08NoouRwUNpwaSldhHur5G7cGeC&#10;&#10;My previous class 12 videos &#128071;&#10;https://youtube.com/playlist?list=PL8rvIj08NoovZYXq6i1a9LNKaqvhwzmX6&#10;&#10;&#10;#backbonedrawing&#10;#spinalcorddrawing&#10;#spinalcorddiagram&#10;#OmArtChannel&#10;#RAHULArts&#10;#CraftsA2Z&#10;#Artisfun&#10;#JVtutorials&#10;&#10;&#10;@Om Art Channel. &#10;@N.H Academic drawing &#10;@Artisfun &#10;@RAHUL Arts &#10;@LBA Drawings &#10;&#10;&#10;&#10;&#10;---------------------------Queries solved--------------------------&#10;backbone drawing&#10;spinal cord drawing&#10;how to draw human spine / backbone drawing&#10;spinal cord diagram&#10;spine drawing&#10;human skeleton structure&#10;human skeleton structure&#10;human spinal cord structure and function&#10;spine structure and function&#10;spine in human body&#10;spine structure&#10;how to draw human backbone&#10;spine drawing&#10;spine diagramdiagram&#10;human backbone drawing&#10;human backbone picture&#10;backbone drawing&#10;backbone diagram&#10;backbone structure drawing&#10;backbone structure drawing&#10;rahul arts&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;Do LIKE SHARE COMMENT and SUBSCRIBE&#10;&#10;Thanks for watching....... &#10;&#10;&#10;&#10;MATERIALS USED&#10;*10B Pencil&#10;&#10;EDITING:&#10;Kine Master.&#10;                           &#10;                           -: THANKS&#128591;:-&#10;                         god bless you all"
     channel_title "Om Art Channel."
     channel_id "UCLDnNl_ZlnhxU4HHgZRa_zA"
     fav_count 0
@@ -7161,7 +7161,7 @@ graph [
     step 0
     date "2022-07-11T08:26:20Z"
     title "How to draw fairy girl || fairy drawing ||beautiful drawing"
-    description "fairy girl sketch beautiful girl fairy fairy drawing big girl fairy sketch fairy pencil sketch beautiful sketch beautiful drawing fairy sketch ..."
+    description "fairy girl sketch&#10;beautiful girl fairy&#10;fairy drawing&#10;big girl fairy sketch&#10;fairy pencil sketch&#10;beautiful sketch&#10;beautiful drawing&#10;fairy sketch&#10;fairy girl drawing"
     channel_title "Miral Pencil Arts"
     channel_id "UChaNWxjAtJgxB1avJGWHD4A"
     fav_count 0
@@ -7176,7 +7176,7 @@ graph [
     step 0
     date "2022-07-05T16:53:02Z"
     title "Learn How to Draw and Paint &#38;quot;DOCK ON THE LAKE&#38;quot; - Paint and Sip at Home - Fun Acrylic Painting Lesson"
-    description "PAINTING VIDEO DESCRIPTION &#8211; This canvas painting tutorial will take you through easy step-by-step instructions on how to ..."
+    description "PAINTING VIDEO DESCRIPTION &#8211; This canvas painting tutorial will take you through easy step-by-step instructions on how to draw and paint this sentimental and beautiful summer scene landscape painting &#34;DOCK ON THE LAKE&#8221; with acrylic paint. I&#8217;m the youngest of four children, and despite being picked on relentlessly by each of my siblings in different ways growing up, I have a lot of fond memories with them as kids. Reminiscing about our childhood seems to be what we enjoy doing the most when the four of us somehow manage to get together every few years nowadays. Summer stories about going to grandpa&#8217;s house on Sundays and picking blueberry&#8217;s, riding our horses in the trails in our backyard, sitting in the back of dad&#8217;s old pickup truck at the drive-in movie theater, stuffing our faces at the Blandford fair, building forts in the woods, and, perhaps, my favorite, going to Lake George in upstate New York. Foot-long hotdogs, live music, homemade ice cream, boat rides, fishing, and jumping off the dock and swimming in the warm water for hours. Thinking about the four of us sitting on the edge of the dock with the sun on our backs overlooking the water is the inspiration for this acrylic painting lesson. So, join me and paint this nostalgic scene and imagine your feet dangling off a dock as you sit next to your family or loved ones and share a precious moment or fond memory of your life. The first lesson you&#8217;ll learn in this easy beginner painting tutorial is how to paint a sunny sky and landscape with out-of-focus foliage using a scrubbing or scumbling technique. Next, you&#8217;ll paint water in two steps by layering soft bright colors to add depth and then using directional brushstroke to add ripples and movement. You&#8217;ll create a two-tone wood grain appearance for the dock with just a few brushstrokes. After learning how to use a dot-to-dot drawing method, you&#8217;ll draw an outline for your family&#8217;s feet and shoes, followed by mixing colors to create a skin tone to use at the base coat for the feet and ankles. By simply using your skin tone, brown, black and white, you&#8217;ll add highlights and shadows to give form, perspective and dimension to your legs and feet. You&#8217;ll use this same easy painting method of applying highlights and shadows to add details and texture to your shoes, including, using a one stroke brush technique to create contours and accentuate the curves, giving your sandals, crocs and flipflops roundness and form creating a 3-D photo realistic appearance. You&#8217;ll paint reflections in the water using all the colors on your palette with a simple side-to-side diagonal brushstroke to emulate the ripples and waves. Using only 3 brushes, 7 colors, and only one brush per step, you&#8217;ll create the best canvas painting in the world! Not just an inspirational painting with a storybook illustration narrative, but an easy painting for beginners. Paint alone, or with friends! Have a date night, paint party, or virtual paint night. Paint with gouache, oil paint, or water colour, any medium will work!  So, let's get painting and let's get sipping!&#10; &#10;IMAGE LINK FOR PRINTING:&#10;https://static1.squarespace.com/static/5a30281990bade409dfa356b/t/62c4691cba818f58d785c3cc/1657039133131/Dock+on+the+Lake-print.jpg&#10;&#10;MATERIALS: &#10;Canvas: 16x20 stretched primed canvas &#10;Brushes: 3/4 inch flat bristle (large), #6 round synthetic (medium), #2 round synthetic (small)&#10;Acrylic Paint: titanium white, mars black, cobalt blue, burnt sienna (rust), burnt umber (brown), green oxide and deep yellow&#10;Other: white chalk, palette, cup of water for washing brushes, paper towel for drying brushes &#10;&#10;PURCHASE FULL DIY KIT FOR THIS PAINTING or MICHELLE&#8217;S ORIGINAL PAINTING HERE:&#10;https://berkshirepaintandsip.squarespace.com/shop&#10;&#10;STEPS: &#10;1. 3/4 inch bristle brush &#8211; Paint landscape with black, blue, green, rust, brown, and white&#10;2. 3/4 inch bristle brush &#8211; Paint dock with brown and black&#10;3. 3/4 inch bristle brush &#8211; Paint first layer to water with black, brown, white, blue, and green&#10;4. 3/4 inch bristle brush &#8211; Finish water with black, green, grey (made in step 3), white, rust, blue and yellow&#10;5. Chalk &#8211; Draw outline for feet&#10;6. #6 round brush &#8211; Paint base coat for feet and shoes with black, brown, rust, yellow and white&#10;7. #2 round brush &#8211; Paint shadows on skin black, brown, skin tone (made in step 6)&#10;8. #2 round brush &#8211; Paint highlights on edge of dock and skin with white and skin tone&#10;9. #2 round brush &#8211; Finish shoes with black, white and blue&#10;10. #2 round brush &#8211; Paint reflections of feet in water with black, white, blue, grey, skin tone and light skin tone (made in step 8)&#10;11. #2 round brush &#8211; Sign with Black&#10;    &#10;LINKS AND CONTACT INFO: Michelle's Patreon Page: &#10;https://www.patreon.com/michellethepainter Website: &#10;https://berkshirepaintandsip.squarespace.com/ Facebook: &#10;https://www.facebook.com/berkshirepaintandsip/ Email: contact@michellethepainter.com &#10;#painting #art #acrylic"
     channel_title "Michelle the Painter"
     channel_id "UCwk1WSm8WkEh8NalbcHgvXQ"
     fav_count 0
@@ -7191,7 +7191,7 @@ graph [
     step 0
     date "2022-07-10T20:02:25Z"
     title "How to draw Mermaid Shimmer | Shimmer and Shine"
-    description "Check out my coloring book on Amazon, click link below: https://www.amazon.com/dp/B08B35X41W Check out my cute African ..."
+    description "Check out my coloring book on Amazon, click link below:&#10;https://www.amazon.com/dp/B08B35X41W&#10;Check out my cute African animal art on gumroad, click the link here:       &#10;https://gumroad.com/jjnen7981&#10;Hello! Let's draw Shimmer as a mermaid. &#10;Please SUBSCRIBE &#128150; LIKE &#38; leave a COMMENT&#128150;&#10;Thank you and take care&#128077;&#10;&#10;Learn the Easy Way How to Draw with Step by Step fun art tutorials. &#10;My cute toons will help you build skills with confidence.&#10;Drawing Tutorials on everything from insects, animals, fruit, food, toys everyday objects and people can all be found here at My cute toons! &#10;You can learn how to color with markers, color pencils, crayons and much more. &#10;Easy, simple follow along drawing lessons for all ages. &#10;Fun, Cute art for Everyone! &#10;Celebrate Mother's Day, Father's Day, Christmas, Valentines, New Years, Birthdays, etc. with Cute drawings just for the occasion! &#10;Enjoy Art and have fun being creative and becoming an artist!"
     channel_title "mycutetoons"
     channel_id "UCrtQNRjr8oxCkowBQtY6P4w"
     fav_count 0
@@ -7206,7 +7206,7 @@ graph [
     step 0
     date "2022-07-05T16:53:12Z"
     title "TIME LAPSE - Learn How to Draw and Paint &#38;quot;DOCK ON THE LAKE&#38;quot; - Fun and Easy Acrylic Painting Tutorial"
-    description "PAINTING VIDEO DESCRIPTION &#8211; This is a time-lapsed version on how to draw and paint this sentimental and beautiful summer ..."
+    description "PAINTING VIDEO DESCRIPTION &#8211; This is a time-lapsed version on how to draw and paint this sentimental and beautiful summer scene landscape painting &#34;DOCK ON THE LAKE&#8221; with acrylic paint. You can watch the full-length version here: https://youtu.be/Lds5SFX8Xes&#10;&#10;I&#8217;m the youngest of four children, and despite being picked on relentlessly by each of my siblings in different ways growing up, I have a lot of fond memories with them as kids. Reminiscing about our childhood seems to be what we enjoy doing the most when the four of us somehow manage to get together every few years nowadays. Summer stories about going to grandpa&#8217;s house on Sundays and picking blueberry&#8217;s, riding our horses in the trails in our backyard, sitting in the back of dad&#8217;s old pickup truck at the drive-in movie theater, stuffing our faces at the Blandford fair, building forts in the woods, and, perhaps, my favorite, going to Lake George in upstate New York. Foot-long hotdogs, live music, homemade ice cream, boat rides, fishing, and jumping off the dock and swimming in the warm water for hours. Thinking about the four of us sitting on the edge of the dock with the sun on our backs overlooking the water is the inspiration for this acrylic painting lesson. So, join me and paint this nostalgic scene and imagine your feet dangling off a dock as you sit next to your family or loved ones and share a precious moment or fond memory of your life. The first lesson you&#8217;ll learn in this easy beginner painting tutorial is how to paint a sunny sky and landscape with out-of-focus foliage using a scrubbing or scumbling technique. Next, you&#8217;ll paint water in two steps by layering soft bright colors to add depth and then using directional brushstroke to add ripples and movement. You&#8217;ll create a two-tone wood grain appearance for the dock with just a few brushstrokes. After learning how to use a dot-to-dot drawing method, you&#8217;ll draw an outline for your family&#8217;s feet and shoes, followed by mixing colors to create a skin tone to use at the base coat for the feet and ankles. By simply using your skin tone, brown, black and white, you&#8217;ll add highlights and shadows to give form, perspective and dimension to your legs and feet. You&#8217;ll use this same easy painting method of applying highlights and shadows to add details and texture to your shoes, including, using a one stroke brush technique to create contours and accentuate the curves, giving your sandals, crocs and flipflops roundness and form creating a 3-D photo realistic appearance. You&#8217;ll paint reflections in the water using all the colors on your palette with a simple side-to-side diagonal brushstroke to emulate the ripples and waves. Using only 3 brushes, 7 colors, and only one brush per step, you&#8217;ll create the best canvas painting in the world! Not just an inspirational painting with a storybook illustration narrative, but an easy painting for beginners. Paint alone, or with friends! Have a date night, paint party, or virtual paint night. Paint with gouache, oil paint, or water colour, any medium will work!  So, let's get painting and let's get sipping!&#10; &#10;IMAGE LINK FOR PRINTING:&#10;https://static1.squarespace.com/static/5a30281990bade409dfa356b/t/62c4691cba818f58d785c3cc/1657039133131/Dock+on+the+Lake-print.jpg&#10;&#10;MATERIALS: &#10;Canvas: 16x20 stretched primed canvas &#10;Brushes: 3/4 inch flat bristle (large), #6 round synthetic (medium), #2 round synthetic (small)&#10;Acrylic Paint: titanium white, mars black, cobalt blue, burnt sienna (rust), burnt umber (brown), green oxide and deep yellow&#10;Other: white chalk, palette, cup of water for washing brushes, paper towel for drying brushes &#10;&#10;PURCHASE FULL DIY KIT FOR THIS PAINTING or MICHELLE&#8217;S ORIGINAL PAINTING HERE:&#10;https://berkshirepaintandsip.squarespace.com/shop&#10;&#10;STEPS: &#10;1. 3/4 inch bristle brush &#8211; Paint landscape with black, blue, green, rust, brown, and white&#10;2. 3/4 inch bristle brush &#8211; Paint dock with brown and black&#10;3. 3/4 inch bristle brush &#8211; Paint first layer to water with black, brown, white, blue, and green&#10;4. 3/4 inch bristle brush &#8211; Finish water with black, green, grey (made in step 3), white, rust, blue and yellow&#10;5. Chalk &#8211; Draw outline for feet&#10;6. #6 round brush &#8211; Paint base coat for feet and shoes with black, brown, rust, yellow and white&#10;7. #2 round brush &#8211; Paint shadows on skin black, brown, skin tone (made in step 6)&#10;8. #2 round brush &#8211; Paint highlights on edge of dock and skin with white and skin tone&#10;9. #2 round brush &#8211; Finish shoes with black, white and blue&#10;10. #2 round brush &#8211; Paint reflections of feet in water with black, white, blue, grey, skin tone and light skin tone (made in step 8)&#10;11. #2 round brush &#8211; Sign with Black&#10;    &#10;LINKS AND CONTACT INFO: Michelle's Patreon Page: &#10;https://www.patreon.com/michellethepainter Website: &#10;https://berkshirepaintandsip.squarespace.com/ Facebook: &#10;https://www.facebook.com/berkshirepaintandsip/ Email: contact@michellethepainter.com &#10;#painting #art #acrylic"
     channel_title "Michelle the Painter"
     channel_id "UCwk1WSm8WkEh8NalbcHgvXQ"
     fav_count 0
@@ -7221,7 +7221,7 @@ graph [
     step 0
     date "2020-01-03T11:34:55Z"
     title "How to draw a girl with beautiful dress for beginners || Drawing Tutorial || &#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;"
-    description "How to draw a girl with beautiful dress. Bir k&#305;z nas&#305;l &#231;izilir &#9659; Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name : DOMS ( ZOOM ..."
+    description "How to draw a girl with beautiful dress.  Bir k&#305;z nas&#305;l &#231;izilir&#10;&#10;&#10;&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) &#10;                         &#10;2. Blending Stump &#10;(You can use  Paint brush /makeup brush or cotton buds instead of this blending stump  &#10;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#10;&#9661; Visit to my channel :&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#10;Subscribe to my other channel: &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;&#10;1. Be The One (feat. Ana&#239;k) by Vendredi https://soundcloud.com/vendrediduo&#10;Creative Commons &#8212; Attribution 3.0 Unported  &#8212; CC BY 3.0 &#10;Free Download / Stream: http://bit.ly/BeTheOne-Vendredi&#10;Music promoted by Audio Library https://youtu.be/nwAaGLo8OE8&#10;&#10;2. DEAMN   Rendezvous  &#10;&#10;3. Song: Shadowkey - Kiss Me (feat. Jellow)&#10;Link: https://youtu.be/tZU_R_PKCno&#10;Music promoted by FreeMusicWave.&#10; &#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;#PencilDrawing   #GirlDrawing    #DrawingTutorial&#10;&#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;Bir k&#305;z nas&#305;l &#231;izilir&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -7236,7 +7236,7 @@ graph [
     step 0
     date "2019-10-26T09:30:00Z"
     title "How to draw a girl with ponytail hairstyle || Pencil sketch || Face Drawing || bir k&#305;z nas&#305;l &#231;izilir"
-    description "A pretty girl with ponytail hairstyle drawing by a pencil for beginners. &#9659; Used things &#9645;&#9645;&#9645;&#9645;&#9645;&#9645; 1. Pencil Name : DOMS ( ZOOM ..."
+    description "A pretty girl with ponytail hairstyle drawing by a pencil for beginners. &#10;&#10;&#10;&#9658; Used things&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) &#10;                         &#10;2. Blending Stump &#10;(You can use  Paint brush /makeup brush or cotton buds instead of this blending stump)  &#10;&#10;&#10;&#10;&#10;Subscribe to my channel to get more drawing videos.&#10;&#10;&#9661; Visit to my channel :&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/c/FarjanaDrawingAcademy&#10;&#10;&#10;&#9661; My Facebook Page Link &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.facebook.com/Farjana-Drawing-Academy-1829595480630923&#10;&#10;&#10;&#10;Subscribe to my other channel: &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9658; https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw&#10;&#10;&#10;&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;  Music &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;   &#10;&#10;1. Song: Wonki - Sunset Paradise (Vlog No Copyright Music)&#10;Music provided by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/Q23BZRDjh-U&#10;&#10;2. Song: Ikson - Think U Know&#10;Music promoted by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/bzNGURXaQxU&#10;&#10;3. Song: Jarico &#38; Vlad Gluschenko - Weekend (Vlog No Copyright Music)&#10;Music promoted by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/dV2LSR19S1M&#10;&#10;4. Song: Erik Lund - One Day In Paradise (Vlog No Copyright Music)&#10;Music promoted by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/Ee2seuXpCRU&#10;&#10;5. Track: Unknown Brain - Why Do I? (ft. Bri Tolani) [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/tcHJodG5hX8&#10;Free Download / Stream: http://ncs.io/WhyDoIYO&#10;&#10;6. Song: Cadmium - Sunshine (Feat. Frances Leone)&#10;Music provided by FreeMusicWave.&#10;Video Link: https://youtu.be/XnMIcu_mPNo&#10; &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; &#9834;&#9835; &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#10;&#10;#GirlDrawing  #ArtVideo  #DrawingTutorial &#10;&#10;&#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577; &#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1585;&#1587;&#1605; &#1601;&#1578;&#1575;&#1577;&#10;&#1585;&#1587;&#1605; &#1575;&#1604;&#1588;&#1593;&#1585;&#10;&#10;At kuyru&#287;u sa&#231; modeli ile g&#252;zel bir k&#305;z nas&#305;l &#231;izilir&#10;&#10;bir k&#305;z nas&#305;l &#231;izilir&#10;&#10;&#10;If you like this video please like share &#38; subscribe. &#10;Thank You"
     channel_title "Farjana Drawing Academy"
     channel_id "UCd3s7BuoOlu4bRJL6RdGWXw"
     fav_count 0
@@ -7251,7 +7251,7 @@ graph [
     step 0
     date "2022-07-11T08:29:59Z"
     title "how to draw beautiful pencil drawing easy step by step"
-    description "Rani Easy drawing channel,how to draw beautiful pencil drawing easy step by step."
+    description "Rani Easy drawing channel,how to draw beautiful pencil drawing easy step by step"
     channel_title "Rani Easy drawing"
     channel_id "UCdd-ra1SunCRAxhMrgkpM9g"
     fav_count 0
@@ -7266,7 +7266,7 @@ graph [
     step 0
     date "2022-07-07T13:30:11Z"
     title "simple kolams designs with 5 dots made easy to draw |easy rangoli with flowers|small muggulu designs"
-    description "hi friends my name is sarojamma and welcome to my youtube channel village talent rangoli my channel is helpful to draw all types ..."
+    description "hi friends&#10;my name is sarojamma and welcome to my youtube channel village talent rangoli&#10;my channel is helpful to draw all types of SMALL RANGOLI or KOLAMS designs like SIMPLE RANGOLI,DAILY RANGOLI,LATEST MUGGULU,RANGOLI KOLANGAL,PULLI KOLANGAL and manymore&#10;here also you find festival rangoli,rangoli muggulu,kolam rangoli,rangoli kolangal,dhanurmasam muggulu,sankranthi muggulu,border design,rangoli diwali or deepavali sankranthi or pongal margazi,(vinayaka chavathi),sivarathri,ugadi&#10;all the KOLAMS(RANGOLI) are draw very simple step by step with colour.hence it is very easy to redraw the RANGOLIS AND MUGGULU&#10;I feel so great to draw our traditional RANGOLIS,MUGGULU,KOLAMS MADE EASY TO EVERYONE&#10;Please subscribe to my channel village talent rangoli for intertacting with you please leave your comment for grow my youtube channel&#10;simple kolams designs with 5 dots made easy to draw |easy rangoli with flowers|small muggulu designs &#10;channel tags; &#10;5 pulli kolangal,rangoli kolam,muggulu designs,bhogi muggulu,&#10;small rangoli design,chukkala muggulu,kolam with dots,easykolangal color kolams,peacock rangoli,new kolams,daily rangoli,free hand rangoli,latest rangoli with dots,easy rangoli designs,big rangoli,parrot kolams,small kolam designs,how to draw rangoli,festival rangoli,rangoli muggulu,kolam rangoli,rangoli kolangal,dhanurmasam muggulu,sankranthi muggulu,border design,rangoli for diwali,"
     channel_title "village talent rangoli"
     channel_id "UCuW2ukklff7wSJzJQMxB5zg"
     fav_count 0
@@ -7296,7 +7296,7 @@ graph [
     step 0
     date "2022-07-11T08:45:56Z"
     title "how to draw ms dhoni step by step | ms dhoni drawing | how to draw ms dhoni eyes"
-    description "how to draw ms dhoni step by step | ms dhoni drawing| how to draw ms dhoni eyes Must watch the vedio Useful for drawing ms ..."
+    description "how to draw ms dhoni step by step | ms dhoni drawing| how to draw ms dhoni eyes &#10;&#10;Must watch the vedio &#10;Useful for drawing ms dhoni eyes and nose &#10;Insta id sh.ashank6894&#10;Email shashankshashiarts&#10;&#10;#msd#dhoni#draw#drawing#msdhoni#artist"
     channel_title "shashank fine arts"
     channel_id "UCoRYCwgCqlW4kjnXco2Jr1g"
     fav_count 0
@@ -7311,7 +7311,7 @@ graph [
     step 0
     date "2022-07-09T15:00:05Z"
     title "EASY DRAWING HACKS FOR BEGINNERS"
-    description "Timestamps: 00:01 - Drawing on ice 01:17 - How to draw a perfect circle 01:45 - Cute DIY pen 02:59 - Art idea with Pop it This ..."
+    description "Timestamps:&#13;&#10;00:01 - Drawing on ice&#13;&#10;01:17 - How to draw a perfect circle&#13;&#10;01:45 - Cute DIY pen&#13;&#10;02:59 - Art idea with Pop it&#13;&#10;&#10;This video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.&#13;&#10;&#13;&#10;The following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate.&#13;&#10;&#13;&#10;All product and company names shown in the video are trademarks&#8482; or registered&#174; trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.&#13;&#10;&#13;&#10; ---------------------------------------------------------------------------------------- &#13;&#10;&#13;&#10; 5-Minute Crafts: http://bit.ly/2itjCyw&#13;&#10;&#13;&#10;Facebook: https://www.facebook.com/5min.crafts/ &#13;&#10;Instagram: https://www.instagram.com/5.min.crafts/ &#13;&#10;Twitter: https://twitter.com/5m_crafts&#13;&#10;&#13;&#10;Subscribe to 5-Minute Crafts DIY: https://goo.gl/fWbJqz&#13;&#10;&#13;&#10;The Bright Side of Youtube: https://goo.gl/rQTJZz&#13;&#10;&#13;&#10;---------------------------------------------------------------------------------------- &#13;&#10;&#13;&#10;For more videos and articles visit: http://www.brightside.me/&#13;&#10;&#13;&#10;Music by TheSoulPublishing"
     channel_title "5-Minute Crafts Tech"
     channel_id "UCXFeIOYbhWHrXCIqerycvNQ"
     fav_count 0
@@ -7326,7 +7326,7 @@ graph [
     step 0
     date "2022-07-11T08:15:00Z"
     title "How to Draw a Seahorse from S Letter | Seahorse Drawing Step by Step for Beginners"
-    description "How to Draw a Seahorse from S Letter | Seahorse Drawing Step by Step for Beginners. For more Simple Drawing Ideas, ..."
+    description "How to Draw a Seahorse from S Letter | Seahorse Drawing Step by Step for Beginners.&#10;For more Simple Drawing Ideas, Subscribe here: https://goo.gl/ZpBSuL&#10;------&#10;MUSIC Youtube Audio Library&#10;-----------&#10;#drawing #seahorse #stepbystep"
     channel_title "Doodle Art Time"
     channel_id "UCVm7d50XRbZpi5IHaS4U9WA"
     fav_count 0
@@ -7341,7 +7341,7 @@ graph [
     step 0
     date "2022-07-09T23:00:06Z"
     title "Letting an AI draw Asmongold"
-    description "Asmongold Reacts to &#34;Asmongold Leaves the Alliance&#34; by Papa Meat, an AI drawing Original Video: ..."
+    description "Asmongold Reacts to &#34;Asmongold Leaves the Alliance&#34; by Papa Meat, an AI drawing&#10;Original Video:&#10;https://www.youtube.com/watch?v=JC0thEm5GkE&#38;ab_channel=PapaMeat&#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Elden Ring, Lost Ark, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; &#127928; Outro song: CatDany - Get Enough&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed:&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
     channel_title "Asmongold TV"
     channel_id "UCQeRaTukNYft1_6AZPACnog"
     fav_count 0
@@ -7356,7 +7356,7 @@ graph [
     step 0
     date "2022-07-05T19:40:36Z"
     title "The National Lottery EuroMillions draw results from Tuesday 05 July 2022"
-    description "The National Lottery EuroMillions draws take place in front of an independent adjudicator. Rules and Procedures apply (and ..."
+    description "The National Lottery EuroMillions draws take place in front of an independent adjudicator.  &#10;&#10;Rules and Procedures apply (and Account Terms if playing online). Players must be 18+ and physically located in the UK or IoM.&#10;&#10;To enter the next available draw, visit http://bit.ly/PlayEMs&#10;&#10;You can also check your EuroMillions tickets on our website:&#10;http://bit.ly/EuroMillionsCheckResults&#10;&#10;Dream Big Play Small. National Lottery games should always be fun, playing in a way that is right for you. Using our handy toolkit (http://bit.ly/HealthyPlay-Toolkit) you can set limits, take time out or set up reminders.&#10;&#10;#EuroMillions #NationalLottery #DreamBigPlaySmall #DreamComeTrueMoney #MillionaireMaker #Hotpicks #NationalLotteryLiveResults"
     channel_title "The National Lottery"
     channel_id "UCnOiv4Hp3fu43NDHl335cvQ"
     fav_count 0
@@ -7371,7 +7371,7 @@ graph [
     step 0
     date "2022-07-10T04:01:01Z"
     title "How To Draw Bal Krishna With Colour Pencil/Bal Gopal Drawing/Lord Krishna Drawing"
-    description "How To Draw Bal Krishna With Colour Pencil/Bal Gopal Drawing/Lord Krishna Drawing Hello Friends   most welcome to my ..."
+    description "How To Draw Bal Krishna With Colour Pencil/Bal Gopal Drawing/Lord Krishna Drawing&#10;&#10;Hello Friends&#128522; most welcome to my hannel 'Colour Pencil'. I hope you are all well&#128522;&#10;&#10;In this video I am showing you how to draw Bal Krishna drawing with colour pencil. Easy Bal Gopal Drawing.&#10;If you enjoy this video, pls&#128591; like, comments &#38; share, do Subscribe to my channel.&#10;&#10;Materials used:&#10;A5 Paper(140gsm)&#10;Pencil&#10;Eraser&#10;Colour Pencil&#10;Acrylic Colour(White &#38; Golden)&#10;Black &#38; Red Gel Pen&#10;&#10;Related Video:&#10;#Balgopaldrawing&#10;#lordkrishnadrawing&#10;#colourpencil&#10;#janmosthomispecialdrawing&#10;#balkrishnadrawing&#10;#howtodraw&#10;#colourpencildrawing&#10;#easygopaldrawing&#10;#easydrawing&#10;&#10;&#10;Thank You For Watching &#128591;&#10;&#10; Music:&#10;#backgroundmusic&#8203; #nocopyright&#8203; #littleindian&#8203; #ishitha&#8203; #hearttouchingmusic&#8203; Best place where you find no copyright issue, so you can use it wherever you like : ) Royalty Free Devotional Background Music | No copyright Indian Music | 4 Copyright-free music tracks --"
     channel_title "Colour Pencil"
     channel_id "UCVbVzHCxLquTCmn0VfE-FGQ"
     fav_count 0
@@ -7386,7 +7386,7 @@ graph [
     step 0
     date "2015-05-04T18:31:44Z"
     title "How to Draw LORD AYYAPPA DRAWING"
-    description "How to Draw LORD AYYAPPA SWAMY DRAWING."
+    description "How to Draw LORD AYYAPPA SWAMY DRAWING"
     channel_title "KIDS CARTOON DRAWINGS"
     channel_id "UCytePDFmydcE-g3pIVR3Rog"
     fav_count 0
@@ -7401,7 +7401,7 @@ graph [
     step 0
     date "2022-07-09T19:19:27Z"
     title "The National Lottery Thunderball draw results from Saturday 09 July 2022"
-    description "The National Lottery Thunderball draws take place in front of an independent adjudicator. Rules and Procedures apply (and ..."
+    description "The National Lottery Thunderball draws take place in front of an independent adjudicator.  &#10;&#10;Rules and Procedures apply (and Account Terms if playing online). Players must be 18+ and physically located in the UK or IoM.&#10;&#10;To enter the next available draw, visit http://bit.ly/PlayThunderball &#10;&#10;You can also check your Thunderball tickets on our website:&#10;http://bit.ly/ThunderballCheckResults&#10;&#10;Dream Big Play Small. National Lottery games should always be fun, playing in a way that is right for you. Using our handy toolkit (http://bit.ly/HealthyPlay-Toolkit) you can set limits, take time out or set up reminders.&#10;&#10;#Thunderball #NationalLottery #DreamBigPlaySmall #ThunderballSaturday #ThunderballLiveDraws #NationalLotteryLiveResults"
     channel_title "The National Lottery"
     channel_id "UCnOiv4Hp3fu43NDHl335cvQ"
     fav_count 0
@@ -7416,7 +7416,7 @@ graph [
     step 0
     date "2022-07-10T15:00:31Z"
     title "&#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1090;&#1072;&#1089;&#1073;&#1072;&#1179;&#1072; / &#1050;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100; &#1095;&#1077;&#1088;&#1077;&#1087;&#1072;&#1093;&#1091; / How to draw a turtle"
-    description "&#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1090;&#1072;&#1089;&#1073;&#1072;&#1179;&#1072; / &#1050;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100; &#1095;&#1077;&#1088;&#1077;&#1087;&#1072;&#1093;&#1091; / How to draw a turtle #&#1089;&#1091;&#1088;&#1077;&#1090; #draw #qoshaqan."
+    description "&#1057;&#1091;&#1088;&#1077;&#1090; &#1089;&#1072;&#1083;&#1091; &#1090;&#1072;&#1089;&#1073;&#1072;&#1179;&#1072; / &#1050;&#1072;&#1082; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1090;&#1100; &#1095;&#1077;&#1088;&#1077;&#1087;&#1072;&#1093;&#1091; / How to draw a turtle&#10;#&#1089;&#1091;&#1088;&#1077;&#1090; #draw #qoshaqan"
     channel_title "QOSHAQAN"
     channel_id "UCdw__DXvtpcrh1cEaeijJZw"
     fav_count 0
@@ -7431,7 +7431,7 @@ graph [
     step 0
     date "2022-07-11T05:15:02Z"
     title "How to draw A Girl Backside View || Pencil sketch for beginner || Very easy drawing || Girl drawing"
-    description "How to draw A Girl Backside View || Pencil sketch for beginner || Very easy drawing || Girl drawing, drawing for girls, drawing of ..."
+    description "How to draw A Girl Backside View || Pencil sketch for beginner || Very easy drawing || Girl drawing, drawing for girls, drawing of girl, girls drawing, girl drawing, drawing neelu, easy drawing, drawing, how to draw a girl, drawing girl, pencil drawing, girl drawing easy, simple drawing, easy drawings, girl draw, drawings, drawing pictures, drawing video, girl easy drawing, pencil art, girl backside drawing, backside drawing, girl backside view, backside girl drawing&#10;&#10;&#129310;Any questions contact me.&#129310;&#10;Instagram https://www.instagram.com/drawingneelu&#10;Facebook https://www.facebook.com/Drawingneelu&#10;Pinterest https://pinterest.com/drawingneelu&#10;&#10;{ &#128158; Daily Uploading Videos Time &#9201;&#65039; 10:45 AM &#128158; }&#10;&#10;Use Materials&#10;1. Double A Paper&#10;2. Doms Zoom Ultimate Dark&#10;3. Blending Stump&#10;4. Push up Eraser&#10;&#10;{ Music &#9834;&#9835;  credit }     &#10;1.Song: Tobjan - Golden Days&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/qG3DWQj-f_s&#10;&#10;2.Song: Syn Cole - Time [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/Time&#10;Watch: http://youtu.be/XDNFAujgJb0&#10;&#10;#Girldrawing #Pencildrawing #Artvideo"
     channel_title "Drawing Neelu"
     channel_id "UCxCk6hXGtDzezrsdW9zb9eA"
     fav_count 0
@@ -7446,7 +7446,7 @@ graph [
     step 0
     date "2022-07-10T17:20:04Z"
     title "Drawing The Owl House Characters (Week 4) - Compilations by Lela"
-    description "I finally started The Owl House and omg it's AWESOME! Here is the fourth week's drawing compilation. Follow me on Instagram ..."
+    description "I finally started The Owl House and omg it's AWESOME! Here is the fourth week's drawing compilation.&#10;&#10; Follow me on Instagram &#10;https://www.instagram.com/lela.the.artist/&#10;&#10;Additional Art Videos&#10;    @Lela the Artist &#10;&#10;Learn to Draw with Me&#10;    @How to Draw with Lela &#10;&#10;&#10;Art Supplies I Frequently Use&#10;&#10;MARKERS&#10;Ultimate Sharpie Collection 115 marker set &#10;https://amzn.to/2N1WJT0&#10;&#10;Sharpie Permanent Markers, Brush Tip, Assorted, 12 Pack&#10;https://amzn.to/32739Dg&#10;&#10;Ohuhu Brush Markers (168 count)&#10;https://amzn.to/3lQT7R3&#10;&#10;Ohuhu Bullet Nib Markers (120 count)&#10;https://amzn.to/2PaxyPv&#10;&#10;INKING FINELINERS&#10;Ohuhu Fineliners&#10;https://amzn.to/3rmm74k&#10;&#10;PAINT MARKERS&#10;Posca Paint Markers (15 count)&#10;https://amzn.to/39eSE6g&#10;&#10;Posca Paint Pen in White  (Paint pen that I use as for highlights)&#10;https://amzn.to/3smD4gr&#10;&#10;PAPER&#10;X-Press It Blending Card Paper&#10;https://amzn.to/3vYAsYa&#10;&#10;Ohuhu Sketchbook&#10;https://amzn.to/31haTn0&#10;&#10;*Some links may be affiliate links. Thank you for supporting the channel at no extra cost to you.&#10;&#10;#DrawingCompilation #theowlhouse #thecollector"
     channel_title "Lela Studios"
     channel_id "UC4pmxEm7m-rQMeHhnLf24dg"
     fav_count 0
@@ -7461,7 +7461,7 @@ graph [
     step 0
     date "2022-07-11T03:48:26Z"
     title "EASY How to Draw a BAT WING"
-    description "For my Full Courses : https://www.skillshare.com/r/profile/Enrique-Plazola/367832528 ..."
+    description "&#10084;&#65039;&#10084;&#65039;&#10084;&#65039; For my Full Courses :  &#10;&#10;https://www.skillshare.com/r/profile/Enrique-Plazola/367832528&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&#10;&#10;SUBSCRIBE HERE :D =-===-=-=-=-=-=-=-=-=-=-=-=-=-=&#10;&#10;https://www.youtube.com/user/EasyPicturesToDraw?sub_confirmation=1&#10;&#10;=-=-=-=-=-=-=-=-=&#10;&#10;Are you Completely New to Drawing?&#10;&#10;https://sketchingeasy.com/learning-to-draw-from-the-start-lesson-1/&#10;&#10;-------------------------------&#10;PICK UP a  SUSHI CATS COLORING BOOK:&#10;&#10;https://www.amazon.com/dp/B09TF6NPCJ&#10;&#10;=-=-=-=-=-=-=-=-=-==-==-=-=-=-=&#10;&#10;PLAYLIST PAGE!&#10;&#10;https://www.youtube.com/user/EasyPicturesToDraw/playlists&#10;&#10;--------------------------------&#10;&#10;Donations to Keep the Channel Going &#10;&#10;Send to Paypal: cky_omegaman@hotmail.com&#10;&#10;--------------&#10;&#10;&#10;FREE Cute E-book: https://sketchingeasy.com/cute-ebook/&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&#10;&#10;TOOLS I USE! :&#10;&#10;The Marker I Use: https://amzn.to/2ZUiff9&#10;&#10;Pen Set I use OFTEN for myself: https://amzn.to/3iPqS3x&#10;&#10;The Tablet I use for Coloring: https://amzn.to/38JRKgM&#10;&#10;The Colored Pencils I Use: https://amzn.to/3fhR0Sb&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&#10;&#10;NEW HERE?&#10;My name is Enrique Plazola.&#10;I'm a concept artist/illustrator. I was a stereo artist on transformers and the smurfs movie. &#10;I upload new videos every Monday - Fri.&#10;&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&#10;&#10;In this drawing lesson for beginners,  on this, I'm going to go over how to draw Godzilla earth step by step. The lesson is pretty good. A step by step drawing art tutorial. Also hit the like button, if you do. Love this fun time.  I love video games. Please share the video I hope you love it. &#10;&#10; #howtodraw  #howtodrawbat&#10;#howtodrawbatwing&#10;&#10;&#10;Cool Links ___________________________________________________&#10;&#10;Want to Draw Among Us Characters?&#10;&#10;Click here: https://www.youtube.com/watch?v=aRQDulksLxs&#38;list=PL1h_Ls_soSkFVfwJDrEhAopNsX2w-BMfA&#38;index=1&#38;t=339s&#38;ab_channel=EasyPicturesToDraw&#10;&#10;&#10;Easy Tips on How to Draw DINOSAURS&#10;&#10;https://www.youtube.com/watch?v=vB8GSydALPY&#38;list=PL1h_Ls_soSkFre44vpqCEmac1kwBfMCoG&#10;&#10;&#10;The Master Playlist to Draw AMONG US :&#10;&#10;https://youtube.com/playlist?list=PL1h_Ls_soSkFVfwJDrEhAopNsX2w-BMfA&#10;&#10;&#10;Free Lessons on How to Draw SPIDER-MAN: &#10;&#10;https://youtube.com/playlist?list=PL1h_Ls_soSkGtf1fTC1cQrxd7kD1z6pLr"
     channel_title "EasyPicturesToDraw"
     channel_id "UCHa-w2uf3NmywqSkA4mV-JQ"
     fav_count 0
@@ -7476,7 +7476,7 @@ graph [
     step 0
     date "2022-07-11T03:55:53Z"
     title "EASY How to Draw ROUGE the BAT - from SONIC"
-    description "For my Full Courses : https://www.skillshare.com/r/profile/Enrique-Plazola/367832528 ..."
+    description "&#10084;&#65039;&#10084;&#65039;&#10084;&#65039; For my Full Courses :  &#10;&#10;https://www.skillshare.com/r/profile/Enrique-Plazola/367832528&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&#10;&#10;SUBSCRIBE HERE :D =-===-=-=-=-=-=-=-=-=-=-=-=-=-=&#10;&#10;https://www.youtube.com/user/EasyPicturesToDraw?sub_confirmation=1&#10;&#10;=-=-=-=-=-=-=-=-=&#10;&#10;Are you Completely New to Drawing?&#10;&#10;https://sketchingeasy.com/learning-to-draw-from-the-start-lesson-1/&#10;&#10;-------------------------------&#10;PICK UP a  SUSHI CATS COLORING BOOK:&#10;&#10;https://www.amazon.com/dp/B09TF6NPCJ&#10;&#10;=-=-=-=-=-=-=-=-=-==-==-=-=-=-=&#10;&#10;PLAYLIST PAGE!&#10;&#10;https://www.youtube.com/user/EasyPicturesToDraw/playlists&#10;&#10;--------------------------------&#10;&#10;Donations to Keep the Channel Going &#10;&#10;Send to Paypal: cky_omegaman@hotmail.com&#10;&#10;--------------&#10;&#10;&#10;FREE Cute E-book: https://sketchingeasy.com/cute-ebook/&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&#10;&#10;TOOLS I USE! :&#10;&#10;The Marker I Use: https://amzn.to/2ZUiff9&#10;&#10;Pen Set I use OFTEN for myself: https://amzn.to/3iPqS3x&#10;&#10;The Tablet I use for Coloring: https://amzn.to/38JRKgM&#10;&#10;The Colored Pencils I Use: https://amzn.to/3fhR0Sb&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-&#10;&#10;NEW HERE?&#10;My name is Enrique Plazola.&#10;I'm a concept artist/illustrator. I was a stereo artist on transformers and the smurfs movie. &#10;I upload new videos every Monday - Fri.&#10;&#10;&#10;=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=&#10;&#10;In this drawing lesson for beginners,  on this, I'm going to go over how to draw Godzilla earth step by step. The lesson is pretty good. A step by step drawing art tutorial. Also hit the like button, if you do. Love this fun time.  I love video games. Please share the video I hope you love it. &#10;&#10; #howtodraw  #howtodrawrougethebat&#10;#howtodrawsonicthehedgehog&#10;&#10;&#10;Cool Links ___________________________________________________&#10;&#10;Want to Draw Among Us Characters?&#10;&#10;Click here: https://www.youtube.com/watch?v=aRQDulksLxs&#38;list=PL1h_Ls_soSkFVfwJDrEhAopNsX2w-BMfA&#38;index=1&#38;t=339s&#38;ab_channel=EasyPicturesToDraw&#10;&#10;&#10;Easy Tips on How to Draw DINOSAURS&#10;&#10;https://www.youtube.com/watch?v=vB8GSydALPY&#38;list=PL1h_Ls_soSkFre44vpqCEmac1kwBfMCoG&#10;&#10;&#10;The Master Playlist to Draw AMONG US :&#10;&#10;https://youtube.com/playlist?list=PL1h_Ls_soSkFVfwJDrEhAopNsX2w-BMfA&#10;&#10;&#10;Free Lessons on How to Draw SPIDER-MAN: &#10;&#10;https://youtube.com/playlist?list=PL1h_Ls_soSkGtf1fTC1cQrxd7kD1z6pLr"
     channel_title "EasyPicturesToDraw"
     channel_id "UCHa-w2uf3NmywqSkA4mV-JQ"
     fav_count 0
@@ -7491,7 +7491,7 @@ graph [
     step 0
     date "2015-05-07T06:44:24Z"
     title "How to Draw LORD RADHA KRISHNA in UNJAL DRAWING"
-    description "How to Draw LORD RADHA KRISHNA in UNJAL DRAWING."
+    description "How to Draw LORD RADHA KRISHNA in UNJAL DRAWING"
     channel_title "KIDS CARTOON DRAWINGS"
     channel_id "UCytePDFmydcE-g3pIVR3Rog"
     fav_count 0
@@ -7506,7 +7506,7 @@ graph [
     step 0
     date "2022-07-11T06:24:27Z"
     title "How to Draw Flying Birds From Number 6 | Easy Bird Drawing | &#2346;&#2325;&#2381;&#2359;&#2368; &#2325;&#2366; &#2330;&#2367;&#2340;&#2381;&#2352;"
-    description "How to Draw Flying Birds From Number 6 | Easy Bird Drawing | &#2346;&#2325;&#2381;&#2359;&#2368; &#2325;&#2366; &#2330;&#2367;&#2340;&#2381;&#2352; #jbdrawing #birddrawing #drawing."
+    description "How to Draw Flying Birds From Number 6 | Easy Bird Drawing | &#2346;&#2325;&#2381;&#2359;&#2368; &#2325;&#2366; &#2330;&#2367;&#2340;&#2381;&#2352;&#10;&#10;#jbdrawing &#10;#birddrawing &#10;#drawing"
     channel_title "J B Drawing Tutorial"
     channel_id "UCeDFY10-tBWXcfCqqh9GsSw"
     fav_count 0
@@ -7521,7 +7521,7 @@ graph [
     step 0
     date "2022-07-09T17:33:35Z"
     title "Mahzooz Live Draw - 9 July 2022"
-    description "We had an AED 10M winner last week. Will you be the lucky winner tonight?"
+    description "We had an AED 10M winner last week. Will you be the lucky winner tonight? &#129321;"
     channel_title "My Mahzooz"
     channel_id "UC_9SlnEGlTFKfiiZkDf8_Wg"
     fav_count 0
@@ -7536,7 +7536,7 @@ graph [
     step 0
     date "2021-02-14T16:00:04Z"
     title "HOW TO DRAW ANATOMY (beginner to expert)"
-    description "Do you need to go to ART SCHOOL to learn to Draw Anatomy? Nope. In this video, I go over several tips to improve your drawing ..."
+    description "Do you need to go to ART SCHOOL to learn to Draw Anatomy? Nope.&#10;&#10;In this video, I go over several tips to improve your drawing anatomy that have worked VERY well for me. The only way to truly learn and understand anatomy for drawing is to understand it for yourself. A course at an art school will only give you the bare bones. But with these self-guided practices, you can easily achieve great understanding on your own! &#10;&#10;Awesome Anatomy Youtube Channels:&#10;@moderndayjames &#10;@Proko &#10;@Marc Brunet &#10;@Love Life Drawing &#10;@Bradwynn Jones &#10;@Sinix Design &#10;@Kazone Art &#10;@FORCE with Michael Mattesi &#10;&#10;Will Weston: https://www.instagram.com/willwestonstudio/&#10;Eliza Ivanova: https://www.instagram.com/eleeza/&#10;Her Book: https://shop.3dtotal.com/books/eleeza?utm_medium=kickstarter&#38;utm_source=eleeza_ks&#38;utm_campaign=eleeza&#10;Stanley Lau: https://www.instagram.com/p/CKnkQG1l9fJ/&#10;Peter Han: https://www.instagram.com/peterhanstyle/&#10;Tom Fox: https://www.instagram.com/p/CIEB_zIJCIn/&#10;&#10;Timestamps:&#10;&#10;0:00 Introduction&#10;1:00 Level 0&#10;1:08 Level 1&#10;2:31 Level 2&#10;4:07 Level 3&#10;5:34 Level 4&#10;7:10 Level 5&#10;9:36 Level 6&#10;11:09 Level 7&#10;12:16 Level 8&#10;13:06 Level 9&#10;&#10;Get Paperlike! &#9654; http://paperlike.com/ergojosh&#10;PROCREATE BRUSHES--------&#9654; https://gumroad.com/ergojosh &#9664;&#10;&#10;/////////////////////////////////////////////////////////////////////////////////////////// &#10;Get Started with Procreate!  &#9654;https://youtu.be/rbSPSE5SHvE&#9664; &#10;PROCREATE BRUSHES--------&#9654; https://gumroad.com/ergojosh &#9664;&#10;HOW TO USE THEM-------------&#9654; https://youtu.be/UjTmKsY0ghM &#9664;&#10;&#10;The BEST Screen Protectors!&#10;Get Paperlike! &#9654; http://paperlike.com/ergojosh&#10;&#9654;https://youtu.be/gHUw7l2EX3s&#10;&#9654;https://youtu.be/Z483r-3EATs&#10;&#10;Follow me on Instagram! &#10;&#9654;https://www.instagram.com/ergo.josh&#10;&#10;Music from Epidemic Sound!&#10;&#9654;http://share.epidemicsound.com/32vlpN&#10;&#10;Follow me on Twitch!&#10;&#9654;https://www.twitch.tv/ergojosh&#10;&#10;&#9654;Join my public discord! https://discord.gg/dkenESK&#10;&#10;/////////////////////////////////////////////////////////////////////////////////////////// &#10;All the other products that I use!&#10;&#9654;https://www.amazon.com/shop/ergo.josh&#10;///////////////////////////////////////////////////////////////////////////////////////////&#10;&#10;Purchases made through some links will provide some compensation to support the channel. Thank you."
     channel_title "e r g o j o s h"
     channel_id "UCD6v_eY0IDEGittgHsmd8aQ"
     fav_count 0
@@ -7551,7 +7551,7 @@ graph [
     step 0
     date "2022-07-10T15:00:06Z"
     title "C&#243;mo dibujar zapatos de princesa para ni&#241;os/How to draw princess shoes for children"
-    description "C&#243;mo dibujar zapatos de princesa para ni&#241;os/How to draw princess shoes for children/Cara menggambar sepatu putri untuk ..."
+    description "C&#243;mo dibujar zapatos de princesa para ni&#241;os/How to draw princess shoes for children/Cara menggambar sepatu putri untuk anak-anak&#10;&#10;&#10;#&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasmchizish, #&#1089;&#1091;&#1088;&#1077;&#1090;&#1089;&#1072;&#1083;&#1099;&#1087;&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #drawdolls, #bolalaruchunrasmchizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082;&#1076;&#1083;&#1103;&#1076;&#1077;&#1090;&#1077;&#1081;, #drawingforchildren, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072;&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085;&#1089;&#1091;&#1088;&#1077;&#1090;, # #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088;&#1199;&#1095;&#1199;&#1085;&#1089;&#1199;&#1088;&#1257;&#1090;&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklari&#231;in&#231;izim, #dessinpourenfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289;&#10;#Draw, #drawing, #drawpicture, #picture, #drawpicture, #drawdolls, #drawtoys, #drawtoys, #drawdolls, #drawpictureozbek, #drawpictureozbek, #cuteDraws, #cutedraws,&#10;#&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1091;, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1073;&#1086;&#1103;&#1091;, #&#1090;&#1199;&#1089;&#1090;&#1077;&#1088;, #rasm #chizish, #&#1089;&#1091;&#1088;&#1077;&#1090; #&#1089;&#1072;&#1083;&#1099;&#1087; #&#1091;&#1081;&#1088;&#1077;&#1085;&#1091;, #&#1199;&#1081;&#1076;&#1110;&#1187; #&#1089;&#1091;&#1088;&#1077;&#1090;&#1110;&#1085; #&#1089;&#1072;&#1083;&#1091;, #bolalar #uchun #rasm #chizish, #&#1088;&#1080;&#1089;&#1091;&#1085;&#1086;&#1082; #&#1076;&#1083;&#1103; #&#1076;&#1077;&#1090;&#1077;&#1081;, #drawing #for #children, #&#1073;&#1072;&#1083;&#1072;&#1083;&#1072;&#1088;&#1171;&#1072; #&#1072;&#1088;&#1085;&#1072;&#1083;&#1171;&#1072;&#1085; #&#1089;&#1091;&#1088;&#1077;&#1090;, # #&#1073;&#1072;&#1083;&#1076;&#1072;&#1088; #&#1199;&#1095;&#1199;&#1085; #&#1089;&#1199;&#1088;&#1257;&#1090; #&#1090;&#1072;&#1088;&#1090;&#1091;&#1091;, #&#50500;&#51060;&#46308;&#51012;#&#50948;&#54620; &#44536;&#47548;, #&#231;ocuklar #i&#231;in #&#231;izim, #dessin #pour #enfants, #&#23376;&#20379;&#12398;&#12383;&#12417;&#12398;&#32117;&#12289;&#10;#Draw, #drawing, #drawpicture, #picture, #draw #picture, #draw #dolls, #draw #toys, #drawtoys, #drawdolls, #drawpictureozbek, #draw #picture #ozbek, #cute Draws, #cute draws, #FunKeepArt, #BeTaiNangTV, #ToBiART"
     channel_title "Joy of art"
     channel_id "UCpHawaV1Z1-aOxsjoG1c8wQ"
     fav_count 0
@@ -7566,7 +7566,7 @@ graph [
     step 0
     date "2022-03-05T19:23:36Z"
     title "How To Draw Marin from My Dress Up Darling Anime"
-    description "How To Draw Kitagawa Marin from My Dress Up Darling Anime! #&#12462;&#12515;&#12523; &#12381;&#12398;&#30528;&#12379;&#26367;&#12360;&#20154;&#24418;&#12499;&#12473;&#12463;&#12539;&#12489;&#12540;&#12523;&#12399;&#24651;&#12434;&#12377;&#12427; (I'm just ..."
+    description "How To Draw Kitagawa Marin from My Dress Up Darling Anime! #&#12462;&#12515;&#12523; &#12381;&#12398;&#30528;&#12379;&#26367;&#12360;&#20154;&#24418;&#12499;&#12473;&#12463;&#12539;&#12489;&#12540;&#12523;&#12399;&#24651;&#12434;&#12377;&#12427; (I&#8217;m just experimenting with formats!) how to draw fanart #animegirl #fanart #ArtistOnTwitter #anime #MyDressUpDarling #marin #marinkitagawa #bikini #schoolgirl #choker #howtodraw #tutorial #doujin"
     channel_title "mikeymegamega"
     channel_id "UCOvvFK_EhrX9exQ-jkLPg8w"
     fav_count 0
@@ -7581,7 +7581,7 @@ graph [
     step 0
     date "2022-06-04T16:56:47Z"
     title "HOW TO DRAW FAN SERVICE (Mapping Fit Exaggerated Curves Character Sheet)"
-    description "How To Draw Exaggerated Fit Curvy figures character sheet for Thick-Thin fan service Figure drawing How to draw anime manga ..."
+    description "How To Draw Exaggerated Fit Curvy figures character sheet for Thick-Thin fan service Figure drawing How to draw anime manga proportions from basic shapes https://www.Patreon.com/mikeymegamega for how to draw anatomy anime and manga girls who have exaggerated fan service bodies with wide hips, thick thighs and slim waists and tummy areas. V-Tuber and curvy poses but still fit! This cute How To make a character sheet mapping body curves Tutorial will look at the shape and measurements of the hips to thigh leg for simple cute character design. #howtodraw #fanservice #curvy - cara menggambar - Paano Gumuhit - como desenhar - como dibujar - &#25551;&#12365;&#26041; - &#44536;&#47532;&#45716; &#48169;&#48277; - &#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;,&#10;&#10;WORKSHEETS ON PATREON! https://www.patreon.com/mikeymegamega&#10;TWITCH DRAWING LIVE! https://www.twitch.tv/mikeymegamega&#10;FULL ART LIVESTREAM ARCHIVE! https://www.youtube.com/channel/UCfhWo8ONiKQhkQXARgoRepw&#10;&#10;---&#10;&#10;Music: Dan Henig - Arpy"
     channel_title "mikeymegamega"
     channel_id "UCOvvFK_EhrX9exQ-jkLPg8w"
     fav_count 0
@@ -7596,7 +7596,7 @@ graph [
     step 0
     date "2022-07-10T16:43:14Z"
     title "How To Draw Boobs (Mapping Natural Bodies)"
-    description "How To Draw. Natural Anime chest for simple Figure drawing and Life studies How to draw Bazookas in anime manga natural ..."
+    description "How To Draw. Natural Anime chest for simple Figure drawing and Life studies How to draw Bazookas in anime manga natural basic shapes https://www.Patreon.com/mikeymegamega for mapping body surface and how natural hanging thick fat getting squeezed and bulging anatomy anime and manga materials and body parts getting grabbed and squeezed. V-Tuber and curvy poses looking squishy! This cute beginner How To make a character sheet mapping body curves Tutorial will look at the shape and measurements of the squishy parts of character design. #howtodraw #anime #manga - cara menggambar - Paano Gumuhit - como desenhar - como dibujar - &#25551;&#12365;&#26041; - &#44536;&#47532;&#45716; &#48169;&#48277; - &#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;,&#10;&#10;WORKSHEETS ON PATREON! https://www.patreon.com/mikeymegamega&#10;TWITCH DRAWING LIVE! https://www.twitch.tv/mikeymegamega&#10;FULL ART LIVESTREAM ARCHIVE! https://www.youtube.com/channel/UCfhWo8ONiKQhkQXARgoRepw&#10;&#10;---&#10;&#10;Music: Dan Henig - Arpy"
     channel_title "mikeymegamega"
     channel_id "UCOvvFK_EhrX9exQ-jkLPg8w"
     fav_count 0
@@ -7611,7 +7611,7 @@ graph [
     step 0
     date "2022-07-08T12:33:04Z"
     title "How to draw a nose for beginners #art #shorts #drawing"
-    description "shorts #tutorial #nose #trending #youtubeshorts."
+    description "#shorts #tutorial #nose #trending #youtubeshorts"
     channel_title "Ravi Prakash"
     channel_id "UCZfezO98bMSdbm1PbYCkWDw"
     fav_count 0
@@ -7656,7 +7656,7 @@ graph [
     step 0
     date "2022-07-07T19:45:48Z"
     title "How to draw makeup set easy for kids. makeup tools drawing for children."
-    description "How to draw a makeup set easy for children. make up tools drawing for kids easy step by step. #pinkdrawing #meakupsetdrawing ..."
+    description "How to draw a makeup set easy for children. make up tools drawing for kids easy step by step.&#10;&#10;&#10;&#10;&#10;#pinkdrawing #meakupsetdrawing #meakup #howtodraw #magicaldrawing #stepbystep #makeuptoolsdrawing.#drawingandpainting #kidsvideos #kidsdrawing #thainangtv."
     channel_title "Pink Drawing"
     channel_id "UCpe8zM51Bd5JQrQ9MOz2-_g"
     fav_count 0
@@ -7686,7 +7686,7 @@ graph [
     step 0
     date "2022-07-10T07:00:08Z"
     title "HOW TO DRAW A JUICE EASY PAINTING IDEA"
-    description "HOW TO DRAW A JUICE EASY PAINTING IDEA =========================================== Hi there! My name is ..."
+    description "HOW TO DRAW A JUICE EASY PAINTING IDEA&#10;===========================================&#10;Hi there! My name is Maryam and I love to &#128396;&#65039;draw and &#127912;coloring &#9829;CUTE things of course&#9829; Follow along with me to learn how to draw and make things CUTE and EASY. Hopefully you will learn to draw and create new things on my channel. &#10;Please &#8658; &#128308;SUBSCRIBE&#128308; &#8656; so you won't miss new Easy Painting Ideas.&#10;===========================================&#10;Painting, &#2330;&#2367;&#2340;&#2381;&#2352;, &#2330;&#2367;&#2340;&#2381;&#2352;&#2325;&#2354;&#2366;, Lukisan, Quadro, &#1050;&#1072;&#1088;&#1090;&#1080;&#1085;&#1072;, &#12506;&#12452;&#12531;&#12486;&#12451;&#12531;&#12464;, Cuadro, Malerei, &#10;&#1662;&#1740;&#1606;&#1657;&#1606;&#1711;, B&#7913;c tranh, Tablo, Pagpipinta, Peinture, &#54168;&#51064;&#53944; &#46321;, &#1578;&#1604;&#1608;&#1610;&#1606;, La pittura, &#3592;&#3636;&#3605;&#3619;&#3585;&#3619;&#3619;&#3617;,&#10;Cuadro, &#2474;&#2503;&#2439;&#2472;&#2509;&#2463;&#2495;&#2434;, &#1606;&#1602;&#1575;&#1588;&#1740;, How to Draw, &#2325;&#2376;&#2360;&#2375; &#2310;&#2325;&#2352;&#2381;&#2359;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319;, Cara menggambar, &#10;Como desenhar, Como dibujar, &#1672;&#1585;&#1575; &#1705;&#1585;&#1606;&#1746; &#1705;&#1575; &#1591;&#1585;&#1740;&#1602;&#1729;, L&#224;m th&#7871; n&#224;o &#273;&#7875; v&#7869;, Nas&#305;l &#231;izilir, &#10;Paano Gumuhit, &#1670;&#1591;&#1608;&#1585;&#1740; &#1606;&#1602;&#1575;&#1588;&#1740; &#1705;&#1606;&#1740;&#1605;, Comment dessiner, &#1603;&#1610;&#1601; &#1578;&#1585;&#1587;&#1605;, &#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2453;&#2503;,&#10;Easy Painting Ideas, EPI"
     channel_title "Easy Painting Ideas"
     channel_id "UCfJBO4ydJsYjV-m9X-_1eCQ"
     fav_count 0
@@ -7701,7 +7701,7 @@ graph [
     step 0
     date "2022-07-10T06:00:14Z"
     title "Drawing Alphabet, Painting, Coloring for Kids | How to Draw Alphabet, Paint Basics # 16"
-    description "In this video you will learn following topics Drawing Alphabet, Painting, Coloring for Kids | How to Draw Alphabet, Paint Basics ..."
+    description "In this video you will learn following topics&#10;Drawing Alphabet, Painting, Coloring for Kids | How to Draw Alphabet, Paint Basics # 16"
     channel_title "magic board"
     channel_id "UCxcBD_Z3WvkgJdXx28QiW1g"
     fav_count 0
@@ -7716,7 +7716,7 @@ graph [
     step 0
     date "2022-07-11T08:59:41Z"
     title "Best Drawing 2022 | How to draw #draw #drawing"
-    description "drawing #shorts Tuch Tida."
+    description "#drawing&#10;#shorts&#10;Tuch Tida"
     channel_title "Tuch Tida"
     channel_id "UCN52c6oiQnJ0solWtnknk4g"
     fav_count 0

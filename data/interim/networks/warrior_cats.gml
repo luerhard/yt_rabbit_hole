@@ -6,7 +6,7 @@ graph [
     step 0
     date "2022-07-11T03:47:44Z"
     title "Downwards eyelashes + cheek scar, and much more [] Warrior Cats Ultimate Edition Previews"
-    description "These will additionally be useful! Credit for the content and information in this video goes to Viz! Socials: Viz Discord: (@Vizavi) ..."
+    description "These will additionally be useful!&#10;&#10;Credit for the content and information in this video goes to Viz! Socials:&#10;Viz Discord: (@Vizavi) chezburger#0001&#10;Viz Twitter: https://twitter.com/vizavirblx&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/blueberry48593&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -21,7 +21,7 @@ graph [
     step 0
     date "2022-07-10T08:26:44Z"
     title "What it Feels Like to Play Warrior Cats: Ultimate Edition (ROBLOX)"
-    description "Discord: https://discord.gg/n59gT3gaKn game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition music: ..."
+    description "Discord: https://discord.gg/n59gT3gaKn&#10;game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;&#10;music:&#10;https://www.youtube.com/watch?v=Xi69bI9vKDg&#38;t=&#10;https://www.youtube.com/watch?v=9tYBMywPpgA&#38;list=PL170TfEhZz--BHovZx9Dmd6TmnibpmpkW&#38;index=2"
     channel_title "mellowbear"
     channel_id "UCeUHBzKqj0X5NBFeyBPM9Rw"
     fav_count 0
@@ -36,7 +36,7 @@ graph [
     step 0
     date "2022-05-21T19:38:44Z"
     title "Top 12 most cruel warrior cats deaths"
-    description "Hello everyone! It was a little brutal today, but I hope you enjoyed it. Thank you very much for all your support! This song and these ..."
+    description "Hello everyone! It was a little brutal today, but I hope you enjoyed it. Thank you very much for all your support!&#10;This song and these pictures are not mine.&#10;&#10;artists:&#10;https://www.deviantart.com/tag/longtailhttps://www.deviantart.com/tag/longtail&#10;&#10;https://no.pinterest.com/pin/717831628079573005/&#10;&#10;https://m.facebook.com/BrbCryingOverFictionalCats/posts/2093162764052580&#10;&#10;https://www.wattpad.com/803539767-warrior-cats-deaths-cz-feathertail&#10;&#10;https://www.deviantart.com/tag/smokepaw&#10;&#10;https://tarkatan.tumblr.com/post/631442866457247744/smokepaw-died-after-a-rockfall-caused-him-to/amp&#10;&#10;https://marymsjay-warriors-art.tumblr.com/post/160805323895/100-warrior-cats-challenge-33-oakheart-hes&#10;&#10;https://www.deviantart.com/tygriiowo/art/OakHearts-Death-653441199&#10;&#10;https://skyperch.tumblr.com/post/644238460039872512/hawkfrost-warrior-of-riverclan-hawkfrost-is&#10;&#10;https://www.deviantart.com/kiroarts/art/Hawkfrost-death-752730373&#10;&#10;https://www.deviantart.com/gekkodesigns/art/Rainflower-796180460&#10;&#10;https://cz.pinterest.com/pin/466122630185638689/&#10;&#10;https://www.deviantart.com/pinkateatime/art/Bluestar-and-snowfur-s-death-551264430&#10;&#10;https://blogclan.katecary.co.uk/2021/10/05/honeyfern-maps-pmvs-and-amvs-by-pinestripe/&#10;&#10;https://cz.pinterest.com/pin/536632111827083300/&#10;&#10;https://aminoapps.com/c/warriors/page/blog/brokenstar/WK6z_GQtXuRB8M3vlJm4oDXEElDB7Gk6XY&#10;&#10;https://aminoapps.com/c/warriors/page/blog/you-can-like-this-if-you-want-to/MPRj_GMFkuav4KrEq3KeYK8R0G7ddmQgbG&#10;&#10;https://cz.pinterest.com/pin/583779170432932120/&#10;&#10;https://aminoapps.com/c/warriors/page/blog/cinderpelts-death/wPNn_voFouJ5bn6Y6EwoKqnDJbD0vMBam8&#10;&#10;https://stanrowanclaw.tumblr.com/post/178173790032/swiftpaw&#10;&#10;https://aminoapps.com/c/warriors/page/blog/all-warrior-cats-tigerstar/Q8mo_MXTXuJXe2DYbPjXEJBKlBz1w4QYpz&#10;&#10;https://thatsaltybobcat.tumblr.com/post/168800260156/its-totally-out-of-fashion-to-draw-this-but-i&#10;&#10;https://www.deviantart.com/oceans-will/art/Tigerstar-s-Death-787928717&#10;&#10;https://aminoapps.com/c/warriors/page/blog/artclan-audition-blood-warning/baxz_G1cou0NMxv4VK7x5eq6LG86MzlPrV"
     channel_title "Whitefur"
     channel_id "UCDpBM0tXZu0m3UwsPDHL5yg"
     fav_count 0
@@ -51,7 +51,7 @@ graph [
     step 0
     date "2022-07-11T05:47:50Z"
     title "Get Up Shadowsight WARRIOR CATS Mini AMV/PMV"
-    description "Oh boy I never thought this project would actually see the light of day This was started back in October 2021 I made the mistake of ..."
+    description "Oh boy I never thought this project would actually see the light of day &#10;&#10;This was started back in October 2021 I made the mistake of starting all the animated parts first and got burned out when they were both halfway finished and didn&#8217;t touch the project for 9 months until I suddenly decided to pick it back up a couple days ago and I&#8217;m quite happy to have it finished &#10;&#10;Scene: &#10;On his way to the moonpool, Shadowsight is attacked by the imposter bramblestar and thrown into a ditch. Spiresights spirit watches over him as the clans search for him desperately. Spiresight finds Rootpaw and leads him to Shadowsights body. Rootpaw drags Shadowsight out of the ditch and back to the clans.  &#10;&#10;This is a scene from Veil Of Shadows and I think I can confidently say it&#8217;s my favourite scene in the entirety of warrior cats I love how it was written when Rootpaw found Shadowsight in the ditch and dragged him out, this doesn&#8217;t really depict what I love about the scene but it&#8217;s good enough I&#8217;d say &#10;&#10;I know dewspring was also there but he didn&#8217;t fit into the concept so I scrapped his involvement oops sorry not sorry &#10;&#10;I really loved the broken code, only arc so far that&#8217;s really been able to keep my attention with the characters and story writing, it&#8217;s not a masterpiece but I enjoy it and I have a lot of ideas for projects relating to it so you can expect to mostly see Shadowsight when I make my own canon projects &#10;&#10;Credits: &#10;&#10;Art/animation: Crispytoes &#10;Thumbnail sketch: https://twitter.com/sorryslonk?s=21&#38;t=lGjyhm13TnGc_dZhrmgeog &#10;Song: Johnny Boy by Twenty One Pilots &#10;Characters: Erin Hunter &#10;Designs: Gekkozilla&#10;&#10;My links: &#10;&#10;Commissions: https://docs.google.com/document/d/1Dw5c3BcEg0BGrnQTeEjs8mHReBhNuXv8y4FEoQJcBEo&#10;Twitter: https://twitter.com/Crispytoes10&#10;Instagram: https://instagram.com/crispietoes?igshid=YmMyMTA2M2Y=&#10;Artfight: https://artfight.net/~Crispytoes"
     channel_title "Crispytoes"
     channel_id "UCb2esc4E0GyF23nDfyxuwqA"
     fav_count 0
@@ -66,7 +66,7 @@ graph [
     step 0
     date "2021-04-13T23:03:37Z"
     title "A Deep Dive Into The Warrior Cats Fandom"
-    description "Let's talk about the edgy battle cats! In today's video, we dive into the world of Warrior Cats- from the franchise, to the fandom, to all ..."
+    description "Let's talk about the edgy battle cats!&#10;In today's video, we dive into the world of Warrior Cats- from the franchise, to the fandom, to all the drama within!&#10;&#10;&#10084;&#65038; &#10084;&#65038; Head to this link to enter the $500 Vitaly Jewellery Giveaway!!! &#10084;&#65038; &#10084;&#65038;&#10;https://www.vitalydesign.com/pages/izzzyzzz&#10;&#10;Visit Vitaly&#8217;s Instagram- www.instagram.com/vitaly&#10;&#10;Products featured in the video-&#10;Akoya- https://www.vitalydesign.com/products/akoya?variant=32796683567179&#10;Path- https://www.vitalydesign.com/products/path?variant=32989774610507&#10;Resonator- https://www.vitalydesign.com/products/resonator?variant=30278510116939&#10;Tensho- https://www.vitalydesign.com/products/tensho?variant=12268929056843&#10;Graph- https://www.vitalydesign.com/products/graph?variant=32946296913995&#10;Riot- https://www.vitalydesign.com/products/riot?variant=28009667297355&#10;Frenzy- https://www.vitalydesign.com/products/frenzy?variant=31822105903179&#10;Rey- https://www.vitalydesign.com/products/rey?variant=29243701657675&#10;Perimeter- https://www.vitalydesign.com/products/perimeter?variant=30992177201227&#10;&#10;&#10084;&#65038; &#10084;&#65038;TIMESTAMPS &#10084;&#65038; &#10084;&#65038;&#10;0:00 Introduction&#10;0:40 Vitaly Giveaway&#10;2:07 An Introduction To The Series&#10;14:24 The Fandom&#10;33:40 Warrior Cats Drama&#10;54:54 Conclusion and Final Thoughts&#10;57:22 Credits and Patrons&#10;&#10;&#10084;&#65038;&#10084;&#65038; SOCIAL MEDIA &#10084;&#65038;&#10084;&#65038;&#10;Patreon - https://www.patreon.com/Izzzyzzz&#10;&#8203;&#10;Twitter - https://twitter.com/izzzyzzzart&#10;&#8203;&#10;Instagram - https://www.instagram.com/izzzyzzz/&#8203;&#10;&#8203;&#10;Email [business inquiries only] - IzzzyzzzINQ@gmail.com&#10;&#10;&#10084;&#65038;&#10084;&#65038; MUSIC &#10084;&#65038;&#10084;&#65038;&#10;@GinaLoughlin - Piano Interludes&#10;Petz Catz 2 OST&#10;Cheel&#10;&#10;&#10084;&#65038;&#10084;&#65038; DISCLAIMER &#10084;&#65038;&#10084;&#65038;&#10;All credit goes to the musicians and composers! This video is not meant to target or harass any person. This video does not condone or encourage anyone to harass or contact any person or persons discussed in this video. This video is purely for entertainment and informational purposes&#10;&#10;All art included in this video has been credited where possible. If your art has not been credited or has been credited incorrectly, please let me know and I'll add your credit to the description! If you would like your credit removed, please let me know and I can censor it out. Thank you! :)"
     channel_title "Izzzyzzz"
     channel_id "UCWyRlMktpKbfefqBQk8U6Nw"
     fav_count 0
@@ -81,7 +81,7 @@ graph [
     step 0
     date "2009-06-05T19:56:54Z"
     title "episode 1 part 1 - SSS Warrior cats fan animation"
-    description "This is not an official Warrior cats animation Its a fan animation by me and few other friends who simply like to animate and voice ..."
+    description "This is not an official Warrior cats animation&#13;&#10;Its a fan animation by me and few other friends who simply like to animate and voice acting for characters in their spare time : )&#13;&#10;&#13;&#10;Original story, narrative idea, characters belong to novel Warrior cats into the wild by Erin Hunter, official website: http://www.warriorcats.com/warriorshell.html&#13;&#10;Musics:&#13;&#10;Nightmares On  Tetsukazu Nakanishi&#13;&#10;Reaper  &#13;&#10;Truelight  DNAngel&#13;&#10;&#13;&#10;Credits of animation section:&#13;&#10;Animation directed by Yu, Rosi&#13;&#10;Animation assistant: Zing&#13;&#10;&#13;&#10;Audition:&#13;&#10;Redtail: Stephen Cumberworth&#13;&#10;Tigerclaw: 2 Gryphon&#13;&#10;Oakheart: Ray&#13;&#10;Bluestar: Rosi&#13;&#10;Spottedleaf:.. sorry I forgot your name, you are Rosis friend but I forgot, please let me know if you read this, Ill add your name on&#13;&#10;Rusty: GingaJinketsuKoushi&#13;&#10;Smudge: Tail 230&#13;&#10;&#13;&#10;Audition assistant:&#13;&#10;Cat sounds: Gangyzgirl, Rosi&#13;&#10;Rustys owner: Desiree &#34;Desimaemae&#34; Parker&#13;&#10;&#13;&#10;Special thanks (Friends who helped me on voice acting but I disappeared or replace the audition. Sorry about this.. Ill be working more efficiently next time.):&#13;&#10;EchoFlameFox&#13;&#10;EchoFlameFoxs friend&#13;&#10;Nazuna12&#13;&#10;jerrymojo2 (voice acting graypaw, will be in the 2nd half of this episode)&#13;&#10;carbe (link: http://www.wiseoz.com/mysite/carbo)&#13;&#10;Tag&#13;&#10;Laurah&#13;&#10;&#13;&#10;**************************************&#13;&#10;&#13;&#10;A big Sorry for the long wait, it has been a long time, as a director its my fault not to finish work before the time I planed, I'll improve my time management and make schedule carefully next time.&#13;&#10;This is the first 10 mins of the first part of episode one, I'll be away for a month and I'll try my best to complete the remains of the 2nd half after I'm back.&#13;&#10;Actually the animation went well at first, many parts are almost finished, but there have been a very long pause for many reasons. After this experience I'll make myself to work more efficiently in my next project.&#13;&#10;&#13;&#10;Thanks to everybody who helped me on it. auditions is hard to manage, there are a few voice people I haven't contact them properly but I'm still thank them and I'll make the production process les confusing next time.&#13;&#10;&#13;&#10;Thank you very much for watching, and I wish you enjoy my animations!&#13;&#10;If you like Warrior Cats story, why not get the original book. Its a fun read, and all about clan cats.&#13;&#10;&#13;&#10;FQA. questions i recieved many times...&#13;&#10;&#13;&#10;Q. what program I use to animate?&#13;&#10;A. mostly Flash, Photoshop, Aftereffect.&#13;&#10;&#13;&#10;Q. are you a guy or a girl?&#13;&#10;A. I am a guy."
     channel_title "SSS Warrior Cats"
     channel_id "UCI7G8bfrCsV9A52JQWJEpKw"
     fav_count 0
@@ -96,7 +96,7 @@ graph [
     step 0
     date "2022-05-26T03:20:09Z"
     title "extreme warrior cats tiktoks that make your jaw drop / credits in desk / none are mine!"
-    description "CREDITS to the original animators or makers: 0:49 - eighthsun [HITA] on YouTube 1:09 - map-Hawk'storm 1:21 - MJ_was_here ..."
+    description "CREDITS to the original animators or makers: &#10;0:49 - eighthsun [HITA] on YouTube&#10;1:09 -  map-Hawk&#8217;storm&#10;1:21 - MJ_was_here&#10;1:48 - polarnacht_waca (didn&#8217;t leave credits but heres their name)&#10;2:21 - Hover_is_cool &#8211; (didn&#8217;t leave credits but heres their name)&#10;2:38 - Mj_was_here&#10;2:47 - windy_victimsxx&#10;2:55 - Ignisfelis&#10;3:03 - Ignisfelis&#10;3:06 - Ignisfelis&#10;3:13 - WCanimations&#10;3:22 - Wcanimations&#10;3:45 - ignisfelis&#10;3:56 -  Harmaapilvi (didn't leave credits but here's their name)&#10;4:09 - Im_suddenly_edgey&#10;4:23 - MJ_was_here&#10;4:33 - Askiz.waca.windxx&#10;4:42 - Owq_cats (they didn&#8217;t have credits in description but that&#8217;s their name)&#10;4:52 - Russidila&#10;4:57 - Warrior.cats17&#10;5:07 - Owl_spark&#10;5:14 - Undeadcartilage&#10;5:53 - Warriorcats_777 (didn't leave credits but hers their name)&#10;6:22 - Warrior_cats23 (didn't leave credits but hers their name)&#10;7:21 - rose shards,senswii,mossysprout,askiladeamon,galaxymeow,averyquinn,scout&#10;7:46 - Ssswarriorcats&#10;8:28 - Cheetah Z&#10;8:42 - LP4ndora&#10;8:59 - Ignisfelis&#10;&#10;Don't forget to leave a like and subscribe to my channel for more!&#10;&#10;~ Obbsi &#10084;"
     channel_title "Obsidian the Crocodile "
     channel_id "UC0kNIangiHOR9sNnZr-FkrQ"
     fav_count 0
@@ -111,7 +111,7 @@ graph [
     step 0
     date "2022-06-25T20:00:13Z"
     title "Warrior Cats Voice Actors Play | The Hunger Games Simulator (Finale)"
-    description "Thumbnail Artist for this video: Blizzard https://twitter.com/BlizzardBrick HI I hope you all enjoy the final edition of our Hunger ..."
+    description "Thumbnail Artist for this video: Blizzard https://twitter.com/BlizzardBrick&#10;&#10;HI I hope you all enjoy the final edition of our Hunger Games Warrior Cat Series. There were a lot of fun to make. Quick thank you to Blixemi, Northflowo, and Finchwing for agreeing to do this. As for if we'll do another one of these, we're unsure but our voice actors had a blast with this HG. Also the quality of the actual game of the video tanked because I had to render this 3 times in order to get all the edits in.&#10;&#10;Voices for this video:&#10;Brooke: https://www.youtube.com/c/Finchwing&#10;Leafpool/Briarlight: https://www.youtube.com/c/Blixemi&#10;Ivypool: https://www.youtube.com/c/NorthflowerOwO&#10;Tempest: Tobias Fink (https://twitter.com/TheCopyKater)&#10;Firepaw/Firestar/Crag: Matt (https://twitter.com/EpicrockerTT)&#10;Tigerclaw: Grant (https://www.youtube.com/channel/UC__T4ql8NIlSdmf9tCrPu6A/featured)&#10;Bluestar: Sarah Prowell (https://twitter.com/SarahP_VO)&#10;Sandstorm: Jax (https://twitter.com/LittleJaxel)&#10;Ravenpaw: Islacreeper https://twitter.com/islavoiceacts?s=09&#10;Cloudtail/Jayfeather: Matthew Jones (https://www.twitch.tv/gearup)&#10;Cinderpelt: Tea (https://twitter.com/wisdom_t3a)&#10;Silverstream/Spottedleaf: CEOlson (https://ceolsonart.carrd.co/)&#10;Ashfur: Brian Corrigan&#10;Mistystar: CloudytheLeopard&#10;Mousefur: Blizzard https://twitter.com/BlizzardBrick&#10;Crowfeather: CJ&#10;Lionblaze: Noah https://twitter.com/Knowa___&#10;One-eye: Kai (https://twitter.com/SkettiDragon)&#10;Brackenfur/Fallen leaves: Terson#0121 (discord)&#10;Barley: Kreischender Depp&#10;Mosspelt: Breya Burgess (https://youtube.com/channel/UCrN8SOHOrW7xhvfwt5eI-Cw)&#10;Blackstar/Breezepelt: ExaltedElf &#10;Mapleshade: ErrorEmma (https://www.deviantart.com/erroremma)&#10;Hawkfrost: Zeddall&#10;Feathertail: VidyTheFox (https://twitter.com/VidyImpact)&#10;Mothwing: Smogdeer (https://youtube.com/channel/UCjoLEjfj_THmgkC6I3HB3RA)&#10;Sorreltail/Brightheart: Chaotic&#10;Gorsepaw/Stoneteller: Tom&#225;s (https://twitter.com/Bilbz1?s=09)&#10;Kits: Nightmare&#10;Purdy: Chris (https://www.youtube.com/channel/UCTQCLycV5E-fIglg4Gye3KA)&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.com/invite/warriorcatsfandub&#10;https://www.patreon.com/WCDub&#10;&#10;Voice Director: GearUp https://www.twitch.tv/gearup&#10;&#10;OST:&#10;Nora https://www.youtube.com/channel/UChPJ8fp_c4coK-S2mHsftng/videos&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -126,7 +126,7 @@ graph [
     step 0
     date "2022-05-29T16:19:31Z"
     title "- = TIKTOK COMPILATION! = Part two! = -"
-    description "A different video for today! .} &#11088;| NOTE: ALL CREDITS GOES TO THE ORIGINAL CREATORS! I KEPT THE @ AT THE END OF ..."
+    description "{. A different video for today! .}&#10;&#10;&#11088;| NOTE: ALL CREDITS GOES TO THE ORIGINAL CREATORS! I KEPT THE @ AT THE END OF EACH TIKTOK SO YOU KNEW WHO MADE THEM!&#10;&#10;&#34;Why do you edit on?&#34;&#10;I record with OBS, and edited this on CapCut!&#10;------------------------------------------------------------------------&#10;&#34;Are your commissions on?&#34; [Art, Morphs]&#10;Yep, they are! my art isn't open currently as my art software is playing up sadly!&#10;------------------------------------------------------------------------&#10;game: Roblox - Warrior cats Ultimate Edition&#10;------------------------------------------------------------------------&#10;Inspired: WCUE community&#10;Music: Variety of music&#10;-----------------------------------------------------------------------&#10;|| Fan art? ||&#10;Put   # LittleSiameseStudiosFanArt    in your title/desc!&#10;---------------------------------------------------------------------------------&#10;|| Other &#8216;socials&#8217; ||&#10;&#10;Roblox: https://web.roblox.com/users/18806398...&#10;&#10;Roblox Group: https://web.roblox.com/groups/1247072...&#10;&#10;Tiktok: https://www.tiktok.com/@raging.tempes...&#10;-------------------------------------------------------------------------------&#10;Hope you enjoy it! -LittleSiamese Studios, Out! ~&#10;&#10;tags, please ignore;;&#10;TikTok wcue warrior cats ultimate edition compilation tiktok compilation collab book game Roblox"
     channel_title "LittleSiamese Studios"
     channel_id "UC6slVEueOyx0S7bW1EtqeNw"
     fav_count 0
@@ -141,7 +141,7 @@ graph [
     step 0
     date "2021-12-04T16:00:09Z"
     title "Warrior Cats Names Taken Literally (Part 3)"
-    description "The long-awaited third challenge of this topic! You all drew Warrior Cats with their names taken literally! Best Literally Cat Poll (just ..."
+    description "The long-awaited third challenge of this topic! You all drew Warrior Cats with their names taken literally!&#10;&#10;Best Literally Cat Poll (just for fun): https://strawpoll.com/f8hqz6665&#10;&#10;Talk sprites by Kyian: https://www.youtube.com/c/KyiokiKyian&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -156,7 +156,7 @@ graph [
     step 0
     date "2020-12-31T18:13:26Z"
     title "Warrior Cats~House Of Memories"
-    description "disclaimer!! if this video gets taken down, new vid will be coming sometime in 2021! NOTHING IN THIS VIDEO BELONGS TO ME, ..."
+    description "disclaimer!! if this video gets taken down, new vid will be coming sometime in 2021! NOTHING IN THIS VIDEO BELONGS TO ME, I ONLY EDITED THE VIDEO.&#10;Credits.&#10;1.ursiday&#10;2.Sagutoyas&#10;3.Sacred Roses&#10;4.Bosley Boz&#10;5.Bosley Boz&#10;6.sad machine&#10;7.crowla&#10;8.AnimeLionessMika&#10;9.Dogfish&#10;10.Velo Cira&#10;11.bread cat&#10;12.Scoutnmave&#10;13.beffalumps&#10;14.meow 286&#10;15.TheWisestDino&#10;16.crowla&#10;17.R. Riello&#10;18.Nightrizer&#10;19.Snebzz&#10;20.meow 286&#10;21.AlexHarrier&#10;22.Nightfall&#10;23.Wolfhowler9880&#10;24.ArcherDetective&#10;25.TheWisestDino&#10;26.DarkMoon RAY&#10;27.Nightrizer&#10;28.Shelly Key&#10;29.DarkMoon RAY&#10;30.KaekaeE -Yah&#10;31.TheWisestDino&#10;32.Dark-yard"
     channel_title "The Wild Warriors"
     channel_id "UC2CpOkLgZ27D83h4moXAweQ"
     fav_count 0
@@ -171,7 +171,7 @@ graph [
     step 0
     date "2019-02-19T15:10:52Z"
     title "Warrior Cats~Dark Side"
-    description "Credits: 1. Asa Willow 2. Sagutoyas 3. TheFieryFenec 4. BlueMaroon|SarahGoran 5. Kalinel 6. Nightrizer 7. meow 286 8. mickey ..."
+    description "Credits:&#10;1. Asa Willow &#10;2. Sagutoyas &#10;3. TheFieryFenec&#10;4. BlueMaroon|SarahGoran&#10;5. Kalinel&#10;6. Nightrizer&#10;7. meow 286&#10;8. mickey&#10;9. meow 286&#10;10. charminq&#10;11. Toha Ridomesu &#10;12. GinjaNinjaOwO&#10;13. River Spirit&#10;14. Wolfhowler9880&#10;15. Nifty-Senpai&#10;16. RyeTaran&#10;17. XxUkarixX&#10;18. Glitch Sixxle&#10;19. WhiskerMoon&#10;20. TheDogzLife&#10;21: splashamantha&#10;22. WhiskerMoon&#10;23: AnimeLionessMika&#10;24: MapleSpyder"
     channel_title "The Wild Warriors"
     channel_id "UC2CpOkLgZ27D83h4moXAweQ"
     fav_count 0
@@ -186,7 +186,7 @@ graph [
     step 0
     date "2017-07-06T05:44:10Z"
     title "Warrior Cats: Into the Wild: The Movie [COMPLETED]"
-    description "Watch Fire and Ice: The Movie: https://youtu.be/NUME08cENa4 13+ Content Disclaimer: The use of handpainted clay customs ..."
+    description "Watch Fire and Ice: The Movie: https://youtu.be/NUME08cENa4&#10;&#10;13+ Content Disclaimer: The use of handpainted clay customs and digital artwork in this video is simply a creative choice and not intended to attract young viewers. This is a fan made recreation of a Young Adult book that shows violence, gore, and characters in situations of distress. Viewer discretion is advised."
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -201,7 +201,7 @@ graph [
     step 0
     date "2022-07-09T15:00:15Z"
     title "I found the MOST POPULAR Warrior Cats OC Name"
-    description "I took a poll and did some searching. To the best of my knowledge, I have found what the most common names for Warrior Cats ..."
+    description "I took a poll and did some searching. To the best of my knowledge, I have found what the most common names for Warrior Cats OCs are.&#10;&#10;My Twitter: https://twitter.com/Bright_Guardian&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -216,7 +216,7 @@ graph [
     step 0
     date "2020-11-21T17:00:10Z"
     title "Warrior Cats: Fire and Ice: The Movie [COMPLETED]"
-    description "Have us make you a custom! https://etsy.me/35F3h0B Use the promo code: FIREANDICE to get $20 off your order! ... Voice Actors ..."
+    description "&#8227; Have us make you a custom! https://etsy.me/35F3h0B&#10;Use the promo code: FIREANDICE to get $20 off your order! &#10;...&#10;Voice Actors - &#10;Fireheart: DJIceWolf&#10;Fireheart: Nerdy Nom Nom&#10;Graystripe: AntiheroScourge&#10;Graystripe: KindledFlame&#10;Tigerclaw: Mike Joseph &#10;Sandpaw: LPS DemonicBlood&#10;Sandstorm: Glowing Aurora&#10;Nightstar: Jazz Auditions&#10;Crookedstar: Logintuit&#10;Yellowfang: LPSlover&#10;Yellowfang: Kelsifer&#10;Longtail: Omni Viewer&#10;Darkstripe: Omni Viewer&#10;Willowpelt: FlyingColors&#10;Willowpelt: Emily Kilpatrick&#10;Dustpaw: VoiceofWin&#10;Dustpelt: Nerdy Nom Nom&#10;Runningwind: TimTom&#10;Runningwind: NerdyNomNom&#10;Spottedleaf: XxCopperflashxX&#10;Spottedleaf: Willow_Heart&#10;Bluestar: Maisie Meehan&#10;Whitestorm: Battle Scarred&#10;Twoleg Kid: The coolest cat Jayfeather&#10;Twoleg Mother: Ravenwing VA&#10;Twoleg Father: Nerdy Nom Nom&#10;Deadfoot: Joe the Lion&#10;Ashfoot: Cascayd&#10;Morningflower: Ravenwing VA&#10;Morningflower: Willow 44&#8217;s Mum&#10;Swiftpaw: The Dark Unicorn of Awesomeness&#10;One-Eye: Kiba Raines&#10;Leopardfur: HenaLaul&#10;Ravenpaw: JaredVAman&#10;Barley: Lunar Nugget&#8217;s Dad&#10;Tallstar: Nerdy Nom Nom&#10;Barkface: Savy&#8217;s Art Studio&#10;Webpaw: Timefliesby&#10;Mudclaw: Nerdy Nom Nom&#10;Onewhisker: Mamoru Okami&#10;Loudbelly: Mike Huguet&#10;Whiteclaw: Joe the Lion&#10;Silverstream: Redfoxling&#10;Blackclaw: ArtStarTheCat1996&#10;Stonefur: Joe the Lion&#10;Halftail: Da Boi&#10;Halftail: hophead515&#10;Cinderpaw: Alex TranVA&#10;Frostfur: Nyan&#10;Frostfur: Pinkbunnygirl43 (Lillie)&#10;Frostfur: Voice My Opinion&#10;Princess: Pinkbunnygirl43 (Lillie)&#10;Brackenpaw: LPSsplashTV&#10;Princess&#8217; Owner: Its Eecho&#10;Mousefur: Lani Rivers&#10;Mistlekit: msp zanda&#10;Elderkit: Izel Fernberry&#10;Goldenflower: Maisie Meehan&#10;Speckletail: Maya Hennessey&#10;Brindleface: Animalia_1631&#10;Cloudkit: Johnny (Catbird Screaming)&#10;Runningnose: Bright Guardian Akira&#10;Brokenstar: Tyrone Bruinsma&#10;Stumpytail: Scary Pasta&#10;Fernkit: TheSprintingCoywolf&#10;&#10;Background Fighting Cats -&#10;Kelsifer&#10;LavenderMew&#10;DragonDogFilmSG&#10;ShadeClan Studios&#10;JB Land&#10;Dark Stalker Drawer&#10;Joe the Lion&#10;Misty Films&#10;Squirrelflight XD&#10;shadeclan studios&#10;lucky ducky animations&#10;Nicole Burdick&#10;Draconic`Storm&#10;JB Land&#10;DRAGONDOGFILMSG&#10;Slushy Lion&#10;Darkstalker Drawer&#10;Quietbeam&#10;Shane Moseley &#10;Meme Fox YT&#10;Swimmer Otter [Patch]&#10;Misty Films&#10;Paoge the potato&#10;Christy LPS&#10;Mocameek Cookie&#10;Laffytaffy1 Aj&#10;LavenderMew&#10;Sharp The Hybrid&#10;Moonheart The Fox&#10;&#10;...&#10;&#10;13+ Content Disclaimer: The use of handpainted clay customs and digital artwork in this video is simply a creative choice and not intended to attract young viewers. This is a fan-made recreation of a Young Adult book that shows violence, gore, and characters in situations of distress. Viewer discretion is advised.&#10;...&#10;&#10;Want to send us fan mail?&#10;&#10;Pinkbunnygirl43 &#10;P.O. Box 632&#10;Meridian, ID 83680&#10;&#10;(we don't open it on camera)&#10;...&#10;&#10;Want some real life warriors cats? Subscribe to my cats' channel! Daily cat videos!&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;... &#10;&#10;Watch Into the Wild: The Movie! https://youtu.be/oCYs9lnq1tE"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -231,7 +231,7 @@ graph [
     step 0
     date "2022-05-07T14:53:11Z"
     title "warrior cats tiktoks that make you cry and laugh / CREDITS IN DESK / FLASH WARNING / #warriorcats"
-    description "Hello guys, Here are the animators i know so far who owns some of the tiktoks in this video (some tiktoks have stolen their ..."
+    description "Hello guys,&#10;&#10;Here are the animators i know so far who owns some of the tiktoks in this video (some tiktoks have stolen their animations):&#10;0:06 -  MJ_was_here&#10;0:13 - Crookedstar's Promise (Crookedstar, Warriors) MAP | Part 14 by Sagutoyas&#10;0:49 &#38; 1:18 - ignisfelis&#10;0:54-  ashfur.official (i couldn't re-find the video so couldn't find credits but that's the tiktoker's name)&#10;1:28- Holy to the sea M.A.P (the tiktoker did not know who exactly the animation belonged to but that is the MAP its in)&#10;1:58 - swiftpaw amv - in the end by NekoVocalNote&#10;2:14 - Cheetah Z &#38; mudshadow&#10;2:26 - i'm not insane by Safulous&#10;2:37- Already Over | COMPLETE Mapleshade PMV MAP&#10;2:50 - She Wants Me (to be loved) - Thrushpelt AMV by peppermint-moss&#10;3:49 - squirrelflight.08&#10;&#10;None are mine!&#10;&#10;Sorry it took so long to get credits up, this is my first warrior cats tiktok i've ever posted and I didn't know at first that some of these were just stolen animations. I hope you guys understand &#10084;&#10;&#10;Hope you enjoyed and remember to check out these amazing animators!! Please like and sub too!!"
     channel_title "Obsidian the Crocodile "
     channel_id "UC0kNIangiHOR9sNnZr-FkrQ"
     fav_count 0
@@ -261,7 +261,7 @@ graph [
     step 0
     date "2022-01-11T15:00:10Z"
     title "Redrawing Top 5 Saddest Warriors Deaths After 8 Years"
-    description "improvement speedpaint time boiiiiis Here's the video I made in 2020: https://www.youtube.com/watch?v=ZOqOt3k5TkU And ..."
+    description "improvement speedpaint time boiiiiis&#10;&#10;Here's the video I made in 2020: https://www.youtube.com/watch?v=ZOqOt3k5TkU&#10;&#10;And here's the Feathertail AMV I mentioned: https://www.youtube.com/watch?v=OzqJFBri1qE"
     channel_title "Northflowo"
     channel_id "UCmyVfmItO8zVuV6gZC_1zkA"
     fav_count 0
@@ -276,7 +276,7 @@ graph [
     step 0
     date "2022-03-12T15:57:31Z"
     title "My Boyfriend GUESSES Warrior Cats!"
-    description "Another video of me forcing my irl people to guess these darn Warrior Cats! fjkfkjd also I had my mic on the wrong setting while ..."
+    description "Another video of me forcing my irl people to guess these darn Warrior Cats!&#10;fjkfkjd also I had my mic on the wrong setting while recording this so apologies that the audio is a little more crunchy compared to the other ones!&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;&#10;Want to see videos and hear songs EARLY? Be apart of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -291,7 +291,7 @@ graph [
     step 0
     date "2014-02-23T07:44:39Z"
     title "AMV - Warrior Cats - Rise {READ DESC!}"
-    description "Video: Warrior Cats Epiosode 3 Part 1 - SSS WARRIOR CATS ----I DIDN'T MAKE THIS ANIMATION!-------- Music: Skillet - Rise."
+    description "Video: Warrior Cats Epiosode 3 Part 1 - SSS WARRIOR CATS ----I DIDN'T MAKE THIS ANIMATION!--------&#10;Music: Skillet - Rise"
     channel_title "nerka"
     channel_id "UCu2j3wEMzZgP-jLJWVm-aaw"
     fav_count 0
@@ -306,7 +306,7 @@ graph [
     step 0
     date "2022-05-07T15:00:32Z"
     title "Top 10 STRONGEST Warrior Cats Characters"
-    description "In this video you all voted for the top 10 strongest Warrior Cats characters. I took 9 of your top 10 and rearranged them into my ..."
+    description "In this video you all voted for the top 10 strongest Warrior Cats characters. I took 9 of your top 10 and rearranged them into my personal top 10!&#10;&#10;Cat art is by Miss Dako! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -321,7 +321,7 @@ graph [
     step 0
     date "2018-01-22T05:19:27Z"
     title "The Five Giants [COMPLETE Warrior Cats M.A.P.]"
-    description "It's here. Thank you for all of the support on this project over the years and a special thank you to the Erins; Victoria Holmes, Kate ..."
+    description "It's here.&#10;&#10;Thank you for all of the support on this project over the years and a special thank you to the Erins; Victoria Holmes, Kate Cary, Cherith Baldry and Tui Sutherland. Thank you for writing the stories and characters that have inspired so many of us for the past 15 years.&#10;_____&#10;PARTICIPANTS:&#10;Selket, Simply Misty, AnimeLionessMika, Tenelle Flowers, Meow 286, PkspRuby, TheDogzLife&#10;Toha Ridomesu, SalukiSilver, Crashydelflou, Sokoish, Kay2036, HITA EighthSun, Callipepla Californica, WanderingArcher, Talarik, TangleClaw, xJaystarzx, Fausti A., St&#9733;rapture, Beffalumps, King Rory, Squizzy, Etourvol, Milda Karg, Kinseis, D3LT4R1-2, Amberbydreamsart, Kura Kur &#38; Iro Rautatiski, Feyrah, HulluMel, RyeTaran, Spottedfire25, Nifty-Senpai, Fireworkcat25, MapleSpyder, Shilly, Tobi&#8217;s the Hero, Splashamantha, Nightrizer, Princess-Anna, Fluffylovey, FlowingWaves, GingaNinjaOwO, Whiskermoon &#38; Teejsaurus &#38; StationPass, KatAuroraMist, River Spirit, WindBird, XxHazelstripexX, Finchwing &#38; Selket &#38; Nifty-Senpai, Forsaken Spirits &#38; FireworkCat25 &#38; Luxites, Lukey Charms, ColaCatInTheHat, Wanton Fox, Finchwing, CaptainScourge, Velo Cira.&#10;______&#10;Ending Credits by:&#10;Whiskermoon&#10;With additional lining and help by:&#10;Fireworkcat25&#10;Spottedfire25&#10;Painting of Rusty by:&#10;MapleSpyder&#10;_____&#10;MUSIC:&#10;&#8220;Masterpiece Theater III&#8221; by Marianas Trench&#10;&#8220;The Valley (Reprise)&#8221; by The Oh Hellos&#10;______&#10;SPECIAL THANKS TO:&#10;RyeTaran; who provided us with our beautiful Clan Wheel symbol and helped lift the project off the ground at the very beginning.&#10;&#10;Our backup artists and animators; who were on call whenever we needed them to pick up where someone else left off.&#10;&#10;ObnoxiousGiraffe; Who helped host the project in the beginning and helped it develop.&#10;_____&#10;THUMBNAIL CONTEST WINNER + PARTICIPANTS:&#10;To view all entries and honorable mentions please visit this doc!! : https://goo.gl/E5QTjP&#10;&#10;Five Giants Thumbnail made by WolFirry&#10;Honorable mentions:&#10;N0rthl1ght&#10;SpiiderClaw&#10;pavrzlove&#10;______&#10;THIS PROJECT WAS 100% NON-PROFIT. Five Giants was a fanmade labor of love and serves to showcase the artists and their dedication to Erin Hunter&#8217;s Warrior Cats&#10;______&#10;***&#10;Link to the original hosting video with all of the prompts and part descriptions: https://youtu.be/igmPWA2o9Ic"
     channel_title "WhiskerMoon"
     channel_id "UCodkHc_gkjqrIBnRkD8mIPA"
     fav_count 0
@@ -336,7 +336,7 @@ graph [
     step 0
     date "2018-12-01T14:00:05Z"
     title "Warrior Cats Pregnancy RANT"
-    description "It's always made me a little upset that Warrior Cats glorifies pregnancy as much as it does. Here are my thoughts. The cat art in this ..."
+    description "It's always made me a little upset that Warrior Cats glorifies pregnancy as much as it does. Here are my thoughts.&#10;&#10;The cat art in this video was made by the lovely Missy Dakota!&#10;You can support her on Patreon here: https://www.patreon.com/MissyDakota&#10;You can watch her on DeviantArt here: https://www.deviantart.com/missydakota&#10;&#10;Intro was made by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -351,7 +351,7 @@ graph [
     step 0
     date "2022-06-18T21:46:08Z"
     title "FUNNY ROLEPLAY on Warrior Cats Ultimate Edition"
-    description "Hey guys! What's up? In today's video I decided to get back onto Warrior Cats: Ultimate Edition in Roblox and become a LUNA ..."
+    description "Hey guys! What's up? In today's video I decided to get back onto Warrior Cats: Ultimate Edition in Roblox and become a LUNA again! I ended up reforming Luna Clan from last episode and the roleplay turned out funny. We traveled around trying to find a fast food restaurant to eat at and I even had a kit! Anyways, ENJOY!&#10;&#10;My Socials!:&#10;Instagram: https://www.instagram.com/bigmamaeternal&#8203;&#10;Twitter: https://twitter.com/bigmamaeternal&#8203;&#10;Second Channel: https://www.youtube.com/channel/UCnBG9tA7kW68hc7zd89r4BQ"
     channel_title "Big Mama Eternal"
     channel_id "UCPeJREKbTZCjAeDTDx6YtrA"
     fav_count 0
@@ -366,7 +366,7 @@ graph [
     step 0
     date "2022-06-11T13:41:14Z"
     title "- = WCUE TikTok COMPILATION #3 = Warrior cats: ultimate edition = -"
-    description "A different video for today! .} &#11088;| NOTE: ALL CREDITS GOES TO THE ORIGINAL CREATORS! I KEPT THE @ AT THE END OF ..."
+    description "{. A different video for today! .}&#10;&#10;&#11088;| NOTE: ALL CREDITS GOES TO THE ORIGINAL CREATORS! I KEPT THE @ AT THE END OF EACH TIKTOK SO YOU KNEW WHO MADE THEM!&#10;&#10;&#34;Why do you edit on?&#34;&#10;I record with OBS, and edited this on CapCut!&#10;------------------------------------------------------------------------&#10;&#34;Are your commissions on?&#34; [Art, Morphs]&#10;Yep, they are! my art isn't open currently as my art software is playing up sadly!&#10;------------------------------------------------------------------------&#10;game: Roblox - Warrior cats Ultimate Edition&#10;------------------------------------------------------------------------&#10;Inspired: WCUE community&#10;Music: Variety of music&#10;-----------------------------------------------------------------------&#10;|| Fan art? ||&#10;Put   # LittleSiameseStudiosFanArt    in your title/desc!&#10;---------------------------------------------------------------------------------&#10;|| Other &#8216;socials&#8217; ||&#10;&#10;Roblox: https://web.roblox.com/users/18806398...&#10;&#10;Roblox Group: https://web.roblox.com/groups/1247072...&#10;&#10;Tiktok: https://www.tiktok.com/@raging.tempes...&#10;-------------------------------------------------------------------------------&#10;Hope you enjoy it! -LittleSiamese Studios, Out! ~&#10;&#10;tags, please ignore;;&#10;TikTok wcue warrior cats ultimate edition compilation tiktok compilation collab book game Roblox"
     channel_title "LittleSiamese Studios"
     channel_id "UC6slVEueOyx0S7bW1EtqeNw"
     fav_count 0
@@ -381,7 +381,7 @@ graph [
     step 0
     date "2022-03-17T06:45:29Z"
     title "16 Saddest Warrior Cat Deaths"
-    description "This is in the order by the saddest deaths people have voted on. NONE OF THE DRAWINGS BELONG TO ME AND NEITHER DO ..."
+    description "This is in the order by the saddest deaths people have voted on.&#10;&#10;NONE OF THE DRAWINGS BELONG TO ME AND NEITHER DO THE SONGS!!!&#10;&#10;You can just comment which one was the saddest, no need to like or subscribe."
     channel_title "Shinosimp"
     channel_id "UCKuIXfSfq5GfSIKvJ6_yoYg"
     fav_count 0
@@ -396,7 +396,7 @@ graph [
     step 0
     date "2019-07-27T14:00:05Z"
     title "Warrior Cats as Humans"
-    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed. In this challenge, I asked you ..."
+    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed.&#10;&#10;In this challenge, I asked you all to draw Warrior Cats characters as humans!&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw&#10;Talk Sprites by Gee: https://twitter.com/Gee_lly"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -411,7 +411,7 @@ graph [
     step 0
     date "2020-09-30T10:11:47Z"
     title "Swiftpaw AMV - In The End"
-    description "I've been feeling nostalgic lately and I revisited a lot of old warriors content that used to inspire me a lot years ago(creators like ..."
+    description "I've been feeling nostalgic lately and I revisited a lot of old warriors content that used to inspire me a lot years ago(creators like ssswarriors, bluekyokitty, allikatnya, duckfeatherz, ryulovestsute, and more). It made me realize that I can't really speak for the merit of the books(because I don't remember). It was the fan works that made a lasting impression, all my favorite characters/moments came from seeing the animations everyone created(case in point, Swiftpaw).&#10;It's crazy to see how the community as grown since then and it's still pretty inspiring, so as a short side project I tried remaking a really old AMV(slide show presentation) I made like 9 years ago. Here's to you warrior cats animators, stay awesome.&#10;&#10;(in case anyone's still here and cares, no I'm not back, I'm surprised I even remember the password for this account to be honest, but hope you enjoy)"
     channel_title "NekoVocalNote"
     channel_id "UCODsD0K8DSPoc8rIGeB9h8A"
     fav_count 0
@@ -426,7 +426,7 @@ graph [
     step 0
     date "2020-11-23T05:29:27Z"
     title "This is me - Warrior Cats (Animator Tribute) ***READ THE DESCRIPTION****"
-    description "Just an editing practice I've done with some of my favorite warriors map parts from very talented artists. I just thought someone ..."
+    description "Just an editing practice I've done with some of my favorite warriors map parts from very talented artists. &#10;I just thought someone else might enjoy it as much as I did while making this. Thanks for watching.&#10;&#10;&#10;DISCLAIMER : NO, I DO NOT OWN ANY OF THE ANIMATIONS!!&#10;&#10;&#10; Song - This is me, from The Greatest Showman&#10;&#10;&#10;All the animators (not in order) :&#10;&#10;&#10;&#10;&#10;&#10;&#10;Alex Harrier : https://www.youtube.com/user/xAlexharrierx&#10;Amelia Bothe : https://www.youtube.com/channel/UCT5OiJgXRIReyg4N71fzy1A&#10;Sagutoyas: https://www.youtube.com/user/Sagutoyas&#10;Meow286: https://www.youtube.com/user/kirbysamful&#10;Animelionessmika: https://www.youtube.com/user/kurokami99&#10;Nightrizer: https://www.youtube.com/channel/UC_fNn3bATqHhs1ic9WKbvoQ&#10;Ursiday: https://www.youtube.com/channel/UCf3ieOdhOJbWaIHrMrqpd2g&#10;Raevei: https://www.youtube.com/channel/UC1QGZedVZMLJAHfwTy3oryg&#10;Aschefall: https://www.youtube.com/user/Aschefall&#10;Ermine Leader: https://www.youtube.com/channel/UCui4R51ihYBNcXdd-MuHbmw&#10;Askilla Daemon: https://www.youtube.com/channel/UCPiDLOHEdwuSF7DbBbHjZaw&#10;Mudshadow: https://www.youtube.com/user/MissKabachu&#10;Selket: https://www.youtube.com/user/TimeForHowling&#10;Owlspark:https://www.youtube.com/channel/UCVqpMLHckAMYFuAbnIN1z7A&#10;Bakamiel:https://www.youtube.com/channel/UC46tIo5ZRXzvZZC7zwOAvVg&#10;Cranberry the Cat:https://www.youtube.com/channel/UC8pj8BCp8vGt_UcgDw0Yr-w&#10;SEGAmastergirl: https://www.youtube.com/user/SEGAmastergirl&#10;&#10;**This is solely for entertainment purposes, i do not take credit for anything but the editing."
     channel_title "Capt wolf"
     channel_id "UCn5y3dGjUw26GLT2x6DSM5g"
     fav_count 0
@@ -441,7 +441,7 @@ graph [
     step 0
     date "2021-07-05T19:00:10Z"
     title "Home - New Prophecy Warriors MAP | COMPLETE"
-    description "I'm super happy and honored to show you the result of the year and a half of working. the participants did an AMAZING JOB!"
+    description "I'm super happy and honored to show you the result of the year and a half of working. the participants did an AMAZING JOB!!And look at the awesome thumbnail made by Phaelia! Also thanks to the participants of the thumbnail contest. Fortunately for me, the participants decided of the winner, cause the choice would have been so hard!&#10;&#10;I know there is a little scene which is'nt in the book. Leafpaw is normally with the humans when Squirrelpaw and the others return to the clan. But I was'nt able to resist to imagine the sisters so happy to get together! &#10;&#10;&#10;Participants :&#10;&#10;Part 1: Koerenn&#10;Part 2: AigneTheAnimator &#10;Part 3: c h y a &#10;Part 4: AstraPiika&#10;Part 5: QuirKrash&#10;Part 6: JeanAkratt         &#10;Part 7: Cat-Artist &#10;Part 8: Solstrike06          &#10;Part 9: Ray- lin &#10;Part 10: DietS0da              &#10;Part 11:  Echacharpe &#10;Part 12:  PuddleFace          &#10;Part 13: Painted StarDust                   &#10;Part 14: Mellowlamb             &#10;Part 15: SaraXu                           &#10;Part 16: Sagutoyas  &#10;Part 17: ursiday                  &#10;Part 18: Lonely Night         &#10;Part 19: Kittson              &#10;Part 20: Cristal Silverlight&#10;Part 21: Koerenn // DrBubbles&#10;Part 22: Fleur de Sureau &#10;Part 23: Mayartimations                      &#10;Part 24: BeastyBby &#10;Part 25: Koheina&#10;Part 26: Firenkyo // Martletwing&#10;Part 27: amberbydreamsart // Blanchy // Cherrydusk&#10;Part 28: Goldenwing  //  Chilly Weathers               &#10;Part 29: Luxionyl              &#10;Part 30: Little Spencer                  &#10;Part 31:  Francy Sketches  &#10;&#10;Music : Home - Dotan&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Koerenn"
     channel_id "UCTSLtgqUXynuAl0H961PYyg"
     fav_count 0
@@ -471,7 +471,7 @@ graph [
     step 0
     date "2022-04-01T21:45:11Z"
     title "CELL BLOCK TANGO [Complete Warrior Cats MAP]"
-    description "This MAP is part of the April Fools Mapathon, be sure to watch and attend the rest here!"
+    description "This MAP is part of the April Fools Mapathon, be sure to watch and attend the rest here! https://youtube.com/playlist?list=PLjfYg0bZUobv9YdiVxg-L5IfGhbEmbBQ1&#10;&#10;After more than 2 years of hard work and dedication, I am more than thrilled to bring you Cell Block Tango. Every participant involved worked so hard and I couldn't be prouder of the final result. Many special thanks to the credit artists, thumbnail submissions, backups, and countless spectators for supporting the project!!&#10;&#10;Subtitles are available&#10;&#10;Also, a quick note that Silverstream's part is not properly translated!! I've modified it a little bit to fit her story better, please look into the actual lyrics if curious :]&#10;&#10;ORIGINAL MAP CALL - https://youtu.be/XiKwqH7KBxo&#10;ORIGINAL SCRIPT - https://docs.google.com/document/d/1xdhOa8Iw_zEYTV9oWzPdFSUB_CkivAFXdfSmvQYV28U/edit?usp=sharing&#10;&#10;PARTICIPANTS -&#10;Opening - RedBear + Moon Boots&#10;-1 - HarvestBrook &#10;-0 - CL0UD 324 + tiger light + CrackerMack + OFUKITTY &#10;Intro - The Oncoming Snail &#10;1 - Finchbite &#10;2 - WishfulVixen &#10;3 - Louixie &#10;4 - Sigmageist &#10;5 - Furox + rikatu + Fennexx &#10;6 - flamierrr &#10;7 - Undead Bandit &#10;8 - Ryeven &#10;9 - Fiore Doodles &#10;10 - EphemeralMoth &#10;11 - Cheekytiger &#10;12 - Dagger &#10;13 - SketchbookRiot + muggertime &#10;14 - Sigmageist + GiingerSnaps &#10;15 - EvanIndie &#10;16 - Aridarchen &#10;17 - Woofzie &#10;18 - RoonieArts &#10;19 - Mary_MS_Jay &#10;20 - CL0UD 324 &#10;21- poppy pops &#10;22 - Kookzer &#10;23 - teekonu &#10;24 - StarStruck246 &#10;25 - Rosia + OFUKITTY + renibowsprimkle &#10;26 - MissEus &#10;27 - Moon Boots &#10;28 - RoonieArts + Kalublah + DaveThyQueen + Maltose &#10;29 - Linn Lacrimosa &#10;30 - Northflower &#10;31 - voideitii &#10;32- starritea &#10;33 - Fennexx + StarStruck246 &#10;34 - Okami Wolven &#10;35 - Annywu &#10;36-  KristalKarma + pianopickles &#10;37 - KimSxxiny + Marinin &#10;38 - StoryOfAnArtist &#10;39 - powderberry + adrianimations &#10;40 - powderberry + adrianimations &#10;41 - fishsocks + snoozie &#10;42 - draivysand &#10;43 - Cat frost + SplashDreamms &#10;44 - araxie + Vampviz &#10;Outro - BumbleTus &#10;c1- Sunflower Cougar + Radio &#9733; Scratch &#10;c2- BUSTERSW0RD &#10;c3- The Oncoming Snail &#10;c4- DaveThyQueen &#10;c5- Boba Chai &#10;c6- Araxie&#10;c7- Louixie&#10;&#10;SONG - Cell Block Tango from Chicago&#10;CREDITS SONG - Holding Out For A Hero from Shrek 2&#10;MAP PLAYLIST - https://youtube.com/playlist?list=PLkoS5e_CzKgxMB9BsRX1TL2vEP3-V8kP3&#10;&#10;THUMBNAIL WINNER - Sinasni&#10;----------&#10;Cell Block Tango is a non-profit project made for fun!! Please consider supporting all artists involved &#128153;&#10;----------&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "araxie"
     channel_id "UCPLLME-VhD98Km3laxyEEkQ"
     fav_count 0
@@ -486,7 +486,7 @@ graph [
     step 0
     date "2019-04-09T08:49:52Z"
     title "Funniest Warrior Cat animations"
-    description "DISCLAIMER I did not animate any of these, they were done by 2 talented animators, both Mamma Tad and Moonkitti. I love there ..."
+    description "DISCLAIMER &#10;I did not animate any of these, they were done by 2 talented animators, both Mamma Tad and Moonkitti. I love there senses of humour, and I hope you enjoy this compilation of their best animations ;3"
     channel_title "Rave Cats"
     channel_id "UCuT6kxqbWauGGePPF66JaMA"
     fav_count 0
@@ -501,7 +501,7 @@ graph [
     step 0
     date "2022-02-13T15:22:02Z"
     title "The FUNNIEST warrior cat memes &#127806; That made Tigerclaw impressed &#127806; (CLEAN)"
-    description "Check out my other meme compilations PLUS a playlist of videos I find funny: ..."
+    description "Check out my other meme compilations PLUS a playlist of videos I find funny: https://youtube.com/playlist?list=PLbTCFa7_AaRvfkLNtaoepXcGj01T1MQ9Q&#10;&#10;** I DON&#8217;T OWN ANY OF THIS CONTENT **&#10;&#10;Credits (in order):&#10;&#10;- Buff Ivypool: https://youtu.be/LEmOKThVSo8&#10;- These broad shoulder do lie: https://youtu.be/9ISqlEZA7xM&#10;- Siblings: https://youtu.be/GTzUPPixMKM&#10;- no dude, you got to go like aye: https://youtu.be/uqB7id55OyQ&#10;- did you wash the dishes: https://youtu.be/_FgkxJfEQ2w&#10;- scourge betrays Tigerstar: https://youtu.be/TvpMGpUxxAQ&#10;- Jayfeather is blind: https://youtu.be/UPbR-KDE_JY&#10;- Warrior cats VINE map part: https://youtu.be/Yt7DxvU9SQE&#10;- Sol is a shooting star: https://youtu.be/8cs44lhduX8&#10;- Break a leg: https://youtu.be/kGxrIKeADsI&#10;- Sandpaw in a nutshell: https://youtu.be/6n3K6aKbqjg&#10;- Warrior cats- rising storm: https://youtu.be/01aQVbf87KQ&#10;- im sad Vine map part: https://youtu.be/Nuc0TFxE18U&#10;- thats my opinion: https://youtu.be/oF6MpV8WFMc&#10;- Snowfur is a smooth criminal: https://youtu.be/O6jHbwdK42Y&#10;- Lionblaze comebacks: https://youtu.be/F5iClxjMN2I"
     channel_title "ShallowStep"
     channel_id "UC3Wklhbb0QeKcEIa86axKZg"
     fav_count 0
@@ -516,7 +516,7 @@ graph [
     step 0
     date "2022-04-10T19:38:28Z"
     title "Warrior Cats Ultimate Edition TikTok Compilation! - ROBLOX"
-    description "IM FINALY UPLOADING A TT COMPILATION WOOOOO Thanks to everyone that stayed patient, now, enjoy ! TAGS: #Roblox ..."
+    description "IM FINALY UPLOADING A TT COMPILATION WOOOOO&#10;&#10;Thanks to everyone that stayed patient, now, enjoy &#128149;!&#10;&#10;TAGS:&#10;#Roblox #WarriorCats #TikTok #Compilations #11minutes #Cats #ROBLOX #WCUE&#10;&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;"
     channel_title "CandY"
     channel_id "UCfvTb6RV046r-P6Wmy4Rn2Q"
     fav_count 0
@@ -531,7 +531,7 @@ graph [
     step 0
     date "2022-06-03T17:00:18Z"
     title "What if FIRESTAR and SPOTTEDLEAF Had Kittens?! &#128049;&#128149;&#128049; Warrior Cats: Kittens Spin-Offs!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob Warrior ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;We're back in the Sims 4: Cats &#38; Dogs LaBARKatory mixing and matching all manner of animals! Join Seri the Pixel Biologist as we dive into another pixel biology experiment!&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#spottedleaf&#10;#firestar&#10;#warriorcats"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -546,7 +546,7 @@ graph [
     step 0
     date "2017-08-11T21:44:19Z"
     title "Warrior Cats: The Rise of Scourge: The Movie [COMPLETED]"
-    description "13+ Content Disclaimer: The use of customized plastic cats and digital artwork in this video is simply a creative choice and not ..."
+    description "13+ Content Disclaimer: The use of customized plastic cats and digital artwork in this video is simply a creative choice and not intended to attract young viewers. This is an original story that shows violence, gore, and characters in situations of distress, with evil and manipulative villains. Viewer discretion is advised. &#10;&#10;This is just a just something my cousin Sarah and I are doing while I'm visiting here visiting in Kansas, I don't have any clay customs with me - so we're just using LPS for this series! (Because the clay customs are too fragile to transport) Hope you enjoy! :D Also his collar is red because we didn't have any purple pipe cleaners. XD And the red popped more against his black fur. ;) Hope you enjoyed this mini series! On to Fire and Ice and the next episode of The Unknown Flame!"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -561,7 +561,7 @@ graph [
     step 0
     date "2022-06-17T19:55:26Z"
     title "Northflowo vs Ursiday. Warrior Cats Trivia GAME SHOW! || Mouse Brained !"
-    description "An all-out battle to see which Warrior Cat Tuber knows the books the best! Who will win, and who will be the &#34;MOUSEBRAIN!"
+    description "An all-out battle to see which Warrior Cat Tuber knows the books the best! Who will win, and who will be the &#34;MOUSEBRAIN!&#34;&#10;&#10;My Patreon  &#8594; https://www.patreon.com/Blixemi&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;___&#10;&#10;Visit the contestants!&#10;&#10;Northflowo- https://www.youtube.com/c/NorthflowerOwO&#10;&#10;Ursiday - https://www.youtube.com/c/ursiday"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -576,7 +576,7 @@ graph [
     step 0
     date "2022-05-14T15:00:23Z"
     title "If Warrior Cats were Sponsored (WC Art Show Round 2)"
-    description "VOTING FOR ROUND 2 IS NOW CLOSED! Thank you all for voting! See the results in Round 3 when it releases! This is the ..."
+    description "VOTING FOR ROUND 2 IS NOW CLOSED! Thank you all for voting! See the results in Round 3 when it releases!&#10;&#10;This is the second round of a competition involving 84 artists from the Warrior Cats Challenge Discord! You all voted 59 of the 84 into Round 2! Round 2 involves them drawing Warrior Cats if they were sponsored by brands!&#10;This video is not sponsored by any brand! The brands were chosen by the contestants for comedic/artistic purposes only.&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -591,7 +591,7 @@ graph [
     step 0
     date "2021-09-08T16:00:31Z"
     title "If Warrior Cats were in School"
-    description "It's back to school time! For this challenge, you drew Warrior Cats at school. Warriors Challenge Discord: ..."
+    description "It's back to school time! For this challenge, you drew Warrior Cats at school.&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -606,7 +606,7 @@ graph [
     step 0
     date "2022-07-11T04:54:19Z"
     title "Warrior Cats: Ultimate Edition UPDATE LEAK (Roblox)"
-    description "New leaks from the games discord about the (presumably) next update! Discord: https://discord.gg/n59gT3gaKn game: ..."
+    description "New leaks from the games discord about the (presumably) next update!&#10;Discord: https://discord.gg/n59gT3gaKn&#10;game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;&#10;music:&#10;https://www.youtube.com/watch?v=EtZ2m2Zm3vY"
     channel_title "mellowbear"
     channel_id "UCeUHBzKqj0X5NBFeyBPM9Rw"
     fav_count 0
@@ -621,7 +621,7 @@ graph [
     step 0
     date "2021-10-31T20:15:10Z"
     title "THIS IS HALLOWEEN |  Warriors MAP COMPLETED"
-    description "WE DID IT! I'll be honest: I DIDN'T EXPECT SUCH A RUSH AROUND MY PROJECT AT ALL!! AAH! Thank you so much for your ..."
+    description "WE DID IT! &#10;I'll be honest: I DIDN'T EXPECT SUCH A RUSH AROUND MY PROJECT AT ALL!! AAH! Thank you so much for your support, for your fan art and fan parts, for yours... All.&#10;&#10;MAP PARTS&#10;Thumbnail - HITA Eightsun&#10;0:00 Osinka &#10;0:14 Dark-yard&#10;0:20 BosleyBoz &#10;0:25 Mozzigator &#10;0:32 Louixie + Artisminerva &#10;0:37 Chocobir &#10;0:42 DarkMoonRAY &#10;0:48 Ursiday &#10;0:54 flecks &#10;1:00 Nightrizer &#10;1:07 Tayplets &#10;1:12 ZOMIBOM + Maud + MarrowManiac&#10;1:18 CHURIMP + Nuube &#10;1:24 voidieitii + Peacat + Pfini Productions + Meow286 &#10;1:29 CatMad34  + Himmel  &#10;1:35 voideitii&#10;1:40 Sagutoyas &#10;1:53 FISHSOCKS + Pfini Productions + Giingersnaps + harvestbrook + Blanchy + Cassandra Cat  + Kalublah+ Amelia B  + Darmstadtium &#10;2:00 SmellyTrashRat + MANCHKIN! + Bregottski + Marinin + koskot owl&#10;2:06 bunnycat &#10;2:13 Northflowo &#10;2:18 SikolBlueCat + okaeno &#10;2:24 MANCHKIN!  + okaeno&#10;2:29 Keby (Lynxspots) + okaeno&#10;2:35 Ashtrall + SmellyTrashRat + Mayartimations &#10;2:42 EllowMello &#10;2:48 Riley &#10;2:59 Turnip Stewdios &#10;&#10;3:20 CREDITS&#10;&#10;3:29 Marinin&#10;3:33 okaeno&#10;3:37 WolfHarmony&#10;3:42 treeetooop&#10;3:47 Cassandra Cat&#10;3:53 CheetehZ&#10;3:57 Smelly Trash Rat&#10;3:59 centauri&#10;4:04 wyveronne&#10;4:08 okaeno&#10;4:10 Darmstadtium&#10;4:13 Leahaler &#10;4:15 TinyWinny&#10;4:17 BRandy&#10;4:22 cerkowah&#10;4:26 koskot owl&#10;4:30 Bregottski&#10;4:34 Kalublah Art&#10;4:39 TheLovelyLadyLil&#10;4:44 raevei&#10;4:48 Bregottski&#10;4:53 treeetooop&#10;4:57 FlusteredBush&#10;5:01 Puddleface&#10;5:05 Tigereyes6302&#10;5:10 MANCHKIN!&#10;5:13 (AFTERCREDIT) DatSpeedyTurtle &#10;&#10;PLS SUB EVERYONE!!! THEY ARE REALLY TALENTED PPL!&#10;&#10;SONGS:&#10;&#34;This is Halloween&#34; (cover: Hairy and Scary Creatures)&#10;&#34;Oogie Boogie's song&#34; (instrumental)&#10;Warriors by Erin Hunter&#10;Designs by MANCHKIN!&#10;&#10;_________________________________________&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "MANCHKIN!"
     channel_id "UCqOUdr81rHS4Xdlx0XAWJ6w"
     fav_count 0
@@ -636,7 +636,7 @@ graph [
     step 0
     date "2022-04-09T12:39:52Z"
     title "Warrior cats villains that were heartbroken before they became evil"
-    description "Hi, I hope you enjoyed it! Please let me know in the comments, what video you would like next. song: ..."
+    description "Hi, I hope you enjoyed it!&#10;Please let me know in the comments, what video you would like next.&#10;&#10;song:&#10;https://www.youtube.com/watch?v=KCj6xqyOIBY&#10;&#10;Artists:&#10;https://aminoapps.com/c/warriors/page/blog/appledusks-death/BW3j_PZtwu5lzoJ856PwmKDN3QqRax32LB&#10;&#10;https://www.deviantart.com/triplejaysart/art/Mapleshade-s-Loss-634271027&#10;&#10;https://www.pngkey.com/maxpic/u2e6a9t4u2r5q8y3/&#10;&#10;https://altfriblog.vercel.app/3/posts/view-9-appledusk-mapleshade-warriors/&#10;&#10;&#10;https://blogclan.katecary.co.uk/2018/10/23/should-mapleshade-be-in-starclan-by-creekdapple/&#10;&#10;https://morecatswarriorcats.tumblr.com/post/635512587873828864/tigerstar&#10;&#10;https://m.facebook.com/BrbCryingOverFictionalCats/photos/a.616120095090195/2529705587064960/?type=3&#38;source=57&#38;__tn__=EH-R&#10;&#10;https://www.deviantart.com/angeldalet/art/Leopardfoot-death-Tigerclaw-s-grief-860046212&#10;&#10;https://blogclan.katecary.co.uk/2021/06/10/was-hawkfrost-deserving-of-the-dark-forest-by-crowfrost/&#10;&#10;https://www.wattpad.com/460673599-warrior-cats-deaths-cz-redtail&#10;&#10;https://www.deviantart.com/woofydragon/art/Tigerstar-X-Sasha-748596992&#10;&#10;https://aminoapps.com/c/warrior-cats-amino-6/page/blog/was-yellowfang-wrong-to-poision-and-kill-her-son-brokenstar/ng0V_4BiLu8p35PvGal6NKg80laxwEQJ5z&#10;&#10;https://www.quotev.com/quiz/9168121/How-well-do-you-know-Yellowfang/result&#10;&#10;https://aminoapps.com/c/warriors/page/blog/ashfur/VaWk_G8c7uM8a8Z3MMxnGWoVe4xpg8jv8k&#10;&#10;https://www.pinterest.fr/pin/491173903108209511/&#10;&#10;https://satzzzwarriorcats.tumblr.com/post/634519502783184896/clear-sky-skystar&#10;&#10;https://www.deviantart.com/skystar-warrior/art/Fluttering-Bird-s-death-403712317&#10;&#10;https://midzukishino.tumblr.com/post/189514667380/clear-sky-x-star-flower-designs-by&#10;&#10;https://warriordesigns-tennelleflowers.tumblr.com/post/633596646098419712/sol-ex-kittypetex-skyclanrogue&#10;&#10;https://www.deviantart.com/wolfhowler9880/art/warriors-Cinders-and-Sol-632624999&#10;&#10;https://cz.pinterest.com/pin/319544536044525786/&#10;&#10;https://cz.pinterest.com/pin/818740407238214679/&#10;&#10;https://m.facebook.com/warriorshub/posts/shattered-sky-darktail-and-onestar-fan-artwork-by-nightrizerdeviantartcom-/1539079342868857/?locale2=fa_IR&#10;&#10;https://www.wattpad.com/483240901-v%C5%A1echno-o-warriors-scourge-postrach&#10;&#10;https://cz.pinterest.com/pin/491947959275981929/&#10;&#10;https://twitter.com/segamastergirl/status/1032017872263020544"
     channel_title "Whitefur"
     channel_id "UCDpBM0tXZu0m3UwsPDHL5yg"
     fav_count 0
@@ -651,7 +651,7 @@ graph [
     step 0
     date "2022-04-09T15:00:25Z"
     title "Having Nine Lives is POINTLESS in Warrior Cats"
-    description "One of the most frustrating aspects of Warrior Cats lore. One thing I forgot to mention in this video: the nine lives ceremonies are ..."
+    description "One of the most frustrating aspects of Warrior Cats lore. One thing I forgot to mention in this video: the nine lives ceremonies are getting to be really boring the more that happen. It was only interesting the first time with Firestar.&#10;&#10;Cat art is by Miss Dako! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -666,7 +666,7 @@ graph [
     step 0
     date "2022-06-25T15:00:38Z"
     title "Fixing Your Warrior Cats Fan Art (Volume 5)"
-    description "My time has come once again. You know, to make silly edits to your Warrior Cats art! Warriors Challenge Discord (this is where art ..."
+    description "My time has come once again. You know, to make silly edits to your Warrior Cats art!&#10;&#10;Warriors Challenge Discord (this is where art for these videos is collected): https://discord.com/invite/brightguardianakira&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -681,7 +681,7 @@ graph [
     step 0
     date "2019-07-03T15:49:27Z"
     title "Firestar &#38;#39;s Life - Warriors - In the name of love"
-    description "This is a very old video so there are a lot of imperfections , sorry! ^^' Other Warrior cats AMV you might like ..."
+    description "This is a very old video so there are a lot of imperfections , sorry! ^^' &#10;&#10;Other Warrior cats AMV you might like ^^&#10;https://youtube.com/playlist?list=PLllxmvXTiiqGY4ThrpD6P83WoS7zu9cqO&#10;&#10;&#8226;Thanks to the animators&#8226; &#10;(in order)&#10;&#10;Senpuppy&#10;JeanAkratt&#10;Koerenn&#10;Sagutoyas &#10;Sacred Roses&#10;AlexHarrier &#10;Colacatinthehat&#10;Aethira&#10;Bosley Boz&#10;Selket&#10;FluffyLovey&#10;Dogfish&#10;Michiganimator&#10;SaraXu&#10;xJayStarzx&#10;Icedog McMuffin&#10;Maplespider &#10;Finchwing &#10;WulfWhistle&#10;Crashydelflou&#10;Bunny Guin&#10;RenAstraea&#10;TheBlueWolfStudio&#10;Ashtrall&#10;Allikat&#10;GinjaNinjaOwO&#10;SaHaRa BeRnAnKe&#10;Moew 286&#10;Kura Kur&#10;Nightrizer &#10;Raevei&#10;Solange Drawing&#10;Hellsfaw&#10;XxHazelstripexX&#10;Makaruu &#10;&#10;The animations here are not mine, I just did the editing, all the animators are above. &#11014;&#65039;&#11014;&#65039;&#11014;&#65039;&#10;&#10;&#8226;Music&#8226;&#10;&#10;In the name of love - Martin Garix ft. Bebe Rexha"
     channel_title "Plume des Neiges LGDC"
     channel_id "UC1P9InmK17jKrZE1LTEpxkA"
     fav_count 0
@@ -696,7 +696,7 @@ graph [
     step 0
     date "2021-12-31T02:16:21Z"
     title "Warrior Cats~Centuries"
-    description "CREDITS: 1.sad machine 2.Cheeteh Z 3.TheWisestDino 4.Sacred Roses 5.Willowen 6.EGGPRIEST 7.Amelia B 8.Twistedtoms 9."
+    description "CREDITS:&#10;1.sad machine&#10;2.Cheeteh Z&#10;3.TheWisestDino&#10;4.Sacred Roses&#10;5.Willowen&#10;6.EGGPRIEST&#10;7.Amelia B&#10;8.Twistedtoms&#10;9.Dark-yard&#10;10.Mudshadow&#10;11.Dogfish&#10;12.Nettlefang&#10;13.Outkorp&#10;14.SaraXu&#10;15.Riley&#10;16.TurnipStewdios&#10;17.Cytroplex&#10;18.Chocobir&#10;19. Loporidae&#10;20.bakamiel&#10;21.R. Riello&#10;22.sad machine&#10;23.SEGAmastergirl&#10;24.AlexHarrier&#10;25.Velo Cira&#10;26.Cookie-Brooke&#10;27.TheWisestDino&#10;28.MarshuKitty&#10;29.Icefelis&#10;30.zephyrims&#10;31.Icefelis&#10;32.Cassandra Cat&#10;33.Owlspart"
     channel_title "The Wild Warriors"
     channel_id "UC2CpOkLgZ27D83h4moXAweQ"
     fav_count 0
@@ -711,7 +711,7 @@ graph [
     step 0
     date "2019-03-02T14:35:49Z"
     title "Legends never die / Animator Tribute"
-    description "Animators : TheDogzLife : https://www.youtube.com/user/TheDogzLife Ilkyra : https://www.youtube.com/user/Ilkyra FuHai8000 ..."
+    description "Animators  : &#10;TheDogzLife : https://www.youtube.com/user/TheDogzLife Ilkyra : https://www.youtube.com/user/Ilkyra FuHai8000 : https://www.youtube.com/user/FuHia800... Nightrizer : https://www.youtube.com/channel/UC_fN... Crowfolly : https://www.youtube.com/user/Crowfall... Artemiah : https://www.youtube.com/channel/UC_k0... Askila Deamon : https://www.youtube.com/channel/UCPiD... Aartcritique : https://www.youtube.com/channel/UCs-I... Spiritaelia : https://www.youtube.com/user/Spiritae... WishfulVixen - https://www.youtube.com/user/bravewol...&#10;https://www.youtube.com/channel/UCIuvHfMTGR3WtAc7CHhBu5A/videos - sokoish&#10;https://www.youtube.com/user/chipietpista - Chipietpista"
     channel_title "NikitaTheWolf"
     channel_id "UC3U3s1U4OKDPcc1v5JH30dQ"
     fav_count 0
@@ -726,7 +726,7 @@ graph [
     step 0
     date "2021-03-06T19:00:06Z"
     title "Warrior Cats Hunger Games Simulator w/ Voice Actors"
-    description "WELCOME TO WARRIOR CATS HUNGER GAMES SIMULATOR. THIS WAS SUCH A FUN IDEA AND WE'D LOVE TO DO IT ..."
+    description "WELCOME TO WARRIOR CATS HUNGER GAMES SIMULATOR. THIS WAS SUCH A FUN IDEA AND WE'D LOVE TO DO IT AGAIN! PLEASE DON'T HESITATE TO GIVE US IDEAS IN THE COMMENTS FOR SCENARIOS.&#10;&#10;Artist: https://twitter.com/BlizzardBrick&#10;&#10;Special thanks to all the Warriors Voice Actor's who participated! &#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.gg/XCHEFyv&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -741,7 +741,7 @@ graph [
     step 0
     date "2022-06-11T15:00:37Z"
     title "Brokenstar makes NO SENSE! (Warrior Cats)"
-    description "Brokenstar was a rather easily understood villain in the first Warrior Cats book, but as the lore for the series developed, he slowly ..."
+    description "Brokenstar was a rather easily understood villain in the first Warrior Cats book, but as the lore for the series developed, he slowly lost his place.&#10;&#10;All art in the video is from the new Warrior Cats graphic novel, Exile From ShadowClan, illustrated by James L. Barry."
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -756,7 +756,7 @@ graph [
     step 0
     date "2022-05-28T15:00:23Z"
     title "If Warrior Cats was UNDERWATER"
-    description "In this challenge, you drew Warrior Cats as sea creatures or just underwater in some way! Warriors Challenge Discord: ..."
+    description "In this challenge, you drew Warrior Cats as sea creatures or just underwater in some way!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Endo&#10;Background by Kyian&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -771,7 +771,7 @@ graph [
     step 0
     date "2022-04-05T16:46:17Z"
     title "&#9733; The FUNNIEST &#9733; warrior cat memes that made Mousefur laugh (CLEAN)"
-    description "I do not own ANY of these videos* Credits to all the wonderful animators who did. Playlist of memes: ..."
+    description "*I do not own ANY of these videos*&#10;Credits to all the wonderful animators who did.&#10;&#10;Playlist of memes: https://youtube.com/playlist?list=PLbTCFa7_AaRvfkLNtaoepXcGj01T1MQ9Q&#10;&#10;Make sure to join my newest map: https://youtu.be/Co4Jj3edLKw&#10;AND my newest casting call; https://youtu.be/FWwW1lu5kXM&#10;&#10;Credits (*in order*):&#10;&#10;- But if u close ur eyes; https://youtu.be/UYGji_xGXWs&#10;- How Harper Collins views Tallstar and Jake; https://youtu.be/1pamo6hi2kg&#10;- Snowkit but like that one lawnmower vine; https://youtu.be/j8YFCGedGgY&#10;- But ya didn&#8217;t; https://youtu.be/GEKnivoJEPg&#10;-  Oh look, it&#8217;s them; https://youtu.be/bO_iF8NqdHo&#10;- Cowboy Mapleshade and jellybeans; https://youtu.be/Ji1ysyiBGyk&#10;- Nothing happens; https://youtu.be/xIWqWbiMteE&#10;- Name a yellow fruit; https://youtu.be/1j-keR5Rmyk&#10;- Ashfur is OKAY; https://youtu.be/BFkaRju-GkE&#10;- Fireheart vs Scourge; https://youtu.be/SCqbwmXVUco&#10;- Lionblaze and Cinderheart break up; https://youtu.be/3QQtBOoDHiM&#10;- Don&#8217;t be sad, Bluepaw; https://youtu.be/YOSF_wZeanE"
     channel_title "ShallowStep"
     channel_id "UC3Wklhbb0QeKcEIa86axKZg"
     fav_count 0
@@ -801,7 +801,7 @@ graph [
     step 0
     date "2021-10-13T16:00:21Z"
     title "Warrior Cats on Halloween"
-    description "It's spooky season! Here are some Halloween Warrior Cats! Warriors Challenge Discord: https://discord.com/invite/W53Uw6F Talk ..."
+    description "It's spooky season! Here are some Halloween Warrior Cats!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -816,7 +816,7 @@ graph [
     step 0
     date "2022-07-09T08:37:31Z"
     title "Bio-Name glitch in Warrior Cats Ultimate Edition (WCUE)"
-    description "I show how to make the bio-name glitch in Warrior Cats Ultimate edition. Most of the time it is repeatable, but in some cases it does ..."
+    description "I show how to make the bio-name glitch in Warrior Cats Ultimate edition. Most of the time it is repeatable, but in some cases it does not work for some reason. If you know the reason why it does not work sometimes, write in the comments, thank you!"
     channel_title "ClickTapPlay"
     channel_id "UCkmZGtiZAwk8NtQqB3OjhUw"
     fav_count 0
@@ -831,7 +831,7 @@ graph [
     step 0
     date "2021-06-27T22:05:23Z"
     title "Warrior Cats Character Theme Songs"
-    description "[PART 2 IS OUT!!!!] HELLOOOOOOO! 5 likes for part 2!!!! Pls sub! (It's free and it really really helps!) Happy summer everybody!"
+    description "[PART 2 IS OUT!!!!]&#10;&#10;HELLOOOOOOO!&#10;&#10;5 likes for part 2!!!!&#10;Pls sub! (It's free and it really really helps!) &#10;Happy summer everybody! I hope you have a great summer vacation! :D&#10;&#10;iNsPiRaTiOnAl qUoTe oF tHe dAy: &#34;Believe you can and you're halfway there&#34; - Theodore Roosevelt&#10;&#10;Disclaimer: I DO NOT CLAIM ANY OF THE ART OR MUSIC IN THIS VIDEO AS MY OWN!! All the respectful artists were put in the video."
     channel_title "Mxffin"
     channel_id "UC8RhiENRc1t0yyN6LlkwE1A"
     fav_count 0
@@ -846,7 +846,7 @@ graph [
     step 0
     date "2022-06-29T17:00:35Z"
     title "How to name your Warrior Cats OC"
-    description "There are thousands of possible names for a Warrior Cats OC. How do you decide on the right one? This video serves to give ..."
+    description "There are thousands of possible names for a Warrior Cats OC. How do you decide on the right one?&#10;This video serves to give some tips! This mainly serves as general guidance rather than a strict set of guidelines, so feel free to follow or don't follow my advice as you feel fit.&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -861,7 +861,7 @@ graph [
     step 0
     date "2021-11-16T15:42:27Z"
     title "Warrior Cat Ultimate Edition // Tiktok Compilation // Pt.1"
-    description "This is the first video I have uploaded to my channel. I hope you enjoy it! I hope you have a good day and enjoy the video."
+    description "This is the first video I have uploaded to my channel. I hope you enjoy it! &#10;I hope you have a good day and enjoy the video. &#10;Love you all!"
     channel_title "Foxoryx"
     channel_id "UCG59dVRmdJXU02_94nsaoVQ"
     fav_count 0
@@ -876,7 +876,7 @@ graph [
     step 0
     date "2022-03-22T12:00:22Z"
     title "Springtime in ThunderClan || Warrior Cats: Ultimate Edition"
-    description "This video includes the spring update and me making weird noises a lot. - Music &#34;Silver Blue Light&#34; Kevin MacLeod ..."
+    description "This video includes the spring update and me making weird noises a lot.&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Silver Blue Light&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -891,7 +891,7 @@ graph [
     step 0
     date "2022-06-28T23:46:48Z"
     title "Warrior cat ultimate edition lions!"
-    description "Hello! Thank you all for watching the video, sorry for the bad quality btw. I had to be quick since the severe aren't up for long, that's ..."
+    description "Hello! Thank you all for watching the video, sorry for the bad quality btw. I had to be quick since the severe aren&#8217;t up for long, that&#8217;s why I also didn&#8217;t have time to make an actual good skin. But I really enjoyed this! &#10;&#10;Currently it&#8217;s 2am, I&#8217;ve been up filming and editing. :,D&#10;&#10;&#10;Insta: fursio_uwu"
     channel_title "Trez"
     channel_id "UCJOSr39yRYfH4qQBWL6xwcQ"
     fav_count 0
@@ -906,7 +906,7 @@ graph [
     step 0
     date "2022-06-18T23:00:10Z"
     title "Warrior Cats Memes (Compilation #5)"
-    description "THIS VIDEO IS PARTICULARLY BLOCKED IN SOME COUNTRIES. ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME ..."
+    description "THIS VIDEO IS PARTICULARLY BLOCKED IN SOME COUNTRIES. &#10;______________________________________&#10;&#10;ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME IN ANY WAY WHATSOEVER. FULL CREDIT TO RIGHTFUL ARTISTS AND ANIMATORS. THIS VIDEO IS MEANT FOR ENTERTAINMENT PURPOSES. &#10;&#10;______________________________________&#10;&#10;ANIMATORS: (NOT IN ORDER)&#10;&#10;&#12539; Artblock Studio &#10;&#12539; AxePrincessx &#10;&#12539; eggition&#10;&#12539; Nomedi&#10;&#12539; Tidestrider&#10;&#12539; bleachwaffle&#10;&#12539; EGGPRIEST&#10;&#12539; Teknyk &#10;&#12539; CrystalColors&#10;&#12539; Warrior Cats Fandub&#10;&#12539; Linky Mew&#10;&#12539; Honeyveins&#10;&#12539; Klarikatt&#10;&#12539; Northflowo&#10;&#12539; Cosmic Strawberry&#10;&#12539; Mama Tad&#10;&#12539; LunaRainbow152&#10;&#12539; ICEBUNN&#10;&#12539; Vampiz&#10;______________________________________&#10;&#10;Part 1: https://youtu.be/7PctmCRN2MQ&#10;&#10;(Part 1 is unlisted but probably wont be put back to public due to copyright reasons.) &#10;&#10;Part 2: https://youtu.be/OTeoOhH-OxE&#10;&#10;Part 3: https://youtu.be/UYiVtcena3c&#10;&#10;Part 4: https://youtu.be/dlreSdZkA-I&#10;______________________________________&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
     channel_title "FuZe Blitz"
     channel_id "UCb2YYmsB-qJMBaIJzE0DD2w"
     fav_count 0
@@ -921,7 +921,7 @@ graph [
     step 0
     date "2022-06-17T07:27:58Z"
     title "Warrior Cat memes I like[READ DESC]"
-    description "Comment down below what one u liked!&#10084;&#65039; Here r the creators!: These briad shoulders do lie: Honeyveins(0:08) Siblings: ..."
+    description "Comment down below what one u liked!&#10084;&#65039;&#10;Here r the creators!: These briad shoulders do lie: Honeyveins(0:08)&#10;&#10;Siblings: Northflowo(0:19)&#10;&#10;Did you wash the dishers?: Owlspark(1:03)&#10;&#10;Warriors Cats Vine MAP part: voideitii(1:10)&#10;&#10;Sandpaw In a nutshell: GEKKOZILLA(9:43)&#10;&#10;Warrior Cats - Rising Storm: druid&#8217;s hollow(1:17)&#10;&#10;Snowfur I a smooth criminal: GinjaNinjaOwO(1:37)&#10;&#10;Funniest Warrior Cat animations: iMamma Tad and Moonkitti&#10;&#10;Warrior Cats Memes(Compilation #2): bleachwaffle&#10;&#10;Warrior Cats Memes(Compilation #2): itzdabouf&#10;&#10;Warrior Cats Memes(Compilation #2): Artblock Studio&#10;&#10;Warrior Cats Memes(Compilation #2): Klarikatt&#10;&#10;Warrior Cats Memes(Compilation #2): CloudSplicer&#10;&#10;Warrior Cats Memes(Compilation #2): Cold Rising&#10;&#10;Warrior Cats Memes(Compilation #2): Sagutoyas&#10;&#10;Warrior Cats Memes(Compilation #2): babygourd&#10;&#10;Warrior Cats Memes(Compilation #2): sad machine&#10;&#10;Warrior Cats Memes(Compilation #2): raywind&#10;&#10;Warrior Cats Memes(Compilation #2): Northflowo&#10;&#10;Warrior Cats Memes(Compilation #2): Blaze Animates&#10;&#10;Warrior Cats Memes(Compilation #2): Jersokoi&#10;&#10;Warrior Cats Memes(Compilation #2): Dragonfox Art&#10;&#10;Warrior Cats Memes(Compilation #2): Chadisms&#10;&#10;Warrior Cats Memes(Compilation #2): Space Sheep&#10;&#10;Warrior Cats Memes(Compilation #2): Ignis Felis&#10;&#10;Warrior Cats Memes(Compilation #2): Person who made it: FuZe Blitz&#10;&#10;The FUNNIEST Warrior cat memes &#127806; That made Tigerclaw impressed &#127806; (CLEAN): Person who made it: ShallowStep&#10;&#10;Funniest Warrior Vat animations made by: Rave Cats&#10;&#10;&#10024;Go check them out!&#10024;"
     channel_title "Glory Sunny"
     channel_id "UCNVDkgolIqck_shXcIBcoFw"
     fav_count 0
@@ -936,7 +936,7 @@ graph [
     step 0
     date "2022-02-21T20:06:56Z"
     title "Top 10 most evil Warrior cats."
-    description "I hope you enjoyed it! Those pictures and the song are not mine. song: https://www.youtube.com/watch?v=LBDHGxWcXyw Artists: ..."
+    description "I hope you enjoyed it!&#10;Those pictures and the song are not mine.&#10;&#10;song: https://www.youtube.com/watch?v=LBDHGxWcXyw&#10; &#10;&#10;Artists: &#10;https://www.quotev.com/story/10905731/Warrior-Cats-RapsSongs-Lyrics/2&#10;&#10;https://cz.pinterest.com/pin/337136722106875017/&#10;&#10;https://www.furaffinity.net/view/36041202/&#10;&#10;https://www.deviantart.com/nizumifangs/art/Clawface-819727316&#10;&#10;https://cz.pinterest.com/pin/801570433650497124/&#10;&#10;https://aminoapps.com/c/warriors/page/blog/spottedleafs-death-win-a-shout-out/dDjz_G2ubuLG6WRLdg4bD6N0WDml7ppmkn&#10;&#10;https://blogclan.katecary.co.uk/2021/06/10/was-hawkfrost-deserving-of-the-dark-forest-by-crowfrost/&#10;&#10;https://www.facebook.com/warriorshub/photos/brambleclaw-felt-the-ground-dip-beneath-his-paws-he-couldnt-grasp-the-details-on/2185725734870878/&#10;&#10;https://www.deviantart.com/liracal/art/Warriors-Hollyleaf-s-Death-Speedpaint-471168535&#10;&#10;https://warriordesigns-tennelleflowers.tumblr.com/post/633596646098419712/sol-ex-kittypetex-skyclanrogue&#10;&#10;https://blogclan.katecary.co.uk/2020/05/07/the-worst-thing-about-warriors-by-night-tail/comment-page-1/&#10;&#10;https://furbooru.org/images/24306&#10;&#10;https://www.artpal.com/MichikaYamamoto?i=90035-1&#10;&#10;https://cz.pinterest.com/pin/228628118569583876/&#10;&#10;https://cz.pinterest.com/pin/859132066387647792/&#10;&#10;https://www.deviantart.com/kuroi-hitsuji/art/Warrior-Cats-038-Bone-675051122&#10;&#10;https://www.deviantart.com/fiamesong/art/Whitestorm-s-death-458961262&#10;&#10;https://www.deviantart.com/abigailuzumaki04/art/Bone-warriors-cats-677406275&#10;&#10;https://www.pngitem.com/middle/hmRwxRi_warrior-cats-thistleclaw-fanart-hd-png-download/&#10;&#10;https://www.pngitem.com/middle/hmRwxRi_warrior-cats-thistleclaw-fanart-hd-png-download/&#10;&#10;https://www.quotev.com/story/9333896/Warrior-Cat-Rants/12&#10;&#10;&#10;https://aminoapps.com/c/warriors/page/blog/prideclan-analysis-darkstripe/EJvz_jnFPuxJ73bgdKxGYLKN55wan0xN5V&#10;&#10;https://aminoapps.com/c/warriorscatamino/page/blog/eat-these-berries-sorrelkit/mD6X_pWfku6ezMK0zVePZ7jm16lWbMomW&#10;&#10;https://www.deviantart.com/wildmelo/art/Darkstripe-and-Sorrelkit-532849230&#10;&#10;https://blogclan.katecary.co.uk/2016/10/15/brokenstar-how-evil-is-he-really-by-starstripe/&#10;&#10;https://quotesgram.com/warrior-cats-yellowfang-quotes/&#10;&#10;https://blogclan.katecary.co.uk/2021/03/24/my-thoughts-on-brokenstar-why-he-needs-a-novella-to-explain-some-things-by-jinx/&#10;&#10;https://pl.pinterest.com/pin/818740407246054094/"
     channel_title "Whitefur"
     channel_id "UCDpBM0tXZu0m3UwsPDHL5yg"
     fav_count 0
@@ -951,7 +951,7 @@ graph [
     step 0
     date "2022-01-05T03:39:00Z"
     title "Warrior cats: ultimate edition! Tiktok comp  (desc)"
-    description "Credits to all the creators! Check them all out give them love and support! Hope your having a nice life, and or day/night. Byee!"
+    description "Credits to all the creators!&#10;Check them all out give them love and support!&#10;Hope your having a nice life, and or day/night.&#10;Byee!"
     channel_title "cherzop"
     channel_id "UCPorb2wIsiZHLOzsREvyyAQ"
     fav_count 0
@@ -966,7 +966,7 @@ graph [
     step 0
     date "2018-11-24T14:00:02Z"
     title "Warrior Cats IMPOSSIBLE Quiz"
-    description "It's time to test your Warriors knowledge, and find out if you are a true fan! The cat art in this video was made by the lovely Missy ..."
+    description "It's time to test your Warriors knowledge, and find out if you are a true fan!&#10;&#10;The cat art in this video was made by the lovely Missy Dakota!&#10;You can support her on Patreon here: https://www.patreon.com/MissyDakota&#10;You can watch her on DeviantArt here: https://www.deviantart.com/missydakota&#10;&#10;Intro was made by Lapis Feder"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -981,7 +981,7 @@ graph [
     step 0
     date "2022-05-14T17:00:17Z"
     title "Gender In Warrior Cats &#8211; Sunny&#38;#39;s Spiel | Warriors Analysis"
-    description "This is a long video, but one I needed to make and have known I would need to make for over a year now. It has been months in ..."
+    description "This is a long video, but one I needed to make and have known I would need to make for over a year now. It has been months in the making, and I don&#8217;t think there&#8217;s much I could say in this description to properly summarize it. I just ask that you watch carefully, don&#8217;t jump to conclusions, and play nicely in the comments. Any blatantly sexist comments will be deleted, and harassment of anyone is never something I will condone. Thank you for watching.&#10;&#10;Twitter: https://twitter.com/Sunnyfall_RC &#10;Paws of Stars Fanfiction: https://archiveofourown.org/series/1851976  &#10;Contact Email: sunnyfall99@gmail.com &#10;Discord Server: https://discord.gg/JKphkRvVXc &#10;&#10;Trip Through Time: https://youtube.com/playlist?list=PLp4G-2Wwr2Ge55OYfZfrnEw3zJ4U3I-JX &#10;Frecklewish Website Article: https://warriorcats.com/content/article/does-frecklewish-really-belong-in-the-dark-forest &#10;Kirikerise Frecklewish Video: https://youtu.be/yRPFlEELLXU &#10;Moonkitti Frecklewish Video: https://youtu.be/eKpDFm0S6C4 &#10;Bright Guardian Akira Frecklewish Video: https://youtu.be/gBoDu1WSXp8 &#10;The Prophecies Begin Video: https://youtu.be/nTX4FefadLk &#10;Thrushpelt Video: https://youtu.be/fMbg0gmvtRY &#10;&#10;Thank you to DuplexBeGreat and Lightflame for compiling many of the linecounts and wordcounts that I used to create my statistics.&#10;&#10;End Card Song: Ponte de Abril &#8211; Steve Adams https://www.youtube.com/watch?v=BffWNLKg5zY &#10;&#10;Chapters:&#10;0:00 Introduction&#10;3:38 Presence in the Books&#10;15:10 Roles and Characterization&#10;19:45 Antagonists&#10;22:48 Leadership Roles&#10;26:14 Mates and Kits&#10;40:41 Comparison With Toms&#10;52:47 The Two Problem Arcs&#10;58:01 Parallel Situations&#10;1:05:01 Hurting Toms Too&#10;1:08:51 The Contrary Example&#10;1:11:17 Moving Forward&#10;1:17:34 End Card"
     channel_title "Sunnyfall"
     channel_id "UC0GAsRRwRZzr5liQ-gKl_ng"
     fav_count 0
@@ -996,7 +996,7 @@ graph [
     step 0
     date "2021-02-17T16:00:15Z"
     title "LET&#38;#39;S GO - Rustpaw WARRIOR CATS AU MAP EP.1 - COMPLETE"
-    description "AAAAAAAAAAAA This MAP finally DONE!! THIS IS MY FIRST WARRIOR CATS MAP! I'm so proud of all the artists and thumbnails ..."
+    description "AAAAAAAAAAAA This MAP finally DONE!!&#10;THIS IS MY FIRST WARRIOR CATS MAP!&#10;I'm so proud of all the artists and thumbnails,and big thanks to Icecyclone, who hosted the map with me, and thanks to my friends, they gives me a lot of help too! everything was worth it and I'm proud of it.&#10;Check out lcecyclone's channel!&#10;https://youtube.com/c/Icecyclone20149&#10;&#10;ABOUT THIS AU(In this MAP)-&#10;The prophecy &#34;Fire alone will save our clan.&#34; doesn't exist this is au. Bluestar recruited rusty just to increase the number of Thunderclan's warriors, not because he is the &#34;fire&#34;.&#10;In the duel, Rusty lost to Longtail, so he run away, which made his encounter with Brokenstar later and joined ShadowClan instead.&#10;Rusty is also the one that drives Yellowfang out and blinds her, and Rusty helps Clawface to steal,and Spottedleaf survives this time.&#10;&#10;&#34;About the AU&#34; parts: It will be kept as a secret until the plot is revealed,feel free to make theories with the hints shown, it all will be explained in future maps!&#10;&#10;Thumbnail winner - @Otta Lits &#10;Thumbnail speedpaint&#10;https://youtu.be/o1KnvXanNtA&#10;&#10;So many thumbnails,there are 133!&#10;And everyone draws so well,Thanks u all !!&#10;The winner is decided by voting, because there is so many excellent,I can&#8217;t choose just one. &#10;&#10;INTRO A-Pigeocore&#10;INTRO B-SKVERNC&#10;PART 1-Cr. al. cs + Linn Lacrimosa&#10;PART 2-Goldenwing + Maltose Cat&#10;PART 3-Zelarhie&#10;PART 4-Chocobir&#10;PART 5-OTTA LITS&#10;PART 6-DatSpeedyTurtle&#10;PART 7-powderseas&#10;PART 8-Marinin&#10;PART 9-Jomadis&#10;PART 10-NIBIRU&#10;PART 11-Arty Aardvark&#10;PART 12-ThisCatIsOnFire + elriq&#10;PART 13-ThatApollosCat&#10;PART 14-Tumbling Darkling&#10;PART 15-Ray-lin&#10;PART 16-GildedPhD&#10;PART 17-Annywu + Renjirra&#10;PART 18-Creepsta Fine&#10;&#10;OUTRO 1-FrraustByte&#10;OUTRO 2-Demi M0n&#10;OUTRO 3-icecyclone&#10;OUTRO 4-Renjirra + Blue Dragon&#10;OUTRO 5-equalthing&#10;&#10;ART 1 Longtail-FISHSOCKS&#10;ART 2 Bluestar-crowla&#10;ART 3 Spottedleaf-Qitsunebi&#10;ART 4 Yellowfang-Linn Lacrimosa&#10;ART 5 Brockenstar-Demi M0n&#10;&#10;About AU-&#10;PART 1-Phantomsylveon&#10;PART 2-CL0UD 324&#10;PART 3-CL0UD 324&#10;PART 4-OTTA LITS&#10;PART 5-FallenEcho&#10;PART 6-Gecko Draws&#10;PART 7-Osinka&#10;PART 8-Osinka&#10;PART 9-Canarysong&#10;PART 10-FlarinaFairy&#10;PART 11-GiingerSnaps&#10;PART 12-BRandy&#10;PART 13-SplashDreamms&#10;PART 14-SKVERNC&#10;PART 15-Deer Drops&#10;PART 16-FallenEcho&#10;&#10;Vines-&#10;Tumbling Darkling(Two vines) &#10;Ray-lin&#10;DatSpeedyTurtle&#10;NIBIRU&#10;OTTA LITS(Two vines)&#10;Blue Dragon&#10;Ninnoibat&#10;Zelarhie&#10;&#10;I'm very happy that every backups has participated in the map,this will be an absolute legendary achievement!!&#10;&#10;Parts playlist-&#10;https://www.youtube.com/playlist?list=PLj97TgvMlF2yiMAXwHWe15-2BUa62QfSL&#10;&#10;Song-&#10;https://youtu.be/52Gg9CqhbP8&#10;Outro Song-&#10;https://youtu.be/yHD2y0Zz11c&#10;&#10;MALTOSE DISCORD SERVER FOR FANS AND FIRENDS https://discord.gg/6uwFvJNp6d&#8203;&#8203;&#8203;&#10;&#10;Wooo!! Thanks for my patreon supporters!! This is mean alot for me&#9825;^^ &#8595;&#8595;&#8595;&#10;Vilwez&#10;&#9671;matchabitz &#10;&#10;Support my work-&#10;Patreon: https://www.patreon.com/maltosecat?fan_landing=true&#10;&#10;You Can Find Maltose Cat!&#8595;&#8595;&#8595;&#10;IG&#10;https://www.instagram.com/maltose_cat/&#10;Twitter&#10;https://twitter.com/MaLt_0sE?s=03"
     channel_title "&#33469;&#31958;Maltose"
     channel_id "UCEZsBL07QuqjqgWmxcTjlgw"
     fav_count 0
@@ -1011,7 +1011,7 @@ graph [
     step 0
     date "2020-05-11T15:30:02Z"
     title "Warrior Cats Described by Someone who Didn&#38;#39;t Read the Books"
-    description "go tell Arti they did a good job: https://twitter.com/Articerile and theank them for saving my butt this week."
+    description "go tell Arti they did a good job: https://twitter.com/Articerile  and theank them for saving my butt this week"
     channel_title "Moonkitti"
     channel_id "UCfn--_mAGkhYWP2NYa2NBwg"
     fav_count 0
@@ -1026,7 +1026,7 @@ graph [
     step 0
     date "2022-02-20T16:00:33Z"
     title "ENEMY // Evil Alderclaw (Alderheart) AU // Warriors cats PMV"
-    description "One of my most important projects is finally here! I hope you enjoy it :) More about AU: ..."
+    description "One of my most important projects is finally here! I hope you enjoy it :)&#10;&#10;&#10;&#10;&#10;More about AU: &#10;&#10;https://docs.google.com/document/d/12vVY6GQVvf3eaWEgWVUh3e652r1dgDl7KJutFNjuxJ4/edit?usp=drivesdk&#10;&#10;&#10;&#10;&#1041;&#1086;&#1083;&#1100;&#1096;&#1077; &#1087;&#1088;&#1086; &#1040;&#1042;:&#10;&#10;https://docs.google.com/document/d/1ShqL3Y__nMXwpaje4QrHXwqI8ew-D6yd5jIs0Dc6SjU/edit?usp=drivesdk&#10;&#10;&#10;&#10;Used original characters that belong to (&#1048;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1083;&#1080;&#1089;&#1100; &#1086;&#1088;&#1080;&#1075;&#1080;&#1085;&#1072;&#1083;&#1100;&#1085;&#1099;&#1077; &#1087;&#1077;&#1088;&#1089;&#1086;&#1085;&#1072;&#1078;&#1080;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1087;&#1088;&#1080;&#1085;&#1072;&#1076;&#1083;&#1077;&#1078;&#1072;&#1090;):&#10;&#10;Kenshi_qwq (01:06) - https://youtube.com/channel/UCuk8LxkVFGhew213eKjB1Ng&#10;&#10;&#160;&#1057;&#1086;&#1085;&#1085;&#1072;&#1103; &#1089;&#1084;&#1077;&#1090;&#1072;&#1085;&#1072; (1:48) - https://youtube.com/channel/UC-ccDMjhRhHrl9ampFnrFbQ&#10;&#10;Mimicatz (2:03) - https://youtube.com/channel/UCLVy9pd-MFRjrQtVzTDFr1w&#10;&#10;&#10;&#10;&#10;Music - https://youtu.be/D9G1VOjN_84&#10;&#10;Main OC's designs - https://youtu.be/0TJb4ab7KJg&#10;&#10;My second channel - https://youtube.com/channel/UCAyppwHz7OI0JkurSYDITBQ&#10;&#10;Insta - https://instagram.com/borshchik08?utm_medium=copy_link2"
     channel_title "&#352;tr&#261;Wbe&#345;&#345;&#253;_B&#248;rshch&#305;&#311;"
     channel_id "UCUHQGn9w8lccq1mi7yu46XA"
     fav_count 0
@@ -1041,7 +1041,7 @@ graph [
     step 0
     date "2022-02-13T20:00:11Z"
     title "TRAVELER-FEATHER [Complete Jayfeather time travel themed weekend Warrior&#38;#39;s MAP]"
-    description "Traveler-Feather is about the never ending time loop of pain and revenge that Jayfeather and Fallenleaves are trapped in until ..."
+    description "Traveler-Feather is about the never ending time loop of pain and revenge that Jayfeather and Fallenleaves are trapped in until one of them finally decides to make a change. In this AU, Fallenleaves lives in modern day thunderclan and it's Fallenleaves who falls through the ice!&#10;&#10;The mystery of the tunnels, Fallen leaves, Rock, and time travel have always been my favorite subplot of warrior cats. But despite all it's potential to be an interesting and compelling story, I've always felt let down by the direction that canon Warriors took. So I've been messing around with these story elements and trying to piece together some narrative I felt would meet that potential. Song choice after song choice, plot theme after plot theme, script after script... nothing seem to hit right until 3 years later... I finally came up with Traveler-Feather!&#10;&#10;&#10;SONG: Skeleton Song by Kate Nash &#10;END CREDITS SONG: Windmills of Your Mind by Dusty Springfield&#10;MAP part playlist: https://www.youtube.com/playlist?list=PLbSyL5k7nLJhI2S6YXiKkk7i25mhH3-LT&#10;&#10;ORGINAL SCRIPT: https://docs.google.com/document/d/17GIUVjtNCItOzfQABJYpbhMkj-ScO0hbbj2_viIb1pU/edit?usp=sharing&#10;STORYBOARD: https://www.youtube.com/watch?v=Pm2j_G-PbK8&#10;Thumbnail entries:  https://docs.google.com/document/d/1wDLDzAbXmmTXgZWhGwkHptcL9fCJ6LK7SE72Su3o_K0/edit?usp=sharing&#10;&#10;--PARTICIPANTS--&#10;intro: Kittlet&#10;1: Sundyr + Bregottski&#10;2: Mochi Kohai + CheetehZ + OFUKITTY + SmellyTrashRat&#10;3: senswii + Cante Skuya&#10;4: Yeshika&#10;5: IvyBall + Coffeely&#10;6:  DirtyNoodles&#10;7: LenisLynx&#10;8: Cameron Collar&#10;9: ScooterScones&#10;10: Dave + Tad + Riin&#10;11:SolarSparky&#10;12: Treeetooop&#10;13: Sagutoyas&#10;14: Shelly Key&#10;15: LockandKeyHyena&#10;16: EphemeralMoth + giingersnaps&#10;17: Autumn Lynx &#10;18: Koheina&#10;19: Pandaa + CheetehZ + KuroFennek&#10;20a: peacat&#10;20b: Nettlefang&#10;21a: Nuube&#10;21b: Owlipoppen + Sparroet + Giingersnaps + OFUKITTY &#10;22: kirikerise&#10;23: CustradCrev&#10;24: Kalublah Art&#10;25: Bregottski&#10;26: relli&#10;27: TurnipStewdios&#10;28: mobiusghost&#10;29: Rookruff&#10;30: Lucidcolors&#10;31: ThatOnePerson &#10;32: Rotriestre&#10;33: draivysand&#10;34: pokefan1241&#10;35: Riin&#10;36: Luyeshin + Ironyche&#10;37a: CheetehZ + Sparroet&#10;37b: CheetehZ + Loporidae + teekonu + darkpurplx + OFUKITTY&#10;38: CheetehZ + Loporidae + SmellyTrashRat&#10;39: Sparroet&#10;40: teekonu &#10;41: GiingerSnaps&#10;42: Galaxy Mew&#10;43: Aspen Shadow&#10;44: chadisms + cante skuya + OFUKITTY&#10;45: cinnabarlab&#10;46: Thunder Streak&#10;47: mossysprout + peacat&#10;48: darkpurplx&#10;49a: Shenkkazoo&#10;49b: Roseshards&#10;50: melowon_Z&#10;51: aridarchen&#10;52: Luyeshin + Dave + CheetehZ + raevei&#10;53: rexasawrus&#10;54: kratertot + Ashuribbon&#10;55: Sqwid + CheetehZ&#10;56: MuneAJ&#10;57: outsock + Cante Skuya + Ashuribbon&#10;58: HJ7 + sparroet&#10;59: HYP3R-CHARG3D + Loporidae&#10;60: roseshards&#10;61: roseshards&#10;62: CheekyTiger&#10;63: Felitt&#10;64: Nettlefang&#10;65: CheetehZ + rookruff + sparroet&#10;66: MANCHKIN!&#10;67: Kiki Chaos &#10;68: Eqqnoq + SolarSparky + CheetehZ&#10;69: LunarTempest + FISHSOCKS +cerkowah + Erm + Sparroet&#10;70: Sear + Galaxymew + Bolitamurcielago&#10;Finale: Loporidae + Sunbird&#10;&#10;c1: Jaytail&#10;c2: Giingersnaps&#10;c3: sparroet&#10;c4: Vyrite&#10;c5: Peacat&#10;c6: elqato&#10;c7: Relli&#10;c8: HYP3R-CHARG3D&#10;c9: ThatOnePerson&#10;c10: Ashuribbon&#10;c11: CheetehZ&#10;c12: SmellyTrashRat&#10;c13: Pigeocore + CheetehZ &#10;&#10;Traveler-feather &#34;Look, it's a bear!&#34;: Sqwid + CheetehZ&#10;&#10;Thumbnail winner: illbringyoudown&#10;&#10;___&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Cheeteh Z"
     channel_id "UC_UNiqVULw1l7m5q9Z43o1A"
     fav_count 0
@@ -1071,7 +1071,7 @@ graph [
     step 0
     date "2022-04-03T19:15:09Z"
     title "HAWKSTORM [Complete Hawkfrost mid-western gothic themed weekend Warrior&#38;#39;s MAP]"
-    description "CW: this MAP contains graphic imagery of animal death and tornadoes Make sure to join the Mini-MAPathon! Hawkstorm is one of ..."
+    description "CW: this MAP contains graphic imagery of animal death and tornadoes&#10;Make sure to join the Mini-MAPathon! Hawkstorm is one of two country midwestern MAPs premiereing tomorrow https://www.youtube.com/playlist?list=PLbSyL5k7nLJgvD_dIWfTlsXB1__9kVQfy&#10;&#10;This MAP is about Hawkstorm's inability to cope with the guilt and blame of Tadpole's death. Hawkstorm was born in thunderclan as Tawnykit alongside his siblings Bramblekit and Tadpolekit (Tadpole for short!). But on one unfortunate day, Tawnykit and his siblings stray from home and play inside an old, abandoned barn in the midst of a Tornado. Fireheart manages to catch up to the kits but he's too late. The barn collapses on Tadpole and Fireheart has to stop Tawnykit's attempts to rescue Tadpole to avoid losing him to the rubble too. On their way back to Thunderclan, Tawnykit can't let go of the feeling that if Fireheart hadn't stopped him, he could've saved Tadpole. Unable to cope with the weight of guilt and blame, Tawnykit runs off never to return back home but he'll never be able to run away from the haunting figure that manifests these feelings.&#10;&#10;Tawnykit renames himself Hawkstorm and takes on the &#34;storm&#34; suffix as a way to symbolize how he will never be able to forget the storm he lost Tadpole to.&#10;&#10;Years later, Hawkstorm tries to rekindle his relationship with his estranged brother Brambleclaw, but their relationship is strained because of Brambleclaw's loyalty to Firestar. When another tornado strikes Thunderclan, Firestar gets caught in a fox trap. Hawkstorm is led to Firestar by the haunting figure and he's given a chance to rescue Firestar just like Fireheart rescued Tawnykit all those years ago. &#10;&#10;&#10;SONG: God's Whisper by Raury&#10;END CREDITS SONG: Levithan by Raury&#10;MAP part playlist: https://www.youtube.com/playlist?list=PLbSyL5k7nLJit2goPFRckiMOwHnl3rF5d&#10;&#10;ORGINAL SCRIPT: https://docs.google.com/document/d/15FF9w3H-luOeV7ZzjPa4qcxiBdqYf0YbvlbNAc5Qe0w/edit&#10;STORYBOARD: https://www.youtube.com/watch?v=IsMnovyuoDg&#38;t&#10;Thumbnail entries: https://docs.google.com/document/d/1DSi4nlidGzPJZybMEF4E2Yy5pQc0kcZeaed_QQnb54w/edit?usp=sharing&#10;&#10;--PARTICIPANTS--&#10;Intro: Sundyr + LUNARTEMPEST&#10;1: Cold Rising&#10;2: Osinka&#10;3: Loporidae&#10;4: Sqwid + CheetehZ&#10;5: Fude&#10;6: Shenkkazoo&#10;7: OFUKITTY + SmellyTrashRat + DaveThyQueen + Ashuribbon + Sparroet&#10;8: Pandaa + CheetehZ&#10;9: Dirtynoodles&#10;10: ScooterScones&#10;11: DragonwolfRooke + Rookruff + mobiusghost + fungus&#10;12: Aspen Shadow&#10;13: Riin + Rookruff + Cameron Collar &#10;14: TheWisetDino + Mudshadow&#10;15: chadisms&#10;16: bread cat&#10;17: Sunbird + phoenix-feathered + aethalcyon + raven's corvax&#10;18: QuirKrash&#10;19: Amelia B&#10;20: Jaytail + DuskF&#10;21: Koheina + Olfmyst + OFUKITTY&#10;22: peacat + mossysprout + Bregottski + draivysand&#10;23: Bregottski + Galaxymew&#10;24: darkpurplx&#10;25: melowon_z + LadyCallow&#10;26: DaveThyQueen + Riin&#10;27: Eqqnoq + Owlipoppen + SolarSparky&#10;28: POKITUU&#10;29: druid's hollow&#10;30: Sparroet&#10;31: Bolitamurcielago + Sparroet&#10;32: Treeetooop&#10;33: Cheezballs + mobiusghost&#10;34: HJ7 + dreamtdog&#10;35: rexasawrus&#10;36: Sagutoyas&#10;37: GiingerSnaps&#10;38: Cante Skuya&#10;39: Nettlefang&#10;40: Nettlefang&#10;41: SirKupo + Jay Grimalkind&#10;42: voideitii&#10;43: Luyeshin + Ray N&#233;e&#10;44: Cameron Collar&#10;45: Kelpie Calamity + Sparroet&#10;46: Chikki + HJ7 + icteridcorvid&#10;Finale: Coffeely&#10;&#10;c0: Mishi&#10;&#10;c1: dreamtdog&#10;c2: Mishi + Erm&#10;c3: Cameron C &#10;c4: Turnip&#10;c5:  Grimalkind&#10;c6: Ashuribbon&#10;c7: Galaxymew + sparroet&#10;c8: Mayartimations&#10;c9:  Shummy&#10;c10: Batkittii&#10;c11:  steadie&#10;c12: laerin + cinnabarlab + LenisLynx&#10;c13: kirikerise + Pigeocore&#10;c14: Teekonu&#10;c15: senswii&#10;&#10;&#10;Thumbnail winner: Milkfake&#10;&#10;___&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Cheeteh Z"
     channel_id "UC_UNiqVULw1l7m5q9Z43o1A"
     fav_count 0
@@ -1086,7 +1086,7 @@ graph [
     step 0
     date "2021-10-06T10:39:27Z"
     title "Warrior cats tik toks &#128151; 30 min &#128151;"
-    description "Here is the 30 min video I was really lazy while doing this so the audios might be kinda messed up. Just forgive me this ONE ..."
+    description "Here is the 30 min video &#128554;&#10;I was really lazy while doing this so the audios might be kinda messed up. Just forgive me this ONE time and then if im being lazy again no forgiving me. I hope you enjoyed still! I hope you are having a wonderfull day and stay safe. &#128153;&#128149;"
     channel_title "ZeeNee"
     channel_id "UCiRC2LvqiRkl2bT874r_BGw"
     fav_count 0
@@ -1101,7 +1101,7 @@ graph [
     step 0
     date "2021-03-18T16:00:39Z"
     title "Warrior Cats in Different Fandoms"
-    description "In this challenge, you all drew Warrior Cats in fandoms that you chose! Talk sprites by Kyian: https://linktr.ee/kyian003 Warriors ..."
+    description "In this challenge, you all drew Warrior Cats in fandoms that you chose!&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1116,7 +1116,7 @@ graph [
     step 0
     date "2021-04-02T20:30:15Z"
     title "&#12304;&#10083; CAN&#38;#39;T STOP SINGING &#10083; &#9553; COMPLETE WARRIORS SANDSTORM &#38;amp; FIRESTAR MAP&#12305;"
-    description "Edit 3/13/2022: &#34;Sequel&#34; is out: https://youtu.be/zDPNmfbZUvg I am proud to present: Can't Stop Singing! The theme: Uh-oh!"
+    description "Edit 3/13/2022: &#34;Sequel&#34; is out: https://youtu.be/zDPNmfbZUvg&#10;&#10;I am proud to present: Can't Stop Singing!&#10;&#10;The theme: Uh-oh! Looks like Sandstorm is catching feelings for Fireheart. Fireheart is cool with the idea, but Sandstorm isn't as happy.&#10;&#10;This MAP -which stands for Multi Animator Project- was one of the most fun MAPs I've hosted! The participants really had a lot of motivation to do their parts and they came out SO SO GOOD!&#10;&#10;Thank you to everyone who submitted a thumbnail entry, applied for a part/backup, or watched the MAP from afar!&#10;&#10;Please give a special thanks to all of the thumbnail contest participants BUT give a special round of applause to melowon_Z, who won the thumbnail contest!&#10;https://www.youtube.com/channel/UCauiWZqo0AbBm2A90Nk7OVw&#10;&#10;Edit: Please go check out the artist improperly stated as &#34;blimexi_123&#34;'s youtube channel known as &#34;&#43457; Tiny Bean Boi &#43458;&#34;! &#10;&#10;Please check out all of the parts in the parts playlist: https://www.youtube.com/playlist?list=PLws7UCzDiMlxVPQeG0XGIhOM0yx8LZQMv&#10;&#10;Finally, give a warm welcome to all of the participants!&#10;&#10;Intro: @SaturnSkyez &#10;1:   @Featherflight55 OwO &#10;2: Sparkle The Cat&#10;[https://www.youtube.com/channel/UC8LhbK3vi4ZX6uQ2HqeLH_w]&#10;3: Outter_By&#10;[https://www.youtube.com/channel/UCiWfG2iK4kYXQhWo9rKd1Pw]&#10;4: Lauritonas&#10;[https://www.youtube.com/channel/UCldKdhe_MHbrdOyNouzuPxw]&#10;5: Splair&#10;[https://www.youtube.com/channel/UC4WdwvcQC58yw_cybpf1pKA]&#10;6:  @sorryslonk &#10;7: Allycat 711&#10;[https://www.youtube.com/channel/UCCiI5rmL5oydAE8r0z7XKaA]&#10;8: Skitch_Sketch :p&#10;[https://www.youtube.com/channel/UCL9gjRf88GjJ_7umU97kSrQ]&#10;9: Cotton Claw :3&#10;[https://www.youtube.com/channel/UC7H6P44a8ZM4HnbUGgVJMvg]&#10;10: madcats basement&#10;[https://www.youtube.com/channel/UCg6Xg7ByHNEW0XuEENzoORg]&#10;11: Tickinq Blechh&#10;[https://www.youtube.com/channel/UCLJ78vsF0hLwHgM4ML4IFqQ]&#10;12:  @CherryPics &#10;13: dead_laurus&#10;[https://www.youtube.com/channel/UCgTZtOwiyhRSB-FDIp6ipmw&#10;14:  lunara  V &#10;[https://www.youtube.com/channel/UCOmrRjLvGva7CVBTD4dOBag]&#10;15: Samoboo &#10;[https://www.youtube.com/channel/UCtIN3uQbdZ9l9JbQVttNJTw]&#10;&#10;Song is from Teen Beach, characters belong to Erin Hunter&#10;&#10;Designs by SaturnSkyez &#38; Mary_MS_ Jay&#10;Side characters are Cinderpelt and Mousefur&#10;&#10;&#10;---------------------------&#10;FUN STUFF&#10;&#10;I also post on...&#10;Deviantart: SaturnSkyez&#10;Instagram: Saturnskyez&#10;Cat Designs have been made for Labyrinth, Star Wars, DC, Once Upon A Time, Marvel, A Series Of Unfortunate Events, and more coming soon!!&#10;Discord Server: https://discord.gg/DKD8Ukf&#10;&#10;Thank you so much for watching!&#10;&#10;NOTE: I do not own 90% of the content shown. however I have explicit permission to post it."
     channel_title "SaturnSkyez"
     channel_id "UCT6s2biqhE9ZzAw4VSE9IEA"
     fav_count 0
@@ -1131,7 +1131,7 @@ graph [
     step 0
     date "2022-04-23T12:57:37Z"
     title "Saddest Warrior Cat Kit Deaths"
-    description "Hi, I hope you enjoyed it! These bobsleighs and music are not mine. song: https://www.youtube.com/watch?v=sh-MYtENchs ..."
+    description "Hi, I hope you enjoyed it!&#10;These bobsleighs and music are not mine.&#10;&#10;song: &#10;&#10;https://www.youtube.com/watch?v=sh-MYtENchs&#10;&#10;&#10;artists:&#10;&#10;https://velo-cats.tumblr.com/post/618567062846046208/nightkit&#10;&#10;https://www.tumbip.com/tag/nightkit&#10;&#10;https://www.deviantart.com/foxyrulz/art/Prophecy-Clantober-Day-15-858202356&#10;&#10; https://cz.pinterest.com/pin/463307880390826877/&#10;&#10;https://www.deviantart.com/thedawnmist/art/Crookedstar-s-Loss-821785486&#10;&#10;https://cz.pinterest.com/pin/781726447795324952/&#10;&#10;https://twitter.com/hashtag/HopeKit?src=hash&#10;&#10;https://www.deviantart.com/dracoonthewing/art/Pinenose-and-Happykit-620711848&#10;&#10;https://www.chickensmoothie.com/Forum/viewtopic.php?t=2705407&#10;&#10;https://www.deviantart.com/gekkodesigns/art/Patchkit-780613361&#10;&#10;https://cz.pinterest.com/pin/826903181564493347/&#10;&#10;https://www.deviantart.com/gekkozilla/art/Larchkit-784120551&#10;&#10;https://www.deviantart.com/gekkozilla/art/Petalkit-784120443&#10;&#10;https://www.tumgir.com/tag/Petalkit&#10;&#10;https://warriorcats.com/content/image/mapleshade-and-her-kits_6053947425566&#10;&#10;https://blogclan.katecary.co.uk/2017/07/02/the-true-sadness-about-badgerfang-by-kindheart/comment-page-1/&#10;&#10;https://mobile.twitter.com/hashtag/badgerfang?src=hash&#10;&#10;https://cz.pinterest.com/pin/453737731189972333/&#10;&#10;https://www.wattpad.com/amp/931213790&#10;&#10;https://blogclan.katecary.co.uk/2017/05/13/why-snowkit-would-have-been-an-awesome-character-by-nightfern/comment-page-1/&#10;&#10;https://officialwarriorcats.fandom.com/wiki/Mosskit"
     channel_title "Whitefur"
     channel_id "UCDpBM0tXZu0m3UwsPDHL5yg"
     fav_count 0
@@ -1146,7 +1146,7 @@ graph [
     step 0
     date "2021-10-06T22:39:22Z"
     title "Genetically Accurate Warrior Cats #1 - Firestar&#38;#39;s Family"
-    description "i am very low effort so dont expect anything dazzling :) not much to say that isnt said in the video! I'm doing a little passion project ..."
+    description "i am very low effort so dont expect anything dazzling :)&#10;&#10;not much to say that isnt said in the video! I'm doing a little passion project and making some genetically accurate warrior cats, but for real. I'm sure plenty have done this before me. my editing skills are also p basic so be nice lol. also dont start fighting over cat genetics if i get something wrong lmao&#10;&#10;Cats in this Video:&#10;Crystal&#10;Jake&#10;Quince, Nutmeg&#10;Scourge&#10;Ruby, Socks&#10;Firestar&#10;Princess&#10;Tommy, Filou, Luna&#10;Sandstorm&#10;Squirrelflight&#10;Leafpool&#10;&#10;Social Media:&#10;DeviantArt: https://www.deviantart.com/digimonnerdexpress&#10;Tumblr: https://alollinglaughingcat.tumblr.com/&#10;Scratch: https://scratch.mit.edu/users/LOLLING-CAT/&#10;ArchiveOfOurOwn: https://archiveofourown.org/users/LollingCat/works"
     channel_title "LollingCatto"
     channel_id "UCD5_0jDTa-gs54p4gfn9c6g"
     fav_count 0
@@ -1161,7 +1161,7 @@ graph [
     step 0
     date "2021-03-27T14:00:01Z"
     title "The Roblox Cat Experience"
-    description "The Roblox Cat Experience with a Roblox Bacon Hair Noob. ..What could possibly go wrong? Watch to find out! In this video I play ..."
+    description "The Roblox Cat Experience with a Roblox Bacon Hair Noob.&#10;..What could possibly go wrong? Watch to find out!&#10;&#10;In this video I play Warrior Cats on Roblox. I roleplay as a cat, joining clans and fighting against other people in this roblox cat simulator. I explore the forest, making friends and enemies with other roblox cats. I experience many funny moments with other people.&#10;&#10;If you enjoyed the video, make sure to like, comment, &#38; subscribe!&#10;&#9654; SUBSCRIBE! &#10140; https://bit.ly/2YNxsQh&#10;&#9654; Use Star Code: SEBEE&#10;&#10;&#127758; Support my Channel! | https://www.patreon.com/23Sebee&#10;&#10;&#9640; Join my Discord! : https://discord.gg/5xuAGdu&#10;&#9639; Follow my Twitter! | https://twitter.com/23Sebee&#10;&#9640; Follow my Twitch! | https://twitch.tv/23Sebee&#10;&#9639; Follow my TikTok! | https://www.tiktok.com/@23sebee&#10;&#9640; Join my ROBLOX  Group! | https://www.roblox.com/groups/6303746&#10;&#10;Warrior Cats: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition-BETA&#10;&#10;&#34;At The Shore&#34;, &#34;Dubakupado&#34;, &#34;Monkoto&#34;, &#34;Onion Capers&#34;, &#34;River Fire&#34;, &#34;Seven March&#34;, &#34;Tafi Maradi no voice&#34;, &#34;The Sky of our Ancestors&#34;, &#34;Townie Loop&#34;&#10;Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 3.0&#10;http://creativecommons.org/licenses/by/3.0/"
     channel_title "sebee"
     channel_id "UCZf2Anm20qVqx7cU3ZKshdQ"
     fav_count 0
@@ -1191,7 +1191,7 @@ graph [
     step 0
     date "2021-11-10T17:00:19Z"
     title "If Warrior Cats had People Food"
-    description "In this challenge, you all drew Warrior Cats eating Twoleg food! Warriors Challenge Discord: https://discord.com/invite/W53Uw6F ..."
+    description "In this challenge, you all drew Warrior Cats eating Twoleg food!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1206,7 +1206,7 @@ graph [
     step 0
     date "2012-08-13T12:08:01Z"
     title "Episode 3 part 1 - SSS Warrior cats fan animation"
-    description "Credits at the bottom!------------------ Hello everyone! Aluri here ;D TADA, IT'S FINALLY HERE! We finally got to finish episode 3 part ..."
+    description "--------------Credits at the bottom!------------------&#10;&#10;Hello everyone! Aluri here ;D&#10;&#10;TADA, IT'S FINALLY HERE! We finally got to finish episode 3 part 1!&#10;&#10;MY GOD, SO MANY MISTAKES |D *dies* I apologize for all the little mistakes, we tried out a lot of new stuff with this episode, later ones will be better ^^;&#10;This was kind of really rushed last moment. We're sooo done with this part e_e Some stuff is missing and everything but ah well, at least the project wasn't left behind, right? There was originally going to be no shading AT ALL so we did some quick shading here and there.&#10;&#10;Man, what a journey it's been. I'm so glad it's finally finished. We've all been so very busy. When I joined as colorer / inbetweener, I didn't expect Yuji would leave and I would get to direct this project with Wanton, who was also just a colorer back then. That's right, Yuji has left the project, so its just working us on it, and we're still young and go to college/highschool, so we really need to focus in real life. This is a nice hobby and all, but it takes a lot of time. Though in the end it is totally worth it. It looks amazing in the end and you are able to say &#34;Hey look, we did it guys! We made this!&#34; and it's just amazing haha.&#10;&#10;You're probably wondering where episode 3 part 2 is...&#10;It's not here yet and it won't be for a while sadly.&#10;We're taking it easy, we finally finished part 1 and we all want a little break from it. We'll slowly work on it in our own time.&#10;&#10;Part 2 is about 70% finished. A lot has to be done still soooo.&#10;Please don't ask when it'll be done. ;D We'll only give you the same response you got for episode 3.&#10;&#10;It'll be done when it's done. We have an own personal life too.&#10;&#10;-----------------------------------------------------------------------------------------------&#10;&#10;Here is a larger version of the starting note: http://a3.sphotos.ak.fbcdn.net/hphotos-ak-snc6/279931_409294249127130_1583807041_o.jpg&#10;&#10;Join the fun and check out the official SSS Warriorcats forum! http://ssswarriorcats.proboards.com&#10;&#10;Facebook:&#10;http://www.facebook.com/pages/SSS-warrior-cats-fan-animation/145310822192142&#10;&#10;Deviantartart:&#10;http://sss-warriorcats.deviantart.com&#10;&#10;-----------------------------------------------------------------------------------------------&#10;&#10;SSSWarriorcats&#10;Episode 3 part 1&#10;&#10;~CREDITS~&#10;&#10;Directed by&#10;Yuji&#10;Aluri&#10;&#10;Co-Directed by&#10;Wanton&#10;&#10;~ANIMATION~&#10;Yuji&#10;Zing&#10;Aluri&#10;Wanton&#10;&#10;~IN-BETWEENS~&#10;Yuji&#10;Zing&#10;Aluri&#10;Wanton&#10;Neko&#10;Rizusaur&#10;&#10;~COLORING~&#10;Yuji&#10;Zing&#10;Aluri&#10;Wanton&#10;Rizusaur&#10;Shiny&#10;Neko&#10;Dragonwolfrooke&#10;Pokemonlover5673 (spottedleaf)&#10;&#10;~SHADING~&#10;Aluri&#10;Wanton&#10;Rizusaur&#10;Dragonwolfrooke&#10;Neko&#10;&#10;~SPECIAL EFFECTS AND EDITS~&#10;Wanton&#10;&#10;~BACKGROUNDS~&#10;Yuji&#10;Aluri&#10;Inu&#10;HMdragon&#10;&#10;~VOICE ACTORS~&#10;GingaJinketsuKoushi as Firepaw&#10;jerrymojo as Greypaw&#10;NicolaStrifeFair as Bluestar&#10;pokemonlover5673 as Spottedleaf&#10;TheAmer117 as Ravenpaw&#10;Nick as Longtail&#10;Aluri as Mousefur&#10;Dogdig as Runningwind&#10;Kurtbatz as Darkstripe&#10;&#10;~BACKGROUND CATS VOICE ACTING~&#10;Aluri&#10;wanton&#10;Muffin&#10;Wes1234&#10;Mooncat&#10;Vixy&#10;Perpetr8r the Perpetu8r&#10;&#10;~MUSIC (In order)~&#10;DN angel - truelight (intro) (Japanese version)&#10;Naruto - The Rising Fighting Spirit&#10;World of warcraft soundtrack - battle&#10;World of warcraft soundtrack -  A call to arms&#10;Naruto - Main theme&#10;Phoenix Wright 1 - Allegro 2011&#10;World of Warcraft Soundtrack - Arthus my son&#10;&#10;&#10;~PROGRAMS USED~&#10;Adobe Flash&#10;Adobe Photoshop&#10;Adobe After effects&#10;SAI&#10;&#10;&#10;THANKS FOR WATCHING and the support and patience guys! It means a bunch to us ;)&#10;&#10;And thanks to all our friends for helping with this and giving us motivation to continue. Love you guys. Thanks to my cat for staying alive even though he was really sick, giving me the spirit and power to finish this."
     channel_title "SSS Warrior Cats"
     channel_id "UCI7G8bfrCsV9A52JQWJEpKw"
     fav_count 0
@@ -1221,7 +1221,7 @@ graph [
     step 0
     date "2020-12-23T17:00:08Z"
     title "I Burned a Graystripe Toy because I can (Warrior Cats)"
-    description "Haha Graystripe go brrr My Patreon: https://www.patreon.com/brightguardianakira My Twitter: https://twitter.com/bright_guardian ..."
+    description "Haha Graystripe go brrr&#10;&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Cat art is by Missy Dakota! &#10;Her Patreon: https://www.patreon.com/MissyDakota&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1236,7 +1236,7 @@ graph [
     step 0
     date "2017-09-03T06:21:40Z"
     title "The Prophecies Begin PMV - Warriors (Imagine Dragons)"
-    description "IT'S 2:18 AM. I've been working on this since mid July, and it's finally finished! I know everyone is using this idea, there's a ..."
+    description "IT'S 2:18 AM.&#10;&#10;I've been working on this since mid July, and it's finally finished!&#10;&#10;I know everyone is using this idea, there's a completed MAP with the song and quite a few in progress. But I've had this idea for my own version for about a year now, and I decided to finally do something about it.&#10;&#10;It's not TOTALLY PMV, because I needed to add lipsync at some parts&#10;&#10;I'm very tired, so I'll probably think of more to add to the description tomorrow&#10;&#10;Song: Warriors by Imagine Dragons&#10;&#10;Character designs belong to me, Warriors (the book series, not the song) belongs to Erin Hunter"
     channel_title "Dawnmist"
     channel_id "UCsOp9v9iPPPhcWyWFUbfN_Q"
     fav_count 0
@@ -1251,7 +1251,7 @@ graph [
     step 0
     date "2016-02-01T08:21:52Z"
     title "Dumb Ways to Die - Warrior Cats Parody *SPOILERS*"
-    description "SPOILER WARNING!!* PLEASE READ DESCRIPTION Download Link: http://bit.ly/20nDHWB ... || CREDITS|| CHORUS- ..."
+    description "*SPOILER WARNING!!*&#10;PLEASE READ DESCRIPTION&#10;&#10;Download Link: http://bit.ly/20nDHWB&#10;...&#10;&#10;|| CREDITS||&#10;&#10;CHORUS-&#10;Butterflyidentity&#10;https://www.youtube.com/user/butterflyidentity&#10;&#10;Gloryoftherainwings&#10;https://www.youtube.com/user/GloryOfTheRainWings&#10;&#10;Fausti. A&#10;https://www.youtube.com/user/GingaJinketsuKoushi&#10;&#10;Raymond Miller&#10;https://www.youtube.com/channel/UCK7H-4F1Tss-lU4HHVND6nw&#10;&#10;Art/Mixing/Vocals&#10;Blixemi!&#10;&#10;Instrumental: https://www.youtube.com/watch?v=5QV2HAYKP7E&#10;&#10;-----------&#10;&#10;LYRICS:&#10;&#10;                         &#10;Get squished by a rock  (Oakheart)&#10;Carried off by a big angry hawk (Snowkit)&#10;Chase a pheasant bird, across the path (Shrewpaw)&#10;Face Bloodclan and their terrible wrath (Tigerclaw)&#10;Dumb ways to die&#10;So many dumb ways to die&#10;Dumb ways to die &#10;So many dumb ways to die.&#10;&#10;It's cold out in the snow (Mosskit)&#10;Thrown off  the edge of the gorge (Whiteclaw)&#10;Get trapped under the ice (Flametail)&#10;Wound infections after getting rat bites (Volepaw)&#10;&#10;Dumb ways to die&#10;So many dumb ways to die&#10;Dumb ways to die &#10;So many dumb ways to die.&#10;&#10;Try to fight dogs by yourself (Swiftpaw)&#10;Flattened while tryin' to save a mouse (Longtail)&#10;Catch a cough that's green or white (many)&#10;Get struck down due to Starclan's might. (Ripplestar)&#10;&#10;Dumb ways to die&#10;So many dumb ways to die&#10;Dumb ways to die &#10;So many dumb ways to die.&#10;&#10;Attack the Sharptooth from above (Feathertail)&#10;Sacrafice yourself for true love. (Silverstream/)&#10;Washed away, taking a poo (Duskwater)&#10;I wonder, what these red berries do? (omg)&#10;&#10;Dumb ways to die&#10;So many dumb ways to die&#10;Dumb ways to die &#10;So many dumb ways to die.&#10;&#10;Stuck inside the camp during a forest fire (Yellowfang)&#10;Have your evil plot up and backfire. (Hawkfrost)&#10;Jump on a dog and then drown the a river (Bluestar)&#10;Save your friend from badgers while defending her babies (Cinderpelt)&#10;Go down in smoke in a grandeur (Firestar)&#10;They may not rhyme but they're quite possibly&#10;&#10;Dumbest ways to die&#10;Dumbest ways to die&#10;Dumbest ways to dieeeeee~&#10;So many dumb&#10;So many dumb ways to die."
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -1266,7 +1266,7 @@ graph [
     step 0
     date "2021-07-22T19:57:00Z"
     title "Blood Pop - Animation Meme (Warrior Cats)"
-    description "Flash warning! ____ I miss the Warrior Cats and I want to share with you animation meme with one of my favorite characters ..."
+    description "Flash warning!&#10;____&#10;I miss the Warrior Cats and I want to share with you animation meme with one of my favorite characters - Yellowfang. Enjoy!&#10; -------------------------------------------------------------------&#10;Character: Yellowfang;&#10;Setting: &#34;Warrior Cats&#34; by Erin Hunter.&#10;-------------------------------------------------------------------&#10;Programs used:&#10;Animation and Color - TVPaint Animation Pro 10;&#10;Background - Paint tool SAI2;&#10;Editing - Sony Vegas Pro&#10;-------------------------------------------------------------------&#13;&#10;Become a channel sponsor and you will get access to exclusive bonuses. More detailed:&#10;https://www.youtube.com/channel/UCiNBeadMD1wbeQCrba1Lhzw/join&#10;&#10;-------------------------------------------------------------------&#10;Original meme: https://youtu.be/of1c69GdIAE&#10;Song: https://youtu.be/6dPezw1HxSU&#10;-------------------------------------------------------------------&#10;FA Commission - http://www.furaffinity.net/user/kitradragonfox&#13;&#10;FA Adopts - http://www.furaffinity.net/user/dragonfoxadopts&#13;&#10;VK - https://vk.com/ts_and_dragonfox&#10;-------------------------------------------------------------------&#10;#WarriorCats #WarriorsCats #Warrior #WC #CW #&#1050;&#1086;&#1090;&#1099;&#1042;&#1086;&#1080;&#1090;&#1077;&#1083;&#1080; #&#1050;&#1042; #animation #meme #animationmeme #Warriors #Yellowfang"
     channel_title "Dragonfox Art"
     channel_id "UCiNBeadMD1wbeQCrba1Lhzw"
     fav_count 0
@@ -1281,7 +1281,7 @@ graph [
     step 0
     date "2022-04-09T14:35:47Z"
     title "So I Made A Warrior Cats Netflix Trailer.."
-    description "NEW VIDEO https://youtu.be/ieLPmw3iBBA Originals https://youtu.be/PyAVdjLwqqI https://youtu.be/cDSl8OFB7l8 ..."
+    description "NEW VIDEO&#10;https://youtu.be/ieLPmw3iBBA&#10;&#10;&#10;Originals &#10;&#10;https://youtu.be/PyAVdjLwqqI&#10;&#10;https://youtu.be/cDSl8OFB7l8&#10;&#10;https://youtu.be/buhNp-8To2Y&#10;&#10;https://youtu.be/-jOQB6Ye1Ic&#10;&#10;https://youtu.be/f4fBVxaG2VY&#10;&#10;https://youtu.be/txjSCcJBU7g&#10;&#10;Song - House Of Memories"
     channel_title "Bailey _ &#120226;&#120250;&#120268;&#120265;&#120254;&#120267; &#120246;&#120226;"
     channel_id "UCi6uJAatmAU7LFFHj7qv-1A"
     fav_count 0
@@ -1296,7 +1296,7 @@ graph [
     step 0
     date "2018-05-01T03:55:11Z"
     title "Ready As I&#38;#39;ll Ever Be [Warriors COMPLETED MAP]"
-    description "END OF APRIL, END OF APRIL, I PROMISED!!1 Well, It's finally here! PARTICIPANTS: 1 - MapleSpyder 2 - sokoish 3 ..."
+    description "END OF APRIL, END OF APRIL, I PROMISED!!1&#10;Well, It's finally here! &#10;&#10;PARTICIPANTS:&#10;1 - MapleSpyder&#10;2 - sokoish &#10;3 - GEKKOZILLA&#10;4 - F# Major &#10;5 - XxUkarixX&#10;6 - meow 286 &#10;7 - Nightrizer &#10;8 - Cranberry the Cat &#10;9 - Zuremist&#10;10 - Glitch Sixxle &#10;11 - SmolToxin &#10;12 - AlexHarrier &#10;13 - Stef T &#10;14 - ashtrall &#10;15 - Selket &#38; HulluMel&#10;16 - Blowber JalenR11 Twins for a change&#10;17 - WishfulVixen &#10;18 - simply misty &#38;  XXLunaWarriorXX&#10;19 - BlueMaroon|Sarah Goran &#10;20 - staniqs &#10;21 - D3LT4R1-2&#10;22 - Sagutoyas &#10;&#10;Editing by Hita Eighthsun&#10;Script/Rules translation - Sorrelpaws&#10;Animation in the end - Hita Eighthsun &#38; Stationpass (coloring)&#10;Background for this animation - SpiritOfAlaska94&#10;Intro - Sparrow's World &#38; Hita Eighthsun&#10;&#10;Music:&#10;&#34;Ready As I'll Ever Be&#34; - Tangled: Before Ever After&#10;&#34;Let Me Make You Proud&#34; instrumental - https://www.youtube.com/watch?v=zlDfoKTFktE&#10;&#10;HUGE THANK FOR EVERYONE, who drew fan-arts and took part in our thumbnail contest! Unfortunately, it was impossible to insert in credits absolutely all the work. But we appreciate them no less, believe us! And you can upload your thumbnail or fan-art to our open Google-folder: https://drive.google.com/drive/folders/1Pz_Fcs-zZVtGoQBWduD1DE8XEtNKL3N4&#10;&#10;We also want to thank all the animators, who helped us to make our idea a reality. We're SO PROUD of you, such amazing artists. Thank you so much for your perseverance and patience!&#10;&#10;_________________________________________&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "eighthsun [HITA]"
     channel_id "UC8lTRazGpxL4jrtuSFWzlTA"
     fav_count 0
@@ -1311,7 +1311,7 @@ graph [
     step 0
     date "2021-02-14T22:00:17Z"
     title "She Wants Me (to be loved) - Thrushpelt AMV"
-    description "(Flashing lights warning at 0:56)) &#8220;Not all men&#8212;&#8220; you're right, Thrushpelt Warrior Cats would never (lil edit: AAH YALL... THATS A ..."
+    description "((Flashing lights warning at 0:56))&#10;&#10;&#8220;Not all men&#8212;&#8220; you're right, Thrushpelt Warrior Cats would never &#10;&#10;(lil edit: AAH YALL... THATS A LOT  OF VIEWS (new edit: 1M VIEWS EXCUSE ME) THATS A SPICY MEATBALL hhh tysm for all the support aaa ! ! !)&#10;I wish the books had given us more thrush and blue being friends!!! Good friends!!! Best friends!!! Loved and cared for her and her kits and she loved him!! Not in the way he initially hoped for but it&#8217;s still love!! So here&#8217;s a video for our good boy thrushpelt right on time for valentines day &#128149;&#10;&#10;I tried a lineless semi-limited animation/pmv vibe+ a focus on colours, which was really fun to work on!! I feel like the animation gets a lil weird lookin at times but i&#8217;ll live with it fkjdslh &#10;working in a lineless style is interesting; i didn&#8217;t exactly find it more difficult (in a lot of ways it actually went faster than colour+lineart), but it was p different n fun&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;AUDIO:&#10;She Wants Me (To Be Loved) - The Happy Fits: https://youtu.be/UMqAk3RVH3M &#10;(outro song): Sailing - The Happy Fits: https://youtu.be/lVow2ygEt44 &#10;&#10;PROGRAMS:&#10;photoshop for the art/frame by frame animation, premiere for editing/tweening&#10;&#10;LINKS:&#10;tumblr: https://peppermint-moss.tumblr.com/&#10;kofi: https://ko-fi.com/peppermintmoss &#10;commissions: https://mossthesmol.wixsite.com/ppmosscommissions&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;lil summary/clarification for u:&#10;0:03 thrushpelt, rosetail, bluefur hang out. Rosetail teases thrushpelt about his crush and bluefur is oblivious &#10;0:19 blue n thrush bein good friends&#8230;..best friends..&#10;0:22 kinda a representation of bluefur passing by Thunderclan cats that she could have taken for a mate, but she instead chooses to be with oakheart from riverclan. Thrushpelt is bummed (since this scene is more symbolic, i dont think thrushpelt actually knows who bluefur is mates with, all he knows is that it&#8217;s not him)&#10;0:26 more best friend vibes&#10;0:34 rosetail teases bluefur abt thrushpelt&#8217;s obvious crush on her. Blue feels embarrassed and a lil guilty&#10;0:42 blue and thrush are on a nice walk! But blue is too wrapped up in her own thoughts between oakheart and thistleclaw and starclan&#8217;s prophecy on her shoulders&#8230; goosefeather gazes at her knowingly. Thrushpelt knows /something/ is up but what can he do? :( worried lad&#10;0:58 blue tells thrush abt her kits she had with an unknown father. Thrushpelt offers to be a foster father if that would make it easier for her, the kits, and the clan to believe he was the father. Blue feels grateful but guilty abt not bein able to tell him the truth and sad that oak cant raise the kits with her&#10;1:14 fun times with the kits!!&#10;1:22 lil timeskip to leafbare, thrushpelt settles to sleep in the warriors den (bluefur&#8217;s anxiety goes unnoticed&#8230;)&#10;1:29 dream sequence time ! thrushpelt dreams of some alternate reality where bluefur does reciprocate his feelings for her. They raise the kits as their biological parents (heyhey fun detail!! All of the features the kits inherited from oakheart are replaced with features that thrushpelt has &#128064;&#128064;)&#10;1:44 The dream takes on a colder tone. Bluefur takes no time to spend with thrushpelt, and thrushpelt cries out his heartbreak&#10;1:50 Thrushpelt wakes, feeling guilty about his dream-outburst and does his best to shake it off. Meanwhile, something&#8217;s happened with bluefur&#8230;.... Oblivious, thrushpelt settles his emotions and reminds himself that bein her friend is vv lovely and goes to bring her and the kits some freshkill &#10;2:09 but when he arrives at the nursery all he finds is a heartbroken bluefur, no kits, and a hole torn through the nursery wall as if a fox had broken in during the night. &#10;2:15 thunderclan searches for the kits, but to no avail. Bluefur has been very quiet the whole time and at last breaks down by thrushpelt&#8217;s side. Only she knows where she took her two surviving kits last night; to oakheart in riverclan.&#10;2:28 not too long after, blue is named as deputy. Thistleclaw seethes with anger&#10;2:32 time skip to when bluestar is the new leader of thunderclan! Thrushpelt is v proud of her !! but despite her new role in the clan she&#8217;s still good friends with thrushpelt !!! &#10;Outro shows blue grieving over thrush&#8217;s death, thrushpelt meeting mosskit in starclan and having all of blue&#8217;s secrets revealed to him, thrush and moss takin a lil daytrip to visit her siblings in riverclan, (lil headcanon time) thrush leading mistyfoot and stonefur to save bluestar while oakheart urges her to keep swimming, and thrushpelt/rest of bluestar&#8217;s loved ones greeting her in starclan"
     channel_title "peppermint-moss"
     channel_id "UCSVK5E1ZglotfkhX8UKwCEw"
     fav_count 0
@@ -1326,7 +1326,7 @@ graph [
     step 0
     date "2018-09-18T19:51:21Z"
     title "Warrior Cats~Wolves"
-    description "Credits: 1:Sagutoyas 2:Pumpkin Claws 3:Aethira 4:Nightrizer 5:Nightrizer 6:XxLunaWarriorxX 7:mickey 8:Glitch Sixxle 9:Icedog ..."
+    description "Credits:&#10;1:Sagutoyas&#10;2:Pumpkin Claws&#10;3:Aethira&#10;4:Nightrizer&#10;5:Nightrizer&#10;6:XxLunaWarriorxX&#10;7:mickey&#10;8:Glitch Sixxle&#10;9:Icedog McMuffin&#10;10:WolfHowler9880&#10;11:&#10;12:Sagutoyas &#10;13:meow 286&#10;14:BlueMaroon|Sarah Goran&#10;15:GinjaNinjaOwO&#10;16:&#10;17:Shelly Key&#10;18:BlueMaroon|Sarah Goran&#10;19:Bok Choy Choy&#10;20:TheDogzLife&#10;21:Crashydelflou&#10;22:Cranberry the Cat&#10;&#10;ALSO SORRY FOR NOT CREDITING BUT I JUST REALIZED IT'S WRONG NOT TO CREDIT STUFF THAT'S NOT MINE! I'M STILL SEARCHING FOR THE MAKERS AND SOON ALL WILL BE CREDITED!"
     channel_title "The Wild Warriors"
     channel_id "UC2CpOkLgZ27D83h4moXAweQ"
     fav_count 0
@@ -1341,7 +1341,7 @@ graph [
     step 0
     date "2022-02-06T17:43:19Z"
     title "Warrior Cats Trailer"
-    description "Parts:https://youtube.com/playlist?list=PLiDeI2GKxoypz35RvTJFt4w5-SSux234L Voice:https://youtu.be/9zDxs-F4C4A ..."
+    description "Parts:https://youtube.com/playlist?list=PLiDeI2GKxoypz35RvTJFt4w5-SSux234L&#10;&#10;Voice:https://youtu.be/9zDxs-F4C4A&#10;https://youtu.be/9zDxs-F4C4A&#10;https://youtu.be/x3cnKNS5Y2o&#10;https://youtu.be/HVTcsw1CW8Y&#10;https://youtu.be/gJ2gEmiAzZg&#10;https://youtu.be/mUhtE3uZsHI&#10;https://youtu.be/4dUeUWFWmro&#10;https://youtu.be/mdJpDVos0Qs&#10;https://youtu.be/uPnEHTPLmxk&#10;https://youtu.be/9BaW46r5S18&#10;https://youtu.be/rpoUMWpZweY&#10;&#10;Songs:https://youtu.be/smSSSs46rng&#10;&#10;https://youtu.be/W_m_a1rPCus&#10;&#10;https://youtu.be/r-PYYaoq0fY&#10;&#10;https://youtu.be/13WAhlE02ew&#10;&#10;https://youtu.be/SKtddjpnVm0"
     channel_title "Darcat"
     channel_id "UCIBRnySBYdMIhY3tOl5BzAQ"
     fav_count 0
@@ -1356,7 +1356,7 @@ graph [
     step 0
     date "2021-04-23T18:14:04Z"
     title "Songs that fit the Warrior Cats Part One!"
-    description "This is part 1 out of 3+. More parts coming soon! Credit to SarahGay for helping me think up a couple of these. NOT MY MUSIC ..."
+    description "This is part 1 out of 3+. More parts coming soon!&#10;&#10;Credit to SarahGay for helping me think up a couple of these.&#10;&#10;NOT MY MUSIC OR PICTURES CREDITS BELOW&#10;&#10;Opening song: Float above by Liam Aidan&#10;&#10;Credits to songs in video.&#10;&#10;Credit to pictures:&#10;Warriors Wiki&#10;Jaiette&#10;Hazepages on Deviant art &#10;Graystripe64&#10;Ever-CW on Deviant art &#10;Jaystarz&#10;Th1stlew1ing on Deviant art &#10;Juliane Pilz&#10;Vialir &#10;Climb draws&#10;Maple-heart on Deviant art &#10;VegaLovesCake on Deviant art &#10;Spirit-of-Alaska on Deviant art &#10;Climbstudios&#10;Spiritofthestars&#10;Rae-elic on Deviant art &#10;Keriae &#10;Sunnyblossoms on Tumblr&#10;Owlspark &#10;Shyranno &#10;Mothmori  &#10;Songsteps on Warriors Amino &#10;Warrior Cat Designs &#10;M.jay&#10;SkylaskA&#10;Flash-the-artist&#10;Hawk&#10;Warriorcats.com&#10;Marshcold on Deviant art &#10;Dragonlordemily on Reddit&#10;Makenzi &#10;PureSpiritFlower on Deviant art &#10;Weasyl"
     channel_title "Invisible Asteroids"
     channel_id "UCdiQ378OCGMq717aGlS2UjA"
     fav_count 0
@@ -1371,7 +1371,7 @@ graph [
     step 0
     date "2022-01-22T16:00:10Z"
     title "If Warrior Cats had Social Media"
-    description "In this challenge, we check to see what would happen if Warrior Cats had phones and social media! Warriors Challenge Discord: ..."
+    description "In this challenge, we check to see what would happen if Warrior Cats had phones and social media!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Endo&#10;Background by Kyian&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1386,7 +1386,7 @@ graph [
     step 0
     date "2022-03-21T20:30:10Z"
     title "Codes?? | Warrior Cats Ultimate Edition"
-    description "Game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition Music: ..."
+    description "Game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;Music: https://www.youtube.com/channel/UCdpN_SlX2Ulz19C7BbBbM7w&#10;Outro Artist: https://www.youtube.com/channel/UC2Vaw_8hpk3lx554fCpi_PQ&#10;&#10;Want to use fun Littlesprout emojis ?&#10;Become a Sprout clan member today! https://www.youtube.com/channel/UCaSCdIv5TjmJVrSF_ix_NOg/join&#10;-&#10;Sprout intro animated by  https://twitter.com/skxynka&#10;Intro music by https://twitter.com/Koapony&#10;-&#10;Need to contact for buisness? Want me to check out a new / old game?&#10;Have fanart you want to send? &#10;Littlesproutart@gmail.com&#10;^ ^ I can't promise a reply but I do try to thank everyone for any art!&#10;(Make sure you have permission to use email and only original art no stolen please)"
     channel_title "Littlesprout's Stories"
     channel_id "UCaSCdIv5TjmJVrSF_ix_NOg"
     fav_count 0
@@ -1401,7 +1401,7 @@ graph [
     step 0
     date "2022-06-05T17:00:08Z"
     title "What if ASHFUR and SQUIRRELFLIGHT Had Kittens?! &#128049;&#128149;&#128049; Warrior Cats: Kittens Spin-Offs!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob Warrior ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;We're back in the Sims 4: Cats &#38; Dogs LaBARKatory mixing and matching all manner of animals! Join Seri the Pixel Biologist as we dive into another pixel biology experiment!&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#spottedleaf&#10;#firestar&#10;#warriorcats"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -1416,7 +1416,7 @@ graph [
     step 0
     date "2021-10-31T19:45:12Z"
     title "&#128128; [TW] BRINGING US HOME, COMPLETE WARRIORS CATS - HALLOWEEN MAP &#128128;"
-    description "If u have the chance can you help share this map? :'DD Youtube as been playing with my face recently, and not sharing my videos ..."
+    description "If u have the chance can you help share this map? :'DD Youtube as been playing with my face recently, and not sharing my videos, so even a like helps a lot! Please! Means a lot to me!&#10;-----&#10;Note: Premiere have chance to be delayed&#10;CHECK THE HALLOWEEN PLAYLIST MARATHON HERE: https://youtube.com/playlist?list=PLrFm0qKO1UPvi_6dPGVTzWNSNCs-dmwFh&#10;&#10;!!!!!!!!!!!!!!!!!!!!!!!!!!! TRIGGER WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!&#10;This MAP CALL contains horror, flashing lights, gore, horror body, animal death, and others disturbing themes. If you're easily triggered/sentive, please click away of this MAP CALL! This MAP PROJECT is not intended for children&#10;Viewer discretion is advised&#10;&#10;| ABOUT |&#10;I had this idea in the end of last year, so i've been waiting Halloween for put it in work. this map will have a first-person model, in which you will be in Brokenstar's skin and will be chased by the kits that died because of him, interspersing between past and future and with a very violent/gore theme.&#10;&#10;&#128128; || DETAILS || &#128128;&#10;MAP CALL: https://youtu.be/OIXS9OB4gTc&#10;Playlist with Complete Parts+Extra Arts: https://youtube.com/playlist?list=PLD-9CjYt_7tXqQmcUGmivGwJV4a0HVOP1 (PLEASE SUPPORT THE ARTISTS)&#10;Thumbnail Winner: @Annywu@Gildedware (aka GildedPhD)@GreatSylveon 2007@Demi m0n (thank you everyone for all entries!!)&#10;Character is from Erin Hunter's series Warriors Cats, and Designs by @Annywu @Lovely Ange_007 and @Nifty-Senpai&#10;Song: BRINGING US HOME - TryHardNinja from Five Nights At Freddy, FNAF&#10;Endcredits: (Darkest Desire, Istrumental) - Dawko &#38; DHeusta; Artwork by @SplashDreamms and Characters tweening @Demi m0n"
     channel_title "SplashDreamms"
     channel_id "UC1klWasU7tnfIehKifhShWA"
     fav_count 0
@@ -1431,7 +1431,7 @@ graph [
     step 0
     date "2022-07-06T14:35:23Z"
     title "Warrior Cats If They Had Singing Voices Part 3"
-    description "Part 3! This Song is not mine at all it belongs to Sia who sings the original. The voices sung in this video are unknown."
+    description "Part 3!&#10;This Song is not mine at all it belongs to Sia who sings the original. The voices sung in this video are unknown.&#10;&#10;Artists names:&#10;Tigerstar: ClimbToTheStars&#10;Dovewing: Songsteps&#10;Bluestar: Nightryx&#10;Shadowsighr: Graystripe64&#10;Firestar: aodesai&#10;Ashfur: EOAR-Archived&#10;Leafstar: seyriix&#10;Redtail: waiako&#10;Leopardstar: aodesai&#10;Sorreltail: toboe5tails"
     channel_title "Jaywhisper"
     channel_id "UCAlun3p3gDo06MqhfiOMeOg"
     fav_count 0
@@ -1461,7 +1461,7 @@ graph [
     step 0
     date "2017-06-28T07:15:44Z"
     title "Warrior Cat Full Map &#9474; Treat you better (AshFur vs BrambleClaw)"
-    description "Thank you so much! Everyone this turned out absolutely fantastic :D It was definatley worth the wait! Thank you so much for the ..."
+    description "Thank you so much! Everyone this turned out absolutely fantastic :D It was definatley worth the wait! Thank you so much for the many replacements to finish this map! It was worrying the amount of people who dropped out&#10;Edit 30/06/2017: I swear this is the fastest I've ever hit 1000 likes XD Thank you so much guys!&#10;Edit 05/07/2017: What the hell is going on!!! 2,000 likes in just a week wtf!! Thank you so much guys!&#10;Edit 09/07/2017: How the hell have you guys made me able to get 100,000 views in less then 2 weeks this is amazing thank you so much!&#10;Edit 13/08/2017: What is going on! 300,000 views?! and what 5,000 likes this is amazing guys thank you so much! You guys are awesome!&#10;Edit 01/01/2018: New year and 10,000 likes :O What on earth!&#10;Edit 04/02/2018: Holy Shoot guys! Thank you so much for 1 million views this is a milestone! Thank you!&#10;Edit 23/04/2019: A year later and we've done it my first video to hit 2 million views which is incredible! Jesus thank you so much my lovelies ^^&#10;&#10;Song: KHS &#38; Hugo - Treat you better&#10;&#10;Parts: https://www.youtube.com/playlist?list=PLjNl1ZkAshWHadSKKub0z-QULRGMP-FZb&#10;Intro Mine&#10;1 Banana-Spiral &#10;2 Featherflight55 OwO &#10;3 Featherflight55 OwO &#10;4 Gingerwish &#10;5 Bosley Boz &#10;6 Jaystar The Warrior Cat&#10;7 Hikaru Chan&#10;8 Rainbow-Lava &#10;9 Rainbow-Lava &#10;10 xLonley &#10;11 Smol Draws Stuff &#10;12 Jay's Burrito Corner &#10;13 Okina &#10;14 My Warrior cats&#10;15 LoopinMoon &#10;16 Redstorm Productions&#10;17 Redstorm Productions &#10;18 Klaani Kissa &#10;19 Sky Cats&#10;20 Sky Cats  &#10;21 ShijiChan &#10;22 *Ok&#233;na Milka* &#10;23 BrightFlowerO3O&#10;24 SpeedyFoxAMV &#10;25 SpeedyFoxAMV  &#10;26 Calico Typhoon&#10;27 Ghostie Paints &#10;28 Ghostie Paints &#10;29 xLonley&#10;30 Mystical Melon&#10;31 Jaystar The Warrior Cat &#10;32 Zeruk Chase&#10;&#10;Social Media&#10;Facebook:https://www.facebook.com/lemon.kat.37&#10;Twitter : https://twitter.com/LemonKat_&#10;or @Lemonkat_&#10;Deviantart: http://l3m0nk4t.deviantart.com/&#10;No One has the right to copy any of my videos without permission (c)&#10;All rights are reserved to the original owners&#10;&#10;-----------------------------------------------------------------------------------------------------------&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance"
     channel_title "LemonKat"
     channel_id "UCksSy29aS40Vv5_3u_frwzw"
     fav_count 0
@@ -1476,7 +1476,7 @@ graph [
     step 0
     date "2022-06-12T18:00:10Z"
     title "FOLLOW ME - WARRIORS AMV"
-    description "WARNING!!! video contains blood, gore, body horror, flashing lights, and animal death guys gsu gus gyits actually done omg ..."
+    description "WARNING!!! video contains blood, gore, body horror, flashing lights, and animal death&#10;guys gsu gus gyits actually done omg omg.... tryhardninja im sorry for usig your music for warrior cats&#10;i started this version of follow me in early november and im honestly surprised i kept working on this nearly every day cause so much happened in my life but here it is finally finished uhhhhghfg i hope you guys like it!!!&#10;story: ivypaw and dovepaw discover a tunnel and venture inside and crazy stuff happens"
     channel_title "bunnycat"
     channel_id "UCRBK29-LiexQg_iJrH5RRTw"
     fav_count 0
@@ -1491,7 +1491,7 @@ graph [
     step 0
     date "2021-08-25T13:16:52Z"
     title "WARRIOR CATS: ULTIMATE EDITION | UPDATE PREVIEW (PREY)"
-    description "Make sure to Like and Subscribe for more videos like this !!! &#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134; &#10004;&#65039; Join my ..."
+    description "Make sure to &#128077; Like and &#128276; Subscribe for more videos like this !!!&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10004;&#65039; Join my Discord: https://discord.gg/W9sSP6A &#10;&#10;&#10004;&#65039; Join my Roblox Group: https://www.roblox.com/groups/4094584/Spookyy&#10;&#10;&#10004;&#65039; Follow me on Instagram: https://www.instagram.com/aqthegamer/&#10;&#10;&#10004;&#65039; Follow me on Twitter: https://twitter.com/AQtheGamer&#10;&#10;&#10004;&#65039; Follow me on Roblox: https://www.roblox.com/users/343089064/profile&#10;&#10;&#10;All the pictures and videos used in this video are from Warrior Cats: Ultimate Edition Discord server&#10;&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;Track: Hoober - Higher (feat. Vanessa Campagna) [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/RBPuDWzZUiA&#10;Free Download / Stream: http://ncs.io/HHigher&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10;&#10;&#10;#roblox #warriorcats #aqthegamer&#10;&#10;&#10;Extra: &#10;Warrior cats ultimate edition update preview, Warrior cats new update, warrior cats prey, roblox, warrior cats roblox"
     channel_title "AQtheGamer"
     channel_id "UCI5IBHgowLuQZRQQUbVKRUg"
     fav_count 0
@@ -1506,7 +1506,7 @@ graph [
     step 0
     date "2022-04-13T12:00:09Z"
     title "The fox who learned to fly || Warrior Cats: Ultimate Edition"
-    description "I guess it was kinda fun. Would rather be a cat tho. - Music &#34;Meatball Parade&#34; Kevin MacLeod (incompetech.com) Licensed under ..."
+    description "I guess it was kinda fun. Would rather be a cat tho.&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Meatball Parade&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -1521,7 +1521,7 @@ graph [
     step 0
     date "2021-07-01T16:31:01Z"
     title "Tour of my old Warrior Cats Artwork! (kinda DeviantArt famous)"
-    description "Surprising no one, yeah, I had a Warrior Cats phase... AND PROUD. I may not keep up with the fandom now, but it still has a place ..."
+    description "Surprising no one, yeah, I had a Warrior Cats phase... AND PROUD.&#10;I may not keep up with the fandom now, but it still has a place in my heart, drama and all! It really helped me grow as an artist &#10024;&#10;&#10;Feel free to share those spicy deets of your past fandom artwork (any fandom, not just Warriors)! &#10;Tho, we all want to know...DID YOU HAVE A WARRIORS OC!?&#10;&#10;I've been using NordVPN for over a year now! &#10;Go to  https://nordvpn.com/amyrightmeow or use code &#34; amyrightmeow &#34; to get a 2-year plan with a huge discount! It's like, 73% OFF!&#10;&#10;Link to Izzzyzzz's video on the Warrior Cats Deep Dive (HIGHLY recommend you give it a watch!):&#10;https://youtu.be/DaNsztFzn-s&#10;&#10;All of my socials:&#10;https://linktr.ee/AmyRightMeow&#10;&#10;#warriorcats #rightmeow #sketchbooktour"
     channel_title "WowRightMeow"
     channel_id "UClN24S5-fc7LD0JJW0FdGWw"
     fav_count 0
@@ -1536,7 +1536,7 @@ graph [
     step 0
     date "2017-05-14T03:42:42Z"
     title "Warrior Cats: Truth or Dare"
-    description "13+ Content Disclaimer: The use of handpainted clay figurines in this video is simply a creative choice and not intended to attract ..."
+    description "13+ Content Disclaimer: The use of handpainted clay figurines in this video is simply a creative choice and not intended to attract young viewers. Buy a Triggeredclaw and Doritopaw pin! &#10;https://www.etsy.com/listing/568439859/both-triggered-and-doritopaw-limited?ref=shop_home_active_3"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -1551,7 +1551,7 @@ graph [
     step 0
     date "2022-03-05T16:00:01Z"
     title "Warrior Cats as Other Animals"
-    description "In this video, you all drew Warriors as any animal that isn't a cat! Warriors Challenge Discord: https://discord.com/invite/W53Uw6F ..."
+    description "In this video, you all drew Warriors as any animal that isn't a cat!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Endo&#10;Background by Kyian&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1566,7 +1566,7 @@ graph [
     step 0
     date "2020-08-01T14:00:26Z"
     title "Funny Warrior Cats Comics"
-    description "Warrior Cats Challenge Discord: https://discord.com/invite/W53Uw6F In this challenge, you all made some great Warrior Cats ..."
+    description "Warrior Cats Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;In this challenge, you all made some great Warrior Cats comics!&#10;&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1581,7 +1581,7 @@ graph [
     step 0
     date "2021-12-05T00:30:08Z"
     title "LAY ALL YOUR LOVE ON ME | Complete Warrior Cats MAP"
-    description "&#34;LAY ALL YOUR LOVE ON ME&#34; is a Warrior Cats MAP (multi animator project) focused on the complicated and dramatic ..."
+    description "&#34;LAY ALL YOUR LOVE ON ME&#34; is a Warrior Cats MAP (multi animator project) focused on the complicated and dramatic relationship between Tigerheart and Dovewing, taking lots of inspiration from theatre! &#10;&#10;This MAP is finally here and I couldn't be more proud! Each animator worked SO HARD on their parts, and it truly shows! It was a long wait, but it was certainly worth it. Every part really is gorgeous and I could not be more thankful to everyone who helped bring my idea to life.&#10;&#10;ANIMATOR CREDITS:&#10;@EchoMist&#10;@Bunny Guin &#10;@Solstrike06 &#10;@rivallish &#10;@GhostLantern &#10;@CretaCat https://www.youtube.com/channel/UC6Qh5rxg4yTKfgjyCyZLLfg (2d backgrounds, collab with GhostLantern and Galaxy Mew)&#10;@Galaxy Mew (also did roughs for the walk cycle in part 10, collab with Laurenrdraws and Sparroet)&#10;@CuteFlare &#10;@Laurenrdraws &#10;@Sparroet &#10;@roseshards &#10;@FISHSOCKS &#10;@softmio &#10;@ICEBUNN &#10;@Puddleface &#10;@Cassandra Cat (storyboards and some rough animation, collab with Faded Kat)&#10;@Faded Kat &#10;@Adrianimations &#10;@mahatyran &#10;@ursiday &#10;@Sagutoyas &#10;@Bosley Boz &#10;@kestrl &#10;@Owlmeh &#10;@lyrepaw &#10;@Fleur de Sureau &#10;@Finchwing &#10;@Fluddie &#10;@DrBubbles &#10;@Pyralis &#10;@raevei &#10;@Keby (Lynxspots) &#10;@Artisminerva &#10;@Ashtrall &#10;@MANCHKIN! &#10;@Nightrizer &#10;@TheWisestDino &#10;@CheekyTiger &#10;@Puzzle Parrot &#10;&#10;THUMBNAIL CONTEST CREDITS:&#10;Mi Cool - https://www.instagram.com/mmi_cool/&#10;Bluberry - @BluBerry &#10;Falcaothay - https://www.instagram.com/falcaothay_art/?hl=en&#10;Louixie - @Louixie &#10;Oal_Arts - https://www.instagram.com/oal_arts/?hl=en&#10;Frankiebcatt - https://twitter.com/frankiebcatt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&#10;Feather_of_Fire - https://www.instagram.com/feather_of_fire/?hl=en&#10;&#10;View the rest of the thumbnail contest entries here: https://www.instagram.com/explore/tags/laylomthumbnailcontest/?hl=en&#10;&#10;SONGS:&#10;ABBA - Lay All Your Love On Me https://www.youtube.com/watch?v=YT-wSm18JXM&#38;ab_channel=DominicCooper-Topic&#10;Philharmonia Orchestra - Lay All Your Love On Me Instrumental https://www.youtube.com/watch?v=Pe63EXhhVSg&#38;ab_channel=PhilharmoniaOrchestra-Topic&#10;&#10;Email for business inquiries: chloeperrinart@gmail.com&#10;Website: https://www.chloeperrin.com/&#10;Redbubble/merch: https://www.redbubble.com/people/roseshards/&#10;DeviantArt: https://www.deviantart.com/roseshards/&#10;Instagram: https://www.instagram.com/roseshards/&#10;Tumblr: https://warriorcatsdatabase.tumblr.com/&#10;Twitter: https://twitter.com/roseshards&#10;Discord: https://discord.gg/DghQYp5"
     channel_title "roseshards"
     channel_id "UCYU03u7TFDl68NNXf2u8lzQ"
     fav_count 0
@@ -1596,7 +1596,7 @@ graph [
     step 0
     date "2020-04-01T19:40:10Z"
     title "Warrior Cats Animated-Episode 9-Fire &#38;amp; Ice (Take Care)"
-    description "How many of you thought this was an april fools joke? WELL ITS NOT, we don't celebrate april fools because today is also my little ..."
+    description "How many of you thought this was an april fools joke? WELL ITS NOT, we don't celebrate april fools because today is also my little sisters birthday!! (who also happens to be the voice of bluestar/cinderpaw, and is also a co-writer) so if you see odetough in the comments, wish her a happy birthday&#10;&#10;&#10;ANYWAY WOW i feel like ive been editing this four 1000years, and it feels like its been 5000years since episode 8, BUT 9 IS HERE NOW, and i gottta tell ya, this is probably one of the weirdest episodes to date, im warnin you&#10;&#10;&#10;Title-Card drawn by Litchi kitti -https://www.youtube.com/channel/UC0awGJPxXoWXTg4OXyp3BjQ&#10;&#10;&#10;Patreon: https://www.patreon.com/bokbokchoy&#10;WCA tumblr: https://warriorcatsanimated.tumblr.com/&#10;BokBokChoy twitter: https://twitter.com/?lang=en&#10;&#10;&#10;Rory- http://sillystrung.tumblr.com/ (Also animated it)&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?h...&#10;Taylor https://www.youtube.com/user/TaylorTe...&#10;Elliot - https://www.youtube.com/channel/UCtui...&#10;Gekkozilla - https://www.youtube.com/channel/UCC9m...&#10;Cushfuddled -https://www.youtube.com/channel/UC7qRiwdDePANg5G4MlA7i-g/videos&#10;&#10;&#10;(Voices)&#10;Rory- Smudge, Graystripe, Ravenpaw, Runningwind, Longtail, Smallear, Brindleface, Boulder, Brownpaw. Clawface, Stumpytail, Onewhisker, Whiteclaw, Wetfoot&#10;Fritz- Fireheart, Tigerclaw, Whitestorm, Lionheart, Sandpaw, Yellowfang, Brokenstar, Darkstripe, Blackfoot, Susanne, Barley, Nightpelt, Tallstar, Mudclaw, Blackclaw, Oakpaw, Princess, Nutmeg, Jake&#10;Lillian- Bluestar, Mousefur, Spottedleaf, Speckletail, Willowpelt, Littlepaw, Tangleburr, Ashfoot, Cinderpaw&#10;Elliot- Runningnose, Crookedstar, Crowfur, Thornclaw, Deadfoot, Barkface, Brackenfur&#10;Moms- Frostfur&#10;Pops- Mudfur, Patchpelt&#10;Madeline- One-eye&#10;Taylor- Goldenflower, Morningflower. Whitetail&#10;Navgate- Halftail&#10;Gekkozilla- Leopardfur&#10;Cushfuddled - Silverstream&#10;&#10;&#10;(music used)&#10;Hat the Jazz by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://www.twinmusicom.org/song/289/hat-the-jazz&#10;Artist: http://www.twinmusicom.org&#10;Cool Intro - Stings by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100504&#10;Artist: http://incompetech.com/&#10;Sunshine Samba  Chris Haugen&#10;Earnest by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100248&#10;Artist: http://incompetech.com/&#10;Members only - Track Tribe&#10;Walk through the park - track tribe&#10;Jazz tape - Andrew Huang&#10;A brand new start - track tribe&#10;smooth - silent partner&#10;Jazzeton - Quincas Moreira&#10;Orbital romance - Sir Cubworth&#10;A night alone - TrackTribe"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -1611,7 +1611,7 @@ graph [
     step 0
     date "2019-06-01T00:38:08Z"
     title "Complete Warrior Cats VINE MAP"
-    description "Im so sorry this had to be reuploaded there were too many major bugs that there was no way i wasnt gonna leave that not fixed, ..."
+    description "Im so sorry this had to be reuploaded there were too many major bugs that there was no way i wasnt gonna leave that not fixed, so here it is now again im sorry that i didnt double check it before posting. &#10;&#10;WOW this turned out to be larger than expected!!&#10;This is a MAP that i hosted that was mainly spread on twitter, and we got so many amazing participants??? Im so satisfied by this outcome!! dsgdsg&#10;&#10;Here is the list of participants in order!! &#10;&#10;1 Phlantz https://www.youtube.com/channel/UCjzQhUSl5KglSI8TwvumpZw&#10;2 OragamiRaincoat  https://www.youtube.com/channel/UC5x0_cDS4uhnnPM_f-jOoXg&#10;3 ChillyWeathers https://www.youtube.com/chillyweathers&#10;4 Bleachwaffle https://www.youtube.com/channel/UCatr3sOFT881Vix6Xhhs11Q&#10;5 Cassandra Cat https://www.youtube.com/channel/UCkZZnBdjGeaJmYLzE4sEMHg&#10;6 OkamiWolven https://www.youtube.com/user/OkamiWolven&#10;7 MoodleDoodle https://www.youtube.com/channel/UCqp2LuEYIv1wzQwvtBSK_IA?view_as=subscriber&#10;8 Spirit Soda https://www.youtube.com/channel/UC3iIH1Fxzpjaj51ENCom9fA&#10;9 FelineSoldier https://m.youtube.com/channel/UCBhrkWkqb6IiXJ5-v__Xc9Q&#10;10 ArtistiCat https://www.youtube.com/channel/UCBvXmrZB4-S5T9_5LlmGa6A&#10;11 DrakynWyrm https://www.youtube.com/user/DrakynWyrm&#10;12 Dinojay10 https://www.youtube.com/channel/UC5WZ0WcZj-3rdCpvM45TlYg&#10;13 Stonepelt 123 https://www.youtube.com/channel/UCgCAASht4n8uy9S32mdTziQ?view_as=subscriber&#10;14 Basically Just Erin https://www.youtube.com/channel/UCYHzTvdKguAdwNZsKRFrCXg?&#10;15 EGGPRIEST https://www.youtube.com/channel/UC9m7Ky-ajVUWs3IjB-Git7g&#10;16 MarshuKitty https://www.youtube.com/channel/UCtQv8arikb8WYeZDveo2spA&#10;17 Riley Ellis-Chan https://www.youtube.com/channel/UCiAwdqEhdCo0Yrs8l1-9muw&#10;18 sugarsprink https://youtube.com/channel/UCGkDqBpTIo41FTxx5bmQIpA&#10;19 Sandpuff https://www.youtube.com/channel/UCVmOEtOvEmr-S5hcYNewXBw&#10;https://www.youtube.com/channel/UCGkDqBpTIo41FTxx5bmQIpA&#10;20 Mewcola https://www.youtube.com/channel/UCsCIjkFSBVXyQmLnR5IVzzg&#10;21 Sagutoyas https://www.youtube.com/user/Sagutoyas&#10;22 Ravenguts https://m.youtube.com/channel/UCf1Fx-4nthGgJegJqE6jt1A&#10;23 Kitsune_Etoile&#10;https://www.youtube.com/channel/UCcFKOaUS5oZkHjI_eU55P-w&#10;24 LullabyTheKitty https://www.youtube.com/user/LullabyTheKitty&#10;25 Anji Blizzy https://www.youtube.com/channel/UCTcjNCi6OgssbuazG3uyuMA&#10;26 Minti Tacos https://m.youtube.com/channel/UC5nqgnx691U5ATP7H9FdAbA&#10;27 Owlspark https://www.youtube.com/channel/UCVqpMLHckAMYFuAbnIN1z7A&#10;28 Saburuso x https://www.youtube.com/channel/UCiaGYA9DGq3tiaQF4zmmsag&#10;29 Spacecattet https://www.youtube.com/user/xMoozer&#10;30 SaraXu https://www.youtube.com/channel/UCgRNscsFGCEaRZ4f6mIhjXg&#10;31 Hollyleevs https://www.youtube.com/channel/UCE0vezNk5Vayd5d1hirKOug&#10;32 GuacuGwazii https://www.youtube.com/channel/UCi53mkAVzci7bMY3NgxTc0w&#10;33 Frausterixx&#10;https://www.youtube.com/channel/UCcNdlPtzypVqKb6m2NRpc6Q&#10;34 ThisCatIsOnFire https://www.youtube.com/channel/UCHzeEc4Sl8i9a4FiPs4DJJw&#10;35 Charminq https://youtube.com/c/charminq&#10;36 WheezyBreezy https://www.youtube.com/channel/UC1KFAivugdSqD5ilQuclcaA&#10;37 SmokeRiver24 https://www.youtube.com/channel/UCDoV4VruutqL6DyAfxWXW4w&#10;38 Ashuribbon https://www.youtube.com/channel/UCRYxM5BqTyHAAvlqURXx5eg/videos&#10;39 Up33 u https://www.youtube.com/channel/UC4WvQAGwmEgY6o4xSayLHBA &#10;40 Starface  https://www.youtube.com/channel/UCvB0hJ9F4wnuuc_uDYtiiyg?view_as=subscribe&#10;41 Cold Rising https://www.youtube.com/channel/UCxl_jpW3wqYeMyHsAI0DYTA&#10;42 PeppermintPretzels https://www.youtube.com/channel/UCv6u4Tuzd34erG7of5Aqt9Q8"
     channel_title "MarshuKitty"
     channel_id "UCtQv8arikb8WYeZDveo2spA"
     fav_count 0
@@ -1626,7 +1626,7 @@ graph [
     step 0
     date "2022-05-10T12:00:34Z"
     title "Spring update with new camps, roles, and a code! || Warrior Cats: Ultimate Edition"
-    description "I kept say 'quick' in the video but it turned out longer than my usual RP videos lol - Music &#34;Fig Leaf Times Two&#34; Kevin MacLeod ..."
+    description "I kept say 'quick' in the video but it turned out longer than my usual RP videos lol&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Fig Leaf Times Two&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -1641,7 +1641,7 @@ graph [
     step 0
     date "2020-08-10T16:21:30Z"
     title "Warrior Cats as CLEAN Vines #1"
-    description "I hope you like these, I tried to be creative and find some less used vines for this so that you guys can see something new instead ..."
+    description "I hope you like these, I tried to be creative and find some less used vines for this so that you guys can see something new instead of the same exact thing in every other video! I've watched SOOO many of these videos so I figured I should try and make one, and I'm pretty happy with it! Comment if you want me to make more!"
     channel_title "skyheart &#9825;"
     channel_id "UCv6YjYyPRm_3w6iQkMOC2jQ"
     fav_count 0
@@ -1656,7 +1656,7 @@ graph [
     step 0
     date "2020-09-12T14:00:04Z"
     title "If Warrior Cats was Anime"
-    description "In this challenge I asked you all to draw Warrior Cats in anime art style! New talk sprites by Kyian: https://linktr.ee/kyian003 ..."
+    description "In this challenge I asked you all to draw Warrior Cats in anime art style!&#10;&#10;New talk sprites by Kyian: https://linktr.ee/kyian003&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1671,7 +1671,7 @@ graph [
     step 0
     date "2022-02-05T20:00:19Z"
     title "Warrior Cats Fan Dub Bloopers Vol. 3"
-    description "Artist for this video: Sun The Cat Dragon: https://instagram.com/sun_the_cat_dragon?utm_medium=copy_link Voice Acting ..."
+    description "Artist for this video: Sun The Cat Dragon: https://instagram.com/sun_the_cat_dragon?utm_medium=copy_link&#10;&#10;Voice Acting Director: Matthew Jones (https://www.twitch.tv/gearup)&#10;Firepaw #1: Clue&#10;Firepaw #2: Matt (https://twitter.com/EpicrockerTT)&#10;Tigerclaw: Grant (https://www.youtube.com/channel/UC__T4ql8NIlSdmf9tCrPu6A/featured)&#10;Bluestar: Sarah Prowell (https://twitter.com/SarahP_VO)&#10;Graystripe: Adrian (https://twitter.com/batenkaitosfan)&#10;Sandstorm: Jax (https://twitter.com/LittleJaxel)&#10;Yellowfang: Monica Grace&#10;Silverstream: CEOlson (https://ceolsonart.carrd.co/)&#10;Smallear: Terson https://twitch.tv/tersonva &#10;Loudbelly: Luchino (https://mobile.twitter.com/beaniepudge)&#10;Swiftpaw: EmeraldCheetah (https://youtube.com/channel/UC1MKajg0tgq8hIgT1YLmIBw)&#10;Longtail: TheKarsonist&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.com/invite/warriorcatsfandub&#10;https://patreon.com/wcdub&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -1686,7 +1686,7 @@ graph [
     step 0
     date "2021-12-18T20:30:30Z"
     title "LUNA CLAN!? on Warrior Cats Ultimate Edition"
-    description "Hey guys! What's up? In today's video I decided to hop back onto Warrior Cats: Ultimate Edition in Roblox and make my own ..."
+    description "Hey guys! What's up? In today's video I decided to hop back onto Warrior Cats: Ultimate Edition in Roblox and make my own LUNA ROLEPLAY. Since many of you guys commented saying my character looked like a Luna I thought I might as well create my own little rogue group based on it. It ended up being really funny, ENJOY!&#10;&#10;My Socials!:&#10;Instagram: https://www.instagram.com/bigmamaeternal&#8203;&#10;Twitter: https://twitter.com/bigmamaeternal&#8203;&#10;Second Channel: https://www.youtube.com/channel/UCnBG9tA7kW68hc7zd89r4BQ"
     channel_title "Big Mama Eternal"
     channel_id "UCPeJREKbTZCjAeDTDx6YtrA"
     fav_count 0
@@ -1701,7 +1701,7 @@ graph [
     step 0
     date "2018-12-28T01:06:01Z"
     title "[13+] [Natural] Warrior Cats Villains - Animator Tribute"
-    description "Well hello everyone!! It's a long time ago I made a new video so I thought it was time for a new one! :D and this time it goes about ..."
+    description "Well hello everyone!! It's a long time ago I made a new video so I thought it was time for a new one! :D and this time it goes about Warrior Cats Villains!! I chose Natural from Imagine Dragons because I love Imagine Dragons so much!! And there wasn't really an animator tribute with this song so yeah XD. This animator tribute turned out so awesome!! So watch it quickly!! owo&#10;&#10;Credit to the amazing animators:&#10;&#10;Colacatinthehat&#10;BlueMaroon|Sarah Goran&#10;XxUkarixX&#10;Nightrizer&#10;Meow 286&#10;AlexHarrier&#10;Finchwing &#10;Bosley Boz&#10;Princess-Anna&#10;Nirawa&#10;Koerenn&#10;Forest&#10;KrystalWinged Kumia&#10;OwlSpark&#10;salukisilver&#10;Wolfhowler9880&#10;BreezyBramble (for the roxanne edit)&#10;BluSilurus&#10;GinjaninjaOwO &#10;FoolsCourage&#10;&#10;Thumbnail: Koerenn&#10;&#10;Don't forget to like and subscribe! :3&#10;&#10;Song:&#10;&#10;Imagine Dragons - Natural"
     channel_title "xXDarkMoonXx"
     channel_id "UCCiPjyJI16Ya3UYTZC8kHMQ"
     fav_count 0
@@ -1716,7 +1716,7 @@ graph [
     step 0
     date "2022-02-28T01:00:02Z"
     title "Chillin&#38;#39; in RiverClan || Warrior Cats Ultimate Edition"
-    description "hopefully I'm still good at videos. - Music &#34;Teddy Bear Waltz&#34; Kevin MacLeod (incompetech.com) Licensed under Creative ..."
+    description "hopefully I'm still good at videos.&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Teddy Bear Waltz&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -1731,7 +1731,7 @@ graph [
     step 0
     date "2022-04-23T15:00:26Z"
     title "Warrior Cats on Opposite Day 2022 (WC Art Show Round 1)"
-    description "VOTING FOR ROUND 1 IS NOW CLOSED! Thank you all for voting! See the results in Round 2 when it releases! This is the ..."
+    description "VOTING FOR ROUND 1 IS NOW CLOSED! Thank you all for voting! See the results in Round 2 when it releases!&#10;&#10;This is the beginning of a new competition involving 84 artists from the Warrior Cats Challenge Discord! Round 1 involves them drawing Warrior Cats on Opposite Day!&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1746,7 +1746,7 @@ graph [
     step 0
     date "2022-06-08T16:00:17Z"
     title "What if MOTHWING x LEAFPOOL had kittens?! &#128049;&#128149;&#128049; Warrior Cats: Kittens Spin-Offs!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob Warrior ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;We're back in the Sims 4: Cats &#38; Dogs LaBARKatory mixing and matching all manner of animals! Join Seri the Pixel Biologist as we dive into another pixel biology experiment!&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#spottedleaf&#10;#firestar&#10;#warriorcats"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -1761,7 +1761,7 @@ graph [
     step 0
     date "2022-04-23T18:00:11Z"
     title "Tigerclaw Sinners  - Complete MAP"
-    description "Rehosted from @Galaxy Mew . Bazinga. Summary: Tigerclaw was once a young promising cat with many friends, but in order to ..."
+    description "Rehosted from @Galaxy Mew . Bazinga.&#10;Summary: Tigerclaw was once a young promising cat with many friends, but in order to impress his violent mentor Thistleclaw, he trains hard to be a fighter and puts all his emotions down. As an adult, Tigerclaw feels stunted and unable to communicate with his old friends, especially after his mentor dies. The young cat Redtail is very impressed by Tigerclaw, and wants to befriend him, but Tigerclaw is deeply jealous of the ease with which Redtail makes friends and feels like Redtail has stolen all his friends and credit. Tigerclaw will solve this the only way he knows how: with violence.&#10;&#10;SONG: Sinners by Barns Courtney&#10;CREDITS SONG: Sinners (Live Acoustic) by Barns Courtney&#10;Thumbnail by @Treeetooop&#10;&#10;PARTS LIST: &#10;Intro: @LettuceBettuce &#10;1. @Treeetooop &#10;2. FennecPika &#10;3.  Catfrost + Senswii +  TWArtz&#10;4. @Aspeyns &#10;5. @Inspector Spinda &#10;6. Roseshards&#10;7. Lunemoths&#10;8. Sally Chel &#10;9a. BeastyBby + Swift Willow Studios + @Raven + Akemi Vierra&#10;9b. muckrooms + sage-leaves + BeastyBby &#10;10. Ru End Fns_Hope&#10;11. Ru End Fns_Hope&#10;12. Pfini Productions&#10;13. Pfini Productions &#10;14. Riley &#10;15.  Riley&#10;16. Sparroet &#10;17. Vilatus &#10;18. Sparroet + Nettlefang&#10;19. KaraLaa &#10;20. Kimi Cook &#10;21. Tiger Light, LettuceBettuce, Akemi Viera, Gobboprotector&#10;Outro: stariitea&#10;&#10;CREDITS ANIMATIONS:&#10;Mayartmations&#10;GobboProtector&#10;@Galaxy Mew &#10;Lunemoths&#10;NightWolf&#10;Sprinting Snail Studios&#10;WoolHug&#10;Aces of Stars&#10;Broken&#10;Akemi Vierra"
     channel_title "Sparroet"
     channel_id "UCLpLjDFvGia8afDjJkRuy9w"
     fav_count 0
@@ -1776,7 +1776,7 @@ graph [
     step 0
     date "2021-10-31T20:00:12Z"
     title "[ TW ]  Hide N&#38;#39; Seek A Evil Tawnypaw AU MAP COMPLETE"
-    description "TRIGGER WARNING! This MAP contains graphic content, gore, animal death, corpses and skeletons, blood, spiders, bugs, ..."
+    description "TRIGGER WARNING! &#10;This MAP contains graphic content, gore, animal death, corpses and skeletons, blood, spiders, bugs, psychological horror, traumas, violence. It isn't recommended for people with less than 18 years or for the public who isn't confortable with this type of content.&#10;&#10;What Tawnypaw does here is bad. She is portrayed as a villain in this AU and her actions shouldn't serve as inspiration nor viewed as good.&#10;------------------------------------------------------------------------------------------------------------------&#10;&#10;After watching her father being exiled, her dear older brother getting killed and no one coming to help him, Tawnypaw can't have it anymore. She wants revenge from everyone who turned their backs on her and her family, specially the ones who she thinks are blamed for Swiftpaw's death and Tigerclaw's exile.&#10;__________________________________________________________________________&#10;&#10;&#10;&#10;WE DID IT!!! I CAN'T BELIEVE ON IT!&#10;My very first MAP is complete and is on Halloween! Thank you all for all the support! You guys are AMAZING! Everyone did an amazing job and everyone got their parts on time! That's amazing!&#10;&#10;Thank you all for the hard work! You guys are amazing! Specially thanks for my friends @SplashDreamms and @MANCHKIN! for helping me out with the editing! I owe you guys a lot!&#10;&#10;Be sure to give a lot of love and appreciation to the animators! They did an amazing job!&#10;List of participants: &#10;&#10;Intro. Marinin&#10;1. @Arillp Cela &#10;2. @Boofolin &#10;3. @Otta Lits &#10;4. @crispyyflake  + @Petalyxz + Marinin&#10;5. @mossysprout + @Pinktune0z &#10;6. @Martletwing  + WubbCrash (https://www.youtube.com/channel/UCZdC1qYUkAJn_tT5PBfYg-g/videos) &#10;7.  @MARSHII  + noytc (https://www.youtube.com/channel/UCilIuVl9kEixpExEbBoZcIQ/videos) + @Poppyseed &#10;8. @Demi m0n  + @&#33469;&#31958;Maltose &#10;9. @Chocobir &#10;10. @AvorenGryphon  + @Rice Rain  &#10;11. @ICEBUNN  +  &#9695;Hiiragi&#9693; (https://www.youtube.com/channel/UCxaz4Px_dIjlcOzNEBv_lVQ)&#10;12. @Clowder Origins  + @LunaTuna + @RivstarS &#10;13. @Pfini Productions &#10;14. @Smelly Trash Rat  + Flawiusz-Sama (https://www.youtube.com/c/MotakaboethKunREAL/videos)&#10;15. @melowon_Z &#10;16. @LP4ndora &#10;17. @Dark-yard &#10;18. @SplashDreamms + @Annywu + Marinin&#10;&#10;Thumbnail Winner: @Annywu &#10;Songs by Lizz Robinett : &#10;&#34;Hide and Seek&#34; (Vocaloid) English version : https://www.youtube.com/watch?v=G-YNNJIe2Vk&#10;BR&#10;&#34;Hide and Seek&#34; (Vocaloid) English ver by Lizz Robinett (@SARE Remix) https://youtu.be/2lS8vGybIR4&#10;&#10;Intro songs: https://www.youtube.com/watch?v=UuofG8a7EEk&#10;https://youtu.be/1n39pc8kHsc&#10;&#10;&#10;Characters by Erin Hunter&#10;Designs by me (Tawnypaw) and Nifty-senpai."
     channel_title "Marinin"
     channel_id "UCUxxesYVTzdhke0emiTDP_w"
     fav_count 0
@@ -1791,7 +1791,7 @@ graph [
     step 0
     date "2021-05-20T17:30:01Z"
     title "Attempting to roleplay in roblox&#38;#39;s fight cat simulator || Warrior Cats: Ultimate Edition"
-    description "I said I probably wouldn't do another WaCa: UE video but the last one did really well...? - Music &#34;Fuzzball Parade&#34; Kevin MacLeod ..."
+    description "I said I probably wouldn't do another WaCa: UE video but the last one did really well...?&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Fuzzball Parade&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -1806,7 +1806,7 @@ graph [
     step 0
     date "2022-04-01T19:00:09Z"
     title "The Warrior Cats Fan Dub April Fools Day"
-    description "THIS WAS SUCH A FUN PROJECT TO DO FOR APRIL FOOLS DAY. For those who are a bit confused: The Warrior Cats Fan Dub ..."
+    description "THIS WAS SUCH A FUN PROJECT TO DO FOR APRIL FOOLS DAY.&#10;For those who are a bit confused: The Warrior Cats Fan Dub Voice actors are tasked with 1 challenge for this video.&#10;Each vowel in a characters name is replaced with &#34;oob&#34;&#10;Ex. Bluestar changes to Blooboobstoobr&#10;Graypaw changes to Groobypoobw&#10;And our voice actors are only allowed 1 TAKE to get this done. Wish them luck.&#10;&#10;Artist for this video: GearUp &#10;&#10;Voices for this video:&#10;Voice Director: GearUp &#10;Narrator (Tempest): Tobias Fink (https://twitter.com/TheCopyKater)&#10;Narrator (Fox): Kirsty Depledge (https://twitter.com/kettlings?s=21)&#10;Firepaw/Rusty: Matt (https://twitter.com/EpicrockerTT)&#10;Fireheart: OccultCoyote (https://twitter.com/OccultCoyote)&#10;Tigerclaw: Grant (https://www.youtube.com/channel/UC__T4ql8NIlSdmf9tCrPu6A/featured)&#10;Bluestar: Sarah Prowell (https://twitter.com/SarahP_VO)&#10;Graystripe: Adrian (https://twitter.com/batenkaitosfan)&#10;Sandstorm: Jax (https://twitter.com/LittleJaxel)&#10;Ravenpaw: Islacreeper https://twitter.com/islavoiceacts?s=09&#10;Yellowfang: Monica Grace&#10;Cinderpelt: Tea (https://twitter.com/wisdom_t3a)&#10;Darkstripe: NKSerg (https://youtube.com/channel/UC7aAypXwy8pp0GIjmTT8Uaw)&#10;Longtail: TheKarsonist&#10;Mousefur: Blizzard https://twitter.com/BlizzardBrick&#10;Lionheart: Noah (https://twitter.com/TwitchSqueak)&#10;&#10;Script Writer:&#10;GearUp https://www.twitch.tv/gearup&#10;&#10;Voice Director: &#10;GearUp https://www.twitch.tv/gearup&#10;&#10;Editor: &#10;GearUp https://www.twitch.tv/gearup&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.com/invite/warriorcatsfandub&#10;https://www.patreon.com/WCDub&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -1821,7 +1821,7 @@ graph [
     step 0
     date "2022-04-02T15:00:04Z"
     title "If Warrior Cats Played Sports"
-    description "In this video you all drew art of some sporty Warrior Cats! Warriors Challenge Discord: https://discord.com/invite/W53Uw6F Talk ..."
+    description "In this video you all drew art of some sporty Warrior Cats!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Endo&#10;Background by Kyian&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1836,7 +1836,7 @@ graph [
     step 0
     date "2022-03-30T04:02:25Z"
     title "Warrior Cats Memes (Compilation #2)"
-    description "ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME IN ANY WAY WHATSOEVER. FULL CREDIT TO RIGHTFUL ARTISTS ..."
+    description "ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME IN ANY WAY WHATSOEVER. FULL CREDIT TO RIGHTFUL ARTISTS AND ANIMATORS. THIS VIDEO IS MEANT FOR ENTERTAINMENT PURPOSES&#10;&#10;Animation credit: (not in order) &#10;&#10;&#12539; bleachwaffle&#10;&#12539; itzdabouf&#10;&#12539; Artblock Studio &#10;&#12539; Klarikatt&#10;&#12539; CloudSplicer&#10;&#12539; Cold Rising &#10;&#12539; Sagutoyas&#10;&#12539; babygourd&#10;&#12539; sad machine&#10;&#12539; raywind&#10;&#12539; Northflowo&#10;&#12539; Blaze Animates &#10;&#12539; Jersokoi&#10;&#12539; Dragonfox Art&#10;&#12539; Chadisms&#10;&#12539; Space Sheep&#10;&#12539; Ignis Felis&#10;______________________________________&#10;&#10;Part 1: https://youtu.be/7PctmCRN2MQ&#10;&#10;(Part 1 is unlisted but probably wont be put back to public due to copyright reasons.) &#10;&#10;&#10;&#10;Part 3: https://youtu.be/UYiVtcena3c&#10;_____________________________________________&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.erarh"
     channel_title "FuZe Blitz"
     channel_id "UCb2YYmsB-qJMBaIJzE0DD2w"
     fav_count 0
@@ -1851,7 +1851,7 @@ graph [
     step 0
     date "2019-10-05T14:00:04Z"
     title "40 things WRONG with Warrior Cats (Parody)"
-    description "Warrior Cats isn't perfect. Constructive criticism is always useful, but this video has a different purpose. The cat art is by Missy ..."
+    description "Warrior Cats isn't perfect. Constructive criticism is always useful, but this video has a different purpose.&#10;&#10;The cat art is by Missy Dakota!&#10;Her Patreon: https://www.patreon.com/MissyDakota&#10;Her DeviantArt: https://www.deviantart.com/missydakota&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw&#10;Talk sprites by Gee: https://twitter.com/Gee_lly&#10;&#10;Cat roomba vid: https://youtu.be/SajTWY9a0e0"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1866,7 +1866,7 @@ graph [
     step 0
     date "2021-12-26T00:30:14Z"
     title "&#10052;&#65039; What&#38;#39;s a Soulmate &#10052;&#65039; Warrior Cats, Mothwing and Frostpaw COMPLETE CHRISTMAS MAP &#127876;"
-    description "If u have the chance can you help share this map? :'DD Youtube as been playing with my face recently, and not sharing my videos ..."
+    description "If u have the chance can you help share this map? :'DD Youtube as been playing with my face recently, and not sharing my videos, so even a like helps a lot! Means a lot to me!&#10;&#10;HAPPY HOLLIDAYS EVERYONE! AND ITS HERE! I'M SO HAPPY WITH THE RESULT, REMEMBER TO WATCH UNTIL THE END BECAUSE THERE'S A LITTLE SURPRISE! &#10084;&#65039;&#10;-----&#10;Note: Premiere have chance to be delayed&#10;CHECK THE CHRISTMAS PLAYLIST MARATHON HERE: https://youtube.com/playlist?list=PLD-9CjYt_7tW2Zz8-DEHULmWC2xWbtGoS&#10;&#10;&#10052;&#65039; || ABOUT&#10;I was going to use this song for Firestar about Graystripe, but then i realized it already had a map with that version so i picked Mothwing and our new and first Riverclan protagonist Frostpaw! I've no ideia how is her personality and how their relationship will be, so in this &#34;AU&#34; Frostpaw is pretty clumsy what make Mothwing remember a bit about herself when she started to be a Med Cat, then Mothwing give tips and advice to Frostpaw using her soulmate (aka Leafpool) as example about how Leafpool helped/believed in her.&#10;In the second half, Mothwing go let some flowers in Leafpool's tomb, what she don't expect Frostpaw was following her.&#10;&#10;&#10052;&#65039; || ANIMATORS LIST / TIMESTAMP || &#10052;&#65039;&#10;00:00 @Marinin &#10;00:04 @LunaRainbow 152 &#10;00:08 @LP4ndora &#10;00:13 maggotfluid&#10;00:18 @archerforest Laertive&#10;00:27 Owltrix&#10;00:33 @Swapless Dubs  &#10;00:40 @tootall buggy &#10;00:46 @Ru End Fns_Hope &#10;00:49 Moonhailco&#10;00:53 CaptainCuttlefish&#10;01:01 LemonswithLife @River Fox &#10;01:06 @outsock Nightfree&#10;01:10 @Jayadwal &#10;01:16 @WolfHarmony @Art With MB @RachelAlexanDraws &#10;01:17 @WolfHarmony @Tiny Winy @RachelAlexanDraws &#10;01:20 @WolfHarmony Ratsy @Art With MB @Demi m0n @SplashDreamms c0nuree&#10;01:23 @Tiny Winy @GreatSylveon 2007 &#10;01:28 @Pinktune0z&#10;&#10;SECOND PART || &#10052;&#65039;&#10;01:34 doll draws&#10;01:39 @Otterey Ikana Hairitto&#10;01:43 @Jaytail Nightfree @CL0UD 324 &#10;01:47 @Oviraptorss &#10;01:51 Bright Moon&#10;01:56 @SplashDreamms skyzthelimit Will&#248;w @Art With MB &#10;02:01 @Dr. za 41 &#10;02:06 @Nebula Animates &#10;02:10 Luar&#10;02:15 @Gildedware (aka GildedPhD) &#10;02:19 @RosePocky &#10;02:23 Pogostickz @yaartzzuwu &#10;02:27 @Annywu &#10;02:32 anonx&#10;02:36 @Toxic Catron &#10;02:40 @lindor cat&#10;02:45 Ninnoibat @Otterey  &#10;02:50 @&#8226; Astronomia &#8226; &#8226; LouiesBox &#8226;&#10;02:53 In-Town&#10;02:57 @yaartzzuwu &#10;03:01 xlianyx @Otterey &#10;03:04 @Otterey &#10;03:06 @Arwie Nivryz&#10;03:12 Tater Tot&#10;03:16 storkprince Llriftenn @Gildedware (aka GildedPhD) &#10;03:22 @Oviraptorss berrybovine&#10;&#10;03:38 CREDITS&#10;04:45 VINES&#10;&#10;&#10052;&#65039; || DETAILS&#10;MAP CALL: https://youtu.be/63xAQ_c_0ac&#10;Playlist with Complete Parts+Extra Arts: https://youtube.com/playlist?list=PLD-9CjYt_7tXV5YtEZlV7auGhA0ClVnDQ (PLEASE SUPPORT THE ARTISTS)&#10;Thumbnail Winner: @Kaiira  (thank you everyone for all entries and fanarts!!)&#10;Character is from Erin Hunter's series Warriors Cats, and Designs by @Nifty-Senpai @stariitea &#10;Credits art by @Demi m0n &#10;Song: Dawson's Creek - What's a soulmate?"
     channel_title "SplashDreamms"
     channel_id "UC1klWasU7tnfIehKifhShWA"
     fav_count 0
@@ -1881,7 +1881,7 @@ graph [
     step 0
     date "2021-02-24T17:00:07Z"
     title "What order do I read Warrior Cats in?"
-    description "Warrior Cats has a confusing amount of books. It's time I make a video explaining what order to read them in. My Patreon: ..."
+    description "Warrior Cats has a confusing amount of books. It's time I make a video explaining what order to read them in.&#10;&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -1896,7 +1896,7 @@ graph [
     step 0
     date "2020-11-16T20:00:02Z"
     title "Jayfeather Plays Among Us | Warrior Cats Voice Actors Play &#38;quot;Among Us&#38;quot; In Character"
-    description "Our Warriors voice acted audio book series: https://www.youtube.com/playlist?list=PLnQ9NnikeS61Z3hNjZ58kCSo4vMYZkGiG ..."
+    description "Our Warriors voice acted audio book series: https://www.youtube.com/playlist?list=PLnQ9NnikeS61Z3hNjZ58kCSo4vMYZkGiG&#10;&#10;Thumbnail art: https://www.instagram.com/thelastunicorninoz/&#10;&#10;This was a fun 'character' experiment we conducted with a lot of our voice actors to be more in tune with who we play as in the series! We hope you enjoy our version of absolute chaos in Among Us. BIG THANKS TO ALL OUR VA'S FOR PARTICIPATING! WE LOVED DOING THIS. &#10;&#10;Be sure to check out our audio book! We produce chapters for the Warriors Series that are FULLY voice acted!&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.gg/XCHEFyv&#10;&#10;Our art team is killing it with these images too:&#10;(All @'s are for twitter)&#10;&#10;@Elustraded_&#10;@lastunicorninoz&#10;@softkittiesss&#10;@SmolWolfee&#10;@Kettlings&#10;@BlizzardBrick&#10;@amanyamz&#10;@Kaseypaws&#10;@danfan332&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -1911,7 +1911,7 @@ graph [
     step 0
     date "2017-12-18T14:41:14Z"
     title "&#8226;Warriors cat&#8226;~Counting stars"
-    description "1.https://www.youtube.com/watch?v=OGSYwi-dpd0 2.https://www.youtube.com/watch?v=RURklPvMvNA ..."
+    description "1.https://www.youtube.com/watch?v=OGSYwi-dpd0&#10;2.https://www.youtube.com/watch?v=RURklPvMvNA&#10;3.https://www.youtube.com/watch?v=yth3b_OkmGs&#10;4.https://www.youtube.com/watch?v=doDiKvh8TME&#10;5.https://www.youtube.com/watch?v=ISuygUoRf24&#10;6.https://www.youtube.com/watch?v=xC0hkDFVG-A&#10;7.https://www.youtube.com/watch?v=KtKHoAn_Q3g&#10;8.https://www.youtube.com/watch?v=peVu7uACXCY&#10;9.https://www.youtube.com/watch?v=M3Ugq_shDKo&#10;10.https://www.youtube.com/watch?v=E6FCtW-ij8A&#10;11.https://www.youtube.com/watch?v=JnX7zsfV4dI&#10;12.https://www.youtube.com/watch?v=CWAYKJjM0ZA&#10;13.https://www.youtube.com/watch?v=kLCoEY4dwzs&#10;14.https://www.youtube.com/watch?v=f_zaYGwtyYw&#10;15.https://www.youtube.com/watch?v=MbZL_6gL17U&#10;16.https://www.youtube.com/watch?v=elwkNmDU9ko&#10;17.https://www.youtube.com/watch?v=GzNGtFokmik&#10;18.https://www.youtube.com/watch?v=u3PQgktNiYw"
     channel_title "Broken Heart"
     channel_id "UCI58enIfOIc_wl9jd4I97hA"
     fav_count 0
@@ -1926,7 +1926,7 @@ graph [
     step 0
     date "2021-09-25T19:15:10Z"
     title "PIRATE SCOURGE [Complete Weekend pirate themed Warrior&#38;#39;s MAP]"
-    description "Check out ways to support Pacific Islanders! https://ko-fi.com/vampire https://www.greengrants.org/ https://stopaapihate.org/ This ..."
+    description "Check out ways to support Pacific Islanders!&#10;https://ko-fi.com/vampire&#10;https://www.greengrants.org/&#10;https://stopaapihate.org/&#10;&#10;This M.A.P (Multi Animator Project) is about a young cat called Ravenpaw with a passion for lizards and pursuit for revenge. After spending a day exploring with his friends Firepaw and Graypaw, Ravenpaw finds himself chasing a baby iguana straight into a murder scene. After witnessing the cruelty, Ravenpaw realizes he must leave his clan to avoid becoming the murder, Tigerstar's, next victim. He reveals what he saw to his friends and leaves to join Barley who lives on a boat that comes by yearly.  But things turn for the worse when Ravenpaw is stopped in his tracks by none other than Tigerstar. Barley awaits on his boat for hours but sees no sign of Ravenpaw. Ravenpaw reappears bloodied and left for dead by Tigerstar but all hope is lost when he realizes that he's missed the boat. Ravenpaw returns to the forest but finds courage in himself through his passion for lizards and reptiles. With this newfound courage Ravenpaw becomes Pirate Scourge and with a desire for revenge. &#10;&#10;Pirate Scourge was a huge passion project of mine and on top of that really ambitious with it's unique storyline, pirate theme, and most of all, lizards. I'm your average lizard enjoyer and I'm so glad I got to share my interest for them through this MAP! &#10;&#10;SONG: Ocean Breathes Salty by Modest Mouse https://open.spotify.com/track/4ToYlykhwpW98KtMIGnWQK?si=78a41326854943d4&#10;END CREDITS SONG: Float On by Modest Mouse &#10;https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R?si=d1e0699d238445a1&#10;&#10;MAP part playlist: https://www.youtube.com/playlist?list=PLbSyL5k7nLJgVA3bIrBCCsQ1P9xvYJ7Gq&#10;&#10;ORGINAL SCRIPT: https://docs.google.com/document/d/1Pi3fR3GZK22SVEppSX_A-eteeKrTDuA1RR4BqBoYbI0/edit&#10;STORYBOARD: https://www.youtube.com/watch?v=ZWXs56nkhv8&#10;Thumbnail entries: https://docs.google.com/document/d/1GBqnQnK9lwiZXcEBV8J6ScO1JEEdEGK4Yfc0yo5YKkY/edit?usp=sharing&#10;Why was the design changed?: https://docs.google.com/document/d/1_q7nRkAylTsb_jCmwI3UgI8w6pRcR-v_5YoaUacjxLE/edit?usp=sharing&#10;&#10;--PARTICIPANTS--&#10; Intro: CheetehZ + KuroFennek&#10; 1: relli&#10; 2: Pandaa + CheetehZ&#10; 3: Crispytoes&#10; 4: OFUKITTY&#10; 5: Sqwid + CheetehZ&#10; 6: raevei&#10; 7: GiingerSnaps&#10; 8: bunnycat&#10; 9a: Treeetooop + Scoutnmave&#10; 9b: 64png + Sear&#10; 10: Keby&#10; 11: Keby&#10; 12: ursiday&#10; 13:  Askila Deamon + Avery Quinn &#10; 14: Softmoon&#10; 15: EphemeralMoth + CustradCrev&#10; 16: Kelpie Calamity&#10; 17: Riin&#10; 18: ScooterScones + Eqqnoq&#10; 19: darkpurplx&#10; 20: Marinin + Duskfall&#10; 21: Aspen Shadow&#10; 22: SolarSparky&#10; 23: CheetehZ&#10; 24: Ashtrall + KuroFennek + Peacat&#10; 25: Jaytail&#10; 26: QuirKrash &#8216;&#10; 27: Chocobir&#10; 28:  Sparroet&#10; 29: Louixie&#10; 30: Osinka&#10; 31: Senswii + moeseph + raevei&#10; 32: CheetehZ&#10; 33: Eqqnoq&#10; 34: DirtyNoodles&#10; 35: Scoutnmave &#10; 36: Scoutnmave + crowla&#10; 37: LunarTempest + Redbear + Cerkowah + FISHSOCKS&#10; 38: Sagutoyas&#10; 39: melowon_Z&#10; Finale:  Marley MothBard + Nauro + CheetehZ + Owlipoppen + Icefelis&#10;&#10; -1: JeanAkratt&#10; -2: coffeely + mossysprout&#10; -3: avorengryphon&#10; -4: Shenkkazoo&#10; -5: Kalublah&#10;&#10;Thumbnail Winner: pyrocarcajou&#10;&#10;Pirate Scourge &#34;Captain LOOK!&#34;: Kalublah&#10;&#10;___&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Cheeteh Z"
     channel_id "UC_UNiqVULw1l7m5q9Z43o1A"
     fav_count 0
@@ -1941,7 +1941,7 @@ graph [
     step 0
     date "2021-08-14T15:00:37Z"
     title "What if Warrior Cats had realistic cat genetics?"
-    description "Don't worry, I'm not turning into a warrior cats channel, I just hyper focused on this and decided to post it since I already put so ..."
+    description "Don&#8217;t worry, I&#8217;m not turning into a warrior cats channel, I just hyper focused on this and decided to post it since I already put so much work into it so here we go. Yay, content. &#10;&#10;I don&#8217;t know a lot of stuff about specific breeds of cats, but I know the natural genetics that would happen in the wild. What was your favorite/least favorite realistic design? :D"
     channel_title "KiwiQueen 13"
     channel_id "UCcZYDZSqXKDLzPr0Wwpuw1w"
     fav_count 0
@@ -1956,7 +1956,7 @@ graph [
     step 0
     date "2020-07-22T16:00:16Z"
     title "Here I Am [COMPLETE Brambleclaw MAP]"
-    description "This MAP follows Brambleclaw on his journey of discovering what 'family' means to him. It's here and I love the finished MAP so ..."
+    description "This MAP follows Brambleclaw on his journey of discovering what 'family' means to him. &#10;&#10;It's here and I love the finished MAP so much! I'm so very very proud of everyone who participated, this turned out better than I even imagined thanks to their passion for the project. It was a real delight to host this with one of my best friends and get to work with so many people - some are artists I've looked up to greatly and others are new to the community and already pack such a punch. Please be sure to check all of them out and subscribe!&#10;&#10;Co-host: @Selket &#10;1:  @Skrapple  &#10;2: Neytherm https://www.youtube.com/channel/UC6WK03P2bRIKlaOYfuudONg&#10;3: @Stem Ginger &#10;4: Kestrl https://www.youtube.com/channel/UCdTbPg8NO8B6_B98TR8lV-Q&#10;5. pokefan1241 https://www.youtube.com/channel/UCKbSJnHa0OSe01JKyG8mDMw&#10;6. Keby &#38; Selket &#10;7. @Cold Rising &#10;8. @Tastyeggos &#10;9. @ursiday &#10;10.  @Finchwing   &#10;11. @bleachwaffle @MidnightThunder &#10;12. @Lunartic Firefly &#10;13. @Buckeera &#10;14. Easel Ear https://www.youtube.com/channel/UCNVbrwU37bRIJDdZI1SujFg&#10;15. @Sagutoyas &#10;16. @SEGAmastergirl  &#10;17. @EphemeralMoth &#10;18. @sad machine &#10;19. frosted.mango https://www.youtube.com/user/silverstarmistclan&#10;20. @Turrkoise &#10;21.  @Nightrizer Selket&#10;22. Costello Cat https://www.youtube.com/channel/UCXNuZ0gn02Jy_8E63mvFbNw&#10;23. Sidesteph https://www.youtube.com/channel/UCFaVKLLDYUuFHGQ7fsXeseg&#10;24. @HarvestBrook &#10;25. Iblis https://www.youtube.com/channel/UCuwMQ0FDYsclu0UAt865VnQ&#10;26. @Ottie &#10;Thumbnal by @Mudshadow &#10;Main designs by @Keby (Lynxspots) , additional designs by @GEKKOZILLA &#10;&#10;Based on the Warrior Cats books by Erin Hunter.&#10;&#10;&#9473;&#9473;&#9473;&#8729;&#9675;&#8729;&#9788;&#8729;&#9675;&#8729;&#9473;&#9473;&#9473;&#9473;&#10;&#10;Thank you so much to my supporters on Patreon for funding my creative work. &#9829; Consider supporting me there to gain access to tutorials, exclusive content and to see my work before anyone else!&#10; &#10;&#127811; PATREON: https://www.patreon.com/m/Lynxspots&#10;&#10;&#9473;&#9473;&#9473;&#8729;&#9675;&#8729;&#9788;&#8729;&#9675;&#8729;&#9473;&#9473;&#9473;&#9473;&#10;&#10;New to my channel? Hello! My name is Keilidh but I'm more commonly known as Keby or Lynxspots around the web. I'm a Scottish animator and published author, best known for directing the viral short film 'Fox Fires' - a British Animation Awards nominee that you can watch right here on YouTube! https://www.youtube.com/watch?v=sN5goxeTfjc&#38;t=1s&#10;&#10;&#9473;&#9473;&#9473;&#8729;&#9675;&#8729;&#9788;&#8729;&#9675;&#8729;&#9473;&#9473;&#9473;&#9473;&#10;&#10;Let's keep in touch! &#10;&#10;&#127811;DISCORD (13+): https://discord.com/invite/aJWC8fb5kz&#10;&#127811;TWITTER: https://twitter.com/lynxspots&#10;&#127811;INSTAGRAM: https://www.instagram.com/lynxspots/&#10;&#127811;TUMBLR: https://lynxspots.tumblr.com/&#10;&#10;&#9473;&#9473;&#9473;&#8729;&#9675;&#8729;&#9788;&#8729;&#9675;&#8729;&#9473;&#9473;&#9473;&#9473;&#10;&#10;Thank you for watching!"
     channel_title "Keby (Lynxspots)"
     channel_id "UCvbx4EpkEIvmslhxpQJjCtg"
     fav_count 0
@@ -1971,7 +1971,7 @@ graph [
     step 0
     date "2022-04-10T00:40:04Z"
     title "me or the ps5 meme - warrior cats animation"
-    description "i couldn't get it out of my mind it's literally them made with clip studio paint #hawkfrost #brambleclaw #squirelflight #warriorcats."
+    description "i couldn't get it out of my mind it's literally them&#10;&#10;made with clip studio paint&#10;&#10;#hawkfrost #brambleclaw #squirelflight #warriorcats"
     channel_title "Sadie Gleason"
     channel_id "UCsTzqqSTbLzQid0WoJJuyew"
     fav_count 0
@@ -1986,7 +1986,7 @@ graph [
     step 0
     date "2022-03-20T21:34:40Z"
     title "&#128032; FOX ATTACKS RIVERCLAN &#38;amp; Roleplaying with Fans! |Warrior Cats: Ultimate Edition"
-    description "Hi Sunnies! Today, I attempt to roleplay again in warrior cats: ultimate edition using the brand new new leaf update!! It was so ..."
+    description "Hi Sunnies! Today, I attempt to roleplay again in warrior cats: ultimate edition using the brand new new leaf update!! It was so much fun, especially when my fans started joining the game! Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord and Tumblr! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and I'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D Also, subscribe and like the video if you enjoyed it! &#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;My Tumblr Accounts: https://customwof.tumblr.com/ &#38; https://sunnydusty.tumblr.com/&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #Roleplaying #Roblox"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -2001,7 +2001,7 @@ graph [
     step 0
     date "2021-12-25T20:00:12Z"
     title "BRAMBLEFUR [Complete 2 week Ashfur Warrior&#38;#39;s MAP]"
-    description "This video contains graphic implications of animal death, animal skinning, abuse, and creepy/unsettling themes!!! This AU is ..."
+    description "!!!This video contains graphic implications of animal death, animal skinning, abuse, and creepy/unsettling themes!!!&#10;&#10;This AU is called Bramblefur because Ashfur is obsessed with becoming Brambleclaw! Ashfur thinks that if he can look like Brambleclaw that Squirrelflight will love him. So he changes his name to Bramblefur and his hairstyle to look like Brambleclaw's but looking like Brambleclaw isn't enough.. he has to BE Brambleclaw.&#10;&#10;SONG: Fire by That Handsome Devil https://www.youtube.com/watch?v=bD9Mc8golVE&#10;END CREDITS SONG: Bare by That Handsome Devil https://www.youtube.com/watch?v=Bw5BlJd0tdY&#10;&#10;MAP part playlist: https://www.youtube.com/playlist?list=PLbSyL5k7nLJj9zjmQhE_4vgZYrPl7ErFk&#10;&#10;ORGINAL SCRIPT: https://docs.google.com/document/d/1mkNoVMaqLK_hpWw0L2mnwygib1r0m7Zn-18CoPD6Gik/edit&#10;STORYBOARD: https://www.youtube.com/watch?v=m7yjfxTBdLQ&#10;Thumbnail entries: https://docs.google.com/document/d/1kUdPjS_wSL_YsM4MWl56XjUDSd99fm2TXQwwsLTdjf4/edit?usp=sharing&#10;&#10;&#10;--PARTICIPANTS--&#10;Intro: CheetehZ + MintzyLeevez&#10;1: Cameron Collar&#10;2: Sparroet + Galaxymew&#10;3: Northern Red&#10;4: Bregottski + owlipoppen&#10;5: HJ7 &#10;6: Finchwing&#10;7: LunarTempest + Redbear + FISHSOCKS + Cerkowah&#10;8: Shenkkazoo&#10;9: Cameron Collar + Sparroet + KristalKarma&#10;10a: Sqwid + CheetehZ + kittlet&#10;10b: Owlipoppen + Eqqnoq + KristalKarma&#10;11a: Pandaa + CheetehZ&#10;11b: melowon_z&#10;12:  SolarSparky + Nauro + Cante Skuya + Sparroet + Galaxymew&#10;13: Luyeshin + DaveThyQueen&#10;14: Aspen Shadow&#10;15: Sagutoyas&#10;16: Jaytail + lulucky&#10;17: Starcheopteryx&#10;18: peacat + bregottski + relli + CheetehZ&#10;19: CrunchyCrowe + Galaxymew&#10;20: Kalublah Art&#10;21: Dark-yard&#10;22: relli&#10;23: VYRITE + Thunder Streak + Theoncomingsnail&#10;24: CheetehZ &#10;25: raevei + bregottski + CheetehZ + Kalublah Art&#10;26: roseshards&#10;27a: GiingerSnaps + CheetehZ&#10;27b: Cante Skuya&#10;28: darkpurplx&#10;29: CustradCrev + EphemeralMoth&#10;30: Chikki &#10;31: Nettlefang &#10;32a: Kelpie Calamity&#10;32b: Kelpie Calamity + Sparroet + Galaxymew&#10;33: DirtyNoodles&#10;34: flecks&#10;35: mossysprout + Eqqnoq&#10;Finale: bread cat&#10;Closing: Loporidae&#10;Teaser: Sundyr + elqato + ScooterScones + avorengryphon + CheetehZ&#10;&#10;&#10;Thumbnail Winner: Ronbenapping&#10;___&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Cheeteh Z"
     channel_id "UC_UNiqVULw1l7m5q9Z43o1A"
     fav_count 0
@@ -2016,7 +2016,7 @@ graph [
     step 0
     date "2022-07-01T16:00:01Z"
     title "WCAnimated Casting Call RESULTS (Round 2) - Warriors: Into the Wild"
-    description "At last, the results of our second casting call! With over 2000 auditions, this casting call was a huge success. Thank you for your ..."
+    description "At last, the results of our second casting call! With over 2,000 auditions, this casting call was a huge success. Thank you for your patience as we reviewed all submissions. We couldn't do it without each and every one of you. Thank you. &#10;&#10;If you didn't get a role this time, don't worry! There will be many more chances!&#10;&#10;Please support our incredibly talented cast:&#10;&#10;WHITESTORM&#10;MacLeod Andrews (https://twitter.com/MacLeodAndrews)&#10;&#10;LONGTAIL&#10;Jordan Harshaw (@grindor32)&#10;&#10;RAVENPAW&#10;Connor Bushoven (https://instagram.com/cbushoven)&#10;&#10;TIGERCLAW&#10;Kevin Urban (https://twitter.com/KUrbzVO)&#10;&#10;SANDPAW&#10;Loganne Digma (https://twitter.com/loganne_digma)&#10;&#10;DUSTPAW&#10;Ryan Hoyle (https://twitter.com/hoyleryan)&#10;&#10;YELLOWFANG&#10;Sarah Ruth Thomas (https://twitter.com/SarahRuthVoice)&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;WCAnimated is a fan-made project seeking to adapt Erin Hunter&#8217;s bestselling WARRIORS books into an animated web series. Our team is made up of over 100 artists working to bring this series to life!&#10;&#10;For more information and content:&#10;Carrd - https://wcanimated.carrd.co&#10;Instagram - https://www.instagram.com/wcanimated&#10;Twitter - https://twitter.com/wcanimated&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Interested in supporting our project further? Consider subscribing to our Patreon, where you can join our exclusive Discord server and earn amazing rewards starting at just $5 a month! &#10;This video was made available early for our Patrons. Subscribe for exclusive content and early access!&#10;&#10;https://www.patreon.com/wcanimated&#10;&#10;Money will go to help our team get proper programs and resources for their work on the project and any extra funds will go to nonprofit/charity organizations!&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;C R E D I T S&#10;Directed by&#10;Jupiter (@flamingjup)&#10;Tune (@Showtune Cockatoo)&#10;&#10;Additional Art Direction by&#10;King (@King Cabbage)&#10;Mariah (@mariah.tekulve)&#10;Pomi (@ppomibe)&#10;Neko (@petuniabubbles)&#10;&#10;Character Art by&#10;Gothfrog (@Gothfrog)&#10;Silverxtreeem ( @SilverXtreeem  ) &#10;Outkorp (@Outkorp)&#10;Mel (@HulluMel B.)&#10;King (@King Cabbage)&#10;FireTheWolf ( @FireTheWolf)&#10;Mariah (@mariah.tekulve)&#10;Ehnala (@Ehnala)&#10;ZuleDraws (@Zuledraws)&#10;Sundyr (@Sundyr)&#10;&#10;Background by&#10;Pomi (@ppomibe)&#10;&#10;Sound Mixing by&#10;Shiro (@Shirokishi) &#10;&#10;Editing &#38; Compositing by&#10;Neko (@petuniabubbles)"
     channel_title "WCAnimated"
     channel_id "UC6_KPxw3Bpc2pGXVrhx8tNQ"
     fav_count 0
@@ -2031,7 +2031,7 @@ graph [
     step 0
     date "2020-12-29T08:58:09Z"
     title "Warrior Cats: The Prophecies Begin: The Movie (so far)"
-    description "This movie is Into the Wild and Fire and Ice of Warrior Cats: The Prophecies Begin arc - it will be continued with Forest of Secrets, ..."
+    description "This movie is Into the Wild and Fire and Ice of Warrior Cats: The Prophecies Begin arc - it will be continued with Forest of Secrets, Rising Storm, A Dangerous Path and The Darkest Hour as I make those episodes into movies! Enjoy what we've accomplished so far, we started in August of 2016!"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -2046,7 +2046,7 @@ graph [
     step 0
     date "2018-11-10T21:56:09Z"
     title "My Dad GUESSES Warrior Cats! [Episode 2]"
-    description "The second episode of the new series where I force real-life people to guess these fighting felines. ______ Patreon ..."
+    description "The second episode of the new series where I force real-life people to guess these fighting felines.&#10;__________&#10;&#10;Patreon &#8594; https://www.patreon.com/Blixemi&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;&#10;_________&#10;&#10;Thanks for watching!!~"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -2061,7 +2061,7 @@ graph [
     step 0
     date "2022-03-16T22:57:39Z"
     title "&#127807; NEW LEAF UPDATE! NEW EMOTES + ANIMATIONS &#38;amp; MORE! |Warrior Cats: Ultimate Edition"
-    description "Hi Sunnies! NEW LEAF UPDATE IS HERE! I show you the new emotes, the new animations, and new coloring! Let me know what ..."
+    description "Hi Sunnies! NEW LEAF UPDATE IS HERE! I show you the new emotes, the new animations, and new coloring! Let me know what you think of this NEW UPDATE! YAY!  Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D Also, subscribe and like the video if you enjoyed it! &#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;My Tumblr Accounts: https://customwof.tumblr.com/ &#38; https://sunnydusty.tumblr.com/&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #Newleaf #Newleafupdate #warriorcatsultimateedition"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -2076,7 +2076,7 @@ graph [
     step 0
     date "2020-10-18T22:15:25Z"
     title "Running with the wolves//warrior cat animator tribute"
-    description "Running with the wolves animator tribute. I hope everyone enjoyed it. Please to subscribe to all the animators Here's a playlists of ..."
+    description "Running with the wolves animator tribute. I hope everyone enjoyed it. &#10;&#10;Please to subscribe to all the animators&#10;Here&#8217;s a playlists of all of them (in order)&#10;&#10;https://www.youtube.com/playlist?list=PLv3PrAhbm-IDmwHqGzDZ0UD-lh9st8SBT&#10;&#10;&#10;If your in this and don&#8217;t want to be, please tell me, I&#8217;ll take down the video."
     channel_title "Squidbrain all the way"
     channel_id "UCxHh549ve8ItIDmN9d3VPvQ"
     fav_count 0
@@ -2091,7 +2091,7 @@ graph [
     step 0
     date "2022-01-27T15:16:12Z"
     title "Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022 - july Warrior Cats Codes 2022"
-    description "Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022 - july Warrior Cats Codes 2022 Keywords --- warrior cats,warrior cats ..."
+    description "Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022 - july Warrior Cats Codes 2022&#10;&#10;Keywords ---&#10;warrior cats,warrior cats ultimate edition,roblox warrior cats ultimate edition,roblox warrior cats,warrior cats ultimate edition roblox,warrior cats roblox,warrior cats ultimate edition codes,codes for warrior cats,roblox warrior cats codes,codes for warrior cats ultimate edition 2022,wcue codes 2022,warrior cat codes,warrior cats ultimate edition roblox codes,warrior cat codes 2022,warrior cats codes roblox 2022,roblox warrior cats ultimate,wcue codes,warrior cats jul new codes"
     channel_title "Papa-Helper"
     channel_id "UCDmGZfDe-OE_1kKa2uaOHnA"
     fav_count 0
@@ -2106,7 +2106,7 @@ graph [
     step 0
     date "2019-07-13T14:00:10Z"
     title "Warrior Cats on Opposite Day"
-    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed. What would happen to the ..."
+    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed.&#10;&#10;What would happen to the Warrior Cats characters if it was Opposite Day? These amazing submissions from you guys give us the answers!&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw&#10;Talk Sprites by Gee: https://twitter.com/Gee_lly"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2121,7 +2121,7 @@ graph [
     step 0
     date "2022-04-06T11:03:12Z"
     title "Your Own Guide To WCUE Glitches || !! READ DISC !! || Warrior Cat Ultimate Edition"
-    description "Go check out our Roblox group!! Link: https://web.roblox.com/groups/14442690/The-Glitching-Sewer-Rats#!/about Go follow ..."
+    description "Go check out our Roblox group!! Link: https://web.roblox.com/groups/14442690/The-Glitching-Sewer-Rats#!/about&#10;&#10;Go follow 0nly_IrishPotato on Roblox&#10;&#10;If you want to see a part 2 make sure to like and subscribe!&#10;&#10;I hope you all enjoy, because this took three days to edit ALONE &#128514;&#10;&#10;I am very sorry for the typo at 10:01 its suppose to say &#34;by&#34; not &#34;my&#34; xD &#10;&#10;&#10;~{Credits}~&#10;Director: Me :P&#10;Camera person: Me :P&#10;Person One: Me :P&#10;Person Two: 0nly_IrishPotato&#10;Editor: Me :P"
     channel_title "Anabelle DeCarolis"
     channel_id "UCOF6X7qg-NJ5hQP2UVrm9DQ"
     fav_count 0
@@ -2136,7 +2136,7 @@ graph [
     step 0
     date "2021-09-13T12:00:21Z"
     title "Being the leader is... Kinda boring, actually || Warrior Cats: Ultimate Edition"
-    description "So much more (still kinda boring) stuff happened here than what I showed but I'm a dingus who forgot to SPEAK for long stretches ..."
+    description "So much more (still kinda boring) stuff happened here than what I showed but I'm a dingus who forgot to SPEAK for long stretches of time.&#10;&#10;-&#10;&#10;Music&#10;&#34;Wholesome&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -2151,7 +2151,7 @@ graph [
     step 0
     date "2022-07-07T04:47:14Z"
     title "warrior cats: ultimate edition is flawless (roblox)"
-    description "i am aware these issues are the roblox engine and not the game itself game: ..."
+    description "i am aware these issues are the roblox engine and not the game itself&#10;game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;&#10;music:&#10;Kevin MacLeod - Music To Delight"
     channel_title "mellowbear"
     channel_id "UCeUHBzKqj0X5NBFeyBPM9Rw"
     fav_count 0
@@ -2166,7 +2166,7 @@ graph [
     step 0
     date "2022-06-15T16:00:22Z"
     title "What if CROWFEATHER x FEATHERTAIL had kittens?! &#128049;&#128149;&#128049; Warrior Cats: Kittens Spin-Offs!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob Warrior ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;We're back in the Sims 4: Cats &#38; Dogs LaBARKatory mixing and matching all manner of animals! Join Seri the Pixel Biologist as we dive into another pixel biology experiment!&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#thurshpelt&#10;#bluestar&#10;#warriorcats"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -2196,7 +2196,7 @@ graph [
     step 0
     date "2021-11-25T13:00:18Z"
     title "A warrior rejects the soft life of a kittypet || Warrior Cats: Ultimate Edition"
-    description "This video was recorded, like, 2 months ago. oops. - Music &#34;Rainbows&#34; Kevin MacLeod (incompetech.com) Licensed under ..."
+    description "This video was recorded, like, 2 months ago. oops.&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Rainbows&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/&#10;&#10;&#34;Spellbound&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -2211,7 +2211,7 @@ graph [
     step 0
     date "2022-06-07T20:32:30Z"
     title "My theories on A Starless Clan | Warrior Cats Discussion"
-    description "Hello, sorry for being away so long, this video took a really long time to make, and I had to start over my editing 2 times! But now ..."
+    description "Hello, sorry for being away so long, this video took a really long time to make, and I had to start over my editing 2 times! But now this video is out and really hope you enjoyed it.&#10;&#10;This is listening-friendly by the way, so you can just listen if you want to while doing other stuff!&#10;&#10;That&#8217;s all, bye!"
     channel_title "Mintystem"
     channel_id "UC8IAlrgYZ6E_4VCv7O0y4Qw"
     fav_count 0
@@ -2226,7 +2226,7 @@ graph [
     step 0
     date "2021-07-29T12:00:35Z"
     title "Kits for ShadowClan || Warrior Cats: Ultimate Edition"
-    description "Wherein I attempt to build ShadowClan from the kits up. - Music &#34;Cut and Run&#34; Kevin MacLeod (incompetech.com) Licensed ..."
+    description "Wherein I attempt to build ShadowClan from the kits up.&#10;&#10;-&#10;&#10;Music&#10;&#34;Cut and Run&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -2241,7 +2241,7 @@ graph [
     step 0
     date "2022-06-09T02:42:59Z"
     title "Warrior Cats Facts! Part 2!"
-    description "After the long wait of about 9 months, I finally present to you, Warrior Cats Facts Part 2!! I am hoping that my next video will be out ..."
+    description "After the long wait of about 9 months, I finally present to you, Warrior Cats Facts Part 2!! I am hoping that my next video will be out way sooner than last time. This one is quite short, but I didn&#8217;t want to make it longer and make you wait more, so I am just posting it now and making Part 3 soon. I will also be posting my head cannons and my confessions!&#10;If you have any video suggestions comment down below!!"
     channel_title "Kestrelslip"
     channel_id "UCtZP1jAx6G3P_bqTfRW5CqQ"
     fav_count 0
@@ -2256,7 +2256,7 @@ graph [
     step 0
     date "2019-06-01T13:00:00Z"
     title "Warrior Cats Without Context | Warrior Cats Challenge #15"
-    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed. Some Warrior Cats quotes ..."
+    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed.&#10;&#10;Some Warrior Cats quotes can be really funny when you take them out of context!&#10;&#10;Some cat art by Missy Dakota!&#10;Her Patreon: https://www.patreon.com/MissyDakota&#10;Her DeviantArt: https://www.deviantart.com/missydakota&#10;&#10;Intro by Lapis Feder&#10;Talk sprites by Gee"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2271,7 +2271,7 @@ graph [
     step 0
     date "2022-05-24T22:00:10Z"
     title "Warrior Cats Memes (Compilation #4)"
-    description "A lot of you guys like these meme videos, so why not make a part 4? ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME ..."
+    description "A lot of you guys like these meme videos, so why not make a part 4?&#10;______________________________________&#10;&#10;ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME IN ANY WAY WHATSOEVER. FULL CREDIT TO RIGHTFUL ARTISTS AND ANIMATORS. THIS VIDEO IS MEANT FOR ENTERTAINMENT PURPOSES. &#10;&#10;______________________________________&#10;&#10;Animation Credit: (NOT IN ORDER) &#10;&#10;&#12539; Sagutoyas &#10;&#12539; Ao-No-Lupus&#10;&#12539; Kanin Cotton &#10;&#12539; Otta Lits&#10;&#12539; beffalumps&#10;&#12539; Safulous&#10;&#12539; Northflowo&#10;&#12539; Sparroet&#10;&#12539; Zem&#10;&#12539; Creetals&#10;&#12539; Kastahund&#10;&#12539; BRandy&#10;&#12539; misticc&#10;&#12539; ScadoodleDraws&#10;&#12539; CosmicDiamond&#10;&#12539; Eqqnog&#10;&#12539; bleachwaffle&#10;&#12539; Nitrogen&#10;&#12539; Arcatdia &#10;&#12539; Vampviz&#10;&#12539; Soloratiste&#10;&#12539; Galaxy Mew&#10;&#12539; Mapezart&#10;&#12539; ursiday&#10;&#10;______________________________________&#10;&#10;Part 1: https://youtu.be/7PctmCRN2MQ&#10;&#10;(Part 1 is unlisted but probably wont be put back to public due to copyright reasons.) &#10;&#10;Part 2: https://youtu.be/OTeoOhH-OxE&#10;&#10;Part 3: https://youtu.be/UYiVtcena3c&#10;______________________________________&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
     channel_title "FuZe Blitz"
     channel_id "UCb2YYmsB-qJMBaIJzE0DD2w"
     fav_count 0
@@ -2286,7 +2286,7 @@ graph [
     step 0
     date "2022-05-15T15:10:29Z"
     title "The most psychopathic warrior cats"
-    description "Hi everyone, I hope you enjoyed it. And yes, I know about that thing at the end of the video.Thank you for your support!&#10084;&#65039; this ..."
+    description "Hi everyone, I hope you enjoyed it. And yes, I know about that thing at the end of the video.Thank you for your support!&#10084;&#65039;&#10;this song and these pictures are not mine.&#10;&#10;song :&#10;https://www.youtube.com/watch?v=so8V5dAli-Q&#10;&#10;artists :&#10;https://www.wattpad.com/881811967-warriors-the-return-of-scourge-prologue&#10;&#10;https://warriorcats.com/content/gallery/warrior-of-the-week-gallery-10-scourge&#10;&#10;https://cz.pinterest.com/pin/736127501586678348/&#10;&#10;https://www.deviantart.com/themoonfall/art/He-fought-well-for-a-kittypet-515222207&#10;&#10;https://www.deviantart.com/gekkodesigns/art/One-Eye-782715888&#10;&#10;https://warriorcats.com/content/gallery/our-favorite-mapleshade-artwork&#10;&#10;https://m.facebook.com/BrbCryingOverFictionalCats/photos/mapleshades-armyartist-httpswwwdeviantartcomroseshardsartmapleshade-s-army-79679/3098972140138299/&#10;&#10;https://www.deviantart.com/th1stlew1ng/art/Mapleshade-760946841&#10;&#10;https://cz.pinterest.com/pin/411023903485137960/&#10;&#10;https://medibang.com/picture/un1902191013571780007955421/&#10;&#10;https://www.pinterest.jp/pin/132434045272329108/&#10;&#10;https://www.pinterest.pt/pin/760967668262221971/&#10;&#10;https://medibang.com/picture/yv2005300348218370007632264/&#10;&#10;https://warriorcats.com/content/image/darktail&#10;&#10;https://cz.pinterest.com/pin/AfcBLrNbGDDUGQzFvEQ_Bmt9Oul__DUOk8WTKWXdS_rbMCvMyMNI0vI/"
     channel_title "Whitefur"
     channel_id "UCDpBM0tXZu0m3UwsPDHL5yg"
     fav_count 0
@@ -2301,7 +2301,7 @@ graph [
     step 0
     date "2022-01-08T01:02:55Z"
     title "Drawing Couples in WCUE!!! 3 [+Speedpaint] Warrior Cats: Ultimate Edition"
-    description "It's not valentines day, Pretend it's valentines day. Anyway anyway as the video said, this may be the last part of the drawing ..."
+    description "It's not valentines day,&#10;Pretend it's valentines day. &#10;Anyway anyway as the video said, this may be the last part of the drawing people in wcue series I'll be making for a bit. Gonna step back as to not bombard you with the same repetitive content lol. I'll still be doing a lot of Warrior cats ultimate edition content, of course!! I just have other ideas in mind that I want to focus on :] &#10;And yes I promise, QnA very soon, as in next video soon. I'll also be doing a voice reveal when I answer the questions if that adds anything&#10;-----------------------------------------------------------------------------------------&#10;First oc pair belongs to Lightingfiress and Avabean117&#10;Second oc pair belongs to L0sTSiR3n and TestableMink123&#10;-- If you don't want you or your character in this video, please let me know!! I'll be happy to take it down&#10;&#9829;&#10;Social Link(s): &#10;Twitter: https://twitter.com/AnxiousPinto&#10;Deviantart: https://www.deviantart.com/petrifiedt...&#10;&#9825; &#10;&#9825;"
     channel_title "Dime' Haze"
     channel_id "UCxpbA97xIDww9wPkafvkW6Q"
     fav_count 0
@@ -2316,7 +2316,7 @@ graph [
     step 0
     date "2021-10-01T14:58:44Z"
     title "SSS Warrior Cats REVIEW"
-    description "My Patreon: https://www.patreon.com/join/Judgmental_Critter My Merch: https://teespring.com/stores/judgmental-critters-store My ..."
+    description "My Patreon: https://www.patreon.com/join/Judgmental_Critter&#10;My Merch: https://teespring.com/stores/judgmental-critters-store&#10;My Twitter: https://twitter.com/JudgmentalThe&#10;&#10;Let's take a look at one of the biggest and earliest milestones for Warrior Cat's fan animations! The SSS Warrior Cat series is fascinating, so let's dive in!"
     channel_title "The Judgmental Critter"
     channel_id "UC43OjEhpn1EnLlCMUS3mCEg"
     fav_count 0
@@ -2331,7 +2331,7 @@ graph [
     step 0
     date "2022-02-26T16:00:30Z"
     title "Ranking the NEW Warrior Cats Protagonist Introductions"
-    description "Read the chapters on the Warrior Cats Website: https://warriorcats.com/content/article/exclusive-river-excerpt Cat art is by Miss ..."
+    description "Read the chapters on the Warrior Cats Website: https://warriorcats.com/content/article/exclusive-river-excerpt&#10;&#10;Cat art is by Miss Dako! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2361,7 +2361,7 @@ graph [
     step 0
     date "2019-04-27T13:00:10Z"
     title "WARRIOR CATS MEMES (Warrior Cats Challenge #14)"
-    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed. You all submitted some ..."
+    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed.&#10;&#10;You all submitted some memes on my Amino, and here are my favorites!"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2376,7 +2376,7 @@ graph [
     step 0
     date "2021-05-29T17:45:10Z"
     title "Warrior Cats: Ultimate Edition | DATING SHOW &#128049;&#128571;&#128576;"
-    description "I don't even know what to say. I blame discord. Yall know who you are Link to discord: https://discord.gg/h8W9EzjaEW Fanart ..."
+    description "I don't even know what to say. I blame discord. Yall know who you are&#10;&#10;Link to discord: https://discord.gg/h8W9EzjaEW&#10;Fanart Email: littlesproutart@gmail.com&#10;&#10;&#10;Game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition-BETA?refPageId=bef13e69-7b08-40e3-809b-b940053a189a"
     channel_title "Littlesprout's Stories"
     channel_id "UCaSCdIv5TjmJVrSF_ix_NOg"
     fav_count 0
@@ -2391,7 +2391,7 @@ graph [
     step 0
     date "2021-05-13T12:00:05Z"
     title "Running around as a battle cat in roblox || Warrior Cats: Ultimate Edition"
-    description "I really like cats. - Music &#34;Meatball Parade&#34; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution ..."
+    description "I really like cats.&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Meatball Parade&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/&#10;&#10;&#34;Monkeys Spinning Monkeys&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -2406,7 +2406,7 @@ graph [
     step 0
     date "2019-03-02T14:00:02Z"
     title "Warrior Cats Names Taken Literally | Warrior Cats Challenge #11"
-    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed. I challenged you all to draw ..."
+    description "UPDATE: Bright Guardian Akira Amino is no longer active and all challenges held there are closed.&#10;&#10;I challenged you all to draw Warrior Cats with their names taken literally, and here are the results!"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2421,7 +2421,7 @@ graph [
     step 0
     date "2022-04-14T16:00:51Z"
     title "Did Warrior Cats just tease Mapleshade&#38;#39;s RETURN?"
-    description "The newest Warrior Cats Story arc, A Starless Clan, has just begun! In this video I theorize on which cats we'll be seeing as ..."
+    description "The newest Warrior Cats Story arc, A Starless Clan, has just begun! In this video I theorize on which cats we'll be seeing as villains in future books. &#10;I realize that my theories still have a number of holes, but part of the fun is not being 100% sure all of the time!&#10;&#10;Cat art is by Miss Dako! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2436,7 +2436,7 @@ graph [
     step 0
     date "2022-03-14T23:30:10Z"
     title "Warrior Cats - Forest of Secrets: Episode 4 - &#38;quot;Detective Fireheart&#38;quot;"
-    description "The first 1000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4303221 This video is ..."
+    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4303221&#10;This video is sponsored by Skillshare!&#10;&#10;...&#10;This episode is inspired by chapter 4 of Warriors: Forest of Secrets (pgs. 47 - 59) so you can follow along in the book.&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join&#10;...&#10;&#10;Want some real life warriors cats? Subscribe to my cats' channel! Daily cat videos!&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;...&#10;&#10;0:00 - 1:39 Sponsored by Skillshare&#10;1:40 - 12:46 Forest of Secrets: Episode 4&#10;12:47 - 14:15 Credits/Voice Actor Bloopers&#10;14:15 - 16:17 Thanks + Outro"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -2451,7 +2451,7 @@ graph [
     step 0
     date "2022-03-19T19:00:14Z"
     title "Warrior Cats Voice Actors Play: Gartic Phone | In Character 2"
-    description "WELCOME TO THE SECOND EPISODE OF GARTIC PHONE! We saw how much you all enjoyed our previous Warriors related ..."
+    description "WELCOME TO THE SECOND EPISODE OF GARTIC PHONE! We saw how much you all enjoyed our previous Warriors related Gartic Phone, so we gladly brought on a few new characters and greatly increased the length of the episode! Enjoy! And let us know if you'd like to see an animate version :)&#10;&#10;Artist for this video: ChaoticFox&#10;&#10;Voices for this video:&#10;Cloudtail / Jayfeather: Matthew Jones (https://www.twitch.tv/gearup)&#10;Mapleshade / Briarlight: ErrorEmma (https://www.deviantart.com/erroremma)&#10;Squirrelflight: Sarah ( https://www.instagram.com/thelastunicorninoz/)&#10;Feathertail: VidyTheFox&#10;Brackenfur: Terson https://twitch.tv/tersonva &#10;Littlecloud: Ross https://twitter.com/RossesRebellion&#10;One-eye: Kai (https://twitter.com/SkettiDragon)&#10;Yellowfang / Violetshine: Monica Grace&#10;Firepaw / Crowfeather: Matt (https://twitter.com/EpicrockerTT)&#10;Berrynose / Blackstar: Foxystar&#10;Hawkfrost: Zeddall&#10;Mothwing: Smogdeer (https://youtube.com/channel/UCjoLEjfj_THmgkC6I3HB3RA)&#10;Purdy / Flametail: Chris (https://www.youtube.com/channel/UCTQCLycV5E-fIglg4Gye3KA)&#10;Silverstream: CEOlson (https://ceolsonart.carrd.co/)&#10;Leopardstar: Eevee&#10;Lionblaze: Noah (https://twitter.com/TwitchSqueak)&#10;Longtail: TheKarsonist&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.com/invite/warriorcatsfandub&#10;https://www.patreon.com/WCDub&#10;&#10;Voice Director: GearUp https://www.twitch.tv/gearup&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -2466,7 +2466,7 @@ graph [
     step 0
     date "2021-12-11T16:00:01Z"
     title "Ivypaw RUINS Dovepaw&#38;#39;s Christmas (Warrior Cats Multi-Artist Story)"
-    description "Over a month in the making, we have my second Warrior Cats Christmas story book! A huge thank you to all who contributed: ..."
+    description "Over a month in the making, we have my second Warrior Cats Christmas story book! A huge thank you to all who contributed:&#10;&#10;Voice Actors:&#10;Ivypaw: LyKhra - https://youtube.com/channel/UCkhmls8Le3X-ohT42kdcu6w&#13;&#10;Dovepaw: Legendary Thunder - https://www.youtube.com/channel/UCklF4MSueQjBkgOOGKuopOg/about&#13;&#10;Lionblaze: Kyrie - https://www.instagram.com/saucy__kyrie/&#13;&#10;Cinderheart: Ivyleaf - https://www.tiktok.com/@yourneighborlyomnisexual?&#13;&#10;Mapleshade: JabberwockyJam - https://youtube.com/channel/UCwcOxuiStsbHH_rjFyhwsYg&#13;&#10;Leafpool: Something Screwy&#10;&#10;Artists:&#10;Charlie - https://www.instagram.com/darlie_charlie/&#10;Asterex - https://asterex.carrd.co/&#10;sniiovy - https://www.instagram.com/sniiovy/&#10;Estrii &#10;Koskot Owl - https://youtube.com/c/KoskotOwl&#10;Martletwing - https://youtube.com/channel/UClJr3V_2HERsveCrCIJxp6g&#10;detetice lemonpoppy - https://youtube.com/channel/UCz5iNeP8pBuMZckR74ZnrFw&#10;Dusk F - https://youtube.com/channel/UCc1Hsr74AsORDHtbb9Vqz2g&#10;HRABAN - https://toyhou.se/HRABAN&#10;mooneatsworms - https://youtube.com/channel/UCH2yMe61AGY3LUd-4PviPqA&#10;Froagsy - https://twitter.com/frogwithdog &#10;Willowen - https://www.youtube.com/channel/UCsdZYHsuYO0lbi3BaGhItHQ&#10;Aledany - http://aleda1320.tumblr.com/&#10;Foxflower - https://youtube.com/channel/UCaMhq9oyOgtnk3Jq2EyVXlA&#10;Shadowfern - https://youtube.com/channel/UCBxvda50XOu7gH9K4noOzYQ&#10;LapisFeder - https://youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw&#10;SpoopyWingedSpawner - https://www.instagram.com/spoopywingedspawner/&#10;cozymozy - https://www.instagram.com/cozymozys/&#10;Techyena - https://www.youtube.com/c/techyena&#10;Endo - http://aminoapps.com/p/08sate&#10;Slakumy - https://www.instagram.com/slakumy/&#10;Solarby - https://www.instagram.com/solarby.art/&#10;Anuziov - https://www.instagram.com/anuziov/&#10;Kirabean - https://twitter.com/Spicefang&#10;Kyioki Kyian - https://linktr.ee/kyian003&#10;Moonless Night - https://www.deviantart.com/fireflame-wing&#10;OneMelonThing - https://www.youtube.com/channel/UCtkEM7aOV2PZTyFE3SgM6KA&#10;Stripes Creations - https://youtube.com/channel/UCaHyrSQkw76XmnOq32Y73dw&#10;Fennel - https://youtube.com/channel/UCG82fELDb5k0nYVB5BkLMGA&#10;Wolfie249 - https://www.youtube.com/channel/UCbN1TcULey7FAPccPK02eOA&#10;EphemeralMoth - https://ephemeralmoth.carrd.co/&#10;suchan - https://toyhou.se/softvibes&#10;mossysprout - https://youtube.com/channel/UCLPxMs-em2DYOpw0JjuFeiA&#10;Torako - https://www.youtube.com/channel/UCJfS0SXtJvMuEp6K_lsQFOA&#10;yaartzzuwu - https://yaartzz.carrd.co/&#10;Unihalvaus - https://linktr.ee/Unihalvaus&#10;Paws Of Ma'at - https://youtube.com/channel/UCHTHEOB-4B8GRjxTSuyrdQQ&#10;Dovefeather - https://dovefeather.carrd.co/&#10;Sammi Sauce - https://sammisauce.carrd.co/&#10;Harper - https://www.youtube.com/channel/UChFWzTznpuSKSH7WfHFpVwQ&#10;&#10;Character designs/Endcard art: &#10;Kyioki Kyian - https://www.youtube.com/channel/UCTsb-noa-dhNfUnlVDcacLw&#10;&#10;Story/narration/editing:&#10;Bright Guardian Akira&#10;&#10;All background music is from YouTube Audio Library"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2481,7 +2481,7 @@ graph [
     step 0
     date "2020-12-02T18:00:03Z"
     title "What if Warrior Cats had Magic?"
-    description "In this challenge, you all drew Warrior Cats characters with magic powers! Warriors Challenge Discord: ..."
+    description "In this challenge, you all drew Warrior Cats characters with magic powers!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2496,7 +2496,7 @@ graph [
     step 0
     date "2020-05-07T18:00:11Z"
     title "Time to be Awesome &#9678; Windclan Warriors MAP &#9678;"
-    description "Fireheart and Graystripe help bring Windclan home after being drove out by Shadowclan. 2 years of hard work and dedication that ..."
+    description "Fireheart and Graystripe help bring Windclan home after being drove out by Shadowclan.&#10;&#10;2 years of hard work and dedication that I honestly can't thank everyone involved in this project enough. This was the first big collaboration that I have hosted in my YouTube career, and it has gone so well. Thank You.&#10;----------------------------------------&#10;&#119827;&#119815;&#119828;&#119820;&#119809;&#119821;&#119808;&#119816;&#119819; &#119808;&#119825;&#119827;&#119816;&#119826;&#119827;:&#10;Artchert: https://www.deviantart.com/artchert&#10;&#10;&#119827;&#119815;&#119828;&#119820;&#119809;&#119821;&#119808;&#119816;&#119819; &#119812;&#119821;&#119827;&#119825;&#119816;&#119812;&#119826;:&#10;https://www.deviantart.com/meloncitrine/favourites/75765027/time-to-be-awesome-thumbnails&#10;---------------------------------------&#10;&#119823;&#119808;&#119825;&#119827;&#119816;&#119810;&#119816;&#119823;&#119808;&#119821;&#119827;&#119826;:&#10;BlueMaroonAnimations: https://www.youtube.com/user/BlueMaroonAnimations&#10;Nat Neero: https://www.youtube.com/user/43crusher&#10;SorrelPaws: https://www.youtube.com/channel/UCGyJ-N_pwGaU0-xYoO3LzXw&#10;Wa&#239;ako: https://www.youtube.com/channel/UC-Nz43yRvbhiHOiU_lFksrg&#10;teichmel: https://www.youtube.com/channel/UCW0CjKsUPTOxWvy5bM3n4gQ&#10;iNsErT name? :3: https://www.youtube.com/channel/UCiHmyMzqcmgonFIdZ0sdqkQ&#10;lulabons: https://www.youtube.com/channel/UCtcXR1bSd5Zfh0MJQccRkGg&#10;spicynred: https://www.youtube.com/channel/UCq4COrNfTqCoXzCZTNFl6WA&#10;Shummy: https://www.youtube.com/channel/UCgBfEXTGABzSyQD4t935YLQ&#10;Rykett: https://www.youtube.com/channel/UCByGrgJu-BUDslcrgoQTCLA&#10;HexiDexiMexi: https://www.youtube.com/channel/UCZshchizV3CBZhAEgctnXUg&#10;squawkwardd: https://www.youtube.com/channel/UCn1TMIVRout24c-inCnJtfw&#10;Star Animations: https://www.youtube.com/channel/UCNxDdIfHXRVGEvEt9DEbiOg&#10;Catart: https://www.youtube.com/channel/UC5oOtcExegSpIA7Fw_4NhRw&#10;catethebag: https://www.youtube.com/channel/UC3fFLkEVBOUwGnaqTyqL6Lw&#10;Riko Sakari: https://www.youtube.com/channel/UCM1U8Hr2c4a8mxWosi2MAPw&#10;Plebbs: https://www.youtube.com/channel/UCApRTIWFwH3RcnaCKroB8pA&#10;Ramune Soda: https://www.youtube.com/channel/UCE-2J_WOnA_FshS9QMMeDcQ&#10;Xilin Xiao: https://www.youtube.com/channel/UC9rsHm_a6AGAS6FRKpCQgBQ&#10;Crazllana: https://www.youtube.com/user/hollandllana&#10;Torn: https://www.youtube.com/channel/UCRl32laa4SShC4SSPve9WRQ&#10;WolfHarmony: https://www.youtube.com/channel/UCHcFGues7QiE0BvmL_c6GBQ&#10;MozzyMoo: https://www.youtube.com/channel/UCazAMYMoCIYEL48JQ6AIvrQ&#10;jamporas: https://www.youtube.com/channel/UCSA_JdlgLgdzpU4WZ0ZBKvA&#10;-----------------------------------------------&#10;Time to be Awesome from the Pony Movie [Hasbro]"
     channel_title "megandrinksmatcha"
     channel_id "UCR3FYRBa8yhfxmdZM5OXYzQ"
     fav_count 0
@@ -2511,7 +2511,7 @@ graph [
     step 0
     date "2021-04-10T19:00:11Z"
     title "Warrior Cats Voice Actors Play The Hunger Games #2"
-    description "THUMBNAIL ARTIST: https://twitter.com/Kaseypaws Our discord: https://discord.gg/XCHEFyv Welcome to the Warrior Cats Fan ..."
+    description "THUMBNAIL ARTIST: https://twitter.com/Kaseypaws&#10;&#10;Our discord: https://discord.gg/XCHEFyv&#10;&#10;Welcome to the Warrior Cats Fan Dub Hunger Games 2! This has been very requested over the course of the past month and we're very happy to bring it to you! Please let us know about your favorite moments, and the Warrior Cats Audio Book will resume soon with increased speed! &#10;&#10;Background Music Sample: Emmit Fenn Support by RFM - NCM&#10;&#10;This round of the Hunger Games features custom prompts for the warriors series!&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10; warrior cats hunger games"
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -2526,7 +2526,7 @@ graph [
     step 0
     date "2019-05-23T16:58:46Z"
     title "Sol &#10687; Everything Moves &#10687; Complete Warrior Cats M.A.P."
-    description "This map is about Sol and his story arc in the Warriors Books. What is a M.A.P. ? It stands for Multi Animator Project, so each part ..."
+    description "This map is about Sol and his story arc in the Warriors Books.&#10;&#10;What is a M.A.P. ? It stands for Multi Animator Project, so each part was animated by a different person! They had set designs and a script, which if you'd like you can check out here! https://youtu.be/dYalmEj31VI&#10;&#10;SONG: Everything Moves by Bronze Radio Return&#10;END CREDITS SONG: Cannonball by Bronze Radio Return&#10;STORY: Warriors by Erin Hunter&#10;THUMBNAIL: By my friend Shelby! https://www.youtube.com/user/TheShablyOh&#10;&#10;Map Parts Playlist: https://www.youtube.com/playlist?list=PLoK0wHR2eMSPICffvchkbDi7OTZ8P0_bf&#10;&#10;Head Animators:&#10;Intro: Meow 286 https://www.youtube.com/user/kirbysamful&#10;Part 1: SEGAmastergirl https://www.youtube.com/user/SEGAmastergirl&#10;Part 2: Leona Vultura https://www.youtube.com/channel/UCPt6LTVxQ9VcNyUASnoaioA&#10;Part 3: AlmightyBroom https://www.instagram.com/windsweep/&#10;Part 4: Quecosillas https://www.youtube.com/channel/UCfYg1UJOz0QZm_ji-hQdxPg&#10;Part 5: Aspen Shadow https://www.youtube.com/channel/UCRz_bd-AqPa_7cFAKaYheiQ&#10;Part 6: Amelia Bothe https://www.youtube.com/user/animguy100&#10;Part 7: Shatterwing123 https://www.youtube.com/user/Shatterwing123&#10;Part 8: Nightfeather https://www.youtube.com/channel/UCGekYMnb0nxNqQJh-tiVsXw&#10;Part 9: brigostore https://www.youtube.com/user/SpadeSisters&#10;Part 10: Icefelis Otsukimi https://www.youtube.com/channel/UCxsJVCdegHHHAmU6wogVKyQ&#10;Part 11: TheWisestDino https://www.youtube.com/channel/UCAlCAJGDpcE4Uf7G9Qbktkw&#10;Part 12: Riley Ellis https://www.youtube.com/channel/UCiAwdqEhdCo0Yrs8l1-9muw&#10;Part 13: Bok Bok Choy  https://www.youtube.com/channel/UCpp0KroTWKBoRUdagVmivuw&#10; &#38; Tastyeggos https://www.youtube.com/user/ThePikachu368&#10;Part 14: Siri the Shrimp https://www.youtube.com/channel/UCZ43i4wTQvMnOVclGtpkvrw&#10;Part 15: Keby https://www.youtube.com/user/KeilidhBee&#10;Part 16: LolzNeo https://www.youtube.com/channel/UC5V9CZ02W1vIt1ZXIoS7ZdA&#10;Part 17: XxLunaWarriorxX https://www.youtube.com/user/XxLunawarriorxX&#10;Part 18: raevei https://www.youtube.com/channel/UC1QGZedVZMLJAHfwTy3oryg&#10;Part 19: Sagutoyas https://www.youtube.com/user/Sagutoyas&#10;Part 20: Rookon https://www.youtube.com/channel/UCa78Z0dtSZ6z8Ni6UqFQnMw&#10;Part 21: AlphaDuck https://www.youtube.com/channel/UCvaU5mw7npTnQZx31iRkW6A&#10;Part 22: ArcherDetective https://www.youtube.com/user/wand3ringranger128&#10;Part 23: Shayxy https://www.youtube.com/channel/UC3FR5u6GROmVXcstaE_u2IQ&#10;Part 24: Sarah Sellers- DragonwolfRooke https://www.youtube.com/user/DragonwolfRooke&#10;Part 25: Cranberry the Cat https://www.youtube.com/channel/UC8pj8BCp8vGt_UcgDw0Yr-w&#10;Part 26: Yeshika https://www.youtube.com/channel/UCwVagYvL9KnN0MWQZBKTXYg&#10;&#38; Kishiko https://www.youtube.com/channel/UCEzHxNBMiGnWIhvBuXA4lvw&#10;Part 27: starrywishy (Wishy) https://www.youtube.com/user/Leafpool905&#10;Part 28: Nightfall https://www.youtube.com/channel/UCIYluuG4BD7cUmmp0Qzt7ug&#10;Part 29: Forest https://www.youtube.com/user/forestcatclan&#10;Part 30: hollyleevs https://www.youtube.com/channel/UCE0vezNk5Vayd5d1hirKOug&#10;Part 31: ashtrall https://www.youtube.com/channel/UC6XqCt-8nhZXMV_i0oVLWig&#10; &#38; TheFieryFenec https://www.youtube.com/user/mystichowl101&#10; &#38; ocellifera https://www.youtube.com/channel/UCs-x8Yh09c5p0plVjvUmAeg&#10;Part 32: teejsaurus https://www.youtube.com/channel/UCM2Y-560zThHfKJ1wi7paqQ&#10;Part 33: SeaSalt https://www.youtube.com/channel/UC5edagvhbhBWWc9i7vG9noQ&#10;Part 34: RavenEcho https://www.youtube.com/channel/UChNYHjpOrD4wgWsrAn6EBjA&#10;Part 35: beffalumps https://www.youtube.com/channel/UC2jhE6SQWvhY7io4NpVBckQ&#10;Ending drawn by me.&#10;&#10;Thank you so much to everyone in the Discord, who gave support to all the animators and made the place such a wonderful environment of support, love, and fun times.&#10;&#10;And thank you to everyone who watched this project from start to finish, and who created fan-art for it, hype for it, and were wonderfully patient with the people involved.&#10;&#10;And as always...&#10;Thanks for watching!&#10;&#10;This video has not been monetized by my channel. Everyone involved in the creation of this project was working non-profit. This is a fan project."
     channel_title "Nifty-Senpai"
     channel_id "UCB2JUYB1zOUXkauzK1RPLSg"
     fav_count 0
@@ -2541,7 +2541,7 @@ graph [
     step 0
     date "2022-02-13T22:00:19Z"
     title "MAGGOT BELLY // Complete Frecklewish Warriors MAP"
-    description "WARNING: this video contains content that may not be suitable to all viewers, including: bug/spider imagery, eye injury (skip ..."
+    description "!!!!WARNING: this video contains content that may not be suitable to all viewers, including:&#10;bug/spider imagery, eye injury (skip 0:18-0:20), mentions of suicide (skip 3:42-3:45)&#10;&#10;Maggot Belly is a storyboarded MAP (Multi-Animator Project) exploring the themes of the character Frecklewish from the Warriors series. She is a character heavily motivated by her inability to cope with her grief, stemming from her brother&#8217;s death. &#10;This MAP explores the implications of her actions in the series and dives deeper into the character through the use of symbolism. Her devotion to her brother, Birchface, is shown in a world of bugs, and how focused she is on him and how she sees everything that&#8217;s hurt her brother evil, like predators. &#10;&#10;- HORRAY!!!!!!! it's done!!!!!!!! thank you so so so much to everyone who made this possible, this was so much fun to work with brought so many lovely creative minds together to bring you this finished masterpiece!!! i cant thank you all enough, whether youre a participant or just a subscriber, you helped make this possible!!!!!! please enjoy!!!!!!&#10;&#10;MAP CALL: https://youtu.be/7zBXxG6vCT8&#10;&#10;&#129419; MAP PARTS:&#10;intro 1. aster_oid &#10;       - https://www.youtube.com/channel/UCGksyehYaL3MSj7pZH7zuAw&#10;intro 2. mossysprout&#10;       - https://www.youtube.com/channel/UCLPxMs-em2DYOpw0JjuFeiA&#10;1. fernskullz&#10;       - https://www.youtube.com/channel/UCnA-2CpO8BIGJoByg2h_6tA&#10;2. Patchypeak&#10;       - https://www.youtube.com/channel/UClomk6ak1duw0aHU73MJGUQ&#10;3. centauri&#10;       - https://www.youtube.com/user/latona11&#10;4. Pigeocore + ThisCatIsOnFire&#10;       - https://www.youtube.com/c/Pigeocore&#10;       - https://www.youtube.com/c/ThisCatIsOnFire69420&#10;5. RosePocky&#10;       - https://www.youtube.com/c/RosePocky&#10;6. araxie&#10;       - https://www.youtube.com/channel/UCPLLME-VhD98Km3laxyEEkQ&#10;7. atelierr&#10;       - https://www.youtube.com/channel/UCmAQexu9uYiQnsVCRSP5tww&#10;8. hollyclouds&#10;       - https://www.youtube.com/channel/UCjQQGuJl8ossoN6woTkOynQ&#10;9. CustradCrev + muckrooms + cryptidrose + Lady Callow&#10;       - https://www.youtube.com/channel/UCVVbnU_zDl4mW2ZtcEkQPnA&#10;       - https://www.youtube.com/channel/UCHHlXhsBdMubUqR2IA1OKeQ&#10;       - https://www.youtube.com/channel/UCjOrM31wUhwzNc5EE2fu46A&#10;       - https://www.youtube.com/channel/UCCpxE8ThtTpyodzW-eZhqiw&#10;10. EphemeralMoth&#10;       - https://www.youtube.com/c/EphemeralMoth&#10;11. storkprince &#10;       - https://www.youtube.com/channel/UCOIk4vMtQrLPEC4QqJuJ5Xw&#10;12. stariitea &#10;       - https://www.youtube.com/channel/UCI1C6CZr-jlSTRwKtuHKKlQ&#10;13. Cante Skuya &#10;       - https://www.youtube.com/channel/UCoBik63iJYweo0O2vlcjEQg&#10;14. Cat Frost + Rotriestre&#10;       - https://www.youtube.com/channel/UCcEGfTVHzlZ4QcBVGvdlyVg&#10;       - https://www.youtube.com/channel/UCthr0nmY-_z3Sl6rYXhpxmQ&#10;15. melowon_Z + flecks&#10;       - https://www.youtube.com/channel/UCauiWZqo0AbBm2A90Nk7OVw&#10;       - https://www.youtube.com/channel/UCNgbM3kOWeuHFPhKqyO5Q7g&#10;16. Shummy &#10;       - https://youtu.be/Eko1nuUiCFU&#10;17. lambhop&#10;       - https://www.youtube.com/channel/UCsZaz5JKDpPMAZObUBPToFQ&#10;18. Gildedware &#10;       - https://www.youtube.com/c/GildedPhD&#10;19. immilknahap&#10;       - https://www.youtube.com/c/immilknahap&#10;20. kirikerise&#10;       - https://www.youtube.com/c/kirikerise&#10;21. Quirkrash '&#10;       - https://www.youtube.com/channel/UCxRObFVpozN6wS7nxRKf7OA&#10;22. OFUKITTY &#10;       - https://www.youtube.com/c/OFUKITTY&#10;23. Vampviz &#10;       - https://www.youtube.com/channel/UC8_nHR3PIGt0Atmm8-75_Bg&#10;24. lycanctrophy &#10;       - https://www.youtube.com/channel/UCkqU_jM8_ztWBY3uWZq4u7Q&#10;outro. Splashdreams + Annywu&#10;       - https://www.youtube.com/c/SplashDreamms&#10;       - https://www.youtube.com/channel/UCP-od5SSyPgV6Ok4keQSU2Q&#10;&#10;&#129419;CREDITS:&#10;smokeypumpkin&#10;       - https://www.youtube.com/channel/UCrcb2D3i3OuviSCcbqMzWvA&#10;rheiadear&#10;       - https://www.youtube.com/c/rheiadear&#10;muckrooms&#10;       - https://www.youtube.com/channel/UCHHlXhsBdMubUqR2IA1OKeQ&#10;cryptidrose&#10;       - https://www.youtube.com/channel/UCjOrM31wUhwzNc5EE2fu46A&#10;Lady Callow&#10;       - https://www.youtube.com/channel/UCCpxE8ThtTpyodzW-eZhqiw&#10;LenisLynx&#10;       - https://www.youtube.com/c/LenisLynx&#10;Archiepelago&#10;       - https://www.youtube.com/channel/UCan5dCQp1cwYiRQ3qYzOrYA&#10;Kittieee Paw&#10;       - https://www.youtube.com/c/KittieeeUwU&#10;Istuez&#10;       - https://www.youtube.com/channel/UCviEUTrubGsptz0ROZnAk2w&#10;RIPPEDEYEZ&#10;       - https://www.youtube.com/channel/UCPaqkAQ_B3g4Hv6dHtri0dA&#10;AstraPiika&#10;       - https://www.youtube.com/c/AstraPiKa&#10;&#10;Special thanks to @AstraPiiKa for the beautiful thumbnail!!!&#10;&#10;song is maggot belly by awfuItune (i do not support the artist!)&#10;outro song is blue hour ghost by paper ocean https://youtu.be/_yM7eMsBzcg&#10;&#10;for the situation of awfuItune, i didn't know until the map was already in production and there was nothing i could do about the song, unfortunately. please research with caution if you chose to."
     channel_title "kirikerise"
     channel_id "UCXn_wupssFgb-6_dc5maf9Q"
     fav_count 0
@@ -2556,7 +2556,7 @@ graph [
     step 0
     date "2019-12-14T15:00:02Z"
     title "Warrior Cats Names Taken Literally (Part 2)"
-    description "My Patreon: https://www.patreon.com/brightguardianakira My last literally challenge video became my most viewed video, so I ..."
+    description "My Patreon: https://www.patreon.com/brightguardianakira&#10;&#10;My last literally challenge video became my most viewed video, so I thought it was worth giving it another go! The amount of participation I got this time around was amazing, so thank you for that!"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2571,7 +2571,7 @@ graph [
     step 0
     date "2021-12-04T04:54:29Z"
     title "Top 10 oldest currently living/recently deceased Warrior Cats"
-    description "Not 100% accurate* This was way harder to edit than it should have been Thank you for 1.3k! Song: Enemy by Imagine ..."
+    description "*Not 100% accurate*&#10;&#10;This was way harder to edit than it should have been &#128557;&#10;&#10;Thank you for 1.3k!&#10;&#10;Song: Enemy by Imagine Dragons&#10;&#10;Credits to pictures:&#10;Vanycat dauc3ru&#10;Sally on Inprnt.com&#10;Warrior Cat Designs&#10;Roseruu on Deviant Art &#10;PetrichorCrown on Deviant Art &#10;Fox-Desert on Deviant Art &#10;Clover Light&#10;Juliane Pilz on ArtStation&#10;warriorcats.com&#10;AngelDalet on Deviant Art &#10;M.jay&#10;CascadingSerenity on Deviant Art &#10;Roseshards&#10;Silverzoul&#10;Satzzzwarriorcats on Tumblr &#10;skyperch on Tumblr &#10;Lloryz&#10;Ori_gina_lart on Deviant Art &#10;Elaska&#10;The Clandom on Twitter"
     channel_title "Invisible Asteroids"
     channel_id "UCdiQ378OCGMq717aGlS2UjA"
     fav_count 0
@@ -2586,7 +2586,7 @@ graph [
     step 0
     date "2022-01-29T22:31:14Z"
     title "Warrior Cats Ultimate Edition: Development Summary"
-    description "Development summary of the Roblox game, Warrior Cats Ultimate Edition! So much has been worked on with the new cat model, ..."
+    description "Development summary of the Roblox game, Warrior Cats Ultimate Edition! So much has been worked on with the new cat model, now you get to see it all in one go! Like my content? Like, subscribe and join my Discord server: https://discord.gg/zM4TbD6ge3"
     channel_title "Cimmerian"
     channel_id "UCv8UvhWVT7jp4pGQMSclEfQ"
     fav_count 0
@@ -2601,7 +2601,7 @@ graph [
     step 0
     date "2020-10-15T17:00:01Z"
     title "Drawing Warrior Cats from Warrior Names"
-    description "Welcome to another Warrior Cats Speed Draw! Watch next Speed Draw: https://www.twitch.tv/brightguardianakira Play in the next ..."
+    description "Welcome to another Warrior Cats Speed Draw!&#10;&#10;Watch next Speed Draw: https://www.twitch.tv/brightguardianakira&#10;&#10;Play in the next Speed Draw ($5 tier): https://www.patreon.com/brightguardianakira&#10;&#10;Contestants for this Speed Draw:&#10;Dakota: http://aminoapps.com/p/zk7484&#10;Galaxygrass: http://aminoapps.com/p/w6h4h7&#10;Haycoat:  https://twitter.com/killiminite&#10;Quartus: https://twitter.com/QuatrusStudios&#10;Reiterei: http://reiterei.art/&#10;Wiktorw: https://www.youtube.com/channel/UCXNP1y-5F-SohVdPzSq7hxw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2616,7 +2616,7 @@ graph [
     step 0
     date "2022-04-05T20:00:17Z"
     title "Another Level // Completed 72hr Swap MAP // Warrior Cats"
-    description "After a couple weeks this MAP is complete!! Thanks to everybody who joined and watched it!! this MAP is specially for underrated ..."
+    description "After a couple weeks this MAP is complete!! Thanks to everybody who joined and watched it!! this MAP is specially for underrated artist and people who truly deserve a spot on this community!&#10;&#10;This AU is, as the title says, swapping characters! and it includes some AUish stuff!&#10;&#10;Participants:&#10;&#10;0:00 Intro 2- &#8226;&#176;&#961;&#945;&#961;&#949;&#2792; &#4327;&#963;&#627;&#945;&#608;&#945;&#176;&#8226; &#10;0:06 Intro 1- Flawiusz-Sama &#10;0:13 1- MissJackieArt &#10;0:19 2- Surrikili &#10;0:26 3- letya chan &#10;0:32 4- limahearts &#10;0:39 5- Shattered Soul &#10;0:46 6- &#33469;&#31958;Maltose &#10;0:52 7- The Original Birb + ToyCupcakes&#10;0:59 8- Eclipse Artz02 &#10;1:06 9- MothSocks + :Sparky:&#10;1:12 10- KING CROWNED &#10;1:18 11- Water Splash &#10;1:25 12- Nightfree + :Sparky: &#10;1:32 13- Winelys11 &#10;1:38 14- TheLastUnicornInOz&#10;1:45 15- AkiPumpkin &#10;1:52 16- BRandy &#10;1:58 17- Lucii &#10;2:05 18- Moonbeanie Warrior + Topazgato &#10;2:11 19- Mosscloud&#10;2:18 20- Aquax &#10;2:25 21- zZKate &#10;2:31 22- JellOwO &#10;2:38 23- Millfreddo&#10;2:44 24- MoonRen &#10;2:51 25- Lynxdragon &#10;2:57 26- Jason Dean&#10;&#10;Thumbnail by Crackermack !&#10;&#10;3:08 Credits&#10;3:57 Thumbnail Credits&#10;&#10;Want to help me with my MAPs? Fill this form!: https://docs.google.com/forms/d/1cyh3nQ5berKPB_SzIu5WtHV2gg8MW_rgU1TdGqVcjuU"
     channel_title "KimSxxiny"
     channel_id "UCO1VtjX90qdJFUPFwcIKAbw"
     fav_count 0
@@ -2631,7 +2631,7 @@ graph [
     step 0
     date "2022-05-05T22:13:20Z"
     title "WARRIOR CATS ULTIMATE EDITION NEW CODE - 2022"
-    description "Make sure to like and subscribe for more Warrior Cats Ultimate Edition videos !"
+    description "Make sure to &#128077; like and &#128276; subscribe for more Warrior Cats Ultimate Edition videos !!!&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10004;&#65039; Join my Discord: https://discord.gg/W9sSP6A &#10;&#10;&#10004;&#65039; Join my Roblox Group: https://www.roblox.com/groups/4094584...&#10;&#10;&#10004;&#65039;Follow me on Instagram: https://www.instagram.com/aqthegamer/&#10;&#10;&#10004;&#65039; Follow me on Twitter: https://twitter.com/AQtheGamer&#10;&#10;&#10004;&#65039; Follow me on Roblox: https://www.roblox.com/users/34308906...&#10;&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;Track 1: TheFatRat - Rise Up&#10;Watch: https://youtu.be/j-2DGYNXRx0&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;#roblox #warriorcats &#10;&#10;&#10;In this video:&#10;warrior cats ultimate edition new code, warrior cats ultimate edition code, warrior cats ultimate edition update, wcue code, wcue, warrior cats ultimate edition code"
     channel_title "AQtheGamer"
     channel_id "UCI5IBHgowLuQZRQQUbVKRUg"
     fav_count 0
@@ -2646,7 +2646,7 @@ graph [
     step 0
     date "2022-07-08T05:17:04Z"
     title "Warrior Cats - Into The Wild in less than 15 minutes..."
-    description "Watch all the Episodes of Into The Wild: https://bit.ly/3ytqzVG Watch all the Episodes of Fire and Ice: https://bit.ly/3OBBFO7 Or the ..."
+    description "Watch all the Episodes of Into The Wild: https://bit.ly/3ytqzVG&#10;&#10;Watch all the Episodes of Fire and Ice: https://bit.ly/3OBBFO7&#10;&#10;Or the Episodes of Forest of Secrets: https://bit.ly/3A4IdAh&#10;&#10;Subscribe and turn on notifications for more Warriors content like this! :D&#10;&#10;Check out our Etsy shop: https://www.etsy.com/shop/pinkbunnygirl43"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -2661,7 +2661,7 @@ graph [
     step 0
     date "2020-08-08T17:30:01Z"
     title "NEW LPS Warrior Cats"
-    description "CLICK ME!&#10084;&#9734;&#8902; &#10048;&#10047;~ LPSLoverQA's instagram - https://www.instagram.com/lpsloverqa ~&#10047;&#10048; &#8902;&#9734;&#10084;FOLLOW ME!"
+    description "~&#10047;&#10048; &#8902;&#9734;&#10084;CLICK ME!&#10084;&#9734;&#8902; &#10048;&#10047;~&#10;LPSLoverQA's instagram - https://www.instagram.com/lpsloverqa&#10;&#10;~&#10047;&#10048; &#8902;&#9734;&#10084;FOLLOW ME!&#10084;&#9734;&#8902; &#10048;&#10047;~&#10;Instagram - https://www.instagram.com/alicelpstv/&#10;Discord - https://discord.gg/b5P6vff&#10;Etsy - https://www.etsy.com/uk/shop/AliceLPSCreations&#10;Tik Tok - https://www.tiktok.com/@alicenyannya&#10;Merch - https://www.redbubble.com/people/alicelps/portfolio&#10;Animation Channel - https://www.youtube.com/norii&#10;Vlog Channel - https://www.youtube.com/user/AliceNyanNya&#10;Twitter - https://www.twitter.com/AliceLPSTV&#10;Facebook - https://www.facebook.com/AliceLPSTV/&#10;Business Email  - alicelpstv@hotmail.com&#10;&#10;&#10;~&#10047;&#10048; &#8902;&#9734;&#10084;PLAYLISTS!&#10084;&#9734;&#8902; &#10048;&#10047;~&#10;Littlest Pet shop - https://www.youtube.com/playlist?list=PLFaXc51eiwpvC9Ri_wrwkeSrO2bZr-L4q&#10;&#10;My Little Pony - https://www.youtube.com/playlist?list=PLFaXc51eiwpvmoxJL7dgim8mh7cONZWNx&#10;&#10;Face Videos - https://www.youtube.com/playlist?list=PLFaXc51eiwptt8JcaWOKp4drBmqIv7clW&#10;&#10;~&#10047;&#10048; &#8902;&#9734;&#10084;INFO&#10084;&#9734;&#8902; &#10048;&#10047;~"
     channel_title "Alice LPS"
     channel_id "UC2xwl4gv4xgj9_uu0lIg7jg"
     fav_count 0
@@ -2676,7 +2676,7 @@ graph [
     step 0
     date "2020-07-08T13:05:25Z"
     title "WARRIOR CATS TRAILER"
-    description "Warrior Cats - Warriors (imagine dragons cover) &#1040;&#1085;&#1080;&#1084;&#1072;&#1094;&#1080;&#1080; &#1085;&#1077; &#1084;&#1086;&#1080;, &#1101;&#1090;&#1086; &#1083;&#1080;&#1096;&#1100; amv These re not my animations, this is amv &#1075;&#1088;&#1091;&#1087;&#1087;&#1072; ..."
+    description "Warrior Cats - Warriors (imagine dragons cover)&#10;&#1040;&#1085;&#1080;&#1084;&#1072;&#1094;&#1080;&#1080; &#1085;&#1077; &#1084;&#1086;&#1080;, &#1101;&#1090;&#1086; &#1083;&#1080;&#1096;&#1100; amv&#10;These re not my animations, this is amv&#10;&#10;&#1075;&#1088;&#1091;&#1087;&#1087;&#1072; &#1089; &#1072;&#1088;&#1090;&#1072;&#1084;&#1080; - https://vk.com/lightstorm_arts"
     channel_title "lightstorm"
     channel_id "UCNjJU30JQ3mSxNawE2JbQYw"
     fav_count 0
@@ -2691,7 +2691,7 @@ graph [
     step 0
     date "2021-07-16T01:45:11Z"
     title "Warrior Cats - Forest of Secrets: Episode 1 - &#38;quot;The Gathering&#38;quot;"
-    description "Celebrate the release of Forest of Secrets by picking up a set of pins of your favorite characters, it really helps to support our ..."
+    description "Celebrate the release of Forest of Secrets by picking up a set of pins of your favorite characters, it really helps to support our channel :) https://etsy.me/3xYROVm&#10;&#10;...&#10;&#10;This episode is inspired by chapter 1 of Warriors: Forest of Secrets (pgs. 6 - 23) so you can follow along in the book.&#10;&#10;...&#10;&#10;Use the PROMO CODE: &#10;SECRET&#10;To get $2 off any order from our shop&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join&#10;...&#10;&#10;I can't believe that Episode 1 of Forest of Secrets is finally out for you all to see, I'm very excited to hear your thoughts on the episode, and the bits we've added to the story! Please comment below! I love reading your comments.&#10;&#10;...&#10;&#10;We have come to the decision to close our P.O. Box, so we are no longer accepting physical letters and packages but there are still some options if you want to share something you've made with us!&#10;&#10;You can share it on my Amino! Pinkbunnygirl43 Official Amino!&#10;Link to Download: https://bit.ly/2Ta75Sq&#10;Share artwork for us in posts with the hastag - FanMail or personal message us on Amino! &#10;&#10;And another option! You can also always shoot me an email anytime if you have artwork to share or questions you'd like answered, my email is enterme43@gmail.com&#10;&#10;We will not be filming fan mail opening videos or reaction videos to things sent on Amino or by email, but you'll get a response from us in a more timely manner. :) &#10;&#10;...&#10;&#10;Want some real life warriors cats? Subscribe to my cats' channel! Daily cat videos!&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;...&#10;&#10;0:00 - 0:20 Support Our Channel&#10;0:21 - 11:05 Forest of Secrets: Episode 1&#10;11:06 - 13:30 Credits/Voice Actor Bloopers&#10;13:30 - 14:55 Thanks + Outro"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -2706,7 +2706,7 @@ graph [
     step 0
     date "2022-02-12T16:00:02Z"
     title "The BEST Warrior Cats Ship Art Volume 2"
-    description "In this video, you all submitted cute ship art of Warriors characters! Warriors Challenge Discord: ..."
+    description "In this video, you all submitted cute ship art of Warriors characters!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2721,7 +2721,7 @@ graph [
     step 0
     date "2022-06-18T15:00:24Z"
     title "WARRIOR CATS MOVIE POSTERS (WC Art Show Round 3)"
-    description "Voting is now closed! The results will be revealed in Round 4! This is the third round of a competition involving artists from the ..."
+    description "Voting is now closed! The results will be revealed in Round 4!&#10;&#10;This is the third round of a competition involving artists from the Warrior Cats Challenge Discord! You all voted 41 artists into Round 3! In this Round, artists made movie posters of varying genres with Warrior Cats inserted as the main characters!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2736,7 +2736,7 @@ graph [
     step 0
     date "2021-09-26T22:05:17Z"
     title "Drawing people in WCUE!! -[ +Speedpaint ] Warrior Cats: Ultimate Edition"
-    description "gosh i've been gone for awhile i'm sosososo sorry aah there's really no excuse besides laziness and lack of motivation but I ..."
+    description "gosh i've been gone for awhile i'm sosososo sorry aah&#10;there's really no excuse besides laziness and lack of motivation but I managed to whip up a quick video!! &#10;sorry if this isn't your type of content, I do plan on sticking to more animation related warriors videos in the future!&#10;-----------------------------------------------------------------------------------------&#10;first oc belongs to 20sFlapper321&#10;second oc belongs to kawaiipet24&#10;-- If you don't want you or your character in this video, please let me know!! I'll be happy to take it down&#10;&#9829;&#10;Social Link(s): &#10;Twitter: https://twitter.com/AnxiousPinto&#10;Deviantart: https://www.deviantart.com/petrifiedtulips&#10;&#9825; &#10;&#9825;"
     channel_title "Dime' Haze"
     channel_id "UCxpbA97xIDww9wPkafvkW6Q"
     fav_count 0
@@ -2751,7 +2751,7 @@ graph [
     step 0
     date "2022-03-12T17:58:28Z"
     title "HAYLOFT II - Warrior Cats (Bone &#38;amp; Barley) MEME/PMV"
-    description "CW: cartoon blood, animal death I wasn't planning on making this but I couldn't get the idea out of my head! In the books, Barley ..."
+    description "CW: cartoon blood, animal death&#10;&#10;I wasn't planning on making this but I couldn't get the idea out of my head! In the books, Barley was born in bloodclan but left after his sister (Violet) was attacked by their brothers (Hoot and Jumper) because she and Barley stayed in contact as adults and Barley helped her hunt which wasn't allowed. In my AU/headcanon(???), Bone is the father of Barley and his siblings. this is (mostly) the same story as my MAP Ebony Sky: https://www.youtube.com/watch?v=A8hpzGMPdLw which is still in production and goes into the story in more detail than this PMV lol&#10;&#10;Characters: Barley, Bone, Violet, Hoot/Snake, Jumper/Ice, Scourge&#10;Programs: Photoshop, After Effects&#10;Audio: Hayloft II by Mother Mother (slowed version by Filshq with additional edits by me)&#10;&#10;https://ursiday.carrd.co/&#10;https://www.patreon.com/ursiday&#10;https://ursiday.tumblr.com/&#10;https://cloudtail.tumblr.com/&#10;https://twitter.com/ursiday"
     channel_title "ursiday"
     channel_id "UCf3ieOdhOJbWaIHrMrqpd2g"
     fav_count 0
@@ -2766,7 +2766,7 @@ graph [
     step 0
     date "2022-06-04T15:00:32Z"
     title "Is Nightheart a girl? (Warrior Cats)"
-    description "In the newest Warrior Cats book, there was a certain cat that I found myself relating to. Let's talk about it. Cat art is by Miss Dako!"
+    description "In the newest Warrior Cats book, there was a certain cat that I found myself relating to. Let's talk about it.&#10;&#10;Cat art is by Miss Dako! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2781,7 +2781,7 @@ graph [
     step 0
     date "2016-11-09T19:36:14Z"
     title "Cinderpelt &#8226; Blame &#8226; Complete Warrior Cats M.A.P."
-    description "This map is about Cinderpelt and her story arc in the Warriors Books. What is a M.A.P. ? It stands for Multi Animator Project, ..."
+    description "This map is about Cinderpelt and her story arc in the Warriors Books.&#10;&#10;What is a M.A.P. ? It stands for Multi Animator Project, so each part was animated by a different person! They had set designs and a script, which if you'd like you can check out here! https://www.youtube.com/watch?v=G-NMsveGSE8&#10;&#10;SONG: Blame by Air Traffic Controller&#10;STORY: Warriors by Erin Hunter&#10;THUMBNAIL: by the lovely Rea ! https://www.youtube.com/user/GinjaNinjaOwO&#10;&#10;BIG thanks to SalukiSilver for finishing up the final part SO quick and SO nicely! Be sure to give her, and the rest of the animators a lot of love ahhh... &#10;&#10;Thanks for watching!"
     channel_title "Nifty-Senpai"
     channel_id "UCB2JUYB1zOUXkauzK1RPLSg"
     fav_count 0
@@ -2796,7 +2796,7 @@ graph [
     step 0
     date "2010-04-04T03:24:52Z"
     title "episode 2 part 1 - SSS Warrior cats fan animation"
-    description "Artist's Comments in part 3. Welcome back to SSS Warrior fan animation account dear friends, Thank you for watching part 1, ..."
+    description "Artist's Comments in part 3.&#13;&#10;Welcome back to SSS Warrior fan animation account dear friends,&#13;&#10;Thank you for watching part 1, really appreciate it !&#13;&#10;here is the link to part 2:&#13;&#10;http://www.youtube.com/watch?v=-M2O2Jd3G8E&#13;&#10;&#13;&#10;&#13;&#10;***&#13;&#10;Brief credits for your reference:&#13;&#10;Original Warrior Cats book series&#13;&#10;Erin Hunter&#13;&#10;&#13;&#10;Warrior Cats book official website&#13;&#10;http://www.warriorcats.com/warriorshell.html&#13;&#10;&#13;&#10;Fan animation director&#13;&#10;Yuji&#13;&#10;&#13;&#10;Animator&#13;&#10;Yuji&#13;&#10;Zing&#13;&#10;&#13;&#10;Coloring/ Shading&#13;&#10;Chris/ Tail 230&#13;&#10;Gingajinketsukoushi&#13;&#10;Nick&#13;&#10;Sarah&#13;&#10;Susi&#13;&#10;Yuji&#13;&#10;Zing&#13;&#10;&#13;&#10;Voices&#13;&#10;Rusty     Kou Rwr/ gingajinketsukoushi&#13;&#10;Whitestorm     John Rohrer&#13;&#10;Lionheart     Stephen&#13;&#10;Bluestar     Shannon&#13;&#10;Longtail     Nick&#13;&#10;Smudge     Chris&#13;&#10;Greypaw     Jerrymojo2&#13;&#10;Cat Crowds  &#13;&#10;Chris&#13;&#10;Kiwi&#13;&#10;Mat&#13;&#10;Todd&#13;&#10;Zing&#13;&#10;&#13;&#10;SSSWarriorcats Forum by Kai/ Splotcat&#13;&#10;http://ssswarriorcats.proboards.com/&#13;&#10;  &#13;&#10;Musics&#13;&#10;Truelight - theme for DNAngel&#13;&#10;Inuyasha Instrumental Music 4 - Miki Watanab&#13;&#10;Storm - the Yoshida Brothers&#13;&#10;Untitled - Royalty Free&#13;&#10;MonkeyBirds - Iain Ballamy&#13;&#10;Kamimi Festival - Okami Soundtrack&#13;&#10;D-Technolife - Uverworld&#13;&#10;Ending song- Tsuki Senichiya&#13;&#10;&#13;&#10;Love Warriors"
     channel_title "SSS Warrior Cats"
     channel_id "UCI7G8bfrCsV9A52JQWJEpKw"
     fav_count 0
@@ -2811,7 +2811,7 @@ graph [
     step 0
     date "2022-03-15T22:56:37Z"
     title "&#128049; NEW ANIMATIONS &#38;amp; MAP CHANGES COMING SOON! |Warrior Cats: Ultimate Edition"
-    description "Hi Sunnies! Today we have some new animations for the new NEW LEAF UPDATE COMING SOON!! I LOVE THEM! Anyways ..."
+    description "Hi Sunnies! Today we have some new animations for the new NEW LEAF UPDATE COMING SOON!! I LOVE THEM!  Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;My Tumblr Accounts: https://customwof.tumblr.com/ &#38; https://sunnydusty.tumblr.com/&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -2826,7 +2826,7 @@ graph [
     step 0
     date "2022-03-04T04:00:09Z"
     title "&#127807;  NEW-LEAF UPDATE COMING SOON + WCUE TRAILER &#38;amp; MORE! || Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a work in progress and they are not going to be in the game! They are probably going to be in a brand new game. If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :) &#10;&#10;Hi Sunnies! HAPPY MARCH!!! Woot woot! We have the NEW LEAF UPDATE COMING SOON &#38; Plenty more!!! How do you guys like the new models so far?! I think they look nice and I really hope they put them in the game!! Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #Newleaf #March"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -2841,7 +2841,7 @@ graph [
     step 0
     date "2022-05-31T02:36:40Z"
     title "Warrior cats TikTok videos compilation"
-    description "tiktok #compilation #warriorcats #viral #wcue #warriors #blowup."
+    description "#tiktok #compilation #warriorcats #viral #wcue #warriors #blowup"
     channel_title "Fallowbird"
     channel_id "UC_wKyvxZsC0iFzPiDl3mqiA"
     fav_count 0
@@ -2856,7 +2856,7 @@ graph [
     step 0
     date "2021-09-08T23:00:14Z"
     title "POOR GEORGE - Complete Yellowfang &#38;amp; Brokenstar MAP (Warriors)"
-    description "https://raventrust.com/?utm_source=google_cpc&#38;utm_medium=ad_grant&#38;utm_campaign=branded&#38;gclid=Cj0KCQjw- ..."
+    description "https://raventrust.com/?utm_source=google_cpc&#38;utm_medium=ad_grant&#38;utm_campaign=branded&#38;gclid=Cj0KCQjw-NaJBhDsARIsAAja6dNrWho0YOdp20xbF-9i2B-5qhoTBVp6C34R8eTgN5FxSCUYmpIqinEaAm0vEALw_wcB&#10;https://twitter.com/savefairycreek?lang=en&#10;https://www.stopline3.org/&#10;https://www.irsss.ca&#10;https://unistoten.camp/media/invasion/&#10;https://www.redfeather.org&#10;https://www.nativewomenswilderness.org&#10;https://www.csvanw.org&#10;https://www.aises.org&#10;&#10;^ Please check out the links above and donate if you can!&#10;&#10;IMPORTANT READS (More to be added) &#8212; &#10;&#10;https://docs.google.com/document/u/0/d/1_2k-ZVwFfhlPoAR2h0LO4U3EwZMrN60iSKCoI2Qn89w/mobilebasic&#10;&#10;https://docs.google.com/document/u/0/d/1nnCCD4TfR-5MZie9hQgpDfEE4mYpCtjNXQpD9VqOkxs/mobilebasic (I implore you to read this entire doc carefully, as it goes over the harmful Native/Indigenous stereotypes in Warriors.)&#10;&#10;Update 9/26/2021: Beautiful colored subtitles have been added by my good friend @owlipoppen !&#10;&#10;MUSIC: Poor George by James Supercave&#10;https://www.jamessupercave.com/&#10;https://jamessupercave.bigcartel.com/&#10;&#10;&#10;&#10022; What are MAPs? &#10022;&#10;'MAP&#8217; is an abbreviation for Multi Animator Project.  They are nonprofit animated videos set to music or scenes from movies/TV.  The audio is spliced into individual &#34;parts,&#34; sometimes paired with a script.  Each part is animated by a different artist till the host edits them together into a finished video.&#10;&#10;&#10022; What is Warriors? &#10022;&#10;Warriors is a 2003 fantasy series about wild cats.  It is still ongoing and has amassed a huge art/animation community with young and older artists alike.  This MAP is based on events in the first arc.  Warriors has also drawn rightful criticism from various Indigenous communities for its stereotyping and extremely poor handling of the &#8220;Tribe.&#8221;  If you consume Warriors content I implore you to listen to and boost all Indigenous voices and educate yourself.  Resources will be added the more I discover them/are released.&#10;&#10;&#10022; What is this MAP about? &#10022;&#10;Poor George follows grizzled Yellowfang as she watches her son, Brokenstar, become a tyrannical leader.  She puts an end to his reign by blinding him and later poisoning him with yew berries.  The MAP opens later on in her life as she stands over a dead Brokenstar.  She vents to her close friend, Fireheart, wishing things could&#8217;ve ended differently.  After a disturbing vision we look back on how everything unfolded.  We see Yellowfang&#8217;s traumatizing birth, the murder of her estranged mate, and Brokenstar&#8217;s rise to power.  A notable part of his leadership was his use of child soldiers &#8212; depicted here as a throne of dead kittens.&#10;&#10;Original doc &#38; script: https://docs.google.com/document/d/15cMUT7iNKQpyqWXRK-FismVBAouov721jC47r4_RWM0/edit&#10;&#10;&#10022; Artists &#10022;&#10;&#10;THUMBNAIL: @Frankie B Catt &#10;&#10;INTRO:  @Osinka 0:08&#10;1.  @Amelia B 0:28&#10;2.  @Speed heart  0:36&#10;3.  @patchwork 0:45&#10;4A.  @ThisCatIsOnFire 0:54&#10;4B.  @Cold Rising 1:00&#10;5.   @birdkiye 1:04 (I forgot to add this username in the credits, so terribly sorry to the participant)&#10;6.  @Autumn Lynx 1:11&#10;7.  @aelou @sorrelstream 1:21&#10;8.  @SoftServe 1:29&#10;9.  @Glitch Sixxle 1:38&#10;10. @blaire wildflower  1:47&#10;11.  @Artisminerva 1:55&#10;12.  @Gildedware (aka GildedPhD) 2:01&#10;13.  @RedBear 2:09&#10;14.  @CHURIMP 2:17&#10;15.  @Mary_MS_Jay 2:26&#10;16.  @Sagutoyas @Keby (Lynxspots) @Okami Wolven 2:34&#10;17.  @Zelarhie 2:43&#10;18.  @Ottie 2:52&#10;19.  @Goldenwing @HJ7 3:01&#10;20.  @araxie @HJ7 3:10&#10;21.  @-Lighth0use- 3:15&#10;22.  @Twinspired 3:24&#10;23.  @Frankie B Catt @VYRITE 3:31&#10;24.  @dream-inq 3:40&#10;25.  @The Oncoming Snail @VYRITE 3:49&#10;26. @REVOYARD, Anonymous collaborator 3:57&#10;27.  @cinnabarlab 4:06&#10;28.  @ursiday 4:14&#10;29.  @ursiday &#10;30. @Annywu 4:29&#10;31. @daniel wentz 4:37&#10;&#10;CREDITS:  @Mudshadow   4:50&#10;&#10;POST-CREDITS AUDIO: https://www.youtube.com/watch?v=BsJ3tugVfl4&#10;https://www.youtube.com/watch?v=7IOyOW_B3Cw&#10;&#10;FANART: 6:26 Unfortunately I couldn't fit in as many submissions as I thought, so PLEASE go through this gallery and marvel at all the fantastic work! https://mapfanart.carrd.co/&#10;&#10;POST-CREDITS SCENE: bread cat 7:16&#10;&#10;wow, over a year later and it's here! i'm so thrilled with this project. everyone did a spectacular job! this was my second MAP and my first to be completed and i'm absolutely in love with it. thank you to everyone who's shown interest as well, you guys are gems!!&#10;&#10;Tumblr: https://loafpaw.tumblr.com/&#8203;&#8203;&#10;Twitter: https://twitter.com/loafpaw&#8203;&#8203;&#10;Instagram: https://www.instagram.com/loafpaw/&#8203;&#8203;&#10;Ko-fi: https://ko-fi.com/loafpaw&#8203;&#8203;&#10;&#10;https://blacklivesmatters.carrd.co/&#8203;&#10;https://t.co/OxCiMbvnTS?amp=1&#8203;&#10;https://blacktranslivesmatter.carrd.c...&#10;https://blackartistresources.carrd.co/&#8203;&#8203;&#10;https://saytheirnames.carrd.co/"
     channel_title "bread cat"
     channel_id "UCLiiXagjRTAAsom8dNmoCWA"
     fav_count 0
@@ -2871,7 +2871,7 @@ graph [
     step 0
     date "2022-07-05T13:29:03Z"
     title "Warrior cats clan generator challenge!! - part 4"
-    description "Hey everyone!! In this part, I'll design all of gorseclan's (three) apprentices!! I hope you like meeting yet another black cat with ..."
+    description "Hey everyone!! &#10;In this part, I'll design all of gorseclan's (three) apprentices!! I hope you like meeting yet another black cat with yellowish eyes XD&#10;But really, though- keep your eyes out for a community post soon~ parts 5 and 6 will be different from the rest!!&#10;&#10;&#10;0:00 - Introduction&#10;0:08 - First apprentice (Blackpaw)&#10;1:45 - Second apprentice (Gingerpaw)&#10;3:01 - Third apprentice (Laurelpaw)&#10;4:08 - Ending&#10;&#10;CREDITS:&#10;Youtubers that inspired this video:&#10;original by Nefali (https://youtu.be/rBG_QWLdjXU)&#10;inspired by brighthoney (https://youtu.be/zvgsAT_bMdE)&#10;&#10;Song: T &#38; Sugah - Bring Me The Light (feat. Mara Necia) (Rob Gasser Remix) [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/BringMeTheLightRMX&#10;Watch: https://youtu.be/KB_qRRNbYC0&#10;&#10;This is the generator used if you'd like to try it yourself!! https://perchance.org/warrior-cat-clans&#10;&#10;#warriorcats #speedpaint"
     channel_title "Among moths"
     channel_id "UC6zPdYJFNXsaVkxZRoXLhjw"
     fav_count 0
@@ -2886,7 +2886,7 @@ graph [
     step 0
     date "2021-05-01T15:00:13Z"
     title "Warrior Cats OC Color Palette Challenge"
-    description "In this challenge, you had to make cat OC's using only a few selected colors! Warriors Challenge Discord: ..."
+    description "In this challenge, you had to make cat OC's using only a few selected colors!&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -2901,7 +2901,7 @@ graph [
     step 0
     date "2021-07-22T08:49:35Z"
     title "Firestar&#38;#39;s life warrior cats [blood warning]"
-    description "Thanks for animation makers: -senpuppy -L3na -Lunartic Firefly -cookie brooke -JeanAkratt -Nibiru -saguatoyas -Sacred rose's ..."
+    description "Thanks for animation makers:&#10;&#10;-senpuppy&#10;-L3na&#10;-Lunartic Firefly&#10;-cookie brooke&#10;-JeanAkratt&#10;-Nibiru&#10;-saguatoyas&#10;-Sacred rose's&#10;-AlexHarrier&#10;-Nightrizer&#10;-aethira&#10;-WishfulWixen&#10;-DarkMoonRay&#10;-Yunmeh&#10;-dogfish&#10;-Bosley box&#10;-selket&#10;-icedog McMuffin&#10;-artblock Studio&#10;-FluffyLovely&#10;-Mighianimator&#10;-saraxu&#10;-Ignis felix&#10;-xJayStarx&#10;-Splair&#10;-Salukisilver&#10;-Dajicah&#10;-difeluh&#10;-ragesjake&#10;-sparksofthestars&#10;-manatheghostwolf&#10;-Finchwing&#10;-squawkward&#10;-crashydelflou&#10;-Bunny Guin&#10;-allikat&#10;-GinjaNinjaOwO&#10;-SaHaRa BeRnAkE&#10;-meow 286&#10;-mapleskyder&#10;-ravaei&#10;-Shinyarcs&#10;-Xishka&#10;-Loafbud&#10;-Cold Rising&#10;-Xolaen&#10;-Glitch Sixxle&#10;-safulous&#10;-nauro. mie&#10;-Colacatinthehat&#10;-blueflame&#10;-ocellifera&#10;-ursiday&#10;-Cristawolf&#10;-beastyBby&#10;-blanchy Cherry Dusk&#10;-amberbydreamsart&#10;-Goldenwing Chilly weathers&#10;-Luxionyl&#10;-serenitywhitewolf&#10;-staniqs&#10;-nifty-senpai&#10;-pretzelmintz&#10;-cheetehz&#10;-VYrite&#10;-mangepelt&#10;-thewisest dino&#10;-bok bok choy&#10;-tastyeggs&#10;-rookon&#10;-archerdetective&#10;-SegaMasterGirl&#10;-nagalieart&#10;-moodle Doodle&#10;-sad machine&#10;-frostedmango&#10;-turrkoise&#10;-flash fire&#10;-burrdynn&#10;-Wyveronne&#10;-thephoenix pearl&#10;-owlspark&#10;-lolzneo&#10;-hellsfawn&#10;-tobi'sthehero&#10;-starr lights&#10;-xxhazelstripexx&#10;-painted whiskerz&#10;-harvest brook&#10;-iblis&#10;-crystalsilverlight&#10;&#10;&#10;Songs:&#10;&#10;in the name of love [Martin Garrix &#38; Bebe Rexha] &#10;Shatter me [Lindsey Stiling] &#10;Legends never die [League of Legends] &#10;Centuries [Fall Out Boy]"
     channel_title "Pihla Y&#246;siipi"
     channel_id "UC4eNL7HY8i-RCsSQNLL3e-g"
     fav_count 0
@@ -2916,7 +2916,7 @@ graph [
     step 0
     date "2021-03-09T17:45:24Z"
     title "Reviewing Every Warrior Cat Custom I&#8217;ve Made (roasting myself)"
-    description "The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/pinkbunnygirl4303211 ..."
+    description "The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/pinkbunnygirl4303211&#10;&#10;This video is sponsored by Skillshare!"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -2931,7 +2931,7 @@ graph [
     step 0
     date "2016-05-08T21:17:04Z"
     title "Top 10 Best Warrior Cat Mothers"
-    description "Hi,guys,this is just a video about the top 10 best warrior cat mothers in the series and it does it matter if this character is a ..."
+    description "Hi,guys,this is just a video about the top 10 best warrior cat mothers in the series and it does it matter if this character is a biological or foster mother they still count to be in the list also this is my opinion so please respect that.I hope you guys enjoy the video.&#10;&#10;I of the Storm:Of Monsters and Men(https://youtu.be/tlCkafSYNJI)&#10;I Do Not Own Nothing"
     channel_title "Lovers cats forever 101"
     channel_id "UCbhh6LFoI9KKEsqWg-jNAyA"
     fav_count 0
@@ -2946,7 +2946,7 @@ graph [
     step 0
     date "2022-06-27T20:40:45Z"
     title "Sol&#38;#39;s Life Explained In 12 Seconds [Second Version; Warrior Cats Edit]"
-    description "Make sure to go check out the first version! Credits to this map: Sol &#10687; Everything Moves &#10687; Complete Warrior Cats M.A.P. Link: ..."
+    description "Make sure to go check out the first version!&#10;&#10;Credits to this map:&#10;Sol &#10687; Everything Moves &#10687; Complete Warrior Cats M.A.P.&#10;Link: https://www.youtube.com/watch?v=StWH_ToJcOU&#10;Credits to these animators:&#10;-StarryWishy&#10;-Forest&#10;-Hollyleevs&#10;-Seasalt&#10;&#10;&#10;Subscribe! &#10084;"
     channel_title "WarriorsSpirit"
     channel_id "UChHak5HBmD9ZvCdbAiNM4pQ"
     fav_count 0
@@ -2961,7 +2961,7 @@ graph [
     step 0
     date "2021-12-24T19:00:08Z"
     title "Some morph updates and exploring the winter map! || Warrior Cats: Ultimate Edition"
-    description "happy holidays =) - Music &#34;Fretless&#34; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 ..."
+    description "happy holidays =)&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Fretless&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/&#10;&#10;&#34;Holiday Weasel&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/&#10;&#10;&#34;Jingle Bells&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -2976,7 +2976,7 @@ graph [
     step 0
     date "2022-04-01T21:00:17Z"
     title "We Don&#38;#39;t Talk About Goosefeather - Complete Warrior Cats MAP"
-    description "This MAP is a part of the April Fool's Day MAPATHON! The MAPATHON can be found here: ..."
+    description "This MAP is a part of the April Fool's Day MAPATHON! The MAPATHON can be found here: https://www.youtube.com/playlist?list=PLjfYg0bZUobv9YdiVxg-L5IfGhbEmbBQ1&#10;Wow! It's finally done! This was my first ever MAP that I hosted, and is now the second MAP completely finished that I hosted!! First off, I want to thank all of the participants who joined my MAP, I am so honored to have had so many people that joined this project!! I'd also like to thank the artists who submitted a thumbnail, every single one was absolutely amazing!!! And finally, I'd like to give a very special thank you to the other MAPATHON hosts who helped me a lot in such a short amount of time!! And thank you to Ofukitty for allowing me to be a part of this MAPATHON as well!!&#10;Song is We Don't Talk About Bruno from Encanto&#10;Designs are by me and can be found here!: https://drive.google.com/drive/folders/1Xobb9fTblyDKY-Lg1annzPXwpAipWfTM&#10;Animators: &#10;Part 1 - Rosy Damnation &#10;Part 2 - EeveeIsRed &#10;Part 3 - Tik&#10;Part 4 - [-Robin-] + kittygirl2210&#10;Part 5 - kittygirl2210 &#10;Part 6 - kittygirl2210 &#10;Part 7 -  HAH Studios &#10;Part 8 - HAH Studios &#10;Part 9 - HAH Studios &#10;Part 10 - Mynn + kittygirl2210 &#10;Part 11 - ProbablyWhisper&#10;Part 12 - JaymeDraws &#10;Part 13 - snailpaw&#10;Part 14 - UnluckyArt &#10;Part 15 - ScorpioQueen &#10;Part 16 - UnluckyArt &#10;Part 17 - FlintFlakes &#10;Part 17.5 - kittygirl2210 &#10;Part 18 - Corrin Draws &#10;Part 19 - Corrin Draws &#10;Part 20 - Helianthanas &#10;Part 21- crystalsentinel + sebiniclaw&#10;Part 22 - hollypawanimates &#10;Part 23 - CascadeFeathers&#10;Part 24 - DarKatita &#10;Part 25 - &#43457;Ch&#275;rr&#255;C&#248;ve&#324;&#43458;&#10;Part 26 - Ekaristan &#10;Part 27 - Gabbiezilla &#10;Part 28 - Shineflight From MeadowClan &#10;Part 29 - Blazesasa &#10;Part 30 - DarKatita &#10;Part 31 - _mitsukiie&#10;Thumbnail: AshersHangOut&#10;The MAP call for my MAP can be found&#10; here: https://www.youtube.com/watch?v=QgzsoO4ciYo&#38;list=PLjfYg0bZUobv9YdiVxg-L5IfGhbEmbBQ1&#38;index=5&#38;ab_channel=kittygirl2210&#10;The MAP call contains links to the parts of the MAP as well as the script and designs!!&#10;&#10;&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "kittygirl2210"
     channel_id "UCiD0uOv1S8Ur2LGwCucaeRQ"
     fav_count 0
@@ -2991,7 +2991,7 @@ graph [
     step 0
     date "2019-12-31T12:16:22Z"
     title "Warriors Cats - song ,, Stitches &#38;#39;&#38;#39;"
-    description "Hello ! This is a movie with Warriors Cats animations and the song ,,Stitches'' ( Shawn Mendes ). If you like it , give me a like and ..."
+    description "Hello !&#10;&#10;This is a movie with Warriors Cats animations and the song  ,,Stitches'' ( Shawn Mendes ).&#10;&#10;If you like it , give me a like and subscribe to my channel :)"
     channel_title "Typical Warrior"
     channel_id "UC60EgA_XLHiOS-o0I6LSprQ"
     fav_count 0
@@ -3006,7 +3006,7 @@ graph [
     step 0
     date "2022-06-08T01:44:54Z"
     title "Is the NEW Warriors Manga Worth Reading? | Warrior Cats Book Review"
-    description "In this review, I read Exile from ShadowClan: the newest Warrior Cats graphic novel/manga to hit stores as of June 2022."
+    description "In this review, I read Exile from ShadowClan: the newest Warrior Cats graphic novel/manga to hit stores as of June 2022. Is it worth reading?&#10;&#10;SPRITE ARTIST:&#10;https://www.youtube.com/channel/UCmvb8wvYPFVijQOyPef0erQ&#10;&#10;&#10140;  SUBSCRIBE HERE: www.youtube.com/channel/UCRz0F7NaH0l369CRPFBt1IQ?sub_confirmation=1&#10;&#10140;  MY TWITTER: https://twitter.com/wc_hawkkz&#10;&#10;Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.&#10;&#10;All rights belong to their rightful owner(s). Content shown is not my own unless stated otherwise.&#10;&#10;#warriorcats #warriors"
     channel_title "Hawkkz"
     channel_id "UCRz0F7NaH0l369CRPFBt1IQ"
     fav_count 0
@@ -3021,7 +3021,7 @@ graph [
     step 0
     date "2022-04-20T19:00:11Z"
     title "Top 5 Worst Warrior Cats Books"
-    description "Cat used is Pebbleshine. FAQ Editing software: Vegas Pro 17, Camtasia 2021 Drawing/Animation Software: Clip Studio ..."
+    description "Cat used is Pebbleshine. &#10;&#128062;&#128062;&#128062;&#10;FAQ&#10;Editing software: Vegas Pro 17, Camtasia 2021&#10;Drawing/Animation Software: Clip Studio Paint, Opentoonz\&#10;Thumbnail editor: Photopea, Sketchbook&#10;&#128062;&#128062;&#128062;&#10;Twitter&#128062;https://twitter.com/pr1sm_rogan &#10;Wattpad&#128062;https://www.wattpad.com/user/ink-quell&#10;Instagram&#128062;https://www.instagram.com/daroganheart/&#10;Discord&#128062; 4rcane#9513&#10;TikTok&#128062; https://vm.tiktok.com/ZSeurHLYM/&#10;&#128062;&#128062;&#128062;&#10;Please do not reupload my works on any other sites, claim it as your own, or if an art piece trace it for any purposes other than education. My animations are allowed in tributes and other compilations though please ask for permission beforehand. &#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship,  and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "4rcane"
     channel_id "UCStDGlw0d3nXhGVCe5c0heg"
     fav_count 0
@@ -3036,7 +3036,7 @@ graph [
     step 0
     date "2020-01-18T16:00:21Z"
     title "Top 10 WORST Warrior Cats Book Covers"
-    description "Warriors covers are interesting. Sometimes the book design is absolutely phenomenal. And other times it can be a bit lacking."
+    description "Warriors covers are interesting. Sometimes the book design is absolutely phenomenal. And other times it can be a bit lacking.&#10;&#10;If you live in Poland, you can order the new hardcover edition of Polish Into the Wild here:  https://ksiegarnianowabasn.com/pl/p/Ucieczka-w-dzicz-wydanie-ilustrowane/90&#10;&#10;And while this is the Polish version of the book, people outside Poland are still welcome to order! Simply email Wydawnictwo@NowaBasn.com if you are outside of Poland and want to order.&#10;&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitch: https://www.twitch.tv/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -3051,7 +3051,7 @@ graph [
     step 0
     date "2022-02-15T00:16:04Z"
     title "Warrior Cats Completed Friendship MAP- You Get Me"
-    description "this MAP is apart of the Valentine's Mapathon! playlist can be found here! please check out all the MAPS!"
+    description "this MAP is apart of the Valentine's Mapathon! playlist can be found here! please check out all the MAPS!: https://www.youtube.com/playlist?list=PL7Rv_D24sSPcl_MxC-uocEzNL6I4Cf8FC&#10;&#10;Happy Valentine's Day! Remember to celebrate the loved ones in your life, including friends, teachers, grandparents, and partners! &#9829;&#10;&#10;Big special thanks to all the participants and backups who really stepped up to get this finished in time! Much appreciated!&#10;&#10;Be sure to check out each participants parts and show your support and spread some love! : )&#10;&#10;PARTS:&#10;1. KindaDweebish (Shadowsight and Rootspring)  &#10;2. Aspenshadow (Blackstar and Russetfur)  &#10;3. Mephitis_Cerasus + Helianthanas  (Cinderpelt and Brightheart)  &#10;4. Sunset Raven (Ferncloud, Cody, and Birchkit)   &#10;5. LeafingAround + Ignoring Tree (Cinderpelt and Littlecloud)  &#10;6. Patchypeak (Sorreltail, Sootfur, and Rainwhisker)  &#10;7. Dakatofruit + yaartzzuwu (Hollypaw and Willowpaw)  &#10;8. babygourd (Leopardstar, Sasha, and Russetfur) &#10;8a. sadmachine + orionfujiwara (Whitestorm and Fireheart)  &#10;9. Annyuwu  (Ivypool and Blossomfall)   &#10;10. griffinbatkitten (Jayfeather and Briarlight)  &#10;11. SarahsellersandRooke + froste (Longtail and Mousefur)  &#10;12. riin + yaartzzuwu (Hollyleaf and Cinderheart)  &#10;13. Flawiusz-Sama + Marinin + tiger light (Yellowfang and Fireheart)  &#10;14. kuuttituutti (Fleck and Crookedkit)   &#10;15. sliced rat (Squirrelflight and Moonlight)  &#10;16. Aridarchen (Ravenpaw and Barley)  &#10;17. Fleur de Sureau (Badgerfang and Flintfang)  &#10;18. Ilbis (Firestar and Graystripe and Ravenpaw) &#10;&#10;CREDITS:&#10;1. SaltedEgg (Crookedstar and Brambleberry)   &#10;2. Gaia Meroaw (Gray Wing and Windrunner)  &#10;3. Spirited Cloud + JulianOliver (Smudge and Rusty/Firepaw)  &#10;4. giingersnaps (Longtail and Swiftpaw)  &#10;5. nittlebrittle (Leafpaw/pool and Sorreltail)  &#10;6. emberwings (Leopardstar and Sunfish)  &#10;7. Martletwing + JulianOliver (Dawnstripe and Talltail)  &#10;8. Pascall (Jayfeather and Alderheart)&#10;9. grimalkind (Hollyleaf and Ivypool)  &#10;10. Bregottski (Brightheart and Daisy)    &#10;11. ignorningtree (Yellowkit/fang and Silverflame)  &#10;12. artaintfart (Willowpaw and Mothwing)  &#10;&#10;~~~~~~~~~~~~~&#10;Song: Talking Friends (slowed and reverbed) by Talking Tom and Angela&#10;Credits Song: Count On You (acoustic cover) by KenYOfficial&#10;&#10;Series: Warrior Cats&#10;~~~~~~~~~~~~~&#10;Tumblr: @projectshadovv&#10;Twitter: @sadmachlne666 (the i is a lower case L)&#10;~~~~~~~~~~~~~&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "sad machine"
     channel_id "UCTSL6vBn_ooghAtTJtHSDvQ"
     fav_count 0
@@ -3066,7 +3066,7 @@ graph [
     step 0
     date "2021-08-12T01:45:11Z"
     title "Warrior Cats - Forest of Secrets: Episode 2 - &#38;quot;Ravenpaw&#38;#39;s Truth&#38;quot;"
-    description "The first 1000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4308211 This video is ..."
+    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4308211&#10;This video is sponsored by Skillshare!&#10;...&#10;&#10;This episode is inspired by chapters 2 and 3 of Warriors: Forest of Secrets (pgs. 24 - 47) and some parts of Redtail's Debt, so you can follow along in the book.&#10;...&#10;&#10;Celebrate the release of Forest of Secrets by picking up a set of pins of your favorite characters, it really helps to support our channel :) &#10;https://etsy.me/3xYROVm&#10;Pins and Coloring Sheets will be 50% off until August 19th!&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join&#10;...&#10;&#10;I'm super proud of Episode 2 of Forest of Secrets! I drew a lot of inspiration from Redtail's Debt for the battle at Sunningrocks, at least the accurate parts of Redtail's Debt, lol. :) It feels so good to finally find this piece of the puzzle Fireheart has been trying to uncover since he was an apprentice! Let me know your thoughts in the comments! &#10;...&#10;&#10;We have come to the decision to close our P.O. Box, so we are no longer accepting physical letters and packages but there are still some options if you want to share something you've made with us!&#10;&#10;You can share it on my Amino! Pinkbunnygirl43 Official Amino!&#10;Link to Download: https://bit.ly/2Ta75Sq&#10;Share artwork for us in posts with the hastag - FanMail or personal message us on Amino! &#10;&#10;And another option! You can also always shoot me an email anytime if you have artwork to share or questions you'd like answered, my email is enterme43@gmail.com&#10;&#10;We will not be filming fan mail opening videos or reaction videos to things sent on Amino or by email, but you'll get a response from us in a more timely manner. :) &#10;&#10;...&#10;&#10;Want some real life warriors cats? Subscribe to my cats' channel! Daily cat videos!&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;0:00 - 1:17 Sponsored by Skillshare&#10;1:18 - 10:00 Forest of Secrets: Episode 2&#10;10:01 - 12:01 Credits/Voice Actor Bloopers&#10;12:02 - 13:40 Thanks + Outro"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -3081,7 +3081,7 @@ graph [
     step 0
     date "2018-02-28T20:49:00Z"
     title "Warrior Cats Animated Into The Wild: Episode 1 (Red Dead Tail)"
-    description "Warning, Lots of cursing and lots of blood) Based on the Warriors novels by Erin Hunter We are planning on doing the whole dang ..."
+    description "(Warning, Lots of cursing and lots of blood)&#10;Based on the Warriors novels by Erin Hunter&#10;We are planning on doing the whole dang book so watch out for more!&#10;This took WAY longer then it needed to, I was slacking a little bit for the first weeks, the next episode should come out next month or little after&#10;&#10;WCA Tumblr: https://warriorcatsanimated.tumblr.com/&#10;&#10;Credits----&#10;Written by&#10;Rory- http://sillystrung.tumblr.com/ (Also animated it)&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?h...&#10;&#10;Characters We Voiced&#10;Rory- Smudge, Graypaw, Ravenpaw, Runningwind, Longtail&#10;Fritz- Firepaw, Tigerclaw, Whitestorm, Lionheart, Sandpaw&#10;Lillian- Bluestar, Mousefur, Spottedleaf"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -3096,7 +3096,7 @@ graph [
     step 0
     date "2020-03-14T18:30:15Z"
     title "&#128171;TIME MACHINE&#128171; COMPLETE 72 HOUR WARRIOR CATS CANON AND OC AU MAP"
-    description "SUMMARY Time travelling Warriors OCs pop out of portals to change spots in canon, save lives, try to prevent bad things, and ..."
+    description "SUMMARY&#10;Time travelling Warriors OCs pop out of portals to change spots in canon, save lives, try to prevent bad things, and have a bit of silliness. The crystals on their foreheads show the viewer who's an OC and who's a canon cat. The crystals let the OCs see possible branches of the timeline. (Yes, there is a little bit of Rick and Morty inspiration in this)&#10;&#10;The MAP was not scripted&#8212;each participant was allowed to change whatever event for whichever cat they liked. &#10;&#10;COMMENTARY&#10;WOOF here's another one finished! @GiingerSnaps  was my awesome cohost yet again, make sure to sub to them if you aren't already because they are irreplaceable. Everyone showed so much enthusiasm and got their parts done SO quickly, I am extremely thankful to all of our wonderful participants. Watch until the end for an extra surprise these crazy fools made of their own free will. You'll see we had a bit of fun with this MAP XD Don't forget to check out the channels if you see any unfamiliar names! &#10;&#10;We've seen a lot of interest from people about creating spin off maps based on this AU&#8212;you're more than welcome to, you don't have to ask! Please refer to this info sheet: https://docs.google.com/document/d/1OtehqUGSej64sVTeRmbcNfGfQtyYj5YcSKH7wQj0dH4/edit?usp=sharing&#10;&#10;Later edit: Some time ago I saw a concern that because some cats had their canon disabilities prevented, this is erasing the representation of disabled characters in the story. This had not occurred to me when I was approving ideas for parts, but now that I've heard it said I think that's a great point and I should've encouraged ideas in another direction. This is on me, NOT any of the participants who I told their idea was fine without realizing. In respect of all of this, I ran the second Time Machine MAP differently, and in the info sheet about spin off MAPs I encourage any other hosts of these MAPs to do the same. &#10;&#10;Parts Playlist: https://www.youtube.com/playlist?list=PLuAFTIlbuIN3YngHisVZmB-MRLAGKXRIL&#10;MAP Call: https://www.youtube.com/watch?v=pShHQ5qMwQY&#10;&#10;PARTICIPANTS&#10;Thumbnail:  @GiingerSnaps &#10;Part 1:  @EphemeralMoth Saving Ashfur from Hollyleaf (so she won't have to run away!)&#10;Part 2:  @Deer Drops Saving Whitestorm from Bone&#10;Part 3: @Catart Startling Goosefeather to stop him chasing Stormkit into the river&#10;Part 4:  @Koskot Owl koskot owl (Mistakenly credited as kostkot owl in the MAP, I am so, so sorry!) Saving Spottedleaf from Clawface&#10;Part 5:  @crispyyflake Scaring Cloudpaw away from the twoleg den&#10;Part 6:  @HarvestBrook Encouraging Cinderpaw to pursue being a warrior despite her injury&#10;Part 7:  @CheekyTiger Stopping Darkstripe from feeding deathberries to Sorrelkit&#10;Part 8:   @mobiusghost Providing herbs to Alderpaw so he can save Sandstorm&#10;Part 9:  @InterstellarKip Helping Needletail and Violetpaw escape, leading to Needletail becoming the leader of ShadowClan&#10;Part 10:  @Chilly Weathers Saving Greypool from Tigerstar&#10;Part 11:  @Kestrill Convincing Leafpool to be honest about her kits parentage&#10;Part 12: @GildedPhD Removing Badgerpaw from the battle, sending him home to his mother&#10;Part 13: draghins (https://www.youtube.com/channel/UCFDmmUjHC63-Oj7_0VH77vw) Creating the sign BEFORE Hawkfrost does so Mothwing&#8217;s faith isn&#8217;t shaken by his betrayal&#10;Part 14: @Lunala's Mask Sending Tiny back to his house before he gains a following&#10;Part 15: @cinnabarlab Saving Flametail from drowning&#10;Part 16:  @GiingerSnaps Catching the hawk so it can't take Snowkit&#10;Part 17: @Helianthanas Saving Shadowsight from his mystery assailant&#10;Part 18:  Annywu (https://www.youtube.com/channel/UCP-od5SSyPgV6Ok4keQSU2Q) Showing Yellowfang a path out of the fire&#10;Part 19:  @Sunflower Cougar Saving Mapleshade's kits from drowning&#10;Part 20: @Canarysong Sending Darkkit to WindClan with Onewhisker so he doesn't grow up to create The Kin&#10;Part 21: @E.J Kraft Giving baby Sol and his siblings a home in SkyClan&#10;Part 22: Miimsey (https://www.youtube.com/channel/UC-ixTFwnZ-8jpOKUGR3H0mw) Stealing from Sweetpaw, Rosepaw and Bluefur the mouse that made them sick&#10;Part 23:  @Rad Butt Catching the rabbit that blinded Longtail&#10;Part 24:  @Jixxi Helping Swiftpaw make it away from the dogs&#10;Part 25:  @RachelAlexanDraws Preventing the tree from falling on Briarlight&#10;Part 26: @Osinka Scaring Sharptooth away with shadows on the cave wall&#10;Part 27: Gecko Draws (https://www.youtube.com/channel/UCuUfDugqU4JpI1W3mDfDRXg) Showing Fallen Leaves out of the flooding tunnels&#10;Part 28:  @Crowla Portaling retiree Half Moon to Jayfeather&#10;&#10;Songs: &#10;&#8220;Time Machine&#8221; by Robyn&#10;&#34;Avengers Remix&#34; by Styzmask&#10;&#10;Warriors story and characters created by Erin Hunter.&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "crowla"
     channel_id "UC1UM2CGx_HemS1R3ozRooPw"
     fav_count 0
@@ -3111,7 +3111,7 @@ graph [
     step 0
     date "2021-10-17T06:31:38Z"
     title "Lab roleplay in Warrior cats ultimate edition/WCUE! TW: fighting, abuse, shock collars, needles"
-    description "Link to game is: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition Lab roleplay is not banned, they never ..."
+    description "Link to game is:&#10;https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;&#10;Lab roleplay is not banned, they never said it is on discord."
     channel_title "-SOUPA-"
     channel_id "UCnsN06aMDKp5N8m-i_Nf_Aw"
     fav_count 0
@@ -3126,7 +3126,7 @@ graph [
     step 0
     date "2022-03-10T16:28:05Z"
     title "Floppy Ears Glitch in Warrior Cats Ultimate Edition (WCUE)"
-    description "Showing how to do the floppy ears glitch in Warrior Cats Ultimate Edition. Thanks to juniper studio   from YT for helping."
+    description "Showing how to do the floppy ears glitch in Warrior Cats Ultimate Edition. &#10;&#10;Thanks to &#127808;juniper studio&#127808; from YT for helping."
     channel_title "ClickTapPlay"
     channel_id "UCkmZGtiZAwk8NtQqB3OjhUw"
     fav_count 0
@@ -3156,7 +3156,7 @@ graph [
     step 0
     date "2022-04-08T18:59:35Z"
     title "&#38;quot;Sink Away&#38;quot; Bristlefrost. ORIGINAL WARRIOR CATS SONG"
-    description "Please be aware that this song contains potential spoilers for The Broken Code. &#34;Sink Away&#34; streaming now on... Spotify   ..."
+    description "Please be aware that this song contains potential spoilers for The Broken Code.&#10;&#10;&#34;Sink Away&#34; streaming now on...&#10;&#127925;Spotify&#127925;  https://spoti.fi/3ubn6sF&#10;&#127925; Apple Music&#127925; https://apple.co/3x86PXI&#10;&#10;my Patreon! &#8594; https://www.patreon.com/Blixemi&#10;my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;&#10;___&#10;&#10;Vocals: Loganne Digma - https://bit.ly/3DIhnxI&#10;Art: illbringyoudown - https://bit.ly/36SUUCn&#10;Mixing : Alex Martinelli - https://bit.ly/3j5N3Uq&#10;Music/Lyrics/Produced by - Blixemi (you're here!)&#10;___&#10;&#10;The sea is dark and cold, it vows to drag us down&#10;Our feet forget the touch of peace and solid ground.&#10;We&#8217;re barely floating now we can&#8217;t keep up this pace,&#10;Something must sink away&#10;For you I&#8217;d sink away&#8230;&#10;&#10;We&#8217;ve clawed so desperately for a future out of reach,&#10;To keep our heads above the truth beneath our feet&#10;I know we&#8217;re only now prolonging what awaits&#10;Love shapes a heartless fate.&#10;For you I&#8217;ll sink away&#10;&#10;In this pain an island stands&#10;With warm and white inviting sands&#10;I wish that somehow I could reach this place,&#10;But the more I swim the more I see,&#10;I simply just can never be,&#10;Living all the dreams  I planned to make. &#10;Still, I&#8217;ll fall unafraid.&#10;So you don&#8217;t sink away. &#10;&#10;The panic&#8217;s rising in me, like the tugging tide.&#10;But promised calmer waters lay my doubts aside. &#10;Hope lifts my weighted mind and though my heart will break.&#10;Love&#8217;s left within my wake&#10;That cannot sink away.&#10;&#10;In this pain an island rests&#10;Where all I want is safely kept&#10;I wish that somehow I could reach this place,&#10;But the more I swim the more I see,&#10;I simply just can never be&#10;So I&#8217;ll drown with the dreams I planned to make. &#10;and I&#8217;ll fall unafraid.&#10;So you don&#8217;t sink away.&#10;&#10;The quiet rushes in the roaring waves subside.&#10;And I feel a calm I&#8217;ve never known before.&#10;Who knew a heart could beat the doubt deep down that lays inside.&#10;When it beats for something more.&#10;I finally see the shore.&#10;&#10;In this pain an island rests&#10;Where all I loved are safely kept&#10;Somehow I&#8217;ve found myself here in its place&#10;And the more I see the less I grieve,&#10;I fade away so you can be &#10;Living all the dreams you planned to make.&#10;And you&#8217;ll live unafraid.&#10;I know you&#8217;ll be okay.&#10;For you I&#8217;d sink-"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -3171,7 +3171,7 @@ graph [
     step 0
     date "2022-07-07T19:42:04Z"
     title "PRETTY CVNT | Ashfur Animation Meme [Warrior Cats]"
-    description "cw: bIood, eyestrain Ashfur calm down - This is a PRETTY CVNT animation meme of the character Ashfur, from the book series, ..."
+    description "cw: bIood, eyestrain&#10;&#10;Ashfur calm down &#128563;&#10;-&#10;This is a PRETTY CVNT animation meme of the character Ashfur, from the book series, Warriors / Warrior Cats.&#10;&#10;Original meme:&#10;https://www.youtube.com/watch?v=LSF8SDRq6Fw&#38;t=0s&#10;&#10;Inspired by:&#10;https://www.youtube.com/watch?v=WFePiPRNS-o&#10;&#10;Audio:&#10;Sewerslvt - PRETTY CVNT&#10;https://www.youtube.com/watch?v=beoNy4MMHTc&#10;&#10;Programs used:&#10;Paint Tool Sai&#10;HitFilm Express&#10;-&#10;&#10;I do not own the characters or audio used in this video.&#10;#animationmeme #meme #ashfur"
     channel_title "Dizzy Dazzles"
     channel_id "UCmdUY1wtlz3kBTYITFIAzsQ"
     fav_count 0
@@ -3186,7 +3186,7 @@ graph [
     step 0
     date "2021-11-26T15:00:23Z"
     title "It&#38;#39;s Alright - Ravenpaw Warrior Cats MAP COMPLETE - (Tw: Flash)"
-    description "Trigger Warning: Flash &#34;Oh, Barley. You know me so well. Better than any cat ever has. But there is a secret that I have kept from ..."
+    description "Trigger Warning:  Flash &#10;&#10;&#34;Oh, Barley. You know me so well. Better than any cat ever has. But there is a secret that I have kept from you without meaning to: I have always been a warrior. I have a loyalty to these cats, and I must fight alongside them, whatever happens.&#34;&#10;&#10;Ravenpaw inspired so many of us with his story in the first arc. In this MAP, he is portrayed dealing with all the blame and trauma of Redtail's death. Not only that, he struggles of having his own mentor, the one who he should look at with pride and safety, wanting him dead. Still, Ravenpaw shows to try to have his approvement, to find a place on his clan.&#10;&#10;Not only that, but Ravenpaw showed us that it is okay to find a new place if yours isn't safe. Showed us that toxic and abusive relationships like he had with his mentor must end as soon as possible.&#10;&#10;Ravenpaw in this MAP also shows how hard is to be free from your own past, scared about the future. That healing is a long path and 'it's alright' to feel everything like this.&#10;&#10;And, in the end, he showed us how to have a healthy relationship after everything. How you can find happiness after all. And how you can still be loyal, even though you are not with the ones you love.&#10;&#10;I love Ravenpaw! His character development is really interesting and a lot of people can relate to his feelings and fears. I hope you guys like this MAP.&#10;&#10;List of participants, please subscribe to them!&#10;Intro.  Flawiusz-Sama (https://www.youtube.com/c/MotakaboethKunREAL/videos)&#10;1.  @Mochi Kohai    +  Flawiusz-Sama&#10;2. @melowon_Z &#10;3. @Otterey &#10;4.  @Pinktune0z &#10;5.   @Otta Lits + @Demi m0n &#10;6.  @Chocobir &#10;7. Moon Light (https://www.youtube.com/channel/UCpp8VvshW3wmod23jz8bLvg)&#10;8. Briste Aisling (https://www.youtube.com/c/MabelTheGamer)&#10;9. @SplashDreamms + @Tiny Winy  + @Gildedware (aka GildedPhD) &#10;10. @HarvestBrook +&#12304;&#183;Artistic Studio&#183;&#12305;(https://www.youtube.com/channel/UCrL7ZmXecgGlJz9twcqAl5w)&#10;11. @Tayplets  &#10;12. @GreatSylveon 2007  +  @Annywu  &#10;13. @Marinin  &#10;14. RubyDoodles (https://www.youtube.com/channel/UCeWcw3Iha4OFgQ-oH_zMASg)&#10;15. Ziviebug (https://www.youtube.com/channel/UCEiLTmFXyFitdDY36B6LqBg) + Harvest Brook&#10;16.  Crazypink Chiwawah (https://www.youtube.com/channel/UCtZvHjd7kVmxoJTDIdcvT7w) + @DeerSnapx &#10;17. @Petalyxz + HarvestBrook&#10;&#10;&#10;Thumbnail by Harvest Brook&#10;Designs by me and Nifty-senpai&#10;&#10;Songs:&#10;It's Alright by Mother Mother&#10;https://www.youtube.com/watch?v=G5-KJgVsoUM&#10;Fire and the Flood - Vance Joy Piano Cover&#10;https://www.youtube.com/watch?v=H-WaL9si7-4"
     channel_title "Marinin"
     channel_id "UCUxxesYVTzdhke0emiTDP_w"
     fav_count 0
@@ -3201,7 +3201,7 @@ graph [
     step 0
     date "2022-06-24T17:30:12Z"
     title "Somebody That I Used To Know | COMPLETE Warrior Cats MAP"
-    description "Hi all, after 7 months of work this MAP is finally finished! You have no idea how happy I am for this!! Thanks to everyone who got ..."
+    description "Hi all, after 7 months of work this MAP is finally finished! You have no idea how happy I am for this!!&#10;&#10;Thanks to everyone who got involved in this project, you are really amazing and you are doing a great job!&#10;&#10;Intro 1: @Ekaris&#1090;an &#10;Intro 2: @AnAverageAnimator &#10;Part 1: @Non Nymph &#10;Part 2: @K&#252;rzZ Sen &#10;Part 3: @Fernflower51 [Judyta K] &#10;Part 4: @Silvaroo &#38; moonbunny warriors&#10;Part 5: @Saintcrimes &#10;Part 6: @Pascall &#10;Part 7: @Saintcrimes &#10;Part 8: @HiusLanka &#10;Part 9: @Jaythe drawinghyena &#10;Part 10: @BluefrostAnimations &#10;Part 11: @MothSocks_ &#38; @Rustflake  &#38; @DrawesomeJulia &#10;Part 12: @VaporSkies &#10;Part 13: @Surrikili &#10;Part 14: @DarkGalaxyHero &#38; @Surrikili &#10;Part 15: @Burning Ash &#38; @Valper Kmasten &#10;Part 16: @SailorBeeZ &#10;Part 17: @Spinach Raccoon &#10;Part 18: @Pastel Cookie &#10;Part 19: @ColorfulMarble789 &#10;Part 20: @Killerr_Queennn &#38; @moonbunny warriors &#38; @ShallowStep&#10;Part 21: @Ulyly &#10;Part 22: @riveestarx &#10;Part 23: @DrawesomeJulia &#10;Part 24: @Beetleflair &#10;Part 25: @Moonleap &#10;Part 26: @lemonpie &#10;Part 27: @Brush 24 &#10;Part 28: @Moony&#10;Part 29: @Topy&#10;Part playlist:&#10;https://youtube.com/playlist?list=PLnWSr0ZR3l1GZH6ZWeBEZuPyiBwq2gEv2&#10;Thumbnail contest winner:  https://instagram.com/raynee.art?igshid=YmMyMTA2M2Y= (raynee.art on Instagram)&#10;Song 1: https://youtu.be/8UVNT4wvIGY&#10;Song 2: https://youtu.be/p9JxAQqtxkg&#10;&#10;Yes I know what's wrong with my Crowfeather design but when I found out it was too late to change it If anyone felt offended by it, I apologize, but believe me, it is not my ill will but that I didn't know about it. Please do not post a discussion on this topic in the comments !!!Such comments will be removed, if someone wants to talk to me about it, write to me on Discord (Dziad Ufolud # 4599)&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Surrikili"
     channel_id "UCCJFZSWIWDdtRmZCsdKhbzw"
     fav_count 0
@@ -3216,7 +3216,7 @@ graph [
     step 0
     date "2022-05-21T16:00:33Z"
     title "Flamepaw Stole Sparkpelt&#38;#39;s Story | Warrior Cats: A Starless Clan Analysis"
-    description "Who is Sparkfire? Contrary to popular belief, Flamepaw doesn't have one of the most original stories in A Starless Clan. And it all ..."
+    description "Who is Sparkfire? Contrary to popular belief, Flamepaw doesn't have one of the most original stories in A Starless Clan. And it all stems back to its harmful roots in gender bias.&#10;&#10;FAN ARTISTS&#10;https://twitter.com/dreamfeather20&#10;&#10;SUNNYFALL'S VIDEO&#10;https://youtu.be/eFGfz3-lTj0&#10;&#10;NIGHTHEART ARTICLE&#10;https://warriorcats.com/content/article/nightheart-and-the-burden-of-legacy&#10;BLOGCLAN ARCHIVE&#10;https://erinhunter.katecary.co.uk/the-apprentices-quest-spoiler-page/comment-page-24/&#10;&#10;&#10140;  SUBSCRIBE HERE: www.youtube.com/channel/UCRz0F7NaH0l369CRPFBt1IQ?sub_confirmation=1&#10;&#10140;  MY TWITTER: https://twitter.com/wc_hawkkz&#10;&#10;SONGS USED&#10;Undertale OST: 083 - Here We Are&#10;Deltarune Chapter 1 OST: 019 - Scarlet Forest&#10;Deltarune Chapter 1 OST: 020 - Thrash Machine&#10;Deltarune Chapter 1 OST: 034 - Friendship&#10;&#10;Purchase Deltarune and Undertale soundtracks here or on Steam: http://tobyfox.bandcamp.com/&#10;&#10;Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.&#10;&#10;All rights belong to their rightful owner(s). Content shown is not my own unless stated otherwise.&#10;&#10;#warriorcats #warriors"
     channel_title "Hawkkz"
     channel_id "UCRz0F7NaH0l369CRPFBt1IQ"
     fav_count 0
@@ -3231,7 +3231,7 @@ graph [
     step 0
     date "2020-03-14T14:00:26Z"
     title "Ranking Every Warrior Cats Villain"
-    description "There are a lot of villains in Warrior Cats. Which ones are the worst? Which ones are the best? These are my opinions!"
+    description "There are a lot of villains in Warrior Cats. Which ones are the worst? Which ones are the best? These are my opinions!&#10;&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;My Twitch: https://www.twitch.tv/brightguardianakira&#10;&#10;Cat art is by Missy Dakota!&#10;Her Patreon: https://www.patreon.com/MissyDakota&#10;Her Twitter: https://twitter.com/Miss_Dako&#10;Her DeviantArt: https://www.deviantart.com/missydakota&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -3246,7 +3246,7 @@ graph [
     step 0
     date "2022-07-03T15:23:23Z"
     title "- = WCUE TikTok Compilation = Warrior cats: ultimate edition = Filler = -"
-    description "Yet another WCUE TikTok compilation! Credits to all creators @'s in the corner of the screen. &#42160; &#42161; . . &#8674; &#727;&#719;&#715; [ info ] &#65381;&#65439;&#714;&#718; ..."
+    description "Yet another WCUE TikTok compilation!&#10;Credits to all creators @'s in the corner of the screen.&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120362;&#120367;&#120359;&#120368; ] &#65381;&#65439;&#714;&#718; :&#10;A frequently spoken question is why I bother posting TikTok's if they're already on a platform?&#10;My answer to this is because Tiktok, for many people due to private reasons or strict guardians, can not download Tiktok, so with the influence of others, I decided to follow along with the ideas others made, and create a compilation of Appropriate TikToks of many peoples favourite game: Warrior cats: ultimate edition.&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120357;&#120362;&#120372;&#120356;&#120365;&#120354;&#120362;&#120366;&#120358;&#120371; ] &#65381;&#65439;&#714;&#718; :&#10;None of these Tiktoks or Oc's are mine, and it is strictly forbidden to steal anything without permission from the original creators.&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120372;&#120368;&#120356;&#120362;&#120354;&#120365;&#120372; ] &#65381;&#65439;&#714;&#718; :&#10;&#8631; &#9825;&#65038; &#120423;&#120420;&#120407;&#120417;&#120420;&#120429; :: https://web.roblox.com/users/18806398... and... https://web.roblox.com/groups/1247072...&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120373;&#120354;&#120360;&#120372; ~&#120362;&#120360;&#120367;&#120368;&#120371;&#120358;~ ] &#65381;&#65439;&#714;&#718; :&#10;Warriorcats, warrior, cats, warriorcatsultimateedition, mappart, wcue, WCUE, intro, trend, TikTok, compilation, warrior cat tiktok compilation."
     channel_title "LittleSiamese Studios"
     channel_id "UC6slVEueOyx0S7bW1EtqeNw"
     fav_count 0
@@ -3261,7 +3261,7 @@ graph [
     step 0
     date "2021-08-18T15:00:32Z"
     title "The WORST Mistake in Warrior Cats"
-    description "The Warrior Cats books are no stranger to making mistakes, but a recent mistake shines above all the overs. Thumbnail art by ..."
+    description "The Warrior Cats books are no stranger to making mistakes, but a recent mistake shines above all the overs.&#10;&#10;Thumbnail art by Miss Dako: https://twitter.com/Miss_DakoART&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -3276,7 +3276,7 @@ graph [
     step 0
     date "2021-12-25T22:00:10Z"
     title "&#128081;We Three Kings&#128081; COMPLETE Christmas Warrior Cats MAP"
-    description "I am so very happy to be here and presenting you all with We Three Kings, a Christmas Warrior Cats MAP!! Happy Holidays and ..."
+    description "I am so very happy to be here and presenting you all with We Three Kings, a Christmas Warrior Cats MAP!!&#10;&#10;Happy Holidays and cheers to you all! I hope you all had/have a wonderful time with your family, friends, or even yourself these next few days- remember to be safe out there and remind your loved ones how truly loved and appreciated they are!&#10;&#10;[Note: Premiere have chance to be delayed]&#10;CHECK THE CHRISTMAS PLAYLIST MARATHON HERE: https://youtube.com/playlist?list=PLD...&#10;&#10;Saying that, thank you to my very patient and kind and thoughtful participants and backups from the We Three Kings server! I had an absolute blast with you all, my most active and bustling server yet- with over 60 artists in it! I was worried that i'd be alone having to keep a constant eye on every one of you, but you were all a pleasant delight to work and chat with, very easy to communicate with &#9829; Again, thank you from the bottom of my heart, I really was asking a lot from yall- you fought through school, final exams, your family, holiday shopping, AND this MAP's deadline??? Words can't express how deeply grateful I am. I can't wait to work with y'all again in the next year!&#10;&#10;And of course thank you to Orion for pitching this idea to me in the first place! He was a wonderful help to hosting and managing the server when he could ^w^&#10;&#10;His channel: https://www.youtube.com/c/orionfujiwara&#10;He designed each character AND did the original storyboard here: https://youtu.be/FxZXBp3djMA&#10;&#10;And Thank you, Nmirah, one of my dearest friends, despite her being so busy she stepped up for me to do the credits art &#9829; check out her channel here: https://www.youtube.com/channel/UC8LhvWLFZKgTNYkWnk3SDHg&#10;&#10;Our wonderful thumbnail artist: https://www.youtube.com/c/Meroaw&#10;Thank you again so much for offering to do the thumbnail, you really went above and beyond adding the kits, their adult versions, AND the singing star cats!&#10;&#10;Of course, and MeowBean for making the funny little video at the end! They made it like right after the MAP call dropped and my server and I thought it was the BEST thing ever, so I HAD to include it! https://www.youtube.com/channel/UCwR-CffYctULRryXoKtlMGA&#10;&#10;And now our lovely participants! I urge you to go check them out, they really deserve a lot of love!&#10;&#10;1. ThisCatIsOnFire &#10;2. DragonWolfRooke   &#10;3. Nikycookie +  everydayawkward + ultraevos + MANCHKIN!  &#10;4. Mephitis_Cerasus + Helianthanas   &#10;5. Eggkazoo   &#10;6. Sunbreeze   &#10;7. MANCH! + Lost Swiftpaw  &#10;8. Fennexx  &#10;9. sehcy + Digital-Tiger_Tord   &#10;10. RachelAlexanDraws   &#10;11. catwithpajamas + OFUKITTY   &#10;12. DaveThyQueen + Martletwing   &#10;13. immilknahap   &#10;14. Martletwing  &#10;15. TreeDragon   &#10;16. KindaDweebish  &#10;17. Firenyko   &#10;18. IAMFABILOZ   &#10;19. SirKupo &#10;20. Lulabieye  &#10;21. LilyaneMB + JellyfishKisses  &#10;22. ovencat + OFUKITTY   &#10;23. Grimalkind + Flawiusz-Sama   &#10;24. LeafingAround + Digital-Tiger_Tord + MissJackieArt+ Flawiusz-Sama  &#10;25. RivstarS   &#10;&#10;~~~~~~~~~~~~~&#10;Tumblr: @projectshadovv&#10;Twitter: @sadmachlne666 (the i is a lower case L)&#10;&#10;Audio: We Three Kings by Mario Lanza&#10;Characters: Celestial cats (can either be Starclan or their Ancestors from before), Leafpool, Squirrelflight&#10;Series: Warrior Cats&#10;~~~~~~~~~~~~~&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "sad machine"
     channel_id "UCTSL6vBn_ooghAtTJtHSDvQ"
     fav_count 0
@@ -3291,7 +3291,7 @@ graph [
     step 0
     date "2021-12-11T19:32:41Z"
     title "Warrior Cats Ultimate Edition TikTok Compilation! - ROBLOX"
-    description "Well, I also decided that I will be doing WCUE Roblox Tik toks compilations! ~Enjoy~ TAGS:   #TikTok #Tiktok #tiktok #roblox ..."
+    description "Well, I also decided that I will be doing WCUE Roblox Tik toks compilations! &#10;&#10;~Enjoy~&#10;&#10;&#10;&#127800;TAGS:&#127800;&#10;&#10;#TikTok #Tiktok #tiktok #roblox #ROBLOX #WCUE #Wcue #Cat #cat #Warrior cats #Warrior Cats Ultimate Edition #6Mins"
     channel_title "CandY"
     channel_id "UCfvTb6RV046r-P6Wmy4Rn2Q"
     fav_count 0
@@ -3306,7 +3306,7 @@ graph [
     step 0
     date "2022-03-20T18:00:10Z"
     title "TIME // Complete Sol MAP **TW"
-    description "TW// This MAP contains disturbing images and audio, including loud noises, eye contact, flashing, glitching effects, gore, and ..."
+    description "**TW// This MAP contains disturbing images and audio, including loud noises, eye contact, flashing, glitching effects, gore, and overall unsettling depictions which are intended for a mature audience. Please proceed with caution.&#10;&#10;Oh boy this was one fun ride! This might be one of my favorite MAPs I have ever hosted, all the participants did an amazing job bringing the storyboard to life while giving their own personal twists! Big thanks to my co-host Miss Eus who not only did the amazing storyboard, but was a great help during MAP production! Check out her channel here:&#10;https://www.youtube.com/channel/UCZkEX8TksUredLtGKkJHNaQ &#10;&#10;MAP Explanation : A MAP stands for a Multi-Animator-Project. For this video, over 60 animators got together, each given a 3-7 second storyboard clip, and created this animation through their artistic talents! All participants had a deadline of one month, and despite a few extensions made, the MAP production was finished at a rapid pace! &#10;This MAP tells the story of Sol, a strange cat who mesmerizes apprentices Jaypaw, Hollypaw and Lionpaw. Despite his seemingly fun demeanor, the apprentices over time discover Sol's true nature and motives. &#10;&#10;Congratulations to Springstrike for winning the thumbnail contest! Check out their other work here : https://www.youtube.com/channel/UCT7R9KWxQAEmwyDR3amxPKg &#10;&#10;Original MAP Call/Storyboard : https://www.youtube.com/watch?v=rrsTTBpetrs &#10;&#10;Playlist of Parts : https://www.youtube.com/watch?v=rrsTTBpetrs&#38;list=PLcgz92zs1A7PeUPnkLVobzxlUu3xszfBB &#10;&#10;Links to all of the Participants : https://docs.google.com/document/d/18RLhLFJ0uXcVqZdDJMHEO2fybLg0JuHfobjaDUHJlgI/edit?&#10;usp=sharing &#10;&#10;Original Don&#8217;t Hug me I&#8217;m Scared Video: https://www.youtube.com/watch?v=vtkGtXtDlQA &#10;&#10;Song : TIME - Don&#8217;t Hug Me I&#8217;m Scared&#10;Outro Song : The Creative Song - Don&#8217;t Hug Me I&#8217;m Scared&#10;Characters by Erin Hunter&#10;Art by Respective Animators&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Treeetooop"
     channel_id "UC_2Wh2PLGQX3gfmQOfOZh0w"
     fav_count 0
@@ -3321,7 +3321,7 @@ graph [
     step 0
     date "2020-07-10T06:11:53Z"
     title "HOW TO MAKE A WARRIOR CATS CUSTOM FROM START TO FINISH!"
-    description "Learn how to make your very own Warrior Cats custom from start to finish! Design Your Own Warriors Clan!"
+    description "Learn how to make your very own Warrior Cats custom from start to finish! &#10;&#10;Design Your Own Warriors Clan! https://etsy.me/3f5ZwDR&#10;&#13;&#10;Want to have your fanmail opened on camera? &#13;&#10;WE HAVE A NEW P.O. BOX!&#13;&#10;&#13;&#10;Pinkbunnygirl43 &#13;&#10;P.O. Box 632&#13;&#10;Meridian, ID 83680&#13;&#10;...&#13;&#10;&#13;&#10;Want some real life warriors cats? Subscribe to my seven cats' channel! Daily cat videos!&#13;&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;...&#10;&#10;13+ Content Disclaimer: The use of handpainted clay figurines in this video is simply a creative choice and not intended to attract young viewers."
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -3336,7 +3336,7 @@ graph [
     step 0
     date "2022-06-12T19:16:51Z"
     title "Warrior Cats: REALISTIC Skins/Morphs Ideas! #11 (Roblox)"
-    description "Welcome back to a new warrior cats: ultimate edition roblox video! :D Today, I am presenting you yet again a skin/morph idea ..."
+    description "Welcome back to a new warrior cats: ultimate edition roblox video! :D Today, I am presenting you yet again a skin/morph idea video, but this time, I'll be trying to make realistic morphes out of actual cat breeds! I hope you'll enjoy ^^&#10;&#10;-----&#10;&#10;Join my Discord server! Talk with me and the others members of my community! Join some videos, make friends, talk about what you like and learn to know me!&#10;&#10;Invitation Link: https://discord.gg/FpXtFC2"
     channel_title "Zeira_Wolf"
     channel_id "UCjsZkpuP3AlNdZj9iFuKBzg"
     fav_count 0
@@ -3351,7 +3351,7 @@ graph [
     step 0
     date "2022-05-12T20:15:00Z"
     title "What Happened To Reedwhisker? | Warrior Cats Theory"
-    description "Hey guys! Mapletail here, today I'm taking a look at some theories at what really happened to Reedwhisker in River. Berryheart: ..."
+    description "Hey guys! Mapletail here, today I'm taking a look at some theories at what really happened to Reedwhisker in River. &#10;&#10;Berryheart: https://clownfur.tumblr.com/post/681603623433748480/starless-clan-therios-i-think-that-berryheart&#10;&#10;Riverclan coup: https://everybody-loves-purdy.tumblr.com/post/680913667602153472/why-would-curlfeather-say-trust-no-cat-shes&#10;&#10;https://sharp-eyed-jay.tumblr.com/post/681255430681460736/ive-been-seeing-theories-abound-about-a-possible&#10;&#10;Commissions are OPEN: https://owlart18.tumblr.com/post/656626600665923584/updated-commission-info-will-draw-ocs-any or https://twitter.com/MRiverclan/status/1415045499200020482&#10;&#10;Twitter: @Mapletail of Riverclan https://twitter.com/MRiverclan&#10;Tumblr artblog: @owlart18 https://www.tumblr.com/blog/owlart18&#10;Instagram: @mapletail_ofriverclan https://www.instagram.com/mapletail_ofriverclan/&#10;Portfolio: https://catypoee.wixsite.com/owlart&#10;Tiktok: @mapletail_ofriverclan https://vm.tiktok.com/ZMJSFbxW4/&#10;&#10;Music from Youtube royalty free"
     channel_title "Mapletail of Riverclan"
     channel_id "UCnCF46AlO1PMIpyjvIcsDBA"
     fav_count 0
@@ -3366,7 +3366,7 @@ graph [
     step 0
     date "2022-06-13T19:30:06Z"
     title "Cancelled, Rumored, and Unknown Warrior Cats Books"
-    description "Warriors books, there's a lot of them. There's over ninety different titles in the Warrior Cats franchise which is&#8230; a lot of content to ..."
+    description "Warriors books, there&#8217;s a lot of them. There&#8217;s over ninety different titles in the Warrior Cats franchise which is&#8230; a lot of content to say the least. With this many books, there&#8217;s bound to be some that fall through the cracks. After reading a comment from a viewer, I began my search for some unknown warrior cats books, deleted books, or any other interesting chapters and stories that have been lost to the sands of time. &#10;In this video I&#8217;ll be discussing some &#8220;unknown&#8221; field guides, rumored super editions, deleted scenes, along with a few special books that I&#8217;ve found :3&#10;Old fans and new, I hope that you&#8217;ll learn about something new &#9829;&#65039;&#9829;&#65039;&#10;&#10;LINKS&#10;----------&#10;Short stories and plays, backup on Silverpelt (Website has since been taken down) &#10;https://web.archive.org/web/20210614062729/https://www.silverpelt.co.uk/shortstories.php&#10;&#10;ACKNOWLEDGEMENTS &#10;----------&#10;Voice over done by ITO.&#10;Clips and pictures belong to their respective owners.&#10;If any information is wrong, let me know in the comments!&#10;&#10;MUSIC&#10;----------&#10;Petz Cats 2 &#10;#warriors #Warriorcats #lostmedia"
     channel_title "Soleil"
     channel_id "UCSJbqBGNSj48BX_Xw3_tLgg"
     fav_count 0
@@ -3381,7 +3381,7 @@ graph [
     step 0
     date "2022-05-05T07:15:41Z"
     title "Warrior Cats: Ultimate Edition - Developer QnA! [News on future updates and game progress]"
-    description "Link to the Google Doc, check it out ..."
+    description "Link to the Google Doc, check it out ! &#10;https://docs.google.com/document/d/1R174NIDg0FIy4fT247YqRFXXvqgnBNlIiQihJBnmjpY/edit&#10;Again, thank you Bird for letting me use yours notes for this video !! :D &#10;Discord Server: https://discord.gg/jGGBaYwq"
     channel_title "Dime' Haze"
     channel_id "UCxpbA97xIDww9wPkafvkW6Q"
     fav_count 0
@@ -3396,7 +3396,7 @@ graph [
     step 0
     date "2021-03-01T18:00:11Z"
     title "Roblox Warrior Cats : You find a kit.. [ Tiny Family ]"
-    description "Link to Littlesprout's Stories discord: https://discord.gg/WffYsvd637 Fanart Email: littlesproutart@gmail.com -- Intro Artist ..."
+    description "Link to Littlesprout's Stories discord: https://discord.gg/WffYsvd637&#10;Fanart Email: littlesproutart@gmail.com&#10;--&#10;Intro Artist - https://www.youtube.com/channel/UCEZsBL07QuqjqgWmxcTjlgw&#10;&#10;Intro song - https://www.youtube.com/channel/UCps63j3krzAG4OyXeEyuhFw&#10;&#10;--&#10;Game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition-BETA?refPageId=40616b31-ff59-4e91-a066-c3015f5c9131&#10;Game discord: https://discord.gg/wcue"
     channel_title "Littlesprout's Stories"
     channel_id "UCaSCdIv5TjmJVrSF_ix_NOg"
     fav_count 0
@@ -3411,7 +3411,7 @@ graph [
     step 0
     date "2022-06-17T18:18:28Z"
     title "Warrior Cats Clan Generator Challenge"
-    description "And there is Lily Clan, it was really fun coming up with these designs that I wanted to incorporate the real life cat the characters ..."
+    description "And there is Lily Clan, it was really fun coming up with these designs that I wanted to incorporate the real life cat the characters were generated as, but also include my own style and design choices!&#10;&#10;Which design/cat is your favorite from Lily Clan? &#10;&#10;Commisions are OPEN: https://docs.google.com/document/d/1zxaA2UDnlB4udsMy4nWZjvMLhlhS6s-xXGifoBUZJoM/edit"
     channel_title "Cora Mescher"
     channel_id "UChflTu4osJEXGlhBLHmDYFg"
     fav_count 0
@@ -3426,7 +3426,7 @@ graph [
     step 0
     date "2019-08-02T11:47:35Z"
     title "[13+] [Heathens] Warrior Cats - Animator Tribute (WARNING: FLASHING LIGHTS!)"
-    description "Hey guys! It's finally done, I'm so glad! This took a long time for me to edit, but it turned out really awesome! And I hope y'all will ..."
+    description "Hey guys! It&#8217;s finally done, I&#8217;m so glad! This took a long time for me to edit, but it turned out really awesome! And I hope y&#8217;all will like it too! :D &#10;&#10;Here are the amazing animators:&#10;&#10;CuteFlare&#10;Kay2036&#10;Spottedfire25&#10;DarkMoon RAY&#10;Brightpelt&#10;Cranberry the Cat&#10;SEGAmastergirl&#10;Bosley Boz&#10;Cytroplex&#10;Marshukitty&#10;Shrimp on a Bus&#10;Dirgeclaw&#10;Karrie M&#10;Meow 286&#10;Colacatinthehat&#10;Nightrizer&#10;Nifty-Senpai&#10;Dogfish&#10;TangleClaw&#10;Fey Draws&#10;Koerenn&#10;AlexHarrier&#10;Owlspark&#10;AnimeLionessMika&#10;Sagutoyas&#10;Morticia Cat&#10;Wolfhowler9880&#10;GinjaNinjaOwO&#10;&#10;&#10;I hope you like it! :3&#10;&#10;Song: Twenty One Pilots - Heathens&#10;Thumbnail: colacatinthehat&#10;&#10;Instagram: @_.xxdark_moonxx._&#10;Tumblr: @that-one-emo-kiddo"
     channel_title "xXDarkMoonXx"
     channel_id "UCCiPjyJI16Ya3UYTZC8kHMQ"
     fav_count 0
@@ -3441,7 +3441,7 @@ graph [
     step 0
     date "2022-05-05T23:10:34Z"
     title "&#128032; NEW UPDATE!! INCLUDES NEW CAMPS, ROLES, ACCESSORIES &#38;amp; MORE! |Warrior Cats: Ultimate Edition 2022 &#128031;"
-    description "Hi Sunnies! (NEW UPDATE TO GAME!) We have NEW CAT CLAN CAMPS, ROLES, 2022 SPRING ACCESSORIES &#38; MORE!"
+    description "Hi Sunnies! (NEW UPDATE TO GAME!) We have NEW CAT CLAN CAMPS, ROLES, 2022 SPRING ACCESSORIES &#38; MORE!! Make sure to watch through the whole video! Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;WCUE Discord Server: https://discord.gg/WkDbnzA4hT&#10;WCUE Tiktok: https://www.tiktok.com/@warrior.cats.ue&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #WCUE"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -3456,7 +3456,7 @@ graph [
     step 0
     date "2017-11-02T20:58:57Z"
     title "Warrior Cats Facts #23"
-    description "Looking for another great book series? Check these out! &#10024; The Wolves of Elementa: Amazon: ..."
+    description "Looking for another great book series? Check these out!&#10;&#10024; The Wolves of Elementa:&#10;Amazon: https://www.amazon.com/Wolves-Elementa-Frozen-Secrets/dp/1990171044/ref=sr_1_1?dchild=1&#38;keywords=Sophie+Torro&#38;qid=1631751995&#38;sr=8-1&#10;Kobo: https://www.kobo.com/us/en/ebook/the-wolves-of-elementa-frozen-secrets&#10;&#10024; Griffin Quest:&#10;Amazon: https://www.amazon.com/Griffin-Quest-Solar-Siege-Book/dp/1990171060/ref=sr_1_1?keywords=Griffin+Quest&#38;qid=1631751766&#38;s=books&#38;sr=1-1&#10;Kobo: https://www.kobo.com/us/en/ebook/griffin-quest-the-solar-siege&#10;&#10024; SkyTalons:&#10;Amazon: https://www.amazon.com/SkyTalons-Cornelius-Curse-Sophie-Torro/dp/1999233611 &#10;Kobo: https://www.kobo.com/us/en/ebook/skytalons &#10;&#10;*Original description*&#10;Music:&#10;TheFatRat - &#34;Fly Away feat. Anjulie&#34;&#10;&#10;Artists: &#10;Nifty Senpai's: The Warrior Cats Project &#10;http://warriorsproject.tumblr.com&#10;&#10;Ukari's Warrior Cats &#10;https://ukariwarriorcats.tumblr.com&#10;&#10;Draikinator&#10;https://draikinator.deviantart.com/art/Dustpelt-701862950"
     channel_title "Sophie Torro Unlimited"
     channel_id "UCRXz0uHm0MYtRFUKHYIhjKw"
     fav_count 0
@@ -3471,7 +3471,7 @@ graph [
     step 0
     date "2022-01-09T19:59:56Z"
     title "Warrior Cats Ultimate Edition Ideas: Remodeled brindle marking"
-    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas). Credit for the ..."
+    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas).&#10;Credit for the information in the WCUE Discord goes to Bav!&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/Doj90194615&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -3486,7 +3486,7 @@ graph [
     step 0
     date "2021-06-20T18:10:48Z"
     title "&#38;quot;Cups Song&#38;quot;/&#38;quot;When I&#38;#39;m Gone&#38;quot; | Warrior Cats Squirrelflight &#38;amp; Brambleclaw PMV"
-    description "It's finally done, hooray!!!! This honestly took way too long xD At first I really just wanted to make a short part of the song as practice ..."
+    description "It's finally done, hooray!!!! This honestly took way too long xD&#10; At first I really just wanted to make a short part of the song as practice for the program, but I decided to do the whole thing in the end ^^&#10;Also this is mainly just taking place during the second arc of the series.&#10;&#10;&#10;But yeah, I hope you like it! :)&#10;&#10;&#10;I don't own anything, except the drawings. &#10;&#10;&#10;&#10;Programs used:&#10;Clip Studio Paint (drawing)&#10;&#10;Adobe Premiere Pro (video-editing)"
     channel_title "Ghostless"
     channel_id "UC6yypTWSwFniAZvcMrXtkyw"
     fav_count 0
@@ -3501,7 +3501,7 @@ graph [
     step 0
     date "2021-12-05T04:00:15Z"
     title "Things Warrior Cats Ultimate Edition Could Add - Roblox"
-    description "things they seriously could've added SOME pictures in this video aren't mine!! THE MODEL IN THIS VIDEO IS NOT MINE. I GOT IT ..."
+    description "things they seriously could've added &#10;&#10;SOME pictures in this video aren't mine!!&#10;&#10;THE MODEL IN THIS VIDEO IS NOT MINE. I GOT IT FROM DISCORD AND I NEVER MADE THE MODEL. I JUST EDITED IT. Sorry if I offended you!"
     channel_title "Swagger"
     channel_id "UCOMaPmZBnsUT9oV_XFu9H1w"
     fav_count 0
@@ -3516,7 +3516,7 @@ graph [
     step 0
     date "2021-05-28T12:00:08Z"
     title "The drama of WindClan || Warrior Cats: Ultimate Edition"
-    description "You guys really like your battle cats, don't you? - Music &#34;Wallpaper&#34; Kevin MacLeod (incompetech.com) Licensed under Creative ..."
+    description "You guys really like your battle cats, don't you?&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Wallpaper&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -3531,7 +3531,7 @@ graph [
     step 0
     date "2022-06-15T15:15:11Z"
     title "Serpent Sol // Warriors Weekend MAP call// CLOSED, BACKUP SLOTS LIMITED"
-    description "Co-hosting this MAP with @Bolitamurcielago !! https://www.youtube.com/c/Bolitamurcielago/featured Serpent Sol, an invitation for ..."
+    description "Co-hosting this MAP with @Bolitamurcielago !!&#10;https://www.youtube.com/c/Bolitamurcielago/featured&#10;Serpent Sol, an invitation for those outside of Mexico to learn about my(Bolitamurcielago's) city&#8217;s beautiful ecosystem, history, and current situation by Bolitamurcielago:  https://docs.google.com/document/d/1lOz1KaM_vfxZC4_hHPZgmwPY-nB1tSmjGI_RCc_sO6w/edit&#10;&#10;For some context, I'm chicano and my co-host, Bolitamurcielago, is chilanga. We both wanted to use Serpent Sol as an opportunity for Mexican represation within the Warrior Cats community but more importantly we wanted to invite people to learn about Mexico. This the MAP is based on mexican flora/fauna and contemporary culture, and a few indigenous individuals were contacted to proofread everything.&#10;&#10;This MAProject is called Serpent Sol! The Clans are suffering from a drought after the lake dries up. So Squirrelflight embarks on a journey to bring back water to the Clan. On her quest, she meets Sol who is playful and naive. They bond over their hardships while Feathertail reluctantly tags along. But tensions rise when they are led to three kits by a colorful figure.&#10;&#10;Application form: https://docs.google.com/forms/d/1zZBXDMs3mODg3FgEgZ1i7F8nXEPclxCs70HAPylv2rQ/edit&#10;Script: https://docs.google.com/document/d/1JWObEWPqMkIADo2DgGHTyM0Qk6PI7S-JxBd3auIO7iU/edit?usp=sharing&#10;&#10;LIST OF PARTS: https://docs.google.com/spreadsheets/d/1Yf2JRaeiRgVeCt3SrZoY41MUZKZEkaw8RtXbV_9WAaE/edit?usp=sharing&#10;Parts playlist: https://www.youtube.com/playlist?list=PLbSyL5k7nLJjW-c3QpxTI7P-Uo8WY7gsm&#10;Rule / Script / Designs: https://docs.google.com/document/d/1JWObEWPqMkIADo2DgGHTyM0Qk6PI7S-JxBd3auIO7iU/edit&#10;Thumbnail contest:  https://docs.google.com/forms/d/1-sKsrSmRXGhSbEn0-6-Lq48K4EblGwVmo6RhbB8pXvw/edit&#10;Have concerns about the MAP? Contact our support team on twitter: https://twitter.com/MAProjectTeam&#10;Interested in being a background concept artist for my next MAP? https://docs.google.com/forms/d/1SoH0MwsAmuhXuU5czSP5YDMJwvwFoKM74Z_Kit4B51E/edit&#10;Interested in being a storyboard artist for my next MAP? https://docs.google.com/forms/d/1zZMDKL9nriHV_7Goq7WgVNCq2N2JLoplMcSna78qPpU/edit&#10;Songs: The Drunk by Kiltro, If I Lead by Kiltro, Mi Capit&#225;n by Kiltro, &#38; Curic&#243; by Kiltro&#10;&#10;Storyboard by:&#10;@LenisLynx @LettuceBettuce @Galaxy Mew Mishi https://www.youtube.com/channel/UCpz6vdbYyMbrGB4fSU5s-KQ/featured @Inspector Spinda @Treeetooop @KAIRONG @MissJackieArt@starpetite  @darkpurplx @ColorfulMarble789 @Archiepelago @Renaph @EdgyPotatt - @Sparroet @Ben Scribbles @Sadie Gleason @Riin @Cheeteh Z &#10;&#10;Thumbnail by: @CryptidInTheCloset&#8203;"
     channel_title "Cheeteh Z"
     channel_id "UC_UNiqVULw1l7m5q9Z43o1A"
     fav_count 0
@@ -3546,7 +3546,7 @@ graph [
     step 0
     date "2010-04-04T03:45:01Z"
     title "episode 2 part 2 - SSS Warrior cats fan animation"
-    description "Artist's Comments in part 3. Thank you for watching part 2, really appreciate it ! here is the link to part 3 ..."
+    description "Artist's Comments in part 3.&#13;&#10;Thank you for watching part 2, really appreciate it !&#13;&#10;here is the link to part 3 :&#13;&#10;http://www.youtube.com/watch?v=AWnSfTIe9G8&#13;&#10;&#13;&#10;&#13;&#10;***&#13;&#10;Brief credits for your reference:&#13;&#10;Original Warrior Cats book series&#13;&#10;Erin Hunter&#13;&#10;&#13;&#10;Warrior Cats book official website&#13;&#10;http://www.warriorcats.com/warriorshell.html&#13;&#10;&#13;&#10;Fan animation director&#13;&#10;Yuji&#13;&#10;&#13;&#10;Animator&#13;&#10;Yuji&#13;&#10;Zing&#13;&#10;&#13;&#10;Coloring/ Shading&#13;&#10;Chris/ Tail 230&#13;&#10;Gingajinketsukoushi&#13;&#10;Nick&#13;&#10;Sarah&#13;&#10;Susi&#13;&#10;Yuji&#13;&#10;Zing&#13;&#10;&#13;&#10;Voices&#13;&#10;Rusty     Kou Rwr/ gingajinketsukoushi&#13;&#10;Whitestorm     John Rohrer&#13;&#10;Lionheart     Stephen&#13;&#10;Bluestar     Shannon&#13;&#10;Longtail     Nick&#13;&#10;Smudge     Chris&#13;&#10;Greypaw     Jerrymojo2&#13;&#10;Cat Crowds  &#13;&#10;Chris&#13;&#10;Kiwi&#13;&#10;Mat&#13;&#10;Todd&#13;&#10;Zing&#13;&#10;&#13;&#10;SSSWarriorcats Forum by Kai/ Splotcat&#13;&#10;http://ssswarriorcats.proboards.com/&#13;&#10;  &#13;&#10;Musics&#13;&#10;Truelight - theme for DNAngel&#13;&#10;Inuyasha Instrumental Music 4 - Miki Watanab&#13;&#10;Storm - the Yoshida Brothers&#13;&#10;Untitled - Royalty Free&#13;&#10;MonkeyBirds - Iain Ballamy&#13;&#10;Kamimi Festival - Okami Soundtrack&#13;&#10;D-Technolife - Uverworld&#13;&#10;Ending song- Tsuki Senichiya&#13;&#10;&#13;&#10;Love Warriors"
     channel_title "SSS Warrior Cats"
     channel_id "UCI7G8bfrCsV9A52JQWJEpKw"
     fav_count 0
@@ -3561,7 +3561,7 @@ graph [
     step 0
     date "2012-05-19T01:08:02Z"
     title "SSS Warrior cats intro - English"
-    description "Hi! Alu here! So I decided to upload the intro in English we -might- use from now on. and yes, I added an extra part to fit the music ..."
+    description "Hi! Alu here!&#10;&#10;So I decided to upload the intro in English we -might- use from now on. and yes, I added an extra part to fit the music :b&#10;&#10;WE ARE PLANNING ON FINISHING PART 1 OF EPISODE 3 IN JUNE. hooray. ;D As long as the voice actors are with us! :) Voice actors, go contact me or wanton! ;D&#10;&#10;The song is called &#34;True Light&#34; and the English version is by Vic&#65279; Mignogna.&#10;Original Japanese Version - http://www.youtube.com/watch?v=vmzZN-MWiMU&#38;feature=relmfu&#10;Kaybyelol&#10;&#10;&#10;Since Yuji left, this project will be continued by Alu, Wanton and Zing. More information: &#10;http://sss-warriorcats.deviantart.com/journal/Looking-for-new-team-members-info-EDIT-SCROLL-299093286"
     channel_title "SSS Warrior Cats"
     channel_id "UCI7G8bfrCsV9A52JQWJEpKw"
     fav_count 0
@@ -3576,7 +3576,7 @@ graph [
     step 0
     date "2021-09-02T04:30:08Z"
     title "Do You Love Me Bramblestar and Ashfur COMPLETE Warriors MAP"
-    description "Hello all, after almost exactly a year we are here, got this in on my birthday as promised. I'm so happy with how this came out and ..."
+    description "Hello all, after almost exactly a year we are here, got this in on my birthday as promised. I&#8217;m so happy with how this came out and all the hard work that went into this project, I couldnt be more proud of the animators. &#10;&#10;Thank you so much to real gc and everyone who assisted in co hosting, editing, and all the work that went towards this.&#10;&#10;This is a stylistic Imposter Bramblestar and Ashfur MAP focusing on the merging of Bramblestar&#8217;s psyche with Ashfur, and the control this has over him and his relationships, ultimately leaving him alone in his own mindgames. &#10;-You can read more about this in the script: https://docs.google.com/document/d/12Lztndboo6oPLnE4iUr1P5HUklICnhmR6y0ZvOJryiQ/edit?usp=sharing&#10;&#10;Animators:&#10;&#10;Intro: @Chocobir  0:22&#10;0. @FISHSOCKS 0:00&#10;1. @Shady Alpha 0:30&#10;2. @Aspen Shadow  0:39&#10;3. @Puddleface 0:43&#10;4. KIIDSTAR @ColdFoop 0:51&#10;5. @Saberoo  0:55&#10;6. @BUSTERSW0RD  @Floatia 1:04&#10;7. @ColdFoop  1:12&#10;8. @RedBear 1:20&#10;9. @CheekyTiger @Martletwing 1:27&#10;10. @KimSxxiny  @CTAKAN 1:35&#10;11. @SADSUMA 1:43&#10;12. @Louixie @meow 286  1:50&#10;13. @Senswii @rufkasoda 1:55&#10;14. @Adrianimations 2:03&#10;15. @Riley Ellis  @shinyarcs 2:07&#10;16. @Phantomsylveon  2:15&#10;17. @Crystal Silverlight  2:23&#10;18. @MtfoxX3  2:31&#10;19. @MANCHKIN! 2:39&#10;20. @Blanchy @GiingerSnaps  2:48&#10;21. @donnaroe  2:55&#10;22. @Icefelis  3:03&#10;23. @Koerenn 3:10&#10;24. @Sagutoyas  3:19&#10;25. @Sagutoyas &#10;26. @Tusofsky  3:35&#10;27. @ursiday 3:43&#10;28. @Icecolo 3:52&#10;29. @bunnycat  3:59&#10;30. @Glitch Sixxle 4:07&#10;outro: @Cheebzmacka  @Cheeteh Z 4:23&#10;Thumbnail art winner: @Cante Skuya &#10;&#10;Song: Ma&#238;tre Gims - Est-ce que tu m'aimes ?&#10;Characters belong to the Warriors series by Erin Hunter&#10;Complete MAP is a product of several individual artists with their own copyrights. Please do not repost&#10;&#10;--&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Glitch Sixxle "
     channel_id "UCuDEs_K4NP92RhjaLTXkF-g"
     fav_count 0
@@ -3591,7 +3591,7 @@ graph [
     step 0
     date "2021-10-28T23:48:35Z"
     title "Let Me Introduce The Villains Of Warrior Cats.."
-    description "Subscribe! Photo Credits: https://www.google.com/"
+    description "Subscribe!&#10;Photo Credits: https://www.google.com/"
     channel_title "WarriorsSpirit"
     channel_id "UChHak5HBmD9ZvCdbAiNM4pQ"
     fav_count 0
@@ -3606,7 +3606,7 @@ graph [
     step 0
     date "2021-12-15T18:00:28Z"
     title "&#127775; Starclan&#38;#39;s Arena &#127775; Warrior Cats COMPLETE MAP &#10024;"
-    description "If u have the chance can you help share this map? :'DD Youtube as been playing with my face recently, and not sharing my videos ..."
+    description "If u have the chance can you help share this map? :'DD Youtube as been playing with my face recently, and not sharing my videos, so even a like helps a lot! Means a lot to me!&#10;&#10;&#10024; SPECIAL NOTE: I've set this long premiere to December 15th, due it's the &#34;Map Birthday&#34; so I thought it would be fun to set the premiere after 1 year of upload :0 I also want to thank a lot Moonshadow and @Moonbeanie Warrior  for omg their incrible job as backup, If it weren't for them I believe that the MAP would still take a little longer to complete; Thank you so so much for get so many parts and for your fantastic work! &#10084;&#65039;&#10;-----&#10;&#9888;&#65039; Trigger Warning: This MAP Contains animal death, flashing lights and spoilers about characters death from Warrior Cats series&#10;&#10;&#10024; || ABOUT&#10;The MAP shows up some of warriors's death, however it's symbolized by yellow petals and the character that will die is colored; Contains spoliers to DOTC until VOS, this MAP does not inclues deaths from BC!&#10;&#10;&#10024; || ANIMATORS LIST || &#10024;&#10;@Ironyche &#10;Chiaseedwater&#10;@Kayds* &#10;@DaMoomin &#10;Midnight&#10;@Mothbrook &#10;@GreatSylveon 2007 &#10;@&#8226; Astronomia &#8226; &#10;AslanaNight&#10;@OFUKITTY &#10;@KrispyKitty66 &#10;@LunarTempest &#10;@Gildedware (aka GildedPhD) &#10;Hoopdog The King&#10;@Nitchyou &#10;@&#402;reak&#931;asy &#10;Ninnoibat&#10;@Kuuttituutti &#10;@Tiny Winy &#10;Angel Shards&#10;Moonshadow&#10;@Otterey &#10;@SplashDreamms &#10;@Demi m0n &#10;@&#33469;&#31958;Maltose &#10;Snowly Lika&#10;@Sunset Raven &#10;@Moonbeanie Warrior &#10;Rainy Clouds&#10;berrybovine&#10;@Jaytail &#10;@Crystal Nugget &#10;MARSHII&#10;@Marinin&#10;@Pinktune0z &#10;&#10;&#10024; || DETAILS&#10;MAP CALL: https://youtu.be/fBi5GpCz0Gk&#10;Playlist with Complete Parts+Extra Arts: https://youtube.com/playlist?list=PLD-9CjYt_7tVGeENLS4s8o6AvqDOsB0OF (PLEASE SUPPORT THE ARTISTS)&#10;Thumbnail Winner: Moonshadow (thank you everyone for all entries and fanarts!!)&#10;Character is from Erin Hunter's series Warriors Cats, and Designs by @GEKKOZILLA and @Nifty-Senpai &#10;Endcredits art by @SplashDreamms and Aliceluh (background) and characters tweening by @Marinin !&#10;Song: Lindsey Stirling - The Arena"
     channel_title "SplashDreamms"
     channel_id "UC1klWasU7tnfIehKifhShWA"
     fav_count 0
@@ -3621,7 +3621,7 @@ graph [
     step 0
     date "2019-10-19T14:00:11Z"
     title "Fixing Your Warrior Cats Ship Art"
-    description "The time has come yet again for me to fix Warrior Cats fan art from you all. Yes, this is a series now. You all watched my first two fix ..."
+    description "The time has come yet again for me to fix Warrior Cats fan art from you all. Yes, this is a series now. You all watched my first two fix art videos a bunch, so I'm happy to keep providing them!&#10;&#10;Bright Guardian Akira Amino: https://aminoapps.com/c/brightguardianakira"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -3636,7 +3636,7 @@ graph [
     step 0
     date "2022-05-03T17:45:02Z"
     title "Next Up Forever - Warrior Cats AU Animatic"
-    description "Let's goooo About this AU - it is a role swapping AU, of two of my favorite character foils in all of warrior cats - Rusty, and Tiny."
+    description "Let's goooo&#10;&#10;About this AU - it is a role swapping AU, of two of my favorite character foils in all of warrior cats - Rusty, and Tiny. Half brothers, and both kittypets who were offered different opportunities in life. I wanted to explore how each of them would make use of the other's opportunities. Tiny is given the opportunity to become a forest warrior cat, known as Tinyfrost; and Rusty, when driven off by Tigerclaw, becomes the leader of a clan of feral street cats - taking the name Boon. (Boon? Antonym of Scourge? Eh? Eh? XD)&#10;&#10;This video focuses on Boon's story and how he came to found FireClan, with the help of his friends Barley, Violet, and of course Yellowfang (who provided all the stories and training needed to found the Clan.) Someday I'd like to make other storyboards or other projects revolving around Tinyfrost's story, or other characters in this AU. I've spent a lot of time thinking about it and writing about it haha.&#10;&#10;I'm so happy with how this turned out. I used it as a chance to push my storyboarding work, and try out new techniques and tools I wasn't used to. I learned how to use Toon Boom Storyboard Pro's 3D tools (DEFINITELY want to use that more) as well as learning how to model in Blender! The background of the StarClan shot, the trees and rocks, I made using Blender's tree and rock generators. Once I figure out how to use Blender completely, my storyboards will be unstoppable! Hoohoo! But first I gotta juice up my computer, the poor thing was one heartbeat away from crashing when I tried to export this monster haha.&#10;&#10;Eventually I do plan to host a MAP (multi-animator-project) of this video, but I've got a lot of character designs, set designs and color palettes to figure out before that can happen. But keep an eye out for that! I just wanted to upload the finished storyboard anyway, because I am proud of it.&#10;&#10;Song: Next Up Forever, by AJR&#10;&#10;I made this video using Toon Boom Storyboard Pro, Blender, and Photoshop."
     channel_title "Sarah Sellers- DragonwolfRooke"
     channel_id "UCuWqMpIIwG71rJx4bWLuAKQ"
     fav_count 0
@@ -3651,7 +3651,7 @@ graph [
     step 0
     date "2021-09-24T19:00:10Z"
     title "Warrior Cat Voice Actors Play: Mafia | In Character"
-    description "WELCOME TO WARRIOR CATS MAFIA! Please keep in mind this is very experimental at the moment! We'll improve as we create ..."
+    description "WELCOME TO WARRIOR CATS MAFIA!&#10;Please keep in mind this is very experimental at the moment! We'll improve as we create more of this series in the future! This was such a fun project to work on for all the voice actors and we hope you enjoy! We'd be more than happy to make a Warriors themed game if you'd like!&#10;&#10;Thumbnail artist: GearUp https://twitter.com/GearUpTwitch&#10;&#10;Headshots: &#10;Alderheart + Brackenpaw + Jayfeather: Mika (https://www.instagram.com/mikakucity)&#10;Crowfeather: Smogdeer (https://youtube.com/channel/UCjoLEjfj_THmgkC6I3HB3RA)&#10;Hawkfrost: Kaseypaws (https://twitter.com/Kaseypaws)&#10;Mapleshade + Mothwing: Sketti (https://twitter.com/SkettiDragon?s=09)&#10;Ravenpaw: GearUp https://twitter.com/GearUpTwitch&#10;Redtail: Sun Cat The Dragon&#10;Rowanstar + Yellowfang: ErrorEmma (https://www.deviantart.com/erroremma)&#10;Sol + Sasha: Boofey/Bouncy (https://linktr.ee/Bouncy_Feather)&#10;&#10;Voice actors:&#10;Jayfeather: GearUp https://twitter.com/GearUpTwitch&#10;Alderheart: Chris (https://www.youtube.com/channel/UCTQCLycV5E-fIglg4Gye3KA)&#10;Hawkfrost: Zeddall&#10;Brackenpaw: Terson https://twitch.tv/tersonva &#10;Crowfeather: Paper Foxx (https://www.twitch.tv/paper_foxx)&#10;Mapleshade: ErrorEmma (https://www.deviantart.com/erroremma)&#10;Mothwing: Smog (https://youtube.com/channel/UCjoLEjfj_THmgkC6I3HB3RA)&#10;Ravenpaw: Islacreeper&#10;Redtail: Rin/Jaryn (https://www.twitch.tv/rinthecreator)&#10;Sasha: Blueberry&#10;Sol: Tobias Fink (https://twitter.com/TheCopyKater)&#10;Yellowfang: Monica Grace&#10;Rowanstar: ExaltedElf&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -3666,7 +3666,7 @@ graph [
     step 0
     date "2019-03-29T19:30:01Z"
     title "My biggest problem with Warrior Cats"
-    description "moonkitti opinions all over the floor."
+    description "moonkitti opinions all over the floor"
     channel_title "Moonkitti"
     channel_id "UCfn--_mAGkhYWP2NYa2NBwg"
     fav_count 0
@@ -3681,7 +3681,7 @@ graph [
     step 0
     date "2022-02-28T22:29:16Z"
     title "The Complete Warrior Cats Iceberg"
-    description "Hi everyone, welcome back! In this video, I will dissect and discuss the Warriors Iceberg... for a second time! This video is the final ..."
+    description "Hi everyone, welcome back! In this video, I will dissect and discuss the Warriors Iceberg... for a second time! This video is the final part, so if you haven't watched part one be sure to check that out! This video will discuss the final tiers of the iceberg, and will contain lots of fun theories and facts. As always, this video will contain spoilers so, please, watch with caution! With all that aside, let&#8217;s dive in.&#10;------&#10;Join me on this deep dive into the Warrior Cats fandom, this time focusing on more &#34;hidden&#34; facts and theories within the fanbase. In this video I will discuss topics such as Mapleshade's Cannibalism, The Original Warriors App, The Warrior Cats Video game, Rumored or cancelled books, as well as a *lot* of forum posts. Like, a lot. &#10;I hope you enjoy it, and hopefully you've learned something new by the end of it! I had lots of fun researching into the topics, and if there's any you would like to more know about, let me know!&#10;&#10;Part 1: https://www.youtube.com/watch?v=biAVqt9L2Zc&#10;Kate Cary's Fanfiction: https://www.reddit.com/r/thedawnpatrol/comments/7f22zi/the_longest_night_kate_carys_warriors_holiday/&#10;&#10;&#10;Video Voiced over by ITO.&#10;Clips used in the video credited to the original owners. &#10;If there's anything wrong in the video, or if a clip is owned by you and you would like it taken out, please let me know in the comments and I'll fix anything as needed. &#10;Thank you all for the support &#9829;&#9829;&#9829;&#10;&#10;#Warriors #WarriorCats #Iceberg"
     channel_title "Soleil"
     channel_id "UCSJbqBGNSj48BX_Xw3_tLgg"
     fav_count 0
@@ -3696,7 +3696,7 @@ graph [
     step 0
     date "2021-10-24T19:00:12Z"
     title "WERE-WHISKER [Complete 5 day Were-coyote Sleekwhisker Warrior&#38;#39;s MAP]"
-    description "This video contains graphic scenes of animal death!!! This M.A.P (Multi Animator Project) is about Sleekwhisker's relationship with ..."
+    description "!!!This video contains graphic scenes of animal death!!!&#10;&#10;This M.A.P (Multi Animator Project) is about Sleekwhisker's relationship with Darktail, Needletail, and Sleekwhisker's were-coyote form! In this Sleekwhisker is a were-coyote; while Needletail finds out about Sleekwhisker's secret she loves and accepts Sleekwhisker but when Darktail finds out he uses Sleekwhisker as a weapon.&#10;&#10;SONG: Coyotes (alternate vocals) by Modest Mouse https://www.youtube.com/watch?v=aeqxBTJGpyo&#10;END CREDITS SONG: Cat Faces by Ugly Casonova https://www.youtube.com/watch?v=NTOihB42YVE&#10;&#10;MAP part playlist: https://www.youtube.com/playlist?list=PLbSyL5k7nLJh5AVpPVcXnu7bVRclonpJB &#10;&#10;ORGINAL SCRIPT: https://docs.google.com/document/d/1w2kOC1AKkJf1s8EpO_5dpz5Ep8AxbbJ-vHFetF-QPIU/edit?usp=sharing&#10;STORYBOARD: https://www.youtube.com/watch?v=YDBxrJW4MI8&#10;Thumbnail entries: https://docs.google.com/document/d/1wptU3VQPxjEgqmVULOC2IKbNd8h1YbzcD9BP-3gzuWg/edit?usp=sharing&#10;&#10;&#10;--PARTICIPANTS--&#10;Intro: CheetehZ + Dirtynoodles&#10;1: Squid + CheetehZ&#10;2: relli&#10;3: Osinka&#10;4: Pandaa + CheetehZ&#10;5: Sparroet&#10;6: Luyeshin&#10;7: CrunchyCrowe&#10;8: bunnycat&#10;9: Nauro + Riin + razurre + Sparroet + Tad + Galaxymew&#10;10: Eqqnoq&#10;11: Smelly Trash Rat + zachybutt + CheetehZ&#10;12: Ofukitty + elqato&#10;13: Sagutoyas&#10;14:  Koheina + mossysprout&#10;15: KelpieCalamity&#10;16: LunarTempest + FISHSOCKS + GiingerSnaps + CheetehZ&#10;17: Aspen Shadow&#10;18:  CryptidInTheCloset + ScooterScones + CheetehZ + Peacat&#10;19: sehc&#10;20: roseshards&#10;21: Senswii + mossysprout + Galaxymew&#10;22: Askila Deamon + Avery Quinn &#10;23: Scoutnmave&#10;24: Fude&#10;25: raevei + CheetehZ&#10;26: TheWisestDino&#10;Finale: CheetehZ + Chikki + Peacat + HJ7&#10;Closing: CheetehZ + Nettlefang&#10;&#10;Thumbnail Winner: Owlspark&#10;&#10;Bogos Binted: Scoutnmave&#10;&#10;___&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Cheeteh Z"
     channel_id "UC_UNiqVULw1l7m5q9Z43o1A"
     fav_count 0
@@ -3711,7 +3711,7 @@ graph [
     step 0
     date "2021-08-21T16:01:39Z"
     title "Ultimate Warrior Cat SHOWDOWN. There can only BE ONE! [Warrior Cats Favourite PIcker]"
-    description "im a scientist trust me on this one :3c Want to see videos and hear songs EARLY? Be a part of an exclusive &#34;Blixemi Super Fan&#34; ..."
+    description "im a scientist trust me on this one :3c&#10;&#10;Want to see videos and hear songs EARLY? Be a part of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;&#10;----&#10;&#10;WC Favourite Picker - https://wcpicker.neocities.org/picker.html&#10;&#10;MemoryData (site creator) - https://bit.ly/3khgbbz&#10;&#10;Artists&#10;Urisday - https://cloudtail.tumblr.com/&#10;Moonkitti - https://www.youtube.com/user/Moonkitti&#10;Goatpaste - https://goatpaste.tumblr.com/&#10;Sunnyfall - https://www.youtube.com/user/RiverPond99"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -3726,7 +3726,7 @@ graph [
     step 0
     date "2021-05-31T22:00:14Z"
     title "Sagutoyas vs Finchwing. Warrior Cats Trivia GAME SHOW! || Mouse Brained #3"
-    description "An all-out battle to see which Warrior Cat Tuber knows the books the best! Who will win, and who will be the &#34;MOUSEBRAIN!"
+    description "An all-out battle to see which Warrior Cat Tuber knows the books the best! Who will win, and who will be the &#34;MOUSEBRAIN!&#34;&#10;&#10;___&#10;My Patreon  &#8594; https://www.patreon.com/Blixemi&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;___&#10;&#10;Finchwing's Channel- &#10;https://www.youtube.com/user/Finchwing&#10;&#10;Sagutoyas' Channel-&#10;https://www.youtube.com/user/Sagutoyas"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -3741,7 +3741,7 @@ graph [
     step 0
     date "2017-01-08T21:46:03Z"
     title "&#38;quot;Walk Without The Stars&#38;quot; Ivypool. (ORIGINAL WARRIOR CATS RAP/SONG)"
-    description "Download on iTunes &#8594; https://goo.gl/g98eMB Download on Google Play &#8594; https://goo.gl/rjZgbZ Subscribe for more!"
+    description "&#127925;Download on iTunes &#8594; https://goo.gl/g98eMB&#10;&#127925;Download on Google Play &#8594;  https://goo.gl/rjZgbZ&#10;&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;&#10;----------&#10;&#10;I'm still in awe of the visuals done by the incredibly talented &#10;Colacatinthehat hnnnggg&#10;We've been DYING of excitement for this project for the last few months and I'm so happy to be able to share this with you guys! I hope you enjoy it as much as we enjoyed making it!!~&#10;&#10;Want to audition to sing for a future WC original song? &#10;http://bit.ly/2lCJHgj - Fill out this form to sign up!&#10;&#10;-&#10;||RULES||&#10;&#10;PLEASE. &#10;-Do not reupload this audio onto your channel without permission from me. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;-&#10;&#10;||Credits||&#10;&#10;Visuals/Art/Editing&#10;Colacatinthehat&#10;https://www.youtube.com/user/BlindApocalypse&#10;&#10;Instrumental/Lyrics/Ivypool Vocals/Mixing&#10;Blixemi&#10;&#10;Addition Vocals&#10;Chris Sayers&#10;https://www.youtube.com/user/PenfforddMan&#10;&#10;Warriors/Ivypool/Hawkfrost&#10;Erin Hunter&#10;&#10;-----&#10;&#10;||Social Medias||&#10;&#10;BLIXEMI&#10;Twitter -  https://twitter.com/Blixemi&#10;Deviantart - http://blixemi.deviantart.com/&#10;&#10;COLACATINTHEHAT&#10;Youtube - https://www.youtube.com/user/BlindApocalypse&#10;Twitter - https://twitter.com/HatsAndColacats&#10;&#10;CHRIS SAYERS&#10;Youtube- https://www.youtube.com/user/PenfforddMan&#10;&#10;--&#10;&#10;||LYRICS||&#10;&#10;&#10;All this time&#10;It&#8217;s been you&#10;Basking in your everlasting light that you&#8217;ve consumed&#10;I&#8217;m not fine &#10;You left me&#10;Swallowed by the shadowed oversight that I&#8217;ve received&#10;Can&#8217;t you see&#10;What you&#8217;ve done.&#10;I guess it&#8217;s hard to see the darkness when you&#8217;re blinded by the sun.&#10;Is this right&#10;I&#8217;m afraid&#8230;&#10;That I cannot turn back, I&#8217;ve got to face the choice I&#8217;ve made.&#10;&#10;You and I had plans that we would stand up strongly for our clan.&#10;But something changed, pushed me away, left me estranged.&#10;How could you be so blind and turn your eye to my decline?&#10;What once was ours, has turned to scars, as I walk&#10;Without the stars.&#10;&#10;Walk without the stars.&#10;&#10;And speaking of them you&#8217;ve got them wrapped around your paws.&#10; But you never paused your paws and saw the flaws you&#8217;ve caused &#10;Within me.&#10;I hate to blame you, but you can&#8217;t disagree&#10;Power of three is all you see but I ask respectfully-&#10;What about my destiny conceived in secrecy?&#10;You never seemed to find a second &#8216;til your legend had been threatened by me.&#10;What a plot twist, when it&#8217;s sis&#8217; versus sis&#8217;.&#10;If you&#8217;d only paused a moment possibly you&#8217;d have seen this!&#10;But even now I can tell, that you&#8217;re so wrapped up in yourself&#10;That my yells won&#8217;t ring your bells until the rebels rise from hell.&#10;When it&#8217;s too late.&#10;That&#8217;s when you&#8217;ll see straight.&#10;That&#8217;s when I&#8217;ll start to share the scars from when I&#8217;ve walked without the stars.&#10;&#10;Walked without the stars.&#10;&#10;I&#8217;m torn by two sides&#10;Stuck with my paws tied.&#10;Do I embrace my pride and ally with the darkside?&#10;Or do I rewind, turn heel and decide,&#10;To do what is right, beside my bloodline.&#10;But can I change it, explain it, put on a front, and contain it?&#10;Or is it probable my soul&#8217;s already tainted?&#10;Do I belong in the dark?&#10;My actions have made me marked&#10;To continually march.&#10;With those who walk without the stars.&#10;&#10;Walk without the stars.&#10;&#10;I was in their plans that I&#8217;ll stand strongly up against my clan.&#10;But something changed pulled me away, left me dismayed.&#10;How could I be so blind and turn my eye to their demise.&#10;I closed my heart, clan torn apart, &#8216;cause I walked without the stars.&#10;&#10;Walked without the stars.&#10;&#10;All this time it&#8217;s been her.&#10;You&#8217;re not fine she left you.&#10;Can&#8217;t she see, what she&#8217;s done?&#10;This is right, don&#8217;t be afraid.&#10;Walk with me.&#10;Walk without the stars.&#10;&#10;You and I had plans that we would stand up strongly for our clan.&#10;(Walk without the stars)&#10;But something changed, pushed me away, left me estranged.&#10;(Walk with me)&#10;How could you be so blind and turn your eye to my decline?&#10;(Walk without the stars)&#10;What once was ours, has turned to scars, as I walk without the-&#10;(Walk with me)&#10;&#10;&#10;I was in their plans that I&#8217;ll stand strongly up against my clan.&#10;(Walk without the stars)&#10;But something changed pulled me away, left me dismayed.&#10;(Walk with me)&#10;How could I be so blind and turn my eye to their demise.&#10;(Walk without the stars)&#10;I closed my heart, clan torn apart, &#8216;cause I walked without the stars.&#10;&#10;Walked without the stars.&#10;Walked without the stars.&#10;Walked without the&#8230;.stars."
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -3756,7 +3756,7 @@ graph [
     step 0
     date "2022-02-28T02:27:12Z"
     title "Let&#8217;s Talk About WARRIOR CATS: ULTIMATE EDITION&#8217;S Useless &#38;amp; Unnecessary &#8220;Cons&#8221;&#8230; (READ PINNED)"
-    description "Apologies if the video looks a bit sloppy as I do not have professional equipment!) &#9562;&#9552;&#9552;&#9552;*.&#183;:&#183;.&#9789;&#10023; &#10022; &#10023;&#9790;.&#183;:&#183;.*&#9552;&#9552;&#9552;&#9565; &#9556;&#9552;&#9552;&#9552;* ..."
+    description "&#9556;&#9552;&#9552;&#9552;*.&#183;:&#183;.&#9789;&#10023; &#160;&#160; &#10022; &#160;&#160; &#10023;&#9790;.&#183;:&#183;.*&#9552;&#9552;&#9552;&#9559;&#10;&#10;(Apologies if the video looks a bit sloppy as I do not have professional equipment!) &#10;&#10;&#10;&#9562;&#9552;&#9552;&#9552;*.&#183;:&#183;.&#9789;&#10023; &#160;&#160; &#10022; &#160;&#160; &#10023;&#9790;.&#183;:&#183;.*&#9552;&#9552;&#9552;&#9565;&#10;&#10;&#9556;&#9552;&#9552;&#9552;*.&#183;:&#183;.&#9789;&#10023; &#160;&#160; &#10022; &#160;&#160; &#10023;&#9790;.&#183;:&#183;.*&#9552;&#9552;&#9552;&#9559;&#10;&#10;(Apologies for the Repost, The Video was missing a few aspects and was corrupted a bit!)&#10;&#10;This video has been sort-of on my mind for awhile now as I kept on seeing WCUE players getting upset over the tiniest of things about players and the game and it was just getting annoying seeing some players blowing things out of pocket then it needed to be, So I decided to make the video! &#10;&#10;&#9562;&#9552;&#9552;&#9552;*.&#183;:&#183;.&#9789;&#10023; &#160;&#160; &#10022; &#160;&#160; &#10023;&#9790;.&#183;:&#183;.*&#9552;&#9552;&#9552;&#9565;&#10;&#10;&#9556;&#9552;&#9552;&#9552;*.&#183;:&#183;.&#9789;&#10023; &#160;&#160; &#10022; &#160;&#160; &#10023;&#9790;.&#183;:&#183;.*&#9552;&#9552;&#9552;&#9559;&#10;&#10;&#10;Want to know a bit more about me? Click this link to my Carrd to know more! &#10;&#9584;&#9480;&#10148; https://blossom222.carrd.c&#10;&#10;&#10;&#9562;&#9552;&#9552;&#9552;*.&#183;:&#183;.&#9789;&#10023; &#160;&#160; &#10022; &#160;&#160; &#10023;&#9790;.&#183;:&#183;.*&#9552;&#9552;&#9552;&#9565;"
     channel_title "Crying Blossom"
     channel_id "UC4UEbv9Xg5UCVtXpmz9brRw"
     fav_count 0
@@ -3771,7 +3771,7 @@ graph [
     step 0
     date "2020-04-17T21:30:11Z"
     title "Warrior Cats Vine MAP 72hr [COMPLETE]"
-    description "Please read!!&#9888;&#65039; Youtube is being buggy and will not let me add links to channels! I apologize! I will try and add them when I get ..."
+    description "&#9888;&#65039; Please read!!&#9888;&#65039; &#10;Youtube is being buggy and will not let me add links to channels! I apologize! I will try and add them when I get my new iPad!&#10;&#10;This was really fun to host!! Thank you to everyone who worked on this!&#10;plz go sub to everyone who worked on this!!&#10;&#10;The thumbnail is by Sara and adventure pets!&#10;Her channel: https://www.youtube.com/channel/UCuv4ZrP5QAO6ME_aa341W2g&#10;Thumbnail entrys: https://www.youtube.com/playlist?list=PLz7K5U9ysO7cETJDlXsEkehVFHEYeWhwb"
     channel_title "Squirrel"
     channel_id "UCeOMeQ9z3E6Del5TtwLiqjQ"
     fav_count 0
@@ -3786,7 +3786,7 @@ graph [
     step 0
     date "2021-08-11T16:00:33Z"
     title "What happens when two Cinderpelts collide? (Warrior Cats)"
-    description "The question we've asked for years. A couple brave Brighthearts seek out the answer. This video was filmed using the &#34;Warrior ..."
+    description "The question we've asked for years. A couple brave Brighthearts seek out the answer.&#10;&#10;This video was filmed using the &#34;Warrior Cats Mini&#34; series 2 figures from the Warrior Cats Official Store. Warrior Cats did not send me these, the video is not sponsored. I payed for them myself. Yes, I intentionally paid for duplicate figurines just so I could make a meme. It's called dedication."
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -3801,7 +3801,7 @@ graph [
     step 0
     date "2021-05-09T17:30:55Z"
     title "Warrior cats- Into the Wild series Trailer (Read description!)"
-    description "This is a project that will be potentially ongoing in 2021 and possibly even longer, It is filmed on a Game called Warriors: Ultimate ..."
+    description "This is a project that will be potentially ongoing in 2021 and possibly even longer, It is filmed on a Game called Warriors: Ultimate edition, this is found on Roblox, This project is HEAVLY based on The warrior cat books by Erin Hunter, Most of this is filmed and Edited on KineMaster, Help with the series is appreciated and we would love to have people help with this project! Let us know if you would like to join!&#10;&#10;We couldn&#8217;t bring you this without the amazing people helping in this&#10;And more!&#10;&#10;Please Consider Subscribing to Magenta&#8217;s/ Rising channel, on this channel we will post sneak peaks and prologues!&#10;&#10;The channel: https://youtube.com/channel/UCgZGl8rbQXkuU2tHBy0cEfg&#10;Link to the trailer: https://youtu.be/93YwFbqwDzI&#10;Link to the prologue: https://youtu.be/jmEfq0WGRNo&#10;&#10;Please note: Most cats, already have a design but some don&#8217;t, if you dislike the design we give you for the cat, feel free to ask us to change it, and if you don&#8217;t have a design for it, you can design it yourself, sticking cannon-ly of course! Also! This description and the Pinned comment will constantly be updated, so it recommended double checking before you apply! &#10;&#10;So Far these amazing people are the current actors of some of the first- selected characters,&#10;&#10;Magenta Umbreon As Bluestar, Tigerclaw and Rusty,&#10;Legendary Thunder as Redtail, CinderKit, TallStar and SwiftKit,&#10;Ilovecats as Silverstream and SpottedLeaf,&#10;Anton Storm s&#248;renson as LionHeart,&#10;HeckyHeckle as WhiteStorm,&#10;FlowerTailFox as Darkstripe,&#10;S O U P Y as LongTail,&#10;JENNIFER TRAN as RunningWind, GoldenFlower and StoneFur,&#10;Sky Dolphin as WillowPelt and FrostFur,&#10;Hamster aj as MouseFur, GrayPaw, Smudge, BrightKit and BlackFoot,&#10;GoldenHoney as Dustpaw and Runningnose ,&#10;_Choco-muffins_ as SandPaw and BrokenStar,&#10;SeafoamTheSandSea as RavenPaw, BrindleFace and DappleTail,&#10;Dove&#8217; Breeze of ThunderClan as SpeckleTail and Barley,&#10;Bipbi Hop as HalfTail, One- Eye and PatchPelt,&#10;* Lavender_Bat * As Smallear,&#10;Ayane Takahashi as RussetFur, Boulder and CrookedStar,&#10;Tartarus Myths as NightPelt, Clawface and BrackenKit,&#10;Mocha Fur as BrightFlower,&#10;Tall&#8217;Meadow as Ashfur and WhiteClaw,&#10;KiwiWolf Pup as OakHeart, GrayPool and ThornKit,&#10;Malisa Clemonts as LeopardFur,&#10;The Adventures Of Stupid Boi as BlackClaw,&#10;The Weird Person/ Agent as YellowFang,&#10;Marmalade&#8217;Stripe as RoseTail ,&#10;Jason&#8217;s Corner, as a backup,&#10;And Lastly&#10;Midka as a backup.&#10;&#10;DISCLAIMER!&#10;&#10;Warrior cats does NOT belong to me or anyone helping this project, it belongs to Erin Hunter, And is it&#8217;s own separate book set, we are just making this into a series heavily based on the books, for entertainment purposes ONLY! &#10;&#10;Warrior cats: Ultimate Edition, is a roleplay game on roblox, Yet again, we do NOT own this, or have any special role in this, we are using this as we believe the game will be great for the idea, Please check out both the game and the Warrior cat Book series!&#10;&#10;We do not own both of these, if both these or one of these wish for us to have this series up, we will remove it!&#10;&#10;Roblox Game: https://www.roblox.com/home&#10;Warrior cats: Ultimate Edition: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;Warrior cats official website: https://warriorcats.com/&#10;&#10;Enjoy!"
     channel_title "Hamster Aj"
     channel_id "UCFinHQ2AFBIPo5gYRYQ3nuQ"
     fav_count 0
@@ -3816,7 +3816,7 @@ graph [
     step 0
     date "2022-02-08T00:54:23Z"
     title "Genetically Accurate Warrior Cats #5 - Yellowfang&#38;#39;s Family"
-    description "i didnt post in three months? i don't re-record when i mess a line up? awh, too bad, you get what you get and you dont mind a bit ..."
+    description "i didnt post in three months? i don't re-record when i mess a line up? awh, too bad, you get what you get and you dont mind a bit :)&#10;&#10;honestly tho Yellowfang's family tree kinda looks much cooler genetically accurate tbh&#10;&#10;Cats in the Video:&#10;Hal, Featherstorm&#10;Raggedstar, Scorchwind, Russetfur&#10;Darkflower&#10;Rowanclaw, Cedarheart, Lavenderkit&#10;Tawnypelt&#10;Tigerheart/star, Dawnpelt, Flametail&#10;Silverflame&#10;Brightflower, Brackenfoot&#10;Yellowfang, Rowanberry, Nutwhisker&#10;Marigoldkit, Mintkit&#10;Brokenstar, Hopekit, Wishkit&#10;&#10;Social Media:&#10;DeviantArt: https://www.deviantart.com/digimonnerdexpress&#10;Tumblr: https://alollinglaughingcat.tumblr.com/&#10;Scratch: https://scratch.mit.edu/users/LOLLING-CAT/&#10;ArchiveOfOurOwn: https://archiveofourown.org/users/LollingCat/works"
     channel_title "LollingCatto"
     channel_id "UCD5_0jDTa-gs54p4gfn9c6g"
     fav_count 0
@@ -3831,7 +3831,7 @@ graph [
     step 0
     date "2022-04-17T00:00:09Z"
     title "Warrior Cats Memes (Compilation #3)"
-    description "ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME IN ANY WAY WHATSOEVER. FULL CREDIT TO RIGHTFUL ARTISTS ..."
+    description "ALL VIDEOS PROVIDED ABOVE DO NOT BELONG TO ME IN ANY WAY WHATSOEVER. FULL CREDIT TO RIGHTFUL ARTISTS AND ANIMATORS. THIS VIDEO IS MEANT FOR ENTERTAINMENT PURPOSES&#10;&#10;Part 1: https://youtu.be/7PctmCRN2MQ&#10;&#10;(Part 1 is unlisted but probably wont be put back to public due to copyright reasons.) &#10;&#10;Part 2: https://youtu.be/OTeoOhH-OxE&#10;&#10;Animators: (NOT IN ORDER) &#10;&#10;&#12539; audrey giodano&#10;&#12539; Treeetooop&#10;&#12539; EGGPRIEST&#10;&#12539; GEKKOZILLA&#10;&#12539; KlariKatt&#10;&#12539; Sadie Gleason&#10;&#12539; Dragonfox Art&#10;&#12539; PeanutSnuffle&#10;&#12539; peachy lavender &#10;&#12539; voideitii&#10;&#12539; Northflowo&#10;&#12539; Shelly Key&#10;&#12539; Rebe Adventures &#10;_____________________________________________&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
     channel_title "FuZe Blitz"
     channel_id "UCb2YYmsB-qJMBaIJzE0DD2w"
     fav_count 0
@@ -3846,7 +3846,7 @@ graph [
     step 0
     date "2021-08-14T17:44:55Z"
     title "I made a Favorite Warrior Cats Picker!"
-    description "Try out the Picker here!: https://wcpicker.neocities.org/picker.html Artists: Ursiday - https://cloudtail.tumblr.com/ Moonkitti ..."
+    description "Try out the Picker here!: https://wcpicker.neocities.org/picker.html&#10;&#10;&#10;Artists:&#10;Ursiday - https://cloudtail.tumblr.com/&#10;Moonkitti - https://www.youtube.com/user/Moonkitti&#10;Goatpaste - https://goatpaste.tumblr.com/&#10;Sunnyfall - https://www.youtube.com/c/sunnyfall&#10;&#10;&#10;The Favorite Pokemon Picker - https://www.dragonflycave.com/favorite.html&#10;GitHub Favorite Picker Instructions - https://github.com/antialiasis/favorite-picker&#10;&#10;&#10;Twitch - https://www.twitch.tv/memorydatas&#10;Twitter - https://twitter.com/memorydata&#10;Tumblr - https://memorydatas.tumblr.com/"
     channel_title "memorydata"
     channel_id "UCK4Q3lw3kWOTTdJKPkvUqgQ"
     fav_count 0
@@ -3861,7 +3861,7 @@ graph [
     step 0
     date "2020-10-02T12:00:14Z"
     title "MUZZLES IN THIS GAME!? Designing a New KITTY PET! Roblox Warrior Cats Ultimate Edition"
-    description "MUZZLES IN THIS GAME!? Designing a New KITTY PET! Roblox Warrior Cats Ultimate Edition Muzzle Gamepass. What happens ..."
+    description "MUZZLES IN THIS GAME!? Designing a New KITTY PET! Roblox Warrior Cats Ultimate Edition Muzzle Gamepass.&#10;&#10;What happens when a star constellation and a rare gemstone collide? You get lots of awesome (ME!) Haha! I'm Lyronyx and I LOVE all things gaming. This is my official YouTube page. I play lots of different games, but mostly Roblox. I hope you&#8217;ll subscribe to my channel and follow along as I discover new things in the world of gaming! #LySquad!&#10;&#10;Join my Discord! https://discord.com/invite/EXmSdsS&#10;&#10;My Roblox Group! https://www.roblox.com/groups/3234002/LySquad&#10;&#10;Check out our Family Gaming Channel WPFG!&#10;https://www.youtube.com/c/wpfgaming&#10;&#10;Or our family channel WPFV to see our epic adventures as a fam. &#10;https://www.youtube.com/c/wpfvlogging&#10;&#10;Or my sister Hailey&#8217;s channel Huntrys to watch more gaming vids.&#10;https://www.youtube.com/c/huntrys&#10; &#10;Don't forget to subscribe!&#10;&#10;Follow me!&#10;&#10;Instagram: https://www.instagram.com/lyronyx&#10;Twitter: https://twitter.com/Lyronyx&#10;&#10;Royalty Free Music: www.purple-planet.com&#10;&#10;&#34;Chee Zee Jungle&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "Lyronyx"
     channel_id "UCJMog4sp7OV26QPN5wtAadg"
     fav_count 0
@@ -3876,7 +3876,7 @@ graph [
     step 0
     date "2019-05-03T02:17:58Z"
     title "Warrior Cats In Real Life"
-    description "13+ Content Disclaimer: Showing my cats in this video, not intended to attract young viewers. Want some real life warriors cats?"
+    description "13+ Content Disclaimer: Showing my cats in this video, not intended to attract young viewers. Want some real life warriors cats? Subscribe to my seven cats' channel! Daily cat videos!&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;...&#10;&#10;Join the Fan Club to get your name in the next episode of FAI!&#10;iOS and Google Play: https://bit.ly/2Ta75Sq&#10;Search Pinkbunnygirl43 Official on the Explore Page&#10;Follow Me: Pinkbunnygirl43 &#38; Join the Fan Club!&#10;&#10;Join my Fan Club on Amino to get Daily Exclusive content! &#10;...&#10;&#10;Get our Amazon merch! T-Shirts and Hoodies!&#10;https://www.amazon.com/s/ref=bl_dp_s_mw_0?ie=UTF8&#38;search-alias=aps&#38;field-keywords=PINKBUNNYGIRL43+Official&#10;&#10;...&#10;&#10;Want to have your fanmail opened on camera? &#10;WE HAVE A NEW P.O. BOX!&#10;&#10;Pinkbunnygirl43 &#10;P.O. Box 632&#10;Meridian, ID 83680&#10;&#10;Mail Opened Weekly on Pinkbunnygirl43 Official Amino&#10;..."
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -3891,7 +3891,7 @@ graph [
     step 0
     date "2022-04-10T21:32:01Z"
     title "Warrior Cats: Skins/Morphs Ideas! #10 (Roblox)"
-    description "hey there! :D The 10th Warrior Cats: Ultimate Edition Skin or Morph Idea! :D (or well, the 10th oen i mark with a number lmao) Yet ..."
+    description "hey there! :D The 10th Warrior Cats: Ultimate Edition Skin or Morph Idea! :D (or well, the 10th oen i mark with a number lmao) &#10;Yet again, I will present you three unique morphes you are free to use or get inspired from, enjoy! ^^&#10;&#10;&#10;-----&#10;&#10;Join my Discord server! Talk with me and the others members of my community! Join some videos, make friends, talk about what you like and learn to know me!&#10;&#10;Invitation Link: https://discord.gg/FpXtFC2"
     channel_title "Zeira_Wolf"
     channel_id "UCjsZkpuP3AlNdZj9iFuKBzg"
     fav_count 0
@@ -3906,7 +3906,7 @@ graph [
     step 0
     date "2022-01-06T15:10:52Z"
     title "warrior cats out of context bc im dying"
-    description "heh :3 Clip 1: https://www.youtube.com/watch?v=buY4HR215sY Clip 2: https://www.youtube.com/watch?v=3gF-Lyklpis Clip 3: ..."
+    description "heh :3&#10;Clip 1: https://www.youtube.com/watch?v=buY4HR215sY &#10;Clip 2: https://www.youtube.com/watch?v=3gF-Lyklpis&#10;Clip 3: https://www.youtube.com/watch?v=buY4HR215sY&#10;Clip 4: https://www.youtube.com/watch?v=8KN6QPT1mK8&#10;Clip 5: https://www.youtube.com/watch?v=3gF-Lyklpis&#10;Clip 6: https://www.youtube.com/watch?v=buY4HR215sY&#10;Clip 7: https://www.youtube.com/watch?v=U4Nz03FpybQ&#10;Clip 8: https://www.youtube.com/watch?v=WngNHu-hBnY&#10;Clip 9: https://www.youtube.com/watch?v=3gF-Lyklpis&#10;Clip 10: https://www.youtube.com/watch?v=IKWXCm3Otww&#10;Clip 11: https://www.youtube.com/watch?v=TFQHQjvf6SY&#10;Clip 12: https://www.youtube.com/watch?v=C2zrbhB1GV8&#10;Clip 13: https://www.youtube.com/watch?v=buY4HR215sY&#10;Clip 14: https://www.youtube.com/watch?v=3gF-Lyklpis&#10;Clip 15: https://www.youtube.com/watch?v=032znUE7XEg&#10;Clip 16: https://www.youtube.com/watch?v=3gF-Lyklpis&#10;Clip 17: https://www.youtube.com/watch?v=TFQHQjvf6SY&#10;Clip 18: https://www.youtube.com/watch?v=GAXyGhnFkDk&#10;Clip 19: https://www.youtube.com/watch?v=C2zrbhB1GV8&#38;t=54s&#10;Clip 20: https://www.youtube.com/watch?v=5kp4NRlbkME&#10;Clip 21: https://www.youtube.com/watch?v=w8wB0B5btRk&#38;t=233s&#10;Clip 22: https://www.youtube.com/watch?v=vkZ3flSYEUc&#10;Clip 23: https://www.youtube.com/watch?v=buY4HR215sY&#10;Clip 24: https://www.youtube.com/watch?v=gyB-OBZgYK8&#10;Clip 25: https://www.youtube.com/watch?v=GAXyGhnFkDk&#10;Clip 26: https://www.youtube.com/watch?v=2XnZVw-UmSs&#10;Clip 27: https://www.youtube.com/watch?v=2XnZVw-UmSs&#10;Clip 28: https://www.youtube.com/watch?v=WQHlhp3ZJCQ&#10;Clip 29: https://www.youtube.com/watch?v=09K63uy5XeY&#10;Clip 30: https://www.youtube.com/watch?v=032znUE7XEg&#10;Clip 31: https://www.youtube.com/watch?v=ndvkJRTT4J8&#10;Clip 32: https://www.youtube.com/watch?v=C2zrbhB1GV8&#38;t=71s&#10;Clip 33: https://www.youtube.com/watch?v=K0YrFoOVTjU&#10;Clip 34: https://www.youtube.com/watch?v=JbvbgC-fuiA&#10;Clip 35: https://youtu.be/KDngZuF_S78?list=PLFBnHNLi_u57nosa0BhlkFIRINozjnewX&#10;Clip 36: https://www.youtube.com/watch?v=3gF-Lyklpis&#10;Clip 37: https://www.youtube.com/watch?v=TFQHQjvf6SY&#38;t=83s&#10;Clip 38: https://www.youtube.com/watch?v=buY4HR215sY&#10;Clip 39: https://www.youtube.com/watch?v=vkZ3flSYEUc&#38;t=51s&#10;Clip 40: https://www.youtube.com/watch?v=vkZ3flSYEUc&#38;t=51s&#10;Clip 41: https://www.youtube.com/watch?v=gyB-OBZgYK8&#38;t=26s&#10;Clip 42: https://www.youtube.com/watch?v=MpxO_s62dZg&#10;Clip 43: https://www.youtube.com/watch?v=GAXyGhnFkDk&#38;t=28s&#10;Clip 44: https://www.youtube.com/watch?v=WngNHu-hBnY&#38;t=3s&#10;Clip 45: https://www.youtube.com/watch?v=C9hMg7B8qxE&#10;Clip 46: https://www.youtube.com/watch?v=032znUE7XEg&#10;Clip 47: https://www.youtube.com/watch?v=6IsL66Z79GI&#10;Clip 48: https://www.youtube.com/watch?v=buY4HR215sY"
     channel_title "Cat's Pro Life Tips"
     channel_id "UCZkT6sDtTL-z3SWiLyAT1rQ"
     fav_count 0
@@ -3921,7 +3921,7 @@ graph [
     step 0
     date "2019-08-31T19:01:45Z"
     title "My Mom GUESSES Warrior Cats! [Episode 4]"
-    description "The fourth episode of the new series where I force real-life people to guess these battle cats! ______ Subscribe for more!"
+    description "The fourth episode of the new series where I force real-life people to guess these battle cats!&#10;__________&#10;&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;&#10;_________&#10;&#10;Thanks for watching!!~"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -3936,7 +3936,7 @@ graph [
     step 0
     date "2022-03-22T03:11:28Z"
     title "Roblox Warrior Cats: Ultimate Edition Espa&#241;ol | Ideas de Personajes (2)"
-    description "Los personajes mostrados son de libre uso: puedes copiarlos, modificarlos y/o mezclarlos a tu gusto. &#10173;Link al juego ..."
+    description "Los personajes mostrados son de libre uso: puedes copiarlos, modificarlos y/o mezclarlos a tu gusto.&#10;&#10173;Link al juego https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;&#10173;Servidor de Discord https://discord.gg/X8fs3w2HCK &#10;&#10;&#12298;Personaje n&#176;1 01:49&#12299;&#10;&#9656;Sin Gamepass 00:19&#10;&#9656;Con Gamepass 00:58&#10;&#10;&#12298;Personaje n&#176;2 03:34&#12299;&#10;&#9656;Sin Gamepass 02:06&#10;&#9656;Con Gamepass 02:48&#10;&#10;&#12298;Personaje n&#176;3 05:44&#12299;&#10;&#9656;Sin Gamepass 03:57&#10;&#9656;Con Gamepass 04:40&#10;&#10;&#12298;Personaje n&#176;4 07:30&#12299;&#10;&#9656;Sin Gamepass 06:10&#10;&#9656;Con Gamepass 06:45&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;Sun by KV https://youtube.com/c/KVmusicprod&#10;Creative Commons &#8212; Attribution 3.0 Unported  &#8212; CC BY 3.0 &#10;Free Download / Stream: https://bit.ly/34MOmUG&#10;Music promoted by Audio Library https://youtu.be/xL7uWePW8-c&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;"
     channel_title "Fearis Nights"
     channel_id "UCUQauEimzIJ2MhcohvQQf6A"
     fav_count 0
@@ -3951,7 +3951,7 @@ graph [
     step 0
     date "2021-08-23T12:00:04Z"
     title "Democracy and Fame in ThunderClan || Warrior Cats: Ultimate Edition"
-    description "Finally comes the day I join ThunderClan with my oldest Warriors OC, Thornstripe... who, yes, is another tabby. - Music &#34;Fluffing a ..."
+    description "Finally comes the day I join ThunderClan with my oldest Warriors OC, Thornstripe... who, yes, is another tabby.&#10;&#10;-&#10;&#10;Music&#10;&#34;Fluffing a Duck&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -3966,7 +3966,7 @@ graph [
     step 0
     date "2021-02-27T16:01:47Z"
     title "My Older Sister GUESSES MORE Warrior Cats! [Episode 5]"
-    description "Have a birthday upload!!~ So happy to celebrate with FINALLY releasing this new video! Follow my Twitter!"
+    description "Have a birthday upload!!~ &#10;So happy to celebrate with FINALLY releasing this new video!&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;&#10;Want to see videos and hear songs EARLY? Be apart of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -3981,7 +3981,7 @@ graph [
     step 0
     date "2021-07-23T10:30:02Z"
     title "HEALING WOUNDS!! + New Items Roblox Warrior Cats Ultimate"
-    description "Want to save 10% off some AMAZING gaming gear?! Click this link https://xrockergaming.com/discount/Lyronyx10 and enter ..."
+    description "Want to save 10% off some AMAZING gaming gear?! Click this link &#127775; https://xrockergaming.com/discount/Lyronyx10 &#127775; and enter code LYRONYX10 for 10% off your order!! &#127775; Link to X Rocker Gaming Discord: https://discord.gg/FR23rGp5cT&#127775;&#10;&#10;How to HEAL WOUNDS!! + New Items Roblox Warrior Cats Ultimate&#10;&#10;What happens when a star constellation and a rare gemstone collide? You get lots of awesome (ME!) Haha! I'm Lyronyx and I LOVE all things gaming. This is my official YouTube page. I play lots of different games, but mostly Roblox. I hope you&#8217;ll subscribe to my channel and follow along as I discover new things in the world of gaming! #LySquad!&#10;&#10;Join my Discord! https://discord.gg/XvxEBVscJr&#10;&#10;My Roblox Group! https://www.roblox.com/groups/3234002/LySquad&#10;&#10;Check out these channels below!&#10;&#10;My sister Hailey&#10;https://www.youtube.com/c/huntrys&#10;&#10;My sister Lyla&#10;https://www.youtube.com/channel/UCuopXBEt0dqqdb_9E2CE2zQ&#10;&#10;Our Family Gaming Channel WPFG&#10;https://www.youtube.com/c/wpfgaming&#10;&#10;Our family channel WPFV&#10;https://www.youtube.com/c/wpfvlogging&#10;&#10;Don't forget to subscribe!&#10;&#10;Follow me!&#10;&#10;Instagram: https://www.instagram.com/Lyronyx&#10;Twitter: https://twitter.com/Lyronyx&#10;&#10;Royalty Free Music: www.purple-planet.com"
     channel_title "Lyronyx"
     channel_id "UCJMog4sp7OV26QPN5wtAadg"
     fav_count 0
@@ -3996,7 +3996,7 @@ graph [
     step 0
     date "2021-09-18T21:51:04Z"
     title "ESCAPING A CRAZY MOM on Warrior Cats Ultimate Edition"
-    description "Hey guys! What's up? In today's video I decided to hop onto Warrior Cats: Ultimate Edition in Roblox and create my own family ..."
+    description "Hey guys! What's up? In today's video I decided to hop onto Warrior Cats: Ultimate Edition in Roblox and create my own family roleplay. I tried to have a serious family but that did not work out and one of my moms ended up turning crazy so I had to escape. I ended up finding my real mom luckily but it was very weird regardless. Enjoy!&#10;&#10;My Socials!:&#10;Instagram: https://www.instagram.com/bigmamaeternal&#8203;&#10;Twitter: https://twitter.com/bigmamaeternal&#8203;&#10;Second Channel: https://www.youtube.com/channel/UCnBG9tA7kW68hc7zd89r4BQ"
     channel_title "Big Mama Eternal"
     channel_id "UCPeJREKbTZCjAeDTDx6YtrA"
     fav_count 0
@@ -4011,7 +4011,7 @@ graph [
     step 0
     date "2021-11-10T02:15:11Z"
     title "Warrior Cats - Forest of Secrets: Episode 3 - &#38;quot;Interrogating Brokentail&#38;quot;"
-    description "The first 1000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4311211 This video is ..."
+    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4311211&#10;This video is sponsored by Skillshare!&#10;...&#10;This episode is inspired by chapters 2 and 3 of Warriors: Forest of Secrets (pgs. 24 - 47) so you can follow along in the book, but it is mostly brand new never before seen content! :)&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join&#10;...&#10;&#10;I really enjoyed making Episode 3 of Forest of Secrets and writing all the new and original material for this episode, giving Tigerclaw more of a POV character, and developing his connection to Brokentail. Let me know your thoughts on this episode in the comments! &#10;...&#10;&#10;We have come to the decision to close our P.O. Box, so we are no longer accepting physical letters and packages but there are still some options if you want to share something you've made with us!&#10;&#10;You can share it on my Amino! Pinkbunnygirl43 Official Amino!&#10;Link to Download: https://bit.ly/2Ta75Sq&#10;Share artwork for us in posts with the hashtag - FanMail or personal message us on Amino! &#10;&#10;And another option! You can also always shoot me an email anytime if you have artwork to share or questions you'd like answered, my email is enterme43@gmail.com&#10;&#10;We will not be filming fan mail opening videos or reaction videos to things sent on Amino or by email, but you'll get a response from us in a more timely manner. :) &#10;&#10;...&#10;&#10;Want some real life warriors cats? Subscribe to my cats' channel! Daily cat videos!&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;0:00 - 1:23 Sponsored by Skillshare&#10;1:23 - 12:46 Forest of Secrets: Episode 3&#10;12:46 - 15:22 Credits/Voice Actor Bloopers&#10;15:22 - 17:30 Thanks + Outro"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -4026,7 +4026,7 @@ graph [
     step 0
     date "2021-12-18T16:00:11Z"
     title "Fixing Your Warrior Cats OC&#38;#39;s (Volume 5)"
-    description "The time has come once again to fix your OC's! As always, all the characters in this video were submitted on my Discord server by ..."
+    description "The time has come once again to fix your OC's! As always, all the characters in this video were submitted on my Discord server by people aware of what I do in this series.&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Talk sprites by Kyian: https://linktr.ee/kyian003&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4041,7 +4041,7 @@ graph [
     step 0
     date "2022-01-29T16:00:19Z"
     title "Predicting Onestar&#38;#39;s Super Edition (Warrior Cats)"
-    description "The Warrior Cats website recently announced that Onestar would be getting his own book by the end of the year. Here are my ..."
+    description "The Warrior Cats website recently announced that Onestar would be getting his own book by the end of the year. Here are my thoughts and predictions.&#10;&#10;Onestar Article: https://warriorcats.com/content/article/choose-a-cover-super-edition-2022&#10;&#10;Cat art is by Miss Dako! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4056,7 +4056,7 @@ graph [
     step 0
     date "2021-11-12T01:10:33Z"
     title "Drawing People in WCUE 2!!! Costumes! [+Speedpaint] Warrior Cats: Ultimate Edition"
-    description "okay, this is a super late halloween special. it was delayed b/c roblox was being stinky :( I also want to say a big thanks for 1k+, ..."
+    description "okay, this is a super late halloween special. it was delayed b/c roblox was being stinky :(&#10;I also want to say a big thanks for 1k+, I've been hoping to reach this milestone ever since I started on my social media platforms and it has been made possible!! thank you soso much for all of your support and interest :]&#10;-----------------------------------------------------------------------------------------&#10;First oc belongs to Anixquiaa&#10;Second oc belongs to 0kkRin&#10;Third oc belongs to Rat&#10;-- If you don't want you or your character in this video, please let me know!! I'll be happy to take it down&#10;&#9829;&#10;Social Link(s): &#10;Twitter: https://twitter.com/AnxiousPinto&#10;Deviantart: https://www.deviantart.com/petrifiedt...&#10;&#9825; &#10;&#9825;"
     channel_title "Dime' Haze"
     channel_id "UCxpbA97xIDww9wPkafvkW6Q"
     fav_count 0
@@ -4071,7 +4071,7 @@ graph [
     step 0
     date "2019-06-15T13:00:01Z"
     title "Fixing Your Warrior Cats Fan Art"
-    description "Download Amino and search to join Bright Guardian Akira Amino: http://aminoapps.com/p/fv5ops?"
+    description "Download Amino and search to join Bright Guardian Akira Amino: http://aminoapps.com/p/fv5ops?sharerId=15b9db74-2581-4eee-be6f-04952866a432&#10;&#10;In this video, I make some funny edits to your Warrior Cats fan art! Note: this concept is inspired by the Fix your Pix and Fix your Art videos by Jacksfilms."
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4101,7 +4101,7 @@ graph [
     step 0
     date "2021-08-25T22:35:09Z"
     title "LGBT Warrior Cats Headcanons! || Art challenge - Speedpaint + voiceover"
-    description "in which mars talks about how gay all the warrior cats are for 10 minutes I JUST REALISED THE IMAGE SAYS LGTB+ WHICH IS ..."
+    description "in which mars talks about how gay all the warrior cats are for 10 minutes&#10;&#10;I JUST REALISED THE IMAGE SAYS LGTB+ WHICH IS INSANELY FUNNY BUT I DIDNT MAKE THE TEMPLATE&#10;&#10;these cats gay!! good for them. my pc is super slow so I have no idea how long this will take to upload, but it's here! if you disagree w these that's fine, but if ur homophobic then uhm..get well soon I guess!&#10;&#10;characters belong to erin hunter, music is from tomodotchi life!"
     channel_title "gumiwyrms"
     channel_id "UCDxyCzkFfDGotg0PFn99Arw"
     fav_count 0
@@ -4131,7 +4131,7 @@ graph [
     step 0
     date "2021-04-24T15:00:10Z"
     title "The AWFUL New Warrior Cats Merch"
-    description "The Warrior Cats website recently dropped some very bland merch, so I thought I'd make a video with my thoughts on it. Cat art is ..."
+    description "The Warrior Cats website recently dropped some very bland merch, so I thought I'd make a video with my thoughts on it.&#10;&#10;Cat art is by Missy Dakota! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4146,7 +4146,7 @@ graph [
     step 0
     date "2022-02-28T01:07:46Z"
     title "Songs that fit the Warrior Cats part Eight!"
-    description "This is most likely the final part, so please comment character and songs ideas! (Preferably together) NOT MY MUSIC OR ..."
+    description "This is most likely the final part, so please comment character and songs ideas! (Preferably together)&#10;&#10;NOT MY MUSIC OR PICTURES CREDITS BELOW&#10;&#10;Opening song: Float above by Liam Aidan&#10;&#10;Credits to songs in video.&#10;&#10;Credit to pictures:&#10;Boloto676 on Deviant Art &#10;Jayie-The-Hufflepuff on Deviant Art &#10;GrayPillow &#10;u/EnbyNudibranch&#10;M-Y-S-T-I-C on Deviant Art &#10;VegaLovesCake on Deviant Art &#10;Th1stlew1ng&#10;Cat-With-Horns on Deviant Art &#10;Vialir on Deviant Art"
     channel_title "Invisible Asteroids"
     channel_id "UCdiQ378OCGMq717aGlS2UjA"
     fav_count 0
@@ -4161,7 +4161,7 @@ graph [
     step 0
     date "2022-06-05T02:27:03Z"
     title "A Starless Clan Will NOT be The Last Arc | Warrior Cats Comment Wars"
-    description "With the release of A Starless Clan, many seem to believe that it might be the final arc for Warriors. Here's why it probably won't be ..."
+    description "With the release of A Starless Clan, many seem to believe that it might be the final arc for Warriors. Here's why it probably won't be.&#10;&#10;Welcome to Comment Wars: the series where I take your questions and hot takes about Warrior Cats and respond to them directly in a video.&#10;&#10;FAN ARTISTS&#10;https://twitter.com/victorottonoth1&#10;https://twitter.com/Mewctar1&#10;&#10;&#10140;  SUBSCRIBE HERE: www.youtube.com/channel/UCRz0F7NaH0l369CRPFBt1IQ?sub_confirmation=1&#10;&#10140;  MY TWITTER: https://twitter.com/wc_hawkkz&#10;&#10;SONGS USED&#10;Undertale OST: 049 - It's Showtime!&#10;Undertale OST: 006 - Uwa!! So Temperate&#9835;&#10;Deltarune Chapter 2 OST: 017 - WELCOME TO THE CITY&#10;Deltarune Chapter 2 OST: 003 - My Castle Town&#10;Undertale OST: 054 - Hotel&#10;Deltarune Chapter 2 OST: 002 - Girl Next Door&#10;Undertale OST: 022 - Snowdin Town&#10;Undertale OST: 081 - An Ending &#10;Deltarune Chapter 1 OST: 034 - Friendship&#10;&#10;Purchase Deltarune and Undertale soundtracks here or on Steam: http://tobyfox.bandcamp.com/&#10;&#10;Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.&#10;&#10;All rights belong to their rightful owner(s). Content shown is not my own unless stated otherwise.&#10;&#10;#warriorcats #warriors"
     channel_title "Hawkkz"
     channel_id "UCRz0F7NaH0l369CRPFBt1IQ"
     fav_count 0
@@ -4176,7 +4176,7 @@ graph [
     step 0
     date "2021-07-09T01:32:04Z"
     title "Rough Animation/Animatic | Yakuza Warrior Cats AU"
-    description "I made an AU where I turned the Yakuza characters into cats lol Kinda gave up on lipsync and inbetweens at some parts because ..."
+    description "I made an AU where I turned the Yakuza characters into cats lol&#10;&#10;Kinda gave up on lipsync and inbetweens at some parts because photoshop was lagging too much, but I'm happy I managed to finish this much. :D &#10;&#10;Scene is from the english dub of Yakuza Like a Dragon.&#10;&#10;Some more drawings of this AU is on my twitter here:&#10;https://twitter.com/NightrizerArtz/status/1378769335569641472&#10;https://twitter.com/NightrizerArtz/status/1387104258483388416&#10;https://twitter.com/NightrizerArtz/status/1409956945331642375"
     channel_title "Nightrizer"
     channel_id "UC_fNn3bATqHhs1ic9WKbvoQ"
     fav_count 0
@@ -4191,7 +4191,7 @@ graph [
     step 0
     date "2019-09-13T00:19:11Z"
     title "Warrior Cats Animated-Episode 7-Fire &#38;amp; Ice (Prove it)"
-    description "OOOOOOOOOOOOO you're lucky i got my internet to WORK, im having problems with it and thought id have to wait another DAY ..."
+    description "OOOOOOOOOOOOO you're lucky i got my internet to WORK, im having problems with it and thought id have to wait another DAY to upload this, BUT ITS GOOD NOW!! EVERYTHINGS FINE!&#10;internet problems are 90% of the reason this took so long, we had a power surge and it broke our ROUTER, and ONLY OUR ROUTER. we got a new one yesterday but couldn't set it up YADDAYADDA.&#10;anyway its done now~~ episode 8 will be done quicker I PROMISE&#10;&#10;&#10;COMMISIONS! https://ko-fi.com/bokbokchoy&#10;&#10;Patreon: https://www.patreon.com/bokbokchoy&#10;WCA tumblr: https://www.tumblr.com/blog/warriorca...&#10;BokBokChoy twitter: https://twitter.com/?lang=en&#10;&#10;Rory- http://sillystrung.tumblr.com/ (Also animated it)&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?h...&#10;And also animated by-&#10;Elliot - https://www.youtube.com/channel/UCtui...&#10;New Voices-&#10;Taylor https://www.youtube.com/user/TaylorTe...&#10;Madeline - https://twitter.com/faeryxoxo&#10;&#10;(Voices)&#10;Rory- Smudge, Graystripe, Ravenpaw, Runningwind, Longtail, Smallear, Brindleface, Boulder, Brownpaw. Clawface, Stumpytail, Onewhisker, Whiteclaw, Wetfoot&#10;Fritz- Fireheart, Tigerclaw, Whitestorm, Lionheart, Sandpaw, Yellowfang, Brokenstar, Darkstripe, Blackfoot, Susanne, Barley, Nightpelt, Tallstar, Mudclaw, Blackclaw, Oakpaw&#10;Lillian- Bluestar, Mousefur, Spottedleaf, Speckletail, Willowpelt, Littlepaw, Tangleburr, Ashfoot&#10;Elliot- Runningnose, Crookedstar, Crowfur, Thornclaw, Deadfoot, Barkface&#10;Moms- Frostfur&#10;Pops- Mudfur, Patchpelt&#10;Madeline- One-eye&#10;Taylor- Goldenflower, Morningflower. Whitetail&#10;Navgate- Halftail&#10;&#10;&#10;Music used-&#10;watercolors&#10;&#10;blusey vibes (sting)&#10;&#10;morning mood&#10;&#10;Jazz mango&#10;&#10;bullish&#10;&#10;dreamscape&#10;&#10;Bluesey vibes&#10;&#10;Long Note One by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100418&#10;Artist: http://incompetech.com/&#10;&#10;water colors&#10;&#10;Invariance by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100847&#10;Artist: http://incompetech.com/&#10;&#10;Jazzeton&#10;&#10;Just As Soon by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100185&#10;Artist: http://incompetech.com/&#10;&#10;smooth&#10;&#10;Hat the Jazz by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://www.twinmusicom.org/song/289/hat-the-jazz&#10;Artist: http://www.twinmusicom.org"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -4206,7 +4206,7 @@ graph [
     step 0
     date "2021-12-03T20:00:26Z"
     title "Warrior Cats Voice Actors Play: Gartic Phone | In Character"
-    description "Thumbnail artist for this video: https://twitter.com/Kaseypaws Voices for this video: Jayfeather: Matthew Jones ..."
+    description "Thumbnail artist for this video: https://twitter.com/Kaseypaws&#10;&#10;Voices for this video:&#10;Jayfeather: Matthew Jones (https://twitter.com/GearUpTwitch)&#10;Princess: Kaseypaws (https://twitter.com/kaseypaws)&#10;Tigerclaw: Grant (https://www.youtube.com/channel/UC__T4ql8NIlSdmf9tCrPu6A/featured)&#10;Firepaw: Matt (https://twitter.com/EpicrockerTT)&#10;Silverstream: CEOlson (https://ceolsonart.carrd.co/)&#10;Yellowfang: Monica Grace&#10;Redtail: Rika/Rakea https://www.youtube.com/channel/UCm2T3GLN5MejRn5dzgAnGVg&#10;Brightheart: Amanda&#10;Mousefur: Blizzard&#10;Brackenfur: Terson https://twitch.tv/tersonva&#10;Purdy: Chris (https://www.youtube.com/channel/UCTQCLycV5E-fIglg4Gye3KA)&#10;Hawkfrost: Zeddall&#10;Featherpaw: VidyTheFox&#10;Sorrelkit: Chaotic Fox&#10;&#10;THIS WAS SO MUCH FUN TO DO! WE HAD AN ABSOLUTE BLAST. Let us know if you'd like to see more. We'd LOVE to do more!&#10;&#10;We understand and we would like to acknowledge the instance of the Jayfeather with a feather behind his ear used within this video. We will not be condoning this usage from here on out and we encourage everyone to educate themselves on the issue!&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.com/invite/warriorcatsfandub&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -4221,7 +4221,7 @@ graph [
     step 0
     date "2021-09-01T16:00:07Z"
     title "WARRIORS: INTO THE WILD - WCAnimated Teaser Trailer"
-    description "Are you ready to venture into the wild? Introducing the first look at WCAnimated's INTO THE WILD, the story of Rusty, a seemingly ..."
+    description "Are you ready to venture into the wild?&#10;&#10;Introducing the first look at WCAnimated&#8217;s INTO THE WILD, the story of Rusty, a seemingly ordinary house cat who leaves his life behind to join a clan of wild forest cats. But the forest is full of dangers and secrets, and Rusty himself is driven by a prophesied destiny that will change the Warrior Clans forever.&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;WCAnimated is a fan-made project seeking to adapt Erin Hunter&#8217;s bestselling WARRIORS books into an animated web series. Our team is made up of over 100 artists working to bring this series to life!&#10;&#10;For more information and content:&#10;Carrd - https://wcanimated.carrd.co&#10;Instagram - https://www.instagram.com/wcanimated&#10;Twitter - https://twitter.com/wcanimated&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Interested in supporting our project further? Consider subscribing to our Patreon, where you can join our exclusive Discord server and earn amazing rewards starting at just $5 a month! &#10;&#10;https://www.patreon.com/wcanimated&#10;&#10;Money will go to help our team get proper programs and resources for their work on the project and any extra funds will go to nonprofit/charity organizations!&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;C R E D I T S&#10;Directed by&#10;Jupiter (@flamingjup)&#10;Tune (@showtnecockatoo)&#10;&#10;Written by &#10;Tune (@showtnecockatoo)&#10;&#10;Storyboards by&#10;Banvskye (@banvskye)&#10;&#10;Additional Art Direction by&#10;King (@kingofcabbages)&#10;Mariah (@mariah.tekulve)&#10;Pomi (@ppomibe)&#10;&#10;Concept &#38; Design by&#10;Kayla (@Danger__Child)&#10;Kayla (@SEGAmastergirl)&#10;&#10;Animation by&#10;Ashtrall (@ashtrall)&#10;King (@kingofcabbages)&#10;Okami (@okamiwolven)&#10;Mel Mrozek (@radvumtal)&#10;Mel B. (@hullumel)&#10;&#10;Backgrounds by&#10;Bolita (@bolitamurcielago)&#10;Pomi (@ppomibe)&#10;Crow (@crowkadow)&#10;&#10;Color Script by &#10;Ghob (@gh0bsmacka)&#10;&#10;Score by&#10;Merry (@merrymmusican)&#10;&#10;Editing &#38; Compositing by&#10;Neko (@petuniabubbles)"
     channel_title "WCAnimated"
     channel_id "UC6_KPxw3Bpc2pGXVrhx8tNQ"
     fav_count 0
@@ -4236,7 +4236,7 @@ graph [
     step 0
     date "2018-02-25T12:38:31Z"
     title "Believer- warrior cats"
-    description "Follow my Instagram: https://instagram.com/p/BqVHdhKBB0O/ ALL OF THE ANIMATION AND ART AND EDITS ARE NOT MINE!"
+    description "Follow my Instagram: https://instagram.com/p/BqVHdhKBB0O/&#10;&#10;ALL OF THE ANIMATION AND ART AND EDITS ARE NOT MINE!&#10;Minneo:&#10;https://youtu.be/B_s8O6nRChk&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;OwlCoat DA:&#10;https://youtu.be/A-ld5P_xKGo&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;Meow 286:&#10;https://youtu.be/kLCoEY4dwzs&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;Some animation here I got from a video I&#8217;m pretty sure he/her has the animators NAMES: https://youtu.be/ADNgMOQUlJA&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;Nightrizer: &#10;https://youtu.be/qNuzOKGNLnA&#10;https://youtu.be/cKGlMhBtVVk&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;Sagutoyas: https://youtu.be/9e5NNMkJW20&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;MapleSpyder: &#10;https://youtu.be/XWLcMNZVfGw&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;TennelleFlowers:&#10;https://youtu.be/vHWSk2SsB9E&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;Some animation I found on a video: https://youtu.be/HAdMLiDlgK0&#10;&#8226;&#10;&#8226;&#10;&#8226;&#10;Wanna help buy me a computer for animations ^^&#10;Here: https://www.paypal.me/ilovekits"
     channel_title "I love Kits"
     channel_id "UC0Dfur_6yGItGaxfMSyI3-Q"
     fav_count 0
@@ -4251,7 +4251,7 @@ graph [
     step 0
     date "2022-04-26T20:34:38Z"
     title "When Your A LUNA On Warrior Cats Ultimate Edition"
-    description "When Your A LUNA On Warrior Cats Ultimate Edition Hair'Ball has transformed into a luna and is living a miserable life trying to ..."
+    description "When Your A LUNA On Warrior Cats Ultimate Edition&#10;&#10;&#10;Hair'Ball has transformed into a luna and is living a miserable life trying to communicate and be one with others. &#10;&#10;&#10;Outro song:&#10;&#9834; Branch (Prod. by Lukrembo)&#10;Link : https://youtu.be/xPOy2pkImiU&#10;&#10;&#10;#Roblox"
     channel_title "EHairBall"
     channel_id "UC3YcOV-nnA-KLRdBm5ivVrA"
     fav_count 0
@@ -4266,7 +4266,7 @@ graph [
     step 0
     date "2022-07-09T12:02:39Z"
     title "I think I&#8217;m dying // Warrior cats OCs // TW: Pink blood // Animation // read description"
-    description "OCs: Blizzardpaw Hailfire Context: Lakeclan, witch is where Blizzard and Hail are from, are in a battle with another clan."
+    description "OCs:&#10;Blizzardpaw&#10;Hailfire &#10;&#10;&#10;&#10;&#10;&#10;&#10;Context: Lakeclan, witch is where Blizzard and Hail are from, are in a battle with another clan. Blizzardpaw is an apprentice, under the mentorship of Hail, in a few weeks away from becoming a warrior. But in this battle Hail is struggling and in an effort to save her, Blizzard jumps in the way sacrificing her life."
     channel_title "&#8226;Calies Art&#8226;"
     channel_id "UC8z3p2vEk16mqmTCqvWnSrQ"
     fav_count 0
@@ -4281,7 +4281,7 @@ graph [
     step 0
     date "2022-06-02T22:00:13Z"
     title "Drawing All Warrior Cats Day 3! [Millie]"
-    description "Comment who you would like to see next! If you'd like to see more art please follow @WarriorsSpirit.Draws on Tiktok! &#10084; I've put ..."
+    description "Comment who you would like to see next!&#10;If you'd like to see more art please follow @WarriorsSpirit.Draws on Tiktok! &#10084; I've put this as a playlist and so every time i publish a &#34;Drawing every Warrior Cat&#34; video, it will be in the playlist if you're looking for an easy way to find it :)&#10;&#10;Q&#38;A&#10;What app do you use to draw?&#10; Pro Create&#10;What app do you use to edit?&#10;Capcut and sometimes Tiktok&#10;What brush do you use(on pro create)?&#10;Technical Pen&#10;Where did you get the wheel?&#10;https://cosmilkcow.carrd.co&#10;-credits to @cosmilkcow on tiktok for the wheel&#10; Whats your Tiktok? &#10;Main: @WarriorsSpiritYT Drawing account: @WarriorsSpirit.Draws&#10;&#10;Any other questions? let me know in the comments!&#10;&#10;&#10;Subscribe!&#10084;"
     channel_title "WarriorsSpirit"
     channel_id "UChHak5HBmD9ZvCdbAiNM4pQ"
     fav_count 0
@@ -4296,7 +4296,7 @@ graph [
     step 0
     date "2012-02-10T11:53:28Z"
     title "Warrior Cats Theme Songs"
-    description "Warrior Cats Theme Songs- 1.Bluestar- Stand in the Rain- Superchick 2.Hawkfrost- Hot and Cold- Katy Perry (clean) 3.Firestar- I ..."
+    description "Warrior Cats Theme Songs-&#13;&#10;1.Bluestar- Stand in the Rain- Superchick&#13;&#10;2.Hawkfrost- Hot and Cold- Katy Perry (clean)&#13;&#10;3.Firestar- I Want it that Way- Backstreet Boys&#13;&#10;4.Spottedleaf- If I Die Young- The Band Perry&#13;&#10;5.Tigerstar- Time of Dying- Three Days Grace&#13;&#10;6.Graystripe- Accidentally in Love- Counting Crowns&#13;&#10;7.Stormfur- How Far We've Come- Matchbox 20&#13;&#10;8. Squirrelfight- Complicated- Avril Lavigne&#13;&#10;9. Brightheart- Everytime We Touch slow- Cascada&#13;&#10;10. Scourge- I Hate Everything About You- Three Days Grace"
     channel_title "Bluestarrox97"
     channel_id "UCQX9vQQHzpp7n-ecQF11neg"
     fav_count 0
@@ -4311,7 +4311,7 @@ graph [
     step 0
     date "2017-05-30T07:06:28Z"
     title "Warrior Cats Untold Tales: Invading RiverClan"
-    description "This is a short, step-by-step tutorial that shows and explains how to invade RiverClan in the game Warrior Cats Untold Tales, ..."
+    description "This is a short, step-by-step tutorial that shows and explains how to invade RiverClan in the game Warrior Cats Untold Tales, version 13!&#10;&#10;WC:UT version 13 download link: http://www.mediafire.com/file/nmdkif30ppc7fgp/Warriors-_Untold_Tales_v13.exe&#10;&#10;Music: Morning's Soft Glow: Tim Janis &#10;https://www.youtube.com/watch?v=VMryqgX0BcQ"
     channel_title "sherrifjam917"
     channel_id "UCb58XkF1umv_jWLemDdDbmQ"
     fav_count 0
@@ -4326,7 +4326,7 @@ graph [
     step 0
     date "2022-01-14T20:01:10Z"
     title "Warrior Cats Voice Actors play: Mafia | In Character #2"
-    description "We were so excited you all enjoyed our last video of Warriors Voice Actors play Mafia that we made a second one! This one is ..."
+    description "We were so excited you all enjoyed our last video of Warriors Voice Actors play Mafia that we made a second one! This one is much more suspenseful and we included MANY of your suggestions and ideas into it! We've also created our very own Warriors themed game! Same premise but all the cards are Warriors related! We hope you enjoy!&#10;&#10;ALL AVAILABLE &#34;The Hunt&#34; CARDS CAN BE SEEN IN THE PREORDER FORM.&#10;Patreon: https://www.patreon.com/WCDub&#10;Preorders for the cards: https://forms.gle/tvvBist3GpNUC5uA7&#10;&#10;Artists for this video:&#10;Thumbnail: Matthew Jones (https://www.twitch.tv/gearup)&#10;Claw Marks: Matthew Jones (https://www.twitch.tv/gearup)&#10;All Graphics: Matthew Jones (https://www.twitch.tv/gearup)&#10;Ashfur: Kaseypaws (https://twitter.com/Kaseypaws)&#10;Breezepelt: Mika (https://www.instagram.com/mikakucity)&#10;Brightheart: Mika (https://www.instagram.com/mikakucity)&#10;Ivypool: Sun The Cat Dragon (https://instagram.com/sun_the_cat_dragon?utm_medium=copy_link)&#10;Onestar: Niffler (https://www.deviantart.com/nifflerdraws)&#10;Princess: Matthew Jones (https://www.twitch.tv/gearup)&#10;Purdy: Sun The Cat Dragon (https://instagram.com/sun_the_cat_dragon?utm_medium=copy_link)&#10;Stoneteller: Matthew Jones (https://www.twitch.tv/gearup)&#10;Tigerstar: Boofey/Bouncy (https://linktr.ee/Bouncy_Feather)&#10;Alderheart: Mika (https://www.instagram.com/mikakucity)&#10;Jayfeather: Mika (https://www.instagram.com/mikakucity)&#10;Sasha: Boofey/Bouncy (https://linktr.ee/Bouncy_Feather)&#10;Mothwing: Sketti (https://twitter.com/SkettiDragon?s=09)&#10;Yellowfang: ErrorEmma (https://www.deviantart.com/erroremma)&#10;&#10;Voices for this video:&#10;Jayfeather: Matthew Jones (https://www.twitch.tv/gearup)&#10;Mothwing: Smog (https://youtube.com/channel/UCjoLEjfj_THmgkC6I3HB3RA)&#10;Brightheart: ErrorEmma (https://www.deviantart.com/erroremma)&#10;Tigerstar: Grant (https://www.youtube.com/channel/UC__T4ql8NIlSdmf9tCrPu6A/featured)&#10;Yellowfang: Monica Grace&#10;Alderheart: Terson https://twitch.tv/tersonva &#10;Ivypool: Toon&#10;Purdy: Chris (https://www.youtube.com/channel/UCTQCLycV5E-fIglg4Gye3KA)&#10;Onestar: Foxystar&#10;Stoneteller: Tom&#225;s (https://twitter.com/Bilbz1?s=09)&#10;Princess: Kaseypaws (https://twitter.com/kaseypaws)&#10;Breezepelt: Exalted&#10;Ashfur: Rika/Rakea https://www.youtube.com/channel/UCm2T3GLN5MejRn5dzgAnGVg&#10;Sasha: Blueberry&#10;&#10;Editor for this video: Matthew Jones (https://www.twitch.tv/gearup)&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.com/invite/warriorcatsfandub&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -4341,7 +4341,7 @@ graph [
     step 0
     date "2021-09-18T15:16:06Z"
     title "&#38;quot;Way To You&#38;quot; Warrior Cats / Starclan Inspired ORIGINAL SONG (Feat. Shoyun)"
-    description "&#34;Way To You&#34; streaming now on... Spotify   https://spoti.fi/2XqRd1C iTunes   https://apple.co/2XpI7CJ I had the incredible ..."
+    description "&#34;Way To You&#34; streaming now on...&#10;&#127925;Spotify&#127925;  https://spoti.fi/2XqRd1C&#10;&#127925; iTunes&#127925; https://apple.co/2XpI7CJ&#10;&#10;I had the incredible opportunity to team up with my good friend Holly, (colacatinthehat), to bring to life another collaboration project. This is our second CHILD after Walk Without The Stars, and she never fails to blow me away with her skill and passion, and talent. Definitely do yourself a favour and check out her Youtube channel if you haven't already. She's incredible!!&#10;&#10;||~Where To Find Me!~||&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;&#10;Want to see videos and hear songs EARLY? Be a part of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi&#10;&#10;||---------||&#10;&#10;CREDITS&#10;Vocals - Shoyun&#10;Youtube - https://www.youtube.com/c/shoyukatsudon&#10;Facebook - https://www.facebook.com/shoyukatsudon&#10;Twitter - https://twitter.com/shoyukatsudon&#10;@shoyukatsudon &#10;&#10;Video &#38; Illustrations - colacatinthehat&#10;Youtube - https://bit.ly/2VIH5ki&#10;Twitter - https://twitter.com/HatsAndColacats&#10;&#10;Mixing/Mastering of Audio - FreshMicks&#10;&#10;Additional Artwork - Finchwing&#10;https://www.youtube.com/c/Finchwing&#10;&#10;Music/Lyrics/Produced by - Blixemi&#10;&#10;||---------||&#10;&#10;Please note: &#10;-Do not reupload this audio onto your channel. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;||---------||&#10;&#10;LYRICS&#10;&#10;I don&#8217;t know the way to you.&#10;You can&#8217;t be gone I just won&#8217;t say it&#8217;s true.&#10;My world won&#8217;t change, I won&#8217;t be broken down.&#10;For you&#8217;re not lost you&#8217;re just not yet found.&#10;&#10;How could you leave this all behind?&#10;After this, I hope you&#8217;re satisfied.&#10;You&#8217;ve thrown away everything we&#8217;ve been through.&#10;I pray I never find my way to you.&#10;&#10;The path is broken and it&#8217;s incomplete.&#10;I trip and stumble, I can hardly breathe.&#10;So many choices, but no clarity.&#10;So many voices, but no melody.&#10;&#10;This can&#8217;t go on, and now I&#8217;m lost too...&#10;I fear I&#8217;ll never find my way to you&#10;&#10;I don&#8217;t know the way to you,&#10;I&#8217;d change so much if I only knew&#10;I&#8217;d trade the world, please I will beg and plead.&#10;If you could turn around and stay with me.&#10;&#10;All you&#8217;ve left is just a passing breath&#10;And now you&#8217;ve passed, I have got nothing left.&#10;I don&#8217;t think I can make it through.&#10;Because I cannot find my way to you&#10;&#10;I am broken and it&#8217;s hard to breathe.&#10;Without you here I feel so incomplete.&#10;There's no more choices and no melodies.&#10;With you gone, I&#8217;ve lost a piece of me.&#10;&#10;The fog is heavy I can not see through,&#10;And so I think that all I fear is true,&#10;This can&#8217;t go on, and now I&#8217;m lost too.&#10;I know I&#8217;ll never find my way to you.&#10;&#10;In the blink of an eye, everything&#8217;s washed away.&#10;It takes no more than just a breath for everything to change.&#10;And nothing&#8217;s right and it feels like I&#8217;ve lost the way.&#10;But I feel changes, something&#8217;s telling me I&#8217;ll be okay.&#10; &#10;And though it&#8217;s hard to begin again and face the truth.&#10;I&#8217;ll build myself on everything that you and I&#8217;ve been through.&#10;I&#8217;m pushing forwards and found something that I never knew.&#10;You were here all along guiding me back to you.&#10;&#10;The path is broken and it&#8217;s incomplete.&#10;I may trip and stumble but I&#8217;ll find my feet.&#10;So many choices, I see clarity.&#10;So many voices, I hear harmonies.&#10;&#10;The fog is heavy I&#8217;ll continue through,&#10;For in my strength is where I&#8217;ll find the truth&#10;I will go on and see the end in view.&#10;And someday soon I&#8217;ll find my way to you.&#10;&#10;I&#8217;ll find my strength you&#8217;ll keep me pushing through&#10;You&#8217;ll show the way, I&#8217;ve found myself in you."
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -4356,7 +4356,7 @@ graph [
     step 0
     date "2016-12-13T22:58:12Z"
     title "A Newborn Kit in ThunderClan!! &#8226; Warrior Cats: Untold Tales - Episode #1"
-    description "Join the Pixel Biology Community! &#8226; http://goo.gl/Xro8bE &#8226; Warrior Cats: Untold Tales &#8226; https://goo.gl/LcrsGW &#8226; Warrior Cats Sims 3 ..."
+    description "Join the Pixel Biology Community! &#8226; http://goo.gl/Xro8bE &#10;&#8226; Warrior Cats: Untold Tales &#8226; https://goo.gl/LcrsGW&#10;&#8226; Warrior Cats Sims 3 Legacy &#8226; https://goo.gl/iFz5ob&#10;&#10;Warrior Cats: Untold Tales is a wonderfully made and deeply detailed fan-made game by Falconstar! You can find it available for download here: http://warriorcatsuntoldtales.weebly.com/&#10;&#10;The beautiful drawing of Dawnstep and Stonekit from our Warrior Cats Sims 3 series used in our thumbnail image is by Cupcakearecool!! :D &#10;&#10;Join Seri the Pixel Biologist as we dive into Untold Tales and take on the roles of the clan cats within the first four original Clans - ThunderClan, RiverClan, WindClan, and ShadowClan! We will work hard to prove our worth to our clan by gaining reputation through quests and challenging the other clan cats - and perhaps even take on the role of medicine cat or deputy while we're at it! &#10;&#10;&#8226; &#128062; &#8226; Pixel Biology Guides &#38; Goodies &#8226; &#128062; &#8226;&#10;----------------------------------------&#173;&#173;------------------------------------&#10;&#127807; Etsy Shop &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#127807; PO Box Status &#38; Snail Mail Vlogs &#8226; https://goo.gl/zxQdbL&#10;&#10;&#127807; Patreon &#8226; https://www.patreon.com/seripixelbiologist&#10;&#10;&#8226; &#128062; &#8226; Contact Information &#8226; &#128062; &#8226;&#10;----------------------------------------&#173;&#173;------------------------------------&#10;&#127807; Fanmail E-mail &#8226; mailforseri@gmail.com&#10;&#127807; Business E-mail &#8226; seriiiously@gmail.com&#10;&#10;&#127807; Twitter &#8226; https://twitter.com/Seriiiously&#10;&#127807; Facebook &#8226; https://goo.gl/GsymoK&#10;&#127807; Instagram &#8226; https://instagram.com/seriiiously&#10;&#10;&#8226; &#128062; &#8226; Seri! Pixel Biologist! &#8226; &#128062; &#8226;&#10;----------------------------------------&#173;&#173;------------------------------------&#10;&#8226; Seri is a biologist-in-training with an intense passion for plants and filling her house to the brim with finches, potted plants, and biology &#34;specimens&#34; that look oddly like snail shells, mossy, and twigs covering every available surface. &#10;&#10;She is also big into spreading her love of the natural world through the entertaining medium of story-telling through video games! Jump on in and see what our amazing, animal-loving, plant-studying community is all about! And remember, stay curious!&#10;&#10;&#127911; End Music by Aivi &#38; Surasshu &#8226; https://goo.gl/ve3i0L"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -4371,7 +4371,7 @@ graph [
     step 0
     date "2022-07-02T21:58:03Z"
     title "New fur texture + belly streak [] Warrior Cats Ultimate Edition Ideas"
-    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas). Credit for the ..."
+    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas).&#10;Credit for the content and information in this video goes to Bavelly! Socials:&#10;Discord: Bavelly#0450&#10;Twitter: https://twitter.com/Bavelly3&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/blueberry48593&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -4386,7 +4386,7 @@ graph [
     step 0
     date "2022-02-12T21:51:29Z"
     title "How to Fly in Warrior Cats Ultimate Edition"
-    description "uhhh so first real video?? um- i hope you like it!"
+    description "uhhh so first real video??&#10;um-&#10;i hope you like it!"
     channel_title "StormiiKat"
     channel_id "UC1d9xiO6E6XniEexe1440oQ"
     fav_count 0
@@ -4401,7 +4401,7 @@ graph [
     step 0
     date "2021-06-28T12:00:14Z"
     title "RiverClan&#38;#39;s roleplay experience - now with fewer deputies! || Warrior Cats: Ultimate Edition"
-    description "I wonder how all the kits I've named are doing - Music &#34;Teddy Bear Waltz&#34; Kevin MacLeod (incompetech.com) Licensed under ..."
+    description "I wonder how all the kits I've named are doing&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Teddy Bear Waltz&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -4416,7 +4416,7 @@ graph [
     step 0
     date "2021-02-06T20:00:12Z"
     title "&#128268;SPEED OVER BEETHOVEN&#128268; Complete Snowkit and One-eye Warriors Dance Dance Revolution MAP (EYE STRAIN)"
-    description "Cohosted, and for a few months hosted, by @GiingerSnaps! Ginger also did the editing of the MAP, but I added a few camera ..."
+    description "Cohosted, and for a few months hosted, by @GiingerSnaps! Ginger also did the editing of the MAP, but I added a few camera movements afterwards so if anything looks weird blame me. An unfathomably huge thank you to them and also to the participants of this MAP for bringing to life this wacky idea!&#10;&#10;Summary(long I'm sorry lol): &#10;Warriors is a rhythm video game where the only real character is Fireheart&#8212;everyone else is an NPC. Battles, hunting, and other warrior duties are completed like dance minigames. StarClan is one single cat, but inside its body is every cat in StarClan, and it rules this world. &#10;&#10;StarClan is obsessed with Fireheart&#8212;its only goal is to make an interesting story for him to play. If NPCs die when Fireheart isn&#8217;t watching, StarClan respawns them to use later. Except for One-eye, who has figured it out through observation, the cats don&#8217;t know that Fireheart is the catalyst for death and instead believe that StarClan only respawns those who are devout. As a result of this conditional immortality, cats worry a lot less about themselves and each other. &#10;&#10;Because Fireheart was not present at Snowkit&#8217;s actual moment of death, Snowkit respawns and continues on with life. Concepts like StarClan cannot be explained to him, so he tries to figure out how things work himself, with the help of his aunt and mentor, One-eye.&#10;&#10;StarClan didn't like one cat knowing about its game, so when Snowpaw starts figuring it out as well, it summons him to its realm to tell him to knock it off. In StarClan, Snowpaw can hear, but he's not interested in listening to StarClan and finds his way back to the game world. Events in Warriors canon proceed- Bluestar dies, Firestar becomes leader, Scourge rises to power and meets Firestar for the battle.&#10;&#10;One-eye and Snowpaw haven't shared their knowledge with Firestar because they don't know what the StarClan cat, who has complete power over this world, would do. But in the face of so many cats dying needlessly, One-eye finally tells him. Furious, StarClan collects Snowpaw, who it's obsessed with after he ignored it- it also collects Firestar and Scourge by accident.&#10;&#10;Snowpaw leads Firestar out of StarClan's realm, leaving Scourge behind. StarClan follows them to the game world, worried what Firestar might be thinking. Firestar is livid when he sees StarClan. He wails on it, glitching out the world as it depends on StarClan. The StarClan cat lets out Bluestar, and this calms down Firestar. &#10;&#10;StarClan only wants to make Firestar happy. He puts it to work helping around the camp. StarClan had never considered staying in the game world before, but it likes it because it's close to Firestar. Firestar gives Snowpaw his warrior name, Snowstep.  &#10;&#10;MAP Call: https://www.youtube.com/watch?v=0xHDjjyUIEE&#10;Parts Playlist: https://www.youtube.com/playlist?list=PLuAFTIlbuIN19UGuZx3KxZSsn7k3bqMKy&#10;&#10;Thumbnail: Chamops (https://www.youtube.com/channel/UCFS4JhS_0fZ39NG55vQasrA)&#10;Intro: @E.J Kraft &#10;1: @raevei and @GiingerSnaps &#10;2: @Zokhan &#10;3: @GiingerSnaps and @Starcheopteryx &#10;4: @Klarikatt&#10;5:  @crispyyflake&#10;6: @Grook&#10;7A: @Deer Drops&#10;7B: @Osinka&#10;8: @Ryeven&#10;9: @katkitters&#10;Interlude 1: bitbizarrre (https://www.youtube.com/channel/UCmjllY9wKWOrQ7bsrc7TVmQ)&#10;Interlude 2: Toonisms (https://www.youtube.com/channel/UC3chmryKK4fbUmEJApdtTog)&#10;10: @Lonely night&#10;11A: @Scoutnmave&#10;11B: @kovuren&#10;11C: @Crowla&#10;12: @Ghastea &#10;13: @Catart &#10;Interlude 3: @gmowl&#10;Interlude 4: @GildedPhD &#10;14: Annywu (https://www.youtube.com/channel/UCP-od5SSyPgV6Ok4keQSU2Q)&#10;15: Maltose Cat (https://www.youtube.com/channel/UCEZsBL07QuqjqgWmxcTjlgw)&#10;16: @Avazorous&#10;17: @Jakichi&#10;&#10;Songs:&#10;Speed Over Beethoven by ROSE&#10;Fur Elise Remix by Klutch"
     channel_title "crowla"
     channel_id "UC1UM2CGx_HemS1R3ozRooPw"
     fav_count 0
@@ -4431,7 +4431,7 @@ graph [
     step 0
     date "2021-10-14T02:24:56Z"
     title "What Warrior Cats Sound Like (In My Opinion) // REMAKE"
-    description "Subscribe! Please note that non of these photos are mine! Photo Credits: https://www.google.com/"
+    description "Subscribe!&#10;&#10;Please note that non of these photos are mine! &#10;&#10;&#10;&#10;&#10;&#10;&#10;Photo Credits: https://www.google.com/"
     channel_title "WarriorsSpirit"
     channel_id "UChHak5HBmD9ZvCdbAiNM4pQ"
     fav_count 0
@@ -4446,7 +4446,7 @@ graph [
     step 0
     date "2019-04-13T13:00:03Z"
     title "Medicine Cats SHOULD Have Kits | Warrior Cats"
-    description "Medicine cats have rules preventing them from having kits. Are these rules reasonable? Join Bright Guardian Akira Amino: ..."
+    description "Medicine cats have rules preventing them from having kits. Are these rules reasonable?&#10;&#10;Join Bright Guardian Akira Amino: https://aminoapps.com/c/brightguardianakira&#10;&#10;Cat art by Missy Dakota!&#10;Her Patreon: https://www.patreon.com/MissyDakota&#10;Her DeviantArt: https://www.deviantart.com/missydakota"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4461,7 +4461,7 @@ graph [
     step 0
     date "2019-05-06T19:50:28Z"
     title "Warrior Cats Animated Special (Brokenstar&#38;#39;s House)"
-    description "OH, and for those of you asking, this isnt the new art style, i just like to change the styles for shorts to better differentiate it from the ..."
+    description "OH, and for those of you asking, this isnt the new art style, i just like to change the styles for shorts to better differentiate it from the main show&#10;WOWOW its finished, Greene Avenue is coming next, then the Prolouge to Fire and Ice THEN the first episode of Fire and Ice, aint that nice&#10;also first wca related thingy with FULL HD amazing, ive upgraded my computer recently, so now all the new episodes will be in HD&#10;&#10;Patreon: https://www.patreon.com/bokbokchoy&#10;WCA tumblr: https://www.tumblr.com/blog/warriorca...&#10;BokBokChoy twitter: https://twitter.com/?lang=en&#10;&#10;Rory- http://sillystrung.tumblr.com/ (Also animated it)&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?h...&#10;And also animated by-&#10;Elliot - https://www.youtube.com/channel/UCtui...&#10;New Voices-&#10;Taylor https://www.youtube.com/user/TaylorTe...&#10;Madeline - https://twitter.com/faeryxoxo&#10;&#10;(Voices)&#10;Rory- Smudge, Graystripe, Ravenpaw, Runningwind, Longtail, Smallear, Brindleface, Boulder, Brownpaw. Clawface, Stumpytail&#10;Fritz- Fireheart, Tigerclaw, Whitestorm, Lionheart, Sandpaw, Yellowfang, Brokenstar, Darkstripe, Blackfoot, Susanne, Barley, Nightpelt&#10;Lillian- Bluestar, Mousefur, Spottedleaf, Speckletail, Willowpelt, Littlepaw, Tangleburr&#10;Elliot- Runningnose, Crookedstar, Crowfur, Thornclaw.&#10;Moms- Frostfur&#10;Pops- Mudfur, Patchpelt&#10;Madeline- One-eye&#10;Taylor- Goldenflower&#10;Navgate- Halftail&#10;&#10;Music Used:&#10;Baila Mi Cumbia (sting) - Jimmy Fontanez/Media Right Productions&#10;Pitch - Lish Grooves&#10;Super Blues - Unicorn Heads&#10;Timed Out (Sting) Jingle Punks&#10;Drizzle To Downpour - Silent Partner"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -4476,7 +4476,7 @@ graph [
     step 0
     date "2022-06-25T20:00:11Z"
     title "&#127811; &#12304;COOL KIDS: Complete Anything Warrior Cats MAP&#12305;&#127811;"
-    description "I AM SO HAPPY TO PRESENT COOL KIDS! First off, this MAP was originally hosted by DreamGamer! I, unfortunately, cannot find ..."
+    description "I AM SO HAPPY TO PRESENT COOL KIDS! &#10;&#10;First off, this MAP was originally hosted by DreamGamer! I, unfortunately, cannot find their channel now, but I took this MAP up for them around the 2015-2016 era of the Warrior Cats community. Much like my other MAP Phoenix, I ended up abandoning this MAP after being locked out of the account I was hosting the MAP on. I finally regained access to that account and have been planning on rehosting these MAPs one by one! &#10;&#10;DISCLAIMER: Over 10 parts were lost in the progress of bringing this MAP back up. This is due to Youtube's new update that privated all unlisted videos from certain periods. Please keep this in mind when watching this MAP as there were several animators who originally participated and unfortunately did not get their work into the MAP! &#10;&#10;ANOTHER DISCLAIMER: Many of these parts were made in the early/mid 2010s. Please do not judge participants based on their art at that time! Along with that, please understand that I do also acknowledge the potential harm in having characters such as Briarlight and Cinderpelt appear in this MAP. These are parts created either before the MAP was in my control or when I was unaware of how negatively these portrayals are (aka I was 12). Please keep this in mind ^^.&#10;&#10;Please send your congrats to @Basil Kat for winning the thumbnail contest!! &#10;&#10;Finally, give a big round of applause to the participants! &#10;&#10;Intro- Basil Kat &#38; Samboo&#10;[https://www.youtube.com/c/BasilKats]&#10;[https://www.youtube.com/channel/UCRYW_9I-lL__dMPIxwNdUfg]&#10;1- colorcharms&#10;[https://www.youtube.com/channel/UCrL_3neCrwlSUt9Mju1dPog]&#10;2- Ziggyistired&#10;[https://www.youtube.com/channel/UCNPbDVnliFkaMwg4Okgqjrg]&#10;3- KellyKatMeow&#10;[https://www.youtube.com/user/raquelloop360]&#10;4- Deerleap&#10;[PART RETRIEVED FROM OLD FLASHDRIVE: Current status of username/channel unknown]&#10;5- AnimatorTails&#10;[PART RETRIEVED FROM OLD FLASHDRIVE: Current status of username/channel unknown]&#10;6- Jaylin Adame&#10;[PART RETRIEVED FROM OLD FLASHDRIVE: Current status of username/channel unknown]&#10;7- Jaylin Adame&#10;[PART RETRIEVED FROM OLD FLASHDRIVE: Current status of username/channel unknown]&#10;8- Doodle train&#10;[https://www.youtube.com/channel/UCt3c1JseYvFc1gaeAv3UsMQ]&#10;9- MD LPS&#10;[https://www.youtube.com/channel/UCx3gMrAk6KkN6MkyyXSboKQ]&#10;10- Jawaij&#10;[https://www.youtube.com/channel/UCmNnOy3Z7ATUkhPigLjkVOg]&#10;11- Senni Can't Draw&#10;[https://www.youtube.com/channel/UC2XHAXd5ChPf9tDhVMkPWQQ]&#10;12- Sunbreeze&#10;[https://www.youtube.com/channel/UCxb3NgLmYIWxIRx17YJSGFg]&#10;13- lynxiiam &#38; Olivejump Warriors&#10;[https://www.youtube.com/channel/UCPrMLTE9UEYj46iQrs6hqYw]&#10;[https://www.youtube.com/channel/UCbrs-1VDkg6kripkCf9RtzQ]&#10;14- Retro_Wolf&#10;[https://www.youtube.com/channel/UCKb5c_urJClMXs_OXZO66Xw]&#10;15- LemonCat&#10;[https://www.youtube.com/channel/UC8zxzzuvIsIIK0A6xl_5nsg]&#10;16- Senni Can't Draw&#10;[https://www.youtube.com/channel/UC2XHAXd5ChPf9tDhVMkPWQQ]&#10;17- LaClara &#10;[https://www.youtube.com/channel/UCaJd8PRKbQAPcr_D9zpyKEw]&#10;18- An&#10;[https://www.youtube.com/channel/UC55PUj6H3aGRzY_JsbT82sQ]&#10;19- EeveeIsRed&#10;[https://www.youtube.com/channel/UCTAR9AeUTbiVJJw-afy9IXw]&#10;20-WolfenCaticus&#10;[https://www.youtube.com/user/kaybzjess]&#10;21A- WolfenCaticus&#10;[https://www.youtube.com/user/kaybzjess]&#10;21B-CrazyDrawz&#10;[https://www.youtube.com/channel/UCQN-wVFA9p3SjvRfCbM1nWA]&#10;22-H&#246;ri &#233;s Bar&#225;tai&#10;[https://www.youtube.com/channel/UC1JbSXcSTenO_-JFPKyJV5Q]&#10;23-Lugia&#10;[https://www.youtube.com/channel/UCyBUCVnzyUKg4WsqmLpio9A]&#10;24- Shadowblaze&#10;[https://www.youtube.com/channel/UCsdW9tsQ08vaGtFSTTZUFDg]&#10;25-PaintedMagic (watermark different in video)&#10;[https://www.youtube.com/c/PaintedMagic]&#10;26- StarryRivers&#10;[https://www.youtube.com/channel/UC6FVSlxOVxyKnSnN04Cwy_A]&#10;27- ThatsN0tVeryCashM0ney&#10;[https://www.youtube.com/channel/UCApD5yO7UmYns3qY6w7h0fg]&#10;28- HashisHat&#10;[https://www.youtube.com/channel/UCj4e0QBvfDc5L9wm5V9yuPQ]&#10;29- Windrex&#10;[https://www.youtube.com/channel/UCN8ja_WF_gsSTjornlDh6Gg]&#10;30- IcefireUwU&#10;[https://www.youtube.com/channel/UCgicBNmQL2pcoNmurIM5LTQ]&#10;Outro- Thumbnail Contest entries&#10;&#10;&#10;&#10;---------------------------&#10;FUN STUFF&#10;&#10;I also post on...&#10;Deviantart: SaturnSkyez&#10;Instagram: Saturnskyez&#10;Design Instagram: Skyez.of.Saturn&#10;I've made designs for Warrior Cats, DC, Once Upon A Time, Star Wars, Marvel, and more! &#10;Fan/General Discord Server: https://discord.gg/77eWKhKXpy&#10;You may not steal or trace anything in any of my videos. &#10;PLEASE do not ask me about hosting/joining a MAP&#10;&#10;Thank you for understanding and TYSM for watching!"
     channel_title "SaturnSkyez"
     channel_id "UCT6s2biqhE9ZzAw4VSE9IEA"
     fav_count 0
@@ -4491,7 +4491,7 @@ graph [
     step 0
     date "2022-02-24T02:46:28Z"
     title "Warrior Cats Ultimate Edition! | Elder Roleplaying Tips!"
-    description "I have to say, my my have I grown since the last tip video! 200+ subscribers? Damn y'all, I'm sorry for neglecting this video for so ..."
+    description "I have to say, my my have I grown since the last tip video! 200+ subscribers? Damn y&#8217;all, I&#8217;m sorry for neglecting this video for so long!&#10;&#10;!! DISCLAIMER !!&#10;&#10;Please do not rob, or use any of my videos in one of your own without credit! Thank you ^^&#8217;&#10;&#10;FaQ:&#10;What are my pronouns?&#10;A- Any/All&#10;&#10;What Editing Software do you use?&#10;A- KineMaster on IPhone12&#10;&#10;Do you draw?&#10;A- Yes! I do, I may start speedpaints soon enough on this channel as well!&#10;&#10;Are commissions open?&#10;A- As of now, no.&#10;&#10;Can I do a collaboration with you for YouTube?&#10;A- Message me VIA discord: Aries#3254&#10;&#10;&#10;!! Questions for my viewers !!&#10;&#10;Q- Did you like this video?&#10;Q- Is there anything I could improve on?&#10;Q- Do you have any tips for myself?&#10;Q- Is there anything else I could have perhaps added?&#10;&#10;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473; &#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473; &#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#10;&#10;Previous Video- https://www.youtube.com/watch?v=PqpLETY_s1w&#10;Newest Video on the Playlist- https://www.youtube.com/watch?v=O7eCfDM4Lqg&#38;t=45s&#10;Roleplaying Tips- https://www.youtube.com/playlist?list=PL9Z1kOf_j9RNFgDx9CJKOqykieAHKPLMC&#10;Channel- https://www.youtube.com/channel/UCu674Ox0AG1z9371zcY5iWg"
     channel_title "|- Aries -|"
     channel_id "UCu674Ox0AG1z9371zcY5iWg"
     fav_count 0
@@ -4506,7 +4506,7 @@ graph [
     step 0
     date "2014-09-09T08:09:11Z"
     title "JOAN OF ARC - Complete Warrior Cats MAP"
-    description "Here's a link to a (lower quality) version of the upload if the video is blocked on mobile devices: http://fav.me/d7yj8pt It's here!"
+    description "Here's a link to a (lower quality) version of the upload if the video is blocked on mobile devices: http://fav.me/d7yj8pt&#10;&#10;It&#8217;s here! My 3rd Warriors MAP, and can I just say I am once again blown away by how far everyone who participated pushed themselves. I am so proud to say that I hosted this project; I think it&#8217;s the best MAP I&#8217;ve hosted so far, and I&#8217;m so happy that people were willing to do SO MUCH WORK to accomplish it!&#10;&#10;The song is &#8220;Joan of Arc&#8221; by Arcade Fire!&#10;&#10;This Multi Animator Project&#8217;s (MAP&#8217;s) concept was the female Medicine Cats of Thunderclan and their love/hate relationship with Starclan, along with the theme of &#8220;rough beauty.&#8221; The MAP is structured in 5 major parts:&#10;&#10;Parts 1-3 focus on the life and death of Spottedleaf.&#10;&#10;Parts 4-8 show Yellowfang leaving Shadowclan and forming a bond with Cinderpaw. &#10;&#10;Parts 9-11 form an interlude of Starclan sympathizing with the suffering of the Medicine Cats, and the Medicine Cats&#8217; often-uneasy relationship with Starclan.&#10;&#10;Parts 12-14 showcase Cinderpelt&#8217;s accident and relationship to Leafpaw&#10;&#10;Parts 14-18 focus on Leafpool&#8217;s fears and shame about loving Crowfeather, and lying to her children.&#10;&#10;I believe that every single part in this MAP is nothing short of amazing; and the story came off very clearly and coherently.&#10;&#10;Some people&#8217;s parts were edited or cut short; the reason being that they didn&#8217;t bother to follow one (or more) of the MAP rules.&#10;&#10;To avoid questions about it, the French segment&#8217;s lyrics are: &#10;&#8220;You say you&#8217;re my judge, but I don&#8217;t believe you. You say I&#8217;m a saint, but that&#8217;s not me. I hear voices, but they aren&#8217;t me, I&#8217;m not Joan of Arc!&#8221;&#10;&#10;Enjoy the MAP!"
     channel_title "Alli Kat"
     channel_id "UC1M-0GzHNS1sy7my0UBOBFw"
     fav_count 0
@@ -4521,7 +4521,7 @@ graph [
     step 0
     date "2022-03-31T22:14:30Z"
     title "Counting Stars Warrior Cats"
-    description "These animations are not mine."
+    description "These animations are not mine"
     channel_title "Warrior_Catz Rule"
     channel_id "UCxGmksopc-8thKeyjkTSZFg"
     fav_count 0
@@ -4536,7 +4536,7 @@ graph [
     step 0
     date "2019-09-21T14:00:01Z"
     title "We wrote TERRIBLE Warrior Cats Fanfiction"
-    description "I wrote a Warrior Cats fanfiction using nothing but your comments! The result is exactly what you would expect."
+    description "I wrote a Warrior Cats fanfiction using nothing but your comments! The result is exactly what you would expect...&#10;&#10;Squirrelflight/Leafpool's voice by Voice my Opinion: https://www.youtube.com/channel/UCl9Jupz11ceQPjCmiNkvrzA&#10;&#10;The cat art is by Missy Dakota!&#10;Her Patreon: https://www.patreon.com/MissyDakota&#10;Her DeviantArt: https://www.deviantart.com/missydakota&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw&#10;Talk sprites by Gee: https://twitter.com/Gee_lly"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4551,7 +4551,7 @@ graph [
     step 0
     date "2020-12-10T20:30:07Z"
     title "Top 10 Favorite Warrior Cats"
-    description "Do you have a favorite cat from the World of Warriors? Here are 10 of our favorites! Subscribe to Shelf Stuff! - https://goo.gl/TkzXiD ..."
+    description "Do you have a favorite cat from the World of Warriors? Here are 10 of our favorites! &#10;&#10;Subscribe to Shelf Stuff! - https://goo.gl/TkzXiD&#13;&#10;&#10;About the WARRIORS series:&#10;Erin Hunter's #1 nationally bestselling Warriors series is a series of novels that follows the adventures of six Clans of cats: ThunderClan, WindClan, RiverClan, ShadowClan, SkyClan, and StarClan.&#10;&#10;&#8220;From now on, you will live by a Warrior Code. Your hearts will be filled with courage and nobility, and if you must fight, it will be not for greed, but for honor and justice.&#8221;&#10;&#10;There is not always peace between the Clans, but that is to be expected&#8212;cats are born with claws and teeth for a reason. Still, as long as they lived by the Warrior Code, their fallen ancestors would watch over them and guide them through their lives.&#10;&#10;Visit warriorcats.com for more information! &#13;&#10;LET&#8217;S GET BOOK NERDY!&#13;&#10;Website: http://www.shelfstuff.com &#13;&#10;Instagram: http://instagram.com/theshelfstuff &#13;&#10;&#13;&#10;#ShelfStuff is brought to you by HarperCollins Publishers."
     channel_title "Shelf Stuff"
     channel_id "UCPtGRJgv2klUy25peVli7tw"
     fav_count 0
@@ -4566,7 +4566,7 @@ graph [
     step 0
     date "2021-11-20T18:00:11Z"
     title "Willowheart Studio | Warrior Cats Audiobook: Book 1 Chapter 4 [READ DESCRIPTION]"
-    description "Message from WillowHeart: Be sure to support Ellie's work as well as the team! They did a fantastic job and any support would be ..."
+    description "Message from WillowHeart: Be sure to support Ellie's work as well as the team! They did a fantastic job and any support would be awesome! Please share and even give this video LOT of likes! It'll help so much with getting our channel/videos feature on YT front page! &#10;&#10;Also, to 'those' views out there, don't spam in the comments about &#34;Wings of Fire&#34; from different projects. Its honestly rude, very disrespectful and not nice to the team who worked hard on this with passion! Treat this project with love like you do for our Wings of Fire Graphic Novel Dub.&#10;&#10;For those wanting to aid us in future projects like Audio content ranging from small to large projects? Check out where I do Commissions? TikTok Page? (And future links for channel and myself Patreon) Check out Linktree!&#10;WillowHeart Linktree: https://linktr.ee/WillowHeartStudio&#10;&#10;Now, onto Ellie! Take it away! *bows and walks off stage*&#10;&#10;Hey guys! Its Director Ellie :) Sorry about the wait on this chapter! We've got some news - The chapters should start coming out faster starting next time. However, we are having to cut most of our art out of the project due to our art team not being available :( I am so sad but the voice acting lives on! Another note, our Lead Artist Crab has Retired from our studio. They did so much to help out our art team and we have permission to use their art in the future. Hope you all enjoy! :D&#10;&#10;Director - Elliebear&#10;CCC: https://www.castingcall.club/m/elliebear&#10;Twitter: https://twitter.com/LilBearEllie&#10;&#10;ASSISTANT DIRECTORS&#10;&#10;Lead Art - Crab&#10;Insta: https://www.instagram.com/peachesandpencils/?utm_medium=copy_link &#10;Email: dakotaleenb@gmail.com&#10;&#10;Lead Scripting - LadyAzzura&#10;CCC: http://www.castingcall.club/m/LadyAzzura&#10;YouTube: https://youtube.com/user/MiyuTheFallenAngel&#10;&#10;EDITORS&#10;&#10;Sound - Raya &#10;Website: https://rayascribbles.wixsite.com/website&#10;&#10;Video - FluffyEnderPug / Tyler&#10;Reddit: Tyler (FluffyEnderPug)&#10;YouTube: https://youtube.com/c/ProfessorBird&#10;&#10;VA&#10;&#10;Narrator - WRetcheDNSTuFF - Matthew Anderson&#10;Facebook: https://www.facebook.com/WReTCHeDNSTuFF &#10;CCC: https://www.castingcall.club/?ref=EB9BA97&#10;&#10;Goldenflower - CEOlson&#10;Card: https://ceolson.carrd.co/&#10;&#10;Firepaw - Fuffy&#10;CCC: http://www.castingcall.club/m/Fuffy27&#10;&#10;Graypaw - JMaddera&#10;CCC: https://www.castingcall.club/m/JMaddera&#10;YouTube: https://www.youtube.com/channel/UCwTRrzDnaxVztoQ9MYGwHqg&#10;&#10;Ravenpaw - Jenkib of Florida&#10;CCC: https://www.castingcall.club/m/jenkib726 &#10;YouTube: https://www.youtube.com/channel/UC1TplpfGlWhDlibd-Z9edVA/featured&#10;&#10;Spottedleaf - Azzura&#10;YouTube: https://youtube.com/user/MiyuTheFallenAngel&#10;CCC: http://www.castingcall.club/m/LadyAzzura&#10;&#10;Smallear - Bonniecakes&#10;https://www.castingcall.club/m/Bonniecakes&#10;&#10;Whitestorm - Akin Abisogun&#10;abisogunva@gmail.com&#10;https://www.castingcall.club/m/Akin%20Abisogun&#10;&#10;Bluestar - Taylor Grace&#10;CCC: https://www.castingcall.club/m/wickedlyelphie&#10;YouTube: https://youtube.com/channel/UChzAjTr4fpLWqi93O4ofgNQ&#10;&#10;Tigerclaw - Joe Hoffman&#10;Twitter: https://twitter.com/rascallion71&#10;Youtube: https://www.youtube.com/channel/UC_CArNoybkYg_nJXaC0qq5w&#10;&#10;Dappletail - Oa Artemis HC / Windelower&#10;https://www.castingcall.club/m/Windelower&#10;&#10;One-Eye - Astrid&#10;https://www.castingcall.club/m/Astrid_Amnell&#10;&#10;ARTISTS&#10;&#10;shushkeh&#10;Instagram: https://www.instagram.com/shushkeh/&#10;&#10;Lite&#10;Twitter: https://twitter.com/ayopoggers&#10;&#10;Chipplynnarts &#10;Twitter: https://twitter.com/chipplynnarts &#10;&#10;crab&#10;Twitter: https://twitter.com/crabcakeszz&#10;Webtoon: https://www.webtoons.com/en/challenge/one-by-one-/list?title_no=695313&#10;&#10;CEOlson&#10;Ccard: https://ceolson.carrd.co/&#10;&#10;Snowy&#10;https://www.castingcall.club/m/SnowyOwl &#10;&#10;Script Writers&#10;&#10;Victoria&#10;Twitter: https://twitter.com/evergreenenigma?s=09&#10;Casting Call: https://www.castingcall.club/?ref=FE80A822A89&#10;&#10;masonjar&#10;https://www.youtube.com/channel/UCxGT9uOgwvznXEv8W6yyMwg"
     channel_title "WillowHeart Studio"
     channel_id "UCZJb_3bfo40_VB8aQHL8Hcg"
     fav_count 0
@@ -4581,7 +4581,7 @@ graph [
     step 0
     date "2020-08-22T14:00:17Z"
     title "What if Warrior Cats were Evil?"
-    description "(Kamvas 22&#38; Kamvas 22 Plus) Official store: https://bit.ly/2W24rOQ (Kamvas 22) Amazon US: https://amzn.to/2Obpfir (Kamvas 22 ..."
+    description "(Kamvas 22&#38; Kamvas 22 Plus) Official store: https://bit.ly/2W24rOQ&#10;(Kamvas 22) Amazon US: https://amzn.to/2Obpfir&#10;(Kamvas 22 Plus) Amazon US: https://amzn.to/3iLbLYF&#10;&#10;-&#10;&#10;Warriors Challenge Discord: https://discord.com/invite/W53Uw6F"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4596,7 +4596,7 @@ graph [
     step 0
     date "2022-04-01T11:19:46Z"
     title "*All New* April Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022"
-    description "All New* April Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022 DISCLAIMER: THIS VIDEO IS MADE FOR ONLY ..."
+    description "*All New* April Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022&#10;&#10;DISCLAIMER:&#10;THIS VIDEO IS MADE FOR ONLY EDUCATIONAL PURPOSE AND DOESN'T PROMOTE ANY ILLEGAL ACTIVITIES.&#10;keywords---&#10;april warrior cats codes,warrior cats ultimate edition,roblox warrior cats ultimate edition,roblox warrior cats,warrior cats ultimate edition roblox,warrior cats roblox,warrior cats ultimate edition codes,codes for warrior cats,roblox warrior cats codes,codes for warrior cats ultimate edition 2022,wcue codes 2022,warrior cat codes,warrior cats ultimate edition roblox codes,warrior cat codes 2022,warrior cats codes roblox 2022,roblox warrior cats ultimate,wcue codes"
     channel_title "Papa-Helper"
     channel_id "UCDmGZfDe-OE_1kKa2uaOHnA"
     fav_count 0
@@ -4611,7 +4611,7 @@ graph [
     step 0
     date "2022-03-16T21:08:34Z"
     title "WARRIOR CATS: ULTIMATE EDITION NEW ANIMATIONS | NEW UPDATE"
-    description "Make sure to like and subscribe for more warrior cats ultimate edition videos !"
+    description "Make sure to &#128077; like and &#128276; subscribe for more warrior cats ultimate edition videos !!!&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10004;&#65039; Join my Discord: https://discord.gg/W9sSP6A &#10;&#10;&#10004;&#65039; Join my Roblox Group: https://www.roblox.com/groups/4094584/AQtheGamers-Fan-Club&#10;&#10;&#10004;&#65039;Follow me on Instagram: https://www.instagram.com/aqthegamer/&#10;&#10;&#10004;&#65039; Follow me on Twitter: https://twitter.com/AQtheGamer&#10;&#10;&#10004;&#65039; Follow me on Roblox: https://www.roblox.com/users/343089064/profile&#10;&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;Music: TheFatRat - Unity&#10;Watch: https://youtu.be/n8X9_MgEdCg&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;#roblox #warriorcats &#10;&#10;&#10;In this video:&#10;warrior cats ultimate edition new animations, warrior cats ultimate edition new update, warrior cats ultimate edition update, wcue update, wcue"
     channel_title "AQtheGamer"
     channel_id "UCI5IBHgowLuQZRQQUbVKRUg"
     fav_count 0
@@ -4626,7 +4626,7 @@ graph [
     step 0
     date "2021-10-26T12:00:06Z"
     title "Drama &#38;amp; angst but I take none of it seriously || Warrior Cats: Ultimate Edition"
-    description "This was the first session of playing with my subscribes back like a whole month ago! - Music &#34;Wallpaper&#34; Kevin MacLeod ..."
+    description "This was the first session of playing with my subscribes back like a whole month ago!&#10;&#10;-&#10;&#10;Music&#10;&#10;&#34;Wallpaper&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -4641,7 +4641,7 @@ graph [
     step 0
     date "2021-10-15T09:56:34Z"
     title "Redesigning a Warrior Cats Book Cover"
-    description "50% off Design Your Own Camp Coloring Sheets! https://etsy.me/2Z0CoDT &#8227; We designed art for a book cover for Mapleshade's ..."
+    description "50% off Design Your Own Camp Coloring Sheets! https://etsy.me/2Z0CoDT&#10;&#10;&#8227; We designed art for a book cover for Mapleshade&#8217;s Vengeance since it&#8217;s a novella and doesn&#8217;t really have a cover other than tiny character image with the bundled stories&#10;&#8227; I&#8217;m interested to see if any of you end up designing book covers for characters you wish had Super Editions! I think that&#8217;d be a fun way to do this prompt if you want to get more creative with it! &#10;&#10;&#8227; Amino artists featured in this speedpaint: Tawnyeye, CyanTheCat, Zodiac, Nightfall, ChrissTheFennecFox, beacon, moonstorms-lavakit, Dusty Noodles, kittylover paws, Chocolate.Milk.beans.&#10;&#10;Tomorrow's prompt is: Create a Warriors Background/Set&#10;&#10;Join my Amino: Pinkbunnygirl43 Official Amino!&#10;Link to my Amino: http://aminoapps.com/p/62ysdo&#10;Take part in Pinktober with #Pinktober2021&#10;&#10;...&#10;&#10;Check out our Etsy shop!&#10;https://etsy.me/3xYROVm&#10;&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -4656,7 +4656,7 @@ graph [
     step 0
     date "2021-06-25T16:00:12Z"
     title "Warrior Cats Tierlist"
-    description "Unscripted mess! Take a drink every time I say &#34;inordinate&#34; you could say that I use the word inordinate an inordinate amount Link: ..."
+    description "Unscripted mess! Take a drink every time I say &#34;inordinate&#34; &#10;you could say that I use the word inordinate an inordinate amount &#10;Link: https://tiermaker.com/create/warrior-cats-updated-7684 &#10;Note: Poor Barley ended up lower than I intended. I forgot him down there.&#10;My opinions on these things change every time I try them..."
     channel_title "Moonkitti"
     channel_id "UCfn--_mAGkhYWP2NYa2NBwg"
     fav_count 0
@@ -4671,7 +4671,7 @@ graph [
     step 0
     date "2022-03-05T13:00:05Z"
     title "(Mostly) Unedited Warrior Cats Ships Tier List"
-    description "in which you here how often I saw 'uuuhhhhhhhhhhhh' Go do the list yourself!"
+    description "in which you here how often I saw 'uuuhhhhhhhhhhhh'&#10;&#10;Go do the list yourself!&#10;https://tiermaker.com/list/books/ultimate-warrior-cats-ship-tier-list-150-ships-1561704/2001069"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -4686,7 +4686,7 @@ graph [
     step 0
     date "2019-12-03T20:30:00Z"
     title "I want Warrior Cats to Change Permanently"
-    description "please excuse any funny background audio, it was recorded while someone was watching television."
+    description "please excuse any funny background audio, it was recorded while someone was watching television"
     channel_title "Moonkitti"
     channel_id "UCfn--_mAGkhYWP2NYa2NBwg"
     fav_count 0
@@ -4701,7 +4701,7 @@ graph [
     step 0
     date "2021-02-18T06:45:33Z"
     title "Beliver - Warrior Cats Animator Tribute"
-    description "The animations are not mine! Here are those who made them: The Wild Warriors: ..."
+    description "The animations are not mine! Here are those who made them: &#10;&#10;The Wild Warriors: https://youtube.com/channel/UC2CpOkLgZ27D83h4moXAweQ &#10;&#10;WhiskerMoon: https://youtube.com/c/WhiskerMoon &#10;&#10;Nibiru: https://youtube.com/user/TheSadisticWaffle &#10;&#10;NekoVocalNote: https://youtube.com/user/NekoVocalNote&#10;&#10;Made with KineMaster"
     channel_title "Pisicile Warriors Rom&#226;nia"
     channel_id "UCC4DrYtHlIGQtJsybyJcHWQ"
     fav_count 0
@@ -4716,7 +4716,7 @@ graph [
     step 0
     date "2022-01-26T20:56:53Z"
     title "G.O.M.D. - Warrior Cats OC PMV"
-    description "I kill to feel alive CW; Blood, gore, cartoon animal death, glitching or flashing effects (minimal), foul language. Song: G.O.M.D. by ..."
+    description "I kill to feel alive&#10;CW; Blood, gore, cartoon animal death, glitching or flashing effects (minimal), foul language.&#10;Song: G.O.M.D. by Sickick&#10;I love an unapologetic villain &#10084;&#65039;&#10;&#10;This is an OC PMV based on a story happening via rp in a private server. I will do my best to break down the story for curious viewers! I made this pmv for my friends in the server; thank you all so much for writing such amazing stories with me.&#10;&#10;Duskwatcher was the leader of CanyonClan, a clan who until recently was at brutal war with their neighbouring clan AspenClan. At the Start of the PMV we see Duskwatcher walking past the death murals of his predecessors, Sandstar and Aspenwatcher, with their ghosts watching over him. Aspenwatcher&#8217;s ghost is destroyed, an allusion to his murder at the hands of Duskwatcher. He walks through his clanmates and reaches his leader&#8217;s ledge above them all, climbing to the top. Then we see the leader and deputy duo&#8217;s of the other clans, angry. We then cut to a flashback to during the war when Duskwatcher was a warrior (Duskfall), brutally taking down enemies. His children wear the sins of their father via this bloodshed, but also take power from it. &#10;We then see Aspenwatcher the moment before his death, commanding Duskfall to take the life of a clanmate Aspenwatcher deemed a murderer, but Duskfall refused. Instead, that clanmate gives Duskfall the yew berries needed to kill Aspenwatcher, and in doing so Duskfall becomes leader, announcing his ascension at a Gathering much to the horror of the other clans. &#10;Flash back again to the moment Aspenwatcher made Duskfall his deputy, then showing Duskfall&#8217;s former apprentice Jasperchasm. Jasper knows what Duskfall is capable of and flees his clan. &#10;Then we flash forward to the moment Duskwatcher is confronted for taking a mate from another clan, but he is unapologetic. He is incredibly proud of his brutal actions in the war, and misses the thrill.&#10;We then show Duskwatcher stalking coyotes with his clanmates, but the scene changes back to the war as he bites down to the moment he murdered a cat called Slatefall in front of her daughter Palepaw. Palepaw attacks, giving him his signature scar, and he attacks back giving her hers. Though he is injured, he is undefeated, and when the coyote injures him he kills it and realizes nothing and nobody can touch him.&#10;However, from the shadows an assassin lurks.&#10;Duskwatcher dons his war paint and takes to the Gathering under a harvest moon (which gives it its&#8217; amber colour). He laughs because he knows everyone is scared of him and nobody can touch him. The assassin strikes, however, and Lilyfire takes his life.&#10;-&#10;Links&#10;Tip jar: https://ko-fi.com/nmirah&#10;tumblr: https://nmirah.tumblr.com &#10;twitter: https://twitter.com/NmirahArt &#10;&#10;-&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Nmirah"
     channel_id "UC8LhvWLFZKgTNYkWnk3SDHg"
     fav_count 0
@@ -4731,7 +4731,7 @@ graph [
     step 0
     date "2020-05-15T18:00:11Z"
     title "Song of the Witches [COMPLETE Medieval Warrior Cats MAP]"
-    description "I am so unbelievably proud of how this MAP turned out. I feel like a proud parent! This was my first MAP in some years and hosting ..."
+    description "I am so unbelievably proud of how this MAP turned out. I feel like a proud parent! This was my first MAP in some years and hosting is pretty different from how it used to be. This was my first MAP with a discord server, and it made things soooo much easier. There was only one dropped/kicked part and that was because I never heard from the person since they didn't join the server, everything else ran pretty smoothly!&#10;&#10;Since this was my first MAP in a while, there were a couple of things I didn't do that are pretty standard now. I didn't do a thumbnail contest and I didn't do a credit sequence, things which I'll probably do next time now that my toes are back in the MAP pool.&#10;&#10;Parts playlist - https://bit.ly/2WA4EcA&#10;&#10;PARTS -&#10;1. GiingerSnaps&#10;2. DaVinci131&#10;3. Crazllana&#10;4. Morning Haze&#10;5. Martletwing studio&#10;6. MANCH!&#10;7. Nutmeggie&#10;8. Me&#10;9. dogstoof&#10;10. moldypaw&#10;11. Chilly Weathers&#10;12. LilyaneMB&#10;13. uneasywolf&#10;14. Brightpelt&#10;15. Anji Blizzy&#10;16. Kitsune Kreations&#10;17. LionBunny&#10;18. daydreamer&#10;19. Foxes heart&#10;20. Faded Kat&#10;21. _reiika_&#10;22. Arcatdia&#10;23. And E&#10;24. Pearl Walker&#10;25. Jersokoi&#10;26. Pigeocore&#10;27. scottsdraws&#10;28. birdkiye&#10;29. Scoutnmave + Makaroni Art&#10;30. BuB0&#10;31. GildedPhD&#10;32. Frostlii&#10;&#10;&#10;This was an incredible experience and I'm so happy with how everyone did!!&#10;&#10;Song-&#10;Song of Witches by SJ Tucker"
     channel_title "Starcheopteryx"
     channel_id "UCnovtiJTwuMTR8W8kssvZYg"
     fav_count 0
@@ -4746,7 +4746,7 @@ graph [
     step 0
     date "2022-05-20T21:22:22Z"
     title "The Stress Of An Elder Cat On Warrior Cats Ultimate Edition"
-    description "The Stress Of An Elder Cat On Warrior Cats Ultimate Edition Hair'Ball Is A Old Cat Now, having to walk threw the world of WCUE ..."
+    description "The Stress Of An Elder Cat On Warrior Cats Ultimate Edition&#10;&#10;&#10;&#10;Hair'Ball Is A Old Cat Now, having to walk threw the world of WCUE as an old bat and experience the world in a &#34;Wise&#34; View.&#10;&#10;&#10;&#10;Outro Song:&#10;&#9834; Bored (Prod. by Lukrembo)&#10;Link : https://youtu.be/t9r4cHSnjq4&#10;&#10;&#10;&#10;#Roblox"
     channel_title "EHairBall"
     channel_id "UC3YcOV-nnA-KLRdBm5ivVrA"
     fav_count 0
@@ -4761,7 +4761,7 @@ graph [
     step 0
     date "2021-05-29T01:17:19Z"
     title "I&#38;#39;m Going To Be Doing Warrior Cats Ultimate Edition Stuff Now (Let&#38;#39;s look at what&#38;#39;s changed!)"
-    description "HALLO! Kitty cat game guys. It's here. Since I've last played it, the game has come out, and it looks GORGEOUS. As I say like ten ..."
+    description "HALLO! Kitty cat game guys. It's here. &#10;&#10;Since I've last played it, the game has come out, and it looks GORGEOUS. As I say like ten times in the video, there are so many new features, and it really makes this game stand out. Which is why I'm gonna start doing content on it! &#10;WoF Roblox has slowed down development wise, and while I'll always be a &#34;Wings of Fire YouTuber&#34;, I thought it'd be nice to expand my content- people have always suggested expanding my content before, but I can't ever find a game that inspires me to make videos! But now, kitty cat game. (Watch the video to listen to me ramble more)&#10;&#10;&#11088; OTHER SOCIAL MEDIAS&#10;Twitch - Twitch -  https://www.twitch.tv/bellasaurus_ (Inactive)&#10;Tumblr - https://belladoesstuff.tumblr.com/ (For art!)&#10;DeviantArt - https://www.deviantart.com/bellasauruss (For art!)&#10;Instagram - https://www.instagram.com/bellasauruss/ (For art!)&#10;Roblox - https://www.roblox.com/users/117213744/profile&#10;&#10;&#11088;COMMON QUESTIONS:&#10;Q: What is your outro music?&#10;A: HOME - Resonance&#10;&#10;Q: What do you edit with?&#10;A: Lightworks&#10;&#10;Q: What do you record with?&#10;A: I record with the Xbox screen recorder that comes with my Windows 11 Software. Or OBS Studio.&#10;&#10;Q: What game is this?&#10;A: Game can be found below!&#10;&#10;Q: What do you animate with?&#10;A: FireAlpaca&#10;&#10;-----------------------------------------------------------------------------------------&#10;If you're a little interested in my videos, maybe subscribe I dunno. If my uploads get annoying you can always unsubscribe. Don't worry, that's a feature. I'd hate to be getting Roblox dragon roleplay game videos in my recommended for all of time as well. Also art. If you don't like art then oop-&#10;&#10;Game:&#10;https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition?refPageId=952e2056-c2db-4ada-8e2b-9c9af7601a61&#10;-----------------------------------------------------------------------------------------&#10;&#10;Music&#10;Wild Glide Galaxy - Super Mario Galaxy 2&#10;Your Name, Please - Earthbound&#10;Threed At Last - Earthbound&#10;Ki - C418&#10;Maple Treeway - Mario Kart Wii&#10;Mushroom Gorge - Mario Kart Wii&#10;Catastrophe - Super Mario Galaxy&#10;Cosmic Cove Galaxy - Super Mario Galaxy"
     channel_title "Bellasaurus"
     channel_id "UCgs1b1SXI_Y_wtZq0gc_mag"
     fav_count 0
@@ -4776,7 +4776,7 @@ graph [
     step 0
     date "2020-01-11T16:00:01Z"
     title "Drawing Warrior Cats in 10 min, 5 min, 1 min, 10 sec"
-    description "It's time we make Warrior Cats speed draw even more difficult. A huge thank you to everyone who played this time! My Patreon: ..."
+    description "It's time we make Warrior Cats speed draw even more difficult. A huge thank you to everyone who played this time!&#10;&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitch: https://www.twitch.tv/brightguardianakira&#10;&#10;Berries for the snake video: https://youtu.be/2NLKeL8pWIM&#10;&#10;Contestants:&#10;Dappled: https://www.youtube.com/channel/UCO5xQt2zlQB1U6EEAHhd_Qw&#10;JayTicy: https://www.youtube.com/channel/UCW3YVcYOyc-EjRcb-h3bsFQ&#10;Prowlheart: https://www.youtube.com/channel/UCWVdzKevS3_H77zZgSJoHlA&#10;Blaze: https://www.youtube.com/channel/UCd-fyAmvSxnKWAwoBz3BEPA"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4791,7 +4791,7 @@ graph [
     step 0
     date "2021-03-30T16:00:06Z"
     title "Warrior Cats as Cereals"
-    description "these videos just happen."
+    description "these videos just happen"
     channel_title "Moonkitti"
     channel_id "UCfn--_mAGkhYWP2NYa2NBwg"
     fav_count 0
@@ -4806,7 +4806,7 @@ graph [
     step 0
     date "2021-01-14T17:00:32Z"
     title "Is Hollyleaf Cool?? (Warrior Cats)"
-    description "In this video I take a look at Hollyleaf's novella and redemption arc to decide what my thoughts on her are. Is she cool?"
+    description "In this video I take a look at Hollyleaf's novella and redemption arc to decide what my thoughts on her are. Is she cool??&#10;&#10;My Patreon: https://www.patreon.com/brightguardianakira&#10;My Twitter: https://twitter.com/bright_guardian&#10;&#10;Cat art is by Missy Dakota! &#10;Her Patreon: https://www.patreon.com/MissyDakota&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -4821,7 +4821,7 @@ graph [
     step 0
     date "2020-02-25T13:33:08Z"
     title "What Even Is Warrior Cats? | Those Cat Books at the Book Fair Part 1"
-    description "Watch Part 2: https://www.youtube.com/watch?v=87gM99GxOBA Tribbleofdoom ..."
+    description "Watch Part 2: https://www.youtube.com/watch?v=87gM99GxOBA&#10;&#10;Tribbleofdoom https://www.youtube.com/watch?v=7MVYB1S4oY0&#10;Sss warrior cats ep 1 https://www.youtube.com/watch?v=1XYgtSCHvp4 &#10;Soldier Side https://www.youtube.com/watch?v=14hIvQ2k1cc&#10;Photo of rock https://www.deviantart.com/wolfc-stock/art/179-Big-Rock-38955103 &#10;Warriors movie https://news.avclub.com/harry-potter-producer-david-heyman-is-making-a-movie-ab-1798254522&#10;https://www.wattpad.com/135699429-warrior-cats-help-suffix-meanings&#10;&#10;A lot of credit to the Warrior Cat Wiki too. All the pixel art of the characters are from there`"
     channel_title "Gracie Fitzpeter"
     channel_id "UCRosewvvukWtBwV4En5RN0w"
     fav_count 0
@@ -4836,7 +4836,7 @@ graph [
     step 0
     date "2015-05-04T06:33:44Z"
     title "We All Still Die - Complete Warrior Cats M.A.P [HD]"
-    description "BLOOD/GORE WARNING AND CAT DEATHS. SPOILERS FOR THE ENTIRE WARRIORS SERIES*-**-** CLICK READ MORE ..."
+    description "**-*-**BLOOD/GORE WARNING AND CAT DEATHS. SPOILERS FOR THE ENTIRE WARRIORS SERIES*-**-** CLICK READ MORE FOR MORE INFO!! :)&#10;&#10;::!!EDIT!!:: I'm sure some people want to know why this was uploaded for a little bit before it was taken down - and that was because there were a few glitches and things I saw that I wanted to fix. I thought better to fix it now and have it the best it, so that's what happened! Also I decided to stay up till like 3am instead of sleeping and uploading it in the morning because I WANT THIS MAP UPLOADED RIGHT NOW BECAUSE I LOVE IT SO DANG MUCH I DONT MESS AROUND OK :::!!END OF EDIT!!::::&#10;&#10;After a bunch of glitches (cires softly thank you Ferrah and Maple for the help figuring that out) ITS FINALLY HERE. After Wolf became so popular wow I was nervous thinking about if this map could live up to it... But now it's finished and I'm just as proud of this as Wolf if not more due to the massive amount of wonderful people who worked on it and took part. This M.A.P doesn't follow a very linear narrative but all the parts brought it together into a wonderful thing and I'm so happy with how it turned out you guys are so talented its insane and I love it~&#10;&#10;This M.A.P (Multi Animator Project) is all about good vrs evil and dead cats and dying cats and the entire theme of death in the series woohoo&#10;Here's a link to the original script and parts if you are interested: https://youtu.be/0g43C6Dm948&#10;______&#10;&#10;AWESOME PEOPLE WHO TOOK PART AND WHAT IS HAPPENING IN THEIR PARTS. (Channels linked on end credits when im awake tomorrow in the video!)&#10;&#10;1. MapleSpyder (The clans and Firestar)&#10;2. MapleSpyder (^)&#10;3. CatzTUM (Darkstripe entering the Dark Forest)&#10;4. mrKarafirefox (Tigerclaw, Bluestar and Fireheart)&#10;5. BuzzyBee (Ashfur before he was rejected by Squirrelflight)&#10;6. Kittson (Ashfur after being rejected by Squirrelflight)&#10;7. Going-in-Cakeless (Darkstripe's death)&#10;8. Jack (Tigerstar's Death)&#10;9. Jack (Scourge after killing Tigerstar)&#10;10. Kittyrocker (Ashfur's death and Hollyleaf's reaction to what she's done)&#10;11. Callipepla Californica (Cats in the Dark Forest)&#10;12. Philstock2000 (Cats in Starclan)&#10;13. ForsakenSpirits FS (Cinderpaw falling from the tree)&#10;14. Fireworkcat25 (Leafpool caring for Cinderpaw while Starclan watches)&#10;15. rat whisker (Hollyleaf's feelings when she discovers her true mother)&#10;16. Rory Butt (Hollyleaf confronting Leafpool)&#10;17. Spooky Hollows (Yellowfang feeding death-berries to Brokenstar)&#10;18. Shilly (Brokenstar killing his father, Raggedstar)&#10;19. Shenkkazoo (Yellowfang looking back on her life)&#10;20. Skyless (Yellowfang's death)&#10;21. XMidnightXRoseX (Yellowfang entering Starclan)&#10;22. RyeTaran (Yellowfang seeing cats she loved from her past and becoming happier)&#10;23. sodapoptops (The Dark Forest)&#10;24. Eucalyptus splash (Brokenstar alone in the Dark Forest)&#10;25. Flowing_Waves (Fireheart looking back at Greystripe grieving over Silverstream's body)&#10;26. Fireworkcat25 (Greystripe grieving)&#10;27. Milk bowl / dark-san / Ravi / Whiskermoon (Fireheart helping Greystripe back to his feet and back to the clan)&#10;28. Steamy Cafe (Greystripe surrounded by friends)&#10;29. Mintleafs (Greystripe's point of view - him and his sadness)&#10;30. Silvaan (Honeyfern's death)&#10;31. Shilly (Stonefur's death)&#10;32. Radvumtal (Briarkit is safe because of Honeyfern, The kits Stonefur saves are now safe)&#10;33. amberbydreamsart (Honeyfern and Stonefur join Starclan)&#10;34. ObnoxiousGiraffe (Crookedstar in Starclan)&#10;35. ObnoxiousGiraffe (Mapleshade in the Dark Forest)&#10;36. watersee kitty (The old forest and the Lake)&#10;37. Me (Firestar dying from Scourge's death-blow then being granted another life by a Starclan cat)&#10;38. Kura Kur (Firestar killing Scourge)&#10;39. MapleSpyder (The clans have won the battle against Scourge)&#10;40. Nifty-senpai (The final battle between Tigerstar and Firestar and Tigerstar being truly killed once and for all)&#10;41. Nifty-senpai&#10;&#10;____&#10;&#10;- Song: Willow Tree March - The Paper Kites&#10;- Stories and characters created by Erin Hunter&#10;- Credit song (edited): Little Red Lung - Fangs&#10;_____&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "WhiskerMoon"
     channel_id "UCodkHc_gkjqrIBnRkD8mIPA"
     fav_count 0
@@ -4851,7 +4851,7 @@ graph [
     step 0
     date "2021-04-11T23:15:11Z"
     title "Willowheart Studio | Warrior Cats Audiobook: Book 1 Chapter 1"
-    description "Its here! The next chapter of the Warrior Cats audiobook! I hope you guys enjoy! Our directors and team worked so hard so be ..."
+    description "Its here! The next chapter of the Warrior Cats audiobook! I hope you guys enjoy! Our directors and team worked so hard so be sure to give them lots of love and appreciation!&#10;&#10;Hello guys- Ellie and Snowy here! It took us a WHILE but we hope it was worth the wait for the first chapter! All of our awesome team did an AMAZING job. We will have their links below. Please enjoy our Warriors: Into the Wild Audio/Visual book. &#10;&#10;Warriors: Into the Wild does not belong to us and we ask that if you have the means, PLEASE support the authors by purchasing the book. There are 36 main books, so if you like what you heard, there's plenty more new and exciting material for you to check out.&#10;&#10;DIRECTORS&#10;&#10;Elliebear&#10;https://twitter.com/LilBearEllie&#10;https://www.castingcall.club/m/elliebear&#10;&#10;&#10;Snowy&#10;Snowy - YouTube&#10;Camryn (@Snowyartist1) / Twitter&#10;&#10;&#10;&#10;VA CAST&#10;&#10;Rusty/Firepaw&#10;Fuffy&#10;http://www.castingcall.club/m/Fuffy27&#10;&#10;Narrator 2&#10;Katrinaiceheart&#10;&#10;Narrator 1&#10;Kisa&#10;http://kisadillas.tumblr.com/&#10;https://www.castingcall.club/m/Kisadillas&#10;&#10;Lionheart&#10;CrabApple7&#10;https://www.castingcall.club/m/CrabApple7&#10;https://youtube.com/channel/UCMlvswj2G1WVm6l8bqQf4Uw&#10;&#10;Bluestar&#10;Taylor Grace&#10;https://www.castingcall.club/m/wickedlyelphie&#10;https://youtube.com/channel/UChzAjTr4fpLWqi93O4ofgNQ&#10;&#10;Graypaw&#10;JMaddera&#10;https://www.castingcall.club/m/JMaddera&#10;https://www.youtube.com/channel/UCwTRrzDnaxVztoQ9MYGwHqg&#10;&#10;ART TEAM&#10;&#10;shushkeh - https://www.instagram.com/shushkeh/&#10;Lite - https://twitter.com/ayopoggers&#10;Chipplynnarts - https://twitter.com/chipplynnarts &#10;Crab- https://www.instagram.com/beansn_peas/ Email: dakotaleenb@gmail.com&#10;&#10;Script Organizer(s)&#10;Sapphire Snake &#10;MasonJar&#10;Mistress-of-entropy&#10;&#10;Studio Director&#10;Willowheart"
     channel_title "WillowHeart Studio"
     channel_id "UCZJb_3bfo40_VB8aQHL8Hcg"
     fav_count 0
@@ -4866,7 +4866,7 @@ graph [
     step 0
     date "2022-07-01T16:00:20Z"
     title "What if SANDSTORM x DUSTPELT had kittens?! &#128049;&#128149;&#128049; Warrior Cats: Kittens Spin-Offs!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cat: Kitten Spin-Off Series!! &#8226; https://bit.ly/warriorcatkittens ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128049; Warrior Cat: Kitten Spin-Off Series!! &#8226; https://bit.ly/warriorcatkittens&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;We're back in the Sims 4: Cats &#38; Dogs LaBARKatory mixing and matching all manner of animals! Join Seri the Pixel Biologist as we dive into another pixel biology experiment!&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#sandstorm&#10;#dustpelt&#10;#warriorcats"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -4881,7 +4881,7 @@ graph [
     step 0
     date "2021-06-09T17:53:13Z"
     title "Roblox:Warrior Cats Ultimate Edition||Update previews pt#2"
-    description "AHH TYSM FOR 300+ Not gonna lie I never thought I would get this far! || Don't forget to like and subscribe for more &#10024;epik ..."
+    description "AHH TYSM FOR 300+ Not gonna lie I never thought I would get this far! &#129402; || Don&#8217;t forget to like and subscribe for more &#10024;epik golden&#10024; content like this! Love you all!!"
     channel_title "Cool Cat"
     channel_id "UCKLNu-mNu15gQwRyUNVwu4g"
     fav_count 0
@@ -4896,7 +4896,7 @@ graph [
     step 0
     date "2022-04-26T00:43:35Z"
     title "If warrior cats had a theater trailer (Read Dec)"
-    description "This video contains the audio of lion king. None of this clips are mine! I worked really hard on this so please like and subscribe!"
+    description "This video contains the audio of lion king. None of this clips are mine!&#10;I worked really hard on this so please like and subscribe!&#129303;"
     channel_title "Canterlot keeper"
     channel_id "UCi5vLYMNpJyeqxeyNesgWGg"
     fav_count 0
@@ -4911,7 +4911,7 @@ graph [
     step 0
     date "2022-06-17T00:10:46Z"
     title "Pride Flowers + Epilogue Accessories UPDATE (Warrior Cats: Ultimate Edition Roblox)"
-    description "game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition music: ..."
+    description "game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;&#10;music:&#10;https://www.youtube.com/watch?v=EtZ2m2Zm3vY"
     channel_title "mellowbear"
     channel_id "UCeUHBzKqj0X5NBFeyBPM9Rw"
     fav_count 0
@@ -4926,7 +4926,7 @@ graph [
     step 0
     date "2022-06-29T16:00:32Z"
     title "What if CLOUDTAIL x DAISY had kittens?! &#128049;&#128149;&#128049; Warrior Cats: Kittens Spin-Offs!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cat: Kitten Spin-Off Series!! &#8226; https://bit.ly/warriorcatkittens ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128049; Warrior Cat: Kitten Spin-Off Series!! &#8226; https://bit.ly/warriorcatkittens&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;We're back in the Sims 4: Cats &#38; Dogs LaBARKatory mixing and matching all manner of animals! Join Seri the Pixel Biologist as we dive into another pixel biology experiment!&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#jayfeather&#10;#halfmoon&#10;#warriorcats"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -4941,7 +4941,7 @@ graph [
     step 0
     date "2022-06-22T05:52:10Z"
     title "Warrior Cats Clan Generator Challenge ~ Peonyclan [Stupid Commentary+Speedpaint]"
-    description "original by: Nefali: https://www.youtube.com/channel/UCbcJOHqpE0t8LUPahOeIkdA meeeeooooowww ..."
+    description "original by: Nefali: https://www.youtube.com/channel/UCbcJOHqpE0t8LUPahOeIkdA &#10;meeeeooooowww meowmeowmeowewemowemowwmeeowmeowoewemowmweomwoe&#10;yah its about time I got to this challenge&#10;&#10;my discord; https://discord.gg/kyP3z3q9&#10;twitter; https://twitter.com/AnxiousPinto&#10; &#10;#clangeneratorchallenge"
     channel_title "Dime' Haze"
     channel_id "UCxpbA97xIDww9wPkafvkW6Q"
     fav_count 0
@@ -4956,7 +4956,7 @@ graph [
     step 0
     date "2021-05-16T19:46:04Z"
     title "Complete Guide to Herbs! || Warrior Cats: Ultimate Edition"
-    description "Greetings, everyone! In this video, I recorded all of the herbs in the guidebook, plus footage of the actual herbs! Notes: I did not ..."
+    description "Greetings, everyone! In this video, I recorded all of the herbs in the guidebook, plus footage of the actual herbs! &#10;&#10;&#10;Notes:&#10;&#10;I did not use any music in this video! The music in the background is from the game, and does NOT belong to me!&#10;&#10;Please, don&#8217;t spread hate or rude words in the comments for whatever reason! I worked hard on this!&#10;&#10;I sincerely apologize if any content in this video offended anybody! &#10;&#10;&#10;I hope you enjoy the video! Like and subscribe for more videos like this one!"
     channel_title "HoneyPawz &#128153;&#128155;"
     channel_id "UCzSHBnbgxbTRaG0n9DVGc4w"
     fav_count 0
@@ -4971,7 +4971,7 @@ graph [
     step 0
     date "2021-12-18T12:28:12Z"
     title "Warrior Cats Ultimate Edition TikTok Compilation! - ROBLOX"
-    description "Eyyyy~! I just want to say that thank you so much for the 6k+ views and 200+ likes on the last wcue to compilation I hope ..."
+    description "Eyyyy~! &#10;&#10;I just want to say that thank you so much for the 6k+ views and 200+ likes on the last wcue to compilation &#128557;&#128149;&#128149;&#10;&#10;I hope y'all enjoy this new video! &#10;&#10;TAGS:&#10;#Roblox #WarriorCats #TikTok #Tiktok #Compilations #10Minutes #Cats #ROBLOX&#10;&#10;&#128149; ---------------------------------------------------------- &#128149;"
     channel_title "CandY"
     channel_id "UCfvTb6RV046r-P6Wmy4Rn2Q"
     fav_count 0
@@ -4986,7 +4986,7 @@ graph [
     step 0
     date "2022-05-04T00:38:25Z"
     title "&#127802; NEW SPRING 2022 ACCESSORIES + NEW CLAN CAMPS, TAILS, &#38;amp; MORE! |Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a work in progress and they may or may not going to be in the game! If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :) &#10;&#10;Hi Sunnies! We have NEW SPRING 2022 CAT ACCESSORIES! We also have new clan camps and new tail segments! Make sure to watch through the whole video! Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;WCUE Discord Server: https://discord.gg/WkDbnzA4hT&#10;WCUE Tiktok: https://www.tiktok.com/@warrior.cats.ue&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #WCUE"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -5001,7 +5001,7 @@ graph [
     step 0
     date "2022-05-14T17:00:10Z"
     title "Frostpaw OPAL Animatic/Storyboard Warrior Cats [A Starless Clan]"
-    description "READ PINNED COMMENT FOR DESCRIPTION OF EVENTS WITHIN VIDEO Okay I've been working on this for a bit bc I'm really ..."
+    description "READ PINNED COMMENT FOR DESCRIPTION OF EVENTS WITHIN VIDEO&#10;&#10;Okay I've been working on this for a bit bc I'm really considering making it a storyboarded map if all goes well. I've never made a map before so if anyone has any advice feel free to share. It's not quite in shape yet but I wanted to post this version first to get feedback and whatnot&#10;This is the longest video I've ever made by far so ummmmm hope it goes well &#128077;&#10;I think the program I used messed up the quality and the timing near the end but it'll be fine&#10;&#10;Spoilers for River, the first book of A Starless Clan, btw.&#10;&#10;Things you need to know from the book before watching [if you&#8217;ve read the book already, skip past this part]: At the beginning of the book Frostpaw has just been made a medicine cat apprentice. She&#8217;s nervous about it but her mother, Curlfeather, reassures her and brings up the prophecies she&#8217;s already received, one of which being the death of her father Jayclaw when she was still a kit. Not long after making it official at the moonpool, Mistystar loses her last life mid argument in front of the whole clan, Frostpaw included. Reedwhisker, Riverclan&#8217;s deputy, doesn&#8217;t return from patrol that night and is missing for a while after. After receiving a vision during another trip to the moonpool, Frostpaw leads a patrol to look for Reedwhisker. She ends up finding him dead at the bottom of a ravine. The cats assume he died from the fall but it&#8217;s implied it was something more. Being the only cat in the clan who can communicate with Starclan anymore, she is thrust into somewhat of a leadership position and returns to the moonpool for a sign. She interprets it to mean Curlfeather to be the next leader. On the way to receive Curlfeather&#8217;s nine lives, however, a pack of dogs appears. The dogs catch and maul Curlfeather as Frostpaw barely escapes. Her last words are a warning to Frostpaw, to trust no cat. At the end of the book Frostpaw returns to the medicine den, traumatized, while the other cats discuss what happens next.&#10;&#10;Sorry I can't put up captions on this one right away I'll try to do it eventually tho&#10;&#10;Please don't use my art without first asking permission and giving credit&#10;&#10;Characters are mainly Frostpaw, Jayclaw, Curlfeather, Mistkit+Graykit, Mistystar and Reedwhisker &#10;&#10;Original audio is from Jack Stauber's Opal on Adult Swim"
     channel_title "Rudymentary"
     channel_id "UCezt8j6_Mec_dYUjnA4M_RQ"
     fav_count 0
@@ -5016,7 +5016,7 @@ graph [
     step 0
     date "2018-06-06T21:32:04Z"
     title "&#38;quot;All They See&#38;quot; Tawnypaw &#38;amp; Bramblepaw. ORIGINAL WARRIOR CATS SONG"
-    description "Download available for this song on iTunes   https://goo.gl/kHP15w Google Play  https://goo.gl/N2qvcE ______ Subscribe ..."
+    description "Download available for this song on&#10;&#127925; iTunes&#127925; https://goo.gl/kHP15w&#10;&#127925;Google Play&#127925;https://goo.gl/N2qvcE&#10;&#10;__________&#10;&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;Patreon &#8594; https://www.patreon.com/Blixemi&#10;&#10;__________&#10;&#10;CREDITS&#10;&#10;Tawnypaw's Vocals-&#10; Dawn Balidashi&#10;Youtube- https://bit.ly/2sB0mlF&#10;&#10;Bramblepaw's Vocals-&#10;KindledFlame&#10;Youtube- https://www.youtube.com/c/KindledFlame&#10;Twitter: https://twitter.com/KindledFlame_&#10;&#10;&#10;Chorus Singers-&#10;Fluffylovey- https://bit.ly/2JyayVN&#10;Fey Draws- https://bit.ly/2kU3yEI&#10;Cosmic Creations- https://bit.ly/2sM2ZRe&#10;Moonfrost18- https://bit.ly/2LtvcDQ&#10;&#10;Instrumental/Lyrics/Video Editing/Backing Vocals/Art-&#10;Blixemi&#10;&#10;Warrior Cats&#10;Erin Hunter&#10;&#10;__________&#10;&#10;RULES&#10;&#10;PLEASE. &#10;-Do not reupload this audio onto your channel without permission from me. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;__________&#10;&#10;LYRICS&#10;&#10;[spoken]&#10;TAWNY:  I-I can't do this anymore!&#10;BRAMBLE:  Tawnypaw, look at me! We can show them that we're better than him!&#10;TAWNY:  We shouldn't have to.&#10;&#10;[Singing]&#10;TAWNY&#10;I don't know how we ended up here.&#10;Any good we've done will all disappear&#10;I cannot take this, I am wearing so thin.&#10;Cause when they look at me, all they see is him. &#10;Why should I have to work twice as hard,&#10;Just to only reach half as far?&#10;When they look at me, he's all they see.&#10;'Cause when they look, they never see me.&#10;&#10;&#10;I can see his spirit every day, soon she will suffer his same fate!&#10;You cannot trust a murderer's kin, she's gunna end up exactly like him!&#10;Watch your back, watch your sides, she's got evil hidden inside.&#10;Hide the kits! Hold them near, no one's safe so long as she's here!     &#10;&#10;BRAMBLE&#10;Listen to me, you're not alone.&#10;You don't have to go through this on your own.&#10;Hold your head high, don't let them get through&#10;Please don't let this get to you.&#10;Once they see what's inside your heart,&#10;Then they'll know you'll reach twice as far.&#10;We'll prove ourselves- just wait, they'll see.&#10;Don't look at them, just look at me.&#10;&#10;&#34;THUNDERCLAN CATS&#34;&#10;I can see his step in all of her strides, soon there will be no safe place to hide!&#10;You cannot trust a murderer's kin, she's gunna end up exactly like him!&#10;Turn your back, let her rot, she has the exact same ambition that he's got.&#10;Guard the camp, chase her out! No one is safe so long as she's about!&#10;   &#10;TAWNY&#10;I don't know how we ended up here&#10;&#10;BRAMBLE&#10;Any good we've done will all disappear&#10;&#10;TAWNY&#10;I cannot take this, I am wearing so thin&#10;&#10;BRAMBLE&#10;Cause when they look at me, all they see is him&#10;&#10;TOGETHER&#10;Why should I have to work twice as hard,&#10;Just to only reach half as far?&#10;When they look at me, he's all they see.&#10;'Cause when they look, they never see me.&#10;&#10;BRAMBLE&#10;Listen to me, you're not alone.&#10;&#10;TAWNY &#10;I don't know how we ended up here.&#10;&#10;BRAMBLE&#10;You don't have to go through this on your own.&#10;Hold your head high, don't let them get through&#10;&#10;TAWNY&#10;I cannot take this, I am wearing so thin.&#10;Cause when they look at me, all they see is him. &#10;Why should I have to work twice as hard,&#10;Just to only reach half as far?&#10;&#10;BRAMBLE&#10;Then they'll know you'll reach twice as far.&#10;We'll prove ourselves-- just wait, they'll see.&#10;&#10;TAWNY&#10;When they look at me, he's all they see.&#10;&#10;BRAMBLE&#10;Don't look at them, just look at me.&#10;&#10;&#10;TAWNY&#10;Listen to me, we're on our own.&#10;We don't have to go through this if we go alone.&#10;I promise they will never get through&#10;I am leaving brother, so should you.&#10;&#10;Once they see the mistake they've made.&#10;Perhaps then they'll see it my way    &#10;I'll prove myself-- just wait, they'll see.&#10;I hope they all turn and watch me leave. &#10;&#10;&#34;THUNDERCLAN CATS&#34;&#10;I can see his spirit every day, soon she will suffer his same fate!&#10;You cannot trust a murderer's kin, she's gunna end up exactly like him!&#10;Watch your back, watch your sides, she's got evil hidden inside.&#10;Hide the kits! Hold them near, no one's safe so long as she's here!     &#10;I can see his step in all of her strides, soon there will be no safe place to hide!&#10;You cannot trust a murderer's kin, she's gunna end up exactly like him!&#10;Turn your back, let her rot, she has the exact same ambition that he's got.&#10;Guard camp, don't let her in! Cause when we look we only see him.&#10;&#10;TAWNY&#10;I don't know how we ended up here.&#10;Any good we've done will all disappear&#10;I cannot take this, I am wearing so thin.&#10;&#10;When they look at me, he's all they see.&#10;'Cause when they look, they never see me."
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -5031,7 +5031,7 @@ graph [
     step 0
     date "2021-06-05T18:15:00Z"
     title "How to Find the Moonstone! | Warrior Cats Ultimate Edition"
-    description "Here's a quick tutorial on how to find the moonstone in Warrior Cats Ultimate Edition in Roblox! Hope it helped!"
+    description "Here&#8217;s a quick tutorial on how to find the moonstone in Warrior Cats Ultimate Edition in Roblox! Hope it helped!"
     channel_title "Stormi Studios"
     channel_id "UC_4oCQCo3ARuf-bH4X7J86Q"
     fav_count 0
@@ -5046,7 +5046,7 @@ graph [
     step 0
     date "2014-08-01T00:46:44Z"
     title "Warrior Cats: Omen of the Stars Intro (Textless)"
-    description "A textless version of the opening for my new fan animation of Warrior Cats: Omen of the Stars! The song is Resuscitated Hope - by ..."
+    description "A textless version of the opening for my new fan animation of Warrior Cats: Omen of the Stars!&#10;&#10;The song is Resuscitated Hope - by Lisa Komine&#10;&#10;It started out as a type of opening for all of the Warriors series so a couple of the cats may feel out of place but, all in all, I learned a lot while doing this and it came out okay! A couple parts are awkward and jerky but thats ok too."
     channel_title "Nifty-Senpai"
     channel_id "UCB2JUYB1zOUXkauzK1RPLSg"
     fav_count 0
@@ -5076,7 +5076,7 @@ graph [
     step 0
     date "2021-08-06T12:00:35Z"
     title "Four Simple Tips for Roleplaying in Warrior Cats: Ultimate Edition Roblox"
-    description "There is no one way to roleplay! Try these tips out for yourself and see what works for you! - YEAH ALSO THERE'S LITERALLY ..."
+    description "There is no one way to roleplay! Try these tips out for yourself and see what works for you!&#10;-&#10;YEAH ALSO THERE'S LITERALLY THE STARPEDIA IN GAME I FORGOT ALL ABOUT THAT SORRY LOL"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -5091,7 +5091,7 @@ graph [
     step 0
     date "2021-07-21T06:04:15Z"
     title "Blink Encounter In Warrior Cats Ultimate Edition"
-    description "3/3/2022: So um, turns out that I was stupid. Blink never existed. I kinda sussed this but now I realise it's true: Heather probably ..."
+    description "3/3/2022: So um, turns out that I was stupid. Blink never existed. I kinda sussed this but now I realise it's true: Heather probably changed their username since mods can do that, it was probably fake from the start aha. But it was fun! I think that other games should add NPC's like this since I'm not sure if WCUE want's to add NPC's for real.&#10;&#10;Blink was a glitched AI that Pav, Viz and Tigress forgot to remove in the recent herb update.&#10;&#10;- ITS BEEN CONFIRMED BY FINNZ IN THE WCUE DISCORD THAT IS ONLY BLINK AND THE OTHER COLOURS ARE BUGGED VERSION OF HIM OR FAKE&#10;&#10;What [had known] I know about Blink:&#10;- He spawns near the gorge, barn, wc territory, wc thunderpath, kp place, and carrion&#10;- He&#8217;s usually black but can be other colours like dark blue, white or grey [people call the white version Flick and the brown version Wink]&#10;- He can run around, sit, loaf, crouch, jump, etc&#10;- Runs VERY fast sometimes&#10;- If he spawns sitting, usually stays for 5 - 8 secs&#10;- If he spawns standing, usually stays for 10 - 60 secs&#10;- Very smart ai, as you saw in the video he walked around the gorge instead of falling in, before later jumping in.&#10;- Someone is making a Blink x Reader fanfic and people want to read it???? What????&#10;- May chase you sometimes? [people call the version that chases you Sink] I don't think this is real&#10;- Mostly spawns at night but can spawn at dusk/dawn/sunrise/sunset, rarely day&#10;- Can spawn in public, staff or private servers with 1 - 5 players&#10;- He&#8217;s real&#10;- The white variant of him should&#8217;ve been called Knilb not Flick, because its Blink backwards&#10;&#10;This reminds me of Herobrine from Minecraft mixed with Stan from Identity Fraud mixed with Floppy from the old WolfQuest&#10;&#10;Please lmk in comments if you have any more information!!"
     channel_title "Flame"
     channel_id "UCeoqRcuE9HyY6fG5ZbhYEBw"
     fav_count 0
@@ -5106,7 +5106,7 @@ graph [
     step 0
     date "2022-07-10T17:15:12Z"
     title "- = , , Shadows We Cast &#38;#39; &#38;#39; trailer  = Upcoming Movie = Warrior Cats: Ultimate Edition = -"
-    description "Shadows We cast, An upcoming Warrior Cats Ultimate Edition Movie. Warrior cats: Ultimate edition on Roblox. &#42160; &#42161; . . &#8674; &#727;&#719;&#715; ..."
+    description "Shadows We cast, An upcoming Warrior Cats Ultimate Edition Movie.&#10;Warrior cats: Ultimate edition on Roblox.&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120362;&#120367;&#120359;&#120368; ] &#65381;&#65439;&#714;&#718; :&#10;This is a trailer for my upcoming movie, Shadows we cast based in the darkforest.&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120357;&#120362;&#120372;&#120356;&#120365;&#120354;&#120362;&#120366;&#120358;&#120371; ] &#65381;&#65439;&#714;&#718; :&#10;The game is on Roblox named Warrior cats: Ultimate edition.&#10;Shaders used are Roshade shaders for PCs and Laptops.&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120372;&#120368;&#120356;&#120362;&#120354;&#120365;&#120372; ] &#65381;&#65439;&#714;&#718; :&#10;&#8631; &#9825;&#65038; &#120423;&#120420;&#120407;&#120417;&#120420;&#120429; :: https://web.roblox.com/users/18806398... and... https://web.roblox.com/groups/1247072...&#10;&#10;&#42160; &#129482; &#42161; . . &#8674; &#727;&#719;&#715; [ &#120373;&#120354;&#120360;&#120372; ~&#120362;&#120360;&#120367;&#120368;&#120371;&#120358;~ ] &#65381;&#65439;&#714;&#718; :&#10;Warriorcats, warrior, cats, warriorcatsultimateedition, pick a flower, flower, dandelion, wcue, WCUE, trend."
     channel_title "LittleSiamese Studios"
     channel_id "UC6slVEueOyx0S7bW1EtqeNw"
     fav_count 0
@@ -5121,7 +5121,7 @@ graph [
     step 0
     date "2021-05-29T21:00:45Z"
     title "New Cat Ideas + Previews! |Warrior Cats: Ultimate Edition"
-    description "Hey guys, make sure you SUBSCRIBE for a FREE COOKIE!!! Today, I show some of my skin ideas and I also show some ..."
+    description "Hey guys, make sure you SUBSCRIBE for a FREE COOKIE!!! &#10;&#10;Today, I show some of my skin ideas and I also show some previews of new updates to come in Warrior Cats: Ultimate Edition! Make sure to like the video if you guys like what you see! ;) Have a wonderful and relaxing day and don't forget to be thankful! See you guys for the next one and links for the Offical SunnyDusty YouTube Discord are in the comments and are right below this message! See yah!&#10;&#10;Discord: &#8203;https://discord.gg/xPcXe6AKJT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;Username: SunnyDusty&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;&#10;#WarriorCats #CatSkinIdeas #RobloxUltimateEdition"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -5136,7 +5136,7 @@ graph [
     step 0
     date "2022-01-16T06:09:53Z"
     title "Warrior cats: ultimate edition tiktok comp"
-    description "Love support and credits to all these creators! Hope your having an amazing day/night, bye!^^"
+    description "Love support and credits to all these creators!&#10;&#10;Hope your having an amazing day/night, bye!^^"
     channel_title "cherzop"
     channel_id "UCPorb2wIsiZHLOzsREvyyAQ"
     fav_count 0
@@ -5151,7 +5151,7 @@ graph [
     step 0
     date "2018-01-18T18:52:52Z"
     title "Warrior Cats Animated Into the Wild: Episode 0 (Prologue)"
-    description "Based on books by Erin Hunter! A kinda animated series coming in February! Credits---- Written by Rory- ..."
+    description "Based on books by Erin Hunter! A kinda animated series coming in February! &#10;&#10;Credits----&#10;Written by&#10;Rory- http://sillystrung.tumblr.com/&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?hl=en"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -5181,7 +5181,7 @@ graph [
     step 0
     date "2022-06-08T13:11:41Z"
     title "Warrior cats clan generator challenge!! - part 1"
-    description "As soon as I saw this challenge, I knew I had to try it!! There will be more parts coming soon because I'm having a blast designing ..."
+    description "As soon as I saw this challenge, I knew I had to try it!! There will be more parts coming soon because I'm having a blast designing all these kitties :D&#10;&#10;0:00 - Introduction&#10;0:12 - Leader&#10;1:28 - Deputy&#10;2:33 - Healer&#10;4:09 - Ending&#10;&#10;CREDITS:&#10;Youtubers that inspired this video:&#10;original by Nefali (https://youtu.be/rBG_QWLdjXU)&#10;inspired by brighthoney (https://youtu.be/zvgsAT_bMdE)&#10;&#10;Song: Koven - Looking For More [NCS10 Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/LookingForMore&#10;Watch: http://youtu.be/0dgMHYThYXw&#10;&#10;This is the generator used if you'd like to try it yourself!! https://perchance.org/warrior-cat-clans&#10;&#10;#warriorcats #speedpaint"
     channel_title "Among moths"
     channel_id "UC6zPdYJFNXsaVkxZRoXLhjw"
     fav_count 0
@@ -5211,7 +5211,7 @@ graph [
     step 0
     date "2019-02-09T17:20:41Z"
     title "My IRL Best Friends GUESS Warrior Cats! [Episode 3]"
-    description "The third episode of the new series where I force real-life people to guess these karate kitties. ______ Blixemi Official Amino ..."
+    description "The third episode of the new series where I force real-life people to guess these karate kitties.&#10;__________&#10;&#10;Blixemi Official Amino &#8594; https://aminoapps.onelink.me/4eRt/Blixemi&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;&#10;_________&#10;&#10;Thanks for watching!!~"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -5226,7 +5226,7 @@ graph [
     step 0
     date "2022-06-17T13:43:47Z"
     title "Warrior cats relationships that have gone wrong"
-    description "Hi everyone, no video has been released for a long time, so I decided to fix it. I hope you enjoyed it. These pictures and music are ..."
+    description "Hi everyone, no video has been released for a long time, so I decided to fix it. I hope you enjoyed it.&#10;These pictures and music are not mine&#10;artists:https://www.wattpad.com/873747949-ko%C4%8Di%C4%8D%C3%AD-v%C3%A1le%C4%8Dn%C3%ADci-kniha-v%C5%A1ech-ship%C5%AF-tigerstar-x&#10;&#10;https://cz.pinterest.com/pin/AY41TLNsgKMDMZmUuSVyHBpweDCBQmIvUEnPXH0NrSY9gxGy1DHquJU/&#10;&#10;https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FBrbCryingOverFictionalCats%2Fposts%2Fredtails-deathartist-httpswwwdeviantartcomreddjazzartredtail-s-death-first-blood%2F2750356114999905%2F&#10;&#10;https://aminoapps.com/c/warriors/page/blog/tigerclaw-and-goldenflower-true-love-for-never/lWNb_1rtQuegmGEk6MMEMPe5wjn8g0Y2LN&#10;&#10;https://www.deviantart.com/lounnah/art/Leafpool-and-Crowfeather-815165084&#10;&#10;https://cz.pinterest.com/willowleaves303/warrior-cats/&#10;&#10;https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F616093711759500%2Fposts%2Fmapleshades-vengeanceappledusks-deathartist-httpswwwdeviantartcomkoerennartmaple%2F2734452816590235%2F&#10;&#10;https://aminoapps.com/c/warriors/page/blog/appledusks-death/BW3j_PZtwu5lzoJ856PwmKDN3QqRax32LB&#10;&#10;https://br.ifunny.co/tags/appledusk&#10;&#10;https://www.quotev.com/story/13959509/Warrior-cat-What-ifs/13&#10;&#10;https://aminoapps.com/c/warriors/page/blog/graystripe-and-silverstream/k2N1_lZFGu7x7jbjYxPzJbrpnoXMEz4B0ESQ&#10;&#10;https://cz.pinterest.com/lilypuppybradshaw/graystripe-and-silverstream/&#10;&#10;https://ro.pinterest.com/pin/839710293020087208/&#10;&#10;https://aminoapps.com/c/warriors/page/blog/brightpaw-and-swiftpaw/gmGq_DVT6uQqGMZoxGnxnP1d6Pz8kmnjBB&#10;&#10;https://furbooru.org/images/24269&#10;&#10;https://cz.pinterest.com/fandoms1213/ashfur-x-squirrelflight/&#10;&#10;https://aminoapps.com/c/warriors/page/blog/ashfur/VaWk_G8c7uM8a8Z3MMxnGWoVe4xpg8jv8k&#10;&#10;https://twitter.com/_snowfeather/status/1282059943139581961&#10;&#10;https://www.deviantart.com/rosephaganax/art/Falling-Feather-and-Jackdaw-s-Cry-527459493&#10;&#10;https://www.deviantart.com/space-picnics/art/Jackdaw-s-Cry-and-Falling-Feather-549113446&#10;&#10;https://cuddlycharizard.tumblr.com/post/182715182624/they-killed-each-other-jackdaws-cry-and-falling"
     channel_title "Whitefur"
     channel_id "UCDpBM0tXZu0m3UwsPDHL5yg"
     fav_count 0
@@ -5241,7 +5241,7 @@ graph [
     step 0
     date "2021-06-25T22:00:09Z"
     title "Becoming a REAL WARRIOR CAT (Warrior Cats: Ultimate Edition Roblox)"
-    description "Hey guys! What's up? In today's video I decided to hop on Warrior Cats Ultimate Edition because I wanted to become a REAL ..."
+    description "Hey guys! What's up? In today's video I decided to hop on Warrior Cats Ultimate Edition because I wanted to become a REAL WARRIOR CAT! I randomly got into families and became part of Shadow Clan at one point. So yeah, if you like warrior cat roleplays and you like Roblox this video is probably for you. ENJOY!&#10;&#10;My Socials!:&#10;Instagram: https://www.instagram.com/bigmamaeternal&#8203;&#10;Twitter: https://twitter.com/bigmamaeternal&#8203;&#10;Second Channel: https://www.youtube.com/channel/UCnBG9tA7kW68hc7zd89r4BQ"
     channel_title "Big Mama Eternal"
     channel_id "UCPeJREKbTZCjAeDTDx6YtrA"
     fav_count 0
@@ -5256,7 +5256,7 @@ graph [
     step 0
     date "2015-08-29T23:35:11Z"
     title "The Moon Song- Warrior Cats MAP"
-    description "edit- quality was killed, turn on HD and hope for the best! thnks a lot youtube .. okay im so happy with this MAP guys, the colors are ..."
+    description "edit- quality was killed, turn on HD and hope for the best! thnks a lot youtube ..&#10;okay im so happy with this MAP guys, the colors are so soft and pretty gah everyones part was bEAUTIFUL!!!&#10;this makes me so happy, thank you for being a part of it! more to come xx"
     channel_title "Antlerrs"
     channel_id "UCmRh2Bd7sCjhPHGEWXcph2A"
     fav_count 0
@@ -5271,7 +5271,7 @@ graph [
     step 0
     date "2022-05-22T19:18:30Z"
     title "Warrior Cats Ultimate Edition - 10 SKIN IDEAS (Roblox)"
-    description "Make sure to like and subscribe for more warrior cats ultimate edition videos !!! Roblox warrior cats ultimate edition ..."
+    description "Make sure to &#128077; like and &#128276; subscribe for more warrior cats ultimate edition videos !!!&#10;&#10;Roblox warrior cats ultimate edition skin/morph ideas&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10004;&#65039; Join my Discord: https://discord.gg/W9sSP6A&#10;&#10004;&#65039; Join my Roblox Group: https://www.roblox.com/groups/4094584...&#10;&#10004;&#65039;Follow me on Instagram: https://www.instagram.com/aqthegamer/&#10;&#10004;&#65039; Follow me on Twitter: https://twitter.com/AQtheGamer&#10;&#10004;&#65039; Follow me on Roblox: https://www.roblox.com/users/34308906...&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;Credits for skins in the video&#10;if you want your skin/morph to feature in the next part then make sure to join my discord server and dm me!&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;Track: TheFatRat - Monody&#10;Watch: https://youtu.be/B7xai5u_tnk&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10;#warriorcats #wcue"
     channel_title "AQtheGamer"
     channel_id "UCI5IBHgowLuQZRQQUbVKRUg"
     fav_count 0
@@ -5286,7 +5286,7 @@ graph [
     step 0
     date "2021-10-02T13:00:45Z"
     title "Designing Our Own WARRIOR CAT OCs!"
-    description "We finally made our own Warrior Cats OCs! &#8227; Meet the two newest RiverClan cats - Raysplash and Lillipad! &#8227; Amino artists ..."
+    description "&#8227; We finally made our own Warrior Cats OCs!&#10;&#8227; Meet the two newest RiverClan cats - Raysplash and Lillipad!&#10;&#8227; Amino artists featured in this speedpaint: flutterfluff, Flint, Fireheart, Mewmii Bug, polar, U||, Colorstar, Sparrowsong, Zuala Bear and Jeicie&#10;&#10;Tomorrow's prompt is:&#10;Pinkbunnygirl43 Official Amino Artist Style Swap&#10;&#10;Join my Amino: Pinkbunnygirl43 Official Amino!&#10;Link to my Amino: http://aminoapps.com/p/62ysdo&#10;Take part in Pinktober with #Pinktober2021&#10;&#10;...&#10;&#10;Check out our Etsy shop!&#10;https://etsy.me/3xYROVm&#10;&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -5301,7 +5301,7 @@ graph [
     step 0
     date "2021-02-07T17:07:49Z"
     title "Stronger | Warrior cats"
-    description "Muzyka The score - stronger Animatorzy (wymienieni w kolejno&#347;ci przypadkowej) : AlexHarrier meow 286 Dogfish Trilliumi ..."
+    description "Muzyka&#10;The score - stronger&#10;&#10;&#10;&#10;&#10;Animatorzy (wymienieni w kolejno&#347;ci przypadkowej) :&#10;AlexHarrier&#10;meow 286&#10;Dogfish&#10;Trilliumi&#10;Sagutoyas&#10;Kalinel&#10;Nightrizer&#10;mickleo&#10;River Spirit&#10;AnimeLionessMika&#10;SaraXu&#10;Chipietpista&#10;SEGAmastergirl&#10;Askila Deamon&#10;RyeTaran"
     channel_title "Ren&#233;"
     channel_id "UC13OrPdl-wU49jljd71co8w"
     fav_count 0
@@ -5316,7 +5316,7 @@ graph [
     step 0
     date "2021-12-04T21:00:09Z"
     title "Warrior Cats Ultimate Edition [ How to get on every roof! ]"
-    description "If you'd like to participate in future videos, Or just hang out with the community please join our discord server!"
+    description "If you'd like to participate in future videos,  Or just hang out with the community please join our discord server! &#10;https://discord.gg/5tegBPygxj"
     channel_title "MeadowBrook Studios"
     channel_id "UCtnRrvQbfjerJTL45HcuZNw"
     fav_count 0
@@ -5331,7 +5331,7 @@ graph [
     step 0
     date "2019-12-28T17:19:41Z"
     title "&#38;quot;I&#38;#39;m Not Fine&#38;quot; Alderheart. ORIGINAL WARRIOR CATS SONG (Feat. Nola Klop)"
-    description "Download available for this song on iTunes   https://apple.co/2Q7LibF Google Play   https://bit.ly/2rAjeEn ..."
+    description "Download available for this song on&#10;&#127925; iTunes&#127925; https://apple.co/2Q7LibF&#10;&#127925;Google Play&#127925;  https://bit.ly/2rAjeEn&#10;&#10;||---------||&#10;&#10;||~Where To Find Me!~||&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;&#10;Want to see videos and hear songs EARLY? Be apart of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi&#10;&#10;||---------||&#10;&#10;CREDITS&#10;Alderpaw's Vocals - Nola Klop&#10;Youtube - https://www.youtube.com/nolaklop&#10;Website - https://nolaklop.com/&#10;&#10;Art by- Moonkitti&#10;Youtube - https://www.youtube.com/user/Moonkitti&#10;Twitter - https://twitter.com/fawnskip&#10;&#10;Mixing/Mastering of Audio - Alex Martinelli&#10;Twitter- https://twitter.com/MusicMartinelli?s=09&#10;Youtube - https://www.youtube.com/channel/UCmCdbTXJB9d4e-5Qsorzcdw&#10;&#10;Music/Lyrics/Video Editing - Blixemi&#10;&#10;||---------||&#10;&#10;Please note: &#10;-Do not reupload this audio onto your channel. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;||---------||&#10;&#10;LYRICS&#10;&#10;I'll be the best they&#8217;ve ever seen!&#10;I&#8217;ll make them so dang proud of me&#10;It&#8217;ll take some work to get where I need to go...&#10;But I&#8217;ll be there before I know!&#10;&#10;And it&#8217;s hard.&#10;And I&#8217;m tired.&#10;But I&#8217;ll work&#10;to get higher-...!&#10;But it seems I&#8217;ve lost all function in my legs...&#10;Is this normal?  &#10;&#10;It&#8217;s fine!&#10;I&#8217;m fine!&#10;Am I fine?&#10;I&#8217;m sure it&#8217;s fine!&#10;(Am I gonna die?)&#10;&#10;Ugh-!&#10;&#10;I&#8217;m a wreck!&#10;I&#8217;m in a downward spin.&#10;And I don&#8217;t know-...&#10;What it feels like to win&#10;But they tell me-&#10;Just gotta put in the work, &#8220;you&#8217;ll be fine.&#8221;&#10;And they tell me&#10;&#34;Everyone falls down, time to time...&#34;&#10;&#10;But no matter how hard I try&#10;There&#8217;s this little voice in my mind.&#10;And it tells me every time&#10;That I will not be fine.&#10;&#10;I'll be the best they&#8217;ve ever seen!&#10;(You&#8217;ll fall, you&#8217;ll trip, you&#8217;ll make a scene)&#10;It&#8217;ll take some work to get where I need to go&#10;(They&#8217;re better off without you, you know&#8230;)&#10;Woah oh-oh...&#10;&#10;It&#8217;s hard.&#10;(too hard)&#10;I&#8217;ll work&#10;(Won&#8217;t work!)&#10;&#10;SPOKEN: I just gotta keep telling myself that I&#8217;ll be fine!&#10;&#10;It&#8217;s fine-&#10;(Not fine!)&#10;&#10;I&#8217;m fine,-&#10;(Not Fine!)&#10;&#10;We&#8217;re fine.-&#10;(Not FINE!)&#10;&#10;I&#8217;m sure it&#8217;s fine!&#10;(NOT FINE!)&#10;&#10;I&#8217;m a wreck! I&#8217;m downward spin!&#10;And I-...&#10;I don&#8217;t know what it feels like to win!&#10;But they&#10;Tell me&#10;&#8220;Just gotta put in the work, I&#8217;ll be fine.&#8221;&#10;And they tell me&#10;&#8220;Everyone falls down once or twice&#8221;&#10;&#10;And though I try-&#10;And though I reach for the sky!&#10;There&#8217;s this voice that&#8217;s getting louder in the back of my mind.&#10;Saying I'm not fine!&#10;It&#8217;s screaming at me saying,&#10;I&#8217;m Not FINE!&#10;&#10;I&#8217;m a mess,&#10;My life&#8217;s an uphill climb,&#10;I get halfway up, but I slip down every time.&#10;And I honestly don&#8217;t ever think I will ever be fine!&#10;Cause my head it keeps screaming, you&#8217;ll always be behind!&#10;&#10;And they tell me it&#8217;s alright,&#10;Everyone takes their own time,&#10;But my time is moving backwards,&#10;I don&#8217;t think I&#8217;ll get it right!&#10;Cause I&#8217;m losing my own battle,&#10;Cannot find the will or might,&#10;Cause the little voice that&#8217;s supposed to cheer me on&#10;Is the one I have to fight&#8230;&#10;&#10;It&#8217;s fine,&#10;I&#8217;m fine,&#10;We&#8217;re fine,&#10;I&#8217;m sure it&#8217;s fine.&#10;&#10;I don&#8217;t think I&#8217;ll ever be fine-&#10;&#10;All.... fine....&#10;&#10;SPOKEN:&#10;NEEDLE - Hey uhhh, Alderpaw? You alright?&#10;ALDER- Oh! Pfft, I'm f-fine! (heh)"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -5346,7 +5346,7 @@ graph [
     step 0
     date "2016-10-30T19:56:31Z"
     title "MBMBaM - Warrior Cat Names"
-    description "From Episode 33 &#34;Bramblepelt&#34; Listen to My Brother, My Brother and Me here: ..."
+    description "From Episode 33 &#34;Bramblepelt&#34;&#10;&#10;Listen to My Brother, My Brother and Me here: http://www.maximumfun.org/shows/my-brother-my-brother-and-me"
     channel_title "MBMBaM Highlights"
     channel_id "UCUMszr9sMHmcNYmr-q0yaqA"
     fav_count 0
@@ -5361,7 +5361,7 @@ graph [
     step 0
     date "2021-07-14T16:01:51Z"
     title "&#38;quot;I&#38;#39;ll Fly&#38;quot; ORIGINAL WARRIOR CATS SONG - Dovewing. Animatic! (Feat. Nola Klop)"
-    description "&#34;I'll Fly&#34; streaming now on... Spotify   https://spoti.fi/3xGbvBh iTunes   https://apple.co/3B3NrKE ||~Where To Find Me!"
+    description "&#34;I'll Fly&#34; streaming now on...&#10;&#127925;Spotify&#127925;  https://spoti.fi/3xGbvBh&#10;&#127925; iTunes&#127925; https://apple.co/3B3NrKE&#10;&#10;||~Where To Find Me!~||&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;&#10;Want to see videos and hear songs EARLY? Be a part of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi&#10;&#10;||---------||&#10;&#10;CREDITS&#10;Dovewing's Vocals - Nola Klop&#10;Youtube - https://www.youtube.com/nolaklop&#10;Website - https://nolaklop.com/&#10;Twitter - https://twitter.com/nolaklop&#10;&#10;Animatic by roarasaurus&#10;Youtube - https://www.youtube.com/channel/UCM2Y-560zThHfKJ1wi7paqQ&#10;Twitter - https://twitter.com/roarinsaurus&#10;&#10;Mixing/Mastering of Audio - Nola Klop&#10;&#10;Music/Lyrics/Produced by - Blixemi&#10;&#10;||---------||&#10;&#10;Please note: &#10;-Do not reupload this audio onto your channel. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;||---------||&#10;LYRICS&#10;&#10;How would it feel to take that leap?&#10;And never think of the ground at all.&#10;Close your eyes, breathe in so deep,&#10;No one waiting to catch your fall-&#10;&#10;All my life I&#8217;ve been told to wait.&#10;For the storm clouds to clear the sky&#10;But all I want is to feel the rain&#8230;&#10;let those winds take me higher and higher!&#10;&#10;And still I&#8217;ve yet to touch those clouds.&#10;They say I&#8217;m safer on the ground&#8230;.&#10;&#10;One day I&#8217;ll fly-...&#10;Just take the chance to try-&#10;I know if I go, &#10;I&#8217;ll learn to take to the sky!&#10;And as hard as that seems,&#10;To take that first faithful leap.&#10;I&#8217;ll fly-...&#10;&#10;I&#8217;m on the highest peak as someone new,&#10;Though I hear them try to call me home,&#10;But I cannot seem to shake this view,&#10;Where I jump headfirst into the unknown!&#10;&#10;Looking back, I can see it now,&#10;The world&#8217;s so small from on the ground..&#10;&#10;And I&#8217;ll fly-...&#10;Just take the chance to try-&#10;I know if I go-&#10; I&#8217;ll learn to take to the sky.&#10;And as hard as it seems,&#10;I&#8217;ll take that first faithful leap..&#10;I&#8217;ll fly-!&#10;&#10;Just leave the rest all behind!&#10;When I fly!&#10;Let the winds be my guide&#10;And I&#8217;ll fly!&#10;&#10;I&#8217;m done with looking down,&#10;Let them see me now,&#10;As I fly"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -5376,7 +5376,7 @@ graph [
     step 0
     date "2019-12-22T22:24:33Z"
     title "Warrior Cats Animated-Episode 8-Fire &#38;amp; Ice (New Best Friend)"
-    description "I have been awake SO LONG working on this, longest episode to date, and i even cut some parts. you better APPRECIATE for ..."
+    description "I have been awake SO LONG working on this, longest episode to date, and i even cut some parts. you better APPRECIATE &#10;for some reason this was really hard for me to edit, but we got through it together champ&#10;im too tired to write more of this description so. . . bye&#10;ALSO NEW VOICE ACTOR GEKKOZILLA didnt they great? go follow them&#10;&#10;COMMISIONS! https://ko-fi.com/bokbokchoy&#10;&#10;Patreon: https://www.patreon.com/bokbokchoy&#10;WCA tumblr: https://www.tumblr.com/blog/warriorca...&#10;BokBokChoy twitter: https://twitter.com/?lang=en&#10;&#10;Rory- http://sillystrung.tumblr.com/ (Also animated it)&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?h...&#10;Taylor https://www.youtube.com/user/TaylorTe...&#10;Elliot - https://www.youtube.com/channel/UCtui...&#10;Gekkozilla - https://www.youtube.com/channel/UCC9mCc5bNWziBpy1Fykk83Q&#10;&#10;(Voices)&#10;Rory- Smudge, Graystripe, Ravenpaw, Runningwind, Longtail, Smallear, Brindleface, Boulder, Brownpaw. Clawface, Stumpytail, Onewhisker, Whiteclaw, Wetfoot&#10;Fritz- Fireheart, Tigerclaw, Whitestorm, Lionheart, Sandpaw, Yellowfang, Brokenstar, Darkstripe, Blackfoot, Susanne, Barley, Nightpelt, Tallstar, Mudclaw, Blackclaw, Oakpaw&#10;Lillian- Bluestar, Mousefur, Spottedleaf, Speckletail, Willowpelt, Littlepaw, Tangleburr, Ashfoot&#10;Elliot- Runningnose, Crookedstar, Crowfur, Thornclaw, Deadfoot, Barkface&#10;Moms- Frostfur&#10;Pops- Mudfur, Patchpelt&#10;Madeline- One-eye&#10;Taylor- Goldenflower, Morningflower. Whitetail&#10;Navgate- Halftail&#10;Gekkozilla- Leopardfur&#10;&#10;Hat the Jazz by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://www.twinmusicom.org/song/289/hat-the-jazz&#10;Artist: http://www.twinmusicom.org&#10;&#10;A Night Alone Track Tribe&#10;Drizzle to Downpour Silent Partner&#10;Walk through the Park Track Tribe&#10;Pitch Lish Grooves&#10;torture Coyote Hearing&#10;Home for the holidays Tracktribe&#10;above it all sting jingle punks&#10;When Johnny Comes Marching Home Cooper Cannell&#10;bluebird E's Jammy Jams&#10;shine on harvest moon E's Jammy Jams&#10;Backed Vibes Clean - Rollin at 5 by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400029&#10;Artist: http://incompetech.com/"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -5391,7 +5391,7 @@ graph [
     step 0
     date "2022-04-15T03:30:14Z"
     title "The BEST warrior cat memes that made &#10024; Jayfeather chuckle &#10024;"
-    description "I do not own ANY of these videos* Credits to all the wonderful animators who did. Special thank to Lightseeker for the name idea."
+    description "*I do not own ANY of these videos*&#10;Credits to all the wonderful animators who did.&#10;&#10;Special thank to Lightseeker for the name idea.&#10;&#10;Playlist of memes: https://youtube.com/playlist?list=PLbTCFa7_AaRvfkLNtaoepXcGj01T1MQ9Q&#10;&#10;Make sure to join my newest map: https://youtu.be/Co4Jj3edLKw&#10;AND my newest casting call; https://youtu.be/FWwW1lu5kXM&#10;&#10;Credits (*in order*):&#10;&#10;- Tigerstar meets scourge; https://youtu.be/C9qOo_7lZMQ&#10;- Tallstar can still hear his voice; https://youtu.be/ve1XVYlbzQQ&#10;- hey Bluestar; https://youtu.be/wd3eAqpzmiM&#10;- Jayfeather kills his sister; https://youtu.be/2ignNI1PBKk&#10;- Hollyleaf&#8217;s demise; https://youtu.be/0_1UXWEE0ec&#10;- Firestar possesses a teenager; https://youtu.be/L2OoDOXfrQY&#10;- Hawkstorm meme; https://youtu.be/5fh6rs-aV5A"
     channel_title "ShallowStep"
     channel_id "UC3Wklhbb0QeKcEIa86axKZg"
     fav_count 0
@@ -5406,7 +5406,7 @@ graph [
     step 0
     date "2019-06-26T12:57:45Z"
     title "WARRIOR CATS - In die Wildnis - Folge 1 &#38;quot;Prolog&#38;quot; (Schleich Film)"
-    description "Dieses Video enth&#228;lt unbezahlte Werbung. Alle Rechte an der Geschichte liegen bei Erin Hunter und Harper Collins, bzw."
+    description "(Dieses Video enth&#228;lt unbezahlte Werbung. Alle Rechte an der Geschichte liegen bei Erin Hunter und Harper Collins, bzw. Beltz &#38; Gelberg an der &#220;bersetzung. Dieses Video ist nicht monetarisiert und wurde mit copyrightfreier Musik hinterlegt. Somit erziele weder ich, noch ein dritter Copyrightinhaber Einnahmen aus dem Video und alleine die Autoren, bzw der Herausgeber profitieren durch den Werbeeffekt)&#10;&#10;Sprecher&#10;Rotschweif: Ver-Toni&#10;https://www.youtube.com/user/ToniMichaelSattler&#10;&#10;Tigerkralle: Jan Borden&#10;https://www.youtube.com/channel/UC7xbkFhsUqPVvrQS47iewyA&#10;&#10;T&#252;pfelblatt: Ane Storys&#10;https://www.youtube.com/channel/UCb8zoIXJ9emh9ThS7TBNniA&#10;&#10;&#10;&#10;Hallihallo meine lieben Sammys!&#10;&#10;Da ist es nun, die erste Folge von Warrior Cats. Ein Projekt, das tats&#228;chlich mal nicht von mir geschrieben wurde, aber das ich schon seit EEEEEWIGKEITEN mal drehen wollte. Fr&#252;her hatte ich nur nicht so viele Katzen und auch keine so sch&#246;nen Repaints wie f&#252;r diese Verfilmung.&#10;Was ich vielleicht erw&#228;hnen sollte: Ich habe &#34;Rotschweifs Schuld&#34; nicht gelesen, weshalb ich nicht wei&#223;, welche Katzen genau an der Schlacht um die Sonnenfelsen beteiligt waren. Ich gehe davon aus, dass Rotschweif, Wei&#223;pelz, Langschweif, Tigerkralle und Mausefell waren. F&#252;r den FlussClan waren es Eichenherz, Leopardenfell, Nebelfu&#223;, Steinfell, Schwarzkralle und ein paar andere, generische Krieger ohne Namen xD&#10;&#10;Haltet die Ohren steif!&#10;Pf&#246;tchen!"
     channel_title "SAMMYTASTISCH!"
     channel_id "UCDUwSlCo9oqlcOnhQbWgvZg"
     fav_count 0
@@ -5436,7 +5436,7 @@ graph [
     step 0
     date "2022-03-29T15:46:24Z"
     title "+| How to find the Moonstone in Roblox Warrior Cats Ultimate Edition (Staring Golden&#8217;Blaze) |+"
-    description "Please do not try and steal my Oc. I hope this helped you in finding the Moonstone and not a way to steal my OC. I'm am trusting ..."
+    description "Please do not try and steal my Oc. &#10;I hope this helped you in finding the Moonstone and not a way to steal my OC.&#10;I&#8217;m am trusting you.&#10;&#10;-Fuzzy"
     channel_title "&#43457;Fuzzy&#43458;"
     channel_id "UCfYLocDaEeIf5S2hCGGKDyw"
     fav_count 0
@@ -5451,7 +5451,7 @@ graph [
     step 0
     date "2022-01-12T07:01:35Z"
     title "I Customized a NEW Warrior Cat!"
-    description "LAST CHANCE TO ORDER A RAINWHISKER CUSTOM! https://etsy.me/3qIXHUp Join my Amino: Pinkbunnygirl43 Official Amino!"
+    description "LAST CHANCE TO ORDER A RAINWHISKER CUSTOM! https://etsy.me/3qIXHUp&#10; &#10;Join my Amino: Pinkbunnygirl43 Official Amino!&#10;Link to my Amino: http://aminoapps.com/p/62ysdo&#10;Take part by posting your Spiderleg art with #CotW"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -5466,7 +5466,7 @@ graph [
     step 0
     date "2022-04-29T03:36:45Z"
     title "&#127794; NEW CLAN CAMPS COMING SOON + STRIPED PATTERNS &#38;amp; MORE! |Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a work in progress and they may or may not going to be in the game! If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :) &#10;&#10;Hi Sunnies! We have NEW CLAN CAMPS COMING SOON!! We also have lots of NEW and realistic striped patterns for the new models!! Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;WCUE Discord Server: https://discord.gg/WkDbnzA4hT&#10;WCUE Tiktok: https://www.tiktok.com/@warrior.cats.ue&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #WCUE"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -5496,7 +5496,7 @@ graph [
     step 0
     date "2020-12-03T20:30:01Z"
     title "How to Draw the Warrior Cats | With James L. Barry"
-    description "Grab your paper and pencil! Learn how to draw your favorite Warrior Cats like Graystripe and Leafstar with Warriors Manga ..."
+    description "Grab your paper and pencil! Learn how to draw your favorite Warrior Cats like Graystripe and Leafstar with Warriors Manga illustrator James L. Barry!&#10;&#10;Subscribe to Shelf Stuff! - https://goo.gl/TkzXiD&#13;&#10;&#10;About the WARRIORS series:&#10;Erin Hunter's #1 nationally bestselling Warriors series is a series of novels that follows the adventures of six Clans of cats: ThunderClan, WindClan, RiverClan, ShadowClan, SkyClan, and StarClan.&#10;&#10;&#8220;From now on, you will live by a Warrior Code. Your hearts will be filled with courage and nobility, and if you must fight, it will be not for greed, but for honor and justice.&#8221;&#10;&#10;There is not always peace between the Clans, but that is to be expected&#8212;cats are born with claws and teeth for a reason. Still, as long as they lived by the Warrior Code, their fallen ancestors would watch over them and guide them through their lives.&#10;&#10;Visit warriorcats.com for more information! &#13;&#10;&#10;LET&#8217;S GET BOOK NERDY!&#13;&#10;Website: http://www.shelfstuff.com &#13;&#10;Facebook: https://www.facebook.com/theshelfstuff&#10;Instagram: http://instagram.com/theshelfstuff &#13;&#10;&#13;&#10;#ShelfStuff is brought to you by HarperCollins Publishers."
     channel_title "Shelf Stuff"
     channel_id "UCPtGRJgv2klUy25peVli7tw"
     fav_count 0
@@ -5511,7 +5511,7 @@ graph [
     step 0
     date "2022-07-09T16:24:09Z"
     title "Should You Skip the Warrior Cats Prequels? | Dawn of the Clans Analysis"
-    description "In this analysis/review of the Dawn of the Clans arc, I discuss whether or not it's genuinely worth your time to read or if you should ..."
+    description "In this analysis/review of the Dawn of the Clans arc, I discuss whether or not it's genuinely worth your time to read or if you should skip it instead.&#10;&#10;FAN ARTIST&#10;https://twitter.com/dreamfeather20&#10;&#10;&#10140;  SUBSCRIBE HERE: www.youtube.com/channel/UCRz0F7NaH0l369CRPFBt1IQ?sub_confirmation=1&#10;&#10140;  MY TWITTER: https://twitter.com/wc_hawkkz&#10;&#10;SPRITE ARTIST:&#10;https://www.youtube.com/channel/UCmvb8wvYPFVijQOyPef0erQ&#10;&#10;SONGS USED&#10;Deltarune Chapter 1 OST: 034 - Friendship&#10;&#10;Purchase Deltarune and Undertale soundtracks here or on Steam: http://tobyfox.bandcamp.com/&#10;&#10;Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.&#10;&#10;All rights belong to their rightful owner(s). Content shown is not my own unless stated otherwise.&#10;&#10;#warriorcats #warriors"
     channel_title "Hawkkz"
     channel_id "UCRz0F7NaH0l369CRPFBt1IQ"
     fav_count 0
@@ -5526,7 +5526,7 @@ graph [
     step 0
     date "2022-07-10T16:38:18Z"
     title "POKKAN KARA ||ANIMATION MEME||flipaclip||Warrior cats||"
-    description "Heyyy!! Sorry for inactivity :( I'm gonna be more active now ^^ Btw I archived all of my videos, u can find them there now: ..."
+    description "Heyyy!! Sorry for inactivity :( I&#8217;m gonna be more active now ^^&#10;Btw I archived all of my videos, u can find them there now: https://m.youtube.com/playlist?list=PLlcZOk4dQwR-jX-p_IrVtnmm7_gobIVJM&#10;Omg I haven&#8217;t animated anything warriors related for,, um,, 2 years?? Woah&#10;&#10;Original: https://m.youtube.com/watch?v=3YEp9d5PPC0&#38;t=0s&#10;Music: https://youtu.be/FeJhPOpdrYY&#10;Insp: actually no one, but I took the idea of moment &#8220;Let us, all the friends here&#8221; from https://youtu.be/a6sGO82NtIo&#10;App: procreate(sketches), FlipaClip (animating), capcut( blur in the end)&#10;Tools: Apple Pencil, finger xd &#10;Time:??a lot,,,&#10;Fps: 11&#10;Characters used: Jayfeather, Lionblaze, Hollyleaf(from warrior cats series)&#10;&#10;&#10;Instagram: @bluepaw_thefluff(@bluepaw_the_fluff is my old acc ehe :&#1079;)&#10;Telegram: https://t.me/bluepawthefluff&#10;&#10;See yall ;D&#10;&#10;&#10;&#10;&#10;&#10;#animationmeme #animation #hollyleaf #jayfeather # lionblaze # warriors"
     channel_title "Bluepaw The Fluff"
     channel_id "UCn25OL7n3joo9M67SVqrOPg"
     fav_count 0
@@ -5541,7 +5541,7 @@ graph [
     step 0
     date "2021-06-18T00:51:29Z"
     title "MORE WARRIOR CAT SKIN IDEAS! &#128049; |Warrior Cats: Ultimate Edition"
-    description "Hello everyone! Make sure you guys subscribe like always! Our goal is 1K! And like the video if you like what you see! Today ..."
+    description "Hello everyone! Make sure you guys subscribe like always! Our goal is 1K! And like the video if you like what you see! Today, I show some more of my cat skin ideas! Comment down below if you want me to make any other ones and if so, which color(s)? Hope you guys have an amazing day and don't forget to be thankful! Also, don't forget to join the official SunnyDusty YouTube Discord! You get notified when I do a giveaway, Livestream, post a video, do an event, etc! Links are in the description and right below this message! Have a wonderful day/night my Sunnies! :) &#10;&#10;Discord: &#8203;https://discord.gg/xPcXe6AKJT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;&#10;&#10;&#10;&#10;Username: SunnyDusty&#10;Game: Roblox, Warrior Cats: Ultimate Edition"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -5556,7 +5556,7 @@ graph [
     step 0
     date "2022-06-19T20:25:30Z"
     title "&#127754; SeaClan &#127754; (Warrior cats clan generator challenge)"
-    description "Original: https://youtu.be/rBG_QWLdjXU Finished designs- 3:00 pose ref for yellow-claw: https://pin.it/1JbYP5e it is finally done."
+    description "Original: https://youtu.be/rBG_QWLdjXU&#10;&#10;Finished designs- 3:00&#10;&#10;&#10;pose ref for yellow-claw: https://pin.it/1JbYP5e&#10;&#10;&#10;it is finally done..I have been working on this off and on for about 3 weeks now(maybe even longer).When I first saw this challenge I knew I wanted to join, tho the funny thing about it is.....I have never read a single Warrior Cats books nor do I feel like doing so. While I have done some research on how clan life works and rules (also playing The Warriors Cats Ultimate Edition game on Roblox.....you should totally play it) I jumped right in and did a whole clan under one canvas, which made the process slightly slower. I was originally going to add their personalities and small backstory but kind of gave up. And with that I hope you enjoy the clan and its cats. &#10;&#10;Btw before anyone brings it up, yes I know others have already use the name before the challenge was created. Also I have three other clans lined up for designing. If anyone is interested in seeing them, let me know&#10;&#10;&#10;&#10;&#10;Lil fun facts...&#10;Night'Ear and Snow'Ear are actually twin siblings and&#10;Funnel'paw and tansy'paw are half brothers. both sharing Spider'Heart as their biological father -happy father's day to him I suppose :]"
     channel_title "Akaime_Arts"
     channel_id "UCIDAHC2i6EJA4i6TlWvE90w"
     fav_count 0
@@ -5571,7 +5571,7 @@ graph [
     step 0
     date "2021-02-17T17:55:33Z"
     title "The Moment I Said It | Complete Warrior Cats MAP"
-    description "WOW THIS HAS BEEN A LONG TIME COMING! This is Shida, bringing you another rehosted MAP. This original MAP concept ..."
+    description "WOW THIS HAS BEEN A LONG TIME COMING! This is Shida, bringing you another rehosted MAP. &#10;&#10;This original MAP concept was created by EndlessHorizon all the way back in 2015! I have been following this MAP since back then and have always wanted to see it finished. I am the second person to rehost this MAP and although getting it done took a long time I am so happy to have helped get it finished. I have credited all the people who have hosted this MAP as well in the credits for their help it along its journey. &#10;Thank you for all waiting and I hope you enjoy the finished MAP.&#10;&#10;PARTS: &#10;Part 1 - DreamRising https://www.youtube.com/channel/UC9LTqj4kPqUSY-xU4kyuSeQ&#10;Part 2 - Faye Scribbles https://www.youtube.com/channel/UC41Rap7vsAPG0DYa_SnGN6g &#10;Part 3 - Bumble Smash https://www.youtube.com/channel/UCRTupf1FBV8SxnT7a4-thzA/videos&#10;Part 4 -Diets0da https://www.youtube.com/user/epiccutepuppydog&#10;Part 5 - Double Spot https://www.youtube.com/channel/UCVqki-XdKR2GD6TDXv5SRTA&#10;Part 6 - DooodleDuuude https://www.youtube.com/channel/UCrTay_Jb08TQJKSkE7NDbww&#10;Part 7 - Lynx-M7 https://www.youtube.com/channel/UCQTjAXqdIic0zS9IJKHu05Q&#10;Part 8 - sunny !! https://www.youtube.com/channel/UCLOVqhcJkQBHcNrSSuIY8Gw&#10;Part 9 (Collab) - &#10;Luckoon https://www.youtube.com/channel/UCmWRmRGgVkOE64zi-bxTYAQ&#10;Kandy Songbird https://www.youtube.com/channel/UCGc3o-XC7MwlGpr4FwY-X2g&#10;Part 10 &#38;11 - Icefelis https://www.youtube.com/channel/UCxsJVCdegHHHAmU6wogVKyQ&#10;Part 12 - Tusofsky https://www.youtube.com/user/TheUnknownSoul&#10;Part 13 - JinxBC https://www.youtube.com/channel/UCj8i37MY0xEeDInC5fauX2A&#10;Part 14 - Icefelis https://www.youtube.com/channel/UCxsJVCdegHHHAmU6wogVKyQ&#10;Part 15 - Kaichiiro https://www.youtube.com/user/Spirirtstallion100&#10;Part 16 - Burrdynn https://www.youtube.com/c/Burrdynn/videos&#10;Part 17 - ThatScruffyDuckling https://www.youtube.com/channel/UCOYZbUcZxYZrppRiub1wqYA&#10;Part 18 - JeanAkratt https://www.youtube.com/channel/UCcEHcTnT5wrMfsjZsKfStvg&#10;Part 19 &#38; 20- Moray-Jojo https://www.youtube.com/user/nightskywarriorcat11&#10;Part 21 &#38; 22- KaekaE -Yah https://www.youtube.com/channel/UC8lIskximlt54OXX-GeY6SQ/videos&#10;Part 23 - samberk https://www.youtube.com/channel/UCBiSvIWV0vk_XWWDHwWuKKA&#10;Part 24 - DrBubbles https://www.youtube.com/channel/UCJ3lHwydM6y03ARhxQH3qnQ&#10;Part 25 - Goldenflowersupportteam https://www.youtube.com/channel/UCRr2jD70j_fgXVjhuiDIjyw/videos&#10;Part 26 - MarshuKitty https://www.youtube.com/channel/UCtQv8arikb8WYeZDveo2spA&#10;Part 27 - ThatScruffyDuckling &#10;Part 28 - Techyena https://www.youtube.com/channel/UCdgnkJtFrVAqcY3Y9Rswn_w&#10;Part 29 - Dittowrong https://www.youtube.com/channel/UCm5mwgQirWpg0DH1s2BuxuA&#10;Part 30 - GoldenDragonArt https://www.youtube.com/user/GoldenDragonArt?app=desktop&#10;Part 31 - Azokcium &#8216; https://www.youtube.com/channel/UC5djde8_jp7FKMGHtM2VOPQ&#10;Part 32 - Burrdynn https://www.youtube.com/c/Burrdynn/videos&#10;Part 33 - William Watson https://www.youtube.com/channel/UC2JEcLircwwEpfz9zdHeygw&#10;Outro - Echoflight https://www.youtube.com/channel/UCFrqqqdITHd4pzZZOlKVoiQ&#10;&#10;THUMBNAIL&#10;StarPixelation - https://youtube.com/c/StarPixelationStarPixelation&#10;&#10;HOSTS&#10;ThatScruffyDuckling&#10;Icefelis - https://www.youtube.com/channel/UCxsJVCdegHHHAmU6wogVKyQ&#10;EndlessHorizon - https://www.youtube.com/channel/UCFFihuqQ8vyQIyUR4ey-dUQ&#10;&#10;SONG&#10;The Moment I Said It - Imogen Heap"
     channel_title "ThatScruffyDuckling"
     channel_id "UCOYZbUcZxYZrppRiub1wqYA"
     fav_count 0
@@ -5586,7 +5586,7 @@ graph [
     step 0
     date "2020-11-26T21:59:57Z"
     title "[CLOSED]. Backups and Thumbnail Open. They&#38;#39;re Only Human - Warrior Cats MAP"
-    description "In this M.A.P two cats, one of the Dark Forest and one of Starclan look over the world and the events that transpire. These two cats ..."
+    description "In this M.A.P two cats, one of the Dark Forest and one of Starclan look over the world and the events that transpire. These two cats will be you, yes you the applicant's, OCs! You must pick an event that your cats watch over and comment on.&#10;&#10;Rules/Guide: https://docs.google.com/document/d/1ybpDieHHzOpSUI2lqxVdSxaPACfRKeol2agQO-9jJrg/edit?usp=sharing&#10;&#10;Parts List:&#10;Intro - Autumn Seas&#10;Part 1 - Bramble Draws Stuff&#10;Part 2 - SaturnSkyez&#10;Part 3 - Silver Claw&#10;Part 4 - SaturnSkyez&#10;Part 5 - Feathersight&#10;Part 6 - luvgutzz&#10;Part 7 - Brook the Mudwing&#10;Part 8 -  StumpyStump&#10;Part 9 - Quietfox&#10;Part 10 - Tater Tot&#10;Part 11 - tammy&#10;Part 12 - Feathersight&#10;Part 13 - Broken&#10;Part 14 - Silver Claw&#10;Part 15 - Jaylin the Dragon + Crazy tiger Channel&#10;Part 16 - Broken&#10;&#10;The music 'They're Only Human' is from the Death Note musical and can be viewed here: https://www.youtube.com/watch?v=nrZolM3uCds&#10;&#10;#animation&#10;#warriorcats&#10;#map&#10;#multianimatorproject"
     channel_title "Autumn Seas"
     channel_id "UCPh1QK_CWS0xQG4vHR09QDQ"
     fav_count 0
@@ -5601,7 +5601,7 @@ graph [
     step 0
     date "2018-03-05T12:43:53Z"
     title "WARRIOR CATS - Bluestar and Oakheart - What about us (Nightcore)"
-    description "Playlists avec tout les artistes: https://www.youtube.com/playlist?list=PLWWe1-13D5Xa_xFIUOxFzGFNcvFLQEznD."
+    description "Playlists avec tout les artistes: &#10;https://www.youtube.com/playlist?list=PLWWe1-13D5Xa_xFIUOxFzGFNcvFLQEznD"
     channel_title "Plume de Glace"
     channel_id "UChYs43wq7P1K65yVVbxCKAw"
     fav_count 0
@@ -5616,7 +5616,7 @@ graph [
     step 0
     date "2017-10-09T20:25:48Z"
     title "Top Ten Most Least Mentioned Warrior Cats"
-    description "Top Ten Most Least Mentioned Warrior Cats By WarriorCat|Cloudy Hope You Enjoy :) ------------------------------------- 10. Flora in ..."
+    description "Top Ten Most Least Mentioned Warrior Cats By WarriorCat|Cloudy&#10;Hope You Enjoy :)&#10;&#10;-------------------------------------&#10;&#10;10. Flora in mentioned in Outcast and Sign of the Moon&#10;&#10;9. Brick is mentioned in The Rise of Scourge&#10;&#10;8. Twist is mentioned in Outcast&#10;&#10;7. Swift is mentioned in The First Battle&#10;&#10;6. Quickpaw is mentioned in Code of the Clans&#10;&#10;5. Driftkit is mentioned in Code of the Clans&#10;&#10;4. Fuzz is mentioned in Secrets of the Clans&#10;&#10;3. Featherwing is mentioned in Battles of the Clans&#10;&#10;2. Fall is mentioned in Sign of the Moon&#10;&#10;1. Frosty is mentioned in Sunrise &#10;&#10;--------------------------------------&#10;&#10;DeviantArt - http://cloudycrafter.deviantart.com&#10;Fanfiction Online Account - https://www.fanfiction.net/~cloudycrafter&#10;Twitter - https://mobile.twitter.com/WarriorCatCloud&#10;PicsArt - picsart.com/cloudycrafter&#10;&#10;--------------------------------------&#10;&#10;Edited Using - iMovie For iPad &#10;Song - Never Too Late By Three Days Grace&#10;Any art in this video I do not own, they belong to their rightful owner&#10;The music in this video I do not own, this song belongs to Three Days Grace (No Copyright intended)&#10;&#10;--------------------------------------&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. I am making no profit from this video"
     channel_title "WarriorCat|Cloudy"
     channel_id "UCwBZjs2_Dx1O6R4nqsLp-Ow"
     fav_count 0
@@ -5631,7 +5631,7 @@ graph [
     step 0
     date "2021-06-10T12:00:01Z"
     title "The rabble of RiverClan || Warrior Cats: Ultimate Edition"
-    description "I swear my OCs aren't all just tabbies with leg stripes. - Music &#34;River Valley Breakdown&#34; Kevin MacLeod (incompetech.com) ..."
+    description "I swear my OCs aren't all just tabbies with leg stripes.&#10;&#10;-&#10;&#10;Music&#10;&#34;River Valley Breakdown&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "AbbyInc"
     channel_id "UCG-J5_MzXhNC7G9wCDF7uPA"
     fav_count 0
@@ -5646,7 +5646,7 @@ graph [
     step 0
     date "2021-10-09T04:48:10Z"
     title "Making a Sunstar Warrior Cats Custom WITHOUT an LPS base!"
-    description "The first 1000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4310211 This video is ..."
+    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/pinkbunnygirl4310211&#10;This video is sponsored by Skillshare!&#10;&#10;&#10;&#10;Tomorrow's prompt is: Becoming a Kittypet&#10;&#10;&#10;Join my Amino: Pinkbunnygirl43 Official Amino!&#10;Link to my Amino: http://aminoapps.com/p/62ysdo&#10;Take part in Pinktober with #Pinktober2021&#10;&#10;...&#10;&#10;Check out our Etsy shop!&#10;https://etsy.me/3xYROVm&#10;&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -5661,7 +5661,7 @@ graph [
     step 0
     date "2021-12-23T02:54:29Z"
     title "6 NEW SKIN IDEAS! || No Gamepass || &#128049; ||Warrior Cats: Ultimate Edition"
-    description "Hi Sunnies! Today, I show you guys 6 new skin ideas in Warrior Cats Ultimate Edition! You are free to use these models in any ..."
+    description "Hi Sunnies! Today, I show you guys 6 new skin ideas in Warrior Cats Ultimate Edition! You are free to use these models in any way! Anyways, how are you guys?! How is school? I cannot believe that in a few days its CHRISTMAS! The year 2021 is going by so fast omg! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;~TIMESTAMPS~&#10;00:00 Intro&#10;00:30 Skin 1&#10;03:46 Skin 2&#10;04:36 Skin 3&#10;05:03 Skin 4&#10;08:10 Skin 5&#10;09:37 Skin 6&#10;11:05 Outro&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -5676,7 +5676,7 @@ graph [
     step 0
     date "2021-02-11T22:00:07Z"
     title "Warrior Cats Into The Wild - The Unofficial Audiobook - Prologue"
-    description "Hey everyone! I've been wanting to do this for such a long time and the time has finally come. I had so much fun working on this ..."
+    description "Hey everyone!&#10;I've been wanting to do this for such a long time and the time has finally come. I had so much fun working on this and testing my skills as not only a voice actor, but an audio and video editor too.&#10;I'd like to thank every single person who has helped bring this to life!&#10;Thank you all for watching and I hope you enjoy.&#10;&#10;Would you like to audition for a future character? Check out the casting call!&#10;https://www.castingcall.club/projects/warrior-cats-into-the-wild-the-unofficial-audiobook&#10;&#10;-&#10;&#10;Cast&#10;Narrator &#38; Bluestar - Tara Prentice (Moonfrost18)&#10;https://www.youtube.com/user/Moonfrost18&#10;https://twitter.com/TaraPrentice18&#10;&#10;Tigerclaw - Martin Beadle&#10;https://www.instagram.com/martinbeadlevoiceovers/&#10;&#10;Oakheart - 2 Lainz&#10;https://www.youtube.com/c/2lainz&#10;&#10;Redtail - Riptide Smith&#10;https://www.youtube.com/c/RiptideSmith&#10;&#10;Extra - Quietbeam&#10;&#10;Spottedleaf - Selina&#10;https://www.youtube.com/c/Selina95&#10;&#10;-&#10;&#10;&#10;Audio and video edited by Tara Prentice (Moonfrost18)&#10;https://www.youtube.com/user/Moonfrost18&#10;https://twitter.com/TaraPrentice18&#10;&#10;Scenery art by Sages&#10;https://www.youtube.com/user/roscoeandmila&#10;&#10;Ambiance and sound effects from https://freesound.org/&#10;&#10;-&#10;&#10;All rights to Warrior Cats belong to Erin Hunter and HarperCollins."
     channel_title "Moonfrost18"
     channel_id "UC9BiSSgQjmtWuVmI6DkZBDg"
     fav_count 0
@@ -5691,7 +5691,7 @@ graph [
     step 0
     date "2021-09-21T17:39:51Z"
     title "Warrior cats ultimate edition tiktoks (roblox)"
-    description "The owners of these tik toks are on the screen."
+    description "The owners of these tik toks are on the screen. &#128158;"
     channel_title "ZeeNee"
     channel_id "UCiRC2LvqiRkl2bT874r_BGw"
     fav_count 0
@@ -5706,7 +5706,7 @@ graph [
     step 0
     date "2017-08-12T14:00:00Z"
     title "ONE LIFE - Firestar: Day 13 - Warrior Cats Speedpaint/Theory"
-    description "13+ Content Disclaimer: The use of digital artwork in my speedpaints is simply a creative choice to tell a story and give a visual for ..."
+    description "13+ Content Disclaimer: The use of digital artwork in my speedpaints is simply a creative choice to tell a story and give a visual for a scene, and not intended to attract young viewers. This video is an analysis of a YA book that shows violence, gore, and characters in situations of distress. And giving my thoughts and opinions and theories behind the writing. Viewer discretion is advised. Anyways, I&#8217;d love to hear in the comments section down below what you think of what Firestar said and his willingness to risk all of his lives for his Clan."
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -5721,7 +5721,7 @@ graph [
     step 0
     date "2022-04-19T20:37:21Z"
     title "Got Bullied At A Magic School Rp On Warrior Cats Ultimate Edition"
-    description "Got Bullied At A Magic School Rp On Warrior Cats Ultimate Edition Hair'Ball Has Joined The Magic School, To Show Off His ..."
+    description "Got Bullied At A Magic School Rp On Warrior Cats Ultimate Edition&#10;&#10;Hair'Ball Has Joined The Magic School, To Show Off His Power. But before then, he has to struggle threw some stuff. &#10;&#10;I hope you enjoy the video :)&#10;&#10;&#10;Outro Song:&#10;&#9834; Branch (Prod. by Lukrembo)&#10;Link : https://youtu.be/xPOy2pkImiU&#10;&#10;#Roblox"
     channel_title "EHairBall"
     channel_id "UC3YcOV-nnA-KLRdBm5ivVrA"
     fav_count 0
@@ -5736,7 +5736,7 @@ graph [
     step 0
     date "2021-07-29T23:42:31Z"
     title "My Little Brother Plays Warrior Cats Ultimate Edition..."
-    description "Hey Sunnies! Make sure you guys like the video and subscribe for more! Today, my brother plays Warrior Cats Ultimate Edition!"
+    description "Hey Sunnies! Make sure you guys like the video and subscribe for more! Today, my brother plays Warrior Cats Ultimate Edition! Lol, it was so funny watching him! I hope you guys enjoyed this video! Comment if you want my brother to play any more games! And make sure you guys join the SunnyDusty official Discord! You get notified when I post, do giveaways, do events, do live streams, when I'm playing Roblox, etc! Links are right below this message and in the comments! Have a wonderful day!&#10;&#10;Discord: &#8203;https://discord.gg/xPcXe6AKJT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;&#10;Username: SunnyDusty&#10;Game: Roblox, Warrior Cats: Ultimate Edition"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -5766,7 +5766,7 @@ graph [
     step 0
     date "2021-06-26T21:19:11Z"
     title "I Became A Clan Leader On Roblox Warrior Cats Ultimate Edition"
-    description "Sorry For the uploads I've took a few Day brake to hang out with my irl Friends BUT i'm back :) The game: ..."
+    description "Sorry For the uploads I've took a few Day brake to hang out with my irl Friends BUT i'm back :)&#10;&#10;The game:&#10;(https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition?)&#10;&#10;#Roblox"
     channel_title "EHairBall"
     channel_id "UC3YcOV-nnA-KLRdBm5ivVrA"
     fav_count 0
@@ -5781,7 +5781,7 @@ graph [
     step 0
     date "2022-02-15T09:02:15Z"
     title "Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022 - Warrior Cats Codes"
-    description "Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022 - Warrior Cats Codes Keywords --- warrior cats,warrior cats ultimate ..."
+    description "Warrior Cats Codes 2022 - Roblox Warrior Cats Codes 2022 - Warrior Cats Codes&#10;&#10;Keywords ---&#10;warrior cats,warrior cats ultimate edition,roblox warrior cats ultimate edition,roblox warrior cats,warrior cats ultimate edition roblox,warrior cats roblox,warrior cats ultimate edition codes,codes for warrior cats,roblox warrior cats codes,codes for warrior cats ultimate edition 2022,wcue codes 2022,warrior cat codes,warrior cats ultimate edition roblox codes,warrior cat codes 2022,warrior cats codes roblox 2022,roblox warrior cats ultimate,wcue codes"
     channel_title "Papa-Helper"
     channel_id "UCDmGZfDe-OE_1kKa2uaOHnA"
     fav_count 0
@@ -5796,7 +5796,7 @@ graph [
     step 0
     date "2022-06-06T23:44:43Z"
     title "HOW TO GET THE SECRET ITEMS PT1.//NO GAMEPASSES\\ //Warrior cats edition\\\"
-    description "MAKE SURE TO HIT THE SUBSCRIBE BUTTEN, AND LIKE."
+    description "MAKE SURE TO HIT THE SUBSCRIBE BUTTEN, AND LIKE"
     channel_title "Meepcity Hacks Ideas"
     channel_id "UCxmEbkspEUVyPgo_3EO7FYw"
     fav_count 0
@@ -5811,7 +5811,7 @@ graph [
     step 0
     date "2022-06-19T20:36:55Z"
     title "There Are HOW Many Warrior Cats Books?! &#128049; Warrior Cats Re-Read-a-Thon Begins!!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob Warrior ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#128049; Warrior Cat: Kitten Spin-Off Series!! &#8226; https://bit.ly/warriorcatkittens&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#warriorcatsbook&#10;#warriorcats #seripixelbiologist"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -5826,7 +5826,7 @@ graph [
     step 0
     date "2022-01-30T22:18:23Z"
     title "SOMEBODY TO LOVE | Warrior Cats MAP Part 25"
-    description "Like my work? Consider supporting my Patreon! https://www.patreon.com/roseshards Another MAP (multi animator project) part, ..."
+    description "Like my work? Consider supporting my Patreon! https://www.patreon.com/roseshards&#10;&#10;Another MAP (multi animator project) part, but this one's actually a remake of my original part from 2018... from nearly 4 years ago! I had no plans to redo this but when I saw that the MAP was going to be released this February I thought about it and decided it could be cool to see how much my work has changed! This is my first time actually redoing a MAP part, and funnily enough the original part was the first animation I ever made with Toonboom Harmony. I had a ton of fun with this and I honestly improved more than I thought I did, kind of has me tempted to remake some more of my old animations......&#10;&#10;Watch the part by itself: https://www.youtube.com/watch?v=XpojNqUsMSE&#10;&#10;The original part: https://www.youtube.com/watch?v=IP5M-s3UR_U&#38;ab_channel=roseshards&#10;&#10;MAP CALL: https://www.youtube.com/watch?v=jcg_c8Z_cY8&#38;ab_channel=QuillWorks&#10;&#10;SONGS: Glee - Somebody to love, Geographer - Weirder Stuff&#10;&#10;PROGRAMS USED: Toon Boom Harmony Advanced (animation), Photoshop (backgrounds), After Effects (editing)&#10;&#10;Email for business inquiries: chloeperrinart@gmail.com&#10;Website: https://www.chloeperrin.com/&#10;Redbubble/merch: https://www.redbubble.com/people/roseshards/&#10;DeviantArt: https://www.deviantart.com/roseshards/&#10;Instagram: https://www.instagram.com/roseshards/&#10;Tumblr: https://warriorcatsdatabase.tumblr.com/&#10;Twitter: https://twitter.com/roseshards"
     channel_title "roseshards"
     channel_id "UCYU03u7TFDl68NNXf2u8lzQ"
     fav_count 0
@@ -5841,7 +5841,7 @@ graph [
     step 0
     date "2020-12-26T02:00:24Z"
     title "I&#38;#39;LL SLEEP WHEN I&#38;#39;M DEAD || COMPLETE WARRIOR CATS HORROR AU MAP"
-    description "2ND EDIT: BRO 2.3K STOP VIEWING THIS I SWEAR IM EDIT: THIS WAS AT 500 YESTERDAY NOW ALMOST 1000? EXCUSE ..."
+    description "2ND EDIT: BRO 2.3K STOP VIEWING THIS I SWEAR IM&#10;EDIT: THIS WAS AT 500 YESTERDAY NOW ALMOST 1000? EXCUSE ME WHAT :0&#10;&#10;ITS FINALLY HERE!! MERRY CHRISTMAS TO ALL, I KNOW THIS IS REALLY LATE AT NIGHT BUT HEY ITS STILL THE 25TH FOR ME! BETTER NOW THAN NEVER RIGHT?&#10;THANK YOU SO MUCH SWEETFROST AND RAZMERRY FOR LETTING ME HOST THIS ON YOUR WONDERFUL AU!! :')&#10;&#10;All screaming aside, here's the participant list!! Sorry In Advance was kicked for not finishing on time lol.&#10;&#10;_PARTS_&#10;&#10;0:00 Extra intro. Me&#10;0:16 Intro. Gizmew&#10;0:27 Part 1. Grace Phillips Studios + Non Nymph&#10;0:39 Part 2. FuntimeX XWarrior&#10;0:50 Part 3. Anna Elizabeth Velazquez&#10;1:01 Part 4. BitterCyder&#10;1:16 Part 5. Vordella&#10;1:27 Part 6. Bandiberry&#10;1:38 Part 7. Shadowclaw Products&#10;1:50 Part 8. Nightfang the Frankenpuppy&#10;2:02 Part 9. Breeze Brat Studios&#10;2:12 Part 10. Project BadLands&#10;2:24 Part 11. The Scarry Gang&#10;2:35 Part 12. Talonkit&#10;2:45 Part 13. Blue Forest&#10;2:58 Part 14. Anna Elizabeth Velazquez&#10;3:09 Part 15. Hawkfrost + Cloudyfish&#10;3:20 Part 16. Me (FIRECLAWZ)&#10;3:29 Outro. Cocothecatlife&#10;&#10;3:40 Credits&#10;5:00 Vines bc why not&#10;&#10;A HUGE THANK YOU TO ALL THE SUPPORTERS AND VIEWERS WHO HELPED MAKED THIS VIDEO POSSIBLE. CONSIDER SUBSCRIBING IF YOU LIKE MY CONTENT! IT MEANS A LOT TO ME :)&#10;THUMBNAIL IS BY DIGER!!! THEIR YOUTUBE IS Diger gol, GO CHECK THEM OUT!!&#10;&#10;Song: I'll Sleep When I'm Dead - Set It Off&#10;I do not claim the song in any way, nor am I being monetized for it!! It is not mine!! It's theirs!"
     channel_title "FIRECLAWZ"
     channel_id "UCQVS4c3XbonMU095Bw4hKyQ"
     fav_count 0
@@ -5856,7 +5856,7 @@ graph [
     step 0
     date "2022-05-13T02:22:16Z"
     title "The Adventures of SilverMist ~ WCUE ROLEPLAY! |Warrior Cats: Ultimate Edition"
-    description "Hi Sunnies! I roleplay once again (even though I have terrible rping skills) xDD !! Today I take yall through the adventure of ..."
+    description "Hi Sunnies! I roleplay once again (even though I have terrible rping skills) xDD !! Today I take yall through the adventure of SilverMist, my new OC!! Make sure to watch through the whole video for shout outs and lots of fun! Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!)   Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10; &#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;WCUE Discord Server: https://discord.gg/WkDbnzA4hT&#10;WCUE Tiktok: https://www.tiktok.com/@warrior.cats.ue&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #WCUE #Roleplay"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -5871,7 +5871,7 @@ graph [
     step 0
     date "2018-01-05T06:30:01Z"
     title "Warrior Cats - The Ultimate Animash"
-    description "Here it is the one and only biggest Animash enjoy! I do not own any of these animations all the links are down below! So go check ..."
+    description "Here it is the one and only biggest Animash enjoy! &#10;I do not own any of these animations all the links are down below!&#10;So go check these amazing animators out&#10;&#10;All the clips (not in order)&#10;https://www.youtube.com/watch?v=tU6fWT5o3aw&#10;https://www.youtube.com/watch?v=M0st7n4h0uc&#10;https://www.youtube.com/watch?v=or6UNpzVWrU&#10;https://www.youtube.com/watch?v=eBa0G1R0Gng&#10;https://www.youtube.com/watch?v=zkghebrG7xI&#10;https://www.youtube.com/watch?v=ot-x9FeFSfU&#10;https://www.youtube.com/watch?v=vwdF2ar6NCk&#10;https://www.youtube.com/watch?v=RYxXeMftfJk&#10;https://www.youtube.com/watch?v=qM3Q5hHQHns&#10;https://www.youtube.com/watch?v=kFR6gN8uoh0&#10;https://www.youtube.com/watch?v=_hv_nxPuhNE&#10;https://www.youtube.com/watch?v=7tXOBA7AR6s&#10;https://www.youtube.com/watch?v=qC-ZzdcRdf8&#10;https://www.youtube.com/watch?v=qNuzOKGNLnA&#10;https://www.youtube.com/watch?v=kLCoEY4dwzs&#10;https://www.youtube.com/watch?v=FZQI2iwHE4A&#10;https://www.youtube.com/watch?v=6Gh3HTh4JfA&#10;https://www.youtube.com/watch?v=u3PQgktNiYw&#10;https://www.youtube.com/watch?v=ByMC7V9Fimk&#10;https://www.youtube.com/watch?v=XZlVSnpGk0w&#10;https://www.youtube.com/watch?v=hfc68ZK1OjM&#10;https://www.youtube.com/watch?v=_9nGUPncXO8&#10;https://www.youtube.com/watch?v=KM32G7okhDY&#10;https://www.youtube.com/watch?v=6phaUFc8SJ0&#10;https://www.youtube.com/watch?v=opidsbQbQXQ&#10;https://www.youtube.com/watch?v=GP6d-xu5Xjo&#10;https://www.youtube.com/watch?v=CbpGozk42BA&#10;https://www.youtube.com/watch?v=H5mcEuLzLTs&#10;https://www.youtube.com/watch?v=WTB-QZaG1wk&#38;list=PLTrQ78YqMoBkM5-nTpq8MCir-m012rQPW&#38;index=6&#10;https://www.youtube.com/watch?v=F5n8FAAs-8o&#38;list=PLTrQ78YqMoBkM5-nTpq8MCir-m012rQPW&#38;index=7&#10;https://www.youtube.com/watch?v=5z0L40qhICA&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=4&#10;https://www.youtube.com/watch?v=aZYi7A6VUgs&#38;index=5&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=n7AhJZXHuL4&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=8&#10;https://www.youtube.com/watch?v=AzrjlrDGWUQ&#38;index=11&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=GUe_XZws_E0&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=13&#10;https://www.youtube.com/watch?v=GzNGtFokmik&#38;index=18&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=M3Ugq_shDKo&#38;index=23&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=tByYrdG6IS8&#38;index=26&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=PNSK7-aRz1I&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=27&#10;https://www.youtube.com/watch?v=CWAYKJjM0ZA&#38;index=34&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=LxJQewiCjLY&#38;index=36&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=gvowX6k0M8M&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=39&#10;https://www.youtube.com/watch?v=BIBkZZbXKpY&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=40&#10;https://www.youtube.com/watch?v=LrbrO4gfypI&#38;index=43&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=xC0hkDFVG-A&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=46&#10;https://www.youtube.com/watch?v=em2x13wxyZY&#38;index=48&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=-qiIwGlCWrU&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=49&#10;https://www.youtube.com/watch?v=YQbNQIT1TWQ&#38;index=50&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=8rPk29CkazQ&#38;index=51&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=1KPxN9u7VVc&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=53&#10;https://www.youtube.com/watch?v=58K4HLELjUE&#38;index=55&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#10;https://www.youtube.com/watch?v=kKTaz01h0lA&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=56&#10;https://www.youtube.com/watch?v=Mco5RmIsKnc&#38;list=PL7ZlHx_f3soPcC3FrbHBc3Z9QAOllv4Tg&#38;index=60&#10;https://www.youtube.com/watch?v=7TuaChmMqJg&#38;list=PLTV0tszwP3riFy3ujs6Xe-Btugwl6NMHD&#38;index=4&#10;https://www.youtube.com/watch?v=b3r4x8uclII&#38;list=PLTV0tszwP3riFy3ujs6Xe-Btugwl6NMHD&#38;index=5&#10;https://www.youtube.com/watch?v=2qDtaEh2rg8&#38;list=PLTV0tszwP3riFy3ujs6Xe-Btugwl6NMHD&#38;index=7&#10;https://www.youtube.com/watch?v=pm9qge2lrOY&#38;index=9&#38;list=PLTV0tszwP3riFy3ujs6Xe-Btugwl6NMHD&#10;https://www.youtube.com/watch?v=FeriDDlNCFo&#10;https://www.youtube.com/watch?v=94JqE9v-6mg&#10;https://www.youtube.com/watch?v=H4Y8DoZv4B8&#10;https://www.youtube.com/watch?v=fmM0dL7s75A&#10;No One has the right to copy any of my videos without permission (c)&#10;All rights are reserved to the original owners&#10;&#10;-----------------------------------------------------------------------------------------------------------&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance"
     channel_title "LemonKat"
     channel_id "UCksSy29aS40Vv5_3u_frwzw"
     fav_count 0
@@ -5886,7 +5886,7 @@ graph [
     step 0
     date "2021-12-30T16:27:27Z"
     title "How I think warrior cats would sound &#128049;"
-    description "Firestar #Bluestar #Brokenstar #brokentail #Sandstorm #Graystripe #Jayfeather #warriors #Warriorcats #art #2021 ..."
+    description "#Firestar #Bluestar #Brokenstar #brokentail #Sandstorm #Graystripe #Jayfeather #warriors #Warriorcats #art #2021 &#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;Art is not mine, I got it all from Google."
     channel_title "Logfur &#129717;"
     channel_id "UCV9sxRz3itRYLwTBshFyLmA"
     fav_count 0
@@ -5901,7 +5901,7 @@ graph [
     step 0
     date "2008-09-08T15:27:57Z"
     title "Warrior cats intro - fan animation by SSS"
-    description "original story, narrative idea, characters belong to novel Warrior cats into the wild, official website: ..."
+    description "original story, narrative idea, characters belong to novel Warrior cats into the wild, official website:&#10;http://www.warriorcats.com/warriorshell.html&#10;&#10;Truelight (theme for DNAngel) &#10;&#10;Uncolored work in progress version - http://uk.youtube.com/watch?v=TTl_3bTqMxY&#10;&#10;HQ test - http://www.youtube.com/watch?v=vmzZN-MWiMU&#38;lc=LnO1HvUCykYXFfzeDhEr80&#10;&#10;some friends asked me what programs i used, I might just answer it here:&#10;The animation is created with graphic tablet drawn straight into Flash (8), layout is done in Photoshop, additional effect (lens flare) is added in After Effect, and finally export from Windows movie maker just to make the animation small and easy for submission. the whole process is done in my 5 and half years old pc ^_o i'm somehow proud of its age and loyalty.&#10;&#10;The reason I use Flash is because I don't have light box and enough paper, scanner at home, Flash is time saving way to make animation myself with few other friends.&#10;&#10;Ps. Flash is a program for creating web animation, interactive things and websites, motion graphic, usually use with Illustrator and other vector programs. FBF animator like me only used 5% features of Flash.&#10;&#10;&#10;as Rosi suggested, I created this new account only for our Warrior cat_into the wild animations.&#10;&#10;The account will be decorated soon.&#10;&#10;I know spotted leaf isn't white, but somehow me and Rosi imaged her a white cat before realizing that she isnt. ^^ll I think I'll keep her white in these animations.&#10;&#10;This is my first time shading my animation, and first attempt to animate cats fighting, there are still a lot need to improve in my future works.&#10;&#10;subtitle will be both English and Chinese, voice will be English.&#10;&#10;Directed by me (Yuji/badasi) and Rosi, Animation assistant Zing. I'll make a list of audicians once the 1st episode is finished."
     channel_title "SSS Warrior Cats"
     channel_id "UCI7G8bfrCsV9A52JQWJEpKw"
     fav_count 0
@@ -5916,7 +5916,7 @@ graph [
     step 0
     date "2022-07-06T11:23:49Z"
     title "Warrior Cats Clan Generator Challenge"
-    description "I hope you enjoyed, let me know if I should add a voice to read the text for part 2. please do not trace, repost or claim my art as ..."
+    description "I hope you enjoyed, let me know if I should add a voice to read the text for part 2.&#10;&#10;please do not trace, repost or claim my art as your own. &#10;&#10;I am open for commissions! dm -Fox#4804 on discord for more info (robux comms) &#10;I have a tiktok! https://www.tiktok.com/@lil.marzipan?is_from_webapp=1&#38;sender_device=pc&#10;&#10;join my WCUE film crew : https://discord.gg/Yna8h6nj7R&#10;&#10;original : https://youtu.be/rBG_QWLdjXU&#10;&#10;music : https://youtu.be/XIhyti2Qa74"
     channel_title "lil mArzipan &#9734;"
     channel_id "UCcHA-TPtqs1E8JyTgn3nCeA"
     fav_count 0
@@ -5931,7 +5931,7 @@ graph [
     step 0
     date "2021-02-23T00:45:12Z"
     title "Test New Roblox Warrior Cats: Ultimate [with me]"
-    description "The Beta game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition-BETA?"
+    description "The Beta game:&#10;https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition-BETA?refPageId=80a02c65-2c4d-46cf-98d5-7c61309d199d&#10;&#10;Game Discord: https://discord.com/invite/F3paMnD&#10;&#10;Littlesprout Discord: https://discord.gg/6pXtjEYNDY"
     channel_title "Littlesprout's Stories"
     channel_id "UCaSCdIv5TjmJVrSF_ix_NOg"
     fav_count 0
@@ -5946,7 +5946,7 @@ graph [
     step 0
     date "2022-06-17T16:00:01Z"
     title "What if JAYFEATHER x BRIARLIGHT had kittens?! &#128049;&#128149;&#128049; Warrior Cats: Kittens Spin-Offs!"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob Warrior ..."
+    description "&#128154;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#128313; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#128062; Warrior Cats: Untold Tales &#8226; http://bit.ly/warriorsuntold&#10;&#10;&#128313; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#128313; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#128313; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;We're back in the Sims 4: Cats &#38; Dogs LaBARKatory mixing and matching all manner of animals! Join Seri the Pixel Biologist as we dive into another pixel biology experiment!&#10;&#10;&#127922; Sims 4 Random Pet Genetics Challenge! &#8226; http://bit.ly/randompets&#10;&#129440; Wobbledogs &#8226; http://bit.ly/wobblepup&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#jayfeather&#10;#briarlight&#10;#warriorcats"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -5961,7 +5961,7 @@ graph [
     step 0
     date "2021-08-21T15:00:27Z"
     title "Warrior Cats in Minecraft HARDCORE SMP: Episode 1"
-    description "The start of a series! Myself and six friends play Warrior Cats characters in Hardcore Minecraft! Featuring: Aara: ..."
+    description "The start of a series! Myself and six friends play Warrior Cats characters in Hardcore Minecraft!&#10;&#10;Featuring:&#10;Aara: https://youtube.com/channel/UCEieCtaLz26NdinpLfmmU7w&#10;Kit&#10;Dune: https://www.youtube.com/channel/UC_O873goLdG_pyC3aK3hYPA/&#10;Axel: https://www.instagram.com/silverstripes_13/&#10;Snek&#10;Nemo: https://youtube.com/c/NemoIsNull&#10;&#10;Character art by Aara&#10;&#10;Series inspired by the PBG/Normalboots Hardcore series: https://www.youtube.com/playlist?list=PLfLyO15JVz1LQrxDcIqLyZchCEh_BFlnM"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -5976,7 +5976,7 @@ graph [
     step 0
     date "2020-09-16T19:00:08Z"
     title "Warrior Cats Voice Acting Bloopers Vol. 1"
-    description "Please enjoy our first ever blooper reel! More is sure to come if you guys enjoy our mess-ups! Please let us know so you can get ..."
+    description "Please enjoy our first ever blooper reel! More is sure to come if you guys enjoy our mess-ups! Please let us know so you can get more asap! I'm sorry Bluestar, most of this was about you.&#10;&#10;For updates on new episodes and artwork, follow our twitter and our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.gg/XCHEFyv&#10;&#10;Our art team is killing it with these images too:&#10;(All @'s are for twitter)&#10;&#10;@Elustraded_&#10;@lastunicorninoz&#10;@softkittiesss&#10;@SmolWolfee&#10;@Kettlings&#10;@BlizzardBrick&#10;@amanyamz&#10;@Kaseypaws&#10;@danfan332&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -6006,7 +6006,7 @@ graph [
     step 0
     date "2021-10-22T18:23:12Z"
     title "warrior cats ultimate edition glitches and how to do them"
-    description "glitch."
+    description "#glitch"
     channel_title "The c&#248;tton Tigress"
     channel_id "UCuf3Xr-tJQxHxcE_G19RbSg"
     fav_count 0
@@ -6021,7 +6021,7 @@ graph [
     step 0
     date "2021-11-06T01:08:55Z"
     title "Genetically Accurate Warrior Cats #4 - Bramblestar&#38;#39;s Family"
-    description "dont mind the slurs and stutters because i Do Not Care bramble boy!!! you either hate em or you love em and i love him for being ..."
+    description "dont mind the slurs and stutters because i Do Not Care&#10;&#10;bramble boy!!! you either hate em or you love em and i love him for being an awful person :) ...purrson?&#10;&#10;Cats in the Video:&#10;Oakstar, Sweetbriar&#10;Pinestar&#10;Frecklewish (TC), Birchface&#10;Leopardfoot, Mistkit, Nightkit&#10;Tigerclaw/star&#10;Sasha&#10;Hawkfrost, Mothwing, Tadpole&#10;Goldenflower&#10;Brambleclaw/star, Tawnypelt&#10;Squirrelflight&#10;Alderheart, Sparkpelt&#10;Dandelionkit, Juniperkit&#10;&#10;Social Media:&#10;DeviantArt: https://www.deviantart.com/digimonnerdexpress&#10;Tumblr: https://alollinglaughingcat.tumblr.com/&#10;Scratch: https://scratch.mit.edu/users/LOLLING-CAT/&#10;ArchiveOfOurOwn: https://archiveofourown.org/users/LollingCat/works"
     channel_title "LollingCatto"
     channel_id "UCD5_0jDTa-gs54p4gfn9c6g"
     fav_count 0
@@ -6036,7 +6036,7 @@ graph [
     step 0
     date "2020-10-12T08:26:24Z"
     title "Read Warrior Cats books with me!"
-    description "Together we're going to read all the Warrior Cats books in chronological order! Right now we're reading! &#8664; &#8665; Into the Wild ..."
+    description "Together we're going to read all the Warrior Cats books in chronological order!&#10;&#10;Right now we&#8217;re reading! &#10;&#8664;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#8665;&#10;Into the Wild&#10;&#8663;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#8662;&#10;&#10;You can join in the reading challenge too! &#10;&#10;Join the group chat to discuss reactions to the weekly sections of readings.&#10;http://aminoapps.com/p/jqksv3&#10;&#10;I encourage you to create artwork of scenes from the books that we read, and write fan fiction of what you think would be interesting if another path in the story was taken or a more in-depth look at a character.&#10;&#10;Use the #IntotheWild on your posts about the book! All that participate will receive 10 ac!&#10;&#10;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#10;Here&#8217;s the reading schedule to try and keep up with over the next 2 weeks!&#10;&#10;October 12th - October 17th&#10;Start - Finish&#10;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#9635;&#10;&#10;And the goal is that in 1 week we&#8217;ll have finished Into the Wild and that we can move on to Fire and Ice!&#10;&#10;I&#8217;m so excited to start reading with you all and hear your insights on Into the Wild!&#10;&#10;You can watch Into the Wild: The Movie while you read this week to compare the differences! https://youtu.be/oCYs9lnq1tE&#10;&#10;Join my Amino! https://bit.ly/2GNq0y4&#10;iOS and Google Play: https://bit.ly/2Ta75Sq&#10;&#10;...&#10;&#10;Want some real life warriors cats? Subscribe to my cats' channel! Daily cat videos!&#10;https://www.youtube.com/watch?v=6V8G47hFB6Q&#10;&#10;...&#10;&#10;13+ Content Disclaimer: Showing my cats in this video, not intended to attract young viewers."
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -6051,7 +6051,7 @@ graph [
     step 0
     date "2017-04-18T18:01:31Z"
     title "&#38;quot;What You Can&#38;#39;t See&#38;quot; Jaypaw. (ORIGINAL WARRIOR CAT SONG)"
-    description "Download on iTunes &#8594; https://goo.gl/g98eMB Download on Google Play &#8594; https://goo.gl/rjZgbZ Subscribe for more!"
+    description "&#127925;Download on iTunes &#8594; https://goo.gl/g98eMB&#10;&#127925;Download on Google Play &#8594;  https://goo.gl/rjZgbZ&#10;&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;&#10;----------&#10;&#10;&#8226;Make sure you stop by my second channel! It has animations!&#10;http://bit.ly/2nydip3&#10;&#10;&#8226;Subscribe for more!~&#10;https://www.youtube.com/subscription_center?add_user=blixemi&#10;&#10;&#8226; Follow me on Twitter!&#10;https://twitter.com/Blixemi&#10;&#10;-------&#10;&#10;||RULES||&#10;&#10;PLEASE. &#10;-Do not reupload this audio onto your channel without permission from me. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;-------&#10;&#10;||Credits||&#10;&#10;Visuals/Editing/Instrumental/Lyrics/Mixing&#10;Blixemi&#10;&#10;Art&#10;http://wehavecandy.deviantart.com/&#10;&#10;VOCALS-&#10;&#10;Jaypaw&#10;https://www.youtube.com/user/GingaJinketsuKoushi&#10;&#10;Hollypaw&#10;https://www.youtube.com/channel/UCRNhLFLoXZuIULF_2_QuGDA&#10;&#10;Lionpaw&#10;https://www.youtube.com/user/TrueRomoGuy&#10;&#10;Brambleclaw&#10;https://www.youtube.com/channel/UCoyJM83MKYIbh6LrXLAJBdg&#10;&#10;Squirrelflight&#10;https://www.youtube.com/channel/UCtAF3kBExbSrq_XsP_pGZBg&#10;&#10;Warriors&#10;Erin Hunter&#10;&#10;-------&#10;&#10;Thanks for watching!!~"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -6066,7 +6066,7 @@ graph [
     step 0
     date "2022-05-26T20:00:11Z"
     title "&#128052; BOOTS &#128052;  [ANTHRO WARRIOR CATS STORYBOARD MAP ] {CLOSED} {Done 46/60}"
-    description "Super happy to be hosting this with my good friend @crowla ! We're finally putting this out a little over a year after we started work ..."
+    description "Super happy to be hosting this with my good friend @crowla ! We're finally putting this out a little over a year after we started work on it. I know it's niche, but I hope you enjoy this blend of Warriors and horses as much as we've enjoyed putting it together.  &#10;&#10;Resources and script: https://drive.google.com/drive/folders/1ZtZsM2g0CIyhyPuDmnLvVwSGoc3hJsfw?usp=sharing&#10;&#10;Application link: https://forms.gle/CDLgbvYJ68ER9Vrj9&#10;&#10;Discord (participants only): https://discord.gg/KXSa6VA7kT&#10;&#10;Playlist: https://www.youtube.com/playlist?list=PL28BYhvdH36aVrmS9m3nsd63WT3kVKNn5&#10;&#10;Fantastic call art by Naga. Thanks so much!&#10;&#10;Summary: Hoping to win money at the upcoming fair, Dark hires a barrel racing instructor for his wife, Sleek, and niece-turned-adoptive-daughter, Violet. Sleek and Violet don't know each other very well yet, and the lesson becomes awkward when Sleek tries to show off and fails.&#10;&#10;At home, Violet feels like she's see-through. Dark is only interested in his own stuff and Sleek is always preoccupied by her floundering marriage. Their barrels instructor, Needle, works to bring Sleek and Violet out of their shells. It takes time for Sleek to warm up, but she eventually finds she really enjoys spending time with Needle; and as she gets to know Violet better, Sleek and her feel they're on the same team and start to look out for each other. &#10;&#10;Sleek and Violet realize they are happier apart from Dark and seek support from Needle, who picks them up and lets them stay at her house to get some distance and clear their heads before the fair the next day. At the fair, Dark is annoyed that Sleek ignored him all day, and that she won't be competing after he paid for her lessons. He's further disappointed when Violet places 7th, meaning he gets no return on his investment.&#10;&#10;Sleek forces Dark to see how his negativity is bringing down Violet, who loved competing even though she didn't place. Dark can see this, but his pride won't let him try to fix the situation. He would rather leave. Sleek, Needle, and Violet decide to forget him and have a great night at the fair.&#10;&#10;PARTS:&#10;1: Solstrike &#127942;&#10;2: Gildedware &#127942;&#10;3: MissEus &#127942;&#10;4: reverieprince &#127942;&#10;5: Snowly Iika  &#38; Autumn Lynx &#38; Outter &#127942;&#10;6: Basil Kat &#127942;&#10;7: Lunala&#8217;s Mask&#10;8: Dreamt Dog &#127942;&#10; 9: Nekoshiba &#38; qutens &#127942;&#10;10: CatzGam3rz &#127942;&#10;11: Avazorous &#127942;&#10;12: Petalyxz&#10;13: softmio &#127942;&#10;14: 0RE00NA &#127942;&#10;15: Huiti&#232;mechat&#10;16: Loporidae &#38; Kovuren &#127942;&#10;17: Moonless Night &#127942;&#10;18: cinnabarlab &#127942;&#10;19: VYZEE &#127942;&#10;20: Lo_p_art &#127942;&#10;21: EdgyPotatt &#127942;&#10;22: Toon tall buggy &#127942;&#10;23: wimfei&#10;24: Eevee Edits &#38; muckrooms&#10;25: Toon Stomp &#127942;&#10;26: Sparkane_Arts &#127942;&#10;27: Polygonayall &#127942;&#10;28: RachelAlexanDraws &#127942;&#10;29: Jackie_Mae &#127942;&#10;30: OFUKITTY &#38; araxie&#10;31: Mozzigator &#127942;&#10;32: AvorenGryphon &#127942;&#10;33: RoonieArts &#127942;&#10;34: Essyu&#10;35: Vesthi Art &#127942;&#10;36: TheWisestDino &#127942;&#10;37: pokefan1241 &#127942;&#10;38: Kuuttituutti &#127942;&#10;39: Sparroet &#127942;&#10;40: Jaytail &#38; DuskF &#127942;&#10;41: MissJackieArt&#10;42: Zachybutt&#10;43: equustigris &#127942;&#10;44: Llriftenn &#127942;&#10;45: Helianthanas &#38; Mephitis &#127942;&#10;46: DarkGalaxyHero &#127942;&#10;47: Pfini Productions &#127942;&#10;48: astrocynical &#127942;&#10;49: Friedphesh &#127942;&#10;50: Valper Kmasten&#10;51: LunarCreations &#127942;&#10;52: anonx &#127942;&#10;53: &#8226; more than u can chew &#8226;&#10;54: Dustary &#127942;&#10;55: ZephyzWorld &#38; CrimsonCoyote &#127942;&#10;56: SuperSody&#10;57: Dragon paint &#127942;&#10;58: Crabmeat &#127942;&#10;59: TinyWiny&#10;60: SplashDreamms &#127942;&#10;&#10;&#10;Song: Nancy Sinatra - These Boots Are Made for Walking&#10;https://www.youtube.com/watch?v=GX8JaQ65D20&#38;ab_channel=hleb4"
     channel_title "Loporidae"
     channel_id "UCT4QGsSKLFKtR4yH6qzUxUg"
     fav_count 0
@@ -6081,7 +6081,7 @@ graph [
     step 0
     date "2021-04-18T14:00:14Z"
     title "The Chase is On! - COMPLETED Warrior Cats MAP"
-    description "after four long months....it is complete!!! everyone worked so hard on their parts, and editing the credits took me a while!!! one thing ..."
+    description "after four long months....it is complete!!! &#10;everyone worked so hard on their parts, and editing the credits took me a while!!! one thing i know is that ill never draw the entire participant list again :,D&#10;thank you to everyone who submitted a thumbnail as well! i wanted to include everyone, even if the size of the image was incorrect. reminder to always check your dimensions!! and congrats to Taylor White for winning the contest!! choosing between so many awesome artists was tuff, even harder than editing the entire thing, whew. make sure to check out some of these artist's socials!&#10;&#10;PARTS:&#10;1.) *MoodleDoodle &#10;2.) *Marinin&#10;3.) *Mozziiemilk &#10;4.) *Phantomsylveon &#10;5.) *SedatedDreams &#10;6.) *catgrumpy &#10;7.) *Grimtomes &#10;8.) *Lady Callow + NymphiaX &#10;9.) *Yu7y &#10;10.) *Moonkitti &#10;11.) *Aviator Zoroark &#10;12.) *Shummy&#10;13.) *dragonlovertori &#10;14.) *Kimi Cook &#10;15.) *CrystalColors + *PretzelPrince&#10;16.) *bleachwaffle&#10;17.) *CryptidBunny &#10;18.) *NymphiaX &#10;19.) *sparklejawz &#10;&#10;INDIVIDUAL PARTS:&#10;https://www.youtube.com/playlist?list=PLy5dCyOjGkd45xFednc_VuBwINxGYMkjj&#10;THUMBNAIL WINNER:&#10;https://celestialtabris.com/&#10;SCRIPT: &#10;https://www.youtube.com/redirect?event=video_description&#38;redir_token=QUFFLUhqbDlUWjBCaFRuVXpkbEU1bS1nUmlXU01STVA5UXxBQ3Jtc0ttY01LdWFPZXUzT0NaQi1HVnQ5OFpRTU0xR1J2YVpKbHBudHYzWkNINk1zN1p5ZHVhMnVvaDFDb1BFSjQxblFFa0FRbDFKbXdLVEpORUtFRFJ6QktyZ1NuYmpsWXQ1SC1SYkxQbldLWi1va0czNDBqWQ&#38;q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1Uq1ctcui1Uh9QYzVxDN8E_a9WF0PQ8Q_GRf5Nqq0CRk%2Fedit%3Fusp%3Dsharing&#10;MAP CALL: https://www.youtube.com/watch?v=QJEeczSzIMs"
     channel_title "Shummy"
     channel_id "UCgBfEXTGABzSyQD4t935YLQ"
     fav_count 0
@@ -6096,7 +6096,7 @@ graph [
     step 0
     date "2021-07-19T16:00:13Z"
     title "Remember Me | OG Trio Tribute | Warrior Cats AMV ANIMATIC"
-    description "My PATREON: https://www.patreon.com/arven Your support helps me create more content like this! Thank you!"
+    description "My PATREON: https://www.patreon.com/arven&#10;Your support helps me create more content like this! Thank you! :D&#10;&#10;My INSTAGRAM: https://www.instagram.com/panthera.arven/?hl=it&#10;&#10;My TWITTER: https://twitter.com/Panthera_Arven&#10;_____&#10;&#10;EDIT: *SPOILERS FOR ALITM I GUESS??? I posted this animatic three months ago, before the book released, and my former headcanon is suddenly just... canon? xD OKAYYYY&#10;&#10;IT'S DONEEEEE!!&#10;After days and days of work, I can finally publish this!&#10;&#10;This animatic was inspired by the many Warrior cats-themed MAPs from the latest years. I've always wanted to make my own but I suck at animating. I still hope that you enjoy this little tribute to a series that made my childhood :)&#10;&#10;As much as I would absolutely love to actually turn this into a full on animation, I unfortunately lack the skills and the means to.&#10;But if any of you are interested, I would love to be able to turn this into a MAP! Would anyone be up to it? :) It would be my first time hosting it, so if anyone who's done MAPs before has any advice/would like to help along, let's get in touch ^_^&#10;&#10;I hope you enjoy this! If you do, feel free to comment what your favorite part of this was!&#10;_____&#10;&#10;-Audio: &#34;Remember Me&#34;, from Pixar's &#34;Coco&#34;, copyright to Disney Animation&#10;-AMAZING cover by the talented Caleb Hyles! https://youtu.be/Y2pVetbsK8g&#10;-&#34;Warriors&#34;, &#38; Characters (c) Erin Hunter&#10;-Time taken: 20 days&#10;-Frames drawn in Adobe Photoshop CS6, assembled on Sony Vegas Pro&#10;&#10;#warriorcats #warriors #erinhunter #animatic #animation #animationwip #amv #amvanimatic #warriorcatsanimation #warriorcatsanimatic #rememberme #coco #pixarcoco #calebhyles"
     channel_title "Panthera Arven"
     channel_id "UCb2vlnxdZkUyWSO36JqhYHg"
     fav_count 0
@@ -6111,7 +6111,7 @@ graph [
     step 0
     date "2019-02-11T21:04:00Z"
     title "Warrior Cats Animated Into The Wild: Episode 6 (I&#38;#39;m Not Scared) SEASON FINALE"
-    description "Warning, Lots of cursing and lots of blood) Based on the Warriors novels by Erin Hunter WOW 1YR OLD they grow up so fast, lets ..."
+    description "(Warning, Lots of cursing and lots of blood)&#10;Based on the Warriors novels by Erin Hunter&#10;&#10;WOW 1YR OLD they grow up so fast, lets hope we can finish this series before its 50yrs old ;)&#10;&#10;&#10;BUTBUTBUT this took longer cause of holidays and flus and lots of inconveniences , but its out now and i'm happy, i got this big ugly cold sore, i dunno if it was stress or what, BUT i look forward to relaxing a bit, maybe play sum vidya games&#10;&#10;WCA tumblr: https://www.tumblr.com/blog/warriorcatsanimated&#10;BokBokChoy twitter: https://twitter.com/?lang=en&#10;&#10;Rory- http://sillystrung.tumblr.com/ (Also animated it)&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?h...&#10;And also animated by-&#10;Elliot - https://www.youtube.com/channel/UCtui...&#10;New Voices-&#10;Taylor https://www.youtube.com/user/TaylorTe...&#10;Madeline - https://twitter.com/faeryxoxo&#10;&#10;Rory- Smudge, Graypaw, Ravenpaw, Runningwind, Longtail, Smallear, Brindleface, Boulder, Brownpaw.&#10;Fritz- Firepaw, Tigerclaw, Whitestorm, Lionheart, Sandpaw, Yellowfang, Brokenstar, Darkstripe, Blackfoot, Susanne, Barley, Nightpelt&#10;Lillian- Bluestar, Mousefur, Spottedleaf, Speckletail, Willowpelt, Littlepaw&#10;Elliot- Runningnose, Crookedstar, Crowfur, Thornclaw.&#10;Moms- Frostfur&#10;Pops- Mudfur, Patchpelt&#10;Madeline- One-eye&#10;Taylor- Goldenflower&#10;Navgate- Halftail&#10;&#10;(music used)&#10;1940's slow dance (sting) (doug maxwell/media right productions)&#10;Super Blues (Unicorn Heads)&#10;Fast Talkin &#10;Fast Talkin by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100590&#10;Artist: http://incompetech.com/&#10;Accordion (Andrew Huang)&#10;intimate tango (doug maxwell/media right productions)&#10;fortunate note (silent partner)&#10;minor mush (john deley and the 41 players)&#10;paint ball theme (bird creek)&#10;pitch (lish grooves)&#10;et voila (Chris Haugen)&#10;jazz piano bar (doug maxwell/media right productions)&#10;Friday Morning by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100224&#10;Artist: http://incompetech.com/&#10;Bet on it (silent partner)"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -6126,7 +6126,7 @@ graph [
     step 0
     date "2021-05-22T15:00:09Z"
     title "Warrior Cats Arc 8 ANNOUNCED! My thoughts and theories"
-    description "More Warrior Cats books, more theories! Cat art is by Missy Dakota! Her Patreon: https://www.patreon.com/MissDako Her Twitter: ..."
+    description "More Warrior Cats books, more theories!&#10;&#10;Cat art is by Missy Dakota! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -6141,7 +6141,7 @@ graph [
     step 0
     date "2022-02-02T04:36:01Z"
     title "Warrior Cats Movie Official Trailer"
-    description "F-firestar&#8230; Even though it says it's official it's not cause it's just a jokey joke! Tis only a pranky prank video my friend made!!!"
+    description "F-firestar&#8230;&#10;&#10;Even though it says it&#8217;s official it&#8217;s not cause it&#8217;s just a jokey joke! Tis only a pranky prank video my friend made!!!"
     channel_title "Got Dat Dump"
     channel_id "UCYqxZsdIJ3z07RQ7O2HmhFg"
     fav_count 0
@@ -6156,7 +6156,7 @@ graph [
     step 0
     date "2019-03-08T16:38:56Z"
     title "Warrior Cats Ivypool Tribute - Gasoline"
-    description "it's not really good, sorry Music : https://youtu.be/zRHNi3QfFlE Animations : https://youtu.be/vaLxarIUzX8 ..."
+    description "it's not really good, sorry&#10;&#10;Music : https://youtu.be/zRHNi3QfFlE&#10;&#10;Animations : &#10;&#10;https://youtu.be/vaLxarIUzX8&#10;https://youtu.be/zYOJRin0YzE&#10;https://youtu.be/4lFHE_5FDzE&#10;https://youtu.be/y5rrOo0V1og&#10;https://youtu.be/q-4qmHPCBAQ&#10;https://youtu.be/JvmIQjiTBxM&#10;https://youtu.be/RURklPvMvNA&#10;https://youtu.be/EiwALnDq1-M&#10;https://youtu.be/Qf3Nb1gZxjM&#10;https://youtu.be/ZVly9Pi8FwM&#10;https://youtu.be/-IFhYkW50qk"
     channel_title "Lalie Tiny"
     channel_id "UCBn7utf6Grkc4jUcCrqcgHw"
     fav_count 0
@@ -6171,7 +6171,7 @@ graph [
     step 0
     date "2019-07-07T20:31:22Z"
     title "&#38;quot;Play To Win&#38;quot; Hawkfrost. ORIGINAL WARRIOR CATS SONG"
-    description "Download available for this song on iTunes   https://apple.co/2XrxjT8 Google Play  https://bit.ly/30psSpb ||---------|| ||~Where ..."
+    description "Download available for this song on&#10;&#127925; iTunes&#127925; https://apple.co/2XrxjT8&#10;&#127925;Google Play&#127925;https://bit.ly/30psSpb&#10;&#10;||---------||&#10;&#10;||~Where To Find Me!~||&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;&#10;Want to see videos and hear songs EARLY? Be apart of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi&#10;&#10;&#10;||---------||&#10;&#10;Credits&#10;&#10;Hawkfrost - Chris Sayers&#10;Follow Chris on&#10;Twitter- https://twitter.com/NotSoLittleC&#10;&#10;Brambleclaw- KindledFlame&#10;Follow Kindle on&#10;Twitter- https://twitter.com/kindledflame_&#10;&#10;Video Art- CrystalColors&#10;dA- https://www.deviantart.com/crystalcolors&#10;Youtube- https://bit.ly/2L6JFcS&#10;Twitter- https://twitter.com/_CrystalColors_&#10;&#10;Music, Lyrics, Additional Art/Vocals - Blixemi&#10;&#10;Mixing - Michael Calvillo &#34;freshmicks&#34;&#10;&#10;&#34;WARRIORS&#34; Characters &#38; Concepts -&#10;Erin Hunter / Harper Collins&#10;&#10;&#10;||---------||&#10;&#10;&#10;Would you like a chance to sing in a future WC Original Song?&#10;http://bit.ly/2lCJHgj - Fill out this form to sign up!&#10;&#10;&#10;||---------||&#10;&#10;RULES&#10;&#10;PLEASE. &#10;-Do not reupload this audio onto your channel without permission from me. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -6186,7 +6186,7 @@ graph [
     step 0
     date "2021-08-30T20:30:11Z"
     title "Warrior cats - Born for this | animation tribute"
-    description "Hey guys I back I have a 1st day at school so I made this. I just doing editing !!!!! All credits go 2 the owners of the animations My ..."
+    description "Hey guys I back I have a 1st day at school so I made this. &#10;&#10;I just doing editing !!!!!&#10;All credits go 2 the owners of the animations My warrior cats playlist (There is all animations I use in tributes/edits)&#10;&#10;Links: https://youtube.com/playlist?list=PLPdePF-OMp1BWR5ZBeERAo7AyzfSHzfky&#10;&#10;https://youtube.com/playlist?list=PLdYu3rf-oqeQ-ocF8MujioF3ljOZyY9E2&#10;&#10;https://youtube.com/playlist?list=PL1rZbCTHdOAUlHb7RMotB-1VqJsrNaxW9"
     channel_title "Lion Boy Killer"
     channel_id "UCUxzAX8DdbztO9Ce_25FQwA"
     fav_count 0
@@ -6201,7 +6201,7 @@ graph [
     step 0
     date "2022-06-09T09:15:57Z"
     title "June All New* Roblox Warrior Cats Codes - Warrior Cats Codes Roblox 2022 - Warrior Cats Codes June"
-    description "June All New* Roblox Warrior Cats Codes - Warrior Cats Codes Roblox 2022 - Warrior Cats Codes June keywords -- Warrior Cats ..."
+    description "June All New* Roblox Warrior Cats Codes - Warrior Cats Codes Roblox 2022 - Warrior Cats Codes June&#10;keywords --&#10;Warrior Cats Codes June,roblox warrior cats codes,warrior cats codes roblox 2022,warrior cats codes,warrior cats ultimate edition,codes for warrior cats ultimate edition 2022,warrior cat codes 2022,codes for warrior cats,warrior cat codes,wcue codes,warrior cats ultimate edition roblox codes,roblox warrior cats ultimate edition,warrior cats roblox codes,wcue,warrior cats ultimate edition codes,warrior cats,wcue codes 2022,warrior cats: unlimited edition"
     channel_title "Papa-Helper"
     channel_id "UCDmGZfDe-OE_1kKa2uaOHnA"
     fav_count 0
@@ -6216,7 +6216,7 @@ graph [
     step 0
     date "2022-02-28T17:00:14Z"
     title "Lost Childhoods - 1 week Children Book Style Warrior Cats PMV MAP CALL CLOSED EDITING"
-    description "CW: death and depressing events We all have some personal and dear children book in mind that really hit us while kids (or we ..."
+    description "CW: death and depressing events&#10;We all have some personal and dear children book in mind that really hit us while kids (or we don't, it's ok), those colorful pages with simple and even a bit messy lines telling us a story.&#10;&#10;In the wc books, we see so many stories about kittens learning about the harsh reality that surrounds them. Either fighting against a disease, watching some parent/littermate dying or learning how the clans work. This MAP shows someof these stories of brave kittens like a children book, with a watercolor or chalky/crayon style!&#10;&#10;I hope you like the idea! This MAP also has a differential: 12 random parts will be reserved for animators who have under 1k subs (i know I said in a previous post about 50%, but I see tons of animators with less than 5k subs who are such a great potential so i want to give them the opportunity too)&#10;&#10;This time, I won't host a thumbnail contest. The artist will be chosen by applying for the thumbnail artist option!&#10;&#10;&#10;BIGGEST THANKS FOR MY FRIEND @Demi m0n , who helped me with this MAP call by drawing the hawk and editing the whole MAP call! You are amazing demi s2&#10;&#10;Everything you need: https://docs.google.com/document/d/1YYVcFGG2_DheoKfYQ_QSU9lbfphrax7fkgvH4hliXUE/edit?usp=sharing&#10;&#10;&#10;&#127853; Discord&#10;&#127850; Wip&#10;&#127846; Finished&#10;&#10;&#127846;Thumbnail Artist: LP4ndora&#10;&#127846; Part 1: @GreatSylveon 2007 + Marinin&#10;&#127846; Part 2: TinyWinny&#10;&#127846; Part 3: Martletwing&#10;&#127846;Part 4: Zlobniy Sich&#10;&#127846; Part 5: Selma-Josephine + In-Town&#10;&#127846;Part 6: rainwish -&#10;&#127846;Part 7: Isaika -&#10;&#127846;Part 8: istuez -&#10;&#127846; Part 9: &#54540;&#51596;PLZN&#10;&#127846;Part 10: Ru End Fns_Hope&#10;&#127846;Part 11: Woofzie + JulianOliver &#10;&#127846;Part 12:  fabillusion -&#10;&#127846;Part 13:  Swiflex&#10;&#127846; Part 14: Vibing Lemon&#10;&#127846;Part 15: &#33469;&#31958;Maltose&#10;&#127846;Part 16: kittybee-&#10;&#127846;Part 17: wimfei + Marinin -&#10;&#127846; Part 18: Sauketz -&#10;&#127846; Part 19:  anonx&#10;&#127846;Part 20: shy_chocolate&#10;&#127846;Part 21: melowon_z&#10;&#127846;Part 22: Jayadwal&#10;&#127846;Part 23: Nebula Animates&#10;&#127846;Part 24: Flawiusz-Sama + Marinin&#10;&#127846;Part 25: @Gildedware (aka GildedPhD) &#10;&#127846; Part 26: Corvuskies&#10;&#127846; Part 27: Lemonpie -&#10;&#127846;Part 28: Flamebreeze &#10;&#127846; Part 29: Nex -&#10;&#127846;Part 30: Marinin&#10;&#127846;Part 31: @SplashDreamms &#10;&#127846;Part 32: Llriftenn &#10;&#10;Designs by @Nicksinnombre  and @Nifty-Senpai !!! Amazing inspos of mine, go check on them!&#10;&#10;Song: https://youtu.be/m6XPs_Qs4JQ"
     channel_title "Marinin"
     channel_id "UCUxxesYVTzdhke0emiTDP_w"
     fav_count 0
@@ -6231,7 +6231,7 @@ graph [
     step 0
     date "2021-07-09T00:50:53Z"
     title "Trying to Roleplay in Warrior Cats: Ultimate Edition &#128064;"
-    description "Hey Sunnies! Make sure you guys like the video if you like what you see and subscribe for more videos in general! Today ..."
+    description "Hey Sunnies! Make sure you guys like the video if you like what you see and subscribe for more videos in general! Today, I attempt to roleplay in Warrior Cats: Ultimate Edition! It was a lot of fun and I also met a subscriber!!! Comment down below if you want me to continue playing Warrior Cats: Ultimate edition in general! I hope you guys have a wonderful day! Make sure to join my Discord Server! Links are right below this message and in the comments! See you for the next one! :)&#10;&#10;Discord: &#8203;https://discord.gg/xPcXe6AKJT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;&#10;&#10;&#10;&#10;Username: SunnyDusty&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;#WarriorCats #Roblox"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -6246,7 +6246,7 @@ graph [
     step 0
     date "2014-04-04T10:05:07Z"
     title "Warrior Cats Herb Guide"
-    description "This is a guide of all the herbs used in WC:UT. Pictures of each herb are shown, and a description is given telling what each herb ..."
+    description "This is a guide of all the herbs used in WC:UT. Pictures of each herb are shown, and a description is given telling what each herb does. Poisons are included in this video.&#10;&#10;You can watch the remake of this video here: https://www.youtube.com/watch?v=rT1xSK2AfNM&#10;&#10;Herbs:&#10;Alder Bark-eases toothaches&#10;Beech leaves- used by Thunderclan for carrying other herbs.&#10;Bindweed-Fastens sticks to broken legs to keep them in place&#10;Blackberry leaves- eases the swelling of bee stings&#10;Borage leaves-produces more and better milk and brings down fevers&#10;Burdock root- lessens and heals pain of infected rat bites&#10;Burnet-keeps a cat's strength up&#10;Catchweed- stops poultices from being rubbed off without hurting the skin&#10;Catmint/Catnip- best remedy for greencough, and can also be used for whitecough&#10;Celandine- soothes damaged eyes&#10;Chamomile- strengthens the heart and soothes the mind, and also gives strength&#10;Chervil- used for infected wounds and bellyaches. May also be used during kitting&#10;Chickweed- treats greencough, though catmint is often preferred&#10;Cob nuts- Made into ointments&#10;Cobwebs- soaks up and stops (or slows) bleeding. It may also be used to bind broken bones&#10;Coltsfoot- eases breathing or kitten-cough, as well as cracked or sore pads&#10;Comfrey root- repairs broken bones or soothes wounds. Also used for wrenched claws, itching, or for inflammation on stiff joints.&#10;Daisy leaf- Eases the pain of aching joints&#10;Dandelion-soothes and heals bee stings. The leaves can be chewed to act as a painkiller&#10;Dock- soothes scratches, but might sting when applied. Soothes sore pads&#10;Fennel- helps pain in the hips&#10;Feverfew- reduces fevers and chills. Also heals aches and pains, and it is especially good for headaches. &#10;Goldenrod- good for healing wounds&#10;Heather Nectar- makes swallowing easier and sweetens mixtures&#10;Honey- soothes infections, smoke-damaged or sore throats, helps cats swallow other concoctions, helps soothe coughing, and gives energy&#10;Horsetail- treats infection and stops bleeding&#10;Ivy leaf- used by Shadowclan to store other herbs&#10;Juniper berries- soothes bellyaches, gives strength, and helps troubled breathing. It is also used to help calm cats&#10;Lamb's ear- gives a cat strength&#10;Lavender- cures fever and chills. Also a herb to hide the scent of death&#10;Mallow leaves- soothes bellyache&#10;Marigold- stops infection and bleeding. Used for inflammation of stiff joints&#10;Mint- hides the scent of death&#10;Mouse bile- used for ticks&#10;Oak leaf- stops infection from setting in&#10;Parsley- stops a queen from producing milk, and also cures bellyache&#10;Poppy seeds- can help a cat sleep, soothe shock or distress, or ease pain. Not recommended for nursing queens&#10;Ragwort leaves- treats aching joints and keeps a cat's strength up&#10;Ragweed- gives a cat extra strength and energy&#10;Raspberry leaves- eases pain or stops bleeding&#10;Rosemary-hides the scent of death&#10;Rush-helps hold a broken limb in place; acts like a cast&#10;Snakeroot-heals poison&#10;Sorrel- traveling herb&#10;Sticks- distracts cats from pain. Recommended for queens giving birth&#10;Stinging nettle- induces vomiting, or brings down swelling. Can be mixed with comfrey to help heal broken bones, helps with wounds&#10;Sweet Sedge- eases infection&#10;Tansy- cures coughs, can be used to cure wounds and poisons. Stops cats from getting greencough. Soothes throats&#10;Tormentil- its root is good for treating all wounds and extracting poison&#10;Thyme- calms nervousness, anxiety, and cats who are in shock&#10;Traveling herbs- consists of burnet, chamomile, daisy, and sorrel. Used to give a cat more strength and energy, and it keeps cats from getting hungry for a long time&#10;Watermint- eases the suffering that originates from a bellyache&#10;Wild garlic- prevents infection, especially in rat bites&#10;Willow bark- eases pain&#10;Willow leaves- stops vomiting&#10;Wintergreen- treats wounds and poisons&#10;Yarrow- extracts poison from wounds, will make a cat vomit up toxins. The ointment will soften and help heal cracked pads.&#10;&#10;Poisons&#10;Deathberries-kills a cat within minutes when consumed&#10;Foxglove seeds- can cause paralysis and heart failure&#10;Holly berries- effect unknown&#10;Nightshade- poisonous; used to kill a cat who can't be saved quickly&#10;Water hemlock- causes writhing and foaming at the mouth. It is the most poisonous plant in the clan after deathberries."
     channel_title "Bluestarrox97"
     channel_id "UCQX9vQQHzpp7n-ecQF11neg"
     fav_count 0
@@ -6261,7 +6261,7 @@ graph [
     step 0
     date "2021-05-10T10:45:01Z"
     title "This FULL RELEASE is AMAZING! Roblox Warrior Cats Ultimate is FREE!"
-    description "This FULL RELEASE is AMAZING! Roblox Warrior Cats Ultimate is FREE! What happens when a star constellation and a rare ..."
+    description "This FULL RELEASE is AMAZING! Roblox Warrior Cats Ultimate is FREE!&#10;&#10;What happens when a star constellation and a rare gemstone collide? You get lots of awesome (ME!) Haha! I'm Lyronyx and I LOVE all things gaming. This is my official YouTube page. I play lots of different games, but mostly Roblox. I hope you&#8217;ll subscribe to my channel and follow along as I discover new things in the world of gaming! #LySquad!&#10;&#10;Join my Discord! https://discord.gg/XvxEBVscJr&#10;&#10;My Roblox Group! https://www.roblox.com/groups/3234002/LySquad&#10;&#10;Check out these channels below!&#10;&#10;My sister Hailey&#10;https://www.youtube.com/c/huntrys&#10;&#10;My sister Lyla&#10;https://www.youtube.com/channel/UCuopXBEt0dqqdb_9E2CE2zQ&#10;&#10;Our Family Gaming Channel WPFG&#10;https://www.youtube.com/c/wpfgaming&#10;&#10;Our family channel WPFV&#10;https://www.youtube.com/c/wpfvlogging&#10;&#10;Don't forget to subscribe!&#10;&#10;Follow me!&#10;&#10;Instagram: https://www.instagram.com/Lyronyx&#10;Twitter: https://twitter.com/Lyronyx&#10;&#10;Royalty Free Music: www.purple-planet.com&#10;&#10;&#34;Chee Zee Jungle&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "Lyronyx"
     channel_id "UCJMog4sp7OV26QPN5wtAadg"
     fav_count 0
@@ -6276,7 +6276,7 @@ graph [
     step 0
     date "2021-04-14T16:00:20Z"
     title "Ashfur has MAGIC? | Warrior Cats Theory"
-    description "It's time we take a look at Ashfur's powers, specifically in relation to the newest Warrior Cats book, The Place of No Stars! Cat art is ..."
+    description "It's time we take a look at Ashfur's powers, specifically in relation to the newest Warrior Cats book, The Place of No Stars!&#10;&#10;Cat art is by Missy Dakota! &#10;Her Patreon: https://www.patreon.com/MissDako&#10;Her Twitter: https://twitter.com/Miss_DakoART&#10;&#10;Intro by Lapis Feder: https://www.youtube.com/channel/UCwpqP5W7EDZsE71Bf5WxEpw"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -6291,7 +6291,7 @@ graph [
     step 0
     date "2022-01-15T01:16:17Z"
     title "How To Make a Fox OC in Warrior Cats Ultimate Edition (Easy How to)"
-    description "Hey Everyone! Hope you enjoy this easy how to! I hope it is informative and helps you make this oc! #AppleGames #WCUE ..."
+    description "Hey Everyone! Hope you enjoy this easy how to! I hope it is informative and helps you make this oc!&#10;&#10;#AppleGames&#10;#WCUE&#10;#WCUEfoxOCHowTo&#10;#Roblox&#10;#Capcut&#10;#HowToMakeAFoxMorph"
     channel_title "SlinkyTV"
     channel_id "UCCyxpNuz7PSngFjdrD7Wd5Q"
     fav_count 0
@@ -6306,7 +6306,7 @@ graph [
     step 0
     date "2021-03-18T03:50:33Z"
     title "A Million Dreams - Complete Warrior Cats AMV [Bramblestar &#38;amp; Squirrelflight]"
-    description "Bramblestar &#38; Squirrelflight: A Million Dreams AMV Disclaimer Notice: I do not currently, nor have I ever, owned the rights to ..."
+    description "Bramblestar &#38; Squirrelflight: A Million Dreams AMV&#10;Disclaimer Notice: I do not currently, nor have I ever, owned the rights to Warrior Cats and/or The Greatest Showman Soundtrack. All rights belong to the Erin Hunter crew and the people who composed A Million Dreams.&#10;&#10;Animation is...much harder than it looks, I've got a ton of respect for all the great animators on YouTube, and I hope that someday I'll be able to make some art like a lot of y'all are pulling off. &#10;&#10;The number of times I:&#10;Changed art style mid-process: 2&#10;Used an effect to cheat not having to animate: 8&#10;Used that anime trick of only the mouth is moving: 1&#10;Forgot markings: &#8734;&#10;&#10;&#10;I'd like to think it turned out fairly well, let me know in the comments what you guys thought and if you have any suggestions for future videos! My next one will be Rewrite the Stars featuring Crowfeather and Leafpool!&#10;&#10;Check out more of my art here: http://jaymedraws.com&#10;Feel free to throw me some cocoa money: https://ko-fi.com/jaymedraws&#10;Support me on Patreon, and see cool content like my  take on the 100 Warriors Challenge: https://www.patreon.com/jaymedraws"
     channel_title "JaymeDraws"
     channel_id "UC2-N-KWrFQNwnLXHoaHOk7w"
     fav_count 0
@@ -6321,7 +6321,7 @@ graph [
     step 0
     date "2016-02-28T03:06:51Z"
     title "A Forest-Touched Wild Cat &#127807; Warrior Cats Sims 3 Legacy - Episode #1"
-    description "Join the Pixel Biology Community! &#8226; http://goo.gl/Xro8bE Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob ..."
+    description "Join the Pixel Biology Community! &#8226; http://goo.gl/Xro8bE &#10;&#127807; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#10;&#8226; &#128062; &#8226; Additional Warrior Cat Adventures!! &#8226; &#128062; &#8226;&#10;&#8226; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#10;&#8226; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#8226; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#8226; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;&#8226; Warrior Cats: Untold Tales &#8226; https://goo.gl/LcrsGW&#10;&#10;Deep in the forests live a clan of wild cats touched by something more than feral instincts and guided by dreams rich with their own meaning. Join Seri the Pixel Biologist as we explore the stories of our own clan of Warrior Cats in the beautiful forests of Meadow Dale! &#10;&#10;We begin with one lonely lost cat named Mossleaf and will be following her as she learns to survive in the fierce wilds of the deep forests, quietly watched over the entire time by a curious, cat-loving wild plant sim named Willow! &#10;&#10;Where will Mossleaf's adventures take her? Deeper into the forest where mystery and dangers lurk? Down the mountain and into the village where cars and dogs could threaten her well-being? Or perhaps to cross paths with other rouge cats and perhaps find the beginnings of a clan of her own... &#10;&#10;&#8226; &#128062; &#8226; Pixel Biology Guides &#38; Goodies &#8226; &#128062; &#8226;&#10;----------------------------------------&#173;&#173;------------------------------------&#10;&#127807; Etsy Shop &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#127807; PO Box &#38; Snail Mail Vlogs &#8226; https://goo.gl/zxQdbL&#10;&#10;&#127807; Patreon &#8226; https://www.patreon.com/seripixelbiologist&#10;&#10;&#8226; &#128062; &#8226; Contact Information &#8226; &#128062; &#8226;&#10;----------------------------------------&#173;&#173;------------------------------------&#10;&#127807; Fanmail E-mail &#8226; mailforseri@gmail.com&#10;&#127807; Business E-mail &#8226; seriiiously@gmail.com&#10;&#10;&#127807; Twitter &#8226; https://twitter.com/Seriiiously&#10;&#127807; Facebook &#8226; https://goo.gl/GsymoK&#10;&#127807; Instagram &#8226; https://instagram.com/seriiiously&#10;&#10;&#8226; &#128062; &#8226; Seri! Pixel Biologist! &#8226; &#128062; &#8226;&#10;----------------------------------------&#173;&#173;------------------------------------&#10;&#8226; Seri is a biologist-in-training with an intense passion for plants and filling her house to the brim with finches, potted plants, and biology &#34;specimens&#34; that look oddly like snail shells, mossy, and twigs covering every available surface. &#10;&#10;She is also big into spreading her love of the natural world through the entertaining medium of story-telling through video games! Jump on in and see what our amazing, animal-loving, plant-studying community is all about! And remember, stay curious!"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -6336,7 +6336,7 @@ graph [
     step 0
     date "2019-07-15T19:00:00Z"
     title "Warrior Cats Animated Fire &#38;amp; Ice: Prologue"
-    description "TYPO! i dont care its already posted the original prologue had one too i think That came out faster then you thought it would, right?"
+    description "TYPO! i dont care its already posted the original prologue had one too i think&#10;That came out faster then you thought it would, right?~~ next will be episode 7 so watch out for&#10;&#10;&#10;Patreon: https://www.patreon.com/bokbokchoy&#10;WCA tumblr: https://www.tumblr.com/blog/warriorca...&#10;BokBokChoy twitter: https://twitter.com/?lang=en&#10;&#10;Rory- http://sillystrung.tumblr.com/ (Also animated it)&#10;Fritz- https://tinyurl.com/yclas2s2&#10;Lillian- https://www.instagram.com/odetough/?h...&#10;And also animated by-&#10;Elliot - https://www.youtube.com/channel/UCtui...&#10;New Voices-&#10;Taylor https://www.youtube.com/user/TaylorTe...&#10;Madeline - https://twitter.com/faeryxoxo&#10;&#10;(Voices)&#10;Rory- Smudge, Graystripe, Ravenpaw, Runningwind, Longtail, Smallear, Brindleface, Boulder, Brownpaw. Clawface, Stumpytail, Onewhisker&#10;Fritz- Fireheart, Tigerclaw, Whitestorm, Lionheart, Sandpaw, Yellowfang, Brokenstar, Darkstripe, Blackfoot, Susanne, Barley, Nightpelt, Tallstar, Mudclaw&#10;Lillian- Bluestar, Mousefur, Spottedleaf, Speckletail, Willowpelt, Littlepaw, Tangleburr, Ashfoot&#10;Elliot- Runningnose, Crookedstar, Crowfur, Thornclaw, Deadfoot, Barkface&#10;Moms- Frostfur&#10;Pops- Mudfur, Patchpelt&#10;Madeline- One-eye&#10;Taylor- Goldenflower, Morningflower. Whietail&#10;Navgate- Halftail&#10;&#10;Music Used:&#10;With a Stamp by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Artist: http://www.twinmusicom.org/"
     channel_title "Bok Bok Choy"
     channel_id "UCpp0KroTWKBoRUdagVmivuw"
     fav_count 0
@@ -6351,7 +6351,7 @@ graph [
     step 0
     date "2020-03-18T17:34:44Z"
     title "Warrior Cats: The Clans are a Cult"
-    description "Reuploading because I don't know how tags work My first video in a while and it's not technically made for the warriors fandom."
+    description "Reuploading because I don't know how tags work&#10;My first video in a while and it's not technically made for the warriors fandom. I made this as a class project so there's a lot in here that's just trying to explain quickly what warriors is.&#10;I would love to go into more detail on this theory in the future, like really break down the evidence from the books, but this was definitely fun, and I'd love to hear what people think. Even if you just want to call me an idiot, s'all good!&#10;&#10;Credits:&#10;The Steven Hassan photo is from wikipedia and uses the creative commons license&#10;The art of the book cover 'Into the Wild' is taken from the fan wiki and uses the creative commons license&#10;The Game of Thrones image is from Flikr and uses the creative commons license.&#10;https://creativecommons.org/licenses/by/2.0/&#10;&#10;The art from Tennelle Flowers is used with her express permission&#10;https://www.youtube.com/user/SimatraStar&#10;&#10;The channel Telltale was a big inspiration for this video, though he talks about real-world cults&#10;https://www.youtube.com/channel/UCgIi12EA6BQ8HKL8QUccsOQ"
     channel_title "WulfWhistle"
     channel_id "UCxv5-4VM-TyyVvtLvHNQ6ZQ"
     fav_count 0
@@ -6366,7 +6366,7 @@ graph [
     step 0
     date "2018-08-05T15:48:13Z"
     title "Warrior Cats: The Fourth Apprentice Pilot (Unfinished)"
-    description "This video was produced in 2015, but the sound design was done in 2018, because it was stuck in sound production so long, I lost ..."
+    description "This video was produced in 2015, but the sound design was done in 2018, because it was stuck in sound production so long, I lost interest in this project and I've moved onto other things! But I still wanted to post a video of what was done because a LOT of people worked on this!!&#10;&#10;To watch only the finished part of this video: https://www.youtube.com/watch?v=XyKmi8qZTVY&#10;&#10;Thank you so much to all of you who saw this project from its start, (I suppose the voice calls?) It means so much to me that you guys were still asking about the project after all these years, it made me want to work to compile and finish what was done of it. I hope that my newer ideas make up for this unfinished product.&#10;&#10;To see wips, content and thoughts on upcoming projects check here: https://www.patreon.com/niftysenpai&#10;Also on Twitter: https://twitter.com/niftysenpai"
     channel_title "Nifty-Senpai"
     channel_id "UCB2JUYB1zOUXkauzK1RPLSg"
     fav_count 0
@@ -6381,7 +6381,7 @@ graph [
     step 0
     date "2015-12-24T21:26:26Z"
     title "Always Gold - Grey Wing &#38;amp; Clear Sky (Complete Warrior Cats M.A.P.)"
-    description "YEY! It's done, happy tears all around ;o; This was an EXPERIENCE . I know a lot more about hosting maps now, and its a lot ..."
+    description "YEY! It's done, happy tears all around ;o;&#10;&#10;This was an EXPERIENCE . I know a lot more about hosting maps now, and its a lot more work than i thought otl&#10;&#10;buT YES! here is always gold, DONE! :D &#10;&#10;This map is about Dawn of the Clans! More specifically, it focuses on the dynamic between Grey Wing and Clear Sky's relationship in the first three books... check out the book series if you are interested! http://www.harpercollins.com/9780062343253/warriors-dawn-of-the-clans-box-set-volumes-1-to-3&#10;&#10;What is a M.A.P. ? It stands for Multi Animator Project, so each part was animated by a different person! They had set designs and a script, which if you'd like you can check out here! http://sta.sh/0uef2he9esq&#10;&#10;SONG: Always Gold by Radical Face&#10;STORY: Warriors by Erin Hunter&#10;THUMBNAIL: by the lovely http://sunfields.deviantart.com/&#10;&#10;&#10;________________&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "Nifty-Senpai"
     channel_id "UCB2JUYB1zOUXkauzK1RPLSg"
     fav_count 0
@@ -6396,7 +6396,7 @@ graph [
     step 0
     date "2022-05-05T20:21:24Z"
     title "My opinion on River | Warrior cats discussion"
-    description "Hello, I'm Mintystem! This is a video where I discuss what my opinion on the first Warrior Cats book in &#8220;A Starless Clan&#8221; is."
+    description "Hello, I&#8217;m Mintystem! This is a video where I discuss what my opinion on the first Warrior Cats book in &#8220;A Starless Clan&#8221; is. &#10;&#10;I apologize for the audio quality, I don&#8217;t have a proper microphone.&#10;&#10;&#10;&#10;Tags:&#10;#Warriors #Warriorcats #Astarlessclan #River #cats"
     channel_title "Mintystem"
     channel_id "UC8IAlrgYZ6E_4VCv7O0y4Qw"
     fav_count 0
@@ -6411,7 +6411,7 @@ graph [
     step 0
     date "2022-03-02T04:58:00Z"
     title "Warrior cats and what I think they sound like if they sang!"
-    description "Full credits."
+    description "Full credits"
     channel_title "Warrior cat lover!"
     channel_id "UCwOw7hPdSybI8lIqtppMPqQ"
     fav_count 0
@@ -6426,7 +6426,7 @@ graph [
     step 0
     date "2021-07-01T03:45:33Z"
     title "CALL YOU MINE | COMPLETE 96 HOUR WLW WARRIOR CATS MAP"
-    description "OH GOSH THIS WAS A RACE AGAINST THE CLOCK TO GET THIS OUT! HAPPY PRIDE MONTH TO EVERYONE WHO'S STILL ..."
+    description "OH GOSH THIS WAS A RACE AGAINST THE CLOCK TO GET THIS OUT! HAPPY PRIDE MONTH TO EVERYONE WHO&#8217;S STILL IN THE 30TH JUNE TIME ZONE! Even if it&#8217;s not pride month for you guys, it&#8217;s always great to appreciate LGBTQ+ even after the month of June! I would like to thank all the participants for their hard work and dedication to get their parts out so we can complete this masterpiece. This was probably the longest credit sequence I ever made but I decided it fit the MAP as such! It was such a blast to edit this all together, and I do hope everyone will enjoy this project!&#10;EDIT: If you're confused on the art direction of this, please refer to the MAP Call! WLW stands for woman loving woman!&#10;&#10;MAP CALL: https://www.youtube.com/watch?v=jSmGiM1754w&#10;-----------------------------------------------------&#10;PARTICIPANTS:&#10;INTRO: Kookie Krumblez &#38; Rice Rain &#38; daisyrazors (Hollyleaf x Heathertail) &#10;Part 1: Chrizka (Feathertail x Tawnypelt)&#10;Part 2: pokefan1241  (Frostfur x Yellowfang)&#10;Part 3: Lady Helio (Bluefur x Rosetail)&#10;Part 4: Basil Kat (Squirrelflight x Leafstar)&#10;Part 5: Rivstars (Zelda x Violetshine)&#10;Part 6: BL0SS0M (Bluestar x Goldenflower)&#10;Part 7: mozziiemilk  (Leafpool x Sorreltail)&#10;Part 8: ItsaYsa (Blossomfall x Ivypool)&#10;Part 9: hawky (Cinderheart x Hollyleaf)&#10;Part 10: Fishbreadz (Feathertail x Ferncloud)&#10;Part 11: Caitlyn_Drawz &#38; Tigereyes6302 (Sasha x Feathertail)&#10;Part 12: Caitlyn_Drawz &#38; Tigereyes6302 (Sasha x Feathertail)&#10;Part 13: CryptidBunny (Sasha x Goldenflower x Leopardstar)&#10;Part 14: mozziiemilk (Feathertail x Tawnypelt) &#10;Part 15: TeedA (Brambleberry x Echomist)&#10;Part 16: StarCat (Hollyleaf x Hazeltail)&#10;Part 17: orkestrell (Hollyleaf x Willowshine)&#10;Part 18: StarGeek &#38; ItsaYsa (Leopardstar x Sasha)&#10;Part 19: DaVinci131 ( Bluestar x Yellowfang)&#10;Part 20: Riley (Applefur x Sunstrike)&#10;Part 21: Daisyrazors (Bluefur x Rosetail)&#10;Part 22: Kaiira (Cinderheart x Hollyleaf)&#10;&#10;CREDIT SEQUENCE:&#10;Background Artwork: Lady Callow &#38; Rice Rain&#10;Thumbnail: Autumn Lynx&#10;Fanart: Rice Rain&#10;Designs: Belong to their respective participants&#10;&#10;Dropped participant's storyboards:&#10;Annywu | DaveThyQueen | angrytrollnoises | XxIvystarxX | 23 Xcavat0rrs&#10;&#10;-Song: Call you mine by The chainsmokers ft. Bebe Rexha&#10;-Uncover by Zara Larrson&#10;Pain and sleepless nights? Everyone&#10;Hotel? Trivago&#10;Editing person that died: Me"
     channel_title "Lady Callow"
     channel_id "UCCpxE8ThtTpyodzW-eZhqiw"
     fav_count 0
@@ -6456,7 +6456,7 @@ graph [
     step 0
     date "2021-06-22T04:41:33Z"
     title "Warrior Cats Tribute - Survivor"
-    description "here is a short AMV Tribute I put together with some warrior cats map parts... Credits: (all animations and users can be found here ..."
+    description "here is a short AMV Tribute I put together with some warrior cats map parts... &#10;_____________________________________________&#10;&#10;Credits: (all animations and users can be found here on YouTube) &#10;&#10;&#10;Animators:&#10;&#10;Ursiday &#10;&#10;https://youtube.com/c/ursiday&#10;&#10;bread cat&#10;&#10;https://youtube.com/channel/UCLiiXagjRTAAsom8dNmoCWA&#10;&#10;KaekaE -Yah&#10;&#10;https://www.youtube.com/channel/UC8lIskximlt54OXX-GeY6SQ&#10;&#10;Stasik &#10;&#10;https://youtube.com/user/PegiBruno&#10;&#10;Mary_MS_Jay&#10;&#10;https://youtube.com/channel/UCnfkp2pFeS2J0-FJYC3H9RA&#10;&#10;virtualantlers&#10;&#10;https://www.youtube.com/channel/UCm4hjIRGNBtvDmHwUW1BBqQ&#10;&#10;SaraXu&#10;&#10;https://www.youtube.com/channel/UCgRNscsFGCEaRZ4f6mIhjXg&#10;&#10;Nicksinnombre&#10;&#10;https://youtube.com/c/CandyBunnycomicsygameplays&#10;&#10;TurnipStewdios&#10;&#10;https://youtube.com/c/JessieTurnip&#10;&#10;Bosley Boz&#10;&#10;https://youtube.com/channel/UCeJu6fT6UTeKcegyxCGHalA&#10;&#10;Mudshadow&#10;&#10;https://www.youtube.com/user/MissKabachu&#10;&#10;_____________________________________________&#10;&#10;Song: 2WEI - Survivor&#10;&#10;https://www.youtube.com/c/2WEIMusic&#10;_____________________________________________&#10;&#10;Also if you love Warriors and want to see amazing Warriors content, follow me on my Instagram at @WarriorCat_Galaxy&#10;&#10;https://www.instagram.com/warriorcat_galaxy/&#10;_____________________________________________&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing"
     channel_title "FuZe Blitz"
     channel_id "UCb2YYmsB-qJMBaIJzE0DD2w"
     fav_count 0
@@ -6471,7 +6471,7 @@ graph [
     step 0
     date "2022-04-30T23:30:47Z"
     title "How to make a Badger, in Warrior Cats."
-    description "Hope you enjoyed it, Also if you'd like a free morph here's a link to a video on me explaining it, (Read the pinned comment) Link: ..."
+    description "Hope you enjoyed it, Also if you'd like a free morph here's a link to a video on me explaining it, (Read the pinned comment) Link: https://www.youtube.com/watch?v=funSsbrsjn4"
     channel_title "Smudge"
     channel_id "UC_OfaWpXtF0XqfEZFDBAGfQ"
     fav_count 0
@@ -6486,7 +6486,7 @@ graph [
     step 0
     date "2021-07-29T21:00:28Z"
     title "How to get wounds and heal them in warrior cats ultimate (Roblox gameplay)"
-    description "Hey everyone! Here is how to get wounds and heal them in roblox warrior cats ultimate! #roblox #cats #AppleGames #warriorcats."
+    description "Hey everyone! Here is how to get wounds and heal them in roblox warrior cats ultimate!&#10;&#10;#roblox #cats #AppleGames #warriorcats"
     channel_title "SlinkyTV"
     channel_id "UCCyxpNuz7PSngFjdrD7Wd5Q"
     fav_count 0
@@ -6501,7 +6501,7 @@ graph [
     step 0
     date "2019-07-12T18:10:14Z"
     title "WARRIOR CATS &#128008; Instantly Create Your Own Clan?! &#128008; Random Generator"
-    description "Join the Pixel Biology Community! &#8226; http://bit.ly/serisims Warrior Cats Sims 3 Legacy: Season 1 &#8226; http://bit.ly/seriwarriorcats &#8226; A ..."
+    description "&#127807;Join the Pixel Biology Community! &#8226; http://bit.ly/serisims&#10;&#128008; Warrior Cats Sims 3 Legacy: Season 1 &#8226; http://bit.ly/seriwarriorcats&#10;&#10;&#8226; A Paw In Each World Warrior Cats Generator &#8226; http://apawineachworld.com/untoldlegacy&#10;&#10;&#8226; Tyler's Twitter &#8226;  https://twitter.com/FalconDevelops&#10;&#8226; Tyler's YouTube &#8226; https://www.youtube.com/c/FalconDevelops&#10;&#10;&#8226; &#128062; &#8226; Additional Warrior Cat Adventures!! &#8226; &#128062; &#8226;&#10;----------------------------------------&#173;&#173;------------------------------------&#10;&#8226; Warrior Cats Sims 3 Legacy: Season 1 &#8226; https://goo.gl/iFz5ob&#10;&#8226; Warrior Cats Sims 3 Legacy: Season 2 &#8226; https://goo.gl/8kZ2HK&#10;&#10;&#8226; Warrior Cats &#8226; Behind-the-Paws &#8226; https://goo.gl/R1IwP6&#10;&#8226; Warrior Cats &#8226; StarClan Speaks &#8226; https://goo.gl/9NCsXD&#10;&#8226; Warrior Cats &#8226; Bloopers &#8226; https://goo.gl/C4MLOU&#10;&#10;&#8226; Warrior Cats &#8226;  Untold Tales &#8226;  &#10;&#8226; Cattails &#8226;  &#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#128154;&#127807; Become a Pixel Biologist! &#8226; http://goo.gl/Xro8bE&#10;&#129505;&#127807; Join Our Patreon! &#8226; https://www.patreon.com/seripixelbiologist&#10;&#127873;&#127807; Pixel Biology Merch! &#8226; https://www.etsy.com/shop/ByTheLeaf&#10;&#10;Twitter &#8226; &#10;https://twitter.com/Seriiiously&#10;&#10;Instagram &#8226; &#10;https://instagram.com/seriiiously&#10;&#10;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#10;&#10;&#127807;&#128154; Stay curious!! &#128154;&#127807;&#10;&#10;#seripixelbiologist&#10;#warriorcats&#10;#warriorsrp"
     channel_title "Seri! Pixel Biologist!"
     channel_id "UCZ1zebNAQS72oSid_wb8Y8Q"
     fav_count 0
@@ -6516,7 +6516,7 @@ graph [
     step 0
     date "2018-10-27T13:06:55Z"
     title "Towards The Sun - Warrior Cat Animator Tribute"
-    description "I own none of this, only the edit. All rights reserved. please let me know the name of any of the artists so I can link their YouTube ..."
+    description "I own none of this, only the edit.&#10;All rights reserved.&#10;&#10;please let me know the name of any of the artists so I can link their YouTube here :D"
     channel_title "Lucardos"
     channel_id "UCInA-xkMRoAIuvzNWhWzG7A"
     fav_count 0
@@ -6531,7 +6531,7 @@ graph [
     step 0
     date "2022-06-24T15:48:37Z"
     title "Warrior Cats Clan Generator Challenge! | RedwoodClan - Part 1"
-    description "Here's the generator link: https://perchance.org/warrior-cat-clans."
+    description "Here&#8217;s the generator link: https://perchance.org/warrior-cat-clans"
     channel_title "EtherealFeliciity"
     channel_id "UC3vAA5jiaVPDdVTaqf6X0ZA"
     fav_count 0
@@ -6546,7 +6546,7 @@ graph [
     step 0
     date "2019-09-07T14:00:10Z"
     title "What happened to the Warrior Cats movie?"
-    description "Since the announcement of the Warriors movie back in 2016, we've gotten practically no information about it. In this video, I share ..."
+    description "Since the announcement of the Warriors movie back in 2016, we've gotten practically no information about it. In this video, I share my brief thoughts on the silence.&#10;&#10;Warriors wiki: https://warriors.fandom.com/wiki/Warriors_movie"
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -6561,7 +6561,7 @@ graph [
     step 0
     date "2021-10-11T07:15:10Z"
     title "WARRIOR CATS as DIFFERENT ANIMALS!"
-    description "Today we drew 3 Warrior cats as DIFFERENT animals! &#8227; Graystripe as a doggo, Squirrelflight as a squirrel and Goosefeather as ..."
+    description "&#8227; Today we drew 3 Warrior cats as DIFFERENT animals!&#10;&#8227; Graystripe as a doggo, Squirrelflight as a squirrel and Goosefeather as an angry goose! &#10;&#8227; Amino artists featured in this speedpaint: Calicolynx, Alastor, Darkstripe, lupi, Fluffy kitties, Nuna The Tuna, Sparrowsong, catlover8900, Stoatflight, Degal_Heartfang&#10;&#10;Tomorrow's prompt is:&#10;Truth or Dare&#10;&#10;&#10;Join my Amino: Pinkbunnygirl43 Official Amino!&#10;Link to my Amino: http://aminoapps.com/p/62ysdo&#10;Take part in Pinktober with #Pinktober2021&#10;&#10;...&#10;&#10;Check out our Etsy shop!&#10;https://etsy.me/3xYROVm&#10;&#10;...&#10;&#10;Join my channel membership to unlock badges by your username, emojis, etsy savings and behind-the-scenes content! https://www.youtube.com/channel/UCrO88UhdXvN4wokfz8AwnHw/join"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -6576,7 +6576,7 @@ graph [
     step 0
     date "2018-09-04T20:05:03Z"
     title "&#38;quot;And He Runs&#38;quot; Nightcloud. ORIGINAL WARRIOR CATS SONG"
-    description "Download available for this song on iTunes   https://goo.gl/T8gwvK Google Play  https://goo.gl/RmbwPk ______ Subscribe ..."
+    description "Download available for this song on&#10;&#127925; iTunes&#127925; https://goo.gl/T8gwvK&#10;&#127925;Google Play&#127925;https://goo.gl/RmbwPk&#10;&#10;__________&#10;&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;Patreon &#8594; https://www.patreon.com/Blixemi&#10;&#10;__________&#10;&#10;CREDITS&#10;&#10;Crowfeather's Run Cycle-&#10;Tennelle Flowers&#10;Youtube- https://goo.gl/TZKuuw&#10;Twitter- https://twitter.com/TennelleFlowers&#10;&#10;Also, Check out Tennelle's video on the creation of Crowfeather's Run Cycle!&#10;https://www.youtube.com/watch?v=axQvE7o4QOg&#10;&#10;Additional Art-&#10;Gee&#10;Youtube- https://goo.gl/RuHL1i&#10;Twitter- https://twitter.com/Gee_lly&#10;&#10;Instrumental by - Blixemi&#10;Lyrics/Video Editing/Nightcloud Vocals-&#10;Blixemi&#10;&#10;Warrior Cats&#10;Erin Hunter&#10;&#10;__________&#10;&#10;Would you like a chance to sing in a future WC Original Song?&#10;http://bit.ly/2lCJHgj - Fill out this form to sign up!&#10;&#10;__________&#10;&#10;RULES&#10;&#10;PLEASE. &#10;-Do not reupload this audio onto your channel without permission from me. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;__________&#10;&#10;|LYRICS|&#10;&#10;Off you go, inside your mind again.&#10;Your legs must shake from the memories you chase &#8216;round your head.&#10;I beg you no but there you go to find a version of you that&#8217;s dead.&#10;I don&#8217;t know why I let myself bare the cuts every time,&#10;You shatter our lives, to chase what you can&#8217;t leave behind.&#10;Your body&#8217;s here, but it is clear, you&#8217;re always searching for what you cannot find.&#10; &#10;And you shut me out once more,&#10;I don&#8217;t know what you&#8217;re looking for.&#10;And you turn your back on me.&#10;I&#8217;m getting used to all the secrecy.&#10;Each time I watch you go,&#10;The distance tween us grows and grows&#10;You may run in one place&#10;But I cannot keep up this chase-!&#10;And he runs!&#10;You must be tired running wild tryna chase your past&#10;And he runs&#10;You run the time out just to find out that your legs can&#8217;t last&#10;And he runs.&#10;You can&#8217;t escape it, you can&#8217;t change it, this race can&#8217;t be won.&#10;But still, you always run.&#10; &#10;And just like that you go,&#10;To hide your heart deep down below.&#10;And you just choose to ignore&#10;The brewing of our coming war.&#10;And you seem to find such ease,&#10;To leave while I fight desperately.&#10;While you&#8217;re off in the stars,&#10;I&#8217;m nursing battle scars!&#10;And he runs!&#10;Now aren&#8217;t you tired running wild tryna chase your past?&#10;And he runs!&#10;You&#8217;ll run your mind out when you find out that your lungs can&#8217;t last.&#10;And he runs!&#10;You cannot change it, or escape this, your race can&#8217;t be won&#10;And still you always-&#10; &#10;You have no idea what you&#8217;ve put us through&#10;(Now I'm so tired running wild tryna chase your past)&#10;It doesn&#8217;t long to trace it back to you.&#10;(My lungs, my legs, my mind, my heart won't last)&#10;So you can run, so run, you&#8217;ll run go run until you drop!&#10;(Run run run til you drop-)&#10;But for me? I&#8217;ll finally stop!  &#10; &#10;(But he runs! and he runs and he runs and he runs!)&#10;You must be tired running wild tryna chase your past&#10;(And he runs and he runs and he runs!)&#10;You&#8217;ll run your mind out when you find out that your legs can&#8217;t last.&#10;(and he runs and he runs and he runs!)&#10;You cannot change this, you must face it, your race can&#8217;t be won&#8230;&#10; &#10;But still you always run!&#10; &#10;You run in circles jumping hurdles to tryna turn back time&#10;(and he runs and he runs and he runs!)&#10;And in your chase you will erase your place within my life.&#10;(and he runs and he runs and he runs!)&#10;So go and run now, chase the sun down, my time&#8217;s just begun.&#10;(and he runs and he runs and he runs!)&#10; &#10;While you would much rather run.&#10;So go and turn your back on the sun.&#10;'Cause still you always....&#10;Run."
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -6591,7 +6591,7 @@ graph [
     step 0
     date "2020-12-31T01:56:42Z"
     title "Warrior Cats: How to be a Dog in Warrior Cats! +small New Year Message (ROBLOX)"
-    description "Hewo and welcome into this new video! ^^ I hope you'll enjoy it and that its gonna be useful to some of you hehe ^^ Happy new ..."
+    description "Hewo and welcome into this new video! ^^  I hope you'll enjoy it and that its gonna be useful to some of you hehe ^^  &#10;&#10;Happy new year to everyone btw! :D Hope that you still had a supportable 2020, and that your 2021 is gonna be even better ^^&#10;&#10;-----&#10;&#10;Join my Discord server! Talk with me and the others members of my community! Join some videos, make friends, talk about what you like and learn to know me!&#10;&#10;Invitation Link: https://discord.gg/pPWkU4R&#10;&#10;----------------------------------------------------------------------------------------------------------------------&#10;&#10;Song Playlist Used in This Video: &#10;https://www.youtube.com/watch?v=pWAP7fIwGnI&#38;list=PLVgiTXydDY__yx_7ncMnUP02MB88_EERs&#38;index=14&#10;https://www.youtube.com/watch?v=jmuJp29d57Q&#38;list=PLVgiTXydDY__yx_7ncMnUP02MB88_EERs&#38;index=15&#10;&#10;&#10;Outro made by : Myself&#10;Song Used for the Outro: https://www.youtube.com/watch?v=-rKlloLDqY8&#38;list=PLVgiTXydDY__yx_7ncMnUP02MB88_EERs&#10;&#10;If you've read all of this and is with me rn, I just want to tell you that your extra ;) Thanks for have read :0 Feel free to comment it ):3"
     channel_title "Zeira_Wolf"
     channel_id "UCjsZkpuP3AlNdZj9iFuKBzg"
     fav_count 0
@@ -6606,7 +6606,7 @@ graph [
     step 0
     date "2022-06-05T11:20:36Z"
     title "Small Pride Month Update! &#127987;&#65039;&#8205;&#127752; || Warrior Cats Ultimate Edition"
-    description "Happy pride month to all! Hope you enjoy the video."
+    description "Happy pride month to all! Hope you enjoy the video"
     channel_title "HxneyLeaf"
     channel_id "UCWpLyrzDxtpnI4JwoycvlHA"
     fav_count 0
@@ -6621,7 +6621,7 @@ graph [
     step 0
     date "2020-08-09T05:59:21Z"
     title "[Roblox: Warrior Cats: Ultimate Edition] - How to play!"
-    description "Hi guys! In this video, I show you how to play Warrior Cats: Ultimate Edition! I love you guys! Please like, subscribe, comment, and ..."
+    description "Hi guys! In this video, I show you how to play Warrior Cats: Ultimate Edition! I love you guys! Please like, subscribe, comment, and share! Make sure to turn on Post Notification's too, so then you will be notified whenever I upload another video!&#10;&#10;My Discord Server: https://discord.gg/JeFwdvdK63&#10;My Roblox Group: https://www.roblox.com/groups/12689185/Karmas-Community-Group#!/about&#10;My Roblox Profile: https://www.roblox.com/users/1365859980/profile&#10;My Website: http://karmayt.com/&#10;My Pastebin: https://pastebin.com/u/TheMoonGoddess&#10;&#10;Link to the game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition-BETA?refPageId=024e69b7-1d6f-4154-b25b-b179357fd653&#10;&#10;What video editor and recorder I used to record and edit this video: Filmora9&#10;&#10;What is Roblox? - Roblox is an online game platform and game creation system that allows users to program games and play games created by other users."
     channel_title "Karma"
     channel_id "UCQXgMtV4L9lHPvIV36zWDcw"
     fav_count 0
@@ -6636,7 +6636,7 @@ graph [
     step 0
     date "2021-11-05T22:57:58Z"
     title "NEW WALK &#38;amp; IDLE ANIMATIONS &#38;amp; MORE! || Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! They are are a work in progress and they might ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! They are are a work in progress and they might not even be in the game! If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :) &#10;&#10;Hi Sunnies! We have some cool new ideas in the Warrior Cats: Ultimate Edition Discord!! How do you guys like the models so far?! I think they look nice and I really hope they put them in the game!! Anyways, how are you guys?! How is school?  I cannot believe that in a few weeks its THANKSGIVING!!! The year 2021 is going by so fast omg! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -6651,7 +6651,7 @@ graph [
     step 0
     date "2022-07-09T15:07:29Z"
     title "Die 10 besten Katzen aus Warrior Cats"
-    description "In diesem Video werde ich euch die (nach meiner Meinung nach) 10 besten Warrior Cats Katzen vorstellen."
+    description "In diesem Video werde ich euch die (nach meiner Meinung nach) 10 besten Warrior Cats Katzen vorstellen. &#128571;&#129321;"
     channel_title "Mondstern"
     channel_id "UCBmmrlWAOb7ApUbUqx-xwUw"
     fav_count 0
@@ -6666,7 +6666,7 @@ graph [
     step 0
     date "2015-07-06T20:29:46Z"
     title "Meet me in the Woods - [COMPLETE 48 hour Warrior Cats M.A.P]"
-    description "IT LIVESSS WATCH IN HD! Please click show more below and read the description for more info and FAQ!! So this was a 48 ..."
+    description "&#9733;&#9733; IT LIVESSS &#9733;&#9733; WATCH IN HD!&#10;Please click show more below and read the description for more info and FAQ!!&#10;&#10;&#10;So this was a 48 hour M.A.P (Multi Animator Project). Meaning once it was uploaded/open everyone had just 48 hours to animate their part(s). A couple people had some minor deadline timing issues (myself included haha) but for the most part everyone kept on time and NO ONE dropped out of the MAP. Which baffles me still and I feel so proud of everyone and this project even more because of that.&#10;&#10;This M.A.P is meant to look like an old children's storybook and be all about the comparison between Firestar and Tigerstar throughout the first series. And how even though Firestar wasn't born into the clans, he became a better warrior than Tigerstar ever was. (Probably should have mentioned that vision in the original video lmao sorry). This was also a scripted MAP with a colour scheme and character designs to follow and here's a link to the original script and parts, ect if you are interested: https://youtu.be/ELK1MX8JoJ4.&#10;&#10;THANK YOU EVERYONE YOU ALL WORKED SO DAMN HARD ON YOUR PARTS AND I KEPT GETTING DISTRACTED WATCHING THEM WHILE I WAS ANIMATING THE INTRO.&#10;You're all so talented I'm so happy you all wanted to join the MAP ;w; Seriously, thank you for making this happen. And also thank you to the people who came to the livestreams and hung out for hours.&#10;Now I should stop typing because I always type too much in these things heheh~&#10;&#10;______&#10;&#10;AWESOME PEOPLE WHO TOOK PART:&#10;&#10;Intro: Whiskermoon&#10;1.&#160;st&#9733;rapture&#10;2.&#160;5up3r n0va&#10;3.&#160;ScourgeRussia&#10;4.&#160;Selket&#10;5.&#160;Chiibe&#10;6.&#160;Kalinel&#10;7.&#160;Night Sheep&#10;8.&#160;meow286&#10;9.&#160;kay2036&#10;10.&#160;Chiibe&#10;11.&#160;Lotus The Tiger&#10;12.&#160;Nifty-Senpai&#10;13.&#160;Shilly&#10;14.&#160;Finchwing&#10;15.&#160;SpottedFire25&#10;16.&#160;MacaroniOnly Art&#10;17.&#160;StarryWishy&#10;18.&#160;watersee kitty&#10;19.&#160;jadewolf11lol&#10;20-22.&#160;RyeTaran&#10;23.&#160;Billybo baqqins&#10;24.&#160;ThatScruffyDuckling&#10;25-27.&#160;Maple Spyder&#10;28-30.&#160;Obnoxious Giraffe&#160;&#10;31.&#160;equinox-jls&#10;32-33.&#160;k aiju&#10;34.&#160;Flowing Waves&#10;35.&#160;Colacatinthehat&#10;36.&#160;Shalvark K.&#10;37.&#160;Glitch Sixxle&#10;38.&#160;SpottedFire25&#10;39.&#160;DoctorTrash&#10;40.&#160;moewth&#10;41. Simply Misty&#10;42.&#160;Practical Polarbear&#10;43.&#160;Lukey Charms&#10;44.&#160;Steamy Cafe&#10;45.&#160;illbringyoudown&#10;46.&#160;whitepup&#10;47.&#160;KinzelRox&#10;48.&#160;Mintleafs&#10;49.&#160;Mimaiii&#10;50.&#160;Hyper58&#10;51.&#160;ketzel99 &#10;&#10;Thumbnail art by RyeTaran&#10;Tumblr post: http://thekuiwi.tumblr.com/post/123400739428/its-here-askjlfasnfsfjf-meet-me-in-the-woods&#10;(and special thanks to Forsaken Spirits FS for texture help bless)&#10;____&#10;&#10;- Song: &#8220;Meet me in the Woods&#8221; - Lord Huron&#10;- Stories and characters created by Erin Hunter&#10;_____&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "WhiskerMoon"
     channel_id "UCodkHc_gkjqrIBnRkD8mIPA"
     fav_count 0
@@ -6681,7 +6681,7 @@ graph [
     step 0
     date "2021-08-30T04:27:34Z"
     title "&#128049; NEW CAT SKIN TUTORIAL! || NO GAMEPASS || Warrior Cats: Ultimate Edition"
-    description "Hey Sunnies! Subscribe and like the video for more! Today, I show you guys how I made my most popular cat skins I have!"
+    description "Hey Sunnies! Subscribe and like the video for more! Today, I show you guys how I made my most popular cat skins I have!! I showed you guys in the video how I make 2 of my most popular and favorite skin idea in detail in a step-by-step tutorial! Watch the video how to make these skins yourself!! Comment down below if you guys have any questions! Have a wonderful and relaxing day my Sunnies! And remember to keep smiling! The official SunnyDusty fan Discord link is in the description! See you! C:&#10;&#10;Discord: &#8203;https://discord.gg/xPcXe6AKJT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;TIME STAMPS:&#10;00:00 Introduction&#10;00:57 Cat #1 &#10;13:46 Cat #2&#10;18:40 Outro&#10;&#10;Username: SunnyDusty&#10;Game: Roblox, Warrior Cats: Ultimate Edition"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -6696,7 +6696,7 @@ graph [
     step 0
     date "2019-08-03T14:00:06Z"
     title "TERRIBLE Bootleg Warrior Cats Game"
-    description "So, I found a game on the app store that looked suspiciously similar to Warrior Cats. Is it any good? (Spoilers: of course not) Some ..."
+    description "So, I found a game on the app store that looked suspiciously similar to Warrior Cats. Is it any good? (Spoilers: of course not)&#10;&#10;Some cat art (Tigerstar &#38; Bumblestripe) is by Missy Dakota."
     channel_title "Bright Guardian Akira"
     channel_id "UC1RUbXXXOGB-0O4sHzOM4_A"
     fav_count 0
@@ -6711,7 +6711,7 @@ graph [
     step 0
     date "2022-06-30T21:09:09Z"
     title "Soldier, Poet, King | Warrior cats OCs meme"
-    description "OUT OF YOUR FRIENDS WHICH ARE YOU??? This meme has always been a big headache for me. Thanks to it I started ..."
+    description "OUT OF YOUR FRIENDS WHICH ARE YOU???&#10;&#10;This meme has always been a big headache for me. Thanks to it I started learning animation back in 2018; and since then I tried to make &#34;Soldier-Poet-King&#34; more than three times - always with different characters. And I always dropped it.&#10;&#10;But after all those years, it's finally here :&#34;)&#10;&#10;----&#10;My socials:&#10;Insta - https://www.instagram.com/maroonarrrow/&#10;DeviantArt - https://www.deviantart.com/nemizda&#10;&#10;Songs used: Soldier, Poet, King (by The Oh Hellos) - https://youtu.be/1z8zZBBkIRw&#10;Soldier, Poet, King (by Cullen Vance) - https://youtu.be/BHd1a97mJVU&#10;Original meme by Gothfrog (https://www.youtube.com/c/Gothfrog)"
     channel_title "maroonarrow"
     channel_id "UCsGfTzfRe27fTzXc4bK534Q"
     fav_count 0
@@ -6726,7 +6726,7 @@ graph [
     step 0
     date "2021-10-11T16:42:43Z"
     title "Warrior Cats: Halloween Skins Ideas! #7 &#127875; (Roblox)"
-    description "In this new video, I'll be making for you guys 3 Halloween-themed skins ideas, hope you'll like them! :D I'll see if I do more ..."
+    description "In this new video, I'll be making for you guys 3 Halloween-themed skins ideas, hope you'll like them! :D&#10;I'll see if I do more Halloween stuff in the following week, who knows hehe&#10;&#10;-----&#10;&#10;Join my Discord server! Talk with me and the others members of my community! Join some videos, make friends, talk about what you like and learn to know me!&#10;&#10;Invitation Link: https://discord.gg/FpXtFC2"
     channel_title "Zeira_Wolf"
     channel_id "UCjsZkpuP3AlNdZj9iFuKBzg"
     fav_count 0
@@ -6741,7 +6741,7 @@ graph [
     step 0
     date "2022-02-04T01:24:25Z"
     title "how to make a boy  lion in warrior cats"
-    description "a lion."
+    description "a lion"
     channel_title "Apple The Hybred"
     channel_id "UCU-UxpXmvxV_jjK-iqKnmaA"
     fav_count 0
@@ -6756,7 +6756,7 @@ graph [
     step 0
     date "2019-06-26T13:29:12Z"
     title "&#215; Unbreakable &#215; [Warrior cats] Firestar AMV"
-    description "Thanks for watching &#10084; - Animations don't belong to me Credits: https://youtube.com/c/TennelleFlowers ..."
+    description "&#10084; Thanks for watching &#10084;&#10;- &#10;Animations don't belong to me&#10;&#10;Credits:&#10;&#10;https://youtube.com/c/TennelleFlowers&#10;https://youtube.com/channel/UCpfCaLR2LfrSAAhiCdCSnfg&#10;https://youtube.com/c/Tusofsky&#10;https://youtube.com/user/Eiratheguardian&#10;https://youtube.com/c/CallipeplaCalifornica&#10;https://youtube.com/c/Nebuleer&#10;https://youtube.com/channel/UCWL7AnXr9cfxgKlNiA24aDg&#10;https://youtube.com/c/TheKirinWolf&#10;https://youtube.com/c/ThatScruffyDuckling&#10;https://youtube.com/c/AlexHarrier&#10;https://youtube.com/c/colacatinthehat&#10;https://youtube.com/c/Mickleo&#10;https://youtube.com/c/MapleSpyder&#10;https://youtube.com/user/TheCatsroxzable&#10;https://youtube.com/channel/UC3JKqI1SHBjVJ9eRatx1omg&#10;https://youtube.com/c/RyeTaran&#10;https://youtube.com/c/mrKarafirefox&#10;https://youtube.com/c/Sparroet&#10;https://youtube.com/channel/UCMl4QKOVmpg4XJT-lWfbZ1w&#10;https://youtube.com/c/WarriorCatsFanArt&#10;https://youtube.com/channel/UCcEHcTnT5wrMfsjZsKfStvg&#10;https://youtube.com/user/PHILSTOCK2000&#10;https://youtube.com/c/ForsakenSpiritsFS&#10;https://youtube.com/channel/UCnPmjarAI29LkcGlZPlOAgg&#10;https://youtube.com/user/Selene984&#10;https://youtube.com/c/Shenkkazoo&#10;https://youtube.com/c/Eucalyptussplash&#10;https://youtube.com/user/TheDarknessOfCats&#10;https://youtube.com/c/WhiskerMoon&#10;https://youtube.com/channel/UCb3h5dJONABA66ecKGxJxig&#10;https://youtube.com/c/NiftySenpai&#10;https://youtube.com/channel/UC41Rap7vsAPG0DYa_SnGN6g"
     channel_title "icy &#10054;"
     channel_id "UC3ok3sIXVuVZWWfsbqs-46Q"
     fav_count 0
@@ -6771,7 +6771,7 @@ graph [
     step 0
     date "2022-01-29T20:37:01Z"
     title "Warrior Cats: (NO GAMEPASSES) Skins Ideas! #9 (Roblox)"
-    description "hey there, I hope everyone's doing well :D Today, we're back on Warrior Cats: Ultimate Edition for a new no gamepass skin/morph ..."
+    description "hey there, I hope everyone's doing well :D Today, we're back on Warrior Cats: Ultimate Edition for a new no gamepass skin/morph idea! As promised, yes I am keeping doing those ^^&#10;&#10;One neutral, one feminine and one masculine morph for you to use for free, customize at your will or get inspired from! &#10;The only thing I ask is that you credit me for them if someone in-game asks about it :)&#10;&#10;This video is in a Roblox Game about Warrior Cats, from the Book Series by Erin Hunter where I, Zeira_Wolf will be doing Skins or Morphes for my Viewers, all of this for Free! Hope everyone enjoys ^^&#10;&#10;-----&#10;&#10;Join my Discord server! Talk with me and the others members of my community! Join some videos, make friends, talk about what you like and learn to know me!&#10;&#10;Invitation Link: https://discord.gg/FpXtFC2&#10;&#10;-- MUSIC CREDITS --&#10;&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/infraction/live-it&#10;&#10;License code: A0T5SSQMJRQ8EPUV&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/hartzmann/to-the...&#10;&#10;License code: SF0QHJ48YDHURJKU&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/paulo-kalazzi/he...&#10;&#10;License code: 9EGH691I8CEXOVZR&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/fugu-vibes/spatial&#10;&#10;License code: NKB98PPKN4M0SECQ&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/soundroll/poem&#10;&#10;License code: 0KCJ5ZFZWY1GXKGO&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/northwestern/the...&#10;&#10;License code: AE57EKPD9STXM8B7&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/sensho/good-times&#10;&#10;License code: BKJKQU3R8VJ1RAYU&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/soundroll/tropicana&#10;&#10;License code: WDMDCKYUFVFQKRXC&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/sensho/good-times&#10;&#10;License code: BKJKQU3R8VJ1RAYU&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/ilya-kuznetsov/s...&#10;&#10;License code: GHCF7XREQQA0WCUS&#10;Music from Uppbeat (free for Creators!):&#10;https://uppbeat.io/t/prigida/cozy&#10;&#10;License code: O43SX0YU63GRZ4AG"
     channel_title "Zeira_Wolf"
     channel_id "UCjsZkpuP3AlNdZj9iFuKBzg"
     fav_count 0
@@ -6786,7 +6786,7 @@ graph [
     step 0
     date "2021-07-03T15:47:18Z"
     title "Warrior Cats: (NO GAMEPASSES) Skins Ideas! #5 (Roblox)"
-    description "Finally, it's here! :D A skin idea video where I've used no gamepasses :o It has been asked so often, that I felt like I needed to ..."
+    description "Finally, it's here! :D A skin idea video where I've used no gamepasses :o It has been asked so often, that I felt like I needed to make one ^^ And honestly, it was a ton of fun!&#10;&#10;-----&#10;&#10;Join my Discord server! Talk with me and the others members of my community! Join some videos, make friends, talk about what you like and learn to know me!&#10;&#10;Invitation Link: https://discord.gg/FpXtFC2"
     channel_title "Zeira_Wolf"
     channel_id "UCjsZkpuP3AlNdZj9iFuKBzg"
     fav_count 0
@@ -6801,7 +6801,7 @@ graph [
     step 0
     date "2022-05-06T08:02:33Z"
     title "(May 2022) [NEW] &#38;quot;WARRIOR CATS ULTIMATE EDITION&#38;quot; Roblox Codes | Latest Warrior Cats Codes 2022"
-    description "(May 2022) [NEW] &#34;WARRIOR CATS ULTIMATE EDITION&#34; Roblox Codes | Latest Warrior Cats Codes 2022 Here are all Codes for ..."
+    description "(May 2022) [NEW] &#34;WARRIOR CATS ULTIMATE EDITION&#34; Roblox Codes | Latest Warrior Cats Codes 2022&#10;&#10;Here are all Codes for  Roblox warrior cats ultimate edition 2022 and  How To Use Latest &#38; Valid Codes In Warrior Cats Ultimate Edition that you can redeem for free rewards. Follow the steps and make sure you can&#10;&#10;#Roblox #WarriorCatsUltimateEdition #howtoredeem #warriorcats #Codes #warriorcatscodes #roblox2022"
     channel_title "RedeemBlox"
     channel_id "UCwUd_DDq5xisl9DvSV55lRw"
     fav_count 0
@@ -6816,7 +6816,7 @@ graph [
     step 0
     date "2021-11-24T18:00:14Z"
     title "Warrior Cats Tribute [&#8270;8K subs&#8270;] - Be Careful"
-    description "Hi New video on Warrior Cats, I know you waited for it eheh !!   And i really wanted to say BIG THANK YOU FOR THE 8K Subs !"
+    description "Hi New video on Warrior Cats, I know you waited for it eheh !!&#128518;&#10;&#10;And i really wanted to say BIG THANK YOU FOR THE 8K Subs !! You are the best and editing for youtube is one of the best things in my life... So thank you for all your support, your commants, your likes, thanks for everythings &#129392;&#10;&#10;Enjoy the video (&#8976;&#9632;_&#9632;)&#10;&#10;Time for the editing : 8h25&#10;Editing Software : Wondershare Filmora &#10;&#10;THIS VIDEO IS AN TRIBUTE !!!&#10;All credits go back to the artists, I just did the editing and I absoutely not say that the animations are mine &#10084; (If an artist doesn't agree with the use of his animation(s), please contact me at my pro mail : lalietiny.ytb@gmail.com)&#10;&#10;________________________________________________________________________ &#10;&#10;                        &#128293;ALL CREDITS (Thumbnail, Animations, Song)&#128293;&#10;&#10;(If i forgot anything, tell me in comment)&#10;&#10;Art of the thumbnail by  meow286 &#10;Link of the art : https://www.deviantart.com/meow286/art/Tiger-Sneer-690383335&#10;Link of meow286 on Deviantart : https://www.deviantart.com/meow286&#10;&#10;&#10;Credits of the animations ( The videos quoted are not in order, i apologies) : &#10;&#10;RORY - Complete Ashfur MAP : https://youtu.be/0M3XCB4kzGs&#10;&#10;HOLY THE SEA&#12304;Brambleclaw &#38; Hawkfrost | COMPLETE MAP&#12305;: https://youtu.be/JK8Oq7p-RzY&#10;&#10;WERE-WHISKER [Complete 5 day Were-coyote Sleekwhisker Warrior's MAP] :https://youtu.be/FY8PZ7wFORs&#10;&#10;POOR GEORGE - Complete Yellowfang &#38; Brokenstar MAP (Warriors) : https://youtu.be/22o2QWEHGfw&#10;&#10;&#127875; YOU CAN'T HIDE &#127875; complete dark forest halloween map : https://youtu.be/nAXp7YcFOEM&#10;&#10;UNRAVEL || 2-Week Needletail MAP : https://youtu.be/4A-_PEv_0fI&#10;&#10;Losing My Mind ~ Bluestar |Meme| : https://youtu.be/nC10tV4eRcU &#10;&#10;Ivypool AMV .:Numb:. : https://youtu.be/zYOJRin0YzE&#10;&#10;Greypool - I Of The Storm : https://youtu.be/o8FAHYr3nLw&#10;&#10;Wolf - Leafpool &#38; Crowfeather [Complete Warrior Cats M.A.P] : https://youtu.be/QyFMx7BiFm4&#10;&#10;Ivypool AMV - BLUE : https://youtu.be/vaLxarIUzX8&#10;&#10;Mapleshade AMV - every&#1074;ody w&#945;&#628;&#1090;&#1109; &#1090;o r&#965;le &#1090;&#1085;e world : https://youtu.be/04cRk09-97A&#10;&#10;Closer | Scourge AMV MAP | COMPLETE(FLASH WARNING) : https://youtu.be/OU5wurZYo68&#10;&#10;HIDE | Complete Nightcloud MAP : https://youtu.be/08AOst_PBos &#10;&#10;Open up your eyes | COMPLETE MAP | Crowsong : https://youtu.be/valqki26o0U&#10;&#10;Ready As I'll Ever Be : https://youtu.be/HVTcsw1CW8Y&#10;&#10;Sorry About Your Parents - Hollyleaf and Breezepelt [COMPLETED MAP] : https://youtu.be/a6HVMZtZ0ao&#10;&#10;We All Still Die - Complete Warrior Cats M.A.P [HD] : https://youtu.be/Ji9ciMqrjOc&#10;&#10; Do You Love Me Bramblestar and Ashfur COMPLETE Warriors MAP : https://youtu.be/S2n7cScHX1I&#10;&#10;Do or Die [Complete Firestar M.A.P] : https://youtu.be/9FS8fiRFFLs&#10;&#10;Swiftpaw AMV - In The End : https://youtu.be/txjSCcJBU7g&#10;&#10;&#9665; WARRIORS &#9655; Brambleclaw | Hawkfrost | Tigerstar | Wolf in Sheep's Clothing | PMV : https://youtu.be/pkeExtxnY0k&#10;&#10;Tous les M&#234;mes | COMPLETE Warriors MAP : https://youtu.be/_-_VhJmrVhw&#10;&#10;Song by Tommee Profitt &#10;Link of the song : https://youtu.be/RcL5pvNEZa8&#10;Tommee Profitt's channel : https://www.youtube.com/channel/UC4e7J19VFdz05QPtdHnuLbQ"
     channel_title "Lalie Tiny"
     channel_id "UCBn7utf6Grkc4jUcCrqcgHw"
     fav_count 0
@@ -6831,7 +6831,7 @@ graph [
     step 0
     date "2021-03-19T21:14:03Z"
     title "Medicine Cat animator tribute - SHAED (Warrior Cats)"
-    description "CREDITS: [1] MoodleDoodle [2] Forest [3] Growlipis [4] Catdoq [5] Lukeycharms [6] Mudshadow [7] Korenn [8] Forsakenspirits ..."
+    description "CREDITS:&#10;&#10;&#10;[1] MoodleDoodle &#10;[2] Forest&#10;[3] Growlipis&#10;[4] Catdoq&#10;[5] Lukeycharms&#10;[6] Mudshadow&#10;[7] Korenn&#10;[8] Forsakenspirits / Luxites /Fireworkcat25&#10;[9] ursiday&#10;[10] senpuppy&#10;[11] Dark-yard&#10;[12] Breezii Brat Studios&#10;[13] Chilly Weathers&#10;[14] MaggotFluid&#10;&#10;&#10;&#10;Song: SHAED by Trampoline re-sung by KIDZ BOP Kids"
     channel_title "Alpha Darnia"
     channel_id "UCxadoUZnBvVmB0h3Yx4r31A"
     fav_count 0
@@ -6861,7 +6861,7 @@ graph [
     step 0
     date "2021-12-31T01:38:36Z"
     title "Mothwing in Warrior Cats Ultimate Edition"
-    description "I just decided I would decided to make Mothwing hope you guys enjoyed it! ( Credit to the writers for making mothwing and the dev ..."
+    description "I just decided I would decided to make Mothwing hope you guys enjoyed it!&#10;&#10;( Credit to the writers for making mothwing and the dev for making the game)"
     channel_title "{&#8226;}Inky-Rose {&#8226;}"
     channel_id "UCmru2kSp5ayvM4W6gEy_usw"
     fav_count 0
@@ -6876,7 +6876,7 @@ graph [
     step 0
     date "2021-12-22T19:49:49Z"
     title "Songs that fit the Warrior Cats Part Seven!"
-    description "This could be the final part, so please comment character and songs ideas! (Preferably together) NOT MY MUSIC OR PICTURES ..."
+    description "This could be the final part, so please comment character and songs ideas! (Preferably together)&#10;&#10;NOT MY MUSIC OR PICTURES CREDITS BELOW&#10;&#10;Opening song: Float above by Liam Aidan&#10;&#10;Credits to songs in video.&#10;&#10;Credit to pictures:&#10;PaintedSerenity on Deviant Art &#10;Drakynwyrm on Deviant Art &#10;Uneasywolf on Pinterest&#10;User Garrett1018 on favpng.com&#10;Cascadingserenity&#10;Warrior Cat Designs&#10;Ursiday&#10;Mothmori&#10;Warriors Wiki &#10;Albabelen03 on Deviant Art"
     channel_title "Invisible Asteroids"
     channel_id "UCdiQ378OCGMq717aGlS2UjA"
     fav_count 0
@@ -6891,7 +6891,7 @@ graph [
     step 0
     date "2021-06-06T00:45:24Z"
     title "Warrior Cats Ultimate Edition Previews: Wounds + Herb Treatment!"
-    description "This is fantastically arranged! The wounds are refreshing! And new herb treatment for healing wounds as a medicine cat! Sick!"
+    description "This is fantastically arranged! The wounds are refreshing! And new herb treatment for healing wounds as a medicine cat! Sick! ^^&#10;&#10;&#128523;&#10;&#10;Music - Tenderness: https://www.bensound.com/royalty-free-music/track/tenderness&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/Doj90194615&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -6906,7 +6906,7 @@ graph [
     step 0
     date "2021-12-02T23:25:08Z"
     title "The Nights//warrior cats edit"
-    description "I own non of the animators the art to the thumbnail. credit to all of the animators song- the nights."
+    description "I own non of the animators the art to the thumbnail. &#10;&#10;credit to all of the animators &#10;&#10;song- the nights"
     channel_title "Loyalstar23"
     channel_id "UCw2IUxQdySfRH0YOytgrNmQ"
     fav_count 0
@@ -6921,7 +6921,7 @@ graph [
     step 0
     date "2020-11-13T19:29:19Z"
     title "SHATTER ME || a Warrior Cats Animator Tribute"
-    description "Hi, guys! That's the very first Warrior Cats Animator tribute I made. And it was terribly exhausting. But it was worth the experience ..."
+    description "Hi, guys! That's the very first Warrior Cats Animator tribute I made. And it was terribly exhausting. But it was worth the experience and I also had an incredible amount of fun. So look forward to more ^^. &#10;Special thanks to: @WarriorCat 22, one of my best friends. Without you, none of this would have been possible. The good one has also picked out all the parts of the maps and created a playlist in which everyone can be found. Thank you! &#10;You can find the map parts here:&#10;&#10;https://www.youtube.com/playlist?list=PLA_07wyhpNDKLIoS6oq2bQOJd9JRY-U9t&#10;&#10;I'll mark the artists of the Paintings I used when I found them all&#10;&#10;The Song I used:&#10;&#10;https://youtu.be/49tpIMDy9BE"
     channel_title "Lizzy Prye"
     channel_id "UClsuIDB1kKaYLs60ats4J9g"
     fav_count 0
@@ -6936,7 +6936,7 @@ graph [
     step 0
     date "2021-12-16T21:23:33Z"
     title "Warrior Cats Ultimate Edition | Queen Roleplaying Tips!"
-    description "TYTYTY FOR 80+ SUBSCRIBERS!! I also realized I forgot to say this.. but, warrior video at 50 views! I understand this series will ..."
+    description "TYTYTY FOR 80+ SUBSCRIBERS!!&#10;&#10;I also realized I forgot to say this.. but, warrior video at 50 views! I understand this series will be coming to an end, but don't worry.. I'll continue it as far as possible!&#10;&#10;Videos to expect in this series;&#10;&#10;Warrior video&#10;Simple roleplaying tips for each clan.&#10;Just overall normal roleplaying tips.&#10;Deputy Video&#10;&#10;Even so, once this series comes to an end I will began wings of fire videos!"
     channel_title "|- Aries -|"
     channel_id "UCu674Ox0AG1z9371zcY5iWg"
     fav_count 0
@@ -6951,7 +6951,7 @@ graph [
     step 0
     date "2022-04-06T23:07:35Z"
     title "Warrior Cats Ultimate Edition Ideas: Remodeled small ears"
-    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas). Credit for the ..."
+    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas).&#10;Credit for the content and information in this video goes to Viz! Socials:&#10;Viz Discord: chezburger#0001&#10;Viz Twitter: https://twitter.com/vizavirblx&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/blueberry48593&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -6966,7 +6966,7 @@ graph [
     step 0
     date "2021-10-14T01:47:47Z"
     title "Pirate Hat and Boots! [WARRIOR CATS: ULTIMATE EDITION]"
-    description "Yarrrgh, we`re living the pirate life in this new update! Pavalineox has added the PIRATE HAT AND BOOTS to the game, a limited ..."
+    description "Yarrrgh, we`re living the pirate life in this new update!&#10;Pavalineox has added the PIRATE HAT AND BOOTS to the game, a limited edition accessory that will likely go out of sale around this weekend and costs 399 Robux. (Stay tuned for Sunday, a very special Livestream roleplay will happen then...)&#10;&#10;The Famouz`s Stars Discord Server:&#10;https://discord.gg/sNTsJZZdtD&#10;&#10;The Warrior Cats: Ultimate Edition Discord Server:&#10;https://discord.gg/wcue&#10;&#10;The WarriorCatsRP Group:&#10;https://www.roblox.com/groups/2650756/WarriorCatsRP#!/about&#10;&#10;Warrior Cats: Ultimate Edition:&#10;https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition&#10;&#10;Don`t forget to subscribe if you haven`t already, stars!"
     channel_title "FamouzIsHere"
     channel_id "UCq1DSr-b6zWcSF60tOEd3bw"
     fav_count 0
@@ -6981,7 +6981,7 @@ graph [
     step 0
     date "2020-05-05T19:12:11Z"
     title "Monster- Warrior Cats Animash"
-    description "None of the art/animation in this video belongs to me. All I did was edit it together. Original Animators in order of appearance are ..."
+    description "None of the art/animation in this video belongs to me. All I did was edit it together. &#10;&#10;Original Animators in order of appearance are in the playlist linked below:&#10;&#10;&#10;https://www.youtube.com/playlist?list=PLh0i1hwY4yLAGrYmK5JNw30DcJ3RodEFK&#10;&#10;I was bored so I did this. Uh. Yeah."
     channel_title "thegreatestHamilfan"
     channel_id "UCw4o2rtNl-TwP8h8NKDWhTg"
     fav_count 0
@@ -6996,7 +6996,7 @@ graph [
     step 0
     date "2022-05-02T09:09:42Z"
     title "*May New* Warrior Cats Codes - Roblox Warrior Cats Codes 2022 - Warrior Cats Ultimate Edition"
-    description "May New* Warrior Cats Codes - Roblox Warrior Cats Codes 2022 - Warrior Cats Ultimate Edition keywords -- warrior cats codes ..."
+    description "*May New* Warrior Cats Codes - Roblox Warrior Cats Codes 2022 - Warrior Cats Ultimate Edition&#10;&#10;keywords --&#10;warrior cats codes,roblox warrior cats codes,warrior cats ultimate edition,warrior cats ultimate edition codes,warrior cats,codes for warrior cats ultimate edition 2022,wcue,warrior cats: unlimited edition,warrior cat codes 2022,warrior cats ultimate edition roblox codes,warrior cat codes,warrior cats ultimate edition roblox,warrior cats codes may"
     channel_title "Papa-Helper"
     channel_id "UCDmGZfDe-OE_1kKa2uaOHnA"
     fav_count 0
@@ -7011,7 +7011,7 @@ graph [
     step 0
     date "2022-01-23T18:24:59Z"
     title "9 NEW CAT MODEL IDEAS &#38;amp; MORE! || Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a work in progress and they are not going to be in the game! They are probably going to be in a brand new game. If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :) &#10;&#10;Hi Sunnies! We have some cool new ideas in the Warrior Cats: Ultimate Edition Discord!! How do you guys like the models so far?! I think they look nice and I really hope they put them in the game!! Anyways, how are you guys?! Happy 2022! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -7026,7 +7026,7 @@ graph [
     step 0
     date "2022-03-11T20:21:55Z"
     title "&#127802; 5 NEW SKIN IDEAS! || No Gamepasses Needed! ||Warrior Cats: Ultimate Edition"
-    description "Hi Sunnies! Today, I show you guys 5 new skin ideas in Warrior Cats Ultimate Edition! Also, I'm so sorry that the audio isn't great!"
+    description "Hi Sunnies! Today, I show you guys 5 new skin ideas in Warrior Cats Ultimate Edition! Also, I'm so sorry that the audio isn't great! I've been testing out a new recorder with my new computer! It's worse when the fan is on D:! You are free to use these models in any way though! Anyways, how are you guys?! How is school? Next week is St. Patrick's Day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and I'll make a video on it! Be brave and be happy you guys because everyone only lives once! See you for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;~TIMESTAMPS~&#10;00:00 Intro&#10;00:54 Skin 1&#10;04:35 Skin 2&#10;07:49 Skin 3&#10;11:24 Skin 4&#10;13:43 Skin 5&#10;16:13 Outro&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -7041,7 +7041,7 @@ graph [
     step 0
     date "2017-02-18T02:59:02Z"
     title "&#38;quot;Frost&#38;quot; Mothwing. (ORIGINAL WARRIOR CATS SONG)"
-    description "Download on iTunes &#8594; https://goo.gl/g98eMB Download on Google Play &#8594; https://goo.gl/rjZgbZ Subscribe for more!"
+    description "&#127925;Download on iTunes &#8594; https://goo.gl/g98eMB&#10;&#127925;Download on Google Play &#8594;  https://goo.gl/rjZgbZ&#10;&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;&#10;-----&#10;&#10;A huge thank you to Moonfrost who provided the singing voice of our Mothwing! Make sure you check her channel out!!~&#10;https://www.youtube.com/user/Moonfrost18&#10;&#10;------&#10;&#10;||RULES||&#10;&#10;PLEASE. &#10;-Do not reupload this audio onto your channel without permission from me. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;-&#10;&#10;||Credits||&#10;&#10;Visuals/Art/Editing/Instrumental/Lyrics/Mixing&#10;Blixemi&#10;&#10;Mothwing Vocals&#10;Moonfrost18&#10;https://www.youtube.com/user/Moonfrost18&#10;&#10;Warriors/Mothwing/Hawkfrost&#10;Erin Hunter&#10;&#10;-----&#10;&#10;||Social Medias||&#10;&#10;BLIXEMI&#10;Twitter -  https://twitter.com/Blixemi&#10;Deviantart - http://blixemi.deviantart.com/&#10;&#10;Moonfrost18&#10;Twitter - https://twitter.com/TaraPrentice18&#10;&#10;-----&#10;&#10;LYRICS&#10;&#10;All that you hide from me, has now come to the light.&#10;You sit and weave your lies, like a fox trots through the night.&#10;You fight to convince yourself, so your clanmates will believe.&#10;But your words won&#8217;t stick around, they&#8217;re like dead leaves in the breeze.&#10;&#10;I know all the games you play, all the fear you spread around.&#10;You plant your strategies, like seedlings in the ground.&#10;You abused my destiny, my faith has paid the cost.&#10;The chill is creeping in, I can finally see the frost.&#10;&#10;&#10;You plan trickery with every breath you breathe.&#10;You weave mystery into your history.&#10;Oh brother can&#8217;t you see, what you&#8217;re doing to me.&#10;&#8216;Cause of you I am lost, because I&#8217;m caught in your frost. &#10;&#10;I put my trust in you, I care more than you know.&#10;My heart is broke in two, as I watch the freezing show.&#10;With every step you take, the ice begins to grow.&#10;You leave a trail of death, misfortune where you go.&#10;&#10;Whatever had happened to, the cat you used to be?&#10;Now that he&#8217;s hidden deep, trapped far beneath the freeze.&#10;I know you&#8217;re different now, and my brother is no more.&#10;This is all that&#8217;s left, you&#8217;re frozen straight to the core.&#10;&#10;You plan trickery with every breath you breathe.&#10;You weave mystery into your history.&#10;Oh brother can&#8217;t you see, what you&#8217;re doing to me.&#10;&#8216;cause of you I am lost, because I&#8217;m caught in your frost.&#10;&#10;I never wanted this, this part that I must play.&#10;If Starclan was there at all, they&#8217;d not turn me away.&#10;Now I&#8217;m on my own, and I will pay the cost.&#10;The ice begins to form, now I will  face the frost.&#10;&#10;I&#8217;ll walk without the stars, my path will change tonight.&#10;I&#8217;ll turn my back to you, both stars and blood alike.&#10;I have one chance to take, this is my final shot.&#10;I&#8217;m taking lead tonight, I&#8217;m fighting back the frost.&#10;&#10;You plan trickery with every breath you breathe.&#10;You weave mystery into your history.&#10;Oh brother can&#8217;t you see, what you&#8217;re doing to me.&#10;cause of you I am lost, because I&#8217;m caught in your frost.&#10;&#10;I&#8217;ll plan victory with every breath I breathe.&#10;I&#8217;ll weave mystery into my misery.&#10;Oh brother can&#8217;t you see, how you&#8217;ve empowered me.&#10;Now that you&#8217;re headed to hell, now I can finally melt."
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -7056,7 +7056,7 @@ graph [
     step 0
     date "2021-08-23T20:00:11Z"
     title "&#128293; &#12304;PHOENIX: COMPLETE WARRIOR CATS MAP&#12305; &#128293;"
-    description "Edit: I am dumb and COMPLETELY left out a thumbnail entry! Please check it out here ..."
+    description "Edit: I am dumb and COMPLETELY left out a thumbnail entry! Please check it out here https://www.youtube.com/watch?v=c4_Z3CN9tyY&#10;&#10;After SEVEN years in the making, I am so proud to finally present: Phoenix! &#10;&#10;Initially hosted by ProbablyAWitch, Phoenix was a MAP with no script nor designs: you just did whatever you felt like doing! &#10;&#10;Rehosted by me on another channel, those rules stayed the same and I managed to get the MAP near halfway to completion. However, a couple of years ago, I got locked out of that old channel. In July of 2021, I reposted this MAP call to get it complete and I'm proud to say it finally is!&#10;&#10;NOTE: Yes, some of these parts are SEVEN years old!! That's a LOT of time to improve! Along with that, some parts contain glitches. These are actually in the parts themselves and/or I could not fix them due to the quality of the part. I refused to kick these people out, however, as their parts were perfectly fine when this MAP was originally hosted! &#10;&#10;Please check out ProbablyAWitch here, despite their channel now being inactive: https://www.youtube.com/channel/UCrPGOUVa39N3ggpJVulbO2g&#10;&#10;Please also check out @Ravenflight who won the thumbnail contest!&#10;&#10;Finally, please check out all of the amazing participants: &#10;&#10;0:00 Intro: SaturnSkyez&#10;[https://www.youtube.com/channel/UCT6s2biqhE9ZzAw4VSE9IEA]&#10;0:15 Part 1: SaturnSkyez&#10;[https://www.youtube.com/channel/UCT6s2biqhE9ZzAw4VSE9IEA]&#10;0:22 Part 2: dead_laurus&#10;[https://www.youtube.com/channel/UCgTZtOwiyhRSB-FDIp6ipmw]&#10;0:30 Part 3: Wolfsbanestar1&#10;[https://www.youtube.com/user/Wolfsbanestar1/featured]&#10;0:36 Part 4 &#38; 5: GoldenSand_YT&#10;[https://www.youtube.com/channel/UCf9VRadXmQoh5cP8oyD_gLA]&#10;0:50 Part 6: fungus &#10;[https://www.youtube.com/channel/UC0gDdbsoUGVRVl36fhrFdJg]&#10;0:58 Part 7: tavifilmsYT&#10;[https://www.youtube.com/channel/UCskxE4a4ggsmmAGwB-EWGcQ]&#10;1:05 Part 8: Tumbleweed&#10;[https://www.youtube.com/channel/UCLpA9Voq0wmkVFCzxTY6x5g&#10;1:13 Part 9: Ravenflight&#10;[https://www.youtube.com/user/katiebryentonrochard]&#10;1:19 Part 10: warrior_cats_animations 1&#10;[https://www.youtube.com/channel/UC_IHZaJS3NUGbZOI3pGtBww]&#10;1:27 Part 11: BL0SS0M&#10;[https://www.youtube.com/channel/UCKCfLebJtBGVNSYdgONeKpw]&#10;1:37 Part 12: Quietheart &#10;[https://www.youtube.com/channel/UCewANqpGRWdGNK-EfqtDF5g]&#10;1:44 Part 13: DRAGONWOLFUK&#10;[https://www.youtube.com/channel/UCwh7RYETE8vYufSkrZNZGqQ]&#10;1:51 Part 14: SATCHI&#10;[https://www.youtube.com/channel/UCEfA1KmwgLXiarkG6BQyKCg]&#10;2:00 Part 15: MlTARAI&#10;[https://www.youtube.com/channel/UCxiQa9v18VrsP1d9E55FQmg]&#10;2:06 Part 16: WidowPawz&#10;[https://www.youtube.com/channel/UCKW8H3A4SzfQ_52SAk_u05A]&#10;2:13 Part 17: Wolfsbanestar1&#10;[https://www.youtube.com/user/Wolfsbanestar1/featured]&#10;2:20 Part 18 &#38; 19: Sparx&#10;[https://www.youtube.com/channel/UCJIjne4GTnDqeOVMAPc21LA/featured]&#10;2:32 Part 20: CRISTHIAN VERA&#10;[https://www.youtube.com/channel/UCBymtFer0-00jRhK4vDWFkA]&#10;2:42 Part 21: Cosmic Ember &#10;[https://www.youtube.com/channel/UCo9M9r8lvaApAHdaNXl7b0A]&#10;2:49 Part 22: Channel Unknown: Could Not Be Found&#10;2:56 Part 23 &#38; 24: Kyo-ufu&#10;[https://www.youtube.com/c/Noyasumin]&#10;3:12 Part 25: Cuteflare&#10;[https://www.youtube.com/user/CuteFlareon]&#10;3:19 Part 26: Safulous&#10;[https://www.youtube.com/user/SilverCatProduction]&#10;3:26 Part 27: SaturnSkyez&#10;[https://www.youtube.com/channel/UCT6s2biqhE9ZzAw4VSE9IEA]&#10;3:33 Part 28: FIRECLAWZ&#10;[https://www.youtube.com/channel/UCQVS4c3XbonMU095Bw4hKyQ]&#10;3:40 Part 29: EeveeIsRed&#10;[https://www.youtube.com/channel/UCTAR9AeUTbiVJJw-afy9IXw]&#10;3:47 Part 30: Raven WildArt&#10;[https://www.youtube.com/channel/UC9IYQ9Bxof3qiNqcYG34T6g]&#10;3:55 Part 31: Dawnasaurz__&#10;[https://www.youtube.com/channel/UCnOT2jv_wvCA5w2Nl7hcEKQ]&#10;&#10;Songs: Phoenix &#38; Immortals (Instrumental): both by Fall Out Boy&#10;&#10;There are many INCREDIBLE designs in this MAP, so let me give credit to those I know are present: CelestialSpice, Sagutoyas, Nifty Senpai, Dawnmist, Feather, Lynxspots, and SaturnSkyez! &#10;&#10;---------------------------&#10;FUN STUFF&#10;&#10;I also post on...&#10;Deviantart: SaturnSkyez&#10;Instagram: Saturnskyez&#10;Twitter: SaturnSkyez&#10;Cat Designs have been made for Labyrinth, DC, Once Upon A Time, Marvel, A Series Of Unfortunate Events, and more coming soon!!&#10;Discord Server: https://discord.gg/jHMQXPg3SZ&#10;YOU DO NOT HAVE MY PERMISSION TO UPLOAD THIS VIDEO ANYWHERE ELSE UNLESS PRIVATELY AGREED UPON.&#10;I AM NOT CURRENTLY ACCEPTING REQUESTS FOR&#10;-COHOSTING&#10;-MAP IDEAS&#10;-MAPS TO JOIN&#10;-THUMBNAILS TO DRAW&#10;&#10;Thank you for understanding and TYSM for watching!"
     channel_title "SaturnSkyez"
     channel_id "UCT6s2biqhE9ZzAw4VSE9IEA"
     fav_count 0
@@ -7071,7 +7071,7 @@ graph [
     step 0
     date "2022-07-04T14:20:22Z"
     title "Strip blaze + colorable marking sections [] Warrior Cats Ultimate Edition Ideas"
-    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas). Credit for the ..."
+    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas).&#10;Credit for the content and information in this video goes to Bavelly! Socials:&#10;Discord: Bavelly#0450&#10;Twitter: https://twitter.com/Bavelly3&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/blueberry48593&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -7086,7 +7086,7 @@ graph [
     step 0
     date "2021-10-24T18:36:33Z"
     title "Warrior Cats Ultimate Edition | Medicine Cat Tips!"
-    description "I am informing you about medicine cats! (Finally) The next tip video is at 60 views, and will be the rogue video!"
+    description "I am informing you about medicine cats! (Finally)&#10;&#10;The next tip video is at 60 views, and will be the rogue video!"
     channel_title "|- Aries -|"
     channel_id "UCu674Ox0AG1z9371zcY5iWg"
     fav_count 0
@@ -7101,7 +7101,7 @@ graph [
     step 0
     date "2021-10-17T16:03:29Z"
     title "Warrior Cats Ultimate Edition | Leader Tips!"
-    description "I'm excited to be starting the journey of WCUE on Roblox videos, and I do hope you enjoy this one! I do thank you all for the 200+ ..."
+    description "I'm excited to be starting the journey of WCUE on Roblox videos, and I do hope you enjoy this one!&#10;&#10;I do thank you all for the 200+ Views on the mentoring video, and I've decided to create another one for leaders!&#10;&#10;If this video manages to get 50+ views, i'll be creating a medicine cat tutorial! I plan to get the entire series of roles in Warrior Cats (Rogues, Kittypets, Other animals, ETC.)"
     channel_title "|- Aries -|"
     channel_id "UCu674Ox0AG1z9371zcY5iWg"
     fav_count 0
@@ -7116,7 +7116,7 @@ graph [
     step 0
     date "2021-01-11T13:00:14Z"
     title "Warrior Cats ULTIMATE WINTER Event VIP Gamepass VINE Wraps, BUTTERFLY Monarch Wing! + EXTRA Slots"
-    description "Warrior Cats ULTIMATE WINTER Event VIP Game pass VINE Wraps, BUTTERFLY Monarch Wing! + EXTRA Slots What happens ..."
+    description "Warrior Cats ULTIMATE WINTER Event VIP Game pass VINE Wraps, BUTTERFLY Monarch Wing! + EXTRA Slots&#10;&#10;What happens when a star constellation and a rare gemstone collide? You get lots of awesome (ME!) Haha! I'm Lyronyx and I LOVE all things gaming. This is my official YouTube page. I play lots of different games, but mostly Roblox. I hope you&#8217;ll subscribe to my channel and follow along as I discover new things in the world of gaming! #LySquad!&#10;&#10;Join my Discord! https://discord.gg/rvDQWEhkUs&#10;&#10;My Roblox Group! https://www.roblox.com/groups/3234002/LySquad&#10;&#10;Check out these channels below!&#10;&#10;My sister Hailey&#10;https://www.youtube.com/c/huntrys&#10;&#10;My sister Lyla&#10;https://www.youtube.com/channel/UCuopXBEt0dqqdb_9E2CE2zQ&#10;&#10;Our Family Gaming Channel WPFG&#10;https://www.youtube.com/c/wpfgaming&#10;&#10;Our family channel WPFV&#10;https://www.youtube.com/c/wpfvlogging&#10;&#10;Don't forget to subscribe!&#10;&#10;Follow me!&#10;&#10;Instagram: https://www.instagram.com/Lyronyx&#10;Twitter: https://twitter.com/Lyronyx&#10;&#10;Royalty Free Music: www.purple-planet.com&#10;&#10;&#34;Chee Zee Jungle&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "Lyronyx"
     channel_id "UCJMog4sp7OV26QPN5wtAadg"
     fav_count 0
@@ -7131,7 +7131,7 @@ graph [
     step 0
     date "2018-09-20T13:11:11Z"
     title "[13+] [Legends Never Die] Warrior Cats Animator Tribute"
-    description "Hello guys this is my 2nd animator tribute of Warrior Cats! I'm so proud of it because it turned out so awesome!! Hope you like it!"
+    description "Hello guys this is my 2nd animator tribute of Warrior Cats! I'm so proud of it because it turned out so awesome!! Hope you like it!! &#128513;&#10;&#10;Credit to animators:&#10;GinjaNinjaOwO&#10;Squishae&#10;Olympeia&#10;Darkmoon RAY &#10;Anji Blizzy &#10;OwlSpark &#10;Nightrizer&#10;Finchwing&#10;Sagutoyas&#10;Nifty - Senpai&#10;Colacatinthehat&#10;Starapture&#10;Roseshards&#10;Selket&#10;River Spirit&#10;Kura Kur&#10;Kay2026&#10;PaintedSerenity&#10;Koerenn&#10;Spottedfire25&#10;Salukisilver&#10;&#10;Don't forget to like the video and subscribe to my &#10;channel pls!! &#128521;&#10;&#10;Song: League of legends ft. Against the Current - Legends never die"
     channel_title "xXDarkMoonXx"
     channel_id "UCCiPjyJI16Ya3UYTZC8kHMQ"
     fav_count 0
@@ -7146,7 +7146,7 @@ graph [
     step 0
     date "2021-12-10T13:00:28Z"
     title "WARRIOR CATS!! Ultimate Edition - Here&#38;#39;s EVERYTHING We Know DECEMBER 2021"
-    description "Want to save 10% off some AMAZING gaming gear?! Click this link https://xrockergaming.com/discount/Lyronyx10 and enter code ..."
+    description "Want to save 10% off some AMAZING gaming gear?! Click this link https://xrockergaming.com/discount/Lyronyx10 and enter code LYRONYX10 for 10% off your order!!&#10;&#10;WARRIOR CATS!! Ultimate Edition - Here's EVERYTHING We Know DECEMBER 2021&#10;&#10;What happens when a star constellation and a rare gemstone collide? You get lots of awesome (ME!) Haha! I'm Lyronyx and I LOVE all things gaming. This is my official YouTube page. I play lots of different games, but mostly Roblox. I hope you&#8217;ll subscribe to my channel and follow along as I discover new things in the world of gaming! #LySquad!&#10;&#10;Join my Discord! https://discord.gg/6m2kafg2&#10;&#10;My Roblox Group! https://www.roblox.com/groups/3234002/LySquad&#10;&#10;Check out these channels below!&#10;&#10;My sister Hailey&#10;https://www.youtube.com/c/huntrys&#10;&#10;My sister Lyla&#10;https://www.youtube.com/channel/UCuopXBEt0dqqdb_9E2CE2zQ&#10;&#10;Our Family Gaming Channel WPFG&#10;https://www.youtube.com/c/wpfgaming&#10;&#10;Our family channel WPFV&#10;https://www.youtube.com/c/wpfvlogging&#10;&#10;Don't forget to subscribe!&#10;&#10;Follow me!&#10;&#10;Instagram: https://www.instagram.com/Lyronyx&#10;Twitter: https://twitter.com/Lyronyx&#10;&#10;Royalty Free Music: www.purple-planet.com"
     channel_title "Lyronyx"
     channel_id "UCJMog4sp7OV26QPN5wtAadg"
     fav_count 0
@@ -7176,7 +7176,7 @@ graph [
     step 0
     date "2017-09-20T18:59:20Z"
     title "&#38;quot;I&#38;#39;ll Be Complete&#38;quot; Briarlight. (ORIGINAL WARRIOR CATS SONG)"
-    description "Download on iTunes &#8594; https://goo.gl/g98eMB Download on Google Play &#8594; https://goo.gl/rjZgbZ Subscribe for more!"
+    description "&#127925;Download on iTunes &#8594; https://goo.gl/g98eMB&#10;&#127925;Download on Google Play &#8594;  https://goo.gl/rjZgbZ&#10;&#10;Subscribe for more!  &#8594; https://goo.gl/1eqmUj&#10;Twitter  &#8594; https://goo.gl/ZfTYa9&#10;&#10;----------&#10;&#10;Would you like a chance to sing in a future WC Original Song?&#10;http://bit.ly/2lCJHgj - Fill out this form to sign up!&#10;&#10;----------&#10;&#10;RULES&#10;&#10;PLEASE. &#10;-Do not reupload this audio onto your channel without permission from me. &#10;-Do not nightcore, or redistribute the audio, lyrics, or art, on youtube or any other website. &#10;-I ask that at this point, there are no MAPs created with this audio. Thanks for understanding!&#10;&#10;----------&#10;&#10;CREDITS&#10;&#10;Instrumental/Lyrics/Art/Video Editing&#10;Blixemi&#10;https://blixemi.deviantart.com/&#10;&#10;Briarlight's Vocals-&#10;Carino &#10;http://aminoapps.com/p/1ghepg &#10;&#10;Mixed and Mastered by Recursion Music&#10;https://iamrecursion.com/&#10;&#10;Clarinet Interlude&#10;Ara Adkins&#10;&#10;Warriors&#10;Erin Hunter&#10;&#10;---------&#10;&#10;LYRICS- &#10;&#10;Do you think the stars know,&#10;That they&#8217;re seen from so far down below?&#10;Or when the warm wind blows,&#10;Does it tell the grass to grow?&#10;&#10;Why do you think the birds sing?&#10;Do they think that someone&#8217;s listening?&#10;Or do they sing,&#10;To try and chase away the snow?&#10;&#10;And if the stars hid from the night,&#10;Do you think that someone would realize&#10;The light had died,&#10;Or would they even know?&#10;&#10;And if a silence filled the air,&#10;Do you think that anyone would even care?&#10;Would they be aware,&#10;Of the mounting snow?&#10;&#10;We never notice all the green around us until the season&#8217;s passed.&#10;We never long for the world to slow down until it goes too fast,&#10;If everything plays a grander part in a fate we&#8217;ll never meet,&#10;Is my destiny to fade away, have a goal I&#8217;ll never reach?&#10;Am I incomplete?&#10;&#10;Do you wonder if the snow knows,&#10;It leaves behind a world with room to grow,&#10;Or when the sun dips low,&#10;It gives the moon a chance to glow.&#10;&#10;Do you wonder why the sky cries,&#10;Through its tears it brings forth greener life,&#10;Or when it cries,&#10;Does it even know?&#10;&#10;We never listen for the songs around us until the sound is still.&#10;We never see what our life is worth, and perhaps we never will...&#10;If everything plays a grander part in a fate we&#8217;ll never meet,&#10;Is my destiny to fade away, have a goal I&#8217;ll never reach?&#10;Am I incomplete? &#10;&#10;And though the sky still cries, and the flowers die,&#10;The sun can&#8217;t shine if the rains don&#8217;t pass by,&#10;Flowers die but still they find new life.&#10;&#10;And though may not shine as bright as the stars.&#10;I refuse to let my fate be set by my scars.&#10;I&#8217;ll carry on, and I&#8217;ll do it just for me.&#10;I&#8217;ll be complete.&#10;&#10;We never notice all the green around us until the season&#8217;s passed.&#10;We never long for the world to slow down until it goes by too fast,&#10;If everything plays a grander part in a fate we&#8217;ll never meet,&#10;Is my destiny to fade away, have a goal I&#8217;ll never reach?&#10;&#10;We never listen for the songs around us the sound is still.&#10;We never see what our life is worth, and perhaps we never will...&#10;If everything plays a grander part in a fate we&#8217;ll never meet,&#10;I will not let my days slip away, I will rise up on two feet.&#10;And I&#8217;ll be complete.&#10;&#10;----------&#10;&#10;Thank you for watching!"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -7191,7 +7191,7 @@ graph [
     step 0
     date "2021-12-16T01:45:15Z"
     title "NEW PREY ANIMATION IDEAS + WINTER UPDATE &#38;amp; MORE! || Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! They are are a work in progress and they are ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! They are are a work in progress and they are not going to be in the game! They are probably going to be in a brand new game. If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :) &#10;&#10;Hi Sunnies! We have some cool new ideas in the Warrior Cats: Ultimate Edition Discord!! How do you guys like the models so far?! I think they look nice and I really hope they put them in the game!! Anyways, how are you guys?! How is school? I cannot believe that next week its CHRISTMAS! The year 2021 is going by so fast omg! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -7206,7 +7206,7 @@ graph [
     step 0
     date "2020-06-05T12:00:19Z"
     title "ROBLOX [BETA] Warrior Cats: Ultimate Edition! New Customization! Animations, ADORABLE Running!"
-    description "Roblox Warrior Cats Beta Ultimate Edition! New Customization! Animations, ADORABLE Running! What happens when a star ..."
+    description "Roblox Warrior Cats Beta Ultimate Edition! New Customization! Animations, ADORABLE Running!&#10;&#10;What happens when a star constellation and a rare gemstone collide? You get lots of awesome (ME!) Haha! I'm Lyronyx and I LOVE all things gaming. This is my official YouTube page. I play lots of different games, but mostly Roblox. I hope you&#8217;ll subscribe to my channel and follow along as I discover new things in the world of gaming! #LySquad!&#10;&#10;Join my Discord! https://discord.com/invite/EXmSdsS&#10;&#10;Check out our Family Gaming Channel WPFG!&#10;https://www.youtube.com/c/wpfgaming&#10;&#10;Or our family channel WPFV to see our epic adventures as a fam. &#10;https://www.youtube.com/c/wpfvlogging&#10;&#10;Or my sister Hailey&#8217;s channel Huntrys to watch more gaming vids.&#10;https://www.youtube.com/c/huntrys&#10; &#10;Don't forget to subscribe!&#10;&#10;Follow me!&#10;&#10;Instagram: https://www.instagram.com/lyronyx/&#10;Twitter: https://twitter.com/Lyronyx&#10;&#10;Royalty Free Music: www.purple-planet.com&#10;&#10;&#34;Chee Zee Jungle&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "Lyronyx"
     channel_id "UCJMog4sp7OV26QPN5wtAadg"
     fav_count 0
@@ -7221,7 +7221,7 @@ graph [
     step 0
     date "2017-08-13T14:00:05Z"
     title "THE FINAL BATTLE - Firestar: Day 14 - Warrior Cats Speedpaint/Theory"
-    description "13+ Content Disclaimer: The use of digital artwork in my speedpaints is simply a creative choice to tell a story and give a visual for ..."
+    description "13+ Content Disclaimer: The use of digital artwork in my speedpaints is simply a creative choice to tell a story and give a visual for a scene, and not intended to attract young viewers. This video is an analysis of a YA book that shows violence, gore, and characters in situations of distress. And giving my thoughts and opinions and theories behind the writing. Viewer discretion is advised. Anyways, I&#8217;d love to hear in the comments section down below what you think of Firestar&#8217;s life. Did he fulfill his prophecy &#8211; &#8220;Fire Alone Will Save the Clan&#8221;. He didn&#8217;t do it alone always, he had the support of friends along the way. But I suppose he did have his tests of standing alone, when Graystripe left to live in RiverClan and such. But &#8211; I&#8217;d like to hear what you think on the matter &#8211; where on your list of favorite leaders does Firestar fall?"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -7236,7 +7236,7 @@ graph [
     step 0
     date "2021-10-29T19:00:29Z"
     title "Warriors: Into the Wild | Chapter 21 | Warrior Cats Voice Acted Audio Book"
-    description "Artist for this video: AnotherChaoticFox Voices for this video: Firepaw: Matt (https://twitter.com/EpicrockerTT) Tigerclaw: Grant ..."
+    description "Artist for this video: AnotherChaoticFox&#10;&#10;Voices for this video:&#10;Firepaw: Matt (https://twitter.com/EpicrockerTT)&#10;Tigerclaw: Grant (https://www.youtube.com/channel/UC__T4ql8NIlSdmf9tCrPu6A/featured)&#10;Narrator (Tempest): Tobias Fink (https://twitter.com/TheCopyKater)&#10;Darkstripe: NKSerg (https://youtube.com/channel/UC7aAypXwy8pp0GIjmTT8Uaw)&#10;Bluestar: Sarah Prowell (https://twitter.com/SarahP_VO)&#10;Frostfur: Minima&#10;Speckletail: Avaltah https://youtube.com/channel/UCEZZQ74hyFGKx618ahPBNYA&#10;Graypaw: Adrian (https://twitter.com/batenkaitosfan)&#10;Ravenpaw: Islacreeper https://twitter.com/islavoiceacts?s=09&#10;&#10;Script Writer for this video: Terson https://twitch.tv/tersonva&#10;&#10;Audio Editor: Cryptiott&#10;Audio Finalizer: Noah (https://twitter.com/TwitchSqueak)&#10;Story Editor: Matt (https://twitter.com/EpicrockerTT)&#10;OST: Nora https://www.youtube.com/channel/UChPJ8fp_c4coK-S2mHsftng/videos&#10;&#10;For updates on new episodes and artwork, follow our twitter and join our discord! You can also talk to us there too! &#10;https://twitter.com/WarriorsFanDub&#10;https://discord.com/invite/warriorcatsfandub&#10;&#10;In correspondence of the Digital Millennium Copyright Act (DMCA) this is a transformative work of the original copyrighted work from Erin Hunter and HarperCollins Publisher. Further, WarriorsFanDubProject claims no ownership of the Warriors series and does not seek to gain from the distribution of this work. these are not meant to be used as a substitute for the professional recordings."
     channel_title "Warrior Cats Fandub"
     channel_id "UC9YOzhwgQB7aZGhgZRbJH0w"
     fav_count 0
@@ -7251,7 +7251,7 @@ graph [
     step 0
     date "2022-01-01T19:23:53Z"
     title "NEW KIT REMODEL IDEA *SO CUTE!*  || Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a work in progress and they are not going to be in the game! They are probably going to be in a brand new game. If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :) &#10;&#10;Hi Sunnies! We have some cool new ideas in the Warrior Cats: Ultimate Edition Discord!! How do you guys like the models so far?! I think they look nice and I really hope they put them in the game!! Anyways, how are you guys?! How is school? And Happy New Year! I cannot believe that its 2022 already!!! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and i'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;My Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cat Discord Server: https://discord.gg/WkDbnzA4hT&#10;Twitter: https://mobile.twitter.com/sunny_dusty&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -7266,7 +7266,7 @@ graph [
     step 0
     date "2022-02-05T17:00:20Z"
     title "Warrior Cats as Video Games"
-    description "silly business."
+    description "silly business"
     channel_title "Moonkitti"
     channel_id "UCfn--_mAGkhYWP2NYa2NBwg"
     fav_count 0
@@ -7281,7 +7281,7 @@ graph [
     step 0
     date "2022-07-10T22:11:01Z"
     title "your the man, but I got the power | crowheart | warrior cats"
-    description "edit #capcut #fyp #digitalart #warriorcatsultimateedition #warriorcats #ibispaintx."
+    description "#edit &#10;#capcut &#10;#fyp &#10;#digitalart &#10;#warriorcatsultimateedition &#10;#warriorcats &#10;#ibispaintx"
     channel_title "yqmx-!"
     channel_id "UCjV8xPF6QijbWV8SnmLXc9g"
     fav_count 0
@@ -7296,7 +7296,7 @@ graph [
     step 0
     date "2015-01-24T19:18:24Z"
     title "Wolf - Leafpool &#38;amp; Crowfeather [Complete Warrior Cats M.A.P]"
-    description "My first map is now finished and I'm like woAH MASSIVE thank you to each and everyone who helped out and was a part of the ..."
+    description "My first map is now finished and I'm like woAH&#10;&#10;MASSIVE thank you to each and everyone who helped out and was a part of the map, I still can't believe how many of you wanted to take part *insert heart here*. This was very much a learning experience for me so I hope I did alright&#10;&#10;:EDIT2: raliugKJBDGJKDABGKJBADGAGBEKJBGJDBGD 500K I DON'T EVEN KNOW WHAT TO SAY ANYMORE??&#10;:EDIT: jfcjfcjfcjfcj over 100k of views hold me thank you all. Also a few people have asked if crowfeather is the one that dies in the map, and no he does not - that is a different cat. Check out the map script linked below if you are unsure.&#10;&#10;::EDIT:::: OVER 200K IM SCReAMING&#10;___&#10;&#10;This M.A.P (Multi Animator Project) is all about Leafpool and Crowfeather and how their relationship started, ended and the trouble it caused.&#10;Here's a link to the original script and parts if you are interested: http://youtu.be/grxrn_ki58c&#10;&#10;AWESOME PEOPLE WHO TOOK PART (Channels linked on end credits!)&#10;&#10;Part 1-2: Whiskermoon&#10;Part 3: Littaly&#10;Part 4: Spooky Hollows&#10;Part 5: PHILSTOCK2000&#10;Part 6: Ravi&#10;Part 7: Fireworkcat25&#10;Part 8: Spring Feather&#10;Part 9: Eliza1star&#10;Part 10-10.5: codesneezes&#10;Part 11-12: Nifty-Senpai&#10;Part 13: Milk bowl&#10;Part 14: CatzTUM&#10;Part 15: XMidnightXRoseX&#10;Part 16: Schneeblatt&#10;Part 17: melancholy-dawn &#38; Ninja Nekos team: consisting of myself, Radvumtal, Nifty-Senpai, Fireworkcat25 and Shilly.&#10;Part 18: Radvumtal&#10;Part 19: Bex (http://bextie.deviantart.com/)&#10;Part 20: Fireworkcat25 &#38; Ninja Nekos team: consisting of Nifty-Senpai, Radvumtal, me, and a few others let me know if i forgot to put your name here omg&#10;&#10;____&#10;&#10;- TUMBLR POST: http://thekuiwi.tumblr.com/post/109027662178/its-done-wolf-leafpool-and-crowfeather-m-a-p&#10;- Song: Wolf by First Aid Kit&#10;- Stories and characters created by Erin Hunter&#10;- Credit song: Lion's Roar by First Aid Kit&#10;- Thumbnail/credits picture drawn by amazing XMidnightRoseX: http://xmidnightxrosex.tumblr.com/post/108381915289/so-heres-fan-art-for-a-warriors-map-im-in-thats&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channel_title "WhiskerMoon"
     channel_id "UCodkHc_gkjqrIBnRkD8mIPA"
     fav_count 0
@@ -7311,7 +7311,7 @@ graph [
     step 0
     date "2022-06-10T22:43:02Z"
     title "NEW BODY TYPES, CATARACTS &#38;amp; MORE IDEAS! + NEW MIC!  |Warrior Cats: Ultimate Edition"
-    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a ..."
+    description "DISCLAIMER: All of these images and models you see in this video are just ideas! (AND THIS IS NOT MY GAME) They are are a work in progress for a game on Roblox called Warrior Cats: Ultimate Edition and they may or may not going to be in the game! If you don't like something about the cats or any of the models, please just know that they might be changed in the future! Let me know if you have any questions! :)  &#10;&#10;Hi Sunnies! I try out a new mic in this video (new headset mic) and I show y'all lots of warrior cat ideas! We got some new cataracts, updated blind eyes, and 3 new body types! Watch the whole video to find out what they are!  Anyways, how are you guys?! Don't forget to look in the comments for the question of the day! Live every moment to the fullest you guys! Have a wonderful day and don't forget to join my Discord! (Links below!) Let me know if you guys want more Warrior Cat videos! Also let me know what games you guys want to see and I'll make a video on it! Be brave and be happy you guys because everyone only lives once! Cya for the next video! :D&#10;&#10;SunnyDusty YT Official Discord Server: &#8203;https://discord.gg/xPcXe6AKJT&#10;Warrior Cats Ultimate Edition Discord Server: https://discord.gg/WkDbnzA4hT&#10;Warrior Cats Ultimate Edition Tiktok: https://www.tiktok.com/@warrior.cats.ue&#10;&#10;Game: Roblox, Warrior Cats: Ultimate Edition&#10;Username: SunnyDusty&#10;&#10;#WarriorCats #WCUE"
     channel_title "SunnyDusty"
     channel_id "UC2_qwvz_DOla7vl7zbUtv2Q"
     fav_count 0
@@ -7326,7 +7326,7 @@ graph [
     step 0
     date "2022-04-15T19:14:13Z"
     title "ROBLOX WARRIOR CATS ULTIMATE EDITION | PREY IDEAS"
-    description "Make sure to like and subscribe for more warrior cats ultimate edition videos !!! Roblox warrior cats ultimate edition prey ..."
+    description "Make sure to &#128077; like and &#128276; subscribe for more warrior cats ultimate edition videos !!!&#10;&#10;Roblox warrior cats ultimate edition prey update ideas&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10004;&#65039; Join my Discord: https://discord.gg/W9sSP6A &#10;&#10004;&#65039; Join my Roblox Group: https://www.roblox.com/groups/4094584/AQtheGamers-Fan-Club&#10;&#10004;&#65039;Follow me on Instagram: https://www.instagram.com/aqthegamer/&#10;&#10004;&#65039; Follow me on Twitter: https://twitter.com/AQtheGamer&#10;&#10004;&#65039; Follow me on Roblox: https://www.roblox.com/users/343089064/profile&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;All the pictures used in this video are from Warrior Cats: Ultimate Edition Discord server&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;Track: TheFatRat - Monody&#10;Watch: https://youtu.be/B7xai5u_tnk&#10;&#10;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;&#10;&#10;#roblox #warriorcats&#10;&#10;&#10;&#10;0:00 Intro&#10;0:10 Black Rat&#10;0:20 Wood Mouse&#10;1:26 Size Comparison&#10;1:32 European Common Frog&#10;1:46 Rainbow Trout&#10;2:00 Eastern Grey Squirrel &#10;2:10 Song Thrush&#10;2:24 European Rabbit&#10;2:56 Outro"
     channel_title "AQtheGamer"
     channel_id "UCI5IBHgowLuQZRQQUbVKRUg"
     fav_count 0
@@ -7341,7 +7341,7 @@ graph [
     step 0
     date "2020-07-11T13:30:01Z"
     title "ROBLOX [BETA] Warrior Cats: Ultimate Edition! NEW MORPHS - Half Mask, Nose Blaze, Scars"
-    description "ROBLOX [BETA] Warrior Cats: Ultimate Edition! NEW MORPHS - Half Mask, Nose Blaze, Scars. What happens when a star ..."
+    description "ROBLOX [BETA] Warrior Cats: Ultimate Edition! NEW MORPHS - Half Mask, Nose Blaze, Scars.&#10;&#10;What happens when a star constellation and a rare gemstone collide? You get lots of awesome (ME!) Haha! I'm Lyronyx and I LOVE all things gaming. This is my official YouTube page. I play lots of different games, but mostly Roblox. I hope you&#8217;ll subscribe to my channel and follow along as I discover new things in the world of gaming! #LySquad!&#10;&#10;Join my Discord! https://discord.com/invite/EXmSdsS&#10;&#10;Check out our Family Gaming Channel WPFG!&#10;https://www.youtube.com/c/wpfgaming&#10;&#10;Or our family channel WPFV to see our epic adventures as a fam. &#10;https://www.youtube.com/c/wpfvlogging&#10;&#10;Or my sister Hailey&#8217;s channel Huntrys to watch more gaming vids.&#10;https://www.youtube.com/c/huntrys&#10; &#10;Don't forget to subscribe!&#10;&#10;Follow me!&#10;&#10;Instagram: https://www.instagram.com/lyronyx/&#10;Twitter: https://twitter.com/Lyronyx&#10;&#10;Royalty Free Music: www.purple-planet.com&#10;&#10;&#34;Chee Zee Jungle&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/"
     channel_title "Lyronyx"
     channel_id "UCJMog4sp7OV26QPN5wtAadg"
     fav_count 0
@@ -7356,7 +7356,7 @@ graph [
     step 0
     date "2021-11-05T18:59:14Z"
     title "Squirrelflight. Know Your Clanmate #7 (WARRIOR CATS PARODY)"
-    description "All the things you didn't know about Squirrelflight! ___ ||~Where To Find Me!~|| Follow my Twitter! &#8594; https://goo.gl/ZfTYa9 Want to ..."
+    description "All the things you didn't know about Squirrelflight!&#10;___&#10;&#10;||~Where To Find Me!~||&#10;&#10;Follow my Twitter!  &#8594; https://goo.gl/ZfTYa9&#10;&#10;Want to see videos and hear songs EARLY? Be a part of an exclusive &#34;Blixemi Super Fan&#34; discord server? &#38; Much MORE?&#10;Then check out my Patreon! &#8594; https://www.patreon.com/Blixemi&#10;&#10;||---------||&#10;&#10;CREDITS&#10;&#10;Squirrelflight: Puzzle Parrot &#10;Youtube&#8594; https://bit.ly/3nToWKD&#10;Twitter &#8594; https://twitter.com/thepuzzleparrot&#10;&#10;Announcer/Art/Script/Animation - Blixemi&#10;&#10;Warrior Cats/ &#34; Squirrelflight &#34; - Erin Hunter&#10;&#10;||---------||&#10;&#10;Parody of-&#10;Original Video (All That - Know your Stars)&#10;https://www.youtube.com/watch?v=j65OO...&#10;&#10;MLP Parody (Know Your Mare)&#10;https://youtu.be/B_c7CPLlzO8"
     channel_title "Blixemi"
     channel_id "UCmFLyqdH8Qdfj6gvlRnDm1g"
     fav_count 0
@@ -7371,7 +7371,7 @@ graph [
     step 0
     date "2022-07-03T13:20:54Z"
     title "How to make a Black Warrior Cat in 5 minutes"
-    description "Warrior Cats  Or how the light cat turned black shorts TikTok &#10240; Sasha read the book Warrior Cats and she really wanted to ..."
+    description "Warrior Cats&#128574;Or how the light cat turned black &#128513;&#128513;shorts TikTok&#10;&#10240;&#10;Sasha read the book Warrior Cats and she really wanted to make her light cat black&#128008;&#8205;&#11035;&#10;&#10240;&#10;Link to video&#128073; https://youtu.be/HG9z3Q8wU58 &#10;&#10240;&#10;Subscribe to our channel to learn a lot of new and interesting things from me and get positive with us!&#128071;&#10;YouTube Sashaskasala https://www.youtube.com/channel/UCvmELENC4XOJCzxU0oPqPtg/featured&#10;&#10240;&#10;INSTAGRAM https://www.instagram.com/sasha_skazala/&#10;LIKEE https://likee.video/@sasha_skazala&#10;TIK TOK https://www.tiktok.com/@fam_story_&#10;&#10240;&#10;&#1087;&#1086;&#1087;&#1091;&#1083;&#1103;&#1088;&#1085;&#1099;&#1081; &#1082;&#1072;&#1085;&#1072;&#1083; brawl stars &#1073;&#1088;&#1072;&#1074;&#1083; &#1089;&#1090;&#1072;&#1088;&#1089; &#1090;&#1088;&#1077;&#1085;&#1076;&#1099; &#1090;&#1080;&#1082; &#1090;&#1086;&#1082; &#1090;&#1080;&#1082;&#1090;&#1086;&#1082; &#1096;&#1086;&#1088;&#1090;&#1089;&#1099; &#1082;&#1088;&#1086;&#1084;&#1077;&#1096;&#1085;&#1099;&#1081; &#1072;&#1076; &#1090;&#1088;&#1091;&#1084; &#1090;&#1088;&#1091;&#1084; &#1084;&#1072;&#1081;&#1085;&#1082;&#1088;&#1072;&#1092;&#1090; &#1089;&#1084;&#1077;&#1096;&#1085;&#1099;&#1077; &#1074;&#1080;&#1076;&#1077;&#1086; &#1073;&#1077;&#1088;&#1080; &#1080; &#1076;&#1077;&#1083;&#1072;&#1081; &#1090;&#1086;&#1087; 10 &#1089;&#1086;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1099;&#1077; &#1088;&#1086;&#1083;&#1080;&#1082;&#1080; &#1089;&#1072;&#1096;&#1072; &#1089;&#1082;&#1072;&#1079;&#1072;&#1083;&#1072; &#1087;&#1088;&#1080;&#1082;&#1086;&#1083;&#1099; memes tiktok cringe alt tiktok dank memes tiktok memes genshin impact badbaarbie tiktok 2022 tiktok mashup video tiktok mashup 2022 xo team tiktok mashup 2021 dhar mann cats &#1090;&#1086;&#1087; 5"
     channel_title "Sasha Skazala"
     channel_id "UCvmELENC4XOJCzxU0oPqPtg"
     fav_count 0
@@ -7386,7 +7386,7 @@ graph [
     step 0
     date "2021-10-06T21:12:44Z"
     title "Warrior Cats Ultimate Edition Ideas: Update on the concept model"
-    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas). Credit for the ..."
+    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas).&#10;Credit for the information in the WCUE Discord goes to Bav!&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/blueberry48593&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -7401,7 +7401,7 @@ graph [
     step 0
     date "2021-05-27T16:30:11Z"
     title "Warrior Cats: Ultimate Edition | SPEEDRUN"
-    description "Link to discord: https://discord.gg/h8W9EzjaEW Fanart Email: littlesproutart@gmail.com Game: ..."
+    description "Link to discord: https://discord.gg/h8W9EzjaEW&#10;Fanart Email: littlesproutart@gmail.com&#10;&#10;&#10;Game: https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition-BETA?refPageId=bef13e69-7b08-40e3-809b-b940053a189a"
     channel_title "Littlesprout's Stories"
     channel_id "UCaSCdIv5TjmJVrSF_ix_NOg"
     fav_count 0
@@ -7416,7 +7416,7 @@ graph [
     step 0
     date "2022-06-11T21:39:14Z"
     title "Update on the kit remodel + suitable collar [] Warrior Cats Ultimate Edition Ideas"
-    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas). Credit for the ..."
+    description "For those that are not in the WCUE discord, this is for you (and for those that just want to see these amazing ideas).&#10;Credit for the content and information in this video goes to Bavelly! Socials:&#10;Discord: Bavelly#0450&#10;Twitter: https://twitter.com/Bavelly3&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/blueberry48593&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -7431,7 +7431,7 @@ graph [
     step 0
     date "2022-07-10T21:05:00Z"
     title "&#128376; Dark Forest &#128376; Speed edit Warrior Cats"
-    description "Dark forest warrior cats erin hunter mapleshade :v Dark Forest vs starclan XD bye."
+    description "Dark forest &#10;warrior cats&#10;erin hunter&#10;mapleshade &#10;:v &#10;Dark Forest vs starclan &#10;&#10;XD bye"
     channel_title "Muffinpaw the apprentice cat"
     channel_id "UCWcaikzHkmOD60CQ8iL7UTw"
     fav_count 0
@@ -7461,7 +7461,7 @@ graph [
     step 0
     date "2022-07-09T16:48:29Z"
     title "6 Warrior Cats Deaths"
-    description "warriorcats."
+    description "#warriorcats"
     channel_title "&#129409; Epic Animal Content &#128054;"
     channel_id "UCkUBzZp9mhTFEgF_U9Atj_Q"
     fav_count 0
@@ -7476,7 +7476,7 @@ graph [
     step 0
     date "2022-07-08T01:43:10Z"
     title "Redrobin is back [] Warrior Cats Ultimate Edition"
-    description "After months of abandonment, Redrobin is finally back as one of my background OCs (some people might remember him)."
+    description "After months of abandonment, Redrobin is finally back as one of my background OCs (some people might remember him).&#10;&#10;My Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;Music - Happy Rock: https://www.bensound.com/royalty-free-music/track/happy-rock&#10;&#10;OCs Featured (My OCs):&#10;Redrobin.&#10;&#10;Interested in checking out the . . .&#10;WCUE Discord Server: https://discord.gg/wcue&#10;WCUE Roblox Game: (Link Is On My About Page.)&#10;WCUE Offical Twitter: https://twitter.com/wcrproblox&#10;Blueberry Twitter: https://twitter.com/blueberry48593&#10;Blueberry Discord Server: https://discord.gg/ES6zpx6BEr&#10;&#10;[Tags for exploring more useful content within related categories!]&#10;#warriorcats&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#warriorcatsultimateedition&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;#roblox&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;"
     channel_title "Blueberry"
     channel_id "UCkMT80ZSTMj1VYqn-3BKZyQ"
     fav_count 0
@@ -7491,7 +7491,7 @@ graph [
     step 0
     date "2022-07-10T22:00:05Z"
     title "Warrior Cats Clan Generator Challenge! | ThornClan (Part 3)"
-    description "&#4326; LIKE, COMMENT, SUBSCRIBE!&#4326; &#4326; &#4326; Don't Forget To Hit The Notification Bell So You Won't Miss A Video! &#4326; &#4326; Its been ..."
+    description "&#4326; LIKE, COMMENT, SUBSCRIBE!&#4326; &#10;&#4326; &#4326; Don't Forget To Hit The Notification Bell So You Won't Miss A Video! &#4326; &#4326; &#10;&#10;Its been awhile since I've uploaded, but I do plan to start uploading more again! &#10;&#10;Any cats I choose not to personally keep will be sold on my Toyhouse/DeviantART ! &#10;I had a lot of fun designing these cuties! Very excited to design more of em&#10;&#10;Artist Notes:&#10;&#9733; Swanfoot got into many fights previously, causing him to be scarred and losing his right front leg&#10;&#9733; Gingerear is an angry shortie&#10;&#9733; Beechbriar is a sweet bean, much love&#10;&#9733; Rooknose is a bubbly bean &#10;&#10;&#10;Check out Part 1 !  https://www.youtube.com/watch?v=Dakv55wz_vE&#38;t=5s&#10;&#10;Generator Used: https://perchance.org/warrior-cat-clans&#10;&#10;Check out our Twitch! &#10;https://www.twitch.tv/endlesssketch&#10;&#10;&#9733; Commissions &#9733;&#10;https://endlesssketch.carrd.co/"
     channel_title "EndlessSketch"
     channel_id "UCrD6V3G8dfQqzsE2jBgEZEA"
     fav_count 0
@@ -7551,7 +7551,7 @@ graph [
     step 0
     date "2022-07-09T21:07:03Z"
     title "Warrior Cats Slander"
-    description "lol murder cats Cats kitties kittens meme slander slandermeme warriors warriorcats amongus minionsriseofgru Minecraft mrbeast ..."
+    description "lol murder cats&#10;&#10;&#10;&#10;&#10;#warriorcats #slander &#10;&#10;&#10;&#10;Cats kitties kittens meme slander slandermeme warriors warriorcats amongus minionsriseofgru Minecraft mrbeast pewdiepie dream"
     channel_title "Carl TheDuck"
     channel_id "UCDUfyFQTwyO_yInclnRGLrA"
     fav_count 0
@@ -7581,7 +7581,7 @@ graph [
     step 0
     date "2022-07-06T17:09:45Z"
     title "Serpent Sol Part 127 &#8211; Weekend Warrior Cats MAP"
-    description "It's done! I definitely didn't expect it to be so easy to scan in. Did you know that CSP has a &#8220;change value to opacity&#8221; feature?"
+    description "It&#8217;s done! I definitely didn&#8217;t expect it to be so easy to scan in. Did you know that CSP has a &#8220;change value to opacity&#8221; feature? It makes scanning in traditional lineart to color so, so easy. I recommend checking it out if you get the chance.&#10;&#10;Anyway, traditionally animating the character was so exciting! I definitely wouldn&#8217;t mind doing more map parts like this at some point. Really allows me to flex my creative muscles. &#10;&#10;If you want to see the WIP, check out the video right before this one on my channel :) it&#8217;s pretty neat.&#10;&#10;Finished MAP: TBA&#10;MAP Call (backups open): https://youtu.be/1Yso8mYJnEw&#10;Playlist of Parts: https://youtube.com/playlist?list=PLbSyL5k7nLJjW-c3QpxTI7P-Uo8WY7gsm&#10;&#10;Tools Used: Lightbox + animation paper, CSP EX, After Effects&#10;FPS: 24 (2s, 3s)"
     channel_title "LenisLynx"
     channel_id "UCATifYIWznKw8NdCi_qhBRw"
     fav_count 0
@@ -7596,7 +7596,7 @@ graph [
     step 0
     date "2022-07-10T23:24:41Z"
     title "Warrior Cats Morph Idea!"
-    description "this took 7 minutes."
+    description "this took 7 minutes"
     channel_title "RocketWired"
     channel_id "UCpc_kPQXBna9UlXSdaj3Keg"
     fav_count 0
@@ -7641,7 +7641,7 @@ graph [
     step 0
     date "2022-07-11T07:05:46Z"
     title "peaky blinder - warrior cats comfort character map - part 1 (bristlefrost)"
-    description "for wrenkou!! so glad to have participated in this, so thank u! - did a little voiceover/process thing for funsies. since this is a ..."
+    description "for wrenkou!! so glad to have participated in this, so thank u!&#10;-&#10;did a little voiceover/process thing for funsies. since this is a personal warriors map i thought i'd explain my thought process through this. super simple part but very happy with the turnout!! EXCEPT for the fact i just noticed i forgot a part of stem&#8217;s design in the last scene&#129394; so everyone ignore that please and thank you&#10;-&#10;map call: https://www.youtube.com/watch?v=dMXCaLaAU2Q&#10;other places to find me: https://linktr.ee/neptunnne&#10;-&#10;song is peaky blinder by otnicka&#10;outro song is from pokemon ORAS&#10;art/editing/designs are by me&#10;characters are bristlefrost, stemleaf, and spotfur from warrior cats"
     channel_title "neptunnne"
     channel_id "UCM7Man-1pdAoxlvAs-hoJQQ"
     fav_count 0
@@ -7671,7 +7671,7 @@ graph [
     step 0
     date "2022-07-08T10:55:49Z"
     title "Sol&#38;#39;s Whisper || Warrior Cats AU MAP [Part 33]"
-    description "I couldn't go pass the Raury song so))) Amazing thumbnail art at the begining's made by Sally ..."
+    description "I couldn't go pass the Raury song so)))&#10;&#10;Amazing thumbnail art at the begining's made by Sally&#10;https://youtube.com/c/SallyChelDerlung&#10;-----------------------------------------------------------------------&#10;MAP Call : https://youtu.be/MCelJdodWCo&#10;&#10;Program :&#10;FireAlpaca (Art and animation)&#10;IbisPaintX (BGs)&#10;Adobe Premiere Pro (Editing)&#10;&#10;Song : https://youtu.be/gFjqAtxW2s0&#10;------------------------------------------------------------------------&#10;&#10;Find me :&#10;&#10;WA Amino : BRandy&#10;Instagram : _brandy_candy_&#10;Discord : BRandy#1250"
     channel_title "BRandy"
     channel_id "UCHz42Afbl7jOBU1YpaQ9eDg"
     fav_count 0
@@ -7716,7 +7716,7 @@ graph [
     step 0
     date "2022-07-08T00:01:06Z"
     title "Warrior cats edgy Leafpool confirmed (Spoilers for Power Of Three: The Sight!) //Read desc"
-    description "Art at the end isn't mine! It's a cover for one of the warrior cats books (Twilight)! Anyways I read this part in the book and decided to ..."
+    description "Art at the end isn&#8217;t mine! It&#8217;s a cover for one of the warrior cats books (Twilight)! &#10;Anyways I read this part in the book and decided to make a silly video about it cuz I thought it was funny that they used the word &#8220;Edgy&#8221;"
     channel_title "~Lemon'leaf warriors!~"
     channel_id "UCXZWSzD_q4hy2MM1EvZpdtQ"
     fav_count 0
@@ -7746,7 +7746,7 @@ graph [
     step 0
     date "2022-07-09T16:49:58Z"
     title "Part 17 | Warrior Cats MAP | Mapleshade&#38;#39;s Past"
-    description "This was incredibly fun to make! Mapleshade has to be one of the more interesting villains in Warrior Cats, especially with the past ..."
+    description "This was incredibly fun to make! Mapleshade has to be one of the more interesting villains in Warrior Cats, especially with the past that she had, and I loved drawing the scene at the end :)&#10;&#10;Links! &#10549;&#10;&#10;MAP Call: https://youtu.be/dnDn43LgtTw&#10;Host's Channel: https://youtube.com/user/MarquaridaWN&#10;My Carrd: https://noirtheguardian.carrd.co/"
     channel_title "Noir The Guardian"
     channel_id "UCGiIF6-o6oYs2t1etoPGvtg"
     fav_count 0
@@ -7761,7 +7761,7 @@ graph [
     step 0
     date "2022-07-10T15:57:45Z"
     title "Mary (warrior cats oc animatic) (blood warning)"
-    description "Yes, I only make animatics because I want to. This animatic was actually almost finished but when I watched it again I decided to ..."
+    description "Yes, I only make animatics because I want to. This animatic was actually almost finished but when I watched it again I decided to make some changes to it. So I deleted like half of what I had done and remade most of it. I'll admit that at times I had no idea what to draw (during the chorus especially because the song is a bit odd) I'm also scared that I might have misunderstood some parts of the song because I'm dumb :)&#10;&#10;&#10;Also, important characters first because there are too many of them:&#10;Thistlefang (The main boy)&#10;Wolfhowl (The leader and Thistle's father)&#10;Snowpatch (Thistle's adoptive father)&#10;Rowanberry (Thistle's adoptive mother)&#10;Cherrypaw (Thistle's adoptive sibling)&#10;Littlepebble (Thistle's adoptive sibling, also the med cat)&#10;Frostbite (Evil starclan cat and the leader before Wolf)&#10;&#10;(the names are a bit weird, yes but I created these characters years ago :) )&#10;&#10;Anyway, the animatic starts by showing Thistlekit/paw having fun and playing with his siblings.&#10;&#10;During the chorus, it shows how Thistle ended up in the clan, and him just being a happy child (and it also shows Frostbite) &#10;&#10;After that, there is a small timeskip. Thistlepaw is a bit older but still an apprentice. Snowpatch comes to him and tells him that Wolfhowl wants to see them. They go to his den and Wolf tells them that Starclan wants Thistlepaw to be the deputy. Thistle is very thrilled but that makes Snow worry because the clan isn't very fond of him (because he is not clanborn) and he's also still an apprentice. Another thing that bothers Snow is that Wolf leaves out the fact that Thistle is his son and in my warrior cats' world there is a rule that the current leader has to make their firstborn kit their deputy, and if they don't have kits then they are free to choose whoever. (nobody in the clans knows about the fact that Wolf is the father of Thistle, only Wolf himself and Snowpatch. Not even Thistle). Wolf ignores Snow and announces to the clan that Thistlepaw is now their deputy and explains it by saying that Starclan wanted so. Every cat in the clan is very angry. Thistle is very happy.. at first. Everyone keeps telling him to step down because he is not fit to be a deputy and that he doesn't deserve to be one. Thistle grows more and more bitter towards his clan because they don't believe in him. Frostbite takes notice of what is happening and starts keeping an eye on Thistle.&#10;&#10;Then there is that one scene that shows an angry Wolfhowl and a bloody Thistle. This happens during a battle between the clans (2 vs 1). Other clans learn about the weird deputy change in Wolfhowl's clan and they also don't agree with that. Somehow the former deputy (Needlewhisker) manages to convince the other two clans to help him attack Thistle (and his supporters) to force him to step down. It kind of works?. Thistle is pinned down and almost killed when Snowpatch jumps in and tells everyone the truth about Wolf and Thistle. This saves Thistle's life but makes Wolfhowl angry because his reputation is now ruined. Thistle is shocked by Wolfhowls behavior (Thistle by this point in the story already knew that Wolf was his father) because he begged Wolf to tell the clans about their kinship but Wolf still refused to, even if it had almost cost Thistle his life. &#10;&#10;After that betrayal Thistle is very mad at all the clans and especially at Wolfhowl. So he does what everyone's warrior cat oc does... kills his (bio) father (Frostbite convinced him to do this). And since he was still the deputy he went to receive his 9 lives. But when he reaches starclan he is denied his nine lives. Thistle is pissed but then behind him appears his good old friend from hell... Frostbite :) (I'll tell you later why he's there.... maybe). And instead of receiving 9 lives from starclan cats, Thistle receives his from 9 dark forest cats.&#10;&#10;Thistle doesn't get to be a leader for very long because starclan is mad at him for doing what he did. Starclan at first tells Dawnclan (the clan where Thistle lives) to kick Thistle out of the clan but then they change their minds and tell all the 3 clans to hunt Thistle down and kill him. And during this important mission, the 3 clans decide to merge together. This makes Snowpatch and Littlepebble (the only remaining family Thistle has) very worried because they still love him. And this results in Snowpatch being killed and Littlepebble being treated like a prisoner.&#10;&#10;&#10;&#10;AAAaa sorry for the very long story lol. I hope it's comprehensible. The story is too complicated for me too :)&#10;&#10;&#10;I found this song thanks to this so check it out :)  https://www.youtube.com/watch?v=kAWVNiVWZT0&#10;&#10;The song: https://www.youtube.com/watch?v=nAOqpfIjnDo"
     channel_title "Hapuun"
     channel_id "UC1vK-VGL9y9Ydz5PgCSFt6w"
     fav_count 0
@@ -7776,7 +7776,7 @@ graph [
     step 0
     date "2022-07-09T17:54:07Z"
     title "Warrior cats FlipaClip mobile"
-    description "I called her honey Fern I know that's already a name though! But I like that name so much! Lol !"
+    description "I called her honey Fern I know that&#8217;s already a name though! But I like that name so much! Lol &#128518;!"
     channel_title "Warrior Cats!"
     channel_id "UCSa-Ronz-3yoazI6sAg_Q7A"
     fav_count 0
@@ -7806,7 +7806,7 @@ graph [
     step 0
     date "2022-07-10T13:24:43Z"
     title "Searching For The New Npc Pallet! | Warrior Cats Npc Hunting"
-    description "This is warrior cats Npc hunting part 5 today I search for Pallet with a couple other people if you'd like to have a chance to be in ..."
+    description "This is warrior cats Npc hunting part 5 today I search for Pallet with a couple other people if you'd like to have a chance to be in one of these Npc hunting videos join the group and I will post when I'll be making a video maybe you'll be lucky! https://www.roblox.com/groups/15168844/WCUE-Npc-Hunters#!/about"
     channel_title "The Hissy Missy"
     channel_id "UCJACIoeSsqgiOSuzD6hE2mA"
     fav_count 0
@@ -7851,7 +7851,7 @@ graph [
     step 0
     date "2022-07-10T20:51:15Z"
     title "Free morph ideas for Warrior Cats Ultimate Edition (WCUE)"
-    description "I share my 3 morph ideas for Warrior Cats Utlimate Edition (WCUE). The ideas are free to use and copy. 00:23 - First morph ..."
+    description "I share my 3 morph ideas for Warrior Cats Utlimate Edition (WCUE). The ideas are free to use and copy.&#10;&#10;00:23 - First morph starting&#10;01:26 - First morph ready to showcase&#10;01:51 - Second morph starting&#10;03:05 - Second morph ready to showcase&#10;03:23 - Third morph starting&#10;04:26 - Third morph ready to showcase"
     channel_title "ClickTapPlay"
     channel_id "UCkmZGtiZAwk8NtQqB3OjhUw"
     fav_count 0
@@ -7896,7 +7896,7 @@ graph [
     step 0
     date "2022-07-09T19:49:11Z"
     title "Bremen - Warrior Cats Oc Animation"
-    description "my first fully colored animation! took 2 days to complete and i'm very happy with how it turned out! considering i haven't animated ..."
+    description "my first fully colored animation! took 2 days to complete and i&#8217;m very happy with how it turned out! considering i haven&#8217;t animated since i was 12 &#128128;&#10;&#10;Song: Bremen - PigPen Theatre Co."
     channel_title "carrotskip"
     channel_id "UC5ZnL8BAOd4L6lXkQCwF6Gw"
     fav_count 0
@@ -7911,7 +7911,7 @@ graph [
     step 0
     date "2022-07-09T15:09:24Z"
     title "~ Making Warrior Cats Characters In WCUE (Part 5)! Ivypool &#38;amp; Mothwing! ~"
-    description "Credits to @Thomas Solvoll and @AloeDrawsArt for the ideas!! Comment your character ideas below! Next up: @Thomas Solvoll ..."
+    description "~ Credits to @Thomas Solvoll and @AloeDrawsArt for the ideas!! Comment your character ideas below! Next up: @Thomas Solvoll (Dovewing) &#38; @MLPShibaKitty (Bluestar) ~ }&#10;~ Audio and game are not mine! ~&#10;~ See my links over here: https://linktr.ee/crystalwarriorfeline&#10;~ WCUE Discord Server: https://discord.gg/2G9DzVqc&#10;~ WCUE Game: https://web.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition"
     channel_title "TheCrystalTeacupYT"
     channel_id "UCs1y164xAVFqY17kiT_cLuw"
     fav_count 0
@@ -7926,7 +7926,7 @@ graph [
     step 0
     date "2022-07-09T04:00:07Z"
     title "No, Because Ashfur Can Choke /// Tier Ranking Warrior Cats Characters!!! /// *spoilers*"
-    description "THIS WAS SO MUCH FUN! I hope you guys enjoy watching this as much as enjoyed making it! #booktube #warriorcats #tierlist All ..."
+    description "THIS WAS SO MUCH FUN! I hope you guys enjoy watching this as much as enjoyed making it! #booktube #warriorcats #tierlist &#10;&#10;All of the pictures used in this video belong to @roseshards; you can check out all of her art using these links:&#10;This is the link for her YouTube: https://www.youtube.com/c/roseshards&#10;This is the link for her Tumblr: https://warriorcatsdatabase.tumblr.com&#10;&#10;Here are some links to @b0rtion finders:&#10;~ https://www.abortionfinder.org&#10;~ https://www.ineedana.com&#10;Here is a link to accessing medication @b0rtians in every state:&#10;~ https://www.plancpills.org&#10;Here is a number you can call if you're seeking free medical advice:&#10;~ (@b0rtion and miscarriage hotline) +1 (833) 246-2632&#10;Here is a link to an article about what's going on with the Oklahoma v. Castro-Huerta case: https://www.nbcnews.com/news/us-news/supreme-court-oklahoma-castro-huerta-decision-tribal-sovereignty-rcna35872&#10;&#10;&#127802;CONNECT WITH ME&#127802;&#10;For business inquiries: alwaysinstockofficial@gmail.com &#10;My Goodreads link: https://www.goodreads.com/user/show/87151508-emma-s-in-stock&#10;Instagram: the_17th_course&#10;Twitter: @emmasinstock"
     channel_title "Always In-Stock"
     channel_id "UCMcxbpIE8dIdkuLnpmO4Ydg"
     fav_count 0
@@ -7986,7 +7986,7 @@ graph [
     step 0
     date "2022-07-11T04:56:24Z"
     title "Warrior cats in Gacha *SPOILERS*"
-    description "So the spirit of ashfur took over Bramblestar when they lost contact of starclan when he lost a life."
+    description "So the spirit of ashfur took over Bramblestar when they lost contact of starclan when he lost a life"
     channel_title "itz_mayoseattle "
     channel_id "UCUzHlZZ8PZHy8UzO0-Dfn6w"
     fav_count 0
@@ -8031,7 +8031,7 @@ graph [
     step 0
     date "2022-07-08T05:15:07Z"
     title "Warrior Cats - Into the Wild: Episode 15 - &#8220;Taking Back What&#8217;s Ours&#8221; in less than 60 seconds&#8230; Part 2"
-    description "Watch the Full Episode: https://youtu.be/VDFd3x4sYSc All the episodes of Into the Wild: ..."
+    description "Watch the Full Episode: https://youtu.be/VDFd3x4sYSc&#10;&#10;All the episodes of Into the Wild: https://youtube.com/playlist?list=PLxIH80jAIRC4ulaFkdEGl97bE2MFDCt_&#10;&#10;Or all of Fire and Ice: https://youtube.com/playlist?list=PLxIH80jAIRC4_B8l9d2edPyKiOVmM9M6l&#10;&#10;Or Forest of Secrets: https://youtube.com/playlist?list=PLxIH80jAIRC7Zg_a0RVgh2EffjFVQ9T6m&#10;&#10;Subscribe and turn on notifications for more Warriors content like this! :D&#10;&#10;Check out our Etsy shop: https://www.etsy.com/shop/pinkbunnygirl43"
     channel_title "pinkbunnygirl43"
     channel_id "UCrO88UhdXvN4wokfz8AwnHw"
     fav_count 0
@@ -8061,7 +8061,7 @@ graph [
     step 0
     date "2022-07-10T21:19:52Z"
     title "Drawing every warrior cat! Brightflower. Part 2"
-    description "Idk #art #warriorcats #procreate #trending."
+    description "Idk&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;#art #warriorcats #procreate #trending"
     channel_title "CactusBloom"
     channel_id "UCNlz5hRZKCrEnGrEG0Znyjg"
     fav_count 0
@@ -8106,7 +8106,7 @@ graph [
     step 0
     date "2022-07-10T01:16:05Z"
     title "Warrior Cats Clan Generator Challenge! | ThornClan (Part 2)"
-    description "&#4326; LIKE, COMMENT, SUBSCRIBE!&#4326; &#4326; &#4326; Don't Forget To Hit The Notification Bell So You Won't Miss A Video! &#4326; &#4326; Its been ..."
+    description "&#4326; LIKE, COMMENT, SUBSCRIBE!&#4326; &#10;&#4326; &#4326; Don't Forget To Hit The Notification Bell So You Won't Miss A Video! &#4326; &#4326; &#10;&#10;Its been awhile since I've uploaded, but I do plan to start uploading more again! &#10;&#10;Any cats I choose not to personally keep will be sold on my Toyhouse/DeviantART ! &#10;I had a lot of fun designing these cuties! Very excited to design more of em&#10;&#10;Artist Notes:&#10;&#9733; Swanfoot got into many fights previously, causing him to be scarred and losing his right front leg&#10;&#9733; Gingerear is an angry shortie&#10;&#9733; Beechbriar is a sweet bean, much love&#10;&#9733; Rooknose is a bubbly bean &#10;&#10;&#10;Check out Part 1 !  https://www.youtube.com/watch?v=Dakv55wz_vE&#38;t=5s&#10;&#10;Generator Used: https://perchance.org/warrior-cat-clans&#10;&#10;Check out our Twitch! &#10;https://www.twitch.tv/endlesssketch&#10;&#10;&#9733; Commissions &#9733;&#10;https://endlesssketch.carrd.co/"
     channel_title "EndlessSketch"
     channel_id "UCrD6V3G8dfQqzsE2jBgEZEA"
     fav_count 0
@@ -8136,7 +8136,7 @@ graph [
     step 0
     date "2022-07-10T13:00:34Z"
     title "You&#38;#39;re Still Beautiful To Me // WARRIOR CATS SPEEDPAINT"
-    description "Finally drew one of my favourite scenes from Warrior cats. CloudTail and LostFace/BrightHeart's relationship is very sweet and ..."
+    description "Finally drew one of my favourite scenes from Warrior cats. CloudTail and LostFace/BrightHeart's relationship is very sweet and this scene just shows it all perfectly.&#10;&#10;Music: &#10;Song: Coopex, Nito-Onna &#38; DJ Frog - Whispered Promises [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://NCS.io/WhisperedPromises&#10;Watch: http://youtu.be/xwcwExC4t7w&#10;Song: Abandoned &#38; Shiah Maisel - Finally Healing [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://NCS.io/FinallyHealing&#10;Watch: http://youtu.be/hkas1m6m9AQ&#10;Song: Cadium - Change Your Mind [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/ChangeYourMind&#10;Watch: http://youtu.be/MmqiY3iSv7w&#10;Song: Arc North - Symphony (feat. Donna Tella) [NCS10 Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://NCS.io/Symphony&#10;Watch: http://youtu.be/E6HlSLZVR1g&#10;Song: Hoober - Higher (feat. Vanessa Campagna) [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/HHigher&#10;Watch: http://youtu.be/RBPuDWzZUiA"
     channel_title "JellyDraws"
     channel_id "UCQxVJ6i_xMboOH6_G3w62Rg"
     fav_count 0
@@ -8151,7 +8151,7 @@ graph [
     step 0
     date "2022-07-10T18:23:58Z"
     title "Warrior Cats Clan Generator Challenge: Part 1"
-    description "i finished but i wasn't able to look over the video because lightworks was being crappy ;-; there's no voiceover my voice sounds ..."
+    description "i finished but i wasn't able to look over the video because lightworks was being crappy ;-;&#10;&#10;there's no voiceover my voice sounds bad i have a cold and it would take WAY to long to do that."
     channel_title "TuffCat Animations"
     channel_id "UCHeP4BDkKInv-og4eZz4HCw"
     fav_count 0
@@ -8166,7 +8166,7 @@ graph [
     step 0
     date "2022-07-09T21:05:38Z"
     title "WARRIOR CATS Speedpaint Gray Wing &#38;amp; Clear Sky!"
-    description "Hello sunshine ^^ I've been getting back to Warrior Cats lately so here is some fanart c: I wanted to give their character designs ..."
+    description "Hello sunshine ^^&#10;&#10;I've been getting back to Warrior Cats lately so here is some fanart c: I wanted to give their character designs some &#10024; spice &#10024; so that's why they are not plain grays!&#10;&#10;Song: Immortal - Neffex"
     channel_title "Sunny Sketchbook"
     channel_id "UCACpfAbFji1TC8fmXx86Uyw"
     fav_count 0
@@ -8226,7 +8226,7 @@ graph [
     step 0
     date "2022-07-11T04:08:43Z"
     title "Today we guess all of the First Arc characters in warrior cats! Enjoy!"
-    description "1:00 of me getting angry at auto correct&#10024; Make sure to subscribe, like, and comment for more of these videos on Roblox!"
+    description "&#10024;1:00 of me getting angry at auto correct&#10024; Make sure to subscribe, like, and comment for more of these videos on Roblox! If this video idea gets some views I&#8217;ll make a part 2 of the second arc and you might see me struggle!"
     channel_title "&#127807;Shiningpuddle &#127807;"
     channel_id "UC60AsPNarh2sg-McCnuqBvA"
     fav_count 0
@@ -8241,7 +8241,7 @@ graph [
     step 0
     date "2022-07-09T15:21:45Z"
     title "What if Warrior Cats Texted&#8230; | Tigerstar&#8217;s meetings with Brambleclaw and Hawkfrost"
-    description "Shoutout to @Scxourgeclaws for the inspiration and my fav YouTuber @Seri! Pixel Biologist! and her other channel, @Seri's ..."
+    description "Shoutout to @Scxourgeclaws for the inspiration and my fav YouTuber @Seri! Pixel Biologist! and her other channel, @Seri&#8217;s Greenhouse !"
     channel_title "Sloth"
     channel_id "UC9vRD3-_n_UVsTnlYt8Oylg"
     fav_count 0
@@ -8256,7 +8256,7 @@ graph [
     step 0
     date "2022-07-09T23:36:05Z"
     title "3008 meme (warrior cats)"
-    description "Uwuwuwuwuwuwuuu SORRY THIS IS SO LAZZZYY ~&#9825;&#8226;Welcome to description&#8226;&#9825; ~some random info~ :D &#9825; Apps used: ..."
+    description "Uwuwuwuwuwuwuuu&#10;&#10;SORRY THIS IS SO &#10;LAZZZYY&#10;&#10;~&#9825;&#8226;Welcome to description&#8226;&#9825; &#10;&#10;~some random info~ :D &#9825;&#10;&#10;Apps used: Flipaclip (premium) for animating, Capcut for editing :33&#10;Fps: 9&#10;Time tooken: 1 hours&#10;&#10;Featured:&#10;FireStar&#10;&#10;&#10;Social medias:&#10;&#10;Discord: nope&#10;Omlet Arcade: nope &#10;Tiktok: nope&#10;YouTube: hi&#10;Roblox: EmoBattie &#10;Instagram: nope&#10;DeviantArt: nope&#10;&#10;I only have youtube and roblox QnQ&#10;&#10;what i'm Allow or not allow :D&#10;&#10;Allowed but just credits me ;33&#10;&#10;&#9989;take my vid in top 10&#10;&#9989;Edit my video&#10;&#9989;get inspired me&#10;&#9989;remake my video&#10;&#9989;get SMALL inspired off my artstyle or oc&#10;&#10;&#10; I don't allow you to do&#10;&#10;&#10060;Steal or reupload my vid &#10;&#10060;STEAL MY OC OR ARTSTYLE SHUDHUAEJDUYEF&#10;&#10060;Got a lot of inspiration from my oc/artstyle&#10;&#10060;Remake my animation story QnQ                 &#10;&#10;inspired by: @catty and rosie , @Dexechii , and @kittydog and other&#10;&#10;ThAnKs fOr wAtChInG :,D"
     channel_title " &#8226;battie and shadow&#8226; {&#3619;&#3633;&#3585;}"
     channel_id "UCgq01Isx4IIbfqcB6OBy5YQ"
     fav_count 0
@@ -8271,7 +8271,7 @@ graph [
     step 0
     date "2022-07-10T14:10:46Z"
     title "Randomly generated warrior cats clan drawings!"
-    description "Making this was confusing and fun but these terms are all new to me and I was SOOO stuck. and the fact that 80% of them are ..."
+    description "Making this was confusing and fun but these terms are all new to me and I was SOOO stuck.&#10;&#10;and the fact that 80% of them are similar is not a good sign &#128557;"
     channel_title "Akela Animation"
     channel_id "UCTqCnuLXQVdFUtjU-Cwts6g"
     fav_count 0
@@ -8286,7 +8286,7 @@ graph [
     step 0
     date "2022-07-10T20:51:30Z"
     title "Tigerstar - warrior cats edit! (READ DESC)"
-    description "I will add the links to the art later! So don't get mad please! I used CapCut for this! I used the shortcut tool bc I'm LAZY Tigerstar's ..."
+    description "I will add the links to the art later! So don&#8217;t get mad please!&#10;&#10;I used CapCut for this! I used the shortcut tool bc I&#8217;m LAZY&#10;&#10;Tigerstar&#8217;s life MAP by LemonKat"
     channel_title "Akira the Husky"
     channel_id "UCEfGTE1tHf3tBr9uG5clyBQ"
     fav_count 0
@@ -8331,7 +8331,7 @@ graph [
     step 0
     date "2022-07-10T12:07:13Z"
     title "Warrior cats: Redrawing (heute vs. 1 Jahr vorher)"
-    description "Warrior Cats."
+    description "Warrior Cats"
     channel_title "Sturmherz WaCa"
     channel_id "UCG19IExh2XDfc7WKI3IgDEg"
     fav_count 0
@@ -8346,7 +8346,7 @@ graph [
     step 0
     date "2022-07-09T05:01:28Z"
     title "Sol Speedpaint - Warrior Cats"
-    description "Hello again! Sorry for not much content but my job right now is KILLING me! I'll try to join a few maps though. Not much to report on ..."
+    description "Hello again! Sorry for not much content but my job right now is KILLING me! I&#8217;ll try to join a few maps though. Not much to report on this post just a quick speedpaint!"
     channel_title "HathawayKitty"
     channel_id "UC1WukNFQruO1HOeUFZUvcig"
     fav_count 0
@@ -8376,7 +8376,7 @@ graph [
     step 0
     date "2022-07-10T22:43:53Z"
     title "Hold my paw &#129321;!!|Warrior cats|Original|Ft. Tigerclaw and Fireheart|"
-    description "FlipaClip - Fireheart annoying the sh!t out of Tigerclaw."
+    description "FlipaClip - Fireheart annoying the sh!t out of Tigerclaw"
     channel_title "&#176;&#8226;Bubble Bunny Studios!&#8226;&#176;"
     channel_id "UCii4SNcCHPH9eOzatVz5FGg"
     fav_count 0
@@ -8391,7 +8391,7 @@ graph [
     step 0
     date "2022-07-09T10:17:42Z"
     title "Tears to shed | warrior cats map part 5 collab with @kecinoni"
-    description "kecinoni : https://youtube.com/channel/UCXQ3LyPI7Rro8-01yDPx6DA Map call (backups open): https://youtu.be/-ZDmaWpeCSM ..."
+    description "@kecinoni : https://youtube.com/channel/UCXQ3LyPI7Rro8-01yDPx6DA&#10;&#10;Map call (backups open): https://youtu.be/-ZDmaWpeCSM&#10;&#10;I love how this turned out! Big thanks to @kecinoni for helping out! Go check out @kecinoni &#8216;s channel if you don&#8217;t know who @kecinoni is &#10;&#10;Tags:&#10;&#10;#warriorcats #animation #map #warriorcatsmap #cats"
     channel_title "Radio star"
     channel_id "UCGixNrI2eeaTBw-UsQPsFkg"
     fav_count 0
@@ -8406,7 +8406,7 @@ graph [
     step 0
     date "2022-07-10T23:48:14Z"
     title "Another Warrior cats video"
-    description "NO TALKING Character:Pebble'Fur."
+    description "NO TALKING&#10;Character:Pebble&#8217;Fur"
     channel_title "WavyCookieTwins"
     channel_id "UCJXPJyMSOoRJ5DWjQD8c4sw"
     fav_count 0
@@ -8436,7 +8436,7 @@ graph [
     step 0
     date "2022-07-10T23:55:50Z"
     title "Ruler of Everything - Warrior Cats Leaders MAP (part 4 - Firestar)"
-    description "Last MAP part except some collab ones amen. Also this is lineless because why not MAP call: ..."
+    description "Last MAP part except some collab ones amen. Also this is lineless because why not&#10;&#10;MAP call: https://www.youtube.com/watch?v=EUdU0gH1AM8&#38;ab_channel=kittygirl2210"
     channel_title "kittygirl2210"
     channel_id "UCiD0uOv1S8Ur2LGwCucaeRQ"
     fav_count 0
@@ -8451,7 +8451,7 @@ graph [
     step 0
     date "2022-07-10T03:41:24Z"
     title "i think i found my roblox warrior cats bf"
-    description "kinda cringe."
+    description "kinda cringe"
     channel_title "Meowtown and It's Stories"
     channel_id "UCLP_ob0uvFOeFbUK2bgeW_A"
     fav_count 0
@@ -8481,7 +8481,7 @@ graph [
     step 0
     date "2022-07-10T03:44:30Z"
     title "Clan generator challenge | SunClan | part 1 | warrior cats"
-    description "Hello! Finally doing this challenge. I have no experience drawing cats so enjoy my chaotic cats lol Original: ..."
+    description "Hello! Finally doing this challenge. I have no experience drawing cats so enjoy my chaotic cats lol&#10;&#10;Original:&#10;https://youtu.be/rBG_QWLdjXU&#10;&#10;Apps used:&#10;Drawing: Procreate&#10;Editing: CapCut&#10;&#10;Music used in video in order:&#10;&#10;Track: Ikson - Spring [Official]&#10;Music provided by Ikson&#174; &#10;Listen: https://youtu.be/nZAIjssxbQw&#10;&#10;Song: Markvard - Contagious&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/B_cKtqO-nwg&#10;&#10;Track: Ikson - Focus [Official]&#10;Music provided by Ikson&#174; &#10;Listen: https://youtu.be/oFtWjvcQVLM"
     channel_title "Creative Pencil"
     channel_id "UCUIEitMla7YynwcN-PvCZlg"
     fav_count 0
@@ -8496,7 +8496,7 @@ graph [
     step 0
     date "2022-07-10T06:29:23Z"
     title "Warrior Cats Clan Generator Challenge // Part 1"
-    description "This took me 5 hours. She seems to look a bit weird and awkward though that's what I was going for since she hates socializing."
+    description "This took me 5 hours. She seems to look a bit weird and awkward though that's what I was going for since she hates socializing. I'd image her looking like that one talking to another cat. I realize I didn't make her really that furry but at least she kinda is. Also sorry about the watermark and the long vid. OH GOD HELPPP WHY THE QUALITY YOUTUBE WHYYYYYY???!! Ima go commit suicide now. 0-0&#10;Audio: https://www.youtube.com/watch?v=y1FuvLt2jgY"
     channel_title "Anonymously"
     channel_id "UCT2MRi55pCVvbBt4YHkUNxw"
     fav_count 0
@@ -8511,7 +8511,7 @@ graph [
     step 0
     date "2022-07-09T08:19:25Z"
     title "OPEN Free for all song MAP (Warrior cats)"
-    description "As you say by the aim of the map is to try and have it looking like the decade of pop. Rules You can only use warriors cannon ..."
+    description "As you say by the aim of the map is to try and have it looking like the decade of pop. &#10;&#10;Rules&#10;&#10;You can only use warriors cannon characters.&#10;The codeword is Hey!&#10;You can choose ANY song you like as long as its upbeat and SFW. &#10;Request your song choices and characters choices in order for example:&#10;&#10;Name- DizzyJade &#10;Characters- Bluestar, Hollyleaf, Squirrelflight.&#10;Songs- Can't remember to forget you ( Shakira, Rihanna ) Alone pt II ( Ava Max, Alan Walker ) Burn ( Ellie Goulding )&#10;&#10;This would mean that my top character would be Bluestar and my top song would be Cant remember to forget you. &#10;&#10;The parts are unlimited but you have till the 9th August to submit your parts before the MAP closes.&#10;&#10;Participants &#10;&#10;DizzyJade? Bluestar Can't remember to forget you.&#10;Dustinnz Tigerstar it's tough to be a god."
     channel_title "DizzyJade?"
     channel_id "UCZaLpIyaONtb87uz8czj5Cw"
     fav_count 0
@@ -8526,7 +8526,7 @@ graph [
     step 0
     date "2022-07-10T19:00:14Z"
     title "Warrior Cats Clan Generator! )) Day 3: Meet Nightwhisker"
-    description "Day three!! :) Character Description: MEDICINE CAT NIGHTWHISKER&#8212;a black and red, mackerel tortoiseshell she-cat, with short ..."
+    description "Day three!! :)&#10;&#10;Character Description: MEDICINE CAT NIGHTWHISKER&#8212;a black and red, mackerel tortoiseshell she-cat, with short fur, and yellow eyes.&#10;&#10;I don&#8217;t have the link to the music sadly, my bad-&#10;&#10;im trying hashtags apparently: #art #digitalart #warriorcats #speedpaint"
     channel_title "-CountingSheep-"
     channel_id "UCLJDXsLsC_4j9JvYuruQR3A"
     fav_count 0
@@ -8556,7 +8556,7 @@ graph [
     step 0
     date "2022-04-01T04:01:02Z"
     title "The Adventures Of Panda Warrior"
-    description "When Patrick (Rob Schneider), a peaceful soldier from Ancient China, is magically transported to Merryland and tuned into a ..."
+    description "When Patrick (Rob Schneider), a peaceful soldier from Ancient China, is magically transported to Merryland and tuned into a Panda; he must join forces with Peggy the flying pig (Lauren Elizabeth), GoGo the daring goat (Haylie Duff) and King Leo the courageous lion (Norm MacDonald) in order to free the once-peaceful world from the tyranny of the evil nine-headed snake that has enslaved them."
     channel_title "YouTube Movies"
     channel_id "UCuVPpxrm2VAgpH3Ktln4HXg"
     fav_count 0
@@ -8586,7 +8586,7 @@ graph [
     step 0
     date "2011-04-04T00:59:06Z"
     title "American Cyborg: Steel Warrior"
-    description "In this future, mankind survives a nuclear holocause only to be ruled by machines. While most of the population is sterile, one lone ..."
+    description "In this future, mankind survives a nuclear holocause only to be ruled by machines. While most of the population is sterile, one lone woman is able to give birth to a child. It's her mission to get the child to safety, but she is followed by an immortal killer robot. Fortunately, she is also accompanied by the one man who can help her, and the child, survive. MPAA Rating: R  (c) 1993 Warner Bros. Entertainment Inc. All Rights Reserved."
     channel_title "YouTube Movies"
     channel_id "UCmdNBTVd8HlubAJK2CTv9ZQ"
     fav_count 0
@@ -8631,7 +8631,7 @@ graph [
     step 0
     date "2022-07-10T14:03:21Z"
     title "Warrior Cats Clan Generator Challenge | QuartzClan"
-    description "Music: https://youtu.be/La9IzR_m6rs Generator: https://perchance.org/3xt9ylrqt4 This took me a week pls someone appreciate ..."
+    description "Music: https://youtu.be/La9IzR_m6rs&#10;Generator: https://perchance.org/3xt9ylrqt4&#10;This took me a week pls someone appreciate how much work i put into it"
     channel_title "Totally Decisive"
     channel_id "UCKIIAv6cpwwTS7-8q4UTBRg"
     fav_count 0
