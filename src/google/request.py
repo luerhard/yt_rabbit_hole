@@ -151,7 +151,7 @@ class YtRequestor:
 
     def _video_metadata(self, video_id: str, key: str, **kwargs):
         params = {
-            "part": ["contentDetails", "statistics"],
+            "part": ["snippet", "contentDetails", "statistics"],
             "id": video_id,
             "key": key,
         }
@@ -168,11 +168,35 @@ class YtRequestor:
 
         raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
 
+    def _search_video(self, video_id: str, key: str, **kwargs):
+        params = {
+            "part": ["snippet"],
+            "id": video_id,
+            "key": key,
+        }
+        resp = requests.get(self.video_url, params=params)
+        response = json.loads(resp.text)
+
+        if resp.status_code == 200:
+            return response
+        elif resp.status_code == 400:
+            if response["error"]["message"] == "API key not valid. Please pass a valid API key.":
+                raise YtRequestorError("invalid api key: {}".format(key))
+        elif resp.status_code == 403:
+            raise YtRequestorError("exceeded API quota: {}".format(key))
+
+        raise HTTPError("resp code: {}\n{}".format(resp.status_code, response))
+
+    def search_video(self, video_id: str):
+        response = self._single_request(self._search_video, q=video_id, units=1)
+        return response
+
     def get_video_metadata(self, video_id: str):
         response = self._single_request(self._video_metadata, video_id, units=1)
         item = response["items"][0]
         stats = item["statistics"]
         details = item["contentDetails"]
+        snippet = item["snippet"]
 
         r = dict()
         r["view_count"] = float(stats.get("viewCount", np.nan))
@@ -180,6 +204,7 @@ class YtRequestor:
         r["fav_count"] = float(stats.get("favoriteCount", np.nan))
         r["comment_count"] = float(stats.get("commentCount", np.nan))
         r["duration"] = details.get("duration", "")
+        r["description"] = snippet.get("description", "")
 
         return r
 
