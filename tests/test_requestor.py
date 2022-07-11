@@ -29,3 +29,9 @@ def test_recommended_videos_pagination():
     tube = YtRequestor()
     results = tube.get_recommended_videos("zDztJN9-o4c", max_results=52)
     assert len(results) == 52
+
+
+def test_video_metadata():
+    tube = YtRequestor()
+    results = tube.get_video_metadata("zDztJN9-o4c")
+    assert len(results) == 1
