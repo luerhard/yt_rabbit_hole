@@ -1,4 +1,5 @@
 import networkx as nx
+import numpy as np
 import pandas as pd
 from tqdm.auto import tqdm
 
@@ -63,27 +64,28 @@ def create_network(data):
     g = nx.DiGraph()
 
     # add nodes
-    for row in data.loc[data.step == 0, :].itertuples():
-        g.add_node(
-            row.video_id,
-            step=row.step,
-            date=row.date,
-            title=row.title,
-            description=row.description,
-            channel_title=row.channel_title,
-            channel_id=row.channel_id,
-            fav_count=row.fav_count,
-            view_count=row.view_count,
-            like_count=row.like_count,
-            comment_count=row.comment_count,
-            duration=row.duration,
-        )
+    for row in data.itertuples():
+        if not g.has_node(row.video_id):
+            g.add_node(
+                row.video_id,
+                step=row.step,
+                date=row.date,
+                title=row.title,
+                description=row.description,
+                channel_title=row.channel_title,
+                channel_id=row.channel_id,
+                fav_count=int(row.fav_count) if not np.isnan(row.fav_count) else -1,
+                view_count=int(row.view_count) if not np.isnan(row.view_count) else -1,
+                like_count=int(row.like_count) if not np.isnan(row.like_count) else -1,
+                comment_count=int(row.comment_count) if not np.isnan(row.comment_count) else -1,
+                duration=row.duration,
+            )
 
     # add edges
     for row in data.itertuples():
         u = row.source_video_id
         v = row.video_id
-        if row.step != 0 and g.has_node(v):
+        if row.step != 0 and g.has_node(v) and not g.has_edge(u, v):
             g.add_edge(u, v, rank=row.search_rank)
 
     return g
