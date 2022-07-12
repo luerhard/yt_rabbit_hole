@@ -117,7 +117,13 @@ edgelist <- edgelist[edgelist$Target %in% nodeslist$Source, ]
 
 ## load data [catch all, gml] ----
 
-g <- read_graph('../data/interim/networks/plandemic.gml', format = "gml")
+g <- read_graph('../data/interim/networks/filter_bubbles.gml', format = "gml")
+
+  # weighing edges
+
+
+
+  # selecting nodes
 
 V(g)$indegree <- degree(g, V(g), mode="in")
 g <- delete_vertices(g, V(g)[V(g)$step == 1])
@@ -125,11 +131,13 @@ g <- delete_vertices(g, V(g)[V(g)$step == 1])
 #g <- delete_vertices(g, V(g)[V(g)$view_count < 100])
 #g <- delete_vertices(g, V(g)[V(g)$indegree > 0])
 
-
-
+  # selecting edges
+  
 g <- delete_edges(g, E(g)[E(g)$samechannel == FALSE])
 g <- delete_edges(g, E(g)[E(g)$rank > 20])
 #g <- delete_edges(g, E(g)[E(g)$rank > 25])
+
+  # identifying components
 
 components <- components(g)
 g <- induced_subgraph(g, vids = V(g)[components$membership %in% which.max(components$csize)])
@@ -141,6 +149,12 @@ V(g)$cluster <- cl$membership
 
 plot(g, vertex.color=V(g)$cluster, vertex.label=NA, vertex.size=4, 
      edge.arrow.size=0.5, layout=layout_nicely(g))
+
+
+
+write_graph(g, file='../data/clean/networks/filter_bubbles.gml')
+
+
 
 names(get.vertex.attribute(g))
 
