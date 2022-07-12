@@ -20,7 +20,7 @@ app_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
 responses_path <- file.path(app_path, "responses/")
 
 # Data file to pull metadata from
-input_file <- "data.rds"
+input_file <- read.csv("C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt\\roe_v_wade_full_data.csv")
 
 ######################################################
 ## Define save and load functions
@@ -112,10 +112,7 @@ ui_check <- fluidRow(
 ## Step 2: Code a Video
 # coding choices
 codes <- c("None selected",
-           "News",
-           "Science",
-           "Conspiracy",
-           "General Interest",
+           "Related to Topic",
            "Irrelevant",
            "Discription missing",
            "I'm not sure")
@@ -135,9 +132,8 @@ ui_code <- sidebarLayout(
     mainPanel(
         # display current item to code
         tableOutput("title"),
-        tableOutput("description"),
-        tableOutput("category"),
-        tableOutput("link")
+        tableOutput("channel_title"),
+        tableOutput("url")
     )
 )
 
@@ -182,7 +178,7 @@ server <- function(input, output, session) {
 
        observeEvent(input$name, {
            limit = 500
-           current = sum(priors$name[priors$UID %in% dataset$UID] == input$name)
+           current = sum(priors$name[priors$s.no. %in% dataset$s.no.] == input$name)
          if (current >= limit){
               # display message if so
             shinyjs::show("limit_msg")
@@ -200,15 +196,15 @@ server <- function(input, output, session) {
   
         # exclude videos already coded once
         exclude1 <- priors %>%
-            group_by(UID) %>%
-            mutate(total = length(UID)) %>%
+            group_by(s.no.) %>%
+            mutate(total = length(s.no.)) %>%
             filter(total >= 1) %>%
-            select(UID)
+            select(s.no.)
         
         # exclude videos already coded by current coder
         exclude2 <- priors %>%
             filter(name == input$name) %>%
-            select(UID)
+            select(s.no.)
         
         # combine exclusions
         exclude <- bind_rows(exclude1, exclude2)
@@ -216,22 +212,21 @@ server <- function(input, output, session) {
         # random selection from the remainder
         dataset %>% 
             data.frame() %>%
-            filter(!(UID %in% exclude$UID)) %>%
+            filter(!(s.no. %in% exclude$s.no.)) %>%
             dplyr::sample_n(size = 1) 
     })
     
-    # display title, description, category, and link ----------------------
+    # display title, description, channel_title, and url ----------------------
     output$title <- renderTable(to_code() %>% select(title))
-    output$description <- renderTable(to_code() %>% select(description))
-    output$category <- renderTable(to_code() %>% select(category))
-    output$link <- renderTable(to_code() %>% select(link))
+    output$channel_title <- renderTable(to_code() %>% select(channel_title))
+    output$url <- renderTable(to_code() %>% select(url))
     
     # Aggregate form data and youtube ID -----------------------
     formData <- reactive({
         data <- sapply(fields, function(x) input[[x]])
         # append article ID
         data <- c(data, # coder name and choice
-                  to_code() %>% select(UID)) # article ID
+                  to_code() %>% select(s.no.)) # article ID
         # transpose
         data <- t(data)
         data
@@ -259,9 +254,8 @@ server <- function(input, output, session) {
         shinyjs::reset("form")
         shinyjs::hide("form")
         shinyjs::hide("title")
-        shinyjs::hide("description")
-        shinyjs::hide("category")
-        shinyjs::hide("link")
+        shinyjs::hide("channel_title")
+        shinyjs::hide("url")
         shinyjs::show("thankyou_msg")
     })
     
@@ -269,9 +263,8 @@ server <- function(input, output, session) {
     observeEvent(input$new_abstract, {
         shinyjs::show("form")
         shinyjs::show("title")
-        shinyjs::show("description")
-        shinyjs::show("category")
-        shinyjs::show("link")
+        shinyjs::show("channel_title")
+        shinyjs::show("url")
         shinyjs::hide("thankyou_msg")
     })    
 }
