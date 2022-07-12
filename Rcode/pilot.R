@@ -115,17 +115,40 @@ colnames(edgelist) <- c("Source","Target")
 edgelist <- edgelist[edgelist$Source %in% nodeslist$Source, ]
 edgelist <- edgelist[edgelist$Target %in% nodeslist$Source, ]
 
-## create igraph object [catch all] ----
+## load data [catch all, gml] ----
 
-g <- graph_from_data_frame(edgelist, directed = TRUE, vertices = nodeslist)
+g <- read_graph('../data/interim/networks/plandemic.gml', format = "gml")
+
+V(g)$indegree <- degree(g, V(g), mode="in")
+g <- delete_vertices(g, V(g)[V(g)$step == 1])
+#g <- delete_vertices(g, V(g)[V(g)$step == 1 & V(g)$indegree < 2])
+#g <- delete_vertices(g, V(g)[V(g)$view_count < 100])
+#g <- delete_vertices(g, V(g)[V(g)$indegree > 0])
+
+
+
+g <- delete_edges(g, E(g)[E(g)$samechannel == FALSE])
+g <- delete_edges(g, E(g)[E(g)$rank > 20])
+#g <- delete_edges(g, E(g)[E(g)$rank > 25])
+
 components <- components(g)
-
 g <- induced_subgraph(g, vids = V(g)[components$membership %in% which.max(components$csize)])
 
 #cluster_optimal(g) # takes long
 cl <- cluster_louvain(as.undirected(g))
-
-
+cl
 V(g)$cluster <- cl$membership
 
-plot(g, vertex.color=V(g)$cluster, vertex.label=NA, vertex.size=4, edge.arrow.size=0.5)
+plot(g, vertex.color=V(g)$cluster, vertex.label=NA, vertex.size=4, 
+     edge.arrow.size=0.5, layout=layout_nicely(g))
+
+names(get.vertex.attribute(g))
+
+x <- cluster_edge_betweenness(g)
+plot(as.dendrogram(x),
+     main="I wanted to do a cool YouTube study and\nall I got was this lousy dendrogram")
+
+
+reciprocity(g)
+
+g <- induced_subgraph(g, vids = V(g)[which_reciprocal()])
