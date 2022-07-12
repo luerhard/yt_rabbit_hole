@@ -1,6 +1,3 @@
-##Load RDS file
-# data <- readRDS("C:/Users/lamba/Dropbox/SICSS Group Project Data/JournalCodeR/clean_for_app_full.RDS")
-#data
 ######################################################
 ## Load required packages
 
@@ -14,7 +11,7 @@ library(digest)
 ## Set file paths **EACH USER SHOULD UPDATE**
 
 # *Update with your source path to the app folder*
-app_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
+app_path <- "..yt"
 
 # Responses path (no need to change)
 responses_path <- file.path(app_path, "responses/")
@@ -146,18 +143,18 @@ server <- function(input, output, session) {
       dplyr::sample_n(size = 1) 
   })
   
-  # display journal, title, and abstract ----------------------
+  # display title, and description----------------------
   output$title <- renderTable(to_code() %>% select(title))
   output$description <- renderTable(to_code() %>% select(description)) 
   output$channel_title <- renderTable(to_code() %>% select(channel_title))
   output$url <- renderTable(to_code() %>% select(url))
   
-  # Aggregate form data and article ID -----------------------
+  # Aggregate form data and s.no. -----------------------
   formData <- reactive({
     data <- sapply(fields, function(x) input[[x]])
-    # append article ID
+    # append s.no.
     data <- c(data, # coder name and choice
-              to_code() %>% select(s.no.)) # article ID
+              to_code() %>% select(s.no.)) # s.no.
     # transpose
     data <- t(data)
     data
