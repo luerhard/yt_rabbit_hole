@@ -132,3 +132,4 @@ ytvenv/
 .DS_Store
 src/.DS_Store
 .Rproj.user
+tmp/
