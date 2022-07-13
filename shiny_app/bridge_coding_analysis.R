@@ -12,7 +12,7 @@ library(readr)
 library(stringr)
 
 
-my_path <- "..yt"
+my_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
 response_path <- paste0(my_path, "/responses/")
 
 
@@ -47,10 +47,10 @@ saveRDS(code_data, paste0(my_path, "response_data.rds"))
 ## If 2 initial coders agreed, final outcome = their agreed choice
 two_agree <- code_data %>%
     group_by(s.no.) %>%
-    mutate(count = length(code_choice)) %>%
+    mutate(count = length(c(micro, topic))) %>%
     filter(count == 1) %>%
     # check that coding decisions agree
-    mutate(unique_codes = n_distinct(code_choice)) 
+    mutate(unique_codes = n_distinct(c(micro, topic)))
 
 table(two_agree$unique_codes) # all the same
 
@@ -69,7 +69,7 @@ length(unique(data$s.no.)) # vs. 5880 in original
 ## Check missing UIDs
 missing <- data$s.no.[!(data$s.no. %in% final_choices$s.no.)]
 code_data[code_data$s.no. %in% missing,] %>% 
-    arrange(s.no., code_choice)
+    arrange(s.no., micro, topic)
 
 
 ## Merge final decisions with main dataset
@@ -77,14 +77,25 @@ final_data <- left_join(data, final_choices, by = "s.no.")
 
 
 ## Some descriptive output
-code_tbl <- final_data %>% group_by(title) %>% 
+code_tbl1 <- final_data %>% group_by(title) %>% 
     summarise(n = n(),
-              debunk = sum(code_choice=="Debunking", na.rm=T),
-              neutral = sum(code_choice=="Neutral", na.rm=T),
-              spread= sum(code_choice=="Spreading", na.rm=T),
-              des_miss = sum(code_choice=="Description missing", na.rm=T)
+              debunk = sum(micro=="Debunking", na.rm=T),
+              neutral = sum(micro=="Neutral", na.rm=T),
+              spread= sum(micro=="Spreading", na.rm=T),
+              des_miss = sum(micro=="Description missing", na.rm=T),
+              not_sure = sum(micro=="I'm not sure", na.rm=T)
     ) 
-write.csv(code_tbl, paste0(my_path, "coding_summary.csv"), row.names=F)
+write.csv(code_tbl1, paste0(my_path, "codingchoice1_summary.csv"), row.names=F)
+
+code_tbl2 <- final_data %>% group_by(title) %>% 
+  summarise(n = n(),
+            on_topic = sum(topic=="Yes", na.rm=T),
+            off_topic = sum(topic=="No", na.rm=T),
+            not_sure = sum(topic=="I'm not sure", na.rm=T)
+  ) 
+write.csv(code_tbl2, paste0(my_path, "codingchoice2_summary.csv"), row.names=F)
+
+
 
 ## Save full coded and merged data
 saveRDS(final_data, paste0(my_path, "dataset_coded_clean.rds"))
