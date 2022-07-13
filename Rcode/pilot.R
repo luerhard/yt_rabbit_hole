@@ -121,9 +121,12 @@ g <- read_graph('../data/interim/networks/filter_bubbles.gml', format = "gml")
 
   # weighing edges
 
-
+#E(g)
+#V(g)[ends(g, E(g)[1])[2]]$channel_id]
 
   # selecting nodes
+
+names(V(g))
 
 V(g)$indegree <- degree(g, V(g), mode="in")
 g <- delete_vertices(g, V(g)[V(g)$step == 1])
@@ -141,6 +144,9 @@ g <- delete_edges(g, E(g)[E(g)$rank > 20])
 
 components <- components(g)
 g <- induced_subgraph(g, vids = V(g)[components$membership %in% which.max(components$csize)])
+
+
+length(unique(V(g)$channel_id))
 
 #cluster_optimal(g) # takes long
 cl <- cluster_louvain(as.undirected(g))
