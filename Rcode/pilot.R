@@ -118,6 +118,7 @@ edgelist <- edgelist[edgelist$Target %in% nodeslist$Source, ]
 ## load data [catch all, gml] ----
 
 g <- read_graph('../data/interim/networks/filter_bubbles.gml', format = "gml")
+as_data_frame(g,"vertices")
 
   # weighing edges
 
