@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:19 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:33:54 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "YaOoy8gdFvQ"
     step 0
     date "2020-04-09T19:30:00Z"
-    title "The Facts Behind 5G &#38;amp; Coronavirus | Mashable Explains"
+    title "The Facts Behind 5G Coronavirus | Mashable E tongue sticking out lains"
     description "5G has been blamed for increased rates of cancer, autism, and even infertility. Now it's being blamed for the coronavirus pandemic. Here's why none of this is true.&#10;&#10;Mashable is your source for the latest in tech, culture, and entertainment.&#160;&#160;&#10;Subscribe to Mashable:&#160;https://bit.ly/2DR64oM&#10;Watch more episodes of Mashable Explains: http://bit.ly/36y6pcE&#10;&#10;Follow us:&#10;Check out&#160;www.mashable.com&#10;Facebook:&#160;http://on.mash.to/2lyOwmZ&#10;Twitter:&#160;http://on.mash.to/1Udp1kz&#10;Instagram:&#160;http://on.mash.to/1U6D40&#10;&#10;#5G #Coronavirus #StayHome"
     channeltitle "Mashable"
     channelid "UCL8Nxsa1LB9DrMTHtt3IKiw"
@@ -117,7 +117,7 @@ graph
     label "kxPWXVFopjQ"
     step 0
     date "2020-08-03T11:15:01Z"
-    title "Heard some rumours about 5G and COVID-19? Here&#38;#39;s how they spread | Four Corners"
+    title "Heard some rumours about 5G and COVID-19? Heres how they spread | Four Corners"
     description "The global rollout of 5G has spawned wild conspiracy theories, and the coronavirus pandemic was the perfect environment for them to spread.&#10;&#10;Around Australia, a vocal band of activists have joined a worldwide protest movement against the arrival of the next generation in wireless technology known as 5G. They claim 5G is an invisible and potentially deadly health hazard, blaming the radiation emitted by the technology for a range of long-term health problems.&#10;&#10;Four Corners investigates these claims, exploring how the technology works and examining the scientific studies undertaken into whether the technology is actually a threat to our health. &#10;&#10;#ABCNews #FourCorners&#10;_________&#10;&#10;&#10;Watch more Four Corners investigations here: https://bit.ly/2JbpMkf &#10;You can also like us on Facebook: https://www.facebook.com/abc4corners/ &#10;Follow us on Twitter: https://twitter.com/4corners &#10;And sign up to our newsletter: https://www.abc.net.au/4corners/newsl...&#10;&#10;&#10;_____________"
     channeltitle "ABC News In-depth"
     channelid "UCxcrzzhQDj5zKJbXfIscCtg"
@@ -153,7 +153,7 @@ graph
     label "INIKQVMyKGE"
     step 0
     date "2020-05-24T16:00:31Z"
-    title "Future Of 5G | 5G &#38;amp; Coronavirus? 5G &#38;amp; Cancer? Microchip &#38;amp; Vaccine"
+    title "Future Of 5G | 5G Vaccine"
     description "Is 5G safe? 5G &#38; corona? Is 5G dangerous? Does 5G cause cancer?&#10;&#10;In this video, I break down the major rumors about the 5G conspiracy theories going around regarding 5G towers, 5G radiation and its relationship to the coronavirus and cancer. I also dive into the topic of human microchip tech, the vaccine and the future and purpose of 5G technology.&#10;&#10;Let me know your thoughts in the comments. Should we stop 5G?&#10;&#10;-Useful links-&#10;&#10;Disinfecting wipes - https://amzn.to/2UpuGOC&#10;Disinfecting Spray bottles - https://amzn.to/2Jnpfto&#10;Disinfecting cleaning liquids - https://amzn.to/2vR6nzA&#10;Alcohol bottles - https://amzn.to/2QRyNAM&#10;Alcohol wipes - https://amzn.to/2WMqCJM&#10;Soap Bars - https://amzn.to/2wJhXgz&#10;Soap Liquid - https://amzn.to/2QQoMUy&#10;UV light Cleaner - https://amzn.to/2UpeWva&#10;Face masks - https://amzn.to/2UJg2AG&#10;&#10;&#10004; Visit My Websites&#10;Parts &#38; Tools - https://www.serg-tech.com&#10;Unlock Any iPhone - https://www.unlockitrightnow.com&#10;&#10;&#10004; Follow Serg-Tech&#10;Instagram - https://www.instagram.com/serg.tech/&#10;Facebook - https://www.facebook.com/sergtechman&#10;&#10;&#10004; Learn from Serg-Tech&#10;3 Step Online Business - https://bit.ly/2XcajWU&#10;Cell Phone Business - https://bit.ly/2V6TQRl&#10;&#10;&#10004; My Favorite Books&#10;Power Of Now - https://amzn.to/3aLoJRY&#10;Letting Go - https://amzn.to/2V3sADd&#10;80/20 Rule - https://amzn.to/3aL4Vy3&#10;The 4 Hour Work Week - https://amzn.to/2yBJjpH&#10;The Magic of Thinking BIG - https://amzn.to/349Srh0&#10;&#10;&#10004; Things That I Use&#10;Camera:            http://amzn.to/2DuPJbV&#10;Microphone:     http://amzn.to/2DWnDTV&#10;Lighting Kit:      http://amzn.to/2DqOKoI&#10;Video Editor:    https://amzn.to/2sRfXxK&#10;&#10;Disclaimer: Links in the description are typically affiliate links that let you help support the channel at no extra cost."
     channeltitle "Serg Tech"
     channelid "UC24n6DdP2hN1OcVKVVxy_sg"
@@ -189,7 +189,7 @@ graph
     label "MDzvP0-zuwE"
     step 0
     date "2020-04-09T07:28:00Z"
-    title "Tech expert discusses 5G networks allegedly causing COVID-19 spread"
+    title "Tech e tongue sticking out ert discusses 5G networks allegedly causing COVID-19 spread"
     description "As the world battles the spread of Covid-19, fake news around it is growing. Lately there&#8217;s been a myth that 5G networks are causing the spread of the virus. But what&#8217;s the story behind this whole 5G saga? Toby Shapshak from Stuff Magazine joins me via skype to demystify the issue. Courtesy #DStv403"
     channeltitle "eNCA"
     channelid "UCI3RT5PGmdi1KVp9FG_CneA"
@@ -207,7 +207,7 @@ graph
     label "SZqlbWSUi_8"
     step 0
     date "2020-04-16T17:18:53Z"
-    title "5G does NOT cause Coronavirus: Here&#38;#39;s why"
+    title "5G does NOT cause Coronavirus: Heres why"
     description "Conspiracy theories linking the next-gen mobile technology 5G to the current coronavirus pandemic are everywhere on social media. But there's no scientific evidence to suggest 5G has anything to do with coronavirus.&#10;&#10;***MORE INFORMATION***&#10;5G has no link to COVID-19, and Facebook, YouTube are taking down posts -- https://cnet.co/2S00gkD&#10;YouTube bans videos falsely claiming 5G causes COVID-19 -- https://cnet.co/3ahnyIW&#10;WhatsApp limits message forwarding to curb misinformation spread -- https://cnet.co/3cmNnIU&#10;&#10;***OTHER SOURCES***&#10;'Do cruise ships have 5G?': Search data shows worrying spike in coronavirus conspiracy theories -- https://bit.ly/3euJWBW&#10;Characterization of spike glycoprotein of SARS-CoV-2 on virus entry and its immune cross-reactivity with SARS-CoV -- https://go.nature.com/34JX7dS&#10;The proximal origin of SARS-CoV-2 -- https://go.nature.com/3agv6vs&#10;Who was first to launch 5G? Depends who you ask -- https://reut.rs/2XFz2TS&#10;Social media fuels wave of coronavirus misinformation as users focus on popularity, not accuracy -- https://bit.ly/3ahH3km&#10;Social media fuels wave of coronavirus misinformation as users focus on popularity, not accuracy -- https://bit.ly/2VyGqhb&#10;New Images of Novel Coronavirus SARS-CoV-2 Now Available -- https://bit.ly/2yZFoD9&#10;5G and other telecommunications do not affect the immune system -- https://bit.ly/34MpeZF&#10;&#10;Subscribe to CNET: https://www.youtube.com/user/CNETTV&#13;&#10;CNET playlists: https://www.youtube.com/user/CNETTV/playlists&#13;&#10;Download the new CNET app: https://cnet.app.link/GWuXq8ExzG&#13;&#10;Like us on Facebook: https://www.facebook.com/cnet&#13;&#10;Follow us on Twitter: https://www.twitter.com/cnet&#13;&#10;Follow us on Instagram: http://bit.ly/2icCYYm"
     channeltitle "CNET"
     channelid "UCOmcA3f_RrH6b9NmcNa4tdg"
@@ -243,7 +243,7 @@ graph
     label "RJoBIMB5h2c"
     step 0
     date "2020-04-08T03:37:31Z"
-    title "VERIFY: No evidence to support Woody Harrelson&#38;#39;s claim that 5G and COVID-19 are linked"
+    title "VERIFY: No evidence to support Woody Harrelsons claim that 5G and COVID-19 are linked"
     description "People have tried to link 5G rollouts with the COVID-19 pandemic since January. The claim was recently amplified by celebrities."
     channeltitle "KHOU 11"
     channelid "UCXwRxm0zS0jBNTMOVI6xZJw"
@@ -315,7 +315,7 @@ graph
     label "uf2HpbDCM9I"
     step 0
     date "2020-04-04T18:35:45Z"
-    title "Gove warns 5G-coronavirus conspiracy theory is &#38;#39;dangerous nonsense&#38;#39;"
+    title "Gove warns 5G-coronavirus conspiracy theory is "
     description "Michael Gove said at a Downing Street press conference the conspiracy theory that links&#160;5G&#160;technology to the spread of coronavirus is &#8216;dangerous nonsense&#8217; after mobile phone masts around the UK were attacked. He was joined by the national medical director of the NHS, Stephen Powis, who added: &#8216;I'm absolutely outraged, absolutely disgusted, that people would be taking action against the very infrastructure that we need to respond to this health emergency&#8217; &#10;Subscribe to Guardian News on YouTube &#9658; http://bit.ly/guardianwiressub&#10;&#10;Coronavirus lockdown: how our jobs turned upside down | Anywhere but Westminster &#9658; https://www.youtube.com/watch?v=jStGMYRSXO0&#10;&#10;UK phone masts attacked amid 5G-coronavirus conspiracy theory &#9658; https://www.theguardian.com/uk-news/2020/apr/04/uk-phone-masts-attacked-amid-5g-coronavirus-conspiracy-theory&#10;&#10;Coronavirus &#8211; latest updates &#9658; https://www.theguardian.com/world/live/2020/apr/06/coronavirus-live-news-boris-johnson-admitted-to-hospital-as-trump-again-touts-hydroxychloroquine&#10;&#10;Support the Guardian &#9658; https://support.theguardian.com/contribute&#10;&#10;Today in Focus podcast &#9658; https://www.theguardian.com/news/series/todayinfocus&#10;&#10;The Guardian YouTube network:&#10;&#10;The Guardian &#9658; http://www.youtube.com/theguardian&#10;Owen Jones talks &#9658; http://bit.ly/subsowenjones&#10;Guardian Football &#9658; http://is.gd/guardianfootball&#10;Guardian Sport &#9658; http://bit.ly/GDNsport&#10;Guardian Culture &#9658; http://is.gd/guardianculture"
     channeltitle "Guardian News"
     channelid "UCIRYBXDze5krPDzAEOxFGVA"
@@ -333,7 +333,7 @@ graph
     label "buiNWADqakM"
     step 0
     date "2020-03-24T02:36:49Z"
-    title "No, 5G doesn&#8217;t cause the coronavirus"
+    title "No, 5G doesnt cause the coronavirus"
     description "CBC News debunks an American doctor&#8217;s viral video claiming 5G networks caused the coronavirus and shows why it&#8217;s untrue. &#10;&#10;Welcome to The National, the flagship nightly newscast of CBC News&#13;&#10;&#13;&#10;&#187;&#187;&#187; Subscribe to The National to watch more videos here:   https://www.youtube.com/user/CBCTheNational?sub_confirmation=1&#13;&#10;&#13;&#10;Voice Your Opinion &#38; Connect With Us Online:&#13;&#10;&#13;&#10;The National Updates on Facebook: https://www.facebook.com/thenational&#13;&#10;The National Updates on Twitter: https://twitter.com/CBCTheNational&#13;&#10;&#187;&#187;&#187; &#187;&#187;&#187; &#187;&#187;&#187; &#187;&#187;&#187; &#187;&#187;&#187; &#13;&#10;The National is CBC Television's flagship news program. Airing six days a week, the show delivers news, feature documentaries  and analysis from some of Canada's leading journalists."
     channeltitle "CBC News: The National"
     channelid "UCKjU3KzdbJE1EFcHVqXC3_g"
@@ -351,7 +351,7 @@ graph
     label "wmKwMwYQ-RI"
     step 0
     date "2020-04-04T16:02:30Z"
-    title "Coronavirus: 5G conspiracy theory is &#38;#39;absolute rubbish&#38;#39;"
+    title "Coronavirus: 5G conspiracy theory is "
     description "Professor Stephen Powis has hit out at people who spread conspiracy theories that the virus is connected to 5G communication towers.&#10;&#10;Three recent mobile phone mast fires around the UK are being investigated as possible arsons.&#10;&#10;SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews&#10; &#10;Follow us on Twitter: https://twitter.com/skynews &#10; &#10;Like us on Facebook: https://www.facebook.com/skynews&#10; &#10;Follow us on Instagram: https://www.instagram.com/skynews&#10; &#10;For more content go to http://news.sky.com and download our apps: &#10; &#10;Apple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8&#10; &#10;Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&#38;hl=en_GB&#10;&#10;Sky News videos are now available in Spanish here/Los video de Sky News est&#225;n disponibles en espa&#241;ol aqu&#237; https://www.youtube.com/channel/UCzG5BnqHO8oNlrPDW9CYJog"
     channeltitle "Sky News"
     channelid "UCoMdktPbSTixAyNGwb-UYkQ"
@@ -387,7 +387,7 @@ graph
     label "cvmubgc9n5o"
     step 0
     date "2020-04-07T13:39:37Z"
-    title "No, 5G wireless networks aren&#38;#39;t spreading COVID-19"
+    title "No, 5G wireless networks arent spreading COVID-19"
     description ""
     channeltitle "National Post"
     channelid "UC5Vzc-I--guzURose4X6lKQ"
@@ -477,7 +477,7 @@ graph
     label "i2zwUEc5JcM"
     step 0
     date "2020-03-02T02:07:01Z"
-    title "Live: Applying 5G to remote CT scans on COVID-19 cases 5G&#20256;&#36755;&#21161;&#21147;&#36828;&#31243;&#25805;&#25511;&#24322;&#22320;CT&#26816;&#26597;&#26032;&#20896;&#32954;&#28814;&#24739;&#32773;"
+    title "Live: Applying 5G to remote CT scans on COVID-19 cases 5G"
     description "After initial trials over the past week, West China Hospital in Sichuan Province is using 5G technology to conduct remote CT scans on COVID-19 cases from Hubei, the epicenter of the coronavirus outbreak. Over 100 patients are now queuing up to get diagnosed. Join CGTN's Meng Qingsheng to explore this breakthrough technology. #COVID19 #coronavirus"
     channeltitle "CGTN"
     channelid "UCgrNz-aDmcr2uuto8_DL2jg"
@@ -495,7 +495,7 @@ graph
     label "1apuXh-A7Os"
     step 0
     date "2020-05-22T13:00:00Z"
-    title "5G Myths Debunked: From Cancer to COVID-19"
+    title "5G Myths Debunke tongue sticking out From Cancer to COVID-19"
     description "5G has a lot of myths attached to it, all of which are untrue.&#10;Read more: https://andauth.co/5GConspiracy&#10;Learn Python with this certification bundle: https://andauth.co/PythonPromo&#10;&#10;5G is a hot topic not only because it is ushering in the next generation of mobile cellular technology with increased speed and reduced latency, but also because there seems to be an unhealthy amount of misunderstanding, myths, and conspiracy theories around 5G. Here is my attempt to bust some of the myths.&#10;&#10;Links to reports etc:&#10;-- Output Power Levels of 4G User Equipment and Implications on Realistic RF EMF Exposure Assessments:  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7879218&#10;-- HKT 5G mmWave (28GHz) Field Trial: https://www.ofca.gov.hk/filemanager/ofca/en/content_669/tr201812_01.pdf&#10;-- 5G NR Uplink Enhancements: https://newsletter.mediatek.com/hubfs/mwc/download/ul-enhancements.pdf?hsLang=en&#10;&#10;&#10;Visit our website: https://www.androidauthority.com&#10;Check out our favorite stuff on Amazon: http://andauth.co/Amazon&#10;Download the Android Authority App: https://andauth.co/aa-app&#10;Listen to our Podcast: https://www.androidauthority.com/podcast/&#10;&#10;----------------------------------------------------&#10;Follow us on social:&#10;- https://facebook.com/androidauthority/&#10;- https://twitter.com/androidauth/&#10;- https://instagram.com/androidauthority/&#10;- https://snapchat.com/add/androidauth&#10;&#10;Affiliate Disclosure:&#10;This post may contain affiliate links, when you buy through links in the description we may earn an affiliate commission. See our affiliate link policy for more details: https://www.androidauthority.com/external-links/&#10;&#10;Follow the Team:&#10;David Imel: https://twitter.com/durvidimel&#10;Ryan Thomas: https://twitter.com/_rythomas&#10;Adam Molina: https://twitter.com/AdamLukas17&#10;Joe Hindy: https://twitter.com/ThatJoeHindy&#10;Gary Sims: https://twitter.com/garysims&#10;Kris Carlon: https://twitter.com/kriscarlon"
     channeltitle "Android Authority"
     channelid "UCgyqtNWZmIxTx3b6OxTSALw"
@@ -531,7 +531,7 @@ graph
     label "K0WKpXSzA20"
     step 0
     date "2020-04-22T10:36:22Z"
-    title "Conspiracy theories linking 5G and coronavirus &#38;#39;baseless&#38;#39; and &#38;#39;heartbreaking&#38;#39; | Squawk Box Europe"
+    title "Conspiracy theories linking 5G and coronavirus | Squawk Box Europe"
     description "Mats Granryd, director general of the GSMA, discusses the roll out of 5G mobile networks."
     channeltitle "CNBC International TV"
     channelid "UCF8HUTbUwPKh2Q-KpGOCVGw"
@@ -603,7 +603,7 @@ graph
     label "DWudD6BvBRw"
     step 0
     date "2020-04-09T15:00:13Z"
-    title "5G coronavirus conspiracy, Quibi &#38;amp; how to choose a camera | Fast Charge Episode 10"
+    title "5G coronavirus conspiracy, Quibi how to choose a camera | Fast Charge Episode 10"
     description "This week on Fast Charge Dom is joined by Hannah and PCWorld's Adam Patrick Murray to discuss why the UK thinks 5G is causing the coronavirus, the launch of mobile-only streaming app Quibi, and to get Adam's top tips on what to look for in a smartphone camera these days.&#10;&#13;&#10;Subscribe: http://bit.ly/2AMr51N &#13;&#10;Watch more videos: https://www.youtube.com/techadvisor &#13;&#10;Facebook: https://www.facebook.com/techadvisoruk/ &#13;&#10;Twitter: https://twitter.com/TechAdvisorUK &#13;&#10;Instagram: https://www.instagram.com/techadvisoruk/ &#13;&#10;Read more: https://www.techadvisor.co.uk/"
     channeltitle "Tech Advisor"
     channelid "UCOYuMvuSP9wuC4KfFhRB1vQ"
@@ -693,7 +693,7 @@ graph
     label "HM_aUduXK-U"
     step 0
     date "2020-04-06T18:34:14Z"
-    title "Analysing the Dangerous 5G VIRUS &#38;quot;WEAPON SYSTEM&#38;quot; - Anthony Steele EXPOSED!"
+    title "Analysing the Dangerous 5G VIRUS - Anthony Steele E tongue sticking out OSED!"
     description "Recent videos from &#34; 5G Experts&#34; like Anthony Steele caused an attack on 5G Towers in the UK. Several 5G towers burned down because people think its a 5G Weapon System making people Sick and spreading a Virus. In this video we will analyse one of those conspiracy guys.. Checkout the TRUTH! Video mentioned: https://bit.ly/34eIdfe&#10;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595; open up for more info &#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#10;-------------------------------------------------------------------------------------------------&#10;Street lights installed with 5G are a &#34;weapons system&#34; being released into UK streets, a conspiracist has claimed. Over the last few months claims have been made that 5G systems could be harming the environment and the public.And in a recent video, conspiracist Anthony Steele claimed a whistleblower who works for the police has come forward to confirm it. Anthony deconstructed a light he claims the whistleblower sent him a light so he could see its inner elements. While taking it apart, he said: &#34;This is a weapon system, nothing more than a weapon system. &#34;I know it's masquerading as a light but it's a weapon.&#34;.... BULLS**T&#10;&#10;This is already proven as FAKENEWS. Please help to stop #fakenews by sharing this video. Instead of &#34;Stop 5G&#34; stop fakenews!&#10;&#10;&#9658;&#9658;&#9658;Interested in Tech! &#10;INSTAGRAM: https://www.instagram.com/techmagnet_yt&#10;BLOG: https://www.tech-magnet.tech&#10;TWITTER: https://twitter.com/techmagnet_yt&#10;&#10;#5G #stop5G #5gdanger&#10;------------------------------------------------------------------------------------------------&#10;Music by :  &#10;music (bought) - Epidemic Sounds&#10;NOT SPONSORED - NOT AFFILIATED!"
     channeltitle "TechMagnet"
     channelid "UCtT2VnurQKOAA0I1EKKHSPA"
@@ -711,7 +711,7 @@ graph
     label "HHtizA5Jpok"
     step 0
     date "2020-05-10T11:00:09Z"
-    title "Coronavirus outbreak: Bill Gates, 5G, Wuhan lab - COVID-19 conspiracy theories that won&#38;#39;t go away"
+    title "Coronavirus outbreak: Bill Gates, 5G, Wuhan lab - COVID-19 conspiracy theories that wont go away"
     description "Originally aired: April 28, 2020 &#10;Since the start of the COVID-19 outbreak, conspiracy theories around the virus have only become more popular and more complicated. And all kinds of people are pushing them and falling for them, from politicians to celebrities. So today, we&#8217;ve got BuzzFeed&#8217;s disinformation reporter Jane Lytvnenko back on the show to take us through some of the most popular conspiracy theories and debunk them.&#10;&#10;If you're enjoying listening to this episode of Wait, There's More you can subscribe or follow us on your favourite podcast app, or listen any time by clicking here: https://link.chtbl.com/wtm&#10;&#10;For more info, please go to http://www.globalnews.ca/coronavirus&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#13;&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#13;&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#13;&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#13;&#10;#GlobalNews #Coronavirus"
     channeltitle "Global News"
     channelid "UChLtXXpo4Ge1ReTEboVvTDg"
@@ -729,7 +729,7 @@ graph
     label "q5LprlTwSFM"
     step 0
     date "2020-04-04T16:13:11Z"
-    title "Government condemns &#38;#39;dangerous nonsense&#38;#39; coronavirus 5G conspiracy theory"
+    title "Government condemns coronavirus 5G conspiracy theory"
     description "Conspiracy theories linking 5G to coronavirus have been slammed by the government as Michael Gove and Professor Powis addressed the nation on Saturday afternoon. &#10;&#10;Their strong condemnation comes following reports that 5G masts have been set alight in the UK following the spread of fake news online. &#10;&#10;For the latest on coronavirus as it happens, follow our liveblog here: https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-news-uk-cases-update-deaths-nhs-covid-19-hospitals/?WT.mc_id=tmg_youtube_offsite_televideo-youtubevideo_China&#38;utm_source=tmgoff&#38;utm_medium=tmg_youtube&#38;utm_content=offsite_televideo&#38;utm_campaign=tmg_youtube_offsite_televideo-youtubevideo_China&#10;&#10;Get the latest headlines: https://www.telegraph.co.uk/&#10;&#10;&#10;Telegraph.co.uk and YouTube.com/TelegraphTV are websites of The Telegraph, the UK's best-selling quality daily newspaper providing news and analysis on UK and world events, business, sport, lifestyle and culture."
     channeltitle "The Telegraph"
     channelid "UCPgLNge0xqQHWM5B5EFH9Cg"
@@ -765,7 +765,7 @@ graph
     label "QSr2TptQV-c"
     step 0
     date "2020-04-07T21:07:37Z"
-    title "There is no connection between 5G and Coronavirus -  Tony Nwakalor"
+    title "There is no connection between 5G and Coronavirus - Tony Nwakalor"
     description "In this interview, Tony Nwakalor shares his views on the debate over the connection between 5G and Coronavirus.&#10;&#10;#5G #COVID-19 #Coronavirus #TonyNwakalor&#10;&#10;SUBSCRIBE to our YouTube channel for more great videos: http://www.youtube.com/tvcnewsnigeria&#10;&#10;Follow us on Twitter: https://twitter.com/tvcnewsng&#10;&#10;Like us on Facebook: https://www.facebook.com/tvcnewsng&#10;&#10;For more great content go to https://tvcnews.tv &#10;&#10;Download our mobile app for iPad, iPhone and Android at http://mobile.tvcnews.tv or go to the store&#10;&#10;#Stowaway #Immigration #Seaport #Ship #ApapaSeaport"
     channeltitle "TVC News Nigeria"
     channelid "UCgp4A6I8LCWrhUzn-5SbKvA"
@@ -955,7 +955,7 @@ graph
     commentcount 1
     duration "PT41S"
     indegree 1
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -963,7 +963,7 @@ graph
     label "Yf3jpPuqADo"
     step 0
     date "2020-05-30T14:00:10Z"
-    title "From COVID-19 to 5G to NASA&#38;#39;s moon landings &#8211; why do people believe in conspiracy theories?"
+    title "From COVID-19 to 5G to NASA why do people believe in conspiracy theories?"
     description "Conspiracy theories provide a prism through which world events can be interpreted and understood &#8211; providing an explanation of major moments in history that many feel is missing from the mainstream narrative.&#10;&#10;But is this down to a concerted effort to hide information from the public?&#10;&#10;Or is it because, for conspiracy theorists, the truth doesn&#8217;t fit the narrative.&#10;&#10;The coronavirus pandemic has spread across the world with a speed and ferocity unprecedented in modern history. &#10;&#10;In the wake of the virus, a series of ideas, without basis in scientific fact, and widely denounced by experts, have nonetheless taken hold in the minds of people around the world.&#10;&#10;So why, do conspiracy theories like these continue to convince people to believe and do irrational things&#10;&#10;From Brexit breaking news to HD movie trailers, The Sun newspaper brings you the latest news videos and explainers from the UK and around the world.&#13;&#10;&#13;&#10;Become a Sun Subscriber and hit the bell to be the first to know&#13;&#10;&#13;&#10;Read The Sun: http://www.thesun.co.uk&#13;&#10;Like The Sun on Facebook: https://www.facebook.com/thesun/&#13;&#10;Follow The Sun on Twitter: https://twitter.com/TheSun&#13;&#10;Subscribe to The Sun on Snapchat: https://www.snapchat.com/discover/The_Sun/1633225139"
     channeltitle "The Sun"
     channelid "UCIzXayRP7-P0ANpq-nD-h5g"
@@ -1071,7 +1071,7 @@ graph
     label "oUvBC-2Zc2I"
     step 0
     date "2020-04-11T16:00:31Z"
-    title "5G Teknolojisi Coronavir&#252;s (Covid 19) mu yay&#305;yor?"
+    title "5G Teknolojisi Coronaviryor?"
     description "Herkese merhaba, ben Alp G&#252;rsoy. &#350;u d&#246;nem t&#252;m d&#252;nya korona vir&#252;s&#252; ile m&#252;cadele ederken, bir anda &#231;&#305;kan s&#246;ylentiler ile 5G&#8217;nin bu vir&#252;s&#252; yayd&#305;&#287;&#305;n&#305; d&#252;&#351;&#252;nerek &#304;ngiltere&#8217;de 5G baz istasyonunu ate&#351;e verenler oldu. Hatta yapt&#305;&#287;&#305;m ara&#351;t&#305;rmalarda;  5G&#8217;nin bir sil&#226;h oldu&#287;u ve insanlar&#305;n herhangi bir organ&#305;n&#305; hedef al&#305;p hasta edebildi&#287;ini, hatta insanlar&#305; intihara s&#252;r&#252;kleyebildi&#287;ine dair ekstrem iddalar ile kar&#351;&#305;la&#351;t&#305;m.&#10;&#10;Bu videoda; sizlere 5G&#8217;nin ne oldu&#287;u, bizlere ne zarar verdi&#287;i ve Korona vir&#252;s&#252; ile ba&#287;lant&#305;s&#305;n&#305; anlatmaya &#231;al&#305;&#351;aca&#287;&#305;m. Amac&#305;m&#305;z, son d&#246;nemde kafalar&#305; olduk&#231;a kar&#305;&#351;t&#305;ran bu &#252;&#231; ba&#351;l&#305;&#287;&#305;, olabildi&#287;ince sade ve net bir &#351;ekilde irdelemek...&#10;&#10;Bu tarzda videolar ve incelemeler i&#231;in, KANALA ABONE OLMAYI unutmay&#305;n!&#10;&#10;YEN&#304; V&#304;DEOLARDAN HABERDAR OLMAK &#304;&#199;&#304;N; &#10;&#10;*INSTAGRAM: https://www.instagram.com/teknolojiag/&#10;*TWITTER : https://twitter.com/teknolojiag&#10;&#10;&#10;Video da kulland&#305;&#287;&#305;m kaynaklar&#305;;&#10;&#10;**Bu a&#231;&#305;klama videoyu yapt&#305;&#287;&#305;m d&#246;nemde &#231;&#305;kt&#305;, okuman&#305;z&#305; tavsiye ederim; &#10;Yeni Nesil 5G Haberle&#351;me Sistemlerinin &#304;nsan Sa&#287;l&#305;&#287;&#305;na Etkileri Hakk&#305;nda A&#231;&#305;klama;&#10;http://odtuteknokent.com.tr/tr/haber/yeni-nesil-5g-haberlesme-sistemlerinin-insan-sagligina-etkileri-hakkinda-aciklama-2&#10;&#10;5G &#8211; Avustralya H&#252;k&#252;meti Radyasyon ve nukleer g&#252;venlik ajans&#305;;&#10;https://www.arpansa.gov.au/news/5g-and-other-telecommunications-do-not-affect-immune-system &#10;&#10;5G wireless communication and Health Effects;&#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765906/ &#10;&#10;HARMFUL EFFECTS OF 5G RADIATIONS;&#10;https://www.researchgate.net/publication/332267703_HARMFUL_EFFECTS_OF_5G_RADIATIONS_REVIEW &#10;&#10;5G Network Dangers: Myth or Reality?;&#10;https://www.scalefocus.com/insights/business/5g-network-dangers-myth-or-reality&#10;&#10;5G has no link to COVID-19, and Facebook, YouTube are taking down posts;&#10;https://www.cnet.com/news/no-5g-didnt-cause-the-coronavirus-pandemic/&#10;&#10;CDC;&#10;https://www.cdc.gov/nceh/radiation/cell_phones._faq.html&#10;&#10;&#304;LG&#304;N&#304;Z&#304; &#199;EKEB&#304;LECEK D&#304;&#286;ER V&#304;DEOLAR&#10;&#10;Samsung QLED 8K Televizyon 65&#34; | 36.000TL;&#10;https://youtu.be/KrGESETv2wc&#10;&#10;iPhone 11 Pro Max &#304;nceleme:&#10;https://youtu.be/ZNuBaplQkn0&#10;&#10;Galaxy Note 10+ &#304;nceleme;&#10;https://youtu.be/Lr6ifmypn_E&#10;&#10;Galaxy Fold &#214;n &#304;nceleme: &#10;https://youtu.be/D4KMJoPZtV0&#10;&#10;iPhone XS Max ile Galaxy S10+ Kar&#351;&#305;la&#351;t&#305;rma! :&#10;https://youtu.be/v6R-Z1t8ZmA&#10;&#10;Samsung Galaxy S10+ &#304;nceleme : 1 AY SONRA + LED KILIF:&#10;https://youtu.be/t79kBJxWHNk&#10;&#10;iPhone 11 &#304;nceleme - Deep Fusion &#214;zelli&#287;i Nas&#305;l Kullan&#305;l&#305;r?&#10;https://youtu.be/KRcADIaeMC8&#10;&#10;iPhone XR inceleme;&#10;https://youtu.be/r91suvNMJUM&#10;&#10;iPhone 11 Pro Max ile Note 10+ Kar&#351;&#305;la&#351;t&#305;rma;&#10;https://youtu.be/mAJn7zffUTg&#10;&#10;iPhone X inceleme: &#10;https://youtu.be/0qD6IA2ImcI &#10;&#10;iPhone X vs Note 9:&#10;https://youtu.be/RdIhGGVrp5U&#10;&#10;Oculus Rift S &#304;nceleme:&#10;https://youtu.be/bVbQYIlaxdw&#10;&#10;2019 Harika Mobil Oyunlar #7 : Android iOS;&#10;https://youtu.be/3-NMP-HUxB4&#10;&#10;Harika Uygulamalar #8 - Pubg ile Fortnite'&#305;, Klavye ve Mouse ile Oynay&#305;n! :&#10;https://youtu.be/TRJd8PchJoM&#10;&#10;2019 Harika Mobil Oyunlar #4 : Android iOS :&#10;https://youtu.be/bjhmsapr2d4&#10;&#10;Siri Kestirmeler - 18 Harika K&#305;sayol:&#10;https://youtu.be/QISP7b4UNZA&#10;&#10;Harika Uygulamalar #5 - ANDROID:&#10;https://youtu.be/L-5grF_KdYU&#10;&#10;2019 Harika Mobil Oyunlar #3 : Android, iOS&#10;https://youtu.be/QHJXiFAdPlc&#10;&#10;Telefonlarda Pro Mod Kamera Kullan&#305;m&#305;: &#10;https://youtu.be/feNzmW0WOas&#10;&#10;Sevgiliye Teknolojik Hediye Fikirleri:&#10;https://youtu.be/Ca5xN7Ivxis&#10;&#10;Harika Mobil Uygulamalar: &#10;https://youtu.be/enp_cX7HRgQ&#10;&#10;Samsung S9 plus VS Iphone X: &#10;https://youtu.be/45yRzBLUFu4 &#10;&#10;Herkesin Y&#252;klemesi Gereken 7 Android ve iOS Uygulama: &#10;https://youtu.be/p2NEUyfSGdY &#10;&#10;2018'in en iyi Launcher'&#305;? :&#10;https://youtu.be/MlHOQ6Vo0mw &#10;&#10;G&#252;zel Android ve iOS Uygulamalar: &#10;https://youtu.be/OdIRC1xi8xE &#10;&#10;2018 En iyi 10 Mobil Oyun: &#10;https://youtu.be/mka4cIDwL6o&#10;&#10;Iphone X Almadan &#214;nce : &#10;https://youtu.be/9997rqCXLbA&#10;&#10;#5G #covid19 #coronavirus"
     channeltitle "Alp Gursoy"
     channelid "UCcU_WHrrtf_eCXxaDPkEfdw"
@@ -1089,7 +1089,7 @@ graph
     label "m63EyxOC7KM"
     step 0
     date "2020-03-16T19:38:55Z"
-    title "Ebro Addresses Keri Hilson&#38;#39;s 5G Coronavirus Conspiracy Theory"
+    title "Ebro Addresses Keri Hilsons 5G Coronavirus Conspiracy Theory"
     description "With the COV-19 Coronavirus resulting in larger measures in trying to contain the virus, Ebro questions the origins of the virus during Ebro in the Morning with a conspiracy. &#10;&#10;&#10;&#10;#EbrointheMorning #Hot97 #Coronavirus &#10;&#10;&#10;&#10;SUBSCRIBE: http://bit.ly/HOT97Subscribe"
     channeltitle "HOT 97"
     channelid "UC5RwNJQSINkzIazWaM-lM3Q"
@@ -1107,7 +1107,7 @@ graph
     label "4b6gMzmxCcQ"
     step 0
     date "2020-06-21T09:50:03Z"
-    title "Mitos sobre el Covid-19. La satanizaci&#243;n del 5G"
+    title "Mitos sobre el Covid-19. La satanizacin del 5G"
     description "Algunos famosos han afirmado que el virus se propaga por esta tecnolog&#237;a; sin embargo, expertos se&#241;alan que &#233;sta es vital para paliar los efectos del brote&#10;&#10;&#10;#Covid19 #5G #Coronavirus"
     channeltitle "El Universal"
     channelid "UC2SEk1w7DgoHs_G3w1biz-w"
@@ -1143,7 +1143,7 @@ graph
     label "ShsfdhChUVM"
     step 0
     date "2020-04-21T06:30:52Z"
-    title "Debunking Conspiracy Theories About 5G &#38;amp; COVID-19"
+    title "Debunking Conspiracy Theories About 5G COVID-19"
     description "Find me on Instagram: http://www.instagram.com/adeolafayehun&#10;Twitter: http://www.twitter.com/adeolafayehun&#10;Facebook: http://www.facebook.com/adeolafayehun"
     channeltitle "Adeola Fayehun"
     channelid "UCLbiHTTFeFBTvcU_D98PCYw"
@@ -1179,7 +1179,7 @@ graph
     label "FDv2-SOAZCA"
     step 0
     date "2020-05-12T21:59:22Z"
-    title "TechnoBoys Podcast #30: &#191;El COVID-19 lo causa el 5G?"
+    title "TechnoBoys Podcast #30: El COVID-19 lo causa el 5G?"
     description "&#9654;&#9654;&#9654; No olvides &#34;SUSCRIBIRTE&#34; a nuestro CANAL para que no te pierdas todas las novedades que vamos a ir incluyendo en el canal. Seguro que te ENCANTAR&#193;N. &#129304;&#13;&#10;&#13;&#10;https://www.youtube.com/user/ivantraceur8?sub_confirmation=1&#13;&#10;&#13;&#10;&#9608;  Adem&#225;s puedes ver m&#225;s cosas muy interesantes en nuestra Web:&#13;&#10;&#13;&#10; http://piensa3d.com/&#13;&#10;&#13;&#10;Tambi&#233;n puedes seguirnos en las Redes Sociales:&#13;&#10;&#13;&#10;&#183; Facebook: https://www.facebook.com/Piensa3d/&#13;&#10;&#183; Twitter: https://twitter.com/piensa3d&#13;&#10;&#183; Instagram: https://www.instagram.com/piensa3d/&#13;&#10;&#13;&#10;Recuerda que puedes encontrar los c&#243;digos en nuestro GitHub:&#13;&#10;&#13;&#10;&#183; GitHub : https://github.com/tidus747"
     channeltitle "Piensa 3D"
     channelid "UC0-azsu5e8CxZfTl9mmafww"
@@ -1197,7 +1197,7 @@ graph
     label "tcSisTLWQ30"
     step 0
     date "2020-04-21T16:36:19Z"
-    title "&#1055;&#1086;&#1076;&#1093;&#1074;&#1072;&#1090;&#1080;&#1090;&#1100; &#1074;&#1080;&#1088;&#1091;&#1089; &#1095;&#1077;&#1088;&#1077;&#1079; 5G. &#1050;&#1090;&#1086; &#1080; &#1082;&#1072;&#1082; &#1088;&#1072;&#1089;&#1087;&#1088;&#1086;&#1089;&#1090;&#1088;&#1072;&#1085;&#1103;&#1077;&#1090; &#1092;&#1077;&#1081;&#1082;&#1080; &#1086; Covid-19"
+    title " Covid-19"
     description "&#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1091; &#1072;&#1090;&#1072;&#1082;&#1091;&#1102;&#1090; &#1082;&#1086;&#1088;&#1086;&#1085;&#1072;&#1074;&#1080;&#1088;&#1091;&#1089;&#1085;&#1099;&#1077; &#1092;&#1077;&#1081;&#1082;&#1080;. &#1056;&#1072;&#1089;&#1089;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1090;&#1100; &#1083;&#1086;&#1078;&#1100; &#1086; Covid-19 &#1087;&#1088;&#1080;&#1085;&#1080;&#1084;&#1072;&#1102;&#1090;&#1089;&#1103; &#1087;&#1086; &#1088;&#1072;&#1079;&#1085;&#1099;&#1084; &#1087;&#1088;&#1080;&#1095;&#1080;&#1085;&#1072;&#1084;. &#1053;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1089;&#1095;&#1080;&#1090;&#1072;&#1102;&#1090; &#1089;&#1077;&#1073;&#1103; &#1073;&#1086;&#1083;&#1100;&#1096;&#1080;&#1084;&#1080; &#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1090;&#1072;&#1084;&#1080;, &#1080; &#1085;&#1077;&#1089;&#1084;&#1086;&#1090;&#1088;&#1103; &#1085;&#1072; &#1086;&#1090;&#1089;&#1091;&#1090;&#1089;&#1090;&#1074;&#1080;&#1077; &#1083;&#1077;&#1082;&#1072;&#1088;&#1089;&#1090;&#1074; &#1086;&#1090; &#1082;&#1080;&#1090;&#1072;&#1081;&#1089;&#1082;&#1086;&#1081; &#1085;&#1077;&#1076;&#1091;&#1075;&#1080;, &#1074;&#1080;&#1076;&#1103;&#1090; &#1084;&#1080;&#1088;&#1086;&#1074;&#1086;&#1081; &#1079;&#1072;&#1075;&#1086;&#1074;&#1086;&#1088; &#1092;&#1072;&#1088;&#1084;&#1072;&#1094;&#1077;&#1074;&#1090;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1093; &#1082;&#1086;&#1084;&#1087;&#1072;&#1085;&#1080;&#1081;. &#1057;&#1041;&#1059; &#1088;&#1072;&#1079;&#1086;&#1073;&#1083;&#1072;&#1095;&#1080;&#1083;&#1072; &#1091;&#1078;&#1077; 207 &#1080;&#1085;&#1090;&#1077;&#1088;&#1085;&#1077;&#1090;-&#1072;&#1075;&#1080;&#1090;&#1072;&#1090;&#1086;&#1088;&#1086;&#1074;, &#1088;&#1072;&#1089;&#1087;&#1088;&#1086;&#1089;&#1090;&#1088;&#1072;&#1085;&#1103;&#1074;&#1096;&#1080;&#1093; &#1092;&#1077;&#1081;&#1082;&#1080; &#1086; &#1082;&#1086;&#1088;&#1086;&#1085;&#1072;&#1074;&#1080;&#1088;&#1091;&#1089;&#1077;.&#10;&#10;&#1042;&#1086;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1083;&#1080;&#1089;&#1100; &#1087;&#1072;&#1085;&#1076;&#1077;&#1084;&#1080;&#1077;&#1081; &#1076;&#1072;&#1078;&#1077; &#1091;&#1082;&#1088;&#1072;&#1080;&#1085;&#1089;&#1082;&#1080;&#1077; &#1091;&#1095;&#1077;&#1085;&#1099;&#1077;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1087;&#1088;&#1080;&#1079;&#1074;&#1072;&#1083;&#1080; &#1087;&#1088;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1086; &#1083;&#1077;&#1095;&#1080;&#1090;&#1100; &#1085;&#1072;&#1096;&#1080;&#1093; &#1073;&#1086;&#1083;&#1100;&#1085;&#1099;&#1093; &#1090;&#1088;&#1072;&#1074;&#1103;&#1085;&#1086;&#1081; &#1085;&#1072;&#1089;&#1090;&#1086;&#1081;&#1082;&#1086;&#1081;. &#1057;&#1072;&#1084;&#1099;&#1081; &#1088;&#1072;&#1089;&#1087;&#1088;&#1086;&#1089;&#1090;&#1088;&#1072;&#1085;&#1077;&#1085;&#1085;&#1099;&#1081; &#1092;&#1077;&#1081;&#1082; &#1074; &#1084;&#1080;&#1088;&#1077; &#1086; &#1090;&#1086;&#1084;, &#1095;&#1090;&#1086; &#1082;&#1086;&#1088;&#1086;&#1085;&#1072;&#1074;&#1080;&#1088;&#1091;&#1089; &#1088;&#1072;&#1089;&#1087;&#1088;&#1086;&#1089;&#1090;&#1088;&#1072;&#1085;&#1103;&#1077;&#1090;&#1089;&#1103; &#1095;&#1077;&#1088;&#1077;&#1079; &#1089;&#1077;&#1090;&#1100; 5G. &#1053;&#1077;&#1089;&#1084;&#1086;&#1090;&#1088;&#1103; &#1085;&#1072; &#1090;&#1086;, &#1095;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1081; &#1089;&#1077;&#1090;&#1080; &#1085;&#1077;&#1090; &#1074; &#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1077;, &#1091; &#1085;&#1072;&#1089; &#1090;&#1086;&#1078;&#1077; &#1085;&#1072;&#1096;&#1083;&#1080;&#1089;&#1100; &#1089;&#1090;&#1086;&#1088;&#1086;&#1085;&#1085;&#1080;&#1082;&#1080; &#1101;&#1090;&#1086;&#1075;&#1086; &#1079;&#1072;&#1075;&#1086;&#1074;&#1086;&#1088;&#1072;. &#1042; &#1042;&#1077;&#1083;&#1080;&#1082;&#1086;&#1073;&#1088;&#1080;&#1090;&#1072;&#1085;&#1080;&#1080; &#1086;&#1090; &#1090;&#1072;&#1082;&#1080;&#1093; &#1092;&#1077;&#1081;&#1082;&#1086;&#1074; &#1087;&#1086;&#1089;&#1090;&#1088;&#1072;&#1076;&#1072;&#1083;&#1080; &#1086;&#1087;&#1077;&#1088;&#1072;&#1090;&#1086;&#1088;&#1099; &#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1086;&#1081; &#1089;&#1074;&#1103;&#1079;&#1080;. &#1041;&#1088;&#1080;&#1090;&#1072;&#1085;&#1094;&#1099;, &#1085;&#1072;&#1089;&#1083;&#1091;&#1096;&#1072;&#1074;&#1096;&#1080;&#1089;&#1100; &#1083;&#1078;&#1080;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1086; &#1085;&#1072;&#1095;&#1072;&#1083;&#1080; &#1087;&#1086;&#1076;&#1078;&#1080;&#1075;&#1072;&#1090;&#1100; &#1089;&#1086;&#1090;&#1086;&#1074;&#1099;&#1077; &#1073;&#1072;&#1096;&#1085;&#1080;. &#1055;&#1086;&#1076;&#1088;&#1086;&#1073;&#1085;&#1077;&#1077; &#1074; &#1089;&#1102;&#1078;&#1077;&#1090;&#1077; &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088;&#1072; &#1052;&#1080;&#1093;&#1072;&#1081;&#1083;&#1086;&#1074;&#1072;.&#10;&#10;&#1042;&#1089;&#1077; &#1089;&#1072;&#1084;&#1099;&#1077; &#1089;&#1074;&#1077;&#1078;&#1080;&#1077; &#1080; &#1072;&#1082;&#1090;&#1091;&#1072;&#1083;&#1100;&#1085;&#1099;&#1077; &#1085;&#1086;&#1074;&#1086;&#1089;&#1090;&#1080; &#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1099; &#1080; &#1084;&#1080;&#1088;&#1072; &#1095;&#1080;&#1090;&#1072;&#1081;&#1090;&#1077; &#1047;&#1044;&#1045;&#1057;&#1068; &#10145;&#65039; https://fakty.com.ua&#10;&#10;&#10004;&#65039;&#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100; &#1085;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083;: http://bit.ly/FaktyICTVchannel&#10;---------------------------------------------------------------------------------&#10;&#1060;&#1072;&#1082;&#1090;&#1099; &#1086;&#1090; ICTV &#1085;&#1072; Facebook - https://www.facebook.com/Fakty.ICTV&#10;Telegram &#1060;&#1072;&#1082;&#1090;&#1099; ICTV - https://t.me/FAKTY_ICTV&#10;Telegram LIVE - https://t.me/joinchat/AAAAAEmOR80wZi6F1fWa0A&#10;Instagram &#1060;&#1072;&#1082;&#1090;&#1099; ICTV - https://www.instagram.com/fakty_ictv/&#10;Twitter ICTV - https://twitter.com/ICTV_Fakty&#10;&#1060;&#1072;&#1082;&#1090;&#1099; ONLINE https://fakty.com.ua/ua/live/"
     channeltitle "&#1060;&#1072;&#1082;&#1090;&#1080; ICTV"
     channelid "UCG26bSkEjJc7SqGsxoHNnbA"
@@ -1207,7 +1207,7 @@ graph
     commentcount 63
     duration "PT3M53S"
     indegree 0
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -1215,7 +1215,7 @@ graph
     label "6M2SenenBRQ"
     step 0
     date "2020-05-06T07:30:01Z"
-    title "5G ile Corona vir&#252;s aras&#305;nda ba&#287;lant&#305; var m&#305;? - DW T&#252;rk&#231;e"
+    title "5G ile Corona vire"
     description "Corona vir&#252;s, d&#252;nyay&#305; etkisi alt&#305;na almaya ba&#351;lad&#305;&#287;&#305;ndan bu yana, vir&#252;se neyin sebep oldu&#287;u en &#231;ok merak edilen soru oldu. Resmi kurumlar vir&#252;s&#252;n hayvan kaynakl&#305; oldu&#287;unu a&#231;&#305;klad&#305; ancak yine de ortaya bir&#231;ok komplo teorisi at&#305;ld&#305;. Bu teorilerden biri ise Corona vir&#252;se yeni nesil cep telefonu teknolojisi 5G &#351;ebekelerinin neden oldu&#287;u. Peki, nedir 5G? 5G &#351;ebekelerinin Corona vir&#252;s&#252;n yay&#305;lmas&#305;na yard&#305;mc&#305; oldu&#287;u iddialar&#305; neye dayan&#305;yor? Konunun uzmanlar&#305;na sorduk.&#10;&#10;YouTube kanal&#305;m&#305;za abone olmay&#305; unutmay&#305;n!&#10;&#10;#coronavirus #Covid19 #koronavir&#252;s #5G"
     channeltitle "DW T&#252;rk&#231;e"
     channelid "UCpi_jv70749NkAmkdugyiPQ"
@@ -1225,7 +1225,7 @@ graph
     commentcount 611
     duration "PT6M22S"
     indegree 7
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -1287,7 +1287,7 @@ graph
     label "jiCIoajHtMk"
     step 0
     date "2020-04-08T18:37:53Z"
-    title "Koronavir&#252;s&#252;n 5G ile alakas&#305; var m&#305;?"
+    title "Koronavir?"
     description "Covid19, yani yeni koronavir&#252;s salg&#305;n&#305; 5G sebebiyle mi? Bu aralar pek &#231;ok yerde bu iddiay&#305; g&#246;r&#252;yoruz. Oysa bulgular, iddiay&#305; do&#287;rulam&#305;yor. Peki nereden &#231;&#305;kt&#305;? Propaganda serimizin bu b&#246;l&#252;m&#252;n&#252; 5G teknolojisi ve Korona salg&#305;n&#305; konusuna ay&#305;rd&#305;k.&#10;&#10;Teknoloji bug&#252;n hayat&#305;m&#305;z&#305;n her alan&#305;n&#305; ku&#351;atm&#305;&#351; durumda. Hayat&#305;m&#305;z&#305; kolayla&#351;t&#305;r&#305;yor ama dez avantajlar&#305; da beraberinde getiriyor. Bu dez avantajlardan biri de elektromanyetik kirlilik diye an&#305;lan teknolojinin yayd&#305;&#287;&#305; kirlilik. Yani cep telefonlar&#305;n&#305;n, wireless internetin, elektronik kablolar&#305;n, tv vericilerinin ortaya &#231;&#305;kard&#305;&#287;&#305;, g&#246;z&#252;m&#252;zle g&#246;rmedi&#287;imiz kirlilik.&#10;&#10;&#304;nsan bedeninin i&#351;leyi&#351;i asl&#305;nda bir elektronik sistemin i&#351;leyi&#351;i gibidir. V&#252;cudumuzda 1 ila 250 mikrovolt aras&#305;nda bir elektrik ak&#305;m&#305; vard&#305;r. Sinir sistemleri birbiri ile bu ak&#305;m sayesinde haberle&#351;ir. Uzunlu&#287;u 500 bin kilometreyi bulan 25 milyardan fazla sinir h&#252;cresi vucudumuzun elektronik sistemini olu&#351;turur. D&#305;&#351;ar&#305;dan gelen bir elektromanyetik alan&#305;n bu sisteme etki etmesi hem sinir sistemimiznde, hem dola&#351;&#305;m sistemimizde, hem de ba&#287;&#305;&#351;&#305;kl&#305;k sistemimizde sorunlar ortaya &#231;&#305;karabilir. &#10;&#10;&#10;#GZT #Propaganda #Covid19"
     channeltitle "GZT"
     channelid "UClWewRX7n_IY3mBbxmttR5Q"
@@ -1297,7 +1297,7 @@ graph
     commentcount 44
     duration "PT6M6S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "AKpk55kIIKg"
     step 0
     date "2020-04-09T22:30:09Z"
-    title "China Uses Coronavirus Pandemic As &#38;#39;Quid Quo Pro&#38;#39; To Development 5G Contracts"
+    title "China Uses Coronavirus Pandemic As To Development 5G Contracts"
     description "China is closer to developing 5G capabilities, which means China could use Huawei to track data transmitted through 5G networks, as a sophisticated form of espionage. &#10;&#10;Tune in to see how 5G can improve the lives of Americans, and protect the United States national security.&#160;&#10;&#10;Subscribe to our channel! https://goo.gl/pyGqbu&#10;&#10;Become a Daily Caller PATRIOT: https://dailycaller.com/subscribe/&#10;&#10;Subscribe to our podcast on Itunes https://urlzs.com/1wpfr&#10;&#10;and Soundcloud https://urlzs.com/nS4Zy&#10;&#10;Or visit our website: https://www.dailycaller.com&#10;&#10;Check out our twitter: https://goo.gl/fnYe4v&#10;&#10;And Facebook: https://goo.gl/W5junb&#10;&#10;Or follow Instagram: https://goo.gl/mhVr1Y&#10;&#10;And don&#8217;t forget to subscribe! https://goo.gl/pyGqbu"
     channeltitle "Daily Caller"
     channelid "UCP4BdwPKyYnfRLjSNfGAPRA"
@@ -1413,7 +1413,7 @@ graph
     label "lkETqbSTbgI"
     step 0
     date "2020-05-07T16:31:08Z"
-    title "COVID19, 5G Zombies &#38;amp; Texas Thrash Metal - Overt Enemy"
+    title "COVID19, 5G Zombies Texas Thrash Metal - Overt Enemy"
     description "Overt Enemy - Texas Thrash Metal FFO: #Slayer, #Sepultura, #Pantera &#38; #PowerTrip &#10;Get Vinyl, CD's and Official Merch: https://overtenemy.com &#10;All Streaming Platforms: https://music.dropoutmedia.net/OvertStreaming&#10;Bandcamp: https://overtenemy.bandcamp.com&#10;Facebook: https://facebook.com/OvertEnemy&#10;Instagram: https://www.instagram.com/overtenemyband &#10;Twitter: https://twitter.com/overtenemyband&#10;#OvertEnemy #OvertEnemyBand #ThrashMetal #NWOTM #TexasMetal&#10;&#10;COVID19, 5G Zombies &#38; more with RGV Texas Thrash Metal band Overt Enemy"
     channeltitle "Overt Enemy"
     channelid "UCJuEBRKD_g-vqnWttf8NvSg"
@@ -1539,7 +1539,7 @@ graph
     label "zkN0NeXNho0"
     step 0
     date "2020-04-21T19:47:54Z"
-    title "French Virologist,  Luc Montagnier Says 5G May Be The Cause Of Corona Virus COVID-19 | GG News"
+    title "French Virologist, Luc Montagnier Says 5G May Be The Cause Of Corona Virus COVID-19 | GG News"
     description "Coronavirus and 5G, &#10;&#10;According to the professor of the Pasteur Institute in Paris, the spread of COVID-19 may have been favored by the launch of the 5G network in China.&#10;&#10; Nobel laureate Luc Montagnier Said &#34;The waves could have contributed to pathogenic power&#34;&#10;&#10;Conspiracy theses about the origins of coronavirus seem to take over.&#10; To announce it, creating quite a stir, was himself during an interview with the French television channel, C news.&#10; &#34;I think we live in an environment very different from that of our ancestors. &#10;We like the waves very much. We communicate with electromagnetic waves. But there are more important projects that will ensure that we will be even more surrounded by waves. &#10;I repeat:  Said by Luc Montagnier: &#10;it is a &#34;The city of Wuhan was said to be far ahead in the implementation of 5G Towers. &#10;10,000 Towers are in this area. They may have contributed to the pathogenic power of the virus.&#34;&#10;&#10;In fact, most disparate theories have followed for days:&#10; the first claims that 5G networks can weaken the immune system, thus making people exposed to radio waves from repeaters more at risk.&#10;The second, however, states that 5G networks can facilitate the spread of bacteria within communities. &#10;&#34;Both assumptions - experts point out - are True and scientific studies to confirm them&#34;. Although they are entirely unlikely.&#10;&#10;Creating a scientific firestorm across the world, French virologist and medicine Nobel laureate Luc Montagnier have claimed that SARS-CoV-2, the virus that led to the global pandemic, is &#8220;man-made&#8221; as it&#8217;s the result of an attempt to manufacture a vaccine against the AIDS virus in a Chinese laboratory.&#10;&#10;&#10;Interviewed on a French news channel, the co-discoverer of the AIDS virus who bagged the 2008 Nobel award in medicine along with other two other scientists alleged the &#8220;presence of elements of HIV and germ of malaria in the genome of &#10;coronavirus&#10; is highly suspect and the characteristics of the virus could not have arisen naturally&#8221;. Montagnier alleged that an &#8220;industrial&#8221; accident was said to have taken place in the &#10;Wuhan National Biosafety Laboratory&#10;, which specializes in these coronaviruses since the early 2000s."
     channeltitle "Global Guide"
     channelid "UCSSUSURW5HnN6ttq24tNV6Q"
@@ -1557,7 +1557,7 @@ graph
     label "GaEtcHDCj6Y"
     step 0
     date "2020-04-06T21:10:40Z"
-    title "5G &#38;amp; Covid-19 - Spiritual Truths"
+    title "5G Covid-19 - Spiritual Truths"
     description "This is a channelled message from source energy entitled 5G &#38; Covid-19 - Spiritual Truths.  &#10;&#10;I channel multi dimensionally from the physical and non physical planes.  The words have been read as I have received them without my opinion however, I offer my conclusions at the end.&#10;&#10;Feedback is always welcome by commenting on the video or via my socials below.&#10;&#10;Please do subscribe!&#10;&#10;As always, you can email me at: hello@yasminibrahim.co.uk or join my mailing list in the last link.&#10;&#10;You can also follow me on: &#10;Instagram @missyasminibrahim&#10;Facebook @yasminibrahimintuitivechannel&#10;&#10;Or to book a session with me:&#10;linktr.ee/missyasminibrahim"
     channeltitle "Yasmin Ibrahim"
     channelid "UCe7_msOOc5p97cj5F660Wxw"
@@ -1575,7 +1575,7 @@ graph
     label "0HqMNOFwpoo"
     step 0
     date "2020-03-27T23:22:12Z"
-    title "Corona Virus: The Real Fake News // 5G, Corona Virus &#38;amp; Lockdowns"
+    title "Corona Virus: The Real Fake News // 5G, Corona Virus Lockdowns"
     description "Hey Beautiful People ! Bit of a switch here... bringing you real fake news about the Corona Virus and this Pandemic. Still lots more to cover on this topic including why major CEOs left their positions, the simulation test, ID2020, why we're ignoring the other leading causes of deaths today, how Bill Gatekeeper orchestrated this world economy crash and how this is all integrated into smart cities. If you have anymore information, share your insight below so more people can become aware of this NWO. Peace and love !!&#10;&#10;check out www.lifestyledynamix.com for health guides, coaching, apparel and challenges to help you level up in this matrix"
     channeltitle "Lifestyle Dynamix"
     channelid "UCEEdYRJaRB0x193_6bO5akg"
@@ -1593,7 +1593,7 @@ graph
     label "203oWTcIgmQ"
     step 0
     date "2020-04-04T21:00:09Z"
-    title "New Show Called ThirdEYE.   Covid-19/5G - Are They Linked?"
+    title "New Show Called ThirdEYE. Covid-19/5G - Are They Linked?"
     description "Bansta, Levanja Hosts a Brand New Conspiracy show on Claude and the Bansta's so come Join us for our very 1st ThirdEYE tonight @ 8pm with some Great Guests Lined Up. &#10;&#10;Look Forward to seeing you in Comments."
     channeltitle "The Gooner Claude Trust"
     channelid "UCXIVG5WLR3yKJLD0NntGebw"
@@ -1603,7 +1603,7 @@ graph
     commentcount 25
     duration "PT1H44M46S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -1629,7 +1629,7 @@ graph
     label "fTAFDo67LwQ"
     step 0
     date "2022-06-28T15:11:07Z"
-    title "Covid-19 Vaccines 5G Injuries Meditation Propaganda &#129496;&#8205;&#9794;&#65039; Wisdom Conspiracy Theories QAnon Klaus God"
+    title "Covid-19 Vaccines 5G Injuries Meditation Propaganda Wisdom Conspiracy Theories QAnon Klaus God"
     description ""
     channeltitle "Day Trade Report"
     channelid "UCoTxKkCZrNgxGYM61zmHB0Q"
@@ -1665,7 +1665,7 @@ graph
     label "4CbLf4GWVCU"
     step 0
     date "2020-04-06T16:07:50Z"
-    title "David Icke and the &#38;quot;truth&#38;quot; about Coronavirus and 5G"
+    title "David Icke and the about Coronavirus and 5G"
     description "How he persuades people to believe this stuff.&#10;&#10;Full show at London Real TV: https://www.youtube.com/watch?v=gMTZu6_TjU8&#10;&#10;Join the SFP or become a regular donor here: &#10;https://scottishfamily.org/get-involved/"
     channeltitle "Scottish Family Party"
     channelid "UC7FYQ0yiqBqDZ_Cc5W0oI0g"
@@ -1683,7 +1683,7 @@ graph
     label "1hy2O_gtRPw"
     step 0
     date "2020-03-23T03:48:30Z"
-    title "Why I Decided to Leave America | (Covid-19 &#38;amp; 5G Implementation)"
+    title "Why I Decided to Leave America | (Covid-19 5G Implementation)"
     description "Let me know if you guys think I'm a looney bin now &#129315;&#10;&#10;The 5G Virus &#38; Fear Based Programming&#10;https://www.youtube.com/watch?v=XwTe3vH0R68&#10;&#10;Chemtrail Documentary&#10;https://www.youtube.com/watch?v=rI2OGALLTT0&#10;&#10;Vaccination Documentary&#10;https://www.youtube.com/watch?v=B2N35yVQcSk&#10;&#10;5G Documentary&#10;https://www.youtube.com/watch?v=bG8f5kUpbcg&#10;&#10;The Meaning of Life&#10;https://www.youtube.com/watch?v=fDybnCmcyeI&#10;&#10;Consider Subscribing!&#10;https://www.youtube.com/GabrielNg&#10;&#10;Join the Fasting Squad on the app - &#34;LIFE - Fasting Tracker&#34;&#10;https://lifefastingtracker.app.link/9f7XLatCXY&#10;&#10;Sign up for a 200-Hour YTT Course at Vikasa in Thailand with my link and get 100USD OFF! (Verfication Code: xxx420)&#10;https://vikasayoga.com/yoga-teacher-training/?ref=gabrielng1&#10;&#10;Check out The OmCast! &#10;https://anchor.fm/theomcast&#10;&#10;All podcast episodes are available on iTunes, Spotify, Anchor, Google Podcasts &#38; more!&#10;&#10;IG - https://www.instagram.com/om.gabrielng&#10;IG - https://www.instagram.com/wanderingcrane&#10;FB - https://www.facebook.com/om.gabrielng&#10;Steemit - https://steemit.com/@gaber&#10;&#10;Business Inquiries&#10;Website - https://www.gabrielng.me/&#10;Email - gaberr.ng@gmail.com"
     channeltitle "Gabriel Ng"
     channelid "UC1hBEcYKKt34_T_bJYvX6qA"
@@ -1755,7 +1755,7 @@ graph
     label "Zs4B6fPtoaE"
     step 0
     date "2020-04-02T23:35:17Z"
-    title "FORMER VODAFONE BOSS BLOWS WHISTLE ON 5G AS RELATED TO CORONAVIRUS.  COMPLETE THEORY."
+    title "FORMER VODAFONE BOSS BLOWS WHISTLE ON 5G AS RELATED TO CORONAVIRUS. COMPLETE THEORY."
     description "sacred sound healing system https://1f8cb06qklgd-u9irj18u8gix9.hop.clickbank.net/"
     channeltitle "Random Vids"
     channelid "UC62xilpZjN1SQlyiXIReRGw"
@@ -1773,7 +1773,7 @@ graph
     label "1scJszOH4hc"
     step 0
     date "2020-04-03T06:23:45Z"
-    title "5G ve CORONA (Covid-19) ! AYNI ZAMANDA &#199;IKMALARI TESAD&#220;F M&#220; ???"
+    title "5G ve CORONA (Covid-19) ! AYNI ZAMANDA ???"
     description "Alt yaz&#305;l&#305; olarak izleyece&#287;iniz video da Dana Ashlie, 5g ile corona aras&#305;nda ki ba&#287;lant&#305;lar&#305; anlatmaktad&#305;r, bunlar&#305;n tesad&#252;f olamayaca&#287;&#305;n&#305; belki de 5G ile vir&#252;s&#252;n ayn&#305; anda ortaya &#231;&#305;kar&#305;larak 5G nin sa&#287;l&#305;&#287;a zararlar&#305;n&#305; &#246;rtmek ama&#231;l&#305; olabilece&#287;i delillerle anlat&#305;lmaya &#231;al&#305;&#351;&#305;lm&#305;&#351;t&#305;r. Komple teorisi mi yoksa ger&#231;ek mi ?  Sizde yorumlar&#305;n&#305;z&#305; yaz&#305;n&#305;z."
     channeltitle "ARA KANAL"
     channelid "UCU8izdryrjXE6OCxOxPVnpg"
@@ -1783,7 +1783,7 @@ graph
     commentcount 2
     duration "PT57M1S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   edge
   [

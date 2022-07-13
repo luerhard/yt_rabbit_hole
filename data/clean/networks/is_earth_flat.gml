@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:24 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:33:59 2022"
 Version 1
 graph
 [
@@ -45,7 +45,7 @@ graph
     label "1gHbwT_R9t0"
     step 0
     date "2018-06-27T07:25:51Z"
-    title "Inside a Flat Earth convention, where nearly everyone believes Earth isn&#38;#39;t round"
+    title "Inside a Flat Earth convention, where nearly everyone believes Earth isnt round"
     description "Many believers at the Flat Earth International Conference, an educational seminar about our planet, support a theory that Earth is flat."
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -55,7 +55,7 @@ graph
     commentcount 71044
     duration "PT7M7S"
     indegree 149
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -73,7 +73,7 @@ graph
     commentcount 43660
     duration "PT3M42S"
     indegree 66
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -81,7 +81,7 @@ graph
     label "9hdqiHcH2tw"
     step 0
     date "2021-12-22T17:00:05Z"
-    title "Earth&#38;#39;s Flat Proof..."
+    title "Earths Flat Proof..."
     description "Earth's Flat&#10;BRICS Explained by Countryballs... https://youtu.be/k8vwmC2WB8I&#10;Subscribe &#9658; https://bit.ly/2TaqRvp&#10;&#10;KoreanBall - https://www.makeship.com/products/north-korea-ball-gitd-plush&#10;USABall - https://www.makeship.com/products/usa-ball-gitd-plush&#10;&#10;&#10;----------------------------------------------&#10;&#10;2nd Channel &#9658; https://bit.ly/2JFtOTs&#10;Twitter &#9658; https://bit.ly/388Ncla&#10;Instagram &#9658; https://bit.ly/3s0nlnA&#10;&#10;----------------------------------------------&#10;&#10;December Patreon:  https://www.patreon.com/drewdurnil&#10;&#10;Aaron Franke&#10;Abolish Wyoming 2021&#10;AlfonzoM6&#10;AryanAfterHours&#10;Barnsky W&#10;BringBackPolandball&#10;Dalton D&#10;Drew's Argentinan Grandpa&#10;Drewsasussybakachangemymind&#10;Elijah senpai&#10;Full Send Nic&#10;Hawkz Hawkz&#10;I'm_boutta_nut&#10;LuxembourgLover&#10;McBlorf&#10;MineBrothers999xtube&#10;Multipler Sign&#10;Papi Druwu&#10;Patrick C&#10;Peter T&#10;Popcorn 2008&#10;Ryan N&#10;Stormtrooper501&#10;Andrew L&#10;Astrakonix&#10;ClBlr&#10;luxembourghater&#10;Joe Dubya&#10;OhYesGuy&#10;RageCake&#10;TannerOfNazareth"
     channeltitle "Drew Durnil"
     channelid "UCPcABVoFfCK5gDfX0PY1KGg"
@@ -91,7 +91,7 @@ graph
     commentcount 3053
     duration "PT15M5S"
     indegree 34
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -109,7 +109,7 @@ graph
     commentcount 77092
     duration "PT10M24S"
     indegree 34
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 15102
     duration "PT9M16S"
     indegree 94
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 325689
     duration "PT34M29S"
     indegree 249
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     commentcount 140018
     duration "PT11M52S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -171,7 +171,7 @@ graph
     label "06bvdFK3vVU"
     step 0
     date "2019-01-16T13:00:01Z"
-    title "Flat Earth vs. Round Earth | Explorer"
+    title "Flat Earth vs. Round Earth | E tongue sticking out lorer"
     description "The Ancient Greeks concluded Earth was a sphere, which has been validated by scientists ever since. Despite this, there is a movement growing claiming the Earth is flat.&#10;&#10145; Subscribe: http://bit.ly/NatGeoSubscribe&#10;&#10145; Watch all clips of Explorer here: http://bit.ly/WatchExplorer&#10;&#10145; Get More Explorer: https://on.natgeo.com/2kjK3ZO&#10;&#10;#NationalGeographic #FlatEarth #Explorer&#10;&#10;About Explorer:&#10;Explorer, the longest-running documentary series in cable television history, honored with nearly 60 Emmys and hundreds of other awards, continues as a series of major specials on the National Geographic Channel. In the course of more than two thousand films, Explorer has taken viewers to more than 120 countries, opening a window on hidden parts of the world, unlocking mysteries both ancient and modern, and investigating stories of science, nature, and culture.&#10;&#10;Get More National Geographic:&#10;Official Site: http://bit.ly/NatGeoOfficialSite&#10;Facebook: http://bit.ly/FBNatGeo&#10;Twitter: http://bit.ly/NatGeoTwitter&#10;Instagram: http://bit.ly/NatGeoInsta&#10;&#10;About National Geographic&#10;National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.&#10;&#10;Flat Earth vs. Round Earth | Explorer&#10;https://youtu.be/06bvdFK3vVU&#10;&#10;National Geographic&#10;https://www.youtube.com/natgeo"
     channeltitle "National Geographic"
     channelid "UCpVm7bg6pXKo1Pr6k5kxG9A"
@@ -199,7 +199,7 @@ graph
     commentcount 7851
     duration "PT3M28S"
     indegree 16
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 37490
     duration "PT10M24S"
     indegree 89
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -243,7 +243,7 @@ graph
     label "UzIKWnZJ29s"
     step 0
     date "2016-01-28T02:42:51Z"
-    title "B.o.B&#38;#39;s Flat Earth Conspiracy Explained (And Obviously Debunked)"
+    title "B.o.Bs Flat Earth Conspiracy E tongue sticking out lained (And Obviously Debunked)"
     description "There has been a lot of talk about Flat Earth Theory recently due to the beef between Neil Degrasse Tyson and rapper B.o.B., but what do Flat Earthers actually believe?&#10;Read more about Flat Earthers: http://on.mash.to/1ROJjnZ&#10;&#10;MASHABLE ON YOUTUBE &#10;Subscribe to Mashable: http://on.mash.to/subscribe&#10;&#10;MASHABLE ACROSS THE WEB &#10;Mashable.com: http://on.mash.to/1hCcRpl &#10;Facebook: http://on.mash.to/1KkCTIP&#10;Twitter: http://on.mash.to/1Udp1kz&#10;Tumblr: http://on.mash.to/1NBBijY&#10;Instagram: http://on.mash.to/1U6D40z&#10;Google+: http://on.mash.to/1i27L5R&#10;Mashable is a leading global media company that informs, inspires and entertains the digital generation.&#10;&#10;Sources:&#10;Flat Earth Clues Introduction: https://www.youtube.com/watch?v=T8-YdgU-CF4&#10;Flat Earth Theory Explained Documentary: https://www.youtube.com/watch?v=EtNVmIeh9H4"
     channeltitle "Mashable"
     channelid "UCL8Nxsa1LB9DrMTHtt3IKiw"
@@ -261,7 +261,7 @@ graph
     label "DYrA6xbPjkg"
     step 0
     date "2021-01-10T16:00:04Z"
-    title "Real NASA Astronomer Reviews Flat Earth Simulator &#8226; Professionals Play"
+    title "Real NASA Astronomer Reviews Flat Earth Simulator Professionals Play"
     description "&#34;The sun would never set&#34;&#10;Watch a NASA astronomer play and critique Flat Earth Simulator.&#10;&#10;#professionalsplay #flatearthsimulator #astronomer&#10;&#10;Credits: https://www.buzzfeed.com/bfmp/videos/119197&#10;&#10;Subscribe to BuzzFeed Multiplayer: https://bzfd.it/2kVnL0z&#10;&#10;BuzzFeed Multiplayer&#10;Home for all things gaming, cosplay, real-life recreations, real professionals playing games, challenges, and more! If this sounds like the stuff you&#8217;re into then please subscribe today!&#10;&#10;Love BuzzFeed Multiplayer? Get the merch! BUY NOW: https://bzfd.it/shopmultiplayeryoutube&#10;&#10;Follow us on Twitter: https://twitter.com/multiplayerBF&#10;Like us on Facebook: https://www.facebook.com/buzzfeedmultiplayer/&#10;&#10;GET MORE BUZZFEED:&#10;https://www.buzzfeed.com&#10;https://www.buzzfeed.com/videos&#10;https://www.youtube.com/buzzfeedvideo&#10;https://www.youtube.com/asis&#10;https://www.youtube.com/buzzfeedmultiplayer&#10;https://www.youtube.com/buzzfeedunsolvednetwork&#10;http://youtube.com/buzzfeedceleb&#10;https://www.youtube.com/perolike&#10;https://www.youtube.com/buzzfeedviolet&#10;https://www.youtube.com/goodful&#10;https://www.youtube.com/nifty&#10;https://www.youtube.com/buzzfeedtasty&#10;https://www.youtube.com/bringme&#10;https://www.youtube.com/abouttoeat&#10;&#10;SUBSCRIBE TO BUZZFEED NEWSLETTERS:&#10;https://www.buzzfeed.com/newsletters&#10;&#10;MUSIC&#10;&#10;Licensed via Audio Network&#10;&#10;STILLS&#10;Congress Holds Joint Session To Ratify 2020 Presidential Election&#10;Win McNamee/Getty Images&#10;Police Clash With Anti-Lockdown Protesters In London&#10;NurPhoto/Getty Images&#10;Pro-Trump Supporters Hold &#34;Stop The Steal&#34; Protest In Atlanta, As State's Recount Nears End&#10;Elijah Nouvelage/Getty Images&#10;Pro-Trump Rally Held On New York's Staten Island&#10;Stephanie Keith/Getty Images&#10;Los Angeles Tourism And Entertainment Industry Stifled By Coronavirus Restrictions&#10;AaronP/Bauer-Griffin/Getty Images&#10;Star ending his life&#10;Photo 12/Getty Images&#10;&#10;&#10;EXTERNAL CREDITS&#10;Laura Danly&#10;@Laura_Danly"
     channeltitle "BuzzFeed Multiplayer"
     channelid "UCBUVGPsJzc1U8SECMgBaMFw"
@@ -271,7 +271,7 @@ graph
     commentcount 43726
     duration "PT10M7S"
     indegree 88
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -279,7 +279,7 @@ graph
     label "YjWn23pEl3k"
     step 0
     date "2018-08-23T00:24:51Z"
-    title "Joe Rogan - Neil deGrasse Tyson on Eric Dubay &#38;amp; Flat Earth"
+    title "Joe Rogan - Neil deGrasse Tyson on Eric Dubay Flat Earth"
     description "Taken from Joe Rogan Experience #1159: https://www.youtube.com/watch?v=vGc4mg5pul4"
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
@@ -289,7 +289,7 @@ graph
     commentcount 29971
     duration "PT8M49S"
     indegree 111
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -297,7 +297,7 @@ graph
     label "32X88HMae0I"
     step 0
     date "2018-03-27T16:39:44Z"
-    title "Man flies rocket to &#38;#39;prove&#38;#39; Earth is flat - BBC News"
+    title "Man flies rocket to Earth is flat - BBC News"
     description "&#34;Mad&#34; Mike Hughes wants to prove thousands of years of human knowledge wrong.&#10;&#10;Please subscribe HERE http://bit.ly/1rbfUog"
     channeltitle "BBC News"
     channelid "UC16niRr50-MSBwiO3YDb3RA"
@@ -307,7 +307,7 @@ graph
     commentcount 3402
     duration "PT1M1S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 9216
     duration "PT6M50S"
     indegree 6
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount 977
     duration "PT1M45S"
     indegree 6
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount 193541
     duration "PT4M23S"
     indegree 39
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -397,7 +397,7 @@ graph
     commentcount 22302
     duration "PT7M30S"
     indegree 11
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -423,7 +423,7 @@ graph
     label "_trulM9Ht4E"
     step 0
     date "2018-02-16T11:00:02Z"
-    title "Kyrie Irving on Flat Earth Theory, LeBron James &#38;amp; NBA All-Star Game"
+    title "Kyrie Irving on Flat Earth Theory, LeBron James NBA All-Star Game"
     description "Kyrie talks about his 5th NBA All-Star game, being chosen to be on LeBron's team, playing for the Boston Celtics, his new movie Uncle Drew, his tattoo of the 'Friends' logo and his beliefs about the world being flat.&#10;&#10;Trump's Lawyer Paid Off Stormy Daniels https://youtu.be/w8IOkO8cLgg&#10; &#10;SUBSCRIBE to get the latest #KIMMEL: http://bit.ly/JKLSubscribe&#10; &#10;Watch Mean Tweets: http://bit.ly/KimmelMT10&#10; &#10;Connect with Jimmy Kimmel Live Online:&#10; &#10;Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite&#10;Like Jimmy Kimmel on FACEBOOK: http://bit.ly/KimmelFB&#10;Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook&#10;Follow @JimmyKimmel on TWITTER: http://bit.ly/KimmelTW&#10;Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter&#10;Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram&#10; &#10;About Jimmy Kimmel Live:&#10; &#10;Jimmy Kimmel serves as host and executive producer of Emmy-winning &#34;Jimmy Kimmel Live,&#34; ABC's late-night talk show.&#10;&#10;&#34;Jimmy Kimmel Live&#34; is well known for its huge viral video successes with 5.6 billion views on YouTube alone.&#10;Some of Kimmel's most popular comedy bits include - Mean Tweets, Lie Witness News, Jimmy's Twerk Fail Prank, Unnecessary Censorship, YouTube Challenge, The Baby Bachelor, Movie: The Movie, Handsome Men's Club, Jimmy Kimmel Lie Detective and music videos like &#34;I (Wanna) Channing All Over Your Tatum&#34; and a Blurred Lines parody with Robin Thicke, Pharrell, Jimmy and his security guard Guillermo.&#10;Now in its sixteenth season, Kimmel's guests have included: Johnny Depp, Meryl Streep, Tom Cruise, Halle Berry, Harrison Ford, Jennifer Aniston, Will Ferrell, Katy Perry, Tom Hanks, Scarlett Johansson, Channing Tatum, George Clooney, Larry David, Charlize Theron, Mark Wahlberg, Kobe Bryant, Steve Carell, Hugh Jackman, Kristen Wiig, Jeff Bridges, Jennifer Garner, Ryan Gosling, Bryan Cranston, Jamie Foxx, Amy Poehler, Ben Affleck, Robert Downey Jr., Jake Gyllenhaal, Oprah, and unfortunately Matt Damon.&#10;&#10;Kyrie Irving on Flat Earth Theory, LeBron James &#38; NBA All-Star Game&#10;https://youtu.be/_trulM9Ht4E"
     channeltitle "Jimmy Kimmel Live"
     channelid "UCa6vGFO9ty8v5KZJXQxdhaw"
@@ -433,7 +433,7 @@ graph
     commentcount 6175
     duration "PT7M49S"
     indegree 49
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -451,7 +451,7 @@ graph
     commentcount 4483
     duration "PT26M56S"
     indegree 14
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -477,7 +477,7 @@ graph
     label "hrAdayUh6-4"
     step 0
     date "2020-02-23T20:34:09Z"
-    title "&#38;#39;Flat earther&#38;#39; dies in rocket crash"
+    title " dies in rocket crash"
     description "A California man who said he wanted to fly to the edge of outer space to see if the world is round has died after his home-built rocket blasted off into the desert sky and plunged back to earth. (Feb. 23)&#13;&#10;&#13;&#10;Subscribe for more Breaking News: http://smarturl.it/AssociatedPress &#13;&#10;Website: https://apnews.com&#13;&#10;Twitter: https://twitter.com/AP&#13;&#10;Facebook: https://facebook.com/APNews&#13;&#10;Google+: https://plus.google.com/115892241801867723374&#13;&#10;Instagram: https://www.instagram.com/APNews/&#13;&#10;&#8203;&#13;&#10;&#13;&#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/2ab745ecd1fb4bb3b8d56b1c596ceae3"
     channeltitle "Associated Press"
     channelid "UC52X5wxOL_s5yw0dQk7NtgA"
@@ -487,7 +487,7 @@ graph
     commentcount 3948
     duration "PT40S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -505,7 +505,7 @@ graph
     commentcount 40230
     duration "PT10M57S"
     indegree 60
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -541,7 +541,7 @@ graph
     commentcount -1
     duration "PT3M50S"
     indegree 17
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -559,7 +559,7 @@ graph
     commentcount 14417
     duration "PT4M30S"
     indegree 11
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 8749
     duration "PT5M52S"
     indegree 8
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 18704
     duration "PT5M24S"
     indegree 60
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount -1
     duration "PT12M35S"
     indegree 153
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -639,7 +639,7 @@ graph
     label "T4WjyTV98lg"
     step 0
     date "2017-05-22T13:00:05Z"
-    title "This Is How We Know Earth Isn&#38;#39;t Flat"
+    title "This Is How We Know Earth Isnt Flat"
     description "Some conspiracy theorists think the Earth is actually flat. How can we prove that this theory is incorrect?&#10;Watch More: Could Mind Control Ever Be Real? &#9658;&#9658;&#9658;&#9658; https://www.youtube.com/watch?v=0DjdTLo9Y60&#10;&#10;Support Life Noggin on Patreon: https://www.patreon.com/LifeNogginStudios?ty=h &#10;&#10;Follow Us!&#10;https://twitter.com/LifeNoggin&#10;https://facebook.com/LifeNoggin&#10;&#10;Click here to see more videos: https://www.youtube.com/user/lifenoggin&#10;&#10;Life Noggin is a weekly animated educational series. Whether it's science, pop culture, history or art, we explore it all and have a ton of fun doing it. &#10;&#10;Life Noggin Team:&#10;Director/Voice: http://lifenogg.in/patgraziosi&#10;Executive Producer: http://youtube.com/iandokie&#10;Director of Marketing: http://lifenogg.in/JaredOban&#10;Animation by Robert Grisham&#10;Written by: Andrea Bloom&#10;&#10;Sources:&#10; http://www.slate.com/blogs/bad_astronomy/2009/01/15/how_far_away_is_the_horizon.html&#10; http://www.pbs.org/newshour/updates/7-diy-experiments-b-o-b-the-earth-is-round/&#10; http://practicalphysics.org/greek-evidence-earths-shape-and-spin.html&#10; https://www.discovery.com/dscovrd/nature/no-earth-isnt-flat-heres-how-ancients-proved-it/&#10; http://www.popsci.com/10-ways-you-can-prove-earth-is-round#page-9&#10; https://www.aps.org/publications/apsnews/200606/history.cfm&#10; http://classics.mit.edu/Aristotle/heavens.2.ii.html"
     channeltitle "Life Noggin"
     channelid "UCpJmBQ8iNHXeQ7jQWDyGe3A"
@@ -649,7 +649,7 @@ graph
     commentcount 48143
     duration "PT3M53S"
     indegree 14
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -675,7 +675,7 @@ graph
     label "hLPPE3_DVCw"
     step 0
     date "2018-03-09T15:32:13Z"
-    title "Neil Tyson Demonstrates Absurdity of &#38;quot;Flat Earth&#38;quot;"
+    title "Neil Tyson Demonstrates Absurdity of "
     description "Neil deGrasse Tyson takes on the subject of our spherical world, and this time he has not only science but history on his side. You can learn even more at https://brilliant.org/StarTalk/.&#10;&#10;Catch up with StarTalk Radio around the web:&#10;Twitter - https://twitter.com/StarTalkRadio&#10;Facebook - http://www.facebook.com/StarTalk&#10;Instagram - http://instagram.com/startalkradio&#10;&#10;If you love StarTalk, don't miss out on any news. Sign up for our free newsletter: http://www.startalkradio.net/newsletter&#10;&#10;Note: In illustrating a total lunar eclipse we used a bit of animation that didn&#8217;t portray Earth&#8217;s umbra and penumbra accurately. To see a graphic that accurately depicts both portions of Earth's shadow in space, visit https://www.startalkradio.net/shedding-light-on-earths-shadow-in-our-recent-youtube-video/&#10;&#10;Hosts&#10;Neil deGrasse Tyson, Chuck Nice&#10;&#10;Director&#10;Dave Wiskus&#10;&#10;Writers&#10;PJ Scott-Blankenship, Josh Silverman&#10;&#10;Animation Director  &#10;B&#229;rd Edlund&#10;&#10;Animators&#10;David Powell, Josh Sherrington&#10;&#10;Sound Designer &#10;Jay Pellizzi&#10;&#10;Producers&#10;Amanda McLoughlin, Brilliant.org, Ben Ratner&#10;&#10;StarTalk Radio &#10;Executive Producers&#10;Neil deGrasse Tyson, Helen Matsos&#10;&#10;Producers&#10;Laura Berland, Jeffrey Lee Simons, Lindsey Walker&#10;***********************************&#10;&#10;&#10;About StarTalk: &#10;Science meets pop culture on StarTalk! Astrophysicist &#38; Hayden Planetarium director Neil deGrasse Tyson, his comic co-hosts, guest celebrities &#38; scientists discuss astronomy, physics, and everything else about life in the universe. Keep Looking Up!&#10;&#10;#FlatEarth #neildegrassetyson #StarTalk&#10;&#10;0:00 - Introduction&#10;0:48 - How Physics Conspires To Make Things Round&#10;1:31 - The History Of Flat Earth&#10;2:05 - Evidence For The Spherical Earth&#10;4:05 - Eratosthenes's Experiment&#10;5:40 - How We Can Observe The Spherical Earth Ourselves&#10;6:41 - What The Rise Of Flat Earthers Means&#10;7:15 - Sponsored by Brilliant&#10;8:10 - Closing Notes"
     channeltitle "StarTalk"
     channelid "UCqoAEDirJPjEUFcF2FklnBA"
@@ -703,7 +703,7 @@ graph
     commentcount 40064
     duration "PT5M44S"
     indegree 71
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 78673
     duration "PT12M55S"
     indegree 139
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 65526
     duration "PT17M7S"
     indegree 11
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 10036
     duration "PT14M36S"
     indegree 100
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 51067
     duration "PT22M46S"
     indegree 115
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -793,7 +793,7 @@ graph
     commentcount 3586
     duration "PT39M17S"
     indegree 5
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -811,7 +811,7 @@ graph
     commentcount 2324
     duration "PT4M19S"
     indegree 17
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 16348
     duration "PT4M8S"
     indegree 22
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -837,7 +837,7 @@ graph
     label "MzfOzOWPnuQ"
     step 0
     date "2019-04-01T17:00:04Z"
-    title "Exclusive Sneak Peek at &#8220;Planet Flat Earth&#8221; (Nerdist Remix)"
+    title "Exclusive Sneak Peek at (Nerdist Remix)"
     description "Nerdist presents a sneak peek at the new breathtaking documentary series which showcases the natural splendor of our planet. This little blue dot we call home is filled with wonderful secrets and astounding truths, including the most obvious truth of all, the Earth is in fact flat. Inarguably FLAT. From the creators of &#8220;Jurassic Fraud&#8221; and &#8220;Jim and the Grinch&#8221; comes the latest Nerdist docuseries. So sit back and enjoy the beautiful sights our disk planet has to offer!&#10;&#10;CREDITS:&#10; &#10;Narrated by Darin De Paul&#10;Produced by Jason Nguyen &#38; Erik Kozura&#10;Written by Joan Ford &#38; Dan Casey&#10;Edited by Matt Caron&#10;Graphics by Charles Shattuck&#10;Production Coordinator Katy Hampton"
     channeltitle "Nerdist"
     channelid "UCTAgbu2l6_rBKdbTvEodEDw"
@@ -847,7 +847,7 @@ graph
     commentcount 3367
     duration "PT3M43S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount 6493
     duration "PT6M54S"
     indegree 8
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -873,7 +873,7 @@ graph
     label "umo6pMCkcXs"
     step 0
     date "2019-03-30T17:00:08Z"
-    title "Flat Earth: What Makes REAL Science? &#8211; Wisecrack Edition"
+    title "Flat Earth: What Makes REAL Science? Wisecrack Edition"
     description "Create Your Own Website For FREE! &#9658; http://wix.com/wisecrack&#10;&#10;&#10;Subscribe to Wisecrack! &#9658; http://wscrk.com/SbscrbWC&#10;Join Our Discord Chat and get access to EXCLUSIVE content on WisecrackPLUS &#9658; http://wscrk.com/YtWcPls&#10;&#10;How do we know what we know? Join us as we get nerdy about the philosophy of science and how it relates to the rotundity of the Earth.&#10;&#10;=== Watch More Episodes! ===&#10;US and the American Dream &#9658; https://wscrk.com/2HWhOtC&#10;Big Mouth VLOG &#9658; https://wscrk.com/2OnuYB7&#10;Memification of Actors &#9658; https://wscrk.com/2ukigtr&#10;BANKSY Deep or Dumb? &#9658; https://wscrk.com/2OdhA29&#10;The Philosophy of BILLIONS &#9658; https://wscrk.com/2TSd6mM&#10;PROMETHEUS and ALIEN COVENANT: Deep or Dumb? &#9658; https://wscrk.com/2Hie8ly&#10;Why Our Horror Movies Are Different Now &#9658; https://wscrk.com/2BRqRbq&#10;&#10;&#10;Store ........... http://wisecrackstore.com&#10;Twitter ......... https://twitter.com/wisecrack&#10;Facebook .... https://facebook.com/wisecrackedu&#10;&#10;#FlatEarth #RoundEarth&#10;&#10;Mercury Orbit Illustration&#10;Credit: Laura Guerin&#10;Source: CK-12 Foundation &#9658; https://www.ck12.org/physics/Orbital-Motion/rwa/Mercurys-Orbit/&#10;License: CC BY-NC 3.0 &#9658; https://creativecommons.org/licenses/by-nc/3.0/legalcode&#10;&#10;Written by: Alec Opperman&#10;Directed by: Michael Luxemburg&#10;Hosted by: Jared Bauer&#10;Edited by: Mark Potts&#10;Motion Graphics by: Drew Levin&#10;Produced by: Emily Dunbar&#10;&#10;&#169; 2019 Wisecrack, Inc."
     channeltitle "Wisecrack"
     channelid "UC6-ymYjG0SU0jUWnWh9ZzEQ"
@@ -883,7 +883,7 @@ graph
     commentcount 15042
     duration "PT21M16S"
     indegree 67
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -891,7 +891,7 @@ graph
     label "JDy95_eNPzM"
     step 0
     date "2019-05-22T15:59:24Z"
-    title "Response to Globebusters - The Earth Still Isn&#38;#39;t Flat"
+    title "Response to Globebusters - The Earth Still Isnt Flat"
     description "Last week I posted a video about how we know the Earth is round, from the perspective of modern astronomy. The Flat Earth community did not like it one bit, and the channel &#34;Globebusters&#34; decided to talk for three hours on their livestream about how stupid my video is, and how stupid I am. I didn't really appreciate that, so I decided to make a video about their video to illustrate precisely how little they know about science, and to further reinforce how utterly absurd the Flat Earth &#34;model&#34; is, as well as some of the finer points about the conspiracy. Enjoy!&#10;&#10;My original video: https://www.youtube.com/watch?v=tC5RalYWZ5Y&#38;lc=Ugz81BVxvXL8vHxBpCF4AaABAg&#10;&#10;Learn more from me about astronomy: http://bit.ly/ProfDaveAstronomy&#10;Watch my other debunks: http://bit.ly/ProfDaveDebunk&#10;&#10;EMAIL&#9658; ProfessorDaveExplains@gmail.com&#10;PATREON&#9658; http://patreon.com/ProfessorDaveExplains&#10;&#10;Check out &#34;Is This Wi-Fi Organic?&#34;, my book on disarming pseudoscience!&#10;Amazon: https://amzn.to/2HtNpVH&#10;Bookshop: https://bit.ly/39cKADM&#10;&#13;Barnes and Noble: https://bit.ly/3pUjmrn &#10;Book Depository: http://bit.ly/3aOVDlT"
     channeltitle "Professor Dave Explains"
     channelid "UC0cd_-e49hZpWLH3UIwoWRA"
@@ -919,7 +919,7 @@ graph
     commentcount 18522
     duration "PT5M31S"
     indegree 15
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     commentcount 83515
     duration "PT18M43S"
     indegree 110
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 22117
     duration "PT42S"
     indegree 2
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -981,7 +981,7 @@ graph
     label "iYZbQIXoVMY"
     step 0
     date "2020-04-04T16:00:31Z"
-    title "David Mitchell&#38;#39;s Hilarious Rant On The Flat Earth Society | The Graham Norton Show"
+    title "David Mitchells Hilarious Rant On The Flat Earth Society | The Graham Norton Show"
     description "David Mitchell goes on a hilarious rant on the flat Earth Society.&#10;&#10;&#10;&#10;#TheGNShow #TheGrahamNortonShow #GrahamNorton&#10;&#10;Follow us!&#10;&#10;Facebook - https://www.facebook.com/thegrahamnortonshow/?ref=page_internal &#10;Instagram - https://www.instagram.com/thegrahamnortonshowofficial/&#10;Twitter - https://twitter.com/TheGNShowFollow us here:&#10;Facebook: https://www.facebook.com/thegrahamnortonshow/&#10;Instagram: https://www.instagram.com/thegrahamnortonshowofficial/&#10;Twitter: https://twitter.com/TheGNShow&#10;TikTok: https://www.tiktok.com/@thegnshow&#10;Snapchat: https://www.snapchat.com/discover/The_Graham_Norton_Show/3773416663"
     channeltitle "The Graham Norton Show"
     channelid "UC4PziMH5MvvsmqM0VCZTy-g"
@@ -991,7 +991,7 @@ graph
     commentcount 7822
     duration "PT2M26S"
     indegree 34
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1009,7 +1009,7 @@ graph
     commentcount 24707
     duration "PT13M7S"
     indegree 91
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 133
     duration "PT13M39S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -1071,7 +1071,7 @@ graph
     label "X8f--Ljgrh4"
     step 0
     date "2021-07-08T13:00:12Z"
-    title "I&#38;#39;m A Physicist and Flat Earther (Skit)"
+    title "Im A Physicist and Flat Earther (Skit)"
     description "Dr. Ed Iotte of University College Collegiate explains why he can be both a physicist, and a flat earth believer."
     channeltitle "Andrew Dotson"
     channelid "UCnFmWQbVW_YbqPQZGNuq8sA"
@@ -1081,7 +1081,7 @@ graph
     commentcount 1890
     duration "PT4M12S"
     indegree 16
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 2211
     duration "PT1M54S"
     indegree 5
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1107,7 +1107,7 @@ graph
     label "6Ghzi_bIpbM"
     step 0
     date "2017-12-03T02:00:00Z"
-    title "Elon Musk Owns Flat earther&#38;#39;s! | TMZ TV"
+    title "Elon Musk Owns Flat earthers! | TMZ TV"
     description "With a single Tweet!&#10;&#10;SUBSCRIBE: http://po.st/TMZSubscribe&#10;&#10;About TMZ:&#10;TMZ has consistently been credited for breaking the biggest stories dominating the entertainment news landscape and changed the way the public gets their news. Regularly referenced by the media, TMZ is one of the most cited entertainment news sources in the world. &#10;&#10;Subscribe to TMZ on YouTube for breaking celebrity news/ gossip and insight from the newsroom staff (TMZ Chatter &#38; TMZ News), the best clips from TMZ on TV, Raw &#38; Uncut TMZ paparazzi video (from TMZ.com) and the latest video from TMZ Sports and TMZ Live! &#10;&#10;Keeping Up with Our YouTube Exclusive Content:&#10;TMZ Chatter: TMZ newsroom staff insight and commentary from stories/ photos/ videos on TMZ.com &#10;TMZ News: The latest news you need to know from TMZ.com&#10;Raq Rants: Raquel Harper talks to a celebrity guest with ties to the hip hop and R&#38;B communities.&#10;Behind The Bar Podcast: TMZ's lawyers Jason Beckerman and Derek Kaufman loiter at the intersection of law and entertainment, where they look closely at the personalities, events and trends driving the world of celebrity &#8212; and how the law affects it all.&#10;&#10;We love Hollywood, we just have a funny way of showing it.&#10;&#10;Need More TMZ?&#10;TMZ Website: http://po.st/TMZWebsite&#10;LIKE TMZ on Facebook! http://po.st/TMZLike&#10;FOLLOW TMZ on Twitter! http://po.st/TMZFollow&#10;FOLLOW TMZ on Instagram! http://po.st/TMZInsta&#10;TMZ on TV &#38; TMZ Sports on FS1 Tune In Info: http://po.st/TMZOnAir&#10;TMZ is on iOS! http://po.st/TMZiOS&#10;TMZ is on Android! http://po.st/TMZonAndroid&#10;&#10;Got a Tip?&#10;Contact TMZ: http://po.st/TMZTip&#10;&#10;Check out TMZ Live, TMZ Sports and toofab!&#10;TMZ Live: http://po.st/TMZLiveWebsite&#10;Subscribe! TMZ Live: http://po.st/TMZLiveSubscribe&#10;TMZ Sports: http://po.st/TMZSportsWebsite&#10;Subscribe! TMZ Sports: http://po.st/TMZSportsSubscribe&#10;Toofab: http://po.st/toofabWebsite&#10;Subscribe! toofab: http://po.st/toofabSubscribe&#10;&#10;https://www.youtube.com/c/TMZ"
     channeltitle "TMZ"
     channelid "UCK7IIV6Q2junGSdYK3BmZMg"
@@ -1117,7 +1117,7 @@ graph
     commentcount -1
     duration "PT1M27S"
     indegree 5
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 6951
     duration "PT8M49S"
     indegree 60
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1143,7 +1143,7 @@ graph
     label "p33NtCtIjrM"
     step 0
     date "2018-02-26T18:44:55Z"
-    title "PROOF THE EARTH IS FLAT  [MEME REVIEW] &#128079; &#128079; #10"
+    title "PROOF THE EARTH IS FLAT [MEME REVIEW] #10"
     description "My Setup:&#10;&#10;Chair:: ONLY 399 !&#10;USA &#38; Asia: https://usa.clutchchairz.com/product/...&#10;Europe: https://europe.clutchchairz.com/en/pr...&#10;Canada: https://canada.clutchchairz.com/produ... &#8206;&#10;&#10;Headphones::&#10;http://rzr.to/edgar&#10;&#10;Camera::&#10;http://amzn.to/2FaJFGa&#10;&#10;Microphone:::&#10;http://amzn.to/2F8gUKa&#10;&#10;Display::&#10;http://amzn.to/2H2PhyM&#10;&#10;Light::&#10;http://amzn.to/2CWDLTa&#10;&#10;Keyboard::&#10;http://amzn.to/2FaJNWa&#10;&#10;Mouse::&#10;http://amzn.to/2oOqJlG&#10;&#10;Mousepad::&#10;http://amzn.to/2oH0tu7"
     channeltitle "PewDiePie"
     channelid "UC-lHJZR3Gqxm24_Vd_AJ5Yw"
@@ -1153,7 +1153,7 @@ graph
     commentcount 32687
     duration "PT10M13S"
     indegree 6
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 0
     duration "PT5M4S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1179,7 +1179,7 @@ graph
     label "IZ2cAPx9ML4"
     step 0
     date "2020-01-22T16:00:04Z"
-    title "Jim Norton Debunks Flat Earthers&#38;#39; Arguments | Netflix Is A Joke"
+    title "Jim Norton Debunks Flat Earthers Arguments | Netflix Is A Joke"
     description "Jim Norton doesn&#8217;t hate people who believe that the Earth is flat, but he explains how difficult it would be to keep the conspiracy a secret. &#10;&#10;Watch The Degenerates Season 2, only on Netflix. &#10;https://www.netflix.com/be-en/title/80987753&#10;&#10;SUBSCRIBE: https://bit.ly/2Kncxw6&#10;&#10;About Netflix Is A Joke:&#10;The official hub of Netflix stand-up, comedy series, films, and all things funny &#8212; curated by the world&#8217;s most advanced algorithm and a depressed, yet lovable, cartoon horse. Their unlikely friendship is our story&#8230;&#10;&#10;About Netflix:&#10;Netflix is the world's leading internet entertainment service with over 151 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.&#10;&#10;Connect with Netflix Is A Joke: &#10;Visit Netflix WEBSITE: http://nflx.it/29BcWb5 &#10;Like Netflix Is A Joke on FACEBOOK: https://bit.ly/2xD5zfu &#10;Follow Netflix Is A Joke on TWITTER: https://bit.ly/2N6ENkx &#10;Follow Netflix Is A Joke on INSTAGRAM: https://bit.ly/2VTQcxu"
     channeltitle "Netflix Is A Joke"
     channelid "UCObk_g1hQBy0RKKriVX_zOQ"
@@ -1189,7 +1189,7 @@ graph
     commentcount 9606
     duration "PT3M16S"
     indegree 5
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1197,7 +1197,7 @@ graph
     label "0ZDShOguxz0"
     step 0
     date "2022-02-14T17:00:42Z"
-    title "Stop Trying to Make Flat Earth a Thing. We&#8217;ve Known Better For Thousands of Years #Shorts"
+    title "Stop Trying to Make Flat Earth a Thing. Weve Known Better For Thousands of Years #Shorts"
     description "Watch The Full Philip DeFranco Show: https://www.youtube.com/c/PhilipDeFranco&#10;Subscribe for more Quickie News: https://www.youtube.com/defranco?sub_confirmation=1&#10;&#10;How long have we known the Earth is round?&#10;A lot of us were taught it was when Columbus, sailed the ocean blue, but that was completely made up by the guy who wrote The Headless Horseman.&#10;Even in Columbus&#8217; day, scholars, merchants, sailors, and clergy knew the Earth was round, and actually laughed at Columbus because of how small he thought the Earth was.&#10;They were just confident the path west to China was really, really, really far away, so why risk it?&#10;And they knew that it was round because they studied the 1600-year-old work Greek mathematicians did that proved it was round and roughly how large it was.&#10;It was such common knowledge, that the way one historian put it was, &#8220;no educated person in the history of Western Civilization from the third century B.C. onward believed that the Earth was flat.&#10;So the next time you talk to a flat earther you can tell them the answer to the question&#8230;&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;    &#10;Produced by: Cory Ray, Philip DeFranco&#10;Edited by: Maxwell Enright&#10;Art Department: William Crespo&#10;Writing/Research: Brian Espinoza&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;#DeFranco #Earth #Shorts"
     channeltitle "Philip DeFranco"
     channelid "UClFSU9_bUb4Rc6OYfTt5SPw"
@@ -1207,7 +1207,7 @@ graph
     commentcount 1857
     duration "PT36S"
     indegree 1
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -1225,7 +1225,7 @@ graph
     commentcount 20301
     duration "PT8M41S"
     indegree 11
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1251,7 +1251,7 @@ graph
     label "jSjk_r0pmms"
     step 0
     date "2021-03-11T03:30:37Z"
-    title "Is The Earth Flat Or Round? | Class 5 | Learn With BYJU&#38;#39;S"
+    title "Is The Earth Flat Or Round? | Class 5 | Learn With BYJUS"
     description "Was it hard for you to believe that Earth is round and not flat? Just as a small ant would feel walking on the surface of a big, round watermelon, the ancient people also considered Earth to be flat. To learn about how we discovered the actual shape of our planet, join us in the video. &#10;&#10;For more such engaging videos, Like, Share and Subscribe to BYJU'S. &#10;&#128073; Subscribe to BYJU'S - http://bit.ly/2IYECcw &#10;&#128073; Install the BYJU'S App - http://bit.ly/Playstore-Appstore &#10;&#128073; Follow us on Facebook - https://www.facebook.com/byjuslearningapp/&#10;&#10;#funwithlearning #scienceclass5 #mass #physics #oursolarsystem #ouruniverse #planets #ourplanet #sunandthesolarsystem #earth #shapeofearth #sphericalearth #isearthflatorround"
     channeltitle "BYJU'S"
     channelid "UCkDw-LPU1Nnd2WRsfnDbUcA"
@@ -1261,7 +1261,7 @@ graph
     commentcount 114
     duration "PT4M37S"
     indegree 1
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 2728
     duration "PT12M45S"
     indegree 1
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount -1
     duration "PT1H15M6S"
     indegree 88
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1323,7 +1323,7 @@ graph
     label "c3mkDJT64gc"
     step 0
     date "2016-04-13T17:52:05Z"
-    title "When People Thought the Earth was Flat | Paul Bunnell | TEDxEmbryRiddlePrescott"
+    title "When People Thought the Earth was Flat | Paul Bunnell | TE horror EmbryRiddlePrescott"
     description "Just because you were taught something by a teacher, does that necessarily make it true? Paul tackles the notion of one the oldest-held beliefs, that people did not know the Earth was round until Columbus, by challenging people to think in different and creative ways. Paul believes that by taking on the well known beliefs with a skeptical mind, we can move to a smarter, more informed society.&#13;&#10;&#13;&#10;&#10;&#10;Paul currently teaches Physics at Prescott High School and Engineering 101 at Embry&#8208;Riddle Aeronautical University.  He began college studying mechanical engineering at Case Western Reserve University but discovered his passion was in teaching.  He graduated from the University of Virginia with a Bachelor&#8217;s degree in Physics and a Master&#8217;s degree in Teaching.  His students might reminisce about how a home&#8208;made hovercraft helped them learn Newton&#8217;s 3rd law, or how circuits can be modeled with plumbing parts, but in Paul&#8217;s view, these are just cool and effective ways to get students to think about the epistemology of science and how to draw valid conclusions from data.  Paul is also pursuing a Biology teaching credential, and outside the classroom, he is the creator of a new science fiction time travel concept &#8211; the constant rate typeover model.&#10;&#10;This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx"
     channeltitle "TEDx Talks"
     channelid "UCsT0YIqwnpJCM-mx7-gSA4Q"
@@ -1333,7 +1333,7 @@ graph
     commentcount 204
     duration "PT16M56S"
     indegree 3
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 2152
     duration "PT12M29S"
     indegree 7
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1359,7 +1359,7 @@ graph
     label "3oz7k7Wn_vo"
     step 0
     date "2016-05-24T18:00:00Z"
-    title "Hey Bill Nye, &#38;quot;How Do We Know the Earth Is Round?&#38;quot; #TuesdaysWithBill | Big Think"
+    title "Hey Bill Nye, #TuesdaysWithBill | Big Think"
     description "Hey Bill Nye, &#34;How Do We Know the Earth Is Round?&#10;Watch the newest video from Big Think: https://bigth.ink/NewVideo&#10;Join Big Think Edge for exclusive videos: https://bigth.ink/Edge&#10;----------------------------------------------------------------------------------&#10;Modern &#34;theories&#34; suggesting the Earth is flat are ignorant of basic experiential data, historical scientific findings, and how technologies like smartphone functions, says Bill Nye the Science Guy.&#10;----------------------------------------------------------------------------------&#10;BILL NYE:&#10;&#10;Bill Nye, scientist, engineer, comedian, author, and inventor, is a man with a mission: to help foster a scientifically literate society, to help people everywhere understand and appreciate the science that makes our world work. Making science entertaining and accessible is something Bill has been doing most of his life.&#10;---------------------------------------------------------------------------------- &#10;TRANSCRIPT:&#10;&#10;Matt Harden: Hey Bill, can you prove beyond a reasonable doubt that the earth is a sphere and not flat? I have a lot of Facebook friends who say that it's an act. Thank you.&#10;&#10;Bill Nye: Is the earth flat or round? It's round. Now, let's see, how do we go about proving that? Go to the seashore. Go to the seashore and figure out why you can't, if you live on the East Coast figure out why you can't see Spain from the East Coast or North America? It looks like you might have a St. Louis hat on. I'm not sure. Just go to the middle of the Mississippi River and look south. Why can't you see Louisiana? Why can't you see New Orleans? What's the problem there? Then climb a tower or go to the top of a hill or a mountain and you'll see a little farther, but you will not see to the other side of the earth, places we know to exist. For example, I've been to London. I can tell you other people have. I've been to Vancouver British Columbia and you cannot see Vancouver British Columbia from Boise Idaho, let alone from New York City Or Toronto or what have you. Just start there then if you'd like look at pictures from space where you see the earth as a sphere. Those pictures are not faked. And I'll tell you if nothing else here is why you can tell they're not faked. Just to create the paperwork that NASA has created, NASA in this one case, just the paperwork to send anything out in space, to send people into orbit or to send them to the moon, that amount of paperwork would make faking it prohibitively expensive. No one could afford to generate that much documentation.&#10;&#10;Then the other thing if you want to get into this, if your friends are really serious, have them get on a boat or a ship and go out at sea and you'll noticed you can't see infinitely far. Furthermore, if you get into it enough pick up a book about navigation or go online and learn about navigation. A very, very Important thing you have to take into account when you try to navigate the ocean from a ship or a boat is how high you are off the sea surface. The higher you are off the sea surface the farther you can see, the farther away the horizon is. Now, this discovery that the world is round was made - I'm going to say it was published in 1540. Now, I concerned - it was Copernicus, I'm concerned it might have been 1530, but it was about then. It was in the 16th century that the earth was shown to be a ball. But it was known to be a ball by a lot of other people before Copernicus in the Western World, what we now call the Western World the western hemisphere. The ancient Greeks noticed that from time to time the earth casts a shadow on the moon. This is a lunar eclipse's where the moon gets in the shadow of the earth, the sunlight is being blocked by the earth, the moon is on the far side of the earth. And that shadow is always curved. And the only shape that always produces a curve, no matter what the orientation, that is to say whether you're standing in Greece at night or if you're standing then 12 hours later in Buenos Aries at night, the shadow is always curved. So the ancient Greeks knew that the earth was a ball. They didn't know the size of it to the degree of precision we know now.&#10;&#10;And you guys, come on, everybody watches newscasts. You all use mobile phones. You all see airplanes fly around. You all go to see Ed Sheeran in concert one day in London, another day in the Melbourne Australia. This all depends of our fundamental understanding of the size of the earth and its shape with extraordinary precision. And if you want to get into it the earth isn't quite a sphere, it's a little it's, its spin is stretched, it made it slightly oblate as the saying goes. This is all susceptible to analysis, but spend some time learning about navigation. Tell your friends to spend some time learning about navigation. Navigation has change the world, by the way. What are you wearing? You're wearing stuff that came from another part of the world on a ship. It didn't get here by magic, it got here through science."
     channeltitle "Big Think"
     channelid "UCvQECJukTDE2i6aCoMnS-Vg"
@@ -1369,7 +1369,7 @@ graph
     commentcount 14919
     duration "PT5M7S"
     indegree 10
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount 746
     duration "PT23M43S"
     indegree 4
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "QkttvftqA6g"
     step 0
     date "2021-10-14T03:20:35Z"
-    title "VERIFY: Christopher Columbus tweet from Missouri AG revives debunked &#38;quot;flat Earth&#38;quot; myth"
+    title "VERIFY: Christopher Columbus tweet from Missouri AG revives debunked myth"
     description "Columbus Day was observed on October 11 this year, but not in as many places as it used to be. President Joe Biden and an increasing number of states are choosing to recognize Indigenous People&#8217;s Day instead.&#13;&#10;&#13;&#10;Missouri Attorney General Eric Schmitt, who is running for US Senate, made this argument on Twitter for the continued celebration of Christopher Columbus.&#13;&#10;&#13;&#10;He wrote: &#8220;In 1492 the 'consensus' among scientists was that the earth was flat. Christopher Columbus challenged that notion and changed the world forever.&#8221;&#13;&#10;&#13;&#10;It&#8217;s been shared almost 3,000 times, but many of those shares came from people skeptical of the facts posed in the tweet.&#13;&#10;&#13;&#10;THE QUESTION&#13;&#10;Did Columbus prove scientists in his time wrong by sailing to what he thought was Asia, and not falling off the edge of the Earth?&#13;&#10;&#13;&#10;THE SOURCES&#13;&#10;Jeffrey Burton Russell&#8217;s 1991 book Inventing the Flat Earth&#13;&#10;&#13;&#10;And Christopher Columbus himself, in the form of archived letters&#13;&#10;&#13;&#10;THE ANSWER&#13;&#10;&#13;&#10;No, Christopher Columbus did not disprove the understanding of scientists of his time by proving that the Earth is round.&#13;&#10;&#13;&#10;WHAT WE FOUND&#13;&#10;Jeffrey Burton Russell, a professor emeritus of history at the University of California, Santa Barbara, who received his PhD from Emory University, dedicated an entire book to the source of this claim, repeated in some biographies and textbooks since the 1800s.&#13;&#10;&#13;&#10;Russell wrote that many astronomers, scholars, and map-makers in Columbus&#8217;s time were talking about reaching the &#8220;Indies,&#8221; or any part of Asia, over the ocean to the west of Spain. They even used calculations by second-century mathematician Ptolemy to estimate how far it would be.&#13;&#10;&#13;&#10;Russell added that Columbus himself never wrote that he wanted to prove that the Earth was round.&#13;&#10;&#13;&#10;In a letter quoted in Columbus's Encyclopedia Brittanica entry, the admiral wrote that he wanted to find a westward path &#8220;by which to this day we do not know certainly that anyone has passed.&#8221;&#13;&#10;&#13;&#10;His primary goals were to open up trade routes that had been blockaded in the east and south and identify new populations for missionaries to convert to Christianity.&#13;&#10;&#13;&#10;Russell's research found that Spanish councils, which included religious scholars, at the time debated whether the return trip would be more challenging because of the curvature of the Earth. They suggested, based on Ptolemy&#8217;s calculations, that it would just be too far to be practical.&#13;&#10;&#13;&#10;Historians today suspect Columbus misled the King and Queen of Spain with overly optimistic estimates of the journey distance in order to get funding.&#13;&#10;&#13;&#10;His projection for the trip was &#8220;about 20% its actual length,&#8221; wrote Russell.&#13;&#10;&#13;&#10;Nobody's estimates accounted for the fact that Columbus's ships would run into a large landmass on the way, cutting the trip short while creating economic opportunities for Spain.&#13;&#10;&#13;&#10;Several biographies and books appearing in the 1800s include vivid descriptions of Christopher Columbus attempting to convince religious scholars to approve the journey to the west in spite of their belief that the world is flat. Russell suggests this trend was most popular among Darwinists, who co-opted the myth to make religious opponents of Darwinism look unsophisticated.&#13;&#10;&#13;&#10;So we can Verify: the scientists of Columbus&#8217;s time did not believe that the Earth was flat, and Columbus didn&#8217;t set sail to prove them wrong."
     channeltitle "KSDK News"
     channelid "UCVHTypjbrXH-maZaIkwweJA"
@@ -1423,7 +1423,7 @@ graph
     commentcount 86
     duration "PT53S"
     indegree 2
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -1431,7 +1431,7 @@ graph
     label "z2f3O0C2_y0"
     step 0
     date "2019-04-13T20:44:50Z"
-    title "Solving the ACTUAL Flat Earth Puzzle (100% proof, even &#38;quot;they&#38;quot; admit it)"
+    title "Solving the ACTUAL Flat Earth Puzzle (100% proof, even admit it)"
     description "Books about The Flat Earth theory- https://tinyurl.com/FlatEarthBooks&#10;My previous Flat earth video- https://www.youtube.com/watch?v=NKQI18jr8Oc&#10;---------------------------------------- &#10;MY FAVOURITE PUZZLE STORES &#10;1. HKNowStore &#9658; http://shrsl.com/p5rk (Free worldwide shipping, good customer service, PayPal, all currencies accepted). &#10;2. Amazon &#9658; https://tinyurl.com/AmazonTwistyPuzzles &#10;3. Puzzle Master &#9658; https://shrsl.com/2ga66 &#10;---------------------------------------- &#10;My website showing every puzzle I have ever made and much more &#9658; http://tonyfisherpuzzles.net ---------------------------------------- &#10;MEDIA / NEWS COMPANIES Many of my videos are available to licence through my Newsflare account &#9658; https://www.newsflare.com/profile/TonyFisher . No other use is permitted. ----------------------------------------&#10; As an affiliate with HKNowstore, Lightake, Puzzlemaster, VeryPuzzle &#38; Amazon I earn a small percentage from purchases made through my links with no extra cost to you. &#10;&#10;----------------------------------------&#10;I left comments on for as long as I could bare but I swear these flatards get more retarded by the day. &#10;---------------------------------------- &#10;#TonyFisher"
     channeltitle "Tony Fisher"
     channelid "UC3NOgNqMWr6DAWE0vT12bRQ"
@@ -1441,7 +1441,7 @@ graph
     commentcount -1
     duration "PT11M12S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 4094
     duration "PT14M17S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1467,7 +1467,7 @@ graph
     label "Jwb5jUyr0jE"
     step 0
     date "2017-02-21T00:36:51Z"
-    title "Kyrie Irving Says the Earth is Flat... &#128530;"
+    title "Kyrie Irving Says the Earth is Flat... "
     description "Yeah, so Kyrie Irving really believes in the Flat Earth theory, and if you were looking for a description, well...here it is. We're just as miffed by it as you are.&#10;&#10;Subscribe &#9658;&#9658; http://bit.ly/SubToFumble&#10;&#10;For the latest in sports -&#10;Check out our site: http://www.obsev.com/sports&#10;Like us on Facebook: https://www.facebook.com/TheFumble/&#10;Follow us on Twitter: https://twitter.com/FumbleSports&#10;Find us on Instagram: https://www.instagram.com/thefumblesports/&#10;&#10;The Fumble is sports news for the super fan. We cover everything from the NFL, NBA, MLB, MMA, NHL and every random sporting story in between. We tell you about the history-making plays, what your favorite athletes are up to after-hours, and take an irreverent, no BS take on sports. Watch The Fumble for the good, the bad, and the ugly sides of sports.&#10;&#10;-~-~~-~~~-~~-~-&#10;Please watch: &#34;Tim Tebow SURPRISES Fan Who Asked Him to Prom on 'The Tonight Show'&#34; &#10;https://www.youtube.com/watch?v=__7IRT_A7EM&#10;-~-~~-~~~-~~-~-"
     channeltitle "The Fumble"
     channelid "UCojyGFb8W2xxSsJ5c_XburQ"
@@ -1477,7 +1477,7 @@ graph
     commentcount 892
     duration "PT2M4S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 7281
     duration "PT59S"
     indegree 1
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -1503,7 +1503,7 @@ graph
     label "CGjFAe018oA"
     step 0
     date "2018-05-23T14:16:51Z"
-    title "3 proofs that debunk flat-Earth theory | NASA&#38;#39;s Michelle Thaller | Big Think"
+    title "3 proofs that debunk flat-Earth theory | NASAs Michelle Thaller | Big Think"
     description "3 proofs that debunk flat-Earth theory | NASA's Michelle Thaller | Big Think&#10;New videos DAILY: https://bigth.ink&#10;Join Big Think Edge for exclusive video lessons from top thinkers and doers: https://bigth.ink/Edge&#10;----------------------------------------------------------------------------------&#10;Hey flat Earthers, it's time to put your theory to bed once and for all! &#34;There are so many proofs that the Earth is round, it's difficult to know where to start. And it's not okay to think that the Earth is flat; this is not a viable argument,&#34; says NASA astronomer Michelle Thaller.Thaller explains three observable proofs that instantly debunk flat-Earth theory with irrefutable evidence of the Earth's round, curvaceous, gloriously spherical shape.The ancient Greeks figured out we were living on a sphere over 2,000 years ago, and there are things you can do to prove that the Earth is indeed round&#8212;just go to a body of water and look at ships or boats on the horizon with binoculars. Watch the video for the details!You can follow Michelle Thaller on Twitter at @mlthaller.&#10;----------------------------------------------------------------------------------&#10;MICHELLE THALLER:&#10;&#10;Dr. Michelle Thaller is an astronomer who studies binary stars and the life cycles of stars. She is Assistant Director of Science Communication at NASA. She went to college at Harvard University, completed a post-doctoral research fellowship at the California Institute of Technology (Caltech) in Pasadena, Calif. then started working for the Jet Propulsion Laboratory's (JPL) Spitzer Space Telescope. After a hugely successful mission, she moved on to NASA's Goddard Space Flight Center (GSFC), in the Washington D.C. area. In her off-hours often puts on about 30lbs of Elizabethan garb and performs intricate Renaissance dances. For more information, visit &#10; NASA.&#10;----------------------------------------------------------------------------------&#10;TRANSCRIPT:&#10;&#10;MICHELLE THALLER: So, Oscar, you asked the question, &#34;What are some of the easiest ways that you can prove that the Earth is round?&#34; Because apparently, this is something that we're debating&#8212;I have no idea why.&#10;&#10;That's a hard thing for me to even start talking about because there are so many proofs that the Earth is round, it's difficult to know where to start. And it's not okay to think that the Earth is flat. This is not a viable argument.&#10;&#10;I have friends who have been on the International Space Station, they have orbited the Earth once every 90 minutes; I've had personal experience with people who have been up in space and can see with their own eyes that the Earth is round. And of course, we've taken all of these amazing pictures from space; they're so beautiful, all those pictures of the Earth.&#10;&#10;So I don't really know what's going on right now with this 'Earth is flat' thing, but I will tell you that this is one of the things I really enjoyed teaching my own astronomy class about because there are proofs all around you. It is not difficult to know that the Earth is round. In fact, people have known of this for way more than 2,000 years. The ancient Greeks actually had a number of really elegant, wonderful proofs that the earth was a sphere. &#10;&#10;So let's start from the simple to the slightly more complicated. One of the things you can see yourself, with a pair of binoculars, is if you actually go out to a lake and there are boats on that lake, the farther away a boat is the more the bottom of the boat will disappear, and you'll basically just see the mast of the boat. And as a boat goes farther and farther away the last thing you will see is the very top of the mast of that boat, and that's because the boat is actually going over the horizon that's curved&#8212;and that means that as it goes farther and farther away you see less and less of the bottom of it, and more of the top of that. You can see that with binoculars by an ocean, by a lake, it's really easy. That wouldn't happen if the Earth were flat&#8212;you would simply see the boat getting smaller and smaller and smaller as it went farther away, but you'd be able to see the whole thing with the same proportions.&#10;&#10;Now, another way that you can tell that we're on a sphere is to think about how there's something called the tropics on the Earth, and the tropics are places near the equator of the earth were sometimes the sun is overhead in the sky. This was actually something that the Greeks used, not only to prove that the Earth was round about 2000 years ago, but they actually measured the circumference of the Earth, accurate to within just a couple percent. 2,000 years ago we've known that the Earth was round.&#10;&#10;There was a really brilliant Greek scientist called Eratosthenes, and Eratosthenes noticed that there was a town called Syene, and on a certain date the sun would actually shine straight down to the bottom of a well. That mea...&#10;&#10;For the full transcript, check out https://bigthink.com/videos/top-10-flat-earth-theory-proof"
     channeltitle "Big Think"
     channelid "UCvQECJukTDE2i6aCoMnS-Vg"
@@ -1513,7 +1513,7 @@ graph
     commentcount 75660
     duration "PT7M5S"
     indegree 13
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1521,7 +1521,7 @@ graph
     label "491vRzKbkw4"
     step 0
     date "2017-10-27T00:35:16Z"
-    title "Kyrie&#38;#39;s concerns with the MECCA court = Flat Earth Theory | Inside the NBA | NBA on TNT"
+    title "Kyries concerns with the MECCA court = Flat Earth Theory | Inside the NBA | NBA on TNT"
     description "Kyrie Irving discusses his concerns with the &#34;Mecca&#34; court in Milwaukee."
     channeltitle "NBA on TNT"
     channelid "UCU7iRrk3xfpUk0R6VdyC1Ow"
@@ -1531,7 +1531,7 @@ graph
     commentcount 80
     duration "PT1M11S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 1684
     duration "PT3M31S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1575,7 +1575,7 @@ graph
     label "k3rmy6FMt98"
     step 0
     date "2020-04-08T23:00:09Z"
-    title "B.o.B Breaks Silence on Flat Earth &#38;amp; Cloning 2020 | The BoBCast Podcast Episode 6 [Part 2]"
+    title "B.o.B Breaks Silence on Flat Earth Cloning 2020 | The BoBCast Podcast Episode 6 [Part 2]"
     description "Part 2!! BoB &#38; the BoBCast crew dive into alot of interesting topics w guest Brotha Panic.  B.o.B finally talks about the Flat Earth, CoViD-19, Cloning, Mind Control, the Mandela Effect and more... Don't miss this episode of the BoBCast to hear about all this &#38; more.  Make sure you watch Part 1 too!&#10;&#10;Follow The BoBCast Playlist (Spotify)&#10;&#10;https://open.spotify.com/user/beyobizzle/playlist/1XfjW50WJIUjKbpUfiSeUv?si=39Z-0tMHTMCQaWpWreKXs&#10;&#10;Buy the Slizzy in the City Hoodie&#10;http://shopbobcastatl.com&#10;&#10;Follow Brotha Panic, B.o.B, Tiffany &#38; Cam...&#10;&#10;Brotha Panic&#10;http://instagram.com/brothapanic&#10;Http://occultlectures.com&#10;&#10;B.o.B&#10;http://instagram.com/bob&#10;&#10;Tiffany&#10;http://instagram.com/TiffJanelle_&#10;&#10;Cam&#10;http://instagram.com/killaa_caam"
     channeltitle "B.o.B"
     channelid "UCpuvu8mrEO4jxjT6sRwE8tg"
@@ -1585,7 +1585,7 @@ graph
     commentcount 2551
     duration "PT1H31M12S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1593,7 +1593,7 @@ graph
     label "hFgDS3yjGIA"
     step 0
     date "2020-11-12T15:30:04Z"
-    title "Why There Are NO Flights Between East Asia &#38;amp; South America"
+    title "Why There Are NO Flights Between East Asia South America"
     description "Get a free trial of Skillshare Premium by being one of the first 1,000 to use this link:  https://skl.sh/reallifelore11201&#10;&#10;Please Subscribe: http://bit.ly/2dB7VTO&#10;&#10;Video provided by Getty Images"
     channeltitle "RealLifeLore"
     channelid "UCP5tjEmvPItGyLhmjdwP7Ww"
@@ -1603,7 +1603,7 @@ graph
     commentcount 8754
     duration "PT7M23S"
     indegree 26
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 287
     duration "PT3M38S"
     indegree 2
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -1629,7 +1629,7 @@ graph
     label "NWkBccBtGAw"
     step 0
     date "2019-05-11T17:00:06Z"
-    title "How Conspiracies Changed (Flat Earth, Anti-Vaxxers) &#8211; Wisecrack Edition"
+    title "How Conspiracies Changed (Flat Earth, Anti-Vaxxers) Wisecrack Edition"
     description "Create Your Own FREE Website With WIX &#9658;&#9658; https://wix.com/wisecrack&#10;&#10;&#10;Subscribe to Wisecrack! &#9658; http://wscrk.com/SbscrbWC&#10;Join WisecrackPLUS for EXCLUSIVE content! &#9658; http://wscrk.com/YtWcPls&#10;&#10;Are conspiracy theories different now? Join us, as we explore the changing nature of conspiracy theories and what they mean for the world.&#10;&#10;=== Watch More Episodes! === &#10;Why Our Eyes Are Shut &#9658; https://wscrk.com/2H5JdXK&#10;Why Hitler is Everywhere &#9658; https://wscrk.com/2E4kG51&#10;Why We Love A**hole Characters &#9658; https://wscrk.com/2H0Xh68&#10;How Humanity Ends &#9658; https://wscrk.com/2XK2oNw&#10;Why J.K. Rowling Should Leave HARRY POTTER Alone &#9658; https://wscrk.com/2VqPQxg&#10;IDIOCRACY: Deep or Dumb? &#9658; https://wscrk.com/2Xn10QH&#10;Who Will Win GAME OF THRONES &#9658; https://wscrk.com/2Uwv7bK&#10;&#10;Store ........... http://wisecrackstore.com&#10;Twitter ......... https://twitter.com/wisecrack&#10;Facebook .... https://facebook.com/wisecrackedu&#10;&#10;Written by: Alec Opperman&#10;Directed by: Michael Luxemburg&#10;Hosted by: Jared Bauer&#10;Edited by: Mark Potts&#10;Motion Graphics by: Drew Levin&#10;Produced by: Emily Dunbar&#10;&#10;&#169; 2019 Wisecrack, Inc."
     channeltitle "Wisecrack"
     channelid "UC6-ymYjG0SU0jUWnWh9ZzEQ"
@@ -1639,7 +1639,7 @@ graph
     commentcount 3120
     duration "PT14M21S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1647,7 +1647,7 @@ graph
     label "r1gbQvbimNE"
     step 0
     date "2018-03-08T20:00:02Z"
-    title "Why People Are Attracted To Conspiracy Theories Like Flat Earth &#8212; And Why They&#38;#39;re Dangerous"
+    title "Why People Are Attracted To Conspiracy Theories Like Flat Earth re Dangerous"
     description "Business Insider spoke to Dr. Jan-Willem van Prooijen, associate professor of psychology at the Vrije Universiteit Amsterdam.&#10;Dr. van Prooijen said people are often drawn to conspiracy theories after major diasters as a way of coping with their fear.&#10;&#10;He added he finds the flat earth and hollow earth theories the most baffling due to the wealth of scientific research on the subject.&#10;&#10;Tech Insider tells you all you need to know about tech: gadgets, how-to's, gaming, science, digital culture, and more. &#10;Subscribe to our channel and visit us at: http://www.businessinsider.com/sai&#10;TI on Facebook: https://www.facebook.com/techinsider&#10;TI on Instagram: https://www.instagram.com/tech_insider/&#10;TI on Twitter: https://twitter.com/techinsider"
     channeltitle "Tech Insider"
     channelid "UCVLZmDKeT-mV4H3ToYXIFYg"
@@ -1657,7 +1657,7 @@ graph
     commentcount 2097
     duration "PT3M51S"
     indegree 0
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 1181
     duration "PT4M30S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 780
     duration "PT3M11S"
     indegree 12
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -1701,7 +1701,7 @@ graph
     label "uycEdD5mTiw"
     step 0
     date "2020-12-14T18:11:19Z"
-    title "The Profound Experience of Seeing Earth From Space"
+    title "The Profound E tongue sticking out erience of Seeing Earth From Space"
     description "This clip is taken from the Joe Rogan Experience #1577 with Terry Virts. https://open.spotify.com/episode/4k7JHPCLoCmSlZY9tvme0s?si=M2N7vLKgSeWZfe1kQzXggw"
     channeltitle "PowerfulJRE"
     channelid "UCzQUP1qoWDoEbmsQxvdjxgQ"
@@ -1711,7 +1711,7 @@ graph
     commentcount 1524
     duration "PT8M9S"
     indegree 7
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 3636
     duration "PT8M32S"
     indegree 5
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1747,7 +1747,7 @@ graph
     commentcount 1659
     duration "PT5M"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 24738
     duration "PT7M16S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 0
     duration "PT7M22S"
     indegree 6
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 5785
     duration "PT7M56S"
     indegree 13
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 203
     duration "PT4M11S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 12038
     duration "PT24M16S"
     indegree 23
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 7652
     duration "PT11M35S"
     indegree 18
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 1832
     duration "PT1H45M8S"
     indegree 8
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 1314
     duration "PT10M6S"
     indegree 2
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 224
     duration "PT40S"
     indegree 3
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1935,7 +1935,7 @@ graph
     label "4XEy2jh7Z-o"
     step 0
     date "2017-11-17T14:33:25Z"
-    title "Flat Earthers: See the Curvature of the Earth! The ultimate proof :)"
+    title "Flat Earthers: See the Curvature of the Earth! The ultimate proof smiley "
     description "Just because all our Edge of Space videos get bombed with comments form Flat Earthers, we try to have them and their discussion concentrated here.&#10;To this video:&#10;- A wide angle camera has been used. This might contribute to the Earth looking more curved - or less - depending on the situation/altitude/angle etc. The Earth is not as curved from the altitude we flew as it might look at some sequences of this video&#10;- We used to climb up to almost 25km ith the MiG-25, lately it was closer to 16-17km, in the MiG-29. you can indeed see the curvature of the Earth up there, as countless customers will confirm to you&#10;- We repeatedly offered flights to Flat Earthers who commented under our videos, offering them a full refund if they dare to book an Edge of Space flight with us and don't see the curvature up there. Not a single one of them accepted the offer, which suggests they are not that sure about their Flat Earth theory in the end."
     channeltitle "MiGFlug"
     channelid "UCQTyGIlytyfGTFRwstJbwRA"
@@ -1963,7 +1963,7 @@ graph
     commentcount 1316
     duration "PT16M2S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1971,7 +1971,7 @@ graph
     label "iOfcyYlQzZk"
     step 0
     date "2018-04-01T13:38:26Z"
-    title "Chris Hadfield: The astronaut&#38;#39;s guide to flat Earth theory | Big Think"
+    title "Chris Hadfiel tongue sticking out The astronauts guide to flat Earth theory | Big Think"
     description "Chris Hadfield: The astronaut's guide to flat Earth theory&#10;New videos DAILY: https://bigth.ink&#10;Join Big Think Edge for exclusive video lessons from top thinkers and doers: https://bigth.ink/Edge&#10;----------------------------------------------------------------------------------&#10;To the average person, there appears to be a growing number of people who believe &#8212;&#160;somehow &#8212;&#160;that the world is actually flat and that we are all being &#34;lied&#34; to by world governments. Canadian astronaut Chris Hadfield has actually been to space and has seen that the world is round, but is unphased by these so-called &#34;flat-earthers.&#34; He flatly (pun intended) denies a global conspiracy, and says that perhaps the best way to deal with such willful ignorance is just to ignore it. After all, he posits, &#34;if you wrestle with a pig, the best you can be is a pig wrestler.&#34; It's folky wisdom like that which puts Chris into another stratosphere of intelligence. Chris Hadfield is the author of An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything&#10;----------------------------------------------------------------------------------&#10;CHRIS HADFIELD:&#10;&#10;&#8220;Good morning, Earth.&#8221; That is how Colonel Chris Hadfield&#8212;writing on Twitter&#8212;woke up the world every day while living aboard the International Space Station for over five months. Since blasting off from Kazakhstan in December 2012, Hadfield has become a worldwide sensation, harnessing the power of social media to make outer space accessible to millions and infusing a sense of wonder into the collective consciousness not felt since man first walked on the moon. Called &#8220;the most famous astronaut since Neil Armstrong&#8221; by the BBC, Hadfield, now safely back on Earth, continues to bring the glory of science and space travel to everyone he encounters.&#10;&#10;Hadfield is the pioneer of many firsts. In 1992, he was selected by the Canadian Space Agency as a NASA Mission Specialist &#8211; Canada&#8217;s first fully-qualified Space Shuttle crewmember. Three years later, he was the first Canadian to operate the Canadarm in space, and the first Canadian to board a Russian spacecraft as he helped build the Russian space station &#8216;Mir&#8217;. In 2001, he performed two spacewalks - the first Canadian to do so - and in 2010 the CSA and NASA announced Hadfield&#8217;s third mission: commanding the International Space Station (ISS)&#8212;again a first for a Canadian.&#10;&#10;Hadfield launched into space on December 19, 2012 and took command of the ISS in March. His multiple daily Tweets and photographs from space made people see the world differently. His accessibility, whether answering questions such as, &#8220;How do you wring out a washcloth in space,&#8221; via Skype or collaborating with The Barenaked Ladies for a song sung by nearly a million people simultaneously, endeared him to all while he orbited Earth. &#10;&#10;A heavily decorated astronaut, engineer, and pilot, Hadfield&#8217;s many awards include receiving the Order of Ontario, the Meritorious Service Cross, and the NASA Exceptional Service Medal. He was named the top Test Pilot in both the US Air Force and the US Navy, and has been inducted into Canada&#8217;s Aviation Hall of Fame. He is also commemorated on Canadian postage stamps, Royal Canadian Mint silver and gold coins, and on Canada&#8217;s new 5 dollar bill.&#10;----------------------------------------------------------------------------------&#10;TRANSCRIPT:&#10;&#10;Chris Hadfield: When the very first balloon was launched that could carry people it was in Paris in the late 1700s and it was Montgolfier the brothers, they had hydrogen balloons and hot air balloons and it was the cutting edge of science. It was the cutting edge of technology. We just learned how to capture a gas like hydrogen that would be lighter than air as you could take a balloon and the first balloon rose and Ben Franklin was there and it was huge and magnificent, all of those scientists. And it rose but it got out of control and it went and landed out in the countryside 15 miles away from Paris and the peasants there attacked it with pitchforks because they thought it was an alien coming from space. The schism between learned understanding and scientific pursuit and the common perception of what was normal was that close just 15 miles away. It was an enormous gap between what we knew and what we were doing and what a lot of folks knew yet or what had become part of common knowledge. So there's nothing new about the speed with which we're inventing things and the ability for people to understand what's going on. There's a recent populous sort of wave of anti-science as if that's something new. It's mostly because social media has given everybody what appears to be an equal voice. On the corner of Hyde Park in London there's Speakers Corner and that used to be the Internet where yo...&#10;&#10;For the full transcript, check out https://bigthink.com/videos/chris-hadfield-chris-hadfield-the-astronauts-guide-to-flat-earth-theory"
     channeltitle "Big Think"
     channelid "UCvQECJukTDE2i6aCoMnS-Vg"
@@ -1981,7 +1981,7 @@ graph
     commentcount 4956
     duration "PT3M31S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 762
     duration "PT9M32S"
     indegree 5
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 27308
     duration "PT18M21S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 181
     duration "PT2M10S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2043,7 +2043,7 @@ graph
     label "L5sHm04nWMg"
     step 0
     date "2017-03-28T23:53:00Z"
-    title "Joe Rogan &#38;amp; Lawrence Krauss on why Flat-earthers exist"
+    title "Joe Rogan Lawrence Krauss on why Flat-earthers exist"
     description "Joe Rogan and Lawrence Krauss discuss why Flat-earthers believe what they believe.&#10;&#10;Taken from Joe Rogan Experience #938."
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
@@ -2053,7 +2053,7 @@ graph
     commentcount 5223
     duration "PT13M14S"
     indegree 40
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 298
     duration "PT3M52S"
     indegree 7
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -2079,7 +2079,7 @@ graph
     label "hkzR_ZtQ2nA"
     step 0
     date "2019-04-04T19:53:30Z"
-    title "Q&#38;amp;A: Does The Quran Indicate that The Earth Is Flat? | Dr. Shabir Ally"
+    title "QA: Does The Quran Indicate that The Earth Is Flat? | Dr. Shabir Ally"
     description "A viewer asks &#34;does the Quran prove that the earth is flat?&#34; Dr. Shabir Ally shares his answer.&#10;___&#10;&#10;Please SUBSCRIBE to SUPPORT the show!&#10;&#10;Questions: http://www.QuranSpeaks.com/Contact&#10;Facebook: https://www.Facebook.com/LetTheQuranSpeak&#10;Twitter     : https://www.Twitter.com/Quran_Speaks"
     channeltitle "Let the Quran Speak"
     channelid "UCaADzQEp9eYu9PTmJ28_-HQ"
@@ -2089,7 +2089,7 @@ graph
     commentcount 2973
     duration "PT2M32S"
     indegree 13
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 18244
     duration "PT5M12S"
     indegree 39
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2115,7 +2115,7 @@ graph
     label "i2dTXB3O3dw"
     step 0
     date "2016-01-29T19:00:32Z"
-    title "How We Know The Earth Isn&#8217;t Flat"
+    title "How We Know The Earth Isnt Flat"
     description "Rapper B.O.B thinks the earth is flat, but how do we know it isn&#8217;t? &#13;&#10;&#13;&#10;Why Are There So Many Conspiracy Theories? &#9658;&#9658;&#9658;&#9658; http://bit.ly/1QL9H0J&#13;&#10;Sign Up For The TestTube Newsletter Here  &#9658;&#9658;&#9658;&#9658; http://bit.ly/1myXbFG&#13;&#10;&#13;&#10;Read More:&#13;&#10;Flat-Earthers are back: 'It&#8217;s almost like the beginning of a new religion'&#13;&#10;https://www.theguardian.com/science/2016/jan/20/flat-earth-believers-youtube-videos-conspiracy-theorists&#13;&#10;&#8220;YouTube user TigerDan925 shocked his 26,000 followers recently by conceding a shocking point: Antarctica is a continent. It&#8217;s not, as he previously thought, an ice wall that encircles the flat disc of land and water we call earth.&#8221;&#13;&#10;&#13;&#10;When I stand at the water's edge and look out over the ocean, how far away is the horizon?&#13;&#10;http://science.howstuffworks.com/question198.htm&#13;&#10;&#8220;One of the funniest things about the ocean is the fact that its surface is curved. We tend to think about water forming large flat sheets, but the surface of a large body of water is not actually flat at all -- it follows the curvature of the Earth.&#8221;&#13;&#10;____________________&#13;&#10;&#13;&#10;DNews is dedicated to satisfying your curiosity and to bringing you mind-bending stories &#38; perspectives you won't find anywhere else! New videos twice daily. &#13;&#10;&#13;&#10;Watch More DNews on TestTube http://testtube.com/dnews&#13;&#10;&#13;&#10;Subscribe now! http://www.youtube.com/subscription_center?add_user=dnewschannel&#13;&#10;&#13;&#10;DNews on Twitter http://twitter.com/dnews&#13;&#10;&#13;&#10;Trace Dominguez on Twitter https://twitter.com/tracedominguez&#13;&#10;&#13;&#10;Julia Wilde on Twitter https://ftwitter.com/julia_sci&#13;&#10;&#13;&#10;DNews on Facebook https://facebook.com/DiscoveryNews&#13;&#10;&#13;&#10;DNews on Google+ http://gplus.to/dnews&#13;&#10;&#13;&#10;Discovery News http://discoverynews.com&#13;&#10;&#13;&#10;Download the TestTube App: http://testu.be/1ndmmMq&#13;&#10;&#13;&#10;Sign Up For The TestTube Mailing List: http://dne.ws/1McUJdm"
     channeltitle "Seeker"
     channelid "UCzWQYUVCpZqtN93H8RR44Qw"
@@ -2125,7 +2125,7 @@ graph
     commentcount 20321
     duration "PT4M24S"
     indegree 2
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -2133,7 +2133,7 @@ graph
     label "dKLh43pOEuo"
     step 0
     date "2019-06-24T15:03:40Z"
-    title "The Bet That &#38;quot;Proved&#38;quot; the Earth Is Flat (Or, Why Facts Aren&#38;#39;t Always Enough)"
+    title "The Bet That t Always Enough)"
     description "&#9658;Support us on Patreon: https://www.patreon.com/thegoodstuff&#10;&#9658;Subscribe: http://youtube.com/thegoodstuff&#10;&#9658;Follow us on Twitter: http://www.twitter.com/goodstuffshow&#10;&#9658;Follow Matt on Twitter: http://www.twitter.com/mjosefweber&#10;&#9658;Follow us on instagram: goodstuffshow&#10;&#9658;Like us on facebook: http://www.facebook.com/thegoodstuffshow&#10;&#9658;Sign up for our mailing list: http://eepurl.com/bnSOcH&#10;&#10;Music by&#10;Podington Bear&#10;&#10;References:&#10;https://timesmachine.nytimes.com/timesmachine/1871/08/10/78770850.pdf&#10;https://books.google.com/books?id=xR08AQAAMAAJ&#38;printsec=frontcover&#38;source=gbs_ge_summary_r&#38;cad=0#v=onepage&#38;q=hampden&#38;f=false"
     channeltitle "The Good Stuff"
     channelid "UCxu3mVAacTdrLPfwTsAEUzg"
@@ -2143,7 +2143,7 @@ graph
     commentcount 2793
     duration "PT6M14S"
     indegree 9
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2151,7 +2151,7 @@ graph
     label "3EZXH2bm-aQ"
     step 0
     date "2019-03-29T00:18:06Z"
-    title "How we made the FLAT EARTH documentary (bloopers &#38;amp; secrets)"
+    title "How we made the FLAT EARTH documentary (bloopers secrets)"
     description "Join the movement. Be a Maverick &#9658; https://ShopLoganPaul.com/&#10;bloopers, secrets, and the truth... all revealed...&#10;SUBSCRIBE FOR DAILY VLOGS! &#9658; http://bit.ly/Subscribe2Logan&#10;&#10;Watch the FLAT EARTH doc  &#9658; https://youtu.be/vpljiOgd9RQ&#10;&#10;ADD ME ON:&#10;INSTAGRAM: https://www.instagram.com/LoganPaul/&#10;TWITTER: https://twitter.com/LoganPaul&#10;&#10;I&#8217;m a 23 year old manchild living in Los Angeles. This is my life.&#10;https://www.youtube.com/LoganPaulVlogs"
     channeltitle "Logan Paul"
     channelid "UCG8rbF3g2AMX70yOd8vqIZg"
@@ -2161,7 +2161,7 @@ graph
     commentcount 5582
     duration "PT31M15S"
     indegree 9
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 292
     duration "PT3M37S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2187,7 +2187,7 @@ graph
     label "W73Mw8ZY7Jk"
     step 0
     date "2021-06-01T20:45:44Z"
-    title "OxDEG &#8211; Exploring the Flat Earth: Beliefs, Identity, and Rationality"
+    title "O laughing EG E tongue sticking out loring the Flat Earth: Beliefs, Identity, and Rationality"
     description "In this seminar Dr. Krafft reports on a mixed methods study of the North American Flat Earther community, drawing on documents from two Flat Earth Society websites, three surveys, and participant observation at the 2018 Flat Earth International Conference. Across the three surveys they find that around 20-30% of respondents are at least to some extent uncertain that the shape of the earth is round. Drawing on interpretive methods, they conduct an investigation of what meaning flat earth beliefs have to their adherents. The varieties of motivations and meanings identified challenge existing prominent models of belief formation that have recently been employed in the fields of human-computer interaction and media studies.About the Speaker: Dr Peaks Krafft (they/them) is Senior Lecturer and MA Internet Equalities Course Leader at the UAL Creative Computing Institute. When not studying the Flat Earth, Dr Krafft undertakes critically-oriented computer science research, academic organising, and community organising, especially recently on four issues in higher education and tech: social impacts of technology; personal and institutional accountability; anti-racism in organisations; and conflicts of interest from tech funding."
     channeltitle "Oxford Internet Institute, University of Oxford"
     channelid "UC0uO3IgxaHRBNsjXJw6Px9g"
@@ -2197,7 +2197,7 @@ graph
     commentcount -1
     duration "PT1H24M45S"
     indegree 1
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -2205,7 +2205,7 @@ graph
     label "aPBVGXdsR0I"
     step 0
     date "2019-04-06T11:00:00Z"
-    title "No Human Has Ever Left Earth&#8217;s Atmosphere, Here&#38;#39;s Why"
+    title "No Human Has Ever Left Earths Why"
     description "New observations of our atmosphere calculate that it extends far beyond what we thought, encompassing the moon! This means that we've actually never left Earth's atmosphere. Here's what else these observations can tell us. &#10;&#10;A Dead Satellite Is Unlocking The Secrets Lurking Beneath Antarctica - https://youtu.be/Qck8zPUS3Is &#10;&#10;Read More: &#10;Earth's Atmosphere Stretches Out To The Moon - And Beyond&#10;https://www.esa.int/Our_Activities/Space_Science/Earth_s_atmosphere_stretches_out_to_the_Moon_and_beyond &#10;&#34;The new study revealed that sunlight compresses hydrogen atoms in the geocorona on Earth&#8217;s dayside, and also produces a region of enhanced density on the night side. The denser dayside region of hydrogen is still rather sparse, with just 70 atoms per cubic centimeter at 60 000 kilometers above Earth&#8217;s surface, and about 0.2 atoms at the Moon&#8217;s distance.&#34;&#10;&#10;The edge of space: Revisiting the Karman Line &#10;https://www.sciencedirect.com/science/article/pii/S0094576518308221?via=ihub &#10;&#34;A number of these authors suggest that the large variations with time of atmospheric properties make it futile to locate a true boundary of space based on physical arguments. In this paper I will argue the contrary: there is a moderately-well-defined boundary of space, it coincides with the Karman line as originally defined, and that line is close to 80&#8239;km, not 100&#8239;km.&#34;&#10;&#10;Exosphere - overview&#10;https://scied.ucar.edu/shortcontent/exosphere-overview &#10;&#34;Not all scientists agree that the exosphere is really a part of the atmosphere. Some scientists consider the thermosphere the uppermost part of Earth's atmosphere and think that the exosphere is really just part of space. However, other scientists do consider the exosphere part of our planet's atmosphere.&#34;&#10;&#10;____________________&#10;&#10;Elements is more than just a science show. It&#8217;s your science-loving best friend, tasked with keeping you updated and interested on all the compelling, innovative and groundbreaking science happening all around us. Join our passionate hosts as they help break down and present fascinating science, from quarks to quantum theory and beyond.&#10;&#10;Seeker explains every aspect of our world through a lens of science, inspiring a new generation of curious minds who want to know how today&#8217;s discoveries in science, math, engineering and technology are impacting our lives, and shaping our future. Our stories parse meaning from the noise in a world of rapidly changing information. &#10;&#10;Visit the Seeker website https://www.seeker.com/videos &#10;&#10;Elements on Facebook  https://www.facebook.com/SeekerElements/ &#10;&#10;Subscribe now! http://www.youtube.com/subscription_center?add_user=dnewschannel &#10;&#10;Seeker on Twitter http://twitter.com/seeker&#10;&#10;Seeker on Facebook https://www.facebook.com/SeekerMedia/ &#10;&#10;Seeker http://www.seeker.com/"
     channeltitle "Seeker"
     channelid "UCzWQYUVCpZqtN93H8RR44Qw"
@@ -2215,7 +2215,7 @@ graph
     commentcount 25075
     duration "PT5M10S"
     indegree 38
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2233,7 +2233,7 @@ graph
     commentcount 1270
     duration "PT5M44S"
     indegree 0
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 5843
     duration "PT6M8S"
     indegree 4
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2259,7 +2259,7 @@ graph
     label "1nZZtKuWY5E"
     step 0
     date "2019-10-09T00:30:00Z"
-    title "New Zealand Today - Flat Earth &#38;quot;The truth is more important than my life.&#38;quot;"
+    title "New Zealand Today - Flat Earth "
     description "Guy Williams attends New Zealand's first-ever flat earth conference and speaks to leaders in the flat earth community including event organiser Adrienne Morrison, and Mark Sargent from the Netflix documentary &#34;Behind the curve&#34;.&#10;&#10;This segment originally aired on episode 7 of New Zealand Today, the new show hosted by Guy Williams, Friday nights 9.45 on Three! Catch full episodes on Three Now... Now!&#10;https://www.threenow.co.nz/shows/new-zealand-today/season-1-ep-6/S2065-249/M33316-755&#10;&#10;If you've got a story you think Guy should investigate, Follow New Zealand Today on Instagram @newzealandtoday and send him a message.&#10;https://www.instagram.com/newzealandtoday/"
     channeltitle "New Zealand Today"
     channelid "UCgehrd_QxoSaeY8VjzuSpRw"
@@ -2269,7 +2269,7 @@ graph
     commentcount 17980
     duration "PT11M33S"
     indegree 60
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 1929
     duration "PT14M52S"
     indegree 5
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -2313,7 +2313,7 @@ graph
     label "e9w1o-GL_50"
     step 0
     date "2016-04-24T06:21:00Z"
-    title "01  Under The Dome    EARTH Mixtape"
+    title "01 Under The Dome EARTH Mixtape"
     description "EARTH Mixtape&#10;Get it here on http://www.datpiff.com/BoB-EARTH-mixtape.779875.html&#10;and follow B.o.B &#10;Instagram @Bob &#10;Twitter @bobatl"
     channeltitle "B.o.B"
     channelid "UCpuvu8mrEO4jxjT6sRwE8tg"
@@ -2323,7 +2323,7 @@ graph
     commentcount 864
     duration "PT5M7S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2331,7 +2331,7 @@ graph
     label "ooGVDjXFbJk"
     step 0
     date "2014-08-12T18:47:39Z"
-    title "Bad Religion - &#38;quot;Flat Earth Society&#38;quot; (Full Album Stream)"
+    title "Bad Religion - (Full Album Stream)"
     description "Listen to the full album at http://bit.ly/1sdxxH5&#10;&#34;Flat Earth Society&#34; by Bad Religion from the album 'Against The Grain.'&#10;http://www.badreligionstore.com&#10;&#10;Facebook- https://www.facebook.com/badreligion&#10;Twitter- https://twitter.com/badreligion"
     channeltitle "Epitaph Records"
     channelid "UCDE5Ezmxq1bNVak4lmkpCMw"
@@ -2349,7 +2349,7 @@ graph
     label "6TPKzdZzJvo"
     step 0
     date "2019-10-28T15:00:00Z"
-    title "Can LOTR&#38;#39;s Flat Earth Exist? | Because Space"
+    title "Can LOTRs Flat Earth Exist? | Because Space"
     description "How would some of our favorite science fiction and fantasy worlds work in our real universe? Could J.R.R. Tolkien's Arda really start out flat and still support life? Would a real-life human ever be able to stare at twin setting sunsets before heading off on an adventure like Luke Skywalker in Star Wars? Join Dr. Moo as she explores just how realistic these can be.&#10;&#10;Thanks to The Outer Worlds from Obsidian Entertainment and Private Division for sponsoring today's episode! The Outer Worlds is available now for PC, PS4, and XBOX One. You can learn more here: http://bit.ly/2qr5s5Q&#10;&#10;Subscribe for more Because Space: http://bit.ly/BecSciSub&#10;&#10;More science: http://nerdist.com/topic/science-tech/&#10;Watch Because Science: http://nerdi.st/BecSci&#10;&#10;Follow Dr. Moo: https://twitter.com/moogega&#10;Follow Kyle Hill: https://twitter.com/Sci_Phile&#10;Follow us on FB: https://www.facebook.com/BecauseScience&#10;Follow us on Twitter: https://twitter.com/becausescience&#10;Follow us on Instagram: https://www.instagram.com/becausescience&#10;Follow Nerdist: https://twitter.com/Nerdist&#10;#BecauseSpace"
     channeltitle "Because Science"
     channelid "UCvG04Y09q0HExnIjdgaqcDQ"
@@ -2367,7 +2367,7 @@ graph
     label "lWmTOFiTEoo"
     step 0
     date "2017-03-23T19:22:33Z"
-    title "Kyrie Irving and Draymond Green&#38;#39;s Flat Earth Theory GETS DESTROYED by Dave Chappelle"
+    title "Kyrie Irving and Draymond Greens Flat Earth Theory GETS DESTROYED by Dave Chappelle"
     description "It's no secret that NBA stars Kyrie Irving, Draymond Green and Shaq are of the belief that the Earth is flat, and they've taken a bit of hilarious heat for it. But now Dave Chappelle, the ultimate funny man, is weighing in and ending the discussion once and for all. &#10;&#10;Subscribe &#9658;&#9658; http://bit.ly/SubToFumble&#10;&#10;For the latest in sports -&#10;Check out our site: http://www.obsev.com/sports&#10;Like us on Facebook: https://www.facebook.com/TheFumble/&#10;Follow us on Twitter: https://twitter.com/FumbleSports&#10;Find us on Instagram: https://www.instagram.com/thefumblesports/&#10;&#10;The Fumble is sports news for the super fan. We cover everything from the NFL, NBA, MLB, MMA, NHL and every random sporting story in between. We tell you about the history-making plays, what your favorite athletes are up to after-hours, and take an irreverent, no BS take on sports. Watch The Fumble for the good, the bad, and the ugly sides of sports.&#10;&#10;-~-~~-~~~-~~-~-&#10;Please watch: &#34;Tim Tebow SURPRISES Fan Who Asked Him to Prom on 'The Tonight Show'&#34; &#10;https://www.youtube.com/watch?v=__7IRT_A7EM&#10;-~-~~-~~~-~~-~-"
     channeltitle "The Fumble"
     channelid "UCojyGFb8W2xxSsJ5c_XburQ"
@@ -2395,7 +2395,7 @@ graph
     commentcount 97
     duration "PT2M37S"
     indegree 3
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 36039
     duration "PT11M42S"
     indegree 5
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 172
     duration "PT4M35S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 364
     duration "PT11M50S"
     indegree 2
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 331
     duration "PT11M26S"
     indegree 4
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 5
     duration "PT2M39S"
     indegree 0
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -2529,7 +2529,7 @@ graph
     label "701uS_hGlk4"
     step 0
     date "2019-05-18T03:31:12Z"
-    title "Flat earth proof!  *JOKE* - The Barndominium Show E120"
+    title "Flat earth proof! *JOKE* - The Barndominium Show E120"
     description "Erik explains in three different ways that the Earth is flat.  It's very simple to understand once he explains it.  &#10;&#10;#TexasBarndominiums&#10;#FlatEarth&#10;#Proof&#10;&#10;&#10;&#10;&#10;www.texasbarndominiums.com/&#10;https://www.facebook.com/TexasBarndominiums/&#10;https://www.instagram.com/texasbarndominiums/&#10;&#10;Gear I use to shoot videos:&#10;Main Camera - http://amzn.to/2CW7hs1&#10;Gimbal for main camera - https://amzn.to/2tERtrp&#10;Favorite lens  - http://amzn.to/2FeSvyu&#10;B-Roll lens - http://amzn.to/2hui1Wz&#10;Drone - http://amzn.to/2jsAozi&#10;GoPro 7 - https://amzn.to/2T3n2KB&#10;Gimbal for GoPro - http://amzn.to/2AKFtag&#10;Microphone - http://amzn.to/2hxv6BW&#10;Tripod - http://amzn.to/2iW2ZsF&#10;Tripod video head - http://amzn.to/2yEZGgl"
     channeltitle "Texas Barndominiums"
     channelid "UCfS-E34gL4VhOXMtWPMehNA"
@@ -2539,7 +2539,7 @@ graph
     commentcount 532
     duration "PT2M38S"
     indegree 1
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 576
     duration "PT25M10S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 5
     duration "PT59S"
     indegree 0
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 3678
     duration "PT7M5S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2619,7 +2619,7 @@ graph
     label "1k3Fnb2wR0c"
     step 0
     date "2010-07-23T18:37:19Z"
-    title "Stuff They Don&#38;#39;t Want You To Know - Flat Earth"
+    title "Stuff They Dont Want You To Know - Flat Earth"
     description "Thousands of people across the planet believe that the world is flat. Why? Their 'evidence,' while not convincing, is certainly bizarre. Tune in and learn more about one of the craziest conspiracy theories on Earth in this episode.&#10;&#10;http://howstuffworks.com&#10;http://facebook.com/ConspiracyStuff&#10;http://twitter.com/conspiracystuff&#10;http://itunes.apple.com/us/podcast/stuff-they-dont-want-you-to/"
     channeltitle "HowStuffWorks"
     channelid "UCa35qyNpnlZ_u8n9qoAZbMQ"
@@ -2629,7 +2629,7 @@ graph
     commentcount 5059
     duration "PT3M37S"
     indegree 0
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -2637,7 +2637,7 @@ graph
     label "b0nki8vrAv8"
     step 0
     date "2017-11-30T19:53:38Z"
-    title "The Flat Earth (2017) | Directed by Ty Evans Feat. Jamie Foy &#38;amp; Carlos Iqui | Official Trailer [4K]"
+    title "The Flat Earth (2017) | Directed by Ty Evans Feat. Jamie Foy Carlos Iqui | Official Trailer [4K]"
     description "Ty Evans&#8217;s film, &#34;The Flat Earth,&#34; delivers the gnarliest skateboarding from 2017r&#8217;s new breed of rippers: Jamie Foy, Chase Webb, Carlos Iqui, Michael Pulizzi and Cody Lockwood. Watch Now: https://youtu.be/W71QPsJAsXg&#10;&#10;#skateboard #JamieFoy #ChaseWebb #freemovie&#10;&#10;Subscribe to the Echoboom Sports channel on Amazon, Struum, Xfinity X1, Sling, or COX for full access to ad-free streaming of the largest collection of premium action sports films in the world. &#10;&#10;Start your FREE TRIAL on Amazon today! &#10;https://www.echoboom.tv/prime&#10;&#10;Subscribe on YouTube: http://bit.ly/18VxJeD&#10;Like us on Facebook: https://www.facebook.com/echoboomsports&#10;Follow us on Twitter: https://twitter.com/EchoBoomSports&#10;Follow us on Instagram: http://instagram.com/echoboomsports"
     channeltitle "Echoboom Sports"
     channelid "UCFw1qLNT4tw321EyssMXC8w"
@@ -2647,7 +2647,7 @@ graph
     commentcount 42
     duration "PT4M"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -2665,7 +2665,7 @@ graph
     commentcount 24586
     duration "PT12M50S"
     indegree 43
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2683,7 +2683,7 @@ graph
     commentcount 342
     duration "PT5M2S"
     indegree 5
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -2691,7 +2691,7 @@ graph
     label "ntYJHGOqfSw"
     step 0
     date "2020-11-11T13:49:13Z"
-    title "Parson Jones &#38;amp; Just Jack - Flat Earth Theme [Official Animated Video]"
+    title "Parson Jones Just Jack - Flat Earth Theme [Official Animated Video]"
     description "#justjack #indiepop #parsonjones  #animation #pop by Mica Jennings &#10;&#10;PARSON JONES X JUST JACK&#10;The song is about four different characters all looking for love of some kind in a&#10;lonely and sometimes confusing modern world.&#10;&#10;&#10;STREAM THIS TRACK here&#10;https://backl.ink/143159682&#10;&#10; --- &#10;JUST JACK&#10;Follow - &#10;Instagram - https://www.instagram.com/justjackmusic&#10;Facebook - https://www.facebook.com/justjackmusic&#10;Twitter - https://twitter.com/JustJackMusic&#10;&#10;Stream - https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO?si=Pg36Wj2cRiS4azRm0YH95w&#10;&#10;Merch - https://www.justjackmusic.co.uk&#10;--- &#10;Underdog Records - Subscribe: https://lc.cx/JhGH &#10;Download this song on iTunes : https://lc.cx/JhNy&#10; -- &#10;Underdog Records latest releases : &#10;http://bit.ly/2pBGOxi &#10;-- &#10;Follow PARSON JONES : &#10;Facebook : https://www.facebook.comparsonjonesmusic&#10;&#10;Instagram : https://instagram.com/parsonjonesmusic?igshid=78zjc7u2oo9l&#10;&#10;other video music : &#10;MAKE ANDE MODEL : https://www.youtube.com/watch?v=DIon0... &#10;Stream this artist : https://songwhip.com/artist/parson-jones &#10;--- &#10;Vinyl / cd / mp3 : https://pjones.bandcamp.com/&#10;-- &#10;Follow Underdog Records:&#10;Facebook : https://goo.gl/6PTwwc &#10;Twitter : https://goo.gl/esLBnf &#10;Website : http://www.underdogrecords.fr Booking / Publishing / Licencing : maxime@underdogrecords.fr &#10;&#10;Vid&#233;o / drawing by Mica Jennings&#10;---&#10;Lyrics &#10;I met a girl named Bertha&#10;She said she was a flat earther&#10;On her way to the conference&#10;I said you know that that&#8217;s nonsense&#10;She said this shit&#8217;s not nonsense&#10;You don&#8217;t even know&#10;Have you heard my silence?&#10;I said what about science?&#10;And she said science don&#8217;t give me no love&#10;I got talking to Linda&#10;She was out on a bender&#10;Swiping through Tinder&#10;i said how&#8217;s that working for you?&#10;She said it&#8217;s not working&#10;It&#8217;s just regret and embarrassment lurking&#10;But it&#8217;s late and I'm lonely and hurting&#10;And where else can i get me some love?&#10;[CHORUS]&#10;Holding on for dear life&#10;Always the bridesmaid but never the bride&#10;A billion tiny islands in the ocean&#10;All these characters I dream&#10;Variations on a theme&#10;I met a boy called Casper&#10;He&#8217;s a worldwide traveller&#10;Talking about ayahuasca&#10;As he stares into his pasta&#10;He said I probably shouldn&#8217;t fly so much&#10;Probably shouldn&#8217;t get high so much&#10;But I&#8217;m a lonely hedonist and my therapist says&#10;I need to find ways to love myself&#10;How could I forget Brian&#10;Opened the floodgates without even trying&#10;I missed my stop on that train&#10;Cos I got a lot of time for a grown man crying&#10;He said she loves me and I love him and he loves she&#10;Still spinning a bottle on the topmost shelf&#10;And looking for love like everyone else&#10;[CHORUS]&#10;Holding on for dear life&#10;&#10;Always the bridesmaid but never the bride&#10;A billion tiny islands in the ocean&#10;All these characters I dream&#10;Variations on a theme"
     channeltitle "Underdog Records"
     channelid "UCuPjsJ1zRAumr8DvJ4eGkug"
@@ -2701,7 +2701,7 @@ graph
     commentcount 65
     duration "PT3M41S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2727,7 +2727,7 @@ graph
     label "BHmKmd58Jk8"
     step 0
     date "2016-02-08T21:34:15Z"
-    title "Neil deGrasse Tyson Responds to B.o.B&#38;#39;s Flat Earth Talk + Introduces Nephew TYSON | Sway&#38;#39;s Universe"
+    title "Neil deGrasse Tyson Responds to B.o.Bs Universe"
     description "http://ishootnyc.com&#10;&#10;Subscribe Here! http://bit.ly/SubscribeSU&#10;Watch the Best of Sway In The Morning! http://bit.ly/BestOfSITM&#10;&#10;Check out More From Sway&#8217;s Universe&#10;http://swaysuniverse.com&#10;http://twitter.com/swaysuniverse&#10;http://instagram.com/swaysuniverse&#10;http://facebook.com/swaysuniverse&#10;&#10;#SwaysUniverse&#10;&#10;About SWAY&#8217;s UNIVERSE&#10;Exclusive interviews from Sway Calloway and the Sway In The Morning/ SwaysUniverse.com team with some of today's biggest celebrities, like Kevin Hart, Kanye West, Eminem, Usher, Jessica Alba, Steve Aoki, Torey Lanez, Julia Stiles and so much more.&#10;&#10;Neil deGrasse Tyson Responds to B.o.B's Flat Earth Talk + Introduces Nephew TYSON | Sway's Universe&#10;https://www.youtube.com/watch?v=BHmKmd58Jk8&#10;&#10;Sway&#8217;s Universe&#10;https://www.youtube.com/UCuS96jkLKpTaGB_OWnwZV_A"
     channeltitle "SWAY'S UNIVERSE"
     channelid "UCuS96jkLKpTaGB_OWnwZV_A"
@@ -2737,7 +2737,7 @@ graph
     commentcount 4642
     duration "PT34M31S"
     indegree 7
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 2217
     duration "PT11M52S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2763,7 +2763,7 @@ graph
     label "6hRijcdDqTo"
     step 0
     date "2017-05-15T16:23:35Z"
-    title "B.o.B. Defends His &#38;#39;Earth Is Flat&#38;#39; Theory, Talks New Music &#38;amp; More"
+    title "B.o.B. Defends His More"
     description "&#9658; Listen LIVE: http://power1051fm.com/&#10;&#9658; Subscribe on iTunes: http://apple.co/2pcdEle&#10;&#9658; Facebook: https://www.facebook.com/Power1051NY/&#10;&#9658; Twitter: https://twitter.com/power1051/&#10;&#9658; Instagram: https://www.instagram.com/power1051/ #BreakfastClub"
     channeltitle "Breakfast Club Power 105.1 FM"
     channelid "UChi08h4577eFsNXGd3sxYhw"
@@ -2773,7 +2773,7 @@ graph
     commentcount 4824
     duration "PT36M30S"
     indegree 7
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2781,7 +2781,7 @@ graph
     label "iKLeItasBlc"
     step 0
     date "2021-05-19T14:43:50Z"
-    title "Surfboard Review  The  &#38;quot;Flat Earth&#38;quot; by Slater Designs"
+    title "Surfboard Review The by Slater Designs"
     description "Check out our review of The &#34; Flat Earth&#34; by Slater Designs  made by Paul Evans. &#10;Paul is a surf journalist, WSL speaker and broadcaster. &#10;He's working as an editor in chief for many surf magazine.&#10;&#10;Check out all our Firewire surfboards available for sale right here:  https://www.akewatu.com.au/#/dffullscreen/query=firewire&#38;query_name=match_and"
     channeltitle "Akewatu"
     channelid "UCNzfz7QMFRqpHiA4b54aXpQ"
@@ -2791,7 +2791,7 @@ graph
     commentcount 12
     duration "PT7M46S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -2809,7 +2809,7 @@ graph
     commentcount 6805
     duration "PT8M59S"
     indegree 8
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2827,7 +2827,7 @@ graph
     commentcount 12270
     duration "PT7M23S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2845,7 +2845,7 @@ graph
     commentcount 31
     duration "PT5M13S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 93967
     duration "PT50M3S"
     indegree 2
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -2881,7 +2881,7 @@ graph
     commentcount 581
     duration "PT6M25S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 318
     duration "PT1M47S"
     indegree 1
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount 511
     duration "PT3M11S"
     indegree 0
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -2943,7 +2943,7 @@ graph
     label "nIWSvSCMLY0"
     step 0
     date "2021-02-15T15:00:13Z"
-    title "Slater Designs &#38;quot;Flat Earth&#38;quot;  Surfboard Review Ep. 113"
+    title "Slater Designs Surfboard Review Ep. 113"
     description "Where to Buy Boards:&#10;Surfboard Empire (AU/NZ): https://surfboardempire.com.au/collections/firewire/products/firewireflatearthlft&#10;&#10;The Surf Station: https://www.surfstationstore.com/collections/firewire-surfboards/products/firewire-flat-earth-lft-surfboard-fcs-ii&#10;&#10;Surf Ontario (Canada): https://surfontario.ca/collections/slater-designs/products/firewire-slater-designs-flat-earth&#10;&#10;Where to buy Fins:&#10;https://www.shopsurfnshow.com/collections/fins &#10;Pre-Order the &#34;HP Twins&#34; Now!!&#10;&#10;How to Surf Better Tutorials:&#10;Surf n Show Patreon: https://www.patreon.com/surfnshow&#10;&#8203;&#10;Coaching Link:&#10;https://surfnshow.com/pages/video-coaching&#10;&#8203; &#10;Surfboard Consulting:&#10;https://surfnshow.com/pages/surfboard-consulting&#10;&#8203; &#10;No obligation, but these links &#38; ads help support the site and keeps the content coming! If you decide to buy somewhere else or would like to support the show, please give at https://www.paypal.me/surfnshow&#10;&#10;In this surfboard review I put Slater Designs new &#34;Flat Earth&#34; through the paces. &#10;&#10;I highly recommend the Flat Earth for Intermediate - Pro level surfers in 2-6' surf. I suggest sizing up roughly 2-3L more compared to your favorite Daily Driver. &#10;&#10;My height: 5'9&#34;&#10;Weight: 160 lb or 72.57 kg&#10;&#10;Stock Boards:&#10;5'5&#34; x 19 1/4 x 2 3/8 (25.9L)&#10;5'6&#34; x 19 3/8 x 2 7/16 (27.1L)&#10;5'7&#34; x 19 1/2 x 2 1/2 (28.4L)"
     channeltitle "Surf n Show Reviews"
     channelid "UCyG8LQXPDH7WPuobykGStcQ"
@@ -2953,7 +2953,7 @@ graph
     commentcount 225
     duration "PT14M38S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -2971,7 +2971,7 @@ graph
     commentcount 27314
     duration "PT2M42S"
     indegree 16
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 151
     duration "PT1M11S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 13
     duration "PT6M25S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 18
     duration "PT3M23S"
     indegree 0
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 12506
     duration "PT10M35S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -3061,7 +3061,7 @@ graph
     commentcount 351
     duration "PT3M3S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount 49430
     duration "PT1H2M55S"
     indegree 51
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3105,7 +3105,7 @@ graph
     label "YYlY5xnYfBM"
     step 0
     date "2021-02-08T15:00:10Z"
-    title "Slater Designs &#38;quot;Flat Earth&#38;quot; Surfboard talk with Akila Aipa"
+    title "Slater Designs Surfboard talk with Akila Aipa"
     description "Where to Buy Fins:&#10;HP Keels:https://www.shopsurfnshow.com/collections/fins/products/surf-n-show-hp-keels-twin-fins&#10;&#10;Where to buy Boards:&#10;The Surf Station:  https://www.surfstationstore.com/collections/slater-designs-surfboards/products/firewire-flat-earth-lft-surfboard-fcs-ii&#10;&#10;Surfboard Empire (Aus / NZ): https://surfboardempire.com.au/collections/firewire/products/firewireflatearthlft&#10;&#10;Surf Ontario (Canada): https://surfontario.ca/collections/slater-designs/products/firewire-slater-designs-flat-earth&#10;&#10;In this episode Akila Aipa and I talk about the new Slater Designs &#34;Flat Earth&#34; model. The &#34;Flat Earth&#34; review drops Monday Feb 15th. Stay Tuned!!!.&#10;&#10;My Height: 5'9&#34;&#10;Weight: 160 lb or 72.57 kg&#10;&#10;Stock Boards I am reviewing:&#10;5'5&#34; (25.9L)&#10;5'6&#34; (27.1L)&#10;5'7&#34; (28.4L)&#10;&#10;Watch the full review next week to see what Stock board I like best and why.&#10;&#10;Surf Better Tutorials: Become a Patron &#10;https://www.patreon.com/surfnshow"
     channeltitle "Surf n Show Reviews"
     channelid "UCyG8LQXPDH7WPuobykGStcQ"
@@ -3115,7 +3115,7 @@ graph
     commentcount 101
     duration "PT5M59S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 79
     duration "PT2M29S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3177,7 +3177,7 @@ graph
     label "azVX2uJ4G54"
     step 0
     date "2015-05-25T17:05:54Z"
-    title "Amazed by the Quran with Nouman Ali Khan: Skies &#38;amp; Earth Exalt Allah"
+    title "Amazed by the Quran with Nouman Ali Khan: Skies Earth Exalt Allah"
     description "Ustadh Nouman Ali Khan shares something that he finds amazing about the Quran.&#10;&#10;http://bayyinah.tv - For more courses and lectures by Nouman Ali Khan."
     channeltitle "Bayyinah Institute"
     channelid "UCRtiU-lpcBSi-ipFKyfIkug"
@@ -3187,7 +3187,7 @@ graph
     commentcount 327
     duration "PT6M22S"
     indegree 7
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 439
     duration "PT1M41S"
     indegree 7
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 180
     duration "PT3M6S"
     indegree 2
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 6
     duration "PT2M38S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -3249,7 +3249,7 @@ graph
     label "4Jqo-jqBs74"
     step 0
     date "2020-01-29T15:30:14Z"
-    title "What if the Earth was Flat? &#127758; | Flat Earth Theory | Is the Earth FLAT or ROUND? | Vedantu"
+    title "What if the Earth was Flat? | Flat Earth Theory | Is the Earth FLAT or ROUND? | Vedantu"
     description "What if the Earth was Flat? &#127758; | Flat Earth Theory | Is the Earth FLAT or ROUND? | Vedantu - Our goal in this session of 'What if the Earth was Flat?' is to introduce some of the interesting facts of What if the Earth was Flat? that may be helpful for students to know about the Earth.&#10;&#10;Meet Pritesh Sir enlightens you with the topic of 'What if the Earth was Flat? &#127758;' in an effective way @Vedantu Young Wonders &#10;&#10;&#9658; What if the Earth was Flat. Flat Earth Theory. Is the Earth FLAT or ROUND. flat earth society. the earth is flat.&#10;&#10;Today, it's nearly impossible to believe the Earth is anything but round. But for most of our history, humans have thought it was a Flat Earth. The one concept our ancient ancestors were missing was gravity. Gravity's effects are the key to determining whether it is actually a flat Earth, or not.&#10;&#10;On a sphere, gravity pulls in the same direction everywhere on the surface. But on a disc, gravity changes direction as you move toward the edge. At the center, you feel a downward pull just like on spherical Earth rather than flat Earth. But as you move out, gravity starts pulling sideways as well as a downwards.&#10;&#10;Continue toward the edge and you feel like you're climbing a hill that's growing steeper with each step as the backward pull of gravity takes over. At flat Earth&#8217;s end, that hill will feel like a 90-degree cliff, pulling you back to the center. But if you could make it over the edge, and stand on the thin outer part of the disc, you'll feel downward pull just like on spherical Earth rather than flat Earth. However, living here would be like living in a desert. Gravity's backward effects pull on the oceans too, making it impossible for any water to reach the edge. Instead, sea levels will gradually rise as you travel in, making the world's center an aquatic metropolis.&#10;&#10;So, the next time you see an apple fall straight to the ground, thank your lucky stars that Earth is round. Because if it were flat, that apple might actually hit you in the face.&#10;&#10;&#128226; Join our telegram group: https://t.me/VedantuJunior  &#128276;&#10;&#10;Use Code: PRCC to get 5% off on below CRASH COURSE&#10;&#10145;&#65039; GRADE 6: https://vdnt.in/YT6CC&#10;&#10145;&#65039; GRADE 7: https://vdnt.in/YT7CC&#10;&#10145;&#65039; GRADE 8: https://vdnt.in/YT8CC&#10;&#10;&#9989; Visit Chapter-wise Courses for Preparation: &#10145;&#65039; https://vdnt.in/YTMICRO Use code: PRMIC to get 50% off.&#10;&#10;&#9989;  Unlimited access to LIVE &#38; Recorded Micro Courses and All India Test Series. Use code PRSUB to get 55% off &#128071;&#10;&#10145;&#65039; GRADE 6 LINK: https://vdnt.in/6lite&#10;&#10145;&#65039; GRADE 7 LINK: https://vdnt.in/7lite&#10;&#10145;&#65039; GRADE 8 LINK: https://vdnt.in/8lite&#10;&#10;&#9989; Download Vedantu Free Learning App here: &#10145;&#65039; https://vedantu.app.link/R4UWu0J3W1&#10;&#10;In this &#34;What if the Earth was Flat?&#34; session, the main focus has been given on:&#10;&#9658; planet earth&#10;&#9658; flat earth society&#10;&#9658; flat earth theory&#10;&#9658; flat earth proof&#10;&#9658; is the earth flat or round&#10;&#9658; the earth is flat&#10;&#9658; what if the earth was flat&#10;&#9658; flat earth conspiracy&#10;&#10;Subscribe to our channel now and never miss out on our latest videos like this general informations and for all other new interesting videos! and share it with friends! &#10;&#10;#WhatIfTheEarthwasFlat #earth #vedantu&#10;-------------------------------------------------------&#10; Vedantu FREE Learning App: https://vedantu.app.link/VpVerwhY9U &#10;Get Vedantu Scholarship up to 100% | Register Now for FREE: https://vsat.vedantu.com &#10;Free Live Interactive with India's best Teachers on Vedantu Master Classes &#10;&#9989; Register Now    &#10145;&#65039; https://vdnt.in/MasterClass&#10;&#10;Follow us on Top Social Media Websites:&#10;-------------------------------------------------------------------------------------------------------------------------------------------&#10;&#128077; Facebook: https://www.facebook.com/VedantuInnovations/&#10;&#128248; Instagram: https://www.instagram.com/vedantu_learns/&#10;&#10;Thanks for watching this &#8216;&#8217;What if the Earth was Flat?&#34; session!!! Hope you have enjoyed and got to know more about What if the Earth was Flat?."
     channeltitle "Vedantu Young Wonders"
     channelid "UCi-J9CCaQ8w427GPHmoQGHA"
@@ -3259,7 +3259,7 @@ graph
     commentcount 130
     duration "PT8M52S"
     indegree 0
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -3267,7 +3267,7 @@ graph
     label "EBG4boXDBSM"
     step 0
     date "2019-07-11T07:00:00Z"
-    title "Questioned: Is The Earth Flat Or Curved In DCS WORLD?"
+    title "Questione tongue sticking out Is The Earth Flat Or Curved In DCS WORLD?"
     description "0:00 Theory&#10;3:40 Testing&#10;16:52 Conclusion&#10;&#10;http://members.home.nl/7seas/radcalc.htm&#10;http://www.davidsenesac.com/Information/line_of_sight.html&#10;&#10;*Credit to Tebro &#38; Rubicon for the brain work.&#10;&#10;TUTORIALS: https://grimreapers.net/tutorials&#10;PATREON(monthly donations): https://www.patreon.com/GrimReapers&#10;PAYPAL(one-off donations): https://www.paypal.me/GrimReapers&#10;WEBSITE: https://grimreapers.net/&#10;TWITCH(stream): https://www.twitch.tv/grimreaperscap&#10;FACEBOOK: https://www.facebook.com/GrimReapersGroup/&#10;TWITTER: https://twitter.com/GrimReapers_&#10;DISCORD: https://discord.gg/cATmE3d (16+ age limit)&#10;DISCORD: (Junior GR)(15 or unders) Speak to AuntyStatic or Rage Infest in main discord to attain access.&#10;CAP'S X-56 HOTAS MAPS: https://drive.google.com/open?id=1g7op9YxNbWi8fogam0tK0yer1rRCLe7A&#10;&#10;#DCSQuestioned #GR #DCSWorld #GRDCSTesting #DCSTesting #FlightSim #FlatEarth"
     channeltitle "Grim Reapers"
     channelid "UCZuXjkFY00p1ga3UyCBbR2w"
@@ -3277,7 +3277,7 @@ graph
     commentcount 119
     duration "PT18M"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3303,7 +3303,7 @@ graph
     label "uhaZX4ZMcLw"
     step 0
     date "2021-11-18T00:00:15Z"
-    title "God&#8217;s word, flat-earth, and inerrancy; What is the Bible allowed to get wrong?"
+    title "God What is the Bible allowed to get wrong?"
     description "What do we do when the Bible says something that is simply factually incorrect? In this episode, Dave explores one example and looks at how different people (Latter-day Saints or otherwise) might approach those scenarios. &#10;&#10;Video transcript and additional notes: https://bit.ly/3CKRzyQ&#10;&#10;Latter-day Saint bible scholar Ben Spackman tirelessly provides excellent resources that help both members and non-members of our faith to better understand how to read, interpret, and use the Bible. Check some of his stuff out below:&#10;&#8212; &#8220;Truth, Scripture, and Interpretation: Some Precursors to Reading Genesis&#8221;: https://bit.ly/2WqMAnW &#10;&#8212; &#8220;Episode 45: Misunderstanding the Bible &#8212; Ben Spackman&#8221; (LDS Perspectives podcast): https://bit.ly/2YmP6MM &#10;&#8212; &#8220;Virtual Sperry Fireside on Reading the Old Testament in Context&#8221;: https://bit.ly/3mjN5JE &#10;&#8212; &#8220;Resources for Studying the Bible in Context&#8221;: https://bit.ly/3m6Q4Vm &#10;&#8212; &#8220;Interpreting Scripture, History, Science, and Creation: A Free Course by Me!&#8221;: https://bit.ly/39V7RJM &#10;&#8212; An interview of Spackman (in 8 parts) in which he talks about subjects like Genesis, evolution, concordism, etc.: https://bit.ly/3kjoLaY &#10;&#8212; &#8220;The Scientific Deformation and Reformation of Genesis: How &#8216;Science&#8217; Messed It Up, but Also Fixes It&#8221;: https://bit.ly/3kjmj41 (And a corresponding article here: https://bit.ly/2XzIv1o )&#10;&#10;These additional sources may interest you: &#8220;The Firmament of Genesis 1 is Solid but That&#8217;s Not the Point,&#8221; by Pete Enns (non-Latter-day Saint): https://bit.ly/3A1qS7D &#10;More on inerrancy from Pete Enns (FYI I have not read every one of these articles): https://bit.ly/3oi51Xz &#10;&#8220;What is Concordism in Bible-Science Discussion?&#8221; via Patheos (note that I am not a Concordist. I think it&#8217;s another misuse of the Bible): https://bit.ly/3kYXhYx &#10;&#10;Notes:&#10;&#10;&#8212; Here&#8217;s another quote from a popular Christian website that leans heavily on inerrancy: &#8220;The fact that God &#8216;breathed&#8217; Scripture insures that the Bible is infallible, for God cannot breathe out error &#8230; If God is infallible, then so will be His Word &#8230; It is factual throughout...&#8221; Source: https://bit.ly/3BbN0xT &#10;&#10;&#8212; &#8220;Answers in Genesis&#8221; is rather well-known for being quite a conservative bunch of Evangelical Christians. They&#8217;re responsible for some rather controversial projects, such as the &#8220;Creation Museum&#8221; and the &#8220;Ark Encounter&#8221;. Anyway, in this video we briefly talked about how some people, in response to the ancient model of the universe we see in Genesis, will work to interpret scripture in such a way that it veers away from this ancient cosmology. For a rather lengthy example of how some people do this, check out this article from &#8220;Answers in Genesis&#8221;: https://bit.ly/2YbwqzC Of course, not all Christians agree with AiG&#8217;s analysis. Here is what professor Pete Enns (not a Latter-day Saint) has to say on the same issue: https://bit.ly/3A1qS7D &#10;&#10;SUBSCRIBE:&#10;http://saintsunscripted/subscribe&#10;&#10;Follow Us:&#10;Facebook: https://www.facebook.com/SaintsUnscripted/&#10;Instagram: https://www.instagram.com/saintsunscripted/&#10;Website: https://saintsunscripted.com/&#10;&#10;Follow the Hosts: &#10;Justin: https://www.instagram.com/motioncoaster/&#10;David: https://www.instagram.com/davidesnell/&#10;Taylor: https://www.instagram.com/tsyorg/&#10;Allex: https://www.instagram.com/allex_lennon/&#10;Kaitlyn: https://www.instagram.com/kait_fotheringham/"
     channeltitle "Saints Unscripted"
     channelid "UC2LBmYIOq6Eu_ZC14i_YkIg"
@@ -3313,7 +3313,7 @@ graph
     commentcount 2730
     duration "PT6M39S"
     indegree 42
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3331,7 +3331,7 @@ graph
     commentcount 307
     duration "PT3M6S"
     indegree 6
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 1500
     duration "PT12M28S"
     indegree 2
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3357,7 +3357,7 @@ graph
     label "-XuOxYXjioY"
     step 0
     date "2019-04-24T22:16:50Z"
-    title "How do we know the EARTH is ROUND?| FACTS to share with FLAT-EARTHERS | Google Arts &#38;amp; Culture"
+    title "How do we know the EARTH is ROUND?| FACTS to share with FLAT-EARTHERS | Google Arts Culture"
     description "Meet the greats throughout time who made headway in human knowledge with their arguments and proof as to the round shape of our planet.&#10;Discover more of humanity&#8217;s greatest inventions and discoveries, and meet the visionaries who shaped our world, in Once Upon a Try: https://g.co/onceuponatry&#10;&#10;#OnceUponaTry #EarthFlat #EarthRound&#10;&#10;Subscribe: http://bit.ly/2Vo55DL &#10;&#10;Learn more on https://g.co/artsandculture and download the app Google Arts &#38; Culture&#10;Android: https://goo.gl/CCJ5xu&#10;IOS: https://goo.gl/AvMS0r&#10; &#10;Tweet us https://twitter.com/googlearts&#10;Instagram: https://www.instagram.com/googleartsculture"
     channeltitle "Google Arts &#38; Culture"
     channelid "UCGn7dlcAmH44GqycKa_3ssA"
@@ -3367,7 +3367,7 @@ graph
     commentcount 963
     duration "PT1M51S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3385,7 +3385,7 @@ graph
     commentcount 6880
     duration "PT5M13S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 50
     duration "PT5M8S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 75526
     duration "PT11M7S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3429,7 +3429,7 @@ graph
     label "pMw6Bj7Idis"
     step 0
     date "2014-07-25T21:21:37Z"
-    title "History of Science - Exploring the Past - 1.4 Shape of the Earth"
+    title "History of Science - E tongue sticking out loring the Past - 1.4 Shape of the Earth"
     description "&#8220;History of Science to the Age of Newton&#34; is a free online course on Janux that is open to anyone. Learn more at http://janux.ou.edu.&#10;&#10;Created by the University of Oklahoma, Janux is an interactive learning community that gives learners direct connections to courses, education resources, faculty, and each other. Janux courses are freely available or may be taken for college credit by enrolled OU students.&#10;&#10;Dr. Kerry Magruder is an Associate Professor in the Department of the History of Science and Curator and John H. and Drusa B. Cable Chair of the History of Science Collections.&#10;&#10;Video by NextThought (http://nextthought.com).&#10;&#10;Copyright &#169; 2000-2014 The Board of Regents of the University of Oklahoma, All Rights Reserved."
     channeltitle "Janux"
     channelid "UCoNjhUEAv_dbFn3sZ9So_ig"
@@ -3439,7 +3439,7 @@ graph
     commentcount 155
     duration "PT9M9S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3447,7 +3447,7 @@ graph
     label "f8DQSM-b2cc"
     step 0
     date "2020-08-22T12:26:32Z"
-    title "Flat Earth &#38;quot;Science&#38;quot; -- Wrong, but not Stupid"
+    title "Flat Earth -- Wrong, but not Stupid"
     description "In this video I explain what flat earthers believe, why they believe it, and why I think scientists should take flat earthers more seriously.&#10;&#10;The CNN article which I quote is here:&#10;&#10;https://edition.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html&#10;&#10;The Guardian article which I quote is here:&#10;&#10;https://www.theguardian.com/global/2010/feb/23/flat-earth-society&#10;&#10;The poll that I mention is this:&#10;&#10;https://today.yougov.com/topics/philosophy/articles-reports/2018/04/02/most-flat-earthers-consider-themselves-religious&#10;&#10;Support me on Patreon: https://www.patreon.com/Sabine&#10;&#10;#science #education #philosophy&#10;&#10;0:00 Motivation and Content Summary&#10;0:33 What Flat Earthers Believe&#10;2:43 Are They just Trolling?&#10;3:46 History&#10;7:26 The Trouble with Zeteticism&#10;13:46 Why you are right to reject the Flat Earth Hypothesis&#10;14:55 Why scientists should take Flat Earthers more seriously"
     channeltitle "Sabine Hossenfelder"
     channelid "UC1yNl2E66ZzKApQdRuTQ4tw"
@@ -3457,7 +3457,7 @@ graph
     commentcount 35114
     duration "PT15M50S"
     indegree 75
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3475,7 +3475,7 @@ graph
     commentcount 38
     duration "PT3M42S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -3483,7 +3483,7 @@ graph
     label "MtT--uz392I"
     step 0
     date "2018-10-12T19:58:38Z"
-    title "Hilarious &#38;quot;The Earth Is Flat&#38;quot; Memes"
+    title "Hilarious Memes"
     description "Get Your Timeless Merch &#9658; http://www.timelessbrand.com&#10;&#10;Subscribe For Daily Videos &#9658;https://goo.gl/LqHj1c&#10;&#10;Send Video Ideas &#9658; ReactionTimeVideos@gmail.com&#10;&#10;&#10;ADD ME ON&#10;INSTAGRAM: https://www.instagram.com/talfishman&#10;TWITTER: https://www.twitter.com/talfishman&#10;FACEBOOK: https://www.facebook.com/theofficialtalfishman&#10;SNAPCHAT: TalFishy&#10;&#10;MORE CHANNELS&#10;Vlog Channel: https://goo.gl/7SzkmZ"
     channeltitle "Reaction Time"
     channelid "UChM5Ff2yVeIZ16EWiB081cg"
@@ -3493,7 +3493,7 @@ graph
     commentcount 14633
     duration "PT11M48S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount 1906
     duration "PT1M12S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 13
     duration "PT4M23S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount 19595
     duration "PT10M16S"
     indegree 6
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -3555,7 +3555,7 @@ graph
     label "F-8T7nMy0O0"
     step 0
     date "2020-03-27T16:02:55Z"
-    title "How YouTube Created &#38;#39;Flat Earth&#38;#39;"
+    title "How YouTube Created "
     description "YouTube has a problem with misinformation. YouTube fostered the belief that the earth is flat in millions of people around the world. If that level of misinformation can happen regarding something so scientifically rudimentary, what does that mean for more complicated topics like climate change and COVID19?&#10;&#10;Check out zentouro's video on YouTube's Climate Denial Problem, and subscribe to her excellent channel over here: https://youtu.be/kZYH_MirvV8&#10;&#10;My bike video that I reference at the start: https://www.youtube.com/watch?v=YaPa4esJJx4&#10;&#10;The poll I reference: https://today.yougov.com/topics/philosophy/articles-reports/2018/04/02/most-flat-earthers-consider-themselves-religious&#10;&#10;The YouTube search trends, which I'm leaving here for you to explore because its fun: https://trends.google.com/trends/explore?date=all_2008&#38;geo=US&#38;gprop=youtube&#38;q=flat%20earth&#10;&#10;Article about interviews with flat earthers at conference, demonstrating that YouTube brought them around to this belief: https://www.theguardian.com/science/2019/feb/17/study-blames-youtube-for-rise-in-number-of-flat-earthers&#10;&#10;Follow me on Instagram: https://www.instagram.com/kbaute/&#10;Follow me on Twitter: https://twitter.com/kurtisbaute&#10;&#10;&#10;Stay skeptical, and stay safe my friends!"
     channeltitle "Kurtis Baute"
     channelid "UCTRM8LE1g6UXrVZKwgw5oEA"
@@ -3583,7 +3583,7 @@ graph
     commentcount 3099
     duration "PT5M47S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 60986
     duration "PT5M5S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 4276
     duration "PT2M5S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3627,7 +3627,7 @@ graph
     label "TlcNNZlj7-Q"
     step 0
     date "2018-04-06T19:30:00Z"
-    title "The Funniest &#38;quot;Earth Is Flat&#38;quot; Memes"
+    title "The Funniest Memes"
     description "Send Video Ideas: ReactionTimeVideos@gmail.com&#10;&#10;Subscribe For More: https://goo.gl/kCGuzH&#10;&#10;My Socials&#10;Challenge Channel: https://goo.gl/7SzkmZ&#10;Gaming Channel: https://goo.gl/DXe98c&#10;Instagram: https://goo.gl/dE1NaZ&#10;Twitter: https://goo.gl/mzAhj5&#10;Facebook: https://goo.gl/sfF8sq&#10;Snapchat: TalFishy"
     channeltitle "Reaction Time"
     channelid "UChM5Ff2yVeIZ16EWiB081cg"
@@ -3637,7 +3637,7 @@ graph
     commentcount 52826
     duration "PT5M3S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -3645,7 +3645,7 @@ graph
     label "gRwyRr7TluY"
     step 0
     date "2020-08-28T15:52:20Z"
-    title "Expert Panel: Digital Transformation Makes the Earth Flat Again / DrupalCon Global 2020"
+    title "E tongue sticking out ert Panel: Digital Transformation Makes the Earth Flat Again / DrupalCon Global 2020"
     description "Hear from Drupal Agency leaders about challenges, opportunities, and how they create incredible experiences with digital experience platforms"
     channeltitle "Drupal Association"
     channelid "UCAJALvsCWz8Kh6wOySHUJAA"
@@ -3663,7 +3663,7 @@ graph
     label "mNoaTUaRwEI"
     step 0
     date "2021-07-18T18:56:42Z"
-    title "Round Earth vs. Flat Earth or How We Know Earth isn&#8217;t Flat"
+    title "Round Earth vs. Flat Earth or How We Know Earth isnt Flat"
     description "While the overwhelming consensus is that planet Earth is round, someone might ask that you provide proof other than the pictures astronauts took of Earth. In which case, you might want to know some cool ways to prove that our planet is a sphere and not a flat disc. The stick and shadow, sinking ship effect, different time zones, and gravity are introduced in this video. While there are many more ways to prove the spherical nature of planet Earth, these hopefully are enough. &#10;&#10;00:00 &#8211; Intro - Flat Earth Theory&#10;00:47&#8211; Stick and Shadow&#10;01:28 &#8211; Sinking ship effect&#10;02:13 &#8211; Different time zones&#10;03:24 &#8211; Gravity&#10;05:07 &#8211; Outro - warp drives&#10;&#10;#flatearth #earth #earthisnotaglobe  #nasa #qanon #researthflatearth #spaceisfake #truth #earthisflat #flatearthtruth #flatearthers #flatearthsociety #flatearthmatters #moonlandinghoax&#10;&#10;There are those who claim Earth is a flat disc with the arctic in the center and Antarctica, with its great wall of ice, around the rim. Some say the Government guard this ice wall to hide our flatness. Others say, it&#8217;s not the shape but rather the truth about the space program, that in reality it was all a sham and that no one actually went into space to take a look at our planet. If everyone is lying, how do we know Earth isn&#8217;t flat? First the classics, the stick and shadow. Back in the day, Eratosthenes noticed that if you stick a rod into the ground at two different locations sufficiently far apart, the length of the shadow they cast are different. And since the Sun is so far away its rays are almost parallel to each other, he concluded that Earth must be round. If you live near a coast, go find and watch a large ship sail off into the distance. The taller the better. If Earth were flat, the ship would just get smaller and smaller as it sails away, until it becomes impossible to see with the naked eye. However in reality, you&#8217;ll notice that it gets smaller and smaller until the bottom of the ship starts to disappear into the ocean, as if it&#8217;s sinking.  But no worries, all it&#8217;s doing is hiding behind the curvature of our beloved planet. This should be proof enough that our world is round, and many would agree. However what if this is the result of some kind of unknown optical illusion. What do we do now? Hopefully method number 3, the existence of time zones, is more convincing. If we all lived on a flat disc, the sun would either be up or down for everyone. This can be easily verified. Just call up a few friends who live abroad, and check to see if they all see the sun or not. I&#8217;ll bet some of your friends will report the sun is just rising, while others report it&#8217;s high in the sky or that the moon took its place. This can only happen if we live on a spinning sphere and the sun shines on one side while the other side hides from it. This should convince even the most skeptical, but let&#8217;s say for example that the sun has the capability of directing it&#8217;s rays only on specific regions of the disc while rotating above it. Like how stage spotlights can illuminate just the stage while the audience watch in the dark. If we can accept that light from a rotating Sun can somehow selectively shine only on certain areas below it, and unlike an audience of a play noticing the spotlights and their effects, that this phenomenon cannot be observed elsewhere, wouldn&#8217;t that allow our Flat Earth to have regular time zones as well? I think it&#8217;s time to bring out the big guns.  The fourth method, gravity. Gravity is the force that pull stuff towards each other. To be specific, toward the center of mass. So simply by have gravity, a flat earth is not possible. Gravity will pull on the outer parts until things are nice and round. This is why celestial objects we see in the sky are spherical. But for the sake of argument, let&#8217;s assume a flat earth with gravity is possible. Unlike a round Earth, where the center of mass is always below you wherever you stand, on a flat Earth, gravity pulls you down only at the center of the disc. And as you move away from the center, gravity will pull at you from an angle. The more you move away, the steeper the angle.  As a consequence, water will flow towards the center, trees will grow away from it in order to stay upright and walking towards the edge will feel like an uphill hike even though the ground is flat. Is this what you observe around you? Probably not. Unless you&#8217;re in the center of the disc, which would be the Arctic according to the Flat Earth map, a quick glance of your surroundings and a brisk walk around the neighborhood should tell you, you live on a round planet not a flat one. But what if gravity itself is an illusion and our flat Earth is actually accelerating upward at 9.81 meters per second per second. Wouldn&#8217;t this also explain what we observe whenever we drop an object and let it fall to the ground? Except if earth continues to accelerate upward so we can drop stuff downward at some point it will have to go faster than the speed of light. Which can't happen."
     channeltitle "Stick Science"
     channelid "UCTAqnwx0SAYykINDPwVFnVw"
@@ -3673,7 +3673,7 @@ graph
     commentcount 191
     duration "PT5M27S"
     indegree 1
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3691,7 +3691,7 @@ graph
     commentcount 10433
     duration "PT5M25S"
     indegree 11
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 555
     duration "PT10M39S"
     indegree 1
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 23922
     duration "PT19M"
     indegree 45
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 869
     duration "PT4M27S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3753,7 +3753,7 @@ graph
     label "bbtXMrDJm94"
     step 0
     date "2022-03-01T11:30:08Z"
-    title "On Our Flat Earth Lives Lizard Bieber | Commentary Roast With Bogart The Explorer"
+    title "On Our Flat Earth Lives Lizard Bieber | Commentary Roast With Bogart The E tongue sticking out lorer"
     description "Bogart's only just skimmed the surface of the weird and whacky. What conspiracy theories have got you absolutely obsessed? &#10;&#10;#CommentaryRoastCC #BogartTheExplorer #PaperbugTV&#10;&#10;About Commentary Roast:&#10;He's back with more to say. If 2020 wasn't our best, 2021 was a bigger mess. Roasting everything and anything that's wrong with the world in the Bogart the Explorer way is the only way to put things back in order.&#10;&#10;SUBSCRIBE to Comedy Central Asia for more videos and exclusives: https://www.youtube.com/c/ComedyCentralAsia &#10;&#10;Get SOCIAL with Comedy Central Asia:&#10;&#128248; Instagram: http://www.instagram.com/comedycentralasia&#10;&#128216; Facebook: https://www.facebook.com/ComedyCentralAsia"
     channeltitle "Comedy Central Asia"
     channelid "UCQY1vTBKdovdL3rztMzs7ng"
@@ -3763,7 +3763,7 @@ graph
     commentcount 4
     duration "PT8M6S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 264
     duration "PT1M40S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 6920
     duration "PT1M25S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 373
     duration "PT10M10S"
     indegree 4
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3871,7 +3871,7 @@ graph
     commentcount 550
     duration "PT8M36S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 199
     duration "PT8M24S"
     indegree 8
-    cluster 11
+    cluster 9
   ]
   node
   [
@@ -3915,7 +3915,7 @@ graph
     label "EYHvq_Pqn3o"
     step 0
     date "2019-06-11T03:43:07Z"
-    title "What&#8217;s on the other side of the Flat Earth? | Skribbl.io w/ The Derp Crew &#38;amp; Friends"
+    title "What Friends"
     description "Welcome back to Skribbl.io! Today we are telling THE TRUTH. The Flat Earth theory and what's behind it. Okay nevermind, we make jokes. None of us can spell as always. Enjoy!&#10;&#10;Skribbl.io Playlist:&#10;https://www.youtube.com/playlist?list=PLQYBShEbv9wNBkQ250iuiGlziPsqEhjok&#10;&#10;&#9658; Subscribe! - http://bit.ly/19T7ObM &#9668;&#10;&#10;Skribbl.io:&#10;https://skribbl.io/&#10;&#10;Chilled: http://www.youtube.com/CriousGamers&#10;Shubble: https://www.youtube.com/channel/UCg-HvGLsfJ-7P_f9kUuWuiQ&#10;John: http://www.youtube.com/tehsmarty&#10;Stabbies: http://www.twitch.tv/Stabbies&#10;&#10;Follow me on the interwebz!&#10;Twitter: http://www.twitter.com/ZeRoyalViking&#10;Facebook: http://www.facebook.com/ZeMachinima&#10;Tumblr: http://www.zeroyalviking.tumblr.com&#10;ask.fm: http://www.ask.fm/ZeRoyalViking&#10;Instagram: http://instagram.com/zeroyalviking&#10;Vine: zeroyalviking&#10;&#10;Music by Epidemic Sound (http://www.epidemicsound.com)&#10;&#10;#ZeRoyalViking #Skribblio #DrawMyThing"
     channeltitle "ZeRoyalViking"
     channelid "UCy20p1JAXEBqWGmMmSRRTgg"
@@ -3925,7 +3925,7 @@ graph
     commentcount 55
     duration "PT25M1S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 0
     duration "PT4M47S"
     indegree 1
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 44843
     duration "PT1H47M46S"
     indegree 50
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 223
     duration "PT30S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     commentcount 25727
     duration "PT9M44S"
     indegree 2
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 335
     duration "PT9M35S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 1230
     duration "PT13M23S"
     indegree 2
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 2375
     duration "PT4M21S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4059,7 +4059,7 @@ graph
     label "0PTkzV8w1ic"
     step 0
     date "2018-05-07T19:00:01Z"
-    title "The Most Hilarious &#8220;Earth Is Flat&#8221; Memes"
+    title "The Most Hilarious Memes"
     description "The Most Hilarious &#8220;Earth Is Flat&#8221; Memes&#10;Elon Musk had some fun recently trolling the Flat Earth Society - asking why there is no &#34;Flat Mars Society&#34;. The group bizarrely shot back that Mars has been observed to be round. Seems legit. To expunge ourselves of that stupidity, we've rounded up a few of our favorite flat earth memes to help you troll in Musk's footsteps. &#10;&#10;-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-&#10;&#128150;&#128150;MUSIC&#128150;&#128150;&#10;&#10;Fluffing a Duck by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100768&#10;Artist: http://incompetech.com/&#10;&#10;(1:07)&#10;[Maple Leaf Rag]&#10;&#10;(3:25)&#10;Cumbia No Frills Faster by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100275&#10;Artist: http://incompetech.com/&#10;&#10;-=--=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-&#10;Subscribe For Daily Content&#10;&#10;Subscribe: https://goo.gl/W3NGKr&#10;&#10;Help &#128061;FunnyPig&#128061; Reach Goal of 333,333 Subs!! &#128150;TankQ&#128150;"
     channeltitle "FunnyPig"
     channelid "UCWv2oOr-VnM5z7-Eb_NlWfA"
@@ -4069,7 +4069,7 @@ graph
     commentcount 7498
     duration "PT6M48S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 557
     duration "PT3M42S"
     indegree 0
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 1682
     duration "PT3M29S"
     indegree 5
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4113,7 +4113,7 @@ graph
     label "n9bYHwp_xnU"
     step 0
     date "2019-05-22T03:15:32Z"
-    title "Debunking The &#38;#39;Flat Earth&#38;#39; Conspiracy Theory | Studio 10"
+    title "Debunking The Conspiracy Theory | Studio 10"
     description "Is the Earth really round? Astrophysicist Brad E Tucker faces-off with flat Earther Mark Sargent over the Flat Earth conspiracy theory.&#10;&#10;Studio 10 | 8.30am &#8211; 12pm weekdays on Channel 10 featuring hosts Sarah Harris, Joe Hildebrand, Angela Bishop, Kerri-Anne Kennerley, Denise Scott and Denise Drysdale.&#10;&#10;Find out more about Studio 10 here: http://tenplay.com.au/channel-ten/studio-10 &#10;&#10;To add to the discussion and share your opinions on Studio 10, head to one of our social media platforms below. &#10;&#10;Facebook: https://facebook.com/studio10au&#10;Twitter: https://twitter.com/Studio10au (@studio10au)&#10;Instagram: https://www.instagram.com/studio10au (@studio10au)&#10;&#10;Tag us using the hashtag: #Studio10&#10;&#10;Subscribe to the Studio 10 Channel here: http://bit.ly/2boxlSO &#10;&#10;Join our LIVE studio audience at our studio in Sydney, Australia by emailing studio10tickets@networkten.com.au!"
     channeltitle "Studio 10"
     channelid "UCLCUbvRrQnApZldY6CTquTA"
@@ -4123,7 +4123,7 @@ graph
     commentcount -1
     duration "PT10M"
     indegree 7
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 42
     duration "PT3M4S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 60
     duration "PT15S"
     indegree 0
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -4203,7 +4203,7 @@ graph
     label "Hsf0iGXgzjk"
     step 0
     date "2020-09-20T19:21:52Z"
-    title "Flat Earth Puzzle SOLVED!!! (The facts they tried to hide) Flat Earther revelations &#38;amp; 2x2x2 Rubik&#38;#39;s"
+    title "Flat Earth Puzzle SOLVED!!! (The facts they tried to hide) Flat Earther revelations s"
     description "SOURCES / LINKS MENTIONED IN VIDEO&#10;2x2x2 globe puzzle purchase details  &#9658; https://shrsl.com/2iii6&#10;Flat Earth Model (not my puzzle)  &#9658; https://amzn.to/2ZQZRF2&#10;Water doesn't curve tee-shirt &#9658; https://amzn.to/2HlvWOV&#10;(Video) 7 rockets &#34;hitting the dome&#34; / firmament &#9658; https://www.youtube.com/watch?v=qab8VOBhsJ0&#10;Books about Flat Earth fantasy &#9658; https://tinyurl.com/FlatEarthBooks&#10;----------------------------------------&#10;CLAIMS I MADE ABOUT FLAT EARTHER BELIEFS. &#10;Water doesn't curve  &#9658; https://steemitimages.com/DQmaZLgvpDVqedxYv4rDpPJHvdRgPiJrcWZGRPV7MszTaET/water%20finds%20level.jpg&#10;Flat earthers alternative to gravity &#9658; https://wiki.tfes.org/Flat_Earth_-_Frequently_Asked_Questions#Why_doesn.27t_gravity_pull_the_Earth_into_a_spherical_shape.3F&#10;Flat earther claims about dome height &#9658; https://wiki.tfes.org/Distance_to_the_Sun&#10;----------------------------------------&#10;MY FAVOURITE PUZZLE STORES&#10;1. HKNowStore &#9658; http://shrsl.com/p5rk (Free worldwide shipping, good customer service, PayPal, all currencies accepted). &#10;2. Amazon &#9658; https://tinyurl.com/AmazonTwistyPuzzles&#10;3. Puzzle Master &#9658; https://shrsl.com/2ga66&#10;----------------------------------------&#10;My website showing every puzzle I have ever made and much more &#9658; http://tonyfisherpuzzles.net&#10;----------------------------------------&#10;MEDIA / NEWS COMPANIES&#10;Many of my videos are available to licence through my Newsflare account &#9658; https://www.newsflare.com/profile/TonyFisher . No other use is permitted.&#10;---------------------------------------- &#10;As an affiliate with HKNowstore, Lightake, Puzzlemaster, VeryPuzzle &#38; Amazon I earn a small percentage from purchases made through my links with no extra cost to you.&#10;----------------------------------------&#10;I left comments on for as long as I could bare but I swear these flatards get more retarded by the day. &#10;----------------------------------------&#10;&#160;#TonyFisher"
     channeltitle "Tony Fisher"
     channelid "UC3NOgNqMWr6DAWE0vT12bRQ"
@@ -4213,7 +4213,7 @@ graph
     commentcount -1
     duration "PT13M23S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount 627
     duration "PT2M38S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4239,7 +4239,7 @@ graph
     label "bDeJY1O2FIo"
     step 0
     date "2021-08-23T18:41:57Z"
-    title "Matt&#38;#39;s Flat Earth Rally"
+    title "Matts Flat Earth Rally"
     description "matt came in last place in fantasy football&#8230; his punishment was leading a flat earth rally &#127758;&#128683;"
     channeltitle "Two Friends"
     channelid "UCJT9mKSioRGKo8PLUzgzzbA"
@@ -4267,7 +4267,7 @@ graph
     commentcount 77
     duration "PT16M22S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4275,7 +4275,7 @@ graph
     label "zQP_0U_ogmQ"
     step 0
     date "2017-02-18T19:44:54Z"
-    title "Draymond on Kyrie thinking Earth is flat: &#38;quot;it&#38;#39;s not like he&#38;#39;s just blowing smoke &#8230; good research&#38;quot;"
+    title "Draymond on Kyrie thinking Earth is flat: "
     description "Full interview from NBA All-Star practice: https://www.youtube.com/watch?v=4hclGhIuR-o"
     channeltitle "LetsGoWarriors"
     channelid "UCM-HqCzHzjy75wZE5-Cwnbw"
@@ -4285,7 +4285,7 @@ graph
     commentcount 130
     duration "PT51S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 59
     duration "PT10M27S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4311,7 +4311,7 @@ graph
     label "Q_4r06qlc0k"
     step 0
     date "2019-12-11T04:10:32Z"
-    title "Is The Earth Actually FLAT?  |  Mover Mailbag"
+    title "Is The Earth Actually FLAT? | Mover Mailbag"
     description "- Answering questions/comments about the flat earth.&#10;- Raven asks about civilian CFI and the Navy/AF Reserves&#10;-  Scott updates us on his son's journey.&#10;- Plus cool packages/letters in the mail from viewers&#10;www.cwlemoine.com&#10;&#10;cwlemoine@cwlemoine.com&#10;&#10;https://facebook.com/cwlemoine/&#10;https://www.twitter.com/cwlemoine/&#10;https://www.instagram.com/cwlemoine/&#10;&#10;Make Them Tell You No Facebook Group:&#10;&#10;https://www.facebook.com/groups/makethemtellyouno/"
     channeltitle "C.W. Lemoine"
     channelid "UCEodFwnfPXdkzVPJZmuzAIg"
@@ -4339,7 +4339,7 @@ graph
     commentcount 922
     duration "PT46S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -4357,7 +4357,7 @@ graph
     commentcount 536
     duration "PT6M35S"
     indegree 12
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -4375,7 +4375,7 @@ graph
     commentcount 452
     duration "PT3M59S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4383,7 +4383,7 @@ graph
     label "RzpoKTbH4x0"
     step 0
     date "2022-01-17T11:22:38Z"
-    title "Proving The Earth Isn&#38;#39;t Flat With My Paramotor. (ENGINE OUT)"
+    title "Proving The Earth Isnt Flat With My Paramotor. (ENGINE OUT)"
     description "Talking about how the earth isn't flat with my Paramotor also had my first engine out, which was kinda fun in a weird way, also shout ou two @Supercar Blondie go check out here videos and channel she will be posting one of my clips on her channel here shortly!&#10;&#10;Instagram@Superchuckcw &#10;&#10;Fsvebook-chucky wright &#10;&#10;Email-Chuckywrightjdm1492@yahoo.com"
     channeltitle "Chucky Wright"
     channelid "UCQJvSZWgcL1a3O6ZK-UisTQ"
@@ -4393,7 +4393,7 @@ graph
     commentcount 734
     duration "PT9M40S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4401,7 +4401,7 @@ graph
     label "vCzPpEEtJ5E"
     step 0
     date "2016-04-18T23:50:31Z"
-    title "Flat Earth Girl Still Thinks We&#38;#39;re Dating"
+    title "Flat Earth Girl Still Thinks Were Dating"
     description "In this Reaction Time Episode I reacted to &#34;To Reaction Time&#34; by Schmitty where she talks about how our relationship will never end and it is not my fans choice.&#10;&#10;&#10;Like My Facebook Page: https://www.facebook.com/theofficialtalfishman/?skip_nax_wizard=true&#10;&#10;Follow me on Instagram: https://www.instagram.com/talfishman_/?hl=en&#10;&#10;Follow me on Twitter: https://www.twitter.com/talfishman_&#10;&#10;Link To Video: https://www.youtube.com/watch?v=2_wH2x7I3JU"
     channeltitle "Reaction Time"
     channelid "UChM5Ff2yVeIZ16EWiB081cg"
@@ -4411,7 +4411,7 @@ graph
     commentcount 49089
     duration "PT6M38S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount 634
     duration "PT9M38S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4447,7 +4447,7 @@ graph
     commentcount 1281
     duration "PT7M29S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4465,7 +4465,7 @@ graph
     commentcount 216
     duration "PT5M35S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -4473,7 +4473,7 @@ graph
     label "Fm6VtLLF0ms"
     step 0
     date "2018-01-12T00:30:00Z"
-    title "Kyrie Irving Explains His Flat Earth Conspiracy Theory"
+    title "Kyrie Irving E tongue sticking out lains His Flat Earth Conspiracy Theory"
     description "Kyrie Irving gave his reasoning for saying the earth is flat. Rick Strom &#38; Brett Erlich break it down. Give us your thoughts in the comments below!&#10;&#10;SUBSCRIBE to TYTSPORTS for more free sports news and content!&#10;&#9658; https://www.youtube.com/subscription_center?add_user=tytsports&#10;&#10;Rick Strom&#10;TWITTER: https://twitter.com/rickstrom&#10;INSTAGRAM: https://www.instagram.com/rickystrom&#10;FACEBOOK: https://www.facebook.com/RickStromSports/&#10;&#10;&#10;TYT Sports - one of the most dynamic sports shows on YouTube - is coming to Tune In! We cover all the latest need to know NBA, NFL, MMA, World Football [soccer] and breaking news specifically tailored to the young, dialed-in, and pop-culture savvy sports fan. Subscribe today and prepare to get hooked."
     channeltitle "TYT Sports"
     channelid "UCPahzXZvF8f5bRJ5TNvZS8w"
@@ -4483,7 +4483,7 @@ graph
     commentcount 311
     duration "PT3M45S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount 290
     duration "PT10M34S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 17
     duration "PT1M11S"
     indegree 0
-    cluster 9
+    cluster 1
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 304
     duration "PT14M25S"
     indegree 7
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -4573,7 +4573,7 @@ graph
     commentcount 14
     duration "PT21M58S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4591,7 +4591,7 @@ graph
     commentcount 1765
     duration "PT11M4S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "6nOx6QlnrI4"
     step 0
     date "2021-02-01T20:59:29Z"
-    title "&#163;10,000 Flat Earth Challenge -- Response #shorts #flatearth"
+    title "10,000 Flat Earth Challenge -- Response #shorts #flatearth"
     description "A YouTuber has offered &#163;10,000 to anyone who can refute his flat earth argument. Here's hopin'.&#10;Subscribe for more zany math content: youtube.com/c/mathadam?sub_confirmation=1&#10;Read my stuff: https://mathadam.medium.com&#10;Leave me a tip: https://ko-fi.com/mathadam&#10;&#10;Here's the source of the challenge:&#10;https://www.youtube.com/channel/UC7kYUQLbyhhMFb6TlzZ4U0Q"
     channeltitle "MathAdam, ADHD  "
     channelid "UCFm-YJ604J7kpst5FDwQ6vQ"
@@ -4609,7 +4609,7 @@ graph
     commentcount 190
     duration "PT32S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4627,7 +4627,7 @@ graph
     commentcount -1
     duration "PT1H3M11S"
     indegree 7
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4635,7 +4635,7 @@ graph
     label "wTnqWuP1PNM"
     step 0
     date "2017-08-04T12:00:10Z"
-    title "Earth? Sphere? or Flat Surface? | Urdu/Hindi | &#1583;&#1606;&#1740;&#1575;&#1567; &#1587;&#1575;&#1583;&#1729; &#1587;&#1591;&#1581;&#1567; &#1740;&#1575; &#1711;&#1608;&#1604;&#1575;&#1567; | Goher Ali Rizvi"
+    title "Earth? Sphere? or Flat Surface? | Urdu/Hindi | | Goher Ali Rizvi"
     description "This Video is based on translation of VSauce &#34;Is Earth Actually Flat?&#34; &#10;https://www.youtube.com/watch?v=VNqNnUJVcVs&#10;&#10;This Video describes the earth spherical shape when Greeks first found out about the earth surface to be spherical by doing experiments in the sea or by placing poles at different places and measuring shadows at different times. To not only prove spherical earth but also calculating circumference of the earth with great accuracy. &#10;&#10;Also how modern era introduced the Term Flat Earth and &#34;Flat Earth Societies&#34; to mock people who believe in spherical shape of earth and other religions or other people who are not pro science. &#10;&#10;This video is in Urdu / hindi language to clarify how a disk shape of earth will not be practical and it will collapse in its own weight and gravity and become sphere like Sun, Moon, Jupiter, Saturn, and other planets or stars. &#10;&#10;Related links in favour of Flat Earth&#10;https://en.wikipedia.org/wiki/Flat_Earth&#10;&#10;https://en.wikipedia.org/wiki/Modern_flat_Earth_societies&#10;&#10;https://www.tfes.org/&#10;&#10;Links in favour of Spherical Earth&#10;https://en.wikipedia.org/wiki/Spherical_Earth&#10;&#10;http://www.popsci.com/10-ways-you-can-prove-earth-is-round&#10;&#10;http://scienceblogs.com/startswithabang/2011/09/21/who-discovered-the-earth-is-ro/&#10;&#10;http://practicalphysics.org/greek-evidence-earths-shape-and-spin.html&#10;&#10;https://futurism.com/facts-obvious/&#10;&#10;like my videos on http://youtube.com/MyChannelVides"
     channeltitle "My Channel Video"
     channelid "UCa_-A9mKidMeWWujBtv10cg"
@@ -4645,7 +4645,7 @@ graph
     commentcount 150
     duration "PT4M14S"
     indegree 0
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -4653,7 +4653,7 @@ graph
     label "1ag0jCOcAMk"
     step 0
     date "2019-06-18T00:35:07Z"
-    title "THE EARTH IS FLAT | DESTINY DEBATES JON ZHERKA  - Scuffed Podcast Episode 45"
+    title "THE EARTH IS FLAT | DESTINY DEBATES JON ZHERKA - Scuffed Podcast Episode 45"
     description "BECOME PART OF THE APE GANG - https://bit.ly/ApeGang&#10;&#10;My Social Media&#10;&#9658; Twitch: https://twitch.tv/trainwreckstv &#10;&#9658; Twitter: https://twitter.com/trainwreckstv &#10;&#9658; Instagram: https://www.instagram.com/tylerniknam/ &#10;&#9658; Reddit: https://www.reddit.com/r/trainwreckstv &#10;&#9658; Discord: https://discord.gg/kJNgmwY &#10;&#10;BUSINESS INQUIRIES ONLY!&#10;trainwreckstv.inquiries@gmail.com"
     channeltitle "Trainwreckstv"
     channelid "UCbYVxiNJmsbhvlUmy4_JbXA"
@@ -4663,7 +4663,7 @@ graph
     commentcount 1528
     duration "PT5H17M1S"
     indegree 3
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     commentcount 24343
     duration "PT16M11S"
     indegree 33
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount 1537
     duration "PT4M3S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 4702
     duration "PT7M19S"
     indegree 3
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4725,7 +4725,7 @@ graph
     label "EEzy6jqLoFk"
     step 0
     date "2020-01-28T19:49:21Z"
-    title "Flat Earth FC | Football&#38;#39;s weirdest club? | Team 33"
+    title "Flat Earth FC | Footballs weirdest club? | Team 33"
     description "Enda Coll chats to Charlie Carmichael from Copa90 about Flat Earth FC - a club that is gaining traction in Spain's fourth division."
     channeltitle "Off The Ball"
     channelid "UCfGDs3EEl0RHUwgdEGeCL_A"
@@ -4735,7 +4735,7 @@ graph
     commentcount 23
     duration "PT8M37S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 5457
     duration "PT1M19S"
     indegree 3
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 735
     duration "PT1H4M52S"
     indegree 4
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -4779,7 +4779,7 @@ graph
     label "OVT8RmZL49Q"
     step 0
     date "2021-12-23T23:52:47Z"
-    title "Is the EARTH FLAT? &#127758; #shorts"
+    title "Is the EARTH FLAT? #shorts"
     description ""
     channeltitle "Dan Rhodes"
     channelid "UC6D1L2vxEAg_Vi0JSxMBDgA"
@@ -4797,7 +4797,7 @@ graph
     label "7RVRKzFVDq4"
     step 0
     date "2018-05-09T03:27:49Z"
-    title "The Flat Earth Sails &#38;#39;Footloose 80&#38;#39;"
+    title "The Flat Earth Sails "
     description "Introducing the Flat Earth Sails 'Footloose '80', a sail for experienced kayak sailors looking for more outright drive to catch running seas and/or those paddling heavy kayaks. an addition to the Flat Earth Kayak Sails range designed as a compact sail ideally suited to those experienced and adventurous kayaker sailors chasing some more performance without going to a bigger sail."
     channeltitle "Mark Sundin"
     channelid "UC89iDiqPSn1kiaFwGhrMXlA"
@@ -4807,7 +4807,7 @@ graph
     commentcount 5
     duration "PT1M49S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4815,7 +4815,7 @@ graph
     label "BYLlf7zbIlk"
     step 0
     date "2020-01-09T11:30:51Z"
-    title "Flat Earth &#38;amp; The Cavendish Experiment - Debunk The Funk #13"
+    title "Flat Earth The Cavendish E tongue sticking out eriment - Debunk The Funk #13"
     description "Recent episodes have explored the Flat Earth denial of gravity.&#160; In this latest installment of that exploration, Henry Cavendish's famous experiment (aptly called the &#34;Cavendish Experiment&#34;) is recreated in a qualitative, classroom setting.&#160; By using high density masses (lead bricks), visually compelling evidence of matter attracting matter is presented.&#10;&#10;For complete context, you may wish to first view the two previous episodes concerning Flat Earth and gravity:&#10;&#10;&#34;Flat Earth Gravity and Density&#34; - Debunk The Funk #11&#10;https://youtu.be/aEu97LMgz_M&#10;&#10;&#34;Flat Earth Electrostatic Gravity&#34; - Debunk The Funk #12https://youtu.be/dM5zB6GopZE&#10;&#10;Debunk The Funk is a series aimed at both exploring claims and their evidence (or lack thereof), along with developing critical thinking skills involved with logical arguments.&#10;&#10;The world needs critical thinkers...&#10;...Make sure you're one of them!"
     channeltitle "MrLundScience"
     channelid "UCrbmaC4rwojt9uKB33yN4Qg"
@@ -4825,7 +4825,7 @@ graph
     commentcount 194
     duration "PT13M33S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4851,7 +4851,7 @@ graph
     label "I6HanZWOFmw"
     step 0
     date "2018-08-30T17:00:09Z"
-    title "Fact Checking Yung Bans&#38;#39; Flat Earth Theory In &#8221;Round&#38;quot; | Lyrics That Don&#38;#39;t Add Up"
+    title "Fact Checking Yung Banst Add Up"
     description "Yung Bans&#8216; recent song &#8220;Round&#8221; contains a line that simply doesn&#8217;t add up. The Juice WRLD collaboration is the seventh track from his 2018 project 'Yung Bans Vol. 5' and features Bans questioning whether the Earth is actually round.&#10;&#10;Read more on Genius: https://genius.com/Yung-bans-round-lyrics&#10;&#10;Read all the lyrics to &#34;Round&#34; on Genius: https://genius.com/Yung-bans-round-lyrics&#10;&#10;Subscribe to Genius: http://bit.ly/2cNV6nz&#10;Genius on Twitter: https://twitter.com/Genius&#10;Genius on Instagram: http://instagram.com/genius&#10;Genius on Facebook: https://facebook.com/Geniusdotcom&#10;http://genius.com"
     channeltitle "Genius"
     channelid "UCyFZMEnm1il5Wv3a6tPscbA"
@@ -4879,7 +4879,7 @@ graph
     commentcount 16035
     duration "PT55S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 2
     duration "PT56S"
     indegree 0
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 7856
     duration "PT11M24S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4923,7 +4923,7 @@ graph
     label "8qoVahR6YOo"
     step 0
     date "2019-12-24T12:08:03Z"
-    title "Here&#38;#39;s what would happen if the Earth was actually flat"
+    title "Heres what would happen if the Earth was actually flat"
     description "It's not just lunar eclipses that would look different if Earth were actually flat.&#10;&#10;Sports, plants, and even the oceans would be radically different.&#10;&#10;With help from Caleb Scharf &#8212; author of &#34;The Zoomable Universe&#34; and director of the multidisciplinary Columbia Astrobiology Center at Columbia University - we figured out just how different flat Earth life would be compared to living on a sphere.&#10;#flatearth &#10;&#10;Original article published Dec 1, 2017.&#10;--------------------------------------------------&#13;&#10;Follow Business Insider SA on Twitter: https://bit.ly/2FWYoVE &#13;&#10;Follow Business Insider SA on Facebook: https://bit.ly/2G5BZBx &#13;&#10;Follow Business Insider SA on Instagram: https://bit.ly/2DOPrb0 &#13;&#10;Read more on Business Insider SA:  https://www.businessinsider.co.za/ &#13;&#10;-------------------------------------------------- &#13;&#10;Fast, fair, fearless and fun &#8211; this is the Business Insider way."
     channeltitle "Business Insider South Africa"
     channelid "UCqZkPKlA0qkQVfgn9bDFJaQ"
@@ -4933,7 +4933,7 @@ graph
     commentcount 0
     duration "PT2M15S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -4941,7 +4941,7 @@ graph
     label "ruPYiLnkFqs"
     step 0
     date "2018-10-13T22:37:37Z"
-    title "Flat &#128079; Earth &#128079; Time!"
+    title "Flat Time!"
     description "Wake up Sheeple! Thanks for watching!&#10;Like, Comment and Subscribe for more videos!&#10;&#10;Links:&#10;SOG WIKI: someordinarygamers.wikia.com&#10;REDDIT: http://www.reddit.com/r/SomeOrdinaryG...&#10;Like us on Facebook: https://www.facebook.com/SomeOrdinary...&#10;Follow us on Twitter: https://twitter.com/#!/OrdinaryGamers&#10;Our Blog: http://someordinarygamers.blogspot.ca/&#10;Our Livestream: http://www.twitch.tv/someordinarygamers&#10;&#10;#flatearth #becomewoke"
     channeltitle "SomeOrdinaryGamers"
     channelid "UCtMVHI3AJD4Qk4hcbZnI9ZQ"
@@ -4987,7 +4987,7 @@ graph
     commentcount 152
     duration "PT53M43S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount 17
     duration "PT1M"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5013,7 +5013,7 @@ graph
     label "dmMNau6WAWM"
     step 0
     date "2017-09-14T09:05:22Z"
-    title "Conspiracy Theory |&#160;Is the Earth Flat?? &#128561;&#128561;&#128561;"
+    title "Conspiracy Theory |"
     description "In this English vocabulary lesson, I teach you what a conspiracy theory is. Do you think the earth is round or flat? What about 9/11? Did George Bush know about it??&#10;&#10;My channel is about learning English. I try to make creative and fun lessons to help you learn vocabulary, grammar, pronunciation, verb tenses, idioms, IELTS and TOEFL preparation, and much more! My videos will help you improve your English speaking, reading, writing, and listening. If you don't understand something I say or have any questions for me, please just ask! I reply to all the comments on my videos! I make new lessons every day so follow me on Facebook and YouTube! &#128515;&#10;&#10;You can always find my YouTube homepage at:&#10;Youtube.com/madenglishtv&#10;&#10;Follow me on Facebook!&#10;https://www.facebook.com/madenglishtv/&#10;&#10;Here are the links to my playlists.&#10;&#10;English Vocabulary&#10;https://www.youtube.com/playlist?list=PL2-SI2qqn8uQEtKUOMHkGpTt2uw4r-Gm4&#10;&#10;Verb Tenses&#10;https://www.youtube.com/playlist?list=PL2-SI2qqn8uRwSh-TZIensKaA_UKSgwR8&#10;&#10;Pronunciation &#10;https://www.youtube.com/playlist?list=PL2-SI2qqn8uTqXa8q_pXg3mj8frl8jmq4&#10;&#10;Relax &#38; Repeat&#10;https://www.youtube.com/playlist?list=PL2-SI2qqn8uRG5dzSRZPMfCYUWq1cDSF0&#10;&#10;Travel English&#10;https://www.youtube.com/playlist?list=PL2-SI2qqn8uRtVXjk1gdDmR4kS2mIcCPl&#10;&#10;Business English&#10;https://www.youtube.com/playlist?list=PL2-SI2qqn8uQUYZFcceN9Nu_0FtarAwM4&#10;&#10;English Grammar&#10;https://www.youtube.com/playlist?list=PL2-SI2qqn8uQUmwumF9nhqZNZfiYNXOoq"
     channeltitle "Mad English TV"
     channelid "UCUeS2Jmgiu0OFaTeRqkuXtw"
@@ -5023,7 +5023,7 @@ graph
     commentcount 50
     duration "PT4M41S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 71
     duration "PT3M28S"
     indegree 8
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 2004
     duration "PT4M5S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 170
     duration "PT16M59S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -5085,7 +5085,7 @@ graph
     label "R6FhgjNZnnc"
     step 0
     date "2021-08-16T03:00:08Z"
-    title "Did Sheikh Bin Baz say that the earth is flat &#38;amp; whoever says otherwise is an atheist Assim al hakeem"
+    title "Did Sheikh Bin Baz say that the earth is flat whoever says otherwise is an atheist Assim al hakeem"
     description "Access course materials, Test your knowledge &#38; Get certified for FREE at https://ilmine.illumeacademy.com/courses/operation-hd-fiqh-of-marriage-sh-assim-al-hakeem/&#10;&#10;Coupon code: SHASSIM20&#10;&#10;Need One to One live Counseling with Sheikh Assim?:&#10;&#10;https://www.assimalhakeem.net/announcement/&#10;&#10;Do you have a question:&#10;&#10;https://www.assimalhakeem.net/ask-a-question/&#10;&#10;http://www.assimalhakeem.net/&#10;&#10;http://www.youtube.com/assimalhakeem/&#10;&#10;https://www.facebook.com/SheikhAssimAlhakeemTeam/&#10;&#10;http://twitter.com/Assimalhakeem"
     channeltitle "assimalhakeem"
     channelid "UCWsdcrre0WbCWML_PnuzoAg"
@@ -5095,7 +5095,7 @@ graph
     commentcount -1
     duration "PT1M45S"
     indegree 1
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -5103,7 +5103,7 @@ graph
     label "5o3N1-iIoi0"
     step 0
     date "2020-09-20T17:30:40Z"
-    title "Is the earth spherical or flat?  Airlines tell us the answer"
+    title "Is the earth spherical or flat? Airlines tell us the answer"
     description "Expected travel times between airports would be very different if we lived on a flat earth.  For example, flying from Sydney, Australia to Santiago, Chile would be around 22 hours, if it were even possible.  Surely it would take much longer than flying from Sydney to Los Angeles, right?"
     channeltitle "Andrew Gatt"
     channelid "UCbtNNKCULpM6e-EQMbPNkjg"
@@ -5113,7 +5113,7 @@ graph
     commentcount 157
     duration "PT4M58S"
     indegree 6
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 39
     duration "PT1M53S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5139,7 +5139,7 @@ graph
     label "1XgUS__FqPk"
     step 0
     date "2022-01-07T00:16:48Z"
-    title "&#38;quot;THE EARTH IS FLAT&#38;quot;"
+    title ""
     description "MY PLAYLIST&#127926;: https://open.spotify.com/playlist/0aBV8h7Sd0yDEntG26TsAD?si=74a2fd14822d4339&#38;nd=1&#10;&#10;10,000 LIKES AND I'LL BE HAPPY &#3900;&#12388; &#9685;_&#9685; &#3901;&#12388;&#10;&#10;&#128126; DISCORD: https://discordapp.com/invite/VTfHC3C&#10;&#128074; SUBSCRIBE: https://tinyurl.com/SubscribePancho&#10;&#128233; BUSINESS CONTACT: pancho@moreyellow.com"
     channeltitle "Pancho"
     channelid "UCeRjIpQ9koLZxfRnPa1z6Sg"
@@ -5149,7 +5149,7 @@ graph
     commentcount 1404
     duration "PT9M5S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -5175,7 +5175,7 @@ graph
     label "SPS6vaVgK6k"
     step 0
     date "2017-05-19T00:54:32Z"
-    title "Steve-O Debunks Flat Earth Theory in 2 Minutes - The Joe Rogan Experience"
+    title "Steve-O Debunks Flat Earth Theory in 2 Minutes - The Joe Rogan E tongue sticking out erience"
     description "Steve-O Debunks Flat Earth Theory in 2 Minutes.&#10;&#10;Taken from Joe Rogan Experience #960."
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
@@ -5185,7 +5185,7 @@ graph
     commentcount 12365
     duration "PT2M32S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5203,7 +5203,7 @@ graph
     commentcount 4787
     duration "PT4M9S"
     indegree 4
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -5211,7 +5211,7 @@ graph
     label "Y1FN0Dl05nw"
     step 0
     date "2017-03-21T20:59:12Z"
-    title "Shaq: &#8216;The earth is flat&#8217;"
+    title "Shaq: "
     description "Former NBA big-man Shaquille O&#8217;Neal comes out as an apparent flat-earther. The TNT basketball analyst backed-up Cleveland Cavaliers player Kyrie Irving&#8217;s comments, that the world is not round, but actually flat"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -5221,7 +5221,7 @@ graph
     commentcount 1384
     duration "PT2M7S"
     indegree 1
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 1056
     duration "PT15M17S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5257,7 +5257,7 @@ graph
     commentcount 1015
     duration "PT5M1S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 6
     duration "PT1M16S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5301,7 +5301,7 @@ graph
     label "_5w_hUfihmA"
     step 0
     date "2021-06-08T22:51:30Z"
-    title "&#38;quot;THE EARTH IS FLAT&#38;quot;"
+    title ""
     description "&#127926; SPOTIFY PLAYLIST: https://open.spotify.com/playlist/0aBV8h7Sd0yDEntG26TsAD?si=74a2fd14822d4339&#10;&#128038;TWITTER: http://twitter.com/panchosibored&#10;&#129302; DISCORD: discord.gg/pancho&#10;&#128233; BUSINESS CONTACT: pancho@moreyellow.com This girl thinks that the earth is flat, today we look at laugh about it.&#10;&#10;10,000 LIKES AND I'LL BE HAPPY &#3900;&#12388; &#9685;_&#9685; &#3901;&#12388;"
     channeltitle "Pancho"
     channelid "UCeRjIpQ9koLZxfRnPa1z6Sg"
@@ -5311,7 +5311,7 @@ graph
     commentcount 10581
     duration "PT8M9S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount 583
     duration "PT3M50S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 353
     duration "PT14M41S"
     indegree 1
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 303
     duration "PT20M18S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     commentcount 4410
     duration "PT8M26S"
     indegree 19
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5419,7 +5419,7 @@ graph
     commentcount 765
     duration "PT5M13S"
     indegree 1
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -5427,7 +5427,7 @@ graph
     label "jmCkHSvB0GU"
     step 0
     date "2018-04-01T13:09:54Z"
-    title "April Fool&#38;#39;s Day - Why We Believe The EARTH IS FLAT!!! | 90+ Countries w/3 kids"
+    title "April Fools Day - Why We Believe The EARTH IS FLAT!!! | 90+ Countries w/3 kids"
     description "April Fools!!! &#10;&#10;Join us today as we reveal the truth about the earth being flat!&#10;&#10;We have traveled around the world and interviewed people from many countries to find out what others believe. &#10;&#10;Here&#8217;s what we found out and why we are now Flat Earthers too!!!&#10;&#10;Enjoy the video! &#10;&#10;_________________________________________________________________&#10;Living life while exploring and discovering 90+ countries around the world! &#10;&#10;Learn more at: &#10;&#10;&#10025; WEBSITE/BLOG: http://www.GrowingUpWithoutBorders.com&#10;&#10;&#10025; INSTAGRAM: https://www.instagram.com/growingupwithoutborders&#10;&#10;&#10025; FACEBOOK: https://www.facebook.com/growingupwithoutborders&#10;&#10;&#10025; Musica.ly: GrowingUpWB"
     channeltitle "Growing Up Without Borders"
     channelid "UCxXqRGeCRCMgZaQIrAP03mw"
@@ -5437,7 +5437,7 @@ graph
     commentcount 68
     duration "PT15M24S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5445,7 +5445,7 @@ graph
     label "W0UcdY62Sw4"
     step 0
     date "2017-09-29T09:51:02Z"
-    title "Flat Earth &#38;amp; The Sun&#38;#39;s Diameter - Debunk The Funk #2"
+    title "Flat Earth s Diameter - Debunk The Funk #2"
     description "According to the majority of Flat Earth models, the Sun is assumed to be relatively close to the Earth, and moves along a circular path above us.  For this to be true, the Flat Earth Sun *must* change apparent size in the sky throughout the day.  So...does it?&#10;&#10;In this second episode of Debunk The Funk, we aim to do exactly what Flat Earth enthusiasts ask everyone to do:  We &#34;test it out&#34;.  Using only easy to acquire items (and cheap, too), we measure the apparent size of the Sun throughout the day.  Let's see if the Flat Earth model holds up when compared to empirical evidence.&#10;&#10;Debunk The Funk is a series aimed at both exploring claims and their evidence (or lack thereof), along with developing critical thinking skills involved with logical arguments.&#10;&#10;The world needs critical thinkers...&#10;...Make sure you're one of them!"
     channeltitle "MrLundScience"
     channelid "UCrbmaC4rwojt9uKB33yN4Qg"
@@ -5455,7 +5455,7 @@ graph
     commentcount 112
     duration "PT18M31S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5463,7 +5463,7 @@ graph
     label "JM6W2fVxKEY"
     step 0
     date "2017-06-02T00:18:41Z"
-    title "Debunking Flat Earth &#38;#39;Density &#38;amp; Buoyancy&#38;#39; (Part 1)"
+    title "Debunking Flat Earth (Part 1)"
     description "Helping Flattys understand science (Density and buoyant force)&#10;&#10;Courtesies:&#10;&#10;Ricky Gervais' Clip: https://www.youtube.com/watch?v=XxnpAQh8vPQ&#38;t=29s&#10;Vacuum Chamber: https://www.youtube.com/watch?v=E43-CfukEgs&#10;ODD REALITY Video: https://www.youtube.com/watch?v=k0xClWgidZU&#38;t=1339s&#10;&#10;Music: https://www.youtube.com/watch?v=P0nWNY06FIc"
     channeltitle "Badzilla"
     channelid "UC78CNYDm55nw-rI7ZsZpIzw"
@@ -5473,7 +5473,7 @@ graph
     commentcount 125
     duration "PT11M51S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 364
     duration "PT52S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5509,7 +5509,7 @@ graph
     commentcount 807
     duration "PT13M5S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5517,7 +5517,7 @@ graph
     label "v0HZRbHXhVo"
     step 0
     date "2021-05-29T18:09:43Z"
-    title "Comedians on &#38;#39;Flat Earth Theory&#38;#39;"
+    title "Comedians on "
     description "Comedians on 'Flat Earth Theory'&#10;&#10;Support the Channel&#10;https://www.buymeacoffee.com/LaughPl&#10;&#10;MERCH&#10;https://thelaughplanet.creator-spring.com/&#10;&#10;Video Features:&#10;&#10;Dave Chappelle (Jimmy Kimmel)&#10;https://www.youtube.com/watch?v=2Ma95M_Ts8s&#10;&#10;Norm Macdonald (Larry King)&#10;https://www.youtube.com/watch?v=2_i0uvsyTPg&#10;&#10;Theo Von&#10;https://www.youtube.com/watch?v=sfFxIho1pxA&#38;t=274s&#10;&#10;Bill Burr (MMP)&#10;https://www.youtube.com/user/MondayMorningPodcast&#10;&#10;Instagram: https://www.instagram.com/thelaughplanetofficial/&#10;Youtube Channel:  https://www.youtube.com/channel/UCiI_jyH_0yttWG-m5fBYGmA&#10;Twitter: https://twitter.com/laugh_planet&#10;Website: http://thelaughplanet.com&#10;&#10;Contact us: ash98jha@gmail.com (For video removal / Credits / Promotions)&#10;&#10;#EarthIsNotFlat #Comedy #LaughPlanet"
     channeltitle "LaughPlanet"
     channelid "UCjsExtizDZK6SMBw6pSZOPQ"
@@ -5535,7 +5535,7 @@ graph
     label "pbaRQL1xuCM"
     step 0
     date "2020-04-03T13:21:20Z"
-    title "Flat Earth Seasons &#38;amp; Solstice - Debunk The Funk #14"
+    title "Flat Earth Seasons Solstice - Debunk The Funk #14"
     description "Why do the seasons change?&#160; Also, what makes a scientific model a good one?&#160; Both questions are examined as we consider seasonal changes from the viewpoint of Flat Earth versus modern cosmology.&#160; Then, the Flat Earth model's explanation for the seasons is put to the test with an experiment you can recreate in your own back yard.&#10;&#10;For details on how to duplicate the solar grid used for measurements, see:&#10;&#34;Flat Earth &#38; The Sun's Diameter&#34; - Debunk The Funk #2&#10;https://www.youtube.com/watch?v=W0UcdY62Sw4&#160;&#160;&#10;&#10;Debunk The Funk is a series aimed at both exploring claims and their evidence (or lack thereof), along with developing critical thinking skills involved with logical arguments.&#10;&#10;The world needs critical thinkers...&#10;...Make sure you're one of them!"
     channeltitle "MrLundScience"
     channelid "UCrbmaC4rwojt9uKB33yN4Qg"
@@ -5545,7 +5545,7 @@ graph
     commentcount 127
     duration "PT15M20S"
     indegree 5
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5553,7 +5553,7 @@ graph
     label "iQF9_pzAkoY"
     step 0
     date "2018-03-21T19:58:33Z"
-    title "Joe Rogan Explains Eddie Bravo&#38;#39;s Flat Earth Beliefs"
+    title "Joe Rogan E tongue sticking out lains Eddie Bravos Flat Earth Beliefs"
     description "Joe Rogan and Pat Miletich on Eddie Bravo and Flat Earth."
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
@@ -5563,7 +5563,7 @@ graph
     commentcount 865
     duration "PT5M20S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5571,7 +5571,7 @@ graph
     label "s2roEA81Vx8"
     step 0
     date "2020-09-25T13:00:12Z"
-    title "Is the EARTH FLAT? &#127758;&#128371; | 10 Space Questions In 10 Minutes! &#128105;&#8205;&#128640;&#10024;&#128640;"
+    title "Is the EARTH FLAT? "
     description "What is the biggest Planet? How many rovers are there on Mars? What is at the centre of our galaxy? Is the Earth flat?&#10;&#10;In this video I answer these questions and more!&#10;&#10;Have any questions about Space?&#10;Well now is your chance to get the answers!&#10;Leave a Comment down below with your question and you could feature in an upcoming video!&#10;&#10;Stay safe&#10;-Damon"
     channeltitle "Damon Scotting"
     channelid "UCfa7MqiicQeOj-vYj0uXedw"
@@ -5617,7 +5617,7 @@ graph
     commentcount 1066
     duration "PT3M18S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount -1
     duration "PT1M1S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 65
     duration "PT14M7S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -5671,7 +5671,7 @@ graph
     commentcount 327
     duration "PT2M16S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5707,7 +5707,7 @@ graph
     commentcount 526
     duration "PT4M5S"
     indegree 7
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -5725,7 +5725,7 @@ graph
     commentcount 38
     duration "PT27S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -5733,7 +5733,7 @@ graph
     label "zHLtRKjLqxU"
     step 0
     date "2017-03-25T00:55:41Z"
-    title "Exposing the Flat Earth Myth with Robert Carter"
+    title "E tongue sticking out osing the Flat Earth Myth with Robert Carter"
     description "The Flat Earth conspiracies have risen over the past few years and we thought it would be fun to have on creation scientist Robert Carter to explain how the theories of Flat Earth just don't line up with actual, Biblical science. &#10;&#10;We put out a preview a few weeks ago but since it stirred up so much controversy, we thought it would be best to have the entire episode on the flat earth uploaded for our YouTube subscribers.&#10;&#10;Watch more episodes of Apologia TV with Apologia All-Access.&#10;&#10;http://apologiaradio.com/all-access-signup"
     channeltitle "Apologia Studios"
     channelid "UCK9RJwC7Er16-Y8dvIQ-3tw"
@@ -5743,7 +5743,7 @@ graph
     commentcount 410
     duration "PT28M31S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount 246
     duration "PT19M34S"
     indegree 5
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 229
     duration "PT2M33S"
     indegree 6
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -5787,7 +5787,7 @@ graph
     label "4mWgKM0myOk"
     step 0
     date "2019-07-28T06:30:00Z"
-    title "Is The Earth Flat Experiment!"
+    title "Is The Earth Flat E tongue sticking out eriment!"
     description "This week we use a highly scientific experiment to determine whether the Earth is flat or round once and for all. Our findings are final and 100% accurate. Show this video to any flat earthers and round earthers alike. We need to spread the word. &#10;You're welcome. &#10;--&#10;Give our Facebook page a cheeky like!&#10;https://www.facebook.com/martyandmichael&#10;&#10;We also have really disgusting Instagram accounts! @ringwormmarty @ringwormmichael&#10;&#10;And... and I guess snapchat too @martyrunsfast @mikerunslow&#10;&#10;YouTube:&#10;EMDC Network&#10;&#10004;Facebook: https://emdc.yt/EMDCFB&#10;&#10004;Instagram: https://emdc.yt/EMDCIN&#10;&#10004;Web: http://emdcnetwork.com"
     channeltitle "Marty and Michael"
     channelid "UC-0rc6xMif7jpVLW4Gl6xYw"
@@ -5815,7 +5815,7 @@ graph
     commentcount 36
     duration "PT5M40S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5823,7 +5823,7 @@ graph
     label "EyodLy9akSk"
     step 0
     date "2022-07-09T03:02:55Z"
-    title "Rabbi Lists 5 Reasons Why Flat Earth Conspiracies Aren&#38;#39;t Stupid"
+    title "Rabbi Lists 5 Reasons Why Flat Earth Conspiracies Arent Stupid"
     description "Rabbi Schmuel Pollen is going to give us 5 reasons why we should consider the Flat Earth model. He claims these reasons prove that Flat Earth conspiracies aren't stupid. He is only going to be bringing the best arguments they have. Thinks like &#34;Water flat, therefore, earth flat&#34; and &#34; why don't the earth fall.&#34; So only the best reasons to consider the Flat Earth model.&#10;&#10;original video: [coming soon]&#10;&#10;Chapters&#13;&#10;===========&#13;&#10;&#13;&#10;Info:&#13;&#10;============&#13;&#10;&#13;&#10;Daily Bible Podcast: http://www.thedailybiblepodcast.com&#13;&#10;Subscribe to this channel: http://SubToGE.com&#13;&#10;Join the Skeptic Mafia: http://JoinSkepticMafia.com&#13;&#10;Discord Server: http://bit.ly/JoinGodlessDiscord&#13;&#10;&#13;&#10;Available Deals&#13;&#10;--------------------------------------------------------------------------&#13;&#10;Get 15% off Ridge Wallets: http://godlessengineering.com/ridgedeal&#13;&#10;--------------------------------------------------------------------------&#13;&#10;&#13;&#10;Merch&#13;&#10;--------------------------------------------------------------------------&#13;&#10;Download CHRESTUS: https://chrest.us&#13;&#10;Get your &#34;Citation Fucking Needed&#34; Shirt: http://citationfuckingneeded.com&#13;&#10;&#34;got evidence?&#34; shirt: http://gotevidenceshirt.com&#13;&#10;&#34;btw, evolution is a fact&#34; shirt: http://btwevolutionisafact.com&#13;&#10;----------------------------------------------------------------------------"
     channeltitle "Godless Engineer"
     channelid "UCrZIJrn0gcLGDW2BfF_JuGg"
@@ -5833,7 +5833,7 @@ graph
     commentcount 112
     duration "PT1H49M40S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 444
     duration "PT5M8S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -5859,7 +5859,7 @@ graph
     label "mayqd9oX7fg"
     step 0
     date "2017-02-20T03:19:29Z"
-    title "Earth is Undeniably Flat: &#38;#39;This is not even a conspiracy theory&#38;#39; Says NBA Star Kyrie Irving"
+    title "Earth is Undeniably Flat: Says NBA Star Kyrie Irving"
     description "NBA all star Kyrie Irving of the Cleveland Cavaliers says the earth is flat and its not even a conspiracy theory.&#10;&#10;&#9658;Subscribe for more videos!  http://bit.ly/1Mo6FxX   &#10;&#9658;Check out my food channel!  http://bit.ly/1hsxh41   &#10;&#9733;&#8595;FOLLOW ME ON SOCIAL MEDIA!&#8595;&#9733;  &#10;Facebook Show Page:  https://www.facebook.com/beyondsciencetv   &#10;Facebook Mike Fan Page:  http://on.fb.me/1En9Lue   &#10;Instagram:  http://instagr.am/Mikexingchen   &#10;Twitter:  http://twitter.com/Mikexingchen   &#10;Snapchat: Mikeychenx  &#10;Periscope: Mikexingchen  &#10;  &#10;Music:&#10;Legend of One Kevin MacLeod&#10;Licensed under Creative Commons: By attribution 3.0 License&#10;http://creativecommons.org/licenses/b...&#10;&#10;Get tickets to the best show on earth!!!  &#10; https://www.shenyunperformingarts.org/"
     channeltitle "Beyond Science"
     channelid "UCxo8ooAqXiObjuaIy10ud0A"
@@ -5869,7 +5869,7 @@ graph
     commentcount 5528
     duration "PT5M7S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 3508
     duration "PT3M12S"
     indegree 1
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -5905,7 +5905,7 @@ graph
     commentcount 9453
     duration "PT11M27S"
     indegree 2
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -5931,7 +5931,7 @@ graph
     label "2z3quJk_mWw"
     step 0
     date "2015-08-11T13:42:41Z"
-    title "&#38;quot;Earth Not A Globe&#38;quot;: Ouse Washes Flat Earth Trials 2015"
+    title ": Ouse Washes Flat Earth Trials 2015"
     description "A re-enactment of the Flat Earth Trials by Cambridge Archaeological Unit. Originally carried out on the Old Bedford River. Filmed at OuseFest 2015 at Denver Sluice, 28 July 2015.&#10;&#10;Cambridge Archaeological Unit: www-cau.arch.cam.ac.uk&#10;&#10;Ouse Washes Landscape Partnership: www.ousewashes.org.uk"
     channeltitle "Ouse Washes"
     channelid "UCrYRvY6vxMbOHeH2ZeLtO3g"
@@ -5941,7 +5941,7 @@ graph
     commentcount 5
     duration "PT3M24S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5959,7 +5959,7 @@ graph
     commentcount 115
     duration "PT4M16S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 20
     duration "PT1M1S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 5
     duration "PT7M42S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 13
     duration "PT2M31S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6021,7 +6021,7 @@ graph
     label "HpUUbPFiEoY"
     step 0
     date "2018-04-03T14:48:11Z"
-    title "Flat Earth Concept Explained | Urdu / Hindi | My Channel Video | Goher Ali Rizvi"
+    title "Flat Earth Concept E tongue sticking out lained | Urdu / Hindi | My Channel Video | Goher Ali Rizvi"
     description "This video explains about flat earth and their concept their believe and the ideas that they put forward to support their claim.&#10;&#10;Read More about the concept here&#10;https://wiki.tfes.org/Frequently_Asked_Questions&#10;&#10;https://wiki.tfes.org/Sinking_Ship_Effect&#10;&#10;https://www.livescience.com/24310-flat-earth-belief.html&#10;&#10;https://en.wikipedia.org/wiki/Flat_Earth&#10;&#10;https://en.wikipedia.org/wiki/Modern_flat_Earth_societies&#10;&#10;https://www.forbes.com/sites/forbeshumanresourcescouncil/2018/01/16/the-earth-is-flat-three-keys-to-winning-in-an-evolving-economic-landscape/&#10;&#10;https://www.forbes.com/sites/startswithabang/2017/11/24/five-impossible-facts-that-would-have-to-be-true-if-the-earth-were-flat/&#10;&#10;https://www.forbes.com/sites/trevornace/2017/08/22/flat-earthers-declare-solar-eclipse-just-proved-earth-flat/&#10;&#10;75 Versus in the Bible&#10;https://www.youtube.com/watch?v=VU9RubOAtf4"
     channeltitle "My Channel Video"
     channelid "UCa_-A9mKidMeWWujBtv10cg"
@@ -6031,7 +6031,7 @@ graph
     commentcount 500
     duration "PT10M55S"
     indegree 7
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount -1
     duration "PT4M27S"
     indegree 5
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -6085,7 +6085,7 @@ graph
     commentcount 310
     duration "PT3M56S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6093,7 +6093,7 @@ graph
     label "CwGqPXsHoYo"
     step 0
     date "2008-09-27T16:07:27Z"
-    title "Bad religion- flat earth society  live - Area 4 Festival"
+    title "Bad religion- flat earth society live - Area 4 Festival"
     description "Bad religion- flat earth society  live 008-08-29 - Area 4 Festival"
     channeltitle "Luiz Bitencourt"
     channelid "UCCrFH-Qzffk5KiTgtkiE2_w"
@@ -6111,7 +6111,7 @@ graph
     label "V7AHSeFazAw"
     step 0
     date "2017-06-01T06:38:15Z"
-    title "&#3370;&#3376;&#3368;&#3405;&#3368; &#3373;&#3394;&#3374;&#3391; (Flat Earth) - Vaishakan Thampi"
+    title " (Flat Earth) - Vaishakan Thampi"
     description "Speech by Vaishakan Thampi on the topic 'Flat Earth' . &#10;The two day Programme named 'Charvakam 2017' Organised by 'Yukthivadha Padana Kendram' on 20/05/2017 &#38; 21/05/2017 at Town Hall, Ernakulam, Kerala&#10;&#10;&#10;&#3364;&#3391;&#3376;&#3393;&#3370;&#3405;&#3370;&#3391;&#3377;&#3381;&#3391;(The Nativity story) by Geordie George&#10;https://www.youtube.com/watch?v=BeTwckcvHQ4&#10;&#10;Debate:Swami Chidanandapuri V/s Ravi Chandran C &#10;&#3373;&#3351;&#3381;&#3364;&#3405;&#3351;&#3392;&#3364; &#3356;&#3390;&#3364;&#3391;&#3381;&#3405;&#3375;&#3381;&#3384;&#3405;&#3365;&#3375;&#3398; &#3370;&#3391;&#3368;&#3405;&#3364;&#3393;&#3363;&#3375;&#3405;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3393;&#3381;&#3403; ? &#10;https://www.youtube.com/watch?v=o1_cYF_ZP_U&#10;&#10;&#10;&#3335;&#3384;&#3405;&#3378;&#3390;&#3374;&#3393;&#3330; &#3374;&#3368;&#3393;&#3383;&#3405;&#3375;&#3390;&#3381;&#3349;&#3390;&#3382;&#3381;&#3393;&#3330; | Islam and Human Rights| - Ravichandran C.&#10;https://www.youtube.com/watch?v=fOEv0Zh77tU&#10;&#10;&#3351;&#3392;&#3364;&#3390;&#3375;&#3368;&#3330;-&#3376;&#3381;&#3391;&#3354;&#3368;&#3405;&#3366;&#3405;&#3376;&#3368;&#3405;&#8205; &#3384;&#3391; ( &#3382;&#3405;&#3376;&#3392;.&#3342;&#3368;&#3405;&#8205;.&#3351;&#3403;&#3370;&#3390;&#3378;&#3349;&#3395;&#3383;&#3405;&#3363;&#3368;&#3393;&#3379;&#3405;&#3379; &#3374;&#3377;&#3393;&#3370;&#3359;&#3391; ) &#10;Geethayanam-Ravichandran C&#10;https://www.youtube.com/watch?v=qY_1WFSQL8M&#10;&#10;&#3384;&#3330;&#3381;&#3390;&#3366;&#3330; : &#3356;&#3405;&#3375;&#3403;&#3364;&#3391;&#3383;&#3330; &#3354;&#3394;&#3383;&#3363;&#3374;&#3403; ? &#10;Is Astrology Exploitation? (Debate) Ravichandran.C V/s N.K Namboothiri&#10;https://www.youtube.com/watch?v=KLiK9FZCsFk&#10;&#10;&#3373;&#3392;&#3349;&#3376;&#3364;&#3349;&#3405;&#3349;&#3405; &#3374;&#3364;&#3374;&#3393;&#3363;&#3405;&#3359;&#3403; ? &#3374;&#3364;&#3364;&#3405;&#3364;&#3391;&#3368;&#3393; &#3373;&#3392;&#3349;&#3376;&#3364;&#3375;&#3393;&#3363;&#3405;&#3359;&#3403; ? - &#3335; &#3342; &#3356;&#3372;&#3405;&#3372;&#3390;&#3452;&#10;https://www.youtube.com/watch?v=d7rD7KgjqPE&#10;&#10;&#3368;&#3390;&#3384;&#3405;&#3364;&#3391;&#3349;&#3368;&#3390;&#3375; &#3366;&#3400;&#3381;&#3330; 2017 - Ravichandran C&#10;https://www.youtube.com/watch?v=m4WIRAP_nwg&#10;&#10;&#3376;&#3381;&#3391;&#3354;&#3368;&#3405;&#3366;&#3405;&#3376;&#3368;&#3403;&#3359;&#3405; &#3384;&#3330;&#3384;&#3390;&#3376;&#3391;&#3349;&#3405;&#3349;&#3390;&#3330; (Talk with Ravichandran.C)&#10;https://www.youtube.com/watch?v=OdFHSu4F1wE&#10;&#10;&#10;'Pinnotodunna Malayalee' by noted Malayalee author and free thinker Ravichandran C at Melbourne &#10;https://www.youtube.com/watch?v=SNDt5JBeMk0&#10;&#10;&#3374;&#3364;&#3330; &#3364;&#3391;&#3368;&#3405;&#3368;&#3393;&#3368;&#3405;&#3368; &#3374;&#3368;&#3393;&#3383;&#3405;&#3375;&#3376;&#3405;&#8205; (RELIGIOVORES) - Ravichandran .C&#10;https://www.youtube.com/watch?v=OHuijjpUu4k&#10;&#10;&#10;&#3374;&#3399;&#3376;&#3391;&#3375;&#3393;&#3359;&#3398; &#3349;&#3399;&#3349;&#3405;&#3349;&#3405; - Ravichandran C&#10;https://www.youtube.com/watch?v=rNlodZekUMM&#10;&#10;&#10;&#3364;&#3400;&#3377;&#3403;&#3375;&#3405;&#3361;&#3405; &#3384;&#3393;&#3350;&#3370;&#3405;&#3370;&#3398;&#3359;&#3393;&#3364;&#3405;&#3364;&#3393;&#3381;&#3390;&#3368;&#3390;&#3349;&#3393;&#3374;&#3403; ? Is Thyroid a Curable Disease? - Dr.Augustus Morris https://www.youtube.com/watch?v=2riemYJvWQg&#10;&#10;&#10;esSENSE Social links:&#10;Website of esSENSE: http://essenseglobal.com/&#10;Website of neuronz: www.neuronz.in&#10;FaceBook Group: https://www.facebook.com/groups/esSENSEGlobal/&#10;FaceBook Page of esSENSE: https://www.facebook.com/essenseglobal/&#10;FaceBook Page of neuronz: https://www.facebook.com/neuronz.in/&#10;Twitter: https://twitter.com/esSENSEGlobal&#10;Podcast: http://podcast.essenseglobal.com/"
     channeltitle "esSENSE Global"
     channelid "UCiFE8ytfi8Pyk9PZKknkhiQ"
@@ -6121,7 +6121,7 @@ graph
     commentcount 566
     duration "PT1H38M1S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 68
     duration "PT14M25S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -6157,7 +6157,7 @@ graph
     commentcount 22
     duration "PT4M19S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -6175,7 +6175,7 @@ graph
     commentcount 3
     duration "PT2M15S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6193,7 +6193,7 @@ graph
     commentcount 267
     duration "PT16M34S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6201,7 +6201,7 @@ graph
     label "U73G8jSv0Yk"
     step 0
     date "2018-06-20T05:12:05Z"
-    title "According to Qur&#38;#39;an, is the earth spherical in shape or flat? - Sheikh Assim Al Hakeem"
+    title "According to Quran, is the earth spherical in shape or flat? - Sheikh Assim Al Hakeem"
     description ""
     channeltitle "assimalhakeem"
     channelid "UCWsdcrre0WbCWML_PnuzoAg"
@@ -6211,7 +6211,7 @@ graph
     commentcount -1
     duration "PT2M13S"
     indegree 11
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -6229,7 +6229,7 @@ graph
     commentcount 17494
     duration "PT45M18S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6247,7 +6247,7 @@ graph
     commentcount 7
     duration "PT1M19S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6265,7 +6265,7 @@ graph
     commentcount 12
     duration "PT8M39S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6283,7 +6283,7 @@ graph
     commentcount -1
     duration "PT1H19M1S"
     indegree 4
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6319,7 +6319,7 @@ graph
     commentcount 4398
     duration "PT19M54S"
     indegree 9
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -6337,7 +6337,7 @@ graph
     commentcount 742
     duration "PT20M50S"
     indegree 3
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -6363,7 +6363,7 @@ graph
     label "0h5fzf9CFF4"
     step 0
     date "2022-07-06T20:01:22Z"
-    title "Greekgodx is the earth flat?"
+    title "Greekgo horror is the earth flat?"
     description "link:&#10;https://www.twitch.tv/asmongold"
     channeltitle "OTK Friends"
     channelid "UCJ3V3Bzr2PPV2SHyW0OFmXg"
@@ -6373,7 +6373,7 @@ graph
     commentcount 3
     duration "PT42S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6381,7 +6381,7 @@ graph
     label "5FvGsX-18H4"
     step 0
     date "2020-08-26T13:25:19Z"
-    title "&#2346;&#2371;&#2341;&#2381;&#2357;&#2368; &#2309;&#2327;&#2352; Flat &#2361;&#2379;&#2340;&#2366; &#2340;&#2379; | How Would Happen If Our Earth Was Flat"
+    title " | How Would Happen If Our Earth Was Flat"
     description "The flat Earth model is an archaic conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period,&#13;&#10;&#13;&#10;Disclaimer : DISCLAIMER: Please don't go out of your way to or hate on anyone I talk about in my videos, this channel is to entertain people and I usually focus on joking about what the people are doing not the individual themselves, please don't go spreading hate it's all for laughs &#13;&#10;&#10;The Flat Earth Society Website &#10;https://www.tfes.org/&#10;&#10;&#10;NEXT VIDEOS .....&#10;&#10;2050 &#2340;&#2325; &#2361;&#2350; MARS &#2346;&#2375; &#2311;&#2360; &#2340;&#2352;&#2361; &#2311;&#2306;&#2360;&#2366;&#2344;&#2368; &#2348;&#2360;&#2381;&#2340;&#2367;&#2351;&#2366;&#2306; &#2348;&#2360;&#2366;&#2319;&#2306;&#2327;&#2375; | MARS COLONIZATION With In 2050 - https://youtu.be/FkoPotBMSoU&#10;&#10;&#2350;&#2366;&#2344;&#2357; &#2358;&#2352;&#2368;&#2352; &#2350;&#2375;&#2306; &#2325;&#2369;&#2331; &#2352;&#2361;&#2360;&#2381;&#2351;&#2350;&#2351; &#2358;&#2325;&#2381;&#2340;&#2367;&#2351;&#2366;&#2306; || Superpowers of Human Body in Hindi - https://www.youtube.com/watch?v=0CKGD31SkJk&#10;&#10;&#10;&#2342;&#2369;&#2344;&#2367;&#2351;&#2366; &#2325;&#2368; 5 &#2360;&#2348;&#2360;&#2375; &#2352;&#2361;&#2360;&#2381;&#2351;&#2350;&#2351; &#2360;&#2366;&#2306;&#2346; || 5 Most Mysterious Snake On Earth In Hindi - https://www.youtube.com/watch?v=CdHi3Q_Kurc&#10;&#10;&#10;&#2320;&#2360;&#2375; WEBSITE &#2332;&#2367;&#2360;&#2325;&#2375; &#2348;&#2366;&#2352;&#2375; &#2350;&#2375;&#2306; &#2310;&#2346; &#2325;&#2349;&#2368; &#2344;&#2361;&#2368;&#2306; &#2332;&#2366;&#2344;&#2340;&#2375; &#2341;&#2375; | Most Amazing And Unique Website On The Internet - https://www.youtube.com/watch?v=50MhCkrWfoI&#10;&#10;&#10;&#10;&#2319;&#2325; &#2320;&#2360;&#2366; &#2342;&#2367;&#2344; &#2332;&#2367;&#2360;&#2344;&#2375; &#2342;&#2369;&#2344;&#2367;&#2351;&#2366; &#2325;&#2379; &#2361;&#2367;&#2354;&#2366; &#2342;&#2367;&#2351;&#2366; || True Story Of Hiroshima &#38; Nagasaki - https://www.youtube.com/watch?v=mlCHPirtxhY&#10;&#10;&#10;&#10;Disclaimer : DISCLAIMER: Please don't go out of your way to or hate on anyone I talk about in my videos, this channel is to entertain people and I usually focus on joking about what the people are doing not the individual themselves, please don't go spreading hate it's all for laughs &#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channeltitle "SciPedia"
     channelid "UCjBbcl2NVoCWR-xXn1ZQlNw"
@@ -6391,7 +6391,7 @@ graph
     commentcount 108
     duration "PT4M20S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6399,7 +6399,7 @@ graph
     label "LtemQj0cbt4"
     step 0
     date "2020-09-23T18:00:12Z"
-    title "Flat Earth - &#38;quot;200 Proofs the Earth is Not a Spinning Ball&#38;quot; - Book Review!"
+    title "Flat Earth - - Book Review!"
     description "Flat Earth - &#34;200 Proofs the Earth is Not a Spinning Ball&#34; - Book Review!&#10;&#10;&#10;Alright what's going on guys, it's Trev back again here to bring you another video.  In this one we will be doing a book review for the King of Flat Earth, Eric Dubay.  This will be me giving his thoughts on 200 proofs the Earth is Not a Spinning Ball.  This is a very fun book which brings up 200 proofs, in Eric's opinion that we are actually living on a flat plan and not a spherical Earth or Globe like we have been taught to believe.  Could the FreeMasons pull of a deception this vast?  Is it possible?  Do we maybe just have it wrong, and is Nasa just shooting Rockets into the Ocean?  Let's discuss, in this book review.&#10;&#10;You can watch a video presentation of him showing all 200 of these with videos via the following link:&#10;&#10;https://www.youtube.com/watch?v=x0EGB_o9TZM&#10;&#10;You can subscribe to Eric here:&#10;&#10;https://www.youtube.com/channel/UC0_CSKUIVVFlfocgezQEBDg&#10;&#10;&#10;Be sure to let me know in the comments below what you guys think of this one.  As per usual, thanks for watching!&#10;&#10;- Trev Out!&#10;&#10;#flatearth #trevschan2 #ericdubay #200proofstheearthisnotaspinningball @Eric Dubay"
     channeltitle "Trevschan2"
     channelid "UC64mtTJJgsU0Lty-7aCB-7w"
@@ -6417,7 +6417,7 @@ graph
     label "TKXCBlUPJqM"
     step 0
     date "2017-03-19T04:26:26Z"
-    title "Shaquille O&#38;#39;Neal believes the Earth is flat"
+    title "Shaquille ONeal believes the Earth is flat"
     description "Just like Kyrie Irving, Wilson Chandler and Draymond Green."
     channeltitle "NBA Highlights &#183; YouTube"
     channelid "UCrZhVeobsmmsLJbkVK9rUMA"
@@ -6427,7 +6427,7 @@ graph
     commentcount 2724
     duration "PT2M10S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6445,7 +6445,7 @@ graph
     commentcount 66
     duration "PT5M42S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6463,7 +6463,7 @@ graph
     commentcount 22628
     duration "PT1H16M17S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 6854
     duration "PT4M54S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -6525,7 +6525,7 @@ graph
     label "VGxEtsJ_ZEs"
     step 0
     date "2021-06-30T04:51:06Z"
-    title "&#2488;&#2468;&#2509;&#2479;, &#2479;&#2494; &#2447;&#2468;&#2470;&#2495;&#2472; &#2438;&#2474;&#2472;&#2494;&#2480; &#2453;&#2494;&#2459;&#2503; &#2482;&#2497;&#2453;&#2507;&#2472;&#2507; &#2489;&#2527;&#2503;&#2459;&#2503; | Flat Earth Theory Explained in Bengali | &#2474;&#2509;&#2480;&#2489;&#2503;&#2482;&#2495;&#2453;&#2494;"
+    title ""
     description "The flat Earth model is an archaic conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period, the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period, India until the Gupta period (early centuries AD), and China until the 17th century.&#10;What Would Happen if the Earth Were Actually Flat? flat earth theory Humans have known for thousands of years that the planet is round, yet the belief in a flat Earth refuses to die. Members of the Flat Earth Society and several celebrities, including Atlanta rapper B.o.B and NBA player Kyrie Irving, claim to hold such beliefs. Let&#8217;s examine, then, how the well-known principles of physics and science would work (or not) on a flat Earth.&#10;&#10;References :&#10;https://www.livescience.com/24310-flat-earth-belief.html&#10;https://physicsworld.com/a/fighting-flat-earth-theory/&#10;&#10;#flat #earth #theory #not #a #globe #science #facts #myths #bangla #&#2476;&#2494;&#2434;&#2482;&#2494;&#10;&#10;Follow Me On : &#10;Facebook- https://www.facebook.com/prohelikaofficial &#10;Twitter- https://www.twitter.com/itsprohelika &#10;Instagram- https://www.instagram.com/prohelikaofficial&#10;&#10;My Gigs : &#10;Mobile I Use : https://amzn.to/2Gu3uss&#10;Mic I Use : https://amzn.to/2X4mKSc&#10;Laptop I Use : https://amzn.to/2TS2hhz&#10;Mouse I Use : https://amzn.to/2X71f3f&#10;Headphone I Use : https://amzn.to/2SDmomZ&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.&#10;&#10;Disclaimer:- The Copyright Laws of the United States recognizes a &#8220;fair use&#8221; of copyrighted content. Section 107 of the U.S. Copyright Act states: &#8220;Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright.&#8221; This video and our youtube channel, in general, may contain certain copyrighted works that were not specifically authorized to be used by the copyright holder(s), but which we believe in good faith are protected by federal law and the fair use doctrine for one or more of the reasons noted above."
     channeltitle "&#2474;&#2509;&#2480;&#2489;&#2503;&#2482;&#2495;&#2453;&#2494;"
     channelid "UC1jhJh20hEgr_5u4ubSYzGg"
@@ -6535,7 +6535,7 @@ graph
     commentcount 1696
     duration "PT12M56S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -6543,7 +6543,7 @@ graph
     label "XNmESYQw5x0"
     step 0
     date "2016-08-24T16:50:56Z"
-    title "Dopefish vs Flat Earth: Flat Horizon - Where&#38;#39;s the curvature? - Part 2"
+    title "Dopefish vs Flat Earth: Flat Horizon - Wheres the curvature? - Part 2"
     description "This is the second video in the series where I answer 12 Questions for Neil deGrasse Tyson posed by a flatearther. We'll focus on correcting some misconceptions about the horizon in this one.&#10;&#10;I'd love to hear what you guys think about this kind of video! Any feedback is very appreciated!&#10;&#10;The video I am responding to (&#34;An Open Letter to Neil DeGrasse Tyson Regarding the Flat Earth&#34; by dmurphy25):&#10;https://www.youtube.com/watch?v=zuBVCmC0ACM&#10;&#10;Watch daily livestreams at our website:&#10;http://dopelives.com&#10;&#10;Follow Dopefish on Twitter:&#10;https://twitter.com/dopefish_lives&#10;&#10;Follow our Twitterbot for stream notifications:&#10;https://twitter.com/DopeLivesDaemon&#10;&#10;Be sure to leave a comment, and subscribe for more videos like this one."
     channeltitle "Dopelives"
     channelid "UCTenfYeCFLEOTRrRdPZ-v3w"
@@ -6589,7 +6589,7 @@ graph
     commentcount 83
     duration "PT6M53S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 1319
     duration "PT1M51S"
     indegree 0
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -6661,7 +6661,7 @@ graph
     commentcount 38
     duration "PT12M7S"
     indegree 1
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -6679,7 +6679,7 @@ graph
     commentcount 304
     duration "PT2M29S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6715,7 +6715,7 @@ graph
     commentcount 1206
     duration "PT1M33S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -6723,7 +6723,7 @@ graph
     label "zu1p5yl5P0Y"
     step 0
     date "2021-03-05T11:25:07Z"
-    title "&#38;quot;BAKIT ISANG KALOKOHAN ANG FLAT EARTH THEORY?&#38;quot;"
+    title ""
     description "Flat Earth Theory story"
     channeltitle "Tinig PH"
     channelid "UCkXR1c7yYdqKdqlAWI-_yIg"
@@ -6751,7 +6751,7 @@ graph
     commentcount 1434
     duration "PT19M7S"
     indegree 7
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6777,7 +6777,7 @@ graph
     label "ID_35T00zKU"
     step 0
     date "2022-07-10T11:00:07Z"
-    title "Earth is flat or Round/&#2346;&#2371;&#2341;&#2381;&#2357;&#2368; &#2327;&#2379;&#2354; &#2361;&#2376; &#2351;&#2366; &#2330;&#2346;&#2335;&#2368; #facts #flatearth"
+    title "Earth is flat or Round/ #facts #flatearth"
     description "Hello friends welcome to &#34;knowledge fact&#34;&#10;    &#10;&#128076; &#2342;&#2379;&#2360;&#2381;&#2340;&#2379;&#2306; &#2311;&#2360; channel &#2346;&#2352; &#2310;&#2346;&#2325;&#2379;&#2306; space sun universe Black hole &#2311;&#2340;&#2381;&#2351;&#2366;&#2342;&#2367; &#2325;&#2375; &#2348;&#2366;&#2352;&#2375; &#2350;&#2375; video &#2350;&#2367;&#2354;&#2375;&#2327;&#2366; &#2351;&#2342;&#2367; &#2310;&#2346; space lover &#2361;&#2376; &#2340;&#2379; &#2351;&#2361; channel &#2360;&#2367;&#2352;&#2381;&#2347; &#2310;&#2346; &#2325;&#2375; &#2354;&#2367;&#2319; &#2361;&#2376; &#2324;&#2352; &#2309;&#2343;&#2367;&#2325; video &#2325;&#2375; &#2354;&#2367;&#2319; &#2310;&#2346; channel &#2325;&#2379; checkout &#2324;&#2352; subscribe &#2325;&#2352; &#2360;&#2325;&#2340;&#2375; &#2361;&#2376;, &#2343;&#2344;&#2381;&#2351;&#2357;&#2366;&#2342;&#10;_______________________________________________&#10;&#10;&#128073;About This video -&#10;Friends, in today's video we will know that how ancient people used to guess that our earth is not flat but round?&#10; When the ancient people were in the middle of the vast oceans, they would observe that they could not see the shore of the sea from the middle of the sea. And then they believed that he might have come too far from the edge and because of this he could not see the edge.  But apart from all this, he used to notice one thing that when a ship was coming towards him from a distance, he first saw the upper part of that ship i.e. the top. And as the ship approached him, gradually from the upper part of the ship to the lower part, the whole ship was visible and this could be done only because of the curvature of the earth and from this experience made by him, he estimated this. Used to think that our earth is round.&#10;&#10;_______________________________________________&#10;&#10;&#128073;Topic Related-&#10;Flat earth Theory&#10;Earth is flat or Round&#10;Is earth flat&#10;Kya prithivi flat hai&#10;Flat earth sun moon&#10;Flat earth proof&#10;Flat earth explain&#10;Earth is flat&#10;Earth shape&#10;Shape of earth flat or Round&#10;&#10;&#10;_______________________________________________&#10; &#10;&#128073;My other channel-&#10;https://youtube.com/channel/UCfMxjBaS137trAP03iE2t5w&#10;&#10;&#128073; Social media link&#10;&#10;    FB page- &#10; https://fb.watch/5C_1tKIhss/&#10;   Youtube channel- https://youtube.com/channel/UCx5ct6I8ijbxtgJGTYgvG3A&#10;&#10;_______________________________________________&#10;&#10;&#128591;&#128591;Support please&#128591;&#128591;&#10;&#10;#shorts&#10;#youtubeshorts&#10;#shortsvideo&#10;#short&#10;#amazingshorts&#10;#spaceshorts&#10;#nasa&#10;#isro&#10;#jaxa&#10;#esa&#10;#csa&#10;#rocket"
     channeltitle "Knowledge fact"
     channelid "UCx5ct6I8ijbxtgJGTYgvG3A"
@@ -6813,7 +6813,7 @@ graph
     label "dEa0q5MWEvM"
     step 0
     date "2018-05-04T15:29:31Z"
-    title "The Moon confirms flat Earth&#38;#39;s demise"
+    title "The Moon confirms flat Earths demise"
     description "The direction towards the moon is a fatal flaw for flat Earth. At any time, somewhere on Earth, the Moon is just above the horizon, and elsewhere it is straight overhead. If the Earth was flat that would mean a horizontal line and a vertical line are both pointing towards the same Moon. Impossible!"
     channeltitle "Jos Leys"
     channelid "UC6YBBZzT2KURLjiOJBgGGOg"
@@ -6823,7 +6823,7 @@ graph
     commentcount 458
     duration "PT2M10S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -6831,7 +6831,7 @@ graph
     label "GAo8kA5dVp4"
     step 0
     date "2019-04-09T05:30:01Z"
-    title "&#2986;&#3010;&#2990;&#3007; &#2980;&#2975;&#3021;&#2975;&#3016;&#2991;&#3006;&#2985;&#2980;&#3006; | Is the Earth Flat | Part 2 | 5 Min Videos"
+    title " | Is the Earth Flat | Part 2 | 5 Min Videos"
     description "&#2986;&#3010;&#2990;&#3007; &#2980;&#2975;&#3021;&#2975;&#3016;&#2991;&#3006;&#2985;&#2980;&#3006;.&#10;&#10;Nasa Article Link : https://www.nasa.gov/topics/people/features/visualizer-creates-earth.html&#10;&#10;Youtube Article : https://hothardware.com/news/researchers-find-youtube-influences-flat-earthers&#10;&#10;How people fall for flat earth : https://www.youtube.com/watch?v=fg71tqpsVXY&#10;&#10;Must Watch Video :&#10;New National Geographic Video : https://www.youtube.com/watch?v=06bvdFK3vVU&#10;&#10;Follow me on :&#10;Subscribe : https://goo.gl/ELlWTz&#10;Mail: sivasrk7@gmail.com&#10;Facebook: https://goo.gl/hHKWmz&#10;Twitter: https://twitter.com/5_Min_Videos&#10;&#10;Background Audio Credit : &#10;myuuji - https://www.youtube.com/myuuji"
     channeltitle "5 Min Videos"
     channelid "UCj-_RS1guVbze9juOZ5JjFg"
@@ -6841,7 +6841,7 @@ graph
     commentcount 218
     duration "PT12M19S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -6849,7 +6849,7 @@ graph
     label "7IQTcmwRMhE"
     step 0
     date "2017-01-03T13:45:07Z"
-    title "Flat Earth guru  Brian Mullin messes up          KEPLER&#38;#39;s   THIRD   LAW"
+    title "Flat Earth guru Brian Mullin messes up KEPLERs THIRD LAW"
     description "Centripetal acceleration, gravity and Kepler's Laws are discussed.&#10;This video shows a way to derive a general form of Kepler's 3rd Law:&#10;&#10;             orbital period square = K * orbital radius cubed&#10;&#10;FLAT  EARTH  ANSWERS  and  EXPLANATIONS&#10;I show where the flat earth celebrity, Brain Mullin, missed the boat on his episode 3  just like every other video he has produced and uttered nonsense.    Mullin used a simplified high school version of deriving Kepler's 3rd Law  WITH  GRAVITY  which did not account for the earth's mass and ASSUMED that center of mass of the earth-sun system was at the center of the sun which it is not.  Doing so resulted in the mass of the earth dropping out of the equation in the final result which puzzled him.  He then went on for 10 min about how &#34;math&#34; and  &#34;science&#34; was fixed and manipulated by the ungodly and Masons to feature the SUN and to render the earth and God irrelevant.  He said the sun is a pagan symbol and that &#34;The sun wins&#34; in science.  That was the problem  - NOT  GRAVITY  or  GRAVITATIONAL FORCES.  Mullin used gravitational FORCE in the derivation.  He  USED  NEWTON&#34;S GRAVITATIONAL FORCE LAW correctly but was in error when calculating the centripetal acceleration about the center of mass.&#10;&#10;My pinned comment below is the TIME  INDEX  for subject matter discussed in the video if you first wish to save time and just skip around.&#10;&#10;This video &#34;FLAT EARTH ANSWERS and EXPLANATIONS&#34;  now known as &#34;A  SURVEY  OF  KEPLER's  THIRD  LAW  with  ELLIPSES&#34;   is the first one that I made for Youtube.  I use it as a filing cabinet of sorts.  Various topics are covered which are listed in CAPITAL LETTERS at the beginning of each thread.  Just scan through the comments to find a topic you are interested in.  This is a repository of comments that I have posted to other Youtube videos over the past year.&#10;&#10;If you have questions, you can post them to the appropriate thread in the comment section of this video.        &#10;&#10;&#10;     https://hangouts.google.com/call/xturwoshybe2fawooyxzontznue?no_rd"
     channeltitle "George Hnatiuk"
     channelid "UCKsf5gUTjVoIc8uKdYn4Jeg"
@@ -6895,7 +6895,7 @@ graph
     commentcount 48
     duration "PT13M24S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6913,7 +6913,7 @@ graph
     commentcount 1310
     duration "PT2M10S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -6921,7 +6921,7 @@ graph
     label "tjsRSh9Uhso"
     step 0
     date "2022-07-08T02:45:34Z"
-    title "A Flat  Earth &#38;quot;Debate&#38;quot; FTFE VS Mr Cheswick"
+    title "A Flat Earth FTFE VS Mr Cheswick"
     description "A Flat  Earth &#34;Debate&#34; FTFE VS Mr Cheswick&#10;&#10;The guy who &#34;accidently&#34; wrote my outro music wants a chat...I mean, what could go wrong? &#10;&#10;That was rhetorical...&#10;&#10;Mr Cheswicks Channel https://www.youtube.com/channel/UCX2ZYvnEifgJ98VHnK0v_BQ&#10;&#10;A new challenger has appeared! Lets see what evidence for the physics defying Flat Earth is presented! &#10;&#10;Become a member to use cool emojis in live chat youtube.com/channel/UCrwpQai5rQkhd2EckS9VaFA/join&#10;&#10;If you fancy supporting my fight against stupidity and help me get better equipment then please consider becoming a Patreon. Even &#163;1/$1 a month could really help.&#10;Go to https://www.patreon.com/FTFE&#10;&#10;Or get some sweet Merch https://teespring.com/en-GB/stores/fight-the-flat-earths-store&#10;&#10;Donate to my Paypalpaypal.me/ftfe&#10;&#10;Tweet me @FTFEofficial with video ideas, Flerfs to target and even direct insults.&#10;&#10;Follow my Facebook page https://www.facebook.com/FTFEofficial/&#10;&#10;Join my Discord Server https://discord.gg/hJKSZ7W&#10;&#10;The maker of my awesome intro Randomtings https://www.youtube.com/channel/UCjePlTeA71rRgAbn9wSrMVw&#10;&#10;The makers of my awesome music https://www.facebook.com/sleepwalkerofficialuk/&#10;&#10;The Maker of my logo and channel art&#10;https://www.youtube.com/channel/UCUY9W5q3zd2zUkpEcMvQh4w&#10;&#10;Have you really read this far into the description?&#10;&#10;Go and watch the video!&#10;#FTFE #FIGHTTHEFLATEARTH #FlatEarth"
     channeltitle "FTFE"
     channelid "UCrwpQai5rQkhd2EckS9VaFA"
@@ -6931,7 +6931,7 @@ graph
     commentcount 895
     duration "PT3H32M42S"
     indegree 4
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 660
     duration "PT36M58S"
     indegree 3
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -6975,7 +6975,7 @@ graph
     label "fFgbNv-d4Yg"
     step 0
     date "2022-07-12T04:07:20Z"
-    title "Demmoch&#38;#39;s FLAT EARTH EXPERIMENTS 3!"
+    title "Demmochs FLAT EARTH E tongue sticking out ERIMENTS 3!"
     description "#flatearth&#10;Flat Earther Demmoch conducts yet another amazing &#34;test&#34; to debunk the globe...&#10;&#10;Demmoch's video:&#10;https://photos.app.goo.gl/ZG1NDTwQyi5fbxwF9&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976:&#10;Allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, parody and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
     channeltitle "Everett Anderson"
     channelid "UCQXUCqwqeCY1VRNKEGq7IHw"
@@ -6993,7 +6993,7 @@ graph
     label "p9HXkVYO65A"
     step 0
     date "2022-07-09T19:00:24Z"
-    title "An overview of David Weiss&#38;#39; flat earth clock app"
+    title "An overview of David Weiss flat earth clock app"
     description "Inspired by @Sly Sparkane (not quite) recently challenging David Weiss on the accuracy of his flat earth clock app, I decided to purchase the app myself and to have a good long look at it.&#10;&#10;OH MY, did I find things, but first, this video is going to be an overview of the various features."
     channeltitle "Bert Rickles"
     channelid "UCSAO5wM_vehimkMjyjqIryw"
@@ -7029,7 +7029,7 @@ graph
     label "ZKiqQthwfJ0"
     step 0
     date "2018-03-20T16:08:08Z"
-    title "The Quran&#38;#39;s Flat Earth"
+    title "The Qurans Flat Earth"
     description "When we read the Quran we don't see any explicit statements of the Earth being flat but we do see exactly what you would expect from a man of the 7th century writing a book who thought the Earth was flat.&#10;&#10;There were people before the 7th century who accepted and understood a spherical Earth but that knowledge did not reach Arabia until Ptolemy's works were translated into Arabic. When we look at the Tafsir works we see this gradual understanding of science being reflected in the way the Quran has been reinterpreted. &#10;&#10;Reuploaded. Video courtesy The Rationalizer &#10;&#10;&#128073; IMPORTANT: SUBSCRIBE TO MY NEW CHANNEL HERE: https://bit.ly/friendlyexmuslim &#128072;&#10;&#9658; My blog: http://friendlyexmuslim.com/"
     channeltitle "Abdullah Sameer"
     channelid "UC_H_lI-9qWdCiAq4AciqE4A"
@@ -7047,7 +7047,7 @@ graph
     label "MMCWxa07FkQ"
     step 0
     date "2020-03-09T10:30:01Z"
-    title "&#2953;&#2994;&#2965;&#2990;&#3021; &#2953;&#2979;&#3021;&#2990;&#3016;&#2991;&#3007;&#2994;&#3021; &#2953;&#2992;&#3009;&#2979;&#3021;&#2975;&#3016;&#2991;&#3006; ? - Flat Earth Theory"
+    title " ? - Flat Earth Theory"
     description "Flat earth theorists all around the world claim that earth is flat. let's hear what they have to say in the flat earth theory.&#10;&#10;- _________________________________&#10;&#10;#UnSigned #planetfacts"
     channeltitle "Un Signed"
     channelid "UCXnDDUQyJpRfC98_ZRIuhZA"
@@ -7057,7 +7057,7 @@ graph
     commentcount 398
     duration "PT7M9S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -7075,7 +7075,7 @@ graph
     commentcount 24
     duration "PT15M13S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7093,7 +7093,7 @@ graph
     commentcount 1224
     duration "PT1M45S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -7119,7 +7119,7 @@ graph
     label "Of6hDDwNgEI"
     step 0
     date "2022-07-11T18:24:12Z"
-    title "Flat Earth meetup Swanage England July 26 &#9989;"
+    title "Flat Earth meetup Swanage England July 26 "
     description "My videos are FREE to use by everyone. Edit and repost as you see fit. I've never thrown a strike and never will.&#10;Contact Mark directly at msargent23@comcast.net &#10;Mark Sargent phone number 303-494-6631&#10;Mail him something at 2125 Myres Lane Langley WA 98260&#10;&#10;Get the Flat Earth app!&#10;https://apps.apple.com/us/app/flat-earth-sun-moon-zodiac/id1440996640&#10;&#10;Get Flat Earth trail mix!&#10;https://truthsmacks.com/&#10;&#10;Get Flat Earth and truther hoodies from Stephen Carpenter of the Deftones! Use code STRONG for discount!&#10;https://mosaimusic.com/thestrong&#10;&#10;Get Flat Earth models!&#10;https://flatearthmodels.com/&#10;&#10;If you are really new to Flat Earth, watch this first:&#10;https://youtu.be/h1ij1hCl9AY&#10;&#10;If you are kind of new to Flat Earth, watch this:&#10;https://www.youtube.com/playlist?list=PLltxIX4B8_URNUzDE2sXctnUAEXgEDDGn&#10;&#10;If you want to plant the seed in your global friends, family, and coworkers, show them this&#10;https://www.behindthecurvefilm.com/&#10;&#10;Great Flat Earth Music by Conspiracy Music Guru!&#10;https://songwhip.com/conspiracy-music-guru&#10;&#10;I AM MARK SARGENT shirts!&#10;https://www.etsy.com/shop/FlatEarthAnonymous&#10;&#10;Flat Earth Clues Books!&#10;https://tinyurl.com/y5parsnf&#10;https://tinyurl.com/y9y6bjg5&#10; &#10;https://obamawhitehouse.archives.gov/blog/2015/07/20/new-blue-marble&#10;&#10;George Orwell&#10;Tribune, 27 December 1946&#10;Most people, if asked to prove that the earth is round, would not even bother to produce the rather weak arguments I have outlined above.  They would start off by saying that &#8216;everyone knows&#8217; the earth to be round, and if pressed further, would become angry.  In a way Shaw is right.  This is a credulous age, and the burden of knowledge which we now have to carry is partly responsible.&#10;&#10;Hot Sex"
     channeltitle "markksargent"
     channelid "UC7rXdy3dOinCLNpPjPkc8Kw"
@@ -7129,7 +7129,7 @@ graph
     commentcount 70
     duration "PT1M40S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -7147,7 +7147,7 @@ graph
     commentcount 2
     duration "PT59S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7155,7 +7155,7 @@ graph
     label "OOn5IFV7JPI"
     step 0
     date "2022-07-11T22:02:49Z"
-    title "FEBs Origin&#38;#39;s Unknown! What Goes Up Must Come Down!"
+    title "FEBs Origins Unknown! What Goes Up Must Come Down!"
     description "#martinliedtke  #mudflood #flatearthbritish &#13;&#10;What go's up must come down! Did you notice the state of our skies?&#13;&#10;Today FEB Think Tank presents Magnified samples of Air ,and rain ,and silt from washing green salad etc. &#13;&#10;You have to see this creepy rankness! &#13;&#10;Everything from tiny black pyramid's to wire looking worm things.&#13;&#10;Could this be anything to do with the thumping great Chem trails splattering our blue skies?  &#13;&#10;Part 2 of this post-&#13;&#10;What's the origin's of the North American Indian? In Theodor De Brys works from i500s we find the inhabitants are large freaky looking cannibalistic whitish people. No supposed  'Native Americans' appear in any text from i500/i16 period's ,and later. So evidence shows they arrived in the Americans recently but from where?&#13;&#10;I propose these peoples could have arrived from the North Lands The Hyperborea  recently ,and that the Apocalypse that happened here also happened there.&#13;&#10;Could the Native Americans be Hyperborian survivors? &#13;&#10;We examine the evidence. Buckle in ,and enjoy this Live presentation.&#13;&#10; Peas &#38; Wuv! &#13;&#10;&#13;&#10;Please remember to subscibe to FEB channels and like if ya did.&#13;&#10;&#13;&#10;To Donate of just buy Martin a coffee will be gratefully received.! Tar &#13;&#10;https://www.paypal.com/paypalme/mliedtke19&#13;&#10;https://www.patreon.com/user?u=8615818&#13;&#10;&#13;&#10;To buy Martins books,&#13;&#10;https://wholeisticmedia.com/2021/06/05/knights-of-the-truth_tribe-martin-liedtkes-second-book-the-holy-grail-of-the-great-reset-questions/&#13;&#10;https://www.amazon.co.uk/Holy-Grail-Great-Reset-Questions/dp/1909426571/ref=tmm_pap_swatch_0?_encoding=UTF8&#38;qid=1622909568&#38;sr=1-1&#13;&#10;&#13;&#10;Martinliedtke7@gmail.com&#13;&#10;https://www.instagram.com/flatearthbr....&#13;&#10;https://www.facebook.com/profile.php?....&#13;&#10;&#13;&#10;For Your Hemp CBD products.&#13;&#10;https://hemploymentuk.com/&#13;&#10;&#13;&#10;Other FEB Channels.&#13;&#10;Martin Liedtkes Nectar channel&#13;&#10;Flat Earth British Think Tank&#13;&#10;The Celtic Tartarian Channel.&#13;&#10;Flat Earth British Sub &#13;&#10;Welsh Dragon Metals&#13;&#10;&#13;&#10;&#13;&#10;Flat Earth coin (ticker: $FLATEARTH) &#13;&#10;is a cryptocurrency on the &#34;binance smart chain&#34; that has reflection in &#34;AVAX&#34; and 1% of the money goes towards researching Flat Earth, and exploring mud flood locations. There are 1,310,608 coins total representing the number of feet in miles to the firmament!  % of buy and sell tax go into the liquidity pool shared within the coin holders, every time somebody sells you will receive a percentage of AVAX coin.  Just launched on the 1st of July this is an easy way to make 50 times your money, 100 times your money...we are going beyond the moon, right into the firmament. &#13;&#10;&#13;&#10;To Buy Flatearthcoin.&#13;&#10;https://poocoin.app/tokens/0x71c64c5b..&#13;&#10;https://twitter.com/flatearthcoin/status/1544542134782627842&#13;&#10;https://pancakeswap.finance/swap?outp..&#13;&#10;&#13;&#10;Links &#10;https://archive.org/details/americadasisterf00theo/page/35/mode/1up?view=theater&#10;https://archive.org/details/America00Ogil/page/180/mode/1up?view=theater&#10;https://gallica.bnf.fr/ark:/12148/btv1b84514857/f64.item.r=Photo&#10;https://gallica.bnf.fr/ark:/12148/btv1b530846959&#10;https://gallica.bnf.fr/ark:/12148/btv1b530846959/f193.item&#10;Onelove!"
     channeltitle "Martin Liedtke"
     channelid "UClZhAJlC-oUFtsI6X1nUOiA"
@@ -7173,7 +7173,7 @@ graph
     label "pr9vQ6nF3_8"
     step 0
     date "2022-07-10T05:20:19Z"
-    title "IF FLAT EARTH EXIST THAN&#128514;&#128514;&#128514;#scientificinnovation#physics#earth#flatearth#universe#science"
+    title "IF FLAT EARTH EXIST THAN#scientificinnovation#physics#earth#flatearth#universe#science"
     description ""
     channeltitle "Scientific innovation"
     channelid "UC9yedVq4RwCgidTj7MD4m_w"
@@ -7227,7 +7227,7 @@ graph
     label "RJJB72v6DIc"
     step 0
     date "2022-07-07T18:00:44Z"
-    title "Flat Earth Globe Lie Tour 2022 UK July dates! &#9989;"
+    title "Flat Earth Globe Lie Tour 2022 UK July dates! "
     description "My videos are FREE to use by everyone. Edit and repost as you see fit. I've never thrown a strike and never will.&#10;Contact Mark directly at msargent23@comcast.net &#10;Mark Sargent phone number 303-494-6631&#10;Mail him something at 2125 Myres Lane Langley WA 98260&#10;&#10;Get the Flat Earth app!&#10;https://apps.apple.com/us/app/flat-earth-sun-moon-zodiac/id1440996640&#10;&#10;Get Flat Earth trail mix!&#10;https://truthsmacks.com/&#10;&#10;Get Flat Earth and truther hoodies from Stephen Carpenter of the Deftones! Use code STRONG for discount!&#10;https://mosaimusic.com/thestrong&#10;&#10;Get Flat Earth models!&#10;https://flatearthmodels.com/&#10;&#10;If you are really new to Flat Earth, watch this first:&#10;https://youtu.be/h1ij1hCl9AY&#10;&#10;If you are kind of new to Flat Earth, watch this:&#10;https://www.youtube.com/playlist?list=PLltxIX4B8_URNUzDE2sXctnUAEXgEDDGn&#10;&#10;If you want to plant the seed in your global friends, family, and coworkers, show them this&#10;https://www.behindthecurvefilm.com/&#10;&#10;Great Flat Earth Music by Conspiracy Music Guru!&#10;https://songwhip.com/conspiracy-music-guru&#10;&#10;I AM MARK SARGENT shirts!&#10;https://www.etsy.com/shop/FlatEarthAnonymous&#10;&#10;Flat Earth Clues Books!&#10;https://tinyurl.com/y5parsnf&#10;https://tinyurl.com/y9y6bjg5&#10; &#10;https://obamawhitehouse.archives.gov/blog/2015/07/20/new-blue-marble&#10;&#10;George Orwell&#10;Tribune, 27 December 1946&#10;Most people, if asked to prove that the earth is round, would not even bother to produce the rather weak arguments I have outlined above.  They would start off by saying that &#8216;everyone knows&#8217; the earth to be round, and if pressed further, would become angry.  In a way Shaw is right.  This is a credulous age, and the burden of knowledge which we now have to carry is partly responsible.&#10;&#10;Hot Sex"
     channeltitle "markksargent"
     channelid "UC7rXdy3dOinCLNpPjPkc8Kw"
@@ -7237,7 +7237,7 @@ graph
     commentcount 101
     duration "PT1M10S"
     indegree 3
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -7245,7 +7245,7 @@ graph
     label "V371OslxHPI"
     step 0
     date "2022-07-09T04:20:04Z"
-    title "Flat Earth &#127758;"
+    title "Flat Earth "
     description ""
     channeltitle "Kamu Gaming"
     channelid "UCFRKNK4QFblWCoLIuw5n1GA"
@@ -7255,7 +7255,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -7273,7 +7273,7 @@ graph
     commentcount 449
     duration "PT2M59S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -7281,7 +7281,7 @@ graph
     label "lhx6Px_8dyQ"
     step 0
     date "2022-07-10T15:32:01Z"
-    title "My flat earth experiment"
+    title "My flat earth e tongue sticking out eriment"
     description "The moon sizes. I once saw the moon huge in scale and then in a few minutes it was small in comparison. Using glass paperweights was a perfect model for this small experiment. Flat earth"
     channeltitle "Chuck Gonzalez"
     channelid "UCxpHl20lWLaum3QAELy97_A"
@@ -7291,7 +7291,7 @@ graph
     commentcount 9
     duration "PT1M29S"
     indegree 0
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -7299,7 +7299,7 @@ graph
     label "4zLaNuG053o"
     step 0
     date "2022-07-11T20:31:17Z"
-    title "Flat Earth. What&#8217;s coming?&#8230;"
+    title "Flat Earth. What"
     description ""
     channeltitle "Flatty McFlatface"
     channelid "UCKTpHbTDi46RlAhrnmGcBoQ"
@@ -7317,7 +7317,7 @@ graph
     label "oVJKDS6sNk0"
     step 0
     date "2022-07-10T13:14:27Z"
-    title "Yahweh&#38;#39;s Flat Earth"
+    title "Yahwehs Flat Earth"
     description ""
     channeltitle "The Flat Truth"
     channelid "UCQXo09pDzWG7Y9LB14CchSg"
@@ -7327,7 +7327,7 @@ graph
     commentcount 0
     duration "PT1M1S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -7345,7 +7345,7 @@ graph
     commentcount 2
     duration "PT13M43S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -7353,7 +7353,7 @@ graph
     label "E7qJPyuEgvw"
     step 0
     date "2022-07-10T06:24:12Z"
-    title "The &#38;quot;Impossible Day on the Globe&#38;quot; proves FLAT EARTH"
+    title "The proves FLAT EARTH"
     description "Free high resolution Flat Earth Map here:&#10;https://www.dropbox.com/s/9lcp65memq7vyxd/hi%20res%20restored%20gleason%20map.png?dl=0&#10;&#10;Emergency Landings proving Flat Earth here:&#10;https://www.dropbox.com/s/izcwfis0r8009ze/16%20Emergency%20Landings%20Proving%20FLAT%20EARTH.pdf?dl=0&#10;&#10;For a print book for those who want one, Lulu Store&#10;https://www.lulu.com/spotlight/flat_earth&#10;&#10;Amelia Earhart flight route here:&#10;https://www.dropbox.com/s/gojq85gkfun9whu/hi%20res%20Amelia%20Earhart.png?dl=0&#10;&#10;FLATTEN THE CURVE Full Movie: &#10;https://www.youtube.com/watch?v=iBAAOIgt3JE&#38;t=4905s&#10;&#10;Odysse Channel: https://odysee.com/@EddieAlencar:a&#10;&#10;RTS Real Truth Seekers: https://real-truth-seekers.com/&#10;&#10;Back Up Channel 01: https://www.youtube.com/channel/UCs8wqO92HfgsHvdvYKj5EYQ&#10;&#10;Back Up Channel 02: https://www.youtube.com/channel/UCllcGgNpjlQwCqQqwxm-nYQ&#10;&#10;Bitchute: https://www.bitchute.com/channel/1zb6jV3AHRqM/"
     channeltitle "Flat Earth, Banjo, USA, Japan &#38; Brazil AS WELL"
     channelid "UCllcGgNpjlQwCqQqwxm-nYQ"
@@ -7381,7 +7381,7 @@ graph
     commentcount 1855
     duration "PT16M27S"
     indegree 0
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -7399,7 +7399,7 @@ graph
     commentcount 22561
     duration "PT3M8S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -7407,7 +7407,7 @@ graph
     label "Uql1zLkdOAk"
     step 0
     date "2017-08-22T22:15:06Z"
-    title "Let&#38;#39;s be Clear: These guys are convinced that Earth is flat"
+    title "Lets be Clear: These guys are convinced that Earth is flat"
     description "9NEWS rolled out its transparent mobile studio to talk with &#8220;Flat Earthers,&#8221; a group of people who reject basic science and believe the earth is flat. Let&#8217;s be Clear, hosted by Jeremy Jojola, takes viewers to interesting locations to meet interesting people who answer viewer-submitted questions in real-time during Facebook live interviews. On July 18, two men entered the transparent mobile TV studio to answer your questions about why they believe in this conspiracy.&#10;Share something cool with us:&#10;Website: http://www.9news.com/features/next-with-kyle-clark&#10;Email: next@9news.com&#10;Facebook: https://www.facebook.com/Nexton9NEWS&#10;Twitter: https://twitter.com/nexton9news&#10;#HeyNext&#10;9NEWS: http://www.9news.com/&#10;9NEWS YouTube: https://www.youtube.com/user/9newsdenver"
     channeltitle "Next 9NEWS"
     channelid "UC00SLi9yOR6iJXX-_cU2APg"
@@ -7417,7 +7417,7 @@ graph
     commentcount 441
     duration "PT6M12S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7425,7 +7425,7 @@ graph
     label "xeaQX9lvAMo"
     step 0
     date "2019-11-20T16:00:18Z"
-    title "Flat Earth FC: &#38;#39;&#38;#39;The Ball Is Round But The World Isn&#38;#39;t?&#38;quot;"
+    title "Flat Earth FC: "
     description "Flat Earth FC aren't your typical Spanish 4th Division Club. Far from it. They were founded 4 months ago by former Atletico Madrid and Sporting Gijon player, Javi Poves, who first quit professional football at 23 after finding himself tired of how the game is run. Now Flat Earth FC are looking to be more than a football club, but a means to change minds. &#10;&#10;A big thanks to Marcello Martinelli for the drawings - check out his work here - https://www.instagram.com/marcello.martinelli/&#10;&#10;Welcome to COPA90 Stories, a brand new channel exploring the greatest footballing stories from across the planet.&#10;&#10;For more info and content: www.copa90.com/stories&#10;&#10;Sign up to our weekly COPA90 Stories newsletter: https://www.copa90.com/en/newsletter"
     channeltitle "COPA90 Stories"
     channelid "UCEPKlFeUjRY_1mpZP8GnkVg"
@@ -7453,7 +7453,7 @@ graph
     commentcount 21847
     duration "PT4M1S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -7471,7 +7471,7 @@ graph
     commentcount 359
     duration "PT1M26S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -7479,7 +7479,7 @@ graph
     label "YxZLtyVKhNw"
     step 0
     date "2017-04-26T23:49:07Z"
-    title "The Eddie Bravo Conspiracy Compilation: Flat Earth Edition - The Joe Rogan Experience"
+    title "The Eddie Bravo Conspiracy Compilation: Flat Earth Edition - The Joe Rogan E tongue sticking out erience"
     description "The Joe Rogan Experience - The Eddie Bravo Conspiracy Compilation: Flat Earth Edition&#10;&#10;Taken from Joe Rogan Experience #948."
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
@@ -7489,7 +7489,7 @@ graph
     commentcount 3795
     duration "PT16M46S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7507,7 +7507,7 @@ graph
     commentcount 6471
     duration "PT8M40S"
     indegree 0
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -7543,7 +7543,7 @@ graph
     commentcount -1
     duration "PT5M"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -7551,7 +7551,7 @@ graph
     label "znMMGXFRDhc"
     step 0
     date "2017-09-22T12:04:31Z"
-    title "&#2325;&#2381;&#2351;&#2366; &#2343;&#2352;&#2340;&#2368; &#2327;&#2379;&#2354; &#2344;&#2361;&#2368;&#2306; &#2348;&#2354;&#2381;&#2325;&#2367; &#2347;&#2381;&#2354;&#2376;&#2335; &#2361;&#2376; | Flat earth theory explained in Hindi | Tech &#38;amp; Myths"
+    title " Myths"
     description "&#2325;&#2381;&#2351;&#2366; &#2343;&#2352;&#2340;&#2368; &#2327;&#2379;&#2354; &#2344;&#2361;&#2368;&#2306; &#2348;&#2354;&#2381;&#2325;&#2367; &#2347;&#2381;&#2354;&#2376;&#2335; &#2361;&#2376; | flat earth theory explained in Hindi&#10;This is SHYAM TOMAR and welcomes to Tech &#38; Myths&#10;#FlatEarth&#10;&#10;For all updates :&#10;LIKE My Facebook Page&#10;https://www.facebook.com/techandmyths/&#10;Follow Me on Twitter&#10;https://twitter.com/techandmyths&#10;My website&#10;http://www.techandmyths.com&#10;&#10;is earth flat or is he round?&#10;The flat Earth model is an archaic conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period, the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period, India until the Gupta period (early centuries AD), and China until the 17th century. That paradigm was also typically held in the aboriginal cultures of the Americas, and the notion of a flat Earth domed by the firmament in the shape of an inverted bowl was common in pre-scientific societies.&#10;The idea of a spherical Earth appeared in Greek philosophy with Pythagoras (6th century BC), although most pre-Socratics (6th &#8211; 5th century BC) retained the flat Earth model. Aristotle provided evidence for the spherical shape of the Earth on empirical grounds by around 330 BC. Knowledge of the spherical Earth gradually began to spread beyond the Hellenistic world from then on.&#10;Modern flat Earth societies consist of individuals who promote the idea that the Earth is flat rather than an oblate spheroid. Such groups date from the middle of the 20th century; some adherents are serious and some are not. Those who are serious are often motivated by pseudoscience or religious literalism.&#10;In the modern era, through the use of social media, flat Earth theories have been increasingly espoused by individuals unaffiliated with larger groups, many of which have members around the globe.&#10;Modern flat Earth hypotheses originated with the English writer Samuel Rowbotham (1816&#8211;1884). Based on conclusions derived from the Bedford Level experiment, Rowbotham published a pamphlet Zetetic Astronomy. He later expanded into a book Earth Not a Globe, proposing the Earth is a flat disc centered at the North Pole and bounded along its southern edge by a wall of ice, Antarctica. Rowbotham further held that the Sun and Moon were 3,000 miles (4,800 km) above Earth and that the &#34;cosmos&#34; was 3,100 miles (5,000 km) above Earth.  He also published a leaflet titled The inconsistency of Modern Astronomy and its Opposition to the Scriptures!!, which argued that the &#34;Bible, alongside our senses, supported the idea that the earth was flat and immovable and this essential truth should not be set aside for a system based solely on human conjecture. &#10;After Rowbotham's death, Lady Elizabeth Blount established a Universal Zetetic Society, whose objective was &#34;the propagation of knowledge related to Natural Cosmogony in confirmation of the Holy Scriptures, based on practical scientific investigation&#34;. The society published a magazine, The Earth Not a Globe Review, and remained active well into the early 20th century.&#10;&#10;MUSIC BY:&#10;Music by Kevin MacLeod. Available under the Creative Commons Attribution 3.0 Unported license. Download link: https://incompetech.com/music/royalty..."
     channeltitle "Tech &#38; Myths"
     channelid "UC5iCbFCXVXNE7XkZjvWhDng"
@@ -7561,7 +7561,7 @@ graph
     commentcount 536
     duration "PT5M17S"
     indegree 0
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -7579,7 +7579,7 @@ graph
     commentcount 147
     duration "PT2M56S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7597,7 +7597,7 @@ graph
     commentcount 74
     duration "PT8M1S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7605,7 +7605,7 @@ graph
     label "zWNJLv96WZY"
     step 0
     date "2022-07-07T13:00:11Z"
-    title "&#38;quot;There Is No Outer Space&#38;quot; | Flat Earth Dave Returns For 2nd Interview"
+    title " | Flat Earth Dave Returns For 2nd Interview"
     description "Protect Your Retirement W/ A Gold. IRA&#10;https://noblegoldinvestments.com/learn/gold-and-silver-guide/?offer_type=gold&#38;affiliate_source=affiliate_inspiringmoney&#10;Noble Gold is Who I Trust &#10;&#10;&#9657; OUR GIFT TO YOU - Thousands of people have benefitted greatly from this FREEDOM &#38; ABUNDANCE process &#128073;&#127997; https://bit.ly/INSPIREDFreedomLauncher&#10;&#10;&#9657; Watch our first interview with Flat Earth Dave&#10;&#128073;&#127997; https://youtu.be/dEePKUq4V6M&#10;&#10;More from Flat Earth Dave&#10;&#128073;&#127997; http://flatearthdave.com&#10;&#10;&#9657; Join us now on LOCALS for UNcensored &#38; UNfiltered content&#10;&#128073;&#127997; https://inspired.locals.com&#10;&#10;&#9657; Please feel free to send a contribution, it's received with great GRATITUDE  &#128073;&#127997; https://bit.ly/2PTbJjt&#10;&#10;&#9657; We are Kristin &#38; Jean Nolan, the founders of the Inspired Channel. This is a place to inspire each other, to learn, to expand and to become the best version of yourself. We love that you are here &#128588;&#127997;&#10;&#128073;&#127997;  https://www.inspiredchannel.net&#10;&#10;&#9657; If you are watching this, it is coming to you at the perfect time on the path of least resistance. &#10;&#10;#FlatEarth #FlatEarthDave #InspiredChannel"
     channeltitle "INSPIRED"
     channelid "UC2SuCfuG0-ZUweqX_jDjf9Q"
@@ -7615,7 +7615,7 @@ graph
     commentcount 2105
     duration "PT1H14M26S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7633,7 +7633,7 @@ graph
     commentcount 8635
     duration "PT7M51S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7651,7 +7651,7 @@ graph
     commentcount 568
     duration "PT5M29S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7669,7 +7669,7 @@ graph
     commentcount 58
     duration "PT59S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -7687,7 +7687,7 @@ graph
     commentcount 311
     duration "PT1H14M29S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -7695,7 +7695,7 @@ graph
     label "Wlax-9O0bjA"
     step 0
     date "2022-07-12T11:19:23Z"
-    title "24/7 Flat Earth Discord !LIVE! - 2507 - Join the Discussion - https://discord.gg/flatearth"
+    title "24/7 Flat Earth Discord !LIVE! - 2507 - Join the Discussion - "
     description "Powered by Restream https://restre.am/yt&#10;&#10;Join the discussion:&#13;&#10;24/7 Flat Earth Discord 2.0 : https://discord.gg/3FScNwc&#13;&#10;https://discord.gg/flatearth&#13;&#10;&#13;&#10;Roger's Channel:  https://youtube.com/channel/UCt4nODe1QMrzHIIBIiIv&#13;&#10;9XA&#13;&#10;&#13;&#10;Dlive stream: https://dlive.tv/HelioSkeptic&#13;&#10;Twitter stream: https://www.twitter.com/helioskeptic&#13;&#10;&#13;&#10;Support the stream:&#13;&#10;https://www.paypal.me/dmcashjr&#13;&#10;https://www.patreon.com/user?u=32152366&#13;&#10;&#13;&#10;This is the live stream channel for the 24/7 Flat Earth Discord 2.0 server.&#13;&#10;Debates and related talks are going on 24/7. Click the join link above and you can be part of the conversation. We have many voice chat rooms that are not streamed live and if you would rather ask questions in the lobby you will have that option as well.&#13;&#10;&#13;&#10;Email me: 247flatearthdiscord@gmail.com"
     channeltitle "24/7 Flat Earth Discord !LIVE!"
     channelid "UCEpI3ZQoVaxwoB4d5o9l3Tg"
@@ -7731,7 +7731,7 @@ graph
     label "ePHfGIxYV4g"
     step 0
     date "2021-03-11T03:56:31Z"
-    title "EP#376 Is the Earth Flat or Round?  with David Weiss"
+    title "EP#376 Is the Earth Flat or Round? with David Weiss"
     description "https://lnk.bio/pigzradio&#10;Call in 909-475-7449&#10;&#10;Flat Earth Sun &#38; Moon Clock app   https://qrco.de/bbizVA&#10;YouTube.  https://www.youtube.com/channel/UCz6s_ScG0PZThdwhKsUFSRw/videos&#10;FaceBook. https://www.facebook.com/TheFlatEarthPodcast&#10;&#10;102 year old Ruth was taught the earth is flat in the 1920's:   https://www.youtube.com/watch?v=5Wt5qSwinIs&#38;list=PLEzivhxtxgbv2hEBOrfkjHnRnpbH9hlXR&#38;index"
     channeltitle "Pigzradio Raunchy Podcast"
     channelid "UCgV8OArCy3726G6owCNSZOg"
@@ -7741,7 +7741,7 @@ graph
     commentcount 119
     duration "PT1H39M23S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -7759,7 +7759,7 @@ graph
     commentcount 4
     duration "PT4H4M57S"
     indegree 0
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -7803,7 +7803,7 @@ graph
     label "hZyldnEsCVA"
     step 0
     date "2022-07-11T20:00:14Z"
-    title "Flat Earth Debate 1687 Uncut &#38;amp; After Show"
+    title "Flat Earth Debate 1687 Uncut After Show"
     description "https://www.patreon.com/nathanoakley&#10;&#10;Channel Membership - &#10; https://www.youtube.com/channel/UCkLJN43Fs8Vf_4S9ijrYiyA/join&#10;&#10;FE Merchandise -  https://shop.spreadshirt.co.uk/no80/  &#10;&#10;Subscribe to my main channel to keep up to date with the Flat Earth Debate - https://youtu.be/Dq-rVPtagoc &#10;&#10;Be here or be sphere as Nathan Oakley is joined by guests to discuss flat earth. Prepare for the worst and hope for the best.&#10;&#10;IF YOU LIKE THESE VIDEOS, YOU CAN MAKE A SMALL DONATION VIA PAYPAL LINK HERE:...  https://paypal.me/nathanoakley1980 &#10;(paypal email: NathanOakley1980@aol.com )&#10;&#10;Bitcoin &#10;3HjUKrNhZo2secyRF1U726wN6dpicxerKd&#10;Lite coin &#10;MMwe7NSHqyqVSFwri1hFGwKGEsWGD1cSEu&#10;Ethereum&#10;0x9a6f4865de43efba4922f93057373ac60806b0ef&#10;Ripple &#10;rXieaAC3nevTKgVu2SYoShjTCS2Tfczqx&#10;&#10;Science vs Scientism Quantum Eraser LIVE: The Creator vs Atheism. &#10;https://www.youtube.com/watch?v=ngziRHiLLiw&#38;t=2983s&#10;&#10;Science vs Scientism - Quantum Mechanics Double Slit &#38; Quantum Eraser Explained.&#10;https://www.youtube.com/watch?v=zfSdSPKWl9M&#10;&#10;Science Vs Pseudoscience #2 Flat Earth Proof LIVE: https://www.youtube.com/watch?v=DUw_Lckd_tY&#38;t=858s&#10;&#10;Science Vs Pseudoscience: #3 Flat Earth Logical Fallacies: https://www.youtube.com/watch?v=T604JkccRms&#10;&#10;Double Slit Experiment - https://www.youtube.com/watch?v=ayvbKafw2g0 &#10;&#10;Light Is A Particle - https://youtu.be/JC2cqNGhzPA &#10;&#10;Be here or be sphere as Nathan Oakley is joined by guests to discuss Flat Earth. Prepare for the worst and hope for the best.&#10;&#10;Link To Join - https://discord.gg/ABrHMCCNb3"
     channeltitle "Nathan Oakley"
     channelid "UCjARXn543MfmtxGotPs0rtg"
@@ -7831,7 +7831,7 @@ graph
     commentcount -1
     duration "PT6M17S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -7839,7 +7839,7 @@ graph
     label "p69yFle-VSQ"
     step 0
     date "2022-07-07T10:57:57Z"
-    title "24/7 Flat Earth Discord !LIVE! - 2498 - Join the Discussion - https://discord.gg/flatearth"
+    title "24/7 Flat Earth Discord !LIVE! - 2498 - Join the Discussion - "
     description "Join the discussion:&#13;&#10;24/7 Flat Earth Discord 2.0 : https://discord.gg/3FScNwc&#13;&#10;https://discord.gg/flatearth&#13;&#10;&#13;&#10;Roger's Channel:  https://youtube.com/channel/UCt4nODe1QMrzHIIBIiIv&#13;&#10;9XA&#13;&#10;&#13;&#10;Dlive stream: https://dlive.tv/HelioSkeptic&#13;&#10;Twitter stream: https://www.twitter.com/helioskeptic&#13;&#10;&#13;&#10;Support the stream:&#13;&#10;https://www.paypal.me/dmcashjr&#13;&#10;https://www.patreon.com/user?u=32152366&#13;&#10;&#13;&#10;This is the live stream channel for the 24/7 Flat Earth Discord 2.0 server.&#13;&#10;Debates and related talks are going on 24/7. Click the join link above and you can be part of the conversation. We have many voice chat rooms that are not streamed live and if you would rather ask questions in the lobby you will have that option as well.&#13;&#10;&#13;&#10;Email me: 247flatearthdiscord@gmail.com"
     channeltitle "24/7 Flat Earth Discord !LIVE!"
     channelid "UCEpI3ZQoVaxwoB4d5o9l3Tg"
@@ -7867,7 +7867,7 @@ graph
     commentcount 30
     duration "PT20M37S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -7875,7 +7875,7 @@ graph
     label "AiflO8P7WWs"
     step 0
     date "2022-07-11T23:51:30Z"
-    title "24/7 Flat Earth Discord !LIVE! - 2506 - Join the Discussion - https://discord.gg/flatearth"
+    title "24/7 Flat Earth Discord !LIVE! - 2506 - Join the Discussion - "
     description "Powered by Restream https://restre.am/yt&#10;&#10;Join the discussion:&#13;&#10;24/7 Flat Earth Discord 2.0 : https://discord.gg/3FScNwc&#13;&#10;https://discord.gg/flatearth&#13;&#10;&#13;&#10;Roger's Channel:  https://youtube.com/channel/UCt4nODe1QMrzHIIBIiIv&#13;&#10;9XA&#13;&#10;&#13;&#10;Dlive stream: https://dlive.tv/HelioSkeptic&#13;&#10;Twitter stream: https://www.twitter.com/helioskeptic&#13;&#10;&#13;&#10;Support the stream:&#13;&#10;https://www.paypal.me/dmcashjr&#13;&#10;https://www.patreon.com/user?u=32152366&#13;&#10;&#13;&#10;This is the live stream channel for the 24/7 Flat Earth Discord 2.0 server.&#13;&#10;Debates and related talks are going on 24/7. Click the join link above and you can be part of the conversation. We have many voice chat rooms that are not streamed live and if you would rather ask questions in the lobby you will have that option as well.&#13;&#10;&#13;&#10;Email me: 247flatearthdiscord@gmail.com"
     channeltitle "24/7 Flat Earth Discord !LIVE!"
     channelid "UCEpI3ZQoVaxwoB4d5o9l3Tg"
@@ -7903,7 +7903,7 @@ graph
     commentcount 1
     duration "PT25S"
     indegree 0
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -7939,7 +7939,7 @@ graph
     commentcount 0
     duration "PT1H50M40S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7947,7 +7947,7 @@ graph
     label "7ywUSYdH-yo"
     step 0
     date "2022-07-10T20:00:11Z"
-    title "Flat Earth Debate 1684 Uncut &#38;amp; After Show"
+    title "Flat Earth Debate 1684 Uncut After Show"
     description "https://www.patreon.com/nathanoakley&#10;&#10;Channel Membership - https://www.youtube.com/channel/UCkLJN43Fs8Vf_4S9ijrYiyA/join&#10;&#10;Subscribe now to my second channel to keep up to date with the flat earth debate - https://youtu.be/h0NvFNScGnM &#10;&#10;FE Merchandise -  https://shop.spreadshirt.co.uk/no80/ &#10;&#10;IF YOU LIKE THESE VIDEOS, YOU CAN MAKE A SMALL DONATION VIA THE PAYPAL LINK HERE:...  https://paypal.me/nathanoakley1980 &#10;(paypal email: NathanOakley1980@aol.com )&#10;&#10;Bitcoin &#10;3HjUKrNhZo2secyRF1U726wN6dpicxerKd&#10;Lite coin &#10;MMwe7NSHqyqVSFwri1hFGwKGEsWGD1cSEu&#10;Ethereum&#10;0x9a6f4865de43efba4922f93057373ac60806b0ef&#10;Ripple &#10;rXieaAC3nevTKgVu2SYoShjTCS2Tfczqx&#10;&#10;Science vs Scientism Quantum Eraser LIVE: The Creator vs Atheism. &#10;https://www.youtube.com/watch?v=ngziRHiLLiw&#38;t=2983s&#10;&#10;Science vs Scientism - Quantum Mechanics Double Slit &#38; Quantum Eraser Explained.&#10;https://www.youtube.com/watch?v=zfSdSPKWl9M&#10;&#10;Science Vs Pseudoscience #2 Flat Earth Proof LIVE: https://www.youtube.com/watch?v=DUw_Lckd_tY&#38;t=858s&#10;&#10;Science Vs Pseudoscience: #3 Flat Earth Logical Fallacies: https://www.youtube.com/watch?v=T604JkccRms&#10;&#10;Double Slit Experiment - https://www.youtube.com/watch?v=ayvbKafw2g0 &#10;&#10;Light Is A Particle - https://youtu.be/JC2cqNGhzPA&#10;&#10;Be here or be sphere as Nathan Oakley is joined by guests to discuss Flat Earth. Prepare for the worst and hope for the best.&#10;&#10;Link To Join - https://discord.gg/ABrHMCCNb3"
     channeltitle "NathanOakley1980"
     channelid "UCkLJN43Fs8Vf_4S9ijrYiyA"
@@ -7957,7 +7957,7 @@ graph
     commentcount 45
     duration "PT2H56M16S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 3
     duration "PT2M49S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -7983,7 +7983,7 @@ graph
     label "-nwN3aViYOc"
     step 0
     date "2022-07-07T20:00:13Z"
-    title "Flat Earth Debate 1685 Uncut &#38;amp; After Show The Beast"
+    title "Flat Earth Debate 1685 Uncut After Show The Beast"
     description "https://www.patreon.com/nathanoakley&#10;&#10;Channel Membership - &#10; https://www.youtube.com/channel/UCkLJN43Fs8Vf_4S9ijrYiyA/join&#10;&#10;FE Merchandise -  https://shop.spreadshirt.co.uk/no80/  &#10;&#10;Subscribe to my main channel to keep up to date with the Flat Earth Debate - https://youtu.be/Dq-rVPtagoc &#10;&#10;Be here or be sphere as Nathan Oakley is joined by guests to discuss flat earth. Prepare for the worst and hope for the best.&#10;&#10;IF YOU LIKE THESE VIDEOS, YOU CAN MAKE A SMALL DONATION VIA PAYPAL LINK HERE:...  https://paypal.me/nathanoakley1980 &#10;(paypal email: NathanOakley1980@aol.com )&#10;&#10;Bitcoin &#10;3HjUKrNhZo2secyRF1U726wN6dpicxerKd&#10;Lite coin &#10;MMwe7NSHqyqVSFwri1hFGwKGEsWGD1cSEu&#10;Ethereum&#10;0x9a6f4865de43efba4922f93057373ac60806b0ef&#10;Ripple &#10;rXieaAC3nevTKgVu2SYoShjTCS2Tfczqx&#10;&#10;Science vs Scientism Quantum Eraser LIVE: The Creator vs Atheism. &#10;https://www.youtube.com/watch?v=ngziRHiLLiw&#38;t=2983s&#10;&#10;Science vs Scientism - Quantum Mechanics Double Slit &#38; Quantum Eraser Explained.&#10;https://www.youtube.com/watch?v=zfSdSPKWl9M&#10;&#10;Science Vs Pseudoscience #2 Flat Earth Proof LIVE: https://www.youtube.com/watch?v=DUw_Lckd_tY&#38;t=858s&#10;&#10;Science Vs Pseudoscience: #3 Flat Earth Logical Fallacies: https://www.youtube.com/watch?v=T604JkccRms&#10;&#10;Double Slit Experiment - https://www.youtube.com/watch?v=ayvbKafw2g0 &#10;&#10;Light Is A Particle - https://youtu.be/JC2cqNGhzPA &#10;&#10;Be here or be sphere as Nathan Oakley is joined by guests to discuss Flat Earth. Prepare for the worst and hope for the best.&#10;&#10;Link To Join - https://discord.gg/ABrHMCCNb3"
     channeltitle "Nathan Oakley"
     channelid "UCjARXn543MfmtxGotPs0rtg"
@@ -7993,7 +7993,7 @@ graph
     commentcount 113
     duration "PT4H7M42S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -8001,7 +8001,7 @@ graph
     label "pbu4dhkDc9A"
     step 0
     date "2022-07-12T05:20:24Z"
-    title "These flat earth ears are BUGGED THE F OUT!&#129318;&#127995;&#8205;&#9794;&#65039;"
+    title "These flat earth ears are BUGGED THE F OUT!"
     description ""
     channeltitle "BestrongintheLord144"
     channelid "UCNfjXxi1MSk4KBAk417hzVw"
@@ -8011,7 +8011,7 @@ graph
     commentcount 0
     duration "PT15M9S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8019,7 +8019,7 @@ graph
     label "Z873Gk-f34c"
     step 0
     date "2022-07-08T10:50:20Z"
-    title "24/7 Flat Earth Discord !LIVE! - 2500 - Join the Discussion - https://discord.gg/flatearth"
+    title "24/7 Flat Earth Discord !LIVE! - 2500 - Join the Discussion - "
     description "Powered by Restream https://restre.am/yt&#10;&#10;Join the discussion:&#13;&#10;24/7 Flat Earth Discord 2.0 : https://discord.gg/3FScNwc&#13;&#10;https://discord.gg/flatearth&#13;&#10;&#13;&#10;Roger's Channel:  https://youtube.com/channel/UCt4nODe1QMrzHIIBIiIv&#13;&#10;9XA&#13;&#10;&#13;&#10;Dlive stream: https://dlive.tv/HelioSkeptic&#13;&#10;Twitter stream: https://www.twitter.com/helioskeptic&#13;&#10;&#13;&#10;Support the stream:&#13;&#10;https://www.paypal.me/dmcashjr&#13;&#10;https://www.patreon.com/user?u=32152366&#13;&#10;&#13;&#10;This is the live stream channel for the 24/7 Flat Earth Discord 2.0 server.&#13;&#10;Debates and related talks are going on 24/7. Click the join link above and you can be part of the conversation. We have many voice chat rooms that are not streamed live and if you would rather ask questions in the lobby you will have that option as well.&#13;&#10;&#13;&#10;Email me: 247flatearthdiscord@gmail.com"
     channeltitle "24/7 Flat Earth Discord !LIVE!"
     channelid "UCEpI3ZQoVaxwoB4d5o9l3Tg"
@@ -8037,7 +8037,7 @@ graph
     label "xChqzzAPeS0"
     step 0
     date "2022-07-12T12:24:35Z"
-    title "&#38;quot;What is Above, Below and Beyond the Flat Earth?&#38;quot;"
+    title ""
     description "@https://t.me/FlacheErdedeutsch &#10;&#10;What is Above, Below and Beyond the Flat Earth?&#10;&#10;Three related questions frequently asked by people first coming across this subject, all of which share similar answers, are what is over, under, and outside of the Flat Earth?  The shortest and most honest answer is that ultimately we don't know what is above, below, and beyond the Earth.  In reality, globe believers themselves also don't know what exists in the deep recesses of the Earth anymore than they know what exists in the depths of their infinite vacuum space, but they are given definitive answers about both in the form of stories and CGI images by their heliocentric priests.  As one of their own, Richard Feynman, eloquently stated however: &#34;I would rather have questions that cannot be answered, than answers that cannot be questioned&#34;..."
     channeltitle "Flache Erde 2.0"
     channelid "UCi8bRl5vPodFe8-IorqSsUg"
@@ -8065,7 +8065,7 @@ graph
     commentcount 0
     duration "PT2H5M18S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -8073,7 +8073,7 @@ graph
     label "iZYqRUcQPlg"
     step 0
     date "2022-07-08T18:31:34Z"
-    title "Flat Earth Debate 1688 Uncut &#38;amp; After Show"
+    title "Flat Earth Debate 1688 Uncut After Show"
     description "https://www.patreon.com/nathanoakley&#10;&#10;Channel Membership - &#10; https://www.youtube.com/channel/UCkLJN43Fs8Vf_4S9ijrYiyA/join&#10;&#10;FE Merchandise -  https://shop.spreadshirt.co.uk/no80/  &#10;&#10;Subscribe to my main channel to keep up to date with the Flat Earth Debate - https://youtu.be/Dq-rVPtagoc &#10;&#10;Be here or be sphere as Nathan Oakley is joined by guests to discuss flat earth. Prepare for the worst and hope for the best.&#10;&#10;IF YOU LIKE THESE VIDEOS, YOU CAN MAKE A SMALL DONATION VIA PAYPAL LINK HERE:...  https://paypal.me/nathanoakley1980 &#10;(paypal email: NathanOakley1980@aol.com )&#10;&#10;Bitcoin &#10;3HjUKrNhZo2secyRF1U726wN6dpicxerKd&#10;Lite coin &#10;MMwe7NSHqyqVSFwri1hFGwKGEsWGD1cSEu&#10;Ethereum&#10;0x9a6f4865de43efba4922f93057373ac60806b0ef&#10;Ripple &#10;rXieaAC3nevTKgVu2SYoShjTCS2Tfczqx&#10;&#10;Science vs Scientism Quantum Eraser LIVE: The Creator vs Atheism. &#10;https://www.youtube.com/watch?v=ngziRHiLLiw&#38;t=2983s&#10;&#10;Science vs Scientism - Quantum Mechanics Double Slit &#38; Quantum Eraser Explained.&#10;https://www.youtube.com/watch?v=zfSdSPKWl9M&#10;&#10;Science Vs Pseudoscience #2 Flat Earth Proof LIVE: https://www.youtube.com/watch?v=DUw_Lckd_tY&#38;t=858s&#10;&#10;Science Vs Pseudoscience: #3 Flat Earth Logical Fallacies: https://www.youtube.com/watch?v=T604JkccRms&#10;&#10;Double Slit Experiment - https://www.youtube.com/watch?v=ayvbKafw2g0 &#10;&#10;Light Is A Particle - https://youtu.be/JC2cqNGhzPA &#10;&#10;Be here or be sphere as Nathan Oakley is joined by guests to discuss Flat Earth. Prepare for the worst and hope for the best.&#10;&#10;Link To Join - https://discord.gg/ABrHMCCNb3"
     channeltitle "Nathan Oakley"
     channelid "UCjARXn543MfmtxGotPs0rtg"
@@ -8083,7 +8083,7 @@ graph
     commentcount 0
     duration "PT4H22M44S"
     indegree 0
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -8101,7 +8101,7 @@ graph
     commentcount 0
     duration "PT8M43S"
     indegree 0
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -8109,7 +8109,7 @@ graph
     label "3_JYg1VQhpQ"
     step 0
     date "2022-07-06T22:34:41Z"
-    title "Inner Earth &#38;amp; The Secrets Of Agartha + Admiral Byrd Antarctica Visit"
+    title "Inner Earth The Secrets Of Agartha + Admiral Byrd Antarctica Visit"
     description "In this video we dive into inner earth and the secrets of Agartha &#128007;&#128371;&#127795;&#127795;&#9728;&#65039; With clear cut evidence and the diary of admiral Byrd . &#128065;&#9876;&#65039;&#128204;&#10;&#10;Instagram:Strangerthan_Strangerthings &#128204;&#128175;&#10;&#10;#Admiralbyrd #Flatearth #Innerearth #Agartha #Thetruth #Conspiracy #Trueconspiracies #Conspiracytheory #Exploration #Antartica #Antarticatreaty #Thirdeye #RashadJamal #FreeRashadjamal #Truthseekers #1947 #Diary #DiaryofAdmiralbyrd #Evidence #findings #Matrix #Realms"
     channeltitle "StrangerThan_StrangerThings"
     channelid "UCHdBjVU_KFE0zzLdKUJrCNA"
@@ -8119,7 +8119,7 @@ graph
     commentcount 2
     duration "PT21M55S"
     indegree 0
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -8155,7 +8155,7 @@ graph
     commentcount 4
     duration "PT1M1S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -8163,7 +8163,7 @@ graph
     label "L7TcMVDGApo"
     step 0
     date "2022-07-10T21:31:56Z"
-    title "24/7 Flat Earth Discord !LIVE! - 2504 - Join the Discussion - https://discord.gg/flatearth"
+    title "24/7 Flat Earth Discord !LIVE! - 2504 - Join the Discussion - "
     description "Powered by Restream https://restre.am/yt&#10;&#10;Join the discussion:&#13;&#10;24/7 Flat Earth Discord 2.0 : https://discord.gg/3FScNwc&#13;&#10;https://discord.gg/flatearth&#13;&#10;&#13;&#10;Roger's Channel:  https://youtube.com/channel/UCt4nODe1QMrzHIIBIiIv&#13;&#10;9XA&#13;&#10;&#13;&#10;Dlive stream: https://dlive.tv/HelioSkeptic&#13;&#10;Twitter stream: https://www.twitter.com/helioskeptic&#13;&#10;&#13;&#10;Support the stream:&#13;&#10;https://www.paypal.me/dmcashjr&#13;&#10;https://www.patreon.com/user?u=32152366&#13;&#10;&#13;&#10;This is the live stream channel for the 24/7 Flat Earth Discord 2.0 server.&#13;&#10;Debates and related talks are going on 24/7. Click the join link above and you can be part of the conversation. We have many voice chat rooms that are not streamed live and if you would rather ask questions in the lobby you will have that option as well.&#13;&#10;&#13;&#10;Email me: 247flatearthdiscord@gmail.com"
     channeltitle "24/7 Flat Earth Discord !LIVE!"
     channelid "UCEpI3ZQoVaxwoB4d5o9l3Tg"
@@ -8181,7 +8181,7 @@ graph
     label "0jVNCfOvIHo"
     step 0
     date "2022-07-10T22:51:55Z"
-    title "24/7 Flat Earth Discord !LIVE! - 2504 - Join the Discussion - https://discord.gg/flatearth"
+    title "24/7 Flat Earth Discord !LIVE! - 2504 - Join the Discussion - "
     description "Powered by Restream https://restre.am/yt&#10;&#10;Join the discussion:&#13;&#10;24/7 Flat Earth Discord 2.0 : https://discord.gg/3FScNwc&#13;&#10;https://discord.gg/flatearth&#13;&#10;&#13;&#10;Roger's Channel:  https://youtube.com/channel/UCt4nODe1QMrzHIIBIiIv&#13;&#10;9XA&#13;&#10;&#13;&#10;Dlive stream: https://dlive.tv/HelioSkeptic&#13;&#10;Twitter stream: https://www.twitter.com/helioskeptic&#13;&#10;&#13;&#10;Support the stream:&#13;&#10;https://www.paypal.me/dmcashjr&#13;&#10;https://www.patreon.com/user?u=32152366&#13;&#10;&#13;&#10;This is the live stream channel for the 24/7 Flat Earth Discord 2.0 server.&#13;&#10;Debates and related talks are going on 24/7. Click the join link above and you can be part of the conversation. We have many voice chat rooms that are not streamed live and if you would rather ask questions in the lobby you will have that option as well.&#13;&#10;&#13;&#10;Email me: 247flatearthdiscord@gmail.com"
     channeltitle "HelioSkeptic"
     channelid "UCaQEWBF1nQBGNcodKj8AZMg"
@@ -8199,7 +8199,7 @@ graph
     label "52RJCa_gr4w"
     step 0
     date "2015-10-06T16:51:26Z"
-    title "Flat earth under the firmament (part 4): Weather patterns on a flat earth explained"
+    title "Flat earth under the firmament (part 4): Weather patterns on a flat earth e tongue sticking out lained"
     description "A great app free online to look at viewing the weather of the world within our flat earth under the firmament:&#10;http://earth.nullschool.net/&#10;Night and day example on a flat earth by Rob Skiba:&#10;https://www.youtube.com/watch?v=hiOhsKAR6OY&#10;&#10;Make sure to visit www.soundingtheloudcry.com to find out more about the 7 Trumpets of Revelation, The Creators Calendar and much more.&#10;&#10;Off Grid living is what you desire and independence? Then contact us at http://www.offgridcontracting.com/ and we can help make your dreams a reality.&#10;&#10;&#8220;Store food you will love to eat!&#8221; https://valleyfoodstorage.com/7tp/&#10;&#10;Epic Survival and Tactical gear delivered to your door step monthly&#10;http://www.battlbox.com/&#10;&#10;GMAG&#174; Saltwater Powered Battery Charger - Portable Power from Saltwater&#10;Anywhere, Anytime, Any Weather, Day or Night - Be Prepared&#10;Need Power? Just Add Water!&#174;   http://www.greenivative.com/&#10;&#10;Looking for Alternative Energy for your prepping needs? Offering solutions for applications in Solar, Wind and more visit: http://hurricanewindpower.com/&#10;&#10;http://www.preppergearbox.com/ The name says it all!&#10;Check them out, get you a box and enter this coupon code for a 10% discount: 7TRUMPETS&#10;&#10;Want to grow your own food with a Geodesic greenhouse dome?Then visit http://ziptiedomes.com/ for an affordable solution specializing in greenhouses, chicken tractors and more.&#10;&#10;Dependable off grid wind and solar power you can count on Missouri Wind and Solar http://store.mwands.com/&#10;&#10;Dreaming of owning your own tiny house? Look no further than http://www.incredibletinyhomes.com/ the best tiny homes period!&#10;&#10;Apocabox! Hand selected survival tools http://www.myapocabox.com &#10;&#10;&#10;INTRO THUNDER BY:Mark DiAngelo&#10;INTRO/OUTRO SOUNDS AND MUSIC PROVIDED BY:POND5.COM"
     channeltitle "7 TRUMPETS PREPPER"
     channelid "UCRhoHvv62afc5iQ0BoSAihQ"
@@ -8209,7 +8209,7 @@ graph
     commentcount 18
     duration "PT12M14S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   edge
   [

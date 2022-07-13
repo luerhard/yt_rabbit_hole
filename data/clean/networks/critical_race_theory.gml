@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:21 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:33:56 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "svj_6w0EUz4"
     step 0
     date "2021-07-13T17:36:50Z"
-    title "Critical race theory: Experts break down what it actually means"
+    title "Critical race theory: E tongue sticking out erts break down what it actually means"
     description "Teachers across the country are caught in the middle of the latest flashpoint in America's culture war: critical race theory. Here's what the decades-old framework actually entails. Read more: https://wapo.st/3i5akot. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&#10;&#10;Follow us:&#10;Twitter: https://twitter.com/washingtonpost&#10;Instagram: https://www.instagram.com/washingtonpost/&#10;Facebook: https://www.facebook.com/washingtonpost/"
     channeltitle "Washington Post"
     channelid "UCHd62-u_v4DvJ8TCFtpi4GA"
@@ -37,7 +37,7 @@ graph
     commentcount -1
     duration "PT2M51S"
     indegree 67
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -55,7 +55,7 @@ graph
     commentcount 35986
     duration "PT28M8S"
     indegree 37
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -73,7 +73,7 @@ graph
     commentcount 231
     duration "PT2M51S"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -91,7 +91,7 @@ graph
     commentcount -1
     duration "PT9M5S"
     indegree 142
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -99,7 +99,7 @@ graph
     label "n4TAQF6ocLU"
     step 0
     date "2021-06-22T02:20:11Z"
-    title "Creator Of Term &#8216;Critical Race Theory&#8217; Kimberl&#233; Crenshaw Explains What It Really Is"
+    title "Creator Of Term Crenshaw E tongue sticking out lains What It Really Is"
     description "&#8216;Critical Race Theory&#8217; is explained as neither Marxist nor racist by its leading scholar, Kimberl&#233; Crenshaw, who co-developed this framework of study, and coined this term.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#8203;&#10;&#10;About The ReidOut with Joy Reid: Joy Reid conducts one-on-one conversations with politicians and newsmakers while addressing provocative political issues both inside and outside of the beltway. Reid, who is also a best-selling author and public speaker, joined MSNBC in 2011 as a contributor. Drawing from her decades-long experience in politics, passion for addressing the intersection of race, justice and culture, as well as her signature tenacious interviewing style, Reid kicks off MSNBC&#8217;s primetime lineup by delving into American politics as it unfolds. &#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, Hardball, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#8203;&#10;Subscribe to MSNBC Newsletter: http://MSNBC.com/NewslettersYouTube&#8203;&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#8203;&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#8203;&#10;&#10;#MSNBC #CriticalRaceTheory #JoyReid"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -109,7 +109,7 @@ graph
     commentcount 6911
     duration "PT8M56S"
     indegree 37
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 86605
     duration "PT9M31S"
     indegree 150
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -135,7 +135,7 @@ graph
     label "miVlHcdjaWM"
     step 0
     date "2022-01-04T16:00:18Z"
-    title "What Critical Race Theory Actually Is &#8212; and Isn&#38;#39;t"
+    title "What Critical Race Theory Actually Is t"
     description "Watch historian and author Ibram X. Kendi expertly break down critical race theory and its common misconceptions.&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/knowthis_youtube&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#10;For more education news, subscribe to NowThis News.&#10;&#10;#CriticalRaceTheory #CRT #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -145,7 +145,7 @@ graph
     commentcount 437
     duration "PT5M19S"
     indegree 26
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -153,7 +153,7 @@ graph
     label "57kVvE97nI4"
     step 0
     date "2021-09-22T18:38:34Z"
-    title "What is &#38;#39;critical race theory&#38;#39;?"
+    title "What is ?"
     description "&#8216;Critical race theory,&#8217; a once-obscure academic concept, has become a fixture in the fierce U.S. debate over how to teach children about the country's history and race relations.&#10; &#10;#Racism #RaceTheory #News #Reuters&#10;&#10;Subscribe: http://smarturl.it/reuterssubscribe&#10;&#10;Reuters brings you the latest business, finance and breaking news video from around the globe.  Our reputation for accuracy and impartiality is unparalleled.&#10;&#10;Get the latest news on: http://reuters.com/&#10;Follow Reuters on Facebook: https://www.facebook.com/Reuters&#10;Follow Reuters on Twitter: https://twitter.com/Reuters&#10;Follow Reuters on Instagram: https://www.instagram.com/reuters/?hl=en"
     channeltitle "Reuters"
     channelid "UChqUTb7kYRX8-EiaN3XFrSQ"
@@ -163,7 +163,7 @@ graph
     commentcount -1
     duration "PT3M37S"
     indegree 45
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -207,7 +207,7 @@ graph
     label "mmRO3J6IJC8"
     step 0
     date "2021-10-04T11:24:27Z"
-    title "Parents skeptical of critical race theory talk to experts: Drawing Conclusions PART 1 FULL INTV"
+    title "Parents skeptical of critical race theory talk to e tongue sticking out erts: Drawing Conclusions PART 1 FULL INTV"
     description "Parents Bart and Coley Glasgow from Canton, Georgia, interviewed Dr. Carol Anderson, a professor at Emory University, about critical race theory and how it's taught in schools. This is the full interview the Glasgows conducted with Dr. Anderson. It's part of 11Alive's &#34;Drawing Conclusions&#34; series as we follow two metro Atlanta parents concerned about critical race theory (CTR) and diversity, equity and inclusion (DEI) programs in public schools. The Glasgows agreed to go on a fact-finding journey and interview experts in African American studies, DEI, implicit bias and America&#8217;s civil rights movement.&#10;&#10;Follow their fact-finding journey here:&#10;https://www.11alive.com/article/news/investigations/cherokee-county-ga-parents-skeptical-critical-race-theory-dei-speak-to-experts/85-8a198b32-ad58-45bc-956f-563b8b5dce90"
     channeltitle "11Alive"
     channelid "UCzF4Ryn8TKn64md77gS5Q5Q"
@@ -235,7 +235,7 @@ graph
     commentcount 18606
     duration "PT8M14S"
     indegree 47
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 1974
     duration "PT3M9S"
     indegree 21
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount -1
     duration "PT1H41M23S"
     indegree 16
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -279,7 +279,7 @@ graph
     label "Y2esl0yVFXE"
     step 0
     date "2021-07-14T20:15:03Z"
-    title "Author debunks critical race theory with simple explanation"
+    title "Author debunks critical race theory with simple e tongue sticking out lanation"
     description "Kenny Xu, author of 'An Inconvenient Minority', argues that Asian-American success disproves critical race theory.&#10;&#10;Subscribe to Fox News!&#160;https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video:&#160;http://video.foxnews.com&#10;Watch Fox News Channel Live:&#160;http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five:&#160;http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier:&#160;http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime:&#160;https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight:&#160;http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:&#160;&#160;http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle:&#160;http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night:&#160;http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook:&#160;https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter:&#160;https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram:&#160;https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -307,7 +307,7 @@ graph
     commentcount 3762
     duration "PT9M3S"
     indegree 37
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 2479
     duration "PT3M41S"
     indegree 22
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 2567
     duration "PT47M24S"
     indegree 25
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -351,7 +351,7 @@ graph
     label "In6NVLANvLc"
     step 0
     date "2021-07-28T19:00:06Z"
-    title "Florida Banned Critical Race Theory, But Can&#8217;t Define What It Is"
+    title "Florida Banned Critical Race Theory, But Cant Define What It Is"
     description "Florida's Board of Education has banned Critical Race Theory. But it's not all that clear if officials know what they voted for...or if activists understand what it is. Michael Moynihan is in Florida, asking the tough questions...like, what part of a fifth grader's textbook is teaching grad-school-level theory?&#10;&#13;&#10;Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News&#13;&#10;&#13;&#10;Check out VICE News for more: http://vicenews.com&#13;&#10;&#13;&#10;Follow VICE News here:&#13;&#10;Facebook: https://www.facebook.com/vicenews&#13;&#10;Twitter: https://twitter.com/vicenews&#13;&#10;Tumblr: http://vicenews.tumblr.com/&#13;&#10;Instagram: http://instagram.com/vicenews&#13;&#10;More videos from the VICE network: https://www.fb.com/vicevideo&#13;&#10;&#13;&#10;#VICENews #News"
     channeltitle "VICE News"
     channelid "UCZaT_X_mc0BI-djXOlfhqWQ"
@@ -361,7 +361,7 @@ graph
     commentcount 11002
     duration "PT11M7S"
     indegree 101
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount -1
     duration "PT4M33S"
     indegree 21
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -387,7 +387,7 @@ graph
     label "2LJ8nBgEA2Q"
     step 0
     date "2021-11-02T03:33:48Z"
-    title "Rep. Dan Crenshaw - Immigration Policy, Critical Race Theory &#38;amp; Climate Change | The Daily Show"
+    title "Rep. Dan Crenshaw - Immigration Policy, Critical Race Theory Climate Change | The Daily Show"
     description "Texas Republican Congressman Dan Crenshaw discusses how to solve the U.S.&#8217;s illegal immigration problem, explains why he has a problem with critical race theory and clarifies his stance on global warming ahead of his COP26 visit. #DailyShow #TrevorNoah #DanCrenshaw&#10;&#10;Subscribe to The Daily Show:&#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &#10;&#10;Follow The Daily Show:&#10;Twitter: https://twitter.com/TheDailyShow&#10;Facebook: https://www.facebook.com/thedailyshow&#10;Instagram: https://www.instagram.com/thedailyshow&#10;&#10;Stream full episodes of The Daily Show on Paramount+: http://www.paramountplus.com/?ftag=PPM-05-10aei0b&#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;About The Daily Show:&#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&#10;&#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
     channeltitle "The Daily Show with Trevor Noah"
     channelid "UCwWhs_6x42TyRM4Wstoq8HA"
@@ -397,7 +397,7 @@ graph
     commentcount 9958
     duration "PT27M7S"
     indegree 49
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -415,7 +415,7 @@ graph
     commentcount 9246
     duration "PT21M26S"
     indegree 51
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -423,7 +423,7 @@ graph
     label "R_5Ls0eylh0"
     step 0
     date "2022-03-07T19:00:17Z"
-    title "Political Experts React to Critical Race Theory Ads"
+    title "Political E tongue sticking out erts React to Critical Race Theory Ads"
     description "Former Barack Obama Communications Director and Pod Save America host Dan Pfeiffer is joined by Anat Shenker-Osorio to break down political ads about Education and Critical Race Theory.&#10;&#10;00:00 Intro and Republican focus on Education&#10;00:50 &#34;Born That Way&#34; from Dave White for Governor (Pennsylvania)&#10;03:21 &#34;Let Kids Learn&#34; The State Government Leadership Foundation&#10;07:30 &#34;Truth&#34; from John King for Governor (Maryland)&#10;09:50 A Revised Democratic message on Education&#10;&#10;#PoliticalExpertsReact #CriticalRaceTheory #PoliticalAds&#10;&#10;Subscribe to our channel! https://www.youtube.com/crookedmedia?sub_confirmation=1&#10;&#10;Crooked believes that we need a better conversation about politics, culture, and the world around us&#8212;one that doesn&#8217;t just focus on what&#8217;s broken, but what we can do to fix it. At a time when it&#8217;s increasingly easy to feel cynical or hopeless, former Obama staffers Jon Favreau, Jon Lovett, and Tommy Vietor have created a place where people can have sane conversations that inform, entertain, and inspire action. In 2017 they started Crooked with Pod Save America&#8212;a no-bullshit conversation about politics. Since then, we continue to add shows, voices, and opportunities for activism, because it&#8217;s up to all of us to do our part to build a better world. That&#8217;s it. End of mission.&#10;&#10;Want some pep talks, the most important things to do/know, and the occasional dog pic? Shoot us a text at (323) 405-9944&#10;&#10;Written content at http://www.crooked.com&#10;Follow Crooked on Twitter https://twitter.com/crookedmedia&#10;Follow Crooked on Facebook https://www.facebook.com/CrookedMedia/ &#10;Follow Crooked on Instagram https://www.instagram.com/crookedmedia/"
     channeltitle "Crooked Media"
     channelid "UCKRoXz3hHAu2XL_k3Ef4vJQ"
@@ -433,7 +433,7 @@ graph
     commentcount 585
     duration "PT12M6S"
     indegree 22
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -441,7 +441,7 @@ graph
     label "QFqaBuFtigQ"
     step 0
     date "2021-10-13T11:00:23Z"
-    title "Ingraham: CNN accidentally exposes the fraud of critical race theory"
+    title "Ingraham: CNN accidentally e tongue sticking out oses the fraud of critical race theory"
     description "Laura Ingraham urges parents to stand up against the &#8216;propaganda&#8217; in their children&#8217;s curriculums. #FoxNews #Ingraham&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -451,7 +451,7 @@ graph
     commentcount 21907
     duration "PT9M49S"
     indegree 76
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount -1
     duration "PT2M34S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -477,7 +477,7 @@ graph
     label "iK4DqtXu7uA"
     step 0
     date "2021-08-15T17:45:09Z"
-    title "Critical Race Theory (a beginner&#38;#39;s beginner guide) | Khadija Mbowe"
+    title "Critical Race Theory (a beginners beginner guide) | Khadija Mbowe"
     description "Use code KHADIJA14 for up to 14 FREE MEALS across your first 5 HelloFresh boxes plus free shipping at https://bit.ly/36kidRB!&#160;&#10;&#10;Time Stamps:&#10;Play 0:00&#10;Song about my outfit 2:25&#10;Intro 3:13&#10;Docket&#10;Shouts to HelloFresh 6:48&#10;&#10;PART 1 What is CRT? &#10;Definition 8:18&#10;Origins 9:18&#10;Philosophies 12:26&#10;Interest Convergence 14:37&#10;PART 2 Pros and Cons &#10;Pros 22:35&#10;Cons 27:05&#10;PART 3 Final thoughts&#10;Ma thoughts 38:11&#10;Credits &#38; Shouts to the Patrons 49:07&#10;&#10;&#8220;Charity&#8221; for August: Radical Hood Library, all proceeds will go to purchasing books from The Massive Book Shop to donate to the Radical Hood Library! (If you wanna donate click on the PayPal icon in my banner!) &#10;https://www.paypal.com/donate/?business=WEJ5UZTZ5X7RS&#38;currency_code=CAD&#10;&#10;Small channel shoutouts for August:&#10;cheyenne cassidy&#10;https://www.youtube.com/channel/UCypLVuXnRq7HT5P6JiL-rjg/videos&#10;Chairlsy&#10;https://www.youtube.com/c/Chairlsy/videos&#10;Misha Maseka&#10;https://www.youtube.com/channel/UCDrzFu1GxaJUM2CI_o7sZKw/videos&#10;&#10;Works Cited&#10;https://drive.google.com/file/d/1sQECVkiDXB_JYopLfNPCuW3OZSy958h0/view?usp=sharing&#10;Journals/Essays/PDFs&#10;https://drive.google.com/drive/folders/1lLM_fWFjb1tbAe2u19QXUOQQcb6Pb4U9?usp=sharing&#10;&#10;*******Land Acknowledgement******&#10;My videos are recorded on Tiohti&#224;:ke (Montreal) which is the traditional territory of the Kanien&#8217;keh&#224;:ka, a place which has long served as a site of meeting and exchange amongst many First Nations including the Kanien&#8217;keh&#225;:ka of the Haudenosaunee Confederacy, Huron/Wendat, Abenaki, and Anishinaabeg.&#10;&#10;Territory Acknowledgement&#10;https://native-land.ca/resources/territory-acknowledgement/&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;Where to find me&#10;Instagram @khadija.mbowe &#10;Patreon: https://www.patreon.com/khadijambowe&#10;Website: https://www.khadijambowe.com/&#10;Booking inquiries: hello@khadijambowe.com&#10;Tiktok: @khadijonmustard&#10;&#10;If you wanna donate to the charity of the month on PayPal, click the icon on my banner!&#10;Video Watermark artwork @ddthewizard&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;Priscilla &#38; Maddy&#8217;s links&#10;Maddy Lines- Fact-checker (https://www.madelinelines.com/) &#10;Priscilla Menezes- Assistant researcher ( https://www.instagram.com/priscillathefairy/)&#10;CC's- Ra&#250;l Alc&#225;zar - CapsuleCaptions contact@capsulecaptions.com&#10;&#10;&#10;&#10;Continued education and Support&#10;LandBack&#10;https://landback.org/&#10;Anarchism and the Black Revolution&#10;https://theanarchistlibrary.org/library/lorenzo-kom-boa-ervin-anarchism-and-the-black-revolution&#10;19 organizations supporting Black Canadians &#10;https://www.ellecanada.com/culture/society/9-organizations-supporting-black-canadians-to-donate-to&#10;174 Ways to Donate in Support of Black Lives and Communities of Color&#10;https://nymag.com/strategist/article/where-to-donate-for-black-lives-matter.html&#10;15 indigenous Human rights organizations to follow &#10;https://www.humanrightscareers.com/issues/indigenous-human-rights-organizations/&#10;8 Organizations to Donate to Right Now to Support the AAPI Community&#10;https://www.housebeautiful.com/lifestyle/a35885105/stop-asian-hate-aapi-donate/&#10;Organizations to Support in the Fight Against Asian Hate&#10;https://www.harpersbazaar.com/culture/politics/a35862857/stop-asian-hate-organizations-to-support/&#10;12 Organizations for People with Disabilities You Should Know&#10;https://www.diversitybestpractices.com/12-organizations-for-people-with-disabilities-you-should-know&#10;Stop Asian Hate&#10;https://stopaapihate.org/safetytipsenglish/&#10;Transgender Resources&#10;https://www.glaad.org/transgender/resources&#10;Donate to LGBTQ Charities&#10;https://www.canadahelps.org/en/explore/charities/category/social-services/sub-category/lesbian-gay-bi-trans-queer/&#10;Human rights watch on Israel- Palestine&#10;https://www.hrw.org/report/2021/04/27... &#10;&#10;@stopaapihate @decolonizemyself @alokvmenon @blackwomeninopera @latinosinopera  @stopasianhate @melissablake81 @aapiwomenlead @colorismhealing @asian4asianantiracism @wheelchair_rapunzel @hateisavirus @indigenouspeoplesmovement @southasians4blacklives @shooglet  @seedingsovereignty @marclamonthill @subhi.taha @roaming.pencil @pmrsofficial&#10;this one is just fun @hotmessbian&#10;&#10;&#10;Opportunity Walks by Kevin MacLeod&#10;Link: https://incompetech.filmmusic.io/song...&#10;License: http://creativecommons.org/licenses/b..."
     channeltitle "Khadija Mbowe"
     channelid "UCbuf70y__Wh3MRxZcbj778Q"
@@ -487,7 +487,7 @@ graph
     commentcount 1556
     duration "PT52M55S"
     indegree 11
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -495,7 +495,7 @@ graph
     label "ZkjG9ih2-w4"
     step 0
     date "2021-07-22T23:08:52Z"
-    title "Explaining Critical Race Theory"
+    title "E tongue sticking out laining Critical Race Theory"
     description "Critical Race Theory has recently become a hot button issue in the U.S. education system. While it may seem like a new term, this theory has been around for decades. But what does it mean and how could it influence the education of our children? #criticalracetheory #culture #history #politics #cgtnamerica"
     channeltitle "CGTN America"
     channelid "UCj7wKsOBhRD9Jy4yahkMRMw"
@@ -513,7 +513,7 @@ graph
     label "GQT-RRqLeH8"
     step 0
     date "2021-11-11T05:11:16Z"
-    title "What Critical Race Theory actually is and what it isn&#38;#39;t | Planet America"
+    title "What Critical Race Theory actually is and what it isnt | Planet America"
     description "What exactly is Critical Race Theory and did it really swing the election in Virginia? Planet America asks Professor of Sociology at the University of Maryland, Dr Rashawn Ray.  &#10;&#10;View the full episode here: https://www.youtube.com/watch?v=iM-xTKimB5M&#10;&#10;Subscribe: http://ab.co/1svxLVE  &#10;&#10;ABC News provides around the clock coverage of news events as they break in Australia and abroad, including the latest coronavirus pandemic updates. It's news when you want it, from Australia's most trusted news organisation.&#10;&#10;For more from ABC News, click here: https://ab.co/2kxYCZY&#10;Watch more ABC News content ad-free on iview: https://ab.co/2OB7Mk1&#10;&#10;Go deeper on our ABC News In-depth channel: https://ab.co/2lNeBn2&#10;Like ABC News on Facebook: http://facebook.com/abcnews.au&#10;Follow ABC News on Instagram: http://instagram.com/abcnews_au&#10;Follow ABC News on Twitter: http://twitter.com/abcnews&#10;&#10;Note: In most cases, our captions are auto-generated.&#10;&#10;#ABCNews #ABCNewsAustralia"
     channeltitle "ABC News (Australia)"
     channelid "UCVgO39Bk5sMo66-6o6Spn6Q"
@@ -523,7 +523,7 @@ graph
     commentcount -1
     duration "PT13M39S"
     indegree 22
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -531,7 +531,7 @@ graph
     label "O0-pF3dvM4Q"
     step 0
     date "2022-04-24T17:30:01Z"
-    title "Tim Scott Says &#38;#39;Critical Race Theory&#38;#39; Teaches Kids They Are &#38;#39;Oppressors&#38;#39; Or &#38;#39;Victims&#38;#39;"
+    title "Tim Scott Says "
     description "States across the country ban textbooks and prohibit the teaching of certain topics in schools. But all of the concern over topics like critical race theory ignores a huge fact. Schools are filled with more than just straight, white, cisgender kids.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://link.msnbc.com/join/5ck/msnbc-daily-signup-youtube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#CriticalRaceTheory #TimScott #Education"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -541,7 +541,7 @@ graph
     commentcount 1148
     duration "PT9M3S"
     indegree 4
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -549,7 +549,7 @@ graph
     label "Dx8JKitp7zk"
     step 0
     date "2022-02-03T03:44:51Z"
-    title "How the education wars are expanding beyond critical race theory"
+    title "How the education wars are e tongue sticking out anding beyond critical race theory"
     description "ABC News&#8217; Janai Norman reports on the latest legislative moves on critical race theory and the expansion of the education wars, as well as how LGBTQ issues and the Holocaust are taught in the U.S.&#10;&#10;ABC News Live Prime, Weekdays at 7EST &#38; 9EST&#10;&#10;WATCH the ABC News Live Stream Here: https://www.youtube.com/watch?v=w_Ma8oQLmSM  &#10;SUBSCRIBE to ABC NEWS: https://bit.ly/2vZb6yP  &#10;Watch More on http://abcnews.go.com/  &#10;LIKE ABC News on FACEBOOK https://www.facebook.com/abcnews   &#10;FOLLOW ABC News on TWITTER: https://twitter.com/abc&#10;&#10;#ABCNLPrime #CriticalRaceTheory #LGBTQIssues #Holocaust #LegislativeMoves #EducationWars"
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -559,7 +559,7 @@ graph
     commentcount 305
     duration "PT9M28S"
     indegree 27
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 10089
     duration "PT33M29S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -585,7 +585,7 @@ graph
     label "pCqwaGM3wTg"
     step 0
     date "2021-10-19T17:34:27Z"
-    title "Critical Race Theory: AllStances&#8482;"
+    title "Critical Race Theory: AllStances"
     description "Is critical race theory (CRT) valid, or is it a problem? &#10;&#10;Does it unite us or divide us? Is it racist or anti-racist? &#10;&#10;Explore all perspectives, stances, and arguments for and against critical race theory with AllStances&#8482; by AllSides."
     channeltitle "AllSides"
     channelid "UCG9TfKVhTQwBZbJJMwnkJLg"
@@ -595,7 +595,7 @@ graph
     commentcount 4
     duration "PT1M55S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 746
     duration "PT43M49S"
     indegree 77
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -621,7 +621,7 @@ graph
     label "XRwrN_Iqp8Q"
     step 0
     date "2022-03-23T18:00:13Z"
-    title "The Debate Over Defining Critical Race Theory &#38;amp; Teaching Race In Classrooms | The View"
+    title "The Debate Over Defining Critical Race Theory Teaching Race In Classrooms | The View"
     description "With America's heated debate over critical race theory making its way into Judge Ketanji Brown Jackson's SCOTUS confirmation hearings, &#34;The View&#34; co-hosts and guest co-host Lindsey Granger discuss the issue and the teaching of race in the nation's classrooms.&#10;&#10;Subscribe to our YouTube channel: http://bit.ly/2Ybi4tM &#10;&#10;MORE FROM 'THE VIEW':&#10;Full episodes: http://abcn.ws/2tl10qh&#10;Twitter: http://twitter.com/theview&#10;Facebook: http://facebook.com/TheView&#10;Instagram: http://instagram.com/theviewabc"
     channeltitle "The View"
     channelid "UCeH6qE4V7n5tVwP7NkdrtJg"
@@ -631,7 +631,7 @@ graph
     commentcount 1279
     duration "PT3M33S"
     indegree 7
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount -1
     duration "PT2M36S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -657,7 +657,7 @@ graph
     label "6mGohbqdcT8"
     step 0
     date "2021-09-21T12:00:07Z"
-    title "The Battle Over Critical Race Theory (feat. Kimberl&#233; Crenshaw) | The Daily Show"
+    title "The Battle Over Critical Race Theory (feat. Kimberl Crenshaw) | The Daily Show"
     description "Critical Race Theory has become the right wing&#8217;s new boogeyman, but no one seems to know how to even define it. Leading scholar Professor Kimberl&#233; Crenshaw and producer CJ Hunt join host Roy Wood Jr. to break down what CRT actually is, why it&#8217;s necessary, and how ignoring the blowback could endanger years of progress.  #DailyShow #BeyondTheScenes&#10; &#10;Watch the original segments:&#10;https://youtu.be/XQKRYJnqIdM&#10;https://youtu.be/6ofjZH80y3g&#10;&#10;Follow Beyond the Scenes from The Daily Show with Trevor Noah:&#10;https://www.youtube.com/playlist?list=PLeskMkEaHJYdbvCLDE3XkXrUK9tjtUhs-&#10;http://podcasts.iheartradio.com/5VF7TkWF&#10;&#10;Subscribe to The Daily Show:&#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &#10;&#10;Follow The Daily Show:&#10;Twitter: https://twitter.com/TheDailyShow&#10;Facebook: https://www.facebook.com/thedailyshow&#10;Instagram: https://www.instagram.com/thedailyshow&#10;&#10;Stream full episodes of The Daily Show on Paramount+: http://www.paramountplus.com/?ftag=PPM-05-10aei0b&#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;About The Daily Show:&#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&#10;&#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
     channeltitle "The Daily Show with Trevor Noah"
     channelid "UCwWhs_6x42TyRM4Wstoq8HA"
@@ -667,7 +667,7 @@ graph
     commentcount 2219
     duration "PT1H6M23S"
     indegree 21
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount 186
     duration "PT2M40S"
     indegree 20
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -693,7 +693,7 @@ graph
     label "XiOp-XFa3O0"
     step 0
     date "2022-02-25T18:18:21Z"
-    title "What is Critical Race Theory? Boston University Senior Diversity Officer Panel Explains"
+    title "What is Critical Race Theory? Boston University Senior Diversity Officer Panel E tongue sticking out lains"
     description "On February 10, 2022, the Boston University Office of the Senior Diversity Officer hosted an educational discussion on Critical Race Theory (CRT) - a body of legal scholarship and an academic movement of U.S. civil rights scholars and activists who are critically examining the intersection of race and U.S. law and challenging mainstream American approaches to racial justice.&#10;&#10;In collaboration with the BU Dean of Students Office, School of Law, Wheelock College of Education &#38; Human Development, and School of Public Health, this panel approached CRT from a multidisciplinary approach to better inform and equip the next generation of leaders with a deeper understanding of complex issues and to promote constructive dialogue within the BU community and beyond.&#10;&#10;An overview of CRT was provided by Dr. Angela Onwuachi-Willig, Dean and Ryan Roth Gallo &#38; Ernest J. Gallo Professor of Law at the School of Law. Dr. Onwuachi-Willig also moderated the panel, which included:  Dr. Janet Dewart Bell, Founder and President, LEAD InterGenerational Solutions, Inc., Dr. Laura M. Jim&#233;nez,  Associate Dean of Equity, Diversity, and Inclusion at Wheelock College of Education &#38; Human Development and Dr. Craig Andrade, Associate Dean for Practice and Director of the Activist Lab, School of Public Health.&#10;&#10;The panelists explored a range of questions related to Critical Race Theory including the main principles of CRT, the origins of the movement from civil-rights scholars and activists, and how it informs school curriculum."
     channeltitle "Boston University"
     channelid "UCuNjAAXrEmQyxLAanISnZUw"
@@ -703,7 +703,7 @@ graph
     commentcount 12
     duration "PT1H33M40S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 19752
     duration "PT9M44S"
     indegree 14
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 188
     duration "PT14M27S"
     indegree 4
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 53
     duration "PT5M5S"
     indegree 5
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 2512
     duration "PT9M15S"
     indegree 5
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -783,7 +783,7 @@ graph
     label "F8ix4Y2FIv0"
     step 0
     date "2021-09-03T04:00:05Z"
-    title "Khiara M. Bridges Explains Critical Race Theory"
+    title "Khiara M. Bridges E tongue sticking out lains Critical Race Theory"
     description "Professor Khiara M. Bridges from the University of California Berkeley explains critical race theory in political and legal scholarship contexts, including its theoretical origins and main tenets.&#10;&#10;The International Association for Political Science Students (IAPSS) is a democratic student government representing political science students around the world. Would you like to get involved with IAPSS? Sign up as an individual member here: https://www.iapss.org/product-category/memberships/&#10; or talk to your campus political science student association or department about affiliating with IAPSS.&#10;&#10;Links:&#10;https://www.iapss.org&#10;https://www.facebook.com/iapss&#10;https://www.twitter.com/iapss&#10;https://www.instagram.com/iapssgram/"
     channeltitle "International Association for Political Science Students"
     channelid "UCE25l6xqe5S67yfh4pEZ-LA"
@@ -793,7 +793,7 @@ graph
     commentcount -1
     duration "PT15M44S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -801,7 +801,7 @@ graph
     label "ngElSkVYLFc"
     step 0
     date "2021-06-21T11:30:05Z"
-    title "The Truth About &#8216;Critical Race Theory&#8217;: Co-Founder Breaks Down GOP Gaslighting"
+    title "The Truth About : Co-Founder Breaks Down GOP Gaslighting"
     description "At least 25 states have taken action to ban the teaching of critical race theory. It comes as Sen. Ted Cruz (R-TX) compared CRT to the Ku Klux Klan. NBC&#8217;s Mehdi Hasan spoke to one of the co-founders of the theory, Kimberl&#233; Crenshaw, about what Republicans are getting wrong about her work.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;The Truth About &#8216;Race Theory&#8217;: Co-Founder Breaks Down GOP Gaslighting"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -829,7 +829,7 @@ graph
     commentcount 505
     duration "PT2M22S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 190
     duration "PT14M28S"
     indegree 13
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount -1
     duration "PT10M40S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 111
     duration "PT3M19S"
     indegree 2
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount 42
     duration "PT7M23S"
     indegree 18
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount -1
     duration "PT59S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     commentcount 16
     duration "PT5M43S"
     indegree 3
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 539
     duration "PT3M20S"
     indegree 2
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -973,7 +973,7 @@ graph
     commentcount 1406
     duration "PT1M53S"
     indegree 4
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 129
     duration "PT1M46S"
     indegree 5
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1009,7 +1009,7 @@ graph
     commentcount 8809
     duration "PT6M36S"
     indegree 15
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 52
     duration "PT10M2S"
     indegree 1
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 673
     duration "PT4M50S"
     indegree 9
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -1053,7 +1053,7 @@ graph
     label "l1V73yIlTww"
     step 0
     date "2022-04-21T17:44:37Z"
-    title "Florida rejects math books claiming reference to &#38;#39;critical race theory&#38;#39;"
+    title "Florida rejects math books claiming reference to "
     description "Andrew Spar, president of the Florida Education Association, discusses the state standing by its decision to reject 40% of math textbooks, claiming they contained prohibited topics.&#10;&#10;WATCH the ABC News Livestream: https://bit.ly/3rzBHum&#10;SUBSCRIBE to ABC News: https://bit.ly/2vZb6yP&#10;WATCH MORE on http://abcnews.go.com/&#10;LIKE ABC News on FACEBOOK: https://www.facebook.com/abcnews&#10;FOLLOW ABC News on TWITTER: https://twitter.com/abc&#10;&#10;#ABCNL ##CriticalRaceTheory #Florida"
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -1063,7 +1063,7 @@ graph
     commentcount 29
     duration "PT4M32S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 64
     duration "PT5M30S"
     indegree 13
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 974
     duration "PT7M39S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount 338
     duration "PT4M39S"
     indegree 0
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 25
     duration "PT3M49S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1143,7 +1143,7 @@ graph
     label "q2CzWT-2Do8"
     step 0
     date "2021-10-21T14:45:02Z"
-    title "A Black Principal Is Accused Of Pushing Critical Race Theory. He&#38;#39;s Fighting Back."
+    title "A Black Principal Is Accused Of Pushing Critical Race Theory. Hes Fighting Back."
     description "In Texas, Dr. James Whitfield, a Black high school principal, is fighting to get back to his job and his students after being accused of promoting critical race theory, which is outlawed in the state. NBC&#8217;s Antonia Hylton reports for TODAY.&#10;&#10;&#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&#10;&#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&#10;&#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &#38; our original web series.  &#10;&#10;Connect with TODAY Online!&#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&#10;&#10;#Texas #CriticalRaceTheory #CRT"
     channeltitle "TODAY"
     channelid "UChDKyKQ59fYz3JO2fl0Z6sg"
@@ -1153,7 +1153,7 @@ graph
     commentcount 165
     duration "PT3M4S"
     indegree 4
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -1189,7 +1189,7 @@ graph
     commentcount 136
     duration "PT1M45S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1197,7 +1197,7 @@ graph
     label "SybEMMiH4mQ"
     step 0
     date "2021-08-17T15:07:27Z"
-    title "Let&#8217;s Talk About Critical Race Theory"
+    title "Lets Talk About Critical Race Theory"
     description "Critical race theory has become one of the most talked about subjects in our society today. Many people have very strong opinions about critical race theory and whether it should be taught in our schools and in our communities and in our churches. It is also one of the most misunderstood subjects as well. &#10;&#10;If we are not careful we will allow issues and topics like critical race theory to divide us as Christians and create further discord within the body of Christ. This video seeks to provide a healthy way to discuss race and other sensitive topics related to race as critical race theory becomes more prevalent in our society today.&#10;&#10;SUBSCRIBE TO THE BEAT!&#10;https://youtube.com/thebeatagp&#10;&#10;JOIN THE #1 ONLINE CHRISTIAN COMMUNITY ON THE INTERNET&#10;https://letsequip.com/community&#10;&#10;REGISTER FOR OUR FREE 60-MINUTE BIBLE STUDY TRAINING CLASS&#10;https://bit.ly/autbstreg&#10;&#10;LEARN HOW TO CREATE YOUR OWN CHRISTIAN YOUTUBE CHANNEL&#10;https://bit.ly/cfccourse&#10;&#10;DOWNLOAD YOUR FREE EBOOK&#10;https://bit.ly/iybsfree&#10;&#10;LEARN TO STUDY THE BIBLE &#10;http://bit.ly/ytbsme1&#10;&#10;SUPPORT THIS MINISTRY FINANCIALLY&#10;https://allenparr.com/support&#10;&#10;MERCHANDISE STORE&#10;http://bit.ly/2HTjhm0&#10;&#10;FOLLOW ME ON SOCIAL MEDIA&#10;Website | https://allenparr.com&#10;Instagram | https://instagram.com/allengparr&#10;Twitter | https://twitter.com/allengparr&#10;Facebook | https://facebook.com/allengparr&#10;&#10;TO INVITE ME TO SPEAK:&#10;Want to have Allen come and speak at your next event?&#10;https://allenparr.com/speaking"
     channeltitle "THE BEAT by Allen Parr"
     channelid "UCm_RMW_fQk-ELpPYUzor8lw"
@@ -1207,7 +1207,7 @@ graph
     commentcount 1766
     duration "PT14M15S"
     indegree 10
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1215,7 +1215,7 @@ graph
     label "LpOQ7qAUxxs"
     step 0
     date "2021-10-03T19:00:11Z"
-    title "Why Are Racists Afraid of Teaching Critical Race Theory? - Tha God&#8217;s Honest Truth"
+    title "Why Are Racists Afraid of Teaching Critical Race Theory? - Tha Gods Honest Truth"
     description "Lenard unpacks why racism and white supremacy persist in educational settings. &#10;Tha God&#8217;s Honest Truth airs Fridays at 10/9c on Comedy Central.&#10;&#10;Subscribe to Tha God&#8217;s Honest Truth:&#10;https://www.youtube.com/cthashow?sub_confirmation=1&#10;&#10;Follow Tha God&#8217;s Honest Truth:&#10;Facebook: https://www.facebook.com/cthashow&#10;Twitter: https://twitter.com/cthashow&#10;Instagram: https://www.instagram.com/cthashow&#10;&#10;About Tha God&#8217;s Honest Truth:&#10;Nothing&#8217;s off limits in this weekly late-night series as Charlamagne Tha God takes on topics permeating politics and culture in a variety of deep dives, sketches and social experiments.&#10;&#10;Watch more Comedy Central: https://www.youtube.com/comedycentral &#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;#ThaGodsHonestTruth #CharlamagneThaGod"
     channeltitle "Comedy Central"
     channelid "UCUsN5ZwHx2kILm84-jPDeXw"
@@ -1225,7 +1225,7 @@ graph
     commentcount 1404
     duration "PT8M5S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 196
     duration "PT7M8S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1261,7 +1261,7 @@ graph
     commentcount 2262
     duration "PT1H44M15S"
     indegree 129
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -1269,7 +1269,7 @@ graph
     label "HN_ox2RBn3o"
     step 0
     date "2022-04-13T15:45:41Z"
-    title "Critical Race Theory Panic: What&#8217;s REALLY Behind It? | The Class Room"
+    title "Critical Race Theory Panic: Whats REALLY Behind It? | The Class Room"
     description "What&#8217;s the end-game of Critical Race Theory fear-mongering? The complete privatization of public schools. Right-wing groups are stoking racist fears to make a profit. We spoke with a former Koch-network lobbyist &#38; a current teacher to investigate the war on public schools.&#10;-----&#10;More Perfect Union is a new nonprofit media org with a mission to empower working people. Learn more here: http://perfectunion.us/&#10;Follow us on Twitter: https://twitter.com/MorePerfectUS&#10;Instagram: https://www.instagram.com/perfectunion/&#10;Facebook: https://www.facebook.com/MorePerfUnion"
     channeltitle "More Perfect Union"
     channelid "UCehBVAPy-bxmnbNARF-_tvA"
@@ -1279,7 +1279,7 @@ graph
     commentcount 130
     duration "PT10M47S"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 299
     duration "PT46M57S"
     indegree 7
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1305,7 +1305,7 @@ graph
     label "vlLfYu3BQCg"
     step 0
     date "2021-07-07T03:01:13Z"
-    title "What is &#38;#39;Critical Race Theory&#38;#39;?"
+    title "What is ?"
     description "African American legal scholars developed critical race theory, expressing the belief that racism is not simply individual acts of prejudice. They say it&#8217;s bigger than that; it&#8217;s embedded into the United States&#8217; legal and social systems.&#10;&#10;https://www.voanews.com/episode/what-critical-race-theory-4739351"
     channeltitle "Voice of America"
     channelid "UCVSNOxehfALut52NbkfRBaA"
@@ -1323,7 +1323,7 @@ graph
     label "vLBapXx9sTs"
     step 0
     date "2021-06-22T22:12:54Z"
-    title "Critical Race Theory (CRT) Explained | A Simple Introduction to Critical Race Theory"
+    title "Critical Race Theory (CRT) E tongue sticking out lained | A Simple Introduction to Critical Race Theory"
     description "What is &#34;Critical Race Theory&#34;? What does Critical Race Theory teach? In this video, I attempt to give a simple explanation and a basic introduction to the debate over CRT. &#10;&#10;The term &#34;Critical Race Theory&#34; has been used to mean many different things in recent times, from modern corporate diversity training and popular anti-racism efforts to more esoteric legal theories developed as far back as the 1970s. &#10;&#10;While many of these diverging meanings are the result of political maneuvering, shifting the details this way or that to attack opponents or defend allies, it's important to remember that CRT is also not a single unified theory. Instead, it draws from a mix of intellectual traditions, academic fields, and ideas, including Critical Theory and Critical Legal Studies. It also includes thinkers with diverse assumptions and aims.&#10;&#10;As such, I&#8217;d encourage you to avoid focusing too much on the specific terminology or meaning and focus instead on the actual issues at hand. In fact, at this point, I&#8217;d recommend avoiding the term altogether. &#10;&#10;However, we should also be able to recognize the value of CRT, its insights and ideas, including the emphasis on broad structural change over individual guilt or punishment. &#10;&#10;Links to helpful articles:&#10;&#128073;https://www.edweek.org/leadership/what-is-critical-race-theory-and-why-is-it-under-attack/2021/05&#10;&#128073;https://www.arcdigital.media/p/whats-in-a-name&#10;&#128073;https://attheu.utah.edu/facultystaff/understanding-critical-race-theory-a-qa-with-professor-edmund-fong/&#10;&#128073;https://freddiedeboer.substack.com/p/the-selfish-fallacy&#10;&#10;#CRT #criticalracetheory #politics&#10;&#10;Timestamps:&#10;0:00 - What is critical race theory?&#10;0:35 - &#34;Racism&#34; in critical race theory&#10;1:36 - Standpoint epistemology&#10;2:07 - Criticism &#38; defence of critical race theory&#10;3:27 - Critical race theory &#38; popular/corporate anti-racism&#10;3:53 - Outroduction"
     channeltitle "Casual Philosophy"
     channelid "UCmlyIf1acOlmTLaJgURpNcw"
@@ -1333,7 +1333,7 @@ graph
     commentcount 158
     duration "PT4M27S"
     indegree 8
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 521
     duration "PT3M1S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -1359,7 +1359,7 @@ graph
     label "kPUHTImIqkk"
     step 0
     date "2021-06-24T15:02:00Z"
-    title "Critical Race Theory Explains How Race Permeates Society, Says Professor"
+    title "Critical Race Theory E tongue sticking out lains How Race Permeates Society, Says Professor"
     description "Professors Ibram X. Kendi and Keisha Blain discuss recent remarks from Army Gen. Mark Milley, chairman of the Joint Chiefs of Staff, on teaching critical race theory.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;Critical Race Theory Explains How Race Permeates Society, Says Professor"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -1387,7 +1387,7 @@ graph
     commentcount 217
     duration "PT29M25S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "coL1uedveZE"
     step 0
     date "2022-04-19T01:07:08Z"
-    title "Florida Bans Math Books for CRT &#38;amp; AriZona Iced Tea Remains 99&#162; Despite Inflation | The Daily Show"
+    title "Florida Bans Math Books for CRT Despite Inflation | The Daily Show"
     description "Florida rejects 41% of math textbooks for citing critical race theory, AriZona&#8217;s founder refuses to raise prices amid inflation, and a flight goes viral for its &#8220;Christian takeover.&#8221; #DailyShow &#10;&#10;Subscribe to The Daily Show:&#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &#10;&#10;Follow The Daily Show:&#10;Twitter: https://twitter.com/TheDailyShow&#10;Facebook: https://www.facebook.com/thedailyshow&#10;Instagram: https://www.instagram.com/thedailyshow&#10;&#10;Stream full episodes of The Daily Show on Paramount+: http://www.paramountplus.com/?ftag=PPM-05-10aei0b&#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;About The Daily Show:&#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&#10;&#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
     channeltitle "The Daily Show with Trevor Noah"
     channelid "UCwWhs_6x42TyRM4Wstoq8HA"
@@ -1405,7 +1405,7 @@ graph
     commentcount 3722
     duration "PT15M17S"
     indegree 7
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -1423,7 +1423,7 @@ graph
     commentcount -1
     duration "PT22M40S"
     indegree 28
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -1441,7 +1441,7 @@ graph
     commentcount 1604
     duration "PT9M21S"
     indegree 17
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1449,7 +1449,7 @@ graph
     label "xUt2I75wQEk"
     step 0
     date "2021-06-16T06:30:06Z"
-    title "Ron DeSantis slams critical race theory as &#38;#39;poison&#38;#39;"
+    title "Ron DeSantis slams critical race theory as "
     description "Florida governor joins 'Hannity' to discuss 'dramatic' differences emerging between red states and blue states #Hannity #FoxNews &#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -1459,7 +1459,7 @@ graph
     commentcount 895
     duration "PT5M34S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1467,7 +1467,7 @@ graph
     label "oCya-XjjBsc"
     step 0
     date "2021-06-12T01:00:25Z"
-    title "Why The 1619 Project Has Republicans Banning &#38;quot;Critical Race Theory&#38;quot; | The Amber Ruffin Show"
+    title "Why The 1619 Project Has Republicans Banning | The Amber Ruffin Show"
     description "The Amber Ruffin Show. Streaming on Peacock https://pck.tv/3pOiao8&#10;Reserve your spot in the live studio audience for The Amber Ruffin Show at https://1iota.com/show/1210/the-amber-ruffin-show&#10;&#10;Lately there&#8217;s a phrase that news organizations have been throwing around a lot: &#8220;Critical Race Theory.&#8221; Everyone is saying it, but no one seems to be able to agree on what it is. How did we get to a point where everyone is saying a phrase they can&#8217;t even define? Let&#8217;s find out, in a segment called, &#8220;How Did We Get Here?&#8221;&#10;&#10;Show Synopsis: Amber showcases her signature smart-and-silly take on the news of the week, responding to it all with a charming, late-night mix of seriousness, nonsense, and evening gowns.&#10;&#10;#PeacockTV #AmberRuffin #CriticalRaceTheory"
     channeltitle "The Amber Ruffin Show"
     channelid "UCxej9nPf6TqFyfsiez1_P3w"
@@ -1477,7 +1477,7 @@ graph
     commentcount 1124
     duration "PT6M36S"
     indegree 14
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 162
     duration "PT2M44S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 454
     duration "PT3M34S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1531,7 +1531,7 @@ graph
     commentcount 478
     duration "PT8M24S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 6
     duration "PT6M27S"
     indegree 0
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 2127
     duration "PT7M1S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 252
     duration "PT25M16S"
     indegree 13
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1593,7 +1593,7 @@ graph
     label "k5LO_b3k6a8"
     step 0
     date "2021-06-20T16:43:09Z"
-    title "Top academics explain the heated debate on critical race theory | ABC New"
+    title "Top academics e tongue sticking out lain the heated debate on critical race theory | ABC New"
     description "George Stephanopoulos discusses the new cultural flashpoint with professors Leah Wright Rigueur and Glenn Loury.&#10;&#10;#ABCNews #ThisWeek #CriticalRaceTheory"
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -1603,7 +1603,7 @@ graph
     commentcount 3380
     duration "PT8M35S"
     indegree 47
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1611,7 +1611,7 @@ graph
     label "IpIUklDBLHE"
     step 0
     date "2021-11-03T22:00:20Z"
-    title "&#8216;Your Sixth Grader Is Not Being Taught Critical Race Theory&#8217; Says Michael Steele"
+    title " Says Michael Steele"
     description "Former RNC Chairman Michael Steele discusses Republicans running on false claims of critical race theory to motivate their voters.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#CriticalRaceTheory #CRT #GOP"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -1621,7 +1621,7 @@ graph
     commentcount 1461
     duration "PT8M29S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 2005
     duration "PT8M37S"
     indegree 19
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1665,7 +1665,7 @@ graph
     label "nY3CuLwGUx0"
     step 0
     date "2021-11-03T02:00:07Z"
-    title "Joy Reid: Glenn Youngkin Campaign Coded Racial Hysteria In &#8216;Critical Race Theory&#8217; Hype"
+    title "Joy Rei tongue sticking out Glenn Youngkin Campaign Coded Racial Hysteria In Hype"
     description "Republican Glenn Youngkin&#8217;s Virginia governor campaign coded racial hysteria over &#8216;critical race theory&#8217; into its winning campaign message, Joy Reid says. Joy Reid and her panel analyze how this GOP strategy could be used in elections going forward.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://http://MSNBC.com/NewslettersYo...&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#MSNBC #Youngkin #CRT"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -1675,7 +1675,7 @@ graph
     commentcount 3003
     duration "PT5M32S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 776
     duration "PT3M59S"
     indegree 1
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 1738
     duration "PT3M34S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 895
     duration "PT2M59S"
     indegree 4
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -1737,7 +1737,7 @@ graph
     label "mxpsFMu4Dx0"
     step 0
     date "2021-07-13T17:00:24Z"
-    title "Parent explains what&#38;#39;s wrong with critical race theory"
+    title "Parent e tongue sticking out lains whats wrong with critical race theory"
     description "Jennifer Stefano says she may not send her child back to public school after a teacher allegedly told students they were re-segregationists&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity: http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -1783,7 +1783,7 @@ graph
     commentcount 2481
     duration "PT5M"
     indegree 28
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 606
     duration "PT2M54S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount -1
     duration "PT2M41S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1827,7 +1827,7 @@ graph
     label "4dW5HP3mQ_s"
     step 0
     date "2022-02-05T05:45:00Z"
-    title "Class Changes Student&#8217;s Mind About Critical Race Theory"
+    title "Class Changes Students Mind About Critical Race Theory"
     description "There is one class on critical race theory in the state of Mississippi, and lawmakers are trying to have it banned. But an admittedly conservative white student at the University of Mississippi School of Law is defending the class. Mississippi reporter Molly Minta tells Jonathan Capehart the student, Brittany Murphree, wants other people to have the same &#8220;eye opening&#8221; experience she had.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#MSNBC #Mississippi #CriticalRaceTheory"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -1837,7 +1837,7 @@ graph
     commentcount 273
     duration "PT4M54S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1845,7 +1845,7 @@ graph
     label "r9L9sZhuFus"
     step 0
     date "2021-11-02T18:00:15Z"
-    title "Critical Race Theory Animating Voters in Local Races?  Part 2 | The View"
+    title "Critical Race Theory Animating Voters in Local Races? Part 2 | The View"
     description "Subscribe to our YouTube channel: http://bit.ly/2Ybi4tM &#10;&#10;MORE FROM 'THE VIEW':&#10;Full episodes: http://abcn.ws/2tl10qh&#10;Twitter: http://twitter.com/theview&#10;Facebook: http://facebook.com/TheView&#10;Instagram: http://instagram.com/theviewabc"
     channeltitle "The View"
     channelid "UCeH6qE4V7n5tVwP7NkdrtJg"
@@ -1855,7 +1855,7 @@ graph
     commentcount 2138
     duration "PT5M35S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 4343
     duration "PT3M54S"
     indegree 8
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 47
     duration "PT2M36S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1917,7 +1917,7 @@ graph
     label "zuMvutNEqso"
     step 0
     date "2022-02-10T22:01:16Z"
-    title "Artist Jonathan Harris&#38;#39; Viral Painting Sparks Conversations About Critical Race Theory"
+    title "Artist Jonathan Harris Viral Painting Sparks Conversations About Critical Race Theory"
     description "When Jonathan Harris first previewed his painting &#34;Critical Race Theory&#34; at his TRIPTYCH: Stronger Together exhibit at the Irwin House Gallery this past November, it sat on a wall just outside the gallery's main room, but despite its less-than-prominent placement, it sold easily. It was the first step toward a virality that swept over Harris' painting and sparked a national conversation about critical race theory and the ways social and political issues are taught in America's classrooms. &#34;Critical Race Theory,&#34; which depicts the white-washing of Black history, began its viral journey when The Other 98%, a nonprofit focused on social justice, shared Harris' painting with their nearly 6.5 million followers. Then, the Oklahoma City chapter of Black Lives Matter shared the image, garnering thousands more shares and spreading the painting across the globe. One Detroit's Bill Kubota met up with Harris in Detroit on signing day, where he signed and sold out of 250 prints of the painting, to discuss his painting's swift rise to global acclaim and share what he thinks about critical race theory in the classroom.&#10;&#10;Episode 602/Segment 1&#10;&#10;Watch &#34;One Detroit&#34; Monday and Thursday on Detroit Public TV at 7:30p ET.  Or catch the daily conversations on our website at https://OneDetroitPBS.org, Facebook at http://facebook.com/onedetroit, Twitter at https://twitter.com/OneDetroitDPTV and Instagram @One.Detroit."
     channeltitle "One Detroit"
     channelid "UCWssB_ZsnR53Awurk6LAU9w"
@@ -1927,7 +1927,7 @@ graph
     commentcount 5
     duration "PT7M38S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1945,7 +1945,7 @@ graph
     commentcount 146
     duration "PT5M41S"
     indegree 1
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 27
     duration "PT2M25S"
     indegree 0
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -1971,7 +1971,7 @@ graph
     label "9pET0JPW6bo"
     step 0
     date "2021-06-12T15:00:03Z"
-    title "Florida mom rips critical race theory: It&#38;#39;s an &#38;#39;insult&#38;#39;"
+    title "Florida mom rips critical race theory: It"
     description "Quisha King, a mother from Duval County, Florida, reacts to her viral school board speech slamming critical race theory on 'Fox &#38; Friends Weekend.' #FoxNews&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -1981,7 +1981,7 @@ graph
     commentcount -1
     duration "PT4M4S"
     indegree 2
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -1989,7 +1989,7 @@ graph
     label "6xMGRAhZAes"
     step 0
     date "2021-10-02T06:33:24Z"
-    title "Critical Race Theory vs. Critical Racist Theory - Tha God&#8217;s Honest Truth (Extended Version)"
+    title "Critical Race Theory vs. Critical Racist Theory - Tha Gods Honest Truth (Extended Version)"
     description "Lenard highlights the importance of teaching critical race theory in schools. (Contains strong language.) &#10;&#10;Tha God&#8217;s Honest Truth airs Fridays at 10/9c on Comedy Central.&#10;&#10;Subscribe to Tha God&#8217;s Honest Truth:&#10;https://www.youtube.com/cthashow?sub_confirmation=1&#10;&#10;Follow Tha God&#8217;s Honest Truth:&#10;Facebook: https://www.facebook.com/cthashow&#10;Twitter: https://twitter.com/cthashow&#10;Instagram: https://www.instagram.com/cthashow&#10;&#10;About Tha God&#8217;s Honest Truth:&#10;Nothing&#8217;s off limits in this weekly late-night series as Charlamagne Tha God takes on topics permeating politics and culture in a variety of deep dives, sketches and social experiments.&#10;&#10;Watch more Comedy Central: https://www.youtube.com/comedycentral &#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;#ThaGodsHonestTruth #CharlamagneThaGod"
     channeltitle "Tha God's Honest Truth"
     channelid "UCp3u2i9bS-1iPMbF0IN9Y8Q"
@@ -1999,7 +1999,7 @@ graph
     commentcount 169
     duration "PT8M52S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2007,7 +2007,7 @@ graph
     label "ALZY1PAa2p8"
     step 0
     date "2021-06-08T23:00:42Z"
-    title "Obama attacks &#38;#39;right-wing&#38;#39; media for concerns over critical race theory"
+    title "Obama attacks media for concerns over critical race theory"
     description "'The Five' react to former President Obama's latest CNN interview where he mocked criticism of critical race theory. #FoxNews #TheFive&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2017,7 +2017,7 @@ graph
     commentcount 9662
     duration "PT6M42S"
     indegree 15
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2025,7 +2025,7 @@ graph
     label "UD8A81Vhh4Y"
     step 0
     date "2021-07-09T16:15:01Z"
-    title "Critical race theory &#8216;weaponizes&#8217; diversity: Sen. Mike Lee"
+    title "Critical race theory diversity: Sen. Mike Lee"
     description "Sen. Mike Lee, R-Utah, tells &#8216;America&#8217;s Newsroom&#8217; U.S. classrooms should be &#8216;celebrating diversity&#8217; not teaching critical race theory. #FoxNews&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2035,7 +2035,7 @@ graph
     commentcount 394
     duration "PT3M48S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -2043,7 +2043,7 @@ graph
     label "8sGbLdAt0LY"
     step 0
     date "2021-06-23T11:52:33Z"
-    title "Critical Race Theory explained"
+    title "Critical Race Theory e tongue sticking out lained"
     description "There should be context when discussing subjects such as Critical Race Theory. We're taking a closer look at what it is and what it is not."
     channeltitle "KOAA 5"
     channelid "UCUknL1K-YGAa5sIss9t0_ug"
@@ -2053,7 +2053,7 @@ graph
     commentcount 803
     duration "PT3M18S"
     indegree 7
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount -1
     duration "PT9M52S"
     indegree 8
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 8819
     duration "PT6M36S"
     indegree 20
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 358
     duration "PT9M21S"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 2227
     duration "PT12M35S"
     indegree 12
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -2133,7 +2133,7 @@ graph
     label "1SSn1XZ1abs"
     step 0
     date "2021-06-03T19:59:50Z"
-    title "Fox News: Critical Race Theory is &#38;#39;Poisoning&#38;#39; Society"
+    title "Fox News: Critical Race Theory is Society"
     description "Fox News&#8217; latest scare tactic? Trying to convince viewers that critical race theory is 'poisoning' society.&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/KnowThis&#10;&#10;For more us politics and world news, subscribe to NowThis News.&#10;&#10;#FoxNews #CriticalRaceTheory #Racism #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -2143,7 +2143,7 @@ graph
     commentcount 1705
     duration "PT4M26S"
     indegree 1
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -2151,7 +2151,7 @@ graph
     label "q8XWnXP4jFY"
     step 0
     date "2021-10-22T15:01:30Z"
-    title "Anti-Critical Race Theory Politician Maud Maron Explains Her Position - Tha God&#8217;s Honest Truth"
+    title "Anti-Critical Race Theory Politician Maud Maron E tongue sticking out lains Her Position - Tha Gods Honest Truth"
     description "Lenard &#34;Charlamagne&#34; McKelvey and comedian Jordan Carlos talk to NYC City Council hopeful Maud Maron about Critical Race Theory and why they believe she is wrong about its effects on school-age children.&#10;&#10;Tha God&#8217;s Honest Truth airs Fridays at 10/9c on Comedy Central.&#10;Subscribe to Tha God&#8217;s Honest Truth:&#10;https://www.youtube.com/cthashow?sub_confirmation=1&#10;&#10;Follow Tha God&#8217;s Honest Truth:&#10;Facebook: https://www.facebook.com/cthashow&#10;Twitter: https://twitter.com/cthashow&#10;Instagram: https://www.instagram.com/cthashow&#10;&#10;About Tha God&#8217;s Honest Truth:&#10;Nothing&#8217;s off limits in this weekly late-night series as Charlamagne Tha God takes on topics permeating politics and culture in a variety of deep dives, sketches and social experiments.&#10;&#10;Watch more Comedy Central: https://www.youtube.com/comedycentral &#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;#ThaGodsHonestTruth #CharlamagneThaGod"
     channeltitle "Tha God's Honest Truth"
     channelid "UCp3u2i9bS-1iPMbF0IN9Y8Q"
@@ -2161,7 +2161,7 @@ graph
     commentcount 982
     duration "PT13M17S"
     indegree 4
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2169,7 +2169,7 @@ graph
     label "HXmaEJ3Yd_I"
     step 0
     date "2021-11-23T15:20:41Z"
-    title "Nikole Hannah-Jones on &#8220;The 1619 Project,&#8221; Teaching Critical Race Theory &#38;amp; White Supremacy on Trial"
+    title "Nikole Hannah-Jones on White Supremacy on Trial"
     description "Amid a right-wing attack on teaching critical race theory, we speak in-depth with Pulitzer Prize&#8211;winning journalist Nikole Hannah-Jones, creator of the New York Times Magazine&#8217;s 1619 Project, which reframes U.S. history by marking the year when the first enslaved Africans arrived on Virginia soil as the foundational date for the United States. The project launched in 2019, and has been expanded into an anthology of 18 essays along with poems and short stories, even as several states have attempted to ban it from school curriculums. &#8220;We should all as Americans be deeply, deeply concerned about these anti-history laws because what they&#8217;re really trying to do is control our memory and to control our understanding of our country,&#8221; says Hannah-Jones. Hannah-Jones&#8217;s new book that she co-edited is out this month, titled &#8220;The 1619 Project: A New Origin Story,&#8221; along with an adaptation of the 1619 Project for children, &#8220;Born On The Water.&#8221; Hannah-Jones describes the role of her own teachers in opening her eyes beyond the usual curriculum that excluded the history she has now uplifted. She also discusses the trial of the murderers of Ahmaud Arbery, and how she felt when she won the Pulitzer Prize on the same day as one of her heroines, the formerly enslaved pioneering anti-lynching journalist, Ida B. Wells.&#10;&#10;#DemocracyNow&#13;&#10;&#13;&#10;Democracy Now! is an independent global news hour that airs on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org&#13;&#10;&#13;&#10;Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate&#13;&#10;&#13;&#10;FOLLOW DEMOCRACY NOW! ONLINE:&#13;&#10;YouTube: http://youtube.com/democracynow &#13;&#10;Facebook: http://facebook.com/democracynow &#13;&#10;Twitter: https://twitter.com/democracynow&#13;&#10;Instagram: http://instagram.com/democracynow&#13;&#10;SoundCloud: http://soundcloud.com/democracynow &#13;&#10;iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 &#13;&#10;Daily Email Digest: https://democracynow.org/subscribe"
     channeltitle "Democracy Now!"
     channelid "UCzuqE7-t13O4NIDYJfakrhw"
@@ -2179,7 +2179,7 @@ graph
     commentcount 1121
     duration "PT35M58S"
     indegree 8
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2187,7 +2187,7 @@ graph
     label "KtJ3s6YECAc"
     step 0
     date "2021-10-25T23:38:56Z"
-    title "GOP Women&#8217;s Club President on Being Anti Critical Race Theory | THE CIRCUS | SHOWTIME"
+    title "GOP Womens Club President on Being Anti Critical Race Theory | THE CIRCUS | SHOWTIME"
     description "Alex Wagner interviews President of Loudoun County Republican Women&#8217;s Club Patti Hidalgo Menders on Critical Race Theory. &#10;&#10;#SHOCircus&#10;&#10;Subscribe to THE CIRCUS YouTube channel: https://goo.gl/gfoZtd&#10;&#10;THE CIRCUS: INSIDE THE CRAZIEST POLITICAL SHOW ON EARTH&#10;Come one, come all to THE CIRCUS. This documentary series pulls back the curtain on the high-stakes impact of the White House's headline grabbing dramatics."
     channeltitle "The Circus on SHOWTIME"
     channelid "UClf9TTCrY0CYcewKNUnADLg"
@@ -2197,7 +2197,7 @@ graph
     commentcount 232
     duration "PT3M10S"
     indegree 5
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -2205,7 +2205,7 @@ graph
     label "lIMPQPNmYEE"
     step 0
     date "2021-07-19T17:45:00Z"
-    title "Teacher calls critical race theory &#38;#39;dangerous,&#38;#39; says it&#38;#39;s creating &#38;#39;hostility&#38;#39;"
+    title "Teacher calls critical race theory "
     description "Rhode Island middle school teacher Ramona Bessinger argues critical race theory curriculum is 'not inclusive and diverse.'&#10;&#10;Subscribe to Fox News! https://bit.ly/2vBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;The Story with Martha MacCallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity: http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2233,7 +2233,7 @@ graph
     commentcount 1
     duration "PT1M29S"
     indegree 0
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -2259,7 +2259,7 @@ graph
     label "_xHez-mMG70"
     step 0
     date "2021-11-03T21:09:55Z"
-    title "DBL Discusses: Critical Race Theory &#38;amp; Its Place in Schools"
+    title "DBL Discusses: Critical Race Theory Its Place in Schools"
     description "Many parents in Virginia are saying Tuesday's governor's race came down to education and a parent's right to have a say in what is being taught in schools, and more specifically whether Critical Race Theory should be taught.&#10;&#10;#CriticalRaceTheory #CRT #VirginiaElections&#10;&#10;---&#10;&#10;Daily Blast LIVE: Your Daytime Destination.&#10;&#10;Live on TV. Live Streaming. | DailyBlastLive.com | Check Your Local Listings &#10;&#10;Join the conversation and share your #DBLtake! &#10;&#10;Monday - Friday&#10;12:30  p.m. - 1 p.m. ET&#10;1:30 p.m. - 5 p.m. ET&#10;7:30 p.m. - 8 p.m. ET"
     channeltitle "Daily Blast LIVE"
     channelid "UCypeFpwuQcq-G-UpEFkmJzg"
@@ -2269,7 +2269,7 @@ graph
     commentcount 9
     duration "PT7M37S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount -1
     duration "PT2H51M44S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 25
     duration "PT4M45S"
     indegree 6
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 403
     duration "PT2M7S"
     indegree 5
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2331,7 +2331,7 @@ graph
     label "frLdug9qNDE"
     step 0
     date "2022-04-06T22:14:33Z"
-    title "Nebraska&#38;#39;s Republican Gubernatorial candidates define critical race theory"
+    title "Nebraskas Republican Gubernatorial candidates define critical race theory"
     description "During Wednesday's&#160;Nebraska Republican Gubernatorial forum, KETV NewsWatch 7 asked three candidates how they would define critical race theory.&#10;&#10;Subscribe to KETV on YouTube now for more: http://bit.ly/1emyaD5&#10;&#10;Get more Omaha news: http://www.ketv.com&#10;Like us: http://facebook.com/ketv7&#10;Follow us: http://twitter.com/KETV&#10;Instagram: https://www.instagram.com/ketv7/"
     channeltitle "KETV NewsWatch 7"
     channelid "UCczdiIilpYSmiF074WMCNiA"
@@ -2341,7 +2341,7 @@ graph
     commentcount -1
     duration "PT4M16S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2349,7 +2349,7 @@ graph
     label "06ZMIv7ASng"
     step 0
     date "2021-09-23T07:30:00Z"
-    title "Public school students &#38;#39;abused&#38;#39; by critical race theory: Swain"
+    title "Public school students by critical race theory: Swain"
     description "Former university professor Carol Swain and North Carolina Lt. Gov. Mark Robinson address the nationwide exodus of students from public schools. #FoxNews #FoxNewsPrimetime&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2367,7 +2367,7 @@ graph
     label "YJUYgb242-E"
     step 0
     date "2022-01-17T20:22:17Z"
-    title "Critical Race Theory and MLK&#8217;s Dream | Citizen Webinar"
+    title "Critical Race Theory and MLKs Dream | Citizen Webinar"
     description "In the decades since his death, Martin Luther King Jr. has become a figure of nearly universal admiration, largely due to his dream of an America where people will be judged by character rather than color. Yet, more recently, our nation has become increasingly preoccupied with race and color&#8212;to the point that many now denounce MLK&#8217;s &#8220;character not color&#8221; vision, arguing that it is itself a form of racism. How can MLK be so admired and yet have his core axioms be held in such ill repute? What is the real legacy of King and the Civil Rights movement? And what might Martin Luther King Jr. have to say about &#8220;critical race theory&#8221; and modern race relations?&#10;&#10;To help answer some of these questions and more, the Ashbrook Center held this free webinar on Monday, January 17, 2022, Martin Luther King Jr. Day. Dr. Peter Myers, Professor of Political Science at the University of Wisconsin-Eau Claire joined Ashbrook Executive Director Jeff Sikkenga for an in-depth conversation. Dr. Myers specializes in political philosophy and is a thoughtful scholar of Martin Luther King Jr. Dr. Myers has published several articles and a book chapter on his political philosophy."
     channeltitle "Ashbrook Center"
     channelid "UCKVujXqTksir3F5zEGvJ19Q"
@@ -2385,7 +2385,7 @@ graph
     label "nWqFRUc6XGU"
     step 0
     date "2021-07-22T20:59:50Z"
-    title "Panic Over Critical Race Theory Explained by Judd Legum"
+    title "Panic Over Critical Race Theory E tongue sticking out lained by Judd Legum"
     description "What does money and influence have to do with the sudden panic over critical race theory? Journalist Judd Legum explains.&#10;Check out Popular Info&#8217;s findings here: https://go.nowth.is/36VzzEt &#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/KnowThis&#10;&#10;For more world news and us politics, subscribe to NowThis News.&#10;&#10;#CriticalRaceTheory #Racism #JuddLegum #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -2413,7 +2413,7 @@ graph
     commentcount 180
     duration "PT7M"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 1515
     duration "PT1H27M5S"
     indegree 20
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 12
     duration "PT1H22M9S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 232
     duration "PT1H4M2S"
     indegree 12
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2475,7 +2475,7 @@ graph
     label "E2KL8oHxW8A"
     step 0
     date "2021-05-06T00:32:39Z"
-    title "Princeton Professor Explains Critical Race Theory w/ Marc Lamont Hill"
+    title "Princeton Professor E tongue sticking out lains Critical Race Theory w/ Marc Lamont Hill"
     description "Marc Lamont Hill sits down with Dr. Imani Perry, a professor at African American studies at Princeton University, on Critical Race Theory.   &#10;&#10;Republican-led states have made moves to ban the theory from being taught in schools.   &#10;&#10;This conversation comes a day after Marc Lamont Hill&#8217;s explosive interview with former Rep. Vernon Jones and Georgia gubernatorial candidate, who said he would ban CRT on his first day of office, even though he struggled to define what he&#8217;d be banning.   &#10;&#10;To watch BNC programming, visit https://bnc.tv/how-to-watch/  &#10;&#10;Follow BNC on social media:  &#10;Facebook: https://www.facebook.com/BNCNews  &#10;Twitter: https://twitter.com/BNCNews  &#10;Instagram: https://www.instagram.com/bncnews/?hl=en  &#10;&#10;#BNC #CriticalRaceTheory #ImaniPerry"
     channeltitle "BNC News"
     channelid "UCAPlkRGvp4_JnsIyOJmpgDg"
@@ -2485,7 +2485,7 @@ graph
     commentcount 5384
     duration "PT8M43S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 48
     duration "PT5M29S"
     indegree 3
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2511,7 +2511,7 @@ graph
     label "oR79ywYT-eo"
     step 0
     date "2022-02-24T01:26:41Z"
-    title "Critical Race Theory Explained"
+    title "Critical Race Theory E tongue sticking out lained"
     description "Dr. Nathalie Edmond invites you to think of yourself as a racial being (if you don't tend to think of yourself that way) and explore what is critical race theory. Understanding critical race theory in a settled body helps to open the door for compassion as we have all been socialized by the forces of racism and we can decided how we wan to be responsible in working towards collective liberation. Learn more and get consultation, attend a workshop or schedule a training for your community at drnatedmond.com"
     channeltitle "Mindful and Multicultural Counseling"
     channelid "UCJ_arYP0mGYDSwHjYJ_akig"
@@ -2521,7 +2521,7 @@ graph
     commentcount 2
     duration "PT44M35S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2529,7 +2529,7 @@ graph
     label "oE6wISHWlp8"
     step 0
     date "2021-12-18T02:13:06Z"
-    title "Artist Jonathan Harris Discusses &#8216;Critical Race Theory&#8217; Painting"
+    title "Artist Jonathan Harris Discusses Painting"
     description "One of the main political battlefields in this current moment is the ongoing debates taking place around critical race theory, and impactful artists are the ones who keenly observe and creatively comment on these cultural trends. &#10;&#10;Artist Jonathan Harris&#8217; painting entitled &#8220;Critical Race Theory,&#8221; depicts a white man with white paint rolling over images of Dr. Martin Luther King Jr., Harriet Tubman and Malcolm X. It literally sent shockwaves across social media platforms, garnering passionate responses from so many people with opposing political views. &#10;&#10;Harris joins Marc Lamont Hill on &#8220;Black News Tonight&#8221; to discuss the painting. &#10;&#10;All this and more on &#8220;Black News Tonight.&#8221; &#10;&#10;To watch BNC programming, visit https://bnc.tv/how-to-watch/ &#10;&#10;Follow BNC on social media: &#10;Facebook: https://www.facebook.com/BNCNews  &#10;Twitter: https://twitter.com/BNCNews  &#10;Instagram: https://www.instagram.com/bncnews/?hl=en &#10; &#10;#CriticalRaceTheory #Detroit #MarcLamontHill"
     channeltitle "BNC News"
     channelid "UCAPlkRGvp4_JnsIyOJmpgDg"
@@ -2539,7 +2539,7 @@ graph
     commentcount 19
     duration "PT7M40S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 1000
     duration "PT3M46S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 11135
     duration "PT25M1S"
     indegree 38
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -2583,7 +2583,7 @@ graph
     label "WUBDHs55_1U"
     step 0
     date "2021-06-23T21:17:08Z"
-    title "Gen. Mark Milley defends teaching &#8216;critical race theory&#8217; at West Point | New York Post"
+    title "Gen. Mark Milley defends teaching at West Point | New York Post"
     description "America&#8217;s top military officer on Wednesday defended teaching &#8220;critical race theory&#8221; to US Army cadets at West Point &#8212; and said it&#8217;s important for those in uniform to understand &#8220;white rage.&#8221;&#10;&#10;During a budget hearing held by the House Armed Services Committee, Army Gen. Mark Milley, chairman of the Pentagon&#8217;s Joint Chiefs of Staff, said that &#8220;on the issue of critical race theory, etc., a lot of us have to get much smarter on whatever the theory is.&#8221;&#10;&#10;#WestPoint #CriticalRaceTheory #USArmy&#10;&#10;The New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.&#13;&#10;&#13;&#10;Catch the latest news here: https://nypost.com/&#13;&#10;Follow The New York Post on:&#13;&#10;Twitter - https://twitter.com/nypost&#13;&#10;Facebook - https://www.facebook.com/NYPost"
     channeltitle "New York Post"
     channelid "UCrvhNP_lWuPIP6QZzJmM-bw"
@@ -2593,7 +2593,7 @@ graph
     commentcount 1076
     duration "PT2M4S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 7500
     duration "PT12M29S"
     indegree 27
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 1
     duration "PT2M25S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2637,7 +2637,7 @@ graph
     label "LygIypMuxv4"
     step 0
     date "2021-07-08T00:30:02Z"
-    title "Glenn Youngkin &#38;#39;not afraid&#38;#39; to take on critical race theory in governor election"
+    title "Glenn Youngkin to take on critical race theory in governor election"
     description "Republican Virginia gubernatorial candidate discusses why he left his job to save the state on 'Kudlow.' #FoxBusiness #Kudlow&#10;&#10;Subscribe to Fox Business! https://bit.ly/2D9Cdse&#10;Watch more Fox Business Video: https://video.foxbusiness.com&#10;Watch Fox Business Network Live: http://www.foxnewsgo.com/&#10;&#10;FOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York &#8212; the business capital of the world &#8212; FBN launched in October 2007 and is one of the leading business networks on television, having topped CNBC in Business Day viewers for the second consecutive year in 2018. The network is available in nearly 80 million homes in all markets across the United States. Owned by FOX Corporation, FBN is a unit of FOX News Media and has bureaus in Chicago, Los Angeles, and Washington, D.C.&#10;&#10;Follow Fox Business on Facebook: https://www.facebook.com/FoxBusiness&#10;Follow Fox Business on Twitter: https://twitter.com/foxbusiness&#10;Follow Fox Business on Instagram: https://www.instagram.com/foxbusiness"
     channeltitle "Fox Business"
     channelid "UCCXoCcu9Rp7NPbTzIvogpZg"
@@ -2655,7 +2655,7 @@ graph
     label "d1cFYh5lNOg"
     step 0
     date "2021-11-10T15:00:18Z"
-    title "Parents are being &#38;#39;gaslit&#38;#39; with lies on critical race theory: High school teacher"
+    title "Parents are being with lies on critical race theory: High school teacher"
     description "Frank McCormick discusses his op-ed on critical race theory and how parents can recognize it. #FoxFriends #FoxNews&#10;&#10;Subscribe to Fox News! https://bit.ly/2vBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime:  https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/om/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2665,7 +2665,7 @@ graph
     commentcount 758
     duration "PT3M30S"
     indegree 18
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -2673,7 +2673,7 @@ graph
     label "xrm-1uzBmQY"
     step 0
     date "2021-06-23T12:00:35Z"
-    title "Explosive school board meeting erupts in chaos over critical race theory"
+    title "E tongue sticking out losive school board meeting erupts in chaos over critical race theory"
     description "'Fox &#38; Friends' hosts Ainsley Earhardt, Brian Kilmeade and Steve Doocy discuss the fiery Loudoun County School Board meeting that erupted in chaos over the proposed 'woke' agenda.&#160;&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity: http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2683,7 +2683,7 @@ graph
     commentcount 4397
     duration "PT4M50S"
     indegree 22
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2691,7 +2691,7 @@ graph
     label "hqaCDXosfuU"
     step 0
     date "2020-11-16T16:00:11Z"
-    title "&#38;quot;What is Critical Race Theory?&#38;quot; A Former Critical Theorist Answers (CRT Series: Episode 2)"
+    title " A Former Critical Theorist Answers (CRT Series: Episode 2)"
     description "This is Episode 2 in this series on Critical Race Theory. In this episode, Professor Randy Trahan will walk through the history of ideas as it relates to Critical Theory in general and Critical Race Theory in particular. &#10;&#10;FREE SMALL GROUP RESOURCE: https://www.travismcneely.com/crt-series Discussion Guide for the whole series.&#10;&#10;Episode One: https://www.youtube.com/watch?v=4wZ3scDkZFE&#38;t=663s&#10;Episode Three: https://www.youtube.com/watch?v=nZYQIEx-vjU&#10;&#10;Outline of Episode 2:&#10;00:00 Introduction&#10;2:14 The Roots of Critical Race Theory&#10;3:08 Definition of Critical Theory in its early stages.&#10;4:00 Neil Shenvi Definition (See Jon Harris assessment of Neil Shenvi--very helpful https://www.youtube.com/watch?v=GXutJ5fwUyI&#38;t=701s ).  &#10;6:40 The History of CRT tied to Marxism/Cultural Marxism&#10;7:00 A Defense of using the Term &#34;Cultural Marxism&#34;&#10;8:30 Marxist Theory of History&#10;11:00 Lukas &#38; Gramsci&#10;11:25 Superstructure became the focus of Gramsci&#10;12:10 Cultural Hegemony&#10;15:30 The Frankfurt School&#10;17:30 Liberation Theology &#10;19:17 Critical Legal Studies&#10;22:00 Critical Race Theory&#10;&#10;&#10;*Books &#38; Resources*:&#10;Sovereign Nations: https://www.youtube.com/channel/UCk2xIMRBXg_33n91bcvnYxA&#10;Conversations that Matter: https://www.youtube.com/user/RoarNoMore&#10;AD Robles: https://www.youtube.com/channel/UCoj8VTW50xNvdrmnTHl3JoA&#10;For the New Christian Intellectual: https://www.youtube.com/user/Jacobtyler623&#10;Understanding Postmodernism: A Christian Perspective by Dew &#38; Kelly:  https://amzn.to/3e4Aogx&#10;Finding Truth by Nancy Pearcey https://amzn.to/37NDX7c&#10;Truth Decay by Douglas Groothius https://amzn.to/2s3dKCh&#10;Introducing Critical Theory: A Graphic Guide by Sim &#38; Van Loon https://amzn.to/2QxB5W4&#10;The Universe Next Door: A Worldview Catalog by James Sire https://amzn.to/2N5fxOu&#10;Philosophy &#38; Philosophers (Zondervan Charts) by Craig Vincent Mitchell https://amzn.to/36z3bWD&#10;Dictionary of Critical Theory by Ian Buchanan https://amzn.to/35t9IAR&#10;Cultural Apologetics by Paul Gould https://amzn.to/39NR4a3&#10;&#10;Connect with Travis:&#10;Facebook - https://www.facebook.com/wtmcneely&#10;Facebook Page - https://www.facebook.com/TravisMcNeel...&#10;Twitter - https://twitter.com/travismcneely&#10;Instagram - https://www.instagram.com/travismcneely/&#10;Blog - https://travismcneely.com/&#10;&#10;Song Credit: Noxile Studios Demo 1 by Austin Woodard&#10;www.myspace.com/noxile 2013&#10;&#10;Thank you:&#10;Jillian McNeely, my wife for encouraging me to do this project for the sake of the gospel&#10;Randy Trahan, for being as bold as a lion, you truly are a descendant of Luther.&#10;Lewis Richerson, fellow Pastor &#38; mentor, who has supported &#38; challenged me to think precisely in this area and has pushed me to be better.&#10;Laramie Minga, a fellow Pastor who has edited my work and given me good feedback, as well as push me to be better.&#10;Todd Whirley, for teaching me so much about video &#38; audio&#10;Larry McNeely, for giving me a love for cameras&#10;Brandon Larsen, for pushing me to do this.&#10;Jacob Smith, for prayers, encouragement, and support &#10;Jon Harris, for your boldness, work, and resources&#10;Michael O'Fallon, for your influence over my thinking in this area.&#10;&#10;*Gear Used*&#10;Canon EOS 70D Digital SLR Camera with 18-55mm STM Lens https://amzn.to/2tBQaNq&#10;Davis &#38; Sanford FM18 Fluid Head 18 LB Cap - https://amzn.to/2JRB8rw&#10;Rode VideoMic GO Light Weight On-Camera Microphone https://amzn.to/2UUhXDQ&#10;Rode NTG2 Multi-Powered Condenser Shotgun Microphone https://amzn.to/34k8xVc&#10;LIGHTING - GVM 560 LED Video Light- https://amzn.to/2RlMOXM&#10;Ikan 12-inch Portable Teleprompter Kit (PT1200) - Black - https://amzn.to/2x5ONsu&#10;Canon Power Adapter - https://amzn.to/3c3m5qY&#10;Adobe Creative Cloud https://amzn.to/2Xl9efq&#10;MacBook Pro https://amzn.to/2XrEqcW&#10;SanDisk Ultra CZ48 256GB USB 3.0 Flash Drive (SDCZ48-256G-U46) https://amzn.to/34laTDm&#10;SanDisk 64GB Extreme SDXC UHS-I Card - C10, U3, V30, 4K UHD, SD Card - SDSDXV6-064G-GNCIN &#10;https://amzn.to/2UVe01L&#10;SennHeiser Head Phones https://amzn.to/3e3ZhZT&#10;iPhone 11 Max Pro https://amzn.to/3e4Xy6D&#10;iPhone Tripod https://amzn.to/34jSJBO"
     channeltitle "Travis McNeely"
     channelid "UCkD3B3K3bF5m3fC4rrw9MiA"
@@ -2701,7 +2701,7 @@ graph
     commentcount 1265
     duration "PT36M13S"
     indegree 37
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 216
     duration "PT14M22S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2737,7 +2737,7 @@ graph
     commentcount 1449
     duration "PT5M28S"
     indegree 3
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -2745,7 +2745,7 @@ graph
     label "-aPLJT6pfFY"
     step 0
     date "2021-07-07T22:15:00Z"
-    title "&#38;#39;The Five&#38;#39; accuse teachers union boss of &#38;#39;intimidation&#38;#39; over critical race theory"
+    title " over critical race theory"
     description "Randi Weingarten blasted parents as bullies and claims the White House has her back; reaction from 'The Five.' #FoxNews #TheFive&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -2755,7 +2755,7 @@ graph
     commentcount 5456
     duration "PT8M24S"
     indegree 4
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2773,7 +2773,7 @@ graph
     commentcount -1
     duration "PT5M28S"
     indegree 5
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 91
     duration "PT5M26S"
     indegree 6
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2809,7 +2809,7 @@ graph
     commentcount 4
     duration "PT19M58S"
     indegree 0
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -2845,7 +2845,7 @@ graph
     commentcount 1987
     duration "PT4M5S"
     indegree 11
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 1209
     duration "PT7M41S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 213
     duration "PT1M47S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 175
     duration "PT8M7S"
     indegree 1
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 2
     duration "PT36M39S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -2961,7 +2961,7 @@ graph
     label "KbzPDoEgO_s"
     step 0
     date "2020-10-16T17:00:09Z"
-    title "Is Critical Race Theory compatible with Christianity? Neil Shenvi &#38;amp; Rasool Berry"
+    title "Is Critical Race Theory compatible with Christianity? Neil Shenvi Rasool Berry"
     description "'Critical Race Theory&#8217; is a way of understanding racism through the dynamics of oppressed and oppressor groups. Neil Shenvi believes its worldview is at odds with the Gospel. Rasool Berry, teaching pastor at The Bridge Church NYC, believes CRT can help Christians to pursue reconciliation and justice. &#10;&#10;Neil Shenvi: https://shenviapologetics.com/  &#10;Rasool Berry: https://medium.com/@rasoolberry/critical-g-race-theory-the-promise-perils-of-crt-c5de933d55a1&#10;&#10;USA listeners check out our new USA website for exclusive resources: http://www.unbelievable.show&#10; &#10;Subscribe to our newsletter and receive the free Unbelievable? e-book &#8216;In Conversation With&#8230;&#8217; https://www.premier.org.uk/Unbelievablenewsletter  &#10; &#10;Support the show and receive all the videos sessions from Unbelievable? USA 2019 https://resources.premier.org.uk/supportunbelievable   &#10; &#10;For more faith debates visit http://www.premierchristianradio.com/Shows/Saturday/Unbelievable"
     channeltitle "Premier Unbelievable?"
     channelid "UC0p2OAXVoo9M1Z126B3fe3w"
@@ -2971,7 +2971,7 @@ graph
     commentcount 757
     duration "PT1H18M52S"
     indegree 18
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 389
     duration "PT7M57S"
     indegree 5
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 171
     duration "PT5M40S"
     indegree 27
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 4
     duration "PT26M34S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 3
     duration "PT59M16S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3061,7 +3061,7 @@ graph
     commentcount 82
     duration "PT5M12S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 9567
     duration "PT52M36S"
     indegree 9
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3087,7 +3087,7 @@ graph
     label "s2E_TQzBiJU"
     step 0
     date "2021-09-29T11:52:29Z"
-    title "Locke&#38;#39;s Brian Balfour discusses history of Critical Race Theory"
+    title "Lockes Brian Balfour discusses history of Critical Race Theory"
     description "Brian Balfour, senior vice president of research at the John Locke Foundation, discusses the history of Critical Race Theory. Learn more here: https://www.johnlocke.org/research/critical-race-theory-primer/. Video courtesy of CarolinaJournal.com."
     channeltitle "John Locke Foundation"
     channelid "UCB1GAiSHkOAabvcem7BvUFQ"
@@ -3097,7 +3097,7 @@ graph
     commentcount 2
     duration "PT6M37S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3105,7 +3105,7 @@ graph
     label "TtscOnCYH9g"
     step 0
     date "2021-05-15T12:30:04Z"
-    title "White House defends teaching critical race theory calling it &#38;#39;responsible&#38;#39;"
+    title "White House defends teaching critical race theory calling it "
     description "As parents begin resisting critical race theory teachings in schools, the Biden administration defends it; reaction from 'The Five.' #FoxNews #TheFive&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -3115,7 +3115,7 @@ graph
     commentcount 7004
     duration "PT8M8S"
     indegree 12
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3151,7 +3151,7 @@ graph
     commentcount 146
     duration "PT6M14S"
     indegree 10
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3159,7 +3159,7 @@ graph
     label "_dHt4HFLCaM"
     step 0
     date "2021-04-12T17:53:24Z"
-    title "Waking Up to &#38;quot;Woke&#38;quot; &#8211; Combatting Critical Race Theory"
+    title "Waking Up to Combatting Critical Race Theory"
     description "We&#8217;re steeped in &#8220;Critical Race Theory&#8221;&#8212;even if we don&#8217;t realize it. As Chris Rufo of City Journal explains, &#8220;It divides Americans by race and traffics in the pernicious concepts of race essentialism, racial stereotyping, and race-based segregation&#8212;all under a false pursuit of 'social justice.&#8217;&#8221; Join us as we sit down with Chris, along with Wade Miller of Citizens for Renewing America, to discuss how states&#8212;and society as a whole&#8212;can combat this threat to our values and our way of life.&#10;&#10;Speakers&#10;&#10;Kevin Roberts, Ph.D. (Moderator) &#8211; Executive Director, Texas Public Policy Foundation&#10;Chris Rufo (Panelist) &#8211; Contributing Editor, City Journal&#10;Wade Miller (Panelist) &#8211; Executive Director, Citizens for Renewing America"
     channeltitle "Texas Public Policy Foundation"
     channelid "UC-gFL1qK4Q9gRSv1rwDSj9g"
@@ -3169,7 +3169,7 @@ graph
     commentcount 151
     duration "PT48M3S"
     indegree 8
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3187,7 +3187,7 @@ graph
     commentcount 15
     duration "PT31M57S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3213,7 +3213,7 @@ graph
     label "g-mVGwTMJxI"
     step 0
     date "2020-08-26T16:46:38Z"
-    title "Critical Race Theory vs. Liberalism [What&#38;#39;s Wrong With Robin DiAngelo&#38;#39;s &#38;quot;Anti-Racism&#38;quot;?]"
+    title "Critical Race Theory vs. Liberalism [What?]"
     description "I created this video as I wanted to share my thoughts on Critical Race Theory (as applied and used as a way to view the world and each other). I've had a lot of thoughts and feelings about this, since Black Lives Matter and Robin DiAngelo's best-selling book, &#34;White Fragility&#34;, brought this ideological worldview into the mainstream here in the UK this summer 2020. Hopefully this video can be informative and also a good discussion point when sharing it with others. &#10;&#10;Thanks for watching. &#10;&#10;I am not using my real name as I prefer to stay anonymous on YouTube.&#10;&#10;Please share, comment, like, etc if you found this helpful - apparently this increases the chances it'll show up in other people's video recommendations.&#10;&#10;For interesting conversations with folks who think differently about Black Lives Matter, please visit this playlist:- https://www.youtube.com/playlist?list=PLoLEymOpVsHVxgWEpMHJMyVd8H4YCw31H&#10;&#10;Edit (28.11.2020):- &#10;This video was recorded by Amber Muhinyi. I originally chose to remain anonymous for privacy reasons, but I have since published my name in the interest of supporting and encouraging open debate."
     channeltitle "Victoria Ward"
     channelid "UCZRNCxj60iRLdRs390bvjZQ"
@@ -3223,7 +3223,7 @@ graph
     commentcount -1
     duration "PT26M15S"
     indegree 3
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 0
     duration "PT1H30M43S"
     indegree 0
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -3249,7 +3249,7 @@ graph
     label "WRK9NEZGnTw"
     step 0
     date "2021-05-13T14:31:16Z"
-    title "Furious mother slams her children&#8217;s school board for enforcing Critical Race Theory"
+    title "Furious mother slams her childrens school board for enforcing Critical Race Theory"
     description "A Virginia mother has fronted her children&#8217;s school board to educate them on why the Critical Race Theory should not be taught, arguing it's &#8220;racist&#8221; and &#8220;abusive&#8221;.&#10;&#10;&#8220;CRT is racist, it is abusive, it discriminates against ones colour,&#8221; she said.&#10;&#10;&#8220;Let me educate you. An honest dialogue does not oppress, an honest dialogue does not implement hatred or injustice&#34;.&#10;&#10;The woman, who is unnamed, told the school board she won&#8217;t stop fighting against CRT.&#10;&#10;&#8220;You cannot tell me what is or is not racist. Look at me,&#8221; she said.&#10;&#10;&#8220;I had to come down here today to tell you to your face we are coming together. We are strong. This will not be the last greet and meet, respectfully.&#8221;"
     channeltitle "Sky News Australia"
     channelid "UCO0akufu9MOzyz3nvGIXAAw"
@@ -3259,7 +3259,7 @@ graph
     commentcount 4550
     duration "PT1M34S"
     indegree 4
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -3277,7 +3277,7 @@ graph
     commentcount 2
     duration "PT44M25S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3285,7 +3285,7 @@ graph
     label "SK8oAqTW_6k"
     step 0
     date "2021-09-17T20:00:11Z"
-    title "&#38;quot;What is Critical Race Theory?&#38;quot; #SOC119"
+    title " #SOC119"
     description "This is a short segment from an introductory class on race and culture that is taught by Dr. Sam Richards at Penn State University. Today's video comes from the third class of the Fall 2021 semester. The live stream took place on Tuesday, August 31, 2021: https://youtu.be/dfMDn6MXKS4?t=1365&#10;&#10;Feel free to participate in the chat space and interact with students in the classroom by using the #soc119 hashtag on Twitter. But please be kind. Remember, this is a classroom.&#10;&#10;We live stream every class, during the fall semester the live stream is Tuesdays and Thursdays @ 4:35-5:50pm EST. During the spring semester we stream on Tuesdays and Thursdays @ 3:05-4:20pm EST. Need help finding your local time with our stream? Go to https://www.timeanddate.com/worldcloc... and enter &#34;State College, PA&#34; and then your local major city. We also live stream a podcast every Friday @ 12pm EST! That time stays the same each semester and includes when school is not happening.&#10;&#10;SOCIAL MEDIA:&#10;Class website: http://www.soc119.org&#10;Live Stream: http://twitch.tv/soc119 &#10;Facebook: https://www.facebook.com/soc119 &#10;Twitter: https://twitter.com/soc119 &#10;Instagram: https://www.instagram.com/soc_119/  &#10;Discord: https://discord.gg/CRVnH7P &#10;&#10;PODCAST: You Can&#8217;t Say That&#10;Anchor: https://anchor.fm/you-cant-say-that &#10;Spotify: https://open.spotify.com/show/4lvJSFF... &#10;iTunes: https://podcasts.apple.com/us/podcast... &#10;Google: https://www.google.com/podcasts?feed=... &#10;&#10;Do you have a comment, question or concern?&#10;Email: sam@soc119.org, staff@soc119.org&#10;Voicemail: 814-430-3555&#8236;&#10;&#10;#SOC119 #CriticalRaceTheory #CRT #Education"
     channeltitle "SOC 119"
     channelid "UCKHQmMru9nAJ71FMrGfhfJQ"
@@ -3295,7 +3295,7 @@ graph
     commentcount 3
     duration "PT24M9S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3321,7 +3321,7 @@ graph
     label "TY10H3qRN8M"
     step 0
     date "2021-07-18T14:40:55Z"
-    title "Public Confronts School Board on Transgender and &#38;quot;Critical Race Theory&#38;quot; Issues"
+    title "Public Confronts School Board on Transgender and Issues"
     description "Public Confronts School Board on Transgender and &#34;Critical Race Theory&#34; Issues&#10;Elkton, MD&#10;July 16, 2021&#10;by Doug Donley&#10;&#10;On Wednesday, local residents converged upon the Board of Education's monthly meeting to express their views about the accomodation of transgender students and issues that some have called Critical Race Theory. &#10;&#10;To accommodate the group of 100 or more attendees , the board held its meeting in the Elkton High School auditorium. During a public comment period that was not originally on the Board's agenda, 23 members of the public expressed their views on the two topics that affect school systems both locally and nationally.&#10;&#10;Jessica Riedel, a board member of the Cecil County LGBTQ+ Alliance spoke about the higher rates of suicide among Transgender students and the effects of forcing these students to use a bathroom that does not align with their identity.&#10;&#10;Rising Sun resident Agee Brown spoke about the discomfort and risk to female students who might share facilities with transgender students.&#10;&#10;Christine Givens, representing Cecil Solidarity, said that students need to be taught an accurate version of U.S. history that includes racial injustice and the role of black and indiginous people in the founding of the country.&#10;&#10;Dave Mihalis said he thought the Board should be more open about it's efforts to achieve equity for underperforming minority students and should focus on all students.&#10;&#10;Rev Joshua McCord, Senior Pastor at Conowingo Baptist Church, said that he objected to being told how to speak about Critical Race Theory and that teachers should not express their views in the classroom.&#10;&#10;Several speakers referred to a video of the March 24, 2021 CCPS School Board meeting which contains a presentation describing the Racial Equity Oversight Steering Committee, a grant funded initiative to address performance and disciplinary disparities among various portions of the student body. The video can be viewed on the CCPS web site.&#10;&#10;Following the last speaker, by which time many people had already left the auditorium, School Superintendent Dr. Jeffrey Lawson addressed the issues that had been  the focus of the evening's public comments. He repeated his message in a CCPS Facebook post the following day. In his remarks, he said that school systems in Maryland are required to address academic inequities and &#34;disproportionalities&#34; in the student population and that policies regarding transgender students are a matter of following federal law."
     channeltitle "Cecil TV"
     channelid "UC-xTRFDAGKTN-L1tusvo6bQ"
@@ -3331,7 +3331,7 @@ graph
     commentcount 0
     duration "PT8M24S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3339,7 +3339,7 @@ graph
     label "D0-du0NnkD0"
     step 0
     date "2022-03-18T12:00:06Z"
-    title "Ask Prof Wolff: Critical Theory &#38;amp; Critical Race Theory"
+    title "Ask Prof Wolff: Critical Theory Critical Race Theory"
     description "A Patron of Economic Update asks: &#34;I&#8217;m writing because I&#8217;m curious about Critical Theory and its relationship to a current hot topic, Critical Race Theory. What are Critical Theory&#8217;s roots? What were its originators in the Frankfurt School trying to achieve? What strengths and weaknesses did Critical Race Theory receive by being founded on Critical Theory?&#34;&#10;&#10;This is Professor Richard Wolff's video response.&#10;&#10;Submit your own question to be considered for a video response by Prof. Wolff on Patreon: https://www.patreon.com/economicupdate/community. &#10;&#10;Ask Prof Wolff is a @Democracy At Work production. We are committed to providing these videos to you free of ads. Please consider supporting us on Patreon.com/economicupdate. Become a part of the growing Patreon community and gain access to exclusive patron-only content, along with the ability to ask Prof. Wolff questions like this one! Your support also helps keep this content free to the public. Spreading Prof. Wolff's message is more important than ever. Help us continue to make this possible.&#10;_________________________________________________________________________&#10;Check out the NEW 2021 Hardcover edition of &#8220;Understanding Marxism,&#8221; with a new, lengthy introduction by Richard Wolff!  Visit: https://www.lulu.com/en/us/shop/richard-d-wolff/understanding-marxism/hardcover/product-7zr2y4.html?page=1&#38;pageSize=4&#10;&#10;&#8220;Marxism always was the critical shadow of capitalism. Their interactions changed them both. Now Marxism is once again stepping into the light as capitalism shakes from its own excesses and confronts decline.&#8221;&#10;&#10;Check out all of d@w&#8217;s books: &#34;The Sickness is the System,&#34; &#34;Understanding Socialism,&#34; by Richard D. Wolff, and &#8220;Stuck Nation&#8221; by Bob Hennelly at http://www.lulu.com/spotlight/democracyatwork&#10;_________________________________________________________________________&#10;Follow Wolff ONLINE:&#10;Web: http://www.rdwolff.com&#10;Patreon: https://www.patreon.com/economicupdate&#10;Twitter: http://twitter.com/profwolff&#10;http://twitter.com/democracyatwrk&#10;Facebook: http://www.facebook.com/EconomicUpdate&#10;http://www.facebook.com/RichardDWolff&#10;http://www.facebook.com/DemocracyatWrk&#10;Subscribe to the EU podcast: http://economicupdate.libsyn.com&#10;Shop our worker CO-OP made MERCH: https://democracy-at-work-shop.myshopify.com/"
     channeltitle "Democracy At Work"
     channelid "UCK-6FjMu9OI8i0Fo6bkW0VA"
@@ -3349,7 +3349,7 @@ graph
     commentcount 190
     duration "PT9M36S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3357,7 +3357,7 @@ graph
     label "KrqRHOFMgho"
     step 0
     date "2021-06-22T03:00:29Z"
-    title "Writer Benjamin Wallace-Wells on GOP&#8217;s Efforts to Ban Critical Race Theory"
+    title "Writer Benjamin Wallace-Wells on GOPs Efforts to Ban Critical Race Theory"
     description "Charles Blow sits down with The New Yorker staff writer Benjamin Wallace-Wells to talk about the origins of critical race theory, which has been the subject of many Republican lawmakers pushing to ban the teaching of CRT.   &#10;&#10;&#8220;The real key in the growth to the kind of campaign to denounce critical race theory comes over the last few years,&#8221; Wallace-Wells says. &#8220;We&#8217;ve had corporations, schools, universities, adopting anti-racism webinars much more broadly than they were before.&#8221;   &#10;&#10;All this and more on &#8220;Prime.&#8221;  &#10;&#10;To watch BNC programming, visit https://bnc.tv/how-to-watch/  &#10;&#10;Follow BNC on social media:   &#10;Facebook: https://www.facebook.com/BNCNews  &#10;Twitter: https://twitter.com/BNCNews  &#10;Instagram: https://www.instagram.com/bncnews/?hl=en &#10;&#10;&#10;#CritcialRaceTheory #Republicans #CharlesBlow"
     channeltitle "BNC News"
     channelid "UCAPlkRGvp4_JnsIyOJmpgDg"
@@ -3367,7 +3367,7 @@ graph
     commentcount 93
     duration "PT10M40S"
     indegree 3
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -3385,7 +3385,7 @@ graph
     commentcount 234
     duration "PT10M20S"
     indegree 5
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 6
     duration "PT2M3S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3429,7 +3429,7 @@ graph
     label "GLx2Rvw2YAo"
     step 0
     date "2021-02-02T07:03:14Z"
-    title "Ep. 103 &#8211; Leaving Critical Race Theory"
+    title "Ep. 103 Leaving Critical Race Theory"
     description "What does it look like from some one to wake up and leave the 'woke' movement? Learn firsthand from the personal story of Monique Duson as she shares about her own experience of leaving critical race theory and learning to think well about current racial issues. She is the founder of the Center for Biblical Unity."
     channeltitle "Southern Evangelical Seminary"
     channelid "UClkYTpoA2H_80tmXWcTDyKw"
@@ -3439,7 +3439,7 @@ graph
     commentcount 0
     duration "PT58M40S"
     indegree 5
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 76
     duration "PT14M32S"
     indegree 6
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -3465,7 +3465,7 @@ graph
     label "EoDYMLn07nc"
     step 0
     date "2022-04-09T19:49:30Z"
-    title "Randall Kennedy on Racism, Critical Race Theory, &#38;amp; the Need for Chastened Optimism | The Good Fight"
+    title "Randall Kennedy on Racism, Critical Race Theory, the Need for Chastened Optimism | The Good Fight"
     description "Randall Kennedy is the Michael R. Klein Professor of Law at Harvard Law School. He has written widely about race and its effect on American society and the law.&#10;&#10;In this week&#8217;s conversation, Randall Kennedy and Yascha Mounk discuss how racism in American life has changed and the ways in which it hasn&#8217;t, why we should move towards a more fluid sense of individual identity, and why he remains optimistic about America.&#10;&#10;URL: https://www.persuasion.community/p/kennedy&#10;&#10;Please do listen and spread the word about The Good Fight.&#10;&#10;Email: podcast@persuasion.community &#10;&#10;Website: http://www.persuasion.community&#10;&#10;Spotify: https://open.spotify.com/show/3nhfO2XVPsv2wZafZ5n7Hk?si=a5psey9IQ-KH63zhS6V_YA&#38;dl_branch=1&#10;&#10;Apple: https://podcasts.apple.com/us/podcast/the-good-fight/id1198765424&#10;&#10;Twitter: @Yascha_Mounk &#38; @joinpersuasion&#10;&#10;LinkedIn: Persuasion Community"
     channeltitle "Persuasion"
     channelid "UCsyw69DKDfr9Vj1PkRmnI7w"
@@ -3475,7 +3475,7 @@ graph
     commentcount 1
     duration "PT1H22M39S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 0
     duration "PT21M4S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount 11080
     duration "PT10M19S"
     indegree 70
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 23
     duration "PT2H25M56S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3555,7 +3555,7 @@ graph
     label "HrqHN04QjMA"
     step 0
     date "2022-04-07T04:38:19Z"
-    title "Governor Kristi Noem signs executive order restricting &#38;quot;critical race theory&#38;quot;"
+    title "Governor Kristi Noem signs executive order restricting "
     description "Governor Kristi Noem has signed an executive order that she says restricts access to &#34;critical race theory&#34; in public schools.&#10;&#10;As aired on Dakota News Now, 04/05/2022."
     channeltitle "Austin Goss"
     channelid "UCaR1tlXFMlgQQXJxqr4Ss_A"
@@ -3565,7 +3565,7 @@ graph
     commentcount 1
     duration "PT2M15S"
     indegree 4
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 899
     duration "PT4M46S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 142
     duration "PT1H28M31S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3627,7 +3627,7 @@ graph
     label "mnqIyoeoBYY"
     step 0
     date "2021-09-05T13:45:02Z"
-    title "Critical race theory the &#38;#39;civil rights issue of our time&#38;#39;: Swain"
+    title "Critical race theory the : Swain"
     description "Former Vanderbilt law professor Carol Swain argues teaching critical race theory is 'not constitutional.' #FoxNews #FoxandFriends&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -3645,7 +3645,7 @@ graph
     label "mjecCeAHGN4"
     step 0
     date "2021-10-25T05:00:20Z"
-    title "Critical Race Theory And &#38;quot;Moral Panic&#38;quot;"
+    title "Critical Race Theory And "
     description "I plummeted down the rabbit hole and left a part of me down there.&#10;&#10;PATREON: https://www.patreon.com/CarlosMaza&#10;MERCH: https://represent.com/store/carlosmaza&#10;TWITTER: https://www.twitter.com/gaywonk&#8203;&#10;INSTAGRAM: https://www.instagram.com/gaywonk&#10;&#10;The right-wing panic over Critical Race Theory is nothing new. It's part of a long history of race-based moral panics that billionaires use to turn vulnerable people against each other. &#10;&#10;Thankfully, there's a way to break the cycle.&#10;&#10;WHAT THE HELL&#10;0:00 The Data Void&#10;5:07 Critical Legal Studies&#10;8:06 What Happened In Detroit&#10;12:04 Critical Race Theory (Actually)&#10;16:27 THE TRUTH&#10;&#10;HOW THE HELL&#10;18:12 The First CRT Bullshit&#10;24:04 The Koch Propaganda Network&#10;26:03 There Is No CRT In School&#10;29:10 The &#34;Concerned Parents&#34;&#10;34:30 The Panic Goes Mainstream&#10;37:22 The GOP's &#34;Banning&#34; Strategy&#10;39:07 THE REAL VOID&#10;&#10;WHY THE HELL&#10;41:40 Moral Panics, Explained&#10;45:46 Republicans &#38; Race-Baiting&#10;50:36 THE ORB&#10;&#10;Sources: https://docs.google.com/document/d/1OuMdJPHvYtaEAqLucbyDWw5C2viv8sKTDAwtzl0bsAY/edit?usp=sharing"
     channeltitle "Carlos Maza"
     channelid "UC8l1OH0DOYARGUTrqAcWW2w"
@@ -3673,7 +3673,7 @@ graph
     commentcount 388
     duration "PT3M59S"
     indegree 7
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3691,7 +3691,7 @@ graph
     commentcount 90
     duration "PT3M51S"
     indegree 5
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 845
     duration "PT7M22S"
     indegree 47
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -3735,7 +3735,7 @@ graph
     label "WJjnpjJnb9E"
     step 0
     date "2021-05-18T08:30:02Z"
-    title "Concerned parent speaks out against critical race theory on &#38;#39;Tucker Carlson Tonight&#38;#39;"
+    title "Concerned parent speaks out against critical race theory on "
     description "Concerned parent Shawntel Cooper joins 'Tucker Carlson Tonight' to discuss why she brought the issue of critical race theory to her school board. #FoxNews #Tucker&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -3745,7 +3745,7 @@ graph
     commentcount 3234
     duration "PT4M13S"
     indegree 27
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 0
     duration "PT33M53S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 1128
     duration "PT12M23S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -3807,7 +3807,7 @@ graph
     label "dhRPlsa-Y-0"
     step 0
     date "2020-12-07T20:44:37Z"
-    title "Critical Race Theory, Explained"
+    title "Critical Race Theory, E tongue sticking out lained"
     description "It's critical for Americans to understand WHAT Critical Race Theory really is. &#10;&#10;Americans should defend civil rights, and we should actively work to eliminate racism in the U.S. and anywhere it exists&#8212;but (as we document in this backgrounder) these noble aims are NOT the stated intentions of Critical Race Theory's founders: herit.ag/37LYAly&#10;&#10;Still haven&#8217;t subscribed to The Heritage Foundation on YouTube? Click here &#9658; https://bit.ly/2otKliy&#10;&#10;Follow The Heritage Foundation on Facebook: https://www.facebook.com/heritagefoundation/&#10;&#10;Follow The Heritage Foundation on Twitter: https://twitter.com/Heritage&#10;&#10;Follow The Heritage Foundation on Instagram: https://www.instagram.com/heritagefoundation/?hl=en&#10;&#10;Illustration: The Heritage Foundation/Getty Images"
     channeltitle "The Heritage Foundation"
     channelid "UC5bEfSFTYQVfLCwkhBt8NtQ"
@@ -3817,7 +3817,7 @@ graph
     commentcount 3166
     duration "PT2M18S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount 68
     duration "PT37M43S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 30
     duration "PT16M8S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3871,7 +3871,7 @@ graph
     commentcount 28
     duration "PT19M31S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -3879,7 +3879,7 @@ graph
     label "WZwli4WdZmI"
     step 0
     date "2021-06-11T05:09:53Z"
-    title "Mom who survived Mao&#38;#39;s cultural revolution rips school for critical race theory"
+    title "Mom who survived Maos cultural revolution rips school for critical race theory"
     description "Xi Van Fleet joins 'Hannity' to tell her story. #FoxNews #Hannity&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -3889,7 +3889,7 @@ graph
     commentcount 6314
     duration "PT6M11S"
     indegree 13
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 2520
     duration "PT11M16S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3915,7 +3915,7 @@ graph
     label "-jQJ3gPg1WU"
     step 0
     date "2021-04-21T00:00:27Z"
-    title "TS&#38;amp;TT: Are Critical Race Theory &#38;amp; Intersectionality a Distraction for Christians?"
+    title "TS Intersectionality a Distraction for Christians?"
     description "Today on The Sword &#38; The Trowel, Tom Ascol and Jared Longshore unpack the argument made by some that critical race theory and intersectionality are merely a &#34;distraction&#34; from gospel work for Christians. Is it important for pastors and churches to address these ideologies? Do these conversations disrupt the church's great commission efforts? &#10;&#10;David French Tweet: https://twitter.com/DavidAFrench/status/1383611635667849227?s=20&#10;&#10;Jared Longshore's comments at the Lee County School board meeting: https://www.fox4now.com/news/local-news/call-for-change-over-year-old-lgbtq-school-policy&#10;&#10;A Brief Critique of Critical Race Theory: https://founders.org/2020/09/07/a-brief-critique-of-critical-race-theory/&#10;&#10;A Critical Analysis of Resolution 9: https://founders.org/series/a-critical-analysis-of-resolution-9/&#10;&#10;Critical Race Theory, Intersectionality, and the Gospel: https://founders.org/2020/02/03/critical-race-theory-intersectionality-and-the-gospel/&#10;&#10;Strong and Courageous: Following Jesus Amid the Rise of America's New Religion | https://press.founders.org/shop/strong-and-courageous/&#10;&#10;Just Thinking: About the State PRE-ORDER: https://press.founders.org/shop/just-thinking-about-the-state/&#10;&#10;2022 National Founders Conference: Militant &#38; Triumphant | https://founders.org/2022conference/&#10;&#10;The Institute of Public Theology: instituteofpublictheology.org &#10;&#10;By What Standard? book: https://press.founders.org/shop/by-what-standard-gods-world-gods-rules/&#10;&#10;Become a part of the F.A.M. |  https://press.founders.org/fam/&#10;&#10;By What Standard? Cinedoc: https://www.youtube.com/watch?v=pFHfa0s1XLM&#10;&#10;Watch #WieldTheSword | https://founders.org/wieldthesword/&#10;&#10;The Sword &#38; The Trowel: https://founders.org/the-sword-the-trowel/&#10;&#10;&#10;Follow Founders Ministries: &#10;&#10;Website: https://founders.org&#10;Facebook: https://www.facebook.com/FoundersMin/&#10;Twitter: https://twitter.com/FoundersMin&#10;Instagram: https://www.instagram.com/foundersministries/&#10;&#10;All Founders Ministries resources are copyrighted and any use and distribution must be approved by Founders Ministries."
     channeltitle "Founders Ministries"
     channelid "UC73IkqTseO-dI1qVuqrJ16A"
@@ -3925,7 +3925,7 @@ graph
     commentcount 20
     duration "PT38M23S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3933,7 +3933,7 @@ graph
     label "71bEoYB-CCY"
     step 0
     date "2020-09-27T08:59:44Z"
-    title "Race &#38;amp; Justice pt11/Session 1 Critical Race Theory /An (Un)Necessary Distraction"
+    title "Race Justice pt11/Session 1 Critical Race Theory /An (Un)Necessary Distraction"
     description "Race &#38; Justice: Session 1: Critical Race Theory: An (Un)Necessary Distraction&#10;Various Scripture&#10;Dr. Bryan Loritts &#10;&#10;From the &#8220;Race &#38; Justice&#34; Event with Bryan Loritts.&#8221; In Session 1, Dr. Loritts discusses Critical Race Theory and how it must be approached with nuance. He also examines the ideas of white privilege, systemic racism, reparations, and affirmative action. Listen along as we learn about what the Gospel of Jesus has to say about race and justice."
     channeltitle "Brian"
     channelid "UCpUKogx57TdQSpaGPnxGIxg"
@@ -3943,7 +3943,7 @@ graph
     commentcount 2
     duration "PT44M39S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3951,7 +3951,7 @@ graph
     label "XVLJejRiunc"
     step 0
     date "2021-08-09T04:54:04Z"
-    title "&#38;quot;Critical Race Theory vs. The Bible&#38;quot;- Dr. James Taylor"
+    title "- Dr. James Taylor"
     description "Welcome to the live stream of River of Life Church!&#10;&#10;We broadcast every Sunday morning beginning at 10:30 am, The Gathering at 6:00 pm and Wednesday at 7:00 pm until the services conclude.&#10;&#10;PLEASE LIKE, SHARE, FOLLOW, SUBSCRIBE... (all of the above)!!!!!!!!&#10;&#10;If you would like to tithe or make an offering to support River of Life Church and our missionaries taking the Gospel all over the world, please click the link below:&#10;&#10;https://www.roltampa.org/donate&#10;&#10;Or.. text 'give rol 100' to 813-333-5363 (100 is whatever amount you would like to donate)&#10;&#10;Thank you for stopping by!"
     channeltitle "River of Life Church"
     channelid "UCWrujTRdshkKu_VVYMW3p-A"
@@ -3961,7 +3961,7 @@ graph
     commentcount 1
     duration "PT2H6M35S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3969,7 +3969,7 @@ graph
     label "tvKA7n8oeQY"
     step 0
     date "2021-06-26T00:19:48Z"
-    title "What Everyone Gets Wrong About &#38;quot;Critical Race Theory&#38;quot;"
+    title "What Everyone Gets Wrong About "
     description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/t1j06211&#10;&#10;&#34;Critical Race Theory&#34; is the newest political buzzword floating around both on and offline. But few people seem to know what it really means.&#10;&#10;HOW TO FOLLOW/KEEP UP WITH ME:&#10;Subscribe &#9658; https://goo.gl/qVF6Cu (and click the bell)&#10;Website &#9658; http://t1j.site&#10;Twitter &#9658; http://twitter.com/the1janitor&#10;Instagram &#9658; http://instagram.com/the1janitor&#10;&#10;HOW TO TALK TO ME/ASK ME STUFF:&#10;Say hi &#9658; https://www.the1janitor.com/contact&#10;Business inquiries &#9658; t1j@standard.tv&#10;Curiouscat &#9658; http://curiouscat.me/the1janitor&#10;Leave me a Voicemail &#9658; 205 - 433 - 9516 (ONLY If you agree to the terms below)&#10;&#10;FAN COMMUNITIES&#10;Discord &#9658; the1janitor.com/discord&#10;Subreddit &#9658; http://reddit.com/r/T1J&#10;&#10;NEW HERE?&#10;New Viewer Playlist &#9658; https://bit.ly/3fbNIPy&#10;Livestreams &#9658; https://goo.gl/VfK2vP&#10;&#10;HOW TO SUPPORT ME:&#10;Become a Patreon Homie &#9658; http://patreon.com/the1janitor&#10;Become a YouTube Homie &#9658; http://the1janitor.com/join&#10;PayPal&#9658; http://the1janitor.com/paypal&#10;Merch &#9658; http://the1janitor.com/store&#10;Amazon Wishlist &#9658; http://a.co/5jRUmEa&#10;AFFILIATE LINKS:&#10;Literally Everything I use for YouTube/Streaming &#9658; https://amzn.to/39E7DFQ &#10;Budget YouTube Starter Kit &#9658; https://amzn.to/2XnJZZt&#10;Budget Streaming Starter Kit &#9658; https://amzn.to/2DhRnhs&#10;&#10;FAQS/MISC:&#10;Help caption/translate my videos&#9658; https://goo.gl/x4eewf&#10;What is HAKO? &#9658; https://www.the1janitor.com/hako&#10;Why I Disable Likes/Dislikes &#9658; https://goo.gl/pkdAa9&#10;FAQs about T1J &#9658; https://www.the1janitor.com/faq&#10;&#10;TERMS OF CALLING THE VOICEMAIL: &#10;By calling or texting this number, you agree to allow me to record your voicemail and use the recordings and texts for personal and commercial use. I agree, however, not to give or sell any of your information to any parties unafilliated with video production on this channel.&#10;1. No one will ever answer this number, it should always go straight to voicemail, so don't expect to talk to a human.&#10;2. It is very, very, unlikely that anyone will call or text you back. If you get a response, it will be in a public way, such as when part of a video.&#10;3. There's a caller ID, so I will generally be able to see the number you called from. As mentioned above, none of this information will be shared or used, but if that makes you uncomfortable then I suggest not calling. I also suggest that you do not share any unecessary personal information.&#10;4. Your basic rates and charges for calls, whatever they may be, will still apply.&#10;5. Your voicemail might be used for or responded to in a future video!&#10;&#10;Did you see a unpleasant ad on my channel? Let me know: https://www.the1janitor.com/contact&#10;&#10;If would like a source for or elaboration of a claim made that is not listed here, email me.&#10;&#10;Select imagery/video supplied by Getty Images&#10;Music by Epidemic Sound: http://epidemicsound.com/creator&#10;&#10;Edited by John Ivory&#10;Outro Music by John Ivory: www.soundcloud.com/kingjohnivory&#10;#T1J #the1janitor #CriticalRaceTheory&#10;&#10;http://youtube.com/the1janitor"
     channeltitle "T1J"
     channelid "UCajw8zd6DPpXOuF6d22Fjkw"
@@ -3979,7 +3979,7 @@ graph
     commentcount 2505
     duration "PT25M37S"
     indegree 8
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     commentcount 69
     duration "PT18M13S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 180
     duration "PT4M4S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 114
     duration "PT3M35S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 210
     duration "PT3M15S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 814
     duration "PT5M51S"
     indegree 4
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 0
     duration "PT13M48S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 186
     duration "PT1H5M38S"
     indegree 1
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 542
     duration "PT51M33S"
     indegree 14
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 351
     duration "PT9M50S"
     indegree 8
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4159,7 +4159,7 @@ graph
     commentcount -1
     duration "PT46M10S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 109
     duration "PT11M57S"
     indegree 2
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -4195,7 +4195,7 @@ graph
     commentcount -1
     duration "PT47M7S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4203,7 +4203,7 @@ graph
     label "j77jQ8s_q5k"
     step 0
     date "2022-02-03T15:00:19Z"
-    title "Robby Soave: Critical Race Theory IS Being Taught In Classrooms &#38;amp; These Hispanic Students HATED It"
+    title "Robby Soave: Critical Race Theory IS Being Taught In Classrooms These Hispanic Students HATED It"
     description "Robby Soave details his reporting on a California teacher who moved to Florida over critical race theory curriculum in the classroom.&#10;&#10;About Rising: &#10;Rising is a weekday morning show with bipartisan hosts that breaks the mold of morning TV by taking viewers inside the halls of Washington power like never before. The show leans into the day's political cycle with cutting edge analysis from DC insiders who can predict what is going to happen. It also sets the day's political agenda by breaking exclusive news with a team of scoop-driven reporters and demanding answers during interviews with the country's most important political newsmakers. &#10;&#10;Follow Rising on social media:&#10;&#10;Website: Hill.TV&#10;&#10;Facebook: facebook.com/HillTVLive/&#10;&#10;Instagram: @HillTVLive&#10;&#10;Twitter: @HillTVLive"
     channeltitle "The Hill"
     channelid "UCPWXiRWZ29zrxPFIQT7eHSA"
@@ -4213,7 +4213,7 @@ graph
     commentcount 1102
     duration "PT12M14S"
     indegree 0
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -4221,7 +4221,7 @@ graph
     label "QfYxgsqVpJk"
     step 0
     date "2022-03-05T19:15:00Z"
-    title "Asra Nomani Rips Critical Race Theory, Calls It The &#38;#39;New Racism&#38;#39; In America"
+    title "Asra Nomani Rips Critical Race Theory, Calls It The In America"
     description "At Tuesday's House Judiciary Committee hearing, activist Asra Nomani decried critical race theory, calling it a &#34;new racism.&#34;&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4231,7 +4231,7 @@ graph
     commentcount 87
     duration "PT6M19S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4239,7 +4239,7 @@ graph
     label "AcbRSEoxU4I"
     step 0
     date "2021-10-27T18:15:00Z"
-    title "&#38;#39;If Critical Race Theory Is Taught In More Schools, Does Your Son-In-Law Make More Money?&#38;#39;: Cruz"
+    title ": Cruz"
     description "At today's Senate Judiciary Committtee hearing, Sen. Ted Cruz (R-TX) asks AG Merrick Garland if he sought an ethics opinion prior to issuing a memorandum on school boards relating to his son-in-law's education company.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4249,7 +4249,7 @@ graph
     commentcount 2539
     duration "PT2M30S"
     indegree 6
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 55
     duration "PT43M4S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 1
     duration "PT14M9S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4293,7 +4293,7 @@ graph
     label "9Wd0puWt40U"
     step 0
     date "2022-04-05T14:04:47Z"
-    title "&#38;#39;I Hate Critical Race Theory&#38;#39;: Kristi Noem Blasts CRT Being Taught To Children"
+    title ": Kristi Noem Blasts CRT Being Taught To Children"
     description "At a town hall in Mobridge, South Dakota yesterday, Gov. Kristi Noem (R-SD) addressed a range of topics including CRT, the budget, and more.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4303,7 +4303,7 @@ graph
     commentcount 172
     duration "PT47M13S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4321,7 +4321,7 @@ graph
     commentcount 557
     duration "PT58M45S"
     indegree 3
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4329,7 +4329,7 @@ graph
     label "ZtgnIXnvxlw"
     step 0
     date "2021-06-10T23:45:01Z"
-    title "Tom Cotton Warns Critical Race Theory &#38;quot;Indoctrination&#38;quot; Is Causing Soldiers To Leave Military"
+    title "Tom Cotton Warns Critical Race Theory Is Causing Soldiers To Leave Military"
     description "Sen. Tom Cotton (R-AR) questions Defense Secretary Lloyd Austin about equity training and critical race theory trainings being mandated in the military at a Senate Armed Services hearing.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4339,7 +4339,7 @@ graph
     commentcount 4112
     duration "PT6M19S"
     indegree 2
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4357,7 +4357,7 @@ graph
     commentcount 3100
     duration "PT1M53S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4375,7 +4375,7 @@ graph
     commentcount 1968
     duration "PT32M21S"
     indegree 2
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4383,7 +4383,7 @@ graph
     label "AftoggVdQwY"
     step 0
     date "2022-06-16T19:11:37Z"
-    title "Cornel West Explains Critical Race Theory"
+    title "Cornel West E tongue sticking out lains Critical Race Theory"
     description "Dr. Cornel West Explains &#10;~ Critical Race Theory &#10;~ Educating students about racism&#10;~ The reality of white fragility"
     channeltitle "The Divine Names"
     channelid "UCSA_L_bTHUuMW5me1mMUizw"
@@ -4401,7 +4401,7 @@ graph
     label "R0xRsTFTaNY"
     step 0
     date "2022-01-22T15:30:21Z"
-    title "CHALLENGING Mikhaila Peterson on Critical Race Theory &#38;amp; More!"
+    title "CHALLENGING Mikhaila Peterson on Critical Race Theory More!"
     description "Just had a conversation with Jordan Peterson's daughter Mikhaila Peterson for her podcast and we discussed a wide variety of topics.&#10;&#10;&#128308; Website  - https://www.vaush.gg/&#10;&#128181; Patreon  - https://www.patreon.com/vaush&#10;&#10;&#127775; Other Socials &#127775;&#10;&#10;&#11088;&#65039; 2nd Channel  https://www.youtube.com/channel/UCdUD6racxisHiSX9iWFcuug&#10;&#128038; Twitter  - https://twitter.com/VaushV&#10;&#128126; Twitch - https://www.twitch.tv/vaushvidya&#10;&#128248; Instagram - https://www.instagram.com/vaushv/&#10;&#128309; Facebook - https://www.facebook.com/vaushvidya&#10;&#127925; TikTok - https://www.tiktok.com/@vaushvidya&#10;&#127897;Podcast - https://anchor.fm/vaush&#10;&#10;Intro animation credit goes to https://twitter.com/ItIsMeKyleG &#38; https://twitter.com/honeybunnbadger for the visuals, and https://twitter.com/sound_sierra for the audio! Thank you!&#10;&#10;0:00 Intro&#10;0:56 What is Critical Race Theory?&#10;6:44 Are there problems with Critical Race Theory?&#10;17:08 Is it important to teach this to kids?&#10;31:02 Gender studies&#10;36:49 Does teaching CRT help society?&#10;51:01 Anti-capitalism&#10;&#10;#JordanPeterson #MikhailaPeterson"
     channeltitle "Vaush"
     channelid "UC1E-JS8L0j1Ei70D9VEFrPQ"
@@ -4411,7 +4411,7 @@ graph
     commentcount 3537
     duration "PT1H7S"
     indegree 1
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount -1
     duration "PT6M10S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4455,7 +4455,7 @@ graph
     label "iirJ0XaxgNE"
     step 0
     date "2022-01-26T13:30:08Z"
-    title "What is Critical Race Theory?  Should it be taught in schools?"
+    title "What is Critical Race Theory? Should it be taught in schools?"
     description "In this episode of Let&#8217;s Teach, I&#8217;ll talk about what Critical Race Theory is, why it&#8217;s so controversial, and whether or not it should have a place in the public school curriculum.  Though CRT seems to just now be getting its 15 minutes of fame, it&#8217;s actually a concept dating back over 40 years.  CRT asserts that race is a social construct, which means that it is a social category invented by society in order to identify, label, and essentially divide groups of people.  According to the framework of CRT, racism exists not only as a personal prejudice but also as a societal, legal, and even political practice. &#10;&#10;Although policies today are less blatantly discriminatory, systemic practices that disenfranchise people of color are still in place.  Furthermore, CRT also has roots in sociological studies that examine the junction between social identifiers- like race, gender, class, and even sexual orientation- and power.  More specifically, those who wield the most power are typically wealthy, straight, white men, and populations outside that demographic hold very little power and are often at the mercy of the aforementioned group.&#10;&#10;Should CRT be taught in schools?&#10;||||||||||.................... 33% &#11088; Yes https://yt.strms.net/2DGzf&#10;||||||||||.................... 33% &#11088; No https://yt.strms.net/NXoYe&#10;||||||||||.................... 33% &#11088; I don't know https://yt.strms.net/S9e22&#10; &#10;-------------------&#10;Several segments are licensed under creative commons&#10;https://bit.ly/3gdujR6&#10;&#9989;Subscribe: https://bit.ly/3cpBPqN&#10;&#9989;Share this video with a friend: https://youtu.be/iirJ0XaxgNE&#10;&#11088;Watch next &#8211; https://bit.ly/2T6rR73&#10;Recommended Playlist &#8211; https://bit.ly/3gfcoJB&#10;&#9989;Let&#8217;s connect:&#10;www.lets-teach.com&#10;-------------------&#10;#CriticalRaceTheory #CRT #LetsTeach"
     channeltitle "Let's TEACH"
     channelid "UCk4ONqfctRvhFNRQfH3kufw"
@@ -4465,7 +4465,7 @@ graph
     commentcount 20
     duration "PT5M51S"
     indegree 0
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -4473,7 +4473,7 @@ graph
     label "aBrhA3nY6dY"
     step 0
     date "2021-06-15T21:00:01Z"
-    title "The GOP&#38;#39;s War on Critical Race Theory"
+    title "The GOPs War on Critical Race Theory"
     description "Western States Executive Director Eric Ward speaks with Cenk Uygur on The Conversation about why conservatives losing their minds over critical race theory. https://twitter.com/BulldogShadow&#10;&#10;MORE TYT: https://tyt.com/trial&#10;&#10;Hosts: Cenk Uygur, &#10;&#10;Cast: Cenk Uygur,&#10;&#10;***&#10;&#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://tyt.com/live&#10;&#10;Subscribe to The Young Turks on YouTube: http://youtube.com/subscription_center?add_user=theyoungturks&#10;&#10;TYT on Facebook: http://facebook.com/theyoungturks&#10;TYT on Twitter: http://twitter.com/theyoungturks&#10;TYT on Instagram: http://instagram.com/theyoungturks&#10;&#10;Merch: http://www.shoptyt.com&#10;&#10;Donate to TYT&#10;https://patreon.com/tytnetwork&#10;http://tyt.com/donate&#10;&#10;Download audio and video of the full two-hour show on-demand + the members-only postgame show by becoming a member at http://tyt.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&#10;&#10;Gift membership: http://tyt.com/gift&#10;&#10;Producer, Senior Producer and Executive Producer membership: http://go.tyt.com/producer&#10;&#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations. (American Heritage Dictionary)&#10;&#10;#TYT #TheYoungTurks #TheConversation"
     channeltitle "TYT's The Conversation"
     channelid "UCKw8kdkYfmuNSVehGoDw8Mg"
@@ -4483,7 +4483,7 @@ graph
     commentcount 89
     duration "PT11M56S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount -1
     duration "PT1H1M39S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4509,7 +4509,7 @@ graph
     label "9qYXXNGXim8"
     step 0
     date "2021-11-19T00:50:47Z"
-    title "Critical Race Theory Explained"
+    title "Critical Race Theory E tongue sticking out lained"
     description "Have you heard of the 'Marxist plot' to take down America by teaching kids about racism?The right-wing is calling it 'critical race theory'BT's Kei Pritsker explains how this fake crisis was manufactured to prevent schools from teaching the real history of the United States.&#10;&#10;#CRT"
     channeltitle "BreakThrough News"
     channelid "UCiinSjWS3E0vtAa3DCvp7iA"
@@ -4519,7 +4519,7 @@ graph
     commentcount 90
     duration "PT3M1S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 41
     duration "PT11M18S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4545,7 +4545,7 @@ graph
     label "u8_2UhzTFYM"
     step 0
     date "2022-03-04T19:45:52Z"
-    title "Sheila Jackson Lee: Critical Race Theory Has Been &#38;#39;Reinterpreted In The Wrong Way&#38;#39;"
+    title "Sheila Jackson Lee: Critical Race Theory Has Been "
     description "Rep. Sheila Jackson Lee (D-TX) spoke about critical race theory during Tuesday&#8217;s House Judiciary Committee hearing about discrimination in Muslim, Arab, and South Asian American Communities.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4555,7 +4555,7 @@ graph
     commentcount 35
     duration "PT2M32S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4563,7 +4563,7 @@ graph
     label "aXHQiVsA0bM"
     step 0
     date "2021-07-18T22:00:10Z"
-    title "Thomas Sowell &#38;quot;Discrimination and Disparities&#38;quot; Interview on Critical Race Theory (CRT) &#38;amp; Slavery &#38;#39;19"
+    title "Thomas Sowell 19"
     description "Buy the book here: https://amzn.to/36IRH4n&#10;Full Unabridged Audio Book - https://youtu.be/6gmevlJguPg&#10;Interviews from 2019 (Interview A: 01:23  &#38;  Interview B: 25:47 )&#10;Chapter breaks below &#128071;&#10;EARN &#128176; SHOW SUPPORT WITH THESE LINKS:&#10;Support Basic Economics w/ Coffee! &#9749;&#9749;&#9749;&#10;https://www.buymeacoffee.com/basiceconomics&#10;&#10;Suggested Reading List&#128218;: &#10;https://www.amazon.com/shop/basiceconomics&#10;&#10;iTrustCapital #1 Crypto Roth IRA &#10;&#128176; $100 in Bitcoin Reward&#10;https://itrust.capital/basiceconomics&#10;&#10;FTX - Fastest &#38; Most Reliable Crypto Exchange&#10;&#128176;Discounted Fees&#10;https://ftx.us/home/#a=14303791&#10;&#10;AMEX Cash Magnet Card &#10;&#128176; $200 credit w/ charge $1000 &#10;http://refer.amex.us/MICHAmzd8l?XLINK=MYCP&#10;&#10;Amazon Prime AMEX  &#10;&#128176; $125 Credit Instant&#10;http://refer.amex.us/MICHAms8Fc?XLINK=MYCP&#10;&#10;&#128176; 2 Free Audiobooks w/ Audible&#10;https://amzn.to/3AxOMcJ&#10;&#10;Gemini Crypto Exchange&#10;&#128176; $10 Bitcoin Reward &#38; Free Withdrawals&#10;https://www.gemini.com/share/akyywxnud&#10;&#10;Coinbase Crypto Exchange &#10;&#128176; $10 Free Bitcoin&#10;https://www.coinbase.com/join/menich_sg&#10;&#10;Webull Broker Account &#10;&#128176; 2 Free Stocks&#10;https://act.webull.com/nv/roABXEauBzGx/p7h/inviteUs/&#10;&#10;Celsius Network #1 for Crypto Savings Rates&#10;&#128176; $50 Free Bitcoin&#10;&#10;AFFILIATE DISCLOSURE: Links on this channel are affiliate links, meaning, at NO additional cost to you. Please do not use these products unless you feel you need them. &#10;&#10;#BasicEconomics #liberty #sowell #money #economics #wealth #poverty #race"
     channeltitle "BasicEconomics"
     channelid "UCmhrSpM3ZeJJFm_MssuueYA"
@@ -4573,7 +4573,7 @@ graph
     commentcount 593
     duration "PT1H6M38S"
     indegree 18
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4591,7 +4591,7 @@ graph
     commentcount -1
     duration "PT56M"
     indegree 3
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4609,7 +4609,7 @@ graph
     commentcount 44
     duration "PT2M22S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4617,7 +4617,7 @@ graph
     label "kY6O41r-M-U"
     step 0
     date "2021-09-03T03:45:19Z"
-    title "Critical Race Theory  Spanish Video - Teoria Critica de la Raza"
+    title "Critical Race Theory Spanish Video - Teoria Critica de la Raza"
     description ""
     channeltitle "Parent Union"
     channelid "UCuwW4JMWN_CL9h8J_mGmtyQ"
@@ -4627,7 +4627,7 @@ graph
     commentcount 0
     duration "PT5M12S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4635,7 +4635,7 @@ graph
     label "TX9_Edv4AYU"
     step 0
     date "2021-08-15T18:53:34Z"
-    title "Larry Elder Decries Critical Race Theory In First Press Briefing In &#38;#39;Recall Newsom&#38;#39; Campaign"
+    title "Larry Elder Decries Critical Race Theory In First Press Briefing In Campaign"
     description "Earlier this week, conservative radio host Larry Elder, who is running in the California recall election to unseat Gov. Gavin Newsom (D-CA), decried critical race theory, school admissions policies, and the rise of hate crimes in his state.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4645,7 +4645,7 @@ graph
     commentcount 5666
     duration "PT58M33S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4653,7 +4653,7 @@ graph
     label "aH2_4SP5Zx0"
     step 0
     date "2022-07-09T15:00:13Z"
-    title "Reggie Jackson On Why He LAUGHS When He Hears CRITICAL RACE THEORY Hurts WHITE PEOPLE&#38;#39;S FEELINGS"
+    title "Reggie Jackson On Why He LAUGHS When He Hears CRITICAL RACE THEORY Hurts WHITE PEOPLES FEELINGS"
     description "SUBSCRIBE TO OUR PODCAST&#10;https://linktr.ee/getoboysreloaded&#10;&#10;&#10;#getoboys #GBR #reggiejackson &#10;&#10;For All Business Inquiries, you may reach out to reckmedia713@gmail.com."
     channeltitle "Geto Boys Reloaded"
     channelid "UCEivWRL8XZ3wGkFtOigOFiw"
@@ -4663,7 +4663,7 @@ graph
     commentcount 5
     duration "PT4M50S"
     indegree 5
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4671,7 +4671,7 @@ graph
     label "z5GCJSLISH0"
     step 0
     date "2021-06-23T19:38:52Z"
-    title "Lloyd Austin Rebukes Matt Gaetz For &#38;#39;Spurious&#38;#39; Question On Critical Race Theory"
+    title "Lloyd Austin Rebukes Matt Gaetz For Question On Critical Race Theory"
     description "During today's House Armed Services Committee hearing, Rep. Matt Gaetz (R-FL) questioned Defense Sec. Lloyd Austin on critical race theory in the military, claiming that military members had expressed concern to him, a point refuted by Austin and a resultant tense exchange between the two.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4681,7 +4681,7 @@ graph
     commentcount 644
     duration "PT5M18S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4689,7 +4689,7 @@ graph
     label "36uJfeO4ZAU"
     step 0
     date "2021-06-03T15:44:17Z"
-    title "Students Reject Critical Race Theory After Learning What It&#38;#39;s Really About"
+    title "Students Reject Critical Race Theory After Learning What Its Really About"
     description "Campus Reform reporter Ophelie Jacobson went to George Washington University to ask if students knew what Critical Race Theory (CRT) was and if they agreed with some of the basic principles derived from CRT.&#10;&#10;When Jacobson asked if students knew what CRT was, all of them said they were unfamiliar with the details of the theory.&#10;&#10;Jacobson then went on to describe three basic principles derived from Critical Race Theory: &#10;1. Race is the most important thing about you. &#10;2. Race, rather than merit, should be the main hiring factor.&#10;3. Racism is present in every single interaction.&#10;&#10;Students disagreed with all of the statements and admitted that this type of education should not be taught in colleges nor should it be taught to students in K-12 schools.&#10;&#10;Jacobson asked students if they believed this was what Martin Luther King Jr. envisioned for the United States of America.&#10;&#10;&#8220;No,&#8221; one student said. &#8220;If you fixate on it so much to the point that you see nothing else than the other human being, then obviously that counters the type of activism he was trying to do.&#8221;&#10;&#10;Watch the full video above to hear more from students on Critical Race Theory.&#13;&#10;-----------------------------------------------------------------------------------------------------------&#13;&#10;&#13;&#10;Follow us on Twitter &#9658; http://twitter.com/campusreform&#13;&#10;Like us on Facebook &#9658; http://www.facebook.com/CampusReform&#13;&#10;&#13;&#10;Campus Reform, a project of the Leadership Institute, is America's leading site for college news. As a watchdog to the nation's higher education system, Campus Reform exposes bias and abuse on the nation's college campuses.&#13;&#10;&#13;&#10;Our team of professional journalists works alongside student activists and student journalists to report on the conduct and misconduct of university administrators, faculty, and students.&#13;&#10;&#13;&#10;Campus Reform holds itself to rigorous journalism standards and strives to present each story with accuracy, objectivity, and public accountability."
     channeltitle "Campus Reform"
     channelid "UCA8sK_Bba0Eb-k33bD0ldhw"
@@ -4699,7 +4699,7 @@ graph
     commentcount 5134
     duration "PT4M2S"
     indegree 11
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 23
     duration "PT16M33S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 436
     duration "PT6M32S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 1823
     duration "PT1H1M22S"
     indegree 1
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4779,7 +4779,7 @@ graph
     label "v_32zkuxDbw"
     step 0
     date "2021-07-17T02:30:20Z"
-    title "PTA official says &#38;#39;let them die&#38;#39; about parents fighting critical race theory"
+    title "PTA official says about parents fighting critical race theory"
     description "Fairfax County parent Asra Nomani reacts saying there is a 'war on parents.' #FoxNews #FoxNewsPrimetime&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
     channeltitle "Fox News"
     channelid "UCXIJgqnII2ZOINSWNOGFThA"
@@ -4797,7 +4797,7 @@ graph
     label "hDBI5icm-Zk"
     step 0
     date "2020-10-21T07:32:18Z"
-    title "Critical race theory is &#38;#39;regressive and even quite racist&#38;#39;"
+    title "Critical race theory is "
     description "Spiked Editor Brendan O&#8217;Neil says the problem with the critical race theory pushed by the left is it &#34;rehabilitates the racial imagination&#34; rather than judging people by their character.&#10;&#10;Mr O&#8217;Neil said the theory was incredibly regressive, and &#8220;even quite racist&#8221;. &#10;&#10;UK Equalities Minister Kemi Badenock earlier this year told the House of Commons the Black Lives Matter movement was a political movement pushing &#8220;a lot of pernicious stuff&#8221;. &#10;&#10;Ms Badenoch said, &#8220;any school which teaches these elements of critical race theory as fact, or which promotes partisan pollical views such as defunding the police, without offering a balanced treatment of opposing views, is breaking the law. &#10;&#10;Commenting on this speech, Mr O&#8217;Neil said, &#8220;she made the point that of course black lives matter, but the Black Lives Matter movement is a different question entirely, it&#8217;s an ideological movement with some very regressive, dangerous ideas.&#8221;&#10;&#10;&#8220;She really called out critical race theory in particular, and the teaching of critical race theory  in British schools, which is this idea that all white people are privileged, all black people are victims, and we have to think about race all the time.&#8221;&#10;&#10;&#8220;The problem with critical race theory that is pushed by the left is that it rehabilitates racial thinking, it rehabilitates the racial imagination when we&#8217;re supposed to judge people by their character rather than their colour.&#8221;&#10;&#10;&#8220;It&#8217;s an incredibly regressive, even quite racist theory the left is pushing.&#8221;"
     channeltitle "Sky News Australia"
     channelid "UCO0akufu9MOzyz3nvGIXAAw"
@@ -4807,7 +4807,7 @@ graph
     commentcount 263
     duration "PT6M33S"
     indegree 11
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -4815,7 +4815,7 @@ graph
     label "MIr-OzY8-7M"
     step 0
     date "2021-07-11T23:39:04Z"
-    title "Noem Attacks &#38;#39;Critical Race Theory&#38;#39; And &#38;#39;1619 Project,&#38;#39; Defends Sending National Guard To Border"
+    title "Noem Attacks Defends Sending National Guard To Border"
     description "(Video Courtesy of American Conservative Union, organizer of CPAC)&#10;&#10;In her speech at CPAC Texas, Gov. Kristi Noem (R-SD) defended sending National Guard troops to the southern border, and took aim at &#34;critical race theory&#34; and the &#34;1619 Project.&#34;&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4825,7 +4825,7 @@ graph
     commentcount 2773
     duration "PT3M52S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4833,7 +4833,7 @@ graph
     label "WBZPQTcaOHk"
     step 0
     date "2021-09-05T21:45:00Z"
-    title "&#38;#39;Critical Race Theory Is A Poison&#38;#39;: Gaetz Argues For Banning Teaching Of CRT At Military Academies"
+    title ": Gaetz Argues For Banning Teaching Of CRT At Military Academies"
     description "At Wednesday's House Armed Services Committee late night hearing on the markup of the National Defense Authorization Act for Fiscal Year 2022, Rep. Matt Gaetz (R-FL) joined other GOP lawmakers in attempting to make it impossible to teach critical race theory in military academies.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4843,7 +4843,7 @@ graph
     commentcount 453
     duration "PT4M49S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4851,7 +4851,7 @@ graph
     label "jP84tmyzhZ0"
     step 0
     date "2021-07-13T12:00:31Z"
-    title "I Won&#8217;t Let Critical Race Theory Divide my Family"
+    title "I Wont Let Critical Race Theory Divide my Family"
     description ""
     channeltitle "TakeCharge Minnesota"
     channelid "UC-FJENzOaf3xQ3lE0oiUa2g"
@@ -4861,7 +4861,7 @@ graph
     commentcount 12
     duration "PT2M52S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4869,7 +4869,7 @@ graph
     label "KDddouNOqLQ"
     step 0
     date "2021-06-23T19:45:19Z"
-    title "Gen. Mark Milley Defends Teaching Of &#38;#39;Critical Race Theory&#38;#39; At West Point During House Hearing"
+    title "Gen. Mark Milley Defends Teaching Of At West Point During House Hearing"
     description "During a House Armed Services Committee hearing, General Mark Milley defends teaching critical race theory in US Military academies, saying it is important to understand &#8220;white rage,&#8221; adding that it matters that soldiers learn about America&#8217;s history of racism.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -4879,7 +4879,7 @@ graph
     commentcount 1425
     duration "PT2M27S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 2
     duration "PT1M17S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 0
     duration "PT1H2M34S"
     indegree 1
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4923,7 +4923,7 @@ graph
     label "cHgQhEE013Y"
     step 0
     date "2021-08-15T15:00:16Z"
-    title "Ben Shapiro&#8217;s Advice to New Teacher Dealing With Critical Race Theory Nonsense"
+    title "Ben Shapiros Advice to New Teacher Dealing With Critical Race Theory Nonsense"
     description "Ben Shapiro advises a teacher on how to fight back against CRT in the education system.&#10;&#10;LIKE &#38; SUBSCRIBE for new videos every day.&#10;&#10;This is a reupload of a portion of the Q&#38;A segment of my 2021 @Young America's Foundation speech in Texas. To subscribe to YAF, click here: https://www.youtube.com/user/YAFTV&#10;&#10;#Politics #DailyWire #YAF #Speech #BenShapiro #CriticalRaceTheory #LoudonCounty"
     channeltitle "Ben Shapiro"
     channelid "UCnQC_G5Xsjhp9fEJKuIcrSw"
@@ -4933,7 +4933,7 @@ graph
     commentcount 1073
     duration "PT1M56S"
     indegree 1
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount -1
     duration "PT20M36S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 1665
     duration "PT32S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount -1
     duration "PT36M22S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5023,7 +5023,7 @@ graph
     commentcount -1
     duration "PT1H5M43S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5031,7 +5031,7 @@ graph
     label "2Kg0q82mFzI"
     step 0
     date "2022-01-21T19:23:37Z"
-    title "Opposing Views: Is Critical Race Theory Solving Anything? | James Lindsay &#38;amp; Vaush - MP Podcast #134"
+    title "Opposing Views: Is Critical Race Theory Solving Anything? | James Lindsay Vaush - MP Podcast #134"
     description "In this episode of Opposing Views, James Lindsay and Ian Kochinski, better known as Vaush, joined me to discuss Critical Race Theory. &#10;&#10;We covered a range of topics surrounding CRT, starting of course with what it is and what it&#8217;s trying to solve, where it&#8217;s being taught, the agenda behind it, and what we can do about it. But we also touch on related topics like social biases, anti-capitalism, and the idea of whiteness / the over-focus on race that&#8217;s so prevalent today. &#10;&#10;James Lindsay is an American author, mathematician, and political commentator. He is known for having co-authored a series of hoax papers for social science journals, perhaps the best-known being &#8220;The Conceptual Penis as a Social Construct&#8221; and the one where &#8220;unwanted humping&#8221; at dog parks was observed day in and day out, resulting in an informed breakdown of how men would benefit from being trained like dogs. &#10;&#10;Vaush is an American left-wing YouTuber known for his advocating libertarian market socialism. He has popular debates on his channel as well, often against other YouTubers.&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Find more James Lindsay on Twitter @ConceptualJames&#10;https://twitter.com/ConceptualJames&#10;&#10;Find more Vaush on YouTube &#10;https://www.youtube.com/c/Vaush&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;Follow Me On&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;All Platforms: https://linktr.ee/mikhailapeterson&#10;Facebook: https://facebook.com/mikhailapete&#8203;rson&#10;Twitter: https://twitter.com/MikhailaAleksis&#8203;&#8203;&#10;Instagram: https://instagram.com/mikhailapeterson&#10;Telegram channel: https://t.me/mikhailapeterson&#8203;&#8203;&#10;&#10;__________&#10;Shownotes&#10;__________&#10;[0:00] Intro&#10;[02:40] Intro to James Lindsay &#10;[05:04] What CRT is; what it's trying to solve&#10;[08:30] &#34;CRT is calling everything you want to control racist until you control it.&#34; - JL&#10;[08:35] Isn't C.R.T. a way to even the scales for people that have had it harder?&#10;[14:54] Are educators aware of what they are teaching?&#10;[18:12] &#34;The ideology itself is psychopathic, so people who engage with it reproduce its psychopathy whether they are psychopaths or not.&#34; - JL&#10;[21:52] Strategic equivocation, paralogy, and the multiple meanings behind the words being used in C.R.T. &#10;[27:55] Global tyranny &#10;[28:32] Link to Opposing Views: Vaccine Passports https://youtube.com/watch?v=Plz-D9OzWlM&#10;[28:40] How far are we entrenched in CRT? Where is it being taught?&#10;[32:27] What whiteness means &#10;[34:11] Entryism and how far has CRT has made it into the institutions and military&#10;[37:17] The state of Canada &#10;[37:37] What can people do? &#10;[43:55] What happens if we don't do anything?&#10;[46:01] ESG (Environmental, Social, Governance)&#10;[49:56] Where to Find James&#10;&#10;[52:15] Introduction to Vaush&#10;[52:47] What is Critical Race Theory and what is it trying to solve?&#10;[54:00] Where C.R.T. comes from and is it just a way to get Marxism into America? &#10;[54:55] &#34;When we talk about young people, like middle schoolers being taught critical race theory, it's kind of like saying they are being taught astrophysics because they are learning about arithmetic.&#34; - Vaush&#10;[55:45] Why is it necessary to teach this to children?&#10;[57:15] Redlining and social biases&#10;[58:43] What are the solutions?&#10;[59:13] &#34;The goal should be total freedom for everyone. Everyone should be elevated; you never want to fix a systemic problem by dragging one group down.&#34; - Vaush&#10;[01:03:54] Is C.R.T. Marxism disguised and taking over the states?&#10;[01:04:18] Mikhaila&#8217;s problem with C.R.T. and why don&#8217;t we focus on the actual issues, instead of race?&#10;[01:08:00] Isn't it better to teach people how to overcome disadvantages instead of teaching the victim mentality?&#10;[01:11:08] The agenda of the people teaching C.R.T.&#10;[01:11:59] In regards to C.R.T. being taught in middle school. &#34;The issue is a lot of this stuff is just, let's be real, being taught by over-earnest white progressive Karen's.&#34;&#10;[01:14:09] C.R.T. in corporations &#10;[01:14:33] E.S.G. scores &#10;[01:23:58] Is C.R.T. wrapped up with Gender studies in kindergarteners?&#10;[01:24:40] C.R.T. and Equality of opportunity &#10;[01:28:34] Does teaching C.R.T. reduce racism?&#10;[01:32:00] What fighting against racism looks like.&#10;[01:36:52] Is the amount of time to educate people about fairness worth it?&#10;[01:42:28] What's the anti-capitalism solution? &#10;[01:45:46] Is the way education is being presented in college manipulating to students?&#10;&#10;#MikhailaPeterson #CriticalRaceTheory #CRT #Whiteness #CRTExplained"
     channeltitle "Mikhaila Peterson"
     channelid "UC6Hyj5sVbiYhpc_FA14nziw"
@@ -5041,7 +5041,7 @@ graph
     commentcount 5580
     duration "PT1H51M50S"
     indegree 2
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 12
     duration "PT3M32S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 2
     duration "PT1M19S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5085,7 +5085,7 @@ graph
     label "qSU3B-VzR5o"
     step 0
     date "2021-11-30T02:00:24Z"
-    title "If You Didn&#8217;t Think Critical Race Theory Would Infect the Church&#8230; | WRETCHED"
+    title "If You Didn | WRETCHED"
     description "Watch and listen to full episodes of Wretched TV + Radio: https://wretched.org&#10;&#10;Wretched TV + Radio is hosted by Todd Friel. On the show, you will see and hear live witnessing encounters, discussions of tough theological issues, and Christian commentary on current events. We might even make you laugh.&#10;&#10;SUPPORT WRETCHED: &#10;https://wretched.org/donate&#10;&#10;FACEBOOK:&#10;Wretched: http://facebook.com/wretchednetwork&#10;&#10;TWITTER:&#10;Wretched: http://twitter.com/wretchednetwork&#10;Todd Friel: http://twitter.com/toddfriel&#10;&#10;INSTAGRAM:&#10;Wretched: http://instagram.com/wretched.network"
     channeltitle "Wretched"
     channelid "UCdlxWNzGGPKzQLMXkkyZkUQ"
@@ -5095,7 +5095,7 @@ graph
     commentcount -1
     duration "PT12M2S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5113,7 +5113,7 @@ graph
     commentcount 11612
     duration "PT9M30S"
     indegree 47
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount -1
     duration "PT6M58S"
     indegree 0
-    cluster 2
+    cluster 9
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 55
     duration "PT10M12S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount -1
     duration "PT1H2M7S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5185,7 +5185,7 @@ graph
     commentcount 9
     duration "PT10M25S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5193,7 +5193,7 @@ graph
     label "PG1EWTXO4wo"
     step 0
     date "2021-08-08T13:00:20Z"
-    title "Critical Race Theory Is Good for Making Positive Change &#8211; Anthony | Street Epistemology"
+    title "Critical Race Theory Is Good for Making Positive Change Anthony | Street Epistemology"
     description "I chat with Anthony about whether or not Critical Race Theory is a good theory. &#10;&#10;Chapters:&#10;0:00 Intro&#10;0:33 Identifying Topic &#8211; CRT&#10;2:16 Clarifying CRT&#160;&#8211;&#160;Wiki Definition&#10;9:40 Clarifying CRT &#8211; Goal&#10;11:13 Clarifying CRT &#8211; Criticisms&#10;12:42 Clarifying 'White Supremacy'&#10;15:34 Clarifying 'Racism' vs 'Systemic Racism'&#10;21:10 Identifying Claim&#10;24:25 Wondering &#8211; History of Racism&#10;27:10 Clarifying 'Equity' vs 'Equality'&#10;32:07 Wondering &#8211; Authoritarianism&#10;36:36 Identifying Confidence&#10;38:12 Pro Reason &#8211;&#160;Success of Civil Rights Academic Ideas&#10;41:36 Con Reason &#8211;&#160;Not All Problems Reduce to Racism&#10;44:34 Con Reason &#8211; Does More Harm Than Good&#10;51:01 Wondering&#160;&#8211; Critical Theory&#10;56:22 Pro Reason &#8211; Academic Rigor&#10;59:40 Wrap Up&#10;1:02:45 Feedback&#10;&#10;__&#10;&#10;To learn more about street epistemology, please visit the SE website.&#10;https://streetepistemology.com/&#10;&#10;__&#10;&#10;Twitter: http://twitter.com/cordialcurious&#10;Facebook: https://www.facebook.com/cordialcuriosity&#10;Instagram: https://www.instagram.com/cordialcuriosity&#10;Twitch: https://www.twitch.tv/cordialcuriosity"
     channeltitle "Cordial Curiosity"
     channelid "UCiWKxPMKUBFjN3Ny_VxpkYw"
@@ -5221,7 +5221,7 @@ graph
     commentcount 66
     duration "PT3M57S"
     indegree 1
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 1535
     duration "PT18M15S"
     indegree 12
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5257,7 +5257,7 @@ graph
     commentcount 1330
     duration "PT40M1S"
     indegree 17
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5275,7 +5275,7 @@ graph
     commentcount 393
     duration "PT2M34S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 5
     duration "PT1H41M43S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 10
     duration "PT31M20S"
     indegree 1
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -5319,7 +5319,7 @@ graph
     label "U7rFKsNibic"
     step 0
     date "2021-05-12T22:21:50Z"
-    title "Parent DESTROYS Critical Race Theory in Viral Rant, Joe Rogan Says Lockdowns &#38;quot;F**d&#38;quot; U.S. Cities"
+    title "Parent DESTROYS Critical Race Theory in Viral Rant, Joe Rogan Says Lockdowns U.S. Cities"
     description "On today's livestream: a Virginia parent destroys Critical Race Theory at a woke school board meeting, Joe Rogan says lockdowns have &#34;irreversibly&#34; ruined American cities like NYC and LA, and the CIA again demonstrates it's more worried about being woke than defending America."
     channeltitle "PragerU"
     channelid "UCZWlSUNDvCCS1hBiXV0zKcA"
@@ -5329,7 +5329,7 @@ graph
     commentcount 1224
     duration "PT46M22S"
     indegree 4
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5337,7 +5337,7 @@ graph
     label "yBRW1hoDtrY"
     step 0
     date "2021-10-22T01:00:29Z"
-    title "Condoleezza Rice Schools &#38;quot;The View&#38;quot; Hosts on Critical Race Theory"
+    title "Condoleezza Rice Schools Hosts on Critical Race Theory"
     description "&#34;We should be able to empower black children without hurting white children.&#34; &#128079;&#128079;&#128079;&#128079;  EXACTLY.&#10;&#10;&#128680;  PragerU is experiencing severe censorship on Big Tech platforms. Go to https://www.prageru.com/ to watch our videos free from censorship!&#10;&#10;Stay up-to-date on our latest releases! &#128073; https://www.prageru.com/series/the-pulse/&#10;&#10;Take PragerU videos with you everywhere you go. Download our free mobile app! &#10;Download iOS: https://itunes.apple.com/us/app/prageru/id1115115779&#10;Download Android: https://play.google.com/store/apps/details?id=com.cappital.prageru"
     channeltitle "PragerU"
     channelid "UCZWlSUNDvCCS1hBiXV0zKcA"
@@ -5347,7 +5347,7 @@ graph
     commentcount 1582
     duration "PT6M13S"
     indegree 1
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 8
     duration "PT8M17S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5373,7 +5373,7 @@ graph
     label "qte_jldVc0s"
     step 0
     date "2022-07-09T13:00:18Z"
-    title "Kemi Badenoch DESTROYS BLM, SNP, the &#38;#39;Woke Left&#38;#39;, Critical Race Theory and Runs for PM!"
+    title "Kemi Badenoch DESTROYS BLM, SNP, the , Critical Race Theory and Runs for PM!"
     description "Are you with Kemi Badenoch? Or perhaps Suella Braverman?&#10;&#10;Kemi Badenoch's pitch for Prime Minister: https://twitter.com/KemiBadenoch/status/1545652723533627394&#10;&#10;Suella Braverman's Express article: https://www.express.co.uk/comment/expresscomment/1637704/suella-braverman-conservative-party-leadership-boris-johnson-resignation-attorney-general&#10;&#10;Stay tuned for more! Subscribe and hit the &#128276;bell to join the '&#128276;Early Esquires&#128276;'."
     channeltitle "Mogg The Week"
     channelid "UCsnGQSJRt6LNnZzk-9Oz6Tg"
@@ -5383,7 +5383,7 @@ graph
     commentcount 310
     duration "PT3M56S"
     indegree 12
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -5401,7 +5401,7 @@ graph
     commentcount 259
     duration "PT8M14S"
     indegree 2
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -5409,7 +5409,7 @@ graph
     label "xgWmlo_56ug"
     step 0
     date "2021-06-09T19:14:36Z"
-    title "Woman who lived through Mao&#38;#39;s Cultural Revolution warns about Critical Race Theory"
+    title "Woman who lived through Maos Cultural Revolution warns about Critical Race Theory"
     description "Parents would do well to listen to this woman's warning about Critical Race Theory.  She told the LCPS School Board on June 8, 2021.  Will they take her warnings seriously?"
     channeltitle "Fight For Schools"
     channelid "UC-lEFW1INkCZqsN8Ix7KwpQ"
@@ -5419,7 +5419,7 @@ graph
     commentcount 82
     duration "PT1M2S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 15
     duration "PT4M9S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5455,7 +5455,7 @@ graph
     commentcount 48
     duration "PT40M42S"
     indegree 0
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 4
     duration "PT12M44S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 0
     duration "PT1H9M12S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5509,7 +5509,7 @@ graph
     commentcount 1
     duration "PT22M1S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -5527,7 +5527,7 @@ graph
     commentcount 118
     duration "PT5M43S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 0
     duration "PT1H49M18S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 271
     duration "PT1H14M37S"
     indegree 1
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -5581,7 +5581,7 @@ graph
     commentcount 43
     duration "PT54M43S"
     indegree 1
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 16
     duration "PT2M12S"
     indegree 0
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 81
     duration "PT6M9S"
     indegree 4
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 1347
     duration "PT50M44S"
     indegree 16
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 25
     duration "PT17M15S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5689,7 +5689,7 @@ graph
     commentcount 922
     duration "PT1M47S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5725,7 +5725,7 @@ graph
     commentcount 2
     duration "PT6M43S"
     indegree 1
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 928
     duration "PT1H14M31S"
     indegree 21
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount 244
     duration "PT3M41S"
     indegree 1
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 68
     duration "PT12M56S"
     indegree 3
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5787,7 +5787,7 @@ graph
     label "gaW4otDuSMw"
     step 0
     date "2022-07-07T14:00:43Z"
-    title "The Manufactured &#8220;Horror&#8221; of Teaching Critical Race Theory In Schools"
+    title "The Manufactured of Teaching Critical Race Theory In Schools"
     description "Hi. Here's a short about Critical Race Theory.&#10;&#10;Get your Some More News merch here: https://www.teepublic.com/stores/somemorenews?ref_id=9949&#10;&#10;Support us on our PATREON: http://patreon.com/somemorenews&#10;Check out our MERCH STORE: https://www.teepublic.com/?ref_id=9949&#10;SUBSCRIBE to SOME MORE NEWS: https://tinyurl.com/ybfx89rh&#10;&#10;Subscribe to the Even More News and SMN: Audio podcast here:&#10;Apple Podcasts: https://podcasts.apple.com/us/podcast/some-more-news/id1364825229&#10;Spotify: https://open.spotify.com/show/6ebqegozpFt9hY2WJ7TDiA?si=5keGjCe5SxejFN1XkQlZ3w&#38;dl_branch=1&#10;Stitcher: https://www.stitcher.com/show/even-more-news&#10;Soundcloud: https://soundcloud.com/somemorenews&#10;&#10;Follow us on social media! &#10;Twitter: https://twitter.com/SomeMoreNews &#10;Instagram: https://www.instagram.com/SomeMoreNews/ &#10;Facebook: https://www.facebook.com/SomeMoreNews/&#10;TikTok: https://www.tiktok.com/@somemorenews"
     channeltitle "Some Some More News Clips"
     channelid "UCKRDTjKiNyYrTNX3gIlL8IQ"
@@ -5797,7 +5797,7 @@ graph
     commentcount 136
     duration "PT59S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 667
     duration "PT30M16S"
     indegree 58
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5823,7 +5823,7 @@ graph
     label "tHdthcjyUwE"
     step 0
     date "2022-07-06T14:56:04Z"
-    title "DeSantis ATTACKS &#38;#39;Critical Race Theory&#38;#39; bill backed by 3 Senate Republicans"
+    title "DeSantis ATTACKS bill backed by 3 Senate Republicans"
     description "Fla. Gov. Ron DeSantis blasted the bipartisan Civics Secures Democracy Act, saying it would allow the Biden administration to &#8220;buy off states with $6 billion if they sacrifice American History for Critical Race Theory,&#34; reported Leo Feldman on Wednesday's &#34;National Report.&#34;&#10;&#10;Watch Newsmax on Directv 349, Xfinity 1115, Dish 216, Spectrum (see channels), Cox, Optimum, U-Verse 1120, FiOS 615, Suddenlink, CenturyLink 1209, Mediacom 277, Fubo, Sling, WOW!, Armstrong, or the Newsmax App. &#10;&#10;Get the latest news, headlines and analysis at http://newsmax.com&#10;Find your Newsmax cable/streaming provider here: https://newsmaxtv.com/findus&#10;&#10;Like Newsmax on Facebook: http://nws.mx/FB&#10;Follow Newsmax on Twitter: http://nws.mx/twitter&#10;Follow Newsmax on Instagram: http://nws.mx/IG&#10;Follow Newsmax on TRUTH Social: https://truthsocial.com/@NewsMax&#10;Follow Newsmax on GETTR: https://gettr.com/user/newsmax&#10;Subscribe to Newsmax podcasts for free at http://newsmaxtv.com/podcasts&#10;Shop Newsmax Logo Gear at http://nws.mx/shop&#10;Listen to Newsmax anywhere on iHeart: https://www.iheart.com/live/newsmax-8856/&#10;&#10;#newsmax"
     channeltitle "Newsmax TV"
     channelid "UCx6h-dWzJ5NpAlja1YsApdg"
@@ -5833,7 +5833,7 @@ graph
     commentcount 278
     duration "PT2M5S"
     indegree 13
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 1664
     duration "PT13M12S"
     indegree 6
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -5859,7 +5859,7 @@ graph
     label "k_HjeDNQloM"
     step 0
     date "2021-12-20T22:00:15Z"
-    title "Trump Blasts &#38;#39;Woke&#38;#39; Ideology, Critical Race Theory At Rallies | 2021 Rewind"
+    title "Trump Blasts Ideology, Critical Race Theory At Rallies | 2021 Rewind"
     description "At rallies during 2021, former President Trump tore into two common foes: wokeness and critical race theory.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -5869,7 +5869,7 @@ graph
     commentcount 1064
     duration "PT9M55S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 8
     duration "PT5M8S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5931,7 +5931,7 @@ graph
     label "qUdY2r5S4KA"
     step 0
     date "2021-12-01T15:30:07Z"
-    title "Woke in Plain English: &#38;quot;Critical Race Theory&#38;quot;"
+    title "Woke in Plain English: "
     description "Woke in Plain English: &#34;Critical Race Theory&#34;&#10;&#10;Connect with Dr. Peter Boghossian:&#10;&#10;Substack: &#8220;Beyond Woke with Peter Boghossian&#8221; https://boghossian.substack.com/&#10;&#10;Social Media&#10;Twitter: https://twitter.com/peterboghossian &#10;Instagram: https://www.instagram.com/peter.bogho... &#10;Facebook: https://facebook.com/PBoghossian&#10;TikTok: https://www.tiktok.com/@peterboghossian &#10;&#10;Alt-tech&#10;Gettr: https://gettr.com/user/peterboghossian &#10;Odysee: https://odysee.com/@PeterBoghossian:9 &#10;Rumble: https://rumble.com/c/PeterBoghossian&#10;&#10;Website&#10;https://peterboghossian.com/&#10;&#10;&#10145;&#65039; Shot and Edited by Travis Brown | The Signal Productions&#10;Follow Travis: https://thewokereformation.locals.com / https://twitter.com/becomethesignal / https://www.youtube.com/c/becomethesignal &#10;&#10;#criticalracetheory #wokeinplainenglish #peterboghossian #boghossian #criticaltheory #philosophy #woke #CRT"
     channeltitle "Peter Boghossian"
     channelid "UCzoizcjErP9bNWnuU2CbWxg"
@@ -5941,7 +5941,7 @@ graph
     commentcount 7
     duration "PT1M9S"
     indegree 0
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -5949,7 +5949,7 @@ graph
     label "3qFgBxv_LgY"
     step 0
     date "2021-03-15T19:29:16Z"
-    title "EXPOSED: Mandatory Critical Race Theory &#38;#39;Anti-Racism&#38;#39; Training at Princeton Theological Seminary"
+    title "E tongue sticking out OSE tongue sticking out Mandatory Critical Race Theory Training at Princeton Theological Seminary"
     description "YAF has obtained exclusive footage of a mandatory 'anti-racism' training for all students and faculty at Princeton Theological Seminary, through our Campus Bias Tip Line. Students are segregated by race for part of the training in order to avoid &#34;harm&#34; to students of color.&#10;&#10;Read the full story and materials here: https://www.yaf.org/news/video-princeton-theological-seminary-separates-students-by-race-to-create-safety-in-anti-racism-training/&#10;&#10;Report campus bias here: https://www.yaf.org/tips"
     channeltitle "Young America's Foundation"
     channelid "UC4-AGCUwX7C-D4BsBook9fQ"
@@ -5959,7 +5959,7 @@ graph
     commentcount 456
     duration "PT4M51S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 339
     duration "PT2M16S"
     indegree 1
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 16
     duration "PT54M59S"
     indegree 1
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6031,7 +6031,7 @@ graph
     commentcount 170
     duration "PT3M12S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount 0
     duration "PT2M58S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 135
     duration "PT3M35S"
     indegree 3
-    cluster 5
+    cluster 11
   ]
   node
   [
@@ -6075,7 +6075,7 @@ graph
     label "8BDyEt21cq4"
     step 0
     date "2022-06-05T19:59:24Z"
-    title "Critical Race Theory in Canadian schools is &#38;#39;viewed as moral truth&#38;#39;: Teacher on why she opposes it"
+    title "Critical Race Theory in Canadian schools is : Teacher on why she opposes it"
     description "Watch on TV: Freeview 236, Sky 515, Virgin 626&#10;Listen on DAB+ Radio&#10;&#10;Download the GB News App to watch live wherever you are, catch up with all our shows and get the latest news from the GBN family.  https://www.gbnews.uk/freegbapp&#10;&#10;Don't forget to follow us on social media too!&#10;&#10;Twitter: https://twitter.com/GBNEWS&#10;Facebook: https://www.facebook.com/GBNewsOnline&#10;Instagram: https://www.instagram.com/gbnewsonline/&#10;LinkedIn: https://www.linkedin.com/company/gb-news/&#10;TikTok: https://www.tiktok.com/@gbnews"
     channeltitle "GBNews"
     channelid "UC0vn8ISa4LKMunLbzaXLnOQ"
@@ -6085,7 +6085,7 @@ graph
     commentcount 44
     duration "PT6M46S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -6103,7 +6103,7 @@ graph
     commentcount 12
     duration "PT4M40S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 81
     duration "PT8M47S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 167
     duration "PT1M59S"
     indegree 1
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6157,7 +6157,7 @@ graph
     commentcount 2
     duration "PT12M55S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -6175,7 +6175,7 @@ graph
     commentcount 35
     duration "PT1M24S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -6193,7 +6193,7 @@ graph
     commentcount -1
     duration "PT3M22S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6219,7 +6219,7 @@ graph
     label "aKhrbk8jGnY"
     step 0
     date "2022-07-12T12:33:39Z"
-    title "&#38;quot;Critical Race Theory: Engaging US History Honestly&#38;quot; with Prof. Michael Schroeder"
+    title " with Prof. Michael Schroeder"
     description "A talk on &#34;Critical Race Theory:  Engaging US History Honestly&#34; by Lebanon Valley College Professor Emeritus of History Michael Schroeder at the July 7, 2022 general membership meeting of the Lebanon County Branch 26AA of the NAACP, for which Schroeder serves as Secretary."
     channeltitle "Michael Schroeder"
     channelid "UCjCrOVBxSj7t3TPNgvcJQNQ"
@@ -6229,7 +6229,7 @@ graph
     commentcount 0
     duration "PT49M9S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6247,7 +6247,7 @@ graph
     commentcount 15
     duration "PT7M56S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6255,7 +6255,7 @@ graph
     label "pBPRbGJwUSM"
     step 0
     date "2021-09-20T06:14:06Z"
-    title "What&#38;#39;s so dangerous about Critical Race Theory?"
+    title "Whats so dangerous about Critical Race Theory?"
     description "Advance Spokeswoman Jacinta Nampijinpa Price breaks down the concept of Critical Race Theory and why it should have no place in Australian classrooms and universities. &#127462;&#127482;"
     channeltitle "Advance Australia"
     channelid "UC19frhUmBTxfHS2RJPaS3Ww"
@@ -6265,7 +6265,7 @@ graph
     commentcount -1
     duration "PT5M17S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6273,7 +6273,7 @@ graph
     label "zYE1RiI8wwk"
     step 0
     date "2022-02-24T06:37:49Z"
-    title "What is Critical Race Theory? | Eric Hovind &#38;amp; Cindy Quinlan"
+    title "What is Critical Race Theory? | Eric Hovind Cindy Quinlan"
     description "With Critical Race Theory (CRT) sweeping the nation, what does it actually teach? Is it possible that its ideology could be helpful for the church? Could it help alleviate the problems we see in our world? Should Christians accept CRT? Or is this a Trojan Horse, an ideological virus, that is infecting the culture and the church with evil intent? &#13;&#10;&#13;&#10;Join Eric Hovind and Cindy Quinlan as they discuss Critical Race Theory. &#13;&#10;&#13;&#10;WANT MORE&#13;&#10;Get access to the complete conversation! Become a Creation Today Member at CreationToday.org to engage with the experts, win Creation Cash, and ask questions LIVE. &#13;&#10;Become a Creation Today Partner at https://CreationToday.org&#13;&#10;&#13;&#10;SALVATION&#13;&#10;What Must I Do To Be Saved? - https://creationtoday.org/about/how-to-be-saved/&#13;&#10;&#13;&#10;SCHEDULE&#13;&#10;LIVE Conversations each Wednesdays at 12 Noon: https://CreationToday.org/Live&#13;&#10;&#13;&#10;RESOURCES&#13;&#10;Get Equipped with Awesome Apologetic resources: www.CreationStore.org&#13;&#10;&#13;&#10;CONNECT&#13;&#10;Sign Up for our emails: http://creationtoday.org/signup&#13;&#10;&#13;&#10;FOLLOW US:&#13;&#10;Website: https://creationtoday.org&#13;&#10;Website: https://erichovind.com&#13;&#10;Twitter: https://twitter.com/erichovind&#13;&#10;Twitter: https://twitter.com/creationtoday&#13;&#10;Instagram: https://instagram.com/erichovind&#13;&#10;Instagram: https://instagram.com/creationtoday&#13;&#10;Facebook: https://facebook.com/erichovind&#13;&#10;Facebook: https://facebook.com/creationtoday"
     channeltitle "Creation Today Ministry"
     channelid "UCQgOARFMG18vriKmdsmn1Ew"
@@ -6283,7 +6283,7 @@ graph
     commentcount 9
     duration "PT30M12S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 14
     duration "PT15M9S"
     indegree 1
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -6309,7 +6309,7 @@ graph
     label "fqZiPbzU2wM"
     step 0
     date "2021-12-17T19:57:32Z"
-    title "Ocasio-Cortez: Communities Rejecting Critical Race Theory Are &#8220;Accepting Of Racism&#8221;"
+    title "Ocasio-Cortez: Communities Rejecting Critical Race Theory Are "
     description "Democrat Representative Alexandria Ocasio-Cortez said communities who reject critical race theory are &#8220;accepting of racism,&#8221; during a virtual town hall on 12/17/2021. Be sure to like, subscribe, and comment below to share your thoughts on the video.&#10; &#10;Subscribe for the latest on Joe Biden and the Democrat Party's lies, hypocrisy, and failed far-left policies: http://www.youtube.com/subscription_center?add_user=GOPICYMI&#10; &#10;Already subscribed? Click the YouTube bell located above to be notified each time we upload a new video. &#10; &#10;******&#10; &#10;FOLLOW US!&#10;  &#10;RNC Research Twitter: https://twitter.com/RNCResearch&#10; &#10;For daily blog posts from RNC Research, visit https://gop.com/blog/&#10;&#10;#RNCResearch #demssaidwhat"
     channeltitle "GOP War Room"
     channelid "UCvQ2kejN6UkrEVhE5oiYwBw"
@@ -6319,7 +6319,7 @@ graph
     commentcount 82
     duration "PT1M2S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6327,7 +6327,7 @@ graph
     label "TQiNNXFUikA"
     step 0
     date "2022-07-10T01:56:47Z"
-    title "Tulsa superintendent speaks out on governor&#38;#39;s accusations"
+    title "Tulsa superintendent speaks out on governors accusations"
     description "Tulsa superintendent speaks out on governor's accusations&#10;&#10;Stay informed about Oklahoma news and weather! Follow KFOR News 4 on our website and social channels. &#10;&#10;https://kfor.com/&#10;https://www.youtube.com/c/kfor4news&#10;https://www.facebook.com/kfor4&#10;https://twitter.com/kfor&#10;https://www.instagram.com/kfortv4/"
     channeltitle "KFOR Oklahoma's News 4"
     channelid "UCEUYiWFyzpEBMZ3aG7ud7xg"
@@ -6345,7 +6345,7 @@ graph
     label "SydryOGpYXo"
     step 0
     date "2021-12-06T18:06:05Z"
-    title "&#38;#39;It&#38;#39;s All Right Here&#38;#39;: Rebecca Kleefisch Says Critical Race Theory Being Taught In Schools"
+    title ": Rebecca Kleefisch Says Critical Race Theory Being Taught In Schools"
     description "In a video released to social media, former Lt. Gov. Rebecca Kleefisch (R-WI) and candidate for governor claims critical race theory is being taught to children in public schools.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -6373,7 +6373,7 @@ graph
     commentcount 11
     duration "PT4M"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6391,7 +6391,7 @@ graph
     commentcount 18017
     duration "PT5M33S"
     indegree 14
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6399,7 +6399,7 @@ graph
     label "pgal1XW3B6M"
     step 0
     date "2022-01-06T14:17:21Z"
-    title "Critical Race Theory:  The Antithesis of MLK"
+    title "Critical Race Theory: The Antithesis of MLK"
     description "An explanation of critical race theory and a look at the contrasting concepts of equity and equality that make it the antithesis of Dr. Martin Luther King&#8217;s dream for America. http:www.LibertyPen.com"
     channeltitle "LibertyPen"
     channelid "UC51_awyLXl2nxCduuzzmw4w"
@@ -6409,7 +6409,7 @@ graph
     commentcount 85
     duration "PT14M2S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     commentcount 3
     duration "PT15M29S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6435,7 +6435,7 @@ graph
     label "okPnq_z5g0I"
     step 0
     date "2021-12-26T20:08:18Z"
-    title "Nikole Hannah-Jones Discusses Critical Race Theory(CRT) On NBC&#38;#39;s Meet The Press(FULL)"
+    title "Nikole Hannah-Jones Discusses Critical Race Theory(CRT) On NBCs Meet The Press(FULL)"
     description "The creator of the #1619Project, Nikole Hannah-Jones, appeared on NBC's Meet The Press(12/26/21) to discuss what has become the hottest topic among rightwing culture warriors--#CriticalRaceTheory(#CRT)--and how schools in America should approach the issue.&#10;&#10;$upport this channel http://cash.app/$emolumentsclause"
     channeltitle "Emoluments Clause"
     channelid "UCOQEYWGQzfOWMRiAHQZAuHQ"
@@ -6445,7 +6445,7 @@ graph
     commentcount 8
     duration "PT10M19S"
     indegree 0
-    cluster 9
+    cluster 5
   ]
   node
   [
@@ -6463,7 +6463,7 @@ graph
     commentcount 198
     duration "PT4M57S"
     indegree 2
-    cluster 5
+    cluster 11
   ]
   node
   [
@@ -6481,7 +6481,7 @@ graph
     commentcount 115
     duration "PT4M37S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6499,7 +6499,7 @@ graph
     commentcount 1
     duration "PT16M37S"
     indegree 1
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 9
     duration "PT28M31S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6525,7 +6525,7 @@ graph
     label "-v9MWRRt5OY"
     step 0
     date "2022-07-08T23:15:54Z"
-    title "Tulsa education leaders respond to governor&#38;#39;s call for audit"
+    title "Tulsa education leaders respond to governors call for audit"
     description "Tulsa education leaders respond to governor's call for audit"
     channeltitle "KJRH -TV | Tulsa | Channel 2"
     channelid "UChrpaYlmaVsVyEF0bTqmuHw"
@@ -6543,7 +6543,7 @@ graph
     label "ImRBvDMzJZE"
     step 0
     date "2022-07-02T12:59:56Z"
-    title "Critical Race Theory is radical indoctrination, and it&#8217;s dangerous #shorts"
+    title "Critical Race Theory is radical indoctrination, and its dangerous #shorts"
     description "#onlyatYAF"
     channeltitle "Young America's Foundation"
     channelid "UC4-AGCUwX7C-D4BsBook9fQ"
@@ -6571,7 +6571,7 @@ graph
     commentcount 13
     duration "PT10M59S"
     indegree 4
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -6589,7 +6589,7 @@ graph
     commentcount 15
     duration "PT42M18S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -6597,7 +6597,7 @@ graph
     label "GMEMuXUQdtk"
     step 0
     date "2021-07-07T01:50:07Z"
-    title "&#38;quot;Revenge&#38;quot; Is At The Heart of Critical Race Theory"
+    title " Is At The Heart of Critical Race Theory"
     description "Not so peaceful after all.&#10;&#10;SUPPORT THE CHANNEL&#10;&#10145;&#65039;YouTube Memberships: https://bit.ly/39yRdh8&#10;&#10145;&#65039;PayPal: https://www.paypal.me/Memology101&#10;&#10145;&#65039;Patreon: https://www.patreon.com/AntonioChavez&#10;&#10;SOURCES&#10;&#10145;&#65039;https://thepostmillennial.com/critical-race-theory-high-school-instructor-tells-students-not-to-talk-about-class-outside-of-class&#10;&#10145;&#65039;https://twitter.com/MythinformedMKE/status/1412501046266679304&#10;&#10;CREDITS&#10;&#10145;&#65039;Background visuals: https://www.youtube.com/watch?v=n5vjV4hwRxo&#10;&#10145;&#65039;Background music: https://youtu.be/xYVyWVUgrhQ&#10;&#10;FOLLOW ME&#10;&#10145;&#65039;Main channel - Memology 101: https://www.youtube.com/channel/UC1X9HTMhyL4UpmjgkrN41oQ  &#10;&#10145;&#65039;RoxyTube: https://www.roxytube.com/@Memology_101&#10;&#10145;&#65039;Minds: https://www.minds.com/Memology_101/ &#10;&#10145;&#65039;Parler: https://parler.com/profile/M101News&#10;&#10145;&#65039;Twitter: https://twitter.com/NewsM101&#10;&#10145;&#65039;SubReddit: https://bit.ly/32Y9mm9&#10;&#10145;&#65039;Bitchute: https://bit.ly/2TK6sNu&#10;&#10145;&#65039;Odysee: https://odysee.com/@Memology101:e0&#10;&#10145;&#65039;Discord: https://discord.gg/UPh5F4E&#10;&#10;OTHER CHANNELS&#10;&#10145;&#65039;Memology 102:  https://www.youtube.com/channel/UCBfB4NCL1v1Wx_tMD6hpLkw&#10;&#10145;&#65039;DSP Tries It - Memology 101:  https://www.youtube.com/channel/UCTGXPDKjEKJcM9eCVFq5LRw  &#10;&#10145;&#65039;M101 News: https://www.youtube.com/channel/UC9M0fKN795Qje1I5E5w7xZw   &#10;&#10;ADDITIONAL CREDITS&#10;&#10145;&#65039;Memology 101 Netflix Intro:&#10;https://www.youtube.com/user/pleasesubscribedad&#10;&#10;Trends: #CRITICALRACETHEORY #CRT"
     channeltitle "Memology 101"
     channelid "UC1X9HTMhyL4UpmjgkrN41oQ"
@@ -6607,7 +6607,7 @@ graph
     commentcount 2661
     duration "PT2M45S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -6615,7 +6615,7 @@ graph
     label "yyCdnMLXPPI"
     step 0
     date "2022-03-07T14:45:31Z"
-    title "Stop Critical Race Theory &#38;amp; &#38;quot;Woke&#38;quot; Activism in our Schools.  For Parental Rights at New Blue."
+    title "Stop Critical Race Theory Activism in our Schools. For Parental Rights at New Blue."
     description "It used to be, as parents, we would drop our kids off at school. &#10;&#10;And we trusted the school to teach our kids the fundamentals. &#10;&#10;The fundamentals: Reading, Writing, Arithmetic. &#10;&#10;Today, when parents drop our kids at school, it's hard to trust what is being taught. &#10;&#10;They are injecting our kids' heads with woke nonsense. &#10;&#10;Parents have rights, the right to say no. &#10;&#10;The Liberals and NDP want to stick nonsense in our kids' heads and needles in our kids' arms. &#10;&#10;And the Ford PCs are going along with it. &#10;&#10;So, as parents we made a new party. &#10;&#10;The New Blue Party of Ontario. &#10;&#10;To stand up for your rights as parents, who care about your kids. &#10;&#10;Because the PC Party isn't blue and they are not for you. &#10;&#10;Let us stand up for you, with the New Blue. &#10;&#10;To help us ensure this video reaches more people, consider a contribution at newblueontario.com/donate.&#10;&#10;For all our updates, sign up by visiting newblueontario.com!&#10;&#10;Twitter: https://twitter.com/NewBlueON&#10;Instagram: https://www.instagram.com/newblueon/&#10;Telegram: https://t.me/newblueon&#10;Facebook: https://www.facebook.com/NewBlueOntario&#10;LinkedIn: https://www.linkedin.com/company/newblueon/&#10;Gab: https://gab.com/NewBlueON"
     channeltitle "Jim Karahalios"
     channelid "UCXM-8uJtJ_pHxOtXeh6JazQ"
@@ -6625,7 +6625,7 @@ graph
     commentcount 167
     duration "PT1M17S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 277
     duration "PT1M31S"
     indegree 0
-    cluster 5
+    cluster 8
   ]
   node
   [
@@ -6651,7 +6651,7 @@ graph
     label "VdkiwmB86Cc"
     step 0
     date "2021-07-15T00:45:00Z"
-    title "How the &#38;quot;Critical Race Theory&#38;quot; Hysteria is Funded (w/Judd Legum)"
+    title "How the Hysteria is Funded (w/Judd Legum)"
     description "In 2020, most people had never heard of CRT. In 2021, a chorus of voices on the right insists it is an existential threat to the country. &#10;&#10;A Popular Information investigation reveals that many of the entities behind the CRT panic share a common funding source&#10; &#10;Critical Race Theory was mentioned on Fox News, 30 times a day in June.&#10;&#10;Who are the doners behind critical race theory and one foundation sticks out, with very large donations.&#10;&#10;&#128308; Subscribe for more clips like this: https://www.youtube.com/user/thomhartmann?sub_confirmation=1&#10;&#10;Judd Legum joined Thom and reveals where the funding is coming from and what is Critical Race Theory anyway?&#10;&#10;&#10;Judd Legum is a journalist and founder of popular.info&#10;&#10;&#128293; WATCH NEXT:  Critical Race Theory: Why Aren't We Teaching Honest History? - https://youtu.be/JsfX-Mjio0E&#10;&#10;&#10;&#11088; Join our Membership and Support the Channel:  https://www.youtube.com/user/thomhartmann/join&#10;&#10;MORE FROM THOM&#10;&#127910; Watch a full program re-run anytime: http://www.patreon.com/thomhartmann&#10;&#127911; Audio Podcast: http://www.thomhartmann.com/podcast&#10;&#128220; Free Newsletter: http://www.thomhartmann.com/podcast&#10;&#128085; Merchandise: https://teespring.com/stores/thom-hartmann-program-2&#10;&#127866; Thom Merchandise: https://teespring.com/thom-hartmann-mug?pid=522&#38;cid=101870&#10;&#10;FOLLOW THOM&#10;&#128213; AMAZON: http://amzn.to/2hS4UwY&#10;&#128221; BLOG: http://www.thomhartmann.com/thom/blog&#10;&#128101; FACEBOOK: http://www.facebook.com/ThomHartmannProgram/&#10;&#128248; INSTAGRAM: http://www.instagram.com/Thom_Hartmann&#10;&#127910; PATREON: http://www.patreon.com/thomhartmann &#10;&#128038; TWITTER: http://www.twitter.com/thom_hartmann&#10;&#127760; WEBSITE: http://www.thomhartmann.com&#10;&#128250; YOUTUBE: http://www.youtube.com/subscription_center?add_user=thomhartmann&#10;&#10;ABOUT THE PROGRAM&#10;The Thom Hartmann Program is the leading progressive political talk radio show for political news and comments about Government politics, be it Liberal or Conservative, plus special guests and callers.&#10;&#10;#MoreFromThom  #ThomAndJuddLegum&#10;&#10;&#10004; Amazon links are affiliate links"
     channeltitle "Thom Hartmann Program"
     channelid "UCbjBOso0vpWgDht9dPIVwhQ"
@@ -6661,7 +6661,7 @@ graph
     commentcount 71
     duration "PT11M59S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6687,7 +6687,7 @@ graph
     label "VoOHrTdDFe0"
     step 0
     date "2020-10-07T18:45:01Z"
-    title "Democrats Against Critical Race Theory (from Livestream #48)"
+    title "Democrats Against Critical Race Theory (from Livestream #4 smiley "
     description "Clip taken from DarkHorse Podcast Livestream #48 (originally streamed live on October 03, 2020):&#10;https://youtu.be/WVDH3dUUbKo&#10;&#10;Q&#38;A:&#10;https://youtu.be/PURErKL01bE&#10;&#10;What is this a clip from?&#10;In this 48th in a series of live discussions with Bret Weinstein and Heather Heying (both PhDs in Biology), discuss the state of the world though an evolutionary lens. Find more from us on Bret&#8217;s website (https://bretweinstein.net) or Heather&#8217;s website (http://heatherheying.com). &#10;&#10;Become a member of the DarkHorse Livestreams, and get access to an additional Q&#38;A livestream every month. Join at Heather's Patreon.&#10;https://www.patreon.com/heatherheying&#10;&#10;Like this content? Subscribe to the channel, like this video, follow us on twitter (@BretWeinstein, @HeatherEHeying), and consider helping us out by contributing to either of our Patreons or Bret&#8217;s Paypal.&#10;https://www.patreon.com/bretweinstein&#10;&#10;Theme Music: Thank you to Martin Molin of Wintergatan for providing us the rights to use their excellent music. https://youtu.be/IvUU8joBb1Q"
     channeltitle "DarkHorse Podcast Clips"
     channelid "UCAWCKUrmvK5F_ynBY_CMlIA"
@@ -6697,7 +6697,7 @@ graph
     commentcount 292
     duration "PT4M47S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6733,7 +6733,7 @@ graph
     commentcount 1769
     duration "PT12M16S"
     indegree 6
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 0
     duration "PT3M36S"
     indegree 7
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -6787,7 +6787,7 @@ graph
     commentcount 14
     duration "PT5M13S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6805,7 +6805,7 @@ graph
     commentcount 18
     duration "PT1H4M48S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6813,7 +6813,7 @@ graph
     label "JLGXKArX9gU"
     step 0
     date "2022-07-06T14:15:01Z"
-    title "What Is Critical Race Theory | Explained"
+    title "What Is Critical Race Theory | E tongue sticking out lained"
     description "What Is Critical Race Theory | Explained&#10;Are you sick &#38; tired of hearing people about all this Critical Race Theory stuff and you don't know what exactly it is or why its taught in US education?   Well, you should be, because its not really explained very well yet has been indoctrinating college students since the 1970 in almost all of the top schools that produce lawyers, lobbyist, politicians, and business leaders.  I was sick &#38; tired of hearing all the CRT / critical race theory stuff today until I discovered what they've really been doing behind the scenes to get this now into grade schools and into the minds of the youth of this country.  Keep watching &#38; I&#8217;m sure you&#8217;ll thank me later for putting this together for you.  Thanks for watching What Is Critical Race Theory | Explained&#10;&#10;Hey - this is James and I started this channel to discuss cultural factors that are influencing Christians today and specifically focus on topics the church won't discuss or, by choice, can't discuss.&#10;&#10;Welcome to the family and community here.  You are the answer (not me) so please voice your opinions.&#10;&#10;And remember, its not that the powers of evil are too strong for us to overcome - it's ALWAYS that the courage of the righteous is too weak.&#10;&#10;James&#10;&#10;What Is Critical Race Theory | Explained&#10;&#10;&#10;===============&#10;&#10;James as a top 40 under 40 entrepreneur.  &#10;&#10;James grew up in mostly minority inner cities in Seattle, was arrested at 16, played college football, dropped out of 4 colleges, made his first 6 figures at 20, he and his friends IPO'd TeleNav before 30, and by 35 James had sold over $210 million in sales.  He's done deals with two sharks from Shark Tank, consulted 46 Fortune 500s, and personally trained over 400,000 entrepreneurs around the globe.  He's been a #1 best-selling author twice and spoken at almost every major tech conference in the country include CTIA and CES.  He resides in the greater Dallas area on a ranch with his 4 kids. &#10;&#8203;&#128073;  https://www.jamessmiley.com&#8203;&#10;&#10;Our other channels:&#10;Digital Entrepreneurship... https://youtube.com/c/JamesSmiley1&#10;Outdoors, Preparedness... https://youtube.com/c/TexasDigitalOutdoors&#10;The Church Bubble... https://youtube.com/c/TheChurchBubble&#10;&#10;&#128293;&#128293;&#128293;  Grab your free access to a seminar where James shared how we hacked the YouTube algorithm for 41 clients, grew two of them from $0 to over $1m, and see the step-by-step playbook on how you too can do all this from your own YouTube channel... https://www.JamesSmiley.org/youtube &#128293;&#10;&#10;#realchristianity #crt  #criticalracetheory &#10;What Is Critical Race Theory | Explained"
     channeltitle "The Church Bubble"
     channelid "UCJx5yoEV4-_sIVpIkNhVKyw"
@@ -6823,7 +6823,7 @@ graph
     commentcount 11
     duration "PT10M44S"
     indegree 8
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -6841,7 +6841,7 @@ graph
     commentcount 1037
     duration "PT17M41S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6849,7 +6849,7 @@ graph
     label "iA1IDaqt7po"
     step 0
     date "2022-06-12T01:45:59Z"
-    title "How Critical Race Theory&#38;#39;s ANTI-RACISM is RACIST"
+    title "How Critical Race Theorys ANTI-RACISM is RACIST"
     description "There is a debate on whether CRT (Critical Race Theory) should be taught. But has anyone talked about how it creates MORE racism?&#10;&#10;As some may argue, CRT within itself is racist, but here is the best explanation available as to why it creates more racism in today's intellectual sphere. &#10;&#10;Enjoy Our Videos? Become a Patreon Supporter Here: https://www.patreon.com/Aporiainstitute&#10;&#10;&#10;&#8211;Follow Us on Social Media!--&#10;https://www.instagram.com/aporiainsti...&#10;&#10;https://twitter.com/AporiaInstitute?t...&#10;&#10;https://rumble.com/user/AporiaInstitute&#10;&#10;&#10;Want More to Watch? Check Out Our Playlists! https://www.youtube.com/channel/UCM81...&#10;&#10;Please Tell Us What We Can Improve on in the Comments!&#10;&#10;Who We Are: Aporia is a hub where debates, commentaries, and interviews are hosted and centered around politics, philosophy, and social issues. So, if you like any of that, make yourself feel comfortable by hitting the Subscribe button!&#10;&#10;#crt #criticalracetheory #leftist"
     channeltitle "Aporia"
     channelid "UCM81NrttE5Y3nyUi9ut_Pqg"
@@ -6859,7 +6859,7 @@ graph
     commentcount 144
     duration "PT11M51S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6867,7 +6867,7 @@ graph
     label "QI6MN4qI9-4"
     step 0
     date "2021-07-19T19:47:37Z"
-    title "ACCESS SUSPENDED: Critical Race Theory Whistleblower David Johnson Gives Update On Employment"
+    title "ACCESS SUSPENDE tongue sticking out Critical Race Theory Whistleblower David Johnson Gives Update On Employment"
     description "SUPPORT DAVID: https://www.givesendgo.com/supportdavid&#10;&#10;Get emails: https://confirmsubscription.com/h/j/EC8A17570A033FCC&#10;&#10;Follow:&#10;Telegram: https://t.me/project_veritas&#10;FB: https://www.facebook.com/ProjectVeritas&#10;IG: https://www.instagram.com/project_veritas/&#10;Telegram: https://t.me/JamesOKeefeIII&#10;IG: https://www.instagram.com/jamesokeefeiii/&#10;&#10;Mission Statement&#10;Investigate &#38; expose corruption, dishonesty, self-dealing, waste, fraud, and other misconduct in both public and private institutions in order to achieve a more ethical &#38; transparent society.&#10;&#10;Core Values&#10;MORAL COURAGE - Courage is the virtue that sustains all others. We choose to overcome our fears.&#10;&#10;WE ARE ALL LEADERS - Turning people into leaders. Completed staff work. Ownership.&#10;&#10;COLLABORATION - Best not to work in silos. No one individual is as smart as all of us.&#10;&#10;RESILIENCE - Persistence and determination alone are omnipotent. Never, ever, ever give up. We don't let mistakes or setbacks discourage us. Pursue perfection, knowing full well you will never attain it.&#10;&#10;MISSION DRIVEN - The best people are motivated by purpose. We are passionate and truly believe in our cause. We must be externally focused, not internally focused.&#10;&#10;MAKE THE STATUS QUO DO THE IMPOSSIBLE - We move mountains. Failure is not an option. We do whatever it takes.&#10;&#10;THE TIP OF THE SPEAR - We are a loss leader. We do not shy away from conflict or litigation.&#10;&#10;Ethical Values&#10;Rule #1 &#8211; Truth is paramount. Our reporting is fact based with clear and irrefutable video and audio content.  Truth is paramount. We never deceive our audience. We do not distort the facts or the context. We do not &#8220;selectively edit.&#8221;&#10;&#10;Rule #2 &#8211; We do not break the law. We maintain one-party consent when recording someone is inherently moral and ethical. We never record when there is zero-party consent. In areas where we are required to have consent from all parties, we seek legal guidance regarding the expectation of privacy&#8217;s impact on our right to record.&#10;&#10;Rule #3 &#8211; We adhere to the 1st Amendment rights of others. During our investigations we do not disrupt the peace. We do not infringe on the 1st Amendment rights of others.&#10;&#10;Rule #4 &#8211; The Zekman Test. The undercover investigations we pursue are judged by us to be of &#8220;vital public interest&#8221; and &#8220;profound importance.&#8221; The Zekman Test is our baseline. Undercover investigative reporting is necessary because, &#8220;...there&#8217;s no other way to get the story...&#8221; Whereas the Society of Professional Journalists allows for undercover techniques, if undercover techniques are necessary to expose issues of vital public importance; we believe they are not only allowed but required.&#10;&#10;Rule #5 &#8211; We Protect the Innocent When Possible - Embarrassing private details are not to be investigated. We stay away from irrelevant embarrassingly intimate details about private citizens personal lives. We look for individual wrong-doing and judge its public importance. The irrelevant religious or sexual dispositions of our targets are not to be investigated.&#10;&#10;Rule #6 &#8211; Transparency. Our methods &#38; tactics must be reasonable and defensible. We use the &#8220;Twelve Jurors on Our Shoulder&#8221; rule. The work has to be done with such a degree of integrity that it can withstand scrutiny in both law &#38; ethics. We are comfortable with transparency. We must be willing to be ready to disclose our methods upon publication.&#10;&#10;Rule #7 &#8211; Verifying and Corroborate Stories &#8211; Evaluate impact on third parties and Newsworthiness of Statements Alone.We consistently consider the probable truth or falsity of statements, examine any reasons to doubt the veracity of underlying assertions and whether the assertions are newsworthy. When possible, we will confirm with our subjects that their statements captured on video are accurate &#38; truthful. At the very least, we will give our subjects an opportunity to elaborate and/or respond. In all matters, we rely on the 1st Amendment to protect our ability to publish newsworthy items after our internal deliberations. On whether there is an obligation to ensure the veracity of statements made on video, 1.) consider whether the remarks may potentially impact an innocent third party. (Factors in support of releasing the content) and 2.)The Newsworthiness of the statement alone by itself. (Factors against releasing the content).&#10;&#10;Rule #8 &#8211; Raw Video. In certain circumstances we may release the &#8220;raw&#8221; video to the press and or the public.  But as a rule, we do not.&#10;&#10;Rule #9 &#8211; Subject Anonymity. We investigate &#38; question sources before promising anonymity. Once we confirm, we will do everything in our power to protect the identity of our confidential sources.&#10;&#10;Rule #10 &#8211; Being Accountable. Admit mistakes &#38; correct them promptly.&#10;&#10;Rule #11 &#8211; We do not manufacture content. We do not put words in our investigative subjects' mouths. We do not lead the horse to water. Our purpose is to elicit truth.&#10;&#10;Rule #12 &#8211; With Great Power comes Great Responsibility."
     channeltitle "Project Veritas"
     channelid "UCL9PlYkRD3Q-RZca6CCnPKw"
@@ -6877,7 +6877,7 @@ graph
     commentcount 2332
     duration "PT4M11S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6895,7 +6895,7 @@ graph
     commentcount 1075
     duration "PT11M9S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -6913,7 +6913,7 @@ graph
     commentcount 99
     duration "PT5M51S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6931,7 +6931,7 @@ graph
     commentcount 419
     duration "PT59S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6957,7 +6957,7 @@ graph
     label "cO0tyOrg0QU"
     step 0
     date "2021-10-28T11:30:22Z"
-    title "Critical Race Theory&#38;#39;s War of Position"
+    title "Critical Race Theorys War of Position"
     description "Carl explains why Critical Race Theory is a conscious effort by Kimberle Crenshaw and her comrades to conduct a Gramscian &#34;war of position&#34; against mainstream society.&#10;&#10;Exclusive video/written content for as little as &#163;5 a month: https://www.lotuseaters.com/register&#10;&#10;Subscribe to our other channel: &#10;https://www.youtube.com/channel/UCnw5I-wliudW8YO1vr5O4IQ&#10;&#10;Follow us: &#10;Parler - https://parler.com/profile/lotuseatersdotcom/posts&#10;Twitter - https://twitter.com/lotuseaters_com&#10;Gab - https://gab.com/lotuseaters_com&#10;Minds - https://www.minds.com/lotuseaters_com/&#10;Facebook - https://www.facebook.com/lotuseatersdotcom&#10;VK - https://vk.com/lotuseaters_com&#10;Sound Cloud - https://soundcloud.com/lotuseaters_com &#10;BitChute - https://www.bitchute.com/channel/lotuseaters_com/&#10;Instagram - https://www.instagram.com/lotuseaters_com/&#10;Rumble - https://rumble.com/c/c-340087&#10;Ruqqus - https://ruqqus.com/+lotuseaters_com&#10;Reddit  - https://www.reddit.com/r/Lotuseaters_com/&#10;Spotify - https://open.spotify.com/show/3bXokLwz40Wt5iQjDClghI&#10;DLive - https://dlive.tv/lotuseaters_com&#10;Twitch - https://www.twitch.tv/lotuseaters_com&#10;Google Podcasts - https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg5NjIxMzU3NS9zb3VuZHMucnNz?sa=X&#38;ved=0CAIQ9sEGahcKEwjIxrePtdDtAhUAAAAAHQAAAAAQFA&#10;Apple Podcast - https://podcasts.apple.com/gb/podcast/the-podcast-of-the-lotus-eaters/id1544753433"
     channeltitle "Lotuseaters Dot Com"
     channelid "UCnw5I-wliudW8YO1vr5O4IQ"
@@ -6967,7 +6967,7 @@ graph
     commentcount 388
     duration "PT8M40S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -6985,7 +6985,7 @@ graph
     commentcount 6
     duration "PT30M54S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7003,7 +7003,7 @@ graph
     commentcount -1
     duration "PT29M56S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -7021,7 +7021,7 @@ graph
     commentcount 1
     duration "PT16S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -7039,7 +7039,7 @@ graph
     commentcount 279
     duration "PT26M38S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7057,7 +7057,7 @@ graph
     commentcount 17
     duration "PT4M16S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7075,7 +7075,7 @@ graph
     commentcount 1561
     duration "PT7M31S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -7083,7 +7083,7 @@ graph
     label "6XiOZk58QpQ"
     step 0
     date "2021-12-16T14:07:37Z"
-    title "&#38;#39;Nobody Wants This Crap!&#38;#39;: DeSantis Rips &#38;#39;Wokeness&#38;#39; And Critical Race Theory"
+    title " And Critical Race Theory"
     description "Yesterday, Gov. Ron DeSantis (R-FL) announced a new legislative proposal Wednesday that would let parents sue if their kids are taught critical race theory in public school, after the Florida State Board of Education voted over the summer to ban lessons on the topic.&#10;&#10;READ MORE: https://www.forbes.com/sites/nicholasreimann/2021/12/15/desantis-unveils-stop-woke-act-so-parents-can-sue-over-critical-race-theory-in-schools/?sh=8f3577c24d38&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
@@ -7093,7 +7093,7 @@ graph
     commentcount 9615
     duration "PT8M36S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7111,7 +7111,7 @@ graph
     commentcount 88
     duration "PT9M6S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -7119,7 +7119,7 @@ graph
     label "tu8sfuP2Obs"
     step 0
     date "2022-01-12T17:31:06Z"
-    title "Critical Race Theory&#38;#39;s Marxist Roots With Dr. Carol Swain"
+    title "Critical Race Theorys Marxist Roots With Dr. Carol Swain"
     description "This week, Phelim interviews Dr. Carol Swain, a Distinguished Senior Fellow at the Texas Public Policy Foundation, about her new book, Black Eye for America: How Critical Race Theory is Burning Down the House.&#10;&#10;As you know, critical race theory has weaseled its way into classrooms across the country. This dangerous ideology with roots in Marxism is pitting white students against non-white students. Dr. Swain helps us understand how CRT is changing American education and how we can stop it.&#10;&#10;Also on this episode we give you an update on our YouTube censorship battle, Alec Baldwin's RUST saga, and a yummy recipe! &#10;&#10;&#120385;&#120394;&#120391;&#120391;&#120394;&#120402; - &#34;&#120392;&#120430; &#120398;&#120420;&#120419; &#120387;&#120426;&#120419;&#120425;&#120410;&#120423;&#34;&#10;Twitter: https://twitter.com/MySonHunter&#10;Instagram: https://www.instagram.com/mysonhunter.ig/&#10;Donate: http://mysonhunter.com/&#10;&#10;&#120385;&#120394;&#120391;&#120391;&#120394;&#120402; - &#34;&#120399;&#120413;&#120410; &#120380;&#120419;&#120419; &#38; &#120395;&#120413;&#120410;&#120417;&#120414;&#120418; &#120398;&#120408;&#120420;&#120420;&#120421;&#34;&#10;Facebook: https://www.facebook.com/TheAPScoop&#10;Twitter: https://twitter.com/AP_Scoop&#10;Instagram: https://www.instagram.com/unreportedstory/&#10;Rumble: https://rumble.com/c/c-485535&#10;&#10;&#120385;&#120394;&#120391;&#120391;&#120394;&#120402; - &#120380;&#120419;&#120419; &#120392;&#120408;&#120384;&#120417;&#120413;&#120414;&#120419;&#120419;&#120410;&#120430;&#10;Facebook: https://www.facebook.com/annmcelhinney&#10;Twitter: https://twitter.com/annmcelhinney&#10;&#10;&#120385;&#120394;&#120391;&#120391;&#120394;&#120402; - &#120395;&#120413;&#120410;&#120417;&#120414;&#120418; &#120392;&#120408;&#120380;&#120417;&#120410;&#120410;&#120423;&#10;Facebook: https://www.facebook.com/phelim.mcaleer&#10;Twitter: https://twitter.com/PhelimMcAleer"
     channeltitle "The Ann and Phelim Scoop"
     channelid "UC0xmod39GwOvyyTy1M5pHLg"
@@ -7147,7 +7147,7 @@ graph
     commentcount 4
     duration "PT3M25S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -7155,7 +7155,7 @@ graph
     label "xwUazXBq5AQ"
     step 0
     date "2022-04-26T19:11:41Z"
-    title "CBN covers AIM&#8217;s Critical Race Theory investigation"
+    title "CBN covers AIMs Critical Race Theory investigation"
     description "Adam Guillette on CBN - The Global Lane - April 14, 2022"
     channeltitle "Accuracy in Media"
     channelid "UCj41LMgg5G085QyTsSgy1TQ"
@@ -7165,7 +7165,7 @@ graph
     commentcount 6
     duration "PT6M3S"
     indegree 3
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7173,7 +7173,7 @@ graph
     label "cIXDg15JOck"
     step 0
     date "2021-06-21T16:00:10Z"
-    title "&#128308; Blacks Against Critical Race Theory - PART 1"
+    title " Blacks Against Critical Race Theory - PART 1"
     description "Watch All Past Broadcast by Joining My Membership Site - https://treeoflogic.com/Join_Page.htm&#10;Just $5 a month.&#10;&#10;Support Through &#10;Merch - https://teespring.com/stores/tree-of-logics-store&#10;PayPal - https://treeoflogic.com/donationpage.htm&#10;Minds - https://www.minds.com/register?referrer=treeoflogic&#10;Patreon - https://www.patreon.com/treeoflogic&#10;Subscribestar - https://www.subscribestar.com/treeoflogic&#10;&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UClVOcdn1LNV8A98yZHYIDhQ/join&#10;&#10;&#10;&#10;&#128315;&#10;&#34;jimmysquare - Hey&#34; is under a Creative Commons (CC BY 3.0) license.&#10;https://soundcloud.com/jimmysquare&#10;Music promoted by BreakingCopyright: https://youtu.be/XTr8MZnPGL8&#10;&#128314;"
     channeltitle "The TreeHouse News"
     channelid "UClVOcdn1LNV8A98yZHYIDhQ"
@@ -7183,7 +7183,7 @@ graph
     commentcount 220
     duration "PT10M9S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -7201,7 +7201,7 @@ graph
     commentcount 19
     duration "PT4M53S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -7209,7 +7209,7 @@ graph
     label "zxQm1YRyFTc"
     step 0
     date "2022-07-09T11:37:00Z"
-    title "Critical Race Theory &#129300; #history #slavery #america"
+    title "Critical Race Theory #history #slavery #america"
     description ""
     channeltitle "IUIC SAN ANTONIO"
     channelid "UCLyGU2kzFfTM0xbHLcB3w8g"
@@ -7219,7 +7219,7 @@ graph
     commentcount 1
     duration "PT26S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -7227,7 +7227,7 @@ graph
     label "arS8rthaRcA"
     step 0
     date "2021-08-09T02:27:11Z"
-    title "Critical Race Theory &#38;amp; Christianity"
+    title "Critical Race Theory Christianity"
     description ""
     channeltitle "Larry Alex Taunton"
     channelid "UCwX4yZNZJJfFvTuvjJLMcVA"
@@ -7237,7 +7237,7 @@ graph
     commentcount -1
     duration "PT51M6S"
     indegree 0
-    cluster 9
+    cluster 6
   ]
   node
   [
@@ -7255,7 +7255,7 @@ graph
     commentcount 7
     duration "PT1H33M25S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7273,7 +7273,7 @@ graph
     commentcount 14
     duration "PT35M37S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -7281,7 +7281,7 @@ graph
     label "6SZOjzkxt1c"
     step 0
     date "2022-01-14T13:45:00Z"
-    title "15-Year-Old Student Exposes Critical Race Theory In Speech"
+    title "15-Year-Old Student E tongue sticking out oses Critical Race Theory In Speech"
     description "'Leftish Agenda In Class' &#10;&#10;&#10145;&#65039;Best Anti-SJW T-Shirt of all time.&#10;Click here to BUY - https://titoo-store.creator-spring.com/listing/greatest-sjw-t-shirt?product=2&#10;&#10;SHOP best Anti SJW T-Shirts of all time. You will not find such T-shirts anywhere in the world.&#10;Visit Our Store - www.triggeredprints.com&#10;&#10;&#10145;&#65039;Coronavirus vaccine troll T-Shirt!&#10;Click here to BUY- https://titoo-store.creator-spring.com/listing/new-coronavirus-vaccine-troll&#10;---------------------------------------&#10;Follow us on Facebook: https://www.facebook.com/truemediausa&#10;---------------------------------------&#10;Please SUBSCRIBE to my backup channel &#34;TRUE MEDIA&#34; to watch videos of Jordan Peterson, Ben Shapiro, Gaber Mate, etc.&#10;Click the link to subscribe- https://www.youtube.com/channel/UCWtRt_2LVJ0LA48ID4fxWUg?sub_confirmation=1"
     channeltitle "Sjw Triggered"
     channelid "UCu0CwmvSLmvJXJ9cDhZCY3g"
@@ -7291,7 +7291,7 @@ graph
     commentcount 2095
     duration "PT5M25S"
     indegree 4
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -7299,7 +7299,7 @@ graph
     label "36js0wIiulM"
     step 0
     date "2020-12-05T01:45:01Z"
-    title "Charlie Kirk Explains Critical Race Theory To Homeschooling Mother In Georgia"
+    title "Charlie Kirk E tongue sticking out lains Critical Race Theory To Homeschooling Mother In Georgia"
     description "Critical Race Theory is one of the most racist, insane ideas to come out of the &#34;progressive&#34; movement. And it's been spoon-fed to our kids in schools across America. Every parent should follow this brave mom's example and save their kids from the scourge of Democrats' racist ideology."
     channeltitle "Charlie Kirk"
     channelid "UCfaIu2jO-fppCQV_lchCRIQ"
@@ -7309,7 +7309,7 @@ graph
     commentcount 3009
     duration "PT9M58S"
     indegree 29
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7327,7 +7327,7 @@ graph
     commentcount 67
     duration "PT5M10S"
     indegree 2
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -7345,7 +7345,7 @@ graph
     commentcount 10
     duration "PT4M6S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7363,7 +7363,7 @@ graph
     commentcount 0
     duration "PT57M10S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7381,7 +7381,7 @@ graph
     commentcount 693
     duration "PT15M5S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7399,7 +7399,7 @@ graph
     commentcount 1
     duration "PT34S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -7417,7 +7417,7 @@ graph
     commentcount 67
     duration "PT7M43S"
     indegree 3
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -7425,7 +7425,7 @@ graph
     label "xi-04wk__RA"
     step 0
     date "2021-04-21T23:00:26Z"
-    title "&#38;quot;Critical Race Theory&#38;quot; Teaching Kids America is Racist"
+    title " Teaching Kids America is Racist"
     description "For years, Dr. Bruce Gilley has been speaking out against the indoctrination of radical left ideas for years.  Thankfully he still has his job but that's not from a lack of trying for the university he works at in Portland, Oregon. Gilley says that the problem in higher education isn't the radical programs like critical race theory but instead it's the professors who put their heads down and just go along with whatever the university tells them.  &#10;&#10;&#34;They are the real traitors to academic freedom, free speech and the expectation of the taxpayer that their universities and colleges should be places of open debate and a variety of perspectives.&#34; Gilley says."
     channeltitle "Bill O'Reilly"
     channelid "UC4OvD2yIbofl9l4dIlqSNMw"
@@ -7435,7 +7435,7 @@ graph
     commentcount 63
     duration "PT5M12S"
     indegree 3
-    cluster 5
+    cluster 11
   ]
   node
   [
@@ -7453,7 +7453,7 @@ graph
     commentcount 0
     duration "PT57S"
     indegree 2
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -7461,7 +7461,7 @@ graph
     label "EuGlTmlzaNM"
     step 0
     date "2021-06-09T19:02:16Z"
-    title "Christopher Rufo&#38;#39;s &#38;#39;Critical Race Theory Briefing Book&#38;#39;"
+    title "Christopher Rufo"
     description "Christopher Rufo&#8217;s &#8220;Critical Race Theory Briefing Book&#8221; is a policy and communications guide for parents, schools, and policy leaders.  According to Rufo&#8217;s website:&#10;&#10;&#8220;In recent months, I've advised hundreds of leaders across the country, from local school board candidates to members of the United States House and Senate. I've distilled down my advice into this briefing book, which contains definitions, quotations, stories, language, and model policies&#8212;everything you need to fight critical race theory in American institutions.&#10;&#10;Right now, we have enormous momentum on this issue. But in order to turn this sentiment into victory, we need to build a persuasive argument to the public and implement smart policies at every level of government. I hope this guidebook will help thousands of leaders learn about critical race theory, explain it to their constituents, and abolish it from American public life.&#8221; &#10;&#10;Here's a link to the book: http://christopherrufo.com/crt-briefing-book/?mc_cid=340fbeafe6&#38;mc_eid=cc1d9d0b9c"
     channeltitle "Chalk &#38; Talk"
     channelid "UCON9vFaGhqkgR4FdsLH8SeQ"
@@ -7471,7 +7471,7 @@ graph
     commentcount 33
     duration "PT22M26S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -7497,7 +7497,7 @@ graph
     label "6ZX6j5Muz6I"
     step 0
     date "2021-10-13T15:07:31Z"
-    title "CRT &#38;quot;ABUSE OF CHILDREN&#38;quot;: NEW Secret Critical Race Theory Doc Exposed"
+    title "CRT : NEW Secret Critical Race Theory Doc E tongue sticking out osed"
     description "Judicial Watch President Tom Fitton appeared on Newxmax TV to discuss a CRT (&#34;critical race theory&#34;) training course sent to Judicial Watch by a whitstleblower detailing how teachers are pushing critical race theory in classrooms. READ MORE https://www.judicialwatch.org/press-releases/jw-exposes-crt-schools/&#10;&#10;We have joined Parler and Rumble! Follow us @JudicialWatch to stay updated on the latest news from Judicial Watch--&#10;&#10;Rumble: https://rumble.com/user/JudicialWatch&#10;&#10;Parler: https://parler.com/profile/JudicialWatch/posts &#10;&#10;Donate today! &#9658;https://www.judicialwatch.org/donate/thank-youtube/ &#10;&#10;Subscribe on YouTube! &#9658; http://jwatch.us/subscribe&#10;&#10;Check out our website &#9658; http://www.judicialwatch.org&#10;&#10;&#34;Like&#34; us on Facebook &#9658; http://www.facebook.com/JudicialWatch&#10;&#10;Follow us on Twitter &#9658; http://twitter.com/JudicialWatch"
     channeltitle "Judicial Watch"
     channelid "UCGDaOZg2INC0Qg2Z203F1dA"
@@ -7507,7 +7507,7 @@ graph
     commentcount 277
     duration "PT5M16S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -7525,7 +7525,7 @@ graph
     commentcount 1674
     duration "PT16M6S"
     indegree 3
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7533,7 +7533,7 @@ graph
     label "wYE-wTwArag"
     step 0
     date "2021-07-09T22:18:09Z"
-    title "Kids Are Being Propagandized With Racism Under Critical Race Theory&#8212;Interview With Robin Steenman"
+    title "Kids Are Being Propagandized With Racism Under Critical Race TheoryInterview With Robin Steenman"
     description "&#128640;Watch the full episode&#128073;https://ept.ms/3hRC5AV&#10;&#128309; Support our fight for the truth. Subscribe to our very own #EpochTV&#8203; platform&#128073;http://epochtv.com/Crossroads&#10;&#128293; Sign up for our NEWSLETTER and stay in touch&#128073; https://ept.ms/3g0GFgt&#10;&#10;Many states have banned the teaching of critical race theory in public schools, but many schools have continued teaching the underlying principles of the pseudo-Marxist theory through the school curriculum. To learn more about what is really being taught to America's children, and how teachers are being told to relay the information, we sat down for an interview with Robin Steenman, Williamson County chapter chair of Moms for Liberty.&#10;&#10;#CRT #Americanschools #Moms4Liberty &#10;&#10;Kids Are Being Propagandized With Racism Under Critical Race Theory&#8212;Interview With Robin Steenman&#10;&#10;- - - - - - - - - &#10;&#11093;&#65039;  Subscribe to Crossroads&#128073;https://www.youtube.com/channel/UCG8yy4W8nBbTle9YSpCqXeg?sub_confirmation=1&#10;&#11093;&#65039;  Donate to support our work:  https://donorbox.org/crossroads&#10;&#10;- - - - - - - - -&#10;Watch more on YouTube:&#10;&#10;&#8226; Interviews: https://bit.ly/2WDTjHL&#10;&#8226; Government and Law: https://ept.ms/36UlS7k&#10;&#8226; Money and Economy: https://ept.ms/2TpakFg&#10;&#8226; The Wisdom of Tradition: https://ept.ms/2NrHaRT&#10;&#8226; Progressivism and Society: https://ept.ms/373Nqac&#10;&#8226; Constitutional Rights: https://ept.ms/30kK93O&#10;&#8226; Human Rights: https://ept.ms/3ac3SXR&#10;&#8226; Religion and Spirituality: https://ept.ms/36W48ID&#10;&#10;- - - - - - - - -&#10;Credits:&#10;Getty Images&#10;Music:  Audioblocks.com, epidemicsound.com&#10;Stock Video:  Videoblocks.com&#10;&#10;-------------------------------------------------&#10;&#169; All Rights Reserved."
     channeltitle "Crossroads with JOSHUA PHILIPP"
     channelid "UCG8yy4W8nBbTle9YSpCqXeg"
@@ -7543,7 +7543,7 @@ graph
     commentcount 143
     duration "PT2M56S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -7561,7 +7561,7 @@ graph
     commentcount 5
     duration "PT7M16S"
     indegree 2
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7569,7 +7569,7 @@ graph
     label "aAZv5wgC6_o"
     step 0
     date "2021-07-26T15:22:02Z"
-    title "#ExposeHasbro Critical Race Theory Whistleblower David Johnson Goes MAINSTREAM!"
+    title "#E tongue sticking out oseHasbro Critical Race Theory Whistleblower David Johnson Goes MAINSTREAM!"
     description "Donate: https://www.projectveritas.com/donate&#10;&#10;Get emails: https://confirmsubscription.com/h/j/EC8A17570A033FCC&#10;&#10;Follow:&#10;Telegram: https://t.me/project_veritas&#10;FB: https://www.facebook.com/ProjectVeritas&#10;IG: https://www.instagram.com/project_veritas/&#10;Telegram: https://t.me/JamesOKeefeIII&#10;IG: https://www.instagram.com/jamesokeefeiii/&#10;&#10;Mission Statement&#10;Investigate &#38; expose corruption, dishonesty, self-dealing, waste, fraud, and other misconduct in both public and private institutions in order to achieve a more ethical &#38; transparent society.&#10;&#10;Core Values&#10;MORAL COURAGE - Courage is the virtue that sustains all others. We choose to overcome our fears.&#10;&#10;WE ARE ALL LEADERS - Turning people into leaders. Completed staff work. Ownership.&#10;&#10;COLLABORATION - Best not to work in silos. No one individual is as smart as all of us.&#10;&#10;RESILIENCE - Persistence and determination alone are omnipotent. Never, ever, ever give up. We don't let mistakes or setbacks discourage us. Pursue perfection, knowing full well you will never attain it.&#10;&#10;MISSION DRIVEN - The best people are motivated by purpose. We are passionate and truly believe in our cause. We must be externally focused, not internally focused.&#10;&#10;MAKE THE STATUS QUO DO THE IMPOSSIBLE - We move mountains. Failure is not an option. We do whatever it takes.&#10;&#10;THE TIP OF THE SPEAR - We are a loss leader. We do not shy away from conflict or litigation.&#10;&#10;Ethical Values&#10;Rule #1 &#8211; Truth is paramount. Our reporting is fact based with clear and irrefutable video and audio content.  Truth is paramount. We never deceive our audience. We do not distort the facts or the context. We do not &#8220;selectively edit.&#8221;&#10;&#10;Rule #2 &#8211; We do not break the law. We maintain one-party consent when recording someone is inherently moral and ethical. We never record when there is zero-party consent. In areas where we are required to have consent from all parties, we seek legal guidance regarding the expectation of privacy&#8217;s impact on our right to record.&#10;&#10;Rule #3 &#8211; We adhere to the 1st Amendment rights of others. During our investigations we do not disrupt the peace. We do not infringe on the 1st Amendment rights of others.&#10;&#10;Rule #4 &#8211; The Zekman Test. The undercover investigations we pursue are judged by us to be of &#8220;vital public interest&#8221; and &#8220;profound importance.&#8221; The Zekman Test is our baseline. Undercover investigative reporting is necessary because, &#8220;...there&#8217;s no other way to get the story...&#8221; Whereas the Society of Professional Journalists allows for undercover techniques, if undercover techniques are necessary to expose issues of vital public importance; we believe they are not only allowed but required.&#10;&#10;Rule #5 &#8211; We Protect the Innocent When Possible - Embarrassing private details are not to be investigated. We stay away from irrelevant embarrassingly intimate details about private citizens personal lives. We look for individual wrong-doing and judge its public importance. The irrelevant religious or sexual dispositions of our targets are not to be investigated.&#10;&#10;Rule #6 &#8211; Transparency. Our methods &#38; tactics must be reasonable and defensible. We use the &#8220;Twelve Jurors on Our Shoulder&#8221; rule. The work has to be done with such a degree of integrity that it can withstand scrutiny in both law &#38; ethics. We are comfortable with transparency. We must be willing to be ready to disclose our methods upon publication.&#10;&#10;Rule #7 &#8211; Verifying and Corroborate Stories &#8211; Evaluate impact on third parties and Newsworthiness of Statements Alone.We consistently consider the probable truth or falsity of statements, examine any reasons to doubt the veracity of underlying assertions and whether the assertions are newsworthy. When possible, we will confirm with our subjects that their statements captured on video are accurate &#38; truthful. At the very least, we will give our subjects an opportunity to elaborate and/or respond. In all matters, we rely on the 1st Amendment to protect our ability to publish newsworthy items after our internal deliberations. On whether there is an obligation to ensure the veracity of statements made on video, 1.) consider whether the remarks may potentially impact an innocent third party. (Factors in support of releasing the content) and 2.)The Newsworthiness of the statement alone by itself. (Factors against releasing the content).&#10;&#10;Rule #8 &#8211; Raw Video. In certain circumstances we may release the &#8220;raw&#8221; video to the press and or the public.  But as a rule, we do not.&#10;&#10;Rule #9 &#8211; Subject Anonymity. We investigate &#38; question sources before promising anonymity. Once we confirm, we will do everything in our power to protect the identity of our confidential sources.&#10;&#10;Rule #10 &#8211; Being Accountable. Admit mistakes &#38; correct them promptly.&#10;&#10;Rule #11 &#8211; We do not manufacture content. We do not put words in our investigative subjects' mouths. We do not lead the horse to water. Our purpose is to elicit truth.&#10;&#10;Rule #12 &#8211; With Great Power comes Great Responsibility."
     channeltitle "Project Veritas"
     channelid "UCL9PlYkRD3Q-RZca6CCnPKw"
@@ -7597,7 +7597,7 @@ graph
     commentcount 3
     duration "PT5H24M5S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7615,7 +7615,7 @@ graph
     commentcount 57
     duration "PT57S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7633,7 +7633,7 @@ graph
     commentcount 40
     duration "PT11M"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7651,7 +7651,7 @@ graph
     commentcount 690
     duration "PT4M12S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7687,7 +7687,7 @@ graph
     commentcount 393
     duration "PT5M24S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     commentcount 13107
     duration "PT11M10S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -7741,7 +7741,7 @@ graph
     commentcount 979
     duration "PT4M41S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -7749,7 +7749,7 @@ graph
     label "5FtqpHUgt9c"
     step 0
     date "2020-09-18T18:45:28Z"
-    title "Steven Deconstructs Critical Race Theory (aka Mental-Illness)  | Louder With Crowder"
+    title "Steven Deconstructs Critical Race Theory (aka Mental-Illness) | Louder With Crowder"
     description "Critical Race Theory seems to lack some critical thinking.&#10;&#10;Full Stream:&#10;&#10;Want to watch the full show every day? Join #MugClub! http://louderwithcrowder.com/mugclub&#13;&#10;&#13;&#10;Use promo codes &#34;student&#34; &#34;veteran&#34; &#34;military&#34; to get daily access for $69/year!&#13;&#10;&#13;&#10;Shop the official #LWC store: http://louderwithcrowdershop.com&#13;&#10;&#13;&#10;Follow me on Twitter: https://twitter.com/scrowder&#13;&#10;Like me on Facebook: https://www.facebook.com/stevencrowder &#13;&#10;&#13;&#10;Find behind the scenes footage on instagram: http://www.instagram.com/louderwithcrowder&#13;&#10;&#13;&#10;&#34;Eat My Butt&#34;"
     channeltitle "CrowderBits"
     channelid "UCMAtX9eFBpwc4LtgvbqsOpQ"
@@ -7759,7 +7759,7 @@ graph
     commentcount 559
     duration "PT6M42S"
     indegree 0
-    cluster 4
+    cluster 6
   ]
   node
   [

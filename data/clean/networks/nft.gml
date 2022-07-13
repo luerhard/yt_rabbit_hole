@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:26 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:34:00 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "EeFg31H48VE"
     step 0
     date "2022-07-07T12:02:36Z"
-    title "&#9989; NFT GIFT BOX &#128142; CHANCE TO WIN $5000 &#128293; ON OPENSEA MARKETPLACE"
+    title " ON OPENSEA MARKETPLACE"
     description "&#9989; NFT Gifts collection - https://opensea.io/collection/gameonesummer&#10;&#128071; how to + many profitable links below in the description &#128071;&#10;&#128142;AND +$20  for registration and first deposit (*NO KYC*) + Trade 20 usdt - &#10;https://www.zoomex.com/en-US/invite?ref=M9W32A&#10;&#10;&#9888;&#65039;Must watch videos about Metamask: https://www.youtube.com/channel/UC5UvfUdmK5VKOlJgvvEvEhw/search?query=metamask&#10;&#10;&#10084;&#65039; REFERRAL LINKS WITH BONUSES ON EXCHANGES &#10084;&#65039;&#10;(Cash bonuses at the start and lifetime discounts on exchange commissions)&#10;&#10;&#11088;&#65039;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#10;&#10084;&#65039; TOP EXCHANGE! WHERE YOU CAN BUY TOKENS FIRST! &#10084;&#65039;&#10;&#10;&#11088;&#65039;&#11088;&#65039; ByBit (here we trade futures) - https://www.bybit.com/ru-RU/invite?ref=OWVEL&#10;&#11088;&#65039; MEXC - https://m.mexc.com/auth/signup?inviteCode=19et9&#10;&#11088;&#65039; Gateio - https://www.gate.io/signup/5794505&#10;&#11088;&#65039; Kukoin - https://www.kucoin.com/ucenter/signup?rcode=r3VSB4J&#10;&#11088;&#65039; Okex - https://www.okex.com/join/7428579&#10;&#11088;&#65039; Huobi - https://www.huobi.com/ru-ru/topic/double-reward/?invite_code=hin33223&#10;&#11088;&#65039; Binance - https://www.binance.com/en/register?ref=BF20KIBE&#10;&#11088;&#65039; Binance Futures - https://www.binance.com/en/futures/ref?code=nazare&#10;&#10;&#11088;&#65039; Hotbit - https://www.hotbit.io/register?ref=3030070&#10;&#11088;&#65039; YoBit - https://yobit.net/?bonus=PnOCc&#10;&#11088;&#65039; Deepcoin - https://s.deepcoin.info/s8cmit5&#10;&#11088;&#65039; LBank  -  https://www.lbank.info/invitevip?icode=1DEQD&#38;lange=en-US&#10;&#11088;&#65039; FTX - https://ftx.com/referrals#a=skidka40&#10;&#11088;&#65039; FTXUS - https://ftx.us/#a=9941897&#10;&#11088;&#65039; Coinbase - https://www.coinbase.com/join/kabano_06&#10;&#11088;&#65039; &#1057;oinlist - https://coinlist.co/clt?referral_code=MTEQRK&#10;&#11088;&#65039; Currency - https://currency.com/trading/signup?c=6fyfuxwj&#38;pid=referral&#10;&#11088;&#65039; Phemex - https://phemex.com/en/register?group=1358&#38;referralCode=DKWI23&#10;&#11088;&#65039; StormGain - https://go.stormgain.app/visit/?bta=100105&#38;nci=13137&#38;afp=nazarecrypto&#10;&#11088;&#65039; Nominex - https://nominex.io/ru/signup/?r=73882&#10;&#11088;&#65039; Poloniex - https://poloniex.com/signup?c=6M59WYX9&#10;&#11088;&#65039; Crex24 - https://crex24.com/?refid=v51td65sopdnkbri1oci&#10;&#11088;&#65039; Exmo - https://exmo.me/?ref=678952&#10;&#11088;&#65039; Okcoin - https://www.okcoin.com/join?channelId=600098152&#10;&#11088;&#65039; Payer - https://payeer.com/05863149&#10;&#10;&#10084;&#65039; WALLETS &#10084;&#65039;&#10;&#10;&#11088;&#65039; Metamask wallet - https://metamask.io&#10;&#11088;&#65039; Phantom Wallet - https://phantom.app&#10;&#11088;&#65039; TON Wallet - https://ton.app/wallets&#10;&#11088;&#65039; WAX Wallet - https://wallet.wax.io&#10;&#11088;&#65039; Enjin wallet - https://enjin.io/products/wallet&#10;&#11088;&#65039; Tronlink Wallet - https://www.tronlink.org&#10;&#11088;&#65039; Polkadot Wallet - https://polkadot.js.org/extension/&#10;&#11088;&#65039; Resource with adding networks to Metamask - https://chainlist.org&#10;&#10;&#10084;&#65039; MY MOST IMPORTANT VIDEOS! RECOMMEND &#10084;&#65039;&#10;&#10;&#11088;&#65039; METAMASK BLOCK - WHAT YOU NEED TO DO IN ADVANCE! - https://youtu.be/Qi6MPOIwFx0&#10;&#11088;&#65039; YOU NEED TO KNOW BEFORE YOU START USING THE METAMASK - https://youtu.be/XXBxoSbz_DQ&#10;&#10;&#10084;&#65039; BEST DEX &#10084;&#65039;&#10;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#11088;&#65039; 1inch - DEX exchange/exchanger for BSC/ETH/MATIC - 1inch - https://app.1inch.io/#/r/0x58c5d0f3b1621b68a79af1446ad2ebea469aa0af&#10;&#11088;&#65039; MenFi - DEX on Solana - https://app.meanfi.com/?ref=HKfj4Rzef8pw16kvAyuptNSJEFAnokDngD6K72XcHUBW&#10;&#10;NFT, nft, NFTS, nfts, nft games, nft game, nft games 2022, nft 2022, nft giveaways, nft ruffle, nft earning, best nfts, top nft, nft whitelist, premint, premint nft, nft premint, nft crypto, non fungible token, nft non fungible token, hft what is it, nft maual, nft how to, opensea, nft opensea, nft token, nft tokens, opensea marketplace, bybit, opensea nft marketplace,  nft on opensea, nft game one summer, game one summer nft, game one summer, game one summer opensea&#10;&#10;#NFT #nft #NFTS #nfts #nftgames #nftgame #nftgames2022 #nft2022 #nftgiveaways #nftruffle #nftearning #bestnfts #topnft #nftwhitelist #premint #premintnft #nftpremint #nftcrypto #nonfungibletoken #nftnonfungibletoken #hftwhatisit #nftmaual #nfthowto #opensea #nftopensea #nfttoken #nfttokens #openseamarketplace #bybit #openseanftmarketplace #nftonopensea #nftgameonesummer #gameonesummernft #gameonesummer #gameonesummeropensea"
     channeltitle "NazareCrypto - Crypto, Play To Earn, NFT Games"
     channelid "UC5UvfUdmK5VKOlJgvvEvEhw"
@@ -27,7 +27,7 @@ graph
     label "Vdk1cLX8Nn8"
     step 0
     date "2022-06-30T10:42:01Z"
-    title "&#9989;NFT GAMES &#128293; SPACE NFT FOR COMMENT &#128293; HOW TO MAKE MONEY ONLINE IN ONLYROCKETS NFTS"
+    title " HOW TO MAKE MONEY ONLINE IN ONLYROCKETS NFTS"
     description "&#9888;&#65039; HURRY UP !!!  DRAWING OF PACKS OF NFT ROCKETS AND NFT PASS FOR MORE DETAILS IN THE DESCRIPTION + &#128071; how to + many profitable links below in the description &#128071;&#10;&#10;&#9989; To participate in the drawing, you need:&#10;1) Subscribe to my YouTube channel + write a comment of 5 words&#10;2) Log in to the game's discord - https://discord.gg/v2yv6sPATC&#10;&#10;&#128142;AND +$20  for registration and first deposit &#128073;&#9989;Bybit - https://partner.bybit.com/b/bonus_registration&#10;&#10;&#128142;AND +$20 ON KUCOIN AFTER REGISTRATION + ANY DEP + ANY TRADE &#128073;&#9989; https://www.kucoin.com/ucenter/signup?rcode=r3VSB4J&#10;&#10;&#128142;AND + $25 IN BITCOIN on the MEXC exchange and $1000 draw - &#9989; https://m.mexc.com/auth/signup?inviteCode=19et9&#10;&#10;&#10084;&#65039; REFERRAL LINKS WITH BONUSES ON EXCHANGES &#10084;&#65039;&#10;(Cash bonuses at the start and lifetime discounts on exchange commissions)&#10;&#10;&#11088;&#65039;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#10;&#10084;&#65039; TOP EXCHANGE! WHERE YOU CAN BUY TOKENS FIRST! &#10084;&#65039;&#10;&#10;&#11088;&#65039;&#11088;&#65039; ByBit (here we trade futures) - https://www.bybit.com/ru-RU/invite?ref=OWVEL&#10;&#11088;&#65039; MEXC - https://m.mexc.com/auth/signup?inviteCode=19et9&#10;&#11088;&#65039; Gateio - https://www.gate.io/signup/5794505&#10;&#11088;&#65039; Kukoin - https://www.kucoin.com/ucenter/signup?rcode=r3VSB4J&#10;&#11088;&#65039; Okex - https://www.okex.com/join/7428579&#10;&#11088;&#65039; Huobi - https://www.huobi.com/ru-ru/topic/double-reward/?invite_code=hin33223&#10;&#11088;&#65039; Binance - https://www.binance.com/en/register?ref=BF20KIBE&#10;&#11088;&#65039; Binance Futures - https://www.binance.com/en/futures/ref?code=nazare&#10;&#10;&#11088;&#65039; Hotbit - https://www.hotbit.io/register?ref=3030070&#10;&#11088;&#65039; YoBit - https://yobit.net/?bonus=PnOCc&#10;&#11088;&#65039; Deepcoin - https://s.deepcoin.info/s8cmit5&#10;&#11088;&#65039; FTX - https://ftx.com/referrals#a=skidka40&#10;&#11088;&#65039; FTXUS - https://ftx.us/#a=9941897&#10;&#11088;&#65039; Coinbase - https://www.coinbase.com/join/kabano_06&#10;&#11088;&#65039; &#1057;oinlist - https://coinlist.co/clt?referral_code=MTEQRK&#10;&#11088;&#65039; Currency - https://currency.com/trading/signup?c=6fyfuxwj&#38;pid=referral&#10;&#11088;&#65039; Phemex - https://phemex.com/en/register?group=1358&#38;referralCode=DKWI23&#10;&#11088;&#65039; StormGain - https://go.stormgain.app/visit/?bta=100105&#38;nci=13137&#38;afp=nazarecrypto&#10;&#11088;&#65039; Nominex - https://nominex.io/ru/signup/?r=73882&#10;&#11088;&#65039; Poloniex - https://poloniex.com/signup?c=6M59WYX9&#10;&#11088;&#65039; Crex24 - https://crex24.com/?refid=v51td65sopdnkbri1oci&#10;&#11088;&#65039; Exmo - https://exmo.me/?ref=678952&#10;&#11088;&#65039; Okcoin - https://www.okcoin.com/join?channelId=600098152&#10;&#11088;&#65039; Payer - https://payeer.com/05863149&#10;&#10;&#10084;&#65039; WALLETS &#10084;&#65039;&#10;&#10;&#11088;&#65039; Metamask wallet - https://metamask.io&#10;&#11088;&#65039; Phantom Wallet - https://phantom.app&#10;&#11088;&#65039; TON Wallet - https://ton.app/wallets&#10;&#11088;&#65039; WAX Wallet - https://wallet.wax.io&#10;&#11088;&#65039; Enjin wallet - https://enjin.io/products/wallet&#10;&#11088;&#65039; Tronlink Wallet - https://www.tronlink.org&#10;&#11088;&#65039; Polkadot Wallet - https://polkadot.js.org/extension/&#10;&#11088;&#65039; Resource with adding networks to Metamask - https://chainlist.org&#10;&#10;&#10084;&#65039; MY MOST IMPORTANT VIDEOS! RECOMMEND &#10084;&#65039;&#10;&#10;&#11088;&#65039; METAMASK BLOCK - WHAT YOU NEED TO DO IN ADVANCE! - https://youtu.be/Qi6MPOIwFx0&#10;&#11088;&#65039; YOU NEED TO KNOW BEFORE YOU START USING THE METAMASK - https://youtu.be/XXBxoSbz_DQ&#10;&#10;&#10084;&#65039; BEST DEX &#10084;&#65039;&#10;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#11088;&#65039; 1inch - DEX exchange/exchanger for BSC/ETH/MATIC - 1inch - https://app.1inch.io/#/r/0x58c5d0f3b1621b68a79af1446ad2ebea469aa0af&#10;&#11088;&#65039; MenFi - DEX on Solana - https://app.meanfi.com/?ref=HKfj4Rzef8pw16kvAyuptNSJEFAnokDngD6K72XcHUBW&#10;&#10;&#10;nft, nft games, nft 2022, nfts, nfts explained, nfts to buy, nft play to earn, nft game, nft bayc, nft ape, nft apecoin, nft make money online, move to earn nft, play to earn nft, nft chart, nft giveaway, nft giveaways, nft ruffle, nft earning, best nfts, top nft, nft whitelist, premint, premint nft, nft premint, nft crypto, crypto news today, crypto news, cryptocurrency, nft games play to earn, non fungible token&#10;&#10;#nft #nft games #nft 2022 #nfts #nfts explained #nfts to buy #nft play to earn #nft game #nft bayc #nft ape #nft apecoin #nft make money onlyne #move to earn nft #play to earn nft #nft chart #nft giveaway #nft giveaways #nft ruffle #nft earning #best nfts #top nft #nft whitelist #premint #premint nft #nft premint #nft crypto #crypto news today #crypto news #cryptocurrency #nft games play to earn #non fungible token"
     channeltitle "NazareCrypto - Crypto, Play To Earn, NFT Games"
     channelid "UC5UvfUdmK5VKOlJgvvEvEhw"
@@ -45,7 +45,7 @@ graph
     label "Oz9zw7-_vhM"
     step 0
     date "2021-04-27T11:36:12Z"
-    title "NFTs, Explained"
+    title "NFTs, E tongue sticking out lained"
     description "Yes it's hype. But it could change our world.&#10;For your chance to win a Tesla Model S and $20k cash while supporting a great cause, go to http://www.omaze.com/johnnyharris&#10;&#10;Thanks to Periscope Films for some of the archival footage in this video: https://www.youtube.com/channel/UCddem5RlB3bQe99wyY49g0g&#10;&#10;Orange Jacket Sticker: https://store.dftba.com/collections/iz-harris/products/orange-jacket-sticker&#10;&#10;- ways to support - &#10;My Patreon: https://www.patreon.com/johnnyharris&#10;Our custom Presets &#38; LUTs: https://store.dftba.com/products/johnny-iz-luts-and-presets&#10;&#10;- where to find me -&#10;Instagram: https://www.instagram.com/johnny.harris/&#10;Tiktok: https://www.tiktok.com/@johnny.harris&#10;Facebook: https://www.facebook.com/JohnnyHarrisVox&#10;Iz's (my wife&#8217;s) channel: https://www.youtube.com/iz-harris&#10;&#10;- how i make my videos -&#10;Tom Fox makes my music, work with him here: https://tfbeats.com/&#10;I make maps using this AE Plugin: https://aescripts.com/geolayers/?aff=77&#10;All the gear I use: https://www.izharris.com/gear-guide&#10; &#10;- my courses - &#10;Learn a language: https://brighttrip.com/course/language/&#10;Visual storytelling: https://www.brighttrip.com/courses/visual-storytelling&#10;&#10;- about -&#10;Johnny Harris is a filmmaker and journalist. He currently is based in Washington, DC, reporting on interesting trends and stories domestically and around the globe. Johnny's visual style blends motion graphics with cinematic videography to create content that explains complex issues in relatable ways. He holds a BA in international relations from Brigham Young University and an MA in international peace and conflict resolution from American University.&#10;&#10;- press - &#10;NYTimes: https://www.nytimes.com/2021/11/09/opinion/democrats-blue-states-legislation.html&#10;NYTimes: https://www.nytimes.com/video/opinion/100000007358968/covid-pandemic-us-response.html&#10;Vox Borders: https://www.youtube.com/watch?v=hLrFyjGZ9NU&#10;Finding Founders: https://findingfounders.co/episodes/johnny-harris-2esj3-c3pet-2pg4c-xbtwa-5gaaa&#10;NPR Planet Money: https://www.npr.org/transcripts/1072164745"
     channeltitle "Johnny Harris"
     channelid "UCmGSJVG3mCRXVOP4yZrU1Dw"
@@ -63,7 +63,7 @@ graph
     label "YQ_xWvX1n9g"
     step 0
     date "2022-01-21T17:00:03Z"
-    title "Line Goes Up &#8211; The Problem With NFTs"
+    title "Line Goes Up The Problem With NFTs"
     description "If someone pitches you on a &#34;great&#34; Web3 project, ask them if it requires buying or selling crypto to do what they say it does.&#10;&#10;Sources and Further Reading&#10;https://web3isgoinggreat.com/&#10;https://tante.cc/2021/12/17/the-third-web/&#10;https://davidgerard.co.uk/blockchain/2021/03/11/nfts-crypto-grifters-try-to-scam-artists-again/&#10;https://amycastor.com/2021/03/14/metakovan-the-mystery-beeple-art-buyer-and-his-nft-defi-scheme/&#10;https://www.stephendiehl.com/blog/crypto-absurd.html&#10;https://blog.mollywhite.net/blockchains-are-not-what-they-say/&#10;https://www.motherjones.com/politics/2021/11/who-goes-crypto-eth-bitcoin-etc-financialization-gamestop-class-wealth/&#10;https://twitter.com/davetroy/status/1478017698676228099?s=20&#10;https://davidgolumbia.medium.com/cryptocurrency-is-garbage-so-is-blockchain-3e80078e77fe&#10;https://marker.medium.com/fintech-is-a-scam-a-listicle-in-eight-parts-7b6161f3a35a&#10;https://naavik.co/business-breakdowns/axie-infinity/#axie-decon=&#10;https://www.gawker.com/culture/the-future-is-useless-expensive&#10;https://twitter.com/NFTtheft&#10;https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/&#10;https://www.gamesindustry.biz/articles/2021-11-05-baseless-nft-hype-hits-a-crescendo-but-its-play-to-earn-thats-worth-watching-opinion&#10;https://www.technollama.co.uk/platform-is-law-the-cautionary-tale-of-stolen-nfts&#10;https://davidgerard.co.uk/blockchain/2021/02/12/libra-shrugged-chapter-6-banking-the-unbanked/&#10;https://twitter.com/Bitfinexed&#10;&#10;Written and performed by Dan Olson&#10;&#10;Crowdfunding: https://www.patreon.com/foldablehuman&#10;Twitter: https://twitter.com/FoldableHuman&#10;00:00:00 Preface&#10;00:01:12 0. In 2008 The Economy Collapsed&#10;00:07:09 1. Bitcoin&#10;00:18:18 2. Ethereum&#10;00:24:34 3. The Machine&#10;00:39:07 4. NFTs Exist To Get You To Buy Crypto&#10;00:57:54 5. The Unbearable Cringe Of Crypto&#10;01:11:46 6. A Self-Organizing High Control Group&#10;01:16:57 7. Crypto Reality&#10;01:25:36 8. There Is No Privacy On The Chain&#10;01:32:52 9. If This &#34;Looks Like Scam&#34; Then Every NFT Room I'm In Looks Like Scam LOL&#10;01:38:29 10. Play To Earn Exists To Get You To Buy Crypto&#10;01:46:39 11. We're All Gonna Make It And By &#34;We&#34; I Mean &#34;Us&#34; Not You&#10;01:56:08 12. DAOs Exist To Get You To Buy Crypto&#10;02:13:21 13. I Know It's Rigged, But It's The Only Game In Town"
     channeltitle "Folding Ideas"
     channelid "UCyNtlmLB73-7gtlBz00XOQQ"
@@ -73,7 +73,7 @@ graph
     commentcount 56090
     duration "PT2H18M23S"
     indegree 32
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -99,7 +99,7 @@ graph
     label "EjH9GslMCB4"
     step 0
     date "2022-03-30T20:21:21Z"
-    title "One year into NFTs &#8212; what I wish I knew when I started"
+    title "One year into NFTs what I wish I knew when I started"
     description "In this video I reflect on some key lessons that I've learned after being full time in NFTs for over a year. &#10;&#10;These are some insights based on my own experience - don't take them as fact and always do your own research. &#10;&#10;follow me on twitter: @giancarlochaux &#10;&#10;&#10;0:00 intro &#10;0:33 lesson 1&#10;2:07 lesson 2&#10;4:51 lesson 3&#10;7:14 lesson 4&#10;8:54 lesson 5&#10;10:15 lesson 6&#10;11:54 lesson 7&#10;&#10;&#10;&#10;&#10;&#10;tags: bayc, cool cats, cryptopunks, doodles, azuki, invisible friends, world of women"
     channeltitle "Giancarlo buys tokens"
     channelid "UCPC2iE2Yuj20m5Dimn-vVBg"
@@ -127,7 +127,7 @@ graph
     commentcount 1369
     duration "PT24M14S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 5890
     duration "PT34M22S"
     indegree 68
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -153,7 +153,7 @@ graph
     label "4dkl5O9LOKg"
     step 0
     date "2021-03-20T02:13:11Z"
-    title "What is an NFT? (Non-Fungible Tokens Explained)"
+    title "What is an NFT? (Non-Fungible Tokens E tongue sticking out lained)"
     description "What is an NFT? A Non-Fungible Token, also known as a NFT, is a type of digital token or asset. A common analogy is to think of these as digital trading cards or digital paintings. When you buy an NFT, you are buying the rights to that specific asset. In this video you'll learn exactly what a non-fungible token is, and why they are valuable.  &#10;&#10;0:00 - 0:15 Intro&#10;0:16 - 1:00 What is an NFT?&#10;1:01 - 2:24 The Details of all Non Fungible Tokens&#10;2:25 - 5:13 Why buy an NFT?&#10;5:14 - 6:12 Buying Jack Dorsey's First Tweet&#10;6:13 - 6:48 How popular are they?&#10;6:49 - 7:52 Top 11 Most Expensive NFTs&#10;7:53 - 8:44 Can someone copy your NFT?&#10;8:45 - 10:13 How do you buy an NFT?&#10;10:14 - 11:05 Where do you store your NFTs?&#10;&#10;More visual learner? Check out our detailed article:&#10;https://whiteboardcrypto.com/what-is-a-nft/&#10;&#10;Join our exclusive discord community:&#10;https://discord.gg/D7hGbB5AuH&#10;&#10;Explore More Whiteboard Crypto:&#10;Facebook: @whiteboardcrypto&#10;Instagram: @whitreboardcryptoteam&#10;Website: www.whiteboardcrypto.com"
     channeltitle "Whiteboard Crypto"
     channelid "UCsYYksPHiGqXHPoHI-fm5sg"
@@ -207,7 +207,7 @@ graph
     label "G7OWIorSgwU"
     step 0
     date "2022-02-10T14:00:06Z"
-    title "UNDERSTAND and LEVERAGE Web3, NFT&#8217;s and The Future of Blockchain TECHNOLOGY | Tom Bilyeu"
+    title "UNDERSTAND and LEVERAGE Web3, NFTs and The Future of Blockchain TECHNOLOGY | Tom Bilyeu"
     description "This episode is sponsored by BluBlox. Go to https://blublox.com/impacttheory for 15% off your order or use discount code ImpactTheory at checkout.&#10;&#10;NFTs (Non-Fungible Tokens) have exploded in popularity over the past several months.&#10;&#10;With major brands getting involved - from Nike and the NBA to Taco Bell and Coca-Cola - many people are placing big bets that NFTs aren&#8217;t just another flash in the pan.&#10;&#10;And even though the first wave of NFTs have primarily revolved around ownership of digital art, the possibilities for future use cases of NFTs go far beyond mere jpeg ownership.&#10;&#10;In this episode, you&#8217;ll get a high-level view of the relationship between NFTs and the underlying blockchain technology, what makes an NFT project truly valuable, and some tips for getting involved in the space.&#10;&#10;&#10;SHOW NOTES:&#10;00:00 | Introduction&#10;00:24 | The Relationship Between NFTs, Web3, &#38; the Blockchain&#10;09:29 | Tom&#8217;s &#8220;Hard Sell&#8221; on NFTs&#10;20:11 | How to Get Started Creating an NFT&#10;27:44 | Will There Be An NFT Crash?&#10;32:21 | Connecting NFTs to Physical Goods&#10;&#10;&#10;QUOTES:&#10;&#8220;We are truly at the tip of a very large iceberg that is only going to get more phenomenal from here.&#8221; [09:06]&#10;&#10;&#8220;The reason that I think NF T's are so powerful is that it gives people the ability to create something where the community gets to capture the long tail value of that item.&#8221; [14:49]&#10;&#10;&#8220;Without that kind of community interaction, that kind of community support, that kind of community fervor, if you're wearing a Gucci sweater, you're counting on Gucci to build the brand recognition, and then the occasional Instagram post when you post it, versus when there's a huge community of people that get around something and begin to buoy it up.&#8221; [18:50]&#10;&#10;&#8220;It's&#8230; looking at this as a long term play, being in this for decades, and really understanding what you're building, how you're doing this with the community, and having the execution track record of being able to sustain things and grow things over long periods of time.&#8221; [30:43]&#10;&#10;&#8220;If you think about it from a community first perspective of wanting to do something cool to reward the people that buy into you and your new product and what you're doing, and you're making sure that the bulk of the value ends up going to them, then they're more likely to support you, support the brand, buy the next thing that you do.&#8221; [35:17]"
     channeltitle "Tom Bilyeu"
     channelid "UCnYMOamNKLGVlJgRUbamveA"
@@ -253,7 +253,7 @@ graph
     commentcount 3728
     duration "PT10M41S"
     indegree 15
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 6168
     duration "PT28M58S"
     indegree 53
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 6230
     duration "PT13M41S"
     indegree 17
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -307,7 +307,7 @@ graph
     commentcount 1462
     duration "PT8M10S"
     indegree 52
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -315,7 +315,7 @@ graph
     label "L384Cd427yw"
     step 0
     date "2021-11-07T15:30:02Z"
-    title "How to Launch an NFT Collection WITHOUT EXPERIENCE"
+    title "How to Launch an NFT Collection WITHOUT E tongue sticking out ERIENCE"
     description "Want to learn how to design, create, market, and sell an NFT collection without any experience?&#10;&#10;In this video, I'll walk you through my experience making and selling an NFT collection on OpenSea.&#10;&#10;I'll break down how I created the NFT art, how I made an account on OpenSea, how I made the NFT collection, how much money I made from the NFT art collection, whether or not I thought it was worth it, and what tips and suggestions I have for anyone considering creating an NFT collection of their own.&#10;&#10;Additionally, I'll walk through how to get set up on OpenSea and explain what gas fees are.&#10;&#10;I hope you enjoy! Let me know in the comments below if you end up creating an NFT collection of your own!&#10;&#10;TWITTERBANNERS NFT COLLECTION&#10;https://opensea.io/collection/twitterbanners&#10;&#10;COME SAY HI!&#10;Twitter: https://twitter.com/AprilynneA&#10;Instagram: https://instagram.com/aprilynnealter&#10;Twitch: https://www.twitch.tv/aprilynne&#10;&#10;TENDERFOOT&#10;https://tenderfoot.io&#10;&#10;TIMESTAMPS&#10;00:00 Intro&#10;00:52 NFT Artwork&#10;01:47 Marketing the NFT Collection&#10;03:38 OpenSea Setup&#10;05:04 Creating an NFT Collection&#10;06:02 Adding Items to a Collection&#10;07:12 Fees &#38; Queues&#10;08:27 Gas Fees Explained&#10;10:20 How Much Money I Made&#10;11:07 Was It Worth It&#10;11:44 Suggestions &#38; Tips&#10;13:31 Conclusion&#10;&#10;SHOP EQUIPMENT&#10;Sony ZV-1 Camera: https://amzn.to/3oXuwxw&#10;Rode Microphone: https://amzn.to/3vbXfA2&#10;Tripod: https://amzn.to/3BzwOGG&#10;Flexible LED Light Panels: https://amzn.to/3iYAwCo&#10;White Umbrellas: https://amzn.to/2YJ3fVb&#10;LED Accent Light: https://amzn.to/3DzT9EE&#10;Brackets: https://amzn.to/3vgnKnW&#10;Battery Pack: https://amzn.to/2X865lA"
     channeltitle "Aprilynne Alter"
     channelid "UChpxXPOP1xIq65mpNv-DclQ"
@@ -325,7 +325,7 @@ graph
     commentcount 1185
     duration "PT14M3S"
     indegree 58
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -333,7 +333,7 @@ graph
     label "vG0wryKTEzI"
     step 0
     date "2022-06-26T16:38:37Z"
-    title "&#38;quot;Are NFTs Dead?&#38;quot;"
+    title ""
     description "I asked NFT millionaires how to make money with NFTs &#38; about the future of NFTs... &#10;Follow My Instagram: https://www.instagram.com/jordanwelch&#10;&#10;NFTs have not been looking too hot this year... is the opportunity dead or just beginning?&#10;We got down to the bottom of it at NFT NYC 2022.&#10;&#10;People in this video (in order):&#10;&#10;Sean Kelly - https://www.instagram.com/seanmikekelly/&#10;Luke Belmar - https://www.instagram.com/lukebelmar/&#10;Luca Netz - https://www.instagram.com/lucanetz/&#10;&#10;bitcoin&#10;btc &#10;eth&#10;&#10;#creatornow"
     channeltitle "Jordan Welch"
     channelid "UC5deKm1RRbcoUIuLuSCFprg"
@@ -351,7 +351,7 @@ graph
     label "Axk2WtutbLA"
     step 0
     date "2022-01-18T20:00:02Z"
-    title "How to Make and Sell an NFT &#128293;FOR FREE&#128293; Easy Beginner Guide 2022"
+    title "How to Make and Sell an NFT Easy Beginner Guide 2022"
     description "Here's is a step by step guide on how to create and sell your own NFT's for free.&#10;&#10;Follow &#38; Connect with me on Instagram - https://www.instagram.com/eannsingh&#10;Sign Up for the Weekly Giveaways and Updates! - https://eannsingh.com&#10;---------------------------------------------------------------&#10;&#9658;GET 5 FREE STOCKS WITH WEBULL - https://act.webull.com/actv2/xzn/LTgBvCwGqjB3/f1f/main/&#10;&#9658;GET 3 FREE STOCKS WITH ROBINHOOD - https://join.robinhood.com/eanns-378d6696&#10;&#9658;GET $50 FREE WITH M1 FINANCE - https://m1.finance/B4lL2dXQiL4e&#10;&#9658;GET $10 IN FREE BITCOIN WITH COINBASE - https://www.coinbase.com/join/singh_uwgp&#10;&#9658;GET $25 FREE WITH CRYPTO.COM APP - https://crypto.com/app/raa4ttxsxt&#10;&#9658;GET $25 FREE WITH VOYAGER APP - &#10;https://voyager.onelink.me/WNly/referral?af_sub5=C20BA8&#10;---------------------------------------------------------------&#10;&#9658;DISCOVER IT CREDIT CARD $50 FREE  - https://refer.discover.com/s/eannsingh&#10;&#9658;CHASE FREEDOM FLEX/UNLIMITED CREDIT CARD $200 FREE -https://www.referyourchasecard.com/m/18f/6L5/GG3Z/1575884999&#10;&#9658;CHIME ONLINE BANK $100 FREE - https://chime.com/r/eannsingh&#10;---------------------------------------------------------------&#10;BOOKS YOU SHOULD READ&#10;THE MILLIONAIRE NEXT DOOR - https://amzn.to/2RpH92q&#10;THE 4 HOUR WORK WEEK - https://amzn.to/33dwBdF&#10;THE INTELLIGENT INVESTOR - https://amzn.to/3auikw6&#10;A BEGINNERS GUIDE TO THE STOCK MARKET - https://amzn.to/3sDIF1k&#10;AWAKEN THE GIANT WITHIN - https://amzn.to/3v3DLfm&#10;---------------------------------------------------------------&#10;MY YOUTUBE SETUP&#10;CAMERA - https://amzn.to/2Rk2A50&#10;MIC - https://amzn.to/3kUhcVB&#10;LIGHTING - https://amzn.to/33d5sHF&#10;TRIPOD - https://amzn.to/3l0qQpQ&#10;---------------------------------------------------------------&#10;IMPORTANT INFORMATION&#10;---------------------------------------------------------------&#10;Disclaimer:&#10;I am not a Financial Advisor. Content is solely from experience and opinions. Everything shared is for entertainment purposes only. Furthermore, certain risks are associated with the tips, suggestions and all information provided in this content. If you need advice please consult with a Financial Adviser and/or CPA. You are solely responsible for any and all financial decisions you make!&#10;Affiliate Disclosure:&#10;Some of the links on this page are affiliate links where if you choose to click, use or purchase through them I may earn affiliate commissions at no additional cost to you. As an Amazon Associate I earn from qualifying purchases.&#10;&#10;#WHATISANNFT #CREATENFT #MAKENFT #EANN&#10;&#10;nft,crypto art,tutorial,mint nft,guide,rarible,rainbow wallet,ethereum,eth,non fungible token,how to,mint,nft wallet,how to make nft,sell nft,crypto art maker,make crypto art,easy nft,nft art,nft meaning,nft explained,crypto art explained,nft crypto,make nft,no code nft,nft guide,crypto art for beginners,rainbow eth, how to make nfts in photoshop,create nft collection,create nft collection in photoshop,nfts photoshop,nft collection,how to make nft digital art,how to make nfts collection,how to make nfts beginner,nft for beginners,how to create nft collection,how to create nft digital art,how to create nft project,how to generate nfts,how to generate nft like cryptopunks,generate nft,generate nft in photoshop,generate nft collection mac,generate nft no code, shiba inu"
     channeltitle "Eann"
     channelid "UCc5pLvgFEsUQHDnoL0__btA"
@@ -361,7 +361,7 @@ graph
     commentcount 644
     duration "PT12M12S"
     indegree 43
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -369,7 +369,7 @@ graph
     label "8St36RjHd2E"
     step 0
     date "2022-02-07T16:43:51Z"
-    title "An Honest Conversation On The Problem With NFTs &#38;amp; Cryptocurrency, with @Folding Ideas"
+    title "An Honest Conversation On The Problem With NFTs Cryptocurrency, with @Folding Ideas"
     description "In this episode, Chelsea speaks with Dan Olson from @Folding Ideas to discuss his recent explainer video on the danger of crypto and NFTs. &#10;&#10;Don't forget to subscribe and leave us a review!&#10;&#10;*Subscribe to The Financial Confessions podcast here: https://anchor.fm/thefinancialdiet&#10;&#10;*Rate + review us on Apple Podcasts:  https://podcasts.apple.com/us/podcast/the-financial-confessions/id1484287750&#10;&#10;*For our favorite moments from The Financial Confessions podcast, subscribe to our highlights channel here: https://www.youtube.com/channel/UCNRL-_4emfF _ZamFOWCF2rg&#10;&#10;Folding Ideas on YouTube:&#10;NFTs video: https://www.youtube.com/watch?v=YQ_xWvX1n9g&#10;&#10;WHERE TO FIND US:&#10;&#10;The Financial Diet site: http://www.thefinancialdiet.com&#10;&#10;Facebook: https://www.facebook.com/thefinancialdiet&#10;&#10;Twitter: https://twitter.com/TFDiet&#10;&#10;Instagram: https://www.instagram.com/thefinancialdiet"
     channeltitle "The Financial Diet"
     channelid "UCSPYNpQ2fHv9HJ-q6MIMaPw"
@@ -387,7 +387,7 @@ graph
     label "_V0-HGMB8SI"
     step 0
     date "2021-04-08T12:55:42Z"
-    title "NFTs - If You Don&#8217;t Know, Now You Know | The Daily Social Distancing Show"
+    title "NFTs - If You Dont Know, Now You Know | The Daily Social Distancing Show"
     description "NFTs, or nonfungible tokens, are a new craze breaking out in the world of cryptocurrency, but what are you actually buying? #DailyShow #TrevorNoah #NFTs&#10;&#10;Subscribe to The Daily Show:&#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &#10;&#10;Follow The Daily Show:&#10;Twitter: https://twitter.com/TheDailyShow&#10;Facebook: https://www.facebook.com/thedailyshow&#10;Instagram: https://www.instagram.com/thedailyshow&#10;&#10;Stream full episodes of The Daily Show on Paramount+: http://www.paramountplus.com/?ftag=PPM-05-10aei0b&#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;About The Daily Show:&#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&#10;&#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
     channeltitle "The Daily Show with Trevor Noah"
     channelid "UCwWhs_6x42TyRM4Wstoq8HA"
@@ -415,7 +415,7 @@ graph
     commentcount 1511
     duration "PT29M5S"
     indegree 36
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -423,7 +423,7 @@ graph
     label "-IBEluAQgBQ"
     step 0
     date "2022-04-16T19:00:25Z"
-    title "It&#38;#39;s Over: The NFT Bubble Just Popped"
+    title "Its Over: The NFT Bubble Just Popped"
     description "It's Over: The NFT Bubble Just Popped&#10;&#10;Zero to Making $100k Per Month at 18 I Biaheza Story:&#10;https://www.youtube.com/watch?v=S4XpoPsy8sc&#10;&#10;My Dropshipping Course: &#10;https://biahezacourse.com/&#10;&#10; &#10;This video is no shape or form financial advice, it is strictly intended for entertainment purposes only."
     channeltitle "Biaheza"
     channelid "UCs5wAPodliO0oVxiTD8ruvg"
@@ -459,7 +459,7 @@ graph
     label "C6aeL83z_9Y"
     step 0
     date "2022-04-27T16:00:09Z"
-    title "NFTs Are Legally Problematic ft. Steve Mould &#38;amp; Coffeezilla"
+    title "NFTs Are Legally Problematic ft. Steve Mould Coffeezilla"
     description "NFTs: legal nonsense?  &#128640; Get access to the exclusive companion video! -- For a LIMITED TIME get CuriosityStream &#38; Nebula for 26% OFF! https://legaleagle.link/curiositystream&#10;And see my collaboration with Steve Mould! https://youtu.be/IZaTd0hDtkI&#10;&#10;Welcome back to LegalEagle.  The most avian legal analysis on the internets. &#10;&#128640; Extended &#38; ad-free versions on Nebula/CuriosityStream! https://legaleagle.link/extras&#10;&#128084; Suits by Indochino! https://legaleagle.link/indochino&#10;&#10;GOT A VIDEO IDEA? TELL ME!&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Send me an email: devin@legaleagle.show&#10;&#10;MY COURSES&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Interested in LAW SCHOOL?  Get my guide to law school! https://legaleagle.link/lawguide&#10;Need help with COPYRIGHT? I built a course just for you! https://legaleagle.link/copyrightcourse&#10;&#10;SOCIAL MEDIA &#38; DISCUSSIONS&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Twitter:           https://legaleagle.link/twitter&#10;Facebook:      https://legaleagle.link/facebook&#10;Tik Tok:          https://legaleagle.link/tiktok&#10;Instagram:     https://legaleagle.link/instagram&#10;Reddit:            https://legaleagle.link/reddit&#10;Podcast:         https://legaleagle.link/podcast&#10;OnlyFans        https://legaleagle.link/onlyfans&#10;Patreon          https://legaleagle.link/patreon&#10;&#10;BUSINESS INQUIRIES&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Please email my agent &#38; manager at legaleagle@standard.tv&#10;&#10;LEGAL-ISH DISCLAIMER&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Sorry, occupational hazard:  This is not legal advice, nor can I give you legal advice.  I AM NOT YOUR LAWYER.  Sorry!  Everything here is for informational purposes only and not for the purpose of providing legal advice. You should contact your attorney to obtain advice with respect to any particular issue or problem.  Nothing here should be construed to form an attorney-client relationship.  Also, some of the links in this post may be affiliate links, meaning, at no cost to you, I will earn a small commission if you click through and make a purchase.  But if you click, it really helps me make more of these videos!  All non-licensed clips used for fair use commentary, criticism, and educational purposes.  See Hosseinzadeh v. Klein, 276 F.Supp.3d 34 (S.D.N.Y. 2017); Equals Three, LLC v. Jukin Media, Inc., 139 F. Supp. 3d 1094 (C.D. Cal. 2015). &#10;&#10;Special thanks:&#10;Stock video and imagery provided by Getty Images and AP Archives&#10;Music provided by Epidemic Sound&#10;Short links by pixelme.me (https://pxle.me/eagle)&#10;Maps provided by MapTiler/Geolayers&#10;&#10;00:00 Intro&#10;01:00 What are NFTS?&#10;02:00 Steve Mould&#8217;s Technical Explanation of NFTs&#10;05:54 NFTs as Digital Receipts&#10;06:54 On Chain Problems:  Contract Law &#10;09:36 NBA Top Shots&#10;11:20 Bored Ape&#10;12:30 Click-Wrap Agreements&#10;14:50 Smart Contracts&#10;16:27 Copyrights&#10;22:35 So Many Consumer Protection Issues!&#10;26:53 But Wait&#8230;.Are NFTs Actually Securities?&#10;29:41 Coffeezilla Explains the Scammy Nature of NFTs&#10;30:43 More on Market Manipulation&#10;33:17 What About the Off-Chain Problems?&#10;41:06 Innovations So Mundane, No One Should Care!&#10;44:12 Learn More About the Dangers of NFTs on Nebula"
     channeltitle "LegalEagle"
     channelid "UCpa-Zb0ZcQjTCPP1Dx_1M8Q"
@@ -469,7 +469,7 @@ graph
     commentcount 6963
     duration "PT46M28S"
     indegree 35
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -495,7 +495,7 @@ graph
     label "NNQLJcJEzv0"
     step 0
     date "2021-06-08T13:30:02Z"
-    title "NFT Explained In 5 Minutes | What Is NFT? - Non Fungible Token | NFT Crypto Explained | Simplilearn"
+    title "NFT E tongue sticking out lained In 5 Minutes | What Is NFT? - Non Fungible Token | NFT Crypto E tongue sticking out lained | Simplilearn"
     description "This video on &#34;What is NFT&#34; covers all the important concepts of NFTs like What are NFTs?, What are Non-Fungible Tokens, how do NFTs work, how are NFTs different from other cryptocurrencies working in the same Blockchain Technology, how NFT became so popular and what future NFTs hold for the world's economic system. &#10;&#10;Don't forget to take the quiz at 03:47!&#10;&#10;00:00 What are NFTs?&#10;01:39 How do NFTs work?&#10;02:09 How are NFTs different from other cryptocurrencies like Ethereum and Bitcoin?&#10;03:05 How did NFTs become so popular?&#10;04:05 Future of NFTs&#10;&#10;&#128293;Enrol for Free Blockchain Course &#38; Get Your Completion Certificate: https://www.simplilearn.com/learn-blockchain-basics-skillup?utm_campaign=NFTScribe&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;&#9989;Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH&#10;&#10;&#9193; Check out the Blockchain training videos: https://www.youtube.com/watch?v=yubzJw0uiE4&#38;list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB&#10;&#10;#NFT #WhatIsNFT #NFTExplained #NFTCryptoExplained #NFTCryptoForBeginners #NonFungibleTokens #WhatAreNonFungibleTokens  #NonFungibleTokensExplained #NonFungibleTokensExplainedSimply #NFTExplanation #Simplilearn&#10;&#10;What is NFT? - Non-Fungible Token&#10;NFTs turn your digital assets into &#34;&#34;one of a kind&#34;&#34; by creating a unique digital signature that defines the ownership of your assets and that can be bought and sold for real money, cryptocurrency or any other asset like a &#34;&#34;non-fungible token&#34;&#34; aka NFT. &#10;&#10;NFT basically creates a blockchain-based digital certificate for your digital collectables, including games, music, art, and many more. This certificate gives your artwork a unique identity. The Underlying technology and the programming language used by NFTs are the same as other cryptocurrencies ie. Blockchain and the programming language Ethash or Scrypt. On the other hand, NFT is a unique token; therefore, if you try to trade it, you may end up with something completely different in your hands. Cryptopunks is a remarkable example of NFT, it enables you to buy, sell and store 10,000 collectables with the proof-of-ownership being stored on the Ethereum Blockchain.&#10;&#10;NFT has proved itself to be a boon in the lives of many others  - like Jack Dorsey, the CEO and co-founder of Twitter with his very first and famous tweet, &#34;just setting up my twitter,&#34; and Vignesh Sundaresan, famously known as &#34;Metakovan,&#34; who bought 69.3 million dollars worth of NFT art on Beeple. Owing to its increasing popularity, people are now willing to pay hundreds of thousands of dollars for NFTs.&#10;&#10;NFT has enhanced media exposure and special perks for aspiring artists on social media. This popularity of NFT creates new opportunities for new art platforms, motivating people to buy art from internet platforms and promoting copyright or originality of digital assets. Many experts in the crypto industry say that around 40% of new crypto users will use NFTs as their entry point. As a result of its growing popularity, NFT could represent a more significant part of the digital economy in the future.&#10;&#10;To know about cryptocurrency and Blockchain, visit: https://www.simplilearn.com/blockchain-certification-training-course?utm_campaign=NFTScribe&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;About Simplilearn Blockchain Certification Training:&#10;Simplilearn&#8217;s Blockchain Certification Training has been designed for developers who want to decipher the global craze surrounding Blockchain, Bitcoin and cryptocurrencies. &#10;&#10;Why learn Blockchain? &#10;Blockchain technology is the brainchild of Satoshi Nakamoto, which enables digital information to be distributed. A network of computing nodes makes up the Blockchain. Durability, robustness, success rate, transparency, incorruptibility are some of the enticing characteristics of Blockchain. Many new business applications will result in the usage of Blockchain such as Crowdfunding, smart contracts, supply chain auditing, Internet of Things(IoT), etc.&#10;&#10;&#128293;Enroll for Free Blockchain Course &#38; Get Your Completion Certificate: https://www.simplilearn.com/learn-blockchain-basics-skillup?utm_campaign=NFTScribe&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;For more updates on courses and tips follow us on:&#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn/&#10;- Website: https://www.simplilearn.com &#10;- Instagram: https://www.instagram.com/simplilearn_elearning&#10;- Telegram Mobile: https://t.me/simplilearnupdates&#10;- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates&#10;&#10;Get the Simplilearn app: https://simpli.app.link/OlbFAhqMqgb"
     channeltitle "Simplilearn"
     channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
@@ -531,7 +531,7 @@ graph
     label "p88wT0jYyt8"
     step 0
     date "2022-07-04T17:58:26Z"
-    title "MASSIVE NEWS!! | NFT Market Update | ENS Domains &#38;amp; Free NFT Mints"
+    title "MASSIVE NEWS!! | NFT Market Update | ENS Domains Free NFT Mints"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;Ricky (ISM Toys): https://twitter.com/IsmToys&#10;Polly Kole: https://twitter.com/polly_kole&#10;&#10;News Articles Mentioned in the Video:&#10;Otherside July 16th: https://twitter.com/OthersideMeta/status/1541511849371394048&#10;The Sandbox Alpha Season 3: https://mobile.twitter.com/TheSandboxGame/status/1542901152290934786&#10;The Sandbox x Coinbase Wallet: https://twitter.com/TheSandboxGame/status/1542494437758074883&#10;Opensea Co-Founder steps down: https://mobile.twitter.com/xanderatallah/status/1543008322978082816&#10;Opensea Data Breach: https://decrypt.co/104151/opensea-joins-list-crypto-data-breach-victims&#10;Opensea launchpad: https://twitter.com/opensea/status/1540775581188378624&#10;Sorare signs Mbappe: https://decrypt.co/104266/sorare-ethereum-soccer-nfts-surge-psg-kylian-mbappe&#10;Facebook NFTs: https://techcrunch.com/2022/06/30/facebook-testing-nfts-select-creators-us/&#10;US DOJ Arrests NFT Creator: https://www.justice.gov/opa/pr/justice-department-announces-enforcement-action-charging-six-individuals-cryptocurrency-fraud&#10;Fox NFT TV Series: https://www.coindesk.com/business/2021/06/15/fox-tv-puts-100m-behind-its-nft-driven-blockchain-experiment/&#10;M&#38;M NFTs: https://finbold.com/mars-inc-files-nft-crypto-and-metaverse-trademarks-applications-for-mms/&#10;Illuvium Gameplay Footage: https://twitter.com/illuviumio/status/1539626790343172096&#10;Nansen Solana NFT support: https://decrypt.co/104188/solana-nansen-analytics-data-nft-collections&#10;World of Women Monopoly: https://mobile.twitter.com/worldofwomennft/status/1541759990582710273&#10;Kevin Hart NFT Collection: https://variety.com/2022/digital/news/kevin-hart-is-diving-into-the-nft-pool-1235305497/&#10;18 year old selling Bored Ape Toys: https://markets.businessinsider.com/news/currencies/bored-ape-nft-holders-physical-toys-ismtoys-business-nftnyc-2022-6&#10;&#10;0:00 - 1:17 Intro&#10;1:18 - 5:44 Weekly NFT News&#10;5:45 - 6:50 Top NFT Sales in the past week&#10;6:51 - 11:24 Creating Businesses to support the NFT space&#10;11:25 - 17:03 NFT Market Data &#38; Analytics&#10;17:04 - 18:10 Upcoming NFT Projects releasing this week&#10;18:11 - 24:15 NFT Trends (ENS Domains &#38; God Hates NFTees)&#10;24:16 - 25:24 Final Thoughts&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -549,7 +549,7 @@ graph
     label "_pqsfDCqUug"
     step 0
     date "2022-01-05T21:15:02Z"
-    title "I Make $36,000 A Month Passive Income From NFT&#8217;s"
+    title "I Make $36,000 A Month Passive Income From NFTs"
     description "I reveal my passive income though NFT&#8217;s&#8230;&#10;&#10;Join the Wealthy Way today and get access to my free course, planner, and discord community! https://wealthyway.com&#10;&#10;Follow me on snapchat!&#10;@ryanpinedashow&#10;&#10;I Spent $334,697 on NFT&#8217;s To Join The Neo Tokyo Metaverse - https://youtu.be/WVFm711lsoI&#10;______________________________________________________&#10;&#10;For a free consultation with my team go to https://RyanPineda.com&#10;&#10;Go Subscribe to My Podcast &#34;The Ryan Pineda Show&#34; https://www.youtube.com/c/theryanpinedashow&#10;&#10;Want to invest in real estate deals with me? Go to https://pinedacapital.com&#10;&#10;Want to be coached by me? Apply at https://futureflipper.com&#10;&#10;Let my company make you passive income through E-commerce Automation! Watch the case study at http://lunarecom.com&#10;&#10;Need Tax and Accounting help? Contact my CPA Firm! https://TrueBooksCPA.com/&#10;&#10;Follow me on Social Media: &#10;https://www.instagram.com/ryanpinedashow&#10;https://www.tiktok.com/@ryanpineda&#10;https://www.twitter.com/ryanpinedashow&#10;______________________________________________________&#10;&#10;I make $1,200 a day passively through my NFT collection! &#10;&#10;I plan to to make my own NFT this year, so in order to make a successful NFT, I wanted to join a successful NFT project to see how and why it&#8217;s so successful! I bought my first citizen this year and get access to some extremely valuable perks!. There are two types of citizens, an S1 citizen and an S2 citizen. An S1 citizen generates bytes every day, thus creating a passive income. An S2 citizen allows you to game in the metaverse, but does not generate a passive income. I have three S1 citizens and save the bytes they make every day, generating about $1,200 per day! &#10;&#10;The Neo Tokyo community is also vetting NFT projects constantly, so I am able to get into the projects that pass the process. If I get into the right projects, I can make a lot of money to invest in crypto gaming! &#10;&#10;Neo Tokyo is also hosting the Meta Tournament which is bringing in a lot of money and could potentially win money. This has never been done before in crypto gaming, and I expect this to really take off and become more common in the future. &#10;&#10;What NFT&#8217;s do you recommend?&#10;&#10;NFT&#8217;s, minting, Neo Tokyo, crypto, metaverse, gaming, make money, passive income, S1 citizen, what is an NFT, NFTs explained, How to buy an NFT, how to make an NFT, how to invest in NFTs, what NFTs cost, NFTs beginner, should I buy an NFT, NFT definition, NFTs how to make money, NFT how to get started, NFT art, NFT crypto, NFT games"
     channeltitle "Ryan Pineda"
     channelid "UCZc5ImWILZmnxxA-RNgTY-Q"
@@ -559,7 +559,7 @@ graph
     commentcount 530
     duration "PT8M23S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 785
     duration "PT39M43S"
     indegree 17
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -603,7 +603,7 @@ graph
     label "Fk8Skx4xUDo"
     step 0
     date "2022-03-07T15:06:26Z"
-    title "Asking An NFT Expert How To Make $1,000,000"
+    title "Asking An NFT E tongue sticking out ert How To Make $1,000,000"
     description "&#128241;FTX App: https://link.blockfolio.com/9dzp/7edf04dd | Use code: NoahKagan&#10;&#10;&#128276; Subscribe: https://www.youtube.com/channel/UCF2v8v8te3_u4xhIQ8tGy1g?sub_confirmation=1 &#10;&#9993;&#65039; My Newsletter (I reply to emails): https://okdork.com/?utm_source=okdork&#38;utm_medium=youtube&#38;utm_campaign=dork-growth-hack&#10;&#128200; AppSumo&#8217;s Newsletter to grow your business: http://appsumo.com/noah&#10;&#10;People are making millions of dollars flipping NFTs.&#10;&#10;GaryVee made $90 Million in 90 days, and Beeple&#8217;s auction made him $69 Millions. &#10;&#10;However, these guys are talented entrepreneurs and artists with a huge social media following.&#10;&#10;But what if I told you people like you and me can do the same!&#10;&#10;In this video, I ask my NFT expert friend JPEG Lord the step by step process for regular people to 10x their money with NFTs in 2022 and beyond&#8230;&#10;&#10;Links to videos/resources mentioned in the video: &#10;JPEG Lord: https://twitter.com/thejpeglord&#10;S&#9678;L Legend: https://twitter.com/solanalegend&#10;S&#9678;L Big Brain: https://twitter.com/SOLBigBrain&#10;SOL Flowers: https://www.solflowers.io/&#10;Dronies: https://www.droniesnft.com/&#10;&#10;&#10;&#128248; Connect on IG. I reply to DMs.  https://www.instagram.com/noahkagan/"
     channeltitle "Noah Kagan"
     channelid "UCF2v8v8te3_u4xhIQ8tGy1g"
@@ -613,7 +613,7 @@ graph
     commentcount 180
     duration "PT9M11S"
     indegree 7
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -621,7 +621,7 @@ graph
     label "I3JF74EA7VI"
     step 0
     date "2022-05-05T09:23:38Z"
-    title "EXPLAINED: Why The NFT Market Seems To Be Collapsing"
+    title "E tongue sticking out LAINE tongue sticking out Why The NFT Market Seems To Be Collapsing"
     description "The Non-Fungible Token market, better known as NFTs, appears to be collapsing. Since September, sales have fallen 92%, and the market has seen over an 88% drop in active users.&#10;Subscribe: https://bit.ly/ProjTV-Sub &#10;&#10;Welcome to the YouTube home of The Project, we think you're going to like it here! &#10;&#10;Watch full episodes of The Project here: &#10;https://10play.com.au/theproject&#10;&#10;Check us out on Facebook:&#10;https://www.facebook.com/TheProjectTV/&#10;&#10;And Instagram:&#10;https://www.instagram.com/theprojecttv&#10;&#10;Why not Twitter too:&#10;https://twitter.com/theprojecttv &#10;#TheProjectTV #NFT #Cryptocurrency"
     channeltitle "The Project"
     channelid "UCorruoVYwGGyND4SZVtrVDQ"
@@ -649,7 +649,7 @@ graph
     commentcount 8438
     duration "PT18M"
     indegree 32
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -657,7 +657,7 @@ graph
     label "T5x7lyWPnX8"
     step 0
     date "2021-05-08T17:31:47Z"
-    title "Reggie Watts Explains NFT&#38;#39;s to Joe"
+    title "Reggie Watts E tongue sticking out lains NFTs to Joe"
     description "Taken from JRE #1648 w/Reggie Watts:&#10;https://open.spotify.com/episode/4Ct5bhOwlhgMSP77rBupIH?si=gUOqyo8MSkyiLvNqyhJN5Q"
     channeltitle "PowerfulJRE"
     channelid "UCzQUP1qoWDoEbmsQxvdjxgQ"
@@ -703,7 +703,7 @@ graph
     commentcount 169
     duration "PT28M24S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -711,7 +711,7 @@ graph
     label "qHcXkb7NDno"
     step 0
     date "2021-12-15T23:00:22Z"
-    title "How to make NFT&#38;#39;s in 8 minutes! (Easy Method)"
+    title "How to make NFTs in 8 minutes! (Easy Method)"
     description "Learn what NFTs are and how to make them in less than 8 minutes!&#10;&#128176; Get $10 in Free Bitcoin with Coinbase: https://www.coinbase.com/join/straub_f9l&#10;Download the script: https://github.com/mechanicious/photoshopCompositionComposer&#10;Support me on Patreon: https://www.patreon.com/alexanderstraub&#10;My own NFTs: https://opensea.io/collection/happy-nft-faces&#10;&#10;*Where I get my Music: http://share.epidemicsound.com/pbVLR&#10;&#10;A couple of months back I&#8217;ve heard about NFT&#8217;s and I was absolutely stunned by the thought that people make insane money with little digital artworks.&#10;&#10;The short form NFT stands for Non-fungible token. &#10;Alright nice but what does that actually mean.&#10;&#8222;Non fungible&#8220;  basically means that it&#8217;s a unique piece of data, that can&#8217;t be replaced by something else. You can compare it to a one of a kind trading card. And the more rare a collection is, they more expensive those NFTs can get. Imagine you&#8217;d be the only one having a PSA 10 first edition Charizard. &#10;&#10;Ok so now that we know what they are, how are they actually made?&#10;As always there are lots of different ways to make an NFT but today I&#8217;ll show you step by step how to make your first NFT Collection in Photoshop and where to find great assets if you don&#8217;t really know how to draw or make illustrations yourself. &#10;&#10;Chapters: &#10;00:00 - 00:07 Intro&#10;00:08 - 00:25 First touch&#10;00:26 - 02:24 What are NFTs&#10;02:25 - 03:00 Structure of NFTs&#10;03:01 - 06:55 How to make NFTs&#10;06:57 - 07:44 Turn PNG into Vector&#10;07:45 - 08:10 Win 1 Etherium&#10;&#10;What I use to make my Videos:&#10;*Main Camera: https://bhpho.to/3FUna2Q&#10;*Secondary Camera: https://amzn.to/345Em8q&#10;*Lens: https://amzn.to/3gcqMmx&#10;*Mic: https://amzn.to/3H2FA2D&#10;*Audio Mixer: https://amzn.to/3fX3JvK&#10;*Computer: https://amzn.to/3qXSZ6q&#10;&#10;#Howto #MakeNFTs #Crypto"
     channeltitle "Alexander"
     channelid "UCeJ48is9W-JZHESHf4eI6fw"
@@ -721,7 +721,7 @@ graph
     commentcount 963
     duration "PT8M10S"
     indegree 46
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 14132
     duration "PT27M36S"
     indegree 15
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 2931
     duration "PT23M26S"
     indegree 6
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -793,7 +793,7 @@ graph
     commentcount 1348
     duration "PT22M28S"
     indegree 20
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 8145
     duration "PT30M47S"
     indegree 8
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -855,7 +855,7 @@ graph
     label "EpNYn-l2ap8"
     step 0
     date "2022-06-15T14:18:44Z"
-    title "Bill Gates says crypto and NFTs are 100% based on &#38;#39;Greater Fool theory&#38;#39;"
+    title "Bill Gates says crypto and NFTs are 100% based on "
     description "#BillGates #Crypto #NFTs  #yahoofinance &#10;Yahoo Finance anchors Brad Smith, Brian Sozzi and Julie Hyman discuss the latest comments from Bill Gates regarding crypto, NFTs and the Greater Fool Theory.&#10;Don't Miss: Valley of Hype: The Culture That Built Elizabeth Holmes&#10;WATCH HERE:&#10;https://youtu.be/Sb179GLPNYE&#10;&#10;Subscribe to Yahoo Finance: https://yhoo.it/2fGu5Bb&#10;&#10;About Yahoo Finance: &#10;At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.&#10;&#10;Yahoo Finance Plus: With a subscription to Yahoo Finance Plus get the tools you need to invest with confidence. Discover new opportunities with expert research and investment ideas backed by technical and fundamental analysis. Optimize your trades with advanced portfolio insights, fundamental analysis, enhanced charting, and more.&#10;To learn more about Yahoo Finance Plus please visit: https://yhoo.it/33jXYBp&#10;&#10;Connect with Yahoo Finance:&#10;Get the latest news: https://yhoo.it/2fGu5Bb&#10;Find Yahoo Finance on Facebook: http://bit.ly/2A9u5Zq&#10;Follow Yahoo Finance on Twitter: http://bit.ly/2LMgloP&#10;Follow Yahoo Finance on Instagram: http://bit.ly/2LOpNYz&#10;Follow Cashay.com&#10;Follow Yahoo Finance Premium on Twitter: https://bit.ly/3hhcnmV"
     channeltitle "Yahoo Finance"
     channelid "UCEAZeUIeJs0IjQiqTCdVSIg"
@@ -883,7 +883,7 @@ graph
     commentcount 8478
     duration "PT19M14S"
     indegree 10
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -909,7 +909,7 @@ graph
     label "kbfz7gTaQvg"
     step 0
     date "2021-09-22T15:00:32Z"
-    title "Understand&#160;the&#160;NFT&#160;game | #NFT&#160;explained"
+    title "Understande tongue sticking out lained"
     description "&#9658;Get 50% kickback on your trading fees while trading in Cryptos, check out Vauld:&#10;https://bit.ly/Akshat50&#10;Code: Akshat50&#10;_____________________________________________________&#10;#Cryptocurrencies #Bitcoin #NFT&#10;&#10;What are Non-fungible Tokens(NFTs)? It's a way through which the rich are getting even more RICHER!&#10;&#10;How? I have explained the whole concept in detail in this video so do remember to watch it till the end :)&#10;&#10;0:00 Introduction&#10;450 Blockchain&#10;7:28 NFT&#10;12:26 What about us&#10;16:11- Final verdict&#10;&#10;*********************&#10;Sign up for my Newsletter &#9658; https://akshatshrivastava.me/subscribe/&#10;Linkedin&#9658; https://www.linkedin.com/in/akshatshrivastavainsead/&#10;Twitter&#9658; https://twitter.com/Akshat_World&#10;Instagram&#9658; https://www.instagram.com/akshat.world/&#10;Telegram&#9658; https://t.me/akshatshrivastava&#10;&#10;***********************&#10;Attributions:&#10;Stock videos from Pixabay and Pexels&#10;Logos: Wikipedia Commons"
     channeltitle "Akshat Shrivastava"
     channelid "UCqW8jxh4tH1Z1sWPbkGWL4g"
@@ -919,7 +919,7 @@ graph
     commentcount 437
     duration "PT16M40S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     commentcount 6287
     duration "PT17M37S"
     indegree 48
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -945,7 +945,7 @@ graph
     label "NhHGcUaDKiA"
     step 0
     date "2022-05-04T12:33:50Z"
-    title "Gary Vaynerchuk breaks down future of NFTs: It&#38;#39;s going to take time for them to penetrate mass scale"
+    title "Gary Vaynerchuk breaks down future of NFTs: Its going to take time for them to penetrate mass scale"
     description "Gary Vaynerchuk, founder and creator of VeeFriends, joins CNBC's 'Squawk Box' to break down his outlook for the future of nonfungible tokens, or NFTs. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/2NGeIvi&#160;&#10;&#10;&#187; Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision&#10;&#187; Subscribe to CNBC: https://cnb.cx/SubscribeCNBC&#10;&#10;Turn to CNBC TV for the latest stock market news and analysis. From market futures to live price updates CNBC is the leader in business news worldwide.&#10; &#10;The News with Shepard Smith is CNBC&#8217;s daily news podcast providing deep, non-partisan coverage and perspective on the day&#8217;s most important stories. Available to listen by 8:30pm ET / 5:30pm PT daily beginning September 30: https://www.cnbc.com/2020/09/29/the-news-with-shepard-smith-podcast.html?__source=youtube%7Cshepsmith%7Cpodcast&#160;&#10;&#160;&#10;Connect with CNBC News Online&#10;Get the latest news: http://www.cnbc.com/&#10;Follow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC&#10;Follow CNBC News on Facebook: https://cnb.cx/LikeCNBC&#10;Follow CNBC News on Twitter: https://cnb.cx/FollowCNBC&#10;Follow CNBC News on Instagram: https://cnb.cx/InstagramCNBC&#10;&#10;https://www.cnbc.com/select/best-credit-cards/&#160;&#10;&#10;#CNBC&#10;#CNBCTV"
     channeltitle "CNBC Television"
     channelid "UCrp_UI8XtuYfpiqluWLD7Lw"
@@ -973,7 +973,7 @@ graph
     commentcount 6248
     duration "PT5M46S"
     indegree 21
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 462
     duration "PT12M"
     indegree 12
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 4643
     duration "PT9M48S"
     indegree 27
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1035,7 +1035,7 @@ graph
     label "b4DbFSXRWAg"
     step 0
     date "2022-07-11T20:59:06Z"
-    title "Crypto Ranging, Yuga Pumping, What&#38;#39;s Next for NFTs?"
+    title "Crypto Ranging, Yuga Pumping, Whats Next for NFTs?"
     description "In this show, Pio, Nick, and Kix discuss Ethereum&#8217;s volatile price action, what that means for the NFT market, and what&#8217;s in store for the crypto markets with impending macroeconomic crises. We also talk about Kix recently buying some Yuga Labs land, the Otherside, and a Moonbird by PROOF Collective.&#10;&#10;For real-time updates on our wallet:&#10;&#128444;&#65039; Buy our NFT: https://thenifty.com/nft&#10;&#128200; Sign up for FTX: https://thenifty.com/ftx&#10;&#128172; Join our discord: http://www.thenifty.com/discord&#10;&#10;Stamps&#10;0:00 Introduction&#10;4:22 Relief Rally Inbound?&#10;8:50 Can it get worse?&#10;12:55 S/P 500&#10;17:00 Talkin' NFTs!&#10;25:40 More Moonbirds...&#10;31:08 Art, Otherdeeds, and Blue Chips&#10;38:16 Is Azuki a Buy?&#10;43:00 Conclusion&#10;&#10;--&#10;DISCLAIMER: You should never treat any opinion expressed by the hosts of this content as a recommendation to make a particular investment, or to follow a particular strategy. The thoughts and commentary on this show are an expression of the hosts&#8217; opinions and are for entertainment and informational purposes only.  This show is never financial advice.&#10;&#10;#niftyalpha #nft #nfts #nftmarket #nftmarketupdate #nftupdate #nftnews"
     channeltitle "The Nifty Alpha"
     channelid "UCKZh-NaE79AbeBmZhOezRsQ"
@@ -1045,7 +1045,7 @@ graph
     commentcount 78
     duration "PT42M44S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 3057
     duration "PT5M35S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 1067
     duration "PT36M19S"
     indegree 3
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1089,7 +1089,7 @@ graph
     label "MjsQMAd7_SA"
     step 0
     date "2021-11-09T06:00:06Z"
-    title "What is NFT? - NFTs Explained in Plain English (2022 Updated)"
+    title "What is NFT? - NFTs E tongue sticking out lained in Plain English (2022 Updated)"
     description "&#128065;&#8205;&#128488; What is an NFT? How do I buy one? Why would I want to buy a digital file that I can just copy in a second? Is it just another bubble? &#10;&#10;&#128073; Buy an NFTs here:&#10;- Gemini's Nifty Gateway: https://bit.ly/2YqDfxp&#10;- OpenSea: https://bit.ly/3kg93N6&#10;- Rarible: https://bit.ly/3bTLx48&#10;- SuperRare: https://bit.ly/3D4uPuY&#10;&#10;- MetaMask Wallet for buying NFTs: https://bit.ly/3mVpIY2&#10;&#10;Today&#8217;s topic is NFTs, here is what we will cover in the video:&#10;0:50 Fungibility Explained&#10;1:41 What is a Non-Fungible Token? &#10;1:49 Fun Fact!&#10;2:07 NFTs Explained&#10;3:43 NFT Creation &#10;4:51 NFT Characteristics&#10;5:07 NFT Examples&#10;6:01 Buying an NFT&#10;7:10 Selling NFTs&#10;7:42 NFT Uses&#10;9:29 Are NFTs just a bubble?&#10;9:57 Summary &#10;&#10;&#128073;For the complete text guide visit: &#10;https://bit.ly/3bRfJwU&#10;&#10;&#128214; Join our 7-day Bitcoin crash course absolutely free:&#10;http://bit.ly/2pB4X5B&#10;&#10;&#128276; Learn ANYTHING about Bitcoin and cryptocurrencies on our YouTube channel:&#10;http://bit.ly/2BVbxeF&#10;&#10;&#128071;See anything we haven't covered? Leave us a comment in the comment section below"
     channeltitle "99Bitcoins"
     channelid "UCQQ_fGcMDxlKre3SEqEWrLA"
@@ -1107,7 +1107,7 @@ graph
     label "dgOGRVyO-TI"
     step 0
     date "2022-01-27T15:05:03Z"
-    title "NFTs for dummies (my explanation)"
+    title "NFTs for dummies (my e tongue sticking out lanation)"
     description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/saf01221&#10;&#9993;&#65039; OUR NEWSLETTER: https://www.abundantia.co/&#10;&#128218; COURSE &#38; MEMBERSHIP: http://jointheorder.co/&#10;&#10;What the hell is an NFT? I was asking that same question myself recently, and luckily I've found a few answers.&#10;&#10;I'm going to be honest: I'm fairly new to this NFT world as well. However, I wanted to cover what I've learned so far on my journey through studying NFTs, to hopefully shed some light on the subject for those of you who are confused about it all.&#10;&#10;I know you probably have a lot of questions, so feel free to leave them below so I can elaborate more on NFTs and crypto in a future video.&#10;&#10;Please enjoy!&#10;&#10;0:00 - I tried to ignore the hype&#10;2:11 - What is an NFT&#10;3:10 - About the current hype&#10;5:12 - Concerns about NFTs&#10;6:48 - Skillshare Insert&#10;7:44 - Future uses of NFTs&#10;9:27 - Are you already too late?&#10;10:29 - Am I making an NFT?&#10;11:36 - Some final thoughts&#10;&#10;&#9658; IMPORTANT LINKS:&#10;Enter your email below for free weekly lessons and insights into becoming financially free, investing, global tax and corporate structures, passports, residencies, and more.&#10;&#10;https://www.abundantia.co/&#10;&#10;&#9658; SOCIAL MEDIA:&#10;&#8226; Abundantia Instagram: @abundantia.co https://www.instagram.com/abundantia.co/&#10;&#8226; Sorelle's Instagram: @sorelleamore  https://instagram.com/sorelleamore&#10;&#8226; Abundantia Twitter: https://twitter.com/abundantiaco&#10;&#8226; Abundantia Facebook: http://facebook.com/abundantiafinance&#10;&#10;Sorelle and Leon.&#10;Founders, Abundantia&#10;&#10;Liability Disclaimer: https://www.abundantia.co/disclaimer&#10;*We may earn a commission if you buy any products or services via the links in this video's description. This video is not investment, financial, or legal advice. It may be incorrect, outdated, inaccurate, or reflect personal opinions. This video is for entertainment purposes only.&#10;&#10;#NFT #NonFungibleToken #Beeple #Crypto"
     channeltitle "Sorelle Amore Finance"
     channelid "UC9lKBRxxsDIarUmNaPe0h0Q"
@@ -1153,7 +1153,7 @@ graph
     commentcount 6532
     duration "PT10M31S"
     indegree 72
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 2481
     duration "PT2H31M27S"
     indegree 7
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1225,7 +1225,7 @@ graph
     commentcount 1174
     duration "PT10M7S"
     indegree 5
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1251,7 +1251,7 @@ graph
     label "__eG_waPJ3Q"
     step 0
     date "2021-06-30T06:25:00Z"
-    title "HOW TO CREATE AND SELL NFT | In Hindi | Full Process In - Depth Explanation | Artma"
+    title "HOW TO CREATE AND SELL NFT | In Hindi | Full Process In - Depth E tongue sticking out lanation | Artma"
     description "The first 2000 people to use this link will get a 1 month free trial of Skillshare- https://skl.sh/drawwithartma06219&#10;&#10;#NFT #NFTExplained #HowToCreateNFT&#10;&#10;Hi Army, I sold my first NFT recently and like always when I learn something new I wish to bring it to you all as well. I am sharing with you all the full process and in depth of explanation of how to create and sell NFTs.&#10;&#10;I hope you learn something new from this video.&#10;Make sure you watch this completely and get started with your Crypto art journey real soon. Go ahead and sign up for Skillshare and get the first month for FREE.&#10;&#10;Thanks a lot for 338K subscribers. I thank you all for the love you have shown the work. Don't forget to like the video and make sure to share it with other artist friends as well who can learn this!&#10;&#10;Link To My Foundation Account&#10;https://foundation.app/@artma&#10;&#10;---------------------------------&#10;Timestamps:&#10;00:00 - Intro&#10;00:42 - Why are people buying Digital Art?&#10;01:58 - NFT Explained&#10;02:34 - What is Blockchain?&#10;04:22 - Skillshare Promoted Segment&#10;07:10 - Why do we need NFTs/ Blockchain?&#10;08:30 - What are Cryptocurrencies?&#10;10:01 - My experience of selling my first NFT&#10;11:02 - What you need to sell your first NFT?&#10;13:29 - Minting Process Explained&#10;15:03 - Minting &#38; Selling my first NFT&#10;15:40 - Why are people investing in Crypto Art?&#10;17:03 - Outro&#10;&#10;&#10;-------------------------&#10;USE CODE &#34;ARTMAXP&#34; FOR A DISCOUNT&#10;&#10; ------ Links XP Pen Drawing Tablets ------&#10;https://theartma.co/BuyDecoMini7&#10;https://theartma.co/BuyDeco01V2&#10;&#10;Get FREE Brushes for Procreate:&#10;https://theartma.co/brushgalaxy&#10;&#10;--------------------------&#10;&#10;LEARN ABOUT ARTMA ART PROGRAM:&#10;https://theartma.co/learn&#10;https://theartma.co/learn&#10;https://theartma.co/learn&#10;&#10;--------------------------&#10;&#10;If you appreciate the video do hit like, share and if you haven't already - do subscribe to the channel. :D&#10;&#10;Links to digital painting tutorial videos are below. Happy Painting!!&#10;&#10;-------------------------------------------------------------------&#10;Other Videos On This Channel:&#10;&#10;3 Hours Session - Digital Painting For Beginners On IBIS Paint X:&#10;https://youtu.be/I7FfFbXvN5E&#10;&#10;Drawing Full Body Anime Girl Live Session:&#10;https://youtu.be/7Qd2CaZh3E0&#10;&#10;Why You Think Your Art Is Bad:&#10;https://youtu.be/eTlyrii20Sk&#10;&#10;Portrait Painting Tips:&#10;https://youtu.be/5Bj-X-lbtYw &#10;&#10;How to Use Brushes: &#10;https://youtu.be/6ZGg2QP4fYg&#10;&#10;How to Use Layers: &#10;https://youtu.be/5h38-i04gl4&#10;&#10;How to Blend Colors Easily:&#10;https://youtu.be/IJugmuF3bLQ&#10;&#10;Colors Explained:&#10;https://youtu.be/Bx3Vc08z8mU&#10;&#10;How to Make Selections:&#10;https://youtu.be/NmU0OYdX3hg&#10;&#10;10 Mistakes Beginner Digital Artists Make:&#10;https://youtu.be/xfCwEl9EJ44&#10;&#10;Follow on Instagram: www.instagram.com/artma&#10;&#10;------------------------------------------&#10;Links To My Gear/Set Up:&#10;&#10;HUION KAMVAS 156 HD V3:&#10;https://amzn.to/36cIfqI&#10;&#10;Spiderman Bobblehead:&#10;https://amzn.to/3lbg8wh&#10;&#10;Xstore Mobile Stand:&#10;https://amzn.to/3mebcbi&#10;&#10;Dell Monitor:&#10;https://amzn.to/3nZLebY&#10;&#10;Ipad Pro And Pencil:&#10;https://amzn.to/37hh2lZ"
     channeltitle "Draw with Artma"
     channelid "UCkpUU4DRXid8pacXQGSUetQ"
@@ -1261,7 +1261,7 @@ graph
     commentcount 1097
     duration "PT17M50S"
     indegree 13
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1269,7 +1269,7 @@ graph
     label "ajG66r2U_lc"
     step 0
     date "2022-05-22T03:51:08Z"
-    title "What are NFTs and How to make Money ? | NFT Explained in Hindi | Him eesh Madaan"
+    title "What are NFTs and How to make Money ? | NFT E tongue sticking out lained in Hindi | Him eesh Madaan"
     description "Watch Now - Full explanation of Non Fungible Tokens and How to earn from NFTs. This video will give you simple and detailed information about what are NFTs, how they work, how you can make NFTs, how to sell NFTs and how to make money from NFTs.&#10;&#10;00:00 Start&#10;00:54 What are NFTs&#10;04:13 How NFTs work&#10;6.15 3 Ways to earn from NFTs&#10;&#10;In last 1-2 years, NFTs has become a hot topic and many people are interested to know about working of NFTs and how you can earn money from it. This video starts with meaning of Non Fungible Tokens followed by working of NFTs where I have explained blockchain technology and how NFTs become secure in blockchain technology. Next section of this video is about making money from NFTs as I have explained 3 ways on how to earn from NFTs. First way is to create and sell NFTs in marketplace. Second way is to trade NFTs and earn from the variation or fluctuation. Third option to earn from NFTs is to become NFT designer.&#10;&#10;I hope this video simplifies knowledge for you and make you more well versed with the world of NFTs. I will keep making more such concepts to help you to stay updated, grow financially and lead yourself towards success.&#10;&#10;Best wishes and lot's of Love,&#10;Him eesh&#10;&#10;#nft #nfts #makemoney"
     channeltitle "Him-eesh Madaan"
     channelid "UCZQDF0x18Xe6RZayvod99zA"
@@ -1279,7 +1279,7 @@ graph
     commentcount 510
     duration "PT15M18S"
     indegree 16
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1305,7 +1305,7 @@ graph
     label "as7acW3B2jA"
     step 0
     date "2021-12-11T16:00:03Z"
-    title "NFTs explained in 10 minutes | Non Fungible Tokens | Ankur Warikoo Hindi"
+    title "NFTs e tongue sticking out lained in 10 minutes | Non Fungible Tokens | Ankur Warikoo Hindi"
     description "On popular demand, I have finally created a video on what NFTs are, blockchain technology, and whether you should ride that or not. &#10;We will walk through this in the simplest of manner possible, and if after watching the video, you have any questions, please feel free to ask me in the comments section!&#10;&#10;00:00 Introduction&#10;00:30 The 2 Key Terms&#10;02:40 What is a Token?&#10;06:50 The connection between Blockchain and NFT&#10;07:55 What makes NFTs unique?&#10;09:15 Should you ride the NFT Wave?&#10;10:10 Conclusion&#10;&#10;#Warikoo #NFT #PersonalFinance&#10;&#10;Click here to subscribe to my YouTube channel: http://shorturl.at/bizNX&#10;&#10;----------------------------------------------------------------------------------------------------&#10;&#10;My Money Apps&#10;Zerodha: https://zerodha.com/open-account?c=ZMPHCY&#10;Smallcase Weekend Investing - Mi_NNF10: https://link.smallcase.com/BtqsTL4VPgbINDMoney&#10;WazirX: https://wazirx.com/invite/nu45av5e?utm_source=ankurwarikoo&#38;utm_medium=cpc&#38;utm_campaign=lt&#10;&#10;&#10;&#10;My gear for shooting this video: &#10;&#127909; Sony a7III camera: https://t.co/xE3LNi70V7?amp=1&#10;&#127916; Sony FE 24-70 f2.8 Lens: https://t.co/PyLrKReNwf?amp=1&#10;&#127897; Shure SM7B Microphone: https://t.co/28mmH92X2h?amp=1&#10;&#128262; Fill Light 60W: https://t.co/D5oBb4z8KB?amp=1&#10;&#128161; Key Light 150W: https://t.co/F9XDK9Kqgc?amp=1&#10;&#128253; Benro IT15 Tripod for Sony a7III camera: https://t.co/3IM49zIBW3?amp=1&#10;&#10;Useful links:&#10;20 books for your 20s: https://bit.ly/WarikooBooks&#10;20 online courses for your 20s: https://bit.ly/WarikooOnlineCourses&#10;Gadgets that I use: https://bit.ly/WarikooGadgets&#10;&#10;Let&#8217;s connect online:&#10;&#127897; My weekly podcast Woice with Warikoo (Spotify): https://open.spotify.com/show/1g7wpoqydK6hszvi4DFywg&#10;&#128233; My weekly newsletter warikoo Wanderings: https://ankurwarikoo.com/newsletter/&#10;&#128241; Instagram: https://instagram.com/ankurwarikoo&#10;&#128038; Twitter: https://twitter.com/warikoo&#10;&#128104;&#127995;&#8205;&#128187; LinkedIn: https://www.linkedin.com/in/warikoo&#10;&#128516; Facebook: https://www.facebook.com/awarikoo/&#10;&#128395; Daily Blog: https://ankurwarikoo.com/blog/&#10;&#10;&#10;&#128587;&#8205;&#9794;&#65039; Who am I:&#10;I am Ankur Warikoo - an entrepreneur, teacher, content creator and mentor. I founded nearbuy.com, and was its CEO from 2015 to 2019. Prior to that, I was the founding CEO of Groupon India&#8217;s business. Nowadays I spend my time creating content (for a community of ~4 million followers), teaching online (to a community of ~80,000 students), and mentoring first-time founders."
     channeltitle "warikoo"
     channelid "UCRzYN32xtBf3Yxsx5BvJWJw"
@@ -1315,7 +1315,7 @@ graph
     commentcount 3185
     duration "PT11M24S"
     indegree 30
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1323,7 +1323,7 @@ graph
     label "uPlbBq9kiZM"
     step 0
     date "2022-07-09T08:59:15Z"
-    title "NEXT GEN NFTS &#128293;PERSONAL ID ON NFT ! VIRTUAL VERSIONS"
+    title "NEXT GEN NFTS PERSONAL ID ON NFT ! VIRTUAL VERSIONS"
     description "&#9989; Virtual Versions Twitter - https://Twitter.com/virtualversions&#10;&#128142;AND +$20  for registration and first deposit (*NO KYC*) + Trade 20 usdt - &#10;https://www.zoomex.com/en-US/invite?ref=M9W32A&#10;&#128071; how to + many profitable links below in the description &#128071;&#10;&#10;&#9888;&#65039;Must watch videos about Metamask: https://www.youtube.com/channel/UC5UvfUdmK5VKOlJgvvEvEhw/search?query=metamask&#10;&#10;&#10084;&#65039; REFERRAL LINKS WITH BONUSES ON EXCHANGES &#10084;&#65039;&#10;(Cash bonuses at the start and lifetime discounts on exchange commissions)&#10;&#10;&#11088;&#65039;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#10;&#10084;&#65039; TOP EXCHANGE! WHERE YOU CAN BUY TOKENS FIRST! &#10084;&#65039;&#10;&#10;&#11088;&#65039;&#11088;&#65039; ByBit (here we trade futures) - https://www.bybit.com/ru-RU/invite?ref=OWVEL&#10;&#11088;&#65039; MEXC - https://m.mexc.com/auth/signup?inviteCode=19et9&#10;&#11088;&#65039; Gateio - https://www.gate.io/signup/5794505&#10;&#11088;&#65039; Kukoin - https://www.kucoin.com/ucenter/signup?rcode=r3VSB4J&#10;&#11088;&#65039; Okex - https://www.okex.com/join/7428579&#10;&#11088;&#65039; Huobi - https://www.huobi.com/ru-ru/topic/double-reward/?invite_code=hin33223&#10;&#11088;&#65039; Binance - https://www.binance.com/en/register?ref=BF20KIBE&#10;&#11088;&#65039; Binance Futures - https://www.binance.com/en/futures/ref?code=nazare&#10;&#10;&#11088;&#65039; Hotbit - https://www.hotbit.io/register?ref=3030070&#10;&#11088;&#65039; YoBit - https://yobit.net/?bonus=PnOCc&#10;&#11088;&#65039; Deepcoin - https://s.deepcoin.info/s8cmit5&#10;&#11088;&#65039; LBank  -  https://www.lbank.info/invitevip?icode=1DEQD&#38;lange=en-US&#10;&#11088;&#65039; FTX - https://ftx.com/referrals#a=skidka40&#10;&#11088;&#65039; FTXUS - https://ftx.us/#a=9941897&#10;&#11088;&#65039; Coinbase - https://www.coinbase.com/join/kabano_06&#10;&#11088;&#65039; &#1057;oinlist - https://coinlist.co/clt?referral_code=MTEQRK&#10;&#11088;&#65039; Currency - https://currency.com/trading/signup?c=6fyfuxwj&#38;pid=referral&#10;&#11088;&#65039; Phemex - https://phemex.com/en/register?group=1358&#38;referralCode=DKWI23&#10;&#11088;&#65039; StormGain - https://go.stormgain.app/visit/?bta=100105&#38;nci=13137&#38;afp=nazarecrypto&#10;&#11088;&#65039; Nominex - https://nominex.io/ru/signup/?r=73882&#10;&#11088;&#65039; Poloniex - https://poloniex.com/signup?c=6M59WYX9&#10;&#11088;&#65039; Crex24 - https://crex24.com/?refid=v51td65sopdnkbri1oci&#10;&#11088;&#65039; Exmo - https://exmo.me/?ref=678952&#10;&#11088;&#65039; Okcoin - https://www.okcoin.com/join?channelId=600098152&#10;&#11088;&#65039; Payer - https://payeer.com/05863149&#10;&#10;&#10084;&#65039; WALLETS &#10084;&#65039;&#10;&#10;&#11088;&#65039; Metamask wallet - https://metamask.io&#10;&#11088;&#65039; Phantom Wallet - https://phantom.app&#10;&#11088;&#65039; TON Wallet - https://ton.app/wallets&#10;&#11088;&#65039; WAX Wallet - https://wallet.wax.io&#10;&#11088;&#65039; Enjin wallet - https://enjin.io/products/wallet&#10;&#11088;&#65039; Tronlink Wallet - https://www.tronlink.org&#10;&#11088;&#65039; Polkadot Wallet - https://polkadot.js.org/extension/&#10;&#11088;&#65039; Resource with adding networks to Metamask - https://chainlist.org&#10;&#10;&#10084;&#65039; MY MOST IMPORTANT VIDEOS! RECOMMEND &#10084;&#65039;&#10;&#10;&#11088;&#65039; METAMASK BLOCK - WHAT YOU NEED TO DO IN ADVANCE! - https://youtu.be/Qi6MPOIwFx0&#10;&#11088;&#65039; YOU NEED TO KNOW BEFORE YOU START USING THE METAMASK - https://youtu.be/XXBxoSbz_DQ&#10;&#10;&#10084;&#65039; BEST DEX &#10084;&#65039;&#10;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#11088;&#65039; 1inch - DEX exchange/exchanger for BSC/ETH/MATIC - 1inch - https://app.1inch.io/#/r/0x58c5d0f3b1621b68a79af1446ad2ebea469aa0af&#10;&#11088;&#65039; MenFi - DEX on Solana - https://app.meanfi.com/?ref=HKfj4Rzef8pw16kvAyuptNSJEFAnokDngD6K72XcHUBW&#10;&#10;NFT, nft, NFTS, nfts, nft games, nft game, nft games 2022, nft 2022, nft giveaways, nft ruffle, nft earning, best nfts, top nft, nft whitelist, premint, premint nft, nft premint, nft crypto, non fungible token, nft non fungible token, hft what is it, nft maual, nft how to, opensea, nft opensea, nft token, nft tokens, opensea marketplace, bybit, opensea nft marketplace,  nft on opensea, nft virtual versions, virtual versions nft, virtual versions, virtual versions opensea, nfts meta, nftsmetaverse&#10;&#10;#NFT #nft #NFTS #nfts #nftgames #nftgame #nftgames2022 #nft2022 #nftgiveaways #nftruffle #nftearning #bestnfts #topnft #nftwhitelist #premint #premintnft #nftpremint #nftcrypto #nonfungibletoken #nftnonfungibletoken #hftwhatisit #nftmaual #nfthowto #opensea #nftopensea #nfttoken #nfttokens #openseamarketplace #bybit #openseanftmarketplace #nftonopensea #nftvirtualversions #virtualversionsnft #virtualversions #virtualversionsopensea #nftsmeta #nftsmetaverse"
     channeltitle "NazareCrypto - Crypto, Play To Earn, NFT Games"
     channelid "UC5UvfUdmK5VKOlJgvvEvEhw"
@@ -1341,7 +1341,7 @@ graph
     label "XVoX8OPueTg"
     step 0
     date "2022-07-11T19:22:40Z"
-    title "NFTS HEATING UP!! | NFT Market Update | Top NFT Projects RISE &#38;amp; $2 Million CryptoPunk"
+    title "NFTS HEATING UP!! | NFT Market Update | Top NFT Projects RISE $2 Million CryptoPunk"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;Ricky (ISM Toys): https://twitter.com/IsmToys&#10;Polly Kole: https://twitter.com/polly_kole&#10;&#10;News Articles Mentioned in the Video:&#10;Magic Eden Sweep Feature: https://twitter.com/MagicEden/status/1545428951501344769&#10;SudoAMM: https://twitter.com/sudoswap/status/1545535663365165063&#10;Reddit NFT Marketplace: https://techcrunch.com/2022/07/07/reddit-is-launching-a-new-nft-avatar-marketplace/&#10;Logan Paul Pokemon NFT: https://kotaku.com/logan-paul-pokemon-pikachu-illustrator-nft-blockchain-1849158886&#10;China NFT Crackdown:&#10;Corvette NFT: https://www.theverge.com/2022/7/4/23194242/chevy-corvette-nft-auction-no-bids&#10;CloneX Full Commercial Rights: https://twitter.com/RTFKT/status/1544035652848738304&#10;Coolman's Universe Animated Series: https://twitter.com/CoolmanUniverse/status/1544824663145975808&#10;Moonbirds Ravens: https://twitter.com/CloutedMind/status/1543804661655687169&#10;3AC $100 Million NFT Fund: https://www.coindesk.com/markets/2022/07/08/three-arrows-wanted-a-100m-nft-collection-instead-its-worth-less-than-5m/&#10;Tomorrowland x Magic Eden: https://hypebeast.com/2022/7/magic-eden-tomorrowland-festival-nft&#10;World of Women Airdrop: https://twitter.com/worldofwomennft/status/1544690959639797762&#10;107 NFT Discord Servers Hacked:&#10;Teller Defi: https://decrypt.co/104564/bored-ape-buy-now-pay-later-teller-ethereum-nfts&#10;&#10;0:00 - 1:11 Intro&#10;1:12 - 5:59 Weekly NFT News&#10;6:00 - 7:11 Top NFT Sales in the past week&#10;7:12 - 10:45 Buying NFTs with Loans&#10;10:46 - 15:05 NFT Market Data &#38; Analytics&#10;15:06 - 16:28 Upcoming NFT Projects releasing this week&#10;16:29 - 20:16 NFT Trends (Top NFT Projects &#38; Fine Art NFTs)&#10;20:17 - 21:23 Outro&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -1369,7 +1369,7 @@ graph
     commentcount 1719
     duration "PT8M37S"
     indegree 17
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1377,7 +1377,7 @@ graph
     label "cPiQPTtyQfI"
     step 0
     date "2022-01-23T13:37:11Z"
-    title "NFT Confusions cleared !  ZERO FEES ? Royalties ? LEGAL ISSUES ? etc"
+    title "NFT Confusions cleared ! ZERO FEES ? Royalties ? LEGAL ISSUES ? etc"
     description "Doston aaj is video me nft ke qna ke baare me bataya hai .. Selfie NFT sold for $1M..&#10;&#10;Part 1 Of this Video - https://www.youtube.com/watch?v=LN61jzaYlIY&#10;NFT Game to Earn Crypto - https://youtu.be/mqUvJmYH7i0&#10;&#10;00:00 - What you need to know ?&#10;00:47 - How to Avoid Gas Fees with Metamask ?&#10;03:08 - How to withdraw our Money ?&#10;04:52 - Same NFT on Multiple Marketplaces ?&#10;06:15 - Define  Custom Royalties on platform &#10;07:40 - Can Someone Copy Our NFT ?&#10;09:34 - Why Tokenisation ?&#10;10:30 - What is the USE ?&#10;11:37 - Gas Fees ?&#10;12:34 - Polygon vs Ethereum ?&#10;&#10;Wazir X Create account - https://wazirx.com/invite/uu6c59yf&#10;&#10;Best Buy Link - https://amzn.to/3hA6a7K&#10;&#10;Follow Karlo Doston &#10;Instagram  - https://www.instagram.com/thesarcasticsindhi/&#10;Twitter - https://twitter.com/sarcastecsindhi&#10;Telegram - https://t.me/thesarcasticsindhi&#10;Blog Website - https://sarcasticsindhi.com/&#10;&#10;Brand Collabs - Hello@sarcasticsindhi.com&#10;&#10;Stay Safe Stay Sarcastic !&#10;&#10;#nft #createnft #qna #royalties #copycat #opensea"
     channeltitle "Sarcastic Sindhi"
     channelid "UCg0hjntziS1RJPiebG5wAaw"
@@ -1387,7 +1387,7 @@ graph
     commentcount 688
     duration "PT14M28S"
     indegree 14
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1405,7 +1405,7 @@ graph
     commentcount 598
     duration "PT18M42S"
     indegree 70
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1413,7 +1413,7 @@ graph
     label "wOqJzJri8B0"
     step 0
     date "2021-12-23T15:13:24Z"
-    title "NFT Investing and Staking explained |#cryptos #nft"
+    title "NFT Investing and Staking e tongue sticking out lained |#cryptos #nft"
     description "&#9658;To buy Lakshmi NFT:&#10;1. Open up an account on Vauld here, get 50% kickback: https://mobile.vauld.me/Mr0X/Akshat&#10;2. Check more about Lakshmi NFT here: https://lakshmi.zionverse.com/&#10;3. Create a profile on Zionverse and buy Lakshmi NFT&#10;YouTube: https://www.youtube.com/c/Zionverse&#10;Discord: https://discord.gg/zionverse&#10;_______________________________________________________&#10;&#9658;Check out our new course website:&#10;https://wisdomhatch.com/&#10;_______________________________________________________&#10;&#9658;For personalized classes on stock markets, please check: https://docs.google.com/forms/d/11xglZTe8SwGD0vh3A77Gopc-mtRR-pom-zH7fpp44qM/viewform?edit_requested=true&#10;_______________________________________________________&#10;Metaverse, NFTs, Cryptos - all these terms can be totally mind-boggling!&#10;But agree or not, they are the future! So it is essential for you to understand these terms and make the best out of these opportunities!&#10;&#10;Do watch this brief video till the end and get your head wrapped around these new-age concepts :)&#10;&#10;0:00 Intro&#10;01:16 Basics cleared&#10;06:29 Indian Metaverse&#10;10:13 Possible risks?&#10;***********************&#10;Sign up for my Newsletter &#9658; https://akshatshrivastava.me/subscribe/&#10;Linkedin&#9658;https://www.linkedin.com/in/akshatshrivastavainsead/&#10;Twitter&#9658;https://twitter.com/Akshat_World&#10;Instagram&#9658; https://www.instagram.com/akshat.world/&#10;Telegram&#9658; https://t.me/akshatshrivastava&#10;***********************&#10;Attributions:&#10;Stock videos from Pixabay and Pexels&#10;Logos: Wikipedia Commons&#10;&#10;Video Editing and Thumbnail: Ayushmann Khare&#10;&#10;***********&#10;Important MESSAGE: &#10;&#10;Actions speak louder than words. &#10;&#10;If you have recently purchased Laxmi NFTs by watching my video, you can sell it to me at no-profit &#38; no-loss. &#10;&#10;Why am I doing this?&#10;&#10;1. Zionverse is a strong Metaverse project. And, unlike most NFTs, Laxmi NFTs are designed sensibly, so I am happy to buy them from you. &#10;&#10;2. Despite mentioning clearly that the APY for these NFTs is between 18%-108%, some people have missed such BASIC points. However, I am still giving you this offer.&#10;&#10;3. The goal is to create a good community and good karma in the world. And, I believe that good NFTs (such as Laxmi NFTs) are a game-changer. &#10;&#10;It is a simple win-win for all parties: you don't like this NFT--- cool, I will buy it from you :)  &#10;&#10;*** &#10;&#10;Now, here are some key points about this buy back: &#10;&#10;- This is a limited time buyback only. You should have purchased this NFT between 23rd Dec, 8:30pm IST to 25th Dec, 6:10 pm IST (post video release and time this message was posted). &#10;&#10;- Since selling NFTs also happens on DeFi, you will need to learn to use a MetaMask wallet. I will do a short free class on this topic, please attend that LIVE event. &#10;&#10;- You will be a given a window of 7 days to sell. And, we would need 5 working days to process payments. &#10;&#10;Sounds fair?"
     channeltitle "Akshat Shrivastava"
     channelid "UCqW8jxh4tH1Z1sWPbkGWL4g"
@@ -1423,7 +1423,7 @@ graph
     commentcount 1438
     duration "PT14M50S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1441,7 +1441,7 @@ graph
     commentcount 469
     duration "PT18M9S"
     indegree 4
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1449,7 +1449,7 @@ graph
     label "pFRXGxwat_U"
     step 0
     date "2022-01-02T02:00:07Z"
-    title "&#20851;&#20110;&#20803;&#23431;&#23449;&#65292;&#20320;&#38656;&#35201;&#30693;&#36947;&#30340;&#37027;&#20123;&#20107;&#20799;~ &#65372;NFT Metaverse"
+    title "NFT Metaverse"
     description "2021&#25910;&#23448;&#20043;&#20316;&#65292;&#21315;&#21628;&#19975;&#21796;&#22987;&#20986;&#26469;&#30340;&#8220;&#20803;&#23431;&#23449;&#8221;&#26469;&#21862;&#65281;&#20803;&#23431;&#23449;&#21040;&#24213;&#26159;&#20160;&#20040;&#65311;&#23567;Lin&#19981;&#25171;&#35827;&#35821;&#65292;&#20174;&#21830;&#19994;&#30340;&#35282;&#24230;&#32842;&#32842;&#36825;&#20010;&#32769;&#27010;&#24565;&#20026;&#21861;&#22312;2021&#24180;&#23601;&#28779;&#20102;&#65374; &#20063;&#31069;&#22823;&#23478;2022&#26032;&#24180;&#24555;&#20048;&#127878;&#10;--------&#10;&#25105;&#30340;&#21019;&#19994;&#20844;&#21496;&#65306;Offer&#24110; - &#27714;&#32844;&#23398;&#20064;&#24179;&#21488;&#10;https://offerbang.io?wpm=2.3.17.2&#10;&#10;&#25105;&#30340;&#35838;&#31243;&#12304;&#30041;&#23398;&#29983;&#27714;&#32844;&#24517;&#20462;&#35838;&#12305;&#65306;&#10;https://offerbang.io/course/introduction?wpm=2.3.17.2 (&#38024;&#23545;&#28023;&#22806;&#27714;&#32844;)&#10;https://offerbang.io/course/introduction-cn?wpm=2.3.17.2 (&#38024;&#23545;&#28023;&#24402;&#27714;&#32844;)&#10;&#12304;&#37325;&#35201;&#12305;&#29992;&#25240;&#25187;&#30721;&#34;LINDSAY&#34;&#23601;&#21487;&#20197;&#20813;&#36153;&#39046;&#21462;&#21734;&#21704;&#21704;&#21704;&#65281;&#10;&#10;&#21508;&#34892;&#19994;&#27714;&#32844;&#35838;&#31243;&#65306;https://offerbang.io/course?wpm=2.3.17.2&#10;(&#25237;&#34892;&#12289;&#25968;&#25454;&#12289;&#21672;&#35810;&#12289;&#37327;&#21270;&#12289;&#36164;&#20135;&#31649;&#29702;&#12289;&#20132;&#26131;&#31561;)&#10;&#10;&#24076;&#26395;&#33021;&#24110;&#21040;&#25214;&#24037;&#20316;&#30340;&#23567;&#20249;&#20276;~"
     channeltitle "&#23567;Lin&#35828;"
     channelid "UCilwQlk62k1z7aUEZPOB6yw"
@@ -1459,7 +1459,7 @@ graph
     commentcount 1715
     duration "PT18M50S"
     indegree 7
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1485,7 +1485,7 @@ graph
     label "O7gu_0yJ6hs"
     step 0
     date "2022-07-10T03:30:17Z"
-    title "THIS FREE NFT DID A 100x | NFT MARKET UPDATE &#38;amp; FUTURE x BAYC?!"
+    title "THIS FREE NFT DID A 100x | NFT MARKET UPDATE FUTURE x BAYC?!"
     description "My Discord: https://opensea.io/collection/plugpass&#10;Twitter: https://twitter.com/KosherPlug&#10;Insta: https://www.instagram.com/kosherplug/&#10;&#10;WGMI MEDIA (WEB3 NEWS)&#10;https://wgmimedia.com&#10;&#10;What's going on everyone im kosher plug and welcome back to another video, hope you are having an amazing day! In today's video we will be going over some market updates, new NFT news / bids &#38; some interesting articles on NFTs &#38; Crypto. Let's get right into it!&#10;&#10;Market Update:&#10;https://coinmarketcap.com/&#10;https://dune.com/rchen8/opensea&#10;&#10;Saudis:&#10;Spinoffs will come from this due to crazy high floor off the bat&#10;https://opensea.io/collection/thesaudis/activity&#10;&#10;BTC fear &#38; greed up 10 points:&#10;https://alternative.me/crypto/fear-and-greed-index/&#10;&#10;Bloomberg:&#10;https://twitter.com/business/status/1545485379305865221&#10;&#10;Bored and hungry location in korea:&#10;https://www.instagram.com/p/CfuPGLBPJ4b/&#10;&#10;Crypto Punk new bid:&#10;https://twitter.com/WGMImedia/status/1545937261077954561&#10;&#10;Future concert ft BAYC:&#10;https://twitter.com/Ryy_Wills/status/1545752780983439366&#10;Cool peeps in the space:&#10;&#10;TheBrettWay - https://twitter.com/thebrettway&#10;KosherPlug - https://twitter.com/KosherPlug&#10;NFTLlama - https://twitter.com/NFTLlama&#10;Ryandcrypto - https://twitter.com/ryandcrypto&#10;BentoBoi - https://twitter.com/BentoBoiNFT&#10;Champ - https://www.youtube.com/c/CHAMPCRYPTO&#10;Ameer - https://twitter.com/AmeerHussainn&#10;&#10;&#10;*TAGS*&#10;Keyword&#10;what is an nft&#10;nfts to buy&#10;nfts explained&#10;nfts&#10;nft tips&#10;nft crypto&#10;nft&#10;new nfts&#10;how to make money with nfts"
     channeltitle "Kosher Plug"
     channelid "UCG_FAlXoQFtyKlggsWFx_iA"
@@ -1495,7 +1495,7 @@ graph
     commentcount 135
     duration "PT5M22S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 6321
     duration "PT2M27S"
     indegree 9
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1521,7 +1521,7 @@ graph
     label "b-hzI7F2Aqw"
     step 0
     date "2022-06-20T14:30:47Z"
-    title "INSANE NFT NEWS!! | NFT Market Update | CryptoPunks Explode &#38;amp; NFT NYC"
+    title "INSANE NFT NEWS!! | NFT Market Update | CryptoPunks E tongue sticking out lode NFT NYC"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;News Articles Mentioned in the Video:&#10;Nickelodeon NFTs: https://twitter.com/nickelodeon_nft/status/1537850170074865670&#10;Immutable $500 Million Fund: https://decrypt.co/103184/ethereum-layer-2-immutable-x-500m-fund-nft-game-developers&#10;OpenSea migrates to Seaport: https://opensea.io/blog/announcements/launching-seaport-saving-the-community-millions-in-fees/&#10;OpenSea Featured Tab: https://twitter.com/opensea/status/1537797351158566912&#10;OpenSea Security Update: https://opensea.io/blog/announcements/hiding-suspicious-nft-transfers-on-opensea/?_thumbnail_id=6580&#10;Metamask Dark Mode: https://twitter.com/MetaMask/status/1537480157706915841&#10;Bill Gates NFT Comments: https://decrypt.co/102973/bill-gates-crypto-and-nfts-100-based-on-greater-fool-theory&#10;NFT Trademarks USA: https://finbold.com/u-s-nft-trademark-applications-surpass-4000-in-2022/&#10;NFTPort Raies $26 Million: https://www.coindesk.com/business/2022/06/15/stripe-for-nfts-nftport-raises-26m-series-a/&#10;Bleacher Report x Immutable X: https://www.sportico.com/business/tech/2022/immutable-x-turner-sports-nfts-1234678649/&#10;Sia NFT Collection: https://twitter.com/BiancaMedici69/status/1536424062913654785&#10;Goblintown reveals team:&#10;Yuga Labs hires Nonfungiblenoah for Cryptopunks: https://twitter.com/NonFungibleNoah/status/1538584141419143168&#10;Instagram AR: https://twitter.com/Blockworks_/status/1537395426256732162&#10;Court Notices NFTs: https://nftevening.com/court-notices-can-now-be-served-as-nfts-rules-new-york-court/&#10;Corvette NFT: https://www.theverge.com/2022/6/14/23166278/chevy-corvette-nft-xsullo-auction-blockchain-web3-crypto&#10;Nansen Connect: https://decrypt.co/102958/dump-discord-nansen-launches-messaging-app-for-web3-communities&#10;Tag Heuer NFT Watch: https://decrypt.co/103013/tag-heuer-wants-you-to-wear-your-bored-ape-on-your-wrist&#10;&#10;0:00 - 1:31 Intro&#10;1:32 - 6:41 Weekly NFT News&#10;6:42 - 8:18 Top NFT Sales in the past week&#10;8:19 - 12:24 NFT NYC &#38; bear market sentiment&#10;12:25 - 17:38 NFT Market Data &#38; Analytics&#10;17:39 - 19:22 Upcoming NFT Projects releasing this week&#10;19:23 - 24:55 NFT Trends (Blue Chip NFTs)&#10;24:56 - 25:54 Final Thoughts&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -1549,7 +1549,7 @@ graph
     commentcount 1452
     duration "PT11M12S"
     indegree 6
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1557,7 +1557,7 @@ graph
     label "6O4xvklv2xU"
     step 0
     date "2022-03-02T22:52:37Z"
-    title "&#38;quot;the highest quality NFTs you&#38;#39;ll ever see&#38;quot;"
+    title ""
     description "Pixelmon NFT was supposed to be the largest and greatest game to ever grace the metaverse. &#10;But after raising $70,000,000 things are looking ROUGH. &#10;&#10;Follow Coffeezilla: &#10;&#9658; Twitter: https://twitter.com/coffeebreak_YT&#10;&#9658; Instagram: https://www.instagram.com/coffeebreak_yt/&#10;&#127926; Music: https://www.youtube.com/watch?v=nMSQ1yoPT2c&#38;list=PL4qw3AkxFDSNhEgawXD1j6r0iN1072XIB&#38;index=1&#10;Credits: &#10;3D Artist: Ed Leszczynski https://www.instagram.com/ed_leszczynski/&#10;Video Editor: Harry Bagg  https://twitter.com/HarryBagg96&#10;Virtual Production Software: Aximmetry https://aximmetry.com/&#10;&#10;This video is an opinion and in no way should be construed as statements of fact. Scams, bad business opportunities, and fake gurus are subjective terms that mean different things to different people. I think someone who promises $100K/month for an upfront fee of $2K is a scam. Others would call it a Napoleon Hill pitch."
     channeltitle "Coffeezilla"
     channelid "UCFQMnBA3CS502aghlcr0_aw"
@@ -1567,7 +1567,7 @@ graph
     commentcount 1509
     duration "PT8M1S"
     indegree 1
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 303
     duration "PT19M12S"
     indegree 8
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 9793
     duration "PT1H41M49S"
     indegree 8
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 2985
     duration "PT1M23S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1647,7 +1647,7 @@ graph
     label "LAdpa0iJWtM"
     step 0
     date "2022-07-08T14:00:09Z"
-    title "Crypto Exchange BANKRUPT &#38;amp; HUGE NFT News | The Littles, The Parallax NFT, FEW NFTs, Adam Bomb Squad"
+    title "Crypto Exchange BANKRUPT HUGE NFT News | The Littles, The Parallax NFT, FEW NFTs, Adam Bomb Squad"
     description "BREAKING NFT News &#38; Crypto News with Top NFT Projects to Buy (The Littles NFTs, The Parallax NFTs, NFTEye NFT Tool, Adam Bomb Squad NFTs, Zenogakki NFTs)&#10;&#10;The Parallax Opensea: https://opensea.io/collection/theparallaxgenesis&#10;The Parallax Twitter: https://twitter.com/TheParallaxHQ&#10;The Parallax Discord: https://discord.gg/theparallax&#10;Patrick Dang Twitter: https://twitter.com/patrickdang&#10;&#10;Subscribe to The Parallax: https://www.youtube.com/theparallaxhq?sub_confirmation=1&#10;&#10;0:00 Crypto Exchange BANKRUPT &#38; Top NFT News | The Littles, The Parallax NFTs, FEW NFTs, Adam Bomb Squad&#10;0:14 Crypto Exchange BANKRUPT&#10;2:23 NFT Market Update&#10;3:38 NFT News: Nothing Phone NFT AirDrop&#10;5:40 Upcoming NFT Projects: FEW NFT - Paradigm NFT&#10;6:42 NFTs News: The Littles NFT AMA&#10;7:57 The Parallax NFT - NFTEye NFT Tool&#10;9:18 NFT Project Update: Adam Bomb Squad NFT&#10;10:43 New NFT Project: Zenogakki NFT&#10;&#10;We'll cover the big crypto news about crypto exchanges going bankrupt. After that, we'll review current NFT market sentiment and how it affects NFT flipping, flipping NFTs, the best NFT projects. Then, we'll look at NFT News about Nothing Phone NFT drop. We'll then talk about upcoming NFT projects such as Forgotten Ethereal Worlds NFTs or Paradigm NFTs. Next, we'll discuss The Littles NFT, The Parallax NFTs, and the NFT TOol NFTEye. Finally, we'll close off with the NFT project update of Adam Bomb NFTs and the new NFT Zenogakki NFTs.&#10;&#10;#nfts #nft #crypto&#10;&#10;The Parallax is a media company committed to helping you navigate the new frontier of NFTs, Web3, and crypto.&#10;&#10;Disclaimer: The content expressed on The Parallax and by Patrick Dang is for educational and entertainment purposes only and should not be used as financial advice. Do your own research and consult with a professional financial advisor before making any financial decisions."
     channeltitle "The Parallax"
     channelid "UC8yPfDWbGGE7T66_eWJERZg"
@@ -1693,7 +1693,7 @@ graph
     commentcount 46
     duration "PT7M33S"
     indegree 1
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -1701,7 +1701,7 @@ graph
     label "GZFtVJJTW2U"
     step 0
     date "2022-04-17T16:26:01Z"
-    title "Jack Dorsey&#8217;s $2.9 Million NFT Auctions For $280!!"
+    title "Jack Dorseys $2.9 Million NFT Auctions For $280!!"
     description "The hottest new investment vehicle are so-called NFTs, short for &#8220;Non-Fungible Tokens.&#8221; An NFT of Twitter founder Jack Dorsey&#8217;s first tweet last year sold for $2.9 million, but an attempt to auction off the very same NFT recently brought in a high bid of only $280. Are NFTs a scam, and have people woken up to the realization that there&#8217;s virtually no difference between owning an NFT and owning nothing?&#10;&#10;Jimmy and American comedian Kurt Metzger discuss the rise of NFTs in an era of increased income inequality and vast wealth concentrated in few hands.&#10;&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;Go to a Live Show: https://jimmydorecomedy.com/tour &#10;Subscribe to Our Newsletter: https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;The Jimmy Dore Show Website:  https://jimmydorecomedy.com/&#10;&#10;Kurt Metzger on Twitter: https://twitter.com/kurtmetzger&#10;Kurt&#8217;s website: http://www.KurtMetzgerComedy.com&#10; &#10;LIVESTREAM &#38; LIVE SHOW ANNOUNCEMENTS: &#10;Join the Email list:  https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;Twitter: https://twitter.com/jimmy_dore&#10;Facebook:  https://www.facebook.com/JimmyDoreShow&#10;Instagram: https://www.instagram.com/thejimmydoreshow&#10; &#10;WATCH / LISTEN FREE:&#10;Videos: https://jimmydorecomedy.com/watch &#10;&#10;Podcasts: https://jimmydorecomedy.com/podcasts &#10;(Also available on iTunes, Apple Podcasts, Spotify, Google Podcasts, or your favorite podcast player.)&#10; &#10;ACCESS TO FULL REPLAYABLE LIVESTREAMS:&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;&#10;SUPPORT THE JIMMY DORE SHOW:&#10;Make a Donation:  https://jimmydorecomedy.com/donate&#10;Buy Official Merch (Tees, Sweatshirts, Hats, Bags):  https://jimmydorecomedy.com/store&#10; &#10;DOWNLOAD OUR MOBILE APP:&#10;App Store: https://apps.apple.com/us/app/jimmy-dore/id839294547&#10;Google Play: https://play.google.com/store/apps/details?id=com.jimmydore.jimmydore&#10;&#10;Jimmy Dore on Twitter: https://twitter.com/Jimmy_Dore&#10;Stef Zamorano on Twitter: https://twitter.com/miserablelib&#10;&#10;About The Jimmy Dore Show:&#10;#TheJimmyDoreShow is a hilarious and irreverent take on news, politics and culture featuring Jimmy Dore, a professional stand up comedian, author and podcaster. The show is also broadcast on Pacifica Radio Network stations throughout the country."
     channeltitle "The Jimmy Dore Show"
     channelid "UC3M7l8ved_rYQ45AVzS0RGA"
@@ -1729,7 +1729,7 @@ graph
     commentcount 485
     duration "PT12M33S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1747,7 +1747,7 @@ graph
     commentcount 1854
     duration "PT3M26S"
     indegree 9
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 4657
     duration "PT20M5S"
     indegree 68
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1791,7 +1791,7 @@ graph
     label "LN61jzaYlIY"
     step 0
     date "2022-01-14T06:30:14Z"
-    title "How to Create &#38;amp; Sell Your NFT ! Easiest Method ! (Hindi)"
+    title "How to Create Sell Your NFT ! Easiest Method ! (Hindi)"
     description "Aaj NFTs ke baare me baat ki hai .. NFT kya hota hai , kaise kaam karta hai ? kaise aap apna NFT bana sakte ho , kaise sell kar sakte ho ....kaise paise kama sakte ho ...&#10;I Hope you like the vdieo and if you do , dont hesitate to LIke and Subscribe :)&#10;&#10;Part 2 - Confusions around NFT's - https://youtu.be/cPiQPTtyQfI&#10;&#10;Best Buy Link - https://amzn.to/3hA6a7K&#10;&#10;Best Laptops Under 40K&#10;Asus Vivobook - https://amzn.to/2S1aR1D&#10;Lenovo S145 - https://amzn.to/3p85vhu&#10;HP 15 2021 - https://amzn.to/34ymWhK&#10;Acer Aspire 5 -https://amzn.to/34zL4jK&#10;Dell Inspiron 3501 - https://amzn.to/2SJrmzm&#10;&#10;Follow Karlo Doston &#10;Instagram  - https://www.instagram.com/thesarcasticsindhi/&#10;Twitter - https://twitter.com/sarcastecsindhi&#10;Telegram - https://t.me/thesarcasticsindhi&#10;Blog Website - https://sarcasticsindhi.com/&#10;&#10;Brand Collabs - Hello@sarcasticsindhi.com&#10;&#10;Stay Safe Stay Sarcastic !&#10;#NFT #createnft #sellnft #opensea #wazirx"
     channeltitle "Sarcastic Sindhi"
     channelid "UCg0hjntziS1RJPiebG5wAaw"
@@ -1801,7 +1801,7 @@ graph
     commentcount 2298
     duration "PT13M54S"
     indegree 58
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 773
     duration "PT24M20S"
     indegree 9
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1827,7 +1827,7 @@ graph
     label "5dAZTvbmZZ4"
     step 0
     date "2021-03-11T21:32:30Z"
-    title "Explaining NFTs As Simple as Possible in Under 60 Seconds #Shorts"
+    title "E tongue sticking out laining NFTs As Simple as Possible in Under 60 Seconds #Shorts"
     description "While NFTs are a relatively new technology for many, the major groundwork for how NFTs function has existed and been used by people for a considerably decent amount of time. If you have ever bought a character skin in a game like Fortnite or Counter-Strike, you have essentially experienced what it is like to buy an NFT and why there is value in owning &#34;digital goods&#34;. The ability to have self-expression and &#34;show-off&#34; your cool skins to your friends are the very same appeals people have with NFTs. Not to mention all the real world benefits that will be attached to NFTs like free burritos from chipotle if you own the gold burrito NFT! #Shorts&#10;&#10;&#8212;&#10;Thanks for watching!&#10;Check out another series on my channel:&#10;Tea With GaryVee (Fan Q&#38;A Series): https://youtube.com/playlist?list=PLfA33-E9P7FBahSYlSAjOMGsuRPLMWWEO&#10;Overrated Underrated (Hot-takes on Culture): https://youtu.be/TUSNSqA62uI&#10;Gary Vaynerchuk Original Films: https://youtube.com/playlist?list=PLfA33-E9P7FAvnrOcgy4MvIcCXxoyjuku&#10;Trash Talk: https://youtube.com/playlist?list=PLfA33-E9P7FDelN4bXFgtJuczC9HHmm2-&#10;WeeklyVee: https://youtube.com/playlist?list=PLfA33-E9P7FBPjdQcF6uedz9fdk8XKn-b&#10;&#8212; &#10;Gary Vaynerchuk is one of the world&#8217;s leading marketing experts, a New York Times bestselling author, and the chairman of VaynerX, a modern day communications company and the active CEO of VaynerMedia, a contemporary global creative and media agency built to drive business outcomes for their partners. He is a highly popular public speaker, and a prolific investor with investments in companies such as Facebook, Twitter, Tumblr, Venmo, Coinbase, Slack, and Uber. Gary is a board/advisory member of Bojangles&#8217; Restaurants, MikMak, Pencils of Promise, and is a longtime Well Member of Charity:Water. He&#8217;s also an avid sports card investor and collector. He lives in New York City."
     channeltitle "GaryVee"
     channelid "UCctXZhXmG-kf3tlIXgVZUlw"
@@ -1837,7 +1837,7 @@ graph
     commentcount 2613
     duration "PT1M"
     indegree 5
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 2618
     duration "PT30M41S"
     indegree 33
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1863,7 +1863,7 @@ graph
     label "WzXGjAhYNPI"
     step 0
     date "2022-07-12T08:00:21Z"
-    title "The Metaverse and NFT&#38;#39;s - The Search #19"
+    title "The Metaverse and NFTs - The Search #19"
     description "NFT's, Crypto, and the Metaverse - The Search #19 - James Hennessy&#10;&#10;James Hennessey is the former editor of Business Insider Australia and also writes for a number of publications such as The Guardian, SBS, ABC, Yahoo!Finance on topics including politics, culture and technology.&#10;&#10;Episode Sponsor: Get 20% Off and Free Shipping at https://www.manscaped.com/ when you use the code THESEARCH at checkout.&#10;&#10;Order Spanian's Autobiography 'The Unfiltered Hood Life': &#10;https://ffm.bio/spanian&#10;&#10;Listen To 'The Search' Podcast Here:&#10;https://podcasts.apple.com/us/podcast...&#10;https://open.spotify.com/show/4Vm8MMH...&#10;https://podcasts.google.com/feed/aHR0...&#10;&#10;Follow James Hennessy: &#10;https://twitter.com/jrhennessy&#10;https://www.theterminal.info/&#10;https://www.pedestrian.tv/author/james-hennessy/&#10;&#10;Follow Spanian:&#10;https://www.youtube.com/channel/UCecA...&#10;https://open.spotify.com/artist/60Erm...&#10;https://www.instagram.com/spanian.off...&#10;https://www.tiktok.com/@spanian_offic...&#10;https://www.facebook.com/spanian.offi...&#10;https://www.spanianofficial.com/"
     channeltitle "Spanian"
     channelid "UCecAIXPb5KTJz5BFnUzlTaA"
@@ -1873,7 +1873,7 @@ graph
     commentcount 152
     duration "PT57M36S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1881,7 +1881,7 @@ graph
     label "SCBYcWeC-ew"
     step 0
     date "2022-04-15T20:39:10Z"
-    title "Auction for NFT of Jack Dorsey&#38;#39;s first tweet extended after top bid of $280"
+    title "Auction for NFT of Jack Dorseys first tweet extended after top bid of $280"
     description "The man who bought an NFT of Twitter co-founder Jack Dorsey's first tweet is trying to sell it. He purchased it for $2.9 million, but the resale auction initially closed with a top bid of just $280. CBS News tech reporter Dan Patterson explains why the value is dropping and what this says about the NFT market.&#10;&#10;#News #NFT&#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews&#10;Watch CBS News: https://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: https://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: https://facebook.com/cbsnews&#10;Follow CBS News on Twitter: https://twitter.com/cbsnews&#10;Subscribe to our newsletters: https://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -1909,7 +1909,7 @@ graph
     commentcount 542
     duration "PT10M6S"
     indegree 18
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 313
     duration "PT10M20S"
     indegree 10
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1945,7 +1945,7 @@ graph
     commentcount 59
     duration "PT3M56S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 1044
     duration "PT4M44S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1971,7 +1971,7 @@ graph
     label "Arvu-vVtZAQ"
     step 0
     date "2022-06-24T15:15:24Z"
-    title "THIS IS HUGE!! | NFT Market Update | Cristiano Ronaldo NFTs &#38;amp; Uniswap NFT Marketplace"
+    title "THIS IS HUGE!! | NFT Market Update | Cristiano Ronaldo NFTs Uniswap NFT Marketplace"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;Doodles Event Livestream: https://www.instagram.com/p/CfF6DqcpV3S/&#10;&#10;News Articles Mentioned in the Video:&#10;Uniswap NFT Marketplace: https://uniswap.org/blog/genie&#10;Ledger NFT Marketplace: https://www.coindesk.com/business/2022/06/22/ledger-launches-nft-marketplace-and-services-platform-for-enterprises/&#10;Cristiano Ronaldo NFTs: https://twitter.com/Cristiano/status/1539972040291061765&#10;Wechat Bans: https://cointelegraph.com/news/china-s-wechat-bans-crypto-and-nft-related-accounts&#10;&#10;0:00 - 1:39 Intro&#10;1:40 - 6:42 NFT Market Update&#10;6:43 - 8:56 Uniswap NFT Marketplace&#10;8:57 - 11:05 Ledger NFT Marketplace&#10;11:06 - 13:13 Cristiano Ronaldo NFTs&#10;13:14 - 19:28 NFT NYC Events &#38; Mega Mutant&#10;19:29 - 21:28 Wechat Bans NFT Accounts&#10;21:29 - 22:29 Final Thoughts&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -1999,7 +1999,7 @@ graph
     commentcount 2728
     duration "PT45M6S"
     indegree 2
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2025,7 +2025,7 @@ graph
     label "cLB7u0KQFIs"
     step 0
     date "2022-03-18T14:01:51Z"
-    title "BEST NFT Collection Minting Site (dApp) - Entire Process! Whitelist &#38;amp; Launch a Collection (10,000+)"
+    title "BEST NFT Collection Minting Site (dApp) - Entire Process! Whitelist Launch a Collection (10,000+)"
     description "You can now use this method to deploy to Ethereum!! &#128073; https://youtu.be/-EB2TTQxSWc&#10;&#10;Get your FREE NFTPort API key at https://nftport.xyz&#10;&#10;Get on the waitlist for the cbirdz.xyz collection: &#10;&#9654; https://cbirdz.xyz&#10;&#129489;&#127998;&#8205;&#129309;&#8205;&#129489;&#127997; Join my Discord community: https://discord.gg/A9CnsVzzkZ&#10;&#11088; GitHub Repo Source Code: https://github.com/codeSTACKr/minter-dapp&#10;&#10;Check out the collection I made:&#10;&#9654; https://cbirdz.xyz&#10;&#9654; OpenSea: https://bit.ly/CodeCats&#10;&#10;** This is a new video demonstrating the process for creating an NFT collection, setting up a waitlist/whitelist, and deploying a minting dapp (website). NO CODING REQUIRED! **&#10;&#10;No coding experience? No problem! We will get you from nothing to an entire collection of 10,000 Unique NFTs in no time! Let's get started!&#10;&#10;There are a bunch of tutorials on YouTube about how to create NFT collections, but none of them show you the ENTIRE process. &#10;&#10;In this video, I'm going to show you how to create an NFT collection, create a waitlist/whitelist, and deploy a minting dapp, even if you have ZERO coding knowledge!&#10;&#10;By the end of this video, you'll have a website where anyone can mint your NFTs!!&#10;&#10;In this video, we are going to dive head first into cryptocurrencies, NFTs, and minting. And I don't expect you to have any prior knowledge of any of this. We are going to go step-by-step through the entire process!&#10;&#10;I'm going to explain what blockchain and NFTs are and give you some context and background first. If you're already familiar with that and you want to go straight to the good stuff, I have chapter markers setup for you, just skip ahead to whatever section you want.&#10;&#10;&#128218; RESOURCES &#128218;&#10;&#10;&#11088; GitHub Repo Source Code: https://github.com/codeSTACKr/minter-dapp&#10;&#129489;&#127998;&#8205;&#129309;&#8205;&#129489;&#127997; Join my Discord community: https://discord.gg/A9CnsVzzkZ&#10;&#9654;  @HashLips NFT  YouTube: https://www.youtube.com/c/HashLipsNFT&#10;&#9654; NFTPort: https://nftport.xyz&#10;&#9654; Mac M1 Issue: https://github.com/HashLips/hashlips_art_engine/issues/812&#10;&#10;&#127909; VIDEOS &#127909;&#10;&#10;&#9654; How to Create NFT Layers in Photoshop or Figma: https://youtu.be/k72aCI1VyKM&#10;&#9654; NFT Playlist: https://www.youtube.com/playlist?list=PLkwxH9e_vrAI-654ymN4JDhMmMUge04WK&#10;_____________________________________&#10;&#10;&#129464; Become A VS Code SuperHero Today: https://vsCodeHero.com&#10;_____________________________________&#10;&#10;&#128736;&#65039; Tools I use:&#10;&#128992; codeSTACKr VS Code Theme: https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme&#10;&#128992; STACKr Code Font (Exclusive to my VS Code Course - https://vsCodeHero.com)&#10;&#128992; SuperHero Extension Pack: https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions&#10;_____________________________________&#10;&#10;&#9201;&#65039; Timestamps &#9201;&#65039;&#10;00:00 - Intro&#10;01:38 - Create Image Layers&#10;03:45 - Generate Unique Images from Layers&#10;16:59 - NFTPort API&#10;17:50 - NFTPort Configuration Settings&#10;26:02 - Create Generic Metadata (Optional)&#10;26:59 - Upload Images and Metadata to IPFS&#10;28:54 - Deploy Collection Contract&#10;31:05 - Commands to Update the Contract after Deployment&#10;34:18 - Strategies&#10;35:07 - Deploy Minting dapp&#10;36:34 - Deploy dapp to Netlify&#10;40:21 - Customize the Landing Page&#10;46:24 - Step Though Minting Process Stages&#10;57:39 - Mint For Real now on Polygon!&#10;_____________________________________&#10;&#10;&#128150; Show support!&#10;PayPal: https://paypal.me/codeSTACKr&#10;_____________________________________&#10;&#10;&#128064; Watch Next:&#10;Playlist: Web Development For Beginners - https://www.youtube.com/watch?v=Ez4yHS2dsN8&#38;list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&#10;_____________________________________&#10;&#10;&#127760; Connect With Me:&#10;Website: https://www.codestackr.com&#10;Twitter: https://twitter.com/codeSTACKr&#10;Instagram: https://instagram.com/codeSTACKr&#10;Facebook: https://facebook.com/codeSTACKr&#10;_____________________________________&#10;&#10;** Affiliate Disclaimer: Some of the above links may be affiliate links, which may generate me a sales commission at no additional cost to you.&#10;&#10;#GenerativeArt #NFT #Crypto"
     channeltitle "codeSTACKr"
     channelid "UCDCHcqyeQgJ-jVSd6VJkbCw"
@@ -2035,7 +2035,7 @@ graph
     commentcount 843
     duration "PT1H20S"
     indegree 11
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 1566
     duration "PT12M29S"
     indegree 5
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 30
     duration "PT15M52S"
     indegree 1
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -2079,7 +2079,7 @@ graph
     label "4h3eU99dTb0"
     step 0
     date "2022-02-16T11:45:00Z"
-    title "How to Create NFT Art Sinhala  | How to Generate  NFTs   | How to List NFTs for Free"
+    title "How to Create NFT Art Sinhala | How to Generate NFTs | How to List NFTs for Free"
     description "&#128071;&#128071;&#129297;NFT  Non Fungible Tokens How to Create NFT Art How To Make Money From NFT&#10;&#10;sl Tutorial WhatsApp number  0763153018 &#10;&#10;1 &#3508;&#3535;&#3497;&#3512; -   https://youtu.be/-iS7bFhcaXU&#10;&#10;2  &#3508;&#3535;&#3497;&#3512; -  https://youtu.be/vCpKZ33qdwg&#10;&#10;3  &#3508;&#3535;&#3497;&#3512; - https://youtu.be/4h3eU99dTb0&#10;&#10;&#128071;&#128071; cryptocurrency &#3505;&#3548;&#3512;&#3538;&#3517;&#3546; &#3508;&#3535;&#3496;&#3512;&#3535;&#3517;&#3535;&#3520;&#3495; &#3512;&#3545;&#3501;&#3505;&#3538;&#3505;&#3530;&#3523; &#3524;&#3511;&#3535;&#3484;&#3539; &#3520;&#3505;&#3530;&#3505;  &#128071;&#128071;&#10;  &#10;    https://www.youtube.com/channel/UCGvOBd2LlJRttE78QiUgo3g&#10;&#10;#nft #nftsinhala #MakeMoney"
     channeltitle "SL Tutorial"
     channelid "UCNaR7-sv4f_kBWXX4yAeUMA"
@@ -2089,7 +2089,7 @@ graph
     commentcount 77
     duration "PT29M55S"
     indegree 4
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 3542
     duration "PT1M35S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2115,7 +2115,7 @@ graph
     label "bp-LSmD-gAI"
     step 0
     date "2022-01-28T09:00:31Z"
-    title "How to Create &#38;amp; Sell your first [NFT] | Crypto Art&#127912; Tutorial | Step by Step (Under 10 minutes)"
+    title "How to Create Tutorial | Step by Step (Under 10 minutes)"
     description "In this video, I will be sharing a complete step-by-step guide about how to create &#38; sell your first [NFT] (Under 10 minutes).&#10;NFT is a non-fungible token, I have already created a video on this. &#10;https://youtu.be/XCQOPsyp9Q0&#10;&#10;You will learn how to create an NFT for free, how to sell an NFT, and what are the basic requirements for making and selling NFT's. It's basically a Crypto Art&#127912; Tutorial for everyone who wants to earn money from NFT's&#10;&#10;Watch the video to learn more about NFT's, what is metaverse, what is all this hipe, and how you can make money with all this.&#10;&#10;#NFT #Metamask #CryptoArt&#10;&#10;Subscribe to my Youtube Channel: https://www.youtube.com/azadchaiwala&#10;&#10;FaceBook: https://Facebook.com/AzadChaiwala&#10;TikTok: https://vm.TikTok.com/x9nHhx/&#10;Instagram: https://Instagram.com/AzadChaiwala&#10;Twitter: https://Twitter.com/AzadChaiwala&#10;&#10;Watch My Life Story&#10;AZAD CHAIWALA kon hai? | How I Became a Millionaire | My Life's Story!&#10;https://youtu.be/8LHUQNvwEls&#10;&#10;Contact: Admin@Chaiwala.com&#10;&#10;&#10;- Learn A New Life-Changing Skill From My Institute: http://AzadChaiwala.pk"
     channeltitle "Azad Chaiwala"
     channelid "UCM5QNdoIefx6eumjPk8ZTMw"
@@ -2125,7 +2125,7 @@ graph
     commentcount 1490
     duration "PT11M58S"
     indegree 25
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2133,7 +2133,7 @@ graph
     label "NI1ztGlXC2A"
     step 0
     date "2022-02-02T23:00:20Z"
-    title "The BEST NFT Flipping Strategy in 2022 (GET IN EARLY)  - BEGINNERS TRADING GUIDE &#38;amp; LESSONS"
+    title "The BEST NFT Flipping Strategy in 2022 (GET IN EARLY) - BEGINNERS TRADING GUIDE LESSONS"
     description "&#128273; YMH KEY on OpenSea: https://opensea.io/collection/nostalgia-by-ymh&#10;&#128293; YMH Discord: https://discord.gg/ymhnft&#10;&#10;&#10;Reach me!&#10;&#187; Twitter: https://twitter.com/SheldonEvans&#10;&#187; Instagram: https://www.instagram.com/sheldonevansx&#10;&#10;#cryptocurrency #ethereum #bitcoin #eth #btc&#10;&#10;Disclaimer: &#10;The content covered on this channel is NOT to be considered as investment advice. &#10;I&#8217;m NOT a financial adviser. These are only my own speculative opinions, ideas and theories/hypotheses on the market. &#10;The technical analysis on this channel is completely speculative and does NOT guarantee any specific result or profit. &#10;The technical analysis on this channel has NO proven rate of accuracy and past performance is NOT indicative of future results. &#10;Do NOT trade or invest based upon the analysis presented on this channel. Always do your own research and due diligence before investing or trading. I&#8217;ll never tell you what to do with your capital, trades or investments. I&#8217;ll also never recommend for you to buy, sell, long or short any asset, commodity, security, derivative or cryptocurrency related instrument as it's extremely HIGH RISK! You should always consult with a professional/licensed financial adviser before trading or investing in any cryptocurrency related product."
     channeltitle "Sheldon Evans"
     channelid "UCZ3fejCy_P5xhv9QF-V6-YA"
@@ -2143,7 +2143,7 @@ graph
     commentcount 1036
     duration "PT13M20S"
     indegree 1
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 1807
     duration "PT46M57S"
     indegree 4
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2169,7 +2169,7 @@ graph
     label "fW4TaB91SHM"
     step 0
     date "2022-07-07T14:00:30Z"
-    title "INSANE NFT SCAM &#38;amp; Upcoming NFTs Mint | Project Godjira, Clone X, Memeland NFT, The Parallax NFT News"
+    title "INSANE NFT SCAM Upcoming NFTs Mint | Project Godjira, Clone X, Memeland NFT, The Parallax NFT News"
     description "Discover Upcoming NFTs to Mint in July &#38; HUGE NFT News about Project Godjira NFTs, Clone X NFTs, Memeland NFTs, BF Party NFTs, Nickelodeon NFTs, Degen Town NFTs, The Parallax NFTs.&#10;&#10;The Parallax Opensea: https://opensea.io/collection/theparallaxgenesis&#10;The Parallax Twitter: https://twitter.com/TheParallaxHQ&#10;The Parallax Discord: https://discord.gg/theparallax&#10;Patrick Dang Twitter: https://twitter.com/patrickdang&#10;&#10;Subscribe to The Parallax: https://www.youtube.com/theparallaxhq?sub_confirmation=1&#10;&#10;0:00 INSANE NFT SCAM &#38; Upcoming NFTs Mints | Project Godjira BULLISH, Clone X, Memeland NFT, The Parallax NFT News &#10;0:10 NFT News: NFT SCAM&#10;1:26 NFT Project Updates: Clone X NFT - RTFKT Studios NFT&#10;2:54 Upcoming NFT Mint: BF Party NFT&#10;4:20 Upcoming NFT Mint: Nickelodeon NFT - Rugrats NFT / Hey Arnold NFT&#10;6:06 Solana NFT Projects: Degen Town NFT&#10;7:03 Crypto News: Solana Mobile&#10;9:09 NFT Projects Update: Project Godjira NFT&#10;10:28 New NFT Project: Real MVP NFT - 9gag NFT&#10;&#10;We'll talk about an NFT scam in NFT news and cover our new NFT project The Parallax NFTs. After that, we'll look at Clone X NFT or RTFKT NFTs to see why it's one of the best NFT to buy right now. Then, we'll cover upcoming NFT Mint BF Party and Nickelodeon NFT. Next, we'll look at Solana NFT project Degen Town NFTs to see if it's good for NFT flipping or flipping NFTs. Then, we'll talk about Solana Mobile, Project Godjira IRL Meet. Finally, we'll review You the Real MVP NFT by 9gag NFT or Memeland NFT. &#10;&#10;#nfts #clonex #nfts &#10;&#10;The Parallax is a media company committed to helping you navigate the new frontier of NFTs, Web3, and crypto.&#10;&#10;Disclaimer: The content expressed on The Parallax and by Patrick Dang is for educational and entertainment purposes only and should not be used as financial advice. Do your own research and consult with a professional financial advisor before making any financial decisions."
     channeltitle "The Parallax"
     channelid "UC8yPfDWbGGE7T66_eWJERZg"
@@ -2187,7 +2187,7 @@ graph
     label "I-Gri991SDQ"
     step 0
     date "2022-02-05T07:30:02Z"
-    title "NFT Explained !! How Some STUDENTS are Earning Crore in NFT.  3 Way of Making MONEY with NFTs"
+    title "NFT E tongue sticking out lained !! How Some STUDENTS are Earning Crore in NFT. 3 Way of Making MONEY with NFTs"
     description "3 Way of Making MONEY with NFTs. NFT EXPLAINED !! How Some STUDENTS are Making Crore in NFT. &#10;&#10;Hi Friends,&#10;&#10;In this video we have explained about NFTs. I have also explained various ways by which many people are making huge money from NFTs. &#10;&#10;NFT Kya hai :- https://www.deepawali.co.in/nft-kya-hain-hindi-kaise-kaam-karta-hain-uses-benefits-drawbacks.html&#10;&#10;You have Landed on right Place if You are Looking for.&#10;1) What is NFT&#10;2) How can we make money using NFTs&#10;3) Real Life NFT Example&#10;4) NFT ki Price &#10;5) NFT Pricing&#10;6) Fraud in NFTs&#10;7) NFT Full Form and NFT Meaning&#10;8) NFT Explained with Example&#10;9) Most Expensive NFT&#10;10) NFT Marketplace&#10;11) NFT Monkey&#10;12) NFT Crypto&#10;13) NFT MetaVerse&#10;14) NFT Ape&#10;&#10;===========================================&#10;&#9989;  Best Affordable Hosting :- https://bit.ly/3qOKVTP&#10;&#10;&#9989; Link to Open Upstox DMAT account&#10; https://upstox.com/open-account/?f=2PAT9J&#10;==================================================================&#10;Free Blogging Course Sample Blog - https://pmmodiyojana.org/&#10;Start Your New Blog :- https://www.deepawaliseotips.com/start-a-blog/&#10;Free Blog review Form :- https://www.deepawaliseotips.com/free-blog-review/&#10;Free Blogging Course All Videos :-  https://www.deepawaliseotips.com/free-blogging-course-hindi-pavan-agrawal/&#10;=====================================================&#10;Please Join us on.&#10;1) Instagram https://www.instagram.com/blogwithpavan/&#10;2) Telegram - https://t.me/earnwithpavan&#10;3) Linkedin - https://www.linkedin.com/in/pavan-agrawal-4a549396/&#10;=================================================&#10;&#9989;  Our recommended Hosting&#10;1) Cheapest Hosting :- https://bit.ly/3qOKVTP&#10;&#10;&#9989; 2) Use This Link to Buy Hostinger Hosting&#10;https://www.hostinger.in/seopavan&#10;Your coupon code and get additional discount: SEOPAVAN&#10;&#10;If You have bought Hosting from our affiliate link then please send us this invoice at akonline.pavan104@gmail.com. I will add you in an elite group who have bought hosting from us. Apart from the discount that you have got we will provide you many valuable things.&#10;==========================================================&#10;&#9989;  If You Want To Earn Money There Many Ways Few of them are&#10;By Making a Blog :- https://www.deepawaliseotips.com/start-a-blog/&#10;Learn Blogging in my Free Blogging Course  https://www.deepawaliseotips.com/free-blogging-course-hindi-pavan-agrawal/&#10;&#10;&#9989;   By Investing in Stock Market - &#10;Link to Open Upstox DMAT account&#10; Rs1000 Brokerage Credit [Limited Time Offer]&#10;https://upstox.com/open-account/?f=2PAT9J&#10;================================================================&#10;Some of the above-mentioned links will be my affiliate links. If you wish to support me, please signup using my links. I'd be genuinely grateful to you &#128578;&#10;&#10;Time Stamp&#10;00:00 Teaser&#10;00:40 Amitabh Bachhan and Salmaan Khan Will Launch NFT&#10;01:52 NFT Kya hai&#10;03:35 Blockchain Vs Crypto&#10;04:20 48 Crore Ka NFT&#10;05:27 Blockchain Kya hai&#10;07:00 Blockchain Kyu Important hai&#10;09:09 48 Crore ka Ownersip Kaise define hogi&#10;09:29 Real World Me NFT Kaise Kaam Karta hai&#10;13:14 How Can We Make Money Using NFT&#10;17:52 NFT ki Price Kaise Pata Chalti hai&#10;22:51 NFT me Fraud Kaise hota hai"
     channeltitle "Learn and Earn with Pavan Agrawal"
     channelid "UCghwm6uwnvbjyQtZ8Az-Ivg"
@@ -2197,7 +2197,7 @@ graph
     commentcount 739
     duration "PT25M59S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2223,7 +2223,7 @@ graph
     label "451V-lBLfuo"
     step 0
     date "2022-02-15T13:47:52Z"
-    title "Why you can&#38;#39;t just screenshot an NFT"
+    title "Why you cant just screenshot an NFT"
     description "How can a JPEG cost money?&#10;Subscribe to see the next episode: https://www.youtube.com/cleoabram?sub_confirmation=1 &#10;&#10;The biggest question I hear about NFTs is: &#8220;Why can&#8217;t I just screenshot that?&#8221; Or, put another way, why does a digital image that can be copied have any value? The answer, it turns out, isn&#8217;t in an explainer about blockchain technology (you&#8217;re welcome). The answer to why NFTs have any value is hiding in the art market that came before them. Because NFTs are weird, but it turns out art is already even weirder. To really understand NFTs, we have to zoom out a bit, and talk about the incredibly strange way we value art to begin with. And that story starts not with crypto, but with a fight at an art auction in 1973&#8230;&#10;&#10;This video explains why a JPEG can cost money, and how expensive art led to NFTs. Along the way, I get help from two incredible experts: David Galperin, head of contemporary art for the Americas at Sotheby&#8217;s, and Alexis Ohanian, founder of Reddit and investor. &#10;&#10;David tells me about how the Scull Sale in 1973 exploded the art market forever, how Andy Warhol gave his silk screens to appropriation artist Elaine Sturtevant so she could copy his prints, and how Sol LeWitt&#8217;s wall drawings go for millions but the value is in &#8220;the certificate, not the drawing.&#8221; Alexis gives me a tour of his NFT collection (!), shows me the Cryptopunk (Serenapunk!) he gave to his wife Serena Williams, and explains how this technology has become a new medium for artists looking to the future. Together, we explore the big questions people are asking about NFTs and how the art world has grappled with those same questions for decades: What is value? Where does it come from? What is too much, for too little?&#10;&#10;00:00 Why do people buy NFTs?&#10;01:04 How are NFTs like contemporary art?&#10;03:41 Why is art so expensive?&#10;05:10 Is art just money laundering?&#10;06:07 Why do people buy NFTs?&#10;07:41 Are NFTs just a link to an image?&#10;08:47 Why do NFTs matter?&#10;10:24 How do I do sponsorships?&#10;&#10;Be featured in an episode - upload questions for me to answer! https://www.dropbox.com/request/Edocsb2kErpueQ7F9T1Q &#10;&#10;I tell different stories in different places:&#10;You can find me on TikTok here for short, fun explainers: https://www.tiktok.com/@cleoabram &#10;You can find me on Instagram here for more personal stories: https://www.instagram.com/cleoabram &#10;You can find me on Twitter here for thoughts and curated news: https://twitter.com/cleoabram &#10;&#10;Bio:&#10;Cleo Abram is an Emmy-nominated video producer and journalist. Cleo produces detailed explainer stories about technology and economics. She wrote the Coding and Diamonds episodes of Vox&#8217;s Netflix show, Explained, was the host and a senior producer of Vox&#8217;s first ever daily show, Answered, as well as a host and producer of Vox&#8217;s YouTube Originals show, Glad You Asked. She now makes her own independent show, Huge If True. Each episode takes on one big technology innovation or idea, explains what it is, and helps people imagine the ways it could improve the world we live in by answering one simple question: If this works, what could go right?&#10;&#10;Sources and additional reading: &#10;- &#8220;The $12 Million Stuffed Shark: The Curious Economics of Contemporary Art,&#8221; Don Thompson https://us.macmillan.com/books/9780230620599/the12millionstuffedshark &#10;- &#8220;The Price of Everything&#8221; https://www.youtube.com/watch?v=iejpS_PpPJk&#38;ab_channel=HBO &#10;- &#8220;Museum of Forgeries,&#8221; MSCHF &#8203;&#8203;https://moforgeries.org/ &#10;- &#8220;Scull's U.S. Art Brings Record $2 Million,&#8221; New York Times, 1973 https://timesmachine.nytimes.com/timesmachine/1973/10/19/93293442.html?pageNumber=57 &#10;- &#8220;Screenshotting NFTS&#8221; Know Your Meme https://knowyourmeme.com/memes/screenshotting-nfts &#10;- &#8220;The Story of Contemporary Art,&#8221; Tony Godfrey https://mitpress.mit.edu/books/story-contemporary-art &#10;- &#8220;look what i made for you&#8221; GB &#8216;Doc&#8217; Burford https://docseuss.medium.com/look-what-i-made-for-you-apparently-while-i-am-not-a-dumbass-many-cryptobros-are-and-i-am-going-f6468c877acc &#10;- &#8220;Line Goes Up - The Problem With NFTs&#8221; Folding Ideas https://www.youtube.com/watch?v=YQ_xWvX1n9g&#38;t=1s&#38;ab_channel=FoldingIdeas &#10;- &#8220;Why people are buying cartoon cats on the blockchain&#8221; (my first ever Vox video, 2018!) https://www.youtube.com/watch?v=jGfvkjzLrNw&#38;t=304s&#38;ab_channel=Vox &#10;- &#8220;NFTs, Explained,&#8221; Johnny Harris https://www.youtube.com/watch?v=Oz9zw7-_vhM&#38;t=541s&#38;ab_channel=JohnnyHarris &#10;&#10;Vox: https://www.vox.com/authors/cleo-abram&#10;IMDb: https://www.imdb.com/name/nm10108242/ &#10;&#10;Gear I use: &#10;Camera: Sony A7SIII&#10;Lens: Sony 16&#8211;35 mm F2.8 GM&#10;Audio: Sennheiser SK AVX and Zoom H4N Pro&#10;&#10;Music: Musicbed&#10;&#10;Follow along for more episodes of Huge If True: https://www.youtube.com/cleoabram?sub_confirmation=1"
     channeltitle "Cleo Abram"
     channelid "UC415bOPUcGSamy543abLmRA"
@@ -2259,7 +2259,7 @@ graph
     label "cn8QgznNFpU"
     step 0
     date "2022-02-05T14:00:11Z"
-    title "NFT &#4120;&#4122;&#4154;&#4124;&#4141;&#4143;&#4124;&#4143;&#4117;&#4154;&#4123;&#4124;&#4146;? | Step by step guide for OpenSea"
+    title "NFT ? | Step by step guide for OpenSea"
     description "How to create an NFT and sell online? &#10;This is complete step by step guide of how to create you artwork to an NFT and sell on OpenSea.&#10;Many people still don't know what is an NFT. I introduced an easy explanatory of NFT too. Although this is a complete guide of how to create an NFT, this is not a deep dive blueprint of NFT mechanism. Instead, I make is very simple to understand by everyone. So, enjoy. And thanks to each one of you for your continuous support."
     channeltitle "Jimmy"
     channelid "UCpoFR09MdJu-gGzxaR2AATw"
@@ -2269,7 +2269,7 @@ graph
     commentcount 87
     duration "PT9M20S"
     indegree 1
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 59
     duration "PT6M25S"
     indegree 1
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 2209
     duration "PT13M41S"
     indegree 35
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2313,7 +2313,7 @@ graph
     label "XWQCD-TYXhA"
     step 0
     date "2021-05-23T03:30:06Z"
-    title "#NFT Explained in Hindi | How to #MakeMoney with Non Fungible Tokens? | Ethereum Blockchain"
+    title "#NFT E tongue sticking out lained in Hindi | How to #MakeMoney with Non Fungible Tokens? | Ethereum Blockchain"
     description "In this video, you will learn how to make money with #NFT(#NonFungibleToken) based on ethereum blockchain technology.&#10;&#10;If you want to Invest in Crypto Download CoinDCX App &#38; get &#8377;100 Free Bitcoin : &#10;https://bit.ly/OfferCrypto&#10;&#10;&#10;To Invest in stocks, &#10;&#10;Open Free Demat Account on Upstox: https://bit.ly/UpstoxAccountOffer&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;Fungible, Non Fungible 00:00&#10;Non Fungible Token 02:39&#10;Benifit to creator of NFT 03:38&#10;69 million art work by Beeple 04:12&#10;How to make NFT 06:24&#10;Endnote 07:58&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;&#10;About the Trainer :&#10;&#10;Master of Leadership Psychology, Pushkar Raj Thakur is one of the Most Influential Motivational Speaker &#38; Digital Entrepreneurship Coach in India. A SelfMade Millionaire on the Mission to Make India #GoSelfMade. Inspiring millions of people, he is regarded as the Youth Icon and the Change Expert.&#10;&#10;He has been featured in several publications such as The Times of India, Hindustan Times, etc. He trains on Success Mindset, Influencing People, Network Marketing, Leadership, Sales, Performance Acceleration, Wealth Creation, and Life Mastery.&#10;&#10;He is the Creator of his trademark Courses, &#8220;The Last Course for Your Best life&#8221;, &#8220;Bang On in Network Marketing&#8221;, &#8220;The Design of My Life&#8221; &#38; &#8220;The Fast Track Millionaire Course&#8221;.&#10;&#10;He is a Serial Entrepreneur and Founder of Coursedes Learning Solutions Pvt, India&#8217;s Leading E-Learning Platform committed to providing Self Help, Skills Development &#38; Income Oriented Training Courses by the Best Trainers in the Industry!&#10;&#10;He is the founder of PRT GLOBAL SOLUTIONS, which is a Peak Performance Training &#38; Development firm, providing Leadership &#38; Entrepreneurship Skills to Individuals &#38; Organisations to attain continuous growth &#38; acceleration in revenue generation &#38; overall brand enhancement.&#10;&#10;People love Pushkar Raj Thakur for his Electrifying Motivation and Life Transforming Wisdom. He is a Humorous and yet Thought Provoking Master of Motivation, a deadly combination in a Motivational Speaker! &#10;&#10;Caution: Getting into his Courses Immediately Leads to Change in Mental Framework and Chances for Success in any area of Life!&#10;&#10;Ask any question you have in the comments below or email:&#10;Info@coursedes.com&#10;&#10;Follow us on:&#10;Facebook: http://bit.ly/2TkyIYo&#10;&#10;Instagram: http://bit.ly/2FH6b7z&#10;&#10;Youtube:  http://bit.ly/2FLcZkp&#10;&#10;Twitter: http://bit.ly/2tcDOvd&#10;&#10;LinkedIn:http://bit.ly/2RfJWel&#10;&#10;http://www.pushkarrajthakur.com/&#10;&#10;To Join our Courses, Call @ 9999470710&#10;&#10;#GoSelfMadeUniversity"
     channeltitle "Pushkar Raj Thakur: Business Coach"
     channelid "UCEAAzv2OBqxsSczKJ2QZyGQ"
@@ -2323,7 +2323,7 @@ graph
     commentcount 1404
     duration "PT8M14S"
     indegree 23
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 2533
     duration "PT11M45S"
     indegree 6
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2367,7 +2367,7 @@ graph
     label "MudPwoMxjQI"
     step 0
     date "2022-01-21T15:00:12Z"
-    title "What is NFT? &#128640; &#3342;&#3353;&#3405;&#3353;&#3368;&#3398; &#3334;&#3379;&#3393;&#3349;&#3454; &#3370;&#3363;&#3330; &#3337;&#3363;&#3405;&#3359;&#3390;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3393;? All HIDDEN Possibilities Explained! &#128293; E10"
+    title "What is NFT? E10"
     description "In this video, as part of my comprehensive A-Z free learning course on Cryptocurrency Investment and Trading Basics in Malayalam, we learn all that you need to know about NFT - Non Fungible Tokens.&#10;&#10;#cryptocurrency #nft #nonfungibletokens&#10;&#10;00:48 Intro&#10;04:41 Understanding NFT&#10;09:40 Digital Artists in Crypto Space&#10;11:46 Problems faced by digital artists&#10;25:24 Why should you be interested in NFT?&#10;26:27 Are NFTs just JPEGs?&#10;&#10;Join the Telegram community for discussions&#10;Telegram Group - https://t.me/marketfeed_crypto&#10;&#10;Please like, share, support and subscribe at https://www.youtube.com/ShariqueSamsudheen :)&#10;&#10;WhatsApp - +91-98471 81078&#10;&#10;Instagram - sharique.samsudheen&#10;https://www.instagram.com/sharique.samsudheen/&#10;&#10;Like and follow on Facebook at https://www.facebook.com/sharqsamsu&#10;&#10;For Business Enquiries - sharique.samsudheen@gmail.com"
     channeltitle "Sharique Samsudheen"
     channelid "UC9CKy1ai9qI8p6_Oh0Qa3Rg"
@@ -2377,7 +2377,7 @@ graph
     commentcount 1203
     duration "PT44M41S"
     indegree 4
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 483
     duration "PT1H22M21S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 510
     duration "PT13M15S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2421,7 +2421,7 @@ graph
     label "pczpvTI8pzU"
     step 0
     date "2022-07-12T02:23:02Z"
-    title "Holder&#31038;&#21306;&#21453;&#23458;&#20026;&#20027;&#33021;&#21542;&#25327;&#25937;NFT&#22823;&#29066;&#24066;&#65311;Doodles/mfers/Mimic Shhans&#31038;&#21306;&#26368;&#26032;&#27963;&#21160;&#30424;&#28857;"
+    title "Holder"
     description "NFT Aerfa Twitter Space&#31995;&#21015;&#27963;&#21160;&#65306;https://twitter.com/NFT_Aerfa&#10;&#10;NFT Aerfa - The largest Asian NFT publisher and trader community: https://discord.gg/nftaerfa&#10;&#10;Fortune Dao Genesis - Membership Pass NFT created by NFT Aerfa: https://opensea.io/collection/fortune-dao-genesis&#10;&#10;NFA &#38; DYOR"
     channeltitle "NFT Aerfa"
     channelid "UCGQygNQntFHmzLsubpSkAOQ"
@@ -2431,7 +2431,7 @@ graph
     commentcount 4
     duration "PT24M4S"
     indegree 2
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 166
     duration "PT8M27S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2493,7 +2493,7 @@ graph
     label "1dZMHj1n3cQ"
     step 0
     date "2022-06-27T20:48:55Z"
-    title "INSANE NFT NEWS!! | NFT Market Update | Bored Ape Lawsuit &#38;amp; Grand Theft Auto P2E"
+    title "INSANE NFT NEWS!! | NFT Market Update | Bored Ape Lawsuit Grand Theft Auto P2E"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;News Articles Mentioned in the Video:&#10;Ebay Acquires KnownOrigin: https://techcrunch.com/2022/06/22/ebay-acquires-nft-marketplace-knownorigin/&#10;Shopify adds NFT Token-gated Experiences: https://twitter.com/Shopify/status/1539610289179660291&#10;12th Mega Mutant Ape: https://twitter.com/ptmNFT/status/1539090879583076358&#10;Uniswap NFT Marketplace: https://decrypt.co/103467/uniswap-labs-buying-ethereum-nft-aggregator-genie&#10;Ledger NFT Marketplace: https://www.coindesk.com/business/2022/06/22/ledger-launches-nft-marketplace-and-services-platform-for-enterprises/&#10;Eminem &#38; Snoop Dogg Bored Ape music video: https://decrypt.co/103757/snoop-dogg-and-eminem-become-bored-apes-in-new-music-video&#10;Cristiano Ronaldo NFTs: https://twitter.com/Cristiano/status/1539972040291061765&#10;Biggie NFT Collection: https://www.forbes.com/sites/joshwilson/2022/06/25/the-notorious-big-collection-and-the-marketing-of-nft-campaigns/?sh=736eebd35fe1&#10;Bentley NFT Collection: https://www.carscoops.com/2022/06/bentley-jumps-on-the-nft-bandwagon-first-offering-arrives-this-september/&#10;My Little Pony NFT Collection: https://thepopinsider.com/news/funko-my-little-pony-nfts/&#10;Bored Ape Yacht Club lawsuit: https://decrypt.co/103824/yuga-labs-lawsuit-accuses-ryder-ripps-of-scamming-consumers-with-fake-bored-apes&#10;Bored Ape Yacht Club x Rolling Stone: https://www.rollingstone.com/product-recommendations/lifestyle/rolling-stone-bored-ape-yacht-club-print-1368894/&#10;Magic Eden Raises $130 Million: https://decrypt.co/103403/solana-nft-marketplace-magic-eden-raises-130m-plans-multi-chain-expansion&#10;Doodles hires Pharrell Willaims: https://decrypt.co/103503/doodles-nfts-announces-pharrell-as-chief-brand-officer-fundraise-led-by-alexis-ohanian&#10;Doodles announces fundraising round: https://decrypt.co/103503/doodles-nfts-announces-pharrell-as-chief-brand-officer-fundraise-led-by-alexis-ohanian&#10;Moonpay launches Hypermint: https://www.cnbc.com/2022/06/21/crypto-start-up-moonpay-in-nft-deal-with-universal-fox.html&#10;Wechat bans NFT Accounts: https://cointelegraph.com/news/china-s-wechat-bans-crypto-and-nft-related-accounts&#10;Blankos Block Party Epic Games: https://decrypt.co/103561/blankos-block-party-nft-game-epic-games-store&#10;GTA 6 Crypto Rumors: https://screenrant.com/gta-6-rockstar-release-date-2024-leak/&#10;&#10;0:00 - 1:29 Intro&#10;1:30 - 6:54 Weekly NFT News&#10;6:55 - 8:00 Top NFT Sales in the past week&#10;8:01 - 11:36 Grand Theft Auto 6 Cryptocurrency System&#10;11:37 - 16:56 NFT Market Data &#38; Analytics&#10;16:57 - 18:17 Upcoming NFT Projects releasing this week&#10;18:18 - 24:37 NFT Trends (Otherdeeds, ENS Domains)&#10;24:38 - 25:40 Outro&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -2521,7 +2521,7 @@ graph
     commentcount 110
     duration "PT13M24S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2529,7 +2529,7 @@ graph
     label "XCQOPsyp9Q0"
     step 0
     date "2022-01-13T09:13:46Z"
-    title "What are NFT&#8217;s (Explained in 10 Minutes) | How to make money from NFT&#8217;s"
+    title "What are NFTs"
     description "What are NFT's? This question is asked by many in this era of blockchain and crypto currency,  NFT's are relatively new phenomenon and because some NFT's sold for insane amount of money , many want to invest in them. In this video, I will tell you What are NFT's and How to make money from NFT&#8217;s.&#10;Crypto art, digital art or nft art is explained in 10 minutes in this video. So Millionairo, here it is non fungible tokens explained for you people &#10;&#10;&#10;#NFT'sExplained #NonFungibleTokens #Cryptoart&#10;&#10;&#10;&#10;&#10;Subscribe to my Youtube Channel: https://www.youtube.com/azadchaiwala&#10;&#10;FaceBook: https://Facebook.com/AzadChaiwala&#10;TikTok: https://vm.TikTok.com/x9nHhx/&#10;Instagram: https://Instagram.com/AzadChaiwala&#10;Twitter: https://Twitter.com/AzadChaiwala&#10;&#10;Watch My Life Story&#10;AZAD CHAIWALA kon hai? | How I Became a Millionaire | My Life's Story!&#10;https://youtu.be/8LHUQNvwEls&#10;&#10;Contact: Admin@Chaiwala.com&#10;&#10;&#10;- Learn A New Life-Changing Skill From My Institute: http://AzadChaiwala.pk"
     channeltitle "Azad Chaiwala"
     channelid "UCM5QNdoIefx6eumjPk8ZTMw"
@@ -2539,7 +2539,7 @@ graph
     commentcount 1118
     duration "PT12M38S"
     indegree 23
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 2055
     duration "PT16M6S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2565,7 +2565,7 @@ graph
     label "HPt1o0lxgx4"
     step 0
     date "2022-06-17T21:58:36Z"
-    title "NFTS RECOVERING?! | NFT Market Update | Bill Gates &#38;amp; NFT Vending Machine"
+    title "NFTS RECOVERING?! | NFT Market Update | Bill Gates NFT Vending Machine"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;News Articles Mentioned in the Video:&#10;Bill Gates Interview: https://decrypt.co/102973/bill-gates-crypto-and-nfts-100-based-on-greater-fool-theory&#10;OpenSea New Feature: https://twitter.com/opensea/status/1537797351158566912&#10;Instagram AR: https://twitter.com/Blockworks_/status/1537395426256732162&#10;Nansen Connect: https://www.nansen.ai/post/announcing-nansen-connect-the-messaging-app-of-web3?utm_source=twitter&#38;utm_medium=social&#38;utm_campaign=NansenConnect_15June22&#10;NFT Vending Machine: https://twitter.com/minahnft/status/1537014933136744449&#10;&#10;0:00 - 1:22 Intro&#10;1:23 - 7:45 NFT Market Update&#10;7:46 - 12:06 Bill Gates says NFTs 100% based on &#34;Greater Fool Theory&#34;&#10;12:07 - 14:27 OpenSea Introduces Featured Tab&#10;14:28 - 16:18 Instagram Augmented Reality NFTs&#10;16:19 - 19:57 Nansen Connect (Messaging App)&#10;19:58 - 21:58 NFT Vending Machine&#10;21:59 - 22:55 Final Thoughts&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -2593,7 +2593,7 @@ graph
     commentcount 789
     duration "PT17M40S"
     indegree 8
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 1382
     duration "PT33M28S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 2860
     duration "PT5M13S"
     indegree 23
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2647,7 +2647,7 @@ graph
     commentcount 480
     duration "PT14M2S"
     indegree 10
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2655,7 +2655,7 @@ graph
     label "_GmzTgUGPU4"
     step 0
     date "2021-08-06T21:11:28Z"
-    title "Why NFT Projects Before 2021 Are Important | GaryVee Audio Experience: J1mmy.ETH"
+    title "Why NFT Projects Before 2021 Are Important | GaryVee Audio E tongue sticking out erience: J1mmy.ETH"
     description "Today's episode is an original interview I did with a dear friend, J1mmy.ETH, who is the founder of NFT42 and Avastars (the first on-chain (metadata and SVG art), generative nft project). We covered everything from the beginning of NFTs, the origin of Avastars, why J1mmy gave away BAYC for free, VeeFriends launch story, StonerCats, and more. If you wait till the end&#8230; there&#8217;s a surprise for my VeeFriends community that I promise you won&#8217;t want to miss &#10;&#10;To claim a FREE Avastar as a VeeFriends holder, please checkout this article for details: https://garyvee.com/avastars&#10;&#10;Join the Avastars Discord: https://discord.gg/TDeuu3EP&#10;&#10;Follow J1mmy and his team on social&#10;https://twitter.com/AvaStarsNFT&#10;https://twitter.com/nft42_&#10;https://twitter.com/j1mmyeth&#10;--&#10;I&#8217;m so excited in announcing the VeeFriends Pre-Launch Program(PLP), this program is intended to make it disproportionately EPIC for VeeFriends holders AND help a ton of emerging NFT projects get a little exposure through the amazing VeeFriends community: https://garyvee.com/plp&#10;&#8212;&#10;Thanks for watching!&#10;Check out another series on my channel:&#10;Tea With GaryVee (Fan Q&#38;A Series): https://youtube.com/playlist?list=PLfA33-E9P7FBahSYlSAjOMGsuRPLMWWEO&#10;Overrated Underrated (Hot-takes on Culture): https://youtu.be/TUSNSqA62uI&#10;Gary Vaynerchuk Original Films: https://youtube.com/playlist?list=PLfA33-E9P7FAvnrOcgy4MvIcCXxoyjuku&#10;Trash Talk: https://youtube.com/playlist?list=PLfA33-E9P7FDelN4bXFgtJuczC9HHmm2-&#10;WeeklyVee: https://youtube.com/playlist?list=PLfA33-E9P7FBPjdQcF6uedz9fdk8XKn-b&#10;&#8212; &#10;Gary Vaynerchuk is one of the world&#8217;s leading marketing experts, a New York Times bestselling author, and the chairman of VaynerX, a modern day communications company and the active CEO of VaynerMedia, a contemporary global creative and media agency built to drive business outcomes for their partners. He is a highly popular public speaker, and a prolific investor with investments in companies such as Facebook, Twitter, Tumblr, Venmo, Coinbase, Slack, and Uber. Gary is a board/advisory member of Bojangles&#8217; Restaurants, MikMak, Pencils of Promise, and is a longtime Well Member of Charity:Water. He&#8217;s also an avid sports card investor and collector. He lives in New York City."
     channeltitle "GaryVee"
     channelid "UCctXZhXmG-kf3tlIXgVZUlw"
@@ -2683,7 +2683,7 @@ graph
     commentcount 2648
     duration "PT13M27S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 245
     duration "PT11M33S"
     indegree 5
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2727,7 +2727,7 @@ graph
     label "PRIoYyDRLxg"
     step 0
     date "2022-03-05T16:15:00Z"
-    title "How To Create NFTs &#38;amp; Sell NFTs Online | NFT Kaise Create Kare"
+    title "How To Create NFTs Sell NFTs Online | NFT Kaise Create Kare"
     description "Asalam o Alekum Everyone !&#10;Welcome to the world of Mr. How. This video is about creation of NFTs that how you can easily create NFT GIFs and how you can sell your NFT easily on different platforms.&#10;Helping Videos:&#10;NFT Complete Selling Method: https://youtu.be/jmKS_XN_srM&#10;NFT Problems and Solutions: https://youtu.be/PIVel-RMF1I&#10;&#10;Make Fiverr Account: https://youtu.be/vg84r4HOalo&#10;Fiverr Profile Settings: https://youtu.be/RJUurNQDOFE&#10;Make Fiver Gig: https://youtu.be/_p_pIDwxyJA&#10;Get First Fiverr Order: https://youtu.be/JAhFLVh-k50 &#10;Secret Method To Get First Fiverr Order: https://youtu.be/yNoGdqPzcDE&#10;&#10;Like, and Subscribe Mr. How for earning methods and amazing skill videos.&#10;&#10;Mr How Facebook: facebook.com/realmrhow&#10;My Instagram Link: https://www.instagram.com/malik_hajir/&#10;Facebook Personal ID: https://www.facebook.com/people/Malik-Hajir/100004448377180&#10;&#10;&#10;If you have any questions or need guidance about any thing, just comment below in the comment section.&#10;Love you all. &#10;Thanks for watching.&#10;&#10;Disclaimer&#10;Video is for educational purpose only Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research Fair use is a use permitted by copyright statute that might otherwise be infringing Non-profit, educational or personal use tips the balance in favor of fair use&#10;Some photos in the video are downloaded from Google Image. Picture used in this video is protected by the Fair Use Law, section 107 used for commentary, criticism, news reporting or education for transformative use.&#10;Thank You"
     channeltitle "Mr How"
     channelid "UCbLNDozrwvZcOpBzGbFMC-Q"
@@ -2737,7 +2737,7 @@ graph
     commentcount 431
     duration "PT19M9S"
     indegree 17
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 429
     duration "PT15M19S"
     indegree 13
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2763,7 +2763,7 @@ graph
     label "H3AmrBLUE1g"
     step 0
     date "2022-07-11T15:00:18Z"
-    title "&#1047;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1077;&#1084; &#1087;&#1086; &#1085;&#1086;&#1074;&#1086;&#1084;&#1091;? - Space Payment / NFT GAME / CRYPTO / NFT COLLECTION"
+    title "? - Space Payment / NFT GAME / CRYPTO / NFT COLLECTION"
     description "&#127916; &#1053;&#1077; &#1079;&#1072;&#1073;&#1091;&#1076;&#1100; &#1087;&#1086;&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1100; &#1083;&#1072;&#1081;&#1082; &#1080; &#1087;&#1086;&#1076;&#1087;&#1080;&#1089;&#1072;&#1090;&#1100;&#1089;&#1103; ;) &#127916;&#10;&#10;Official &#127479;&#127482;Russian telegram channel https://t.me/spacepayment_ru&#10;Official &#127468;&#127463;English telegram channel https://t.me/spacepayment_en&#10;&#10;&#128073; &#1054;&#1085;&#1083;&#1072;&#1081;&#1085;-&#1095;&#1072;&#1090; &#127479;&#127482; https://t.me/spacepayment_chat_ru&#10;&#128073; Online chat &#127468;&#127463; https://t.me/spacepayment_chat_eu&#10;&#10;&#128165;START BOT NOW - https://t.me/spacepayment_bot &#128165;&#10;&#10;#MMO #NFT #RPG #NFTGAMES #GAME #NFTGAME #MMORPG"
     channeltitle "MiSTiK"
     channelid "UCynv8OUVfeUlcqkhNtrjgMQ"
@@ -2773,7 +2773,7 @@ graph
     commentcount 959
     duration "PT6M27S"
     indegree 0
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -2781,7 +2781,7 @@ graph
     label "OnYg9gUvtRg"
     step 0
     date "2022-03-19T21:30:01Z"
-    title "&#10060; Lo Admito, los NFTs no son PERFECTOS - Estafas, burbuja, robo de artistas, medio ambiente..."
+    title " Lo Admito, los NFTs no son PERFECTOS - Estafas, burbuja, robo de artistas, medio ambiente..."
     description "Aprende m&#225;s sobre NFTs en nuestro canal de Youtube (No solo un JPG): &#10;&#128073; https://www.youtube.com/c/NosolounJPG&#10;&#10;&#218;nete a nuestra comunidad en Discord sobre NFTs: &#10;&#128073; https://discord.gg/u75NTKU53t&#10;&#10;M&#225;s info sobre el proyecto de res&#250;menes de libros NFT (Bookers.club) aqu&#237;: &#128073; https://bookers.club/&#10;&#10;&#191;Quieres m&#225;s consejos y conceptos diarios? &#10;&#128073; Sigueme en Instagram: @euge.oller&#10;&#10;&#191;Quieres absorber el conocimiento de cientos de libros en semanas? &#10;&#128073; Haz click aqu&#237; para descubrir como: https://flashlibros.com/&#10;&#10;Cap&#237;tulos del v&#237;deo:&#10;&#10;0:00 Intro&#10;1:54 Criptomonedas&#10;12:18 Intro a los NFTs&#10;13:53 El Problema de Guardar Como...&#10;22:57 NFTs con Utilidad&#10;32:45 El Problema del Medio Ambiente&#10;37:10 El Problema del Robo a Artistas&#10;43:09 Burbujas y Sobre Excitaci&#243;n&#10;49:51 El Problema del Blanqueo de Dinero&#10;50:35 Innovaci&#243;n Tecnol&#243;gica y Largo Plazo&#10;55:45 Los Juegos NFT&#10;57:42 El Problema de los Incentivos&#10;1:00:10 El Metaverso y los NFT&#10;1:03:41 Conclusiones Finales"
     channeltitle "Euge Oller"
     channelid "UCwYlw2jpIeEC7l9bH9BQMZQ"
@@ -2791,7 +2791,7 @@ graph
     commentcount 792
     duration "PT1H6M59S"
     indegree 7
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -2817,7 +2817,7 @@ graph
     label "MgIRnS7F1S0"
     step 0
     date "2022-01-04T06:55:55Z"
-    title "Top 3 Best Blockchain &#38;amp; NFT Based Games&#9889;Play &#38;amp; Earn&#129297;"
+    title "Top 3 Best Blockchain "
     description "Friends, in today's video we are sharing our top 3 games which are based on Blockchain &#38; NFT. You can learn these concepts and earn some tokens and NFT too. So do watch this video till the end to know more. &#10;&#10;#Blockchain #NFT #BlockchainGames #NFTGames #TrakinTech&#10;&#10;Forest Knight : https://bit.ly/31m1HS6&#10;Thetan Arena : https://bit.ly/3zm1OK7&#10;Battle Racing Stars : https://bit.ly/36eAbVy&#10;&#10;***************************************************************&#10;&#10;&#34;Safar - The 10 Million Rap&#34;&#10;Streaming On All Platforms Listen or Set Your Callertune Enjoy &#38; Stay Connected With Us !&#10;&#10;&#9835; &#119817;&#119842;&#119848; &#119826;&#119834;&#119834;&#119855;&#119847; - https://bit.ly/3iWUfm4&#10;&#9835; &#119814;&#119834;&#119834;&#119847;&#119834; - https://bit.ly/2YHUdaY&#10;&#9835; &#119808;&#119849;&#119849;&#119845;&#119838; &#119820;&#119854;&#119852;&#119842;&#119836; - https://apple.co/3mQfwPy&#10;&#9835; &#119826;&#119849;&#119848;&#119853;&#119842;&#119839;&#119858; - https://spoti.fi/3oY1bmA&#10;&#9835; &#119832;&#119848;&#119854;&#119853;&#119854;&#119835;&#119838; &#119820;&#119854;&#119852;&#119842;&#119836; - https://bit.ly/3Ax2yuF&#10;&#9835; &#119808;&#119846;&#119834;&#119859;&#119848;&#119847; &#119820;&#119854;&#119852;&#119842;&#119836; - https://amzn.to/3veYSgk&#10;&#10;Our New YouTube Channel : http://bit.ly/TrakinKeFunde&#10;Official TrakinTech Telegram Channel - https://t.me/officialtrakintech&#10;For enquires or product promotions get in touch with us on Youtube@trak.in&#10;&#10;&#2310;&#2346;&#2325;&#2379; &#2309;&#2327;&#2352; &#2325;&#2379;&#2312; &#2360;&#2357;&#2366;&#2354; &#2361;&#2376; &#2340;&#2379;&#2361; &#2332;&#2352;&#2370;&#2352; &#2325;&#2350;&#2376;&#2306;&#2335;&#2381;&#2360; &#2350;&#2375;&#2306; &#2361;&#2350;&#2375;&#2306; &#2348;&#2340;&#2366;&#2312;&#2351;&#2375; - &#2309;&#2327;&#2352; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379; &#2309;&#2330;&#2381;&#2331;&#2366; &#2354;&#2327;&#2366; &#2340;&#2379;&#2361; &#2354;&#2367;&#2326;&#2375; &#2324;&#2352; &#2360;&#2348;&#2381;&#2360;&#2325;&#2381;&#2352;&#2366;&#2311;&#2348; &#2332;&#2352;&#2370;&#2352; &#2325;&#2368;&#2332;&#2367;&#2351;&#2375;&#2327;&#2366; &#10;****************************************************************&#10;&#10;Video Highlights&#10;***************************************************************&#10;00:00 Introduction&#10;00:34 What is blockchain?&#10;01:11 What Is NFT?&#10;02:20 Forest knight&#10;03:26 Battle Racing Starts&#10;04:20 Thetan Arena&#10;&#10;Latest Videos on &#10;*****************************************************************&#10;Top 10+ Best Upcoming Mobile Phone Launches &#9889; July 2021 - https://www.youtube.com/watch?v=qSlGMK9fpMs&#10;&#10;Battlegrounds Mobile India Is Finally Here - &#10;https://www.youtube.com/watch?v=cyHS007ecJM&#10;&#10;Our Recommendations&#10;***************************************************************&#10;*Best Smartphones under 15000*&#10;realme 7 : https://bit.ly/3haR2LO&#8203;&#8203;&#10;realme Narzo 20 Pro : https://bit.ly/2GSg9H2&#8203;&#8203;&#10;POCO M2 Pro : https://bit.ly/3imuERe&#8203;&#8203;&#10;realme 8 : https://bit.ly/3cT2exV&#8203;&#10;Redmi Note 10 : https://amzn.to/39P3WOT&#8203;&#10;POCO X3 : https://bit.ly/3kR45EI&#8203;&#10;&#10;*Best Smartphones under 10000*&#10;realme Narzo 30A : https://bit.ly/3fxOFpm&#8203;&#10;POCO M3 : https://bit.ly/3jtfFGw&#8203;&#10;Redmi 9 Power : https://amzn.to/3wjuCAV&#8203;&#10;Infinix Hot 10 : http://bit.ly/3p1Gpjk&#8203;&#8203;&#10;Micromax In 1 : https://bit.ly/2PUIAbB&#8203;&#10;Moto G10 Power : https://bit.ly/3drylnj&#10;&#10;Social Media Handles&#10;*****************************************************************&#10;Follow us on:&#10;Web: http://trak.in&#10;Telegram : https://t.me/officialtrakintech&#10;Instagram: http://instagram.com/trakintech&#10;Twitter: http://www.twitter.com/trakintech&#10;Twitter personal: http://www.twitter.com/8ap&#10;Facebook: http://www.facebook.com/TrakinTech&#10;English Trakin Tech Youtube Channel - http://www.youtube.com/TrakinTechEnglish&#10;******************************************************************&#10;&#10;*Official Giveaway / Contest Rules*&#10;a. All entries need to comply with YouTube Community Guidelines (http://www.youtube.com/t/community_guidelines) and entries which don&#8217;t comply will be disqualified.&#10;b. This Giveaway/Contest is wholly compliant &#38; consistent with Youtube Terms of Service&#10;c. This Giveaway/Contest is conducted by TrakinTech and is not sponsored by Youtube&#10;d. Privacy - All the data we collect from participants will be used only for Giveaway / Contest purposes only. We will not share or sell this data to anyone.&#10;e. All Giveaway / Contests are conducted in a fair and impartial manner!"
     channeltitle "Trakin Tech"
     channelid "UCEPL07qzVsOcHd3sMUws65g"
@@ -2827,7 +2827,7 @@ graph
     commentcount 619
     duration "PT6M8S"
     indegree 5
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2845,7 +2845,7 @@ graph
     commentcount 678
     duration "PT23M49S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 54
     duration "PT1H23M23S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2871,7 +2871,7 @@ graph
     label "eCUbMegPIcM"
     step 0
     date "2022-02-13T17:01:48Z"
-    title "NFTs, Web3, Metaverse Explained Simply (Social Media is CHANGING - Watch this to stay ahead &#128563;)"
+    title "NFTs, Web3, Metaverse E tongue sticking out lained Simply (Social Media is CHANGING - Watch this to stay ahead )"
     description "If you like learning about social media (How to get likes, how to get followers, etc) yet you reject the idea of NFTs and anything related to Web3&#8230; Then you might have it backwards &#128563;.&#10;&#10;This video covers:&#10;&#10;&#10004;&#65039;NFTs explained for beginners (it&#8217;s NOT just Art...)&#10;&#10004;&#65039;The Metaverse and Web3 explained&#10;&#10004;&#65039; WHY content creators and online entrepreneurs should care about all this (even if you think it&#8217;s stupid now - trust me, it&#8217;s NOT)&#10;&#10004;&#65039; How the future of the internet can affect your business and a NEW way to make income as a personal brand&#10;&#10004;&#65039; Clear examples of ways personal brands can monetize in Web3&#10;&#10004;&#65039;AND how to BUY NFTs too (if you need a step by step tutorial!)&#10;&#10;NOTE: NFTs, Blockchain, Metaverse are all very new topics. There are also debates about the environmental impact that this new technology presents. This video only shares this topic under the lens of Business and Marketing. Do your research, due diligence,  and get curious!&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;0:00 - Intro&#10;1:07 - What&#8217;s Covered In This Video&#10;1:40 - NFTs Explained Simply&#10;2:52 - NFTs and Content Monetization&#10;4:11 - NFTs and Real World Applications&#10;5:12 - Metaverse Explained Simply&#10;5:59 - Social Media and the Metaverse&#10;7:30 - Web3 Explained (Evolution of Internet)&#10;8:24 - Why Personal Brands Should Care&#10;9:30 - Making Money with NFTs as Content Creator&#10;11:07 - Real Example of NFT Project&#10;16:17 - How to Buy NFTs (Tutorial)&#10;20:38 - Protecting Your Crypto&#10;21:46 - Feeling FOMO about NFTs&#10;22:38 - More Resources to Learn!&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#128073; Resources Mentioned:&#10;&#10;&#10024; LEVELLING UP HEROES &#10024;&#10;&#10;Learn more about Leveling Up Heroes*: &#10;https://www.levelingup.com/heroes&#10;&#10;*Pre-sale: February 27, 2022&#10;*Public sale: March 1, 2022&#10;&#10;Want to get in on the pre-sale before anyone else? Sign up for the Herolist!&#10;https://www.levelingup.com/herolist &#10;&#10;Also follow https://www.twitter.com/levelingupNFT to stay up to date and https://www.twitter.com/ericosiu to follow Eric Siu!&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#10024; Links Mentioned &#10024;&#10;&#10;Coinbase Crypto Exchange: &#10;https://www.coinbase.com/&#10;&#10;MetaMask Wallet:&#10;https://metamask.io/&#10;&#10;OpenSea:&#10;https://opensea.io/&#10;&#10;Hard Wallet:&#10;https://www.ledger.com/&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#128073; MORE RESOURCES ABOUT NFTs:&#10;&#10;How To Think About Investing In Long Term NFTs&#10;https://youtu.be/ixbacRGn5aw&#10;&#10;How To Transfer Your NFTs on Opensea Safely To Another Wallet&#10;https://youtu.be/Yqx2g8kzJpw&#10;&#10;How to Promote Your NFTs The Right Way&#10;https://youtu.be/pib-aETQHh0&#10;&#10;How to protect and secure your NFTS from hackers&#10;https://youtu.be/87dN6ZkjSto&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#11015;&#65039; More stuff you should check out &#11015;&#65039;&#10;&#10;** FREE TRAINING TO TURN YOUR FOLLOWERS INTO CLIENTS:  **&#10;www.followerstoclients.com/free&#10;&#10;** JOIN THE CONTENT CREATOR TO CEO MAILING LIST FOR EXCLUSIVE TIPS! **&#10;https://www.vanessalau.co/ceo &#10;&#10;** LEARN MORE ABOUT MY PAID PROGRAM THE BOSSGRAM ACADEMY ** &#10;https://bga.link/learn &#10;&#10;**CHECK OUT ALL THE SOCIAL MEDIA AND BUSINESS TOOLS I RECOMMEND**&#10;https://www.vanessalau.co/tools/&#10;&#10;** YOUTUBE OPTIMIZATION PLUG-INS I USE **&#10;&#10;TUBEBUDDY: https://www.tubebuddy.com/VANESSALAUCO&#10;Use Code &#34;vanessasbuddy&#34; for 15% off all licenses!&#10;&#10;**ALL THE YOUTUBE EQUIPMENT I USE**:&#10;&#10;&#128247; CAMERA: https://geni.us/XnfL&#10;&#10;&#127897;&#65039; AUDIO: https://geni.us/pXEN&#10;&#10;**GET ALL OF MY EQUIPMENT HERE**:&#10;https://www.vanessalau.co/tools/&#10;&#10;Disclaimer Vanessa is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com.&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;SAY HI ON SOCIAL:&#10;&#10;Website: https://www.vanessalau.co&#10;Instagram: https://www.instagram.com/vanessalau.co&#10;LinkedIn: https://linkedin.com/in/vanessaoglau/&#10;TikTok: https://www.tiktok.com/@vanessalauco"
     channeltitle "Vanessa Lau"
     channelid "UCdOPzgbosSnbfwd9-iXP2NA"
@@ -2889,7 +2889,7 @@ graph
     label "39_IT2TqpoM"
     step 0
     date "2022-04-28T14:00:03Z"
-    title "MAJOR NFT Leaks &#38;amp; New NFTs Mint | BAYC Otherside Land Sale, Murakami NFTs BULLISH, Azuki to the Moon"
+    title "MAJOR NFT Leaks New NFTs Mint | BAYC Otherside Land Sale, Murakami NFTs BULLISH, Azuki to the Moon"
     description "Discover HUGE NFT Leaks about the Top NFTs Projects to Buy NOW (Otherside Land Sale, RTFKT, Murakami Flowers, Azuki NFTs, Ragnarok NFTs, AV Yacht Club)&#10;&#10;Patrick Dang Twitter: https://twitter.com/patrickdang&#10;The Parallax Twitter: https://twitter.com/TheParallaxHQ&#10;The Parallax Discord: https://discord.gg/theparallax&#10;&#10;Subscribe to The Parallax: https://www.youtube.com/theparallaxhq?sub_confirmation=1&#10;&#10;0:00 MAJOR NFT Leaks &#38; New NFTs Mint | BAYC Otherside Land Sale, Murakami NFTs BULLISH, Azuki to the Moon&#10;0:10 Top NFTs Projects Update #1: Yuga Lab&#8217;s The Otherside NFT Land Sale BAYC&#10;1:35 Join the Parallax Disocrd: NFTs Tier List&#10;1:52 Top NFTs Tools: Flippr Tool, Trait Sniper, Alpha Shark&#10;3:52 Top NFTs Projects Updates #2: AV Yacht Club NFTs&#10;6:05 NFTs News #1: Jack Dorsey on Elon Musk Purchase of Twitter&#10;7:16 NFT News #2: Azuki NFTs Bobu NFTs to the Moon&#10;7:45 NFTs New: #3 Murakami CloneX Opensea Floor Sweep, Murakami Flowers NFT&#10;9:16 Upcoming NFTs: Ragnarok NFTs Mint&#10;&#10;We'll talk about the MAJOR NFT News about Yuga Lab's BAYC Otherside Meta NFT Land Sale and how you can find this NFT mint. Next, we'll discuss top NFTs tools for NFT flipping: Flippr Tool, Trait Sniper NFTs, Alpha Shark NFTs. The, we'll talk about the NFT news about AV Yacht Club NFTs and their VX models in the metaverse or Sandbox NFT. Next, we'll look at some crypto news about Elon Musk purchase of Twitter, Azuki NFTs sending Bobu NFTs to the moon. After that, we'll discuss Murakami Flowers NFTs and Takashi Murakami sweeping the RTFKT NFT or CloneX Opensea floor. Finally, we'll look at the upcoming NFT to mint called Ragnarok NFTs. &#10;&#10;#bayc #rtfkt #nfts&#10;&#10;The Parallax is a media company committed to helping you navigate the new frontier of NFTs, Web3, and crypto.&#10;&#10;Disclaimer: The content expressed on The Parallax and by Patrick Dang is for educational and entertainment purposes only and should not be used as financial advice. Do your own research and consult with a professional financial advisor before making any financial decisions."
     channeltitle "The Parallax"
     channelid "UC8yPfDWbGGE7T66_eWJERZg"
@@ -2917,7 +2917,7 @@ graph
     commentcount 6643
     duration "PT2M36S"
     indegree 17
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2943,7 +2943,7 @@ graph
     label "afpelyHJa2Q"
     step 0
     date "2021-09-13T17:59:37Z"
-    title "Qu&#233; es un NFT y c&#243;mo hago dinero con ellos?!"
+    title "Qumo hago dinero con ellos?!"
     description "Papirrines y Pantuflitas!&#10;&#10;Aqui les dejo los enlances que menciono en el video:&#10;&#10;Mi primer  NFT: https://opensea.io/assets/0x8442dd3e5529063b43c69212d64d5ad67b726ea6/3355&#10;&#10;1. https://opensea.io/&#10;2. https://rarity.tools/&#10;3. https://metamask.io/"
     channeltitle "Alejandro Salomon - Emprendeduro"
     channelid "UCS3eKy88CbT4HG6slJNKpUw"
@@ -2953,7 +2953,7 @@ graph
     commentcount 2255
     duration "PT9M18S"
     indegree 19
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -2961,7 +2961,7 @@ graph
     label "kobEMc0PYts"
     step 0
     date "2022-07-12T10:00:33Z"
-    title "NFT &#51216;&#52264; &#49324;&#46972;&#51652;&#45796;? &#49332;&#50500; &#45224;&#45716; &#44163;&#51012; &#44264;&#46972;&#46300;&#47549;&#45768;&#45796;"
+    title "NFT "
     description "*LGO&#54532;&#47196;&#51229;&#53944;&#50640; &#45824;&#54620; &#51088;&#49464;&#54620; &#49324;&#54637;&#51008; LGO &#44277;&#49885; &#54856;&#54168;&#51060;&#51648; &#48143; &#47700;&#53440;&#53097;&#51592; &#46356;&#49828;&#53076;&#46300;&#47484; &#54869;&#51064;&#54616;&#50668; &#51452;&#49464;&#50836;.&#10;&#10;&#128312;&#50724;&#54588;&#49500; &#47553;&#53356;&#128312;&#10;&#10;&#128312; LGO &#44277;&#49885; &#54856;&#54168;&#51060;&#51648;: https://www.lifegoesonnft.com/&#10;&#128312; &#47700;&#53440;&#53097;&#51592; &#46356;&#49828;&#53076;&#46300;:https://discord.com/invite/metakongz&#10;&#128312; &#47700;&#53440;&#53097;&#51592; &#53944;&#50948;&#53552;:https://twitter.com/meta_kongz&#10;&#128312; &#47700;&#53440;&#53097;&#51592; &#44544;&#47196;&#48268; &#53944;&#50948;&#53552;:https://twitter.com/metakongz_G"
     channeltitle "&#45804;&#46976;&#53944;&#53804;&#51088;"
     channelid "UCBM86JVoHLqg9irpR2XKvGw"
@@ -2971,7 +2971,7 @@ graph
     commentcount 2
     duration "PT8M12S"
     indegree 0
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -2979,7 +2979,7 @@ graph
     label "XUf6UdaA8cA"
     step 0
     date "2022-03-24T11:15:01Z"
-    title "NFT - Non Fungible Tokens Explained in Sinhala"
+    title "NFT - Non Fungible Tokens E tongue sticking out lained in Sinhala"
     description "NFT &#3467;&#3505;&#3530;&#3512;&#3535;&#3503;&#3514;&#3501;&#3530; &#3473;&#3482;&#3530;&#3482; NFT  &#3484;&#3536;&#3505; &#3524;&#3548;&#3514;&#3505; &#3520;&#3538;&#3482;&#3540;&#3499;&#3505; &#3520;&#3484;&#3546;&#3512; &#3484;&#3505;&#3530;&#3505; &#3461;&#3514;&#3495;&#3501;&#3530; &#3520;&#3536;&#3503;&#3484;&#3501;&#3530; &#3520;&#3545;&#3505; &#3501;&#3548;&#3515;&#3501;&#3540;&#3515;&#3540; &#3484;&#3536;&#3505; &#3503;&#3536;&#3505;&#3484;&#3512;&#3540;."
     channeltitle "pcguide lk"
     channelid "UCMv53_1dj-WnV1KhRV4oB8g"
@@ -2989,7 +2989,7 @@ graph
     commentcount 117
     duration "PT14M1S"
     indegree 4
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -2997,7 +2997,7 @@ graph
     label "PjbFU4L9VgA"
     step 0
     date "2022-07-01T13:00:16Z"
-    title "Facebook Metaverse In Disarray &#38;amp; NFT Sales Are &#38;quot;Falling Off A Cliff&#38;quot; According To Reports"
+    title "Facebook Metaverse In Disarray According To Reports"
     description "PATREON: http://www.patreon.com/yongyea&#10;TWITTER: http://www.twitter.com/yongyea&#10;&#10;SOURCES&#10;1: https://www.youtube.com/watch?v=02kCEurWkqU&#10;2: https://www.youtube.com/watch?v=zVWC1tnClSw&#10;3: https://www.youtube.com/watch?v=QgukxplN2uQ&#10;4: https://www.gamedeveloper.com/extended-reality/meta-burned-2-96-billion-on-reality-labs-last-quarter&#10;5: https://www.theverge.com/2022/4/27/23045274/zuckerberg-says-meta-will-slow-spending-first-quarter-earnings&#10;6: https://gizmodo.com/snaps-ceo-disses-facebooks-metaverse-as-hypothetical-1848859896&#10;7: https://finance.yahoo.com/video/facebook-pivot-metaverse-hardware-might-153811515.html&#10;8: https://www.businessinsider.com/mark-zuckerberg-metaverse-obsession-driving-some-employees-nuts-2022-4&#10;9: https://www.irishtimes.com/culture/tv-radio-web/inside-facebook-s-metaverse-where-racial-homophobic-and-sexual-abuse-are-rampant-1.4862407&#10;10: https://www.theguardian.com/tv-and-radio/2022/apr/25/a-barrage-of-assault-racism-and-jokes-my-nightmare-trip-into-the-metaverse&#10;11: https://www.google.com/search?q=facebook+stock&#38;rlz=1C1CHBF_enUS775US775&#38;oq=facebook+stock&#38;aqs=chrome.0.69i59l2j35i39j69i60j69i61j69i60l3.1299j0j7&#38;sourceid=chrome&#38;ie=UTF-8&#10;12: https://fortune.com/2022/06/02/sheryl-sandberg-meta-mark-zuckerberg-metaverse-employee-confidence-leadership-departures/&#10;13: https://www.bloomberg.com/news/articles/2022-06-29/nfts-have-fallen-off-the-cliff-as-sales-sink-to-lowest-in-year?sref=oioIU9CW&#10;14: https://www.theverge.com/2022/6/22/23179058/mark-zuckerberg-meta-pay-wallet-metaverse-details&#10;&#10;TOP PATRONS&#10;[CIPHER]&#10; - Joseph Lavoie&#10;[BIG BOSS]&#10; - Devon B&#10; - Jonathan Ball&#10;[BOSS]&#10; - Charlie Galvin&#10; - Gerardo Andrade&#10; - Michael Redmond&#10; - Peter Vrba&#10; - Time Dragonlord&#10;[LEGENDARY]&#10; - BattleBladeWar&#10; - D Kurtti&#10; - Theron Webb"
     channeltitle "YongYea"
     channelid "UCT6iAerLNE-0J1S_E97UAuQ"
@@ -3007,7 +3007,7 @@ graph
     commentcount 2736
     duration "PT24M28S"
     indegree 9
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3015,7 +3015,7 @@ graph
     label "9G3UCWUqlQ0"
     step 0
     date "2022-02-10T10:59:30Z"
-    title "Easiest Way to Create &#38;amp; Sell Your NFT | NFT for Beginners | Earn Money with NFT #3"
+    title "Easiest Way to Create Sell Your NFT | NFT for Beginners | Earn Money with NFT #3"
     description "Subscribe to our new NFT related Channel - https://bit.ly/yournftbuddy&#10;Episode 1 - https://youtu.be/f4PRUN8jyIU &#10;Episode 2 - https://youtu.be/6rMv1yI-76E&#10;Do you want to create &#38; sell your NFT to make money online? Here's sharing the easiest way to create &#38; sell your NFTs. In thus video by Paisa Waisa, you will learn everything related to how to create &#38; sell NFT, how to create a digital wallet for NFT, how to create account on opensea, how to list your NFT, and everything else.&#10;&#10;YouTube Series (All Videos) - https://bit.ly/FreeYouTubeCourse2021&#10;&#10;Follow Paisa Waisa - https://www.instagram.com/paisawaisaofficial/&#10;&#10;Subscribe Karna Mat Bhulna - https://bit.ly/2Nzp2VP&#10;&#10;Connect on Discord Server - https://discord.gg/cqwrZzeZ&#10;Connect on Telegram - https://t.me/paisawaisaofficial&#10;&#10;At Paisa Waisa, I create a lot of videos related to making money online and personality development. You can work from home and get rich. Work online doing all these tips and start earning money fast. Make a lot of money now! You will get answers to some most asked questions by you all - How to earn money online? How to earn money at home? How to earn money from YouTube? Or what are some best &#8220;work at home&#8221; jobs? &#10;&#10;Follow me on Instagram - https://www.instagram.com/akhilkhatri&#10;Follow me on Twitter - https://www.twitter.com/thealmostsocial&#10;&#10;Check my other youtube channels&#10;Almost Social - https://www.youtube.com/almostsocial (Photography &#38; Instagram)&#10;Akhil Edits - https://www.youtube.com/channel/UCv5rzNDZTzTSsV-5C2F8sBQ (Photo Editing)&#10;&#10;For business inquiries, please email akhil(at)techsome.com&#10;For personal emails, please email eAlmostSocial@gmail.com&#10;&#10;#nft #createnft #sellnft"
     channeltitle "Paisa Waisa"
     channelid "UCXcixmdzB7kzL7DSYoPxH2g"
@@ -3025,7 +3025,7 @@ graph
     commentcount 57
     duration "PT10M42S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 1750
     duration "PT3M56S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3051,7 +3051,7 @@ graph
     label "P_0xnyPitcs"
     step 0
     date "2022-03-20T14:29:50Z"
-    title "NFT &#2453;&#2495;, &#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2476;&#2494;&#2472;&#2494;&#2476;&#2503;&#2472;, &#2453;&#2507;&#2469;&#2494;&#2527; &#2476;&#2495;&#2453;&#2509;&#2480;&#2495; &#2453;&#2480;&#2476;&#2503;&#2472;? NFT Explained Live in Bangla"
+    title "NFT ? NFT E tongue sticking out lained Live in Bangla"
     description "NFT (Non-Fungible Token) is nothing but the status of the luxury lifestyle. Digital content like Images, Audio, Video nowadays can be registered as a token in a blockchain network and people can buy and sell them through cryptocurrencies. People who cannot understand the real fact might be scammed by this mysterious NFT.&#10;&#10;Top 20 NFT Marketplaces: https://cryptohom.com/nft-marketplaces/&#10;Download Link: https://daxmin.com/shop/&#10;&#10;NFT (Non-Fungible Token) &#2476;&#2495;&#2482;&#2494;&#2488;&#2476;&#2489;&#2497;&#2482; &#2460;&#2496;&#2476;&#2472;&#2479;&#2494;&#2468;&#2509;&#2480;&#2494;&#2480; &#2478;&#2480;&#2509;&#2479;&#2494;&#2470;&#2494; &#2459;&#2494;&#2465;&#2492;&#2494; &#2438;&#2480; &#2453;&#2495;&#2459;&#2497;&#2439; &#2472;&#2479;&#2492;&#2404; &#2439;&#2478;&#2503;&#2460;, &#2437;&#2465;&#2495;&#2451;, &#2477;&#2495;&#2465;&#2495;&#2451;&#2480; &#2478;&#2468;&#2507; &#2465;&#2495;&#2460;&#2495;&#2463;&#2494;&#2482; &#2488;&#2494;&#2478;&#2455;&#2509;&#2480;&#2496; &#2438;&#2460;&#2453;&#2494;&#2482; &#2476;&#2509;&#2482;&#2453;&#2458;&#2503;&#2439;&#2472; &#2472;&#2503;&#2463;&#2451;&#2479;&#2492;&#2494;&#2480;&#2509;&#2453;&#2503; &#2447;&#2453;&#2463;&#2495; &#2463;&#2507;&#2453;&#2503;&#2472; &#2489;&#2495;&#2488;&#2494;&#2476;&#2503; &#2472;&#2495;&#2476;&#2472;&#2509;&#2471;&#2495;&#2468; &#2489;&#2458;&#2509;&#2459;&#2503;  &#2447;&#2476;&#2434; &#2482;&#2507;&#2453;&#2503;&#2480;&#2494; &#2453;&#2509;&#2480;&#2495;&#2474;&#2509;&#2463;&#2507;&#2453;&#2494;&#2480;&#2503;&#2472;&#2509;&#2488;&#2495;&#2480; &#2478;&#2494;&#2471;&#2509;&#2479;&#2478;&#2503; &#2488;&#2503;&#2455;&#2497;&#2482;&#2495; &#2453;&#2495;&#2472;&#2468;&#2503; &#2447;&#2476;&#2434; &#2476;&#2495;&#2453;&#2509;&#2480;&#2495; &#2453;&#2480;&#2468;&#2503; &#2474;&#2494;&#2480;&#2468;&#2503;&#2459;&#2503; &#2404; &#2479;&#2494;&#2480;&#2494; &#2438;&#2488;&#2482; &#2456;&#2463;&#2472;&#2494; &#2476;&#2497;&#2461;&#2468;&#2503; &#2474;&#2494;&#2480;&#2476;&#2503; &#2472;&#2494; &#2468;&#2494;&#2480;&#2494; &#2447;&#2439; &#2480;&#2489;&#2488;&#2509;&#2479;&#2478;&#2479;&#2492; NFT &#2470;&#2509;&#2476;&#2494;&#2480;&#2494; &#2474;&#2509;&#2480;&#2468;&#2494;&#2480;&#2495;&#2468; &#2489;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2404; &#10;&#2465;&#2495;&#2460;&#2495;&#2463;&#2494;&#2482;&#2482;&#2495; &#2468;&#2504;&#2480;&#2496; &#2453;&#2480;&#2494; &#2453;&#2507;&#2472;&#2507; &#2459;&#2476;&#2495;, &#2437;&#2465;&#2495;&#2451;, &#2477;&#2495;&#2465;&#2495;&#2451; &#2479;&#2454;&#2472; &#2472;&#2495;&#2460;&#2503;&#2480; &#2472;&#2494;&#2478;&#2503;  &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2494;&#2480; &#2453;&#2480;&#2503; &#2472;&#2495;&#2476;&#2503;&#2472; &#2468;&#2454;&#2472;&#2439; &#2488;&#2503;&#2463;&#2494; &#2489;&#2527;&#2503; &#2479;&#2494;&#2476;&#2503; NFT. &#2468;&#2494;&#2480;&#2478;&#2494;&#2472;&#2503; &#2438;&#2474;&#2472;&#2494;&#2480; &#2478;&#2507;&#2476;&#2494;&#2439;&#2482; &#2470;&#2495;&#2527;&#2503; &#2459;&#2476;&#2495; &#2468;&#2497;&#2482;&#2503; &#2488;&#2503;&#2439; &#2455;&#2497;&#2482;&#2507; &#2451; &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2509;&#2480;&#2495; &#2453;&#2480;&#2503; NFT &#2476;&#2494;&#2472;&#2494;&#2472;&#2507; &#2479;&#2494;&#2527;&#2404; &#2453;&#2469;&#2494; &#2489;&#2458;&#2509;&#2459;&#2503; &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2509;&#2480;&#2495; &#2453;&#2480;&#2476;&#2503;&#2472; &#2453;&#2507;&#2469;&#2494;&#2527;? &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2509;&#2480;&#2495; &#2453;&#2480;&#2494;&#2480; &#2460;&#2472;&#2509;&#2479; &#2536;&#2534; &#2463;&#2495; &#2488;&#2494;&#2439;&#2463; &#2447;&#2480; &#2482;&#2495;&#2488;&#2509;&#2463; &#2447;&#2480; &#2482;&#2495;&#2434;&#2453;  &#2465;&#2503;&#2488;&#2453;&#2509;&#2480;&#2495;&#2474;&#2486;&#2472; &#2476;&#2453;&#2509;&#2488;&#2503; &#2470;&#2503;&#2451;&#2527;&#2494; &#2438;&#2459;&#2503;&#2404; &#2438;&#2474;&#2472;&#2495; &#2447;&#2454;&#2494;&#2472;&#2503; &#2479;&#2494; &#2453;&#2495;&#2459;&#2497;&#2439; &#2453;&#2503;&#2472;&#2494;&#2476;&#2503;&#2458;&#2494; &#2453;&#2480;&#2503;&#2472; &#2472;&#2494; &#2453;&#2503;&#2472;, &#2480;&#2495;&#2527;&#2503;&#2482; &#2451;&#2527;&#2494;&#2480;&#2509;&#2482;&#2509;&#2465; &#2447; &#2447;&#2480; &#2453;&#2507;&#2472;&#2507; &#2478;&#2498;&#2482;&#2509;&#2479; &#2472;&#2503;&#2439;&#2404; &#2486;&#2497;&#2471;&#2497;&#2478;&#2494;&#2468;&#2509;&#2480; &#2439;&#2478;&#2507;&#2486;&#2472;&#2494;&#2482; &#2477;&#2509;&#2479;&#2494;&#2482;&#2497; &#2459;&#2494;&#2524;&#2494; NFT &#2447;&#2480; &#2453;&#2507;&#2472;&#2507; &#2478;&#2498;&#2482;&#2509;&#2479; &#2472;&#2503;&#2439;&#2404;  &#2468;&#2494;&#2439; &#2476;&#2497;&#2461;&#2503; &#2486;&#2497;&#2472;&#2503; &#2439;&#2472;&#2477;&#2503;&#2488;&#2509;&#2463; &#2453;&#2480;&#2497;&#2472;&#2404;  &#2474;&#2509;&#2480;&#2468;&#2494;&#2480;&#2495;&#2468; &#2489;&#2527;&#2503; &#2477;&#2497;&#2482; &#2453;&#2507;&#2472;&#2507; &#2453;&#2495;&#2459;&#2497; &#2453;&#2495;&#2472;&#2503; &#2475;&#2503;&#2482;&#2482;&#2503; &#2482;&#2488; &#2438;&#2474;&#2472;&#2494;&#2480;&#2439; &#2489;&#2476;&#2503;&#2404;&#10;&#10;&#2476;&#2509;&#2482;&#2453;&#2458;&#2503;&#2439;&#2472; &#2475;&#2497;&#2482; &#2477;&#2495;&#2465;&#2495;&#2451;: https://youtu.be/Ki52aCnKdpw&#10;&#10;Online Scam 1st Part: https://youtu.be/gJMvEiJi0DQ&#10;Online Scam 2nd Part: https://youtu.be/y6-ivkTGC28&#10;Online Scam 3rd Part: https://youtu.be/cHAf1tsHhKE&#10;&#10;Facebook: https://www.facebook.com/daxmin24&#10;Twitter: https://twitter.com/daxmin24&#10;Instagram: https://www.instagram.com/daxmin24&#10;&#10;#NFT_Ki #What_is_NFT"
     channeltitle "Daxmin"
     channelid "UC_MsFH4YVbYJW-msvX_j8jQ"
@@ -3061,7 +3061,7 @@ graph
     commentcount 188
     duration "PT11M47S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3069,7 +3069,7 @@ graph
     label "VL3d5fzLE6o"
     step 0
     date "2022-01-24T17:00:20Z"
-    title "C&#243;mo Crear Un NFT y Ganar Dinero (paso a paso)"
+    title "Cmo Crear Un NFT y Ganar Dinero (paso a paso)"
     description "Aprende c&#243;mo crear un NFT y ganar dinero paso a paso, sin inversi&#243;n inicial y desde cero para que puedas ganar dinero con ellos.&#10;&#10;&#127873; Masterclass GRATIS - C&#243;mo ganar dinero con canales automatizados: https://www.destellodigital.com/masterclass&#10;&#10;&#9658; Suscr&#237;bete: https://destellodigital.com/youtube&#10;&#9658; Instagram: https://destellodigital.com/instagram&#10;&#9658; Grupo de Telegram: https://destellodigital.com/telegram&#10;&#10;Hoy te ense&#241;ar&#233; c&#243;mo crear tu propio NFT y ganar dinero paso a paso.&#10;&#10;Existen juegos NFT sin inversi&#243;n para ganar dinero y en mi canal tengo un v&#237;deo donde te hablo de los juegos NFT m&#225;s rentables y tambi&#233;n te revelo un juego NFT con poca inversi&#243;n.&#10;&#10;En ese v&#237;deo me centr&#233; en traerte los mejores juegos NFT gratis sin inversi&#243;n para ganar dinero sin invertir y en este v&#237;deo me centro en ense&#241;arte a crear tu propio NFT gratis.&#10;&#10;Los juegos nft sin inversi&#243;n android y ios, pueden ser tambi&#233;n juegos nft sin inversi&#243;n para PC y as&#237; poder jugar desde cualquier dispositivo, el problema es que te tiene que gustar jugar.&#10;&#10;En mi caso, me gustan m&#225;s los negocios, el marketing y las ventas, por eso, la mejor opci&#243;n no es ganar dinero jugando, sino creando un NFT y vendi&#233;ndolo.&#10;&#10;Los juegos para ganar dinero real en PayPal o tambi&#233;n juegos para ganar criptomonedas son juegos que te dan recompensas que luego puedes canjear a dinero real PayPal.&#10;&#10;Mucha gente est&#225; hablando de los NFT o juegos para ganar dinero real PayPal porque gracias a las nuevas tecnolog&#237;as, hoy en d&#237;a puedes ganar dinero desde casa sin inversi&#243;n.&#10;&#10;La mayor&#237;a son juegos para ganar criptomonedas 2021 y criptomonedas gratis desde cero que puedes conseguir gracias a avanzar niveles en los diferentes juegos.&#10;&#10;Hoy te ense&#241;o a crear un NFT para ganar dinero gratis, ya que existen muchos juegos nft para ganar dinero sin invertir, pero tambi&#233;n puedes crear nft y venderlos, incluso crear nft desde el celular.&#10;&#10;&#191;Qu&#233; son los NFT? Son token no fungibles, es decir, que no son intercambiables. Hay gente que crea juegos nft para ganar dinero con poca inversi&#243;n y t&#250; puedes aprovecharte y ganar NFTs que luego puedes venderlos en el mercado de OpenSea.&#10;&#10;Voy a ense&#241;arte c&#243;mo crear NFT en opensea aunque tambi&#233;n puedes crear NFT en sandbox o crear NFT en solana.&#10;&#10;Mucha gente aprende a c&#243;mo crear NFT y venderlo en binance porque las opciones son infinitas para hacerlo y cada una tiene sus ventajas y desventajas.&#10;&#10;Tambi&#233;n puedes ver en mi canal de YouTube un v&#237;deo en el que ense&#241;o a crear mi NFT gratis para ganar dinero, o sea crear mi NFT sin inversi&#243;n. Tambi&#233;n puedes hacer un NFT crear colecci&#243;n de distintos tipos como personajes y m&#225;s cosas, para as&#237; crear nft coleccionables."
     channeltitle "Carlos Destello"
     channelid "UCtvfhWnyVNCGPdg1XrHzVbA"
@@ -3079,7 +3079,7 @@ graph
     commentcount 605
     duration "PT14M28S"
     indegree 16
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -3087,7 +3087,7 @@ graph
     label "XiXNh1ogrjw"
     step 0
     date "2021-03-04T11:45:03Z"
-    title "Digital art &#2325;&#2368; &#2335;&#2375;&#2325;&#2381;&#2344;&#2368;&#2325; NFT &#2325;&#2366; &#2346;&#2370;&#2352;&#2366; &#2361;&#2367;&#2360;&#2366;&#2348;-&#2325;&#2367;&#2340;&#2366;&#2348; &#2342;&#2375;&#2326; &#2354;&#2379; | 10 second video"
+    title "Digital art | 10 second video"
     description "Download Howzat &#38; Win - https://hwzt.in/Dcp7sxObcdb&#10;&#10;Read the complete story here: https://www.thelallantop.com/bherant/what-is-non-fungible-token-or-nft-and-why-its-called-art-of-future/&#10;&#10;#digitalart #NFT &#10;In October 2020, Miami-based art collector Pablo Rodriguez-Fraile spent almost $67,000 on a 10-second video #digitalart that he could have watched for free online. Last week, he sold it for $6.6 million. The video by digital artist Beeple, whose real name is Mike Winkelmann, was authenticated by #blockchain, which serves as a digital signature to certify who owns it and that it is the original work. What is this #NFT and how it works?&#10;&#10;&#2340;&#2375;&#2352;&#2366; &#2340;&#2369;&#2333;&#2325;&#2379; &#2309;&#2352;&#2381;&#2346;&#2339; &#2325;&#2375; &#2354;&#2367;&#2319; &#2351;&#2361;&#2366;&#2306; &#2325;&#2381;&#2354;&#2367;&#2325; &#2325;&#2352;&#2375;&#2306; - https://rb.gy/e6w2nf&#10;&#10;Install The Lallantop Android App: https://thelallantop.app.link/zCSsHooQSU&#10;Follow us on: https://www.instagram.com/thelallantop/&#10;Like The Lallantop on Facebook: https://www.facebook.com/thelallantop/&#10;Follow The Lallantop on Twitter: https://twitter.com/TheLallantop&#10;Follow Futkar on YouTube for Short videos: https://bit.ly/33kxe54&#10;Follow Latak on Instagram: https://www.instagram.com/latak.lallantop/&#10;For advertisements e-mail us at: Ads@thelallantop.com&#10;&#10;Produced By: The Lallantop&#10;Edited By:Mohan"
     channeltitle "The Lallantop"
     channelid "UCx8Z14PpntdaxCt2hakbQLQ"
@@ -3097,7 +3097,7 @@ graph
     commentcount 828
     duration "PT5M46S"
     indegree 5
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3105,7 +3105,7 @@ graph
     label "eaK2cq_TfOw"
     step 0
     date "2022-01-07T16:00:19Z"
-    title "NFT KROZ PRAKTI&#268;AN PRIMER | Geisha Tea House NFT"
+    title "NFT KROZ PRAKTIAN PRIMER | Geisha Tea House NFT"
     description "Web - https://bit.ly/GeishaTeaHouseNFT&#10;Discord - https://bit.ly/GeishaTeaHouseDiscord&#10;--------------------------------------------------------------------------------------------------------------------------------------------------&#10;&#10;Prodaja Bitcoina ECD: https://bit.ly/2xzbBjT&#10;Kupovina BTC-a na ECD-u: http://bit.ly/2w64pes&#10;Ecd.rs menjacnica: https://bit.ly/3n0kbjG&#10;Ecd Makedonija: https://ecd.mk/&#10;Diskord server: https://discord.gg/WXQpjHVzbn&#10;&#10;Skinite SwissBorg aplikaciju: https://bit.ly/33eiVzs&#10;Ubacite 50e, dobijate tiket vrednosti 1-100e.&#10;&#10;------------------------------------------------------------------------------------------&#10;Telegram Grupa: https://t.me/balkantechcrypto&#10;Business inquiries: rakocija.igor.89@gmail.com&#10;-------------------------------------------------------------------------------------------&#10;KuCoin: https://bit.ly/3pqd59g&#10;Binance: https://goo.gl/r8fwm3&#10;Bittrex: https://bit.ly/2CBgtrU&#10;Cex menja&#269;nica: https://goo.gl/afdRxq&#10;PrimeXBT leverage trade: http://bit.ly/2x0uj0h&#10;Prime XBT Promo kod: BalkanTech&#10;Kupite Bitcoin Nov&#269;anik: http://bit.ly/2wvhoDi&#10;-------------------------------------------------------------------------------------------&#10;Zapratite: https://www.instagram.com/igac_bt/&#10;Stranica: https://www.facebook.com/TheBalkanTech&#10;Twitter: http://www.twitter.com/igorrakocija&#10;&#10;***Disclaimer / Odricanje od odgovornosti***&#10;Ovaj video je informativno-edukativno-zabavnog karaktera, ne treba ga shvatati kao finansijsko savetovanje. &#10;Ja nisam finansijski savetnik. &#10;Kripto tr&#382;i&#353;te je rizi&#269;no, u&#269;estvujete u njemu na sopstvenu odgovornost."
     channeltitle "BalkanTech Crypto"
     channelid "UC-0Hk4yjo7pfxrRq9vJke-Q"
@@ -3115,7 +3115,7 @@ graph
     commentcount 31
     duration "PT9M50S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     commentcount 287
     duration "PT16M49S"
     indegree 15
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 539
     duration "PT20M11S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3177,7 +3177,7 @@ graph
     label "kHHT5iUeV8g"
     step 0
     date "2022-05-25T20:17:07Z"
-    title "Maybe the most embarrassing shit I&#38;#39;ve ever seen. The trailer for Seth Green&#38;#39;s Nft show."
+    title "Maybe the most embarrassing shit Is Nft show."
     description "I guess this will never see the light of day though. Why? because THEY STOLE HIS DAMN APE. THE BASTARDS STOLE HIS APE. THEY SAVED AS HIS PRECIOUS APE OR SOMETHING I dunno."
     channeltitle "deeply diseased"
     channelid "UCWgvzQwVakEA0Xxc1Mt4LqQ"
@@ -3187,7 +3187,7 @@ graph
     commentcount 614
     duration "PT1M37S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 15
     duration "PT3M12S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3213,7 +3213,7 @@ graph
     label "mWRF3jPFNbg"
     step 0
     date "2022-04-20T15:12:42Z"
-    title "NFTs EXPLODE!! | NFT Market Update | Amazon NFTs &#38;amp; Moonbirds"
+    title "NFTs E tongue sticking out LODE!! | NFT Market Update | Amazon NFTs Moonbirds"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;News Articles Mentioned in the Video:&#10;Amazon NFTs: https://www.cnbc.com/2022/04/14/andy-jassy-says-he-doesnt-own-bitcoin-says-amazon-could-sell-nfts.html?utm_source=dlvr.it&#38;utm_medium=twitter&#10;Coinbase NFT Marketplace: https://nftevening.com/coinbase-nft-marketplace-already-has-4m-people-on-the-waitlist/?utm_source=dlvr.it&#38;utm_medium=twitter&#10;Bored Ape Short Films: https://www.cnet.com/personal-finance/bored-ape-yacht-club-is-getting-its-own-film-trilogy/&#10;Bored Ape Resturant: https://hypebeast.com/2022/4/bored-hungry-first-bored-ape-yacht-club-restaurant-officially-opened-info&#10;Moonbirds Explode: https://decrypt.co/98112/kevin-roses-moonbirds-ethereum-nft-launch-generates-280m-in-two-days&#10;Epic Games $2 Billion Metaverse:&#10;Axie Infinity Hack: https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/&#10;Meta 47.5% Fees: https://www.cnbc.com/2022/04/13/meta-plans-to-take-a-nearly-50percent-cut-on-nft-sales-in-its-metaverse.html&#10;Horizon Worlds Virtual Items: https://decrypt.co/97572/meta-will-enable-vr-creators-to-sell-virtual-items-in-horizon-worlds&#10;Genies Raises $150 Million: https://www.coindesk.com/business/2022/04/12/silver-lake-leads-150m-round-in-nft-platform-genies-report/&#10;MGM NFT Ticketing: https://www.coindesk.com/business/2022/04/14/mgm-grand-trials-nft-ticketing-in-yellowheart-tie-up/&#10;Cool Cats Cooltopia Opens: https://twitter.com/coolcatsnft/status/1514701764968157208&#10;World of Women Roadmap: https://twitter.com/worldofwomennft/status/1515012182668451851&#10;BigTime Early Access: https://twitter.com/playbigtime/status/1514370739217973249&#10;Bored Ape Toys sell out: https://twitter.com/superplastic/status/1514371259177607175&#10;NBA NFT Trademarks: https://www.coindesk.com/business/2022/04/11/nbas-crypto-chief-registers-second-eth-domain-as-league-files-for-4-nft-trademarks/&#10;Mastercard NFT Trademarks: https://cointelegraph.com/news/mastercard-files-15-metaverse-and-nft-related-trademarks&#10;&#10;0:00 - 1:34 NFT Market Update (Intro)&#10;1:35 - 2:15 Amazon NFTs&#10;2:16 - 2:50 Coinbase NFT Marketplace&#10;2:51 - 3:14 Bored Ape Short Films&#10;3:15 - 3:42 Bored Ape Resturant&#10;3:43 - 4:17 Moonbirds Explode&#10;4:18 - 4:55 Epic Games $2 Billion Metaverse&#10;4:56 - 5:21 Axie Infinity Hack&#10;5:22 - 6:06 Meta 47.5% Fees&#10;6:07 - 6:24 Horizon Worlds Virtual Items&#10;6:25 - 6:37 Genies Raises $150 Million&#10;6:38 - 6:50 MGM NFT Ticketing&#10;6:51 - 7:05 Cool Cats Cooltopia Opens&#10;7:06 - 7:25 World of Women Roadmap&#10;7:26 - 7:36 BigTime Early Access&#10;7:37 - 7:57 Bored Ape Toys sell out&#10;7:58 - 8:15 NBA NFT Trademarks&#10;8:16 - 8:25 Mastercard NFT Trademarks&#10;8:26 - 9:31 Top NFT Sales in the past week&#10;9:32 - 13:15 Meta, Epic Games, and Amazon are coming...&#10;13:16 - 17:46 NFT Market Data &#38; Analytics&#10;17:47 - 19:40 Upcoming NFT Projects Releasing this week&#10;19:41 - 27:31 NFT Trends &#38; NFT Collections&#10;27:32 - 28:27 Final Thoughts&#10;28:28 - 28:46 Outro&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -3241,7 +3241,7 @@ graph
     commentcount 30115
     duration "PT16S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3277,7 +3277,7 @@ graph
     commentcount 69
     duration "PT13M13S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3285,7 +3285,7 @@ graph
     label "knIpyLmtot4"
     step 0
     date "2021-11-28T11:30:07Z"
-    title "What is NFT? NFT Explained in Malayalam | Non Fungible Token | Cryptocurrency | alexplain"
+    title "What is NFT? NFT E tongue sticking out lained in Malayalam | Non Fungible Token | Cryptocurrency | ale tongue sticking out lain"
     description "What is NFT? NFT Explained in Malayalam | Non Fungible Token | Cryptocurrency | alexplain | al explain | alex plain | alex explain &#10;&#10;NFT is a Non-Fungible Token is the latest method used in digital arts and other types of online transactions. Millions of dollars are transacted in the form of cryptocurrencies through blockchain technology for the use of NFT. This video explains the concept of NFT (Non-Fungible Token) in Malayalam. The term and its transaction methods are explained with examples and details. The uses, advantages and disadvantages of NFT are also discussed in the video.&#10;&#10;#NFT #nonfungibletoken #cryptocurrency&#10;&#10;NFT &#3342;&#3368;&#3405;&#3368;&#3364;&#3405; &#3361;&#3391;&#3356;&#3391;&#3377;&#3405;&#3377;&#3453; &#3349;&#3378;&#3349;&#3379;&#3391;&#3378;&#3393;&#3330; &#3374;&#3377;&#3405;&#3377;&#3405; &#3364;&#3376;&#3364;&#3405;&#3364;&#3391;&#3378;&#3393;&#3379;&#3405;&#3379; &#3347;&#3450;&#3378;&#3400;&#3451; &#3335;&#3359;&#3370;&#3390;&#3359;&#3393;&#3349;&#3379;&#3391;&#3378;&#3393;&#3330; &#3337;&#3370;&#3375;&#3403;&#3351;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368; &#3343;&#3377;&#3405;&#3377;&#3381;&#3393;&#3330; &#3370;&#3393;&#3364;&#3391;&#3375; &#3376;&#3392;&#3364;&#3391;&#3375;&#3390;&#3363;&#3405; &#3368;&#3403;&#3450;-&#3371;&#3330;&#3351;&#3372;&#3391;&#3454; &#3359;&#3403;&#3349;&#3405;&#3349;&#3450;. &#3342;&#3451;&#3342;&#3371;&#3405;&#8204;&#3359;&#3391;&#3375;&#3393;&#3359;&#3398; &#3337;&#3370;&#3375;&#3403;&#3351;&#3364;&#3405;&#3364;&#3391;&#3368;&#3390;&#3375;&#3391; &#3372;&#3405;&#3378;&#3403;&#3349;&#3405;&#3349;&#3405;&#8204;&#3354;&#3398;&#3375;&#3391;&#3451; &#3384;&#3390;&#3353;&#3405;&#3349;&#3399;&#3364;&#3391;&#3349;&#3381;&#3391;&#3366;&#3405;&#3375;&#3375;&#3391;&#3378;&#3394;&#3359;&#3398; &#3366;&#3382;&#3378;&#3349;&#3405;&#3383;&#3349;&#3405;&#3349;&#3363;&#3349;&#3405;&#3349;&#3391;&#3368;&#3405; &#3361;&#3403;&#3379;&#3377;&#3393;&#3349;&#3454; &#3349;&#3405;&#3376;&#3391;&#3370;&#3405;&#8204;&#3377;&#3405;&#3377;&#3403;&#3349;&#3377;&#3451;&#3384;&#3391;&#3349;&#3379;&#3393;&#3359;&#3398; &#3376;&#3394;&#3370;&#3364;&#3405;&#3364;&#3391;&#3453; &#3335;&#3359;&#3370;&#3390;&#3359;&#3405; &#3368;&#3359;&#3364;&#3405;&#3364;&#3393;&#3368;&#3405;&#3368;&#3393;. &#3336; &#3381;&#3392;&#3361;&#3391;&#3375;&#3403; &#3374;&#3378;&#3375;&#3390;&#3379;&#3364;&#3405;&#3364;&#3391;&#3453; NFT (&#3368;&#3403;&#3450;-&#3371;&#3330;&#3351;&#3372;&#3391;&#3454; &#3359;&#3403;&#3349;&#3405;&#3349;&#3450;) &#3342;&#3368;&#3405;&#3368; &#3334;&#3382;&#3375;&#3330; &#3381;&#3391;&#3382;&#3366;&#3392;&#3349;&#3376;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3393;. &#3370;&#3366;&#3381;&#3393;&#3330; &#3333;&#3364;&#3391;&#3368;&#3405;&#3377;&#3398; &#3335;&#3359;&#3370;&#3390;&#3359;&#3405; &#3376;&#3392;&#3364;&#3391;&#3349;&#3379;&#3393;&#3330; &#3337;&#3366;&#3390;&#3385;&#3376;&#3363;&#3353;&#3405;&#3353;&#3379;&#3393;&#3330; &#3381;&#3391;&#3382;&#3366;&#3390;&#3330;&#3382;&#3353;&#3405;&#3353;&#3379;&#3393;&#3330; &#3337;&#3370;&#3375;&#3403;&#3351;&#3391;&#3354;&#3405;&#3354;&#3405; &#3381;&#3391;&#3382;&#3366;&#3392;&#3349;&#3376;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3393;. NFT &#3375;&#3393;&#3359;&#3398; &#3337;&#3370;&#3375;&#3403;&#3351;&#3353;&#3405;&#3353;&#3379;&#3393;&#3330; &#3351;&#3393;&#3363;&#3353;&#3405;&#3353;&#3379;&#3393;&#3330; &#3366;&#3403;&#3383;&#3353;&#3405;&#3353;&#3379;&#3393;&#3330; &#3381;&#3392;&#3361;&#3391;&#3375;&#3403;&#3375;&#3391;&#3453; &#3354;&#3452;&#3354;&#3405;&#3354;&#3354;&#3398;&#3375;&#3405;&#3375;&#3393;&#3368;&#3405;&#3368;&#3393;.&#10;&#10;alexplain is a Malayalam channel where must-know things around the world are explained in the simplest way possible. The videos cover topics like things to know about India, recent current affairs, explanations on politics, economics, history, science, and technology, etc. The videos in this channel will help you gain knowledge of different things around us. &#10;&#10;FB - https://www.facebook.com/Alexplain-104170651387815&#10;Insta - https://www.instagram.com/alex.mmanuel/"
     channeltitle "alexplain"
     channelid "UC3oKOKlDjM93TKyKLSCOWSQ"
@@ -3295,7 +3295,7 @@ graph
     commentcount 402
     duration "PT15M44S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 11
     duration "PT4M31S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3321,7 +3321,7 @@ graph
     label "ZLNb8aLK83k"
     step 0
     date "2022-06-03T21:52:16Z"
-    title "Cringe OVERLOAD: The Live Action NFT Show.."
+    title "Cringe OVERLOA tongue sticking out The Live Action NFT Show.."
     description "IM BACK!&#10;Press the red button &#129402;&#10;Royalty Free Music from Bensound&#10;&#10;Discord: https://discord.gg/xXR3C7xGrq&#10;Live Channel: https://www.youtube.com/channel/UCqV7UZ1zHpgo0He4Rj2naMw&#10;---------------------------------------------------------------------------------------&#10;&#9679; Social Medias: &#10;TikTok: https://www.tiktok.com/@tommynfg&#10;Instagram: https://www.instagram.com/tommynfg/&#10;---------------------------------------------------------------------------------------&#10;&#10;Cringe Overload: The Live Action NFT Show.. &#10;&#10;- Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.&#10;&#10;#tommynfg"
     channeltitle "TommyNFG"
     channelid "UCAtYkwdhJ5o32z7gS-ef5vg"
@@ -3331,7 +3331,7 @@ graph
     commentcount 395
     duration "PT9M31S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3339,7 +3339,7 @@ graph
     label "vL1r_MEsA5w"
     step 0
     date "2022-06-23T00:16:50Z"
-    title "MASSIVE NEWS!! | NFT Market Update | Doodles 2.0 &#38;amp; Ebay NFT Marketplace"
+    title "MASSIVE NEWS!! | NFT Market Update | Doodles 2.0 Ebay NFT Marketplace"
     description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;Doodles Event Livestream: https://www.instagram.com/p/CfF6DqcpV3S/&#10;&#10;News Articles Mentioned in the Video:&#10;Doodles 2.0: https://decrypt.co/103503/doodles-nfts-announces-pharrell-as-chief-brand-officer-fundraise-led-by-alexis-ohanian&#10;Magic Eden $130 Million Raise: https://decrypt.co/103403/solana-nft-marketplace-magic-eden-raises-130m-plans-multi-chain-expansion&#10;Ebay NFT Marketplace: https://techcrunch.com/2022/06/22/ebay-acquires-nft-marketplace-knownorigin/&#10;Rolling Stone x Bored Ape: https://www.rollingstone.com/product-recommendations/lifestyle/rolling-stone-bored-ape-yacht-club-print-1368894/&#10;Shopify NFT: https://twitter.com/Shopify/status/1539610296200974338&#10;&#10;0:00 - 1:40 Intro&#10;1:41 - 6:00 NFT Market Update&#10;6:01 - 12:51 Doodles 2.0 &#38; more announcements&#10;12:52 - 16:17 Magic Eden Raises $130 Million&#10;16:18 - 19:32 Ebay Acquires KnownOrigin&#10;19:33 - 21:32 Rolling Stone x Bored Ape Yacht Club&#10;21:33 - 24:02 Shopify NFT Tokengated Experiences&#10;24:03 - 25:21 Final Thoughts&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -3357,7 +3357,7 @@ graph
     label "W9ItSgden1I"
     step 0
     date "2022-07-09T13:40:42Z"
-    title "Panther Boss Club &#38;#39;Biggest NFT Around&#38;quot;"
+    title "Panther Boss Club "
     description "Today we are iving into the Panther Boss Club 'Biggest NFT Around&#34;&#10;&#10;https://www.premint.xyz/the-panther-boss-club/&#10;&#10;FREE NFT Listings! https://www.nftcreatorshub.com&#10;&#10;Inquiries&#10;&#128073; cryptomovess@gmail.com&#10;&#10;&#9940;Disclaimer &#9940;&#34;Watch For Crypto Scams &#38; Rug Pull Scams&#34; RED FLAGS&#10;The content in these videos and on this channel are not intended to be financial advice. The content in these videos and on this channel are only intended for education and entertainment purposes only. All information that you receive here is intended as examples and not actual investing advice on any particular Cryptocurrency Project or NFTs! Nothing here shall be construed to be financial, legal, or tax advice. The content of this Youtube Channel consists solely of the opinions of the entertainer, who is not a licensed financial advisor or registered investment advisor. Most videos on Crypto Prince Youtube Channel are Paid Promotions. Which means the content creator was paid to make these videos! Purchasing Crypto Projects &#38; NFTs poses considerable risk of loss. I don't guarantee any particular outcome. Past performance does not indicate future results. Never invest more than you can afford to lose."
     channeltitle "Altcoin Goat"
     channelid "UCtuctzKeLfRgARcwpY0jJVw"
@@ -3411,7 +3411,7 @@ graph
     label "wNyW3Y-mpJs"
     step 0
     date "2022-07-04T21:37:31Z"
-    title "Internet Mass Ridicule Polium One, A NFT/Metaverse Game Console That Rips Off Gamecube&#38;#39;s Logo"
+    title "Internet Mass Ridicule Polium One, A NFT/Metaverse Game Console That Rips Off Gamecubes Logo"
     description "PATREON: http://www.patreon.com/yongyea&#10;TWITTER: http://www.twitter.com/yongyea&#10;&#10;SOURCES&#10;1: https://twitter.com/Polium__&#10;2: https://twitter.com/Polium__/status/1540990818831548418&#10;3: https://medium.com/@Polium_/polium-one-the-worlds-first-multi-chain-gaming-console-5052a44594c8&#10;4: https://twitter.com/Polium__/photo&#10;5: https://twitter.com/Polium__/status/1543834458767474688&#10;6: https://twitter.com/Polium__/status/1543939763971018758&#10;7: https://twitter.com/Polium__/status/1543939765644443651&#10;8: https://twitter.com/Mecha_Goblin/status/1543948282271080454&#10;9: https://twitter.com/SkillUpYT/status/1543943033283981312&#10;10: https://twitter.com/Polium__/status/1543962020151758848&#10;11: https://web.archive.org/web/20220512172758im_/https://pbs.twimg.com/profile_banners/1502257451651207171/1649403990/1500x500&#10;12: https://gamerbraves.sgp1.cdn.digitaloceanspaces.com/2018/04/Paladins-Strike-soft-launch-feature-image.jpg&#10;13: https://gloryhero.io/#/&#10;14: https://twitter.com/MaxSheen2/status/1527054726625386497&#10;15: https://i.ytimg.com/vi/OjnLjGHeawg/maxresdefault.jpg&#10;16: https://twitter.com/schisam/status/1524746800661352448&#10;17: https://twitter.com/gloryheroio/status/1524767952959987712&#10;18: https://twitter.com/schisam/status/1524771357510230016&#10;19: https://twitter.com/gloryheroio/status/1525075173136691200&#10;20: https://twitter.com/gloryheroio&#10;21: https://twitter.com/gloryheroio/status/1525158093985763328&#10;22: https://www.polium.com/&#10;23: https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057&#10;24: https://www.forbes.com/sites/jonathanponciano/2022/03/29/second-biggest-crypto-hack-ever-600-million-in-ethereum-stolen-from-nft-gaming-blockchain/?sh=756f3be62686&#10;&#10;TOP PATRONS&#10;[CIPHER]&#10; - Joseph Lavoie&#10;[BIG BOSS]&#10; - Devon B&#10; - Jonathan Ball&#10;[BOSS]&#10; - Charlie Galvin&#10; - Gerardo Andrade&#10; - Michael Redmond&#10; - Peter Vrba&#10; - Time Dragonlord&#10;[LEGENDARY]&#10; - BattleBladeWar&#10; - D Kurtti&#10; - Theron Webb"
     channeltitle "YongYea"
     channelid "UCT6iAerLNE-0J1S_E97UAuQ"
@@ -3421,7 +3421,7 @@ graph
     commentcount 3038
     duration "PT18M24S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3429,7 +3429,7 @@ graph
     label "Ui6a6j07NHg"
     step 0
     date "2022-07-04T11:30:22Z"
-    title "&#1583;&#1585;&#1606;&#1575; &#1575;&#1593;&#1604;&#1575;&#1606; &#1604;&#1571;&#1608;&#1604; &#1605;&#1588;&#1585;&#1608;&#1593; NFT &#1605;&#1594;&#1585;&#1576;&#1610; &#1601;&#1578;&#1585;&#1603;&#1610;&#1575; &#128525;"
+    title ""
     description "&#1583;&#1585;&#1606;&#1575; &#1575;&#1593;&#1604;&#1575;&#1606; &#1604;&#1571;&#1608;&#1604; &#1605;&#1588;&#1585;&#1608;&#1593; NFT &#1605;&#1594;&#1585;&#1576;&#1610; &#1601;&#1578;&#1585;&#1603;&#1610;&#1575;"
     channeltitle "Youness Kasmi"
     channelid "UCkmQV7lFPo8-x2h5kaBnNbw"
@@ -3439,7 +3439,7 @@ graph
     commentcount 64
     duration "PT10M17S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -3447,7 +3447,7 @@ graph
     label "HDQzPohVEj4"
     step 0
     date "2021-09-08T17:00:10Z"
-    title "C&#243;mo CREAR un NFT (gratis) y ponerlo a la VENTA con REGAL&#205;AS de por vida &#128176;"
+    title "C"
     description "&#128032; Open Sea: https://opensea.io&#10;&#10;&#128071; &#161;&#161;Actualizaci&#243;n!! &#128071;&#10;NUEVO V&#205;DEO. &#10;C&#243;mo CREAR Y VENDER tu NFT 100% GRATIS. Sin costo por ponerlo a la venta:&#10;https://youtu.be/B_XGIrqpM78&#10;&#10;---------------------------------------------------------------------------------------------------&#10;&#10;V&#237;deos que te pueden interesar:&#10;&#10;- 5 formas de Ganar DINERO con el Dibujo: https://youtu.be/wtaWezywHUA&#10;- Gu&#237;a DEFINITIVA de PROCREATE: https://youtu.be/rw14Bl2xWOU&#10;- Tips para tu PORTFOLIO de ilustrador: https://youtu.be/BLNj1WanURU&#10;- El &#250;nico TRUCO para APRENDER a dibujar: https://youtu.be/994RX_MDTSE&#10;- Mi experiencia en BELLAS ARTES: https://youtu.be/HpLgdJYSdgg&#10;&#10;---------------------------------------------------------------------------------------------------&#10;&#10;TABLETAS GR&#193;FICAS que utilizo:&#10;Wacom Intuos S: https://amzn.to/3bLwpa3&#10;iPad Pro de 12,9 pulgadas: https://amzn.to/2LtMIZB  (la que aparece en los v&#237;deos) (el l&#225;piz se compra aparte)&#10;L&#225;piz para el Ipad Pro: https://amzn.to/2ILUAYy&#10;&#10;---------------------------------------------------------------------------------------------------&#10;&#10;Edici&#243;n: https://www.youtube.com/Samless&#10;&#10;---------------------------------------------------------------------------------------------------&#10;&#10;Tambi&#233;n me pod&#233;is encontrar en:&#10;INSTAGRAM: http://instagram.com/jakodelbueno&#10;TWITTER: https://twitter.com/JakoDelBueno"
     channeltitle "Jako Del Bueno"
     channelid "UCWw8UuiQcDhbzKXFPJfezLQ"
@@ -3457,7 +3457,7 @@ graph
     commentcount 871
     duration "PT18M25S"
     indegree 15
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -3483,7 +3483,7 @@ graph
     label "1HlvEk_Aohw"
     step 0
     date "2022-01-23T12:00:03Z"
-    title "&#3335;&#3368;&#3391; &#3368;&#3391;&#3353;&#3405;&#3353;&#3454;&#3349;&#3405;&#3349;&#3393;&#3330; &#3381;&#3390;&#3353;&#3405;&#3353;&#3390;&#3330; NFT! &#128526; How to Buy NFT on OpenSea? Steps to Avoid Transaction Charges E11"
+    title " How to Buy NFT on OpenSea? Steps to Avoid Transaction Charges E11"
     description "In this video, as part of my comprehensive A-Z free learning course on Cryptocurrency Investment and Trading Basics in Malayalam, we learn all that you need to know about buying NFT - Non Fungible Tokens on OpenSea. I also show you the best way of buying by paying no transaction fees, by using Polygon and Binance blockchains.&#10;&#10;#cryptocurrency #nft #nonfungibletokens&#10;&#10;00:00 Intro&#10;02:44 Step 1 - Begin with Centralised Exchange&#10;03:23 Step 2 - You need a Wallet - Metamask&#10;04:10 Step 3 - Knowing your Blockchain&#10;11:58 Step 4 - Know your Logistics&#10;16:21 Add Polygon and Binance chains to your Metamask&#10;20:18 Use Pancake Swap to Convert BNB to ETH&#10;23:26 Bridge ETH from Binance to Ethereum or Polygon&#10;26:18 Conclusion&#10;&#10;OpenSea - https://opensea.io/&#10;Metamask - https://metamask.io/&#10;Add Polygon and Binance chains to your Metamask - https://community.metamask.io/t/how-to-add-custom-networks-to-metamask-like-binance-and-polygon-matic/3634&#10;Pancake Swap - https://pancakeswap.finance/&#10;Bridge ETH from Binance to Ethereum or Polygon - https://bridge.evodefi.com/&#10; &#10;&#10;Join the Telegram community for discussions&#10;Telegram Group - https://t.me/marketfeed_crypto&#10;&#10;Please like, share, support and subscribe at https://www.youtube.com/ShariqueSamsudheen :)&#10;&#10;WhatsApp - +91-98471 81078&#10;&#10;Instagram - sharique.samsudheen&#10;https://www.instagram.com/sharique.samsudheen/&#10;&#10;Like and follow on Facebook at https://www.facebook.com/sharqsamsu&#10;&#10;For Business Enquiries - sharique.samsudheen@gmail.com"
     channeltitle "Sharique Samsudheen"
     channelid "UC9CKy1ai9qI8p6_Oh0Qa3Rg"
@@ -3493,7 +3493,7 @@ graph
     commentcount 419
     duration "PT28M31S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount -1
     duration "PT4M50S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 34
     duration "PT22M59S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -3537,7 +3537,7 @@ graph
     label "PwJM81n6NCg"
     step 0
     date "2022-02-11T15:03:43Z"
-    title "Most Hyped Upcoming NFT Projects Releasing Soon  | Top New NFTs"
+    title "Most Hyped Upcoming NFT Projects Releasing Soon | Top New NFTs"
     description "In this video we will talk about the New Upcoming NFT projects that will be releasing soon! We will be breaking down Clay Friends, Sad Bots, Starcatchers, &#38; Cereal Club NFTs.  I'll provide all the releasing details &#38; give some of my opinions on them.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/HxFyKQFZvb&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;Clay Friends:&#10;Twitter: https://twitter.com/ClayFriendsNFT&#10;Discord: https://discord.gg/clayfriendsnft&#10;Website: TBD&#10;&#10;Sad Bots:&#10;Instagram: https://twitter.com/SadBotsNFT&#10;Discord: https://discord.gg/sadbots&#10;Website: https://sadbots.io/&#10;&#10;Starcatchers:&#10;Twitter: https://twitter.com/StarcatchersNFT&#10;Discord: TBD (Private)&#10;Website: TBD&#10;&#10;Cereal Club:&#10;Twitter: https://twitter.com/cerealclubnft&#10;Discord: TBD (Private)&#10;Website: https://www.cerealclub.io/&#10;&#10;0:00 - 0:45 New NFT Projects (Intro)&#10;0:46 - 6:17 Clay Friends&#10;6:18 - 11:12 Sad Bots&#10;11:13 - 15:55 Starcatchers&#10;15:56 - 20:36 Cereal Club&#10;20:37 - 21:39 My Final Thoughts&#10;21:40 - 21:58 Outro&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
     channeltitle "NFT Verse"
     channelid "UCf9cq3uePT1qmE5RNxiCqLg"
@@ -3555,7 +3555,7 @@ graph
     label "SQxAIcZ7tU8"
     step 0
     date "2022-07-10T16:27:17Z"
-    title "The Saudis NFT - Are They The Next CryptoPunks? &#128293; | Floor Price Action And Unique Art Of Project"
+    title "The Saudis NFT - Are They The Next CryptoPunks? | Floor Price Action And Unique Art Of Project"
     description "Hey, thanks for watching my video! If you enjoyed the video, don&#8217;t forget to subscribe and comment down below and I will reply to your comment.&#10;&#10;&#10;Social Media Handles&#10;Twitter: CryptoZilla560&#10;Medium Articles: CryptoZilla560&#10;TikTok: CryptoZilla560&#10;&#10;&#10;My Ethereum Address: 19273.eth&#10;&#10;&#10;None of the content in this video is financial advice. You should not under any circumstances use information from any of my videos in your investing decisions. Any investing decisions you make are at your own risk. I am not responsible for any investing decisions you make."
     channeltitle "CryptoZilla560 "
     channelid "UClNx1ucISQo6j7nO7x8CJ-w"
@@ -3565,7 +3565,7 @@ graph
     commentcount 1
     duration "PT9M24S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 920
     duration "PT15M14S"
     indegree 30
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 63
     duration "PT10M46S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3627,7 +3627,7 @@ graph
     label "IEbVsNMLHnE"
     step 0
     date "2022-07-10T02:45:52Z"
-    title "&#20170;&#26085;NFT&#24066;&#22330;&#30475;&#28857;&#65306;&#34013;&#31609;&#22238;&#26262;/&#40657;&#29483;&#26292;&#28072;/&#38463;&#25289;&#20271;&#21183;&#21147;&#23835;&#36215;&#65311;"
+    title ""
     description "NFT Aerfa Twitter Space&#31995;&#21015;&#27963;&#21160;&#65306;https://twitter.com/NFT_Aerfa&#10;&#10;NFT Aerfa - The largest Asian NFT publisher and trader community: https://discord.gg/nftaerfa&#10;&#10;Fortune Dao Genesis - Membership Pass NFT created by NFT Aerfa: https://opensea.io/collection/fortune-dao-genesis&#10;&#10;NFA &#38; DYOR"
     channeltitle "NFT Aerfa"
     channelid "UCGQygNQntFHmzLsubpSkAOQ"
@@ -3637,7 +3637,7 @@ graph
     commentcount 5
     duration "PT23M42S"
     indegree 2
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3645,7 +3645,7 @@ graph
     label "mOk6s5BiKnc"
     step 0
     date "2021-11-01T08:30:14Z"
-    title "NFT &#1076;&#1083;&#1103; &#1053;&#1086;&#1074;&#1080;&#1095;&#1082;&#1086;&#1074;! &#1042;&#1089;&#1077; &#1095;&#1090;&#1086; &#1085;&#1091;&#1078;&#1085;&#1086; &#1079;&#1085;&#1072;&#1090;&#1100; &#1086;&#1073; &#1053;&#1060;&#1058; &#1079;&#1072; 10 &#1084;&#1080;&#1085;&#1091;&#1090;! &#1053;&#1086;&#1074;&#1072;&#1103; &#1058;&#1077;&#1093;&#1085;&#1086;&#1083;&#1086;&#1075;&#1080;&#1103; &#1041;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085; &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084;&#1080; &#1089;&#1083;&#1086;&#1074;&#1072;&#1084;&#1080;"
+    title "NFT "
     description "&#1041;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1099;&#1081; &#1043;&#1040;&#1049;&#1044; &#1087;&#1086; NFT - https://t.me/nftdop/486&#10;&#1052;&#1086;&#1103; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1103; &#1085;&#1072; &#1041;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1077; XRPL - https://linktr.ee/leokings_nft&#10;&#1048;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084;: https://www.instagram.com/aletinsky/&#10;&#10;&#1071; &#1087;&#1086;&#1087;&#1099;&#1090;&#1072;&#1083;&#1089;&#1103; &#1088;&#1072;&#1079;&#1086;&#1073;&#1088;&#1072;&#1090;&#1100;&#1089;&#1103; &#1074;&#1086; &#1074;&#1089;&#1077;&#1093; &#1087;&#1086;&#1076;&#1088;&#1086;&#1073;&#1085;&#1086;&#1089;&#1090;&#1103;&#1093; NFT &#1080; &#1093;&#1086;&#1095;&#1091; &#1074;&#1072;&#1084; &#1086;&#1073; &#1101;&#1090;&#1086;&#1084; &#1088;&#1072;&#1089;&#1089;&#1082;&#1072;&#1079;&#1072;&#1090;&#1100;!  &#1042;&#1089;&#1077; &#1095;&#1090;&#1086; &#1085;&#1091;&#1078;&#1085;&#1086; &#1079;&#1085;&#1072;&#1090;&#1100; &#1086;&#1073; &#1053;&#1060;&#1058; &#1074;&#1089;&#1077;&#1075;&#1086; &#1079;&#1072; 10 &#1084;&#1080;&#1085;&#1091;&#1090;! &#1056;&#1072;&#1089;&#1089;&#1082;&#1072;&#1078;&#1091; &#1086; &#1085;&#1086;&#1074;&#1086;&#1081; &#1058;&#1077;&#1093;&#1085;&#1086;&#1083;&#1086;&#1075;&#1080;&#1080; &#1041;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085; &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084;&#1080; &#1089;&#1083;&#1086;&#1074;&#1072;&#1084;&#1080;. &#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100; &#1085;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083;, &#1089;&#1082;&#1086;&#1088;&#1086; &#1084;&#1085;&#1086;&#1075;&#1086; &#1085;&#1086;&#1074;&#1099;&#1093; &#1074;&#1080;&#1076;&#1077;&#1086;!&#10;&#10;#NFT #&#1053;&#1060;&#1058; #&#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1040;&#1088;&#1090;"
     channeltitle "NFT DOP"
     channelid "UCcCQXJ4z7GNJA2fvIYY-xxQ"
@@ -3655,7 +3655,7 @@ graph
     commentcount 434
     duration "PT11M20S"
     indegree 8
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 53
     duration "PT7M44S"
     indegree 6
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -3681,7 +3681,7 @@ graph
     label "wkFm_TAg85g"
     step 0
     date "2022-05-31T23:22:28Z"
-    title "&#191;Cu&#225;nto ha PERDIDO CARLOS MU&#209;OZ en NFTs? (&#191;MILLONES?)"
+    title "MILLONES?)"
     description "El d&#237;a de hoy vamos a aprender sobre los riesgos de invertir en NFTs &#128514;&#128514;"
     channeltitle "Leonardoresm"
     channelid "UCWxd8DfLPqFn6-8ZG470lKg"
@@ -3691,7 +3691,7 @@ graph
     commentcount 360
     duration "PT10M4S"
     indegree 10
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -3699,7 +3699,7 @@ graph
     label "yQob_KVE7Ec"
     step 0
     date "2021-11-17T17:18:23Z"
-    title "NFT. &#1054;&#1089;&#1085;&#1086;&#1074;&#1072; &#1086;&#1089;&#1085;&#1086;&#1074;. &#1050;&#1072;&#1082; &#1085;&#1072;&#1095;&#1072;&#1090;&#1100; &#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100;?"
+    title "NFT. ?"
     description "https://t.me/gusini&#10;&#1050;&#1086;&#1075;&#1076;&#1072; &#1103; &#1074;&#1087;&#1077;&#1088;&#1074;&#1099;&#1077; &#1091;&#1089;&#1083;&#1099;&#1096;&#1072;&#1083; &#1086;&#1073; NFT &#1080; &#1085;&#1072;&#1095;&#1072;&#1083; &#1088;&#1072;&#1079;&#1073;&#1080;&#1088;&#1072;&#1090;&#1100;&#1089;&#1103;, &#1090;&#1086; &#1087;&#1086;&#1085;&#1103;&#1083;, &#1095;&#1090;&#1086; &#1085;&#1072; &#1101;&#1090;&#1086; &#1091; &#1084;&#1077;&#1085;&#1103; &#1091;&#1093;&#1086;&#1076;&#1080;&#1090; &#1089;&#1083;&#1080;&#1096;&#1082;&#1086;&#1084; &#1084;&#1085;&#1086;&#1075;&#1086; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080; &#1080; &#1089;&#1080;&#1083;. &#1071; &#1088;&#1077;&#1096;&#1080;&#1083; &#1079;&#1072;&#1087;&#1080;&#1089;&#1072;&#1090;&#1100; &#1088;&#1086;&#1083;&#1080;&#1082;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081; &#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1080;&#1083; &#1073;&#1099; &#1085;&#1072;&#1095;&#1080;&#1085;&#1072;&#1102;&#1097;&#1077;&#1084;&#1091; &#1088;&#1072;&#1079;&#1086;&#1073;&#1088;&#1072;&#1090;&#1100;&#1089;&#1103; &#1074; &#1086;&#1089;&#1085;&#1086;&#1074;&#1072;&#1093; NFT-&#1058;&#1086;&#1082;&#1077;&#1085;&#1086;&#1074;, &#1074;&#1080;&#1076;&#1072;&#1093; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;, &#1090;&#1086;&#1084; &#1082;&#1072;&#1082; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1090;&#1100; &#1082;&#1088;&#1080;&#1087;&#1090;&#1091; &#1080; &#1076;&#1072;&#1083;&#1077;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1090;&#1100; &#1053;&#1060;&#1058;-&#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1080;. &#1042;&#1086; &#1074;&#1090;&#1086;&#1088;&#1086;&#1081; &#1095;&#1072;&#1089;&#1090;&#1080; &#1074;&#1080;&#1076;&#1077;&#1086; &#1103; &#1087;&#1086;&#1082;&#1072;&#1078;&#1091;, &#1082;&#1072;&#1082;&#1080;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1082;&#1080; &#1089;&#1086;&#1074;&#1077;&#1088;&#1096;&#1080;&#1083;.&#10;&#10;&#1052;&#1086;&#1081; NFT &#1090;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084;: https://t.me/gusini&#10;&#1054;&#1073;&#1091;&#1095;&#1077;&#1085;&#1080;&#1077; NFT: https://www.instagram.com/clcnft/&#10;&#1051;&#1080;&#1095;&#1085;&#1099;&#1081; &#1080;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084;: https://www.instagram.com/tonkihod/&#10;&#1051;&#1080;&#1095;&#1085;&#1099;&#1081; &#1042;&#1050;: https://vk.com/gusev&#10;&#1061;&#1091;&#1076;&#1086;&#1078;&#1085;&#1080;&#1082;&#1072;&#1084;: https://t.me/clcnftart&#10;&#1050;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1086;&#1085;&#1077;&#1088;&#1072;&#1084;: https://t.me/clcnftcollectors&#10;&#10;02:04 &#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; &#1090;&#1086;&#1082;&#1077;&#1085;, &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072;, &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085; &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084;&#1080; &#1089;&#1083;&#1086;&#1074;&#1072;&#1084;&#1080;&#10;04:50 &#1050;&#1072;&#1082; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1072; &#1087;&#1088;&#1077;&#1074;&#1088;&#1072;&#1097;&#1072;&#1077;&#1090;&#1089;&#1103; &#1074; NFT&#10;05:30 &#1055;&#1086;&#1087;&#1091;&#1083;&#1103;&#1088;&#1085;&#1099;&#1077; blockchain &#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1099;&#10;08:00 &#1052;&#1077;&#1088;&#1086;&#1087;&#1088;&#1080;&#1103;&#1090;&#1080;&#1103;, &#1082;&#1086;&#1085;&#1082;&#1091;&#1088;&#1089;&#1099; &#1074;&#1086;&#1082;&#1088;&#1091;&#1075; NFT, &#1082;&#1072;&#1082; &#1087;&#1088;&#1086;&#1076;&#1074;&#1080;&#1075;&#1072;&#1102;&#1090;&#1089;&#1103; &#1080; &#1095;&#1077;&#1084; &#1094;&#1077;&#1085;&#1085;&#1099;&#10;08:20 &#1057;&#1072;&#1084;&#1099;&#1077; &#1087;&#1086;&#1087;&#1091;&#1083;&#1103;&#1088;&#1085;&#1099;&#1077; &#1082;&#1072;&#1090;&#1077;&#1075;&#1086;&#1088;&#1080;&#1080; NFT: &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1080;, &#1080;&#1075;&#1088;&#1099;, &#1084;&#1077;&#1090;&#1072;&#1074;&#1089;&#1077;&#1083;&#1077;&#1085;&#1085;&#1099;&#1077;&#10;09:50 &#1052;&#1077;&#1090;&#1072;-&#1042;&#1089;&#1077;&#1083;&#1077;&#1085;&#1085;&#1099;&#1077; &#1082;&#1072;&#1082; &#1085;&#1086;&#1074;&#1099;&#1081; &#1090;&#1088;&#1077;&#1085;&#1076; 2021-2022 &#1075;&#1086;&#1076;&#1072;&#10;12:20 &#1050;&#1072;&#1082; &#1089;&#1090;&#1072;&#1090;&#1100; &#1087;&#1088;&#1072;&#1074;&#1086;&#1086;&#1073;&#1083;&#1072;&#1076;&#1072;&#1090;&#1077;&#1083;&#1077;&#1084; NFT, &#1072;&#1076;&#1088;&#1077;&#1089; &#1080; &#1087;&#1077;&#1088;&#1077;&#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1072;&#10;13:14 &#1054;&#1073;&#1084;&#1077;&#1085;&#1085;&#1080;&#1082; BestChange. &#1050;&#1072;&#1082; &#1087;&#1086;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1100; &#1082;&#1086;&#1096;&#1077;&#1083;&#1105;&#1082; Metamask&#10;14:15 &#1057;&#1072;&#1084;&#1099;&#1081; &#1073;&#1086;&#1083;&#1100;&#1096;&#1086;&#1081; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1087;&#1083;&#1077;&#1081;&#1089; NFT - OpenSea&#10;19:40 &#1044;&#1080;&#1089;&#1082;&#1086;&#1088;&#1076; - &#1084;&#1077;&#1089;&#1089;&#1077;&#1085;&#1076;&#1078;&#1077;&#1088; &#1076;&#1083;&#1103; &#1086;&#1073;&#1097;&#1077;&#1085;&#1080;&#1103; &#1074; &#1084;&#1080;&#1088;&#1077; NFT&#10;20:53 &#1055;&#1088;&#1086;&#1077;&#1082;&#1090;&#1099; NFT, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1103; &#1087;&#1088;&#1080;&#1086;&#1073;&#1088;&#1077;&#1083;&#10;28:50 &#1056;&#1080;&#1089;&#1082;&#1080; &#1080; &#1087;&#1088;&#1080;&#1073;&#1099;&#1083;&#1080; &#1087;&#1088;&#1080; &#1087;&#1086;&#1082;&#1091;&#1087;&#1082;&#1077; NFT"
     channeltitle "&#1043;&#1091;&#1089;&#1080;&#1085;&#1099;&#1077; &#1048;&#1089;&#1090;&#1086;&#1088;&#1080;&#1080;"
     channelid "UCBO6j4Eeng-0-xaX90KDvYw"
@@ -3709,7 +3709,7 @@ graph
     commentcount 794
     duration "PT31M32S"
     indegree 17
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 2324
     duration "PT4M51S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -3735,7 +3735,7 @@ graph
     label "xey5GOO_aRo"
     step 0
     date "2021-09-22T17:00:39Z"
-    title "Getting Started with Buying &#38;amp; Selling NFT&#38;#39;s on OpenSea"
+    title "Getting Started with Buying s on OpenSea"
     description "Thanks  @TheFranswah Studio  for helping us with this video. This video will cover everything you need to get started in the NFT trade. From setting up a Crypto Wallet to buying &#38; selling your first NFT on OpenSea. After this video you should have everything you need in order to get started.&#10;&#10;The 8 Best NFT Marketplaces to Explore Right Now: https://www.one37pm.com/nft/finance/best-nft-marketplace?utm_source=link_copy&#38;utm_medium=referral&#10;&#10;How to Set Up Your Rainbow Wallet: https://www.one37pm.com/nft/tech/how-to-set-up-your-rainbow-wallet?utm_source=link_copy&#38;utm_medium=referral&#10;&#10;&#9200; Time Stamps&#10;Intro 0:00&#10;Setting up MetaMask Wallet 0:44&#10;Adding ETH to MetaMask 2:00&#10;Setting up OpenSea Account 2:51&#10;Buying an NFT 3:55&#10;Selling an NFT 4:43&#10;&#10;&#128240;  To stay curious on NFT, Gaming, Sports, Music, &#38; Culture. &#10;&#9642;&#65039; Website: https://one37pm.com/&#10;&#10;&#128126;  Join our NFT, Gaming, &#38; Sports Community.&#10;&#9642;&#65039; Discord: https://discord.gg/TVZHm34Tza&#10;&#10;&#128071;  Follow our Socials:&#10;&#9642;&#65039; Twitter: https://twitter.com/137pm&#10;&#9642;&#65039; TikTok: https://tiktok.com/@one37pm&#10;&#9642;&#65039; Instagram: https://instagram.com/one37pm&#10;&#10;#ONE37pm #NFT #OpenSea"
     channeltitle "ONE37pm"
     channelid "UCKtW4czIzn-LW9IzG1h5kwA"
@@ -3745,7 +3745,7 @@ graph
     commentcount 28
     duration "PT6M25S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3753,7 +3753,7 @@ graph
     label "nFMgOrHXqY4"
     step 0
     date "2021-10-08T12:16:59Z"
-    title "&#3523;&#3540;&#3503;&#3530;&#3503;&#3505;&#3530;&#3495; NFT &#3524;&#3503;&#3517; &#3517;&#3505;&#3530;&#3482;&#3535;&#3520;&#3495; &#3482;&#3549;&#3495;&#3538; &#3484;&#3505;&#3505;&#3538;&#3505;&#3530; &#3497;&#3548;&#3517;&#3515;&#3530; &#3484;&#3546;&#3512;&#3540; !"
+    title " !"
     description "&#129384; follow me on Twitter for more info : https://twitter.com/xDilshanAbey&#10;&#129384; my tiktoks on crypto : https://www.tiktok.com/@daysofdilshan&#10;&#10;&#10004;&#65039; My VLOGS Channel: https://youtube.com/DaysOfDilshan&#10;&#129384; &#3512;&#3484;&#3546; &#3523;&#3514;&#3538;&#3495;&#3530; &#3473;&#3482; : https://dilshan.me | https://dilshanabey.com | https://GG.lk&#10;&#128249; &#3465;&#3505;&#3530;&#3523;&#3530;&#3495; &#3473;&#3482;&#3495; &#3523;&#3545;&#3495;&#3530; &#3520;&#3545;&#3505;&#3530;&#3505; : https://instagram.com/dilshanAbey&#10;&#127908; podcast &#3473;&#3482; : https://anchor.fm/dilshanabey&#10;&#10084;&#65039; &#3512;&#3484;&#3546; &#3526;&#3520;&#3540;&#3505;&#3530;&#3497;&#3546;&#3521;&#3505;&#3530; &#3473;&#3482; : http://HelpSriLankans.com&#10;&#128293;  FB : https://fb.com/dilshanabey&#10;&#10;&#10;hosted by Dilshan Abeygunawardana"
     channeltitle "myHub LK"
     channelid "UCAsiMV48pTnbzieiIBloEFA"
@@ -3763,7 +3763,7 @@ graph
     commentcount 382
     duration "PT38M38S"
     indegree 5
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 35
     duration "PT8M43S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3807,7 +3807,7 @@ graph
     label "Gx2H9AbxmZ0"
     step 0
     date "2022-04-03T13:00:13Z"
-    title "&#191;Qu&#233; onda con los NFT?"
+    title " onda con los NFT?"
     description "&#191;Qu&#233; son los NFT? &#191;Son una buena inversi&#243;n? &#191;O son una estafa?&#10;#Divulgaci&#243;n  #Ciencia #Finanzas #CuriosaMente332&#10;Cuando te propones cumplir un reto en equipo, hay m&#225;s motivaci&#243;n para lograrlo ya que todas y todos se impulsar&#225;n para seguir adelante hasta lograrlo. Por eso Platzi te trae: &#8220;Expert family&#8221;, que adem&#225;s del beneficio econ&#243;mico te permitir&#225; estudiar con m&#225;s personas, compartir e intercambiar experiencias, conocimientos y aprendizajes que de otra forma no tendr&#237;as. Ingresa a: https://platzi.com/l/CuriosamenteFamily/ &#10;&#10;O ap&#243;yanos en Patreon (mismos beneficios): https://www.patreon.com/curiosamente&#10;&#10;PARA SABER M&#193;S:&#10;Gasto energ&#233;tico del Bitcoin: https://digiconomist.net/bitcoin-energy-consumption/#:~:text=The%20Bitcoin%20Energy%20Consumption%20Index,experiencing%20multiple%20dimensions%20of%20deprivation&#10;&#10;The Future Is Not Only Useless, It's Expensive https://www.gawker.com/culture/the-future-is-useless-expensive&#10;&#10;NFT Were Supposed to Protect Artists. They Don't. - The Atlantic  https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/&#10;&#10;Platform is Law: The cautionary tale of stolen NFT &#8211; TechnoLlama: https://www.technollama.co.uk/platform-is-law-the-cautionary-tale-of-stolen-nfts&#10;&#10;Preying on the poor? Opportunities and challenges for tackling the social and environmental threats of cryptocurrencies for vulnerable and low-income communities https://www.researchgate.net/publication/356285400_Preying_on_the_poor_Opportunities_and_challenges_for_tackling_the_social_and_environmental_threats_of_cryptocurrencies_for_vulnerable_and_low-income_communities&#10;&#10;Gui&#243;n: Tonatiuh Moreno&#10;Ilustraciones: &#10;Erasmo Rodr&#237;guez https://www.facebook.com/Erasmono&#10;M&#250;sica: Miguel Sol&#237;s, Mary Camarena y Jorge Verd&#237;n&#10;Animaci&#243;n:&#10;Alejandra Espinosa https://www.instagram.com/alepan_ca/&#10;Edici&#243;n: Erick Blackmer https://www.imdb.com/name/nm8710137/"
     channeltitle "CuriosaMente"
     channelid "UCX16cLWl6dCjlZMgUBxgGkA"
@@ -3817,7 +3817,7 @@ graph
     commentcount 1220
     duration "PT12M26S"
     indegree 16
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -3825,7 +3825,7 @@ graph
     label "GyaoJBY_qSY"
     step 0
     date "2022-06-21T13:53:57Z"
-    title "(&#1604;&#1604;&#1605;&#1576;&#1578;&#1583;&#1574;&#1610;&#1606; &#1608;&#1576;&#1583;&#1608;&#1606; &#1585;&#1571;&#1587; &#1575;&#1604;&#1605;&#1575;&#1604;) NFTs &#1605;&#1606; 0$ &#1573;&#1604;&#1609; 11000$ &#1593;&#1606; &#1591;&#1585;&#1610;&#1602;"
+    title "("
     description "(&#1604;&#1604;&#1605;&#1576;&#1578;&#1583;&#1574;&#1610;&#1606; &#1608;&#1576;&#1583;&#1608;&#1606; &#1585;&#1571;&#1587; &#1575;&#1604;&#1605;&#1575;&#1604;) NFTs &#1605;&#1606; 0$ &#1573;&#1604;&#1609; 11000$ &#1593;&#1606; &#1591;&#1585;&#1610;&#1602;&#10;============================================================&#10;&#128293; Binance - Get $50 OFF Trading Fees https://bit.ly/mraddiebinance&#10;============================================================&#10;&#128293; All Access Creative Fabrica For $1 https://bit.ly/cf1dollar&#10;============================================================&#10;&#128293; Buy A Merch By Amazon Account https://bit.ly/mbaaccount&#10;============================================================&#10;&#128293; Merch By Amazon Arabic Course https://academy.mraddie.com/s/store/courses/description/MBA-Masters-Live-Course-Arabic-Beginners&#10;============================================================&#10;&#128293; My Merch By Amazon Course https://mraddie.com/mba-course&#10;============================================================&#10;&#128293; Win A Merch By Amazon Account https://bit.ly/mba-giveaway&#10;============================================================&#10;&#128293; My 1 To 1 Private Coaching https://mraddie.com/coaching&#10;============================================================&#10;&#128293; My Monthly Profitable Hot Niches Research https://mraddie.com/niches-sub&#10;============================================================&#10;&#128293; My Profitable POD Scalable Phrases https://mraddie.com/scalable-phrases&#10;============================================================&#10;&#128293; 200+ Free POD Profitable Niches https://mraddie.com/200-niches&#10;============================================================&#10;&#128293; All Access Creative Fabrica For $1 https://bit.ly/cf1dollar&#10;============================================================&#10;&#128293; 35% OFF Vexels Subscription https://bit.ly/2WtTSUU&#10;============================================================&#10;&#128293; Proven Money Making Methods https://taplink.cc/mraddie&#10;============================================================&#10;&#128293; AMZScout https://bit.ly/2wMg3fc&#10;============================================================&#10;&#128293; Free Amazon PPC Tool https://masteraddiep.com/sellicsbenchmarker&#10;============================================================&#10;&#128293; 25% OFF Podly &#128073; https://bit.ly/3IUEQxI Use Code PODLY25&#10;============================================================&#10;&#128293; Adobe Illustrator 7 Days Free Trial https://bit.ly/3jPagrS&#10;&#128293; Adobe Creative Cloud 7 Days Free Trial https://bit.ly/2I32Bc4&#10;============================================================&#10;&#128293; Free Canva Design Website https://bit.ly/3epm4hM&#10;============================================================&#10;&#128293; 30 Days Canva Pro Design Website Trial https://bit.ly/3epm4hM&#10;============================================================&#10;&#128293; 20% OFF Flying Research https://bit.ly/3u7uYtu Use Code MRADDIE&#10;============================================================&#10;&#128293; Merch Ninja http://bit.ly/2szNjnI&#10;Get 15% OFF For lifetime with Coupon ADDIE15&#10;============================================================&#10;&#128293; 20% OFF Merch Informer http://bit.ly/2EXbi3i Use Code ADDIE20&#10;============================================================&#10;&#128293; Jungle Scout https://bit.ly/3iRveqG&#10;============================================================&#10;&#128293; AMZScout https://bit.ly/2wMg3fc&#10;============================================================&#10;&#128293; My Main Print On Demand Tools And Resources https://bit.ly/2W3EYnM&#10;============================================================&#10;&#128293; Merch By Amazon Playlist 1 http://bit.ly/2KciTzg&#10;&#128293; Merch By Amazon Playlist 2 https://bit.ly/3DSyKdY&#10;============================================================&#10;&#128293; Business Email adnan@masteraddiep.com&#10;============================================================&#10;&#128293; Join My English Facebook Group https://bit.ly/36CeS1r&#10;&#128293; Join My Arabic Facebook Group http://bit.ly/2X2KJ77&#10;&#128293; Follow My Facebook Page https://www.facebook.com/MasterAddieP&#10;============================================================&#10;&#128293; Follow Me On Instagram http://bit.ly/2k31TjG&#10;============================================================"
     channeltitle "Mr Adnan"
     channelid "UCrVAIpnjKVj6iYG2p8I6XDQ"
@@ -3835,7 +3835,7 @@ graph
     commentcount 101
     duration "PT16M2S"
     indegree 4
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 120
     duration "PT2M22S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3861,7 +3861,7 @@ graph
     label "cDk1FPoCfqI"
     step 0
     date "2021-11-17T12:00:48Z"
-    title "&#19981;&#21487;&#19981;&#30693;&#30340;NFT&#65292;&#20803;&#23431;&#23449;&#30340;&#26681;&#26412;&#65292;&#21478;&#19968;&#20491;&#19990;&#30028;&#30340;&#35657;&#26126; | &#32769;&#39640;&#33287;&#23567;&#33545; Mr &#38;amp; Mrs Gao"
+    title " Mrs Gao"
     description "&#12304;&#21152;&#20837;&#26371;&#21729;&#25353;&#37397;&#12305;https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/join&#10;&#12304;&#20986;&#36067;&#38728;&#39746;&#25353;&#37397;&#12305;https://goo.gl/VhzZeS&#10;------------------------------------------------&#10;&#30456;&#38364;&#37832;&#25509;&#65306;&#10;&#10;&#36229;&#20986;&#20320;&#24819;&#35937;&#30340;&#28145;&#28023;&#19990;&#30028;&#10;https://www.youtube.com/watch?v=dNmwPWRdv_0&#10;&#10;&#20154;&#28858;&#20160;&#40636;&#26159;&#20154;&#65292;&#20154;&#39006;&#26368;&#19981;&#21487;&#24605;&#35696;&#30340;&#20845;&#20491;&#29305;&#24449;&#10;https://www.youtube.com/watch?v=EiWuajug1W4&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#36889;&#26159;&#19968;&#37096;&#35299;&#38283;&#25152;&#26377;&#23431;&#23449;&#20043;&#35598;&#30340;&#24433;&#29255;&#10;https://www.youtube.com/watch?v=3QS5hyXpNyw&#10;&#10;&#12304;&#38663;&#25788;&#12305;2045&#24180;&#65292;&#20154;&#39006;&#31350;&#31455;&#26159;&#28357;&#32085;&#36996;&#26159;&#25104;&#31070;&#10;https://www.youtube.com/watch?v=WY4XLDBDyuk&#10;&#10;&#30446;&#21069;&#31532;&#20108;&#38263;&#30340;&#19968;&#26399;&#65292;&#22810;&#37325;&#20154;&#26684;&#20998;&#35010;&#10;https://www.youtube.com/watch?v=QAGDGja7kbs&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#26234;&#21830;200&#20063;&#28961;&#27861;&#35299;&#31572;&#65292;&#23431;&#23449;&#26368;&#22823;&#30340;&#35598;&#22296;&#65292;&#26178;&#38291;&#10;https://www.youtube.com/watch?v=6SkbNlWMG5w&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#36889;&#26159;&#19968;&#37096;&#20320;&#26126;&#22825;&#36996;&#26371;&#20877;&#30475;&#19968;&#36941;&#30340;&#24433;&#29255;&#10;https://www.youtube.com/watch?v=odc0ajxCq2c&#10;&#10;&#21335;&#26997;&#21644;&#21271;&#26997;&#65292;&#22320;&#29699;&#19978;&#26368;&#19981;&#21487;&#24605;&#35696;&#30340;&#20841;&#20491;&#22320;&#26041;&#10;https://www.youtube.com/watch?v=jSSIeOlIqu0&#10;&#10;&#20154;&#39006;&#19981;&#33021;&#20877;&#27425;&#30331;&#19978;&#26376;&#29699;&#30340;&#30495;&#27491;&#21407;&#22240;&#30495;&#26159;&#38627;&#20197;&#32622;&#20449;&#10;https://www.youtube.com/watch?v=2vzwtqhhJv8&#10;&#10;&#29694;&#20195;&#25216;&#34899;&#20063;&#28961;&#27861;&#20877;&#29694;&#30340;&#19971;&#20491;&#22855;&#36321;&#10;https://www.youtube.com/watch?v=KtDGWBqCmtk&#10;&#10;&#20154;&#39006;&#30340;&#38577;&#34255;&#33021;&#21147;&#65292;&#24478;&#27683;&#21151;&#21040;&#36229;&#33021;&#21147;&#36996;&#26377;&#21478;&#19968;&#20491;&#19990;&#30028;&#30340;&#23384;&#22312;&#10;https://www.youtube.com/watch?v=3Okf8nOIVLY&#10;&#10;&#20154;&#39006;&#19981;&#33021;&#30693;&#36947;&#30340;&#31192;&#23494;&#65292;&#20154;&#26063;&#30340;&#25925;&#20107;&#10;https://www.youtube.com/watch?v=JVOzntXOGRc&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#28023;&#22887;&#33775;&#38928;&#35328;&#65292;&#20154;&#39006;&#36215;&#28304;&#65292;&#32822;&#31308;&#26159;&#35504;&#65292;&#37329;&#23383;&#22612;&#20043;&#35598;&#65292;&#20320;&#24819;&#30693;&#36947;&#30340;&#31572;&#26696;&#36889;&#35041;&#37117;&#26377;&#10;https://www.youtube.com/watch?v=1rUWY2z4wUk&#10;&#10;&#20182;&#20497;&#31350;&#31455;&#26159;&#35504;&#65311;&#27604;&#37329;&#23383;&#22612;&#36996;&#35463;&#24373;&#30340;&#36960;&#21476;&#25991;&#26126;&#10;https://www.youtube.com/watch?v=vA7IJRaW0Eo&#10;&#10;&#26368;&#31070;&#22855;&#30340;&#26143;&#29699;&#65292;&#22320;&#29699;&#20197;&#21450;&#20154;&#39006;&#23384;&#22312;&#30340;&#30495;&#27491;&#21407;&#22240;&#10;https://www.youtube.com/watch?v=BLpv9fCZqcs&#10;&#10;&#22825;&#22530;&#30340;&#35657;&#26126;&#65292;&#19968;&#20491;&#20320;&#36889;&#36649;&#23376;&#37117;&#30475;&#19981;&#21040;&#30340;&#19990;&#30028;&#10;https://www.youtube.com/watch?v=L8SZQPyB1c8&#10;&#10;&#23427;&#30340;&#19979;&#38754;&#22475;&#34255;&#33879;&#38364;&#26044;&#19990;&#30028;&#26411;&#26085;&#30340;&#37325;&#35201;&#20449;&#24687;&#10;https://www.youtube.com/watch?v=Q0pSMTLXvjo&#10;&#10;&#19968;&#33836;&#24180;&#24460;&#30340;&#19990;&#30028;&#19981;&#26371;&#27604;&#29694;&#22312;&#26356;&#20808;&#36914;&#30340;&#30495;&#27491;&#21407;&#22240;&#10;https://www.youtube.com/watch?v=sWY1PtudTEA&#10;&#10;1&#33836;2&#21315;&#24180;&#21069;&#30340;&#36889;&#20491;&#35037;&#32622;&#31350;&#31455;&#26159;&#29992;&#20358;&#20570;&#20160;&#40636;&#30340;&#10;https://www.youtube.com/watch?v=NFH7IErIm3k&#10;&#10;&#20154;&#39006;&#28040;&#22833;&#19968;&#33836;&#24180;&#24460;&#65292;&#19968;&#20999;&#37117;&#19981;&#35211;&#20102;&#65292;&#21482;&#26377;&#23427;&#36996;&#22312;&#10;https://www.youtube.com/watch?v=EW77R_D-XCw&#10;&#10;&#30446;&#21069;&#26368;&#38263;&#30340;&#19968;&#26399;&#65292;&#21482;&#26377;&#20116;&#27506;&#25260;&#38957;&#25165;&#33021;&#30475;&#25026;&#30340;&#22825;&#33021;&#65288;&#20449;&#26465;&#65289;&#10;https://www.youtube.com/watch?v=UiyWuEwxCNQ&#10;&#10;&#20154;&#39006;&#30340;&#26997;&#38480;&#65292;&#22781;&#21629;&#30340;&#26997;&#38480;&#26159;&#22810;&#23569;&#65292;&#21487;&#20197;&#22810;&#20037;&#19981;&#21507;&#39151;&#19981;&#30561;&#35258;&#10;https://www.youtube.com/watch?v=VCIHVq2GISw&#10;&#10;&#39514;&#20154;&#35657;&#25818;&#25581;&#31034;&#22320;&#19979;&#19990;&#30028;&#30340;&#23384;&#22312;&#65292;&#20182;&#20497;&#31350;&#31455;&#26159;&#35504;&#10;https://www.youtube.com/watch?v=0AuaFv9pUYE&#10;&#10;&#12304;&#25705;&#32687;&#24231;&#30340;&#20154;&#27880;&#24847;&#20102;&#12305;&#31070;&#23601;&#20358;&#33258;&#20320;&#20497;&#30340;&#23432;&#35703;&#26143;&#10;https://www.youtube.com/watch?v=EkELAx2Uk1w&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#20126;&#29305;&#34349;&#33922;&#26031;&#30495;&#30340;&#25214;&#21040;&#20102;&#65292;&#31070;&#65292;&#30495;&#30340;&#23384;&#22312;&#36942;&#10;https://www.youtube.com/watch?v=QbcKVbL3VOQ&#10;&#10;&#12304;&#23436;&#32654;&#29359;&#32618;&#12305;&#21448;&#19968;&#20491;&#36229;&#36229;&#36229;&#39640;&#26234;&#21830;&#30340;&#30007;&#20154;&#10;https://www.youtube.com/watch?v=SSzJdSsLneI&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#19968;&#20999;&#37117;&#19981;&#26159;&#24039;&#21512;&#65292;2020&#30495;&#27491;&#30340;&#38928;&#35328;&#10;https://www.youtube.com/watch?v=wGaTEf0e67U&#10;&#10;&#12304;&#26376;&#29699;&#31532;&#19977;&#37096;&#12305;&#20154;&#39006;&#28961;&#27861;&#20877;&#27425;&#30331;&#26376;&#30340;&#21478;&#19968;&#31278;&#21487;&#33021;&#10;https://www.youtube.com/watch?v=Udvl_VJoM94&#10;&#10;&#22320;&#26377;&#22810;&#21402;&#65292;&#24118;&#20320;&#19968;&#36215;&#21069;&#24448;&#22320;&#26680;&#30340;&#26053;&#34892;&#10;https://www.youtube.com/watch?v=lRVSC97q8ew&#10;&#10;KFK&#38928;&#35328;&#65292;&#30446;&#21069;&#29234;&#27490;&#26368;&#21487;&#20449;&#30340;&#19968;&#20491;&#26410;&#20358;&#20154;&#10;https://www.youtube.com/watch?v=ZTxc1YY64cM&#10;&#10;&#12304;&#36027;&#31859;&#24726;&#35542;&#12305;&#20154;&#39006;&#33267;&#20170;&#28961;&#27861;&#30332;&#29694;&#22806;&#26143;&#20154;&#30340;14&#31278;&#21487;&#33021;&#65292;&#36234;&#24448;&#24460;&#21487;&#33021;&#24615;&#36234;&#22823;&#10;https://www.youtube.com/watch?v=N4xXGIrzKJs&#10;&#10;&#30149;&#27602;&#65292;&#36914;&#21270;&#10;https://www.youtube.com/watch?v=_oBVDBVTKbU&#10;&#10;2020&#65292;&#38928;&#35328;&#10;https://www.youtube.com/watch?v=LJYCRLePR0g&#10;&#10;&#30446;&#21069;&#20449;&#24687;&#37327;&#26368;&#22823;&#30340;&#19968;&#26399;&#65292;&#37325;&#21147;&#10;https://www.youtube.com/watch?v=-TDVKQjmf7c&#10;&#10;&#22320;&#29699;&#19978;&#26368;&#24120;&#35211;&#21371;&#26368;&#31070;&#22855;&#30340;&#26481;&#35199;&#65292;&#27700;&#10;https://www.youtube.com/watch?v=7q88m5MQRhE&#10;&#10;&#31361;&#28982;&#28040;&#22833;&#30340;&#30334;&#24917;&#22823;&#19977;&#35282;&#10;https://www.youtube.com/watch?v=kb3ZMhR66fY&#10;&#10;&#20154;&#39006;&#30239;&#30123;&#21490;&#65292;&#23384;&#27963;&#19979;&#20358;&#30340;&#21807;&#19968;&#26041;&#27861;&#10;https://www.youtube.com/watch?v=K4t6nF8dDHQ&#10;&#10;&#30446;&#21069;&#20171;&#32057;&#36942;&#30340;&#26368;&#21426;&#23475;&#30340;&#19968;&#20301;&#65292;&#27492;&#20154;&#20841;&#27506;&#23601;&#33021;&#25260;&#38957;&#10;https://www.youtube.com/watch?v=t_WGhKQ7xqI&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#36914;&#21270;&#65292;&#24478;1859&#21040;2020&#10;https://www.youtube.com/watch?v=yNFgOL-7nOw&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#35582;&#20126;&#26041;&#33311;&#65292;&#19981;&#26159;&#31070;&#35441;&#32780;&#26159;&#38928;&#35328;&#65292;&#28450;&#23383;&#20013;&#38577;&#34255;&#30340;&#31192;&#23494;&#10;https://www.youtube.com/watch?v=czNMh9kVhIE&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#21490;&#19978;&#26368;&#28145;&#22887;&#30340;&#35441;&#38988;&#65292;&#24847;&#35672;&#10;https://www.youtube.com/watch?v=wraBVnAfunc&#10;&#10;&#12304;&#23556;&#25163;&#24231;&#30340;&#20154;&#27880;&#24847;&#20102;&#12305;&#20320;&#20497;&#30340;&#23432;&#35703;&#26143;&#22826;&#21361;&#38570;&#65292;&#39080;&#36895;&#27599;&#31186;&#19977;&#30334;&#20844;&#37324;&#65292;&#26408;&#26143;&#10;https://www.youtube.com/watch?v=dr9ISxjOO00&#10;&#10;&#24597;&#28023;&#30340;&#20154;&#19981;&#35201;&#30475;&#65292;&#30495;&#23526;&#30340;&#32654;&#20154;&#39770;&#10;https://www.youtube.com/watch?v=3cHZfgSqPa4&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#22320;&#29699;&#27511;&#21490;&#30340;&#26368;&#22823;&#35598;&#22296;&#65292;&#22823;&#27946;&#27700;&#10;https://www.youtube.com/watch?v=w69h0zCso-o&#10;&#10;&#21313;&#24180;&#20839;&#23559;&#26371;&#28040;&#22833;&#30340;&#32887;&#26989;&#65292;&#20320;&#22914;&#26524;&#27491;&#22312;&#20570;&#36889;&#20123;&#24037;&#20316;&#26368;&#22909;&#30433;&#24555;&#36681;&#34892;&#10;https://www.youtube.com/watch?v=Mshz9DxQLbE&#10;&#10;&#20320;&#25152;&#19981;&#20102;&#35299;&#30340;&#22825;&#31354;&#30340;&#19990;&#30028;&#10;https://www.youtube.com/watch?v=x1QyVwFRrIg&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#19990;&#38291;&#33836;&#29289;&#30340;&#22781;&#21629;&#65292;&#22320;&#29699;&#19978;&#21807;&#19968;&#27704;&#29983;&#30340;&#29983;&#21629;&#10;https://www.youtube.com/watch?v=z7_3A3FuKKc&#10;&#10;&#20013;&#22283;&#21476;&#20195;&#20840;&#37117;&#26159;&#22806;&#26143;&#20154;&#65292;&#32780;&#19988;&#21644;&#34311;&#32654;&#31070;&#35441;&#23621;&#28982;&#26159;&#19968;&#27171;&#30340;&#10;https://www.youtube.com/watch?v=nPnNQNCoC9M&#10;&#10;&#20320;&#30340;&#29983;&#26085;&#25976;&#23383;&#30456;&#21152;&#31561;&#26044;&#24190;&#65311;&#22914;&#26524;&#31561;&#26044;369&#65292;&#37027;&#20320;&#35387;&#23450;&#19981;&#24179;&#20961;&#21834;&#10;https://www.youtube.com/watch?v=KQv0lEaDGco&#10;&#10;&#12304;&#37117;&#24066;&#20659;&#35498;&#12305;&#20841;&#20491;&#26410;&#20358;&#20154;&#30340;&#38928;&#35328;&#23526;&#22312;&#22826;&#28310;&#22826;&#21487;&#24597;&#10;https://www.youtube.com/watch?v=jeqH4eMGjhY&#10;&#10;&#30446;&#21069;&#26368;&#24555;&#30340;&#24433;&#29255;&#65292;&#36895;&#24230;&#30340;&#19990;&#30028;&#10;https://www.youtube.com/watch?v=yf7S1s37des&#10;&#10;&#19971;&#20491;&#21487;&#33021;&#27584;&#28357;&#19990;&#30028;&#30340;&#31185;&#23416;&#23526;&#39511;&#65292;&#20854;&#20013;&#19977;&#20491;&#36996;&#22312;&#36914;&#34892;&#20013;&#10;https://www.youtube.com/watch?v=ElqnKNkiyHA&#10;&#10;&#31070;&#20316;&#65281;&#26143;&#38555;&#25928;&#25033;&#65292;&#29992;&#26368;&#31777;&#21934;&#30340;&#26041;&#24335;&#21578;&#35380;&#20320;&#20160;&#40637;&#26159;&#20116;&#32173;&#26178;&#31354;&#10;https://www.youtube.com/watch?v=KefYmjM0E7g&#10;&#10;&#20986;&#36067;&#38728;&#39746;&#30340;&#27491;&#30906;&#26041;&#27861;&#65292;&#39764;&#39740;&#32854;&#32147;&#10;https://www.youtube.com/watch?v=0vomd4ymSLc&#10;&#10;&#12304;&#27161;&#38988;&#27794;&#23531;&#37679;&#12305;&#26368;&#25509;&#36817;&#26368;&#25509;&#36817;&#31070;&#30340;&#30007;&#20154;&#30340;&#30007;&#20154;&#65292;&#39340;&#26031;&#20811;&#10;https://www.youtube.com/watch?v=Rw6uwff3RTU&#10;&#10;&#21487;&#24597;&#30340;&#24040;&#22823;&#21490;&#21069;&#29983;&#29289;&#65292;&#25105;&#20497;&#35442;&#24950;&#24184;&#23427;&#20497;&#24050;&#32147;&#28357;&#32085;&#20102;&#10;https://www.youtube.com/watch?v=BXybSLUlFvM&#10;&#10;&#27874;&#32645;&#30340;&#28023;&#19979;&#30340;&#24040;&#22823;&#22291;&#30436;&#65292;&#23427;&#22312;&#36889;&#35041;14&#33836;&#24180;&#20102;&#10;https://www.youtube.com/watch?v=QAbx4ruDEm0&#10;&#10;&#12304;&#38663;&#25788;&#12305;5G&#65292;6G&#65292;7G&#65292;8G&#65292;&#24859;&#28961;&#25152;&#19981;&#22312;&#10;https://www.youtube.com/watch?v=SYwrYdKOk50&#10;&#10;&#25214;&#21040;&#20102;&#25506;&#32034;&#40657;&#27934;&#20839;&#37096;&#30340;&#21807;&#19968;&#26041;&#27861; &#10;https://www.youtube.com/watch?v=eblocB9LzsA&#10;&#10;&#19990;&#30028;&#19978;&#26368;&#36020;&#30340;&#26481;&#35199;&#10;https://www.youtube.com/watch?v=2FLYgFa2ZyI&#10;&#10;&#30446;&#21069;&#26368;&#32048;&#24605;&#26997;&#24656;&#30340;&#19968;&#26399;&#65292;&#20108;&#21313;&#20116;&#34399;&#23431;&#23449;&#10;https://www.youtube.com/watch?v=htz2xCJb3Lc&#10;&#10;&#12304;&#38663;&#25788;&#12305;&#33290;&#32004;&#32854;&#32147;&#20013;&#35352;&#36617;&#30340;&#20154;&#39006;&#36215;&#28304;&#25165;&#26159;&#30495;&#23526;&#30340;&#10;https://www.youtube.com/watch?v=iEeBnhMadkk&#10;&#10;&#38634;&#23665;&#19978;&#30332;&#29983;&#30340;&#26368;&#19981;&#21487;&#24605;&#35696;&#30340;&#20107;&#10;https://www.youtube.com/watch?v=8Y-l9WaOd_w&#10;&#10;&#19990;&#30028;&#19978;&#26368;&#23500;&#26377;&#19988;&#26368;&#31070;&#31192;&#30340;&#23478;&#26063;&#65292;&#32645;&#26031;&#26612;&#29246;&#24503;&#10;https://www.youtube.com/watch?v=SLRLVna14BU&#10;&#10;&#38549;&#30707;&#65292;&#26377;&#20160;&#40636;&#26481;&#35199;&#27491;&#20445;&#35703;&#33879;&#25105;&#20497;&#10;https://www.youtube.com/watch?v=GJ8VBKwsMGo&#10;&#10;&#20154;&#39006;&#38614;&#28982;&#28961;&#27861;&#20877;&#27425;&#30331;&#19978;&#26376;&#29699;&#65292;&#20294;&#21371;&#21487;&#20197;&#30331;&#19978;&#22826;&#38525;&#30340;&#30495;&#27491;&#21407;&#22240;&#10;https://www.youtube.com/watch?v=Ep803Xiso5E&#10;&#10;&#19990;&#30028;&#19978;&#21807;&#19968;&#19968;&#20491;&#20173;&#28982;&#22312;&#20351;&#29992;&#39764;&#27861;&#30340;&#22283;&#23478;&#10;https://www.youtube.com/watch?v=_HZHXVqhayc&#10;&#10;&#28779;&#26143;&#65292;&#36234;&#30475;&#36234;&#20687;&#23612;&#27604;&#39791;&#10;https://www.youtube.com/watch?v=2GU9kis1hDo&#10;&#10;&#30475;&#24471;&#35211;&#25720;&#24471;&#33879;&#21371;&#28961;&#27861;&#35299;&#37323;&#65292;&#19990;&#30028;&#19978;&#26368;&#22823;&#30340;&#35598;&#22296;&#65292;&#31532;&#19968;&#38598;&#10;https://www.youtube.com/watch?v=Ttus8XGK6Xw&#10;&#10;&#36942;&#21435;&#21487;&#20197;&#34987;&#25913;&#35722;&#30340;&#30495;&#27491;&#21407;&#22240;&#65292;&#34987;&#35342;&#21421;&#30340;&#21191;&#27683;&#10;https://www.youtube.com/watch?v=5cZxZCbcOQw&#10;&#10;&#24656;&#40845;&#28357;&#32085;&#30340;&#30495;&#27491;&#21407;&#22240;&#10;https://www.youtube.com/watch?v=Bw43lOuzmpg&#10;&#10;------------------------------------------------&#10;&#25512;&#34214;&#25773;&#25918;&#21015;&#34920;&#65306;&#10;&#10;&#12304;&#26410;&#20358;&#12305;https://goo.gl/Bq54h5&#10;&#10;&#12304;&#20659;&#35498;&#12305;https://goo.gl/CpmK2Y&#10;&#10;&#12304;&#24515;&#29702;&#28204;&#35430;&#12305;https://goo.gl/wf5dp5&#10;&#10;&#12304;&#22855;&#36259;&#12305;https://goo.gl/Tbpiuj"
     channeltitle "&#32769;&#39640;&#33287;&#23567;&#33545; Mr &#38; Mrs Gao"
     channelid "UCMUnInmOkrWN4gof9KlhNmQ"
@@ -3871,7 +3871,7 @@ graph
     commentcount 4824
     duration "PT25M35S"
     indegree 11
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 1726
     duration "PT44S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3897,7 +3897,7 @@ graph
     label "l6gSxUSCiv4"
     step 0
     date "2022-03-18T17:30:02Z"
-    title "&#1605;&#1575;&#1607;&#1608; &#1575;&#1604;&#1600; NFT&#1567; | &#1571;&#1576;&#1587;&#1591; &#1588;&#1585;&#1581; &#1604;&#1604;&#1600; NFT &#1608;&#1573;&#1586;&#1575;&#1610; &#1578;&#1576;&#1583;&#1571;"
+    title ""
     description "&#1605;&#1578;&#1606;&#1587;&#1575;&#1588; &#1578;&#1578;&#1575;&#1576;&#1593; &#1576;&#1575;&#1602;&#1610; &#1587;&#1604;&#1575;&#1587;&#1604; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577;... &#1607;&#1578;&#1606;&#1601;&#1593;&#1603; &#1602;&#1608;&#1610;&#10;&#1608;&#1604;&#1610;&#1583; &#1591;&#1607; walid taha&#10;&#10;&#10084; &#1583;&#1593;&#1605; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577;:&#10;&#1593;&#1606; &#1591;&#1585;&#1610;&#1602; &#1576;&#1575;&#1610; &#1576;&#1575;&#1604;: https://www.paypal.com/paypalme/WELSHWT&#10;&#1575;&#1604;&#1583;&#1593;&#1605; &#1593;&#1604;&#1609; &#1610;&#1608;&#1578;&#1610;&#1608;&#1576;: https://www.youtube.com/channel/UCIL3YfRG2k7V9EDC3jzy-kg/join&#10;&#1575;&#1604;&#1583;&#1593;&#1605; &#1593;&#1604;&#1609; &#1576;&#1575;&#1578;&#1585;&#1610;&#1608;&#1606;: https://www.patreon.com/WalidTaha&#10;&#10;&#128226; &#1578;&#1575;&#1576;&#1593;&#1606;&#1610; &#1593;&#1604;&#1609; &#1575;&#1604;&#1587;&#1608;&#1588;&#1610;&#1575;&#1604; &#1605;&#1610;&#1583;&#1610;&#1575;:&#10;https://beacons.ai/walidtaha&#10;&#10;&#1575;&#1588;&#1578;&#1585;&#1603; &#1601;&#1610; &#1575;&#1604;&#1606;&#1588;&#1585;&#1577; &#1575;&#1604;&#1576;&#1585;&#1610;&#1583;&#1610;&#1577;&#10;&#1606;&#1588;&#1585;&#1577; &#1580;&#1610;&#1603;&#1606;&#1608;&#1604;&#1610;&#1583;&#1580; https://gohodhod.com/@geeknowledgeWT&#10;&#1606;&#1588;&#1585;&#1577; &#1605;&#1610;&#1603;&#1575;&#1606;&#1610;&#1603;&#1610; &#1576;&#1606;&#1610; &#1570;&#1583;&#1605;&#1610;&#1606; https://www.getrevue.co/profile/_walidtaha&#10;&#10;&#128248; &#1605;&#1593;&#1583;&#1575;&#1578; &#1575;&#1604;&#1578;&#1589;&#1608;&#1610;&#1585; &#10;https://amzn.to/3MOJSNZ&#10;&#10;&#10084;&#65039; &#1578;&#1575;&#1576;&#1593; &#1575;&#1604;&#1576;&#1608;&#1587;&#1578;&#1575;&#1578; &#1575;&#1604;&#1605;&#1606;&#1588;&#1608;&#1585;&#1577; &#1593;&#1604;&#1609; &#1610;&#1608;&#1578;&#1610;&#1608;&#1576; &#1603;&#1608;&#1605;&#1610;&#1608;&#1606;&#1610;&#1578;&#1610; &#1607;&#1578;&#1606;&#1601;&#1593;&#1603; &#1580;&#1583;&#1575;:&#10;https://www.youtube.com/c/WalidTaha/community&#10;&#10;&#128293; *&#1587;&#1604;&#1575;&#1587;&#1604; &#1607;&#1578;&#1606;&#1601;&#1593;&#1603; &#1602;&#1608;&#1610;* :&#10;&#9889; &#1587;&#1604;&#1587;&#1604;&#1577; Right It Right  &#1575;&#1604;&#1582;&#1575;&#1589;&#1577; &#1576;&#1575;&#1604;&#1603;&#1578;&#1575;&#1576;&#1577; &#1608;&#1575;&#1604;&#1600; Copywriting &#1608;&#1575;&#1604;&#1583;&#1610;&#1580;&#1610;&#1578;&#1575;&#1604; &#1605;&#1575;&#1585;&#1603;&#1578;&#1606;&#1580;\&#1575;&#1604;&#1578;&#1587;&#1608;&#1610;&#1602; &#1575;&#1604;&#1573;&#1604;&#1603;&#1578;&#1585;&#1608;&#1606;&#1610;&#10;https://bit.ly/WriteitRight&#10;&#10;&#9889; &#1571;&#1581;&#1587;&#1606; &#1605;&#1606; &#1575;&#1605;&#1576;&#1575;&#1585;&#1581;: &#10;https://bit.ly/3hyxtAk&#10;&#1608;&#1578;&#1575;&#1576;&#1593; &#1576;&#1575;&#1602;&#1610; &#1575;&#1604;&#1587;&#1604;&#1587;&#1604;&#1577; &#1593;&#1604;&#1609; &#1602;&#1606;&#1575;&#1577; Walid Taha Vlogs&#10;&#10;&#9889; &#1587;&#1604;&#1587;&#1604;&#1577; &#1578;&#1593;&#1604;&#1605; &#1575;&#1604;&#1578;&#1589;&#1608;&#1610;&#1585; &#1604;&#1604;&#1605;&#1576;&#1578;&#1583;&#1574;&#1610;&#1606; (&#1608;&#1585;&#1588;&#1577; &#1578;&#1589;&#1608;&#1610;&#1585;)&#10;https://bit.ly/3EisOMz&#10;&#10;&#9889; &#1587;&#1604;&#1587;&#1604;&#1577; &#1578;&#1593;&#1604;&#1605; &#1575;&#1604;&#1604;&#1594;&#1577; &#1575;&#1604;&#1573;&#1606;&#1580;&#1604;&#1610;&#1586;&#1610;&#1577; The Right Way To Say&#10;https://bit.ly/2Xj7dCC&#10;&#10;&#10;---------------------------------&#10;&#10;&#1578;&#1575;&#1576;&#1593; &#1575;&#1604;&#1606;&#1575;&#1587; &#1583;&#1610;:&#10;-  &#1607;&#1610;&#1579;&#1605; &#1581;&#1587;&#1606;&#10;https://www.youtube.com/channel/UCEmsCYiUpQSxUh3XFT8PPdw&#10;&#10;- Fluency First&#10;https://www.youtube.com/channel/UCcGTrBd0ltcZ2YBRLu5sDyA&#10;&#10;-  &#1605;&#1608;&#1602;&#1593; &#1594;&#1585;&#1575;&#1576;&#10;https://www.youtube.com/channel/UCBsvm0ponB5oVYwpX3DB72Q &#1571;&#1576;&#1587;&#1591; &#1588;&#1585;&#1581; &#1604;&#1604;&#1600; NFT &#1608;&#1573;&#1586;&#1575;&#1610; &#1578;&#1576;&#1583;&#1571;&#10;&#1601;&#1610; &#1581;&#1604;&#1602;&#1577; &#1575;&#1604;&#1606;&#1607;&#1575;&#1585;&#1583;&#1577; &#1605;&#1606; &#1580;&#1610;&#1603;&#1606;&#1608;&#1604;&#1610;&#1583;&#1580; &#1607;&#1606;&#1578;&#1603;&#1604;&#1605; &#1593;&#1606; &#1575;&#1604;&#1600; NFT &#1576;&#1576;&#1587;&#1575;&#1591;&#1577; &#1608;&#1576;&#1591;&#1585;&#1610;&#1602;&#1577; &#1607;&#1578;&#1606;&#1575;&#1587;&#1576; &#1571;&#1610; &#1581;&#1583; &#1593;&#1575;&#1610;&#1586; &#1610;&#1576;&#1583;&#1571; &#1571;&#1608; &#1610;&#1578;&#1593;&#1585;&#1601; &#1593;&#1604;&#1609; &#1575;&#1604;&#1600; NFT.&#10;&#10;&#10;#NFT #WalidTaha #Geeknowledge &#10;&#10;&#10;&#1605;&#1578;&#1606;&#1587;&#1575;&#1588; &#1578;&#1593;&#1605;&#1604; &#1604;&#1575;&#1610;&#1603; &#1608;&#1588;&#1610;&#1585; &#1608;&#1578;&#1588;&#1578;&#1585;&#1603; &#1601;&#1610; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#1608;&#1578;&#1601;&#1593;&#1604; &#1575;&#1604;&#1580;&#1585;&#1587;&#1548; &#1604;&#1571;&#1606;&#1603; &#1607;&#1578;&#1587;&#1575;&#1593;&#1583;&#1606;&#1610; &#1580;&#1583;&#1575;&#1611; &#1608;&#1575;&#1604;&#1605;&#1581;&#1578;&#1608;&#1609; &#1607;&#1610;&#1608;&#1589;&#1604; &#1604;&#1593;&#1583;&#1583; &#1571;&#1603;&#1576;&#1585;.&#10;&#1608;&#1604;&#1610;&#1583; &#1591;&#1607;&#10;&#10;&#10;&#1601;&#1610;&#1583;&#1610;&#1608; &#1588;&#1585;&#1581; &#1575;&#1604;&#1583;&#1582;&#1604; &#1575;&#1604;&#1587;&#1604;&#1576;&#1610; Passive Income&#10;https://youtu.be/KWXw_geXY2A&#10;&#10;&#10;&#1601;&#1610;&#1583;&#1610;&#1608; &#1571;&#1576;&#1587;&#1591; &#1588;&#1585;&#1581; &#1604;&#1604;&#1576;&#1604;&#1608;&#1603;&#1578;&#1588;&#1610;&#1606;&#10;https://youtu.be/cPZEDWf8aIs&#10;&#10;&#10;&#1601;&#1610;&#1583;&#1610;&#1608; &#1571;&#1576;&#1587;&#1591; &#1588;&#1585;&#1581; &#1604;&#1604;&#1605;&#1610;&#1578;&#1575;&#1601;&#1610;&#1585;&#1587; &#1608;&#1607;&#1578;&#1601;&#1607;&#1605; &#1605;&#1606;&#1607; &#1575;&#1604;&#1593;&#1604;&#1575;&#1602;&#1577; &#1605;&#1593; NFT&#10;https://youtu.be/1xlovcwMdtk&#10;&#10;&#10;&#1605;&#1578;&#1606;&#1587;&#1575;&#1588; &#1578;&#1593;&#1605;&#1604; &#1604;&#1575;&#1610;&#1603; &#1608;&#1588;&#1610;&#1585; &#1608;&#1578;&#1588;&#1578;&#1585;&#1603; &#1601;&#1610; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#1608;&#1578;&#1601;&#1593;&#1604; &#1575;&#1604;&#1580;&#1585;&#1587;&#1548; &#1604;&#1571;&#1606;&#1603; &#1607;&#1578;&#1587;&#1575;&#1593;&#1583;&#1606;&#1610; &#1580;&#1583;&#1575;&#1611; &#1608;&#1575;&#1604;&#1605;&#1581;&#1578;&#1608;&#1609; &#1607;&#1610;&#1608;&#1589;&#1604; &#1604;&#1593;&#1583;&#1583; &#1571;&#1603;&#1576;&#1585;.&#10;&#1608;&#1604;&#1610;&#1583; &#1591;&#1607;&#10;&#10;&#10;&#10084; &#1604;&#1608; &#1593;&#1575;&#1610;&#1586; &#1578;&#1583;&#1593;&#1605; &#1575;&#1604;&#1605;&#1581;&#1578;&#1608;&#1609; &#1608;&#1605;&#1588; &#1593;&#1575;&#1585;&#1601; &#1573;&#1586;&#1575;&#1610;&#1548; &#1571;&#1583;&#1582;&#1604; &#1593;&#1604;&#1609; &#1575;&#1604;&#1604;&#1610;&#1606;&#1603; &#1583;&#1607;&#1548; &#1607;&#1578;&#1604;&#1575;&#1602;&#1610; &#1603;&#1604; &#1575;&#1604;&#1578;&#1601;&#1575;&#1589;&#1610;&#1604;&#10;https://bit.ly/SupportWalidTaha&#10;--------------------------------&#10;&#1575;&#1588;&#1578;&#1585;&#1603; &#1601;&#1610; &#1575;&#1604;&#1606;&#1588;&#1585;&#1577; &#1575;&#1604;&#1576;&#1585;&#1610;&#1583;&#1610;&#1577;&#10;https://gohodhod.com/@geeknowledgeWT&#10;&#10;&#128248; &#1605;&#1593;&#1583;&#1575;&#1578; &#1575;&#1604;&#1578;&#1589;&#1608;&#1610;&#1585;: &#10;SOON&#10;--------------------------------&#10;&#10;&#128226; &#1578;&#1575;&#1576;&#1593;&#1606;&#1610; &#1607;&#1606;&#1575;:&#10;&#10004;&#65039; &#1610;&#1608;&#1578;&#1610;&#1608;&#1576; Walid Taha&#10;https://bit.ly/YTwalidtaha&#10;&#10004;&#65039; &#1610;&#1608;&#1578;&#1610;&#1608;&#1576; Walid Taha Vlogs&#10;https://bit.ly/YTwalidtahaVlogs&#10;&#10004;&#65039; &#1610;&#1608;&#1578;&#1610;&#1608;&#1576; ReelGeek&#10;https://bit.ly/WalidTahaReelGeek&#10;&#10004;&#65039; &#1573;&#1606;&#1587;&#1578;&#1580;&#1585;&#1575;&#1605;&#10;&#1575;&#1604;&#1581;&#1587;&#1575;&#1576; &#1575;&#1604;&#1571;&#1587;&#1575;&#1587;&#1610; &#1575;&#1604;&#1582;&#1575;&#1589; &#1576;&#1575;&#1604;&#1578;&#1589;&#1608;&#1610;&#1585;&#10;https://www.instagram.com/walidtahaart/&#10;&#1581;&#1587;&#1575;&#1576; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577;&#10;https://bit.ly/WalidTahaInstagram&#10;&#10;&#10004;&#65039; &#1601;&#1610;&#1587;&#1576;&#1608;&#1603; (&#1575;&#1604;&#1576;&#1585;&#1608;&#1601;&#1575;&#1610;&#1604;)&#10;https://bit.ly/WalidTahaA&#10;&#10004;&#65039; &#1601;&#1610;&#1587;&#1576;&#1608;&#1603; (&#1575;&#1604;&#1589;&#1601;&#1581;&#1577;)&#10;https://bit.ly/WalidTahaPage&#10;&#10004;&#65039; &#1578;&#1608;&#1610;&#1578;&#1585;&#10;https://bit.ly/WalidTahaTwitter&#10;&#10004;&#65039; &#1576;&#1608;&#1583;&#1603;&#1575;&#1587;&#1578; (&#1587;&#1576;&#1608;&#1578;&#1610;&#1601;&#1575;&#1610;)&#10;https://bit.ly/WalidTahaSpotify&#10;&#10004;&#65039; &#1576;&#1608;&#1583;&#1603;&#1575;&#1587;&#1578; (&#1587;&#1575;&#1608;&#1606;&#1583; &#1603;&#1604;&#1575;&#1608;&#1583;)&#10;https://bit.ly/WalidTahaSoundCloud&#10;&#10004;&#65039; &#1578;&#1610;&#1604;&#1610;&#1580;&#1585;&#1575;&#1605;&#10;https://t.me/WALID_TAHA&#10;&#10004;&#65039; &#1578;&#1610;&#1603;&#1578;&#1608;&#1603;&#10;https://vm.tiktok.com/ZSJKMUaoY/&#10;&#10;&#1575;&#1587;&#1605;&#1593; &#1575;&#1604;&#1576;&#1608;&#1583;&#1603;&#1575;&#1587;&#1578; &#1593;&#1604;&#1609; ANCHHOR&#10;https://anchor.fm/geekast&#10;&#10;&#1593;&#1604;&#1609; &#1580;&#1608;&#1580;&#1604; &#1576;&#1608;&#1583;&#1603;&#1575;&#1587;&#1578;&#10;https://bit.ly/googleGEEKAST&#10;&#10;&#1593;&#1604;&#1609; &#1587;&#1576;&#1608;&#1578;&#1610;&#1601;&#1575;&#1610;&#10;https://bit.ly/spotifyGEEKAST&#10;&#10;&#1593;&#1604;&#1609; &#1570;&#1576;&#1604; &#1576;&#1608;&#1583;&#1603;&#1575;&#1587;&#1578;&#10;https://bit.ly/appleGEEKAST&#10;--------------------------------&#10;&#10;&#10084;&#65039; &#1578;&#1575;&#1576;&#1593; &#1575;&#1604;&#1576;&#1608;&#1587;&#1578;&#1575;&#1578; &#1575;&#1604;&#1605;&#1606;&#1588;&#1608;&#1585;&#1577; &#1593;&#1604;&#1609; &#1610;&#1608;&#1578;&#1610;&#1608;&#1576; &#1603;&#1608;&#1605;&#1610;&#1608;&#1606;&#1610;&#1578;&#1610; &#1607;&#1578;&#1606;&#1601;&#1593;&#1603; &#1580;&#1583;&#1575;:&#10;https://www.youtube.com/c/WalidTaha/community&#10;--------------------------------&#10;&#128276; &#1575;&#1583;&#1593;&#1605; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#1593;&#1604;&#1609; &#1610;&#1608;&#1578;&#1610;&#1608;&#1576; (&#1583;&#1593;&#1605; &#1588;&#1607;&#1585;&#1610;)&#10;Join This channel to get access to perks:&#10;https://www.youtube.com/channel/UCIL3YfRG2k7V9EDC3jzy-kg/join&#10;&#128276; &#1578;&#1602;&#1583;&#1585;&#1608;&#1575; &#1578;&#1583;&#1593;&#1605;&#1608;&#1575; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#1605;&#1606; &#1607;&#1606;&#1575; (&#1583;&#1593;&#1605; &#1604;&#1605;&#1585;&#1577; &#1608;&#1575;&#1581;&#1583;&#1577; &#1571;&#1608; &#1588;&#1607;&#1585;&#1610;)&#10;https://www.buymeacoffee.com/walidtaha&#10;&#128276; &#1571;&#1608; &#1607;&#1606;&#1575; (&#1583;&#1593;&#1605; &#1588;&#1607;&#1585;&#1610;) &#10;https://www.patreon.com/WalidTaha&#10;---------------------------------&#10;&#10;&#128293; &#1587;&#1604;&#1575;&#1587;&#1604; &#1607;&#1578;&#1606;&#1601;&#1593;&#1603; &#1602;&#1608;&#1610;:&#10;&#9889; &#1587;&#1604;&#1587;&#1604;&#1577; Right It Right  &#1575;&#1604;&#1582;&#1575;&#1589;&#1577; &#1576;&#1575;&#1604;&#1603;&#1578;&#1575;&#1576;&#1577; &#1608;&#1575;&#1604;&#1600; Copywriting &#1608;&#1575;&#1604;&#1583;&#1610;&#1580;&#1610;&#1578;&#1575;&#1604; &#1605;&#1575;&#1585;&#1603;&#1578;&#1606;&#1580;\&#1575;&#1604;&#1578;&#1587;&#1608;&#1610;&#1602; &#1575;&#1604;&#1573;&#1604;&#1603;&#1578;&#1585;&#1608;&#1606;&#1610;&#10;https://bit.ly/WriteitRight&#10;&#10;&#9889; &#1571;&#1581;&#1587;&#1606; &#1605;&#1606; &#1575;&#1605;&#1576;&#1575;&#1585;&#1581;: &#10;https://bit.ly/3hyxtAk&#10;&#1608;&#1578;&#1575;&#1576;&#1593; &#1576;&#1575;&#1602;&#1610; &#1575;&#1604;&#1587;&#1604;&#1587;&#1604;&#1577; &#1593;&#1604;&#1609; &#1602;&#1606;&#1575;&#1577; Walid Taha Vlogs&#10;&#10;&#9889; &#1587;&#1604;&#1587;&#1604;&#1577; &#1578;&#1593;&#1604;&#1605; &#1575;&#1604;&#1578;&#1589;&#1608;&#1610;&#1585; &#1604;&#1604;&#1605;&#1576;&#1578;&#1583;&#1574;&#1610;&#1606; (&#1608;&#1585;&#1588;&#1577; &#1578;&#1589;&#1608;&#1610;&#1585;)&#10;https://bit.ly/3EisOMz&#10;&#10;&#9889; &#1587;&#1604;&#1587;&#1604;&#1577; &#1578;&#1593;&#1604;&#1605; &#1575;&#1604;&#1604;&#1594;&#1577; &#1575;&#1604;&#1573;&#1606;&#1580;&#1604;&#1610;&#1586;&#1610;&#1577; The Right Way To Say&#10;https://bit.ly/2Xj7dCC&#10;---------------------------------&#10;&#10;&#10084;&#65039; &#1573;&#1583;&#1593;&#1605; &#1575;&#1604;&#1606;&#1575;&#1587; &#1583;&#1610;:&#10;-  &#1607;&#1610;&#1579;&#1605; &#1581;&#1587;&#1606;&#10;https://www.youtube.com/channel/UCEmsCYiUpQSxUh3XFT8PPdw&#10;&#10;- Fluency First&#10;https://www.youtube.com/channel/UCcGTrBd0ltcZ2YBRLu5sDyA&#10;&#10;-  &#1605;&#1608;&#1602;&#1593; &#1594;&#1585;&#1575;&#1576;&#10;https://www.youtube.com/channel/UCBsvm0ponB5oVYwpX3DB72Q"
     channeltitle "Walid Taha"
     channelid "UCIL3YfRG2k7V9EDC3jzy-kg"
@@ -3907,7 +3907,7 @@ graph
     commentcount 350
     duration "PT8M51S"
     indegree 8
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 13
     duration "PT14M39S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3933,7 +3933,7 @@ graph
     label "L5sCyA_Spec"
     step 0
     date "2022-06-29T14:00:08Z"
-    title "MASSIVE NFT Project Updates &#38;amp; NFT News | Doodles 2 BULLISH, Clone X RTFKT, BAYC ApeFest, NFTs to Buy"
+    title "MASSIVE NFT Project Updates NFT News | Doodles 2 BULLISH, Clone X RTFKT, BAYC ApeFest, NFTs to Buy"
     description "The LATEST NFT News about TOP NFT Projects (Doodles NFTs, BAYC NFT, Clone X RTFKT, WAGDie)&#10;&#10;The Parallax Opensea: https://opensea.io/collection/theparallaxgenesis&#10;The Parallax Twitter: https://twitter.com/TheParallaxHQ&#10;The Parallax Discord: https://discord.gg/theparallax&#10;Patrick Dang Twitter: https://twitter.com/patrickdang&#10;&#10;Subscribe to The Parallax: https://www.youtube.com/theparallaxhq?sub_confirmation=1&#10;&#10;0:00 MASSIVE NFT Project Updates &#38; NFT News | Doodles 2 BULLISH, Clone X RTFKT, BAYC ApeFest, NFTs to Buy&#10;0:10 NFT Market Update&#10;2:25 BAYC NFT Event - Apefest&#10;5:17 Clone X &#38; RTFKT NFT&#10;7:39 WAGDie NFT&#10;9:28 Sh*tDeployer NFT&#10;11:50 Doodles NFT - Dooplicator NFT&#10;&#10;We'll cover the latest NFT market update to see if it's a NFT bull market for NFT flipping. Then, we'll talk about the top NFT project BAYC or Bored Ape NFTs and their NFT NYC ApeFest NFT Event. Next, we'll look at RTFKT NFT's Clone X NFT 3D models and if it's the best NFTs to buy now. After that, we'll look at NFTs projects WAGdie NFTs, Sh*tDeployer NFTs. Finally, we'll look at major NFT news about the hyped NFT project Doodles NFT, Dooplicator NFT, Doodles Space, and Pharrel Williams NFT.&#10;&#10;#bayc #doodles #nfts&#10;&#10;The Parallax is a media company committed to helping you navigate the new frontier of NFTs, Web3, and crypto.&#10;&#10;Disclaimer: The content expressed on The Parallax and by Patrick Dang is for educational and entertainment purposes only and should not be used as financial advice. Do your own research and consult with a professional financial advisor before making any financial decisions."
     channeltitle "The Parallax"
     channelid "UC8yPfDWbGGE7T66_eWJERZg"
@@ -3951,7 +3951,7 @@ graph
     label "r1vJ-HoAmmM"
     step 0
     date "2022-04-16T12:36:40Z"
-    title "How I Walk and Earn &#8377;4000 Daily ?  STEPN Move N Earn ! (Hindi)"
+    title "How I Walk and Earn 4000 Daily ? STEPN Move N Earn ! (Hindi)"
     description "Doston is video me maine STEPN ke baare me bataya hai ki kaise aap daily walking , jogging ya running karke 3-5000 rupees kama sakte ho . .&#10;&#10;Pasand aaye to Like Kar dena And Subscribe Kardena is tarah ke interesting Videos ke liye !&#10;&#10;#nft #stepn #move2earn #gst #gmt"
     channeltitle "NFT FIED"
     channelid "UCmKZnaXBrucydaXKXf2JBrQ"
@@ -3961,7 +3961,7 @@ graph
     commentcount 515
     duration "PT13M35S"
     indegree 5
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3969,7 +3969,7 @@ graph
     label "rr-ctBkVbrk"
     step 0
     date "2022-01-20T19:00:16Z"
-    title "NFT: QU&#201; S&#211;N y CU&#193;L ES SU LADO OSCURO"
+    title "NFT: QUL ES SU LADO OSCURO"
     description "&#11088;&#65039;&#11088;&#65039; Suscr&#237;bete a nuestro canal https://bit.ly/3iFHitH &#11088;&#65039;&#11088;&#65039;&#10;&#10;Sep&#225;is o no lo que son, seguro que no hab&#233;is parado de escuchar &#250;ltimamente las siglas NFT. Y es que detr&#225;s del interesante concepto que suponen estos elementos, se esconden varias sombras dif&#237;ciles de ignorar. Por ello en el v&#237;deo de hoy no s&#243;lo te vamos a explicar qu&#233; son los NFT sino tambi&#233;n todo lo que conllevan. As&#237; que acompa&#241;adme&#10;&#10;#NFT #Bitcoin #Crypto&#10;&#10;&#128267;&#128267;&#128267;&#128267;&#10;&#10;Suscr&#237;bete http://bit.ly/VIpeW9&#10;&#10;&#128249;Echa un vistazo a nuestros v&#237;deos https://www.youtube.com/user/XatakaTV...&#10;&#128249;Sigue de cerca nuestras playlists https://www.youtube.com/user/XatakaTV...&#10;&#10;&#128240; Newsletter: https://www.getrevue.co/profile/xataka&#10;&#128378;&#127997; Tiktok https://vm.tiktok.com/ZSt7b3aJ/&#10;&#128216;Facebook https://www.facebook.com/Xataka&#10;&#128330;Twitter http://www.twitter.com/xataka&#10;&#128248;Instagram http://instagram.com/xataka&#10;&#128172;Telegram https://t.me/xataka&#10;&#128421;Leer m&#225;s: http://www.xataka.com/&#10;&#10;&#128225;&#128225;&#128225;&#128225;&#10;&#10;Xataka TV, canal de Youtube del medio l&#237;der en tecnolog&#237;a. Te informamos sobre la actualidad de los mejores productos tecnol&#243;gicos: smartphones, tel&#233;fonos m&#243;viles y sus apps (Android e iPhone), ordenadores e inform&#225;tica, televisiones y smart tv, tablets, drones, videoconsolas y juegos, c&#225;maras de fotos y fotograf&#237;a, todos los gadgets que puedas imaginar del mundo tech.&#10;&#10;Hacemos pruebas de producto que nos permiten hacer los mejores an&#225;lisis y reviews siempre en espa&#241;ol. Compartimos nuestras impresiones con comparativas con competidores. Expresamos nuestra opini&#243;n, siempre objetiva, para que est&#233;s siempre a la vanguardia de la informaci&#243;n."
     channeltitle "Xataka TV"
     channelid "UCUrYBZGlEOSD1_ds_HcNd6A"
@@ -3979,7 +3979,7 @@ graph
     commentcount 211
     duration "PT9M46S"
     indegree 5
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -3987,7 +3987,7 @@ graph
     label "0KrdRZVr-q4"
     step 0
     date "2021-11-18T01:18:13Z"
-    title "&#191;Qu&#233; es un NFT?"
+    title " es un NFT?"
     description "Los NFT o Non Fungible Tokens han dado mucho de que hablar este a&#241;o. En este video voy a darles una introducci&#243;n acerca de que son los NFTs y como estos usan a la tecnolog&#237;a blockchain para poder registrar la propiedad de un activo digital.&#10;&#10;Quizas has escuchado hablar de los NFTs, y como se han vendido imagenes. gif, o tweets por bastante dinero, pero la tecnolog&#237;a plantea algo mucho m&#225;s utiil esto. En la Pr&#225;ctica los NFTs se registran en la blockchain de Ethereum y son en esencia Smart Contracts o contratos inteligentes.&#10;&#10;&#128104;&#8205;&#128187; Herramientas Recomendadas&#10;Cloudinary &#10142; https://bit.ly/3ohNlJ7&#10;Namecheap &#10142; namecheap.pxf.io/ErDe9&#10;NordVPN &#10142; https://bit.ly/2Te7p0J&#10;Hostinger &#10142; https://www.hostg.xyz/SH4YB&#10;&#10;&#128421;&#65039; Videos Recomendados:&#10;Curso de Expo &#10142; https://youtu.be/hXDMWeD0ERM&#10;Flutter &#10142; https://youtu.be/k3YsT7IZb6w&#10;React Native &#10142; https://youtu.be/i1uoJCsAxWc&#10;React Native &#38; Firebase &#10142; https://youtu.be/VE7J0SA1PRQ&#10;Mis Herramientas de Desarrollo &#10142; https://youtu.be/0me15LyLGO8&#10;&#10;&#127760; Redes:&#10;Fazt Web &#10142; https://www.faztweb.com/&#10;Facebook &#10142; https://facebook.com/fazttech&#10;Instagram &#10142; https://www.instagram.com/fazttech&#10;Twitter &#10142; https://twitter.com/fazttech&#10;Telegram &#10142; https://t.me/fazttech&#10;Twitch &#10142; https://www.twitch.tv/fazttech&#10;Slack &#10142; https://bit.ly/3dPqCPT&#10;Discord &#10142; https://discord.gg/mFUY4sT&#10;Blog &#10142;  http://blog.faztweb.com&#10;&#10;&#128233; Contacto:&#10;&#10142; fazt@faztweb.com&#10;&#10;#nft #blockchain"
     channeltitle "Fazt"
     channelid "UCX9NJ471o7Wie1DQe94RVIg"
@@ -3997,7 +3997,7 @@ graph
     commentcount 990
     duration "PT8M50S"
     indegree 23
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4005,7 +4005,7 @@ graph
     label "HiibWQ8Alps"
     step 0
     date "2022-06-06T12:00:15Z"
-    title "C&#243;mo Willyrex PERDI&#211; TODO EL DINERO de sus FANS | Cat&#225;strofe de NFTs"
+    title "Cstrofe de NFTs"
     description "A mi no me importa lo que &#233;l haya perdido, me preocupa m&#225;s sus fans que fueron enga&#241;ados para &#34;invertir&#34; en sus NFTs..."
     channeltitle "Leonardoresm"
     channelid "UCWxd8DfLPqFn6-8ZG470lKg"
@@ -4015,7 +4015,7 @@ graph
     commentcount 247
     duration "PT15M11S"
     indegree 14
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4023,7 +4023,7 @@ graph
     label "AC3CxjarUa8"
     step 0
     date "2022-01-01T20:00:53Z"
-    title "NFT - &#1588;&#1585;&#1581; &#1608; &#1575;&#1587;&#1578;&#1582;&#1583;&#1575;&#1605;&#1575;&#1578; &#1608;&#1601;&#1585;&#1589; &#1575;&#1604;&#1585;&#1576;&#1581; &#1605;&#1606;&#1607;&#1575;"
+    title "NFT - "
     description "00:00 - &#1575;&#1604;&#1605;&#1602;&#1583;&#1605;&#1577;&#10;01:47 - &#1578;&#1593;&#1585;&#1610;&#1601; &#1575;&#1604;-NFT&#10;06:39 - &#1575;&#1587;&#1578;&#1582;&#1583;&#1575;&#1605;&#1575;&#1578; &#1575;&#1604;-NFT&#10;09:27 - &#1601;&#1585;&#1589; &#1575;&#1604;&#1585;&#1576;&#1581; &#1605;&#1606; &#1575;&#1604;-NFT&#10;17:26 - &#1575;&#1604;&#1573;&#1587;&#1578;&#1579;&#1605;&#1575;&#1585; &#1601;&#1610; &#1575;&#1604;-NFT&#10;&#10;&#128215;&#128200;&#1605;&#1608;&#1602;&#1593;&#1606;&#1575; &#1575;&#1604;&#1582;&#1575;&#1589; &#1604;&#1604;&#1573;&#1588;&#1578;&#1585;&#1575;&#1603; &#1601;&#1610; &#1575;&#1604;&#1583;&#1608;&#1585;&#1577; &#1575;&#1604;&#1605;&#1580;&#1575;&#1606;&#1610;&#1577; &#1608;&#1594;&#1585;&#1601;&#1577; &#1575;&#1604;&#1583;&#1585;&#1583;&#1588;&#1577;&#128200;&#128215;&#10;https://atradez.pro/&#10;&#127911;&#127908;&#1602;&#1606;&#1575;&#1577; &#1575;&#1604;&#1605;&#1583;&#1575;&#1582;&#1604;&#1575;&#1578; &#1575;&#1604;&#1589;&#1608;&#1578;&#1610;&#1577;&#127908;&#127911;&#10;https://www.youtube.com/channel/UC8pA_jo4amzlNNi61W1c9VQ"
     channeltitle "atradez"
     channelid "UCeHxBi8zoOuwMsn1kipzPPg"
@@ -4033,7 +4033,7 @@ graph
     commentcount 189
     duration "PT21M29S"
     indegree 5
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4041,7 +4041,7 @@ graph
     label "hUnMKvtnFyo"
     step 0
     date "2022-04-23T19:30:12Z"
-    title "&#128142;NFT.com is Minting Genesis Keys&#128477; (Founder Interview - Alec Otto)"
+    title " (Founder Interview - Alec Otto)"
     description "&#128279;MY&#8383; LinkTree: https://mineyour.biz/links/&#10;You may have already heard about the acquisition of https://NFT.com in the news (folks like Jordan Fried &#38; Kevin O'Leary have certainly been talking about it!)&#10;&#10;But did you know that the Genesis Keys are being claimed &#38; minted THIS WEEK?!&#10;&#10;I had the pleasure of interviewing NFT.com team member Alec O. about his journey from #HBAR to #NFTcom, as well as some of the details surrounding the Genesis Key mint, the profiles associated with genesis keys, and challenges the team has been working to overcome for this new platform.&#10;&#10;**This is sponsored media.**&#10;&#10;News referenced in this video:&#10;https://NFT.com&#10;https://twitter.com/nftcomofficial&#10;https://discord.gg/zhVGbta3HE&#10;https://whitelist.nft.com/&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;THINGS WE USE&#10;Nano S Plus Wallet &#128272;&#128293;http://ledger.myb.lol&#128293;&#10;Model T Wallet &#128272;http://trezor.myb.lol&#10;Mining OS &#128421;&#65039;http://hiveos.myb.lol&#10;CEX &#128177;http://kanga.myb.lol&#10;Basics &#127978;http://amazon.myb.lol&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;CHAPTERS&#10;00:00 disclosure/disclaimer&#10;00:03 Alec Otto&#10;01:12 Moving to NFT.com from HBAR&#10;02:55 What problem does NFT.com aim to fix?&#10;05:14 NFT.com's plans for a multichain future&#10;08:35 What's the story behind &#34;NFT.com/YOU&#34;?&#10;10:11 Minting process &#38; ownership model&#10;12:11 &#128680;NERD ALERT - which ERC standard for Genesis &#38; Profile NFT's?&#10;13:29 Any content restrictions for profiles?&#10;15:23 How is NFT.com gitting gud at moderation?&#10;18:41 Why should users get on board with NFT.com? https://whitelist.nft.com/&#10;19:26 Meet the team at https://discord.gg/zhVGbta3HE&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;DONATE IN CRYPTO&#10;https://www.coinpayments.net/$mineyourbiz&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;PLAYLISTS&#10;https://www.youtube.com/c/UCCEEDxLdthvjhsVI0b6XyhQ/playlists&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;FINNA SMASH?&#10;If you enjoyed this video please leave a &#128077; and &#128433;&#65039; on the Subscribe+&#128276; buttons!&#10;Let us know if you have any questions in the comments below or chat with us on our Discord server. Thank you!!&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;DISCLAIMER&#10;1. This channel does not offer legal, financial, investing, business, or other professional advice - please do your own complete research, and retain the official services of an advisor or consultant if you need specific questions answered. &#10;2. All media featured on this channel is for education &#38; entertainment purposes, based on subjective opinions.&#10;3. You are responsible for your own decisions.&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;DISCLOSURE &#10;1. This channel participates in various affiliate programs - generally, if there is a shortened link to any product or service, we are probably enrolled in the public referral program for that product or service.&#10;We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.&#10;2. Referral fees enable us to create more videos and free resources for you.&#10;3. Product videos, interviews, or reviews paid for by sponsors will always be marked as such.&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;ATTRIBUTION&#10;1. Music by various, under creative commons attribution license, almost exclusively sourced through the royalty-free YouTube Music Library.&#10;2. Voice Over is provided by mineyourbiz . All rights reserved, as per platform license. Reproduction without prior written consent, outside of reasonable Fair Use, is prohibited.&#10;3. All featured trademarks are property of the respective copyright holder. As commentary &#38; criticism, all images and screen recordings in this video are licensed under Fair Use.&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;#NFTcom #GenesisKey #PublicMint #AlecOtto #HBAR #NFTs #mineyourbiz #SethCrypto #GemHunter&#10;&#10;seth estrada crypto,mineyourbiz,cryptocurrency,ethereum,mineyour.biz,sub.myb.lol,&#128142;NFT.com is Minting Genesis Keys&#128477; (Founder Interview - Alec Otto),nft.com hbar,nft.com kevin oleary,nft.com jordan fried,nft.com mr wonderful,nft.com tory lanez,nft.com genesis key,nft genesis,nft.com profile,what is nft.com,is nft.com a scam?,is nft.com legit?,nft.com public sale,nft private sale,nft public sale,nft mints this week,nft mint scams,jordan fried,nft marketplace"
     channeltitle "MineYour.&#8383;iz"
     channelid "UCCEEDxLdthvjhsVI0b6XyhQ"
@@ -4051,7 +4051,7 @@ graph
     commentcount 40
     duration "PT20M21S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 20
     duration "PT57S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4077,7 +4077,7 @@ graph
     label "r7_7-J33HMo"
     step 0
     date "2021-12-12T15:50:06Z"
-    title "&#128161; Les NFT c&#38;#39;est QUOI ?"
+    title "est QUOI ?"
     description "Les NFT c'est QUOI ?&#10;On entend beaucoup parler des NFT depuis cette ann&#233;e mais qu'est ce que c'est ? Quelle est la diff&#233;rence entre NFT et LES CRYPTOMONNAIES ? Quel est le rapport avec la BLOCKCHAIN ? &#10;Et puis apr&#232;s tout, comment &#231;a marche les NFT ? &#10;&#10;Tu cherches une EXPLICATION SIMPLE ? &#10;Dans cette vid&#233;o, tu trouveras TOUT CE QUE TU DOIS SAVOIR pour COMPRENDRE le monde des NFT ! &#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128279; MON INSTAGRAM :&#10;https://www.instagram.com/enissaytakespics&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128279; Site OpenSea: &#10;https://opensea.io/&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128279; AUTRES VIDEOS SIMILAIRES: &#10;&#9989; Le METAVERSE c'est quoi ? : https://youtu.be/2fMtkkAfuBc&#10;&#9989; La BLOCKCHAIN c'est quoi ? : https://youtu.be/_wh-_zub4cU&#10;&#9989; Les SMART CONTRACTS c'est quoi ? : https://youtu.be/fChbMGRnCf8&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128241; Contact Pro &#128241; &#10;enissay.ytb@gmail.com &#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;#NFT #crypto #blockchain"
     channeltitle "Enissay &#10004;&#65039;"
     channelid "UC_E7FzsmhKGCozm5W8YZbVg"
@@ -4087,7 +4087,7 @@ graph
     commentcount 293
     duration "PT6M57S"
     indegree 8
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 3381
     duration "PT8M45S"
     indegree 8
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4113,7 +4113,7 @@ graph
     label "pIQgy8I19Ds"
     step 0
     date "2022-06-08T18:08:26Z"
-    title "Rare NFT&#38;#39;s Lose Their Value How? OMG!"
+    title "Rare NFTs Lose Their Value How? OMG!"
     description "Watch your wallet... Rare NFTs can quickly lose value as collectors get bored... &#10;&#10;That in a report at Study Finds! &#10;&#10;Non-fungible tokens (NFTs) are all the rage right now. Like cryptocurrency, these unique digital images can skyrocket in value, with some costing collectors thousands and even millions of dollars. &#10;&#10;More Details https://www.studyfinds.org/rare-nfts-lose-value/&#10;&#10;Video &#38; Image Credit:&#10;Stevens Institute of Technology - Composite portraits of the Bored Ape Yacht Club. The ape on the left, not present in the original collection, is a composite portrait created from the most common value of each attribute. In contrast, the ape on the right, also not present in the original collection, is a composite portrait created from the least common value of each attribute.&#10;Videvo &#8211; Videvo.net&#10;Pexels.com&#10;&#10;&#10;#NFT #StudyFinds #NonFungibleTokens #BlockChain"
     channeltitle "The Study Finds Guy"
     channelid "UCuo0ikC6qmXrXPvqWUNzY7w"
@@ -4123,7 +4123,7 @@ graph
     commentcount 6
     duration "PT4M8S"
     indegree 0
-    cluster 2
+    cluster 10
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 194
     duration "PT53M30S"
     indegree 4
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4159,7 +4159,7 @@ graph
     commentcount 5
     duration "PT1H1M41S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 1213
     duration "PT23M24S"
     indegree 18
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4195,7 +4195,7 @@ graph
     commentcount 21
     duration "PT20M23S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4203,7 +4203,7 @@ graph
     label "zlvhtHcCLsE"
     step 0
     date "2022-01-19T10:00:13Z"
-    title "[&#51060;&#49800; &#54589; &#49956;&#44284; &#54632;&#44760;] &#48708;&#53944;&#53076;&#51064; &#45796;&#51020;&#51008; NFT? &#51060;&#44172; &#46020;&#45824;&#52404; &#47952;&#50556;&#129300;&#129300; &#45734;&#51648; &#50506;&#44172; &#53804;&#51088;&#54616;&#47140;&#47732; &#48120;&#47532; &#44277;&#48512; &#54596;&#49688;!! | KBS 220116 &#48169;&#49569;"
+    title "["
     description "NFT, &#49888;&#49464;&#44228;&#51064;&#44032; &#49888;&#44592;&#47336;&#51064;&#44032;?&#10;2022&#45380; 1&#50900; 16&#51068; &#48169;&#49569; - &#44256;&#47140;&#45824;&#54617;&#44368; &#44608;&#49849;&#51452; &#51221;&#48372;&#48372;&#54840;&#45824;&#54617;&#50896; &#44368;&#49688;&#10;&#10;&#51648;&#45212;&#54644; 6&#50900; &#49548;&#45908;&#48708; &#44221;&#47588;&#50640;&#49436; NFT &#44592;&#49696;&#51012; &#54876;&#50857;&#54644; &#47564;&#46304; &#12300;&#53356;&#47549;&#53664;&#54161;&#53356; #7523&#12301;&#51060; 140&#50613; &#50896;&#50640; &#44144;&#47000;&#46096;&#45796;. &#10; &#49104;&#47564; &#50500;&#45768;&#46972; &#48708;&#54540;&#51060;&#46972;&#45716; &#50696;&#47749;&#51004;&#47196; &#54876;&#46041; &#51473;&#51064; &#47560;&#51060;&#53356; &#50952;&#53000;&#47564;&#51032; &#51089;&#54408; &#12300;&#47588;&#51068; :&#52395; 5000&#51068;&#12301;&#51008; &#10; &#53356;&#47532;&#49828;&#54000; &#44221;&#47588;&#50640;&#49436; 780&#50613; &#50896;&#50640; &#44144;&#47000;&#46104;&#47732;&#49436; NFT&#50640; &#45824;&#54620; &#44288;&#49900;&#44284; &#51060;&#47785;&#51060; &#51665;&#51473;&#46096;&#45796;.&#10; NFT&#44032; &#46020;&#45824;&#52404; &#47924;&#50631;&#51060;&#44592;&#50640; 'NFT'&#47564; &#48537;&#50632;&#45796;&#54616;&#47732; &#51060;&#47111;&#44172; &#52380;&#47928;&#54617;&#51201; &#50529;&#49688;&#44032; &#46384;&#46972;&#50724;&#45716; &#44152;&#44620;?&#10;&#10; NFT&#50640; &#45824;&#54620; &#44288;&#49900;&#51060; &#46888;&#44144;&#50892;&#51648;&#47732;&#49436; &#54620;&#54200;&#50640;&#49436;&#45716; &#50864;&#47140;&#51032; &#47785;&#49548;&#47532;&#46020; &#45458;&#45796;. &#10; &#44032;&#44201; &#48260;&#48660;&#44284; &#54364;&#51208;, &#51200;&#51089;&#44428; &#47928;&#51228; &#46321; &#50526;&#51004;&#47196; &#54644;&#44208;&#54644;&#50556; &#54624; &#44284;&#51228;&#46020; &#47566;&#44592; &#46412;&#47928;&#51060;&#45796;.&#10;&#44397;&#45236; &#54364;&#51201;&#51064; &#50516;&#54840;&#54617;&#51088; &#44608;&#49849;&#51452; &#44368;&#49688;(&#44256;&#47140;&#45824;&#54617;&#44368; &#51221;&#48372;&#48372;&#54840;&#45824;&#54617;&#50896;)&#50752; &#54632;&#44760;&#10;&#44032;&#49345;&#51088;&#49328; &#49884;&#51109;&#51032; &#52572;&#45824; &#51060;&#49800;&#47196; &#46496;&#50724;&#47480; NFT, &#44536; &#47749;&#44284; &#50516;&#51012; &#51674;&#50612;&#48376;&#45796;."
     channeltitle "KBS&#51648;&#49885;"
     channelid "UCBOs39Wu6lwfnT0IeJGyYWA"
@@ -4213,7 +4213,7 @@ graph
     commentcount 98
     duration "PT30M35S"
     indegree 9
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -4221,7 +4221,7 @@ graph
     label "PTUBcnz3zrs"
     step 0
     date "2022-07-06T03:00:19Z"
-    title "7 FREE Play to EARN NFT Games Android iOS &#38;amp; HOW To Find Them Early"
+    title "7 FREE Play to EARN NFT Games Android iOS HOW To Find Them Early"
     description "Check Out INUGAMI!&#10;Website: https://www.inugami.world&#10;Twitter: https://twitter.com/InugamiWorld&#10;Medium: https://medium.com/@Inugami&#10;Telegram: https://t.me/InugamiWorld&#10;Discord: https://discord.com/invite/fTqvKkA8Jv&#10;&#10;Follow Me On Twitter: https://twitter.com/MetavInvestor&#10;--&#10;In this video, we&#8217;re going to show you 7 FREE games that you can play to earn with. NFT-based gaming titles that are completely free to play and can be played with on your mobile devices. Both Android and iOS. As well as some key tips and strategies on how to find them early in development and start earning while the profit margins are still high!&#10;&#10;YOU NEED TO CHECK THESE HELPFUL LINKS:&#10;&#10;Our Millionaire Crypto Investing Strategy: https://metavinvestor.com/Quantum&#10;Our Favorite Play-To-Earn Game Right Now: https://metavinvestor.com/Gala&#10;--&#10;Check Out AXIE INFINITY!&#10;Website: https://axieinfinity.com&#10;Twitter: https://twitter.com/axieinfinity&#10;Instagram: https://www.instagram.com/axieinfinity/&#10;Facebook: https://www.facebook.com/AxieInfinity&#10;Medium: https://axieinfinity.medium.com&#10;Discord: https://discord.com/invite/axie&#10;Telegram: https://t.me/axieinfinity&#10;&#10;For Business Inquiries: biz@metavinvestor.com&#10;For Blockchain charity fund for Ukrainians affected by the war: https://unchain.fund/&#10;&#10;Disclaimer:&#10;This video was created for entertainment purposes only! This is not financial advice. &#10;The projects talked about on this channel is our own personal opinion at the time of making this video. Any Crypto, Metaverse, Play to earn and NFT assets have high risks."
     channeltitle "Metaverse Investor"
     channelid "UCn2RJFAA1ndipnVJsYAwWOw"
@@ -4231,7 +4231,7 @@ graph
     commentcount 29
     duration "PT9M38S"
     indegree 4
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -4239,7 +4239,7 @@ graph
     label "N5g9OqvV2-Q"
     step 0
     date "2022-03-02T06:00:09Z"
-    title "how to create opensea.io account, NFT sell  &#2459;&#2476;&#2495; &#2476;&#2495;&#2453;&#2509;&#2480;&#2495; &#2453;&#2480;&#2503; &#2463;&#2494;&#2453;&#2494; &#2439;&#2472;&#2453;&#2494;&#2478; &#2453;&#2480;&#2497;&#2472;&#2404;"
+    title "how to create opensea.io account, NFT sell "
     description "how to create opensea.io account, sell NFT &#2459;&#2476;&#2495; &#2476;&#2495;&#2453;&#2509;&#2480;&#2495; &#2453;&#2480;&#2503; &#2463;&#2494;&#2453;&#2494; &#2439;&#2472;&#2453;&#2494;&#2478; &#2453;&#2480;&#2497;&#2472;&#2404; &#10;&#10; &#128293;First video: https://www.youtube.com/watch?v=OS78tXzl2wQ&#10;&#10;&#10;Follow Me: &#10;&#9193; Facebook: https://tinyurl.com/2p8ha74h&#10;&#9193; My Blog: https://tinyurl.com/2wpw44k3&#10;&#10;&#127873;business mail &#128071;&#10;sumonpike5@gmail.com&#10;&#10;LIKE, COMMENT &#38; SHARE"
     channeltitle "Talk Dung Jr"
     channelid "UCX_lJt6bDaJ4Tu_WaLTQkcQ"
@@ -4249,7 +4249,7 @@ graph
     commentcount 35
     duration "PT15M12S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4257,7 +4257,7 @@ graph
     label "ikKgre-7__8"
     step 0
     date "2022-07-08T17:00:26Z"
-    title "&#191;CU&#193;NTO DINERO GANO CON LOS JUEGOS NFT? | JUEGOS NFT M&#193;S RENTABLES 2022"
+    title "S RENTABLES 2022"
     description "&#191;CU&#193;NTO DINERO GANO CON LOS JUEGOS NFT? | JUEGOS NFT M&#193;S RENTABLES 2022&#10;&#10;&#128165;CryptoVHS: https://bit.ly/CryptoVHS&#10;&#128165;BNB Miner: https://bit.ly/bnbminersdorrego&#10;&#128165;NBOX: https://www.nbox.io/j0~lS&#10;&#128165;Binaminers: https://binaminers.com/game/boxes?referral=0x35cdcbbf67b0ac60d546766bbd2f572dfe26f229&#10;&#127760;NFT World: https://nftworldnetwork.com&#10;&#128156;Todos los d&#237;as en directo a las 18:00 (hora espa&#241;ola) hablando sobre juegos NFT: https://www.twitch.tv/gonzalodorrego&#10;&#128226;&#218;nete a nuestra comunidad y ent&#233;rate de todas las noticias del mundo de los juegos NFT: https://discord.gg/KbAarHA9Jn&#10;&#128248;Perfil de Instagram: https://www.instagram.com/gonzalodorrego_&#10;&#128248;Perfil de Twitter: https://twitter.com/gonzalodorrego&#10;&#128229;Correo de Contacto: dorrego@nftworldnetwork.com&#10;&#10;Disclaimer: No soy asesor financiero, por lo que el contenido proporcionado en este canal es de car&#225;cter educativo, basado en mi propia experiencia. Invierte tu dinero de forma responsable.&#10;&#10;&#191;CU&#193;NTO DINERO GANO CON LOS JUEGOS NFT? | JUEGOS NFT M&#193;S RENTABLES 2022"
     channeltitle "Dorrego"
     channelid "UCspz8jBjOW1ZDP2GSq2USTA"
@@ -4267,7 +4267,7 @@ graph
     commentcount 30
     duration "PT13M41S"
     indegree 3
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4275,7 +4275,7 @@ graph
     label "3xuzX56N5aQ"
     step 0
     date "2022-02-23T17:00:56Z"
-    title "NFT &#4704;&#4768;&#4635;&#4653;&#4763; &#4632;&#4635;&#4650;&#4843; NFT For Beginners How NFT Works In Ethiopia"
+    title "NFT NFT For Beginners How NFT Works In Ethiopia"
     description "Do you want to make money out of the NFT Crypto market? This is the right Non-Fungible Tokens course for you!&#10;&#10;Welcome to the Complete NFT Crypto course! The only course you need to learn in Amharic language  how to Create NFT, Buy NFT, and Sell NFTs.&#10;&#10;Even if you have zero experience with the Crypto NFT market, this NFT course will take you from beginner to mastery.&#10;&#10;You'll learn the key aspects around NFTs, including:&#10;What are NFTs?&#10;A brief history of NFTs&#10;Why you should create NFTs&#10;NFT blockchain basics&#10;A six step, easy to follow formula for buying, creating and selling an NFT&#10;Video &#34;walkthroughs&#34; of how to buy, create and sell NFTs&#10;...and much much more!&#10;#NFT #ETHIOPIA #NON_FUNGIBLE_TOKEN_EXPLAINED_IN_AMHARIC #IN_AMHARIC #NFT_COURSE #NFT_TRADING #NFT_MARKET  #NFT_IN_ETHIOPIA #DOED_NFT_WORK_IN_ETHIOPIA #NFT_HABESHA #ETHIO_TECH_HUB &#10;&#10;Online Money in Ethiopia, Work from Home from Ethiopia, New Money Making Channel For You, &#4768;&#4851;&#4850;&#4661; &#4872;&#4757;&#4824;&#4709; &#4637;&#4755;&#4872;&#4888;&#4704;&#4725; &#4731;&#4755;&#4621; earn money with Mike Tech, &#4709;&#4653; &#4776;&#4635;&#4845;&#4781; &#4875;&#4653; free bitcoin &#4752;&#4923; &#4706;&#4725;&#4782;&#4845;&#4757;, free btc, earn bitcoins, &#4706;&#4725;&#4782;&#4845;&#4757; &#4635;&#4877;&#4888;&#4725; &#4770;&#4725;&#4846;&#4917;&#4843; free btc claim in Ethiopia, how to make money online, &#4704;&#4637;&#4757; &#4632;&#4621;&#4777; &#4872;&#4757;&#4824;&#4709; &#4845;&#4872;&#4891;&#4621; free PayPal money, &#4944;&#4845;&#4723;&#4621; &#4768;&#4779;&#4809;&#4757;&#4725; &#4770;&#4725;&#4846;&#4917;&#4843;, free PayPal earnings, how to earn PayPal money, make money online, &#4720;&#4904;&#4635;&#4650; &#4872;&#4757;&#4824;&#4709; &#4770;&#4725;&#4846;&#4917;&#4843;, extra income online, &#4774;&#4757;&#4619;&#4845;&#4757; &#4661;&#4651;&#4814;&#4733; &#4770;&#4725;&#4846;&#4917;&#4843;, online jobs in Ethiopia, homebased jobs in Ethiopia, &#4776;&#4704;&#4723;&#4733;&#4757; &#4614;&#4752;&#4757; &#4632;&#4661;&#4651;&#4725; money, bitcoins make money watching videos in Ethiopia, earn money by watching video ads in Ethiopia, &#4768;&#4850;&#4661; &#4774;&#4757;&#4619;&#4845;&#4757; &#4661;&#4651; , &#4876;&#4638;&#4733;&#4757; &#4704;&#4632;&#4907;&#4808;&#4725; &#4872;&#4757;&#4824;&#4709; &#4632;&#4645;&#4651;&#4725;, make money online playing games in Ethiopia, make money playing games, make money online in Ethiopia, how to make money online in Ethiopia, earn money playing games in Ethiopia, online jobs in Ethiopia, make money watching videos in Ethiopia, Investor, Making Money Online Playing Games On Your Phone,&#4876;&#4638;&#4733;&#4757; &#4709;&#4731; &#4704;&#4632;&#4907;&#4808;&#4725; &#4872;&#4757;&#4824;&#4709; &#4632;&#4661;&#4651;&#4725;, passive income, earn money, Making Money Online, Making Money online Watching YouTube Videos, &#4714;&#4853;&#4846;&#4814;&#4733;&#4757; &#4709;&#4731; &#4704;&#4635;&#4840;&#4725; &#4872;&#4757;&#4824;&#4709; &#4632;&#4661;&#4651;&#4725;, how to make money online in Ethiopia, Make money playing games in Ethiopia, play games and earn money in Ethiopia, online job Ethiopia, make money online in Ethiopia.&#10;Tags:  &#10;get paid to watch youtube videos,&#10;earn money online free,&#10;best ways to make money online,&#10;online earning sites,&#10;earn money online without investment for students,&#10;online jobs for students to earn money,&#10;make money online paypal,&#10;ways to earn money online,&#10;online jobs for students to earn money at home,&#10;online surveys for money,&#10;earn money from home,&#10;make money online fast,&#10;online earning websites,&#10;real ways to make money from home for free,&#10;trusted online money making sites,&#10;paid online surveys,&#10;earn money online without investment,&#10;easy ways to make money online,&#10;make money online with google,&#10;surveys that pay cash instantly,&#10;online money making sites,&#10;ways to earn money from home,&#10;ideas to make money from home&#10;online money earning sites&#10;surveys to make money&#10;earn cash online&#10;get paid online&#10;passive income online&#10;online surveys to earn money&#10;fast money online&#10;free money earning sites&#10;earn money by typing&#10;best paid survey sites&#10;highest paying online surveys&#10;money making websites&#10;online jobs to earn money&#10;earn money online free fast and easy&#10;surveys to earn money&#10;simple websites that make money&#10;best survey sites to make money&#10;make real money online&#10;paid survey sites&#10;   get money online&#10;online surveys that pay cash&#10;earn money online without investment by typing&#10;make money online free&#10;ideas to make money from home&#10;online money earning sites&#10;surveys to make money&#10;earn cash online&#10;get paid online&#10;passive income online&#10;online surveys to earn money&#10;fast money online&#10;free money earning sites&#10;earn money by typing&#10;best paid survey sites&#10;highest paying online surveys&#10;money making websites&#10;online jobs to earn money&#10;earn money online free fast and easy&#10;surveys to earn money&#10;simple websites that make money&#10;best survey sites to make money&#10;make real money online&#10;paid survey sites&#10;&#10;how to make money online in ethiopia 2020,how to make money on youtube in ethiopia,how to make money&#10;website ideas to make money&#10;make money online free&#10;online work to earn money&#10;easiest way to earn money online&#10;i want to make money online&#10;work from home earn money online&#10;best site to make money online&#10;best online money making&#10;ad click earn money website&#10;#NFTinEthiopia #NFT&#4637;&#4757;&#4853;&#4757;&#4752;&#4813; #NFT #WhatisNFT #CryptoInEthiopia #Ethiopia  #Crypto #EthiopiaJobs #InEthiopia #OnlineEthiopia #BusinessEthiopia #Howtomakemoney #NFTEthiopia #CryptoandNFTEthiopia #Makemoney #Ethiopia #Amharic #InAmharci"
     channeltitle "Ethio Tech Hub"
     channelid "UC_7tnuxDk-x4z_5glUGzXbw"
@@ -4285,7 +4285,7 @@ graph
     commentcount 12
     duration "PT14M15S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 93
     duration "PT15M21S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4311,7 +4311,7 @@ graph
     label "OkLaz3U0v-w"
     step 0
     date "2022-06-14T12:00:11Z"
-    title "J&#38;#39;ai enfin compris pourquoi les NFT valent si cher : L&#38;#39;explication rationnelle"
+    title "Je tongue sticking out lication rationnelle"
     description "La M&#233;thode Hybride : https://schoolmaker.com/hybride&#10;&#10;Ce qui met les gens mal &#224; l&#8217;aise avec les NFT, c&#8217;est qu&#8217;ils nous mettent nez &#224; nez avec l&#8217;irrationalit&#233; de l&#8217;esprit humain. Le march&#233; des NFT est irrationnel parce que les humains sont irrationnels.&#10;&#10;On peut comparer ce march&#233; avec celui de l'art. En 2015, le tableau &#8216;Les Femmes d&#8217;Alger&#8217; de Picasso s&#8217;est vendu &#224; 179,4 millions de dollars. Mais pourquoi 179,4 ? Pourquoi pas 180 ? Pourquoi pas 50 ? Pourquoi certains tableaux de Picasso valent plus que d&#8217;autres ?&#10;&#10;La r&#233;ponse tient une phrase : l&#8217;offre et la demande. Et cette demande est bas&#233;e sur un jugement humain subjectif. Il n&#8217;y a simplement pas d&#8217;autre explication.&#10;&#10;Alors comment r&#233;soudre ce probl&#232;me d&#8217;oeuf et de la poule ?&#10;&#10;Il y a une soci&#233;t&#233; qui a trouv&#233; la solution. Cette soci&#233;t&#233;, c&#8217;est Yuga Labs.&#10;&#10;En &#224; peine plus d&#8217;un an, c&#8217;est la collection de NFT la plus valoris&#233;e du march&#233;, avec une capitalisation qui tourne autour des 8 milliards d&#8217;euros.&#10;&#10;Et pour en arriver l&#224;, il n&#8217;y a qu&#8217;une seule explication : ils ont compris comment se brancher directement dans les biais psychologiques de l&#8217;&#234;tre humain.&#10;&#10;***&#10;&#10;FORMATIONS GRATUITES :&#10;&#10;Trouver un job dans un business en ligne : https://marketingmania.fr/job&#10;&#10;Comment construire une audience qui ach&#232;te  :  http://marketingmania.fr/audience&#10;&#10;Construire votre carri&#232;re de Freelance stable et rentable : http://marketingmania.fr/freelance&#10;&#10;Devenir un entrepreneur productif : http://marketingmania.fr/productif&#10;&#10;Le Guide du Copywriting E-commerce : https://marketingmania.fr/ecom&#10;&#10;***&#10;&#10;Mon livre : https://marketingmania.fr/empire&#10;Le podcast : https://marketingmania.fr/podcast&#10;La Bo&#238;te &#224; outils : https://marketingmania.fr/outils&#10;Le Mix du lundi : https://marketingmania.fr/mix&#10;&#10;***&#10;&#10;00:00 : Introduction&#10;06:08 : Partie 1 - Infiltrer les influenceurs&#10;10:45 : Partie 2 - Les vrais &#8216;Happy Few&#8217;&#10;15:35 : Partie 3 - Une nouvelle &#233;chelle de valeur&#10;19:00 : Partie 4 - Les singes prennent vie&#10;24:47 : Partie 5 - Les dangers de la conqu&#234;te&#10;27:38 : Outro &#10;&#10;&#201;criture :  Fr&#233;d&#233;ric GARCIA et Stan LELOUP&#10;Montage, visuels : Baptiste BOLGARI&#10;&#10;***&#10;&#10;LIENS MENTIONN&#201;S DANS LA VID&#201;O :&#10;&#10;&#10;***&#10;&#10;Musiques : &#10;Epidemic Sound&#10;&#10;#BoredApes #Crypto"
     channeltitle "Marketing Mania"
     channelid "UCSmUdD2Dd_v5uqBuRwtEZug"
@@ -4329,7 +4329,7 @@ graph
     label "j-9jnmwacN8"
     step 0
     date "2022-07-11T19:18:19Z"
-    title "Opensea bot / Private NFT tools for opensea / NFT sniping tools &#38;amp; mint bot + 365$ per day"
+    title "Opensea bot / Private NFT tools for opensea / NFT sniping tools mint bot + 365$ per day"
     description "&#9989; Opensea Bot | Mint NFT | Free Download&#10;&#9989; Download Bot: https://telegra.ph/OpenSeaBot-07-11&#10;&#9989; STATUS: WORKING!&#10;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#10;&#9940;&#65039; IF YOU HAVE PROBLEMS DOWNLOADING / INSTALLING!&#10;If you can&#8217;t download / install the bot, you need to:&#10;1. Disable / remove antivirus (files are completely clean)&#10;2. If you can&#8217;t download, try to copy the link and download using another browser!&#10;3. Disable Windows Smart Screen, as well as update the Visual C++ package&#10;&#10;&#128077;Leave a LIKE and SUBSCRIBE if you enjoyed this video!&#10;&#128276;Turn on the bell to know whenever I upload!&#10;&#10;Subscribe to the channel and like it, it gives a great motivation to post more tools &#38; bots for you!&#10;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#9648;&#10;&#10;&#9763;&#65039; TAGS (IGNORE):&#10;opensea, nft, crypto, nfts, bitcoin, blockchain, ethereum, opensea tutorial, opensea nft, crypto art, bot, cryptocurrency, opensea nft tutorial, metamask, digital art, opensea gas fee, tutorial, nft art, rarible, token, how to use opensea, non fungible token, bored ape yacht club, opensea bot, solana, open sea, binance, non-fungible token, discord, opensea bidding bot, eth, cryptoart, bidding bot, nft bidding bot, nft crypto, sol, opensea tutorial 2021, how to sell nft on opensea, trade, trading, how to, software, opensea.io, blockchain art, art, discord bot, learn, setup, config, configuration, configure, coin, automated, invest, quadency, algo, indicator, trending, exchange, trend, strategy, cryptocurrencies, income, best, platform, passive, strategies, tradingbot, free, market, btc, automatic, investment, how, profitable, investing, auto, settings, trader, profit, moving, nft mint bot, nft guide, solana nft drops, mint bot solana nft, solana nft script mint, solana mint bot, best solana nft mint bot, nft tips, opensea beginners guide, solana bot, solana automint nft, solana nft, best solana bot, bot mint solana, solana nft mint, solsea auto mint, solana nft mints, solana nft minter bot, solana mintbot nft, sol nft script bot, opensea autobid, solana free mint, solana nft mint auto, bothered otter solana, solana nft bot, solana nft mint bot, nft research, opensea without gas fees, divergence, cross, investor, cryptobot, bid bot,"
     channeltitle "inF Freezy"
     channelid "UCZ0TUXMsp0R5gaRE8lGCaFQ"
@@ -4339,7 +4339,7 @@ graph
     commentcount 2
     duration "PT1M23S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4347,7 +4347,7 @@ graph
     label "rDQWMCL5Zi0"
     step 0
     date "2022-06-15T14:45:04Z"
-    title "&#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; Free Mint | &#1058;&#1088;&#1077;&#1085;&#1076; NFT 2022 | &#1043;&#1076;&#1077; &#1080;&#1089;&#1082;&#1072;&#1090;&#1100; &#1060;&#1088;&#1080; &#1052;&#1080;&#1085;&#1090; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1099;? | &#1052;&#1086;&#1103; &#1089;&#1090;&#1088;&#1072;&#1090;&#1077;&#1075;&#1080;&#1103; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072;"
+    title ""
     description "&#1041;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1099;&#1081; &#1043;&#1040;&#1049;&#1044; &#1087;&#1086; NFT - https://t.me/nftdop/486&#10;&#1052;&#1086;&#1081; &#1058;&#1074;&#1080;&#1090;&#1090;&#1077;&#1088; - https://twitter.com/aletinskiy&#10;&#1048;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084;: https://www.instagram.com/aletinsky/&#10;&#10;&#1060;&#1088;&#1080; &#1052;&#1080;&#1085;&#1090; &#1058;&#1074;&#1080;&#1090;&#1090;&#1077;&#1088; - https://twitter.com/free_mint_bot&#10;&#1057;&#1072;&#1081;&#1090; &#1074; &#1060;&#1088;&#1080; &#1052;&#1080;&#1085;&#1090;&#1072;&#1084;&#1080; - https://whatsminting.live/hot-free-mints/&#10;&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1096;&#1080;&#1089;&#1100; &#1085;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083;, &#1095;&#1090;&#1086;&#1073; &#1085;&#1077; &#1087;&#1088;&#1086;&#1087;&#1091;&#1089;&#1090;&#1080;&#1090;&#1100; &#1085;&#1086;&#1074;&#1099;&#1077; &#1074;&#1080;&#1076;&#1077;&#1086;!&#10;&#10;0:00 - &#1053;&#1086;&#1074;&#1099;&#1081; &#1058;&#1088;&#1077;&#1085;&#1076;. &#1060;&#1088;&#1080; &#1052;&#1080;&#1085;&#1091;&#1090;&#1099;&#10;1:24 - &#1053;&#1072;&#1095;&#1072;&#1083;&#1086; &#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1079;&#1080;&#1084;&#1099; &#1080; &#1087;&#1088;&#1077;&#1076;&#1087;&#1086;&#1089;&#1099;&#1083;&#1082;&#1080; &#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1085;&#1080;&#1102; &#1058;&#1088;&#1077;&#1085;&#1076;&#1072; Free Mint&#10;3:40 - &#1055;&#1086;&#1095;&#1077;&#1084;&#1091; &#1091; Free Mint &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1086;&#1074; &#1090;&#1072;&#1082;&#1086;&#1081; &#1086;&#1075;&#1088;&#1086;&#1084;&#1085;&#1099;&#1081; &#1087;&#1086;&#1090;&#1077;&#1085;&#1094;&#1080;&#1072;&#1083;?&#10;4:22 - &#1055;&#1088;&#1080;&#1084;&#1077;&#1088;&#1099; &#1090;&#1086;&#1087;&#1086;&#1074;&#1099;&#1093; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1086;&#1074; Free Mint&#10;6:38 - &#1050;&#1072;&#1082;&#1080;&#1084; &#1086;&#1073;&#1088;&#1072;&#1079;&#1086;&#1084; &#1080; &#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; $$$ &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1077;&#1083;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1102;&#1090; &#1085;&#1072; &#1060;&#1088;&#1080; &#1052;&#1080;&#1085;&#1090;&#1072;&#1093;.&#10;9:05 - &#1043;&#1076;&#1077; &#1085;&#1072;&#1093;&#1086;&#1076;&#1080;&#1090;&#1100; &#1085;&#1086;&#1074;&#1099;&#1077; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1099; Free Mint&#10;11:43 - &#1052;&#1086;&#1103; &#1089;&#1090;&#1088;&#1072;&#1090;&#1077;&#1075;&#1080;&#1103; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072; &#1085;&#1072; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1072;&#1093; &#1060;&#1088;&#1080; &#1052;&#1080;&#1085;&#1090;&#10;&#10;&#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; Free Mint | &#1058;&#1088;&#1077;&#1085;&#1076; NFT 2022 | &#1043;&#1076;&#1077; &#1080;&#1089;&#1082;&#1072;&#1090;&#1100; &#1060;&#1088;&#1080; &#1052;&#1080;&#1085;&#1090; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1099;? | &#1052;&#1086;&#1103; &#1089;&#1090;&#1088;&#1072;&#1090;&#1077;&#1075;&#1080;&#1103; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072; &#10;&#10;#&#1060;&#1088;&#1080;&#1052;&#1080;&#1085;&#1090; #&#1053;&#1060;&#1058; #&#1047;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082;"
     channeltitle "NFT DOP"
     channelid "UCcCQXJ4z7GNJA2fvIYY-xxQ"
@@ -4357,7 +4357,7 @@ graph
     commentcount 32
     duration "PT14M46S"
     indegree 1
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -4365,7 +4365,7 @@ graph
     label "nWP-N_JH498"
     step 0
     date "2022-07-11T16:56:50Z"
-    title "Uwa&#380;asz , &#380;e NFT to SCAM? Brzmisz jak Polak | KRYPTO Stream"
+    title "Uwae NFT to SCAM? Brzmisz jak Polak | KRYPTO Stream"
     description "Partnerem odcinka jest gie&#322;da Exmo https://exmo.onelink.me/cuiz/795i4caa&#10;Do&#322;&#261;cz do Akademii Inwestora https://www.fxmag.pl/akademia&#10;Prenumeruj Magazyn Inwestor https://www.fxmag.pl/prenumerata&#10;Do&#322;&#261;cz do naszej grupy na FB: https://www.fxmag.pl/pod-korek&#10;&#10;Darek Dziduch zaprasza na reaktywowan&#261; po trzech latach seri&#281; KRYPTO STREAM, w kt&#243;rej podczas transmisji live dowiesz si&#281; o tym, co najistotniejszego i niekoniecznie najszerzej komentowanego wydarzy&#322;o si&#281; w &#347;wiecie kryptowalut w ostatnich dniach. &#10;&#10;Skr&#243;t transmisji w formie tekstowej + linki do &#378;r&#243;de&#322;: https://www.fxmag.pl/artykul/polacy-nienawidza-nft-a-bessa-na-rynku-kryptowalut-pochlania-kolejne-gieldy&#10;&#10;#krypto #bitcoin #NFT&#10;Zam&#243;w najnowszy numer magazynu INWESTOR https://www.fxmag.pl/biezace-wydanie&#10;&#10;Niniejszy materia&#322; ma charakter wy&#322;&#261;cznie informacyjno-edukacyjny, a poszczeg&#243;lne wideo s&#261; wyrazem osobistych pogl&#261;d&#243;w ich autor&#243;w.&#10;Portal FXMAG oraz kana&#322; FXMAG na portalu YouTube ani w ca&#322;o&#347;ci ani w cz&#281;&#347;ci nie stanowi &#34;rekomendacji&#34; w rozumieniu przepis&#243;w Rozporz&#261;dzenia Ministra Finans&#243;w z dnia 19 pa&#378;dziernika 2005 r. w sprawie informacji stanowi&#261;cych rekomendacje dotycz&#261;ce instrument&#243;w finansowych, lub ich emitent&#243;w (Dz.U. z 2005 r. Nr 206, poz. 1715). Zawarte w serwisie i na portalu YouTube tre&#347;ci nie spe&#322;niaj&#261; wymog&#243;w stawianych rekomendacjom w rozumieniu w/w ustawy, m.in. nie zawieraj&#261; konkretnej wyceny &#380;adnego instrumentu finansowego, nie opieraj&#261; si&#281; na &#380;adnej metodzie wyceny, a tak&#380;e nie okre&#347;laj&#261; ryzyka inwestycyjnego.&#10;&#10;Niniejszy materia&#322; nie stanowi oferty w rozumieniu przepis&#243;w Kodeksu Cywilnego, oferty publicznej w rozumieniu przepis&#243;w ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrument&#243;w finansowych do zorganizowanego systemu obrotu oraz o sp&#243;&#322;kach publicznych (Dz. U. z 2005 r., Nr 184, poz. 1539, z p&#243;&#378;n. zm.), jak r&#243;wnie&#380; nie stanowi rekomendacji inwestycyjnej w rozumieniu rozporz&#261;dzenia Ministra Finans&#243;w z dnia 19 pa&#378;dziernika 2005 r. (Dz. U. z 2005 r. Nr 206, poz. 1715) w sprawie informacji stanowi&#261;cych rekomendacje dotycz&#261;ce instrument&#243;w finansowych, ich emitent&#243;w lub wystawc&#243;w. Nie stanowi r&#243;wnie&#380; oferty inwestycyjnej, oferty &#347;wiadczenia us&#322;ug inwestycyjnych ani &#347;wiadczenia us&#322;ug w zakresie pomocy prawnej. Opinie wyra&#380;one w niniejszym materia&#322; dotycz&#261;ce sp&#243;&#322;ki oraz instrument&#243;w finansowych nie stanowi&#261; rekomendacji inwestycyjnej"
     channeltitle "FXMAG"
     channelid "UCtTpDSRTegHewCxP9GTUaXQ"
@@ -4393,7 +4393,7 @@ graph
     commentcount 4262
     duration "PT24M50S"
     indegree 24
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4401,7 +4401,7 @@ graph
     label "YasiHTeJvoM"
     step 0
     date "2022-04-13T15:25:51Z"
-    title "NFT &#2453;&#2495; ?  How to Create an NFT ? How to Sell NFT Without Gas Fee | NFT Artwork | &#38;quot;Exclusive&#38;quot;"
+    title "NFT "
     description "NFT &#2453;&#2495; ?  How to Create an NFT ? How to Sell NFT Without Gas Fee | What is nft artwork | Exclusive Video&#10;Site:https://tinyurl.com/4baw7rt2&#10;&#2539; &#2489;&#2494;&#2460;&#2494;&#2480; &#2463;&#2494;&#2453;&#2494;&#2479;&#2492; DSLR Camera: https://youtu.be/8D3eRcUTve0&#10;&#2453;&#2478; &#2470;&#2494;&#2478;&#2503; &#2478;&#2507;&#2476;&#2494;&#2439;&#2482; - https://youtu.be/p0T3f8SY6LA&#10;&#2488;&#2488;&#2509;&#2468;&#2494;&#2479;&#2492; &#2465;&#2495;&#2460;&#2503; &#2488;&#2494;&#2441;&#2472;&#2509;&#2465; &#2488;&#2495;&#2488;&#2509;&#2463;&#2503;&#2478;-  https://youtu.be/p3nNRYBAv_4&#10;&#2478;&#2507;&#2476;&#2494;&#2439;&#2482; &#2488;&#2494;&#2480;&#2509;&#2477;&#2495;&#2488;&#2495;&#2434; - https://youtu.be/nTFOvPPBnPw&#10;&#2488;&#2488;&#2509;&#2468;&#2494;&#2479;&#2492; &#2460;&#2495;&#2478; &#2488;&#2494;&#2478;&#2455;&#2509;&#2480;&#2496; - https://youtu.be/hO4tb3i4Ue0&#10;&#10;&#2447;&#2479;&#2492;&#2494;&#2480;&#2465;&#2509;&#2480;&#2474; &#2469;&#2503;&#2453;&#2503; &#2438;&#2479;&#2492; &#2453;&#2480;&#2468;&#2503; &#2458;&#2494;&#2439;&#2482;&#2503; - https://t.me/airdropandbounty360&#10;&#10;**************************************************&#10;Telegram Airdrop - https://t.me/airdropandbounty360&#10;**************************************************&#10;&#128279; &#2456;&#2497;&#2480;&#2503; &#2438;&#2488;&#2497;&#2472; &#2438;&#2478;&#2494;&#2480; &#2480;&#2494;&#2472;&#2509;&#2472;&#2494;&#2480; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482; &#2469;&#2503;&#2453;&#2503; - https://tinyurl.com/y4jrspav&#10;&#128279; &#2456;&#2497;&#2480;&#2503; &#2438;&#2488;&#2497;&#2472; &#2438;&#2478;&#2494;&#2480; &#2477;&#2509;&#2482;&#2455; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482; &#2469;&#2503;&#2453;&#2503; - https://tinyurl.com/yxssevfs&#10;**************************************************&#10;&#128073; FOR ANY HELP: &#10;&#10;Email: mehedi.onlinehelp360@gmail.com&#10;Telegram: @MehediHasanIshaan&#10;Page : https://www.facebook.com/OnlineHelp360/&#10;Group : https://www.facebook.com/groups/IshaansFavor/&#10;&#10;**************************************************&#10;#Create_a_NFT_using_Mobile  #MakeMoney_With_NFT #Beginners_Tutorial &#10;**************************************************&#10;&#10;&#128681; Visit Our Website : https://tinyurl.com/yy9kfv6u&#10;&#128681; Follow Me on Facebook: https://tinyurl.com/y2uk3vqw&#10;&#128681; Follow Me on Instagram: https://tinyurl.com/y57ec6co&#10;&#128681; Like Our Facebook Page: https://tinyurl.com/yyl2bvug&#10;&#10;*************************************************&#10;&#128073; Disclaimer: This channel does not provide any financial advice. All the information provided on this channel is for educational and informational purposes only. This channel does not guarantee you that you can make money online using this method shown in the video, Your degree of achievement in accomplishing the outcomes asserted in the video will require diligent work, aptitudes, learning, and experience. This channel strongly advised you to do your research before investing or joining any such platform.&#10;&#10;&#128073; Affiliate Disclosure: This video description may contain affiliate links. This means if you click on that link this channel will receive a small amount of commission.&#10;***********************************************&#10;Thank You &#128579;&#128579;"
     channeltitle "Online Help 360"
     channelid "UCoHaBkoTU82qj57ukIN9OwA"
@@ -4411,7 +4411,7 @@ graph
     commentcount 45
     duration "PT15M15S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4419,7 +4419,7 @@ graph
     label "SSCFtZmouqI"
     step 0
     date "2022-06-13T16:30:02Z"
-    title "Ce Projet NFT Rapporte 2.000$ EN 1 NUIT ! (&#192; Ne Pas Rater)"
+    title "Ce Projet NFT Rapporte 2.000$ EN 1 NUIT ! ( Ne Pas Rater)"
     description "LIEN DE NOTRE FORMATION &#128640;&#10;https://www.nftisseur.com/formation&#10;&#10;&#128279; Rejoins notre communaut&#233; sur nos r&#233;seaux :&#10;&#10;Insta &#128073; https://instagram.com/nftisseur?utm_medium=copy_link&#10;Twitter &#128073; https://twitter.com/nftisseur&#10;TikTok &#128073; https://www.tiktok.com/@nftisseur?&#10;Abonne toi : https://www.youtube.com/channel/UCA4GM7NcTcEglJAPFRdK_kw&#10;&#10;&#128313; Contactes moi en message priv&#233; Instagram si tu as besoin de renseignements &#10;&#10;0:00 Intro&#10;0:51 Concours&#10;1:13 Situation actuelle du march&#233;&#10;1:43 Les points positifs/ n&#233;gatifs&#10;2:57 Projet #1&#10;5:39 Projet #2&#10;6:24 L&#8217;importance de cet indicateur&#10;8:22 Outro&#10;&#10;&#9888;&#65039; Le contenu de cette vid&#233;o n&#8217;est pas un conseil financier"
     channeltitle "NFTISSEUR "
     channelid "UCA4GM7NcTcEglJAPFRdK_kw"
@@ -4429,7 +4429,7 @@ graph
     commentcount 205
     duration "PT8M45S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4437,7 +4437,7 @@ graph
     label "lUVTQRkoo9A"
     step 0
     date "2021-09-14T05:05:46Z"
-    title "My NFT Portfolio: JOYToys &#38;amp; VeeFriends"
+    title "My NFT Portfolio: JOYToys VeeFriends"
     description "NFTs on are taking off as a new asset class. Investable art, video games, event tickets, VR worlds, the potential is limitless for what can be created on the Ethereum blockchain as an NFT. In this episode I explain my philosophy for which NFTs I buy &#38; how I pick a good project/artist to support. Shoutout to JOYWorld &#38; VeeFriends!! Also shoutout to my friend Eli (from Starman Comics for helping me get my VeeFriend!) Let me know your NFT strategy in the comments below :)&#10;&#10;0:00 Intro&#10;2:20 My NFT Investing Strategy&#10;3:07 JOYWorld&#10;7:07 VeeFriends&#10;&#10;JOYWorld: https://joy.world/&#10;VeeFriends: https://veefriends.com/&#10;&#10;Support me on Patreon! https://www.patreon.com/hyperchange &#10;&#10;Twitter: https://twitter.com/HyperChangeTV&#10;IG: http://instagram.com/Hyperchange&#10;&#10;Music by Gali: https://soundcloud.com/galimusic&#10;&#10;Disclaimer: This video is purely my opinion and should not be regarded as factual information. I am not a financial advisor. This is not a recommendation to buy or sell securities. Do not assume any facts and numbers in this video are accurate. Always do your own due diligence. &#10;&#10;As of 09/13/2021 I'm invested in the following companies/startups/assets: Tesla, SpaceX, Bitcoin, Ethereum, Unisocks, VeeFriends, JOYToys, Square, Arcimoto, Dogecoin, Snap, NFTX, Rainbow Wallet, Atoms, Carta, Pipe, Alloy Automation, Genies, DMN8, Haus, Community, Dadi, Pigeon Loans &#38; others."
     channeltitle "HyperChange"
     channelid "UC1LAjODfg7dnSSrrPGGPPMw"
@@ -4447,7 +4447,7 @@ graph
     commentcount 122
     duration "PT11M56S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4455,7 +4455,7 @@ graph
     label "pEreoxCwC6c"
     step 0
     date "2021-03-02T17:10:10Z"
-    title "Les NFTs : C&#38;#39;est quoi et Comment &#231;a marche ? | R&#233;volution ou danger  ?"
+    title "Les NFTs : Cvolution ou danger ?"
     description "Les Non-fungible tokens (NFT) sont &#224; la mode ! Mais comment est-ce qu'ils fonctionnent et d'ou vient leurs valeurs ? Vous verrez dans cette vid&#233;o les bases du monde des NFTs ainsi que les grosses entreprises et projets naissants sur ce segment tendance de la blockchain.&#10;&#10;&#128279;LIENS DE LA VIDEO:&#10;-Un article sur l'Oeuvre vendu &#224; 6.6M$: http://bit.ly/3sMgmyb&#10;-Unstoppable Domains (.crypto): https://bit.ly/2WOFRi5&#8203; *&#10;-Le projet de Capsules TERNOA: http://bit.ly/3q72cWn &#10;Je suis advisor du projet, rejoignez nous sur leur t&#233;l&#233;gram (ici): http://bit.ly/3bVYyJY&#10;-Arianee (et Satoshi studio): http://bit.ly/3e3iv4q&#10;-SuperFarm: http://bit.ly/3bRp1Zj&#10;-Le plateforme ULTRA (Token UOS):  https://www.youtube.com/watch?v=5H1jU9ty8_s&#10;&#10;|| Les places d'&#233;changes de NFTs :&#10;-OpenSea: http://bit.ly/3uGYs1z&#10;-Rarible: http://bit.ly/3dYjwL3&#10;&#10;&#10;Je reste &#224; votre disposition en commentaire et j'attends vos retours avec impatience merci pour votre attention !&#10;&#10;Sommaire:&#10;00:00:00 : Introduction&#10;00:01:10 : C&#8217;est quoi un NFT ?&#10;00:02:45 : Pourquoi la Blockchain ?&#10;00:05:40 : Les 5 cat&#233;gories&#10;00:18:13 : Les plateformes&#10;00:20:34 : Quelques projets int&#233;ressants&#10;00:25:12 : Conclusion&#10;&#10;&#128226; Voici de quoi me contacter:&#10;&#10;http://youtube.com/hasheur/&#10;http://facebook.com/hasheur/&#10;http://twitter.com/powerhasheur/&#10;Snapchat: PowerHasheur&#10;Instagram: Hasheur&#10;&#9993; Contact pro: Dimitri@hasheur.com&#10;LinkedIn: https://goo.gl/7JgTFb&#10;&#10;Merci &#224; vous pour le temps que vous consacrez sur mon contenu&#10;Owen.&#10;&#10;Les NFTs : C'est quoi et Comment &#231;a marche ? | R&#233;volution ou pi&#232;ge &#224; idiot ?&#10;&#10;#bitcoin #blockchain #NFT"
     channeltitle "Hasheur"
     channelid "UChlTcWDE8gd4tsl_L727NrQ"
@@ -4465,7 +4465,7 @@ graph
     commentcount 1482
     duration "PT26M27S"
     indegree 9
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 2042
     duration "PT6M15S"
     indegree 17
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4491,7 +4491,7 @@ graph
     label "VadREJtzMmw"
     step 0
     date "2022-02-18T13:07:57Z"
-    title "NFTs &#4102;&#4141;&#4143;&#4112;&#4140;&#4120;&#4140;&#4124;&#4146;?&#8203;"
+    title "NFTs "
     description "Binance &#10;https://accounts.binance.me/en/register?ref=148727729&#10;&#10;CoinBase Link &#10;https://www.coinbase.com/join/KH25A1?src=ios-link&#10;&#10;#NFT&#4102;&#4141;&#4143;&#4112;&#4140;&#4120;&#4140;&#4124;&#4146; #YouTube&#4100;&#4157;&#4145;&#4123;&#4158;&#4140;&#4116;&#4106;&#4154;&#4152; #NFTMyanmar &#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UC_Bjw1lIcBdaRy4XARCTM3w/join"
     channeltitle "Dee Dee Burmese Vlog"
     channelid "UC_Bjw1lIcBdaRy4XARCTM3w"
@@ -4501,7 +4501,7 @@ graph
     commentcount 204
     duration "PT9M44S"
     indegree 1
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4509,7 +4509,7 @@ graph
     label "KV4yzWw_2aM"
     step 0
     date "2021-12-05T11:15:01Z"
-    title "&#52488;&#46321;&#54617;&#49373;&#46020; &#51060;&#54644;&#54616;&#45716; NFT&#46976; &#47924;&#50631;&#51064;&#44032;"
+    title ""
     description "#NFT #NFT&#46976; #NFT&#50896;&#47532;&#10;&#52488;&#46321;&#54617;&#49373;&#46020; &#51060;&#54644;&#54616;&#45716; NFT&#46976; &#47924;&#50631;&#51064;&#44032;&#10;&#10;1. NFT(&#45824;&#52404;&#48520;&#44032;&#45733;&#53664;&#53360;) 0:00&#10;2. NFT&#46976; &#47924;&#50631;&#51064;&#44032; 0:30&#10;3. &#46356;&#51648;&#53560; &#49548;&#50976;&#44428; 2:06&#10;4. NFT&#44032; &#50976;&#54665;&#54616;&#45716; &#51060;&#50976; 4:08&#10;5. NFT&#44032; &#48320;&#54868;&#49884;&#53420; &#48120;&#47000; 5:10&#10;&#10;* Reference&#10;NFT &#47112;&#48380;&#47336;&#49496; - &#49457;&#49548;&#46972; &#50808; 2&#47749;&#10;&#10;* Music&#10;Brooke's Dream - Dan Lebowitz&#10;&#10;TTS&#45716; &#51064;&#44277;&#51648;&#45733; &#49457;&#50864; &#49436;&#48708;&#49828; &#53440;&#51077;&#52880;&#49828;&#53944;&#50640;&#49436; &#51228;&#51089;&#46104;&#50632;&#49845;&#45768;&#45796;.&#10;&#51064;&#44277;&#51648;&#45733; &#49457;&#50864; &#54840;&#48712;&#51060; &#50808; 1&#47749; https://typecast.ai"
     channeltitle "&#47560;&#53356;&#51032; &#51648;&#49885;&#49436;&#51116;"
     channelid "UCzyQX1l7_emz59y2ylvdbsQ"
@@ -4519,7 +4519,7 @@ graph
     commentcount 237
     duration "PT7M"
     indegree 9
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -4527,7 +4527,7 @@ graph
     label "-y7AeMxnBLg"
     step 0
     date "2021-03-20T20:58:04Z"
-    title "NFT (Non Fungible Tokens) - &#2453;&#2495;, &#2453;&#2503;&#2472; &#2447;&#2476;&#2434; &#2453;&#2495;&#2477;&#2494;&#2476;&#2503; - NFT &#2453;&#2495; &#2476;&#2495;&#2463;&#2453;&#2527;&#2503;&#2472; &#2469;&#2503;&#2453;&#2503;&#2451; &#2453;&#2509;&#2487;&#2478;&#2468;&#2494;&#2476;&#2494;&#2472;?"
+    title "NFT (Non Fungible Tokens) - ?"
     description "&#2439;&#2472;&#2509;&#2463;&#2494;&#2480;&#2472;&#2503;&#2463; &#2478;&#2494;&#2480;&#2509;&#2453;&#2503;&#2463;&#2495;&#2434;, &#2465;&#2495;&#2460;&#2495;&#2463;&#2494;&#2482; &#2478;&#2494;&#2480;&#2509;&#2453;&#2503;&#2463;&#2495;&#2434; &#2447;&#2488;&#2476; &#2460;&#2495;&#2472;&#2495;&#2488; &#2474;&#2468;&#2509;&#2480;&#2503; &#2438;&#2455;&#2509;&#2480;&#2489;&#2496; &#2489;&#2482;&#2503; &#2438;&#2478;&#2494;&#2480; &#2447;&#2453;&#2494;&#2465;&#2503;&#2478;&#2495; &#2474;&#2503;&#2460; &#2463;&#2494; &#2456;&#2497;&#2480;&#2503; &#2438;&#2488;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2472; &#2447;&#2454;&#2494;&#2472; &#2469;&#2503;&#2453;&#2503;&#2435;  https://khalidfarhan.com/academy&#10;&#10;&#2447;&#2439; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482;&#2503; &#2438;&#2478;&#2495; &#2478;&#2498;&#2482;&#2468; &#2476;&#2509;&#2479;&#2476;&#2488;&#2494; &#2476;&#2494;&#2467;&#2495;&#2460;&#2509;&#2479;, &#2441;&#2470;&#2509;&#2479;&#2507;&#2453;&#2509;&#2468;&#2494; &#2460;&#2496;&#2476;&#2472; &#2469;&#2503;&#2453;&#2503; &#2486;&#2497;&#2480;&#2497; &#2453;&#2480;&#2503; &#2438;&#2478;&#2494;&#2480; &#2460;&#2496;&#2476;&#2472; &#2476;&#2495;&#2487;&#2527;&#2453; &#2489;&#2494;&#2476;&#2495;&#2460;&#2494;&#2476;&#2495; &#2488;&#2476; &#2453;&#2495;&#2459;&#2497; &#2472;&#2495;&#2527;&#2503;&#2439; &#2453;&#2469;&#2494; &#2476;&#2494;&#2480;&#2509;&#2468;&#2494; &#2476;&#2482;&#2495;&#2404; &#2468;&#2503;&#2478;&#2472; &#2453;&#2507;&#2472; &#2469;&#2495;&#2478; &#2472;&#2503;&#2439; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482;&#2503;&#2480;&#2404; &#2468;&#2476;&#2503; &#2478;&#2494;&#2480;&#2509;&#2453;&#2503;&#2463;&#2495;&#2434; &#2476;&#2494; &#2476;&#2509;&#2479;&#2476;&#2488;&#2494;&#2480; &#2453;&#2469;&#2494; &#2476;&#2494;&#2480;&#2509;&#2468;&#2494;&#2439; &#2476;&#2503;&#2486;&#2495; &#2476;&#2482;&#2494; &#2489;&#2527;&#2404; &#10;&#10;&#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482; &#2463;&#2494; &#2488;&#2494;&#2476;&#2488;&#2509;&#2453;&#2509;&#2480;&#2494;&#2439;&#2476; &#2472;&#2494; &#2453;&#2480;&#2503; &#2469;&#2494;&#2453;&#2482;&#2503; &#2453;&#2480;&#2503; &#2475;&#2503;&#2482;&#2468;&#2503; &#2474;&#2494;&#2480;&#2476;&#2503;&#2472; &#2447;&#2454;&#2494;&#2472;&#2503;&#2435; https://youtube.com/passivejournaluniversity/?sub_confirmation=1&#10;&#10;&#2447;&#2459;&#2494;&#2524;&#2494; &#2438;&#2478;&#2494;&#2453;&#2503; &#2488;&#2507;&#2486;&#2494;&#2482; &#2478;&#2495;&#2465;&#2495;&#2527;&#2494; &#2468;&#2503; &#2475;&#2482;&#2507; &#2453;&#2480;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2472; &#2438;&#2474;&#2472;&#2494;&#2480; &#2479;&#2503;&#2454;&#2494;&#2472;&#2503; &#2439;&#2458;&#2509;&#2459;&#2494;&#2435; &#10;&#10;&#2475;&#2503;&#2488;&#2476;&#2497;&#2453; &#2474;&#2503;&#2460;: https://www.facebook.com/chandlerbingforlife/&#10;&#2475;&#2503;&#2488;&#2476;&#2497;&#2453; &#2474;&#2509;&#2480;&#2507;&#2475;&#2494;&#2439;&#2482;: https://www.facebook.com/kfisawesome&#10;&#2439;&#2472;&#2509;&#2488;&#2463;&#2494;&#2455;&#2509;&#2480;&#2494;&#2478;: https://www.instagram.com/iamkhalidfarhan&#10;&#10;&#2477;&#2494;&#2482; &#2482;&#2494;&#2455;&#2482;&#2503; &#2477;&#2495;&#2465;&#2495;&#2451; &#2463;&#2495; &#2486;&#2503;&#2527;&#2494;&#2480; &#2453;&#2480;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2472; &#2438;&#2474;&#2472;&#2494;&#2480; &#2488;&#2507;&#2486;&#2494;&#2482; &#2478;&#2495;&#2465;&#2495;&#2527;&#2494;&#2527;&#2404; &#2438;&#2478;&#2494;&#2453;&#2503; &#2463;&#2509;&#2479;&#2494;&#2455; &#2453;&#2480;&#2468;&#2503; &#2477;&#2497;&#2482;&#2476;&#2503;&#2472; &#2472;&#2494;&#2404;&#10;&#10;To Check out NFT Marketplace: https://opensea.io/ (there are lots of other ones too)"
     channeltitle "Khalid Farhan"
     channelid "UCb-d2dCbEt_T-d3qf3oMICw"
@@ -4537,7 +4537,7 @@ graph
     commentcount 539
     duration "PT18M18S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4555,7 +4555,7 @@ graph
     commentcount 19
     duration "PT7M43S"
     indegree 4
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -4563,7 +4563,7 @@ graph
     label "x2p7MsZBbWI"
     step 0
     date "2022-03-20T17:51:31Z"
-    title "Top 8 NFT Myths DEBUNKED &#128373;&#127995;&#8205;&#9794;&#65039; [ NFTs Explained ]"
+    title "Top 8 NFT Myths DEBUNKED [ NFTs E tongue sticking out lained ]"
     description "Did you know that NFTs are actually part of a massive pyramid scheme spanning the whole world?&#10;Weird right!? &#10;&#10;We thought this sounded strange too, which is why we spent the last few days looking into some of the weird and &#8220;wonderful&#8221; claims people make about non-fungible tokens. What we found was that there&#8217;s a lot of misinformation floating around the web about NFTs right now. &#10;&#10;So much so that we decided to put together a video debunking eight of the most common myths around NFTs. &#10;&#10;0:00 - Intro &#10;1:13 - #1 NFTs are all digital art &#10;2:32 - #2 NFTs are just a fad &#10;4:00 - #3 NFTs are a get rich quick scheme &#10;6:10 - #4 NFTs are bad for the environment &#10;7:45 - #5 NFTs are worthless and useless &#10;9:10 - #6 NFTs are easily copied, which leads to art forgery and theft &#10;11:08 - #7 NFTs are helping criminals to launder money&#10;12:55 - #8 Buying an NFT means you own the underlying asset &#10;&#10;&#128276; From crypto news, to market moves, and to educational how to videos. If you want something more than just hype and to actually learn about crypto, make sure to hit the subscribe button right now and turn on notifications to not miss out on new videos! &#10;&#10;&#128309; Coin Market Cap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space. Its mission is to make crypto accessible all around the world through data and content.&#10;&#10;&#128242; Download our app!&#10;IOS : https://apple.co/3dOkokH&#10;Android : https://bit.ly/3gHyJkS&#10; &#10;&#129309; Join CoinMarketCap!&#10;https://bit.ly/3dVaEoS&#10; &#10;Follow CoinMarketCap on social!&#10;https://twitter.com/CoinMarketCap&#10;https://www.facebook.com/CoinMarketCap&#10;https://www.instagram.com/CoinMarketCap&#10;https://reddit.com/r/CoinMarketCap&#10;https://t.me/CoinMarketCap&#10; &#10;&#128233; Subscribe to our Newsletter!&#10;https://coinmarketcap.com/newsletter/"
     channeltitle "CoinMarketCap"
     channelid "UCnhdZlwVd6ocXGhdSyV9Axg"
@@ -4581,7 +4581,7 @@ graph
     label "lLhN0w3auuE"
     step 0
     date "2022-06-25T03:00:31Z"
-    title "&#50752;..&#54788;&#51116; &#48149;&#49332;&#45212; NFT&#49884;&#51109; &#44540;&#54889; &#12599;&#12599;, 90% &#46497;&#46973;&#51060; &#47568;&#51060;&#45208; &#46104;&#45716; &#44152;&#44620;?"
+    title "?"
     description "#&#44221;&#51228; #&#48708;&#53944;&#53076;&#51064; #nft &#10;&#10;&#10;&#50724;&#45720;&#51008; NFT &#44288;&#47144; &#46020;&#49436;  'NFT&#47196; &#48512;&#51032; &#54056;&#47084;&#45796;&#51076;&#51012; &#48148;&#44988; &#49324;&#46988;&#46308;' &#50640; &#45824;&#54644; &#50508;&#50500;&#48376;&#45796;&#44396;&#47532;&#10;NFT&#50752; &#48660;&#47197;&#52404;&#51064;&#51060; &#47924;&#50631;&#51068;&#44620;?&#10;NFT&#47196; &#46024;&#51012; &#48169;&#48277;&#51008; &#47924;&#50631;&#51068;&#44620;?&#10;&#54788;&#51116; &#48149;&#49332;&#45212; NFT &#49884;&#51109;&#50640; &#45824;&#54644;&#49436; &#10;&#51221;&#47568; &#49789;&#44172; &#51060;&#50556;&#44592; &#54620;&#45796;&#44396;&#47532;&#10;&#10;&#46020;&#49436; 'NFT&#47196; &#48512;&#51032; &#54056;&#47084;&#45796;&#51076;&#51012; &#48148;&#44988; &#49324;&#46988;&#46308;'&#51008; &#50500;&#47000; &#47553;&#53356;&#47484; &#53685;&#54644;&#49436; &#44396;&#47588;&#54624; &#49688; &#51080;&#45796;&#44396;&#47532;&#10;&#10;&#44368;&#48372;&#47928;&#44256; : https://bit.ly/39PlOw6&#10;&#50696;&#49828;24: https://bit.ly/3Ob1Qes&#10;&#50508;&#46972;&#46360;: https://bit.ly/3HWLAeR"
     channeltitle "&#45320;&#44404;&#44221;&#51228;"
     channelid "UCXD1p0ghcxXj8u4s5jYbGkw"
@@ -4591,7 +4591,7 @@ graph
     commentcount 338
     duration "PT12M12S"
     indegree 7
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "1pDNDf43V5M"
     step 0
     date "2021-11-14T23:43:47Z"
-    title "&#191;Qu&#233; pasar&#237;a si Minecraft fuese un NFT? El Problema&#8230;"
+    title ""
     description "Bobicraft &#191;Qu&#233; pasar&#237;a si Minecraft fuese un NFT? El problema con los NFT&#10;&#10;0:00 Inicio&#10;01:20 &#191;Qu&#233; es un NFT? &#10;05:05 Minecraft como un &#34;NTF&#34; &#191;C&#243;mo ser&#237;a?&#10;09:17 El GRAN PROBLEMA con los NFTs&#10;&#10;&#128995; DIRECTOS TWITCH:  https://www.twitch.tv/bobicraftmc&#10;&#128309; TWITTER: @BobicraftMC https://twitter.com/BobicraftMC&#10;&#128993; DISCORD: https://discord.gg/zaBeMcd&#10;&#128994; CANAL SECUNDARIO: https://www.youtube.com/channel/UCADRd3q-WK5Bgzs-DxIXKlA&#10;&#128996; FACEBOOK: https://www.facebook.com/gaming/BobicraftReal&#10;&#9899; TIKTOK: https://www.tiktok.com/@bobicraftmc?lang=es&#10;&#128992; INSTAGRAM: https://www.instagram.com/bobicraftmc/&#10;&#128308; SERVIDOR: mc.bobicraft.net&#10;&#128231; NEGOCIOS: bobicraft@mcr-agency.com &#10;&#128231; CORREO PARA FANS: contactobobicraft@gmail.com&#10;&#10;- Cr&#233;ditos musicales, Qumu: https://www.youtube.com/channel/UC0QbcOX2gI5zruEvpSmnf6Q&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128142;UNETE A MIEMBROS: https://www.youtube.com/channel/UCMQOumrt3C7fFRT8oBc436Q/join&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#9679; 10 Cosas de Minecraft https://www.youtube.com/watch?v=Uu6SgdQTb4Y&#38;list=PL9PItSqgQmU1eL6ENZI-Dfj3v4ILLn-Qp&#10;&#9679; &#191;Qu&#233; Pasar&#237;a si...? https://www.youtube.com/watch?v=LiTB4S_GGk4&#38;list=PL9PItSqgQmU27SrkeYEKRX9AfVpM-uObT&#10;&#9679;  100/200 JUGADORES: https://www.youtube.com/playlist?list=PL9PItSqgQmU0pHkdQ9HlOaakAl6YfKY4t&#10;&#9679; Momentos Incre&#237;bles Captados en Minecraft: https://www.youtube.com/watch?v=q7GmxaD_r7A&#38;list=PL9PItSqgQmU1v-fy5RsrNEsFDso-fhHYn&#10;&#9679; Mundos Survival &#201;PICOS 100% Legal: https://www.youtube.com/watch?v=Itwh5d8IhKU&#38;list=PL9PItSqgQmU2oUWPDUl-Diajb957bcldV&#10;&#9679; Documentales de Minecraft: https://www.youtube.com/watch?v=NWSEANzXqlY&#38;list=PL9PItSqgQmU3-sGBgQCtl0NpW87lBLP6O&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#128065;&#65039;Miembros OMNIPOTENTE:&#10;CristopherGhost19,  Hazell45, Carlos de la cruz, Rosi Fern&#225;ndez Raffaelli&#10;&#10;&#128165;Miembros LEGENDARIO:&#10;POKE! Saiyan, Santiago Rescrepo, TANNY77, Elma Ang, Gabriel Barraza, Pana_64, POU OFICIAL, Sebastian mederos&#10;&#10;&#128171;Miembros C&#211;SMICOS:&#10;Alex Beni, vLegend, Yoaan, Patricia Gonz&#225;lez, Angustin Gustavo, Vicente Cifuentes, ItzGato YT, Antu Minecraft, Lanxpro1q1, UNIVERSO DRAGON, Caamii Igna, Honton129, Tremex, Arcangel EEUU, Arcangel 00, MrsPupi, Ronald Barragan, Araceli Rios&#10;#Minecraft #videogames #Bobicraft"
     channeltitle "Bobicraft"
     channelid "UCMQOumrt3C7fFRT8oBc436Q"
@@ -4609,7 +4609,7 @@ graph
     commentcount 2671
     duration "PT13M21S"
     indegree 5
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4617,7 +4617,7 @@ graph
     label "B2YtqfDNnw8"
     step 0
     date "2022-02-19T16:00:10Z"
-    title "NFT - explicada en 10 minutos"
+    title "NFT - e tongue sticking out licada en 10 minutos"
     description "NFT - explicada en 10 minutos&#10;&#10;&#10067;Pregunta: &#191;C&#243;mo encuentras tiempo para leer?&#10;&#128073; Respuesta: No leo. Escucho audiolibros. &#127911; Uso la aplicaci&#243;n Audible (de Amazon). Reg&#237;strate aqu&#237; para una prueba gratuita de 30 d&#237;as y obtenga 1 libro GRATIS (cualquiera) - https://amzn.to/3kS1eNH&#10;&#10;&#10067; Pregunta: &#191;Qu&#233; libros recomiendas para principiantes?&#10;&#128073; Respuesta: Mi TOP 10 de libros recomendados para principiantes: &#128218;https://www.amazon.com/shop/unpocomejor&#10;&#10;&#10067;Pregunta: &#191;C&#243;mo se compran metales preciosos?&#10;&#128073; Respuesta: Uso una empresa llamada GOLDAVENUE &#10;https://www.goldavenue.com/en?r=oRJxC06V2bQm75Hl&#10;&#10;&#10067;Pregunta: &#191;Qu&#233; plataformas de corretaje utiliza? &#128200;&#10;&#128073; Trading212 (Europa) - https://bit.ly/3siIw5N - Usa el c&#243;digo de promoci&#243;n &#34;TROCHU&#34; y obtenga acciones GRATIS por valor de hasta 100 euros &#128182;&#10;&#128073;Etoro-https://med.etoro.com/B19296_A83702_THick.aspx&#10; &#10;&#10067; Pregunta: - &#191;C&#243;mo se hacen estas animaciones?&#10;&#128073; Respuesta: https://paykstrt.com/2073/35999&#10;&#10;&#10067; Pregunta: - &#191;Haces animaciones para otros?&#10;&#128073; Respuesta: No, pero puedes contratar a alguien aqu&#237;: https://bit.ly/3K4qUAF&#10; &#10;&#10067;Pregunta: &#191;C&#243;mo contratas personas en l&#237;nea? &#128100;&#10;&#128073; Respuesta: Principalmente en Fiverr - https://go.fiverr.com/visit/?bta=60394&#38;brand=fiverrcpa&#10;&#10; &#10067;Pregunta: &#191;C&#243;mo se compra BITCOIN? &#8383;&#10;&#128073; En coinbase: https://coinbase-consumer.sjv.io/kjJBYn&#10;&#10; &#9888;&#65039; POR TRANSPARENCIA: algunos de los enlaces anteriores son enlaces de afiliados, lo que significa que obtengo una peque&#241;a comisi&#243;n si compras algo usando mis enlaces"
     channeltitle "Un Poco Mejor"
     channelid "UCRlBDnRQduDk4tmm1OtpSRg"
@@ -4627,7 +4627,7 @@ graph
     commentcount 196
     duration "PT10M3S"
     indegree 18
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4635,7 +4635,7 @@ graph
     label "ZqtKwxE47XU"
     step 0
     date "2021-11-10T15:45:51Z"
-    title "&#1589;&#1606;&#1593; NFT &#1608;&#1576;&#1610;&#1593;&#1607;&#1575; &#1593;&#1604;&#1609; &#1605;&#1608;&#1602;&#1593; &#1605;&#1610;&#1606;&#1578;&#1576;&#1604;"
+    title ""
     description "&#1604;&#1610;&#1608;&#1605; &#1571;&#1589;&#1583;&#1602;&#1575;&#1574;&#1610; &#1593;&#1606;&#1575; &#1588;&#1585;&#1581; &#1603;&#1575;&#1605;&#1604; &#1604;&#1589;&#1606;&#1593; #NFT &#1575;&#1604;&#1582;&#1575;&#1589;&#1607; &#1601;&#1610;&#1603; &#1608;&#1576;&#1610;&#1593;&#1607;&#1575; &#1593;&#1604;&#1609; &#1605;&#1608;&#1602;&#1593; &#1605;&#1610;&#1606;&#1578;&#1576;&#1604; &#10;&#1576;&#1583;&#1608;&#1606; &#1583;&#1601;&#1593; GAS Fees &#10; &#1604;&#1578;&#1587;&#1575;&#1593;&#1583;&#1603; &#1593;&#1575;&#1604;&#1609; &#1575;&#1604;&#1583;&#1582;&#1608;&#1604; &#1601;&#1610; &#1593;&#1575;&#1604;&#1605; &#1575;&#1604;&#1575;&#1587;&#1578;&#1579;&#1605;&#1575;&#1585; &#1575;&#1604;&#1588;&#1582;&#1589;&#1610; &#1608;#&#1603;&#1585;&#1610;&#1576;&#1578;&#1608;&#10;&#10;&#1575;&#1604;&#1605;&#1608;&#1575;&#1602;&#1593; &#1575;&#1604;&#1605;&#1593;&#1585;&#1608;&#1590;&#1607; &#1576;&#1575;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1581;&#1587;&#1576; &#1578;&#1585;&#1578;&#1610;&#1576; &#1593;&#1585;&#1590;&#1607;&#1575; &#10;https://metamask.io/&#10;https://mintable.com/&#10;https://www.pixilart.com/&#10;&#10;&#10;&#1583;&#1610;&#1587;&#1603;&#1608;&#1585;&#1583; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577;&#10;https://discord.gg/rmS8f824v6&#10;&#1575;&#1588;&#1578;&#1585;&#1603;&#1608; &#1601;&#1610; &#1605;&#1580;&#1605;&#1608;&#1593;&#1578;&#1606;&#1575; &#1593;&#1604;&#1609; &#1585;&#1610;&#1583;&#1610;&#1578; :&#10;https://www.reddit.com/r/MoudarsTech/&#10;&#10;&#10;&#1608;&#1604;&#1575; &#1578;&#1606;&#1587;&#1608;&#1575; &#1578;&#1585;&#1603; &#1578;&#1593;&#1604;&#1610;&#1602;&#1575;&#1578;&#1603;&#1605; &#1604;&#1606;&#1575; &#1571;&#1587;&#1601;&#1604; &#1575;&#1604;&#1581;&#1604;&#1602;&#1575;&#1578;&#10;&#1608;&#1588;&#1603;&#1585;&#1575; &#1604;&#1603;&#1605;."
     channeltitle "Moudar's Tech / &#1605;&#1590;&#1585; &#1578;&#1603;"
     channelid "UCfcjDgnhd-ZiZIl0zhvS77g"
@@ -4645,7 +4645,7 @@ graph
     commentcount 635
     duration "PT12M10S"
     indegree 7
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     commentcount 86
     duration "PT12M32S"
     indegree 4
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4689,7 +4689,7 @@ graph
     label "QYJEKq1pKhA"
     step 0
     date "2022-02-03T09:51:20Z"
-    title "World&#38;#39;s most expensive NFTs! &#129297;"
+    title "World"
     description "#shorts"
     channeltitle "Mrwhosetheboss Shorts"
     channelid "UCZSlfzadjnw7G419c_OJ9eg"
@@ -4699,7 +4699,7 @@ graph
     commentcount 6938
     duration "PT52S"
     indegree 5
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4707,7 +4707,7 @@ graph
     label "IEOsoUiT_30"
     step 0
     date "2022-02-06T01:00:02Z"
-    title "&#54616;&#45208;&#50640; 130&#50613;? &#45572;&#44396;&#45208; &#49789;&#44172; NFT &#52972;&#47113;&#49496; 1000&#44060; &#51060;&#49345; &#47564;&#46308;&#44256; &#54032;&#47588;&#54616;&#44592;"
+    title ""
     description "&#51060;&#48264; &#50689;&#49345;&#51008; &#52376;&#51020; NFT &#44536;&#47548;&#51012; &#44536;&#47532;&#45716; &#48169;&#48277;&#48512;&#53552; &#47004;&#45924;&#54616;&#44256; &#44256;&#50976;&#54620; &#51060;&#48120;&#51648; &#51312;&#54633; &#51088;&#46041; &#49373;&#49457;, &#51060;&#48120;&#51648;&#47484; NFT&#47196; &#45824;&#47049; &#51088;&#46041; &#48124;&#54021;&#54616;&#44256; &#54032;&#47588;&#54616;&#45716; &#48169;&#48277;, NFT&#50640; &#44032;&#52824;&#47484; &#48512;&#50668;&#54616;&#45716; &#48169;&#48277;&#44620;&#51648; &#51228;&#51089;/&#48124;&#54021;/&#54032;&#47588; &#46321; NFT&#51032; &#47784;&#46304; &#44163;&#51012; &#45796; &#48176;&#50881;&#45768;&#45796;. &#47784;&#46304; &#44284;&#51221;&#50640; &#48708;&#50857;&#51060; &#51204;&#54784; &#54596;&#50836; &#50630;&#49845;&#45768;&#45796;. &#51649;&#51217; &#50668;&#47084;&#48516;&#47564;&#51032; NFT &#52972;&#47113;&#49496;&#51012; &#47924;&#47308;&#47196; &#47564;&#46308;&#50612;&#48372;&#49464;&#50836;!&#10;&#10;*&#44396;&#47588; &#51452;&#51032;&#10;Jolappy Bird NFT &#44288;&#47144; &#44277;&#51648;&#49324;&#54637; = JoCoding Club&#51004;&#47196; &#48320;&#44221;&#10;&#9654;https://www.youtube.com/post/UgkxN2y5WLj-_Oj2jiN7OfJ3-hDnXdEAIZxv&#10;&#9654;https://opensea.io/collection/jocoding-club&#10;&#10;&#51312;&#53076;&#46377; &#47716;&#48260;&#49901; &#44032;&#51077;(&#52572;&#49888; &#45824;&#47049; &#48124;&#54021; &#48169;&#48277; &#46321; &#47716;&#48260;&#49901; &#51204;&#50857; &#44053;&#51032; &#50689;&#49345; &#47924;&#51228;&#54620; &#49688;&#44053;)&#10;&#9654;https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg/join&#10;&#10;&#51312;&#53076;&#46377; &#46356;&#49828;&#53076;&#46300;&#10;&#9654;https://discord.gg/zny87VeSaX&#10;&#10;&#51312;&#53076;&#46377; &#52292;&#45328; &#44053;&#49324; &#51648;&#50896;&#10;&#9654;https://forms.gle/LsbgU8xFL9gtzRSt6&#10;&#10;&#49828;&#47560;&#53944;&#52968;&#53944;&#47001; &#51060;&#50857;&#54620; &#44053;&#51032; &#49548;&#44060;: https://youtu.be/6DcTUq8dlJc&#10;&#10;Visual Studio Code &#49444;&#52824;&#54616;&#44592;, &#44032;&#51060;&#46300; &#50689;&#49345;&#10;https://code.visualstudio.com/&#10;https://youtu.be/kRB3DTaJifI&#10;&#10;Nodejs &#49444;&#52824;&#54616;&#44592;&#10;https://nodejs.org/ko/&#10;&#10;Hashlips art engine &#51060;&#48120;&#51648; &#51312;&#54633; &#51088;&#46041; &#49373;&#49457;&#10;https://github.com/HashLips/hashlips_art_engine&#10;&#10;Opensea&#10;https://opensea.io/&#10;&#10;&#50724;&#54536;&#50472; &#48268;&#53356; &#51088;&#46041; &#48124;&#54021;/&#54032;&#47588; (&#50668;&#44592;&#49436; upload_captcha.py &#49324;&#50857;)&#10;https://github.com/infotrex/bulk-upload-to-opensea&#10;*&#52572;&#44540; recaptcha &#50629;&#45936;&#51060;&#53944;&#47196; &#48268;&#53356; &#50629;&#47196;&#46300;&#44032; &#44592;&#51316; &#53076;&#46300;&#47196; &#47561;&#54804;&#45716;&#45936; upload_captcha.py&#47484; &#49324;&#50857;&#54644;&#51452;&#49464;&#50836;!&#10;&#10;&#54260;&#47532;&#44260; NFT &#44396;&#51077; &#48169;&#48277;&#10;1. &#47700;&#53440;&#47560;&#49828;&#53356; &#51060;&#50857; &#48169;&#48277;: https://youtu.be/p-JyKDm5RuE&#10;2. Quick Swap &#51060;&#50857; &#48169;&#48277; : https://youtu.be/BJhiQIEnW-o&#10;&#10;&#47785;&#52264;&#10;00:00 &#48120;&#47532;&#48372;&#44592;&#10;00:18 &#50836;&#51608; &#45824;&#49464; NFT&#10;00:49 NFT&#46976;?&#10;01:52 NFT&#44032; &#53945;&#48324;&#54620; &#51060;&#50976;&#10;02:32 NFT&#47484; &#49324;&#45716; &#51060;&#50976;&#10;03:45 Bored Ape Yacht Club &#49324;&#47168;&#10;04:29 &#51060;&#48264; &#50689;&#49345;&#50640;&#49436; &#47564;&#46308; NFT &#49548;&#44060;&#10;04:53 NFT &#51228;&#51089;&#51032; &#55120;&#47492;&#10;06:56 Figma&#47484; &#51060;&#50857;&#54620; &#54028;&#53944; &#51060;&#48120;&#51648; &#51228;&#51089;&#10;15:15 hashlips art engine&#51012; &#54876;&#50857;&#54620; &#51060;&#48120;&#51648; &#51312;&#54633; &#51088;&#46041; &#49373;&#49457;&#54616;&#45716; &#48169;&#48277;&#10;23:58 Opensea NFT &#48124;&#54021; &#44284;&#51221; &#48143; &#48660;&#47197;&#52404;&#51064;&#48324; &#53945;&#51669; &#51221;&#47532;&#10;26:28 &#47700;&#53440;&#47560;&#49828;&#53356; &#51648;&#44049; &#49444;&#52824;&#10;28:00 Opensea &#51217;&#49549; &#48143; &#49464;&#54021;&#10;28:45 Opensea &#52972;&#47113;&#49496; &#49464;&#54021;&#10;31:25 &#51649;&#51217; &#54616;&#45208;&#50473; &#48124;&#54021;&#54616;&#44256; &#54032;&#47588;&#54616;&#45716; &#48169;&#48277;&#10;35:20 &#50724;&#54536;&#50472; &#48268;&#53356; &#51088;&#46041; &#48124;&#54021;/&#54032;&#47588;&#54616;&#45716; &#48169;&#48277;&#10;41:24 NFT&#51032; &#44032;&#52824;&#47484; &#45458;&#51060;&#45716; &#48169;&#48277; &#48143; &#49324;&#47168;&#10;42:27 Jolappy Bird NFT &#54848;&#45908; &#54812;&#53469;&#10;45:26 Jolappy Bird NFT &#44396;&#51077; &#48169;&#48277; (&#52852;&#46300;)&#10;46:52 Jolappy Bird NFT &#44396;&#51077; &#48169;&#48277; (&#54260;&#47532;&#44260; &#51060;&#45908;&#47532;&#50880;)&#10;48:25 NFT &#51064;&#51613; &#48143; VIP &#49849;&#44553; &#48169;&#48277;&#10;&#10;#NFT #&#48660;&#47197;&#52404;&#51064; #Opensea"
     channeltitle "&#51312;&#53076;&#46377; JoCoding"
     channelid "UCQNE2JmbasNYbjGAcuBiRRg"
@@ -4717,7 +4717,7 @@ graph
     commentcount 1752
     duration "PT49M53S"
     indegree 8
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 67
     duration "PT3M34S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4743,7 +4743,7 @@ graph
     label "rK7lnOz2clI"
     step 0
     date "2022-05-23T08:00:29Z"
-    title "&#49688;&#51061;&#47456;&#51060; 14000%?! &#48512;&#51088;&#44032; &#46104;&#45716; &#54000;&#53011; &#38;#39;NFT&#38;#39;&#45716; &#47924;&#50631;&#51064;&#44032; | &#51687;&#51008; &#44536;&#50508;"
+    title ""
     description "#&#44536;&#44163;&#51060;&#50508;&#44256;&#49910;&#45796; #&#51687;&#51008;&#44536;&#50508; #NFT&#10;&#10;&#44536;&#44163;&#51060; &#50508;&#44256;&#49910;&#45796; 1307&#54924; (2022.5.21 &#48169;&#49569;)&#10;&#54588;&#52852;&#49548;&#50752; NFT &#10;- &#49888;&#54868;&#51064;&#44032; &#48260;&#48660;&#51064;&#44032;&#10;&#10;&#50672;&#52636; : &#50948;&#49345;&#54788; / &#51089;&#44032; : &#44608;&#51452;&#55148;&#10;&#10;&#54400;&#50689;&#49345; &#45796;&#49884;&#48372;&#44592;&#10;&#9654; &#44536;&#50508; &#54856;&#54168;&#51060;&#51648; : http://tv.sbs.co.kr/docu/&#10;&#9654; &#50920;&#51060;&#48652;(wavve) : https://www.wavve.com/"
     channeltitle "&#44536;&#44163;&#51060; &#50508;&#44256;&#49910;&#45796;"
     channelid "UC_U34UlsS9Mp5ZgvsEA7irw"
@@ -4753,7 +4753,7 @@ graph
     commentcount 350
     duration "PT16M39S"
     indegree 9
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -4761,7 +4761,7 @@ graph
     label "oIPp1LyWtCg"
     step 0
     date "2022-05-06T23:31:11Z"
-    title "&#191;Ha llegado el fin de los NFT? &#129300; Esto asegura The Wall Street Journal, pero parece que no"
+    title " Esto asegura The Wall Street Journal, pero parece que no"
     description "Puedes ver el art&#237;culo original del Wall Street Journal ac&#225;:&#10;https://www.wsj.com/articles/nft-sales-are-flatlining-11651552616&#10;&#10;Algunas gr&#225;ficas de la situaci&#243;n actual del mercado NFT:&#10;&#8226; https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces/nft-marketplace-monthly-volume&#10;&#10;&#8226; https://dune.com/rchen8/opensea&#10;&#10;&#8226; https://dappradar.com/nft/marketplaces&#10;&#10;&#8226; An&#225;lisis &#34;pesimista&#34; de Nonfungible tokens sobre el desempe&#241;o de los NFT del primer trimestre del 2022 donde supuestamente TWSJ extrajo los datos:&#10;https://nonfungible.com/news/corporate/nft-market-report-q1-2022&#10;&#10;Recuerda que nuestro Podcast ya est&#225; disponible:&#10;https://open.spotify.com/show/6zpL7dA...&#10;&#10;Tambi&#233;n puedes echarle un ojo a la colecci&#243;n, te recomendamos &#250;nicamente entrar a trav&#233;s de los links oficiales:&#10;&#10;&#127760; No solo un JPG: https://opensea.io/collection/nsujpg-v2&#10;&#128073; comunidad de Discord: https://discord.gg/nsUgHX4Nhg&#10;&#10;Tambi&#233;n puedes visitar el proyecto de Bookers:&#10;&#127760; https://bookers.club/&#10;&#129309; https://discord.gg/RGbeXj5RXu&#10;&#10;S&#237;guenos en nuestras redes sociales:&#10;&#10145;&#65039; Instagram: https://www.instagram.com/nosolounjpg/&#10;&#10145;&#65039; Euge: https://www.instagram.com/euge.oller/&#10;&#10145;&#65039; Humberto: https://www.instagram.com/humberto_ca...&#10;&#10;#NFT #Metaverso #Opensea"
     channeltitle "No solo un JPG"
     channelid "UCgy6CZCTVJjedfumeEXY1Ew"
@@ -4771,7 +4771,7 @@ graph
     commentcount 36
     duration "PT12M26S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 63
     duration "PT3M46S"
     indegree 1
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -4797,7 +4797,7 @@ graph
     label "YqUJbKCxLiA"
     step 0
     date "2022-01-29T21:43:18Z"
-    title "&#9989; Como CREAR y VENDER GRATIS tu NFT en 2022 desde el CELULAR en Opensea (NO CLICKBAIT!!)"
+    title " Como CREAR y VENDER GRATIS tu NFT en 2022 desde el CELULAR en Opensea (NO CLICKBAIT!!)"
     description "&#128640; S&#237;gueme en Twitter: https://twitter.com/iamlordnft/&#10;&#128293; Nuestra Comunidad iamLord de Telegram : https://t.me/theLordSquad&#10;&#10;&#10; Aqu&#237; Aprender&#225;s Sobre Inversion y a Como Ganar Dinero: https://t.me/lordtothemoon&#10;&#10;&#10;&#10;&#9658; La APP que uso para operar con Criptomonedas es Binance: https://accounts.binance.com/es-LA/register?ref=SKJ2LQVV&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;.&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;.&#10;&#10;&#10;&#10;&#10;&#10;&#10;Hoy te ense&#241;ar&#233; c&#243;mo crear tu propio NFT y ganar dinero paso a paso.&#10;&#10;Existen juegos NFT sin inversi&#243;n para ganar dinero y en mi canal tengo un v&#237;deo donde te hablo de los juegos NFT m&#225;s rentables y tambi&#233;n te revelo un juego NFT con poca inversi&#243;n.&#10;&#10;En ese v&#237;deo me centr&#233; en traerte los mejores juegos NFT gratis sin inversi&#243;n para ganar dinero sin invertir y en este v&#237;deo me centro en ense&#241;arte a crear tu propio NFT gratis.&#10;&#10;Los juegos nft sin inversi&#243;n android y ios, pueden ser tambi&#233;n juegos nft sin inversi&#243;n para PC y as&#237; poder jugar desde cualquier dispositivo, el problema es que te tiene que gustar jugar.&#10;&#10;En mi caso, me gustan m&#225;s los negocios, el marketing y las ventas, por eso, la mejor opci&#243;n no es ganar dinero jugando, sino creando un NFT y vendi&#233;ndolo.&#10;&#10;Los juegos para ganar dinero real en PayPal o tambi&#233;n juegos para ganar criptomonedas son juegos que te dan recompensas que luego puedes canjear a dinero real PayPal.&#10;&#10;Mucha gente est&#225; hablando de los NFT o juegos para ganar dinero real PayPal porque gracias a las nuevas tecnolog&#237;as, hoy en d&#237;a puedes ganar dinero desde casa sin inversi&#243;n.&#10;&#10;La mayor&#237;a son juegos para ganar criptomonedas 2021 y criptomonedas gratis desde cero que puedes conseguir gracias a avanzar niveles en los diferentes juegos.&#10;&#10;Hoy te ense&#241;o a crear un NFT para ganar dinero gratis, ya que existen muchos juegos nft para ganar dinero sin invertir, pero tambi&#233;n puedes crear nft y venderlos, incluso crear nft desde el celular.&#10;&#10;&#191;Qu&#233; son los NFT? Son token no fungibles, es decir, que no son intercambiables. Hay gente que crea juegos nft para ganar dinero con poca inversi&#243;n y t&#250; puedes aprovecharte y ganar NFTs que luego puedes venderlos en el mercado de OpenSea.&#10;&#10;Voy a ense&#241;arte c&#243;mo crear NFT en opensea aunque tambi&#233;n puedes crear NFT en sandbox o crear NFT en solana.&#10;&#10;Mucha gente aprende a c&#243;mo crear NFT y venderlo en binance porque las opciones son infinitas para hacerlo y cada una tiene sus ventajas y desventajas.&#10;&#10;Tambi&#233;n puedes ver en mi canal de YouTube un v&#237;deo en el que ense&#241;o a crear mi NFT gratis para ganar dinero, o sea crear mi NFT sin inversi&#243;n. Tambi&#233;n puedes hacer un NFT crear colecci&#243;n de distintos tipos como personajes y m&#225;s cosas, para as&#237; crear nft coleccionables."
     channeltitle "iamLord"
     channelid "UCeC4nxm9Rmo9GzzGRbAr44g"
@@ -4807,7 +4807,7 @@ graph
     commentcount 913
     duration "PT12M38S"
     indegree 9
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4833,7 +4833,7 @@ graph
     label "Zi0Wymc5o3U"
     step 0
     date "2022-07-05T20:26:46Z"
-    title "SuperStep |&#129297; &#1580;&#1608;&#1580; &#1605;&#1608;&#1575;&#1602;&#1593; &#1604;&#1604;&#1585;&#1576;&#1581; &#1575;&#1604;&#1587;&#1585;&#1610;&#1593; &#1583;&#1582;&#1604; &#1583;&#1575;&#1576;&#1575; Free Click to Earn NFT Games"
+    title "SuperStep | Free Click to Earn NFT Games"
     description "Discord  &#1570;&#1580;&#1610; &#1593;&#1606;&#1583;&#1606;&#1575; &#1604; : https://discord.gg/Bt67bdHj4W&#10;For Business: contact@showupplus.com  &#10;&#1605;&#1588;&#1575;&#1607;&#1583;&#1577; &#1605;&#1605;&#1578;&#1593;&#1577; &#1604;&#1604;&#1580;&#1605;&#1610;&#1593; &#128525;&#10084;&#65039;&#10;&#1604;&#1575;&#1578;&#1606;&#1587;&#1608;&#1575; &#1583;&#1593;&#1605;&#1603;&#1605; &#1604;&#1610; &#1576;&#1604;&#1575;&#1610;&#1603; &#1608;&#1575;&#1604;&#1575;&#1588;&#1578;&#1585;&#1575;&#1603; &#1576;&#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#128591;&#127997;&#129392;&#10;&#10;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577; 1: https://bit.ly/3yJIaZK&#10;&#1605;&#1608;&#1602;&#1593; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577; 2: https://bit.ly/3IiFPYX&#10;&#10;&#10;&#10;---------------&#10;&#9658; Best crypto games and platforms&#10;Start in Farmer's World Now! - https://play.farmersworld.io/?ref=hmj...&#10;&#10;&#10;Some NFT Games I play right now (Do Your Research and Play at Your Own Risk):&#10;The Crypto You - https://thecryptoyou.io/game?ref=9dyv...&#10;Farmers World: https://play.farmersworld.io/?ref=hmj...&#10;Mobox: https://www.mobox.io/#/cmcairdrop?sou...&#10;Idle Mystic:  https://www.idlemystic.io/login?type=...&#10;Splinterlands: https://splinterlands.com?ref=luranski&#10;Jojo Fun: https://jojo.fun/?inviter=0x505e81853...&#10;&#10;&#10;&#10;&#10;---------------&#10;&#9658;DISCLOSURE/ LEGAL DISCLAIMER:&#10;***The information by &#8216;this channel&#8217; is for general, informational, and educational purposes only. All information are provided in good-faith. We make no representation or warranty of any-kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information stated. &#10;&#10;&#10;Under no circumstance shall we have any liability to you for any loss of any kind incurred as a result of reliance on any information provided on by Luran Dionisio. Your use of the information and your reliance on any information from Luran Dionisio is solely at your own risk. &#10;&#10;&#10;Video is for entertainment and educational purposes only. This is sharing my journey into the NFT and Crytospace and not a financial advise.&#10;Past performance is not indicative of future results, you could lose some or all of your invested money.&#10;&#10;&#10;Buying and selling Bitcoin, NFTS and/or alternative cryptocurrencies is extremely volatile and may not be suitable for all people as the price can change drastically in a short amount of time.&#10;&#10;&#10;NEVER RISK MORE THAN YOU ARE COMFORTABLE LOSING.&#10;INVEST AT YOUR OWN RISK.&#10;DO YOUR OWN RESEARCH.&#10;THIS IS NOT FINANCIAL ADVICE.&#10;&#10;---------------&#10;&#9658; Related topics&#10;SuperStep game bombcrypto adventure mode SuperStep bot SuperStep roi, SuperStep how to start SuperStep &#1588;&#1585;&#1581; SuperStep nft SuperStep gameplay, SuperStep mobile SuperStep strategy SuperStep super legend SuperStep ios SuperStep game how to start, SuperStep upgrade hero, SuperStep update, SuperStep &#1578;&#1581;&#1610;&#1579; crypto imebomb &#128542; &#1588;&#1585;&#1581; &#1575;&#1604;&#1578;&#1581;&#1583;&#1610;&#1579; &#1608; &#1605;&#1589;&#1610;&#1585; &#1575;&#1604;&#1604;&#1593;&#1576;&#1577; Bomb crypto NFT Game .&#10;Bomb crypto update | &#1575;&#1604;&#1585;&#1576;&#1581; &#1605;&#1606; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578; &#1605;&#1606;&#1575;&#1602;&#1588;&#1577; &#1570;&#1582;&#1585; &#1578;&#1581;&#1583;&#1610;&#1579; Play to earn NFT Game&#10;&#10;metabomb  game metabomb  giveaway metabomb  mobile metabomb  how to start metabomb  , strategy metabomb  gameplay metabomb  upgrade, metabomb  game &#1588;&#1585;&#1581; metabomb  gold virus, metabomb  alaadeen metabomb  roi, metabomb  to earn, metabomb  update metabomb  farm metabomb  farmer metabomb  farmers metabomb  farmers land, Sunday Games Supernova P2E | &#1575;&#1604;&#1585;&#1576;&#1581; &#1605;&#1606; &#1575;&#1604;&#1571;&#1606;&#1578;&#1585;&#1606;&#1578; &#1586;&#1585;&#1576; &#1593;&#1604;&#1610;&#1607;&#1575; &#1575;&#1604;&#1610;&#1608;&#1605;  New Free play to earn NFT Game,&#10;Free Play to earn | &#1603;&#1610;&#1601;&#1575;&#1588; &#1578;&#1585;&#1576;&#1581; 50$ &#1601;&#1606;&#1607;&#1575;&#1585; &#1576;&#1575;&#1604;&#1583;&#1604;&#1610;&#1604; Aavegotchi NFT Game &#10;&#10;play to earn simo web crypto games free to play, &#1571;&#1604;&#1593;&#1575;&#1576; &#1575;&#1604;&#1585;&#1576;&#1581; &#1575;&#1604;&#1605;&#1580;&#1575;&#1606;&#1610;&#1577; free games, nft games, &#1571;&#1604;&#1593;&#1575;&#1576; &#1603;&#1585;&#1610;&#1576;&#1578;&#1608;, &#1571;&#1604;&#1593;&#1575;&#1576; &#1575;&#1604;&#1585;&#1576;&#1581;, &#1575;&#1604;&#1585;&#1576;&#1581; &#1605;&#1606; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578;, &#1573;&#1604;&#1593;&#1576; &#1608;&#1575;&#1585;&#1576;&#1581;, &#1604;&#1593;&#1576;&#1577; crypto royale free play to earn games crypto royale &#1588;&#1585;&#1581;, crypto royale, crybto royale free games to earn, &#1571;&#1604;&#1593;&#1575;&#1576; &#1575;&#1604;&#1603;&#1585;&#1610;&#1576;&#1578;&#1608; crypto, &#1604;&#1593;&#1576; &#1575;&#1604;&#1585;&#1576;&#1581; &#1575;&#1604;&#1605;&#1580;&#1575;&#1606;&#1610;&#1577; dinobattle, &#1604;&#1593;&#1576;&#1577; &#1601;&#1575;&#1576;&#1608;&#1585; &#1605;&#1605;&#1603;&#1606; &#1578;&#1585;&#1576;&#1581; &#1605;&#1606;&#1607;&#1575; 30 &#1583;&#1585;&#1607;&#1605; &#1610;&#1608;&#1605;&#1610;&#1575;, &#1573;&#1604;&#1593;&#1576; &#1604;&#1578;&#1585;&#1576;&#1581; free game play to earn, &#1571;&#1604;&#1593;&#1575;&#1576; &#1605;&#1580;&#1575;&#1606;&#1610;&#1577; &#1604;&#1604;&#1585;&#1576;&#1581;, play to earn games, playtoearn, play2earn, best play to earn games, widiland &#1585;&#1576;&#1581; &#1575;&#1604;&#1605;&#1575;&#1604; &#1605;&#1606; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578;, nft, &#1604;&#1593;&#1576;&#1577; &#1601;&#1575;&#1576;&#1608;&#1585; &#1605;&#1605;&#1603;&#1606; &#1578;&#1585;&#1576;&#1581; &#1605;&#1606;&#1607;&#1575; 50 &#1583;&#1585;&#1607;&#1605; &#1610;&#1608;&#1605;&#1610;&#1575;, free to earn, &#1575;&#1604;&#1593;&#1575;&#1576; &#1575;&#1604;&#1585;&#1576;&#1581; &#1575;&#1604;&#1605;&#1580;&#1575;&#1606;&#1610;&#1577;, &#1575;&#1604;&#1593;&#1575;&#1576; &#1575;&#1604;&#1603;&#1585;&#1610;&#1576;&#1578;&#1608;, munokami, &#1575;&#1604;&#1593;&#1575;&#1576; &#1605;&#1580;&#1575;&#1606;&#1610;&#1577;, &#1604;&#1593;&#1576;&#1577; &#1601;&#1575;&#1576;&#1608;&#1585; &#1605;&#1605;&#1603;&#1606; &#1578;&#1585;&#1576;&#1581; &#1605;&#1606;&#1607;&#1575;, gunfire hero, &#1575;&#1604;&#1585;&#1576;&#1581;, 2021, 2022, crypto mng,&#10;---------------&#10;&#9658; Crypto Tags&#10;#SuperStep #Playtoearn #NFT #NFTgames #freeplaytoearn #NFTgames #Playtoearn #Axie #AxieInfinity #Crytocurrency #NFTCollectibles #OpenSea #Solana #Blockchain #Blockchaingames #LuranDionisio #wax #waxgames #waxp"
     channeltitle "Crypto Miner"
     channelid "UCC8_fxjmlR6ajWi-o3ynI-w"
@@ -4843,7 +4843,7 @@ graph
     commentcount 113
     duration "PT10M24S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4851,7 +4851,7 @@ graph
     label "yHvqlNgKiRA"
     step 0
     date "2022-05-06T00:31:10Z"
-    title "LOS NFT EST&#193;N QUEBRADOS Y SON BASURA"
+    title "LOS NFT ESTN QUEBRADOS Y SON BASURA"
     description "&#128204;Software y licencias originales&#10;&#10;C&#243;digo 25% descuento: WD25&#10;&#10;Windows 10 Pro OEM Key(16.5$): https://biitt.ly/KVEYh&#10;Office 2016 Pro Plus Key(27.6$): https://biitt.ly/dYqMH&#10;Office 2019 Pro Plus Key(45.8$): https://biitt.ly/rSyJd&#10;Windows 10 pro +Office 2019(60$) Pro: https://biitt.ly/GF1VX&#10;Windows 11 Pro(22$): https://biitt.ly/1VHXS&#10;Office 2021(51$): https://biitt.ly/ATC8p&#10;&#10;Redes sociales&#10;&#10;&#128308;FACEBOOK: https://goo.gl/z6S1rB&#10;&#128308;TWITTER: https://goo.gl/ZxVpFF&#10;&#128308;INSTAGRAM: https://goo.gl/6dXNJ4&#10;&#10;&#128232;Negocios/contacto: dokken0@bk.ru&#10;&#10;&#128204;Beats de fondo y producci&#243;n musical:&#10;&#10;*Krossbeats:&#10;https://youtu.be/32AbsUWh99Y&#10;*EznarBeats:&#10;https://youtu.be/WJfnINTTL-s&#10;https://youtu.be/ooECehjSs-A&#10;&#10;#WindowsDesatendidos"
     channeltitle "Windows Desatendidos"
     channelid "UCmx6Vj8pdMdZIeJHquMWH6w"
@@ -4861,7 +4861,7 @@ graph
     commentcount 1053
     duration "PT4M24S"
     indegree 26
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4869,7 +4869,7 @@ graph
     label "oWGDZVlNPUg"
     step 0
     date "2022-07-09T09:52:56Z"
-    title "PIKASTER. &#161;RECLAMA TUS 5 NFTS GRATIS Y EMPIEZA A GANAR HASTA 10$ DIARIOS!"
+    title "PIKASTER. RECLAMA TUS 5 NFTS GRATIS Y EMPIEZA A GANAR HASTA 10$ DIARIOS!"
     description "RECLAMA TUS 5 NFT GRATIS AQUI: https://marketplace.pikaster.com/invitation/index/AR6QT&#10;&#10;P&#225;gina web oficial: pikaster-metaland.com&#10;Papel blanco: https://megaverse-1.gitbook.io/pikaster/&#10;Comunidad oficial de Telegram.: https://t.me/+RVgblCS6KOk3M2I1&#10;Twitter oficial: https://twitter.com/PikasterNFT&#10;Canal oficial de Discord: https://discord.gg/jxsrBzwNPb&#10;&#10;Convi&#233;rtete en miembro de este canal para disfrutar de ventajas:&#10;https://www.youtube.com/channel/UCJ3vkb1rgneT4ySMAMxGElQ/join&#10;&#10;Coleccion NFTs You Are The Hero!&#10;https://neftyblocks.com/c/uaretheherox&#10;&#10;Si tienes dudas relacionadas con este video, en mi discord:&#10;Canal de Gameplays y Bugs:&#10;https://discord.gg/GZd5mwVkpf&#10;&#10;Crypto-Donaciones:&#10;https://1upcoin.com/donate/youtube/gameplaysybugs&#10;&#10;++++++++++++++++++++++++++++++++++++++++++++&#10;Yepa! como va?&#10;Yo soy fdeflash nacido en Barcelona y viviendo en Ibiza. Algunos meses de vida en hive. Informatico. Gamer. Y alguna cosilla mas. Me gusta descubrir, coleccionar y subir de nivel. Me gusta escribir. Y estoy fascinado con todas las novedades que voy descubriendo, coleccionando y subiendo de nivel! &#10;&#10;Me puedes encontrar en Twitter: https://twitter.com/gameplaysybugs&#10;LBRY: https://lbry.tv/$/invite/@gameplaysybugs:a&#10;Espero que estes en Rising Star: https://www.risingstargame.com?referrer=fdeflash&#10;&#10;&#9733;Sigueme en las Redes Sociales&#9733;&#10;Sigueme en YouTube: https://cb.run/bX0L&#10;Sigueme en Twitter: https://cb.run/VgLi&#10;Sigueme en Facebook: https://cb.run/J7YD&#10;Sigueme en Medium: https://cb.run/rkHe&#10;&#10;&#9733;Chrome Apps:&#9733;&#10;Airdrop: https://cb.run/NJTf&#10;Channel App: https://cb.run/piro&#10;Kuailian App: https://cb.run/AD2Q&#10;DeadPool Tab Style: https://cb.run/jsn0&#10;T-series App: https://cb.run/T4w1&#10;&#10;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++&#10;Descargo de responsabilidad legal independiente:&#10;&#10;Los comunicados de prensa, art&#237;culos patrocinados, banners o cualquier otro tipo de publicidad aqu&#237; promocionada, o en las cuentas de redes sociales de GAMEPLAYS Y BUGS, cumplen s&#243;lo fines informativos, la informaci&#243;n no constituye recomendaci&#243;n o consejo de inversi&#243;n o una oferta para invertir. El canal no es responsable de los productos y/o servicios descritos por los anunciantes.&#10;&#10;Por favor consulte a sus asesores financieros, de inversiones y fiscales profesionales antes de realizar cualquier inversi&#243;n en ofertas de monedas iniciales (&#171;ICO&#187;) u otras propuestas de inversi&#243;n. El contenido del canal GAMEPLAYS Y BUGS no ofrece asesoramiento financiero o de inversi&#243;n y no respalda ni recomienda inversiones en ninguna ICO, DAPP, propuestas de inversi&#243;n o similares anunciada en el canal y en sus redes sociales. El contenido de este sitio se proporciona s&#243;lo con fines informativos y debe complementarse con investigaci&#243;n independiente y verificaci&#243;n de hechos. &#10;&#10;Cabe resaltar que el canal no ofrece ni vende valores, ni solicita inversionistas para ofertas de valores, ni participa en negociaciones sobre inversiones potenciales, ni participa en la venta o compra de valores ni realiza transacciones de valores. Cualquier oferta, venta o compra en ICO o otras propuestas de inversi&#243;n se realiza a discreci&#243;n y se realiza directamente entre los emisores y los posibles inversionistas. Toda la informaci&#243;n proporcionada con respecto a las posibles oportunidades de inversi&#243;n de ICO o plataformas de inversi&#243;n est&#225; preparada exclusivamente por el emisor, y dicho emisor es el &#250;nico responsable de la exactitud de tales declaraciones. &#10;&#10;EL SITIO Y LOS SERVICIOS, Y TODO EL CONTENIDO, LA INFORMACI&#211;N Y LOS MATERIALES PUBLICADOS O PROPORCIONADOS POR O A TRAV&#201;S DEL SITIO O DE LOS SERVICIOS SE PROPORCIONAN &#171;TAL CUAL&#187; Y &#171;SEG&#218;N DISPONIBILIDAD&#187;, SIN GARANT&#205;A DE NING&#218;N TIPO, EXPRESA O IMPL&#205;CITA, INCLUYENDO SIN LIMITACI&#211;N, CUALQUIER GARANT&#205;A DE EXACTITUD O IDONEIDAD PARA UN PROP&#211;SITO EN PARTICULAR. AL UTILIZAR EL SITIO Y / O LOS SERVICIOS, SE COMPROMETE A UTILIZAR SU PROPIO JUICIO, PRECAUCI&#211;N Y SENTIDO COM&#218;N PARA GESTIONAR TODO EL CONTENIDO, LA INFORMACI&#211;N Y LOS MATERIALES QUE OFRECE Y ACEPTA QUE CUALQUIER USO QUE HAGA DE DICHO CONTENIDO, INFORMACI&#211;N O MATERIAL EST&#193; EN SU PROPIO RIESGO."
     channeltitle "Gameplays y Bugs"
     channelid "UCJ3vkb1rgneT4ySMAMxGElQ"
@@ -4879,7 +4879,7 @@ graph
     commentcount 76
     duration "PT21M16S"
     indegree 1
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 172
     duration "PT4M41S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -4905,7 +4905,7 @@ graph
     label "Fjdwb_nF7Gs"
     step 0
     date "2022-04-19T11:46:56Z"
-    title "NFT &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; 69 &#1084;&#1083;&#1085; $ &#1085;&#1072; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1077; &#1080;&#1079; &#1080;&#1085;&#1090;&#1077;&#1088;&#1085;&#1077;&#1090;&#1072;"
+    title "NFT "
     description "NFT &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1080; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; &#1089; &#1085;&#1091;&#1083;&#1103; &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1084;&#1091; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1091;? &#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; NFT &#1080; &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1077;&#1088;&#1099; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1102;&#1090; NFT?&#10;&#11088;&#65039; &#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1041;&#1080;&#1085;&#1072;&#1085;&#1089; https://cutt.ly/AStWlNc&#10;&#128293; &#1047;&#1072;&#1082;&#1088;&#1099;&#1090;&#1086;&#1077; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1089;&#1086;&#1086;&#1073;&#1097;&#1077;&#1089;&#1090;&#1074;&#1086; AGMI https://boshnikov.com/agmi (+100% &#1079;&#1072; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1085;&#1080;&#1081; &#1075;&#1086;&#1076;). &#1043;&#1086;&#1074;&#1086;&#1088;&#1080;&#1084;, &#1095;&#1090;&#1086; &#1080; &#1082;&#1086;&#1075;&#1076;&#1072; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1090;&#1100;/&#1087;&#1088;&#1086;&#1076;&#1072;&#1074;&#1072;&#1090;&#1100; + &#1074;&#1099;&#1076;&#1072;&#1077;&#1084; &#1074;&#1089;&#1077; &#1072;&#1083;&#1100;&#1090;&#1077;&#1088;&#1085;&#1072;&#1090;&#1080;&#1074;&#1085;&#1099;&#1077; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1099; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072;.&#10;&#9732;&#65039; &#1063;&#1072;&#1089;&#1090;&#1085;&#1099;&#1081; &#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1092;&#1086;&#1085;&#1076; https://cutt.ly/1SxfMKo  &#1087;&#1086;&#1076; 30% &#1075;&#1086;&#1076;&#1086;&#1074;&#1099;&#1093; &#1089; &#1077;&#1078;&#1077;&#1084;&#1077;&#1089;&#1103;&#1095;&#1085;&#1086;&#1081; &#1074;&#1099;&#1087;&#1083;&#1072;&#1090;&#1086;&#1081; &#1074; $&#10;&#10084;&#65039;  &#1048;&#1085;&#1076;&#1080;&#1074;&#1080;&#1076;&#1091;&#1072;&#1083;&#1100;&#1085;&#1086;&#1077; &#1086;&#1073;&#1091;&#1095;&#1077;&#1085;&#1080;&#1077; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1090;&#1088;&#1077;&#1081;&#1076;&#1080;&#1085;&#1075;&#1091; https://t.me/boshnikov (&#1087;&#1080;&#1096;&#1080;&#1090;&#1077; &#1074; &#1083;&#1080;&#1095;&#1082;&#1091; &#34;&#1054;&#1073;&#1091;&#1095;&#1077;&#1085;&#1080;&#1077; &#1087;&#1086; &#1082;&#1088;&#1080;&#1087;&#1090;&#1077;&#34;)&#10;&#127765; &#1057;&#1090;&#1072;&#1085;&#1100;&#1090;&#1077; &#1089;&#1087;&#1086;&#1085;&#1089;&#1086;&#1088;&#1086;&#1084; &#1084;&#1086;&#1077;&#1075;&#1086; &#1082;&#1072;&#1085;&#1072;&#1083;&#1072;, &#1080; &#1074;&#1099; &#1087;&#1086;&#1083;&#1091;&#1095;&#1080;&#1090;&#1077; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087; &#1082; &#1101;&#1082;&#1089;&#1082;&#1083;&#1102;&#1079;&#1080;&#1074;&#1085;&#1099;&#1084; &#1073;&#1086;&#1085;&#1091;&#1089;&#1072;&#1084;:&#10;https://cutt.ly/rJ6dPHA&#10;&#10;&#10;&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1096;&#1080;&#1089;&#1100;:&#10;https://t.me/cryptobosh - &#1082;&#1072;&#1085;&#1072;&#1083; &#1076;&#1083;&#1103; &#1074;&#1089;&#1077;&#1081; &#1080;&#1085;&#1092;&#1099;&#10;https://t.me/cryptobosh_chat - &#1095;&#1072;&#1090; &#1076;&#1083;&#1103; &#1086;&#1073;&#1097;&#1077;&#1085;&#1080;&#1103;&#10;&#10;&#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; 500$ &#1085;&#1086;&#1074;&#1080;&#1095;&#1082;&#1091; https://youtu.be/vkq2CfQeJCw&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1041;&#1080;&#1085;&#1072;&#1085;&#1089; https://youtu.be/rB-fvaryNqA&#10;&#1055;&#1086;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1100; &#1041;&#1080;&#1085;&#1072;&#1085;&#1089; https://youtu.be/lbh7Vt6T7jc&#10;&#1050;&#1072;&#1082; &#1074;&#1099;&#1074;&#1077;&#1089;&#1090;&#1080; &#1076;&#1077;&#1085;&#1100;&#1075;&#1080; &#1089; &#1041;&#1080;&#1085;&#1072;&#1085;&#1089; https://youtu.be/QPyFQEOQtgk&#10;&#10;&#10;&#1044;&#1083;&#1103; &#1091;&#1076;&#1086;&#1073;&#1089;&#1090;&#1074;&#1072;:&#10;00:00 NFT &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100;&#10;00:30 &#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT 1 &#1084;&#1083;&#1085; $&#10;01:25 &#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; NFT&#10;01:50 &#1050;&#1072;&#1082; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1090; NFT&#10;02:55 &#1050;&#1090;&#1086; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1077;&#1090; NFT&#10;03:44 &#1062;&#1077;&#1085;&#1072; NFT &#1082;&#1072;&#1082; &#1092;&#1086;&#1088;&#1084;&#1080;&#1088;&#1091;&#1077;&#1090;&#1089;&#1103;?&#10;04:44 &#1050;&#1072;&#1082; &#1095;&#1072;&#1089;&#1090;&#1086; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1102;&#1090; NFT&#10;05:00 &#1052;&#1086;&#1096;&#1077;&#1085;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1086; &#1074; NFT&#10;06:05 &#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT&#10;06:10 &#1056;&#1072;&#1079;&#1076;&#1072;&#1095;&#1080; NFT (NFT airdrops)&#10;06:55 &#1057;&#1086;&#1079;&#1076;&#1072;&#1085;&#1080;&#1077; &#1080; &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1072; NFT&#10;07:10 &#1050;&#1072;&#1082; &#1079;&#1072;&#1075;&#1088;&#1091;&#1079;&#1080;&#1090;&#1100; &#1080; &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; NFT&#10;10:10 &#1050;&#1072;&#1082; &#1087;&#1088;&#1086;&#1076;&#1074;&#1080;&#1075;&#1072;&#1090;&#1100; NFT&#10;11:03 NFT &#1080;&#1075;&#1088;&#1099;&#10;12:10 NFT &#1090;&#1088;&#1077;&#1081;&#1076;&#1080;&#1085;&#1075;&#10;12:55 &#1057;&#1090;&#1077;&#1081;&#1082;&#1080;&#1085;&#1075; NFT&#10;&#10;&#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT? &#1055;&#1086;&#1095;&#1077;&#1084;&#1091; &#1078;&#1077; NFT &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1072; &#1084;&#1086;&#1078;&#1077;&#1090; &#1089;&#1090;&#1086;&#1080;&#1090;&#1100; 0,  &#1072; &#1084;&#1086;&#1078;&#1077;&#1090; &#1080;&#1080; 69 &#1084;&#1083;&#1085;$? &#1042;&#1080;&#1079;&#1091;&#1072;&#1083;&#1100;&#1085;&#1086; &#1086;&#1085;&#1080; &#1086;&#1076;&#1080;&#1085;&#1072;&#1082;&#1086;&#1074;&#1099;&#1077;!&#10;&#10;&#1044;&#1083;&#1103; &#1101;&#1090;&#1086;&#1075;&#1086; &#1085;&#1072;&#1076;&#1086; &#1073;&#1099;&#1090;&#1100; &#1089;&#1091;&#1087;&#1077;&#1088;&#1079;&#1074;&#1077;&#1076;&#1086;&#1081; &#1089; &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1086;&#1084; &#1087;&#1086;&#1076;&#1087;&#1080;&#1089;&#1095;&#1080;&#1082;&#1086;&#1074; &#1080;&#1083;&#1080; &#1101;&#1090;&#1086; &#1084;&#1086;&#1078;&#1077;&#1090; &#1089;&#1076;&#1077;&#1083;&#1072;&#1090;&#1100; &#1076;&#1072;&#1078;&#1077; &#1096;&#1082;&#1086;&#1083;&#1100;&#1085;&#1080;&#1082;?&#10;&#1050; &#1087;&#1088;&#1080;&#1084;&#1077;&#1088;&#1091; 14-&#1083;&#1077;&#1090;&#1085;&#1103;&#1103; &#1069;&#1073;&#1080;&#1075;&#1077;&#1081;&#1083; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1083;&#1072; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1080; &#1089; &#1073;&#1077;&#1083;&#1091;&#1093;&#1072;&#1084;&#1080; &#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1083;&#1072; &#1079;&#1072; &#1076;&#1077;&#1085;&#1100; 1 &#1084;&#1083;&#1085; $.&#10;&#1040; &#1048;&#1085;&#1076;&#1086;&#1085;&#1077;&#1079;&#1080;&#1081;&#1089;&#1082;&#1080;&#1081; &#1089;&#1090;&#1091;&#1076;&#1077;&#1085;&#1090; &#1087;&#1088;&#1086;&#1076;&#1072;&#1083; &#1074;&#1086;&#1086;&#1073;&#1097;&#1077; &#1089;&#1074;&#1086;&#1080; &#1089;&#1077;&#1083;&#1092;&#1080; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077; &#1095;&#1077;&#1084; &#1079;&#1072; 1 &#1084;&#1083;&#1085;$.&#10;&#10;&#1063;&#1090;&#1086;&#1073;&#1099; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1085;&#1085;&#1072;&#1103; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1072; &#1052;&#1086;&#1085;&#1072;&#1083;&#1080;&#1079;&#1099; &#1089;&#1090;&#1086;&#1080;&#1083;&#1072; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; 800 &#1084;&#1083;&#1085;$ &#1087;&#1088;&#1086;&#1096;&#1083;&#1086; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077; 500 &#1083;&#1077;&#1090;.&#10;&#1063;&#1090;&#1086;&#1073;&#1099; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1091; &#1074; &#1080;&#1085;&#1090;&#1077;&#1088;&#1085;&#1077;&#1090;&#1077; &#1082;&#1091;&#1087;&#1080;&#1083;&#1080; &#1079;&#1072; 69 &#1084;&#1083;&#1085; &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074; &#1087;&#1088;&#1086;&#1096;&#1083;&#1086; &#1087;&#1088;&#1086;&#1096;&#1083;&#1086; &#1074;&#1089;&#1077;&#1075;&#1086; 7 &#1083;&#1077;&#1090; &#1086;&#1090; &#1084;&#1086;&#1084;&#1077;&#1085;&#1090;&#1072; &#1089;&#1086;&#1079;&#1076;&#1072;&#1085;&#1080;&#1103; &#1090;&#1077;&#1093;&#1085;&#1086;&#1083;&#1086;&#1075;&#1080;&#1080; NFT (&#1087;&#1088;&#1091;&#1074;)&#10;&#10;&#1052;&#1086;&#1078;&#1077;&#1090; &#1074;&#1089;&#1077; &#1090;&#1072;&#1082;&#1080; &#1089;&#1090;&#1086;&#1080;&#1090; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1088;&#1072;&#1079;&#1086;&#1073;&#1088;&#1072;&#1090;&#1100;&#1089;&#1103; &#1095;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; NFT &#1080; &#1087;&#1086;&#1085;&#1103;&#1090;&#1100; &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT?&#10;&#1069;&#1090;&#1086; &#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1086;&#1074;&#1072;&#1103; &#1087;&#1080;&#1088;&#1072;&#1084;&#1080;&#1076;&#1072;, &#1084;&#1099;&#1083;&#1100;&#1085;&#1099;&#1081; &#1087;&#1091;&#1079;&#1099;&#1088;&#1100; &#1080;&#1083;&#1080; &#1085;&#1086;&#1074;&#1072;&#1103; &#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1086;&#1074;&#1072;&#1103; &#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1072;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1072;&#1103; &#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1080;&#1090; &#1074;&#1072;&#1084; &#1089;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; &#1087;&#1072;&#1088;&#1091; &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1086;&#1074; &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074; &#1073;&#1086;&#1075;&#1072;&#1095;&#1077;?&#10;&#10;NFT  &#1101;&#1090;&#1086; &#1090;&#1077;&#1093;&#1085;&#1086;&#1083;&#1086;&#1075;&#1080;&#1103;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1072;&#1103; &#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1103;&#1077;&#1090; &#1087;&#1086;&#1076;&#1090;&#1074;&#1077;&#1088;&#1076;&#1080;&#1090;&#1100; &#1074;&#1083;&#1072;&#1076;&#1077;&#1085;&#1080;&#1077; &#1083;&#1102;&#1073;&#1086;&#1081; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1086;&#1081;, &#1075;&#1080;&#1092;&#1082;&#1086;&#1081;, &#1074;&#1080;&#1076;&#1077;&#1086;, &#1079;&#1074;&#1091;&#1082;&#1086;&#1084; &#1080; &#1090;&#1076;.&#10;&#1042;&#1040;&#1046;&#1053;&#1054;! &#1053;&#1077; &#1072;&#1074;&#1090;&#1086;&#1088;&#1089;&#1090;&#1074;&#1086;, &#1072; &#1080;&#1084;&#1077;&#1085;&#1085;&#1086; &#1074;&#1083;&#1072;&#1076;&#1077;&#1085;&#1080;&#1077;)&#10;&#10;&#1063;&#1090;&#1086; &#1074;&#1083;&#1080;&#1103;&#1077;&#1090; &#1085;&#1072; &#1094;&#1077;&#1085;&#1091; NFT:&#10;- &#1077;&#1089;&#1083;&#1080; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1091; &#1085;&#1072;&#1088;&#1080;&#1089;&#1086;&#1074;&#1072;&#1083; &#1082;&#1088;&#1091;&#1090;&#1086;&#1081; &#1093;&#1091;&#1076;&#1086;&#1078;&#1085;&#1080;&#1082; - &#1094;&#1077;&#1085;&#1072; &#1088;&#1072;&#1089;&#1090;&#1077;&#1090;&#10;- &#1080;&#1083;&#1080; &#1094;&#1077;&#1085;&#1072; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1090; &#1086;&#1090; &#1090;&#1086;&#1075;&#1086;, &#1082;&#1090;&#1086; &#1091;&#1078;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1083; &#1101;&#1090;&#1091; NFT &#1080;&#1083;&#1080; &#1095;&#1090;&#1086;-&#1090;&#1086; &#1080;&#1079; &#1101;&#1090;&#1086;&#1081; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1080;) &#1050; &#1087;&#1088;&#1080;&#1084;&#1077;&#1088;&#1091; &#1074;&#1086;&#1090; &#1101;&#1090;&#1091; &#1086;&#1073;&#1077;&#1079;&#1100;&#1103;&#1085;&#1082;&#1091; &#1082;&#1091;&#1087;&#1080;&#1083; &#1069;&#1084;&#1080;&#1085;&#1077;&#1084; (&#1089;&#1082;&#1088;&#1080;&#1085;) &#1080; &#1087;&#1086;&#1089;&#1090;&#1072;&#1074;&#1080;&#1083; &#1082; &#1089;&#1077;&#1073;&#1077; &#1085;&#1072; &#1072;&#1074;&#1072;&#1090;&#1072;&#1088;&#1082;&#1091;)&#10;- &#1063;&#1072;&#1089;&#1090;&#1086; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1080; &#1083;&#1080;&#1084;&#1080;&#1090;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1077; &#1080; &#1076;&#1072;&#1102;&#1090; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087; &#1082; &#1079;&#1072;&#1082;&#1088;&#1099;&#1090;&#1099;&#1084; &#1089;&#1086;&#1086;&#1073;&#1097;&#1077;&#1089;&#1090;&#1074;&#1072;&#1084;. &#1050; &#1087;&#1088;&#1080;&#1084;&#1077;&#1088;&#1091; NFT Ape Yacht Club &#1074;&#1089;&#1077;&#1075;&#1086; 10 000  &#1080; &#1086;&#1085;&#1072; &#1087;&#1086; &#1092;&#1072;&#1082;&#1090;&#1091; &#1103;&#1074;&#1083;&#1103;&#1102;&#1090;&#1089;&#1103; &#1087;&#1088;&#1086;&#1087;&#1091;&#1089;&#1082;&#1086;&#1084; &#1074; &#1079;&#1072;&#1082;&#1088;&#1099;&#1090;&#1099;&#1077; &#1090;&#1091;&#1089;&#1086;&#1074;&#1082;&#1080;) &#1045;&#1089;&#1090;&#1077;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086; &#1101;&#1090;&#1086; &#1074;&#1083;&#1080;&#1103;&#1077;&#1090; &#1085;&#1072; &#1094;&#1077;&#1085;&#1091;)&#10;- &#1077;&#1089;&#1083;&#1080; &#1074; NFT &#1079;&#1072;&#1083;&#1086;&#1078;&#1077;&#1085; &#1082;&#1072;&#1082;&#1086;&#1081;-&#1090;&#1086; &#1089;&#1084;&#1099;&#1089;&#1083; - &#1077;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1102;&#1090;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1087;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1072;&#1090;&#1100; &#1077;&#1075;&#1086;! &#1050; &#1087;&#1088;&#1080;&#1084;&#1077;&#1088;&#1091; 14-&#1083;&#1077;&#1090;&#1085;&#1103;&#1103; &#1069;&#1073;&#1080;&#1075;&#1077;&#1081;&#1083; &#1080;&#1079; &#1085;&#1072;&#1095;&#1072;&#1083;&#1072; &#1101;&#1090;&#1086;&#1075;&#1086; &#1088;&#1086;&#1083;&#1080;&#1082;&#1072; &#1086;&#1090;&#1076;&#1072;&#1083;&#1072; 200&#1082; &#1085;&#1072; &#1073;&#1083;&#1072;&#1075;&#1086;&#1090;&#1074;&#1086;&#1088;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100; &#1080; &#1087;&#1086;&#1084;&#1086;&#1097;&#1100; &#1073;&#1077;&#1083;&#1091;&#1093;&#1072;&#1084;) &#1069;&#1090;&#1086; &#1073;&#1099;&#1083;&#1072; &#1077;&#1097;&#1077; &#1086;&#1076;&#1085;&#1072; &#1087;&#1088;&#1080;&#1095;&#1080;&#1085;&#1072;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1083;&#1102;&#1076;&#1080; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1083;&#1080; &#1101;&#1090;&#1080; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1080;!&#10;&#10;&#10;Nft &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100;? 5 &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1086;&#1074;:&#10;1. &#1056;&#1072;&#1079;&#1076;&#1072;&#1095;&#1080; NFT. &#1054;&#1085;&#1080; &#1085;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102;&#1090;&#1089;&#1103; NFT airdrops. (&#1048;&#1079; &#1087;&#1088;&#1080;&#1103;&#1090;&#1085;&#1086;&#1075;&#1086; - &#1089;&#1087;&#1086;&#1089;&#1086;&#1073; &#1073;&#1077;&#1079; &#1074;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1081;!) &#1042;&#1072;&#1084; &#1087;&#1086; &#1092;&#1072;&#1082;&#1090;&#1091; &#1076;&#1072;&#1102;&#1090; NFT &#1079;&#1072; &#1089;&#1086;&#1094; &#1072;&#1082;&#1090;&#1080;&#1074;&#1085;&#1086;&#1089;&#1090;&#1100; (&#1083;&#1072;&#1081;&#1082;&#1080;, &#1088;&#1077;&#1087;&#1086;&#1089;&#1090;&#1099; &#1080; &#1090;&#1076;).&#10;&#10;2. &#1057;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; - &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; (&#1085;&#1072; opensea &#1080;&#1083;&#1080; binance)&#10;&#1045;&#1089;&#1090;&#1100; &#1084;&#1085;&#1086;&#1075;&#1086; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1087;&#1083;&#1077;&#1081;&#1089;&#1086;&#1074;, &#1075;&#1076;&#1077; &#1084;&#1086;&#1078;&#1085;&#1086; &#1079;&#1072;&#1075;&#1088;&#1091;&#1079;&#1080;&#1090;&#1100; &#1080; &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1102; NFT, &#1085;&#1086; &#1083;&#1086;&#1075;&#1080;&#1095;&#1085;&#1077;&#1081; &#1074;&#1089;&#1077;&#1075;&#1086; &#1101;&#1090;&#1086; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100; &#1085;&#1072; &#1089;&#1072;&#1084;&#1099;&#1093; &#1058;&#1054;&#1055;&#1086;&#1074;&#1099;&#1093;. &#10;&#10;3. play to earn &#1080;&#1083;&#1080; NFT &#1080;&#1075;&#1088;&#1099; - &#1080;&#1075;&#1088;&#1072;&#1077;&#1096;&#1100; &#1074; &#1080;&#1075;&#1088;&#1099; &#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1077;&#1096;&#1100; nft&#10;&#1055;&#1086;&#1084;&#1085;&#1080;&#1090;&#1077; &#1082;&#1072;&#1082; &#1088;&#1072;&#1085;&#1100;&#1096;&#1077; &#1084;&#1099; &#1080;&#1075;&#1088;&#1072;&#1083;&#1080; &#1074; &#1080;&#1075;&#1088;&#1099; &#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1083;&#1080; &#1090;&#1072;&#1084; &#1084;&#1086;&#1085;&#1077;&#1090;&#1082;&#1080;? &#1073;&#1086;&#1085;&#1091;&#1089;&#1099;? &#1060;&#1048;&#1096;&#1082;&#1080; &#1080; &#1090;.&#1076;?&#10;&#1042; NFT &#1080;&#1075;&#1088;&#1072;&#1093; &#1090;&#1086;&#1078;&#1077; &#1089;&#1072;&#1084;&#1086;&#1077;, &#1085;&#1086; &#1090;&#1077;&#1087;&#1077;&#1088;&#1100; &#1101;&#1090;&#1080; &#1084;&#1086;&#1085;&#1077;&#1090;&#1082;&#1080; &#1084;&#1086;&#1078;&#1085;&#1086; &#1087;&#1086;&#1084;&#1077;&#1085;&#1103;&#1090;&#1100; &#1085;&#1072; &#1082;&#1088;&#1080;&#1087;&#1090;&#1091; &#1080; &#1087;&#1086;&#1090;&#1086;&#1084; &#1087;&#1088;&#1080; &#1078;&#1077;&#1083;&#1072;&#1085;&#1080;&#1080; &#1086;&#1073;&#1085;&#1072;&#1083;&#1080;&#1095;&#1080;&#1090;&#1100;)&#10;&#10;4. &#1050;&#1091;&#1087;&#1080;&#1090;&#1100; &#1076;&#1077;&#1096;&#1077;&#1074;&#1083;&#1077; &#1080; &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; &#1076;&#1086;&#1088;&#1086;&#1078;&#1077; (&#1090;&#1088;&#1077;&#1081;&#1076;&#1080;&#1085;&#1075; &#1085;&#1072; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1087;&#1083;&#1077;&#1081;&#1089;&#1072;&#1093;)&#10;&#1042;&#1099;&#1073;&#1080;&#1088;&#1072;&#1077;&#1090;&#1077; &#1083;&#1102;&#1073;&#1086;&#1081; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1087;&#1083;&#1077;&#1081;&#1089; (Binance/Opensea) &#1080; &#1080;&#1079;&#1091;&#1095;&#1072;&#1077;&#1090;&#1077; &#1082;&#1072;&#1082;&#1080;&#1077; &#1078;&#1077; NFT &#1074; &#1074;&#1072;&#1096;&#1077;&#1084; &#1087;&#1086;&#1085;&#1080;&#1084;&#1072;&#1085;&#1080;&#1080; &#1087;&#1086;&#1076;&#1086;&#1088;&#1086;&#1078;&#1072;&#1102;&#1090;. &#10;&#1055;&#1086;&#1082;&#1091;&#1087;&#1072;&#1077;&#1090;&#1077; &#1080; &#1095;&#1077;&#1088;&#1077;&#1079; &#1074;&#1088;&#1077;&#1084;&#1103; &#1087;&#1088;&#1086;&#1076;&#1072;&#1077;&#1090;&#1077;. &#1040; &#1076;&#1072;&#1083;&#1100;&#1096;&#1077; &#1074;&#1089;&#1077; &#1079;&#1072;&#1074;&#1080;&#1089;&#1080;&#1090; &#1086;&#1090; &#1074;&#1072;&#1096;&#1077;&#1075;&#1086; &#1084;&#1072;&#1089;&#1090;&#1077;&#1088;&#1089;&#1090;&#1074;&#1072;)&#10;&#10;5. &#1057;&#1090;&#1077;&#1081;&#1082;&#1080;&#1085;&#1075; NFT&#10;&#10;&#1048; &#1090;&#1077;&#1087;&#1077;&#1088;&#1100; &#1079;&#1085;&#1072;&#1103; &#1089;&#1080;&#1090;&#1091;&#1072;&#1094;&#1080;&#1102; &#1080;&#1079;&#1085;&#1091;&#1090;&#1088;&#1080;, &#1086;&#1090;&#1074;&#1077;&#1090;&#1100;&#1090;&#1077; &#1085;&#1072; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;:&#10;Nft &#1101;&#1090;&#1086; &#1085;&#1086;&#1074;&#1072;&#1103; &#1092;&#1086;&#1088;&#1084;&#1072; &#1094;&#1080;&#1092;&#1088;&#1086;&#1074;&#1086;&#1075;&#1086; &#1080;&#1089;&#1082;&#1091;&#1089;&#1089;&#1090;&#1074;&#1072; &#1080;&#1083;&#1080; &#1082;&#1088;&#1091;&#1090;&#1086; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1079;&#1086;&#1074;&#1072;&#1085;&#1085;&#1072;&#1103; &#1084;&#1086;&#1096;&#1077;&#1085;&#1085;&#1080;&#1095;&#1077;&#1089;&#1082;&#1072;&#1103; &#1089;&#1093;&#1077;&#1084;&#1072;?&#10;&#10;========&#10;&#10;&#9733;&#1044;&#1086;&#1073;&#1072;&#1074;&#1083;&#1103;&#1081;&#1090;&#1077;&#1089;&#1100; &#1082;&#1086; &#1084;&#1085;&#1077; &#1074; &#1089;&#1086;&#1094; &#1089;&#1077;&#1090;&#1080;&#9733;&#10;https://t.me/cryptobosh&#10;https://instagram.com/boshnikov/&#10;&#10;#nft #nft&#1082;&#1091;&#1087;&#1080;&#1090;&#1100; #&#1085;&#1092;&#1090; #nft&#1090;&#1086;&#1082;&#1077;&#1085;"
     channeltitle "&#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1041;&#1086;&#1096;"
     channelid "UCbOU3zPJgPLduHZ1LRnNhwQ"
@@ -4915,7 +4915,7 @@ graph
     commentcount 214
     duration "PT10M41S"
     indegree 8
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -4923,7 +4923,7 @@ graph
     label "nZ6qRXFDRsg"
     step 0
     date "2022-07-07T17:23:43Z"
-    title "GANA 5$ AL D&#205;A GRATIS CON ESTE JUEGO NFT (SIN INVERTIR) | NBOX"
+    title "GANA 5$ AL DA GRATIS CON ESTE JUEGO NFT (SIN INVERTIR) | NBOX"
     description "GANA 5$ AL D&#205;A GRATIS CON ESTE JUEGO NFT (SIN INVERTIR) | NBOX&#10;&#10;&#128165;NBOX (NFT Gratuito): https://www.nbox.io/GD&#10;&#128165;NBOX (Standard): https://www.nbox.io/j0~lS&#10;&#127760;NFT World: https://nftworldnetwork.com&#10;&#128156;Todos los d&#237;as en directo a las 18:00 (hora espa&#241;ola) hablando sobre juegos NFT: https://www.twitch.tv/gonzalodorrego&#10;&#128226;&#218;nete a nuestra comunidad y ent&#233;rate de todas las noticias del mundo de los juegos NFT: https://discord.gg/KbAarHA9Jn&#10;&#128248;Perfil de Instagram: https://www.instagram.com/gonzalodorrego_&#10;&#128248;Perfil de Twitter: https://twitter.com/gonzalodorrego&#10;&#128229;Correo de Contacto: dorrego@nftworldnetwork.com&#10;&#10;Disclaimer: No soy asesor financiero, por lo que el contenido proporcionado en este canal es de car&#225;cter educativo, basado en mi propia experiencia. Invierte tu dinero de forma responsable.&#10;&#10;GANA 5$ AL D&#205;A GRATIS CON ESTE JUEGO NFT (SIN INVERTIR) | NBOX"
     channeltitle "Dorrego"
     channelid "UCspz8jBjOW1ZDP2GSq2USTA"
@@ -4933,7 +4933,7 @@ graph
     commentcount 61
     duration "PT13M14S"
     indegree 5
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 4933
     duration "PT23M12S"
     indegree 6
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4959,7 +4959,7 @@ graph
     label "qUnRTbW9YZg"
     step 0
     date "2022-04-23T14:30:08Z"
-    title "QUIERE VENDER UN NFT QUE LE COST&#211; 3 MILLONES DE D&#211;LARES Y SOLO CONSIGUE 280 - &#191;Empieza la debacle?"
+    title "QUIERE VENDER UN NFT QUE LE COSTEmpieza la debacle?"
     description "- Clip extra&#237;do de The Wild Project #132: https://youtu.be/C-Pj6t6YDO4&#10;Como cada semana, nueva tertulia en The Wild Project con las noticias m&#225;s destacadas de los &#250;ltimos d&#237;as. En este cap&#237;tulo: Se filtran unos audios privados entre Piqu&#233; y Rubiales en donde negocian la Supercopa en Arabia Saud&#237; provocando una gran pol&#233;mica, Shanghai vuelve a confinarse completamente por la gran expansi&#243;n de Covid en China, Johnny Depp y su ex-mujer Amber Heard se enfrentan en un juicio por difamaci&#243;n donde se revelan secretos, Elon Musk quiere comprar el 100% de Twitter, Tiroteo en el metro de Nueva York con casi 30 heridos, Burger King retira una campa&#241;a que ofende a los cristianos... y mucho m&#225;s. &#161;No te lo pierdas!&#10;- Participan:&#10;Albert Gil: https://twitter.com/AlbertGMyers &#10;Nate Gentile: https://www.youtube.com/c/NateGentile7&#10;&#10;Sigue The Wild Project en: &#10;&#128266; SPOTIFY: https://spoti.fi/3cA2lfy&#10;&#128266; Apple Podcast: https://apple.co/2ILx6Rf&#10;&#128266; Ivoox: https://bit.ly/3cBPxoV&#10;&#128266; Amazon Music: https://amzn.to/3gylTFG&#10;&#10;Mail para posibles invitados: invitados@jordiwild.com&#10;&#10;Realizaci&#243;n y edici&#243;n: Nacho Amela https://twitter.com/NachoAmela&#10;&#10;Mi nuevo Tik Tok, &#161;s&#237;gueme!: https://www.tiktok.com/@jordiwild&#10;Canal de YT de Jordi Wild: https://www.youtube.com/user/ElRinconDeGiorgio&#10;&#161;Wild Style marca de ropa! &#8594; https://wildstylestore.com&#10;Jordi Wild web &#8594; http://www.jordiwild.com&#10;&#10;TWITTER: &#10;https://twitter.com/JordiWild&#10;https://twitter.com/TheWildProject8 &#10;&#10;FACEBOOK: &#10;https://www.facebook.com/ElRinconDeGiorgioOficial&#10;&#10;INSTAGRAM:&#10;http://instagram.com/jordiwild8&#10;http://instagram.com/the.wildproject"
     channeltitle "The Wild Project"
     channelid "UCBYyJBCtCvgqA4NwtoPMwpQ"
@@ -4969,7 +4969,7 @@ graph
     commentcount 514
     duration "PT8M30S"
     indegree 1
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -4977,7 +4977,7 @@ graph
     label "ixNNVSoggHo"
     step 0
     date "2022-04-29T10:30:08Z"
-    title "NFT &#44144;&#54408; &#48533;&#44340;? &#51060; &#50752;&#51473;&#50640; &#45908; &#51096; &#45208;&#44032;&#45716; &#52240; NFT 3&#44032;&#51648;"
+    title "NFT "
     description "&#9654;&#47700;&#53440;&#53097;&#51592; &#50937; &#49324;&#51060;&#53944; : https://themetakongz.com&#10;&#9654;&#47700;&#53440;&#53097;&#51592; &#53944;&#50948;&#53552; : https://twitter.com/meta_kongz&#10;&#9654;&#47700;&#53440;&#53097;&#51592; &#46356;&#49828;&#53076;&#46300; : discord.gg/metakongz&#10;&#9654;&#47700;&#53440;&#53097;&#51592; &#50724;&#54536; &#52852;&#52852;&#50724;&#53665; : https://open.kakao.com/o/ga3vFvNd&#10;&#10;00:00 &#51064;&#53944;&#47196;&#10;01:14 NFT &#49884;&#51109;, &#44228;&#49549; &#49457;&#51109;&#54624; &#44144;&#46976; &#51060;&#50976;&#10;04:53 &#49457;&#44277;&#54616;&#45716; NFT &#54532;&#47196;&#51229;&#53944;&#51032; &#44277;&#53685;&#51216;&#10;08:21 &#54620;&#44397; NFT &#49457;&#44277;&#49324;&#47168; &#54364;&#48376;, &#47700;&#53440;&#53097;&#51592;&#10;&#10;#&#47700;&#53440;&#53097;&#51592; #NFT&#53804;&#51088; #BAYC #NFT"
     channeltitle "&#45804;&#46976;&#53944;&#53804;&#51088;"
     channelid "UCBM86JVoHLqg9irpR2XKvGw"
@@ -4987,7 +4987,7 @@ graph
     commentcount 42
     duration "PT13M21S"
     indegree 9
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount 47
     duration "PT8M26S"
     indegree 1
-    cluster 6
+    cluster 8
   ]
   node
   [
@@ -5013,7 +5013,7 @@ graph
     label "8LJQY_sjgd8"
     step 0
     date "2022-01-06T23:29:44Z"
-    title "MY DAD GAVE ME $1000 TO TRADE NFTs FOR HIM &#129297; #nft #nfts #crypto #crytocurrency #solana #ethereum"
+    title "MY DAD GAVE ME $1000 TO TRADE NFTs FOR HIM #nft #nfts #crypto #crytocurrency #solana #ethereum"
     description "MY DAD GAVE ME $1000 TO TRADE NFTs FOR HIM &#129297;&#10;&#10;Are You Ready To Become A NFT-Millionaire? How to start making money with NFTs &#128073; https://bit.ly/MakeMoneyWithNFTs &#10;&#10;I Want To Start Making Money Online But Don't Know How And Where To Start Make Perpetual Income Every Month! Click here &#128073; https://bit.ly/MooneyMaker&#10;&#10;Create Automatic Income For Life Immediately! Trading Crypto 5&#11088;&#65039; Start 7 Day Free Trial Now! &#128073; https://bit.ly/CryptoTrandingPassiveIncome&#10;&#10;Claim Your Free PayPal $1,000 https://bit.ly/Free1000PayPal&#10;&#10;MY DAD GAVE ME $1000 TO TRADE NFTs FOR HIM  P2 &#129297; https://youtube.com/shorts/t5UM4ZarHqM?feature=share&#10;&#10;E-Commerce | Crypto | NFT | Finance | Entrepreneurship&#10;&#10;#makemoneyonline #makemoney #money #bitcoin #makemoneyfromhome #forex #entrepreneur #workfromhome #success #affiliatemarketing #investment #makemoneyfast #business #cryptocurrency #shorts #dropshipping #serviceshipping #sidehustle #nft #nfts #nftartwork #passiveincome #crypto #youtube #eth"
     channeltitle "&#5616;OO&#5198;EY &#5616;&#5609;KE&#5511;"
     channelid "UC9kIHrqMmOqUt0UndoVyPZA"
@@ -5023,7 +5023,7 @@ graph
     commentcount 2293
     duration "PT1M"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 2133
     duration "PT27S"
     indegree 1
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5049,7 +5049,7 @@ graph
     label "kVQm81w0JbU"
     step 0
     date "2022-02-22T17:25:40Z"
-    title "Wenn Influencer f&#252;r Scam werben - Rezos Meinung zu NFT &#38;amp; Crypto"
+    title "Wenn Influencer f Crypto"
     description "&#9658; SP/RK SHOP: https://sprk.store/&#10;&#10;Rezos Meinung zu NFT &#38; Crypto, Montana Black und Unge teilt er im Livestream hier als Highlight f&#252;r euch mit. Influencer die f&#252;r Scam werben sind keine Seltenheit mehr, gerade in Amerika.&#10;&#10;Zu meinen nicen Displates kommt ihr &#252;ber diesen Link&#10;https://displate.com/rezo_?art=6193c7ff8385e &#7490;&#7473;&#7487;&#7470;&#7489;&#7482;&#7475;&#10;&#10;&#9658; PODCAST von Ju und Rezo: https://open.spotify.com/show/6UUIXmp1V0fK4ZpK7vzAbQ&#10;&#10;&#9658; FOLGT MIR&#10;Twitch: https://www.twitch.tv/rezo&#10;Tik Tok: Rezo&#10;Instagram: http://instagram.com/rezo&#8203;&#10;Twitter: https://twitter.com/rezomusik&#10;Anderer Kanal: https://www.youtube.com/channel/UCvU1c8D5n1Rue3NFRu0pJSw"
     channeltitle "Renzo"
     channelid "UCXup1ITuwbY5r_Gn2K2_TXA"
@@ -5059,7 +5059,7 @@ graph
     commentcount 1602
     duration "PT24M24S"
     indegree 2
-    cluster 2
+    cluster 14
   ]
   node
   [
@@ -5067,7 +5067,7 @@ graph
     label "AZCTcYejROM"
     step 0
     date "2022-04-07T16:20:34Z"
-    title "5 Errores Que Cometes Con Tus NFT - Por Esto No Vendes Ninguno! [Asesor&#237;a Cripto NFT]"
+    title "5 Errores Que Cometes Con Tus NFT - Por Esto No Vendes Ninguno! [Asesora Cripto NFT]"
     description "&#128204;Estos son los 5 Errores m&#225;s comunes que cometes y hacen que no vendas tus #NFT ni tu colecci&#243;n. Asesor&#237;a gratuita #blockchain #Cripto, enfocado en los NFTs.&#10;&#10;Aumenta tus ventas y sigue las estrategias de Marketing adecuadas para garantizarte el &#233;xito en la venta de tu Colecci&#243;n o NFT que has creado!&#10;&#10;&#128204;Si te suscribes te enterar&#225;s de los mejores juegos playtoearn del mundo nft ahora! Juegos en binance Solana y juegos nuevos de otras redes!&#10;&#10;&#128640;MIS REDES SOCIALES&#128640;&#10;&#9989;Discord:&#10140; https://discord.gg/wHv2wVHQ3D&#10;&#9989;Contacto Negocios:&#10140; NFTCryptoYT@gmail.com&#10;&#9989;Twitter:&#10140; https://twitter.com/NFT_TUBE&#10;&#9989;Grupo Telegram:&#10140; https://t.me/+NctLyrN26jBlY2E8&#10;&#10;&#128994;SUSCR&#205;BETE para saber m&#225;s y ganar dinero con los NFT, el nuevo mercado en tendencia al alza de valores digitales e inversiones.&#10;&#10;**DISCLAMER**&#10;Toda la informaci&#243;n de mis videos no son para nada consejos de inversi&#243;n, no soy ning&#250;n asesor financiero y son solo opiniones personales y &#233;xitos que comparto personales. Todos los videos tienen fines Educativos y de entretenimiento. Cada uno es responsable de lo que hace con su dinero y d&#243;nde lo invierte. Recomiendo estudiar los proyectos por uno mismo y pensar bien antes de invertir."
     channeltitle "NFT Tube"
     channelid "UCNf13iT4QwdEPLGUL_PW31A"
@@ -5077,7 +5077,7 @@ graph
     commentcount 129
     duration "PT16M39S"
     indegree 3
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 387
     duration "PT18M28S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5103,7 +5103,7 @@ graph
     label "2vNNPC5cra8"
     step 0
     date "2021-06-08T08:07:35Z"
-    title "&#1050;&#1040;&#1050;&#1042;&#1054; &#1045; NFT? (Non-fungible token) &#1080; &#1082;&#1072;&#1082; &#1093;&#1086;&#1088;&#1072;&#1090;&#1072; &#1087;&#1088;&#1072;&#1074;&#1103;&#1090; &#1052;&#1048;&#1051;&#1048;&#1054;&#1053;&#1048;"
+    title ""
     description "&#9989; &#1048;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1088;&#1072;&#1081; &#1089; &#1045;&#1090;&#1086;&#1088;&#1086;:&#10;https://med.etoro.com/B15707_A93574_TClick.aspx&#10;&#10;&#1047;&#1076;&#1088;&#1072;&#1074;&#1077;&#1081;&#1090;&#1077;!&#10;&#1042; &#1090;&#1086;&#1079;&#1080; &#1082;&#1083;&#1080;&#1087; &#1097;&#1077; &#1087;&#1086;&#1075;&#1086;&#1074;&#1086;&#1088;&#1080;&#1084; &#1079;&#1072; NFT-&#1090;&#1072; - &#1082;&#1072;&#1082;&#1074;&#1086; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1074;&#1072;&#1090; &#1090;&#1077; &#1080; &#1082;&#1072;&#1082; &#1085;&#1103;&#1082;&#1086;&#1080; &#1093;&#1086;&#1088;&#1072; &#1087;&#1077;&#1095;&#1077;&#1083;&#1103;&#1090; &#1084;&#1080;&#1083;&#1080;&#1086;&#1085;&#1080; &#1087;&#1088;&#1086;&#1076;&#1072;&#1074;&#1072;&#1081;&#1082;&#1080; NFT.&#10;&#1065;&#1077; &#1088;&#1072;&#1079;&#1075;&#1083;&#1077;&#1076;&#1072;&#1084;&#1077; &#1080; &#1088;&#1077;&#1072;&#1083;&#1085;&#1080; &#1087;&#1088;&#1080;&#1084;&#1077;&#1088;&#1080; &#1074; &#1077;&#1076;&#1080;&#1085; &#1086;&#1090; &#1085;&#1072;&#1081;-&#1080;&#1079;&#1074;&#1077;&#1089;&#1090;&#1085;&#1080;&#1090;&#1077; &#1089;&#1072;&#1081;&#1090;&#1086;&#1074;&#1077; &#1079;&#1072; &#1082;&#1091;&#1087;&#1091;&#1074;&#1072;&#1085;&#1077; &#1080; &#1087;&#1088;&#1086;&#1076;&#1072;&#1074;&#1072;&#1085;&#1077; &#1085;&#1072; NFT - OpenSea.io&#10;&#10;&#1040;&#1082;&#1086; &#1082;&#1083;&#1080;&#1087;&#1098;&#1090; &#1074;&#1080; &#1077; &#1093;&#1072;&#1088;&#1077;&#1089;&#1072;&#1083;, &#1085;&#1077; &#1079;&#1072;&#1073;&#1088;&#1072;&#1074;&#1103;&#1081;&#1090;&#1077; &#1076;&#1072; &#1094;&#1098;&#1082;&#1085;&#1077;&#1090;&#1077; &#1073;&#1091;&#1090;&#1086;&#1085;&#1072; &#34;&#1061;&#1072;&#1088;&#1077;&#1089;&#1074;&#1072; &#1084;&#1080;&#34; &#1080; &#1076;&#1072; &#1089;&#1077; &#1040;&#1073;&#1086;&#1085;&#1080;&#1088;&#1072;&#1090;&#1077; &#1079;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083;&#1072;.&#10;&#1044;&#1086; &#1089;&#1082;&#1086;&#1088;&#1086; :)&#10;&#10;#&#1087;&#1072;&#1088;&#1080; #&#1086;&#1085;&#1083;&#1072;&#1081;&#1085;&#1073;&#1080;&#1079;&#1085;&#1077;&#1089; #&#1076;&#1086;&#1093;&#1086;&#1076;&#1080; #&#1080;&#1085;&#1090;&#1077;&#1088;&#1085;&#1077;&#1090; #nft"
     channeltitle "Victor Gorinov"
     channelid "UCLl0lQydeVyeI8aJhmPge-A"
@@ -5113,7 +5113,7 @@ graph
     commentcount 62
     duration "PT14M58S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 14
     duration "PT14M1S"
     indegree 1
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 296
     duration "PT8M57S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 1009
     duration "PT18M39S"
     indegree 6
-    cluster 2
+    cluster 14
   ]
   node
   [
@@ -5175,7 +5175,7 @@ graph
     label "qg-vDtvfuQ8"
     step 0
     date "2022-02-12T15:14:58Z"
-    title "&#1058;&#1025;&#1052;&#1053;&#1040;&#1071; &#1057;&#1058;&#1054;&#1056;&#1054;&#1053;&#1040; NFT"
+    title " NFT"
     description "&#128073; &#1041;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1099;&#1081; &#1082;&#1091;&#1088;&#1089; &#1087;&#1086; &#1086;&#1089;&#1085;&#1086;&#1074;&#1072;&#1084; &#1083;&#1102;&#1073;&#1086;&#1075;&#1086; &#1087;&#1088;&#1077;&#1076;&#1084;&#1077;&#1090;&#1072; &#1086;&#1090; &#1086;&#1085;&#1083;&#1072;&#1081;&#1085;-&#1096;&#1082;&#1086;&#1083;&#1099; &#1059;&#1084;&#1089;&#1082;&#1091;&#1083;: https://bit.ly/3sAOgYc &#10;&#128073; &#1041;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1099;&#1077; &#1074;&#1077;&#1073;&#1080;&#1085;&#1072;&#1088;&#1099; &#1087;&#1086; &#1074;&#1089;&#1077;&#1084; &#1087;&#1088;&#1077;&#1076;&#1084;&#1077;&#1090;&#1072;&#1084;: https://ndlr.cc/huGgl6pI7&#10;----&#10;&#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084;: https://t.me/sndkgram&#10;&#1042;&#1050;: https://vk.com/sndk_tv&#10;&#1058;&#1074;&#1080;&#1090;&#1090;&#1077;&#1088;: https://twitter.com/sienduk&#10;&#1048;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084;: https://instagram.com/sndk_tv&#10;&#10;&#1040;&#1074;&#1090;&#1086;&#1088;, &#1075;&#1083;&#1072;&#1074;&#1085;&#1099;&#1081; &#1088;&#1077;&#1076;&#1072;&#1082;&#1090;&#1086;&#1088;: &#1044;&#1080;&#1084;&#1072; &#1057;&#1099;&#1077;&#1085;&#1076;&#1091;&#1082;&#10;&#1058;&#1077;&#1082;&#1089;&#1090;: &#1040;&#1088;&#1090;&#1105;&#1084; &#1053;&#1077;&#1095;&#1072;&#1077;&#1074;, &#1044;&#1080;&#1084;&#1072; &#1057;&#1099;&#1077;&#1085;&#1076;&#1091;&#1082;&#10;&#1055;&#1088;&#1086;&#1076;&#1102;&#1089;&#1077;&#1088;: &#1045;&#1075;&#1086;&#1088; &#1051;&#1086;&#1089;&#1082;&#1091;&#1090;&#1086;&#1074;&#10;&#1048;&#1089;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1081; &#1087;&#1088;&#1086;&#1076;&#1102;&#1089;&#1077;&#1088;: &#1040;&#1085;&#1103; &#1059;&#1089;&#1090;&#1102;&#1078;&#1072;&#1085;&#1080;&#1085;&#1086;&#1074;&#1072;&#10;&#1052;&#1086;&#1085;&#1090;&#1072;&#1078;: &#1043;&#1088;&#1080;&#1075;&#1086;&#1088;&#1080;&#1081; &#1043;&#1077;&#1092;&#1072;&#1083;&#1100;&#1096;&#1090;, &#1040;&#1083;&#1077;&#1082;&#1089;&#1072;&#1085;&#1076;&#1088; T3renz, &#1052;&#1072;&#1082;&#1089;&#1080;&#1084; &#1040;&#1082;&#1089;&#1105;&#1085;&#1086;&#1074;"
     channeltitle "sndk"
     channelid "UC-b89a0Fw6pNoP-g-_qLeiw"
@@ -5185,7 +5185,7 @@ graph
     commentcount 4497
     duration "PT18M"
     indegree 13
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -5193,7 +5193,7 @@ graph
     label "M7ZR9fhR6c8"
     step 0
     date "2022-02-11T11:14:40Z"
-    title "&#1603;&#1610;&#1601; &#1578;&#1589;&#1606;&#1593; NFT &#1605;&#1580;&#1575;&#1606;&#1575; &#1576;&#1583;&#1608;&#1606; &#1576;&#1585;&#1605;&#1580;&#1577; &#1608; &#1576;&#1583;&#1608;&#1606; &#1582;&#1576;&#1585;&#1577;  &#1608; &#1593;&#1585;&#1590;&#1607;&#1575; &#1604;&#1604;&#1576;&#1610;&#1593; &#1576;&#1600; &#1575;&#1604;&#1575;&#1601; &#1575;&#1604;&#1583;&#1608;&#1604;&#1575;&#1585;&#1575;&#1578; &#129297;&#129297;"
+    title ""
     description "#NFT #Binance #bybit&#10;&#1603;&#1610;&#1601;&#1610;&#1577; &#1589;&#1606;&#1593; 10,000 NFT &#1605;&#1580;&#1575;&#1606;&#1575; &#1576;&#1583;&#1608;&#1606; &#1576;&#1585;&#1605;&#1580;&#1577; &#1608; &#1576;&#1583;&#1608;&#1606; &#1582;&#1576;&#1585;&#1577;  &#1608; &#1593;&#1585;&#1590;&#1607;&#1575; &#1604;&#1604;&#1576;&#1610;&#1593; &#1576;&#1600; &#1575;&#1604;&#1575;&#1601; &#1575;&#1604;&#1583;&#1608;&#1604;&#1575;&#1585;&#1575;&#1578; &#129297;&#129297;&#10;&#1604;&#1588;&#1585;&#1575;&#1569; &#1571;&#1608;&#1604; NFT &#1582;&#1575;&#1589; &#1576;&#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#1605;&#1606; &#1582;&#1604;&#1575;&#1604; &#1575;&#1604;&#1585;&#1575;&#1576;&#1591; &#1575;&#1604;&#1578;&#1575;&#1604;&#1610; : &#10;https://opensea.io/collection/drcryptonft&#10;&#1593;&#1606;&#1583; &#1588;&#1585;&#1575;&#1569;&#1603; &#1575;&#1604;&#1600; NFT &#1587;&#1578;&#1589;&#1576;&#1581; &#1605;&#1606;&#1578;&#1587;&#1576; &#1583;&#1575;&#1574;&#1605; &#1601;&#1610; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#10;&#1608; &#1587;&#1610;&#1578;&#1605; &#1578;&#1602;&#1583;&#1610;&#1605; &#1580;&#1605;&#1610;&#1593; &#1605;&#1586;&#1575;&#1610;&#1575; &#1575;&#1604;&#1605;&#1606;&#1578;&#1587;&#1576;&#1610;&#1606; &#1604;&#1603;&#10;1- &#1605;&#1580;&#1605;&#1608;&#1593;&#1577; &#1582;&#1575;&#1589;&#1577; &#1593;&#1604;&#1609; &#1575;&#1604;&#1578;&#1604;&#1580;&#1585;&#1575;&#1605;&#10;2- &#1580;&#1583;&#1610;&#1583; &#1575;&#1604;&#1605;&#1588;&#1575;&#1585;&#1610;&#1593; &#1575;&#1604;&#1578;&#1610; &#1610;&#1578;&#1605; &#1591;&#1585;&#1581;&#1607;&#1575;&#10;3- &#1605;&#1588;&#1575;&#1585;&#1603;&#1575;&#1578; &#1582;&#1575;&#1589;&#1577; &#1608; &#1605;&#1603;&#1575;&#1604;&#1605;&#1575;&#1578; &#1580;&#1605;&#1575;&#1593;&#1610;&#1577; &#1605;&#1587;&#1578;&#1605;&#1585;&#1577; &#10;4- &#1578;&#1581;&#1583;&#1610;&#1579;&#1575;&#1578; &#1575;&#1593;&#1583;&#1575;&#1583;&#1575;&#1578; &#1576;&#1608;&#1578;&#1575;&#1578; &#1575;&#1604;&#1578;&#1583;&#1575;&#1608;&#1604; &#1575;&#1604;&#1582;&#1575;&#1589;&#1577; &#1576;&#1610; &#10;5- &#1605;&#1605;&#1610;&#1586;&#1575;&#1578; &#1575;&#1582;&#1585;&#1609; &#1587;&#1610;&#1578;&#1605; &#1575;&#1590;&#1575;&#1601;&#1578;&#1607;&#1575; &#1601;&#1610; &#1575;&#1604;&#1605;&#1587;&#1578;&#1602;&#1576;&#1604; &#10;&#10;00:00 : &#1575;&#1604;&#1605;&#1602;&#1583;&#1605;&#1577; &#10;03:18 : &#1588;&#1585;&#1581; &#1578;&#1589;&#1605;&#1610;&#1605; &#1575;&#1604;&#1600; NFT&#10;08:48 : &#1605;&#1606;&#1589;&#1577; Bybit &#10;09:53 : &#1588;&#1585;&#1581; &#1605;&#1608;&#1602;&#1593; &#1589;&#1606;&#1593; &#1575;&#1604;&#1600; NFT&#10;17:00 : &#1603;&#1610;&#1601;&#1610;&#1577; &#1576;&#1610;&#1593; &#1575;&#1604; NFT &#10;&#10;&#1605;&#1608;&#1575;&#1602;&#1593; &#1575;&#1604;&#1588;&#1585;&#1581; : &#10;1- &#1605;&#1608;&#1602;&#1593; &#1575;&#1606;&#1588;&#1575;&#1569; &#1575;&#1604; NFT: &#10;https://www.raremints.club/&#10;2- &#1605;&#1608;&#1602;&#1593; &#1593;&#1585;&#1590; &#1575;&#1604; NFT &#1604;&#1604;&#1576;&#1610;&#1593; : &#10;https://opensea.io/&#10;&#10;&#1571;&#1606;&#1588;&#1574; &#1581;&#1587;&#1575;&#1576;&#1603; &#1601;&#1610; &#1605;&#1606;&#1589;&#1577; Bybit &#1605;&#1606; &#1607;&#1606;&#1575; : &#10;https://partner.bybit.com/b/DrCrypto&#10;&#10;&#9989; &#1605;&#1606; &#1571;&#1601;&#1590;&#1604; &#1575;&#1604;&#1605;&#1606;&#1589;&#1575;&#1578; &#1601;&#1610; &#1587;&#1606;&#1577; 2021&#10;&#9989; &#1571;&#1601;&#1590;&#1604; &#1605;&#1606;&#1589;&#1577; &#1605;&#1606; &#1581;&#1610;&#1579; &#1585;&#1587;&#1608;&#1605; &#1575;&#1604;&#1578;&#1583;&#1575;&#1608;&#1604;&#10;&#9989; &#1575;&#1604;&#1581;&#1589;&#1608;&#1604; &#1593;&#1604;&#1609; &#1605;&#1575; &#1610;&#1589;&#1604; &#1575;&#1604;&#1609; 600$ &#1607;&#1583;&#1610;&#1577; &#1575;&#1604;&#1578;&#1587;&#1580;&#1610;&#1604; &#10;&#10;&#1604;&#1604;&#1578;&#1587;&#1580;&#1610;&#1604; &#1601;&#1610; &#1605;&#1606;&#1589;&#1577; binance &#1608; &#1575;&#1604;&#1581;&#1589;&#1608;&#1604; &#1593;&#1604;&#1609; &#1582;&#1589;&#1605; 20% &#1605;&#1606; &#1585;&#1587;&#1608;&#1605; &#1575;&#1604;&#1605;&#1593;&#1575;&#1605;&#1604;&#1575;&#1578; : &#10;https://www.binance.com/en/register?ref=139769330&#10;&#1610;&#1605;&#1603;&#1606;&#1603; &#1583;&#1593;&#1605;&#1610; &#1605;&#1606; &#1582;&#1604;&#1575;&#1604; &#1575;&#1604;&#1573;&#1606;&#1578;&#1587;&#1575;&#1576; &#1575;&#1604;&#1609; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577; : &#10;https://www.youtube.com/channel/UCI563EEQt98lUs6TO7d2fBw/join&#10;&#10;&#1585;&#1575;&#1576;&#1591; &#1575;&#1604;&#1583;&#1608;&#1606;&#1610;&#1588;&#1606; : &#10;https://streamlabs.com/%D8%AA%D8%B9%D8%AF%D9%8A%D9%86%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9&#10;&#10;&#1571;&#1608; &#1593;&#1606; &#1591;&#1585;&#1610;&#1602; &#1576;&#1575;&#1578;&#1585;&#1610;&#1608;&#1606; : &#10;https://www.patreon.com/Drcrypto?fan_landing=true&#10;&#10;&#1604;&#1604;&#1583;&#1593;&#1605; &#1575;&#1604;&#1605;&#1575;&#1583;&#1610; &#1604;&#1578;&#1591;&#1608;&#1610;&#1585; &#1575;&#1604;&#1605;&#1581;&#1578;&#1608;&#1609; &#1593;&#1576;&#1585; &#1575;&#1604;&#1593;&#1605;&#1604;&#1575;&#1578; &#1575;&#1604;&#1585;&#1602;&#1605;&#1610;&#1577; !&#10;usdt trc20: &#10;TJfWbmijyet2fptFTx4kpcjKtgVoQ2vy22&#10;Bitcoin : &#10;bc1qxf2s77wg6s0m8tst5mud60jx9qu26xpp26pyxq&#10;Tron (TRX)&#10;TJfWbmijyet2fptFTx4kpcjKtgVoQ2vy22&#10;&#10;&#1588;&#1576;&#1603;&#1575;&#1578; &#1575;&#1604;&#1578;&#1608;&#1575;&#1589;&#1604; &#1575;&#1604;&#1575;&#1580;&#1578;&#1605;&#1575;&#1593;&#1610; : &#10;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1578;&#1610;&#1603; &#1578;&#1608;&#1603; : https://www.tiktok.com/@drcryptotiktok&#10;&#1605;&#1580;&#1605;&#1608;&#1593;&#1577; &#1575;&#1604;&#1578;&#1610;&#1604;&#1580;&#1585;&#1575;&#1605; : https://t.me/joinchat/RiDWwVCizQEyYjY0&#10;&#1604;&#1604;&#1573;&#1606;&#1590;&#1605;&#1575;&#1605; &#1575;&#1604;&#1609; &#1605;&#1580;&#1605;&#1608;&#1593;&#1578;&#1606;&#1575; &#1593;&#1604;&#1609; &#1601;&#1610;&#1587; &#1576;&#1608;&#1603; :  https://www.facebook.com/groups/167736361889881/?ref=share&#10;&#1581;&#1587;&#1575;&#1576; &#1575;&#1606;&#1587;&#1578;&#1575;&#1580;&#1585;&#1575;&#1605; &#1604;&#1604;&#1578;&#1608;&#1575;&#1589;&#1604; : https://www.instagram.com/drcrypto95/&#10;&#1589;&#1601;&#1581;&#1577; &#1575;&#1604;&#1601;&#1610;&#1587; &#1576;&#1608;&#1603; : https://www.facebook.com/DrCryptoFB/&#10;--------------------------------------------------------------------------------------------------&#10;nft,&#1603;&#1610;&#1601; &#1578;&#1589;&#1606;&#1593; nft,&#1588;&#1585;&#1581; nft,&#1603;&#1610;&#1601; &#1589;&#1606;&#1593; nft,&#1591;&#1585;&#1610;&#1602;&#1577; &#1589;&#1606;&#1593; nft,&#1575;&#1601;&#1590;&#1604; &#1605;&#1608;&#1602;&#1593; &#1605;&#1580;&#1575;&#1606;&#1610; &#1604;&#1589;&#1606;&#1593; nft,&#1603;&#1610;&#1601;&#1610;&#1577; &#1589;&#1606;&#1593; nft,&#1589;&#1606;&#1593; nft &#1576;&#1575;&#1604;&#1607;&#1575;&#1578;&#1601;,&#1603;&#1610;&#1601;&#1610;&#1577; &#1589;&#1606;&#1593; nft &#1605;&#1606; &#1575;&#1604;&#1607;&#1575;&#1578;&#1601;,&#1603;&#1610;&#1601; &#1578;&#1589;&#1606;&#1593; nft &#1576;&#1575;&#1604;&#1607;&#1575;&#1578;&#1601;,&#1603;&#1610;&#1601;&#1610;&#1577; &#1589;&#1606;&#1593; nft &#1608;&#1576;&#1610;&#1593;&#1607;&#1575;,&#1603;&#1610;&#1601;&#1610;&#1577; &#1589;&#1606;&#1593; nft &#1576;&#1575;&#1604;&#1607;&#1575;&#1578;&#1601;,&#1603;&#1610;&#1601; &#1578;&#1589;&#1606;&#1593; nft &#1605;&#1606; &#1575;&#1604;&#1607;&#1575;&#1578;&#1601;,nfts,&#1576;&#1610;&#1593; nft,&#1588;&#1585;&#1575;&#1569; nft,nft &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;,nft art,opensea,nft crypto,nft &#1605;&#1580;&#1575;&#1606;&#1610;,&#1578;&#1589;&#1605;&#1610;&#1605; nft,&#1605;&#1575;&#1607;&#1608; nft,&#1575;&#1606; &#1575;&#1601; &#1578;&#1610;,&#1583;&#1608;&#1585;&#1577; nft &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;,&#1605;&#1575;&#1607;&#1610; &#1575;&#1587;&#1578;&#1582;&#1583;&#1575;&#1605;&#1575;&#1578; nft,blockchain,&#1603;&#1610;&#1601; &#1575;&#1593;&#1605;&#1604; nft,&#1593;&#1605;&#1604; nft &#1605;&#1580;&#1575;&#1606;&#1575;,&#1576;&#1610;&#1593; &#1589;&#1608;&#1585;&#1577; nft,&#1603;&#1610;&#1601; &#1593;&#1605;&#1604; &#1589;&#1608;&#1585;&#1607; nft,&#1575;&#1604;&#1585;&#1576;&#1581; &#1605;&#1606; &#1575;&#1604;&#1575;&#1606;&#1578;&#1585;&#1606;&#1578;"
     channeltitle "Dr Crypto"
     channelid "UCI563EEQt98lUs6TO7d2fBw"
@@ -5203,7 +5203,7 @@ graph
     commentcount 231
     duration "PT22M47S"
     indegree 8
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5211,7 +5211,7 @@ graph
     label "OfvmFN0OG3k"
     step 0
     date "2022-07-06T16:14:42Z"
-    title "How does NFT copyright work? Clue, it doesn&#8217;t"
+    title "How does NFT copyright work? Clue, it doesnt"
     description "A copyright license by any other name would be just as confusing, and doubly so when it comes to NFTs.&#10;&#10;In this CryptoSnap, we try to shed some light on what happens when non-fungible tokens meet intellectual property law, so you can hopefully make some sense of the whole BAYC / Ryder Ripps saga. Good luck. &#10;&#10;Find TradingView Snaps at:&#10;https://www.tradingview.com/key-events/&#10;Don't forget to subscribe to the Daily Snaps email.&#10;&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Try TradingView: https://tradingview.com&#10;Get up to $30 in TradingView Coins for you and a friend: https://www.tradingview.com/share-your-love/&#10;Follow us on Twitter: https://twitter.com/tradingview/ &#10;Follow us on Facebook: https://www.facebook.com/tradingview&#10;&#10;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#9600;&#10;Oh, and here's that The Verge article we referenced: https://www.theverge.com/23139793/nft-crypto-copyright-ownership-primer-cornell-ic3"
     channeltitle "TradingView"
     channelid "UCfOflihrkOKDQZ_ZKtF2VfQ"
@@ -5221,7 +5221,7 @@ graph
     commentcount 4
     duration "PT9M2S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 153
     duration "PT10M40S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5247,7 +5247,7 @@ graph
     label "IjChDt_PR7A"
     step 0
     date "2022-05-10T18:18:21Z"
-    title "SNOOP DOGG&#8217;S GAME CHANGING NFT RECORD LABEL | First NFT Museum | Latest NFT News (2022)"
+    title "SNOOP DOGGS GAME CHANGING NFT RECORD LABEL | First NFT Museum | Latest NFT News (2022)"
     description "Nobody would&#8217;ve ever thought of a museum that showcases JPEGs.  But Seattle had some different plans to shock the world. NFTs are not just JPEGs, NFTs being a lifesaver in the Ukraine-Russia war proves that. Snoop Dogg&#8217;s plan to release his albums as the world's first major record label NFT is really at its peak and it seems that Snoop is taking full advantage of it. World Famous Performance sports car brand McLaren also enters the NFT market, releasing its first project. Seems like McLaren is going to smoke some dirt in the NFT world too!&#10; &#10;Weird things ranging from an NFT museum to an NFT music record label, this video has got the latest news about them. So make sure that you watch the whole video and enjoy it!&#10;&#10;If you liked what you saw, make sure you subscribe to the channel for more amazing NFT related content like these. See you next time!&#10;&#10;&#10;Timestamps:&#10;00:00-Intro&#10;00:14- NFT Museum&#10;01:46- How NFTs helping people in Ukraine&#10;03:24- Snoop Dogg and his NFT Label&#10;04:22- NFTs on wheels!&#10;05:52- Outro and Closing note"
     channeltitle "itsTHOR"
     channelid "UCeRP-sMZY6FJNmBGQcbEkDA"
@@ -5257,7 +5257,7 @@ graph
     commentcount 39
     duration "PT6M6S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 2770
     duration "PT8M3S"
     indegree 6
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5301,7 +5301,7 @@ graph
     label "SFpTM0pWJDs"
     step 0
     date "2022-02-08T19:48:17Z"
-    title "NFT. &#1339;&#1398;&#1401; &#1383; &#1415; &#1387;&#1398;&#1401;&#1400;&#1410; &#1381;&#1398; &#1378;&#1400;&#1388;&#1400;&#1408;&#1384; &#1405;&#1408;&#1377; &#1396;&#1377;&#1405;&#1387;&#1398; &#1389;&#1400;&#1405;&#1400;&#1410;&#1396;"
+    title "NFT. "
     description "&#1339;&#1398;&#1401; &#1383; NFT, &#1387;&#1398;&#1401; &#1391;&#1377;&#1402; &#1400;&#1410;&#1398;&#1387; &#1405;&#1377; &#1378;&#1387;&#1385;&#1412;&#1400;&#1397;&#1387;&#1398;&#1387;, &#1383;&#1385;&#1381;&#1408;&#1381;&#1400;&#1410;&#1396;&#1387; &#1391;&#1377;&#1396; &#1381;&#1385;&#1381;&#1408;&#1387; &#1392;&#1381;&#1407;&#1417; &#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1383; &#1377;&#1397;&#1398; &#1377;&#1399;&#1389;&#1377;&#1407;&#1400;&#1410;&#1396; &#1378;&#1388;&#1400;&#1391;&#1401;&#1381;&#1397;&#1398;&#1387; &#1406;&#1408;&#1377;&#1417; &#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1381;&#1398; &#1396;&#1377;&#1408;&#1380;&#1387;&#1391; &#1379;&#1400;&#1410;&#1396;&#1377;&#1408; &#1377;&#1399;&#1389;&#1377;&#1407;&#1400;&#1410;&#1396; NFT &#1396;&#1387;&#1403;&#1400;&#1409;&#1400;&#1406;&#1417; &#1339;&#1398;&#1401;&#1402;&#1381;&#1405; &#1391;&#1408;&#1387;&#1402;&#1407;&#1400;&#1377;&#1408;&#1386;&#1400;&#1410;&#1397;&#1385;&#1384; &#1406;&#1381;&#1408;&#1377;&#1390;&#1406;&#1381;&#1388; &#1377;&#1406;&#1381;&#1388;&#1387; &#1388;&#1377;&#1397;&#1398; &#1381;&#1408;&#1381;&#1410;&#1400;&#1410;&#1397;&#1385;&#1387;, &#1380;&#1377;&#1408;&#1393;&#1377;&#1406; &#1396;&#1381;&#1390; &#1377;&#1404;&#1381;&#1410;&#1407;&#1408;&#1377;&#1397;&#1387;&#1398; &#1392;&#1377;&#1408;&#1385;&#1377;&#1391;&#1417;&#10;&#10;&#1350;&#1377;&#1389;&#1400;&#1408;&#1380; &#1407;&#1381;&#1405;&#1377;&#1398;&#1397;&#1400;&#1410;&#1385;&#1381;&#1408;&#1384; &#1377;&#1397;&#1405; &#1385;&#1381;&#1396;&#1377;&#1397;&#1400;&#1406;&#8228; &#10;&#1339;&#1398;&#1401; &#1383; &#1330;&#1387;&#1385;&#1412;&#1400;&#1397;&#1387;&#1398;&#1384; (Bitcoin), &#1378;&#1388;&#1400;&#1412;&#1401;&#1381;&#1397;&#1398;&#1384; &#1381;&#1410; &#1400;&#1410;&#1396; &#1383; &#1377;&#1397;&#1398; &#1402;&#1381;&#1407;&#1412;&#1417; &#1348;&#1377;&#1405; &#1329; - https://youtu.be/ehcTupfMs2c &#10;&#10;#&#1330;&#1387;&#1385;&#1412;&#1400;&#1397;&#1387;&#1398; (Bitcoin ). &#1400;&#1408;&#1412;&#1377;&#1398;&#1400;&#1406; &#1383; &#1377;&#1397;&#1398; &#1411;&#1400;&#1410;&#1401;&#1387;&#1391;, &#1378;&#1400;&#1410;&#1408;&#1379;, &#1404;&#1387;&#1405;&#1391;&#1377;&#1397;&#1387;&#1398;&#1417; &#1348;&#1377;&#1405; &#1330; - https://youtu.be/QadMtrfMUvc&#10;&#10;&#1330;&#1387;&#1385;&#1412;&#1400;&#1397;&#1387;&#1398;&#1387;&#1409; (Bitcoin) &#1378;&#1377;&#1409;&#1387; &#1387;&#1398;&#1401; &#1391;&#1377;. #&#1335;&#1385;&#1381;&#1408;&#1381;&#1400;&#1410;&#1396; &#1381;&#1410; &#1377;&#1397;&#1388; &#1391;&#1408;&#1387;&#1402;&#1407;&#1400;&#1377;&#1408;&#1386;&#1400;&#1410;&#1397;&#1385;&#1398;&#1381;&#1408;&#1384; - https://youtu.be/ga88eYyhUro&#10;&#10;#NFT &#1399;&#1400;&#1410;&#1391;&#1377;&#1398;, &#1413;&#1408;&#1387;&#1398;&#1377;&#1391; &#1392;&#1377;&#1397;&#1407;&#1398;&#1387; Opensea &#1392;&#1377;&#1408;&#1385;&#1377;&#1391;&#1398; &#1383;&#1417; &#1357;&#1377; &#1383;&#1388; &#1387;&#1396; &#1383;&#1403;&#1398; &#1383; &#1377;&#1397;&#1398;&#1407;&#1381;&#1394; - https://opensea.io/kornelij"
     channeltitle "Samvel Martirosyan"
     channelid "UCWCzuFp2uaU3tFcg-FiOl8w"
@@ -5311,7 +5311,7 @@ graph
     commentcount 60
     duration "PT10M26S"
     indegree 0
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount 953
     duration "PT14M38S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 223
     duration "PT2M46S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -5355,7 +5355,7 @@ graph
     label "dFCmL1Bi5vI"
     step 0
     date "2022-02-04T10:00:31Z"
-    title "&#128178;&#50836;&#51608;&#54635;&#54620; NFT 10&#48516; &#52983;! &#44060;&#45392;&#48512;&#53552; &#48156;&#54665;&#44620;&#51648; &#51648;&#49689;&#51060;&#46993; &#48176;&#50892;&#50836;!&#128293;(&#50976;&#52884;&#46160;&#55195;,&#47700;&#53440;&#48260;&#49828;,&#53076;&#46377;,IT)"
+    title ",IT)"
     description "&#127793;&#51089;&#44256; &#49548;&#51473;&#54620; &#50277;&#45815;&#52980; NFT &#44396;&#44221;&#54616;&#44592;&#9786;&#65039;&#10;https://opensea.io/collection/ssook&#10;&#10;&#44396;&#46021;&#51088;&#50668;&#47084;&#48512;&#50864;&#50868;~~&#10;&#50504;&#45397;&#54616;&#49464;&#50836;!! &#51648;&#49689;&#51077;&#45768;&#45796;&#50500;&#50500;&#128538;&#10;&#10;&#51060;&#48264;&#50644; &#54617;&#44396;&#50676;&#51060; &#48520;&#53440;&#45716;&#10;&#54617;&#49373; &#51648;&#49689;&#51060;&#47196; &#52286;&#50500;&#50772;&#50612;&#50836;!!&#128293;&#128587;&#127995;&#8205;&#9792;&#65039;&#128293;&#10;&#10;&#50724;&#48736;&#46993; &#49436;&#47196; &#50500;&#45716; &#44144; &#49444;&#47749;&#54644;&#51452;&#44256;&#10;&#51060;&#50556;&#44592; &#45208;&#45572;&#45716;&#44152; &#51339;&#50500;&#54644;&#49436;&#9786;&#65039;&#10;&#10;&#50672;&#50528;&#54624; &#46412;&#48512;&#53552; &#52852;&#54168;&#50640; &#50505;&#50500; &#44277;&#52293;&#50640; &#50416;&#47732;&#49436; &#10;&#49436;&#47196;&#51032; &#49440;&#49373;&#45784;&#51060; &#46104;&#50612;&#51452;&#45912; &#44536; &#46412;&#47484; &#49373;&#44033;&#54616;&#47728; &#10;&#51060; &#52968;&#53584;&#52768;&#47484; &#44592;&#54925;&#54616;&#44172; &#46104;&#50632;&#50612;&#50836;! &#10;&#10;&#44536;&#47000;&#49436; &#50976;&#53132;&#54616;&#44172; &#51456;&#48708;&#54644;&#48376; '&#50976;&#52884;&#46160;&#55195;'&#10;'&#45320;&#46160; &#54624; &#46160; &#55195;&#50612;!!'&#128521;&#10;&#10;&#52395;&#48264;&#51704; &#49688;&#50629;&#51008; &#50836;&#51608; &#54635;&#54616;&#45796; &#47803;&#54644; &#46888;&#44144;&#50892;&#49436;&#10;&#51200;&#46020; &#45824; &#44288;&#49900;&#51012; &#44054;&#44256; &#51080;&#45716; 'NFT'&#47196; &#51456;&#48708;&#54644;&#48420;&#50612;&#50836;!!&#10;&#10;&#44036;&#45800;&#54616;&#44256; &#49789;&#44172; &#51096; &#49444;&#47749;&#54644;&#51452;&#45716; &#46160;&#49956;&#46384;&#46972;&#10;&#50668;&#47084; &#51116;&#48120;&#45212; &#51221;&#48372;&#46308; &#50137;&#50137; &#48176;&#50892;&#48389;&#49884;&#45796;!! &#50556;&#54840;!&#10024;&#10;&#10;&#50526;&#51004;&#47196;&#46020; &#51333;&#51333; &#46160;&#49956;&#44284; &#54632;&#44760; &#52286;&#50500;&#50732; &#53580;&#45768;&#44620;&#50836;!&#10;&#45843;&#44544;&#47196; &#44417;&#44552;&#54620; &#51452;&#51228;&#46308;! &#47566;&#51060; &#47566;&#51060; &#45224;&#44200;&#51452;&#49464;&#50836;~&#10;&#128131;&#127995;&#50976;&#52884;&#46160;&#55195;!!!!!!&#128378;&#127995;&#10;&#10;00:00 &#50976;&#52884;&#46160;&#55195; NFT &#49688;&#50629; &#49884;&#51089;!&#10;00:19 &#50277;&#51060; &#50724;&#54532;&#45789;&#128521;&#10;00:52 &#46160;&#55195;&#49956; &#46321;&#51109;!&#10;01:17 &#46020;&#45824;&#52404; NFT&#44032; &#47969;&#45768;&#44620;!!&#10;01:56 &#46160;&#55195;&#49956; &#52395; &#49324;&#46993; &#50584;&#44592;&#54644;&#51452;&#49464;&#50668;!!!&#10;02:17 NFT&#51032; &#46907;!&#10;03:00 NFT&#51032; &#44592;&#45733;&#10;04:00 &#48660;&#47197;&#52404;&#51064;&#51060;&#46976;?&#10;04:33 NFT&#51032; &#51060;&#54644;&#10;05:15 NFT&#51032; &#54876;&#50857;&#10;05:50 NFT&#50752; &#47700;&#53440;&#48260;&#49828;&#10;09:11 &#48120;&#47000;&#49328;&#50629; NFT&#10;10:17 NFT&#47484; &#49324;&#47140;&#47732;?&#10;11:10 NFT &#47564;&#46308;&#44592;&#10;&#10;&#10;#&#51648;&#49689; #&#50277;&#45815;&#52980; #&#51060;&#46160;&#55148; #NFT #&#47700;&#53440;&#48260;&#49828;&#10;&#10;Copyright &#9426; 2022 Jisook &#38; Studio Episode - All Rights Reserved."
     channeltitle "&#50277;&#45815;&#52980; | &#51648;&#49689; Jisook"
     channelid "UCASXzhQcsfJfCTzLn8RFUDw"
@@ -5365,7 +5365,7 @@ graph
     commentcount 401
     duration "PT13M51S"
     indegree 5
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -5373,7 +5373,7 @@ graph
     label "xXKmUbCMfwg"
     step 0
     date "2021-05-24T07:44:47Z"
-    title "NFT &#1090;&#1086;&#1082;&#1077;&#1085; - &#1095;&#1090;&#1086; &#1101;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084;&#1080; &#1089;&#1083;&#1086;&#1074;&#1072;&#1084;&#1080;, &#1082;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100;, &#1082;&#1091;&#1087;&#1080;&#1090;&#1100; &#1080;&#1083;&#1080; &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#1099;"
+    title "NFT "
     description "&#128293; &#1042;&#1086;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1091;&#1081;&#1089;&#1103; &#1096;&#1072;&#1085;&#1089;&#1086;&#1084; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; &#1082;&#1091;&#1088;&#1089;&#1077; &#1074;&#1072;&#1083;&#1102;&#1090; &#1080; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090; &#1047;&#1044;&#1045;&#1057;&#1068; - https://vk.cc/admA18 &#1069;&#1090;&#1086; &#1074;&#1080;&#1076;&#1077;&#1086; &#1087;&#1088;&#1086; NFT &#1090;&#1086;&#1082;&#1077;&#1085; - &#1095;&#1090;&#1086; &#1101;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084;&#1080; &#1089;&#1083;&#1086;&#1074;&#1072;&#1084;&#1080; &#1080; &#1076;&#1083;&#1103; &#1095;&#1077;&#1075;&#1086; &#1085;&#1091;&#1078;&#1085;&#1099; &#1085;&#1092;&#1090; &#1090;&#1086;&#1082;&#1077;&#1085;&#1099;. &#1044;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1077;&#1074; &#1088;&#1086;&#1083;&#1080;&#1082; &#1076;&#1086; &#1082;&#1086;&#1085;&#1094;&#1072; &#1074;&#1099; &#1090;&#1072;&#1082;&#1078;&#1077; &#1091;&#1079;&#1085;&#1072;&#1077;&#1090;&#1077;, &#1082;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; (&#1089;&#1076;&#1077;&#1083;&#1072;&#1090;&#1100;) nft &#1090;&#1086;&#1082;&#1077;&#1085;, &#1082;&#1091;&#1087;&#1080;&#1090;&#1100; &#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; nft &#1090;&#1086;&#1082;&#1077;&#1085;&#1072;&#1093;.&#10;&#10;&#1057;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1085;&#1080;&#1077;:&#10;00:00 &#1042;&#1089;&#1090;&#1091;&#1087;&#1083;&#1077;&#1085;&#1080;&#1077;&#10;00:18 NFT &#1090;&#1086;&#1082;&#1077;&#1085; - &#1095;&#1090;&#1086; &#1101;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077;&#10;02:33 &#1047;&#1072;&#1095;&#1077;&#1084; &#1085;&#1091;&#1078;&#1085;&#1099; NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#1099;&#10;03:44 &#1048;&#1089;&#1090;&#1086;&#1088;&#1080;&#1103; &#1087;&#1086;&#1103;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; NFT tokens&#10;04:49 &#1043;&#1076;&#1077; &#1080;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1091;&#1102;&#1090; NFT (&#1085;&#1077;&#1074;&#1079;&#1072;&#1080;&#1084;&#1086;&#1079;&#1072;&#1084;&#1077;&#1085;&#1103;&#1077;&#1084;&#1099;&#1081;) &#1090;&#1086;&#1082;&#1077;&#1085;&#1099;?&#10;06:56 &#1055;&#1088;&#1077;&#1076;&#1084;&#1077;&#1090;&#1099; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1086;&#1085;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1080; &#1080;&#1089;&#1082;&#1091;&#1089;&#1089;&#1090;&#1074;&#1072; &#1074; &#1074;&#1080;&#1076;&#1077; NFT&#10;08:00 &#1051;&#1091;&#1095;&#1096;&#1080;&#1077; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1080; &#1076;&#1083;&#1103; &#1082;&#1091;&#1087;&#1083;&#1080;-&#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1080; &#1090;&#1086;&#1082;&#1077;&#1085;&#1086;&#1074; NFT&#10;&#8226; Nifty Gateway &#10;&#8226; OpenSea &#10;&#8226; Rarible &#10;08:57 &#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; nft &#1090;&#1086;&#1082;&#1077;&#1085;&#1072;&#1093; &#10;10:40 &#1058;&#1086;&#1082;&#1077;&#1085;&#1099; NFT &#1074; &#1084;&#1080;&#1088;&#1077; &#1086;&#1085;&#1083;&#1072;&#1081;&#1085;-&#1080;&#1075;&#1088;&#10;11:44 &#1058;&#1086;&#1082;&#1077;&#1085;&#1099; &#1053;&#1060;&#1058; &#1074; &#1080;&#1076;&#1077;&#1085;&#1090;&#1080;&#1092;&#1080;&#1082;&#1072;&#1094;&#1080;&#1080; &#1080; &#1089;&#1077;&#1088;&#1090;&#1080;&#1092;&#1080;&#1082;&#1072;&#1094;&#1080;&#1080;&#10;12:31 &#1050;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; (&#1089;&#1076;&#1077;&#1083;&#1072;&#1090;&#1100;) NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#10;13:09 &#1047;&#1072;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1080;&#1077;&#10;&#10;&#11088;&#1051;&#1091;&#1095;&#1096;&#1080;&#1077; &#1087;&#1088;&#1077;&#1076;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1103; &#1076;&#1083;&#1103; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1083;&#1080; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; - https://clck.ru/VVpnN&#10;&#10;&#1051;&#1091;&#1095;&#1096;&#1080;&#1077; &#1073;&#1080;&#1088;&#1078;&#1080; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090; &#1076;&#1083;&#1103; &#1088;&#1072;&#1073;&#1086;&#1090;&#1099; &#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072;:&#10;&#1041;&#1080;&#1088;&#1078;&#1072; &#8470;1. Binance https://clck.ru/GnSnP&#10;&#8470;2. Poloniex&#10;&#8470;3. Huobi.com&#10;&#10;&#1051;&#1091;&#1095;&#1096;&#1080;&#1077; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1080; &#1076;&#1083;&#1103; &#1082;&#1091;&#1087;&#1083;&#1080;-&#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1080; &#1090;&#1086;&#1082;&#1077;&#1085;&#1086;&#1074; NFT:&#10;1. https://niftygateway.com/&#10;2. https://opensea.io/&#10;3. https://rarible.com/&#10;&#10;&#1048;&#1089;&#1090;&#1086;&#1095;&#1085;&#1080;&#1082; &#1074;&#1080;&#1076;&#1077;&#1086; - https://clck.ru/VVpxt&#10;&#10;&#127910; &#1056;&#1077;&#1082;&#1086;&#1084;&#1077;&#1085;&#1076;&#1091;&#1077;&#1084; &#1087;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1077;&#1090;&#1100; &#1074;&#1080;&#1076;&#1077;&#1086;:&#10;&#1050;&#1072;&#1082; &#1085;&#1072;&#1095;&#1072;&#1090;&#1100; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1072;&#1090;&#1100; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1086;&#1081; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; https://youtu.be/_dGn7ARHiDk&#10;&#1048;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1094;&#1080;&#1080; &#1074; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091; https://youtu.be/92LAqGRGDSc&#10;&#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1077; https://youtu.be/ii_AlPFAMqc&#10;&#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072;: &#1095;&#1090;&#1086; &#1101;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; https://youtu.be/WlbPzmRot2I&#10;&#1050;&#1072;&#1082; &#1082;&#1091;&#1087;&#1080;&#1090;&#1100; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091; https://youtu.be/D05oVTjqors&#10;&#1050;&#1072;&#1082; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1072;&#1090;&#1100; &#1073;&#1080;&#1090;&#1082;&#1086;&#1080;&#1085;&#1072;&#1084;&#1080; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; https://youtu.be/jN1PBZaJs10&#10;&#1054;&#1073;&#1084;&#1077;&#1085; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090; &#1086;&#1085;&#1083;&#1072;&#1081;&#1085; https://youtu.be/SF9vNHWR0Kw&#10;&#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; Web 3.0 + &#1080;&#1089;&#1090;&#1086;&#1088;&#1080;&#1103; &#1088;&#1072;&#1079;&#1074;&#1080;&#1090;&#1080;&#1103; &#1080;&#1085;&#1090;&#1077;&#1088;&#1085;&#1077;&#1090;&#1072; https://youtu.be/u9wZEcFwzIU&#10;&#10;&#1057;&#1089;&#1099;&#1083;&#1082;&#1072; &#1101;&#1090;&#1086;&#1075;&#1086; &#1074;&#1080;&#1076;&#1077;&#1086;&#1088;&#1086;&#1083;&#1080;&#1082;&#1072; - https://youtu.be/xXKmUbCMfwg&#10;&#10;&#1045;&#1089;&#1083;&#1080; &#1074;&#1072;&#1084; &#1087;&#1086;&#1085;&#1088;&#1072;&#1074;&#1080;&#1083;&#1086;&#1089;&#1100; &#1085;&#1072;&#1096;&#1077; &#1074;&#1080;&#1076;&#1077;&#1086; &#1087;&#1088;&#1086; &#1073;&#1080;&#1088;&#1078;&#1080; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090; &#8211; &#1089;&#1090;&#1072;&#1074;&#1100;&#1090;&#1077; &#1083;&#1072;&#1081;&#1082;&#1080; &#1080; &#1087;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100; &#1085;&#1072; &#1085;&#1072;&#1096; &#1082;&#1072;&#1085;&#1072;&#1083;: https://www.youtube.com/channel/UCEY5i-ElFVDNIDV05zqP7_Q&#10;&#10;&#1045;&#1089;&#1083;&#1080; &#1078;&#1077; &#1086;&#1089;&#1090;&#1072;&#1083;&#1080;&#1089;&#1100; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1099;, &#1080;&#1084;&#1077;&#1102;&#1090;&#1089;&#1103; &#1079;&#1072;&#1084;&#1077;&#1095;&#1072;&#1085;&#1080;&#1103; &#1080;&#1083;&#1080; &#1076;&#1086;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1103; &#1087;&#1086; &#1101;&#1090;&#1086;&#1081; &#1090;&#1077;&#1084;&#1077; &#8211; &#1090;&#1086; &#1087;&#1080;&#1096;&#1080;&#1090;&#1077; &#1080;&#1093; &#1074; &#1082;&#1086;&#1084;&#1084;&#1077;&#1085;&#1090;&#1072;&#1088;&#1080;&#1103;&#1093; &#1085;&#1080;&#1078;&#1077;. &#1044;&#1086; &#1085;&#1086;&#1074;&#1099;&#1093; &#1074;&#1089;&#1090;&#1088;&#1077;&#1095;!&#10;&#10;#nft&#1090;&#1086;&#1082;&#1077;&#1085; #nft&#1090;&#1086;&#1082;&#1077;&#1085;&#1095;&#1090;&#1086;&#1101;&#1090;&#1086; #nft&#1090;&#1086;&#1082;&#1077;&#1085;&#1099; #nft&#1090;&#1086;&#1082;&#1077;&#1085;&#1095;&#1090;&#1086;&#1101;&#1090;&#1086;&#1090;&#1072;&#1082;&#1086;&#1077; #nft&#1090;&#1086;&#1082;&#1077;&#1085;&#1082;&#1091;&#1087;&#1080;&#1090;&#1100; #&#1095;&#1090;&#1086;&#1090;&#1072;&#1082;&#1086;&#1077;nft&#1090;&#1086;&#1082;&#1077;&#1085; .&#10;&#10;&#128204;&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1099;:&#10;&#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084;-&#1082;&#1072;&#1085;&#1072;&#1083; &#34;&#1046;&#1072;&#1078;&#1076;&#1072;PRO&#34;: https://t.me/zhazhdapro&#8203; (@ZhazhdaPro)&#10;&#10;&#1052;&#1099; &#1042;&#1050; - https://clck.ru/TQZiF&#8203;&#10;&#1046;&#1072;&#1078;&#1076;&#1072;&#1055;&#1056;&#1054; &#1074; &#1080;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084; - https://clck.ru/TQZaP&#10;&#8203;&#10;&#1057;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1086; &#1080; &#1088;&#1077;&#1082;&#1083;&#1072;&#1084;&#1072;: marketing@richpro.ru&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1072;&#1090;&#1100;&#1089;&#1103; &#1085;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083; - https://clck.ru/GCqMB&#10;&#8203;&#10;&#1055;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1072;&#1090;&#1100; &#1082;&#1072;&#1085;&#1072;&#1083;: https://clck.ru/TQa9D"
     channeltitle "&#1046;&#1072;&#1078;&#1076;&#1072; Pro"
     channelid "UCEY5i-ElFVDNIDV05zqP7_Q"
@@ -5383,7 +5383,7 @@ graph
     commentcount 771
     duration "PT14M4S"
     indegree 18
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -5391,7 +5391,7 @@ graph
     label "bXmgTQgajKQ"
     step 0
     date "2022-01-23T10:00:14Z"
-    title "&#4320;&#4304; &#4304;&#4320;&#4312;&#4321; NFT?"
+    title " NFT?"
     description "&#4320;&#4304; &#4304;&#4320;&#4312;&#4321; NFT? - &#4327;&#4309;&#4308;&#4314;&#4304;&#4324;&#4308;&#4320;&#4312; &#4320;&#4304;&#4330; &#4323;&#4316;&#4307;&#4304; &#4312;&#4330;&#4317;&#4307;&#4308; NFT-&#4312;&#4321; &#4328;&#4308;&#4321;&#4304;&#4334;&#4308;&#4305;&#10;&#10;#NFT"
     channeltitle "Gigi Kurtanidze"
     channelid "UCx2OMmhjDprqQaV8u04kFhg"
@@ -5401,7 +5401,7 @@ graph
     commentcount 222
     duration "PT10M30S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5427,7 +5427,7 @@ graph
     label "59F0SQXOkzY"
     step 0
     date "2021-03-31T16:39:54Z"
-    title "&#1605;&#1575;&#1607;&#1608; NFT - &#1583;&#1608;&#1585;&#1577; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;"
+    title ""
     description "&#1605;&#1575;&#1607;&#1608; NFT - &#1583;&#1608;&#1585;&#1577; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#10;&#1575;&#1604;&#1588;&#1585;&#1581; &#1575;&#1604;&#1575;&#1608;&#1604; &#1605;&#1606; &#1583;&#1608;&#1585;&#1577; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1575;&#1580;&#1575;&#1576;&#1577; &#1587;&#1572;&#1575;&#1604; &#1605;&#1575;&#1607;&#1608; &#1575;&#1604;&#1600; NFT &#1567;&#10;&#1601;&#1610; &#1575;&#1604;&#1588;&#1585;&#1581; &#1587;&#1578;&#1580;&#1583; &#1588;&#1585;&#1581; &#1593;&#1606; &#1575;&#1604;&#1575;&#1610;&#1579;&#1585;&#1610;&#1608;&#1605; &#1608; &#1588;&#1585;&#1581; ERC-20 &#1608;&#1588;&#1585;&#1581; ERC-721 &#1608;&#1605;&#1575;&#1607;&#1608; &#1575;&#1604;&#1601;&#1585;&#1602; &#1576;&#1610;&#1606; ERC-20 &#1608; ERC-721 &#1608;&#1588;&#1585;&#1581; NFT &#1576;&#1588;&#1603;&#1604; &#1605;&#1576;&#1587;&#1591; &#1608;&#1605;&#1601;&#1607;&#1608;&#1605;&#10;#&#1583;&#1608;&#1585;&#1577;_NFT_&#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#10;&#10;&#1585;&#1575;&#1576;&#1591; &#1606;&#1575;&#1583;&#1610; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1593;&#1604;&#1609; &#1603;&#1604;&#1608;&#1576; &#1607;&#1575;&#1608;&#1587;: &#10;https://www.joinclubhouse.com/club/nft-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A&#10;&#10;&#1581;&#1587;&#1575;&#1576;&#1575;&#1578; Q8Three:&#10;Twitter: https://twitter.com/Q8Three&#10;Telegram: &#8203;https://t.me/ccq8three&#10;SnapChat: https://www.snapchat.com/add/q8three&#10;&#10;-------------------------------------&#10;&#10;&#1583;&#1608;&#1585;&#1577; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1607;&#1610; &#1583;&#1608;&#1585;&#1577; &#1578;&#1593;&#1604;&#1610;&#1605;&#1610;&#1577; &#1578;&#1588;&#1585;&#1581; &#1605;&#1575;&#1607;&#1608; NFT &#1576;&#1588;&#1603;&#1604; &#1578;&#1601;&#1589;&#1610;&#1604;&#1610; &#1608;&#1593;&#1605;&#1604;&#1610; &#1608;&#1578;&#1588;&#1585;&#1581; &#1575;&#1607;&#1605; &#1605;&#1605;&#1610;&#1586;&#1575;&#1578; NFT &#1608;&#1591;&#1585;&#1602; &#1575;&#1587;&#1578;&#1582;&#1583;&#1575;&#1605; &#1575;&#1604;&#1600; NFTs &#1583;&#1608;&#1585;&#1577; &#1588;&#1575;&#1605;&#1604;&#1577; &#1608;&#1603;&#1575;&#1605;&#1604;&#1577; &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1593;&#1606; NFT &#1608;&#1607;&#1610; &#1575;&#1608;&#1604; &#1583;&#1608;&#1585;&#1577; &#1593;&#1585;&#1576;&#1610;&#1577; &#1601;&#1610; &#1575;&#1604;&#1600; NFT &#1601;&#1610; &#1575;&#1604;&#1593;&#1605;&#1604;&#1575;&#1578; &#1575;&#1604;&#1585;&#1602;&#1605;&#1610;&#1577; &#1604;&#1604;&#1605;&#1576;&#1578;&#1583;&#1574;&#1610;&#1606; &#1588;&#1585;&#1581; nft &#1605;&#1575;&#1607;&#1608; nft &#1603;&#1610;&#1601; &#1578;&#1606;&#1588;&#1574; &#1608; &#1578;&#1576;&#1610;&#1593; &#1571;&#1593;&#1605;&#1575;&#1604; &#1601;&#1606;&#1610;&#1577; &#1593;&#1604;&#1609; &#1605;&#1608;&#1602;&#1593; OpenSea ( &#1588;&#1585;&#1581; NFT ) &#1588;&#1585;&#1581; OpenSea &#1576;&#1575;&#1604;&#1578;&#1601;&#1589;&#1610;&#1604; &#1575;&#1604;&#1605;&#1605;&#1604; &#1608;&#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1575;&#1604;&#1583;&#1608;&#1585;&#1577; &#1588;&#1575;&#1605;&#1604;&#1577; &#1593;&#1606; &#1580;&#1605;&#1610;&#1593; &#1605;&#1608;&#1575;&#1602;&#1593; NFT what is an nft &#1588;&#1585;&#1581; &#1605;&#1608;&#1602;&#1593; Open Sea Explained in Arabic nft &#1583;&#1608;&#1585;&#1577; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#10;&#1583;&#1608;&#1585;&#1577; &#1588;&#1575;&#1605;&#1604;&#1607; &#1608;&#1578;&#1601;&#1589;&#1610;&#1604;&#1610;&#1577; &#1604;&#1603;&#1604; &#1605;&#1575;&#1610;&#1578;&#1593;&#1604;&#1602; &#1601;&#1610; NFT &#1608;&#1591;&#1585;&#1602; &#1575;&#1587;&#1578;&#1582;&#1583;&#1575;&#1605; NFT &#1575;&#1604;&#1600; NFT &#1607;&#1608; &#1578;&#1602;&#1606;&#1610;&#1577; &#1580;&#1583;&#1610;&#1583;&#1577; &#1601;&#1610; &#1593;&#1575;&#1604;&#1605; &#1575;&#1604;&#1593;&#1605;&#1604;&#1575;&#1578; &#1575;&#1604;&#1585;&#1602;&#1605;&#1610;&#1577; 2021 2020 &#1608;&#1578;&#1593;&#1578;&#1576;&#1585; &#1579;&#1608;&#1585;&#1577; &#1602;&#1608;&#1610;&#1577; &#1601;&#1610; &#1575;&#1604;&#1576;&#1604;&#1608;&#1603;&#1588;&#1610;&#1606; &#1608; &#1575;&#1604;&#1593;&#1605;&#1604;&#1575;&#1578; &#1575;&#1604;&#1585;&#1602;&#1605;&#1610;&#1577; &#1578;&#1575;&#1576;&#1593; &#1580;&#1605;&#1610;&#1593; &#1601;&#1610;&#1583;&#1610;&#1608;&#1607;&#1575;&#1578; NFT  &#1608;&#1583;&#1608;&#1585;&#1577; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1593;&#1588;&#1575;&#1606; &#1578;&#1593;&#1585;&#1601; &#1608;&#1578;&#1578;&#1593;&#1604;&#1605; &#1575;&#1604;&#1600; NFT  &#1576;&#1588;&#1603;&#1604; &#1578;&#1601;&#1589;&#1610;&#1604;&#1610; &#1608;&#1578;&#1593;&#1585;&#1601; &#1580;&#1605;&#1610;&#1593; &#1582;&#1601;&#1575;&#1610;&#1575; &#1593;&#1575;&#1604;&#1605; NFT &#1576;&#1610;&#1593; &#1608;&#1588;&#1585;&#1575;&#1569; &#1575;&#1604;&#1578;&#1594;&#1585;&#1610;&#1583;&#1575;&#1578; &#1601;&#1610; NFT &#1576;&#1610;&#1593; &#1608;&#1588;&#1585;&#1575;&#1569; &#1575;&#1604;&#1604;&#1608;&#1581;&#1575;&#1578; &#1575;&#1604;&#1601;&#1606;&#1610;&#1577; &#1601;&#1610; NFT &#1575;&#1605;&#1578;&#1604;&#1575;&#1603; &#1575;&#1604;&#1605;&#1602;&#1578;&#1606;&#1610;&#1575;&#1578; &#1605;&#1606; &#1582;&#1604;&#1575;&#1604; NFT  &#1583;&#1608;&#1585;&#1577; NFT &#1576;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610; &#1575;&#1604;&#1605;&#1602;&#1583;&#1605;&#1577; &#1605;&#1606; Q8Three &#1607;&#1610; &#1576;&#1575;&#1576;&#1603; &#1601;&#1610; &#1593;&#1575;&#1604;&#1605; NFTs &#1608;&#1603;&#1584;&#1575;&#1604;&#1603; &#1601;&#1610; &#1575;&#1604;&#1583;&#1608;&#1585;&#1577; &#1601;&#1610; &#1606;&#1588;&#1585;&#1581; &#1605;&#1575;&#1607;&#1610; &#1593;&#1605;&#1604;&#1575;&#1578; NFT &#1608;&#1605;&#1575;&#1607;&#1610; &#1575;&#1601;&#1590;&#1604; &#1593;&#1605;&#1604;&#1575;&#1578; NFT  &#1608;&#1591;&#1585;&#1602; &#1588;&#1585;&#1575;&#1569; NFT  &#1608;&#1591;&#1585;&#1602; &#1576;&#1610;&#1593; NFT&#10;&#10;-------------------------------------&#10;&#1581;&#1587;&#1575;&#1576;&#1575;&#1578; Q8Three:&#10;Twitter: https://twitter.com/Q8Three&#10;Telegram: https://t.me/ccq8three&#8203;&#10;SnapChat: https://www.snapchat.com/add/q8three&#10;-------------------------------------&#10;&#1602;&#1606;&#1575;&#1577; &#1575;&#1604;&#1593;&#1605;&#1604;&#1575;&#1578; &#1575;&#1604;&#1585;&#1602;&#1605;&#1610;&#1577; &#1602;&#1606;&#1575;&#1577; &#1605;&#1578;&#1582;&#1589;&#1589;&#1577; &#1601;&#1610; &#1575;&#1604;&#1578;&#1593;&#1604;&#1610;&#1605;&#10;&#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#1578;&#1590;&#1605; &#1575;&#1608;&#1604; &#1583;&#1608;&#1585;&#1577; &#1601;&#1610; &#1575;&#1604;&#1593;&#1605;&#1604;&#1575;&#1578; &#1575;&#1604;&#1585;&#1602;&#1605;&#1610;&#1577;&#10;&#1583;&#1608;&#1585;&#1577; &#1603;&#1610;&#1601;&#1610;&#1577; &#1575;&#1604;&#1578;&#1583;&#1575;&#1608;&#1604; &#1601;&#1610; &#1575;&#1604;&#1593;&#1605;&#1604;&#1575;&#1578; &#1575;&#1604;&#1585;&#1602;&#1605;&#1610;&#1577;&#10;&#10;&#1604;&#1575; &#1578;&#1606;&#1587;&#1609; &#1587;&#1576;&#1587;&#1603;&#1585;&#1575;&#1610;&#1576; &#1601;&#1610; &#1575;&#1604;&#1602;&#1606;&#1575;&#1577; &#1608; &#1604;&#1575;&#1610;&#1603; &#1604;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1575;&#1584;&#1575; &#1575;&#1593;&#1580;&#1576;&#1603;. &#10;&#1608; &#1575;&#1610; &#1575;&#1587;&#1574;&#1604;&#1577; &#1575;&#1603;&#1578;&#1576;&#1607;&#1575; &#1578;&#1581;&#1578;"
     channeltitle "Q8Three - &#1594;&#1575;&#1586;&#1610;"
     channelid "UCD01M5-BkHwmbTIJaLWZDnw"
@@ -5437,7 +5437,7 @@ graph
     commentcount 231
     duration "PT11M23S"
     indegree 7
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5445,7 +5445,7 @@ graph
     label "VF6MrY4vA3Q"
     step 0
     date "2022-03-02T16:30:06Z"
-    title "Ibai sobre los NFTs y por qu&#233; rechaz&#243; una millonaria oferta para promocionarlos"
+    title "Ibai sobre los NFTs y por qu una millonaria oferta para promocionarlos"
     description "- Clip extra&#237;do de The Wild Project #119 ft Ibai Llanos: https://youtu.be/98HuPRn2G9U&#10;Ibai Llanos visita a Jordi Wild para una tertulia muy especial en la que, juntos y revueltos, comentar&#225;n las noticias y los temas m&#225;s interesantes de la semana. Por supuesto, la guerra de Ucrania ocupar&#225; una parte importante, pero tambi&#233;n otros temas como la pol&#233;mica con la entrevista en televisi&#243;n al asesino de una chica delante de su madre, La modelo rusa que despu&#233;s de varias operaciones est&#233;ticas no puede ni mover la cara, xQc rechaza MUCHO dinero por ir en contra de los NFTs, Gigi Becali se convierte en &#237;dolo mundial... y mucho m&#225;s. &#161;No te lo pierdas!&#10;Canal Ibai Llanos: https://www.youtube.com/channel/UCaY_-ksFSQtTGk0y1HA_3YQ&#10;&#10;Sigue The Wild Project en: &#10;&#128266; SPOTIFY: https://spoti.fi/3cA2lfy&#10;&#128266; Apple Podcast: https://apple.co/2ILx6Rf&#10;&#128266; Ivoox: https://bit.ly/3cBPxoV&#10;&#128266; Amazon Music: https://amzn.to/3gylTFG&#10;&#10;Mail para posibles invitados: invitados@jordiwild.com&#10;&#10;Realizaci&#243;n y edici&#243;n: Nacho Amela https://twitter.com/NachoAmela&#10;&#10;Mi nuevo Tik Tok, &#161;s&#237;gueme!: https://www.tiktok.com/@jordiwild&#10;Canal de YT de Jordi Wild: https://www.youtube.com/user/ElRinconDeGiorgio&#10;&#161;Wild Style marca de ropa! &#8594; https://wildstylestore.com&#10;Jordi Wild web &#8594; http://www.jordiwild.com&#10;&#10;TWITTER: &#10;https://twitter.com/JordiWild&#10;https://twitter.com/TheWildProject8 &#10;&#10;FACEBOOK: &#10;https://www.facebook.com/ElRinconDeGiorgioOficial&#10;&#10;INSTAGRAM:&#10;http://instagram.com/jordiwild8&#10;http://instagram.com/the.wildproject"
     channeltitle "The Wild Project"
     channelid "UCBYyJBCtCvgqA4NwtoPMwpQ"
@@ -5455,7 +5455,7 @@ graph
     commentcount 1140
     duration "PT14M41S"
     indegree 6
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5463,7 +5463,7 @@ graph
     label "XCMIMzs_i2M"
     step 0
     date "2022-01-16T18:59:05Z"
-    title "Wst&#281;p do NFT"
+    title "Wstp do NFT"
     description "O co chodzi z ma&#322;pami, misiami i innymi niewymienialnymi tokenami?&#10;https://www.instagram.com/kubaklawiter/&#10;https://twitter.com/KubaKlawiter"
     channeltitle "Kuba Klawiter"
     channelid "UCLr4hMhk_2KE0GUBSBrspGA"
@@ -5481,7 +5481,7 @@ graph
     label "7RdZC093vII"
     step 0
     date "2022-06-14T16:00:10Z"
-    title "Gary Vee on Entrepreneurship, NFTs, American Dream &#38;amp; Future of Owning the NY Jets | Pivot Podcast"
+    title "Gary Vee on Entrepreneurship, NFTs, American Dream Future of Owning the NY Jets | Pivot Podcast"
     description "SUBSCRIBE HERE: https://www.youtube.com/channel/UCUnxiP7q4RDDyeioZFZLnXA?sub_confirmation=1&#10;&#10;GET MERCH HERE: https://www.pivotpodcast.com&#10;&#10;From Belarusian Immigrant to Multimillionaire Entrepreneur, Gary Vaynerchuck (known as Gary Vee) joins The Pivot to share his journey of finding success and securing happiness.&#160;&#10;&#10;This conversation with Channing, Fred and Ryan is filled with free game and has an entertainment value second to none. Pull out the notepads and be ready to soak up the financial advice, listen to the life lessons and absorb wisdom through experience.&#160;&#10;&#10;Known for his motivational talks and digital content creation, Gary Vee has affected lives all around the globe and continues to inspire people with his over sharing of experiences and openness.&#160;&#10;&#10;Starting off as a young business mind, first with his father&#8217;s business and then expanding into his own empire, Gary Vee shares what makes him still go hard everyday and the little things which have made a big impact on how he conducts his work everyday.&#160;&#10;&#10;The die hard NY Jets fan, Gary Vee shares a story about publicly calling out former NFL quarterback Mark Sanchez and jeopardizing his client relationship with the organization by having a fan first mentality, which he firmly stands by today.&#160;&#10;&#10;Ryan asks how he has time for family with all that he does in a day while Channing asks what is the end goal if money isn&#8217;t what he&#8217;s chasing than what is the purpose?&#160;&#10;&#10;Diving into NFTs, Channing and Ryan try to soak up the basic knowledge behind this economic trend while Fred talks the business structure and where the world is headed because of NFTs. Gary Vee explains how the skepticism around NFTs can be compared to how the world 20 years ago didn&#8217;t understand the power of the internet or didn&#8217;t think buying alcohol online and dating apps would ever become popular let alone acceptable practices.&#160;&#10;&#10;The Pivot Podcast releases new episodes on YouTube and all audio platforms every Tuesday at Noon eastern with special drops on Fridays at 3pm Eastern. Find exclusive Pivot merchandise and stay connected with us at https://www.pivotpodcast.com. &#10;&#10;SUBSCRIBE TO HAPPY DAD: https://youtube.com/channel/UCRVEzpUvlbs06pNZ1WSzg2A?sub_confirmation=1&#10;&#10;&#10;FOLLOW THE PIVOT PODCAST:&#10;INSTAGRAM | https://instagram.com/thepivot&#10;TWITTER | https://twitter.com/thepivot&#10;TIKTOK | https://tiktok.com/@thepivot&#10;FACEBOOK | https://facebook.com/thepivotpodcast&#10;SPOTIFY | https://open.spotify.com/show/5KtXTWiC3J5WW1CVTpYG5V&#10;APPLE PODCASTS | https://podcasts.apple.com/us/podcast/the-pivot-podcast/id1603292451&#10;&#10;#ThePivot&#10;#Podcast&#10;#garyvee &#10;#ChanningCrowder&#10;#FredTaylor&#10;#RyanClark&#10;#HappyDad"
     channeltitle "The Pivot Podcast"
     channelid "UCUnxiP7q4RDDyeioZFZLnXA"
@@ -5509,7 +5509,7 @@ graph
     commentcount 7
     duration "PT3M8S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5517,7 +5517,7 @@ graph
     label "vIEW_Wfs9Tg"
     step 0
     date "2022-07-11T18:00:09Z"
-    title "&#128293;JUEGO NFT RENTABLE!!?&#128293;NUEVAS NOTICIAS&#129297;GNOME MINES NFT &#9889;NUEVO JUEGO NFT 2022 con POCA INVERSION"
+    title "NUEVO JUEGO NFT 2022 con POCA INVERSION"
     description "&#128293;TE ENSE&#209;O este NUEVO PROYECTO NFT con POCA INVERSION&#128293;&#10;&#10;Hoy les traigo este NUEVO PROYECTO NFT el cual PODREMOS JUGAR  y GENERAR MUCHOS INGRESOS en este DIVERTIDO PLAY TO EARN que tenemos por la BINANCE SMART CHAIN.&#10;Te hice una GUIA TUTORIAL PASO A PASO para JUGAR tener tus GANANCIAS en ESTE NUEVO JUEGO NFT para ANDROID/IOS y PC.&#10;Podemos jugarlo GRATIS SIN INVERSION desde la BSC TESNET sin ningun problema.&#10;------------------------------------------- + -------------------------------------------&#10;SORTEO en DIRECTO de Lun a Vier 19hs UTC &#10;&#10;&#128221; &#191;Como Participar? &#10;1. Estar Suscripto al Canal y dejar tu LIKE&#10;2.Estar dentro de NUESTRO TELEGRAM (ah&#237; haremos el Sorteo) https://t.me/TanitoNftGamingComunidad&#10;3. Comentar  en ESTE VIDEO Que te parecio el proyecto y &#180;&#180;QUIERO PARTICIPAR #TanitoNft &#180;&#180;&#10;&#128071;DISCORD de NUESTRA COMUNIDAD&#128071;&#10;https://discord.gg/439tzVWCdD&#10;&#10;&#128068; Eso es todo &#128068;&#10;&#10;------------------------------------------- + -------------------------------------------&#10;&#10;&#10;Links de este Video:&#10;&#10;&#128165; Pagina Web : https://gnomemines.com/&#10;&#10;&#128125;Papper: https://whitepaper.gnomemines.com/smart-contract-and-audit-kyc&#10;&#10;&#9889;Presale: https://www.pinksale.finance/launchpad/0xCb1Fb9d87B3F9B5a67ac0a2228745fA4d79AEa64?chain=BSC&#10;&#10;&#129504;Auditoria: https://github.com/solidproof/projects/blob/main/Gnome%20Mines/SmartContract_Audit_Solidproof_GnomeMines.pdf&#10;&#10;&#127875;Kyc: https://github.com/coinscope-co/kyc/blob/main/gmines/kyc.png&#10;------------------------------------------- + -------------------------------------------&#10;Espacio de Redes Sociales &#128242;&#10;&#10;&#127799; Comunidad de Telegram: https://t.me/TanitoNftGamingComunidad&#10;&#127808; Comunidad de Discord : https://discord.gg/DsqFsdkvvn&#10;&#128247; Instagram : https://www.instagram.com/tanito.nft/&#10;&#127942; https://twitter.com/TanitoNft&#10;&#127942;Facebook : https://www.facebook.com/TanitoooTv&#10;&#128204; Twitch: https://www.twitch.tv/tanitoootv&#10;&#10;&#10;&#127808;Contacto: tanitocontacto@gmail.com &#10;&#10;------------------------------------------- + -------------------------------------------&#10;&#10;Seo ignorar:&#10;#GnomeMinesNft #PreventaToken #NftGratis #tanitoNftChannel #tanitoNftCanal&#10;,sicruxverse ,wanakafarm ,juegonftdegranja,Era7nft , nuevo juego nft gratis sin inversion 2022, nuevo juego nft android, juego nft android, f2p, f2e,&#10;,battlesnake ,clicktoearn ,1500$almes, free to play, f2p, juego nft gratis sin inversion, play to earn gratis, red polygon, juegos nft gratis sin inversion 2022, juego nft gratis sin inversion pagando 2022,&#10;,PathOfAlchemist ,FreetoEarn ,Alquimistas ,juegosnftdemagia&#10;,pokemoney ,pokemonnft ,freetoplay ,juegosfreetoplaynft&#10;,funbox ,funboxgaming ,playtoearn ,juegosNFT&#10;,widiland ,nftgratis ,comojugarwidiland ,comoregistrarmewidiland ,ganardinero ,clicktoearn  ,nfthesearch ,nftfarm ,nftgratis ,nftart ,nftgaming ,nftscreenshot ,nftlaunch ,nftgames ,nftart ,nftcommunity ,nfthesearch ,nftmarketplace ,nftprojects ,nftgiveaway ,nftnyc2021 &#10;Juegos nft gratis, Juegos nfts sin inversion, juego nft gratis, nuevo juego nft, juegos nft con potencia, el mejor juego nft 2022, juegos play to earn, juegos earn to click, juegos nft club nocturno, pimkgamer, pinkgamer nft, gana hasta 500$ con este juego nft, plant vs undead, axie infinity, pokemoney, juego nft de pokemon, review espa&#241;ol de pokemoney, pokemoney, path of alchemist, path of alchemist nft, juego nft de magia, juego nft de alquimistas, proyectos juegos nft, sicrux verse, wanaka farm, juego nft de granjas, juegos nft rentables, juegos nft de granjas rentables, juegos nft play to earn de granjas, sicruxverse&#10;------------------------------------------- + -------------------------------------------&#10;&#10;Disclaimer: No soy asesor financiero, por lo que el contenido proporcionado en este canal es de car&#225;cter educativo, basado en mi propia experiencia. Invierte tu dinero de forma responsable.&#10;&#10;&#128293;JUEGO NFT RENTABLE!!?&#128293;NUEVAS NOTICIAS&#129297;GNOME MINES NFT &#9889;NUEVO JUEGO NFT 2022 con POCA INVERSION"
     channeltitle "Tanito | Play2Earn &#38; NFT Gaming"
     channelid "UCHUvTHcjFnYCNYwbVW5fRIQ"
@@ -5527,7 +5527,7 @@ graph
     commentcount 21
     duration "PT14M9S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5535,7 +5535,7 @@ graph
     label "cY-XGEHAVOw"
     step 0
     date "2021-05-12T17:00:12Z"
-    title "How to buy NFT art Coin - A Beginner&#38;#39;s Guide"
+    title "How to buy NFT art Coin - A Beginners Guide"
     description "Buying NFTart?&#10;&#10;In this video, I&#8217;ll show you how to buy NFTart And we will walk through every single step of getting this crypto because it's one of the hardest ones to get right now.&#10;&#10;Join the 100X crypto club here: https://wealthhacks.co/crypto-alerts-opt-in/&#10;&#10;Easy platform to buy crypto w/ bank or CC:&#10;https://wealthhacks.co/tools/coinbase/yt&#10;&#10;Coin not available in the USA? Use VPN:&#10;https://wealthhacks.co/tools/nord/yt&#10;&#10;Recommended crypto exchange (outside US):&#10;https://wealthhacks.co/tools/binance/yt&#10;&#10;Recommended crypto exchange (US):&#10;https://wealthhacks.co/tools/coinbase/yt&#10;&#10;My favorite crypto trading bot:&#10;https://www.youtube.com/watch?v=nPxigLULgUA&#10;&#10;Need to get in contact with Spencer? Email @ spencer@wealthhacks.co&#10;&#10;----&#10;&#10;So a couple of things that we're going to need:&#10;&#10;1) A wallet to store the NFT.&#10;1) Some exchanges for us to make some crypto swaps and get the right cryptos. &#10;&#10;And once we have all that set up, we can make the swap and hold our NFTart.&#10;&#10;----&#10;&#10;CHECK OUT OUR OTHER VIDEOS:&#10;&#10;How To Buy Safemoon - A Beginner's Guide:&#10;https://youtu.be/-YOVq8OSPg8&#8203;&#10;&#10;How To Buy Doge Coin. - A Beginner's Guide:&#10;https://youtu.be/bM1_rl5hIeI&#8203;&#10;&#10;----&#10;Chapters:&#10;00:00 Introduction&#10;00:29 Binance Chain Wallet&#10;02:07 How To Buy BNB Token&#10;03:20 Moving BNB Token to Binance Chain Wallet&#10;04:27 Exchanging BNB Token to NFT Art&#10;--&#10;&#10;DISCLAIMER: This video and description may contain affiliate links, which means that if you click on one of the product links, I&#8217;ll receive a commission. This helps support the channel and allows me to continue to make videos like this. I will never support or push a product I don't believe in. Thank you for the support!"
     channeltitle "Wealth Hacks"
     channelid "UCJA7J3DqZN76PKx31Q_YHUQ"
@@ -5545,7 +5545,7 @@ graph
     commentcount 7
     duration "PT7M25S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 535
     duration "PT4M29S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5581,7 +5581,7 @@ graph
     commentcount 2191
     duration "PT11M44S"
     indegree 11
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5607,7 +5607,7 @@ graph
     label "cxmj-yF2PtM"
     step 0
     date "2022-06-13T15:15:01Z"
-    title "&#12304;&#30452;&#25773;&#31934;&#33775;&#12305;Sunny Arho NFT&#20107;&#20214;&#65372;&#25104;&#20214;&#20107;&#26368;&#37679;&#22021;&#22320;&#26041;&#20418;&#8943;&#8943;&#65372;JER&#20180;"
+    title ""
     description "&#128993;&#27489;&#36814;&#35330;&#38321;&#25105;&#30340;&#38971;&#36947;&#10;1&#65039;&#8419;YouTubeChannel: Jer&#20180;&#10;&#26041;&#21521;&#65306;&#26178;&#20107;&#12289;&#31038;&#26371;&#12289;&#25919;&#27835;&#10;https://www.youtube.com/channel/UClkSKv9-Geah2gwYu7e9jFw&#10;2&#65039;&#8419;YouTubeChannel: Jer&#20180;&#27491;&#33021;&#37327;&#10;&#26041;&#21521;&#65306;&#26085;&#24120;&#12289;VLOG&#10;https://www.youtube.com/channel/UCn0qOY1028z5zdIIQ_A6Igg&#10;3&#65039;&#8419;GazeTV&#65306;Jer&#20180;&#10;https://www.gazetv.com/#channel/32c042df6534be5105eea09f17f317ea&#10;&#128995;Instagram&#65306;jjwilliamjj&#10;https://www.instagram.com/jjwilliamjj/&#10;&#128994;MeWe&#65306;Jer&#20180; &#10;https://mewe.com/p/jer%25E4%25BB%2594&#10;&#128309;Discord&#10;https://discord.gg/dDbaRTG&#10;&#128308;&#21152;&#20837;&#25104;&#28858;&#25105;&#30340;YouTube&#26371;&#21729;&#10;https://www.youtube.com/channel/UClkSKv9-Geah2gwYu7e9jFw/join&#10;&#128992;&#35531;&#25903;&#25345;&#12300;&#24859;&#35703;Jer&#20180;&#22522;&#37329;&#12301;&#10;&#12300;&#36681;&#25976;&#24555;&#12301;ID&#65306;&#10;3070117&#10;HSBC &#28377;&#35920;&#37504;&#34892; PayMe&#10;https://payme.hsbc/jjwilliamjj&#10;&#10;&#128996;Jer&#20180;&#23560;&#23660;&#20778;&#24800;&#10;1&#65039;&#8419;&#12304;&#24494;&#29275;Webull - &#23560;&#23660;&#20778;&#24800;&#12305;&#10;&#12304;&#33836;&#29289;&#26356;&#26032;&#65292;&#34382;&#36939;&#30331;&#22580;&#65292;&#36786;&#26310;&#26032;&#24180;&#65292;&#30070;&#28982;&#23569;&#19981;&#20102;Webul&#26032;&#24180;&#38283;&#25142;&#12305;&#10;&#10;&#34382;&#24180;&#22577;&#21916;&#65292;&#26032;&#19968;&#24180;&#31069;&#22823;&#23478;&#22312;&#32929;&#24066;&#22914;&#34382;&#28155;&#32764;&#65292;&#34382;&#34382;&#29983;&#23041;&#65281;&#24066;&#22580;&#27874;&#21205;&#30340;&#26178;&#20505;&#65292;&#31934;&#26126;&#30340;&#25237;&#36039;&#32773;&#65292;&#19968;&#23450;&#35201;&#23416;&#26371;&#31934;&#25171;&#32048;&#31639;&#65292;&#36889;&#27171;&#25165;&#33021;&#32005;&#21253;&#34892;&#24773;&#30433;&#22312;&#25163;&#20013;&#65281;&#39080;&#38753;&#20840;&#32654;&#25237;&#36039;&#25033;&#29992;&#65292;&#26032;&#24180;&#38283;&#21855;&#26032;&#36001;&#36939;&#65292;Webull&#20132;&#26131;&#26356;&#31281;&#24515;&#65281;&#32780;&#23478;&#38283;&#25142;&#21780;&#21934;&#27490;&#21487;&#20197;&#25294;&#21040;&#20729;&#20540;&#32004;&#19968;&#21315;&#34442;&#29518;&#36062;&#65292;&#26356;&#21487;&#20139;&#32654;&#28207;&#32929;&#38617;0&#20323;&#65281;&#10;&#10;&#128226;&#32780;&#23478;&#19979;&#36617;Webull App&#65292;&#23436;&#25104;&#38283;&#25142;&#65292;&#9312;&#21487;&#24471;12&#20491;&#26376;&#32654;&#32929;Level 2&#65307;&#9313;3&#24373;&#23382;&#23637;&#35469;&#36092;&#34701;&#36039;&#25171;&#26032;&#28187;&#20813;&#21048;&#65307;&#9314;30&#26085;&#20839;&#32173;&#25345;HK$10,000&#28136;&#23384;&#27454;&#21450;&#36023;&#20837;&#19968;&#31558;&#32654;&#32929;&#65292;&#20210;&#21487;&#20197;&#25294;&#36208;3&#32929;&#31119;&#29305;&#65281;&#65281;&#65281;&#10;&#10;&#25105;&#22021;&#23560;&#23660;&#38283;&#25142;link&#65306;https://a.webull.hk/i/Jerjaiofficialfansclub&#10;&#20778;&#24800;&#27963;&#21205;&#26781;&#27454;&#21450;&#32048;&#21063;&#65306;https://act.webull.hk/ko-yield/1632813186270-e76d&#10;&#36229;&#35443;&#32048;Webull&#35387;&#20874;-&#38283;&#25142;&#25351;&#24341;&#65306;https://act.webull.hk/contentEdit/index.html?pageId=24443&#10;&#10;&#9898;&#65039;&#21443;&#32771;&#36039;&#26009;&#10;&#10;&#9898;&#65039;&#20633;&#35387;&#10;&#22914;&#26524;&#20320;&#20497;&#23565;&#25105;&#30340;&#24433;&#29255;&#26377;&#20160;&#40636;&#24847;&#35211;&#65295;&#21839;&#38988;&#65292;&#27489;&#36814;&#22312;&#19979;&#38754;&#30041;&#35328;&#36319;&#25105;&#35611;&#21908;&#65281;&#10;&#24076;&#26395;&#22823;&#23478;&#26371;&#21916;&#27489;&#36889;&#37096;&#24433;&#29255;&#21543;&#65281;&#10;&#10;&#9899;&#65039;&#27161;&#31844;"
     channeltitle "Jer&#20180;"
     channelid "UClkSKv9-Geah2gwYu7e9jFw"
@@ -5617,7 +5617,7 @@ graph
     commentcount 273
     duration "PT10M54S"
     indegree 4
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5625,7 +5625,7 @@ graph
     label "LVSeVl7CGy4"
     step 0
     date "2022-06-27T10:30:06Z"
-    title "&#128165;&#48149;&#49332; &#48152;&#53664;&#47561;?! NFT &#44032;&#49345;&#54868;&#54224; &#48660;&#47197;&#52404;&#51064; &#44060;&#45392; &#51109;&#45800;&#51216; &#53804;&#51088; &#44032;&#52824; &#51204;&#47581; &#50508;&#50500;&#48372;&#51088; - &#48320;&#54840;&#49324; &#52636;&#49888; &#48176;&#48124;&#49688; &#45824;&#54364; &#38;#39;&#47112;&#48296;&#50629;&#38;#39;"
+    title ""
     description "0:00 &#48152;&#53664;&#47561; &#49884;&#44397;&#50640; &#44032;&#45733;&#49457; &#51080;&#51012;&#44620;?!&#10;7:59 &#45796;&#49884; &#51674;&#50612;&#48372;&#45716; &#44032;&#49345;&#54868;&#54224; NFT &#44060;&#45392;&#10;11:05 &#44032;&#49345;&#54868;&#54224;, &#46024;&#51004;&#47196; &#44032;&#52824; &#51080;&#51012;&#44620;?&#10;&#10;&#9989;&#47784;&#46304; &#53804;&#51088;&#50640;&#45716; &#50948;&#54744;&#51060; &#49688;&#48152;&#46104;&#47728; &#53804;&#51088;&#51088; &#48376;&#51064;&#51060; &#49888;&#51473;&#55176; &#44256;&#47140;&#54644;&#50556; &#54633;&#45768;&#45796;.&#10;&#10;&#128588; &#45208;&#47564;&#51032; &#45000;&#51012; &#51060;&#47336;&#44256; &#49910;&#45796;&#47732;? MKYU &#50676;&#51221;&#45824;&#54617;&#49373;&#46104;&#44592; &#10;&#128073;http://mkyu.co.kr/&#10;&#10;&#128105;&#8205;&#129457; &#48120;&#44221; &#50616;&#45768;&#51032; Real &#51068;&#49345;&#49373;&#54876; &#50687;&#48372;&#44592;. &#44608;&#48120;&#44221;&#51032; &#51064;&#49828;&#53440;&#44536;&#47016;&#10;&#128073; https://bit.ly/2KhMghw&#10;&#10;&#128165;&#48149;&#49332; &#48152;&#53664;&#47561;?! NFT &#44032;&#49345;&#54868;&#54224; &#48660;&#47197;&#52404;&#51064; &#44060;&#45392; &#51109;&#45800;&#51216; &#53804;&#51088; &#44032;&#52824; &#51204;&#47581; &#50508;&#50500;&#48372;&#51088; - &#48320;&#54840;&#49324; &#52636;&#49888; &#48176;&#48124;&#49688; &#45824;&#54364; '&#47112;&#48296;&#50629;'&#10;#NFT #&#44032;&#49345;&#54868;&#54224; #&#48660;&#47197;&#52404;&#51064;"
     channeltitle "MKTV &#44608;&#48120;&#44221;TV"
     channelid "UCnaGfDaiM-pM1l-SXYpq37Q"
@@ -5635,7 +5635,7 @@ graph
     commentcount 34
     duration "PT15M42S"
     indegree 4
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -5643,7 +5643,7 @@ graph
     label "ObPOmlbBfDY"
     step 0
     date "2022-07-03T02:01:24Z"
-    title "NFT&#39033;&#30446;&#26041;&#30740;&#35752;&#20250;Twitter Space&#31995;&#21015;&#27963;&#21160;&#25345;&#32493;&#28779;&#29190;&#65307;Mimic Shhans/Moonkeys/Starlite&#35832;&#22810;&#20813;&#36153;&#39033;&#30446;&#24713;&#25968;&#30331;&#21488;"
+    title "NFT"
     description "NFT Aerfa Twitter Space&#31995;&#21015;&#27963;&#21160;&#65306;https://twitter.com/NFT_Aerfa&#10;&#10;NFT Aerfa - The largest Asian NFT publisher and trader community: https://discord.gg/nftaerfa&#10;&#10;Fortune Dao Genesis - Membership Pass NFT created by NFT Aerfa: https://opensea.io/collection/fortune-dao-genesis&#10;&#10;NFA &#38; DYOR"
     channeltitle "NFT Aerfa"
     channelid "UCGQygNQntFHmzLsubpSkAOQ"
@@ -5653,7 +5653,7 @@ graph
     commentcount 1
     duration "PT17M16S"
     indegree 2
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5661,7 +5661,7 @@ graph
     label "JPM6E0S9kW0"
     step 0
     date "2022-02-23T15:45:00Z"
-    title "&#1588;&#1585;&#1581; &#1603;&#1575;&#1605;&#1604; &#1604;&#1605;&#1606;&#1589;&#1577; opensea &#1585;&#1601;&#1593; &#1575;&#1604;&#1589;&#1608;&#1585; NFT &#1608;&#1578;&#1581;&#1583;&#1610;&#1583; &#1575;&#1604;&#1587;&#1593;&#1585; &#1582;&#1591;&#1608;&#1577; &#1576;&#1582;&#1591;&#1608;&#1577; 2022"
+    title " 2022"
     description "&#10084;&#65039;&#1587;&#1575;&#1603;&#1608;&#1606; &#1587;&#1593;&#1610;&#1583; &#1575;&#1584;&#1575; &#1575;&#1588;&#1578;&#1585;&#1603;&#1578; &#1601;&#1610; &#1602;&#1606;&#1575;&#1577; &#1605;&#1610;&#1586;&#1577; &#1608;&#1601;&#1593;&#1604;&#1578; &#1580;&#1585;&#1587; &#1575;&#1604;&#1578;&#1606;&#1576;&#1610;&#1607;&#1575;&#1578;&#128276; .. &#1575;&#1581;&#1576;&#1603;&#1605; &#1610;&#1575; &#1575;&#1581;&#1604;&#1575; &#1575;&#1604;&#1605;&#1588;&#1575;&#1607;&#1583;&#1610;&#1606;&#10;&#1581;&#1587;&#1575;&#1576;&#1610; &#1593;&#1604;&#1609; &#1575;&#1604;&#1575;&#1606;&#1587;&#1578;&#1594;&#1585;&#1575;&#1605; : https://bit.ly/3nVCeUV&#10;&#1581;&#1587;&#1575;&#1576;&#1610; &#1593;&#1604;&#1609; &#1575;&#1604;&#1601;&#1575;&#1610;&#1587;&#1576;&#1608;&#1603; :  https://bit.ly/3bRT8kI&#10;------------------------------&#10;&#1605;&#1585;&#1581;&#1576;&#1575; &#1575;&#1589;&#1583;&#1602;&#1575;&#1574;&#1610; &#1601;&#1610; &#1607;&#1584;&#1575; &#1575;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1587;&#1606;&#1578;&#1593;&#1585;&#1601; &#1593;&#1604;&#1609; &#1588;&#1585;&#1581; &#1603;&#1575;&#1605;&#1604; &#1604;&#1605;&#1606;&#1589;&#1577; opensea &#1582;&#1591;&#1608;&#1577; &#1576;&#1582;&#1591;&#1608;&#1577; &#10;&#1587;&#1575;&#1588;&#1585;&#1581; &#1604;&#1603;&#1605; &#1603;&#1610;&#1601; &#1578;&#1602;&#1608;&#1605;&#1608;&#1606; &#1576;&#1593;&#1605;&#1604; &#1581;&#1587;&#1575;&#1576; &#1608; &#1575;&#1604;&#1581;&#1589;&#1608;&#1604; &#1593;&#1604;&#1609; &#1605;&#1581;&#1601;&#1592;&#1577; &#1575;&#1604;&#1603;&#1578;&#1585;&#1608;&#1606;&#1610;&#1577; &#1608;&#1591;&#1585;&#1610;&#1602;&#1577; &#1585;&#1601;&#1593; &#1589;&#1608;&#1585; nft &#1608;&#1578;&#1581;&#1583;&#1610;&#1583; &#1587;&#1593;&#1585; &#1575;&#1604;&#1589;&#1608;&#1585;&#1577; &#1576;&#1603;&#1604; &#1587;&#1607;&#1608;&#1604;&#1577;&#10;------------------------------&#10;&#1588;&#1603;&#1585;&#1575;"
     channeltitle "&#1605;&#1610;&#1586;&#1577; - Miza"
     channelid "UC6sY9dhPqDpJ8Y5uHUvqpHg"
@@ -5671,7 +5671,7 @@ graph
     commentcount 163
     duration "PT20M44S"
     indegree 7
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5679,7 +5679,7 @@ graph
     label "9q8SctUnU1g"
     step 0
     date "2022-05-23T21:59:33Z"
-    title "Are these the next big NFT projects? PandaQ | Gino&#8217;s Big Town Chef | Harvest Dao"
+    title "Are these the next big NFT projects? PandaQ | Ginos Big Town Chef | Harvest Dao"
     description "Hey guys welcome back to the NFT social club! This is some of our picks on good upcoming projects. This is not financial advice.&#10;&#10;Big White list give away to everyone subscribed to the channel for social house nft releases on the 1st.&#10;&#10;&#10;#nft #NFTA #nfte #nftmyers #nfto #NFTS #NFTCpaidpromoteAERIAL #nftc #nftem #nftechicago #nftr #NFTravels2015 #nftrecords #nftrent #nftry #nftu #NFTW&#10;#cryptocurrency #crypto #cryptocurrencies #cryptonews #cryptotrading #cryptocurrencynews #cryptotrade #cryptolife #cryptoworld #cryptomining #cryptomeme #cryptography #cryptokeys #cryptos #cryptomemes #cryptocoin #cryptotrader #cryptocurrencytrading #cryptocoins #Crypton #cryptomoneda #cryptolifestyle #cryptozoology #cryptomoney #Cryptocurency #cryptorevolution #cryptocurrencyinviestments #cryptoinvestor #cryptotraders #cryptowallet"
     channeltitle "NFT SOCIAL CLUB"
     channelid "UCqZ6EAxX09HfYdsskdAyFow"
@@ -5697,7 +5697,7 @@ graph
     label "7ZS4o0OFhBM"
     step 0
     date "2022-06-02T16:11:40Z"
-    title "Willyrex, basta ya. Su&#233;ltanos el brazo. | Lo de los NFT."
+    title "Willyrex, basta ya. Sultanos el brazo. | Lo de los NFT."
     description "Escucha mis podcasts:&#10;- DISIDENCIA CONTROLADA: un podcast donde analizo las m&#225;s locas teor&#237;as de la conspiraci&#243;n. Contenido PREMIUM de Podimo. Descuento en: https://www.podimo.com/es/tamayo&#10;- EN LA FRONTERA: Desde que Rusia atac&#243; Ucrania, la guerra ha copado gran parte de los informativos de todo el mundo: an&#225;lisis geopol&#237;ticos, tertulias, mapas de situaci&#243;n b&#233;lica, opiniones... Pero parece que a veces se nos olvida que esto no es un cap&#237;tulo de 'Juego De Tronos' y que cada &#34;peque&#241;a ofensiva&#34; la est&#225;n sufriendo personas que se ven obligadas a abandonar su casa, sus amistades, su familia... Dejar su vida atr&#225;s para probar suerte en una nueva realidad. &#10;&#10;- Edici&#243;n: Leo Luciano | TW: @lasmierdasdez  | YT: https://www.youtube.com/channel/UCevRJ204S9c-4suTLHhlf3A&#10;- Producci&#243;n: Ariadna Arias | Tw: https://twitter.com/itsaria_pdf | IG: https://www.instagram.com/aria_dna.arias/ | Web: www.ariacopywriting.es&#10;&#10;- REPORTAJES DE INVESTIGACI&#211;N &#9658; https://www.youtube.com/tamayostuff&#10;- TWITCH &#9658; https://www.twitch.tv/tamayovision&#10;- INSTAGRAM &#9658; https://www.instagram.com/tamayotuff&#10;- TELEGRAM &#9658; https://t.me/TamayoStuff&#10;- TWITTER &#9658; https://twitter.com/tamayostuff&#10;- DISCORD &#9658;https://discord.gg/v5EN3NPJBy&#10;&#10;Directos semanales en TWITCH (de lunes a viernes de 21.30 a 22.30, hora espa&#241;ola) y pr&#243;ximamente vendr&#225;n m&#225;s investigaciones (que me llevan un buen rato) as&#237; que, de momento. aqu&#237; tienes M&#193;S REPORTAJES DE INVESTIGACI&#211;N:&#10;&#10;&#9658; sobre SECTAS o grupos coercitivos&#10;&#128308; Infiltrado en una Secta New Age: https://www.shorturl.at/emuS0&#10;&#128308; Infiltrado en la Secta del Palmar de Troya (en orden): https://www.shorturl.at/qySXY&#10;&#128308; Desmontando la Secta IM Academy: https://www.shorturl.at/ehxF2&#10;&#128308; Desmontando a Trafficker Digital, el cursillo de Roberto Gamboa: https://www.shorturl.at/ksuT1&#10;&#10;&#9658; sobre PSEUDOCIENCIAS&#10;&#128308; Ex-chaman lo cuenta todo: https://youtu.be/UF_k8Pz6ZDY&#8203;&#8203;&#8203;&#8203;&#10;&#128308; Los oportunistas del CORONAVIRUS (sectas, pseudociencias, etc): https://www.shorturl.at/dAKS2&#10;&#10;&#9658; sobre ESTAFAS DIGITALES (presuntamente) y CIBERSEGURIDAD&#10;&#128308; Los ESTAFADORES ILLUMINATI (estafa nigeriana): https://www.shorturl.at/xB258&#10;&#128308; Robo de Canales de YouTube: https://youtu.be/C0hwxfIsjkE&#8203;&#8203;&#8203;&#8203;&#10;&#128308; Desmontando una ESTAFA PIRAMIDAL: https://youtu.be/zS4rN2R7QxQ&#8203;&#8203;&#8203;&#8203; &#10;&#10;&#9658; sobre REPORTAJES INTERNACIONALES&#10;&#128308; ETIOP&#205;A | Conflicto en el desierto de Danakil: https://www.shorturl.at/evxAE&#10;&#128308; INDONESIA | Boda por secuestro: https://youtu.be/g7bGnmqMokM&#8203;&#8203;&#8203;&#8203;&#10;&#128308; TANZANIA | El empoderamiento de la mujer Maasai: https://www.shorturl.at/kquX6&#10;&#128308; NEPAL | Las diosas vivientes: https://youtu.be/ZdEO_l4J3iY&#8203;&#8203;&#8203;&#8203;&#10;&#10;&#10145; &#191;Me ayudas a crear m&#225;s contenido?:&#10;PATREON: https://www.patreon.com/tamayostuff&#8203;&#8203;&#8203;&#8203;&#10;PAYPAL: https://www.paypal.me/tamayostuff&#8203;&#8203;&#8203;&#8203;&#10;&#10;SUSCRIBETE PARA MAS CONTENIDO: https://bit.ly/2OQguNp&#8203;&#8203;&#8203;&#8203;&#10;&#10;PREGUNTAS FRECUENTES:&#10;&#9899; &#191;C&#243;mo te llamas? Carles&#10;&#9899; &#191;Cu&#225;ntos a&#241;os tienes? 27, nac&#237; el 17/01/1995&#10;&#9899; &#191;Vives en un barco? Y no, ahora vivo en una cueva. Pero si quieres ver el barco te lo ense&#241;o aqu&#237;: https://youtu.be/aYXOeugsMvc&#8203;&#8203;&#8203;&#8203;&#10;&#9899; &#191;Por qu&#233;? Porque me gusta, estoy muy c&#243;modo y, la verdad, me cuesta lo mismo que una habitaci&#243;n en un piso patera de Barcelona.&#10;&#9899; &#191;Has estudiado Periodismo? No, estoy graduado en Cine y Audiovisuales especializado en direcci&#243;n cinematogr&#225;fica.&#10;&#9899; &#191;Con qu&#233; editas? Adobe premiere CC"
     channeltitle "Tamayovisi&#243;n (Canal Secundario)"
     channelid "UCHcW0B4ul2INdp1Md6eUFbg"
@@ -5707,7 +5707,7 @@ graph
     commentcount 563
     duration "PT21M38S"
     indegree 2
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5715,7 +5715,7 @@ graph
     label "d5jM1h3mxZ8"
     step 0
     date "2021-09-12T11:33:07Z"
-    title "NFT &#20026;&#20160;&#20040;&#36825;&#20040;&#28779;&#65311;&#25163;&#25226;&#25163;&#25945;&#20320;&#21046;&#20316;&#23646;&#20110;&#33258;&#24049;&#30340;NFT&#65292;&#24182;&#22312;&#32593;&#19978;&#20986;&#21806;&#23427;&#65281; | &#38646;&#24230;&#35299;&#35828;"
+    title "NFT "
     description "&#12304;&#26356;&#22810;&#36164;&#28304;&#12305;&#9654;https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w?sub_confirmation=1&#10;&#12304;&#38646;&#24230;&#21338;&#23458;&#12305;&#9654;https://www.freedidi.com&#10;&#12304;&#25104;&#20026;&#20250;&#21592;&#12305;&#9654;https://www.youtube.com/channel/UCvijahEyGtvMpmMHBu4FS2w/join&#10;&#12304;TG&#30005;&#25253;&#12305;&#9654;https://t.me/joinchat/N_RwDBSTuLn_BGnao7KNqg&#10;&#12304;Discord &#12305;&#9654;https://discord.gg/8TSEvkywgW&#10;-------------------------------------&#10;&#128276;&#10;&#10;NFT&#21046;&#20316;&#21644;&#20986;&#21806;&#25152;&#38656;&#35201;&#30340;&#36164;&#28304;&#65306;https://bit.ly/3k52gq1&#10;&#10;&#10;&#128304;&#32763;&#22681;VPN&#25512;&#33616;&#65288;&#25490;&#21517;&#21069;3&#65289;&#65306;&#10;1.ExpressVPN&#65306;https://bittly.cc/expressvpn&#10;2.Surfshark &#65306;https://bittly.cc/Surfshark&#10;3.PureVPN&#65306;https://bittly.cc/purevpn&#10;&#10;&#128640;VPS&#25512;&#33616;&#65288;&#21487;&#33258;&#24314;&#26799;&#23376;&#65289;&#65306;&#10;1.https://bittly.cc/Vultr &#65288;&#39318;&#27425;&#20805;&#20540;25&#32654;&#37329;&#20250;&#36192;&#36865;100&#32654;&#37329;&#65289;&#10;&#10;&#128147;&#10;&#22238;&#22269;&#21152;&#36895;&#65306;https://bittly.cc/qt8cx&#10;&#10;&#128176;&#27604;&#29305;&#24065;&#20132;&#26131;&#24179;&#21488;&#10;1.&#28779;&#24065;&#32593; : https://www.huobi.com/zh-cn/topic/invited/?invite_code=48tr7&#10;2.&#24065;&#23433;&#32593; : https://www.binance.com/zh-CN/register?ref=ILPV7PC5&#10;3.Localbitcoins : https://localbitcoins.com/buy-bitcoins-online/?ch=1f881&#10;4.&#38376;&#32599;&#24065;&#65306;https://localmonero.co/buy-monero-with-aud-in-australia?rc=y25g&#10;5.&#26368;&#23433;&#20840;&#30340;&#20919;&#38065;&#21253;&#65306;https://bit.ly/3ChreJS&#10;&#10;=======================&#10;&#128247;--&#12304;&#25105;&#30340;&#35270;&#39057;&#25293;&#25668;&#22120;&#26448;&#12305;--&#128725;&#10;&#10;1.&#30456;&#26426;    &#65306;https://amzn.to/3v4zJUQ&#10;2.&#40614;&#20811;&#39118;&#65306;https://amzn.to/38jBsvT &#10;                    https://amzn.to/3v4zVn2&#10;3.&#34917;&#20809;&#28783;&#65306;https://amzn.to/3kSla24&#10;4.&#26580;&#20809;&#31665;&#65306;https://amzn.to/3qq0tMf&#10;5.&#26080;&#32447;&#40614;&#65306;https://amzn.to/38cXdNZ&#10;&#10;&#9989;&#25105;&#30340;&#19979;&#36733;&#24037;&#20855;&#65288;IDM&#27491;&#29256;&#28192;&#36947;&#65289;&#65306;https://bittly.cc/idmbuy&#10;&#10;-------------------------------------&#10;&#10;Windows 10&#31995;&#32479;&#37325;&#22823;&#26356;&#26032;&#65292;&#20813;&#36153;&#21319;&#32423;&#20813;&#36153;&#28608;&#27963;&#26041;&#24335;&#65281; 20H2&#10;https://youtu.be/MyqeF2vVGnY&#10;Chrome OS&#23433;&#35013;&#25945;&#31243;&#65292;&#35753;&#38386;&#32622;&#30340;&#31508;&#35760;&#26412;,&#21488;&#24335;&#26426;&#21464;&#24223;&#20026;&#23453;&#65281;&#10;https://youtu.be/NqWw0Bu0S2s&#10;Ubuntu &#30495;&#27491;&#20813;&#36153;&#12289;&#24320;&#28304;&#30340;&#25805;&#20316;&#31995;&#32479;&#65281; &#38468;&#26368;&#26032;&#23433;&#35013;&#25945;&#31243;+&#23433;&#20840;&#35774;&#32622; &#10;https://youtu.be/PExZJa-yoa8&#10;&#20116;&#27454;&#38750;&#24120;&#29275;&#30340;&#20813;&#36153;&#36719;&#20214;&#65292;&#20320;&#21487;&#33021;&#30495;&#30340;&#27809;&#29992;&#36807;&#65281;&#10;https://youtu.be/eoTXmcu7fEg&#10;&#21153;&#24517;&#21024;&#38500;Windows 10 &#30340;&#20116;&#22823;&#32531;&#23384;&#10;https://youtu.be/LPHQLPxSEjs&#10;&#20813;&#36153;&#27880;&#20876;&#34394;&#25311;&#25163;&#26426;&#21495;&#65292;&#27880;&#37325;&#20010;&#20154;&#38544;&#31169;&#26356;&#23433;&#20840;&#65281;&#10;https://youtu.be/uwglDQz4HMI&#10;&#20116;&#27454;&#26368;&#23433;&#20840;&#30340;&#32842;&#22825;&#36719;&#20214;&#65292;&#31471;&#21040;&#31471;&#21152;&#23494;&#35753;&#36890;&#20449;&#26356;&#23433;&#20840;&#26356;&#25918;&#24515;&#65281;&#10;https://youtu.be/7iEL8RvaDvk&#10;&#25490;&#21517;&#21069;&#21313;&#30340;&#20813;&#36153;&#36719;&#20214;&#65292;&#27599;&#19968;&#27454;&#37117;&#26159;&#31934;&#21697;&#65292;&#30005;&#33041;&#36719;&#20214;&#33391;&#24515;&#25512;&#33616;&#65281;&#10;https://youtu.be/vHL3WaFROuo&#10;&#36825;5&#27454;&#20813;&#36153;&#36719;&#20214;&#65292;&#33021;&#35753;&#20320;&#30340;&#30005;&#33041;&#21464;&#30340;&#26356;&#24378;&#22823;&#26356;&#19987;&#19994;&#65281;&#10;https://youtu.be/j2_zqj99ozE&#10;bt&#31181;&#23376;&#19979;&#36733;&#31070;&#22120;&#65292;&#19981;&#38480;&#36895;&#65292;&#36825;&#20960;&#27454;&#37117;&#26159;&#30495;&#27491;&#22909;&#29992;&#30340;BT&#19979;&#36733;&#24037;&#20855;&#10;https://youtu.be/ZUT5oZUlpeM&#10;&#22914;&#20309;&#35753;&#30005;&#33041;&#26356;&#23433;&#20840;&#10;https://youtu.be/NpDw0mxEESM&#10;&#20116;&#27454;&#26368;&#23433;&#20840;&#30340;&#32842;&#22825;&#36719;&#20214;&#10;https://youtu.be/7iEL8RvaDvk&#10;&#20813;&#36153;&#22312;&#32447;&#30475;&#30005;&#24433;&#10;https://youtu.be/KKOj17M683A&#10;5&#27454;&#38750;&#24120;&#26834;&#30340;&#20813;&#36153;&#36719;&#20214; &#10;https://youtu.be/j2_zqj99ozE&#10;&#25490;&#21517;&#21069;10&#30340;&#35895;&#27468;&#31934;&#21697;&#25554;&#20214;&#10;https://youtu.be/FNEn73wd_CE&#10;&#21313;&#27454;Windows10&#31934;&#21697;&#24212;&#29992;&#10;https://youtu.be/WJVUk9cgUDw&#10;&#36825;&#20123;&#20813;&#36153;&#36719;&#20214;&#24076;&#26395;&#20320;&#26089;&#28857;&#30693;&#36947;&#10;https://youtu.be/ME2jxWLltA0 &#12304;&#21672;&#35810;&#38646;&#24230;&#12305;https://bittly.cc/JsLAn"
     channeltitle "&#38646;&#24230;&#35299;&#35828;"
     channelid "UCvijahEyGtvMpmMHBu4FS2w"
@@ -5725,7 +5725,7 @@ graph
     commentcount 236
     duration "PT8M8S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5733,7 +5733,7 @@ graph
     label "6rCxdr7ZCVs"
     step 0
     date "2022-03-12T15:30:01Z"
-    title "Time Sensitive NFT Projects I&#38;#39;m Buying w/ Low Collection Size (Get In EARLY!)"
+    title "Time Sensitive NFT Projects Im Buying w/ Low Collection Size (Get In EARLY!)"
     description "&#11157; &#128640; TWITTER: https://twitter.com/DarxyWayne&#10;&#10;Time Sensitive NFT Projects I'm Buying w/ Low Collection Size (Get In EARLY!) Tiny Faces Learn to make money flipping nfts on open sea in bear or bull markets!&#10;&#10;&#11157;&#128176;Save 5% of all Fees! FTX Referral Link: https://ftx.us/home/#a=darxywayne&#10;&#11157;&#128176;Earn free crytpo on every trade over 10$ With FTX APP. &#10;Use ref link: https://ftx.us/#a=23815869&#10;&#10;&#11157; &#128640; TWITTER: https://twitter.com/DarxyWayne&#10;&#11157; &#128640; My NFT: https://twitter.com/TheAlphaClubNFT&#10;&#10;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680; IMPORTANT&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#10;&#10;&#11157; &#128640; TWITTER: https://twitter.com/DarxyWayne&#10;&#127918;Twitch: https://www.twitch.tv/darxywayne&#10;&#128421;Discord: https://discord.gg/SQRetqE2AK&#10;&#128218;Patreon:  https://www.patreon.com/darxywayne&#10;&#128187;Personal YouTube: https://www.youtube.com/channel/UCgyyR7d1UCaqFOe3uhE4wBA&#10;&#128176;Donations - https://streamlabs.com/darxywayne&#10;&#10;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#128680;&#10;&#10;&#9989;GET WHITELISTED EVERYTIME: &#10;https://www.youtube.com/watch?v=rR2pA0KN8m4&#38;ab_channel=DarxyWayne&#10;&#10;Projects&#10;https://twitter.com/SkylinezNFT&#10;https://twitter.com/kaijukongz&#10;https://twitter.com/PrimalBeastNFT&#10;https://twitter.com/TinyFacesNFT&#10;&#10;Chapters&#10;00:00 Intro&#10;00:59 Market Update&#10;04:08 Project 1&#10;06:40 Project 2&#10;09:20 FTX and THE FREE COINS!&#10;10:16 Project 3&#10;11:38 Whitelist Giveaway&#10;12:49 Motivation (have a good day)&#10;&#10;I AM NOT A FINANCIAL ADVISOR and THIS IS NOT INVESTMENT ADVICE.&#10;-------------------- &#10;Song: Wonderful Feelings (Copyright Free Music)&#10;Music provided by Tunetank.&#10;song: tunetank.com_3554_wonderful-feelings_by_musical-bakery&#10;---&#10;This video will show you:&#10;nfts to buy now&#10;top nfts&#10;nft projects&#10;make money on opensea&#10;open sea&#10;get early nft whitelists&#10;nft whitelisting&#10;how to get whitelisted&#10;nft&#10;nfts&#10;best way to get an nft whitelist&#10;upcoming presales&#10;nft presales&#10;upcoming whitelists&#10;100x nfts&#10;10x nfts&#10;top nft whitelists&#10;make money flipping nfts&#10;blue chip nfts&#10;how to make money online&#10;Make money with NFTs&#10;Trading NFTs&#10;Sell NFTs&#10;Buy NFTs&#10;How to Buy and Sell NFTs For Profit (Complete Guide)&#10;How to ACTUALLY Find NFT Projects Early (NFT Buying + Selling Guide)&#10;How to make money on NFTs (EASY NFT Guide)&#10;How To Make Money With NFTs As A Beginner In 2021 (Easy 15 Minute Guide)&#10;NFTs to BUY NOW | Top NEW NFT Projects (February)&#10;How to flip NFTs&#10;How to make money on opensea&#10;how to find the nest nft project whitelists early&#10;how to get whitelisted for blue chip projects&#10;invest in nfts&#10;nft investing&#10;how to buy and sell nfts&#10;p2e nfts&#10;play to earn nfts&#10;new nft token&#10;buy nft tokens&#10;crypto nfts&#10;buy nft&#10;Best nfts to HODL&#10;Keywords - &#10;how to find nft projects early, how to find nft, how to discover nft, how to find nft gems, how to find nft games, how to find ntfs,how to find nft collectors, how to find nft stocks, how to find nft drops,how to find the next cryptopunks, nft tools, nft tricks, nft tips, how to find the next big nft, cryptopunks explained, cryptopunks history, bored ape yacht club, nft mint, rarity tools, upcoming nft projects 2021, nft calendar, cryptopunks, nft guide, nft tutorial, nft"
     channeltitle "Darxy Wayne"
     channelid "UCphP-MH3A97QtmZz6SHc_qQ"
@@ -5743,7 +5743,7 @@ graph
     commentcount 221
     duration "PT16M51S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -5751,7 +5751,7 @@ graph
     label "cY9ZC3MEzAI"
     step 0
     date "2022-06-28T17:02:29Z"
-    title "&#128293;LOS NFT DE KMANUS &#128293; &#191; Fueron una ESTAFA ? - &#191;Cu&#225;ntos se Vendieron ?"
+    title "ntos se Vendieron ?"
     description "Corria mediados del 2021 el boom de los juegos NFT explotaba de la mano de Axie, Kmanu cambia el rumbo de su contenido en su canal y comienza a generar contenido sobre Juegos NFT. &#10;La fiebre de los juegos NFT se disparo y la gente buscaba invertir en cualquier cosa, KMANU miraba esa gran bolsa de Dinero virtual que se mov&#237;a entre la gente y los proyectos y no quer&#237;a quedarse afuera del Boom, es ah&#237; cuando nace los NFT KMANUS 8888&#10;&#10;&#128071;&#128071; Muy importante !!!! &#128071;&#128071;&#10;&#10;&#9658; KUCOIN Recibe descuentos en comisiones&#10;https://tinyurl.com/mr4xtwxs&#10;&#10;&#9658;BINANCE Recibe hasta un 20% menos de comisiones:&#10; https://tinyurl.com/b8v29ydk&#10;&#10;&#128073;CONTACTO DragonCrip&#10;DragonCripLA@Gmail.com&#10;&#10;&#128073;Grupo de telegram DragonCrip&#10;https://t.me/DragonCrip&#10;&#10;&#128073;TWITTER DragonCrip&#10;https://twitter.com/DragonCrip&#10;&#10;&#127926; Canci&#243;n: Darren-Curtis - Dreaming Under The Stars&#10;M&#250;sica proporcionada por MSC: https://youtu.be/_8aQo_9mdBM&#10;&#10;&#10;#kmanus #willyrex #kmanu&#10;&#10;&#9940;ADVERTENCIA&#9940; &#10;Cualquier tipo de inversi&#243;n en criptomonedas es de alto riesgo, No inviertas en Criptomonedas!!!, si lo haces es bajo tu responsabilidad.&#10;&#10;&#10;Convi&#233;rtete en miembro de este canal para disfrutar de ventajas:&#10;https://www.youtube.com/channel/UCY1RI1CymfhsiLtTVHJnbcw/join"
     channeltitle "DragonCrip"
     channelid "UCY1RI1CymfhsiLtTVHJnbcw"
@@ -5761,7 +5761,7 @@ graph
     commentcount 447
     duration "PT16M43S"
     indegree 6
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5769,7 +5769,7 @@ graph
     label "EFoO-Z1ye9o"
     step 0
     date "2021-05-09T14:14:16Z"
-    title "Mit Krypto-Kunst in 1 Woche _ &#8364; verdient | NFT-Selbstexperiment"
+    title "Mit Krypto-Kunst in 1 Woche _ verdient | NFT-Selbste tongue sticking out eriment"
     description "&#128242;Lade die App Vivid herunter und profitiere von exklusiven finanziellen Vorteilen. https://vividmoney.onelink.me/v3Va?pid=HypeFactory&#38;af_dp=vivid%3A%2F%2F&#38;af_web_dp=https%3A%2F%2Fvivid.money%2Fde-de%2Fcrypto-referral%2F&#38;c=Tomary&#10;&#220;brigens veranstaltet Vivid momentan eine sehr coole Kampagne. Investiert 50 Euro in eine beliebige Kryptow&#228;hrung in der Vivid-App und gewinnt bis zu 5100 Euro in gebrochenem BTC. *Werbung&#10;&#10;Meine NFT- Seite: http://retropets.de/ (kommt bald mehr :) )&#10;&#10;Meine Kurse &#38; Presets: https://tomary.learnworlds.com/course?courseid=durchstarten-mit-premiere-pro&#10;Mein Zweitkanal: https://www.youtube.com/channel/UCgSH2V644jVbkrWjR1eWFmQ&#10;&#10;Instagram: https://instagram.com/tomary/&#10;Mein Minecraft-Discord: https://discordapp.com/invite/tomaryrpg&#10;Twitch: https://twitch.tv/tomary&#10;Twitter: https://twitter.com/tomaryyt&#10;TikTok: https://www.tiktok.com/@tomary&#10;&#10;*Meine Buchhaltungs-Software: https://www.awin1.com/awclick.php?gid=361518&#38;mid=15944&#38;awinaffid=682915&#38;linkid=2617183&#38;clickref=&#10;*Meine Kopfh&#246;rer: https://amzn.to/35AX2bW&#10;*Meine Kamera: https://amzn.to/39DajmH&#10;*Mein 55mm Objektiv: https://amzn.to/2Z5ahz8&#10;*Mein 16-35mm Objektiv: https://amzn.to/2Ex3eFV&#10;*Mein Gimbal: https://amzn.to/2MSbXqD&#10;*Meine SD Karten: https://amzn.to/2Mb7fEf&#10;*Mein kleines Mikrofon: https://amzn.to/2Z37G8T&#10;*Mein gro&#223;es Mikrofon: https://amzn.to/2M8ak7T&#10;*Mein Audiointerface: https://amzn.to/36OCLzO&#10;*Mein LED-Panel: https://amzn.to/35Cc55h&#10;&#10;*Die markierten Links sind Affiliate-Links. Wenn Ihr dar&#252;ber etwas kauft, bekomme ich einen kleinen Prozentsatz des Gewinnes ab ohne, dass Ihr daf&#252;r einen Cent mehr bezahlen m&#252;sst :)&#10;&#10;Schnitt &#38; Animationen von Felix: https://www.youtube.com/c/Funf%C3%BCrFelix&#10;&#10;Kontakt: info@tomary.de"
     channeltitle "Tomary"
     channelid "UCzidBg7JPR53EP5B5x65jpA"
@@ -5779,7 +5779,7 @@ graph
     commentcount 1618
     duration "PT15M6S"
     indegree 3
-    cluster 2
+    cluster 14
   ]
   node
   [
@@ -5797,7 +5797,7 @@ graph
     commentcount 5743
     duration "PT19M38S"
     indegree 3
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5805,7 +5805,7 @@ graph
     label "3AOdfAdvDWQ"
     step 0
     date "2021-12-15T16:00:05Z"
-    title "Perche&#768; NON devi creare NFT"
+    title "Perche NON devi creare NFT"
     description "In questo video vediamo perch&#232; NON dovresti creare NFT. &#10;&#10;O almeno non lo dovresti fare prima di aver visto bene tutto questo video. Questo perch&#232; a seconda di quali sono i tuoi obiettivi, creare degli NFT potrebbe essere un grave errore. &#10;&#10;Gli NFT sono un fenomeno che sta sconvolgendo il mondo dell'online e stanno entrando prepotentemente nel mercato italiano (esistono gi&#224; diverse community di NFT in Italia). Ovviamente non per il valore artistico, ma, come sempre, per i soldi che questi progetti si portano dietro.&#10;&#10;Giusto per dare un po' di contesto, in questo video inizieremo col dire cosa sono gli NFT, perch&#232; esistono e come le persone fanno i soldi con gli NFT. Inoltre, vedremo i 3 motivi per cui non ha troppo senso creare NFT e vendere NFT.&#10;&#10;Piccola eccezione: se create degli NFT gratis, senza pretese. Ma questa &#232; un'altra storia.&#10;&#10;Potete creare NFT su Opensea, tramite Crypto.com, tramite Binance o qualsiasi altra piattaforma. Allo stesso modo, potete creare NFT 3D oppure tramite Photoshop: non cambia molto. La tipologia di NFT e le piattaforme come Opensea non fanno marketing al posto vostro, quindi dovete trovare una via alternativa per pubblicizzare i vostri NFT.&#10;&#10;Guarda altri video sugli NFT:&#10;&#10;A cosa servono gli NFT: https://www.youtube.com/watch?v=b61aL7Zv4SY&#10;Provo a fare SOLDI ONLINE con gli NFT: https://www.youtube.com/watch?v=bmGNEg8cc2E&#10;NON COMPRARE NFT prima di aver visto questo video: https://www.youtube.com/watch?v=uWU0GMdwbx0&#10;&#10;Vi consiglio di guardare anche i canali di NFT Times, Aprilynne Alter e Brett Malinovski (da cui ho preso le informazioni e alcune idee per questo video).&#10;&#10;00:00 Introduzione&#10;00:58 Cosa cavolo sono?&#10;02:23 Perch&#232; esistono?&#10;03:23 Come ci fa i soldi la gente?&#10;04:11 3 motivi per cui NON dovresti crearli&#10;10:15 Un suggerimento&#10;&#10;#nft #crearenft #nftitalia&#10;______________________________________&#10;&#10;Videocamera - https://amzn.to/3BIQGay&#10;&#10;Luci - https://amzn.to/3BLU6t1&#10;&#10;Microfono - https://amzn.to/3BKMPJX&#10;&#10;Musica - https://www.epidemicsound.com/referra...&#10;&#10;___________________________&#10;&#10;&#128248; Seguimi su IG (@andreaasche):&#10;https://www.instagram.com/andreaasche/&#10;&#10;&#128249; Dai un'occhiata agli altri video:&#10;https://www.youtube.com/channel/UCkFDBHn7uJkLWPEOnxbNL7A"
     channeltitle "Andrea Aschedamini"
     channelid "UCkFDBHn7uJkLWPEOnxbNL7A"
@@ -5815,7 +5815,7 @@ graph
     commentcount 132
     duration "PT11M44S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5823,7 +5823,7 @@ graph
     label "edMCfFUzA-8"
     step 0
     date "2022-06-28T17:00:20Z"
-    title "ESTOY GANANDO 100$ AL D&#205;A CON ESTE JUEGO NFT RENTABLE | CryptoVHS"
+    title "ESTOY GANANDO 100$ AL DA CON ESTE JUEGO NFT RENTABLE | CryptoVHS"
     description "ESTOY GANANDO 100$ AL D&#205;A CON ESTE JUEGO NFT RENTABLE | CryptoVHS&#10;&#10;&#128165;CryptoVHS: https://bit.ly/CryptoVHS&#10;&#127760;NFT World: https://nftworldnetwork.com&#10;&#128156;Todos los d&#237;as en directo a las 18:00 (hora espa&#241;ola) hablando sobre juegos NFT: https://www.twitch.tv/gonzalodorrego&#10;&#128226;&#218;nete a nuestra comunidad y ent&#233;rate de todas las noticias del mundo de los juegos NFT: https://discord.gg/KbAarHA9Jn&#10;&#128165;CryptoVHS: https://bit.ly/CryptoVHS&#10;&#128248;Perfil de Instagram: https://www.instagram.com/gonzalodorrego_&#10;&#128248;Perfil de Twitter: https://twitter.com/gonzalodorrego&#10;&#11088;&#65039;Mi Canal de Youtube sobre Marketing Digital: https://www.youtube.com/c/GonzaloDorrego&#10;&#11088;&#65039;Mi Canal de Youtube sobre M&#250;sica: https://www.youtube.com/channel/UCMruGeAvkaraAg0KsfsO6jA&#10;&#128229;Correo de Contacto: dorrego@nftworldnetwork.com&#10;&#128229;Correo de Contacto (Departamento de Marketing): carlos@nftworldnetwork.com&#10;&#10;Disclaimer: No soy asesor financiero, por lo que el contenido proporcionado en este canal es de car&#225;cter educativo, basado en mi propia experiencia. Invierte tu dinero de forma responsable.&#10;&#10;ESTOY GANANDO 100$ AL D&#205;A CON ESTE JUEGO NFT RENTABLE | CryptoVHS"
     channeltitle "Dorrego"
     channelid "UCspz8jBjOW1ZDP2GSq2USTA"
@@ -5833,7 +5833,7 @@ graph
     commentcount 58
     duration "PT7M24S"
     indegree 3
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 1187
     duration "PT18M8S"
     indegree 5
-    cluster 2
+    cluster 14
   ]
   node
   [
@@ -5859,7 +5859,7 @@ graph
     label "UMZEvjdh9U4"
     step 0
     date "2022-06-13T16:44:41Z"
-    title "5 &#1042;&#1048;&#1044;&#1054;&#1042; &#1047;&#1040;&#1056;&#1040;&#1041;&#1054;&#1058;&#1050;&#1040; &#1053;&#1040; NFT (&#1054;&#1090; $100-$200.000)"
+    title "5 $100-$200.000)"
     description "&#1052;&#1086;&#1081; &#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1050;&#1072;&#1085;&#1072;&#1083;: https://t.me/+0qk67qJs5TM1ZGFi !&#10;&#1058;&#1099; &#1053;&#1072;&#1081;&#1076;&#1077;&#1096;&#1100; &#1074;&#1089;&#1077; &#1057;&#1089;&#1099;&#1083;&#1082;&#1080; &#1090;&#1072;&#1084; &#10;-----&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1096;&#1080;&#1089;&#1100; &#1080; &#1055;&#1086;&#1089;&#1090;&#1072;&#1074;&#1100; &#1051;&#1072;&#1081;&#1082; !&#10;-----&#10;#nft #bayc #cryptoart #&#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072; #&#1085;&#1092;&#1090; #&#1076;&#1077;&#1085;&#1100;&#1075;&#1080; #&#1082;&#1088;&#1080;&#1087;&#1090;&#1072; #crypto #cryptocurrency #boredape #bitcoin #ethereum #garyvee #brettmalinowski #cryptopunks #&#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1099; #&#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082; #&#1090;&#1088;&#1077;&#1081;&#1076;&#1080;&#1085;&#1075; #trading"
     channeltitle "Crypto &#1063;&#1080;&#1085;&#1072;"
     channelid "UCsIG7m62YUJi_52oAlQ9unQ"
@@ -5869,7 +5869,7 @@ graph
     commentcount 41
     duration "PT14M36S"
     indegree 7
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -5877,7 +5877,7 @@ graph
     label "xxv2YaS2SnU"
     step 0
     date "2021-09-14T23:35:25Z"
-    title "Ten Underrated &#38;amp; Undervalued NFT Projects You Should Know About!"
+    title "Ten Underrated Undervalued NFT Projects You Should Know About!"
     description "In this video we are going to be looking at ten different NFT projects that I feel are underrated, unknown, or undervalued! As always, feel free to leave your NFT project in the comments as each week I will be doing two videos on NFT projects. One video will look at the top 10 most anticipated releases, while the other video will focus on smaller projects that I feel have potential!"
     channeltitle "Hustle Millennial"
     channelid "UCGpp9wYchkePj8J4Xlyyrwg"
@@ -5887,7 +5887,7 @@ graph
     commentcount 319
     duration "PT26M11S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5895,7 +5895,7 @@ graph
     label "I76U9m0EtUY"
     step 0
     date "2022-03-13T14:50:56Z"
-    title "&#1050;&#1072;&#1082; &#1055;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; NFT | &#1054;&#1096;&#1080;&#1073;&#1082;&#1080; &#1053;&#1086;&#1074;&#1080;&#1095;&#1082;&#1086;&#1074; | &#1050;&#1072;&#1082; &#1047;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1053;&#1072; NFT"
+    title " NFT"
     description "#NFT #&#1085;&#1092;&#1090; #&#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072;&#10;&#10;&#1050;&#1091;&#1088;&#1089; Trading NFT &#128526;&#10;&#1053;&#1072;&#1095;&#1085;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1090;&#1100; &#1085;&#1072; &#1087;&#1077;&#1088;&#1077;&#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1077; NFT  https://t.me/nft_coin22_bot&#10;&#10;&#128176;&#1057;&#1089;&#1099;&#1083;&#1082;&#1072; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1091; Binance https://accounts.binance.com/ru/register?ref=RQSDWNJ2&#10;&#128181;&#1056;&#1077;&#1092;&#1077;&#1088;&#1072;&#1083;&#1100;&#1085;&#1099;&#1081; ID  RQSDWNJ2&#10;&#128179;&#1055;&#1086;&#1083;&#1091;&#1095;&#1080; 5% &#1089;&#1082;&#1080;&#1076;&#1082;&#1080; &#1085;&#1072; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1102; Binance&#10;&#10;&#1057;&#1086;&#1079;&#1076;&#1072;&#1083; &#1089;&#1074;&#1086;&#1081; NFT &#1080; &#1077;&#1075;&#1086; &#1074;&#1086;&#1086;&#1073;&#1097;&#1077; &#1085;&#1080;&#1082;&#1090;&#1086; &#1085;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1077;&#1090; &#1080; &#1076;&#1072;&#1078;&#1077; &#1085;&#1077; &#1086;&#1073;&#1088;&#1072;&#1097;&#1072;&#1102;&#1090; &#1085;&#1072; &#1085;&#1077;&#1075;&#1086; &#1074;&#1085;&#1080;&#1084;&#1072;&#1085;&#1080;&#1077;, &#1079;&#1085;&#1072;&#1082;&#1086;&#1084;&#1072; &#1090;&#1072;&#1082;&#1072;&#1103; &#1089;&#1080;&#1090;&#1091;&#1072;&#1094;&#1080;&#1103;, &#1087;&#1086;&#1074;&#1077;&#1088;&#1100; &#1084;&#1085;&#1077; &#1090;&#1099; &#1090;&#1072;&#1082;&#1086;&#1081; &#1085;&#1077; &#1086;&#1076;&#1080;&#1085;. &#10;&#1053;&#1072; &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;&#1088;&#1072;&#1093; YouTube &#1080; &#1080;&#1085;&#1090;&#1077;&#1088;&#1085;&#1077;&#1090;&#1072;, &#1085;&#1077;&#1090; &#1085;&#1077; &#1086;&#1076;&#1085;&#1086;&#1075;&#1086; &#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1103; &#1101;&#1090;&#1086;&#1081; &#1087;&#1088;&#1086;&#1073;&#1083;&#1077;&#1084;&#1099;, &#1072; &#1089;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1091;&#1102;&#1090; &#1083;&#1080;&#1096;&#1100; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1105;&#1085;&#1085;&#1099;&#1077; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1072; &#1080; &#1086;&#1089;&#1085;&#1086;&#1074;&#1099; &#1087;&#1077;&#1088;&#1077;&#1076;&#1077;&#1088;&#1078;&#1080;&#1074;&#1072;&#1103;&#1089;&#1100; &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093; &#1084;&#1086;&#1078;&#1085;&#1086; &#1091;&#1074;&#1077;&#1083;&#1080;&#1095;&#1080;&#1090;&#1100; &#1089;&#1074;&#1086;&#1080; &#1096;&#1072;&#1085;&#1089;&#1099; &#1085;&#1072; &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1091; NFT &#1086; &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093; &#1103; &#1089;&#1086;&#1073;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086; &#1089;&#1077;&#1075;&#1086;&#1076;&#1085;&#1103; &#1080; &#1088;&#1072;&#1089;&#1089;&#1082;&#1072;&#1078;&#1091;.&#10;&#1042; &#1101;&#1090;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086; &#1074;&#1099; &#1091;&#1079;&#1085;&#1072;&#1077;&#1090;&#1077;, &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1085;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1102;&#1090; &#1074;&#1072;&#1096;&#1080; &#1090;&#1086;&#1082;&#1077;&#1085;&#1099;, &#1082;&#1072;&#1082;&#1080;&#1077; NFT &#1085;&#1091;&#1078;&#1085;&#1086; &#1089;&#1086;&#1079;&#1076;&#1072;&#1074;&#1072;&#1090;&#1100; &#1095;&#1090;&#1086; &#1073;&#1099; &#1080;&#1093; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1083;&#1080;, &#1080; &#1082;&#1072;&#1082; &#1074;&#1099;&#1073;&#1088;&#1072;&#1090;&#1100; &#1083;&#1091;&#1095;&#1096;&#1091;&#1102; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1091; &#1076;&#1083;&#1103; &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1080; &#1089;&#1074;&#1086;&#1080;&#1093; NFT.&#128161;&#10;&#1053;&#1072; &#1101;&#1090;&#1086;&#1084; &#1082;&#1072;&#1085;&#1072;&#1083;&#1077; &#1084;&#1085;&#1086;&#1075;&#1086; &#1087;&#1086;&#1083;&#1077;&#1079;&#1085;&#1086;&#1075;&#1086; &#1082;&#1086;&#1085;&#1090;&#1077;&#1085;&#1090;&#1072; &#1086; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1077; &#1090;&#1072;&#1082; &#1095;&#1090;&#1086; &#1087;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1089;&#1103; &#1080; &#1089;&#1084;&#1086;&#1090;&#1088;&#1080; &#1087;&#1088;&#1086;&#1096;&#1083;&#1099;&#1077; &#1088;&#1086;&#1083;&#1080;&#1082;&#1080;. &#128521;&#10;&#10;&#128640;&#1058;&#1072;&#1081;&#1084; &#1082;&#1086;&#1076;&#10;00:00 - &#1053;&#1072;&#1095;&#1072;&#1083;&#1086;&#10;00:40 - NFT CryptoPunks&#10;01:30 - &#1050;&#1072;&#1082; 90% &#1055;&#1088;&#1086;&#1076;&#1072;&#1102;&#1090; &#1089;&#1074;&#1086;&#1080; NFT &#10;01:50 - &#1055;&#1086;&#1095;&#1077;&#1084;&#1091; &#1074;&#1072;&#1096;&#1080;  NFT &#1085;&#1077; &#1082;&#1090;&#1086; &#1085;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1077;&#1090; &#10;03:05 - &#1063;&#1090;&#1086; &#1085;&#1091;&#1078;&#1085;&#1086; &#1095;&#1090;&#1086; &#1073;&#1099; &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1080; NFT&#10;04:00 - &#1055;&#1086;&#1083;&#1077;&#1079;&#1085;&#1099;&#1077; &#1089;&#1089;&#1099;&#1083;&#1082;&#1080; &#1076;&#1083;&#1103; &#1093;&#1091;&#1076;&#1086;&#1078;&#1085;&#1080;&#1082;&#1086;&#1074;&#10;05:05 - &#1043;&#1076;&#1077; &#1074;&#1099;&#1082;&#1083;&#1072;&#1076;&#1099;&#1074;&#1072;&#1090;&#1100; NFT&#10;06:40 - Binance NFT&#10;07:00 - Solsea &#1090;&#1086;&#1087; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1072; &#1076;&#1083;&#1103; &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1080; NFT &#10;07:30 - &#1050;&#1072;&#1082;&#1091;&#1102; &#1094;&#1077;&#1085;&#1091; &#1074;&#1099;&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1100; &#1079;&#1072; &#1089;&#1074;&#1086;&#1080;  NFT&#10;07:52 - &#1048;&#1090;&#1086;&#1075; &#10;08:20 - &#1057;&#1087;&#1072;&#1089;&#1080;&#1073;&#1086; &#1079;&#1072; &#1087;&#1088;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088; &#10;&#10;Solsea - https://solsea.io/&#10;Twitter - https://coffeebros.com/blog/the-15-biggest-nft-influencers-on-twitter-and-youtube/&#10;Discord - https://disboard.org/ru/servers/tag/nft&#10;&#10;&#10;&#128312;&#1055;&#1086;&#1095;&#1090;&#1072; &#1076;&#1083;&#1103; &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1072;: companycoin22@gmail.com&#10;&#128312;Telegram &#1076;&#1083;&#1103; &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1072;: ad_coin22"
     channeltitle "COIN 22"
     channelid "UCY-u-P8XtM5_UopBsHDOK5w"
@@ -5905,7 +5905,7 @@ graph
     commentcount 99
     duration "PT8M48S"
     indegree 20
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -5913,7 +5913,7 @@ graph
     label "UbOBJPNiYNQ"
     step 0
     date "2022-02-13T09:49:01Z"
-    title "&#1050;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1081; NFT &#1079;&#1072; 8 &#1084;&#1080;&#1085;. &#1080; &#1047;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; 1000$ !!!"
+    title " 1000$ !!!"
     description "&#9732;&#65039;&#1055;&#1054;&#1050;&#1059;&#1055;&#1040;&#1049; &#1050;&#1056;&#1048;&#1055;&#1058;&#1059; &#1058;&#1059;&#1058;: &#10;&#10;&#128640;OKEX - https://www.okex.com/join/8463710&#10;&#10;&#11088;&#65039;BINANCE - https://accounts.binance.com/ru/register?ref=KUTJHCJ7&#10;&#10;&#10084;&#65039;&#1052;&#1086;&#1081; instagram - https://www.instagram.com/whois.silvasik/?hl=ru&#10;&#10;-----------------------------------------------------------------------------------------&#10;&#10;NFT  &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1091; &#1084;&#1085;&#1086;&#1075;&#1080;&#1093; &#1085;&#1072; &#1089;&#1083;&#1091;&#1093;&#1091;. &#1053;&#1072;&#1074;&#1077;&#1088;&#1085;&#1103;&#1082;&#1072; &#1074;&#1099; &#1089;&#1083;&#1099;&#1096;&#1072;&#1083;&#1080;, &#1095;&#1090;&#1086; &#1089;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090; &#1090;&#1072;&#1082;&#1086;&#1077; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1077;, &#1082;&#1072;&#1082; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1072;&#1088;&#1090;. &#1053;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1094;&#1080;&#1092;&#1088;&#1086;&#1074;&#1099;&#1077; &#1093;&#1091;&#1076;&#1086;&#1078;&#1085;&#1080;&#1082;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1102;&#1090; &#1089; &#1087;&#1086;&#1084;&#1086;&#1097;&#1100;&#1102; NFT &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1099; &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074;, &#1085;&#1086; &#1082;&#1072;&#1082; &#1078;&#1077; &#1085;&#1072;&#1084;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084; &#1083;&#1102;&#1076;&#1103;&#1084; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT?&#10;&#10;&#1042; &#1101;&#1090;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086; &#1103; &#1087;&#1086;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102; &#1087;&#1086;&#1096;&#1072;&#1075;&#1086;&#1074;&#1086;, &#1082;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1081; NFT &#1085;&#1072; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1077; OpenSea &#1080; &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; &#1085;&#1092;&#1090; &#1090;&#1086;&#1082;&#1077;&#1085;&#1072;&#1093;. &#1042;&#1099; &#1091;&#1074;&#1080;&#1076;&#1080;&#1090;&#1077;, &#1082;&#1072;&#1082; &#1088;&#1072;&#1079;&#1084;&#1077;&#1089;&#1090;&#1080;&#1090;&#1100; NFT &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1091; &#1085;&#1072; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1087;&#1083;&#1077;&#1081;&#1089;&#1077; OpenSea &#1074; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080;. &#10;&#10;&#1054; nft &#1075;&#1080;&#1092;&#1082;&#1077;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1091;&#1102; &#1087;&#1088;&#1086;&#1076;&#1072;&#1083;&#1080; &#1079;&#1072; $600 &#1090;&#1080;&#1089;. &#1058;&#1072;&#1082;&#1078;&#1077; &#1084;&#1099; &#1085;&#1077;&#1084;&#1085;&#1086;&#1075;&#1086; &#1087;&#1088;&#1086;&#1073;&#1077;&#1078;&#1080;&#1084; &#1087;&#1086; &#1090;&#1077;&#1086;&#1088;&#1080;&#1080; NFT, &#1095;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; nft &#1090;&#1086;&#1082;&#1077;&#1085;&#1099;. &#1042;&#1099; &#1091;&#1079;&#1085;&#1072;&#1077;&#1090;&#1077;, &#1095;&#1090;&#1086; &#1080;&#1084;&#1077;&#1085;&#1085;&#1086; &#1074;&#1072;&#1084; &#1085;&#1091;&#1078;&#1085;&#1086; &#1076;&#1083;&#1103; &#1090;&#1086;&#1075;&#1086; &#1095;&#1090;&#1086;&#1073;&#1099; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1081; NFT &#1080; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1102; nft. &#10;&#1055;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084;&#1080; &#1089;&#1083;&#1086;&#1074;&#1072;&#1084;&#1080; &#1084;&#1099; &#1086;&#1073;&#1098;&#1103;&#1089;&#1085;&#1080;&#1084; &#1074;&#1072;&#1084;, &#1082;&#1072;&#1082; &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1081; NFT &#1085;&#1072; OpenSea.&#10;&#1056;&#1072;&#1089;&#1089;&#1084;&#1086;&#1090;&#1088;&#1080;&#1084; &#1085;&#1077;&#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1086;&#1074; &#1087;&#1088;&#1086;&#1076;&#1072;&#1078; nft&#10;&#1053;&#1091; &#1080; &#1074; &#1082;&#1086;&#1085;&#1094;&#1077; &#1084;&#1099; &#1088;&#1072;&#1089;&#1089;&#1082;&#1072;&#1078;&#1077;&#1084; &#1085;&#1077;&#1084;&#1085;&#1086;&#1075;&#1086; &#1086;&#1073; NFT, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1084;&#1099; &#1089;&#1086;&#1079;&#1076;&#1072;&#1083;&#1080; &#1074; &#1088;&#1072;&#1084;&#1082;&#1072;&#1093; &#1089;&#1086;&#1079;&#1076;&#1072;&#1085;&#1080;&#1077; &#1101;&#1090;&#1086;&#1075;&#1086; &#1074;&#1080;&#1076;&#1077;&#1086;. &#1055;&#1086;&#1077;&#1093;&#1072;&#1083;&#1080; &#128293;"
     channeltitle "Silvan - &#1048;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1094;&#1080;&#1080;"
     channelid "UCwpegrpIgXzPxX962PwKH4w"
@@ -5923,7 +5923,7 @@ graph
     commentcount 131
     duration "PT8M3S"
     indegree 11
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -5941,7 +5941,7 @@ graph
     commentcount 199
     duration "PT21M12S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5967,7 +5967,7 @@ graph
     label "XxKha-oN_u8"
     step 0
     date "2022-01-27T04:00:06Z"
-    title "&#1053;&#1077; &#1087;&#1086;&#1082;&#1091;&#1087;&#1072;&#1081; NFT!"
+    title " NFT!"
     description "https://t.me/angryzaycman - &#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1082;&#1072;&#1085;&#1072;&#1083; &#34;&#1047;&#1083;&#1086;&#1081; &#1047;&#1072;&#1081;&#1094;&#1084;&#1072;&#1085;&#34; &#1075;&#1076;&#1077; &#1103; &#1087;&#1091;&#1073;&#1083;&#1080;&#1082;&#1091;&#1102; &#1084;&#1072;&#1090;&#1077;&#1088;&#1080;&#1072;&#1083;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081; &#1085;&#1077; &#1084;&#1086;&#1075;&#1091; &#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1080;&#1090;&#1100; &#1089;&#1077;&#1073;&#1077; &#1079;&#1072;&#1083;&#1080;&#1074;&#1072;&#1090;&#1100; &#1085;&#1072; &#1102;&#1090;&#1091;&#1073;&#10;&#10;&#1042;&#1099;&#1073;&#1080;&#1088;&#1072;&#1103; &#1084;&#1077;&#1078;&#1076;&#1091; NFT &#1080;&#1075;&#1088;&#1072;&#1084;&#1080; &#1080; NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#1072;&#1084;&#1080;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1087;&#1088;&#1080;&#1074;&#1103;&#1079;&#1072;&#1085;&#1099; &#1082; &#1087;&#1086;&#1087;&#1091;&#1083;&#1103;&#1088;&#1085;&#1099;&#1084; &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1072;&#1084;, &#1080;&#1085;&#1074;&#1077;&#1089;&#1090;&#1086;&#1088;&#1099; &#1085;&#1077; &#1087;&#1086;&#1085;&#1080;&#1084;&#1072;&#1102;&#1090; &#1086;&#1087;&#1072;&#1089;&#1085;&#1086;&#1089;&#1090;&#1100; &#1087;&#1086;&#1082;&#1091;&#1087;&#1082;&#1080; NFT. &#1045;&#1089;&#1083;&#1080; &#1074; &#1087;&#1088;&#1086;&#1096;&#1083;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086;, &#1084;&#1099; &#1088;&#1072;&#1079;&#1086;&#1073;&#1088;&#1072;&#1083;&#1080; &#1089; &#1090;&#1086;&#1073;&#1086;&#1081; &#34;&#1082;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; NFT?&#34; &#1080; &#34;&#1050;&#1072;&#1082; &#1087;&#1088;&#1086;&#1076;&#1072;&#1090;&#1100; NFT?&#34; &#1058;&#1086; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1084;&#1099; &#1088;&#1072;&#1079;&#1073;&#1077;&#1088;&#1077;&#1084; &#1082;&#1072;&#1082;&#1080;&#1077; &#1086;&#1087;&#1072;&#1089;&#1085;&#1086;&#1089;&#1090;&#1080; &#1077;&#1089;&#1090;&#1100; &#1074; NFT &#1080;&#1089;&#1082;&#1091;&#1089;&#1089;&#1090;&#1074;&#1077;? &#1047;&#1085;&#1072;&#1084;&#1077;&#1085;&#1080;&#1090;&#1099;&#1077; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1080; &#1074;&#1088;&#1086;&#1076;&#1077; Binance &#1080; opensea, &#1073;&#1091;&#1076;&#1091;&#1090; &#1075;&#1086;&#1074;&#1086;&#1088;&#1080;&#1090;&#1100; &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT, &#1074;&#1077;&#1076;&#1100; &#1080;&#1084; &#1074;&#1099;&#1075;&#1086;&#1076;&#1085;&#1086; &#1088;&#1072;&#1079;&#1074;&#1080;&#1074;&#1072;&#1090;&#1100; &#1088;&#1099;&#1085;&#1086;&#1082; NFT. &#1056;&#1072;&#1089;&#1089;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1103; &#1087;&#1088;&#1086; &#1089;&#1072;&#1084;&#1099;&#1077; &#1076;&#1086;&#1088;&#1086;&#1075;&#1080;&#1077; NFT, &#1086;&#1085;&#1080; &#1085;&#1077; &#1076;&#1086;&#1075;&#1086;&#1074;&#1072;&#1088;&#1080;&#1074;&#1072;&#1102;&#1090; &#1087;&#1088;&#1072;&#1074;&#1076;&#1091;. &#1048; &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1084;&#1085;&#1086;&#1075;&#1080;&#1084; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1072;&#1084; &#1074;&#1099;&#1075;&#1086;&#1076;&#1085;&#1086;, &#1088;&#1072;&#1079;&#1099;&#1075;&#1088;&#1099;&#1074;&#1072;&#1090;&#1100; NFT &#1073;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1086; &#1080;&#1083;&#1080; &#1088;&#1072;&#1089;&#1089;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1103; &#1087;&#1088;&#1086; NFT &#1073;&#1077;&#1079; &#1074;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1081;. &#10;&#10;&#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084;-&#1082;&#1072;&#1085;&#1072;&#1083;: https://t.me/Habit2Reap&#10;&#1048;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084;: https://www.instagram.com/ramyzaycman&#10;&#10;&#1053;&#1072;&#1074;&#1080;&#1075;&#1072;&#1094;&#1080;&#1103; &#1087;&#1086; &#1074;&#1099;&#1087;&#1091;&#1089;&#1082;&#1091;: &#10;00:00 - &#1063;&#1077;&#1084; &#1086;&#1087;&#1072;&#1089;&#1085;&#1099; NFT?&#10;01:19 - &#1042; &#1095;&#1077;&#1084; &#1094;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1100; NFT? &#10;06:52 - &#1050;&#1072;&#1082; &#1084;&#1086;&#1078;&#1085;&#1086; &#1087;&#1086;&#1090;&#1077;&#1088;&#1103;&#1090;&#1100; &#1074;&#1089;&#1077; &#1076;&#1077;&#1085;&#1100;&#1075;&#1080; &#1074;&#1083;&#1086;&#1078;&#1077;&#1085;&#1085;&#1099;&#1077; &#1074; NFT? &#10;12:14 - &#1056;&#1077;&#1079;&#1102;&#1084;&#1077;&#10;&#10;&#1043;&#1088;&#1072;&#1084;&#1086;&#1090;&#1085;&#1086;&#1077; &#1091;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; zaycman.ru&#10;&#1050;&#1086;&#1084;&#1084;&#1077;&#1088;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077; &#1087;&#1088;&#1077;&#1076;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1103; commercial@zaycman.ru&#10;&#10;#NFT #NFT&#1054;&#1073;&#1084;&#1072;&#1085; #NFT&#1057;&#1082;&#1072;&#1084;"
     channeltitle "Ramy Zaycman"
     channelid "UCVMd5hFLKj-gNx4SSl9GBKg"
@@ -5977,7 +5977,7 @@ graph
     commentcount 846
     duration "PT14M29S"
     indegree 2
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -5985,7 +5985,7 @@ graph
     label "7wDTTaQM_SY"
     step 0
     date "2022-01-27T05:32:31Z"
-    title "YouTube le regala un NFT a Dross || Dross enojado habla de &#38;quot;Willyrex&#38;quot; y los NFT"
+    title "YouTube le regala un NFT a Dross || Dross enojado habla de y los NFT"
     description "SUSCR&#205;BETE amigo. &#10;espero que te guste el video. &#10;&#10;#auron #dross #twitch &#10;&#10;&#10;&#10;&#10;&#10;&#10;Sigan a Dross en Twitch: &#10;https://www.twitch.tv/thedrossrotzank"
     channeltitle "W1LS0N YT"
     channelid "UCH_VpRn-pO-Q23JXrwJ2Z-A"
@@ -5995,7 +5995,7 @@ graph
     commentcount 594
     duration "PT4M45S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6003,7 +6003,7 @@ graph
     label "5CFDCTo0bLI"
     step 0
     date "2021-03-20T20:39:49Z"
-    title "Qu&#233; es un NFT | Casi Creativo"
+    title "Qu es un NFT | Casi Creativo"
     description "Compra y venta de arte digital. C&#243;mo se vendi&#243; una pieza de arte digital por $69 millones de d&#243;lares. &#191;Qu&#233; son los NFT?&#10;Casi Creativo, canal de v&#237;deos animados, algunos entretenidos otros interesantes.&#10;V&#237;deo nuevo cada semana. Like, comenta y comparte! &#10;Gracias por suscribirte!&#10;M&#250;sica, tutoriales, camisetas y m&#225;s:&#10;http://www.casicreativo.com"
     channeltitle "Fred Lammie"
     channelid "UCrueQugJZKCPQUpnAb1LxIg"
@@ -6013,7 +6013,7 @@ graph
     commentcount 3035
     duration "PT3M3S"
     indegree 25
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6021,7 +6021,7 @@ graph
     label "eIilwLhc0C0"
     step 0
     date "2021-11-11T13:28:38Z"
-    title "Bluemoon - The World&#8217;s First Collaborative NFT Marketplace With An Integrated Metaverse!"
+    title "Bluemoon - The Worlds First Collaborative NFT Marketplace With An Integrated Metaverse!"
     description "Bluemoon is the first collaborative NFT Marketplace with an integrated Metaverse.&#10;&#10;NFT &#38; VR technology is an opportunity to revolutionise the digital world and the Bluemoon platform is a tool for these changes.&#10;&#10;&#9889; Legion Network is the first super blockchain ecosystem that combines the best services in the industry in one Super App. &#10;&#10;From Crypto wallets to NFTs, all the way to Gaming and Software as a service.&#10;&#10;&#9854; Legion Network Explainer Video:&#10;https://youtu.be/e9Ue_lOpbLk&#10;&#10; Our official channels:&#10;&#10;&#127757; Website: https://www.legionnetwork.io &#10;&#10;&#128172; Telegram Group: https://t.me/LegionNetworkCommunity&#10;&#10;&#128488; Telegram Channel: https://t.me/LegionNetworkOfficial&#10;&#10;&#128142; Twitter: https://twitter.com/LegionNetwork__&#10;&#10;&#128248; Legion Network Instagram: https://www.instagram.com/legionnetwork.io&#10;&#10;&#128309; Bluemoon Instagram: https://www.instagram.com/bluemoon.inc&#10;&#10;&#129302; Reddit Page: https://www.reddit.com/r/legionnetwork_io&#10;&#10;&#128421; Medium : https://legionnetwork.medium.com&#10;&#10;&#9889;&#65039; Contract address:&#10;https://bscscan.com/token/0x9096b4309224d751fcb43d7eb178dcffc122ad15"
     channeltitle "Legion Network"
     channelid "UCynFmM09CqE5rmzlzOB1UNQ"
@@ -6031,7 +6031,7 @@ graph
     commentcount 22636
     duration "PT2M35S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -6039,7 +6039,7 @@ graph
     label "OCcaJm9Ngug"
     step 0
     date "2022-07-11T16:00:24Z"
-    title "NFT &#1073;&#1077;&#1079; &#1074;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1081;, &#1090;&#1077;&#1089;&#1090;&#1085;&#1077;&#1090;&#1099; &#1074; &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093; &#1091;&#1095;&#1072;&#1089;&#1090;&#1074;&#1091;&#1102;"
+    title "NFT "
     description "NFT &#1073;&#1077;&#1079; &#1074;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1081;, &#1086;&#1093;&#1086;&#1090;&#1080;&#1084;&#1089;&#1103; &#1079;&#1072; NFT &#1080;&#1085;&#1090;&#1077;&#1088;&#1077;&#1089;&#1085;&#1099;&#1093; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1086;&#1074;. &#1048;&#1085;&#1090;&#1077;&#1088;&#1077;&#1089;&#1085;&#1099;&#1077; &#1090;&#1077;&#1089;&#1090;&#1085;&#1077;&#1090;&#1099; &#1074; &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093; &#1091;&#1095;&#1072;&#1089;&#1090;&#1074;&#1091;&#1102;.&#10;Iguverse - https://wn.nr/fnHHX4&#10;https://airdrop.p12.games/?code=zA_D__nT&#10;https://galaxy.eco/campaigns/&#10;Starknet:&#10;StarkGate: https://teletype.in/@whitelist1/StarkGateTestnet&#10;Magnety: https://teletype.in/@idoresearch/magnety&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; OKX &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 30% &#1085;&#1072; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1099;&#1077; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080; - https://www.okx.com/join/15567070&#10;&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100; &#1085;&#1072; &#1085;&#1072;&#1096; &#1082;&#1072;&#1085;&#1072;&#1083; &#1074; &#1090;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084;&#1077;&#10;https://t.me/cryptomoney_chanel&#10;&#10;&#1045;&#1089;&#1083;&#1080; &#1091; &#1074;&#1072;&#1089; &#1077;&#1089;&#1090;&#1100; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1099;, &#1079;&#1072;&#1076;&#1072;&#1074;&#1072;&#1081;&#1090;&#1077; &#1080;&#1093; &#1074; &#1085;&#1072;&#1096;&#1077;&#1084; Telegram &#1095;&#1072;&#1090;&#1077;: https://t.me/joinchat/n1sOIbIgAsI4ZWY9&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; Binance &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 10% &#1085;&#1072; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1102; - https://accounts.binance.com/ru/register?ref=DR2SD5B7&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; Binance Futures &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 10% &#1085;&#1072; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1102; - https://www.binance.com/en/futures/ref/52158184&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; FTX &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; &#1085;&#1072; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1099;&#1077; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080;&#10;https://ftx.com/#a=4812858 &#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; Gate &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 20% &#1085;&#1072; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1099;&#1077; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080;&#10;https://www.gate.io/ref/3331789&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; Kucoin&#10;https://www.kucoin.com/ucenter/signup?rcode=7JKah8&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1074; Advcash&#10;http://wallet.advcash.com/referral/226dfbb7-3606-4a71-a467-89705be915d9&#10;&#10;&#1050;&#1091;&#1087;&#1080;&#1090;&#1100; &#1093;&#1086;&#1083;&#1086;&#1076;&#1085;&#1099;&#1081; &#1082;&#1086;&#1096;&#1077;&#1083;&#1105;&#1082; SafePal S1 &#1085;&#1072; &#1086;&#1092;&#1080;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1089;&#1072;&#1081;&#1090;&#1077; - &#10;https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=cryptomoney2&#10;&#10;&#1050;&#1091;&#1087;&#1080;&#1090;&#1100; Ledger Nano X &#1085;&#1072; &#1086;&#1092;&#1080;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1089;&#1072;&#1081;&#1090;&#1077;&#10;https://shop.ledger.com/pages/ledger-nano-x?r=88cd02fa20fe&#10;&#10;&#1050;&#1091;&#1087;&#1080;&#1090;&#1100; Ledger Nano S &#1085;&#1072; &#1086;&#1092;&#1080;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1089;&#1072;&#1081;&#1090;&#1077;&#10;https://shop.ledger.com/products/ledger-nano-s?r=88cd02fa20fe&#10;&#10;&#1055;&#1086; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1072;&#1084; &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1072;: &#10;crypto.money.0013@gmail.com&#10;&#10;&#1042;&#1080;&#1076;&#1077;&#1086; &#1089;&#1076;&#1077;&#1083;&#1072;&#1085;&#1086; &#1074; &#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1077; Movavi - &#1089;&#1089;&#1099;&#1083;&#1082;&#1072; https://cutt.ly/jjk9Nxl"
     channeltitle "Crypto Money"
     channelid "UCE5vamtZ4K8hqZpXUtqn61g"
@@ -6049,7 +6049,7 @@ graph
     commentcount 4
     duration "PT5M41S"
     indegree 0
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 828
     duration "PT4M14S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6075,7 +6075,7 @@ graph
     label "bfNqgal5juA"
     step 0
     date "2021-12-03T15:33:21Z"
-    title "5 MANI&#200;RES DE GAGNER DE L&#38;#39;ARGENT AVEC LES NFT"
+    title "5 MANIARGENT AVEC LES NFT"
     description "&#10140; Cr&#233;er votre compte Binance pour commencer &#224; investir en cryptomonnaies: https://bit.ly/BinanceYomi&#10;&#10140; Nouvelle Formation gratuite (2022): https://go.yomidenzel.com/formationgratuite  &#10;&#10140; Profitez d&#8217;une p&#233;riode d&#8217;essai gratuite de 14 jours sur Shopify: https://shopify.pxf.io/Yomi&#10;&#10;Dans cette vid&#233;o, je vous explique diff&#233;rentes mani&#232;res de gagner de l&#8217;argent gr&#226;ce aux NFTs. De la cr&#233;ation de sa propre collection &#224; l&#8217;investissement long terme dans les Blue Chip en passant par le flip et le mint, vous saurez tout des bonnes pratiques pour g&#233;n&#233;rer de l&#8217;argent dans ce nouvel univers. Mais ce n&#8217;est pas tout, je vous mets aussi en garde contre les arnaques les plus courantes de ce milieu.&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;MON INSTA &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10; &#10140; Mon Instagram : @YomiDenzel (FAQ, concours et contenu exclusif)&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644; MES MEILLEURES VIDEOS &#9644;&#9644;&#9644;&#9644;&#9644;&#10; &#10140; S&#8217;abonner &#224; la cha&#238;ne: https://www.youtube.com/channel/UChgE6R4QauGAJAlYiJOcCGw?sub_confirmation=1 &#128640;&#10;&#10140; Pourquoi J'ai Arr&#234;t&#233; le Dropshipping: https://www.youtube.com/watch?v=bk6skjgvbqA&#10;&#10140; VLOG: La Vie De Milliardaire &#224; Dubai: https://www.youtube.com/watch?v=-lMcfoniZ04&#10;&#10140; J'Offre une Tesla &#224; ma M&#232;re: https://youtu.be/jw2hiFWabuM&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; MA FORMATION&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10140; Ecom Pro: https://www.yomidenzel.com/ecompro/&#10;&#10;Me contacter: contact@yomidenzel.com"
     channeltitle "Yomi Denzel"
     channelid "UChgE6R4QauGAJAlYiJOcCGw"
@@ -6085,7 +6085,7 @@ graph
     commentcount 259
     duration "PT13M"
     indegree 7
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6103,7 +6103,7 @@ graph
     commentcount 20
     duration "PT1M49S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -6111,7 +6111,7 @@ graph
     label "jE10-Jm92Hk"
     step 0
     date "2022-04-25T16:00:24Z"
-    title "NFT : l&#8217;histoire derri&#232;re les &#8220;Bored Apes&#8221;"
+    title "NFT : l"
     description "C&#8217;est l&#8217;histoire de singes un peu particuliers qui ont contribu&#233; &#224; populariser les NFT...&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212; &#10;&#9654;&#65038; Retrouvez la vid&#233;o sur le site de Brut https://www.brut.media/fr/economy/nft-l-histoire-derriere-les-bored-apes--87307d11-475d-4699-ac35-8f40dae78023&#10;&#9654; &#128242; sur l&#8217;appli Brut (iOS) : https://apple.co/2UY7gNH &#10;&#9654; &#128242; sur l&#8217;appli Brut (Android) : https://play.google.com/store/apps/details?id=media.brut.brut &#10;&#128073; Abonnez-vous &#224; la newsletter myBrut : https://bit.ly/2JhQ5pP&#10;&#9654; Pour ne rien louper des vid&#233;os Brut, n&#8217;h&#233;sitez pas &#224; vous abonner &#10142; https://www.youtube.com/channel/UCSKdvgqdnj72_SLggp7BDTg/?sub_confirmation=1 et &#224; activer la cloche &#128276;"
     channeltitle "Brut"
     channelid "UCSKdvgqdnj72_SLggp7BDTg"
@@ -6121,7 +6121,7 @@ graph
     commentcount 215
     duration "PT4M51S"
     indegree 5
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6129,7 +6129,7 @@ graph
     label "Z4adfaLxOVk"
     step 0
     date "2022-06-04T04:00:22Z"
-    title "NFT&#47196; &#38;#39;&#51116;&#54217;&#44032;&#38;#39; &#44592;&#45824;&#46104;&#45716; &#44592;&#50629;&#46308;&#65372;&#44608;&#49849;&#51452; &#44368;&#49688; 2&#48512;"
+    title "NFT"
     description "&#9654;&#46020;&#49436; 'NFT &#52488;&#48372;&#51088;&#44032; &#44032;&#51109; &#50508;&#44256; &#49910;&#51008; &#52572;&#45796;&#51656;&#47928; TOP 50' &#44396;&#47588; &#47553;&#53356;&#10;: https://bit.ly/3xe4KJe&#10;&#9654;&#50976;&#53916;&#48652; &#52292;&#45328; 'Amhoin TV' &#48148;&#47196;&#44032;&#44592;&#10;: https://www.youtube.com/seungjookim&#10;&#10;00:00 &#53944;&#50948;&#53552;, &#51064;&#49828;&#53440;&#44536;&#47016;&#51060; NFT&#47484; &#46020;&#51077;&#54616;&#45716; &#51060;&#50976;&#10;05:14 &#51060; &#44592;&#50629;&#51008; NFT&#47196; &#45216;&#44060;&#47484; &#45804;&#44172; &#46112; &#44161;&#45768;&#45796;&#10;09:10 NFT&#47196; &#51060;&#44163;&#44620;&#51648; &#44032;&#45733;&#54633;&#45768;&#45796;&#10;11:47 NFT &#46412;&#47928;&#50640; &#44032;&#44201;&#51060; &#50732;&#46972;&#44032;&#45716; &#44592;&#50629;&#10;15:11 NFT&#47196; &#49828;&#54252;&#52768;&#52852;&#47484; &#49324;&#47732; &#47952;&#44032; &#51339;&#51012;&#44620;?&#10;16:42 P2E, &#44172;&#51076;&#54924;&#49324;&#50640; &#54840;&#51116;? &#45796;&#49884; &#49373;&#44033;&#54644;&#48372;&#49492;&#50556; &#54633;&#45768;&#45796;&#10;&#10;#NFT #BAYC #P2E &#10;&#10;&#9654;&#65039; &#49324;&#51060;&#45796;&#44221;&#51228; New &#49436;&#48708;&#49828; &#127775; '&#49884;&#44536;&#45328;' (7&#51068; &#54620;&#51221; &#45236;&#50857; &#48372;&#44592;): https://signal.cidermics.com/event/4tusi/earlybird?utm_source=contents&#38;utm_medium=banner"
     channeltitle "&#45804;&#46976;&#53944;&#53804;&#51088;"
     channelid "UCBM86JVoHLqg9irpR2XKvGw"
@@ -6139,7 +6139,7 @@ graph
     commentcount 6
     duration "PT21M27S"
     indegree 6
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -6147,7 +6147,7 @@ graph
     label "YuQCNNhnehA"
     step 0
     date "2022-03-30T10:30:07Z"
-    title "NFT&#26159;&#20805;&#28415;&#28507;&#21147;&#30340;&#26032;&#25216;&#34899;&#65292;&#36996;&#26159;&#19968;&#22580;&#39449;&#23616;? &#25105;&#23565;&#36817;&#26399;NFT&#24066;&#22580;&#30340;&#19968;&#20123;&#30475;&#27861;..."
+    title "NFT..."
     description "&#36319;&#22823;&#23478;&#32842;&#32842;&#26368;&#36817;&#22312;NFT&#24066;&#22580;&#30475;&#21040;&#30340;&#19968;&#20123;&#29694;&#35937;&#65292;&#22823;&#23478;&#19979;&#25163;&#20043;&#21069;&#19968;&#23450;&#35201;&#35641;&#24910;&#21834;!&#10;CoolWallet Pro&#29694;&#22312;&#26032;&#22686;&#20102;NFT&#21151;&#33021;&#65292;&#25972;&#21512;&#36914;OpenSea&#21644;Rarible&#20841;&#22823;NFT&#20132;&#26131;&#25152;&#65292;&#35731;&#20320;&#21487;&#20197;&#20445;&#35703;&#21152;&#23494;&#36008;&#24163;&#36039;&#29986;&#33287;NFT&#30340;&#23433;&#20840;! &#23601;&#31639;&#38651;&#33126;&#34987;&#39405;&#20063;&#19981;&#29992;&#25812;&#24515;&#37666;&#21253;&#34987;&#30428;~&#10;&#24163;&#22280;&#34892;&#36208;&#24517;&#20633;&#31070;&#22120;&#21834;! &#24555;&#40670;&#19979;&#38754;&#36899;&#32080;&#21435;&#30475;&#30475;!&#10;https://www.coolwallet.io/zh-hant/product/coolwallet-pro/?ref=chuchushoe     &#10;#&#20919;&#37666;&#21253;&#10;#&#21152;&#23494;&#36008;&#24163;&#10;#NFT&#10;&#65290;&#26412;&#24433;&#29255;&#20839;&#23481;&#19981;&#27083;&#25104;&#20219;&#20309;&#25237;&#36039;&#24314;&#35696;&#65292;&#25237;&#36039;&#21069;&#25033;&#20808;&#20102;&#35299;&#30456;&#38364;&#39080;&#38570;&#10;&#21886;&#38899;&#22909;&#26360; &#9654; https://reurl.cc/NX5ED5&#10;&#21886;&#21886;&#38795;&#25972;&#29702;&#36039;&#26009;&#30340;&#31192;&#35363; &#9654; https://bit.ly/2vi0urX&#10;&#10;&#9660;&#21886;&#21886;&#38795;&#30340;&#20154;&#27683;&#24433;&#29255;&#9660;&#10;&#12298;32&#34903;&#30340;&#20605;&#37396;&#22825;&#25165;&#12299;&#20605;&#37396;&#22823;&#24107;&#30340;&#25925;&#20107;&#10;https://youtu.be/9lKe9irDIDw&#10;Chrome&#23567;&#24656;&#40845;&#30340;&#31192;&#23494;!&#10;https://youtu.be/besQJCZ20j4&#10;&#22312;&#36335;&#19978;&#25791;&#21040;&#38568;&#36523;&#30879;&#65292;&#20320;&#26371;...?&#10;https://bit.ly/2ytI7E5&#10;&#20420;&#32645;&#26031;&#26041;&#22602;&#20063;&#26377;&#19990;&#30028;&#20896;&#36557;!?&#10;https://youtu.be/Dh9VaezvVnU&#10;YouTube&#30340;&#33258;&#21205;&#25773;&#25918;&#21151;&#33021;&#65292;&#25773;&#21040;&#26368;&#24460;&#26371;&#30475;&#21040;&#20160;&#40636;&#21602;?&#10;https://youtu.be/HMxT-MCRmh4&#10;&#29275;&#25490;&#30340;&#34880;&#27700;&#19981;&#26159;&#34880;!&#10;https://youtu.be/-7GjvnJ2PO0&#10;&#10;&#10;&#10;&#31881;&#32114;&#23560;&#38913;:https://www.facebook.com/chuchushoeTW&#10;Instagram:http://instagram.com/chuchushoetw&#10;Twitter:https://twitter.com/chuchushoeTW"
     channeltitle "&#21886;&#21886;&#38795;"
     channelid "UCIF_gt4BfsWyM_2GOcKXyEQ"
@@ -6157,7 +6157,7 @@ graph
     commentcount 596
     duration "PT10M1S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6165,7 +6165,7 @@ graph
     label "L0kT6JsiusE"
     step 0
     date "2021-10-04T13:59:05Z"
-    title "Ce este un NFT &#537;i cum faci bani cu ele?!"
+    title "Ce este un NFT i cum faci bani cu ele?!"
     description "NOTORIUS BUSINESS CLASS Modulul 1 GRATUIT: https://www.notorius.ro/&#10;&#10;6 ebook-uri de educa&#539;ie financiar&#259; cu 40% reducere: https://www.notorius.ro/&#10;&#10;&#206;ncepe s&#259; investe&#537;ti pe Maiar! Creeaz&#259; un cont aici:&#10;https://get.maiar.com/referral/36hrvuft12&#10;&#10;Cartea &#34;STANDARDUL BITCOIN&#34;: https://standardulbitcoin.ro/&#10;FOLOESESTE CODUL &#34;NOTORIUS&#34;&#10;&#10;Intr&#259; pe JOIN &#537;i descoper&#259; toate beneficiile: https://www.youtube.com/channel/UCjFCzjkgSShdRZIVJx3SSlQ/join&#10;&#10;M&#259; g&#259;se&#537;ti &#537;i pe:&#10;Instagram - https://www.instagram.com/cristian.chifoi/?hl=ro&#10;TikTok - https://www.tiktok.com/@cristianchifoi&#10;Facebook - https://www.facebook.com/Cristian-Chifoi-300537813983913"
     channeltitle "Cristian Chifoi"
     channelid "UCjFCzjkgSShdRZIVJx3SSlQ"
@@ -6193,7 +6193,7 @@ graph
     commentcount -1
     duration "PT10M48S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6201,7 +6201,7 @@ graph
     label "SoVN-_gkiaE"
     step 0
     date "2022-01-31T16:30:09Z"
-    title "Jordi Wild le pregunta a Rubius su opini&#243;n sobre los NFTs y la pol&#233;mica con Willyrex"
+    title "Jordi Wild le pregunta a Rubius su opinimica con Willyrex"
     description ". Clip extra&#237;do de The Wild Project #110 ft Rubius: https://youtu.be/AaZXTNxwrRU&#10;Hoy en The Wild Project: El Rubius, no hace falta decir mucho m&#225;s. La gran leyenda de youtube y del entretenimiento en espa&#241;ol en una charla de casi tres horas en las que habla con Jordi Wild de absolutamente todo. &#161;No os lo perd&#225;is!&#10;- Canal de Rubius con 62534 millones de suscriptores: https://www.youtube.com/c/elrubiusOMG&#10;&#10;Sigue The Wild Project en: &#10;&#128266; SPOTIFY: https://spoti.fi/3cA2lfy&#10;&#128266; Apple Podcast: https://apple.co/2ILx6Rf&#10;&#128266; Ivoox: https://bit.ly/3cBPxoV&#10;&#128266; Amazon Music: https://amzn.to/3gylTFG&#10;&#10;Mail para posibles invitados: invitados@jordiwild.com&#10;&#10;Realizaci&#243;n y edici&#243;n: Nacho Amela https://twitter.com/NachoAmela&#10;&#10;Mi nuevo Tik Tok, &#161;s&#237;gueme!: https://www.tiktok.com/@jordiwild&#10;Canal de YT de Jordi Wild: https://www.youtube.com/user/ElRinconDeGiorgio&#10;&#161;Wild Style marca de ropa! &#8594; https://wildstylestore.com&#10;Jordi Wild web &#8594; http://www.jordiwild.com&#10;&#10;TWITTER: &#10;https://twitter.com/JordiWild&#10;https://twitter.com/TheWildProject8 &#10;&#10;FACEBOOK: &#10;https://www.facebook.com/ElRinconDeGiorgioOficial&#10;&#10;INSTAGRAM:&#10;http://instagram.com/jordiwild8&#10;http://instagram.com/the.wildproject"
     channeltitle "The Wild Project"
     channelid "UCBYyJBCtCvgqA4NwtoPMwpQ"
@@ -6211,7 +6211,7 @@ graph
     commentcount 971
     duration "PT11M52S"
     indegree 16
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6229,7 +6229,7 @@ graph
     commentcount 1140
     duration "PT13M44S"
     indegree 9
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6237,7 +6237,7 @@ graph
     label "rX2FTcLRSWc"
     step 0
     date "2022-01-31T13:56:01Z"
-    title "&#1050;&#1040;&#1050; &#1047;&#1040;&#1056;&#1040;&#1041;&#1054;&#1058;&#1040;&#1058;&#1068; &#1053;&#1040; NFT &#1042; 2022 &#1043;&#1054;&#1044;&#1059;? NFT &#1044;&#1051;&#1071; &#1053;&#1054;&#1042;&#1048;&#1063;&#1050;&#1054;&#1042;! &#1052;&#1086;&#1078;&#1085;&#1086; &#1083;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT?"
+    title " NFT?"
     description "&#9732;&#65039;&#1055;&#1054;&#1050;&#1059;&#1055;&#1040;&#1049; &#1050;&#1056;&#1048;&#1055;&#1058;&#1059; &#1058;&#1059;&#1058;: &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072;.&#10;&#10;&#128640;OKEX - https://www.okex.com/join/8463710&#10;&#10;&#11088;&#65039;BINANCE - https://accounts.binance.com/ru/register?ref=KUTJHCJ7&#10;&#10;&#10084;&#65039;&#1052;&#1086;&#1081; instagram - https://www.instagram.com/whois.silvasik/?hl=ru&#10;&#10;-----------------------------------------------------------------------------------------&#10;&#1050;&#1040;&#1050; &#1047;&#1040;&#1056;&#1040;&#1041;&#1054;&#1058;&#1040;&#1058;&#1068; &#1053;&#1040; NFT &#1042; 2022 &#1043;&#1054;&#1044;&#1059;&#10;&#10;&#1042; &#1101;&#1090;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086; &#1103; &#1088;&#1072;&#1089;&#1089;&#1082;&#1072;&#1079;&#1072;&#1083; &#1082;&#1072;&#1082; &#1084;&#1086;&#1078;&#1085;&#1086; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1074; 2022 &#1075;&#1086;&#1076;&#1091;.  &#1057;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; &#1084;&#1086;&#1078;&#1085;&#1086; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100;, &#1080; &#1089;&#1090;&#1086;&#1080;&#1090; &#1083;&#1080; &#1079;&#1072;&#1093;&#1086;&#1076;&#1080;&#1090;&#1100; &#1074;&#1086;&#1086;&#1073;&#1097;&#1077; &#1074; &#1101;&#1090;&#1086;&#1090; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082;? &#10;&#10;&#1053;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1080;&#1079; &#1082;&#1088;&#1091;&#1087;&#1085;&#1077;&#1081;&#1096;&#1080;&#1093; &#1080;&#1075;&#1088;&#1086;&#1082;&#1086;&#1074; &#1074; &#1087;&#1088;&#1086;&#1089;&#1090;&#1088;&#1072;&#1085;&#1089;&#1090;&#1074;&#1077; NFT, &#1074;&#1082;&#1083;&#1102;&#1095;&#1072;&#1103; Cryptopunks &#1080; Bored Ape Yacht Club, &#1087;&#1088;&#1086;&#1076;&#1086;&#1083;&#1078;&#1072;&#1102;&#1090; &#1076;&#1077;&#1084;&#1086;&#1085;&#1089;&#1090;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100; &#1074;&#1087;&#1077;&#1095;&#1072;&#1090;&#1083;&#1103;&#1102;&#1097;&#1080;&#1077; &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1080;, &#1087;&#1088;&#1080; &#1101;&#1090;&#1086;&#1084; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; Cryptopunks &#1079;&#1072; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1085;&#1080;&#1077; 7 &#1076;&#1085;&#1077;&#1081; &#1074; &#1089;&#1088;&#1077;&#1076;&#1085;&#1077;&#1084; &#1087;&#1088;&#1086;&#1076;&#1072;&#1083;&#1080; NFT &#1085;&#1072; &#1089;&#1091;&#1084;&#1084;&#1091; &#1086;&#1082;&#1086;&#1083;&#1086; 120  &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1086;&#1074; &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074;. &#1053;&#1077;&#1089;&#1084;&#1086;&#1090;&#1088;&#1103; &#1085;&#1072; &#1085;&#1072;&#1089;&#1099;&#1097;&#1077;&#1085;&#1080;&#1077; &#1088;&#1099;&#1085;&#1082;&#1072;, &#1085;&#1077; &#1086;&#1076;&#1085;&#1080; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1087;&#1072;&#1085;&#1082;&#1080; &#10;&#10;&#1071; &#1087;&#1086;&#1090;&#1088;&#1072;&#1090;&#1080;&#1083; &#1082;&#1091;&#1095;&#1091; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080; &#1085;&#1072; &#1080;&#1079;&#1091;&#1095;&#1077;&#1085;&#1080;&#1077; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1072;&#1088;&#1090;&#1086;&#1074; &#1080; &#1082;&#1072;&#1082; &#1086;&#1085;&#1080; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1102;&#1090;, &#1072; &#1089;&#1087;&#1091;&#1089;&#1090;&#1103; &#1087;&#1086;&#1083;&#1090;&#1086;&#1088;&#1099; &#1085;&#1077;&#1076;&#1077;&#1083;&#1080; &#1103; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1083; 1 Ethereum (&#1087;&#1086;&#1095;&#1090;&#1080; 2000 &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074;) &#1085;&#1072; Rarible.com. &#1042; &#1101;&#1090;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086; &#1074;&#1099; &#1091;&#1079;&#1085;&#1072;&#1077;&#1090;&#1077; &#1082;&#1072;&#1082;!&#10;&#10;&#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT? &#1047;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082; &#1085;&#1072; NFT &#1074; 2022 &#1075;&#1086;&#1076;&#1091;! &#10;&#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1086;&#1073; &#1101;&#1090;&#1086;&#1084; &#1103; &#1088;&#1072;&#1089;&#1089;&#1082;&#1072;&#1079;&#1072;&#1083; &#1074; &#1076;&#1072;&#1085;&#1085;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086;. &#1054;&#1095;&#1077;&#1085;&#1100; &#1080;&#1085;&#1090;&#1077;&#1088;&#1077;&#1089;&#1085;&#1086;&#1077; &#1085;&#1072;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072; &#1089;&#1077;&#1075;&#1086;&#1076;&#1085;&#1103;&#1096;&#1085;&#1080;&#1081; &#1076;&#1077;&#1085;&#1100; &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1077; &#1087;&#1086;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1086;&#1095;&#1077;&#1085;&#1100; &#1082;&#1088;&#1091;&#1090;&#1099;&#1077; &#1088;&#1077;&#1079;&#1091;&#1083;&#1100;&#1090;&#1072;&#1090;&#1099;. &#1055;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091; &#1076;&#1091;&#1084;&#1072;&#1102; &#1089;&#1090;&#1086;&#1080;&#1090; &#1086;&#1073;&#1088;&#1072;&#1090;&#1080;&#1090;&#1100; &#1074;&#1085;&#1080;&#1084;&#1072;&#1085;&#1080;&#1077; &#1085;&#1072; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082; &#1085;&#1072; NFT &#1074; 2021 &#1075;&#1086;&#1076;&#1091;. &#1050;&#1086;&#1085;&#1077;&#1095;&#1085;&#1086; &#1088;&#1080;&#1089;&#1082;&#1080; &#1090;&#1072;&#1082;&#1078;&#1077; &#1077;&#1089;&#1090;&#1100;, &#1087;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091; &#1085;&#1091;&#1078;&#1085;&#1086; &#1089;&#1086;&#1073;&#1083;&#1102;&#1076;&#1072;&#1090;&#1100; &#1074;&#1089;&#1077; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1072; &#1080;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103;.&#10;&#1047;&#1040;&#1056;&#1040;&#1041;&#1054;&#1058;&#1040;&#1051; 2000$ 3 &#1057;&#1055;&#1054;&#1057;&#1054;&#1041;&#1040;"
     channeltitle "Silvan - &#1048;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1094;&#1080;&#1080;"
     channelid "UCwpegrpIgXzPxX962PwKH4w"
@@ -6247,7 +6247,7 @@ graph
     commentcount 103
     duration "PT9M53S"
     indegree 15
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6255,7 +6255,7 @@ graph
     label "bigARmFlkRE"
     step 0
     date "2022-07-11T12:41:32Z"
-    title "&#1055;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1088;&#1090; &#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1099; Royalty NFT. &#1057;&#1090;&#1072;&#1090;&#1091;&#1089;&#1099; &#1074; Meta Force"
+    title " Meta Force"
     description "&#1057;&#1090;&#1072;&#1090;&#1091;&#1089;&#1085;&#1099;&#1077; NFT &#1103;&#1074;&#1083;&#1103;&#1102;&#1090;&#1089;&#1103; &#1090;&#1077;&#1084; &#1079;&#1074;&#1077;&#1085;&#1086;&#1084;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1077; &#1089;&#1074;&#1103;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1084;&#1077;&#1078;&#1076;&#1091; &#1089;&#1086;&#1073;&#1086;&#1081; &#1088;&#1072;&#1079;&#1085;&#1099;&#1077; &#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1099; Meta Force.&#10;&#1069;&#1090;&#1086; &#1090;&#1072; &#1089;&#1072;&#1084;&#1072;&#1103; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1100; &#1087;&#1072;&#1089;&#1089;&#1080;&#1074;&#1085;&#1086;&#1075;&#1086; &#1076;&#1086;&#1093;&#1086;&#1076;&#1072;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1091;&#1102; &#1084;&#1099; &#1091;&#1078;&#1077; &#1091;&#1087;&#1086;&#1084;&#1080;&#1085;&#1072;&#1083;&#1080;, &#1085;&#1086; &#1074;&#1089;&#1077; &#1076;&#1086; &#1089;&#1080;&#1093; &#1087;&#1086;&#1088; &#1075;&#1072;&#1076;&#1072;&#1102;&#1090;, &#1082;&#1072;&#1082; &#1101;&#1090;&#1086; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1090;...&#10;&#10;==============================&#10;Meta FORCE Space - DeFi &#8470;1 &#38; &#1044;&#1077;&#1094;&#1077;&#1085;&#1090;&#1088;&#1072;&#1083;&#1080;&#1079;&#1086;&#1074;&#1072;&#1085;&#1085;&#1086;&#1077; &#1086;&#1073;&#1097;&#1077;&#1089;&#1090;&#1074;&#1086; &#1089; &#1089;&#1086;&#1073;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1084;&#1086;&#1085;&#1077;&#1090;&#1086;&#1081; &#1080; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1080;&#1085;&#1075;&#1086;&#1084; &#1085;&#1072; &#1089;&#1084;&#1072;&#1088;&#1090;-&#1082;&#1086;&#1085;&#1090;&#1088;&#1072;&#1082;&#1090;&#1077;, &#1072; &#1079;&#1085;&#1072;&#1095;&#1080;&#1090; &#1074;&#1089;&#1105; &#1087;&#1091;&#1073;&#1083;&#1080;&#1095;&#1085;&#1086; &#1080; &#1087;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1085;&#1086; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087;&#1085;&#1086; &#1076;&#1083;&#1103; &#1086;&#1090;&#1089;&#1083;&#1077;&#1078;&#1080;&#1074;&#1072;&#1085;&#1080;&#1103; &#1085;&#1072; &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1077;.&#10;&#9553;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;&#10;&#9553; &#127760;  https://meta-force.space/&#10;&#9553; &#128313; https://ladookhotnikov.com/&#10;&#9553;&#128073;  &#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; Telegram  &#1050;&#1072;&#1085;&#1072;&#1083;: https://t.me/Meta_Force_RU&#10;&#9553; &#128227;  &#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; Telegram &#1063;&#1072;&#1090;: https://t.me/MetaForce_RU&#10;&#9553; &#128204; &#1042;&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1077;: https://vk.com/metaforcespace&#10;&#9562;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#10;&#1055;&#1086;&#1089;&#1090;&#1072;&#1074;&#1100; &#1083;&#1072;&#1081;&#1082; &#9829;&#65039; &#1055;&#1086;&#1076;&#1087;&#1080;&#1096;&#1080;&#1089;&#1100; &#1085;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083; &#10004;&#65039; &#1053;&#1072;&#1078;&#1084;&#1080; &#1085;&#1072; &#1082;&#1086;&#1083;&#1086;&#1082;&#1086;&#1083;&#1100;&#1095;&#1080;&#1082;&#128276;&#10;&#1048; &#1085;&#1077; &#1089;&#1090;&#1077;&#1089;&#1085;&#1103;&#1081;&#1089;&#1103; &#1089;&#1072;&#1084;&#1086;&#1074;&#1099;&#1088;&#1072;&#1078;&#1072;&#1090;&#1100;&#1089;&#1103; &#1074; &#1082;&#1086;&#1084;&#1084;&#1077;&#1085;&#1090;&#1072;&#1088;&#1080;&#1103;&#1093;!&#10;&#10;&#1055;&#1086;&#1076;&#1077;&#1083;&#1080;&#1090;&#1077;&#1089;&#1100; &#1101;&#1090;&#1080;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086;: https://youtu.be/bigARmFlkRE&#10;#Force #&#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072; #&#1073;&#1080;&#1090;&#1082;&#1086;&#1081;&#1085; #NFT #&#1052;&#1077;&#1090;&#1072;&#1042;&#1089;&#1077;&#1083;&#1077;&#1085;&#1085;&#1072;&#1103;"
     channeltitle "Meta FORCE &#1085;&#1072; &#1088;&#1091;&#1089;&#1089;&#1082;&#1086;&#1084;"
     channelid "UCIsiipdogN1xCmU-4mO4YIw"
@@ -6265,7 +6265,7 @@ graph
     commentcount 3
     duration "PT11M35S"
     indegree 0
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6283,7 +6283,7 @@ graph
     commentcount 768
     duration "PT2M58S"
     indegree 5
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 96
     duration "PT11M42S"
     indegree 5
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6309,7 +6309,7 @@ graph
     label "wCF27U83dcc"
     step 0
     date "2022-06-12T13:48:19Z"
-    title "&#1050;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1079;&#1072; 7 &#1076;&#1085;&#1077;&#1081;? &#1063;&#1077;&#1083;&#1083;&#1077;&#1085;&#1076;&#1078;! Whitelist."
+    title "! Whitelist."
     description "&#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1089;&#1103; &#1085;&#1072; &#1087;&#1077;&#1088;&#1074;&#1091;&#1102; 3D NFT &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1102; &#1085;&#1072; &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1077; TON &#1086;&#1090; telegram: https://t.me/gbotston&#10;&#1052;&#1086;&#1081; &#1090;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1082;&#1072;&#1085;&#1072;&#1083; &#1087;&#1086; NFT: https://t.me/nft_million&#10;&#1047;&#1072;&#1087;&#1091;&#1089;&#1082; &#1087;&#1088;&#1086;&#1076;&#1072;&#1078; (&#1089; &#1089;&#1077;&#1075;&#1086;&#1076;&#1085;&#1103;, &#1089; 19:00): https://t.me/nft_million&#10;&#10;&#1057;&#1077;&#1075;&#1086;&#1076;&#1085;&#1103; &#1074; &#1074;&#1080;&#1076;&#1077;&#1086; &#1103; &#1087;&#1088;&#1086;&#1074;&#1086;&#1078;&#1091; &#1095;&#1077;&#1083;&#1083;&#1077;&#1085;&#1076;&#1078; &#1080; &#1087;&#1099;&#1090;&#1072;&#1102;&#1089;&#1100; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1079;&#1072; 7 &#1076;&#1085;&#1077;&#1081;. &#1055;&#1086;&#1083;&#1091;&#1095;&#1080;&#1083;&#1086;&#1089;&#1100; &#1083;&#1080; &#1091; &#1084;&#1077;&#1085;&#1103;? &#1057;&#1084;&#1086;&#1090;&#1088;&#1080;&#1090;&#1077;!"
     channeltitle "&#1040;&#1088;&#1090;&#1091;&#1088; &#1050;&#1072;&#1084;&#1091;&#1096;&#1082;&#1080;&#1085;"
     channelid "UCQP07TdtFS7LFRX8cuHT90A"
@@ -6319,7 +6319,7 @@ graph
     commentcount 205
     duration "PT13M5S"
     indegree 1
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6345,7 +6345,7 @@ graph
     label "0ToktU8uGk8"
     step 0
     date "2022-05-12T03:57:45Z"
-    title "This NFT Project is Set to EXPLODE!"
+    title "This NFT Project is Set to E tongue sticking out LODE!"
     description "DISCLAIMER:&#10;This video is for educational &#38; entertainment purposes only. Please do your own research before making any decisions with your money.  I will not be held liable for any losses or gains you may experience.  I am not your financial or investment advisor. This content is for educational and entertainment purposes ONLY. Please do your own research before making any financial decisions in your life!&#10;&#10;Bodega Blocks Socials-&#10;Twitter: https://twitter.com/BodegaBlocksNFT&#10;Website: https://bodegablocks.io/&#10;Discord: Private, Follow the Twitter to Join!&#10;&#10;#etherum #nft #money"
     channeltitle "Vallance"
     channelid "UCiCx5eZvh_F5E0woZkeEfEA"
@@ -6355,7 +6355,7 @@ graph
     commentcount 257
     duration "PT9M11S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -6373,7 +6373,7 @@ graph
     commentcount 155
     duration "PT35M13S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6381,7 +6381,7 @@ graph
     label "82P5mEKu_b4"
     step 0
     date "2022-07-01T11:00:05Z"
-    title "&#12304;Axie Infinity&#12305;&#29609;&#23478;&#32027;&#32027;&#26820;&#36938;&#65281;&#28858;&#20309;&#30070;&#20170;&#26368;&#32005;NFT&#36938;&#25138;&#30340;&#29609;&#23478;&#20154;&#25976;&#26292;&#36300;&#65311;&#36938;&#25138;&#32178;&#36335;&#31995;&#32113;&#36973;&#39405;&#23458;&#20837;&#20405; &#25613;&#22833;&#31455;&#39640;&#36948;6 2&#20740;&#32654;&#37329;&#65281;&#39318;&#27454;&#21560;&#37329;&#36229;&#36942;&#21313;&#20740;&#30340;NFT&#36938;&#25138;&#12304;Axie Infinity&#12305;&#30340;&#19979;&#28369;&#25925;&#20107;"
+    title ""
     description "&#21482;&#35201;&#20320;&#23565;&#36938;&#25138;&#26377;&#29105;&#35488;&#65292;&#23565;&#26410;&#20358;&#26377;&#26399;&#26395;&#65292;Gamer Secret&#38568;&#26178;&#27489;&#36814;&#20320;&#21152;&#20837;&#65281;&#10;&#128233; &#35531;&#25226;&#31777;&#27511;&#21644;&#20316;&#21697;&#30332;&#21040; career@gamersecret.com&#10;&#10;- &#28216;&#25138;&#31243;&#24207;&#21729; Game Programmer&#65288;&#21482;&#38480;&#26044;&#39340;&#20358;&#35199;&#20126;&#21312;&#65292;&#20840;&#32887;&#65289;&#10;- 3D&#35373;&#35336;&#24107; 3D Modeler&#65288;&#21482;&#38480;&#26044;&#39340;&#20358;&#35199;&#20126;&#21312;&#65292;&#20840;&#32887;&#65289;&#10;- &#12304;VGEMA&#28216;&#25138;&#12305;&#38971;&#36947;&#28216;&#25138;&#29609;&#23478; Talent for VGEMA channel&#65288;&#19981;&#20998;&#22283;&#31821;&#65289;&#10;- &#21098;&#25509;&#24107; Video Editor&#65288;&#21482;&#38480;&#26044;&#39340;&#20358;&#35199;&#20126;&#21312;&#65292;&#20840;&#32887;&#65289;&#10;- &#23383;&#24149;&#24107; Subtitle &#65288;&#21482;&#38480;&#26044;&#39340;&#20358;&#35199;&#20126;&#21312;&#65292;&#20840;&#32887;&#65289;&#10;- &#20839;&#23481;&#32232;&#36655; Content Writer&#65288;&#19981;&#20998;&#22283;&#31821;&#65289;&#10;- &#32362;&#30059;&#24107; Illustration Artist&#65288;&#19981;&#20998;&#22283;&#31821;&#65289;&#10;&#10;&#24819;&#35264;&#30475;&#26356;&#22810;&#26377;&#36259;&#36039;&#35338;&#21644;&#26032;&#32862;&#65292;&#19981;&#22952;&#36106;&#21644;&#38364;&#27880;&#25105;&#20497; &#65306;&#10;Facebook &#128073;&#127995;https://www.facebook.com/GamerSecretOfficial/&#10;Instagram &#128073;&#127995; https://www.instagram.com/GamerSecretOfficial/&#10;BiliBili &#128073;&#127995;https://space.bilibili.com/669239450&#10;&#10;&#20063;&#27489;&#36814;&#21152;&#20837;&#25105;&#20497;FB&#32676;&#19968;&#36215;&#29609;&#36938;&#25138;&#65292;&#21644;&#20998;&#20139;&#36938;&#25138;&#36259;&#20107; &#128071;&#127995;&#10;https://www.facebook.com/groups/801043234043252/"
     channeltitle "Gamer Secret &#29609;&#23478;&#27231;&#23494;"
     channelid "UCmtmIF-u0ojej0y9i9STuIw"
@@ -6391,7 +6391,7 @@ graph
     commentcount 446
     duration "PT14M41S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6399,7 +6399,7 @@ graph
     label "vP7J1cYrVMY"
     step 0
     date "2022-07-08T17:45:12Z"
-    title "&#129297;Gana $90 GRATIS!!&#128293;NUEVO JUEGO Nft 2022 en POLYGON&#129297;Nuevo Nft Play to Earn&#128293;KRYPTO FIGHTERS"
+    title "KRYPTO FIGHTERS"
     description "&#128293;Te presento este NUEVO JUEGO NFT para GANAR GRATIS&#128293;&#10;&#10;Hoy les traigo este NUEVO PROYECTO NFT GRATIS para GANAR SIN INVERSION el cual PODREMOS JUGAR y GENERAR INGRESOS en este DIVERTIDO PLAY TO EARN que tenemos por la Red Polygon.&#10;Te hice una GUIA TUTORIAL PASO A PASO para JUGAR este NUEVO JUEGO NFT GRATIS&#10;&#10;------------------------------------------- + -------------------------------------------&#10;SORTEO en DIRECTO de Lun a Vier 19hs UTC &#10;&#10;&#128221; &#191;Como Participar? &#10;1. Estar Suscripto al Canal y dejar tu LIKE&#10;2.Estar dentro de NUESTRO TELEGRAM (ah&#237; haremos el Sorteo) https://t.me/TanitoNftGamingComunidad&#10;3. Comentar  en ESTE VIDEO Que te parecio el proyecto y &#180;&#180;QUIERO PARTICIPAR #TanitoKingNft &#180;&#180;&#10;&#128071;DISCORD de NUESTRA COMUNIDAD&#128071;&#10;https://discord.gg/9Sht6XKq&#10;&#10;&#128068; Eso es todo &#128068;&#10;&#10;------------------------------------------- + -------------------------------------------&#10;&#10;&#10;Links de este Video:&#10;&#10;&#128165; Web: https://kryptofighters.io/&#10;&#10;&#128125;Twitter: https://twitter.com/KryptoFighters&#10;&#10;&#9889;Discord: https://discord.com/invite/kryptofighters&#10;&#10;------------------------------------------- + -------------------------------------------&#10;Espacio de Redes Sociales &#128242;&#10;&#10;&#127799; Comunidad de Telegram: https://t.me/TanitoNftGamingComunidad&#10;&#127808; Comunidad de Discord : https://discord.gg/DsqFsdkvvn&#10;&#128247; Instagram : https://www.instagram.com/tanito.nft/&#10;&#127942; https://twitter.com/TanitoNft&#10;&#127942;Facebook : https://www.facebook.com/TanitoooTv&#10;&#128204; Twitch: https://www.twitch.tv/tanitoootv&#10;&#10;&#10;&#127808;Contacto: tanitocontacto@gmail.com &#10;&#10;------------------------------------------- + -------------------------------------------&#10;&#10;Seo ignorar:&#10;#ZeroStarts #NuevoJuegoNftAndroid #NftGratis #tanitoNftChannel #tanitoNftCanal&#10;,sicruxverse ,wanakafarm ,juegonftdegranja&#10;,battlesnake ,clicktoearn ,1500$almes, free to play, f2p, juego nft gratis sin inversion, play to earn gratis, red polygon, juegos nft gratis sin inversion 2022, juego nft gratis sin inversion pagando 2022,&#10;,PathOfAlchemist ,FreetoEarn ,Alquimistas ,juegosnftdemagia&#10;,pokemoney ,pokemonnft ,freetoplay ,juegosfreetoplaynft&#10;,funbox ,funboxgaming ,playtoearn ,juegosNFT&#10;,widiland ,nftgratis ,comojugarwidiland ,comoregistrarmewidiland ,ganardinero ,clicktoearn  ,nfthesearch ,nftfarm ,nftgratis ,nftart ,nftgaming ,nftscreenshot ,nftlaunch ,nftgames ,nftart ,nftcommunity ,nfthesearch ,nftmarketplace ,nftprojects ,nftgiveaway ,nftnyc2021 &#10;Juegos nft gratis, Juegos nfts sin inversion, juego nft gratis, nuevo juego nft, juegos nft con potencia, el mejor juego nft 2022, juegos play to earn, juegos earn to click, juegos nft club nocturno, pimkgamer, pinkgamer nft, gana hasta 500$ con este juego nft, plant vs undead, axie infinity, pokemoney, juego nft de pokemon, review espa&#241;ol de pokemoney, pokemoney, path of alchemist, path of alchemist nft, juego nft de magia, juego nft de alquimistas, proyectos juegos nft, sicrux verse, wanaka farm, juego nft de granjas, juegos nft rentables, juegos nft de granjas rentables, juegos nft play to earn de granjas, sicruxverse&#10;------------------------------------------- + -------------------------------------------&#10;&#10;Disclaimer: No soy asesor financiero, por lo que el contenido proporcionado en este canal es de car&#225;cter educativo, basado en mi propia experiencia. Invierte tu dinero de forma responsable.&#10;&#10;&#129297;Gana $90 GRATIS!!&#128293;NUEVO JUEGO Nft 2022 en POLYGON&#129297;Nuevo Nft Play to Earn&#128293;KRYPTO FIGHTERS"
     channeltitle "Tanito | Play2Earn &#38; NFT Gaming"
     channelid "UCHUvTHcjFnYCNYwbVW5fRIQ"
@@ -6409,7 +6409,7 @@ graph
     commentcount 100
     duration "PT15M44S"
     indegree 5
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6417,7 +6417,7 @@ graph
     label "B-Lfrby31Xk"
     step 0
     date "2022-05-11T09:00:08Z"
-    title "[EN] NCT,,? NFT? &#52240;&#52380;&#51116;&#44032; &#54620; &#48169;&#50640; &#51060;&#54644; &#49884;&#53020;&#46300;&#47549;&#45768;&#45796;&#128104;&#8205;&#128187; | &#53804;&#51088; | &#51116;&#53580;&#53356; | NFT | &#51060;&#46160;&#55148; | &#46024;&#50892;&#53356;&#47592; ep.7"
+    title "[EN] NCT,,? NFT? ep.7"
     description "&#50504;&#45397;&#54616;&#49888;&#44032; &#51105;&#44163;&#46308;~~&#10;&#44536;&#46041;&#50504; &#51088;&#49328;&#51008; &#51328; &#48520;&#47160;&#45716;&#44032;~~??&#10;&#50724;&#45720;&#46020; &#51116;&#53580;&#53356; &#46020;&#50864;&#47084; &#50728; &#52509;&#47924;&#48152;&#51109;&#51060;&#50732;&#49884;&#45796;^^!!!&#10;&#10;&#46024;&#53356;&#47592; &#48372;&#44256; &#44032;&#49345; &#51088;&#49328;&#51012; &#52376;&#51020; &#48376; &#51105;&#44163;&#46308;&#51060;&#46972;&#47732;,,&#10;&#44845;~~~ &#54616;&#45208; &#45908; &#50508;&#50500;&#50556; &#54616;&#45716; NCT,,? NFT?&#10;&#44536;&#47088; &#44172; &#51080;&#45908;&#46972;&#44256;~?&#10;&#10;&#46024;&#50892;&#47532; &#53804;&#51088;&#45800;&#46020; &#54644;&#48372;&#48068; &#51339;&#51012; &#44163; &#44057;&#50500;&#49436;,,&#10;&#51204;&#47928;&#44032; &#50577;&#48152;&#51012; &#47784;&#49512;&#45716;&#45936;,, &#51060;&#46160;&#55148;? &#47672; &#51648;&#45768;&#50612;&#49828;?&#10;&#50500;&#51452; &#51060;&#54644;&#44032; &#50137;&#50137; &#46104;&#44172; &#49444;&#47749;&#51012; &#54644;&#51452;&#45908;&#46972;&#44256;^^~~!!!&#10;&#10;&#50864;&#47532; &#51105;&#44163;&#46308; &#50526;&#51004;&#47196; &#48512;&#51088; &#46104;&#45716; &#44600;!!&#10;&#46024;&#53356;&#47592;&#51060; &#54637;&#49345; &#51025;&#50896;&#54616;&#45768;&#44760;,, &#54632;&#44760; &#44032;&#48372;&#51088;&#44256;~~^^&#128184;&#128184;&#128184;&#10;&#10;&#10;&#45348;&#44032; &#51068;&#54616;&#51648; &#47568;&#44256;, &#45348; &#46024;&#51060; &#51068;&#54616;&#44172; &#54616;&#46972;! [&#46024;&#50892;&#53356;&#47592;]&#10;&#9654; &#44201;&#51452; &#49688; &#50724;&#54980; 6&#49884; &#44277;&#44060;&#10;&#10;* &#51648;&#45208;&#52828; &#48708;&#48169; &#48143; &#51064;&#49888;&#44277;&#44201;&#49457; &#45843;&#44544;&#51008; &#44288;&#47532;&#51088;&#50640; &#51032;&#54644; &#49325;&#51228;&#46112; &#49688; &#51080;&#49845;&#45768;&#45796;.&#10;&#10;#&#46024;&#50892;&#53356;&#47592; #&#44032;&#49345;&#51088;&#49328; #NFT&#10;#dontworkman #&#51452;&#49885; #&#44032;&#49345;&#51088;&#49328;&#44144;&#47000;&#10;#&#51109;&#49457;&#44508; #&#44608;&#44592;&#54785; #&#49888;&#49828; #&#51060;&#46160;&#55148; #&#53804;&#51088; #&#51116;&#53580;&#53356;"
     channeltitle "&#50892;&#53356;&#47592;-Workman"
     channelid "UCwx6n_4OcLgzAGdty0RWCoA"
@@ -6427,7 +6427,7 @@ graph
     commentcount 310
     duration "PT13M29S"
     indegree 5
-    cluster 11
+    cluster 13
   ]
   node
   [
@@ -6435,7 +6435,7 @@ graph
     label "A00Hk6M0zpk"
     step 0
     date "2021-05-09T07:15:44Z"
-    title "The NFT Song -  &#171; I&#8217;m a NFT &#187;   |   Nft Music"
+    title "The NFT Song - | Nft Music"
     description "The NFT Song https://danic.video/the-nft-song&#10;This song is on sale as an NFT on OpenSea at this adress :&#10;https://danic.video/the-nft-song&#10;&#169; Daniel Ichbiah (2022)&#10;Sale has begun on 7 march 2022 and will end on 10 June 2022.&#10;&#10;Lyrics&#10;Download me&#10;Download me&#10;Cherish me&#10;Protect me&#10;I&#8217;m your NFT&#10;&#10;Download me&#10;Download me&#10;Cherish me&#10;Protect me&#10;I&#8217;m your NFT&#10;&#10;I don&#8217;t want you to question my unicity&#10;I&#8217;m protected by a blockchain inside of me&#10;Don&#8217;t you dare to argue my unicity&#10;Cause you see, inside of me I&#8217;m an NFT&#10;&#10;What would you say if you found a copy of me ?&#10;You&#8217;d realise that it&#8217;s not me cause I&#8217;m an NFT&#10;&#10;(Word and music : Daniel Ichbiah)&#10;&#10;&#10;You may wonder what is NFT music ?&#10;NFTs (non fungible token) have taken the world by storm since the beginning of 2021. Many artists, but also entrepreneurs are jumping to cash in on the action. And many musicians or music artists believe that it might take over the music industry by taking the power away from record labels. And that it might give some power back to the creators.  For example, 3LAU, has made a record $3.6 Million in NFT music sales. Some famous artists such as Kings of Leon or Linkin Park Mike Shinoda have entered the NFT music. And NFT songs sells habitually for $25 K on platform Rocki. Some NFTs can also include unlockable content only available to the owner(s) of it. NFT may also help defining who you are as an artist and building a community of fans.&#10;&#10;You may have learned about :&#10;. The song about NFTs by Elon Musk where he tweeted &#34;I&#8217;m selling this song about NFTs as an NFT&#34;&#10;. The techno version of the Elon Musk NFT Song&#10;. &#8220;Without Me&#8221; by Eminem&#10;. The cast of &#34;Saturday Night Live&#34; performed a rap explaining cryptocurrency : &#34;What the hell's an NFT?&#34; &#10;. The Weeknd - The Source (which was sold $490,000.00.&#10;&#10;This video is showing a nft song   but also belongs to the following subjects :&#10;-nft music &#10;-nft music production &#10;-nft song video&#10;&#10;&#10;This YouTube channel has other similar video clips including another nft song : &#10;https://www.youtube.com/watch?v=EPHXzmwSujM&#10;&#10;&#10;Subscribe to my channel :  &#10;https://www.youtube.com/channel/UC7KXEFnwkZkS8QzE9gAG0Pg&#10;&#10;&#10;Did you like this NFT song ? Do you think this is the best NFT song ? If so let me know.&#10;Or, if you were trying to find more information about nft music or nft music production did this description help? If so, you may want to comment listed below.&#10;&#10;The video is about The nft song but also covers the following subject:&#10;-nft music &#10;-nft music production &#10;-nft song video&#10;&#10;#nftsong #nft #NFT #cryptomusic #blockchain&#10;&#10;This video : https://youtu.be/A00Hk6M0zpk&#10;&#10;Link for easy sharing : https://danic.video/nft"
     channeltitle "Daniel Ichbiah"
     channelid "UC7KXEFnwkZkS8QzE9gAG0Pg"
@@ -6453,7 +6453,7 @@ graph
     label "jjn5Sz4kEYA"
     step 0
     date "2022-01-21T16:15:01Z"
-    title "P&#233;nzszerz&#233;s NFT-vel (k&#246;nnyebb, mint hinn&#233;d) | NFT sz&#233;ria 1.r&#233;sz"
+    title "Psz"
     description "Ebben a vide&#243; sz&#233;ri&#225;ban az NFT vil&#225;g&#225;r&#243;l lesz sz&#243;, avagy &#233;n miket tanultam &#233;s hogy te hogyan haszn&#225;lhatod &#337;ket p&#233;nzszerz&#233;s c&#233;lj&#225;b&#243;l. Tarts velem!&#10;&#10;A Legjobb Magyar Crypto Discord Szerver:&#10;https://discord.gg/zkzuQG5Wpd&#10;&#10;K&#246;nyvklub: &#10;http://onlinemarketinges.com/konyvklub/&#10;&#10;&#201;rdekel mivel dolgozunk? Csekkold le itt:&#10;https://kit.co/Kalti/om-team-crew-kit&#10;&#10;&#10;&#8212;Tov&#225;bbi Linkek &#8212;&#10;Instagram: https://www.instagram.com/onlinemarketinges.co/&#10;Facebook csoport: https://www.facebook.com/groups/2104222273208171&#10;TikTok: @onlinemarketinges&#10;Snapchat: @onlinem&#10;&#10;A p&#233;nzed elsz&#225;ll: https://www.youtube.com/watch?v=W7usqikZI00"
     channeltitle "Online Marketinges"
     channelid "UCPMYMdliziZvEu4Ye6RumsQ"
@@ -6463,7 +6463,7 @@ graph
     commentcount 40
     duration "PT6M8S"
     indegree 1
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -6471,7 +6471,7 @@ graph
     label "IFoayhttQFU"
     step 0
     date "2022-01-22T10:00:09Z"
-    title "&#36001;&#23500;&#23494;&#30908;&#65311;NFT &#25078;&#20154;&#21253; &#30332;&#23637;&#27511;&#21490;&#12289;&#29190;&#32005;&#21407;&#22240; &#36969;&#21512;&#25105;&#25237;&#36039;&#21966;&#65311;"
+    title ""
     description "&#26368;&#36817;&#26368;&#32005;&#30340;&#21517;&#35422;&#25033;&#35442;&#23601;&#26159; NFT &#20102;&#10;&#19981;&#21482;&#25628;&#23563;&#25976;&#37327;&#23621;&#39640;&#19981;&#19979;&#10;&#36996;&#26377;&#36234;&#20358;&#36234;&#22810;&#30340;&#34269;&#20154;&#32178;&#32005;&#25512;&#20986; NFT&#10;&#36889;&#20491;&#31070;&#22855;&#30340;&#26481;&#35199;&#21040;&#24213;&#26159;&#20160;&#40636;&#10;&#21448;&#26377;&#20160;&#40636;&#39080;&#38570;&#21602;&#65311;&#10;&#19968;&#36215;&#20358;&#20102;&#35299;&#65281;&#10;&#10;&#20225;&#21123;&#65306;&#33707;&#23068;&#10;&#33139;&#26412;&#65306;&#33707;&#23068;&#10;&#25885;&#24433;&#65306;ChuLin&#10;&#21098;&#36655;&#65306;ChuLin&#10;&#23383;&#24149;&#65306;ChuLin&#10;&#30435;&#35069;&#65306;&#23431;&#24681;&#12289;Cookie&#12289;&#39640;&#23567;&#23431;&#12289;&#34588;&#26577;&#10;&#10;&#10024;&#10024;&#10024;&#21152;&#20837;&#29562;&#21451;&#24555;&#20805;&#32068;&#65306;https://supr.link/zZE8x&#10;&#10;&#128293; &#29105;&#38272;&#24433;&#29255; &#128293;&#10;&#26159;&#36023;&#21040;&#23542;&#36996;&#26159;&#36393;&#21040;&#38647;&#65311;&#32232;&#36655;&#20497;&#20170;&#24180;&#33258;&#25487;&#33136;&#21253;&#36023;&#20102;&#21738;&#20123; 3C &#29986;&#21697; &#21040;&#24213;&#26377;&#27794;&#26377;&#24460;&#24724;&#21602;&#65311;&#10;&#128073;https://supr.link/ff7zF&#10;&#10;3C &#32218;&#26448;&#25078;&#20154;&#21253;&#65281;&#20320;&#26377;&#65292;&#20294;&#19981;&#19968;&#23450;&#20102;&#35299;&#30340; USB Type-A&#12289;Type-B&#12289;Type-C&#65292;USB 2.0&#12289;USB 3.2 &#21448;&#24046;&#22312;&#21738;&#65311;&#10;&#128073;https://supr.link/6UKS5&#10;&#10;Apple Watch Series 7 &#20841;&#20491;&#26376;&#39636;&#39511;&#24515;&#24471;&#65281;&#36889;&#20123;&#35373;&#23450;&#19981;&#21487;&#19981;&#30693;&#32780;&#19988;&#36996;&#21487;&#20197;&#39178;&#38651;&#23376;&#23541;&#29289;&#10;&#128073;https://supr.link/kWOvy&#10;&#10;&#20170;&#24180;&#26368;&#27424;&#36023;&#30340;&#24179;&#26495;&#65311; iPad mini 6 &#23436;&#25972;&#20351;&#29992;&#24515;&#24471; &#21508;&#24773;&#22659;&#20778;&#32570;&#40670;&#36890;&#36890;&#21578;&#35380;&#20320;&#10;&#128073;https://supr.link/RttAj&#10;&#10;Switch &#36938;&#25138;&#25512;&#34214;&#65281;&#31934;&#36984;&#21313;&#27454;&#19981;&#21516;&#39006;&#22411;&#36938;&#25138;&#65292;&#20849;&#21516;&#29305;&#40670;&#26159;&#36234;&#29609;&#36234;&#19978;&#30318;&#65281;&#10;&#128073;https://supr.link/Wteh8&#10;&#10;&#10;&#12304;&#35330;&#38321;&#38651;&#29562;&#23569;&#22899; YouTube&#12305; https://supr.link/o3WBV&#10;&#12304;&#36861;&#36452;&#38651;&#29562;&#23569;&#22899; Instagram&#12305; https://supr.link/nYIMY&#10;&#12304;&#25353;&#35738;&#38651;&#29562;&#23569;&#22899; Facebook&#12305; https://supr.link/VAZd6&#10;&#12304;&#38651;&#29562;&#23569;&#22899;&#23448;&#26041;&#32178;&#31449;&#12305; https://supr.link/AKiW8"
     channeltitle "&#38651;&#29562;&#23569;&#22899;-&#22899;&#23401;&#30340;&#31185;&#25216;&#26085;&#24120;"
     channelid "UCAr4MVsPBKjhg5eLDDpbDFg"
@@ -6481,7 +6481,7 @@ graph
     commentcount 102
     duration "PT6M1S"
     indegree 2
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6489,7 +6489,7 @@ graph
     label "jdxhRKh4gmA"
     step 0
     date "2021-05-06T09:01:46Z"
-    title "&#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; NFT &#1080; &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1086;&#1085;&#1080; &#1089;&#1090;&#1086;&#1103;&#1090; &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1099;?"
+    title "?"
     description "&#1054;&#1088;&#1080;&#1075;&#1080;&#1085;&#1072;&#1083;&#1100;&#1085;&#1091;&#1102; &#1075;&#1080;&#1092;&#1082;&#1091; &#1053;&#1103;&#1085;-&#1082;&#1086;&#1090;&#1072; &#1087;&#1088;&#1086;&#1076;&#1072;&#1083;&#1080; &#1082;&#1072;&#1082; NFT &#1087;&#1086;&#1095;&#1090;&#1080; &#1079;&#1072; 600 &#1090;&#1099;&#1089;&#1103;&#1095; &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074;. &#1054;&#1076;&#1080;&#1085; &#1080;&#1079; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081; &#34;&#1056;&#1080;&#1082;&#1072; &#1080; &#1052;&#1086;&#1088;&#1090;&#1080;&#34; &#1087;&#1088;&#1086;&#1076;&#1072;&#1083; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1102; &#1094;&#1080;&#1092;&#1088;&#1086;&#1074;&#1099;&#1093; &#1088;&#1080;&#1089;&#1091;&#1085;&#1082;&#1086;&#1074; &#1073;&#1086;&#1083;&#1077;&#1077; &#1095;&#1077;&#1084; &#1079;&#1072; &#1087;&#1086;&#1083;&#1090;&#1086;&#1088;&#1072; &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1072;. &#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; NFT &#1080; &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1086;&#1085;&#1080; &#1089;&#1090;&#1086;&#1103;&#1090; &#1090;&#1072;&#1082;&#1080;&#1093; &#1076;&#1077;&#1085;&#1077;&#1075;?&#10;https://www.currenttime.tv/a/nft-chto-eto-pochemu-tak-dorogo/31222019.html"
     channeltitle "&#1053;&#1072;&#1089;&#1090;&#1086;&#1103;&#1097;&#1077;&#1077; &#1042;&#1088;&#1077;&#1084;&#1103;. &#1057;&#1102;&#1078;&#1077;&#1090;&#1099;"
     channelid "UCztZRXyQNaQuJZtS0GM95Zw"
@@ -6499,7 +6499,7 @@ graph
     commentcount 360
     duration "PT6M22S"
     indegree 8
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6507,7 +6507,7 @@ graph
     label "0Q6iqUYCqZY"
     step 0
     date "2022-07-04T09:10:25Z"
-    title "&#30896;NFT=&#33258;&#27578;? 50&#33836;&#35330;&#38321;YouTuber ArhoTV&#28357;&#20129;&#30495;&#30456;"
+    title ""
     description "#NFT #arhosunny #arhotv&#10;&#10;&#22826;&#38525;&#26368;&#26032;&#29376;&#27841;(&#22909;&#20284;&#20418;)&#65306;&#10;&#35441;&#33258;&#24049;&#25233;&#39729;(&#30151;)&#65292;&#21780;&#25233;&#39729;&#23601;&#20551;&#21862;&#65292;&#23601;&#22909;&#20284;&#26885;&#23376;&#21633;&#21453;&#31038;&#26371;&#20154;&#26684;&#20102;&#65374;&#10;&#10;&#10;&#35330;&#38321;&#40635;&#29916;&#20808;&#29983;&#65306;&#10;https://reurl.cc/3DqaD9&#10;&#10;IG&#65374;https://www.instagram.com/mr.muggle.yt&#10;Mail&#65374;muggle.twhk@gmail.com"
     channeltitle "&#40635;&#29916;&#20808;&#29983;"
     channelid "UCcsCidjNHGkS6l1u_nsigTw"
@@ -6517,7 +6517,7 @@ graph
     commentcount 16
     duration "PT12M47S"
     indegree 2
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6525,7 +6525,7 @@ graph
     label "8X6mj8-mk34"
     step 0
     date "2021-03-18T02:16:47Z"
-    title "C&#243;mo hacer un NFT en 10 minutos &#161;Tutorial f&#225;cil!"
+    title "Ccil!"
     description "Como crear un NFT&#10;Te ense&#241;o paso a paso c&#243;mo hacer un NFT con cualquier archivo!&#10;Hice otro video de los pagos que tienes que hacer la primera vez que haces un NFT. Checalo https://youtu.be/yO2cOVQbrCM&#10;---Links---&#10;Metamask: https://metamask.io/&#10;Open sea: https://opensea.io/&#10;&#10;---Tiempos---"
     channeltitle "Gigawatt"
     channelid "UC6MLqJpNFIFfJZNzWVZAVkg"
@@ -6535,7 +6535,7 @@ graph
     commentcount 2291
     duration "PT4M52S"
     indegree 13
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6543,7 +6543,7 @@ graph
     label "8niOOQTxUXg"
     step 0
     date "2021-11-06T18:34:27Z"
-    title "&#1588;&#1585;&#1581; &#1588;&#1575;&#1605;&#1604; &#1581;&#1589;&#1585;&#1610; &#1604;&#1604;NFT &#1608; &#1603;&#1610;&#1601; &#1578;&#1585;&#1576;&#1581; &#1605;&#1606;&#1607; &#1575;&#1604;&#1575;&#1601; &#1575;&#1604;&#1583;&#1608;&#1604;&#1575;&#1585;&#1575;&#1578; &#128176;&#128176;&#1575;&#1604;&#1580;&#1586;&#1569; &#1575;&#1604;&#1575;&#1608;&#1604; | @Kasmi Youness"
+    title " | @Kasmi Youness"
     description "&#1581;&#1589;&#1585;&#1610;&#1575; &#1601;&#1610; &#1575;&#1604;&#1580;&#1586;&#1569; &#1575;&#1604;&#1575;&#1608;&#1604; &#1587;&#1610;&#1588;&#1585;&#1581; &#1604;&#1606;&#1575; @Kasmi Youness &#1605;&#1575; &#1607;&#1610; &#1575;&#1604; Metaverse &#1608; &#1605;&#1575; &#1607;&#1608; &#1575;&#1604; NFT &#1576;&#1588;&#1603;&#1604; &#1593;&#1575;&#1605;&#10;&#10;&#1575;&#1604;&#1581;&#1604;&#1602;&#1577; &#1575;&#1604;&#1579;&#1575;&#1606;&#1610;&#1577; &#1601;&#1610; &#1602;&#1575;&#1583;&#1605; &#1575;&#1604;&#1575;&#1610;&#1575;&#1605; &#1575;&#1606; &#1588;&#1575;&#1569; &#1575;&#1604;&#1604;&#1607;&#10;&#10;&#1575;&#1584;&#1575; &#1575;&#1593;&#1580;&#1576;&#1603; &#1575;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1604;&#1575; &#1578;&#1606;&#1587;&#1609; &#1583;&#1593;&#1605;&#1610; &#1576;&#1586;&#1585; &#1604;&#1575;&#1610;&#1603; &#1608; &#1605;&#1588;&#1575;&#1585;&#1603;&#1577; &#1575;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1605;&#1593; &#1575;&#1589;&#1583;&#1602;&#1575;&#1574;&#1603; &#1604;&#1603;&#1610; &#1610;&#1587;&#1578;&#1601;&#1610;&#1583; &#1575;&#1604;&#1580;&#1605;&#1610;&#1593;&#10;&#10;Follow Me &#1578;&#1575;&#1576;&#1593;&#1606;&#1610;&#10;&#128313; Instagram  : http://instagram.com/salim.hamidi&#10;&#10;For Business : arsalimtv@gmail.com&#10;&#10;#NFT #ETH #Opensea"
     channeltitle "Selim Hamidi &#1587;&#1604;&#1610;&#1605; &#1581;&#1605;&#1610;&#1583;&#1610;"
     channelid "UCWw2aZP-gZpffyPD1EDJ0wA"
@@ -6553,7 +6553,7 @@ graph
     commentcount 786
     duration "PT16M4S"
     indegree 5
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6561,7 +6561,7 @@ graph
     label "UU5i1hPGbH0"
     step 0
     date "2022-02-08T16:31:56Z"
-    title "&#1071;&#1050; &#1047;&#1040;&#1056;&#1054;&#1041;&#1048;&#1058;&#1048; &#1053;&#1040; NFT?"
+    title " NFT?"
     description "&#1071;&#1050; &#1047;&#1040;&#1056;&#1054;&#1041;&#1048;&#1058;&#1048; &#1053;&#1040; NFT?&#10;&#1042; &#1094;&#1100;&#1086;&#1084;&#1091; &#1074;&#1110;&#1076;&#1077;&#1086; &#1103; &#1088;&#1086;&#1079;&#1082;&#1072;&#1078;&#1091; &#1110; &#1087;&#1086;&#1082;&#1072;&#1078;&#1091; &#1074;&#1072;&#1084; &#1103;&#1082; &#1084;&#1086;&#1078;&#1085;&#1072; &#1079;&#1072;&#1088;&#1086;&#1073;&#1080;&#1090;&#1080; &#1079;&#1072; &#1076;&#1086;&#1087;&#1086;&#1084;&#1086;&#1075;&#1086;&#1102; &#1085;&#1092;&#1090; &#1087;&#1088;&#1086;&#1089;&#1090;&#1080;&#1084; &#1083;&#1102;&#1076;&#1103;&#1084;, &#1089;&#1082;&#1110;&#1083;&#1100;&#1082;&#1080; &#1084;&#1086;&#1078;&#1085;&#1072; &#1079;&#1072;&#1088;&#1086;&#1073;&#1080;&#1090;&#1080; &#1110; &#1087;&#1086;&#1082;&#1072;&#1078;&#1091; &#1074;&#1072;&#1084; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1110; &#1087;&#1088;&#1080;&#1082;&#1083;&#1072;&#1076;&#1080;&#10;&#10;&#1052;&#1086;&#1103; &#1082;&#1086;&#1083;&#1077;&#1082;&#1094;&#1110;&#1103; &#1053;&#1060;&#1058; - https://opensea.io/RDeni&#10;&#10;&#1052;&#1110;&#1081; &#1090;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1082;&#1072;&#1085;&#1072;&#1083; - https://t.me/crypto_rdeni&#10;&#1052;&#1110;&#1081; &#1076;&#1088;&#1091;&#1075;&#1080;&#1081; &#1090;&#1075; &#1082;&#1072;&#1085;&#1072;&#1083; - https://t.me/bulka_crypto&#10;&#10;&#1030;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084; - https://www.instagram.com/rostik.deni"
     channeltitle "RDeni"
     channelid "UCPLZhY0Hw6D2qHR1zLgW4_w"
@@ -6571,7 +6571,7 @@ graph
     commentcount 598
     duration "PT6M59S"
     indegree 7
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6589,7 +6589,7 @@ graph
     commentcount 118
     duration "PT9M39S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6597,7 +6597,7 @@ graph
     label "IS2Dr_uQk-I"
     step 0
     date "2021-09-06T09:35:12Z"
-    title "&#1050;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1080;&#774; NFT &#1085;&#1072; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1077; OpenSea &#1079;&#1072; 5 &#1084;&#1080;&#1085;&#1091;&#1090;"
+    title ""
     description "&#128142; &#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1082;&#1072;&#1085;&#1072;&#1083; Cryptaza Pro&#160;https://t.me/cryptazapro&#10;&#10;&#128142; &#1050;&#1091;&#1087;&#1080;&#1090;&#1100; NFT &#1080;&#1079; &#1088;&#1086;&#1083;&#1080;&#1082;&#1072; &#1079;&#1072; 9,99 ETH &#1084;&#1086;&#1078;&#1085;&#1086; &#1090;&#1091;&#1090; https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/72228268832004036465647593468905015964367967520908543791564183845185918074881/&#10;&#10;&#128142; &#1055;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1072; OpenSea https://opensea.io&#10;&#10;NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#1099; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1091; &#1084;&#1085;&#1086;&#1075;&#1080;&#1093; &#1085;&#1072; &#1089;&#1083;&#1091;&#1093;&#1091;. &#1053;&#1072;&#1074;&#1077;&#1088;&#1085;&#1103;&#1082;&#1072; &#1074;&#1099; &#1089;&#1083;&#1099;&#1096;&#1072;&#1083;&#1080;, &#1095;&#1090;&#1086; &#1089;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090; &#1090;&#1072;&#1082;&#1086;&#1077; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1077;, &#1082;&#1072;&#1082; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1072;&#1088;&#1090;. &#1053;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1094;&#1080;&#1092;&#1088;&#1086;&#1074;&#1099;&#1077; &#1093;&#1091;&#1076;&#1086;&#1078;&#1085;&#1080;&#1082;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1102;&#1090; &#1089; &#1087;&#1086;&#1084;&#1086;&#1097;&#1100;&#1102; NFT &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1099; &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074;, &#1085;&#1086; &#1082;&#1072;&#1082; &#1078;&#1077; &#1085;&#1072;&#1084;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084; &#1083;&#1102;&#1076;&#1103;&#1084; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT?&#10;&#10;&#1042; &#1101;&#1090;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086; &#1103; &#1087;&#1086;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102; &#1087;&#1086;&#1096;&#1072;&#1075;&#1086;&#1074;&#1086;, &#1082;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1081; NFT &#1085;&#1072; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1077; OpenSea &#1080; &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#1072;&#1093;. &#1042;&#1099; &#1091;&#1074;&#1080;&#1076;&#1080;&#1090;&#1077;, &#1082;&#1072;&#1082; &#1088;&#1072;&#1079;&#1084;&#1077;&#1089;&#1090;&#1080;&#1090;&#1100; NFT &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1091; &#1085;&#1072; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1087;&#1083;&#1077;&#1081;&#1089;&#1077; OpenSea &#1074; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080;. &#10;______________________&#10;&#1053;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083;&#1077; CRYPTAZA &#1074;&#1099; &#1091;&#1079;&#1085;&#1072;&#1077;&#1090;&#1077; &#1084;&#1085;&#1086;&#1075;&#1086; &#1085;&#1086;&#1074;&#1086;&#1075;&#1086; &#1086; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072;&#1093;, &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1077; &#1080; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1103;&#1093; &#1073;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1086; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100;, &#1074;&#1099;&#1080;&#1075;&#1088;&#1072;&#1090;&#1100; &#1080;&#1083;&#1080; &#1087;&#1086;&#1083;&#1091;&#1095;&#1080;&#1090;&#1100; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091; &#1088;&#1072;&#1079;&#1085;&#1099;&#1093; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1086;&#1074; &#1080; &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1086;&#1074;. &#1044;&#1077;&#1083;&#1080;&#1084;&#1089;&#1103; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1099;&#1084;&#1080; &#1080; &#1073;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1099;&#1084;&#1080; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1072;&#1084;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;, &#1073;&#1077;&#1079; &#1089;&#1093;&#1077;&#1084;, &#1088;&#1072;&#1079;&#1074;&#1086;&#1076;&#1086;&#1074; &#1080; &#1085;&#1077;&#1086;&#1073;&#1093;&#1086;&#1076;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1082;&#1091;&#1076;&#1072;-&#1090;&#1086; &#1086;&#1090;&#1087;&#1088;&#1072;&#1074;&#1083;&#1103;&#1090;&#1100; &#1089;&#1074;&#1086;&#1080; &#1076;&#1077;&#1085;&#1100;&#1075;&#1080;.&#10;&#10;&#1053;&#1080;&#1078;&#1077; &#1074;&#1099; &#1085;&#1072;&#1081;&#1076;&#1077;&#1090;&#1077; &#1089;&#1089;&#1099;&#1083;&#1082;&#1080; &#1085;&#1072; &#1087;&#1088;&#1086;&#1074;&#1077;&#1088;&#1077;&#1085;&#1085;&#1099;&#1077; &#1089;&#1072;&#1081;&#1090;&#1099;, &#1089;&#1077;&#1088;&#1074;&#1080;&#1089;&#1099;, &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1099; &#1080; &#1073;&#1080;&#1088;&#1078;&#1080;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1087;&#1086;&#1084;&#1086;&#1075;&#1091;&#1090; &#1074;&#1072;&#1084; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1090;&#1100; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091;, &#1085;&#1072;&#1076;&#1077;&#1078;&#1085;&#1086; &#1077;&#1077; &#1093;&#1088;&#1072;&#1085;&#1080;&#1090;&#1100; &#1080; &#1087;&#1088;&#1080;&#1091;&#1084;&#1085;&#1086;&#1078;&#1072;&#1090;&#1100;.&#10;&#10;&#9989;&#160;&#1050;&#1056;&#1048;&#1055;&#1058;&#1054; &#1041;&#1048;&#1056;&#1046;&#1048;&#10;&#10;&#128312;&#1058;&#1086;&#1087;&#1086;&#1074;&#1072;&#1103; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1085;&#1072;&#1103; &#1073;&#1080;&#1088;&#1078;&#1072; Binance&#160;https://bit.ly/2VoA5Vo&#10;&#128312;&#1044;&#1077;&#1094;&#1077;&#1085;&#1090;&#1088;&#1072;&#1083;&#1080;&#1079;&#1086;&#1074;&#1072;&#1085;&#1085;&#1072;&#1103; &#1073;&#1080;&#1088;&#1078;&#1072; 1inch&#160;https://bit.ly/2Hh776D&#10;&#128312;Coinlist https://bit.ly/3r4dDj8&#10;&#128312;&#1057;&#1090;&#1077;&#1081;&#1082;&#1080;&#1085;&#1075; USDN &#1085;&#1072; Waves 10-20% &#1075;&#1086;&#1076;&#1086;&#1074;&#1099;&#1093;&#160;https://bit.ly/37rmjaa&#10;&#10;&#9989;&#160;&#1050;&#1056;&#1048;&#1055;&#1058;&#1054; &#1050;&#1054;&#1064;&#1045;&#1051;&#1068;&#1050;&#1048;&#10;&#10;&#128312;&#1053;&#1072;&#1076;&#1077;&#1078;&#1085;&#1099;&#1081; &#1082;&#1086;&#1096;&#1077;&#1083;&#1077;&#1082; &#1076;&#1083;&#1103; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090; Trust Wallet&#160;https://bit.ly/34C2zz9&#10;&#128312;&#1051;&#1091;&#1095;&#1096;&#1080;&#1081; &#1093;&#1086;&#1083;&#1086;&#1076;&#1085;&#1099;&#1081; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1082;&#1086;&#1096;&#1077;&#1083;&#1077;&#1082; Ledger&#160;http://bit.ly/3a0lAwE&#10;&#10;&#9989;&#160;&#1054;&#1041;&#1052;&#1045;&#1053;&#1050;&#1048;&#10;&#10;&#128312;&#1040;&#1075;&#1088;&#1077;&#1075;&#1072;&#1090;&#1086;&#1088; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1085;&#1099;&#1093; &#1086;&#1073;&#1084;&#1077;&#1085;&#1086;&#1082; #1 BestChange&#160;https://bit.ly/2REd9Ab&#10;&#10;&#9989;&#160;&#1050;&#1056;&#1048;&#1055;&#1058;&#1054; &#1057;&#1045;&#1056;&#1042;&#1048;&#1057;&#1067;&#10;&#10;&#128312;&#1057;&#1077;&#1088;&#1074;&#1080;&#1089; &#1072;&#1074;&#1090;&#1086;&#1084;&#1072;&#1090;&#1080;&#1079;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1086;&#1075;&#1086; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1090;&#1088;&#1077;&#1081;&#1076;&#1080;&#1085;&#1075;&#1072; 3commas&#160;https://bit.ly/3a8XgZr&#10;______________________________&#10;&#10;&#10071;&#65039;&#1044;&#1048;&#1057;&#1050;&#1051;&#1045;&#1049;&#1052;&#1045;&#1056;&#10;&#10;&#1050;&#1072;&#1085;&#1072;&#1083; CRYPTAZA&#160;&#1080; &#1072;&#1074;&#1090;&#1086;&#1088; &#1085;&#1077; &#1085;&#1077;&#1089;&#1077;&#1090; &#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1080; &#1079;&#1072; &#1083;&#1102;&#1073;&#1099;&#1077; &#1084;&#1072;&#1090;&#1077;&#1088;&#1080;&#1072;&#1083;&#1099;, &#1091;&#1082;&#1072;&#1079;&#1072;&#1085;&#1085;&#1099;&#1077;&#160;&#1074; &#1074;&#1080;&#1076;&#1077;&#1086;, &#1080; &#1085;&#1077; &#1085;&#1077;&#1089;&#1077;&#1090; &#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1080; &#1079;&#1072; &#1083;&#1102;&#1073;&#1099;&#1077; &#1091;&#1073;&#1099;&#1090;&#1082;&#1080;&#160;&#1080;&#1083;&#1080; &#1087;&#1086;&#1090;&#1077;&#1088;&#1080;, &#1089;&#1074;&#1103;&#1079;&#1072;&#1085;&#1085;&#1099;&#1077; &#1089; &#1083;&#1102;&#1073;&#1099;&#1084;&#1080; &#1087;&#1088;&#1086;&#1076;&#1091;&#1082;&#1090;&#1072;&#1084;&#1080; &#1080;&#1083;&#1080; &#1091;&#1089;&#1083;&#1091;&#1075;&#1072;&#1084;&#1080;,&#160;&#1091;&#1087;&#1086;&#1084;&#1103;&#1085;&#1091;&#1090;&#1099;&#1084;&#1080; &#1074; &#1074;&#1080;&#1076;&#1077;&#1086;. CRYPTAZA &#1087;&#1088;&#1080;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1079;&#1088;&#1080;&#1090;&#1077;&#1083;&#1077;&#1081;&#160;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1080;&#1090;&#1100; &#1089;&#1086;&#1073;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1077; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1089; &#1076;&#1086;&#1083;&#1078;&#1085;&#1086;&#1081; &#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102;&#160;&#1086; &#1082;&#1086;&#1084;&#1087;&#1072;&#1085;&#1080;&#1080;, &#1087;&#1088;&#1086;&#1076;&#1091;&#1082;&#1090;&#1077; &#1080;&#1083;&#1080; &#1091;&#1089;&#1083;&#1091;&#1075;&#1077;, &#1091;&#1087;&#1086;&#1084;&#1103;&#1085;&#1091;&#1090;&#1099;&#1093; &#1074; &#1074;&#1080;&#1076;&#1077;&#1086; &#1080; &#1087;&#1086;&#1089;&#1090;&#1072;&#1093; &#1074; &#1089;&#1086;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1089;&#1077;&#1090;&#1103;&#1093;. CRYPTAZA&#160;&#1085;&#1077; &#1087;&#1088;&#1077;&#1076;&#1086;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1090; &#1080;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1094;&#1080;&#1086;&#1085;&#1085;&#1099;&#1077;, &#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1086;&#1074;&#1099;&#1077; &#1080;&#1083;&#1080; &#1102;&#1088;&#1080;&#1076;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077; &#1082;&#1086;&#1085;&#1089;&#1091;&#1083;&#1100;&#1090;&#1072;&#1094;&#1080;&#1080;.&#10;&#10;&#1042;&#1089;&#1103; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1103; &#1074; &#1074;&#1080;&#1076;&#1077;&#1086; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1077;&#1085;&#1072; &#1080;&#1089;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086; &#1074; &#1086;&#1079;&#1085;&#1072;&#1082;&#1086;&#1084;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1093; &#1094;&#1077;&#1083;&#1103;&#1093; &#1080; &#1085;&#1077; &#1103;&#1074;&#1083;&#1103;&#1077;&#1090;&#1089;&#1103; &#1087;&#1088;&#1080;&#1079;&#1099;&#1074;&#1086;&#1084; &#1082; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1102;."
     channeltitle "CRYPTAZA"
     channelid "UClCDXS1i8F2pvr_iKK5oAow"
@@ -6607,7 +6607,7 @@ graph
     commentcount 2405
     duration "PT8M5S"
     indegree 16
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6615,7 +6615,7 @@ graph
     label "iTeC-pvsIIs"
     step 0
     date "2021-12-11T17:42:50Z"
-    title "24 Horas Jugando a Juegos NFT Sin Inversi&#243;n | Thetan Arena"
+    title "24 Horas Jugando a Juegos NFT Sin Inversin | Thetan Arena"
     description "Me paso 24 horas jugando a juegos NFT de criptomonedas sin invertir absolutamente nada, comparto de forma totalmente transparente lo que gano y c&#243;mo puedes hacer lo mismo.&#10;&#10;&#9658; C&#243;mo Crear Una Tienda Online: https://youtu.be/ty1tGghxqjk&#10;&#9658; Shopify Gratis Durante 14 D&#237;as: https://shopify.pxf.io/adrians&#10;&#10;En este v&#237;deo me he propuesto ver si realmente se puede ganar dinero con los juegos NFT de criptomonedas sin invertir nada de dinero. Me he propuesto averiguar cu&#225;les son los mejores juegos para ganar dinero sin invertir y me voy a pasar 24 horas jugando para ver cu&#225;nto dinero consigo ganar.&#10;&#10;Shooterino: https://youtube.com/c/ShooterinoNFT&#10;Instagram: https://instagram.com/adrians&#10;Telegram: https://t.me/adriansaenzc&#10;&#10;Si te ha gustado el v&#237;deo no te olvides de darle like, no te cuesta nada y me ayudas un mont&#243;n :D"
     channeltitle "Adri&#225;n S&#225;enz"
     channelid "UCVt4ugq2txl_szlXAO7B3-g"
@@ -6625,7 +6625,7 @@ graph
     commentcount 1870
     duration "PT22M21S"
     indegree 15
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6633,7 +6633,7 @@ graph
     label "PnUpOzNodoc"
     step 0
     date "2022-02-27T15:44:30Z"
-    title "JAK ZAROBI&#321;EM 300.000 PLN W 60 MIN NA NFT!?"
+    title "JAK ZAROBIEM 300.000 PLN W 60 MIN NA NFT!?"
     description "Twitter: https://twitter.com/nftpolska_&#10;Discord: https://discord.gg/EqpybPPUTE&#10;Darmowy ebook o NFT: https://nftpolska.net/ebook/&#10;&#10;Jak kupi&#263; NFT krok po kroku?&#10;1) Za&#322;&#243;&#380; Binance, aby kupi&#263; swoje pierwsze kryptowaluty:&#10;https://accounts.binance.com/en/register?ref=AYH2604C&#10;2) Do&#322;aduj konto Binance&#10;3) Kup kryptowalut&#281;&#10;4) Za&#322;&#243;&#380; sw&#243;j portfel kryptowalutowy Metamask:&#10;https://metamask.io/&#10;5) Wy&#347;lij kryptowaluty na portfel Metamask&#10;6) Pod&#322;&#261;cz Metamask do Opensea &#10;https://opensea.io/&#10;7) Gotowe!&#10;&#10;Sprawd&#378; obecny gaz:&#10;https://etherscan.io/gastracker&#10;&#10;Sprawd&#378; rzadko&#347;&#263; Twojego NFT:&#10;https://raritysniffer.com/&#10;https://rarity.tools/&#10;&#10;&#10;----------------------------------------------------------------------------------------------------------------&#10;Uwaga! : To video i jego tre&#347;&#263; nie s&#261; porad&#261; inwestycyjn&#261;. Jest to tylko i wy&#322;&#261;cznie moja prywatna opinia. Inwestowanie w NFT jest bardzo ryzykowne, tak&#380;e wszystkie decyzje musisz przemy&#347;le&#263; i zrobi&#263; w&#322;asny research."
     channeltitle "NFT Polska"
     channelid "UC3j3SeYYyh4alC2aRgZno7A"
@@ -6651,7 +6651,7 @@ graph
     label "BJVVsRABZ-s"
     step 0
     date "2022-04-24T16:29:17Z"
-    title "NFT &#1048;&#1075;&#1088;&#1099; &#8212; &#1057;&#1082;&#1072;&#1084; &#1080;&#1083;&#1080; &#1073;&#1099;&#1089;&#1090;&#1088;&#1099;&#1081; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082;? (STEPN, Waves Ducks &#1080; &#1076;&#1088;)"
+    title "NFT )"
     description "&#128073; &#1050;&#1072;&#1085;&#1072;&#1083; &#1087;&#1088;&#1086; NFT &#1080; &#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091; &#8212; https://t.me/+yJKJgaCZwdU5NmRi&#10;&#10;&#1056;&#1072;&#1079;&#1074;&#1077;&#1088;&#1085;&#1080;.&#10;&#10;&#1090;&#1077;&#1083;&#1077;&#1075;&#1072; - https://t.me/kharchevnikov &#10;&#10;&#1047;&#1072; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1085;&#1080;&#1081; &#1084;&#1077;&#1089;&#1103;&#1094; NFT &#1082;&#1088;&#1086;&#1089;&#1089;&#1086;&#1074;&#1082;&#1080; STEPN &#1087;&#1086;&#1081;&#1084;&#1072;&#1083;&#1080; &#1086;&#1075;&#1088;&#1086;&#1084;&#1085;&#1091;&#1102; &#1074;&#1086;&#1083;&#1085;&#1091; &#1072;&#1078;&#1080;&#1086;&#1090;&#1072;&#1078;&#1072;. &#1056;&#1077;&#1082;&#1083;&#1072;&#1084;&#1072; &#1091; &#1052;&#1086;&#1088;&#1075;&#1077;&#1085;&#1096;&#1090;&#1077;&#1088;&#1085;&#1072; &#1080; &#1051;&#1080;&#1090;&#1074;&#1080;&#1085;&#1072;, &#1073;&#1077;&#1079;&#1091;&#1084;&#1085;&#1099;&#1081; &#1088;&#1086;&#1089;&#1090; &#1087;&#1086;&#1076;&#1087;&#1080;&#1089;&#1095;&#1080;&#1082;&#1086;&#1074; &#1089;&#1086;&#1086;&#1073;&#1097;&#1077;&#1089;&#1090;&#1074; &#1087;&#1086; &#1080;&#1075;&#1088;&#1077;, &#1076;&#1072; &#1080; &#1089;&#1072;&#1084; &#1092;&#1072;&#1082;&#1090; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072; &#1085;&#1072; &#1093;&#1086;&#1076;&#1100;&#1073;&#1077; &#1087;&#1088;&#1080;&#1074;&#1083;&#1077;&#1082;&#1072;&#1077;&#1090; &#1082; &#1087;&#1088;&#1080;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1102; &#1074;&#1089;&#1077; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077;&#1077; &#1080; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077;&#1077; &#1074;&#1085;&#1080;&#1084;&#1072;&#1085;&#1080;&#1077; &#1086;&#1073;&#1099;&#1095;&#1085;&#1099;&#1093; &#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081;. &#1053;&#1086; &#1074;&#1089;&#1077; &#1083;&#1080; &#1090;&#1072;&#1082; &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;? &#1050;&#1072;&#1082; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1102;&#1090; NFT-&#1080;&#1075;&#1088;&#1099;? &#1048;&#1079; &#1095;&#1077;&#1075;&#1086; &#1092;&#1086;&#1088;&#1084;&#1080;&#1088;&#1091;&#1077;&#1090;&#1089;&#1103; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082; &#1074; &#1090;&#1072;&#1082;&#1080;&#1093; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1072;&#1093;? &#1042;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086; &#1083;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1080;&#1075;&#1088;&#1072;&#1093; &#1080;&#1083;&#1080; &#1101;&#1090;&#1086; &#1086;&#1095;&#1077;&#1088;&#1077;&#1076;&#1085;&#1072;&#1103; &#1087;&#1080;&#1088;&#1072;&#1084;&#1080;&#1076;&#1072;? &#1044;&#1086; &#1089;&#1080;&#1093; &#1087;&#1086;&#1088; &#1085;&#1077; &#1087;&#1086;&#1085;&#1103;&#1083;&#1080;, &#1086; &#1095;&#1077;&#1084; &#1080;&#1076;&#1077;&#1090; &#1088;&#1077;&#1095;&#1100;? &#1047;&#1072;&#1075;&#1083;&#1103;&#1085;&#1080;&#1090;&#1077; &#1074; &#1088;&#1086;&#1083;&#1080;&#1082;. &#1055;&#1088;&#1080;&#1103;&#1090;&#1085;&#1086;&#1075;&#1086; &#1087;&#1088;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1072;!&#10;&#10;&#1089;&#1089;&#1099;&#1083;&#1082;&#1080;:&#10;&#1074;&#1082; - https://vk.com/sashkabugaga&#10;&#10;&#1055;&#1086; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1072;&#1084; &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1072;: kharchevnikov@wildjam.ru"
     channeltitle "&#1061;&#1072;&#1088;&#1095;&#1077;&#1074;&#1085;&#1080;&#1082;&#1086;&#1074;"
     channelid "UC84J-P1AEat5jPz7C1vKhsw"
@@ -6661,7 +6661,7 @@ graph
     commentcount 1023
     duration "PT14M4S"
     indegree 9
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6679,7 +6679,7 @@ graph
     commentcount 64
     duration "PT8M1S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6687,7 +6687,7 @@ graph
     label "ve63KVzrw20"
     step 0
     date "2022-03-07T09:37:45Z"
-    title "NFT: &#1053;&#1086;&#1074;&#1099;&#1077; &#1076;&#1077;&#1085;&#1100;&#1075;&#1080; &#1080;&#1083;&#1080; &#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1086;&#1074;&#1072;&#1103; &#1087;&#1080;&#1088;&#1072;&#1084;&#1080;&#1076;&#1072; 21 &#1074;&#1077;&#1082;&#1072;"
+    title "NFT: "
     description "&#1053;&#1072;&#1091;&#1095;&#1080;&#1089;&#1100; &#1101;&#1090;&#1080;&#1095;&#1085;&#1086;&#1084;&#1091; &#1093;&#1072;&#1082;&#1080;&#1085;&#1075;&#1091; &#1074; SkillFactory: https://clc.to/P0fHOQ&#10;&#1057;&#1082;&#1080;&#1076;&#1082;&#1072; 50% &#1087;&#1086; &#1087;&#1088;&#1086;&#1084;&#1086;&#1082;&#1086;&#1076;&#1091;  &#1055;&#1054;&#1057;&#1051;&#1045;&#1047;&#1040;&#1042;&#1058;&#1056;&#1040;  &#1076;&#1086; 31.03.2022 &#1075;.&#10;&#10;&#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; NFT? &#1053;&#1086;&#1074;&#1086;&#1077; &#1079;&#1086;&#1083;&#1086;&#1090;&#1086;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1077; &#1087;&#1088;&#1086;&#1076;&#1074;&#1080;&#1075;&#1072;&#1102;&#1090; Eminem, &#1055;&#1101;&#1088;&#1080;&#1089; &#1061;&#1080;&#1083;&#1090;&#1086;&#1085;, James Fallon  &#1080;&#1083;&#1080; &#1086;&#1095;&#1077;&#1088;&#1077;&#1076;&#1085;&#1072;&#1103; &#1072;&#1092;&#1077;&#1088;&#1072; - &#1082;&#1072;&#1082; &#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1086;&#1074;&#1072;&#1103; &#1087;&#1080;&#1088;&#1072;&#1084;&#1080;&#1076;&#1072; &#1052;&#1052;&#1052;, &#1082;&#1086;&#1084;&#1087;&#1072;&#1085;&#1080;&#1103; &#1102;&#1078;&#1085;&#1099;&#1093; &#1084;&#1086;&#1088;&#1077;&#1081; &#1080;&#1083;&#1080; &#1090;&#1102;&#1083;&#1100;&#1087;&#1072;&#1085;&#1086;&#1084;&#1072;&#1085;&#1080;&#1103; &#1074; &#1043;&#1086;&#1083;&#1083;&#1072;&#1085;&#1076;&#1080;&#1080;.&#10;&#10;&#1055;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1072;&#1090;&#1100; &#1084;&#1077;&#1085;&#1103; &#1085;&#1072; boosty: https://boosty.to/aftertomorrow&#10;&#1055;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1072;&#1090;&#1100; &#1084;&#1077;&#1085;&#1103; &#1085;&#1072; patreon: https://www.patreon.com/aftertomorrow&#10;&#1047;&#1072;&#1076;&#1086;&#1085;&#1072;&#1090;&#1080;&#1090;&#1100; &#1085;&#1072; &#1088;&#1072;&#1079;&#1074;&#1080;&#1090;&#1080;&#1077;: https://www.donationalerts.com/r/poslezavtra&#10;&#10;#nft #&#1087;&#1086;&#1089;&#1083;&#1077;&#1079;&#1072;&#1074;&#1090;&#1088;&#1072; #&#1076;&#1091;&#1073;&#1080;&#1085;&#1080;&#1085;"
     channeltitle "&#1055;&#1086;&#1089;&#1083;&#1077;&#1079;&#1072;&#1074;&#1090;&#1088;&#1072;"
     channelid "UC9Rc75wIi4wh5Ir4Th8Di_g"
@@ -6697,7 +6697,7 @@ graph
     commentcount 238
     duration "PT16M56S"
     indegree 1
-    cluster 10
+    cluster 12
   ]
   node
   [
@@ -6705,7 +6705,7 @@ graph
     label "PzuaB6eF4UA"
     step 0
     date "2022-04-17T18:38:36Z"
-    title "Rubius Reacciona a Willy Nft...&#129325;&#129315;"
+    title "Rubius Reacciona a Willy Nft..."
     description "https://www.twitch.tv/rubius&#10;&#10;&#10;&#10;&#10;&#128204;Rubius corp:https://www.rubiuscorp.com&#10;&#128204;Instagram:https://www.instagram.com/elrubiuswtf/&#10;&#128204;Twitter: https://twitter.com/rubiu5&#10;&#128204;Reddit: https://www.reddit.com/r/ubius&#10;&#10; &#128204;Instagram del canal: https://www.instagram.com/agenteconfusion&#10;&#128204;Correo de Contacto:agenteconfusioncontacto@gmail.com&#10;&#10;Info del Canal:&#10;En este canal te encontrar&#225;s los mejores y m&#225;s random clips de los streams as&#237; como tambi&#233;n Varios Videos Editados de los mejores clips  de directos. Este canal cuenta con la autorizaci&#243;n de rubius para subir este tipo de contenido.&#10;&#10;&#10;Playlist:&#10;&#191;Que Paso Ayer?: https://www.youtube.com/watch?v=k9zhYWhQY7s&#38;list=PL00tt1-oiZBx0HFyu6jhvb9voEM6EtoMk&#10;&#10;Minecraft -Clips:https://www.youtube.com/watch?v=UN2Z1CI8Xws&#38;list=PL00tt1-oiZBz3jwEiTR8zFAO_N2ylpqvo&#10;&#10;Just Chatting -Clips:https://www.youtube.com/watch?v=BVXITUzRkLM&#38;list=PL00tt1-oiZBxG4oz7fOnEyHgsjmycTNgH&#10;&#10;Roblox - clips:https://www.youtube.com/watch?v=ii_z1TQ8Cc8&#38;list=PL00tt1-oiZBwhvwxzsc5gop8HagBeIwpR&#10;&#10;Ajedrez - Clips:https://www.youtube.com/watch?v=QEdjE7XV6oo&#38;list=PL00tt1-oiZBy1OH-yaerA6cmeEQ0Np5ds&#10;&#10;Worms -Clips:https://www.youtube.com/watch?v=29n6X9POJ2Q&#38;list=PL00tt1-oiZBzVH86h1y1NCBJepFJeGt3s&#10;&#10;Terror -Clips:https://www.youtube.com/watch?v=IxNsAtKfSCk&#38;list=PL00tt1-oiZBzJxsmwLp886zvMJE9xviua&#10;&#10;All clips:https://www.youtube.com/watch?v=1BsxhIV5NPI&#38;list=PL00tt1-oiZBwmK_QaXz0hzUTwwyMXZdeD&#10;&#10;Terror -Clips:https://www.youtube.com/watch?v=IxNsAtKfSCk&#38;list=PL00tt1-oiZBzJxsmwLp886zvMJE9xviua&#10;&#10;Opening -Clips:https://www.youtube.com/watch?v=7uysQWX7rAY&#38;list=PL00tt1-oiZBzzJxL_EN6iiQK-iQW7aZ1G&#10;&#10;Timing -Clips:https://www.youtube.com/watch?v=LH2K6bduNnI&#38;list=PL00tt1-oiZBxjpgCmaiu1rRLJgY-sTcWJ&#10;&#10;Friday Night Funkin -Clips:https://www.youtube.com/watch?v=7r5h47XUfsI&#38;list=PL00tt1-oiZBwyiybTdX6Ogzshe87XMkp8&#10;&#10;Marbella Vice -Clips:https://www.youtube.com/playlist?list=PL00tt1-oiZBxKuwjWwjdlfj8S5pMmnywc&#10;&#10;Fortnite -Clips:https://www.youtube.com/watch?v=pqqArJGI9KM&#38;list=PL00tt1-oiZByFsjvnhQgnu3IXS-lPzJSP&#10;&#10;Recopilaciones - Videos:https://www.youtube.com/watch?v=XpqBDuGgk-w&#38;list=PL00tt1-oiZByOhHsakNxb1XU3GT_-XtAK&#10;&#10;Volante -Clips:https://www.youtube.com/watch?v=AmpnWjEGqsc&#38;list=PL00tt1-oiZBx9aY4QLAI8U8PItRiemKe4&#10;&#10;Tik Tok -Clips:https://www.youtube.com/watch?v=2EQn9nRMrwg&#38;list=PL00tt1-oiZByC-CsGubuFu1u3LH806H25&#10;&#10;Chef Noruego -Clips:https://www.youtube.com/watch?v=n1QpCu15q9w&#38;list=PL00tt1-oiZByMKXr7mN0SuB2584iyhNMi &#10;&#10;Discord con Subs -Clips:https://www.youtube.com/watch?v=Em6pB804Dmw&#38;list=PL00tt1-oiZBwm0UMgCh6Sx8RfJTybSaSF&#10;&#10;Vtuber -Clips:https://www.youtube.com/watch?v=li_uTLqEYXE&#38;list=PL00tt1-oiZBwRuiPMtnXg8v9W_roV7Jeo&#10;&#10;Resident Evil 8:https://www.youtube.com/watch?v=XpqBDuGgk-w&#38;list=PL00tt1-oiZBxdkquth06vpywkLghQOavw&#10;&#10;Resident Evil 8 -Clips:https://www.youtube.com/watch?v=T1AdK-8X9ig&#38;list=PL00tt1-oiZBxa1bor6zF5LrLeu9pr58mN&#10;&#10;God of War:https://www.youtube.com/watch?v=MNuNP8qB5-o&#38;list=PL00tt1-oiZBwKh3FE1NkI6DYbUR6kWaNr&#10;&#10;&#10;Alexby y Aroyitt&#10;&#10;Aroyitt y Alexby"
     channeltitle "AgenteConfusi&#243;n"
     channelid "UC_WUp1CcR16wGTixchsjNKg"
@@ -6715,7 +6715,7 @@ graph
     commentcount 196
     duration "PT1M13S"
     indegree 13
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6723,7 +6723,7 @@ graph
     label "xEbsS851Vsw"
     step 0
     date "2022-06-04T12:21:19Z"
-    title "&#12300;&#21448;&#20418;NFT&#12301;&#20803;&#23431;&#23449;&#21040;&#24213;&#20418;&#20570;&#20060;_&#21568;? - Sunny@arhoTV"
+    title "? - Sunny@arhoTV"
     description "&#12300;&#21448;&#20418;NFT&#12301;&#20803;&#23431;&#23449;&#21040;&#24213;&#20418;&#20570;&#20060;_&#21568;? - Sunny@arhoTV&#10;&#10;&#21152;&#20837;&#25104;&#28858;&#25105;&#30340;&#26371;&#21729;: https://www.youtube.com/channel/UC8VYs6NVw_1i71Iv2yux-Cg/join&#10;&#10;PAYPAL&#21161;&#39178;TIK LEE: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&#38;business=WTUGXQKRJDW5U&#38;lc=HK&#38;item_name=%e8%b4%8a%e5%8a%a9TIK%20LEE&#38;button_subtype=services&#38;currency_code=HKD&#38;bn=PP%2dBuyNowBF%3abtn_buynowCC_LG_wCUP%2egif%3aNonHosted&#10;&#10;FACEBOOK :&#10;https://www.facebook.com/TIKLEE.SHIVA/?ref=aymt_homepage_panel&#10;&#10;IG: https://www.instagram.com/tik_lee__/&#10;&#10;&#24037;&#21830;&#21512;&#20316; : shiva8394@gmail.com"
     channeltitle "TIK LEE"
     channelid "UC8VYs6NVw_1i71Iv2yux-Cg"
@@ -6733,7 +6733,7 @@ graph
     commentcount 115
     duration "PT17M"
     indegree 4
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 250
     duration "PT19M11S"
     indegree 1
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6759,7 +6759,7 @@ graph
     label "rTszpfVUq00"
     step 0
     date "2022-05-28T14:53:08Z"
-    title "&#12304;&#31361;&#30332;&#12305;&#22238;&#25033;&#26377;&#38364;NFT&#29229;&#35696;"
+    title ""
     description "&#24076;&#26395;&#27492;&#24433;&#29255;&#33021;&#35299;&#31572;&#22823;&#23478;&#30340;&#30097;&#21839;&#10;&#10;&#9658;&#26085;&#26032;&#20803;&#23431;&#23449;&#32178;&#31449;&#9658; https://nft.arhosunny.com/&#10;&#9658;&#21152;&#20837;&#25105;&#20497;&#30340;Discord&#65281;&#9658; https://discord.gg/arhotverse&#10;&#9658;&#36092;&#36023;&#25105;&#30340;&#29986;&#21697;&#9658;http://arhosunny.com&#10;&#9658;&#25104;&#28858;&#26085;&#26032;&#37329;&#20027;&#9658;https://bit.ly/2MuPZYT&#10;&#9658;&#35330;&#38321;ARHOTV &#36898;&#26143;&#26399;&#20108;&#12289;&#22235;&#12289;&#20845;&#20986;&#29255; &#9658; https://goo.gl/etJik6&#10;&#9658;FACEBOOK &#9658; https://goo.gl/erHesS&#10;&#9658;Instagram &#9658;https://goo.gl/J8h7Z5&#10;&#10;&#12304;ARHO SUNNY &#30340;&#38364;&#37749;&#23383;&#12305;&#10;&#26085;&#26412;&#65295;&#38283;&#31665;&#65295;&#28120;&#23542;&#65295;&#24040;&#22823;&#65295;&#22781;&#21496;&#65295;&#25361;&#25136;&#65295;&#39135;&#29609;&#65295;&#21155;&#39135;&#65295; &#39321;&#28207;&#65295;&#28526;&#27969;&#65295;&#24291;&#26481;&#35441;&#65295;&#20415;&#21033;&#24215;&#39135;&#21697;&#65295;RAP&#65295;HIP HOP&#65295;&#38899;&#27138;&#65295;CREAMY&#65295;RAPPER&#65295;&#22075;&#21704;&#65295;&#30059;&#30059;&#65295;&#35373;&#35336;&#65295;&#34269;&#34899;&#65295;&#24773;&#20406;&#65295;&#31359;&#25645;&#65295;"
     channeltitle "arhoTV"
     channelid "UCXTE-gQCetfrx_lC9yFM2aw"
@@ -6769,7 +6769,7 @@ graph
     commentcount 5440
     duration "PT8M25S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6777,7 +6777,7 @@ graph
     label "8s2Ri2nGlZs"
     step 0
     date "2022-03-27T14:45:13Z"
-    title "&#30693;&#21517;&#32178;&#32005;&#29992;NFT&#39449;&#31881;&#32114;&#30340;&#37666;&#65281;&#20107;&#24460;&#19968;&#21477;&#12300;&#25105;&#20063;&#21463;&#20663;&#24456;&#37325;&#12301;&#23601;&#24819;&#20813;&#36012;&#65281;&#65311;&#22081;&#24515;&#33267;&#26997;&#12304;&#22909;&#26834;Bump&#12305;"
+    title ""
     description "&#30693;&#21517;&#32178;&#32005;&#39449;&#31881;&#32114;&#30340;&#37666;&#8230; &#20107;&#24460;&#21371;&#27794;&#36000;&#36012;&#20219;&#21040;&#24213;&#8230;&#10;&#36996;&#22312;&#37027;&#37002;&#35037;&#21487;&#24976;&#24819;&#32380;&#32396;&#21106;&#19979;&#19968;&#27874;&#65311;&#10;&#10;&#24478;&#38957;&#21040;&#23614;&#32178;&#32005;&#23601;&#19981;&#21487;&#33021;&#26371;&#21578;&#35380;&#22823;&#23478;&#23526;&#35441;&#8230;&#10;&#25308;&#35351;&#20320;&#20497;&#28165;&#37266;&#19968;&#40670;&#10;#NFT #&#39449;&#31881;&#32114;&#37666; #&#23567;&#24515;&#35328;&#35542;&#20182;&#26371;&#21578;&#20320;&#21938;&#10;--------------------------------------------------------- &#13;&#10;&#19978;&#19968;&#37096;&#24433;&#29255;&#30007;&#29983;&#35531;&#23567;&#24515;&#65281;Gash&#40670;&#25976;&#12289;&#35222;&#35338;&#35064;&#32842;&#12289;&#32178;&#32654;&#32004;&#24859;&#65281;&#36890;&#36890;&#26159;&#24656;&#22151;&#22411;&#35408;&#39449;&#65281;&#12304;&#22909;&#26834;Bump&#12305;&#12304;&#35408;&#39449;&#35299;&#30908;&#12305;https://youtu.be/PyF7qlayEfw&#13;&#10;&#13;&#10;&#32769;&#23376;&#30340;IG&#65306;https://bit.ly/2JqmmIq&#13;&#10;&#32769;&#23376;&#30340;FB&#65306;https://bit.ly/2s3pwwb"
     channeltitle "&#22909;&#26834;Bump"
     channelid "UC7XxnhjdYjiQJ3m80K_N_4g"
@@ -6787,7 +6787,7 @@ graph
     commentcount 2832
     duration "PT15M42S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6795,7 +6795,7 @@ graph
     label "iO3WvV86lS0"
     step 0
     date "2022-06-18T10:30:12Z"
-    title "&#25105;&#33457;&#20061;&#33836;&#20803;&#36023;&#20102;&#19968;&#20491;&#12300;&#23526;&#39636;&#30340;&#12301;NFT"
+    title "NFT"
     description "@AmyShackletonArt &#10;Instagram &#9654; https://reurl.cc/WroX9e&#10;YT&#38971;&#36947; &#9654; https://reurl.cc/ZAoj6l&#10;FB&#31881;&#23560; &#9654; https://reurl.cc/Lmo7kK&#10;Amy&#30340;&#23448;&#26041;&#32178;&#31449; &#9654; https://amyshackleton.com/&#10;&#10;&#21886;&#38899;&#22909;&#26360; &#9654; https://reurl.cc/NX5ED5&#10;&#21886;&#21886;&#38795;&#25972;&#29702;&#36039;&#26009;&#30340;&#31192;&#35363; &#9654; https://bit.ly/2vi0urX&#10;&#10;&#9660;&#21886;&#21886;&#38795;&#30340;&#20154;&#27683;&#24433;&#29255;&#9660;&#10;&#12298;32&#34903;&#30340;&#20605;&#37396;&#22825;&#25165;&#12299;&#20605;&#37396;&#22823;&#24107;&#30340;&#25925;&#20107;&#10;https://youtu.be/9lKe9irDIDw&#10;Chrome&#23567;&#24656;&#40845;&#30340;&#31192;&#23494;!&#10;https://youtu.be/besQJCZ20j4&#10;&#22312;&#36335;&#19978;&#25791;&#21040;&#38568;&#36523;&#30879;&#65292;&#20320;&#26371;...?&#10;https://bit.ly/2ytI7E5&#10;&#20420;&#32645;&#26031;&#26041;&#22602;&#20063;&#26377;&#19990;&#30028;&#20896;&#36557;!?&#10;https://youtu.be/Dh9VaezvVnU&#10;YouTube&#30340;&#33258;&#21205;&#25773;&#25918;&#21151;&#33021;&#65292;&#25773;&#21040;&#26368;&#24460;&#26371;&#30475;&#21040;&#20160;&#40636;&#21602;?&#10;https://youtu.be/HMxT-MCRmh4&#10;&#29275;&#25490;&#30340;&#34880;&#27700;&#19981;&#26159;&#34880;!&#10;https://youtu.be/-7GjvnJ2PO0&#10;&#10;&#10;&#10;&#31881;&#32114;&#23560;&#38913;:https://www.facebook.com/chuchushoeTW&#10;Instagram:http://instagram.com/chuchushoetw&#10;Twitter:https://twitter.com/chuchushoeTW"
     channeltitle "&#21886;&#21886;&#38795;"
     channelid "UCIF_gt4BfsWyM_2GOcKXyEQ"
@@ -6805,7 +6805,7 @@ graph
     commentcount 698
     duration "PT9M24S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6813,7 +6813,7 @@ graph
     label "4WiIMXZZR-s"
     step 0
     date "2021-12-17T17:00:02Z"
-    title "Comment Gagner de l&#38;#39;argent avec les NFT"
+    title "Comment Gagner de largent avec les NFT"
     description "Profites de 7jours gratuits sur la plateforme de trading Bitsgap: https://bitsgap.com/?ref=61545622&#10;&#10;Projets NFT:&#10;https://metabillionaire.com/&#10;https://www.hapebeast.com/&#10;&#10;&#129000; ABONNE-TOI EN CLIQUANT ICI&#10;https://bit.ly/3gjKcFp&#10;&#10;&#10140; Formation GRATUITE &#34;comment monter une chaine youtube rentable&#34;: https://bit.ly/3nSauDo&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; INSTAGRAM &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10; &#10140; Mon Instagram : http://instagram.com/ibrahimkamara6&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644; MON MAT&#201;RIEL &#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10140; Cam&#233;ra: https://amzn.to/3rsA1Wu https://amzn.to/3I7EpQu&#10;&#10140; Micro: https://amzn.to/2PmBKvO https://amzn.to/3DfRF1P&#10;&#10140; Lumi&#232;res: https://amzn.to/3xmwV6Q https://amzn.to/3tKJhDw&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644; MES FORMATIONS &#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10140; YouTube Empire: https://bit.ly/3H7iUyh&#10;&#10140; YouTube Anonymous: https://bit.ly/3KXHzb9&#10;&#10140; Business No Limit: https://bit.ly/3JGgisw&#10;&#10;Contact professionnel: contact@ibrahimkamara.com&#10;Pour les demandes de partenariats: ibrahim@jd-media.be"
     channeltitle "Ibrahim Kamara"
     channelid "UCvYToeS2fI2C7fBqa38Iojw"
@@ -6823,7 +6823,7 @@ graph
     commentcount 304
     duration "PT12M33S"
     indegree 6
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6831,7 +6831,7 @@ graph
     label "pWuYjTV7_q0"
     step 0
     date "2022-04-10T08:00:13Z"
-    title "Jogos az NFT &#337;r&#252;let, vagy t&#250;l nagy a hype a semmi&#233;rt?"
+    title "Jogos az NFT rt?"
     description "Csatlakozz te is a csatorna tagjaihoz &#233;s ak&#225;r r&#233;szt vehetsz egy vide&#243; elk&#233;sz&#237;t&#233;s&#233;ben is! &#128073; https://www.youtube.com/channel/UCEjwheEK9lMWgQOKFGgr0xw/join&#10;&#10;Pr&#243;b&#225;ld ki te is a Rackhost-ot most 3.000 Ft kedvezm&#233;nnyel, de siess, mert csak az els&#337; 100 regisztr&#225;l&#243;nak j&#225;r az aj&#225;nlat! https://www.rackhost.hu/referral/coupon?code=TQCHMAzD&#10;&#10;V&#225;s&#225;rold meg a kript&#243;d Binance-en: https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_005CXGMNVR &#10;Regisztr&#225;lj MetaMaskra &#233;s hozd l&#233;tre a kripto p&#233;nzt&#225;rc&#225;d: https://metamask.io/&#10;V&#225;s&#225;rolj NFt-t az OpenSea oldalon: https://opensea.io/&#10;&#10;Inst&#225;n is fent vagyunk: https://www.instagram.com/tizeslista/&#10;T&#237;zes lista Facebook: https://www.facebook.com/tizeslista/&#10;&#10;Az NFT-k m&#225;r 2014 &#243;ta l&#233;teznek a digit&#225;lis vil&#225;gban, de m&#233;gis csak nemr&#233;g robbantak be igaz&#225;n a k&#246;ztudatba. Sz&#243; szerint b&#225;rmi lehet NFT: m&#369;v&#233;szeti alkot&#225;sok, GIF-ek, vide&#243;k, s&#337;t ak&#225;r m&#233;g egy WC pap&#237;r guriga fot&#243;ja is. Az emberek pedig &#250;gy veszik &#337;ket, mint a cukrot, m&#233;ghozz&#225; olyan &#246;sszegek&#233;rt, mintha gy&#233;m&#225;ntok lenn&#233;nek. Nem egy v&#225;ltott gazd&#225;t t&#246;bb sz&#225;zmilli&#243; forintot &#233;r&#337; kript&#243;&#233;rt.&#10;&#10;0:00 Intro&#10;0:47 Meg&#233;rik?&#10;1:54 Mi az az NFT?&#10;4:38 Miben m&#225;s, mint a Crypto?&#10;6:16 &#205;gy m&#369;k&#246;dnek az NFT-k&#10;8:21 Mire haszn&#225;lj&#225;k?&#10;10:38 &#205;gy vehetsz NFT-t&#10;12:26 T&#233;nyleg sz&#252;ks&#233;ged van r&#225;?&#10;&#10;Forr&#225;sok: https://pastebin.com/gve4qATU&#10;&#10;Zene a vide&#243; alatt: https://audiojungle.net/item/stylish-lounge/24427610&#10;&#10;Outro zene: Cold Funk - Funkorama by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/...)&#10;&#10;Sz&#246;veg: &#10;#NFT #M&#225;rk #t&#237;zeslista"
     channeltitle "T&#237;zes lista"
     channelid "UCEjwheEK9lMWgQOKFGgr0xw"
@@ -6841,7 +6841,7 @@ graph
     commentcount 95
     duration "PT14M15S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6849,7 +6849,7 @@ graph
     label "8b1Tqmln6GU"
     step 0
     date "2022-05-24T15:34:28Z"
-    title "&#12304;&#31361;&#30332;&#12305;&#26085;&#26032;&#20803;&#23431;&#23449;&#27491;&#24335;&#30332;&#34920;&#65281;"
+    title ""
     description "&#9658;&#26085;&#26032;&#20803;&#23431;&#23449;NFT&#32178;&#31449;&#9658; https://nft.arhosunny.com/&#10;&#10;One Satoshi&#26106;&#35282;&#32317;&#24215;&#22320;&#22336;:&#10;&#26106;&#35282;&#24396;&#25958;&#36947;608&#34399;&#32317;&#32113;&#21830;&#26989;&#22823;&#24264;3&#27155;321&#34399;&#33302;&#10;&#10;&#20854;&#20182;&#20998;&#24215;&#22320;&#22336;&#21487;&#20197;&#21443;&#32771;&#19968;&#23447;&#32178;&#38913;&#128071;&#127995;&#10;https://zh.onesatoshi.world/stores&#10;&#10;&#20778;&#24800;&#26399;&#33267;6&#26376;30&#26085;&#10;&#10;&#19968;&#23447;instagram: onesatoshi_hk&#10;&#10;&#19968;&#23447;telegram USDT/USDC&#22577;&#20729;&#32676;&#32068;: https://t.me/onesatoshi_usdt&#10;&#10;&#9658;&#21152;&#20837;&#25105;&#20497;&#30340;Discord&#65281;&#9658; https://discord.gg/arhotverse&#10;&#9658;&#36092;&#36023;&#25105;&#30340;&#29986;&#21697;&#9658;http://arhosunny.com&#10;&#9658;&#25104;&#28858;&#26085;&#26032;&#37329;&#20027;&#9658;https://bit.ly/2MuPZYT&#10;&#9658;&#35330;&#38321;ARHOTV &#36898;&#26143;&#26399;&#20108;&#12289;&#22235;&#12289;&#20845;&#20986;&#29255; &#9658; https://goo.gl/etJik6&#10;&#9658;FACEBOOK &#9658; https://goo.gl/erHesS&#10;&#9658;Instagram &#9658;https://goo.gl/J8h7Z5&#10;&#10;&#12304;ARHO SUNNY &#30340;&#38364;&#37749;&#23383;&#12305;&#10;&#26085;&#26412;&#65295;&#38283;&#31665;&#65295;&#28120;&#23542;&#65295;&#24040;&#22823;&#65295;&#22781;&#21496;&#65295;&#25361;&#25136;&#65295;&#39135;&#29609;&#65295;&#21155;&#39135;&#65295; &#39321;&#28207;&#65295;&#28526;&#27969;&#65295;&#24291;&#26481;&#35441;&#65295;&#20415;&#21033;&#24215;&#39135;&#21697;&#65295;RAP&#65295;HIP HOP&#65295;&#38899;&#27138;&#65295;CREAMY&#65295;RAPPER&#65295;&#22075;&#21704;&#65295;&#30059;&#30059;&#65295;&#35373;&#35336;&#65295;&#34269;&#34899;&#65295;&#24773;&#20406;&#65295;&#31359;&#25645;&#65295;"
     channeltitle "arhoTV"
     channelid "UCXTE-gQCetfrx_lC9yFM2aw"
@@ -6859,7 +6859,7 @@ graph
     commentcount 1955
     duration "PT23M55S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6877,7 +6877,7 @@ graph
     commentcount 19
     duration "PT1M2S"
     indegree 2
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6885,7 +6885,7 @@ graph
     label "PN47emVLbBk"
     step 0
     date "2022-05-25T18:11:23Z"
-    title "&#191;Cu&#225;nto pagar&#237;as por este NFT?"
+    title "as por este NFT?"
     description "Oahs!&#10;idk&#10;Espero les guste, cu&#237;dense y recuerden tomar agua. &#9825;&#10;&#10;&#128204; S&#237;gueme en Vale_Ota's News:&#10;https://youtube.com/channel/UCPOfDlaJH3eD5xN7zWzI2uA&#10;&#10;&#128204; S&#237;gueme en Instagram:&#10;https://www.instagram.com/valeota.mc/&#10;&#10;&#128204; Contacto:&#10;valeota.mc@gmail.com&#10;&#10;My video was made for pure entertainment porpuse. These copyrights belong to its rightful owners."
     channeltitle "Vale_Ota"
     channelid "UCrGwRj-NrqYgocb6EiWLP-w"
@@ -6895,7 +6895,7 @@ graph
     commentcount 189
     duration "PT3M34S"
     indegree 0
-    cluster 8
+    cluster 10
   ]
   node
   [
@@ -6903,7 +6903,7 @@ graph
     label "MEMjJ_QdELQ"
     step 0
     date "2022-07-12T02:53:11Z"
-    title "&#12304;&#33457;&#29983;&#21561;&#27700;&#21488; Ep.4&#12305;&#9876;&#65039;&#35413;&#35542;Arho TV Sunny Creamy NFT &#20844;&#38364;&#28797; &#38627;&#20107;&#20214;  &#128561;&#9876;&#65039;&#128547;"
+    title ""
     description "#arho tv #sunny #creamy #&#24040;&#22823;&#21270; #&#20844;&#38364;&#28797;&#38627;&#10;#&#21561;&#27700; #&#33457;&#29983;&#21488; &#10;&#12304;&#33457;&#29983;&#21561;&#27700;&#21488; Ep.4&#12305;&#9876;&#65039;&#35413;&#35542;Arho TV Sunny Creamy NFT"
     channeltitle "&#30007;&#39340;&#21033; BlueMary"
     channelid "UCAuFUbnXeT6NFIrRHHCCGsg"
@@ -6913,7 +6913,7 @@ graph
     commentcount 27
     duration "PT13M34S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6921,7 +6921,7 @@ graph
     label "v3ezLPeI_O4"
     step 0
     date "2022-07-01T10:12:31Z"
-    title "&#12304;&#33457;&#29983;&#21561;&#27700;&#21488; Ep.1&#12305;&#9876;&#65039;&#35413;&#35542;Arho TV Sunny Creamy NFT / &#28120;&#23542;&#20844;&#38364;&#28797;&#38627;&#24040;&#22823;&#21270;&#128561;&#9876;&#65039;&#38468;&#36865;&#20182;&#20497;&#20841;&#27573;&#25079;&#30097;&#36896;&#20551;&#21380;&#35264;&#30526;&#21380;&#27969;&#37327;&#30340;&#24433;&#29255;&#128545;&#128580;"
+    title ""
     description "#arho TV #sunny NFT #creamy #&#28120;&#23542; #NFT #&#24040;&#22823;&#21270;&#10;&#12304;&#33457;&#29983;&#21561;&#27700;&#21488; Ep.1&#12305;&#9876;&#65039;&#35413;&#35542;Arho TV Sunny Creamy NFT &#28120;&#23542;&#31561; &#20844;&#38364;&#28797;&#38627;&#24040;&#22823;&#21270;&#128561;&#9876;&#65039;&#38468;&#36865;&#20182;&#20497;&#20841;&#27573;&#25079;&#30097;&#36896;&#20551;&#21380;&#35264;&#30526;&#21380;&#27969;&#37327;&#30340;&#24433;&#29255;&#128545;&#128580;"
     channeltitle "&#30007;&#39340;&#21033; BlueMary"
     channelid "UCAuFUbnXeT6NFIrRHHCCGsg"
@@ -6931,7 +6931,7 @@ graph
     commentcount 90
     duration "PT15M21S"
     indegree 3
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6949,7 +6949,7 @@ graph
     commentcount 12676
     duration "PT1H2M25S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 2
     duration "PT32S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   edge
   [
