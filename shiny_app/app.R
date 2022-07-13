@@ -10,7 +10,7 @@ library(digest)
 ## Set file paths **EACH USER SHOULD UPDATE**
 
 # *Update with your source path to the app folder*
-app_path <- "...yt"
+app_path <- "..\\yt"
 
 # Responses path (no need to change)
 responses_path <- file.path(app_path, "responses/")
@@ -212,4 +212,3 @@ server <- function(input, output, session) {
 ###################################################
 ## Run the app
 shinyApp(ui, server)
-
