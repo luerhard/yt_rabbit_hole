@@ -1,3 +1,6 @@
+##Load RDS file
+# data <- readRDS("C:/Users/lamba/Dropbox/SICSS Group Project Data/JournalCodeR/clean_for_app_full.RDS")
+#data
 ######################################################
 ## Load required packages
 
@@ -11,7 +14,7 @@ library(digest)
 ## Set file paths **EACH USER SHOULD UPDATE**
 
 # *Update with your source path to the app folder*
-app_path <- "..yt"
+app_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
 
 # Responses path (no need to change)
 responses_path <- file.path(app_path, "responses/")
@@ -70,12 +73,17 @@ ui_check <- fluidRow(
 
 ## Step 2: Code an Abstract
 # coding choices
-codes <- c("None selected",
+micro <- c("None selected",
            "Debunking",
            "Neutral", 
            "Spreading",
            "Description missing",
            "I'm not sure")
+
+topic <- c("None selected",
+            "Yes",
+            "No",
+            "I'm not sure")
 
 # layout
 ui_code <- sidebarLayout(
@@ -83,9 +91,14 @@ ui_code <- sidebarLayout(
     div( 
       id = "form",
       # make a coding decision
-      radioButtons("code_choice", "Coding Choice", codes),
-      # submit decision
-      actionButton("submit", "Submit")
+      
+      radioButtons("micro", "Micro", micro),
+     
+      fluidRow(
+        column=1,
+        radioButtons("topic", "On Topic", topic),
+        actionButton("submit", "Submit"),
+      )
     )
   ),
   # display the title and abstract
@@ -123,7 +136,7 @@ ui <- fluidPage(
 ## Define Server functions
 
 # Define the fields we want to save 
-fields <- c("name", "code_choice")
+fields <- c("name", "micro", "topic")
 
 server <- function(input, output, session) {
   
@@ -143,18 +156,18 @@ server <- function(input, output, session) {
       dplyr::sample_n(size = 1) 
   })
   
-  # display title, and description----------------------
+  # display journal, title, and abstract ----------------------
   output$title <- renderTable(to_code() %>% select(title))
   output$description <- renderTable(to_code() %>% select(description)) 
   output$channel_title <- renderTable(to_code() %>% select(channel_title))
   output$url <- renderTable(to_code() %>% select(url))
   
-  # Aggregate form data and s.no. -----------------------
+  # Aggregate form data and article ID -----------------------
   formData <- reactive({
     data <- sapply(fields, function(x) input[[x]])
-    # append s.no.
+    # append article ID
     data <- c(data, # coder name and choice
-              to_code() %>% select(s.no.)) # s.no.
+              to_code() %>% select(s.no.)) # article ID
     # transpose
     data <- t(data)
     data
