@@ -1,5 +1,9 @@
 # making wordclouds from video descriptions or titles
 
+library('dplyr')
+library('tm')
+library('wordcloud')
+
 # import (clean) data
 
 g <- read_graph('../data/clean/networks/filter_bubbles.gml', format = "gml")
