@@ -11,7 +11,7 @@ library(digest)
 ## Set file paths **EACH USER SHOULD UPDATE**
 
 # *Update with your source path to the app folder*
-app_path <- "..yt"
+app_path <- "."
 
 # Responses path (no need to change)
 responses_path <- file.path(app_path, "responses/")
@@ -49,7 +49,7 @@ names <- c("None Selected", "Annika", "Lukas",
 ui_intro <- sidebarLayout(
   sidebarPanel(
     # who is coding? (will not re-set automatically)
-    selectInput("name", "Coder Name", names)
+    radioButtons("name", "Coder Name", names)
   ),
   mainPanel(
     # show a new abstract button
@@ -91,6 +91,7 @@ ui_code <- sidebarLayout(
   # display the title and abstract
   mainPanel(
     # display current item to code
+    HTML(paste0('<iframe width="560" height="315" src="',url,'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>')),
     tableOutput("title"),
     tableOutput("description"),
     tableOutput("channel_title"),
