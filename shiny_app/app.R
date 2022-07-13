@@ -1,7 +1,3 @@
-##Load RDS file
-# data <- readRDS("C:/Users/lamba/Dropbox/SICSS Group Project Data/JournalCodeR/clean_for_app_full.RDS")
-#data
-######################################################
 ## Load required packages
 
 library(tidyverse)
