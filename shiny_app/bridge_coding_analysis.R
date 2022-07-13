@@ -46,25 +46,71 @@ saveRDS(code_data, paste0(my_path, "response_data.rds"))
 
 ## If 2 initial coders agreed, final outcome = their agreed choice
 two_agree <- code_data %>%
+  group_by(s.no.) %>%
+  mutate(count = length(c(micro, topic))) %>%
+  filter(count == 2) %>%
+  # check that coding decisions agree
+  mutate(unique_codes = n_distinct(c(micro, topic)))
+
+table(two_agree$unique_codes) 
+
+# final UID & code choice only
+two_agree <- two_agree %>%
+  distinct(s.no., .keep_all = T) %>% 
+  select(-name, -count, -unique_codes) 
+
+## If at least 3 agreed, final outcome = the choice 3 chose
+three_agree <- code_data %>%
+  group_by(s.no.) %>%
+  mutate(count = length(c(micro, topic))) %>%
+  filter(count == 3 & name != "Group") %>%
+  # check that coding decisions agree
+  mutate(unique_codes = n_distinct(c(micro, topic))) %>%
+  # 2 code choices only 
+  filter(unique_codes == 2) %>%
+  # keep the choice at least 3 agree on
+  count(code_choice) %>%
+  filter(n == 3) %>%
+  # delete extraneous variable
+  select(-n)
+
+length(unique(three_agree$s.no.)) 
+
+## Bind final decisions together
+final_choices <- bind_rows(two_agree,
+                           three_agree) 
+
+length(unique(final_choices$s.no.)) # all unique
+length(unique(data$s.no.)) 
+
+#################################################
+##################################################
+# To use only if we agree to code individually
+
+## 1 coder = their agreed choice
+one_agree <- code_data %>%
     group_by(s.no.) %>%
     mutate(count = length(c(micro, topic))) %>%
     filter(count == 1) %>%
     # check that coding decisions agree
     mutate(unique_codes = n_distinct(c(micro, topic)))
 
-table(two_agree$unique_codes) # all the same
+table(one_agree$unique_codes) # all the same
 
 # final UID & code choice only
-two_agree <- two_agree %>%
+one_agree <- one_agree %>%
     distinct(s.no., .keep_all = T) %>%
     select(-name, -count, -unique_codes) 
 
 
 ## Bind final decisions together
-final_choices <- bind_rows(two_agree) # 5876 records
+final_choices2 <- bind_rows(one_agree) 
 
-length(unique(final_choices$s.no.)) # all unique
-length(unique(data$s.no.)) # vs. 5880 in original
+length(unique(final_choices2$s.no.)) 
+length(unique(data$s.no.)) 
+
+######################################
+######################################
 
 ## Check missing UIDs
 missing <- data$s.no.[!(data$s.no. %in% final_choices$s.no.)]
