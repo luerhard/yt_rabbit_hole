@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:26 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:34:01 2022"
 Version 1
 graph
 [
@@ -27,7 +27,7 @@ graph
     label "IaxoIbXAcKM"
     step 0
     date "2020-05-07T21:15:27Z"
-    title "&#38;quot;Plandemic&#38;quot; Video Analysis | Did Judy Mikovits Connect the Dots?"
+    title " Video Analysis | Did Judy Mikovits Connect the Dots?"
     description "This video answers the questions: Can I analyze the &#8220;Plandemic&#8221; video featuring Judy Mikovits? Support Dr. Grande on Patreon: https://www.patreon.com/drgrande&#10;&#10;https://heavy.com/news/2020/05/judy-mikovits/&#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7126676/&#10;https://academic.oup.com/cid/article/57/6/789/329048&#10;https://www.syracuse.com/coronavirus/2020/05/youtube-removes-plandemic-video-with-coronavirus-claims-by-dr-judy-mikovits.html&#10;&#10;March, E., &#38; Springer, J. (2019). Belief in conspiracy theories: The predictive role of schizotypy, Machiavellianism, and primary psychopathy. PLoS ONE, 14(12), 1&#8211;10. doi:10.1371/journal.pone.0225964"
     channeltitle "Dr. Todd Grande"
     channelid "UCC_0vyFTKk1Nlodo4QsiQkw"
@@ -37,7 +37,7 @@ graph
     commentcount 9007
     duration "PT8M31S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -45,7 +45,7 @@ graph
     label "KHeg9DDrjMs"
     step 0
     date "2020-05-06T21:12:51Z"
-    title "A Doctor Reacts To &#8220;Plandemic&#38;quot;"
+    title "A Doctor Reacts To "
     description "Here is my take on the recently viral video about researcher Judy Mikovits, Fauci, and COVID-19.&#10;&#10;Links and more: https://zdoggmd.com/plandemic&#10;See also: https://respectfulinsolence.com/2020/05/06/judy-mikovits-pandemic&#10;&#10;Your support makes what we do possible! Join the SuperPac and get exclusive content, live discussions, and other crazy perks:&#10;&#10;YouTube: https://www.youtube.com/user/zdoggmd/join&#10;Facebook: http://facebook.com/becomesupporter/zdoggmd&#10;Patreon: http://patreon.com/zdoggmd&#10;PayPal: https://www.paypal.me/zdoggmd&#10;&#10;Website: https://ZDoggMD.com&#10;Podcast: https://ZDoggMD.com/podcasts&#10;Facebook: http://facebook.com/zdoggmd&#10;Newsletter: http://eepurl.com/gD8_D1&#10;Twitter: http://twitter.com/zdoggmd&#10;Instagram: http://instagram.com/zdoggmd&#10;&#10;Send Us Email: zubin@turntablehealth.com&#10;Send Us Hate Mail:&#10;1025 Alameda De Las Pulgas #218&#10;Belmont, CA 94002"
     channeltitle "ZDoggMD"
     channelid "UCFyRz1N_T-rnSkbaAH_TFAw"
@@ -63,7 +63,7 @@ graph
     label "YqWUuOqf_TU"
     step 0
     date "2020-05-12T00:19:36Z"
-    title "How &#38;#39;Plandemic&#38;#39; and other conspiracy theories spread"
+    title "How and other conspiracy theories spread"
     description "A new video called 'Plandemic' is full of false claims about COVID-19, but that hasn't stopped it from spreading online. An expert explains how 'Plandemic' and other conspiracy theories get popular.&#13;&#10;&#10;&#187;&#187;&#187; Subscribe to CBC News to watch more videos: http://bit.ly/1RreYWS&#13;&#10;&#13;&#10;Connect with CBC News Online:&#13;&#10;&#13;&#10;For breaking news, video, audio and in-depth coverage: http://bit.ly/1Z0m6iX&#13;&#10;Find CBC News on Facebook: http://bit.ly/1WjG36m&#13;&#10;Follow CBC News on Twitter: http://bit.ly/1sA5P9H&#13;&#10;For breaking news on Twitter: http://bit.ly/1WjDyks&#13;&#10;Follow CBC News on Instagram: http://bit.ly/1Z0iE7O&#13;&#10;&#13;&#10;Download the CBC News app for iOS: http://apple.co/25mpsUz&#13;&#10;Download the CBC News app for Android: http://bit.ly/1XxuozZ&#13;&#10;&#13;&#10;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#187;&#13;&#10;For more than 75 years, CBC News has been the source Canadians turn to, to keep them informed about their communities, their country and their world. Through regional and national programming on multiple platforms, including CBC Television, CBC News Network, CBC Radio, CBCNews.ca, mobile and on-demand, CBC News and its internationally recognized team of award-winning journalists deliver the breaking stories, the issues, the analyses and the personalities that matter to Canadians."
     channeltitle "CBC News"
     channelid "UCuFFtHWoLl5fauMMD5Ww2jA"
@@ -81,7 +81,7 @@ graph
     label "JasyAndXUNE"
     step 0
     date "2020-05-08T22:38:04Z"
-    title "VERIFY: Debunking the &#38;quot;Plandemic&#38;quot; viral video"
+    title "VERIFY: Debunking the viral video"
     description "The TEGNA Verify team found the viral 25-minute video is trying to push a narrative filled with falsehoods and a lack of evidence - leading reporter Jason Puckett to label it as disinformation.&#10;&#10;Welcome to the KARE 11 News YouTube channel. Subscribe to our channel for compelling and dramatic storytelling, award winning investigations, breaking news and information you can use. &#13;&#10;&#13;&#10;Text your photos, videos and news tips to 763-797-7215.&#13;&#10;&#13;&#10;&#187; Subscribe to KARE 11 on YouTube: https://www.youtube.com/user/KARE11?sub_confirmation=1&#13;&#10;&#187; Watch more KARE 11 video: https://www.youtube.com/user/KARE11/v...&#13;&#10;&#187; Visit KARE11.com: http://www.kare11.com/&#13;&#10;&#187; Download our app! https://www.kare11.com/appredirect/&#13;&#10;&#187; Find KARE 11 on Facebook: https://www.facebook.com/KARE11/&#13;&#10;&#187; Follow KARE 11 on Twitter: https://twitter.com/kare11&#13;&#10;&#187; Follow KARE 11 on Instagram: https://www.instagram.com/kare11/"
     channeltitle "KARE 11"
     channelid "UC1JAwKeDUjN2orv5t7LWODQ"
@@ -99,7 +99,7 @@ graph
     label "_21O53If7BM"
     step 0
     date "2020-05-15T22:37:26Z"
-    title "Dissecting The Dangerous &#8220;Plandemic&#8221; Conspiracy Theory"
+    title "Dissecting The Dangerous Conspiracy Theory"
     description "The internet can be a virtual sewer of misinformation, hoaxes, and ignorant bunk. Even platforms that claim a commitment to stopping the spread of falsehoods, like Facebook, have a history of failing to do so. Now, a new conspiracy theory has surfaced: the &#8220;plandemic,&#8221; which alleges that coronavirus was engineered to increase vaccinations and make pharmaceutical companies rich. To discuss, Emily Rooney was joined by Adam Reilly of WGBH News; former CNN White House correspondent Dan Lothian; and Joanna Weiss of Northeastern University&#8217;s Experience Magazine."
     channeltitle "GBH News"
     channelid "UCx_SjDi4CS5ALkWCS9ffldQ"
@@ -117,7 +117,7 @@ graph
     label "Hyt7GDovwDI"
     step 0
     date "2020-05-20T17:01:29Z"
-    title "&#38;#39;Plandemic&#38;#39; Viral Video Fact Check By Dr. Mike | NowThis"
+    title " Viral Video Fact Check By Dr. Mike | NowThis"
     description "Watch Doctor Mike fact check that viral &#8216;Plandemic&#8217; conspiracy theory video.&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/KnowThis&#10;&#10;In US news and current events today, here's what you need to know about the conspiracy video. See more at from Dr. Mike: youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw/about. &#10;&#10;For the latest coronavirus news and COVID-19 updates, subscribe to NowThis News. &#10;&#10;#Plandemic #Coronavirus #News #NowThis #NowThisNews&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -153,7 +153,7 @@ graph
     label "BESMxl9-P9w"
     step 0
     date "2020-05-09T00:57:11Z"
-    title "&#38;quot;Plandemic&#38;quot; Analysis | Judy Mikovits - London Real Interview"
+    title " Analysis | Judy Mikovits - London Real Interview"
     description "This video answers the questions: Can I analyze Judy Mikovits / London Real interview about the &#8220;Plandemic?&#8221; Support Dr. Grande on Patreon: https://www.patreon.com/drgrande&#10;&#10;Moyer, M. W. (2019). Why We Believe Conspiracy Theories. Scientific American, 320(3), 58.&#10;&#10;Connolly, J. M., Uscinski, J. E., Klofstad, C. A., &#38; West, J. P. (2019). Communicating to the Public in the Era of Conspiracy Theory. Public Integrity, 21(5), 469&#8211;476. &#10;&#10;Klein, C., Clutton, P., &#38; Dunn, A. G. (2019). Pathways to conspiracy: The social and linguistic precursors of involvement in Reddit&#8217;s conspiracy theory forum. PLoS ONE, 14(11), 1&#8211;23. &#10;&#10;Leone, L., Giacomantonio, M., &#38; Lauriola, M. (2019). Moral foundations, worldviews, moral absolutism and belief in conspiracy theories. International Journal of Psychology, 54(2), 197&#8211;204.&#10;&#10;Douglas, K. M., Uscinski, J. E., Sutton, R. M., Cichocka, A., Nefes, T., Ang, C. S., &#38; Deravi, F. (2019). Understanding Conspiracy Theories. Political Psychology, 40, 3&#8211;35.&#10;&#10;Hawley, K. (2019). Conspiracy theories, impostor syndrome, and distrust. Philosophical Studies, 176(4), 969&#8211;980.&#10;&#10;Jolley, D., Douglas, K. M., &#38; Sutton, R. M. (2018). Blaming a Few Bad Apples to Save a Threatened Barrel: The System&#8208;Justifying Function of Conspiracy Theories. Political Psychology, 39(2), 465&#8211;478.&#10;&#10;Rakopoulos, T. (2018). Show me the money: Conspiracy theories and distant wealth. History &#38; Anthropology, 29(3), 376&#8211;391.&#10;&#10;Grimes, D. R. (2016). Correction: On the Viability of Conspiratorial Beliefs. PLOS ONE, 11(3).&#10;&#10;March, E., &#38; Springer, J. (2019). Belief in conspiracy theories: The predictive role of schizotypy, Machiavellianism, and primary psychopathy. PLoS ONE, 14(12), 1&#8211;10. doi:10.1371/journal.pone.0225964"
     channeltitle "Dr. Todd Grande"
     channelid "UCC_0vyFTKk1Nlodo4QsiQkw"
@@ -171,7 +171,7 @@ graph
     label "7aT-Nb0nDeY"
     step 0
     date "2020-05-08T22:08:41Z"
-    title "Why People Believe Crazy Conspiracy Theories | The &#38;quot;Plandemic&#38;quot; Effect"
+    title "Why People Believe Crazy Conspiracy Theories | The Effect"
     description "What fuels conspiracy thinking and how can we behave more rationally? A live rant about &#34;Plandemic,&#34; those Bakersfield doctors, and the allure of conspiracy thinking.&#10;&#10;Links, audio podcast, and more at https://zdoggmd.com/conspiracy-plandemic&#10;&#10;Your support makes what we do possible! Join the SuperPac and get exclusive content, live discussions, and other crazy perks:&#10;&#10;YouTube: https://www.youtube.com/user/zdoggmd/join&#10;Facebook: http://facebook.com/becomesupporter/zdoggmd&#10;Patreon: http://patreon.com/zdoggmd&#10;PayPal: https://www.paypal.me/zdoggmd&#10;&#10;Website: https://ZDoggMD.com&#10;Podcast: https://ZDoggMD.com/podcasts&#10;Facebook: http://facebook.com/zdoggmd&#10;Newsletter: http://eepurl.com/gD8_D1&#10;Twitter: http://twitter.com/zdoggmd&#10;Instagram: http://instagram.com/zdoggmd&#10;&#10;Send Us Email: zubin@turntablehealth.com&#10;Send Us Hate Mail:&#10;1025 Alameda De Las Pulgas #218&#10;Belmont, CA 94002"
     channeltitle "ZDoggMD"
     channelid "UCFyRz1N_T-rnSkbaAH_TFAw"
@@ -207,7 +207,7 @@ graph
     label "nEy0EVCRvdg"
     step 0
     date "2021-08-26T01:09:46Z"
-    title "Did Jen Psaki say &#38;quot;Pandemic&#38;quot; or &#38;quot;Plandemic?&#38;quot; Freudian slip maybe? &#129300;"
+    title "Did Jen Psaki say "
     description "8-25-2021 press conference, Jen Psaki calls the pandemic a &#34;plandemic.&#34; Freudian slip maybe?"
     channeltitle "Steven Law - Living Free"
     channelid "UCI2cNQrHIjT1MYDxEJ36xgQ"
@@ -235,7 +235,7 @@ graph
     commentcount 86
     duration "PT1M47S"
     indegree 9
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -243,7 +243,7 @@ graph
     label "V1tQnU5WtTQ"
     step 0
     date "2020-07-17T19:28:42Z"
-    title "WION Wideangle: Coronavirus: Pandemic or &#38;#39;Plan&#38;#39;demic?"
+    title "WION Wideangle: Coronavirus: Pandemic or demic?"
     description "The coronavirus pandemic has unleashed a wave of conspiracy theories. WION Wideangle investigates the most intriguing and bizarre theories on 'Coronavirus: Pandemic or 'Plan'demic?'&#10;&#10;#WIONWideangle #WION #CoronavirusPandemic&#10;&#10;About Channel: &#10;&#10;WION -The World is One News, examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to the politics of the world. People are tired of biased reportage and we stand for a globalised united world. So for us the World is truly One.&#10; &#10;Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.&#10;&#10;Subscribe to our channel at https://goo.gl/JfY3NI&#10;Check out our website: http://www.wionews.com&#10;Connect with us on our social media handles:&#10;Facebook: https://www.facebook.com/WIONews&#10;Twitter: https://twitter.com/WIONews&#10;&#10;Follow us on Google News for latest updates&#10;&#10;Zee News:- https://bit.ly/2Ac5G60&#10;Zee Bussiness:- https://bit.ly/36vI2xa&#10;DNA India:- https://bit.ly/2ZDuLRY&#10;WION: https://bit.ly/3gnDb5J&#10;Zee News Apps : https://bit.ly/ZeeNewsApps"
     channeltitle "WION"
     channelid "UC_gUM8rL-Lrg6O3adPW9K1g"
@@ -279,7 +279,7 @@ graph
     label "SEbMNuVrZMU"
     step 0
     date "2020-05-15T00:20:03Z"
-    title "Debunked COVID-19 &#38;#39;Plandemic&#38;#39; Conspiracy Driven By Uncertainty"
+    title "Debunked COVID-19 Conspiracy Driven By Uncertainty"
     description "A virus conspiracy video gains views despite being debunked&#10;&#10;Learn more about this story at https://www.newsy.com/101337/&#10;&#10;Find more videos like this at https://www.newsy.com&#10;&#10;Follow Newsy on Facebook: https://www.facebook.com/newsy&#10;Follow Newsy on Twitter: https://www.twitter.com/newsy"
     channeltitle "Newsy"
     channelid "UCTln5ss6h6L_xNfMeujfPbg"
@@ -297,7 +297,7 @@ graph
     label "LMBstuNgj0Y"
     step 0
     date "2020-05-08T19:05:55Z"
-    title "&#38;#39;The Week That Was&#38;#39; Michael Flynn, The Plandemic Documentary &#38;amp; The Shooting of  Ahmaud Arbery"
+    title " The Shooting of Ahmaud Arbery"
     description "Craig Fahle, host of 'The Week That Was' on DeadlineTV, discuss with regular hosts and special guest Greg Bowens about Michael Flynn's future, the recent Plandemic documentary &#38; the shooting of Ahmaud Arbery."
     channeltitle "Deadline Detroit"
     channelid "UCxY4Nkvnvf6XEfOZaF4osSQ"
@@ -315,7 +315,7 @@ graph
     label "IYK4DkK7qeY"
     step 0
     date "2021-03-12T15:30:01Z"
-    title "Plandemic - Rabbit&#38;#39;s Used Cars"
+    title "Plandemic - Rabbits Used Cars"
     description "RUC 143 - From bad to good... Rabbit wants to know your plandemic."
     channeltitle "Rob Pitts"
     channelid "UClVvQak8VSn9MuwkaGPWpvw"
@@ -333,7 +333,7 @@ graph
     label "4KfSlN5PBpg"
     step 0
     date "2020-05-08T00:12:05Z"
-    title "A &#8221;Plandemic&#8217; flavored Coronavirus Update Part 2"
+    title "A flavored Coronavirus Update Part 2"
     description "Here is day 2 of Dr. Galvin&#8217;s analysis of the Plandemic video. Plus his thoughts on censorship and civil discourse."
     channeltitle "Vitality Medical Wellness Institute"
     channelid "UC8xdGJLVAdbQLrUFCCEZjKA"
@@ -351,7 +351,7 @@ graph
     label "bIY-Chq27Wc"
     step 0
     date "2020-05-10T16:13:29Z"
-    title "8 things &#38;#39;Plandemic&#38;#39; gets wrong"
+    title "8 things gets wrong"
     description "We fact-checked 8 of the most egregious falsehoods in &#34;Plandemic&#34; &#8212; a video full of conspiracy theories about the coronavirus https://bit.ly/35EugYC&#10;&#10;Follow us on: &#10;Facebook: https://facebook.com/politifact&#10;Twitter: https://twitter.com/politifact&#10;Instagram: https://instagram.com/politifact"
     channeltitle "PolitiFact"
     channelid "UCfyYK3GqcotDIAjcoReK3Hg"
@@ -423,7 +423,7 @@ graph
     label "FOaMSC034nY"
     step 0
     date "2020-05-11T21:22:43Z"
-    title "The truth about that &#38;#39;Plandemic&#38;#39; video"
+    title "The truth about that video"
     description "Pandemic or #plandemic? The latest viral internet video is a conspiracy theory documentary chock full of misleading claims about the origin of #coronavirus, flu vaccines, and wearing a mask. The video is clearly produced by professionals and looks &#8220;nice.&#8221; But we know that there&#8217;s always more than meets the eye. &#10;&#10;In this video, we talk about some claims hand-picked from PolitiFact&#8217;s roundup of misleading claims from the documentary. &#10;&#10;UPDATE (5/12/2020): We reached out to the makers of the film as well as Mikovits for comment and they have not responded as of Tuesday afternoon.&#10;&#10;This video was produced in partnership with PolitiFact, you can check out their excellent reporting on the 'Plandemic' video here:  &#10;Fact-checking &#8216;Plandemic&#8217;: A documentary full of false conspiracy theories about the coronavirus https://www.politifact.com/article/2020/may/08/fact-checking-plandemic-documentary-full-false-con/&#10;&#10;Also check out our MediaWise fact-check referenced in the video: Can this malaria drug (chloroquine) also cure COVID-19? https://youtu.be/ikxcENXelUY&#10;&#10;MediaWise is a nonprofit media literacy project of The Poynter Institute. Poynter is also home to PolitiFact. &#10;&#10;---&#10;Learn more about MediaWise: https://www.poynter.org/mediawise&#10;Want us to fact-check something you&#8217;ve seen on your timeline? Use the hashtag #IsThisLegit to get our attention. &#10;&#10;All of our stories are posted on Instagram. See what we&#8217;re fact-checking today! &#10;Follow MediaWise on Instagram: https://instagram.com/mediawise&#10;Follow MediaWise on Facebook: https://facebook.com/mediawise &#10;Follow MediaWise on Twitter: https://twitter.com/mediawise &#10;Follow MediaWise on TikTok: https://tiktok.com/@mediawise&#10;&#10;MediaWise is a digital media literacy initiative led by The Poynter Institute: Its mission is to teach Americans of all ages how to sort fact from fiction online. The work of MediaWise has been seen by more than 10 million people since the project launched in 2018. The MediaWise program teaches people through in-person and virtual training events, online educational videos, fact-checking content reported by its Teen Fact-Checking Network, and its MediaWise Ambassador program &#8212; a group of prominent journalists and influencers who help promote the MediaWise mission. In 2020, Poynter launched the MediaWise Voter Project (#MVP2020) to teach first-time voters how to find reliable information online about the U.S. presidential election, a new initiative supported by Facebook. The foundation of MediaWise was created with support from Google.org, and MediaWise is a part of Google News Initiative (Google is the parent company of YouTube). Learn more at poynter.org/mediawise."
     channeltitle "MediaWise"
     channelid "UC2DPyDJLFycNPgPcH0jaeHw"
@@ -441,7 +441,7 @@ graph
     label "6Mm90mSC-cs"
     step 0
     date "2020-05-23T05:30:00Z"
-    title "Covid-19 &#2346;&#2352; Viral Documentary Plandemic &#2350;&#2375;&#2306; &#2325;&#2367;&#2340;&#2344;&#2366; &#2360;&#2330;? | Fact Check | Padtal | Judy Mikovits | Fauci"
+    title "Covid-19 ? | Fact Check | Padtal | Judy Mikovits | Fauci"
     description "&#2360;&#2381;&#2335;&#2379;&#2352;&#2368; - https://www.thelallantop.com/factcheck/science-journal-on-virologist-judy-mikovits-covid-19-claims-in-a-viral-documentary-video-titled-plandemic/  &#10;&#10;A documentary video named 'Plandemic' is going viral on social media even after Facebook and Youtube took it down. In the video interview, American Virologist Judy Mikovits has made many controversial claims regarding Coronavirus, Covid-19, Anthony Fauci, Bill Gates, and top American institutes. Prestigious journal 'Science' provided a Fact Check to all those claims made in the documentary. In this video of Padtal, we bring the story of Judy Mikovits, her video and Fact Check of the video. Are American Scientists hiding something about the coronavirus or is this just another Conspiracy Theory? Watch this video of #Padtal to know the answer.&#10;&#10;Install The Lallantop Android App: https://thelallantop.app.link/zCSsHooQSU&#10;&#10;Follow us on: https://www.instagram.com/thelallantop/&#10;&#10;Like The Lallantop on Facebook: https://www.facebook.com/thelallantop/&#10;&#10;Follow The Lallantop on Twitter: https://twitter.com/TheLallantop&#10;&#10;Follow Latak on Instagram: https://www.instagram.com/latak.lallantop/&#10;&#10;For advertisements e-mail us at: Ads@thelallantop.com&#10;&#10;Produced By: The Lallantop&#10;Edited By: Maneesh Negi"
     channeltitle "The Lallantop"
     channelid "UCx8Z14PpntdaxCt2hakbQLQ"
@@ -477,7 +477,7 @@ graph
     label "6uPCXAy_B7k"
     step 0
     date "2022-02-11T21:00:05Z"
-    title "Nasty Bucket  -  Plandemic"
+    title "Nasty Bucket - Plandemic"
     description "Spotify  :  https://open.spotify.com/album/0McsY9UPOMb32nQCm8l5TJ?si=0lfelIWGQUiS2KhaGtcs1Q&#10;&#10;Band Facebook  :  https://www.facebook.com/nastybucket&#10;&#10;Studio  :  https://www.facebook.com/chainsawmediapowassan&#10;&#10;Available on all streaming services !"
     channeltitle "buriedoutback666"
     channelid "UCOeBKJBcgcLariMB2SfuAlg"
@@ -487,7 +487,7 @@ graph
     commentcount 9
     duration "PT4M43S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -513,7 +513,7 @@ graph
     label "iJv28QTHpfQ"
     step 0
     date "2020-05-14T04:37:23Z"
-    title "Controversia en EEUU: Bi&#243;loga asegura que COVID-19 fue creado a partir de una vacuna"
+    title "Controversia en EEUU: Biloga asegura que COVID-19 fue creado a partir de una vacuna"
     description "M&#225;s informaciones en &#187; http://T13.cl&#10;&#10;S&#237;guenos en nuestras redes sociales:&#10;&#10;Twitter https://twitter.com/t13&#10;Instagram https://www.instagram.com/teletrece/&#10;Telegram http://t.me/teletrece&#10;Facebook https://www.facebook.com/pg/teletrece&#10;&#10;&#10;#Noticias #USA #COVID19 #T13"
     channeltitle "T13"
     channelid "UCsRnhjcUCR78Q3Ud6OXCTNg"
@@ -595,7 +595,7 @@ graph
     commentcount 1486
     duration "PT20M38S"
     indegree 21
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -603,7 +603,7 @@ graph
     label "rKznhumWrq4"
     step 0
     date "2021-12-06T16:04:19Z"
-    title "&#8220;Plandemic&#8221; Conspiracy Theory"
+    title " Conspiracy Theory"
     description "Sasha on his favorite Covid  conspiracy theory.&#10;Spoiler alert - its stupid."
     channeltitle "Sasha Srbulj"
     channelid "UCD7BbafGW-_0xAHMajNSUVA"
@@ -631,7 +631,7 @@ graph
     commentcount 66
     duration "PT1H30M38S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount 1613
     duration "PT33M9S"
     indegree 17
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -657,7 +657,7 @@ graph
     label "eJES224rH1w"
     step 0
     date "2021-08-25T20:06:51Z"
-    title "Jen Psaki says &#38;quot;Plandemic&#38;quot; recorded live 3:00pm"
+    title "Jen Psaki says recorded live 3:00pm"
     description ""
     channeltitle "Jimmy Crow"
     channelid "UC2DC8NPc0Titt-yOlEriM8A"
@@ -711,7 +711,7 @@ graph
     label "2kXhE77Y2gA"
     step 0
     date "2020-05-13T01:00:00Z"
-    title "&#38;quot;Plandemic&#38;quot;, un documental lleno de teor&#237;as de conspiraci&#243;n falsas sobre el coronavirus"
+    title "n falsas sobre el coronavirus"
     description "El video de 26 minutos de duraci&#243;n fue eliminado de distintas plataformas tras ser desacreditado en redes sociales, pero ya hab&#237;a sido visto decenas de millones de veces.&#10;&#10;SUSCRIBETE A NUESTRO CANAL DE YOUTUBE:&#13;&#10;https://www.youtube.com/user/vanguardiamedia &#13;&#10;&#13;&#10;VISITA NUESTRA P&#193;GINA WEB PARA ESTAR BIEN INFORMADO:&#13;&#10;https://vanguardia.com.mx/&#13;&#10;&#13;&#10;NUESTRAS REDES SOCIALES:&#13;&#10;&#13;&#10;Facebook: https://www.facebook.com/VanguardiaMx/&#13;&#10;Instagram: https://www.instagram.com/vanguardiamx/?hl=es&#13;&#10;Twitter: https://twitter.com/vanguardiamx"
     channeltitle "VANGUARDIA MX"
     channelid "UCQtlgxJiZmFmaH7RsCtANsQ"
@@ -729,7 +729,7 @@ graph
     label "w2rnhxoEblE"
     step 0
     date "2021-09-06T17:14:52Z"
-    title "Jen Psaki Says &#38;quot;Global Plandemic&#38;quot;"
+    title "Jen Psaki Says "
     description "Subscribe now for more updates!&#10;&#10;Jen Psaki Says &#34;Global Plandemic&#34;&#10;&#10;Jennifer Rene Psaki is an American political advisor serving as the 34th and current White House press secretary."
     channeltitle "Smooth Media"
     channelid "UCfhoaLtJ0nEidOldt8y2nWg"
@@ -783,7 +783,7 @@ graph
     label "7r-IOZZIwI4"
     step 0
     date "2020-09-26T18:57:11Z"
-    title "&#38;quot;Plandemic&#38;quot; UK Drama"
+    title " UK Drama"
     description "George becomes a victim of furlough and his life and home is rocked. He gets a leading to do something with himself during the pandemic season, a decision his wife Sarah did not take lightly. How will it end for him? Is he truly as lazy as Sarah claims? Well, let's find out"
     channeltitle "NewManDramaMinistryWHCC"
     channelid "UC2zwkXv9g3DmBxJdzGYk2tg"
@@ -855,7 +855,7 @@ graph
     label "_3JxWdV1C98"
     step 0
     date "2020-09-29T21:43:15Z"
-    title "LeeBoy &#38;amp; Fuzz - Plandemic"
+    title "LeeBoy Fuzz - Plandemic"
     description "Let me tell you about something that irritates me... the Plandemic. In this Season 2 debut episode of LeeBoy &#38; Fuzz, we discuss Trump&#8217;s self-proclaimed &#8220;A+&#8221; job in response to the coronavirus. Also, we premiere the new &#8220;LeeNN vs Fuzz News&#8221; segment! Like comment and share for more LeeBoy POV! &#10;&#128250;&#10;&#127909;&#10;#comedy #comedian #comediansofinstagram #allthat #nickelodeon #kenanandkel #karen #trumpvsbiden #presidentialdebate #debate  #joebiden #donaldtrump #politics #covid19 #reparations #blackcontentcreators #leroyandfuzz #pandemic #plandemic #coronavirus"
     channeltitle "LeeBoy TV"
     channelid "UCTFZiQ7BME5ASeIqWehpMLg"
@@ -873,7 +873,7 @@ graph
     label "6lEWIA6aNS4"
     step 0
     date "2020-06-10T00:20:47Z"
-    title "&#129300; How The Plandemic Video Went Viral"
+    title " How The Plandemic Video Went Viral"
     description "&#129440; An explanation of how the Plandemic video went viral, compared to other content that went viral during the same period. &#10;&#10;&#9989; SUBSCRIBE &#38; never miss a video.&#10;&#128276; HIT that BELL to receive a notification when new videos are uploaded.&#10;&#128077; THUMBS UP our video if you enjoyed watching, please.&#10;&#10;This segment is from Episode 309 of the Beyond Social Media Show: &#10;&#128279; https://youtu.be/ajp53Y2jEBM&#10;&#128279; https://beyondsocialmediashow.com/apple-glass-leaks/?esyt&#10;&#10;&#127383; Subscribe to the eStrategy YouTube channel: https://www.youtube.com/user/estrategy?sub_confirmation=1&#10;&#10;Taylor Swift City Of Lover Concert&#10;&#128279;  https://www.youtube.com/watch?v=pPWigdie4Us&#38;list=RDpPWigdie4Us&#38;index=1&#10;Pentagon UFO Videos&#10;&#128279;  https://www.youtube.com/watch?v=auITEKd4sjA&#10;The Office Zoom Wedding&#10;&#128279;  https://www.youtube.com/watch?v=NDjNX3nEfYo&#10;How The Debunked Plandemic Conspiracy Video Went Viral&#10;&#128279;  https://www.nytimes.com/2020/05/20/technology/plandemic-movie-youtube-facebook-coronavirus.html&#10;&#10;          TRANSCRIPT&#10;&#10;David Erickson: Did you see or see a sharing of the Plandemic conspiracy theory video?&#10;&#10;BL Ochman: Uh-huh, I read about it. I didn't watch it, but I know all about it. Yeah.&#10;&#10;     How The Debunked Plandemic Conspiracy Video Went Viral From One Facebook Post [0:16]&#10; &#10;David Erickson: Yeah. So the New York Times does a great in-depth story by Sheera Frenkel, Ben Decker and Davey Alba on how it spread, on how that video went viral. I had seen it in my Facebook feed, and some people that I know had shared it. So what they did with the article--they compared how the Plandemic video compared to other videos that went viral or other content that went viral during the same period. &#10;&#10;And so on Facebook, Plandemic was liked, commented on or shared nearly 2.5 million times. &#10;&#10;     Compared To Viral Content By Taylor Swift, The Office Reunion &#38; Pentagon UFO Videos [0:57]&#10;&#10;David Erickson: And that's compared to Taylor Swift's May eight announcement about her City of Lover concert, which plateaued at about 110,000 interactions on Facebook. &#10;&#10;And then there was The Office reunite on Zoom for a wedding, which was posted on May 10, and reach 618,000 interactions.&#10;&#10;And the Pentagon had released videos--UFO videos on April 27, and had one 1 million interactions. So comparatively, that's how they stacked up. &#10;&#10;They also had a timeline of how it went viral. So it was first posted in a QAnon Facebook group of 25,000 members QAnon is this lunatic right-wing conspiracy group. And then more than 1500 of those members shared the video to their networks. &#10;&#10;Then there was a physician named Dr. Christiane Northrup, who is a celebrity physician. She's vaccine skeptic. She shared it on her Facebook page and more than 1000 of her followers shared it, many of them to antivaxxer groups. &#10;&#10;And then the video was posted to Reopen Alabama Facebook group which had more than 36,000 followers. And that's part of a network of Reopen-insert-your-state-here, groups that's organized by a right-wing astroturf group and that spread to the political realm. &#10;&#10;There's a guy named Nick Catone--I think is how you pronounce it--he's a professional mixed-martial arts fighter, celebrity, prominent antivaxxer. He shared it with his 70,000 followers on Facebook. &#10;&#10;And then a candidate for Ohio...for the Ohio Republican Party primary--she lost--her name is Melissa Ackison...shared it to her 20,000 Facebook followers. And by then it went mainstream and BuzzFeed was reporting on it; in fact checking it, debunking it. &#10;&#10;But you can see how it goes from conspiracy--major, lunatic fringe conspiracy theory groups--to other interested...antivaxxers, political groups, etc, etc. So it's a good long read put a link to it in the show notes&#10;&#10;&#10;&#128038; FOLLOW DAVID: https://twitter.com/derickson&#10;&#127897;&#65039; MARKETING PODCAST: https://BeyondSocialMediaShow.com/&#10;&#128161; MARKETING INSIGHT: https://e-StrategyBlog.com/&#10;&#128200; MARKETING STATS &#38; TRENDS: https://Trends.e-StrategyBlog.com/&#10;&#128250; MARKETING VIDEOS: https://eStrategy.tv&#10;&#128077; LIKE: https://facebook.com/estrategycom&#10;&#128038; FOLLOW: https://twitter.com/e_strategy"
     channeltitle "eStrategy"
     channelid "UCo8t1gRABe0mAA0HaY0lodA"
@@ -937,7 +937,7 @@ graph
     commentcount 368
     duration "PT3M20S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 63
     duration "PT1H50M31S"
     indegree 9
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -999,7 +999,7 @@ graph
     label "d3ADfN8a8R4"
     step 0
     date "2020-05-07T22:12:06Z"
-    title "Dr. Jen Weighs in on PLANDEMIC: Don&#8217;t Believe the Hype"
+    title "Dr. Jen Weighs in on PLANDEMIC: Dont Believe the Hype"
     description "This video has been widely discussed. Here&#8217;s my take:&#10;&#10;Hello! I&#8217;m Dr. Jen- welcome to my YouTube Channel and thank you for watching this video! Let me know what you think and please subscribe to my channel above https://youtube.com/drjencaudle and please also connect with me on the following:&#10;&#10;https://instagram.com/drjencaudle&#10;https://facebook.com/drjencaudle&#10;https://twitter.com/drjencaudle&#10;https://linkedin.com/in/drjencaudle&#10;&#10;Please sign up for my free health newsletter at https://drjencaudle.com!&#10;&#10;Thanks a bunch, and see you soon!&#10;xo Dr. Jen"
     channeltitle "Dr. Jen Caudle"
     channelid "UCLpPdayeUfDyh6jg3oN-GIg"
@@ -1009,7 +1009,7 @@ graph
     commentcount 554
     duration "PT5M15S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1017,7 +1017,7 @@ graph
     label "IQd1Uek3cbw"
     step 0
     date "2020-12-01T21:18:06Z"
-    title "Truesounds &#38;amp; Ras Chanter - Plandemic (Sling Things Riddim)"
+    title "Truesounds Ras Chanter - Plandemic (Sling Things Riddim)"
     description "We got to work out the puzzle why Babylon what us in a muzzle. It compromise you immunity. Can&#8217;t breathe fresh air so it&#8217;s bound to sick us .   Who they want to track and  who want to trace. We see Babylon their a big disgrace. Who they want to hook and who they want to jook . We see they are lie and and we they are crooks.  Like a fruit on a tree that&#8217;s how they want to pick us . They even make law because they want to convict us . When it&#8217;s not deception we no that it&#8217;s trickery . They reveal themselves no more a Mistry. We not going to stop take the vitamin D . The sunshine is the vitamin D . Stand up in the vitamin D . And it is Bless by the day Almighty..     From the lockdown suicide has gone up . People can&#8217;t get no treatment that&#8217;s gone up. Alcohol and drug addiction that&#8217;s gone up. Domestic violence that&#8217;s gone up. Thousands of people job get cut . Nuff people business close down an shut. We used to have money but our pockets is broke . If we unite they will come unstuck. Now their talking about isolate . To treat us like criminal we no it&#8217;s not great. Most politician their just like a snake. We have a right to rebel so just hold the fate. They want to inject Black and Asian first. But who Jah bless no body can cause. They want us to go forward so we reverse. We must wake up before things get worse..."
     channeltitle "truesounds"
     channelid "UCB6UvNdF0RO5BzLK7OD1LhA"
@@ -1089,7 +1089,7 @@ graph
     label "ew4cZFy-lCE"
     step 0
     date "2020-05-16T19:33:20Z"
-    title "Dr. Judy Mikovits wants to discuss &#38;quot;Plandemic&#38;quot; with Dr. Galvin. Should he accept?"
+    title "Dr. Judy Mikovits wants to discuss with Dr. Galvin. Should he accept?"
     description "Dr. Galvin has been invited to debate Dr. Judy Mikovits on the Good Intentions Show with Tim Ray on May 27th. He's soliciting viewer input, (especially from those trolling him about his Plandemic debunks) whether he should agree or not. The network is a bit radical and it could all be a setup. However, Dr. G has spoken with Dr. Mikovits and host Tim Ray, and all have agreed to a civil debate about the issues Dr. Galvin is familiar with (things pertaining to the medical aspects of the virus) while avoiding conjecture about wider conspiracies. What do you think? Put your answers below and add any questions you would like him to address should he agree to the debate."
     channeltitle "Vitality Medical Wellness Institute"
     channelid "UC8xdGJLVAdbQLrUFCCEZjKA"
@@ -1107,7 +1107,7 @@ graph
     label "FyXvVtBGtcQ"
     step 0
     date "2021-08-26T00:44:56Z"
-    title "Jen Psaki says &#38;quot;Plandemic&#38;quot;"
+    title "Jen Psaki says "
     description "Whitehouse Biden Spox Virus Plandemic"
     channeltitle "Richard Winters"
     channelid "UC_SKzRmkCEfRv3u5JMpE1rw"
@@ -1197,7 +1197,7 @@ graph
     label "ALlrp7Q8al4"
     step 0
     date "2020-05-11T20:00:11Z"
-    title "DROSS presenta: Plandemic: el video m&#225;s censurado de Internet"
+    title "DROSS presenta: Plandemic: el video ms censurado de Internet"
     description "DROSS presenta: Plandemic: el video m&#225;s censurado de Internet&#10;&#10;Por favor, &#161;suscr&#237;bete! http://bit.ly/1a1sm3k  ~ Este canal es la comunidad de horror y misterio m&#225;s grande de toda YouTube, en cualquier lengua. &#10;&#10;S&#237;gueme en Twitter y mant&#233;nte al tanto de mis tweets, por favor: http://bit.ly/1aCnKiW&#10;&#10;Tengo cuenta en Instagram: https://instagram.com/soydrossrotzank&#10;&#10;S&#237;gueme en Facebook (actualizo muchas veces): http://on.fb.me/16XIVcT&#10;&#10;Este es mi canal secundario de Youtube: http://bit.ly/LosVlogsDeDross&#10;&#10;Canal de Mussolini (mi mascota): https://www.youtube.com/MiQueridoMussolini&#10;&#10;Ven a mi sim de SL: http://maps.secondlife.com/secondlife/Dross/98/106/1499&#10;&#10;EL LIBRO NEGRO, Ebook: &#10;&#10;Amazon:&#10;https://www.amazon.com/El-libro-negro-Spanish-Dross-ebook/dp/B07VVMPVH9/ref=sr_1_4?keywords=el+libro+negro&#38;qid=1565097627&#38;s=digital-text&#38;sr=1-4&#10;&#10;Google play:&#10;https://play.google.com/store/books/details/Dross_El_libro_negro?id=Pr2mDwAAQBAJ&#38;hl=es&#10;&#10;Bajalibros:&#10;https://www.bajalibros.com/AR/El-libro-negro-Dross-eBook-1756684?q=el%20libro%20negro&#38;field=all&#38;language=Espa%C3%B1ol&#38;page=1"
     channeltitle "DrossRotzank"
     channelid "UCNYW2vfGrUE6R5mIJYzkRyQ"
@@ -1251,7 +1251,7 @@ graph
     label "B4bupkt2FGU"
     step 0
     date "2020-05-07T04:28:46Z"
-    title "My response to &#38;quot;Plandemic, part 1&#38;quot;"
+    title "My response to "
     description "I will pull no punches here. This video is atrocious. It appears on YouTube under at least two titles already. Search for Plandemic.&#10;&#10;More notes can be found at https://www.biblicalgenetics.com&#10;&#10;&#10;(the maker of this video is paid in coffee: https://www.buymeacoffee.com/BibGenetics)"
     channeltitle "Biblical Genetics"
     channelid "UCdG0Vc-8dGBvbt-PHA-FPIg"
@@ -1287,7 +1287,7 @@ graph
     label "rFUK6C0jlws"
     step 0
     date "2022-05-04T14:56:54Z"
-    title "2022 04 29 Awaken With JP   Teaser for Plandemic 3 (&#956;&#949; &#965;&#960;&#972;&#964;&#953;&#964;&#955;&#959;&#965;&#962;)"
+    title "2022 04 29 Awaken With JP Teaser for Plandemic 3 ()"
     description ""
     channeltitle "NEW WORLD...Order!"
     channelid "UCIAeu1yPKC_Oua2SFn6Upjw"
@@ -1449,7 +1449,7 @@ graph
     label "ZekS_dLSSLU"
     step 0
     date "2020-09-03T07:54:01Z"
-    title "Plandemic  Coronafscistic Indoctrination from Hedgehogs (2016)"
+    title "Plandemic Coronafscistic Indoctrination from Hedgehogs (2016)"
     description "Short clip from [the probably highly emetic and presumably coronafscist indoctrination-film aimed atchildren] Hedgehogs (2016) https://www.imdb.com/title/tt3574822, featured in and taken from Plandemic Indoctornation (2020, not yet in IMDb; available at &#10;https://freedomplatform.tv/plandemic-indoctornation-world-premiere/).&#10;&#10;Please do note the language! &#34;eliminate&#34; ... &#34;discovered[sick] a vaccine&#34; (hint: vaccines are never discovered, they need to be developed, which on average took about 7 years, in some cases took 20 years, and in some cases could not be achieved at all in decades.)&#10;&#10;Anyone who'd think that corona-FASCISM might be too strong a term, please consider this: Nazi-fascism started with KdF (Kraft durch Freude: Strength from Joy), boy-scouting, and folklore songs and customs). Coronafascism started with terrorizing just about all ofEaaarth's population, specifically targetting children, and child abuse like e.g. this:  &#10;Now -considering the dire situation this civilization is in and has so far proven perfectly unable to reasonably deal with - guess, where is this heading to."
     channeltitle "Tibet2138"
     channelid "UC_n2L0L8R0oZair6z6F1kOQ"
@@ -1477,7 +1477,7 @@ graph
     commentcount 0
     duration "PT2M58S"
     indegree 0
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -1485,7 +1485,7 @@ graph
     label "WMCADfYDCt0"
     step 0
     date "2020-08-19T17:01:03Z"
-    title "Plandemic  Clip08  How the media targets Whistleblowers"
+    title "Plandemic Clip08 How the media targets Whistleblowers"
     description "Wait...late night TV talk shows aren't a credible source of information?"
     channeltitle "Alexis Baden-Mayer"
     channelid "UCkWccSV7bTMb-0dzZOmfWbA"
@@ -1521,7 +1521,7 @@ graph
     label "tt39FHgdHE8"
     step 0
     date "2020-10-16T18:10:00Z"
-    title "Mikki Willis -  Plandemic InDoctorNation"
+    title "Mikki Willis - Plandemic InDoctorNation"
     description "Today on the Naturally Inspired Podcast Mikki Willis is joining us.  Mikki is the producer of a two part series entitled &#34;Plandemic&#34; and &#34;Plandemic InDoctorNation&#34;.  The film has come under great scrutiny, smear campaigns and attacks on him and people featured on the film as well from the Main Stream Media and quasi &#34;health experts&#34;.  You can watch &#34;Plandemic&#34; at www.PlandemicSeries.com and judge it for yourself.  I want to encourage everyone to keep exploring, keep learning and really pay attention to the information that is the target of the person bringing it to light.  I hope you enjoy this most enlightening conversation with Mikki Willis.  Please welcome Mikki Willis to the Naturally Inspired Podcast.          &#10;&#10;Tune in every week for the latest Naturally Inspired Podcast. Find it on your favorite podcast platform like: &#10;&#10;Apple Podcast:  https://podcasts.apple.com/us/podcast/naturally-inspired-podcast/id1474114072&#10;&#10;Spotify:  https://open.spotify.com/show/56dUIhhG2RFzvZhCt6cCIQ?si=UEpfEoIGRi-5NFAK0y3W4g&#10;&#10;Tunein:  https://tunein.com/radio/Naturally-Inspired-Podcast-p1235788/?topicId=132474389 &#10;&#10;Stitcher:  https://www.stitcher.com/podcast/tammy-garcia/naturally-inspired-podcast&#10;&#10;IHeartRadio:  https://www.iheart.com/podcast/269-naturally-inspired-podcast-67643007/&#10;&#10;Watch it on Youtube:  https://www.youtube.com/channel/UC9-rQJFdEIhuKbFKatCla-A&#10;&#10;Follow Us On Facebook: https://www.facebook.com/NaturallyInspiredPodcast/&#10;&#10;Follow Us On Instagram:  https://www.instagram.com/tammycuthbertgarcia/&#10;&#10;Get All The Latest Info On Our Episodes Here: https://naturallyinspiredpodcast.com/episodes  &#10;&#10;Text the word &#34;Advocate&#34; to 833-838-1020 for Weekly Deals and Updates       &#10;&#10;Subscribe to Our Weekly Newsletter for Show Notes, Health Tips, Tricks &#38; Hacks and Weekly Deals at https://naturallyinspiredpodcast.com/newsletter      &#10;&#10;Visit Our Blog For Daily Inspiration at  https://naturallyinspiredpodcast.com/blog&#10;&#10;&#10;Naturally Inspired Podcast Recommended Products/Resources           &#10;&#10;Support The Podcast And Buy A Beautiful Coffee Mug For Your Favorite Coffee.  https://naturallyinspiredpodcast.com/shop-here/ols/products/naturally-inspired-podcast-11oz-coffee-mug      &#10;&#10;We Are Grateful For Your Support!         &#10;&#10;Please Visit Us Often at https://naturallyinspiredpodcast.com                     &#10;&#10;&#10;Keep in mind that we may receive commissions when you click our links and make purchases. However, this does not impact our reviews and comparisons. We try our best to keep things fair and balanced, in order to help you make the best choice for you."
     channeltitle "Naturally Inspired Podcast"
     channelid "UC9-rQJFdEIhuKbFKatCla-A"
@@ -1593,7 +1593,7 @@ graph
     label "9VtTv51152o"
     step 0
     date "2020-05-06T19:23:25Z"
-    title "#HalfWoke: &#38;quot;Plandemic Movie&#38;quot; What You Didn&#38;#39;t Know"
+    title "#HalfWoke: t Know"
     description "Support my ministry on Patreon &#8211; https://www.patreon.com/OnPointPreparedness&#10;Support my ministry on Paypal &#8211; https://www.paypal.me/onpointpreparedness&#10;On Point Tee&#8217;s now available! - https://teespring.com/stores/on-point-preparedness&#10;Mail me @&#10;On Point Preparedness&#10;PO Box 953&#10;Mason Ohio, 45040 .&#10;&#10;On Point Preparedness Statement of Beliefs - https://www.onpointpreparedness.net/statement-of-beliefs/&#10;&#10;The purpose for which On Point Preparedness LLC was formed is for the transaction of any and all lawful purposes for which a limited liability company may be organized under the laws of the state of Ohio.&#160; Specifically, On Point Preparedness is a Christian Ministry (not affiliated with 501c3) with a primary purpose of online Christian Apologetics and teaching.&#160; Secondarily, On Point Preparedness shares opinion blogging/vlogging of various worldly issues as well as topics related to outdoor survival.&#10;&#10;The views, opinions and theological criticisms expressed @ On Point Preparedness are made solely under the single-member LLC. Any content provided is of opinion and not intended to malign or profit from any religion, ethnic group, club, organization, company, individual name, etc. All opinions made are through the lens of the Christian faith and made in good faith, relying on exegesis of the inspired Word of God contained in the sacred scriptures of biblical cannon.&#10;&#10;If external content is used in this video/article, it belongs to their respective owners and On Point Preparedness LLC does not claim any right over them. Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
     channeltitle "On Point Preparedness"
     channelid "UC9pLAJfsadl_133T7-bgitA"
@@ -1611,7 +1611,7 @@ graph
     label "BBPYSKR9tBU"
     step 0
     date "2020-10-14T03:58:52Z"
-    title "&#10060;&#128250;&#128373; &#129323;Plandemic Indoctornation Ep.8 &#8220;Como los medios persiguen a los denunciantes / Informadores&#8221; &#129323;&#128373;"
+    title ""
     description "&#10060;&#128250;&#128373; &#8220;Como los medios persiguen a los denunciantes / Informadores&#8221; &#129323;&#128373; &#128250;&#10060;&#10;&#10;&#128250; &#128251; &#127897;Los &#8220;Mass media&#8221; han tratado siempre de censurar y si es posible eliminar toda informaci&#243;n que vaya en contra de la narrativa y aun peor a la persona, informador, reportero o quien sea que haya difundido eso.&#10;&#10;&#129323;Las calumnias y difamaciones desde los medios han causado que se ridiculicen algunos temas tom&#225;ndolos como siempre como teor&#237;as de la conspiraci&#243;n.&#10;&#10060;&#128250;&#10060;As&#237; que como se menciona al final del video: LA TELEVISION NO ES REAL, APAGA TU TELEVISION, &#161;&#161;&#161;&#161;&#161;&#161;APAGALA Y DEJALA ASI!!!!!! &#10060;&#128250;&#10060;&#10;DESPIERTAAAA!!!!!!!!!!!!&#10;&#10;&#128218; Algunos libros de inter&#233;s sobre los trabajos de la Dra.Judy Mikovits&#10;&#128230; De venta en Amazon EU&#10;&#128215; &#34;Plaga de corrupci&#243;n cient&#237;fica: Restaurando la fe en las promesas de la ciencia&#34;&#10;&#128279; https://amzn.to/3daCoUD&#10;&#128215; &#34;The Case Against Masks: Ten Reasons Why Mask Use Should be Limited&#34;&#10;&#128279;https://amzn.to/3dazoaY"
     channeltitle "The Rabbit Hole 2020"
     channelid "UCdHm6y08q9-yjDgIf994yGg"
@@ -1629,7 +1629,7 @@ graph
     label "ltmLUOjQvaE"
     step 0
     date "2020-08-19T09:30:47Z"
-    title "Plandemic  Clip01  The event &#38;#39;201&#38;#39;"
+    title "Plandemic Clip01 The event "
     description ""
     channeltitle "Greg Walsh"
     channelid "UCMwD7_P89TdxAXwJDLYdBBA"
@@ -1647,7 +1647,7 @@ graph
     label "YXAu88t7yq0"
     step 0
     date "2020-09-06T16:11:50Z"
-    title "Plandemic Indoctornation  Clip01  The Event &#38;#39;201&#38;#39;"
+    title "Plandemic Indoctornation Clip01 The Event "
     description "#Covid1984&#10;#Plandemic"
     channeltitle "Justice Acclimated Growth 5"
     channelid "UC1fbRDfkwBxSaL_UAB9m-Rg"
@@ -1665,7 +1665,7 @@ graph
     label "49U4PgYtVJU"
     step 0
     date "2021-04-19T06:57:20Z"
-    title "Plandemic Judicial Watch files lawsuit seeking Dr  Fauci, WHO records"
+    title "Plandemic Judicial Watch files lawsuit seeking Dr Fauci, WHO records"
     description ""
     channeltitle "Exposure Channel"
     channelid "UCwVjOGef1SdP6yh9kqvfunA"
@@ -1719,7 +1719,7 @@ graph
     label "bvQ44F7DxoM"
     step 0
     date "2020-12-29T07:11:02Z"
-    title "#TheUtopiaProject #CoronaChan #Plandemic #Biowarfare #MosaicWarfare #FalseFlagFlu #Covid911 &#129440;"
+    title "#TheUtopiaProject #CoronaChan #Plandemic #Biowarfare #MosaicWarfare #FalseFlagFlu #Covid911 "
     description "#newcovidmutations&#10;https://search.yahoo.com/search;_ylt=AwrgDung_uRfjpAAQg9x.9w4;_ylc=X0kDdlFqd0FURXdMakxHSE05YlguUHZDd0JMTWpZd053QUFBQUR5R3pUYQRfUwM5NTQwMDYzODUEX3IDMgRhY3RuA2tleWJvYXJkBGNzcmNwdmlkA3ZRandBVEV3TGpMR0hNOWJYLlB2Q3dCTE1qWXdOd0FBQUFEeUd6VGEEZnIDaXBob25lBGZyMgNzYi10b3AEZ3ByaWQDdkJpcDNpMnNTb0dPSW9mT2FHc3ZlQQRuX3JzbHQDMARuX3N1Z2cDMwRvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMTkEcXVlcnkDbmV3JTIwY292aWQlMjBtdXRhdGlvbnMEc2VjA3NlYXJjaARzbGsDYnV0dG9uBHQyA3NlYXJjaAR0NANrZXlib2FyZAR0X3N0bXADMTYwODg0Mjk5NwR2dGVzdGlkAw--?ei=UTF-8&#38;pvid=vQjwATEwLjLGHM9bX.PvCwBLMjYwNwAAAADyGzTa&#38;gprid=&#38;.tsrc=apple&#38;fr=iphone&#38;fr2=sb-top&#38;p=new+covid+mutations&#10;&#10;#covidisavirusandretrovirushybrid&#10;https://search.yahoo.com/search;_ylt=Awr9DWhzAOVfuBQA32hx.9w4;_ylc=X0kDVHp6R3pURXdMakxHSE05YlguUHZDd2dpTWpZd053QUFBQUFLSjFFTgRfUwM5NTQwMDYzODUEX3IDMgRhY3RuA2tleWJvYXJkBGNzcmNwdmlkA1R6ekd6VEV3TGpMR0hNOWJYLlB2Q3dnaU1qWXdOd0FBQUFBS0oxRU4EZnIDaXBob25lBGZyMgNzYi10b3AEZ3ByaWQDSU9ld2s5eW5TODJxN010SFgyZE1iQQRuX3JzbHQDMARuX3N1Z2cDNARvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMzgEcXVlcnkDY292aWQlMjBpcyUyMGElMjB2aXJ1cyUyMGFuZCUyMHJldHJvdmlydXMlMjBoeWJyaWQEc2VjA3NlYXJjaARzbGsDYnV0dG9uBHQyA3NlYXJjaAR0NANrZXlib2FyZAR0X3N0bXADMTYwODg0MzQwMQR2dGVzdGlkAw--?pvid=TzzGzTEwLjLGHM9bX.PvCwgiMjYwNwAAAAAKJ1EN&#38;ei=UTF-8&#38;gprid=&#38;.tsrc=apple&#38;fr=iphone&#38;fr2=sb-top&#38;p=covid+is+a+virus+and+retrovirus+hybrid&#10;&#10;#whatisthedifferencebetweenphizerandmodernavaccines&#10;https://search.yahoo.com/search;_ylt=Awr9Im1e_.Rf7.gARWtx.9w4;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Fydw--?p=what+is+the+difference+between+phizer+and+moderna+vaccines&#38;pvid=0gM9bDEwLjLGHM9bX.PvCwLJMjYwNwAAAAD3.50n&#38;ei=UTF-8&#38;_tsrc=apple&#38;norw=1&#38;fr2=sp-qrw-orig-top&#38;fr=iphone&#10;&#10;#mrnavaccine&#10;https://search.yahoo.com/search?p=mrna+vaccine&#38;fr=iphone&#38;.tsrc=apple&#38;pcarrier=T-Mobile&#38;pmcc=310&#38;pmnc=260&#10;&#10;#sterilizationdrugsandvaccines&#10;https://search.yahoo.com/search?p=sterilization+drugs+in+vaccines&#38;fr=iphone&#38;.tsrc=apple&#38;pcarrier=T-Mobile&#38;pmcc=310&#38;pmnc=260&#10;&#10;#phizerandmrnaexperiments&#10;https://search.yahoo.com/search;_ylt=Awr4zV_nJeVfpRwAt1Jx.9w4;_ylc=X0kDQUJmb1lURXdMakxHSE05YlguUHZDd2R2TWpZd053QUFBQUJGbkU0MgRfUwM5NTQwMDYzODUEX3IDMgRhY3RuA2tleWJvYXJkBGNzcmNwdmlkA0FCZm9ZVEV3TGpMR0hNOWJYLlB2Q3dkdk1qWXdOd0FBQUFCRm5FNDIEZnIDaXBob25lBGZyMgNzYi10b3AEZ3ByaWQDZGpENkFJU01SRGllVXFlVnJya2s2QQRuX3JzbHQDMARuX3N1Z2cDOARvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMjcEcXVlcnkDcGZpemVyJTIwYW5kJTIwbXJuYSUyMGV4cGVyaW1lbnRzBHNlYwNzZWFyY2gEc2xrA2J1dHRvbgR0MgNzZWFyY2gEdDQDa2V5Ym9hcmQEdF9zdG1wAzE2MDg4NTI5OTAEdnRlc3RpZAM-?ei=UTF-8&#38;pvid=ABfoYTEwLjLGHM9bX.PvCwdvMjYwNwAAAABFnE42&#38;gprid=&#38;.tsrc=apple&#38;fr=iphone&#38;fr2=sb-top&#38;p=pfizer+and+mrna+experiments&#10;&#10;#pfizerandmrnaexperimentsonchildren&#10;https://search.yahoo.com/search?p=phizer+and+mrna+experiments+on+children&#38;fr=iphone&#38;.tsrc=apple&#38;pcarrier=T-Mobile&#38;pmcc=310&#38;pmnc=260&#10;&#10;#pfizerandexperimentsonchildren&#10;https://search.yahoo.com/search;_ylt=AwrgCqT0JuVfMVIANDhx.9w4;_ylc=X0kDN09HNEl6RXdMakxHSE05YlguUHZDd0ZVTWpZd053QUFBQUJWcjJuYQRfUwM5NTQwMDYzODUEX3IDMgRhY3RuA2tleWJvYXJkBGNzcmNwdmlkAzdPRzRJekV3TGpMR0hNOWJYLlB2Q3dGVU1qWXdOd0FBQUFCVnIybmEEZnIDaXBob25lBGZyMgNzYi10b3AEZ3ByaWQDOTNFeUlrbmhUQm1yS2VKR3dmNWNOQQRuX3JzbHQDMARuX3N1Z2cDNARvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMzQEcXVlcnkDcGZpemVyJTIwYW5kJTIwZXhwZXJpbWVudHMlMjBvbiUyMGNoaWxkcmVuBHNlYwNzZWFyY2gEc2xrA2J1dHRvbgR0MgNzZWFyY2gEdDQDa2V5Ym9hcmQEdF9zdG1wAzE2MDg4NTMyNzYEdnRlc3RpZAM-?ei=UTF-8&#38;pvid=7OG4IzEwLjLGHM9bX.PvCwFUMjYwNwAAAABVr2na&#38;gprid=&#38;.tsrc=apple&#38;fr=iphone&#38;fr2=sb-top&#38;p=pfizer+and+experiments+on+children&#10;&#10;#illegalexperimentsonchildren&#10;https://search.yahoo.com/search?p=illegal+experiments+on+children&#38;fr=iphone&#38;.tsrc=apple&#38;pcarrier=T-Mobile&#38;pmcc=310&#38;pmnc=260&#10;&#10;#biotechindustryandillegalgeneticengineering&#10;https://search.yahoo.com/search;_ylt=Awr9CKv5J.VfvHQAvj1x.9w4;_ylc=X0kDb1RlSDR6RXdMakxHSE05YlguUHZDd0dPTWpZd053QUFBQUJsT3QyUgRfUwM5NTQwMDYzODUEX3IDMgRhY3RuA2NsawRjc3JjcHZpZANvVGVINHpFd0xqTEdITTliWC5QdkN3R09Nall3TndBQUFBQmxPdDJSBGZyA2lwaG9uZQRmcjIDc2EtZ3AEZ3ByaWQDOExsMkZ5TlBRdXFJX1Y2R01KbTVsQQRtAzgEbl9yc2x0AzAEbl9zdWdnAzQEb3JpZ2luA3NlYXJjaC55YWhvby5jb20EcG9zAzEEcHFzdHIDYmlvdGVjaCBpbmR1c3RyeSBhbmQgaWxsZWdhbCBnZW5ldGljIGUEcHFzdHJsAzM4BHFzdHJsAzQ4BHF1ZXJ5A2Jpb3RlY2glMjBpbmR1c3RyeSUyMGFuZCUyMGlsbGVnYWwlMjBnZW5ldGljJTIwZW5naW5lZXJpbmcEc2VjA3NlYXJjaARzbGsDYXNzaXN0BHQyA3NlYXJjaAR0NANhc3Npc3QEdF9zdG1wAzE2MDg4NTM1MjMEdnRlc3RpZAM-?pvid=oTeH4zEwLjLGHM9bX.PvCwGOMjYwNwAAAABlOt2R&#38;ei=UTF-8&#38;gprid=&#38;.tsrc=apple&#38;fr=iphone&#38;fr2=sa-gp&#38;p=biotech+industry+and+illegal+genetic+engineering&#10;&#10;#TEAMCORONACHAN&#10;https://youtube.com/playlist?list=PL_vQOBuUVcCZDawOCu5rJL8tokOJPlVQP"
     channeltitle "#OccupyDogtown"
     channelid "UC8VMGrr6Igv1CiDoBWrbXzg"
@@ -1729,7 +1729,7 @@ graph
     commentcount 0
     duration "PT2M1S"
     indegree 0
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -1773,7 +1773,7 @@ graph
     label "M00F6t0HM0I"
     step 0
     date "2020-08-28T21:29:07Z"
-    title "PLANdemic 2? Now there&#38;#39;s a surprise. Anti human Conspiracy of the century!"
+    title "PLANdemic 2? Now theres a surprise. Anti human Conspiracy of the century!"
     description "Footage and content from Dave Cullen's excellent and informative channel: 'computing forever'. Check it out! All hail ''medical experts''  Bill and Melinda Gates who will deliver us from the plandemic. The look on thier faces says it all.&#10;aherm I mean&#10; pandemic...&#10;God help us.&#10;www.carlvernon.com is a good site also on yt....alistair Williams comedian here on  yt is also highly recommended!"
     channeltitle "Polo"
     channelid "UC3K_nfLnK9fhqQeIntqwXbA"
@@ -1863,7 +1863,7 @@ graph
     label "Lto7XUbnBNc"
     step 0
     date "2020-08-19T03:53:20Z"
-    title "PLANDEMIC &#8211; INDOCTORNATION - The Documentary"
+    title "PLANDEMIC INDOCTORNATION - The Documentary"
     description "[Mirrored]&#10;Deleted Videos on BitChute&#10;https://www.bitchute.com/channel/crazyworldwhichwelivein/&#10;YouTube Main Channel&#10;https://www.youtube.com/channel/UCjc1DttcvDAIQW8qPkpINPg/&#10;YouTube Backup Channel&#10;https://www.youtube.com/channel/UC74wLp8zJvjHX2kZRQeLvAQ/&#10;PLANDEMIC - INDOCTRINATION&#10;https://www.bitchute.com/video/f3q8hRa3Tq43/"
     channeltitle "CrazyWorldWhichWeLiveIn"
     channelid "UCjc1DttcvDAIQW8qPkpINPg"
@@ -1909,7 +1909,7 @@ graph
     commentcount 4
     duration "PT11M38S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1935,7 +1935,7 @@ graph
     label "DsA-YmYqtmI"
     step 0
     date "2020-05-07T17:56:11Z"
-    title "PLANDEMIC: Censored &#38;amp; Removed! WHY?????"
+    title "PLANDEMIC: Censored Removed! WHY?????"
     description "A commentary about the censorship of the documentary #PLANDEMIC, By Mikki Willis, and his interview with Dr. Judy Mikovits.&#10;Why does Big Tech keep removing it? &#10;What &#34;community guidelines&#34; are being broken?&#10;What's the reason for censorship?&#10;Why do other dubious documentaries get remain, but not this one?&#10;Is this a Free Speech issue? Or a Big Government/Big Pharma/Big Tech one?"
     channeltitle "Beau Davidson"
     channelid "UCXFmd22FdhPeSGZg-jZEW8Q"
@@ -1963,7 +1963,7 @@ graph
     commentcount 108
     duration "PT1H15M56S"
     indegree 0
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -2007,7 +2007,7 @@ graph
     label "9es54U4Tc9E"
     step 0
     date "2020-08-18T21:20:42Z"
-    title "*Plandemic  Clip03  Interview With David E  Martin Turning Coronavirus From A Pathogen To Profit"
+    title "*Plandemic Clip03 Interview With David E Martin Turning Coronavirus From A Pathogen To Profit"
     description "Plandemic Indoctornation  Clip01  The Event '201' - https://youtu.be/QNi6bQ8uocM&#10;Plandemic  Clip02  The Backstory Behind The Judy Mikovits Interview https://youtu.be/m0sm4SNH_4g&#10;*Plandemic  Clip03  Interview With David E  Martin Turning Coronavirus From A Pathogen To Profit - https://youtu.be/9es54U4Tc9E&#10;Plandemic  Clip04  Where Did The Coronavirus Originate And How Has The Media Spread It - https://youtu.be/C8DJ3bbfnAw&#10;Plandemic  Clip05  How Does Google And Other Silicon Valley Companies Control The Narrative - https://youtu.be/64QxJ-Id6iU&#10;Plandemic  Clip06  Should We Trust Our So Called &#8216;Fact Checkers&#8217; - https://youtu.be/gV6ZYee_ssw&#10;Plandemic  Clip07  Power Hungry People Controlling The Narrative, The So Called &#8216;Mocking Bird&#8217; - https://youtu.be/9dseUNaJR2U&#10;Plandemic  Clip08  How The Media Targets Whistleblowers - https://youtu.be/LVuPvRJtwWY"
     channeltitle "Justice Acclimated Growth 4"
     channelid "UCuVRjBubmwBidR46sNRGeVg"
@@ -2025,7 +2025,7 @@ graph
     label "gFYFdBGjNpA"
     step 0
     date "2020-05-09T16:07:52Z"
-    title "#HalfWoke: &#38;quot;Plandemic Movie&#38;quot; Part 2? with Dr Rashid Buttar"
+    title "#HalfWoke: Part 2? with Dr Rashid Buttar"
     description "#Halfwoke #1 - Out of the Shadows, QAnon and IPETGOAT - https://www.youtube.com/watch?v=UzpVpVn-nhA&#10;#Halfwoke #2 - Plandemic Part 1 - What you didn't know&#10;https://www.youtube.com/watch?v=9VtTv51152o&#10;&#10;Support my ministry on Patreon &#8211; https://www.patreon.com/OnPointPreparedness&#10;&#10;Support my ministry on Paypal &#8211; https://www.paypal.me/onpointpreparedness&#10;&#10;On Point Tee&#8217;s now available! - https://teespring.com/stores/on-point-preparedness&#10;&#10;Mail me @&#10;On Point Preparedness&#10;PO Box 953&#10;Mason Ohio, 45040 The purpose for which On Point Preparedness LLC was formed is for the transaction of any and all lawful purposes for which a limited liability company may be organized under the laws of the state of Ohio.&#160; Specifically, On Point Preparedness is a Christian Ministry (not affiliated with 501c3) with a primary purpose of online Christian Apologetics and teaching.&#160; Secondarily, On Point Preparedness shares opinion blogging/vlogging of various worldly issues as well as topics related to outdoor survival.&#10;&#10;The views, opinions and theological criticisms expressed @ On Point Preparedness are made solely under the single-member LLC. Any content provided is of opinion and not intended to malign or profit from any religion, ethnic group, club, organization, company, individual name, etc. All opinions made are through the lens of the Christian faith and made in good faith, relying on exegesis of the inspired Word of God contained in the sacred scriptures of biblical cannon.&#10;&#10;On Point Preparedness Statement of Beliefs - https://www.onpointpreparedness.net/statement-of-beliefs/ .&#10;&#10;If external content is used in this video/article, it belongs to their respective owners and On Point Preparedness LLC does not claim any right over them. Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing."
     channeltitle "On Point Preparedness"
     channelid "UC9pLAJfsadl_133T7-bgitA"
@@ -2053,7 +2053,7 @@ graph
     commentcount 0
     duration "PT29M57S"
     indegree 0
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -2061,7 +2061,7 @@ graph
     label "eUpZi4qwJIw"
     step 0
     date "2020-10-12T22:16:41Z"
-    title "Covid Plandemic Exposed"
+    title "Covid Plandemic E tongue sticking out osed"
     description "Utopia Exposes Everything The Deep State Wants To Do The World With This Pandemic"
     channeltitle "Dark King Government Exposed"
     channelid "UCz8XQ2GZqK6NBdIjKYEQaAw"
@@ -2079,7 +2079,7 @@ graph
     label "mEo1hDbcdi0"
     step 0
     date "2020-08-19T01:01:59Z"
-    title "Plandemic Clip03 Interview with David E  Martin &#38;quot;Turning coronavirus from a pathogen to profit&#38;quot;"
+    title "Plandemic Clip03 Interview with David E Martin "
     description ""
     channeltitle "Sarah"
     channelid "UCgO5gL0y6shjVyP6Xk78ZmA"
@@ -2115,7 +2115,7 @@ graph
     label "tbK1VZBmivI"
     step 0
     date "2020-08-19T09:34:04Z"
-    title "Plandemic  Clip08  How the media targets Whistleblowers"
+    title "Plandemic Clip08 How the media targets Whistleblowers"
     description ""
     channeltitle "Greg Walsh"
     channelid "UCMwD7_P89TdxAXwJDLYdBBA"
@@ -2133,7 +2133,7 @@ graph
     label "5ZMjYTByTxY"
     step 0
     date "2020-08-19T15:50:55Z"
-    title "Plandemic  Clip02  The backstory behind the Judy Mikovits interview"
+    title "Plandemic Clip02 The backstory behind the Judy Mikovits interview"
     description "Our faith in science can be religious in its fervor, but science isn't science unless we use our powers of critical thinking. &#10;&#10;As a campaigner against Monsanto's Roundup-Ready genetically engineered crops, I took a lot of criticism for being &#34;anti-science&#34; from the people who didn't want to look at the scientific evidence that glyphosate caused cancer. And, now Bayer's paying out $10 billion to Roundup-exposed cancer victims. &#10;&#10;So, I'm not afraid to read the science and make my own judgements. &#10;&#10;Recently, I've been researching the problems with &#34;passaging&#34; viruses through animals and growing out viruses in animal cells in &#34;gain-of-function&#34; experiments to make viruses more dangerous, creating potential biological weapons. &#10;&#10;Now, I'm learning how this is also done in vaccine production from the books Plague and Plague of Corruption. It's a fascinating history that goes back to the polio vaccines of the 1930s. &#10;&#10;I started these books right after reading Bitten about Lyme disease and Germs: Biological Weapons and America's Secret War. &#10;&#10;There's so much well-documented evidence of the military's development biological weapons. It really makes you wonder what we don't know, but there's plenty in the public record to be concerned about."
     channeltitle "Alexis Baden-Mayer"
     channelid "UCkWccSV7bTMb-0dzZOmfWbA"
@@ -2161,7 +2161,7 @@ graph
     commentcount 0
     duration "PT6M53S"
     indegree 0
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -2205,7 +2205,7 @@ graph
     label "H0XXrrxcVMs"
     step 0
     date "2020-08-19T01:45:15Z"
-    title "Plandemic  Clip08  How the media targets Whistleblowers"
+    title "Plandemic Clip08 How the media targets Whistleblowers"
     description ""
     channeltitle "Sarah"
     channelid "UCgO5gL0y6shjVyP6Xk78ZmA"
@@ -2241,7 +2241,7 @@ graph
     label "7tDcM4dkSEU"
     step 0
     date "2020-08-18T21:02:30Z"
-    title "Plandemic  Indoctornation Clip  The event &#38;#39;201&#38;#39;"
+    title "Plandemic Indoctornation Clip The event "
     description "This is a clip from Plandemic Indoctornation, please watch and share this brilliant documentary &#10;https://tinyurl.com/y2elty94"
     channeltitle "Vegan4Life"
     channelid "UCqB9rT4mEbmZFM_wAEytUmQ"
@@ -2259,7 +2259,7 @@ graph
     label "BHJvIlEC_ZI"
     step 0
     date "2020-08-19T20:27:50Z"
-    title "Plandemic  Clip14  From Microsoft to creating a Vaccine, How is Gates involved with Epstein"
+    title "Plandemic Clip14 From Microsoft to creating a Vaccine, How is Gates involved with Epstein"
     description "Regenerative organic agriculture is a low-cost, low-tech, effective way to draw carbon dioxide from the atmosphere. You can see the science that backs this up at Regeneration International, Project Drawdown, Biodiversity for a Livable Climate, Kiss the Ground and Soil for Climate. &#10;&#10;Bill Gates, instead of investing in something that would solve the climate crisis by producing plenty of healthy, nutrient-dense food for a growing population, is instead investing in the Stratospheric Controlled Perturbation Experiment (SCoPEx), what Nature called the &#34;First sun-dimming experiment.&#34; &#10;&#10;What are the downsides? &#34;[D]imming the Sun could backfire, or at least strongly disadvantage some areas of the world by, for example, robbing crops of sunlight and shifting rain patterns.&#34;&#10;&#10;The Quantum-Dot Tattoos that hold vaccination records are a real Gates investment, too. You can read all about it at news.rice.edu:&#10;&#10;&#8220;The Bill and Melinda Gates Foundation came to us and said, &#8216;Hey, we have a real problem &#8212; knowing who&#8217;s vaccinated,&#8217;&#8221; said McHugh, who was recruited to join Rice with funding from the Cancer Prevention and Research Institute of Texas. &#8220;They said, &#8216;We go on vaccination campaigns where people get into Hummers, drive to a rural village, set up a tent and start immunizing people, but they don&#8217;t always know who&#8217;s been immunized before and what vaccines are still needed.&#8221;&#10;&#10;Parents often don&#8217;t know their children&#8217;s vaccination histories, McHugh said. &#8220;So our idea was to put the record on the person,&#8221; he said. &#8220;This way, later on, people can scan over the area to see what vaccines have been administered and give only the ones still needed.&#10;&#10;&#8220;There are two sides to this,&#8221; he said. &#8220;First, is that you don&#8217;t administer unnecessary vaccines, which has a cost. But even bigger, you don&#8217;t leave people underimmunized and at risk of getting an infectious disease.&#8221;&#10;&#10;McHugh said the team worked with a bioethicist to be sure the patients&#8217; data remains protected. &#8220;She said we&#8217;re on solid ethical ground as long as people can opt out, like getting the patch with only the vaccine. Also, the patch with quantum dots only contains information about the vaccine received. It doesn&#8217;t tell you anything else about the person.&#8221;&#10;&#10;The square-centimeter patches hold up to 16 tiny needles. &#8220;They don&#8217;t go very deep, which makes them theoretically painless and a lot easier for kids,&#8221; McHugh said. &#8220;They&#8217;re like putting on a bandage.&#8221;&#10;&#10;Because the 1.5-millimeter needles disintegrate in the skin, no biohazardous sharps remain for disposal, he said. Testing in model skin in strong light showed the 4-nanometer dots should be readable for at least five years.&#10;&#10;* * *&#10;&#10;I didn't believe the claim that Gates and the U.S. military were investigating using mosquitoes as &#34;flying syringes&#34; to administer vaccinations (mostly because I didn't see how a pharmaceutical company could make any money off of it). It's true, actually old news: https://clinicaltrials.gov/ct2/show/NCT01994525"
     channeltitle "Alexis Baden-Mayer"
     channelid "UCkWccSV7bTMb-0dzZOmfWbA"
@@ -2277,7 +2277,7 @@ graph
     label "zJaT_shiR1Y"
     step 0
     date "2021-04-12T14:33:29Z"
-    title "U.S.A &#38;amp; China Plandemic"
+    title "U.S.A China Plandemic"
     description "https://www.timelessmomentswaxmelts.co.uk/&#10;https://www.facebook.com/watch/timelessmomentsbysally.co.uk/"
     channeltitle "MrJacktemplar"
     channelid "UCmgyvUF0iQUBePjq2ikUUPQ"
@@ -2295,7 +2295,7 @@ graph
     label "L_UHL9RZPw0"
     step 0
     date "2021-12-24T15:00:11Z"
-    title "The Real ugly Evil Greedy Truth!&#129488; ABOUT This Entire FRAUD! Plandemic &#129317;!"
+    title "The Real ugly Evil Greedy Truth!!"
     description ""
     channeltitle "TRENT DEE"
     channelid "UC6Pxeu7paZvCUYrJ8LEnklQ"
@@ -2313,7 +2313,7 @@ graph
     label "EWJbAOxWG5I"
     step 0
     date "2020-08-18T20:03:37Z"
-    title "Plandemic  Clip15   A vaccine or a population management story"
+    title "Plandemic Clip15 A vaccine or a population management story"
     description ""
     channeltitle "Jonathan Dunn"
     channelid "UC2dXqDJD7Jez5JbD0lmazLA"
@@ -2323,7 +2323,7 @@ graph
     commentcount 0
     duration "PT6M43S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2367,7 +2367,7 @@ graph
     label "u5-DLbNlFr4"
     step 0
     date "2020-07-16T14:27:48Z"
-    title "Dr Vernon Coleman:  Thoughts on the plandemic - the screws are tightening"
+    title "Dr Vernon Coleman: Thoughts on the plandemic - the screws are tightening"
     description "Going through Dr Vernon Coleman's transcript titled &#34;The screws are tightening&#34;.  The psychological warfare perpetrated by psychopaths, facilitated by zombies.  Corona virus - a media epidemic"
     channeltitle "Dangerous Minds"
     channelid "UC_y5ndjZivumqeRM-Nc0iuA"
@@ -2385,7 +2385,7 @@ graph
     label "2IMbc71JOp8"
     step 0
     date "2020-08-18T20:26:06Z"
-    title "Plandemic  Clip02  The backstory behind the Judy Mikovits interview"
+    title "Plandemic Clip02 The backstory behind the Judy Mikovits interview"
     description ""
     channeltitle "Sovran Monk"
     channelid "UCz7jFXUoHhEDRlkYQpgr4cA"
@@ -2403,7 +2403,7 @@ graph
     label "OW8nv_J9YoQ"
     step 0
     date "2020-05-08T01:59:33Z"
-    title "Dr Judy Mikovits Plandemic ,HEY YOUTUBE  DO NOT DELETE IT,where is freedom of speech?????????????"
+    title "Dr Judy Mikovits Plandemic ,HEY YOUTUBE DO NOT DELETE IT,where is freedom of speech?????????????"
     description ""
     channeltitle "Sandor Kiss"
     channelid "UCtGqy2aibfHCthQJuXubcGA"
@@ -2413,7 +2413,7 @@ graph
     commentcount 264
     duration "PT13M49S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -2439,7 +2439,7 @@ graph
     label "mDTt5NS1pIU"
     step 0
     date "2020-08-18T20:25:18Z"
-    title "Plandemic  Clip13  &#8217;The National Childhood Vaccine Injury Act&#8217;"
+    title "Plandemic Clip13 "
     description ""
     channeltitle "Sovran Monk"
     channelid "UCz7jFXUoHhEDRlkYQpgr4cA"
@@ -2475,7 +2475,7 @@ graph
     label "dMUHRtnaqkU"
     step 0
     date "2020-05-15T13:08:22Z"
-    title "Dr.Judy Mikovits - Plandemic (See the link on the description www.bitchute.com/video/KqmTwS)"
+    title "Dr.Judy Mikovits - Plandemic (See the link on the description "
     description "published on 08/05/2020&#10;&#10;This video was eliminated from youtube after reaching about 11,359 views on my channel alone. I received a warning from Youtube informing me that I was violating their guides for spreading harmful and dangerous content to people. I was warned that if it happens again they will delete my account.&#10;&#10;Please see this documentary &#34;Plandemic&#34;, the first part is an interview with Dr. Judy Mikovits, watch here: https: //www.bitchute.com/video/KqmTwS .&#10;&#10;Youtube, Facebook and Google are censoring this video.&#10;&#10;You can also watch it on the website and at the end of this description! PLANDEMIC IN SUMMER 2020&#10;&#10;Before the completion of the full documentary, we will release a series of vignettes. The first part features renowned scientist Judy Mikovits PHD.&#10;&#10;This became much more than just a documentary. This is humanity's chance to defend freedom of expression and integrity in all sectors. Join our community and help spread the message.&#10;&#10;Our videos are being retired every minute. We appreciate your support. More soon ...&#10;&#10;source: https://plandemicmovie.com/"
     channeltitle "Free Your Mind"
     channelid "UCuE1YfnxVfxVo_bx94ZP_cg"

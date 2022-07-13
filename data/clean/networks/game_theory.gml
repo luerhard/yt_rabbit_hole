@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:23 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:33:58 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "oi_UIEC8HpA"
     step 0
     date "2022-07-10T18:05:03Z"
-    title "Game Theory: The Dead Will RISE! (Andy&#38;#39;s Apple Farm / Rabbit Knight)"
+    title "Game Theory: The Dead Will RISE! (Andys Apple Farm / Rabbit Knight)"
     description "Special thanks to SeatGeek for sponsoring this episode: &#10;Get 20 off your first SeatGeek order w/ code GAMETHEORY &#9658; https://seatgeek.onelink.me/RrnK/GAMETHEORY&#10;&#10;After I first covered Andy's Apple Farm, I got a lot of requests to make another theory about the Christmas update and Rabbit Knight. Well, here it is! As we wait for Andy's Apple Farm Chapter 2 to drop, we are going to catch up on all of the secrets and LORE! How is Rabbit Knight related to the main game story? What should we expect in Chapter 2? Grab a snack and let's dive in!&#10;&#10;More about Andy's Apple Farm &#9658; https://m36games.itch.io/applefarm&#10;More about Rabbit Knight &#9658; https://m36games.itch.io/rabbit-knight&#10;&#10;Get Your Theory Wear! &#9658;  https://theorywear.com/&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: Arthad, Jerika (NekoOnigiri), and AbsolutePixel&#10;Sound Editor: Yosi Berman &#10;&#10;#AndysAppleFarm #RabbitKnight #AndysAppleFarmChapter1 #AndysAppleFarmChapter2 #creepypasta #scary #MatPat #Theory #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -37,7 +37,7 @@ graph
     commentcount 5783
     duration "PT23M47S"
     indegree 88
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -55,7 +55,7 @@ graph
     commentcount 12706
     duration "PT17M16S"
     indegree 139
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -109,7 +109,7 @@ graph
     commentcount 7331
     duration "PT16M51S"
     indegree 57
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -135,7 +135,7 @@ graph
     label "IRm_sSERdYo"
     step 0
     date "2022-05-26T18:05:04Z"
-    title "Game Theory: Bowser&#38;#39;s LOST Child...Yoshi!"
+    title "Game Theory: Bowsers LOST Child...Yoshi!"
     description "Special thanks to NHTSA for sponsoring a portion of this video!&#10;Learn more NOW! &#9658; https://bit.ly/ClickIt2022T&#10;&#10;Theorists, I have something to tell you. I may have been WRONG in one of my previous theories. I know, I know! That is SHOCKING, very unexpected news but it merits revisiting a certain green companion. Yoshi. What IS Yoshi? Well, I think I figured out where I went wrong...&#10;&#10;Check out the official NHTSA channel &#9658; https://www.youtube.com/user/USDOTNHTSA&#10;&#10;Get Your Theory Wear! &#9658;  https://theorywear.com/&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick, Hannah Malek (HgMercury73) and Tom Robinson&#10;Editors: Dan &#34;Cybert&#34; Seibert, Jerika (NekoOnigiri), and Pedro Freitas&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman &#10;&#10;#Yoshi #Mario #Bowser #SuperMario #SuperMarioBros #SuperSmashBros #SmashBros #MatPat #Theory #GameTheory #ClickItorTicket #BuckleUp"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -145,7 +145,7 @@ graph
     commentcount 6853
     duration "PT13M34S"
     indegree 131
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     commentcount 15105
     duration "PT18M53S"
     indegree 147
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -171,7 +171,7 @@ graph
     label "AQOWwS-HHyA"
     step 0
     date "2021-12-12T18:05:07Z"
-    title "Game Theory: Please Come Home... (Andy&#38;#39;s Apple Farm)"
+    title "Game Theory: Please Come Home... (Andys Apple Farm)"
     description "Special thanks to Opera for sponsoring this episode!&#10;Download Opera GX FREE! &#9658; https://operagx.gg/TheGameTheorists&#10;&#38; get complete CONTROL over your Ram &#38; CPU usage!&#10;&#10;Get Your Holiday Theory Wear NOW! &#9658; https://creatorink.co/4wj &#10;&#10;Welcome back to the special corner of Game Theory reserved for the cute games that have a deadly darkness hiding just under the surface. Today, we are talking about Andy's Apple Farm. I played this over on GTLive and knew I had to make a theory. There is some creepy stuff hiding in this game. Get your flashlights ready Loyal Theorists, this is about to get DARK!&#10;&#10;Find out more about the game HERE! &#9658; https://store.steampowered.com/app/1810960/Andys_Apple_Farm/&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#AndysAppleFarm #Creepy #Scary #Lore #ScaryGame #Creepypasta #MatPat #Theory #GameTheory    &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: Jerika (NekoOnigiri), Koen Verhagen, and Tyler Mascola&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -181,7 +181,7 @@ graph
     commentcount 9291
     duration "PT19M17S"
     indegree 118
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -199,7 +199,7 @@ graph
     commentcount 8761
     duration "PT19M18S"
     indegree 103
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 45691
     duration "PT13M28S"
     indegree 177
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -235,7 +235,7 @@ graph
     commentcount 17839
     duration "PT18M4S"
     indegree 134
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 30413
     duration "PT21M15S"
     indegree 60
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 10579
     duration "PT14M20S"
     indegree 94
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 7932
     duration "PT16M46S"
     indegree 81
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -297,7 +297,7 @@ graph
     label "QNPGTGCJkdY"
     step 0
     date "2022-04-17T17:05:21Z"
-    title "Game Theory: I&#38;#39;m So Hungry SO&#822;&#856;&#781;&#773;&#860; H&#821;&#834;&#785;&#771;&#842;u&#820;N&#820;&#777;&#771;&#836;&#785;&#851;G&#820;&#782;r&#820;Y&#822;&#783; s&#822;&#834;O&#822;&#856;&#781;&#773;&#860;&#798; h&#821;&#780;&#780;&#785;U&#823;&#864;&#849;&#850;&#786;nG&#820;&#842;&#836;&#773;&#849;&#794;R&#822;&#861;y&#820;&#830;&#849;&#844;&#832;&#788;&#829;"
+    title "Game Theory: I"
     description "SUBSCRIBE for every TASTY Theory! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Welcome back to our analysis of the lore of Cooking Companions. This cute cooking game is hiding a LOT of dark secrets. We covered a lot of it in our last episode, so today we are focusing on the Chompettes. What are they? Or, more importantly, WHO are they? Get your utensils ready and let's dig in!&#10;&#10;Find out more about the game here! &#9658; https://store.steampowered.com/app/1263230/Cooking_Companions/&#10;&#10;Get Your Theory Wear! &#9658;  https://theorywear.com/&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: Pedro Freitas, Jerika (NekoOnigiri), and Koen Verhagen&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman &#10;&#10;#CookingCompanions #Lore #CookingCompanionsLore #Chompettes #Secrets #Scary #ScaryGame #MatPat #Theory #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -307,7 +307,7 @@ graph
     commentcount 6702
     duration "PT13M4S"
     indegree 33
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 5742
     duration "PT11M"
     indegree 68
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 8028
     duration "PT14M13S"
     indegree 49
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount 10644
     duration "PT16M4S"
     indegree 63
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -369,7 +369,7 @@ graph
     label "XiuE-Wt7qik"
     step 0
     date "2020-06-06T18:05:14Z"
-    title "Game Theory: The Animals in Animal Crossing Aren&#38;#39;t Animals! (Animal Crossing: New Horizons)"
+    title "Game Theory: The Animals in Animal Crossing Arent Animals! (Animal Crossing: New Horizons)"
     description "Get yourself&#160;some Theory Wear!! &#9658;&#160;http://creatorink.co/theorywear1&#160;&#160;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160; &#160;&#10;&#10;Animal Crossing is PEOPLE! No, really! Theorists, this may be one of the most unexpected theories I've put out recently, but once you see it, you will never unsee it.  I have gathered TONS of evidence that our player character is only SEEING the villagers of Animal Crossing as animals. They are not, in fact, ACTUAL talking, anthropomorphic&#160;animals. Have I said the word animals enough yet? Well get ready Loyal Theorists, I am about to blow your mind! Animals!&#10;&#10;Find the game here &#9658; https://animal-crossing.com/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#160;&#10;&#10;#AnimalCrossing #AnimalCrossingNewHorizons #NewHorizons&#160;#Isabelle #TomNook #ACNH #AC #Theory #GameTheory&#160;&#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Schyler Martin&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi,&#160;Koen Verhagen,&#160;Forrest Lee, and&#160;Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://www.thedrum.com/news/2020/05/08/ads-we-singapores-sentosa-island-creates-branded-island-animal-crossing&#10;https://experiments.getty.edu/ac-art-generator&#10;https://www.polygon.com/2020/4/13/21218993/animal-crossing-new-horizons-real-museum-curation-tour&#10;https://www.thedrum.com/news/2020/05/22/peta-storms-animal-crossing-protest-treatment-digital-animals&#10;https://animalcrossing.fandom.com/wiki/White_owl&#10;https://animalcrossing.fandom.com/wiki/Frog_(fish)&#10;https://animalcrossing.fandom.com/wiki/Yellow_bird&#10;https://www.livescience.com/44875-werewolves-in-psychiatry.html&#10;https://sci-hub.tw/https://www.cambridge.org/core/journals/psychological-medicine/article/lycanthropy-alive-and-well-in-the-twentieth-century/15985137FFD40A05613393B50B9F62E1&#10;https://centerforinquiry.org/blog/new-case-of-lycanthropy-from-an-accused-man-beast/&#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3905497/&#10;https://sci-hub.tw/https://www.cambridge.org/core/journals/psychological-medicine/article/lycanthropy-alive-and-well-in-the-twentieth-century/15985137FFD40A05613393B50B9F62E1&#10;https://animalcrossing.fandom.com/wiki/Cleo&#10;https://animalcrossing.fandom.com/wiki/Phyllis&#10;https://www.livescience.com/44875-werewolves-in-psychiatry.html&#10;https://the-gist.org/2015/08/clinical-lycanthropy-where-psychiatry-and-mythology-collide/&#10;https://usspeakingblog.com/2019/10/16/mental-health-masterpieces-3-games-and-1-charity-helping-to-lift-the-stigma/"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -379,7 +379,7 @@ graph
     commentcount 22657
     duration "PT16M41S"
     indegree 86
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -397,7 +397,7 @@ graph
     commentcount 28146
     duration "PT25M12S"
     indegree 129
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -405,7 +405,7 @@ graph
     label "8X9npKC0yXQ"
     step 0
     date "2017-12-21T21:09:25Z"
-    title "Game Theory: Cuphead&#38;#39;s SINFUL SECRET Business!"
+    title "Game Theory: Cupheads SINFUL SECRET Business!"
     description "The Cuphead CONTROVERSY! &#9658; http://bit.ly/2BUzx1J&#10;How Bendy Will END! &#9658;&#9658;&#9658; https://goo.gl/hGeBMo&#10;SUBSCRIBE to Catch all the Theories! &#9658; http://bit.ly/1qV8fd6&#10;&#10;Don&#8217;t deal with the devil&#8230; An introductory phrase like this makes Cuphead and Mugman seem like victims to a devilish scheme. However, what if they weren&#8217;t so pure themselves? What if this whole time we&#8217;ve been getting played? Cuphead and Mugman are into some shady things and today I&#8217;m going to expose their secret business!&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;What IS a Kirby?! &#9658;&#9658; http://bit.ly/2kyuOsO&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2zdlS3M&#10;The Firestorm of Battlefront 2! &#9658;&#9658; https://goo.gl/Rmv4Zs&#10;Gaming Is BROKEN! What&#8217;s Next? &#9658;&#9658; https://goo.gl/5Nf7uU&#10;Scariest Game You Won't Play | Petscop &#9658; http://bit.ly/2ksowKB&#10;Pokemon Are Going EXTINCT! &#9658;&#9658; https://goo.gl/pUEkbk&#10;Super Mario BETRAYED?! &#9658;&#9658; https://goo.gl/NpsRVz&#10;&#10;&#10;Check out some more of our awesome video game content: &#10;&#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -415,7 +415,7 @@ graph
     commentcount 18859
     duration "PT11M32S"
     indegree 75
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -423,7 +423,7 @@ graph
     label "sdiDslg4oSY"
     step 0
     date "2022-03-27T18:05:07Z"
-    title "Game Theory: Mommy&#38;#39;s Secret Army (Poppy Playtime)"
+    title "Game Theory: Mommys Secret Army (Poppy Playtime)"
     description "Special thanks to Public for sponsoring this episode! &#10;Sign up today and get your FREE stock! &#9658; https://Public.com/MatPat&#10;&#10;Theorists, things have been happening over in the world of Poppy Playtime. Mob Games released a new trailer for Poppy Playtime: Chapter 2 and you know I had to dissect that thing for everything I could find. From the new characters like Mommy to old favorites like Huggy and Poppy, there is a LOT to talk about. Let's go!&#10;&#10;Thanks to  @Tericho  for gathering the information for the whole fandom.&#10;&#10;Find out more about the game here &#9658; https://store.steampowered.com/app/1721470/Poppy_Playtime/&#10;&#10;Get Your Theory Wear! &#9658;  https://theorywear.com/&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: AbsolutePixel, Tyler Mascola, and Jerika (NekoOnigiri)&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman &#10;&#10;#PoppyPlaytime #PoppyPlaytimeChapter2 #Poppy #PoppyPlaytimeLore #Scary #PoppyPlaytimeTrailer #PoppyPlaytimeMommy #MommyLongLegs #MatPat #Theory #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -441,7 +441,7 @@ graph
     label "wvZtYgIIe2E"
     step 0
     date "2021-03-13T19:06:34Z"
-    title "Game Theory: Beware Crow 64 c&#824;&#778;&#795;rO&#821;&#848;&#772;&#856;&#833;&#768;&#828;&#814;W&#820;&#774;&#792;&#810;&#840; 6&#821;&#787;&#859;&#850;4&#820;&#776;&#855;&#771;&#779; c&#822;&#830;&#833;&#833;&#768;&#785;R&#824;&#783;&#773;&#856;&#818;&#810;O&#822;w&#821;&#772;&#832;&#789;&#861;&#774;&#773; 6&#820;&#835;&#786;&#836;&#775;&#798;4&#822;&#855;&#844;&#777;&#809;&#792;"
+    title "Game Theory: Beware Crow 64 c"
     description "Get Yourself Some BRAND NEW Theory Wear! &#9658; https://bit.ly/3beM0ys&#10;&#10;Theorists, we all know I love a good ARG. And Crow 64? Well, I had to dive in head first. Crow 64 is the ARG of the &#34;unfinished Nintendo 64 game&#34; called Catastrophe Crow. In the original video, we get the history of the game as well as our first playthrough footage. From there, it spread across the internet into a building mystery waiting to be figured out. Today, I am going to try to do just that. &#10;&#10;Check out Adam's Channel &#9658; https://www.youtube.com/user/AdamButcher&#10;&#10;Thanks to u/TheNinjaCakes for letting us use their sprite pack! &#9658; https://bit.ly/2LIjaZT&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Crow64 #CatastropheCrow #Creepypasta #Creepy #Scary #ARG #Nintendo #N64 #MatPat #Theory #GameTheory &#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Zach Stewart&#10;Editors: Pedro Freitas, Alex &#34;Sedge&#34; Sedgwick, and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -451,7 +451,7 @@ graph
     commentcount 21379
     duration "PT17M35S"
     indegree 98
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 2733
     duration "PT9M50S"
     indegree 16
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -495,7 +495,7 @@ graph
     label "N-I7ktbVVVg"
     step 0
     date "2021-05-08T18:06:18Z"
-    title "Game Theory: DRINK ME Dri&#775;&#783;&#825;&#803;n&#786;&#850;&#818;&#857;K&#782;&#780;&#772;&#856;&#840;&#805; m&#842;&#855;&#795;&#786;&#779;&#803;E&#775;&#832;&#859;&#781;&#828;&#806;&#797;&#809; &#785;&#848;&#843;&#801;&#792;&#851;D&#784;&#832;&#832;rIN&#770;&#862;&#809;&#846;k m&#769;&#786;&#790;&#816;e&#772;&#795;&#850;&#770;&#791; (OnlyCans)"
+    title "Game Theory: DRINK ME Dri (OnlyCans)"
     description "Watch the rest of Cannibalism Weekend!&#160;&#10;The Disturbing Lore of M&#38;Ms&#160;&#9658; https://youtu.be/6ennbi0E-0Q&#10;Wall-E's Secret Cannibalism... More Juicy Proof!&#160;&#9658; https://youtu.be/xtRHKv8xQLY &#160;&#10;&#10;When a game like this shows up, you know I have to cover it. Theorists, welcome to OnlyCans. Yes, you read that right. OnlyCans. The game where you take questionable pictures of drink cans. Seems pretty straight forward, right? WRONG! This game is hiding a dark, meaty secret inside its bright and shiny cans. What is it? Only those brave enough to watch will find out...&#10;&#10;Find the game here &#9658;&#160;https://store.steampowered.com/app/417360/OnlyCans_Thirst_Date/&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160; &#160;&#160;&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#OnlyCans #OnlyCansThirstDate #OnlyCansGame #Cannibalism #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors:&#160;Danial &#34;BanditRants&#34; Keristoufi and&#160;Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -505,7 +505,7 @@ graph
     commentcount 18313
     duration "PT16M6S"
     indegree 111
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -513,7 +513,7 @@ graph
     label "q1CrYYF58RA"
     step 0
     date "2021-06-22T19:05:24Z"
-    title "Game Theory: The Disturbing Lore Of Lily&#38;#39;s Garden"
+    title "Game Theory: The Disturbing Lore Of Lilys Garden"
     description "Get yourself some BRAND NEW Food Theory Merch! &#9658; https://bit.ly/3vu8MJs&#10;Want more WEIRD lore? &#9658; https://youtu.be/ARoP4GNgKVg&#10;&#10;We've talked about how mobile games are weird in a previous episode. Well, this is a game that proves it. Welcome to the disturbing world of Lily's Garden! A place where our titular heroine is up to more than just tending to some plants. This game is DARK! Which means, of course, that I needed to cover it. It is time to untangle the mystery of Lily's Garden.&#160;&#10;&#10;Find the game here &#9658; https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden&#10;The Confusing Universe &#9658; https://www.youtube.com/channel/UC8VJcUJNtyBpgtFpf5-k1Jw&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160; &#160;&#10;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;#LilysGarden #MobileGame #WeirdGame #Lore #Scary&#160;#Theory&#160;#MatPat #Theory #GameTheory&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writer: Matthew Patrick and Tom Robinson&#10;Editors:&#160;Tyler Mascola and&#160;Pedro Freitas&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -523,7 +523,7 @@ graph
     commentcount 19980
     duration "PT17M19S"
     indegree 92
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -549,7 +549,7 @@ graph
     label "qU1Yv58EXcc"
     step 0
     date "2021-10-17T18:05:10Z"
-    title "Game Theory: Minecraft&#38;#39;s DARKEST Timeline! (Hermitcraft SMP)"
+    title "Game Theory: Minecrafts DARKEST Timeline! (Hermitcraft SMP)"
     description "Special thanks to Audible for sponsoring this episode!&#10;Get a FREE 30 Day trial of Audible! &#9658; http://audible.com/matpat &#10;Or text matpat to 500-500&#10;&#10;Get your new SPOOKY Theory Wear! &#9658; https://creatorink.co/hbn&#10;&#10;Theorists, I may be in DANGER! Or well, at least a Minecraft version of me may be. If you haven't caught up on the Hermitcraft SMP, you may have missed a BIG reveal. Today, I am going to catch you up and explain how and WHY I, MatPat, may be the key to it all! This is a doozy, so strap in!&#10;&#10;Find out more about Hermitcraft HERE! &#9658; https://hermitcraft.com/ &#10;&#10;Check out Th3Pooka's animations! &#9658; https://www.youtube.com/c/th3pooka&#10;&#10;Check out Xisuma's playlist to catch up! &#9658; https://youtube.com/playlist?list=PL7VmhWGNRxKhH4-ObAPWdsACvns2lq8CZ&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#HermitcraftSMP #Hermitcraft #Minecraft #MinecraftSMP #MinecraftTheory #MatPat #Theory #GameTheory    &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: Koen Verhagen, Jerika (NekoOnigiri), Tyler Mascola, and Pedro Freitas&#10;Assistant Editor: Caitie Turner (viridianrosette)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -559,7 +559,7 @@ graph
     commentcount 14527
     duration "PT17M13S"
     indegree 93
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 15375
     duration "PT16M49S"
     indegree 57
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 15011
     duration "PT17M56S"
     indegree 50
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 14467
     duration "PT15M41S"
     indegree 75
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount 7439
     duration "PT13M53S"
     indegree 41
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount 24530
     duration "PT13M41S"
     indegree 69
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 27453
     duration "PT18M37S"
     indegree 102
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount 16475
     duration "PT16M5S"
     indegree 57
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -693,7 +693,7 @@ graph
     label "gDO7oDvL8aE"
     step 0
     date "2022-03-06T18:05:12Z"
-    title "Game Theory: I Made Markiplier&#38;#39;s PERFECT Pokemon! (Markiplier Smash or Pass)"
+    title "Game Theory: I Made Markipliers PERFECT Pokemon! (Markiplier Smash or Pass)"
     description "Get yourself The Quest Jacket and SOLVE our mystery! &#9658; https://theorywear.com/&#10;&#10;Theorists, sometimes my job gets weird. Today we are going to analyze @Markiplier's Pok&#233;mon Smash or Pass video. Why? To see if we can figure out what Mark's PERFECT Pok&#233;mon would be in the name of science. No really, I'm only doing this for science. Don't forget to let Markiplier know we've come up with his ultimate Pok&#233;mon SMASH! ...when did this become my life?&#10;&#10;Watch the original @Markiplier Pok&#233;mon Smash or Pass video here &#9658; https://youtu.be/gys9oDZj-MY&#10;&#10;Special thanks to Caitie Turner (Caiterpillart) for making the perfect Pokemon design!  &#9658;  https://twitter.com/caiterpillart&#10;&#10;Get Your Theory Wear! &#9658;  https://theorywear.com/&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: Tyler Mascola, Ryan Foley &#8226; KingCorphish, and Jerika (NekoOnigiri)&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman &#10;&#10;#Markiplier #Pokemon #SmashOrPass #PokemonSmashOrPass #MarkiplierSmashOrPass #MatPat #Theory #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -703,7 +703,7 @@ graph
     commentcount 30956
     duration "PT16M36S"
     indegree 19
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -711,7 +711,7 @@ graph
     label "_0fX0WNMMUo"
     step 0
     date "2017-12-30T18:04:57Z"
-    title "Game Theory: Duck Season&#38;#39;s KILLER DOG... Unmasked! (Duck Season)"
+    title "Game Theory: Duck Seasons KILLER DOG... Unmasked! (Duck Season)"
     description "Special Thanks to Oculus Rift for Sponsoring this video.&#10;Get your Oculus Rift today! &#9658;&#9658; http://bit.ly/2jdHe7Q&#10;Scariest Game You Won't Play | Petscop &#9658; http://bit.ly/2ksowKB&#10;&#10;Duck Season is a game that seemed pretty straight forward, but it went from zero to DARK really fast. We are left wondering so many things after completing the game. How does this dog come out of the cartridge? Why is he preying on children? And most importantly... Who is beneath the mask? Well Loyal Theorists, I think I found the answer. Join me for a creepy trip through VR land as we uncover the shocking truth of the &#34;Duck Hunt&#34; universe!&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;What IS a Kirby?! &#9658;&#9658; http://bit.ly/2kyuOsO&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2zdlS3M&#10;The Cuphead CONTROVERSY! &#9658; http://bit.ly/2BUzx1J&#10;How Bendy Will END! &#9658;&#9658;&#9658; https://goo.gl/hGeBMo&#10;Gaming Is BROKEN! What&#8217;s Next? &#9658;&#9658; https://goo.gl/5Nf7uU&#10;Pokemon Are Going EXTINCT! &#9658;&#9658; https://goo.gl/pUEkbk&#10;Super Mario BETRAYED?! &#9658;&#9658; https://goo.gl/NpsRVz&#10;&#10;&#10;Check out some more of our awesome video game content: &#10;&#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -721,7 +721,7 @@ graph
     commentcount 36442
     duration "PT13M22S"
     indegree 86
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -729,7 +729,7 @@ graph
     label "nTlmIA1tERA"
     step 0
     date "2022-06-16T18:07:48Z"
-    title "The Deadly World of Iron Lung Explained  | The SCIENCE of... Iron Lung"
+    title "The Deadly World of Iron Lung E tongue sticking out lained | The SCIENCE of... Iron Lung"
     description "SUBSCRIBE to NEVER miss a Theory! &#9658; https://goo.gl/kQWHkJ      &#10; &#10;Theorists, Iron Lung is one SCARY game! I don't mean the sea of blood and huge monster fish either. I'm talking about the state of the UNIVERSE. Specifically the missing suns. That is a BIG red flag in any kind of survival. So today, Austin is going to try and figure out if humans could SURVIVE with no sun. Let's go!&#10; &#10;Join The SCIENCE on Patreon &#9658; https://www.patreon.com/theSCIENCEyt&#10;Want to join in the SCIENCE discussion? &#9658;&#9658; https://discord.gg/theSCIENCE  &#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation!  &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon!  &#9658;&#9658; https://bit.ly/2JCwEHP&#10; &#10;#IronLung #IronLungGame #IronLungTheory #Space #Sun #Survive #HowToSurvive #Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -739,7 +739,7 @@ graph
     commentcount 3954
     duration "PT19M3S"
     indegree 17
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 59216
     duration "PT24M"
     indegree 64
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -775,7 +775,7 @@ graph
     commentcount 1752
     duration "PT8M22S"
     indegree 9
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -783,7 +783,7 @@ graph
     label "bqY0_ZeHs8k"
     step 0
     date "2020-02-11T19:05:06Z"
-    title "Game Theory: He Never Died He NevEr D&#855;&#819;Ie&#786;&#781;&#819;&#817;d&#838;&#809; H&#838;&#795;&#859;&#798;E&#777;&#856;&#778;&#849;&#846;&#826; N&#785;&#850;e&#844;&#855;&#817;VE&#777;&#792;r&#787;&#779;&#771;&#811;&#808;&#790; D&#830;&#786;&#827;&#792;i&#777;E&#855;&#829;&#844;&#846;&#858;&#825;d&#844;&#789;&#856;&#858;"
+    title "Game Theory: He Never Died He NevEr D"
     description "SUBSCRIBE to never miss a Theory! &#9658; http://bit.ly/1qV8fd6&#10;Unmasking the Duck Season Dog! &#9658; https://youtu.be/_0fX0WNMMUo&#10;&#10;One of my favorite VR horror games is Duck Season, so when the makers of that game came out with Boneworks I was sold! There is SO MUCH hiding beneath the surface of this gam that, of course, I had to do a theory! Today I am going to show you how Boneworks, at its core, is about humanity's search for immortality and the lengths we'd go to just to find it. How does that tie into the strange tale of an evil man in a dog suit from Duck Season? Watch and find out!&#10;&#10;Get your NEW &#34;We Got Your Back&#34; hoodie! &#9658; http://creatorink.co/lmb&#10;&#10;Get the games here! &#10;Boneworks &#9658; https://store.steampowered.com/app/823500/BONEWORKS/&#10;Duck Season &#9658;&#160;https://store.steampowered.com/app/503580/Duck_Season/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6 &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Boneworks #DuckSeason #BoneworksVR #DuckSeasonVR #Creepy #Scary #Immortality #StressLevelZero #Theory #GameTheory &#10;&#10;More THEORIES:&#10;The Tragedy of Minecraft's Sunken Tomb &#9658; https://youtu.be/EJL13Bl9gS0&#10;The History of Minecraft's Underwater Gods&#160;&#9658; https://youtu.be/hHPLAItTLiA&#10;The Tragic Story of Minecraft's Zombie Pigmen&#160;&#9658; https://youtu.be/jxU0UalndcI&#10;Minecraft, STOP Punching Trees!&#160;&#160;&#9658; https://youtu.be/dLgdbbeXkbk&#10;The Lost History of Minecraft's Wither&#160;&#9658; https://youtu.be/m-Rmg5AYf8I&#10;&#10;Credits:&#10;Writers: Matthew Patrick &#10;Researcher: Justin Kuiper&#160;&#160;&#10;Editors: Tyler Mascola&#160;and&#160;Marc Schneider&#160;&#160;&#160;&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#160;&#160;&#10;https://www.reddit.com/r/vive_vr/comments/ea6d8p/boneworks_review_good_but_leaves_you_wanting_more/&#160;&#10;https://www.ign.com/articles/2019/12/15/boneworks-review&#160;&#10;https://knowyourmeme.com/memes/skeleton-calcium"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -793,7 +793,7 @@ graph
     commentcount 8156
     duration "PT14M41S"
     indegree 12
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -801,7 +801,7 @@ graph
     label "gmGUpyhjoGk"
     step 0
     date "2022-07-03T18:05:14Z"
-    title "Film Theory: The Empire&#38;#39;s Biggest MISTAKE! (Star Wars)"
+    title "Film Theory: The Empires Biggest MISTAKE! (Star Wars)"
     description "Get Your BRAND NEW TheoryWear Before It's Gone &#9658; https://theorywear.com/&#10;&#10;Theorists, we have not covered Star Wars in a WHILE. With the release of the Obi-Wan mini-series on Disney+,I knew it was time. Today, I want to figure out why the Empire REALLY lost the war against the Jedi and Rebellion. No, it's not the other side having moral high ground and Disney always having the good guys win. It's their ships. They SUCK! &#10;&#10;Get your Theory Wear! &#9658; https://theorywear.com/&#10;Don't miss a Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/TheFilmTheorists&#10;&#10;MORE FILM THEORIES&#10;Rick's True CRIME! | Rick and Morty &#9658;&#9658; https://bit.ly/2MVhP2W&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://bit.ly/2qKFFFV&#10;How PICKLE RICK Functions! &#9658;&#9658;&#9658; https://bit.ly/2JvU4fT&#10;Blair Witch's SECRET DANGER!  &#9658; https://bit.ly/2qhmv7a&#10;Ariel &#38; Hercules Are RELATED?! &#9658; https://bit.ly/32WnVWi&#10;&#10;Credits:&#10;Writers: Matthew Patrick, Zach Stewart and Forrest Lee&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi, Dan &#34;Cybert&#34; Seibert, and AbsolutePixel&#10;Sound Editor: Yosi Berman    &#10;&#10;#StarWars #DarthVader #Sith #Jedi #ObiWan #TieFighter #Skywalker #Theory #FilmTheory #Matpat #Trailer"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -811,7 +811,7 @@ graph
     commentcount 5867
     duration "PT14M4S"
     indegree 20
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 16861
     duration "PT16M27S"
     indegree 18
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 23160
     duration "PT20M39S"
     indegree 80
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount 43259
     duration "PT18M36S"
     indegree 50
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 191
     duration "PT12M31S"
     indegree 7
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -891,7 +891,7 @@ graph
     label "B28ebjEdMTw"
     step 0
     date "2022-06-25T18:05:36Z"
-    title "Food Theory: Don&#38;#39;t Trust Your TASTE! (Mystery Gummy Bear Challenge)"
+    title "Food Theory: Dont Trust Your TASTE! (Mystery Gummy Bear Challenge)"
     description "Special thanks to Google for sponsoring a portion of this episode!&#10;Find out more about Google Belonging here! &#9658; https://belonging.google&#10;&#10;It's that time again. Time to get Team Theorist to try some questionable food in the name of science! What are we testing? Whether or not it's true that you eat with your eyes first and foremost. No, we are not shoving food in our eyes. What I want to find out is if SEEING something changes how you TASTE something. Let's get TASTING!&#10;&#10;Thank you to our Theorist taste testers!&#10;&#10;Get Your TheoryWear NOW! &#9658; https://theorywear.com/&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; https://bit.ly/2CdCooV  &#10; &#10;Want More FOOD THEORY?&#10;You've Been SCAMMED! (Supermarket Secrets) &#9658; https://youtu.be/EqviBPG2uPE&#10;Tootsie Pops, How Many Licks? &#9658; https://youtu.be/qOS5NAdyWDw&#10;Never Order McDonald's Medium Fries! &#9658; https://youtu.be/c_jnZkVlNtw&#10;Kool Aid Man Is A Marvel Villain! &#9658; https://youtu.be/CuZ14w_g3WA  &#10;Don't Trust Your Cake! &#9658; https://youtu.be/dulS3GGiJ7M  &#10;&#10;Join our other Theorist Communities!&#10;Game Theory! &#9658; http://bit.ly/1qV8fd6  &#10;Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658;  http://share.epidemicsound.com/theFoodTheorists&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors: Tyler Mascola, Pedro Freitas, Koen Verhagen, and Alex &#34;Sedge&#34; Sedgwick&#10;Sound Editor: Yosi Berman&#10;&#10;0:00 - Does SIGHT change TASTE?&#10;3:12 - Special thanks to our sponsor!&#10;6:14 - The Taste Test and Results!&#10;&#10;&#10;#Taste #TasteTest #Challenge #GummyBear #GummyBears #FoodHack #FoodScience  #FoodTheory #MatPat #GameTheory #FilmTheory"
     channeltitle "The Food Theorists"
     channelid "UCHYoe8kQ-7Gn9ASOlmI0k6Q"
@@ -901,7 +901,7 @@ graph
     commentcount 4233
     duration "PT18M6S"
     indegree 41
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount 3867
     duration "PT13M9S"
     indegree 24
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     commentcount 9112
     duration "PT11M24S"
     indegree 40
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 42571
     duration "PT11M34S"
     indegree 60
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -973,7 +973,7 @@ graph
     commentcount 75831
     duration "PT25M34S"
     indegree 89
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 3723
     duration "PT9M49S"
     indegree 11
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -1009,7 +1009,7 @@ graph
     commentcount 22634
     duration "PT12M58S"
     indegree 23
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 13930
     duration "PT17M42S"
     indegree 75
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 16505
     duration "PT18M45S"
     indegree 111
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 22698
     duration "PT13M46S"
     indegree 46
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1071,7 +1071,7 @@ graph
     label "fkzhS1qoM8c"
     step 0
     date "2022-05-14T18:05:14Z"
-    title "Game Theory: Listen and OBEY! The Mystery of Dislyte&#38;#39;s Music"
+    title "Game Theory: Listen and OBEY! The Mystery of Dislytes Music"
     description "Special thanks to Dislyte for sponsoring this episode!&#10;Start your adventure today for FREE! &#9658; https://click.fan/Dislyte_TGT&#10;Plus get in-game rewards w/ code TGTyoutube&#10;Awaken your mythological power with this stylish urban mythological RPG!&#10;&#10;Theorists, Dislyte is a new mobile game that is a new twist on some familiar faces from mythology. From Loki to Anubis, there are a TON of powerful characters. So instead of focusing on who is the most powerful of them all, I want to focus on WHAT in this game is the most powerful. What do I mean? You'll have to watch to find out!&#10;&#10;Get Your Theory Wear! &#9658;  https://theorywear.com/&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: Dan &#34;Cybert&#34; Seibert, Pedro Freitas, and Danial &#34;BanditRants&#34; Keristoufi&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman &#10;&#10;#MobileGames #Dislyte #MobileGame #Mythology #Loki #Medusa #Anubis #MatPat #Theory #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1081,7 +1081,7 @@ graph
     commentcount 4482
     duration "PT11M33S"
     indegree 20
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 31349
     duration "PT16M36S"
     indegree 49
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1107,7 +1107,7 @@ graph
     label "D6adSwNj868"
     step 0
     date "2022-02-24T19:05:10Z"
-    title "Game Theory: You&#38;#39;re Fighting The WRONG Person! (Genshin Impact)"
+    title "Game Theory: Youre Fighting The WRONG Person! (Genshin Impact)"
     description "Special thanks to Genshin Impact for sponsoring this episode!&#10;Download Genshin Impact v2.5 here &#9658; https://hoyo.link/8ecvRNA6&#10;And use code ZSPDKSC3V8V5 for 60 Primogems + 5x Adventurer&#8217;s Experience!&#10;Travelers need to reach Adventure Rank 10 to claim this reward.&#10;&#10;Theorists, it's been a while since I talked about Genshin Impact and with the 2.5 update there is a new development I think I should cover. We need to talk about Tsaritsa, the Cryo Archon of Snezhnaya. Now, we the player have never actually SEEN her, but boy does she hold a lot of implications as to the future of the game's story. Get ready to go DEEP and find out who the real bad guy is and why you may have been fighting the WRONG PERSON this whole time!&#10;&#10;Get Your Theory Wear! &#9658;  https://theorywear.com/&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;   &#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick, Tom Robinson and Justin Kuiper&#10;Editors: Tyler Mascola and Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman &#10;&#10;#GenshinImpact #GenshinImpactUpdate #Zhongli #Tsaritsa #YaeMiko #RaidenShogun #GenshinImpactLore #Lore #GenshinImpactTheory #MatPat #Theory #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1117,7 +1117,7 @@ graph
     commentcount 10145
     duration "PT16M1S"
     indegree 8
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1125,7 +1125,7 @@ graph
     label "VDZ85Jeu9LY"
     step 0
     date "2021-12-23T20:05:19Z"
-    title "Game Theory: DANGER! Don&#38;#39;t Play This Game! (Inscryption)"
+    title "Game Theory: DANGER! Dont Play This Game! (Inscryption)"
     description "Special thanks to Honey for sponsoring this episode!&#10;Get Honey for FREE today&#160;&#9658;&#160;https://joinhoney.com/matpat&#10;&#10;Listen, I would never tell you not to play the game if your LIFE wasn't at stake. You see Theorists, Inscryption&#160;is a game within a game and you are playing for more than just trophies. What lies beneath it's simple card game exterior? You'll have to watch to find out.&#10;&#10;Find out more about the game! &#9658;&#160;https://store.steampowered.com/app/1092790/Inscryption/&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658;&#160;https://goo.gl/kQWHkJ&#160; &#160; &#160; &#160;&#160;&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Inscryption #Scary #ScaryGame #Horror #CardGame #InscryptionGame #Inscription #InscriptionGame #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#10;&#160;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors:&#160;Danial &#34;BanditRants&#34; Keristoufi,&#160;Pedro Freitas, and&#160;Tyler Mascola&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1135,7 +1135,7 @@ graph
     commentcount 7935
     duration "PT15M51S"
     indegree 45
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount 16727
     duration "PT14M23S"
     indegree 29
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 11764
     duration "PT18M54S"
     indegree 31
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1179,7 +1179,7 @@ graph
     label "H8MGJ4I0mkA"
     step 0
     date "2021-05-29T18:04:17Z"
-    title "Game Theory: The Secret Lore of Friday Night Funkin&#38;#39;..."
+    title "Game Theory: The Secret Lore of Friday Night Funkin..."
     description "Special thanks to Audible for sponsoring this episode!&#160;&#10;Get a FREE 30 Day trial of Audible! &#9658;&#160;http://audible.com/matpat&#10;Or text matpat to 500-500&#160;&#10;&#10;What is Friday Night Funkin'? Well, it is not your average&#160;DDR-esk game, that's for sure! You see, when this game started to make it's rounds around YouTube, I got a lot of requests to cover it. So I started researching. Theorists, this game is FULL of lore... and it gets&#160;WEIRD! Seriously, you will have to watch to believe it.&#10;&#10;Find the game here &#9658; https://ninja-muffin24.itch.io/funkin&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160;&#10; &#160;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#FridayNightFunkin #FNF #FridayNightFunkinMod #FridayNightFunkinMusic #FridayNightFunkinLore #Lore #Secret&#160;#Theory&#160;#MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors:&#160;Forrest Lee,&#160;Tyler Mascola, and&#160;Koen Verhagen&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1189,7 +1189,7 @@ graph
     commentcount 24935
     duration "PT16M27S"
     indegree 52
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 17378
     duration "PT14M43S"
     indegree 69
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1215,7 +1215,7 @@ graph
     label "X1CeC7m52Sg"
     step 0
     date "2021-09-11T18:05:46Z"
-    title "Game Theory: 97% Of You CAN&#38;#39;T Name The Most Popular Video Game In The World!"
+    title "Game Theory: 97% Of You CANT Name The Most Popular Video Game In The World!"
     description "Help me host Jeopardy &#38; sign the petition! &#9658; https://www.change.org/p/jeopardy-make-matpat-the-next-jeopardy-host&#10;&#10;* I am very sorry for the mistake at 7:06 and all following moments where we wrongly used the Costa Rica flag in place of the Thailand flag. This was a BIG mistake on our part.&#10;&#10;Can YOU name the most popular video game in the world? Go ahead and leave your guess in the comments before watching this video. No cheating! Now, what made you choose that game? Was it that your favorite gamers are playing it on YouTube and Twitch? Or is it your favorite game? Theorists, it's time to talk about the silent giants in gaming. Just press play!&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Minecraft #Fortnite #Roblox #AmongUs #ClashOfClans #BrawlStars #FreeFire #GarenaFreeFire #LeagueOfLegends #GenshinImpact #MobileGames #MatPat #Theory #GameTheory    &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors: AbsolutePixel, Jerika (NekoOnigiri), and Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1225,7 +1225,7 @@ graph
     commentcount 14968
     duration "PT15M12S"
     indegree 18
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 38906
     duration "PT17M21S"
     indegree 56
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1251,7 +1251,7 @@ graph
     label "gaFdVG503rw"
     step 0
     date "2019-07-07T18:06:13Z"
-    title "Game Theory: The Secret Identity of Hollow Knight&#38;#39;s Hero (Hollow Knight)"
+    title "Game Theory: The Secret Identity of Hollow Knights Hero (Hollow Knight)"
     description "Get your NEW Theory Wear!! &#9658;  http://bit.ly/2VtMR7Q&#10;&#10;A game that grabbed my attention recently is Hollow Knight, the indie darling about insect creatures in masks being terrorized by a creature corrupted by Randiance. This game is LOADED with theory material but what grabbed my attention most was the character we play as - the Knight. There is so much we don't know but the clues are EVERYWHERE! Today Loyal Theorists, we are unmasking the secret identity of the Knight or Hollow Knight!&#10;&#10;Find the game here &#9658; https://hollowknight.com/&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#HollowKnight #PaleKing #HollowKnightTheory #Silksong #Explained #Lore #Theory #GameTheory &#10;&#10;More THEORIES:&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Final Fantasy 7, Shinra, Mako, and Oil &#9658;&#9658; https://bit.ly/2JaawEF&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;Final Fantasy VII, Who Killed Aerith? &#9658; https://bit.ly/2Tzcx22&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Researcher: Alan Baker  &#10;Editors:  Alex &#34;Sedge&#34; Sedgwick, BanditRants, and Tyler Mascola &#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;MossBag's Hollow Knight video, https://www.youtube.com/watch?v=P_77BtGR6kk&#38;t=1458s&#10;https://www.reddit.com/r/gaming/comments/6rvds8/we_are_team_cherry_the_developers_of_hollow/dl8567s/?context=8&#38;depth=9&#10;https://hollowknight.fandom.com/wiki/Royal_Retainer"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1261,7 +1261,7 @@ graph
     commentcount 21935
     duration "PT20M42S"
     indegree 56
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 26060
     duration "PT18M47S"
     indegree 47
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 44910
     duration "PT23M30S"
     indegree 153
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1305,7 +1305,7 @@ graph
     label "qN2nMP9Tfts"
     step 0
     date "2022-07-09T18:05:09Z"
-    title "Film Theory: Did Thor&#38;#39;s Post Credit Scene Just Set Up [SPOILER]?! (Thor Love and Thunder)"
+    title "Film Theory: Did Thors Post Credit Scene Just Set Up [SPOILER]?! (Thor Love and Thunder)"
     description "Special thanks to Displate for sponsoring this episode!&#10;Enjoy big savings on your prints for a LIMITED TIME! &#9658; https://displate.com/filmtheorists?art=60790a2246f57&#10;Get 25% off 1-2 prints &#38; 29% off your Displate order of 3+ prints!!&#10;&#10;Spoiler warning for Thor: Love and Thunder!&#10;&#10;Theorists, the installment in the MCU is out and we NEED to talk about it! I think this movie is setting up the next BIG EVENT in the Marvel Cinematic Universe... the second Civil War. If you are familiar with the comics, you may see where I am headed with this. From the events happening in Ms. Marvel, the new Captain Marvel film coming out soon, and the events of Thor Love and Thunder - there is a LOT to talk about!&#10;&#10;Get your Theory Wear! &#9658; https://theorywear.com/&#10;Don't miss a Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/TheFilmTheorists&#10;&#10;MORE FILM THEORIES&#10;Rick's True CRIME! | Rick and Morty &#9658;&#9658; https://bit.ly/2MVhP2W&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://bit.ly/2qKFFFV&#10;How PICKLE RICK Functions! &#9658;&#9658;&#9658; https://bit.ly/2JvU4fT&#10;Blair Witch's SECRET DANGER!  &#9658; https://bit.ly/2qhmv7a&#10;Ariel &#38; Hercules Are RELATED?! &#9658; https://bit.ly/32WnVWi&#10;&#10;Credits:&#10;Writers: Matthew Patrick, Bob Chipman and Forrest Lee&#10;Editors: Dan &#34;Cybert&#34; Seibert, Alex &#34;Sedge&#34; Sedgwick and Danial &#34;BanditRants&#34; Keristoufi&#10;Sound Editor: Yosi Berman    &#10;&#10;#thor #thorloveandthunder #thor4 #janefoster #mightythor #thortrailer #avengers #marvel #marveltheory #Theory #FilmTheory #Matpat #Trailer"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -1315,7 +1315,7 @@ graph
     commentcount 2678
     duration "PT16M40S"
     indegree 15
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1323,7 +1323,7 @@ graph
     label "uY1xjPHAXbM"
     step 0
     date "2020-02-01T19:05:16Z"
-    title "Game Theory:&#160;What is a Minecraft Emerald WORTH?"
+    title "Game Theory:What is a Minecraft Emerald WORTH?"
     description "SUBSCRIBE to never miss a Theory! &#9658; http://bit.ly/1qV8fd6In &#10;&#10;In Minecraft's recent update to the Villager trading system, they stopped with their randomly-generated prices and started setting a standard. Well Theorists, give me a consistent standard and I will give you a theory! This is the key to figuring out the economy of the Minecraft world - or at least the value of all the good we've been trading all these years. The most curious, to me, were the emeralds. How much is an emerald worth in Minecraft - and how does that potentially RUIN Minecraft's whole economic structure? Let's find out!&#10;&#10;Get the game here &#9658;&#9658; https://www.minecraft.net/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6 &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Minecraft #Emeralds #MinecraftEmerald #MinecraftLore #Econimics #MinecraftWorld #Enderman #MinecraftTheory #Theory #GameTheory &#10;&#10;More THEORIES:&#10;The Tragedy of Minecraft's Sunken Tomb &#9658; https://youtu.be/EJL13Bl9gS0&#10;The History of Minecraft's Underwater Gods&#160;&#9658; https://youtu.be/hHPLAItTLiA&#10;The Tragic Story of Minecraft's Zombie Pigmen&#160;&#9658; https://youtu.be/jxU0UalndcI&#10;Minecraft, STOP Punching Trees!&#160;&#160;&#9658; https://youtu.be/dLgdbbeXkbk&#10;The Lost History of Minecraft's Wither&#160;&#9658; https://youtu.be/m-Rmg5AYf8I&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Zach Stewart&#160;&#160;&#10;Editors: Tyler Mascola,&#160;Alex &#34;Sedge&#34; Sedgwick, and&#160;Marc Schneider&#160;&#160;&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#160;&#160;&#10;https://i.redd.it/r7aecqvkhhu21.png&#160;&#10;https://www.payscale.com/research/US/Job=Farm_Worker%2FCrop_Field/Hourly_Rate&#10;http://www.singhalinternational.com/tvalue.htm&#10;https://minecraft.gamepedia.com/Trading/Before_Village_%26_Pillage&#10;https://www.econlib.org/library/Enc/GoldStandard.html&#160;&#10;&#8220;Chapter 1: How Money Works.&#8221; Dave Barry's Money $Ecrets: like, Why Is There a Giant Eyeball on the Dollar?, by Dave Barry, Random House Large Print, 2006."
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1333,7 +1333,7 @@ graph
     commentcount 11366
     duration "PT16M56S"
     indegree 76
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1341,7 +1341,7 @@ graph
     label "RlegP4oaFDY"
     step 0
     date "2015-10-09T16:33:52Z"
-    title "Game Theory: Bowser&#38;#39;s BROKEN HOME in Super Mario"
+    title "Game Theory: Bowsers BROKEN HOME in Super Mario"
     description "Hang out with us on our NEW CHANNEL GTLive! &#10;&#9658;&#9658; http://bit.ly/1LkSBnz&#10;Check out our friends at Wisecrack! &#9658; http://bit.ly/1m4B32s &#10;&#10;&#10;A GT Classic: The Rosalina Theory &#9658; http://bit.ly/1d1W7VW&#10;&#10;We've all fought Bowser through every Mario world and universe since the very beginning of the Mushroom Kingdom. We know his penchant for kidnapping princesses and running over us in Mario Kart, but how well do we REALLY know everyone's favorite Nintendo villain? Turns out, Bowser has a soft side left over from a lonely and sad past that will make you feel guilty every time you chop that bridge out from under him!&#10;&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Mario Theories:&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Mario is a Psychopath! &#9658;&#9658; http://bit.ly/1nSum0E&#10;Toad's DARK Secret &#9658;&#9658; http://bit.ly/1AArdij&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;SCARY THEORIES:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Check out some more of our awesome video game content:&#10;&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA&#10;&#10;&#34;Rains Will Fall&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 3.0&#10;http://creativecommons.org/licenses/by/3.0/"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1351,7 +1351,7 @@ graph
     commentcount 29733
     duration "PT15M33S"
     indegree 29
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1359,7 +1359,7 @@ graph
     label "WvpO8To1qFg"
     step 0
     date "2015-12-13T18:32:01Z"
-    title "Game Theory: FNAF, The Clue that SOLVES Five Nights at Freddy&#38;#39;s!"
+    title "Game Theory: FNAF, The Clue that SOLVES Five Nights at Freddys!"
     description "Join the Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Watch pt. 2 of this theory RIGHT NOW! &#9658; http://bit.ly/1ZjhWDA&#10;&#10;With the FNAF Halloween update finished and Scott moving on to the Five Nights at Freddy's novel and the upcoming FNAF World, it's time we look back and finally put to rest the original FNAF tetrology. We have all the pieces...but what are we missing? Scott Cawthon have us theorists some clues to go off of during our Five Nights at Freddy's livestream, which led to new revelations and me to discover the clue that breaks the entire FNAF series wide open! Prepare to have your mind blown!&#10;&#10;Become a Theorist! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Scary Theories:&#10;Call of Duty Should Terrify You &#9658; http://bit.ly/1stq1Hs&#10;Portal's Gruesome Secret &#9658; http://bit.ly/1INZIWj&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;Mario Theories:&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Mario is a Psychopath! &#9658;&#9658;&#9658;http://bit.ly/1nSum0E&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;Pokemon Theories:&#10;Are Humans Pokemon? YES! &#9658;&#9658; http://bit.ly/1Bexblg&#10;Pokemon Evolution EXPLAINED &#9658; http://bit.ly/1zwIHus&#10;Is Jynx RACIST? &#9658; http://bit.ly/15tVnoK&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Check out some more of our awesome video game content:&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA&#10;&#10;For business inquiries: gametheorist.business@gmail.com"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1369,7 +1369,7 @@ graph
     commentcount 125554
     duration "PT14M50S"
     indegree 42
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount 49055
     duration "PT15M25S"
     indegree 32
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1405,7 +1405,7 @@ graph
     commentcount 15520
     duration "PT23M56S"
     indegree 110
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1423,7 +1423,7 @@ graph
     commentcount 65704
     duration "PT15M7S"
     indegree 19
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1431,7 +1431,7 @@ graph
     label "u20LjWO7uKs"
     step 0
     date "2020-02-25T22:05:25Z"
-    title "Game Theory: A Boy and His D&#820;&#864;&#779;&#843;&#859;&#778;&#838;&#849;&#772;&#843;&#772;&#848;&#794;&#783;&#788;&#812;&#797;&#854;&#845;o&#821;&#779;&#844;&#842;&#829;&#852;&#806;&#813;&#841;&#799;&#812;g&#822;&#768;&#836;&#836;&#838;&#771;&#844;&#833;&#838;&#836;&#833;&#861;&#782;&#825; (Boneworks / Duck Season)"
+    title "Game Theory: A Boy and His D (Boneworks / Duck Season)"
     description "Special thanks to Raycon for sponsoring this episode!&#10;Get 15% off your order here! &#9658; https://buyraycon.com/matpat&#10;&#10;There are so many secrets buried in Boneworks as it relates to Stress Level Zero's other games, especially Duck Season. There was still one thing left, after our last episodes, that I REALLY wanted to talk to you about. That is the connection between Arthur Ford, our Boneworks protagonists, and David, the protagonist of Duck Season. You see there is evidence that they are, in fact, one and the same. The SAME PERSON at different points in his life, circling back to where it all began and closing the loop. How did I come to this conclusion, Theorists? Let's get started.&#10;&#10;Get the games here! &#10;Boneworks &#9658; https://store.steampowered.com/app/823500/BONEWORKS/&#10;Duck Season &#9658; https://store.steampowered.com/app/503580/Duck_Season/  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Boneworks #DuckSeason #BoneworksVR #DuckSeasonVR #Creepy #Scary #Immortality #StressLevelZero #Theory #GameTheory &#10;&#10;More THEORIES:&#10;Boneworks, He Never Died &#9658; https://youtu.be/bqY0_ZeHs8k&#10;Duck Season's Dog UNMASKED! &#9658; https://youtu.be/_0fX0WNMMUo&#10;The Scariest Game You'll NEVER Play! &#9658; https://youtu.be/oC88jsc-wpg&#10;Would YOU Stay Blind? &#9658; https://youtu.be/-dGkkMdIwOc&#10;The Tragic Mystery of Pokemon's Ghost Girl &#9658; https://youtu.be/0ju3V6IYKM4  &#10;&#10;Credits:&#10;Writer: Matthew Patrick &#10;Editors: Tyler Mascola, Danial &#34;BanditRants&#34; Keristoufi, and Marc Schneider&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:  &#10;https://store.steampowered.com/app/503580/Duck_Season/  &#10;https://steamcommunity.com/app/503580/discussions/0/1620599015905030375/"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1441,7 +1441,7 @@ graph
     commentcount 8939
     duration "PT16M58S"
     indegree 22
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 25212
     duration "PT14M2S"
     indegree 41
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1477,7 +1477,7 @@ graph
     commentcount 12163
     duration "PT18M2S"
     indegree 61
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 6608
     duration "PT14M3S"
     indegree 98
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1503,7 +1503,7 @@ graph
     label "hHPLAItTLiA"
     step 0
     date "2019-12-02T00:35:22Z"
-    title "Game Theory: The Murky History of Minecraft&#38;#39;s Underwater Gods"
+    title "Game Theory: The Murky History of Minecrafts Underwater Gods"
     description "Get Your NEW Holiday Theory Wear NOW! &#9658; http://creatorink.co/theory-wear&#13;&#10;SUBSCRIBE to never miss a Theory! &#9658; http://bit.ly/1qV8fd6&#10;&#10;The world of Minecraft is vast and pretty well explored... except for one place. You see, we've covered a LOT of Minecraft on this channel, and in doing research for all of that I've noticed that one place remains mostly undiscovered - or at least un-theorized! The underwater biome of Minecraft is FULL of weird creatures and tons of interesting lore, if you know where to look. Spoiler alert, I do! Today we are diving into old Gods, ancient ruins, and more! Get your scuba gear ready, Theorists!&#13;&#10;&#10;Get the game here &#9658;&#9658; https://www.minecraft.net/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#13;&#10;&#10;#Minecraft #Guardian #TheDrowned #ElderGuardian #UnderwaterBiome #MinecraftLore #MinecraftTheory #Theory #GameTheory &#13;&#10;&#10;More THEORIES:&#13;&#10;The TRUTH About MINECRAFT&#8217;s World! &#9658;&#9658; https://goo.gl/XySv1N&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#13;&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi, Josh Langman, Tyler Mascola, and Koen Verhagen&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1513,7 +1513,7 @@ graph
     commentcount 22768
     duration "PT16M15S"
     indegree 37
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1531,7 +1531,7 @@ graph
     commentcount 11096
     duration "PT21M18S"
     indegree 76
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 28160
     duration "PT15M"
     indegree 3
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1557,7 +1557,7 @@ graph
     label "MleyAFrP5io"
     step 0
     date "2020-01-28T19:05:11Z"
-    title "Game Theory: Is Link the STRONGEST Video Game Character? (Legend of&#160;Zelda)"
+    title "Game Theory: Is Link the STRONGEST Video Game Character? (Legend ofZelda)"
     description "SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160;&#10;&#10;It's been a while since I talked about Legend of Zelda, and since Nintendo released a teaser trailer for Breath of The Wild 2, I figured it was about time we revisited the franchise. I've talked a LOT about this world, its timelines, and pretty much every version of Link there is - so what's left? Well Theorists, today we are doing some heavy lifting and figuring out just how strong our hero Link REALLY is!&#160;&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6 &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#LegendOfZelda #Link #Zelda #GoldenGauntlets #BreathOfTheWild #LinksAwakening&#160; #BreathOfTheWild2 #GameTheory &#10;&#10;More THEORIES:&#10;BEWARE Link's Hookshot! &#9658;&#9658;&#160;https://youtu.be/LplSnXQMf38&#10;Is Link Dead in Majora's Mask?&#160;&#9658;&#160;https://youtu.be/7S1SVkysIRwBreath of the Wild SOLVES The&#160;Timeline!&#160;&#9658;&#9658;&#160;https://youtu.be/Q0RVBTb6wTQ&#10;Dear Nintendo, I FIXED Your Timeline!&#160;&#9658;&#160;https://youtu.be/W2DMiZ1e574&#10;Which Link Rules them All?&#160;&#9658;&#9658;&#160;https://youtu.be/5n5zZDsUffs&#10;&#10;Credits:&#10;Writers: Matthew Patrick and&#160;Justin Kuiper&#160;&#160;&#10;Editors:&#160;Josh Langman,&#160;Alex &#34;Sedge&#34; Sedgwick,&#160;Tyler Mascola, and&#160;Marc Schneider&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Bermam&#10;&#10;Sources:https://www.aqua-calc.com/page/density-table/substance/limestone&#160;https://www.jsg.utexas.edu/tyzhu/files/Some-Useful-Numbers.pdfhttps://en.wikipedia.org/wiki/Granite"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1567,7 +1567,7 @@ graph
     commentcount 10385
     duration "PT12M29S"
     indegree 5
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 6736
     duration "PT14M59S"
     indegree 24
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 11831
     duration "PT18M46S"
     indegree 90
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 54688
     duration "PT17M5S"
     indegree 15
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 50679
     duration "PT14M57S"
     indegree 23
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 9199
     duration "PT14M50S"
     indegree 4
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 43784
     duration "PT23M40S"
     indegree 78
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -1683,7 +1683,7 @@ graph
     label "IRvNrMk-n6o"
     step 0
     date "2018-12-09T20:12:53Z"
-    title "Game Theory: Super Smash Bros Ultimate Ending EXPLAINED | World of Light True Ending"
+    title "Game Theory: Super Smash Bros Ultimate Ending E tongue sticking out LAINED | World of Light True Ending"
     description "Special thanks to NordVPN for partnering with us on this episode!&#10;Protect yourself &#38; save 75% for 3 years! &#9658; https://nordvpn.com/matpat&#10;Or Use the Code &#9658;&#9658; MATPAT&#10;&#10;Special Thanks to Jirard the Completionist! &#9658; https://bit.ly/1HbcCgQ&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6    &#10;&#10;I promised to explain the new Super Smash Bros Ultimate story mode to you and guess what? I'm keeping that promise! Today I am here to tell you what the story of World of Light is REALLY about. It is DEEP!  So deep I am surprised this made it past all the executives! &#10;&#10;Find the game here! &#9658; https://www.smashbros.com/en_US/&#10;&#10;Don't forget to snuggle up in our new hood-tastic holiday Theory Wear!  &#9658; http://bit.ly/2Taok30  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Why You CAN'T Beat Smash Bros!&#9658; https://bit.ly/2PGYx0g&#10;Super Smash Bros TRAGIC Lore! &#9658;https://bit.ly/2aOjanS &#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;How BAD is Mario's Blue Shell? &#9658;&#9658; https://bit.ly/2BfFlUK&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;Luigi - Secret MILLIONAIRE?? &#9658; https://bit.ly/2CEkk15 &#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;#SuperSmashBrosUltimate #SmashBros #WorldofLight #SuperSmashBros #Nintendo #Switch #Mario #Waluigi #SSBU  #StoryMode  #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1693,7 +1693,7 @@ graph
     commentcount 19021
     duration "PT21M28S"
     indegree 54
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 32301
     duration "PT13M53S"
     indegree 8
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 40138
     duration "PT12M35S"
     indegree 11
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1737,7 +1737,7 @@ graph
     label "SGitdeBtjQY"
     step 0
     date "2019-02-05T22:10:40Z"
-    title "Game Theory: We Were TOTALLY WRONG! What Bendy&#38;#39;s Ending REALLY Meant (Bendy and the Ink Machine)"
+    title "Game Theory: We Were TOTALLY WRONG! What Bendys Ending REALLY Meant (Bendy and the Ink Machine)"
     description "SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6&#10;Bendy FOOLED Us! &#9658; https://bit.ly/2JaTzWi&#10;Bendy's Tragic Ending EXPLAINED &#9658; https://bit.ly/2SbdZa0&#10;&#10;Thanks to Spence for letting us use his Joey Drew art! &#9658; https://bit.ly/2UPYcub&#10;And thanks to Sebby07 for letting us use his Bendy art! &#9658; https://bit.ly/2nWXlgv&#10;&#10;Today we are explaining what the ending of Bendy and the Ink Machine is all about...again. Stay with me! We've uncovered new evidence that suggests the ending is so much more than we initially thought. The whole TIMELINE has changed! We need to start at the very beginning to be able to unravel the twisted tale of Joey Drew Studios.&#10;&#10;Find the game here! &#9658; https://joeydrewstudios.com/batim/&#10;&#10;Thanks to Ryder for the music! Check him out! &#9658; https://www.youtube.com/user/FootofaFerret&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Bendy #BendyandtheInkMachine #BendyEnding #EndingExplained #AliceAngel #Boris #JoeyDrew #FinalChapter #SecretEnding #GameTheory&#10;&#10;More THEORIES:&#10;How Bendy EXPOSES Disney's Conspiracy! &#9658; https://bit.ly/2zl5MnB  &#10;Petscop - Ghost In A HAUNTED Game &#9658; https://bit.ly/2GmoZux&#10;Duck Season's KILLER DOG... Unmasked! &#9658; http://bit.ly/2trS1E4&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Hello Neighbor - DEVIL is in the Details! &#9658;http://bit.ly/2HhXXS3&#10;How Bendy Will END! &#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;Credits:&#10;Writer: Matthew Patrick&#10;Editors: Marc Schneider and BanditRants&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://www.reddit.com/r/GameTheorists/comments/aj0abv/b4tims_lore_is_deeper_than_people_give_it_credit/&#10;http://adobe-outdesign.tumblr.com/post/179530748847/so-about-the-names-on-the-coffins"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1747,7 +1747,7 @@ graph
     commentcount 16574
     duration "PT17M39S"
     indegree 41
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1755,7 +1755,7 @@ graph
     label "Ej3JRBbOcmM"
     step 0
     date "2019-07-23T18:06:14Z"
-    title "Game Theory: The LOST History of Minecraft&#38;#39;s Enderman"
+    title "Game Theory: The LOST History of Minecrafts Enderman"
     description "SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;Minecraft is a GIANT game full of many mysteries. So many that I could do a CRAZY amount of theories on it. Today we're going to focus on one of my favorites - the Minecraft Enderman. What are they? I want to get into the nitty gritty of these Slenderman-like creatures, so get your scalpels ready Theorists! We're cutting into the secrets of the Endermen!&#10;&#10;Find the game here &#9658;  https://www.minecraft.net/  &#10;&#10;Get your NEW Theory Wear today! &#9658; http://bit.ly/2Taok30&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Minecraft #Enderman #MinecraftTheory #Theory #GameTheory &#10;&#10;More THEORIES:&#10;The TRUTH About MINECRAFT&#8217;s World! &#9658;&#9658; https://goo.gl/XySv1N&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#10;&#10;Credits:&#10;Writers: Matthew Patrick &#10;Editors: Tyler Mascola, Dan &#34;Cybert&#34; Seibert , and Alex &#34;Sedge&#34; Sedgwick&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://constitutioncenter.org/blog/10-fascinating-facts-about-grover-cleveland-the-only-double-president&#10;https://minecraft.gamepedia.com/End_city#Loot"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1765,7 +1765,7 @@ graph
     commentcount 77131
     duration "PT15M22S"
     indegree 33
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 18582
     duration "PT22M10S"
     indegree 30
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 21417
     duration "PT16M58S"
     indegree 26
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 22714
     duration "PT16M8S"
     indegree 42
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1827,7 +1827,7 @@ graph
     label "oIbjUPB3t_k"
     step 0
     date "2019-07-14T19:05:27Z"
-    title "Game Theory: Peach&#38;#39;s Castle of LIES! (Super Mario Maker 2)"
+    title "Game Theory: Peachs Castle of LIES! (Super Mario Maker 2)"
     description "Get Honey for FREE and start saving money today &#9658; https://joinhoney.com/matpat&#10;My subscribers have already saved over $1,545,000 on stores like Amazon, Newegg, and AliExpress.&#10;Special thanks to Honey for sponsoring today&#8217;s video!&#10;&#10;Have you ever wondered how much a gold coin in the Mario universe is worth? I have! People like to joke in Super Mario Maker that the coins are worthless and it got me thinking what things like Princess Peach's Castle would cost to make. Today Theorists, I've got a real bombshell to drop about the dark side of the Mushroom Kingdom. From horribly underpaid Toads to extremely dangerous castle construction - this will blow your mind!&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;Get your NEW Theory Wear today! &#9658; http://bit.ly/2Taok30&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Mario #MarioMaker #MarioMaker2 #SuperMarioMaker #SuperMarioMaker2 #PrincessPeach #Toadette #Nintendo #Switch #GameTheory &#10;&#10;More THEORIES:&#10;Mario Maker BIGGER than the UNIVERSE! &#9658; https://bit.ly/2CFNilS&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;How BAD is Mario's Blue Shell? &#9658;&#9658; https://bit.ly/2BfFlUK&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;Luigi - Secret MILLIONAIRE?? &#9658; https://bit.ly/2CEkk15&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors: Josh Langman, Tyler Mascola, Dan &#34;Cybert&#34; Seibert , and Alex &#34;Sedge&#34; Sedgwick  &#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://marginalrevolution.com/marginalrevolution/2011/03/dennis-is-not-more-likely-to-be-a-dentist.html &#10; https://venturebeat.com/2013/07/03/princess-peachs-castle-is-worth-nearly-1-billion-if-it-were-real/&#10;https://www.costowl.com/home-improvement/doors-windows-stained-glass-window-cost.html &#10;https://www.homeadvisor.com/cost/architects-and-engineers/build-a-house/&#10;https://en.wikipedia.org/wiki/Tiny_house_movement &#10;https://www.curbed.com/2017/6/21/15839730/shipping-container-house-for-sale-buy"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1837,7 +1837,7 @@ graph
     commentcount 16042
     duration "PT20M18S"
     indegree 67
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 14071
     duration "PT15M17S"
     indegree 7
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 15217
     duration "PT12M14S"
     indegree 40
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 33561
     duration "PT19M9S"
     indegree 52
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 95
     duration "PT26M20S"
     indegree 13
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -1917,7 +1917,7 @@ graph
     label "YugD6fSKugo"
     step 0
     date "2022-01-23T19:05:23Z"
-    title "Game Theory: Solving Inscryption&#38;#39;s FINAL Secret! (Inscryption)"
+    title "Game Theory: Solving Inscryptions FINAL Secret! (Inscryption)"
     description "SUBSCRIBE to Never Miss A Theory! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Theorists, we've dived DEEP into this game and there is even further to go! Today we are SOLVING the Inscryption ARG - the game within the game within the game. Let's not waste any time. We've got a LOT to cover!&#10;&#10;Master ARG Document By Jeck0_0#7272 &#9658; https://docs.google.com/document/d/1O5R23P03Kn79gBLANXiR97yFaTisA7LwT17SApuKd64/edit?usp=sharing&#10;&#10;Find out more about the game! &#9658; https://store.steampowered.com/app/1092790/Inscryption/&#10;&#10;Get your Theory Wear! &#9658; https://creatorink.co/4wj&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Inscryption #Scary #ScaryGame #Horror #ARG #InscryptionARG #InscryptionGame #Inscription #InscriptionGame #MatPat #Theory #GameTheory    &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: AbsolutePixel, Tyler Mascola, Marc Schneider, and Pedro Freitas&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1927,7 +1927,7 @@ graph
     commentcount 5800
     duration "PT18M35S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1935,7 +1935,7 @@ graph
     label "54avjfIu1OI"
     step 0
     date "2021-10-21T19:05:09Z"
-    title "Film Theory: What Everyone Got WRONG About Squid Game!&#160;(&#50724;&#51669;&#50612; &#44172;&#51076;)"
+    title "Film Theory: What Everyone Got WRONG About Squid Game!)"
     description "Get your new SPOOKY Theory Wear! &#9658; https://creatorink.co/rtp&#10;&#10;It feels like EVERYONE is talking about Squid Game, the Korean action / drama about a deadly series of children's games. I've seen other channels take a swing at explaining the series and figuring out the best strategy to surviving until the end, but I felt like I needed to try and figure it out myself. There had to be a perfect winning strategy. Theorists, I think I've found out the ULTIMATE way to survive to win the Squid Game!&#10;&#10;Get yourself some Theory Wear! &#9658; https://bit.ly/3bZzn9t&#10;Don't miss a Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;#SquidGame #&#50724;&#51669;&#50612;&#44172;&#51076; #SquidGameExplained #SquidGameEnding #SquidGameTrailer #SquidGameTheory #Netflix #RedLightGreenLight #Theory #FilmTheory #Matpat &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/TheFilmTheorists&#10;&#10;MORE FILM THEORIES&#10;Rick's True CRIME! | Rick and Morty &#9658;&#9658; https://bit.ly/2MVhP2W&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://bit.ly/2qKFFFV&#10;How PICKLE RICK Functions! &#9658;&#9658;&#9658; https://bit.ly/2JvU4fT&#10;Blair Witch's SECRET DANGER!  &#9658; https://bit.ly/2qhmv7a&#10;Ariel &#38; Hercules Are RELATED?! &#9658; https://bit.ly/32WnVWi&#10;&#10;Credits:&#10;Writers: Matthew Patrick, Justin Kuiper. and Tom Robinson&#10;Editors: Pedro Freitas and Alex &#34;Sedge&#34; Sedgwick&#10;Assistant Editor: Caitie Turner (viridianrosette)  &#10;Sound Editor: Yosi Berman"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -1945,7 +1945,7 @@ graph
     commentcount 14705
     duration "PT15M51S"
     indegree 21
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1953,7 +1953,7 @@ graph
     label "LNK-CjcH5dY"
     step 0
     date "2020-05-09T18:05:05Z"
-    title "Game Theory: Animal Crossing&#38;#39;s Scary Bunny unZIPPED! (Animal Crossing New Horizons)"
+    title "Game Theory: Animal Crossings Scary Bunny unZIPPED! (Animal Crossing New Horizons)"
     description "Start listening with a 30-day Audible trial. Get 1 audiobook &#38; 10 Audible Originals absolutely free. Visit http://audible.com/matpat or text matpat to 500-500  &#10;Special thanks to Audible for sponsoring this video!&#10;&#10;Animal Crossing has BOOMED and appears to be the biggest it's ever been with its latest release, Animal Crossing: New Horizons. We are all building islands, finding and growing every fruit we can, and making sure we get the best villagers as our residents. Speaking of villagers, there is one that seems to be universally disliked more than others, Zipper T Bunny. Not only are they kind of creepy with the GIANT ZIPPER down their back, but they say the weirdest things! I believe that there is someone hiding in that bunny suit and, today, we are unmasking this weird character once and for all!&#10;&#10;Find the game here &#9658; https://animal-crossing.com/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself some Theory Wear!! &#9658; https://bit.ly/2N1m7V7    &#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6   &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz &#10;&#10;#AnimalCrossing #AnimalCrossingNewHorizons #NewHorizons #ZipperTBunny #Isabelle #TomNook #BunnyDay #ACNH #AC #Theory #GameTheory &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Stephanie Patrick and Zach Stewart  &#10;Editors: Danial &#34;BanditRants&#34; Keristoufi, Forrest Lee, and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://vignette.wikia.nocookie.net/animalcrossing/images/2/21/Zipperzip.JPG/revision/latest/scale-to-width-down/340?cb=20100405131231 &#10;https://www.theverge.com/2020/4/6/21209392/animal-crossing-new-horizons-egg-drop-rates-nerfed &#10;https://www.phrases.org.uk/meanings/159050.html &#10;https://www.japanesewithanime.com/2018/04/haikoumei-birth-order-japanese-names.html &#10;https://en.wikipedia.org/wiki/Book_of_Tobit &#10;https://www.youtube.com/watch?v=UrIpPqcln6Y"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1971,7 +1971,7 @@ graph
     label "bnG_ehIA1I8"
     step 0
     date "2019-02-16T19:06:44Z"
-    title "Game Theory: Mario Odyssey&#38;#39;s Big LIE.. Power Moons have NO POWER!"
+    title "Game Theory: Mario Odysseys Big LIE.. Power Moons have NO POWER!"
     description "Special thanks to TikTok for sponsoring this video!&#10;Download the app NOW! &#9658;&#9658; https://httpslink.com/GTYT1&#10;&#10;In Super Mario Odyssey, Mario and Cappy collect Power Moons to fuel up their airship. Power Moons are new for Mario Odyssey and they're the only real source of power we see in any of the worlds we travel to, so I had to ask... are these Power Moons actually that strong? I've decided to figure out just how powerful they actually are. Is this the biggest lie in all of Mario canon? Well I'm about to tell you!&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6  &#10;&#10;Find the game here! &#9658; https://supermario.nintendo.com/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Mario #SuperMarioOdyssey #Nintendo #NintendoSwitch #PowerMoons #MarioOdyssey #SuperMario #Cappy #Switch #Power&#10;&#10;Mario Maker BIGGER than the UNIVERSE! &#9658; https://bit.ly/2CFNilS&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;How BAD is Mario's Blue Shell? &#9658;&#9658; https://bit.ly/2BfFlUK&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;Luigi - Secret MILLIONAIRE?? &#9658; https://bit.ly/2CEkk15&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Adam Bressler&#10;Editors: Marc Schneider and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://www.bnl.gov/envsci/schwartz/image/watt.jpg &#10;https://www.census.gov/geo/maps-data/data/gazetteer2010.html   &#10;https://oasisenergy.com/back-to-the-future-1-21-gigawatts-for-time-travel/   &#10;https://www1.nyc.gov/assets/buildings/local_laws/ll84of2009.pdf &#10;http://worldpopulationreview.com/us-cities/ &#10;https://www.mcdonalds.com/us/en-us/about-our-food/nutrition-calculator.html&#10;https://www.theatlantic.com/health/archive/2011/08/why-does-the-fda-recommend-2-000-calories-per-day/243092/ &#10;https://www.mariowiki.com/List_of_Super_Mario_Odyssey_quotes&#10;https://www.explainingthefuture.com/helium3.html"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -1981,7 +1981,7 @@ graph
     commentcount 9137
     duration "PT17M50S"
     indegree 40
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 139
     duration "PT14M43S"
     indegree 17
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2007,7 +2007,7 @@ graph
     label "NtEJ7jzjoE4"
     step 0
     date "2018-11-04T19:05:49Z"
-    title "Game Theory: Bendy&#38;#39;s Tragic Ending EXPLAINED (Bendy and the Ink Machine Chapter 5)"
+    title "Game Theory: Bendys Tragic Ending E tongue sticking out LAINED (Bendy and the Ink Machine Chapter 5)"
     description "Special thanks to Honey for partnering with us for this episode!&#10;Get Honey for FREE &#9658; https://joinhoney.com/matpat&#10;Save $ this holiday season at Amazon, eBay, GameStop, Newegg, Walmart, Best Buy, and more!&#10;&#10;Joey Drew Studios logo by Popokino. &#10;Check out all the incredible Bendy art here: https://www.deviantart.com/popokino&#10;&#10;Subscribe to never miss a theory! &#9658; http://bit.ly/1qV8fd6     &#10;&#10;Bendy and the Ink Machine has come to an end and it left us with even MORE questions. What does it all mean? What happened to Joey Drew? Today Theorists, we reveal the sad truth hidden in the final chapter of Bendy.&#10;&#10;Find the game here! &#9658; https://joeydrewstudios.com/batim/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;#Bendy #BendyandtheInkMachine #AliceAngel #Boris #JoeyDrew #FinalChapter #GameTheory&#10;&#10;More THEORIES:&#10;How Bendy EXPOSES Disney's Conspiracy! &#9658; https://bit.ly/2zl5MnB  &#10;Petscop - Ghost In A HAUNTED Game &#9658; https://bit.ly/2GmoZux&#10;Duck Season's KILLER DOG... Unmasked! &#9658; http://bit.ly/2trS1E4&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Hello Neighbor - DEVIL is in the Details! &#9658;http://bit.ly/2HhXXS3&#10;How Bendy Will END! &#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2017,7 +2017,7 @@ graph
     commentcount 15581
     duration "PT14M2S"
     indegree 5
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2025,7 +2025,7 @@ graph
     label "2OaTwR8vXcc"
     step 0
     date "2015-03-04T00:53:26Z"
-    title "Game Theory: Toad&#38;#39;s DEADLY Secret (Super Mario Bros.)"
+    title "Game Theory: Toads DEADLY Secret (Super Mario Bros.)"
     description "Build YOUR website with Squarespace! &#9658;&#9658; http://bit.ly/1LKjv4J&#10;Special thanks to Squarespace for partnering with us for this episode!&#10;Like the music? Check out The Consouls! &#9658;&#9658; http://bit.ly/1DSRR15&#10;&#10;Toad is more than just a mere mushroom. He has a secret...and it explains A LOT of the weird happenings around the so-called Mushroom Kingdom.&#10;&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Mario Theories:&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Mario is a Psychopath! &#9658;&#9658;&#9658;http://bit.ly/1nSum0E&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;Other SCARY THEORIES:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Check out some more of our awesome video game content:&#10;&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2035,7 +2035,7 @@ graph
     commentcount 38420
     duration "PT14M40S"
     indegree 26
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 19475
     duration "PT15M52S"
     indegree 42
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 67997
     duration "PT18M32S"
     indegree 55
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 17445
     duration "PT16M22S"
     indegree 27
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 44404
     duration "PT17M6S"
     indegree 56
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 2463
     duration "PT12M18S"
     indegree 15
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2133,7 +2133,7 @@ graph
     label "ZM4K0NZt5Ls"
     step 0
     date "2017-06-12T00:16:19Z"
-    title "Game Theory: Super Mario Odyssey&#38;#39;s GIANT Problem (Nintendo)"
+    title "Game Theory: Super Mario Odysseys GIANT Problem (Nintendo)"
     description "TheoryWear! Get it BEFORE IT'S GONE! &#9658;&#9658; http://bit.ly/2rPBPK6 &#10;Subscribe to the Game Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;&#10;&#10;SUPER MARIO ODYSSEY looks stunning, but one major detail from the Super Mario Odyssey trailer caused me to start theorizing right when I saw it: Why is everybody ENORMOUS?! Well after days of research, I have an answer. In this episode, I will reveal the reason behind the Human Gigantism we see in Super Mario Odyssey's gameplay! Can I solve the Super Mario Odyssey mystery before Nintendo reveals more about the game at E3? I'm going to try!&#10;&#10;SUBSCRIBE to Catch all the Theories &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;Nintendo&#8217;s SECRET PLAN for the SWITCH! &#9658; https://goo.gl/ZAxHA0&#10;Luigi Is INSANELY RICH! &#9658;&#9658; https://goo.gl/d532Tk&#10;MARIO is MENTAL! (Part 1) &#9658;&#9658; https://goo.gl/NJD58Z&#10;My SECRET IS OUT! | Global Gamer &#9658;&#9658; https://goo.gl/d6I9d8&#10;WHO is W.D. Gaster? | UNDERTALE &#9658;&#9658; https://goo.gl/IKTozR&#10;We SOLVED Dark Souls 3! &#9658;&#9658; http://bit.ly/2nXzCuc&#10; &#10;Check out some more of our awesome video game content:&#10; &#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2143,7 +2143,7 @@ graph
     commentcount 29101
     duration "PT15M22S"
     indegree 42
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 30958
     duration "PT20M44S"
     indegree 73
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 46362
     duration "PT16M29S"
     indegree 11
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2187,7 +2187,7 @@ graph
     label "T8W_CwajJWU"
     step 0
     date "2016-10-30T18:22:57Z"
-    title "Game Theory: The KILLER&#38;#39;S Promise | FNAF Sister Location"
+    title "Game Theory: The KILLERS Promise | FNAF Sister Location"
     description "Subscribe for more Theories! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Missed Pt 1? HORRIFYING! &#9658;&#9658;http://bit.ly/2eRN5wI&#10;Watch Us Beat Sister Location &#9658;&#9658; http://bit.ly/2dYddoA&#10;&#10;It's NEVER over with FNAF, and it's NEVER over for FNAF's most notorious killer, William Afton, AKA the Purple Guy! With this latest installment of the FNAF franchise, I finally found something I've never been able to find in any of the games leading up to this one: a REASON for the killer to hunt down and kill children. Now for the first time ever we can put together pieces of the FNAF universe that have never made sense and finally understand who will &#34;Put you back together...&#34; &#10;&#10;Subscribe for more Theories! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on our NEW CHANNEL GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More FNAF Theories:&#10;FNAF 1-4 DECODED LIVE &#9658; http://bit.ly/2aiTgrW&#10;FNAF Mysteries SOLVED &#9658; http://bit.ly/2el0LCT&#10;FNAF's SCARIEST Monster is You! &#9658; http://bit.ly/2dtbqa4&#10;&#10;Other SCARY THEORIES:&#10;HACKERS are EVERYWHERE! &#9658;&#9658; http://bit.ly/2dLRU9T&#10;You're NOT SAFE! (Watch Dogs Pt 1) &#9658;&#9658; http://bit.ly/2cZ63UK&#10;Tips for Surviving the Zombie Apocalypse &#9658; http://bit.ly/2d2pNlR&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2197,7 +2197,7 @@ graph
     commentcount 107686
     duration "PT18M44S"
     indegree 31
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 450
     duration "PT43M31S"
     indegree 17
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2223,7 +2223,7 @@ graph
     label "2FiHXAuKhEk"
     step 0
     date "2020-10-24T18:05:08Z"
-    title "Game Theory: The Hidden Code of Unus Annus (Markiplier &#38;amp; CrankGamePlays)"
+    title "Game Theory: The Hidden Code of Unus Annus (Markiplier CrankGamePlays)"
     description "Special thanks to Audible for sponsoring this video!&#10;Get a 30 Day FREE Trial&#160; &#9658;&#160;http://audible.com/matpat&#10;Or text matpat to 500-500&#10;&#10;When Markiplier and CrankGamePlays put up the channel Unus Annus, they had two big rules.&#10;1. They would be uploading daily for 365 day.&#160;&#10;2. After those 365 days, the channel would be deleted and disappear forever.&#160;&#10;That is a BIG play. All that work just to have it disappear? It is a bold and simple premise for a channel... except nothing is ever that simple, is it? Therosits, I have watched and analyzed all of the uploads on the channel and I've come to one BIG conclusion. There is something SECRET hiding in the videos of Unus Annus. A secret that someone has been trying to tell us since the beginning. A secret that, just maybe, could save Mark, Ethan, and Unus Annus before the clock runs out.&#10;&#10;Find Unus Annus here&#160;&#9658;&#160;https://www.youtube.com/c/UnusAnnus/&#10;&#10;Don't forget to Subscribe to Food Theory! &#9658;&#160;https://bit.ly/2CdCooV&#160;&#160;&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself&#160;some Theory Wear!! &#9658;&#160;http://creatorink.co/theorywear1&#160;&#160;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#160;&#10;&#10;&#160;#UnusAnnus #Markiplier #CrankGamePlays #Mark #Ethan #DisclaimerSong #Darkiplier #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Researcher: Zach Stewart&#10;Editors: Tyler Mascola,&#160;Pedro Freitas, and&#160;Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2233,7 +2233,7 @@ graph
     commentcount 26108
     duration "PT16M46S"
     indegree 16
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2241,7 +2241,7 @@ graph
     label "fSuqTgnCVRg"
     step 0
     date "2018-01-06T16:52:44Z"
-    title "Game theory #1||Pure &#38;amp; Mixed Strategy||in Operations research||Solved problem||By:- Kauserwise"
+    title "Game theory #1||Pure Mixed Strategy||in Operations research||Solved problem||By:- Kauserwise"
     description "Here is the video about Game theory with Pure Strategy and Mixed Strategy, in this video we have solved separate numerical problems for Pure strategy and Mixed Strategy.&#10;And we have seen in detailed explanations about What is Player in Game theory, What is Strategy in Game theory, What is Pure strategy and What is Mixed strategy in game theory, What is Payoff matrix in game theory, What is MiniMax properties and What is Maximin property in game theory, what is saddle point in game theory, What is Value of the Game in game theory and Two persons Zero sum game in game theory in simple manner, hope this will help you to get the subject knowledge at the end. if you like this please like, comment, share and subscribe. Thanks and All the best. &#10;&#10;To watch:&#10;Game theory - Pure &#38; Mixed strategy &#10;Game theory - Dominance property &#10;Game theory  - Graphical method [ 2 X N ] Game&#10;Game theory [Graphical method [ M X 2 ] Game&#10;&#10;Please see this PlayList - Game Theory Collections&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnp8CT6my-Q89N0o-E6tcM6q&#10;&#10;Link for &#9658;PlayList [Operation Research video collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnoLyXr4Y7MzmHSu3bDjLvhu&#10;&#10;Follow Us On:&#10;===============================&#10;&#9658;Instagram:  &#10;www.instagram.com/kauserwise_yt_pedagogy&#10;&#9658;My channel: &#10;www.youtube.com/c/kauserwise (SUBSCRIBE)&#10;===============================&#10;&#128071;List of Subjects and it's Play List&#128071;&#10;&#10;&#9658;Financial Management&#10;&#9658;Financial Accounting&#10;&#9658;Corporate Accounting&#10;&#9658;Cost and Management Accounting&#10;&#9658;Operations Research&#10;&#9658;Statistics&#10;&#10;Link for &#9658;PlayList - FM [Financial Management video collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnqbgOWfUpILqZVX7cTKqVDj&#10;&#10;Link for &#9658;PlayList [Financial accounting tutorial collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnojfVAucCUHGmcAay_1ov46&#10;&#10;Link for &#9658;PlayList [Corporate accounting tutorial collections] https://www.youtube.com/playlist?list=PLabr9RWfBcnorJc6lonRWP4b39sZgUEhx&#10;&#10;Link for &#9658;PlayList [Cost and Management accounting collections]  https://www.youtube.com/playlist?list=PLabr9RWfBcnpgUjlVR-znIRMFVF0A_aaA&#10;&#10;Link for &#9658;PlayList Statistics video collections  https://www.youtube.com/playlist?list=PLabr9RWfBcnoJi5snMQQzDGYmb4ydFpTs&#10;&#10;Thanks&#10;kauserwise&#174;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;00:00 Game theory pure and mixed strategy problem with solution&#10;00:04 What is Game theory brief introduction&#10;00:25 Categories of Decision making situation in game theory&#10;00:42 What are the terminologies of Game theory&#10;00:57 What are the strategies in Game theory&#10;01:19 What is Pure strategy with an example in Game theory&#10;02:16 What is mixed strategy with an example in Game theory&#10;03:52 What is payoff matrix in Game theory&#10;05:23 What is Maximin principle in Game theory&#10;05:48 What is Minimax principle in Game theory&#10;06:09 What is saddle point in Game theory&#10;06:31 What is the meaning of value of the Game in Game theory&#10;06:58 What is two person zero sum game with an example in Game theory&#10;08:15 Numerical problem for pure strategy in Game theory&#10;12:12 Numerical problem for Mixed strategy in Game theory&#10;12:34 Difference between mixed strategy and saddle point in Game theory&#10;13:56 how to solve mixed strategy in Game theory&#10;14:23 how to find oddments in mixed strategy in Game theory&#10;15:39 Trick to find (without formula) Probability in mixed strategy in Game theory&#10;17:35 Simple method to finding Value of the Game in Game theory&#10;17:47 Four Simple methods to finding value of the game in Game theory&#10;20:53 Important note (Conditions) for value of the Game in Game theory"
     channeltitle "Kauser Wise"
     channelid "UCkoF2InqbcpBEdHC7KlnaLw"
@@ -2251,7 +2251,7 @@ graph
     commentcount 563
     duration "PT21M40S"
     indegree 30
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 15446
     duration "PT13M8S"
     indegree 13
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 7108
     duration "PT14M53S"
     indegree 60
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 10646
     duration "PT16M38S"
     indegree 21
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2313,7 +2313,7 @@ graph
     label "BFtkvIWyZlw"
     step 0
     date "2019-08-15T19:05:27Z"
-    title "Game Theory: The Mystery of Minecraft&#38;#39;s Haunted Discs (Minecraft)"
+    title "Game Theory: The Mystery of Minecrafts Haunted Discs (Minecraft)"
     description "Get Your New Back To School Theory Wear Here!! &#9658; http://creatorink.co/tw-yt&#10;&#10;Today Theorists, I aim to solve another one of the many mysteries of Minecraft. We've explored a lot already, but with a game this big, there is always more to find. Take the music discs, which are the objects you find randomly throughout the game when you do certain things. Except, there are two discs in particular that peaked my interest - Disc 11 and Disc 13. The two &#34;corrupted&#34; discs that, when you play them, sound like something from a horror game rather than Minecraft. What is going on with Discs 11 and 13? Let's find out!&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;Get the game here &#9658;&#9658; https://www.minecraft.net/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Minecraft #Enderman #Disc11 #Disc13 #Corrupted #Haunted #MinecraftTheory #Theory #GameTheory &#10;&#10;More THEORIES:&#10;The TRUTH About MINECRAFT&#8217;s World! &#9658;&#9658; https://goo.gl/XySv1N&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#10;&#10;Credits:&#10;Writers: Matthew Patrick &#10;Editors: BanditRants, Tyler Mascola, Dan &#34;Cybert&#34; Seibert, and Alex &#34;Sedge&#34; Sedgwick&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://minecraft.gamepedia.com/Music_Disc &#10;https://www.minecraft-france.fr/le-secret-du-disque-11/&#10;https://minecraft.gamepedia.com/Ambience&#10;https://minecraft.gamepedia.com/Timeline_of_events&#10;https://www.minecraft.net/es-es/article/the-lost-journals"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2323,7 +2323,7 @@ graph
     commentcount 58155
     duration "PT17M33S"
     indegree 31
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 20117
     duration "PT15M12S"
     indegree 35
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 100
     duration "PT25M52S"
     indegree 15
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2367,7 +2367,7 @@ graph
     label "Vb_e1zgCZao"
     step 0
     date "2018-08-19T18:05:58Z"
-    title "Game Theory: Super Mario&#38;#39;s BIGGEST Secret.....Literally"
+    title "Game Theory: Super Marios BIGGEST Secret.....Literally"
     description "Get NEW Back to School Theory Merch! &#9658; http://bit.ly/2KnTVZu&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6&#10;How BAD is Mario's Blue Shell? &#9658;&#9658; https://bit.ly/2BfFlUK&#10;&#10;I've talked a LOT about the height of Mario over the years. Game to game, pixel by pixel, I've worked out the FINAL answer...and a few more! Today Theorists, we are looking in to the many SIZES found in the Mushroom Kingdom. Who would win this battle of the builds? Let's find out!&#10;&#10;Find the game here! &#9658; https://www.nintendo.com/games/detail/new-super-mario-bros-u-deluxe-switch&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Super Mario BETRAYED?! &#9658;&#9658; http://bit.ly/2zCM6v4&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;Why Mario Kart 8 is Mario's SCARIEST Game! &#9658;&#9658; https://bit.ly/2wyeell&#10;Super Mario Maker, BIGGER than the UNIVERSE! &#9658;&#9658;&#9658; https://bit.ly/2pTOPvO&#10;Luigi - Secret MILLIONAIRE?? &#9658; https://bit.ly/2CEkk15 &#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;#Mario #Waluigi #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2377,7 +2377,7 @@ graph
     commentcount 22026
     duration "PT15M14S"
     indegree 23
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2385,7 +2385,7 @@ graph
     label "bxUbvItagwA"
     step 0
     date "2021-04-17T18:05:05Z"
-    title "Game Theory: Why Flying Pokemon CAN&#38;#39;T FLY!"
+    title "Game Theory: Why Flying Pokemon CANT FLY!"
     description "Special thanks to GEICO for sponsoring this episode!&#160;&#10;See how much money you could save on your car insurance NOW!&#160;&#9658;&#160;https://on.gei.co/GameTheory &#10;&#10;Nowadays, Pokemon travel on your journey to becoming the best there ever was has evolved. It used to be your feet and a bike. Now, you you can ride on Pokemon in your party as a travel option. Plus, there are built in game mechanics that are basically Pokemon taxi service. The Gala region has their Flying Taxi that utilize Corviknights to fly you from place to place. Well, that got me thinkin Theorists. Did Pokemon get flying RIGHT? Could a Corviknight, or any flying type, actually carry passengers or even THEMSELF? It's time to find out!&#10;&#10;Get Your 10th Anniversary Game theory&#160;Merch!&#160;&#9658;&#160;https://bit.ly/3fx9W2C&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#10;&#160; &#160;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Pokemon #FlyingPokemon #PokemonSwordAndShield #PokemonGo #Pikachu #PokemonTheory #PokemonSword #PokemonShield #PokemonSnap #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors:&#160;Alex &#34;Sedge&#34; Sedgwick&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2395,7 +2395,7 @@ graph
     commentcount 10599
     duration "PT14M5S"
     indegree 39
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 51056
     duration "PT16M1S"
     indegree 15
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 13505
     duration "PT13M10S"
     indegree 33
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2439,7 +2439,7 @@ graph
     label "KYdDUXyFocY"
     step 0
     date "2016-02-09T20:39:57Z"
-    title "Game Theory: UNDERTALE - Sans&#38;#39;s SECRET Identity!"
+    title "Game Theory: UNDERTALE - Sanss SECRET Identity!"
     description "Join the Game Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Earthbound, The DARK Side of Mother! &#9658;&#9658; http://bit.ly/1Kaet6U&#10;UNDERTALE Origins: Earthbound Hack on GTLive &#9658; bit.ly/1T4qbl2&#10;&#10;UNDERTALE. You've asked for it. Literally, non-stop since the game was released. And at first, even I was a skeptic, but now I'm an Undertale believer, ESPECIALLY since I've uncovered the deep rooted connections between this game and one of my favorite games of all time: Earthbound. The secrets connecting Undertale to Earthbound run DEEP, so get ready to see Undertale (AND some of your favorite characters from Earthbound) as you've never seen them before. &#10;&#10;&#10;Become a Theorist! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on our NEW CHANNEL GTLive! &#10;&#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;Dark Theories:&#10;The REAL Story of Binding of Isaac &#9658;&#9658; http://bit.ly/1XgzDlP&#10;Toad's DEADLY Secret &#9658;&#9658; http://bit.ly/1o0DSGz&#10;Is Link DEAD in Majora's Mask?! &#9658;&#9658; http://bit.ly/1QTyyh3&#10;&#10;&#10;Pokemon Theories:&#10;Pokemon Multiverse EXPLAINS Everything! &#9658; http://bit.ly/1JnsZRh&#10;Pokemon RACISM, Jinx Justified &#9658;&#9658; http://bit.ly/1Pj8JXm&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;Call of Duty Should Terrify You &#9658; http://bit.ly/1stq1Hs&#10;Exposing Destiny's Lost Plot Theory! &#9658;&#9658; http://bit.ly/1R9Chq8&#10;&#10;Twitter: @MatPatGT&#10;Hang out with us on our NEW CHANNEL GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Special Thanks to NoteBock &#9658;&#9658; &#10;https://www.youtube.com/user/NoteBlockRemix&#10;&#10;Check out some more of our awesome video game content:&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2449,7 +2449,7 @@ graph
     commentcount 169417
     duration "PT17M28S"
     indegree 10
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -2457,7 +2457,7 @@ graph
     label "8AQKpfhiq4o"
     step 0
     date "2019-03-10T19:05:19Z"
-    title "Game Theory: Kirby...Dream Land&#38;#39;s Biggest THREAT! pt 1"
+    title "Game Theory: Kirby...Dream Lands Biggest THREAT! pt 1"
     description "Special thanks to NordVPN for sponsoring this video!&#10;Go to https://NordVPN.com/MATPAT to get 75% off a 3 year plan &#10;and use code MATPAT for an additional month for free.&#10;&#10;Kirby is the lovable gumball that is all about friendship and saving the world. Except, he isn't. In fact I don't think Kirby cares about any of that at all! Theorists, I went back through all of the Kirby games and I started to notice that Kirby... wasn't all that heroic. He doesn't care about ANYONE or ANYTHING but himself. Don't believe me? Well, I'm about to fill you up with so much proof, you'll wish you had an appetite like Kirby!&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6  &#10;&#10;Find the game here! &#9658; https://www.nintendo.com/games/detail/kirby-star-allies-switch&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Kirby #Nintendo #KingDeDeDe #KirbyStarAllies #StarAllies #KirbysAdventure #KirbysDreamland #GameTheory #KirbyTheory&#10;&#10;More Theories! &#9658;&#9658;&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2TBS9wn&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;You ARE Your Character! (SSBU) &#9658;&#9658; https://bit.ly/2HnhVhB&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;Luigi - Secret MILLIONAIRE?? &#9658; https://bit.ly/2CEkk15&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Researcher: Louis Garza&#10;Editors: Alex &#34;Sedge&#34; Sedgwick, Marc Schneider, Dan &#34;Cybert&#34; Seibert, Koen Verhagen, and Josh Langman&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2467,7 +2467,7 @@ graph
     commentcount 20933
     duration "PT19M21S"
     indegree 45
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2485,7 +2485,7 @@ graph
     commentcount 15247
     duration "PT16M32S"
     indegree 8
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 31073
     duration "PT16M11S"
     indegree 34
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2539,7 +2539,7 @@ graph
     commentcount 45902
     duration "PT16M23S"
     indegree 43
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2547,7 +2547,7 @@ graph
     label "8ANfAt4hJ6Y"
     step 0
     date "2022-01-01T18:05:02Z"
-    title "Game Theory: FNAF, Don&#38;#39;t Trust Gregory (FNAF Security Breach)"
+    title "Game Theory: FNAF, Dont Trust Gregory (FNAF Security Breach)"
     description "SUBSCRIBE to NEVER miss a Theory! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Theorists, it's finally time for a Five Nights At Freddy's Security Breach theory. Well, a post-release FNAF Security Breach theory. Don't worry, I will be covering EVERYTHING I can find. The biggest thing I want to talk about today, however, is Gregory. The young boy that we play as throughout the whole game is a big mystery and I intend to solve it! Who is he? Why is he there after hours? Is he even HUMAN? It's time to dive back into FNAF!&#10;&#10;More about the game &#9658; https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/&#10;&#10;Get Your Theory Wear! &#9658; https://creatorink.co/4wj &#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ    &#10;&#10;Special Thanks to Epidemic Sound for including us in their Ambassador Program and supplying us with music and SFX. &#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#FNAF #FNAFSecurityBreach #SecurityBreach #FiveNightsAtFreddys #FiveNightsAtFreddysSecurityBreach #FNAFTheory #FNAFLore #MatPat #Theory #GameTheory    &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors: Tyler Mascola, Pedro Freitas, Jerika (NekoOnigiri), and Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2557,7 +2557,7 @@ graph
     commentcount 45512
     duration "PT18M52S"
     indegree 56
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2565,7 +2565,7 @@ graph
     label "5N9EEH_iDXU"
     step 0
     date "2016-11-22T23:21:58Z"
-    title "Game Theory: Pokemon GO&#38;#39;s TRAGIC END!"
+    title "Game Theory: Pokemon GOs TRAGIC END!"
     description "FREE 30 day trial of Audible &#9658; http://bit.ly/MatPatAudible2016&#10;Special thanks to Audible for partnering with us for this episode!&#10;SUBSCRIBE to Catch all the Theories &#9658; http://bit.ly/1qV8fd6&#10;&#10;We all know Pokemon Go, but where IS this game in the Poke-universe? What does it MEAN for the world of Pokemon? Well it turns out that Pokemon Go may just hold the key to answering one of Pokemon's longest held mysteries - one that has lingered since the very first generation...&#10;&#10;This video was sponsored by audible, but as always, the theory's ALL MINE!&#10;&#10;Join the Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Twitter: @MatPatGT&#10;Instagram: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Other Pokemon Theories:&#10;Humans are POKEMON! &#9658;&#9658; http://bit.ly/PokeHuman&#10;SOLVING Raticate's DEATH! &#9658;&#9658; http://bit.ly/GTraticate&#10;Pokemon Multiverse EXPLAINS ALL! &#9658;&#9658; http://bit.ly/GTpokeverse&#10;&#10;Nintendo Theories:&#10;BEWARE Link's Hookshot! &#9658;&#9658; http://bit.ly/GTHookshot&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Luigi's SECRET Identity! &#9658;&#9658; http://bit.ly/LuigisID&#10;&#10;Business email: gametheorist.business@gmail.com"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2575,7 +2575,7 @@ graph
     commentcount 43546
     duration "PT16M35S"
     indegree 20
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2583,7 +2583,7 @@ graph
     label "YJvbxAvxkDc"
     step 0
     date "2018-01-13T04:41:43Z"
-    title "Game Theory #2||Dominance Property||Pure &#38;amp; Mixed Strategy||in Operations Research||by Kauserwise"
+    title "Game Theory #2||Dominance Property||Pure Mixed Strategy||in Operations Research||by Kauserwise"
     description "Here is the video about Game theory - Dominance property with Pure strategy and Mixed strategy In operations research, in this video we have solved the problems for Pure strategy and Mixed Strategy using Dominance property in Game theory, In that we have seen What is dominance property, what is Dominance property for row reduction, What is dominance property for column reduction, What is average method for column reduction and row reduction, etc...hope this will help you to get the subject knowledge at the end. if you like this please like, comment, share and subscribe. Thanks and All the best. &#10;&#10;To watch:&#10;[1] Game theory [Pure &#38; Mixed strategy]: https://youtu.be/fSuqTgnCVRg&#10;&#10;[2] Game theory  [Dominance property - Pure and mixed strategy]: https://youtu.be/YJvbxAvxkDc&#10;&#10;[3] Game theory [Graphical method [ 2 X N ] Game: https://youtu.be/KUskbAasVCY&#10;&#10;[4] Game theory [Graphical method [ M X 2 ] Game: https://youtu.be/VWQIpwLmhGk&#10;&#10;To watch more tutorials for the below subjects pls visit the playlist: www.youtube.com/c/kauserwise&#10;Playlists:&#10;---------------&#10;Financial accounting&#10;FM - Financial Management&#10;Cost and management accounting&#10;Corporate accounting&#10;Operation research&#10;Statistics&#10;&#10;-------------&#10;Playlist: Financial accounting tutorial collections: &#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnojfVAucCUHGmcAay_1ov46&#10;---------------------------------&#10;FM - Financial Management video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnqbgOWfUpILqZVX7cTKqVDj&#10;-------------------------------&#10;Corporate accounting video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnorJc6lonRWP4b39sZgUEhx&#10;------------------------------&#10;Cost and management accounting  video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnpgUjlVR-znIRMFVF0A_aaA&#10;-------------------------------&#10;Operation research video collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnoLyXr4Y7MzmHSu3bDjLvhu&#10;--------------------------------&#10;Statistics tutorial collections:&#10;https://www.youtube.com/playlist?list=PLabr9RWfBcnoJi5snMQQzDGYmb4ydFpTs&#10;----------------------------------------------"
     channeltitle "Kauser Wise"
     channelid "UCkoF2InqbcpBEdHC7KlnaLw"
@@ -2593,7 +2593,7 @@ graph
     commentcount 390
     duration "PT21M27S"
     indegree 20
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2601,7 +2601,7 @@ graph
     label "NpdZPzMh7bA"
     step 0
     date "2021-05-22T18:05:36Z"
-    title "Game Theory: What Level is Ash&#38;#39;s Pikachu? (Pokemon)"
+    title "Game Theory: What Level is Ashs Pikachu? (Pokemon)"
     description "SUBSCRIBE to Never Miss A Game Theory! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160; &#160; &#160;&#10;&#10;Pokemon is one of the longest running&#160;series out there and for years, one question has plagued us all. What level IS Ash's Pikachu? This little electric mouse defeated CRAZY POWERFUL foes. They've made it to the top of multiple leagues. So, you'd think Pikachu is one of, if not THE STRONGEST Pokemon around, right? Well...&#160;&#10;&#10;Find the game here &#9658; https://www.nintendo.com/games/detail/pokemon-shining-pearl-switch/&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160; &#160;&#10;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Pokemon #AskKetchum #Pikachu #PokemonSnap&#160;#PokemonTheory #PokemonSword #PokemonShield #PokemonDiamon #PokemonPearl #Theory&#160;#MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors:&#160;Tyler Mascola and&#160;Koen Verhagen&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2611,7 +2611,7 @@ graph
     commentcount 12237
     duration "PT13M51S"
     indegree 21
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 136522
     duration "PT17M25S"
     indegree 9
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -2637,7 +2637,7 @@ graph
     label "1Y973efOJMs"
     step 0
     date "2022-03-12T18:05:07Z"
-    title "Film Theory: Do N&#824;&#788;&#795;&#789;&#838;&#772;&#777;&#779;&#787;&#831;&#776;&#834;&#774;&#857;O&#821;&#849;&#833;&#838;&#829;&#772;&#785;&#861;&#849;&#786;&#779;&#794;&#811;&#839;&#803;&#815;T&#823;&#776;&#835;&#859;&#781;&#844;&#785;&#859;&#834;&#783;&#829;&#837;&#803;&#818;&#814;&#858;&#810; Fear Him (The Mandela Catalogue)"
+    title "Film Theory: Do N Fear Him (The Mandela Catalogue)"
     description "Get yourself The Quest Jacket and SOLVE our mystery! &#9658; https://theorywear.com/&#10;&#10;It's been a while since I posted my first theory on The Mandela Catalogue. The series has NOT slowed down! Today I want to focus on one of the scariest things to show up yet - The Intruder? Who is he? Should we ACTUALLY be afraid or is the truth a little more mysterious. Theorist, it's time to step into the dark and spooky world of The Mandela Catalogue once again! Don't be afraid... &#10;&#10;Check out the series by @Alex Kister ! &#9658; https://www.youtube.com/c/MandelaCatalogue&#10;&#10;Get your Theory Wear! &#9658; https://theorywear.com/&#10;Don't miss a Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;#TheMandelaCatalogue #MandelaCatalogue #TheMandelaCalatog #MandelaCatalog #AnalogHorror #Scary #Horror #Creepypasta #Theory #FilmTheory #Matpat &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/TheFilmTheorists&#10;&#10;MORE FILM THEORIES&#10;Rick's True CRIME! | Rick and Morty &#9658;&#9658; https://bit.ly/2MVhP2W&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://bit.ly/2qKFFFV&#10;How PICKLE RICK Functions! &#9658;&#9658;&#9658; https://bit.ly/2JvU4fT&#10;Blair Witch's SECRET DANGER!  &#9658; https://bit.ly/2qhmv7a&#10;Ariel &#38; Hercules Are RELATED?! &#9658; https://bit.ly/32WnVWi&#10;&#10;Credits: &#10;Writers: Matthew Patrick and Zach Stewart&#10;Editors: AbsolutePixel and Tyler Mascola&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -2665,7 +2665,7 @@ graph
     commentcount 2645
     duration "PT1H11M35S"
     indegree 12
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2683,7 +2683,7 @@ graph
     commentcount 55225
     duration "PT12M26S"
     indegree 37
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 6070
     duration "PT17M29S"
     indegree 8
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2709,7 +2709,7 @@ graph
     label "3gMlod7TyrQ"
     step 0
     date "2021-08-14T18:05:29Z"
-    title "Game Theory: Fortnite&#38;#39;s SECRET Plan to Control Disney!"
+    title "Game Theory: Fortnites SECRET Plan to Control Disney!"
     description "Thanks to Rocket Mortgage for sponsoring this episode.&#160; How did we make working from home work for us? Watch our episode of Big Change on the Rocket Learn YouTube channel. #ad&#160;https://youtu.be/RTDVnAluHGw&#10;&#10;Ever notice how Epic Games is slowly taking over the entertainment industry? I'm not just talking about Disney IP and Ariana Grande showing up in Fortnite. I mean how Epic Games has tricked us into thinking it is ONLY a gaming company when&#160;really, the well goes much, MUCH deeper! Theorists, we have been&#160;SLEEPING on Epic Games' master plan!&#10;&#10;Get Your BRAND NEW Back to School Theory Wear! &#9658;&#160;https://bit.ly/3loC36U&#10;SUBSCRIBE to Catch all the Theories! &#9658;&#160;https://goo.gl/kQWHkJ&#160; &#160; &#10;&#160; &#160;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#EpicGames #Fortnite #UnrealEngine #Disney #Secret #FortniteGalactus&#160;#MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors:&#160;Forrest Lee,&#160;AbsolutePixel, and&#160;Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2719,7 +2719,7 @@ graph
     commentcount 7470
     duration "PT14M13S"
     indegree 8
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2727,7 +2727,7 @@ graph
     label "aj8NDOA0Sgw"
     step 0
     date "2020-07-23T18:05:46Z"
-    title "Game Theory: Can You Solve Portal&#38;#39;s IMPOSSIBLE Puzzle? (Portal)"
+    title "Game Theory: Can You Solve Portals IMPOSSIBLE Puzzle? (Portal)"
     description "Check out Food Theory! &#9658;&#160;https://bit.ly/3eSc5l6&#10;Your Cake Is Really A LIE! &#9658; https://youtu.be/dulS3GGiJ7M&#10;&#10;What if I told you that there is a puzzle in Portal that NO ONE has been able to solve? It's true. I'm talking about the pole puzzle. If you used Portal's endless fall mechanic and put a pole inside - what&#160;happens? This had boggled the minds of Reddit users and fans alike. Today, Loyal Theorists, I aim to solve that&#160;so-called &#34;impossible&#34; puzzle - not even GLaDOS!&#10;&#10;Don't forget to Subscribe to Food Theory! &#9658;&#160;https://bit.ly/2CdCooV&#160;&#160;&#10;&#10;Find the game here &#9658; https://store.steampowered.com/app/400/Portal/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself&#160;some Theory Wear!! &#9658;&#160;http://creatorink.co/theorywear1&#160;&#160;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#160;&#10;&#10;#Portal #Portal2 #Puzzle #Impossible #PolePuzzle #Meme #Glados #Chell #HardestPuzzle #MatPat #Theory #GameTheory&#160;&#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors: Forrest Lee,&#160;Koen Verhagen, and&#160;Pedro Freitas&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2745,7 +2745,7 @@ graph
     label "83FP3nRKECc"
     step 0
     date "2015-10-29T22:02:56Z"
-    title "Game Theory: Halo Armor&#38;#39;s FATAL Flaw!"
+    title "Game Theory: Halo Armors FATAL Flaw!"
     description "Thanks to Microsoft for loaning us the real life Halo Armor and for  sponsoring the episode, allowing us to bring in an armor specialist.&#10;Exposing Destiny's Lost Plot Theory! &#9658;&#9658; http://bit.ly/1R9Chq8&#10;Join the Game Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;&#10;Halo Armor - Best protective suit ever or a walking death trap? If Mjolnir Armor is like having your body encased in a small tank, why exactly does it only take one to three punches to kill you? In this episode of Game Theory, I get to the bottom of one of the oldest Halo questions around. How can Master Chief have a super suit capable of surviving a fall from space, yet one little five finger strike can send him toppling over into his grave?&#10;&#10;Become a Theorist! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Twitter: @MatPatGT&#10;Hang out with us on our NEW CHANNEL GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;MORE Halo Theories:&#10;Red vs Blue: Secret Color Strategy &#9658;&#9658; http://bit.ly/1P1iDNX&#10;Halo Power Armor In Real Life &#9658;&#9658; http://bit.ly/1KBeUQJ&#10;&#10;Scary Theories:&#10;Call of Duty Should Terrify You &#9658; http://bit.ly/1stq1Hs&#10;Portal's Gruesome Secret &#9658; http://bit.ly/1INZIWj&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;Pokemon Theories:&#10;Are Humans Pokemon? YES! &#9658;&#9658; http://bit.ly/1Bexblg&#10;Pokemon Evolution EXPLAINED &#9658; http://bit.ly/1zwIHus&#10;Is Jynx RACIST? &#9658; http://bit.ly/15tVnoK&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Check out some more of our awesome video game content:&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2755,7 +2755,7 @@ graph
     commentcount 47838
     duration "PT22M35S"
     indegree 45
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 35361
     duration "PT12M33S"
     indegree 30
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2799,7 +2799,7 @@ graph
     label "avCB6HOjsG4"
     step 0
     date "2015-02-22T19:38:56Z"
-    title "Game Theory:  Does Isaac DIE?!? Binding of Isaac Rebirth&#38;#39;s Endings EXPLAINED."
+    title "Game Theory: Does Isaac DIE?!? Binding of Isaac Rebirths Endings E tongue sticking out LAINED."
     description "Join the Theorists &#9658;&#9658;  http://bit.ly/1qV8fd6&#10;Check out DEADLOCK, SNES vs. SEGA!  &#9658;&#9658; http://bit.ly/1zYUiMU&#10;VOTE: Indie Games - http://goo.gl/bKWhkV       Triple A Games - http://goo.gl/RgJqhz&#10;&#10;It's time to get INDIE! Today I'm taking on the indie game YOU have been requesting the most -- The Binding of Isaac. WHAT DOES THIS GAME MEAN? With 16 endings and all just as obscure as the last, it seems like this game has some deep things to say...but what are those things, exactly? Does Isaac die in the box? Is mom really a psycho religious killer? We're getting ready to analyze this incredibly deep and moving game.&#10;&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Pokemon Theories:&#10;Are Humans Pokemon? YES! &#9658;&#9658; http://bit.ly/1Bexblg&#10;Pokemon Evolution EXPLAINED &#9658; http://bit.ly/1zwIHus&#10;Is Jynx RACIST? &#9658; http://bit.ly/15tVnoK&#10;&#10;Mario Theories:&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Mario is a Psychopath! &#9658;&#9658;&#9658;http://bit.ly/1nSum0E&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;FNAF THEORIES:&#10;FNAF2, The Killer REVEALED &#9658; http://bit.ly/15z6aOW&#10;FNAF1, The TRUE Story &#9658; http://bit.ly/15tV8da&#10;&#10;Scary Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Check out some more of our awesome video game content:&#10;&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2809,7 +2809,7 @@ graph
     commentcount 52951
     duration "PT15M17S"
     indegree 18
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2817,7 +2817,7 @@ graph
     label "vdnfGR2Q8yg"
     step 0
     date "2022-06-18T17:05:24Z"
-    title "Food Theory: MrBeast Is WRONG About Wonka&#38;#39;s Chocolate River! (Willy Wonka&#38;#39;s Chocolate Factory)"
+    title "Food Theory: MrBeast Is WRONG About Wonkas Chocolate Factory)"
     description "Get Your BRAND NEW TheoryWear Before It's Gone &#9658; https://theorywear.com/&#10;&#10;Listen, you know by now that when @MrBeast  talks about something food related, we are going to cover it. Today we are taking a look at his Willy Wonka inspired factory. Specifically, the deadliness of it. You see, I think they underestimated what was going on here. That place is FULL of death traps not meant to be ignored. What is the WORST? Watch to find out!&#10;&#10;MrBeast's video &#9658; https://youtu.be/Hwybp38GnZw&#10;&#10;Get Your TheoryWear NOW! &#9658; https://theorywear.com/&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; https://bit.ly/2CdCooV  &#10; &#10;Want More FOOD THEORY?&#10;You've Been SCAMMED! (Supermarket Secrets) &#9658; https://youtu.be/EqviBPG2uPE&#10;Tootsie Pops, How Many Licks? &#9658; https://youtu.be/qOS5NAdyWDw&#10;Never Order McDonald's Medium Fries! &#9658; https://youtu.be/c_jnZkVlNtw&#10;Kool Aid Man Is A Marvel Villain! &#9658; https://youtu.be/CuZ14w_g3WA  &#10;Don't Trust Your Cake! &#9658; https://youtu.be/dulS3GGiJ7M  &#10;&#10;Join our other Theorist Communities!&#10;Game Theory! &#9658; http://bit.ly/1qV8fd6  &#10;Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658;  http://share.epidemicsound.com/theFoodTheorists&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors: Alex &#34;Sedge&#34; Sedgwick and Jerika (NekoOnigiri)&#10;Sound Editor: Yosi Berman&#10;&#10;#MrBeast #WillyWonka #Chocolate #ChocolateFactory #Feastables #MrBeastContest #WillyWonkaAndTheChocolateFactory #FoodTheory #MatPat #GameTheory #FilmTheory"
     channeltitle "The Food Theorists"
     channelid "UCHYoe8kQ-7Gn9ASOlmI0k6Q"
@@ -2827,7 +2827,7 @@ graph
     commentcount 3956
     duration "PT12M56S"
     indegree 51
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2835,7 +2835,7 @@ graph
     label "eZXf3p1S5Tk"
     step 0
     date "2018-10-21T18:05:19Z"
-    title "Game Theory: SuperHot.exe is a VIRUS! SuperHot SUpeErHo&#821;&#835;&#776;&#797;&#837;t&#823;&#789;&#850;&#801;&#802;  S&#820;&#783;&#837;u&#821;&#795;&#796;p&#822;&#781;&#826;E&#824;&#778;&#799;r&#824;&#787;&#817;H&#824;&#770;&#854;o&#824;&#778;&#860;t&#820;&#782;&#815;"
+    title "Game Theory: SuperHot.exe is a VIRUS! SuperHot SUpeErHo"
     description "This video is sponsored by Oculus. Click here to learn more about the Oculus Quest! &#9658; https://ocul.us/2JcWbUB&#10;Petscop: The Ghost Inside a Game &#9658; https://bit.ly/2GmoZux&#10;&#10;Subscribe to never miss a theory! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;When SUPERHOT VR came out a few years ago, it seemed like your average first person shooter type of game. Except we were WRONG! Superhot is a game within a game, ready to take over the mind of YOU - the player. Today Theorists, we are getting to the bottom of this digital VIRUS.&#10;&#10;Find the game here! &#9658; https://superhotgame.com/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;#Superhot #SuperhotVR #Oculus #OculusQuest #Virus #GameTheory&#10;&#10;More THEORIES:&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2Cg0b5T&#10;Petscop - Ghost In A HAUNTED Game &#9658; https://bit.ly/2GmoZux&#10;Duck Season's KILLER DOG... Unmasked! &#9658; http://bit.ly/2trS1E4&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Hello Neighbor - DEVIL is in the Details! &#9658;http://bit.ly/2HhXXS3&#10;How Bendy Will END! &#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2845,7 +2845,7 @@ graph
     commentcount 31597
     duration "PT18M53S"
     indegree 55
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 5312
     duration "PT13M16S"
     indegree 67
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2871,7 +2871,7 @@ graph
     label "5xNrAVoFT0o"
     step 0
     date "2020-04-04T18:05:12Z"
-    title "Game Theory: FNAF, The Grave Robber (Five Nights At Freddy&#38;#39;s)"
+    title "Game Theory: FNAF, The Grave Robber (Five Nights At Freddys)"
     description "Thanks to Honey for sponsoring this episode!&#160;&#160;&#10;Get the best deals while shopping online &#9656;&#160;http://joinhoney.com/matpat &#10;Honey is FREE and finds coupons with the click of a button.&#160;&#10;&#10;With the release of the new FNAF book, it was time to dive back into the land of FNAF Theory! All FNAF, all the time! In all seriousness, this new set of stories could be a GAME CHANGER for what we know about the animatronics and how they were made. It looks like Purple Guy may have been CRAZIER than we thought - how is that even possible?! Get ready, Theorists! We are making FNAF even SCARIER!&#10;&#10;Find the game here &#9658; http://www.scottgames.com/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself some Theory Wear!! &#9658; https://bit.ly/2N1m7V7&#160;&#160;&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#160;&#10;&#10;#FNAF #FNAFTheory #FiveNightsAtFreddys #Scary #Horror #FNAFBooks #FNAFTimeline #Theory #GameTheory&#160;&#10;&#10;More THEORIES:&#160;&#10;Boneworks, He Never Died &#9658; https://youtu.be/bqY0_ZeHs8k&#160;&#10;Duck Season's Dog UNMASKED!&#160;&#9658; https://youtu.be/_0fX0WNMMUo&#160;&#10;The Scariest Game You'll NEVER Play!&#160;&#9658; https://youtu.be/oC88jsc-wpg&#160;&#10;Would YOU Stay Blind?&#160;&#9658; https://youtu.be/-dGkkMdIwOc&#160;&#10;The Tragic Mystery of Pokemon's Ghost Girl&#160;&#9658; https://youtu.be/0ju3V6IYKM4&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi,&#160;Forrest Lee,&#160;Tyler Mascola, and&#160;Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2881,7 +2881,7 @@ graph
     commentcount 32541
     duration "PT20M55S"
     indegree 75
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 23825
     duration "PT15M41S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 19288
     duration "PT18M18S"
     indegree 41
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2925,7 +2925,7 @@ graph
     label "Ow3bMlScrzs"
     step 0
     date "2021-06-06T19:05:06Z"
-    title "Game Theory: You&#38;#39;re WRONG About Ash&#38;#39;s Pikachu! (Pokemon)"
+    title "Game Theory: Yous Pikachu! (Pokemon)"
     description "SUBSCRIBE to Never Miss A Game Theory! &#9658; https://goo.gl/kQWHkJ&#160; &#10;&#160; &#160; &#160; &#160;&#10;Today is the day, Theorists! The day that I, once and for all, prove that Ash's Pikachu is WEAK! That's right! There is no Level 100 here. Throughout the anime, Pikachu has proved to not be as strong of a contender as we were led to&#160;believe. Let's get into the evidence!&#10;&#10;Pikachu's Battles &#9658; https://docs.google.com/spreadsheets/d/1DT_UL0qLCup_dTfHh5RZthUOCBQCTlPttKxPhcpEWPI/edit?usp=sharing&#10;&#10;Find the game here &#9658; https://www.nintendo.com/games/detail/pokemon-shining-pearl-switch/&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160;&#10; &#160;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Pokemon #AskKetchum #Pikachu #PokemonSnap&#160;#PokemonTheory #PokemonSword #PokemonShield #PokemonDiamon #PokemonPearl #Theory&#160;#MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Tom Robinson&#10;Editors:&#160;Tyler Mascola,&#160;Forrest Lee and&#160;Thomas Torbergsen&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -2935,7 +2935,7 @@ graph
     commentcount 13336
     duration "PT15M23S"
     indegree 18
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 38672
     duration "PT12M58S"
     indegree 4
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2971,7 +2971,7 @@ graph
     commentcount 15124
     duration "PT21M34S"
     indegree 36
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 44273
     duration "PT18M41S"
     indegree 34
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 15807
     duration "PT11M39S"
     indegree 7
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3015,7 +3015,7 @@ graph
     label "BgYzOLQ8sU8"
     step 0
     date "2017-08-15T19:55:16Z"
-    title "Game Theory: Gaming&#38;#39;s Biggest Mystery SOLVED! | Half Life G MAN Theory"
+    title "Game Theory: Gamings Biggest Mystery SOLVED! | Half Life G MAN Theory"
     description "SUBSCRIBE to Catch all the Theories &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Super Mario Maker DWARFS Our UNIVERSE! &#9658; https://goo.gl/C8YNiG&#10;How LOGAN PAUL Conquered YouTube! &#9658; https://goo.gl/wU5yVZ&#10;&#10;HALF-LIFE is one of the most prolific &#38; beloved game franchises of all time, but it&#8217;s also known for one of Gaming's most enigmatic characters: The G-MAN. Seriously, who is this creepy suit that can transcend time, space, and our known dimensions?! Well after some grueling research into the depths of Half-Life lore, I have discovered the G-Man's True Identity, and it will shock you!&#10;&#10;SUBSCRIBE to Catch all the Theories &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;The TRUTH Behind Fire Pokemon! &#9658;&#9658; https://goo.gl/ayrokB&#10;Nuggets Can SAVE YOUR LIFE! | Kindergarten &#9658; https://goo.gl/oz7ers&#10;Super Mario Odyssey&#8217;s GIANT Problem! &#9658; https://goo.gl/GZjdz6&#10;Luigi Is INSANELY RICH! &#9658;&#9658; https://goo.gl/d532Tk&#10;MARIO is MENTAL! (Part 1) &#9658;&#9658; https://goo.gl/NJD58Z&#10;My SECRET IS OUT! | Global Gamer &#9658;&#9658; https://goo.gl/d6I9d8&#10;WHO is W.D. Gaster? | UNDERTALE &#9658;&#9658; https://goo.gl/IKTozR&#10;We SOLVED Dark Souls 3! &#9658;&#9658; http://bit.ly/2nXzCuc&#10;We Were WRONG about The BITE! | FNAF &#9658; https://goo.gl/kWX6t7 &#10;&#10;Check out some more of our awesome video game content: &#10;&#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3025,7 +3025,7 @@ graph
     commentcount 28481
     duration "PT15M13S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 22081
     duration "PT11M53S"
     indegree 25
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 28676
     duration "PT17M18S"
     indegree 21
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount -1
     duration "PT1H7M8S"
     indegree 10
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 15475
     duration "PT14M18S"
     indegree 25
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3123,7 +3123,7 @@ graph
     label "X_93Z1X0rbU"
     step 0
     date "2018-02-04T22:04:22Z"
-    title "Game Theory: FNAF 6, What was in the BOX? (FNAF 6, Freddy Fazbear&#38;#39;s Pizzeria Simulator)"
+    title "Game Theory: FNAF 6, What was in the BOX? (FNAF 6, Freddy Fazbears Pizzeria Simulator)"
     description "GT Shirts: ONLY A FEW LEFT!!! &#9658; https://creatormash.com/&#10;Announcement about MORE HOODIES coming NEXT WEEK!&#10;&#10;For two years, one mystery has continued to linger over the FNAF franchise -- what was in the box? In FNAF 4, the final image is a locked box with the message &#34;Some things are best left forgotten for now.&#34; But with the series over, now is the time to answer...WHAT WAS IN IT? Well, it's not all that easy to answer. Because it's my theory, my FNAF theory, that the contents of the box have changed three times. So what was meant to be in FNAF 4's box vs what ended up in it when the credits rolled in FNAF 6? I think we've already seen the solution!&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Hello Neighbor's Satanic Plot &#9658;&#9658; http://bit.ly/2mXQ6R1&#10;Loot Boxes Hack Your Brain! (Pt 1) &#9658;&#9658; https://goo.gl/6P8vgy&#10;Scariest Game You Won't Play | Petscop &#9658; http://bit.ly/2ksowKB&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2zdlS3M&#10;How Bendy Will END! &#9658;&#9658;&#9658; https://goo.gl/hGeBMo&#10;Super Mario BETRAYED?! &#9658;&#9658; https://goo.gl/NpsRVz&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3133,7 +3133,7 @@ graph
     commentcount 35713
     duration "PT18M13S"
     indegree 43
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3151,7 +3151,7 @@ graph
     commentcount 9948
     duration "PT15M12S"
     indegree 6
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 17077
     duration "PT14M59S"
     indegree 18
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -3177,7 +3177,7 @@ graph
     label "7Ju4sEMqZmM"
     step 0
     date "2018-03-17T17:02:08Z"
-    title "Game Theory:  Petscop - The GHOST Inside a HAUNTED Game"
+    title "Game Theory: Petscop - The GHOST Inside a HAUNTED Game"
     description "The Hidden HORRORS Behind Petscop &#9658; http://bit.ly/2IiqlES&#10;Petscop- The Scariest Game You'll NEVER Play! &#9658;&#9658; http://bit.ly/2HlsVbM&#10;Subscribe to never miss a theory! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;What would you do if you were trapped in a game? Not like Jumanji - where you can escape or people can help you. But trapped in a game with no exit. Re-living your worst actions over and over and over. Today Theorists, were are getting to the heart of what Petscop really is - not a game but a PRISON.&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Portal's Companion Cube has a Dark Secret &#9658;&#9658; http://bit.ly/1GDNC0N&#10;Duck Season's KILLER DOG... Unmasked! &#9658; http://bit.ly/2trS1E4&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Cuphead's SINFUL SECRET Business! &#9658; http://bit.ly/2Hk68gA&#10;Hello Neighbor - The DEVIL is in the Details! &#9658;&#9658;http://bit.ly/2HhXXS3&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2Cg0b5T&#10;How Bendy Will END! &#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;#Petscop #PetscopTheory #Creepy #Scary #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3187,7 +3187,7 @@ graph
     commentcount 21548
     duration "PT16M42S"
     indegree 17
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 28020
     duration "PT14M30S"
     indegree 42
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 6789
     duration "PT1H7M9S"
     indegree 8
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3231,7 +3231,7 @@ graph
     label "aFqhMWLLSyo"
     step 0
     date "2022-05-11T23:00:20Z"
-    title "Don&#38;#39;t RUN From Mommy... | Poppy Playtime Chapter 2"
+    title "Dont RUN From Mommy... | Poppy Playtime Chapter 2"
     description "Get Your TheoryWear! &#9658; https://theorywear.com/&#10;&#10;It's time to dive back into the horrors of our playthrough of Poppy Playtime Chapter 2! What secrets will we uncover? Time to find out!&#10;&#10;The game &#9658; https://store.steampowered.com/app/1817490/Poppy_Playtime__Chapter_2/&#10;&#10;Check out the Reddit! &#9658;&#9658; https://www.reddit.com/r/GameTheorists/  &#10;&#10;Subscribe to GTLive! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;&#10;0:00 - The Witty Banter&#10;7:34 - Oh THAT'S the game...&#10;2:05:43 - The Witty Wrap up&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/GTLive&#10;&#10;#PoppyPlaytime #PoppyPlaytimeChapter2 #PoppyPlaytimeChapter1 #HuggyWuggy #MommyLongLegs #Huggy #GTLive #MatPat #GameTheory&#10;&#10;Subscribe &#38; hang out with me! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;Follow us on Twitter at @MatPatGT and #GTLive"
     channeltitle "GTLive"
     channelid "UCAaegDUlb7doIKo0Rc1F08g"
@@ -3259,7 +3259,7 @@ graph
     commentcount 59229
     duration "PT16M18S"
     indegree 3
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3277,7 +3277,7 @@ graph
     commentcount 6755
     duration "PT17M22S"
     indegree 13
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 7745
     duration "PT18M52S"
     indegree 24
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3303,7 +3303,7 @@ graph
     label "0ju3V6IYKM4"
     step 0
     date "2019-06-01T18:05:52Z"
-    title "The Tragic Mystery of Pokemon&#38;#39;s Ghost Girl (Pokemon) | Game Theory"
+    title "The Tragic Mystery of Pokemons Ghost Girl (Pokemon) | Game Theory"
     description "One of the most mysterious, unanswered questions in the Pokemon games is &#34;Who is the Ghost Girl&#34;? Throughout some of the games you come across ghost girls who disappear with no explanation. Super creepy when you are just a kid trying to play a game about cute little pocket monsters being forced into unending battles for your entertainment. Anyways, for as much as these ghosts have popped up throughout the game's history, there is little known about the lore. So today, Loyal Theorists, I am about to uncover the mystery of Pokemon's Ghost Girl!&#10;&#10;Our thumbnail is a modified version of this image by Resw0b on DeviantArt &#9658; https://www.deviantart.com/resw0b/art/Hypno-335255657 &#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Pokemon #PokemonTheory #GhostGirl #PokemonBlackAndWhite #Hypno #GameTheory&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper  &#10;Editors: Dan &#34;Cybert&#34; Seibert, Marc Schneider, and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3313,7 +3313,7 @@ graph
     commentcount 21764
     duration "PT14M28S"
     indegree 27
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3331,7 +3331,7 @@ graph
     commentcount 7650
     duration "PT6M30S"
     indegree 5
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 34377
     duration "PT14M43S"
     indegree 25
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 31378
     duration "PT17M56S"
     indegree 62
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3385,7 +3385,7 @@ graph
     commentcount 10526
     duration "PT15M48S"
     indegree 17
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3393,7 +3393,7 @@ graph
     label "yhucShIRTcw"
     step 0
     date "2020-05-16T18:05:06Z"
-    title "Game Theory: Yoshi&#38;#39;s Identity Crisis! What is a Yoshi?"
+    title "Game Theory: Yoshis Identity Crisis! What is a Yoshi?"
     description "Pre-Order Your BRAND NEW Theory Wear Now! &#9658; http://creatorink.co/theorywear1 &#10;I want you to know that while pre-orders mean you may have to wait a bit longer for your order, it ensures that every Theorists who wants a merch item can get one and it helps keep the people making our merch safe!&#10;&#10;What is a Yoshi? The answer is not as easy as you may think. See, most people call Yoshi a dinosaur and that is really only the beginning. Our green friend would have had to go through YEARS of evolution to end up where he is today! Today Theorists, we are cutting him open and figuring out once and for all what EXACTLY is a Yoshi!&#10;&#10;Find the game here &#9658; https://www.nintendo.com/games/detail/yoshis-crafted-world-switch/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6   &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz &#10;&#10;#Yoshi #Mario #Nintendo #SuperMario #SuperMarioBros #SuperMarioWorld #PaperMario #PaperMario2 #Luigi #Wario #Waluigi #Theory #GameTheory   &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Alan Baker&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi, Tyler Mascola, Forrest Lee, and Alex &#34;Sedge&#34; Sedgwick&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://rankedboost.com/super-smash-bros/yoshi/ &#10;https://www.mobygames.com/game/snes/super-mario-world-2-yoshis-island/cover-art/gameCoverId,20539/&#10;https://wiki2.org/en/Mario_%26_Sonic_at_the_Olympic_Games_Tokyo_2020&#10;https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAAE.pdf&#10;https://www.suppermariobroth.com/post/183299663120/in-super-mario-world-this-ledge-in-the-center-of&#10;https://vignette.wikia.nocookie.net/brutalmario/images/0/05/LargeRex.gif/revision/latest?cb=20150617074435&#10;http://www.prehistoric-wildlife.com/species/c/ceratosaurus.html&#10;https://www.thinglink.com/scene/583409781968994305&#10;https://www.biologicaldiversity.org/species/invertebrates/ &#10;https://www.fs.fed.us/rm/pubs_rm/rm_gtr264/rm_gtr264_267_273.pdf&#10;https://twitter.com/blakejharrisNYC/status/496780367538302976/photo/1&#10;http://www.prehistoric-wildlife.com/species/d/dilophosaurus.html&#10;https://www.livescience.com/3704-fossil-solves-mystery-dinosaur-finger-evolution.html &#10;https://ucmp.berkeley.edu/dilophosaur/closeup.html&#10;https://wiki2.org/en/Super_Mario_World_2:_Yoshi%27s_Island+Newton&#10;https://www.gamepedia.wiki/images/feature-images/7126-yoshi_captured_render__super_mario_odyssey__by_nintega_dario-dbrx93t"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3403,7 +3403,7 @@ graph
     commentcount 16985
     duration "PT19M35S"
     indegree 40
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 7058
     duration "PT16M40S"
     indegree 13
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount 8674
     duration "PT15M55S"
     indegree 17
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 117
     duration "PT15M37S"
     indegree 16
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3465,7 +3465,7 @@ graph
     label "bhG7LwssoNc"
     step 0
     date "2018-03-03T18:20:51Z"
-    title "Game Theory: How DEADLY Is Super Mario&#38;#39;s Bob-Omb?"
+    title "Game Theory: How DEADLY Is Super Marios Bob-Omb?"
     description "Mario's LUNAR APOCALYPSE!! &#9658;&#9658; http://bit.ly/2FRgd4Y&#10;How Deadly is Super Mario's Bullet Bill? &#9658;&#9658; http://bit.ly/2FhaN5J&#10;Subscribe to never miss a theory! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;We've told you about Mario. We've told you about Luigi, and Peach, and Kirby. We've told you A LOT about Nintendo over the years. But now, loyal Theorists, we turn to something new; something old; something EXPLOSIVE!! Today we are going to find out just how DEADLY is Bob-Omb!!&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Super Mario BETRAYED?! &#9658;&#9658; http://bit.ly/2zCM6v4&#10;KSI vs Logan Paul? Who Would Win?! &#9658;&#9658; http://bit.ly/2EPdhVl&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Loot Boxes Hack Your Brain! (Pt 1) &#9658;&#9658; http://bit.ly/2EZ4BPA&#10;Scariest Game You Won't Play | Petscop &#9658; http://bit.ly/2CFzDXF&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2Cg0b5T&#10;How Bendy Will END! &#9658;&#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3475,7 +3475,7 @@ graph
     commentcount 19592
     duration "PT16M3S"
     indegree 27
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3483,7 +3483,7 @@ graph
     label "yxgVelGoK7c"
     step 0
     date "2022-07-07T19:00:33Z"
-    title "Roblox&#38;#39;s TERRIFYING Backrooms Game | Apeirophobia"
+    title "Robloxs TERRIFYING Backrooms Game | Apeirophobia"
     description "Get Your TheoryWear! &#9658; https://theorywear.com/&#10;&#10;Theorists, we've found the SCARIEST Roblox and Backrooms crossover ever, and it's called Apeirophobia. This thing is full of puzzles, jump scares, and of course, LORE!!! Strap on in, friends, and let's try and get through this never ending horror game...&#10;&#10;The game &#9658; https://www.roblox.com/games/9508087919/Apeirophobia-The-End-UPDATE&#10;&#10;Check out the Reddit! &#9658;&#9658; https://www.reddit.com/r/GameTheorists/  &#10;Subscribe to GTLive! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;&#10;0:00 - The Cringey Banter&#10;10:46 - the mat and ash zest fest&#10;49:54 - The Witty Wrap up&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/GTLive&#10;&#10;#roblox #backrooms #apeirophobia  #GTLive #MatPat #GameTheory&#10;&#10;Subscribe &#38; hang out with me! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;Follow us on Twitter at @MatPatGT and #GTLive"
     channeltitle "GTLive"
     channelid "UCAaegDUlb7doIKo0Rc1F08g"
@@ -3493,7 +3493,7 @@ graph
     commentcount 1603
     duration "PT51M59S"
     indegree 9
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3501,7 +3501,7 @@ graph
     label "uhgMZ8w9lb8"
     step 0
     date "2017-11-06T02:19:26Z"
-    title "Game Theory: FNAF, The FINAL Theory! (Five Nights at Freddy&#8217;s) - pt 2"
+    title "Game Theory: FNAF, The FINAL Theory! (Five Nights at Freddys) - pt 2"
     description "Missed Part 1? Here it is! &#9658;&#9658; http://bit.ly/2lIYJRX&#10;How Bendy Will END! &#9658;&#9658;&#9658; https://goo.gl/hGeBMo&#10;SUBSCRIBE for no apparent reason &#9658;&#9658; http://bit.ly/1qV8fd6&#10;&#10;Here it is...the end of an era. Three years and almost twenty theories, but I think I have it. I think I've SOLVED FNAF. When you look at the timeline of events, all the major questions of the franchise start to make sense -- Who is inside Springtrap? Was FNAF 4 in 1983 or 1987? Where is Chica in Sister Location? What's the deal with Balloon Boy? So I went back and mapped out EVERY event to create the FINAL FNAF theory...answering all the lingering questions from the series and setting things up for Scott to eventually release FNAF 6. We all know it's coming so why resist?&#10;&#10;SUBSCRIBE to Catch all the Theories &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;Metal Gear Solid ISN'T REAL! &#9658;&#9658; https://goo.gl/dLL5Ht&#10;We SOLVED Zelda&#8217;s Timeline! &#9658;&#9658; https://goo.gl/8UdEmL&#10;I Want to Be the Devil! | Hello Neighbor &#9658;&#9658; https://goo.gl/3JC6ig&#10;This is TRAGIC! | Petscop &#9658;&#9658; https://goo.gl/mVDSkD&#10;The G-Man's IDENTITY REVEALED! &#9658;&#9658; https://goo.gl/o6QCJn&#10;Super Mario Odyssey&#8217;s GIANT Problem! &#9658; https://goo.gl/GZjdz6&#10;Luigi Is INSANELY RICH! &#9658;&#9658; https://goo.gl/d532Tk&#10;&#10;Check out some more of our awesome video game content: &#10;&#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3511,7 +3511,7 @@ graph
     commentcount 50336
     duration "PT19M7S"
     indegree 38
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 12094
     duration "PT16M5S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3537,7 +3537,7 @@ graph
     label "L_2GICgTPeo"
     step 0
     date "2019-05-05T18:05:14Z"
-    title "Game Theory: Why Ridley is Smash&#38;#39;s Deadliest Fighter! (Super Smash Bros Ultimate)"
+    title "Game Theory: Why Ridley is Smashs Deadliest Fighter! (Super Smash Bros Ultimate)"
     description "SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;The Super Smash Bros franchise has so many characters with so many INSANE moves that I started to wonder - what move is the deadliest move in SSBU? Well Loyal Theorists, today we have a serious contender. Enter Ridley, the dragon so big he almost never made it into Smash Bros. Today we are seeing how much damage Ridley's drag, on the right level, would cause to his opponent. Is Ridley the deadliest character in SSBU? Let's find out!&#10;&#10;Get your NEW Theory Wear today! &#9658; http://bit.ly/2Taok30&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#SuperSmashBrosUltimate #SSBU #SmashBros #Ridley #Nintendo #Switch #GameTheory &#10;&#10;More THEORIES:&#10;Mario Maker BIGGER than the UNIVERSE! &#9658; https://bit.ly/2CFNilS&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;How BAD is Mario's Blue Shell? &#9658;&#9658; https://bit.ly/2BfFlUK&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;Luigi - Secret MILLIONAIRE?? &#9658; https://bit.ly/2CEkk15&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors: Marc Schneider, Dan &#34;Cybert&#34; Seibert, and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;Community Game video: https://www.youtube.com/watch?v=LOWK8vQsW4s&#38;t=250s&#10;Aaron Vo video: https://www.youtube.com/watch?v=1aCZrQiLmEU&#10;https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAABE.pdf&#10;https://en.wikipedia.org/wiki/Normal_force&#10;https://knowyourmeme.com/memes/ridley-is-too-big&#10;https://metroid.retropixel.net/gallery.php?gallery_id=m2_manual&#38;image_id=8&#10;https://www.mcgearhub.com/wp-content/uploads/2017/08/A-photograph-showing-a-pair-of-Alpinestars-SMX-v2-Air-Carbon-gloves-that-were-destroyed-in-a-motorcycle-crash-and-which-had-the-rider-sustaining-extreme-road-rash-in-his-hands.jpg&#10;https://www.mcgearhub.com/mc-gear-crash-tested/alpinestars-smx-2-air-carbon-gloves-crash-review-report/&#10;https://en.wikipedia.org/wiki/TNT_equivalent#Examples"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3547,7 +3547,7 @@ graph
     commentcount 25661
     duration "PT19M57S"
     indegree 57
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3565,7 +3565,7 @@ graph
     commentcount 8708
     duration "PT15M40S"
     indegree 14
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 963
     duration "PT12M16S"
     indegree 6
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3591,7 +3591,7 @@ graph
     label "s_dp2mBrqr0"
     step 0
     date "2018-01-28T19:12:30Z"
-    title "Game Theory: FNAF 6, No More Secrets (FNAF 6, Freddy Fazbear&#38;#39;s Pizzeria Simulator)"
+    title "Game Theory: FNAF 6, No More Secrets (FNAF 6, Freddy Fazbears Pizzeria Simulator)"
     description "Get Your Game Theory Merch Now! &#9658; https://creatormash.com/&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6&#10;Duck Season&#8217;s DOG REVEALED! &#9658;&#9658; https://goo.gl/awYTzy&#10;&#10;I know I said the last FNAF episode was the last FNAF theory, But every time I think I've finished the FNAF theories, Scott releases a new game. It's like he's just sitting around with these finished games waiting for my theory to come out, then bam - he releases the new game. So you can probably expect FNAF 7 sometime next month.&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Hello Neighbor's Satanic Plot &#9658;&#9658; http://bit.ly/2mXQ6R1&#10;Loot Boxes Hack Your Brain! (Pt 1) &#9658;&#9658; https://goo.gl/6P8vgy&#10;Scariest Game You Won't Play | Petscop &#9658; http://bit.ly/2ksowKB&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2zdlS3M&#10;How Bendy Will END! &#9658;&#9658;&#9658; https://goo.gl/hGeBMo&#10;Super Mario BETRAYED?! &#9658;&#9658; https://goo.gl/NpsRVz&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3601,7 +3601,7 @@ graph
     commentcount 65414
     duration "PT23M46S"
     indegree 76
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3637,7 +3637,7 @@ graph
     commentcount 9738
     duration "PT16M33S"
     indegree 45
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3645,7 +3645,7 @@ graph
     label "leTOy75OD5w"
     step 0
     date "2017-04-29T19:22:30Z"
-    title "Game Theory: FNAF, We were WRONG about the Bite (Five Nights at Freddy&#38;#39;s)"
+    title "Game Theory: FNAF, We were WRONG about the Bite (Five Nights at Freddys)"
     description "Subscribe for more FNAF! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;My 1st FNAF Theory! &#9658;&#9658; http://bit.ly/1Waxf2U&#10;&#10;All this time, I've been doing lore-based theories on FNAF, trying to piece together clues about the Purple Guy, the missing children, the Crying Child, Psychic Friend Fredbear. But today, I'm tackling the series from a different angle -- an old-school angle. Today, I'm looking at the SCIENCE of Five Nights at Freddy's, to see whether n animatronic would really have the BITING power necessary to break through bone. Could the bite we see in FNAF 4 really happen? Or is there something more sinister going on in the walls of Fredbear's Family Diner? &#10;&#10;More FNAF Theories:&#10;FNAF 1-4 DECODED LIVE &#9658; http://bit.ly/2aiTgrW&#10;FNAF Mysteries SOLVED &#9658; http://bit.ly/2el0LCT&#10;FNAF's SCARIEST Monster is You! &#9658; http://bit.ly/2dtbqa4&#10;&#10;Other SCARY THEORIES:&#10;HACKERS are EVERYWHERE! &#9658;&#9658; http://bit.ly/2dLRU9T&#10;You're NOT SAFE! (Watch Dogs Pt 1) &#9658;&#9658; http://bit.ly/2cZ63UK&#10;Tips for Surviving the Zombie Apocalypse &#9658; http://bit.ly/2d2pNlR&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; https://creatorink.com/theorywear&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;Sources:&#10;Withered Fredbear model for thumbnail by Mathieulebest on DeviantArt &#9658; http://mathieulebest.deviantart.com/art/Withered-FredBear-549518028&#10;&#10;Freddy Model Made by MasterWolfe, https://www.deviantart.com/mastiwolfe"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3655,7 +3655,7 @@ graph
     commentcount 44699
     duration "PT16M21S"
     indegree 41
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 20213
     duration "PT16M11S"
     indegree 44
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3681,7 +3681,7 @@ graph
     label "jxU0UalndcI"
     step 0
     date "2019-10-26T17:07:11Z"
-    title "Game Theory: The Tragic Story of Minecraft&#38;#39;s Zombie Pigmen (Piglins)"
+    title "Game Theory: The Tragic Story of Minecrafts Zombie Pigmen (Piglins)"
     description "Donate and get involved&#160;now! &#9658;&#160;https://teamtrees.org/   &#10;SUBSCRIBE to never miss a Theory! &#9658; http://bit.ly/1qV8fd6&#10;&#10;Minecraft keeps on giving. Today I want to talk about Minecraft's Zombie Pigmen. What are these weird Nether dwelling creatures? I am continuing my journey through the mysterious history of the Minecraft World to find out! They seem to be connected to EVERYTHING! Creepers, Villagers, regular pigs - everything! What does this mean? Grab your pickaxe, Theorists! It's time to mine for&#160;some lost lore!&#10;&#10;Get the game here &#9658;&#9658; https://www.minecraft.net/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6 &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Minecraft #ZombiePigmen #Pigmen #Piglin #Zombie #Piglins #MinecraftLore #MinecraftTheory #Theory #GameTheory #TeamTrees&#10;&#10;More THEORIES:&#10;The TRUTH About MINECRAFT&#8217;s World! &#9658;&#9658; https://goo.gl/XySv1N&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Editors:&#160;Tyler Mascola,&#160;Dan &#34;Cybert&#34; Seibert, and&#160;Alex &#34;Sedge&#34; Sedgwick&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://twitter.com/notch/status/28832121068&#10;https://twitter.com/notch/status/62531431175421952&#10;https://minecraft-el.gamepedia.com/Nether_fortress#Structure&#10;https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle&#10;https://en.wikipedia.org/wiki/Lycoperdon_perlatum"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3691,7 +3691,7 @@ graph
     commentcount 28194
     duration "PT18M7S"
     indegree 58
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 84507
     duration "PT18M16S"
     indegree 18
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3717,7 +3717,7 @@ graph
     label "zi4i6e99Z1k"
     step 0
     date "2015-11-24T23:48:15Z"
-    title "Game Theory: Until Dawn&#38;#39;s TRAGIC Hero"
+    title "Game Theory: Until Dawns TRAGIC Hero"
     description "Join the Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Like Until Dawn? Watch me PLAY IT! &#9658;&#9658; http://bit.ly/1XdnvWm &#10;&#10;Until Dawn is all about making sure you make the right choices to make it out alive... But what if the most important character in the game is the only one who gets NO CHOICE in whether they live or die. What does that mean for you playing the game? What does that say about the game itself? Get ready for a completely new understanding of Until Dawn! (plus a few spoilers!)&#10;&#10;Become a Theorist! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;We're playing games on GTLive!  &#9658;&#9658; http://bit.ly/1LkSBnz&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Scary Theories:&#10;Call of Duty Should Terrify You &#9658; http://bit.ly/1stq1Hs&#10;Portal's Gruesome Secret &#9658; http://bit.ly/1INZIWj&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;Check out some more of our awesome video game content:&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA&#10;&#10;For business inquiries: gametheorist.business@gmail.com"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3727,7 +3727,7 @@ graph
     commentcount 20822
     duration "PT14M13S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 58613
     duration "PT13M26S"
     indegree 23
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3753,7 +3753,7 @@ graph
     label "1D_XCVzg86g"
     step 0
     date "2021-03-04T21:05:22Z"
-    title "The Secret Horror Behind Carrion&#38;#39;s Monster | The SCIENCE of... Carrion"
+    title "The Secret Horror Behind Carrions Monster | The SCIENCE of... Carrion"
     description "SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160;&#160;&#10;&#10;What's more fun than playing as a monster bent on eating humanity? Well, not much, but today Austin is going to try to top it! The monster you play in Carrion is often assumed to be an alien brought into this facility. Yet, there are many gruesome&#160;hints throughout the game that may prove we have all been too quick with our guesses. That's right, the origins of this monster are much more Earthly... and much more horrible. Take it away, Austin!&#10;&#10;Join The SCIENCE on Patreon &#9658; https://www.patreon.com/theSCIENCEyt&#10;Want to join in the SCIENCE discussion? Head to &#9658;&#9658; discord.gg/theSCIENCE&#160;&#160;&#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation! &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon! &#9658;&#9658; https://bit.ly/2JCwEHP&#10;&#10;#Carrion #Monstor #Science #TheScience #CarrionExplained #CarrionTrailer #Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3763,7 +3763,7 @@ graph
     commentcount 5684
     duration "PT16M50S"
     indegree 7
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 6659
     duration "PT13M6S"
     indegree 8
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 28025
     duration "PT21M6S"
     indegree 61
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3817,7 +3817,7 @@ graph
     commentcount 22341
     duration "PT14M9S"
     indegree 36
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3825,7 +3825,7 @@ graph
     label "uZnJNgx3gUU"
     step 0
     date "2020-09-12T18:05:03Z"
-    title "Game Theory: FNAF, We Solved Golden Freddy! (Five Nights At Freddy&#38;#39;s)"
+    title "Game Theory: FNAF, We Solved Golden Freddy! (Five Nights At Freddys)"
     description "Special thanks to Audible for sponsoring this episode! &#160;&#10;Get get a 30-day trial of&#160;Audible today! &#9658; https://audible.com/matpat&#10;or text MATPAT to 500-500&#160;&#160;&#10;&#10;Yes, it's time to talk about FNAF lore... again! Theorists, today we are solving one of the BIGGEST mysteries in the Five Nights At Freddy's universe - Golden Freddy. I know I've talked at length about our favorite golden animatronic bear, but here me out. The newest Fazbear Frights book CONFIRMED it! It's time to uncover the SOULS stuck inside Golden Freddy!&#10;&#10;Don't forget to Subscribe to Food Theory! &#9658;&#160;https://bit.ly/2CdCooV&#160;&#160;&#10;&#10;Find the game here &#9658; http://www.scottgames.com/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself&#160;some Theory Wear!! &#9658;&#160;http://creatorink.co/theorywear1&#160;&#160;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#160;&#10;&#10;#FNAF #FiveNightsAtFreddys #GoldenFreddy #FNAFVR #SisterLocation #FNAFBooks #FNAFTheory &#160;&#160;#MatPat #Theory #GameTheory&#160;&#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Editors: Pedro Freitas,&#160;Alex &#34;Sedge&#34; Sedgwick, and&#160;Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3835,7 +3835,7 @@ graph
     commentcount 38717
     duration "PT18M28S"
     indegree 46
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3843,7 +3843,7 @@ graph
     label "LjYvIsNBKbg"
     step 0
     date "2021-05-13T19:05:35Z"
-    title "Pokemon&#38;#39;s Biggest Scandal SOLVED! Who&#38;#39;s Ash&#38;#39;s Father? | The SCIENCE of... Pokemon"
+    title "Pokemons Father? | The SCIENCE of... Pokemon"
     description "SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160;&#160;&#10;&#10;It's happening. Theorists, today Austin is going to uncover the truth of the biggest scandal in Pokemon history. Who is the FATHER of Ash Ketchum? This has long been debated in the community. Well, with the help of SCIENCE, we are finally going to pin down this missing father. It is time to find Daddy Ketchum!&#10;&#10;Thanks to MadeByTio for letting us use his comic! &#9658;&#160;https://www.instagram.com/madebytio/&#10;&#10;Join The SCIENCE on Patreon &#9658; https://www.patreon.com/theSCIENCEyt&#10;Want to join in the SCIENCE discussion? Head to &#9658;&#9658; https://discord.gg/theSCIENCE&#160;&#160;&#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation! &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon! &#9658;&#9658; https://bit.ly/2JCwEHP&#10;&#10;#Pokemon #AskKetchum #Pikachu #PokemonSnap&#160;#PokemonTheory #PokemonSword #PokemonShield #Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3853,7 +3853,7 @@ graph
     commentcount 10629
     duration "PT18M14S"
     indegree 20
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3861,7 +3861,7 @@ graph
     label "ILvxrQr5nVI"
     step 0
     date "2017-05-28T21:49:30Z"
-    title "Game Theory: How Bendy EXPOSES Disney&#38;#39;s Cartoon CONSPIRACY (Bendy and the Ink Machine)"
+    title "Game Theory: How Bendy E tongue sticking out OSES Disneys Cartoon CONSPIRACY (Bendy and the Ink Machine)"
     description "Get VRV ad-free for 30 days &#9658; http://bit.ly/2rg6RIR&#10;Special thanks to VRV for partnering with us for this episode!&#10;&#10;Wanna be a member? JOIN &#9658;&#9658; http://tinyurl.com/mrd2ntg&#10;&#10;THIS WEEKEND ONLY, if you go to http://www.vrv.co/matpat or click the link in the description, you can get the VRV Combo Pack, where Loyal Theorists can get a free trial of their first access, ad-free service for 30 days. Test it out, see what you think. I really like their service!&#10;&#10;Bendy and the Ink Machine! I am SO excited about this game. The world of Bendy is a throwback to the earliest days of cartoon animation. I love the look and feel -- but most of all, I love the MYSTERY. You see, Bendy and the Ink Machine is a game with a lot under the surface. With only Chapter 2 out and Chapter 3 still a month or two away, I was afraid there wouldn't be enough to do a theory on Bendy. Buy, was I wrong. Because when you actually look at characters like Bendy, Boris, and Alice, you start to see parallels to some of the most famous cartoons in history, and you start to piece together a dark truth about the early days of animation. You learn about Disney's conspiracy theory to be the pioneer of a new age of animation...at the expense of perhaps some of the most innovative cartoonists of all time. THAT is the SECRET story of BENDY! &#10;&#10;Watch me play Bendy and the Ink Machine LIVE!&#10;&#9658;&#9658; https://www.youtube.com/watch?v=UJwTCXi3Fv0&#10;&#10;If you like Bendy, then you'll LOVE Hello Neighbor! So check out my Hello Neighbor episodes:&#10;Hello Neighbor's SATANIC plot &#9658;&#9658; http://bit.ly/2hyK9cB&#10;Hello Neighbor's Secret Conspiracy &#9658;&#9658; http://bit.ly/2qpV7Xf&#10;&#10;Bendy, it's a lot like FNAF! So check out some FNAF Theories:&#10;FNAF 1-4 DECODED LIVE &#9658; http://bit.ly/2aiTgrW&#10;FNAF Mysteries SOLVED &#9658; http://bit.ly/2el0LCT&#10;FNAF's SCARIEST Monster is You! &#9658; http://bit.ly/2dtbqa4&#10;&#10;And finally, JOIN THE THEORISTS!&#10;Wanna be a member? &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Twitter: @MatPatGT&#10;Instagram: @MatPatGT&#10;Facebook: facebook.com/GameTheorists"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3871,7 +3871,7 @@ graph
     commentcount 25791
     duration "PT17M21S"
     indegree 14
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 7738
     duration "PT13M54S"
     indegree 30
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 90329
     duration "PT18M12S"
     indegree 36
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3915,7 +3915,7 @@ graph
     label "_43jzh7H1d4"
     step 0
     date "2018-07-15T18:06:34Z"
-    title "Game Theory: Ash&#38;#39;s Age FINALLY Solved! (Pokemon)"
+    title "Game Theory: Ashs Age FINALLY Solved! (Pokemon)"
     description "Subscribe to never miss a theory! &#9658; http://bit.ly/1qV8fd6 &#10;What is Ash Ketchum's REAL Age? &#9658; https://bit.ly/2KSmJKx  &#10;How RICH is a Pokemon Master? &#9658;&#9658; https://bit.ly/2JlD4do&#10;&#10;This is it Theorists, the FINAL ANSWER on the &#34;age old&#34; mystery that has haunted Pokemon fans for years! Ha, see what I did there? All of that binge watching has finally paid off! Today we solve Pokemon's BIGGEST mystery, how old is Ash Ketchum?&#10;&#10;Find the game here! &#9658; https://pokemonletsgo.pokemon.com/en-us/&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;The Pokedex is FULL OF LIES! &#9658;&#9658; https://bit.ly/2rRhfHW&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;The TRUTH of Fire Pokemon &#9658;&#9658; https://bit.ly/2GuXuLl&#10;Humans are Pokemon? &#9658; https://bit.ly/1rgbRGv&#10;Pokemon GO's TRAGIC END! &#9658; https://bit.ly/2g39uao&#10;The Pokemon Multiverse Explains IT ALL &#9658; https://bit.ly/2Kl6VUH&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3925,7 +3925,7 @@ graph
     commentcount 41106
     duration "PT16M49S"
     indegree 21
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 6379
     duration "PT27M40S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 35961
     duration "PT14M48S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 370
     duration "PT28M7S"
     indegree 16
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3987,7 +3987,7 @@ graph
     label "1yMtQolN1j4"
     step 0
     date "2021-11-27T19:05:16Z"
-    title "Game Theory: The TRUTH About Resident Evil&#38;#39;s Parasite! (Resident Evil 4)"
+    title "Game Theory: The TRUTH About Resident Evils Parasite! (Resident Evil 4)"
     description "Thank you to Oculus for sponsoring this video.&#10;Get Resident Evil 4 in VR on the Quest 2 NOW!: https://ocul.us/TheGameTheorists&#10;&#10;Tune in to our $1,000,000 Challenge for St. Jude on November 30th! &#9658;&#10;https://youtu.be/5TVJPh_hrIU &#10;&#10;Get Your Holiday Theory Wear NOW! &#9658; https://creatorink.co/4wj &#10;&#10;Have you ever wondered why or how the monsters of Resident Evil 4 are so SMART? It makes them more powerful than ever. Now we know it all comes from a parasite but WHY does that work? Today I aim to find that out and to know if this could ever happen in REAL LIFE!&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#ResidentEvil #ResidentEvil4 #ResidentEvilVR #ResidentEvil4VR #MatPat #Theory #GameTheory #OculusPartner&#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick, Justin Kuiper, and Tom Robinson&#10;Editors: Dan &#34;Cybert&#34; Seibert, Forrest Lee Forrest Lee, and Koen Verhagen&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -3997,7 +3997,7 @@ graph
     commentcount 3565
     duration "PT12M6S"
     indegree 6
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 1500
     duration "PT48M22S"
     indegree 8
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 8422
     duration "PT17M13S"
     indegree 6
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 7800
     duration "PT18M2S"
     indegree 5
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 25807
     duration "PT15M14S"
     indegree 12
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4077,7 +4077,7 @@ graph
     label "oPTEAT1_Wb0"
     step 0
     date "2021-08-28T21:27:14Z"
-    title "Mario Characters react to: Game Theory: Super Mario. . . BETRAYED!&#65532;"
+    title "Mario Characters react to: Game Theory: Super Mario. . . BETRAYED!"
     description "Original video: watch?v=CQnyF5I68i8&#38;t=2s"
     channeltitle "Xmonster xo8"
     channelid "UC-aB7Ng36e8Mo9Ov8v5mxoA"
@@ -4087,7 +4087,7 @@ graph
     commentcount 352
     duration "PT14M5S"
     indegree 8
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 5414
     duration "PT14M41S"
     indegree 17
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 5550
     duration "PT17M29S"
     indegree 47
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 18669
     duration "PT11M2S"
     indegree 20
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4149,7 +4149,7 @@ graph
     label "i28Dd8jXZxs"
     step 0
     date "2017-12-09T18:04:03Z"
-    title "Game Theory: Doki Doki&#38;#39;s SCARIEST Monster is Hiding in Plain Sight (Doki Doki Literature Club)"
+    title "Game Theory: Doki Dokis SCARIEST Monster is Hiding in Plain Sight (Doki Doki Literature Club)"
     description "The Firestorm of Battlefront 2! &#9658;&#9658; https://goo.gl/Rmv4Zs&#10;Gaming Is BROKEN! What&#8217;s Next? &#9658;&#9658; https://goo.gl/5Nf7uU&#10;SUBSCRIBE to Catch all the Theories! &#9658; http://bit.ly/1qV8fd6&#10;&#10;You may think you know Doki Doki Literature Club, but I'm here to say you've barely scratched the surface. Because under this twisted visual novel turned horror game lies an entirely other story, hidden in the poems, code, and files.&#10;&#10;SUBSCRIBE for Every Theory! &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;Pokemon Are Going EXTINCT! &#9658;&#9658; https://goo.gl/pUEkbk&#10;Super Mario BETRAYED?! &#9658;&#9658; https://goo.gl/NpsRVz&#10;The Pokedex is FULL OF LIES! &#9658;&#9658; https://goo.gl/1sGoXL&#10;We SOLVED Zelda&#8217;s Timeline! &#9658;&#9658; https://goo.gl/8UdEmL&#10;Super Mario Odyssey&#8217;s GIANT Problem! &#9658; https://goo.gl/GZjdz6&#10;The Final FNAF Theory Begins! &#9658;&#9658; http://bit.ly/2lIYJRX&#10;The FINAL FNAF Theory Solved! &#9658;&#9658; http://bit.ly/2i6h6fn&#10;How Bendy Will END! &#9658;&#9658;&#9658; https://goo.gl/hGeBMo&#10;&#10;Check out some more of our awesome video game content: &#10;&#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;#DokiDokiLiteratureClub #DDLC #DokiDoki #Monika #Yuri #JustMonika #Creepy #Sayori #Natsuki #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4159,7 +4159,7 @@ graph
     commentcount 45249
     duration "PT12M12S"
     indegree 7
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 5369
     duration "PT12M37S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4195,7 +4195,7 @@ graph
     commentcount 20601
     duration "PT17M15S"
     indegree 44
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4203,7 +4203,7 @@ graph
     label "Yb4nKFKKcGQ"
     step 0
     date "2015-11-10T17:30:01Z"
-    title "Film Theory: The Breaking Bad Ending&#38;#39;s HIDDEN Truth"
+    title "Film Theory: The Breaking Bad Endings HIDDEN Truth"
     description "Visit our friends at Wisecrack! &#9658;&#9658; http://wscrk.com/1l4jt1o &#10;Watch their &#8216;Breaking Bad&#8217; Special &#9658;&#9658; http://wscrk.com/1N9X49p&#10;&#10;Spoiler alert! Because today I'm forever changing the way that you look at the final scene of one of the greatest television shows of all time - Breaking Bad. The show ended with what a lot of people thought was a cop out. But I'm here to tell you that the ending you thought you saw might not be as clear cut as you think.&#10;&#10;SOCIAL MEDIA:&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;Instagram: instagram.com/matpatgt&#10;&#10;MORE FILM THEORY!&#10;NEO ISN'T The One in the Matrix Trilogy &#9658; http://bit.ly/1Ky8kuz&#10;What is the DBZ Kamehameha Wave? &#9658; http://bit.ly/1Ky8jH3&#10;The TRUTH about Jon Snow &#9658; http://bit.ly/1dHmLUW&#10;Can Dr. Who's Doctor be a HUMAN? &#9658; http://bit.ly/1AGes5S&#10;Are VIDEO GAMES the future of movies? &#9658; http://bit.ly/1I2qc5b&#10;How to Win an Oscar for BEST ACTOR! &#9658; http://bit.ly/1SRa0a4&#10;How to Win an Oscar for BEST PICTURE! &#9658; http://bit.ly/1daa1oQ"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -4213,7 +4213,7 @@ graph
     commentcount 17898
     duration "PT14M4S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4221,7 +4221,7 @@ graph
     label "_pB_NOh4DFM"
     step 0
     date "2022-02-10T20:05:21Z"
-    title "Can Your Mind Be CONTROLLED? | The SCIENCE of... Happy&#38;#39;s Humble Burger Farm"
+    title "Can Your Mind Be CONTROLLED? | The SCIENCE of... Happys Humble Burger Farm"
     description "SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Theorists, have you ever wondered if your brain could be controlled by someone else? I don't just mean brainwashing either! I'm talking full control by some outside source, implanting something in your brain. Well, welcome to Happy's Humble Burger Farm where that idea is a reality! Today, Austin is going to see if that terrifying idea could be true in REAL LIFE!&#10;&#10;More about the game &#9658; https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/&#10;&#10;Join The SCIENCE on Patreon &#9658; https://www.patreon.com/theSCIENCEyt&#10;Want to join in the SCIENCE discussion? &#9658;&#9658; discord.gg/theSCIENCE  &#10;&#10;Get your Theory Wear! &#9658; https://creatorink.co/4wj &#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ        &#10;&#10;Game Theories: &#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation!  &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon!  &#9658;&#9658; https://bit.ly/2JCwEHP&#10;&#10;#HappysHumbleBurgerFarm #ScaryGame #HorrorGame #MindControl #Brain #Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4231,7 +4231,7 @@ graph
     commentcount 2379
     duration "PT17M50S"
     indegree 3
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 16700
     duration "PT13M40S"
     indegree 6
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4257,7 +4257,7 @@ graph
     label "ceMkAw8Ha3w"
     step 0
     date "2019-01-27T13:59:21Z"
-    title "Game theory ||Pure &#38;amp; Mixed Strategy||in Operations research ( Bangla Lecture)"
+    title "Game theory ||Pure Mixed Strategy||in Operations research ( Bangla Lecture)"
     description "This video is made on game theory, that is an important topic of operation research. in this video, we try to discuss the definition of game theory. Apart from that we also have discussed the definition of game theory, terminologies of game theory.  In terminologies of game theory, we also have presented the concept of pure strategy, mixed strategy, payoff matrix, saddle point as well as value of the game. We hope this will help you to get the subject knowledge at the end. if you like this please like, comment, share and subscribe. Thanks and All the best."
     channeltitle "Easy Learning Academy"
     channelid "UCSG1zJXQiywFzbt-4pptv8w"
@@ -4267,7 +4267,7 @@ graph
     commentcount 35
     duration "PT11M53S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 21746
     duration "PT30M37S"
     indegree 30
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 21617
     duration "PT15M8S"
     indegree 14
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4311,7 +4311,7 @@ graph
     label "WEdbAsl2cPs"
     step 0
     date "2021-01-24T19:06:45Z"
-    title "Game Theory:&#160;KFC&#160;Just WON The Console Wars"
+    title "Game Theory:Just WON The Console Wars"
     description "Watch our other KFC Videos!&#10;I SOLVED&#160;KFC's Secret Recipe!&#160;&#9658;&#160;https://youtu.be/KTABK8Il4Ko&#10;This Movie Exposed&#160;KFC's BIGGEST Secret! &#9658;&#160;https://youtu.be/33eiDEo834E&#10;&#10;I know everyone is still freaking out about the PS5 and how hard it is to get. Well Theorists, I may have a solution for you! There is a new up and comer entering the console&#160;game and it may just be the one we've been waiting for! What is it? The KFC Console! Yes, our favorite fried chicken restaurant&#160;has announced a gaming console and I am EXCITED! Will this change&#160;the game or should they stick to chicken? Theorists, it is time to uncover the delicious truth about the KFC Console!&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160;&#160;&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#KFC #KFCConsole #ConsoleWars&#160;#ColonelSanders&#160;#KFCRecipe #PS5 #Playstation5 #XBox&#160; #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors:&#160;Dan &#34;Cybert&#34; Seibert,&#160;Alex &#34;Sedge&#34; Sedgwick, and&#160;Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4321,7 +4321,7 @@ graph
     commentcount 16147
     duration "PT13M2S"
     indegree 4
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -4339,7 +4339,7 @@ graph
     commentcount 26042
     duration "PT15M20S"
     indegree 36
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4357,7 +4357,7 @@ graph
     commentcount 9497
     duration "PT17M1S"
     indegree 30
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4365,7 +4365,7 @@ graph
     label "m5Hgf7c-dec"
     step 0
     date "2022-04-04T10:30:04Z"
-    title "Andy&#38;#39;s apple farm react to Game theory: Please Come Home..."
+    title "Andys apple farm react to Game theory: Please Come Home..."
     description "Well, I promised a video on this fandom a long time ago. But, to be honest, at that time I lost any motivation to finish it to the end and I took it up only now. I see that no one has done something like this, so I decided to fix it!&#10;&#10;Enjoy!&#10;&#10;Credit:&#10;Game theory: Please Come Home... (Andy's Apple Farm) by The Game Theorist&#10;https://youtu.be/AQOWwS-HHyA"
     channeltitle "&#176; coffeesweet &#176;"
     channelid "UC08oi_yObkzAt14jjccix9A"
@@ -4375,7 +4375,7 @@ graph
     commentcount 657
     duration "PT20M54S"
     indegree 6
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4393,7 +4393,7 @@ graph
     commentcount 90985
     duration "PT11M51S"
     indegree 22
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4401,7 +4401,7 @@ graph
     label "sWnCLXT9uMU"
     step 0
     date "2017-05-21T18:00:05Z"
-    title "Game Theory: Why Mario Kart 8 is Mario&#38;#39;s DEADLIEST Game!"
+    title "Game Theory: Why Mario Kart 8 is Marios DEADLIEST Game!"
     description "Help us reach 10 million theorists! &#9658; http://tinyurl.com/mrd2ntg&#10;Can Bullet Bill KILL?!? &#9658; http://bit.ly/2rFgEHC&#10;&#10;I've done PLENTY of dark theories on the Mario franchise, from Super Mario being a sociopath to Princess Peach being the dead mother of Rosalina and beyond. But today, I've uncovered the most dangerous game in the Mario canon -- Mario Kart! Mario Kart 8! Well, specifically Mario Kart 8 Deluxe. I did the math, and the devastation those fun little Mario Karts deliver is something to truly fear. So hop in and buckle your seatbelts, because this is going to be one crazy Mario Kart adventure!&#10;&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;Mario Theories:&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Mario is a Psychopath! &#9658;&#9658; http://bit.ly/1nSum0E&#10;Toad's DARK Secret &#9658;&#9658; http://bit.ly/1AArdij&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4411,7 +4411,7 @@ graph
     commentcount 28186
     duration "PT16M25S"
     indegree 31
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount 12358
     duration "PT17M2S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4437,7 +4437,7 @@ graph
     label "ke63lM7_S00"
     step 0
     date "2021-02-13T19:05:41Z"
-    title "Game Theory: Logan Paul&#38;#39;s FIXED Fight (Logan Paul vs&#160;Floyd Mayweather)"
+    title "Game Theory: Logan PaulFloyd Mayweather)"
     description "SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160; &#160;&#160;&#10;&#10;Theorists, it looks like YouTube boxing matches are here to stay - at least if you are a Paul brother. Logan Paul is gearing up to fight ACTUAL professional boxer Floyd Mayweather in a match. Well, we think so - with how it keeps getting postponed, who knows if we will get to see it. Never mind that. The REAL interesting thing about this match is that Logan Paul CAN'T lose. Oh, I am not saying that in a battle of skills he would win, I'm saying that he's orchestrated this whole event to FIX a win. Why would Mayweather let that happen? Theorists, it's time to enter the ring.&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160;&#10; &#160;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#LoganPaul #FloydMayweather #Boxing #Fight #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick Editors:&#160;Dan &#34;Cybert&#34; Seibert,&#160;Koen Verhagen,&#160;Danial &#34;BanditRants&#34; Keristoufi, and&#160;Forrest Lee&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4447,7 +4447,7 @@ graph
     commentcount 10335
     duration "PT15M46S"
     indegree 7
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4455,7 +4455,7 @@ graph
     label "ClKp5zIj3yc"
     step 0
     date "2022-01-04T10:51:18Z"
-    title "glamrocks react to&#38;quot;their all aftons&#38;quot;theory &#8226; tw in desc &#8226; og &#9995;&#128553;"
+    title "glamrocks react to"
     description "swearing &#10;lazyness"
     channeltitle "little Blob "
     channelid "UCKXAPyrZG99uHkpStyWUybg"
@@ -4465,7 +4465,7 @@ graph
     commentcount 2249
     duration "PT18M46S"
     indegree 0
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 24560
     duration "PT17M26S"
     indegree 7
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4491,7 +4491,7 @@ graph
     label "YueJukoFBMU"
     step 0
     date "2016-08-30T19:00:39Z"
-    title "Game Theory Explained in One Minute"
+    title "Game Theory E tongue sticking out lained in One Minute"
     description "You can't be good at economics if you aren't capable of putting yourself in the position of other people and seeing things from their perspective, you just can't.&#10;&#10;Game theory helps you do just that.&#10;&#10;Whenever you're involved in situations in which the outcome depends not only on your actions but on the actions of other participants as well, game theory is all about helping you figure out what the best approach is based on what the other (presumed to be rational) actors are more likely to do.&#10;&#10;Please like, comment and subscribe if you've enjoyed the video.&#10;&#10;To support the channel, give me a minute (see what I did there?) of your time by visiting OneMinuteEconomics.com and reading my message.&#10;&#10;Bitcoin donations can be sent to 1AFYgM8Cmiiu5HjcXaP5aS1fEBJ5n3VDck and PayPal donations to oneminuteeconomics@gmail.com, any and all support is greatly appreciated!&#10;&#10;Oh and I've also started playing around with Patreon, my link is:&#10;&#10;https://www.patreon.com/oneminuteeconomics&#10;&#10;Interested in reading a good book?&#10;&#10;My first book, Wealth Management 2.0 (through which I do my best to help people manage their wealth properly, whether we're talking about someone who has a huge amount of money at his disposal or someone who is still living paycheck to paycheck), can be bought using the links below:&#10;&#10;Amazon - https://www.amazon.com/Wealth-Management-2-0-Financial-Professionals-ebook/dp/B01I1WA2BK&#10;&#10;Barnes &#38; Noble - http://www.barnesandnoble.com/w/wealth-management-20-andrei-polgar/1124435282?ean=2940153328942&#10;&#10;iBooks (Apple) - https://itun.es/us/wYSveb.l&#10;&#10;Kobo - https://store.kobobooks.com/en-us/ebook/wealth-management-2-0&#10;&#10;My second book, the Wall Street Journal and USA Today bestseller The Age of Anomaly (through which I help people prepare for financial calamities and become more financially resilient in general), can be bought using the links below.&#10;&#10;Amazon - https://www.amazon.com/Age-Anomaly-Spotting-Financial-Uncertainty-ebook/dp/B078SYL5YS&#10;&#10;Barnes &#38; Noble - https://www.barnesandnoble.com/w/the-age-of-anomaly-andrei-polgar/1127084693?ean=2940155383970&#10;&#10;iBooks (Apple) - https://itunes.apple.com/us/book/age-anomaly-spotting-financial-storms-in-sea-uncertainty/id1331704265&#10;&#10;Kobo - https://www.kobo.com/ww/en/ebook/the-age-of-anomaly-spotting-financial-storms-in-a-sea-of-uncertainty&#10;&#10;Last but not least, if you'd like to follow me on social media, use one of the links below:&#10;&#10;https://www.facebook.com/oneminuteeconomics&#10;&#10;https://twitter.com/andreipolgar&#10;&#10;https://ro.linkedin.com/in/andrei-polgar-9a11a561"
     channeltitle "One Minute Economics"
     channelid "UCpsroJwsVKQvRH3ZqdvRetQ"
@@ -4501,7 +4501,7 @@ graph
     commentcount 137
     duration "PT1M28S"
     indegree 8
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 16434
     duration "PT13M13S"
     indegree 6
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4527,7 +4527,7 @@ graph
     label "nKpDN_V-jZs"
     step 0
     date "2017-10-28T17:06:07Z"
-    title "Game Theory: FNAF, The FINAL Theory! (Five Nights at Freddy&#8217;s) - pt 1"
+    title "Game Theory: FNAF, The FINAL Theory! (Five Nights at Freddys) - pt 1"
     description "SUBSCRIBE to Not Miss Part 2 &#9658;&#9658; http://bit.ly/1qV8fd6&#10;How Bendy Will END! &#9658;&#9658;&#9658; https://goo.gl/hGeBMo&#10;FNAF's SCARIEST Monster is You! &#9658;&#9658; http://bit.ly/2x3RlT0&#10;&#10;I've spent years tormenting myself over the tiniest details of FNAF. Trying to piece together the ultimate FNAF theory. Losing countless sleepless nights to animatronics pacing my dreams.  But I've finally done it! Scott Cawthon, I've solved your series. I have found the final pieces to this animatronic jigsaw puzzle. Loyal Theorists, I give you the FINAL ULTIMATE FNAF THEORY! &#10;&#10;SUBSCRIBE to Catch all the Theories &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;Metal Gear Solid ISN'T REAL! &#9658;&#9658; https://goo.gl/dLL5Ht&#10;We SOLVED Zelda&#8217;s Timeline! &#9658;&#9658; https://goo.gl/8UdEmL&#10;I Want to Be the Devil! | Hello Neighbor &#9658;&#9658; https://goo.gl/3JC6ig&#10;This is TRAGIC! | Petscop &#9658;&#9658; https://goo.gl/mVDSkD&#10;The G-Man's IDENTITY REVEALED! &#9658;&#9658; https://goo.gl/o6QCJn&#10;Super Mario Odyssey&#8217;s GIANT Problem! &#9658; https://goo.gl/GZjdz6&#10;Luigi Is INSANELY RICH! &#9658;&#9658; https://goo.gl/d532Tk&#10;&#10;Check out some more of our awesome video game content: &#10;&#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4537,7 +4537,7 @@ graph
     commentcount 36620
     duration "PT16M38S"
     indegree 13
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4545,7 +4545,7 @@ graph
     label "m-Rmg5AYf8I"
     step 0
     date "2019-09-19T20:05:24Z"
-    title "Game Theory: The Lost History of Minecraft&#38;#39;s Wither"
+    title "Game Theory: The Lost History of Minecrafts Wither"
     description "Get Honey for FREE and start saving money today &#9658; https://joinhoney.com/matpat&#10;My subscribers have already saved over $1,545,000 on stores like eBay, Newegg, and Target.    &#10;Special thanks to Honey for sponsoring today&#8217;s video!&#10;&#10;Now that I have started to dive into the deep lore of Minecraft, I think I will be able to map out the ENTIRE in-world history of the game. We've talked about the corrupted music discs and the origin of the Enderme. Today I want to solve the mystery of what started EVERYTHING. What created Minecraft? Well there is this thing called the Wither...&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;Get the game here &#9658;&#9658; https://www.minecraft.net/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Minecraft #Wither #Origin #History #MinecraftLore #MinecraftTheory #Theory #GameTheory &#10;&#10;More THEORIES:&#10;The TRUTH About MINECRAFT&#8217;s World! &#9658;&#9658; https://goo.gl/XySv1N&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#10;&#10;Credits:&#10;Writers: Matthew Patrick &#10;Editors:  Alex &#34;Sedge&#34; Sedgwick,  Koen Verhagen, Tyler Mascola, BanditRants, and Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://minecraft.gamepedia.com/Fortress#Loot&#10;https://minecraft.gamepedia.com/End_city"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4555,7 +4555,7 @@ graph
     commentcount 33851
     duration "PT17M59S"
     indegree 33
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4563,7 +4563,7 @@ graph
     label "HB4L4Uin9IA"
     step 0
     date "2020-09-03T19:05:20Z"
-    title "Film Theory: Don&#38;#39;t Trust A RAT! (Ratatouille)"
+    title "Film Theory: Dont Trust A RAT! (Ratatouille)"
     description "Thanks to Epic Games for sponsoring this video!&#10;Fortnite &#34;Nexus War&#34; is here with the Lore, Legends, Heroes and Villains from Marvel! Click here to join the fight&#160;&#9658;&#160;https://pixly.go2cloud.org/SH1wl&#10;&#10;I'm ready to ruin your childhood once again! Today, I've set my eyes on Ratatouille - or more specifically our little rat chef Remy. Such a good guy right? WRONG! Remy is a JERK! Throughout the entire movie, he's only out for himself with no concern about his so-called &#34;friends&#34;. What evidence do I have to back this up? Who is the REAL person (or rat) you should be rooting for? Time to find out!&#10;&#10;Become a Food Theorist! &#9658;&#9658;&#160;https://bit.ly/2CdCooV&#160;&#160;&#160;&#10;&#10;Get yourself some Theory Wear! &#9658;&#160;http://creatorink.co/theorywear-ft&#160;&#10;Don't miss a Film Theory! &#9658; http://bit.ly/1dI8VBH &#160;&#10;&#10;#Ratatouille #Pixar #RatatouilleMovie #Remy #Disney #DarkDisney #DarkPixar #PixarTheory #DisneyTheory #FilmTheory #Matpat&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/TheFilmTheorists&#10;&#10;MORE FILM THEORIES&#10;Rick's True CRIME! | Rick and Morty &#9658;&#9658; https://bit.ly/2MVhP2W&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://bit.ly/2qKFFFV&#10;How PICKLE RICK Functions! &#9658;&#9658;&#9658; https://bit.ly/2JvU4fT&#10;Blair Witch's SECRET DANGER! &#160;&#9658; https://bit.ly/2qhmv7a&#10;Ariel &#38; Hercules Are RELATED?! &#9658; https://bit.ly/32WnVWi&#10;&#10;Credits:&#10;Writer: Matthew Patrick and Luke Barats&#10;Editor: Danial &#34;BanditRants&#34; Keristoufi,&#160;Koen Verhagen, and Lee&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -4573,7 +4573,7 @@ graph
     commentcount 18781
     duration "PT17M53S"
     indegree 17
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "ISbjzYQ7s1E"
     step 0
     date "2020-04-11T18:05:20Z"
-    title "Game Theory: Why You Can&#38;#39;t Save Aerith With a Phoenix Down! (Final Fantasy 7)"
+    title "Game Theory: Why You Cant Save Aerith With a Phoenix Down! (Final Fantasy 7)"
     description "SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160; &#160;&#10;Get yourself some NEW Theory Wear!! &#9658; https://bit.ly/2N1m7V7&#160;&#160;&#10;&#10;One of the most memorable, and heartbreaking, moments of the original Final Fantasy 7 game was the death of Aerith. No matter what you do, how many saves you load, there is no way to save her. Not even the Phoenix Down works! It's always bugged me that this resource made to save people from death, couldn't save this beloved character. Why IS that? Today, it's time to pluck some feathers and see if we can find an answer to this fowl question!&#10;&#10;Find the game here &#9658; https://store.steampowered.com/app/39140/FINAL_FANTASY_VII/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself some Theory Wear!! &#9658; https://bit.ly/2N1m7V7&#160;&#160;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#160; &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#160;&#10;&#10;#FinalFantasyVII #PhoenixDown #Aerith #FinalFantasy #FinalFantasy7 #FF7 #FFVII #Cloud #Sephiroth #Theory #GameTheory&#160;&#10;&#10;More THEORIES:&#160;&#10;Boneworks, He Never Died &#9658; https://youtu.be/bqY0_ZeHs8k&#160;&#10;Duck Season's Dog UNMASKED!&#160;&#9658; https://youtu.be/_0fX0WNMMUo&#160;&#10;The Scariest Game You'll NEVER Play!&#160;&#9658; https://youtu.be/oC88jsc-wpg&#160;&#10;Would YOU Stay Blind?&#160;&#9658; https://youtu.be/-dGkkMdIwOc&#160;&#10;The Tragic Mystery of Pokemon's Ghost Girl&#160;&#9658; https://youtu.be/0ju3V6IYKM4&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Alan Baker&#160;&#160;&#10;Editors: Dan &#34;Cybert&#34; Seibert,&#160;Forrest Lee, and&#160;Koen Verhagen&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#160;&#10;&#10;Sources:&#160;&#10;https://lostmycompositionbook.files.wordpress.com/2015/06/lets-mosey.jpg&#10;https://finalfantasy.fandom.com/wiki/Phoenix_Down&#10;https://wiki2.org/en/Phoenix_(mythology)&#10;https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf&#10;https://archive.org/details/FinalFantasy12ManualJPFCNES/page/n55/mode/2up&#10;https://www.slideshare.net/segertar/final-fantasy-iii-manual-101&#10;https://finalfantasy.fandom.com/wiki/Twintania_(Final_Fantasy_XII)&#10;https://finalfantasy.fandom.com/wiki/Magicite_(Final_Fantasy_VI)&#10;https://finalfantasy.fandom.com/wiki/Esper_(Final_Fantasy_VI)&#10;https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_dummied_content"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4609,7 +4609,7 @@ graph
     commentcount 8440
     duration "PT15M3S"
     indegree 1
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4627,7 +4627,7 @@ graph
     commentcount 1199
     duration "PT46M24S"
     indegree 13
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4635,7 +4635,7 @@ graph
     label "epQCXVnP0VU"
     step 0
     date "2022-06-17T23:00:19Z"
-    title "Backroom&#38;#39;s NEW Lore?! | The Backrooms (Found Footage) Reaction"
+    title "Backrooms NEW Lore?! | The Backrooms (Found Footage) Reaction"
     description "Get Your BRAND NEW TheoryWear! &#9658; https://theorywear.com/&#10;&#10;Loyal Theorists, we're finally breaking down the latest iteration of The Backrooms by Kane Pixels. This just might be the most surprising and unique Backrooms video yet. So, ladies and gentlemen, I invite you to sit back, relax, and tune in for some good ol' fashioned theorycrafting!&#10;&#10;The Latest Backrooms Episode from @Kane Pixels &#9658; https://youtu.be/ywVxpZ4XUBM&#10;&#10;Check out the Reddit! &#9658;&#9658; https://www.reddit.com/r/GameTheorists/  &#10;Subscribe to GTLive! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;&#10;00:00 - The Retentive Banter&#10;15:28 - Backrooms FACE REVEAL?! (Not Clickbait)&#10;50:51 - The Witty Wrap up&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/GTLive&#10;&#10;#backrooms #backroomsreaction #thebackrooms #thebackroomsreaction #backroomsfoundfootage #backroomstheory #kanepixels &#10;#GTLive #MatPat #GameTheory&#10;&#10;Subscribe &#38; hang out with me! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;Follow us on Twitter at @MatPatGT and #GTLive"
     channeltitle "GTLive"
     channelid "UCAaegDUlb7doIKo0Rc1F08g"
@@ -4645,7 +4645,7 @@ graph
     commentcount 2001
     duration "PT53M4S"
     indegree 10
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4663,7 +4663,7 @@ graph
     commentcount 11540
     duration "PT15M20S"
     indegree 9
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     commentcount 20185
     duration "PT13M17S"
     indegree 15
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4689,7 +4689,7 @@ graph
     label "8_DUvXy7UgI"
     step 0
     date "2020-11-18T20:23:40Z"
-    title "GAME THEORY # Social interaction # Science of Strategy # Malayalam Explanation."
+    title "GAME THEORY # Social interaction # Science of Strategy # Malayalam E tongue sticking out lanation."
     description "GAME THEORY # SOCIAL INTERACTION # SCIENCE OF STRATEGY IN MALAYALAM."
     channeltitle "Priya Hariprasad"
     channelid "UCkfVTNASm95RROEvvT5MZ3A"
@@ -4699,7 +4699,7 @@ graph
     commentcount 89
     duration "PT26M13S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4707,7 +4707,7 @@ graph
     label "mvUwLmOoTrA"
     step 0
     date "2018-03-25T18:04:56Z"
-    title "Game Theory: Did I Find Fortnite&#38;#39;s SECRET Lore? (Fortnite Battle Royale)"
+    title "Game Theory: Did I Find Fortnites SECRET Lore? (Fortnite Battle Royale)"
     description "Survey - Be a Part of the next theory &#9658; http://bit.ly/2unkTgS&#10;SUBSCRIBE to never miss a theory! &#9658; http://bit.ly/1qV8fd6 &#10;The Hidden HORRORS Behind Petscop &#9658;&#9658; http://bit.ly/2IiqlES&#10;&#10;Step aside PUBG - there is a new game in town. Fortnite - the number one game to drop you on an island just to destroy EVERYTHING. Yet, the thing I've been seeing most fans ask lately is - where is the lore? It's true, the game doesn't look like it tries to give much backstory to your situation. Except I've found it. LOOK CLOSER THEORISTS! All you want to know is right there for the taking and today I'm going to show you.&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;Doki Doki&#8217;s SCARIEST Monster! &#9658; http://bit.ly/2Cg0b5T&#10;Petscop - Ghost In A HAUNTED Game &#9658; https://bit.ly/2GmoZux&#10;Portal's Companion Cube's Dark Secret &#9658; http://bit.ly/1GDNC0N&#10;Duck Season's KILLER DOG... Unmasked! &#9658; http://bit.ly/2trS1E4&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Cuphead's SINFUL SECRET Business! &#9658; http://bit.ly/2Hk68gA&#10;Hello Neighbor - DEVIL is in the Details! &#9658;http://bit.ly/2HhXXS3&#10;How Bendy Will END! &#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4717,7 +4717,7 @@ graph
     commentcount 70372
     duration "PT18M23S"
     indegree 21
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 25491
     duration "PT16M29S"
     indegree 34
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 30580
     duration "PT16M45S"
     indegree 11
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 20759
     duration "PT13M25S"
     indegree 4
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 18806
     duration "PT20M30S"
     indegree 30
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4797,7 +4797,7 @@ graph
     label "m_lTsLhahqg"
     step 0
     date "2021-10-11T20:42:06Z"
-    title "Wilbur Reacts to &#38;quot;I Solved The Wilbur Soot ARG&#38;quot; (Game Theory)"
+    title "Wilbur Reacts to (Game Theory)"
     description "Subscribe to Never Miss Daily Uploads :D&#10; &#10;o7&#10;&#10;&#10;&#10;https://twitch.tv/wilbursoot #dreamsmp"
     channeltitle "Canooon"
     channelid "UC8f80fwHF6nGLal5_1x0Slw"
@@ -4807,7 +4807,7 @@ graph
     commentcount 729
     duration "PT34M39S"
     indegree 18
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4815,7 +4815,7 @@ graph
     label "YASj8IuQ_Yw"
     step 0
     date "2016-09-16T18:20:05Z"
-    title "Film Theory: Blair Witch&#38;#39;s SECRET KILLERS! (Blair Witch Project)"
+    title "Film Theory: Blair Witchs SECRET KILLERS! (Blair Witch Project)"
     description "Subscribe for more Film Theories! &#9658;&#9658;&#160;http://bit.ly/1dI8VBH&#10;Check out Wisecrack &#9658;&#9658; http://goo.gl/Vmpntg&#10;How the Walking Dead will END &#9658;&#9658;&#160;http://bit.ly/23IqNAR&#10;The Star Trek Federation is FASCIST &#9658; http://bit.ly/FTstartrek&#10;&#10;Through the movie hype, the viral marketing, and the fake websites created for the movie, we've all been led to believe that the Blair Witch is a dangerous demon roaming the woods, ready to kill us. But what if that was never the case? What if, even in the movie, there's no such thing as the Blair Witch? Today's episode uncovers a secret murder plot where the only monsters are the kids making a documentary in the woods...&#10;&#10;MORE FILM THEORIES:&#10;How To Kill DeadPool! &#9658;&#9658;&#160;http://bit.ly/1WXtrCy&#10;DON&#8217;T Destroy the Death Star! &#9658;&#9658; http://bit.ly/2cry5r4&#10;Marvel's Ant-Man Could KILL Us All! &#9658;&#160;http://bit.ly/1UnoL5Z&#10;Full Metal Alchemist's Fatal Mistake &#9658;&#160;http://bit.ly/20HoPOC&#10;Rick's TRUE Crime! (Rick and Morty) &#9658;&#160;http://bit.ly/23evcJA&#10;What is DBZ's Kamehameha Wave? &#9658;&#9658;&#160;http://bit.ly/1RCwTyy&#10;Can Doctor Who's Doctor Actually Exist? &#9658;&#9658;&#160;http://bit.ly/1NmGyJt&#10;We Found The Simpsons Real Springfield &#9658;&#160;http://bit.ly/1Se6Wpc&#10;Luke SHOULDN'T Destroy the Death Star &#9658;&#160;http://bit.ly/1R5tzra&#10;Is Hitman's Bulletproof Skin POSSIBLE? &#9658;&#9658;&#160;http://bit.ly/1XPhdZK&#10;How to SURVIVE the Hunger Games! &#9658;&#9658;&#160;http://bit.ly/1qsEzt4&#10;&#10;SOCIAL MEDIA:&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;Instagram: instagram.com/matpatgt&#10;&#10;Like the theme song? Thanks to CARF!&#10;&#34;8-Bit X-Men Theme&#34; by Carf Darko&#10;https://www.youtube.com/user/carfmobile"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -4843,7 +4843,7 @@ graph
     commentcount 20479
     duration "PT15M15S"
     indegree 33
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4861,7 +4861,7 @@ graph
     commentcount 2185
     duration "PT1H43S"
     indegree 10
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4879,7 +4879,7 @@ graph
     commentcount 34573
     duration "PT22M15S"
     indegree 49
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 11126
     duration "PT19M14S"
     indegree 9
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 9105
     duration "PT17M22S"
     indegree 9
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -4923,7 +4923,7 @@ graph
     label "WHMfxoTQ96Y"
     step 0
     date "2016-12-04T17:11:34Z"
-    title "Game Theory: Hello Neighbor&#38;#39;s SATANIC Plot!"
+    title "Game Theory: Hello Neighbors SATANIC Plot!"
     description "Yesterday I found another huge piece evidence for this theory but didn't want to wait and completely redo the episode, so hold tight for an update coming this week! I think you'll be excited...&#10;&#10;Be a Good Neighbor: Subscribe! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;The scary truth of Watch Dogs Hacking! &#9658;&#9658; http://bit.ly/1nWvozw&#10;FNAF Sister Location SOLVED  &#9658;&#9658; http://bit.ly/2gp4mxw&#10;&#10;Ever wonder what's lurking behind that white picket fence across the street, or on the other side of those harmless looking curtains next door? Well Hello Neighbor, the new indie horror darling, answers that question in the creepiest way possible! Even though there's only an alpha build for this game available, it's already brought in huge speculation online and today's theory attempts to solve the mysteries of this game before it ever even comes out! Stalk your neighbor, evade security shark, and discover the deep secrets locked in his basement! You'll never look at your neighbors the same way again...&#10;&#10;&#10;Join the Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Twitter: @MatPatGT&#10;Instagram: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Pokemon Theories:&#10;Humans are POKEMON! &#9658;&#9658; http://bit.ly/PokeHuman&#10;SOLVING Raticate's DEATH! &#9658;&#9658; http://bit.ly/GTraticate&#10;Pokemon Multiverse EXPLAINS ALL! &#9658;&#9658; http://bit.ly/GTpokeverse&#10;&#10;Nintendo Theories:&#10;BEWARE Link's Hookshot! &#9658;&#9658; http://bit.ly/GTHookshot&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Luigi's SECRET Identity! &#9658;&#9658; http://bit.ly/LuigisID&#10;&#10;Business email: gametheorist.business@gmail.com"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -4933,7 +4933,7 @@ graph
     commentcount 28074
     duration "PT17M20S"
     indegree 12
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 90
     duration "PT7M11S"
     indegree 4
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4969,7 +4969,7 @@ graph
     commentcount 1163
     duration "PT59M50S"
     indegree 5
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 96460
     duration "PT16M44S"
     indegree 17
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4995,7 +4995,7 @@ graph
     label "OJdzNwtGEz0"
     step 0
     date "2019-11-28T08:22:01Z"
-    title "Game theory|Game theory  in operation research|Theory of Games definitions"
+    title "Game theory|Game theory in operation research|Theory of Games definitions"
     description "Game Theory |Game theory  in operation research hindi|Theory of Games definition payoff matrix&#10;Game theory in hindi&#10;Game theory&#10;Game theory in operation research&#10;&#10;In this video lecture I will explain about game theory definitions with full explanation: &#10;1.What is game theory?&#10;2.Define competitive game,payoff matrix,zero sum game,two person game,pure and mixed strategies.&#10;3. What is concept of game theory?&#10;4. What is game theory with examples?&#10;5.Why is it called game theory?&#10;&#10;#Gametheory #OptimalStartegies #pureStrategy #MixedStrategy #twoPersongame #ZeroPersonGame #Valueofgame #Saddlepoint #minimaxprinciple #maximinPrinciple #OperationResearch&#10;&#10;Link of previous video on game theory:&#13;&#10;1)  https://www.youtube.com/watch?v=OJdzNwtGEz0&#13;&#10;2)https://www.youtube.com/watch?v=xmpIAY7hvrY&#10;&#10;This video will be helpful for students of BA, B.Sc, M.Sc, NET, IIT-JAM  &#38; Engineering students B.Tech &#38; GATE. &#10;Please like subscribe and share videos with your classmates and friends. If you are watching it first time then subscribe to my channel #onlinetutorialbyvaishali and press bell icon to stay updated for more mathematics course related videos and information.&#10;&#10;Your appreciation always motivates me to post good and helpful videos.&#10;&#10;Subscribe to my channel: www.youtube.com/c/onlinetutorialbyvaishali&#10;If you have any queries mail me at mailtovaishali.tiwari@gmail.com&#10;&#10;Instagram Handle: https://www.instagram.com/onlinetutorialbyvaishali/&#10;&#10;Facebook Page:https://www.facebook.com/onlinetutorialbyvaishali/&#10;&#10;Link of important topics playlist of my channel:&#10;Operation Research in hindi:https://www.youtube.com/playlist?list=PLdkTgdqMAkhrN4FXcfyZYWhn-LfwkHO2h&#10;&#10;Numerical Analysis in hindi:https://www.youtube.com/playlist?list=PLdkTgdqMAkhoKuBai8AzyW_PJtOl44iE8&#10;&#10;Mathematical Statistics in hindi:https://www.youtube.com/playlist?list=PLdkTgdqMAkhpsyyq6S4V0NEz9rQAbJtVq&#10;&#10;Discrete mathematics in hindi:https://www.youtube.com/playlist?list=PLdkTgdqMAkhrlObWeAqGDNDgKtnmkajd7&#10;&#10;Differential Equations in hindi:https://www.youtube.com/playlist?list=PLdkTgdqMAkhrNKXg4AIjK1I-pTAmFIqGU&#10;&#10;Transportation Problem - https://www.youtube.com/playlist?list=PLdkTgdqMAkhqnl8mphmWRVpjNQwM09zoJ&#10;&#10;Linear Programming Problem - https://www.youtube.com/playlist?list=PLdkTgdqMAkhohivqhqCOKCIU_fq5addWk&#10;&#10;Sensitivity Analysis - https://www.youtube.com/playlist?list=PLdkTgdqMAkhoMAQED-di7oXHHJ4dXa39A"
     channeltitle "online tutorial by vaishali"
     channelid "UCYWKFDoivHUwRyV9bnBsqiA"
@@ -5005,7 +5005,7 @@ graph
     commentcount 66
     duration "PT17M48S"
     indegree 17
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5023,7 +5023,7 @@ graph
     commentcount 11325
     duration "PT15M36S"
     indegree 19
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 22118
     duration "PT20M11S"
     indegree 55
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 7478
     duration "PT15M53S"
     indegree 7
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 37284
     duration "PT14M52S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5113,7 +5113,7 @@ graph
     commentcount 4526
     duration "PT20M42S"
     indegree 15
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 21886
     duration "PT15M42S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 16381
     duration "PT12M44S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 16229
     duration "PT18M42S"
     indegree 13
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5175,7 +5175,7 @@ graph
     label "Rs7G8MxCeTk"
     step 0
     date "2022-06-19T20:48:46Z"
-    title "Ranboo Reacts to Game Theory &#38;amp; MCC Pride w/Jack, Ethan and Sapnap"
+    title "Ranboo Reacts to Game Theory MCC Pride w/Jack, Ethan and Sapnap"
     description "This was streamed LIVE on https://twitch.tv/RanbooLive&#10;&#10;Today Ranboo reacts to the game theory video about Generation Loss, then plays Minecraft in the Minecraft Championships Pride 2022 with Jacksepticeye, Crankgameplays (Ethan) and Sapnap.&#10;&#10;Follow Ranboo's Socials Below:&#10;Twitch: https://www.twitch.tv/ranboolive&#10;Twitter: https://www.twitter.com/ranboosaysstuff&#10;alt twitter: https://www.twitter.com/ranaltboo&#10;alt twitch: https://www.twitch.tv/ranboobutnot&#10;YouTube: https://www.youtube.com/ranboo&#10;Instagram: https://www.instagram.com/ranboomc&#10;&#10;#ranboo #mcc #gametheory"
     channeltitle "RanbooVODS"
     channelid "UCw0UQkA6EJg4_wQbEFHbpYQ"
@@ -5185,7 +5185,7 @@ graph
     commentcount 242
     duration "PT3H36M21S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5193,7 +5193,7 @@ graph
     label "ic6nddVoQZQ"
     step 0
     date "2022-06-03T17:00:32Z"
-    title "SILT - The Story Explained (Horror Game Theories)"
+    title "SILT - The Story E tongue sticking out lained (Horror Game Theories)"
     description "Silt is the story of a diver who awakens chained underwater and surrounded by hostile sea monsters. In order to survive we must hack their minds and use these creatures to help clear a path out of the ocean depths. However the story is mysterious and cryptic. In this video we try to explain the story of SILT and what the ambigous ending means...&#10;&#10;Check out the game here: https://store.steampowered.com/app/1325890/Silt/&#10;&#10;PC Specialist built the PC I use: https://pcspeciali.st/superhorrorbro&#10;Use promo code HORROR for &#163;30 fixed discount on any order&#10;&#10;You've been watching SuperHorrorBro Mike. If you enjoyed this video remember to like, comment and subscribe for more horror related content."
     channeltitle "SuperHorrorBro"
     channelid "UChL4WU9YLlxXXNSwlzM1-7g"
@@ -5203,7 +5203,7 @@ graph
     commentcount 345
     duration "PT10M1S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 79
     duration "PT38M"
     indegree 9
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 67271
     duration "PT2H5M8S"
     indegree 29
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5247,7 +5247,7 @@ graph
     label "stBW9byJQY4"
     step 0
     date "2020-01-16T21:06:24Z"
-    title "The Final Proof that Minecraft ISN&#38;#39;T FLAT! | The SCIENCE of... Minecraft"
+    title "The Final Proof that Minecraft ISNT FLAT! | The SCIENCE of... Minecraft"
     description "SUBSCRIBE to Catch all the Theories! &#9658;&#160;https://goo.gl/kQWHkJ&#160;&#10;&#10;Austin and I have both covered - and DISPROVED - the popular theory that the Minecraft world is flat, but apparently that was not enough! Today, Austin is going to prove once and for all that the world of Minecraft is just as round as our Earth! He's got the evidence, he's got the science. and he's got the will to keep on calculating!&#160;&#10;&#10;Want to join in the&#160;SCIENCE&#160;discussion? Head to &#9658;&#9658;&#160;discord.gg/theSCIENCE&#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658;&#160;https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658;&#160;https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658;&#160;https://bit.ly/2GnkRLK&#10;What is a Kirby? The&#160;SCIENTIFIC&#160;PROOF! &#9658;&#160;https://bit.ly/2GnPP6t&#10;&#10;More The&#160;SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658;&#160;https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation! &#160;&#9658;&#9658;&#160;https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658;&#160;https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon! &#160;&#9658;&#9658;&#160;https://bit.ly/2JCwEHP&#10;&#10;#Minecraft #MinecraftTheory #MinecraftWorld #ScienceOfMinecraft #Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5257,7 +5257,7 @@ graph
     commentcount 25274
     duration "PT17M13S"
     indegree 22
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5275,7 +5275,7 @@ graph
     commentcount 33688
     duration "PT23M22S"
     indegree 53
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5283,7 +5283,7 @@ graph
     label "PrPBaocN77Y"
     step 0
     date "2019-02-10T19:05:15Z"
-    title "Game Theory: Resident Evil&#38;#39;s Zombie Outbreak is Closer than You Think (Resident Evil 2)"
+    title "Game Theory: Resident Evils Zombie Outbreak is Closer than You Think (Resident Evil 2)"
     description "Special thanks to Capcom for sponsoring this episode!&#10;Get Your Copy Now! &#9658;&#9658; http://clickmeter.bengroup.com/TheGameTheorists&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6&#10;&#10;Resident Evil is a stand out icon in the zombie genre. It checks all the boxes. Viral outbreak? Check. Trapped in a building full of the undead? Check. Lots of crazy jumpscares? Check! Yet the scariest thing about the Resident Evil franchise isn't the zombies themselves, but the big corporations that caused them. Think about it for a moment. Could something like the T-Virus cause a real life zombie apocalypse? Well Theorists, sorry to burst your &#34;it's just a game&#34; bubble. We are well on our way there already.&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658; &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#ResidentEvil2 #RE2 #ResidentEvil #LeonSKennedy #ClaireRedfield #Virus #Zombie #Zombies #UmbrellaCorporation #UmbrellaCorp #Capcom  #GameTheory&#10;&#10;More THEORIES:&#10;How Bendy EXPOSES Disney's Conspiracy! &#9658; https://bit.ly/2zl5MnB  &#10;Petscop - Ghost In A HAUNTED Game &#9658; https://bit.ly/2GmoZux&#10;Duck Season's KILLER DOG... Unmasked! &#9658; http://bit.ly/2trS1E4&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; http://bit.ly/2FnHjRl&#10;Hello Neighbor - DEVIL is in the Details! &#9658;http://bit.ly/2HhXXS3&#10;How Bendy Will END! &#9658;&#9658; http://bit.ly/2oqRNbd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;Credits:&#10;Writer: Matthew Patrick and Justin Kuiper&#10;Editors: Dan &#34;Cybert&#34; Seibert, Chance Cole, and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://www.unog.ch/80256EE600585943/(httpPages)/04FBBDD6315AC720C1257180004B1B2F?OpenDocument&#10;&#10;Introduction to Biological Weapons&#34;, Federation of American Scientists, official site. Retrieved January 9, 2009.&#10;&#10;Hammond, Edward (2007). &#34;Should the US and Russia destroy their stocks of smallpox virus?&#34;. BMJ. 334 (7597): 774. doi:10.1136/bmj.39155.695255.94. PMC 1851992. PMID 17431261.&#10;&#10;Bosch, Albert (27 July 1998). &#34;Human enteric viruses in the water environment: a minireview&#34;. INTERNATL MICROBIOL.&#10;&#10;https://www.bmj.com/content/334/7597/774.full&#10;&#10;https://www.tandfonline.com/doi/abs/10.1080/713610450?journalCode=imby20&#10;&#10;Wong, Derek. &#34;Rabies&#34;. Wong's Virology. Archived from the original on 2008-12-03. Retrieved 19 Mar 2009.&#10;&#10;https://residentevil.fandom.com/&#10;&#10;http://projectumbrella.net/articles/Weskers-Report-II&#10;&#10;https://www.niaid.nih.gov/diseases-conditions/smallpox&#10;&#10;Gough PM, Jorgenson RD (1976). &#34;Rabies antibodies in sera of wild birds&#34;. Journal of Wildlife Diseases. 12 (3): 392&#8211;5. doi:10.7589/0090-3558-12.3.392. PMID 16498885.&#10;&#10;Wong, Derek. &#34;Rabies&#34;. Wong's Virology. Archived from the original on 2008-12-03. Retrieved 19 Mar 2009.&#10;&#10;https://en.wikipedia.org/wiki/Waterborne_diseases#Viruses&#10;&#10;https://metro.co.uk/2007/11/22/the-man-who-looks-like-a-tree-546733/&#10;&#10;https://www.theatlantic.com/science/archive/2018/11/china-crispr-babies/576784/&#10;&#10;https://www.npr.org/sections/health-shots/2018/11/26/670752865/chinese-scientist-says-hes-first-to-genetically-edit-babies&#10;&#10;https://io9.gizmodo.com/5-real-diseases-that-could-make-you-act-just-like-a-zom-5547673&#10;&#10;https://www.scmp.com/lifestyle/health-wellness/article/2179853/future-gene-editing-ending-disease-or-creating-super&#10;&#10;https://news.nationalgeographic.com/news/2010/10/1001027-rabies-influenza-zombie-virus-science/&#10;&#10;https://residentevil.fandom.com/wiki/FILE_13:_Cerberus&#10;&#10;How CRISPR works: https://www.youtube.com/watch?v=MnYppmstxIs"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5293,7 +5293,7 @@ graph
     commentcount 14932
     duration "PT16M44S"
     indegree 12
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5301,7 +5301,7 @@ graph
     label "Vu4AccPaVv4"
     step 0
     date "2021-12-09T19:07:41Z"
-    title "The High Cost of Pokemon Storage! | The SCIENCE of... Pok&#233;mon"
+    title "The High Cost of Pokemon Storage! | The SCIENCE of... Pokmon"
     description "Get your new Holiday Theory Wear! &#9658; https://creatorink.co/4wj&#160;&#10;&#10;Throughout the many generations of Pokemon games, we've all come to accept Pokemon storage as a normal part of the game... but is it? We are talking about storing the DNA and learned XP of each individual Pokemon. That's a LOT of data. Today, Austin is diving in to see how much that storage&#160;would be... and at what COST?&#10;&#10;Join The SCIENCE on Patreon &#9658; https://www.patreon.com/theSCIENCEyt&#10;Want to join in the SCIENCE discussion? &#9658;&#9658; discord.gg/theSCIENCE&#160;&#160;&#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation! &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon! &#9658;&#9658; https://bit.ly/2JCwEHP&#10;&#10;#Pokemon #PokemonTheory #Pikachu #PokemonPC #PokemonBrilliantDiamond #PokemonShiningPearl #Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5311,7 +5311,7 @@ graph
     commentcount 3256
     duration "PT17M34S"
     indegree 5
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount 156
     duration "PT17M54S"
     indegree 5
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5337,7 +5337,7 @@ graph
     label "oC88jsc-wpg"
     step 0
     date "2017-08-21T01:28:51Z"
-    title "Game Theory: Petscop - The Scariest Game You&#38;#39;ll NEVER Play!"
+    title "Game Theory: Petscop - The Scariest Game Youll NEVER Play!"
     description "SUBSCRIBE to Catch all the Theories &#9658;&#9658; http://bit.ly/1qV8fd6&#10;SOLVING Raticate's DEATH! Pokemon &#9658; http://bit.ly/2fWTiwj&#10;FNAF's SCARIEST Monster is You! &#9658;&#9658; http://bit.ly/2x3RlT0&#10;&#10;Petscop, is a seemingly harmless, PS One game that never made it to market. But dig a little deeper, and you'll find there is no game. Just fake let's plays, of a fake game, telling a very REAL and traumatic story. Be warned, today's theory covers some pretty heavy topics, including child neglect and murder. Viewer discretion is advised. &#10;&#10;SUBSCRIBE to Catch all the Theories &#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10; &#10;More THEORIES:&#10;The TRUTH Behind Fire Pokemon! &#9658;&#9658; https://goo.gl/ayrokB&#10;Super Mario Odyssey&#8217;s GIANT Problem! &#9658; https://goo.gl/GZjdz6&#10;Luigi Is INSANELY RICH! &#9658;&#9658; https://goo.gl/d532Tk&#10;MARIO is MENTAL! (Part 1) &#9658;&#9658; https://goo.gl/NJD58Z&#10;WHO is W.D. Gaster? | UNDERTALE &#9658;&#9658; https://goo.gl/IKTozR&#10;We Were WRONG about The BITE! | FNAF &#9658; https://goo.gl/kWX6t7 &#10;&#10;Check out some more of our awesome video game content: &#10;&#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5347,7 +5347,7 @@ graph
     commentcount 60190
     duration "PT17M59S"
     indegree 31
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5355,7 +5355,7 @@ graph
     label "-THACixg0pk"
     step 0
     date "2021-03-20T18:05:58Z"
-    title "Game Theory: Mario&#38;#39;s Secret Fire Power is... Rocket Fuel!"
+    title "Game Theory: Marios Secret Fire Power is... Rocket Fuel!"
     description "Special thanks to&#160;Honey&#160;for sponsoring this episode! &#160;&#10;Get Honey for FREE! &#9658; http://joinhoney.com/matpat&#10;&#10;One of Mario's most iconic power ups is the fire flower. You can't tell me you don't get excited when you see that flower and know you are about to cause some fiery&#160;havoc in the Mushroom&#160;Kingdom... and everywhere else. Really. EVERYWHERE. You can even shoot a fireball underwater. Why? How? Theorists, I want answers and I will not stop until I figure out what the SECRET behind Mario's fireball is. Let's a-go!&#10;&#10;More about the gamel &#9658; https://mario.nintendo.com/&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160; &#10;&#160;&#160;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#160;&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Mario #SuperMario #SuperMArio3DWorld #Luigi #SuperMarioBros #FireFlower #MarioTheory #Nintendo #SmashBros #MatPat #Theory #GameTheory&#160; &#160;&#160;&#10;&#10;More THEORIES:&#160;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658;&#160;https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658;&#160;https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#160;&#160;&#160;&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors:&#160;Pedro Freitas and&#160;Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5365,7 +5365,7 @@ graph
     commentcount 14189
     duration "PT14M26S"
     indegree 14
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5373,7 +5373,7 @@ graph
     label "fk2NokRwOVA"
     step 0
     date "2022-05-31T12:19:58Z"
-    title "Poppy Playtime Ch-2 react to Game Theory: The Monster In The Shadows || Poppy Playtime || Gacha || &#129344;"
+    title "Poppy Playtime Ch-2 react to Game Theory: The Monster In The Shadows || Poppy Playtime || Gacha || "
     description "&#127801;`&#8226; Credit: https://youtu.be/DduGAca6hZU&#10;&#10;I just realised that I made the player's Grabpack red instead of blue jdsjajajsjdbshsjf I'm so sorry for that &#128128;-"
     channeltitle "&#8226; [Galaxy_DeviLLOLz] &#8226;"
     channelid "UC5i-otVe2mgWbhH7dhUaGHg"
@@ -5383,7 +5383,7 @@ graph
     commentcount 199
     duration "PT14M41S"
     indegree 17
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5391,7 +5391,7 @@ graph
     label "sCKRV8Yps-Y"
     step 0
     date "2020-08-02T12:08:37Z"
-    title "Game Theory | Prisoner&#38;#39;s Dilemma | Nash Equilibrium | by Vidhi Kalra"
+    title "Game Theory | Prisoners Dilemma | Nash Equilibrium | by Vidhi Kalra"
     description "The video talks about one of the most interesting topics under the study of Economics which is 'Game Theory'. I shall explain you in brief what exactly is the concept of Game Theory and its very famous example 'Prisoner's Dilemma' as well and a little about the 'Nash Equilibrium' too. So, Good luck!&#10;.&#10;.&#10;Follow me on Instagram at : 5_Minute_Economics&#10;.&#10;.&#10;#GameTheory #PrisonersDilemma #NashEquilibrium #Economics #BriefEconomics #Summary #EasyEconomics #SimpleEconomics #Class12thEconomics #GradLevelEconomics #UgcNetPrep #HelpfulEconomics #GraduationEconomics #PostGraduationEconomics #EasyEconomics #TopicsOfEconomics #ConceptsOfEconomics #NetPrep #VidhiKalra #5MinuteEconomics #5MinEconomics #5MinEco #5MinuteEconomicsByVidhiKalra #FastLearningEconomics #EasyNetPrep #Class11thEconomics #BALevelEconomics #BoardLevelEconomics #EconomicsMadeEasier #EconomicsShortVideo #NetGuidance #EasyNetPrep #EconomicsTheorem #EconomicsMadeEasier #EconomicsShortVideo #BcomLevelEconomics #BBAEconomics #UPSCPreparation #ImpEcoTopics&#10;#NetGuidance #EasyNetPrep #EconomicsTheorem #EconomicsMadeEasier #EconomicsShortVideo #BcomLevelEconomics #BBAEconomics #UPSCPreparation #ImpEcoTopics #SetPrep #SetExamination #SetExaminationGuide #GrowthEconomis #Ecotrics #MacroEconomics #MicroEconomics"
     channeltitle "5 Minute Economics"
     channelid "UCGGhQWgTI0XgKm0nLt4N2cQ"
@@ -5401,7 +5401,7 @@ graph
     commentcount 216
     duration "PT6M41S"
     indegree 9
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5409,7 +5409,7 @@ graph
     label "kw8-FrCaTD4"
     step 0
     date "2021-07-17T18:05:08Z"
-    title "Film Theory: We&#38;#39;re Watching Evil Morty&#38;#39;s Origin Story! (Rick and Morty Season 5)"
+    title "Film Theory: Wes Origin Story! (Rick and Morty Season 5)"
     description "Get Your Theory Wear Merch NOW! &#9658; https://bit.ly/3vtguU0&#10;&#10;This season of Rick and Morty feels different... and I'm not the only one to think so! Many fans of the series have pointed out how this felt like a return to season on Rick and Morty, dropping the more overarching story feel of the past few seasons. I think that was done for a REASON! A reason that I think is based on something fans have been asking to see for a long time - Evil Morty's origin story! Theorists, get ready for a wild timey-wimey ride!&#10;&#10;Get yourself some Theory Wear! &#9658; https://bit.ly/3vtguU0&#10;Don't miss a Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;#RickandMorty #Rick #Morty #MrNimbus #RickandMortySeason5 #AdultSwim #RickAndMorty Theory #EvilMorty #Theory  #FilmTheory #Matpat    &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/TheFilmTheorists&#10;&#10;MORE FILM THEORIES&#10;Rick's True CRIME! | Rick and Morty &#9658;&#9658; https://bit.ly/2MVhP2W&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://bit.ly/2qKFFFV&#10;How PICKLE RICK Functions! &#9658;&#9658;&#9658; https://bit.ly/2JvU4fT&#10;Blair Witch's SECRET DANGER!  &#9658; https://bit.ly/2qhmv7a&#10;Ariel &#38; Hercules Are RELATED?! &#9658; https://bit.ly/32WnVWi&#10;&#10;Credits:&#10;Writer: Matthew Patrick and Justin Kuiper  &#10;Editor: Pedro Freitas, Alex &#34;Sedge&#34; Sedgwick, and  Tyler Mascola&#10;Assistant Editor: Caitie Turner (viridianrosette)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -5419,7 +5419,7 @@ graph
     commentcount 10763
     duration "PT12M57S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5427,7 +5427,7 @@ graph
     label "onui2Pcm2r4"
     step 0
     date "2022-06-22T23:15:18Z"
-    title "Scariest VHS Tapes EVER! | Battington Tapes Harmony &#38;amp; Horror Reaction (Analog Horror)"
+    title "Scariest VHS Tapes EVER! | Battington Tapes Harmony Horror Reaction (Analog Horror)"
     description "Get Your TheoryWear! &#9658; https://theorywear.com/&#10;&#10;Hey guys, and welcome to the long awaited theorycrafting series for @Battington 's Harmony and Horror tapes! Believe me when I tell you&#8230; these videos are CREEPY. Can we make sense of the LORE and figure out the story behind these terrifying tapes? Tune in and find out&#8230; &#10;&#10;Watch the series &#9658; https://www.youtube.com/playlist?list=PL5S08KNkAGHM69mZ6LOx4JypuqUnM4wcV&#10;&#10;Check out the Reddit! &#9658;&#9658; https://www.reddit.com/r/GameTheorists/  &#10;Subscribe to GTLive! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;&#10;0:00 - The Fainty Banter&#10;11:50 - so&#8230; unalived kid theories, amirite?&#10;51:07 - The Witty Wrap up&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/GTLive&#10;&#10;#battington #harmonyandhorror #battingtontapes #analoghorror #theorycraft #vhs  #GTLive #MatPat #GameTheory&#10;&#10;Subscribe &#38; hang out with me! &#9658;&#9658; http://bit.ly/1Oo7KH9&#10;Follow us on Twitter at @MatPatGT and #GTLive"
     channeltitle "GTLive"
     channelid "UCAaegDUlb7doIKo0Rc1F08g"
@@ -5437,7 +5437,7 @@ graph
     commentcount 2010
     duration "PT52M29S"
     indegree 10
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5445,7 +5445,7 @@ graph
     label "AcgkA14FFj0"
     step 0
     date "2020-08-05T02:24:32Z"
-    title "Super Mario reacts to Game Theory [Part 1?] &#166;&#166;Original&#166;&#166;"
+    title "Super Mario reacts to Game Theory [Part 1?] "
     description ""
     channeltitle "agrace932"
     channelid "UCfL9MU9fLLHQJc0y0Psddow"
@@ -5455,7 +5455,7 @@ graph
     commentcount 2241
     duration "PT14M39S"
     indegree 4
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5463,7 +5463,7 @@ graph
     label "p8OYQQEFExM"
     step 0
     date "2018-09-29T20:00:03Z"
-    title "Game Theory: How To WIN A War (Assassin&#38;#39;s Creed Odyssey)"
+    title "Game Theory: How To WIN A War (Assassins Creed Odyssey)"
     description "Special thanks to Ubisoft for partnering with us for this video!&#10;Buy Assassin's Creed Odyssey on Oct 5th!  &#9658; http://ubi.li/22cb3&#10;Surviving Assassin's Creed Leap of Faith &#9658; https://bit.ly/2OXu0Ld&#10;&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6&#10;&#10;Assassin's Creed Odyssey is a game about choice. Are you going to fight for Athens or Sparta? Today Theorists, I am going to give you the information you NEED to help you make the RIGHT CHOICE. You want to WIN the war? Here's how!  &#10;&#10;Find the game here! &#9658; https://assassinscreed.ubisoft.com/game/en-gb/home&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;More THEORIES:&#10;The Assassin's Creed Shared Universe Conspiracy &#9658; https://bit.ly/2Qi3j4d&#10;Did I Find Fortnite's SECRET Lore? &#9658; https://bit.ly/2Gmuu9v&#10;How Assassin's Creed Predicted the Future of Science &#9658; https://bit.ly/2R8jGl6&#10;WARNING! Pokemon May Cause DEATH! &#9658; http://bit.ly/2FnHjRl&#10;EXPOSING the Real Gangs of Assassin's Creed Syndicate &#9658; https://bit.ly/2xYfhZd&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;Culture Shock &#9658;&#9658; http://bit.ly/1sw7aZ8&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;#AssassinsCreed #AssassinsCreedOdyssey #Ubisoft #Sparta #FilmTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5473,7 +5473,7 @@ graph
     commentcount 10698
     duration "PT13M25S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5481,7 +5481,7 @@ graph
     label "cJYmAKF0f4g"
     step 0
     date "2019-07-17T15:00:03Z"
-    title "Debunking MatPat&#38;#39;s Hollow Knight Theory"
+    title "Debunking MatPats Hollow Knight Theory"
     description "Wow, my first response video. I guess I'm finally a real YouTuber now. It's all downhill from here!&#10;&#10;This is a response to the new Game Theorists video discussing a theory about Team Cherry's Hollow Knight. Overall, I was not impressed. Join me as we dig into MatPat's arguments and, who knows, maybe the real theory will be the friends we make along the way.&#10;&#10;Game Theory: The Secret Identity of Hollow Knight's Hero (Hollow Knight):&#10;https://youtu.be/gaFdVG503rw&#10;&#10;My theory on the King's Pass tablets:&#10;https://docs.google.com/document/d/1i4PnRQSfRz3fHNz7oimxvJwUS7XNVB0Jl203rpxsInc/edit?usp=sharing&#10;&#10;Video Script/List of Songs/Sources:&#10;https://mossbag69.blogspot.com/2019/07/debunking-matpats-hollow-knight-theory.html&#10;&#10;Translate this video into another language through Amara:&#10;https://amara.org/en/videos/VxCbrSAbmSjJ/info/debunking-matpats-hollow-knight-theory/&#10;&#10;Special thanks to Serena, Katie &#38; 56 for creating the Debug mod. Very useful!&#10;&#10;Video Chapters&#10;0:00 Spoiler Warning&#10;0:05 Introduction&#10;3:27 MatPat's Claim&#10;4:57 The Knight is a Higher Being&#10;10:53 Elegy For Hallownest&#10;14:09 Elderbug&#10;17:08 Other NPC Interactions&#10;20:51 Wyrm Transformation&#10;22:41 Pale King and the Void&#10;25:47 Throne Room Egg&#10;28:42 Abyss Egg&#10;31:05 Abyss Cutscene&#10;33:45 Nursury Song&#10;34:57 MatPat's Timeline&#10;38:26 Ignoring other evidence&#10;39:19 &#34;No cost too great&#34;&#10;39:46 King's Brand&#10;41:06 Curing Infection&#10;41:59 Monarch Wings&#10;42:12 &#34;...Father?...&#34;&#10;43:03 Final Recap&#10;44:50 MatPat is a cool guy&#10;45:39 Outro"
     channeltitle "mossbag"
     channelid "UCTvH45HvnOzqXvfNJqdc3xg"
@@ -5491,7 +5491,7 @@ graph
     commentcount 12019
     duration "PT46M43S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5499,7 +5499,7 @@ graph
     label "EJL13Bl9gS0"
     step 0
     date "2019-12-10T21:05:52Z"
-    title "Game Theory: The Tragedy of Minecraft&#38;#39;s Sunken Tomb (The Drowned)"
+    title "Game Theory: The Tragedy of Minecrafts Sunken Tomb (The Drowned)"
     description "Get Your NEW Holiday Theory Wear NOW! &#9658; http://creatorink.co/theory-wear&#10;SUBSCRIBE to never miss a Theory! &#9658; http://bit.ly/1qV8fd6&#10;&#10;Last episode we talked a lot about the many mysteries of Minecraft's underwater biome and I mentioned that I would need to bench our deep dive into The Drowned for another day. Well Theorists, today is that day! The Drowned are FASCINATING&#160;and have a pretty tragic past. What piece of lore will we unearth today? Watch to find out!&#10;&#10;Get the game here &#9658;&#9658; https://www.minecraft.net/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6 &#160;&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#Minecraft #TheDrowned #UnderwaterCity #ElderGuardian #UnderwaterBiome #MinecraftLore #MinecraftTheory #Theory #GameTheory &#10;&#10;More THEORIES:&#10;The TRUTH About MINECRAFT&#8217;s World! &#9658;&#9658; https://goo.gl/XySv1N&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Editors: Marc Schneider, Josh Langman, Tyler Mascola, and&#160;Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#160;&#10;https://minecraft.gamepedia.com/Ocean_ruin&#160;https://minecraft.gamepedia.com/Buried_treasure&#10;https://thornews.com/2013/01/15/moskstraumen-maelstrom-where-captain-nemo-and-the-nautilus-disappeared/"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5509,7 +5509,7 @@ graph
     commentcount 15681
     duration "PT15M23S"
     indegree 24
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5527,7 +5527,7 @@ graph
     commentcount 1771
     duration "PT1H3M57S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5535,7 +5535,7 @@ graph
     label "x8wErKYTS1A"
     step 0
     date "2016-06-18T20:23:19Z"
-    title "Game Theory: Solving Raticate&#38;#39;s &#38;quot;DEATH&#38;quot; (Pokemon Red and Blue)"
+    title "Game Theory: Solving Raticate (Pokemon Red and Blue)"
     description "Get a free 30 day trial of Audible &#9658; http://bit.ly/MatPatAudible2016&#10;Special thanks to Audible for partnering with us for this episode!&#10;MEGA Evolution Theory &#9658;&#9658; http://bit.ly/1JnsZRh&#10;&#10;It's one of the oldest and most infamous creepypastas out there -- that you killed your Rival's Raticate in Pokemon Red and Blue. But are you truly an eleven-year-old with blood on your hands? Unlike most other creepypasta, this Pokemon theory actually HAS evidence that gives us a definitive answer one way or the other, evidence that has gone largely unnoticed for the better part of the last decade. So today's Pokemon Theory is putting this question to rest...pun intended. Should Red be renamed as &#34;Murderer Red?&#34; Let's find out!&#10;&#10;More Nintendo Theories:&#10;TRUTH Behind the Amiibo Shortage &#9658;&#9658; http://bit.ly/1SdXBxF&#10;Smash Bros TRAGIC Hidden Lore! &#9658;&#9658; http://bit.ly/1TihYXy&#10;BEWARE Link's Hookshot! &#9658;&#9658; http://bit.ly/202rFxm&#10;&#10;Meta Theories:&#10;How PEWDIEPIE PWN'd YouTube &#9658; http://bit.ly/1LffhpD &#10;Gamers, You're getting PLAYED! &#9658;&#9658; http://bit.ly/1V22nNy&#10;Yes, PewDiePie, YouTube is BROKEN &#9658;&#9658; http://bit.ly/237Gtvg&#10;&#10;Physics and Body Theories:&#10;Chun-Li's DEADLY Helicopter Kick! &#9658;&#9658; http://bit.ly/1OCQMWN&#10;How Deadly is Super Mario's Bullet Bill? &#9658; http://bit.ly/1SDminK&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;Call of Duty's Regenerating Health  &#9658; http://bit.ly/1nAtuny&#10;&#10;Twitter: @MatPatGT&#10;Hang out with us on our NEW CHANNEL GTLive! &#9658;&#9658; http://bit.ly/1LkSBnz&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Check out some more of our awesome video game content:&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA&#10;&#10;This video was sponsored by Audible, but all opinions are my own"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5545,7 +5545,7 @@ graph
     commentcount 31544
     duration "PT14M45S"
     indegree 14
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5553,7 +5553,7 @@ graph
     label "2NFDajQyliU"
     step 0
     date "2022-04-09T17:05:21Z"
-    title "Food Theory: Is MrBeast&#38;#39;s Chocolate ILLEGAL? (MrBeast Bars)"
+    title "Food Theory: Is MrBeasts Chocolate ILLEGAL? (MrBeast Bars)"
     description "Special thanks to Hello Fresh for sponsoring this episode!&#10;Get up to 16 FREE MEALS + 3 Surprise Gifts w/ code FOODTHEORY16 &#10;across 6 HelloFresh boxes plus FREE shipping &#9658; https://bit.ly/3n5rV39&#10;&#10;By now most of you have heard of the latest contest being put on by @MrBeast. Yes, I am talking about MrBeast's Chocolate Factory giveaway where you can buy his chocolate bars for the chance to find a golden ticket. Hmmmm... that sounds pretty familiar. Now, I'm not here to guess if MrBeast's next goal is to become Willy Wonka. I want to talk about the contest itself. Is it legal? Can you win without spending ANY money? You'll need to watch to find out!&#10;&#10;Get Your Theory Wear NOW! &#9658; https://theorywear.com/&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; https://bit.ly/2CdCooV  &#10; &#10;Want More FOOD THEORY?&#10;You've Been SCAMMED! (Supermarket Secrets) &#9658; https://youtu.be/EqviBPG2uPE&#10;Tootsie Pops, How Many Licks? &#9658; https://youtu.be/qOS5NAdyWDw&#10;Never Order McDonald's Medium Fries! &#9658; https://youtu.be/c_jnZkVlNtw&#10;Kool Aid Man Is A Marvel Villain! &#9658; https://youtu.be/CuZ14w_g3WA  &#10;Don't Trust Your Cake! &#9658; https://youtu.be/dulS3GGiJ7M  &#10;&#10;Join our other Theorist Communities!&#10;Game Theory! &#9658; http://bit.ly/1qV8fd6  &#10;Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658;  http://share.epidemicsound.com/theFoodTheorists&#10;&#10;Credits:&#10;Writers: Matthew Patrick and Justin Kuiper&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi and Alex &#34;Sedge&#34; Sedgwick&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman&#10;&#10;#MrBeast #Feastables #Chocolate #MrBeastBars #MrBeastChocolate #WillyWonka #ChocolateBars #HowToWin #Illegal #FoodTheory #MatPat #GameTheory #FilmTheory"
     channeltitle "The Food Theorists"
     channelid "UCHYoe8kQ-7Gn9ASOlmI0k6Q"
@@ -5563,7 +5563,7 @@ graph
     commentcount 5433
     duration "PT16M30S"
     indegree 13
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -5571,7 +5571,7 @@ graph
     label "AGDT6OXhCpw"
     step 0
     date "2020-04-18T18:05:05Z"
-    title "Game Theory: FNAF 4, The Body Snatchers (Five Nights at Freddy&#38;#39;s)"
+    title "Game Theory: FNAF 4, The Body Snatchers (Five Nights at Freddys)"
     description "Special thanks to Raycon for sponsoring this episode!&#10;Get 15% off your order here! &#9658; https://buyraycon.com/matpat&#10;&#10;With all the pushes going on in media, like the MCU and James Bond, it's good to know that Five Nights at Freddy's is still going strong and coming out with new stories for me to theorize about. One of my favorite FNAF characters is the little plush monster himself, Psychic Friend Fredbear. He, and the other monster toys found throughout the FNAF franchise, are FULL of secrets. What are these toys and what do they have to do with stealing the forms of human children? Let's dive in!&#10;&#10;Find the game here &#9658; http://www.scottgames.com/&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;Get yourself some Theory Wear!! &#9658; https://bit.ly/2N1m7V7  &#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6   &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz &#10;&#10;#FNAF #FNAFTheory #FiveNightsAtFreddys #Scary #Horror #FNAFBooks #FNAFTimeline #Theory #GameTheory &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u  &#10;&#10;Credits:&#10;Writers: Matthew Patrick&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi, Dan &#34;Cybert&#34; Seibert, and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://www.reddit.com/r/fivenightsatfreddys/comments/evttcv/just_a_note_about_the_story/ &#10;https://www.amazon.com/Five-Nights-Freddys-Fazbear-Frights/dp/1338576054"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5581,7 +5581,7 @@ graph
     commentcount 30544
     duration "PT19M59S"
     indegree 59
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 103
     duration "PT19M36S"
     indegree 15
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 44370
     duration "PT19M17S"
     indegree 11
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -5625,7 +5625,7 @@ graph
     label "j2IHH0wnHFw"
     step 0
     date "2022-05-09T15:00:39Z"
-    title "The Story of Poppy Playtime: Chapter 2 Explained"
+    title "The Story of Poppy Playtime: Chapter 2 E tongue sticking out lained"
     description "We take a look at the story of Poppy Playtime Chapter 2, in a new theory / story explained video. This video aims to rund through the events of Poppy Playtime chapter 2 as well as touching on a few theories along the way. So sit back, relax and let's take a nightmarish trip through the Playtime Co Toy Factory. &#10;&#10;Check out Poppy Playtime: https://store.steampowered.com/app/1721470/Poppy_Playtime/&#10;&#10;PC Specialist built the PC I use: https://pcspeciali.st/superhorrorbro&#10;&#10;Use promo code HORROR for &#163;30 fixed discount on any order&#10;&#10;You've been watching SuperHorrorBro Mike. If you enjoyed this video remember to like, comment and subscribe for more horror related content.&#10;&#10;Music by Kevin MacLeod: https://incompetech.com/"
     channeltitle "SuperHorrorBro"
     channelid "UChL4WU9YLlxXXNSwlzM1-7g"
@@ -5653,7 +5653,7 @@ graph
     commentcount 32
     duration "PT17M3S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5661,7 +5661,7 @@ graph
     label "th_LYe97ZVc"
     step 0
     date "2014-10-23T16:54:41Z"
-    title "Game Theory: Five Nights at Freddy&#38;#39;s SCARIEST Monster is You!"
+    title "Game Theory: Five Nights at Freddys SCARIEST Monster is You!"
     description "FREE FOOD!! &#9658;&#9658; https://naturebox.com/matpat&#10;Special thanks to NatureBox for partnering with us for this episode!&#10;Join the Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;&#10;Another SCARY THEORY for Halloween! This time, by your popular request, FIVE NIGHTS AT FREDDY'S. 2014's hottest survival horror game seems simple at first. But once you start looking past the murderous animatronics, the true story behind Five Nights at Freddy's may be more sinister than you ever expected!&#10;&#10;Other SCARY THEORIES:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;Check out some more of our awesome video game content:&#10;&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5671,7 +5671,7 @@ graph
     commentcount 78607
     duration "PT16M37S"
     indegree 11
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5679,7 +5679,7 @@ graph
     label "AH2hqEN-l28"
     step 0
     date "2022-02-06T20:16:20Z"
-    title "FNAF: Security Breach (My AU) reacts to &#38;quot;Don&#38;#39;t trust Gregory&#38;quot; Game Theory (Read Description)"
+    title "FNAF: Security Breach (My AU) reacts to Game Theory (Read Description)"
     description "I wanted to do something with this FNAF Security Breach AU of mine, and this is the result! &#10;&#10;&#10;Credits to Game Theory. &#10;Full Video: https://youtu.be/8ANfAt4hJ6Y&#10;&#10;&#10;Here are some Important details about my AU (Or just what you see of it in the Video): &#10;&#10;&#8212; What happened to Bonnie?&#10;&#10;After being Decomissioned, he was found by Vanny and she took him down to the underground Pizzaria, where she infected him with the Glitchtrap Virus. &#10;Since the other animatronics are free of the virus now, Glitchtrap has greater Control over Bonnie.&#10;&#10;&#10;&#8212; What happened to Foxy?&#10;&#10;Foxy was the very first of the animatronics to get infected by Glitchtrap. &#10;Foxy was some kind of Guinea pig, to test the control of the Virus over one or multiple animatronics!&#10;It didn't end well for Foxy.....!&#10;Another security guard found him the next morning.&#10;Therefore, Kids Cove also had to temporarily be closed, until they could repair him.&#10;However, for now he's still infected with the virus.&#10;&#10;&#10;&#8212; Where are Bonnie and Foxy at the start of the video?&#10;&#10;Bonnie was in the underground Pizzaria, where the Burtrap boss fight takes place. He was currently recharging.&#10;Foxy was in a storage room in the pizza-plex, where he will continue to be stored, until he could be fixed. &#10;&#10;&#10;&#8212; Chica, Roxy and Monty:&#10;&#10;By the time the AU takes place, the three were already repaired and freed from the Glitchtrap Virus. &#10;The only ones still out to get him are Vanny, Bonnie and Foxy! &#10;But luckily, Gregory now got a lot of animatronic friends protecting him!&#10;&#10;&#10;&#8212; What did Bonnie mean by &#34;Too late! You already did once before!&#34;?&#10;&#10;Bonnie knows that Gregory destroyed Monty, Chica and Roxy on purpose. &#10;Because they understood that Gregory was just a child who was trying to survive, the three animatronics forgave him almost right away and they all decided to not tell Freddy, since it wasn't anything to get worked up about anymore and would only cause unnecessary drama now! &#10;So they lied to him about the accidens. &#10;&#10;&#10;&#8212; Why are Bonnie's and Foxy's eyes sometimes flashing purple? &#10;&#10;That's the influence of the Glitchtrap Virus.&#10;You can also see that at the end, when Glitchtrap speaks through Bonnie!&#10;He can also speak through Foxy, but Bonnie just appeals more to him!&#10;You know? Cause he's a purple bunny and all that? &#10;&#10;&#10;&#10;&#10;Also, in my AU, the animatronics are Humanoid.&#10;I just like that idea!&#10;&#10;&#10;Sorry if It might be kinda lazy.&#10;I'm literally sick and tired and put this together (pun not intended) before going to bed!"
     channeltitle "Lady Lunamoon"
     channelid "UCVTnzd1_N-6Ee1iyg0mYpiw"
@@ -5689,7 +5689,7 @@ graph
     commentcount 378
     duration "PT16M24S"
     indegree 6
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5697,7 +5697,7 @@ graph
     label "ll0eponDUuQ"
     step 0
     date "2022-02-16T22:49:18Z"
-    title "This YouTuber&#38;#39;s &#38;quot;Theory&#38;quot; Was All Wrong..."
+    title "This YouTuber Was All Wrong..."
     description "Honestly I think matt's video was a decent crash course for people new to streaming/twitch especially for a website that has a culture of shunning people for not already knowing everything. There are still enough glaring innaccuracies that I felt I could give more insight on. Here's the original - https://www.youtube.com/watch?v=xGfNyDd5ChQ&#10;&#10;no hard feelings to the game theory team and hopefully everyone from my community treats that like they treat me... except like actually nice. &#10;&#10;follow me on twitter &#9658; https://www.twitter.com/ludwigahgren&#10;follow me on tiktok &#9658; https://www.tiktok.com/@ludwig&#10;follow me on instagram &#9658; https://www.instagram.com/ludwigahgren&#10;join my subreddit &#9658; https://old.reddit.com/r/LudwigAhgren/&#10;LINK TO EVERYTHING &#9658; https://wlo.link/@ludwig&#10;&#10;&#10;edited by: https://twitter.com/shakedrizzle&#10;&#10;#ludwig #gametheory #matpat"
     channeltitle "Ludwig"
     channelid "UCrPseYLGpNygVi34QpGNqpA"
@@ -5707,7 +5707,7 @@ graph
     commentcount 1227
     duration "PT14M29S"
     indegree 2
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5715,7 +5715,7 @@ graph
     label "rh94j7F8BIE"
     step 0
     date "2022-01-22T00:00:31Z"
-    title "They&#38;#39;re Here... | The Mandela Catalogue Vol. 2 Reaction"
+    title "Theyre Here... | The Mandela Catalogue Vol. 2 Reaction"
     description "Get your Theory Wear! &#9658; creatorink.co/4wj &#10;&#10;Youtube's scariest analog horror series, The Mandela Catalogue, is back with volume two! So we're back on the couch to do some general theorizing and see how much of this story we can piece together. &#10;&#10;Find the website here! &#9658; findjackwalten.com&#10;More Walten Files &#9658; https://tinyurl.com/5fseht6k&#10; &#10;0:00 - The Sussy Banter&#10;10:50 - Nothing is Worth The Risk...&#10;54:12 - The Witty Wrap Up&#10;&#10;Subscribe to GTLive! &#9658;&#9658; http://bit.ly/1Oo7KH9 &#10;Check out the Reddit! &#9658;&#9658; https://www.reddit.com/r/GameTheorists/ &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get Your 30 Day Free Trial &#9658; http://share.epidemicsound.com/GTLive &#10;&#10;#MandelaCatalogue #MandelaCatalog #TheMandelaCatalogue #Horror #React #Reaction #WaltenFiles #Local58 #MatPat #GTLive #GTNotLive"
     channeltitle "GTLive"
     channelid "UCAaegDUlb7doIKo0Rc1F08g"
@@ -5725,7 +5725,7 @@ graph
     commentcount 3860
     duration "PT57M59S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 11980
     duration "PT7M"
     indegree 5
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -5751,7 +5751,7 @@ graph
     label "2317ip172lw"
     step 0
     date "2019-09-26T19:05:17Z"
-    title "Game Theory: I Lost EVERY Game of Magic... So You Don&#38;#39;t Have To! (Magic The Gathering)"
+    title "Game Theory: I Lost EVERY Game of Magic... So You Dont Have To! (Magic The Gathering)"
     description "Download Magic: The Gathering Arena FREE on PC Now! &#9658; https://bit.ly/2l3rUQs &#10;Special thanks to Wizards of the Coast for sponsoring this episode!&#10;&#10;When Wizards of the Coast approached us about doing an episode on Magic the Gathering, I felt like this was the sign I was waiting for to enhance my skills. By that I mean, learn how to finally win! I wanted to become the best Magic player I could and to do so, I needed to bring in some magic of my own - math! Stay with me, Theorists. Today we are going to learn the tricks to winning any game of Magic. Draw your cards!&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#MagicTheGathering #MTG #Magic #CardGame #Math #WizardsoftheCoast #MagicArena #GameTheory &#10;&#10;More THEORIES:&#10;What is MatPat Hiding? &#9658;&#9658; https://bit.ly/2Zjmhvy&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#10;&#10;Credits:&#10;Writers: Matthew Patrick &#10;Researcher: Justin Kuiper&#10;Editors: Alex &#34;Sedge&#34; Sedgwick, Tyler Mascola, and Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://www.mtgtop8.com/event?e=22299&#38;f=ST&#10;http://www.streamdecker.com/deckstack/UYWkYdizu&#10;http://www.pokerology.com/lessons/poker-tells/"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5761,7 +5761,7 @@ graph
     commentcount 10267
     duration "PT20M4S"
     indegree 27
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 7644
     duration "PT18M45S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5797,7 +5797,7 @@ graph
     commentcount 302
     duration "PT19M9S"
     indegree 10
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -5805,7 +5805,7 @@ graph
     label "N3Zj-hMEL-k"
     step 0
     date "2019-12-21T19:05:09Z"
-    title "Film Theory: The Uncomfortable&#160;Truth about the&#160;Jedi&#160;Order (Star Wars:&#160;Jedi&#160;are Evil)"
+    title "Film Theory: The Uncomfortableare Evil)"
     description "Never miss a Film Theory! &#9658; http://bit.ly/1dI8VBH &#10;Find out HOW the Force Really WORKS! &#9658; https://bit.ly/2PnMK84&#160;&#10;&#10;Watching back all the old Star Wars movies in preparation for episode 9, Rise of Skywalker, brought to my attention something VERY troubling. The Jedi are awful! Now, don't pull out your lightsabers just yet. There is SO MUCH evidence pointing to the Jedi having some shady practices, especially when it comes to the Padawans. Strap it tight, Theorists. I'm about to rip open all the troublesome truths about the Jedi Order.&#10;&#10;Rey and Kylo Ren thumbnail art by Tyler Wetta &#9658;&#160;https://www.deviantart.com/tyler-wetta&#160;&#10;&#10;Subscribe to not miss a Film Theory! &#9658; http://bit.ly/1dI8VBH &#10;&#10;#StarWars #Jedi #RiseofSkywalker #Episode9 #Yoda #LukeSkywalker #KyloRen #Rey #FilmTheory #Matpat&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get Your 30 Day Free Trial Now &#9658; http://share.epidemicsound.com/TheFilmTheorists&#10;&#10;Credits:&#10;Writer: Stephanie Patrick and&#160;Justin Kuiper&#160;&#160;&#10;Editors:&#160;Danial &#34;BanditRants&#34; Keristoufi&#160;and&#160;&#160;Koen Verhagen&#160;&#160;&#160;&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://www.psychologytoday.com/us/blog/how-raise-happy-cooperative-child/201806/the-effect-separating-children-their-parents"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -5815,7 +5815,7 @@ graph
     commentcount 19115
     duration "PT13M14S"
     indegree 8
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5833,7 +5833,7 @@ graph
     commentcount 66787
     duration "PT19M4S"
     indegree 28
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 30935
     duration "PT22M22S"
     indegree 47
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5869,7 +5869,7 @@ graph
     commentcount 23709
     duration "PT10M45S"
     indegree 5
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5877,7 +5877,7 @@ graph
     label "bMluX3C59UU"
     step 0
     date "2022-07-09T18:00:19Z"
-    title "Amanda&#38;#39;s New VHS Tape is Horrifying || Amanda the Adventurer - Update 3 (Playthrough)"
+    title "Amandas New VHS Tape is Horrifying || Amanda the Adventurer - Update 3 (Playthrough)"
     description "In today's video we check out the latest update to creepy kids tv show horror game Amanda the Adventurer. This time a mysterious new vhs tape has appeared... but what's on it and what does it mean for the story of Amanda? Watch on to find out...&#10;&#10;Check out Amanda the Adventurer: https://jpgamedesign.itch.io/amanda-the-adventurer&#10;&#10;PC Specialist built the PC I use: https://pcspeciali.st/superhorrorbro&#10;Use promo code HORROR for &#163;30 fixed discount on any order&#10;&#10;You've been watching SuperHorrorBro Mike. If you enjoyed this video remember to like, comment and subscribe for more horror related content."
     channeltitle "SuperHorrorBro"
     channelid "UChL4WU9YLlxXXNSwlzM1-7g"
@@ -5887,7 +5887,7 @@ graph
     commentcount 1479
     duration "PT13M42S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5895,7 +5895,7 @@ graph
     label "gdEuJ1hAVhQ"
     step 0
     date "2016-06-16T18:48:47Z"
-    title "Science Blaster (Song Remix created by Nirre &#38;amp; Acid Usagi) Game Theory Audio Spectrum Tribute"
+    title "Science Blaster (Song Remix created by Nirre Acid Usagi) Game Theory Audio Spectrum Tribute"
     description "Awesome job Nirre and Acid Usagi. And keep on Theorizing Mat Pat. You both are extremely awesome! =D&#10;&#10;Original Creators: Nirre &#38;Acid Usagi.&#10;Song Name: Science Blaster&#10;Used in: Game Theory 2016 Intro"
     channeltitle "Sound Pulse Music!"
     channelid "UCcXCSllR_N5xvR34Ky_yilg"
@@ -5905,7 +5905,7 @@ graph
     commentcount 12191
     duration "PT3M3S"
     indegree 4
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 64951
     duration "PT25M6S"
     indegree 14
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5931,7 +5931,7 @@ graph
     label "dT6odjCnKqg"
     step 0
     date "2022-01-09T19:05:06Z"
-    title "Game Theory: The SECRET Game You Didn&#38;#39;t Find...(Inscryption)"
+    title "Game Theory: The SECRET Game You Didnt Find...(Inscryption)"
     description "SUBSCRIBE to Never Miss A Theory! &#9658; https://goo.gl/kQWHkJ     &#10;   &#10;In my last episode on Inscryption, we covered the main game... and the game within that game. Well today we are going to talk about the other game within both of those games that is even harder to find. Yes, Inscription is an ARG. Theorists, this game goes DEEP so let's not waste any time.&#10;&#10;Master ARG Document By Jeck0_0#7272 &#9658; https://docs.google.com/document/d/1O5R23P03Kn79gBLANXiR97yFaTisA7LwT17SApuKd64/edit?usp=sharing&#10;&#10;Find out more about the game! &#9658; https://store.steampowered.com/app/1092790/Inscryption/&#10;&#10;Get your Theory Wear! &#9658; https://creatorink.co/4wj&#10;SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ &#10;&#10; Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;#Inscryption #Scary #ScaryGame #Horror #ARG #InscryptionARG #InscryptionGame #Inscription #InscriptionGame #MatPat #Theory #GameTheory    &#10;&#10;More THEORIES: &#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF, The Monster We MISSED! &#9658;&#9658; https://youtu.be/_ygN8HLCaJg&#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF, You Were Meant To Lose &#9658; https://youtu.be/7bn8hM9k0b0&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u   &#10;&#10;Credits:&#10;Writers: Matthew Patrick, Justin Kuiper and Tom Robinson&#10;Editors: Pedro Freitas and Tyler Mascola&#10;Assistant Editor: Caitie Turner (Caiterpillart)&#10;Sound Editor: Yosi Berman"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5941,7 +5941,7 @@ graph
     commentcount 21124
     duration "PT14M23S"
     indegree 4
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5949,7 +5949,7 @@ graph
     label "xkVIqB8tw2A"
     step 0
     date "2019-09-12T18:05:12Z"
-    title "Game Theory: Do Video Games Cause Violence? It&#38;#39;s Complicated."
+    title "Game Theory: Do Video Games Cause Violence? Its Complicated."
     description "SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Watch our Fortnite video on this! &#9658; https://bit.ly/2kwAZAP&#10;&#10;Do video games make you a more violent and aggressive person? That is the question we are covering today. We touched on this topic before in our episode &#34;Does Fortnite Make You Violent?&#34; but I think, in the wake of current happenings, it deserves a deeper look. This is a tricky and very personal topic for myself and many others, so I am going to do my best to do my due diligence. Today we attempt to answer the long argued question, &#34;Do Video Games Make You Violent?&#34;&#10;&#10;Pacman footage from Old Classic Retro Gaming &#9658; https://www.youtube.com/watch?v=HXBmGno0N9w&#10;&#10;Get Your New Back To School Theory Wear Here!! &#9658; http://creatorink.co/tw-yt   &#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6  &#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnz&#10;&#10;#VideoGames #VideoGameViolence #Violence #Debate #Issue #GameTheory &#10;&#10;More THEORIES:&#10;What is MatPat Hiding? &#9658;&#9658; https://bit.ly/2Zjmhvy&#10;The END of Princess Peach! &#9658; https://bit.ly/2CJuYbm&#10;Minecraft's Ending, DECODED! &#9658;&#9658; http://bit.ly/2d5o2Ky&#10;Mario Kart 8, Mario's SCARIEST Game? &#9658; https://bit.ly/2wyeell&#10;What's Diamond Armor Worth IRL? &#9658;&#9658; http://bit.ly/1Q5xhmM&#10;&#10;Credits:&#10;Writers: Matthew Patrick &#10;Editors: Alex &#34;Sedge&#34; Sedgwick, Josh Langman, Tyler Mascola, and Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://royalsocietypublishing.org/doi/10.1098/rsos.171474&#10;http://www.ox.ac.uk/news/2019-02-13-violent-video-games-found-not-be-associated-adolescent-aggression &#10;https://www.mayoclinicproceedings.org/article/S0025-6196(11)65185-9/pdf &#10;https://www.researchgate.net/profile/Hueseyin_Uzunboylu/publication/259424092_The_Relationship_of_Computer_Games_and_Reported_Anger_in_Young_People/links/56df256b08aee77a15fcf49c/The-Relationship-of-Computer-Games-and-Reported-Anger-in-Young-People.pdf&#10;https://journals.sagepub.com/doi/10.1177/1745691615592234 &#10;https://journals.sagepub.com/doi/10.1177/0146167208327216&#10;https://www.eurekalert.org/pub_releases/2017-03/f-vvg030117.php&#10;https://www.nature.com/articles/srep09763&#10;http://sci-hub.tw/https://journals.sagepub.com/doi/10.1177/1477370817717070&#10;https://adc.bmj.com/content/98/5/341&#10;https://www.apa.org/about/policy/violent-video-games&#10;https://pediatrics.aappublications.org/content/138/2/e20161298&#10;https://journals.sagepub.com/doi/abs/10.1177/0093650212446622?journalCode=crxa&#10;https://medium.com/the-peruser/a-brief-history-of-video-game-sales-49edbf831dc&#10;https://fivethirtyeight.com/features/the-u-s-murder-rate-is-up-but-still-far-below-its-1980-peak/&#10;https://videogames.procon.org/view.resource.php?resourceID=003627#Violence&#10;https://en.wikipedia.org/wiki/Gun_violence_in_the_United_States#Mass_shootings&#10;https://portal.ct.gov/-/media/DCJ/SandyHookFinalReportpdf.pdf?la=en&#10;https://www.theguardian.com/world/2012/apr/19/anders-breivik-call-of-duty&#10;https://www.secretservice.gov/data/protection/ntac/ssi_final_report.pdf&#10;https://www.pewresearch.org/fact-tank/2018/09/17/5-facts-about-americans-and-video-games/&#10;https://psycnet.apa.org/record/2017-05552-007&#10;http://www.the100.ci/2018/09/27/the-failed-replication-of-a-retracted-study/ &#10;https://newzoo.com/insights/rankings/top-10-countries-by-game-revenues/&#10;https://pediatrics.aappublications.org/content/138/2/e20161298&#10;https://pdfs.semanticscholar.org/5e60/c8440d231e5f2c80691dabd0102d6f1eefd8.pdf&#10;http://www-personal.umich.edu/~bbushman/BH06.pdf&#10;http://ocw.metu.edu.tr/pluginfile.php/2357/mod_resource/content/2/optional_AndersonDill_Video%20Games%20and%20Aggressive%20Thoughts.pdf&#10;https://www.york.ac.uk/news-and-events/news/2018/research/no-evidence-to-link-violence-and-video-games/&#10;https://www.supremecourt.gov/opinions/10pdf/08-1448.pdf&#10;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206767&#10;https://drdouglas.org/GSLK_PPMC2012.pdf&#10;https://en.wikipedia.org/wiki/Dickey_Amendment&#10;https://en.wikipedia.org/wiki/Tiahrt_Amendment"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5959,7 +5959,7 @@ graph
     commentcount 32314
     duration "PT22M26S"
     indegree 11
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 8613
     duration "PT15M24S"
     indegree 4
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5985,7 +5985,7 @@ graph
     label "nktY6sHuFj8"
     step 0
     date "2017-02-26T23:24:25Z"
-    title "Game Theory: Gaster&#38;#39;s Identity REVEALED! (Undertale)"
+    title "Game Theory: Gasters Identity REVEALED! (Undertale)"
     description "Flowey in MINECRAFT! &#9658; http://bit.ly/2kU8eJl &#10;Part 1 - Who is W.D. Gaster?! &#9658;&#9658; http://bit.ly/2kT33t4&#10;&#10;It's part 3 of my Undertale trilogy. We finally get to the bottom of the Gaster mystery with our greatest weapon of all -- SCIENCE! We've done a good job of connecting Sans to the Undertale mystery but what about Papyrus? How does he fit into all this? Well Papyrus is a lot less innocent than he appears. So crank up the Megalovania and stay Determined, it's the FINAL Game Theory on Undertale!&#10;&#10;(And btw: Thanks for all your incredible support on this series! I hope you've enjoyed it as much as I've enjoyed making it!)&#10;&#10;Gaster sprite by Kazoomageddon on Tumblr &#9658; https://bit.ly/2qCjkdJ&#10;&#10;Become a Theorist! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;THANKS to literally ALL the editors for their amazing work on this video!&#10;&#10;Mario Theories:&#10;How Rich is Luigi? (Luigi's Mansion) &#9658;&#9658; http://bit.ly/2jwHVea&#10;Would Super Mario Win the Olympics? &#9658;&#9658; http://bit.ly/2jfEQ2O&#10;Mario is a Psychopath! &#9658;&#9658;&#9658; http://bit.ly/1nSum0E&#10;&#10;META Theories!&#10;Is YouTube Killing Pewdiepie? &#9658;&#9658; http://bit.ly/2hzdgcD&#10;Media Bias is killing video games?&#9658;  http://bit.ly/2gMECeM&#10;Was 2015 the END of YT Rewind? &#9658; http://bit.ly/2hfSzmk&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;Pokemon Theories:&#10;Pokemon GO's TRAGIC END! &#9658;&#9658; http://bit.ly/2hXveIb&#10;Are Humans Pokemon? YES! &#9658;&#9658; http://bit.ly/1Bexblg&#10;Pokemon Evolution EXPLAINED &#9658; http://bit.ly/1zwIHus&#10;&#10;Check out some more of our awesome video game content:&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Break Down: http://bit.ly/2iN4fjQ&#10;The SCIENCE!: http://bit.ly/2hVUknO&#10;A Brief History: http://bit.ly/2iJ4KJd"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -5995,7 +5995,7 @@ graph
     commentcount 38962
     duration "PT15M43S"
     indegree 8
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 222
     duration "PT7M1S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6031,7 +6031,7 @@ graph
     commentcount 4544
     duration "PT12M32S"
     indegree 42
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount 5695
     duration "PT18M14S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 228
     duration "PT22M44S"
     indegree 15
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6075,7 +6075,7 @@ graph
     label "Zi6j1o55xiY"
     step 0
     date "2022-05-21T15:00:25Z"
-    title "Chapter 3 Location &#38;amp; Plot REVEALED?! (Poppy Playtime Theory)"
+    title "Chapter 3 Location Plot REVEALED?! (Poppy Playtime Theory)"
     description "FOLLOW ME ON INSTAGRAM: https://www.instagram.com/sheeprampageyt/&#10;&#10;JOIN DISCORD https://discord.gg/3H8TfNMEzq&#10;&#10;HorrorScopeds vid: https://youtu.be/-nNRXd8xluc&#10;&#10;POPPY PLAYTIME CHAPTER THREEE??&#10;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#10;&#10;USE CODE &#34;RMPG&#34; IN THE ITEM SHOP FOR AN... um idk, JUST DO IT # ad&#10;&#10;&#9654;BECOME A MEMBER: https://www.youtube.com/channel/UCdPf...&#10;-&#10;&#9654;Follow Me On Twitter: https://twitter.com/Sheeprampage&#10;-&#10;&#9654;WARNING: DO NOT CLICK THIS LINK: https://www.youtube.com/sheeprampage?...&#10;-&#10;&#9654;Join My Discord Server: https://discord.gg/EWVWfWd&#10;-&#10;&#9654;Follow Me On Instagram: https://www.instagram.com/sheeprampageyt&#10;- &#10;- &#10;-&#10;If you have any problems with the footage/thumbnail art used feel free to contact me!&#10;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#10;&#10;Description (From Wikipedia)&#10;&#10;Poppy Playtime: Chapter 1 - A Tight Squeeze, commonly known as Chapter One or abbreviated as CH1, is the first chapter for Poppy Playtime. It was released on October 13 on Steam.&#10;&#10;It revolves around the unamed player, an ex-employee of the toy manufacturing business Playtime Co. whose employees when missing abruptly one day, and receives a letter from an anonymous sender stating that 'we're still here'. This incites the protagonist to go back to the abandoned factory and investigate it to find out what is happening.&#10;&#10;Playtime Co. is a toy-making company, and the location where the game takes place. It was likely established in the 1950s, considering the aesthetic and lack of deeply advanced technology. However, the factory likely made its demise some time past the 80s depending.&#10;&#10;In this game, you play as an ex-employee of a company labelled &#34;Playtime Co.&#34; Playtime Co. was once a corporate giant company that was in the toy manufacturing industry - that was until everybody inside the factory went missing. Now, years later, you return to the factory to investigate these unknown missing cases.&#10;&#10;One of the main mascots of PlayTime Co, he was one of the best sellers and found a place in the hearts of many children across the globe due to the fact that he was programmed to hug people, or because he was found to be cute. Nobody really knows what made him so appealing. However, due to experimentation on the toys at Playtime Co., a Huggy Wuggy seems to have come to life and gone rogue, killing everyone that crosses its path.&#10;&#10;The Player is the main protagonist of Poppy's Playtime and is the person you currently play as during Chapter 1: A Tight Squeeze. There is not much to say about The Player since we never get a introduction to who they could be.&#10;&#10;However, there's a recurring theory that the live toys, such as the murderous HH, were actually human experiments. There's a theory that the player has ties to whoever was running the operation, or looked similar to them, which is why they were so ferociously attacked. This is not canon, and this may be disputed later on as more lore is revealed.&#10;&#10;Poppy Playtime is a minor character inside Chapter 1, and will most likely be an important character for the upcoming chapters. Poppy is a highly intelligent toy, she has the ability to properly converse with a child. She's also programmed to talk and communicate like a real little girl. Her first debut is in Chapter 1 and is featured inside the first VHS tape the player receives in the game, in which she appears in her own commercial tape.&#10;&#10;In the final scene, she's seen in a glass case seemingly dormant, until the player opens her case. Her eyes open, the lights go out and you hear her say, &#34;You opened my case...&#34;&#10;&#10;The Grab Pack was shown to have been used by factory workers to do heavy lifting and general tasks that would have been hard for the average man to do alone, or even in groups. Not to mention, that in the chase scene, the player used it to pull a huge box over an entrance to deter a murderous Huggy Wuggy, and instead destroys the entire mesh floor with the box and takes Huggy Wuggy down with it.&#10;&#10;This shows that it's incredibly powerful, managing to pull down a box like that with ease. In VHS 2, it's also shown that it can easily decapitate a person with relative ease. In VHS 2, because of this, it was strongly advised to use these with care for that very reason. Decapitating your coworker is not ideal.&#10;&#10;(Steam Page)&#10;You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility... and don't get caught.&#10;&#10;------"
     channeltitle "Sheeprampage"
     channelid "UCdPf5251gNKwd8hIBz3RtYg"
@@ -6103,7 +6103,7 @@ graph
     commentcount 14213
     duration "PT15M46S"
     indegree 10
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 1623
     duration "PT1H18M21S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 987
     duration "PT17M41S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6147,7 +6147,7 @@ graph
     label "an4pHcye2Mc"
     step 0
     date "2020-12-02T04:49:59Z"
-    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Markiplier, Dream, Pokimane, &#38;amp; more!"
+    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Markiplier, Dream, Pokimane, more!"
     description "Donate with the blue donate button!&#10;Special thanks to our title sponsors:  State Farm&#174;, for being such a good neighbor; and YouTube Originals, for making this possible.&#10; &#10;*All giveaways have ended*&#10;&#10;We are so excited to be hosting our 2nd livestream in support of St. Jude Children's Research Hospital&#174;. Last year you helped us raise over $1.3 MILLION dollars, helping to advance treatments &#38; cures for childhood cancer &#38; other life-threatening diseases and ensuring no family receives a bill from St. Jude for anything.. We know our community can do it again... &#38; more! &#10; &#10;YOU CAN HELP NOW by clicking the donate button &#38; giving towards our $1,000,000 goal. We&#8217;ll get there with YOUR help! 100% of EVERY DOLLAR YOU DONATE goes to treating children &#38; helping defeat cancer once &#38; for all!   &#10;&#10;Every $10 donation will get you 1 entry into the giveaway. If you donate more than $10, every incitement of $10 over that you donate will also earn an entry. &#10;Example: $20 = 2 entries; $30 = 3 Entries; $100 = 10; $1,000 = 100&#10;For the full rules &#9658; https://bit.ly/3nZem32&#10; &#10;By donating &#38; entering the giveaway you have a chance to win 1 of the following prizes:&#10;- 1 of 5 Elgato Creator Bundles including:&#10;   - Streamdeck&#10;   - Ringlight&#10;   - Wave: 1 Microphone&#10;   - Green Screen&#10;- 1 of 5 Stadia Premiere editions -&#10;   - Stadia Pro Controllers&#10;   - Google Chromecast Ultra&#10;   - 3 Months Pro subscription free&#10;- 1 of 5 Theorist Merch Swag Bags! (signed by Matt &#38; Steph) &#10;- 1 of 2 FNAF x Theorist Merch Swag Bags! &#10;- A one-year subscription to BarkBox brought to you by BarkBox! &#10;- FNAF: Security Breach Giveaway&#10;- Colorware Nintendo Switch &#10;- Colorware Airpods&#10; &#10;Leaderboard 2020:&#10;The leaderboard is CUMULATIVE, adding up donations made throughout the entirety of the livestream. So if you're donating multiple times throughout the day, just make sure it's through the same username.  &#10;- Top 100 will receive a gold foil shirt&#10;- Top 1 gets a special feature shout-out in an upcoming episode of Game Theory &#10; &#10;Find out how to be a part of our FNAF + Crowd Control game! &#9658; https://bit.ly/3nZem32&#10; &#10;The Mission of St. Jude:&#10;St. Jude Children&#8217;s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Treatments invented at St. Jude have helped push the overall childhood cancer survival rate from 20% to more than 80% since it opened more than 50 years ago. And families never receive a bill from St. Jude for treatment, travel, housing or food&#8212;because all they should worry about is helping their child live. Join us in our lifesaving mission: Finding cures. Saving children.&#174; &#10;&#10;It's an honor to support the St. Jude mission with the help of the Theorist Community today.&#10;For more information on St. Jude and the work they do, visit their official website. &#9658; https://www.stjude.org/&#10;And visit their official channel! &#9658; https://bit.ly/35Js2J8&#10; &#10;Thank you to all of our sponsors &#38; donors for giving to such a great cause &#38; helping us put on this challenge!&#10;State Farm&#174;, our title sponsor.&#10;YouTube Originals and YouTube, who are powering this stream and providing our platform&#10;Ocean Spray&#174;&#10;Wizards of the Coast&#10;Green Giant&#174;&#10;BarkBox&#10;Giving Good Cards&#10;American Airlines&#10; &#10;Special Thanks to our guests!  &#10;Alpharad &#9658; https://bit.ly/3fhe18P&#10;Alton Dulaney &#9658; https://bit.ly/2Hgr3H0&#10;Binging with Babish &#9658; https://bit.ly/2KfRX2O&#10;Chloe Ting &#9658; https://bit.ly/3lZYhtz&#10;Colleen Ballinger &#9658; https://bit.ly/3nEDZ9k&#10;CrankGamePlays &#9658; https://bit.ly/3kJVDqk&#10;Dawko &#9658; https://bit.ly/3nCHJYO&#10;Disguised Toast &#9658; https://bit.ly/2UH2c2d&#10;DJ Sterf &#9658; https://bit.ly/2IRC16D&#10;Dream &#9658; https://bit.ly/3lN3B3c&#10;Game Grumps &#9658; https://bit.ly/2IUtYGf&#10;Hollis Belger &#9658; https://bit.ly/2KmEwOL&#10;Jaiden Animations &#9658; https://bit.ly/36X2Lea&#10;Jake Roper &#9658; https://bit.ly/3fiJJTg&#10;Josh (Mythical Kitchen) &#9658; https://bit.ly/38WQfOj&#10;Kyle Hill &#9658; https://bit.ly/2ULrT1q&#10;Marques Brownlee &#9658; https://bit.ly/3kNCHXu&#10;Mark Rober &#9658; https://bit.ly/3fhusSk&#10;Markiplier &#9658; https://bit.ly/36Ox2vv&#10;Mike Lamond &#9658; https://bit.ly/3lYYGvW&#10;MrBeast &#9658; https://bit.ly/36OyBJO&#10;Odd1sOut &#9658; https://bit.ly/3pH47C9&#10;PhysicsGirl &#9658; https://bit.ly/3fmMD9y&#10;Pokimane &#9658; https://bit.ly/2IMobC9&#10;Random Encounters &#9658; https://bit.ly/3onNMRf&#10;Rhett and Link &#9658; https://bit.ly/3fc3ewE&#10;Rosanna Pansino &#9658; https://bit.ly/36U6cBY&#10;Safiya Nygaard &#9658; https://bit.ly/2UIYHs0&#10;Stuff Made Here &#9658; https://bit.ly/2HkumwY&#10;Try Guys &#9658; https://bit.ly/38WRa1d&#10;Tyler Williams &#9658; https://bit.ly/3fdBO9u&#10;Veritasium &#9658; https://bit.ly/3lNJ8v1&#10;ZHC &#9658; https://bit.ly/2UH35YB&#10; &#10;Special thanks to our production partners who made this stream happen!&#10;To the teams at Mobeon, Tiltify, &#38; Crowd Control - we thank you!&#10; &#10;To learn more about our on set safety, click here &#9658; https://bit.ly/3nZem32&#10; &#10;#GameTheory #ForStJude #Markiplier #MrBeast #Dream #Pokimane #TryGuys #SafiyaNygaard #DisguisedToast #MarquesBrownlee #JaidenAnimations"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -6157,7 +6157,7 @@ graph
     commentcount 10295
     duration "PT10H22M11S"
     indegree 3
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -6165,7 +6165,7 @@ graph
     label "25PPglvoyrA"
     step 0
     date "2021-09-04T02:54:57Z"
-    title "Nash Equilibrium|Dominant Strategy|Game Theory|Explained with example|Economics for Beginner|Masters"
+    title "Nash Equilibrium|Dominant Strategy|Game Theory|E tongue sticking out lained with example|Economics for Beginner|Masters"
     description "To jump directly to the examples start from - 0.40.&#10;This video is all about Nash equilibrium &#38; dominant strategies in game theory fully explained with the help of examples.&#10;&#10;&#10;I am an Assistant Professor in Mumbai. I have cleared UGC-NET 2019,2020."
     channeltitle "Eco Inclined By Pooja Jain"
     channelid "UC1hkkNHl90SbROMp3AB-L6w"
@@ -6175,7 +6175,7 @@ graph
     commentcount 59
     duration "PT10M8S"
     indegree 9
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6193,7 +6193,7 @@ graph
     commentcount 92
     duration "PT53M36S"
     indegree 4
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6211,7 +6211,7 @@ graph
     commentcount 21
     duration "PT4M37S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6219,7 +6219,7 @@ graph
     label "9_mZ-8PdvmM"
     step 0
     date "2019-03-31T18:06:56Z"
-    title "Game Theory: The FNAF 7 Oopsie! Scott&#38;#39;s Problem With Fanart"
+    title "Game Theory: The FNAF 7 Oopsie! Scotts Problem With Fanart"
     description "Game Theory's Biggest Problem &#9658; https://bit.ly/2YASSxv&#10;SUBSCRIBE for More Theories! &#9658; http://bit.ly/1qV8fd6 &#10;&#10;Just a little while ago, Scott Cawthon resurfaced with a FNAF 7 teaser image that was quickly removed because - SHOCKER - it contained fan created models of the FNAF characters. If that sounds complicated, the short of it is that Scott (or rather his team) used fanart in their official teaser image. Those of us who have been on the internet for a little while know that is a big no-no. Yet if Scott owns the characters, but the fan artist owns the fanart, who has a right to the art? It's the big copyright paradox! Today I aim to unravel that knot!&#10;&#10;Find the game here. &#9658; http://www.scottgames.com/&#10;&#10;Our breakdown of the FNAF 7 Teaser! &#9658; https://bit.ly/2UhsF7X&#10;&#10;Get Your own Chaos Theory Wear!  &#9658; https://creatorink.com/gametheory&#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound.&#10;Get A 30 Day Free Trial! &#9658; http://share.epidemicsound.com/MatPat&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;Hang out with us on GTLive! &#9658; http://bit.ly/1LkSBnzhttp://bit.ly/1LkSBnz&#10;&#10;#FNAF #Fanart #FNAF7 #FiveNightsAtFreddys #SisterLocation #FNAFVR #FNAFTrailer #UltimateCustomNight #FNAF6 #ScottCawthon #FNAFTeaser #GameTheory&#10;&#10;More FNAF Theories! &#9658;&#9658;&#10;FNAF, The FINAL Timeline &#9658;&#9658; https://bit.ly/2MlHYFe&#10;FNAF We Were RIGHT All Along!&#9658;&#9658; https://bit.ly/2LOy2Ee &#10;FNAF This Theory Changes Everything &#9658; https://bit.ly/2JUQUn6&#10;FNAF We were RIGHT all along! &#9658; https://bit.ly/2LOy2Ee&#10;FNAF 6, No More Secrets &#9658; https://bit.ly/2LVCq4u&#10;&#10;Check out some more of our awesome video game content: &#10;Game Theory &#9658;&#9658; http://bit.ly/1zz3t7E&#10;The SCIENCE! &#9658;&#9658; https://goo.gl/GFK9EV&#10;&#10;Credits:&#10;Writers: Stephanie Patrick&#10;Editors: Alex &#34;Sedge&#34; Sedgwick, Marc Schneider, and Tyler Mascola&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman&#10;&#10;Sources:&#10;https://old.reddit.com/r/fivenightsatfreddys/comments/azzpeq/new_teaser_on_scottgames/eib6n5g/&#10;https://www.reddit.com/r/fivenightsatfreddys/comments/b00y83/sorry_guys/&#10;https://www.reddit.com/r/fivenightsatfreddys/comments/b0p7ad/update_on_the_vr_situation/&#10;https://www.polygon.com/2016/2/24/11105554/uncharted-4-trailer-stolen-assassins-creed-black-flag-concept-art &#10; https://www.gamesindustry.biz/articles/2013-06-25-naughty-dog-accused-of-swiping-last-of-us-in-game-art&#10;https://www.youtube.com/watch?v=M16CGK1T9MM&#10;https://www.cnet.com/news/blizzard-trying-to-crack-down-on-overwatch-porn/ &#10;https://www.blizzard.com/en-us/legal/dd76b654-f2c4-4aaa-ba49-ca3122de2376/blizzard-video-policy&#10;https://www.wired.com/2011/01/hope-image-flap/ &#10; http://www.nintendolife.com/news/2015/10/the_pokemon_company_sues_fan_for_copyright_infringement_demands_usd4000_in_damages&#10;https://www.pcworld.com/article/2044685/i-almost-got-sued-for-knitting-a-firefly-hat-the-legal-risks-of-pop-culture-fan-art.html &#10; http://www.anime-expo.org/get-involved/artist-alley/"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -6229,7 +6229,7 @@ graph
     commentcount 19851
     duration "PT20M26S"
     indegree 12
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -6237,7 +6237,7 @@ graph
     label "X-zPrXJpiAw"
     step 0
     date "2018-01-09T19:00:15Z"
-    title "Film Theory: Is SAO the MOST EXPENSIVE GAME EVER? (Sword Art Online)"
+    title "Film Theory: Is SAO the MOST E tongue sticking out ENSIVE GAME EVER? (Sword Art Online)"
     description "SUBSCRIBE for More Film Theories! &#9658; http://bit.ly/1dI8VBH&#10;Your SOUL&#8217;S Price? (Fullmetal Alchemist) &#9658; https://goo.gl/KwMAeL&#10;How DEADLY is Death Note? &#9658;&#9658; https://goo.gl/ppzpui&#10;&#10;SWORD ART ONLINE is one of the most (in)famous anime out there today, and its premise is cooler than most whole shows. SAO is a fully immersive VR MMO&#8212;so immersive that people in the game can LITERALLY die from playing it. Needless to say, this sort of VR experience doesn&#8217;t exist yet, but we&#8217;re definitely creating the groundwork that will lead to this tech. But knowing how much our current VR systems cost, is a game like SAO even feasible for developers? How much would it cost to create something as ambitious as this? Well, Loyal Theorists, the answer is SO MUCH MORE than you expect!&#10;&#10;MORE FILM THEORIES&#10;High School Musical&#8217;s TROY LIES! &#9658;&#9658; https://goo.gl/oNMtER&#10;Spongebob Is ADOPTED! &#9658;&#9658; https://goo.gl/545zfq&#10;The Emoji Movie is ILLEGAL! &#9658;&#9658; https://goo.gl/LsA7Pa&#10;Gravity Falls ISN&#8217;T OVER! &#9658;&#9658; http://bit.ly/2l2P2dt&#10;Will MORTY KILL RICK?! &#9658;&#9658; https://goo.gl/GBkFhi&#10;Is THOR Stronger Than THE HULK? &#9658;&#9658; https://goo.gl/VDYAqc&#10;Don't Hug Me I'm Scared DECODED! &#9658;&#9658; http://bit.ly/FTDHMIS &#10;&#10;SOCIAL MEDIA:&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;Instagram:  instagram.com/matpatgt"
     channeltitle "The Film Theorists"
     channelid "UC3sznuotAs2ohg_U__Jzj_Q"
@@ -6247,7 +6247,7 @@ graph
     commentcount 36811
     duration "PT16M5S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6265,7 +6265,7 @@ graph
     commentcount 62335
     duration "PT16M20S"
     indegree 15
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -6273,7 +6273,7 @@ graph
     label "d1kw1RmzrPc"
     step 0
     date "2014-12-09T18:06:49Z"
-    title "Game Theory: FNAF 2, Gaming&#38;#39;s Scariest Story SOLVED!"
+    title "Game Theory: FNAF 2, Gamings Scariest Story SOLVED!"
     description "UNLIMITED TV! &#9658;&#9658; http://www.huluplus.com/matpat&#10;Special thanks to Hulu for partnering with us for this episode!&#10;Join the Theorists! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;&#10;THIS GAME IS SO COMPLICATED! You asked for it and so we dug deep into the convoluted lore of Freddy Fazbear's Pizzeria to answer ALL the questions the game leaves out there. Is it a prequel or sequel? What's the actual timeline? And who IS the Golden Freddy Killer? We're spending another Five Nights at Freddy's, so prepare to be scared. &#10;&#10;Other SCARY THEORIES:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;Mega Man: Death by Robot &#9658; http://bit.ly/110OaKY&#10;Polybius: The CIA Conspiracy &#9658; http://bit.ly/1EDrFv2&#10;&#10;GAME THEORY MERCH! &#10;Equip it HERE &#9658;&#9658; http://gametheory.spreadshirt.com/&#10;&#10;Twitter: @MatPatGT&#10;Facebook: facebook.com/GameTheorists&#10;&#10;Legend of Zelda Theories:&#10;What's in Link's Potions? &#9658; http://bit.ly/Zj2FsS&#10;Majora's Moon ISN'T a Moon &#9658; http://bit.ly/1DN6lTa&#10;Which Link is the strongest? &#9658; http://bit.ly/11pgbvi&#10;&#10;Nintendo Theories:&#10;Can Bullet Bill kill you? &#9658;&#9658; http://bit.ly/1lu41Lo&#10;Mario is a Psychopath! &#9658;&#9658;&#9658;http://bit.ly/1nSum0E&#10;&#10;CoD/Shooter Theories:&#10;Call of Duty: Death from Space &#9658; http://bit.ly/1stq1Hs&#10;The Warcrimes of Call of Duty &#9658; http://bit.ly/1twsP5J&#10;What Sex is Team Fortress 2's Pyro &#9658; http://bit.ly/1xY8yXh&#10;&#10;Check out some more of our awesome video game content:&#10;&#10;Game Theory: http://bit.ly/1zz3t7E&#10;Culture Shock: http://bit.ly/1sw7aZ8&#10;Digressing and Sidequesting: http://bit.ly/1rxBUgz&#10;Crossover: http://bit.ly/1t9AclA"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -6283,7 +6283,7 @@ graph
     commentcount 72711
     duration "PT17M52S"
     indegree 9
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 7800
     duration "PT13M32S"
     indegree 7
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -6319,7 +6319,7 @@ graph
     commentcount 14329
     duration "PT16M31S"
     indegree 12
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6327,7 +6327,7 @@ graph
     label "7FQoGPM4v4c"
     step 0
     date "2022-06-03T13:00:09Z"
-    title "Iron Lung STORY &#38;amp; ENDING EXPLAINED"
+    title "Iron Lung STORY ENDING E tongue sticking out LAINED"
     description "Sub to gamersault/ gamer sault for more horror game related content.&#10;&#10;Iron Lung STORY &#38; ENDING EXPLAINED, iron lung game all endings, iron lung game ending, iron lung game, iron lung full game, iron lung endings, iron lung ending, iron lung story, iron lung game explained, iron lung explained, iron lung story explained, iron lung ending explained, iron lung all endings explained, iron lung game story explained, iron lung game ending explained"
     channeltitle "GamerSault"
     channelid "UCZ9zJNZDmuQQ7Uw97Kdjwkw"
@@ -6337,7 +6337,7 @@ graph
     commentcount 531
     duration "PT11M11S"
     indegree 5
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6355,7 +6355,7 @@ graph
     commentcount 3
     duration "PT26M52S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6363,7 +6363,7 @@ graph
     label "62mGOYRbTDA"
     step 0
     date "2021-08-29T18:05:19Z"
-    title "Food Theory: Don&#38;#39;t Order These Chicken Sandwiches! (McDonalds, KFC, and &#8230;)"
+    title "Food Theory: Don)"
     description "Get Your Theory Wear NOW! &#9658; https://bit.ly/3rTdGj6&#10;&#10;We've told you how to optimize your fries, how to get the best deal when you order a pizza, and what fast food soda size is worth the money. Now, we are tackling crispy fried chicken sandwiches. What chain has the BEST chicken sandwich according to our rigorous grading system? We are putting McDonalds, Burger King, KFC, Chick-Fil-A, and MORE to the test. Let's get EATING!&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; https://bit.ly/2CdCooV  &#10;Get Your Theory Wear NOW! &#9658; https://bit.ly/3rTdGj6  &#10; &#10;Want More FOOD THEORY?&#10;You've Been SCAMMED! (Supermarket Secrets) &#9658; https://youtu.be/EqviBPG2uPE&#10;Tootsie Pops, How Many Licks? &#9658; https://youtu.be/qOS5NAdyWDw&#10;Never Order McDonald's Medium Fries! &#9658; https://youtu.be/c_jnZkVlNtw&#10;Kool Aid Man Is A Marvel Villain! &#9658; https://youtu.be/CuZ14w_g3WA    &#10;Don't Trust Your Cake! &#9658; https://youtu.be/dulS3GGiJ7M  &#10;&#10;Join our other Theorist Communities!&#10;Game Theory! &#9658; http://bit.ly/1qV8fd6  &#10;Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658;  http://share.epidemicsound.com/theFoodTheorists &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Luke Barats&#10;Editors: Danial &#34;BanditRants&#34; Keristoufi and Forrest Lee&#10;Assistant Editor: AlyssaBeCrazy&#10;Sound Editor: Yosi Berman &#10;&#10;#Chickfila #McDonalds #BurgerKing #Popeyes #KFC #Chicken #ChickenSandwich #FriedChicken #FoodTheory #Food #Recipe #Matpat #GameTheory #FilmTheory"
     channeltitle "The Food Theorists"
     channelid "UCHYoe8kQ-7Gn9ASOlmI0k6Q"
@@ -6373,7 +6373,7 @@ graph
     commentcount 9162
     duration "PT13M59S"
     indegree 8
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6391,7 +6391,7 @@ graph
     commentcount 980
     duration "PT18M11S"
     indegree 5
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6399,7 +6399,7 @@ graph
     label "X3vTt5iGvfs"
     step 0
     date "2022-07-06T19:30:58Z"
-    title "THE SAD TRUTH!!! Reacting to &#38;quot;Game Theory FIve Nights at Freddy&#38;#39;s Scariest Monster is You&#38;quot;"
+    title "THE SAD TRUTH!!! Reacting to "
     description "Original video: https://www.youtube.com/watch?v=th_LYe97ZVc&#10;&#10;I ate a banana for the first time: https://www.youtube.com/watch?v=ebLQI4A_ewE&#38;t=5s&#10;&#10;Gaming Channel: https://www.youtube.com/channel/UCvY_UN5Yy_IG06zbqvjD5Vg&#10;&#10;Follow me on Twitch here: https://www.twitch.tv/theduckgoesmoo&#10;&#10;Join my Discord Server here: https://discord.gg/dvVn3vD&#10;&#10;Support the channel on Patreon here: https://www.patreon.com/theduckgoesmoo&#10;&#10;Find my first FNAF video: https://youtu.be/qbaX501rN0U&#10;&#10;Thank you all so much for watching I hope you enjoyed! &#10;&#10;Outro Song: https://www.youtube.com/watch?v=hP4mfHcJJow"
     channeltitle "theduckgoesmoo"
     channelid "UCLf7okBJU8O9h9GuT7iFDwg"
@@ -6409,7 +6409,7 @@ graph
     commentcount 253
     duration "PT20M34S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     commentcount 111
     duration "PT29M23S"
     indegree 3
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6435,7 +6435,7 @@ graph
     label "emyi4z-O0ls"
     step 0
     date "2020-08-27T15:00:36Z"
-    title "How to outsmart the Prisoner&#8217;s Dilemma - Lucas Husted"
+    title "How to outsmart the Prisoners Dilemma - Lucas Husted"
     description "Puzzle through the classic game theory challenge, The Prisoner&#8217;s Dilemma, and decide: would you choose to spare or sacrifice? &#10;&#10;--&#10;&#10;Two perfectly rational gingerbread men, Crispy and Chewy, are out strolling when they&#8217;re caught by a fox. Instead of simply eating them, he decides to put their friendship to the test with a cruel dilemma. He&#8217;ll ask each gingerbread man whether he&#8217;d opt to Spare or Sacrifice the other. What should they choose? Lucas Husted dives into the classic game theory scenario: the Prisoner's Dilemma.&#10;&#10;Lesson by Lucas Husted, directed by Ivana Bo&#353;njack and Thomas Johnson.&#10; &#10;Sign up for our newsletter: http://bit.ly/TEDEdNewsletter&#10;Support us on Patreon: http://bit.ly/TEDEdPatreon&#10;Follow us on Facebook: http://bit.ly/TEDEdFacebook&#10;Find us on Twitter: http://bit.ly/TEDEdTwitter&#10;Peep us on Instagram: http://bit.ly/TEDEdInstagram&#10;View full lesson: https://ed.ted.com/lessons/how-to-outsmart-the-prisoner-s-dilemma-lucas-husted&#10;&#10;Thank you so much to our patrons for your support! Without you this video would not be possible! John Hong, Minh Tran, Helen Lee, Anthony Benedict, Turine Tran, Mathew Samuel, Karthik Balsubramanian, Lee, Livia-Alexandra Sarban, Annastasshia Ames, Jo&#227;o Henrique Rodrigues, Sebastiaan Hols, Aries SW, SANG HAN, Amy Lopez, ReuniteKorea, Vinh-Thuy Nguyen, Liz Candee, Clovis Norroy, Danielle Downs, Nik Maier, Angel Pantoja, Nishant Suneja, &#24352;&#26195;&#38632;, Srinivasa C Pasumarthi, Kathryn Vacha, Anthony Arcis, Jeffrey Segrest, Sandra Fuller Bocko, Alex Pierce, Lawrence Teh Swee Kiang, BRENDAN NEALE, Jane White, Karmi Nguyen, John C. Vesey, Yelena Baykova, Harshita Jagdish Sahijwani, Won Jang, Nick Johnson, Tariq Keblaoui, Carlos H. Costa, Eimann P. Evarola, Aleksandr Lyozin, Mohamed Elsayed, Alan Wilder, Marcus Appelbaum, Francisco Leos, Kevin O'Leary, Les Howard and Ten Cha."
     channeltitle "TED-Ed"
     channelid "UCsooa4yRKGN_zEE8iknghZA"
@@ -6445,7 +6445,7 @@ graph
     commentcount 4324
     duration "PT5M45S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6453,7 +6453,7 @@ graph
     label "aa8USttcDoE"
     step 0
     date "2012-09-04T00:06:58Z"
-    title "Game Theory 101 (#8): The Mixed Strategy Algorithm"
+    title "Game Theory 101 (# smiley : The Mixed Strategy Algorithm"
     description "Game Theory 101: The Complete Textbook on Amazon: https://www.amazon.com/Game-Theory-101-Complete-Textbook/dp/1492728152/&#10;&#10;http://gametheory101.com/courses/game-theory-101/&#10;&#10;To check for mixed strategy Nash equilibria, we must run the mixed strategy algorithm. This algorithm shows whether there exists a mixed strategy for a player that leaves the other player indifferent between his or her two pure strategies. If such a mixed strategy exists for both players, then those strategies collectively form a mixed strategy Nash equilibrium.&#10;&#10;The mixed strategy algorithm is the first computationally intensive part of game theory we have encountered. However, we will be using the algorithm quite a bit later on, so do not be worried if the logic of the math is difficult to grasp at first."
     channeltitle "William Spaniel"
     channelid "UCJDIGW0ywWw9Kh9_vtwqxXA"
@@ -6463,7 +6463,7 @@ graph
     commentcount 108
     duration "PT9M34S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6471,7 +6471,7 @@ graph
     label "TEmLrIB3DV4"
     step 0
     date "2022-02-23T01:24:31Z"
-    title "Friday Night Funkin&#38;#39; Matpat Vs Michael Afton FULL WEEK | Lore Expanded (FNF Mod) (Game Theory FNAF)"
+    title "Friday Night Funkin Matpat Vs Michael Afton FULL WEEK | Lore E tongue sticking out anded (FNF Mod) (Game Theory FNAF)"
     description "Friday Night Funkin' Matpat Vs Michael Afton for the PC in 2160p Ultra HD. Matpat is from Game Theory and he is explaining the Five Nights at Freddy's lore through rapping.&#10;Yoshifan33 - submitter: https://youtu.be/wWMruVIj8jk&#10;&#10;Hello everybody and welcome to Game Theory! Today I'm gonna rap battle with one of the Aftons to learn whether or not the crying child really is one of their family, here we go!&#10;&#10;FNF - Lore Expanded [MatPat vs. Michael Afton] Mod Download:&#10;https://gamebanana.com/mods/358958&#10;&#10;This mod is a reskin of the ourple guy / purple guy mod:&#10;https://gamebanana.com/mods/357511&#10;&#10;Game Note: This mod completely overhauls the Lore song from FNF Vs. Ourple Guy, adding completely new sprites, charts, and a remix!?!? Oh yeah, you better believe it.&#10;&#10;I'm glad more Five Nights at Freddy's mod are being made and I'm hoping to see a mod for Five Nights at Freddy's Security Breach at some point. Well, it's a fnaf and game theory crossover, but it's still a fnaf mod in my eyes.&#10;&#10;All Songs from Friday Night Funkin' MatPat vs. Michael Afton Full Week Mod Timestamp:&#10;00:00 Song sounds familiar&#10;00:22 Week List&#10;00:25 Lore Song&#10;02:15 Phone Guy Joins in&#10;03:22 FNAF Rap Battle Song&#10;07:46 All Miss Animations&#10;07:58 Outro - CommunityGame&#10;&#10;Mod Creators for FNF - Lore Expanded [MatPat vs. Michael Afton] below &#10;MatPat vs. Michael Afton Mod Download link: &#10;https://gamebanana.com/mods/350345&#10;Yoshifan33 - Artist, Animator, Programmer, Charter:&#10;https://gamebanana.com/members/1780186&#10;Fidy50 - Charter:&#10;https://gamebanana.com/members/1833903&#10;METR0GARD3N - Musician:&#10;https://www.youtube.com/channel/UCaP1qMKkHYF58ZT4sBGoZmw&#10;kiwiquest - musician/director:&#10;https://twitter.com/SujiiLol&#10;gibs679 - charter:&#10;https://gamebanana.com/mods/357511&#10;Lossarquo - artist:&#10;https://gamebanana.com/mods/357511&#10;MewMarissa - Musician:&#10;https://www.youtube.com/channel/UCRnNaBrivUtAqmSV_kGmgNQ&#10;emi - matpat sprites:&#10;https://gamebanana.com/mods/357511&#10;Matpat - Game Theory: FNAF, The Clue That ALMOST Solves Everything:&#10;https://youtu.be/wBEAjjioZFI&#10;Scott Cawthon - Creator &#38; Developer:&#10;https://mobile.twitter.com/real_scawthon&#10;Scottgames - Developer: &#10;https://scottgames.com/&#10;Clickteam - Developer: &#10;https://www.clickteam.com/&#10;&#10;Get the game and support the creators of the game:&#10;https://ninja-muffin24.itch.io/funkin&#10;https://www.newgrounds.com/portal/view/770371&#10;Friday Night Funkin': The Full Ass Game: &#10;https://www.kickstarter.com/projects/funkin/friday-night-funkin-the-full-ass-game&#10;Friday Night Funkin' - WEEK 7 All Tankman Death Quotes:&#10;https://youtu.be/n8ROKNI2M8c&#10;VS Whitty FULL WEEK (Bye Whitty)&#10;https://youtu.be/fZcf-RAstWI&#10;Friday Night Funkin' - VS Flippy Flipped Out Week:&#10;https://youtu.be/M6HPP81ZnQI&#10;FNF VS Springtrap | Funky Frights WEEK 1 DEMO + Security GF (FNAF 3)&#10;https://youtu.be/Kz2Ok0yLrz4&#10;Friday Night Funkin' VS Freddy Beatbox | FNAF Security Breach in a Nutshell&#10;https://youtu.be/efdgUySDLBI&#10;Friday Night Funkin' - VS Sky Minus FULL WEEK&#10;https://youtu.be/wQ5kwswS_0Q&#10;Friday Night Funkin' VS Withered Freddy FULL WEEK + Cutscenes&#10;https://youtu.be/ujZIPHimTSo&#10;&#10;Rate &#38; Subscribe To CommunityGame&#10;Friday Night Funkin' gameplay @ 1080p 60fps &#38; 4k (2021)&#10;#FridayNightFunkin #GameTheory #FNAF #FNAF #FiveNightsatFreddys #FiveNightsatFreddys4 #CommunityGame&#10;---------------------------------&#10;&#10148; FACEBOOK: http://www.facebook.com/CommunityGameHQ&#10;&#10148; TWITTER: https://twitter.com/#!/CommunityGameHQ&#10;&#10148; INSTAGRAM: https://www.instagram.com/communitygame_hq/&#10;&#10148; SITE: https://www.communitygamehq.com/"
     channeltitle "CommunityGame"
     channelid "UCsJjXWCFZcDn-IAghR--S_A"
@@ -6481,7 +6481,7 @@ graph
     commentcount 1488
     duration "PT8M9S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6489,7 +6489,7 @@ graph
     label "cx1PcFlhv5I"
     step 0
     date "2022-04-24T19:00:09Z"
-    title "The Game Theory Iceberg (ft MatPat &#38;amp; Wendigoon)"
+    title "The Game Theory Iceberg (ft MatPat Wendigoon)"
     description "Install Raid for Free &#9989; Mobile and PC: https://clik.cc/3V5Gr and get a special starter pack &#128165; Available only for the next 30 days &#128165;&#10;&#10;check out @Wendigoon he's a madlad&#10;also check out matpat i guess he has a billion game theory channels&#10;&#10;&#9658;SUB TO MY STREAM HIGHLIGHT YT CHANNEL: https://www.youtube.com/channel/UCNgWKYz-_O0ji11BG9crjLA&#10;&#10;&#9658;SUB TO NUXCORD MY NEW DAILY UPLOAD CHANNEL: https://www.youtube.com/channel/UCTWZz1jXQE8Z7unM6odhg-Q&#10;&#10;&#9658;GET 10-30% OFF G-FUEL WITH CODE &#34;Nux&#34; HERE: https://gfuel.ly/3saqqQB&#10;&#10;&#9658;SUB TO MY SHORTS YT CHANNEL: https://www.youtube.com/channel/UCnO2vxNgTvTK03kEj2Z1rEw&#10;&#10;&#9658;FOLLOW ME ON TWITCH FOR EPIC STREAMS: https://www.twitch.tv/nuxtaku&#10;&#10;&#9658; FOLLOW ME ON TWITTER: https://twitter.com/Nux_Taku &#10;&#10;&#9658;JOIN MY COMMUNITY DISCORD SERVER: https://discord.gg/CCHpaW6QbP&#10;&#10;&#9658; FOLLOW ME ON TIKTOK (yes really): https://www.tiktok.com/@nuxtakuofficial?lang=en&#10;&#10;&#9658;JOIN MY SUBREDDIT: https://www.reddit.com/r/NuxTakuSubmissions/&#10;&#10;&#9658; SUPPORT ME ON PATREON: https://www.patreon.com/nuxtaku&#10;&#10;&#9658; BUY MY MERCH: https://nuxtaku.com&#10;&#10;----------&#10;&#10;Our Rant Cafe Podcast where a bunch of Anime YouTubers get together to rant about random anime topics weekly (live on Twitch Thursdays 5PM EST) is now on EVERY platform, here are the links!&#10;&#10;Rant Cafe YouTube Channel: https://www.youtube.com/channel/UC-HAwls_ET6oUtRQSdZHOYQ&#10;&#10;Rant Cafe Twitch Channel: https://www.twitch.tv/rantcafe&#10;&#10;Rant Cafe Spotify: https://open.spotify.com/show/0NHoFLp2vw36vCCu9jDQHV?si=laSCMSGVTMKEMyBm4XZ_RA&#10;&#10;Rant Cafe SoundCloud: https://soundcloud.com/user-173628041&#10;&#10;----------&#10;&#10;CREDITS:&#10;&#10;Vtube model Live2D : &#10;Enma @ Ironvertex &#10;https://twitter.com/AkatsukiEnma&#10;https://twitter.com/iron_vertex&#10;&#10;My Nux Taku Avatar Artist: https://twitter.com/violett_psycho&#10;&#10;My Revolvania Outro by Nick Nitro: https://www.youtube.com/channel/UClCzAESv7Lq_wAvqhbxa0LQ&#10;&#10;Edited By: Kor&#10;&#10;#NuxTaku #MatPat #GameTheory #Anime #Manga #HonestAnimeDescriptions #Flexes&#10;&#10;----------&#10;&#10;DISCLAIMER: This video and my entire channel is rated PG-13 and should not be viewed by anyone under the age of 13 without direct parental consent."
     channeltitle "Nux Taku"
     channelid "UCBBU7zUOhR_qShfMV26UUCA"
@@ -6499,7 +6499,7 @@ graph
     commentcount 558
     duration "PT21M44S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 5
     duration "PT33M19S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6553,7 +6553,7 @@ graph
     commentcount 91
     duration "PT8M22S"
     indegree 2
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6571,7 +6571,7 @@ graph
     commentcount 94
     duration "PT50M38S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6589,7 +6589,7 @@ graph
     commentcount 43812
     duration "PT9M21S"
     indegree 6
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -6607,7 +6607,7 @@ graph
     commentcount 59964
     duration "PT23M16S"
     indegree 17
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6615,7 +6615,7 @@ graph
     label "m1alpvZHTSg"
     step 0
     date "2019-06-18T18:05:52Z"
-    title "FNAF Was Right! Ennard&#38;#39;s Bodysuit Actually Works! | The SCIENCE of... FNAF Sister Location"
+    title "FNAF Was Right! Ennards Bodysuit Actually Works! | The SCIENCE of... FNAF Sister Location"
     description "BE AWARE! - Footage of dissected frogs appears on screen from 9:06 until 9:29. You can skip this and still understand the entire episode .&#10;&#10;There is a lot to unpack about the FNAF franchise. From the possessed animatronics to wearing a guy like a three piece suit, this series goes to some crazy places. Today, Austin is going to tackle the latter. Could Ennard wear a Purple Guy suit like in FNAF Sister Location or would it be a gross mess? What a question! Let's find out!&#10;&#10;Want to join in the SCIENCE discussion? Head to &#9658;&#9658; discord.gg/theSCIENCE&#10;&#10;Find the game here! &#9658; https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/&#10;&#10;SUBSCRIBE to Catch all the Theories! &#9658; http://bit.ly/1qV8fd6   &#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;WARNING! Pokemon May Cause DEATH! &#9658;&#9658; https://bit.ly/2FnHjRl&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation!  &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon!  &#9658;&#9658; https://bit.ly/2JCwEHP&#10;&#10;Check out some more of our awesome video game content:&#10;Game Theory &#9658;&#9658; https://goo.gl/kQWHkJ&#10;The SCIENCE! &#9658;&#9658; https://bit.ly/2GAYCgW"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -6625,7 +6625,7 @@ graph
     commentcount 13535
     duration "PT13M20S"
     indegree 3
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -6633,7 +6633,7 @@ graph
     label "ZZCuzVbiUJU"
     step 0
     date "2021-12-05T16:51:24Z"
-    title "MONSTER SCHOOL REACTS TO&#8226;&#127918;THE WITHER GAME THEORY&#127918;&#8226;"
+    title "MONSTER SCHOOL REACTS TO"
     description ""
     channeltitle "Itsbruh_gacha"
     channelid "UCMmzZBstDRlxPXlc20Lu0_g"
@@ -6643,7 +6643,7 @@ graph
     commentcount 40
     duration "PT12M55S"
     indegree 1
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6651,7 +6651,7 @@ graph
     label "iUr3ZB3kLbI"
     step 0
     date "2022-06-14T17:00:20Z"
-    title "I Hacked Iron Lung To Reveal Everything The Game Doesn&#38;#39;t Show You"
+    title "I Hacked Iron Lung To Reveal Everything The Game Doesnt Show You"
     description "Iron Lung has an interesting premise, but it also means you barely get to see anything. The only good way to actually see what's outside the sub is to break the game entirely. So I did just that.&#10;&#10;Iron Lung: https://store.steampowered.com/app/1846170/Iron_Lung/&#10;&#10;Chapters&#10;00:00 The Ocean of Beans&#10;00:44 How and Why&#10;01:37 Outside the Sub&#10;02:53 The Hunt Begins&#10;04:01 Revealing the Map&#10;05:23 The Monster&#10;06:04 Technical Stuff&#10;06:43 The Ending&#10;07:13 Wrapping Up&#10;&#10;Subscribe &#9658; https://www.youtube.com/EphiTV?sub_confirmation=1&#13;&#10;Twitter &#9658;https://twitter.com/entropy_phi &#13;&#10;Twitch &#9658; https://www.twitch.tv/ephitv"
     channeltitle "EphiTV"
     channelid "UCTpOAW2D5ZNozvhTTuRCLIQ"
@@ -6661,7 +6661,7 @@ graph
     commentcount 1202
     duration "PT8M24S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6679,7 +6679,7 @@ graph
     commentcount 9907
     duration "PT46M2S"
     indegree 7
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6697,7 +6697,7 @@ graph
     commentcount 53
     duration "PT17M33S"
     indegree 8
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6715,7 +6715,7 @@ graph
     commentcount 3337
     duration "PT2M20S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6723,7 +6723,7 @@ graph
     label "uAcVrcrqhn8"
     step 0
     date "2009-10-26T20:45:20Z"
-    title "Game Theory Part 1: The Prisoners&#38;#39; Dilemma"
+    title "Game Theory Part 1: The Prisoners Dilemma"
     description "This video introduces game theory and goes through an example of the prisoners' dilemma.  It discusses the concept of Nash equilibrium and introduces the idea of a repeated game.&#10;&#10;For more information and a complete listing of videos and online articles by topic or textbook chapter, see http://www.economistsdoitwithmodels.com/economics-classroom/&#10;&#10;For t-shirts and other EDIWM items, see http://www.economistsdoitwithmodels.com/merch/&#10;&#10;By Jodi Beggs - Economists Do It With Models&#10;http://www.economistsdoitwithmodels.com&#10;Facebook: http://www.facebook.com/economistsdoitwithmodels&#10;Twitter:  http://www.twitter.com/jodiecongirl&#10;Tumblr:  http://economistsdoitwithmodels.tumblr.com"
     channeltitle "jodiecongirl"
     channelid "UCjHziSVzA7KN0adkRbfYsXg"
@@ -6733,7 +6733,7 @@ graph
     commentcount 205
     duration "PT9M55S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 6
     duration "PT17M10S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6759,7 +6759,7 @@ graph
     label "QDOGbhjfDns"
     step 0
     date "2022-07-06T19:00:10Z"
-    title "Hungry Lamu - The Story &#38;amp; Endings Explained"
+    title "Hungry Lamu - The Story Endings E tongue sticking out lained"
     description "Hungry Lamu is a game about a very hungry llama... but this being a horror game, not all is as it first seems. This Llama is hungry... for humans. In this video we take a look at the story and all endings for Hungry Lamu as we explain the meaning behind this strange horror game.&#10;&#10;Check out Hungry Lamu here: https://kulurc.itch.io/hungry-lamu&#10;&#10;PC Specialist built the PC I use: https://pcspeciali.st/superhorrorbro&#10;Use promo code HORROR for &#163;30 fixed discount on any order&#10;&#10;You've been watching SuperHorrorBro Mike. If you enjoyed this video remember to like, comment and subscribe for more horror related content."
     channeltitle "SuperHorrorBro"
     channelid "UChL4WU9YLlxXXNSwlzM1-7g"
@@ -6769,7 +6769,7 @@ graph
     commentcount 833
     duration "PT10M13S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6777,7 +6777,7 @@ graph
     label "snjhDUQktMs"
     step 0
     date "2016-06-08T16:52:21Z"
-    title "Can Gamers SURVIVE the Real Mirror&#38;#39;s Edge? - Game Lab"
+    title "Can Gamers SURVIVE the Real Mirrors Edge? - Game Lab"
     description "Watch the 360 Episode! &#9658;&#9658; [INSERT LINK]&#10;Want More NOW? Check Out Game Theory! &#9658;&#9658;http://bit.ly/1jPOmPJ&#10;Become a Theorist! &#9658;&#9658; http://bit.ly/1qV8fd6&#10;&#10;What happens when you train gamers to pull off the moves you see in Mirror's Edge? The OFFICIAL first episode of Game Lab!&#10;&#10;For this episode, I asked a professional parkour trainer to show me and some friends from Smosh Games and The Warp Zone how to execute some of the incredible moves from Mirror's Edge. While our trainer is literally defying the laws of physics and the rest of us are literally falling all over the place in the training room AND on the real streets of Los Angeles, YOU'LL be learning about the mechanics of real-world parkour and how Mirror's Edge stacks up IRL. After you're finished seeing how it's done, step into a Mirror's Edge 360 video where I brought you along on a Mirror&#8217;s Edge mission! &#9658;&#9658; [insert 360 link]&#10;&#10;A HUGE thank you to Mari and Flitz from Smosh Games, as well as Brian from The Warpzone for facing their fears with me in this episode! You guys were incredible and I know I wouldn&#8217;t have been able to attempt these moves without them there. HARDCORE PARKOUR!&#10;&#10;Like Learning about In-Game Physics? Check Out More Game Theories!&#10;The physics of Link&#8217;s Hook Shot! &#9658;&#9658; http://bit.ly/1WPgdXS&#10;Could Wario&#8217;s Fart Rocket Actually Happen? &#9658;&#9658; http://bit.ly/2483bDZ&#10;Is Chun-Li&#8217;s Helicopter Kick in Street Fighter Possible? &#9658;&#9658; http://bit.ly/1TEQQnX&#10;&#10;Watch now with YouTube Premium - https://www.youtube.com/premium/originals. To see if Premium is available in your country, click here: https://goo.gl/A3HtfP"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -6787,7 +6787,7 @@ graph
     commentcount 61030
     duration "PT22M27S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6805,7 +6805,7 @@ graph
     commentcount 71
     duration "PT20M3S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6813,7 +6813,7 @@ graph
     label "mnJpp634eaI"
     step 0
     date "2021-11-13T14:37:03Z"
-    title "MONSTER SCHOOL REACTS TO|&#127918;THE ENDERMAN GAME THEORY &#127918;|(BY MAT PAT THE GAME THEORIEST)"
+    title "MONSTER SCHOOL REACTS TO||(BY MAT PAT THE GAME THEORIEST)"
     description ""
     channeltitle "Itsbruh_gacha"
     channelid "UCMmzZBstDRlxPXlc20Lu0_g"
@@ -6823,7 +6823,7 @@ graph
     commentcount 100
     duration "PT15M17S"
     indegree 3
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6831,7 +6831,7 @@ graph
     label "BTxMDwAGll4"
     step 0
     date "2021-06-03T20:05:56Z"
-    title "What FNAF&#38;#39;s New Look Means For The Future of Gaming&#160;| The SCIENCE of... Ray Tracing"
+    title "What FNAF| The SCIENCE of... Ray Tracing"
     description "SUBSCRIBE to Catch all the Theories! &#9658; https://goo.gl/kQWHkJ&#160; &#160; &#160;&#160;&#10;&#10;When FNAF Security Breach announced&#160;that it would be using ray tracing for it's PS5 release, it raised one question. What the heck is ray tracing? Why is that a selling point and what does it mean for the future of FNAF and other games that use&#160;it like Minecraft? Today, Austin is going to dive into the world of computer graphics to see what&#160;the face of gaming is going to be in the near future and how that could be a great thing...or the worst!&#10;&#10;Join The SCIENCE on Patreon &#9658; https://www.patreon.com/theSCIENCEyt&#10;Want to join in the SCIENCE discussion? &#9658;&#9658; discord.gg/theSCIENCE&#160;&#160;&#10;&#10;Thank you to GamesPOfficial on Twitter for making us the Glamrock Freddy Asset!&#9658; https://twitter.com/GamesPOfficial&#10;&#10;Game Theories:&#10;The Tragedy of Deltarune (Undertale) &#9658; https://bit.ly/2PxobaR&#10;Mario's LUNAR APOCALYPSE!! &#9658;&#9658; https://bit.ly/2FRgd4Y&#10;How DEADLY Is Mario's Bob-Omb? &#9658;&#9658; https://bit.ly/2GnkRLK&#10;What is a Kirby? The SCIENTIFIC PROOF! &#9658; https://bit.ly/2GnPP6t&#10;&#10;More The SCIENCE!&#10;How To SURVIVE A Nuclear Fallout! &#9658; https://bit.ly/2Aaeo1s&#10;MONIKA: Google's Newest Creation! &#9658;&#9658; https://bit.ly/2G3uifh&#10;Minecraft Diamonds DECODED! &#9658;&#9658; https://bit.ly/2IHqk0n&#10;The Move That BROKE Pokemon! &#9658;&#9658; https://bit.ly/2JCwEHP&#10;&#10;#RayTracing #PS5 #FNAF #Minecraft #FNAFSecurityBreach #Graphics #ComputerGraphics #Nvidia&#160;#Theory #TheScience #GameTheory"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -6841,7 +6841,7 @@ graph
     commentcount 6275
     duration "PT20M26S"
     indegree 4
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -6849,7 +6849,7 @@ graph
     label "if2lIItfK_E"
     step 0
     date "2022-01-17T16:00:12Z"
-    title "WATCHING Game Theory: The Tragedy of Minecraft&#38;#39;s Sunken Tomb (The Drowned) For The FIRST TIME!"
+    title "WATCHING Game Theory: The Tragedy of Minecrafts Sunken Tomb (The Drowned) For The FIRST TIME!"
     description "Hot Sauce Beats is Here! Today we are jumping back into MINECRAFT LORE with @The Game Theorists ! We are watching THE TRAGEDY OF MINECRAFTS SUNKEN TOMB (THE DROWNED)! I really think MatPat hit the nail on the head with this one! I had an absolute blast reacting to this and I hope you enjoy the video! PLEASE help SUPPORT and SMASH the SUBSCRIBE and LIKE button! Stay safe out there and have a great day!&#10;&#10;SUBSCRIBE TO THE GAME THEORISTS&#10;Game Theory: The Tragedy of Minecraft's Sunken Tomb (The Drowned)&#10;https://www.youtube.com/watch?v=EJL13Bl9gS0&#38;list=PLKGMzcgzO7kjvIvyhswPMvyqZeRd9_wk0&#38;index=6&#38;ab_channel=TheGameTheorists&#10;&#10;Check out my first ever Dream SMP Original Song!&#10;The BALLAD of GHOSTBUR - Hot Sauce Beats [Dream SMP original song]&#10;https://www.youtube.com/watch?v=RQFZG...&#10;&#10;ADD ME ON ALL PLATFORMS!&#10;TWITCH-https://twitch.tv/hotsaucebeats402&#8203;&#8203;&#8203;...&#10;Discord-&#8203;&#8203;&#8203;&#8203; &#8203;&#8203;https://discord.gg/mSRbTc7XTg&#10;EMAIL- hotsaucebeats@yahoo.com   &#10;Instagram- @hotsaucebeats402&#10;TikTok- @hotsaucebeats&#10;&#10;Check out my last 5 videos!&#10;&#10;SAD ANIMATION! Dream SMP Animatic || Under the surface (REACTION!) Casserole :D | Tubbo&#10;https://www.youtube.com/watch?v=YhdJuFLTSLw&#38;ab_channel=HotSauceBeats&#10;&#10;WATCHING TommyInnit's Most Insane MCC Moments!&#10;https://www.youtube.com/watch?v=e1N5G...&#10;&#10;INSANE LORE VIDEO! Dream SMP: The Revival Book... (REACTION!) Dream's First Lore Video&#10;https://www.youtube.com/watch?v=L7jP_...&#10;&#10;WATCHING Anthony Padilla I Spent A Day With CORPSE HUSBAND For The FIRST TIME!&#10;https://www.youtube.com/watch?v=IWbCL...&#10;&#10;LOGAN SCAMMED! Logan Paul I Lost $3,500,000 On Fake Pokemon Cards (FIRST REACTION!)&#10;https://www.youtube.com/watch?v=LKEqg...&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.&#10;&#10;#TheGameTheorists #TheTragedyOfMinecraftsSunkenTombTheDrowned #GameTheory #GameTheoryTheTragedyOfMinecraftsSunkenTombTheDrowned #MatPat #GameTheoryMinecraftLore #GameTheoryHistoryOfMinecraft #TheGameTheoristsReaction #TheTragedyOfMinecraftsSunkenTombTheDrownedReaction #GameTheoryReaction #GameTheoryTheTragedyOfMinecraftsSunkenTombTheDrownedReaction #MatPatReaction #GameTheoryMinecraftLoreReaction #GameTheoryHistoryOfMinecraftReaction"
     channeltitle "Hot Sauce Beats"
     channelid "UCl-EK36hkQf4BgngYdd--Gg"
@@ -6859,7 +6859,7 @@ graph
     commentcount 52
     duration "PT18M35S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6867,7 +6867,7 @@ graph
     label "d6QEintFJhc"
     step 0
     date "2022-02-26T18:55:23Z"
-    title "Funkin&#38;#39; at Freddy&#38;#39;s - Secret Song: Just A Theory ( Vs Game Theory )"
+    title "Funkins - Secret Song: Just A Theory ( Vs Game Theory )"
     description "ofc a matpat song was inevitable. sounds absolutely bangin', and the sprites are wonderful as always&#10;&#10;sorry 4 shitty gameplay i'm on my laptop rn&#10;&#10;DOWNLOAD: https://gamejolt.com/games/VsAfton/680949"
     channeltitle "trippinreal"
     channelid "UCwIUwhFGUoWEj4axSfisQbA"
@@ -6877,7 +6877,7 @@ graph
     commentcount 511
     duration "PT1M59S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6885,7 +6885,7 @@ graph
     label "qU1Fyf81lG4"
     step 0
     date "2022-07-02T23:05:18Z"
-    title "Andy&#38;#39;s Apple Farm"
+    title "Andys Apple Farm"
     description "Just a perfectly ordinary trip to a definitely not scary Apple Farm!&#10;LISTEN TO DISTRACTIBLE &#9658;&#9658; https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x&#10;MY COMFY CLOTHES &#9658; https://cloakbrand.com/&#10;&#10;Play the Game &#9658; https://store.steampowered.com/app/1810960/Andys_Apple_Farm/&#10;&#10;Edited By &#9658; https://twitter.com/rad_r&#10;And &#9658; https://www.youtube.com/LixianTV&#10;&#10;Scary Games Playlist &#9658; https://www.youtube.com/playlist?list=PL3tRBEVW0hiBSFOFhTC5wt75P2BES0rAo&#10;&#10;Horror Outro &#9658; https://soundcloud.com/shurkofficial/haunted"
     channeltitle "Markiplier"
     channelid "UC7_YxT-KID8kRbqZo7MyscQ"
@@ -6903,7 +6903,7 @@ graph
     label "K1H5X_7xwns"
     step 0
     date "2022-06-10T16:14:04Z"
-    title "The Apology MatPat NEVER Thought He&#38;#39;d Make"
+    title "The Apology MatPat NEVER Thought Hed Make"
     description "MatPat accidentally unleashed a mighty host of FNAF fans upon the US state of Utah.&#10;&#10;It's ironic too, because the story MatPat used to justify this seemed to be sending the exact opposite message. Also - there's some pretty compelling evidence that there's ACTUALLY going to be a Freddy Fazbear Pizza Delivery Service run by the same ghost-kitchen company that does Beastburger: https://freddyfazbearspizzadelivery.com&#10;&#10;This was edited down from one of my recent livestreams; trying something a little different with this video.&#10;&#10;GAME THEORY APOLOGY VIDEO: youtu.be/CtmtEgSADgs&#10;&#10;GAME THEORY (we still luv u MatPat): https://www.youtube.com/c/GameTheorists&#10;&#10;MUSIC&#10;&#10;Stickerbrush Symphony (DK2) - DONI &#12484;: youtu.be/_Ax7oLtowsQ&#10;&#10;If you'd like to support my channel, you can become a member by clicking the JOIN button or the link below!&#10;https://www.youtube.com/channel/UCrPNGGhENA6kLPAXsPA7IJg/join&#10;&#10;#fnaf #matpat #gametheory"
     channeltitle "theft king"
     channelid "UCrPNGGhENA6kLPAXsPA7IJg"
@@ -6913,7 +6913,7 @@ graph
     commentcount 967
     duration "PT7M15S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6931,7 +6931,7 @@ graph
     commentcount 226
     duration "PT25M31S"
     indegree 7
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -6949,7 +6949,7 @@ graph
     commentcount 13103
     duration "PT11M11S"
     indegree 9
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 616
     duration "PT46S"
     indegree 7
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -6985,7 +6985,7 @@ graph
     commentcount 17973
     duration "PT25M12S"
     indegree 7
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6993,7 +6993,7 @@ graph
     label "B39LNWooKEg"
     step 0
     date "2022-05-25T07:05:56Z"
-    title "&#120282;&#120302;&#120314;&#120306; &#120295;&#120309;&#120306;&#120316;&#120319;&#120326; &#120323;&#120310;&#120305;&#120306;&#120316;&#120320; &#120303;&#120306; &#120313;&#120310;&#120312;&#120306;?"
+    title "?"
     description "&#9658; BENBROS channel membership https://bit.ly/2HHWSIz &#9668;&#10;&#9658; Join my Discord Server https://discord.gg/X3RvzVwVew &#9668;&#10;&#9658; BENBROS Jr. (2nd Channel) https://www.youtube.com/c/BENBROSJr &#9668;&#10;&#10;****************************&#10;&#10;Hey Gentlemen &#38; Ladies, It's BENBROS.&#10;The title of this video is &#34;Game Theory MEME: &#34;&#120282;&#120302;&#120314;&#120306; &#120295;&#120309;&#120306;&#120316;&#120319;&#120326; &#120323;&#120310;&#120305;&#120306;&#120316;&#120320; &#120303;&#120306; &#120313;&#120310;&#120312;&#120306;?&#34;. &#10;This is a game theory meme, not the actual game theory video. I intended to make it like a bit more drunken video.&#10;I just wanted to make the comparison video between genshin impact and league of legends.&#10;But hey, it's jus a theory A GAME THEORY!!&#10;&#10;Thanks to @The Game Theorists for amazing contents all the time.&#10;&#10;Hope this meme also bring him more people to his channel.&#10;&#10;&#9658; Source used&#10;You can find the actual game theorist video in&#10;@The Game Theorists &#10;https://www.youtube.com/c/GameTheorists&#10;--------------------------------------------&#10;MatPat Voice from&#10;https://uberduck.ai/&#10;--------------------------------------------&#10;Sweaty Speedrun guy (@H*ck No) &#10;https://www.youtube.com/c/HckNo&#10;&#10;&#9658; Background music used&#10;Side Scroller - RKVC&#10;Slow Tango - Andrew Huang&#10;Nutty Comedy - Biz Baz Studio&#10;Freeling - Lauren Duski&#10;&#10;Hope you guys enjoy the video.&#10;&#10;Thanks for watching and subscribe for more meme videos.&#10;&#10;#GameTheory #genshinimpact  #leagueoflegends&#10;&#10;****************************&#10;&#10;BENBROS in other social media platforms&#10;&#9654;  Facebook - https://www.facebook.com/itsbenbros&#10;&#9654;  Twitter -  https://twitter.com/BENBROS &#10;&#9654;  Patreon - https://www.patreon.com/BENBROS"
     channeltitle "BENBROS"
     channelid "UCL-R6H88Ou6XsGx3zDus4IA"
@@ -7003,7 +7003,7 @@ graph
     commentcount 585
     duration "PT1M20S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7011,7 +7011,7 @@ graph
     label "n0jSQA2RPog"
     step 0
     date "2022-06-18T18:53:28Z"
-    title "Ranboo Reacts to &#38;quot;Your Memories Are Corrupted (Generation Loss) - Game Theory"
+    title "Ranboo Reacts to Your Memories Are Corrupted (Generation Loss) - Game Theory"
     description "#ranboo #ranbooreaction #reaction #ranboovods #ranboomcc #ranboopride &#10;&#10;&#10;The Game Theorist : https://youtu.be/xzKw6_E74Lo&#10;&#10;Ranboo:&#10;&#10;Youtube : https://www.youtube.com/channel/UCKQ-wNdh0kO5qnpPfXa2hjQ&#10;&#10;&#10;Twitch : https://www.twitch.tv/ranboolive"
     channeltitle "Mutant YT"
     channelid "UCKAxxqJNje18XSCo0UWCjqw"
@@ -7021,7 +7021,7 @@ graph
     commentcount 10
     duration "PT20M21S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -7039,7 +7039,7 @@ graph
     commentcount 232
     duration "PT23M13S"
     indegree 17
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7057,7 +7057,7 @@ graph
     commentcount 226
     duration "PT21M39S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7075,7 +7075,7 @@ graph
     commentcount 3
     duration "PT6M5S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7083,7 +7083,7 @@ graph
     label "elFo1DlgU30"
     step 0
     date "2022-03-06T19:31:49Z"
-    title "Game Theory: I Made Markiplier&#38;#39;s PERFECT Pokemon! (Markiplier Smash or Pass) | Reaction"
+    title "Game Theory: I Made Markipliers PERFECT Pokemon! (Markiplier Smash or Pass) | Reaction"
     description "A new episode of The Game Theorists about Markiplier Smash or Pass let' check it out&#10;The original link to the videos - https://www.youtube.com/watch?v=gDO7oDvL8aE&#10;The Game Theorists - https://www.youtube.com/channel/UCo_IB5145EVNcf8hw1Kku7w&#10;Pictures I used in the video credits to owners I do not own these pictures  links down below&#10;all the credits goes to their owners and I respect each and everyone of the creator thank you&#10;________________________________________________________________&#10;Join the Lads team - Subscribe&#10;Support me on Patreon - https://www.patreon.com/skychrew&#10;Follow my Twitch - https://www.twitch.tv/skychrew&#10;Uber Eats Code - eats-gbu0qa&#10;use Wish.com Code for a huge discount - cbnqjkhx&#10;Friend me Nintendo Switch:SW-6466-0563-7021&#10;Thank you for watching please leave a like and share&#10;Comment down below what do you think about it&#10;and also on what videos should I make a reaction&#10;-Subscribe - http://bit.ly/2rk7TXg&#10;-Instagram - https://www.instagram.com/skychrew/&#10;-Twitter - https://twitter.com/Skychrew&#10;&#10;----------------------Stay cool Lads----------------------&#10;________________________________________________________________&#10;If you have some questions or want to ask me about something&#10;Comment under the video and I will reply as soon as possible&#10;See ya TOMORROW with a new VIDEO&#10;#Markiplier #Pokemon #SmashOrPass #PokemonSmashOrPass #MarkiplierSmashOrPass #MatPat #Theory #GameTheory #Skychrew #Skalgro"
     channeltitle "Skychrew"
     channelid "UC8tU_qX6roCzStP391bi5YA"
@@ -7093,7 +7093,7 @@ graph
     commentcount 19
     duration "PT17M41S"
     indegree 1
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7111,7 +7111,7 @@ graph
     commentcount 26
     duration "PT8M32S"
     indegree 13
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7129,7 +7129,7 @@ graph
     commentcount 2154
     duration "PT45S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7137,7 +7137,7 @@ graph
     label "GY1yLiAuKXE"
     step 0
     date "2022-07-01T14:51:59Z"
-    title "Hungry Lamu STORY &#38;amp; ALL ENDINGS EXPLAINED"
+    title "Hungry Lamu STORY ALL ENDINGS E tongue sticking out LAINED"
     description "Hungry lamu story and all endings explained. Lamu, the protagonist and antagonist of the game, lives in a surreal imaginary world, which has very real consequences.&#10;&#10;Sub to gamersault/ gamer sault for more horror game related content.&#10;&#10;&#10;Hungry Lamu STORY &#38; ALL ENDINGS EXPLAINED,hungry lamu all endings explained,hungry lamu story explained,hungry lamu endings,hungry lamu all endings,hungry lamu ending,hungry lamu explained,hungry lamu game,hungry lamu full game,hungry lamu,hungry lamu all bodies,hungry lamu mochi&#10;Industrial Music Box by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100812&#10;&#10;Artist: http://incompetech.com/"
     channeltitle "GamerSault"
     channelid "UCZ9zJNZDmuQQ7Uw97Kdjwkw"
@@ -7147,7 +7147,7 @@ graph
     commentcount 348
     duration "PT13M7S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7165,7 +7165,7 @@ graph
     commentcount 36467
     duration "PT24M32S"
     indegree 12
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7173,7 +7173,7 @@ graph
     label "5TVJPh_hrIU"
     step 0
     date "2021-12-01T04:24:30Z"
-    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Dream, Markiplier &#38;amp; more!"
+    title "The Game Theory $1,000,000 Challenge for St. Jude! ft. MrBeast, Dream, Markiplier more!"
     description "Donate to St. Jude with us with the blue DONATE BUTTON!&#10;Special thanks to our title sponsor, YouTube Originals, for making this possible.&#10; &#10;We are so excited to be hosting our 3rd and FINAL livestream in support of St. Jude Children's Research Hospital&#174;. Last year you helped us raise over $3 MILLION dollars, helping to advance treatments &#38; cures for childhood cancer &#38; other life-threatening diseases and ensuring no family receives a bill from St. Jude for anything.. We know our community can do it again this year!&#10; &#10;YOU CAN HELP NOW by clicking the blue DONATE BUTTON &#38; giving towards our $1,000,000 goal. We&#8217;ll get there with YOUR help! 100% of EVERY DOLLAR YOU DONATE goes to treating children &#38; helping defeat cancer once &#38; for all!    &#10;&#10;*ALL GIVEAWAYS HAVE ENDED*&#10; &#10;Every $10 donation will get you 1 entry into the giveaway. If you donate more than $10, every incitement of $10 over that you donate will also earn an entry. &#10;Example: $20 = 2 entries; $30 = 3 Entries; $100 = 10; $1,000 = 100&#10;Full rules &#9658; https://bit.ly/StJude2021Rules&#10; &#10;By donating &#38; entering the giveaway you have a chance to win 1 of the following prizes:&#10;5 x Theorist Swag Bags&#10;5 x FNAF Swag Bags&#10;30 x Steel Wool Studio T-Shirts&#10;1 x Google Pixel&#10;1x Nintendo Switch OLED&#10;Art made LIVE in our Pictionary Event!*&#10; &#10;Leaderboard:&#10;How it works &#9658; https://bit.ly/StJude2021Rules&#10;- Top 100 donors get a gold foil shirt&#10;- Top 10 individual donors get an event hoodie&#10; &#10;Join the Crowd Control + Minecraft game! &#9658;  https://tiltify.crowdcontrol.live/start/472544453 &#10;More: https://crowdcontrol.live/&#10;Video Guide &#9658; https://youtu.be/2HZPEJvMAW0&#10;More Info &#9658; https://bit.ly/StJude2021Rules&#10;Squid Games Mod by the MCLara Team &#9658; https://bit.ly/30ocQB1&#10; &#10;The Mission of St. Jude:&#10;St. Jude Children&#8217;s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Treatments invented at St. Jude have helped push the overall childhood cancer survival rate from 20% to more than 80% since it opened more than 50 years ago. And families never receive a bill from St. Jude for treatment, travel, housing or food&#8212;because all they should worry about is helping their child live. Join us in our lifesaving mission: Finding cures. Saving children.&#174; &#10;It's an honor to support the St. Jude mission with the help of the Theorist Community today.&#10;For more information on St. Jude and the work they do, visit their official website. &#9658; https://www.stjude.org/&#10;And visit their official channel! &#9658; https://bit.ly/35Js2J8&#10; &#10;Thanks to our sponsors &#38; donors for giving to such a great cause &#38; helping us put on this show!&#10;YouTube Originals &#38; YouTube, for powering this stream &#38; providing our platform&#10;American Airlines&#10;Astek&#10;Giving Good by Blackhawk Network&#10;Leslie's&#10;Simon Property Group&#10; &#10;Thanks to our guests!  &#10;Alex Hirsch &#9658; https://bit.ly/3wR4YV1&#10;Aphmau &#9658; https://bit.ly/545hjk&#10;Binging with Babish &#9658; https://bit.ly/Bbs33s&#10;Brian David Gilbert &#9658;  https://bit.ly/3FhJYJU&#10;CaptainSparklez &#9658; https://bit.ly/Cpkls22&#10;Corpse Husband &#9658; https://bit.ly/CpsHbs&#10;CoryxKenshin &#9658; https://bit.ly/3Fihek5&#10;Dad (Nathan Barnatt) &#9658; https://bit.ly/3qCEzJr&#10;DanTDM &#9658; https://bit.ly/DTDM22&#10;Dawko &#9658; https://bit.ly/Dwk432&#10;Dream &#9658; https://www.youtube.com/c/dream&#10;GeorgeNotFound &#9658; https://bit.ly/Gnf443&#10;Jaiden Animation &#9658; https://bit.ly/30rkNoW&#10;Jaku &#9658; https://bit.ly/3DpFdgQ&#10;Jason Ritter &#9658; https://bit.ly/3wRvOMp&#10;Jovenshire &#9658; https://bit.ly/2ZunNB2&#10;Justin Long &#9658; https://bit.ly/3DwCfac&#10;Kyle Hill &#9658; https://bit.ly/3nlc7tC&#10;Louis Weisz &#9658; https://bit.ly/30obHJJ&#10;Mark Rober &#9658; https://bit.ly/3DoeOjm&#10;Markiplier &#9658; https://bit.ly/3Dnco4u&#10;Marques Brownlee &#9658; https://bit.ly/3DrPU2E&#10;Matt Amodio &#9658; https://bit.ly/3l0ry91&#10;Matt Stonie &#9658; https://bit.ly/3ovM8Pd&#10;Miguel &#9658; https://bit.ly/3kCw5hG&#10;Mr Beast &#9658; https://bit.ly/3ow8vEr&#10;Odd1sOut &#9658; https://bit.ly/3niqxuk&#10;Random Encounters &#9658; https://bit.ly/3cm9Tn7&#10;Rhett &#38; Link &#9658; https://bit.ly/30vEY5H&#10;Rosanna Pansino &#9658; https://bit.ly/3cfJxDn&#10;Ryder Burgin &#9658; https://bit.ly/3HBdfkJ&#10;Safiya Nygaard &#9658; https://bit.ly/30wo2vG&#10;Sapnap &#9658; https://bit.ly/3cma9m5&#10;Simone Giertz &#9658; https://bit.ly/3wPYipR&#10;Sofie Dossi &#9658; https://bit.ly/3x38UCd&#10;Trisha Hershberger &#9658; https://bit.ly/3HVYPM6&#10;Try Guys &#9658; https://bit.ly/3qEXKCg&#10;Tubbo &#9658; https://bit.ly/3kGnlqK&#10;Tyler Williams &#9658; https://bit.ly/3fdBO9u&#10;Veritasium &#9658; https://bit.ly/vts223&#10;Vsauce3 &#9658; https://bit.ly/3fiJJTg&#10;Wilbur Soot &#9658; https://bit.ly/3DwCXUU&#10;William Osman &#9658; https://bit.ly/3DlSAi8&#10;Xyla Foxlin &#9658; https://bit.ly/3cfPwrT&#10;ZHC &#9658; https://bit.ly/30re3YT&#10; &#10;Special thanks to our production partners who made this stream happen!&#10;To the teams at Mobeon, Tiltify, &#38; Crowd Control - we thank you!&#10; &#10;Our Safety Protocols &#9658; https://bit.ly/StJude2021Rules&#10;Thank you modMD for providing Covid Testing!&#10; &#10;&#34;Friday Night Funkin&#34; Music by - Kawai Sprite&#10;&#9658; https://bit.ly/3qHniP1  &#10; &#10;#ForStJude #MillionDollarChallenge #GameTheory #Markiplier #MrBeast #Dream #CorpseHusband #Odd1sOut #SafiyaNygaard #DanTDM #MarquesBrownlee #JaidenAnimations #Aphmau"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -7183,7 +7183,7 @@ graph
     commentcount 3209
     duration "PT9H40M25S"
     indegree 2
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7201,7 +7201,7 @@ graph
     commentcount 4408
     duration "PT4M7S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7209,7 +7209,7 @@ graph
     label "gM5KJ0SKjjo"
     step 0
     date "2021-07-03T19:05:38Z"
-    title "Food Theory: How to BEAT the Buffet (Food Theory&#38;#39;s Lost Episode)"
+    title "Food Theory: How to BEAT the Buffet (Food Theorys Lost Episode)"
     description "Get Your BRAND NEW Food Theory Merch NOW! &#9658; https://bit.ly/3zxp3jM&#10;&#10;Theorists, what you are about to see is from the Food Theory vault. It is an episode that was almost never aired, due to the events of last year. Remember buffets? The all you can eat experience of piling your plate so high with crab legs, various meat, and desserts? I wanted to figure out how to get the best bang for your buck at ANY buffet. I did the research, live and in person before everything shut down. The buffet we went to does not even EXIST anymore! Yet,I knew the knowledge we gained was worth sharing so that you too could beat the buffet.&#10;&#10;SUBSCRIBE for Every Theory! &#9658;&#9658; https://bit.ly/2CdCooV  &#10;Get Your BRAND NEW Food Theory Merch NOW! &#9658; https://bit.ly/3zxp3jM  &#10; &#10;Want More FOOD THEORY?&#10;You've Been SCAMMED! (Supermarket Secrets) &#9658; https://youtu.be/EqviBPG2uPE&#10;Tootsie Pops, How Many Licks? &#9658; https://youtu.be/qOS5NAdyWDw&#10;Never Order McDonald's Medium Fries! &#9658; https://youtu.be/c_jnZkVlNtw&#10;Kool Aid Man Is A Marvel Villain! &#9658; https://youtu.be/CuZ14w_g3WA    &#10;Don't Trust Your Cake! &#9658; https://youtu.be/dulS3GGiJ7M  &#10;&#10;Join our other Theorist Communities!&#10;Game Theory! &#9658; http://bit.ly/1qV8fd6  &#10;Film Theory! &#9658; http://bit.ly/1dI8VBH  &#10;&#10;Need Royalty Free Music for your Content? Try Epidemic Sound. &#10;Get A 30 Day Free Trial! &#9658;  http://share.epidemicsound.com/theFoodTheorists &#10;&#10;Credits:&#10;Writers: Matthew Patrick and Luke Barats&#10;Editors: Dan &#34;Cybert&#34; Seibert&#10;Assistant Editor: AlyssaBeCrazy  &#10;Sound Editor: Yosi Berman &#10;&#10;#Buffet #Mukbang #Hack #Restaurant #RestaurantHack #FoodHack #Menu #FoodTheory #Food #Recipe #Matpat #GameTheory #FilmTheory"
     channeltitle "The Food Theorists"
     channelid "UCHYoe8kQ-7Gn9ASOlmI0k6Q"
@@ -7219,7 +7219,7 @@ graph
     commentcount 14890
     duration "PT21M22S"
     indegree 13
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7245,7 +7245,7 @@ graph
     label "t-LuNxd7ECc"
     step 0
     date "2019-03-26T21:00:04Z"
-    title "YouTube is Responsible for Burnout (A Game Theory Editor&#38;#39;s Story) &#128308; That Cybert Channel"
+    title "YouTube is Responsible for Burnout (A Game Theory Editor That Cybert Channel"
     description "YouTube is Responsible for Burnout (A Game Theory Editor's Story) &#128308; That Cybert Channel&#10;&#10;In 2019, working for a YouTuber has become difficult across the entire platform thanks to the youtube algorithm 2019, Demonetization, and the adpocalypse 2 &#38; youtube news. From things like #youtubewakeup &#38; mattswhatitis to reused content to Defy Media, issues across the platform can hinder teams more than you think. Let's explore the challenges of both the creators AND their teams. Allow me to give you insight on why I left FBE &#38; tgn and may have to eventually leave Game Theory &#38; Film Theory.&#10;&#10;Follow the people that help these videos get made!&#10;AlyssaBeCrazy &#9658; https://twitter.com/AlyssaBeCrazy&#10;Producer Evan &#9658; https://twitter.com/RelevantEvan&#10;Neko_Onigiri (Chibis &#38; Art) &#9658; https://twitter.com/JerikaOnigiri&#10;Kyle (Intro &#38; Branding) &#9658; https://twitter.com/SpongyHands&#10;&#10;BECOME A CHANNEL MEMBER &#9658; http://youtube.com/ThatCybertChannel/join&#10;&#10;JOIN THE DISCORD &#9658; https://discord.gg/DSeCt3y&#10;&#10;Follow me on:&#10;Twitter &#9658; http://bit.ly/1B96I8t&#10;Facebook &#9658; http://on.fb.me/1nPOikN&#10;Instagram &#9658; http://bit.ly/10WrdZg&#10;Tumblr &#9658; http://bit.ly/ZSuFUs&#10;&#10;Nab yourself some games and help charity!&#10;https://www.humblebundle.com/store?partner=cybert&#10;&#10;Articles Used for Research:&#10;&#10;*Editor Rates*&#10;How Much Should I Charge For My Video Editing Services?&#10;https://valoso.com/blog/how-much-should-i-charge-for-my-video-editing-services/&#10;&#10;How to Determine Your Rate as an Editor&#10;https://blog.frame.io/2017/12/18/how-much-should-editors-charge/&#10;&#10;How to Determine PRofessional Video Editing Costs&#10;https://www.directimages.com/blog/how-to-determine-professional-video-editing-costs&#10;&#10;*YouTube Stats*&#10;YouTube Press Site&#10;https://www.youtube.com/yt/about/press/&#10;&#10;*Demonetization and Adpocolypse*&#10;YouTube axes more than 400 channels over child exploitation controversy&#10;https://www.cnet.com/news/youtube-axes-more-than-400-channels-over-child-exploitation-controversy/&#10;&#10;Starbucks, Pepsi, Wal-Mart pull YouTube ads after they were placed on racist videos&#10;https://www.chicagotribune.com/g00/bluesky/technology/ct-google-youtube-ad-boycott-20170324-story.html?i10c.ua=1&#38;i10c.encReferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3d&#38;i10c.dv=9&#10;&#10;YOUTUBE CREATORS FEAR SECOND ADPOCALYPSE AS DISNEY, EPIC GAMES AND MORE PULL ADS&#10;https://www.newsweek.com/disney-epic-games-youtube-adpocalypse-advertisers-1337923&#10;&#10;Epic Pulls &#8216;Fortnite&#8217; Ads From YouTube After Child Predator Controversy&#10;https://variety.com/2019/gaming/news/epic-pulls-fortnite-ads-from-youtube-1203143991/&#10;&#10;Logan Paul apologizes after 'suicide forest' YouTube post&#10;https://www.nbcnews.com/news/world/logan-paul-apologizes-after-suicide-forest-youtube-post-n833946&#10;&#10;*Defy Media*&#10;Top YouTube creators call out defunct Defy Media for shady practices&#10;https://www.theverge.com/2018/11/13/18079148/defy-media-youtube-creators-response-shane-dawson-ryland-adams-smosh-anthony-padilla&#10;&#10;Defy Media Is Shutting Down, Will Lay Off Employees&#10;https://variety.com/2018/digital/news/defy-media-shutting-down-layoffs-1203020919/&#10;&#10;*Mainstream Celebrities*&#10;YouTube Is Adding 40 Original Programs With Celebrities and Creators&#10;https://www.adweek.com/tv-video/google-is-adding-40-new-original-programs-created-exclusively-for-youtube/&#10;&#10;*Engineering Blog*&#10;Engineering and Developers Blog&#10;https://youtube-eng.googleblog.com/&#10;&#10;&#10;Legal Stuff:&#10;&#34;Messiah&#34; by RoccoW&#10;Licensed under Creative Commons: By Attribution 3.0&#10;http://creativecommons.org/licenses/by/3.0/&#10;&#10;#YouTube #YouTubeAlgorithm #ThatCybertChannel"
     channeltitle "That Cybert Channel"
     channelid "UCyCXyMrXNbV357Dnvye960A"
@@ -7255,7 +7255,7 @@ graph
     commentcount 248
     duration "PT31M2S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -7263,7 +7263,7 @@ graph
     label "w6aUmVRbC4o"
     step 0
     date "2018-04-19T06:09:15Z"
-    title "Algebraic Method of Game theory in Hindi {3&#215;3 Matrix} By JOLLY Coaching"
+    title "Algebraic Method of Game theory in Hindi {33 Matrix} By JOLLY Coaching"
     description "This video contains The most Complex method of game theory i.e. ALGEBRAIC METHOD which creates a lot of confusion in the minds of students , I hope after watching this video all your points is cleared .&#10;&#10;Link for other videos.&#10;&#10;1. Minimax and maximum Principle :  &#10;https://www.youtube.com/edit?o=U&#38;video_id=LV7TLjIFBYY&#10;&#10;&#10;2. Odds/ Arithmetic or Shortcut Method : &#10;https://www.youtube.com/edit?o=U&#38;video_id=LV7TLjIFBYY&#10;&#10;&#10;3. Dominance Method without Average : https://www.youtube.com/edit?o=U&#38;video_id=LV7TLjIFBYY&#10;&#10;&#10;&#10;4. Dominance Method with Average :  https://www.youtube.com/edit?o=U&#38;video_id=nvn3OZFdt8s&#10;&#10;&#10;5. Algebraic Method with 2&#215;2 Matrix : &#10;https://www.youtube.com/edit?o=U&#38;video_id=-dG6y2HqONQ&#10;&#10;&#10;&#10;6. Graphical Method : https://www.youtube.com/edit?o=U&#38;video_id=TAfbLJdx48A&#10;&#10;&#10;I hope this video is helping you to solve your various Problems.&#10;Thanks&#10;JOLLY Coaching."
     channeltitle "JOLLY Coaching"
     channelid "UCMLckwtMdbH-IixKi1gppmA"
@@ -7273,7 +7273,7 @@ graph
     commentcount 123
     duration "PT36M8S"
     indegree 14
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7281,7 +7281,7 @@ graph
     label "_6_Zqtw15dE"
     step 0
     date "2021-11-16T20:00:53Z"
-    title "One Last Time...  The Game Theory $1,000,000 Challenge for St. Jude!"
+    title "One Last Time... The Game Theory $1,000,000 Challenge for St. Jude!"
     description "Click the blue DONATE BUTTON  to donate to St. Jude with us! &#10;Or use the blue Donate Button to start donating!&#10; &#10;The biggest charity livestream of the year is almost here for the third and FINAL time! Get ready for the YouTube Originals presents The Game Theory $1,000,000 Challenge for St. Jude. We are livestreaming 9 hours of insane challenges, incredible guests, and fundraising for the best cause out there: St. Jude Children&#8217;s Research Hospital&#174;. &#10; &#10;Are you ready to help raise $1,000,000 with some of your favorite creators? Tune in at 10:00am PST/ 1:00pm ET on November 30th for an AMAZING show! Your donation could win you cool prizes like game consoles, limited edition swag, or even a specially curated Creator bundle to help you make your own content! Plus we will have special appearances by your favorite Creators, live Game Shows with AMAZING prizes, and even an obstacle course specially designed for our event by Mark Rober! You can get in on the action during a showdown between the top Minecraft creators as they try to win while YOU control what happens in the game through your donations! You have to be there to see it.&#10; &#10;St. Jude Children&#8217;s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Treatments invented at St. Jude have helped push the overall childhood cancer survival rate from 20% to more than 80% since it opened more than 50 years ago. And families never receive a bill from St. Jude for treatment, travel, housing or food&#8212;because all they should worry about is helping their child live. Join us in our lifesaving mission: Finding cures. Saving children.&#174;&#10;For more information on St. Jude and the work they do, visit their official website. &#9658; https://www.stjude.org/&#10;And visit their official channel! &#9658; https://bit.ly/35Js2J8&#10; &#10;We want to thank our 30+ guests, who together total over 300 million subscribers, for joining in to make this event SPECTACULAR! &#10; &#10;Special Thanks to our guests!  &#10;Alex Hirsch &#9658; https://bit.ly/3wR4YV1&#10;Aphmau &#9658; https://bit.ly/545hjk&#10;Binging with Babish &#9658; https://bit.ly/Bbs33s&#10;Brian David Gilbert &#9658;  https://bit.ly/3FhJYJU&#10;CaptainSparklez &#9658; https://bit.ly/Cpkls22&#10;Corpse Husband &#9658; https://bit.ly/CpsHbs&#10;CoryxKenshin &#9658; https://bit.ly/3Fihek5&#10;Dad (Nathan Barnatt) &#9658; https://bit.ly/3qCEzJr&#10;DanTDM &#9658; https://bit.ly/DTDM22&#10;Dawko &#9658; https://bit.ly/Dwk432&#10;Dream &#9658; https://www.youtube.com/c/dream&#10;GeorgeNotFound &#9658; https://bit.ly/Gnf443&#10;Jaiden Animation &#9658; https://bit.ly/30rkNoW&#10;Jaku &#9658; https://bit.ly/3DpFdgQ&#10;Jason Ritter &#9658; https://bit.ly/3wRvOMp&#10;Justin Long &#9658; https://bit.ly/3DwCfac&#10;Kyle Hill &#9658; https://bit.ly/3nlc7tC&#10;Louis Weisz &#9658; https://bit.ly/30obHJJ&#10;Mark Rober &#9658; https://bit.ly/3DoeOjm&#10;Markiplier &#9658; https://bit.ly/3Dnco4u&#10;Marques Brownlee &#9658; https://bit.ly/3DrPU2E&#10;Matt Amodio &#9658; https://bit.ly/3l0ry91&#10;Matt Stonie &#9658; https://bit.ly/3ovM8Pd&#10;Miguel &#9658; https://bit.ly/3kCw5hG&#10;Mr Beast &#9658; https://bit.ly/3ow8vEr&#10;Odd1sOut &#9658; https://bit.ly/3niqxuk&#10;Random Encounters &#9658; https://bit.ly/3cm9Tn7&#10;Rhett &#38; Link &#9658; https://bit.ly/30vEY5H&#10;Rosanna Pansino &#9658; https://bit.ly/3cfJxDn&#10;Safiya Nygaard &#9658; https://bit.ly/30wo2vG&#10;Sapnap &#9658; https://bit.ly/3cma9m5&#10;Simone Giertz &#9658; https://bit.ly/3wPYipR&#10;Sofie Dossi &#9658; https://bit.ly/3x38UCd&#10;Tommyinit &#9658; https://bit.ly/30qDg58&#10;Try Guys &#9658; https://bit.ly/3qEXKCg&#10;Tubbo &#9658; https://bit.ly/3kGnlqK&#10;Tyler Williams &#9658; https://bit.ly/3fdBO9u&#10;Veritasium &#9658; https://bit.ly/vts223&#10;Vsauce3 &#9658; https://bit.ly/3fiJJTg&#10;Wilbur Soot &#9658; https://bit.ly/3DwCXUU&#10;William Osman &#9658; https://bit.ly/3DlSAi8&#10;Xyla Foxlin &#9658; https://bit.ly/3cfPwrT&#10;ZHC &#9658; https://bit.ly/30re3YT&#10;&#10;#ForStJude #MillionDollarChallenge #GameTheory #Challenge #Markiplier #MrBeast #Dream #CorpseHusband #TryGuys #Odd1sOut #DanTDM #JaidenAnimations #Aphmau"
     channeltitle "The Game Theorists"
     channelid "UCo_IB5145EVNcf8hw1Kku7w"
@@ -7291,7 +7291,7 @@ graph
     commentcount 6697
     duration "PT4M"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7309,7 +7309,7 @@ graph
     commentcount 6663
     duration "PT13M18S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7327,7 +7327,7 @@ graph
     commentcount 1440
     duration "PT1M1S"
     indegree 4
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7353,7 +7353,7 @@ graph
     label "Tr7e7EzWyKk"
     step 0
     date "2021-12-31T19:02:15Z"
-    title "Dumbest Mistake When Starting YouTube Channel: Advice from Game Theory&#8217;s MatPat #Shorts #MatPat"
+    title "Dumbest Mistake When Starting YouTube Channel: Advice from Game Theorys MatPat #Shorts #MatPat"
     description "See full interview here: https://youtu.be/MBQYIgsbSAY&#10;&#10;After starting 4 channels with over 31M subscribers, Game Theory&#8217;s MatPat shares the biggest mistake creators make when starting a YouTube channel &#129300; &#10;&#10;Special thanks to Stir for sponsoring this video. Stir is where creators run their business. It's a financial studio for collaborating, splitting revenue, money management and metrics&#8212;all in one place. For more info: https://usestir.com/youshaei&#10;&#10;Subscribe for more videos &#9658; https://bit.ly/SubscribeToYoushaei&#10;&#10;#GameTheory #YouTube #Creator #Channel&#10;&#10;--------&#10;PAST EPISODES: &#10;&#9658; Paris Hilton Full Interview:https://youtu.be/ci1NXFaKvLg&#10;&#9658; MatPat Full Interview: https://youtu.be/MBQYIgsbSAY&#10;&#9658; Mark Rober Full Interview: https://youtu.be/Pe7tgNflaeg&#10;&#9658; Logan Paul Full Interview: https://youtu.be/ZNQG93EkWiI&#10;&#9658; Jake Paul Full Interview: https://youtu.be/N1Z7qATMl40&#10;&#9658; Tesla Cybertruck: Why Elon Is A Better Marketer Than Steve Jobs https://youtu.be/GDt5VvgQUr8A&#10;&#9658; Star Wars vs Harry Potter https://youtu.be/5dtVc3daLLU&#10;&#9658; How Michael Jackson Saved Pepsi: https://youtu.be/rv2-rOKMUDA&#10;&#9658; Taylor Swift: World's Best Marketer or Manipulator? https://youtu.be/6PdjdM5xkbQ&#10;--------&#10;CREATOR TOOLS:&#10;&#9658; Notion: https://bit.ly/3KwpLU0 (my favorite tool to organize &#38; brainstorm new content ideas)&#10;&#10;--------&#10;GEAR: I've scoured Amazon to test the best gear to get cinema quality on a shoestring budget...&#10;&#10;&#9658; Microphone: https://amzn.to/2ULckY7 (best deal ever)&#10;&#9658; Lights: https://amzn.to/2YzwaGX (lasted me 3 years and counting!)&#10;&#9658; Tripod: https://amzn.to/2YxiHQ1 (solid and sturdy)&#10;&#9658; Camera: https://amzn.to/30HvSAD (great value for a 4K camera)&#10;&#9658; Backdrop: https://amzn.to/3hrV7N9 (tons of great colors)&#10;&#9658; Backdrop Mount: https://amzn.to/37uDurg&#10;&#9658; More recommendations on my Amazon store: www.amazon.com/shop/youshaei &#10;&#10;If you buy and have any questions on set up, feel free to comment or DM me. &#10;&#10;--------&#10;CREATED BY:&#10;&#10;Jon Youshaei, Forbes 30 Under 30 who worked at Instagram and YouTube for past 8 years.&#10;&#10;DM @Youshaei on Instagram to say hey"
     channeltitle "Jon Youshaei"
     channelid "UCj8DGOv5P7Ngsh-telMG-pw"
@@ -7363,7 +7363,7 @@ graph
     commentcount 1665
     duration "PT43S"
     indegree 3
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7371,7 +7371,7 @@ graph
     label "7WuQb1m-Cc4"
     step 0
     date "2015-12-20T11:38:25Z"
-    title "Response to Game Theory&#38;#39;s &#38;quot;Mario SHOCKING Timeline&#38;quot; &#38;amp; &#38;quot;Bowser&#38;#39;s Broken Home&#38;quot; Theories"
+    title "Response to Game Theory Theories"
     description "Two for the price of one grandma!&#10;It's time to cover two more episodes of Game Theory, both of which have been commonly requested by my fans, the Mario Timeline and Bowser theories."
     channeltitle "TheMetalBlade5"
     channelid "UClYzllykhgNYhDGr-7saqFQ"
@@ -7381,7 +7381,7 @@ graph
     commentcount 73
     duration "PT7M"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -7399,7 +7399,7 @@ graph
     commentcount 0
     duration "PT6M29S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7407,7 +7407,7 @@ graph
     label "2vYKqFxguJo"
     step 0
     date "2015-08-01T08:48:16Z"
-    title "Game Theory: FNAF 4 got it ALL WRONG? (Debunking MatPat&#38;#39;s Five Nights at Freddy&#38;#39;s 4 Theory)"
+    title "Game Theory: FNAF 4 got it ALL WRONG? (Debunking MatPats 4 Theory)"
     description "MatPat's Theory: https://www.youtube.com/watch?v=FMJ2jZtW7cw&#10;&#10;Like I said in the video, I'm not much of an expert when it comes to theories, I usually just do random unscripted gameplay videos. This is a complete change of pace for me so I hope you enjoy my Five Nights at Freddy's 4 theory! :)&#10;&#10;&#10;Links:&#10;My Facebook: http://www.facebook.com/BintonGaming&#10;My Twitter: http://www.twitter.com/BintonGaming&#10;Merch: http://www.districtlines.com/Binton7&#10;My YouTube (duh): http://www.youtube.com/user/BintonGaming&#10;&#10;Also if you'd like to donate some money to help me make the videos as good as possible for you guys, you can go to this page:&#10;https://www.paypal.com/cgi-bin/webscr?cmd=_donations&#38;business=NEWUF66SE8XDG&#38;lc=US&#38;item_name=CraftCom%20Fund&#38;item_number=CraftCom%20SMP%20Server&#38;currency_code=USD&#38;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
     channeltitle "BintonGaming"
     channelid "UCuKqPpSH9K3r4azN_CQfIsQ"
@@ -7417,7 +7417,7 @@ graph
     commentcount 622
     duration "PT7M23S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -7435,7 +7435,7 @@ graph
     commentcount 1
     duration "PT6M33S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7443,7 +7443,7 @@ graph
     label "daFaP9dda3U"
     step 0
     date "2022-07-06T23:37:29Z"
-    title "ZOVID-19? Minecraft&#38;#39;s AIRBORNE Zombie Virus [Minecraft Game Theory]"
+    title "ZOVID-19? Minecrafts AIRBORNE Zombie Virus [Minecraft Game Theory]"
     description "Continuing my journey through @The Game Theorists &#10;Minecraft Lore series! &#10;&#10;Game Theory: Minecraft Has A Zombie Virus INFECTING the Overworld!&#10;[https://youtu.be/xTNSe1GBjUQ]&#10;&#10;Become a member today! Join the #AlienArmada &#10;&#10;Discord.gg/NateAliens&#10;&#10;Twitter.com/NateAlyn &#10;&#10;https://linktr.ee/natealyn &#10;&#10;#Minecraft #MinecraftGameTheoryReaction"
     channeltitle "Nate Alyn"
     channelid "UCtzLM3uw4fYf2j645_Tz0bw"
@@ -7453,7 +7453,7 @@ graph
     commentcount 46
     duration "PT30M8S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7471,7 +7471,7 @@ graph
     commentcount 135
     duration "PT8M45S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7489,7 +7489,7 @@ graph
     commentcount 20
     duration "PT11S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7497,7 +7497,7 @@ graph
     label "eFrUvwRWtEU"
     step 0
     date "2022-07-05T16:26:07Z"
-    title "Matpat &#38;#39;s Second Attempt on Mark&#38;#39;s Perfect Pokemon | Markiplier Pokemon Game Theory Reaction"
+    title "Matpat s Perfect Pokemon | Markiplier Pokemon Game Theory Reaction"
     description "Hey everyone so this is my reaction to Game Theory: Markiplier, PLEASE Smash My Pokemon! (Markiplier Smash or Pass) by The Game Theorists. I hope you all enjoy the video guys and let me know what I should react to or play next.&#10;&#10;OriginalVideo:https://www.youtube.com/watch?v=0XhOm_9_uPk&#38;t=782s&#10;TheGameTheorists:https://www.youtube.com/c/GameTheorists"
     channeltitle "Murray Reaction"
     channelid "UCJ3YTxA6CzOIWjwJ3h8pHZg"
@@ -7507,7 +7507,7 @@ graph
     commentcount 2
     duration "PT14M38S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7525,7 +7525,7 @@ graph
     commentcount 33105
     duration "PT11M23S"
     indegree 3
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7543,7 +7543,7 @@ graph
     commentcount 5
     duration "PT8S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7551,7 +7551,7 @@ graph
     label "spieKn_dVSA"
     step 0
     date "2016-05-28T01:39:06Z"
-    title "Why Elder Scrolls 6 will be in Hammerfell.&#12304;game theory and discussion&#12305;"
+    title "Why Elder Scrolls 6 will be in Hammerfell."
     description "In this new video, we're going to break down all the reasons why TES6 will be in Hammerfell!&#10;https://www.youtube.com/watch?v=6etFB4g45C4&#10;&#12304;See the latest episode of Empire here!&#12305;"
     channeltitle "Cosmata"
     channelid "UCihtX9aYH9dHhEPTJ_QplBA"
@@ -7579,7 +7579,7 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 1
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -7597,7 +7597,7 @@ graph
     commentcount 43
     duration "PT11M26S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7615,7 +7615,7 @@ graph
     commentcount 0
     duration "PT11M2S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7633,7 +7633,7 @@ graph
     commentcount 0
     duration "PT6S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7651,7 +7651,7 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -7669,7 +7669,7 @@ graph
     commentcount 2
     duration "PT56S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -7687,7 +7687,7 @@ graph
     commentcount 177
     duration "PT5M58S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7705,7 +7705,7 @@ graph
     commentcount 0
     duration "PT13S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     commentcount 439
     duration "PT9M16S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7749,7 +7749,7 @@ graph
     label "7j3YsdgP1hg"
     step 0
     date "2022-06-29T17:55:22Z"
-    title "Game Theory videos be like... (It&#38;#39;s a joke) #shorts #gametheory #matpat"
+    title "Game Theory videos be like... (Its a joke) #shorts #gametheory #matpat"
     description "It's just a joke and I love all the theory channels."
     channeltitle "Shadysheep"
     channelid "UCT5Ybq2aJQRQJ35DOmO2lLQ"
@@ -7759,7 +7759,7 @@ graph
     commentcount 3
     duration "PT53S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7777,7 +7777,7 @@ graph
     commentcount 3640
     duration "PT34S"
     indegree 0
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -7795,7 +7795,7 @@ graph
     commentcount 1
     duration "PT15M51S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7813,7 +7813,7 @@ graph
     commentcount 10
     duration "PT9M56S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7821,7 +7821,7 @@ graph
     label "KpWppG2laqE"
     step 0
     date "2022-07-07T14:58:13Z"
-    title "Game Theory: Why we don&#38;#39;t win games 2 &#9474; Warzone"
+    title "Game Theory: Why we don Warzone"
     description "End the target, no matter the cost.  BUT THATS JUST A GAME THEORY&#10;&#10;Subscribe for more Warzone goofs!&#10;&#10;Verdansk funny warzone clips.&#10;&#10;#warzone #shorts"
     channeltitle "The Wrong Way"
     channelid "UCIHJRa_ePL7hy8HCVgA1GWw"
@@ -7831,7 +7831,7 @@ graph
     commentcount 0
     duration "PT22S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -7867,7 +7867,7 @@ graph
     commentcount -1
     duration "PT1M4S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7885,7 +7885,7 @@ graph
     commentcount 0
     duration "PT20M24S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7893,7 +7893,7 @@ graph
     label "X8uFoVnUne8"
     step 0
     date "2022-02-09T01:28:12Z"
-    title "Game Theory&#8217;s New Album &#8220;MUSIC MAN&#8221;"
+    title "Game Theory"
     description ""
     channeltitle "SCOTT P0V"
     channelid "UCn8zc_jairQ7Kl2fGXZTwBQ"
@@ -7903,7 +7903,7 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7921,7 +7921,7 @@ graph
     commentcount 0
     duration "PT42S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7947,7 +7947,7 @@ graph
     label "dmqtag3CpKk"
     step 0
     date "2022-04-05T13:00:19Z"
-    title "Game Theory&#38;#39;s MatPat Learned THIS from PewDiePie (YouTube Voiceover Tip)"
+    title "Game Theorys MatPat Learned THIS from PewDiePie (YouTube Voiceover Tip)"
     description "See full interview here: https://youtu.be/MBQYIgsbSAY&#10;&#10;After starting 4 channels with over 31M subscribers, Game Theory&#8217;s MatPat admits he still has some things to learn. By watching old PewDiePie videos, he learned this one trick that completely changed his content.&#10;&#10;Special thanks to Stir for sponsoring. Stir is where creators run their business. It's a financial studio for collaborating, splitting revenue, money management and metrics&#8212;all in one place. For more info: https://usestir.com/youshaei&#10;&#10;Subscribe for more videos &#9658; https://bit.ly/SubscribeToYoushaei&#10;&#10;#GameTheory #YouTube #Creator #Channel #MatPat #Pewdiepie&#10;&#10;--------&#10;PAST EPISODES: &#10;&#9658; Logan Paul Full Interview: https://youtu.be/ZNQG93EkWiI&#10;&#9658; Jake Paul Full Interview: https://youtu.be/N1Z7qATMl40&#10;&#9658; MatPat Full Interview: https://youtu.be/MBQYIgsbSAY&#10;&#9658; Mark Rober Full Interview: https://youtu.be/Pe7tgNflaeg&#10;&#9658; Tesla Cybertruck: Why Elon Is A Better Marketer Than Steve Jobs https://youtu.be/GDt5VvgQUr8A&#10;&#9658; Star Wars vs Harry Potter https://youtu.be/5dtVc3daLLU&#10;&#9658; How Michael Jackson Saved Pepsi: https://youtu.be/rv2-rOKMUDA&#10;&#9658; Taylor Swift: World's Best Marketer or Manipulator? https://youtu.be/6PdjdM5xkbQ&#10;&#10;--------&#10;CREATOR TOOLS:&#10;&#9658; Notion: https://bit.ly/3KwpLU0 (my favorite tool to organize &#38; brainstorm new content ideas)&#10;--------&#10;GEAR: I've scoured Amazon to test the best gear to get cinema quality on a shoestring budget...&#10;&#10;&#9658; Microphone: https://amzn.to/2ULckY7 (best deal ever)&#10;&#9658; Lights: https://amzn.to/2YzwaGX (lasted me 3 years and counting!)&#10;&#9658; Tripod: https://amzn.to/2YxiHQ1 (solid and sturdy)&#10;&#9658; Camera: https://amzn.to/30HvSAD (great value for a 4K camera)&#10;&#9658; Backdrop: https://amzn.to/3hrV7N9 (tons of great colors)&#10;&#9658; Backdrop Mount: https://amzn.to/37uDurg&#10;&#9658; More recommendations on my Amazon store: www.amazon.com/shop/youshaei &#10;&#10;If you buy and have any questions on set up, feel free to comment or DM me. &#10;&#10;--------&#10;CREATED BY:&#10;&#10;Jon Youshaei, Forbes 30 Under 30 who worked at Instagram and YouTube for past 8 years.&#10;&#10;DM @Youshaei on Instagram to say hey"
     channeltitle "Jon Youshaei"
     channelid "UCj8DGOv5P7Ngsh-telMG-pw"
@@ -7957,7 +7957,7 @@ graph
     commentcount 537
     duration "PT48S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 0
     duration "PT46S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     commentcount 18
     duration "PT7S"
     indegree 0
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -8011,7 +8011,7 @@ graph
     commentcount 0
     duration "PT9S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -8019,7 +8019,7 @@ graph
     label "iULrqcSWD3c"
     step 0
     date "2022-07-11T03:00:18Z"
-    title "&#38;quot;SHE is Mine To CONTROL&#38;quot;. Game Theory: The Dead Will RISE! (Andy&#38;#39;s Apple Farm / Rabbit Knight) React"
+    title "s Apple Farm / Rabbit Knight) React"
     description "&#128516; Please &#128077; CONSIDER &#128149; SUBSCRIBING &#129392; : https://www.youtube.com/channel/UCjQujlske2yVNJyuKIVHOJA?sub_confirmation=1&#10;&#9556;&#9552;&#9574;&#9559;&#9556;&#9574;&#9559;&#9556;&#9552;&#9574;&#9552;&#9574;&#9574;&#9574;&#9574;&#9559;&#9556;&#9552;&#9559;&#10;&#9553;&#9562;&#9571;&#9553;&#9553;&#9553;&#9562;&#9571;&#9562;&#9571;&#9556;&#9571;&#9556;&#9571;&#9553;&#9562;&#9571;&#9552;&#9571; &#10;&#9568;&#9559;&#9553;&#9562;&#9565;&#9553;&#9553;&#9568;&#9559;&#9553;&#9562;&#9571;&#9553;&#9553;&#9553;&#9553;&#9553;&#9552;&#9571;&#10;&#9562;&#9552;&#9577;&#9552;&#9552;&#9577;&#9552;&#9577;&#9552;&#9577;&#9552;&#9577;&#9565;&#9562;&#9577;&#9552;&#9577;&#9552;&#9565;&#10;&#128159;Please&#128152;REMEMBER&#128151;to&#128516;FOLLOW&#128519;my&#128525;Twitch&#128536;Channel&#129392; :&#10;https://www.twitch.tv/humdrum_singaporean&#10;&#10;&#128536;DON'T FORGET&#128517;to&#128158;SUBSCRIBE&#128150;to &#128157;MY OTHER&#128147;YouTube Channels&#10083;&#65039;as well!&#10084;&#65039;&#10;&#10;&#128214;Just Another Singaporean Story&#128218;&#12304;Storytime Channel&#12305;:&#10;https://www.youtube.com/channel/UCpOBbAHAaeASOhQP-xsK1UA?sub_confirmation=1&#10;&#10;&#128170;Mundane Singaporean Discipline&#128074;&#12304;Fitness &#38; Health Channel&#12305;:&#10;https://www.youtube.com/channel/UCaELDbpDdw7ZGN4jRMaYzEg?sub_confirmation=1&#10;&#10;&#129300;Humdrum Singaporean&#128562;&#12304;Video Reaction Channel&#12305;:&#10;https://www.youtube.com/channel/UCjQujlske2yVNJyuKIVHOJA?sub_confirmation=1&#10;&#10;&#127932;&#127926;&#127925;Just Another Singaporean Voice&#127908;&#127897;&#65039;&#12304;Singing Cover Channel&#12305;:&#10;https://www.youtube.com/channel/UC6UPj7cvo5z9omsA6SoC5dA?sub_confirmation=1&#10;&#10;&#129488;Singaporean Hyperpolyglotism&#129299;&#12304;Multi-Language Channel&#12305;:&#10;https://www.youtube.com/channel/UCMn56EAE8-Nvi35qeD_pAUA?sub_confirmation=1&#10;&#10;&#10;&#10;The &#128249;Video&#127910; that I just reacted to came from the &#9654;&#65039;YouTube Channel&#9654;&#65039;&#10;&#127918;&#12304;The Game Theorists&#12305;&#128377;&#65039;&#10;&#10;&#128535;If you do &#128537;like&#128538; their videos&#128536;... ... (Ps. I am a HUGE Fan&#128517;)&#10;Please&#10084;&#65039;CONSIDER&#128522;to drop &#128077;SUBSCRIBE&#128151; on their YouTube Channel to show&#10;&#128157;SUPPORT &#21644; APPRECIATION&#128158;&#10;&#128149;GRACE &#32780;&#19988; GRAMERCY&#128150;&#10;&#10083;&#65039;RECOGNITION &#20006; BLESSING&#128152;&#10;&#128151;ACKNOWLEDGEMENT &#33287; GRATITUDE&#128147;&#10;&#10084;&#65039;THANKS &#20197;&#21450; GRATEFULNESS&#128159; to them&#10;(Lol&#128514;&#129315;&#128514;, I inserted these Chinese Characters to see if the viewers are actually paying attention or not?&#129315;&#128514;&#129315;) :&#10;https://www.youtube.com/user/MatthewPatrick13?sub_confirmation=1&#10;&#10;The&#128253;&#65039;VIDEO&#127909;that I just &#129300;Reacted&#128562; to :&#10;&#12304;&#12305;&#10;&#10;&#10;English:&#10;Hello Everybody! Thank you so much for watching my video! Thank you so much for supporting me!&#10;&#10;Chinese:&#10;&#22823;&#23478;&#22909;&#65281;&#38750;&#24120;&#24863;&#35874;&#24744;&#35266;&#30475;&#25105;&#30340;&#35270;&#39057;&#65281;&#38750;&#24120;&#24863;&#35874;&#24744;&#23545;&#25105;&#30340;&#25903;&#25345;&#65281;&#10;&#10;Malay:&#10;Hello semua! Terima kasih banyak untuk menonton video saya! Terima kasih banyak untuk menyokong saya!&#10;&#10;Tamil:&#10;&#2949;&#2985;&#3016;&#2997;&#2992;&#3009;&#2965;&#3021;&#2965;&#3009;&#2990;&#3021; &#2997;&#2979;&#2965;&#3021;&#2965;&#2990;&#3021;! &#2958;&#2985;&#2980;&#3009; &#2997;&#3008;&#2975;&#3007;&#2991;&#3019;&#2997;&#3016;&#2986;&#3021; &#2986;&#3006;&#2992;&#3021;&#2980;&#3021;&#2980;&#2990;&#3016;&#2965;&#3021;&#2965;&#3009; &#2990;&#3007;&#2965;&#3021;&#2965; &#2984;&#2985;&#3021;&#2993;&#3007;! &#2958;&#2985;&#3021;&#2985;&#3016; &#2950;&#2980;&#2992;&#3007;&#2980;&#3021;&#2980;&#2990;&#3016;&#2965;&#3021;&#2965;&#3009; &#2990;&#3007;&#2965;&#3021;&#2965; &#2984;&#2985;&#3021;&#2993;&#3007;!&#10;&#10;Korean:&#10;&#47784;&#46160;&#46308; &#50504;&#45397;! &#45236; &#48708;&#46356;&#50724;&#47484; &#48400; &#51452;&#49492;&#49436; &#44048;&#49324;&#54633;&#45768;&#45796;! &#45208;&#47484; &#46020;&#50752; &#51452;&#49492;&#49436; &#44048;&#49324;&#54633;&#45768;&#45796;!&#10;&#10;Japanese:&#10;&#12415;&#12394;&#12373;&#12435;&#12371;&#12435;&#12395;&#12385;&#12399;&#65281;&#31169;&#12398;&#12499;&#12487;&#12458;&#12434;&#35211;&#12390;&#12367;&#12428;&#12390;&#12354;&#12426;&#12364;&#12392;&#12358;&#65281;&#24540;&#25588;&#12375;&#12390;&#12367;&#12428;&#12390;&#12354;&#12426;&#12364;&#12392;&#12358;&#65281;&#10;&#10;French:&#10;Bonjour tous le monde! Merci beaucoup d'avoir regard&#233; ma vid&#233;o! Merci beaucoup de me soutenir!&#10;&#10;German:&#10;Hallo zusammen! Vielen Dank, dass Sie sich mein Video angesehen haben! Vielen Dank f&#252;r die Unterst&#252;tzung!&#10;&#10;Vietnamese:&#10;Ch&#224;o m&#7885;i ng&#432;&#7901;i! C&#7843;m &#417;n b&#7841;n r&#7845;t nhi&#7873;u v&#236; &#273;&#227; xem video c&#7911;a t&#244;i! C&#7843;m &#417;n b&#7841;n r&#7845;t nhi&#7873;u v&#236; &#273;&#227; &#7911;ng h&#7897; t&#244;i!&#10;&#10;Lao:&#10;&#3754;&#3760;&#8203;&#3738;&#3762;&#3725;&#8203;&#3732;&#3765;&#8203;&#3735;&#3768;&#3713;&#8203;&#3716;&#3771;&#3737;! &#3714;&#3757;&#3738;&#3779;&#3720;&#3755;&#3772;&#3762;&#3725;&#3782; &#3754;&#3763; &#3749;&#3761;&#3738;&#3776;&#3738;&#3764;&#3784;&#3719;&#3751;&#3765;&#3732;&#3765;&#3778;&#3757;&#3714;&#3757;&#3719;&#3714;&#3785;&#3757;&#3725;! &#3714;&#3757;&#3738;&#3779;&#3720;&#3755;&#3772;&#3762;&#3725;&#3782;&#3735;&#3765;&#3784;&#3754;&#3760; &#3804;&#3761;&#3738; &#3754;&#3760; &#3804;&#3769;&#3737; &#3714;&#3785;&#3757;&#3725;!&#10;&#10;Burmese:&#10;&#4129;&#4140;&#4152;&#4124;&#4143;&#4150;&#4152;&#4117;&#4146;&#4121;&#4100;&#4154;&#4153;&#4098;&#4124;&#4140;&#4117;&#4139;! &#4096;&#4155;&#4157;&#4116;&#4154;&#4143;&#4117;&#4154;&#4175;&#4119;&#4157;&#4142;&#4114;&#4142;&#4122;&#4141;&#4143;&#4096;&#4156;&#4106;&#4151;&#4154;&#4123;&#4158;&#4143;&#4097;&#4156;&#4100;&#4154;&#4152;&#4129;&#4112;&#4157;&#4096;&#4154;&#4096;&#4155;&#4145;&#4152;&#4103;&#4144;&#4152;&#4112;&#4100;&#4154;&#4117;&#4139;&#4126;&#4106;&#4154;&#4171; &#4100;&#4139;&#4151;&#4096;&#4141;&#4143;&#4113;&#4145;&#4140;&#4096;&#4154;&#4117;&#4150;&#4151;&#4117;&#4145;&#4152;&#4112;&#4146;&#4151;&#4129;&#4112;&#4157;&#4096;&#4154;&#4096;&#4155;&#4145;&#4152;&#4103;&#4144;&#4152;&#4112;&#4100;&#4154;&#4117;&#4139;&#4112;&#4122;&#4154;&#4171;&#10;&#10;Thai:&#10;&#3626;&#3623;&#3633;&#3626;&#3604;&#3637;&#3607;&#3640;&#3585;&#3588;&#3609;! &#3586;&#3629;&#3610;&#3588;&#3640;&#3603;&#3617;&#3634;&#3585;&#3626;&#3635;&#3627;&#3619;&#3633;&#3610;&#3585;&#3634;&#3619;&#3604;&#3641;&#3623;&#3636;&#3604;&#3637;&#3650;&#3629;&#3586;&#3629;&#3591;&#3593;&#3633;&#3609;! &#3586;&#3629;&#3610;&#3588;&#3640;&#3603;&#3617;&#3634;&#3585;&#3607;&#3637;&#3656;&#3626;&#3609;&#3633;&#3610;&#3626;&#3609;&#3640;&#3609;&#3593;&#3633;&#3609;!&#10;&#10;Filipino:&#10;Kumusta kayong lahat! Maraming salamat sa panonood ng aking video! Maraming salamat sa pagsuporta sa akin!&#10;&#10;Khmer:&#10;&#6047;&#6077;&#6047;&#6098;&#6026;&#6072;&#8203;&#6050;&#6098;&#6035;&#6016;&#8203;&#6033;&#6070;&#6086;&#6020;&#6050;&#6047;&#6091;&#6018;&#6098;&#6035;&#6070;! &#6047;&#6076;&#6040;&#6050;&#6042;&#6018;&#6075;&#6030;&#6021;&#6098;&#6042;&#6078;&#6035;&#6026;&#6082;&#6043;&#6036;&#6070;&#6035;&#6040;&#6078;&#6043;&#6044;&#6072;&#6026;&#6081;&#6050;&#6076;&#6042;&#6036;&#6047;&#6091;&#6017;&#6098;&#6025;&#6075;&#6086;! &#6050;&#6042;&#6018;&#6075;&#6030;&#6021;&#6098;&#6042;&#6078;&#6035;&#6026;&#6082;&#6043;&#6018;&#6070;&#6086;&#6033;&#6098;&#6042;&#6017;&#6098;&#6025;&#6075;&#6086;!&#10;&#10;Indonesian:&#10;Halo semua! Terima kasih banyak telah menonton video saya! Terima kasih banyak telah mendukung saya!&#10;&#10;Hindi:&#10;&#2360;&#2349;&#2368; &#2325;&#2379; &#2344;&#2350;&#2360;&#2381;&#2325;&#2366;&#2352;! &#2350;&#2375;&#2352;&#2366; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379; &#2342;&#2375;&#2326;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2348;&#2361;&#2369;&#2340; &#2348;&#2361;&#2369;&#2340; &#2343;&#2344;&#2381;&#2351;&#2357;&#2366;&#2342;! &#2350;&#2375;&#2352;&#2366; &#2360;&#2350;&#2352;&#2381;&#2341;&#2344; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2348;&#2361;&#2369;&#2340; &#2348;&#2361;&#2369;&#2340; &#2343;&#2344;&#2381;&#2351;&#2357;&#2366;&#2342;!&#10;&#10;Spanish:&#10;&#161;Hola todos! &#161;Muchas gracias por ver mi video! &#161;Muchas gracias por apoyarme!&#10;&#10;Portugese:&#10;Ol&#225; pessoal! Muito obrigado por assistir meu v&#237;deo! Muito obrigado por me apoiar!&#10;&#10;Arabic:&#10;&#1605;&#1585;&#1581;&#1576;&#1575; &#1580;&#1605;&#1610;&#1593;&#1575;! &#1588;&#1603;&#1585;&#1575; &#1580;&#1586;&#1610;&#1604;&#1575; &#1604;&#1603;&#1605; &#1604;&#1605;&#1588;&#1575;&#1607;&#1583;&#1577; &#1575;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1575;&#1604;&#1582;&#1575;&#1589; &#1576;&#1610;! &#1588;&#1603;&#1585;&#1575; &#1580;&#1586;&#1610;&#1604;&#1575; &#1604;&#1583;&#1593;&#1605;&#1603;&#1605;!&#10;&#10;Russian:&#10;&#1042;&#1089;&#1077;&#1084; &#1087;&#1088;&#1080;&#1074;&#1077;&#1090;! &#1041;&#1086;&#1083;&#1100;&#1096;&#1086;&#1077; &#1089;&#1087;&#1072;&#1089;&#1080;&#1073;&#1086; &#1079;&#1072; &#1087;&#1088;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088; &#1084;&#1086;&#1077;&#1075;&#1086; &#1074;&#1080;&#1076;&#1077;&#1086;! &#1041;&#1086;&#1083;&#1100;&#1096;&#1086;&#1077; &#1089;&#1087;&#1072;&#1089;&#1080;&#1073;&#1086; &#1079;&#1072; &#1087;&#1086;&#1076;&#1076;&#1077;&#1088;&#1078;&#1082;&#1091;!&#10;&#10;#HumdrumSingaporean #Reacts #TheGameTheorists #GT #G_T #GameTheory #Game_Theory #GameTheories #Game_Theories #GameTheorist #Game_Theorist #GameTheorists #Game_Theorists #Theory #Theories #Theorist #Theorists #GameT #Game_T #GTheory #G_Theory #GTheories #G_Theories #GTheorist #G_Theorist #GTheorists #G_Theorists #TGT #TheGameTheorist #The_Game_Theorist #The_Game_Theorists #Singapore #Singaporean #SG #sg #Humdrum #Humdrum_Singaporean #YouTube #Channel #SingaporeanChannel #YouTubeChannel #SingaporeanYouTubeChannel #Singaporean_Channel #YouTube_Channel #Singaporean_YouTube_Channel #Video #Videos #Reaction #React #ReactionVideo #Reaction_Video #ReactionVideos #Reaction_Videos #ReactVideo #ReactVideos #ReactsVideo #ReactsVideos #React_Video #React_Videos #Reacts_Video #Reacts_Videos #SingaporeanReact #SingaporeanReactVideo #SingaporeanReactVideos #SingaporeanReacts #SingaporeanReactsVideo #SingaporeanReactsVideos #SingaporeanReaction #SingaporeanReactionVideo #SingaporeanReactionVideos #Singaporean_React #Singaporean_React_Video #Singaporean_React_Videos #Singaporean_Reacts #Singaporean_Reacts_Video #Singaporean_Reacts_Videos #Singaporean_Reaction #Singaporean_Reaction_Video #Singaporean_Reaction_Videos"
     channeltitle "Humdrum Singaporean REACTS"
     channelid "UCjQujlske2yVNJyuKIVHOJA"
@@ -8029,7 +8029,7 @@ graph
     commentcount 0
     duration "PT19M15S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8047,7 +8047,7 @@ graph
     commentcount 0
     duration "PT14S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -8065,7 +8065,7 @@ graph
     commentcount 17
     duration "PT3M43S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -8083,7 +8083,7 @@ graph
     commentcount 0
     duration "PT2M54S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -8091,7 +8091,7 @@ graph
     label "TIZmO9uF2D8"
     step 0
     date "2022-07-11T08:20:43Z"
-    title "Welcome to game theory... #gameplay  #memes #animation"
+    title "Welcome to game theory... #gameplay #memes #animation"
     description ""
     channeltitle "Mr Smart Black Guy"
     channelid "UCkHsnQ_KDEucxHAOkMaX5hA"
@@ -8101,7 +8101,7 @@ graph
     commentcount 0
     duration "PT10S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -8119,7 +8119,7 @@ graph
     commentcount 0
     duration "PT4M46S"
     indegree 1
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -8137,7 +8137,7 @@ graph
     commentcount 0
     duration "PT46S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -8155,7 +8155,7 @@ graph
     commentcount 0
     duration "PT51S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -8163,7 +8163,7 @@ graph
     label "l2pTO1_qlGY"
     step 0
     date "2022-07-11T04:00:14Z"
-    title "Amanda&#38;#39;s New SECRET Tape is Horrifying || Amanda the Adventurer - Update 3 || Subroto Gaming"
+    title "Amandas New SECRET Tape is Horrifying || Amanda the Adventurer - Update 3 || Subroto Gaming"
     description "Amanda's New SECRET Tape is Horrifying || Amanda the Adventurer - Update 3 | Subroto Gaming | The Bangla Gamer | Sokher Gamer&#10;&#9658; Subroto Gaming 2.0 (Youtube channel): https: https://www.youtube.com/channel/UCTewsxGr2sU5XaU-uwrBHtA&#10;&#10;#AmandatheAdventurer #banglagameplay #subrotogaming &#10;cover topics:&#10;&#10;bangla cartoon&#10;bangla gameplay&#10;bangla gaming channel&#10;bangla game khela&#10;bangla gaming tv&#10;bangla funny gameplay&#10;bangla horror gameplay&#10;bangla gameplay video&#10;bhoot bangla gameplay&#10;Full Gameplay Bangla&#10;gameplay walkthrough&#10;android gameplay&#10;sokher gamer,#sokher gamer,sokher gamer new video,bengali gamer,sokher gamer horror game,bangla gamers,bigfoot sokher gamer,minecraft sokher gamer,sokher gamer slendrina,#sokher gamer slendrina,#sokher gamer horror game,sokher gamer vs the bangla gamer,horror games,sokher gamer vai,sokher gamer gta v,sokher gamer video,sokher gamer funny,sokher gamer twins,sokher gamer roblox,sokher gamer horror,granny sokher gamer,the bangla gamer,bangla gamer, amanda the adventurer,amanda the adventurer all endings,amanda the adventurer secrets,amanda the adventurer gameplay,amanda the adventurer horror game,amanda the adventurer update,amanda the adventurer secret ending,amanda the adventurer game,amanda the adventurer ending,amanda the adventurer full game,amanda the adventurer game theory,amanda the adventurer story explained,amanda,amanda the explorer,amanda the adventurer secret,amanda the adventurer dakblake&#10;&#10;Please like this video if you enjoyed,&#10;And it also gives me motivation to make more those types of videos.&#10;&#10;         And..........Subscribe....&#10;       Higher number looks good &#128521;&#10;It also shows power of Bangla gaming community.....&#10;#banglagameplay #subrotogaming"
     channeltitle "Subroto Gaming"
     channelid "UCgCZrvdgiPG6yCeSIryL8Zw"
@@ -8173,7 +8173,7 @@ graph
     commentcount 35
     duration "PT12M28S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8191,7 +8191,7 @@ graph
     commentcount 0
     duration "PT3M6S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8209,7 +8209,7 @@ graph
     commentcount 0
     duration "PT1M40S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8227,7 +8227,7 @@ graph
     commentcount 3760
     duration "PT48S"
     indegree 2
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -8245,7 +8245,7 @@ graph
     commentcount 14931
     duration "PT14M54S"
     indegree 24
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8253,7 +8253,7 @@ graph
     label "oZ01jRfT9oI"
     step 0
     date "2022-06-27T02:06:51Z"
-    title "Smash or Pass: MatPat&#38;#39;s NEW Perfect Pok&#233;mon"
+    title "Smash or Pass: MatPatmon"
     description "MatPat made another Pok&#233;mon. Will I Smash or Pass?&#10;Game Theory Video &#9658; https://www.youtube.com/watch?v=0XhOm_9_uPk"
     channeltitle "Markiplier"
     channelid "UC7_YxT-KID8kRbqZo7MyscQ"
@@ -8263,7 +8263,7 @@ graph
     commentcount 13591
     duration "PT1M54S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8281,7 +8281,7 @@ graph
     commentcount 0
     duration "PT8M18S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -8289,7 +8289,7 @@ graph
     label "MXuW-KGW5ao"
     step 0
     date "2022-07-10T23:30:12Z"
-    title "Game Theory REACTION: THEY PUT MY IN THE VIDEO! (Andy&#38;#39;s Apple Farm / Rabbit Knight)"
+    title "Game Theory REACTION: THEY PUT MY IN THE VIDEO! (Andys Apple Farm / Rabbit Knight)"
     description "The video: https://www.youtube.com/watch?v=oi_UIEC8HpA&#38;t=458s&#10;&#10;&#10;&#10;&#10;#AndysAppleFarm #RabbitKnight #AndysAppleFarmChapter1 #AndysAppleFarmChapter2 #creepypasta #scary #MatPat #Theory #GameTheory"
     channeltitle "potato potaters"
     channelid "UCmLX49pVOCk3pmShotIJClg"
@@ -8299,7 +8299,7 @@ graph
     commentcount 1
     duration "PT10M59S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   edge
   [

@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:20 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:33:55 2022"
 Version 1
 graph
 [
@@ -117,7 +117,7 @@ graph
     label "vOiP3kfFlrE"
     step 0
     date "2021-06-23T03:00:13Z"
-    title "10 MIN KILLER SIXPACK - super hard ab workout / No Equipment I Pamela Reif"
+    title "10 MIN KILLER SI tongue sticking out ACK - super hard ab workout / No Equipment I Pamela Reif"
     description "a HARDCORE routine, this video is NO JOKE! &#9829;&#65038; Do we kill our sixpack or get a killer sixpack with this one? Tell me after those 10min haha! / Werbung  &#10;&#10;My gosh, we filmed this routine 3x because of several camera errors. My body was shaaaakingggggg. &#10;&#10;&#9656; for lower abs, upper abs &#38; side abs&#10;&#9656; advanced level&#10;&#9656; 100% suitable for men &#10;&#10;1. make sure to keep your LOWER BACK flat on the mat. Only lower your legs as far as possible, so your lower back is not lifting off the mat. &#10;2. lay your head on the mat, if that's more comfy. Make sure to still tilt your pelvis &#38; activate your lower abs if you rest your head. &#10;3. THINK ABOUT YOUR ABS. It's about the mind muscle connection! Lift your legs with the strength of your abs, not your thighs. &#10;&#10;This was recorded in Sweden last week :) unfortunately you can&#8217;t see anything of the landscape because all of those takes had errors :( But on a positive note: The lighting in this Swedish gym made my abs pop haha!!! &#10;&#10;__&#10;&#10;No Equipment necessary, no breaks and not much space needed :) If you need a break tho - take it! Just don't quit! &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;__&#10;&#10;&#10142; my Pam App &#9829;&#65038; Free workout plans (11 versions, different fitness levels), lot of recipes &#38; tips: &#10;https://www.pam-app.de/app&#10;&#10;&#9656; 2 of those FREE WORKOUT PLANS are on my Instagram Channel. &#10;Lose Weight &#38; Focus on a Bubble Butt. Check out the Highlight &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;&#9656; Use the hashtag #PamelaReif if you want to share your transformation or training on Instagram :) I always check the posts! &#10;&#10;__&#10; &#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Ofenbach - Be Mine&#10;2. Galantis - No Money&#10;3. Clean Bandit ft. Demi Lovato &#8211; Solo&#10;4. Galantis x David Guetta x Little Mix - Heartbreak Anthem&#10;&#10;&#10;__&#10;&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -333,7 +333,7 @@ graph
     label "uO2UMEKlBTo"
     step 0
     date "2021-09-24T14:11:11Z"
-    title "10 MIN BEGINNER AB WORKOUT (Sixpack Abs, No Equipment)"
+    title "10 MIN BEGINNER AB WORKOUT (Si tongue sticking out ack Abs, No Equipment)"
     description "An ab workout for total beginners! This 10 minute workout is equipment free and is a TOTAL CORE workout. Perfect for all fitness levels!&#10;#AbWorkout #HomeWorkout #Fitness&#10;&#128073;&#127996; DOWNLOAD YOUR MADFIT APP FREE TRIAL HERE: https://madfit.app.link/e/store&#10;&#10;&#11088;&#65039; DO THIS WARM UP FIRST: http://bit.ly/2riv8T6&#10;&#11088;&#65039; APARTMENT FRIENDLY WARM UP: https://youtu.be/CSrBaHX3HxQ&#10;&#11088;&#65039; DO THIS COOL DOWN AFTER (5 min): https://bit.ly/3zywpCu&#10;&#10;&#128073;&#127996;THE MAT I USE (Exercise 6X4): http://gorillamats.com?aff=19  (MADFIT10 for 10% off)&#10;&#10;&#10008; I N S T A G R A M: @madfit.ig&#10;&#10008; T W I T T E R: @maddielymburner&#10;&#10008; F A C E B O O K: facebook.com/madfit.ig&#10;&#9993; C O N T A C T (business inquiries): madfit95@gmail.com"
     channeltitle "MadFit"
     channelid "UCpQ34afVgk8cRQBjSJ1xuJQ"
@@ -405,7 +405,7 @@ graph
     label "PvUdEKEJBnU"
     step 0
     date "2022-04-05T01:30:04Z"
-    title "10 MIN R.I.P. ABS - for a ripped sixpack, killer ab workout with Willi Whey"
+    title "10 MIN R.I.P. ABS - for a ripped si tongue sticking out ack, killer ab workout with Willi Whey"
     description "Wanna lay down next to Willi? Today is your day :D But first of all&#8230; do we say R.I.P. abs or hello r.i.p.ped abs? &#9829;&#65038; Tell me afterwards! / Werbung &#10;&#10;Say hello to our special guest Willi Whey, who asked me for a date &#38; I said, I want to make him shake during an Ab Workout instead. &#10;&#10;No just kidding (really) haha - but he said beforehand that the 8min Jason Workout is &#8222;okay&#8220; for him, so I had noooo other choice than confronting him with something h-a-r-d. Do we kill our sixpack or get a killer sixpack? Is it R.I.P. abs or hello r.i.p.ped abs? &#10;&#10;&#9656; for lower abs, upper abs &#38; side abs&#10;&#9656; advanced level&#10;&#9656; 100% suitable for men &#10;&#10;In any case: He did AMAZING. Just look closely for the last Ab Hold. Thank me later. &#10;&#10;__&#10;&#10;&#10142; my Pam App &#9829;&#65038; Free workout plans (11 versions, different fitness levels), lot of recipes &#38; tips: &#10;https://www.pam-app.de/app&#10;&#10;&#9656; 2 of those FREE WORKOUT PLANS are on my Instagram Channel. &#10;Lose Weight &#38; Focus on a Bubble Butt. Check out the Highlight &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;&#9656; Use the hashtag #PamelaReif if you want to share your transformation or training on Instagram :) I always check the posts! &#10;&#10;__&#10;&#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038; http://wmg.click/GetActive&#10;&#10;&#9656; You can also find motivating workout songs from Willi in his own playlist https://wmg.click/WilliWheyYC &#10;&#10;&#9656; Find everything about Willi Whey here:&#10;https://www.instagram.com/williwhey/&#10;https://www.tiktok.com/@williwhey&#10;https://www.youtube.com/user/DIXIKOL&#10;&#10;1. Jack Harlow - What&#8217;s Poppin&#10;2. The Notorious B.I.G. - Mo Money Mo Problems&#10;3. Lil Wayne, Wiz Khalifa &#38; Imagine Dragons w/ Logic &#38; Ty Dolla $ign - Sucker for Pain&#10;&#10;__&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -459,7 +459,7 @@ graph
     label "ohgLmY19jNg"
     step 0
     date "2020-05-08T16:30:12Z"
-    title "LOSE FAT in 7 days (belly, waist &#38;amp; abs) | 5 minute Home Workout"
+    title "LOSE FAT in 7 days (belly, waist abs) | 5 minute Home Workout"
     description "Lose belly, waist and abs fat in 7 days with this belly fat loss 5 minute home workout. These abs and waist exercises will target your stomach, show you how to burn belly fat to help with fat loss from home. Are you ready to get a flat stomach and get rid of fat at home? Do this consecutively with good nutrition for 7 days to start to see results. Beginner modifications included. No equipment needed.&#10;&#10;Click here to download your free home workout programs:&#10;https://www.leanwithlilly.com&#10;&#10;Get my Anti-Inflammatory &#38; Immunity Boosting Cookbook here:&#10;https://www.leanwithlilly.com/product...&#10;&#10;&#128155; FOLLOW ME:&#10;Instagram:  https://instagram.com/lillysabri&#10;Private Facebook Group- Lean with Lilly Guides&#10;https://www.facebook.com/groups/50873...&#10;Twitter:  https://twitter.com/lillysabri&#10;Facebook:  https://www.facebook.com/lilly.sabri/&#10;&#10;&#128276; DON'T FORGET to Subscribe for daily uploads&#10;Hit that bell icon to get a notification when I upload.&#10;&#10;0:00 Lose Fat Home Workout Introduction&#10;0:09 Abs Home Workout Results&#10;0:26 Lose Belly, Waist &#38; Abs Fat Home Workout&#10;5:30 You Made It&#10;&#10;Please remember that we cannot spot reduce fat, meaning we can&#8217;t choose the areas on our body where we loose fat. However to get fat loss results I recommend the following&#10;1. Being in calorie deficit&#10;2. Cardio/ HIIT workout (I often call these Fat Loss/Burn workouts on my channel)&#10;3. Specific muscle targeted workouts. To strengthen and develop specific muscles.&#10;The key to achieving your fitness and health goals is consistency and healthy lifestyle changes, without restriction. I don&#8217;t believe in crazy fad diets. Simply eat nutritious food, move your body, smile and enjoy the journey! Love Lilly"
     channeltitle "Lilly Sabri"
     channelid "UCTsM1dSAiXqiV5oZjuNw_Bg"
@@ -477,7 +477,7 @@ graph
     label "lno9GbdrVh4"
     step 0
     date "2022-06-12T21:43:32Z"
-    title "10 MIN SIXPACK AB WORKOUT"
+    title "10 MIN SI tongue sticking out ACK AB WORKOUT"
     description "Try this 10 minute ab workout if you're looking for an intense ab burn :) you can follow the workout schedules from my free guide (sub to my mailing list on my website) or stick to this workout for 14 days!&#10;&#10;GET MY WORKOUT PROGRAMS: https://gainsbybrains.com/collections/guides&#10;&#10;for daily workout inspo, follow me on instagram https://instagram.com/gainsbybrains&#8203;&#8203;&#10;&#10;FREE MACRO CALCULATOR: https://gainsbybrains.com/pages/macro-calculator&#10;------&#10;Music in this video:&#10;&#10;Get Floating Through Space by Sia, David Guetta here https://lickd.lnk.to/YH51HaID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: VrpMBAgdmvd&#10;&#10;Get Attention by Charlie Puth here https://lickd.lnk.to/rUFTsEID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: lDMZbW82v1r&#10;&#10;Get No Lie by Sean Paul, Dua Lipa here https://lickd.lnk.to/0QV4B9ID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: d6yM4bP9GlK&#10;&#10;Get Don't Be Shy by Ti&#235;sto, KAROL G here https://lickd.lnk.to/k0NeW1ID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: 0pnzZmYk6Bm&#10;&#10;Get this and other songs for your next YouTube video at https://lickd.co&#10;&#10;------&#10;Disclaimer:&#10;To avoid any injuries or harm, make sure you check your health with your doctor before exercising. This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. TRAIN WITH GAINSBYBRAINS will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "TRAIN WITH GAINSBYBRAINS"
     channelid "UCi-gw2zFTtLD5evzz_ed-VQ"
@@ -523,7 +523,7 @@ graph
     commentcount 34
     duration "PT10M46S"
     indegree 1
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -559,7 +559,7 @@ graph
     commentcount 10987
     duration "PT10M13S"
     indegree 33
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -567,7 +567,7 @@ graph
     label "EfJ4aB_enVE"
     step 0
     date "2020-06-12T05:30:00Z"
-    title "15 MIN SIXPACK WORKOUT - intense ab workout / No Equipment I Pamela Reif"
+    title "15 MIN SI tongue sticking out ACK WORKOUT - intense ab workout / No Equipment I Pamela Reif"
     description "A new KILLER sixpack workout! Feel (and enjoy.. or hate me for) the buuuuuurn &#9829;&#65038; / Werbung &#10;&#10;This routine starts with a concentrated and slow exercises: for lower abs, upper abs &#38; side abs. We will continue with plank movements to increase our overall core strength and finish off with some high intensity exercises.. to break a little sweat! &#10;&#10;I really hope you like this one :) .. because I definitely LOVE this new routine. It&#8217;s super challenging! &#10;&#10;&#9656; I burned 85kcal in those 15min! That's more than I do for the other ab routines. &#10;If you are taller or heavier than me (I'm 163cm), you will for sure burn more calories!   &#10;__&#10;&#10;No Equipment necessary, no breaks (you're used to it by now I guess) and not much space needed :) If you need a break tho - take it! Just don't quit! &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;__&#10;&#10;&#9656; you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10;__&#10; &#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Galantis &#38; Ship Wrek feat. Pink Sweat$ - Only A Fool 0:00 - 2:30&#10;2. Jaden Bojsen - Remedy 2:31 - 5:30 &#10;3. Sam Feldt &#38; VIZE - Far Away From Home (feat. Leony) 5:31 - 8:12&#10;4. Ella Henderson - Take Care Of You 8:13 - 11:20 &#10;5. Nova Miller &#8211; Mi Amor 11:21 - 14:26&#10;6. Hayley Williams - Dead Horse (Glass Animal Remix) 14:27 - 15:40 &#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;__&#10;&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -711,7 +711,7 @@ graph
     label "cO7iMCci904"
     step 0
     date "2020-04-23T15:00:15Z"
-    title "Extreme Abs Workout | 25 Min At Home Upper Abs, Lower Abs, Obliques &#38;amp; Total Core Pilates Routine"
+    title "Extreme Abs Workout | 25 Min At Home Upper Abs, Lower Abs, Obliques Total Core Pilates Routine"
     description "You guys!! I can't believe we hit 5 million!!! 10 years ago, I was uploading YouTube videos to just 40 of my students. NOW THERE'S 5 MILLION OF YOU?! From the bottom of my heart, thank you all for continuing to work out with me. Hope we can keep having fun together!&#10;&#10;To celebrate, I put together the HARDEST, most insane ab workout EVER! It's a 5x5 workout, which means we're gonna do 5 rounds with 5 different moves in each round, each focusing on different abdominal muscles. That&#8217;s 25 different ab exercises in 25 minutes!&#10;&#10;Round 1: UPPER ABS&#10;&#10;1. HUNDREDS&#10;2. TABLETOP CRUNCH&#10;3. TOE TOUCHES&#10;4. CRESCENT CRUNCH&#10;5. BUTTERFLY CRUNCH&#10;&#10;Round 2: LOWER ABS&#10;&#10;1. DOUBLE LEG LIFTS&#10;2. SINGLE LEG DROP&#10;3. REVERSE CRUNCHES&#10;4. FLUTTERS&#10;5. DOUBLE D&#8217;S&#10;&#10;Round 3: CENTER ABS&#10;&#10;1. SINGLE STRAIGHT LEG STRETCH&#10;2. DOUBLE LEG STRETCH&#10;3. STAR ABS&#10;4. EAGLE CRUNCH&#10;5. SINGLE LEGGED JACKKNIFE&#10;&#10;Round 4: OBLIQUES&#10;&#10;1. CANDLESTICK DIPPER R&#10;2. SIDE PLANK DIPPERS R&#10;3. CANDLESTICK DIPPERS L&#10;4. SIDE PLANK DIPPERS L&#10;5. HIP TWIST BUTT UPS&#10;&#10;Round 5: TOTAL CORE&#10;&#10;1. ROLLOVERS&#10;2. ROLL UP&#10;3. SPRINTER&#10;4. EARTHQUAKE&#10;5. PLANK&#10;&#10;Love you guys!! &#10;&#10;P.S. I'm wearing my brand new POPFLEX set from the Terrain Collection!! Get yours at https://www.popflexactive.com/!&#10;&#10;#abworkout #pilates #poppilates #blogilates #noequipmentworkout&#10;&#10;&#10;Music is always from: http://share.epidemicsound.com/sgFTn&#13;&#10;&#13;&#10;******&#13;&#10;&#13;&#10;Cassey Ho is an award-winning fitness instructor, entrepreneur and online personality. As the creator behind Blogilates, the #1 female fitness channel on YouTube, she&#8217;s transformed millions of lives through helping them achieve their strength and weight-loss goals. She focuses on making fitness fun and the results are evident. Cassey's unique format, POP Pilates&#169;, which launched as a workout video on YouTube in 2009, has become a live fitness class that can be taken at gyms all over the world with over 3,000 POP Pilates classes being taught monthly. Her authenticity continues to shine through, making her one of the most relatable fitness icons online and beyond. She's also the author of the best-selling book, Hot Body Year Round and is the designer of her own activewear line, POPFLEX.&#13;&#10;&#13;&#10;With a wide range of free workout videos available, Cassey's channel focuses on ab exercises, butt &#38; thigh exercises, arm exercises, pilates, cardio routines, fat burning workouts, high intensity interval training workouts (HIIT), stretching and flexibility routines and so much more!&#13;&#10;&#13;&#10;&#13;&#10;***&#13;&#10;DISCLAIMER:&#13;&#10;&#13;&#10;Blogilates and oGorgeous Inc. strongly recommend that you consult with your physician before beginning any exercise program.&#13;&#10;&#13;&#10;You should be in good physical condition and be able to participate in the exercise.&#13;&#10;&#13;&#10;You should understand that when participating in any exercise or exercise program, there is the possibility of physical injury. If you engage in this exercise or exercise program, you agree that you do so at your own risk, are voluntarily participating in these activities, assume all risk of injury to yourself, and agree to release and discharge Blogilates and oGorgeous Inc. from any and all claims or causes of action, known or unknown, arising out of Blogilates' and oGorgeous Inc.'s negligence."
     channeltitle "blogilates"
     channelid "UCIJwWYOfsCfz6PjxbONYXSg"
@@ -757,7 +757,7 @@ graph
     commentcount 16628
     duration "PT12M3S"
     indegree 14
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -765,7 +765,7 @@ graph
     label "mPc_Z7SuvPc"
     step 0
     date "2021-12-12T19:04:10Z"
-    title "6 MIN KILLER SIXPACK - super intense ab workout (No Rest, No Equipment)"
+    title "6 MIN KILLER SI tongue sticking out ACK - super intense ab workout (No Rest, No Equipment)"
     description "QUICK and effective ab workout that will strengthen your core. It's an intense challenge even though it's just 6 minutes. Can you do it? If you ever feel like you need more rest, an extra break or modify an exercise - do so! it's time to get started sooo.. are you ready to LEVEL UP?&#10;&#10;GET MY WORKOUT PROGRAMS: https://gainsbybrains.com/collections/guides&#10;&#10;for daily workout inspo, follow me on instagram https://instagram.com/gainsbybrains&#8203;&#8203;&#10;&#10;FREE MACRO CALCULATOR: https://gainsbybrains.com/pages/macro-calculator&#10;&#10;music from epidemic sound&#10;www.epidemicsound.com&#10;music from artlist&#10;www.artlist.io&#10;&#10;Disclaimer:&#10;To avoid any injuries or harm, make sure you check your health with your doctor before exercising. This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. TRAIN WITH GAINSBYBRAINS will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "TRAIN WITH GAINSBYBRAINS"
     channelid "UCi-gw2zFTtLD5evzz_ed-VQ"
@@ -801,7 +801,7 @@ graph
     label "rK_tmffSghQ"
     step 0
     date "2021-04-12T14:11:47Z"
-    title "15 MIN AB WORKOUT - No Equipment (Sixpack Abs)"
+    title "15 MIN AB WORKOUT - No Equipment (Si tongue sticking out ack Abs)"
     description "Do this 15 min intense abs workout #WithMe ! No equipment needed and you can do this anywhere. This is a total core workout that focuses on all areas of the core with minimal rests!&#10;#HomeWorkout #AbWorkout&#10;&#11088;&#65039; SHOP MY COOKBOOKS!: https://goo.gl/XHwUJg &#10;&#10;&#11088;&#65039; DO THIS WARM UP FIRST: http://bit.ly/2riv8T6&#10;&#11088;&#65039; APARTMENT FRIENDLY WARM UP: https://bit.ly/2Bounwk&#10;&#11088;&#65039; DO THIS COOL DOWN AFTER (15 min): http://bit.ly/2YO55PP&#10;&#11088;&#65039; COOL DOWN (5 min): https://bit.ly/3hqWdbf&#10;&#10;&#128073;&#127996;THE MAT I USE (Exercise 6X4): http://gorillamats.com?aff=19  (MADFIT10 for 10% off)&#10;&#10;&#128073;&#127996;SUBSCRIBE TO MY PERSONAL CHANNEL (what i eat, recipes, vlogs): https://goo.gl/WTpDQk&#10;&#10;&#10008; I N S T A G R A M: @madfit.ig&#10;&#10008; T W I T T E R: @maddielymburner&#10;&#10008; F A C E B O O K: facebook.com/madfit.ig&#10;&#9993; C O N T A C T (business inquiries): madfit95@gmail.com"
     channeltitle "MadFit"
     channelid "UCpQ34afVgk8cRQBjSJ1xuJQ"
@@ -837,7 +837,7 @@ graph
     label "Gn2EWxH7ME8"
     step 0
     date "2021-12-07T20:00:07Z"
-    title "30 min SLOW &#38;amp; INTENSE ABS Workout for Defined Abs - No Equipment"
+    title "30 min SLOW INTENSE ABS Workout for Defined Abs - No Equipment"
     description "Try this slow &#38; intense 30 min TOTAL CORE workout. We are working on TONING and DEFINING our abs with this one. No equipment needed! This is DAY 8 of the DECEMBER WORKOUT CALENDAR!&#10;#Fitness #HomeWorkouts #Abs&#10;&#10;&#128073;&#127996; DOWNLOAD YOUR MADFIT APP FREE TRIAL HERE: https://madfit.app.link/e/store&#10;&#10;&#11088;&#65039; DO THIS WARM UP FIRST: http://bit.ly/2riv8T6&#10;&#11088;&#65039; APARTMENT FRIENDLY WARM UP: https://youtu.be/CSrBaHX3HxQ&#10;&#11088;&#65039; DO THIS COOL DOWN AFTER (5 min): https://bit.ly/3zywpCu&#10;&#10;&#128073;&#127996;THE MAT I USE (Exercise 6X4): http://gorillamats.com?aff=19  (MADFIT10 for 10% off)&#10;&#10;&#10008; I N S T A G R A M: @madfit.ig&#10;&#10008; T W I T T E R: @maddielymburner&#10;&#10008; F A C E B O O K: facebook.com/madfit.ig&#10;&#9993; C O N T A C T (business inquiries): madfit95@gmail.com"
     channeltitle "MadFit"
     channelid "UCpQ34afVgk8cRQBjSJ1xuJQ"
@@ -919,7 +919,7 @@ graph
     commentcount 31772
     duration "PT8M15S"
     indegree 34
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -927,7 +927,7 @@ graph
     label "dJlFmxiL11s"
     step 0
     date "2015-07-21T19:19:53Z"
-    title "At Home Core Workout | Clutch Life: Ashley Conrad&#38;#39;s 24/7 Fitness Trainer"
+    title "At Home Core Workout | Clutch Life: Ashley Conrads 24/7 Fitness Trainer"
     description "Build your six-pack with this core workout from Ashley Conrad's Clutch Life Trainer.&#10;&#9658; BodyFit Training Programs: https://bbcom.me/2CS7qms&#10;&#9658; Shop Bodybuilding Signature Supplements: https://bbcom.me/3hHziIE&#10;&#10;00:00 - Intro&#10;00:13 - Circuit 1, Round 1&#10;04:10 - Circuit 1, Round 2&#10;08:15 - Circuit 2, Round 1&#10;09:05 - Circuit 2, Round 2&#10;09:55 - Outro&#10;&#10;The first day of the Clutch Life 24/7 Trainer introduces you to how you'll perform the workouts. We'll go through the dynamic warm-up, the stretch series, and the strength circuits together! That's seriously Clutch.&#10;&#10;You can (and should) scale the workouts to fit your level, but you should never scale so much that you don't feel challenged. Every workout should feel difficult. Your heart should be racing and you should be sweating. Push yourself as much as you can. Rest when you must, but don't take more than a minute or two to catch your breath.&#10;&#10;The Clutch Life Trainer doesn't end with these workouts. You need to carry the same willingness to work with you into your kitchen and everyday life. No, you don't have a super-specific diet to follow, but if you follow the flexible game plan I've laid out for you, you'll see fantastic results in your physique, performance, and overall health.&#10;&#10;The Clutch Life is all about putting your best foot forward every single day.&#10;&#10;========================================&#173;=====&#10;&#10;| Follow Us |&#10;&#9658; Twitch: http://bit.ly/2q1dttE&#10;&#9658; YouTube: http://bit.ly/1RSJFa4&#10;&#9658; Facebook: http://on.fb.me/1lomhpr&#10;&#9658; Instagram: http://bit.ly/1LzBxab&#10;&#9658; Twitter: http://bit.ly/1RSJQlL&#10;&#9658; Google+: http://bit.ly/1NRe8qu&#10;&#9658; Pinterest: http://bit.ly/1OOZgY4&#10;&#9658; Spotify: http://spoti.fi/1NRebm0&#10; &#10;We are Bodybuilding.com. Your transformation is our passion. We are your personal trainer, your nutritionist, your supplement expert, your lifting partner, your support group. We provide the technology, tools and products you need to burn fat, build muscle and become your best self."
     channeltitle "Bodybuilding.com"
     channelid "UC97k3hlbE-1rVN8y56zyEEA"
@@ -937,7 +937,7 @@ graph
     commentcount 4332
     duration "PT10M16S"
     indegree 45
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 10007
     duration "PT10M38S"
     indegree 46
-    cluster 9
+    cluster 3
   ]
   node
   [
@@ -1125,7 +1125,7 @@ graph
     label "MznqHWzCv8s"
     step 0
     date "2020-07-01T16:30:01Z"
-    title "15 MIN SIXPACK WORKOUT (NO EQUIPMENT BODYWEIGHT WORKOUT)"
+    title "15 MIN SI tongue sticking out ACK WORKOUT (NO EQUIPMENT BODYWEIGHT WORKOUT)"
     description "This workout is full length which means you can just follow along with whatever I'm doing. We are going to focus the lower abs, upper abs, side abs (obliques) and core strength. If you need extra rest, just pause the video. If you don't need a rest - watch it the whole way through.&#10;&#10;You can hit this home workout 2-3x per week - and if you wanted to keep active on your other days - be sure to check out my other workouts!&#10;&#10;In order to develop a truly impressive Sixpack, you will want to train from abs a whole range of perspectives. The core is made up of four key components. The rectus abdominus (6pack / lower abs), internal and external obliques, the serratus anterior, and the transverse abdominus (inner abs)&#10;&#10;&#128073;Coaching Programs: https://www.fraserwilsonfitness.com&#10;&#128073;Subscribe: (https://goo.gl/84uFTA)&#10;&#128170;Supplement Code: FRASER10 at https://www.ehplabs.com/&#10;&#128073;Shop Gymshark: https://gym.sh/Shop-Fraser2&#10;&#10;ADD ME ON:&#10;Instagram: https://www.instagram.com/FraserWilsonFit/&#10;Facebook: https://facebook.com/FraserWilsonFit/&#10;Snapchat: FraserWilsonFit&#10;&#10;Music:&#10;Syn Cole - Feel Good [NCS Release]:&#10;https://youtu.be/q1ULJ92aldE&#10;&#10;Warriyo - Mortals (feat. Laura Brehm) [NCS Release]:&#10;https://youtu.be/yJg-Y5byMMw&#10;&#10;Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release]:&#10;https://youtu.be/zyXmsVwZqX4&#10;&#10;Unknown Brain - MATAFAKA (feat. Marvin Divine) [NCS Release]:&#10;https://youtu.be/AlXfbVpDUdo"
     channeltitle "Fraser Wilson"
     channelid "UCyiNCEHLyKbSUrrncVr9KvQ"
@@ -1161,7 +1161,7 @@ graph
     label "z2ggDhOqLsk"
     step 0
     date "2021-08-18T03:30:11Z"
-    title "10 MIN AB WORKOUT + BOTTLE / or a small weight, extra resistance &#38;amp; special exercises I Pamela Reif"
+    title "10 MIN AB WORKOUT + BOTTLE / or a small weight, extra resistance special exercises I Pamela Reif"
     description "Tired of basic crunches? Let&#8217;s switch it up &#9829;&#65038; grab a bottle and work your way to a sixpack!  / Werbung&#10;&#10;Bottle / Weight:&#10;1. You can use anything between 0.5 - 4kg. &#10;2. I wouldn&#8217;t say that &#8222;the heavier, the better&#8220;! You also need to hold the weight with your arms, not your abs - remember :D &#10;&#10;EXERCISES: &#10;&#9656; The bottle / weight adds EXTRA RESISTANCE, forcing our muscles to grow stronger. It&#8217;s always good to switch it up, to keep seeing results! &#10;&#9656; Lots of NEW exercises. Hope you enjoy them :) &#10;&#9656; I will tell you right away: There are SIDE PLANKS :D only very short in the end though - not too bad! Just think about your toned waist &#38; time flies by :)&#10;&#9656; STANDARD exercises made harder by adding the bottle. Jack Knifes, Sit Ups, &#8230; &#10;&#10;TECHNIQUE:&#10;&#9656; Ab Holds: Make sure to keep your LOWER BACK flat on the mat. Only lower your legs as far as possible, so your lower back is not lifting off the mat! &#10;&#9656; Neck: Don&#8217;t crunch with your neck, lift your body with the strength of your tummy! :D this also reduces neck pain. &#10;&#9656; Side Planks: If those ones are too hard, perform a Half Side Plank instead. Knees are on the floor, feet are on the floor, hip is lifted :) &#10;&#10;__&#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;__&#10;&#10;&#9656; I offer FREE WORKOUT PLANS on my Instagram Channel &#38; in my Pam App. &#10;30min, 45min Weights / Sweaty / Slow, Beginner Friendly, 60min Hardcore &#38; a Dance Plan. Updated every Sunday. &#10;&#10;&#10142; my Pam App &#9829;&#65038; Free workout plans, recipes &#38; tips: &#10;Apple: https://apps.apple.com/app/pam/id1540604002&#10;Android: https://play.google.com/store/apps/details?id=com.openreply.pam&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;use #PamelaReif if you want me to see your workout pics and videos! &#10;&#10;__&#10; &#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Dubdogz, J&#216;RD - Ain't No Sunshine (feat. Jasmine Pace)&#10;2. Milk &#38; Sugar - Let The Sun Shine&#10;3. Joel Corry x Jax Jones - OUT OUT (feat. Charli XCX &#38; Saweetie)&#10;4. Offrami - Resist Your Love (feat. Mougleta)&#10;&#10;&#10;__&#10;&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -1225,7 +1225,7 @@ graph
     commentcount 2146
     duration "PT7M15S"
     indegree 12
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 1254
     duration "PT16M34S"
     indegree 22
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -1305,7 +1305,7 @@ graph
     label "Q-vuR4PJh2c"
     step 0
     date "2018-01-08T18:38:38Z"
-    title "10 MIN SIXPACK WORKOUT // No Equipment | Pamela Reif"
+    title "10 MIN SI tongue sticking out ACK WORKOUT // No Equipment | Pamela Reif"
     description "NO EXCUSES &#9829;&#65038;  a quick &#38; intense workout to target your abs. You don't need any equipment or weights!! // Werbung &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise &#8211; NO REST IN BETWEEN.&#10;&#10;No Equipment necessary, no breaks and not much space needed :) If you need a break tho - take it! Just don't quit! &#10;__&#10;&#10;&#9656; you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;__&#10;MUSIC by Epidemic Sound &#10;http://www.epidemicsound.com&#10;&#10;__&#10;Email: &#10;pamela_reif@icloud.com&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -1323,7 +1323,7 @@ graph
     label "F6PhNnlb-14"
     step 0
     date "2020-04-02T19:30:36Z"
-    title "Get a &#8220;6 Pack&#8221; in 22 Days! (HOME AB WORKOUT)"
+    title "Get a in 22 Days! (HOME AB WORKOUT)"
     description "If you want to get a 6 pack at home and are not sure what home ab workout to do, give this one a try. This six pack workout is designed to do two things in just 22 days. The first is help you to develop stronger abs by training them the way they should be. No ab function is left out as you work your way from your lower abs to your upper abs to your obliques. &#10;&#10;The next most important element however is that research has shown that 22 days is the time period within one must stay consistent with something in order to turn it into a habit. If you can stick to this 6 exercise home ab workout for just three weeks, you will start to see changes to your lifestyle and your approach to working out that could stick with you for the rest of your life.&#10;&#10;It is this element that makes this a plan that even someone that is at a much higher body fat percentage, something that they will want to invest the time in doing. While the six pack abs may not be completely visible by the time this is over in just 22 days, it is the habits that will be formed that could carry over and be the true game changer.&#10;&#10;That said, do be sure that while you are committing to putting in the effort on this workout that you don&#8217;t undervalue the role of nutrition to getting to where you want to be. I&#8217;ve said so many times that the most important element of getting ripped is having a good nutrition plan. You simply cannot out train a bad diet. You need to eat healthy, while still enjoying the foods that you eat, if you want to get your body fat levels down low enough to see your abs.&#10;&#10;The good news is that your body fat levels do not have to be nearly as low as you may have thought they needed to be in order to get a six pack. Some can see even the outline of a complete set of abs at body fat levels in the mid teens.&#10;&#10;That said, here is how this extinction style ab workout breaks down.&#10;&#10;There are 6 total ab exercises in this routine. They start with lower ab movements and progress through midrange and oblique exercises, ending with top down movements at the end to predominantly influence your upper ab fibers. The key to getting six pack abs is that you perform them for the given rep or time range. If you can successfully complete the range for a given exercise, simply wait 10 seconds and go again. Keep repeating the range until you cannot get all the reps or time prescribed. At this point, you will have reached extinction. From here, you would move onto the next exercise in the six pack workout and complete it in the same manner.&#10;&#10;The exercises are as follows:&#10;&#10;W Raises x 5 reps (lower abs)&#10;Black Widow Knee Slides x 45 seconds (bottom up rotation)&#10;Butterfly Sit-ups x 10 reps (midrange)&#10;Seated Corkscrews x 45 seconds (obliques)&#10;Levitation Crunches x 10 reps (upper abs)&#10;Sit-Up Elbow Thrusts x 5 reps each side (top down rotation)&#10;&#10;This entire circuit is to be performed just one time through, however remember that you may be repeating individual exercises multiple times if you are able to complete all of the prescribed reps or time. In this case again, you would rest 10 seconds and repeat the exercise until you couldn&#8217;t finish what was prescribed.&#10;&#10;This is a killer but it is an ab workout that everyone can do, regardless of what body fat level or ability level you are at right now. If you are looking for a complete bodyweight workout program that doesn&#8217;t require any equipment at all, be sure to head to athleanx.com and check out the ATHLEAN XERO program. No bands, benches, bars or weights are needed to build a ripped athletic body.&#10;&#10;For more ab workouts to get a 6 pack, be sure to subscribe to our channel here on youtube via the link below and try some of the follow along ab workouts. Don&#8217;t forget to turn on your notifications so you never miss a new video when it&#8217;s published.&#10;&#10;Build Muscle with No Equipment - http://athleanx.com/xero&#10;Subscribe to this channel here - http://youtube.com/user/jdcav24"
     channeltitle "ATHLEAN-X&#8482;"
     channelid "UCe0TLA0EsQbE-MjuHXevj2A"
@@ -1341,7 +1341,7 @@ graph
     label "MmNbGJS57U8"
     step 0
     date "2020-10-23T04:00:03Z"
-    title "10 MIN SIXPACK WORKOUT - BEGINNER TO MEDIUM LEVEL, including breaks / No Equipment I Pamela Reif"
+    title "10 MIN SI tongue sticking out ACK WORKOUT - BEGINNER TO MEDIUM LEVEL, including breaks / No Equipment I Pamela Reif"
     description "on your way to build a sixpack but not fully there yet? &#9829;&#65038; / Werbung &#10;&#10;Everybody starts somewhere &#38; my other workouts require suuuper strong ab muscles (and neck muscles haha). I feel like this routine is a bit harder than the Beginner Ab Workout, so I would say this is between Beginner &#38; Medium Level.&#10;Perfect to build up your strength before you jump into those killer videos on my channel! &#10;&#10;And listen.. it includes BREAKS! :D &#10;(If you feel like it's too easy with the breaks: just continue the last exercise during the break &#38; jump into the new movement one once I start with it as well)&#10;&#10;&#9656; always THINK about your ab muscles while performing the movements. That's the best way to engage them and not use the strength of your thighs too much. &#10;&#9656; if we lay down on our back, keep your lower back flat on the ground&#10;&#9656; keep you body in one parallel line to the floor during the planks. No butts sticking in the air please! &#10;&#10;__&#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;&#10;&#9656; you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;__&#10; &#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. David Puentez - I'm Gone 0:00 - 2:49 &#10;2. Winona Oak &#38; Robin Schulz - Oxygen (Wave Wave Remix) 2:50 - 5:45&#10;3. Enisa - Love Cycle 5:55 - 8:23 &#10;4. Why Don't We - Fallin' 8:24 - 10:30&#10;&#10;__&#10;&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -1359,7 +1359,7 @@ graph
     label "OfMK1r41Jz0"
     step 0
     date "2021-08-16T07:00:15Z"
-    title "8 MIN. BRUTAL AB WORKOUT - NO LEG MOVEMENTS / lower &#38;amp; upper ab BURN | No Equipment | Mary Braun"
+    title "8 MIN. BRUTAL AB WORKOUT - NO LEG MOVEMENTS / lower upper ab BURN | No Equipment | Mary Braun"
     description "Are you struggling with your legs and thighs whenever you train abs? &#10;Do they feel extra heavy when doing leg lifts?  &#10;Then - this is the greatest gift and solution for you.&#10;An AB WORKOUT where you don&#8217;t need to use your legs.&#10;&#10;I used my favourite ab exercises that: &#10;&#10;- let your lower abs burn &#10;- make your upper abs visible &#10;- work on the muffin top fat &#10;- are the basic greatest &#38; best ab exercises in my opinion &#10;&#10;Let me know in the comments how you liked it and what you want to see more of, leave a like and we will see us as soon as you are ready for another workout with me. For weekly Workout Plans, keep an eye on my Instagram Stories and Posts here on Youtube. &#10;&#10;For weekly Workout Plans, keep an eye on my Instagram Stories and Posts here on Youtube.&#10;- &#9829;&#65039; MY GOAL is to offer you free access to build the body you want, stay healthy &#38; fit and have fun while working out &#9829;&#65039; - &#10;&#10;Lots of powerful love,&#10;Mary&#10;&#10;_____________________________&#10;Workout Equipment:&#10;https://www.picker.me/l/eb5cb2e5&#10;&#10;MUSIC by Epidemic Sound&#10;https://www.epidemicsound&#10;&#10;&#129416;My Gymshark Outfit : https://gym.sh/Shop-Mary-Braun&#10;&#10;Follow me on Instagram for daily Motivation &#9829;&#65038;&#10;Instagram: @_marybraun&#10;https://www.instagram.com/_marybraun/?hl=en&#10;Business Contact:  marybraun.info@gmail.com&#10;&#10;Disclaimer:&#10;When joining me for all my workout videos, you need to know that we can&#8217;t choose the area where we want to lose fat. Your health and safety is the most important. To reduce and avoid any injury or harm, you will want to check with your doctor before beginning this workout. If you don&#8217;t feel comfortable in performing different exercises see a fitness professional to give you advice on your exercise form. Mary Braun will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Mary Braun"
     channelid "UCao4a5ju7QRScI_tnf2MArw"
@@ -1449,7 +1449,7 @@ graph
     label "o3mfKLCerec"
     step 0
     date "2021-03-17T04:30:05Z"
-    title "10 MIN AB LINES WORKOUT - efficient for middle, side &#38;amp; upper abs / No Equipment I Pamela Reif"
+    title "10 MIN AB LINES WORKOUT - efficient for middle, side upper abs / No Equipment I Pamela Reif"
     description "want to get the famous &#34;11 line&#34; abs? good, let's train our entire core &#9829;&#65038;  / Werbung &#10;&#10;We (hopefully) all know: you will not magically get ab lines &#38; lose all your belly fat by doing 5 crunches. I wish it was that easy haha. But let's make sure our lines are readyyyy below the &#34;soft pillows&#34;. Being well prepared is always beneficial, we are ready for the moment we get to see those muscles. &#10;&#10;To see, ab lines you need to: &#10;&#9656; have strong ab muscles. Especially obliques (the sides), but also upper, lower and middle abs. It's basically only possible with a combination out of all areas. Think about runway models: they are often super duper skinny but don't have visible abs. So yes, we all have abs - but IT IS a matter of training them &#38; making them pop out.&#10;&#9656; have low body fat storages at your core. Everybody stores weight at different areas, so some people don't even need to have a super low body fat percentage to see those lines! If you naturally store more fat around your stomach though, you will need to be more shredded.  &#10;&#9656; sleep well &#38; don't stress so much: why? Stress increases the hormone cortisol, which supports fat storages around your belly. &#10;&#10;PS: enjoy the view &#38; the sunset! &#9829;&#65038;&#10;&#10;__&#10;&#10;No Equipment necessary, no breaks and not much space needed :) If you need a break though - take it! Just don't quit! &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;__&#10;&#10;&#9656; you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;&#9656; use #PamelaReif if you want me to see your workout pics and videos! &#10;&#10;__&#10; &#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Jub&#235;l - Weekend Vibe (Alle Farben Remix) 0:00 - 2:34 &#10;2. Tobtok, Milwin &#38; Alfie Cridland - New Levels, feat. Mila Falls 2:35 - 5:06&#10;3. Malou - All or Nothing 5:07 - 7:36&#10;4. Christopher - Fall So Hard 7:37 - 10:40&#10;&#10;__&#10;&#10;&#10142; my Pam App &#9829;&#65038; Free workout plans, recipes &#38; tips: &#10;Apple: https://apps.apple.com/app/pam/id1540604002&#10;Android: https://play.google.com/store/apps/details?id=com.openreply.pam&#10;&#10;My Cookbook: &#10;German Version: https://amzn.to/2RZ3zID&#10;English Version: https://amzn.to/2YxFhb7&#10;&#10;__&#10;&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -1477,7 +1477,7 @@ graph
     commentcount 1769
     duration "PT10M31S"
     indegree 10
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -1539,7 +1539,7 @@ graph
     label "4krsAmEeZX0"
     step 0
     date "2021-10-21T16:00:07Z"
-    title "11 LINE ABS WORKOUT (UPPER, LOWER ABS &#38;amp; OBLIQUES WORKOUT)"
+    title "11 LINE ABS WORKOUT (UPPER, LOWER ABS OBLIQUES WORKOUT)"
     description "Get ready for one of the best Ab Workouts of your LIFE! Let's do this! A full home 11 line ab workout that you can do whenever and wherever you like!! You don't need any equipment or weight.&#10;&#10;This video is full length which means you can just follow along with whatever I'm doing. If you need extra rest, just pause the video. If you don't need a rest - watch it the whole way through.&#10;&#10;&#128073;GET SHREDDED IN 4 WEEKS: https://youtube.com/playlist?list=PLfNsMbADHaOkMorh_DgiVCMX3frZqfOSk&#10;&#10;&#128073; Join My App: www.trainwithfraser.app&#10;&#10;&#128073;Coaching Programs: https://www.fraserwilsonfitness.com&#10;&#128073;Subscribe: (https://goo.gl/84uFTA)&#10;&#128170;Supplement Code: FRASER10 at https://www.ehplabs.com/&#10;&#128073;Shop Gymshark: https://gym.sh/Shop-Fraser2&#10;&#10;ADD ME ON:&#10;Instagram: https://www.instagram.com/FraserWilsonFit/&#10;Facebook: https://facebook.com/FraserWilsonFit/&#10;TikTok: https://www.tiktok.com/@fraserwilsonfit&#10;Snapchat: FraserWilsonFit"
     channeltitle "Fraser Wilson"
     channelid "UCyiNCEHLyKbSUrrncVr9KvQ"
@@ -1575,7 +1575,7 @@ graph
     label "UgEr_UHwbuE"
     step 0
     date "2021-03-19T15:30:02Z"
-    title "INTENSE 10 MIN AB WORKOUT (UPPER, LOWER ABS &#38;amp; OBLIQUES WORKOUT)"
+    title "INTENSE 10 MIN AB WORKOUT (UPPER, LOWER ABS OBLIQUES WORKOUT)"
     description "Get ready for one of the best Ab Workouts of your LIFE! Let's do this! A full home ab workout that you can do whenever and wherever you like!! You don't need any equipment or weight.&#10;&#10;This video is full length which means you can just follow along with whatever I'm doing. If you need extra rest, just pause the video. If you don't need a rest - watch it the whole way through.&#10;&#10;You can hit this home workout 2-3x per week - and if you wanted to keep active on your other days - be sure to check out my other workouts!&#10;&#10;&#128073;Coaching Programs: https://www.fraserwilsonfitness.com&#10;&#128073;Subscribe: (https://goo.gl/84uFTA)&#10;&#128170;Supplement Code: FRASER10 at https://www.ehplabs.com/&#10;&#128073;Shop Gymshark: https://gym.sh/Shop-Fraser2&#10;&#10;ADD ME ON:&#10;Instagram: https://www.instagram.com/FraserWilsonFit/&#10;Facebook: https://facebook.com/FraserWilsonFit/&#10;Snapchat: FraserWilsonFit"
     channeltitle "Fraser Wilson"
     channelid "UCyiNCEHLyKbSUrrncVr9KvQ"
@@ -1611,7 +1611,7 @@ graph
     label "JEEG0hBNk3E"
     step 0
     date "2020-05-20T12:32:18Z"
-    title "Intense Lower Abs Workout &#128293; Burn Lower Belly Fat  &#129300;"
+    title "Intense Lower Abs Workout "
     description "Hot new lower abs workout for you! Here's a new favourite routine of mine with back to back abs exercise that's going to help you feel that burn! Enjoy working on those abs and do smash that like button and leave a comment!&#10;&#10;&#9734;Summer Shred Challenge 2020&#9734;&#10;Full program schedule - https://www.chloeting.com/program&#10;Warm Up - https://youtu.be/-p0PA9Zt8zk&#10;Episode 1 - https://youtu.be/OBSUUi0FAKo&#10;Episode 2 - https://youtu.be/hAUIGLE8PEo&#10;Episode 3 - https://youtu.be/7L-Td_p0bXE&#10;Episode 4 - https://youtu.be/fMPoCc78v0g&#10;Episode 5 - https://youtu.be/JEEG0hBNk3E&#10;Episode 6 - Releasing 25th May&#10;&#10;&#9734;Help subtitle this video&#9734;&#10;http://www.youtube.com/timedtext_video?ref=share&#38;v=JEEG0hBNk3E&#10;&#10;&#9734;Sponsor this channel&#9734;&#10;https://www.youtube.com/chloeting/join&#10;&#9734;Sub to my 2nd channel&#9734;&#10;https://www.youtube.com/channel/UCBrcDabYtwbR1VIhwH5efZA?sub_confirmation=1&#10;&#10;&#9734;My links&#9734;&#10;https://www.instagram.com/chloe_t/&#10;https://www.instagram.com/itschloeting/&#10;twitch.tv/chloeting&#10;&#10;&#9734;Music by&#9734;&#10;Dylan Locke&#10;https://www.youtube.com/user/RadialCreations&#10;&#10;Track: JackEL &#38; Skrapbeats - Destiny&#10;Music Provided by Magic Records&#10;Listen To The Original: https://youtu.be/d7TuGcPFAe4&#10;Free Download: https://fanlink.to/dstny&#10;&#10;Marin Hoxha X Caravn - Hey Now&#10;Marin Hoxha &#38; Harley Bird - Keeps Me Going&#10;https://www.instagram.com/marin.hoxha/&#10;https://www.youtube.com/channel/UCnAbketHOrqM3cpsTv-vFAw&#10;&#10;#abs #homeworkout #chloeting&#10;&#10;IMPORTANT DISCLAIMER: Some people may see my video titles as click-bait. YouTubers optimise their video's meta data for discovery due to how the algorithm is like. This isn't anything new. Most people who've been watching YouTube for years would understand this. If you're unhappy and get triggered by this, well, this channel isn't for you then. I&#8217;ve provided free workout schedules and programs since day 1 and have always optimised my meta data as such so that's not going to change.&#10;&#10;Having said that, it doesn't mean the workout do not work. You will still see results by following a suitable program schedule, watching your diet, being in a deficit or surplus (based on your goals), doing exercises in good form, etc. These are all equally important factors. You're not going to get abs, grow a booty, grow biceps magically from 1 or 2 videos, in 1, 2, 3 or 4 weeks cause everyone is different. A title may come close to suggesting that, but I've explain multiple times throughout videos throughout my channel over years that it takes time and lots of factors, so don't take a video title out of context. Targetting fat loss is also not scientifically proven. Everyone is different and it takes time. &#10;&#10;When doing any home workouts, do take precaution to exercise in a safe environment, and if you need help or you're not seeing results, I suggest seeing a health and fitness professional to give you tailored advice on your exercise form and dietary needs. I am not a medical professional and what I share on my channel are my views and what has worked for myself. Your health and safety is the utmost importance so find out what works for you."
     channeltitle "Chloe Ting"
     channelid "UCCgLoMYIyP0U56dEhEL1wXQ"
@@ -1629,7 +1629,7 @@ graph
     label "_rp6OqtbVR0"
     step 0
     date "2022-03-30T13:19:44Z"
-    title "20 min STANDING ABS Workout for Ab Lines, Small Waist &#38;amp; Flat Belly ~ Emi"
+    title "20 min STANDING ABS Workout for Ab Lines, Small Waist Flat Belly ~ Emi"
     description "this video is in collaboration with https://www.soyjoy.hk/&#10;try the Japanese SOYJOY low GI nutrition bars to enhance performance, help with fat burn, and stimulate continuous release of energy!&#10;&#24819;&#22312;&#36939;&#21205;&#21069;&#35036;&#20805;&#39636;&#21147;&#20294;&#21448;&#19981;&#24819;&#21507;&#22826;&#39165;&#65311;&#19968;&#23450;&#35201;&#35430;&#35430;&#26085;&#26412;&#35069;&#36896;&#30340;SOYJOY&#22823;&#35910;&#26524;&#28363;&#26834;&#65281;&#10;&#20302;GI&#30340;SOYJOY&#21487;&#20197;&#26377;&#21161;&#25552;&#21319;&#36939;&#21205;&#34920;&#29694;&#12289;&#25345;&#32396;&#37323;&#25918;&#33021;&#37327;&#65292;&#26356;&#21487;&#20197;&#30906;&#20445;&#36939;&#21205;&#26178;&#26377;&#25928;&#22320;&#29123;&#29138;&#26356;&#22810;&#33026;&#32938;&#65281;&#10;&#10;SUBSCRIBE &#38; TURN ON NOTIFICATIONS FOR NEW VIDEOS! thank you for your support (:&#10;&#10;MY WEBSITE: https://www.emiwong.life/&#10;&#9658; all my workout programs: https://www.emiwong.life/programs&#10;&#9658; more videos to watch: https://www.emiwong.life/other-videos&#10;&#10;FOR EARLY ACCESS TO MY VIDEOS&#10;&#9658; join the #femily membership: http://bit.ly/femilymembers&#10;&#10;LET'S BE FRIENDS!&#10;&#9658; my instagram: https://www.instagram.com/emiwong_/&#10;&#9658; my facebook: https://www.facebook.com/EmiWongg/&#10;&#9658; my dogs' instagram: https://www.instagram.com/ballb.udon.almond/&#10;&#10;iHerb Discount Code: ALG4570&#10;&#9658; https://www.iherb.com/?rcode=ALG4570&#10;&#10;WORK CONTACT: emi.stayfitandtravel@gmail.com"
     channeltitle "emi wong"
     channelid "UCvGEK5_U-kLgO6-AMDPeTUQ"
@@ -1639,7 +1639,7 @@ graph
     commentcount 347
     duration "PT23M10S"
     indegree 18
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 1742
     duration "PT8M50S"
     indegree 5
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -1701,7 +1701,7 @@ graph
     label "q6NIWNnvOK0"
     step 0
     date "2013-11-05T05:24:49Z"
-    title "20 Min Ultimate Ab Workout | Intense Abs &#38;amp; Core Exercises"
+    title "20 Min Ultimate Ab Workout | Intense Abs Core Exercises"
     description "A quick, intense ab workout to exercise every angle of your midsection.&#10;Shop GymRa apparel: http://www.gymra.com/shop&#10;&#10;Join https://www.gymra.com/ for free!&#10;Experience our FREE app: http://gymra.com/app&#10;365 workouts &#38; stream over 500 videos on-the-go.&#10;&#10;Complete details for this Intense Ab Workout: https://www.gymra.com/instaview/q6NIWNnvOK0&#10;&#10;More by Christine here: https://www.youtube.com/playlist?list=PLsPcs4lOzaD37I2dyaIPwmhbjjQ_km55P&#10;&#10;More Abs Workouts: https://www.youtube.com/playlist?list=PLsPcs4lOzaD2qZ-PEFVApWcWFbB7djhNR&#10;&#10;Look for us on:&#10;Amazon (https://www.amazon.com/v/gymra)&#10;Roku (https://channelstore.roku.com/details/90745/gymra)&#10;&#10;Over 50 workout programs, 1000's of on-the-go exercises &#38; a customization tool to create your own workout - for all fitness levels: http://www.gymra.com&#10;&#10;&#169; GymRa 2019. All Rights Reserved.&#10;&#10;*Connect &#38; chat with us*&#10;&#10;http://www.gymra.com&#10;http://blog.gymra.com&#10;http://www.pinterest.com/gymra&#10;http://www.facebook.com/gymra&#10;http://www.instagram.com/gymra&#10;http://www.gymra.tumblr.com&#10;http://www.twitter.com/gymrafitness&#10;https://www.amazon.com/v/gymra&#10;https://channelstore.roku.com/details/90745/gymra&#10;https://appadvice.com/tv/app/gymra/1116836551&#10;https://itunes.apple.com/us/app/gymra/id1133046550?mt=8&#10;https://play.google.com/store/apps/details?id=com.gymra.app&#38;hl=en"
     channeltitle "GymRa"
     channelid "UCulr-lJe8M6CcJTsxVGFoIw"
@@ -1719,7 +1719,7 @@ graph
     label "nXxsfMyz7So"
     step 0
     date "2017-05-31T18:49:55Z"
-    title "Bowflex&#174; Bodyweight Workout | Eight-Minute At-Home Ab Workout"
+    title "Bowflex Bodyweight Workout | Eight-Minute At-Home Ab Workout"
     description "Check out more Bowflex workouts here: https://goo.gl/jkjFMm&#10;&#10;Four moves and eight minutes is all you need to complete this awesome ab workout! These four exercises can be done with modifications to make them as easy or as difficult as needed. Make sure to take time, and focus on form. These exercises aren't about how quick you do them, but how well you do them. &#10;&#10;Do the four exercises listed below for 45 seconds each with 15 seconds rest in between. Then repeat the four exercises for round two. &#10;&#10;1) Classic Crunch&#10;2) Plank &#10;3) Cross Crunch&#10;4) Rope Climbs&#10;&#10;&#10;Want an ab workout that doesn't require going to the floor?  Try this 6-Minute Standing Ab Workout: https://youtu.be/bkHuvrLxpUU&#10;&#10;If planks are more your thing, try this 3-Minute Perfect Plank Workout: https://youtu.be/ynUw0YsrmSg&#10;&#10;Subscribe for more workouts and tips: http://goo.gl/sxLYmP&#10;&#10;Additional fitness tips: http://goo.gl/vFWbTL&#10;&#10;Quick workouts: http://goo.gl/mj1b0C&#10;&#10;http://www.Bowflex.com - Find all the fitness solutions you'll ever need to be a healthier you.&#10;&#10;http://www.BowflexInsider.com - Head to the Bowflex Insider blog to read the latest in all things related to fitness and health and find simple ways to start losing weight.&#10;&#10;Connect with us and socialize with other Bowflex fans:&#10;http://www.facebook.com/Bowflex&#10;http://www.instagram.com/Bowflex&#10;http://twitter.com/Bowflex&#10;http://plus.google.com/+Bowflex&#10;http://pinterest.com/Bowflex"
     channeltitle "Bowflex"
     channelid "UCKik8uG08NYJStvTW7ZgUAQ"
@@ -1729,7 +1729,7 @@ graph
     commentcount 1067
     duration "PT8M39S"
     indegree 18
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -1737,7 +1737,7 @@ graph
     label "2IGxhqbYT1k"
     step 0
     date "2022-06-18T18:00:03Z"
-    title "THIS AB WORKOUT IS WILD. &#129327;&#128561; #shorts"
+    title "THIS AB WORKOUT IS WILD. #shorts"
     description "This looks like fun. &#128517;&#128517;&#10;&#10;(via georgebamfojr/IG, thatspatb2/IG)&#10;&#10;&#127942;SHOP WARRIORS CHAMPIONSHIP MERCH! https://hoh.world&#10;&#10;&#128204; Follow our Instagram: https://www.instagram.com/houseofhighlights&#10;&#128204; Follow our TikTok: https://www.tiktok.com/@houseofhighlights&#10;&#128204; Follow our Facebook: https://www.facebook.com/houseofhighlights&#10;&#10;#HouseofHighlights #Fitness #HoH"
     channeltitle "House of Highlights"
     channelid "UCqQo7ewe87aYAe7ub5UqXMw"
@@ -1755,7 +1755,7 @@ graph
     label "jn5IMNPMRR0"
     step 0
     date "2020-05-02T09:22:17Z"
-    title "15 MIN AB WORKOUT - Let&#38;#39;s Train Together / No Equipment I Pamela Reif"
+    title "15 MIN AB WORKOUT - Lets Train Together / No Equipment I Pamela Reif"
     description "A NEW routine with lots of new exercises / Werbung &#9829;&#65038; &#10;&#10;We train upper abs, lower abs &#38; side abs! That&#8217;s why we need 15min - we gotta do the whole thing :) I talk you through all the exercises, give you tips on how I do the exercises, what's important &#38; how I train my abs efficiently - those 15min are flying by, you got this. &#10;&#10;No excuses guys, grab a towel or yoga mat and join me for this quick &#38; intense session. Can&#8217;t wait to make those abs burrrrrn! &#10;&#10;__&#10;&#10;No Equipment needed. No rests (sorry to disappoint you right away). No noise (no jumps or anything). Everything is going to be down on the mat :) &#10;&#10;_&#10;&#10;&#9656; You can find free WORKOUT SCHEDULES on my Instagram Channel. I saved them in my highlights. &#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;__&#10;&#10;Music by Epidemic Sound &#10;http://www.epidemicsound.com&#10;&#10;__&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -1845,7 +1845,7 @@ graph
     label "PlqWX_cv7bc"
     step 0
     date "2021-10-06T04:00:11Z"
-    title "10 MIN TOTAL AB EXPRESS WORKOUT - No Repeat, No Equipment"
+    title "10 MIN TOTAL AB E tongue sticking out RESS WORKOUT - No Repeat, No Equipment"
     description "10 MIN TOTAL AB EXPRESS &#9829;&#65038; a quick and efficient core workout to feel the abs burn! It's an express workout team - keep going until the end of the 10 minutes &#128293; Let's strengthen and define our core muscles and watch our abs POP! Grab your mat, let's do it!!&#10;&#10;MY BRAND NEW FITNESS NUTRITION GUIDE:&#10;https://www.growwithanna-shop.com/products/grow-nutrition-guide&#10;&#10;&#9829;&#65038; Duration: 10 MINS (nonstop ab work) &#10;&#9829;&#65038; No Repeat&#10;&#9829;&#65038; No Equipment&#10;&#10;Workout:&#10;&#9656; Nonstop Ab Work 30 sec on, 0 sec off&#10;Ab Bicycles&#10;Alternating Tuck Up Crunch&#10;Full Tuck Ups&#10;Supported Flutter Kicks&#10;&#10;&#9656; Nonstop Ab Work 45 sec on, 0 sec off&#10;Sit Up + Punch&#10;Supported Knee In + Outs&#10;Heel Taps&#10;Reverse Crunch + Leg Lift&#10;&#10;&#9656; Nonstop Ab Work 30 sec on, 0 sec off&#10;Low Plank Hold&#10;Side Plank - Right&#10;Low Plank Dips&#10;Side Plank - Left&#10;&#10;&#9656; Nonstop Ab Work 45 sec on, 0 sec off&#10;Heel Tap Sit Up&#10;Alternating Leg Raises&#10;Deadbugs&#10;&#10;&#9656; Finisher 60 sec hold&#10;Extended Plank Hold&#10;&#10;&#9656; Cool Down 40 sec on, 10 sec off&#10;Childs Pose&#10;Cobra Ab Stretch&#10;&#10;Please remember that we are all different and that you can make this your own workout &#9825; Take a longer break when you need to.&#10;&#10;&#9825; Join the OFFICIAL TEAM GROW Community Group: https://www.facebook.com/groups/teamgrowsupport/&#10;&#10;&#9825; Workout Challenges &#38; Guides: http://growwithanna-shop.com&#10;&#10;&#9825; My  @foodspring  Supplements: https://bit.ly/33gIZZD&#10;DISCOUNT CODE - ANNAFSG&#10;&#10;&#9825; My  @Gymshark  Outfits: https://gym.sh/Shop-Anna-E&#10;&#10;&#9825;  The Gear I Use: &#10;Camera: https://amzn.to/3aticKD&#10;Lens: https://amzn.to/3cCiujR&#10;Tripod: https://amzn.to/2zontX9&#10;Microphone: https://amzn.to/34VaKXH&#10;&#10;&#9825; SUBSCRIBE: http://bit.ly/2QLvpXn&#10;&#9825; Instagram: http://bit.ly/2ZSdHFR&#10;&#9825; Facebook: http://bit.ly/2SVkgpE&#10;&#10;&#9825; My Music: https://www.epidemicsound.com&#10;&#10;#homeworkout&#10;&#10;D I S C L A I M E R&#10;&#10;If you are a newbie start with a simple and easy exercise before attempting all advanced exercises. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Growingannanas will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "growingannanas"
     channelid "UCsLF0qPTpkYKq81HsjgzhwQ"
@@ -1909,7 +1909,7 @@ graph
     commentcount 112
     duration "PT4M3S"
     indegree 8
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -1917,7 +1917,7 @@ graph
     label "3zl1_XGgDVk"
     step 0
     date "2018-07-15T12:08:10Z"
-    title "2 in 1 - FLAT BELLY &#38;amp; ROUND BOOTY WORKOUT  // No Equipment | Pamela Reif"
+    title "2 in 1 - FLAT BELLY ROUND BOOTY WORKOUT // No Equipment | Pamela Reif"
     description "Werbung // This is the workout that I did on stage at the FIBO Convention this year. The people there loved it so much that I decided to film &#38; publish it here as well &#9829;&#65038; &#10;&#10;Targets abs &#38; glutes and is also perfect for people suffering form pain in there knees. No squats or lunges involved! &#10;&#10;&#10;1ST PART: similar to my 10min Sixpack Workout :) trains your abs from all angles. Also really focussing on lower abs &#38; obliques here! &#10;2ND PART: combination of ab &#38; booty exercises. &#10;3RD PART: ultimate booty burnout!!! Think about your booty muscles all the time to have the best mind-muscle connection. This is extremely knee friendly and doesn't involve any work of your quads. So we only get booty &#38; hamstring gains right here :) &#10;&#10;&#10;You don't need any equipment or weights. The video is in full length which means you can just follow whatever I&#8217;m doing. There are two 1min rests in between. If you need to pause longer - feel free to do so. If you don't need a break - skip them! &#10;&#10;I recommend switching up your workouts to give your muscles enough time to recover. You can do this workout 2-3x a week and if you want to do be active on the other days: check out my Sixpack, Plank, Core, Whole Body &#38; Booty Workouts &#9829;&#65038;&#10;&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account  http://www.instagram.com/pamgoesnuts/&#10;&#10;&#10;VIDEO, CUT &#38; EDIT: Emrah Bayka &#10;https://www.instagram.com/emrahbayka/&#10;emrahbayka@gmail.com &#10;&#10;&#10;MUSIC by Epidemic Sound &#10;http://www.epidemicsound.com&#10;&#10;&#10;CONTACT ME (business inquires):&#10;pamela_reif@icloud.com&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -1935,7 +1935,7 @@ graph
     label "StBxsDojk70"
     step 0
     date "2021-08-16T15:12:14Z"
-    title "10 Min Ab Workout | Defined, Beautiful, &#38;amp; Strong TEN DAY CHALLENGE!"
+    title "10 Min Ab Workout | Defined, Beautiful, Strong TEN DAY CHALLENGE!"
     description "This 10 minute ab workout &#38; ten day challenge is an effective core defining workout that will help you gain definition and strength in your entire core and midsection. CHALLENGE DETAILS: https://bohobeautiful.life/core-10-day-challenge/&#10;&#10;Its a perfect challenge to get results fast, feel stronger, create beautiful definition in your entire core and midsection.  Gift yourself 10 mins per day and find out what your body is capable of if you apply yourself to a simple goal and commit each day. Enjoy the opportunity to push , find and set new limitations on your body!&#10;&#10;So grab your water and have fun. &#10;&#10;Location- Playa Dominical, Costa Rica  &#10;&#10;Boho Beautiful&#160;Official&#10;&#10;#BohoBeautiful #fitness #abworkout&#10;&#10;Boho Beautiful is Juliana Spicoluk &#38; Mark Spicoluk&#10;&#10;----------------------------------------------------------------------------------------------------------&#10;Boho Beautiful Yoga is a yoga fitness lifestyle channel that is creating positive content for your body, mind, and the earth. Yoga, Wanderlust, Fitness, Vegan food, Conscious Living, and Meditation!&#10;&#10;Thank you so much for watching and subscribing to our channel! &#10;Connect With Us!&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;DISCLAIMER:&#10;Please consult your doctor before starting any diet or exercise program. By using our videos, you understand and agree that neither Boho Beautiful Ltd. nor any persons associated with it have any liability to you for any injury or loss you may suffer in connection with any content we may post."
     channeltitle "Boho Beautiful Yoga"
     channelid "UCWN2FPlvg9r-LnUyepH9IaQ"
@@ -1953,7 +1953,7 @@ graph
     label "7nIOqf23Ec0"
     step 0
     date "2022-01-10T02:00:10Z"
-    title "15 MIN STRONG ABS Workout - Killer Abs &#38;amp; Core, No Equipment, No Repeat Home Workout"
+    title "15 MIN STRONG ABS Workout - Killer Abs Core, No Equipment, No Repeat Home Workout"
     description "SWEAT &#38; SHRED 2022 #ABS Team, try this quick and intense 15 mins Strong Abs workout to strengthen your upper abs, lower abs, obliques, and core &#128293; Want to feel more toned and strong in your core area? Then give this KILLER workout a go! &#10;&#10;&#9656; Focus: Total Core Burner&#10;&#9656; Time: 15 Min&#10;&#9656; Equipment: No Equipment&#10;&#9656; Workout 50 sec on, 10 sec off&#10;&#10;Please remember that we are all different and that you can make this your own workout &#9825; Take a longer break when you need to.&#10;&#10;&#9829;&#65038; My Music: https://playde.link/fitnessathome&#10;#sonymusic&#10;00:00 - 02:50 Dynoro &#38; Gigi D&#8217;Agostino - In my Mind&#10;02:50 - 05:27 Tiscore, VIZE &#38; NO&#216;N &#8211; Where The Roses Grow&#10;05:27 - 08:44 Pepas [Robin Schulz Remix]&#10;08:44 - 11:39 Lucky Luke - Cooler Than Me&#10;11:39 - 15:05 Super Girl - Anna Naklab&#10;&#10;&#9825; Join the OFFICIAL TEAM GROW Community Group: https://www.facebook.com/groups/teamgrowsupport/&#10;&#10;&#9825; Sign up to the Team Grow Newsletter: https://manage.kmail-lists.com/subscriptions/subscribe?a=VLsDDa&#38;g=WikyFT&#10;&#10;&#9825; Workout Challenges &#38; Guides: http://growwithanna-shop.com&#10;&#10;&#9825; My  @foodspring  Supplements: https://bit.ly/33gIZZD&#10;DISCOUNT CODE - ANNAFSG&#10;&#10;&#9825; My  @Gymshark  Outfits: https://gym.sh/Shop-Anna-E&#10;&#10;&#9825;  The Gear I Use: &#10;Camera: https://amzn.to/3aticKD&#10;Lens: https://amzn.to/3cCiujR&#10;Tripod: https://amzn.to/2zontX9&#10;Microphone: https://amzn.to/34VaKXH&#10;&#10;&#9825; SUBSCRIBE: http://bit.ly/2QLvpXn&#10;&#9825; Instagram: http://bit.ly/2ZSdHFR&#10;&#9825; Facebook: http://bit.ly/2SVkgpE&#10;&#10;&#10;&#10;#growingannanas #growwithanna #homeworkouts #hiitworkout #homeworkout&#10;&#10;D I S C L A I M E R&#10;&#10;If you are a newbie start with a simple and easy exercise before attempting all advanced exercises. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Growingannanas will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "growingannanas"
     channelid "UCsLF0qPTpkYKq81HsjgzhwQ"
@@ -2025,7 +2025,7 @@ graph
     label "k1cLRd7cahQ"
     step 0
     date "2018-03-05T19:05:45Z"
-    title "Full Core Workout - Build Thick Abs &#38;amp; A Strong Core"
+    title "Full Core Workout - Build Thick Abs A Strong Core"
     description "&#187; Training Programmes - https://mikethurston.co.uk/&#10;&#10;The Routine:&#10;&#10;A - Hanging Knee Raise (Reps 6-10)&#10;3-4 Sets, 2 minute rest&#10;&#10;B - Reverse Crunch (Reps 8-10)&#10;3 Sets, 90 sec rest&#10;&#10;C - Ab Rollout (Reps - 8-10)&#10;3-4 Sets, 90 sec rest&#10;&#10;D - Ball Crunch (Reps - 10-12)&#10;3 Sets, 75 sec rest&#10;&#10;E - Decline Crunch/GHR Crunch (Reps - 8-10)&#10;3 Sets, 75 sec rest&#10;&#10;OR&#10;&#10;E - Rope Crunch (Reps - 10-15)&#10;3 Sets, 75 sec rest&#10;&#10;&#187; Instagram: https://www.instagram.com/mikethurston&#10;&#187; Facebook: https://www.facebook.com/mikethurston...&#10;&#187; Twitter: https://twitter.com/thethurstonator &#10;&#187; MyProtein Supplements - Use Code THURSTON for a discount on your order&#10;https://bit.ly/2ZDgnsu - Best Sellers &#10;https://bit.ly/3jkdRyX - Bars &#38; Snacks"
     channeltitle "Mike Thurston"
     channelid "UCzGLDaTu81nJDtWK10MniGg"
@@ -2043,7 +2043,7 @@ graph
     label "bkHuvrLxpUU"
     step 0
     date "2016-09-14T18:59:04Z"
-    title "Bowflex&#174; Bodyweight Workout | Six-Minute Standing Ab Workout"
+    title "Bowflex Bodyweight Workout | Six-Minute Standing Ab Workout"
     description "Like this video? Check out more Bowflex workouts here: https://bit.ly/33juCla &#10;&#10;Don't feel like going to the floor to give your abs an awesome workout? No problem! This workout will have your core burning big time without ever going to the floor!  Make this workout your go-to if you don't have a comfortable surface to lay on, don't want to get down on a floor that's seen a lot of foot traffic, or just want to mix up your ab routine.&#10;&#10;For this 6 minute workout, you will be doing 4 ab exercises for 45 seconds each, two times through.&#10;&#10;The 4 ab exercises are:&#10;&#10;1) Punches - Place your legs about shoulder width apart and twist your upper body, throwing a punch with your arm. Then twist the other direction and punch with your other arm.  Your feet should stay mostly stationary, with just a little twist of the same foot of the arm that is punching to allow the body to twist.&#10;&#10;2) Front Kicks - Keep one leg planted and kick out with the other leg, focusing on contracting your abs when you kick. Alternate legs after each kick. Be sure you have plenty of space to do this exercise and don't kick anything or anyone!&#10;&#10;3) Standing Marches - Start with both hands straight up in the air and bring one knee all the way up while bringing your arms down, keeping your hands above your elbows and near your body, so your elbows and knee line up, with your knee in between both arms.  As you do this, squeeze your abs.  Return to the starting position and do the same thing with your other knee, and continue to alternate knees.&#10;&#10;4) Standing Cross Crunch: &#10;Knee to Elbow Variant - Bring one arm up so your elbow is at chest height and your hand is above your elbow, and bring your opposite knee up while bringing that arm down so your elbow meets your knee (don't hit them together hard).  As you do this, squeeze your abs.  Return them back to their starting point and do the same thing with your other knee and elbow, and continue to alternate.&#10;&#10;Extended Leg Variant - Kick one of your legs straight out, keeping your leg as straight as possible, and reach out to touch the toes of that leg with your opposite hand. Alternate legs and arms throughout the workout.&#10;&#10;Don't worry if you can't kick super high or touch your toes when you do this workout, just make sure you are doing the range of motion that you are able to do and engaging your abs with each move.&#10;&#10;If you don't have the time for a 6 minute ab workout, try our 3 Minute Standing Ab Workout: https://youtu.be/oQ--HZDG2ew&#10;&#10;Subscribe for more workouts and tips: http://goo.gl/sxLYmP&#10;Additional fitness tips: http://goo.gl/vFWbTL&#10;Quick workouts: http://goo.gl/mj1b0C&#10;&#10;http://www.Bowflex.com?adID=DOXFBBYOUTUBE - Find all the fitness solutions you'll ever need to be a healthier you.&#10;&#10;https://www.bowflex.com/blog/?adID=DOXFBBYOUTUBE- Head to the Bowflex Insider blog to read the latest in all things related to fitness and health and find simple ways to help you reach your goals. #StrongerEveryDay&#10;&#10;Connect with us and socialize with other Bowflex fans:&#10;https://www.instagram.com/bowflex/&#10;http://www.facebook.com/Bowflex&#10;http://twitter.com/Bowflex&#10;http://pinterest.com/Bowflex"
     channeltitle "Bowflex"
     channelid "UCKik8uG08NYJStvTW7ZgUAQ"
@@ -2071,7 +2071,7 @@ graph
     commentcount 397
     duration "PT16M51S"
     indegree 13
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -2079,7 +2079,7 @@ graph
     label "l2AHpn2i7_Y"
     step 0
     date "2020-08-05T04:30:02Z"
-    title "10 MIN AB WORKOUT - Back &#38;amp; Neck Friendly / No Equipment I Pamela Reif"
+    title "10 MIN AB WORKOUT - Back Neck Friendly / No Equipment I Pamela Reif"
     description "an intense Sixpack Routine, that's friendly for your back &#38; neck &#9829;&#65038; if you usually suffer from neck pain or have problems with your lower back: this one might work better for you! &#9829;&#65038; / Anzeige &#10;&#10;Creating this routine was kind of tricky.. but I put a big focus on those 2 issues: &#10;1. (expect for that 1 Ab Hold) this entire routine is super friendly for your LOWER BACK. It should definitely be way easier to keep it neutral &#38; flat on the ground for the entire 10min - especially if you compare it to my other routines. &#10;2. Of cooouuuurse it still involves some movement for your neck, but I feel like I mixed the exercises well enough to not give you a sixpack for your neck muscles haha :D &#10;&#10;Tell me how you like it! Hope I was able to help some of you &#9829;&#65038;&#10;&#10;__&#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. If you need a break - TAKE IT! Don't worry too much about that. You will improve over time :) &#10;&#10;&#9656; you can find WORKOUT PLANS with those videos on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10;__&#10;&#10;My Cookbook: &#10;German Version: https://amzn.to/2RZ3zID&#10;English Version: https://amzn.to/2YxFhb7&#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;__&#10;Music by Epidemicsounds.com&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -2115,7 +2115,7 @@ graph
     label "62tEuL1FOtM"
     step 0
     date "2022-06-01T06:44:31Z"
-    title "Get STRONG ABS in 14 Days With This Workout | 10 Min Sixpack Workout"
+    title "Get STRONG ABS in 14 Days With This Workout | 10 Min Si tongue sticking out ack Workout"
     description "SIXPACK ABS ARE loading.. do this workout every day for 14 days and I guarantee your abs will feel way stronger &#38; you'll notice a significant difference compared to day one! But if you feel like you need a rest day, always take one! &#10;&#10;GET MY WORKOUT PROGRAMS: https://gainsbybrains.com/collections/guides&#10;&#10;for daily workout inspo, follow me on instagram https://instagram.com/gainsbybrains&#8203;&#8203;&#10;&#10;FREE MACRO CALCULATOR: https://gainsbybrains.com/pages/macro-calculator&#10;------&#10;Music in this video:&#10;&#10;Get Don't Be Shy by Ti&#235;sto, KAROL G here https://lickd.lnk.to/k0NeW1ID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: bLE2m8Q1Vqo&#10;&#10;Get Paradise by Meduza, Dermot Kennedy here https://lickd.lnk.to/iIuj0KID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: 8EWkewD3bmV&#10;&#10;Get Memories (feat. Kid Cudi) [2021 Remix] by David Guetta, Kid Cudi here https://lickd.lnk.to/x9g8QEID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: 0pn1oYa0gPE&#10;&#10;Get Breaking Me by Topic, A7S here https://lickd.lnk.to/GHqTAsID!TRAIN%20WITH%20GAINSBYBRAINS&#10;&#10;License ID: gNxnXadVOr9&#10;&#10;Get this and other songs for your next YouTube video at https://lickd.co&#10;&#10;------&#10;Disclaimer:&#10;To avoid any injuries or harm, make sure you check your health with your doctor before exercising. This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. TRAIN WITH GAINSBYBRAINS will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "TRAIN WITH GAINSBYBRAINS"
     channelid "UCi-gw2zFTtLD5evzz_ed-VQ"
@@ -2151,7 +2151,7 @@ graph
     label "t0Za9A8f9uA"
     step 0
     date "2021-08-03T16:30:05Z"
-    title "5 MIN BRUTAL AB WORKOUT (FAST &#38;amp; FIT ABS NO EQUIPMENT!)"
+    title "5 MIN BRUTAL AB WORKOUT (FAST FIT ABS NO EQUIPMENT!)"
     description "Get ready for one of the most EFFICIENT Home Ab Workouts of your LIFE! Let's do this! An intense full body brutal ab workout that you can do whenever and wherever you like!! You don't need any equipment or weight.&#10;&#10;You can hit this home workout 2-3x per week - and if you wanted to keep active on your other days - be sure to check out my other workouts!&#10;&#10;&#128073;Coaching Programs: https://www.fraserwilsonfitness.com&#10;&#128073;Subscribe: (https://goo.gl/84uFTA)&#10;&#128170;Supplement Code: FRASER10 at https://www.ehplabs.com/&#10;&#128073;Shop Gymshark: https://gym.sh/Shop-Fraser2&#10;&#10;ADD ME ON:&#10;Instagram: https://www.instagram.com/FraserWilsonFit/&#10;Facebook: https://facebook.com/FraserWilsonFit/&#10;TikTok: https://www.tiktok.com/@fraserwilsonfit&#10;Snapchat: FraserWilsonFit"
     channeltitle "Fraser Wilson"
     channelid "UCyiNCEHLyKbSUrrncVr9KvQ"
@@ -2223,7 +2223,7 @@ graph
     label "v_zGx8seH_Y"
     step 0
     date "2021-10-18T16:00:26Z"
-    title "INTENSE 10 MIN AB WORKOUT (UPPER, LOWER ABS &#38;amp; OBLIQUES WORKOUT)"
+    title "INTENSE 10 MIN AB WORKOUT (UPPER, LOWER ABS OBLIQUES WORKOUT)"
     description "Get ready for one of the best intense Ab Workouts of your LIFE! Let's do this! A complete home ab workout that you can do whenever and wherever you like!! You don't need any equipment or weight.&#10;&#10;This video is full length which means you can just follow along with whatever I'm doing. If you need extra rest, don't worry, just pause the video. &#10;Go at your own pace. If you don't need a rest - watch it the whole way through.&#10;&#10;&#128073;GET SHREDDED IN 4 WEEKS: https://youtube.com/playlist?list=PLfNsMbADHaOkMorh_DgiVCMX3frZqfOSk&#10;&#10;&#128073; Join My App: www.trainwithfraser.app&#10;&#10;&#128073;Coaching Programs: https://www.fraserwilsonfitness.com&#10;&#128073;Subscribe: (https://goo.gl/84uFTA)&#10;&#128170;Supplement Code: FRASER10 at https://www.ehplabs.com/&#10;&#128073;Shop Gymshark: https://gym.sh/Shop-Fraser2&#10;&#10;ADD ME ON:&#10;Instagram: https://www.instagram.com/FraserWilsonFit/&#10;Facebook: https://facebook.com/FraserWilsonFit/&#10;TikTok: https://www.tiktok.com/@fraserwilsonfit&#10;Snapchat: FraserWilsonFit"
     channeltitle "Fraser Wilson"
     channelid "UCyiNCEHLyKbSUrrncVr9KvQ"
@@ -2241,7 +2241,7 @@ graph
     label "WcKW8h1Plec"
     step 0
     date "2020-02-02T17:00:09Z"
-    title "20-Minute Toned Arms &#38;amp; Abs Workout"
+    title "20-Minute Toned Arms Abs Workout"
     description "Barry's Bootcamp trainer Astrid Swan brings you the ultimate combination of multitasking arms and abs exercises. This workout will target both areas for an effective and efficient workout in just 20 minutes! Grab a pair of light free weights and let's do it!&#13;&#10;&#13;&#10;&#13;&#10;POPSUGAR Fitness offers fresh fitness tutorials, workouts, and exercises that will help you on the road to healthy living, weight loss, and stress relief. Check out Class FitSugar, our do-it-along-with-us real-time workout show hosted by Anna Renderer, who will inspire you to sweat alongside fitness experts and Hollywood&#8217;s hottest celebrity trainers. Class FitSugar regularly covers the most buzzed-about workout classes and trends, including the Victoria's Secret workout, Tabata, P90X, Bar Method, and more.&#13;&#10;&#13;&#10;Subscribe to POPSUGAR Fitness!&#13;&#10;https://www.youtube.com/subscription_center?add_user=popsugartvfit&#13;&#10;&#13;&#10;Like us on Facebook!&#13;&#10;https://www.facebook.com/PopSugarFitness/&#13;&#10;&#13;&#10;Check us out on Instagram!&#13;&#10;https://www.instagram.com/popsugarfitness/&#13;&#10;&#13;&#10;Eat Clean with POPSUGAR&#13;&#10;Get a full 2-week clean-eating plan with our brand-new app! 70 recipes for breakfast, lunch, dinner, snacks, and treats, simple shopping lists, and more!  Get the app here: https://itunes.apple.com/us/app/clean-eating-plan-and-recipes/id1262482098?mt=8&#13;&#10;&#13;&#10;Visit POPSUGAR!&#13;&#10;https://www.popsugar.com/fitness/20-minute-arms-abs-toning-workout-with-astrid-swan-46867720"
     channeltitle "POPSUGAR Fitness"
     channelid "UCBINFWq52ShSgUFEoynfSwg"
@@ -2313,7 +2313,7 @@ graph
     label "QKCkO9fy9O4"
     step 0
     date "2020-08-09T11:37:57Z"
-    title "10 MIN STANDING ABS WORKOUT | Get Ab Lines &#38;amp; Slim Waist ~ Emi"
+    title "10 MIN STANDING ABS WORKOUT | Get Ab Lines Slim Waist ~ Emi"
     description "SUBSCRIBE &#38; TURN ON NOTIFICATIONS FOR NEW VIDEOS! thank you for your support (:&#10;&#10;MY WEBSITE: https://www.emiwong.life/&#10;&#9658; all my workout programs: https://www.emiwong.life/programs&#10;&#9658; more videos to watch: https://www.emiwong.life/other-videos&#10;&#10;FOR EARLY ACCESS TO MY VIDEOS&#10;&#9658; join the #femily membership: http://bit.ly/femilymembers&#10;&#10;LET'S BE FRIENDS!&#10;&#9658; my instagram: https://www.instagram.com/emiwong_/&#10;&#9658; my facebook: https://www.facebook.com/EmiWongg/&#10;&#9658; my dogs' instagram: https://www.instagram.com/ballb.udon.almond/&#10;&#10;WORK CONTACT: emi.stayfitandtravel@gmail.com"
     channeltitle "emi wong"
     channelid "UCvGEK5_U-kLgO6-AMDPeTUQ"
@@ -2323,7 +2323,7 @@ graph
     commentcount 5372
     duration "PT13M50S"
     indegree 64
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 101
     duration "PT15M45S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -2385,7 +2385,7 @@ graph
     label "6LVoW7Bkw1c"
     step 0
     date "2020-10-21T14:30:00Z"
-    title "HOW TO LOSE BELLY FAT (10MIN ABS WORKOUT) l &#48373;&#48512; &#51648;&#48169; &#51228;&#45824;&#47196; &#50630;&#50528;&#44592; (10&#48516; &#48373;&#44540; &#50868;&#46041;)"
+    title "HOW TO LOSE BELLY FAT (10MIN ABS WORKOUT) l )"
     description "Hello, Allbengers!&#10;Here is 10 minute abs workout routine to lose your belly fat.&#10;Don't hesitate to exercise and let's get started together!!&#10;&#10;&#50504;&#45397;&#54616;&#49464;&#50836;, &#50732;&#48292;&#51256;&#49828;!&#10;&#50724;&#45720;&#51032; &#50868;&#46041;&#51008; &#48373;&#48512; &#51648;&#48169;&#51012; &#51228;&#45824;&#47196; &#50630;&#50528;&#45716; 10&#48516; &#48373;&#44540;&#50868;&#46041; &#47336;&#54004;&#51077;&#45768;&#45796;.&#10;&#44256;&#48124;&#54616;&#51648;&#47568;&#44256; &#51200;&#55148;&#50752; &#54632;&#44760; &#50868;&#46041; &#49884;&#51089;&#54644;&#48400;&#50836;~!!&#10;&#10;&#10;&#9654;&#65039;Allblanc Free Workout Program (2021 Hourglass Body Challenge) : https://bit.ly/allblancworkoutprogram&#10;&#10;&#10;&#9654;Shop Allblanc Merch l &#50732;&#48660;&#46993; &#44415;&#51592; SHOP : https://bit.ly/3fnTNc5&#10;You can meet 1M subscribe edition Allblanc Ballcap !!&#10;&#10;&#10;&#9654;Donation for Allblanc TV (Paypal link) &#12643; &#50732;&#48660;&#46993;TV &#54980;&#50896;&#54616;&#44592; (&#54168;&#51060;&#54036; &#47553;&#53356;) : https://www.paypal.com/paypalme/allblanc&#10;&#10;&#10;&#9654;&#47560;&#51060;&#54532;&#47196;&#54004;(MYPROTEIN) &#54624;&#51064; &#44396;&#47588;&#47553;&#53356;!&#10;&#128073;&#127995; http://tidd.ly/54ad296a&#10;&#54624;&#51064;&#53076;&#46300;(D/C Code) &#34;allblanc&#34; &#51077;&#47141;&#49884;, &#52628;&#44032; 33% &#54624;&#51064;&#10;&#10;&#10;&#9654;SUBSCRIBE FOR WEEKLY VIDEOS : http://bit.ly/allblanc_subs&#10;&#10;&#10;&#9654;ADD US ON INSTAGRAM&#10;Ryo  https://www.instagram.com/coolguy_no.5&#10;Louis  https://www.instagram.com/louis.oh__&#10;Mark  https://www.instagram.com/nsw_91&#10;James https://www.instagram.com/jw.seeeeeo&#10;Bri https://www.instagram.com/letsgotothebathroom&#10;Allblanc  https://www.instagram.com/allblanctv&#10;&#10;&#10;&#9654;FACEBOOK (Allblanc Fit) : https://www.facebook.com/allblancfit&#10;&#10;&#10;&#9654;WATCH MORE VIDEOS (PLAYLISTS)&#10;VLOGS : https://bit.ly/2SxCREn&#10;4MIN WORKOUTS : https://bit.ly/2EE86Ka&#10;INTENSIVE WORKOUTS : https://bit.ly/2BUnjFe&#10;CHALLENGES : https://bit.ly/2T9sbAS&#10;&#10;&#10;&#8251; &#48708;&#51648;&#45768;&#49828; &#47928;&#51032; (Business Inquiry) : all_blanc@naver.com&#10;&#10;&#10;Copyright &#9426; Allblanc TV  All Rights Reserved&#10;&#10;&#10;#LOSEBELLYFAT #TABATA #SIXPACK"
     channeltitle "Allblanc TV"
     channelid "UCq7bR6RxqqOx8cptc1-0AVQ"
@@ -2395,7 +2395,7 @@ graph
     commentcount 660
     duration "PT10M9S"
     indegree 3
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 950
     duration "PT8M7S"
     indegree 5
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2457,7 +2457,7 @@ graph
     label "MrIf68WxkuI"
     step 0
     date "2022-06-01T06:56:28Z"
-    title "10 MIN BIKINI ABS WORKOUT | Tiny &#38;amp; Toned Waist | Eylem Abaci"
+    title "10 MIN BIKINI ABS WORKOUT | Tiny Toned Waist | Eylem Abaci"
     description "Vacay mode on? &#9829;&#65038; This workout will tone and sculpt your waist and give you that sexy bikini abs look. You can do it anytime, anywhere. Just press play and let's train together!&#10;&#10;&#9642;&#65039; Intensity: Medium/Intense&#10;&#10;&#9642;&#65039; Recommendations:&#10;&#8226; Make sure to press your lower back flat onto the mat. No gaps please. Hold this position also during leg lifts and lower your legs only as far as possible, even if there is only a minimum of motion. ALWAYS keep the tension and press your lower back onto the mat and engage your core!&#10;&#8226; If your neck hurts while performing the exercises, you can lay your head on the mat and go on.&#10;&#8226; Repeating the workout 2-3x per week works perfectly.&#10;&#8226; For more burn, combine it with my other ab workouts. &#10;__________________________________________&#10;&#10;&#10142; INSTAGRAM: https://www.instagram.com/eylmbc/ (Free Weekly Workout Plans &#38; Challenges!&#9829;&#65038;) use #EylemAbaci if you want me to see your pics and videos! &#10;&#10142; BLOG: http://eylemabaci.com/&#10;&#10;&#9993;&#65039;  PR / BUSINESS INQUIRIES:&#10;info@eylemabaci.com&#10;&#10;&#127925;  My Spotify Workout-Playlist:&#10;https://sptfy.com/50go&#10;&#10;&#127925;  Music provided by Epidemic Sound &#10;https://www.epidemicsound.com/referral/u7y20x/&#10;__________________________________________&#10;&#10;Disclaimer:&#10;In order to avoid any injury or harm, you need to check your health before doing the exercises. Performing any fitness exercises without supervision, is at your own risk. Please take professional advices of a fitness professional. Eylem Abaci will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Eylem Abaci"
     channelid "UCMio4PHeHJiHJiPIunTsR7A"
@@ -2529,7 +2529,7 @@ graph
     label "Jnkz6q39Dlw"
     step 0
     date "2019-12-04T11:27:36Z"
-    title "5 Minute LOWER ABS Workout &#128089;&#128149; LOSE LOWER BELLY FAT"
+    title "5 Minute LOWER ABS Workout LOSE LOWER BELLY FAT"
     description "This workout has all THE BEST exercises for the LOWER ABS! It will help to create a flat stomach and burn belly fat. Get MORE belly fat burning, ab workouts here: https://bbfit.vhx.tv/browse &#128089;&#128149;&#10;&#10;MY PILATES APP + ALL MY PROGRAMS: https://www.alignapp.com/&#10;&#10;MOBILE APP:&#10;iPhone: https://apps.apple.com/us/app/id1500794429&#10;Android:https://play.google.com/store/apps/details?id=com.bbfit&#38;hl=en_US&#38;gl=US&#10;&#10;INSTAGRAM&#10;Me: https://www.instagram.com/baileybrwn/?hl=en&#10;ALIGN: https://www.instagram.com/bbfit.app/?hl=en&#10;&#10;TIKTOK: https://www.tiktok.com/@baileybrwn?lang=en&#10;&#10;Hope you guys love this workout! If you want to take your results to the next level and access the workouts I do, as well as fitness challenges, meal plans and a workout calendar so you can reach your goals check out BBFIT my online studio here: https://bbfit.vhx.tv/browse &#128089;&#128149;&#10;&#10;What 5 minute workout do you want to see next?&#10;Love, Bails xx"
     channeltitle "Bailey Brown"
     channelid "UCSld2X4CREfM9J3f485kEgQ"
@@ -2539,7 +2539,7 @@ graph
     commentcount 1034
     duration "PT5M33S"
     indegree 10
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2583,7 +2583,7 @@ graph
     label "3jynwku8QpA"
     step 0
     date "2022-01-30T18:47:48Z"
-    title "10 MIN Ab Workout for defined ABS | Sixpack Abs At Home"
+    title "10 MIN Ab Workout for defined ABS | Si tongue sticking out ack Abs At Home"
     description "ohhh my abs were burning during this one! super intense home workout. let's work for those defined abs! If you ever feel like you need more rest, an extra break or modify an exercise - do so! it's time to get started sooo.. are you ready to LEVEL UP?&#10;&#10;GET MY WORKOUT PROGRAMS: https://gainsbybrains.com/collections/guides&#10;&#10;for daily workout inspo, follow me on instagram https://instagram.com/gainsbybrains&#8203;&#8203;&#10;&#10;FREE MACRO CALCULATOR: https://gainsbybrains.com/pages/macro-calculator&#10;&#10;music from epidemic sound&#10;www.epidemicsound.com&#10;music from artlist&#10;www.artlist.io&#10;&#10;Disclaimer:&#10;To avoid any injuries or harm, make sure you check your health with your doctor before exercising. This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. TRAIN WITH GAINSBYBRAINS will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "TRAIN WITH GAINSBYBRAINS"
     channelid "UCi-gw2zFTtLD5evzz_ed-VQ"
@@ -2601,7 +2601,7 @@ graph
     label "6TmQiugy_qw"
     step 0
     date "2019-04-30T11:08:03Z"
-    title "Abs Workout &#128293;Get that 11 Line Abs in 35 days"
+    title "Abs Workout Get that 11 Line Abs in 35 days"
     description "Want that 11 line abs? It's the 2019 Summer Shred Challenge! Time to burn that belly fat away, lose weight in time to get that summer body! This intense abs workout is 10 mins long, contains 12 abs exercises that will help you tone your abs towards that 11 line abs and flat tummy.&#10;&#10;Enjoy the workouts, and please do hit that like button, subscribe and leave a comment below.&#10;&#10;35 Days Summer Shredding Program:&#10;https://www.chloeting.com/program/&#10;&#10;&#9734; Summer Shred Challenge Videos &#9734;&#10;Episode 1 - Full Body Burn - https://youtu.be/Lscqihirc3c&#10;Episode 2 - 11 Abs - https://youtu.be/6TmQiugy_qw&#10;Episode 3 - HIIT Workout - https://youtu.be/mvlfZ43ehmE&#10;Episode 4 - Arms &#38; Back - https://youtu.be/d8STqg1VvN0&#10;Episode 5 - Booty &#38; Toned Legs - https://youtu.be/mTgc6gpCEng&#10;Weight Loss Meal Ideas  - https://youtu.be/q65enzklzqo&#10;&#10;&#9734;Help Subtitle this video&#9734;&#10;http://www.youtube.com/timedtext_video?ref=share&#38;v=6TmQiugy_qw&#10;&#10;&#9734;Sponsor this channel&#9734;&#10;https://www.youtube.com/chloeting/join&#10;&#9734;Sub to my 2nd channel&#9734;&#10;https://www.youtube.com/channel/UCBrcDabYtwbR1VIhwH5efZA?sub_confirmation=1&#10;&#10;&#9734;My Instagram links&#9734;&#10;https://www.instagram.com/chloe_t/&#10;https://www.instagram.com/itschloeting/&#10;&#10;&#9734;Filmed With&#9734;&#10;Panasonic GH5&#10;Lumix G 8-18mm &#10;Lumix G 12-35mm &#10;Lumix G 42.5mm&#10;https://www.amazon.com/shop/chloeting&#10;&#10;&#9734;Music by&#9734;&#10;MBB - Wake Up&#10;SoundCloud: https://soundcloud.com/mbbofficial&#10;https://bit.ly/DownloadWakeUp&#10;&#10;Music provided by Monstercat: &#10;Conro - Remember You&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10;&#10;Vicetone - I Hear You&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10;&#10;Marshmello - Alone (MRVLZ Remix)&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10;&#10;Bishu - Way Up&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10; &#10;#abs #absworkout #chloetingchallenge&#10;&#10;IMPORTANT DISCLAIMER: Please note that all of my videos are titled according to SEO best practices for content discoverability. Unfortunately this may mean that video titles are subjective and shouldn't be seen as absolute truth. As an example, targeting fat reduction is not scientifically proven but a video title might suggest otherwise. When following any of my videos, please take precaution to exercise in a safe environment, and I highly suggest seeing a health and fitness professional to give you advice on your exercise form and dietary needs. Every person is unique and there is no one size fits all solution to health or fitness. I am not a medical professional and your health and safety is the utmost importance."
     channeltitle "Chloe Ting"
     channelid "UCCgLoMYIyP0U56dEhEL1wXQ"
@@ -2655,7 +2655,7 @@ graph
     label "4CkVdu4z1HA"
     step 0
     date "2019-07-02T11:40:02Z"
-    title "Hourglass Abs Workout  &#128587;&#8205;&#9792;&#65039;Lose Muffin Top &#38;amp; Love Handles | 10 Mins"
+    title "Hourglass Abs Workout Love Handles | 10 Mins"
     description "This is episode 2 of my new Hourglass Program. This abs workout  video targets your love handles and help you to lose that muffin top and get you closer to getting your abs visible. &#10;&#10;&#9734;Hourglass Program&#9734;&#10;Full schedule: https://www.chloeting.com/program&#10;Episode 1 - Small Waist Round Butt - https://youtu.be/eKzG6Prq_wE&#10;Episode 2 - Muffin Top Workout - This Video&#10;Episode 3 - Booty Burn - https://youtu.be/9SuTAxJGQuY&#10;Episode 4 - Booty &#38; Legs - https://youtu.be/Byn9mPPZrtk&#10;&#10;&#9734;Help Subtitle this video&#9734;&#10;http://www.youtube.com/timedtext_video?ref=share&#38;v=4CkVdu4z1HA&#10;&#10;&#9734;Sponsor this channel&#9734;&#10;https://www.youtube.com/chloeting/join&#10;&#9734;Sub to my 2nd channel&#9734;&#10;https://www.youtube.com/channel/UCBrcDabYtwbR1VIhwH5efZA?sub_confirmation=1&#10;&#10;&#9734;My Instagram links&#9734;&#10;https://www.instagram.com/chloe_t/&#10;https://www.instagram.com/itschloeting/&#10;&#10;&#9734;Music by&#9734;&#10;TheFatRat, Slaydit &#38; Anjulie - Stronger&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10;&#10;Slushii - Far Away&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10;&#10;Nitro Fun - So Far Away&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10;&#10;Dylan Locke - Johnny Johnny (the remix instrumental) &#10;&#10;#workouts #abs #absworkout&#10;&#10;IMPORTANT DISCLAIMER: Please note that all of my videos are titled according to SEO best practices for content discoverability. Unfortunately this may mean that video titles are subjective and shouldn't be seen as absolute truth. As an example, targeting fat reduction is not scientifically proven but a video title might suggest otherwise. When following any of my videos, please take precaution to exercise in a safe environment, and I highly suggest seeing a health and fitness professional to give you advice on your exercise form and dietary needs. Every person is unique and there is no one size fits all solution to health or fitness. I am not a medical professional and your health and safety is the utmost importance."
     channeltitle "Chloe Ting"
     channelid "UCCgLoMYIyP0U56dEhEL1wXQ"
@@ -2683,7 +2683,7 @@ graph
     commentcount 477
     duration "PT19M51S"
     indegree 3
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 520
     duration "PT11M28S"
     indegree 2
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 484
     duration "PT25M39S"
     indegree 3
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2925,7 +2925,7 @@ graph
     label "EGhERRQ3GP0"
     step 0
     date "2021-11-13T02:00:09Z"
-    title "20 MIN TABATA ABS Workout - No Repeat Exercises, Low Impact, Home Workout - Abs on Fire &#128293;"
+    title "20 MIN TABATA ABS Workout - No Repeat Exercises, Low Impact, Home Workout - Abs on Fire "
     description "20 MIN Tabata ABS! How bad do you want a SIX PACK? &#128293; Let's strengthen our core muscles together team! Don't stop when you feel your core shake... embrace the burn! Let's do it! &#128170;&#127996;&#10;&#10;&#9656; Muscles Worked: Total Core Burner&#10;&#9656; Time: 20 Min&#10;&#9656; Instructions: Follow along and complete as many reps as possible in 20 Seconds. After 10 Seconds of Rest continue to the next move.&#10;&#10;&#9656; 00:00 - 20:25 Tabata Abs: 20 sec on, 10 sec off&#10;Hollow Crunch&#10;Press lower back into the floor&#10;Supported Hollow Hold&#10;Scissors&#10;Leg Raises&#10;Leg Raise + Hip Lift&#10;Slow Bicycles&#10;Fast Bicycles&#10;Side to Side Heel Taps&#10;Alternating Toe Taps&#10;Full Toe Taps&#10;Side Plank Hold Right Side&#10;Side Plank Dips Right Side&#10;Reach Under Right Side&#10;Low Star Plank Hold Right Side&#10;Side Plank Hold Left Side&#10;Side Plank Dips Left Side&#10;Reach Under Left Side&#10;Low Star Plank Hold Left Side&#10;Side Twists&#10;Boat Pose - Bent Knees&#10;Full Boat Pose&#10;Tuck In Crunches&#10;Butterfly Sit Ups&#10;Tuck Hold&#10;Star Crunch Right Arm, Left Leg&#10;Star Crunch Left Arm, Right Leg&#10;Flutter Kicks&#10;Mountain Climbers&#10;Lean Back and Forth Climbers&#10;Low Plank Hold&#10;Plank Knee Up &#38; Downs&#10;Straight Leg Sit Ups&#10;3 Sec Down Leg Raises&#10;3 Sec Down Leg Raise + Hip Lift&#10;Little Hip Lifts&#10;Bicycle Crunch Left&#10;Bicycle Crunch Right&#10;Sit Up + Punch&#10;Deadbugs&#10;Hollow Hold&#10;&#10;Please remember that we are all different and that you can make this your own workout &#9825; Take a longer break when you need to.&#10;&#10;&#9825; Join the OFFICIAL TEAM GROW Community Group: https://www.facebook.com/groups/teamgrowsupport/&#10;&#10;&#9825; Workout Challenges &#38; Guides: http://growwithanna-shop.com&#10;&#10;&#9825; My  @foodspring  Supplements: https://bit.ly/33gIZZD&#10;DISCOUNT CODE - ANNAFSG&#10;&#10;&#9825; My  @Gymshark  Outfits: https://gym.sh/Shop-Anna-E&#10;&#10;&#9825;  The Gear I Use: &#10;Camera: https://amzn.to/3aticKD&#10;Lens: https://amzn.to/3cCiujR&#10;Tripod: https://amzn.to/2zontX9&#10;Microphone: https://amzn.to/34VaKXH&#10;&#10;&#9825; SUBSCRIBE: http://bit.ly/2QLvpXn&#10;&#9825; Instagram: http://bit.ly/2ZSdHFR&#10;&#9825; Facebook: http://bit.ly/2SVkgpE&#10;&#10;&#9825; My Music: https://www.epidemicsound.com&#10;&#10;#growingannanas #growwithanna #homeworkout #hiitworkout #tabata #tabataabs #tabataworkout #homeworkout&#10;&#10;D I S C L A I M E R&#10;&#10;If you are a newbie start with a simple and easy exercise before attempting all advanced exercises. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Growingannanas will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "growingannanas"
     channelid "UCsLF0qPTpkYKq81HsjgzhwQ"
@@ -2989,7 +2989,7 @@ graph
     commentcount 2254
     duration "PT8M15S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -2997,7 +2997,7 @@ graph
     label "O7yqw4gCnaY"
     step 0
     date "2018-01-15T23:33:43Z"
-    title "15 Minute Mat Pilates Abs Workout for a  Flat Tummy &#128150;"
+    title "15 Minute Mat Pilates Abs Workout for a Flat Tummy "
     description "This 15 minute mat Pilates ab workout is designed to give you a flat tummy and tone all the muscles in your core.  Traditional mat pilates with a twist, these exercises work the six-pack, the lower abs, and the obliques for a toned waistline and a flat tummy.  Expect lots of side bending and twisting to work those obliques. We will also practice some balance and stability exercises to activate those deep core muscles that pull the abdominals in and give us a flat tummy. &#10;&#10;MY PILATES APP + ALL MY PROGRAMS: https://www.alignapp.com/&#10;&#10;MOBILE APP:&#10;iPhone: https://apps.apple.com/us/app/id1500794429&#10;Android:https://play.google.com/store/apps/details?id=com.bbfit&#38;hl=en_US&#38;gl=US&#10;&#10;INSTAGRAM&#10;Me: https://www.instagram.com/baileybrwn/?hl=en&#10;ALIGN: https://www.instagram.com/bbfit.app/?hl=en&#10;&#10;TIKTOK: https://www.tiktok.com/@baileybrwn?lang=en"
     channeltitle "Bailey Brown"
     channelid "UCSld2X4CREfM9J3f485kEgQ"
@@ -3007,7 +3007,7 @@ graph
     commentcount 399
     duration "PT15M11S"
     indegree 8
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -3015,7 +3015,7 @@ graph
     label "eIRQzn3w710"
     step 0
     date "2020-03-05T01:01:25Z"
-    title "10 min STANDING ABS Workout (Intense &#38;amp; No Equipment)"
+    title "10 min STANDING ABS Workout (Intense No Equipment)"
     description "No sitting, laying down, or crunches in this Standing Abs Workout. 10 minutes of core work. No equipment needed in this bodyweight ab workout!&#10;&#11088;&#65039;SHOP MY COOKBOOKS!: https://goo.gl/XHwUJg &#11088;&#65039;&#10;&#10;&#11088;&#65039;DO THIS WARM UP FIRST: http://bit.ly/2riv8T6&#10;&#11088;&#65039;DO THIS COOL DOWN AFTER: http://bit.ly/2YO55PP&#10;&#10;&#11088;&#65039;WORKOUTS TO PAIR WITH THIS ONE:&#10;Full Body Workout (No Jumping): http://bit.ly/31RLRKM&#10;10 min Cardio Abs: http://bit.ly/2OmC5uT&#10;20 min Lower Abs: http://bit.ly/2U3Vnc0&#10;&#10;&#128073;&#127996;SUBSCRIBE TO MY MAIN CHANNEL (what i eat, recipes, vlogs): https://goo.gl/WTpDQk&#10;&#10;&#10;&#128247; GEAR I USE: &#10;&#128073;&#127996;THE MAT I USE (Exercise 6X4): http://gorillamats.com?aff=19  (MADFIT10 for 10% off)&#10;CAMERA: https://goo.gl/rVQzXd&#10;42.5mm LENS: https://goo.gl/oLRc2u&#10;TRIPOD: https://goo.gl/ihp5br&#10;MICROPHONE: https://goo.gl/fPzkRN&#10;GOPRO: https://goo.gl/D6eMwL&#10;&#10;&#10008; I N S T A G R A M: @madfit.ig&#10;&#10008; T W I T T E R: @maddielymburner&#10;&#10008; F A C E B O O K: facebook.com/madfit.ig&#10;&#9993; C O N T A C T (business inquiries): madfit95@gmail.com"
     channeltitle "MadFit"
     channelid "UCpQ34afVgk8cRQBjSJ1xuJQ"
@@ -3025,7 +3025,7 @@ graph
     commentcount 1100
     duration "PT11M43S"
     indegree 31
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -3105,7 +3105,7 @@ graph
     label "RarcD0Q50nU"
     step 0
     date "2020-06-24T08:37:44Z"
-    title "LOWER ABS WORKOUT | BURN BELLY FAT |  Rowan Row"
+    title "LOWER ABS WORKOUT | BURN BELLY FAT | Rowan Row"
     description "LOWER ABS WORKOUT | BURN BELLY FAT |  Rowan Row&#10;&#10;&#10;Here are few of my top lower abs exercises that you can perform them at home or anywhere you go without any gym equipment at all. &#10;Start the circuit from the beginning all the way to the end with no break in between the exercises.&#10;Make sure you execute the movement correctly and stick to the whole circuit for the best results. Please comment below if you have any questions at all. &#10;Thanks again for the constant support. Much love to you all and good luck with the workout. xo &#10;&#10;&#10;Exercises: &#10;&#10;* Lying leg raises &#10;* Flutter kicks&#10;* V sit crunches&#10;* Plank open close &#10;* Reverse crunches&#10;* Side to side mountain climbers&#10;* Alternate leg raises&#10;* Plank knee to elbow&#10;* Reverse leg raises &#10;* V sit pulse &#10;&#10;My Fitness app: https://apps.apple.com/gb/app/rowan-row-fitness/id1521683735&#10;&#10;My Fitness plans: https://www.rowanrow.com/fitness-plans &#10;&#10;Subscribe to my channel here: https://www.youtube.com/rowanrow&#10;&#10;My social media links:&#10;&#10;Instagram: https://www.instagram.com/rowanrow&#10;Facebook: https://www.facebook.com/rowanrow&#10;Twitter: https://twitter.com/rowanrowrowan&#10;Website: https://www.rowanrow.com&#10;&#10;Music: https://www.epidemicsound.com"
     channeltitle "Rowan Row"
     channelid "UCg8LTugCdsOLuwtd9n0d8kA"
@@ -3133,7 +3133,7 @@ graph
     commentcount 1379
     duration "PT11M57S"
     indegree 18
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -3141,7 +3141,7 @@ graph
     label "sz3xierpVgg"
     step 0
     date "2022-06-06T16:00:24Z"
-    title "Hourglass Abs Workout 8 minutes  **repeat this to cinch your waist"
+    title "Hourglass Abs Workout 8 minutes **repeat this to cinch your waist"
     description "Start the 12 Week Summer Program Here:&#10;https://keechpeach.fit/collections/e-...&#10;&#10;Comment a workout you would like to see in the comments below!&#10;&#10;&#128267; Power your workout with Rasberry Acai Green Tea Celcius : https://amzn.to/3mqKGxa&#10;&#10;Subscribe to My Channel! |  https://bit.ly/2JzKskI&#8203;&#10;Watch More Videos! | https://bit.ly/2SdkeHp&#8203;&#10;&#10;Text Me Here: 1 310 - 356 - 9896&#10;https://my.community.com/daisykeech&#8203;&#8203;&#10;&#10;Follow Me On:&#10;Instagram | http://instagram.com/DaisyKeech&#8203;&#10;Twitter | http://twitter.com/DaisyKeech&#8203;&#10;Snapchat @Daisyapril&#10;______________________________________________&#10;Timecodes&#10;0:00 - Intro&#10;0:29 - Butterfly Kicks&#10;1:20 - Toe Taps&#10;2:13 - Scissor Kicks&#10;3:09 - Reverse Crunches&#10;4:02 - Jack Knives&#10;4:56 - Bicycle Crunches&#10;5:48 - Bicycle Kicks&#10;6:42 - Russian Twists &#10;7:36 - Basic Crunches"
     channeltitle "Daisy Keech"
     channelid "UC6MSzdTnry2uynOWIB-tSDg"
@@ -3195,7 +3195,7 @@ graph
     label "hGOYxik3oeE"
     step 0
     date "2017-07-19T22:00:17Z"
-    title "Bowflex&#174; Bodyweight Workout | Six-Minute HIIT &#38;amp; Ab Workout"
+    title "Bowflex Ab Workout"
     description "Check out more Bowflex workouts here: https://www.bowflex.com/blog/workouts?adID=DOXFBBYOUTUBE&#10;&#10;Do you have less than ten minutes to exercise and no equipment? No problem. By performing bodyweight moves in a circuit-style workout you can torch calories and tone your muscles in just minutes. &#10;&#10;There is a method to the madness, however. In this fat-torching, ab-flattening six-minute workout you will do a cardio move followed immediately by an abdominal move. This combination elevates your heart rate during the cardio interval, then allows for a quick recovery during the core exercise.&#10;&#10;Each movement will be done for 30 seconds each, allowing you to go at your own pace and take rest breaks if and when you need to, It&#8217;s not about how many repetitions you do, it&#8217;s about working within your limits and challenging yourself. &#10;&#10;Just starting out? Do one three-minute circuit until you&#8217;re ready for two. If you&#8217;re advanced and have a few extra minutes, you can do this workout twice for a super-challenging 12-minute workout.&#10;&#10;Here are the six exercises that you will do for 30 seconds, two times each for a total of six minutes:&#10;&#10;1. Mountain Climbers&#10;2. Plank&#10;3. Squat Jumps&#10;4. Standing Ab Crunches&#10;5. Burpees&#10;6. Jabs&#10;&#10;Looking for similar workouts that work the core? Try this 3 Minute Perfect Plank Workout: https://youtu.be/ynUw0YsrmSg&#10;&#10;Subscribe for more workouts and tips: http://goo.gl/sxLYmP&#10;Additional fitness tips: http://goo.gl/vFWbTL&#10;Quick workouts: http://goo.gl/mj1b0C&#10;&#10;https://www.bowflex.com/max-trainer/?adID=DOXFBBYOUTUBE - Find all the fitness solutions you'll ever need to be a healthier you.&#10;&#10;http://www.Bowflex.com/Blog?adID=DOXFBBYOUTUBE - Head to the Bowflex Insider blog to find more tips and workouts to help you reach your goals.&#10;&#10;Follow us to connect with other fans and stay up to date on the latest and greatest:&#10;https://www.instagram.com/bowflex/&#10;http://www.facebook.com/Bowflex&#10;http://twitter.com/Bowflex&#10;http://plus.google.com/+Bowflex&#10;http://pinterest.com/Bowflex"
     channeltitle "Bowflex"
     channelid "UCKik8uG08NYJStvTW7ZgUAQ"
@@ -3205,7 +3205,7 @@ graph
     commentcount 3480
     duration "PT6M53S"
     indegree 22
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 1099
     duration "PT3M23S"
     indegree 6
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -3321,7 +3321,7 @@ graph
     label "_ikzZyiwsGU"
     step 0
     date "2020-10-29T06:00:05Z"
-    title "11 LINE ABS/ INTENSE UPPER, LOWER ABS &#38;amp; OBLIQUES WORKOUT/- Angela Kajo"
+    title "11 LINE ABS/ INTENSE UPPER, LOWER ABS OBLIQUES WORKOUT/- Angela Kajo"
     description "Hey friends, welcome back!&#10;&#10;I personally think that it's the sexiest thing on women, to see those two lines (11). But to have that flat belly and those lines appearing, you need to work on the entire core intensively, including upper abs, lower abs and obliques. &#10;&#10;And I got you covered! Get ready for one of the Best Ab Workouts focusing on those 11 lines!&#10;&#10;This video is full length which means you can just follow along with me. And if you need an extra rest- just pause the video for a moment to catch your breath. &#10;&#10;For fast result, do this workout 2-3 times a week. and if you wanna keep active on other days - make sure to check out my other workouts! &#10;&#10;And if you love this workout- then please show some love and hit the like button! Im also happy to read and answer all your comments. &#10084;&#65039;&#10;&#10;ALSO please make sure to warm up before the workout to prevent injury and stay safe during the exercise. &#10;&#10;HAVE FUN!!&#10;&#10;-----------------------------------------------------------------------------------&#10;&#10;My Social Media: &#10;&#10;Instagram: https://www.instagram.com/angelakajo/&#10;Facebook: https://www.facebook.com/fitbyangela/... &#10;Email: kajoandco@gmail.com"
     channeltitle "Angela Kajo"
     channelid "UCuEA5i6be4kwFs7Guq0JCMw"
@@ -3357,7 +3357,7 @@ graph
     label "rDxPfQEKBHw"
     step 0
     date "2022-01-01T14:00:12Z"
-    title "Get Abs Fast! 15 min Full Body &#38;amp; Abs Workout | No Equipment &#38;amp; No Jumping"
+    title "Get Abs Fast! 15 min Full Body No Jumping"
     description "Your new 2022 workout challenge! This 15 minute full body &#38; abs workout is great for improving your overall fitness with no equipment and no jumping at home! Thumbs up for more workouts &#9825;&#10;&#10;Do this warm up first: https://youtu.be/BSh4zJHVxs0&#10;&#10;Shop yoga mat &#38; more: http://annamcnulty.com&#10;&#10;Shop Gymshark: http://gym.sh/Shop-Anna-McNulty2&#10;&#10;Instagram: annaemcnulty&#10;TikTok: annamcnulty&#10;Shorts YouTube channel: @Anna McNulty Shorts  &#10;&#10;0:00 workout challenge&#10;0:27 full body and arms set&#10;5:27 legs set&#10;10:27 abs set&#10;&#10;#workout #homeworkout #abs&#10;&#10;Business Inquires: annam@dulcedo.com"
     channeltitle "Anna McNulty"
     channelid "UCPIavfNa4DTfHXDBaFOHuKA"
@@ -3393,7 +3393,7 @@ graph
     label "EmfNKttx1n0"
     step 0
     date "2022-03-28T14:00:13Z"
-    title "6 MIN VICTORIA&#38;#39;S SECRET ABS WORKOUT - get 11 line abs - a flat stomach"
+    title "6 MIN VICTORIAS SECRET ABS WORKOUT - get 11 line abs - a flat stomach"
     description "This is a quick 6 minute Victoria Secret Ab workout to get 11 lines and a flat stomach. This workout will help you to lose belly fat and make your abs look like 11 lines. Lose fat and tone your upper &#38; lower abs. I got inspired by the Victoria's Secret girls that have lean, toned and visible abs. You can do this 6 minute ab workout challenge at home with no equipment needed. Combine this workout with one of my fat burn workouts and good nutrition for even better results. Love you all, #Marybody Family! &#10;&#10;Follow me on Instagram for daily motivation &#9829;&#65038; &#10;Love you and appreciate everyone of you.&#10;Instagram: @_marybraun https://www.instagram.com/_marybraun/&#10;Business Contact: marybraun.info@gmail.com&#10;&#10;Disclaimer: When joining me for all my workout videos, you need to know that we can&#8217;t choose the area where we want to lose fat. Your health and safety is the most important thing. To reduce and avoid any type of injury, it is better for you to check with your doctor, before beginning this workout. If you don&#8217;t feel comfortable in performing different exercises, see a fitness professional to give you advice on your exercise form. Mary Braun will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Mary Braun"
     channelid "UCao4a5ju7QRScI_tnf2MArw"
@@ -3465,7 +3465,7 @@ graph
     label "9VsDP584zyQ"
     step 0
     date "2017-05-26T01:52:06Z"
-    title "The &#8220;22 Day&#8221; Ab Workout (NO REST!)"
+    title "The Ab Workout (NO REST!)"
     description "Have abs year round - http://athleanx.com/x/year-round&#10;Subscribe to this channel here - http://bit.ly/2b0coMW&#10;&#10;Are you ready for an ab workout challenge that is suitable for everyone from beginner to advanced?  In this video, I&#8217;m going to show you a single ab workout routine that you can do for the next 22 days straight that is going to help to carve up that midsection of yours and give you a jump start on getting your abs to pop year round.  There are just 6 exercises in this ab workout, each one hitting the abs from one of their primary functions.&#10;&#10;No equipment is required to perform this ab workout routine.  Because of this fact, there are no excuses either.  You will be able to do this workout for your abs in just minutes and you won&#8217;t need any elaborate setup to get it done.  It can be done in the comfort of your own home or in the gym if you so choose.&#10;&#10;The key to this ab workout plan is that you perform it for 22 days straight.  There are two reasons for this time period.  First, it gives you an opportunity to start seeing noticeable changes in your abs particularly if you pair this with a dedicated effort to improve your nutrition.  You will never be able to see your abs if they are covered in fat.  You need to start getting serious about your diet and eating if you want to strip away the fat and show the results of your hard work and effort.&#10;&#10;The second reason for doing this for 22 days is to help this become part of your lifestyle.  They say it takes 22 days of doing something for it to become a habit.  We are going to try and create a positive habit here by getting you used to training your abs.  Don&#8217;t worry.  The abs are a resilient postural muscle group that is built for high volume and frequent training sessions.&#10;&#10;The exercises in this ab workout follow a specific sequence.  They start with those that target the lower abs using bottom up movements.  These are where the top of the body from the waist up stays rather stationary while the bottom does the movement.  This can be seen in the heels to the heavens exercise.&#10;&#10;Next you perform a bottom up rotation movement.  This one is going to be filled by the step through planks.  Here you want to try and keep your upper torso still again while you create rotation from the bottom using your legs to step through and across your body.  You will be able to feel this burn almost from the first few reps.  Keep going until you reach the extinction time as described in the video.&#10;&#10;Move on next to the midrange movement known as the &#8220;X&#8221; man crunch.  This is a great way to bring both the top to the bottom and the bottom to the top.  Aim for completing the 12 reps that are suggested for extinction on this ab exercise and move onto the final three exercises.  These will hit the obliques, top down movements and top down with rotation.&#10;&#10;You will see that this is not going to take very long.  The benefit and power of this ab workout is that it is hitting the abs and obliques from every angle and in each of the 6 primary ways of hitting them.  If you find that this is just a little too tough for you as a beginner you can always check out my alternative workout that is more suitable for beginners here - https://www.youtube.com/watch?v=5qVd7_O5ifY&#10;&#10;For a complete workout plan that programs ab training each time you train in a way that will get you your six pack faster than any other program, be sure to head to http://athleanx.com and get the ATHLEAN-X Training System.  Start training like an athlete and see first hand how much faster you can start seeing results by training your body the way it was meant to be trained all along.&#10;&#10;For more ab workout videos and workouts for abs at home, be sure you subscribe to our channel here on youtube at http://youtube.com/user/jdcav24"
     channeltitle "ATHLEAN-X&#8482;"
     channelid "UCe0TLA0EsQbE-MjuHXevj2A"
@@ -3555,7 +3555,7 @@ graph
     label "hRpnK0JXY1g"
     step 0
     date "2020-06-17T11:16:35Z"
-    title "1 Hour GLUTES &#38;amp; LOWER ABS WORKOUT at Home | Day Three of Five"
+    title "1 Hour GLUTES LOWER ABS WORKOUT at Home | Day Three of Five"
     description "Welcome to day 3 of the 5 day 1 hour at home workout series! &#10;&#10;Third in the series is glutes, hamstrings and lower abs workout. This at home workout will target your glutes, entire legs with focus on the hamstrings, core and  lower abs!&#10;&#10;You will need a mat or elbow friendly surface and a sturdy chair/sofa.&#10;&#10;The exercises are performed for 50 seconds each with 10 seconds to get ready for the next exercise. We will be performing the 10 minute lower abs routine at the very beginning and also the last ten minutes.  We are then onto 40 minutes of no repeat glute and hamstring exercises! &#10;&#10;&#10;TOE TAPS&#10;TUCK TO EXTENSION&#10;EXTEND TO X LOWER&#10;X LOWER&#10;SCISSORS&#10;FLUTTER KICKS&#10;SINGLE LEG LOWER&#10;SINGLE LEG LOWER&#10;ALT LEG LOWER&#10;SLOW LEG LOWER&#10;&#10;3 POINT X OVER&#10;PULSES&#10;3 POINT X OVER&#10;PULSES&#10;STRAIGHT LEG&#10;PULSES&#10;STRAIGHT LEG&#10;PULSES&#10;LEG CIRCLE switch direction half way&#10;LEG CIRCLE switch direction half way&#10;DONKEY KICK X OVER&#10;DONKEY KICK X OVER&#10;PULSES&#10;PULSES&#10;SIDE LYING CIRCLES &#10;SIDE LYING CIRCLES (opposite direction)&#10;SIDE LYING CIRCLES &#10;SIDE LYING CIRCLES (opposite direction)&#10;FRONT LYING ALT LEG RAISE&#10;FRONT LYING DOUBLE RAISE&#10;FRONT LYING LEG OPENER&#10;FEET TOGETHER LIFT&#10;SIDE LEG LIFT&#10;SIDE LEG LIFT&#10;SINGLE LEG BRIDGE ABDUCTION&#10;SINGLE LEG BRIDGE ABDUCTION&#10;CHAIR BRIDGE SINGLE LEG&#10;BRIDGE SINGLE LEG PULSES&#10;CHAIR BRIDGE SINGLE LEG&#10;BRIDGE SINGLE LEG PULSES&#10;BULGARIAN LUNGE&#10;BULGARIAN LUNGE &#10;BULGARIAN LUNGE PULSES&#10;BULGARIAN LUNGE PULSES&#10;BULGARIAN LUNGE HOLD&#10;BULGARIAN LUNGE HOLD&#10;BULGARIAN LUNGE TO STRETCH&#10;BULGARIAN LUNGE TO STRETCH&#10;HAMSTRING WALK OUT&#10;HAMSTRING SINGLE LEG EXTENSION&#10;&#10;&#10;TOE TAPS&#10;TUCK TO EXTENSION&#10;EXTEND TO X LOWER&#10;X LOWER&#10;SCISSORS&#10;FLUTTER KICKS&#10;SINGLE LEG LOWER&#10;SINGLE LEG LOWER&#10;ALT LEG LOWER&#10;SLOW LEG LOWER&#10;&#10;There isn&#8217;t a lot of rest, 10 seconds to be exact between each exercise in the sets, so this makes the lower abs, glutes and hamstrings body work harder.&#10;&#10;Simply follow along and focus on the movement itself and the muscles working particularly for glute activation. Take it slow and controlled throughout!&#10;&#10;As with all follow along workouts, please warm up fully prior for at least 5 minutes to prepare body for work ahead.&#10;&#10;I have not put alternatives up due to the fact there is no jumping or high impact movements but I would ask that you simply change an exercise to what works for you. For example, the leg lowering in the lower abs segment; simply bend knees, don&#8217;t lower as much or do alternating leg! Or with the hamstring segment, simply don&#8217;t go so low in Bulgarian lunges or bend at knee with glute exercises. &#10;&#10;NOTE: if you feel any discomfort in your lower back, please do not continue with that exercise or take an moment, reset and adapt exercise to ensure core tight and back is flat. Remember only lower as far as is comfortable and your core is still engaged and lower back FLAT to mat. &#10;&#10;Tomorrow&#8217;s workout is a full body isometric workout so you will need only a mat!&#10;&#10;I hope you feel &#10;&#10;I look forward to hearing how you get on! &#10;&#10;Enjoy!!! &#10;&#10;Cx&#10;&#10;My FREE 10 Week EPIC Program&#10;&#10;&#9654; Day 1 of my 10 Week EPIC Program: https://youtu.be/c_-v1fYJGO8&#10;&#9654; Download The EPIC Program Guide and Schedule: https://carolinegirvan.com&#10;&#9654; EPIC Program Playlist (Intermediate / Advanced): https://www.youtube.com/playlist?list=PLhu1QCKrfgPW3VAMHM-wefcO4ZyXf6cwt&#10;&#9654; EPIC Beginner Series: https://www.youtube.com/playlist?list=PLhu1QCKrfgPUZ7_HDxP8P_-0ffNoobSDH&#10;&#9654; My 5 Min Warm Up Routine: https://youtu.be/c0VxUFHdYzs&#10;&#10;The Equipment I Use from Amazon&#10;&#10;&#9654; Amazon UK: https://amazon.co.uk/shop/carolinegirvan&#10;&#9654; Amazon US: https://amazon.com/shop/carolinegirvan&#10;&#10;Never Miss a Video or Community Update&#10;&#10;&#9654; Subscribe to my YouTube Fitness Channel for FREE: https://youtube.com/c/carolinegirvan/?sub_confirmation=1&#10;&#10;My Social Channels&#10;&#10;&#9654; Instagram: https://instagram.com/carolinegirvan&#10;&#9654; Facebook: https://facebook.com/carolinegirvanfitness&#10;&#9654; Twitter: https://twitter.com/carolinegirvan&#10;&#10;&#9654; Business Enquires: info@carolinegirvan.com&#10;&#10;&#10;Disclaimer: If you are new to exercise or planning on embarking on a new fitness programme, you should consult your physician. This video may offer health, fitness or nutritional information and is meant for educational purposes only. This information is not meant as an alternative to seeking professional medical advice or suggested treatment. Please know that performing any exercise or programme is solely at your own risk."
     channeltitle "Caroline Girvan"
     channelid "UCpis3RcTw6t47XO0R_KY4WQ"
@@ -3573,7 +3573,7 @@ graph
     label "jE11JG2Et7s"
     step 0
     date "2022-03-16T18:24:16Z"
-    title "10 MIN MODEL WAIST WORKOUT | Flat Belly &#38;amp; Defined Abs | Eylem Abaci"
+    title "10 MIN MODEL WAIST WORKOUT | Flat Belly Defined Abs | Eylem Abaci"
     description "Every single body is beautiful, it's just a matter of your point of view.&#9829;&#65038; But we all know those beauty standards... slim waist and toned ab lines! I would never tell anyone to stick to those standards, but if you feel more healthy, confident and beautiful by looking like that - why not? I personally love defined abs because it looks so strong and sexy. This workout will help you to tone and strengthen your core muscles and burn fat. Hope you like it. :)&#10;&#10;&#9642;&#65039; Intensity: Medium/Intense&#10;&#10;&#9642;&#65039; Recommendations:&#10;&#8226; Make sure to press your lower back flat onto the mat. No gaps please. Hold this position also during leg lifts and lower your legs only as far as possible, even if there is only a minimum of motion. ALWAYS keep the tension and press your lower back onto the mat and engage your core!&#10;&#8226; If your neck hurts while performing the exercises, you can lay your head on the mat and go on.&#10;&#8226; Repeating the workout 2-3x per week works perfectly.&#10;&#8226; For more burn, combine it with my other ab workouts. &#10;__________________________________________&#10;&#10;&#10142; INSTAGRAM: https://www.instagram.com/eylmbc/ (Free Weekly Workout Plans &#38; Challenges!&#9829;&#65038;) use #EylemAbaci if you want me to see your pics and videos! &#10;&#10142; BLOG: http://eylemabaci.com/&#10;&#10;&#9993;&#65039;  PR / BUSINESS INQUIRIES:&#10;info@eylemabaci.com&#10;&#10;&#127925;  My Spotify Workout-Playlist:&#10;https://sptfy.com/50go&#10;&#10;&#127925;  Music provided by Epidemic Sound &#10;https://www.epidemicsound.com/referral/u7y20x/&#10;__________________________________________&#10;&#10;Disclaimer:&#10;In order to avoid any injury or harm, you need to check your health before doing the exercises. Performing any fitness exercises without supervision, is at your own risk. Please take professional advices of a fitness professional. Eylem Abaci will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Eylem Abaci"
     channelid "UCMio4PHeHJiHJiPIunTsR7A"
@@ -3591,7 +3591,7 @@ graph
     label "GgJsQCBXXmk"
     step 0
     date "2020-09-04T17:54:33Z"
-    title "Lower Abs &#38;amp; Obliques Focus &#128293; | Small Waist Workout | 15mins (NO EQUIPMENT)"
+    title "Lower Abs | Small Waist Workout | 15mins (NO EQUIPMENT)"
     description "Get toned abs and sculpt a smaller waist by combining this Lower Abs Workout with our cardio workouts and a well-managed diet (see our meal plans - https://mrandmrsmuscle.com). &#10;To lose belly fat fast and develop your physique ( a smaller waist ) pay close attention to the amount and type of food you consume, your protein levels, water intake, your rest/sleep and do more cardio focused  mixed intensity workouts.&#10;-&#10;Immediate Fat Loss Tips to take:&#10;- Heavily reduce refined/processed carbs (SIMPLE SUGARS!!)&#10;- Drink plenty of water or herbal teas (green tea)&#10;- Eat intuitively (DO NOT EAT UNTIL YOU ARE FULL!)&#10;- Eat a high protein diet&#10;- Sleep earlier and longer&#10;- Move more and sweat more!&#10;-&#10;My Meal Plans: https://mrandmrsmuscle.com/collections/all?nopreview&#10;My Outfit: https://gym.sh/muscle-home-YT&#10;-&#10;This workout targets the muscles in your abs and obliques but also works the stabilizing muscles throughout your body.&#10;&#10;FOR BEST RESULTS: Try this workout 2x per week and comment your progress below!&#10;---------------------------------------------------------------------&#10;VIDEO KEY:&#10;MUSCLES WORKED&#10;&#128308; RED = Primary Muscles&#10;&#128309; BLUE = Secondary Muscles&#10;---&#10;SEND OUR WORKOUTS TO SOMEONE WHO NEEDS MOTIVATION AND HELP &#10;---&#10;DISCLAIMER:&#10;MrandMrsMuscle strongly recommends that you consult your physician before starting any exercise or workout program.&#10;You should be in good physical and mental condition and be able to participate in the exercises.&#10;You should be aware and understand that when participating in any exercise or exercise program, there is the possibility of physical injury. If you engage in this workout, exercise or exercise program, you agree that you do so at your own risk, are voluntarily participating in these activities, assume all risk of injury to yourself, and agree to release and discharge MrandMrsMuscle from any and all claims or causes of action, known or unknown, arising out of MrandMrsMuscle's negligence.&#10;&#10;#lowerabs #bellyfat #abs"
     channeltitle "MrandMrsMuscle"
     channelid "UCi_J6WNj99ro-9cPZOUrf8Q"
@@ -3601,7 +3601,7 @@ graph
     commentcount 244
     duration "PT16M37S"
     indegree 5
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -3663,7 +3663,7 @@ graph
     label "oQ--HZDG2ew"
     step 0
     date "2015-09-09T17:00:01Z"
-    title "Bowflex&#174; Bodyweight Workout | Three-Minute Standing Ab Workout"
+    title "Bowflex Bodyweight Workout | Three-Minute Standing Ab Workout"
     description "Subscribe for more workouts and tips: http://goo.gl/sxLYmP&#10;&#10;You don't have to go down to the floor to work your abs, and this quick workout proves it.  Get ready to work your core while keeping your feet on the floor, all in three minutes!&#10;&#10;The Three-Minute Standing Ab Workout consists of four ab exercises done for 45 seconds each:&#10;&#10;1) March and Squeeze - Start with both hands straight up in the air and bring one knee all the way up while bringing your arms down, keeping your hands above your elbows and near your body, so your elbows and knee line up, with your knee in between both arms.  As you do this, squeeze your abs.  Return to the starting position and do the same thing with your other knee, and continue to alternate knees.&#10;&#10;2) Elbow to Opposite Knee - Bring one arm up so your elbow is at chest height and your hand is above your elbow, and bring your opposite knee up while bringing that arm down so your elbow meets your knee (don't hit them together hard).  As you do this, squeeze your abs.  Return them back to their starting point and do the same thing with your other knee and elbow, and continue to alternate.&#10;&#10;3) Straight Leg Raises - Keeping your leg a straight as possible, raise it up in front of your body with bringing the opposite arm down, reaching out your hand to touch your foot (or as close as you can get).  Return them back to their starting point and do the same thing with your other leg and arm, and continue to alternate.&#10;&#10;4) Rotate and Punch - Stand with your legs about shoulder width apart and rotate your upper body, throwing a jab out with your arm. Then rotate the other direction and jab with your other arm.  Your feet should stay in about the same location the whole time, with just a little twist of the same foot of the arm that is jabbing to allow the body to rotate.&#10;&#10;Do each of these exercises consecutively, for a total of three minutes, and you will have got an awesome ab workout while never going to the ground.&#10;&#10;More quick workouts: http://goo.gl/mj1b0C&#10;&#10;Additional fitness tips: http://goo.gl/vFWbTL&#10;&#10;&#10;Here are some other fitness resources you may find helpful:&#10;&#10;http://www.Bowflex.com - Find all the fitness solutions you'll ever need to help you be healthy.&#10;&#10;http://www.BowflexInsider.com - Head to the Bowflex Insider blog to read the latest in all things related to fitness and health."
     channeltitle "Bowflex"
     channelid "UCKik8uG08NYJStvTW7ZgUAQ"
@@ -3717,7 +3717,7 @@ graph
     label "c1lu0QZFA8M"
     step 0
     date "2019-11-21T12:54:21Z"
-    title "10 MIN TONED ABS + WAIST WORKOUT &#128089;&#128149; CROP TOP ABS WORKOUT"
+    title "10 MIN TONED ABS + WAIST WORKOUT CROP TOP ABS WORKOUT"
     description "This workout was SO requested when I asked what celebrity workouts you wanted to see on Instagram! Emrata is literally the queen of the crop top so today we're going to do an intense mat abs workout! This workout is going to help work the ab crack, that line down the middle of the stomach, as well as tone our waist and obliques! I love your requests they're always so fun! &#10;&#10;MY PILATES APP + ALL MY PROGRAMS: https://www.alignapp.com/&#10;&#10;MOBILE APP:&#10;iPhone: https://apps.apple.com/us/app/id1500794429&#10;Android:https://play.google.com/store/apps/details?id=com.bbfit&#38;hl=en_US&#38;gl=US&#10;&#10;INSTAGRAM&#10;Me: https://www.instagram.com/baileybrwn/?hl=en&#10;ALIGN: https://www.instagram.com/bbfit.app/?hl=en&#10;&#10;TIKTOK: https://www.tiktok.com/@baileybrwn?lang=en&#10;&#10;Let me know what celebrity workout you want to try next &#128149;"
     channeltitle "Bailey Brown"
     channelid "UCSld2X4CREfM9J3f485kEgQ"
@@ -3727,7 +3727,7 @@ graph
     commentcount 220
     duration "PT10M21S"
     indegree 3
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -3753,7 +3753,7 @@ graph
     label "IlPFzRSZrSU"
     step 0
     date "2018-12-30T15:57:15Z"
-    title "10 MIN AB WORKOUT - Side Abs &#38;amp; Obliques // No Equipment | Pamela Reif"
+    title "10 MIN AB WORKOUT - Side Abs Obliques // No Equipment | Pamela Reif"
     description "Struggling with the SIDES of your stomach? // Werbung &#10;&#10;I'm talking about that tiny bit of wobble that creates a fat roll if you put on a pair of skinny jeans. This workout trains your entire abs - but with focus on OBLIQUES! If you want to make this part stronger - take 10 minutes and give this workout a GO! &#9829;&#65038; no talking, just TRAIN :) &#10;&#10;No Equipment or weights needed! &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise &#8211; NO REST IN BETWEEN.&#10;&#10;&#10;I recommend switching up your workouts to give your muscles enough time to recover. You can do this workout 2-3x a week and if you want to do be active on the other days: check out my Calorie Burn, Whole Body, 2in1, Arm or Booty Workout &#9829;&#65038;&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;&#10;VIDEO, CUT &#38; EDIT: Emrah Bayka &#10;https://www.instagram.com/emrahbayka/&#10;emrahbayka@gmail.com &#10;&#10;&#10;MUSIC by Epidemic Sound &#10;http://www.epidemicsound.com&#10;&#10;&#10;CONTACT ME (business inquires):&#10;pamela_reif@icloud.com&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -3825,7 +3825,7 @@ graph
     label "8NhanDq-psc"
     step 0
     date "2021-04-29T05:00:02Z"
-    title "10 Minute &#8220;Lose your mommy pooch&#8221; Postpartum Ab Workout - for diastasis recti, C-section shelf"
+    title "10 Minute Postpartum Ab Workout - for diastasis recti, C-section shelf"
     description "10 minute &#8220;Lose the mommy pooch&#8221; postpartum ab workout  Get rid of your mommy pooch - repair your Diastasis recti &#38; lose your C-section shelf &#10;&#10;Today&#8217;s workout is a 10 minute postpartum &#34;Lose your mommy pooch&#34; ab circuit to repair your diastasis recti and/or C-section shelf. It&#8217;s also a great core workout for anyone looking to get a flat belly and toned abs! All you need is a mat. &#10;&#10;Equipment needed: mat or soft surface &#10;Mat I use: https://amzn.to/2OOZYPa&#10;&#10;Outfit details: &#10;Top: https://amzn.to/2QxsTb1&#10;Leggings: https://amzn.to/3lF6iV5&#10;Shoes:  https://amzn.to/3cRLaqO&#10;Socks: https://amzn.to/3953lYO&#10;Bra: https://amzn.to/3fh5oxd&#10;HR monitor: https://amzn.to/3rdzvHU&#10;Hair elastics: https://amzn.to/3lCI51M&#10;&#10;Follow along for more healthy lifestyle tips and products!&#10; &#10;Website: https://laurenfitter.com  &#10;Instagram: https://www.instagram.com/laurenfitterfitness/&#10;Facebook: https://www.facebook.com/laurenfitterfitnesss&#10;Pinterest: https://www.pinterest.com/laurenefitter/ &#10;&#10;D I S C L A I M E R &#10;Please consult your physician before beginning any exercise regimen. This is my personal workout routine and may not be appropriate for you. By participating in this workout video, you agree to do so at your own risk. &#10;&#10;Thanks for working out with me! &#10;&#10;Lauren &#10024;"
     channeltitle "Lauren Fitter"
     channelid "UCqme2y4zeAjtL0liMbJeOnQ"
@@ -3925,7 +3925,7 @@ graph
     commentcount 244
     duration "PT6M57S"
     indegree 3
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -3933,7 +3933,7 @@ graph
     label "afjBIrq9IeQ"
     step 0
     date "2022-06-01T01:00:10Z"
-    title "15 MIN INTENSE ABS Workout - No Rest Killer Abs &#38;amp; Core, No Equipment Home Workout with cool music"
+    title "15 MIN INTENSE ABS Workout - No Rest Killer Abs Core, No Equipment Home Workout with cool music"
     description "Team, try this 15 min Intense Abs workout to strengthen your upper abs, lower abs, obliques, and core! Want to feel more toned and strong in your core area? Then this workout is perfect for you &#128293;&#10;&#10;&#9656; Focus: Total Core Burner&#10;&#9656; Time: 15 Min&#10;&#9656; Equipment: No Equipment&#10;&#9656; Workout: 30 sec on, no rest&#10;&#10;Please remember that we are all different and that you can make this your own workout &#9825; Take a longer break when you need to.&#10;&#10;&#9825; My Grow with Anna App is launching soon! Don't miss out to sign up for a LIFETIME 30% DISCOUNT: https://growwithanna.com/pages/pre-sale?utm_source=YT&#38;utm_medium=client_organic_social&#38;utm_campaign=PRESALE &#10;&#10;&#9825; Sign up to the Team Grow Newsletter: https://manage.kmail-lists.com/subscriptions/subscribe?a=VLsDDa&#38;g=WikyFT&#10;&#10;&#9825; Join the OFFICIAL TEAM GROW Community Group: https://www.facebook.com/groups/teamgrowsupport/&#10;&#10;&#9825; My  @foodspring  Supplements: https://bit.ly/33gIZZD&#10;DISCOUNT CODE - ANNAFSG&#10;&#10;&#9825; My  @Gymshark  Outfits: https://gym.sh/Shop-Anna-E&#10;&#10;&#9825;  The Gear I Use: &#10;Camera: https://amzn.to/3aticKD&#10;Lens: https://amzn.to/3cCiujR&#10;Tripod: https://amzn.to/2zontX9&#10;Microphone: https://amzn.to/34VaKXH&#10;&#10;&#9825; SUBSCRIBE: http://bit.ly/2QLvpXn&#10;&#9825; Instagram: http://bit.ly/2ZSdHFR&#10;&#9825; Facebook: http://bit.ly/2SVkgpE&#10;&#10;&#9825; My Music: Get Keep Pushing (David Grant Remix) by Bissett, Adam Kelly, David Grant here https://t.lickd.co/77a87c65e0b848f8975026036a279e84&#10;License ID: QzmYapxzZ5n&#10;Get Poppin Bottles (Extended Mix) by Chico Rose, Jaden Bojsen here https://t.lickd.co/13a3e25e2b4d440f9a741f11443e4de6&#10;License ID: 43qgkQEx2Yr&#10;Get this and other songs for your next YouTube video at https://lickd.co&#10;https://www.epidemicsound.com/referral/gw5avz&#10;&#10;#growingannanas #growwithanna #homeworkouts #hiitworkout #absworkout #sixpackworkout&#10;&#10;D I S C L A I M E R&#10;&#10;If you are a newbie start with a simple and easy exercise before attempting all advanced exercises. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Growingannanas will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "growingannanas"
     channelid "UCsLF0qPTpkYKq81HsjgzhwQ"
@@ -4069,7 +4069,7 @@ graph
     commentcount 240
     duration "PT6M16S"
     indegree 5
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -4113,7 +4113,7 @@ graph
     label "Xwngi2PwVic"
     step 0
     date "2022-05-23T13:00:15Z"
-    title "Get SEXY Abs - 10 Min INTENSE Ab Workout  - Summer Shred Challenge"
+    title "Get SEXY Abs - 10 Min INTENSE Ab Workout - Summer Shred Challenge"
     description "Get Sexy Abs! 10 min intense ab routine, but you can do it, it's just 10 mins! This ab workout is part of the 3 weeks 2022 Summer Shred Challenge. Check out the free schedule below&#10;&#10;&#10010; Free Program Schedule&#10;https://chloeting.com/program/2022/summer-shred-challenge&#10;&#10;&#10010; SHOP MY MERCH!&#10;https://store.chloeting.com&#10;&#10;&#10010; Free Recipes&#10;https://www.chloeting.com/recipes/&#10;&#10;&#10010; Sponsor this channel&#10;https://www.youtube.com/chloeting/join&#10;Sub to my 2nd channel&#10;https://www.youtube.com/channel/UCBrcDabYtwbR1VIhwH5efZA?sub_confirmation=1&#10;&#10;&#10010; My links&#10;https://www.instagram.com/chloe_t/&#10;https://www.instagram.com/itschloeting/&#10;twitch.tv/chloeting&#10;https://discord.gg/chloeting&#10;https://sptfy.com/chloeting&#10;&#10;&#10010; Music by&#10;Dylan Locke&#10;https://www.youtube.com/c/DylanLocke&#10;&#10;Garrison &#10;https://linktr.ee/garrison&#10;&#10;Nodis - Fool's Paradise&#10;https://youtu.be/3UP1vHKdWrs&#10;&#10;#workouts #fitness #chloeting #chloetingchallenge #abs #homeworkouts&#10;&#10;IMPORTANT DISCLAIMER: Some people may see my video titles as click-bait. YouTubers optimise their video's meta data for discovery due to how the algorithm is like. This isn't anything new. Most people who've been watching YouTube for years would understand this. If you're unhappy and get triggered by this, well, this channel isn't for you then. I&#8217;ve provided free workout schedules and programs since day 1 and have always optimised my meta data as such so that's not going to change.&#10;&#10;Having said that, it doesn't mean the workout do not work. You will still see results by following a suitable program schedule, watching your diet, being in a deficit or surplus (based on your goals), doing exercises in good form, etc. These are all equally important factors. You're not going to get abs, grow a booty, grow biceps magically from 1 or 2 videos, in 1, 2, 3 or 4 weeks cause everyone is different. I've explain multiple times throughout videos throughout my channel over years that it takes time and lots of factors, so don't take a video title out of context. Targetting fat loss is not scientifically proven. Everyone is different and it takes time. &#10;&#10;When doing any home workouts, do take precaution to exercise in a safe environment, and if you need help or you're not seeing results, I suggest seeing a health and fitness professional to give you tailored advice on your exercise form and dietary needs. I am not a medical professional and what I share on my channel are my views and what has worked for myself. Your health and safety is the utmost importance so find out what works for you."
     channeltitle "Chloe Ting"
     channelid "UCCgLoMYIyP0U56dEhEL1wXQ"
@@ -4167,7 +4167,7 @@ graph
     label "_qNmbXRZtfY"
     step 0
     date "2017-11-07T13:21:35Z"
-    title "Best Ab Workout In 10 Min &#9829; Tummy &#38;amp; Muffin Top | Virginia Beach"
+    title "Best Ab Workout In 10 Min Muffin Top | Virginia Beach"
     description "This video is a 10 min quick ab workout is the perfect addition to your home workout. This intense Pilates based workout focuses on the obliques and lower ab area of your body, getting you feeling toned and strong in the core. These exercises are perfect in helping you achieve a slimmer waistline and a more toned body figure. However, to achieve real results (especially when it comes to ridding off belly fat) you must combine workouts like this with proper clean nutrition. By fuelling your body with unprocessed, natural, clean food you will expedite seeing those amazing abs that you sculpt. ;)&#10;&#10;Take a break whenever you need it, push yourself, breathe through it, and have fun!&#10;&#10;XO&#10;&#10;Juliana and Mark&#10;&#10;For clean and healthy meal ideas check out our book found on our store! www.bohobeautiful.life/our-store&#10;  &#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;Boho Beautiful Yoga Links:&#10;Boho Beautiful Official- Our NEW Streaming Platform &#38; App https://www.bohobeautiful.tv&#10;&#10;Download from your App Store Right Now! &#10;Apple Store- https://apps.apple.com/us/app/boho-beautiful-official/id1508335876 &#10;Android Store- https://play.google.com/store/apps/details?id=com.bohobeautiful.BohoBeautifulTV&#10;&#10;Get Two FREE Boho Beautiful Books here! https://www.bohobeautiful.life/returnhome&#10;&#10;Boho Beautiful Life- Our 2nd More Personal Youtube Channel: https://www.youtube.com/channel/UCBbs2c6JCjU_HZPOeY6jWVg/?sub_confirmation=1&#10;&#10;Boho Beautiful RETREAT- Your 7 Day Home Yoga Retreat https://bohobeautiful.life/retreat&#10;&#10;Boho Instagram- http://instagram.com/bohobeautifullife&#10;&#10;&#10;Boho Beautiful is a travel yoga lifestyle channel that is creating positive content for your body, mind, and the earth. Yoga, Wanderlust, Fitness, Vegan food, Conscious Living, and Meditation!&#10;&#10;Thank you so much for watching and subscribing to our channel! &#10;Let's Connect!&#10;&#10;Our Custom App &#38; Streaming Platform- https://www.bohobeauitful.tv&#10;Premium Programs- https://www.bohobeautiful.life/our-store&#10;Boho Beautiful Website- https://www.bohobeautiful.life&#10;Instagram- http://instagram.com/bohobeautifullife&#10;Facebook: http://facebook.com/bohobeautifullife&#10;&#10;----------------------------------------&#173;&#173;&#173;&#173;&#173;&#173;-----------------------------------&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-------------&#10;DISCLAIMER:&#10;Please consult your doctor before starting any diet or exercise program. By using our videos, you understand and agree that neither Boho Beautiful Ltd. nor any persons associated with it have any liability to you for any injury or loss you may suffer in connection with any content we may post."
     channeltitle "Boho Beautiful Yoga"
     channelid "UCWN2FPlvg9r-LnUyepH9IaQ"
@@ -4185,7 +4185,7 @@ graph
     label "AqUO8npvBIU"
     step 0
     date "2015-04-07T10:00:01Z"
-    title "&#38;quot;6 PACK SUICIDE&#38;quot; 4 Minute Abs Workout from HELL"
+    title " 4 Minute Abs Workout from HELL"
     description "Download my FREE workout and Nutrition plan http://BURNTHEFATFASTASHELL.COM&#10;&#10;My Ebook &#34;Ultimate Cuts: 7 Secrets To Burning Fat Fast As Hell&#34; http://bit.ly/GetRippedFastAsHell&#10; &#10;&#34;ULTIMATE MASS: 7 Secrets To Build Muscle Fast As Hell&#34; http://bit.ly/HowToBuildMuscleFastAsHell&#10; &#10;Supplements That I take http://bit.ly/eFujZE&#10;&#10;ANI weight lifting shoes using code &#34;HighLife&#34; at http://www.ANIbrand.com&#10;&#10;Music In the Video if from my band &#34;Something For The Pain&#34;. You can download our music for FREE here ----  http://bit.ly/SFTPmusicFREEDownloads&#10;&#10;Big Brandon Carter Instagram http://instagram.com/bcartermusic&#10;&#10;Big Brandon Carter Facebook page https://www.facebook.com/BigBrandonCarter"
     channeltitle "Brandon Carter"
     channelid "UCe072WU1CTmEZhkPS4bM6cQ"
@@ -4303,7 +4303,7 @@ graph
     commentcount 14621
     duration "PT14M55S"
     indegree 7
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4311,7 +4311,7 @@ graph
     label "ft6MgeTvfYs"
     step 0
     date "2021-11-03T04:30:10Z"
-    title "10 MIN AB WORKOUT + CHAIR / intense workout for lower, upper &#38;amp; side abs I Pamela Reif"
+    title "10 MIN AB WORKOUT + CHAIR / intense workout for lower, upper side abs I Pamela Reif"
     description "Looking for something new? Grab your chair &#9829;&#65038; Let&#8217;s work with ELEVATION and train our abs the expert way! / Werbung  &#10;&#10;WHY A CHAIR / BENCH?&#10;&#9656; It can make some exercises EASIER. Resting our feet for crunches? Hell yes. &#10;&#9656; But in general&#8230; it makes it HARDER :D &#10;&#9656; Using it as an ELEVATION for our feet, which makes standard exercises like Spider Planks or Side Planks soooo much more intense. &#10;&#9656; And it&#8217;s a beautiful HELP to keep our body stable. Hold onto your chair and 100% focus on your abs for Reverse Crunches or Lower Ab Lifts. &#10;&#10;TECHNIQUE:&#10;&#9656; Side Planks: If the elevated version gets too hard, perform a normal Side Plank with your feet on the floor instead. And if that gets too hard, rest your knees on the floor &#38; only lift your hip. There are several ways to NOT take a break :D &#10;&#9656; Planks: For elevated planks, make sure that your body is a straight line. Don&#8217;t stick your butt up in the air, don&#8217;t be a sinking ship. &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;&#10;__&#10;&#10;&#9656; I offer FREE WORKOUT PLANS on my Instagram Channel &#38; in my Pam App. &#10;30min, 45min Weights / Sweaty / Slow, Beginner Friendly, 60min Hardcore &#38; a Dance Plan. Updated every Sunday. &#10;&#10;&#10142; my Pam App &#9829;&#65038; Free workout plans, recipes &#38; tips: &#10;Apple: https://apps.apple.com/app/pam/id1540604002&#10;Android: https://play.google.com/store/apps/details?id=com.openreply.pam&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;use #PamelaReif if you want me to see your workout pics and videos! &#10;&#10;__&#10; &#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Chef&#8217;Special &#8211; Afraid of the Dark &#8211; Deepend Remix &#10;2. Ed Sheeran &#8211; Overpass Graffiti&#10;3. HONNE &#8211; BACK ON TOP (feat. Griff)&#10;4. Wave Wave  - Repeating (feat. Lena Sue) &#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -4347,7 +4347,7 @@ graph
     label "pwKOtslwxNA"
     step 0
     date "2022-05-15T15:55:30Z"
-    title "I Did the &#38;quot;Baby Monkey Ab Workout&#38;quot; for 30 Days (HERE&#38;#39;S WHAT HAPPENED!)"
+    title "I Did the S WHAT HAPPENED!)"
     description "There are ab workouts and then there are ridiculous workout for abs.  In this video, Jesse shows what happened when he followed the &#8220;Baby Monkey Ab Workout&#8221; for 30 days.  This is a follow up to his previous Baby Shark Ab Workout experiment. Except this time, he&#8217;s claiming even better results after 30 days of doing this bodyweight ab routine. Let&#8217;s just say, Jesse does hadve an even better looking set of 8 pack abs than before.&#10;&#10;The Baby Shark Ab Workout is something that was created for kids as a way to get them exercising. Jesse wanted to give it another shot and see if he could inspire action once again with a home ab workout that requires no equipment at all. Once again, the key to the difficulty of this one is the serious time under tension and a sequence of floor based v-sit ab exercises, it takes the user through It&#8217;s actually a series of 8 ab movements without rest.&#10;&#10;See if you can keep up with the exercises before your ears burn out from listening to the song.&#10;&#10;Ab Workout:&#10;&#10;- Recline Vine Climbers&#10;- Alternating Leg Peels&#10;- Vine Climb Sit-Ups&#10;- Banana Peel Twists&#10;- Plank Vine Swings&#10;- No More Bananas&#10;- V-Yum Holds&#10;- Monkey See You Laters&#10;&#10;Don&#8217;t let the foolishness of this ab workout fool you. Now, this certainly isn&#8217;t a song that I would recommend you work out to, but I can tell you this.  Music has a way of distracting you from the burn that you might otherwise focus on too much when doing ab  workouts.  If you can find something to listen to that will distract you in a good way from the difficulty of what you&#8217;re doing then you may find that it is easier to get through your ab routine.&#10;&#10;The other benefits to this type of training are that the ab exercises are being performed for time rather than reps.  For instance, ab routines that prescribe reps of a certain exercise may be challenging for some and not even the slightest bit difficult for someone else.  When you use time to failure as a metric of work you will find that it is much easier to equalize the workload despite the difference of ability.&#10;&#10;Here, you could perform the same exercise for multiple characters in the song rather than limit it to just one if you were more advanced.&#10;&#10;The next key is that the abs remain under constant tension from the first rep to the last.  And if you want to make this even more challenging, there&#8217;s nothing stopping you from hitting the repeat button and going for a second, third or even fourth round. Just make sure that you&#8217;re matching the challenge to your ability level in order to get that 8 pack progress underway.&#10;&#10;Now, is this the ultimate ab workout for training like an athlete.  Not at all.  I&#8217;d much rather see you get on your feet and perform more rotational ab exercises if possible, but as far as something that may get more people trying it simply because of the novelty of the idea I think it could be a good thing.  After all, the more times people will engage in fitness that otherwise wouldn&#8217;t we are doing something right.&#10;&#10;If you are looking for a step by step workout program that will train you much more athletically and still get you the 8 pack or 6 pack abs you may be looking for, be sure to click the link below and get the ATHLEAN-X Training System that best fits your current goals.  Start training like an athlete and looking like an athlete faster than ever before.&#10;&#10;For more ab workouts and ab routines that you can do at home without any equipment at all, be sure to subscribe to our channel here on youtube at the link below and turn on your notifications so you never miss a new video when it&#8217;s published.&#10;&#10;Get Ripped in 90 Days - http://athleanx.com/x/my-workouts&#10;Subscribe to this channel here - http://youtube.com/user/jdcav24"
     channeltitle "ATHLEAN-X&#8482;"
     channelid "UCe0TLA0EsQbE-MjuHXevj2A"
@@ -4383,7 +4383,7 @@ graph
     label "AzNvXrcd6NU"
     step 0
     date "2021-10-26T17:51:17Z"
-    title "6 MIN SIXPACK ABS WORKOUT"
+    title "6 MIN SI tongue sticking out ACK ABS WORKOUT"
     description "THIS ONE IS INTENSE. let me know on a scale from 1-10 how hard it was for you!! If you ever feel like you need more rest, an extra break or modify an exercise - do so! it's time to get started sooo.. are you ready to LEVEL UP?&#10;&#10;GET MY WORKOUT PROGRAMS: https://gainsbybrains.com/collections/guides&#10;&#10;for daily workout inspo, follow me on instagram https://instagram.com/gainsbybrains&#8203;&#8203;&#10;&#10;FREE MACRO CALCULATOR: https://gainsbybrains.com/pages/macro-calculator&#10;&#10;music from epidemic sound&#10;www.epidemicsound.com&#10;music from artlist&#10;www.artlist.io&#10;&#10;Disclaimer:&#10;To avoid any injuries or harm, make sure you check your health with your doctor before exercising. This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. TRAIN WITH GAINSBYBRAINS will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "TRAIN WITH GAINSBYBRAINS"
     channelid "UCi-gw2zFTtLD5evzz_ed-VQ"
@@ -4411,7 +4411,7 @@ graph
     commentcount 211
     duration "PT15M44S"
     indegree 13
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -4455,7 +4455,7 @@ graph
     label "kWM3BaCsmQc"
     step 0
     date "2021-05-04T04:00:14Z"
-    title "45 MIN KILLER BOOTY &#38;amp; ABS Workout - No Repeat, No Equipment, Strong Core &#38;amp; Glute Activation"
+    title "45 MIN KILLER BOOTY Glute Activation"
     description "Who's ready for a KILLER BOOTY &#38; ABS Workout? Today's workout is a fun combo of Core and Glute activation exercises to tone and strengthen your BOOTY &#38; ABS. 25 minutes of booty and 15 minutes of abs - who's in?! Grab your mat and let's grow stronger together. Let's do it!  &#10;&#10;&#9656; Muscles Worked: Glutes &#38; Abs &#10;&#9656; Time: 45 Min&#10;&#9656; Equipment: No Equipment&#10;&#10;&#9656; Instructions: Follow along and complete as many reps as possible in 50 Seconds. After 10 Seconds of Rest continue to the next move.&#10;&#10;&#9656; The Workout:&#10;1. Warm Up 0:00 - 05:20&#10;2. Booty Workout 05:20 - 30:25&#10;3. Ab Workout 30:25 - 45:28&#10;3. Cool Down 45:28 - 48:31&#10;&#10;Please remember that we are all different and that you can make this your own workout &#9825; Take a longer break when you need to.&#10;&#10;&#9825; Join the OFFICIAL TEAM GROW Community Group: www.facebook.com/groups/teamgrowsupport/&#10;&#10;&#9825; Workout Challenges &#38; Guides: http://growingannanas.com&#10;&#10;&#9825; My  @foodspring  Supplements: https://www.foodspring.de&#10;DISCOUNT CODE - ANNAFSG&#10;&#10;&#9825; My  @Gymshark  Outfits: https://gym.sh/Shop-Anna-E&#10;&#10;&#9825;  The Gear I Use: &#10;Camera: https://amzn.to/3aticKD&#10;Lens: https://amzn.to/3cCiujR&#10;Tripod: https://amzn.to/2zontX9&#10;Microphone: https://amzn.to/34VaKXH&#10;&#10;&#9825; SUBSCRIBE: http://bit.ly/2QLvpXn&#10;&#9825; Instagram: http://bit.ly/2ZSdHFR&#10;&#9825; Facebook: http://bit.ly/2SVkgpE&#10;&#10;&#9825; My Music: https://www.epidemicsound.com&#10;&#10;D I S C L A I M E R&#10;&#10;If you are a newbie start with a simple and easy exercise before attempting all advanced exercises. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Growingannanas will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "growingannanas"
     channelid "UCsLF0qPTpkYKq81HsjgzhwQ"
@@ -4483,7 +4483,7 @@ graph
     commentcount 664
     duration "PT16M9S"
     indegree 9
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -4509,7 +4509,7 @@ graph
     label "6wEGUy9cTjs"
     step 0
     date "2018-12-12T12:33:32Z"
-    title "10 min LOWER AB WORKOUT FOR BELLY FAT BURN! No Equipment &#9670; Emi &#9670;"
+    title "10 min LOWER AB WORKOUT FOR BELLY FAT BURN! No Equipment "
     description "&#9825;SUBSCRIBE FOR WEEKLY VIDEOS &#9658; http://bit.ly/SubscribeToEmi&#10;&#10;&#9825; Go to https://www.audible.com/emiwong or text &#34;emiwong&#34; to 500 500: New members can get 3 months of Audible for just $6.95 a month -&#10;&#10;&#9825;ADD ME ON  &#25104;&#28858;&#25105;&#30340;&#26379;&#21451;&#9786;&#10;Instagram: @EmiWong_  &#10;&#9658; https://www.instagram.com/emiwong_&#10;Facebook: @Emi Wong&#10;&#9658;https://www.facebook.com/StayFitandTravel/&#10;&#10;&#9825;HELP ME TRANSLATE MY VIDEOS &#35264;&#30526;&#26379;&#21451;&#26377;&#26178;&#38291;&#21487;&#20197;&#24171;&#25105;&#21152;&#23383;&#24149;, &#38750;&#24120;&#24863;&#28608;!&#9786;&#10;http://www.youtube.com/timedtext_cs_panel?tab=2&#38;c=UCvGEK5_U-kLgO6-AMDPeTUQ&#10;&#10;&#9825;WATCH MORE VIDEOS (PLAYLISTS)&#10;VLOGS &#9658; http://bit.ly/EmiVlogs&#10;WORKOUTS &#9658; http://bit.ly/WorkoutWthEmi&#10;BEGINNER WORKOUTS &#9658; http://bit.ly/BeginnerWorkoutsWithEmi&#10;FITNESS &#38; DIET TIPS &#9658; http://bit.ly/FitnessDietTipsWithEmi&#10;EAT (FOOD VLOGS!) &#9658; http://bit.ly/EatWithEmi&#10;TRAVEL &#9658; http://bit.ly/TravelWithEmi&#10;RECIPES  &#9658; http://bit.ly/CookWithEmi&#10;FUN CHALLENGES &#9658; http://bit.ly/ChallengesWithEmi&#10;MAKE UP &#38; FASHION &#9658; http://bit.ly/MakeUpFashionWithEmi&#10;&#24291;&#26481;&#35441;&#29255; Videos in Cantonese &#9658; http://bit.ly/CantoneseVideosEmi&#10;&#26377;&#20013;&#25991;&#23383;&#24149;&#30340;&#29255; With Chinese Subtitles  &#9658; http://bit.ly/ChineseSubtitlesEmi"
     channeltitle "emi wong"
     channelid "UCvGEK5_U-kLgO6-AMDPeTUQ"
@@ -4519,7 +4519,7 @@ graph
     commentcount 1761
     duration "PT11M51S"
     indegree 7
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -4527,7 +4527,7 @@ graph
     label "eOFGMW7CWSc"
     step 0
     date "2020-01-19T09:00:12Z"
-    title "8 MIN AB &#38;amp; HIIT WORKOUT with Jason Derulo / No Equipment | Pamela Reif"
+    title "8 MIN AB HIIT WORKOUT with Jason Derulo / No Equipment | Pamela Reif"
     description "a new killer Ab Workout + @Jason Derulo suffering with us on the yoga mat + his music... can this get any better?? / Werbung &#10;&#10;Well.. I could barely believe he confirmed this video shoot haha! But here we have the one &#38; only JASON DERULO, being willing to suffer through my workout, an 8 minute ab routine. Filmed as a 1-take, no breaks, no cuts. He did suuuch a good job, he only took a teeny-tiny break for once! And I definitely made him SWEAT haha :D &#10;&#10;We probably all know his songs &#34;Swalla&#34; (feat. Nicki Minaj &#38; Ty Dolla $ign), &#34;Talk Dirty&#34; (feat. 2 Chainz), &#34;Wiggle&#34; (feat. Snoop Dogg), &#34;Whatcha Say&#34;, &#34;Tip Toe&#34; (feat. French Montana) or &#34;Mamacita&#34; (feat. Farruko) - the list is literally endless. And today, we train on three of his new songs! &#10;&#10;__&#10;&#10;The workout itself is a real killer. I love this new routine! &#10;It combines &#10;1) Ab exercises: they make my muscles buuuurn like hell &#38; &#10;2) HIIT movements: they burn lots of calories, bring the heart rate up and make us sweat&#10; &#10;No Equipment necessary, no breaks and not much space needed :) The video is in full length which means you can just follow whatever we are doing 30s for each exercise. &#10;&#10;__&#10;&#10;&#9656; all songs on Jason's new album &#34;2Sides (Side 1)&#34;&#10;&#10;1. &#34;F It Up&#34; by Jason Derulo &#10;2. &#34;Talk With Your Body&#34; by Jason Derulo &#10;3. &#34;Be The One&#34; by Jason Derulo&#10;&#10;&#9656; You can find all songs in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;__&#10;&#10;Jason's Social Media Channels:&#10;&#10;&#10142; Instagram http://www.instagram.com/jasonderulo/&#10;&#10142; YouTube @Jason Derulo &#10;&#10;__&#10;&#10;My Social Media: &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Channel http://www.instagram.com/pamgoesnuts/&#10;&#10;___&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -4573,7 +4573,7 @@ graph
     commentcount 1505
     duration "PT46M27S"
     indegree 1
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "zn8XH_YGriA"
     step 0
     date "2021-10-17T13:00:32Z"
-    title "Arms &#38;amp; Abs Workout // Low Impact Strength &#38;amp; Toning"
+    title "Arms Toning"
     description "This Arms and Abs Workout is all about building strength and toning the upper body and abs. With compound, low impact exercises we are going to target both the core and the arms in today's sweat sesh and we are going to add in some light dumbbells for extra resistance. Let's do it team!! #armworkout #absworkout #homeworkout&#10;&#10;&#127822;Nutrition Guide: https://heatherrobertson.com/shop/ &#10;&#11088;&#65039;Free Workout Programs: https://heatherrobertson.com/programs/&#10;&#128467; Free Monthly Workout Calendar: https://bit.ly/3bMZGjU&#10;&#128587;&#127996; My Instagram: https://www.instagram.com/heatherrobertsoncom&#10;&#10;Workout Breakdown:&#10;0:00 Intro&#10;0:31 Warm Up&#10;&#10;Circuit One (45s work + 15s rest x2 rounds)&#10;2:31 Inchworm&#10;3:31 Sit Up + Press&#10;4:31 Plank Kickbacks&#10;5:31 V-sit + Curl&#10;6:31 Plank Reach + Rock&#10;7:31 Tricep Press + Tuck (R)&#10;8:31 Tricep Press + Tuck (L)&#10;9:31 Wood Chop (R)&#10;10:31 Wood Chop (L)&#10; &#10;20:31 REST&#10; &#10;Circuit Two (45s work + 15s rest x2 rounds)&#10;20:48 Skull Crusher + Lift&#10;21:48 Chest Press Bicycle&#10;22:48 Twist + Pass&#10;23:48 Plank + Tap&#10;24:48 Side Plank + Raise (R)&#10;25:48 Side Plank + Raise (L)&#10;26:48 Crunch + Tricep Press&#10;27:48 Super Push Ups&#10;28:48 Climber Knee Taps&#10; &#10;38:48 Cool Down &#38; Stretch&#10;&#10;Equipment Needed: &#10;Dumbbells: I used a set of 5lbs each&#10;Exercise mat or other soft surface: https://lululemon.prf.hn/l/Kj00Lb1&#10;&#10;Where I download my Music *Try it FREE for 30 days*&#10;http://share.epidemicsound.com/zj9WV&#10;&#10;My Amazon Picks: https://www.amazon.com/shop/heatherrobertson&#10;&#10;L I N K S&#10;&#10;Website: http://www.heatherrobertson.com&#10;Instagram: http://www.instagram.com/heatherrobertsoncom&#10;Facebook: http://www.facebook.com/heatherrobertsoncom&#10;Pinterest: https://www.pinterest.com/heatherrobertsoncom&#10;______________________________ &#10;&#10;D I S C L A I M E R&#10;&#10;This is my own personal workout and may not be suited for you. It is strongly recommended that you consult with your physician before beginning any exercise program. By engaging in this exercise or exercise program, you agree that you do so at your own risk.&#10;&#10;______________________________ &#10;&#10;Thanks for watching! &#10;&#10;&#10084; Heather"
     channeltitle "Heather Robertson"
     channelid "UCOpsZxrmeDARilha1uq4slA"
@@ -4671,7 +4671,7 @@ graph
     label "ITdlvmHpFc0"
     step 0
     date "2019-09-25T11:45:00Z"
-    title "Sexy Back &#38;amp; Abs Workout | 10 Mins (No Equipment)"
+    title "Sexy Back Abs Workout | 10 Mins (No Equipment)"
     description "This 3 weeks lean arms challenge is great for building some upper body strength and at the same time help to tone your arms. Combine this exercise with other workouts in the program to help to lose fat. &#10;&#10;Please note that we can't target fat loss so if you lose fat overall, you'll most likely lose some arm fat as well so definitely encourage you to try other workouts in the calendar.&#10;&#10;&#9734;3 Weeks Lean Arms Challenge&#9734;&#10;Full Schedule: https://www.chloeting.com/program&#10;Episode 1 - Lean Arms - https://youtu.be/5qCjyzbKmAE&#10;Episode 2 - Sexy Back and Abs - This Video&#10;Episode 3 - Full Body Burn - https://youtu.be/CD6BCdFHogg&#10;Episode 4 - Toned Arms - https://youtu.be/j64BBgBGNIU&#10;&#10;&#9734;Help Subtitle this video&#9734;&#10;http://www.youtube.com/timedtext_video?ref=share&#38;v=ITdlvmHpFc0&#10;&#10;&#9734;Sponsor this channel&#9734;&#10;https://www.youtube.com/chloeting/join&#10;&#9734;Sub to my 2nd channel&#9734;&#10;https://www.youtube.com/channel/UCBrcDabYtwbR1VIhwH5efZA?sub_confirmation=1&#10;&#10;&#9734;My Instagram links&#9734;&#10;https://www.instagram.com/chloe_t/&#10;https://www.instagram.com/itschloeting/&#10;&#10;&#9734;Music by&#9734;&#10;Music provided by Monstercat: &#10;Aero Chord feat. Bianca - Burning&#10;https://youtube.com/monstercat &#10;https://youtube.com/monstercatinstinct&#10;&#10;Track: Lost Sky - Dreams [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/SHFTHDncw0g&#10;Free Download / Stream: http://ncs.io/DreamsYO&#10;&#10;Track: Andromedik - With Me [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/pyj9yJO4rbA&#10;Free Download / Stream: http://ncs.io/WithMeYO&#10;&#10;Track: Ascence - About You [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/bXHfrdi_fsU&#10;Free Download / Stream: http://ncs.io/AboutYou&#10;&#10;#armsprogram #armworkout #homeworkout&#10;&#10;IMPORTANT DISCLAIMER: Please note that all of my videos are titled according to SEO best practices for content discoverability. Unfortunately this may mean that video titles are subjective and shouldn't be seen as absolute truth. As an example, targeting fat reduction is not scientifically proven but a video title might suggest otherwise. When following any of my videos, please take precaution to exercise in a safe environment, and I highly suggest seeing a health and fitness professional to give you advice on your exercise form and dietary needs. Every person is unique and there is no one size fits all solution to health or fitness. I am not a medical professional and your health and safety is the utmost importance."
     channeltitle "Chloe Ting"
     channelid "UCCgLoMYIyP0U56dEhEL1wXQ"
@@ -4707,7 +4707,7 @@ graph
     label "iY4hQd24_d0"
     step 0
     date "2016-07-21T20:21:57Z"
-    title "5MIN BOOTY &#38;amp; AB WORKOUT // Yoga Ball | Pamela RF"
+    title "5MIN BOOTY AB WORKOUT // Yoga Ball | Pamela RF"
     description "INTENSE BOOTY &#38; AB EXERCISES //  QUICK &#38; EFFECTIVE  &#10;// Werbung &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing! 30 seconds each exercise &#8211; NO REST IN BETWEEN.&#10;&#10;Visit my BLOG for more...&#10;http://www.aboutpam.com&#10;&#10;&#38; watch my 10MIN NO EQUIPMENT AB WORKOUT:&#10;https://youtu.be/5cMYysFl4CY&#10;&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Snapchat @pamela_rf1&#10;&#10142; Facebook http://www.facebook.com/PamelaRfOffic...&#10;&#10142; Twitter http://www.twitter.com/pamela_RF/&#10;&#10;&#10;MUSIC:&#10;&#10;Jackson Breit - 679 &#38; No Diggity (No Copyrighted Music) - https://www.youtube.com/watch?v=vZnyC_3-sW4 - &#10;Soundcloud - https://soundcloud.com/jacksonbreitmusic&#10;&#10;Kronicle - Another Chill Day (No Copyright Music) - https://youtu.be/UY1XuLwsT8A&#10;Soundcloud - https://soundcloud.com/the-chemist-10&#10;&#10;&#10;&#10;CONTACT ME:&#10;pamela_reif@icloud.com&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -4735,7 +4735,7 @@ graph
     commentcount 3247
     duration "PT8M53S"
     indegree 1
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -4743,7 +4743,7 @@ graph
     label "IcqsyUGZqzc"
     step 0
     date "2022-04-04T18:37:39Z"
-    title "5 MIN FLAT ABS WORKOUT - with music &#38;amp; beeps (At Home No Equipment)"
+    title "5 MIN FLAT ABS WORKOUT - with music beeps (At Home No Equipment)"
     description "This 5 MIN ABS workout is sure to put you in a good mood! Follow along with me as we work our TOTAL CORE, on beat, to the music! I've included countdown beeps and titles of exercises to it's easy to follow along &#128079; &#10;#AbsWorkout #Fitness #FlatAbs&#10;&#128073;&#127996; DOWNLOAD YOUR MADFIT APP FREE TRIAL HERE: https://madfit.app.link/e/store&#10;&#10;&#11088;&#65039; DO THIS WARM UP FIRST: http://bit.ly/2riv8T6&#10;&#11088;&#65039; APARTMENT FRIENDLY WARM UP: https://youtu.be/CSrBaHX3HxQ&#10;&#11088;&#65039; DO THIS COOL DOWN AFTER (5 min): https://bit.ly/3zywpCu&#10;&#10;&#128073;&#127996;THE MAT I USE (Exercise 6X4): http://gorillamats.com?aff=19  (MADFIT10 for 10% off)&#10;&#10;Get Memories (feat. Kid Cudi) [2021 Remix] by David Guetta, Kid Cudi here https://lickd.lnk.to/x9g8QEID!MadFit&#10;License ID: e9jELyKvwJV&#10;&#10;Get Paradise by MEDUZA, Dermot Kennedy here https://lickd.lnk.to/iIuj0KID!MadFit&#10;License ID: 54wXoz78La2&#10;&#10;Get this and other songs for your next YouTube video at https://lickd.co&#10;&#10;&#10008; I N S T A G R A M: @madfit.ig&#10;&#10008; T W I T T E R: @maddielymburner&#10;&#10008; F A C E B O O K: facebook.com/madfit.ig&#10;&#9993; C O N T A C T (business inquiries): madfit95@gmail.com"
     channeltitle "MadFit"
     channelid "UCpQ34afVgk8cRQBjSJ1xuJQ"
@@ -4789,7 +4789,7 @@ graph
     commentcount 1387
     duration "PT12M12S"
     indegree 5
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -4815,7 +4815,7 @@ graph
     label "nCMfX8-VuZE"
     step 0
     date "2020-05-05T19:19:03Z"
-    title "abs in 2 weeks?! I tried chloe ting&#38;#39;s ab workouts"
+    title "abs in 2 weeks?! I tried chloe tings ab workouts"
     description "Hi, guys! I decided to hop on the trend and follow Chloe Ting's 2 week shred challenge to try to get fit during quarantine! I hope you guys enjoy!&#10;Here is @Chloe Ting 's YouTube channel: https://www.youtube.com/user/ChloesAddiction&#10;2 week shred program that I followed: https://www.chloeting.com/program/2019/two-weeks-shred-challenge.html &#10;&#10;&#9679; my instagram &#8594; @yoorajung&#10;&#9679; my TikTok &#8594; @yoorajung&#10;&#9679; business inquiries &#8594; yoorajung1@gmail.com&#10;&#10;&#9679; Translations&#10;Help us caption &#38; translate this video!&#10;https://amara.org/v/C2vBg/&#10;&#10;&#9679; Equipment used:&#10;Camera: Sony A6400 https://amzn.to/2RVyOVK&#10;+ 16-50 mm lens + iPhone 11 for some clips&#10;Editing software: Final Cut Pro X&#10;&#10;&#9835; Music &#9835; &#10;&#9679; Wade Graves, Animus Volt - Runaway - https://thmatc.co/?l=4E0B930&#10;&#9679; Chase Keller - I Wanna Know - https://thmatc.co/?l=A72CEAB4&#10;&#9679; SPENCE - Right Here Waiting - https://thmatc.co/?l=C451D322&#10;&#9679; Animus Volt &#38; Wade Graves - Love Me Right (Animus Volt Remix) - https://thmatc.co/?l=61E8C84F&#10;&#9679; Enyo &#38; Mario Ayuda - Love in Stereo (feat. Nathan Brumley) - https://thmatc.co/?l=C9A94D63&#10;&#9679; Heartheat - Slowly Gone - https://thmatc.co/?l=AB8EFE4&#10;&#9679; FRANKE - Home Alone - https://thmatc.co/?l=1D13F8E&#10;&#9679; MYSM &#38; Wade Graves - Always - https://thmatc.co/?l=BB8D0317&#10;&#10;#chloetingchallenge"
     channeltitle "Yoora Jung"
     channelid "UCeGUqJFEuNCiECPrHMup3tg"
@@ -4825,7 +4825,7 @@ graph
     commentcount 7649
     duration "PT10M9S"
     indegree 0
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -4851,7 +4851,7 @@ graph
     label "6En0LPb4Hfw"
     step 0
     date "2020-08-12T04:30:00Z"
-    title "10 MIN ABS + YOGA  - a slow and &#38;quot;relaxed&#38;quot; workout for super strong abs / No Equipment I Pamela Reif"
+    title "10 MIN ABS + YOGA - a slow and workout for super strong abs / No Equipment I Pamela Reif"
     description "something DIFFERENT and new! Hope you enjoy this slow Sixpack routine, with a little bit of stretching &#9829;&#65038; / Werbung &#10;&#10;I had a hard time developing this workout :D&#10;I wanted to have a killer BURN in my abs, without any fast movements and without being too intense. I wanted to have a calm workout, that is nice for a &#34;slow&#34; day, before bed or to wake up the body. OR on super hot summer days (hi August, you feel like a sauna). &#10;&#10;The first couple of minutes are very sixpack-focused, afterwards we work on overall core strength and in the end we calm down with stretching &#9829;&#65038;&#10;&#10;PS: 36&#176;C while we were filming. I was sweating soooo much haha. &#10;&#9656; I burned 50kcal in those 10min. If you are taller or heavier than me (I'm 163cm), you will for sure burn more calories!   &#10;__&#10;&#10;&#9656; you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10;__&#10; &#10;No Equipment necessary, no breaks (you're used to it by now I guess) and not much space needed :) If you need a break tho - take it! Just don't quit! &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;&#10;__&#10;&#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Lianne La Havas - Please Don't Make Me Cry 0:00 - 3:54 &#10;2. Joel Corry feat. MNEK - Head &#38; Heart (Acoustic) 3:55 - 7:20 &#10;3. Griff - Say It Again 7:21 - 10:57 &#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;__&#10;&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -5023,7 +5023,7 @@ graph
     commentcount 1139
     duration "PT12M31S"
     indegree 8
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -5031,7 +5031,7 @@ graph
     label "8ortypveAL0"
     step 0
     date "2020-06-13T09:54:56Z"
-    title "NEW!!!! 20 Minute FAT BURNING Cardio &#38;amp; Abs HOME HIIT Workout | The Body Coach TV"
+    title "NEW!!!! 20 Minute FAT BURNING Cardio Abs HOME HIIT Workout | The Body Coach TV"
     description "20 Minute FAT BURNING Cardio &#38; Abs HOME HIIT Workout"
     channeltitle "The Body Coach TV"
     channelid "UCAxW1XT0iEJo0TYlRfn6rYQ"
@@ -5049,7 +5049,7 @@ graph
     label "-DvD437v9Ec"
     step 0
     date "2022-02-02T06:52:56Z"
-    title "12 MIN TONED ABS PILATES WORKOUT | Pilates For A Flat Belly &#38;amp; Strong Core | Eylem Abaci"
+    title "12 MIN TONED ABS PILATES WORKOUT | Pilates For A Flat Belly Strong Core | Eylem Abaci"
     description "The second video of our pilates series! &#9829;&#65038; This pilates inspired ab workout contains a lot of new, innovative movements (I must say that I've been creative while creating this workout&#128513;). We will train all of our core muscles in a very slow and controlled way. Don't forget to breathe! :)&#10;&#10;&#9642;&#65039; Intensity: Medium&#10;&#10;&#9642;&#65039; Recommendations:&#10;&#8226; Make sure to press your lower back flat onto the mat. No gaps please. Hold this position also during leg lifts and lower your legs only as far as possible, even if there is only a minimum of motion. ALWAYS keep the tension and press your lower back onto the mat and engage your core!&#10;&#8226; If your neck hurts while performing the exercises, you can lay your head on the mat and go on.&#10;&#8226; Repeating the workout 2-3x per week works perfectly.&#10;&#8226; For more burn, combine it with my other ab workouts. &#10;__________________________________________&#10;&#10;&#10142; INSTAGRAM: https://www.instagram.com/eylmbc/ (Free Weekly Workout Plans &#38; Challenges!&#9829;&#65038;) use #EylemAbaci if you want me to see your pics and videos! &#10;&#10142; BLOG: http://eylemabaci.com/&#10;&#10;&#9993;&#65039;  PR / BUSINESS INQUIRIES:&#10;info@eylemabaci.com&#10;&#10;&#127925;  My Spotify Workout-Playlist:&#10;https://sptfy.com/50go&#10;&#10;&#127925;  Music provided by Epidemic Sound &#10;https://www.epidemicsound.com/referral/u7y20x/&#10;__________________________________________&#10;&#10;Disclaimer:&#10;In order to avoid any injury or harm, you need to check your health before doing the exercises. Performing any fitness exercises without supervision, is at your own risk. Please take professional advices of a fitness professional. Eylem Abaci will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Eylem Abaci"
     channelid "UCMio4PHeHJiHJiPIunTsR7A"
@@ -5077,7 +5077,7 @@ graph
     commentcount 153
     duration "PT16M44S"
     indegree 4
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -5139,7 +5139,7 @@ graph
     label "FWchW_M9tvU"
     step 0
     date "2021-09-22T14:08:11Z"
-    title "10 MIN KILLER SIXPACK WORKOUT (Intense Ab Exercises) | Eylem Abaci"
+    title "10 MIN KILLER SI tongue sticking out ACK WORKOUT (Intense Ab Exercises) | Eylem Abaci"
     description "I thought we need a new sixpack workout - here is an intense one that will kill your abs! &#9829;&#65038; I love the combination of the exercises in this one, it's so special and includes lots of &#34;new&#34; movements. Let's train our entire abdominal muscles together and make them pop out and visible in a short time! &#128293;&#10;&#10;&#9642;&#65039;Intensity: Intense&#10;&#10;&#9642;&#65039;Recommendations:&#10;&#8226; Make sure to press your lower back flat onto the mat. No gaps please. Hold this position also during leg lifts and lower your legs only as far as possible, even if there is only a minimum of motion. ALWAYS keep the tension and press your lower back onto the mat and engage your core!&#10;&#8226; If your neck hurts while performing the exercises, you can lay your head on the mat and go on. Just don't quit.&#10;&#8226; Repeating the workout 2-3x per week works perfectly.&#10;&#8226; For more burn, combine it with my other ab workouts. &#10;__________________________________________&#10;&#10;&#10142; INSTAGRAM: https://www.instagram.com/eylmbc/ (Free Weekly Workout Plans!&#9829;&#65038;) use #EylemAbaci if you want me to see your pics and videos! &#10;&#10142; BLOG: http://eylemabaci.com/&#10;&#10;&#9993;&#65039;  PR / BUSINESS INQUIRIES:&#10;info@eylemabaci.com&#10;&#10;&#127925;  My Spotify Workout-Playlist:&#10;https://sptfy.com/50go&#10;&#10;&#127925;  Music provided by Epidemic Sound &#10;https://www.epidemicsound.com/referral/u7y20x/&#10;__________________________________________&#10;&#10;Disclaimer:&#10;In order to avoid any injury or harm, you need to check your health before doing the exercises. Performing any fitness exercises without supervision, is at your own risk. Please take professional advices of a fitness professional. Eylem Abaci will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Eylem Abaci"
     channelid "UCMio4PHeHJiHJiPIunTsR7A"
@@ -5175,7 +5175,7 @@ graph
     label "pveDOXQEjMM"
     step 0
     date "2022-03-14T05:00:28Z"
-    title "5 MIN. LOSE BELLY FAT WORKOUT - tone lower &#38;amp; upper abs | No Equipment"
+    title "5 MIN. LOSE BELLY FAT WORKOUT - tone lower upper abs | No Equipment"
     description "This is a quick 5 minute ab workout to lose belly fat and tone your upper &#38; lower abs. These 10 exercises will help your abs to become more visible and give you a flat stomach. You can do this 5 minute ab workout challenge at home with no equipment needed. Combine this workout with one of my fat burn workouts and good nutrition for even better results. Love you all, Marybody Family! Came up with this amazing new name for you &#38; us :) loving it!&#10;&#10;&#128293; Get the Free Workout Program here: https://leanwithlilly.com/pages/mary-braun-workout-guides?ref=marybraun1&#10;&#10;Outfit @FILA Europe WERBUNG&#10;Follow me on Instagram for daily motivation &#9829;&#65038; &#10;Love you and appreciate everyone of you.&#10;Instagram: @_marybraun https://www.instagram.com/_marybraun/&#10;Business Contact: marybraun.info@gmail.com&#10;&#10;Disclaimer: When joining me for all my workout videos, you need to know that we can&#8217;t choose the area where we want to lose fat. Your health and safety is the most important thing. To reduce and avoid any type of injury, it is better for you to check with your doctor, before beginning this workout. If you don&#8217;t feel comfortable in performing different exercises, see a fitness professional to give you advice on your exercise form. Mary Braun will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Mary Braun"
     channelid "UCao4a5ju7QRScI_tnf2MArw"
@@ -5211,7 +5211,7 @@ graph
     label "M6b37hswcks"
     step 0
     date "2017-11-07T13:30:01Z"
-    title "High Intensity AB Workout | 10 Min Standing Abs Workout to BURN FAT &#38;amp; Get ABS"
+    title "High Intensity AB Workout | 10 Min Standing Abs Workout to BURN FAT Get ABS"
     description "This is an insane high intensity abs workout. This is pretty much a HIIT cardio abs workout which will help you to burn fat and get abs at the same time. &#10;&#10;Try this one out along with my other abs workout to get abs! This workout is meant to increase your heart rate so that you burn heaps of calories so you can get your abs at a faster rate! Remember diet is extremely important when it comes to getting abs and losing fat!&#10;&#10;Wearing Gymshark Seamless Cross Back Sports Bra and Running Shorts: &#10;http://gym.sh/Shop-Chloe-Ting&#10;&#10;Music by:&#10;Electro-Light - Symbolism [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/__CRWE-L45k&#10;Free Download / Stream: http://ncs.io/symbolism&#10;&#10;Song: Lostboy &#38; Slashtaq - Elysium [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch:https://youtu.be/QmzWdrvFKdM&#10;Download/Stream: http://ncs.io/ElysiumYO&#10;&#10;Track: TULE - Fearless [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/9rujCfYXhQc&#10;Free Download / Stream: http://ncs.io/FearlessYO&#10;&#10;Song: T-Mass &#38; Jaxxtone - Gave To Me [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/qno1qzek-hw&#10;Download/Stream: http://ncs.io/GaveToMeYO&#10;&#10;Song: JPB - High [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/Tv6WImqSuxA&#10;Download/Stream: http://ncs.io/jpbhigh"
     channeltitle "Chloe Ting"
     channelid "UCCgLoMYIyP0U56dEhEL1wXQ"
@@ -5247,7 +5247,7 @@ graph
     label "ivWre5eokas"
     step 0
     date "2020-10-02T19:00:04Z"
-    title "I did a 5 MIN AB WORKOUT every day for a WEEK | Lilly Sabri 7 day ab results, before &#38;amp; after"
+    title "I did a 5 MIN AB WORKOUT every day for a WEEK | Lilly Sabri 7 day ab results, before after"
     description "i hope you enjoy me trying a 5 min ab workout from lilly sabri 7 day ab challenge to see my before and after results! &#10;&#10;throughout the week i also went on walks outside and worked out (30 min HIIT) maybe 3 times! &#10;&#10;&#10030;SOCIAL MEDIA&#10030;&#10;&#10030;Instagram: @tayllorwoods -  https://www.instagram.com/tayllorwoods&#10;&#10030;TikTok: @tayllorwoods&#10;&#10030;Poshmark: https://poshmark.com/closet/tayllorwoods&#10;&#10030;Spotify:  https://sptfy.com/tayllorwoods&#10;&#10;&#10;&#10030;MY PODCAST&#10030;&#10;STREAM MY PODCAST &#34;Don't Get it Twisted&#34; here or anywhere where you stream podcasts: https://anchor.fm/dontgetittwisted  *new episodes every monday*&#10;&#10;you can ALSOOO stream it for free on the DGIT youtube channel: https://www.youtube.com/channel/UCglKrgPbToYOjIviB2RnEDQ&#10;&#10;&#10;&#10;&#10030;BUSINESS&#10030;&#10;For business, please email taylor@sixsevenmedia.com&#10;All opinions are my own. All credit and rights reserved to the original creators featured. &#10;&#10;&#10;&#10030;FAQS AND CHEEKY LINKS lol&#10030;&#10;&#10030;1/2 Gallon Water Bottle: https://amzn.to/2vTmrkk&#10;&#10030;Blue Camo Phone Case: https://amzn.to/2WK3bB7&#10;&#10030;Eat anything and everything Broma: http://www.eatbroma.com?aff=3&#10;&#10030;use code &#34;WOODS30&#34; for 30% off your first order at Orgain: https://bit.ly/2CWDPrZ&#10;&#10030;use code &#34;WOODS25&#34; for $25 off your first order with Daily Harvest :)&#10;&#10030;What editing software do you use?  Final Cut Pro X&#10;&#10030;What camera do you use? Sony a6600 &#10;&#10030;How tall are you? 5'2&#10;&#10030;How can I help translate your videos? I love and appreciate anyone who takes the time to help translate my videos! Thank you so so much in advance! You can visit this link and see the videos that have not been translated in a desired language: https://www.youtube.com/timedtext_cs_panel?c=UCS49cakQgSe_o-uKn38c07g&#38;tab=2&#10;&#10030;When do you upload? I don't have a set upload schedule, but I aim for every Tuesday and Friday (typically around 12pm PST but turn on that notification bell hehe) &#10;&#10030;Link to support important issues in the world: issuesintheworld.carrd.co&#10030;&#10;&#10; &#10;**I am a participant in the above affiliate advertising programs. I earn a small amount of money from purchases made through my links at no additional cost to you :-) thank you for choosing to shop through these and support my channel, it means the world to me!&#10;&#10;&#10;THANK YOU FOR WATCHING, I LOVE YOU. Please, stick around for a while! The party is just getting started. Subscribe if you would like to see more of me and my shenanigans.&#10;&#10;cheers,&#10;taylor woods&#10;&#10;#lillysabri7dayabresults #leanwithlilly #taylorwoods #tayllorwoods #5minuteabworkout #5minabworkout #7dayabworkoutresults #7dayresults #oneweekresults #beforeandafter #transformation #lillysabribeforeandafter #lillysabri #5minuteabworkout #5minabworkouteverydayforaweek #absinoneweek #absin1week"
     channeltitle "Taylor Woods"
     channelid "UCS49cakQgSe_o-uKn38c07g"
@@ -5319,7 +5319,7 @@ graph
     label "Odj-xcMGxjo"
     step 0
     date "2021-03-04T06:00:15Z"
-    title "30 MIN TONED ARMS &#38;amp; ABS WORKOUT - Upper Body, No Equipment, No Repeat - (HIIT IT HARDER DAY 4)"
+    title "30 MIN TONED ARMS ABS WORKOUT - Upper Body, No Equipment, No Repeat - (HIIT IT HARDER DAY 4)"
     description "DAY 4 HIIT IT HARDER CHALLENGE is all about defining and toning our ARMS, SHOULDERS &#38; ABS!! 30 minutes of total workout time, including a warm-up and cool-down. Get ready to feel the &#128293; in your upper body &#38; abs with these no-repeat killer exercises. Let's do it!!&#10;&#10;WORKOUT DETAILS&#10;0:00 Warm Up: 5 MIN &#10;5:05 No Repeat 20 MIN = 50 Sec Work, 10 Sec Rest&#10;25:06 Cool-Down: 5 MIN&#10;&#10;&#127947;&#127996;&#8205;&#9792;&#65039; Equipment: No&#10;&#10;Please remember that we are all different and that you can make this your OWN workout... take a longer break when you need to.&#10;&#10;&#9825;My Music: https://www.epidemicsound.com&#10;..............................................................................&#10;&#9825;My Supplements:&#10;https://www.foodspring.de/whey-protein (USE ANNAFSG FOR 15% OFF)&#10;..............................................................................&#10;&#9825;My Outfit: https://gym.sh/Shop-Anna-E&#10;..............................................................................&#10;&#9825;The Gear I Use: &#10;Camera: https://amzn.to/3aticKD&#10;Lens: https://amzn.to/3cCiujR&#10;Tripod: https://amzn.to/2zontX9&#10;Microphone: https://amzn.to/34VaKXH&#10;..............................................................................&#10;&#9825;My Home Training Guide: http://growingannanas.com&#10;..............................................................................&#10;&#9825; Subscribe to my Channel if you want to GROW: http://bit.ly/2QLvpXn&#10;&#9825; Instagram: http://bit.ly/2ZSdHFR&#10;&#9825; Facebook: http://bit.ly/2SVkgpE&#10;&#9993; Contact (business inquiries):  anna@fyndafit.com&#10;&#10;#growingannanas #growwithanna #homeworkouts #hiitworkout #workoutchallenge #upperbodyworkout&#10;&#10;D I S C L A I M E R&#10;&#10;If you are a newbie start with a simple and easy exercise before attempting all advanced exercises. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Growingannanas will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "growingannanas"
     channelid "UCsLF0qPTpkYKq81HsjgzhwQ"
@@ -5373,7 +5373,7 @@ graph
     label "YXSnjNZsRp4"
     step 0
     date "2022-03-27T13:55:06Z"
-    title "INTENSE GLUTE &#38;amp; AB WORKOUT WITH A FRIEND"
+    title "INTENSE GLUTE AB WORKOUT WITH A FRIEND"
     description "Thanks for watching! Please don't forget to like and subscribe, It helps me out alot! Use my link https://bit.ly/AnnabelleGFMar22 for 40% off your first month of Gainful's subscription! Use code ANNABELLE40 at checkout &#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#10;&#10142; INSTAGRAM : https://www.instagram.com/bellsebobo/?hl=en&#10;&#10142; TWITTER : https://twitter.com/bellsebobo?lang=en&#10;&#10142; SNAPCHAT :  @Bellsebobo&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#10;MY FITNESS WEBSITE: https://www.annabellehayes.com/&#10;MY WORKOUT LINE (LIFTED): https://www.lifted-collection.com/&#10;LIFTED INSTAGRAM: https://www.instagram.com/lifted.collection/&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#10;BUSINESS EMAIL: (Manager) des@firstclassgroup.co&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#10;This video was sponsored by Gainful"
     channeltitle "Annabelle Hayes"
     channelid "UCM-bwhzxHPhSCiIc3_CJrJQ"
@@ -5401,7 +5401,7 @@ graph
     commentcount 149
     duration "PT3M54S"
     indegree 1
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5427,7 +5427,7 @@ graph
     label "Co9uUqCw5ZM"
     step 0
     date "2021-10-15T01:00:10Z"
-    title "Day 5 #levelup - 30 MIN KILLER BOOTY &#38;amp; ABS Workout - With Weights, No Repeat, Strong Core &#38;amp; Glutes"
+    title "Day 5 #levelup - 30 MIN KILLER BOOTY Glutes"
     description "&#9829;&#65038; DAY 5 LEVEL UP CHALLENGE: 30 MIN BOOTY &#38; ABS workout - a fun combo of Core and Glute activation exercises to tone and strengthen your BOOTY &#38; ABS. Grab your weights, your mat and let's grow stronger together. Let's do it!  &#10;&#10;&#9829;&#65038; I hope you enjoy working out with me and the TEAM, let's #levelup together! Let's do it!&#10;&#10;&#9656; Workout Focus: Build Strength &#38; Tone&#10;&#9656; Time: 30 Min + cool down&#10;&#9656; Equipment: Dumbbells &#38; optional mini band (I'm using 2x5kg dumbbells &#38; a medium strength band for your reference)&#10;&#10;&#9656; Instructions: Follow along and complete as many reps as possible in 50 Seconds. After 10 Seconds of Rest continue to the next move.&#10;&#10;&#9829;&#65038; Workout &#9829;&#65038;&#10;&#9656; 00:00 - 04:36 Warm up &#38; Booty Activation 30 sec on, 0 sec off&#10;Slow Squats&#10;Side Steps&#10;1 &#189; Squats&#10;Side Abduction Left Side&#10;Side Abduction Pulses Left Side&#10;Side Abduction Right Side&#10;Side Abduction Pulses Right Side&#10;1 Squat + 1 Squat Jump&#10;&#10;&#9656; 04:36 - 25:26 Workout 50 sec on, 10 sec off&#10;3 sec down Romanian Deadlift&#10;Tempo Sumo Squats&#10;Sumo Deadlift Pulses&#10;Curtsy Lunge + Pulse Right&#10;Curtsy Lunge + Pulse Left&#10;Side Squats&#10;Narrow Stance Lunge Right&#10;Narrow Stance Lunge Left&#10;Glute Bridge&#10;Single Leg Glute Bridge Right&#10;Single Leg Glute Bridge Left&#10;Froggy Lift&#10;Side Plank Clams Right &#10;Side Plank Clams Left&#10;Reach Through Sit Up&#10;Supported Bicycles&#10;Sit Up + Punch&#10;Supported Knee In Outs&#10;Deadbugs&#10;Flutter Kicks&#10;&#10;&#9656; 25:26 - 30:46 Finisher 30 sec on, 0 sec off&#10;Squat + Heel Tap Step&#10;Prisoner - Sumo Pulses&#10;Low Squat + Curtsy Lunge&#10;3 x Squat Pulse + Burpee&#10;In Out Jump&#10;&#10;&#9656; 30:46 - 35:36 Cool Down 30 sec on, 10 sec off&#10;Deep Lunge Left &#10;Deep Lunge Right&#10;Butterfly Stretch&#10;Hamstring Side Bend Right&#10;Hamstring Side Bend Left&#10;Forward Fold&#10;&#10;Please remember that we are all different and that you can make this your own workout &#9825; Take a longer break when you need to.&#10;&#10;&#9825; Join the OFFICIAL TEAM GROW Community Group: https://www.facebook.com/groups/teamgrowsupport/&#10;&#10;&#9825; Workout Challenges &#38; Guides: http://growwithanna-shop.com&#10;&#10;&#9825; My  @foodspring  Supplements: https://bit.ly/33gIZZD&#10;DISCOUNT CODE - ANNAFSG&#10;&#10;&#9825; My  @Gymshark  Outfits: https://gym.sh/Shop-Anna-E&#10;&#10;&#9825;  The Gear I Use: &#10;Camera: https://amzn.to/3aticKD&#10;Lens: https://amzn.to/3cCiujR&#10;Tripod: https://amzn.to/2zontX9&#10;Microphone: https://amzn.to/34VaKXH&#10;&#10;&#9825; SUBSCRIBE: http://bit.ly/2QLvpXn&#10;&#9825; Instagram: http://bit.ly/2ZSdHFR&#10;&#9825; Facebook: http://bit.ly/2SVkgpE&#10;&#10;&#9825; My Music: https://www.epidemicsound.com&#10;&#10;#growingannanas #growwithanna #homeworkouts #hiitworkout #workoutchallenge #7daylevelupchallenge #homeworkout&#10;&#10;D I S C L A I M E R&#10;&#10;If you are a newbie start with a simple and easy exercise before attempting all advanced exercises. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Growingannanas will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "growingannanas"
     channelid "UCsLF0qPTpkYKq81HsjgzhwQ"
@@ -5445,7 +5445,7 @@ graph
     label "qJVtUkVTqic"
     step 0
     date "2022-03-28T14:30:08Z"
-    title "HOURGLASS ABS &#38;amp; WAIST (2022 Summer Shred Challenge) | 6 min Workout"
+    title "HOURGLASS ABS WAIST (2022 Summer Shred Challenge) | 6 min Workout"
     description "This hourglass abs and waist, 6 minute workout, is going to help you lose belly fat and get a smaller waist. The 2022 Summer Shred Workout Challenge is finally here! Get shredded summer abs and a flat stomach for summer with the workout program, and sculpt into a slimmer waist with these exercises. To get the best abs and waist results, do this with good nutriton and part of the 2022 Summer Shred workout challenge.&#10;&#10;&#128170; Download the 2022 Summer Shred Challenge here: https://leanwithlilly.com/pages/Lilly-Sabri-workout-guides?ref=lillysabri&#10;&#10;&#128293; Get the LEAN App &#128293; Personalised workout programs, personalised meal plans, exclusive workout challenges, a habit tracker, a journal, a recipe library and so much more. Get the LEAN App here: https://www.leanwithlilly.com/&#10;&#10;&#128105;&#8205;&#127891; Students get 20% off the LEAN App and Products here: https://www.leanwithlilly.com/student&#10;&#10;&#129380; The supplements &#38; protein bars I use to get results: https://www.leanwithlilly.com/pages/supplements&#10;&#10;&#129293; FOLLOW ME:&#10;Instagram:  https://instagram.com/lillysabri&#10;TikTok: https://www.tiktok.com/@lillysabri?lang=en&#10;Private Facebook Group- Lean with Lilly Guides&#10;https://www.facebook.com/groups/508730913266325/&#10;Twitter:  https://twitter.com/lillysabri&#10;Facebook:  https://www.facebook.com/lilly.sabri/&#10;&#10;&#128276; DON'T FORGET to Subscribe for daily uploads xx&#10;Hit that bell icon to get a notification when I upload.&#10;&#10;0:00 Hourglass Abs &#38; Waist Workout Introduction&#10;0:10 2022 Summer Shred Challenge&#10;0:58 Summer Abs &#38; Waist Workout&#10;7:02 Complete Exercise&#10;&#10;Get edamame by bbno$, Rich Brian here https://lickd.lnk.to/3oQt2iID!Lilly%20Sabri&#10;License ID: R1ZVODokqon&#10;Get this and other songs for your next YouTube video at https://lickd.co/r/lillysabri&#10;Music by VALNTN - Mona Lisa - https://thmatc.co/?l=5BC776ED&#10;Music by Wade Graves - Cool Kids - https://thmatc.co/?l=A37113AC&#10;&#10;Disclaimer: Please remember that we cannot spot reduce fat, meaning we can&#8217;t choose the areas on our body where we loose fat. However to get fat loss results I recommend the following:&#10;1. Being in calorie deficit&#10;2. Cardio/ HIIT workout (I often call these Fat Loss/Burn workouts on my channel)&#10;3. Resistance training and specific muscle targeted workouts. To strengthen and develop specific muscles.&#10;I have hundreds of other home workouts available on my channel, so you can pick and choose which workouts you want to do, to not only make you build a strong body, but also feel amazing.&#10;Please remember every body is different and we all progress at different rates. The fact that you have shown up and completed this workout is incredible. You should be very proud of yourself for taking the steps to improve not only your physical, but also your mental health.&#10;The key to achieving your fitness and health goals is consistency and healthy lifestyle changes, without restriction. I don&#8217;t believe in crazy fad diets. Simply eat nutritious food, move your body, smile and enjoy the journey! Love Lilly"
     channeltitle "Lilly Sabri"
     channelid "UCTsM1dSAiXqiV5oZjuNw_Bg"
@@ -5491,7 +5491,7 @@ graph
     commentcount 9
     duration "PT8M43S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5517,7 +5517,7 @@ graph
     label "FwhNje1Z7pY"
     step 0
     date "2022-05-11T15:00:16Z"
-    title "MODEL ABS &#38;amp; WAIST (get 11 line abs) | 6 minute Workout"
+    title "MODEL ABS WAIST (get 11 line abs) | 6 minute Workout"
     description "Get model abs and a slim waist with this 6 minute at home workout challenge. These flat stomach, abs and waist exercises will show you how to lose belly fat and get 11 line abs, as well as a slim and smaller waist. Beginner modifications included and no equipment needed. To get the best results, do this with my fat burn workouts and good nutrition.&#10;&#10;&#128293; Get the LEAN App &#128293; Personalised workout programs, personalised meal plans, exclusive workout challenges, a habit tracker, a journal, a recipe library and so much more. Get the LEAN App here: https://leanwithlilly.com/pages/app?ref=lillysabri&#10;&#10;&#128105;&#8205;&#127891; Students get 20% off the LEAN App and Products here: https://www.leanwithlilly.com/student?ref=lillysabri&#10;&#10;&#129380; The supplements &#38; protein bars I use to get results: https://leanwithlilly.com/collections/nutrition?ref=lillysabri&#10;&#10;&#128170; Get your Free Home Workout programs here: https://leanwithlilly.com/pages/Lilly-Sabri-workout-guides?ref=lillysabri&#10;&#10;&#128153; Gymshark Outfit: https://gym.sh/Shop-LillySabri-YT&#10;&#10;&#129293; FOLLOW ME:&#10;Instagram:  https://instagram.com/lillysabri&#10;TikTok: https://www.tiktok.com/@lillysabri?lang=en&#10;Private Facebook Group- Lean with Lilly Guides&#10;https://www.facebook.com/groups/508730913266325/&#10;Twitter:  https://twitter.com/lillysabri&#10;Facebook:  https://www.facebook.com/lilly.sabri/&#10;&#10;&#128276; DON'T FORGET to Subscribe for daily uploads xx&#10;Hit that bell icon to get a notification when I upload.&#10;&#10;0:00 Model Abs &#38; Waist Workout Introduction&#10;0:24 Get Abs Workout Results At Home&#10;0:41 Get 11 Line Abs &#38; Slim Waist&#10;6:43 Complete Lose Belly Fat Exercises&#10;&#10;Music by Elli Moore - Romeo - https://thmatc.co/?l=AE941DC8&#10;Music by Tiana Kocher - Back It Up - https://thmatc.co/?l=43C09C47&#10;Music by Alina Smith - Moody - https://thmatc.co/?l=5A1A87C4&#10;&#10;Disclaimer: Please remember that we cannot spot reduce fat, meaning we can&#8217;t choose the areas on our body where we loose fat. However to get fat loss results I recommend the following:&#10;1. Being in calorie deficit&#10;2. Cardio/ HIIT workout (I often call these Fat Loss/Burn workouts on my channel)&#10;3. Resistance training and specific muscle targeted workouts. To strengthen and develop specific muscles.&#10;I have hundreds of other home workouts available on my channel, so you can pick and choose which workouts you want to do, to not only make you build a strong body, but also feel amazing.&#10;Please remember every body is different and we all progress at different rates. The fact that you have shown up and completed this workout is incredible. You should be very proud of yourself for taking the steps to improve not only your physical, but also your mental health.&#10;The key to achieving your fitness and health goals is consistency and healthy lifestyle changes, without restriction. I don&#8217;t believe in crazy fad diets. Simply eat nutritious food, move your body, smile and enjoy the journey! Love Lilly"
     channeltitle "Lilly Sabri"
     channelid "UCTsM1dSAiXqiV5oZjuNw_Bg"
@@ -5553,7 +5553,7 @@ graph
     label "yju74O7F7fc"
     step 0
     date "2021-11-11T17:59:07Z"
-    title "i did daisy keech&#38;#39;s ab workout | before &#38;amp; after results !"
+    title "i did daisy keech after results !"
     description "QUARANTINE ABS | My 8 Minute Go-To Cinch Waist Workout&#10;Hey loves today I am doing a challenge ! I did Daisy Keech ab workout for a week! Here are my results! #daisykeech #bubblebutt #abworkout&#10;&#10;&#127909;&#11088;&#65039; JOIN MY PATREON FOR 2 MORE VIDEOS EVERY MONTH &#38; more: https://www.patreon.com/nicolettaxo?fan_landing=true&#10;&#10;&#9658; My Lululemon Leggings: https://go.magik.ly/ml/mvr2/&#10;&#10;&#9658; POSHMARK CLOSET: https://poshmark.ca/closet/nicolettaxo&#10;Sign Up with Code: NICOLETTAXO to get $15 Canadian or $10 US !!!&#10;&#9658;  Sign Up to Rakuten and  get cash back on any online order: https://www.rakuten.com/r/XONICO49?eeid=28187&#10;( ** YOU WILL NOW RECEIVE $30 WITH MY LINK LIMITED TIME )&#10;FREE to sign up and you get cash back on every single online purchase you make!&#10;&#10;&#10;JOIN MY TIK TOK: @nicolettaxox&#10;&#10;Daisy Keech Ab Workout here: https://www.youtube.com/watch?v=779jI4Rwl5c&#10;----------------------------------------&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;--------------------------------&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;----&#10;FITNESS &#38; HEALTH PLAYLIST HERE: https://www.youtube.com/playlist?list=PLdyZ5CwGaxYkmlpI-XH4UlgLZ9Hsz9FBr&#10;&#10;LATEST VIDEO:&#10;1. TRYING MEGAN FOX'S DIET &#38; WORKOUT !! (do not try this at home): https://www.youtube.com/watch?v=Dpkt3-i_-GY&#38;t=12s&#10;2. 9 Small Habits Changed My Life: https://www.youtube.com/watch?v=95KYni1T3q8&#38;t=62s&#10;3. My 5AM HEALTHY MORNING ROUTINE: https://www.youtube.com/watch?v=amr3E9ooXgg&#38;t=5s&#10;&#10;PREVIOUS WORKOUT CHALLENGES HERE:&#10;1. I did Daisy Keech's Butt Workout for a week ! | Before &#38; After Results: https://www.youtube.com/watch?v=81rA4-zFMX0&#38;t=13s&#10;2. 7 DAY JUMP ROPE CHALLENGE 1000 JUMPS PER DAY !! + RESULTS: https://www.youtube.com/watch?v=lGeVCw4eapE&#38;t=176s&#10;3. ABS IN TWO WEEKS?! | i tried Alexis Ren's abs workout *shocking results: https://www.youtube.com/watch?v=RQcqlJT7yJk&#10;4. I TRIED KENDALL JENNER FULL BODY WORKOUT FOR 1 WEEK !! *I lost 8 pounds: https://www.youtube.com/watch?v=CHIcq4spe0Q&#10;5.  I Did Lilly Sabri's 7 DAY FAT BURN !! BEFORE &#38; AFTER RESULTS! FLAT TUMMY IN 7 DAYS: https://www.youtube.com/watch?v=DIt2eyDKQG0&#38;t=606s&#10;----------------------------------------&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;--------------------------------&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-----------------------------------------------------------&#10;**For business Inquiries email me at: xonicoletta@gmail.com&#10;----------------------------------------&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;--------------------------------&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;----------------------------------------------------------------------------------------------------------------&#10;&#10;Let's become BESTIES come follow me at:&#10;TIK TOK: @nicolettaxox&#10;&#10;Instagram: @nicolettaxoyt&#10;https://www.instagram.com/nicolettaxoyt/&#10;&#10;Twitter: nicolettaxo&#10;&#10;Snapchat: nicolettaxo&#10;&#10;Facebook: Nicolettaxoyt&#10;https://www.facebook.com/nicolettaxoyt/&#10;&#10;Green Screen Tittles: https://www.youtube.com/watch?v=5wGG22nnoCQ&#38;t=4s&#10;-------------------------------------------&#10;----------------------------------------&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;&#173;--------------------------------&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;-&#173;----&#10;Daisy Keech&#10;ab workout&#10;Butt workout&#10;At home ab workout&#10;daisy keech workout&#10;daisy keech ab workout&#10;i tried daisy keech ab workout&#10;&#10;MUSIC USED:&#10;Song: InRp - Stay&#10;Music provided by Vlog No Copyright Music.&#10;Video Link: https://youtu.be/RjyRZaBGQMY&#10;&#10;Sunset by LiQWYD https://soundcloud.com/liqwyd&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0 &#10;Free Download / Stream: https://bit.ly/3i9wDKV&#10;Music promoted by Audio Library https://youtu.be/tx1bW44lJhA&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;FTC: This video is NOT  sponsored . All opinions are honest &#38; my own."
     channeltitle "Nicoletta xo"
     channelid "UCblxOYgXdlcQqoSEY3fhHFw"
@@ -5589,7 +5589,7 @@ graph
     label "ywJgsm5mkkQ"
     step 0
     date "2020-04-09T12:21:19Z"
-    title "Love Handle Workout | 10 min Abs &#38;amp; Obliques Burn Home Workout &#127374;"
+    title "Love Handle Workout | 10 min Abs "
     description "We're not just working the booty in this hourglass program, we've gotta work on those abs abs abs of yours! Enjoy the workout program and please do drop a like and a comment! &#128157;&#10;&#10;Full program schedule at https://www.chloeting.com/program&#10;Episode 1 - https://youtu.be/cIuiQyfKBTg&#10;Episode 2 - https://youtu.be/LjmZ1YMOwws&#10;Episode 3 - https://youtu.be/ywJgsm5mkkQ&#10;Episode 4 - https://youtu.be/AQ-zcv_viAo&#10;&#10;&#9734;Help subtitle this video&#9734;&#10;http://www.youtube.com/timedtext_video?ref=share&#38;v=ywJgsm5mkkQ&#10;&#10;&#9734;Sponsor this channel&#9734;&#10;https://www.youtube.com/chloeting/join&#10;&#9734;Sub to my 2nd channel&#9734;&#10;https://www.youtube.com/channel/UCBrcDabYtwbR1VIhwH5efZA?sub_confirmation=1&#10;&#10;&#9734;My links&#9734;&#10;https://www.instagram.com/chloe_t/&#10;https://www.instagram.com/itschloeting/&#10;twitch.tv/chloeting&#10;Discord Server https://discord.gg/f7NY5VK&#10;&#10;&#9734;Music by&#9734;&#10;Track: Ascence - Without You [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/aRWKi18SuHk&#10;Free Download / Stream: http://ncs.io/WithoutYouA&#10;&#10;Dylan Locke - Lasagna&#10;&#10;Track: NOIXES &#38; Miles Monaco - Backwards&#10;Music Provided by Magic Records&#10;Listen To The Original: https://youtu.be/U9cD4-ZgRy4&#10;Free Download: https://fanlink.to/b7YQ&#10;&#10;#workouts #fitness #chloeting&#10;&#10;IMPORTANT DISCLAIMER: Please note that all of my videos are titled according to SEO best practices for content discoverability. Unfortunately this may mean that video titles are subjective and shouldn't be seen as absolute truth. As an example, targeting fat reduction is not scientifically proven but a video title might suggest otherwise. When following any of my videos, please take precaution to exercise in a safe environment, and I highly suggest seeing a health and fitness professional to give you advice on your exercise form and dietary needs. Every person is unique and there is no one size fits all solution to health or fitness. I am not a medical professional and your health and safety is the utmost importance."
     channeltitle "Chloe Ting"
     channelid "UCCgLoMYIyP0U56dEhEL1wXQ"
@@ -5635,7 +5635,7 @@ graph
     commentcount 20
     duration "PT16M20S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -5751,7 +5751,7 @@ graph
     label "DHOPWvO3ZcI"
     step 0
     date "2020-03-22T08:00:04Z"
-    title "10 MIN UPPER BODY WORKOUT - Back, Arms &#38;amp; Chest / No Equipment I Pamela Reif"
+    title "10 MIN UPPER BODY WORKOUT - Back, Arms Chest / No Equipment I Pamela Reif"
     description "SURPRISE &#9829;&#65038; due to the current situation, I decided to NOT wait another 2 weeks until I upload the next workout. And being at home .. I felt like we are in desperate need of an UPPER BODY WORKOUT haha. Because my abs are crying &#38; I don't want to do another jump squat either. / Werbung&#10;&#10;Upper Body Workouts for arms, back &#38; chest are rare to find &#38; that has a good reason. It's super hard to train them effectively without any additional equipment. I think (fingers crossed) I did a pretty good job with the exercise combination, so we can all get a good burn without doing 10000 push ups in a row. &#10;&#10;And I actually love the flappy birds exercises so much haha! They really brighten up my mood because I feel like a bird trying to fly. Have fun &#9829;&#65038;&#10;&#10;_&#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. If you need a break - TAKE IT! Don't worry too much about that. You will improve over time :) that's the best feeling! &#10;&#10;I recommend switching up your workouts to give your muscles enough time to recover and to hit them from different angles. If you want to challenge your body in another way: check out my 20min Full Body Workout, 10min Ab Workout, 20min Booty Workout or the Song Workouts. &#10;&#10;&#9656; you can find WORKOUT PLANS with those videos on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10;__&#10;&#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Cymo, Ann-Christine - Higher 0:00 - 2:48 &#10;2. Jaymes Young, Sam Feldt Remix - Happiest Year 2:49 - 6:00&#10;3. Nicolas Haelg, Jaime Lee Harrison - Scars At Night 6:01 - 8:27&#10;4. Jaden Bojsen, Willemijn May - Taking Shape 8:28 - 10:36&#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -5769,7 +5769,7 @@ graph
     label "5he3cF7bITY"
     step 0
     date "2021-06-11T19:08:00Z"
-    title "Ab Workout &#128073;&#127996; Develop your Six Pack"
+    title "Ab Workout Develop your Six Pack"
     description "Rippling Abs &#129394; that&#8217;s what I want for you. Hope this helps you&#10;&#10;&#128304;Easier Variations&#128304;&#10;Pike Ups &#128073;&#127996; 1-2 Extra sets of DB Knee Tucks&#10;Skywalkers &#128073;&#127996; Bicycle Crunches&#10;Ab Rollouts &#128073;&#127996; Bodyweight Planks for time&#10;&#10;&#10;#Abs #Bodybuilding #Shorts&#10;.&#10;.&#10;Train WITH me on my Training App! &#8681;&#10;https://www.davisdiley.com/mylift&#10;&#10;Access to my own actual workout schedule &#128064; complete with:&#10;&#10;&#9989; &#160; &#160;Instructional training videos&#10;&#9989; &#160; &#160;My personal training notes&#10;&#9989; &#160; &#160;&#34;Chat with Davis&#34; feature&#10;&#9989; &#160;&#160; Community news feed&#10;&#9989; &#160; &#160;Weight &#38; PR tracker&#10;&#9989; &#160; &#160;Food macronutrient tracker&#10;&#9989; &#160; &#160;Progress photo uploader&#10;&#9989;&#160;&#160;&#160;&#160;7 Badass Workouts Available Each Week&#10;&#10;I provide you with everything you need to succeed. Train with me and we&#8217;ll kill it &#9994;&#127996;&#10;.&#10;.&#10;Instagram &#8680; https://www.instagram.com/davis.diley/?hl=en&#10;TikTok &#8680; https://www.tiktok.com/@davis.diley?lang=en"
     channeltitle "Davis Diley"
     channelid "UCwaPTAgqVs0NgbjYgIRWSPA"
@@ -5905,7 +5905,7 @@ graph
     commentcount 120
     duration "PT13M10S"
     indegree 0
-    cluster 10
+    cluster 4
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 16
     duration "PT7M57S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -5967,7 +5967,7 @@ graph
     label "HR4WFlOflus"
     step 0
     date "2018-07-27T16:00:04Z"
-    title "4 Minute Abs | Beginner Six Pack Ab Workout for Men &#38;amp; Women"
+    title "4 Minute Abs | Beginner Six Pack Ab Workout for Men Women"
     description "For more simple to follow, six pack ab workouts built for men &#38; women just like these that you can do from the comfort of your home, check out my free body type quiz and get the right plan for you - http://vshred.fit/BeginnerAbWorkout&#10;&#10;In this video I take you through an ab workout designed with the beginner in mind, to go at a high intensity in a short 4 minutes to help you lose that unwanted bit of belly fat or just tone up your stomach. This abs workout consists of just 4 exercises that will hit all areas of your abs. &#10;&#10;All you need is yourself for this workout, there is absolutely no equipment required - so grab a mat, and let's kill this together!&#10;&#10;Each exercise is performed for 45 seconds on with a 15 second rest before moving into the next:&#10;&#10;- Plank Jacks&#10;- Heel Taps&#10;- Flutter Kicks&#10;- Floor Wipers&#10;&#10;If you liked this ab workout be sure to leave a thumbs up below and let me know down in the comments so I know to make more videos just like this one!&#10;&#10;Thanks for watching, see you in the next video!&#10;&#10;4 Minute Abs | Beginner Ab Workout for Men &#38; Women&#10;https://youtu.be/HR4WFlOflus&#10;&#10;--------------------------------------------------------------------&#10;&#10;Check out My Supplement Stacks! &#10;&#10;For Fat Loss : http://vshred.fit/246fatLossStackYT&#10;For Muscle Building : http://vshred.fit/246MuscleStackYT&#10;&#10;--------------------------------------------------------------------&#10;&#10;Intro Song: Always Have by Castor Troy"
     channeltitle "V Shred"
     channelid "UCOFCwvhDoUvYcfpD7RJKQwA"
@@ -6075,7 +6075,7 @@ graph
     label "GsarTRwixuA"
     step 0
     date "2020-10-07T17:00:07Z"
-    title "I TRIED KOURTNEY KARDASHIAN&#38;#39;S AB WORKOUT"
+    title "I TRIED KOURTNEY KARDASHIANS AB WORKOUT"
     description "I tried Kourtney K's ab workout and wow...such a good burn! This workout is follow along so, please, join me! Let me know what workout you's like to see next as well!&#10;&#10;Poosh Article: https://poosh.com/moves-to-get-rid-of-stubborn-lower-stomach-fat/&#10;&#10;Subscribe for NEW videos + turn on the notification bell to get notified when a new workout drops!&#10;&#10;SOCIAL MEDIA: (more workouts + health inspo!)&#10;insta- kaylaiutzwig&#10;tiktok- kaylaiutzwig&#10;snap- kaylaiutzwig&#10;twitter- kiutzwig&#10;&#10;Business inquiries email in my &#34;About&#34; section!&#10;&#10;LOVE YOU GUYS&#10;-KAYLA&#10;&#10;disclaimer:&#10;This is my workout and may not be suited for you. It is strongly recommend that you consult with your physician before beginning any exercise program. By engaging in this exercise or exercise program, you agree that you do so at your own risk."
     channeltitle "Kayla Iutzwig"
     channelid "UCoPNF4jLkTHEkOhqnRR32sA"
@@ -6085,7 +6085,7 @@ graph
     commentcount 19
     duration "PT11M16S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -6165,7 +6165,7 @@ graph
     label "LFbsWIV_60M"
     step 0
     date "2021-03-14T13:00:13Z"
-    title "Lower Body &#38;amp; Ab Workout For Beginners (Bodyweight Only)"
+    title "Lower Body Ab Workout For Beginners (Bodyweight Only)"
     description "What&#8217;s going on guys! In today&#8217;s video, &#13;I'm going to show you a 10-minute workout you can do that requires no equipment at all! &#10;&#10;Have you ever noticed that most home workouts include plyometric (jumping) movements? That&#8217;s because some studies have shown plyometrics can produce similar effects on muscle growth to resistance training, making them a great alternative if  you don&#8217;t have access to weights.&#10;&#10;Plyometrics are a great alternative to weight training because they have been shown to produce similar effects on muscle growth to resistance training! That is one reason we put them in so many of our home workouts. But if you have achy joints or are a beginner, these jumping movements can sometimes be too much to take on. &#10;&#10;If you are unable to do jumping movements or just aren&#8217;t in the mood for a high-impact workout, we have a great 10-minute at-home workout for you to try! This workout doesn&#8217;t require any jumping but still uses a HIIT timing format, which is usually best for optimal fat burn!&#10;&#10;Low Impact Bodyweight Workout for Beginners (No jumping)&#10;You will do each exercise below for 45 seconds, followed by 15 seconds of rest&#10;0:00 Introduction&#10;1:47 SIDE STEP SQUAT&#10;2:30 NEXT EXERCISE: SIDE STEP JACKS&#10;3:31 NEXT EXERCISE: RIGHT-SIDE KNEE DRIVES&#10;4:31 NEXT EXERCISE: LEFT-SIDE KNEE DRIVES&#10;5:31 NEXT EXERCISE: SQUAT BUTT KICKS&#10;6:31 NEXT EXERCISE: PLANK ROTATIONS&#10;7:32 NEXT EXERCISE: REVERSE LUNGE KNEE DRIVES&#10;8:32 NEXT EXERCISE: RIGHT-SIDE PLANK HIP DIPS&#10;9:32 NEXT EXERCISE: LEFT-SIDE PLANK HIP DIPS&#10;10:33 NEXT EXERCISE: SKATERS&#10;&#10;Check Out MOVE! The complete at-home bodyweight workout program! - &#13;http://vshred.fit/YTMOVE314&#10;&#10;#AbWorkout #LowerBodyWorkout #VShred&#10;&#10;&#128071; Trying this tip out? Drop a comment below and let me know how this helped you! Don't forget to subscribe for more videos as well!&#13;&#10;&#13;&#10;LOW IMPACT LOWER BODY &#38; ABS WORKOUT FOR BEGINNERS (BODYWEIGHT + NO JUMPING)&#10;https://youtu.be/LFbsWIV_60M&#10;--------------------------------------------------------------------&#13;&#10;Check out My Supplement Stacks! &#13;&#10;For Fat Loss: http://vshred.fit/YTFatLossStack314&#13;&#10;For Muscle Building: http://vshred.fit/YTMuscleBuildingStack314&#10;-------------------------------------------------------------------&#13;&#10;Intro Song: Lights Go Down by Bazanji"
     channeltitle "V Shred"
     channelid "UCOFCwvhDoUvYcfpD7RJKQwA"
@@ -6183,7 +6183,7 @@ graph
     label "AT9l8tz2oJU"
     step 0
     date "2017-07-30T23:12:26Z"
-    title "I Tried J.Lo&#38;#39;s Ab Workout"
+    title "I Tried J.Los Ab Workout"
     description "This week on #jackedlikejordan I tried J.Lo&#8217;s ab workout designed by celeb trainer Tracy Anderson. Like, have you guys seen J.Lo&#8217;s abs lately? They are insane. And now I know why.&#10;&#10;SUBSCRIBE: http://bit.ly/2oNr61A&#10;And check back every Sunday for new content!&#10;&#10;FOLLOW ME FOR OTHER FUN &#38; NEW ANNOUNCEMENTS:&#10;Instagram: https://www.instagram.com/jordLS&#10;Twitter: https://www.twitter.com/jordLS&#10;Facebook: https://www.facebook.com/jackedlikejordan&#10;Snapchat: @jordLS&#10;&#10;TRACY&#8217;S INTERVIEW IN HEALTH MAG:&#10;http://www.health.com/health/gallery/0,,20793274,00.html&#10;&#10;Watch More of my videos to be #JackedLikeJordan:&#10;NUTRITION:&#10;https://www.youtube.com/watch?v=R7wZHnorslM&#38;list=PL4KQWNVEMkWaoHvWrvOBf2q&#10;YnlVrh2UDC&#10;STRENGTH EXERCISES &#38; WORKOUTS:&#10;https://www.youtube.com/watch?v=cAMg2ApgO9g&#38;list=PL4KQWNVEMkWYolMDxQQb_&#10;cY_tFDd7FDI8&#10;RECOVERY MODE: https://www.youtube.com/watch?v=h6lxWi-&#10;2WzM&#38;list=PL4KQWNVEMkWbH0D03eTp7MEBD-pwGgWXj&#10;MOST POPULAR:&#10;https://www.youtube.com/watch?v=djGpIzqYyyU&#38;list=PL4KQWNVEMkWZOUzR1GVpu5G&#10;QCX82udELb&#10;&#10;About Jordan Shalhoub:&#10;Want to get #JackedLikeJordan? Check out my weekly videos about all things health &#38; fitness. From trying at-home workouts to cryotherapy, I&#8217;m your chick to test it all out and report back to you."
     channeltitle "Jordan Shalhoub"
     channelid "UCLdK2gxhD_uJBbK3r54gchQ"
@@ -6255,7 +6255,7 @@ graph
     label "H4VP0sZyEW8"
     step 0
     date "2022-04-26T10:03:38Z"
-    title "Get Abs in 5 Min/Day - Intense Ab Workout &#128293;"
+    title "Get Abs in 5 Min/Day - Intense Ab Workout "
     description "&#128073; MY NEW (2022) BOOTY BOOST PROGRAM IS LIVE!&#10;https://getfitbyivana.com&#10;&#10;My Booty Boost program is designed to achieve progressive booty growth by doing the right volume of training and the right choice of exercises.&#10;&#10;The program includes:&#10;- A comprehensive 12 week booty workout plan&#10;- 6 follow-through workout videos&#10;- A 12 week (day-by-day) follow-through booty schedule&#10;- A progress tracking page (before &#38; after photos, booty measurement, strength assessment)&#10;- A private photo library&#10;- Plus more!&#10;&#10;&#128073; If you would like to listen to your own &#34;favourite&#34; music, try my non-music version with beeps only: https://youtu.be/NYfcFdCVjRQ&#10;&#10;&#129419; SHARE AND POST YOU PROGRESS PICTURES ON INSTAGRAM AND USE #getfitbyivana&#10;#bootyboostprogram&#10;&#10;&#128073; Shop: PHLURT &#10;Shop at: https://phlurtofficial.com&#10;Instagram: @phlurt&#10;&#10;&#128073; ECHT Apparel&#10;https://echt.com.au&#10;Discount code: IVANA10&#10;&#10;&#128247; Instagram: getfitbyivana_&#10;https://www.instagram.com/getfitbyivana_/?hl=en&#10;&#128038; Twitter: getfitbyivana&#10;https://twitter.com/getfitbyivana&#10;&#128233; Business Enquires: &#10;getfitbyivana@gmail.com"
     channeltitle "getfitbyivana"
     channelid "UCa_JUG9hl8D7S6jH7nWTURA"
@@ -6319,7 +6319,7 @@ graph
     commentcount 147
     duration "PT5M36S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -6327,7 +6327,7 @@ graph
     label "elaZvoL9omc"
     step 0
     date "2021-10-12T14:00:11Z"
-    title "i did daisy keech&#38;#39;s ab workout for a week before and after results"
+    title "i did daisy keechs ab workout for a week before and after results"
     description "i did daisy keech's ab workout for a week before and after results&#10;&#10;&#9789; Beauty channel https://www.youtube.com/c/CiciDo1/featured&#10;&#9789; Law of attraction channel https://www.youtube.com/c/anhbear&#10;&#9789; Instagram: https://www.instagram.com/cicidoyt/&#10;&#9789; Amazon Storefront https://www.amazon.com/shop/cicido&#10;&#9789; Etsy Store: https://www.etsy.com/shop/CiciDo&#10;&#10;&#9789;Products&#10;&#10;Lululemon Align Pants&#10;https://amzn.to/3mUYn6b&#10;https://rstyle.me/+q5nDvOGbFxSWstcWSIXuYw&#10;&#10;Lululemon leggings dupes&#10;https://amzn.to/3fu9wId &#10;&#10;Lululemon align tank dupe&#10;https://amzn.to/37SjwrC&#10;&#10;Lululemon align tank&#10;https://go.magik.ly/ml/1agg7/&#10;&#10;Affiliate Links&#10;&#9789;Start investing with M1 Finance: https://m1finance.8bxp97.net/Eab7JK&#10;&#9789; Mayraki Hair Discount Code | Get 20% off with code: CICI&#10;https://hairmayraki.com?aff=39&#10;&#9789;Merit https://muse.meritbeauty.com/cici&#10;&#9789;Stylevana discount code: INF10CICI&#10;&#8627; 10% entire order&#10;&#10;&#10;&#9789;Filming Equipment&#10;&#10;Canon M50&#10;https://amzn.to/3pgSXEa&#10;https://rstyle.me/+sAuJE1gT0eg8atNPlWOt7A&#10;&#10;Canon EF M 22mm lens&#10;https://amzn.to/2Mj9MiN&#10;https://rstyle.me/+5btoOsdj9_irhxjR8_vbcA&#10;&#10;Canon G7x Mark II&#10;https://amzn.to/3lVwSYw&#10;https://rstyle.me/+udJRYhX2oh6eMYyVFIJ7yA&#10;Boya Microphone &#10;https://amzn.to/3nl3dtz&#10;https://rstyle.me/+hH9KSJoXR096pXgGowpYjw&#10;&#10;SanDisk 128GB Memory Card&#10;https://rstyle.me/+mODcm6nkeYvSTWTogC359g&#10;https://amzn.to/37gLdei &#10;&#10;&#127925;Music&#10;&#10;Wine (Prod. by Lukrembo) https://youtu.be/xjSxWMbz_FQ&#10;Travel (Prod. by Lukrembo) https://youtu.be/iixgZWLipXI&#10;Castle (Prod. by Lukrembo) https://youtu.be/t5w7rgu9_00&#10;&#10;&#10;DISCLAIMER: Links included in this description might be affiliate links. If you purchase a product or service with the links that I provide I may receive a small commission. There is no additional charge to you! Thank you for supporting my channel so I can continue to provide you with free content each week!&#10;&#10;This video is about: at home workout, chloe ting workout, chloe ting workout abs, chloe ting workout challenge, daisy keech, daisy keech bubble workout, daisy keech workout, daisy keech workout abs, daisy keech workout butt, daisy keech workout plan, daisy keech workout results, get abs in a week, i tried chloe ting abs in 2 weeks, i tried daisy keech ab workout, i tried daisy keech hourglass workout, i tried daisy keech workout, i tried workout challenge, i tried workout for a week, pamela reif"
     channeltitle "Cici Do"
     channelid "UCzYSluhW9ZqZaYi94ZEFYFA"
@@ -6345,7 +6345,7 @@ graph
     label "7P4-W0D21fg"
     step 0
     date "2020-06-03T05:00:03Z"
-    title "10 Minute Abs Home Workout  | This is Intense &#128293;&#128293;&#128293; | So trainiere ich effektiv meinen Bauch | DAY 3"
+    title "10 Minute Abs Home Workout | This is Intense | So trainiere ich effektiv meinen Bauch | DAY 3"
     description "Es wird intensiv und feurig. Bei diesem Abs Home Workout brennen die Bauchmuskeln. 10 Minuten, 20 &#220;bungen, keine Pause! Es erwarten euch neue und spannende &#220;bungen, die teilweise aus meiner Yoga- und Handstandpraxis kommen. No repeats!&#10;&#10;F&#252;r die besten Ergebnisse integriert dieses Workout gerne in eurer Wochenprogramm. So werdet ihr die Abl&#228;ufe verinnerlichen und ihr k&#246;nnt beobachten wie euch die &#220;bungen von Mal zu Mal zu leichter fallen!Also bitte bitte nicht entt&#228;uscht sein, wenn es beim ersten Durchlauf etwas viel aufeinmal ist. Das ist ganz normal, wenn man Dinge zum ersten Mal macht, stimmts?! :-)&#10;&#10;Dieses kurze und knackige Sixpack Workout hat es in sich, st&#228;rkt euren gesamten Rumpf und macht richtig fit!Probiert es aus. Los geht&#8217;s.&#10;&#10;___&#10;&#10;NO ADS!&#10;Wie in allen meinen Einheiten, schalte ich innerhalb der Videos keine Werbung! Ihr werdet also nicht mitten im Workout unterbrochen.&#10;&#10;&#10;Diese Yoga-Einheit k&#246;nnt ihr ganz prima im Anschluss absolvieren:&#10;https://youtu.be/6CxOSicx_Wc&#10;&#10;&#10;Meine Yogamatte: &#10;http://amzn.to/2mo8NNr *&#10;&#10;&#10;&#10;********************************&#10;&#10;&#10;7  DAYS - 7 WORKOUTS&#10;&#10;Repeat this Workout Schedule for at least 4 Weeks to get the best results!&#10;&#10;Day 1 // Full Body Workout: https://youtu.be/IMctZ4i2FRw&#10;Day 2 // Legs &#38; Booty Workout: https://youtu.be/d-8tlYmfbDs&#10;Day 3 // Intensive ABS Workout: https://youtu.be/7P4-W0D21fg&#10;Day 4 // Fat Burning HIIT: https://youtu.be/ZO9IG-6SYJA&#10;Day 5 // Booty Burn: https://youtu.be/ajK3KMWHI60&#10;Day 6 // Arms, Abs &#38; Back: https://youtu.be/b2sdVtXNecs&#10;Day 7 // Daily Stretch: https://youtu.be/g_tea8ZNk5A&#10;&#10;I am also working on printable workout guides, to keep you motivated and track your sessions!&#10;Coming soon :)&#10;&#10;&#10;********************************&#10;&#10;Apropos Yoga. Keine Sorge, es wird nat&#252;rlich weiterhin hochwertige Yoga Einheiten auf meinem Kanal geben! Ich kann gar nicht anders ;)Ein paar knackige Fitness Elemente hier und da finde ich aber genauso toll und auch das m&#246;chte ich sehr gerne mit euch teilen!&#10;&#10;Wie ihr vielleicht bemerkt haben kommen die neuen Fitness-Videos ohne Voice Over, sondern mit Timer und Musik. Ich habe sehr lange dar&#252;ber nachgedacht und mich aus diversen Gr&#252;nden schlie&#223;lich f&#252;r diese Art der Umsetzung entschieden. Ich bin mir sicher, ihr kommt auch damit super zurecht und freue mich nat&#252;rlich, wenn euch die Workout Videos langfristig begleiten oder ihr sie sogar gemeinsam mit Family &#38; Friends absolviert!&#10;&#10;Viel Freude ihr Lieben!&#10;Eure Mady.&#10;&#10;&#10;&#10;Meine Yogamatte: &#10;http://amzn.to/2mo8NNr *&#10;&#10;&#10;&#10;********************************&#10;&#10;&#10;&#10;WORKOUTS/FLOWS:&#10;&#10;Meine Yoga Morgenroutine:&#10;https://www.youtube.com/watch?v=Nm6RlQiwvgc&#10;&#10;&#10;Yoga gegen R&#252;ckenschmerzen:&#10;https://www.youtube.com/watch?v=p3Q_L90be2s&#38;t=297s&#10;&#10;&#10;Verspannungen im Nacken?!&#10;https://www.youtube.com/watch?v=Nwg5j55gicI&#10;&#10;&#10;Yoga Stretch and Relax:&#10;https://www.youtube.com/watch?v=qH-3MOOYQBw&#38;t=3s&#10;&#10;&#10;&#10;********************************&#10;&#10;&#10;&#10;EQUIPMENT:&#10;&#10;Meine liebste Matte: &#10;http://amzn.to/2mo8NNr *&#10;&#10;Meine Vlogging Cam: &#10;http://amzn.to/1GsIWWo *&#10;&#10;Mein Make Up 100% Bio- bzw Naturkosmetik&#10;http://amzn.to/1LtYY89 *&#10;&#10;Mein neuer Mixer (macht die besten Smoothies ever!)&#10;http://amzn.to/2n4BayW *&#10;&#10;&#10;&#10;&#10;&#10;********************************&#10;&#10;&#10;MUSIK: www.epidemicsound.com&#10;&#10;&#10;********************************&#10;&#10;&#10;&#10;&#10;F&#252;r t&#228;gliche Inspiration YOGA, TRAVEL &#38; FOOD :&#10;&#10;Instagram : https://instagram.com/madymorrison/&#10;Facebook: https://www.facebook.com/morrison.mady&#10;Blog: http://www.madymorrison.com"
     channeltitle "Mady Morrison"
     channelid "UCHJBoCDxaCTRrwCHXEBA-BA"
@@ -6363,7 +6363,7 @@ graph
     label "S5vLpXWnFqE"
     step 0
     date "2018-09-24T17:51:36Z"
-    title "SCIENTIFIC APPROACH TO A 6-PACK  | Top 4 Ab Exercises"
+    title "SCIENTIFIC APPROACH TO A 6-PACK | Top 4 Ab Exercises"
     description "GET YOUR BOOTY BAND NOW&#128156;&#10;&#10146;https://www.lunabylucy.com/shop&#10;&#10;I strongly believe in training with a Booty Band - it's honestly helped me so much with my glute growth, especially during a time where I felt like my growth was plateauing and I was not seeing as much results. The FREE 8-week plan incorporates COUNTLESS exercises and workouts that are resistance-band focused and have helped me with growing my booty! &#10084;&#65039;This is one of my booty growing secrets and I wanted to share it with you all!&#10;&#10;---------------------------------------&#10;&#10;&#10;Connect With Me: &#10;&#10146;INSTAGRAM: @addictlulu&#10;&#10146;SNAPCHAT: LucyLFitness&#10;&#10146;YOUTUBE: LucyLFitness&#10;&#10;&#10;THE PROTEIN &#38; SUPPLEMENTS I USE:&#10;&#10146;https://womens.best/LucyLFitness&#10;Code &#34;LUCYL&#34; will give you 10% off your entire order at Women's Best! &#10;&#10;&#10;MEALPREP SERVICE I USE:&#10;&#10146;https://www.powerkitchen.ca/&#10;Code &#34;LUCY10&#34; will give you 10% off your entire order at PowerKitchen&#10;&#10;&#10;OTHER SCIENTIFIC VIDEOS:&#10;&#10146;GLUTEUS MINIMUS SCIENCE&#10;https://youtu.be/3wnOW7UgIZE&#10;&#10146;RESISTANCE BAND SCIENCE&#10;https://youtu.be/3Of-DkioMxk&#10;&#10146;BOOTY SCIENCE: 5 Exercises You NEED To Be Doing&#10;https://youtu.be/BchUQ9nXBEQ&#10;&#10146;5 STAPLE SHOULDER EXERCISES | A Scientific Approach to Training Shoulders: https://youtu.be/vV75yhu-DG4&#10;&#10146;6 EXERCISES TO GROW YOUR HIPS | A Scientific Approach to Training Hips: &#10;https://youtu.be/nunTMMFlPYg&#10;&#10146;6 NEW EXERCISES TO GROW YOUR HIPS | A Scientific Approach&#10;https://youtu.be/TTKIx0ZAJEc&#10;&#10146;EXERCISES FOR GLUTE GROWTH &#38; STRENGTH | A Scientific Approach to Training the Glutes: &#10;https://youtu.be/fOURaX5UibI&#10;&#10146;EXERCISES FOR GROWING THE UNDERBUTT | A Scientific Approach to Training the Underbutt&#10;https://youtu.be/4x8sKcWTsMk&#10;&#10;&#10;NOT YOUR TYPICAL EXERCISES SERIES:&#10;&#10146;Not Your Typical Bicep Workout:&#10;https://youtu.be/JB7CilMq2jM&#10;&#10146;Not Your Typical Lower Body Workout:&#10;https://youtu.be/DRfY0tv8AQQ&#10;&#10146;Not Your Typical Shoulder Workout:&#10;https://youtu.be/RGOKyVBfaTw&#10;&#10146;Not Your Typical Glute Workout: &#10;https://youtu.be/YVlAWrDyX2E&#10;&#10146;Not Your Typical Back Workout:&#10;&#10;&#10;REFERENCES&#10;https://www.ncbi.nlm.nih.gov/pubmed/23207881&#10;https://www.ncbi.nlm.nih.gov/pubmed/30063527&#10;https://www.ncbi.nlm.nih.gov/pubmed/29706723&#10;https://www.ncbi.nlm.nih.gov/pubmed/11726260&#10;&#10;&#10;ABDOMINAL CIRCUIT WORKOUT: &#10;1.a) Plank - 45 seconds&#10;1.b) Restrained Curl-Ups 12 reps&#10;1.c) Double Leg Raise 12 reps&#10;1.d) Reverse Curl 12 reps&#10;Repeat 2x with a 1.5-2.0 minute break&#10;&#10;&#10;MUSIC:&#10;&#10146;Track: Heuse &#38; Chris Linton - Reactive [NCS Release]&#10;&#10146;Music provided by NoCopyrightSounds.&#10;&#10146;Watch: https://youtu.be/cFlqHYJKa2I&#10;&#10146;Free Download / Stream: http://ncs.io/ReactiveYO&#10;&#10;&#10;---------------------------------------&#10;&#10;&#10;How I save money shopping online: https://www.ebates.ca/referrer?referrerid=d3xkZTeIgIo%3D%0D%0A&#38;src=Link&#10;&#10;&#10;EMAIL: &#10;&#10146;For business inquiries only: LucyLFitness[at]gmail.com&#10;&#10;Filmed at Crunch Fitness"
     channeltitle "LucyLFitness"
     channelid "UCAS_iI5sxJDF23UsRj6WHxw"
@@ -6373,7 +6373,7 @@ graph
     commentcount 77
     duration "PT8M23S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -6381,7 +6381,7 @@ graph
     label "oVjvttfSzq4"
     step 0
     date "2022-07-11T04:00:17Z"
-    title "5 MIN. KILLER ABS WORKOUT - short, intense &#38;amp; effective | No Equipment"
+    title "5 MIN. KILLER ABS WORKOUT - short, intense effective | No Equipment"
     description "This is a very quick, intense and effective killer abs workout that will make your abs come out and burn. &#10;Think about squeezing your abs all the time when you do the movements and don&#8217;t think 5 minutes are not enough. I used the best and my absolute favourite ab exercises that are the most effective for me. You can do this workout everywhere without any equipment. Combine this with other ab and fat burn workouts on my page to make your abs more visible, because the less fat percentage you have, the more your abs will come out.&#10;&#10;Music by Epidemic Sound&#10;Songs:&#10;Basixx - You're The Only Reason&#10;Lvly - In Your Head&#10;&#10;Follow me on Instagram for daily motivation &#9829;&#65038; &#10;Love you and appreciate everyone of you.&#10;&#10;Instagram: @_marybraun &#10;https://www.instagram.com/_marybraun/&#10;&#10;Business Contact: marybraun.info@gmail.com&#10;&#10;Disclaimer: When joining me for all my workout videos, you need to know that we can&#8217;t choose the exact area where we want to lose fat. Your health and safety is the most important thing. To reduce and avoid any type of injury, it is better for you to check with your doctor, before beginning this workout. If you don&#8217;t feel comfortable in performing different exercises, see a fitness professional to give you advice on your exercise form. Mary Braun will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Mary Braun"
     channelid "UCao4a5ju7QRScI_tnf2MArw"
@@ -6417,7 +6417,7 @@ graph
     label "saqZE89DPyI"
     step 0
     date "2022-07-02T04:06:39Z"
-    title "9 Min No Repeats Low Impact KILLER Ab Workout &#9760;&#65039;&#9760;&#65039;&#9760;&#65039;"
+    title "9 Min No Repeats Low Impact KILLER Ab Workout "
     description "No repeats, low impact, and under 10 minutes?! This is the perfect workout for literally everyone. Don't be fooled, you're still going to get a great sweat! My abs were absolutely burning by the end of these 9 minutes. &#128293; I just love that we only have to do each exercise once! &#10;&#10;9 min EMOM :40on/:20off&#10;1) Reverse Crunch&#10;2) Half Side Crunch (L)&#10;3) Half Side Crunch (R)&#10;4) Quadruped Hold&#10;5) Star Crunch (R)&#10;6) Star Crunch (L)&#10;7) Birddogs&#10;8) Deadbug&#10;9) Oblique Heel Taps&#10;&#10;&#10;Don't forget to LIKE and SUBSCRIBE! This is the easiest way to support my channel!&#10;&#10;This workout comes directly from my Pridefit Home &#38; Gym programs. Pridefit combines strength, cardio, HIIT, core, and mobility into one seamless program so you don't have to go searching through YouTube to decide what to do next or how to achieve your goals. Visit www.pridefit.com to start your 7 day free trial!&#10;&#10;Follow me on:&#10;&#128495;I N S T A G R A M: https://www.instagram.com/leichtning/&#8203;&#10;&#128495;T I K  T O K: https://www.tiktok.com/@leichtning?so&#8203;...&#10;&#128495;F A C E B O O K: https://www.facebook.com/Leichtning/&#8203;&#10;&#10;Editor: kyle@detachedmedia.com &#10;&#10;#abworkout #pridefit #10minworkout&#10;&#10;Thanks for watching 15 Minute Upper Back Dumbbell Workout!"
     channeltitle "Sam Leicht (Pridefit)"
     channelid "UCnVVrKE-Zv7Oue_c2VVCauQ"
@@ -6553,7 +6553,7 @@ graph
     commentcount 6
     duration "PT9M43S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -6571,7 +6571,7 @@ graph
     commentcount 766
     duration "PT10M26S"
     indegree 0
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -6579,7 +6579,7 @@ graph
     label "9eXLdIoTPIg"
     step 0
     date "2022-03-27T19:01:19Z"
-    title "TRYING DAISY KEECH&#38;#39;S AB WORKOUT FOR A WHOLE WEEK! *Before &#38;amp; After results | BIANCA MONVOY"
+    title "TRYING DAISY KEECH After results | BIANCA MONVOY"
     description "Today we are trying Daisy Keech's ab workout!! Before and After results will be included!! I'm so proud of myself for completing this challenge! I hope you guys enjoy !! &#9825; &#9825; &#9825;&#10;&#10;                                                       &#9825;  ASK ME QUESTIONS !! &#9825;&#10;                                                       INSTAGRAM: BiancaMonvoy&#10;                                                        FaceBook : Bianca Monvoy&#10;                                                          TikTok : BiancaMonvoy&#10;Track : Short &#38; Sweet&#10;Prod by : Aloster"
     channeltitle "Bianca Monvoy"
     channelid "UClBXzbX3vdTFOEE-x8RpIXw"
@@ -6597,7 +6597,7 @@ graph
     label "OYIRrlKDJ6k"
     step 0
     date "2021-02-21T18:37:08Z"
-    title "5 Minute Ab Workout /Quick &#38;amp; Effective | Marco Mignot"
+    title "5 Minute Ab Workout /Quick Effective | Marco Mignot"
     description "Follow my Instagram @marco_mignot for more! + follow my everyday adventures on snapchat - &#34;marcomignotlife&#34; if you want to see what I'm doing.... right now.&#10;&#10;For business inquires email - marcomignotbusiness@gmail.com&#10;&#10;Ab Exercise List&#10;#1 Leg Lifts &#10;#2 Crunches&#10;#3 Mason Twist&#10;#4 Butterfly Kicks&#10;#5 Mountain Climbers &#10;&#10;&#10;Jewelry Collection  - https://pirateoflove.com/&#10;&#10;My Social Medias &#10; Instagram - https://www.instagram.com/marco_mignot/   &#10;TikTok - https://www.tiktok.com/@marco_mignot? ... &#10;SnapChat - https://www.snapchat.com/add/marcomig...&#10;&#10;Forrest's Keifers Socials&#10;Filmer / Editor Instagram - https://www.instagram.com/forrestkeifer/"
     channeltitle "Marco Mignot"
     channelid "UC-Y3rKoATXoyLcmL-D7fSDg"
@@ -6615,7 +6615,7 @@ graph
     label "Z-PVgN26qTQ"
     step 0
     date "2020-03-01T08:00:12Z"
-    title "Stormzy feat. Ed Sheeran &#38;amp; Burna Boy - Own It // AB WORKOUT / No Equipment I Pamela Reif"
+    title "Stormzy feat. Ed Sheeran Burna Boy - Own It // AB WORKOUT / No Equipment I Pamela Reif"
     description "my FAVORITE Song Workout so far! &#10;I'm getting the hang out of this haha :) // Werbung &#10;&#10;This workout trains our core muscles: abs, side abs / obliques, lower abs, as well as stability, balance, shoulders &#38; arms. &#10;&#10;I came up pretty quickly with a routine to &#34;Own It&#34;. For the other Song Workouts it took me at least 1-2 hours, but this one matched nicely within 15 minutes :) hope you like it too! &#10;__&#10;&#10;A &#34;Song Workout&#34; fits to a specific song and is similar to a small &#34;choreography&#34;. This means we are not doing  30s per exercise - we are doing a new movement as soon as the beat of the song changes. &#10;&#10;1. You can find the names of the exercises at the top right. &#10;2. You will need to PAY MORE ATTENTION. There are no beeps that will tell you that we start with a new movement. Either watch the video 1x before joining me or keep your eyes on the screen! &#10;3. Just have FUN. In those 3 minutes it's all about getting into the mood to do a proper workout, get a good burn and enjoy some nice music. &#10;4. A quick song workout is always a good idea :) you can do it in the morning to kickstart your day, as a warmup before a more intense workout or on its own for a quick burn. &#10;&#10;__&#10;&#10;&#9656; Song: &#34;Own It&#34; by Stormzy feat. Ed Sheeran &#38; Burna Boy &#10;&#10;You can always find ALL SONGS in my workout playlist: http://wmg.click/GetActive&#10;Check it out and tell me which song I should use next month! &#10;I update it weekly &#38; it's available on Spotify, Apple Music, etc.&#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -6669,7 +6669,7 @@ graph
     label "jC5xlKIQgR8"
     step 0
     date "2020-10-07T04:00:08Z"
-    title "6 MIN BRUTAL AB WORKOUT - intense sixpack workout, short and sweet / No Equipment I Pamela Reif"
+    title "6 MIN BRUTAL AB WORKOUT - intense si tongue sticking out ack workout, short and sweet / No Equipment I Pamela Reif"
     description "&#34;I got no time&#34; is no excuse for this routine! Super quick, really intense and: effective &#9829;&#65038; / Werbung &#10;&#10;This routine burns like heeellllll in my abs!&#10;&#9656; make sure to keep your LOWER BACK flat on the mat. Only lower your legs as far as possible, so your lower back is not lifting off the mat. &#10;This is easier when you really engage your ab muscles and &#34;crunch&#34; them inwards the entire time.&#10;&#9656; you can lay your head on the mat, if that's more comfortable. I can feel my abs working more, if I lift my head though. &#10;&#9656; THINK ABOUT YOUR ABS the entire time :D it's about the mind muscle connection! Lift and lower your legs with the strength of your abs, not your thighs. &#10;&#10;&#9656; for the &#34;Crunch Holds&#34; - it's not a break. Don't relax! Squeeze your abs for 30s straight. &#10;&#10;We filmed this video on the Maldives earlier this year :) I totally forgot about it! Glad I found it again, the setting brings back beautiful memories &#9829;&#65038;&#9829;&#65038;&#9829;&#65038; I hope you like it! &#10;&#10;__&#10;&#10;No Equipment necessary, no breaks (you're used to it by now I guess) and not much space needed :) If you need a break tho - take it! Just don't quit! &#10;&#10;The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. &#10;__&#10;&#10;&#9656; you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &#34;Workout Plans&#34; for that.  &#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10;&#9656; use #PamelaReif if you want me to see your workout pics and videos! &#10;&#10;__&#10; &#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. Ella Henderson &#38; Roger Sanchez - Dream On Me 0:00 - 3:02&#10;2. Tiesto - The Business 3:03 - 5:30 &#10;3. Max Lean, Lucas Butler ft. Bonny Lauren - Taking Me Higher 5:31 - 7:15&#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;__&#10;&#10;Business Contact:&#10;pamela_reif@icloud.com&#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "Pamela Reif"
     channelid "UChVRfsT_ASBZk10o0An7Ucg"
@@ -6705,7 +6705,7 @@ graph
     label "8oMl8WqIx5w"
     step 0
     date "2020-12-14T17:00:12Z"
-    title "I DID CHLOE TING STANDING AB WORKOUT FOR 7 DAYS | BEFORE &#38;amp; AFTER | VLOGMAS 2020 DAY 14 | KENSTHETIC"
+    title "I DID CHLOE TING STANDING AB WORKOUT FOR 7 DAYS | BEFORE AFTER | VLOGMAS 2020 DAY 14 | KENSTHETIC"
     description "Hey Loves, &#10;&#10;I've been doing Chloe Ting challenges for the past couple of months but fell out. But baby we back!!! I wanted to show you all what I achieved in 7 days JUSTTTT doing two Chloe Ting ab challenges. If I can do it, so can you!! I hope you all enjoyed this video! Comment down below with your thoughts and opinions!&#10;&#10;Vlogmas Intro By - https://bit.ly/3lmllRT&#10;&#10;Kenmas 2020 Playlist - https://www.youtube.com/playlist?list=PL9hysYKU6Ax8dO1fQViGfkP_1KnZSyOjZ&#10;&#10;_________________________________&#10;&#10;SHOP MY AMAZON STORE - &#10;https://www.amazon.com/shop/kensthetic_&#10;&#10;SIGN UP FOR RAKUTEN - https://www.rakuten.com/r/KENDRA3718?eeid=28187&#10;&#10;_________________________________&#10;&#10;ITEMS MENTIONED IN VIDEO:&#10;&#10;Standing Abs Workout - https://bit.ly/3qWwTzq&#10;10 Min Ab Shred - https://bit.ly/3oN7Uws&#10;&#10;*Some affiliate links are used.*&#10;_________________________________&#10;RELATED UPLOADS:&#10;&#10;_________________________________&#10;AFFILIATE CODES: &#10;&#10;ASOS (15% off) - https://asos.mention-me.com/m/ol/wp5dc-kendra-massicot&#10;&#10;Wraperoo - KENSTHETIC for 10% off&#10;_________________________________&#10;&#10;MY FAVORITES:&#10;Favorite Shampoos/Cleansers - https://youtu.be/YvNjym-96Nc // https://www.youtube.com/watch?v=l0EhuP7cqVM&#38;t=3s&#10;&#10;Favorite Deep Conditioners - https://youtu.be/yEd5fRxKpxE // https://www.youtube.com/watch?v=tfIvQOH32tY&#38;t=43s&#10;&#10;Favorite Leave In/Hair Milk - https://youtu.be/2bSZS-puPTA // https://www.youtube.com/watch?v=LauKU3_nB_o&#38;t=139s&#10;&#10;Favorite Twisting Products - https://youtu.be/cJtShUHBhoA // https://www.youtube.com/watch?v=a55Tmcry9UA&#38;t=243s&#10;&#10;Favorite Gels - https://youtu.be/oL6h_w_m_Uc // https://www.youtube.com/watch?v=a55Tmcry9UA&#38;t=243s&#10;&#10;Favorite Natural Hair Tools - https://youtu.be/5r0syaaNdGM // https://www.youtube.com/watch?v=tAcRk3M2o4k&#38;t=216s&#10;&#10;_________________________________&#10;&#10;&#9655;RECORDING DETAILS:&#10;Camera: https://www.amazon.com/dp/B01BUYK04A/?ref=exp_kensthetic__dp_vv_d&#10;&#10;Lens: &#10;Canon 50mm - https://www.amazon.com/dp/B00X8MRBCW/?ref=exp_kensthetic__dp_vv_d&#10;Sigma 18-35mm - https://www.amazon.com/dp/B00DBL0NLQ/?ref=exp_kensthetic__dp_vv_d&#10;&#10;Vlogging Camera/Hair Wash Videos - https://www.amazon.com/dp/B079Y45KTJ/?ref=exp_kensthetic__dp_vv_d&#10;&#10;Vlogging (DJI Osmo Pocket) - https://go.magik.ly/ml/11yku/&#10;&#10;Microphone: &#10;Boya Mic - https://www.amazon.com/dp/B01M2VC8GF/?ref=exp_kensthetic__dp_vv_d&#10;VideoMicro - https://www.amazon.com/dp/B015R0IQGW/?ref=exp_kensthetic__dp_vv_d&#10;&#10;Lighting: &#10;&#10;Softboxes - https://www.amazon.com/LimoStudio-Photography-Lighting-Equipment-AGG814/dp/B00E4YS2XU/ref=sr_1_1_sspa?keywords=limo+soft+box&#38;qid=1560266297&#38;s=gateway&#38;sr=8-1-spons&#38;psc=1&#10;&#10;LED Video Light - https://www.amazon.com/dp/B00RJSTJ6C/?ref=exp_kensthetic__dp_vv_d&#10;&#10;LED Panel Lighting - https://go.magik.ly/ml/y9oj/&#10;&#10;Ringlight: http://www.stellarlightingsystems.com/stellar-led-diva-ll-ring-light/&#10;&#10;_________________________________&#10;&#9655;FAQs:&#10;&#10149;Ethnicity:&#10;Dominican (West Indian)&#10;&#10149;Hair Type:&#10;4b/4c &#38; low porosity&#10;&#10149;Place of Residency:&#10;New York&#10;&#10149;Age: &#10;26&#10;&#10;&#10149;PO Box: &#10;Kendra&#10;P.O. Box 3140&#10;Mount Vernon, New York 10553&#10;_________________________________&#10;&#10;&#9655; FTC: This video was NOT SPONSORED. All thoughts and opinions are 100% my own. &#10;&#10;_________________________________&#10;&#10;&#9655;C O N N E C T  W I T H  M E:&#10;&#10;Instagram - https://www.instagram.com/kensthetic_/&#10;Twitter - https://twitter.com/kensthetic_&#10;Facebook - https://www.facebook.com/kenstheticc/&#10;Email - contact@kensthetic.net&#10;Website/Blog - https://www.kensthetic.net&#10;&#10;#Vlog #Vlogmas #ChloeTing"
     channeltitle "Kensthetic"
     channelid "UCCnecfiFk37B_bebNIfcR0A"
@@ -6723,7 +6723,7 @@ graph
     label "TFMk_142NE8"
     step 0
     date "2022-07-05T19:48:47Z"
-    title "8 MINUTE WEIGHTED AB WORKOUT | INTENSE X CALORIE BURNER  | TRY THIS AT HOME!"
+    title "8 MINUTE WEIGHTED AB WORKOUT | INTENSE X CALORIE BURNER | TRY THIS AT HOME!"
     description "You can use a dumbbell, or anything you have at home!&#10;I just used a 5lb weight! &#10;Hope you guys enjoy!&#10;&#10;FOLLOW ME ON:&#10;IG: @SkylerAyami &#10;TIKTOK: @skylerayamee"
     channeltitle "SkylerAyami"
     channelid "UChx0GBG9uZN6DQMVspP41JA"
@@ -6751,7 +6751,7 @@ graph
     commentcount 4
     duration "PT10M41S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -6777,7 +6777,7 @@ graph
     label "cCxdR9YopCg"
     step 0
     date "2022-07-04T15:00:23Z"
-    title "STANDING ABS WORKOUT *for beginners* | Get Ab Lines &#38;amp; Slim Waist"
+    title "STANDING ABS WORKOUT *for beginners* | Get Ab Lines Slim Waist"
     description "STANDING ABS WORKOUT *for beginners* | Get Ab Lines &#38; Slim Waist&#10;&#10;Hi Vanderfits! Hope you enjoy this standing abs workout for a slim waist and noticeable ab lines. No equipment is needed :) &#10;&#10;WEEKLY WORKOUT PROGRAM:&#10;Do this workout every single day for the upcoming 2 weeks in combination with the following routines:&#10;Monday - chest: https://www.youtube.com/watch?v=V9lvyOIDAII&#10;Tuesday - arms: https://www.youtube.com/watch?v=tJPYlilrvtg&#10;Wednesday - legs: https://www.youtube.com/watch?v=8c2qSd-ECPo&#10;Thursday - bts workout: https://www.youtube.com/watch?v=uKwlzLBXjjo&#10;Friday - hips: https://www.youtube.com/watch?v=M7wfVLHfsm4 &#10;Saturday - legs: https://www.youtube.com/watch?v=8c2qSd-ECPo&#10;Sunday - arms: https://www.youtube.com/watch?v=hW5DjysdDac&#10;&#10;&#129419; socials&#10;instagram: @sanne_vander https://www.instagram.com/sanne_vander/&#10;tiktok: @sanne_vander https://www.tiktok.com/@sanne_vander&#10;&#10;&#128149; discount codes&#10;yesstyle: GLOWUPYEAR https://ys.style/HLO2DyPdcbb&#10;stylevana: INF10SANNE https://vana.ly/7MExfW&#10;cokodive: GLOWUPYEAR http://cokodive.com?aff=444&#10;&#10;&#129418; business inquiries&#10;team.sannevander@gmail.com&#10;&#10;&#127769; music&#10;Music by Nico Anuch - Hope - https://thmatc.co/?l=8EE0F8EC&#10;Music by Nico Anuch - Eternal - https://thmatc.co/?l=57AD31DE&#10;Music by Eric Reprid - Day and Night - https://thmatc.co/?l=A898D806&#10;Music by MYSM - City Lights - https://thmatc.co/?l=04D6C2FC&#10;heart animation: https://www.youtube.com/watch?v=k6L_Mrd6Elo&#10;&#10;&#127800; disclaimer&#10;This video is not sponsored. &#10;&#10;FAQ&#10;&#127802; how old are you? 25&#10;&#129449; what camera do you use? canon g7x mark ii &#10;&#127754; what editing software do you use? final cut pro x&#10;&#129496;&#127995;&#8205;&#9792;&#65039; what's your daily workout plan? every 2 weeks i upload a new workout challenge on my channel. in those videos i explain exactly what kind of workouts i will do for the upcoming 14 days. check them here: https://www.youtube.com/watch?v=cuOFfHSQjT4&#10;&#10;please leave video requests down below!&#10;like and subscribe if you want :)"
     channeltitle "Sanne Vander"
     channelid "UCrGItwxRyFT-Q41KO4jXIlQ"
@@ -6787,7 +6787,7 @@ graph
     commentcount 39
     duration "PT18M29S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -6859,7 +6859,7 @@ graph
     commentcount 738
     duration "PT10M51S"
     indegree 3
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -6931,7 +6931,7 @@ graph
     commentcount 10
     duration "PT10M28S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 7069
     duration "PT12M8S"
     indegree 5
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -7011,7 +7011,7 @@ graph
     label "TjYOv-RRkyg"
     step 0
     date "2019-11-14T12:20:57Z"
-    title "10 min Intense AB Workout in Bed for Small Waist, Flat Belly &#38;amp; Ab Lines ~ Emi"
+    title "10 min Intense AB Workout in Bed for Small Waist, Flat Belly Ab Lines ~ Emi"
     description "&#9786;SUBSCRIBE TO JOIN THE #FEMILY &#35330;&#38321;&#25105;&#30340;&#38971;&#36947;: http://bit.ly/SubscribeToEmi&#10;&#10;&#9658;TURN ON NOTIFICATION BUTTON FOR THE NEWEST VIDEOS!&#10; &#10;&#9658;STALK ME &#25104;&#28858;&#25105;&#30340;&#26379;&#21451;&#10;Instagram: @EmiWong_  https://www.instagram.com/emiwong_&#10;Facebook: @Emi Wong https://www.facebook.com/EmiWongg&#10;&#10;&#9658;MUSIC: Adon - About Life [ChillYourMind Release]&#10;https://www.youtube.com/watch?v=5fVA-4fm2q0&#10;&#10;&#9658;HELP ME TRANSLATE MY VIDEOS &#38750;&#24120;&#24863;&#28608;&#22823;&#23478;&#24171;&#25105;&#21152;&#23383;&#24149;&#65281;&#10;http://www.youtube.com/timedtext_cs_panel?tab=2&#38;c=UCvGEK5_U-kLgO6-AMDPeTUQ&#10;&#10;&#9658;WATCH MORE VIDEOS!&#10;&#10;30 DAYS FAT BURN PROGRAM: https://www.youtube.com/playlist?list=PLGj6tJC_x-76sHaWnoYhDrbuL40oTCz9I&#10;&#10;AB WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-75cdAQJ9EcZWfOWkXCMzRIu&#10;&#10;ARM &#38; BACK WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-76dW0cWI1dUgwY_5cD_E7Nk&#10;&#10;LEG &#38; THIGH WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-76GfKHlzQZO23ZeCm1LZ62g&#10;&#10;FULL BODY WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-74dAtP0pa5VGPTbXQbEzJZ8&#10;&#10;KPOP WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-771Cx5q_AFuHDJULqqn63XD&#10;&#10;STRETCHES: https://www.youtube.com/playlist?list=PLGj6tJC_x-761L98lmAlZxNLttH-oh2mL&#10;&#10;TRAVEL VLOGS: https://www.youtube.com/playlist?list=PLGj6tJC_x-7755xDX2amoz4JkaCf4rL_f&#10;&#10;STUDY &#38; WORK EXPERIENCE: https://www.youtube.com/playlist?list=PLGj6tJC_x-74aM0VVYY6VBNU8zU7pKASX&#10;&#10;GETTING MARRIED VLOGS: https://www.youtube.com/playlist?list=PLGj6tJC_x-75Hn8yT-3LjekGVTjPKK3iC&#10;&#10;FOOD VLOGS: https://www.youtube.com/playlist?list=PLGj6tJC_x-77zyOKm47kypmGjeoedgjPn&#10;&#10;MAKE UP, SKIN CARE, FASHION: https://www.youtube.com/playlist?list=PLGj6tJC_x-74dfPXCrcBsu3GERCbPaQZ_&#10;&#10;FITNESS &#38; DIET TIPS: https://www.youtube.com/playlist?list=PLGj6tJC_x-74aBAyc7KxoJ5c8w5uM0TJu&#10;&#10;RECIPES &#38; COOKING: https://www.youtube.com/playlist?list=PLGj6tJC_x-76EwZHn8o-Jdtrm-AYyP636&#10;&#10;&#10;&#9658;INTRO SONG: Aarre - When We Were Young (ft. Reece Lemonius)"
     channeltitle "emi wong"
     channelid "UCvGEK5_U-kLgO6-AMDPeTUQ"
@@ -7021,7 +7021,7 @@ graph
     commentcount 1387
     duration "PT11M25S"
     indegree 2
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -7047,7 +7047,7 @@ graph
     label "fApYps2lXtI"
     step 0
     date "2022-07-04T04:30:07Z"
-    title "8 Min ABS Workout for Ab Lines, Small Waist &#38;amp; Flat Belly ~ 2022 Challenge"
+    title "8 Min ABS Workout for Ab Lines, Small Waist Flat Belly ~ 2022 Challenge"
     description "8 Min ABS Workout for Ab Lines, Small Waist &#38; Flat Belly ~ 2022 Challenge&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;FULL EXERCISES : &#10;&#10;0:00 INTRO&#10;0:04 EXERCISE 1: SLOW BICYCLES&#10;0:59 EXERCISE 2: FLUTTER KICKS&#10;1:53 EXERCISE 3: SIDE TWISTS&#10;2:57 EXERCISE 4: LEG CIRCLES&#10;4:02 EXERCISE 5: FAST BICYCLES&#10;5:06 EXERCISE 6: FULL BOAT POSE&#10;6:10 EXERCISE 7: OBLIQUE CRUNCH-LEFT&#10;7:34 EXERCISE 8: SLOW BICYCLES&#10;8:19 STOP !&#10;&#10;&#10;&#10;Thank's for watching!&#10;- Share , Like , Comment , Subscribe now and stay tuned for more!! &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#9659; CREDIT &#9669; &#10;&#10;Producer &#38; Director - Hong Quan&#10;Actress - Thanh Thanh, Dieu Linh, Giao Nhi&#10;Editor - Trung Nghia&#10;&#10;&#169; Copyright by WORKOUT NATION &#9758; Do not Reup&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;Disclaimer:&#10;In order to avoid any injury or harm, you need to check your health before doing the exercises. Performing any fitness exercises without supervision, is at your own risk. Please take professional advices of a fitness professional. &#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;Music: https://share.epidemicsound.com/mmg9t5&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#9658;TikTok: https://vt.tiktok.com/ZSJxvH2Fv/&#10;&#9658;Subscribe Now: https://www.youtube.com/channel/UCKPs... &#10;&#9658;Twiter: https://twitter.com/home&#10;&#9658;Facebook: https://www.facebook.com/WorkoutNationVN&#10;&#9658;Wedsite: https://workoutnationvn.blogspot.com/"
     channeltitle "WORKOUT NATION"
     channelid "UCKPsLBZfDVuNkXItcKJZ-PA"
@@ -7057,7 +7057,7 @@ graph
     commentcount 17
     duration "PT8M39S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7075,7 +7075,7 @@ graph
     commentcount 4
     duration "PT5M52S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7083,7 +7083,7 @@ graph
     label "eiuNnCQCGdY"
     step 0
     date "2022-07-06T06:20:32Z"
-    title "25 Minute Glute &#38;amp; Ab Workout You Can Do Anywhere"
+    title "25 Minute Glute Ab Workout You Can Do Anywhere"
     description "Join me for a 25-minute Glute + AB workout to sculpt your booty and core effectively without overexerting yourself. All you need is a bit of space.  Intervals will be 30 seconds on and 20 seconds rest. Let's go!!"
     channeltitle "Sarah Russell Fitness"
     channelid "UCMIWwsdoBVdVjHDL7PWdpow"
@@ -7093,7 +7093,7 @@ graph
     commentcount 13
     duration "PT27M2S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7101,7 +7101,7 @@ graph
     label "_09sCmmcqwI"
     step 0
     date "2021-04-07T18:15:55Z"
-    title "I TRIED BRETMAN ROCK&#38;#39;S &#38;quot;ABSOLUTELY NOT&#38;quot; AB WORKOUT | Home Workout"
+    title "I TRIED BRETMAN ROCK AB WORKOUT | Home Workout"
     description "Today I'm trying Bretman Rock's Abs-olutely Not Workout. I wanted a challenge and a challenge is exactly what I got. My abs are done for &#128557;  You can definitely modify it to your level but don't underestimate yourself. I am definitely going to be trying this again and incorporating some of these movements into my other workouts like the six inch lift &#129397;. Try it out and let me know how it goes for you in the comments below! Send to your friends and make them try it out with you &#128520;&#128514;. &#10;&#10;&#10047; Workout:&#10;&#10149; 10 secs rest between each exercise, 30 secs between each group of 3&#10;&#10149; 20 Crunches&#10;&#10149; 40 In &#38; Outs &#10;&#10149; 60 Sec Plank&#10;&#10149; 20 Plank side to side&#10;&#10149; 40 Mountain Climbers &#10;&#10149; 60 Scissors&#10;&#10149; 20 Leg Raises&#10;&#10149; 40 Toe Touches &#10;&#10149; 60 Sec Six Inch Lift &#10;&#10;&#10047; Watch This Video:&#10; &#9710;  Upper Body &#38; Abs Workout at Home | Dumbbell Only&#10;&#10148; https://youtu.be/gU1qr3BdEg4&#10;&#10;Thanks for watching the video. Subscribe to the channel to get more and press the BELL icon to get updated about new video.&#10;&#10;&#128073; Subscribe for more videos: https://www.youtube.com/channel/UCN1LP3xoxeeosA3YK85WEOQ&#10;&#10;#BretmanRock #AbsolutelyNot #Athomeworkout #abworkout #abs #workoutchallenge #DenieshaDette &#10;&#8612;&#8612; &#10047; &#8614;&#8614;&#8614;&#8614;&#8614;&#8612;&#8612;&#8612;&#8612;&#8612; &#10047; &#8614;&#8614;&#8614;&#8614;&#8614;&#8612;&#8612;&#8612;&#8612;&#8612; &#10047; &#8614;&#8614;&#8614;&#8614;&#8614;&#8612;&#8612;&#8612;&#8612;&#8612; &#10047; &#8614;&#8614;&#10;&#10;&#128242; Follow Me On Instagram: https://www.instagram.com/deniesha_dette&#10;&#10;For Business Inquiries :&#10;&#9993;&#65039; Email: deniesha83@gmail.com&#10;&#10;================================================================&#10;&#10;More videos from &#34; Deniesha Dette &#34;:&#10;&#10; &#9710;  Toned Legs and Booty Workout at Home | Bodyweight only &#10;&#10148; https://youtu.be/bX9EEYerJA8&#10;&#10;&#9710; 5 LB Upper Body Workout | Dumbbell Only, Beginner Friendly &#10;&#10148; https://youtu.be/9GdZEPukiu4&#10;&#10;&#9710; Low Impact Bodyweight HIIT - 15 Min | Beginner Friendly No Equipment Workout&#10;&#10148; https://youtu.be/DzH6ONRr2zs&#10;&#10;&#8620;&#8620;&#8620;&#8620;&#8620;&#8619;&#8619;&#8619;&#8619;&#8619;&#8620;&#8620;&#8620;&#8620;&#8620;&#8619;&#8619;&#8619;&#8619;&#8619;&#8620;&#8620;&#8620;&#8620;&#8620;&#8619;&#8619;&#8619;&#8619;&#8619;&#8620;&#8620;&#8620;&#8620;&#8620;&#8619;&#8619;&#8619;&#8619;&#8619;"
     channeltitle "Deniesha Dette"
     channelid "UCN1LP3xoxeeosA3YK85WEOQ"
@@ -7111,7 +7111,7 @@ graph
     commentcount 6
     duration "PT14M19S"
     indegree 0
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -7165,7 +7165,7 @@ graph
     commentcount 0
     duration "PT4M26S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7191,7 +7191,7 @@ graph
     label "yx28XGI8ODQ"
     step 0
     date "2022-07-10T01:49:35Z"
-    title "Fat loss and ab&#38;#39;s workout #bodybuilding #bodyworkout #homeworkout #fitnessmotivation"
+    title "Fat loss and abs workout #bodybuilding #bodyworkout #homeworkout #fitnessmotivation"
     description ""
     channeltitle "BodyWorkoutonly&#128170;&#128170;"
     channelid "UCng__HreDhu1uoSb39CowQw"
@@ -7201,7 +7201,7 @@ graph
     commentcount 0
     duration "PT11S"
     indegree 1
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7245,7 +7245,7 @@ graph
     label "0hMBjf5rrPA"
     step 0
     date "2022-07-10T13:30:01Z"
-    title "10 min Abdominal Workout for RIPPED ABS &#38;amp; OBLIQUES  (BODYWEIGHT)"
+    title "10 min Abdominal Workout for RIPPED ABS OBLIQUES (BODYWEIGHT)"
     description "Here is a perfect legendary 10 minute ab and obliques workout with 7 effective exercises to target your abdominal muscles in just 10 minutes. These exercises can be done by anyone (beginner/advanced) to reveal your abs just follow our program !&#10;&#10;For Best Results Follow Our Program &#8594; Do 2 sets of this workout 4 times per week for a period of 2 weeks to see your results &#128525;&#10;For Maintaining &#38; Improving Your Results after completing our program do two sets of this workout 2-3 times per week.&#10;&#10;TIMESTAMPS      &#10;00:00 MOUNTAIN CROSS CLIMBERS        &#10;01:44 SIDE PLANK ROTATION                      &#10;03:14 HIP RAISE                      &#10;04:44 V UP DOUBLE CRUNCH                        &#10;06:14 REVERSE CRUNCH                         &#10;07:44 RUSSIAN TWISTS                         &#10;09:14 SCISSORS                                                    &#10;&#10;OUR FAVORITE TOOLS FOR CREATORS&#10;&#128640; Best Tool For Keyword Research &#8594; https://www.tubebuddy.com/hmem (Tubebuddy)&#10;&#129488;&#160;Best Tool We Use For Youtube Optimization &#38; Thumbnail Testing &#8594; https://vidiq.com/o7f9jo (vidIQ)&#10;&#128525; Assets (music, vectors, photos etc.) We Use in Our Videos From &#8594; https://1.envato.market/YgG2LK (Envato Elements) &#10;The reason why we love envato elements  is that you can get access to 60+ Million Assets with UNLIMITED downloads per month , pretty cheap and risk free when compared to other sites &#10;&#128161;&#160;Best Online Platform For Building LifeSkills &#8594; https://skillshare.eqcm.net/c/3514742/298081/4650 (SkillShare Free Trial) &#10;If you would like a recommendation then check out  Daniel Scott&#8217;s (adobe certified teacher) courses very high quality and thorough highly recommend !&#10;Use this link to get 30% off annual Skillshare Membership : https://skl.sh/3utuK1w&#10;&#10;Copyright &#169; ONLINE GYM (reusing any part of any content published by this channel is strictly not allowed. Fair use is not applicable.)&#10;&#10;abs, abs workout, abs workout at home, abs and core workout, abs at home, abs and obliques workout, abs beginner workout, abs burning workout, abs beginner, best abs workout, best exercise for abs, abs day workout, abs exercise, abs exercise for men, abs exercise at home, abs everyday, abs exercise for beginners, exercise for abs, extreme abs workout, abs fat burning workout&#10;&#10;DISCLAIMER:&#10;Exercise is not without its risks and this or any other exercise program many result in injury. As with any exercise program, if at any point during your workout you begin to feel faint, dizzy or have physical discomfort, you should stop immediately and consult a medical professional.&#10;Please don&#8217;t take the thumbnails literally as they are optimized to reach the highest number of viewers seeking fitness on youtube. Our thumbnails and titles are not intended to click bait or mislead , when you follow our workouts you are guaranteed to see results but it may differ from one person to another depending on the difference of calorie intake and sleep quality."
     channeltitle "ONLINE GYM"
     channelid "UCE0G4Z9-1PWK0cNKvqJmC0Q"
@@ -7255,7 +7255,7 @@ graph
     commentcount 3
     duration "PT10M19S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7263,7 +7263,7 @@ graph
     label "s2gYOge2S-U"
     step 0
     date "2022-07-06T12:49:45Z"
-    title "ABS WORKOUT AT HOME ( NO JUMPIG EXERCISESE )  8 minute lower ab workout"
+    title "ABS WORKOUT AT HOME ( NO JUMPIG EXERCISESE ) 8 minute lower ab workout"
     description "8 minute lower ab workout"
     channeltitle "Muscle Club"
     channelid "UC4Acc1tCLu0DDe0EnMt300Q"
@@ -7299,7 +7299,7 @@ graph
     label "rJtNGKwp_Js"
     step 0
     date "2022-07-09T15:53:08Z"
-    title "AB WORKOUT At Home (No Equipment) Burn Ab Fat &#38;amp; Muscle Building | Ab Workout"
+    title "AB WORKOUT At Home (No Equipment) Burn Ab Fat Muscle Building | Ab Workout"
     description "abs workout at home by using this abs workout you can do burn ab fat workout and burn ab and lower ab fat and have a fat free ab also with daily workout you can have six pack ab and get rid of ab fat&#10;&#10;fitness&#10;fitness in nature&#10;sport in nature&#10;workout&#10;gym motivation&#10;pilates&#10;trx&#10;gym&#10;motivation&#10;full body workout&#10;fitness marshall&#10;fitness workout&#10;bodybuilding&#10;fitness motivation&#10;full body workout&#10;royal navy&#10;pilates workout&#10;pilates for beginners&#10;pilates bar workout&#10;trx in nature&#10;pilates at home no equipment&#10;pilates workout 30 minutes full body&#10;pilates abs 10 min&#10;at home pilates workout&#10;&#10;&#128071;full body workout&#128071;&#10; https://youtu.be/HplxTJ2I0nA&#10; &#128071; leg workout&#128071;&#10; https://youtu.be/IKKVK25FD3s &#10;&#128071; upper body&#128071;&#10; https://youtu.be/x5c8zL6l0wy&#10; &#128071;curl biceps trx crossfit&#128071;&#10; https://youtu.be/oUyoA9x72ws&#10; &#128071; full body workout&#128071;&#10; https://youtu.be/I3WKuxFF5R8&#10; &#128071;abs workout&#128071;&#10; https://youtu.be/QXSCHrL6Kco&#10;&#128071;leg workout&#128071;&#10;https://youtu.be/34CbKWs15JE&#10;&#128071;abs workout&#128071;&#10;https://youtu.be/K8rucUJIgK4"
     channeltitle "Emily fitness"
     channelid "UCekGT5DYH_Hl4LEyBduJ4bg"
@@ -7309,7 +7309,7 @@ graph
     commentcount 4
     duration "PT5M11S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7345,7 +7345,7 @@ graph
     commentcount 4
     duration "PT8M16S"
     indegree 0
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -7363,7 +7363,7 @@ graph
     commentcount 20
     duration "PT5M23S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7371,7 +7371,7 @@ graph
     label "borJVSQ37Ns"
     step 0
     date "2022-07-11T02:38:01Z"
-    title "Abs Workout For Mens || Men&#38;#39;s Abs Workout Beginners #shorts"
+    title "Abs Workout For Mens || Mens Abs Workout Beginners #shorts"
     description "Abs Workout For Mens || Men's Abs Workout Beginners #shorts&#10;&#10;Hey Guys, Well Come To My Channel RKP FITNESS CLUB. How To Weight Loss Fast, Diet Plan, Lose Weight, Videos Will Be Upload To My Channel Every Day.&#10;&#10;Click Here To Buy These Product&#10;https://tinyurl.com/bdfa8dub&#10;&#10;Check Out My Website To Learn More&#10;https://tinyurl.com/yjuaek7v&#10;&#10;Click Here To Buy These Product&#10;https://amzn.to/3ybPv4i&#10;&#10;Click Here To Buy These Product&#10;https://amzn.to/37eOBZP&#10;&#10;&#10;Your Queries&#10;Abs Workout For Mens &#10;abs workout for men at home &#10;abs workout for men in gym &#10;abs workout for men beginners &#10;abs workout for men shorts &#10;abs workout for men with dumbbells &#10;abs workout for men in morning&#10;abs workout for men in monsoon&#10;abs workout for men at home without equipment &#10;abs workout for men 10 min &#10;abs workout for men at home beginners&#10;men's abs workout at home &#10;men's abs workout beginners &#10;men's abs workout gym &#10;men's abs workout no equipment &#10;men's ab workout with weights &#10;mens ab workout 5 min &#10;mens ab workout 7 min &#10;mens ab workout 20 min &#10;mens ab workout fraser &#10;mens ab workout intense&#10;How to weight loss fast&#10;How to lose weight fast 2022&#10;Rkp Fitness Club&#10;&#10;#absworkoutformens&#10;#men'sabsworkoutbeginners&#10;#men'sabsworkout&#10;#men'sabsexercise&#10;#men'sabsworkouts&#10;#men'sabsexercises&#10;#mensabworkoutfraser&#10;#mensabworkoutintense&#10;#absworkoutformenbeginners&#10;#shorts&#10;#youtubeshorts&#10;#rkpfitnessclub&#10;&#10;&#10;Thanks for watching&#10;&#10;Please subscribe my channel and like, share&#10;&#10;&#10;Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use."
     channeltitle "R K P FITNESS CLUB"
     channelid "UCQSxmQ8c-zGrNpF0mjPY58Q"
@@ -7381,7 +7381,7 @@ graph
     commentcount 0
     duration "PT18S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7399,7 +7399,7 @@ graph
     commentcount 1
     duration "PT10M1S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -7407,7 +7407,7 @@ graph
     label "JmpZUxlQJWI"
     step 0
     date "2022-07-10T09:36:48Z"
-    title "KENDALL JENNER&#38;#39;S AB WORKOUT || 8 MINUTES ||  TONED ABS, NO EQUIPMENT"
+    title "KENDALL JENNERS AB WORKOUT || 8 MINUTES || TONED ABS, NO EQUIPMENT"
     description "8-minute Kendall Jenner ab workout. An intense ab workout with no equipment needed.&#10;&#10;45 Seconds on and 15 seconds rest.&#10;&#10;Exercises:&#10;&#128293;Low Plank&#10;Tip: Simply bend the elbows. And drop to the forearms. The forearm should be parallel to one another to create a fist with your hands. &#10;&#10;&#128293;High Plank&#10;Tip: Spread your fingers to make a wide, stable base. Line up your shoulders over your hands and heels over toes. Hold your body in a straight line from the top of your head down to your heels.&#10;&#10;&#128293;Bicycle Crunch&#10;Tip: Exhale and rotate your trunk, moving your right elbow and left knee toward each other&#10;&#10;&#128293;Toe Touches&#10;Tip: Place your legs straight up, using both hands to reach as far up to your toes.&#10;&#10;&#128293;Side Plank&#10;Tip: Lie on your right side, legs extended and stacked from hip to feet. &#183; Engage your abdominal muscles, drawing your navel toward your spine.&#10;&#10;&#128293;Russian Twist&#10;Tip: Sit with bent knees and your feet pressing firmly into the floor, holding your hands next to your chest. Sit back slightly, keeping your spine straight. Exhale as you twist to the left, punching your right arm over to the left side. Inhale back to center, and then do the opposite side.&#10;&#10;&#128293;Toe Tap To Crunch&#10;Tip: Tap both legs to the ground, when raising them back up crunch up to knees.&#10;&#10;&#10;Subscribe to my channel: https://youtube.com/channel/UCspgttLbEbspsoNl5wFTn-A?sub_confirmation=1&#10;Instagram: instagram.com/trainsuz&#10;Facebook: https://www.facebook.com/groups/trainsuz&#10;TikTok: https://www.tiktok.com/@trainsuz&#10;Twitter: https://twitter.com/trainsuz&#10;Contact (business inquiries):  hello@trainsuz.com&#10;&#10;&#10;Disclaimer&#10;&#10;If you are a complete beginner start with a pace you are comfortable with and then progress. Performing exercises out of your capability might strain your muscles and you may get injured.&#10;&#10;This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. TrainSuz will not be responsible or liable for any injury or harm you sustain as a result of this video."
     channeltitle "trainsuz"
     channelid "UCspgttLbEbspsoNl5wFTn-A"
@@ -7417,7 +7417,7 @@ graph
     commentcount 1
     duration "PT8M12S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7443,7 +7443,7 @@ graph
     label "6wXKKM4Lh2g"
     step 0
     date "2022-07-06T20:24:00Z"
-    title "12 MIN INTENSE AB WORKOUT - Abs &#38;amp; Core, No Repeat Exercises"
+    title "12 MIN INTENSE AB WORKOUT - Abs Core, No Repeat Exercises"
     description "30 of each ab exercise &#10;Upper abs &#10;Lower abs &#10;Middle abs"
     channeltitle "Rush Hour Bootcamp by Sheela"
     channelid "UClEWuCJSucB5WkIsLe-a8Nw"
@@ -7461,7 +7461,7 @@ graph
     label "rOTZNqV43B0"
     step 0
     date "2022-07-09T11:00:33Z"
-    title "Get Sixpack Ab Workout | Get abs in 2 week challenge | How to get abs sixpack Abs"
+    title "Get Si tongue sticking out ack Ab Workout | Get abs in 2 week challenge | How to get abs si tongue sticking out ack Abs"
     description "Try this 10 minute to get sixpack abs workout if you're looking for an&#10;intense ab burn:) you can follow the workout: &#10;&#10;&#128680;Important Links: &#9989; Telegram VIP Group &#128286;: https://t.me/+OoUZu31BbuA2OTE5 &#10;&#10;Channel in Portuguese: https://bit.ly/3PcBdFV&#10;&#10;Other videos that will evaluate your results:&#128293;&#10;&#10; &#9675; Gods V-Cut and Oblique Abs: https://youtu.be/dRvAewAFC5g&#10;&#10; &#9675; COMPLETE ABDOMEN: https://youtu.be/2gD3qq-XViM &#10;&#10;&#9675; HOW TO SET THE ABDOMEN AT HOME: https://youtu.be/no-82CJygyM &#10;&#10;&#9675; PUT ON THE ABDOMEN OF THE GODS: https://youtu.be/aX0g68krHnE &#10;&#10;&#9675; Big Breastplate at home and without equipment: https://youtu.be/WqL6a6Yqpys&#10;&#10; &#9675; My Chest did not grow until I did this...https://youtu.be/Iow39eMdPtQ&#10;&#10; #abs #absworkout #abschallenge  #abdomen #training &#10;&#10;Disclaimer:&#10;To avoid any injuries or harm, make sure you check your health with your doctor before exercising. This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for,&#10;nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form.&#10;Nadson Specter will not be responsible for any injury or harm you sustain as a result of&#10;this video."
     channeltitle "NADSON SPECTER - ENGLISH"
     channelid "UC1QsQKzIhL9ItEZHWnzu7Vw"
@@ -7471,7 +7471,7 @@ graph
     commentcount 0
     duration "PT9M32S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7489,7 +7489,7 @@ graph
     commentcount 5
     duration "PT9M46S"
     indegree 1
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7497,7 +7497,7 @@ graph
     label "qnvjig0HQvM"
     step 0
     date "2022-07-10T03:42:19Z"
-    title "Quick No Equipment Follow Along Ab Workout (Beginner &#38;amp; Intermediate Lvl)"
+    title "Quick No Equipment Follow Along Ab Workout (Beginner Intermediate Lvl)"
     description "#abworkout #lowerabs #sixpackabs &#10;In this video, we will be looking into a 3 min follow-along ab workout to hit all the six-pack ab muscles effectively.&#10; 0:00 Intro&#10;0:39 Follow Along Workout Begins&#10;4:40 Outro&#10;&#10;Atlas Application For Form Correction: https://www.atlasai.co.uk/supple-strength-early-access?&#10;&#10;&#9658;At TheSuppleStrength we aim to optimize human performance by working on mobility, flexibility and strength backed up by balanced nutrition using an evidence-based coaching system under the guidance of our professional coaches.&#10;.&#10;&#9658;For TRAINING with us check out https://www.thesupplestrength.com/&#8203;&#10;.&#10;.&#10;I hope you found it helpful.&#10;STAY SUPPLE STAY STRONG&#10;&#10;FOLLOW ME ON INSTAGRAM:&#10;https://www.instagram.com/keertan_fit&#8203;"
     channeltitle "The Supple Strength"
     channelid "UCwjO-IEBXB-pBGELh0DGF2A"
@@ -7525,7 +7525,7 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 0
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -7551,7 +7551,7 @@ graph
     label "Q_DXjrfXR0I"
     step 0
     date "2022-07-10T04:37:25Z"
-    title "&#127797; 10 Best At-Home Ab Workout Machines (WonderCore, Opti and More)"
+    title " 10 Best At-Home Ab Workout Machines (WonderCore, Opti and More)"
     description "&#127797; 10 Best At-Home Ab Workout Machines (WonderCore, Opti and More) | Lemongrass. Here are our editor picks:&#10;&#10;00:00 Introduction&#10;&#10;00:50 #1 - 2 Home Multi Gym Wondercore (&#163;120.00)&#10;&#128717;&#65039; Shop: https://toplistt.com/bVzZ&#10;&#10;01:33 #2 - Core Abdominal Muscle Fitness Trainer PhysioRoom (&#163;38.49)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/dp/B08671ZS7Z/?tag=lemongrass00-21&#10;&#10;02:09 #3 - WonderCore Smart Thane (&#163;79.99)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/THANE-WonderCore-Smart/dp/B01MY0MRON?tag=lemongrass00-21&#10;&#10;02:44 #4 - Abdominal Trainer bigzzia (&#163;49.99)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/Bigzzia-Abdominal-Roller-Handles-Level-Adjustable-Fitness-Machine-Workout-Training/dp/B08B5ST44F? tag=lemongrass00-21&#10;&#10;03:19 #5 - Ab Exercise Bench Dskeuzeew (&#163;79.99)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/Exercise-Abdominal-Foldable-Equipment-Buttocks/dp/B08VJ9VKMG?tag=lemongrass00-21&#10;&#10;03:57 #6 - Ab Sit Up Bench HOMCOM (&#163;39.99)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/HOMCOM-Folding-Abdominal-Fitness-Exercise/dp/B07B9LXD2F?tag=lemongrass00-21&#10;&#10;04:30 #7 - Twist &#38; Shape (&#163;119.99)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/Twist-Shape-SHAPE01-Fitness-Machine/dp/B06WLHD736?tag=lemongrass00-21&#10;&#10;05:06 #8 - Ab Cruncher Opti (&#163;21.99)&#10;&#128717;&#65039; Shop: https://toplistt.com/STFm&#10;&#10;05:39 #9 - Ab Twist Board KingSaid (&#163;9.99)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/KingSaid-Torsion-Exercise-Reflexology-Rotating/dp/B07PCJKK68/?tag=lemongrass00-21&#10;&#10;06:16 #10 - Self-Suction Sit Up Bar BodyFit (&#163;23.49)&#10;&#128717;&#65039; Amazon: https://www.amazon.co.uk/BodyFit-Assistant-Multi-Function-Adjustable-Equipment/dp/B08WR91MFD/?tag=lemongrass00-21&#10;&#10;06:51 Ending&#10;&#10;------------------------------&#10;Thanks for watching!&#10;LIKE &#38; SUBSCRIBE if you love the channel and follow our latest reviews https://studio.youtube.com/channel/UCqzOTu856n_BtYjiU9ZR0EQ?sub_confirmation=1&#10;&#10;#At-HomeAbWorkoutMachines #At-HomeAbWorkoutMachinesReview #Lemongrass&#10;------------------------------&#10;&#10;An at-home ab workout machine is a great way to achieve all-around health and fitness. An ab workout will strengthen your abdominals, your obliques and your core, making you stronger and fitter with the added bonus of a toned and slender torso and potentially a six-pack! Whether you're a beginner or an expert these exercise machines provide excellent workouts, an awesome addition to your home fitness equipment and a cheaper alternative to a gym membership.&#10;From benches by brands like HomCom to portable equipment by Thane, we've prepared this buying guide to help you find an at-home ab workout machine that suits both your fitness goals and your budget, from the best online retailers including Argos and Amazon.&#10;&#10;------------------------------&#10;DISCLAIMER:&#10;&#10;Portions of footage found in this video are not original content produced by Lemongrass. Portions of stock footage of products were gathered from multiple sources including, manufactures, respected creators and various other sources.&#10;&#10;&#34;All claims, guarantees and product specifications are provided by the manufacturer or vendor. Lemongrass cannot be held responsible for these claims, guarantees or specifications&#34;&#10;&#10;Disclosure: Links are affiliate links to products. I may receive a small commission for purchases made through these links."
     channeltitle "Lemongrass UK"
     channelid "UCqzOTu856n_BtYjiU9ZR0EQ"
@@ -7561,7 +7561,7 @@ graph
     commentcount 0
     duration "PT7M10S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7597,7 +7597,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7605,7 +7605,7 @@ graph
     label "q7ojdRCXw4M"
     step 0
     date "2022-07-09T02:04:26Z"
-    title "Chest and ab&#38;#39;s workout #bodybuilding #bodyworkout"
+    title "Chest and abs workout #bodybuilding #bodyworkout"
     description ""
     channeltitle "BodyWorkoutonly&#128170;&#128170;"
     channelid "UCng__HreDhu1uoSb39CowQw"
@@ -7615,7 +7615,7 @@ graph
     commentcount 0
     duration "PT5S"
     indegree 1
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7641,7 +7641,7 @@ graph
     label "adSgxVinzdg"
     step 0
     date "2022-07-11T09:23:50Z"
-    title "Six Pack Ab workout &#38;amp; Diet plan ! Great workout for Great Abs"
+    title "Six Pack Ab workout Diet plan ! Great workout for Great Abs"
     description "Asalam o Alekum Everyone !&#10;Welcome to the world of Mr. Entertainment This video is about creating Six pack abs &#10;&#10;you can make amazing Body shape &#10;Like, and Subscribe to Mr. Entertainment for earning more tips&#10;Six Pack Ab Workout &#38; Diet paln | Great Workouts For&#10;Great Abs&#10;&#10;Great Belt for Women Men, Upgrade No Need Replace Pad AB machine Abs Workout Equipment 6 Modes 15 Intensity Levels : &#10;&#10;link( https://amzn.to/3yUrUVO) &#10;&#10;.&#10;.&#10;.&#10;#fitness #gym #workout #fitnessmotivation #motivation #bodybuilding #training #health #love #lifestyle #instagood #fitfam #healthylifestyle #sport #gymlife #healthy #gymmotivation #personaltrainer #crossfit"
     channeltitle "Mr Entertainment"
     channelid "UC6VmvDNiIplq8VofvHJ5l-w"
@@ -7677,7 +7677,7 @@ graph
     label "Tul6Tuv_ksk"
     step 0
     date "2022-07-09T15:47:50Z"
-    title "#sixpack #fitness #absworkout | abs workout at gym | core exercises | belly fat burn #short"
+    title "#si tongue sticking out ack #fitness #absworkout | abs workout at gym | core exercises | belly fat burn #short"
     description "abs workout at gym  | how to lose belly fat  | how to get rid of belly fat  | how to build six-pack | core strength exercise  | six-pack abs workout| belly fat burn exercise&#10;&#10;#shorts&#10;#ytshort&#10;#fitness&#10;#workout &#10;#fitnessmotivation&#10;#exercise&#10;#gym&#10;#homeworkout&#10;#shortfeed&#10;&#10;ab workout&#10;lower abs workout&#10;intense ab workout&#10;how to get abs&#10;Abs workout at gym&#10;six pack abs&#10;abs workout at home&#10;how to lose belly fat&#10;how to get rid of belly fat&#10;Stomach exercises to lose belly fat&#10;Core workout&#10;sixpack workout&#10;Sixpack &#10;workout music"
     channeltitle "Vishwas Fitness"
     channelid "UCe4S3cUCRi_BeiBA-Vyb4ow"
@@ -7687,7 +7687,7 @@ graph
     commentcount 1
     duration "PT24S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     commentcount 0
     duration "PT12M9S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7777,7 +7777,7 @@ graph
     commentcount 0
     duration "PT6M8S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7795,7 +7795,7 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7821,7 +7821,7 @@ graph
     label "42-77g_faDk"
     step 0
     date "2022-07-10T05:00:37Z"
-    title "Abs workout, &#128293;&#128293;&#128293;burn your belly fat at Home Without any Equipment #shorts"
+    title "Abs workout, burn your belly fat at Home Without any Equipment #shorts"
     description "#shorts #abs #workout &#10;Abs workout, &#128293;&#128293;&#128293;burn your belly fat at Home Without any Equipment"
     channeltitle "Stay fit E"
     channelid "UCiM_QtYgkygVUF027GTc7lA"
@@ -7831,7 +7831,7 @@ graph
     commentcount 0
     duration "PT48S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -7885,7 +7885,7 @@ graph
     commentcount 0
     duration "PT19S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -7893,7 +7893,7 @@ graph
     label "kdr1KLfzCIE"
     step 0
     date "2022-07-08T14:00:12Z"
-    title "BEST ABS WORKOUT AT HOME  (no equipment)"
+    title "BEST ABS WORKOUT AT HOME (no equipment)"
     description "8 min Abs workout at home  you can do anywhere no equipment necessary.&#10;This workout is great to do if you're looking to get six pack abs at home without equipment.&#10;&#10;Complete four or five times every week.&#10;&#10;&#10; How to get six pack: https://youtu.be/ebKjmzAM6NA&#10;4 min AB workout: https://youtu.be/pKc-HFqLg5Y&#10;Full body workout: https://youtu.be/SuQAYFwFFpA&#10;&#10;&#10;&#10;#sixpackabs  #absworkout  #Abs"
     channeltitle "Abdellah Boughazoual"
     channelid "UCDTyrU9VP0Y_OLKeIthk3_Q"
@@ -7911,7 +7911,7 @@ graph
     label "nDRlkhE0PU4"
     step 0
     date "2022-07-07T03:35:00Z"
-    title "ABS Abs workout at gym won&#38;#39;t get best ABS to impress your friends do this #tiktok #workout #abs"
+    title "ABS Abs workout at gym wont get best ABS to impress your friends do this #tiktok #workout #abs"
     description ""
     channeltitle "HATE ME X9"
     channelid "UCyLOITUmkJUt8Ulu353mmLA"
@@ -7965,7 +7965,7 @@ graph
     label "xE3aMWTjNsE"
     step 0
     date "2022-07-11T01:15:06Z"
-    title "fat lose , biceps triceps chest and ab&#38;#39;s workout at home #biceps #triceps #chest #abs #rikkirajpoot"
+    title "fat lose , biceps triceps chest and abs workout at home #biceps #triceps #chest #abs #rikkirajpoot"
     description ""
     channeltitle "RikkiRajpoot "
     channelid "UC0tSe4U6Bq6msRckWOWjadw"
@@ -8019,7 +8019,7 @@ graph
     label "H0f8NlfguFc"
     step 0
     date "2022-07-10T08:50:30Z"
-    title "biceps back chest and ab&#38;#39;s workout &#128170;&#128170; #abs #short #bodybuildingonly #bodybuilding #gym #fitness"
+    title "biceps back chest and ab #abs #short #bodybuildingonly #bodybuilding #gym #fitness"
     description "biceps back chest and ab's workout &#128170;&#128170; #abs #short #bodybuildingonly #bodybuilding #gym #fitness all abs workout # #bodybuildingonlychest workout and ab's workout #bodybuildingonlychest workout &#128170;&#128170;&#128170; #bodybuildingonly7 time Mr Olympia &#128525;  Phil heath motivation &#128293; for gym sharks &#129327;&#128170;fitness video center india &#127470;&#127475; #shorts #video #fitness #gymbody #gymlife #youtube #viral #gymloverABDOMEN Exercise #shorts #shortfeeds #youtubeshorts #exercise #fitness #gymfitness #workout&#10;&#10;No.1bodybuilder in the world||mukesh choudhary bodybuilder #shorts #fitness #gym #gymmotivation #gym&#10;#shorts #viral #trending #trendingshorts #bodybuilder #bodybuilding #youtubeshorts #ytshorts #viralshorts&#10;No.1bodybuilder in the world||mukesh choudhary bodybuilder #shorts #fitness #gym #gymmotivation #gym&#10;ABDOMEN Exercise #shorts #shortfeeds #youtubeshorts #exercise #fitness #gymfitness #workout&#10;&#10;no.1bodybuilder in the world&#10;no.1bodybuilder in the world 2022&#10;no.1bodybuilder in the india&#10;no.1bodybuilder in the world 2021&#10;no.1bodybuilder in india&#10;no.1body grow&#10;no.1body spray in the body&#10;no.1 body in the bollywood&#10;no.1 body lotion in tha india&#10;no.1 bodybuilder in the world all time&#10;no.1 body&#10;no.1 body in world&#10;bodybuilder video&#10;bodybuilder song&#10;bodybuilder reels&#10;bodybuilder motivational video&#10;bodybuilder motivational reel&#10;bodybuilder tik tok&#10;bodybuilder status&#10;bodybuilder enstagram reels&#10;bodybuilder in police reaction india&#10;bodybuilder fitnas workout&#10;bodybuilder attitudee&#10;&#10;&#10;&#10;&#10;Your Query :-&#10;&#10;no.1bodybuilder in the world&#10;no.1bodybuilder in the world 2022&#10;no.1bodybuilder in the india&#10;no.1bodybuilder in the world 2021&#10;no.1bodybuilder in india&#10;no.1body grow&#10;no.1body spray in the body&#10;no.1 body in the bollywood&#10;no.1 body lotion in tha india&#10;no.1 bodybuilder in the world all time&#10;no.1 body&#10;no.1 body in world&#10;bodybuilder video&#10;bodybuilder song&#10;bodybuilder reels&#10;bodybuilder motivational video&#10;bodybuilder motivational reel&#10;bodybuilder tik tok&#10;bodybuilder status&#10;bodybuilder enstagram reels&#10;bodybuilder in police reaction india&#10;bodybuilder fitnas workout&#10;bodybuilder attitudee&#10;&#10;&#10;Mukesh choudhary l#bodybuilder#bodybuilding&#160;#shorts&#160;#fitness#viralshort&#160;#gm&#160;#ytshortsindia&#10;Mukesh choudhary l#bodybuilder #bodybuilding #shorts #fitness #viralshort #gm #ytshortsindia&#10;#shorts #shorts #bodybuilding #fitnessmotivation #mukeshchaudhary #fitness #mukeshchaudhary #bodybuilding #fitnessmotivation #bodybuilder #youtubeshorts #fitness #youtubeshorts #shorts #shorts #shorts #shorts #shorts #bodybuilding #shorts #bodybuilding #bodybuilding #fitnessmotivation #fitnessmotivation #fitnessmotivation #fitnessmotivation #youtubeshorts #youtubeshorts #youtubeshorts #youtubeshorts #viralshort #viralshort #viralshort #viralshort #mukeshchaudhary&#10;&#10;&#10;&#10;&#10;tags &#128071;&#128071;&#10;&#10;#rejection #love #motivation #quotes #selflove #inspiration #mentalhealth #depression #rejected #anxiety #healing #memes #success #faith #relationships #life #hurt #loveyourself #rejectionquotes #acceptance #relationship #instagood #funnymemes #motivationalquotes #bhfyp #rejectionhurts #meme #rejectionmeme #failure #bhfyp#dankmemes #relatablememes #loveadvise #friendzoneadvise #friendzone #kerala #christian #sad #fear #friendzonememe #jesus #hope #writersofinstagram #selfcare #wisdom #mentalhealthawareness #quoteoftheday #heart #truth #thoughts #poetry #forgiveness #lovequotes #sgmeme #believe #feelings #instagram #singaporememes #sgag #dil#fitnessmotivation #fitness #workout #gym #fit #motivation #bodybuilding #fitfam #training #gymlife #gymmotivation #healthylifestyle #fitnessjourney #fitnessmodel #lifestyle #fitnessgirl #health #personaltrainer #love #instagood #muscle #fitnessaddict #healthy #instafit #fitspo #exercise #crossfit #weightloss #sport #bhfyp#workoutmotivation #fitnesslife #like #fitnesslifestyle #bhfyp #instagram #goals #fitlife #fitnessgoals #happy #life #cardio #strong #inspiration #weightlossjourney #abs #yoga #photooftheday #photography #gains #nutrition #healthyfood #homeworkout #fitgirl #nevergiveup #bodybuilder #strength #nopainnogain #running #model&#10;&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. &#34; I personally do not own this song and the clips used in this video,the copyrights credit goes to the respective owners only   &#10;&#10;&#10;thanks for you &#10;please channel ko subscribe Jarur kar dena yaar&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#128591;&#128591;&#128525;&#128077;&#127997;&#128077;&#127997;&#9995;&#9995;"
     channeltitle "No.1bodybuilder Mukesh Choudhary"
     channelid "UCmb8KuXv_5Ucs73uEdyBkGA"
@@ -8029,7 +8029,7 @@ graph
     commentcount 4
     duration "PT7S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -8073,7 +8073,7 @@ graph
     label "9DSiY2OibL8"
     step 0
     date "2022-07-07T12:45:00Z"
-    title "Lose Belly Fat &#38;amp; Get ABS | 15 min Beginner AB Workout Routine for Weight Loss, No Equipment OppServe"
+    title "Lose Belly Fat Get ABS | 15 min Beginner AB Workout Routine for Weight Loss, No Equipment OppServe"
     description "Best flat stomach exercises &#38; ABS workout for beginners! &#128071;&#127995;PowerVision &#38; Zyviz-&#128071;&#127995;&#10;Get 20% off with Amazon Discount Code: OppServe https://amzn.to/3tVfV7G [2022/6/23~2023/6/23]  PowerVision Official : https://bit.ly/3xRcu37&#10;++++++++++&#10;Calling all Malaysian KOLs &#128227;&#128227;&#128227;&#10;Want to get revenue even from your unsponsored videos?&#10;&#10;Join Zyviz.com contract free, and get RM200 or more on your first upload (with our AI inserted ad)! &#10;https://tinyurl.com/zyviz-mykol2022-oppserve&#10;++++++++++&#10;&#10;* Remember to engage in your abs instead of momentum * &#10;#HomeWorkout #LowerBellyWorkout #beginnerworkout &#10;#workoutchallenge #absworkout  #smallwaist #smallerwaist #slimwaist #abs&#10;-------------------------------------------------------------------------------------------------------&#10;My other free workout programs &#128166;&#128170;&#127996;&#10;&#10;&#9658; 28 days Hot Girl Challenge &#10;https://youtu.be/Z5Cm9pKIxjY&#10;&#10;&#9658; All of my Upper Body Workouts / Stretches (Playlist)&#10;https://www.youtube.com/watch?v=_7hkx2cxB28&#38;list=PLuaE-UY_8We_PyfGkkrzbI6UG9x7qcIk0&#10;&#10;&#9658;All of my Lower body Workouts (Playlist)&#10;https://www.youtube.com/watch?v=Mjn2r4Mo37s&#38;list=PLuaE-UY_8We_ljjMkkQIC3ZJRlvSmrVOl&#10;&#10;&#9658;All of my Full body workouts / HIIT (Playlist)&#10;https://www.youtube.com/watch?v=mR1Gixa8Uco&#38;list=PLuaE-UY_8We-wG3_cGClI2f7YsbE9l5-3&#10;&#10;-------------------------------------------------------------------------------------------------------&#10;If u enjoyed our videos, welcome to give us a SuperThanks &#10084;&#65039; Thank you very much for showing your support!! It motivates us &#38; provides us better resources to create more new good content &#129392;&#10024;"
     channeltitle "OppServe"
     channelid "UCqgvtXUdw9j4FS4ycUq64bQ"
@@ -8119,7 +8119,7 @@ graph
     commentcount 0
     duration "PT11M18S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -8155,7 +8155,7 @@ graph
     commentcount 0
     duration "PT14S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -8181,7 +8181,7 @@ graph
     label "0KLKt2kYgtw"
     step 0
     date "2022-07-09T10:43:33Z"
-    title "Another ABS olutely killer ab workout coming your way &#128293;"
+    title "Another ABS olutely killer ab workout coming your way "
     description ""
     channeltitle "The Zeal"
     channelid "UCx0vgtkEO5ZkTJyCm_ZdG-w"
@@ -8191,7 +8191,7 @@ graph
     commentcount 0
     duration "PT14S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   edge
   [

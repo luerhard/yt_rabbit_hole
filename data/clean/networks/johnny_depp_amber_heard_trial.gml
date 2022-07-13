@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:24 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:33:59 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "hmiiRnW1EaE"
     step 0
     date "2022-07-12T01:10:04Z"
-    title "Johnny Depp&#38;#39;s Attorneys SLAM Amber Heard&#38;#39;s Motion for New Trial | E! News"
+    title "Johnny Depps Motion for New Trial | E! News"
     description "Johnny Depp's legal team files an opposition to his ex's allegations that a juror should not have been allowed to serve on the panel. Get the details.&#10;&#10;Full Story: https://www.eonline.com/videos/341867/johnny-depps-attorneys-slam-amber-heards-motion-for-new-trial&#10;&#10;#JohnnyDepp #AmberHeard #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub&#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;Johnny Depp's Attorneys SLAM Amber Heard's Motion for New Trial | E! News&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -73,7 +73,7 @@ graph
     commentcount 9133
     duration "PT8H49M21S"
     indegree 9
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -207,7 +207,7 @@ graph
     label "YCw_dYSIeP4"
     step 0
     date "2022-06-01T19:51:48Z"
-    title "Johnny Depp WINS Defamation Lawsuit Against Amber Heard &#8212; WATCH the Verdict"
+    title "Johnny Depp WINS Defamation Lawsuit Against Amber Heard WATCH the Verdict"
     description "The jury has reached a verdict in Johnny Depp and Amber Heard&#8217;s defamation case. The jury found in favor of Depp, agreeing that it was defamation when Amber Heard called him an abuser in a 2018 op-ed piece about domestic abuse survivors. He was awarded $10 million in compensatory damages and $5 million (reduced to $350,000 due to a statutory cap) in punitive damages. Heard had a partial win in her countersuit, as the jury awarded her $2 million in compensatory damages."
     channeltitle "extratv"
     channelid "UCVr-TwiGNnveWyOouIyz2fQ"
@@ -235,7 +235,7 @@ graph
     commentcount 10849
     duration "PT8H31M55S"
     indegree 37
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 7033
     duration "PT8H43M12S"
     indegree 20
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 2361
     duration "PT8H54M29S"
     indegree 17
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 25
     duration "PT2M28S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -351,7 +351,7 @@ graph
     label "PnMcVOAzYz8"
     step 0
     date "2022-06-21T21:00:25Z"
-    title "Johnny Depp v. Amber Heard: The Only Unbiased Account of The Trial &#38;amp; Evidence (Prime Crime)"
+    title "Johnny Depp v. Amber Hear tongue sticking out The Only Unbiased Account of The Trial Evidence (Prime Crime)"
     description "On a brand new episode of Prime Crime, the Law&#38;Crime Network&#8217;s Jesse Weber breaks down, from start to finish, the defamation trial watched around the world: Johnny Depp v. Amber Heard.&#10;&#10;#JohnnyDepp #AmberHeard #PrimeCrime &#10;&#10;STAY UP-TO-DATE WITH THE LAW&#38;CRIME NETWORK:&#10;Watch Law&#38;Crime Network on YouTubeTV: https://bit.ly/3td2e3y&#10;Where To Watch Law&#38;Crime Network: https://bit.ly/3akxLK5&#10;Sign Up For Law&#38;Crime's Daily Newsletter: https://bit.ly/LawandCrimeNewsletter&#10;Read Fascinating Articles From Law&#38;Crime Network: https://bit.ly/3td2Iqo&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -361,7 +361,7 @@ graph
     commentcount 2633
     duration "PT45M24S"
     indegree 22
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -405,7 +405,7 @@ graph
     label "pwrVvzaZWOE"
     step 0
     date "2022-07-12T01:27:30Z"
-    title "Johnny Depp Fires Back at Amber Heard in Court Filing, Heard&#38;#39;s Insurance Company Sues Her"
+    title "Johnny Depp Fires Back at Amber Heard in Court Filing, Heards Insurance Company Sues Her"
     description "Johnny Depp's legal team filed a response to Amber Heard's request for a new trial or to dismiss the verdict. Plus, Heard's insurance company is suing her to avoid paying damages to Depp, claiming that she acted &#34;willfully.&#34; The Law&#38;Crime Network's Angenette Levy has the latest on this story.&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Host:&#10;Angenette Levy: https://twitter.com/Angenette5&#10;&#10;Guest:&#10;Katherine Lizardo, Attorney: https://twitter.com/klizardoesq &#10;&#10;LAW&#38;CRIME SIDEBAR PRODUCTION:&#10;YouTube Management - Bobby Szoke&#10;Podcasting - Sam Goldberg&#10;Video Editing - Michael Deininger &#10;Guest Booking - Alyssa Fisher&#10;Social Media Management - Kiera Bronson&#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime &#10;&#10;STAY UP-TO-DATE WITH THE LAW&#38;CRIME NETWORK:&#10;Watch Law&#38;Crime Network on YouTubeTV: https://bit.ly/3td2e3y&#10;Where To Watch Law&#38;Crime Network: https://bit.ly/3akxLK5&#10;Sign Up For Law&#38;Crime's Daily Newsletter: https://bit.ly/LawandCrimeNewsletter&#10;Read Fascinating Articles From Law&#38;Crime Network: https://bit.ly/3td2Iqo&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -423,7 +423,7 @@ graph
     label "lWemP4LM0Cg"
     step 0
     date "2022-05-27T19:35:27Z"
-    title "Johnny Depp v. Amber Heard: FULL Closing Arguments"
+    title "Johnny Depp v. Amber Hear tongue sticking out FULL Closing Arguments"
     description "Johnny Depp v. Amber Heard: FULL Closing Arguments &#10;&#10;More from Entertainment Tonight: https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g?sub_confirmation=1&#10;&#10;Exclusives from #ETonline :&#10;https://www.youtube.com/playlist?list=PLQwITQ__CeH2Y_7g2xeiNDa0vQsROQQgv"
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -433,7 +433,7 @@ graph
     commentcount 3377
     duration "PT6H10M46S"
     indegree 8
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -451,7 +451,7 @@ graph
     commentcount 1440
     duration "PT8H1M"
     indegree 21
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -495,7 +495,7 @@ graph
     label "NMI4sDjP2HA"
     step 0
     date "2022-05-19T22:18:34Z"
-    title "Johnny Depp v. Amber Heard Defamation Trial Continues &#8211; Day 20 | LIVE"
+    title "Johnny Depp v. Amber Heard Defamation Trial Continues Day 20 | LIVE"
     description "**Warning: This live stream will contain details some may find disturbing. Please watch at your own discretion.**&#10;&#10;Happening in court:&#10;&#10;The defamation trial between Johnny Depp and Amber Heard continues for week 4 as Amber Heard continues her testimony.&#10;&#10;Depp sued Heard for $50 million following a December 2018 op-ed in the Washington Post in which she accused him of domestic abuse, despite not naming him. Amber has now countersued the actor for $100 million.&#10;&#10;The trial is expected to take six weeks, with testimonies expected from Paul Bettany. Elon Musk and James Franco will no longer testify. Both Heard and Depp, who has denied abusing Heard, will also take the stand.&#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;SUBSCRIBE to our channel:&#10;&#10;https://www.youtube.com/user/ETCanadaOfficial&#10;&#10;FOLLOW us here:&#10;&#10;http://www.etcanada.com&#10;&#10;Facebook: https://www.facebook.com/etcanada&#10;&#10;Twitter: http://www.twitter.com/etcanada&#10;&#10;Instagram: http://www.instagram.com/etcanada&#10;&#10;TikTok: https://www.tiktok.com/@etcanada"
     channeltitle "ET Canada"
     channelid "UCKY5PiEq8Tl9r7f3qittXng"
@@ -523,7 +523,7 @@ graph
     commentcount 3038
     duration "PT12M31S"
     indegree 42
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -549,7 +549,7 @@ graph
     label "4NclFGav65E"
     step 0
     date "2022-05-16T22:13:25Z"
-    title "Johnny Depp Trial: Amber Heard FULL Testimony &#38;amp; Cross Examination (Day 16)"
+    title "Johnny Depp Trial: Amber Heard FULL Testimony Cross Examination (Day 16)"
     description "WATCH LIVE: Johnny Depp v. Amber Heard Defamation Trial&#10;&#10;More from Entertainment Tonight: https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g?sub_confirmation=1&#10;&#10;Exclusives from #ETonline :&#10;https://www.youtube.com/playlist?list=PLQwITQ__CeH2Y_7g2xeiNDa0vQsROQQgv"
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -585,7 +585,7 @@ graph
     label "jzihWSvZPWU"
     step 0
     date "2022-05-20T02:30:18Z"
-    title "Johnny Depp&#38;#39;s Former Psychiatrist &#38;amp; Amber Heard&#38;#39;s Former Talent Agent Testify (Depp v Heard Trial)"
+    title "Johnny Depps Former Talent Agent Testify (Depp v Heard Trial)"
     description "During the defamation trial on Thursday, multiple pre-recorded depositions of witnesses called by Amber Heard's team were played in court. The witnesses include Johnny Depp's former psychiatrist, Heard's former attorney, and her former talent agent. &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://podcasts.apple.com/us/podcast/law-crime-sidebar/id1620223164&#10;Spotify: https://open.spotify.com/show/0oAia385Ax5odjypagFZIA?si=G2imwkZMT7q6xvIFYgRm1w&#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -595,7 +595,7 @@ graph
     commentcount 2044
     duration "PT1H9M15S"
     indegree 4
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -603,7 +603,7 @@ graph
     label "anE2U-q8mxM"
     step 0
     date "2022-05-18T22:14:10Z"
-    title "Johnny Depp Trial: Amber Heard&#38;#39;s Sister Testifies (Full Day 18)"
+    title "Johnny Depp Trial: Amber Heards Sister Testifies (Full Day 1 smiley "
     description "WATCH LIVE: Johnny Depp v. Amber Heard Defamation Trial&#10;&#10;More from Entertainment Tonight: https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g?sub_confirmation=1&#10;&#10;Exclusives from #ETonline :&#10;https://www.youtube.com/playlist?list=PLQwITQ__CeH2Y_7g2xeiNDa0vQsROQQgv"
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -631,7 +631,7 @@ graph
     commentcount 1349
     duration "PT3H9M21S"
     indegree 47
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -639,7 +639,7 @@ graph
     label "aLijtnMLRg0"
     step 0
     date "2022-05-10T02:00:00Z"
-    title "Top Moments of Johnny Depp &#38;amp; Amber Heard Defamation Trial So Far"
+    title "Top Moments of Johnny Depp Amber Heard Defamation Trial So Far"
     description "Law&#38;Crime presents a compilation of the top moments of the Johnny Depp and Amber Heard defamation trial so far. During the last four weeks of the trial, we've seen a variety of witnesses with different backgrounds and relationships with Depp and Heard. Multiple key moments consist of occurrences that some have found shocking and even funny. Currently, the court is on break this week and will return on May 16 at 9AM EST. &#10;&#10;#JohnnyDepp #AmberHeard #TopMoments&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -649,7 +649,7 @@ graph
     commentcount 936
     duration "PT11M11S"
     indegree 26
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -675,7 +675,7 @@ graph
     label "4hzL1ETjrOk"
     step 0
     date "2022-04-12T22:14:13Z"
-    title "WATCH LIVE: Johnny Depp v Amber Heard Defamation Trial - Christi Dembrowski - Johnny Depp&#38;#39;s Sister"
+    title "WATCH LIVE: Johnny Depp v Amber Heard Defamation Trial - Christi Dembrowski - Johnny Depps Sister"
     description "LIVE COVERAGE: Johnny Depp v Amber Heard Defamation Trial&#10;&#10;Happening in court:&#10;Plaintiff Opening Statement - Benjamin Chew&#10;Plaintiff Opening Statement - Camille Vasquez&#10;Break&#10;Respondent Opening Statement-J Benjamin Rottenborn-Amber Heard&#8217;s Attorney&#10;Opening Statement - Elaine Bredehoft - Amber Heard&#8217;s Attorney&#10;LUNCH BREAK &#10;Christi Dembrowski - Johnny Depp's Sister&#10;&#10;Actor Johnny Depp is suing ex-wife Amber Heard for $50 million  for defamation in connection with Heard&#8217;s 2018 Washington Post op-ed, in which she spoke out about being the victim of domestic violence. Heard&#8217;s article did not specifically name Depp as her alleged abuser, but according to Depp&#8217;s lawsuit, it relied &#8220;on the central premise that Ms. Heard was a domestic abuse victim and that Mr. Depp perpetrated domestic violence against her.&#8221; Amber Heard is counter-suing Depp for $100 million. &#10;&#10;The defamation trial began Monday in Fairfax County Circuit Court in Virginia, with jury selection completing on the same day. There is a possibility of celebrity witnesses testifying, including James Franco and Elon Musk. Tune in to the Law&#38;Crime Network for daily coverage of this high-profile trial. &#10;&#10;#JohnnyDepp #AmberHeard"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -721,7 +721,7 @@ graph
     commentcount 619
     duration "PT7H28M57S"
     indegree 25
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -729,7 +729,7 @@ graph
     label "QDbaqB7tfUY"
     step 0
     date "2022-05-27T22:00:10Z"
-    title "Amber Heard&#38;#39;s Team Presents Their Closing Arguments in Defamation Trial (Depp v. Heard)"
+    title "Amber Heards Team Presents Their Closing Arguments in Defamation Trial (Depp v. Heard)"
     description "After Johnny Depp's lawyer finished their initial closing arguments, Amber Heard's team presented their closing arguments in the defamation trial on Friday. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime &#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -747,7 +747,7 @@ graph
     label "S57C1nAGOHQ"
     step 0
     date "2022-04-20T03:36:07Z"
-    title "Watch Johnny Depp&#8217;s Testimony From the Amber Heard Defamation Trial (Highlights)"
+    title "Watch Johnny Depps Testimony From the Amber Heard Defamation Trial (Highlights)"
     description "Watch Johnny Depp testify in his ongoing defamation lawsuit against ex-wife Amber Heard. The 'Pirates of the Caribbean' actor discusses his and Heard's tumultuous marriage, as well as his relationship with her family.&#10;&#10;Exclusives from #EntertainmentTonight &#10;https://www.youtube.com/playlist?list=PLQwITQ__CeH2Y_7g2xeiNDa0vQsROQQgv"
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -757,7 +757,7 @@ graph
     commentcount 3324
     duration "PT19M53S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -765,7 +765,7 @@ graph
     label "avvNRswHDks"
     step 0
     date "2022-05-27T18:25:58Z"
-    title "Johnny Depp&#38;#39;s Team Presents Closing Arguments in Defamation Trial (Depp v. Heard)"
+    title "Johnny Depps Team Presents Closing Arguments in Defamation Trial (Depp v. Heard)"
     description "On Friday, Johnny Depp's team presented their closing arguments in the defamation trial. With the trial is coming to a close, Depp's team summarized all the key points presented throughout the trial, along with Heard's team's inconsistencies. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -793,7 +793,7 @@ graph
     commentcount 343
     duration "PT8H11M"
     indegree 11
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -801,7 +801,7 @@ graph
     label "l4gKnAM-PA0"
     step 0
     date "2022-05-18T01:10:21Z"
-    title "Amber Heard Cross-Examined by Johnny Depp&#38;#39;s Lawyer | Part Two - Day 17 (Depp v Heard)"
+    title "Amber Heard Cross-Examined by Johnny Depps Lawyer | Part Two - Day 17 (Depp v Heard)"
     description "During the defamation trial on Tuesday, the cross-examination of Amber Heard continued. Heard was questioned by Johnny Depp's lawyer Camille Vasquez about a variety of incidents and her testimony. After cross-examination concluded, Heard's attorney conducted redirect examination. &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS:&#10;Coptales&#38;Cocktails Apple Podcast: &#10;https://podcasts.apple.com/us/podcast/coptales-and-cocktails/id1561611947&#10;Law&#38;Crime Sidebar: &#10;https://podcasts.apple.com/us/podcast/law-crime-sidebar/id1620223164&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -829,7 +829,7 @@ graph
     commentcount 4212
     duration "PT6M47S"
     indegree 11
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -837,7 +837,7 @@ graph
     label "dutjKK2KzB8"
     step 0
     date "2022-05-23T23:34:30Z"
-    title "WATCH LIVE: Day 20 - Johnny Depp &#38;amp; Amber Heard Trial: Witnesses for Heard Take the Stand | E! News"
+    title "WATCH LIVE: Day 20 - Johnny Depp Amber Heard Trial: Witnesses for Heard Take the Stand | E! News"
     description "Amber Heard's legal team continues to make their case with more witnesses taking the stand in support of Amber.&#10;&#10;After a U.S. judge ruled to continue Johnny Depp's libel suit against ex-wife Amber Heard, Heard's legal team continues to present their case with witnesses taking the stand to corroborate Amber's testimony. Depp is suing Heard for $50 million over a 2018 opt-ed she wrote in The Washington Post describing herself as a &#34;public figure representing domestic abuse&#34; and Johnny claims her article defamed him and cost him Pirates 6. Heard is countersuing Depp for $100 million.&#10;&#10;#JohnnyDepp #AmberHeard #Livestream #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub &#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;WATCH LIVE: Day 20 - Johnny Depp &#38; Amber Heard Trial: Witnesses for Heard Take the Stand | E! News&#10;https://youtu.be/dutjKK2KzB8&#10;&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -873,7 +873,7 @@ graph
     label "TV_WNwqMVfA"
     step 0
     date "2022-05-26T16:30:48Z"
-    title "WATCH LIVE: Day 23 - Johnny Depp &#38;amp; Amber Heard Trial: Amber Heard Takes the Stand Again | E! News"
+    title "WATCH LIVE: Day 23 - Johnny Depp Amber Heard Trial: Amber Heard Takes the Stand Again | E! News"
     description "A U.S. judge ruled to have the jury hear Amber Heard's $100 million counter claim against Johnny Depp. Depp's legal team calls witnesses to testify.&#10;&#10;Depp is suing Heard for $50 million over a 2018 opt-ed she wrote in The Washington Post describing herself as a &#34;public figure representing domestic abuse&#34; and Johnny claims her article defamed him and cost him Pirates 6. Heard is countersuing Depp for $100 million.&#10;&#10;Taking the stand today:&#10;&#10;Dr. Richard Gilbert, MD&#10;Julian Ackert, Computer Expert&#10;Dr. Dawn Hughes, Clinical Psychologist &#10;Amber Heard&#10;&#10;#JohnnyDepp #AmberHeard #Livestream #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub &#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;WATCH LIVE: Day 23 - Johnny Depp &#38; Amber Heard Trial: Amber Heard Takes the Stand Again | E! News&#10;https://youtu.be/nMaFe3G6Etw&#10;&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -909,7 +909,7 @@ graph
     label "KBt8AHU_mAQ"
     step 0
     date "2022-05-17T17:15:00Z"
-    title "Amber Heard Cross-Examined by Johnny Depp&#38;#39;s Lawyer | Part One - Day 17 (Depp v Heard)"
+    title "Amber Heard Cross-Examined by Johnny Depps Lawyer | Part One - Day 17 (Depp v Heard)"
     description "During the defamation trial on Tuesday, the cross-examination of Amber Heard continued. Heard was questioned by Johnny Depp's lawyer Camille Vasquez about a variety of incidents and her testimony. &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS:&#10;Coptales&#38;Cocktails Apple Podcast: &#10;https://podcasts.apple.com/us/podcast/coptales-and-cocktails/id1561611947&#10;Law&#38;Crime Sidebar: &#10;https://podcasts.apple.com/us/podcast/law-crime-sidebar/id1620223164&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -945,7 +945,7 @@ graph
     label "bJq-QpDwKqo"
     step 0
     date "2022-06-01T20:20:10Z"
-    title "Johnny Depp-Amber Heard trial: Johnny Depp&#8217;s legal team reacts to defamation verdict | FOX 5 DC"
+    title "Johnny Depp-Amber Heard trial: Johnny Depps legal team reacts to defamation verdict | FOX 5 DC"
     description "Johnny Depp's lawyers spoke outside of a Fairfax County courtroom after a jury awarded Depp $15 million in his defamation lawsuit against his ex-wife Amber Heard. The lawyers said they were happy with the verdict, and thanked the jurors and judge who took part in the trial. They also thanked Depp's fans for their support during the trial. THE LATEST: https://bit.ly/3m8jF1j&#10;&#10;STAY CONNECTED:&#10;&#10;INSTAGRAM &#187; https://www.instagram.com/fox5dc&#10;TWITTER &#187; https://twitter.com/fox5dc&#10;FACEBOOK &#187; https://www.facebook.com/fox5dc&#10;&#10;On the go? Stay in the know! Keep connected to DC, Maryland and Virginia news and weather by downloading FOX 5's mobile apps, and make sure to allow notifications to receive alerts: https://www.fox5dc.com/apps"
     channeltitle "FOX 5 Washington DC"
     channelid "UCHLyP4MuA-JAFBCwxXOEDdA"
@@ -963,7 +963,7 @@ graph
     label "lIQJZRxG40Y"
     step 0
     date "2022-05-16T22:09:08Z"
-    title "WATCH LIVE: Day 16 - Johnny Depp &#38;amp; Amber Heard Trial: Amber Heard Continues to Testify | E! News"
+    title "WATCH LIVE: Day 16 - Johnny Depp Amber Heard Trial: Amber Heard Continues to Testify | E! News"
     description "Amber Heard's legal team continues to make their case with Heard taking the stand for a third day and faces cross-examination. &#10;&#10;After a U.S. judge rules to continue Johnny Depp's libel suit against ex-wife Amber Heard, Heard's legal team is presenting their case with forensic psychologist Dr. Dawn Hughes as the first witness and Amber set to take the stand in her defense this week.  Depp is suing Heard for $50 million over an opt-ed she wrote in The Washington Post describing herself as a &#34;public figure representing domestic abuse&#34; and Johnny claims her article defamed him and cost him Pirates 6. &#10;&#10;#JohnnyDepp #AmberHeard #Livestream #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub &#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;WATCH LIVE: Day 16 - Johnny Depp &#38; Amber Heard Trial: Amber Heard Continues to Testify | E! News&#10;https://youtu.be/lIQJZRxG40Y&#10;&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -999,7 +999,7 @@ graph
     label "xE56G-6UuM8"
     step 0
     date "2022-05-17T22:03:21Z"
-    title "Amber Heard finishes testimony in trial over Johnny Depp&#38;#39;s libel suit | May 17"
+    title "Amber Heard finishes testimony in trial over Johnny Depps libel suit | May 17"
     description "Editor's note: Some testimony may contain graphic language and descriptions of sexual and physical assault.&#10;&#10;Lawyers for Johnny Depp finished their cross-examination of Amber Heard on Tuesday in the trial over Depp's libel suit. Heard's lawyers then called more witnesses to the stand.&#10;&#10;Watch more videos on Johnny Depp's defamation trial against Amber Heard: https://youtube.com/playlist?list=PLEb3ThbkPrFY2CHE5KLKBS7LW0js3WExO &#10;&#10;#News #AmberHeard #JohnnyDepp&#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#10;Watch CBS News: http://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -1017,7 +1017,7 @@ graph
     label "mKAIzzeJsTo"
     step 0
     date "2022-05-28T18:25:58Z"
-    title "Key Moments in Closing Arguments of Johnny Depp v. Amber Heard (L&#38;amp;C Daily)"
+    title "Key Moments in Closing Arguments of Johnny Depp v. Amber Heard (LC Daily)"
     description "On Friday, closing arguments were presented in the Johnny Depp v. Amber Heard defamation trial. For Depp, Ben Chew and Camille Vasquez presented closing arguments, while Benjamin Rottenborn and Elaine Bredehoft presented closing arguments for Heard. The Law&#38;Crime Daily team provides a recap of key moments from closings and will continue to keep you updated until a verdict is reached in this high-profile trial.&#10;&#10;Hosts: #BrianBuckmire #TerriAustin&#10;Correspondent: #AngenetteLevy &#10;Guests: Matt Mangino &#10;&#10;Watch Law&#38;Crime Network NOW on YouTubeTV, For Live Trial Analysis From Law&#38;Crime Anchors/Reporters!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;Watch This Show Locally, find out where https://lawandcrime.com/lawandcrime-daily/"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1027,7 +1027,7 @@ graph
     commentcount 1337
     duration "PT21M52S"
     indegree 8
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -1035,7 +1035,7 @@ graph
     label "MRu3faIkRcI"
     step 0
     date "2022-07-11T13:56:04Z"
-    title "Amber Heard&#38;#39;s lawyers file motion for mistrial in defamation case l GMA"
+    title "Amber Heards lawyers file motion for mistrial in defamation case l GMA"
     description "The actress's legal team is pushing for a mistrial, claiming that one of the jurors was illegally seated during the defamation trial between Heard and ex-husband Johnny Depp.&#10;&#10;&#10;SUBSCRIBE to GMA's YouTube page:  &#10;https://bit.ly/2Zq0dU5 &#10;&#10;SIGN UP to get the daily GMA Wake-Up Newsletter: &#10;https://gma.abc/2Vzcd5j&#10;&#10;VISIT GMA's homepage: &#10;https://www.goodmorningamerica.com&#10;&#10;FOLLOW GMA:&#10;TikTok: https://tiktok.com/@gma&#10;Instagram: https://instagram.com/GoodMorningAmerica&#10;Facebook: https://facebook.com/GoodMorningAmerica&#10;Twitter: https://twitter.com/gma&#10;&#10;&#10;#GMA #AmberHeard #JohnnyDepp"
     channeltitle "Good Morning America"
     channelid "UCH1oRy1dINbMVp3UFWrKP0w"
@@ -1053,7 +1053,7 @@ graph
     label "IJSVN55kZBY"
     step 0
     date "2022-06-01T20:18:11Z"
-    title "&#128308; WATCH LIVE: Johnny Depp &#38;amp; Amber Heard Trial: VERDICT Announcement at 3pm ET | 12pm PT | E! News"
+    title " Amber Heard Trial: VERDICT Announcement at 3pm ET | 12pm PT | E! News"
     description "Watch the Johnny Depp vs. Amber Heard verdict announcement here live at 3pm ET | 12pm PT.&#10;&#10;After a U.S. judge rules to continue Johnny Depp's libel suit against ex-wife Amber Heard, Heard's legal team is presenting their case with forensic psychologist Dr. Dawn Hughes as the first witness and Amber set to take the stand in her defense this week.  Depp is suing Heard for $50 million over an opt-ed she wrote in The Washington Post describing herself as a &#34;public figure representing domestic abuse&#34; and Johnny claims her article defamed him and cost him Pirates 6. &#10;&#10;#JohnnyDepp #AmberHeard #Livestream #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub &#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;&#128308; WATCH LIVE: Day 25  - Johnny Depp &#38; Amber Heard Trial: Verdicts Are In! | E! News&#10;https://youtu.be/IJSVN55kZBY&#10;&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -1081,7 +1081,7 @@ graph
     commentcount 1647
     duration "PT4M40S"
     indegree 5
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 359
     duration "PT5M7S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1143,7 +1143,7 @@ graph
     label "cJ5sDMdzVRs"
     step 0
     date "2022-05-25T22:00:15Z"
-    title "Johnny Depp Cross-Examined by Amber Heard&#38;#39;s Lawyer in Rebuttal Case (Depp v. Heard)"
+    title "Johnny Depp Cross-Examined by Amber Heards Lawyer in Rebuttal Case (Depp v. Heard)"
     description "On Tuesday, Johnny Depp was called to the stand to testify in his rebuttal case. Depp attempted to refute multiple claims made by Amber Heard and her team during their case. After lunch, the cross-examination of Depp by Heard's attorney occurred. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1153,7 +1153,7 @@ graph
     commentcount 5513
     duration "PT1H40M45S"
     indegree 91
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 20
     duration "PT2M7S"
     indegree 9
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1197,7 +1197,7 @@ graph
     label "DOM0jRQQNmE"
     step 0
     date "2022-05-17T22:23:20Z"
-    title "WATCH LIVE: Day 17 - Johnny Depp &#38;amp; Amber Heard Trial: Amber Heard Gets Cross-Examined | E! News"
+    title "WATCH LIVE: Day 17 - Johnny Depp Amber Heard Trial: Amber Heard Gets Cross-Examined | E! News"
     description "Johnny Depp's lawyers continue cross-examination of Amber Heard while she's on the stand.&#10;&#10;After a U.S. judge ruled to continue Johnny Depp's libel suit against ex-wife Amber Heard, Heard's legal team presented and rest their case, so now Johnny Depp's lawyers get to cross-examine Amber Heard. Depp is suing Heard for $50 million over a 2018 opt-ed she wrote in The Washington Post describing herself as a &#34;public figure representing domestic abuse&#34; and Johnny claims her article defamed him and cost him Pirates 6. Heard is countersuing Depp for $100 million.&#10;&#10;#JohnnyDepp #AmberHeard #Livestream #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub &#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;WATCH LIVE: Day 17 - Johnny Depp &#38; Amber Heard Trial: Amber Heard Gets Cross-Examined | E! News&#10;https://youtu.be/DOM0jRQQNmE&#10;&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -1215,7 +1215,7 @@ graph
     label "6jk9S67MHaQ"
     step 0
     date "2022-05-17T19:00:01Z"
-    title "Johnny Depp&#38;#39;s Lawyer Grills Amber Heard on Late-Night Visit from James Franco"
+    title "Johnny Depps Lawyer Grills Amber Heard on Late-Night Visit from James Franco"
     description "During the cross-examination of Amber Heard on Tuesday, a video was played for the court showing James Franco arriving at Heard's penthouse while Johnny Depp was out of town. Depp's attorney Camille Vasquez asked Heard if she felt comfortable bringing Franco over because she changed the locks, insinuating that Depp couldn't get in the penthouse. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS:&#10;Coptales&#38;Cocktails Apple Podcast: &#10;https://podcasts.apple.com/us/podcast/coptales-and-cocktails/id1561611947&#10;Law&#38;Crime Sidebar: &#10;https://podcasts.apple.com/us/podcast/law-crime-sidebar/id1620223164&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1225,7 +1225,7 @@ graph
     commentcount 17744
     duration "PT8M16S"
     indegree 113
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1251,7 +1251,7 @@ graph
     label "o_DAh-cO6L0"
     step 0
     date "2022-06-01T20:15:00Z"
-    title "Johnny Depp&#8217;s Legal Team Takes Victory Lap, Makes Statement on Verdict"
+    title "Johnny Depps Legal Team Takes Victory Lap, Makes Statement on Verdict"
     description "Johnny Depp's lawyers Camille Vasquez and Ben Chew speak outside the courthouse minutes after their major win against Amber Heard. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime &#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1279,7 +1279,7 @@ graph
     commentcount 2365
     duration "PT13M29S"
     indegree 3
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1287,7 +1287,7 @@ graph
     label "DQW6ds-M0qI"
     step 0
     date "2022-05-25T21:01:25Z"
-    title "Johnny Depp Trial: Ex-TMZ Witness SHOCKS Gallery With Clap Back at Amber Heard&#38;#39;s Lawyer"
+    title "Johnny Depp Trial: Ex-TMZ Witness SHOCKS Gallery With Clap Back at Amber Heards Lawyer"
     description "Morgan Tremaine, a former employee of TMZ, took the witness stand on day 22 of Johnny Depp's defamation trial against his ex-wife, Amber Heard. Tremaine shocked the gallery during an argumentative back-and-forth exchange with Heard's attorney, Elaine Bredehoft, in which he suggested she possibly took on the actress as a client in an attempt to gain '15 minutes of fame.'&#10;&#10;More from Entertainment Tonight: https://www.youtube.com/channel/UCdtXPiqI2cLorKaPrfpKc4g?sub_confirmation=1&#10;&#10;Exclusives from #EntertainmentTonight :&#10;https://www.youtube.com/playlist?list=PLQwITQ__CeH2Y_7g2xeiNDa0vQsROQQgv"
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -1297,7 +1297,7 @@ graph
     commentcount 2086
     duration "PT2M22S"
     indegree 8
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1305,7 +1305,7 @@ graph
     label "fhYPc6smawU"
     step 0
     date "2022-05-24T20:00:08Z"
-    title "Johnny Depp&#38;#39;s Rebuttal to Amber Heard&#38;#39;s Case Begins in Defamation Trial (Depp v. Heard)"
+    title "Johnny Depps Case Begins in Defamation Trial (Depp v. Heard)"
     description "Tuesday morning, Amber Heard's team rested their case in the defamation trial. Johnny Depp's team began their rebuttal by calling new witnesses and recalling witnesses who have already testified. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1315,7 +1315,7 @@ graph
     commentcount 1158
     duration "PT1H40M5S"
     indegree 23
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1341,7 +1341,7 @@ graph
     label "3Gl3gjL2600"
     step 0
     date "2022-05-18T22:00:01Z"
-    title "Amber Heard&#38;#39;s Sister Whitney Henriquez Testifies in Defamation Trial (Johnny Depp v Amber Heard)"
+    title "Amber Heards Sister Whitney Henriquez Testifies in Defamation Trial (Johnny Depp v Amber Heard)"
     description "During the defamation trial on Wednesday, Amber Heard's sister Whitney Henriquez was called to the stand. Henriquez testified on multiple incidents she witnessed between Johnny Depp and her sister, as well as her relationship with Depp. &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1351,7 +1351,7 @@ graph
     commentcount 8529
     duration "PT1H7M6S"
     indegree 28
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1359,7 +1359,7 @@ graph
     label "89M3fJt53mQ"
     step 0
     date "2022-06-02T00:29:16Z"
-    title "Depp vs. Heard verdict, infant formula shortage &#38;amp; Ukraine latest | LiveNOW from FOX"
+    title "Depp vs. Heard verdict, infant formula shortage Ukraine latest | LiveNOW from FOX"
     description "Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -1405,7 +1405,7 @@ graph
     commentcount 1624
     duration "PT2M12S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 1246
     duration "PT8H11M34S"
     indegree 3
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 4345
     duration "PT3M55S"
     indegree 10
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1531,7 +1531,7 @@ graph
     commentcount 7679
     duration "PT10M34S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1557,7 +1557,7 @@ graph
     label "YoSs-9o82oI"
     step 0
     date "2022-05-31T17:00:27Z"
-    title "Johnny Depp trial: Witness sent email to Amber Heard&#38;#39;s sister begging her to &#38;#39;tell the truth&#38;#39;"
+    title "Johnny Depp trial: Witness sent email to Amber Heard"
     description "Jennifer Howell, who runs a nonprofit organization, testified in the Johnny Depp and Amber Heard defamation trial about her interactions with the couple, as well as Heard's sister Whitney Henriquez. Howell testified about an email she sent to Henriquez, imploring her to tell the truth and stop protecting her sister. The contents of the email and what specifically Howell was referring to was not revealed during the testimony. &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -1575,7 +1575,7 @@ graph
     label "cUbzWjNqtmo"
     step 0
     date "2022-05-04T21:12:26Z"
-    title "Amber Heard&#38;#39;s testimony begins in Johnny Depp defamation trial | May 4"
+    title "Amber Heards testimony begins in Johnny Depp defamation trial | May 4"
     description "Editor's note: Some testimony may contain graphic language and descriptions of sexual and physical assault.&#10;&#10;Amber Heard, who is being sued by ex-husband Johnny Depp, testified on Wednesday for the first time in the defamation trial. Depp's lawyers rested their case Tuesday morning. &#10;&#10;#News #AmberHeard #JohnnyDepp&#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#10;Watch CBS News: http://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -1593,7 +1593,7 @@ graph
     label "LmEnFVEZwyY"
     step 0
     date "2022-05-23T23:30:02Z"
-    title "Johnny Depp&#38;#39;s Lawyer Grills Witness Over Claims of Amber Heard&#38;#39;s Celebrity Status"
+    title "Johnny Depps Celebrity Status"
     description "After witness Kathryn Arnold testified that Amber Heard incurred an estimated $50 million in losses in correlation with Johnny Depp and Adam Waldman's statements, Depp's lawyer grilled her over her claims of Heard's celebrity status and demand in the industry. &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Listen to Court Junkie Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3NMVnpx&#10;Spotify: https://spoti.fi/3Pv7lpc&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1603,7 +1603,7 @@ graph
     commentcount 4050
     duration "PT21M56S"
     indegree 16
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1611,7 +1611,7 @@ graph
     label "do1mY71LBBI"
     step 0
     date "2022-06-01T20:00:22Z"
-    title "Johnny Depp&#38;#39;s attorneys react to verdict in libel trial against Amber Heard | full video"
+    title "Johnny Depps attorneys react to verdict in libel trial against Amber Heard | full video"
     description "Johnny Depp's attorneys provided a brief statement on Wednesday after a jury awarded Depp $15 million in damages in the libel lawsuit against ex-wife Amber Heard. The jury awarded Heard $2 million in her countersuit against Depp. &#10;&#10;#News #AmberHeard #JohnnyDepp&#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#10;Watch CBS News: http://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -1629,7 +1629,7 @@ graph
     label "G5OtF_H4d1s"
     step 0
     date "2022-05-24T21:00:05Z"
-    title "&#38;#39;Amber Heard Was the One Acting Jealous &#38;amp; Crazy,&#38;#39; Johnny Depp&#38;#39;s Witness Tweeted"
+    title "s Witness Tweeted"
     description "Amber Heard's lawyer said Johnny Depp's witness tweeted that Heard acted &#34;all jealous and crazy&#34; after Depp testified about the Hicksville incident.&#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1639,7 +1639,7 @@ graph
     commentcount 2190
     duration "PT10M41S"
     indegree 10
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 1922
     duration "PT8H35M20S"
     indegree 1
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 1935
     duration "PT11M32S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 19662
     duration "PT27M40S"
     indegree 113
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1719,7 +1719,7 @@ graph
     label "8tCl1d5sTdU"
     step 0
     date "2022-06-06T18:30:13Z"
-    title "Amber Heard Looking At the Jury Was &#38;#39;Weird&#38;#39;: Depp v. Heard Juror"
+    title "Amber Heard Looking At the Jury Was : Depp v. Heard Juror"
     description "An alleged Depp v. Heard juror spoke out on social media about their experience during the trial stating that he felt it was &#34;weird&#34; that Amber Heard kept looking at the jury during her testimony. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime &#10;&#10;STAY UP-TO-DATE WITH THE LAW&#38;CRIME NETWORK:&#10;Watch Law&#38;Crime Network on YouTubeTV: https://bit.ly/3td2e3y&#10;Where To Watch Law&#38;Crime Network: https://bit.ly/3akxLK5&#10;Sign Up For Law&#38;Crime's Daily Newsletter: https://bit.ly/LawandCrimeNewsletter&#10;Read Fascinating Articles From Law&#38;Crime Network: https://bit.ly/3td2Iqo&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1737,7 +1737,7 @@ graph
     label "SVHkiHZMEEc"
     step 0
     date "2022-05-25T18:00:12Z"
-    title "Johnny Depp Rebuts Amber Heard&#38;#39;s Case in Defamation Trial (Depp v. Heard)"
+    title "Johnny Depp Rebuts Amber Heards Case in Defamation Trial (Depp v. Heard)"
     description "On Tuesday, Johnny Depp was called to the stand to testify in his rebuttal case. Depp attempted to refute multiple claims made by Amber Heard and her team during their case.&#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1747,7 +1747,7 @@ graph
     commentcount 2015
     duration "PT1H10M1S"
     indegree 39
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 14811
     duration "PT5M17S"
     indegree 3
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 1630
     duration "PT7H50M4S"
     indegree 11
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1791,7 +1791,7 @@ graph
     label "Mnn4vjwzr-M"
     step 0
     date "2022-04-20T21:36:32Z"
-    title "&#38;quot;Pure hatred&#38;quot;: Johnny Depp takes stand against Amber Heard for 2nd day in defamation trial | FULL"
+    title ": Johnny Depp takes stand against Amber Heard for 2nd day in defamation trial | FULL"
     description "Warning: This live stream will contain details and foul language some may find disturbing. Please watch at your own discretion.&#10;&#10;Johnny Depp&#8216;s testimony continued Wednesday as he took the stand for a second day to testify against ex-wife Amber Heard, whom he has accused of ruining his reputation and career with false accusations of domestic violence.&#10;&#10;On Wednesday, Depp testified about the details of his relationship with Heard, claiming she used his personal weaknesses as &#8220;ammunition.&#8221;&#10;&#10;&#8220;It seemed like pure hatred for me,&#8221; he said, claiming Heard would name-call and escalate misunderstandings into &#8220;full-scale arguments.&#8221;&#10;&#10;When asked why Depp stayed with Heard given her alleged behaviour, he said it was &#8220;complicated.&#8221; He hypothesized the answer had to do with his own mother&#8217;s abuse against his father.&#10;&#10;2:08:20 Depp later detailed an argument he had Heard over a post-nuptial contract in 2015 that left him with a severed middle finger.  He claims that Heard threw a liquor bottle at him, which shattered, and clipped his finger in the process. Depp also accused Heard of extinguishing a lit cigarette on his right cheek after severing his finger.&#10;&#10;The court hearing is the latest in a very public legal battle between the divorced couple, with Heard, 35, and Depp, 58, both claiming to be victims of domestic violence. Depp filed a $50-million defamation lawsuit over a Washington Post op-ed penned by Heard in late 2018 about being a victim of domestic abuse.&#10;&#10;As the trial continues, jurors will hear from several potential witnesses, including Tesla CEO Elon Musk, actor James Franco and Marvel WandaVision star Paul Bettany.&#10;&#10;Court proceedings are expected to last about six weeks with a jury verdict determining if Heard defamed Depp at the trial&#8217;s end.&#10;&#10;For more info, please go to: https://globalnews.ca/news/8770597/johnny-depp-amber-heard-trial-testimony-updates/&#10;&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#10;#JohnnyDepp #AmberHeard #GlobalNews"
     channeltitle "Global News"
     channelid "UChLtXXpo4Ge1ReTEboVvTDg"
@@ -1809,7 +1809,7 @@ graph
     label "8ENUkzRMf6M"
     step 0
     date "2022-06-23T19:02:47Z"
-    title "Why Johnny Depp&#38;#39;s Lawyer Camille Vasquez Got Emotional During Amber Heard Trial"
+    title "Why Johnny Depps Lawyer Camille Vasquez Got Emotional During Amber Heard Trial"
     description "Johnny Depp's lawyer, Camille Vasquez, joined Access Daily&#8217;s Mario Lopez in her first one-on-one exclusive TV interview to talk about the trial and her newfound fame. The southern California native worked with Johnny on his defamation trial for over four years and shared her reaction to being a role model. Camille teared up while saying she met a young girl who was pulled out of school to meet her and explained how she hopes continue to work and inspire young Latina girls for years to come."
     channeltitle "Access"
     channelid "UCiKGMZZmZXK-RpbKJGXgH3Q"
@@ -1819,7 +1819,7 @@ graph
     commentcount 2915
     duration "PT9M"
     indegree 12
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1845,7 +1845,7 @@ graph
     label "XWqkNxom8vc"
     step 0
     date "2022-05-20T01:00:07Z"
-    title "Johnny Depp&#38;#39;s Lawyer &#38;amp; LAPD Detective Testify in the Defamation Trial (Johnny Depp v Amber Heard)"
+    title "Johnny Depp LAPD Detective Testify in the Defamation Trial (Johnny Depp v Amber Heard)"
     description "During the defamation trial on Thursday, pre-recorded depositions of Johnny Depp's lawyer Adam Waldman and LAPD Detective Marie Sadanaga were played in court. Sadanaga is a detective in the LAPD domestic violence unit with expertise on domestic situations. &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://podcasts.apple.com/us/podcast/law-crime-sidebar/id1620223164&#10;Spotify: https://open.spotify.com/show/0oAia385Ax5odjypagFZIA?si=G2imwkZMT7q6xvIFYgRm1w&#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1855,7 +1855,7 @@ graph
     commentcount 2357
     duration "PT1H22M55S"
     indegree 12
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -1863,7 +1863,7 @@ graph
     label "SFKxRlCzZU4"
     step 0
     date "2022-06-16T19:30:03Z"
-    title "&#8216;All of Us Were Very Uncomfortable,&#8217; Johnny Depp Juror Says of Amber Heard&#8217;s Eye Contact"
+    title "s Eye Contact"
     description "In an interview with Good Morning America, an anonymous male juror from the Depp v. Heard trial said that the jury was very uncomfortable with Amber Heard&#8217;s eye contact, and ultimately concluded that Johnny Depp was more credible.&#10;&#10;#AmberHeard #JohnnyDepp #LawAndCrime &#10;&#10;STAY UP-TO-DATE WITH THE LAW&#38;CRIME NETWORK:&#10;Watch Law&#38;Crime Network on YouTubeTV: https://bit.ly/3td2e3y&#10;Where To Watch Law&#38;Crime Network: https://bit.ly/3akxLK5&#10;Sign Up For Law&#38;Crime's Daily Newsletter: https://bit.ly/LawandCrimeNewsletter&#10;Read Fascinating Articles From Law&#38;Crime Network: https://bit.ly/3td2Iqo&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1873,7 +1873,7 @@ graph
     commentcount 883
     duration "PT4M29S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1881,7 +1881,7 @@ graph
     label "TpA2wkSjcW0"
     step 0
     date "2022-05-02T21:39:06Z"
-    title "WATCH LIVE: Day 12 - Johnny Depp Defamation Trial - Erin Falati - Amber Heard&#38;#39;s Former Nurse"
+    title "WATCH LIVE: Day 12 - Johnny Depp Defamation Trial - Erin Falati - Amber Heards Former Nurse"
     description "LIVE COVERAGE: Johnny Depp v Amber Heard Defamation Trial &#10;&#10;Happening in court:&#10;Day 12&#10;By Video Deposition:&#10;Travis Mcgivern - Depp&#8217;s Bodyguard&#10;Jack Whigham - Depp's Talent Manager&#10;Richard Marks &#8211; Technical Forensics Analyst&#10;Doug Bania - Intellectual Property Consultant&#10;By Video Deposition:&#10; Erin Falati - Amber Heard's Former Nurse&#10;&#10;Actor Johnny Depp is suing ex-wife Amber Heard for $50 million for defamation in connection with Heard&#8217;s 2018 Washington Post op-ed, in which she spoke out about being the victim of domestic violence. Heard&#8217;s article did not specifically name Depp as her alleged abuser, but according to Depp&#8217;s lawsuit, it relied &#8220;on the central premise that Ms. Heard was a domestic abuse victim and that Mr. Depp perpetrated domestic violence against her.&#8221; Amber Heard is counter-suing Depp for $100 million. &#10;&#10;The defamation trial began Monday in Fairfax County Circuit Court in Virginia, with jury selection completing on the same day. There is a possibility of celebrity witnesses testifying, including James Franco and Elon Musk. Tune in to the Law&#38;Crime Network for daily coverage of this high-profile trial. &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS:&#10;Coptales&#38;Cocktails Apple Podcast: &#10;https://podcasts.apple.com/us/podcast/coptales-and-cocktails/id1561611947&#10;Law&#38;Crime Sidebar: &#10;https://podcasts.apple.com/us/podcast/law-crime-sidebar/id1620223164&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1909,7 +1909,7 @@ graph
     commentcount 2316
     duration "PT8H13M59S"
     indegree 13
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1917,7 +1917,7 @@ graph
     label "_vthMuZzoXg"
     step 0
     date "2022-05-27T19:39:28Z"
-    title "WATCH LIVE: Day 24 - Johnny Depp &#38;amp; Amber Heard Trial: Closing Arguments Begin | E! News"
+    title "WATCH LIVE: Day 24 - Johnny Depp Amber Heard Trial: Closing Arguments Begin | E! News"
     description "Johnny Depp's legal team and Amber Heard's legal team both have 2 hours each to make their closing arguments. &#10;&#10;After a U.S. judge rules to continue Johnny Depp's libel suit against ex-wife Amber Heard, Heard's legal team is presenting their case with forensic psychologist Dr. Dawn Hughes as the first witness and Amber set to take the stand in her defense this week.  Depp is suing Heard for $50 million over an opt-ed she wrote in The Washington Post describing herself as a &#34;public figure representing domestic abuse&#34; and Johnny claims her article defamed him and cost him Pirates 6. &#10;&#10;#JohnnyDepp #AmberHeard #Livestream #ENews&#10;&#10;Subscribe: http://bit.ly/enewssub &#10;&#10;About E! News:&#10;The E! News team brings you the latest breaking entertainment, fashion and Pop Culture news. Featuring exclusive segments, celebrity highlights, trend reports and more, the E! News channel is the only destination Pop Culture fans need to stay in the know.&#10;&#10;Download The E! News App For The Latest Celebrity News and Trending Videos: https://eonline.onelink.me/yMtl/4ead5017&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock. https://bit.ly/PeacockEEnt&#10;&#10;Connect with E! News:&#10;Visit the E! News WEBSITE: http://eonli.ne/enews&#10;Like E! News on FACEBOOK: https://www.facebook.com/enews/&#10;Check out E! News on INSTAGRAM: https://www.instagram.com/enews/&#10;Follow E! News on TWITTER: https://twitter.com/enews&#10;&#10;WATCH LIVE: Day 24 - Johnny Depp &#38; Amber Heard Trial: Closing Arguments Begin | E! News&#10;https://youtu.be/_vthMuZzoXg&#10;&#10;http://www.youtube.com/user/enews"
     channeltitle "E! News"
     channelid "UCjDsbbzHgTrGc4Ff26TJtsA"
@@ -1935,7 +1935,7 @@ graph
     label "5HtD-2Aevlk"
     step 0
     date "2022-05-26T18:50:03Z"
-    title "Johnny Depp Lawyer vs LYING Amber Heard: Trial ENDS with Brutal Cross Examination | Asmongold Reacts"
+    title "Johnny Depp Lawyer vs LYING Amber Hear tongue sticking out Trial ENDS with Brutal Cross Examination | Asmongold Reacts"
     description "Asmongold Reacts to Johnny Depp defamation trial, Johnny Depp lawyer shreds Amber Heard, Amber Heard caught lying under oath, Johnny Depp trial ends, Amber Heard cross examination, Johnny Depp lawyer Camille grills Amber Heard, Johnny Depp trial final week, Johnny Depp vs Amber Heard trial last day&#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Elden Ring, Lost Ark, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; &#127928; Outro song: CatDany - Get Enough&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact::&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
     channeltitle "Asmongold TV"
     channelid "UCQeRaTukNYft1_6AZPACnog"
@@ -1945,7 +1945,7 @@ graph
     commentcount 21799
     duration "PT50M57S"
     indegree 22
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1953,7 +1953,7 @@ graph
     label "AmfetXakOsc"
     step 0
     date "2022-05-25T13:31:31Z"
-    title "Kate Moss Clarifies Johnny Depp Didn&#38;#39;t Push Her Down the Stairs"
+    title "Kate Moss Clarifies Johnny Depp Didnt Push Her Down the Stairs"
     description "British supermodel and Johnny Depp's ex Kate Moss testified that Depp did NOT push her down the stairs during a trip in Jamaica. Depp and Moss dated from 1994 to 1997. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1963,7 +1963,7 @@ graph
     commentcount 9996
     duration "PT3M5S"
     indegree 11
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -1971,7 +1971,7 @@ graph
     label "PVZIttwymLY"
     step 0
     date "2022-04-26T21:45:00Z"
-    title "&#38;quot;Amber Heard Perpetrated Intimate Partner Violence Towards Johnny Depp&#38;quot; Says Psychologist"
+    title " Says Psychologist"
     description "During the cross-examination of Dr. Shannon Curry, a forensic psychologist, she was questioned on whether she believed that Amber Heard perpetrated intimate partner violence (IPV) towards Johnny Depp. &#10;&#10;#JohnnyDepp #AmberHeard #ShannonCurry&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;SUBSCRIBE TO OUR NEWSLETTER: https://bit.ly/LawandCrimeNewsletter&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;SUBSCRIBE TO ALL OF Law&#38;Crime Network YouTube Channels:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -1981,7 +1981,7 @@ graph
     commentcount 9021
     duration "PT22M40S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 3146
     duration "PT6M49S"
     indegree 7
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 3395
     duration "PT11M"
     indegree 24
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2025,7 +2025,7 @@ graph
     label "YRNXEcUIsaU"
     step 0
     date "2022-04-22T20:45:30Z"
-    title "15 shocking moments from Johnny Depp&#38;#39;s testimony in trial against Amber Heard"
+    title "15 shocking moments from Johnny Depps testimony in trial against Amber Heard"
     description "From painting with a bloody finger to leaving fecal matter in bed, these are 15 of the most shocking things Johnny Depp talked about during his testimony so far in his libel lawsuit against his ex-wife Amber Heard.&#10;&#10;#News #JohnnyDepp #CelebrityNews&#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews&#10;Watch CBS News: https://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: https://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: https://facebook.com/cbsnews&#10;Follow CBS News on Twitter: https://twitter.com/cbsnews&#10;Subscribe to our newsletters: https://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -2035,7 +2035,7 @@ graph
     commentcount 2707
     duration "PT11M35S"
     indegree 14
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2115,7 +2115,7 @@ graph
     label "V4Ub2D65Bww"
     step 0
     date "2022-06-13T12:30:15Z"
-    title "Amber Heard Breaks Silence: I Don&#38;#39;t Blame The Jury"
+    title "Amber Heard Breaks Silence: I Dont Blame The Jury"
     description "In an NBC News exclusive, Amber Heard opens up to Savannah Guthrie, breaking her silence on the defamation trial against ex-husband Johnny Depp. Heard speaking out about the verdict, as well as social media&#8217;s impact.&#10;&#10;&#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&#10;&#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &#38; our original web series.  &#10;&#10;Connect with TODAY Online!&#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&#10;&#10;#AmberHeard #JohnnyDepp #Trial"
     channeltitle "TODAY"
     channelid "UChDKyKQ59fYz3JO2fl0Z6sg"
@@ -2125,7 +2125,7 @@ graph
     commentcount 21009
     duration "PT2M37S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2133,7 +2133,7 @@ graph
     label "1bLXu-_Xgm4"
     step 0
     date "2022-06-15T12:30:00Z"
-    title "Amber Heard&#8217;s First Interview Following Johnny Depp Trial Verdict | The Download"
+    title "Amber Heards First Interview Following Johnny Depp Trial Verdict | The Download"
     description "On ET's The Download, Denny Directo and Cassie DiLaura break down the must-know entertainment news stories from Tuesday, June 14. First, Amber Heard stands by her claims of abuse against her ex-husband, Johnny Depp. A source fills ET in on why Amber chose to speak out now. Next, details on Britney Spears' new love nest with husband Sam Asghari. Plus, Tyler Perry gives ET his perspective on the Oscars slap between his friends, Will Smith and Chris Rock. Meanwhile, K-Pop super group BTS???? just announced that they are taking a much-needed break. We also dive into the internet&#8217;s latest thirst trap, &#8216;Top Gun: Maverick&#8217; star Miles Teller, and the ab pics his wife keeps posting. Justin Bieber gives his fan a health update, while Bruce Willis remains fearless amid his aphasia battle. We also have new interviews with the cast of &#8216;Martin,&#8217; 30 years after the show&#8217;s premiere, as well as everything we know about Issa Rae&#8217;s new HBO Max series, &#8216;Rap Sh!t.' And a dose of cuteness: JAY-Z was spotted out on a daddy-daughter date with his 10-year-old, Blue Ivy."
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -2143,7 +2143,7 @@ graph
     commentcount 2404
     duration "PT24M29S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2151,7 +2151,7 @@ graph
     label "ZGYkH6aAbc0"
     step 0
     date "2022-06-12T11:00:29Z"
-    title "Johnny Depp vs Amber Heard: Love and War | 60 Minutes Australia"
+    title "Johnny Depp vs Amber Hear tongue sticking out Love and War | 60 Minutes Australia"
     description "Subscribe here: http://9Soci.al/chmP50wA97J Full Episodes: https://9now.app.link/uNP4qBkmN6 | Johnny v Amber: Love and War (2022)&#10;&#10;Tom Steinfort hosts a special program examining the extraordinary saga of the now-destroyed relationship of Hollywood stars Johnny Depp and Amber Heard. From a love story that had the world gushing to a spectacular falling out that&#8217;s been played out in courtrooms across England and the United States, Johnny V Amber: Love and War is an explosion of he-said, she-said claim and counter-claim.  &#10;&#10;WATCH more of 60 Minutes Australia: https://www.60minutes.com.au &#10;LIKE 60 Minutes Australia on Facebook: https://www.facebook.com/60Minutes9 &#10;FOLLOW 60 Minutes Australia on Twitter: https://twitter.com/60Mins &#10;FOLLOW 60 Minutes Australia on Instagram: https://www.instagram.com/60minutes9&#10;&#10;For forty years, 60 Minutes have been telling Australians the world&#8217;s greatest stories. Tales that changed history, our nation and our lives. Reporters Liz Hayes, Tom Steinfort, Tara Brown, Liam Bartlett and Sarah Abo look past the headlines because there is always a bigger picture. Sundays are for 60 Minutes.&#10;&#10;#60MinutesAustralia"
     channeltitle "60 Minutes Australia"
     channelid "UC0L1suV8pVgO4pCAIBNGx5w"
@@ -2161,7 +2161,7 @@ graph
     commentcount -1
     duration "PT45M52S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2169,7 +2169,7 @@ graph
     label "HzovYySfgs8"
     step 0
     date "2022-05-17T22:28:44Z"
-    title "Amber Heard Continues Cross-Examination In Defamation Trial Against Johnny Depp &#8211; Day 18 | LIVE"
+    title "Amber Heard Continues Cross-Examination In Defamation Trial Against Johnny Depp Day 18 | LIVE"
     description "**Warning: This live stream will contain details some may find disturbing. Please watch at your own discretion.**&#10;&#10;Happening in court: Day 18 Amber Heard Cross-Examined in Defamation Trial&#10;&#10;The defamation trial between Johnny Depp and Amber Heard continues for week 4 as Amber Heard continues her testimony.&#10;&#10;Depp sued Heard for $50 million following a December 2018 op-ed in the Washington Post in which she accused him of domestic abuse, despite not naming him. Amber has now countersued the actor for $100 million.&#10;&#10;The trial is expected to take six weeks, with testimonies expected from Paul Bettany. Elon Musk and James Franco will no longer testify. Both Heard and Depp, who has denied abusing Heard, will also take the stand.&#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;SUBSCRIBE to our channel:&#10;&#10;https://www.youtube.com/user/ETCanadaOfficial&#10;&#10;FOLLOW us here:&#10;&#10;http://www.etcanada.com&#10;&#10;Facebook: https://www.facebook.com/etcanada&#10;&#10;Twitter: http://www.twitter.com/etcanada&#10;&#10;Instagram: http://www.instagram.com/etcanada&#10;&#10;TikTok: https://www.tiktok.com/@etcanada"
     channeltitle "ET Canada"
     channelid "UCKY5PiEq8Tl9r7f3qittXng"
@@ -2187,7 +2187,7 @@ graph
     label "ViXDcuU9iP0"
     step 0
     date "2022-05-24T19:25:05Z"
-    title "NEW Johnny Depp witness comes forward: Saw Amber Heard jealous &#38;amp; aggressive, Depp looked afraid"
+    title "NEW Johnny Depp witness comes forwar tongue sticking out Saw Amber Heard jealous aggressive, Depp looked afraid"
     description "A new witness has come forward in the Johnny Depp-Amber Heard defamation trial to testify that it was Heard who was yelling at Depp, who appeared to be afraid of her, during an incident at a luxury trailer park in Joshua Tree, California, in 2013. Morgan Night, who ran the trailer park at the time, said that the damage to the trailer was minor, refuting testimony from Heard that the trailer was completely destroyed. Heard has testified that Depp was verbally and physically abusive during the incident. Depp has denied abuse allegations and is suing Heard for $50 million in damages for her op-ed in the Washington Post. &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -2197,7 +2197,7 @@ graph
     commentcount 6500
     duration "PT22M1S"
     indegree 29
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2233,7 +2233,7 @@ graph
     commentcount 837
     duration "PT11M5S"
     indegree 17
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2241,7 +2241,7 @@ graph
     label "JMNFWiEONfI"
     step 0
     date "2022-06-08T13:00:18Z"
-    title "Depp Lawyers: Amber Heard Didn&#38;#39;t Take Accountability For &#38;#39;Anything&#38;#39;"
+    title "Depp Lawyers: Amber Heard Didn"
     description "Camille Vasquez and Ben Chew, members of Johnny Depp&#8217;s legal team, join TODAY live to speak out for the first time since a Virginia jury sided with Depp in his defamation battle with Amber Heard. &#8220;Johnny owned his issues,&#34; Chew says. &#34;I think it was a sharp contrast to Ms. Heard, who the jury may have perceived that she didn't take accountability for anything.&#8221;&#10;&#10;&#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&#10;&#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &#38; our original web series.  &#10;&#10;Connect with TODAY Online!&#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&#10;&#10;#JohnnyDepp #AmberHeard #Trial"
     channeltitle "TODAY"
     channelid "UChDKyKQ59fYz3JO2fl0Z6sg"
@@ -2269,7 +2269,7 @@ graph
     commentcount 3672
     duration "PT1M10S"
     indegree 3
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 1155
     duration "PT8H35M20S"
     indegree 12
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 1932
     duration "PT10M37S"
     indegree 9
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2313,7 +2313,7 @@ graph
     label "lfOR9f2v1Yc"
     step 0
     date "2022-05-23T15:10:22Z"
-    title "Camille Vasquez Grills Amber Heard&#38;#39;s Expert Orthopedic Surgeon Witness on Finger Ruling"
+    title "Camille Vasquez Grills Amber Heards E tongue sticking out ert Orthopedic Surgeon Witness on Finger Ruling"
     description "During the defamation trial on Monday, Camille Vasquez grilled Amber Heard's expert orthopedic surgeon witness on his ruling of Johnny Depp's finger injury. &#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -2323,7 +2323,7 @@ graph
     commentcount 7722
     duration "PT15M55S"
     indegree 25
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 7785
     duration "PT8M55S"
     indegree 11
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 10452
     duration "PT10M1S"
     indegree 15
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2367,7 +2367,7 @@ graph
     label "aJSXVYLeJEc"
     step 0
     date "2022-04-26T21:39:01Z"
-    title "Part 2: Johnny Depp&#38;#39;s defamation trial against Amber Heard | April 26"
+    title "Part 2: Johnny Depps defamation trial against Amber Heard | April 26"
     description "Jurors heard witness testimony on Tuesday in Johnny Depp's defamation trial against his ex-wife Amber Heard. Depp sued Heard after she wrote a 2018 op-ed piece in The Washington Post in which she referred to herself as a &#34;public figure representing domestic abuse.&#34; She never mentioned Depp by name, but Depp's lawyers said it was a clear reference to accusations Heard made in 2016 when she sought a restraining order against him. Heard has filed a countersuit against Depp that accuses his lawyers of defaming her at his direction.&#10;&#10;#News #DefamationTrial #JohnnyDepp&#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#10;Watch CBS News: http://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -2377,7 +2377,7 @@ graph
     commentcount 1973
     duration "PT3H31M20S"
     indegree 18
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 2826
     duration "PT7M40S"
     indegree 5
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -2421,7 +2421,7 @@ graph
     label "1YVj2NioEI8"
     step 0
     date "2022-05-19T21:40:24Z"
-    title "Amber Heard&#38;#39;s Biggest Lie Revealed by Her Own Witness | Asmongold Reacts to Johnny Depp Trial"
+    title "Amber Heards Biggest Lie Revealed by Her Own Witness | Asmongold Reacts to Johnny Depp Trial"
     description "Asmongold Reacts to Johnny Depp defamation trial, Johnny Depp trial witness reveals &#34;one of the most damning things about Amber Heard&#34;, Detective testifies in Johnny Depp trial, Johnny Depp vs Amber Heard trial in court, Johnny Depp final week&#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Elden Ring, Lost Ark, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; &#127928; Outro song: CatDany - Get Enough&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact::&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
     channeltitle "Asmongold TV"
     channelid "UCQeRaTukNYft1_6AZPACnog"
@@ -2431,7 +2431,7 @@ graph
     commentcount 4297
     duration "PT29M52S"
     indegree 8
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2439,7 +2439,7 @@ graph
     label "RZgQIRrmQxs"
     step 0
     date "2022-05-31T20:37:56Z"
-    title "Johnny Depp v. Amber Heard Trial: Jury Deliberations Continue in Fairfax County |  FOX 5 DC"
+    title "Johnny Depp v. Amber Heard Trial: Jury Deliberations Continue in Fairfax County | FOX 5 DC"
     description "A live look at the Fairfax County courthouse where a Virginia jury continues deliberations Tuesday in Johnny Depp&#8217;s $50 million libel trial against ex-wife Amber Heard. &#10;&#10;DETAILS: https://bit.ly/3m0qqSS&#10;&#10;STAY CONNECTED:&#10;&#10;INSTAGRAM &#187; https://www.instagram.com/fox5dc&#8203;&#8203;&#8203;&#8203;&#8203;...&#8203;&#10;TWITTER &#187; https://twitter.com/fox5dc&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;FACEBOOK &#187; https://www.facebook.com/fox5dc&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;&#10;On the go? Stay in the know! Keep connected to DC, Maryland and Virginia news and weather by downloading FOX 5's mobile apps, and make sure to allow notifications to receive alerts: https://www.fox5dc.com/apps"
     channeltitle "FOX 5 Washington DC"
     channelid "UCHLyP4MuA-JAFBCwxXOEDdA"
@@ -2485,7 +2485,7 @@ graph
     commentcount 4737
     duration "PT3M1S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2493,7 +2493,7 @@ graph
     label "kr7NwROUZrs"
     step 0
     date "2022-05-27T17:56:38Z"
-    title "Johnny Depp trial: Amber Heard&#38;#39;s attorney tries to explain failed charity pledge"
+    title "Johnny Depp trial: Amber Heards attorney tries to e tongue sticking out lain failed charity pledge"
     description "Amber Heard's attorney attempted during closing arguments in the Johnny Depp defamation trial to explain why Heard has not given the $7 million in charity donation that she publicly said she would donate. As of now, Heard has donated a very small portion of her divorce settlement to charity, when she said she would donate all of it.&#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -2529,7 +2529,7 @@ graph
     label "Rh7d2D7JVLI"
     step 0
     date "2022-05-04T18:13:29Z"
-    title "Doug Stanhope&#38;#39;s Reaction to the Johnny Depp Amber Heard Trial"
+    title "Doug Stanhopes Reaction to the Johnny Depp Amber Heard Trial"
     description "Taken from JRE #1812 w/Doug Stanhope:&#10;https://open.spotify.com/episode/3jEruuaYY4wMOgZttpmtJz?si=6d19176d884e4462"
     channeltitle "PowerfulJRE"
     channelid "UCzQUP1qoWDoEbmsQxvdjxgQ"
@@ -2539,7 +2539,7 @@ graph
     commentcount 1863
     duration "PT2M24S"
     indegree 1
-    cluster 2
+    cluster 5
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 1121
     duration "PT1H19M37S"
     indegree 58
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 2675
     duration "PT17M40S"
     indegree 9
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2583,7 +2583,7 @@ graph
     label "w77fMtZPv-4"
     step 0
     date "2022-05-21T23:00:19Z"
-    title "Johnny Depp trial: Witness describes &#38;#39;frightening&#38;#39; incident with actor &#38;amp; Amber Heard"
+    title "Johnny Depp trial: Witness describes Amber Heard"
     description "Elizabeth Marz, who briefly stayed at the Eastern Columbia Building where Johnny Depp lived with Amber Heard testified in the former couple's defamation trial in Fairfax, Virginia. Marz testified about one incident where Depp's behavior was &#34;frightening&#34; when he allegedly charged at her yelling at her to &#34;get your b---- out of here,&#34; referring to Heard. Marz testified to seeing Heard with a red, swollen face at the time. &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -2593,7 +2593,7 @@ graph
     commentcount 7251
     duration "PT31M11S"
     indegree 11
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -2647,7 +2647,7 @@ graph
     commentcount 13941
     duration "PT15M49S"
     indegree 8
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2655,7 +2655,7 @@ graph
     label "Vo-p66DULFk"
     step 0
     date "2022-05-26T15:57:55Z"
-    title "Johnny Depp&#38;#39;s Lawyer Presses Amber Heard on Having Paparazzi at Courthouse"
+    title "Johnny Depps Lawyer Presses Amber Heard on Having Paparazzi at Courthouse"
     description "Johnny Depp's lawyer Camille Vasquez pressed Amber Heard on having paparazzi present the day she went to file a restraining order against Depp at the courthouse. &#34;Absolutely not. Why would I want that? What actual survivor of domestic violence wants that?&#34; Heard responded.&#10;&#10;#JohnnyDepp #AmberHeard #LawAndCrime&#10;&#10;Listen to Law&#38;Crime's Sidebar Podcast on Apple &#38; Spotify:&#10;Apple: https://apple.co/3wMgRgB&#10;Spotify: https://spoti.fi/3wITe7b &#10;&#10;Written Coverage &#38; Analysis of Johnny Depp &#38; Amber Heard Trial:&#10;https://lawandcrime.com/?s=Johnny+Depp&#10;https://lawandcrime.com/?s=Amber+Heard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;TikTok: https://www.tiktok.com/@lawandcrime&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS: https://lawandcrime.com/podcasts/&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -2665,7 +2665,7 @@ graph
     commentcount 1844
     duration "PT5M55S"
     indegree 3
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2673,7 +2673,7 @@ graph
     label "ypwZ8iQlpbk"
     step 0
     date "2022-05-26T15:59:32Z"
-    title "Johnny Depp attorney snaps at Amber Heard: &#38;#39;Your lies have been exposed&#38;#39; | LiveNOW from FOX"
+    title "Johnny Depp attorney snaps at Amber Hear tongue sticking out | LiveNOW from FOX"
     description "Johnny Depp's attorney fired questions at Amber Heard during her second appearance testifying in the former couple's defamation trial in Fairfax, Virginia. Depp's attorney Camille Vasquez started by making statements towards Heard that her lies have been exposed, which she denied and said she hasn't lied about what happened to her. &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -2683,7 +2683,7 @@ graph
     commentcount 41178
     duration "PT8M20S"
     indegree 35
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 2210
     duration "PT8H15M35S"
     indegree 1
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2737,7 +2737,7 @@ graph
     commentcount 5028
     duration "PT30M24S"
     indegree 3
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2745,7 +2745,7 @@ graph
     label "KHOcTG2yCio"
     step 0
     date "2022-04-25T22:24:06Z"
-    title "Jurors hear testimony in Johnny Depp&#38;#39;s defamation trial against Amber Heard | April 25"
+    title "Jurors hear testimony in Johnny Depps defamation trial against Amber Heard | April 25"
     description "Jurors on Monday heard testimony in actor Johnny Depp's defamation case against ex-wife Amber Heard. Depp sued Heard after she wrote a 2018 op-ed piece in The Washington Post in which she referred to herself as a &#34;public figure representing domestic abuse.&#34; She never mentioned Depp by name, but Depp's lawyers said it was a clear reference to accusations Heard made in 2016 when she sought a restraining order against him. Heard has filed a countersuit against Depp that accuses his lawyers of defaming her at his direction.&#10;&#10;#News #JohnnyDepp #DefamationTrial&#10;&#10;CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#10;Watch CBS News: http://cbsn.ws/1PlLpZ7c&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -2773,7 +2773,7 @@ graph
     commentcount 1242
     duration "PT9M11S"
     indegree 8
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 2582
     duration "PT3H16M12S"
     indegree 7
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -2799,7 +2799,7 @@ graph
     label "3KWkcB-6FM0"
     step 0
     date "2022-05-22T15:00:02Z"
-    title "&#38;#39;That&#38;#39;s disgusting&#38;#39;: Amber Heard denies leaving poop in Johnny Depp&#38;#39;s bed | LiveNOW from FOX"
+    title "s bed | LiveNOW from FOX"
     description "Amber Heard testified in her defamation trial against her ex-husband Johnny Depp and was asked about a fight she had with Depp on her 30th birthday and the aftermath the following day when she went with friends to the Coachella music festival. Heard was questioned about feces being left in the bed she shared with Depp and denied leaving that for him, saying that Depp's dog Boo had a bowel problem since it was a puppy after eating Depp's marijuana. &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -2809,7 +2809,7 @@ graph
     commentcount 7641
     duration "PT19M25S"
     indegree 6
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -2827,7 +2827,7 @@ graph
     commentcount 2375
     duration "PT2M50S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -2845,7 +2845,7 @@ graph
     commentcount 2252
     duration "PT39M12S"
     indegree 4
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2853,7 +2853,7 @@ graph
     label "0Gj-bDlEJl8"
     step 0
     date "2022-05-27T20:00:00Z"
-    title "Johnny Depp trial: Amber Heard BREAKS Down Realizing She&#38;#39;ll LOSE | Asmongold Reacts"
+    title "Johnny Depp trial: Amber Heard BREAKS Down Realizing Shell LOSE | Asmongold Reacts"
     description "Asmongold Reacts to Johnny Depp defamation trial, Johnny Depp trial last day, Amber Heard Lawyer goes ALL OUT, Amber Alert Sirens Go Off in Courtroom on Johnny Depp's Final Day, Johnny Depp vs Amber Heard trial closing arguments, Johnny Depp trial end &#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Elden Ring, Lost Ark, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; &#127928; Outro song: CatDany - Get Enough&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact::&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
     channeltitle "Asmongold TV"
     channelid "UCQeRaTukNYft1_6AZPACnog"
@@ -2881,7 +2881,7 @@ graph
     commentcount 6199
     duration "PT9M6S"
     indegree 3
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 7174
     duration "PT14M36S"
     indegree 2
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 1497
     duration "PT32M33S"
     indegree 9
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount 781
     duration "PT11M55S"
     indegree 10
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2971,7 +2971,7 @@ graph
     commentcount 15416
     duration "PT21M36S"
     indegree 11
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2979,7 +2979,7 @@ graph
     label "_17IYAQzMJY"
     step 0
     date "2022-05-17T02:15:02Z"
-    title "Johnny Depp&#38;#39;s Attorney DESTROYS Amber Heard | Asmongold Reacts to Trial"
+    title "Johnny Depps Attorney DESTROYS Amber Heard | Asmongold Reacts to Trial"
     description "Asmongold Reacts to Johnny Depp defamation trial, Amber Heard cross examination, Johnny Depp attorney destroys Amber Heard, Amber Heard cross-examined by Johnny Depp lawyer, Amber Heard seemed to like taking photos of Johnny Depp unconscious, Johnny Depp trial resumes, Johnny Depp vs Amber Heard trial continues, Johnny Depp trial final week&#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Elden Ring, Lost Ark, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; &#127928; Outro song: CatDany - Get Enough&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact::&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
     channeltitle "Asmongold TV"
     channelid "UCQeRaTukNYft1_6AZPACnog"
@@ -2989,7 +2989,7 @@ graph
     commentcount 10566
     duration "PT54M19S"
     indegree 22
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2997,7 +2997,7 @@ graph
     label "V_9RuNWt_hw"
     step 0
     date "2022-05-26T16:24:42Z"
-    title "Amber Heard blasts Kate Moss: &#38;#39;Came out of the woodwork&#38;#39; to testify for Johnny Depp"
+    title "Amber Heard blasts Kate Moss: to testify for Johnny Depp"
     description "Amber Heard, testifying in her defamation trial against her ex-husband Johnny Depp for a second time, claimed during cross-examination that she was not surprised that Kate Moss came forward because everyone &#34;came out of the woodwork&#34; to testify for Depp. Depp's attorney appeared shocked that Heard would think Moss, one of the most famous models in the world, would &#34;come out of the woodwork.&#34; &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -3007,7 +3007,7 @@ graph
     commentcount 19025
     duration "PT8M41S"
     indegree 14
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 3933
     duration "PT2M26S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3033,7 +3033,7 @@ graph
     label "AWZE-4EBxEQ"
     step 0
     date "2022-05-05T23:31:22Z"
-    title "Johnny Depp Trial: Amber Heard Gets Lost In Her Own LIES | Asmongold Reacts &#38;amp; Cross-Examines Her"
+    title "Johnny Depp Trial: Amber Heard Gets Lost In Her Own LIES | Asmongold Reacts Cross-Examines Her"
     description "Asmongold Reacts to Johnny Depp defamation trial, Amber Heard testifies in court against Johnny Depp, final day of Amber Heard testimony, Johnny Depp team destroys Amber Heard as she shows &#34;evidence&#34; that nobody is convinced by...&#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Elden Ring, Lost Ark, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; &#127928; Outro song: CatDany - Get Enough&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact::&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
     channeltitle "Asmongold TV"
     channelid "UCQeRaTukNYft1_6AZPACnog"
@@ -3043,7 +3043,7 @@ graph
     commentcount 18929
     duration "PT1H40M47S"
     indegree 16
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -3051,7 +3051,7 @@ graph
     label "CRYPWHNGSH4"
     step 0
     date "2022-05-16T22:15:00Z"
-    title "&#8220;Ms. Heard &#8212; Respectfully, That&#8217;s Not My Question&#8221;: Says Johnny Depp&#38;#39;s Attorney"
+    title "s Attorney"
     description "During the cross-examination of Amber Heard on Monday, Johnny Depp's attorney Camille Vasquez interrupted Heard because she wasn't answering her question. Vasquez stated, &#34;Ms. Heard, respectfully, that's not my question.&#34; &#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;Sign Up For Law&#38;Crime's Daily Newsletter! https://bit.ly/LawandCrimeNewsletter&#10;&#10;Watch Law&#38;Crime Network NOW  on YouTubeTV!&#10;https://tv.youtube.com/welcome/?utm_servlet=prod&#38;zipcode=99202&#10;&#10;OTHER WAYS TO WATCH LAW&#38;CRIME NETWORK IN YOUR AREA:&#10;https://lawandcrime.com/where-to-watch/&#10;&#10;READ MORE GREAT ARTICLES FROM LAW&#38;CRIME NETWORK HERE:&#10;https://lawandcrime.com&#10;&#10;LAW&#38;CRIME NETWORK SOCIAL MEDIA:&#10;Instagram: https://www.instagram.com/lawandcrime/&#10;Twitter: https://twitter.com/LawCrimeNetwork&#10;Facebook: https://www.facebook.com/lawandcrime&#10;Twitch: https://www.twitch.tv/lawandcrimenetwork&#10;&#10;LAW&#38;CRIME NETWORK PODCASTS:&#10;Coptales&#38;Cocktails Apple Podcast: &#10;https://podcasts.apple.com/us/podcast/coptales-and-cocktails/id1561611947&#10;Law&#38;Crime Sidebar: &#10;https://podcasts.apple.com/us/podcast/law-crime-sidebar/id1620223164&#10;&#10;SUBSCRIBE TO ALL OF LAW&#38;CRIME NETWORK YOUTUBE CHANNELS:&#10;Main Channel: https://www.youtube.com/channel/UCz8K1occVvDTYDfFo7N5EZw&#10;Channel B: https://www.youtube.com/channel/UCVXOqoOCYbi-iXChKAl6DTQ&#10;Channel C: https://www.youtube.com/channel/UCXCLaaClAWQiTkl3pw9ZdLw&#10;Channel D https://www.youtube.com/channel/UCMV3pzWIhJGLYzoHyxBjjNw"
     channeltitle "Law&#38;Crime Network"
     channelid "UCz8K1occVvDTYDfFo7N5EZw"
@@ -3061,7 +3061,7 @@ graph
     commentcount 6509
     duration "PT2M"
     indegree 2
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3069,7 +3069,7 @@ graph
     label "oSwZ_BckDvc"
     step 0
     date "2022-05-03T16:44:35Z"
-    title "Johnny Depp trial: Judge rejects Amber Heard&#38;#39;s demands for dismissal | LiveNOW from FOX"
+    title "Johnny Depp trial: Judge rejects Amber Heards demands for dismissal | LiveNOW from FOX"
     description "The judge presiding over the Johnny Depp and Amber Heard defamation trial has denied a motion from Heard's attorneys to dismiss the case against her. Depp has sued his ex-wife for $50 million dollars alleging that her claims of domestic violence have permanently damaged his acting career.&#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -3105,7 +3105,7 @@ graph
     label "9MTibohq_cY"
     step 0
     date "2022-05-06T00:00:03Z"
-    title "Johnny Depp REACTS in Court to Amber Heard&#38;#39;s TEARFUL Testimony"
+    title "Johnny Depp REACTS in Court to Amber Heards TEARFUL Testimony"
     description "Amber Heard takes the stand for day 2 of her testimony in the Johnny Depp defamation trial."
     channeltitle "Entertainment Tonight"
     channelid "UCdtXPiqI2cLorKaPrfpKc4g"
@@ -3115,7 +3115,7 @@ graph
     commentcount 3560
     duration "PT1M55S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3123,7 +3123,7 @@ graph
     label "5G68RRogrEI"
     step 0
     date "2022-05-02T21:57:00Z"
-    title "Johnny Depp trial: Amber Heard had &#38;#39;several outbursts of anger &#38;amp; rage,&#38;#39; nurse testifies"
+    title "Johnny Depp trial: Amber Heard had nurse testifies"
     description "A nurse who was hired to assist with Amber Heard testified in her defamation trial against Johnny Depp. Erin Falati's notes reveal that multiple people, including Heard herself, were reporting that she was suffering from &#34;outbursts of anger and rage.&#34; Falati was brought in to assist with these issues, but testified that she did not recall seeing Heard very angry&#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -3133,7 +3133,7 @@ graph
     commentcount 2685
     duration "PT23M16S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3151,7 +3151,7 @@ graph
     commentcount 11797
     duration "PT12M50S"
     indegree 40
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3159,7 +3159,7 @@ graph
     label "hyaZtgW18I8"
     step 0
     date "2022-05-30T14:00:18Z"
-    title "Camille Vasquez shutting down Amber&#38;#39;s lies for 13 minutes straight"
+    title "Camille Vasquez shutting down Ambers lies for 13 minutes straight"
     description "Camille Vasquez shutting down Amber's lies for 13 minutes straight / Camille Vasquez exposing Amber Heard for 13 minutes straight&#10;&#10;=DISCLAIMER&#10;Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing&#10;&#10;#CamilleVasquez #Johnnydepp #teamjohnny #amberheard #memelord"
     channeltitle "Memelord"
     channelid "UCzGtPuD_alQI44B_X4alV1g"
@@ -3169,7 +3169,7 @@ graph
     commentcount 8449
     duration "PT13M1S"
     indegree 43
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3177,7 +3177,7 @@ graph
     label "4T2ZALwNXOw"
     step 0
     date "2022-05-31T23:35:01Z"
-    title "Jury&#38;#39;s question in Depp Heard trial reveals MAJOR clue, says Cooper Lawrence | Sunrise"
+    title "Jurys question in Depp Heard trial reveals MAJOR clue, says Cooper Lawrence | Sunrise"
     description "Jury deliberations have resumed.. in one of the biggest court cases of the year. The Pirates of the Caribbean star.. Johnny Depp is suing his ex-wife over an opinion piece she wrote in the Washington Post in 2018.. where she described herself as a domestic abuse survivor. But before the jury reveals a verdict.. the panel returned to the court room with a question... about the article. U.S broadcaster Cooper Lawrence reveals why it's a big deal AND who she thinks will win the trial.&#10;&#10;&#10;Get the latest news &#187; https://7news.com.au&#10;More from Sunrise &#187; https://sunrise.com.au &#10;Subscribe to Sunrise &#187; https://7news.link/SunriseSubscribe&#10;Subscribe to the Sunrise newsletter &#187; http://7sunrise.link/Newsletter&#10;&#10;Connect with Sunrise online:&#10;Facebook &#187; https://www.facebook.com/Sunrise&#10;Twitter &#187; https://twitter.com/sunriseon7&#10;Instagram &#187; https://www.instagram.com/sunriseon7/&#10;&#10;#SunriseOn7 #7NEWS #DeppHeard"
     channeltitle "Sunrise"
     channelid "UCMRq9ADyETX-Touo4Srph5g"
@@ -3205,7 +3205,7 @@ graph
     commentcount 3182
     duration "PT17M46S"
     indegree 1
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3213,7 +3213,7 @@ graph
     label "Dy7fElXqRAk"
     step 0
     date "2022-05-17T22:06:51Z"
-    title "Johnny Depp v Amber Heard - Day 17: Actor&#38;#39;s lawyer questions his ex-wife about love notes"
+    title "Johnny Depp v Amber Heard - Day 17: Actors lawyer questions his ex-wife about love notes"
     description "WARNING: May contain swearing, description of drug taking and domestic violence. This feed is provided to Sky News by Court TV. Sky has no control over its content and quality.&#10;&#10;&#128197; On day 17: Johnny Depp's legal team has tried to discredit Amber Heard by questioning the veracity of her claim that the actor sexually assaulted her with a liquor bottle &#128073; https://news.sky.com/story/depp-v-heard-actors-lawyer-questions-his-ex-wife-about-love-notes-and-suggests-she-assaulted-him-with-bottle-12615568&#10;&#10;Johnny Depp is suing his ex-wife Amber Heard for libel in the US state of Virginia, over an article she wrote for the Washington Post in 2018.&#10;&#10;Follow live updates: https://qrcode.skynews.com/skynews/deppvheard&#10;&#10;#SkyNews #JohnnyDepp #AmberHeard &#10;&#10;SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews &#10;&#10;Follow us on Twitter: https://twitter.com/skynews &#10;Like us on Facebook: https://www.facebook.com/skynews &#10;Follow us on Instagram: https://www.instagram.com/skynews &#10;Follow us on TikTok: https://www.tiktok.com/@skynews&#10;&#10;For more content go to http://news.sky.com and download our apps: &#10;Apple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 &#10;Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&#38;hl=en_GB &#10;&#10;Sky News videos are now available in Spanish here/Los video de Sky News est&#225;n disponibles en espa&#241;ol aqu&#237; https://www.youtube.com/channel/skynewsespanol&#10;Sky News videos are also available in German here/Hier k&#246;nnen Sie au&#223;erdem Sky News-Videos auf Deutsch finden: https://www.youtube.com/channel/UCHYg31l2xrF-Bj859nsOfnA&#10;&#10;To enquire about licensing Sky News content, you can find more information here:  https://news.sky.com/info/library-sales"
     channeltitle "Sky News"
     channelid "UCoMdktPbSTixAyNGwb-UYkQ"
@@ -3223,7 +3223,7 @@ graph
     commentcount 864
     duration "PT8H35M26S"
     indegree 2
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 1583
     duration "PT12M35S"
     indegree 1
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -3249,7 +3249,7 @@ graph
     label "Qr02Z6I_a4Y"
     step 0
     date "2022-05-05T16:52:22Z"
-    title "Live: Amber Heard&#8217;s second day of testimony as Johnny Depp&#38;#39;s defamation trial continues"
+    title "Live: Amber Heards defamation trial continues"
     description "Watch live as Amber Heard gives her testimony for the second day as Johnny Depp's defamation trial continues.&#10;&#10;Ms Heard gave her testimony for the first time in the trial yesterday (4 May), telling the court that she left Mr Depp's private island with his daughter Lily-Rose after he said he &#34;could kill her&#34; during an argument.&#10;&#10;&#34;I was very much in love with his whole family and he was saying I was embarrasing to him, that stuck more with me than &#8216;I could f***ing kill you',&#34; Ms Heard said.&#10;&#10;Watch more videos on Independent TV: https://www.independent.co.uk/tv/editors-picks&#10;&#10;Like us on Facebook: https://www.facebook.com/TheIndependentOnline&#10;Follow us on Twitter: https://twitter.com/Independent&#10;Follow us on Instagram: https://www.instagram.com/the.independent&#10;&#10;Subscribe to Independent Premium for exclusive content and live events: https://bit.ly/2MiOONB"
     channeltitle "The Independent"
     channelid "UCshwRhftzkiov5wKR7M_LsQ"
@@ -3267,7 +3267,7 @@ graph
     label "HGo9Yagch08"
     step 0
     date "2022-05-18T22:17:13Z"
-    title "Johnny Depp v Amber Heard - Day 18: Heard&#38;#39;s sister says she saw couple hit each other in 2015 fight"
+    title "Johnny Depp v Amber Heard - Day 18: Heards sister says she saw couple hit each other in 2015 fight"
     description "WARNING: May contain swearing, description of drug taking and domestic violence. This feed is provided to Sky News by Court TV. Sky has no control over its content and quality.&#10;&#10;&#128198; On day 18: Amber Heard's sister has described a fight in which she said the actress and Johnny Depp hit each other. Giving evidence in the high-profile libel trial, Whitney Heard Henriquez said Heard was shouting down at Depp from a mezzanine over a kitchen in March 2015 &#128073; https://news.sky.com/story/depp-v-heard-actresss-sister-says-she-saw-couple-hit-each-other-in-2015-fight-12616257&#10;&#10;Johnny Depp is suing his ex-wife Amber Heard for libel in the US state of Virginia, over an article she wrote for the Washington Post in 2018.&#10;&#10;Follow live updates: https://qrcode.skynews.com/skynews/deppvheard&#10;&#10;#SkyNews #JohnnyDepp #AmberHeard #Live&#10;&#10;SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews &#10;&#10;Follow us on Twitter: https://twitter.com/skynews &#10;Like us on Facebook: https://www.facebook.com/skynews &#10;Follow us on Instagram: https://www.instagram.com/skynews &#10;Follow us on TikTok: https://www.tiktok.com/@skynews&#10;&#10;For more content go to http://news.sky.com and download our apps: &#10;Apple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 &#10;Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&#38;hl=en_GB &#10;&#10;Sky News videos are now available in Spanish here/Los video de Sky News est&#225;n disponibles en espa&#241;ol aqu&#237; https://www.youtube.com/channel/skynewsespanol&#10;Sky News videos are also available in German here/Hier k&#246;nnen Sie au&#223;erdem Sky News-Videos auf Deutsch finden: https://www.youtube.com/channel/UCHYg31l2xrF-Bj859nsOfnA&#10;&#10;To enquire about licensing Sky News content, you can find more information here:  https://news.sky.com/info/library-sales"
     channeltitle "Sky News"
     channelid "UCoMdktPbSTixAyNGwb-UYkQ"
@@ -3277,7 +3277,7 @@ graph
     commentcount 658
     duration "PT8H30M30S"
     indegree 9
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 2207
     duration "PT3M15S"
     indegree 2
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -3331,7 +3331,7 @@ graph
     commentcount 2406
     duration "PT40M21S"
     indegree 3
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 7914
     duration "PT1H4M54S"
     indegree 9
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -3357,7 +3357,7 @@ graph
     label "1aHOdjsC3jk"
     step 0
     date "2022-05-24T14:30:05Z"
-    title "Studio head shuts down Amber Heard&#38;#39;s claims her role in &#38;#39;Aquaman 2&#38;#39; was diminished"
+    title "Studio head shuts down Amber Heard was diminished"
     description "Walter Hamada, the president of DC Films at Warner Brothers, testified in Johnny Depp's defamation trial against Amber Heard that her role in &#34;Aquaman 2&#34; was not diminished because of Depp, but was always planned to be diminished because of a lack of chemistry between Heard and star Jason Momoa, as well as the editorial direction the film was taking. &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -3367,7 +3367,7 @@ graph
     commentcount 3192
     duration "PT10M50S"
     indegree 17
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3375,7 +3375,7 @@ graph
     label "UDQTwLQmmus"
     step 0
     date "2022-05-23T16:34:42Z"
-    title "Johnny Depp trial fireworks: Amber Heard expert combative during fiery cross-examination"
+    title "Johnny Depp trial fireworks: Amber Heard e tongue sticking out ert combative during fiery cross-examination"
     description "Johnny Depp's attorney put Amber Heard's expert psychiatrist Dr. David Spiegel on the hot seat during cross-examination in the former couple's defamation trial. Dr. Spiegel appeared to get very frustrated with the line of questioning and accused the lawyer of going around in circles. The attorney and witness went back and forth and appeared to get combative with each other. &#10;&#10;Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1&#10;Where to watch LiveNOW from FOX: https://www.livenowfox.com/&#10;Follow us @LiveNOWFOX on Twitter: https://twitter.com/livenowfox&#10;&#10;Raw and unfiltered. Watch a non-stop stream of breaking news, live events and stories across the nation. Limited commentary. No opinion. Experience LiveNOW from FOX."
     channeltitle "LiveNOW from FOX"
     channelid "UCJg9wBPyKMNA5sRDnvzmkdg"
@@ -3385,7 +3385,7 @@ graph
     commentcount 27451
     duration "PT26M11S"
     indegree 22
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3393,7 +3393,7 @@ graph
     label "6cnIwHI2H4c"
     step 0
     date "2022-07-06T02:10:34Z"
-    title "Amber Heard&#8217;s legal team asks judge to overturn defamation verdict | Dan Abrams Live"
+    title "Amber Heards legal team asks judge to overturn defamation verdict | Dan Abrams Live"
     description "If you thought the courtroom battle between Amber Heard and Johnny Depp was over, you&#8217;ve got another thing coming. Amber Heard is already looking to overturn the defamation lawsuit verdict. &#10;&#10;#amberheard #johnnydepp #defamationtrial &#10;&#10;Dan Abrams Live brings a fresh, no-holds-barred approach to covering and analyzing the news.&#10;&#10;NewsNation is your source for fact-based, unbiased news for all America. &#10;&#10;Find us online: https://www.newsnationnow.com/&#10;Get our app: https://bit.ly/3AbFrG3&#10;Watch us on TV or via streaming: https://bit.ly/3oxRmf5"
     channeltitle "NewsNation"
     channelid "UCCjG8NtOig0USdrT5D1FpxQ"
@@ -3475,7 +3475,7 @@ graph
     commentcount 9
     duration "PT2M55S"
     indegree 6
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 1182
     duration "PT1H26M53S"
     indegree 14
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount 58
     duration "PT54M19S"
     indegree 1
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount 147
     duration "PT3M25S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3555,7 +3555,7 @@ graph
     label "9GIIasejkN4"
     step 0
     date "2022-07-12T00:01:24Z"
-    title "&#8216;Frivolous&#8217;: Johnny Depp slams Amber Heard&#8217;s bid for new trial"
+    title "s bid for new trial"
     description "Johnny Depp says a judge should reject Amber Heard&#8217;s request for a new trial as the Aquaman star suffers a new setback."
     channeltitle "Herald Sun"
     channelid "UCNkV2_eCEfIAlsbyZk5A_Cw"
@@ -3565,7 +3565,7 @@ graph
     commentcount 2
     duration "PT54S"
     indegree 4
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 5460
     duration "PT2M16S"
     indegree 13
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3663,7 +3663,7 @@ graph
     label "_mpXOor13Sw"
     step 0
     date "2022-07-07T20:30:02Z"
-    title "Leaked Email Reveals Amber Heard&#38;#39;s Masterplan To Frame Johnny Depp"
+    title "Leaked Email Reveals Amber Heards Masterplan To Frame Johnny Depp"
     description "Leaked Email Reveals Amber Heard's Masterplan To Frame Johnny Depp&#10;&#10;Do we finally have proof that Amber Heard and her friends devised an evil master plan to frame Johnny Depp?!&#10;&#10;More evidence is coming in that Amber Heard orchestrated an elaborate hoax against Johnny and tried to get him canceled after accusing him of DV. &#10;&#10;Of course, this theory is not exactly new.&#10;&#10;Two years before the Depp vs. Heard defamation trial started Johnny&#8217;s lawyer Adam Waldman publicly accused Amber of lying and called her DV allegations a &#8220;hoax.&#8221;&#10;&#10;&#10;subscribe for celeb drama: http://youtube.com/channel/UCylyoo597NuFFyJS_HwHubQ?sub_confirmation=1"
     channeltitle "This Happened"
     channelid "UCylyoo597NuFFyJS_HwHubQ"
@@ -3691,7 +3691,7 @@ graph
     commentcount 641
     duration "PT2M10S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 0
     duration "PT49S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3771,7 +3771,7 @@ graph
     label "e1rmoufSbdI"
     step 0
     date "2022-07-10T17:00:17Z"
-    title "SHOCKING NEW INFO. The &#8220;Wrong&#8221; Juror Attended Johnny Depp VS Amber Heard Trial. What Now?!"
+    title "SHOCKING NEW INFO. The Juror Attended Johnny Depp VS Amber Heard Trial. What Now?!"
     description "-OPEN ME FOR A SURPRISE-&#10;&#10;SUBSCRIBE TO MY SECOND CHANNEL:&#10;https://youtu.be/yG76UPVL2uM&#10;&#10;BECOME A MEMBER FOR EXCLUSIVE CONTENT WEEKLY: https://www.youtube.com/kyeluh/join&#10;&#10;-BUSINESS INQUIRIES ONLY-&#10;kyeluh@outlook.com&#10;&#10;-THIS VIDEO IS NOT SPONSORED-"
     channeltitle "kyeluh"
     channelid "UCuqfqlNFgvfiMLoC85-KrvA"
@@ -3789,7 +3789,7 @@ graph
     label "jWkH6K4_xEg"
     step 0
     date "2022-07-08T20:50:48Z"
-    title "Johnny Depp&#38;#39;s Lawyers Release New Audio Showing Amber Heard Planning Johnny&#38;#39;s Downfall"
+    title "Johnny Depps Downfall"
     description "Johnny Depp's Lawyers Release New Audio Showing Amber Heard Planning Johnny's Downfall&#10;&#10;&#10;Did Amber Heard plan Johnny Depp&#8217;s downfall for years?!&#10;&#10;Amber&#8217;s supporters always claimed there&#8217;s simply no way Amber could have pulled off such an elaborate hoax and risked getting sued BUT a new audio recording seems to prove she did just THAT!&#10;&#10;In this recording, Amber can be heard discussing the details of her master plan to frame Johnny and fans are now saying Amber deserves jail time for orchestrating a hoax, wasting police and court resources, and lying under oath. &#10;&#10;But what exactly did Amber say in this new audio about planning Johnny&#8217;s downfall?&#10;&#10;&#10;&#10;subscribe for celeb drama: http://youtube.com/channel/UCylyoo597NuFFyJS_HwHubQ?sub_confirmation=1"
     channeltitle "This Happened"
     channelid "UCylyoo597NuFFyJS_HwHubQ"
@@ -3861,7 +3861,7 @@ graph
     label "BFl1dBKCoAA"
     step 0
     date "2022-07-05T16:32:53Z"
-    title "Amber Heard Wants Depp Verdict Overturned: Claims Juror Lied"
+    title "Amber Heard Wants Depp Verdict Overturne tongue sticking out Claims Juror Lied"
     description "#AmberHeard's legal team is keeping up the fight to get the verdict overturned in the defamation trial against ex-husband #JohnnyDepp. New court filings reveal they are making a shocking claim one of the jurors was an impostor.&#10;&#10;WATCH #CourtTV LIVE - https://court.tv/live&#10;&#10;COURT TV IS BACK! 24/7 LIVE gavel-to-gavel coverage, in-depth legal reporting, and expert analysis of the nation&#8217;s most important and compelling trials.  &#10;&#10;WATCH COURT TV LIVE:&#10;  https://www.courttv.com/title/court-tv-live-stream-web/?trk=YouTube &#10;&#10;WATCH TRIALS ON DEMAND:&#10; https://www.courttv.com/programming/trial-archives/?trk=YouTube &#10;&#10;WHERE TO WATCH:   &#10;https://www.courttv.com/where-to-watch/?trk=YouTube"
     channeltitle "COURT TV"
     channelid "UCo5E9pEhK_9kWG7-5HHcyRg"
@@ -3889,7 +3889,7 @@ graph
     commentcount 480
     duration "PT1M49S"
     indegree 4
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 1652
     duration "PT2M31S"
     indegree 2
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 3182
     duration "PT1H54M56S"
     indegree 29
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 30
     duration "PT4M12S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     commentcount 3259
     duration "PT3H10M55S"
     indegree 13
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 2791
     duration "PT4H53M1S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 1831
     duration "PT3H37M53S"
     indegree 8
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 2193
     duration "PT4H18M3S"
     indegree 12
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 4403
     duration "PT5H24M56S"
     indegree 18
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4131,7 +4131,7 @@ graph
     label "dM5QhqnLvu8"
     step 0
     date "2022-07-11T20:23:44Z"
-    title "Amber Heard WON&#38;#39;T QUIT! Retrial?! OnlyFans?! Johnny Depp Going Back to Court?!"
+    title "Amber Heard WONT QUIT! Retrial?! OnlyFans?! Johnny Depp Going Back to Court?!"
     description "Pirates of the Caribbean Star Johnny Depp and Aquaman Starlet Amber Heard had their closing statements yesterday in court. Johnny Deoos side did an excellent job laying out how Amber allegedly set JD up to look like he sexually assaulted her and abused her buy Ambers side continued to try to convince the jury that SHE is the real victim in this case. The jury went out for deliberations and came back and said JOHNNY WON! But now Amber is trying to get a MIS TRIAL because of Juror number 15. What do you think should happen?&#10;&#10;&#10;&#10;&#128233; Business Inquiries- ChristinaRandallShow@outlook.com &#10;&#10;&#10;&#128373;&#127995;&#8205;&#9792;&#65039;Video Request Email: RequestCases@outlook.com&#10;*Video Requests- Include as many photos, links, details, as you'd like.*&#10;&#10;&#10;&#10;&#128187; Patreon: &#10;https://www.patreon.com/christinarandall&#10;&#10;&#10;&#127897; Street Smarts Podcast is available on:&#10;Apple (iTunes) Podcast: https://apple.co/2Lb54zx&#10;Spotify: https://spoti.fi/3fqid5T&#10;Google Podcast: https://bit.ly/3dtmsM9&#10;Deezer: https://bit.ly/2LdSWOu&#10;Buzzsprout: https://bit.ly/2WcOd5U&#10;iHeart Radio: https://ihr.fm/2AwGY0c&#10;&#10;&#10;&#10;&#128153;Videos To Watch:&#128153;&#10;Why I Went to Prison:&#10;https://youtu.be/3aBTg6FTNtw&#10;3 Year Prison Experience:&#10;https://youtu.be/-eaIGMRr30w&#10;What Changed Me:&#10;https://www.youtube.com/watch?v=XO-8jKXczxo&#10;After I Got Out:&#10;https://youtu.be/19J8WFtpfQw&#10;How I Met My Husband:&#10;https://youtu.be/V4coAHevfyM&#10;&#10;&#10;&#10;&#128241; Text Messages Michelle Sent Friends and Conrad and Family-&#10;* https://www.womenshealthmag.com/life/a28284327/michelle-carter-text-messages-conrad-roy/&#10;* PDF Court documented - https://htv-prod-media.s3.amazonaws.com/files/carter-exhibit-30-1497356322.pdf&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#128102;&#127995; Jadens Channel &#128102;&#127995;&#10;https://www.youtube.com/channel/UC69I-C6ZTB1OGQaYPRkKjgg&#10;&#10;Christina's 2nd Channel/Lifestyle Channel:&#128133;&#127996;&#128132;&#127947;&#127995;&#8205;&#9792;&#65039;&#128089;&#128096;https://www.youtube.com/channel/UCLJTYMJrbsaNpmyKFfTIsKg&#10;&#10;&#10;&#10;&#10;&#128233; Mailing Address:&#10;P.O. Box 3136&#10;Pensacola, FL&#10;32516&#10;&#10;&#10;&#10;&#10;&#10;&#128075;&#127996; Instagram:&#10;https://www.instagram.com/christinaarandall/&#10;&#10;&#128075;&#127996; Facebook:&#10;https://www.facebook.com/ChristinaRandallOfficial/&#10;&#10;&#10;&#129395; My Cameo: &#10;https://www.cameo.com/christinaarandall&#10;&#10;Join Our Facebook Support Group:&#10;https://www.facebook.com/groups/500604687372383/members/&#10;&#10;&#10;&#10;&#10;&#128212;My Ebook:&#10;https://www.amazon.com/Broken-Fabulous-Confident-Love-Yourself-ebook/dp/B07D5G3C3N/ref=sr_1_1?s=digital-text&#38;ie=UTF8&#38;qid=1530991416&#38;sr=1-1&#38;keywords=from+broken+to+fabulous&#10;&#10;&#10;&#10;&#128187;Need A Youtube/Facebook Banner Made? Check out-&#10;http://www.fiverr.com/s2/212b4b7b8b&#10;&#10;My Merch Artist:&#10;https://www.instagram.com/rahmonaz/&#10;&#10;&#10;&#10;&#10;&#10;&#10;Disclaimer &#8227; This video IS sponsored by the brand mentioned in this video. Some links may be affiliate links, they do not cost you anything, but I make a small percentage from the sale. You can always trust me to give you my 100% honest reviews on my channel, thank you so much for watching and supporting me. &#10;&#10;&#10;&#10;&#127926; MUSIC &#127926;&#10;&#10;Outro Song:&#10;https://www.youtube.com/watch?v=C6IaUMAg3Dc"
     channeltitle "Christina Randall"
     channelid "UCZTyzoGspuRurWtbWLEGqLQ"
@@ -4159,7 +4159,7 @@ graph
     commentcount 2248
     duration "PT4H7M19S"
     indegree 28
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4167,7 +4167,7 @@ graph
     label "A1JxYY6NklY"
     step 0
     date "2022-07-11T18:59:00Z"
-    title "Amber Heard&#38;#39;s Lawyers Seek to Overturn Depp Verdict"
+    title "Amber Heards Lawyers Seek to Overturn Depp Verdict"
     description "Should #AmberHeard be granted a new trial against her ex #JohnnyDepp? An issue with a juror could result in a mistrial. Heard's legal troubles continue after an insurance company files a lawsuit against her.&#10;&#10;WATCH #CourtTV LIVE - https://court.tv/live&#10;&#10;COURT TV IS BACK! 24/7 LIVE gavel-to-gavel coverage, in-depth legal reporting, and expert analysis of the nation&#8217;s most important and compelling trials.  &#10;&#10;WATCH COURT TV LIVE:&#10;  https://www.courttv.com/title/court-tv-live-stream-web/?trk=YouTube &#10;&#10;WATCH TRIALS ON DEMAND:&#10; https://www.courttv.com/programming/trial-archives/?trk=YouTube &#10;&#10;WHERE TO WATCH:   &#10;https://www.courttv.com/where-to-watch/?trk=YouTube"
     channeltitle "COURT TV"
     channelid "UCo5E9pEhK_9kWG7-5HHcyRg"
@@ -4195,7 +4195,7 @@ graph
     commentcount 4016
     duration "PT5H53M3S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4203,7 +4203,7 @@ graph
     label "2d13z-gbnMM"
     step 0
     date "2022-05-18T23:07:28Z"
-    title "Lawyer Reacts | Whitney Testifies!  Johnny Depp v. Amber Heard Trial Day 18"
+    title "Lawyer Reacts | Whitney Testifies! Johnny Depp v. Amber Heard Trial Day 18"
     description "#JohnnyDepp #AmberHeard&#10;&#10;Public Records Access for Depp v. Heard&#10;https://www.fairfaxcounty.gov/circuit/high-profile-cases&#10;&#10;Morning Stream: https://youtu.be/ErkzKi9diPE&#13;&#10;&#13;&#10;The Docket&#13;&#10;0:00 Welcome&#10;3:00 Whitney Heard Enriquez Testimony - Direct&#10;51:23 Whitney Heard Enriquez Testimony - Cross-Examine&#10;1:10:30 Court Break &#38; Questions&#10;1:29:41 Elizabeth Marz Video Testimony&#10;2:00:47 &#8203;Melanie Inglessis Video Testimony&#10;2:48:19 Kristy Sexton Video Testimony&#10;3:29:23 Q&#38;A Time&#10;&#10;Runkle Of The Bailey&#10;https://www.youtube.com/c/RunkleOfTheBailey&#10;https://twitter.com/IanRunkle&#10;&#10;**Connect with me**&#10;Business Inquiries: emilydbaker@semaphorebrands.com &#10;&#10;Join the community for exclusive content:  https://www.LawNerdsUnite.com&#10;&#10;**Looking for MERCH! : https://www.LawNerdShop.com **&#10;TEXT ME: https://www.TextEmily.com&#10;MAIL TIME: Emily D. Baker 2000 Mallory Ln. St. 130-185, Franklin Tn 37067&#10;&#10;**My Favorite YOUTUBE TOOL VidIQ  https://vidiq.com/LawNerd &#10;WHAT I USE TO STREAM: https://www.emilydbaker.com/streamyard &#10;&#10;SHORTS &#38; Clips? https://www.youtube.com/channel/UC7pGyYaOMsJv1tlPNBgAG2Q &#10;&#10;My TedTalk &#8594; https://www.youtube.com/watch?v=HBXkN9sQELk&#10;&#10;Shop for makeup and support Emily at the same time! Visit our friends at Gerard Cosmetics &#8594; https://gerardcosmetics.com/ and use code LAWNERDS for 30% OFF&#10;&#10;Join me on Social @TheEmilyDBaker&#10;https://www.Instagram.com/TheEmilyDBaker&#10;https://www.Twitter.com/TheEmilyDBaker&#10;&#10;Follow My Cats on Instagram:&#10;https://www.instagram.com/fredandgeorge_cat/&#10;&#10;What I use to make my Videos and the things I am loving right now!&#10;http://www.Amazon.com/shop/emilydbaker  &#10;&#10;Hey! I have a podcast -- The Emily Show is on your favorite podcast player or here  http://www.emilydbaker.com/podcast &#10; &#10;*This video is not legal advice; it is commentary for educational and entertainment purposes. These videos are based on publically available information unless otherwise stated. Sharing a resource is not an endorsement; it is a resource. Copyright 2020-2022 Baker Media, LLC*"
     channeltitle "Emily D. Baker"
     channelid "UCE-laOeM9gLfTcWF4HRBPpA"
@@ -4231,7 +4231,7 @@ graph
     commentcount 4822
     duration "PT9M31S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 4094
     duration "PT6H21M"
     indegree 31
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 1861
     duration "PT4H31M20S"
     indegree 16
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4311,7 +4311,7 @@ graph
     label "H8-DPzKaTPM"
     step 0
     date "2022-07-11T15:29:42Z"
-    title "Johnny Depp lands film role as playboy King Louis XV post explosive Amber Heard trial| New York Post"
+    title "Johnny Depp lands film role as playboy King Louis XV post e tongue sticking out losive Amber Heard trial| New York Post"
     description "Netflix is betting on Johnny Depp.&#10;&#10;The streaming giant known for hits like &#8220;Stranger Things,&#8221; &#8220;Bridgerton&#8221; and &#8220;Squid Game,&#8221; is set to license and stream Depp&#8217;s next movie, fresh on the heels of the actor&#8217;s bombshell defamation trial win against ex-wife Amber Heard.&#10;&#10;Citing anonymous sources, Bloomberg News reported Thursday that Netflix will financially back the French period film, &#8220;La Favorite,&#8221; in which Depp will portray King Louis XV.&#10;&#10;A source close to Netflix said the streamer isn&#8217;t financing the film, but license it for a window 15 months after the theatrical release in France only.&#10;&#10;Netflix did not comment.&#10;&#10;#JohnnyDepp #AmberHeard #celebrities &#10;&#10;Read more at: https://nypost.com/2022/07/07/netflix-bets-on-johnny-depps-return-to-film-as-king-louis-xv-report/&#10;&#10;The New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.&#10;&#10;Subscribe to New York Post Sports: https://www.youtube.com/c/nypostsports&#10;&#10;Catch the latest news here: https://nypost.com/&#10;Follow The New York Post on:&#10;Twitter - https://twitter.com/nypost&#10;Facebook - https://www.facebook.com/NYPost"
     channeltitle "New York Post"
     channelid "UCrvhNP_lWuPIP6QZzJmM-bw"
@@ -4321,7 +4321,7 @@ graph
     commentcount 3
     duration "PT58S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4329,7 +4329,7 @@ graph
     label "QDxs7l6xE-Y"
     step 0
     date "2022-07-09T17:29:21Z"
-    title "Leaked Emails Expose Amber Heard For Attempting To Frame Johnny Depp!!!"
+    title "Leaked Emails E tongue sticking out ose Amber Heard For Attempting To Frame Johnny Depp!!!"
     description "Leaked Emails Expose Amber Heard For Attempting To Frame Johnny Depp!!! &#10;&#10;It is known that the appointed authority in the Johnny Depp-Amber Heard trial made the official request and that was for Heard to pay Depp $10.35 million for harming his standing. With the judge requesting Depp to pay Heard $2 million for her counterclaim that his legal advisor defamed her name. Now this is all not brand new news as many who followed the trial are already aware of this verdict, but since the request was passed another interesting piece of data has been released on the web. Multiple posts have been shared claiming &#8216;spilled&#8217; screen captures of an email between Depp's legal group from Adam Waldman to Ben Chew and Camille Vasquez that reveal some interesting things. Allow us to break all the recent news down for you but first be sure to like the video and subscribe to the channel below.&#10;&#10;Click HERE To Enter The GIVEAWAY!&#10;https://www.youtube.com/crazedculture?sub_confirmation=1&#10;&#10;You are not required to comment to win the giveaway distributed in the video. It is ONLY a recommendation. You must have a twitter under the same username of youtube in order to qualify to get in contact with you. For more information on giveaways refer to youtube&#8217;s contest policies:  &#10;https://support.google.com/youtube/answer/1620498?hl=e"
     channeltitle "Crazed Culture"
     channelid "UCzlicyYuPMjtF9VVvJr-PeA"
@@ -4357,7 +4357,7 @@ graph
     commentcount 1323
     duration "PT4H22M36S"
     indegree 12
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4365,7 +4365,7 @@ graph
     label "J8v69Vs0RTU"
     step 0
     date "2022-05-25T16:00:17Z"
-    title "Johnny Depp Trial Fireworks: Amber Heard expert Defensive during Feisty Cross-Examination"
+    title "Johnny Depp Trial Fireworks: Amber Heard e tongue sticking out ert Defensive during Feisty Cross-Examination"
     description "Johnny Depp Trial Fireworks: Amber Heard expert Defensive during Feisty Cross-Examination, comes across extremely unprofessional and doesn't work in his favour.&#10;&#10;This isn't my regular content, just some clips from our Twitch stream I think you guys may find interesting. A fan of the Captain himself, this Johnny Depp &#38; Amber Heard trial is fascinating on so many levels. Feel free to join us 9am GMT to catch up each morning on the Trial. &#10;&#10;--- Join the Community ---&#10;&#128075; Socials: https://linktr.ee/Danneh&#10;&#127758; Website: https://www.danneh.tv/&#10;&#128077; My Discord&#8203;&#8203;&#8203;&#8203;: https://discord.gg/DKcxC2D4Az&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#10;&#128128; Pirate Gaming Discord: https://discord.gg/pirategaming&#10;&#127909; YouTube: https://youtube.com/Danneh&#10;&#128250; Twitch: https://www.twitch.tv/DannehTV&#10;&#10;- - - -&#10;#JohnnyDepp #AmberHeard #DrSpiegel&#10;- - - - &#10;Depp filed a $50 million defamation suit against Heard after she wrote a Washington Post essay in 2018, headlined &#8220;I spoke up against sexual violence &#8212; and faced our culture&#8217;s wrath. That has to change.&#8221; The essay did not mention Depp by name. However, Depp claims it damaged his reputation and cost him a role in another Pirates of the Caribbean movie."
     channeltitle "Danneh"
     channelid "UC-V_KwqA5baK1cTdVKCwe9w"
@@ -4375,7 +4375,7 @@ graph
     commentcount 2
     duration "PT2M15S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4411,7 +4411,7 @@ graph
     commentcount 793
     duration "PT2M20S"
     indegree 3
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4419,7 +4419,7 @@ graph
     label "r2Beybui0V4"
     step 0
     date "2022-07-06T19:42:44Z"
-    title "Amber Heard&#38;#39;s Family Member EXPOSES More Of Amber&#38;#39;s Shocking Lies"
+    title "Amber Heards Shocking Lies"
     description "Amber Heard's Family Member EXPOSES More Of Amber's Shocking Lies&#10;&#10;Is there an end to Amber Heard&#8217;s lies?&#10;&#10;Johnny Depp&#8217;s defamation trial against Amber lasted six weeks and on June 1st, the jury unanimously sided with Johnny and awarded him $10.35 million in damages.&#10;&#10;And though Johnny&#8217;s lawyers did a brilliant job at highlighting the inconsistencies in Amber&#8217;s story, six weeks still wasn&#8217;t enough time to expose all of Amber&#8217;s lies.&#10;&#10;So even though the trial ended a month ago, shocking evidence of Amber&#8217;s lies keeps coming in. &#10;&#10;In fact, someone with direct ties to the Heard family revealed that Amber didn&#8217;t just mistreat Johnny but that she also used to get physical with her own family.&#10;&#10;&#10;&#10;subscribe for celeb drama: http://youtube.com/channel/UCylyoo597NuFFyJS_HwHubQ?sub_confirmation=1&#10;&#10;#thishappened"
     channeltitle "This Happened"
     channelid "UCylyoo597NuFFyJS_HwHubQ"
@@ -4437,7 +4437,7 @@ graph
     label "IKHypLLL79c"
     step 0
     date "2022-07-06T21:00:11Z"
-    title "Amber Heard EXPOSED For Sleeping With ACLU Head For Protection"
+    title "Amber Heard E tongue sticking out OSED For Sleeping With ACLU Head For Protection"
     description "Amber Heard EXPOSED For Sleeping With ACLU Head For Protection&#10;&#10;Is Amber Heard sleeping with the head of the ACLU?!&#10;&#10;Internet detectives are claiming that Amber is hooking up with Anthony D. Romero, the executive director of the American Civil Liberties Union, or ACLU - the charity Amber &#8220;pledged&#8221; to give half of her divorce settlement.&#10;&#10;Amber was recently spotted shopping at a discount store in the Hamptons and fans are convinced this PR campaign is being funded by the ACLU.&#10;&#10;On top of that, the ACLU is now SUING Johnny for legal fees associated with court documentation in Johnny and Amber&#8217;s defamation trial.&#10;&#10;&#10;subscribe for celeb drama: http://youtube.com/channel/UCylyoo597NuFFyJS_HwHubQ?sub_confirmation=1&#10;&#10;#amberheard"
     channeltitle "This Happened"
     channelid "UCylyoo597NuFFyJS_HwHubQ"
@@ -4455,7 +4455,7 @@ graph
     label "7c6jmjkI6_U"
     step 0
     date "2022-05-03T17:00:02Z"
-    title "Johnny Depp Vs. Amber Heard Trial Explained in 60 Seconds!   @Law By Mike #Shorts #celebrity #lawyer"
+    title "Johnny Depp Vs. Amber Heard Trial E tongue sticking out lained in 60 Seconds! @Law By Mike #Shorts #celebrity #lawyer"
     description "It's been all over the news, but what exactly happened between Johnny Depp and Amber Heard? &#10;In this 60 second video, a lawyer breaks it down for us in simple terms.  Subscribe to  @Law By Mike  for more tips and analysis! &#10;&#10;&#11088; Become a member of the Law Squad to get exclusive perks&#11088;&#10;https://www.youtube.com/channel/UCKmmERguliWTynG9OIoDhDw/join&#10;&#10;&#9878;&#65039; Questions? Issues? Contact Me: https://lawbymike.com&#10;&#128242; OR TEXT 279-529-6453 (279-LAW-MIKE)&#10;&#128126; Join My Discord Community: https://go.lawbymike.com/Chat&#10;&#128248; Instagram: http://go.lawbymike.com/IG&#10;&#9654;&#65039; Subscribe To My YouTube: http://go.lawbymike.com/YT&#10;&#127911; Podcasts: http://go.lawbymike.com/Podcast&#10;&#127925; TikTok: http://go.lawbymike.com/TikTok&#10;&#128240; Need PR Help? Check Out Otter PR: https://go.lawbymike.com/PR&#10;&#10;#johnnydepp #law #lawyer #lawbymike #repeatafterme #tiktok #youtubeshorts #amberheard #defamation #lawsuit #legal #attorney #lawschool #trial #legal&#10;&#10;DISCLAIMER (Of course, I'd have one &#128513;)&#10;Hey, you might think that this info makes me your lawyer, but it doesn&#8217;t and I&#8217;m not. Sorry, but I AM NOT YOUR LAWYER unless we have an engagement agreement. I am just providing public information here, like a library does, and am not providing you with legal advice about your situation. So, it would be totally unreasonable for you to conclude we have an attorney-client relationship just because you're viewing this information."
     channeltitle "Law By Mike"
     channelid "UCKmmERguliWTynG9OIoDhDw"
@@ -4465,7 +4465,7 @@ graph
     commentcount 9610
     duration "PT56S"
     indegree 1
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 4
     duration "PT1H3M22S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount 2
     duration "PT6M12S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4509,7 +4509,7 @@ graph
     label "Cpw7iAoGBzI"
     step 0
     date "2022-07-09T05:29:36Z"
-    title "Friday Night Live | Depp v. Heard New Motion Fake Juror?? Explaining the Girardi case to LawTube."
+    title "Friday Night Live | Depp v. Heard New Motion Fake Juror?? E tongue sticking out laining the Girardi case to LawTube."
     description "#JohnnyDepp #AmberHeard #ErikaGiradi &#10;&#13;&#10;Check out the sale at Gerard Cosmetics! https://gerardcosmetics.com/ and use code LAWNERDS&#10;&#10;Be sure to support my guests! &#10;@Hoeg Law @Runkle Of The Bailey @Law &#38; Lumber  &#13;&#10;&#10;The Docket&#13;&#10;0:00 Welcome&#13;&#10;9:50 Gerard Cosmetics Ad Spot&#10;14:02 Weekly RoundUp&#10;14:12 Borat Sued&#10;26:00 Prince Harry&#10;30:37 Dunder Mifflin Trademark Issue&#10;51:55 Girardi Update&#10;1:04:55 Depp v. Heard New Motion&#10;1:17:36 Request for Mistrial&#10;1:46:10 Q&#38;A&#10;1:47:48  @Runkle Of The Bailey @Hoeg Law @Law &#38; Lumber Joined!&#10;&#10;**Connect with me**&#10;Business Inquiries: emilydbaker@semaphorebrands.com &#10;&#10;Join the community for exclusive content:  https://www.LawNerdsUnite.com&#10;&#10;**Looking for MERCH! : https://www.LawNerdShop.com **&#10;TEXT ME: https://www.TextEmily.com&#10;MAIL TIME: Emily D. Baker 2000 Mallory Ln. St. 130-185, Franklin Tn 37067&#10;&#10;**My Favorite YOUTUBE TOOL VidIQ  https://vidiq.com/LawNerd &#10;WHAT I USE TO STREAM: https://www.emilydbaker.com/streamyard &#10;&#10;SHORTS &#38; Clips? https://www.youtube.com/channel/UC7pGyYaOMsJv1tlPNBgAG2Q &#10;&#10;My TedTalk &#8594; https://www.youtube.com/watch?v=HBXkN9sQELk&#10;&#10;Shop for makeup and support Emily at the same time! Visit our friends at Gerard Cosmetics &#8594; https://gerardcosmetics.com/ and use code LAWNERDS for 30% OFF&#10;&#10;Join me on Social @TheEmilyDBaker&#10;https://www.Instagram.com/TheEmilyDBaker&#10;https://www.Twitter.com/TheEmilyDBaker&#10;&#10;Follow My Cats on Instagram:&#10;https://www.instagram.com/fredandgeorge_cat/&#10;&#10;Emily&#8217;s glasses lenses are Irlen tint https://www.irlen.com &#10;&#10;My coffee mug, streaming setup and the things I am loving right now!&#10;http://www.Amazon.com/shop/emilydbaker   &#10;&#10;Hey! I have a podcast -- The Emily Show is on your favorite podcast player or here  http://www.emilydbaker.com/podcast &#10; &#10;*This video is not legal advice; it is commentary for educational and entertainment purposes. These videos are based on publically available information unless otherwise stated. Sharing a resource is not an endorsement; it is a resource. Copyright 2020-2022 Baker Media, LLC*"
     channeltitle "Emily D. Baker"
     channelid "UCE-laOeM9gLfTcWF4HRBPpA"
@@ -4519,7 +4519,7 @@ graph
     commentcount 1843
     duration "PT5H2M54S"
     indegree 26
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4527,7 +4527,7 @@ graph
     label "EMYu0qsBGAE"
     step 0
     date "2022-07-08T12:00:06Z"
-    title "The Moment When Camille Vasquez Got Fed Up With Amber Heard&#38;#39;s LIES"
+    title "The Moment When Camille Vasquez Got Fed Up With Amber Heards LIES"
     description "#JusticeForJohnnyDepp #JohnnyDeppTrial #AmberHeardTrial&#10;Amber Heard vs Johnny Depp Trial. Johnny Depp's Lawyer Camille Vasquez goes off on Amber Heard during cross examination."
     channeltitle "Camille Vasquez Clips"
     channelid "UCUVPmCywviB_eGHwvrVw7lQ"
@@ -4545,7 +4545,7 @@ graph
     label "DjpoHhf_AQw"
     step 0
     date "2022-07-09T22:24:04Z"
-    title "NEW INFO about Amber Heard&#38;#39;s &#8220;Fake Juror&#8221;  |  Lawyer Reacts"
+    title "NEW INFO about Amber Heard | Lawyer Reacts"
     description "Amber Heard has filed a supplemental motion citing new grounds for the judge to declare a mistrial and give her a new trial in the Johnny Depp v. Amber Heard defamation case.  Harvard Lawyer Lee talks about Amber&#8217;s new information and her request for a new trial. &#10;&#10;#Johnnydepp&#10;#Amberheard&#10;#fakejuror"
     channeltitle "Harvard Lawyer Lee"
     channelid "UCXXZgehRtbz2Fopk9iioZfQ"
@@ -4573,7 +4573,7 @@ graph
     commentcount 4075
     duration "PT4H57M44S"
     indegree 17
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "IZ1Lkt_j60g"
     step 0
     date "2022-07-10T18:49:51Z"
-    title "BREAKING!! - Amber Heard&#38;#39;s LIE exposed - Depp Trial Legal Analysis - Are Lawyers Honest? Part 5"
+    title "BREAKING!! - Amber Heards LIE e tongue sticking out osed - Depp Trial Legal Analysis - Are Lawyers Honest? Part 5"
     description "In this series, we'll explore the topic of honesty in the legal profession.  We'll learn about ethical rules - technical and aspirational - for attorneys, and how they were followed (or not) in the Depp v. Heard trial.  What was right, what was wrong, and what was downright Slimeball City?  In general, do lawyers have to tell the truth?  &#10;&#10;The walls are closing in!  Details of litigation between two insurance companies who provided policies to Amber Heard for defamation have been revealed. Details of this litigation reveals that Amber Heard did NOT find herself unable to donate to CHLA and ACLU as she promised because she has had to pay $6 million in legal fees - Travelers Insurance Company has paid the bill for her! And Elaine Bredehoft KNEW this, because she is the attorney Travelers approved for her defense!  This could be a BIG ethical problem for Elaine.&#10;&#10;&#10;00:00   Intro&#10;00:48 While Amber is propagandizing, TMZ is doing journalism&#10;03:46 I found the Travelers v. NY Marine &#38; General lawsuit&#10;05:40 Travelers paid for Roberta Kaplan and Elaine Bredehoft&#10;06:15 Elaine's fee milking is part of the genesis of the dispute&#10;07:43 Amber made the payment of her legal fees part of her case&#10;08:46 Elaine repeated Amber's claim to the jury in her closing argument&#10;10:39 Revisiting the ethical rules about truthfulness&#10;&#10;____&#10;&#10;&#10;Previous series episodes:&#10;Part 1: Introduction - https://www.youtube.com/watch?v=C06ywpSBcbg&#38;list=PL8WXX74UtY79p2yY0LvKgyx7w9Fu3a8PY&#38;index=1&#10;&#10;Part 2: Aspirations - https://www.youtube.com/watch?v=7kjSaJrXLs8&#38;list=PL8WXX74UtY79p2yY0LvKgyx7w9Fu3a8PY&#38;index=2&#10;&#10;Part 3: Did Amber Heard File a Frivolous Counterclaim? - https://www.youtube.com/watch?v=QPTO__dqolA&#38;list=PL8WXX74UtY79p2yY0LvKgyx7w9Fu3a8PY&#38;index=3&#10;&#10;Part 4: Amber Heard Subpoenas Twitter Critics - https://www.youtube.com/watch?v=vJgpqFfCMiQ&#38;list=PL8WXX74UtY79p2yY0LvKgyx7w9Fu3a8PY&#38;index=4"
     channeltitle "Andrea Burkhart"
     channelid "UCWhkIAl6FG9gTkQz17v4vfQ"
@@ -4627,7 +4627,7 @@ graph
     commentcount 2236
     duration "PT4H38M41S"
     indegree 4
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4645,7 +4645,7 @@ graph
     commentcount 2594
     duration "PT5H18M44S"
     indegree 13
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4663,7 +4663,7 @@ graph
     commentcount 635
     duration "PT8M43S"
     indegree 1
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     commentcount 18
     duration "PT42S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4707,7 +4707,7 @@ graph
     label "cvLOki8JvU4"
     step 0
     date "2022-06-01T13:45:25Z"
-    title "Johnny Depp vs Amber Heard Trial &#8220;SEA SHANTY SONG&#8221; (TRAP REMIX)"
+    title "Johnny Depp vs Amber Heard Trial (TRAP REMIX)"
     description "Johnny Depp vs Amber Heard Trial &#8220;SEA SHANTY SONG&#8221; (TRAP REMIX)&#10;.&#10;.&#10;Make sure to leave a comment!&#10;.&#10;.&#10;.&#10;.&#10;#Trap #Bass&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Make sure to like and subscribe!&#10;.&#10;.&#10;.&#10;.&#10;If there are any problems with the artist or the label please contact me: jadinatwood07@gmail.com&#10;.&#10;.&#10;.&#10;.&#10;&#10;Tags:&#10;traprave,trap rave,rave trap,ravetrap,freestyle beat,bass nation mix,bass nation loud,bass nation playlist,bass nation anthem,bass nation 1 hour,bass nation remix,bass nation christmas,bass nation royalty free,bass nation abyss,bass nation ares,bass nation area 51,bass nation axiom,bass nation ameno,bass nation ascent,bass nation blue,bass nation cardi b,bass nation conquer,bass nation cold,bass nation calli boom,bass nation copyright free,bass nation chill,bass nation cavalier,bass nation divine,bass nation drip,bass nation downtime,bass nation divine power,bass nation dance monkey,bass nation delp,bass nation dieom,bass nation drum kit,bass nation elite,bass nation end,bass nation eben,bass nation ef,bass nation evil,bass nation flp,bass nation falling,bass nation flare,bass nation fearless,bass nation flame,bass nation fire,bass nation grim,bass nation god,bass nation gangsta,bass nation goku,bass nation greed,bass nation ghost,bass nation godzilla,bass nation game,bass nation grey,bass nation god level,bass nation hopex,bass nation hyperforms,bass nation headlock,bass nation halsey,bass nation hurt,bass nation hard bass,bass nation 1h,bass nation invasion,bass nation illusion,bass nation imagine dragons,bass nation india,bass nation in my mind,bass nation infinity,bass nation inferno,bass nation jaeger,bass nation jacaro,bass nation jade,bass nation jungle,bass nation jurgaz,bass nation jason rich,bass nation jingle bells,bass nation king of the dead,body kit bass nation,bass nation white katana,bass nation live,bass nation legend,bass nation look alive,bass nation lust,bass nation lalala,bass nation lacrimosa,bass nation limitless,bass nation look at me,bass nation mega bass,bass nation mix 2019,bass nation mctr,bass nation mexico,bass nation mystic,bass nation mix mega bass,bass nation music,bass nation mashup,bass nation mercy,bass nation noixes,bass nation new years mix,bass nation noax the end,bass nation no chill,bass nation ncs,bass nation nye,bass nation nvte,bass nation new years,bass nation oshi,bass nation one hour,bass nation osias,bass nation okeechobee,bass nation odin,bass nation og,bass nation omega,bass nation overdue,bass nation post malone,bass nation pulse,bass nation pink,bass nation paris,bass nation piano,bass nation playlist 2020,bass nation purge,bass nation perseus,bass nation party,bass nation rockstar,bass nation realm,bass nation slight,bass nation samurai,bass nation skypierr,bass nation storm,bass nation sync,bass nation super,bass nation thoughts,bass nation tutorial,bass nation titan,bass nation type beat,bass nation the box,bass nation trap,bass nation tokyo,bass nation troyboi,bass nation universe,bass nation visualizer,bass nation violent,bass nation vision,bass nation valhalla,bass nation vrtic,bass nation vengeance,bass nation wave,bass nation war,bass nation wrath,bass nation webster,bass nation wyvern,bass nation xam,bass nation xchenda,bass nation yaboii,bass nation y2k,bass nation zomb,bass nation zade,bass nation 10 hours,bass nation 123,anthem bass nation 1 hour,bass nation top 10,bass nation the end 1 hour,anthem 1 bass nation,bass nation 2020 mix,bass nation 2019 mix"
     channeltitle "Trap Rave"
     channelid "UCT9CF5uaDstA-1MJdO4KPaQ"
@@ -4717,7 +4717,7 @@ graph
     commentcount 2
     duration "PT1M48S"
     indegree 0
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 1105
     duration "PT8M34S"
     indegree 6
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -4743,7 +4743,7 @@ graph
     label "DKt7iYS2Sgw"
     step 0
     date "2022-06-05T16:57:04Z"
-    title "True Cost of the Johnny Depp/Amber Heard Trial &#128556;"
+    title "True Cost of the Johnny Depp/Amber Heard Trial "
     description "Start investing with bonuses below &#10549;&#65039;&#10;&#10;&#9658; Claim Your $5 in Bitcoin: https://bit.ly/DANIELCOINBASE&#10;&#10;&#9658; Claim Your FREE stock: https://bit.ly/DIROBIN&#10;&#10;----------&#10;&#10;&#10;&#10;----------&#10;&#10;None of this is meant to be construed as investment advice, it's for entertainment purposes only. Links above include affiliate commission or referrals. I'm part of an affiliate network and I receive compensation from partnering websites. The video is accurate as of the posting date but may not be accurate in the future."
     channeltitle "Daniel Iles"
     channelid "UCXl0djQ2IljcG-shgv-hIEA"
@@ -4753,7 +4753,7 @@ graph
     commentcount 1758
     duration "PT40S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -4815,7 +4815,7 @@ graph
     label "tY_8ONojntM"
     step 0
     date "2022-07-08T23:48:07Z"
-    title "BREAKING: FAKE JUROR  DISCOVERED In Johnny Depp Trial| Amber DEMANDS Mistrial| Johnny Team STUNNED"
+    title "BREAKING: FAKE JUROR DISCOVERED In Johnny Depp Trial| Amber DEMANDS Mistrial| Johnny Team STUNNED"
     description "#johnnydepp  #amberheard #johnnydepptrial  &#10;&#10;Details About The &#8216;Fake&#8217; Juror Released In Amber Heard v. Johnny Depp Trial. Amber Heard claims there was fake juror in Johnny Depp defamation case as she demands judge declares mistrial&#10;Aquaman actor filed new court documents in Fairfax County Circuit Court in Virginia on Friday arguing that the information on the jury panel list doesn&#8217;t match the demographics of juror 1. Johnny Depp Verdict Thrown Into Chaos As Wrong Juror Seated In Virginia Trial, Amber Heard Says; Wants New Trial."
     channeltitle "Tisa Tells"
     channelid "UC2Uh-lmzQHXXu1hgxAsOYTg"
@@ -4833,7 +4833,7 @@ graph
     label "cQ_rInNP00M"
     step 0
     date "2022-07-05T16:21:23Z"
-    title "MISTRIAL?! Amber Heard Calls Juror FAKE &#38;amp; Johnny Depp a LIAR In New Motion - Lawyer Reacts!"
+    title "MISTRIAL?! Amber Heard Calls Juror FAKE Johnny Depp a LIAR In New Motion - Lawyer Reacts!"
     description "MISTRIAL?! Amber Heard Calls Juror FAKE &#38; Johnny Depp a LIAR In New Motion - Lawyer Reacts!&#10;&#10;Andy Signore Popcorned Planet discusses Amber Heard Appeal regarding Juror 15!&#10;&#10;Excerpt from Daily Mail&#10;Amber Heard demands that defamation verdict is tossed: Lawyers for Aquaman actress who lost case against ex-husband Johnny Depp claim a juror was illegitimate and that 'evidence does not support verdict'&#10;Lawyers representing Heard, 36, filed the motion on Friday on the grounds that the verdict that she had defamed Depp, 59, were not supported by evidence &#10;They also alleged that a juror had not been properly vetted, and questioned whether that juror was even supposed to be allowed on the jury&#10;Depp's lead attorney, Ben Chew, responded to the motion in a statement to Courthouse News, saying 'What we expected, just longer, no more substantive' &#10;On June 24, Judge Azcarate told Heard's team that day that if they wanted an appeal, they could file for one with the court&#10;&#10;S U P P O R T   T H I S.   C H A N N E L:&#10;Subscribe, Donate, Get Merch &#38; Follow Us Here: https://linktr.ee/AndySignore&#10;&#10;Buy our Exclusive MERCH: https://nosysknows.com/pages/popcorned-planet?aff=3&#10;&#10;And JOIN Our Community to become a Popcorned Planeteer, to really become a part of the team for Perks, Members Only Live Shows and EXCLUSIVE Videos &#38; Replays: https://www.youtube.com/playlist?list=UUMOCdicbO4cLE4s1wbXjJSuSg&#10;&#10;Popcorned Planet offers Celebrity News, Pop Culture Outrage, Missing Person Cases and True Crime Stories. Some on-going stories we're passionate about: Justice for Johnny Depp, Justice for Britney Spears, the Gabby Petitio Foundation and Astroworld Accountability. Created and hosted by Andy Signore (creator of ScreenJunkies, Honest Trailers, MovieFights, Hugging The Cactus, Movie World, Man At Arms and more). PopcornedPlanet is your one stop place Daily News, Celebrity Drama, Hollywood insight and Pop Culture Commentary. &#10;&#10;C O N T A C T /  B U S I N E S S : PopcornedPlanetTeam@gmail.com&#10;&#10;Or Send Packages, Toys &#38; Fan Mail To:&#10;Andy Signore&#10;16350 Bruce B Downs Blvd&#10;PO Box # 48742&#10;Tampa FL, 33647&#10;&#10;#JohnnyDepp #AmberHeard #AmberHeardAppeal"
     channeltitle "Popcorned Planet"
     channelid "UCCdicbO4cLE4s1wbXjJSuSg"
@@ -4861,7 +4861,7 @@ graph
     commentcount 7682
     duration "PT5M9S"
     indegree 4
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -4879,7 +4879,7 @@ graph
     commentcount 2427
     duration "PT9M33S"
     indegree 8
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -4887,7 +4887,7 @@ graph
     label "DW3oMJDs0Wc"
     step 0
     date "2022-05-09T21:51:29Z"
-    title "EPIC WIN! Johnny Depp&#8217;s Team Celebrates As Amber Heard DRAGS Kate Moss Into Trial! What This Means"
+    title "EPIC WIN! Johnny Depps Team Celebrates As Amber Heard DRAGS Kate Moss Into Trial! What This Means"
     description "EPIC WIN! Johnny Depp&#8217;s Team Celebrates As Amber Heard DRAGS Kate Moss Into Trial! What This Means&#10;&#10;S U P P O R T   T H I S.   C H A N N E L:&#10;Subscribe, Donate, Get Merch &#38; Follow Us Here: https://linktr.ee/AndySignore&#10;&#10;Buy our Exclusive MERCH: https://nosysknows.com/pages/popcorned-planet?aff=3&#10;&#10;And JOIN Our Community to become a Popcorned Planeteer, to really become a part of the team for Perks, Members Only Live Shows and EXCLUSIVE Videos &#38; Replays: https://www.youtube.com/playlist?list=UUMOCdicbO4cLE4s1wbXjJSuSg&#10;&#10;Popcorned Planet offers Celebrity News, Pop Culture Outrage, Missing Person Cases and True Crime Stories. Some on-going stories we're passionate about: Justice for Johnny Depp, Justice for Britney Spears, the Gabby Petitio Foundation and Astroworld Accountability. Created and hosted by Andy Signore (creator of ScreenJunkies, Honest Trailers, MovieFights, Hugging The Cactus, Movie World, Man At Arms and more). PopcornedPlanet is your one stop place Daily News, Celebrity Drama, Hollywood insight and Pop Culture Commentary. &#10;&#10;C O N T A C T /  B U S I N E S S : PopcornedPlanetTeam@gmail.com&#10;&#10;Or Send Packages, Toys &#38; Fan Mail To:&#10;Andy Signore&#10;16350 Bruce B Downs Blvd&#10;PO Box # 48742&#10;Tampa FL, 33647"
     channeltitle "Popcorned Planet"
     channelid "UCCdicbO4cLE4s1wbXjJSuSg"
@@ -4897,7 +4897,7 @@ graph
     commentcount 4145
     duration "PT27M32S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4923,7 +4923,7 @@ graph
     label "I0qgYPEfQxg"
     step 0
     date "2022-07-12T12:00:09Z"
-    title "Lawyer REVEALS New Details On The Trial&#8217;s Affect On Elaine&#8217;s Career!"
+    title "Lawyer REVEALS New Details On The Trials Career!"
     description "Lawyer REVEALS New Details On The Trial&#8217;s Affect On Elaine&#8217;s Career!&#10;Since the legal battle between Depp and Amber unfolded, Amber&#8217;s lawyer, Elaine, has been taking the fall for Amber&#8217;s lack of credibility, and legal experts believe that she is bound to take another hit.&#10;&#10;&#10;Here on Film Streak we are all about the latest spill in Hollywood! You can rest assured that we will bring you all the latest celebrity drama and gossip especially concerning your favorite actors! We&#180;ll also make sure to keep you updated on the newest movie updates and releases &#8211; so if you are interested in anything that happens in Hollywood, you should make sure to stay tuned! &#10;&#10;And there you have it guys! We hope you enjoyed the video! If you did please consider leaving a like and telling us what you thought in the comments! &#10;&#10;Here are some links to some of our other videos that you might find interesting as well:&#10;&#34;FORGIVE ME&#34; Justin Bieber Apologies to Hailey Bieber (IG LIVE VIDEO): https://www.youtube.com/watch?v=u-m_Q7FS91I&#10;Emilia Clarke REACTION Before Replacing Amber Heard in Aquaman 2! https://www.youtube.com/watch?v=PYXp9wXHUWw&#10;Johnny Depp OFFICIALLY REHIRED | Back In a New Pirates of the Caribbean 6 Movie? https://www.youtube.com/watch?v=utozMdfngVk&#10;Elon Musk Speaks Against Amber Heard &#38; Defends Johnny Depp!&#10;https://www.youtube.com/watch?v=wOo2BFTRrL4&#10;&#10;So, if you are interested in anything related to Hollywood, make sure to smash that subscribe button to see more of our content in the future! &#127916; https://bit.ly/3kzplQd &#10;&#10;#JohnnyDepp #AmberHeard #Elaine #FilmStreak"
     channeltitle "Film Streak"
     channelid "UCIQz7nN_zTfIoSOh7HasYIQ"
@@ -4977,7 +4977,7 @@ graph
     label "ZLpxFbir31U"
     step 0
     date "2022-07-06T14:00:29Z"
-    title "Amber Heard&#38;#39;s Post-Trial Motion is a Massive Fail! Legal Analysis - Johnny Depp Trial"
+    title "Amber Heards Post-Trial Motion is a Massive Fail! Legal Analysis - Johnny Depp Trial"
     description "Set aside the verdict? Dismiss the complaint?? I don't think so. This is a deep dive into the legal and factual basis for Amber Heard's post-trial motions. We're going to break down her arguments, look at the law she cites, and evaluate exactly how bad these arguments are. Spoiler alert: If you were expecting high-level advocacy from Amber's team, prepare to be disappointed - it's just more of the same misleading, skewed demagoguery that ignores inconvenient facts and pretends the law is more favorable than it is. &#10;&#10;&#10;0:00   Intro&#10;00:35 Everything she's asking for&#10;01:36 The law of remittitur, or reducing the damage award&#10;09:28 &#34;No evidence,&#34; or just no evidence you like?&#10;14:23 The attack on Camille's argument is a big loser&#10;18:44 The verdicts can be reconciled pretty easily&#10;20:19 The First Amendment law really doesn't say what Elaine wants it to&#10;29:02 There's evidence of republication and the jury was correctly instructed&#10;32:06 More &#34;no evidence&#34; where there's lots of evidence&#10;35:59 WTAF is she thinking going after Juror 15??&#10;42:14 Bottom line: It's going nowhere&#10;&#10;The motion is available for download here:  https://www.courthousenews.com/wp-content/uploads/2022/07/motion-to-set-aside-verdict.pdf"
     channeltitle "Andrea Burkhart"
     channelid "UCWhkIAl6FG9gTkQz17v4vfQ"
@@ -5031,7 +5031,7 @@ graph
     label "FMYtDBn0zvw"
     step 0
     date "2022-07-05T23:28:28Z"
-    title "Amber Heard&#38;#39;s EXPLOSIVE NEW Claim: Juror 15 Was FAKE!   New Trial Coming? | Lawyer Explains"
+    title "Amber Heards E tongue sticking out LOSIVE NEW Claim: Juror 15 Was FAKE! New Trial Coming? | Lawyer E tongue sticking out lains"
     description "Amber Heard filed a motion asking the Court to investigate Juror No. 15.  Was Juror No. 15 fake?  An imposter?  Harvard Lawyer Lee unpacks the explosive new claims.  &#10;&#10;#amberheard&#10;#johnnydepp&#10;#deppjuror"
     channeltitle "Harvard Lawyer Lee"
     channelid "UCXXZgehRtbz2Fopk9iioZfQ"
@@ -5049,7 +5049,7 @@ graph
     label "0AC3diB49hE"
     step 0
     date "2022-07-12T00:01:35Z"
-    title "&#8216;Frivolous&#8217;: Johnny Depp slams Amber Heard&#8217;s bid for new trial"
+    title "s bid for new trial"
     description "Johnny Depp says a judge should reject Amber Heard&#8217;s request for a new trial as the Aquaman star suffers a new setback."
     channeltitle "The Daily Telegraph"
     channelid "UCOHEKIZmGUBqjBQ5W9B8v8w"
@@ -5059,7 +5059,7 @@ graph
     commentcount 0
     duration "PT54S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5067,7 +5067,7 @@ graph
     label "ckVZRpDInlE"
     step 0
     date "2022-05-21T15:38:43Z"
-    title "Asmongold reacts to &#38;quot;Jason Momoa takes the stand in Johnny Depp&#38;#39;s Trial &#38;quot;"
+    title "Asmongold reacts to "
     description "Asmongold Clips / Asmongold Reacts To: &#34;Jason Momoa takes the stand in Johnny Depp vs Amber Heard court case live Trial&#34;&#10;&#10;Original video by GeoMFilms: https://www.youtube.com/watch?v=Rq9eHx7QS-s (Jason Momoa takes the stand in Johnny Depp Amber Heard Trial DUB)&#10;&#10;On this Asmongold Youtube Channel You will never quit finding all the funny Asmongold Moments with Mcconnell and best Asmongold Highlights from gameplay of the most popular MMORPGs: like Blizzard's World of Warcraft (WoW Dragonflight &#38; Classic WoW), the Korean MMO Lost Ark (&#47196;&#49828;&#53944;&#50500;&#53356;), the record breaking Final Fantasy 14 (FFXIV) and many other popular games like Elden Ring (the first open world Dark Souls game). Also Asmongold Reacts to a lot of content, especially Asmongold Reaction to Speedrun of games, but some of the most interesting creators he really likes to watch include Madseasonshow, Bellular, Internet Historian, Josh Strife Hayes, Zepla, Barny64 and many many more. Some of the most popular content from Asmon also includes his &#34;The True Story of Asmongold&#34; videos, Zackrawrr tree house videos, the legendary WoW Transmog Competition and Mount Off competition, Ban Appeals, Media Share streams, Reddit Recap Reactions and much more.&#10;&#10;&#9658; Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold TV Channel: https://www.youtube.com/channel/UCQeRaTukNYft1_6AZPACnog&#10;&#9658; 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Twitter: https://twitter.com/asmongold&#10;&#9658; Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Contacts:&#10;&#9658; https://twitter.com/DAsmongold&#10;&#9658; dailydoseofasmongoldyt@gmail.com&#10;&#10;#Asmongold"
     channeltitle "Asmongold Clips"
     channelid "UCMwJJL5FJFuTRT55ksbQ4GQ"
@@ -5077,7 +5077,7 @@ graph
     commentcount 2982
     duration "PT2M4S"
     indegree 5
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 5
     duration "PT11M53S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5121,7 +5121,7 @@ graph
     label "WXxJHpS0BOc"
     step 0
     date "2022-07-04T02:17:49Z"
-    title "LIVE: Amber Heard Team Asks Judge to Throw Out Verdict &#38;amp; a Juror with False Information?"
+    title "LIVE: Amber Heard Team Asks Judge to Throw Out Verdict a Juror with False Information?"
     description "#amberheard #johnnyDepp #lawyeryouknow &#13;&#10;&#13;&#10;&#13;&#10;  Do you or someone you know need to speak to a real lawyer about a case? Or do you find yourself needing legal advice? Please reach out to our firm and we will make sure to answer your questions or find someone who can. Our consultations are always free and confidential. You can call our firm at (727)441-9030 or email us at lawyeryouknow@gmail.com. &#13;&#10;&#13;&#10;&#13;&#10;&#9989; For business inquiries contact me at lawyeryouknow@gmail.com&#13;&#10;&#9989; Let's connect: https://www.tragoslaw.com/&#13;&#10;Twitter - @tragoslaw&#13;&#10;Instagram - /tragoslaw&#13;&#10;Facebook - /tragoslaw&#13;&#10;TikTok - /tragoslaw&#13;&#10;&#9989; Join our email list here - https://bit.ly/33lV3Mb&#13;&#10;&#13;&#10;&#9989; Join this channel to get access to perks:&#13;&#10;https://www.youtube.com/channel/UCxAH...&#13;&#10;&#13;&#10;&#13;&#10;&#9989; Get your Lawyer You Know merch here - https://bit.ly/LYKMerch&#13;&#10;&#13;&#10;&#13;&#10;&#128308;  NOT LEGAL ADVICE&#13;&#10;&#13;&#10;Intro &#38; Outro Music: DOLYJJVS2W8MGNFM"
     channeltitle "Lawyer You Know"
     channelid "UCxAHSAOfe4wZozc2jYK9NAw"
@@ -5139,7 +5139,7 @@ graph
     label "8dQjkaR7ixo"
     step 0
     date "2022-07-03T00:30:03Z"
-    title "Criminal Lawyer Breaks Down New Amber Heard Court Filing &#38;amp; Reacts to T.J. Maxx/TMZ Incident"
+    title "Criminal Lawyer Breaks Down New Amber Heard Court Filing Reacts to T.J. Maxx/TMZ Incident"
     description "Criminal Lawyer Bruce Rivers Breaks Down New Amber Heard Court Filing &#38; Reacts to Tj Maxx/TMZ Incident &#10;&#10;Stop Self Snitchin' Hat: &#10;https://clr-bruce-rivers.myshopify.com/products/stop-self-snitchin-hat&#10;&#10;Patreon: &#10;https://patreon.com/Criminallawyerreacts&#10;&#10;Producer: Michael Rivers &#10;Instagram: @Michaelhrivers &#10;&#10;Instagram: @CLRBruceRivers &#10;Twitter: @BruceRiversCLR&#10;&#10;Intro Song by Jaylap from CRAM &#10;CRAM Soundcloud: soundcloud.com/xxcramxx&#10;Instagram: @jaylapp&#10;&#10;&#10;You can find Bruce Rivers on Facebook here:&#10;www.facebook.com/RiversLawOffice/ &#10;&#10;Business Inquiries: Criminallawyerreacts@gmail.com&#10;Rivers Law Firm, P.A., www.riverslawyers.com"
     channeltitle "CLR Bruce Rivers"
     channelid "UCz0HITWbcUYEHi3TZXTyFrw"
@@ -5157,7 +5157,7 @@ graph
     label "vjkFu-GONnY"
     step 0
     date "2022-07-11T02:00:09Z"
-    title "Amber Heard Is Now Trying To SHUT DOWN All Publicity Of Her &#38;amp; Johnny!"
+    title "Amber Heard Is Now Trying To SHUT DOWN All Publicity Of Her Johnny!"
     description "Amber Heard Is Now Trying To SHUT DOWN All Publicity Of Her &#38; Johnny!&#10;It&#8217;s basically been in the headlines almost every day that Amber has been trying desperately to twist the narrative about her and Johnny since it&#8217;s been established that she can&#8217;t do anything about the verdict.&#10;&#10;Here on Film Streak we are all about the latest spill in Hollywood! You can rest assured that we will bring you all the latest celebrity drama and gossip especially concerning your favorite actors! We&#180;ll also make sure to keep you updated on the newest movie updates and releases &#8211; so if you are interested in anything that happens in Hollywood, you should make sure to stay tuned! &#10;&#10;And there you have it guys! We hope you enjoyed the video! If you did please consider leaving a like and telling us what you thought in the comments! &#10;&#10;Here are some links to some of our other videos that you might find interesting as well:&#10;&#34;FORGIVE ME&#34; Justin Bieber Apologies to Hailey Bieber (IG LIVE VIDEO): https://www.youtube.com/watch?v=u-m_Q7FS91I&#10;Emilia Clarke REACTION Before Replacing Amber Heard in Aquaman 2! https://www.youtube.com/watch?v=PYXp9wXHUWw&#10;Johnny Depp OFFICIALLY REHIRED | Back In a New Pirates of the Caribbean 6 Movie? https://www.youtube.com/watch?v=utozMdfngVk&#10;Elon Musk Speaks Against Amber Heard &#38; Defends Johnny Depp!&#10;https://www.youtube.com/watch?v=wOo2BFTRrL4&#10;&#10;So, if you are interested in anything related to Hollywood, make sure to smash that subscribe button to see more of our content in the future! &#127916; https://bit.ly/3kzplQd &#10;&#10;#JohnnyDepp #AmberHeard #CrazyAmber #FilmStreak"
     channeltitle "Film Streak"
     channelid "UCIQz7nN_zTfIoSOh7HasYIQ"
@@ -5175,7 +5175,7 @@ graph
     label "zSiKZNyqCWw"
     step 0
     date "2022-05-05T15:15:01Z"
-    title "&#8220;She&#8217;s Lying&#8221; Johnny Depp EXPOSES Amber Heard in Today&#8217;s Court Trial!"
+    title "s Court Trial!"
     description "&#8220;She&#8217;s Lying&#8221; Johnny Depp EXPOSES Amber Heard in Today&#8217;s Court Trial!&#10;&#10;Subscribe To Celebrity Zone &#10140; https://bit.ly/3gU7R0F&#10;&#10;WATCH NEXT &#128071;&#10;https://www.youtube.com/watch?v=ym_fFs7JXD0&#10;&#10;Celebrity Zone - Celebrity Zone is the #1 celebrity channel for all celebrity news. Some of our videos will be about celebrities like Ellen, Jojo Siwa, Billie Eilish, 6ix9ine, Ariana Grande, Justin Bieber, Johnny Depp, Kim Kardashian, Kylie Jenner, Mr Beast, PewDiePie and more. &#10;&#10;#celebrity #celebrityzone #johnnydepp #amberheard&#10;&#10;Song: Ego (by Flow Beats)&#10;Video Link &#10145;&#65039; https://www.youtube.com/watch?v=Xg7orUV2UZI&#10;&#10;&#8220;She&#8217;s Lying&#8221; Johnny Depp EXPOSES Amber Heard in Today&#8217;s Court Trial!&#10;Did you see how Amber Heard got completely exposed by Johnny and his legal team? Also did you get a chance to see she got caught up in her own lie about the concealer? You&#8217;ve got to see how the brand hates her as well! Before we proceed, don&#8217;t forget to like the video and subscribe to the channel for more. &#10;All of this started on April 12 in Fairfax, Virginia. It was a high-profile case between actors Johnny Depp, 58, and Amber Heard, 36, who split up in 2013. An op-ed that Heard wrote about domestic abuse in 2018 was the subject of a defamation lawsuit that Depp filed against her in 2019. The trial is about that. Actor Johnny Depp says that the article was bad for his career.&#10;There have already been a lot of stories about everything from violent text messages sent by Johnny Depp to audio recordings of their arguments. The trial is set to last six weeks. Following a trial in the UK in 2020, this is the second lawsuit about abuse claims linked to Depp and Heard's relationship.&#10;After Heard wrote an op-ed in the Washington Post about Depp in December, he sued her for $50 million. In the article, heard talked about how women are treated when they are sexually assaulted and said that she was a &#34;public figure for domestic abuse.&#34; She didn't mention Depp by name. But obviously who else would she be referring to? According to Johnny Depp the article did bad things to his career. Depp says he was fired from Disney's Pirates of The Caribbean franchise just a few days after the article was published Following the couple's public breakup and the accusations of abuse that were made between them, Depp's career was already on the rocks.&#10;But this time Johnny has had enough of all the drama. He wants Amber to eb guilty for all that she has done and he comes with proofs. If you think you know everything about the court case, we have got the most exclusive secrets spilled in the court room before anyone else! Stay tuned to catch a glimpse of how Johnny exposed her."
     channeltitle "Celebrity Zone"
     channelid "UCDPc5dbz5mTTKGV8ejo8vAw"
@@ -5185,7 +5185,7 @@ graph
     commentcount 7
     duration "PT9M11S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 1
     duration "PT3M10S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 1190
     duration "PT11H38M12S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5247,7 +5247,7 @@ graph
     label "OyWUVl1RUTI"
     step 0
     date "2022-06-12T01:46:50Z"
-    title "PART 2# Verdict Overturn in the Amber Heard trial   Johnny Depp LIVE   audience questions"
+    title "PART 2# Verdict Overturn in the Amber Heard trial Johnny Depp LIVE audience questions"
     description "PHOTOS - https://bit.ly/3aEWBop&#10;&#10;&#10;Verdict Overturn in the Amber Heard trial - Johnny Depp LIVE - audience questions&#10;&#10;Johnny Depp won a defamation suit Wednesday against his former wife Amber Heard after a jury found that she had defamed Depp in saying that he had abused her over the course of their relationship.&#10;&#10;Depp, who was not in court Wednesday due to a previously scheduled work commitment, sued for $50 million in damages over a 2018 opinion-editorial essay by Heard in The Washington Post, in which she said she had become a &#8220;public figure representing domestic abuse.&#8221; Although the essay never mentioned Depp by name, his attorneys said it indirectly referred to allegations she made against him during their 2016 divorce.&#10;&#10;The jury unanimously found that Heard could not substantiate her allegations against Depp and that she knew her claims of abuse were false when she published her 2018 essay.&#10;&#10;The jury determined that Heard acted with actual malice when writing her op-ed. The jury awarded Depp $10 million in compensatory damages and $5 million in punitive damages in his defamation suit.&#10;&#10;Fairfax County Circuit Court Judge Penney Azcarate reduced the punitive damages the jury awarded to Depp to $350,000, which is the state&#8217;s statutory cap or legal limit, making his total damages $10.4 million. &#10;&#10;&#34;From the very beginning, the goal of bringing this case was to reveal the truth, regardless of the outcome,&#34; Depp said in a statement Wednesday. &#34;Speaking the truth was something that I owed to my children and to all those who have remained steadfast in their support of me. I feel at peace knowing I have finally accomplished that.&#34;&#10;&#10;#JohnnyDepp #AmberHeard #Verdict #Live&#10;&#10;&#10;law and crime,law and crime network,ama,ask me anything,disney channel,disney,celebrities,johnny depp,amber heard,celebrity gossip,johnny depp vs amber heard,netflix,depp,johnny depp amber heard,depp vs heard,johnny depp trial,johnny depp live,johnny depp live stream,live now,camille vasquez,johnny depp verdict,amber heard verdict,johnny depp vs amber heard verdict,johnny depp wins,johnny depp won"
     channeltitle "Johnny Depp"
     channelid "UC_EVROMtTy1Zj9avapv5iWg"
@@ -5265,7 +5265,7 @@ graph
     label "7bxq8SPP6uA"
     step 0
     date "2022-07-06T00:48:39Z"
-    title "Amber Heard&#38;#39;s New TMZ PR photos LOL. Johnny Depp Is Using This For New Trial &#38;amp; Appeal LOL"
+    title "Amber Heard Appeal LOL"
     description "#amberheard #johnnydepp #amber &#10;Amber Heard's New TMZ PR photos LOL. Johnny Depp Is Using This For New Trial &#38; Appeal LOL&#10;&#10;In this installment of Amber Heard ridiculousness, her lawyers have filed to get the verdict thrown out and REDO the whole trial lol.&#10;&#10;Keywords&#10;#amber, #amber heard, #amberturd, #amber heard Johnny depp, #Johnny, #Johnny depp, #justice for Johnny depp, #depp v heard, #Johnny Depp is innocent, #amber heard is a liar, #abuse, #Johnny Depp fan, #Johnny Depp trial, #amber heard lies, #Johnny depp vs amber heard, #amber heard crying, #amber heard lying, #Johnny Depp trial 2022, #Johnny Depp court, #celebrity news, #Johnny Depp amber heard, #Depp heard trial, #Johnny Depp news, #depp heard, #amber heard trial, #amber heard appeal, #elainebredehoft"
     channeltitle "JoySparkleShine"
     channelid "UC78uO-OUDotzfcyFxO6eIkg"
@@ -5275,7 +5275,7 @@ graph
     commentcount 7
     duration "PT41S"
     indegree 0
-    cluster 1
+    cluster 6
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 1193
     duration "PT1M"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5319,7 +5319,7 @@ graph
     label "hxhpM5Y5hL4"
     step 0
     date "2022-07-03T18:15:05Z"
-    title "NO APPEAL! Old Video Absolutely RUINS Amber Heard&#38;#39;s Appeal Chances!"
+    title "NO APPEAL! Old Video Absolutely RUINS Amber Heards Appeal Chances!"
     description "NO APPEAL! Old video Absolutely RUINS Amber Heard!&#10;Amber Heard loses her chance to appeal the jury&#8217;s verdict. She&#8217;ll never win against Johnny Depp. &#10;The bombshell defamation trial between Amber and her ex-husband was dramatic.&#10;&#10;Here on Film Streak we are all about the latest spill in Hollywood! You can rest assured that we will bring you all the latest celebrity drama and gossip especially concerning your favorite actors! We&#180;ll also make sure to keep you updated on the newest movie updates and releases &#8211; so if you are interested in anything that happens in Hollywood, you should make sure to stay tuned! &#10;&#10;And there you have it guys! We hope you enjoyed the video! If you did please consider leaving a like and telling us what you thought in the comments! &#10;&#10;Here are some links to some of our other videos that you might find interesting as well:&#10;&#34;FORGIVE ME&#34; Justin Bieber Apologies to Hailey Bieber (IG LIVE VIDEO): https://www.youtube.com/watch?v=u-m_Q7FS91I&#10;Emilia Clarke REACTION Before Replacing Amber Heard in Aquaman 2! https://www.youtube.com/watch?v=PYXp9wXHUWw&#10;Johnny Depp OFFICIALLY REHIRED | Back In a New Pirates of the Caribbean 6 Movie? https://www.youtube.com/watch?v=utozMdfngVk&#10;Elon Musk Speaks Against Amber Heard &#38; Defends Johnny Depp!&#10;https://www.youtube.com/watch?v=wOo2BFTRrL4&#10;&#10;So, if you are interested in anything related to Hollywood, make sure to smash that subscribe button to see more of our content in the future! &#127916; https://bit.ly/3kzplQd &#10;&#10;#JohnnyDepp #AmberHeard #Appeal #FilmStreak"
     channeltitle "Film Streak"
     channelid "UCIQz7nN_zTfIoSOh7HasYIQ"
@@ -5347,7 +5347,7 @@ graph
     commentcount 2
     duration "PT37S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5391,7 +5391,7 @@ graph
     label "Otjyrh4E8Ow"
     step 0
     date "2022-07-06T14:15:59Z"
-    title "Johnny Depp fans are TRIGGERED by Amber Heard&#38;#39;s beauty?! They&#38;#39;re getting DESPERATE with this!"
+    title "Johnny Depp fans are TRIGGERED by Amber Heardre getting DESPERATE with this!"
     description "Some new PR protecting Amber Heard just came out, and it's the most ridiculous article yet! Also, an update on Johnny Depp!&#10;&#10;Join this channel to get access to perks:&#10;&#9658;https://www.youtube.com/channel/UCMrpRnyBJhgVBy3rm0K4P5w/join&#10;&#10;How to support:&#10;&#9658; LOCALS: https://yellowflash.locals.com/&#10;&#10;Live streaming channel:&#10;&#9658;https://www.youtube.com/channel/UCWLmf0zALibUALCZoaDg2jw&#10;Where to find me&#10;&#9658;Twitch: https://www.twitch.tv/yellowflashtwo&#10;&#9658;Twitter: @yellowflashguy&#10;&#9658;Rumble: https://rumble.com/c/YelllowFlash&#10;&#9658;Minds: https://www.minds.com/yellowflash/&#10;&#9658;Odysee: https://odysee.com/@YellowFlash:8?r=EBXc2Ze5CbcuiHJ7Wkc7KcaGeaCiSrVk&#10;&#9658;Bitchute: https://www.bitchute.com/channel/bWECeGsvy8ab/&#10;&#9658;Truth Social: @YellowFlashGuy&#10;&#9658; My store: https://teespring.com/stores/yellowflash-merch&#10;#johnnydepp #amberheard #justiceforjohnnydepp"
     channeltitle "YellowFlash 2"
     channelid "UCMrpRnyBJhgVBy3rm0K4P5w"
@@ -5409,7 +5409,7 @@ graph
     label "0_0RFzWbbpY"
     step 0
     date "2022-05-16T16:39:02Z"
-    title "Amber Heard&#38;#39;s BIG MISTAKE in her Testimony... Johnny Depp Celebrates!"
+    title "Amber Heards BIG MISTAKE in her Testimony... Johnny Depp Celebrates!"
     description "Amber Heard's Made BIG MISTAKE in her Testimony... Johnny Depp Celebrates! If you're Johnny Depp and his team good news, Seems like everything is going johnny&#8217;s way we may see the jury come to a decision sooner than think.. Who may they favor only time will tell, Johnny Depp vs Amber Heard has been on everyone's mind the past month we go over key moments. How those key moments may impact the Depp vs Heard case trial in different ways including her testimony and potential witnesses that may come up in the future. Amber Heard's lawyer in this lawsuit trying to keep up after johnny Depp testified first and has to disprove and tell amber heard story. Hope you guys enjoy the video thank you for watching.&#10;&#10;#JohnnyDepp #AmberHeard&#10;&#10;You are not required to comment to win the giveaway distributed in the video. It is ONLY a recommendation. You must have a twitter under the same username of youtube in order to qualify to get in contact with you. For more information on giveaways refer to youtube&#8217;s contest policies: https://support.google.com/youtube/answer/1620498?hl=e"
     channeltitle "King Trending"
     channelid "UCsyGwnwEBApQlzzn4crDSRg"
@@ -5419,7 +5419,7 @@ graph
     commentcount 74
     duration "PT12M32S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5445,7 +5445,7 @@ graph
     label "w3ZsS6u6aTQ"
     step 0
     date "2022-07-03T21:22:54Z"
-    title "Discussing Amber Heard&#38;#39;s Motion To Set Aside (And Fireworks)"
+    title "Discussing Amber Heards Motion To Set Aside (And Fireworks)"
     description "So, I was going to do a stream to talk about literal fireworks, but it looks like we've got some figurative fireworks to cover too."
     channeltitle "Runkle Of The Bailey"
     channelid "UCUVdcsH5X1a76V1-KnF3heA"
@@ -5473,7 +5473,7 @@ graph
     commentcount 0
     duration "PT18S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5499,7 +5499,7 @@ graph
     label "c9Ej4QSvOag"
     step 0
     date "2022-05-25T20:55:21Z"
-    title "Dr. Spiegel Testifies Johnny Depp Amber Heard trial HILARIOUS Spoof with(I Don&#8217;t Know)"
+    title "Dr. Spiegel Testifies Johnny Depp Amber Heard trial HILARIOUS Spoof with(I Dont Know)"
     description "Do not own any rights and will not be used to profit or gain. I just used the original footage for education purposes and laughs! &#129299;&#128514;&#10;&#10;Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use."
     channeltitle "Wesley Weaver"
     channelid "UCIOeobtVqasKTc-RaYrcrMw"
@@ -5509,7 +5509,7 @@ graph
     commentcount 12
     duration "PT4M43S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 3
     duration "PT15S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -5571,7 +5571,7 @@ graph
     label "Nbbei9vedq4"
     step 0
     date "2022-05-07T18:42:03Z"
-    title "Johnny Depp Trial: Amber Heard&#38;#39;s Psychologist - Professional Witness? #shorts"
+    title "Johnny Depp Trial: Amber Heards Psychologist - Professional Witness? #shorts"
     description "The back and forth and battle of the psychologists was fun. &#10;&#10;Johnny Depp Trial: Amber's Psychologist - Professional Witness?&#10;&#10;#shorts #johnnydepp"
     channeltitle "Jacob"
     channelid "UCDVoyHYNBtnUEVvC39S4klg"
@@ -5581,7 +5581,7 @@ graph
     commentcount 6
     duration "PT13S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 2
     duration "PT3M31S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 205
     duration "PT15M16S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 700
     duration "PT8M57S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5661,7 +5661,7 @@ graph
     label "0OiewLztl28"
     step 0
     date "2022-05-17T12:05:39Z"
-    title "Amber Heard is OBVIOUSLY acting. Johnny Depp Trial - Here&#38;#39;s Proof&#128071;"
+    title "Amber Heard is OBVIOUSLY acting. Johnny Depp Trial - Here"
     description "#johnnydepp #amberheard #justiceforjohnny&#10;&#10;Check out this link: https://www.youtube.com/channel/UCjUcyy95PCQa1XMQ1k7DdYA?sub_confirmation=1&#10;&#10;&#10;johnny depp&#10;johnny depp trial&#10;justice for johnny&#10;amber heard&#10;amber heard vs johnny depp&#10;johnny depp vs. amber heard&#10;defamation trial &#10;defamation trial day 16&#10;trial throw back&#10;throw back trial&#10;johnny depp trial throw back"
     channeltitle "Cryptuga"
     channelid "UCjUcyy95PCQa1XMQ1k7DdYA"
@@ -5689,7 +5689,7 @@ graph
     commentcount 0
     duration "PT4M23S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -5697,7 +5697,7 @@ graph
     label "p_wGg4CzCJk"
     step 0
     date "2022-07-07T06:48:12Z"
-    title "MINI JOHNNY DEPP VS AMBER HEARD MICROMANIA MIDGET WRESTLING WHISKY A GO GO &#129304;&#127867;"
+    title "MINI JOHNNY DEPP VS AMBER HEARD MICROMANIA MIDGET WRESTLING WHISKY A GO GO "
     description ""
     channeltitle "Nirvanafan420"
     channelid "UCMbGwu2ddq0YP2rtg4Q7uOg"
@@ -5725,7 +5725,7 @@ graph
     commentcount 20
     duration "PT16S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 0
     duration "PT46S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 36
     duration "PT58S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -5787,7 +5787,7 @@ graph
     label "zR5scXB8-KA"
     step 0
     date "2022-05-26T20:29:30Z"
-    title "Finally The trial is over #johnnydepp #amberheard #trial #shorts #viral #fyp&#12471;"
+    title "Finally The trial is over #johnnydepp #amberheard #trial #shorts #viral #fyp"
     description ""
     channeltitle "HIGHER WRLD"
     channelid "UCmO7SkTXWrLBEFlXfXCL_2Q"
@@ -5833,7 +5833,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -5841,7 +5841,7 @@ graph
     label "OkpOCgsdRSY"
     step 0
     date "2022-04-27T18:10:24Z"
-    title "THE MUFFIN MAN  - JOHNNY DEPP vs AMBER HEARD TRAIL"
+    title "THE MUFFIN MAN - JOHNNY DEPP vs AMBER HEARD TRAIL"
     description "who is the muffin man ?"
     channeltitle "moshe menkin"
     channelid "UCXrCaTOREKrrUkSbHp2Qp5A"
@@ -5851,7 +5851,7 @@ graph
     commentcount 3
     duration "PT1M15S"
     indegree 0
-    cluster 8
+    cluster 5
   ]
   edge
   [

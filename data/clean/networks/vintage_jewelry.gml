@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Wed Jul 13 17:20:27 2022"
+Creator "igraph version 1.3.1 Wed Jul 13 17:34:02 2022"
 Version 1
 graph
 [
@@ -45,7 +45,7 @@ graph
     label "ltbNbEbfGrM"
     step 0
     date "2022-01-21T14:34:25Z"
-    title "Opening an 1800&#38;#39;s Jewelry Box! estate sale finds!"
+    title "Opening an 1800s Jewelry Box! estate sale finds!"
     description "Today I visited an estate sale and bought this 1800's Jewelry box! let's get it home and see what's inside!"
     channeltitle "Curiosity Incorporated"
     channelid "UCgclKg8oaVlkuCurCxo2hOw"
@@ -63,7 +63,7 @@ graph
     label "tR_9zzuDn-s"
     step 0
     date "2020-09-19T14:15:02Z"
-    title "THRIFTING For VINTAGE JEWELRY With An Expert!!"
+    title "THRIFTING For VINTAGE JEWELRY With An E tongue sticking out ert!!"
     description "How to  thrift for vintage jewelry!  How does a vintage jewelry expert thrift for jewelry?  Very carefully!  The answer is be picky, do your research, and the first three rules, condition, condition, condition!  Or~ just keep an expert like me in your back pocket! &#10;&#10;&#9829;&#65038; SELL OR CONSIGN: hudsonvintage@me.com SUBJECT: Help! &#10;&#9829;&#65038;  TEXT ME:  917-809-7250  For Live Auction Alerts&#10;&#9829;&#65038;  GALAXY SHOP:  973-949-0785  https://shopgalaxy.com/hudson-vintage/profile&#10;&#9829;&#65038;  MEMBERSHIP PATREON:  &#10; https://www.patreon.com/hudsonvintage&#10;&#9829;&#65038;  MEMBERSHIP YOUTUBE:  https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#9829;&#65038; SOCIALS:&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#10;&#9829;&#65038; AMAZON:  https://www.amazon.com/shop/hudsonvintage&#10;&#9829;&#65038; FRIEND MAIL&#10;Hudson Vintage&#10;P.O. BOX 526&#10;Blairstown NJ&#10;07825&#10;&#9829;&#65038; CONTACT ME:&#10;EMAIL: hudsonvintage@me.com&#10;TEXT:  917-809-7250&#10;&#9829;&#65038; JOIN this channel to get access to perks:&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#10;I am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#10;&#10;MOST POPULAR VIDEO&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;LAST WEEK'S UPLOAD:&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;CHANNEL INTRO: &#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#10;&#10;EMAIL: hudsonvintage@me.com&#10;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -225,7 +225,7 @@ graph
     label "hVyCpQmXec8"
     step 0
     date "2022-03-10T01:00:28Z"
-    title "SCARCELY SEEN VINTAGE STYLE | DESIGNER ANTIQUES | JEWELRY &#38;amp; MORE"
+    title "SCARCELY SEEN VINTAGE STYLE | DESIGNER ANTIQUES | JEWELRY MORE"
     description "HARD-TO-FIND VINTAGE | ANTIQUE SHOW | RESELLER SHOP ALONG&#10;&#10;What's in a name? A whole lot, if you're a serious collector or fan of stylish vintage and antiques! We do a lot of name dropping in this video, showing you some of the better names we're finding in the winter antique show circuit, and talking about what makes them special--and why they're getting harder to find every day.&#10;&#10;This one's a feast for the eyes, whether your eye goes to fab 50's furniture, antique silver, vivid wall art or sparkling signed jewelry. Bejeweled boxes, Pucci boots, Italian furnishings and designer pottery pieces are the order of the day here, with a lot of wonderful things packed into a tremendous antique show!&#10;&#10;We spend time helping you discern good old pieces from fakes, present a mystery piece we're trying to understand and talk extensively with a high-end costume jewelry dealer about why those pieces are disappearing from American antique shops. We hope this delightful array of items will help whet your appetite for good vintage design...maybe we'll get to see you at our next antique show!&#10;&#10;Here's some of the great designer items we encounter on our shop-along:&#10;&#10;Heywood-Wakefield table, Piretti chairs, Eames style chair, TI-99 computer, 1970s pedestal tv, horse measure, chimney sweep, iron hitching post, cast iron banks, Peter Max World Cup Soccer poster, Blenko decanter, Jonathan Adler pot, Roseville bud vases, Carol Staub acrylic art, butterfly wing table, Lucite table, Polaroid 330, Zippo lighters, French crest bracelet, Fiesta Lilac trivet, Red Wing console bowl, signed designer jewelry, signed fashion jewelry, bakelite and copper jewelry, cameos, dresser boxes, gilded metal boudoir accessories, dresser mirrors, Lucite purses, mesh purses, Rookwood tile, figural match striker, Niloak ewer, silver overlay glass, thimbles, Snoopy/Woodstock phone, Cowboy radio, Gibson Girl postcard set, Rembrandt candlestick, perpetual calendar, Heisey Chanticleer cocktail shaker, Tiffany sterling, WWI bonds poster, grain linen, barkcloth, etc.&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;&#9728;&#65039;  Do you want more info about an item you own? I am a certified appraiser!&#10;Whether you need a &#34;verbal approximation of value&#34; or a &#34;formal written appraisal,&#34; I can do it all&#8212;in person or remotely.&#10;Submit your information here: https://bit.ly/3kxiNUb&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;&#9728;&#65039;  Subscribe to my NEW LIVE CHANNEL! https://bit.ly/3e6wi9B&#10;&#10;&#9728;&#65039;  Check out my NEW WEBSITE! https://bit.ly/3BfVNPt&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Are you interested in exclusive content and special perks that help support this channel?&#10;&#9728;&#65039;  Become a member today at the following link! https://bit.ly/32dfTcz&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Follow me on social media, check out my eBay listings, and buy my book!&#10;&#10;&#9728;&#65039;  Buy Me a Coffee: https://bit.ly/3r7KSUM&#10;&#9728;&#65039;  Facebook http://bit.ly/33TG9J9&#10;&#9728;&#65039;  Instagram http://bit.ly/2KOJcur&#10;&#9728;&#65039;  TikTok http://bit.ly/3oTA4FQ&#10;&#9728;&#65039;  Minds https://bit.ly/3aWsPcA&#10;&#9728;&#65039;  Odysee https://bit.ly/2ZUep69&#10;&#10;&#9728;&#65039;  My eBay listings: https://ebay.to/2mg7yDM&#10;&#10;&#9728;&#65039;  My book on Treasure Craft Pottery: https://bit.ly/3eAfaZM&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;If you love what we do, consider donating to the channel!&#10;&#9728;&#65039;  PayPal: https://bit.ly/3dLxmx3&#10;&#9728;&#65039;  Venmo: https://bit.ly/380DIHH&#10;&#9728;&#65039;  Cash App: https://bit.ly/3ANanNi&#10;&#9728;&#65039;  BTC: bc1qhcx6e3gp5kxv3rx696mhmsqfe0pv3chvpps0ku&#10;&#9728;&#65039;  ETH: 0xBbddAF1231944e7E6D0EA097Cb0609F1640537eF&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;&#9728;&#65039;  Send me stuff:&#10;&#10;The Antique Nomad&#10;PO Box 33&#10;Dawson Springs, KY 42408&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Music from https://filmmusic.io&#10;&#34;Sweeter Vermouth&#34; by Kevin MacLeod (https://incompetech.com)&#10;License: CC BY (http://creativecommons.org/licenses/by/4.0/)&#10;&#10;Icons made by: https://www.flaticon.com/authors/smashicons&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;#Antiques #Vintage #Reselling #ShopWithMe #ThriftShopping #AntiqueMall #PickingForProfit #Thrifting #AntiqueShopping #Reseller #ShoppingForResale #VintageResale #ShoppingVlog #ResellingAntiques #TheAntiqueNomad"
     channeltitle "The Antique Nomad"
     channelid "UCWYCpXmczmgdDwHTYKAKyVg"
@@ -235,7 +235,7 @@ graph
     commentcount 312
     duration "PT33M28S"
     indegree 26
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 91
     duration "PT46M49S"
     indegree 40
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 296
     duration "PT35M21S"
     indegree 34
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -387,7 +387,7 @@ graph
     label "Y-EWqyUzu0A"
     step 0
     date "2019-12-08T22:00:04Z"
-    title "Value &#38;amp; Find Antique Jewelry and Earrings by Dr. Lori"
+    title "Value Find Antique Jewelry and Earrings by Dr. Lori"
     description "Are you looking to value your #antique #jewelry and earrings? Watch Ph.D. Antiques Appraiser Dr. Lori reveal secrets to find and value jade, coral, gold and pearl antique earrings and jewelry. Discover how to identify pearls and what not to do to pearls to ruin them. Plus, jewelry storage and care tips and learn how to get a better price when thrift store shopping for jewelry. Don't miss out on possible #ThriftStoreFinds. Ask Dr. Lori to appraise your antique jewelry, earrings or thrift store find. Attend her antiques appraisal events near you or submit photos on Dr. Lori's website."
     channeltitle "Dr. Lori"
     channelid "UCyld4DZKdnx-VcH0mqpOClg"
@@ -397,7 +397,7 @@ graph
     commentcount 260
     duration "PT11M50S"
     indegree 31
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -477,7 +477,7 @@ graph
     label "JLkk1o6DvWg"
     step 0
     date "2020-11-07T12:00:09Z"
-    title "New Vintage Jewelry Jar! Let&#38;#39;s see what we find."
+    title "New Vintage Jewelry Jar! Lets see what we find."
     description "Opening another jewelry jar from my local thrift store filled with mystery vintage treasures! Let's open it together and see what we find.&#10;&#10;If you are a fellow jewelry lover- please consider subscribing and giving this video some love! Thanks so much for watching!!&#10;&#10;#Jewelry #Vintage #JewelryJar"
     channeltitle "Little Blue Jewelry Box"
     channelid "UCVjMYv-vOUze3Q6YC_Pijiw"
@@ -487,7 +487,7 @@ graph
     commentcount 46
     duration "PT36M10S"
     indegree 14
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -513,7 +513,7 @@ graph
     label "wU9Gzhk29ls"
     step 0
     date "2020-07-14T14:00:12Z"
-    title "Vintage Jewelry: VALUABLE Vintage Jewelry From The1980&#38;#39;s and 1990&#38;#39;s!"
+    title "Vintage Jewelry: VALUABLE Vintage Jewelry From The1980s!"
     description "Vintage Jewelry Identification! Valuable vintage Jewelry from the 1980's and 1990's! High end designer jewelry from my personal jewelry collection. Learn how to spot the vintage jewelry worth money!  Chanel, Oscar de La Renta, Lunch At The Ritz, Christian Dior and more!  &#10;&#10;&#9829;&#65038;  TEXT ME:  917-809-7250  For Live Auction Alerts&#10;&#9829;&#65038;  GALAXY SHOP:  973-949-0785  https://shopgalaxy.com/hudson-vintage/profile&#10;&#9829;&#65038; SELL OR CONSIGN: hudsonvintage@me.com SUBJECT: Help! &#10;&#9829;&#65038;  MEMBERSHIP PATREON:  &#10; https://www.patreon.com/hudsonvintage&#10;&#9829;&#65038;  MEMBERSHIP YOUTUBE:  https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#9829;&#65038; SOCIALS:&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#10;&#9829;&#65038; AMAZON:  https://www.amazon.com/shop/hudsonvintage&#10;&#9829;&#65038; FRIEND MAIL&#10;Hudson Vintage&#10;P.O. BOX 526&#10;Blairstown NJ&#10;07825&#10;&#9829;&#65038; CONTACT ME:&#10;EMAIL: hudsonvintage@me.com&#10;TEXT:  917-809-7250&#10;&#9829;&#65038; JOIN this channel to get access to perks:&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#10;I am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#10;&#10;MOST POPULAR VIDEO&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;LAST WEEK'S UPLOAD:&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;CHANNEL INTRO: &#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#10;&#10;EMAIL: hudsonvintage@me.com&#10;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -531,7 +531,7 @@ graph
     label "c9narwLbG0c"
     step 0
     date "2022-01-22T19:38:45Z"
-    title "Vintage Jewelry Unboxing - finding treasure in boxes from my local antique store again! &#10084;&#65039;&#10084;&#65039;&#10084;&#65039;"
+    title "Vintage Jewelry Unboxing - finding treasure in boxes from my local antique store again! "
     description "Let's search for jewelry treasures in some jewelry boxes from my local antique store!  Lots of wonderful vintage pieces. &#10;&#10;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10;&#10;Thanks so much for watching!!&#10;Please consider subscribing to my channel if you are a fellow jewelry lover."
     channeltitle "Little Blue Jewelry Box"
     channelid "UCVjMYv-vOUze3Q6YC_Pijiw"
@@ -541,7 +541,7 @@ graph
     commentcount 45
     duration "PT38M9S"
     indegree 5
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -711,7 +711,7 @@ graph
     label "1dxDpuCiWQo"
     step 0
     date "2019-09-25T16:57:17Z"
-    title "VINTAGE JEWELRY DIY | WHAT I MADE WITH MY GRANDMA&#38;#39;S JEWELRY"
+    title "VINTAGE JEWELRY DIY | WHAT I MADE WITH MY GRANDMAS JEWELRY"
     description "Hey Friends&#128075;&#10;This DIY is super special to me because I made it with my grandma's jewelry!! I think it turned out gorgeous!! The camera definitely doesn't do it justice. Enjoy the video&#128522;&#10;&#10;&#10;Use this code for 10% off your ARTEZA order: PajamaCrafts2 &#10;&#10;This code expires October 25th.&#10;&#10;ARTEZA US Site http://arteza.com/?a_aid=Youtube_PajamaCrafts&#10;&#10;ARTEZA EU Site https://arteza.co.uk/?a_aid=Youtube_PajamaCrafts&#10;&#10;Facebook https://www.facebook.com/thecraftcorner3393/&#10;&#10;Instagram https://www.instagram.com/pajamacrafts/&#10;&#10;Pinterest https://www.pinterest.com/pajamacrafts/&#10;&#10;Email pajamacrafts33@gmail.com&#10;&#10;Some of the links above are affiliate links, which means I receive a small commission on sales at no extra cost to you."
     channeltitle "Pajama Crafts"
     channelid "UCxXA5T-80D1EC4OuEPQ2JTw"
@@ -721,7 +721,7 @@ graph
     commentcount 216
     duration "PT9M41S"
     indegree 12
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -765,7 +765,7 @@ graph
     label "1-DTDLh8JvQ"
     step 0
     date "2021-02-14T22:00:15Z"
-    title "Valuing Vintage &#38;amp; Antique Jewelry: Costume Jewelry, Rings, Bracelets, Gemstones &#38;amp; Watches - Dr. Lori"
+    title "Valuing Vintage Watches - Dr. Lori"
     description "Pick the most valuable piece of jewelry! Watch Ph.D. Antiques Appraiser Dr. Lori valuing vintage &#38; antique jewelry including costume jewelry bracelets, platinum, diamond, gemstones, and sapphire rings plus railroad grade pocket watches. See #bargains found at online auctions like eBay including a GIA certified Cat's Eye Tourmaline ring and a Palladium tested monogrammed ring. See platinum rings valued as you learn #jewelry cleaning and jewelry care tips. Also, discover tips about Austrian crystal stones which look like gemstones. Dr. Lori also offers tips about earrings, necklaces, brooches and faceted cut stones. &#10;&#10;Discover jewelry shopping tips as Dr. Lori appraises a 14 carat diamond and sapphire ring and a sterling silver piece marked 925 that is worth ten times what someone paid for it in an online auction.&#10;&#10;Ask Dr. Lori about valuing vintage &#38; antique jewelry that you think are #thriftstorefinds and bargains. Attend her antiques appraisal events near you or submit photos on Dr. Lori's website."
     channeltitle "Dr. Lori"
     channelid "UCyld4DZKdnx-VcH0mqpOClg"
@@ -775,7 +775,7 @@ graph
     commentcount 160
     duration "PT15M35S"
     indegree 25
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 33
     duration "PT13M32S"
     indegree 11
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -873,7 +873,7 @@ graph
     label "36VfZyam5eQ"
     step 0
     date "2020-09-08T21:03:08Z"
-    title "Top 10 Most Wanted VINTAGE JEWELRY DESIGNERS!  ~ From My Collection"
+    title "Top 10 Most Wanted VINTAGE JEWELRY DESIGNERS! ~ From My Collection"
     description "The most wanted, high end vintage jewelry designers! Find Dior, Schiaparelli, Regency, Haskell and more! All the earrings that keep their value and are worth money! &#10;&#10;&#10;&#10;&#10;I  am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#10;&#10;&#9829;&#65038;  SHOP:  https://shophudsonvintage.com&#10;&#10;&#9829;&#65038;  MEMBERSHIP:   https://www.patreon.com/hudsonvintage&#10;&#10;&#9829;&#65038; AMAZON LINKS:  https://www.amazon.com/shop/hudsonvintage&#10;&#10;&#9829;&#65038; SOCIAL MEDIA:&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#10;&#10;&#9829;&#65038; FRIEND MAIL&#10;Hudson Vintage&#10;P.O. BOX 2620&#10;Nevada City, CA&#10;95959&#10;&#10;&#9829;&#65038;CONTACT ME:&#10;Email: hudsonvintage@me.com&#10;&#10;MOST POPULAR VIDEO&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;LAST WEEK'S UPLOAD:&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;CHANNEL INTRO: &#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#10;&#10;EMAIL: hudsonvintage@me.com&#10;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -909,7 +909,7 @@ graph
     label "ycmEHIkTtHE"
     step 0
     date "2017-07-12T18:18:40Z"
-    title "Orly Shani&#38;#39;s DIY Vintage Jewelry Christmas Tree - Hallmark Channel"
+    title "Orly Shanis DIY Vintage Jewelry Christmas Tree - Hallmark Channel"
     description "Orly Shani is is taking jewelry, a frame and felt and turning it into a vintage jewelry Christmas tree. Make sure the frame you choose is an open one without the glass still in it. The total cost of this DIY is $40 compared to $425 if you bought it in a high-end retail store. &#10;Get Orly's Instructions here: http://www.hallmarkchannel.com/home-and-family/how-to/diy-vintage-jewelry-christmas-tree"
     channeltitle "Hallmark Channel"
     channelid "UC5T-sc4bz1eAEgMIamLLV6w"
@@ -919,7 +919,7 @@ graph
     commentcount 8
     duration "PT6M24S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 7
     duration "PT23M13S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -999,7 +999,7 @@ graph
     label "Lh8wp2ntbZs"
     step 0
     date "2021-11-28T20:27:06Z"
-    title "How to Identify and Date Vintage &#38;amp; Retro Costume Jewelry Brooches"
+    title "How to Identify and Date Vintage Retro Costume Jewelry Brooches"
     description "This video is to help you learn how to identify and date Retro/Vintage brooches from the 1930s to 1950s. It details the hallmarks, colors, style, and maker marks on individual pieces. There is also dating sheets to help you learn which marks go to which year.  (Give away at the end!)&#10;&#10;Website: www.OVM.Shop&#10;Instagram: OVM.shop&#10;Facebook: https://www.facebook.com/OVM.shop&#10;&#10;Links for Hallmark Dating&#10;https://theassayoffice.com/date-letters&#10;https://silvermakersmarks.co.uk/Dates/index.html&#10;https://theassayoffice.com/anatomy-of-a-hallmark&#10;http://www.thebigworld.co.uk/dating_english_hallmarks_silver_and_gold.htm"
     channeltitle "Olive's Vintage Market"
     channelid "UCTmssxYnnc0ALTnXvGz-LMw"
@@ -1053,7 +1053,7 @@ graph
     label "qSSF3SrR5G8"
     step 0
     date "2022-01-15T22:50:46Z"
-    title "Vintage Jewelry - finding treasure in boxes from my local antique store!&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;"
+    title "Vintage Jewelry - finding treasure in boxes from my local antique store!"
     description "Let's search for jewelry treasures in some jewelry boxes from my local antique store! Bakelite, sterling and lots of amazing vintage pieces. I also share some other vintage finds that I have collected over the past few months!&#10;&#10;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10;&#10;Thanks so much for watching!!&#10;Please consider subscribing to my channel if you are a fellow jewelry lover."
     channeltitle "Little Blue Jewelry Box"
     channelid "UCVjMYv-vOUze3Q6YC_Pijiw"
@@ -1063,7 +1063,7 @@ graph
     commentcount 25
     duration "PT45M16S"
     indegree 2
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount 6
     duration "PT4M41S"
     indegree 6
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 76
     duration "PT18M19S"
     indegree 4
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount 168
     duration "PT9M49S"
     indegree 8
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -1179,7 +1179,7 @@ graph
     label "avybPsagN_E"
     step 0
     date "2020-05-01T01:00:22Z"
-    title "Vintage Jewelry Jar $19.99 Jackpot! Gold &#38;amp; Silver"
+    title "Vintage Jewelry Jar $19.99 Jackpot! Gold Silver"
     description "Vintage Jewelry Haul Vintage Jewelry Jar&#10;&#10;Vintage jewelry and modern designer brand jewelry thrift haul from a jewelry sale. Found sterling vintage Native Jewelry, gold, and others !&#10;&#10;ThredUp $10 off your first order:&#10;http://www.thredup.com/r/XQ1JU7&#10;Etsy: PrincessCasseroleUS&#10;40 Free Listings: https://www.etsy.com/invites/sell/?iid=4aM6lvR7BGanPlkH3rhSKxPvPSLU-YMLx2HAGzmy0h0&#10;Mercari $10 coupon off your first order:&#10;Sign up for Mercari and get $10 off your first purchase. Here's my invitation link : https://merc.li/bMyF3Qb&#10;Poshmark: @CarlaCasserole&#10;https://bnc.lt/focc/2ec05Gtl2N&#10;Use Code CARLACASSEROLE for $5 Poshmark Credit&#10;Email: PrincessCasserole@gmail.com&#10;Follow my Facebook page at:&#10;https://www.facebook.com/princesscasserole/&#10;Follow me on instagram:&#10;https://www.instagram.com/princess_casserole/&#10;&#10;Disclaimer: This is not a sponsored video.  All things were bought with my own money.  All opinions are my own."
     channeltitle "Princess Casserole"
     channelid "UC5KLVmlc3uVMzw0AFUhMlFg"
@@ -1189,7 +1189,7 @@ graph
     commentcount 77
     duration "PT1H7M39S"
     indegree 19
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1225,7 +1225,7 @@ graph
     commentcount 25
     duration "PT28M31S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1261,7 +1261,7 @@ graph
     commentcount 158
     duration "PT18M29S"
     indegree 11
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1269,7 +1269,7 @@ graph
     label "JS0agRI0f_g"
     step 0
     date "2022-03-04T19:19:15Z"
-    title "Vintage Jewelry How to: Restore, Repair &#38;amp; Reclaim Costume Jewelry Touch Up Pens"
+    title "Vintage Jewelry How to: Restore, Repair Reclaim Costume Jewelry Touch Up Pens"
     description "Touch Up Pens can save your vintage costume jewelry; use theses easy techniques and tools  &#10;#repairjewelry #jewelry #vintagejewelry &#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCAvAaPlXvgsL0fZBHmQejrw/join&#10;For business inquiries please contact me directly: email thelmahoards@gmail.com&#10;Please LIKE my Facebook Public Page by clicking this link https://www.facebook.com/ConnoisseurCollectorCurator &#10;If Interested in my private, yet FREE auction group on FACEBOOk, please request to join by clicking the link. Thelma Thrift Members Only Auction &#38; Sale. https://www.facebook.com/groups/856784751335050/ REMEMBER to agree to the policies. Thank you leaving a thumbs up and a comment. FOLLOW me on INSTAGRAM:https://www.instagram.com/thelmathrift/ &#10;Thank you for supporting my channel as a member https://www.youtube.com/channel/UCAvAaPlXvgsL0fZBHmQejrw/join"
     channeltitle "Thelma Thrift"
     channelid "UCAvAaPlXvgsL0fZBHmQejrw"
@@ -1279,7 +1279,7 @@ graph
     commentcount 62
     duration "PT26M51S"
     indegree 5
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 249
     duration "PT8M34S"
     indegree 7
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 386
     duration "PT15M26S"
     indegree 11
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1359,7 +1359,7 @@ graph
     label "jae2wpa_QUg"
     step 0
     date "2021-01-18T19:17:56Z"
-    title "Vintage Jewelry Box MAKEOVER  / Upcycled Thrift Store Find / EASY DIY Tutorial"
+    title "Vintage Jewelry Box MAKEOVER / Upcycled Thrift Store Find / EASY DIY Tutorial"
     description "This is a full tutorial of how I upcycled this vintage Jewellery box using the reverse Mod Podge transfer method and decoupage. This video will show the steps from start to finish to guide you along if you would like to upcycle a jewelry box and give it a makeover yourself. &#10;&#10;How cute is the end result? With this method you can make a super unique, distressed and vintage looking jewelry box.&#10; &#10;Mod Podge   https://amzn.to/3dcEcg4&#10;Poly Sealer     https://amzn.to/2O7pgaN&#10;My Laser Jet printer: https://amzn.to/3sCbgF5&#10;Chalk Paint recipe   https://youtu.be/cyi22OrwrPk&#10;&#10;&#9654;&#65039; Visit my store: https://www.etsy.com/ca/shop/OurUpcyc... &#10;&#10;&#9654;&#65039; Shop my Amazon store for all my favourite craft supplies: https://www.amazon.com/shop/upcycledt... &#10;&#10;If you love my video please SUBSCRIBE and don't forget to press the bell, &#128276; like, comment and share. Stay safe and Love all. &#128525;&#128536; &#10;&#10;------------------ &#10;&#10;&#9654;&#65039; Please Subscribe: https://www.youtube.com/c/OurUpcycled... &#10;&#10;------------------ &#10;&#10;&#9654;&#65039; Visit my store: https://www.etsy.com/ca/shop/OurUpcyc... &#10;&#10;&#9654;&#65039; Support me: https://www.buymeacoffee.com/Deidre &#10;&#10;&#9654;&#65039; Subscribe to my email list for more crafting and DIY content! http://eepurl.com/hLQBjf &#10;&#10;------------------ &#10;&#10;&#9654;&#65039; Follow Me on: &#10;&#10;Instagram: https://www.instagram.com/our_upcycle... &#10;&#10;Facebook:https://www.facebook.com/deidrewoodgo... &#10;&#10;Pinterest: https://www.pinterest.ca/deidregourlay/ &#10;&#10;TikTok:  https://www.tiktok.com/@our_upcycled_... &#10;&#10;------------------ &#10;&#10;&#9654;&#65039; My other videos: &#10;&#10;BEST DIY AIR DRY CLAY / VERY EASY RECIPE:https://youtu.be/Rq-TGLjgPkY &#10;&#10;CHRISTMAS ORNAMENTS:https://youtu.be/9A5WnseLaIw &#10;&#10;6 JUTE TWINE DIYS / DOLLAR STORE CRAFT IDEAS:https://youtu.be/dUhlSUCiiIY &#10;&#10;5 GLASS JAR UPCYCLES:https://youtu.be/Lp5SU6k6erU &#10;&#10;------------------ &#10;&#10;&#10;#upcycling #jewelrybox #OurUpcycledLife #upcycleideas #diyupcycling #upcycledcrafts #trashtotreasure #diyjewelrybox #diycrafts #upcycle #diy"
     channeltitle "Our Upcycled Life"
     channelid "UCz4GCx3ieKlpkMnIpQG8u4w"
@@ -1377,7 +1377,7 @@ graph
     label "_d9djWPY_e0"
     step 0
     date "2021-05-25T03:02:16Z"
-    title "2021.05.24 My First Men&#8217;s Vintage Jewelry Sale"
+    title "2021.05.24 My First Mens Vintage Jewelry Sale"
     description "EXCITING ANNOUNCEMENT!!!  &#10;Please mark your calendars for this Sunday evening, May 30th (4:30PM Pacific or 7:30PM Eastern) because Cindy (a.k.a. Jewelry Nurse) is being gracious enough to host me on her YouTube channel for another live sterling silver auction.  I will be on her channel (link provided below) so please subscribe to her channel if you are not already and be watching for us on the 30th!  I have some great things in store for you, including free giveaways, so I invite you to come join us.  You don't have to purchase anything ... just come join the chat and let's have some fun together!!! :)&#10;* Cindy's channel:  https://www.youtube.com/channel/UC6qWJmo_wyhNMZuOM0H7CVQ&#10;----------------------------------------------------------------------------------------------------------------&#10;&#10;My Etsy shop: VintageBoutiqueCali&#10;https://www.etsy.com/shop/VintageBoutiqueCali?ref=search_shop_redirect&#10;&#10;My eMail address: vintageboutiquecali@yahoo.com&#10;&#10;2021.05.24 My First Men&#8217;s Vintage Jewelry Sale&#10;&#10;Hello, and thank you for stopping by my first men's vintage jewelry pop up sale, where I am offering  you 24 vintage items priced anywhere from $15 to $125.   Are you looking for a Father's Day gift, a birthday gift, a graduation gift, an anniversary gift, a &#34;just because&#34; gift, etc., for a gentleman in your life?  If so, come join me while I show and offer you some vintage men's jewelry in my first men's jewelry sale. &#10;&#10;If you are interested in purchasing any of these items, you need to do THREE things:&#10;&#10;1) Please leave a comment below with the item number(s) and description that you are interested in. This is a first-come-first-served sale, and I will be going off the date/time stamp of your comments to determine who asked for item(s) first.&#10;&#10;2) Send me an email to VintageBoutiqueCali@yahoo.com with your name, mailing address and PayPal address so I can send you an invoice.  If you have already purchased from me before, I should already have your information unless it's changed.&#10;&#10;3) Pay the invoice within 24 hours of receipt.&#10;&#10;PAYMENTS&#10;* All payments are to be made via PayPal.  &#10;&#10;SHIPPING&#10;* All shipping is done via the United States Postal Service (USPS), and I do combine shipping so it's the most economical for you.&#10;* Shipping within the U.S. will be $4.50 for each jewelry item #1 through 21.&#10;* Shipping within the U.S. will be $15.50 for each larger non-jewelry item #22 through 24.&#10;* Shipping outside the U.S. will be more depending on the country and international shipping charges.&#10;* Shipping will occur within 24 hours of payment and I'll provide you with the tracking number."
     channeltitle "Doug / Vintage Boutique Cali"
     channelid "UCmdKgXreKn0H-AuVMXh69ew"
@@ -1387,7 +1387,7 @@ graph
     commentcount 72
     duration "PT49M24S"
     indegree 1
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "FpU7uvPtvd8"
     step 0
     date "2022-03-08T01:30:41Z"
-    title "WOW! Jewelry Hoard in Chicago! Entire Estate of Vintage &#38;amp; Antique Jewelry!"
+    title "WOW! Jewelry Hoard in Chicago! Entire Estate of Vintage Antique Jewelry!"
     description "My trip to Chicago to check out an entire estate of vintage jewelry. I man contacted me about an entire lifetime supply of amazing jewelry! There were prototypes of Stanley Hagler, Miriam Haskell, Hattie Carnegie, Givenchy, Coro, Trifari, Sterling, Art Deco, Victorian, and the list goes on! We only stayed in Chicago for a total of 16 hours, but it was an awesome 16 hours full of pizza, jewelry, and good conversation! I bet there were over 20k pieces of jewelry and I am not even lying! &#10;&#10;* For the giveaway please comment to be entered. This is so I can reply to your comment if you win. It is hard to contact people otherwise so please keep checking back. I will announce the winner on 3/14/2022! &#10;&#10;* Everyone keeps asking for the names of the songs so I will start listing them here for everyone:    Geminii - Little Sister III&#10;&#10;*Contact me at any of these:&#10;www.OVM.shop&#10;Instagram: @Ovm.shop&#10;https://www.facebook.com/OVM.shop&#10;Email: Kaciepaige03@hotmail.com"
     channeltitle "Olive's Vintage Market"
     channelid "UCTmssxYnnc0ALTnXvGz-LMw"
@@ -1431,7 +1431,7 @@ graph
     label "9P_TSwJBmpU"
     step 0
     date "2021-02-26T23:09:57Z"
-    title "Part 6 ANTIQUE &#38;amp; Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education"
+    title "Part 6 ANTIQUE Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education"
     description "Welcome to part 6 of a recent antique and vintage jewelry haul I got from a former jewelry store owner. You will see (and learn about!) some beautiful vintage and antique jewelry pieces including a lovely scarab cuff bracelet, an art deco pin with a pretty blue stone,  a Morpho butterfly necklace and much MORE. Brands include Monet, Castlecliff, Les Bernard, Crown Trifari, Marvella, Napier and others.  I hope you enjoy my haul. There are bracelets, brooches, necklaces, rings, etc. You'll likely learn a few new things about old jewelry. Thanks so much for watching, please share and like this video if you're so inclined!  I hope you enjoy my jewelry haul! xo  &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelery101 #jewelryidentification #testingbakelite #testingsterlingsilver #learnaboutvintagejewelry #jewelryeducation #vintagejewelryforbeginners"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -1441,7 +1441,7 @@ graph
     commentcount 123
     duration "PT28M40S"
     indegree 17
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 111
     duration "PT3M35S"
     indegree 4
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1557,7 +1557,7 @@ graph
     label "oAOO6BaGHW0"
     step 0
     date "2020-10-09T12:00:29Z"
-    title "Angela&#38;#39;s Vintage Jewelry Box Collection!!"
+    title "Angelas Vintage Jewelry Box Collection!!"
     description "Hi friends in today's video we are showing you Angela's jewelry box collection.  She has accumulated quite a bit over the past years and we want to show you the varied types and styles of her vintage jewelry boxes.  We show you examples of Ormolu and Bavarian porcelain as well as vintage pieces from the 60,s and 70,s.  We hope you enjoy our video on vintage jewelry boxes.  Thanks as always for watching and if you like collecting like we do make sure to watch our collection playlist to check out all of our other collection videos. The link is here: https://www.youtube.com/watch?v=pbda7q-DbgE&#38;list=PLcnyDGAFzj6Zqt1a0TCdILXbjZulbDYAd&#10;&#10;Follow us on Instagram at: https://www.instagram.com/mytakeonhomeandgarden/&#10;&#10;Music by: https://www.epidemicsound.com/&#10;&#10;#vintagejewelrybox #vintagecollection #loveofvintage"
     channeltitle "My Take On Home &#38; Garden"
     channelid "UC9xSo7XW8MLH9SQYmIv72Yg"
@@ -1639,7 +1639,7 @@ graph
     commentcount 45
     duration "PT21M52S"
     indegree 27
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1647,7 +1647,7 @@ graph
     label "-kSQxaEXRBo"
     step 0
     date "2021-02-05T01:00:42Z"
-    title "My Vintage Jewelry Cloisonn&#233; &#38;amp; Enamels Box | Pre-Listed Etsy Inventory | Up Close Jewelry"
+    title "My Vintage Jewelry Cloisonn Enamels Box | Pre-Listed Etsy Inventory | Up Close Jewelry"
     description "#vintagejewelry #cloisonne #enamel jewelry #unboxing #upclosejewelry&#10;#Etsy #Reselling&#10;I have been asked recently to share my Cloisonn&#233; and Enamels box.  Here it is!  &#10;My Etsy link:  dazzledbyvintage.etsy.com&#10;Instagram:  dazzledbyvintage"
     channeltitle "Treasured Vintage"
     channelid "UCqENXcQMcPGtW9oEkUD8QJw"
@@ -1665,7 +1665,7 @@ graph
     label "6FjwIAtN4tU"
     step 0
     date "2012-06-08T20:38:14Z"
-    title "Learning About Vintage Jewelry: Design Muse, Income Stream vs. Repurposing | B&#38;#39;Sue Boutiques"
+    title "Learning About Vintage Jewelry: Design Muse, Income Stream vs. Repurposing | BSue Boutiques"
     description "Learning About Vintage Jewelry: Design Muse, Income Stream vs. Repurposing | B'Sue Boutiques&#10;&#10;Learning about vintage jewelry is more important today than ever.  With the repurposing trend at an all-time high, have you ever considered the value of the things you may be picking up at flea markets, estate auctions, and yard sales? B'sue takes a box of found jewelry and discusses a bit about how some of the pieces were made and what they are worth.  This video is intended to get you to think about how vintage jewelry can be your design muse, instead of your design components....and how you can not only be inspired by it, but learn to make it another source of revenue, trading up for components, media, and tools you can use in your OWN design workshop.  Many think they can only afford to find bags of old jewelry to break apart to make jewelry...but how many really KNOW what they have in that bag?   And how they might get it into a collector's hands, turning the pieces into far more cash than a repurposed piece might get them.  B'sue knows it works.....this is where she started, about 25 years ago,  Enjoy the video!   And please know we appreciate your patronage at http://www.bsueboutiques.com, where many of the filigree and stampings we sell today were originally used in pieces JUST LIKE THESE.   Regret that at this time, we aren't able to appraise your pieces but if you have some to share, please feel free to join B'sue Boutiques Creative Group at FLICKR where you ARE permitted to upload photos.  Some of us at the Group are/have been antique dealers and can help you know what you have and whether or not to repurpose it.  http://www.flickr.com/groups/bsueboutiques&#10;&#10;&#9989;PLEASE SUBSCRIBE AND PRESS THE BELL&#128276;ICON&#10145;&#65039;https://bit.ly/2DvLeii&#10;&#9989;VISIT OUR WEBSITE&#10145;&#65039;https://www.bsueboutiques.com/Default.asp&#10;&#9989;BUSINESS QUERIES&#10145;&#65039;jordan@bsueboutiques.com&#10;&#10;&#129309;STAY CONNECTED WITH US:&#128071;&#10;&#10;&#9989;https://www.etsy.com/shop/bsueboutiquesupplies&#10;&#9989;https://www.facebook.com/bsueboutiquesjewelrysupplies&#10;&#9989;https://www.instagram.com/bsueboutiques/&#10;&#9989;https://twitter.com/bsueboutiques&#10;&#9989;https://www.pinterest.com/bsueboutiques/&#10;&#10;COME &#38; JOIN US AT FACEBOOK GROUP COMMUNITY:&#128071;&#10;&#10;&#9989;https://www.facebook.com/groups/bsueboutiquescreativegroup&#10;&#10;#jewelrymaking #bsueboutiques #jewelrysupplies #uniquejewelry #mixedmediajewelry #vintagejewelry #repurposingjewelry #vintage #selling #sellingoldjewelry"
     channeltitle "B'Sue Boutiques"
     channelid "UCZf8o6MNmzVKZf_CnHu0J8w"
@@ -1711,7 +1711,7 @@ graph
     commentcount 7
     duration "PT7M46S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -1719,7 +1719,7 @@ graph
     label "f1OO9snfRsY"
     step 0
     date "2022-06-10T16:41:51Z"
-    title "Vintage jewelry bag unbagging!! vintage jewelry haul!! &#65532;"
+    title "Vintage jewelry bag unbagging!! vintage jewelry haul!! "
     description "it&#8217;s pretty cute stuff in this bag definitely great for crafters and also resale I love finding an assortment of items in every bag. Thanks for watching subscribing and leaving a comment don&#8217;t forget to share if you can. Thank you so much!&#65532;"
     channeltitle "Vintage Discoveries"
     channelid "UCPUqBevT81GAuuCqpqpXROg"
@@ -1737,7 +1737,7 @@ graph
     label "CBpA61Fr_YM"
     step 0
     date "2020-12-02T14:06:23Z"
-    title "What The &#38;amp;%@* Is Estate Jewelry?"
+    title "What The %@* Is Estate Jewelry?"
     description "If you're a fan of jewelry, you've probably heard of estate jewelry before but many still tend to find themselves wondering what does estate jewelry mean? In today's video, I'm going to first explain what estate jewelry is, as well as tell you the differences between vintage, antique, costume, and fine jewelry.&#10;&#10;&#127991;&#65039; See our Estate Jewelry here: https://bit.ly/2JicLH3&#10;&#128142; Shop jewelry, watches and more @ https://bit.ly/2Vn3sIh&#10;&#129305; Looking for something specific? Call us @ 215-791-8203&#10;&#10;&#120402;&#120387;&#120380;&#120399; &#120383;&#120394;&#120384;&#120398; &#120384;&#120398;&#120399;&#120380;&#120399;&#120384; &#120389;&#120384;&#120402;&#120384;&#120391;&#120397;&#120404; &#120392;&#120384;&#120380;&#120393;&#10;&#10;Estate jewelry means preowned jewelry, in other words, used jewelry. It's that simple. It's jewelry that was previously bought and worn. Estate indicates that the jewelry had a previous owner. While it's true that a lot of the estate jewelry available on the market today can be anywhere from 50 to 150 years old, contrary to popular belief, the age of the jewelry itself is irrelevant in regards to classifying it as &#34;estate jewelry.&#34;&#10;&#10;Before I tell you more details about estate jewelry, I'd like to talk about the differences between vintage and antique jewelry.&#10;&#10;&#120399;&#120387;&#120384; &#120383;&#120388;&#120385;&#120385;&#120384;&#120397;&#120384;&#120393;&#120382;&#120384; &#120381;&#120384;&#120399;&#120402;&#120384;&#120384;&#120393; &#120401;&#120388;&#120393;&#120399;&#120380;&#120386;&#120384; &#120380;&#120393;&#120383; &#120380;&#120393;&#120399;&#120388;&#120396;&#120400;&#120384; &#120389;&#120384;&#120402;&#120384;&#120391;&#120397;&#120404;&#10;&#10;Antique jewelry means that it's over 100 years old. The bulk of it tends to be too expensive to even wear or display. Jewelry of this type is known for it's exceptional level of craftsmanship. Antique jewelry also tends to be made of higher-quality materials in comparison to modern jewelry on the market today.&#10;&#10;Vintage jewelry is jewelry that is between 50 to 100 years old, although in some cases, jewelry that is only 20 years old can still be dubbed &#34;vintage.&#34; It is nothing like antique jewelry, in the sense that it's unlikely to break and is worn regularly. Vintage jewelry design also tends to be more modern and much easier to incorporate into fashionable outfits.&#10;&#10;Now that you know the difference between antique and vintage jewelry, you'll understand what I mean when I tell you that estate jewelry is usually antique in nature but it's not always the case.&#10;&#10;&#120383;&#120384;&#120385;&#120388;&#120393;&#120388;&#120393;&#120386; &#120385;&#120388;&#120393;&#120384; &#120389;&#120384;&#120402;&#120384;&#120391;&#120397;&#120404;&#10;&#10;Fine jewelry is what most jewelers work with and that is jewelry that's made of precious metals such as white gold, yellow gold and platinum. This type of jewelry uses literally the absolutely finest materials available on the market, referred to as precious stones such as diamonds, rubies, emeralds and sapphires. Traditionally, these are the most expensive and most sought after. Fine jewelry also utilizes semi-precious stones and the top ten stones in this category are: rose quartz, garnet, amethyst, onyx, turquoise, citrine, aquamarine, jade, opal and moonstone.&#10;&#10;There are some jewelry lovers that insist on a middle category known as semi-fine jewelry but if you want the details on that, then you'll have to watch the video in full.&#10;________________________________&#10;&#10;&#120398;&#120394;&#120392;&#120384; &#120394;&#120385; &#120399;&#120387;&#120384; &#120389;&#120384;&#120402;&#120384;&#120391;&#120397;&#120404; &#120385;&#120384;&#120380;&#120399;&#120400;&#120397;&#120384;&#120383; &#120388;&#120393; &#120399;&#120387;&#120388;&#120398; &#120384;&#120395;&#120388;&#120398;&#120394;&#120383;&#120384;&#10;&#10;Estate Cartier Love Ring&#10;&#128073; https://bit.ly/3qjbfF9&#10;&#10;Audemars Piguet Vintage 18K Yellow Gold Baguette Diamond Bezel Watch&#10;&#128073; https://bit.ly/37v8Azs&#10;________________________________&#10;&#10;&#129392; &#120385;&#120394;&#120391;&#120391;&#120394;&#120402; &#120399;&#120387;&#120384; &#120389;&#120384;&#120402;&#120384;&#120391;&#120397;&#120404; &#120401;&#120380;&#120400;&#120391;&#120399; &#120394;&#120393; &#120388;&#120393;&#120398;&#120399;&#120380;&#120386;&#120397;&#120380;&#120392;&#10;https://bit.ly/32maKzD&#10;&#10;&#128081; &#120385;&#120394;&#120391;&#120391;&#120394;&#120402; &#120391;&#120400;&#120403;&#120400;&#120397;&#120404; &#120381;&#120380;&#120405;&#120380;&#120380;&#120397; &#120387;&#120384;&#120397;&#120384;&#10;&#10;&#9655; Official Site: https://bit.ly/2Vn3sIh&#10;&#9658; Instagram: http://bit.ly/2KpwuCh&#10;&#9658; Facebook: http://bit.ly/2KoF2co&#10;&#9658; Pinterest: http://bit.ly/30kMP0t&#10;&#10;#fashion&#10;#vintage&#10;#jewelry&#10;#women&#10;#jewellery&#10;#antique&#10;#style&#10;#collectible&#10;&#10;00:00:00 What Does Estate Jewelry Mean?&#10;1:03 Antique vs. Vintage Jewelry&#10;2:10 Costume Jewelry&#10;2:35 From The Vault&#10;3:20 Fine Jewelry&#10;3:47 Semi-Fine Jewelry"
     channeltitle "The Jewelry Vault"
     channelid "UC_OKWCAghF7Zsui6vLTz9MQ"
@@ -1791,7 +1791,7 @@ graph
     label "R8bNv2d_q3c"
     step 0
     date "2022-01-22T05:00:22Z"
-    title "Vintage Jewelry Unbagging Sterling Silver, Gemstones &#38;amp; More"
+    title "Vintage Jewelry Unbagging Sterling Silver, Gemstones More"
     description "Come see our Vintage Jewelry Unbagging from our Local Jewelry Auction. We have Sapphires, Jade, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -1801,7 +1801,7 @@ graph
     commentcount 44
     duration "PT19M32S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1837,7 +1837,7 @@ graph
     commentcount 204
     duration "PT34M23S"
     indegree 61
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 102
     duration "PT26M35S"
     indegree 4
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 90
     duration "PT2M1S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1881,7 +1881,7 @@ graph
     label "1H8Epk6qpdY"
     step 0
     date "2020-10-29T22:00:02Z"
-    title "Vintage Jewelry Unboxing - Found 14k GOLD &#38;amp; Diamond Brooch 2020 Haul"
+    title "Vintage Jewelry Unboxing - Found 14k GOLD Diamond Brooch 2020 Haul"
     description "Vintage Jewelry Unboxing - Found 14k Gold &#38; Diamond Brooch2020 Ebay Haul&#10;#jewelry #unboxing #gold #diamonds&#10;&#10;Watch to see what I find in this 12 pound mystery box of vintage brooches. I paid 648 total for the box. Was it worth it? Watch and let me know what you think in the comments below. Not only did a find a 14k white gold brooch adorned with baguette and pear diamonds, but I found so much more !We offer our brooches on Ebay auctions starting and $2.50 or $5.00 and we also give away one free brooch a month on our facebook page. Links are below. Thanks for watching, subscribing and feel free to comment below. I look forward to hearing from my viewers!&#10;&#10;---------------------------------------&#10;https://linktr.ee/vintagevagabond&#10;email - vintagevagabondvends@gmail.com"
     channeltitle "Vintage Vagabond Vends"
     channelid "UCgMFmm3R5e8KB2LIQkhC3Pw"
@@ -1891,7 +1891,7 @@ graph
     commentcount 17
     duration "PT18M7S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -1899,7 +1899,7 @@ graph
     label "JmlGLgvAVhc"
     step 0
     date "2021-02-03T02:37:21Z"
-    title "Vintage Jewelry Identification &#38;amp; Appraisals"
+    title "Vintage Jewelry Identification Appraisals"
     description "Please see below for full access to Creative Unique's:&#10;&#10;Tik Tok: creativeuniques&#10;Facebook Page: fb.me/creativeuniques&#10;Facebook Message: m.me/creativeuniques&#10;Instagram: CreativeUniques &#10;Website: CUniques.com &#10;Poshmark: CreativeUniques &#10;Ebay Store: ebay.com/usr/niftythriftiesinajiffy&#10;Etsy Store: EfficientlyCreative1 &#10;Mercari Store: Creative Uniques &#10;Youtube Channel: Creative Unique's&#10;Linked-in: https://www.linkedin.com/in/brooke-silva-06187445/&#10;Youtube Channels:  &#34;GoBetween&#34; &#38; &#34;Taboo Schitt&#34;&#10;&#10;PLEASE COMMENT BELOW!! I LOVE TO HEAR FEEDBACK!! I WANT TO HEAR FROM YOU! WE APPRECIATE YOUR SUPPORT!!! THANK YOU!!"
     channeltitle "Creative Unique's"
     channelid "UCXdcmJ5RejMxaSU_XfOwDpg"
@@ -1935,7 +1935,7 @@ graph
     label "V4ynAA7ohoo"
     step 0
     date "2021-02-02T00:25:52Z"
-    title "Vintage Jewelry STICK PIN Collection MY JEWELRY BOX Haul Victorian Edwardian Costume &#38;amp; Real"
+    title "Vintage Jewelry STICK PIN Collection MY JEWELRY BOX Haul Victorian Edwardian Costume Real"
     description "Hello and welcome to my STICK PIN jewelry collection!  This video features some Victorian &#38; Edwardian pieces including some snakes, hearts, moons and more. A few are real gold with gemstones, and some are costume. I will also test some of them with my Presidium Gem Tester!!!!  Thanks for coming, please see my other videos for more beautiful old jewelry.  Kindly like, subscribe and share. Peace. xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;&#10;&#10;#jewelry101 #jewelry education #learningaboutjewelry #howtoidentifyvintagejewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -1945,7 +1945,7 @@ graph
     commentcount 86
     duration "PT31M52S"
     indegree 6
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1953,7 +1953,7 @@ graph
     label "ASJzmOHA99U"
     step 0
     date "2022-01-16T06:26:07Z"
-    title "Vintage Jewelry Haul! A bit of a show and tell. More show and less tell! &#128514;"
+    title "Vintage Jewelry Haul! A bit of a show and tell. More show and less tell! "
     description "Hello and Welcome to my channel! I have a variety of items to show today from my latest vintage jewelry haul.  Most of these items will be going up for sale on this channel. Please email me with any questions or interest you may have in anyting you see. If you'd like to purchase please describe the piece or screenshot or time stamp please. Shipping starts at $5. Thanks so much! Take care. xo&#10;Tiny Deer Vintage (Deb)&#10;my email: tinydeervintage@gmail.com"
     channeltitle "Tiny Deer Vintage (Deb)"
     channelid "UCo77fToLC26MHOIkMppsrpw"
@@ -1971,7 +1971,7 @@ graph
     label "TXOBaUCnVMs"
     step 0
     date "2021-12-05T15:29:10Z"
-    title "Vintage Jewelry lot  Sale !"
+    title "Vintage Jewelry lot Sale !"
     description "hey ! thank you all for watching subscribing and commenting! &#10;&#10;if you&#8217;re interested in buying a small craft lot please email me at vintage.discoveries21@gmail.com&#10;Are use PayPal only goods and services&#10;If you&#8217;re interested in a lot tell me what number and I will invoice you through PayPal thank you so much!&#10;additional shipping may apply if out of the US . &#65532;"
     channeltitle "Vintage Discoveries"
     channelid "UCPUqBevT81GAuuCqpqpXROg"
@@ -1999,7 +1999,7 @@ graph
     commentcount 13
     duration "PT16M18S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 244
     duration "PT19M15S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2115,7 +2115,7 @@ graph
     label "C1c5pw8_0eQ"
     step 0
     date "2021-02-17T06:50:16Z"
-    title "Vintage &#38;amp; Antique Jewelry w Makers&#38;#39;marks Italian silver? &#38;quot;Craft vintage jewelry piece&#38;quot; &#38;amp; more PART#1"
+    title "Vintage more PART#1"
     description "Hello friends and family =FRAMILY;) &#10; If you LOVE vintage, antique, and learning about makers 'marks jewelry please stay tuned. Join me in the fun and excitement of un-bagging my vintage and or antique costume jewelry.&#10; I go out to Arizona and come home with these goodies, I stash them away until I have time to sort through them again with you. I think it's much more fun revisiting my Jewls on camera with you all.  I wish I could do a live stream for us (one day soon I hope). Well had a lot more jewelry then thought so I will have to make a part two. Please stay on board w me this is only the beginning! Part 2 is going to be me finishing up my Arizona savers vintage jewelry haul. I'm so excited!!! I'm really looking forward to read your comments and hear what you have to say, and hopefully I will learn some new things. Anyway I'm going to post this and continue part 2. Thank you for watching ,and sticking with me you all are the best!  Love love love from Me 2 you all. God Bless"
     channeltitle "SpicyDames Vintage Jewelry &#38; Things"
     channelid "UCqf8T_YPcmRe99TJmTbWxLw"
@@ -2151,7 +2151,7 @@ graph
     label "HOExfh8hU_g"
     step 0
     date "2021-01-13T01:54:17Z"
-    title "My Vintage Jewelry Shop Tour!  * PEEK inside *"
+    title "My Vintage Jewelry Shop Tour! * PEEK inside *"
     description "My vintage jewelry shop tour! Peek into it! Alas, my shop is no more. All the vintage jewelry of a collectors dreams, The famous clients, the very very high bar. It was fun while it lasted. My high end vintage jewelry collection and clothing and accessories collection is online and in person by private appointment now! &#10;&#10;&#10;I am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#10;&#10;&#9829;&#65038;  SHOP:  https://shophudsonvintage.com&#10;&#10;&#9829;&#65038;  MEMBERSHIP:   https://www.patreon.com/hudsonvintage&#10;&#10;&#9829;&#65038; AMAZON:  https://www.amazon.com/shop/hudsonvintage&#10;&#10;&#9829;&#65038; SOCIAL MEDIA:&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#10;&#10;&#9829;&#65038; FRIEND MAIL&#10;Hudson Vintage&#10;P.O. BOX 2620&#10;Nevada City, CA&#10;95959&#10;&#10;&#9829;&#65038;CONTACT ME:&#10;Email: hudsonvintage@me.com&#10;&#10;MOST POPULAR VIDEO&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;LAST WEEK'S UPLOAD:&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;CHANNEL INTRO: &#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#10;&#10;EMAIL: hudsonvintage@me.com&#10;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -2169,7 +2169,7 @@ graph
     label "n_XTkgJf5X4"
     step 0
     date "2022-03-29T04:00:14Z"
-    title "Vintage Jewelry Unbagging Victorian, Juliana, D&#38;amp;E, HOBE &#38;amp; Costume Jewelry"
+    title "Vintage Jewelry Unbagging Victorian, Juliana, D Costume Jewelry"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. We have Victorian, Juliana, D&#38;E &#38; Costume Jewelry &#38; More. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com &#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We ship Internationally&#10;All Sales Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -2223,7 +2223,7 @@ graph
     label "_wK-m0IImmQ"
     step 0
     date "2022-07-08T12:21:15Z"
-    title "Anti Inflation Sale! 8% Off Vintage Jewelry &#128141; PART 2!"
+    title "Anti Inflation Sale! 8% Off Vintage Jewelry PART 2!"
     description "Anti Inflation Sale! 8% Off Vintage Jewelry &#128141; PART 2!  &#10;Jomaz Earrings https://py.pl/dLi79&#10;Day and Bight Earrings  https://py.pl/VmEF2&#10;Monet Horn Necklace https://py.pl/1gnn7v&#10;Live shopping vintage jewelry auction!&#13;&#10;&#9829;&#65038;  TEXT ME:  917-809-7250  For Live Auction Alerts&#13;&#10;&#9829;&#65038; SELL OR CONSIGN: hudsonvintage@me.com SUBJECT: Help! &#13;&#10;&#9829;&#65038;  MEMBERSHIP PATREON:  &#13;&#10; https://www.patreon.com/hudsonvintage&#13;&#10;&#9829;&#65038;  MEMBERSHIP YOUTUBE:  https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#13;&#10;&#9829;&#65038;  GALAXY SHOP:  973-949-0785  https://shopgalaxy.com/hudson-vintage/profile&#13;&#10;&#9829;&#65038; SOCIALS:&#13;&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#13;&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#13;&#10;&#9829;&#65038; AMAZON:  https://www.amazon.com/shop/hudsonvintage&#13;&#10;&#9829;&#65038; FRIEND MAIL&#13;&#10;Hudson Vintage&#13;&#10;P.O. BOX 526&#13;&#10;Blairstown NJ&#13;&#10;07825&#13;&#10;&#9829;&#65038; CONTACT ME:&#13;&#10;EMAIL: hudsonvintage@me.com&#13;&#10;TEXT:  917-809-7250&#13;&#10;&#9829;&#65038; JOIN this channel to get access to perks:&#13;&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#13;&#10;&#13;&#10;I am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#13;&#10;&#13;&#10;MOST POPULAR VIDEO&#13;&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#13;&#10;&#13;&#10;LAST WEEK'S UPLOAD:&#13;&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#13;&#10;&#13;&#10;CHANNEL INTRO: &#13;&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#13;&#10;&#13;&#10;EMAIL: hudsonvintage@me.com&#13;&#10;&#13;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -2251,7 +2251,7 @@ graph
     commentcount 45
     duration "PT23M49S"
     indegree 2
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 40
     duration "PT24M32S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -2331,7 +2331,7 @@ graph
     label "DslaS8OpwXU"
     step 0
     date "2020-12-11T05:57:18Z"
-    title "Thrifting with Tony&#38;#39;s Vintage Jewelry Christmas Tree Lighting"
+    title "Thrifting with Tonys Vintage Jewelry Christmas Tree Lighting"
     description "Some of you asked that you wanted to see the Jewelry Christmas Tree all lit up with the lights repaired so I made a little video to share that with you.&#10;&#10;Here is the link for Peek, the paste used in the video available on Amazon&#10;Peek Paste&#10;https://amzn.to/3oKY2n5&#10;__________&#10;Please Like and Subscribe:&#10;https://www.youtube.com/channel/UCygdjQwxaO9WOFZBOhglJrQ&#10;&#10;My store: &#10;https://www.etsy.com/shop/PinkLemonMarket?ref=shop_sugg&#10;&#10;Follow me on Instagram:&#10;https://instagram.com/thrifting_with_tony?igshid=18whnjvf88sdl"
     channeltitle "Thrifting With Tony"
     channelid "UCygdjQwxaO9WOFZBOhglJrQ"
@@ -2341,7 +2341,7 @@ graph
     commentcount 10
     duration "PT3M32S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 46
     duration "PT24M44S"
     indegree 2
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 13
     duration "PT14M28S"
     indegree 3
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 18
     duration "PT20M24S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2511,7 +2511,7 @@ graph
     label "MM3YvEDmkOU"
     step 0
     date "2021-05-03T15:00:14Z"
-    title "Vintage Jewelry Identification &#38;amp; Appraisals"
+    title "Vintage Jewelry Identification Appraisals"
     description "Episode 10&#10;&#10;Facebook Page: fb.me/creativeuniques&#10;Facebook Message: m.me/creativeuniques &#10;Instagram: CreativeUniques &#10;&#10;Store: &#10;Etsy Store: EfficientlyCreative1 &#10;Ebay Store: ebay.com/usr/niftythriftiesinajiffy&#10;Website: CUniques.com&#10;&#10;Other Channels:&#10;Taboo Schitt (also on Anchor and Spotify)&#10;GoBetween&#10;&#10;P.O. Box 354&#10;Canton, TX 75103"
     channeltitle "Creative Unique's"
     channelid "UCXdcmJ5RejMxaSU_XfOwDpg"
@@ -2557,7 +2557,7 @@ graph
     commentcount 20
     duration "PT16M3S"
     indegree 8
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2583,7 +2583,7 @@ graph
     label "rjCJU0o2xyg"
     step 0
     date "2021-11-06T20:31:27Z"
-    title "Vintage Jewelry Treasure hunt with me- boxes from my local antique store!&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;"
+    title "Vintage Jewelry Treasure hunt with me- boxes from my local antique store!"
     description "Let's search for jewelry treasures in some jewelry boxes from my local antique store! Lots of amazing vintage pieces- including Miriam Haskell and other treasures. I also share some new Tiffany and sterling silver jewelry I have collected over the past few months!&#10;&#10;I also talk about where I have been and why I haven't uploaded in so long!! &#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10;&#10;Thanks so much for watching!!&#10;Please consider subscribing to my channel if you are a fellow jewelry lover."
     channeltitle "Little Blue Jewelry Box"
     channelid "UCVjMYv-vOUze3Q6YC_Pijiw"
@@ -2593,7 +2593,7 @@ graph
     commentcount 38
     duration "PT55M52S"
     indegree 5
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2637,7 +2637,7 @@ graph
     label "PpzhqTvy9NY"
     step 0
     date "2022-06-22T23:39:52Z"
-    title "Antique AUCTION Ride Along Adventure Vintage Jewelry &#38;amp; More!"
+    title "Antique AUCTION Ride Along Adventure Vintage Jewelry More!"
     description "Here's a fun jewelry haul that I hope you enjoy! I found some &#10;As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -2701,7 +2701,7 @@ graph
     commentcount 879
     duration "PT18M50S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 69
     duration "PT27M1S"
     indegree 9
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 202
     duration "PT28M55S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 37
     duration "PT9M26S"
     indegree 3
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2799,7 +2799,7 @@ graph
     label "6ayERPVdv7o"
     step 0
     date "2022-02-12T05:00:01Z"
-    title "Vintage Jewelry Unbagging Costume Jewelry  14k, KJL and Joan Rivers"
+    title "Vintage Jewelry Unbagging Costume Jewelry 14k, KJL and Joan Rivers"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. We found 14k, KJL and Joan Rivers &#38; more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com &#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We also do International&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -2809,7 +2809,7 @@ graph
     commentcount 44
     duration "PT26M42S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2835,7 +2835,7 @@ graph
     label "_6rPpNJ2nes"
     step 0
     date "2022-01-03T05:00:25Z"
-    title "Vintage Jewelry Unbagging First Auction Bags of the Year Sterling, Weiss, Rubies &#38;amp; Amber"
+    title "Vintage Jewelry Unbagging First Auction Bags of the Year Sterling, Weiss, Rubies Amber"
     description "Come see our Vintage Jewelry Unbagging from our Local Jewelry Auction. We have Weiss, Monet, Rubies, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -2845,7 +2845,7 @@ graph
     commentcount 68
     duration "PT27M16S"
     indegree 7
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2889,7 +2889,7 @@ graph
     label "HWruQIY59-Y"
     step 0
     date "2021-12-14T18:32:35Z"
-    title "Interesting EGYPTIAN REVIVAL Vintage Jewelry Collection from Yard Sales &#38;amp; Thrift Stores !"
+    title "Interesting EGYPTIAN REVIVAL Vintage Jewelry Collection from Yard Sales Thrift Stores !"
     description "Welcome to another installment of &#34;My Jewelry Box&#34;. I hope you enjoy seeing some of my Egyptian-themed jewelry. Near the end, I also include a few ancient-style pieces too. As always, thanks so much for watching, I hope you will consider subscribing so you don't miss any videos in the future!  Oh, and buy me a coffee if you want. Hugs, Sandra. xo&#10;#yardsalefinds #garagesalefinds #vintagejewelry #jewelryhaul #unboxing &#10;&#10;Buy me a coffee here:&#10;https://www.buymeacoffee.com/TheFunkyPickle&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -2899,7 +2899,7 @@ graph
     commentcount 83
     duration "PT20M34S"
     indegree 6
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 27
     duration "PT8M49S"
     indegree 1
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 221
     duration "PT15M46S"
     indegree 4
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3033,7 +3033,7 @@ graph
     label "jMYTqp6hj14"
     step 0
     date "2022-06-30T13:29:50Z"
-    title "2022.06.30 &#8220;What&#8217;s in the Box?&#8221; (EP27) - Vintage Jewelry"
+    title "2022.06.30 (EP27) - Vintage Jewelry"
     description "My eMail address: VintageBoutiqueCali@Yahoo.com&#10;&#10;2022.06.30 &#8220;What&#8217;s in the Box?&#8221; (EP27) - Vintage Jewelry&#10;&#10;I thoroughly enjoy hunting/searching for and picking specific pieces of vintage sterling silver and costume jewelry I like and then offering them to people like you who may want to purchase and/or collect them from the comfort of your own living room. &#10;&#10;For today, however, just sit back, relax and come see what fun treasures are in this box of jewelry!  I am in the process of sorting through a bunch of boxes that were in my storage unit because I am getting ready for a large jewelry sale in July, and I'll be wanting to include pieces that are in these boxes as well.  &#10;&#10;If jewelry and this kind of content interests you, I invite you to subscribe to my channel and click the notification bell to make sure you receive notifications when I go live or upload content. &#10;&#10;Lastly, if you have any constructive feedback and/or recommendations for me on how I can improve my YouTube content, I solicit and welcome your ideas! &#10;&#10;Thanks! &#10;Doug &#10;&#10;#sandiego #sterling #vintagejewelry #midcentury #jewelry"
     channeltitle "Doug / Vintage Boutique Cali"
     channelid "UCmdKgXreKn0H-AuVMXh69ew"
@@ -3043,7 +3043,7 @@ graph
     commentcount 63
     duration "PT33M12S"
     indegree 8
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 40
     duration "PT23M14S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount 84
     duration "PT26M19S"
     indegree 4
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 17
     duration "PT6M18S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3213,7 +3213,7 @@ graph
     label "uhh8Z7Rttd0"
     step 0
     date "2011-10-06T00:49:21Z"
-    title "Christmas Jewelry  Michelle&#38;#39;s Vintage Jewelry"
+    title "Christmas Jewelry Michelles Vintage Jewelry"
     description "https://www.michellesvintagejewelry.com&#10;Christmas jewelry I photographed with Dance of the Sugar Plum Fairies music. Eye candy for the holidays :-)  Christmas jewelry here: https://www.michellesvintagejewelry.com/christmas-jewelry/&#10;&#10;Dance of the Sugar Plum Fairies Kevin MacLeod (incompetech.com) Licensed under Creative Commons &#34;Attribution 3.0&#34; http://creativecommons.org/licenses/by/3.0/"
     channeltitle "Michelle's Vintage Jewelry"
     channelid "UCzzeNjeRi_P_A9OkYgXQA2Q"
@@ -3223,7 +3223,7 @@ graph
     commentcount 3
     duration "PT1M55S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 34
     duration "PT1H26M25S"
     indegree 5
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3267,7 +3267,7 @@ graph
     label "ePL704RhBnk"
     step 0
     date "2021-09-05T10:18:22Z"
-    title "Vintage Jewelry Identification Kenneth J Lane &#38;amp; Giveaway Winner"
+    title "Vintage Jewelry Identification Kenneth J Lane Giveaway Winner"
     description "Vintage jewelry identification for Kenneth J Lane jewelry &#38; Giveaway Winner. All winners and friend mail recipients have been contacted but I will be announcing the three YouTubers I sent friend mail to along with the giveaway winner. &#10;Giveaway &#38; friend mail https://youtu.be/qEtHzxXB9ws&#10;My pink bag https://youtube.com/user/ginagay&#10;Vintage jewelry galore https://youtube.com/channel/UC-SY2UDSOmvdmjtA-i8oJdg&#10;Sugarvission https://youtube.com/user/SUGARVISSION&#10;Halies jewelry &#38; crafts https://youtube.com/channel/UCC7_3uNPb7UnQpDOcmznMzw"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -3321,7 +3321,7 @@ graph
     label "qXYer40_TMM"
     step 0
     date "2022-07-10T22:39:32Z"
-    title "Vintage Dazzle&#38;#39;s Reseller Vlog #177: Items Listed/Sold on Etsy - Vintage Jewelry - Baseball Game"
+    title "Vintage Dazzles Reseller Vlog #177: Items Listed/Sold on Etsy - Vintage Jewelry - Baseball Game"
     description "My weekly vlog shows you snippets of everyday life of a vintage online reseller. I sell vintage and antique jewelry and other small treasures on Etsy and Ebay. I also do haul videos of vintage stuff. I  have a naughty cat, a struggling garden, and a Victorian house that is always under renovation. I go on picnics and walks/hikes and even bike rides.&#10;&#10;Thanks for watching! Please Like, Subscribe &#38; Comment, if you don't mind!&#10;My Etsy shop, http://vintagedazzle.etsy.com , or on Ebay: http://www.ebay.com/sch/karalennox/m.html &#10;&#10;Best way to contact me: Message me from my Etsy shop, http://vintagedazzle.etsy.com &#10;(SPECIAL coupon code for my YouTube viewers: YOUTUBETHANKS, good for 10% off any purchase of $15 or more..)&#10;My 2nd Etsy shop, for original art, handmade and craft supplies: http://KarenLeabo.etsy.com &#10;On Ebay: https://www.ebay.com/str/karalennox&#10;On Instagram I am karenleabo. (Not currently active there)&#10;On Facebook, my page is https://www.facebook.com/vintagedazzle/&#10;On Pinterest, I am Vintage Dazzle, https://www.pinterest.com/karalennox/"
     channeltitle "Karen Leabo - Vintage Dazzle"
     channelid "UCZ4CY5ut9jjWbaOV-rzS_ew"
@@ -3339,7 +3339,7 @@ graph
     label "XQ-fIY3u7j0"
     step 0
     date "2017-07-25T21:10:40Z"
-    title "Men&#38;#39;s Vintage Jewelry by Shields Fifth Avenue"
+    title "Mens Vintage Jewelry by Shields Fifth Avenue"
     description "Collector's Corner! This video focuses on men's vintage jewelry by Shields, a short lived company that left their mark in the vintage men's jewelry realm despite only being active for a few decades.&#10;&#10;The Tie Chest is an online necktie and men's jewelry boutique, specializing in vintage and collectible neckties, bowties, cufflinks, tie clips and more. Visit us on eBay or Etsy.&#10;&#10;Ebay store: thetiechestonebay.com&#10;Etsy store: thetiechestonetsy.com&#10;&#10;Sign up for our newsletter: newsfromthetiechest.com&#10;&#10;Facebook: @thetiechest&#10;Pinterest: @thetiechest"
     channeltitle "The Tie Chest"
     channelid "UC-dAInVmJzAx6FmWiFIllqw"
@@ -3403,7 +3403,7 @@ graph
     commentcount 0
     duration "PT30S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3465,7 +3465,7 @@ graph
     label "lb_QVJqYsHc"
     step 0
     date "2010-10-14T19:37:12Z"
-    title "Exploring a Vintage Jewelry Warehouse"
+    title "E tongue sticking out loring a Vintage Jewelry Warehouse"
     description "I snuck into a NYC wholesale vintage jewelry warehouse with friend and jewelry design Kim to learn how she gets her top secret supplies ... shhh! Whisper or I might get into trouble! &#13;&#10;&#13;&#10;MY SITE: http://www.sammydvintage.com&#13;&#10;&#13;&#10;TWEET ME: http://www.twitter.com/sammydvintage&#13;&#10;&#13;&#10;FAN ME: http://www.facebook.com/sammydavisvin...&#13;&#10;&#13;&#10;EMAIL ME: sammy@sammydvintage.com&#13;&#10;&#13;&#10;Sammy D Loves ... and says THANKS!&#13;&#10;&#13;&#10;Shop K Designs:  http://www.wix.com/kdesignsbyme/new-kdesigns-site&#13;&#10;Email Kim (kdabagian4@aol.com) for 10% off your purchase when you mention Sammy Davis Vintage!&#13;&#10;&#13;&#10;CJS Whole Vintage Jewelry &#38; Supplies Warehouse&#13;&#10;http://www.cjssales.com"
     channeltitle "Sammy Davis"
     channelid "UCFSv3M8gm-eS4iNEY9Hut5A"
@@ -3519,7 +3519,7 @@ graph
     label "bq6Gkv01d1c"
     step 0
     date "2019-08-21T22:37:40Z"
-    title "VINTAGE JEWELRY HAUL / THRIFTED JEWELRY, GOLD &#38;amp; DAINTY || MEGAN ELIZABETH"
+    title "VINTAGE JEWELRY HAUL / THRIFTED JEWELRY, GOLD DAINTY || MEGAN ELIZABETH"
     description "Hi guys!!! This is my first Youtube video ever so the editing is not perfect and I'm super camera shy and awkward right now but I promise the editing will get better with time and I'll get more comfy in front of the camera so I can share my personality with you guys a little bit better!!! &#10;&#10;I'm so excited for you guys to see all the vintage gold jewelry I've picked up from different thrift stores and antique stores lately!! I love thrifting and checking out different antique stores so I wanted to show you that you can find some really cool vintage pieces if you just do some digging!&#10;&#10;I hope you all enjoy this video and if you did make sure you give this video a like and subscribe to my channel! It would mean the absolute world to me to receive your support and love!! ALSO, LEAVE A COMMENT BELOW AND LET ME KNOW WHAT YOUR FAVORITE PIECE WAS IN THIS HAUL!!! Love you guys!!! &#10;&#10;&#10;&#10032; Hi I'm Megan!! &#10032; Come hang for some videos about fashion, beauty, home decor, thrifting, and hauls! &#10;&#10;&#10032; MY SOCIAL MEDIA  &#10032;&#10;IG: https://www.instagram.com/meganelizabeth__xx/&#10;DEPOP:  depop.com/dirtgirl"
     channeltitle "Megan Elizabeth"
     channelid "UCZ-HD1CxODXNzgxZNq6DinQ"
@@ -3583,7 +3583,7 @@ graph
     commentcount 8
     duration "PT8M47S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -3591,7 +3591,7 @@ graph
     label "nQQeCiXePvc"
     step 0
     date "2021-03-27T20:45:29Z"
-    title "Tips on how to revamp or fix vintage jewelry &#128149;&#128149;&#128149;&#128149;"
+    title "Tips on how to revamp or fix vintage jewelry "
     description "Ebay Store-&#160; https://www.ebay.com/usr/sohocaliforniavintage&#10;&#10;Buisness Inquires- &#10;sohocaliforniavintage@gmail.com&#10;&#10;IG- SohoCalifornia Vintage&#10;&#10;&#10;BEAD FACTORY -&#10;https://beadsfactory.com/&#10;&#10;BEAD SORTING TRAY- &#10;https://www.amazon.com/dp/B07SJLL977/ref=cm_sw_r_cp_apa_fabc_M286K346R5Y7WVN5F22R?_encoding=UTF8&#38;psc=1&#10;&#10;BEAD SMITH MAGICAL TRAY-&#10;https://www.amazon.com/dp/B003UNEFL4?ref=ppx_pop_mob_ap_share&#10;&#10;RHINESTONE PICKER'&#10;https://www.amazon.com/dp/B07HQ5NXC9?ref=ppx_pop_mob_ap_share&#10;&#10;E6000-&#10;https://www.amazon.com/dp/B007TSYNG8/ref=cm_sw_r_cp_apa_fabc_E34J6BE86JW8X213KGC5&#10;&#10;GLUE APPLICATOR SYRINGE -&#10;https://www.amazon.com/dp/B00T3GD6ZI/ref=cm_sw_r_cp_apa_fabc_GMKX1WT0F0SE086ER2RD?_encoding=UTF8&#38;psc=1"
     channeltitle "SohoCalifornia Vintage"
     channelid "UCAVaG9-OGcSnKqAbruqXWEQ"
@@ -3655,7 +3655,7 @@ graph
     commentcount 53
     duration "PT24M27S"
     indegree 10
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -3663,7 +3663,7 @@ graph
     label "BJTsq0zCY7c"
     step 0
     date "2022-07-05T23:26:48Z"
-    title "THANK YOU SUBSCRIBERS&#10083;&#65039;&#10083;&#65039; Reselling Vintage Jewelry is FUN&#10083;&#65039;&#10083;&#65039;&#10083;&#65039;"
+    title "THANK YOU SUBSCRIBERS"
     description "#vintagejewelry #thrifthaul #goodwillhaul #jewelryunboxing #jewelryjar #jewelry &#10;Welcome to the Congenial Vintage Jewelry channel where I offer authentic vintage jewelry, collecting one piece at a time. I have been a trusted part-time reseller since 2015 with experience selling on Etsy, eBay and now on YouTube! I do the research so you can relax and buy with confidence, knowing that you are getting the best buy to add to your personal collection.&#10;&#10;Interested in a piece? &#10;&#10;Step 1) Check pinned comments first - this is where SOLD pieces are listed.&#10;Step 2) Email me at congenialvintage@gmail.com &#10;             -Your Name - Video Number - Item Number&#10;             Photos can be helpful but not necessary. &#10;Step 3) Your itemized invoice will be forwarded to your email. &#10;              You will only need a credit card to pay through PayPal. &#10;Step 4) Your items will be carefully packaged and shipped out. I can hold up to one week only, which will give you the opportunity to purchase from next video (maybe even 2 more videos) help you to save on shipping costs. &#10;&#10;Now you are ready to ENJOY a FUN and rewarding shopping experience with me on YouTube! &#10;As a part-time reseller, please note emails and comments can only be answered after 4PM EST Monday-Friday and on Saturday's at anytime during daylight hours. &#10;Created by InShot&#10;https://inshotapp.page.link/YTShare"
     channeltitle "Congenial Vintage Jewelry"
     channelid "UC9I12nFClPhfEdmI7UhZvxw"
@@ -3673,7 +3673,7 @@ graph
     commentcount 6
     duration "PT1M12S"
     indegree 3
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3691,7 +3691,7 @@ graph
     commentcount 48
     duration "PT31M22S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3717,7 +3717,7 @@ graph
     label "trvjMtxF3VY"
     step 0
     date "2020-12-25T03:30:35Z"
-    title "VINTAGE JEWELRY HAUL Estate &#38;amp; Thrifting Finds Thrifter &#38;amp; Reseller"
+    title "VINTAGE JEWELRY HAUL Estate Reseller"
     description "Here's a fun jewelry haul that I hope you enjoy! I don't usually pay more than a couple dollars for the jewelry I buy.  I've recently found some Danbury Mint, a 14k gold pin, Damascene / Toledoware, Sterling Silver, costume jewelry, blue rhinestone cufflinks, Honora pearl earrings, a KJL necklace, a frog ring and much more!&#10;&#10;As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#ebaypowerseller #ebayreseller #vintage jewelry #howtocollectjewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -3727,7 +3727,7 @@ graph
     commentcount 30
     duration "PT18M38S"
     indegree 14
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount 16
     duration "PT7M48S"
     indegree 4
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -3879,7 +3879,7 @@ graph
     label "oVGE4JfUibs"
     step 0
     date "2021-10-06T18:47:48Z"
-    title "Beautiful VINTAGE JEWELRY Haul Yard Sale Finds Rings Brooches Earrings Silver Antique  etc."
+    title "Beautiful VINTAGE JEWELRY Haul Yard Sale Finds Rings Brooches Earrings Silver Antique etc."
     description "Here's a fun jewelry haul that I hope you enjoy! I found some flower power pins, a lovely Lucinda fairy brooch, some turquoise &#38; sterling silver and more!  As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#VintageJewelry #jewelry101 #learntoidentify #yardsalefinds #garagesalefinds #sourcingforebay"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -3889,7 +3889,7 @@ graph
     commentcount 65
     duration "PT32M30S"
     indegree 4
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 87
     duration "PT23M41S"
     indegree 6
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 29
     duration "PT10M4S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 48
     duration "PT16M51S"
     indegree 3
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 67
     duration "PT27M41S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 119
     duration "PT16M15S"
     indegree 20
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -4113,7 +4113,7 @@ graph
     label "ii5Ol0HfTns"
     step 0
     date "2021-09-15T11:00:32Z"
-    title "Vintage Jewelry Thrift Haul &#38;amp; Most recent Finds"
+    title "Vintage Jewelry Thrift Haul Most recent Finds"
     description "Vintage jewelry thrift haul and my most recent vintage jewelry finds. Come with me to Athens Ga as I browse my favorite thrift store for vintage jewelry. I&#8217;ll also show you my most recent purchases and tell you a little about them.&#10;Carol Duplaise Vintage Jewelry Identification Carol Duplaise https://youtu.be/F-GGl8s11yE"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -4131,7 +4131,7 @@ graph
     label "yKhjk2g3rOs"
     step 0
     date "2022-06-29T01:52:07Z"
-    title "2022.06.28 Sterling Silver &#38;amp; Vintage Costume Jewelry &#8220;Haul&#8221; Video: What Did I Pick?"
+    title "2022.06.28 Sterling Silver Video: What Did I Pick?"
     description "My eMail address: VintageBoutiqueCali@Yahoo.com&#10;&#10;2022.06.28 Sterling Silver &#38; Vintage Costume Jewelry &#8220;Haul&#8221; Video: What Did I Pick?&#10;&#10;I thoroughly enjoy hunting/searching for and picking specific pieces of vintage sterling silver and costume jewelry I like and then offering them to people like you who may want to purchase and/or collect them from the comfort of your own living room. &#10;&#10;For today, however, just sit back, relax and come see what fun treasures I could not leave behind! These pieces are not for sale yet (at the time of this video posting) because I still have to clean, test and thoroughly inspect them for condition, makers marks, etc. &#8230; but know that I will be having several upcoming sales and auctions on my YouTube channel in the very near future ... so if this content interests you, I invite you to subscribe to my channel and click the notification bell to make sure you receive notifications when I go live or upload content. &#10;&#10;Lastly, if you have any constructive feedback and/or recommendations for me on how I can improve my YouTube content, I solicit and welcome your ideas! &#10;&#10;Thanks! &#10;Doug &#10;&#10;#sandiego #sterling #vintagejewelry #midcentury #jewelry"
     channeltitle "Doug / Vintage Boutique Cali"
     channelid "UCmdKgXreKn0H-AuVMXh69ew"
@@ -4141,7 +4141,7 @@ graph
     commentcount 78
     duration "PT37M41S"
     indegree 7
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 30
     duration "PT42M3S"
     indegree 10
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -4203,7 +4203,7 @@ graph
     label "vlofRrS7SOI"
     step 0
     date "2021-04-14T12:00:16Z"
-    title "Vintage and Antique Jewelry Brooch&#8217;s"
+    title "Vintage and Antique Jewelry Broochs"
     description "Vintage and antique jewelry brooches. Small Vintage And Antique Brooch Collection including bar pins, collar brooches, bib pins and more."
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -4231,7 +4231,7 @@ graph
     commentcount 51
     duration "PT23M32S"
     indegree 3
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 54
     duration "PT30M45S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4365,7 +4365,7 @@ graph
     label "MFJRy8IE1Ls"
     step 0
     date "2021-11-16T22:52:05Z"
-    title "14k Gold VINTAGE JEWELRY HAUL from THRIFT STORES &#38;amp; Costume Jewelry"
+    title "14k Gold VINTAGE JEWELRY HAUL from THRIFT STORES Costume Jewelry"
     description "I found some nice 14k gold jewelry along with a Miriam Haskell necklace and a Hattie Carnegie brooch, plus other costume jewelry pieces. As always, thanks so much for watching -- please pass the word! Big Hugs, SANDRA &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4411,7 +4411,7 @@ graph
     commentcount 32
     duration "PT13M28S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -4509,7 +4509,7 @@ graph
     label "o5UXEs7c4ho"
     step 0
     date "2022-01-26T22:43:09Z"
-    title "Another Amazing Tray of Beautiful Sparkly Vintage Jewelry &#1042;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;"
+    title "Another Amazing Tray of Beautiful Sparkly Vintage Jewelry "
     description "THANK YOU FOR WATCHING&#10;THEASE ARE ALL VINTAGE JEWELRY FINDS FROM SURPRISE GOODWILL JEWELRY JAR OPENINGS, THRIFT HAULS, ESTATE SALES, GARAGE SALES, AND TREASURE HUNTING, IM NOT A JEWELRY EXPERT hope you had fun watching , don't forget to hit the thumbs up&#10;&#1042;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;&#10;&#10;My ETSY SHOP https://www.etsy.com/shop/AnitaFunita&#10;FacebooK Group https://www.facebook.com/groups/340518473168450/&#10;Instagram - https://www.instagram.com/anita_funita_/&#10;My Email trashtotreasure76@gmail.com&#10;&#10;Check out my Amazing friend Lucia's Channel  @Lucia's Splendors  &#10;Lucias Channel https://www.youtube.com/channel/UCtKpFO1BV8x2rHccPcHmOYg&#10;Lucia's Etsy shop https://www.etsy.com/shop/LucZal&#10;Lucias Instagram -  https://www.instagram.com/_lucia__lei/&#10;&#10;For Buisness Inquaries : Email IS TRASHTOTREASURE76@GMAIL.COM&#10;&#10;joyer&#237;a de la vendimia ,  , joyas de dise&#241;ador , colecci&#243;n de joyas , joyas coleccionables&#10;venta de joyas&#10;&#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1103; &#1102;&#1074;&#1077;&#1083;&#1080;&#1088;&#1085;&#1099;&#1093; &#1080;&#1079;&#1076;&#1077;&#1083;&#1080;&#1081; . &#1074;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103; , &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1086;&#1085;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;&#10;&#1076;&#1080;&#1079;&#1072;&#1081;&#1085;&#1077;&#1088;&#1089;&#1082;&#1080;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103; , &#1087;&#1077;&#1088;&#1077;&#1087;&#1088;&#1086;&#1092;&#1080;&#1083;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100; &#1102;&#1074;&#1077;&#1083;&#1080;&#1088;&#1085;&#1099;&#1077; &#1080;&#1079;&#1076;&#1077;&#1083;&#1080;&#1103; , &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1072; &#1102;&#1074;&#1077;&#1083;&#1080;&#1088;&#1085;&#1099;&#1093; &#1080;&#1079;&#1076;&#1077;&#1083;&#1080;&#1081; &#1042;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;&#10;&#10;PRODUCTS I USE:&#10;Presidium Gem Tester https://presidium.com.sg/store/shop/&#10;Bubble Wrap &#10;https://www.amazon.com/gp/product/B072C7L3M8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&#38;psc=1&#10;Acid test kit https://www.amazon.com/gp/product/B008R3AAJS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&#38;psc=1&#10;Plastic zip bags https://www.amazon.com/gp/product/B01B17TNSA/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&#38;psc=1&#10;Rolo Label printer https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Rolo Labels https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Ring Sizing, Measuring and repair kit https://www.amazon.com/gp/product/B07NRLR36B/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&#38;psc=1&#10;Jewelry Polishing Cloths https://www.amazon.com/gp/product/B01JLMEY7M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;&#10;Social Media Links .&#10; Instagram - https://www.instagram.com/anita_funita_/&#10; Pinterest - https://www.pinterest.com/terabraamyan&#10;&#10;Copyright Disclaimer, Under Section 107 of the Copyright Act 1976, allowance is made for 'fair use' for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statue that might otherwise be infringing. Non-profit , educational or personal use tips the balance in favor of fair use. #jewelryjar #vintagejewelry #thrifthaul #&#1042;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;"
     channeltitle "Anita's House Of Jewels "
     channelid "UCnv6NZFEZgSE-d9YP2U7N_g"
@@ -4519,7 +4519,7 @@ graph
     commentcount 40
     duration "PT21M8S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4563,7 +4563,7 @@ graph
     label "j-6ktntDuBM"
     step 0
     date "2021-01-20T06:14:03Z"
-    title "Part 2 ANTIQUE &#38;amp; Vintage JEWELRY HAUL Victorian and More! How to Identify Old Jewelry Unboxing"
+    title "Part 2 ANTIQUE Vintage JEWELRY HAUL Victorian and More! How to Identify Old Jewelry Unboxing"
     description "This is part 2 of a recent antique and vintage jewelry haul I got from a lady who used to own a jewelry store. You will see (and learn about!) some beautiful Victorian pieces including a mourning  brooch, a celluloid necklace, some sterling silver, amber, carved bone, wedding cake beads and much MORE. Brands include Trifari, Kramer, De Nicola and others.  I hope you enjoy my haul.  There are bracelets, brooches, necklaces, rings, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelry101 #learning #jewelryforbeginners #howtoidentifyjewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4573,7 +4573,7 @@ graph
     commentcount 129
     duration "PT34M20S"
     indegree 17
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4599,7 +4599,7 @@ graph
     label "_wXEkzUgGK8"
     step 0
     date "2021-11-09T16:51:19Z"
-    title "VINTAGE JEWELRY/ WHAT&#38;#39;S IN THE BOX"
+    title "VINTAGE JEWELRY/ WHATS IN THE BOX"
     description ""
     channeltitle "MY JEWELRY ADDICTION"
     channelid "UCNOHVTe94bwGyJN7n7MHDAg"
@@ -4635,7 +4635,7 @@ graph
     label "Uliim2GM8mg"
     step 0
     date "2022-03-24T03:52:13Z"
-    title "Going trough beautiful Vintage Jewelry Pieces, Bling Bling +  GIVEAWAY"
+    title "Going trough beautiful Vintage Jewelry Pieces, Bling Bling + GIVEAWAY"
     description "Thank you for watching &#10;Lucia's Channel  @Lucia's Splendors  &#10;&#10;My ETSY SHOP https://www.etsy.com/shop/AnitaFunita&#10;FacebooK Group https://www.facebook.com/groups/340518473168450/&#10;Instagram - https://www.instagram.com/anita_funita_/&#10;My Email trashtotreasure76@gmail.com&#10;&#10;Check out my Amazing friend Lucia's Channel  @Lucia's Splendors  &#10;Lucias Channel https://www.youtube.com/channel/UCtKpFO1BV8x2rHccPcHmOYg&#10;Lucia's Etsy shop https://www.etsy.com/shop/LucZal&#10;Lucias Instagram -  https://www.instagram.com/_lucia__lei/&#10;&#10;For Buisness Inquaries : Email IS TRASHTOTREASURE76@GMAIL.COM&#10;&#10;THEASE ARE ALL VINTAGE JEWELRY FINDS FROM SURPRISE GOODWILL JEWELRY JAR OPENINGS, THRIFT HAULS, ESTATE SALES, GARAGE SALES, AND TREASURE HUNTING, IM NOT A JEWELRY EXPERT hope you had fun watching , don't forget to hit the thumbs up&#10;&#1042;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;&#10;&#10;joyer&#237;a de la vendimia ,  , joyas de dise&#241;ador , colecci&#243;n de joyas , joyas coleccionables&#10;venta de joyas&#10;&#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1103; &#1102;&#1074;&#1077;&#1083;&#1080;&#1088;&#1085;&#1099;&#1093; &#1080;&#1079;&#1076;&#1077;&#1083;&#1080;&#1081; . &#1074;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103; , &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1086;&#1085;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;&#10;&#1076;&#1080;&#1079;&#1072;&#1081;&#1085;&#1077;&#1088;&#1089;&#1082;&#1080;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103; , &#1087;&#1077;&#1088;&#1077;&#1087;&#1088;&#1086;&#1092;&#1080;&#1083;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100; &#1102;&#1074;&#1077;&#1083;&#1080;&#1088;&#1085;&#1099;&#1077; &#1080;&#1079;&#1076;&#1077;&#1083;&#1080;&#1103; , &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1072; &#1102;&#1074;&#1077;&#1083;&#1080;&#1088;&#1085;&#1099;&#1093; &#1080;&#1079;&#1076;&#1077;&#1083;&#1080;&#1081; &#1042;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;&#10;&#10;PRODUCTS I USE:&#10;Presidium Gem Tester https://presidium.com.sg/store/shop/&#10;Bubble Wrap &#10;https://www.amazon.com/gp/product/B072C7L3M8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&#38;psc=1&#10;Acid test kit https://www.amazon.com/gp/product/B008R3AAJS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&#38;psc=1&#10;Plastic zip bags https://www.amazon.com/gp/product/B01B17TNSA/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&#38;psc=1&#10;Rolo Label printer https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Rolo Labels https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Ring Sizing, Measuring and repair kit https://www.amazon.com/gp/product/B07NRLR36B/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&#38;psc=1&#10;Jewelry Polishing Cloths https://www.amazon.com/gp/product/B01JLMEY7M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;&#10;Social Media Links .&#10; Instagram - https://www.instagram.com/anita_funita_/&#10; Pinterest - https://www.pinterest.com/terabraamyan&#10;&#10;Copyright Disclaimer, Under Section 107 of the Copyright Act 1976, allowance is made for 'fair use' for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statue that might otherwise be infringing. Non-profit , educational or personal use tips the balance in favor of fair use. #jewelryjar #vintagejewelry #thrifthaul #&#1042;&#1080;&#1085;&#1090;&#1072;&#1078;&#1085;&#1099;&#1077; &#1091;&#1082;&#1088;&#1072;&#1096;&#1077;&#1085;&#1080;&#1103;"
     channeltitle "Anita's House Of Jewels "
     channelid "UCnv6NZFEZgSE-d9YP2U7N_g"
@@ -4645,7 +4645,7 @@ graph
     commentcount 80
     duration "PT18M6S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4653,7 +4653,7 @@ graph
     label "-5fjenKN_Ig"
     step 0
     date "2020-10-28T04:24:18Z"
-    title "Antique &#38;amp; Vintage JEWELRY HAUL Boxlot Victorian, 1920s, Cufflinks, Mens Accessories &#38;amp; Bakelite"
+    title "Antique Bakelite"
     description "Part 1 of my VACATION jewelry haul.  I bought a huge box of OLD jewelry on a recent vacation to New England.  Some Victorian, Edwardian, vintage and a few modern pieces. I found a beautiful and ornate sterling silver lorgnette, mother of pearl, rhinestones, brass, copper, bakelite and MORE. Brands include Krementz, Avon, Coro and others.  I found a few pieces at a thrift store.  I hope you enjoy my haul.  There are bracelets, necklaces, rings, brooches, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo&#10;&#10;eBay = @FunkyPickleStore&#10;Facebook = @yPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4663,7 +4663,7 @@ graph
     commentcount 49
     duration "PT24M30S"
     indegree 17
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 66
     duration "PT20M11S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 89
     duration "PT38M3S"
     indegree 8
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 42
     duration "PT15M49S"
     indegree 7
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4797,7 +4797,7 @@ graph
     label "NBL1dDrdTWA"
     step 0
     date "2020-10-29T05:17:27Z"
-    title "Antique &#38;amp; Vintage JEWELRY HAUL Turquoise Wedding Cake Bead Necklace Sterling Silver Bakelite + More"
+    title "Antique Vintage JEWELRY HAUL Turquoise Wedding Cake Bead Necklace Sterling Silver Bakelite + More"
     description "Part 2 of my VACATION jewelry haul!  I bought all these pieces on a recent trip to New England.  Some nice estate turquoise, sterling silver, bakelite, glass faceted necklaces, amber, brooches, earrings, cufflinks, rings, wedding cake beads, Victorian, men's jewelry &#38; more!  Enjoy. xo"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4807,7 +4807,7 @@ graph
     commentcount 29
     duration "PT21M38S"
     indegree 9
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4815,7 +4815,7 @@ graph
     label "sl7cIPR0eKY"
     step 0
     date "2021-04-17T20:07:43Z"
-    title "Vintage Jewelry Box Makeover | Tracey&#38;#39;s Fancy"
+    title "Vintage Jewelry Box Makeover | Traceys Fancy"
     description "I created this quick clip giving this vintage jewelry box a much needed makeover with Dixie Belle&#8217;s Mandala silk screen stencil and Boho Soul image transfer. I'm sure you have a jewelry box just laying around. So pull it out of hiding....let me help to inspire you.....and let's dress it up! Shop Dixie Belle here: https://dixiebellepaint.com/paint/?aff=77&#38;source=yt&#10;&#10;Check the blog for more behind the scenes info. https://traceysfancy.com/vintage-boho-jewelry-box/&#10;&#10;&#10;SUPPLY LIST:&#10;White Lighting Cleaner:&#10;https://dixiebellepaint.com/white-lightning-cleaner-8oz/?aff=77&#38;source=yt&#10;&#10;B.O.S.S. (Clear):&#10;https://dixiebellepaint.com/b-o-s-s/?aff=77&#38;source=yt&#10;&#10;Antebellum Blue:&#10;https://dixiebellepaint.com/antebellum-blue-chalk-mineral-paint/?aff=77&#38;source=yt&#10;&#10;Apricot:&#10;https://dixiebellepaint.com/apricot-chalk-paint/?aff=77&#38;source=yt&#10;&#10;Rusty Nail:&#10;https://dixiebellepaint.com/rusty-nail-chalk-mineral-paint/?aff=77&#38;source=yt&#10;&#10;Finishing Pad:&#10;https://dixiebellepaint.com/finishing-pad/?aff=77&#38;source=yt&#10;&#10;Mandala:&#10;https://dixiebellepaint.com/mandala-silkscreen-stencil/?aff=77&#38;source=yt&#10;&#10;Boho Soul:&#10;https://dixiebellepaint.com/boho-soul/?aff=77&#38;source=yt&#10;&#10;Gemstone Mousse (Golden Gem):&#10;https://dixiebellepaint.com/gemstone-mousse/?aff=77&#38;source=yt&#10;&#10;Satin Clear Coat:&#10;https://www.dixiebellepaint.com/satin-clear-coat-8oz/?aff=77&#38;source=yt&#10;&#10;&#10;Music: Landras Dream Musician: music by audionautix.com &#10;License: https://creativecommons.org/licenses/by/4.0/legalcode&#10;&#10;XOXO,&#10;Tracey&#10024;&#10024;&#10;&#10;&#10024;Find all my favorite Amazon products: https://www.amazon.com/shop/traceysfancy  &#10;&#10;&#10024;Order your dixie belle paint here:&#10;https://dixiebellepaint.com/paint/?aff=77&#38;source=yt&#10;&#10;&#10024;Find all of the products I use here:&#10;smart.bio/traceysfancy &#10;&#10;&#10145;&#65039;Follow Tracey&#8217;s Fancy for the first looks at my newest projects:&#10;Facebook.com/traceysfancy &#10;Instagram.com/traceysfancy&#10;Pinterest.com/tbellion  &#10;Blog: traceysfancy.com &#10;Subscribe: youtube.com/traceysfancy?sub_confirmation=1  &#10;&#10;&#10;This post may contain affiliate links. If you are inspired to create, please use my links above.  It helps support my business with no additional cost to you! &#10;&#10;&#10;#traceysfancy #traceybellion #dixiebellepaint #bestpaintonplanetearth #diyideas #chalkpaint #paintedfurniture #chalkpaintedfurniture #homedecorideas #homedecorlovers #homedecorations #homedecorinspo #whimsy #fancypants #onlineentrepreneur #livepainting #furnituremakeover #furnituredecor #handpaintedfurniture #handpaint #sanantoniotexas #sanantonioartist #sanantonioblogger #furnitureartist #whimsicaldecor"
     channeltitle "Tracey's Fancy"
     channelid "UC9xtbpidMj8mW5poUJjVhDQ"
@@ -4861,7 +4861,7 @@ graph
     commentcount 89
     duration "PT33M55S"
     indegree 5
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4869,7 +4869,7 @@ graph
     label "ZjIwPrstqeY"
     step 0
     date "2021-11-03T01:50:38Z"
-    title "VINTAGE JEWELRY/WHAT&#38;#39;S IN THE BOX/ WEISS / CROWN TRIFARI"
+    title "VINTAGE JEWELRY/WHATS IN THE BOX/ WEISS / CROWN TRIFARI"
     description ""
     channeltitle "MY JEWELRY ADDICTION"
     channelid "UCNOHVTe94bwGyJN7n7MHDAg"
@@ -4897,7 +4897,7 @@ graph
     commentcount 4
     duration "PT14M54S"
     indegree 1
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -4923,7 +4923,7 @@ graph
     label "nGCmNnYLpHI"
     step 0
     date "2021-10-06T21:58:46Z"
-    title "VINTAGE JEWELRY/ WHATS IN MY CLOSET  AMBER/NORWAY STERLING"
+    title "VINTAGE JEWELRY/ WHATS IN MY CLOSET AMBER/NORWAY STERLING"
     description ""
     channeltitle "MY JEWELRY ADDICTION"
     channelid "UCNOHVTe94bwGyJN7n7MHDAg"
@@ -4987,7 +4987,7 @@ graph
     commentcount 156
     duration "PT45M3S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5067,7 +5067,7 @@ graph
     label "L3EvZajJcdE"
     step 0
     date "2021-05-09T20:12:33Z"
-    title "Breathtaking  fron 100 pound Vintage Jewelry Finds , Carolyn Pollack, Monet, Sterling and more"
+    title "Breathtaking fron 100 pound Vintage Jewelry Finds , Carolyn Pollack, Monet, Sterling and more"
     description "THEASE ARE ALL VINTAGE JEWELRY FINDS FROM SURPRISE GOODWILL JEWELRY JAR OPENINGS, THRIFT HAULS, ESTATE SALES, GARAGE SALES, AND TREASURE HUNTING, IM NOT A JEWELRY EXPERT&#10;hope you had fun watching , don't forget to hit the thumbs up &#10;THANK YOU FOR WATCHING&#10;&#10;My ETSY SHOP https://www.etsy.com/shop/AnitaFunita&#10;FacebooK Group https://www.facebook.com/groups/340518473168450/&#10;Instagram - https://www.instagram.com/anita_funita_/&#10;My Email trashtotreasure76@gmail.com&#10;&#10;Check out my Amazing friend Lucia's Channel &#10;Lucias Channel https://www.youtube.com/channel/UCtKpFO1BV8x2rHccPcHmOYg&#10;Lucia's Etsy shop https://www.etsy.com/shop/LucZal&#10;Lucias Instagram -  https://www.instagram.com/_lucia__lei/&#10;&#10;&#10;Forr Buisness Inquaries : Email IS TRASHTOTREASURE76@GMAIL.COM&#10;&#10;PRODUCTS I USE:&#10;Presidium Gem Tester https://presidium.com.sg/store/shop/&#10;Bubble Wrap &#10;https://www.amazon.com/gp/product/B072C7L3M8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&#38;psc=1&#10;Acid test kit https://www.amazon.com/gp/product/B008R3AAJS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&#38;psc=1&#10;Plastic zip bags https://www.amazon.com/gp/product/B01B17TNSA/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&#38;psc=1&#10;Rolo Label printer https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Rolo Labels https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Ring Sizing, Measuring and repair kit https://www.amazon.com/gp/product/B07NRLR36B/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&#38;psc=1&#10;Jewelry Polishing Cloths https://www.amazon.com/gp/product/B01JLMEY7M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;&#10;Social Media Links .&#10; Instagram - https://www.instagram.com/anita_funita_/&#10; Pinterest - https://www.pinterest.com/terabraamyan&#10;&#10;Copyright Disclaimer, Under Section 107 of the Copyright Act 1976, allowance is made for 'fair use' for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statue that might otherwise be infringing. Non-profit , educational or personal use tips the balance in favor of fair use. #jewelryjar #vintagejewelry #thrifthaul"
     channeltitle "Anita's House Of Jewels "
     channelid "UCnv6NZFEZgSE-d9YP2U7N_g"
@@ -5077,7 +5077,7 @@ graph
     commentcount 184
     duration "PT25M45S"
     indegree 3
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5085,7 +5085,7 @@ graph
     label "-0lE1c78DLg"
     step 0
     date "2014-11-04T12:57:23Z"
-    title "Argo &#38;amp; Lehne Jewelers - Retro Jewelry, Vintage Jewelry, Custom Jewelry, and Engagement RIngs"
+    title "Argo Lehne Jewelers - Retro Jewelry, Vintage Jewelry, Custom Jewelry, and Engagement RIngs"
     description "www.argolehne.com&#10;&#10;Contact us at:&#10;Argo &#38; Lehne Jewelers, Inc.&#10;3100 Tremont Rd.&#10;Upper Arlington, OH 43221&#10;Phone: 614-457-6261 &#10;Email: info@argolehne.com&#10;&#10;Facebook: https://www.facebook.com/ArgoLehne&#10;Twitter: https://twitter.com/ArgoLehne&#10;Instagram: @argolehnejewelers"
     channeltitle "Argo Lehne"
     channelid "UCVp5ECT6KPrQf5b5l_6uRQg"
@@ -5149,7 +5149,7 @@ graph
     commentcount 2
     duration "PT4M56S"
     indegree 1
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5157,7 +5157,7 @@ graph
     label "QVP9Hu8IrUU"
     step 0
     date "2022-07-07T13:25:19Z"
-    title "Anti Inflation Sale! 8% Off Vintage Jewelry &#128141;"
+    title "Anti Inflation Sale! 8% Off Vintage Jewelry "
     description "Anti Inflation Sale! 8% Off Vintage Jewelry &#128141;&#13;&#10;Live shopping vintage jewelry auction!&#10;Coming up in Part 2! List Below!&#10;Monet Brooch sb 25  &#10;Art Deco Pink Glass Necklace sb 40 &#10;Amano Ring sb 20  &#10;Wide Cab Bracelet sb 50   &#10;Jomaz Earrings sb 45  &#10;Day/Night Earrings sb 45 &#10;Monet Horn Necklace sb 45 &#10;Venetian Fire Opal Necklace sb 75  &#10;Peruvian Necklace sb 75 &#10;Anne Klein sb 45  &#10;Thomas Mann Pin sb 90 &#10;&#9829;&#65038;  TEXT ME:  917-809-7250  For Live Auction Alerts&#10;&#9829;&#65038; SELL OR CONSIGN: hudsonvintage@me.com SUBJECT: Help! &#10;&#9829;&#65038;  MEMBERSHIP PATREON:  &#10; https://www.patreon.com/hudsonvintage&#10;&#9829;&#65038;  MEMBERSHIP YOUTUBE:  https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#9829;&#65038;  GALAXY SHOP:  973-949-0785  https://shopgalaxy.com/hudson-vintage/profile&#10;&#9829;&#65038; SOCIALS:&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#10;&#9829;&#65038; AMAZON:  https://www.amazon.com/shop/hudsonvintage&#10;&#9829;&#65038; FRIEND MAIL&#10;Hudson Vintage&#10;P.O. BOX 526&#10;Blairstown NJ&#10;07825&#10;&#9829;&#65038; CONTACT ME:&#10;EMAIL: hudsonvintage@me.com&#10;TEXT:  917-809-7250&#10;&#9829;&#65038; JOIN this channel to get access to perks:&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#10;I am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#10;&#10;MOST POPULAR VIDEO&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;LAST WEEK'S UPLOAD:&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;CHANNEL INTRO: &#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#10;&#10;EMAIL: hudsonvintage@me.com&#10;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -5221,7 +5221,7 @@ graph
     commentcount 64
     duration "PT22M59S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5229,7 +5229,7 @@ graph
     label "AgKef-ZRDaQ"
     step 0
     date "2022-04-08T04:00:03Z"
-    title "Vintage Jewelry Unbagging Costume Jewelry, Salvatore Ferragamo, Art Deco, Pearls &#38;amp; more"
+    title "Vintage Jewelry Unbagging Costume Jewelry, Salvatore Ferragamo, Art Deco, Pearls more"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;International Shipping&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -5239,7 +5239,7 @@ graph
     commentcount 43
     duration "PT22M3S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5257,7 +5257,7 @@ graph
     commentcount 4
     duration "PT2H10M21S"
     indegree 9
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -5265,7 +5265,7 @@ graph
     label "BLAt187K_mA"
     step 0
     date "2020-11-05T22:13:04Z"
-    title "Antique &#38;amp; Vintage JEWELRY HAUL Blister Pearl Earrings Sterling FLAMINGO Brooch w Marcasites Brooches"
+    title "Antique Vintage JEWELRY HAUL Blister Pearl Earrings Sterling FLAMINGO Brooch w Marcasites Brooches"
     description "Here are some of my recent pieces I've gotten at estate sales, yard sales and thrift stores. Some nice estate sterling silver, antique blister pearl earrings, brooches, a sterling silver and marcasite flamingo(!) &#38; more!  I very rarely pay more than $1 or $2 for each piece. I enjoy the hunt!!! Enjoy. xo"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -5275,7 +5275,7 @@ graph
     commentcount 15
     duration "PT16M30S"
     indegree 4
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 32
     duration "PT19M9S"
     indegree 4
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5319,7 +5319,7 @@ graph
     label "4Q6-d94PVN0"
     step 0
     date "2021-07-02T11:00:02Z"
-    title "Vintage Jewelry What&#8217;s In The Box?"
+    title "Vintage Jewelry Whats In The Box?"
     description "Vintage jewelry what&#8217;s in the box?This was the first goodwill bluebox jewelry repurpose box I purchased. I had set it aside and totally forgotten about it until I purchased my second bluebox(which was horrible). So today I&#8217;m going to share the contents of this box.&#10;&#10;https://youtu.be/4EsRtVhogdQ&#10;&#10;https://youtu.be/Ko-ZVnEWjho"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -5409,7 +5409,7 @@ graph
     label "xqIVUJMx7n8"
     step 0
     date "2021-11-29T19:18:07Z"
-    title "VINTAGE JEWELRY/ WHAT&#38;#39;S IN THE TRAY/COFFEE N CHIT CHAT"
+    title "VINTAGE JEWELRY/ WHATS IN THE TRAY/COFFEE N CHIT CHAT"
     description ""
     channeltitle "MY JEWELRY ADDICTION"
     channelid "UCNOHVTe94bwGyJN7n7MHDAg"
@@ -5455,7 +5455,7 @@ graph
     commentcount 222
     duration "PT44M21S"
     indegree 7
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 75
     duration "PT1H6M45S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -5499,7 +5499,7 @@ graph
     label "8u2b17cRQ_g"
     step 0
     date "2022-07-09T02:54:28Z"
-    title "#29 Vintage Jewelry | DIOR &#38;amp; More&#10083;&#65039;| Buy it Now Deals&#10083;&#65039;&#10083;&#65039;&#10083;&#65039;"
+    title "#29 Vintage Jewelry | DIOR "
     description "Created by InShot&#10;https://inshotapp.page.link/YTShare"
     channeltitle "Congenial Vintage Jewelry"
     channelid "UC9I12nFClPhfEdmI7UhZvxw"
@@ -5509,7 +5509,7 @@ graph
     commentcount 5
     duration "PT26M27S"
     indegree 17
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 41
     duration "PT47M35S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5571,7 +5571,7 @@ graph
     label "5TZmwBvrOyE"
     step 0
     date "2021-12-30T05:00:02Z"
-    title "Part 2 Vintage Jewelry Unbagging Sterling Silver &#38;amp; Costume Gemstones &#38;amp; More"
+    title "Part 2 Vintage Jewelry Unbagging Sterling Silver More"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. We have Amethyst, Jade, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -5581,7 +5581,7 @@ graph
     commentcount 43
     duration "PT45M34S"
     indegree 9
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 3
     duration "PT3H5M8S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 13
     duration "PT14M40S"
     indegree 3
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5661,7 +5661,7 @@ graph
     label "yE58XnHoazE"
     step 0
     date "2022-01-14T23:10:11Z"
-    title "My FAVORITE VINTAGE JEWELRY Finds of 2021 ! Brooches Sterling Silver Rhinestones Crystals &#38;amp; MORE!"
+    title "My FAVORITE VINTAGE JEWELRY Finds of 2021 ! Brooches Sterling Silver Rhinestones Crystals MORE!"
     description "Woot! Woot! Here are some of my faves that I found in 2021 at yard sales, thrift stores, and from an out of business jewelry store. I hope you enjoy seeing some of my lovelies. As always, thanks so much for watching -- please pass the word! xo&#10;#vintagejewelryhaul #jewelryunboxing #ebayreseller #antiquejewelry&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -5671,7 +5671,7 @@ graph
     commentcount 88
     duration "PT40M59S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5707,7 +5707,7 @@ graph
     commentcount 54
     duration "PT51M23S"
     indegree 14
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -5715,7 +5715,7 @@ graph
     label "jjS8lz4wanQ"
     step 0
     date "2022-02-05T19:58:18Z"
-    title "2/5/22 Part 1 - Sarah Coventry &#38;amp; Avon Vintage Jewelry Haul!!"
+    title "2/5/22 Part 1 - Sarah Coventry Avon Vintage Jewelry Haul!!"
     description "2/5/22 Part 1 - Sarah Coventry &#38; Avon Vintage Jewelry Haul!! &#10;&#10;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#10;To purchase:&#10;* Email dragonflybeez@gmail.com&#10;&#10;* Include either a time stamp, screenshot or screen title of item(s)&#10;&#10;* PayPal Only&#10;&#10;* USPS First Class shipping is a flat fee of $5.00, for all JEWELRY orders less than one pound***USA only&#10;&#10;* USPS First Class shipping cost for NON-JEWELRY items are determined by weight and destination from NYC. I go by USPS shipping rates via PirateShip USA only&#10;&#10;* Outside of the USA, Intl shipping &#10;cost will be determined by weight and destination&#10;&#10;* Payment due upon receipt of invoice&#10;&#10;** IF THIS IS YOUR 1st TIME PURCHASING with me, please provide:&#10;1. YouTube name&#10;2. Full name&#10;3. PayPal email address&#10;4. Mailing address&#10;&#10;***If order weighs more than one pound, buyer&#8217;s location will determine additional cost calculated by USPS via PirateShip, the platform I use for all my shipping needs.&#10;&#10;&#127801;Dragonfly Beez Resell Journey, inspired by a sweet, beautiful young boy gone too soon...&#10;&#10;*Copyright&#169;&#65039;2022 by Dragonfly Beez Resell Journey. All rights reserved."
     channeltitle "Dragonfly Beez Resell Journey"
     channelid "UCmvvKGX-LqbnuCBWpwkuTpw"
@@ -5797,7 +5797,7 @@ graph
     commentcount 23
     duration "PT30M8S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -5823,7 +5823,7 @@ graph
     label "nAHEC8y0U8Y"
     step 0
     date "2022-01-03T20:25:42Z"
-    title "Vintage Jewelry Haul  025 | Cameos, Les Bernard, Givenchy &#38;amp; More!"
+    title "Vintage Jewelry Haul 025 | Cameos, Les Bernard, Givenchy More!"
     description "Do you like vintage jewelry? In this video I will be going over some vintage jewelry I bought from an estate. I hope you enjoy!&#10;&#10;&#128210; &#128210;SOLD&#128210; &#128210;&#10;14:42 09 - Vintage Japan Necklace - SOLD&#10;16:09 10 - Vintage Sarah Cov. Bracelet &#38; Brooch - SOLD&#10;&#10;You can find us on Rumble:&#10;https://rumble.com/register/KrakenKrates/&#10;&#10;You can also visit our online stores:&#10;&#10;Kraken Krates eBay store:&#10;https://www.ebay.com/str/krakenkrates&#10;&#10;*If you click on the &#8220;Save this seller&#8221; on our eBay store, you will receive an auto notification when we list new items.&#10;&#10;Kraken Krates Poshmark closet: &#10;https://poshmark.com/closet/kraken_krates&#10;&#10;Mandalay Jewelry Set: Park Lane 2008 Online Catalog&#10;https://issuu.com/evevalle/docs/jbpl-2008_catalog_fall&#10;&#10;Granduer Necklace: Park Lane 2013 Online Catalog&#10;https://www.yumpu.com/en/document/read/11421990/park-lane-jewelry-2013-catalog-us&#10;&#10;Vc Les Bernard - Is It Really Vintage Valentino?&#10;https://www.carries-couture.com/single-post/2016/07/20/is-it-really-vintage-valentino&#10;&#10;How To Pronounce Givenchy (CORRECTLY)&#10;https://youtu.be/Gyd8foV6deQ&#10;&#10;#krakenkrates&#8203;&#8203; #jewelry #reseller&#10;&#10;&#128210; &#128210; Timecodes &#128210; &#128210;&#10;00:00 Intro&#10;00:42 01 - Park Lane - Mandalay Necklace &#38; Bracelet Set&#10;02:20 02 - Park Lane - Granduer Necklace&#10;03:20 03 - Vintage Cha Cha Bracelets&#10;05:31 04 - Vintage Vc Les Bernard&#10;07:11 05 - Vintage Givenchy Earrings&#10;09:55 06 - Vintage Lapis Necklace&#10;11:13 07 - Vintage Anne Klein Necklace&#10;12:39 08 - Chico's Necklaces&#10;14:42 09 - Vintage Japan Necklace - SOLD&#10;16:09 10 - Vintage Bracelets: Precious Moments, Sarah Cov. &#38; Coro&#10;19:21 11 - Vintage Cameo Necklace &#38; Brooch&#10;23:08 12 - Vintage Blackinton Pendant&#10;26:28 End&#10;&#10;Music: Music featured on this video is provided by Canva.com.&#10;&#10;About:&#10;Thank you for visiting Kraken Reseller with Kristeen on YouTube!&#10;I'm a full-time mom and a part-time reseller on eBay.  I'm based out of sunny, family-friendly (not to mention hot) Surprise, Arizona! I'm a second generation reseller and learned everything I know from my mother, auction houses, swap meets, and doing tons of research over the years! I opened my first eBay account in 1999 and then began reselling LEGO as a hobby with my husband. I have since expanded my catalog to include anything and everything I can to flip for a profit to help support my family of seven.&#10;&#10;Join me on my journey to search for items I can resell from estate sales, local and online auctions, yard sales, thrift stores, charity shops, and basically any weird stuff left on the curb. I will also share my tips and tricks!"
     channeltitle "Kraken Reseller"
     channelid "UCWVwOGc42CGCRJQ7Ohhv-cw"
@@ -5841,7 +5841,7 @@ graph
     label "pAOWNeMC4B4"
     step 0
     date "2021-11-18T01:30:17Z"
-    title "$19.99 Thrift store Vintage Jewelry UNBAGGING Haul- Was it better than Goodwill Bluebox???&#129300;&#129300;&#129300;"
+    title "$19.99 Thrift store Vintage Jewelry UNBAGGING Haul- Was it better than Goodwill Bluebox???"
     description "In this video I will be unbagging a $19.99 jewelry mystery bag. Plus I will show hand curated pieces for Sale!!!! Email me if your interested in any pieces. &#10;&#10;Buisness Inquires- &#10;sohocaliforniavintage@gmail.com&#10;&#10;Ebay Store-&#160; https://www.ebay.com/usr/sohocaliforniavintage&#10;&#10;IG- SohoCalifornia Vintage&#10;&#10;#jewelryunboxing #jewelryhaul #vintagejewelry #goodwillbluebox #jewelryjar #goodwillhaul #jewels #jewelry #resell #resellebay #ebay #thrifthaul #thrifting #silver #gold #flippingforaprofit #oldpawnshop #turquoise #trifari #chanel #brooch #pendant #jewels #jade #amethyst #malachite #lapis #nativejewelry #antiquejewelry #goldfilled #opal #14k #925silver #mysteryjewelryjar #mysteryjewelrybag #ecothrift #ecothrifting #craft #jewelrycraft"
     channeltitle "SohoCalifornia Vintage"
     channelid "UCAVaG9-OGcSnKqAbruqXWEQ"
@@ -5869,7 +5869,7 @@ graph
     commentcount 35
     duration "PT1M4S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5895,7 +5895,7 @@ graph
     label "2aNhsBV-zM8"
     step 0
     date "2022-02-21T00:15:00Z"
-    title "SHOP GOODWILL VINTAGE JEWELRY LOT Unboxing Unbagging for SALE - Poshmark Youtube  RHINESTONES + MORE"
+    title "SHOP GOODWILL VINTAGE JEWELRY LOT Unboxing Unbagging for SALE - Poshmark Youtube RHINESTONES + MORE"
     description "Hi and welcome! This is PART 2 of an unboxing / unbagging of vintage jewelry that I purchased from Shop Goodwill (shopgoodwill.com) for resale on Poshmark and Youtube. This video is a departure from my usual Goodwill Bluebox (5 Pounds Repurposed Jewelry Box) box unboxing. Enjoy!&#10;&#10;If you are interested in anything, please feel free to inquire at: girliorocks@gmail.com.&#10;&#10;In your email, please include the following: &#10;* Video title and/or video date &#10;* A description and screenshot or timestamp of the items you are interested in.&#10;* Your Youtube mame&#10;* Your name&#10;*Your shipping address&#10;- Your paypal email address.&#10;&#10;- Paypal payment and USA orders Only&#10;- Shipping is via USPS First Class: flat fee of $5.00, for all orders under a pound. If order is over a pound, shipping will be calculated based on shipping location.&#10;- Payment is expected within 48 hours, otherwise order will be cancelled.&#10;&#10;Links to my stores:&#10;POSHMARK: https://poshmark.com/closet/girliorocks&#10;&#10;Get  $10 off your first Poshmark order, sign up now with my code GIRLIOROCKS to save $10 on your first order. Hurry&#8212;this code is only valid for a limited time! Visit this link: https://posh.mk/KLSl6UAdNnb&#10;&#10;Shop Goodwill - https://shopgoodwill.com/"
     channeltitle "Girlio"
     channelid "UCXAdkFuji8DxoIc6HDZ6LUw"
@@ -5949,7 +5949,7 @@ graph
     label "JAsYldLHVwQ"
     step 0
     date "2022-03-09T05:00:13Z"
-    title "Vintage Jewelry Costume Brooches Rhinestones, Glass &#38;amp; Aurora Borealis"
+    title "Vintage Jewelry Costume Brooches Rhinestones, Glass Aurora Borealis"
     description "Come see our Vintage Jewelry Costume Brooches Rhinestones, Glass &#38; Aurora Borealis &#38; more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We also do International&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -5959,7 +5959,7 @@ graph
     commentcount 32
     duration "PT22M59S"
     indegree 4
-    cluster 4
+    cluster 6
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 144
     duration "PT25M34S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount 99
     duration "PT26M55S"
     indegree 4
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 36
     duration "PT15M6S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -6129,7 +6129,7 @@ graph
     label "Txi_1QeVvFE"
     step 0
     date "2021-10-01T11:00:28Z"
-    title "Vintage Jewelry Thrift Haul From 2 Thrift Stores &#38;amp; Newest Vintage Jewelry Finds"
+    title "Vintage Jewelry Thrift Haul From 2 Thrift Stores Newest Vintage Jewelry Finds"
     description "Vintage jewelry thrift haul from 2 thrift stores &#38; newest vintage jewelry finds. Join me as I share my latest vintage jewelry finds! Trifari, natural stone, KJL, and Miriam Haskell.&#10;&#10;Vintage jewelry identification Trifari &#10;https://youtu.be/NQ1hgy0aT6g&#10;&#10;Vintage Jewelry Identification Kenneth J Lane &#10;https://youtu.be/ePL704RhBnk&#10;&#10;Vintage Jewelry Identification Carol Duplaise &#10;https://youtu.be/F-GGl8s11yE"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -6147,7 +6147,7 @@ graph
     label "E8GARm-4pX0"
     step 0
     date "2021-10-09T14:41:10Z"
-    title "Vintage Jewelry sale Sterling vintage jewelry!  craft/wearable lots !"
+    title "Vintage Jewelry sale Sterling vintage jewelry! craft/wearable lots !"
     description "lots of lots! vintage sterling ! &#10;please email me with your request for purchase, I invoice through paypal goods and services only &#10;vintage.discoveries21@gmail.com &#10;&#10;thank you !"
     channeltitle "Vintage Discoveries"
     channelid "UCPUqBevT81GAuuCqpqpXROg"
@@ -6183,7 +6183,7 @@ graph
     label "1iFkZZYlFzc"
     step 0
     date "2020-11-26T18:10:22Z"
-    title "Vintage JEWELRY HAUL Sterling Silver Onyx Necklace Bone China Flowers &#38;amp; Elvis Presley Earrings"
+    title "Vintage JEWELRY HAUL Sterling Silver Onyx Necklace Bone China Flowers Elvis Presley Earrings"
     description "Here is a recent jewelry haul.  I don't usually pay more than $1 or $2 since I get my items at yard sales and thrift stores.  I hope you enjoy. xo"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -6193,7 +6193,7 @@ graph
     commentcount 28
     duration "PT22M48S"
     indegree 11
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -6219,7 +6219,7 @@ graph
     label "yqcABTjygW4"
     step 0
     date "2022-06-09T02:00:17Z"
-    title "Vintage Jewelry Unbagging Costume Jewelry, Miriam Haskell, Castlecliff, Weiss &#38;amp; More"
+    title "Vintage Jewelry Unbagging Costume Jewelry, Miriam Haskell, Castlecliff, Weiss More"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;&#10;International Shipping&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6229,7 +6229,7 @@ graph
     commentcount 31
     duration "PT21M23S"
     indegree 16
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6255,7 +6255,7 @@ graph
     label "pS4i42E1AVs"
     step 0
     date "2021-12-01T05:02:05Z"
-    title "Vintage Jewelry Extravaganza Of Amber Sterling Costume &#38;amp; More!"
+    title "Vintage Jewelry Extravaganza Of Amber Sterling Costume More!"
     description "Vintage Jewelry Extravaganza With Sterling Amber Brooches Necklaces &#38; More!&#10;&#10;A recent shopping haul from a couple local estate sales and finds. I have brooches, necklaces, pendants, Rings and more!&#10;&#10;Auction Schedule &#10;&#10;SUGARVISSION 12-2-21 @ 5:00 PM PST"
     channeltitle "SUGARVISSION"
     channelid "UC2W4gmkZfxW6P2O09qmtrCg"
@@ -6265,7 +6265,7 @@ graph
     commentcount 26
     duration "PT17M51S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -6273,7 +6273,7 @@ graph
     label "vKitAE42_o8"
     step 0
     date "2021-05-05T21:14:07Z"
-    title "Vintage Jewelry Unbagging # 140 Vintage jewelry Haul.  LizTech, Scarab love Lee Sands"
+    title "Vintage Jewelry Unbagging # 140 Vintage jewelry Haul. LizTech, Scarab love Lee Sands"
     description "This unbagging made me very happy I&#8217;ve been looking for that Liz tech pin forever and I almost gave up going through my bags that I&#8217;ve had for over a year sitting here doing nothing and finally doing something is really satisfying!! &#10;&#10;Thank you for watching subscribing and liking please share that would be fantastic if you need to get in touch with me email me email me at vintage.discoveries 21@gmail.com .I will try to get back to you as soon as I can it may take a little bit of time but eventually&#65532;&#65532;&#10;I will get to everybody. &#10;Hugs"
     channeltitle "Vintage Discoveries"
     channelid "UCPUqBevT81GAuuCqpqpXROg"
@@ -6337,7 +6337,7 @@ graph
     commentcount 23
     duration "PT21M43S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6345,7 +6345,7 @@ graph
     label "eIaezVWtLGY"
     step 0
     date "2018-09-06T23:13:30Z"
-    title "Vintage  jewelry bag unbagging # 33"
+    title "Vintage jewelry bag unbagging # 33"
     description "Hope you enjoy my video ! found lots of cool and interesting pieces! thanks fir watching!&#128149;&#10084;&#65039;&#128149;&#10084;&#65039;"
     channeltitle "Vintage Discoveries"
     channelid "UCPUqBevT81GAuuCqpqpXROg"
@@ -6409,7 +6409,7 @@ graph
     commentcount 25
     duration "PT24M47S"
     indegree 7
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -6463,7 +6463,7 @@ graph
     commentcount 32
     duration "PT25M33S"
     indegree 9
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -6525,7 +6525,7 @@ graph
     label "7Lhy6PD-5EU"
     step 0
     date "2022-02-03T05:00:03Z"
-    title "Vintage Jewelry Unbagging Gemstones, Glass &#38;amp; Pearl Jewelry with Sterling Silver"
+    title "Vintage Jewelry Unbagging Gemstones, Glass Pearl Jewelry with Sterling Silver"
     description "Come see what we found at Our local Auction jewelry counter. We found Gemstones and Glass Necklaces &#38; More.  Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We ship Internationally&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6535,7 +6535,7 @@ graph
     commentcount 41
     duration "PT31M15S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6561,7 +6561,7 @@ graph
     label "OJjDThWYYJI"
     step 0
     date "2020-11-11T18:19:36Z"
-    title "Huge Vintage Sterling jewelry haul vintage jewelry bag unbagging  #104"
+    title "Huge Vintage Sterling jewelry haul vintage jewelry bag unbagging #104"
     description "some surprises ! more really cool silver pieces. Very happy with these bags !! &#10;thank you for watching and subscribing, commenting and thumbs ups . Everyone&#8217;s had been so helpful and positive I appreciate it. &#10;any questions please email me at &#10;&#10;hellokitty40@gmail.com. &#10;&#10;Give away coming soon !&#10;&#10;https://etsy.me/2TnAGnR&#10;&#10;https://ebay.com/usr/vintagediscoveriessally"
     channeltitle "Vintage Discoveries"
     channelid "UCPUqBevT81GAuuCqpqpXROg"
@@ -6597,7 +6597,7 @@ graph
     label "w5-qL4qweCw"
     step 0
     date "2022-05-25T04:00:16Z"
-    title "300th Video Giveaway Results &#38;amp; Victorian, Art Deco &#38;amp; Vintage Jewelry Sale"
+    title "300th Video Giveaway Results Vintage Jewelry Sale"
     description "Come see our 300th Video Giveaway Results &#38; Victorian, Art Deco &#38; Vintage Jewelry Sale &#38; more!  Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We ship Internationally&#10;All sales are Final!&#10;&#10;What you Win:&#10;1. One (1) piece of Curated Jewelry. This giveaway is open to USA and current deliverable addresses using USPS outside the USA. &#10;&#10;&#10;How to Enter:&#10;1. Like and Subscribe to ShadyNY &#10;2. Comment on our giveaway video(ONLY THIS VIDEO'S COMMENTS COUNT TOWARD THE GIVEAWAY) - &#10;1)What was your first piece of jewelry ever?&#10;3) Hit the Bell Icon to All&#10;---------------&#10;- Official Rules: It is free to enter to win. &#10;- The contest opens at 12 AM EST on May 18, 2022&#10;- The contest closes at 5 PM EST on May 24 2022&#10;- Participants must have a valid Gmail account to comment on the video for contest entry. &#10;- The winner will be chosen randomly with a YouTube comment picker at 5:00 PM EST on May 24 2022 and will be announced on the May 25, 2022 at midnight EST. &#10;If the winner has not followed the rules of the contest they will be disqualified. &#10;- The winner must contact us to claim their prize. We will validate you are the account holder with a keyword that must be edited into the winning comment.&#10;- If the winner does not respond within 1 week they will be disqualified and a new winner will be chosen.&#10;- Any information collected will be used for the sole purpose of delivering the prize to the winner. &#10;- This contest is not sponsored by YouTube. We, here at ShadyNY are solely responsible for the contest and delivering the prize to the winner."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6615,7 +6615,7 @@ graph
     label "WZsCBpjXZoc"
     step 0
     date "2021-11-21T00:04:33Z"
-    title "Thrifting &#38;amp; Antiquing in Pennsylvania | Haul Video | Antique &#38;amp; Vintage Jewelry"
+    title "Thrifting Vintage Jewelry"
     description "Hey All, wanted to share my haul with you from my recent trip to Pennsylvania! I hit several antique stores and malls. There is plenty of vintage goodness to be found! Let me know what you think and I thank you for tuning in. Have a great weekend!&#10;&#10;Stores mentioned in this video:&#10;&#10;Phillipsburg Antique Mall&#10;340 Fleming Drive&#10;Phillipsburg, NJ 08865&#10;https://phillipsburgantiquemall.com/&#10;&#10;S.Seem Antiques &#38; Artisans&#10;100 S. Chestnut St.&#10;Bath, PA 18014&#10;&#10;Steckel House Antiques And Bed &#38; Breakfast&#10;207 W. Northhampton St.&#10;Bath, PA 18014&#10;&#10;Enjoy, like and subscribe if you appreciate this kind of content!&#10;Thank you for your support! Stay safe, stay healthy!&#10;&#10;Shop Links&#10;Ebay - https://www.ebay.com/str/nolacollectibles&#10;&#10;See something you like? Email me at Nolacollectibles@yahoo.com&#10;&#10;Interested in the tools I use? Below are my Amazon links. I reach for these guys DAILY.&#10;Acid Testing Kit (essential and easy for testing precious metals)&#10;https://amzn.to/2WgMRXu&#10;Telescoping Magnet (for detecting precious metals or picking up coins, whatever you prefer)&#10;https://amzn.to/2Ca9TIz&#10;Jewelry Loupe (to see all the teeny tiny purity marks)&#10;https://amzn.to/3euFGAW&#10;Jewelry Bags (To help me stay organized)&#10;https://amzn.to/2OqqA56&#10;Postal Scale (Keep everything accurate)&#10;https://amzn.to/3fvKF5PHey All, hope you are all doing well! I recently took a trip up North to visit my family in New York and Pennsylvania. It was SO LOVELY being in the North East for Halloween, where it was cool and the leaves were in their peak form, turning all kinds of beautiful colors. Of course I hit some antique malls, thrift stores and more. I visited some great places which are listed below. Show these guys some love if you happen to be in the area! Hope you enjoy and have a great weekend.&#10;&#10;Stores mentioned in this video:&#10;&#10;Phillipsburg Antique Mall&#10;340 Fleming Drive&#10;Phillipsburg, NJ 08865&#10;https://phillipsburgantiquemall.com/&#10;&#10;S.Seem Antiques &#38; Artisans&#10;100 S. Chestnut St.&#10;Bath, PA 18014&#10;&#10;Steckel House Antiques And Bed &#38; Breakfast&#10;207 W. Northhampton St.&#10;Bath, PA 18014&#10;&#10;Enjoy, like and subscribe if you appreciate this kind of content!&#10;Thank you for your support! Stay safe, stay healthy!&#10;&#10;Shop Links&#10;Ebay - https://www.ebay.com/str/nolacollectibles&#10;&#10;See something you like? Email me at Nolacollectibles@yahoo.com&#10;&#10;Interested in the tools I use? Below are my Amazon links. I reach for these guys DAILY.&#10;Acid Testing Kit (essential and easy for testing precious metals)&#10;https://amzn.to/2WgMRXu&#10;Telescoping Magnet (for detecting precious metals or picking up coins, whatever you prefer)&#10;https://amzn.to/2Ca9TIz&#10;Jewelry Loupe (to see all the teeny tiny purity marks)&#10;https://amzn.to/3euFGAW&#10;Jewelry Bags (To help me stay organized)&#10;https://amzn.to/2OqqA56&#10;Postal Scale (Keep everything accurate)&#10;https://amzn.to/3fvKF5P"
     channeltitle "NolaCollectibles"
     channelid "UCl_onZk5_XuM3L4gVgyqd2g"
@@ -6625,7 +6625,7 @@ graph
     commentcount 29
     duration "PT32M11S"
     indegree 2
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -6651,7 +6651,7 @@ graph
     label "waLswdv0IDI"
     step 0
     date "2021-02-19T03:22:38Z"
-    title "Part 5 ANTIQUE &#38;amp; Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education Amber"
+    title "Part 5 ANTIQUE Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education Amber"
     description "Welcome to part 5 of a recent antique and vintage jewelry haul I got from a former jewelry store owner. You will see (and learn about!) some beautiful Victorian &#38; other vintage pieces including a 14k gold &#38; diamond tennis bracelet, a bakelite bracelet (we will test it!) , a highly unusual thermoset moon glow ring,  a Charles Horner Art Nouveau pin, some AMBER (we will test that too!) and much MORE. Brands include Monet, Alice Caviness, Sarah Coventry, Mexican modernist designer Alicia De La Paz and others.  We will also show you how to differentiate between damascene, fake damascene &#38; Siam Sterling / Nielloware. I hope you enjoy my haul.  There are bracelets, brooches, necklaces, rings, etc. You'll likely learn a few new things about old jewelry. Thanks so much for watching, please share and like this video if you're so inclined!  I hope you enjoy my jewelry haul! xo  &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelery101 #jewelryidentification #testingbakelite #testingsterlingsilver #learnaboutvintagejewelry #jewelryeducation"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -6661,7 +6661,7 @@ graph
     commentcount 108
     duration "PT37M50S"
     indegree 22
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -6687,7 +6687,7 @@ graph
     label "ecPGYSWBFd4"
     step 0
     date "2021-05-06T20:01:46Z"
-    title "Antique &#38;amp; Vintage JEWELRY HAUL Thrifting Unboxing Betsey Johnson Necklace !"
+    title "Antique Vintage JEWELRY HAUL Thrifting Unboxing Betsey Johnson Necklace !"
     description "Here's a fun jewelry haul that I hope you enjoy! I found some cool stuff including an antique bracelet, a Betsey Johnson snake necklace, a 14k gold ring and MORE! As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -6697,7 +6697,7 @@ graph
     commentcount 61
     duration "PT21M41S"
     indegree 6
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -6705,7 +6705,7 @@ graph
     label "8dZg48rpFlw"
     step 0
     date "2022-01-29T05:00:03Z"
-    title "Vintage Jewelry Unbagging Copper Mixed Metal, Crown Trifari &#38;amp; Renoir"
+    title "Vintage Jewelry Unbagging Copper Mixed Metal, Crown Trifari Renoir"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Great Mixed Metal Collection &#38; Vintage Jewelry! Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6723,7 +6723,7 @@ graph
     label "J-0KABH9frA"
     step 0
     date "2022-07-09T22:47:03Z"
-    title "Tour Jean&#8217;s Costume Jewelry Store ~ 1930&#8217;s Schoolhouse Converted&#10083;&#65039;"
+    title "Tour Jean"
     description "In this video, we are visiting Jean's Costume Jewelry located on the beautiful Eastern Shore of Maryland. Come inside to see a 1930's historic schoolhouse conversion.&#10;Meet Jean for a special one of a kind interview! &#10;If you are interested in purchasing anything you see in this video, send an email to congenialvintage@gmail.com. Give a timestamp and a detailed description of the item.&#10;Stay tuned for hundreds of pieces purchased from today's visit to come to a future video by Congenial Vintage Jewelry. &#10;Thanks for watching. Please LIKE &#38; SUBSCRIBE.&#10;&#10;Have a beautiful day! &#10;#vintagejewelry #jewelryjar #jewelryunboxing #jewelryhaul #easternshore &#10;Created by InShot&#10;https://inshotapp.page.link/YTShare"
     channeltitle "Congenial Vintage Jewelry"
     channelid "UC9I12nFClPhfEdmI7UhZvxw"
@@ -6733,7 +6733,7 @@ graph
     commentcount 8
     duration "PT28M31S"
     indegree 16
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -6777,7 +6777,7 @@ graph
     label "immYUiei60I"
     step 0
     date "2021-11-13T15:12:27Z"
-    title "VINTAGE JEWELRY HAUL/ WHAT&#38;#39;S IN THE BOX &#128230;"
+    title "VINTAGE JEWELRY HAUL/ WHAT"
     description ""
     channeltitle "MY JEWELRY ADDICTION"
     channelid "UCNOHVTe94bwGyJN7n7MHDAg"
@@ -6823,7 +6823,7 @@ graph
     commentcount 57
     duration "PT19M47S"
     indegree 4
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -6849,7 +6849,7 @@ graph
     label "EpLiOP0g9Ak"
     step 0
     date "2021-10-26T00:14:45Z"
-    title "$19.99 Vintage Jewelry haul UNBAGGING from my local thrift store&#128131;&#127995;&#128131;&#127995;&#128131;&#127995;Chanel and Tiffany &#38;amp; Co.&#128576;&#128576;&#128576;"
+    title "$19.99 Vintage Jewelry haul UNBAGGING from my local thrift store"
     description "In this video I will be unbagging a $19.99 jewelry mystery bag. Email me if your interested in any pieces. &#10;&#10;Buisness Inquires- &#10;sohocaliforniavintage@gmail.com&#10;&#10;Ebay Store-&#160; https://www.ebay.com/usr/sohocaliforniavintage&#10;&#10;IG- SohoCalifornia Vintage&#10;&#10;#jewelryunboxing #jewelryhaul #vintagejewelry #goodwillbluebox #jewelryjar #goodwillhaul #jewels #jewelry #resell #resellebay #ebay #thrifthaul #thrifting #silver #gold #flippingforaprofit #oldpawnshop #turquoise #trifari #chanel #brooch #pendant #jewels #jade #amethyst #malachite #lapis #nativejewelry #antiquejewelry #goldfilled #opal #14k #925silver #mysteryjewelryjar #mysteryjewelrybag #ecothrift #ecothrifting #craft #jewelrycraft"
     channeltitle "SohoCalifornia Vintage"
     channelid "UCAVaG9-OGcSnKqAbruqXWEQ"
@@ -6867,7 +6867,7 @@ graph
     label "elnCvHch234"
     step 0
     date "2020-08-23T13:32:21Z"
-    title "Vintage  jewelry finds from my vacation, Huge Ring Hall , That Frog again ! #90"
+    title "Vintage jewelry finds from my vacation, Huge Ring Hall , That Frog again ! #90"
     description "Hi everyone! I have a huge amount of rings to show and some not rings ! lol I picked up some neat things in my Vacation in Cape cod . thank you for watching! &#10;and question or requests please email me at Hellokitty40@ gmail.com&#10;&#10;my stores :&#10;&#10;https://etsy.me/2TnAGnR&#10;&#10;&#10;https://ebay.com/usr/vintagediscoveriessally"
     channeltitle "Vintage Discoveries"
     channelid "UCPUqBevT81GAuuCqpqpXROg"
@@ -6931,7 +6931,7 @@ graph
     commentcount 172
     duration "PT30M32S"
     indegree 1
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -6993,7 +6993,7 @@ graph
     label "Ye2J86y0VLg"
     step 0
     date "2021-02-21T14:23:49Z"
-    title "MINI Vintage &#38;amp; Antique Estate JEWELRY MYSTERY UNBOXING Unjarring I Paid $5! Unbagging"
+    title "MINI Vintage Antique Estate JEWELRY MYSTERY UNBOXING Unjarring I Paid $5! Unbagging"
     description "Welcome to a mini mystery unboxing! I found this little bag of jewelry for $5 at a thrift store and I bought it 'cos it looked like there was some pieces that were plenty old! It's a fun little bag and I hope you enjoy discovering its contents with me! Some was broken / tarnished / wrecked -- but I found a few keepers.  As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7003,7 +7003,7 @@ graph
     commentcount 110
     duration "PT25M56S"
     indegree 14
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7039,7 +7039,7 @@ graph
     commentcount 26
     duration "PT8M9S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7093,7 +7093,7 @@ graph
     commentcount 54
     duration "PT24M57S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7119,7 +7119,7 @@ graph
     label "dEdHDl0Vflg"
     step 0
     date "2021-09-17T23:02:46Z"
-    title "ITS FRIDAY YAY!!!!&#129395;&#129395;&#129395;&#129395;&#129395;Hand picked vintage jewelry from my local thrift stores-SALE!!!!"
+    title "ITS FRIDAY YAY!!!!Hand picked vintage jewelry from my local thrift stores-SALE!!!!"
     description "In this video I will be selling handpicked vintage and antique jewelry pieces from my local Community and Eco thrift stores&#10;&#10;&#10;Buisness Inquires- &#10;sohocaliforniavintage@gmail.com&#10;&#10;Ebay Store-&#160; https://www.ebay.com/usr/sohocaliforniavintage&#10;&#10;IG- SohoCalifornia Vintage&#10;&#10;&#10;#jewelryunboxing #jewelryhaul #vintagejewelry #goodwillbluebox #jewelryjar #goodwillhaul #jewels #jewelry #resell #resellebay #ebay #thrifthaul #thrifting #silver #gold #flippingforaprofit #oldpawnshop #turquoise #trifari #chanel #brooch #pendant #jewels #jade #amethyst #malachite #lapis #nativejewelry #antiquejewelry #goldfilled #opal #14k #925silver #mysteryjewelryjar #mysteryjewelrybag #ecothrift #ecothrifting #craft #jewelrycraft"
     channeltitle "SohoCalifornia Vintage"
     channelid "UCAVaG9-OGcSnKqAbruqXWEQ"
@@ -7165,7 +7165,7 @@ graph
     commentcount 10
     duration "PT31M19S"
     indegree 1
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7209,7 +7209,7 @@ graph
     label "JdMedfTSODA"
     step 0
     date "2021-01-19T00:39:08Z"
-    title "Part 1 ANTIQUE &#38;amp; Vintage JEWELRY HAUL Victorian Mourning Bakelite Estate Unboxing 101 Learning About"
+    title "Part 1 ANTIQUE Vintage JEWELRY HAUL Victorian Mourning Bakelite Estate Unboxing 101 Learning About"
     description "This is part 1 of a recent antique and vintage jewelry haul I got from a lady who used to own a jewelry store.  You will see (and learn about!) some beautiful Victorian pieces including two mourning brooches, some bakelite items, sterling silver, deco dress clips, a vintage Pierre Cardin modernist cuff bracelet and much MORE. Brands include Trifari, Monet, Leru, Jomaz, Bell Trading Post and others.  I hope you enjoy my haul.  There are bracelets, brooches, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7219,7 +7219,7 @@ graph
     commentcount 192
     duration "PT53M39S"
     indegree 31
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7237,7 +7237,7 @@ graph
     commentcount 6
     duration "PT53S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7255,7 +7255,7 @@ graph
     commentcount 34
     duration "PT26M37S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7273,7 +7273,7 @@ graph
     commentcount 59
     duration "PT30M48S"
     indegree 5
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7291,7 +7291,7 @@ graph
     commentcount 4
     duration "PT1H32M58S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -7317,7 +7317,7 @@ graph
     label "89wCC-ub-XI"
     step 0
     date "2021-01-24T18:51:12Z"
-    title "Part 3 ANTIQUE &#38;amp; Vintage JEWELRY HAUL! How to Identify Old Costume Jewelry Unboxing 101 Learning"
+    title "Part 3 ANTIQUE Vintage JEWELRY HAUL! How to Identify Old Costume Jewelry Unboxing 101 Learning"
     description "This is part 3 of a recent antique and vintage jewelry haul I got from a former jewelry store owner. You will see (and learn about!) some beautiful Victorian &#38; other vintage pieces including sterling silver, carved bone, copper, abalone shell, MCM, modernist, reverse-painted glass and much MORE. Brands include Trifari, Weiss and others.  I hope you enjoy my haul.  There are bracelets, brooches, necklaces, rings, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo  &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelry101 #learningaboutoldjewelry #vintagejewelrycourse #vintagejewelryforbeginners"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7327,7 +7327,7 @@ graph
     commentcount 84
     duration "PT26M42S"
     indegree 12
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7335,7 +7335,7 @@ graph
     label "pw7Sv4Q1gK4"
     step 0
     date "2021-08-21T13:48:53Z"
-    title "Vintage Jewelry YouTube Auction Purchases, eBay, &#38;amp;friend mail"
+    title "Vintage Jewelry YouTube Auction Purchases, eBay, friend mail"
     description "This is a updated version of content that was released by accident earlier today:)Join me as I share my latest finds from auctions and eBay. I&#8217;ll also be sharing friend mail. I&#8217;ll be telling you about YouTube auctions and show you the items I have recently purchased from them.&#10;Denim to diamonds https://youtube.com/channel/UClN7xjZRbKEsUYOlT077rqA&#10;Sugarvission https://youtube.com/user/SUGARVISSION&#10;My pink bag https://youtube.com/user/ginagay&#10;Vintage jewelry galore https://youtube.com/channel/UC-SY2UDSOmvdmjtA-i8oJdg&#10;Makeup zombie https://youtube.com/c/MakeupZombie"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -7353,7 +7353,7 @@ graph
     label "DrFE5dtxFp0"
     step 0
     date "2022-03-05T05:00:09Z"
-    title "Vintage Jewelry Gemstones, Costume, Sterling Silver &#38;amp; Amber with Bugs"
+    title "Vintage Jewelry Gemstones, Costume, Sterling Silver Amber with Bugs"
     description "Come see what we found at Our local Auction jewelry counter. We found Gemstones, Costume, Sterling Silver &#38; Amber with Bugs &#38; More.  Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We ship Internationally&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7363,7 +7363,7 @@ graph
     commentcount 49
     duration "PT36M37S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7381,7 +7381,7 @@ graph
     commentcount 136
     duration "PT44M33S"
     indegree 2
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -7389,7 +7389,7 @@ graph
     label "G66FEFr_eXo"
     step 0
     date "2021-10-22T04:00:05Z"
-    title "Estate Sale Vintage Jewelry Hobe Taxco &#38;amp; Gemstones"
+    title "Estate Sale Vintage Jewelry Hobe Taxco Gemstones"
     description "Hello Hello and welcome to another Vintage Jewelry Estate Collection . This Estate had some Hope, Taxco Sterling Silver and Vintage Finds &#38; more. Be sure to join us to see what we uncover from this Estate. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at mhl22@ymail.com &#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy-  etsy.com/shop/TheVintageMouseFinds&#10;Poshmark- poshmark.com/closet/thevintagemouse&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at mhl22@ymail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7399,7 +7399,7 @@ graph
     commentcount 57
     duration "PT29M33S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7425,7 +7425,7 @@ graph
     label "s59j_x4pZ4M"
     step 0
     date "2021-05-29T22:24:34Z"
-    title "Latest Vintage Jewelry Finds &#38;amp; Garden"
+    title "Latest Vintage Jewelry Finds Garden"
     description "Latest Vintage Jewelry finds and garden. Join me as I show you my latest finds and show what&#8217;s growing this year in our garden."
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -7443,7 +7443,7 @@ graph
     label "AHZKA6p5QlM"
     step 0
     date "2020-06-27T17:15:53Z"
-    title "Looks Interesting , Let&#38;#39;s Open it ? , Another $200 Vintage Jewelry Bag part 1"
+    title "Looks Interesting , Lets Open it ? , Another $200 Vintage Jewelry Bag part 1"
     description "Facebook Group https://www.facebook.com/groups/340518473168450/&#10;Thank you for watching &#10;&#10;My Email trashtotreasure76@gmail.com&#10;My ETSY SHOP https://www.etsy.com/shop/AnitaFunita&#10;&#10;Check out my Amazing friend Lucia's Channel &#10;Lucias Channel https://www.youtube.com/channel/UCtKpFO1BV8x2rHccPcHmOYg&#10;Lucia's Etsy shop https://www.etsy.com/shop/LucZal&#10;&#10;My Sisters Etsy shop &#10;https://www.etsy.com/shop/ArpiTerasBoutique&#10;&#10;THEASE ARE ALL MY SCORES FROM SURPRISE GOODWILL JEWELRY JAR OPENINGS, THRIFE HAULS, AND GARAGE SALES , hope you had fun watching , don't forget to hit the thumbs up &#10;&#10;PRODUCTS I USE:&#10;Presidium Gem Tester https://presidium.com.sg/store/shop/&#10;Bubble Wrap &#10;https://www.amazon.com/gp/product/B072C7L3M8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&#38;psc=1&#10;Acid test kit https://www.amazon.com/gp/product/B008R3AAJS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&#38;psc=1&#10;Plastic zip bags https://www.amazon.com/gp/product/B01B17TNSA/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&#38;psc=1&#10;Rolo Label printer https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Rolo Labels https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Ring Sizing, Measuring and repair kit https://www.amazon.com/gp/product/B07NRLR36B/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&#38;psc=1&#10;Jewelry Polishing Cloths https://www.amazon.com/gp/product/B01JLMEY7M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;&#10;Forr Buisness Inquaries : Email IS TRASHTOTREASURE76@GMAIL.COM&#10;&#10;Social Media Links .&#10; Instagram - https://www.instagram.com/anita_funita_/&#10; Pinterest - https://www.pinterest.com/terabraamyan&#10;&#10;Copyright Disclaimer, Under Section 107 of the Copyright Act 1976, allowance is made for 'fair use' for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statue that might otherwise be infringing. Non-profit , educational or personal use tips the balance in favor of fair use. #jewelryjar #vintagejewelry #thrifthaul"
     channeltitle "Anita's House Of Jewels "
     channelid "UCnv6NZFEZgSE-d9YP2U7N_g"
@@ -7453,7 +7453,7 @@ graph
     commentcount 96
     duration "PT56M47S"
     indegree 13
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7461,7 +7461,7 @@ graph
     label "P2qxnQLYuIE"
     step 0
     date "2020-10-18T16:45:15Z"
-    title "Trash To Treasure 100 Pound Mystery Vintage Jewelry Tub, Part 3 , what else  found"
+    title "Trash To Treasure 100 Pound Mystery Vintage Jewelry Tub, Part 3 , what else found"
     description "THANK YOU FOR WATCHING&#10;My ETSY SHOP https://www.etsy.com/shop/AnitaFunita&#10;FacebooK Group https://www.facebook.com/groups/340518473168450/&#10;Instagram - https://www.instagram.com/anita_funita_/&#10;My Email trashtotreasure76@gmail.com&#10;&#10;Check out my Amazing friend Lucia's Channel &#10;Lucias Channel https://www.youtube.com/channel/UCtKpFO1BV8x2rHccPcHmOYg&#10;Lucia's Etsy shop https://www.etsy.com/shop/LucZal&#10;Lucias Instagram -  https://www.instagram.com/_lucia__lei/&#10;&#10;THEASE ARE ALL MY SCORES FROM SURPRISE GOODWILL JEWELRY JAR OPENINGS, THRIFE HAULS, AND GARAGE SALES , hope you had fun watching , don't forget to hit the thumbs up &#10;&#10;Forr Buisness Inquaries : Email IS TRASHTOTREASURE76@GMAIL.COM&#10;&#10;PRODUCTS I USE:&#10;Presidium Gem Tester https://presidium.com.sg/store/shop/&#10;Bubble Wrap &#10;https://www.amazon.com/gp/product/B072C7L3M8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&#38;psc=1&#10;Acid test kit https://www.amazon.com/gp/product/B008R3AAJS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&#38;psc=1&#10;Plastic zip bags https://www.amazon.com/gp/product/B01B17TNSA/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&#38;psc=1&#10;Rolo Label printer https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Rolo Labels https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Ring Sizing, Measuring and repair kit https://www.amazon.com/gp/product/B07NRLR36B/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&#38;psc=1&#10;Jewelry Polishing Cloths https://www.amazon.com/gp/product/B01JLMEY7M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;&#10;Social Media Links .&#10; Instagram - https://www.instagram.com/anita_funita_/&#10; Pinterest - https://www.pinterest.com/terabraamyan&#10;&#10;Copyright Disclaimer, Under Section 107 of the Copyright Act 1976, allowance is made for 'fair use' for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statue that might otherwise be infringing. Non-profit , educational or personal use tips the balance in favor of fair use. #jewelryjar #vintagejewelry #thrifthau"
     channeltitle "Anita's House Of Jewels "
     channelid "UCnv6NZFEZgSE-d9YP2U7N_g"
@@ -7471,7 +7471,7 @@ graph
     commentcount 359
     duration "PT44M42S"
     indegree 7
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7543,7 +7543,7 @@ graph
     commentcount 44
     duration "PT31M47S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -7569,7 +7569,7 @@ graph
     label "88s22qLgRS4"
     step 0
     date "2021-11-25T15:52:48Z"
-    title "VINTAGE JEWELRY/ THANKSGIVING JEWELRY AND CHIT CHAT &#10084;&#10084;&#10084;"
+    title "VINTAGE JEWELRY/ THANKSGIVING JEWELRY AND CHIT CHAT "
     description ""
     channeltitle "MY JEWELRY ADDICTION"
     channelid "UCNOHVTe94bwGyJN7n7MHDAg"
@@ -7587,7 +7587,7 @@ graph
     label "7visepRWMKE"
     step 0
     date "2022-01-14T05:00:04Z"
-    title "Vintage Jewelry Unbagging Clear Rhinestone, Weiss, Trifari, GFMW &#38;amp; Krementz"
+    title "Vintage Jewelry Unbagging Clear Rhinestone, Weiss, Trifari, GFMW Krementz"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7597,7 +7597,7 @@ graph
     commentcount 48
     duration "PT28M3S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7641,7 +7641,7 @@ graph
     label "fBN89wvK37s"
     step 0
     date "2022-06-28T14:29:04Z"
-    title "#22 Help me CLEAN OUT | Vintage Jewelry SALE &#127881;"
+    title "#22 Help me CLEAN OUT | Vintage Jewelry SALE "
     description "Welcome to the Congenial Vintage Jewelry channel where I offer authentic vintage jewelry, collecting one piece at a time. I have been a trusted part-time reseller since 2015 with experience selling on Etsy, eBay and now on YouTube! I do the research so you can relax and buy with confidence, knowing that you are getting the best buy to add to your personal collection.&#10;&#10;Interested in a piece? &#10;&#10;Step 1) Check pinned comments first - this is where SOLD pieces are listed.&#10;Step 2) Email me at congenialvintage@gmail.com &#10;             -Your Name - Video Number - Item Number&#10;             Photos can be helpful but not necessary. &#10;Step 3) Your itemized invoice will be forwarded to your email. &#10;              You will only need a credit card to pay through PayPal. &#10;Step 4) Your items will be carefully packaged and shipped out, typically next day! &#10;&#10;Now you are ready to ENJOY a FUN and rewarding shopping experience with me on YouTube! &#10;As a part-time reseller, please note emails and comments can only be answered after 4PM EST Monday-Friday and on Saturday's at anytime during daylight hours. Created by InShot&#10;https://inshotapp.page.link/YTShare&#10;Created by InShot&#10;https://inshotapp.page.link/YTShare Music: Achaidh Cheide&#10;Musician: Kevin MacLeod&#10;Site: https://filmmusic.io/song/3338-achaidh-cheide&#10;License: https://filmmusic.io/standard-license"
     channeltitle "Congenial Vintage Jewelry"
     channelid "UC9I12nFClPhfEdmI7UhZvxw"
@@ -7687,7 +7687,7 @@ graph
     commentcount 7
     duration "PT12M45S"
     indegree 1
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     commentcount 2
     duration "PT2H56M59S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -7731,7 +7731,7 @@ graph
     label "3Rb0Ln9Ysj4"
     step 0
     date "2021-12-31T05:00:01Z"
-    title "Vintage Jewelry Unbagging Art Deco Cameo, Sterling Silver, Taxco &#38;amp; Gemstones"
+    title "Vintage Jewelry Unbagging Art Deco Cameo, Sterling Silver, Taxco Gemstones"
     description "Come see our Vintage Jewelry Unbagging from our Local Jewelry Auction. We have Art Deco, Amethyst, Jade, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7741,7 +7741,7 @@ graph
     commentcount 74
     duration "PT22M41S"
     indegree 7
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7749,7 +7749,7 @@ graph
     label "_LxUAcgzj_8"
     step 0
     date "2021-08-29T03:13:22Z"
-    title "Exciting Vintage Jewelry Collection Finds! From Estate Sales &#38;amp; Unboxing&#8217;s!"
+    title "Exciting Vintage Jewelry Collection Finds! From Estate Sales s!"
     description "Exciting Vintage Jewelry Collection Finds! From Estate Sales &#38; Jewelry Unboxing&#8217;s&#10;&#10;Varies Pendant,necklaces,earrings, sterling silver Stones and more! &#10;&#10;&#10;***Don&#8217;t miss my Live Auction This Monday On Halie&#8217;s Arts &#38; Crafts! I will be joined by My Pink Bag Gina Gay! @ 6:00 PM PST. Please Like and Subscribe to Halies Page and see you there!***&#10;&#10;https://youtube.com/channel/UCC7_3uNPb7UnQpDOcmznMzw&#10;&#10;&#10;&#10;Please Subscribe As I will continue to offer new jewelry shares all the time! Thanks &#128591; &#10;&#10;My link below &#128071;&#10;&#10;https://youtube.com/user/SUGARVISSION"
     channeltitle "SUGARVISSION"
     channelid "UC2W4gmkZfxW6P2O09qmtrCg"
@@ -7759,7 +7759,7 @@ graph
     commentcount 106
     duration "PT17M24S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -7803,7 +7803,7 @@ graph
     label "UKyWCuk4-tE"
     step 0
     date "2021-04-27T02:52:11Z"
-    title "WeiRd &#38;amp; WonDeRfUL Vintage Jewelry Collection HAUL Estate Unusual Odd Strange"
+    title "WeiRd WonDeRfUL Vintage Jewelry Collection HAUL Estate Unusual Odd Strange"
     description "Oh, but they're weird and they're wonderful! Hello and welcome to my &#34;unusual&#34; jewelry collection! This video features some very cool &#38; different pieces! Thanks for coming, please see my other videos for more beautiful old jewelry.  Kindly like, subscribe and share. Big Hugs. xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#weirdjewelry #oddcollectables #learningaboutjewelry #funjewelry @modjewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7813,7 +7813,7 @@ graph
     commentcount 77
     duration "PT16M31S"
     indegree 5
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7821,7 +7821,7 @@ graph
     label "v3OwXuJ0fTk"
     step 0
     date "2021-01-16T21:41:35Z"
-    title "Jewelry Jar Jewelry Haul Vintage  Jewelry Unbagging"
+    title "Jewelry Jar Jewelry Haul Vintage Jewelry Unbagging"
     description "Cleaned out my local thrift shops and scored online as well. #thelmathrift #jewelryjar #Jewelryhaul&#10;&#10;For business inquiries: email thelmahoards@gmail.com&#10;Like my My Facebook Page &#38; more. https://www.facebook.com/ThelmaThriftThinkTank/ and if you're an honorable person, not a hater/stalker please request to join my Face Book Auction Page: Thelma Thrift Members Only Auction &#38; Sale. https://www.facebook.com/groups/856784751335050/"
     channeltitle "Thelma Thrift"
     channelid "UCAvAaPlXvgsL0fZBHmQejrw"
@@ -7839,7 +7839,7 @@ graph
     label "01uVeAUmnUo"
     step 0
     date "2021-12-15T03:01:08Z"
-    title "Vintage Jewelry Jar etc... Let&#38;#39;s see what we find! Napier, Sarah Coventry etc..."
+    title "Vintage Jewelry Jar etc... Lets see what we find! Napier, Sarah Coventry etc..."
     description "Thank you for visiting my channel Tiny Deer Vintage! All are welcome here. Please feel free to reach out to me via my email listed below with any questions you may have regarding any pieces I've shown! &#10;&#10;Please take a moment to like and subscribe if you'd like to see more content like this from me.&#10;&#10;Thank you so much. Take care.&#10;&#10;Deb&#10;Tiny Deer Vintage &#129420; &#128150; &#10;&#10;tinydeervintage@gmail.com"
     channeltitle "Tiny Deer Vintage (Deb)"
     channelid "UCo77fToLC26MHOIkMppsrpw"
@@ -7849,7 +7849,7 @@ graph
     commentcount 15
     duration "PT33M8S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -7857,7 +7857,7 @@ graph
     label "uqdGMWJRx5A"
     step 0
     date "2020-12-11T03:12:08Z"
-    title "Vintage JEWELRY HAUL Estate &#38;amp; Costume Thrifter"
+    title "Vintage JEWELRY HAUL Estate Costume Thrifter"
     description "Here is a recent jewelry haul.  I don't usually pay more than $1 or $2 since I usually get things in thrift stores or garage sales.  You'll see some sterling silver including a cute seahorse necklace, two Danbury Mint necklaces, some 1950s rhinestones, a Ledo turtle brooch from 1962 and much more!  I hope you enjoy. xo&#10;&#10;https://www.ebay.com/usr/thefunkypicklestore"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7867,7 +7867,7 @@ graph
     commentcount 27
     duration "PT13M17S"
     indegree 4
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -7903,7 +7903,7 @@ graph
     commentcount 80
     duration "PT32M48S"
     indegree 3
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -7939,7 +7939,7 @@ graph
     commentcount 165
     duration "PT25M45S"
     indegree 6
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -7957,7 +7957,7 @@ graph
     commentcount 18
     duration "PT57M25S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 61
     duration "PT26M28S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     commentcount 11
     duration "PT1H6M1S"
     indegree 0
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -8019,7 +8019,7 @@ graph
     label "USIjuibPWLo"
     step 0
     date "2022-05-19T06:14:29Z"
-    title "Vintage Jewelry Haul &#38;amp; Coffee Chat | Juliana, Miriam Haskell, Weiss, &#38;amp; More!"
+    title "Vintage Jewelry Haul More!"
     description "Join me for some open coffee chat while I show you my latest vintage jewelry haul! No sales during this live session, just some great people and fun jewelry! Hope to see you there!&#13;&#10;&#13;&#10;Check out my online stores:&#13;&#10;&#13;&#10;Kraken Krates eBay store:&#13;&#10;https://www.ebay.com/str/krakenkrates&#13;&#10;&#13;&#10;*If you click on the &#8220;Save this seller&#8221; on our eBay store, you will receive an auto notification when we list new items.&#13;&#10;&#13;&#10;Kraken Krates Poshmark closet: &#13;&#10;https://poshmark.com/closet/kraken_krates&#13;&#10;&#13;&#10;Register here for upcoming sales/auctions:&#13;&#10;https://form.jotform.com/220755815831155&#13;&#10;&#13;&#10;**Upcoming Events**&#13;&#10;&#13;&#10;Thursday, June 23rd, 2022 @ 4:30pm MST | 6:30 pm CST&#13;&#10;Special Guest: Bridget w/ The Baker's Daughters, LLC&#13;&#10;Bridget's Channel: https://www.youtube.com/channel/UCtskdZN2HtWnbqkwpr3HiDw&#13;&#10;&#13;&#10;Christmas in July&#13;&#10;All Live Sales will be Holiday themed!&#13;&#10;&#13;&#10;#sales #jewellery #reseller&#13;&#10;&#13;&#10;Music:&#13;&#10;&#13;&#10;Intro and outro music provided by Canva.com&#13;&#10;&#13;&#10;Every Day 80&#8217;s&#13;&#10;&#34;Wayne John Bradley - Every Day&#34; is under a Creative Commons (cc-by) license&#13;&#10;Music promoted by BreakingCopyright: https://bit.ly/bkc-every-day&#13;&#10;&#13;&#10;So Happy&#13;&#10;Track: Raven &#38; Kreyn - So Happy [NCS Official Video]&#13;&#10;Music provided by NoCopyrightSounds.&#13;&#10;Watch: https://youtu.be/cmVdgWL5548&#13;&#10;Free Download / Stream: http://ncs.io/SoHappyYO&#13;&#10;&#13;&#10;Running Out Of Time&#13;&#10;Track: Anna Yvette - Running Out Of Time [NCS Release]&#13;&#10;Music provided by NoCopyrightSounds.&#13;&#10;Watch: https://youtu.be/sRjBFf0zi3Y&#13;&#10;Free Download / Stream: https://ncs.io/RunningOutOfTime&#13;&#10;&#13;&#10;About:&#13;&#10;Thank you for visiting Kraken Reseller with Kristeen (Kris-Teen) on YouTube!&#13;&#10;I'm a full-time mom and a part-time reseller on eBay.  I'm based out of sunny, family-friendly (not to mention hot) Surprise, Arizona! I'm a second generation reseller and learned everything I know from my mother, auction houses, swap meets, and doing tons of research over the years! I opened my first eBay account in 1999 and then began reselling LEGO as a hobby with my husband Paul. I have since expanded my catalog to include anything and everything I can to flip for a profit to help support my family of seven.&#13;&#10;&#13;&#10;Join me on my journey to search for items I can resell from estate sales, local and online auctions, yard sales, thrift stores, charity shops, and basically any weird stuff left on the curb. I will also share my tips and tricks!"
     channeltitle "Kraken Reseller"
     channelid "UCWVwOGc42CGCRJQ7Ohhv-cw"
@@ -8047,7 +8047,7 @@ graph
     commentcount 21
     duration "PT16M36S"
     indegree 8
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -8055,7 +8055,7 @@ graph
     label "mlyA5KjmIvI"
     step 0
     date "2021-08-21T04:00:24Z"
-    title "Vintage Jewelry Jar Unjarring Part 2 More Gold, Sterling &#38;amp; Vintage"
+    title "Vintage Jewelry Jar Unjarring Part 2 More Gold, Sterling Vintage"
     description "Here in Part 2 of our Vintage Jewelry Jar!!  In this video we went back to the same Antique Vintage Shop.This time we bought a Jar from a different Booth! In Part 2 we have more Vintage Gold &#38; Sterling brooches! Be sure to join us to see what we uncover in this jar. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at mhl22@ymail.com &#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- https://www.etsy.com/shop/TheVintageMouseFinds&#10;Poshmark- https://poshmark.com/closet/thevintagemouse&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at mhl22@ymail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -8065,7 +8065,7 @@ graph
     commentcount 40
     duration "PT37M24S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -8101,7 +8101,7 @@ graph
     commentcount 20
     duration "PT40M34S"
     indegree 0
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -8109,7 +8109,7 @@ graph
     label "zVnp2KfMyhI"
     step 0
     date "2020-09-13T22:52:39Z"
-    title "Let&#38;#39;s see what I found in the 100 Pound Mystery Vintage Jewelry Tub, Part 1"
+    title "Lets see what I found in the 100 Pound Mystery Vintage Jewelry Tub, Part 1"
     description "THEASE ARE ALL VINTAGE JEWELRY FINDS FROM SURPRISE GOODWILL JEWELRY JAR OPENINGS, THRIFT HAULS, ESTATE SALES, GARAGE SALES, AND TREASURE HUNTING, IM NOT A JEWELRY EXPERT&#10;hope you had fun watching , don't forget to hit the thumbs up &#10;THANK YOU FOR WATCHING&#10;&#10;My ETSY SHOP https://www.etsy.com/shop/AnitaFunita&#10;FacebooK Group https://www.facebook.com/groups/340518473168450/&#10;Instagram - https://www.instagram.com/anita_funita_/&#10;My Email trashtotreasure76@gmail.com&#10;&#10;Check out my Amazing friend Lucia's Channel &#10;Lucias Channel https://www.youtube.com/channel/UCtKpFO1BV8x2rHccPcHmOYg&#10;Lucia's Etsy shop https://www.etsy.com/shop/LucZal&#10;Lucias Instagram -  https://www.instagram.com/_lucia__lei/&#10;&#10;&#10;Forr Buisness Inquaries : Email IS TRASHTOTREASURE76@GMAIL.COM&#10;&#10;PRODUCTS I USE:&#10;Presidium Gem Tester https://presidium.com.sg/store/shop/&#10;Bubble Wrap &#10;https://www.amazon.com/gp/product/B072C7L3M8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&#38;psc=1&#10;Acid test kit https://www.amazon.com/gp/product/B008R3AAJS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&#38;psc=1&#10;Plastic zip bags https://www.amazon.com/gp/product/B01B17TNSA/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&#38;psc=1&#10;Rolo Label printer https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Rolo Labels https://www.amazon.com/gp/product/B01MA3EYC5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;Ring Sizing, Measuring and repair kit https://www.amazon.com/gp/product/B07NRLR36B/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&#38;psc=1&#10;Jewelry Polishing Cloths https://www.amazon.com/gp/product/B01JLMEY7M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&#38;psc=1&#10;&#10;Social Media Links .&#10; Instagram - https://www.instagram.com/anita_funita_/&#10; Pinterest - https://www.pinterest.com/terabraamyan&#10;&#10;Copyright Disclaimer, Under Section 107 of the Copyright Act 1976, allowance is made for 'fair use' for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statue that might otherwise be infringing. Non-profit , educational or personal use tips the balance in favor of fair use. #jewelryjar #vintagejewelry #thrifthaul"
     channeltitle "Anita's House Of Jewels "
     channelid "UCnv6NZFEZgSE-d9YP2U7N_g"
@@ -8119,7 +8119,7 @@ graph
     commentcount 96
     duration "PT25M31S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -8127,7 +8127,7 @@ graph
     label "Nwg_eXg9TEI"
     step 0
     date "2022-04-26T20:52:14Z"
-    title "Vintage Jewelry Haul! Schiaparelli, Van Dell, Pegasus Coro etc. Let&#38;#39;s look at some old beauties! &#129321;&#129321;&#129321;"
+    title "Vintage Jewelry Haul! Schiaparelli, Van Dell, Pegasus Coro etc. Let"
     description "Hello and Welcome. This is a vintage jewelry haul show and tell.  Please feel free to contact me at my email address listed below with any questions or interest you may have. Thanks for watching! Have a great day!&#10;Deb&#10;Tiny Deer Vintage&#10;email: tinydeervintage@gmail.com&#10;&#10;Other Channels Mentioned:&#10;Gina Gay&#10;Princess Casserole (Carla)&#10;Denim to Diamonds (Sue)"
     channeltitle "Tiny Deer Vintage (Deb)"
     channelid "UCo77fToLC26MHOIkMppsrpw"
@@ -8155,7 +8155,7 @@ graph
     commentcount 81
     duration "PT17M50S"
     indegree 1
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -8191,7 +8191,7 @@ graph
     commentcount 52
     duration "PT37M18S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -8227,7 +8227,7 @@ graph
     commentcount 241
     duration "PT15M4S"
     indegree 5
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -8245,7 +8245,7 @@ graph
     commentcount 1
     duration "PT2H32M53S"
     indegree 8
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -8271,7 +8271,7 @@ graph
     label "266V240m6L0"
     step 0
     date "2022-07-10T23:15:01Z"
-    title "KRISTEN D. JEWELRY BOX SUBSCRIPTION UNBOXING - MY JULY BOX - VINTAGE + NAME  BRAND!"
+    title "KRISTEN D. JEWELRY BOX SUBSCRIPTION UNBOXING - MY JULY BOX - VINTAGE + NAME BRAND!"
     description "Hi and welcome! This is an unboxing of my monthly jewelry box from  Kristen D.'s jewelry box subscription.  Check out all of the goodies I unbox!&#10;&#10;SUBSCRIBE TO KRISTEN D.'S CHANNEL:&#10;https://www.youtube.com/c/KristenDanotherchanceresale&#10;&#10;SUBSCRIBE TO KRISTEN D.'S MONTHLY JEWELRY SUBSCRIPTION BOX:&#10;https://www.patreon.com/anotherchanceresale&#10;&#10;SUBSCRIBE to the following channels who also unbox Kristen D.'s monthly subscription box:&#10;*Thriving Thrifters: https://www.youtube.com/channel/UC3PZtVW-cjO7gpOC4GwpWPA&#10;*gogrannygo: https://www.youtube.com/user/mpnasr&#10;&#10;------------------------&#10;If you are interested in anything, please feel free to inquire at: girliorocks@gmail.com.&#10;&#10;In your email, please include the following: &#10;* Video title and/or video date &#10;* A description and screenshot AND timestamp of the items you are interested in.&#10;* Your name&#10;*Your shipping address&#10;- Your paypal email address.&#10;&#10;- Paypal payment only&#10;- Shipping is via USPS First Class: flat fee of $5.00, for all orders under a pound. If order is over a pound, shipping will be calculated based on shipping location.&#10;-International shipping is based on location and weight.&#10;- Payment is expected within 48 hours, otherwise order will be cancelled.&#10;-------------&#10;Links to my stores:&#10;POSHMARK: https://poshmark.com/closet/girliorocks&#10;&#10;Get  $10 off your first Poshmark order, sign up now with my code GIRLIOROCKS to save $10 on your first order. Visit this link: https://posh.mk/KLSl6UAdNnb&#10;-------------------&#10;Products I use:&#10;Gold, Silver Testing Acid Kit with Stone - https://amzn.to/36Wb8dS&#10;Presidium Gem Tester - https://amzn.to/3ye2Lpp&#10;Diamond Selector (A cheaper alternative to test for glass vs. stone) - https://amzn.to/3vOekk3&#10;Black Light (for testing amber, uranium glass) - https://amzn.to/3siM1cP&#10;Simichrome Polish (for testing bakelite + cleaning brass) - https://amzn.to/3xYaKq8&#10;Jewelry Display Neckl - https://amzn.to/3vOekk3&#10;Magnet (for testing for precious metals) - https://amzn.to/3kkbIVW&#10;Loupe - https://amzn.to/3kgBnyE&#10;Light - https://amzn.to/3LmBvbD&#10;Ring Light - https://amzn.to/3KmEYpz&#10;Ring Mandrel (similar to what I use) - https://amzn.to/3rZrcCP&#10;Measuring Tape (similar to what I use) - https://amzn.to/3Lqfwk7&#10;Light Box (for jewelry photos) - https://amzn.to/36RpOe6&#10;Sunshine Polishing Cloths - https://amzn.to/38ug2ip&#10;Simple Shine Polishing Wipes - https://amzn.to/3klqFa0"
     channeltitle "Girlio"
     channelid "UCXAdkFuji8DxoIc6HDZ6LUw"
@@ -8299,7 +8299,7 @@ graph
     commentcount 8
     duration "PT3H31M36S"
     indegree 1
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -8317,7 +8317,7 @@ graph
     commentcount 2
     duration "PT23M19S"
     indegree 3
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -8325,7 +8325,7 @@ graph
     label "qVxXj-nZonU"
     step 0
     date "2022-07-07T19:50:53Z"
-    title "ANTIQUE Georgian &#38;amp; Victorian Jewelry Ready for Repair by My Jeweler REAL GOLD"
+    title "ANTIQUE Georgian Victorian Jewelry Ready for Repair by My Jeweler REAL GOLD"
     description "Welcome to my video. I will show you some broken pieces (mostly gold) that I will be bringing in for repair shortly. (I am FINALLY getting around to getting my Grand Tour Victorian micromosaic bracelet fixed -- he couldn't do it until I found a finding that fits.)  I will do a follow-up video when the repairs have been completed. Thanks as always for watching. Hugs, SANDRA  xo&#10;#antiquejewelry #georgianjewelry #victorianjewelry #grandtourbracelet &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -8335,7 +8335,7 @@ graph
     commentcount 49
     duration "PT23M42S"
     indegree 26
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -8343,7 +8343,7 @@ graph
     label "9jMOtpC03rk"
     step 0
     date "2022-07-08T03:18:31Z"
-    title "Day 4: LIVE STERLING SILVER &#38;amp; COSTUME JEWELRY SALE --- A 5 DAY EVENT"
+    title "Day 4: LIVE STERLING SILVER COSTUME JEWELRY SALE --- A 5 DAY EVENT"
     description "If you are interested in jewelry -- sterling silver, vintage costume, artisan, contemporary -- or know someone who is, please mark your calendars for a 5-day special live sale event that I will be hosting from 4:00PM - 7:00PM every day from Monday, July 4th through Friday, July 8th here on my channel. &#13;&#10;&#13;&#10;If you have not subscribed to my channel yet, I certainly invite you to do so and also be sure to click the notification bell so you can be notified when I go live and when I upload additional content. &#13;&#10;&#13;&#10;I have some great things in store for you during this 5-day special event, including free giveaways, so please consider joining us. As usual, you don't have to purchase anything ... just come join the chat and let's have some fun!!! :) &#13;&#10;&#13;&#10;Thanks!&#13;&#10;Doug&#13;&#10;VintageBoutiqueCali@yahoo.com"
     channeltitle "Doug / Vintage Boutique Cali"
     channelid "UCmdKgXreKn0H-AuVMXh69ew"
@@ -8353,7 +8353,7 @@ graph
     commentcount 4
     duration "PT3H59M33S"
     indegree 3
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -8361,7 +8361,7 @@ graph
     label "zkEo4RfmITY"
     step 0
     date "2022-07-05T22:07:36Z"
-    title "July 2022 Amazing yard sale mystery jewelry box opening. I struck GOLD &#8230;.and silver ! $13 for Box!"
+    title "July 2022 Amazing yard sale mystery jewelry box opening. I struck GOLD .and silver ! $13 for Box!"
     description "#reseller #Jewelry #thrifter&#10;Amazing yard sale mystery jewelry box opening. I struck GOLD &#8230;.and silver ! Help me dig through this jewelry box for treasures&#10;I hope you like my haul &#10;&#10;Thanks for checking out my  video and there will be more to come!&#10;Authentications by Airyn street ~https://www.facebook.com/lvauthentication&#10;&#10;Thanks for checking out my  video and there will be more to come!&#10;&#10;Facebook group https://www.facebook.com/groups/1343363975685669/&#10;Instagram~ https://www.instagram.com/mrs.shopsalot&#10;Email ~ askmrsshopsalot@gmail.com&#10;Poshmark- https://poshmark.com/closet/misshopsalot&#10;Mercari~http:/https://www.mercari.com/u/645191842/"
     channeltitle "Mrs.Shopsalot"
     channelid "UCYlMYIHoRb9ghfJiSiNxfJA"
@@ -8379,7 +8379,7 @@ graph
     label "9TeovGmRr7c"
     step 0
     date "2022-07-10T15:55:16Z"
-    title "Let&#38;#39;s Open A Mystery Jewelry Jar"
+    title "Lets Open A Mystery Jewelry Jar"
     description "Thank you for watching!&#10;&#10;Please visit my Etsy shop:https://www.etsy.com/shop/LucZal&#10;My email : best_ach@yahoo.com&#10;Follow me on Instagram https://www.instagram.com/_lucia__lei &#10;&#10;&#10;My Fantastic Friend Anita&#8217;s channel https://www.youtube.com/anitafunita&#10;Anita's Etsy shop https://www.etsy.com/shop/AnitaFunita...&#10;https://www.instagram.com/anita_funita_/"
     channeltitle "Lucia's Splendors"
     channelid "UCtKpFO1BV8x2rHccPcHmOYg"
@@ -8389,7 +8389,7 @@ graph
     commentcount 94
     duration "PT14M54S"
     indegree 4
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -8415,7 +8415,7 @@ graph
     label "oYMW1JDPJBU"
     step 0
     date "2022-07-09T20:50:46Z"
-    title "Estate Sale Finds Video #320:  Antique Easter Eggs, Jewelry, Mid Century Decor &#38;amp; More"
+    title "Estate Sale Finds Video #320: Antique Easter Eggs, Jewelry, Mid Century Decor More"
     description "I've found some really neat antique Easter eggs, MCM glass, and miscellaneous other items this week."
     channeltitle "Living The Good Life"
     channelid "UCMttLGl-lMgyE6RztpSBP1A"
@@ -8425,7 +8425,7 @@ graph
     commentcount 28
     duration "PT7M59S"
     indegree 1
-    cluster 8
+    cluster 5
   ]
   node
   [
@@ -8451,7 +8451,7 @@ graph
     label "Y6VCf9HCS0Q"
     step 0
     date "2022-07-12T00:18:59Z"
-    title "#30 Jewelry from Jean&#8217;s Costume Jewelry Shop| It&#8217;s all for sale| Collecting &#38;amp; Reselling"
+    title "#30 Jewelry from Jean Reselling"
     description "Welcome to the Congenial Vintage Jewelry channel where I offer authentic vintage jewelry, collecting one piece at a time. I have been a trusted part-time reseller since 2015 with experience selling on Etsy, eBay and now on YouTube! I do the research so you can relax and buy with confidence, knowing that you are getting the best buy to add to your personal collection.&#10;&#10;Interested in a piece? &#10;&#10;Step 1) Check pinned comments first - this is where SOLD pieces are listed.&#10;Step 2) Email me at congenialvintage@gmail.com &#10;             -Your Name - Video Number - Item Number&#10;             Photos can be helpful but not necessary. &#10;Step 3) Your itemized invoice will be forwarded to your email. &#10;              You will only need a credit card to pay through PayPal. &#10;Step 4) Your items will be carefully packaged and shipped out, typically next day! &#10;&#10;Now you are ready to ENJOY a FUN and rewarding shopping experience with me on YouTube! &#10;As a part-time reseller, please note emails and comments can only be answered after 4PM EST Monday-Friday and on Saturday's at anytime during daylight hours. &#10;#vintagejewelry #jewelryunboxing #jewelryhaul #goodwillhaul #thrifthaul #thrifting &#10;Created by InShot&#10;https://inshotapp.page.link/YTShare"
     channeltitle "Congenial Vintage Jewelry"
     channelid "UC9I12nFClPhfEdmI7UhZvxw"
@@ -8461,7 +8461,7 @@ graph
     commentcount 7
     duration "PT44M43S"
     indegree 3
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -8469,7 +8469,7 @@ graph
     label "88Y_FyEPKeo"
     step 0
     date "2022-07-09T05:41:27Z"
-    title "Friday Late Night Jewelry Auction! New Sterling Vintage Costume! Let&#8217;s Go!!!"
+    title "Friday Late Night Jewelry Auction! New Sterling Vintage Costume! Lets Go!!!"
     description "Friday Late Night Jewelry Auction! New Sterling Vintage Costume! Let&#8217;s Go!!!&#13;&#10;&#13;&#10;Live Jewelry Auction 7/8/22 @ 5:00 PM PST. 8:00 PM EST. Join The Fun! Sterling Amber Costume Jewelry &#38; More!&#13;&#10;&#13;&#10;&#13;&#10;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#13;&#10;&#13;&#10;ALL BIDS ARE A COMMITMENT TO PURCHASE. PAYMENT IS DUE WITHIN 48 HOURS OF INVOICING. PLEASE CONSIDER THIS BEFORE CLAIMING AN ITEM. THANK YOU.&#13;&#10;&#13;&#10;PLEASE REGISTER TO BID IF YOU ARE NEW TO OUR CHANNEL BY SENDING  YOUR YOUTUBE NAME, YOUR FULL NAME, AND ADDRESS INCLUDING ZIP CODE, PAYMENT METHOD PREFERED AND THE EMAIL/ID ATTACHED TO THAT METHOD FOR INVOICING. &#13;&#10;&#13;&#10;OUR SELLERS TODAY.&#8230;..&#13;&#10;&#13;&#10;SUGARVISSION:&#13;&#10;Steven@Sugarvission.com&#13;&#10;&#13;&#10;MARZENA &#13;&#10;SunshineAmberzena@gmail.com"
     channeltitle "SUGARVISSION"
     channelid "UC2W4gmkZfxW6P2O09qmtrCg"
@@ -8479,7 +8479,7 @@ graph
     commentcount 1
     duration "PT5H21M56S"
     indegree 3
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -8523,7 +8523,7 @@ graph
     label "j2tNXNRrOjc"
     step 0
     date "2022-07-11T00:31:55Z"
-    title "Vintage Yellow Brown Topaz Glass Beaded Antique Brass Chandelier Earrings&#65532;"
+    title "Vintage Yellow Brown Topaz Glass Beaded Antique Brass Chandelier Earrings"
     description "Vintage Yellow Brown Topaz Glass Beaded Antique Brass Chandelier Earrings 3in&#10;&#10;https://www.ebay.com/itm/234619652207?mkcid=16&#38;mkevt=1&#38;mkrid=711-127632-2357-0&#38;ssspo=X0QVxqlCQZe&#38;sssrc=2349624&#38;ssuid=X0QVxqlCQZe&#38;var=&#38;widget_ver=artemis&#38;media=COPY&#10;&#10;Unsigned&#10;&#10;Good condition&#10;&#10;Pierced earrings&#10;&#10;Approx 3in. L. X. 1 in W&#10;&#10;&#10;Free gift box included&#10;&#10;Free shipping&#10;&#10;Free shipping insurance"
     channeltitle "Cynthia Zamora"
     channelid "UCCTTPVtyAZqFiU5EZLTaiCg"
@@ -8569,7 +8569,7 @@ graph
     commentcount 20
     duration "PT26M58S"
     indegree 18
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -8577,7 +8577,7 @@ graph
     label "mmDsGHT_M4k"
     step 0
     date "2022-07-10T16:04:09Z"
-    title "vintage locket &#128157; prints ur names or ur loved ones, link is in description"
+    title "vintage locket prints ur names or ur loved ones, link is in description"
     description "Dm to order at Instagram- &#10;https://instagram.com/clay_studio9/&#10;gmail- aariclaystudio9@gmail.com&#10;Facebook -&#10;https://www.facebook.com/profile.php?id=100080474813"
     channeltitle "claystudio9"
     channelid "UC3T68Rwlpn6ApBfv8tvPVYg"
@@ -8605,7 +8605,7 @@ graph
     commentcount 1
     duration "PT11S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -8613,7 +8613,7 @@ graph
     label "uNfr_2ZN_R8"
     step 0
     date "2022-07-10T14:53:42Z"
-    title "Vintage Carolee Gripoix Style White Pearl Cabochon&#65532; Glass Gold Dangle Earrings"
+    title "Vintage Carolee Gripoix Style White Pearl Cabochon Glass Gold Dangle Earrings"
     description "Vintage Carolee Gripoix Style White Pearl Cabochon Glass Gold Dangle Earrings&#10;&#10;https://www.ebay.com/itm/234619192040?mkcid=16&#38;mkevt=1&#38;mkrid=711-127632-2357-0&#38;ssspo=X0QVxqlCQZe&#38;sssrc=2349624&#38;ssuid=X0QVxqlCQZe&#38;var=&#38;widget_ver=artemis&#38;media=COPY&#10;&#10;Carolee&#10;&#10;Signed&#10;&#10;Gold Tone&#10;&#10;Faux White Pearl&#10;&#10;Excellent&#10;&#10;Pierced post earrings&#10;&#10;Approx 1 3/4in Length&#10;&#10;3/8 in width&#10;&#10;&#10;&#10;&#10;Free gift box included&#10;&#10;Free shipping /USA&#10;&#10;Free shipping insurance"
     channeltitle "Cynthia Zamora"
     channelid "UCCTTPVtyAZqFiU5EZLTaiCg"

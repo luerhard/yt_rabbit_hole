@@ -1,5 +1,7 @@
 library('dplyr')
 library('igraph')
+library('textclean')
+
 
 ## FUNCTIONS ----
 
@@ -50,14 +52,11 @@ get_network_metadata <- function(g, networkName=NA){
 }
 
 clean_titles <- function(g){
-  text <- V(g)$title
-  docs <- Corpus(VectorSource(text))
-  docs <- docs %>%
-    tm_map(removeNumbers) %>%
-    tm_map(removePunctuation) %>%
-    tm_map(stripWhitespace)
-  docs <- tm_map(docs, content_transformer(tolower))
-  docs <- tm_map(docs, removeWords, stopwords("english"))
+  V(g)$title <- replace_url(V(g)$title)
+  V(g)$title <- replace_white(V(g)$title)
+  V(g)$title <- gsub("&.*;", "", V(g)$title) # removing emoji
+  V(g)$title <- replace_emoticon(V(g)$title)
+  return(g)
 }
 
 community_detect_and_select <- function(g){
@@ -85,6 +84,7 @@ for(i in network_files) {
   g <- read_graph(paste0("../data/interim/networks/",i), format = "gml")
   g <- clean_network(g)
   md <- rbind(md,get_network_metadata(g, substr(i,1,nchar(i)-4)))
+  g <- clean_titles(g)
   g <- community_detect_and_select(g)
   write_graph(g, file=paste0('../data/clean/networks/',i), format = "gml")
 }
@@ -95,30 +95,5 @@ write.csv(md, file='../data/clean/metadata/metadata_networks.csv', row.names = F
 
 
 
-
-
-
-
-# sandbox
-
-tm_map(V(g)$title, removeWords, stopwords("english"))
-gsub("[^\x01-\x7F]", "", V(g)$title)[529]
-V(g)$title[529]
-
-
-
-library('textclean')
-x <- V(g)$title
-Encoding(x) <- "latin1"
-x <- as.factor(x)
-# transformations
-x <- replace_emoticon(x)
-x <- replace_emoji(x)
-replace_number(x)
-check_text(x)
-
-x <- replace_url(x)
-x <- replace_white(x)
-x <- replace_emoticon(x)
 
 
