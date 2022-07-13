@@ -12,7 +12,7 @@ library(readr)
 library(stringr)
 
 
-my_path <- "..\\yt"
+my_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
 response_path <- paste0(my_path, "/responses/")
 
 

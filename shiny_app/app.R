@@ -1,22 +1,29 @@
+##Load RDS file
+# data <- readRDS("C:/Users/lamba/Dropbox/SICSS Group Project Data/JournalCodeR/clean_for_app_full.RDS")
+#data
+######################################################
 ## Load required packages
 
 library(tidyverse)
 library(shiny)
 library(shinyjs)
 library(digest)
-
+library(igraph)
 
 ######################################################
 ## Set file paths **EACH USER SHOULD UPDATE**
 
 # *Update with your source path to the app folder*
-app_path <- "..\\yt"
+app_path <- "C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt"
 
 # Responses path (no need to change)
 responses_path <- file.path(app_path, "responses/")
 
 # Data file to pull abstracts from
-input_file <- "sample.rds"
+g <-  read_graph('C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt\\filter_bubbles.gml', format = "gml")
+input_file <- as_data_frame(g,"vertices")
+input_file <- input_file %>%
+  mutate(url = paste0("https://www.youtube.com/watch?v=", label))
 
 ######################################################
 ## Define save and load functions
@@ -137,7 +144,7 @@ fields <- c("name", "micro", "topic")
 server <- function(input, output, session) {
   
   # Call data to code ------------------------------------------
-  dataset <- readRDS(file.path(app_path, input_file))
+  dataset <- input_file
   
   
   
@@ -212,3 +219,4 @@ server <- function(input, output, session) {
 ###################################################
 ## Run the app
 shinyApp(ui, server)
+
