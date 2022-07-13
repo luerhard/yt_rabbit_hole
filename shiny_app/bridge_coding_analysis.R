@@ -20,8 +20,13 @@ response_path <- paste0(my_path, "/responses/")
 # Data Import and Merge ###############################################
 
 ## Get original and auto abstract files
-data <- readRDS(paste0(my_path, "/sample.rds"))
-
+g <-  read_graph('C:\\Users\\Harkirat Singh Lamba\\Desktop\\yt\\filter_bubbles.gml', format = "gml")
+data <- as_data_frame(g,"vertices")
+data <- input_file %>%
+  mutate(
+    url = paste0("https://www.youtube.com/watch?v=", label),
+    s.no. = label
+  )
 
 
 # Compile Responses ###########################################################
