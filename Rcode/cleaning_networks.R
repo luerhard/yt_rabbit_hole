@@ -30,7 +30,7 @@ get_network_metadata <- function(g, networkName=NA){
     name = networkName,
     size_clean = length(V(g)),
     num_components = components$no,
-    size_largest_component = components$csize[1],
+    size_largest_component = components$csize[which.max(components$csize)],
     isolates = sum(components$csize[components$csize==1])
   )
   
@@ -79,3 +79,5 @@ for(i in network_files) {
 }
 
 ## SAVE METADATA
+
+write.csv(md, file='../data/clean/metadata/metadata_networks.csv', row.names = F)
