@@ -28,6 +28,10 @@ input_file <- as_data_frame(g,"vertices")
 
 sample_ids <- read.csv(here("data/clean/label sample/label_ids.csv"))
 
+sample_ids <- sample_ids %>%
+  group_by(name) %>%
+  slice_head(n = 50)
+
 input_file <- input_file %>%
   mutate(
     s.no. = label,
