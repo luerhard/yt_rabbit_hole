@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 12:39:17 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 15:27:47 2022"
 Version 1
 graph
 [
@@ -6,24 +6,7 @@ graph
   node
   [
     id 0
-    label "EeFg31H48VE"
-    step 0
-    date "2022-07-07T12:02:36Z"
-    title " ON OPENSEA MARKETPLACE"
-    description "&#9989; NFT Gifts collection - https://opensea.io/collection/gameonesummer&#10;&#128071; how to + many profitable links below in the description &#128071;&#10;&#128142;AND +$20  for registration and first deposit (*NO KYC*) + Trade 20 usdt - &#10;https://www.zoomex.com/en-US/invite?ref=M9W32A&#10;&#10;&#9888;&#65039;Must watch videos about Metamask: https://www.youtube.com/channel/UC5UvfUdmK5VKOlJgvvEvEhw/search?query=metamask&#10;&#10;&#10084;&#65039; REFERRAL LINKS WITH BONUSES ON EXCHANGES &#10084;&#65039;&#10;(Cash bonuses at the start and lifetime discounts on exchange commissions)&#10;&#10;&#11088;&#65039;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#10;&#10084;&#65039; TOP EXCHANGE! WHERE YOU CAN BUY TOKENS FIRST! &#10084;&#65039;&#10;&#10;&#11088;&#65039;&#11088;&#65039; ByBit (here we trade futures) - https://www.bybit.com/ru-RU/invite?ref=OWVEL&#10;&#11088;&#65039; MEXC - https://m.mexc.com/auth/signup?inviteCode=19et9&#10;&#11088;&#65039; Gateio - https://www.gate.io/signup/5794505&#10;&#11088;&#65039; Kukoin - https://www.kucoin.com/ucenter/signup?rcode=r3VSB4J&#10;&#11088;&#65039; Okex - https://www.okex.com/join/7428579&#10;&#11088;&#65039; Huobi - https://www.huobi.com/ru-ru/topic/double-reward/?invite_code=hin33223&#10;&#11088;&#65039; Binance - https://www.binance.com/en/register?ref=BF20KIBE&#10;&#11088;&#65039; Binance Futures - https://www.binance.com/en/futures/ref?code=nazare&#10;&#10;&#11088;&#65039; Hotbit - https://www.hotbit.io/register?ref=3030070&#10;&#11088;&#65039; YoBit - https://yobit.net/?bonus=PnOCc&#10;&#11088;&#65039; Deepcoin - https://s.deepcoin.info/s8cmit5&#10;&#11088;&#65039; LBank  -  https://www.lbank.info/invitevip?icode=1DEQD&#38;lange=en-US&#10;&#11088;&#65039; FTX - https://ftx.com/referrals#a=skidka40&#10;&#11088;&#65039; FTXUS - https://ftx.us/#a=9941897&#10;&#11088;&#65039; Coinbase - https://www.coinbase.com/join/kabano_06&#10;&#11088;&#65039; &#1057;oinlist - https://coinlist.co/clt?referral_code=MTEQRK&#10;&#11088;&#65039; Currency - https://currency.com/trading/signup?c=6fyfuxwj&#38;pid=referral&#10;&#11088;&#65039; Phemex - https://phemex.com/en/register?group=1358&#38;referralCode=DKWI23&#10;&#11088;&#65039; StormGain - https://go.stormgain.app/visit/?bta=100105&#38;nci=13137&#38;afp=nazarecrypto&#10;&#11088;&#65039; Nominex - https://nominex.io/ru/signup/?r=73882&#10;&#11088;&#65039; Poloniex - https://poloniex.com/signup?c=6M59WYX9&#10;&#11088;&#65039; Crex24 - https://crex24.com/?refid=v51td65sopdnkbri1oci&#10;&#11088;&#65039; Exmo - https://exmo.me/?ref=678952&#10;&#11088;&#65039; Okcoin - https://www.okcoin.com/join?channelId=600098152&#10;&#11088;&#65039; Payer - https://payeer.com/05863149&#10;&#10;&#10084;&#65039; WALLETS &#10084;&#65039;&#10;&#10;&#11088;&#65039; Metamask wallet - https://metamask.io&#10;&#11088;&#65039; Phantom Wallet - https://phantom.app&#10;&#11088;&#65039; TON Wallet - https://ton.app/wallets&#10;&#11088;&#65039; WAX Wallet - https://wallet.wax.io&#10;&#11088;&#65039; Enjin wallet - https://enjin.io/products/wallet&#10;&#11088;&#65039; Tronlink Wallet - https://www.tronlink.org&#10;&#11088;&#65039; Polkadot Wallet - https://polkadot.js.org/extension/&#10;&#11088;&#65039; Resource with adding networks to Metamask - https://chainlist.org&#10;&#10;&#10084;&#65039; MY MOST IMPORTANT VIDEOS! RECOMMEND &#10084;&#65039;&#10;&#10;&#11088;&#65039; METAMASK BLOCK - WHAT YOU NEED TO DO IN ADVANCE! - https://youtu.be/Qi6MPOIwFx0&#10;&#11088;&#65039; YOU NEED TO KNOW BEFORE YOU START USING THE METAMASK - https://youtu.be/XXBxoSbz_DQ&#10;&#10;&#10084;&#65039; BEST DEX &#10084;&#65039;&#10;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#11088;&#65039; 1inch - DEX exchange/exchanger for BSC/ETH/MATIC - 1inch - https://app.1inch.io/#/r/0x58c5d0f3b1621b68a79af1446ad2ebea469aa0af&#10;&#11088;&#65039; MenFi - DEX on Solana - https://app.meanfi.com/?ref=HKfj4Rzef8pw16kvAyuptNSJEFAnokDngD6K72XcHUBW&#10;&#10;NFT, nft, NFTS, nfts, nft games, nft game, nft games 2022, nft 2022, nft giveaways, nft ruffle, nft earning, best nfts, top nft, nft whitelist, premint, premint nft, nft premint, nft crypto, non fungible token, nft non fungible token, hft what is it, nft maual, nft how to, opensea, nft opensea, nft token, nft tokens, opensea marketplace, bybit, opensea nft marketplace,  nft on opensea, nft game one summer, game one summer nft, game one summer, game one summer opensea&#10;&#10;#NFT #nft #NFTS #nfts #nftgames #nftgame #nftgames2022 #nft2022 #nftgiveaways #nftruffle #nftearning #bestnfts #topnft #nftwhitelist #premint #premintnft #nftpremint #nftcrypto #nonfungibletoken #nftnonfungibletoken #hftwhatisit #nftmaual #nfthowto #opensea #nftopensea #nfttoken #nfttokens #openseamarketplace #bybit #openseanftmarketplace #nftonopensea #nftgameonesummer #gameonesummernft #gameonesummer #gameonesummeropensea"
-    channeltitle "NazareCrypto - Crypto, Play To Earn, NFT Games"
-    channelid "UC5UvfUdmK5VKOlJgvvEvEhw"
-    favcount 0
-    viewcount 4179
-    likecount 90
-    commentcount 110
-    duration "PT4M8S"
-    indegree 2
-    cluster 1
-  ]
-  node
-  [
-    id 1
+    name "1"
     label "Vdk1cLX8Nn8"
     step 0
     date "2022-06-30T10:42:01Z"
@@ -37,11 +20,21 @@ graph
     commentcount 96
     duration "PT5M35S"
     indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 2
+    id 1
+    name "2"
     label "Oz9zw7-_vhM"
     step 0
     date "2021-04-27T11:36:12Z"
@@ -55,11 +48,21 @@ graph
     commentcount 26775
     duration "PT17M41S"
     indegree 85
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 3
+    id 2
+    name "3"
     label "YQ_xWvX1n9g"
     step 0
     date "2022-01-21T17:00:03Z"
@@ -73,11 +76,21 @@ graph
     commentcount 56090
     duration "PT2H18M23S"
     indegree 32
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 4
+    id 3
+    name "4"
     label "EJzB_Fa27ko"
     step 0
     date "2022-02-03T17:00:08Z"
@@ -91,11 +104,21 @@ graph
     commentcount 1125
     duration "PT11M27S"
     indegree 30
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 5
+    id 4
+    name "5"
     label "EjH9GslMCB4"
     step 0
     date "2022-03-30T20:21:21Z"
@@ -109,11 +132,21 @@ graph
     commentcount 1021
     duration "PT13M43S"
     indegree 67
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 6
+    id 5
+    name "6"
     label "mGlfFjcZFRE"
     step 0
     date "2022-05-02T16:00:19Z"
@@ -127,11 +160,21 @@ graph
     commentcount 1369
     duration "PT24M14S"
     indegree 3
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 7
+    id 6
+    name "7"
     label "XFfzjWCO-SU"
     step 0
     date "2021-11-29T14:00:30Z"
@@ -145,11 +188,21 @@ graph
     commentcount 5890
     duration "PT34M22S"
     indegree 68
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 8
+    id 7
+    name "8"
     label "4dkl5O9LOKg"
     step 0
     date "2021-03-20T02:13:11Z"
@@ -163,11 +216,21 @@ graph
     commentcount 771
     duration "PT11M7S"
     indegree 13
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 9
+    id 8
+    name "9"
     label "IZaTd0hDtkI"
     step 0
     date "2022-04-27T16:00:01Z"
@@ -181,11 +244,21 @@ graph
     commentcount 6005
     duration "PT29M28S"
     indegree 36
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 10
+    id 9
+    name "10"
     label "0pWTRsztTtY"
     step 0
     date "2022-02-02T12:07:13Z"
@@ -199,11 +272,21 @@ graph
     commentcount 16129
     duration "PT17M7S"
     indegree 60
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 11
+    id 10
+    name "11"
     label "G7OWIorSgwU"
     step 0
     date "2022-02-10T14:00:06Z"
@@ -217,11 +300,21 @@ graph
     commentcount 1022
     duration "PT38M59S"
     indegree 14
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 12
+    id 11
+    name "12"
     label "mrNOYudaMAc"
     step 0
     date "2021-03-28T04:59:16Z"
@@ -235,11 +328,21 @@ graph
     commentcount 5346
     duration "PT3M25S"
     indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 13
+    id 12
+    name "13"
     label "Zmh_tJEpnh4"
     step 0
     date "2021-09-03T21:26:34Z"
@@ -253,11 +356,21 @@ graph
     commentcount 3728
     duration "PT10M41S"
     indegree 15
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 14
+    id 13
+    name "14"
     label "p_-gv1Om5Mk"
     step 0
     date "2021-12-29T21:00:30Z"
@@ -271,11 +384,21 @@ graph
     commentcount 6168
     duration "PT28M58S"
     indegree 53
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 15
+    id 14
+    name "15"
     label "Z0J2SePTdU4"
     step 0
     date "2022-06-27T00:00:08Z"
@@ -289,11 +412,21 @@ graph
     commentcount 6230
     duration "PT13M41S"
     indegree 17
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 16
+    id 15
+    name "16"
     label "HnA75TAD-No"
     step 0
     date "2022-02-07T14:15:03Z"
@@ -307,11 +440,21 @@ graph
     commentcount 1462
     duration "PT8M10S"
     indegree 52
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 17
+    id 16
+    name "17"
     label "L384Cd427yw"
     step 0
     date "2021-11-07T15:30:02Z"
@@ -325,11 +468,21 @@ graph
     commentcount 1185
     duration "PT14M3S"
     indegree 58
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 18
+    id 17
+    name "18"
     label "vG0wryKTEzI"
     step 0
     date "2022-06-26T16:38:37Z"
@@ -343,11 +496,21 @@ graph
     commentcount 734
     duration "PT8M15S"
     indegree 31
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 19
+    id 18
+    name "19"
     label "Axk2WtutbLA"
     step 0
     date "2022-01-18T20:00:02Z"
@@ -361,11 +524,21 @@ graph
     commentcount 644
     duration "PT12M12S"
     indegree 43
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 20
+    id 19
+    name "20"
     label "8St36RjHd2E"
     step 0
     date "2022-02-07T16:43:51Z"
@@ -379,11 +552,21 @@ graph
     commentcount 3127
     duration "PT1H5M27S"
     indegree 17
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 21
+    id 20
+    name "21"
     label "_V0-HGMB8SI"
     step 0
     date "2021-04-08T12:55:42Z"
@@ -397,11 +580,21 @@ graph
     commentcount 2870
     duration "PT9M11S"
     indegree 13
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 22
+    id 21
+    name "22"
     label "YBTdDfRmcrI"
     step 0
     date "2021-09-16T15:47:29Z"
@@ -415,11 +608,21 @@ graph
     commentcount 1511
     duration "PT29M5S"
     indegree 36
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 23
+    id 22
+    name "23"
     label "-IBEluAQgBQ"
     step 0
     date "2022-04-16T19:00:25Z"
@@ -433,11 +636,21 @@ graph
     commentcount 1740
     duration "PT9M5S"
     indegree 48
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 24
+    id 23
+    name "24"
     label "kzNfHalWGBk"
     step 0
     date "2021-06-09T18:05:51Z"
@@ -451,11 +664,21 @@ graph
     commentcount 572
     duration "PT43M2S"
     indegree 24
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 25
+    id 24
+    name "25"
     label "C6aeL83z_9Y"
     step 0
     date "2022-04-27T16:00:09Z"
@@ -469,11 +692,21 @@ graph
     commentcount 6963
     duration "PT46M28S"
     indegree 35
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 26
+    id 25
+    name "26"
     label "MT0je2KBNCo"
     step 0
     date "2022-07-05T17:17:53Z"
@@ -487,29 +720,49 @@ graph
     commentcount 2538
     duration "PT5M10S"
     indegree 12
-    cluster 1
-  ]
-  node
-  [
-    id 28
-    label "NNQLJcJEzv0"
-    step 0
-    date "2021-06-08T13:30:02Z"
-    title "NFT Explained In 5 Minutes | What Is NFT? - Non Fungible Token | NFT Crypto Explained | Simplilearn"
-    description "This video on &#34;What is NFT&#34; covers all the important concepts of NFTs like What are NFTs?, What are Non-Fungible Tokens, how do NFTs work, how are NFTs different from other cryptocurrencies working in the same Blockchain Technology, how NFT became so popular and what future NFTs hold for the world's economic system. &#10;&#10;Don't forget to take the quiz at 03:47!&#10;&#10;00:00 What are NFTs?&#10;01:39 How do NFTs work?&#10;02:09 How are NFTs different from other cryptocurrencies like Ethereum and Bitcoin?&#10;03:05 How did NFTs become so popular?&#10;04:05 Future of NFTs&#10;&#10;&#128293;Enrol for Free Blockchain Course &#38; Get Your Completion Certificate: https://www.simplilearn.com/learn-blockchain-basics-skillup?utm_campaign=NFTScribe&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;&#9989;Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH&#10;&#10;&#9193; Check out the Blockchain training videos: https://www.youtube.com/watch?v=yubzJw0uiE4&#38;list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB&#10;&#10;#NFT #WhatIsNFT #NFTExplained #NFTCryptoExplained #NFTCryptoForBeginners #NonFungibleTokens #WhatAreNonFungibleTokens  #NonFungibleTokensExplained #NonFungibleTokensExplainedSimply #NFTExplanation #Simplilearn&#10;&#10;What is NFT? - Non-Fungible Token&#10;NFTs turn your digital assets into &#34;&#34;one of a kind&#34;&#34; by creating a unique digital signature that defines the ownership of your assets and that can be bought and sold for real money, cryptocurrency or any other asset like a &#34;&#34;non-fungible token&#34;&#34; aka NFT. &#10;&#10;NFT basically creates a blockchain-based digital certificate for your digital collectables, including games, music, art, and many more. This certificate gives your artwork a unique identity. The Underlying technology and the programming language used by NFTs are the same as other cryptocurrencies ie. Blockchain and the programming language Ethash or Scrypt. On the other hand, NFT is a unique token; therefore, if you try to trade it, you may end up with something completely different in your hands. Cryptopunks is a remarkable example of NFT, it enables you to buy, sell and store 10,000 collectables with the proof-of-ownership being stored on the Ethereum Blockchain.&#10;&#10;NFT has proved itself to be a boon in the lives of many others  - like Jack Dorsey, the CEO and co-founder of Twitter with his very first and famous tweet, &#34;just setting up my twitter,&#34; and Vignesh Sundaresan, famously known as &#34;Metakovan,&#34; who bought 69.3 million dollars worth of NFT art on Beeple. Owing to its increasing popularity, people are now willing to pay hundreds of thousands of dollars for NFTs.&#10;&#10;NFT has enhanced media exposure and special perks for aspiring artists on social media. This popularity of NFT creates new opportunities for new art platforms, motivating people to buy art from internet platforms and promoting copyright or originality of digital assets. Many experts in the crypto industry say that around 40% of new crypto users will use NFTs as their entry point. As a result of its growing popularity, NFT could represent a more significant part of the digital economy in the future.&#10;&#10;To know about cryptocurrency and Blockchain, visit: https://www.simplilearn.com/blockchain-certification-training-course?utm_campaign=NFTScribe&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;About Simplilearn Blockchain Certification Training:&#10;Simplilearn&#8217;s Blockchain Certification Training has been designed for developers who want to decipher the global craze surrounding Blockchain, Bitcoin and cryptocurrencies. &#10;&#10;Why learn Blockchain? &#10;Blockchain technology is the brainchild of Satoshi Nakamoto, which enables digital information to be distributed. A network of computing nodes makes up the Blockchain. Durability, robustness, success rate, transparency, incorruptibility are some of the enticing characteristics of Blockchain. Many new business applications will result in the usage of Blockchain such as Crowdfunding, smart contracts, supply chain auditing, Internet of Things(IoT), etc.&#10;&#10;&#128293;Enroll for Free Blockchain Course &#38; Get Your Completion Certificate: https://www.simplilearn.com/learn-blockchain-basics-skillup?utm_campaign=NFTScribe&#38;utm_medium=Description&#38;utm_source=youtube&#10;&#10;For more updates on courses and tips follow us on:&#10;- Facebook: https://www.facebook.com/Simplilearn &#10;- Twitter: https://twitter.com/simplilearn &#10;- LinkedIn: https://www.linkedin.com/company/simplilearn/&#10;- Website: https://www.simplilearn.com &#10;- Instagram: https://www.instagram.com/simplilearn_elearning&#10;- Telegram Mobile: https://t.me/simplilearnupdates&#10;- Telegram Desktop: https://web.telegram.org/#/im?p=@simplilearnupdates&#10;&#10;Get the Simplilearn app: https://simpli.app.link/OlbFAhqMqgb"
-    channeltitle "Simplilearn"
-    channelid "UCsvqVGtbbyHaMoevxPAq9Fg"
-    favcount 0
-    viewcount 1221372
-    likecount 26815
-    commentcount 1791
-    duration "PT4M51S"
-    indegree 51
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 29
+    id 26
+    name "27"
+    label "9QWD59PUt0k"
+    step 0
+    date "2022-07-11T14:00:12Z"
+    title "Kaitlyn  - N.F.T. Official MV"
+    description "Kaitlyn &#26519;&#21531;&#34030; - N.F.T.&#10;&#10;&#20316;&#26354;&#65306;Kaitlyn &#26519;&#21531;&#34030;&#10;&#22635;&#35422;&#65306;Kaitlyn &#26519;&#21531;&#34030;&#10;&#32232;&#26354;&#65306;Johnny Yim&#10;&#30435;&#35069;&#65306;Johnny Yim&#10;&#10;&#20320;&#22909; &#38476;&#29983;&#20154;&#10;&#30475;&#35211;&#20320;&#21448;&#20877;&#21152;&#29677;&#21448;&#20877;&#21448;&#20877;&#21448;&#20877;&#21152;&#29677;&#10;&#20320;&#22909; &#24215;&#32887;&#21729;&#10;&#30475;&#35211;&#20320;&#21448;&#22312;&#25171;&#24037; &#20570;&#22050;&#20570;&#21040;&#21322;&#22812;&#19977;&#26356;&#10;&#10;&#26576;&#22825;&#36215;&#30340;&#25105;&#30332;&#29694; &#36889;&#20123;&#26223;&#35937;&#27794;&#20986;&#29694;&#10;&#36889;&#20123; &#32048;&#23567;&#25913;&#35722; &#20854;&#23526;&#26371;&#20196;&#25105;&#24863;&#35258;&#24618;&#30064;&#10;&#10;&#28472;&#28472;&#26178;&#20809;&#27969;&#36893; &#20687;&#26159;&#27794;&#38364;&#20418;&#10;&#20294;&#24120;&#24120;&#25499;&#24565; &#33290;&#26085;&#19968;&#20999;&#10;&#22312;&#23416;&#26657;&#32624;&#25220; &#37912;&#32882;&#38911;&#21363;&#36305; &#36889; &#32722;&#24931;&#10;&#38627;&#23616;&#21069;&#30340;&#24180;&#20195; &#27171;&#27171;&#27794;&#38459;&#31001;&#10;&#24478;&#20358;&#28961;&#36889;&#35722;&#25913;&#10;&#24590;&#21487;&#33021; &#32722;&#24931;&#10;&#10;&#20320;&#22909; &#22823;&#21830;&#22580;&#10;&#30475;&#35211;&#20320;&#27794;&#26377;&#20241;&#24687; &#26085;&#35041;&#22812;&#35041;&#30059;&#28415;&#29128;&#39166;&#10;&#20320;&#22909; &#38620;&#26524;&#33590;&#10;&#30475;&#35211;&#20320;&#32768;&#30524;&#32381;&#32027; &#20196;&#25105;&#21619;&#35258;&#24187;&#35722;&#19971;&#33394;&#10;&#10;&#26576;&#22825;&#36215;&#30340;&#25105;&#30332;&#29694; &#36889;&#20123;&#26223;&#35937;&#27794;&#20986;&#29694;&#10;&#28961;&#22856; &#24050;&#32147;&#25913;&#35722; &#36889;&#19990;&#32000; &#38627;&#36947;&#35201;&#25918;&#19979;&#25499;&#24565;&#10;&#10;&#28472;&#28472;&#26178;&#20809;&#27969;&#36893; &#20687;&#26159;&#27794;&#38364;&#20418;&#10;&#20294;&#24120;&#24120;&#25499;&#24565; &#33290;&#26085;&#19968;&#20999;&#10;&#22312;&#25142;&#22806;&#36938;&#36208; &#25918;&#20551;&#22022;&#21860;&#37202; &#36889; &#32722;&#24931;&#10;Oh &#38627;&#23616;&#21069;&#30340;&#20659;&#32113; &#32858;&#26371;&#26997;&#36629;&#39686;&#10;&#24120;&#24120;&#33021;&#22810;&#28317;&#36890;&#10;&#36889;&#36942;&#26178; &#32722;&#24931;&#10;&#10;&#33290;&#26085;&#26399;&#30460;&#36935;&#35211;&#30340;&#29309;&#25499; &#24930;&#24930;&#20840;&#37096;&#37117;&#28040;&#22833;&#10;&#21097;&#19979;&#27794;&#32882;&#38899;&#30340;&#35498;&#35441; &#28961;&#36774;&#27861;&#20998;&#20986;&#30495;&#20551;&#10;&#10;&#28472;&#28472;&#26178;&#20809;&#27969;&#36893; &#20687;&#26159;&#27794;&#38364;&#20418;&#10;&#20294;&#29694;&#23526;&#25913;&#35722; &#33290;&#26085;&#19968;&#20999;&#10;&#20570;&#36939;&#21205;&#28216;&#27700; &#26377;&#27966;&#23565;&#21363;&#21435; &#36889; &#32722;&#24931;&#10;Oh&#38627;&#23616;&#21069;&#30340;&#26178;&#20195; &#27171;&#27171;&#27794;&#38459;&#31001;&#10;&#24478;&#20358;&#28961;&#36889;&#35722;&#25913;&#10;&#25913;&#35722;&#25104; &#32722;&#24931;&#10;&#10;&#20320;&#22909; &#36889;&#23478;&#20154;&#10;&#30475;&#35211;&#20320;&#21448;&#20877;&#29309;&#25163;&#21448;&#20877;&#21448;&#20877;&#21448;&#20877;&#20998;&#25163;&#10;&#20320;&#22909; &#38476;&#29983;&#20154; &#21152;&#27833;&#10;&#10;IG @lklk.orange&#65306;&#10;https://www.instagram.com/lklk.orange/"
+    channeltitle "OrangeJuice.Daebak"
+    channelid "UCEyP5yesJWH7HmT9xrhd3qg"
+    favcount 0
+    viewcount 32294
+    likecount 3014
+    commentcount 764
+    duration "PT4M12S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 27
+    name "29"
     label "mIhpcH3-gHo"
     step 0
     date "2022-07-06T00:05:16Z"
@@ -523,11 +776,21 @@ graph
     commentcount 332
     duration "PT13M14S"
     indegree 15
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 30
+    id 28
+    name "30"
     label "p88wT0jYyt8"
     step 0
     date "2022-07-04T17:58:26Z"
@@ -541,11 +804,21 @@ graph
     commentcount 263
     duration "PT25M25S"
     indegree 14
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 31
+    id 29
+    name "31"
     label "_pqsfDCqUug"
     step 0
     date "2022-01-05T21:15:02Z"
@@ -559,11 +832,21 @@ graph
     commentcount 530
     duration "PT8M23S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 32
+    id 30
+    name "32"
     label "RX1BeDEcfaY"
     step 0
     date "2022-06-24T04:50:33Z"
@@ -577,11 +860,21 @@ graph
     commentcount 785
     duration "PT39M43S"
     indegree 17
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 33
+    id 31
+    name "33"
     label "4h2-KIQIOvU"
     step 0
     date "2022-06-29T18:57:09Z"
@@ -595,11 +888,21 @@ graph
     commentcount 462
     duration "PT34M19S"
     indegree 1
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 34
+    id 32
+    name "34"
     label "Fk8Skx4xUDo"
     step 0
     date "2022-03-07T15:06:26Z"
@@ -613,11 +916,21 @@ graph
     commentcount 180
     duration "PT9M11S"
     indegree 7
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 35
+    id 33
+    name "35"
     label "I3JF74EA7VI"
     step 0
     date "2022-05-05T09:23:38Z"
@@ -631,11 +944,21 @@ graph
     commentcount 160
     duration "PT7M20S"
     indegree 12
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 36
+    id 34
+    name "36"
     label "wDtt24RxdLk"
     step 0
     date "2022-01-06T21:11:49Z"
@@ -649,29 +972,49 @@ graph
     commentcount 8438
     duration "PT18M"
     indegree 32
-    cluster 3
-  ]
-  node
-  [
-    id 38
-    label "T5x7lyWPnX8"
-    step 0
-    date "2021-05-08T17:31:47Z"
-    title "Reggie Watts Explains NFTs to Joe"
-    description "Taken from JRE #1648 w/Reggie Watts:&#10;https://open.spotify.com/episode/4Ct5bhOwlhgMSP77rBupIH?si=gUOqyo8MSkyiLvNqyhJN5Q"
-    channeltitle "PowerfulJRE"
-    channelid "UCzQUP1qoWDoEbmsQxvdjxgQ"
-    favcount 0
-    viewcount 878293
-    likecount 11836
-    commentcount 2398
-    duration "PT6M28S"
-    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 39
+    id 35
+    name "37"
+    label "NQ14YZg7yUo"
+    step 0
+    date "2022-06-30T20:00:42Z"
+    title "Tempo - NFT [Official Video]"
+    description "Tempo - NFT [Official Video]&#13;&#10;Suscr&#237;bete: http://primo.vi/YouTubeTempo&#13;&#10;&#13;&#10;&#127925; Stream/Download Back To The Game &#11015;&#65039;&#13;&#10;Amazon : https://amzn.to/2GRdQSu&#13;&#10;iTunes: http://primo.vi//TNO6oC&#13;&#10;Apple Music: http://primo.vi/A9lVdL&#13;&#10;Spotify: http://primo.vi/pZQIIm&#13;&#10;Deezer: http://primo.vi/OOBCg7&#13;&#10;Google Play: http://primo.vi/nOReXM&#13;&#10;&#13;&#10;Playlists by Tempo: &#13;&#10;&#10148; Back To The Game: http://primo.vi/6TRBNW&#13;&#10;&#10148; Corito Sano: http://primo.vi/oCoVlv&#13;&#10;&#10148; Official VIdeos: http://primo.vi/mL9EUm&#13;&#10;&#13;&#10;Otros Exitos de Tempo:&#13;&#10;&#128176; Corito Sano(Remix) - http://primo.vi/dAIQO3&#13;&#10;&#128719;&#65039; Cama Vacia | https://primo.vi/1SExvTwfuMQ&#13;&#10;&#128184; Corito Sano | http://primo.vi/G1O9DW&#13;&#10;&#129313; El Bruto - http://primo.vi/LZWY1T&#13;&#10;&#128739;&#65039; Calle Sin Salida - http://primo.vi/Q04MuZ&#13;&#10;&#128591; No Hay Perd&#243;n| http://primo.vi/IF7vsT&#13;&#10;&#13;&#10;Redes Sociales:&#13;&#10;https://www.facebook.com/elrealtempo&#13;&#10;https://twitter.com/yosoytempo&#13;&#10;https://www.instagram.com/elrealtempo&#13;&#10;&#13;&#10;Disfruta de la mejor m&#250;sica latina con las playlists de VidaPrimo en Spotify hechas especialmente para ti. &#13;&#10;Latin Hits: http://primo.vi/HitsVidaPrimo&#13;&#10;+ Reggaet&#243;n: http://primo.vi/ReggaetonVidaPrimo&#13;&#10;+ Trap Latino: http://primo.vi/TrapLatinoVidaPrimo&#13;&#10;&#13;&#10;#tempo  #nft  #hiphop"
+    channeltitle "Tempo"
+    channelid "UC0SYAB5AaDMeEQs11FbVzUA"
+    favcount 0
+    viewcount 1147378
+    likecount 53099
+    commentcount 10290
+    duration "PT7M6S"
+    indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 36
+    name "39"
     label "q_XhJ180Etc"
     step 0
     date "2022-02-05T21:17:18Z"
@@ -685,47 +1028,77 @@ graph
     commentcount 4746
     duration "PT19M58S"
     indegree 11
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 41
-    label "dLYPcn1FVtU"
+    id 37
+    name "40"
+    label "VVhCcgnqmwM"
     step 0
-    date "2022-07-10T17:00:18Z"
-    title "Why Celebrity NFT Projects Fail EVERYTIME (Web3 Go-to-Market Strategy)"
-    description "Join The NFT Academy to Learn web3 Go-to-Market Strategies - https://opensea.io/collection/nftacademy&#10;&#10;My Previous NFT Building Videos - https://www.youtube.com/watch?v=kHRplxgywVw&#38;list=PLMIm7-bP_hbP4eR54GSpt0y2IWgthG8tT&#10;&#10;Step by Step NFT Agency Training - https://www.youtube.com/watch?v=m-h5t6BUsCg&#10;&#10;Follow Me on Instagram - https://www.instagram.com/thebrettway.eth/&#10;&#10;My Previous Videos on NFT Business Ideas:&#10;&#10;How to Find Smart Contract Developers - https://www.youtube.com/watch?v=IyGEeYCYeQY&#38;t=157s&#10;&#10;Why You should start an NFT Business Right now - https://www.youtube.com/watch?v=gJxdfCSx0nQ&#38;t=1s&#10;&#10;The 7 Best NFT Skills to Build - https://www.youtube.com/watch?v=sRYuE5GtAw4&#10;&#10;The Biggest opportunity right now - https://www.youtube.com/watch?v=XoM7PhgqkUA&#38;t=267s&#10;&#10;Follow Me on Twitter for live NFT updates: https://twitter.com/thebrettway&#10;&#10;WGMI Media&#10;Website (Access Exclusive Content Here): https://wgmimedia.com/&#10;Opensea: https://opensea.io/collection/wgmi-studios-genesis&#10;YouTube Channel: https://www.youtube.com/channel/UCww6v5xagsPkNNOUD-lC7Pw&#10;Discord: https://discord.gg/uF75EAwR5K&#10;&#10;NFT Academy (Learn How to Build NFT Projects) &#10;Opensea: https://opensea.io/collection/nftacademy&#10;Twitter: https://twitter.com/TheNFT_Academy&#10;Discord: https://discord.gg/TuhATHubkX&#10;Website (Access Exclusive Content Here): https://www.thenftacademy.com/&#10;&#10;Magic Mushroom Clubhouse (Our NFT Project)&#10;Opensea: https://opensea.io/collection/magic-mushroom-clubhouse&#10;Discord: https://discord.gg/GYEJ9AEqEK&#10;Twitter: https://twitter.com/MushroomClubNFT&#10;OpenSea (Ancient Mushroom Collection): https://opensea.io/collection/ancient-shrooms&#10;OpenSea (Shroom Scouts Badges Collection): https://opensea.io/collection/shroom-scouts-badge&#10;Marketplace: mmcmarketplace.io&#10;&#10;Listen to our Podcast&#10;YouTube Podcast: https://www.youtube.com/channel/UCT5Ngyl-hF11-1v5HRDt43g&#10;Apple Podcast: https://podcasts.apple.com/us/podcast/wgmi-podcast/id1607695234&#10;Spotify Podcast: https://open.spotify.com/show/0R8fi1U6go5WXA9EAYe7bF&#10;&#10;My FREE Lighting Course https://www.udemy.com/course/webcam-lighting-secrets-how-to-light-your-streaming-setup/learn/lecture/27975622#overview&#10; &#10;Video Equipment &#10;Camera: https://amzn.to/3CW1SRc &#10;Camera Lens: https://amzn.to/3mest5h &#10;Camera Battery: https://amzn.to/3FavmN0 &#10;CamLink: (To use DSLR as Webcam) https://amzn.to/2YiOibT&#10;HDMI 2:1 Cord: https://www.amazon.com/gp/product/B08M9HND4F/ref=as_li_tl?ie=UTF8&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B08M9HND4F&#38;linkCode=as2&#38;tag=onemind04-20&#38;linkId=e451770f217ef0edb142e1ee198f9345&#10;Key Light:  https://www.amazon.com/gp/product/B07GSYP5XB/ref=as_li_tl?ie=UTF8&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B07GSYP5XB&#38;linkCode=as2&#38;tag=onemind04-20&#38;linkId=065ebca404010eaaee10ffa5bffbc00d&#10;Key Light Softbox: https://amzn.to/39RrphY&#10;Light Stand: https://amzn.to/2YeQJMK&#10;Backlight: (My Favorite Light) https://amzn.to/3zYPBtB&#10;Microphone: https://amzn.to/2WuBKgT&#10;Mic Stand: (Desk) https://amzn.to/2ZO116Y&#10;Broadcasting: (Screen Record W/ Camera) https://obsproject.com/"
-    channeltitle "Brett Malinowski"
-    channelid "UCsg20ERGZt9eHVZRXROJSqg"
+    date "2022-01-20T22:05:20Z"
+    title "SML Movie: Codys NFT!"
+    description "Cody buys an NFT and no one understands why he would do that.&#10;http://www.smlmerch.com"
+    channeltitle "SML"
+    channelid "UCnSWkrRWNQWNhDusoWr_HXQ"
     favcount 0
-    viewcount 4100
-    likecount 251
-    commentcount 169
-    duration "PT28M24S"
+    viewcount 8111290
+    likecount 137244
+    commentcount 15425
+    duration "PT11M5S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 43
-    label "qHcXkb7NDno"
+    id 38
+    name "42"
+    label "0gbP5L8879k"
     step 0
-    date "2021-12-15T23:00:22Z"
-    title "How to make NFTs in 8 minutes! (Easy Method)"
-    description "Learn what NFTs are and how to make them in less than 8 minutes!&#10;&#128176; Get $10 in Free Bitcoin with Coinbase: https://www.coinbase.com/join/straub_f9l&#10;Download the script: https://github.com/mechanicious/photoshopCompositionComposer&#10;Support me on Patreon: https://www.patreon.com/alexanderstraub&#10;My own NFTs: https://opensea.io/collection/happy-nft-faces&#10;&#10;*Where I get my Music: http://share.epidemicsound.com/pbVLR&#10;&#10;A couple of months back I&#8217;ve heard about NFT&#8217;s and I was absolutely stunned by the thought that people make insane money with little digital artworks.&#10;&#10;The short form NFT stands for Non-fungible token. &#10;Alright nice but what does that actually mean.&#10;&#8222;Non fungible&#8220;  basically means that it&#8217;s a unique piece of data, that can&#8217;t be replaced by something else. You can compare it to a one of a kind trading card. And the more rare a collection is, they more expensive those NFTs can get. Imagine you&#8217;d be the only one having a PSA 10 first edition Charizard. &#10;&#10;Ok so now that we know what they are, how are they actually made?&#10;As always there are lots of different ways to make an NFT but today I&#8217;ll show you step by step how to make your first NFT Collection in Photoshop and where to find great assets if you don&#8217;t really know how to draw or make illustrations yourself. &#10;&#10;Chapters: &#10;00:00 - 00:07 Intro&#10;00:08 - 00:25 First touch&#10;00:26 - 02:24 What are NFTs&#10;02:25 - 03:00 Structure of NFTs&#10;03:01 - 06:55 How to make NFTs&#10;06:57 - 07:44 Turn PNG into Vector&#10;07:45 - 08:10 Win 1 Etherium&#10;&#10;What I use to make my Videos:&#10;*Main Camera: https://bhpho.to/3FUna2Q&#10;*Secondary Camera: https://amzn.to/345Em8q&#10;*Lens: https://amzn.to/3gcqMmx&#10;*Mic: https://amzn.to/3H2FA2D&#10;*Audio Mixer: https://amzn.to/3fX3JvK&#10;*Computer: https://amzn.to/3qXSZ6q&#10;&#10;#Howto #MakeNFTs #Crypto"
-    channeltitle "Alexander"
-    channelid "UCeJ48is9W-JZHESHf4eI6fw"
+    date "2022-06-07T14:06:03Z"
+    title "ALL NEW *FREE NFT ITEM* UPDATE CODES in POP IT TRADING CODES! (Pop It Trading NFT Codes) ROBLOX"
+    description "ALL NEW *FREE NFT ITEM* UPDATE CODES in POP IT TRADING CODES! (Pop It Trading NFT Codes) ROBLOX ROBLOX In this pop it trading nft codes video I redeemed all of the new codes!&#10;&#10;I hope you enjoyed this video if you did SMASH that like button!&#10;Do NOT forget to turn on post notifications!&#10;Also SUBSCRIBE for more AMAZING content!&#10;&#10;&#9658;Play Roblox Here: http://www.roblox.com/&#10;&#9658;Roblox: https://www.roblox.com/users/1588579651/profile &#10024;&#10;&#9658;Roblox Group: https://www.roblox.com/groups/6139113/VexoYT#!/about&#10;&#10;What is ROBLOX? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It&#8217;s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX &#8212; interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything &#8212; be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer &#8220;Capture the Flag&#8221; game or some other, you to &#173;be&#173;dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX dollars (&#8220;ROBUX&#8221;). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms."
+    channeltitle "ItzVexo"
+    channelid "UCQzi4Q8AvCx2yV19ay0zRgQ"
     favcount 0
-    viewcount 549213
-    likecount 26593
-    commentcount 963
-    duration "PT8M10S"
-    indegree 46
-    cluster 4
+    viewcount 59532
+    likecount 1055
+    commentcount 139
+    duration "PT8M5S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 44
+    id 39
+    name "44"
     label "-o2xPaGiT7w"
     step 0
     date "2022-02-11T20:00:02Z"
@@ -739,11 +1112,21 @@ graph
     commentcount 14132
     duration "PT27M36S"
     indegree 15
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 45
+    id 40
+    name "45"
     label "tjvnxYoT5Tc"
     step 0
     date "2022-07-05T16:48:02Z"
@@ -757,11 +1140,21 @@ graph
     commentcount 210
     duration "PT16M1S"
     indegree 20
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 46
+    id 41
+    name "46"
     label "eDd8AxKZsNY"
     step 0
     date "2021-10-21T15:00:17Z"
@@ -775,11 +1168,21 @@ graph
     commentcount 2931
     duration "PT23M26S"
     indegree 6
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 47
+    id 42
+    name "47"
     label "_VfAU5I1oGw"
     step 0
     date "2022-03-05T19:30:01Z"
@@ -793,11 +1196,21 @@ graph
     commentcount 1348
     duration "PT22M28S"
     indegree 20
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 48
+    id 43
+    name "48"
     label "GpkXwiHa7Es"
     step 0
     date "2022-07-01T15:45:30Z"
@@ -811,11 +1224,21 @@ graph
     commentcount 348
     duration "PT23M"
     indegree 17
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 49
+    id 44
+    name "49"
     label "QPhFQhVymv4"
     step 0
     date "2022-05-06T16:33:08Z"
@@ -829,11 +1252,21 @@ graph
     commentcount 2181
     duration "PT17M7S"
     indegree 11
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 50
+    id 45
+    name "50"
     label "rDrppEZm6Gw"
     step 0
     date "2022-01-29T18:00:30Z"
@@ -847,11 +1280,21 @@ graph
     commentcount 8145
     duration "PT30M47S"
     indegree 8
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 51
+    id 46
+    name "51"
     label "EpNYn-l2ap8"
     step 0
     date "2022-06-15T14:18:44Z"
@@ -865,29 +1308,49 @@ graph
     commentcount 1393
     duration "PT7M5S"
     indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 47
+    name "52"
+    label "FzLwoDBQsUI"
+    step 0
+    date "2021-10-20T00:47:17Z"
+    title "I Built The Worlds Largest NFT!"
+    description "In this video I built the world's largest real life cryptopunk NFT for Faze Banks' birthday. His reaction was priceless so I hope you enjoy as much as he did!&#10;&#10;SUBSCRIBE for a NFT&#10;&#10;&#9658;  https://www.youtube.com/c/Mbeem10?sub_confirmation=1&#10;&#10;NEW VIDEOS EVERY TUESDAY!&#10;&#10;&#128241; FOLLOW MY SOCIALS &#128241;&#10;&#10173; Instagram - @Mbeem10&#10;&#10173; Twitter - @Mbeem10&#10;&#10173; SnapChat - @Mbeem10&#10;&#10173; TikTok - @Mbeem10&#10;&#10;I've always thought it was crazy that NFT's are so expensive when you can't even touch them so I decided to change that in this video. I built the world's first and largest real life NFT because something worth $2 million deserves to be enjoyed. Obviously, CryptoPunks have taken the world by storm so they were the perfect choice for this project, but which one to make? Well the most passionate CryptoPunk collector that I know is Faze Banks and it just so happened that his birthday was coming up. Win Win! While Faze Banks owns 9 different CryptoPunks, I decided to make a real life version of CryptoPunk 4283 because it's Banks'  profile picture. I made this in Colorado and shipped it halfway across the country to surprise Faze Banks for his birthday. His reaction was incredible. This was insane and super intense to make, but we had lots of laughs along the way. I love making these videos and can't wait for you to see what is next. &#10;&#10;If you&#8217;re reading this you&#8217;re a real one! &#10;&#10;Comment &#8216;&#8217;CryptoPunks to the Moon!&#34; so I can notice you!&#10;&#10;Not TFue, But Sneaker Shopping, But Gamestop, But Alissa Violet, But CryptoPunks, But NFT Wallet, But NFT Discord, But 100 Myths, But Squid Game, or any other video like MrBeast, Hyper, MoreJStu, Stokes Twins, Unspeakable, Dangie Bros, Ryan Prunty, Ben Azelart, Faze Rug, Faze Banks, Logan Paul, or GaryVee would make. This is a video where Matthew Beem build's the world's first and world's largest real life CryptoPunk NFT for Faze Clan founder and owner Faze Banks birthday!"
+    channeltitle "Matthew Beem"
+    channelid "UCR_J_SntqJh5eXw66d5hJxA"
+    favcount 0
+    viewcount 1303088
+    likecount 25991
+    commentcount 1063
+    duration "PT9M54S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 53
-    label "AxiI0vJPgUw"
-    step 0
-    date "2021-12-04T19:30:00Z"
-    title "What the HELL is Red Ape Family? (this NFT cartoon fills me with RAGE)"
-    description "Thanks to Keeps for sponsoring this video!&#10;Head to http://keeps.com/saberspark to get 50% off your first order of hair loss treatment&#10;&#10;Check out my plushie! &#10;https://www.makeship.com/products/saberspark-plush&#10;&#10;Saber 64 - https://www.youtube.com/channel/UC0yPWMDP3RK2Rpx2jz79_8g&#10;&#10;---Saber's Social Media---&#10;&#10;&#9658;Watch More of Saber's Reviews Here: https://tinyurl.com/y5e3ya5j&#10;&#9658;Follow Saber on Twitter: https://twitter.com/Saberspark&#10;&#9658;Follow Saber on Twitch - https://www.twitch.tv/saberspark_&#10;&#9658;Support Saber on Patreon: https://www.patreon.com/saberspark&#10;&#9658;Join and become a YouTube Member for exclusive perks: https://tinyurl.com/rbc4e9h&#10;&#10;---Video Credits---&#10;&#10;&#9658;Video Script and Research by Saberspark &#10;&#9658;Additional Script and Research Assistance by Tom Oliver&#10;https://twitter.com/TommyOliverSays&#10;&#9658;Video Edits and Thumbnail by Henri Yount&#10;https://twitter.com/BViddyCent&#10;&#9658;Audio Edits by dBPony&#10;https://www.youtube.com/user/dBPonyMusic&#10;&#9658;Intro Music/Outro Music by Hirosashii&#10;https://www.youtube.com/user/Hirosashii&#10;&#9658;Additional Avatar Pics by Flutter Spartan &#10;https://twitter.com/FlutterSpartan&#10;&#9658;Avatar Pics by Acid Neko&#10;https://twitter.com/xXacidnekoXx&#10;&#9658;Music by Home&#10;https://soundcloud.com/home-2001&#10;&#10;---Research Sources---&#10;https://docs.google.com/document/d/1NcnYXquEfiFsBwZw-qy6nz2HLHsBykEaSaMOYhZPvts/edit?usp=sharing&#10;&#10;---Art of the Week---&#10;&#10;&#9658;Art by Inky Artist&#10;https://twitter.com/InkyArtist3"
-    channeltitle "Saberspark"
-    channelid "UCeGGpOehPGG7vQMUVc7tG8Q"
-    favcount 0
-    viewcount 1383372
-    likecount 82400
-    commentcount 8478
-    duration "PT19M14S"
-    indegree 10
-    cluster 3
-  ]
-  node
-  [
-    id 54
+    id 48
+    name "54"
     label "ZBgEoxD2nEE"
     step 0
     date "2022-05-12T23:24:20Z"
@@ -901,11 +1364,21 @@ graph
     commentcount 422
     duration "PT12M12S"
     indegree 2
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 55
+    id 49
+    name "55"
     label "kbfz7gTaQvg"
     step 0
     date "2021-09-22T15:00:32Z"
@@ -919,11 +1392,21 @@ graph
     commentcount 437
     duration "PT16M40S"
     indegree 3
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 56
+    id 50
+    name "56"
     label "bBKUU2_0uh4"
     step 0
     date "2021-04-06T11:00:25Z"
@@ -937,11 +1420,21 @@ graph
     commentcount 6287
     duration "PT17M37S"
     indegree 48
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 57
+    id 51
+    name "57"
     label "NhHGcUaDKiA"
     step 0
     date "2022-05-04T12:33:50Z"
@@ -955,11 +1448,21 @@ graph
     commentcount 306
     duration "PT4M33S"
     indegree 1
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 58
+    id 52
+    name "58"
     label "sG_v4bb2e4k"
     step 0
     date "2022-02-04T18:00:33Z"
@@ -973,29 +1476,49 @@ graph
     commentcount 6248
     duration "PT5M46S"
     indegree 21
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 60
-    label "iYmpYJ_C5ng"
+    id 53
+    name "59"
+    label "8KRBTfYG3Ic"
     step 0
-    date "2022-01-21T17:00:26Z"
-    title "The 2 BEST Ways To Find NFT Projects Early"
-    description "The 2 Best Ways To Find NFT Projects Early&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCZ59iKBmGRfQlnl73sOX0Lw/join&#10;&#10;Get $10 when you buy crypto from coin base: https://www.coinbase.com/join/ghiorg_c?src=ios-link&#10;&#10;For more quality video subscribe here &#10145;https://www.youtube.com/channel/UCZ59iKBmGRfQlnl73sOX0Lw?sub_confirmation=1&#10;&#128276; Turn on notifications to stay updated with new uploads!&#10;&#10;&#10;My Instagram: Sebb &#10;My Agency: https://www.digitalwealthmb.com&#10;Brets Channel: https://www.youtube.com/c/BrettMalinowskiNFT&#10;Champs Website: https://www.champsonlynft.com&#10;&#10;#ethereum&#10;#cryptocurrency&#10;#addicted&#10;#flipping"
-    channeltitle "Sebastian Ghiorghiu"
-    channelid "UCZ59iKBmGRfQlnl73sOX0Lw"
+    date "2022-07-08T18:33:11Z"
+    title "NFTs made a console and its terrible"
+    description "&#34;NFT console fanbase is so dead&#34; -&#129299;&#10;&#10;I'm Live right now: https://www.youtube.com/channel/UCdc_JyNaB5VJ0gdWUtWfGDg/join&#10;Instagram: https://www.instagram.com/pyrocynical&#10;Twitter: https://twitter.com/Pyrocynical&#10;Podcast: https://www.youtube.com/c/TBHpodcast"
+    channeltitle "PyroLIVE"
+    channelid "UCdc_JyNaB5VJ0gdWUtWfGDg"
     favcount 0
-    viewcount 163278
-    likecount 7601
-    commentcount 462
-    duration "PT12M"
-    indegree 12
-    cluster 4
+    viewcount 412293
+    likecount 35128
+    commentcount 1185
+    duration "PT8M14S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 61
+    id 54
+    name "61"
     label "D-t_yPrzff4"
     step 0
     date "2022-06-13T16:07:47Z"
@@ -1009,11 +1532,21 @@ graph
     commentcount 517
     duration "PT24M34S"
     indegree 12
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 62
+    id 55
+    name "62"
     label "_noey_NmZV0"
     step 0
     date "2021-12-22T18:53:45Z"
@@ -1027,47 +1560,77 @@ graph
     commentcount 4643
     duration "PT9M48S"
     indegree 27
-    cluster 3
-  ]
-  node
-  [
-    id 65
-    label "b4DbFSXRWAg"
-    step 0
-    date "2022-07-11T20:59:06Z"
-    title "Crypto Ranging, Yuga Pumping, Whats Next for NFTs?"
-    description "In this show, Pio, Nick, and Kix discuss Ethereum&#8217;s volatile price action, what that means for the NFT market, and what&#8217;s in store for the crypto markets with impending macroeconomic crises. We also talk about Kix recently buying some Yuga Labs land, the Otherside, and a Moonbird by PROOF Collective.&#10;&#10;For real-time updates on our wallet:&#10;&#128444;&#65039; Buy our NFT: https://thenifty.com/nft&#10;&#128200; Sign up for FTX: https://thenifty.com/ftx&#10;&#128172; Join our discord: http://www.thenifty.com/discord&#10;&#10;Stamps&#10;0:00 Introduction&#10;4:22 Relief Rally Inbound?&#10;8:50 Can it get worse?&#10;12:55 S/P 500&#10;17:00 Talkin' NFTs!&#10;25:40 More Moonbirds...&#10;31:08 Art, Otherdeeds, and Blue Chips&#10;38:16 Is Azuki a Buy?&#10;43:00 Conclusion&#10;&#10;--&#10;DISCLAIMER: You should never treat any opinion expressed by the hosts of this content as a recommendation to make a particular investment, or to follow a particular strategy. The thoughts and commentary on this show are an expression of the hosts&#8217; opinions and are for entertainment and informational purposes only.  This show is never financial advice.&#10;&#10;#niftyalpha #nft #nfts #nftmarket #nftmarketupdate #nftupdate #nftnews"
-    channeltitle "The Nifty Alpha"
-    channelid "UCKZh-NaE79AbeBmZhOezRsQ"
-    favcount 0
-    viewcount 2788
-    likecount 145
-    commentcount 78
-    duration "PT42M44S"
-    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 68
-    label "LLlU2LGqmKc"
+    id 56
+    name "63"
+    label "3J-p-ttmb8c"
     step 0
-    date "2022-05-27T20:31:17Z"
-    title "NFT Cancels TV Show"
-    description "NFT gets stolen, might ruin TV show&#10;Follow Coffeezilla: &#10;&#9658; Twitter: https://twitter.com/coffeebreak_YT&#10;&#9658; Instagram: https://www.instagram.com/coffeebreak_yt/&#10;&#127926; Music: https://www.youtube.com/watch?v=nMSQ1yoPT2c&#38;list=PL4qw3AkxFDSNhEgawXD1j6r0iN1072XIB&#38;index=1&#10;Credits: &#10;3D Artist: Ed Leszczynski https://twitter.com/LeszczynskiEd&#10;Video Editor: Harry Bagg  https://twitter.com/HarryRBagg&#10;Virtual Production Software: Aximmetry https://aximmetry.com/&#10;&#10;This video is an opinion and in no way should be construed as statements of fact. Scams, bad business opportunities, and fake gurus are subjective terms that mean different things to different people. I think someone who promises $100K/month for an upfront fee of $2K is a scam. Others would call it a Napoleon Hill pitch."
-    channeltitle "Coffeezilla"
-    channelid "UCFQMnBA3CS502aghlcr0_aw"
+    date "2022-01-09T20:50:33Z"
+    title "The Best Goal of This Video Becomes an NFT"
+    description "The best goalaso scored in this video becomes immortalised forever as an NFT &#129397;&#10;&#9658; The NFT: https://tinyurl.com/NFTgoal1&#10;Filly: https://www.youtube.com/c/YungFilly/featured&#10;Harry Pinero: https://www.youtube.com/c/HarryPineroTV&#10;The Sidemen: https://www.youtube.com/c/Sidemen&#10;&#10;&#9658; No.10 Clothing: https://no10.store/&#10;&#9658; Follow my Instagram: http://instagram.com/chrismd10&#10;&#9658; Follow me on Twitter: https://twitter.com/chrismd10&#10;&#10;My editor: https://twitter.com/conFmck&#10;&#10;If you want to know how I use popular music in my content - Lickd provide an affordable service to license mainstream music for use in monetised content. Save 50% off your first track on Lickd and improve your video quality with popular music: https://lickd.co/affiliate/chrismd&#10;&#10;Music:&#10;&#10;0:00, 13:47 | Unknown Brain &#38; Hoober - Phenomenon (ft. Dax &#38; VinDon) [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/Phenomenon&#10;Watch: http://youtu.be/LO9vChXMBp8&#10;&#10;1:33 | Koven - Looking For More [NCS10 Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://NCS.io/LookingForMore&#10;Watch: http://youtu.be/0dgMHYThYXw&#10;&#10;2:55 | Rebel Scum &#38; Dani King &#38; Centrix - Calm Before The Storm [NCS Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://ncs.io/CalmBeforeTheStorm&#10;Watch: http://youtu.be/JSB_DQxQ2YE&#10;&#10;3:57 | Clarx, Catas, Le Malls, CHENDA, Anikdote - Numb The Pain (feat. Shiah Maisel) [NCS10 Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://NCS.io/NumbThePain&#10;Watch: http://youtu.be/L75f9TWj3Mw&#10;&#10;6:07 | Dirty Palm - Ropes (feat. Chandler Jewels) [NCS10 Release]&#10;Music provided by NoCopyrightSounds&#10;Free Download/Stream: http://NCS.io/Ropes&#10;Watch: http://youtu.be/YNggJ1ubm3w&#10;&#10;7:48 | RudeLies &#38; Clarx - Erase [NCS Release] &#10;Music provided by NoCopyrightSounds &#10;Free Download/Stream: http://ncs.io/Erase &#10;Watch: http://youtu.be/&#10;&#10;Music by Epidemic Sound (http://www.epidemicsound.com) &#38; others."
+    channeltitle "ChrisMD"
+    channelid "UCQ-YJstgVdAiCT52TiBWDbg"
     favcount 0
-    viewcount 436617
-    likecount 21183
-    commentcount 3057
-    duration "PT5M35S"
-    indegree 5
-    cluster 3
+    viewcount 4876410
+    likecount 191033
+    commentcount 2604
+    duration "PT15M10S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 69
+    id 57
+    name "66"
+    label "1tN2x1IFvnU"
+    step 0
+    date "2022-06-07T13:41:46Z"
+    title "ALL NEW SECRET *FREE NFT* CODES In POP IT TRADING | ROBLOX Pop It Trading Codes!"
+    description "In this video i share all the new codes in pop it trading new codes for pop it trading roblox nft codes pop it trading!&#10;&#10;ALL NEW SECRET *FREE NFT* CODES In POP IT TRADING | ROBLOX Pop It Trading Codes!&#10;&#10;My Links&#10;&#128997;Roblox Profile :https://www.roblox.com/users/2567776400/profile&#10;&#128038;Twitter : https://twitter.com/YTBossBlox&#10;&#128106;Group : https://www.roblox.com/groups/13794493/BossBloxYT#!/&#10;&#10;&#128077;Leave a Like If You Enjoyed!&#10;&#128276; Click The Bell and Turn on All Post Notifcations!&#10;&#10;What is ROBLOX? #Roblox&#8203;&#8203;&#8203; is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It&#8217;s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 8 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX &#8212; interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything &#8212; be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer &#8220;Capture the Flag&#8221; game or some other, yet&#173;to&#173;be&#173;dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX dollars (&#8220;ROBUX&#8221;). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms. &#10;&#10;#ROBLOX #robloxcodes #popittradingcodes"
+    channeltitle "BossBlox"
+    channelid "UCNNI-ZnDc5Yx8UzRY4mn-cA"
+    favcount 0
+    viewcount 97308
+    likecount 2762
+    commentcount 781
+    duration "PT6M3S"
+    indegree 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 58
+    name "69"
     label "3ans63rSbJc"
     step 0
     date "2022-04-02T18:10:34Z"
@@ -1081,47 +1644,77 @@ graph
     commentcount 1067
     duration "PT36M19S"
     indegree 3
-    cluster 3
-  ]
-  node
-  [
-    id 71
-    label "MjsQMAd7_SA"
-    step 0
-    date "2021-11-09T06:00:06Z"
-    title "What is NFT? - NFTs Explained in Plain English (2022 Updated)"
-    description "&#128065;&#8205;&#128488; What is an NFT? How do I buy one? Why would I want to buy a digital file that I can just copy in a second? Is it just another bubble? &#10;&#10;&#128073; Buy an NFTs here:&#10;- Gemini's Nifty Gateway: https://bit.ly/2YqDfxp&#10;- OpenSea: https://bit.ly/3kg93N6&#10;- Rarible: https://bit.ly/3bTLx48&#10;- SuperRare: https://bit.ly/3D4uPuY&#10;&#10;- MetaMask Wallet for buying NFTs: https://bit.ly/3mVpIY2&#10;&#10;Today&#8217;s topic is NFTs, here is what we will cover in the video:&#10;0:50 Fungibility Explained&#10;1:41 What is a Non-Fungible Token? &#10;1:49 Fun Fact!&#10;2:07 NFTs Explained&#10;3:43 NFT Creation &#10;4:51 NFT Characteristics&#10;5:07 NFT Examples&#10;6:01 Buying an NFT&#10;7:10 Selling NFTs&#10;7:42 NFT Uses&#10;9:29 Are NFTs just a bubble?&#10;9:57 Summary &#10;&#10;&#128073;For the complete text guide visit: &#10;https://bit.ly/3bRfJwU&#10;&#10;&#128214; Join our 7-day Bitcoin crash course absolutely free:&#10;http://bit.ly/2pB4X5B&#10;&#10;&#128276; Learn ANYTHING about Bitcoin and cryptocurrencies on our YouTube channel:&#10;http://bit.ly/2BVbxeF&#10;&#10;&#128071;See anything we haven't covered? Leave us a comment in the comment section below"
-    channeltitle "99Bitcoins"
-    channelid "UCQQ_fGcMDxlKre3SEqEWrLA"
-    favcount 0
-    viewcount 278351
-    likecount 11014
-    commentcount 334
-    duration "PT10M49S"
-    indegree 10
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 73
-    label "dgOGRVyO-TI"
+    id 59
+    name "70"
+    label "eHt7tiKu6Hg"
     step 0
-    date "2022-01-27T15:05:03Z"
-    title "NFTs for dummies (my explanation)"
-    description "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/saf01221&#10;&#9993;&#65039; OUR NEWSLETTER: https://www.abundantia.co/&#10;&#128218; COURSE &#38; MEMBERSHIP: http://jointheorder.co/&#10;&#10;What the hell is an NFT? I was asking that same question myself recently, and luckily I've found a few answers.&#10;&#10;I'm going to be honest: I'm fairly new to this NFT world as well. However, I wanted to cover what I've learned so far on my journey through studying NFTs, to hopefully shed some light on the subject for those of you who are confused about it all.&#10;&#10;I know you probably have a lot of questions, so feel free to leave them below so I can elaborate more on NFTs and crypto in a future video.&#10;&#10;Please enjoy!&#10;&#10;0:00 - I tried to ignore the hype&#10;2:11 - What is an NFT&#10;3:10 - About the current hype&#10;5:12 - Concerns about NFTs&#10;6:48 - Skillshare Insert&#10;7:44 - Future uses of NFTs&#10;9:27 - Are you already too late?&#10;10:29 - Am I making an NFT?&#10;11:36 - Some final thoughts&#10;&#10;&#9658; IMPORTANT LINKS:&#10;Enter your email below for free weekly lessons and insights into becoming financially free, investing, global tax and corporate structures, passports, residencies, and more.&#10;&#10;https://www.abundantia.co/&#10;&#10;&#9658; SOCIAL MEDIA:&#10;&#8226; Abundantia Instagram: @abundantia.co https://www.instagram.com/abundantia.co/&#10;&#8226; Sorelle's Instagram: @sorelleamore  https://instagram.com/sorelleamore&#10;&#8226; Abundantia Twitter: https://twitter.com/abundantiaco&#10;&#8226; Abundantia Facebook: http://facebook.com/abundantiafinance&#10;&#10;Sorelle and Leon.&#10;Founders, Abundantia&#10;&#10;Liability Disclaimer: https://www.abundantia.co/disclaimer&#10;*We may earn a commission if you buy any products or services via the links in this video's description. This video is not investment, financial, or legal advice. It may be incorrect, outdated, inaccurate, or reflect personal opinions. This video is for entertainment purposes only.&#10;&#10;#NFT #NonFungibleToken #Beeple #Crypto"
-    channeltitle "Sorelle Amore Finance"
-    channelid "UC9lKBRxxsDIarUmNaPe0h0Q"
+    date "2022-06-15T19:24:37Z"
+    title "I Bought A $4,100,000 House With An NFT | The Night Shift"
+    description "CHECK OUT THE ARCADE NFT LENDING PROTOCOL: https://bit.ly/3tFKFJM&#10;&#10;on today&#8217;s episode, we embark on a perilous journey to secure my dream home in a frantic housing market. with danger around every turn, what will happen next?&#10;&#10;no but seriously guys, thank you so much to each and every one of you who has supported me for the past years. you have changed my life and i could never be more appreciative.&#10;&#10;buy the fifth vital book here: https://amzn.to/37Febnj&#10;&#8203;&#10;follow the new bestburger tiktok: https://vm.tiktok.com/ZTdUB9EPw/&#10;follow the new bestburger instagram: https://www.instagram.com/bestburgerapp/&#10;buy the fifth vital book here: https://amzn.to/37Febnj&#10;&#8203;&#10;so you work the night shift? so do we. we can get thru this together. a random collection of news, stories, weather, and other random unplanned happenings. and tons of buttery toast.&#10;&#10;follow the night shift gaming channel: https://www.youtube.com/channel/UCxyH...&#8203;&#10;&#10;ADD ME ON:&#10;INSTAGRAM: https://www.instagram.com/heybigmike&#8203;&#10;TWITTER: https://twitter.com/mikemajlak&#8203;"
+    channeltitle "Mike Majlak Vlogs"
+    channelid "UCMk0u-pViW-Ff4F9SAGcI4g"
     favcount 0
-    viewcount 135128
-    likecount 5714
-    commentcount 813
-    duration "PT12M8S"
-    indegree 0
+    viewcount 1174304
+    likecount 91247
+    commentcount 5552
+    duration "PT10M45S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 6
+  ]
+  node
+  [
+    id 60
+    name "72"
+    label "ZjArSQQg0UY"
+    step 0
+    date "2022-04-10T16:06:16Z"
+    title "ALL NEW *FREE NFT* UPDATE CODES in POP IT TRADING CODES! (Roblox Pop It Trading Codes)"
+    description "ALL NEW *FREE NFT* UPDATE CODES in POP IT TRADING CODES! (Roblox Pop It Trading Codes) In this pop it trading codes video I redeemed all of the new pop it trading codes!&#10;&#10;I hope you enjoyed this video if you did SMASH that like button!&#10;Do NOT forget to turn on post notifications!&#10;Also SUBSCRIBE for more AMAZING content!&#10;&#10;&#9658;Play Roblox Here: http://www.roblox.com/&#10;&#9658;Roblox: https://www.roblox.com/users/1588579651/profile &#10024;&#10;&#9658;Roblox Group: https://www.roblox.com/groups/6139113/VexoYT#!/about&#10;&#10;What is ROBLOX? ROBLOX is an online virtual playground and workshop, where kids of all ages can safely interact, create, have fun, and learn. It&#8217;s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX &#8212; interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything &#8212; be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer &#8220;Capture the Flag&#8221; game or some other, you to &#173;be&#173;dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX dollars (&#8220;ROBUX&#8221;). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms."
+    channeltitle "ItzVexo"
+    channelid "UCQzi4Q8AvCx2yV19ay0zRgQ"
+    favcount 0
+    viewcount 132909
+    likecount 2315
+    commentcount 295
+    duration "PT8M6S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 74
+    id 61
+    name "74"
     label "5wn5z5GyVUU"
     step 0
     date "2022-06-28T17:57:30Z"
@@ -1135,29 +1728,49 @@ graph
     commentcount 423
     duration "PT17M49S"
     indegree 15
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 62
+    name "75"
+    label "7OEhqIwJR18"
+    step 0
+    date "2022-05-03T20:00:05Z"
+    title "Gary Vee On Discovering Logan Paul, Kobe Bryant Regrets, $100M+ NFT Collection - IMPAULSIVE EP. 324"
+    description "The GOAT of entrepreneurs, Gary Vaynerchuck, joins the boys to discuss the Web3 revolution, his biggest regret with Kobe Bryant, why he didn&#8217;t invest in UBER, being impersonated on TikTok, why Jake Paul vs Logan Paul MUST happen, canceling college forever, Cryptopunks over Bored Apes, how to love yourself &#38; more&#8230;&#10;&#10;Wear Maverick Clothing &#9658; https://maverickclothing.com&#10;SUBSCRIBE TO THE PODCAST &#9658; https://www.youtube.com/impaulsive&#10;&#10;&#10;SeatGeek: Use code LOGAN for $20 off your first SeatGeek order. https://seatgeek.onelink.me/RrnK/LOGAN&#10;&#10;Dr Squatch: Step your shower game up with Dr. Squatch! &#10;New customers use code DSQIMPAULSIVE for 20% off orders $20 or more! https://bit.ly/3FnoJrl&#10;&#10;Barstool Sports: Promo code LOGAN1000 and get their first bet 100% risk-free up to $1,000.&#10;(Additional terms &#38; conditions apply. See app for details. Must be physically present in Arizona, Colorado, Illinois, Indiana, Michigan, New Jersey, Pennsylvania, Tennennesee or Virginia to bet. Gambling Problem? Call 1-800-GAMBLER. In Tennessee, call or text the Tennessee REDLINE, 800-889-9789.)&#10;&#10;&#10;LISTEN ON:&#10;ITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2&#10;SPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw&#10;CASTBOX: https://castbox.fm/vc/1486024&#10;PODCAST ADDICT: https://podcastaddict.com/podcast/3224924&#10;&#10;Watch Previous (Logan Paul Pukes On Model At Coachella, Chokes Out Greg Paul (w/ Brendan Schaub)) &#9658; https://www.youtube.com/watch?v=A464TDIV0N4&#38;t=2299s&#10;&#10;ADD US ON:&#10;INSTAGRAM: https://www.instagram.com/impaulsiveshow/&#10;&#10;Timestamps:&#10;0:00 Intro&#10;1:20 Welcome Gary Vee!&#10;3:54 King Of Content&#10;7:15 Logan &#38; Gary&#8217;s Crazy History&#10;13:41 Hard Work &#38; Entrepreneurship&#10;19:10 How To Love Yourself&#10;30:04 Religion&#10;35:22 KSI Vs Logan Paul&#10;38:38 Garage Saling (TikTok Impersonations)&#10;50:16 Kobe Bryant Regret&#10;58:21 Cursing Out An 80 Year Old Man&#10;1:04:11 Future Of NFT&#8217;s &#38; Blockchain&#10;1:19:08 Bored Ape Yacht Club&#10;1:22:21 Vee Friends&#10;1:27:31 GOAT Entrepreneur Status&#10;1:32:42 Wine Library Throwback!&#10;1:43:36 Gen-Z &#38; Cancelling College&#10;1:50:01 Cryptopunks&#10;1:52:22 Metaverse Takeover!&#10;1:57:04 Jake Paul Vs Logan Paul&#10;2:03:32 Top Investing Tip&#10;2:08:12 Gary Calls Out Mike&#10;2:15:58 Never Done Drugs!&#10;&#10;***PLEASE NOTE***&#10;Impaulsive is a significant break from the typical content viewers have come to expect from the vlog channel &#38; we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.&#10;&#10;&#9888;NO FINANCIAL ADVICE / DISCLAIMER&#9888; &#10;The Information discussed and shared on impaulsive is provided for educational, informational, and entertainment purposes only, without any express or implied warranty of any kind, including warranties of accuracy, completeness, or success for any particular purpose.&#10;&#10;The Information contained in or provided from or through this podcast is not intended to be and does not constitute financial advice, investment advice, trading advice, or any other advice.&#10;&#10;The Information on this podcast and provided from or through our content is general in nature and is not specific to you the user or anyone else. You should not make any decision, financial, investment, trading or otherwise, based on any of the information presented on this podcast without undertaking independent due diligence and consultation with a professional, professional broker or financial advisory.&#10;&#10;Understand that you are using any and all Information available on or through this website at your own risk.&#10;&#10;RISK STATEMENT&#8211; The trading of Bitcoins, alternative cryptocurrencies, NFTs, etc. has potential rewards, and it also has potential risks involved. Trading may not be suitable for all people. Anyone wishing to invest should seek his or her own independent financial or professional advice."
+    channeltitle "IMPAULSIVE"
+    channelid "UCGeBogGDZ9W3dsGx-mWQGJA"
+    favcount 0
+    viewcount 1735085
+    likecount 42135
+    commentcount 2804
+    duration "PT2H22M58S"
+    indegree 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 76
-    label "Gjo1hlIey9g"
-    step 0
-    date "2021-03-04T22:34:33Z"
-    title "How to Make and Sell an NFT (Crypto Art Tutorial)"
-    description "Read our Guide to Creating NFTs: https://www.kapwing.com/resources/how-to-create-and-sell-nft-crypto-art/&#10;&#10;There's so much hype around NFTs and Crypto Art right now, but putting your content on the blockchain and selling it for the first time is a daunting task. In this tutorial, we'll show you step-by-step how to turn your art into an #NFT and start selling it on the Rarible crypto art marketplace in just a few minutes. You don't need any previous experience with crypto to get started.&#10;&#10;Rainbow Wallet: https://rainbow.me/&#10;Rarible NFT Marketplace: https://app.rarible.com/&#10;Kapwing's First NFT: https://www.kapwing.com/resources/we-are-selling-the-kapwing-watermark-cat-nft/&#10;&#10;Timestamps:&#10;0:00 What is an NFT?&#10;0:55 Overview of NFT Creation&#10;1:41 Step 1: Create a Crypto Wallet&#10;2:26 Step 2: Buy Some Ethereum&#10;3:37 Step 3: Connect Your Crypto Wallet to Rarible&#10;5:07 Step 4: Turn Your Content Into an NFT and List For Auction&#10;9:24 What an NFT Looks like on Rarible&#10;10:00 Subscribe!&#10;&#10;Do more with NFTs using Kapwing Pro: https://www.kapwing.com/pricing&#8203;&#10;* make longer videos&#10;* use unlimited cloud storage&#10;* upload custom fonts&#10;* access to all premium features&#10;&#10;STAY IN TOUCH! We&#8217;d love to hear from you :)&#10;&#9989; Join our official Discord https://discord.gg/kapwing&#10;&#9989; Follow us on Instagram https://www.instagram.com/kapwingapp/&#8203;&#10;&#9989; Follow Kapwing on Twitter https://twitter.com/KapwingApp&#8203;&#10;&#9989; Follow Robert on Twitter https://twitter.com/Brotractor&#10;&#10;&#10;Tag #kapwing&#8203; on your creations to get a like from us!&#10;&#10;Kapwing is an online video creation and editing platform for modern creators. We enable digital storytelling, entertainment, and education with accessible, simple, collaborative tools."
-    channeltitle "Kapwing"
-    channelid "UCR5GrKMeaZJxPKVMdEgKIKA"
-    favcount 0
-    viewcount 4115906
-    likecount 129852
-    commentcount 6532
-    duration "PT10M31S"
-    indegree 72
-    cluster 4
-  ]
-  node
-  [
-    id 77
+    id 63
+    name "77"
     label "fzH7Gjadmj0"
     step 0
     date "2021-10-01T08:20:03Z"
@@ -1171,11 +1784,21 @@ graph
     commentcount 2481
     duration "PT2H31M27S"
     indegree 7
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 78
+    id 64
+    name "78"
     label "omv2Q_PQUZk"
     step 0
     date "2022-07-05T15:00:39Z"
@@ -1189,29 +1812,49 @@ graph
     commentcount 117
     duration "PT13M5S"
     indegree 8
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 80
-    label "hKHVYm23JMc"
+    id 65
+    name "79"
+    label "Q1-ZUNMheAU"
     step 0
-    date "2022-07-06T18:48:42Z"
-    title "Otherside Test Gameplay, China NFT Crackdown, Huge CloneX News | NFT Market Update"
-    description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;News Articles Mentioned in the Video:&#10;China NFT Crackdown: https://decrypt.co/104401/chinese-tech-giants-alibaba-tencent-require-id-checks-nft-purchases&#10;Discord Hacks: https://twitter.com/NFTherder/status/1543607137431085057&#10;CloneX Update: https://twitter.com/RTFKT/status/1544035652848738304&#10;Otherside Test Demos: https://twitter.com/OthersideMeta/status/1544023315160993793&#10;&#10;0:00 - 1:44 Intro&#10;1:45 - 5:25 NFT Market Update&#10;5:26 - 9:04 China NFT Crackdown&#10;9:05 - 12:16 Discord Servers Hacked&#10;12:17 - 15:54 Otherside Metaverse Tests&#10;15:55 - 18:45 CloneX 3D Files &#38; Commercial Rights&#10;18:46 - 20:18 Bored Apes Flip CryptoPunks&#10;20:19 - 21:00 Outro&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
-    channeltitle "NFT Verse"
-    channelid "UCf9cq3uePT1qmE5RNxiCqLg"
+    date "2022-06-07T20:08:35Z"
+    title "Beeple Sold An NFT For $69,000,000 And Embarrassed Logan Paul - IMPAULSIVE EP. 329"
+    description "The wealthiest digital artist of all-time, Beeple, joins the boys to discuss selling his $69M NFT, why most people don&#8217;t give a f**k about NFTs, his beef with Logan, Elon Musk &#38; Zuckerberg taking over the world, Jimmy Fallon ruining 15 years of &#8220;Everydays,&#8221; sprouting a tree from Madonna&#8217;s coochie, losing millions from the crypto crash &#38; more&#8230;&#10;&#10;Wear Maverick Clothing &#9658; https://maverickclothing.com&#10;SUBSCRIBE TO THE PODCAST &#9658; https://www.youtube.com/impaulsive&#10;&#10;LISTEN ON:&#10;ITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2&#10;SPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw&#10;CASTBOX: https://castbox.fm/vc/1486024&#10;PODCAST ADDICT: https://podcastaddict.com/podcast/3224924&#10;&#10;Go to http://www.getroman.com/LOGAN for $10 off your first order of Swipes and free 2-day shipping&#10;&#10;Video Sponsored by Ridge Wallet. Check them out here: https://ridge.com/IMPAULSIVE Use Code &#34;IMPAULSIVE&#34; for 10% off your order&#10;&#10;Watch Previous (Liam Payne Wants To Fight Justin Bieber &#38; KSI, Reveals Why One Direction Broke Up) &#9658; https://www.youtube.com/watch?v=Uux_L_pkKe4&#38;t=37s&#10;&#10;ADD US ON:&#10;INSTAGRAM: https://www.instagram.com/impaulsiveshow/&#10;&#10;Timestamps:&#10;0:00 Intro/Welcome Beeple!&#10;1:21 Beeple Tries Prime!&#10;2:47 $69Mil Art Piece!&#10;10:30 Elon Musk &#38; Mark Zuckerberg Are Kings&#10;17:48 NFT Project Tips&#10;21:33 $55Mil In My Bank Account!&#10;28:28 Madonna&#8217;s Coochie&#10;32:59 Best Part Of Fame&#10;36:57 Living In The Year 4000&#10;44:00 Who Bought The $69Mil Piece?&#10;47:11 Jimmy Fallon Ruined Everything!&#10;51:34 Logan Paul Daily Vlogging&#10;1:01:19 Crypto Crash&#10;1:04:01 George Sounds Off!&#10;1:06:14 Logan Confronts Beeple&#10;&#10;***PLEASE NOTE***&#10;Impaulsive is a significant break from the typical content viewers have come to expect from the vlog channel &#38; we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.&#10;&#10;&#9888;NO FINANCIAL ADVICE / DISCLAIMER&#9888; &#10;The Information discussed and shared on Impaulsive is provided for educational, informational, and entertainment purposes only, without any express or implied warranty of any kind, including warranties of accuracy, completeness, or success for any particular purpose.&#10;&#10;The Information contained in or provided from or through this podcast is not intended to be and does not constitute financial advice, investment advice, trading advice, or any other advice.&#10;&#10;The Information on this podcast and provided from or through our content is general in nature and is not specific to you the user or anyone else. You should not make any decision, financial, investment, trading or otherwise, based on any of the information presented on this podcast without undertaking independent due diligence and consultation with a professional, professional broker or financial advisory.&#10;&#10;Understand that you are using any and all Information available on or through this website at your own risk.&#10;&#10;RISK STATEMENT&#8211; The trading of Bitcoins, alternative cryptocurrencies, NFTs, etc. has potential rewards, and it also has potential risks involved. Trading may not be suitable for all people. Anyone wishing to invest should seek his or her own independent financial or professional advice."
+    channeltitle "IMPAULSIVE"
+    channelid "UCGeBogGDZ9W3dsGx-mWQGJA"
     favcount 0
-    viewcount 7404
-    likecount 283
-    commentcount 168
-    duration "PT21M1S"
-    indegree 17
+    viewcount 499588
+    likecount 12149
+    commentcount 1584
+    duration "PT1H11M11S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 81
+    id 66
+    name "81"
     label "Qzq6KW9dOQs"
     step 0
     date "2021-12-08T21:00:09Z"
@@ -1225,11 +1868,21 @@ graph
     commentcount 1174
     duration "PT10M7S"
     indegree 5
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 82
+    id 67
+    name "82"
     label "S9DaxBsuIAY"
     step 0
     date "2022-05-26T18:00:10Z"
@@ -1243,11 +1896,21 @@ graph
     commentcount 281
     duration "PT3M14S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 83
+    id 68
+    name "83"
     label "__eG_waPJ3Q"
     step 0
     date "2021-06-30T06:25:00Z"
@@ -1261,11 +1924,21 @@ graph
     commentcount 1097
     duration "PT17M50S"
     indegree 13
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 84
+    id 69
+    name "84"
     label "ajG66r2U_lc"
     step 0
     date "2022-05-22T03:51:08Z"
@@ -1279,29 +1952,49 @@ graph
     commentcount 510
     duration "PT15M18S"
     indegree 16
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 86
-    label "2VJFz8Q2cKI"
+    id 70
+    name "85"
+    label "nrdOPOhRcz8"
     step 0
-    date "2022-07-08T15:00:03Z"
-    title "Ultimate NFT Tier List | Top 50 NFTs"
-    description "This is my NFT Tier List as of July 2022. Let's hear what you think in the comments!&#10;&#128640; NFT Alerts, Tools &#38; Coaching &#9658; https://bit.ly/MattsNFT&#10;&#128181;  Get my FREE NFT Mini Course &#9658;  https://www.mattscrypto.com/join&#10;&#128038; Twitter &#9658; https://twitter.com/MattCobuzio&#10;&#128995; Discord &#9658; https://discord.gg/hawk&#10;&#128248;  Instagram &#9658; https://www.instagram.com/matts.crypto/&#10;&#10024; TikTok &#9658; https://www.tiktok.com/@matts_crypto&#10;&#128188; Business Inquires &#9658; mc@teamplayback.com&#10;&#10;This description contains affiliate links which I may earn affiliate commissions from. Beware of impersonators. Please do not send me money, ever. &#10;&#10;How to Buy and Sell NFTs For Profit (Full EASY Beginner Guide)&#10;https://youtu.be/XFfzjWCO-SU&#10;&#10;Top 5 BEST US Cryptocurrency Exchanges (LOWEST FEES)&#10;https://youtu.be/6tdXXwFdJi8&#10;&#10;How To Make EASY Passive Income (Earn FREE Crypto) &#10;https://www.youtube.com/watch?v=7CMtVvGlFQs&#10;&#10;This is Matt's Crypto where we talk about money, cryptocurrency, NFTs and how to invest! Bitcoin, Ethereum, Cardano, Solana, alt coins, and cryptocurrency. Every video we look at the best NFTs on Opensea (Ethereum blockchain), or Solana NFTs. If you want to learn about how you can put your money to work earning passive income, or find the next big NFT to buy please consider subscribing!&#10;&#10;Top Cryptocurrency Exchanges (2022)&#10;- Coinbase: Best for Beginners&#10;- Binance: Best for Low Fees&#10;- Kraken: Best for Margin/Future Trading&#10;- KuCoin: Best for Altcoin trading&#10;- Crypto.com: Best for crypto rewards&#10;- FTX: Best Fees, Great Platform, Made by traders&#10;- Gemini: Accessible for NY users&#10;&#10;PLEASE NOTE --- I AM NOT A LICENSED PROFESSIONAL NOR INVESTMENT ADVISOR.  &#10;All of my content, including but not limited to, my cryptocurrency videos, streams, investments, stocks, strategies, and top NFTs videos are for entertainment purposes only, reflect only my personal views, ideas, and opinions, and should not be construed as personal investment advice. While the information is believed to be accurate, it may include errors, inaccuracies, or omissions. No representations or warranties are made in connection therewith and you should never take any of this information as guidance for buying or selling any type of investment. Nothing herein or therein shall be construed to be financial, legal, or tax advice. Purchasing cryptocurrencies, NFTs, or stocks can be highly speculative and pose considerable risk of loss of your entire investment. You should always conduct your own due diligence and seek the advice and/or counsel of qualified and licensed professionals and advisors. I will not and cannot be held liable for any actions you take as a result of viewing and/or reading any of my content and/or any losses in connection therewith.&#10;&#10;This video will show you:&#10;nft tier list&#10;nfts tier list&#10;best nfts&#10;top nft collections&#10;bored ape yacht club&#10;&#10;#nft #NFTs #crypto"
-    channeltitle "Matt's Crypto"
-    channelid "UCQ0TKLbIee4ENgnYhcR2hSA"
+    date "2022-03-24T14:00:28Z"
+    title "Gary Vee EXPOSES NFTs | Flagrant 2 with Andrew Schulz and Akaash Singh"
+    description "0:00 - start&#10;0:10 - why NFTs are NOT bulls**t&#10;6:00 - NFTs in macro vs micro&#10;15:00 - what's the biggest con in first world history&#10;22:00 - Gary Vee impersonators&#10;32:00 - how to find a good NFT&#10;47:00 - What is the Metaverse&#10;1:01:00 - Gary will down the NY Jets&#10;1:21:00 - how to raise the next generation without being soft&#10;&#10;Flagrant 2 is a comedy podcast that delivers unfiltered, unapologetic, and unruly hot takes directly to your dome piece. In an era dictated by political correctness, hosts Andrew Schulz and Akaash Singh, along with AlexxMedia and Mark Gagnon, could care less about sensitivities. If it&#8217;s funny and flagrant it flies. If you are sensitive this podcast is not for you. But if you miss the days of comedians actually being funny instead of preaching to the CHOIR then welcome to The Flagrancy.&#10;&#10;Join the Patreon Asshole Army:&#10;http://bit.ly/2xQwHYf&#10;&#10;#Flagrant2 #AndrewSchulz #AkaashSingh&#10;&#10;New York native and internationally touring stand-up, Andrew Schulz is known for his hilarious and unsafe comedy. He has starred in the sitcom BENDERS (now available on Netflix), can be seen in Amazon&#8217;s SNEAKY PETE, HBO&#8217;s CRASHING, and on MTV including GUY CODE and GIRL CODE. &#10;In the podcast realm, Schulz can be heard on the wildly popular THE BRILLIANT IDIOTS &#8212; co-hosted by nationally syndicated radio and television personality Charlamagne tha God &#8212; the hilarious sports commentary podcast FLAGRANT 2, and the film and TV analysis podcast WESTERBROS. He has made major appearances on The Joe Rogan Experience, Bert Kreischer&#8217;s BERTCAST, Joey &#8220;coco&#8221; Diaz The Chuch of What&#8217;s Happening Now, and Theo Von&#8217;s This Past Weekend. He has even done solo interviews with the likes of Lil Duval and many others. &#10;Andrew&#8217;s online presence has touched hundreds of millions of people across the globe and his unconventionally funny approach to the comedy world has launched him into stardome. His shows Dropping In and Inside Jokes will rack of hundreds of thousands of views weekly. Nothing is off limits for Schulz, from sex to race, and even the occasional audience heckler roast, Andrew is hungry to be the best. He can be seen in New York City performing regularly at New York Comedy Club and the Comedy Cellar."
+    channeltitle "FLAGRANT"
+    channelid "UC5PstSsGrRwj2o6asQpC4Rg"
     favcount 0
-    viewcount 2579
-    likecount 71
-    commentcount 168
-    duration "PT34M6S"
-    indegree 9
-    cluster 1
+    viewcount 660534
+    likecount 16899
+    commentcount 3509
+    duration "PT1H30M24S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 87
+    id 71
+    name "87"
     label "as7acW3B2jA"
     step 0
     date "2021-12-11T16:00:03Z"
@@ -1315,47 +2008,77 @@ graph
     commentcount 3185
     duration "PT11M24S"
     indegree 30
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 72
+    name "88"
+    label "n9UtOWNVOO4"
+    step 0
+    date "2021-12-30T19:00:16Z"
+    title "We Do Not Support NFTs"
+    description "Watch The Full Podcast here: https://youtu.be/9EU-GkHqGAE&#10;&#10;Support The Podcast On Patreon!&#10;https://www.patreon.com/trashtaste&#10;&#10;Follow Trash Taste:&#10;https://twitter.com/TrashTastePod&#10;https://www.reddit.com/r/TrashTaste/&#10;&#10;Trash Taste Boiis:&#10;Joey | https://www.youtube.com/user/TheAn1meMan&#10;Connor | https://www.youtube.com/c/CDawgVA&#10;Garnt | https://www.youtube.com/user/gigguk&#10;&#10;Follow Us On Twitter:&#10;Joey | https://twitter.com/TheAn1meMan&#10;Connor | https://twitter.com/CDawgVA&#10;Garnt | http://twitter.com/GiggukAZ&#10;&#10;Edited By:&#10;https://www.youtube.com/c/MudanTV&#10;https://twitter.com/MudanTV"
+    channeltitle "Trash Taste Highlights"
+    channelid "UCry1ZVKLslbZXuQgsf-3TXg"
+    favcount 0
+    viewcount 320647
+    likecount 16229
+    commentcount 1354
+    duration "PT12M10S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 89
-    label "uPlbBq9kiZM"
+    id 73
+    name "90"
+    label "RKL5zVNOHzw"
     step 0
-    date "2022-07-09T08:59:15Z"
-    title "NEXT GEN NFTS PERSONAL ID ON NFT ! VIRTUAL VERSIONS"
-    description "&#9989; Virtual Versions Twitter - https://Twitter.com/virtualversions&#10;&#128142;AND +$20  for registration and first deposit (*NO KYC*) + Trade 20 usdt - &#10;https://www.zoomex.com/en-US/invite?ref=M9W32A&#10;&#128071; how to + many profitable links below in the description &#128071;&#10;&#10;&#9888;&#65039;Must watch videos about Metamask: https://www.youtube.com/channel/UC5UvfUdmK5VKOlJgvvEvEhw/search?query=metamask&#10;&#10;&#10084;&#65039; REFERRAL LINKS WITH BONUSES ON EXCHANGES &#10084;&#65039;&#10;(Cash bonuses at the start and lifetime discounts on exchange commissions)&#10;&#10;&#11088;&#65039;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#10;&#10084;&#65039; TOP EXCHANGE! WHERE YOU CAN BUY TOKENS FIRST! &#10084;&#65039;&#10;&#10;&#11088;&#65039;&#11088;&#65039; ByBit (here we trade futures) - https://www.bybit.com/ru-RU/invite?ref=OWVEL&#10;&#11088;&#65039; MEXC - https://m.mexc.com/auth/signup?inviteCode=19et9&#10;&#11088;&#65039; Gateio - https://www.gate.io/signup/5794505&#10;&#11088;&#65039; Kukoin - https://www.kucoin.com/ucenter/signup?rcode=r3VSB4J&#10;&#11088;&#65039; Okex - https://www.okex.com/join/7428579&#10;&#11088;&#65039; Huobi - https://www.huobi.com/ru-ru/topic/double-reward/?invite_code=hin33223&#10;&#11088;&#65039; Binance - https://www.binance.com/en/register?ref=BF20KIBE&#10;&#11088;&#65039; Binance Futures - https://www.binance.com/en/futures/ref?code=nazare&#10;&#10;&#11088;&#65039; Hotbit - https://www.hotbit.io/register?ref=3030070&#10;&#11088;&#65039; YoBit - https://yobit.net/?bonus=PnOCc&#10;&#11088;&#65039; Deepcoin - https://s.deepcoin.info/s8cmit5&#10;&#11088;&#65039; LBank  -  https://www.lbank.info/invitevip?icode=1DEQD&#38;lange=en-US&#10;&#11088;&#65039; FTX - https://ftx.com/referrals#a=skidka40&#10;&#11088;&#65039; FTXUS - https://ftx.us/#a=9941897&#10;&#11088;&#65039; Coinbase - https://www.coinbase.com/join/kabano_06&#10;&#11088;&#65039; &#1057;oinlist - https://coinlist.co/clt?referral_code=MTEQRK&#10;&#11088;&#65039; Currency - https://currency.com/trading/signup?c=6fyfuxwj&#38;pid=referral&#10;&#11088;&#65039; Phemex - https://phemex.com/en/register?group=1358&#38;referralCode=DKWI23&#10;&#11088;&#65039; StormGain - https://go.stormgain.app/visit/?bta=100105&#38;nci=13137&#38;afp=nazarecrypto&#10;&#11088;&#65039; Nominex - https://nominex.io/ru/signup/?r=73882&#10;&#11088;&#65039; Poloniex - https://poloniex.com/signup?c=6M59WYX9&#10;&#11088;&#65039; Crex24 - https://crex24.com/?refid=v51td65sopdnkbri1oci&#10;&#11088;&#65039; Exmo - https://exmo.me/?ref=678952&#10;&#11088;&#65039; Okcoin - https://www.okcoin.com/join?channelId=600098152&#10;&#11088;&#65039; Payer - https://payeer.com/05863149&#10;&#10;&#10084;&#65039; WALLETS &#10084;&#65039;&#10;&#10;&#11088;&#65039; Metamask wallet - https://metamask.io&#10;&#11088;&#65039; Phantom Wallet - https://phantom.app&#10;&#11088;&#65039; TON Wallet - https://ton.app/wallets&#10;&#11088;&#65039; WAX Wallet - https://wallet.wax.io&#10;&#11088;&#65039; Enjin wallet - https://enjin.io/products/wallet&#10;&#11088;&#65039; Tronlink Wallet - https://www.tronlink.org&#10;&#11088;&#65039; Polkadot Wallet - https://polkadot.js.org/extension/&#10;&#11088;&#65039; Resource with adding networks to Metamask - https://chainlist.org&#10;&#10;&#10084;&#65039; MY MOST IMPORTANT VIDEOS! RECOMMEND &#10084;&#65039;&#10;&#10;&#11088;&#65039; METAMASK BLOCK - WHAT YOU NEED TO DO IN ADVANCE! - https://youtu.be/Qi6MPOIwFx0&#10;&#11088;&#65039; YOU NEED TO KNOW BEFORE YOU START USING THE METAMASK - https://youtu.be/XXBxoSbz_DQ&#10;&#10;&#10084;&#65039; BEST DEX &#10084;&#65039;&#10;&#11088;&#65039; Farm and exchange for BISWAP - https://biswap.org/?ref=9d4115f8c8246ae5f4fb&#10;&#11088;&#65039; 1inch - DEX exchange/exchanger for BSC/ETH/MATIC - 1inch - https://app.1inch.io/#/r/0x58c5d0f3b1621b68a79af1446ad2ebea469aa0af&#10;&#11088;&#65039; MenFi - DEX on Solana - https://app.meanfi.com/?ref=HKfj4Rzef8pw16kvAyuptNSJEFAnokDngD6K72XcHUBW&#10;&#10;NFT, nft, NFTS, nfts, nft games, nft game, nft games 2022, nft 2022, nft giveaways, nft ruffle, nft earning, best nfts, top nft, nft whitelist, premint, premint nft, nft premint, nft crypto, non fungible token, nft non fungible token, hft what is it, nft maual, nft how to, opensea, nft opensea, nft token, nft tokens, opensea marketplace, bybit, opensea nft marketplace,  nft on opensea, nft virtual versions, virtual versions nft, virtual versions, virtual versions opensea, nfts meta, nftsmetaverse&#10;&#10;#NFT #nft #NFTS #nfts #nftgames #nftgame #nftgames2022 #nft2022 #nftgiveaways #nftruffle #nftearning #bestnfts #topnft #nftwhitelist #premint #premintnft #nftpremint #nftcrypto #nonfungibletoken #nftnonfungibletoken #hftwhatisit #nftmaual #nfthowto #opensea #nftopensea #nfttoken #nfttokens #openseamarketplace #bybit #openseanftmarketplace #nftonopensea #nftvirtualversions #virtualversionsnft #virtualversions #virtualversionsopensea #nftsmeta #nftsmetaverse"
-    channeltitle "NazareCrypto - Crypto, Play To Earn, NFT Games"
-    channelid "UC5UvfUdmK5VKOlJgvvEvEhw"
+    date "2022-07-12T07:12:26Z"
+    title "GameStop NFT Marketplace is LIVE (watch me buy my first NFT)"
+    description "The GameStop Marketplace is LIVE and I bought the LOV collection for my first transaction.  I'm very proud of everything gamestop has accomplished this is HUGE. #GME #gamestop #nft"
+    channeltitle "Marantz Rantz"
+    channelid "UCKXuIPEAtzHG-fb545Nqg4g"
     favcount 0
-    viewcount 2887
-    likecount 46
-    commentcount 49
-    duration "PT3M29S"
-    indegree 1
+    viewcount 377
+    likecount 55
+    commentcount 8
+    duration "PT2M13S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 91
-    label "XVoX8OPueTg"
-    step 0
-    date "2022-07-11T19:22:40Z"
-    title "NFTS HEATING UP!! | NFT Market Update | Top NFT Projects RISE  $2 Million CryptoPunk"
-    description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;Ricky (ISM Toys): https://twitter.com/IsmToys&#10;Polly Kole: https://twitter.com/polly_kole&#10;&#10;News Articles Mentioned in the Video:&#10;Magic Eden Sweep Feature: https://twitter.com/MagicEden/status/1545428951501344769&#10;SudoAMM: https://twitter.com/sudoswap/status/1545535663365165063&#10;Reddit NFT Marketplace: https://techcrunch.com/2022/07/07/reddit-is-launching-a-new-nft-avatar-marketplace/&#10;Logan Paul Pokemon NFT: https://kotaku.com/logan-paul-pokemon-pikachu-illustrator-nft-blockchain-1849158886&#10;China NFT Crackdown:&#10;Corvette NFT: https://www.theverge.com/2022/7/4/23194242/chevy-corvette-nft-auction-no-bids&#10;CloneX Full Commercial Rights: https://twitter.com/RTFKT/status/1544035652848738304&#10;Coolman's Universe Animated Series: https://twitter.com/CoolmanUniverse/status/1544824663145975808&#10;Moonbirds Ravens: https://twitter.com/CloutedMind/status/1543804661655687169&#10;3AC $100 Million NFT Fund: https://www.coindesk.com/markets/2022/07/08/three-arrows-wanted-a-100m-nft-collection-instead-its-worth-less-than-5m/&#10;Tomorrowland x Magic Eden: https://hypebeast.com/2022/7/magic-eden-tomorrowland-festival-nft&#10;World of Women Airdrop: https://twitter.com/worldofwomennft/status/1544690959639797762&#10;107 NFT Discord Servers Hacked:&#10;Teller Defi: https://decrypt.co/104564/bored-ape-buy-now-pay-later-teller-ethereum-nfts&#10;&#10;0:00 - 1:11 Intro&#10;1:12 - 5:59 Weekly NFT News&#10;6:00 - 7:11 Top NFT Sales in the past week&#10;7:12 - 10:45 Buying NFTs with Loans&#10;10:46 - 15:05 NFT Market Data &#38; Analytics&#10;15:06 - 16:28 Upcoming NFT Projects releasing this week&#10;16:29 - 20:16 NFT Trends (Top NFT Projects &#38; Fine Art NFTs)&#10;20:17 - 21:23 Outro&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
-    channeltitle "NFT Verse"
-    channelid "UCf9cq3uePT1qmE5RNxiCqLg"
-    favcount 0
-    viewcount 5058
-    likecount 263
-    commentcount 158
-    duration "PT21M24S"
-    indegree 9
-    cluster 1
-  ]
-  node
-  [
-    id 92
+    id 74
+    name "92"
     label "CcmQk9mv5_Q"
     step 0
     date "2022-06-03T22:15:00Z"
@@ -1369,11 +2092,21 @@ graph
     commentcount 1719
     duration "PT8M37S"
     indegree 17
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 93
+    id 75
+    name "93"
     label "cPiQPTtyQfI"
     step 0
     date "2022-01-23T13:37:11Z"
@@ -1387,11 +2120,21 @@ graph
     commentcount 688
     duration "PT14M28S"
     indegree 14
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 94
+    id 76
+    name "94"
     label "rOo3-WoaPE4"
     step 0
     date "2021-08-31T14:51:22Z"
@@ -1405,11 +2148,21 @@ graph
     commentcount 598
     duration "PT18M42S"
     indegree 70
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 95
+    id 77
+    name "95"
     label "wOqJzJri8B0"
     step 0
     date "2021-12-23T15:13:24Z"
@@ -1423,11 +2176,21 @@ graph
     commentcount 1438
     duration "PT14M50S"
     indegree 3
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 96
+    id 78
+    name "96"
     label "ZMBXGuo2Gnk"
     step 0
     date "2022-01-06T14:21:54Z"
@@ -1441,11 +2204,21 @@ graph
     commentcount 469
     duration "PT18M9S"
     indegree 4
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 97
+    id 79
+    name "97"
     label "pFRXGxwat_U"
     step 0
     date "2022-01-02T02:00:07Z"
@@ -1459,29 +2232,49 @@ graph
     commentcount 1715
     duration "PT18M50S"
     indegree 7
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 99
-    label "HrvnNE0C08s"
+    id 80
+    name "98"
+    label "s77Tg34dQKU"
     step 0
-    date "2022-03-04T20:33:34Z"
-    title "NFTs: The Biggest Scam in Hip Hop"
-    description "Thanks to Keeps for sponsoring this video! Head to&#8203;  &#8203;https://www.keeps.com/HHM  to get 50% off your first order of hair loss treatment.&#10;&#10;--------&#10;&#10;&#10;Since the world of crypto, NFT&#8217;s and the metaverse suddenly became a hot-button issue last year, rappers have sought to hop onto the wave in every conceivable way. &#10;&#10;From becoming avid collectors (bored apes) to producing their own lines, the lucrative world of NFT&#8217;s has plenty of rapper&#8217;s looking to get a piece of the pie. And while some have been lauded for using this new platform to sell genuinely interesting digital items (MF Doom NFTs), there are others who&#8217;ve been accused of flagrantly scamming their fans.&#10;&#10;&#10;#NFT #6ix9ine #HipHopMadness&#10;&#10;https://instagram.com/hiphopmadness&#10;https://twitter.com/hiphopmadness&#10;&#10;Narrated by: Spencer Pearman&#10;Written by: Robert Blair&#10;Edited by: Roman Bill&#10;Music by: Josh Petruccio&#10;&#10;Business Inquiries: contactHipHopMadness@gmail.com&#10;&#10;&#169; HIPHOPMADNESS 2022. All rights reserved"
-    channeltitle "HipHopMadness"
-    channelid "UC02n2oDfBu33xEEmJX1pBdQ"
+    date "2022-07-11T18:30:53Z"
+    title "Snoop Dogg  NFT Way | Diversify"
+    description "This series provides a lens into the ways celebrities and notable members of the black diaspora are establishing their financial legacies through asset ownership and wealth building. In this episode, take a look into how Snoop Dogg &#38; Timbaland are building wealth through cryptocurrency &#38; NFTs! #Diversify #Philanthropy #BETDiversify #BETBlackWealth&#10;&#10;SUBSCRIBE to #BET! &#9658;&#9658; http://bit.ly/1U0v9xG&#10;&#10;Stream Black Culture with BET+. Kick back and enjoy movies, TV series, exclusive originals and the best of Tyler Perry. Sign up for BET+ &#9658;&#9658; http://bit.ly/betplus &#10;&#10;Connect with BET &#10;Web: http://www.BET.com&#10;Facebook: http://www.facebook.com/BET&#10;Twitter: http://www.twitter.com/BET&#10;Instagram: http://www.instagram.com/BET&#10;BET+: https://www.bet.plus &#10;https://www.instagram.com/betplus/&#10;https://twitter.com/betplus&#10;https://www.facebook.com/yourbetplus/&#10;Google+: http://www.bet.us/gplusBET"
+    channeltitle "BETNetworks"
+    channelid "UCcVqCJ_9owb1zM43vqswMNQ"
     favcount 0
-    viewcount 171947
-    likecount 5667
-    commentcount 721
-    duration "PT13M1S"
-    indegree 6
-    cluster 1
+    viewcount 4197
+    likecount 36
+    commentcount 30
+    duration "PT6M28S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 100
+    id 81
+    name "100"
     label "O7gu_0yJ6hs"
     step 0
     date "2022-07-10T03:30:17Z"
@@ -1495,11 +2288,21 @@ graph
     commentcount 135
     duration "PT5M22S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 101
+    id 82
+    name "101"
     label "MfqRg4BPAi4"
     step 0
     date "2021-11-11T11:00:12Z"
@@ -1513,11 +2316,21 @@ graph
     commentcount 6321
     duration "PT2M27S"
     indegree 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 102
+    id 83
+    name "102"
     label "b-hzI7F2Aqw"
     step 0
     date "2022-06-20T14:30:47Z"
@@ -1531,11 +2344,21 @@ graph
     commentcount 221
     duration "PT25M55S"
     indegree 6
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 103
+    id 84
+    name "103"
     label "OuMpOLsfRrM"
     step 0
     date "2022-02-04T21:22:43Z"
@@ -1549,11 +2372,21 @@ graph
     commentcount 1452
     duration "PT11M12S"
     indegree 6
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 104
+    id 85
+    name "104"
     label "6O4xvklv2xU"
     step 0
     date "2022-03-02T22:52:37Z"
@@ -1567,11 +2400,21 @@ graph
     commentcount 1509
     duration "PT8M1S"
     indegree 1
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 105
+    id 86
+    name "105"
     label "3-dYfE2TCiI"
     step 0
     date "2022-02-25T13:17:56Z"
@@ -1585,29 +2428,49 @@ graph
     commentcount 303
     duration "PT19M12S"
     indegree 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 6
+  ]
+  node
+  [
+    id 87
+    name "106"
+    label "Sqc5XKiBnQY"
+    step 0
+    date "2022-07-10T13:48:36Z"
+    title "BEST NFTs TO BUY THIS WEEK!  Top 5 Solana NFT Mints This Week"
+    description "BEST NFTs TO BUY THIS WEEK! &#9474; Top 5 Solana NFT Mints This Week&#10;&#10;&#129297;Get Early Access To My Alpha Calls &#38; WL Opportunities: https://www.patreon.com/itsragnar&#10;&#128309;Follow Me On Twitter: https://twitter.com/ItsRagnarYT&#10;&#127961;&#65039;Follow Me On Instagram: https://www.instagram.com/itsragnaryt/&#10;&#10;Featured Projects:&#10;https://twitter.com/BakedBerserk&#10;https://twitter.com/BohemiaArtFair&#10;https://twitter.com/DreamersNFT_&#10;https://twitter.com/LibertySquareHQ&#10;https://twitter.com/KalaKlub_&#10;https://twitter.com/blxckout_nft&#10;&#10;Follow the boys:&#10;Cody &#10148; https://www.youtube.com/c/CodyOnChain&#10;Grishuh &#10148; https://www.youtube.com/c/GrishuhNFT &#10;Jerzy &#10148; https://www.youtube.com/c/jerzynft&#10;&#10;Affiliate-Links:&#10;Get 20% Discount On All Trading Fees On Binance: &#10;https://accounts.binance.com/en/register?ref=UZPOR3K2&#10;&#10;Get 20% Discount On All Trading Fees On Kucoin: &#10;https://www.kucoin.com/r/QBSSSP6G&#10;&#10;LIKE &#38; SUBSCRIBE!&#10;&#10;DISCLAIMER:&#10;This video is for educational &#38; entertainment purposes only. Please do your own research before making any decisions with your money.  I will not be held liable for any losses or gains you may experience.  I am not your financial or investment advisor. This content is for educational and entertainment purposes ONLY. Please do your own research before making any financial decisions in your life!&#10;&#10;Business Contact - itsragnarbusiness@gmail.com&#10;&#10;TimeStamps:&#10;0:00 - Intro&#10;0:53 - Baked Berserk&#10;3:29 - Bohemia Fabulosa&#10;6:45 - Dreamers&#10;8:02 - Liberty Square&#10;10:05 - Kalaklub&#10;10:57 - Blxckout&#10;12:24 - Outro&#10;&#10;Tags:&#10;itsragnar, solana, sol, nft, nfts, solana nfts, sol nft, solana nft, sol nft mint, best solana nfts, best solana nft projects, solana nft drops, solana nft mint, nft mint, upcoming nft drops, upcoming solana nfts, upcoming solana nft projects, upcoming solana nft mints, 100x nfts, how to buy solana nft, nft to buy, nft gems, nfts july 2022, solana nfts july, 3 UPCOMING SOLANA NFTs TO BUY FOR EXPLOSIVE GAINS! | Sol NFTs With 100X Potential, top 4 solana nfts, top nfts, july, best mints&#10;&#10;#SOLANA #NFT #SOLANANFTS"
+    channeltitle "ItsRagnar"
+    channelid "UCPZ0iRqTVwpElMrBG6vQZCQ"
+    favcount 0
+    viewcount 1777
+    likecount 76
+    commentcount 36
+    duration "PT13M2S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 107
-    label "GlJmpnGwMyA"
-    step 0
-    date "2022-01-27T10:17:33Z"
-    title "NFT Space Time Memory"
-    description "We are glad to present you our first-ever NFT artwork. It&#8217;s called Space Time Memory, and it consists of five photos of an Aventador LP 780-4 Ultimae flying above the Earth. Innovation is our comfort zone, so we decided to celebrate human space exploration this way. The digital pieces, created by Fabian Oefner in collaboration with NFT PRO, will be auctioned starting from 4:00 pm CET, February 1st.&#10;&#10;Discover more: https://lam.bo/NFT_SpaceTimeMemory_Yt&#10;&#10;#Lamborghini #ToTheMoon&#10;__&#10;Aventador LP 780-4 Ultimae: Combined [l/100km]: 18,0; CO2 Emission [g/km]: 442&#10;&#10;Subscribe to our channel and never miss our new videos. &#10;&#10;Join the conversation with #Lamborghini and never miss a post on http://www.lamborghini.social"
-    channeltitle "Lamborghini"
-    channelid "UC9DXZC8BCDOW6pYAQKgozqw"
-    favcount 0
-    viewcount 173848
-    likecount 5194
-    commentcount 320
-    duration "PT1M48S"
-    indegree 0
-    cluster 2
-  ]
-  node
-  [
-    id 108
+    id 88
+    name "108"
     label "u-sNSjS8cq0"
     step 0
     date "2022-03-19T16:00:22Z"
@@ -1621,11 +2484,21 @@ graph
     commentcount 9793
     duration "PT1H41M49S"
     indegree 8
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 109
+    id 89
+    name "109"
     label "qzuq9F9ZLO8"
     step 0
     date "2021-12-04T15:55:54Z"
@@ -1639,11 +2512,21 @@ graph
     commentcount 2985
     duration "PT1M23S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 110
+    id 90
+    name "110"
     label "LAdpa0iJWtM"
     step 0
     date "2022-07-08T14:00:09Z"
@@ -1657,11 +2540,21 @@ graph
     commentcount 20
     duration "PT12M50S"
     indegree 7
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 111
+    id 91
+    name "111"
     label "H79nRD80sK4"
     step 0
     date "2022-07-08T01:37:06Z"
@@ -1675,11 +2568,21 @@ graph
     commentcount 39
     duration "PT6M23S"
     indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 112
+    id 92
+    name "112"
     label "t939XKGl7l8"
     step 0
     date "2022-07-05T13:13:37Z"
@@ -1693,11 +2596,21 @@ graph
     commentcount 46
     duration "PT7M33S"
     indegree 1
-    cluster 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 113
+    id 93
+    name "113"
     label "GZFtVJJTW2U"
     step 0
     date "2022-04-17T16:26:01Z"
@@ -1711,11 +2624,21 @@ graph
     commentcount 2530
     duration "PT6M56S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 114
+    id 94
+    name "114"
     label "K8Sc5khx5Nw"
     step 0
     date "2022-06-15T16:02:55Z"
@@ -1729,11 +2652,21 @@ graph
     commentcount 485
     duration "PT12M33S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 115
+    id 95
+    name "115"
     label "4E0WYW2xPKs"
     step 0
     date "2021-11-15T21:33:53Z"
@@ -1747,11 +2680,21 @@ graph
     commentcount 1854
     duration "PT3M26S"
     indegree 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 116
+    id 96
+    name "116"
     label "RAcxziflEdc"
     step 0
     date "2021-11-29T07:23:58Z"
@@ -1765,29 +2708,49 @@ graph
     commentcount 52
     duration "PT20M31S"
     indegree 0
-    cluster 2
-  ]
-  node
-  [
-    id 118
-    label "4X4RlgK45mE"
-    step 0
-    date "2021-09-01T22:45:01Z"
-    title "This 12-year old genius made $400k in 9 hours selling NFTs!"
-    description "Thanks to the NFT king aka Benyamin Ahmed for coming on the show. We will all be working for him one day. &#10;&#10;SoFi is the exclusive partner app of The Best Business Show. Visit https://sofi.com/pomp for more info and start investing today&#10;&#10;The Best Business Show Is LIVE 11AM-1PM EST Monday - Friday discussing Bitcoin, Finance, Crypto &#38; everything in between. &#10;&#10;Check out our Store! https://thebestbusinessshow.com/&#10;&#10;View open jobs in crypto: https://pompcryptojobs.com/&#10;Enroll in my crypto academy: https://www.pompscryptocourse.com/&#10;&#10;Pomp writes a daily letter to over 185,000 investors about business, technology, and finance. He breaks down complex topics into easy-to-understand language while sharing opinions on various aspects of each industry. You can subscribe at https://pomp.substack.com/&#10;&#10;Follow Pomp on social media:&#10;Twitter: https://twitter.com/APompliano&#10;Instagram: https://www.instagram.com/pompglobal/&#10;LinkedIn: https://www.linkedin.com/in/anthonypompliano/&#10;Website: https://anthonypompliano.com/&#10;&#10;#AnthonyPompliano #Pomp #Bitcoin #Finance #Business"
-    channeltitle "Anthony Pompliano"
-    channelid "UCevXpeL8cNyAnww-NqJ4m2w"
-    favcount 0
-    viewcount 897749
-    likecount 26487
-    commentcount 4657
-    duration "PT20M5S"
-    indegree 68
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 119
+    id 97
+    name "117"
+    label "pgTmpTnFoWo"
+    step 0
+    date "2022-05-31T04:53:08Z"
+    title "I sent an NFT to Space #shorts"
+    description "Here&#8217;s the link to the free &#8220;Ticket To Space&#8221; NFT&#8217;s ! &#10;https://moondao.com&#10;&#10;(Everyone who gets one of NFT&#8217;s will be entered for a chance to win a free trip to space on an upcoming @Blue Origin flight!! &#10;&#10;Should I post all the raw footage?"
+    channeltitle "Kaz Sawyer"
+    channelid "UCOOHeyoRZIYI7OIsIhA1vsg"
+    favcount 0
+    viewcount 9525483
+    likecount 704852
+    commentcount 3834
+    duration "PT1M"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 98
+    name "119"
     label "LN61jzaYlIY"
     step 0
     date "2022-01-14T06:30:14Z"
@@ -1801,29 +2764,49 @@ graph
     commentcount 2298
     duration "PT13M54S"
     indegree 58
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 121
-    label "m8u-8kQcM2w"
+    id 99
+    name "120"
+    label "JVnIQVhT79A"
     step 0
-    date "2022-02-14T04:27:01Z"
-    title "What is NFT ? How to create NFT for Free ? How to make money from NFT"
-    description "What is NFT ? How to create NFT for Free ? How to make money from NFT"
-    channeltitle "Shafique Jaffery Official"
-    channelid "UCcTp1YG--_KMoovpRJeTrjA"
+    date "2022-01-02T14:38:14Z"
+    title "He Paid $500,000 For An Image"
+    description "I convinced him to teach - so you can learn from him over this super special NFT class here: https://nasacademy.com/benyu (Promo Code: NFT199)&#10;&#10;Be careful out there. This world has gone insane. For good and for bad. &#10;Follow him for more at  https://twitter.com/curiousaddys&#10;&#10;Thank you for watching Nas Daily! We hope you enjoy this video. &#10;&#10;We love making educational content. That's why we started Nas Academy - to help you learn 21st century skills from your favorite Youtubers. Come join us here: https://nasacademy.com/"
+    channeltitle "Nas Daily"
+    channelid "UCJsUvAqDzczYv2UpFmu4PcA"
     favcount 0
-    viewcount 125967
-    likecount 4668
-    commentcount 773
-    duration "PT24M20S"
-    indegree 9
+    viewcount 646892
+    likecount 29657
+    commentcount 2261
+    duration "PT5M41S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 122
+    id 100
+    name "122"
     label "5dAZTvbmZZ4"
     step 0
     date "2021-03-11T21:32:30Z"
@@ -1837,11 +2820,21 @@ graph
     commentcount 2613
     duration "PT1M"
     indegree 5
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 123
+    id 101
+    name "123"
     label "peUF5SyBXJE"
     step 0
     date "2022-01-29T16:00:21Z"
@@ -1855,29 +2848,49 @@ graph
     commentcount 2618
     duration "PT30M41S"
     indegree 33
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 102
+    name "124"
+    label "yOCuipBNsB4"
+    step 0
+    date "2022-06-02T12:00:15Z"
+    title "MC HotDog Animation Video"
+    description "&#12304;ROCK Animation MV&#12305;&#10;&#27489;&#36814;&#35330;&#38321;&#28414;&#30707;&#21809;&#29255;YouTube&#23448;&#26041;&#38971;&#36947; &#8594; http://bit.ly/RockRecords&#10;#MC_HotDog&#29105;&#29399;  &#12298;#NFT&#12299;&#21205;&#30059;&#27468;&#35422;&#29256; MV &#10;2022.06.02 (&#22235;) &#26202;&#19978;8&#40670; MV&#39318;&#25773;&#10;&#10;&#36996;&#27794;&#20358;&#24471;&#21450;&#25630;&#28165;&#26970;&#21508;&#31278;&#34395;&#25836;&#24163;&#23601;&#24050;&#32147;&#36914;&#21270;&#21040;NFT&#65292;&#30526;&#32882;&#21927;&#22057;&#20013;&#20803;&#23431;&#23449;&#21448;&#31361;&#28982;&#38477;&#33256;&#12290;&#20841;&#24180;&#22810;&#30340;&#26178;&#38291;&#36523;&#39636;&#36996;&#22256;&#22312;&#30123;&#24773;&#37329;&#37666;&#21371;&#23637;&#38283;&#20102;&#26032;&#30340;&#36938;&#25138;&#65292;&#34395;&#25836;&#30340;&#19990;&#30028;&#35041;&#26377;&#28023;&#24066;&#34563;&#27155;&#30340;&#24187;&#24433;&#65292;&#30495;&#26159;&#36229;&#23628;&#30340;&#38728;&#32905;&#20998;&#38626;&#12290;&#10;&#10;&#29694;&#22312;&#30340;&#19990;&#30028;&#36996;&#22312;&#21463;&#33510;&#65292;&#21371;&#24819;&#20687;&#33879;&#23559;&#20358;&#26371;&#22312;&#20803;&#23431;&#23449;&#35041;&#36339;&#33310;&#12290;&#21475;&#32617;&#25140;&#22312;&#22068;&#19978;&#21448;&#19981;&#26159;&#36974;&#30524;&#30340;&#32670;&#24067;&#65292;&#22823;&#23478;&#37117;&#30475;&#24471;&#35211;&#26159;&#35504;&#22312;&#36861;&#27714;&#36001;&#23500;&#21371;&#20335;&#31281;&#26159;&#21109;&#36896;&#34269;&#34899;&#65292;&#30097;&#20284;&#32769;&#40736;&#26371;&#33256;&#26178;&#25645;&#24314;&#30340;&#19968;&#24231;&#26032;&#29128;&#22612;&#35480;&#24785;&#22823;&#23478;&#32380;&#32396;&#30070;&#38894;&#33756;&#21475;&#21619;&#30340;&#30333;&#32769;&#40736;&#12290;&#10;&#10;&#22283;&#29579;&#30340;&#26032;&#34915;&#36889;&#27425;&#36996;&#26159;&#20013;&#20108;&#32769;&#30007;&#23401;&#29105;&#29399;&#20358;&#35498;&#30772;&#65292;NFT&#65292;Nonstop Fxxking Trouble&#65292;&#36889;&#25165;&#26159;&#23531;&#22312;&#25105;&#20497;&#20844;&#37832;&#19978;&#30340;&#38750;&#21516;&#36074;&#24615;&#65292;&#19981;&#29992;&#21152;&#23494;&#65292;&#29544;&#19968;&#28961;&#20108;&#23427;&#28961;&#27861;&#20132;&#26131;&#65292;&#35504;&#20063;&#36023;&#19981;&#36208;&#25105;&#20497;&#20154;&#29983;&#30340;&#30495;&#23526;&#24615;&#12290;&#10;&#10;&#23186;&#39636;&#28818;&#20316;&#22909;&#35498;&#27513;&#35498;&#20828;&#21806;&#19968;&#22580;&#22818;&#65292;&#26354;&#32218;&#22294;&#36215;&#20239;&#19978;&#27798;&#19979;&#27927;&#33655;&#21253;&#36996;&#26159;&#31354;&#65292;&#20439;&#35441;&#35498;&#24163;&#22280;&#19968;&#22825;&#20154;&#38291;&#21313;&#24180;&#65292;&#20599;&#27833;&#21507;&#30340;&#21322;&#20154;&#21322;&#40736;&#19981;&#30693;&#20309;&#26178;&#26371;&#28414;&#19979;&#20358;&#65292;&#36996;&#19981;&#22914;&#21435;&#25512;&#38463;&#23016;&#30340;&#19977;&#36650;&#36554;&#36305;&#24471;&#24555;&#12290;&#10;&#10;&#29105;&#29399; MC HotDog  &#12298;NFT&#12299;&#9835; https://RockRecordsCo.lnk.to/NFT&#10;&#10;&#12298;NFT&#12299;&#10;&#35422;&#65306;MC HotDog&#29105;&#29399;&#10;&#26354;&#65306;MC HotDog&#29105;&#29399;&#12289;&#39640;&#20208;&#36784; Tipsy Kao   &#10;&#10;&#23665;&#20063; NFT  &#28023;&#20063; NFT&#10;&#24590;&#40636;&#38463;&#35987;&#38463;&#29399;&#20182;&#23229;&#37117;&#22312; NFT&#10;&#20803;&#23431;&#23449;  &#25105;&#20803;&#20320;&#23229;&#30340;&#38622;&#24052;&#23431;&#23449;&#10;&#26085;&#23376;&#37117;&#24555;&#36942;&#19981;&#19979;&#21435;&#21738;&#26377;&#31354;&#31649;&#20197;&#24460;&#10;&#36889;&#31278;&#30095;&#38626;&#30340;&#24863;&#35258;&#38627;&#36947;&#36996;&#19981;&#34395;&#25836;&#65311;&#10;&#34892;&#23629;&#36208;&#32905;&#30340;&#20154;&#20497;&#21834;&#21097;&#19979;&#36544;&#39636;&#10;We are the world &#20294;&#20154;&#39006;&#26681;&#26412;&#28010;&#24471;&#34395;&#21517;&#10;&#36889;&#19990;&#30028;&#36234;&#20358;&#36234;&#33618;&#35628;  &#27963;&#33879;&#20687;&#22312; tripping&#10;&#19981;&#30693;&#19981;&#35258;&#21475;&#32617;&#24050;&#32147;&#25140;&#20102;&#20841;&#24180;&#10;&#37027;&#26085;&#23376;&#24590;&#40636;&#36942;&#30340;  &#36889;&#26178;&#38291;&#20687;&#26159;&#34987;&#25654;&#21163;&#10;&#27599;&#22825;&#37117;&#22312;&#25497;&#25166;  &#26032;&#32862;&#30340;&#30495;&#20551;&#10;&#25343;&#25481;&#32922;&#23376;&#35041;&#30340;&#23401;&#23376;&#22240;&#28858;&#19981;&#25954;&#29983;&#19979;&#10;&#24555;&#40670;&#21435;&#29229;&#25654;  &#27794;&#20154;&#26371;&#20998;&#20139;&#10;&#31649;&#23427;&#20160;&#40636;&#24163;  &#37666;&#30340;&#21619;&#36947;&#32862;&#36215;&#20358;&#26159;&#30495;&#39321;&#10;&#25105;&#20687;&#26159;&#27963;&#22312;&#33290;&#26178;&#31354;&#30340;&#26053;&#20154;&#10;&#30433;&#38957;&#35041;&#38754;&#30433;&#26159;&#28961;&#30433;  &#24439;&#24447;&#27963;&#22312;&#26368;&#24213;&#23652;&#10;Nonstop Fxxking Trouble&#10;&#25105;&#30340; Nonstop Fxxking Trouble&#10;&#28858;&#20309;&#35594;&#35441;&#36234;&#20358;&#36234;&#33618;&#35628;&#10;&#38627;&#36947;&#36889;&#23601;&#26159;&#20320;&#35498;&#30340;&#23431;&#23449;&#10;&#10;&#30070;&#25105;&#25226;&#25151;&#38291;&#30340;&#38272;&#38364;&#19978;&#10;&#24439;&#24447;&#23601;&#36914;&#20837;&#21478;&#22806;&#19968;&#20491;&#23431;&#23449;&#10;&#25110;&#35377;&#23565;&#23401;&#23376;&#20358;&#35498; &#29238;&#27597;&#23601;&#26159;&#20182;&#20497;&#30340;&#23431;&#23449;&#10;&#22914;&#26524;&#19990;&#30028;&#19978;&#30495;&#30340;&#26377;&#25105;&#20497;&#21487;&#20197;&#35320;&#21450;&#21040;&#30340;&#23431;&#23449;&#10;&#37027;&#28858;&#20160;&#40636;&#26159;&#20320;&#20497;&#36889;&#20123;&#29579;&#20843;&#34507;&#20358;&#23450;&#32681;&#23427;&#10;&#10;&#21435;&#20013;&#24515;&#21270;  &#24819;&#35611;&#20123;&#30495;&#24515;&#35441;&#10;&#24478; Type Beat &#21040;&#20057;&#22826;&#24163;  &#20320;&#20497;&#30495; HIP HOP&#10;&#21040;&#24213;&#36889;&#40636;&#34395;&#25836;&#35201;&#24185;&#22043;  &#35731;&#25105;&#30495;&#24515;&#24597;&#10;&#20320;&#36339;&#25105;&#20063;&#36339;  &#30475;&#26368;&#24460;&#35504;&#30340;&#31070;&#32147;&#22823;&#10;&#20182;&#20497;&#37117;&#35498;&#22909;&#26834;&#30340;&#36889;&#23431;&#23449;  &#21487;&#25105;&#24505;&#24213;&#25077;&#10;&#36889;&#23601;&#26159;&#28526;&#27969;  &#20320;&#36889;&#38587;&#39770;&#24555;&#24448;&#36889;&#35041;&#28216;&#10;&#21487;&#24796;&#25105;&#30495;&#30340;&#22826;&#24290;&#20687;&#33287;&#19990;&#38548;&#38626;&#20013;&#10;&#21435;&#30475;&#30475;&#38515;&#38646;&#20061;&#37117;&#27604;&#20320;&#24471;&#39636;&#22810;&#10;&#39131;&#21521;&#20320;  &#39131;&#21521;&#25105;  &#39131;&#21521;&#23431;&#23449;&#10;&#25226;&#37027;&#20123;&#35442;&#27515;&#30340;&#21839;&#38988;&#19968;&#36215;&#24118;&#36914;&#23431;&#23449;&#10;&#25226;&#37027;&#20123;&#19981;&#33021;&#35498;&#30340;&#31192;&#23494;&#20840;&#37096;&#24118;&#36914;&#23431;&#23449;&#10;&#21040;&#21738;&#37117;&#26377;&#36007;&#23500;&#24046;&#36317;  &#26681;&#26412;&#19981;&#38656;&#29702;&#30001;&#10;&#20320;&#35498;&#30340;&#23431;&#23449;&#35041;&#38754;&#26377;&#27794;&#26377;&#30149;&#27602;&#10;&#26159;&#28858;&#20102;&#30332;&#36001;  &#36996;&#26159;&#30495;&#30340;&#28858;&#20102;&#34269;&#34899;&#10;&#24171;&#20320;&#30340;&#38957;&#20687;&#25563;&#19978;&#26032;&#30340;&#34915;&#26381;&#10;&#23427;&#26126;&#26126;&#37276;&#24471;&#35201;&#27515;  &#21487;&#26159;&#21371;&#35731;&#25152;&#26377;&#20154;&#37117;&#23241;&#22930;&#10;&#10;Nonstop Fxxking Trouble&#10;&#25105;&#30340; Nonstop Fxxking Trouble&#10;&#28858;&#20309;&#35594;&#35441;&#36234;&#20358;&#36234;&#33618;&#35628;&#10;&#38627;&#36947;&#36889;&#23601;&#26159;&#20320;&#35498;&#30340;&#23431;&#23449;&#10;&#10;&#10;&#12304;&#21205;&#30059;&#27468;&#35422;&#29256; MV &#35069;&#20316;&#22296;&#38538;&#12305;&#10;A STAYHIGHCREW Production&#10;&#30435;&#35069; Executive Producer&#65306;&#24681;&#20304;Phate@SHCP&#10;&#23566;&#28436; Director&#65306;&#38515;&#29029;&#23431; freddie chen&#10;3D&#21205;&#30059;&#24107; 3D Animator&#65306;&#34081;&#24344;&#32714; Jonni, &#20446;&#38748; Jessie&#10;&#21205;&#30059;&#35373;&#35336; Motion Design&#65306;&#38515;&#29029;&#23431; freddie chen, Yuz(Fiona Yu), &#26519;&#23478;&#35946; Zivlin&#10;&#22294;&#20687;&#35373;&#35336; Graphic Design&#65306;&#26354;&#22855;&#25918;&#20811;Kookiefunk, &#24681;&#20304; Phate, &#38515;&#29029;&#23431; freddie chen&#10;&#10;&#12304;&#38899;&#27138;&#35069;&#20316;&#12305;&#10;&#35422; Lyrics&#65306;MC HotDog&#29105;&#29399;&#10;&#26354; Composer&#65306;MC HotDog&#29105;&#29399;&#12289;&#39640;&#20208;&#36784; Tipsy Kao     &#10;&#35069;&#20316;&#20154; Producer&#65306;&#39640;&#20208;&#36784; Tipsy Kao       &#10;&#32232;&#26354; Music Arranger&#65306;&#39640;&#20208;&#36784; Tipsy Kao&#12289;&#21608;&#36920; Joey&#10;&#21513;&#20182;&#65306;&#21608;&#36920; Joey&#10;&#37636;&#38899;&#24107; Recording Engineer&#65306;&#24247;&#23478;&#35946; Caxton Kang&#10;&#37636;&#38899;&#24037;&#20316;&#23460; Recording Studio&#65306;&#26412;&#33394;&#37636;&#38899;&#23460; True Color Studio&#10;&#28151;&#38899;&#24107; Mixing Engineer&#65306;&#26519;&#28165;&#26234; Zachary Lin &#10;&#28151;&#38899;&#24037;&#20316;&#23460; Mixing Studio&#65306;&#20840;&#21312;&#36890;&#34892;&#37636;&#38899;&#23460; All Access Studio&#10;&#27597;&#24118;&#24460;&#26399;&#34389;&#29702; Mastered by&#65306;&#26519;&#28165;&#26234; Zachary Lin&#10;&#27597;&#24118;&#24460;&#26399;&#34389;&#29702;&#24037;&#20316;&#23460; Mastering Studio&#65306;&#20840;&#21312;&#36890;&#34892;&#37636;&#38899;&#23460; All Access Studio&#10;OP: &#26412;&#33394;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496;&#10;SP: ROCK MUSIC PUBLISHING CO., LTD.&#10;&#10;#&#23002;&#20013;&#20108;&#10;#&#35531;&#20998;&#20139;&#25353;&#35738;&#38283;&#23567;&#37428;&#37946;&#21908;&#10;."
+    channeltitle "&#28414;&#30707;&#21809;&#29255; ROCK RECORDS"
+    channelid "UCPcF3KTqhD67ADkukx_OeDg"
+    favcount 0
+    viewcount 460835
+    likecount 11138
+    commentcount 694
+    duration "PT3M13S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 125
-    label "WzXGjAhYNPI"
-    step 0
-    date "2022-07-12T08:00:21Z"
-    title "The Metaverse and NFTs - The Search #19"
-    description "NFT's, Crypto, and the Metaverse - The Search #19 - James Hennessy&#10;&#10;James Hennessey is the former editor of Business Insider Australia and also writes for a number of publications such as The Guardian, SBS, ABC, Yahoo!Finance on topics including politics, culture and technology.&#10;&#10;Episode Sponsor: Get 20% Off and Free Shipping at https://www.manscaped.com/ when you use the code THESEARCH at checkout.&#10;&#10;Order Spanian's Autobiography 'The Unfiltered Hood Life': &#10;https://ffm.bio/spanian&#10;&#10;Listen To 'The Search' Podcast Here:&#10;https://podcasts.apple.com/us/podcast...&#10;https://open.spotify.com/show/4Vm8MMH...&#10;https://podcasts.google.com/feed/aHR0...&#10;&#10;Follow James Hennessy: &#10;https://twitter.com/jrhennessy&#10;https://www.theterminal.info/&#10;https://www.pedestrian.tv/author/james-hennessy/&#10;&#10;Follow Spanian:&#10;https://www.youtube.com/channel/UCecA...&#10;https://open.spotify.com/artist/60Erm...&#10;https://www.instagram.com/spanian.off...&#10;https://www.tiktok.com/@spanian_offic...&#10;https://www.facebook.com/spanian.offi...&#10;https://www.spanianofficial.com/"
-    channeltitle "Spanian"
-    channelid "UCecAIXPb5KTJz5BFnUzlTaA"
-    favcount 0
-    viewcount 4969
-    likecount 232
-    commentcount 152
-    duration "PT57M36S"
-    indegree 0
-    cluster 3
-  ]
-  node
-  [
-    id 126
+    id 103
+    name "126"
     label "SCBYcWeC-ew"
     step 0
     date "2022-04-15T20:39:10Z"
@@ -1891,11 +2904,21 @@ graph
     commentcount 140
     duration "PT5M"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 127
+    id 104
+    name "127"
     label "k62yN6Z8nlY"
     step 0
     date "2022-02-12T07:33:52Z"
@@ -1909,11 +2932,21 @@ graph
     commentcount 542
     duration "PT10M6S"
     indegree 18
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 128
+    id 105
+    name "128"
     label "THdFCgBwF0w"
     step 0
     date "2022-02-03T17:23:54Z"
@@ -1927,29 +2960,49 @@ graph
     commentcount 313
     duration "PT10M20S"
     indegree 10
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 130
-    label "n-VBRaInTR4"
+    id 106
+    name "129"
+    label "4ckFoPYUMlg"
     step 0
-    date "2022-06-23T22:50:31Z"
-    title "NFT Week in NYC"
-    description "NFT artist Emily Yang, or &#34;pplpleasr,&#34; joins Bloomberg's Sonali Basak on Bloomberg Technology to talk about her latest work &#34;Shibuya,&#34; and the current state of NFTs."
-    channeltitle "Bloomberg Technology"
-    channelid "UCrM7B7SL_g1edFOnmj-SDKg"
+    date "2022-02-19T01:15:12Z"
+    title "Gary Vees NFT Restaurant is a Horrible Joke"
+    description "Thanks Allform for sponsoring! Visit http://allform.com/philion to get 20% off a sofa of your choice!&#10;&#10;&#10;Edited by PattyTrills: https://www.youtube.com/c/PattyTrills&#10;&#10;HIGHLIGHT CHANNEL: https://www.youtube.com/channel/UCDQp...&#10;TWITCH: https://twitch.tv/philionlive&#10;DISCORD: https://discord.gg/ubECAEB&#10;PODCAST: https://bit.ly/2ppf8h7&#10;INSTAGRAM: https://www.instagram.com/philion/&#10;TWITTER: https://twitter.com/thirdeyeoftruth&#10;EMAIL: philionfit@gmail.com"
+    channeltitle "Philion"
+    channelid "UCgKJPhVzv8w0VaZFnS_VmaA"
     favcount 0
-    viewcount 2995
-    likecount 68
-    commentcount 59
-    duration "PT3M56S"
-    indegree 0
-    cluster 8
+    viewcount 276615
+    likecount 11828
+    commentcount 1061
+    duration "PT14M56S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 131
+    id 107
+    name "131"
     label "sfW2TGPjBLA"
     step 0
     date "2022-01-24T16:00:10Z"
@@ -1963,11 +3016,21 @@ graph
     commentcount 1044
     duration "PT4M44S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 132
+    id 108
+    name "132"
     label "Arvu-vVtZAQ"
     step 0
     date "2022-06-24T15:15:24Z"
@@ -1981,29 +3044,49 @@ graph
     commentcount 169
     duration "PT22M30S"
     indegree 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 109
+    name "133"
+    label "luAXOfcg-dY"
+    step 0
+    date "2022-03-25T20:16:57Z"
+    title "The Celebrity NFT Conspiracy (theory)"
+    description "In the past 6 months, Hollywood and celebrity circles have spontaneously picked up the NFT culture craze. Powerful financial firms might have you believe that this is a grass roots adoption by Americas Elite, but the truth might not be so simple. &#10;&#10;From joint investments, to shared management, and agencies, Hollywood has been overrun with a widespread NFT promotion scheme that is far more sinister than it seems on the surface. &#10;&#10;&#10;&#10;&#10;PATREON: https://www.patreon.com/UEG&#10;&#10;JOIN ON LOCALS: https://upperechelon.locals.com/support&#10;&#10;ODYSEE INVITE: https://odysee.com/$/invite/@UpperEchelonGamers:3&#10;&#10;&#10;&#10;&#10625; Axial GT's Channel: https://www.youtube.com/c/AxialGamingTech/videos&#10;&#10;Huge Thank You. Subscribe to him please! &#10;&#10;&#10;&#10;&#10;&#10625; TWITTER: https://twitter.com/UE_UpperEchelon&#10;&#10;&#10;&#10;&#10;&#10625; UPPER ECHELON WEBSITE: https://upperechelon.gg&#10;&#10;&#10625; UPPER ECHELON MERCH STORE: https://teespring.com/stores/upper-echelon&#10;&#10;&#10625; DONATIONS ACCEPTED: https://twitch.streamlabs.com/UpperEchelonGamers&#10;&#10;&#10625; TWITCH LINK: https://www.twitch.tv/upperechelongamers&#10;&#10;&#10625; FACEBOOK: https://www.facebook.com/groups/265696447142986/&#10;&#10;&#10625; DISCORD SERVER: https://discord.gg/9eAwta8&#10;&#10;&#10625; Giraffe Video: https://www.youtube.com/watch?v=R0uNbM0dADc&#10;&#10;&#10625; Video Transitions: William Eklof&#10;&#10;&#10625; Outtro Song: https://www.youtube.com/watch?v=-k4azpOIAfw&#10;&#10;&#10;Bush Week by Nihilore https://soundcloud.com/nihilore&#10;Creative Commons &#8212; Attribution 3.0 Unported  &#8212; CC BY 3.0 &#10;Free Download / Stream: http://bit.ly/2QB2fw7&#10;Music promoted by Audio Library https://youtu.be/UroytzJSVx4&#10;&#10;&#10;MY GAMERTAG: UE Sanctionite&#10;&#10;#NFT #Blockchain #Crypto"
+    channeltitle "Upper Echelon Gamers"
+    channelid "UChI0q9a-ZcbZh7dAu_-J-hg"
+    favcount 0
+    viewcount 104732
+    likecount 7801
+    commentcount 994
+    duration "PT12M32S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 135
-    label "A6cx9nyhPDs"
-    step 0
-    date "2022-03-16T18:47:54Z"
-    title "Streamer is Selling NFT Early Access to His Game That Does Not Exist Yet"
-    description "Asmongold reacts to Dr Disrespect selling NFT beta access to his new FPS title... that's not even out yet (by Bigfrytv). Is Doc a scammer or just misunderstood? Are NFTs inevitable for ALL games? Is Lost Ark just the tip of the iceberg? Is WoW pay-to-win or pay-to-play? Is Elden Ring the new trend, or the last good game there will ever be? Let's watch a great report on this by Bigfrytv paired with Asmongold's insight on NFTs and Pay-to-Win, Blockchain and Metaverse, and ultimately all controversial ways companies monetize their games.&#10;&#10;Original Video:&#10;DrDisrespect faces backlash over NFT's in NEW AAA FPS&#10;https://www.youtube.com/watch?v=U3iz3cU07s0&#10;&#10;Subscribe to Bigfrytv!&#10;https://www.youtube.com/channel/UC7FVdUA3SxDMfl4fLBGlADg&#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Elden Ring, Lost Ark, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; &#127928; Outro song: CatDany - Get Enough&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact::&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
-    channeltitle "Asmongold TV"
-    channelid "UCQeRaTukNYft1_6AZPACnog"
-    favcount 0
-    viewcount 554835
-    likecount 12003
-    commentcount 2728
-    duration "PT45M6S"
-    indegree 2
-    cluster 3
-  ]
-  node
-  [
-    id 136
+    id 110
+    name "136"
     label "lG6554HrLh4"
     step 0
     date "2022-07-07T15:00:27Z"
@@ -2017,11 +3100,21 @@ graph
     commentcount 153
     duration "PT20M50S"
     indegree 7
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 137
+    id 111
+    name "137"
     label "cLB7u0KQFIs"
     step 0
     date "2022-03-18T14:01:51Z"
@@ -2035,11 +3128,21 @@ graph
     commentcount 843
     duration "PT1H20S"
     indegree 11
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 138
+    id 112
+    name "138"
     label "sZsbFkOjgcQ"
     step 0
     date "2022-07-07T01:10:25Z"
@@ -2053,11 +3156,21 @@ graph
     commentcount 1566
     duration "PT12M29S"
     indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 139
+    id 113
+    name "139"
     label "H-dSNk9zqh8"
     step 0
     date "2022-07-10T20:25:01Z"
@@ -2071,11 +3184,21 @@ graph
     commentcount 30
     duration "PT15M52S"
     indegree 1
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 140
+    id 114
+    name "140"
     label "4h3eU99dTb0"
     step 0
     date "2022-02-16T11:45:00Z"
@@ -2089,11 +3212,21 @@ graph
     commentcount 77
     duration "PT29M55S"
     indegree 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 10
   ]
   node
   [
-    id 141
+    id 115
+    name "141"
     label "qt1equGhkQE"
     step 0
     date "2022-03-19T04:30:26Z"
@@ -2107,29 +3240,49 @@ graph
     commentcount 3542
     duration "PT1M35S"
     indegree 1
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 143
-    label "bp-LSmD-gAI"
+    id 116
+    name "142"
+    label "BBryb-THJOw"
     step 0
-    date "2022-01-28T09:00:31Z"
-    title "How to Create  Tutorial | Step by Step (Under 10 minutes)"
-    description "In this video, I will be sharing a complete step-by-step guide about how to create &#38; sell your first [NFT] (Under 10 minutes).&#10;NFT is a non-fungible token, I have already created a video on this. &#10;https://youtu.be/XCQOPsyp9Q0&#10;&#10;You will learn how to create an NFT for free, how to sell an NFT, and what are the basic requirements for making and selling NFT's. It's basically a Crypto Art&#127912; Tutorial for everyone who wants to earn money from NFT's&#10;&#10;Watch the video to learn more about NFT's, what is metaverse, what is all this hipe, and how you can make money with all this.&#10;&#10;#NFT #Metamask #CryptoArt&#10;&#10;Subscribe to my Youtube Channel: https://www.youtube.com/azadchaiwala&#10;&#10;FaceBook: https://Facebook.com/AzadChaiwala&#10;TikTok: https://vm.TikTok.com/x9nHhx/&#10;Instagram: https://Instagram.com/AzadChaiwala&#10;Twitter: https://Twitter.com/AzadChaiwala&#10;&#10;Watch My Life Story&#10;AZAD CHAIWALA kon hai? | How I Became a Millionaire | My Life's Story!&#10;https://youtu.be/8LHUQNvwEls&#10;&#10;Contact: Admin@Chaiwala.com&#10;&#10;&#10;- Learn A New Life-Changing Skill From My Institute: http://AzadChaiwala.pk"
-    channeltitle "Azad Chaiwala"
-    channelid "UCM5QNdoIefx6eumjPk8ZTMw"
+    date "2022-07-10T21:00:06Z"
+    title "GEORGE BASHES LOGAN PAUL FOR NFT OBSESSION"
+    description "Video from Ep. 333 The Sidemen Reveal KSI&#8217;s Problem, Jake Paul Diss Track, UK vs. American Women&#10;https://www.youtube.com/watch?v=-LkNJu6KLH0&#10;&#10;Wear Maverick Clothing &#9658; https://maverickclothing.com/&#10;SUBSCRIBE TO THE PODCAST &#9658; https://www.youtube.com/impaulsive&#10;ADD IMPAULSIVE ON INSTAGRAM &#9658;https://www.instagram.com/impaulsiveshow/&#10;&#10;LISTEN ON:&#10;ITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2&#10;SPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw&#10;CASTBOX: https://castbox.fm/vc/1486024&#10;&#10;ADD ME ON:&#10;INSTAGRAM: https://www.instagram.com/LoganPaul/&#10;TWITTER: https://twitter.com/LoganPaul&#10;&#10;***PLEASE NOTE***&#10;Impaulsive is a significant break from the typical content viewers have come to expect from the vlog channel &#38; we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.&#10;&#10;#LoganPaul #Sidemen #GeorgeJanko"
+    channeltitle "IMPAULSIVE Clips"
+    channelid "UCE9ZKI1b_PhVm3gejYuilhw"
     favcount 0
-    viewcount 382049
-    likecount 15319
-    commentcount 1490
-    duration "PT11M58S"
-    indegree 25
-    cluster 5
+    viewcount 93203
+    likecount 2701
+    commentcount 318
+    duration "PT7M13S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 144
+    id 117
+    name "144"
     label "NI1ztGlXC2A"
     step 0
     date "2022-02-02T23:00:20Z"
@@ -2143,11 +3296,21 @@ graph
     commentcount 1036
     duration "PT13M20S"
     indegree 1
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 145
+    id 118
+    name "145"
     label "P-I5ctMJBhY"
     step 0
     date "2022-05-29T19:27:42Z"
@@ -2161,29 +3324,49 @@ graph
     commentcount 1807
     duration "PT46M57S"
     indegree 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 147
-    label "fW4TaB91SHM"
+    id 119
+    name "146"
+    label "ABMf6QuoQEk"
     step 0
-    date "2022-07-07T14:00:30Z"
-    title "INSANE NFT SCAM  Upcoming NFTs Mint | Project Godjira, Clone X, Memeland NFT, The Parallax NFT News"
-    description "Discover Upcoming NFTs to Mint in July &#38; HUGE NFT News about Project Godjira NFTs, Clone X NFTs, Memeland NFTs, BF Party NFTs, Nickelodeon NFTs, Degen Town NFTs, The Parallax NFTs.&#10;&#10;The Parallax Opensea: https://opensea.io/collection/theparallaxgenesis&#10;The Parallax Twitter: https://twitter.com/TheParallaxHQ&#10;The Parallax Discord: https://discord.gg/theparallax&#10;Patrick Dang Twitter: https://twitter.com/patrickdang&#10;&#10;Subscribe to The Parallax: https://www.youtube.com/theparallaxhq?sub_confirmation=1&#10;&#10;0:00 INSANE NFT SCAM &#38; Upcoming NFTs Mints | Project Godjira BULLISH, Clone X, Memeland NFT, The Parallax NFT News &#10;0:10 NFT News: NFT SCAM&#10;1:26 NFT Project Updates: Clone X NFT - RTFKT Studios NFT&#10;2:54 Upcoming NFT Mint: BF Party NFT&#10;4:20 Upcoming NFT Mint: Nickelodeon NFT - Rugrats NFT / Hey Arnold NFT&#10;6:06 Solana NFT Projects: Degen Town NFT&#10;7:03 Crypto News: Solana Mobile&#10;9:09 NFT Projects Update: Project Godjira NFT&#10;10:28 New NFT Project: Real MVP NFT - 9gag NFT&#10;&#10;We'll talk about an NFT scam in NFT news and cover our new NFT project The Parallax NFTs. After that, we'll look at Clone X NFT or RTFKT NFTs to see why it's one of the best NFT to buy right now. Then, we'll cover upcoming NFT Mint BF Party and Nickelodeon NFT. Next, we'll look at Solana NFT project Degen Town NFTs to see if it's good for NFT flipping or flipping NFTs. Then, we'll talk about Solana Mobile, Project Godjira IRL Meet. Finally, we'll review You the Real MVP NFT by 9gag NFT or Memeland NFT. &#10;&#10;#nfts #clonex #nfts &#10;&#10;The Parallax is a media company committed to helping you navigate the new frontier of NFTs, Web3, and crypto.&#10;&#10;Disclaimer: The content expressed on The Parallax and by Patrick Dang is for educational and entertainment purposes only and should not be used as financial advice. Do your own research and consult with a professional financial advisor before making any financial decisions."
-    channeltitle "The Parallax"
-    channelid "UC8yPfDWbGGE7T66_eWJERZg"
+    date "2021-11-25T01:30:08Z"
+    title "Lil Baby Talks Bored Ape NFT "
+    description "In this week's episode, Lil Baby stops by the world-famous Icebox showroom to check out our incredible selection of high-end, luxury diamond jewelry!&#10;&#10;Watch as Lil baby runs into YK Osiris and cuts up with some really funny jokes!&#10;&#10;Lil Baby also shares some insight on his 'Bored Ape' NFT! &#10;&#10;Watch the full episode and comment on your favorite part below!&#10;&#10;AS ALWAYS,&#10;THANK YOU FOR WATCHING!&#10;&#10;SUBSCRIBE NOW FOR OUR WEEKLY VIDEOS!!&#10;&#9658;&#9658; https://bit.ly/2JCefqq&#10;&#10;WANT MORE ICEBOX CONTENT?!&#128071;&#10;Instagram &#8226; www.instagram.com/Icebox&#10;TikTok &#8226; www.tiktok.com/@icebox?source...&#10;Twitter &#8226; www.twitter.com/Icebox&#10;Facebook &#8226; www.facebook.com/Icebox&#10;Pinterest &#8226; www.pinterest.com/Icebox&#10;&#10;SHOP OUR WEBSITE HERE - http://www.icebox.com/y&#10;&#10;Icebox Diamonds &#38; Watches&#10;3255 Peachtree Road NE&#10;Atlanta, GA 30305&#10;&#10;#LilBaby #BoredApe #NFT"
+    channeltitle "Icebox"
+    channelid "UCv8gFyATae1x0VmDHmNbIhg"
     favcount 0
-    viewcount 3176
-    likecount 142
-    commentcount 26
-    duration "PT12M58S"
-    indegree 9
-    cluster 1
+    viewcount 2133181
+    likecount 33717
+    commentcount 2710
+    duration "PT16M54S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 148
+    id 120
+    name "148"
     label "I-Gri991SDQ"
     step 0
     date "2022-02-05T07:30:02Z"
@@ -2197,11 +3380,21 @@ graph
     commentcount 739
     duration "PT25M59S"
     indegree 3
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 149
+    id 121
+    name "149"
     label "RDeCNQCXyto"
     step 0
     date "2022-07-07T20:47:14Z"
@@ -2215,11 +3408,21 @@ graph
     commentcount 30
     duration "PT39M19S"
     indegree 5
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 150
+    id 122
+    name "150"
     label "451V-lBLfuo"
     step 0
     date "2022-02-15T13:47:52Z"
@@ -2233,11 +3436,21 @@ graph
     commentcount 1177
     duration "PT11M36S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 151
+    id 123
+    name "151"
     label "gSXYn4HFQlI"
     step 0
     date "2022-06-30T19:00:12Z"
@@ -2251,11 +3464,21 @@ graph
     commentcount 200
     duration "PT12M8S"
     indegree 10
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 152
+    id 124
+    name "152"
     label "cn8QgznNFpU"
     step 0
     date "2022-02-05T14:00:11Z"
@@ -2269,11 +3492,21 @@ graph
     commentcount 87
     duration "PT9M20S"
     indegree 1
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 153
+    id 125
+    name "153"
     label "0BOtwXTa3vA"
     step 0
     date "2022-07-05T13:16:57Z"
@@ -2287,11 +3520,21 @@ graph
     commentcount 59
     duration "PT6M25S"
     indegree 1
-    cluster 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 154
+    id 126
+    name "154"
     label "_Z99COgONYQ"
     step 0
     date "2021-11-10T21:22:54Z"
@@ -2305,29 +3548,49 @@ graph
     commentcount 2209
     duration "PT13M41S"
     indegree 35
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 156
-    label "XWQCD-TYXhA"
+    id 127
+    name "155"
+    label "KsnvKyly0DQ"
     step 0
-    date "2021-05-23T03:30:06Z"
-    title "#NFT Explained in Hindi | How to #MakeMoney with Non Fungible Tokens? | Ethereum Blockchain"
-    description "In this video, you will learn how to make money with #NFT(#NonFungibleToken) based on ethereum blockchain technology.&#10;&#10;If you want to Invest in Crypto Download CoinDCX App &#38; get &#8377;100 Free Bitcoin : &#10;https://bit.ly/OfferCrypto&#10;&#10;&#10;To Invest in stocks, &#10;&#10;Open Free Demat Account on Upstox: https://bit.ly/UpstoxAccountOffer&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;Fungible, Non Fungible 00:00&#10;Non Fungible Token 02:39&#10;Benifit to creator of NFT 03:38&#10;69 million art work by Beeple 04:12&#10;How to make NFT 06:24&#10;Endnote 07:58&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;*&#10;&#10;About the Trainer :&#10;&#10;Master of Leadership Psychology, Pushkar Raj Thakur is one of the Most Influential Motivational Speaker &#38; Digital Entrepreneurship Coach in India. A SelfMade Millionaire on the Mission to Make India #GoSelfMade. Inspiring millions of people, he is regarded as the Youth Icon and the Change Expert.&#10;&#10;He has been featured in several publications such as The Times of India, Hindustan Times, etc. He trains on Success Mindset, Influencing People, Network Marketing, Leadership, Sales, Performance Acceleration, Wealth Creation, and Life Mastery.&#10;&#10;He is the Creator of his trademark Courses, &#8220;The Last Course for Your Best life&#8221;, &#8220;Bang On in Network Marketing&#8221;, &#8220;The Design of My Life&#8221; &#38; &#8220;The Fast Track Millionaire Course&#8221;.&#10;&#10;He is a Serial Entrepreneur and Founder of Coursedes Learning Solutions Pvt, India&#8217;s Leading E-Learning Platform committed to providing Self Help, Skills Development &#38; Income Oriented Training Courses by the Best Trainers in the Industry!&#10;&#10;He is the founder of PRT GLOBAL SOLUTIONS, which is a Peak Performance Training &#38; Development firm, providing Leadership &#38; Entrepreneurship Skills to Individuals &#38; Organisations to attain continuous growth &#38; acceleration in revenue generation &#38; overall brand enhancement.&#10;&#10;People love Pushkar Raj Thakur for his Electrifying Motivation and Life Transforming Wisdom. He is a Humorous and yet Thought Provoking Master of Motivation, a deadly combination in a Motivational Speaker! &#10;&#10;Caution: Getting into his Courses Immediately Leads to Change in Mental Framework and Chances for Success in any area of Life!&#10;&#10;Ask any question you have in the comments below or email:&#10;Info@coursedes.com&#10;&#10;Follow us on:&#10;Facebook: http://bit.ly/2TkyIYo&#10;&#10;Instagram: http://bit.ly/2FH6b7z&#10;&#10;Youtube:  http://bit.ly/2FLcZkp&#10;&#10;Twitter: http://bit.ly/2tcDOvd&#10;&#10;LinkedIn:http://bit.ly/2RfJWel&#10;&#10;http://www.pushkarrajthakur.com/&#10;&#10;To Join our Courses, Call @ 9999470710&#10;&#10;#GoSelfMadeUniversity"
-    channeltitle "Pushkar Raj Thakur: Business Coach"
-    channelid "UCEAAzv2OBqxsSczKJ2QZyGQ"
+    date "2022-07-10T21:00:16Z"
+    title "The Technoblade NFT Is Disgusting..."
+    description "People began making NFTs about Technoblade after his unfortunate passing...&#10;----------------------------&#10;SOCIAL MEDIA/SUPPORT ME:&#10;&#9658; Merch: https://www.shoptimus.net&#10;&#9658; Shorts Channel (OptimusShorts): https://www.youtube.com/channel/UCdcJ-PuzBHzCHZvp2SKgVZw&#10;&#9658; Twitter: https://www.twitter.com/SubToOptimus&#10;&#9658; Twitch: https://www.twitch.tv/subtooptimus&#10;&#9658; Facebook: https://www.facebook.com/SubToOptimus&#10;&#9658; Second Channel (MoreOptimus): https://www.youtube.com/channel/UCOAnnJnRG_XIBKSViKQBuwQ&#10;&#10;Join OptimusPlus+ for $4.99/month to help support my content: https://www.youtube.com/channel/UCuVgoagmU3hmfMwtxG9s4Sw/join&#10;&#10;Thank you for watching another Optimus upload!"
+    channeltitle "Optimus"
+    channelid "UCuVgoagmU3hmfMwtxG9s4Sw"
     favcount 0
-    viewcount 775559
-    likecount 55339
-    commentcount 1404
-    duration "PT8M14S"
-    indegree 23
-    cluster 5
+    viewcount 81407
+    likecount 4670
+    commentcount 512
+    duration "PT8M34S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 157
+    id 128
+    name "157"
     label "PbBft8SPpCA"
     step 0
     date "2022-02-16T20:10:15Z"
@@ -2341,29 +3604,49 @@ graph
     commentcount 2533
     duration "PT11M45S"
     indegree 6
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 159
-    label "2D6iqZLKhLY"
+    id 129
+    name "158"
+    label "BjS7c4PoHlg"
     step 0
-    date "2021-09-10T20:00:01Z"
-    title "CRYPTOART REVOLUTION - The NFT Documentary | An Adorama Original"
-    description "'CRYPTOART REVOLUTION - The NFT Documentary' was created by filmmaker Sal D'Alia, Sr. Video Producer at Adorama in NYC. The documentary educates and informs about the new and quickly growing world of crypto art.&#10; &#10;How will this new technology affect the world of art? How does it affect the community and the environment? These are just some of the questions answered in &#34;CRYPTOART REVOLUTION - The NFT Documentary'.&#10; &#10;The world of cryptocurrency and art is expanding every day and can have instrumental future impacts on different fields. But this program chronicles where and how it all began.&#10;&#10;SUBSCRIBE AND BE PART OF THE ADORAMA FAMILY: &#10;&#10149; https://www.youtube.com/user/adoramaTV &#10;&#10;#nft #cryptoart #adorama&#10;__________________________________&#10;Be the first to shop our great deals and sales by signing up for emails from Adorama!&#10;https://www.adorama.com/MyAccount/Login?&#38;NextPage=/nspc/MyAccount&#10;&#10;__________________________________                                                                                            &#10;&#10064; LET'S GET SOCIAL &#10063;&#10;&#10149; Facebook https://www.facebook.com/adorama/ &#10;&#10149; Instagram https://www.instagram.com/adorama/ &#10;&#10149; Twitter https://twitter.com/adorama&#10;&#10149; Twitch https://www.twitch.tv/adoramaxp&#10;&#10149; Adorama Music https://www.youtube.com/adoramamusic&#10;&#10;&#10064; MORE ADORAMA &#10063;&#10;&#10149; Blog https://www.adorama.com/alc/&#10;&#10149; Shop https://www.adorama.com/&#10;&#10149; Podcast https://www.adorama.com/g/adorama-podcast#&#10;&#10149; Live Events https://www.adorama.com/g/42-live&#10;&#10149; Create No Matter What https://www.adorama.com/g/create-no-matter-what&#10;&#10;__________________________________&#10;Artists Featured in the Documentary&#10;&#10;Created By - Salvatore D'Alia&#10;https://www.instagram.com/timbuz/&#10;https://twitter.com/timbuz1&#10;&#10;Executive Producer - Garrette Furo &#10;in collaboration with - MADE BY ANIMUS&#10;https://twitter.com/madebyanimus&#10;&#10;Original Score by - Ollie Chanin&#10;olliechanin.net/links/&#10;&#10;Actor - Naaji Adzimah (Speaker for the role of Dahlia)&#10;https://naajisky.com/&#10;&#10;Lindsay Adler &#10;https://twitter.com/lindsayadler&#10;&#10;Darius Puia - the @BakaArts&#10;https://www.instagram.com/bakaarts/&#10;https://twitter.com/TheBakaArts&#10;&#10;Garrette Furo &#10;https://twitter.com/garrettedvf&#10;&#10;Jose N. Silva&#10;https://www.instagram.com/jnsilva/&#10;https://twitter.com/JNSilva_&#10;&#10;Isabelle Kitze&#10;https://twitter.com/IsabelleKitze&#10;&#10;Ronin The Collector&#10;https://www.instagram.com/ronindacc/&#10;https://twitter.com/RoninDaCC&#10;&#10;Alessio De Vecchi&#10;https://www.instagram.com/alessiodevecchi/&#10;https://twitter.com/alessiodevecchi&#10;&#10;Dave Krugman&#10;https://www.instagram.com/dave.krugman/&#10;https://twitter.com/dave_krugman&#10;&#10;Matthew Liu&#10;https://www.instagram.com/matthewliu/&#10;https://twitter.com/matthewliu&#10;&#10;Krista Kim&#10;https://www.instagram.com/krista.kim/&#10;https://twitter.com/Krista_Kim&#10;&#10;Ravi Vora&#10;https://www.instagram.com/ravivora/&#10;https://twitter.com/RaviVora&#10;&#10;CryptoGraffiti&#10;https://www.instagram.com/cryptograffiti/&#10;https://twitter.com/cryptograffiti&#10;&#10;Jonathan Perkins&#10;https://www.instagram.com/superrare.co/&#10;https://twitter.com/SuperRarePerks&#10;&#10;Tim Kang - @illestrater&#10;https://www.instagram.com/illestrater_/&#10;https://twitter.com/illestrater_&#10;&#10;Rare Scrilla&#10;https://www.instagram.com/thescrillionaire/&#10;https://twitter.com/ScrillaVentura&#10;&#10;Nana Opoku - @afroscope&#10;https://www.instagram.com/afroscope/&#10;https://twitter.com/afroscope_&#10;&#10;Dangiuz&#10;https://www.instagram.com/dangiuz/&#10;https://twitter.com/dangiuz&#10;&#10;NessGraphics&#10;https://www.instagram.com/nessgraphics/&#10;https://twitter.com/Ness_Graphics&#10;&#10;AVXD&#10;https://www.instagram.com/avxd/&#10;https://twitter.com/Xpletive&#10;&#10;Florian Ahegger&#10;https://www.instagram.com/canflorianahegger/&#10;https://twitter.com/canflorianaheg1&#10;&#10;Graphics by - Epy Carrieri, Cal Calderon &#10;&#10;Audio Mix by - Angelo Panetta&#10;&#10;__________________________________&#10;THANKS SO MUCH FOR WATCHING!"
-    channeltitle "Adorama"
-    channelid "UC8Pksdbj37CdE00kmE7Z1dw"
+    date "2022-07-10T22:00:04Z"
+    title "What Advice Would AI Give To A FAMOUS YouTuber?! + EXCLUSIVE NFT NYC Access"
+    description "Top Videos:&#10;&#128211;Crypto 101: https://youtu.be/AaNfHskwLdg&#10;&#127960;&#65039;Housing Crisis: https://youtu.be/a51Oi34c6Jc&#10;&#127760;Internet Is Rotting Away: https://youtu.be/_rB6vjvYjNE&#10;&#128187;Cyber Warfare: https://youtu.be/gubDnq8jJxI&#10;&#127757;World Economic Forum: https://youtu.be/ZOOtPB1pYtE&#10;&#10;&#10;Learn more about crypto &#10145;&#65039; https://bitlabacademy.com&#10;How to join Cardano (ADA) BitPool &#10145;&#65039; https://bitboycrypto.com/how-to-stake-ada-with-bpool/&#10;&#10145;&#65039; MERCHANDISE: https://www.hitmerch.com/&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;Connect with Me &#38; the BitSquad!&#10;Join the BitSquad &#10145;&#65039; http://t.me/BitSquad&#10;Join BitSquad Traders &#10145;&#65039; http://t.me/BitSquadTraders&#10;Join Me on Twitter &#10145;&#65039; https://twitter.com/Bitboy_Crypto&#10;Join Me on Instagram &#10145;&#65039; https://www.instagram.com/bitboy_crypto&#10;Join Me on TikTok &#10145;&#65039; https://www.tiktok.com/@RealBitBoyCrypto&#10;Join Me on Minds &#10145;&#65039; https://www.minds.com/bitboy_crypto&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;ByBit, Market Cipher, Ledger, TokenMetrics, Crypto.com &#38; more!&#10;Find deals on hardware wallets, trading indicators, exchanges &#38; more.&#10;Find Crypto DEALS &#10145;&#65039; https://bitboycrypto.com/deals&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;All of our videos are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies and not all strategies fit all people. Our videos ARE NOT financial advice.&#10;&#10;#bitcoin #ethereum #crypto #news #nft #economy #money #blockchain #invest #inflation"
+    channeltitle "BitBoy Crypto"
+    channelid "UCjemQfjaXAzA-95RKoy9n_g"
     favcount 0
-    viewcount 48123
-    likecount 900
-    commentcount 60
-    duration "PT54M12S"
-    indegree 4
-    cluster 2
+    viewcount 14092
+    likecount 770
+    commentcount 55
+    duration "PT5M20S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 160
+    id 130
+    name "160"
     label "MudPwoMxjQI"
     step 0
     date "2022-01-21T15:00:12Z"
@@ -2377,11 +3660,21 @@ graph
     commentcount 1203
     duration "PT44M41S"
     indegree 4
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 161
+    id 131
+    name "161"
     label "cY9lM73ie0Q"
     step 0
     date "2021-03-11T21:00:24Z"
@@ -2395,11 +3688,21 @@ graph
     commentcount 483
     duration "PT1H22M21S"
     indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 162
+    id 132
+    name "162"
     label "3MgXegC5eKQ"
     step 0
     date "2021-03-14T09:04:04Z"
@@ -2413,29 +3716,49 @@ graph
     commentcount 510
     duration "PT13M15S"
     indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 165
-    label "pczpvTI8pzU"
+    id 133
+    name "163"
+    label "_LyfkjuWc9Y"
     step 0
-    date "2022-07-12T02:23:02Z"
-    title "Holder"
-    description "NFT Aerfa Twitter Space&#31995;&#21015;&#27963;&#21160;&#65306;https://twitter.com/NFT_Aerfa&#10;&#10;NFT Aerfa - The largest Asian NFT publisher and trader community: https://discord.gg/nftaerfa&#10;&#10;Fortune Dao Genesis - Membership Pass NFT created by NFT Aerfa: https://opensea.io/collection/fortune-dao-genesis&#10;&#10;NFA &#38; DYOR"
-    channeltitle "NFT Aerfa"
-    channelid "UCGQygNQntFHmzLsubpSkAOQ"
+    date "2022-03-25T04:05:48Z"
+    title "NEW NFT CODES + NEW TRADING BEN ITEM UPDATE IN POP IT TRADING | Pop It Trading  | ROBLOX"
+    description "xox studios channel: https://www.youtube.com/c/XOXSTUDIOS&#10;&#10;HI GUYS AND WELCOME TO THIS ROBLOX VIDEO.&#10;&#10;MAKE SURE TO SUBSCRIBE AND LIKE FOR MORE ROBLOX CONTENT&#10;&#10;THANKS! THESE ARE ALL ROBLOX CODES&#10;&#10;HERE IS MY ROBLOX GROUP AND MY ROBLOX PROFILE:&#10;&#10;group: https://www.roblox.com/groups/3637358/GoldenOwl-Fan-Group#!/about&#10;profile: https://www.roblox.com/users/95319131/profile"
+    channeltitle "GoldLeaf"
+    channelid "UCjTmXtQgMC3dSNJ2q3auBSQ"
     favcount 0
-    viewcount 511
-    likecount 13
-    commentcount 4
-    duration "PT24M4S"
-    indegree 2
-    cluster 6
+    viewcount 228801
+    likecount 3434
+    commentcount 403
+    duration "PT1M19S"
+    indegree 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 166
+    id 134
+    name "166"
     label "tClwCAFppn8"
     step 0
     date "2022-07-08T23:39:23Z"
@@ -2449,11 +3772,21 @@ graph
     commentcount 154
     duration "PT6M12S"
     indegree 3
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 167
+    id 135
+    name "167"
     label "8K-xkPP7Hfk"
     step 0
     date "2021-11-27T21:43:33Z"
@@ -2467,11 +3800,21 @@ graph
     commentcount 166
     duration "PT8M27S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 168
+    id 136
+    name "168"
     label "lDbFLYAQP7w"
     step 0
     date "2022-07-08T18:32:54Z"
@@ -2485,11 +3828,21 @@ graph
     commentcount 87
     duration "PT24M33S"
     indegree 12
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 169
+    id 137
+    name "169"
     label "1dZMHj1n3cQ"
     step 0
     date "2022-06-27T20:48:55Z"
@@ -2503,11 +3856,21 @@ graph
     commentcount 306
     duration "PT25M41S"
     indegree 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 170
+    id 138
+    name "170"
     label "vey47Q2JqIM"
     step 0
     date "2022-01-09T23:05:08Z"
@@ -2521,11 +3884,21 @@ graph
     commentcount 110
     duration "PT13M24S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 171
+    id 139
+    name "171"
     label "XCQOPsyp9Q0"
     step 0
     date "2022-01-13T09:13:46Z"
@@ -2539,11 +3912,21 @@ graph
     commentcount 1118
     duration "PT12M38S"
     indegree 23
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 172
+    id 140
+    name "172"
     label "Me4xQulh0rA"
     step 0
     date "2022-06-27T00:16:45Z"
@@ -2557,11 +3940,21 @@ graph
     commentcount 2055
     duration "PT16M6S"
     indegree 7
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 173
+    id 141
+    name "173"
     label "HPt1o0lxgx4"
     step 0
     date "2022-06-17T21:58:36Z"
@@ -2575,11 +3968,21 @@ graph
     commentcount 386
     duration "PT22M56S"
     indegree 5
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 174
+    id 142
+    name "174"
     label "3ItNzYFh6dc"
     step 0
     date "2022-01-31T14:00:02Z"
@@ -2593,11 +3996,21 @@ graph
     commentcount 789
     duration "PT17M40S"
     indegree 8
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 175
+    id 143
+    name "175"
     label "HdeBqbiqm20"
     step 0
     date "2022-05-03T00:15:00Z"
@@ -2611,11 +4024,21 @@ graph
     commentcount 1382
     duration "PT33M28S"
     indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 176
+    id 144
+    name "176"
     label "TYP8mEe8ils"
     step 0
     date "2022-01-21T23:15:03Z"
@@ -2629,29 +4052,49 @@ graph
     commentcount 2860
     duration "PT5M13S"
     indegree 23
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 178
-    label "FVDkogtYfmo"
+    id 145
+    name "177"
+    label "B4RB8chBNsE"
     step 0
-    date "2021-12-18T16:26:43Z"
-    title "MAKING MONEY FROM NFTS in PAKISTAN - COMPLETE DETAILED GUIDE"
-    description "My Instagram: https://www.instagram.com/ramishsafa/&#10;My Twitter: https://twitter.com/yarramishog&#10;NFT BUZZ: https://www.youtube.com/c/TheYarRamishShow&#10;&#10;How to Buy CRYPTO in PAKISTAN:&#10;https://www.youtube.com/watch?v=-3b38GFluVA&#38;t=376s&#10;&#10;Make a BINANCE Account here:&#10;https://accounts.binance.com/en/register?ref=ZZN2Y6I9&#10;&#10;How to use DISCORD:&#10;https://www.youtube.com/results?search_query=discord+guide&#10;&#10;Metamask:&#10;https://metamask.io/&#10;&#10;Binance to Metamask:&#10;https://www.youtube.com/watch?v=y8zN4bcV0zg&#10;&#10;Metamask to Binance:&#10;https://www.youtube.com/watch?v=bGYL_ul57Xg&#10;&#10;Hope this helps!"
-    channeltitle "YarRamish"
-    channelid "UC2cIhJprvC-X4kGxAkk0Tiw"
+    date "2022-05-15T17:18:57Z"
+    title "guys look a nft"
+    description "Hi welcome to the description of the video &#10;&#10;Subscribe to my channel if you want to unsubscribe&#10;Follow me on Twitter: https://twitter.com/GenyaDev&#10;Follow me on Instagram: https://www.instagram.com/genyadev/&#10;&#10;&#10;And thank you for watching&#10;I guess"
+    channeltitle "Genya Dev"
+    channelid "UCr_AAOd-I_B5FtXtPaXeKBQ"
     favcount 0
-    viewcount 104015
-    likecount 7649
-    commentcount 480
-    duration "PT14M2S"
-    indegree 10
-    cluster 5
+    viewcount 1583400
+    likecount 63459
+    commentcount 1049
+    duration "PT12S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 179
+    id 146
+    name "179"
     label "_GmzTgUGPU4"
     step 0
     date "2021-08-06T21:11:28Z"
@@ -2665,11 +4108,21 @@ graph
     commentcount 303
     duration "PT56M20S"
     indegree 1
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 180
+    id 147
+    name "180"
     label "Gp9C-ebT24o"
     step 0
     date "2022-04-01T16:14:04Z"
@@ -2683,29 +4136,49 @@ graph
     commentcount 2648
     duration "PT13M27S"
     indegree 0
-    cluster 3
-  ]
-  node
-  [
-    id 182
-    label "MKwWpZEuLTs"
-    step 0
-    date "2021-12-29T18:22:41Z"
-    title "How to Create, Deploy, and Sell a Generative Art NFT (Beginner Friendly!)"
-    description "Looking to create your own generative art NFT? In this video, you'll learn the step-by-step process to go from start to finish of creating, deploying, and sharing your very own NFT. Expand the description for code links...&#10;Solidity code: https://whiteboardcrypto.com/solidity-nft-code/&#10;&#10;Python 'mashing' code: https://whiteboardcrypto.com/python-nft-generative-art-code/&#10;&#10;Check out WhiteboardCrypto Club to get your very own NFT before the end of the month: https://whiteboardcrypto.com/whiteboardcrypto-club/&#10;&#10;Or join our newsletter for free to get access to our discord and free DeFi Guide: https://whiteboardcrypto.com&#10;&#10;Explore More Whiteboard Crypto:&#10;Twitter: @whiteboardCryp1&#10;Facebook: @whiteboardcrypto&#10;Instagram: @whiteboardcryptoteam"
-    channeltitle "Whiteboard Crypto"
-    channelid "UCsYYksPHiGqXHPoHI-fm5sg"
-    favcount 0
-    viewcount 104950
-    likecount 5218
-    commentcount 770
-    duration "PT21M17S"
-    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 183
+    id 148
+    name "181"
+    label "iIfE6699TqU"
+    step 0
+    date "2021-11-26T12:13:33Z"
+    title "DUPED!? HOW i GOT a HUGE PEGASUS NFT in Pet Simulator X"
+    description "Preston disabled trading because of duped pets and i get a FREE HUGE PEGASUS just before the bank UPDATE in Pet Simulator X &#10;&#9658; use STARCODE LCLC when BUYING ROBUX&#10;&#9658; Are you SUB'D? https://www.youtube.com/user/lclc01?sub_confirmation=1&#10;&#9658; Join our DISCORD server https://discord.gg/lclc&#10;&#9658; Follow me on TWITTER https://twitter.com/SubToLcLc&#10;&#9658; Follow me on TikTok https://tiktok.com/@LcLc01 &#10;&#9658; Follow me on Insta https://www.instagram.com/SubToLcLc/&#10;&#9658; Join ROBLOX Group https://www.roblox.com/groups/5368483/LcLc01/&#10;&#9658; Roblox Profile https://www.roblox.com/users/169576473/profile&#10;&#9658; Roblox SHIRT https://www.roblox.com/groups/5368483/LcLc01#!/store&#10;&#9658; Roblox UGC https://www.roblox.com/catalog/?Category=13&#38;CreatorName=LcLcO1&#10;&#9658; BUY REAL merch https://lclc.store&#10;&#9658; MY custom 3XS PC https://www.scan.co.uk/3xs/custom/gaming/pages/lclc-pc&#10;&#9658; Mia's YouTube channel https://www.youtube.com/mialuisec&#10;&#9658; BlueCoolPizza channel http://www.bluecoolpizza.com/&#10;&#9658; Become a YT Member https://www.youtube.com/channel/UC5X0rnyJL0PWd650l2T8_ng/join&#10;&#10;LINK TO  'mario' MUSIC https://youtu.be/9L8BSiLNUDk&#10;DjLcLc Music Powerup! - Jeremy Blake&#10;&#10;&#127873; Latest Update [11/13/21] -&#10;- &#128125; Alien Pets!&#10;- &#129514; Alien Lab!&#10;- &#128760; Alien Forest!&#10;- &#129370; 3 New Eggs!&#10;- &#10024; 2 New Mythicals!&#10;- &#128293; Huge Pegasus Pets!&#10;- &#128176; Giant Alien Chest!&#10;- &#128142; Diamond Cap Raised!&#10;- &#128221; Interface Upgrades!&#10;- &#9881;&#65039; Auto Delete Additions!&#10;- &#9878;&#65039; Balancing!&#10;- &#127875; Halloween Event Over!&#10;+ MORE!&#10;&#10;how to get huge pegasus&#10;bank deposit withdraw pets&#10;royalty enchant diamonds 4 5 iv v&#10;alien chest&#10;NFT HUGE PEGASUS&#10;how to use voice chat how to get voice chat&#10;aliens hoverboards&#10;how to get gems how to get diamonds OP method&#10;big cat huge cat&#10;huge pumpkin cat&#10;cursed egg&#10;how to get exclusive pets&#10;where is the giant pumpkin and gem diamond present &#10;how to get candy coins fast easy best method&#10;halloween event and candy coins + ghoul horse mythical pumpkin cat&#10;global trade plaza voice chat 30 players&#10;how to get huge big cat plushie in game pet giveaway&#10;roblox squid game&#10;blimp dragon mechanical spider&#10;steampunk octopus toy mouse ducky magician crocodile fox&#10;insane fusing best method op pets robot techno cat happy computer m-6 prototype mythical&#10;how to make dark matter pets &#10;how to use dark matter machine&#10;is magic egg pass worth it&#10;how to break the GIANT TECH CHEST achievement&#10;triple damage boost&#10;dark matter machine update&#10;High Tech world&#10;how to get pog cat&#10;shipping of huge cat plushie&#10;DARK MATTER&#10;how to get huge big cat code and plush for free&#10;how to get level 3 and where is the traveling merchant &#10;hint how to get POG CAT achievement pog champ&#10;rainbow big maskot&#10;grumpy cat nyan cat knife cat&#10;25 billion area tech world and cyborg pets&#10;how to complete pet collection 350 pets &#10;how to get 15 18 20 pets equipped&#10;PET COLLETION &#10;how to get Pet equipped free pets&#10;how to get pog cat ? pog champ achievement&#10;how to get more pets&#10;infinite pets pass&#10;heaven and hell&#10;demon and hell spider&#10;angel dog angel cat&#10;how to dupe pets&#10;what is dupping&#10;how to get banned&#10;how to buy pets on ebay&#10;how to get rainbow phantom wolf mythical&#10;Mythical Rarity&#10;super rare pets&#10;HAUNTED ISLAND&#10;CANDY ISLAND&#10;GHOSTS&#10;mushroom king&#10;update leaks leaked update&#10;pet simulator x news&#10;how to dupe&#10;duping&#10;ancient island&#10;rainbow samurai dragon&#10;Premium robux exclusive pets&#10;Enchantments&#10;Samurai Island&#10;pet enchants&#10;Enchanted forest&#10;Fantasy World&#10;Enchanted pets&#10;Pet Simulator x UPDATE LEAK leaked leaks&#10;How to get FAST coins in Pet Simulator X&#10;HOW to get MONEY in Pet Simulator X&#10;HOW TO GET RICH in Pet Simulator X&#10;HOW TO GET EASY COINS in Pet Simulator X&#10;How to get FAST diamonds gems in Pet Simulator X&#10;HOW to get diamonds gems in Pet Simulator X&#10;HOW TO GET diamonds gems in Pet Simulator X&#10;HOW TO GET diamonds gems in Pet Simulator X&#10;HOW to get OP Pet Simulator X&#10;HOW to get LEGENDARY RARE EPIC DOMINUS PETS in Pet Simulator X&#10;HOW to FUSE pets in Pet Simulator X&#10;HOW to get GOLD PETS in Pet Simulator X&#10;HOW TO MAKE GOLD PETS in Pet Simulator X&#10;HOW TO GET RAINBOW PETS in Pet Simulator X&#10;HOW to AFK autoclicker in Pet Simulator X&#10;HOW to get VIP in Pet Simulator X&#10;ROBUX GAMEPASSES review is it worth it  in Pet Simulator X&#10;HOW to get GOLDEN EGGS in Pet Simulator X&#10;how to Trade pets in Pet Simulator X ( TRADING )&#10;HOW to UPGRADE PETS in Pet Simulator X&#10;how to get the HOVERBOARD &#38; is it worth it in Pet Simulator X&#10;HOW to rank up and rank rewards in Pet Simulator X&#10;HOW to LEVEL UP and get XP&#10;WHICH UPGRADES are BEST and OP in Pet Simulator X&#10;how to upgrade in Pet Simulator X&#10;SECRETS in Pet Simulator X&#10;Tricks &#38; tricks&#10;BEST method in Pet Simulator X to make coins and diamonds and gems&#10;HOW to make OP gold rainbow and legendary and fuse pets in Pet Simulator X&#10;How to get DOMINUS PETS and LEGENDARY GOLDEN RAINBOW PETS &#10;HOW to get ACHIEVEMENTS in Pet Simulator X&#10;&#10;#ROBLOX #PetSimulatorX #PetSimX&#10;&#10;If you want to play Roblox with me, click one of my profiles so you can join me in game! My joins are open and I have all my profiles listed on my YouTube about page. LcLc"
+    channeltitle "LcLc"
+    channelid "UC5X0rnyJL0PWd650l2T8_ng"
+    favcount 0
+    viewcount 1642798
+    likecount 56231
+    commentcount 7247
+    duration "PT11M2S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 6
+  ]
+  node
+  [
+    id 149
+    name "183"
     label "7OgAuSsEA_4"
     step 0
     date "2022-07-01T22:46:03Z"
@@ -2719,11 +4192,21 @@ graph
     commentcount 245
     duration "PT11M33S"
     indegree 5
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 184
+    id 150
+    name "184"
     label "PRIoYyDRLxg"
     step 0
     date "2022-03-05T16:15:00Z"
@@ -2737,11 +4220,21 @@ graph
     commentcount 431
     duration "PT19M9S"
     indegree 17
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 185
+    id 151
+    name "185"
     label "wmLxjwj8WCA"
     step 0
     date "2021-10-20T15:09:24Z"
@@ -2755,11 +4248,21 @@ graph
     commentcount 429
     duration "PT15M19S"
     indegree 13
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 186
+    id 152
+    name "186"
     label "H3AmrBLUE1g"
     step 0
     date "2022-07-11T15:00:18Z"
@@ -2773,11 +4276,21 @@ graph
     commentcount 959
     duration "PT6M27S"
     indegree 0
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 187
+    id 153
+    name "187"
     label "OnYg9gUvtRg"
     step 0
     date "2022-03-19T21:30:01Z"
@@ -2791,29 +4304,49 @@ graph
     commentcount 792
     duration "PT1H6M59S"
     indegree 7
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 189
-    label "YbnLBl9eX_M"
+    id 154
+    name "188"
+    label "bwky3b-8EIE"
     step 0
-    date "2022-01-26T19:57:34Z"
-    title "Never Fear Truth | NFT Art by Johnny Depp | Full Interview"
-    description "Portraits of friends, heroes and family; created by Johnny and animated to create truly unique works of generative art.&#10;&#10;Join Johnny's Community at: &#10;https://discord.gg/WNdwMvQqdd&#10;&#10;Find out more at: &#10;www.neverfeartruth.com     &#10;@JohnnyDeppNFT"
-    channeltitle "Art Of The Pantheon"
-    channelid "UCtSTFFRVE6KBq0N-jMq7PsQ"
+    date "2022-02-10T22:01:37Z"
+    title "$9000 IN UNDER 1 HOUR FLIPPING NFTS ON OPENSEA {KARAFURU}"
+    description "I show you how to flip NFTs during reveal in Karafuru and answer some of my subscriber questions! &#10;&#10;Opensea Link For Our Wizard Pass NFT (grants you NFT Wizard Members Access, NFT trading tools, Uptodate Alpha, Training, WL Giveaways &#38; More...)&#10;https://opensea.io/collection/wizardpassofficial&#10;&#10;Our NFT Wizards Official Discord Link&#10;https://discord.gg/nftwizards&#10;&#10;Follow me on twitter: https://twitter.com/SajadNFT&#10;&#10;Business contact: &#10;admin@chartingwizards.com &#10;&#10;&#10;#nfts&#10;#karafuru&#10;#opensea"
+    channeltitle "Sajad"
+    channelid "UCEL7E93I1iBhjIoqRpGqUng"
     favcount 0
-    viewcount 3920535
-    likecount 128328
-    commentcount 10753
-    duration "PT4M22S"
-    indegree 1
-    cluster 2
+    viewcount 32775
+    likecount 1696
+    commentcount 474
+    duration "PT16M25S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 190
+    id 155
+    name "190"
     label "MgIRnS7F1S0"
     step 0
     date "2022-01-04T06:55:55Z"
@@ -2827,11 +4360,21 @@ graph
     commentcount 619
     duration "PT6M8S"
     indegree 5
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 191
+    id 156
+    name "191"
     label "YxQaE0d9Tt4"
     step 0
     date "2022-05-17T08:21:54Z"
@@ -2845,11 +4388,21 @@ graph
     commentcount 678
     duration "PT23M49S"
     indegree 3
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 192
+    id 157
+    name "192"
     label "pAxMuKj3oFE"
     step 0
     date "2022-06-20T14:36:23Z"
@@ -2863,29 +4416,49 @@ graph
     commentcount 54
     duration "PT1H23M23S"
     indegree 0
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 194
-    label "eCUbMegPIcM"
+    id 158
+    name "193"
+    label "O5wyXytVsXM"
     step 0
-    date "2022-02-13T17:01:48Z"
-    title "NFTs, Web3, Metaverse Explained Simply (Social Media is CHANGING - Watch this to stay ahead )"
-    description "If you like learning about social media (How to get likes, how to get followers, etc) yet you reject the idea of NFTs and anything related to Web3&#8230; Then you might have it backwards &#128563;.&#10;&#10;This video covers:&#10;&#10;&#10004;&#65039;NFTs explained for beginners (it&#8217;s NOT just Art...)&#10;&#10004;&#65039;The Metaverse and Web3 explained&#10;&#10004;&#65039; WHY content creators and online entrepreneurs should care about all this (even if you think it&#8217;s stupid now - trust me, it&#8217;s NOT)&#10;&#10004;&#65039; How the future of the internet can affect your business and a NEW way to make income as a personal brand&#10;&#10004;&#65039; Clear examples of ways personal brands can monetize in Web3&#10;&#10004;&#65039;AND how to BUY NFTs too (if you need a step by step tutorial!)&#10;&#10;NOTE: NFTs, Blockchain, Metaverse are all very new topics. There are also debates about the environmental impact that this new technology presents. This video only shares this topic under the lens of Business and Marketing. Do your research, due diligence,  and get curious!&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;0:00 - Intro&#10;1:07 - What&#8217;s Covered In This Video&#10;1:40 - NFTs Explained Simply&#10;2:52 - NFTs and Content Monetization&#10;4:11 - NFTs and Real World Applications&#10;5:12 - Metaverse Explained Simply&#10;5:59 - Social Media and the Metaverse&#10;7:30 - Web3 Explained (Evolution of Internet)&#10;8:24 - Why Personal Brands Should Care&#10;9:30 - Making Money with NFTs as Content Creator&#10;11:07 - Real Example of NFT Project&#10;16:17 - How to Buy NFTs (Tutorial)&#10;20:38 - Protecting Your Crypto&#10;21:46 - Feeling FOMO about NFTs&#10;22:38 - More Resources to Learn!&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#128073; Resources Mentioned:&#10;&#10;&#10024; LEVELLING UP HEROES &#10024;&#10;&#10;Learn more about Leveling Up Heroes*: &#10;https://www.levelingup.com/heroes&#10;&#10;*Pre-sale: February 27, 2022&#10;*Public sale: March 1, 2022&#10;&#10;Want to get in on the pre-sale before anyone else? Sign up for the Herolist!&#10;https://www.levelingup.com/herolist &#10;&#10;Also follow https://www.twitter.com/levelingupNFT to stay up to date and https://www.twitter.com/ericosiu to follow Eric Siu!&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#10024; Links Mentioned &#10024;&#10;&#10;Coinbase Crypto Exchange: &#10;https://www.coinbase.com/&#10;&#10;MetaMask Wallet:&#10;https://metamask.io/&#10;&#10;OpenSea:&#10;https://opensea.io/&#10;&#10;Hard Wallet:&#10;https://www.ledger.com/&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#128073; MORE RESOURCES ABOUT NFTs:&#10;&#10;How To Think About Investing In Long Term NFTs&#10;https://youtu.be/ixbacRGn5aw&#10;&#10;How To Transfer Your NFTs on Opensea Safely To Another Wallet&#10;https://youtu.be/Yqx2g8kzJpw&#10;&#10;How to Promote Your NFTs The Right Way&#10;https://youtu.be/pib-aETQHh0&#10;&#10;How to protect and secure your NFTS from hackers&#10;https://youtu.be/87dN6ZkjSto&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;&#11015;&#65039; More stuff you should check out &#11015;&#65039;&#10;&#10;** FREE TRAINING TO TURN YOUR FOLLOWERS INTO CLIENTS:  **&#10;www.followerstoclients.com/free&#10;&#10;** JOIN THE CONTENT CREATOR TO CEO MAILING LIST FOR EXCLUSIVE TIPS! **&#10;https://www.vanessalau.co/ceo &#10;&#10;** LEARN MORE ABOUT MY PAID PROGRAM THE BOSSGRAM ACADEMY ** &#10;https://bga.link/learn &#10;&#10;**CHECK OUT ALL THE SOCIAL MEDIA AND BUSINESS TOOLS I RECOMMEND**&#10;https://www.vanessalau.co/tools/&#10;&#10;** YOUTUBE OPTIMIZATION PLUG-INS I USE **&#10;&#10;TUBEBUDDY: https://www.tubebuddy.com/VANESSALAUCO&#10;Use Code &#34;vanessasbuddy&#34; for 15% off all licenses!&#10;&#10;**ALL THE YOUTUBE EQUIPMENT I USE**:&#10;&#10;&#128247; CAMERA: https://geni.us/XnfL&#10;&#10;&#127897;&#65039; AUDIO: https://geni.us/pXEN&#10;&#10;**GET ALL OF MY EQUIPMENT HERE**:&#10;https://www.vanessalau.co/tools/&#10;&#10;Disclaimer Vanessa is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com.&#10;&#10;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#9725;&#65039;&#10;&#10;SAY HI ON SOCIAL:&#10;&#10;Website: https://www.vanessalau.co&#10;Instagram: https://www.instagram.com/vanessalau.co&#10;LinkedIn: https://linkedin.com/in/vanessaoglau/&#10;TikTok: https://www.tiktok.com/@vanessalauco"
-    channeltitle "Vanessa Lau"
-    channelid "UCdOPzgbosSnbfwd9-iXP2NA"
+    date "2022-07-10T16:09:01Z"
+    title "NFT | "
+    description "&#1583;&#1585; &#1583;&#1606;&#1740;&#1575;&#1740; &#1575;&#1585;&#1586;&#1583;&#1740;&#1580;&#1740;&#1578;&#1575;&#1604; &#1578;&#1608;&#1740; &#1740;&#1705; &#1587;&#1575;&#1604; &#1711;&#1584;&#1588;&#1578;&#1607; &#1582;&#1740;&#1604;&#1740; &#1607;&#1575; &#1575;&#1586; &#1591;&#1585;&#1740;&#1602; &#10;nft&#10;&#1579;&#1585;&#1608;&#1578; &#1586;&#1740;&#1575;&#1583;&#1740; &#1585;&#1608; &#1576;&#1583;&#1587;&#1578; &#1570;&#1608;&#1585;&#1583;&#1606; &#1608; &#10;&#1605;&#1585;&#1575;&#1602;&#1576; &#1576;&#1575;&#1588; &#1575;&#1740;&#1606; &#1601;&#1585;&#1589;&#1578; &#1585;&#1608; &#1575;&#1586; &#1583;&#1587;&#1578; &#1606;&#1583;&#1740;&#10;&#10;&#1604;&#1740;&#1606;&#1705; &#1593;&#1590;&#1608;&#1740;&#1578; &#1583;&#1585; &#1705;&#1575;&#1606;&#1575;&#1604;:&#10;https://www.youtube.com/c/arzdigital?sub_confirmation=1&#10;&#10;&#1705;&#1575;&#1606;&#1575;&#1604; &#1578;&#1604;&#1711;&#1585;&#1575;&#1605; :&#10;https://t.me/joinchat/X5hBvB1YrWhkYWU5"
+    channeltitle "Arz Digital"
+    channelid "UCKEinlgRSwHJ7ibhnBHsgtg"
     favcount 0
-    viewcount 23378
-    likecount 1142
-    commentcount 457
-    duration "PT23M47S"
+    viewcount 5385
+    likecount 518
+    commentcount 237
+    duration "PT11M1S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 195
+    id 159
+    name "195"
     label "39_IT2TqpoM"
     step 0
     date "2022-04-28T14:00:03Z"
@@ -2899,11 +4472,21 @@ graph
     commentcount 215
     duration "PT12M13S"
     indegree 0
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 196
+    id 160
+    name "196"
     label "MLHw1uSWdmA"
     step 0
     date "2021-11-13T20:44:34Z"
@@ -2917,47 +4500,77 @@ graph
     commentcount 6643
     duration "PT2M36S"
     indegree 17
-    cluster 3
-  ]
-  node
-  [
-    id 198
-    label "Amp9qIWVC74"
-    step 0
-    date "2022-07-06T18:35:33Z"
-    title "Newest FREE NFTs that can PUMP"
-    description "Champs Only newsletter (best entry into ecosystem:)&#10;https://www.champsonlynft.com/staking&#10;&#10;Have an NFT project and need help with development, discord staffing, maketing, etc? Email: champsonlybusiness@gmail.com &#10;&#10;My twitter (the real alpha): https://twitter.com/champtgram&#10;Champs Only OpenSea: https://opensea.io/collection/champsonly&#10;My email: officialchampcrypto@gmail.com&#10;&#10;Secret link: https://www.youtube.com/watch?v=6QvVhz7s85Y&#38;t=0s&#10;Champs Only discord - https://discord.gg/champsonly&#10;&#10;Projects I talked about: &#10;Godjira Gen II -  https://opensea.io/collection/project-godjira-gen-2&#10;MonkzBruh - https://twitter.com/MonkzBruh&#10;Beasts - https://twitter.com/BeastsNFTs&#10;&#10;Instagram &#38; TikTok - @champtgram&#10;My Spotify - https://open.spotify.com/artist/5I6AWpcdbZ5ySTYFnGy3i1&#10;&#10;People to follow:&#10;TheBrettWay - https://twitter.com/thebrettway&#10;HaQa - https://twitter.com/TheHaQa&#10;KosherPlug - https://twitter.com/KosherPlug&#10;NFTLlama - https://twitter.com/NFTLlama&#10;Ryandcrypto - https://twitter.com/ryandcrypto&#10;BentoBoi - https://twitter.com/BentoBoiNFT&#10;Ameer - https://twitter.com/AmeerHussainn&#10;Biggs - https://twitter.com/BiggsCrypto&#10;iCoach - https://twitter.com/wager_coach&#10;Hoss - https://twitter.com/malfered&#10;Gainz - https://twitter.com/gainzfeldt"
-    channeltitle "CHAMP CRYPTO"
-    channelid "UCL3oLqgZlmcjD3wrNbLyGeQ"
-    favcount 0
-    viewcount 4420
-    likecount 224
-    commentcount 98
-    duration "PT5M3S"
-    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 200
-    label "afpelyHJa2Q"
+    id 161
+    name "197"
+    label "yXbMJk9YttQ"
     step 0
-    date "2021-09-13T17:59:37Z"
-    title "Qumo hago dinero con ellos?!"
-    description "Papirrines y Pantuflitas!&#10;&#10;Aqui les dejo los enlances que menciono en el video:&#10;&#10;Mi primer  NFT: https://opensea.io/assets/0x8442dd3e5529063b43c69212d64d5ad67b726ea6/3355&#10;&#10;1. https://opensea.io/&#10;2. https://rarity.tools/&#10;3. https://metamask.io/"
-    channeltitle "Alejandro Salomon - Emprendeduro"
-    channelid "UCS3eKy88CbT4HG6slJNKpUw"
+    date "2022-07-12T07:43:40Z"
+    title "Whats next for the Metaverse w/ Meta Money | NFT Expoverse Podcast #17"
+    description "Today we're featuring one of the best podcasters out there... @_MetaMoney_ &#127897;&#65039; &#128175; &#128640;&#10240;&#13;&#10;Join us today to hear Justin from Meta Money and what he has to say about the future of the metaverse, NFTs, web3 innovation, and so much more &#129321;&#10240;&#13;&#10;Learn more &#128073; https://nftexpoverse.com/&#13;&#10;&#13;&#10;Don't forget to subscribe &#128073; https://bit.ly/3vRTaTP&#13;&#10;&#13;&#10;FOLLOW US:&#13;&#10;&#13;&#10;Twitter &#128073; https://twitter.com/NFT_Expoverse&#13;&#10;Instagram &#128073; https://www.instagram.com/nftexpoverse/&#13;&#10;LinkedIn &#128073; https://www.linkedin.com/company/nft-...&#13;&#10;Discord: &#128073; https://discord.com/invite/DXVfN2gbsZ"
+    channeltitle "NFT Expoverse"
+    channelid "UCAL8SgrxVqd3_FTIw5eGwzA"
     favcount 0
-    viewcount 685109
-    likecount 34350
-    commentcount 2255
-    duration "PT9M18S"
-    indegree 19
-    cluster 9
+    viewcount 35
+    likecount 11
+    commentcount 1
+    duration "PT38M41S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 201
+    id 162
+    name "199"
+    label "r5p13Kt9EVo"
+    step 0
+    date "2022-07-01T17:10:21Z"
+    title "TEMPO - NFT [TIRAERA a POLACO y MC CEJA] - REACCION"
+    description "Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCH9ShNKRkB_fjwnh6YBBBUw/join&#10;&#10;Sigueme en mi IG:&#10;https://www.instagram.com/mundotailon&#10;UNETE A MI TWICH&#10;https://www.twitch.tv/mundotailon&#10;&#10;Unete a mis Cuenta de Spotify:&#10;https://open.spotify.com/user/vzj65o7ick6878dj8yg9l88mj?si=59F2wT7vTNS6Wbnahlzu1A&#10;Siempre Fresh 2021 Playlist:&#10;https://open.spotify.com/playlist/5IxlblMwXD1VAPa1tsjAhp?si=E99icYxURC6HZ1MIMXL53w&#10;!!Subscribete y Activa la Campana de Notificaciones!!.&#10;&#10;&#10;&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. #Tempo #Nft #NftReaccion"
+    channeltitle "Mundo Tailon"
+    channelid "UCH9ShNKRkB_fjwnh6YBBBUw"
+    favcount 0
+    viewcount 59785
+    likecount 5361
+    commentcount 793
+    duration "PT27M48S"
+    indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 163
+    name "201"
     label "kobEMc0PYts"
     step 0
     date "2022-07-12T10:00:33Z"
@@ -2971,11 +4584,21 @@ graph
     commentcount 2
     duration "PT8M12S"
     indegree 0
-    cluster 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 202
+    id 164
+    name "202"
     label "XUf6UdaA8cA"
     step 0
     date "2022-03-24T11:15:01Z"
@@ -2989,11 +4612,21 @@ graph
     commentcount 117
     duration "PT14M1S"
     indegree 4
-    cluster 10
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 203
+    id 165
+    name "203"
     label "PjbFU4L9VgA"
     step 0
     date "2022-07-01T13:00:16Z"
@@ -3007,11 +4640,21 @@ graph
     commentcount 2736
     duration "PT24M28S"
     indegree 9
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 204
+    id 166
+    name "204"
     label "9G3UCWUqlQ0"
     step 0
     date "2022-02-10T10:59:30Z"
@@ -3025,11 +4668,21 @@ graph
     commentcount 57
     duration "PT10M42S"
     indegree 0
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 205
+    id 167
+    name "205"
     label "JgdP7oWP0_0"
     step 0
     date "2022-02-19T14:54:12Z"
@@ -3043,29 +4696,49 @@ graph
     commentcount 1750
     duration "PT3M56S"
     indegree 0
-    cluster 3
-  ]
-  node
-  [
-    id 207
-    label "P_0xnyPitcs"
-    step 0
-    date "2022-03-20T14:29:50Z"
-    title "NFT ? NFT Explained Live in Bangla"
-    description "NFT (Non-Fungible Token) is nothing but the status of the luxury lifestyle. Digital content like Images, Audio, Video nowadays can be registered as a token in a blockchain network and people can buy and sell them through cryptocurrencies. People who cannot understand the real fact might be scammed by this mysterious NFT.&#10;&#10;Top 20 NFT Marketplaces: https://cryptohom.com/nft-marketplaces/&#10;Download Link: https://daxmin.com/shop/&#10;&#10;NFT (Non-Fungible Token) &#2476;&#2495;&#2482;&#2494;&#2488;&#2476;&#2489;&#2497;&#2482; &#2460;&#2496;&#2476;&#2472;&#2479;&#2494;&#2468;&#2509;&#2480;&#2494;&#2480; &#2478;&#2480;&#2509;&#2479;&#2494;&#2470;&#2494; &#2459;&#2494;&#2465;&#2492;&#2494; &#2438;&#2480; &#2453;&#2495;&#2459;&#2497;&#2439; &#2472;&#2479;&#2492;&#2404; &#2439;&#2478;&#2503;&#2460;, &#2437;&#2465;&#2495;&#2451;, &#2477;&#2495;&#2465;&#2495;&#2451;&#2480; &#2478;&#2468;&#2507; &#2465;&#2495;&#2460;&#2495;&#2463;&#2494;&#2482; &#2488;&#2494;&#2478;&#2455;&#2509;&#2480;&#2496; &#2438;&#2460;&#2453;&#2494;&#2482; &#2476;&#2509;&#2482;&#2453;&#2458;&#2503;&#2439;&#2472; &#2472;&#2503;&#2463;&#2451;&#2479;&#2492;&#2494;&#2480;&#2509;&#2453;&#2503; &#2447;&#2453;&#2463;&#2495; &#2463;&#2507;&#2453;&#2503;&#2472; &#2489;&#2495;&#2488;&#2494;&#2476;&#2503; &#2472;&#2495;&#2476;&#2472;&#2509;&#2471;&#2495;&#2468; &#2489;&#2458;&#2509;&#2459;&#2503;  &#2447;&#2476;&#2434; &#2482;&#2507;&#2453;&#2503;&#2480;&#2494; &#2453;&#2509;&#2480;&#2495;&#2474;&#2509;&#2463;&#2507;&#2453;&#2494;&#2480;&#2503;&#2472;&#2509;&#2488;&#2495;&#2480; &#2478;&#2494;&#2471;&#2509;&#2479;&#2478;&#2503; &#2488;&#2503;&#2455;&#2497;&#2482;&#2495; &#2453;&#2495;&#2472;&#2468;&#2503; &#2447;&#2476;&#2434; &#2476;&#2495;&#2453;&#2509;&#2480;&#2495; &#2453;&#2480;&#2468;&#2503; &#2474;&#2494;&#2480;&#2468;&#2503;&#2459;&#2503; &#2404; &#2479;&#2494;&#2480;&#2494; &#2438;&#2488;&#2482; &#2456;&#2463;&#2472;&#2494; &#2476;&#2497;&#2461;&#2468;&#2503; &#2474;&#2494;&#2480;&#2476;&#2503; &#2472;&#2494; &#2468;&#2494;&#2480;&#2494; &#2447;&#2439; &#2480;&#2489;&#2488;&#2509;&#2479;&#2478;&#2479;&#2492; NFT &#2470;&#2509;&#2476;&#2494;&#2480;&#2494; &#2474;&#2509;&#2480;&#2468;&#2494;&#2480;&#2495;&#2468; &#2489;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2404; &#10;&#2465;&#2495;&#2460;&#2495;&#2463;&#2494;&#2482;&#2482;&#2495; &#2468;&#2504;&#2480;&#2496; &#2453;&#2480;&#2494; &#2453;&#2507;&#2472;&#2507; &#2459;&#2476;&#2495;, &#2437;&#2465;&#2495;&#2451;, &#2477;&#2495;&#2465;&#2495;&#2451; &#2479;&#2454;&#2472; &#2472;&#2495;&#2460;&#2503;&#2480; &#2472;&#2494;&#2478;&#2503;  &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2494;&#2480; &#2453;&#2480;&#2503; &#2472;&#2495;&#2476;&#2503;&#2472; &#2468;&#2454;&#2472;&#2439; &#2488;&#2503;&#2463;&#2494; &#2489;&#2527;&#2503; &#2479;&#2494;&#2476;&#2503; NFT. &#2468;&#2494;&#2480;&#2478;&#2494;&#2472;&#2503; &#2438;&#2474;&#2472;&#2494;&#2480; &#2478;&#2507;&#2476;&#2494;&#2439;&#2482; &#2470;&#2495;&#2527;&#2503; &#2459;&#2476;&#2495; &#2468;&#2497;&#2482;&#2503; &#2488;&#2503;&#2439; &#2455;&#2497;&#2482;&#2507; &#2451; &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2509;&#2480;&#2495; &#2453;&#2480;&#2503; NFT &#2476;&#2494;&#2472;&#2494;&#2472;&#2507; &#2479;&#2494;&#2527;&#2404; &#2453;&#2469;&#2494; &#2489;&#2458;&#2509;&#2459;&#2503; &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2509;&#2480;&#2495; &#2453;&#2480;&#2476;&#2503;&#2472; &#2453;&#2507;&#2469;&#2494;&#2527;? &#2480;&#2503;&#2460;&#2495;&#2488;&#2509;&#2463;&#2509;&#2480;&#2495; &#2453;&#2480;&#2494;&#2480; &#2460;&#2472;&#2509;&#2479; &#2536;&#2534; &#2463;&#2495; &#2488;&#2494;&#2439;&#2463; &#2447;&#2480; &#2482;&#2495;&#2488;&#2509;&#2463; &#2447;&#2480; &#2482;&#2495;&#2434;&#2453;  &#2465;&#2503;&#2488;&#2453;&#2509;&#2480;&#2495;&#2474;&#2486;&#2472; &#2476;&#2453;&#2509;&#2488;&#2503; &#2470;&#2503;&#2451;&#2527;&#2494; &#2438;&#2459;&#2503;&#2404; &#2438;&#2474;&#2472;&#2495; &#2447;&#2454;&#2494;&#2472;&#2503; &#2479;&#2494; &#2453;&#2495;&#2459;&#2497;&#2439; &#2453;&#2503;&#2472;&#2494;&#2476;&#2503;&#2458;&#2494; &#2453;&#2480;&#2503;&#2472; &#2472;&#2494; &#2453;&#2503;&#2472;, &#2480;&#2495;&#2527;&#2503;&#2482; &#2451;&#2527;&#2494;&#2480;&#2509;&#2482;&#2509;&#2465; &#2447; &#2447;&#2480; &#2453;&#2507;&#2472;&#2507; &#2478;&#2498;&#2482;&#2509;&#2479; &#2472;&#2503;&#2439;&#2404; &#2486;&#2497;&#2471;&#2497;&#2478;&#2494;&#2468;&#2509;&#2480; &#2439;&#2478;&#2507;&#2486;&#2472;&#2494;&#2482; &#2477;&#2509;&#2479;&#2494;&#2482;&#2497; &#2459;&#2494;&#2524;&#2494; NFT &#2447;&#2480; &#2453;&#2507;&#2472;&#2507; &#2478;&#2498;&#2482;&#2509;&#2479; &#2472;&#2503;&#2439;&#2404;  &#2468;&#2494;&#2439; &#2476;&#2497;&#2461;&#2503; &#2486;&#2497;&#2472;&#2503; &#2439;&#2472;&#2477;&#2503;&#2488;&#2509;&#2463; &#2453;&#2480;&#2497;&#2472;&#2404;  &#2474;&#2509;&#2480;&#2468;&#2494;&#2480;&#2495;&#2468; &#2489;&#2527;&#2503; &#2477;&#2497;&#2482; &#2453;&#2507;&#2472;&#2507; &#2453;&#2495;&#2459;&#2497; &#2453;&#2495;&#2472;&#2503; &#2475;&#2503;&#2482;&#2482;&#2503; &#2482;&#2488; &#2438;&#2474;&#2472;&#2494;&#2480;&#2439; &#2489;&#2476;&#2503;&#2404;&#10;&#10;&#2476;&#2509;&#2482;&#2453;&#2458;&#2503;&#2439;&#2472; &#2475;&#2497;&#2482; &#2477;&#2495;&#2465;&#2495;&#2451;: https://youtu.be/Ki52aCnKdpw&#10;&#10;Online Scam 1st Part: https://youtu.be/gJMvEiJi0DQ&#10;Online Scam 2nd Part: https://youtu.be/y6-ivkTGC28&#10;Online Scam 3rd Part: https://youtu.be/cHAf1tsHhKE&#10;&#10;Facebook: https://www.facebook.com/daxmin24&#10;Twitter: https://twitter.com/daxmin24&#10;Instagram: https://www.instagram.com/daxmin24&#10;&#10;#NFT_Ki #What_is_NFT"
-    channeltitle "Daxmin"
-    channelid "UC_MsFH4YVbYJW-msvX_j8jQ"
-    favcount 0
-    viewcount 63225
-    likecount 2200
-    commentcount 188
-    duration "PT11M47S"
-    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 208
+    id 168
+    name "206"
+    label "Z4bWd0RVoag"
+    step 0
+    date "2022-07-11T01:11:06Z"
+    title "High Utility NFT PROJECT is HERE! (Dont Miss Out)"
+    description "High Utility NFT PROJECT is HERE! (Don't Miss Out)&#10;&#10;project socials&#10;https://twitter.com/CootiesNFTs&#10;https://www.cootiesv2.xyz/&#10;https://discord.com/invite/4mR4YbT95A&#10;&#10;music by s&#38;s (background music) &#10;#nftproject #play2earn #nfts"
+    channeltitle "Kjuz"
+    channelid "UCtOLCUQXiD1d1gpv3q0D6Zg"
+    favcount 0
+    viewcount 26573
+    likecount 2803
+    commentcount 205
+    duration "PT5M38S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 169
+    name "208"
     label "VL3d5fzLE6o"
     step 0
     date "2022-01-24T17:00:20Z"
@@ -3079,11 +4752,21 @@ graph
     commentcount 605
     duration "PT14M28S"
     indegree 16
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 209
+    id 170
+    name "209"
     label "XiXNh1ogrjw"
     step 0
     date "2021-03-04T11:45:03Z"
@@ -3097,11 +4780,21 @@ graph
     commentcount 828
     duration "PT5M46S"
     indegree 5
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 210
+    id 171
+    name "210"
     label "eaK2cq_TfOw"
     step 0
     date "2022-01-07T16:00:19Z"
@@ -3115,29 +4808,49 @@ graph
     commentcount 31
     duration "PT9M50S"
     indegree 1
-    cluster 4
-  ]
-  node
-  [
-    id 212
-    label "7kAui503w3k"
-    step 0
-    date "2022-02-10T12:54:10Z"
-    title "How to Buy Free NFT, What Is NFT Complete Detail In Hindi, NFT Market, Metamask Wallet, NFT History"
-    description "Topic - in this video we will discuss NFT metamask, history, marketplace &#10;&#127757; Application Link - https://play.google.com/store/apps/details?id=co.groot.hsmtp&#10;Digital Marketing And YouTube Millionaire 2.0 Course &#128222; Call Now - 7011309425&#10;&#9889; &#2332;&#2348; life &#2350;&#2375;&#2306; &#2348;&#2344;&#2344;&#2366; &#2361;&#2379; hero &#2340;&#2379; &#2332;&#2381;&#2351;&#2366;&#2342;&#2366; &#2350;&#2340; &#2360;&#2379;&#2330;&#2379; &#2351;&#2375; &#2350;&#2375;&#2352;&#2375; &#2357;&#2367;&#2352;&#2379; &#2360;&#2369;&#2352;&#2369; &#2325;&#2352;&#2379; Learning Start From Zero  &#10;&#127757; Website Link - https://mahatmajitechnical.com/&#10;&#10;&#128640;  Social media handles - &#10;&#128248; Instagram - https://www.instagram.com/mahatmaji_technical/?hl=en&#10;&#128140; Facebook  -  https://www.facebook.com/mahatmajitechnical&#10;&#128038;  Twitter -  https://twitter.com/mahatmajitech?lang=en&#10;&#128218; Linkedin - https://www.linkedin.com/in/amresh-bharti-571122166/&#10;&#127871; Youtube-https://www.youtube.com/channel/UCRGl2gA9X6BXqOvNL2jePtw&#10;&#128515; Affiliate Links - &#10;&#127925; My mic - http://amzn.to/2fimr1G&#10;&#127918; My laptop - http://amzn.to/2hoh1qb&#10;&#127909; My camera  - http://amzn.to/2fji9qO&#10;&#10;&#9889; You can reach out to us, anytime, anywhere &#9889;&#10;&#10;&#9658;S-U-B-S-C-R-I-B-E- mahatmaji technical&#10;  https://www.youtube.com/channel/UCRGl2gA9X6BXqOvNL2jePtw"
-    channeltitle "Mahatmaji Technical"
-    channelid "UCRGl2gA9X6BXqOvNL2jePtw"
-    favcount 0
-    viewcount 165211
-    likecount 5100
-    commentcount 287
-    duration "PT16M49S"
-    indegree 15
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 213
+    id 172
+    name "211"
+    label "HlVNvKx3JCg"
+    step 0
+    date "2022-06-27T15:12:44Z"
+    title "Eminem s NFT Song is..."
+    description "NOT GOOD&#10;&#10;For the FULL reaction of this song, go to TheNeedleDrop's Patreon:&#10;https://www.patreon.com/theneedledrop&#10;&#10;0:00 Pre-Token Discussion&#10;0:51 &#34;From The D 2 the LBC&#34;&#10;3:01 Thoughts&#10;&#10;===================================&#10;&#10;Follow your melon:&#10;Twitter: https://twitter.com/theneedledrop&#10;Instagram: https://www.instagram.com/afantano&#10;Twitch: https://www.twitch.tv/theneedledrop&#10;TikTok: https://www.tiktok.com/@theneedletok"
+    channeltitle "TNDstreams"
+    channelid "UCXXdi7YytnpHQHTCj_2lk6w"
+    favcount 0
+    viewcount 73929
+    likecount 2557
+    commentcount 990
+    duration "PT3M19S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
+  ]
+  node
+  [
+    id 173
+    name "213"
     label "-N73oLPdqaE"
     step 0
     date "2022-04-21T16:38:01Z"
@@ -3151,11 +4864,21 @@ graph
     commentcount 7908
     duration "PT9M51S"
     indegree 2
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 214
+    id 174
+    name "214"
     label "oBPsMn412ls"
     step 0
     date "2022-07-09T15:00:33Z"
@@ -3169,29 +4892,49 @@ graph
     commentcount 539
     duration "PT20M11S"
     indegree 0
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 216
-    label "kHHT5iUeV8g"
+    id 175
+    name "215"
+    label "ADdsOpTxw1A"
     step 0
-    date "2022-05-25T20:17:07Z"
-    title "Maybe the most embarrassing shit Is Nft show."
-    description "I guess this will never see the light of day though. Why? because THEY STOLE HIS DAMN APE. THE BASTARDS STOLE HIS APE. THEY SAVED AS HIS PRECIOUS APE OR SOMETHING I dunno."
-    channeltitle "deeply diseased"
-    channelid "UCWgvzQwVakEA0Xxc1Mt4LqQ"
+    date "2022-06-07T03:48:13Z"
+    title "NEWEST CODE + HOW TO GET NEW NFT ITEMS (XOX + LENAY) | Pop It Trading  | ROBLOX"
+    description "HI GUYS AND WELCOME TO THIS ROBLOX VIDEO.&#10;&#10;MAKE SURE TO SUBSCRIBE AND LIKE FOR MORE ROBLOX CONTENT&#10;&#10;THANKS! THESE ARE ALL ROBLOX CODES&#10;&#10;HERE IS MY ROBLOX GROUP AND MY ROBLOX PROFILE:&#10;&#10;group: https://www.roblox.com/groups/3637358/GoldenOwl-Fan-Group#!/about&#10;profile: https://www.roblox.com/users/95319131/profile"
+    channeltitle "GoldLeaf"
+    channelid "UCjTmXtQgMC3dSNJ2q3auBSQ"
     favcount 0
-    viewcount 91410
-    likecount 1217
-    commentcount 614
-    duration "PT1M37S"
-    indegree 0
-    cluster 3
+    viewcount 69825
+    likecount 1441
+    commentcount 201
+    duration "PT1M52S"
+    indegree 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 217
+    id 176
+    name "217"
     label "UVsQPZTPDoI"
     step 0
     date "2022-06-11T16:00:17Z"
@@ -3205,11 +4948,21 @@ graph
     commentcount 15
     duration "PT3M12S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 218
+    id 177
+    name "218"
     label "mWRF3jPFNbg"
     step 0
     date "2022-04-20T15:12:42Z"
@@ -3223,11 +4976,21 @@ graph
     commentcount 518
     duration "PT28M47S"
     indegree 0
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 219
+    id 178
+    name "219"
     label "9yuhg9S4olU"
     step 0
     date "2021-08-29T16:30:03Z"
@@ -3241,11 +5004,21 @@ graph
     commentcount 30115
     duration "PT16S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 220
+    id 179
+    name "220"
     label "6r63VuXXheA"
     step 0
     date "2022-01-25T17:32:35Z"
@@ -3259,29 +5032,49 @@ graph
     commentcount 272
     duration "PT18M4S"
     indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 180
+    name "221"
+    label "0uLFakqctJQ"
+    step 0
+    date "2022-06-16T17:00:00Z"
+    title " Ethereum Crash"
+    description "&#34;Everyone Is SO WRONG About This Market&#34; | Mark Cuban Reacts To Crypto, Bitcoin &#38; Ethereum Crash&#10;&#10;&#128293; Earn up to $250 in crypto when you signup and start earning passive income with BlockFi!&#10;https://blockfi.com/jamietree&#10;&#10;&#128272; What I use to keep my crypto secure! https://shop.ledger.com?r=43fe07c56f2f&#10;&#10;Shark Tank Star Mark Cuban also known for owning the Dallas Mavericks like so many other investors has come a long way from a few years ago to being strongly positioned against Bitcoin and Cryptocurrency to now being one of it&#8217;s biggest bulls &#38; it making up a substantial position in his portfolio. &#10;&#10;In his most recent interview, Cuban reacts to the crypto crash and why he is a long term believer in Bitcoin, Ethereum and crypto in general. &#10;&#10;About Mark Cuban:&#10;&#10;Mark Cuban is an American billionaire entrepreneur, television personality, and media proprietor whose net worth is an estimated $4.7 billion, according to Forbes, and ranked No. 177 on the 2020 Forbes 400 list.&#10;&#10;Credits: &#10;&#10;Hustlers at Home x Web3 Edition &#128293;&#127968; | Mark Cuban&#10;https://youtu.be/hZWydrSQv6k&#10;-----------------------------------------------------------------------------------------------------------------------&#10;SOCIALS&#10;Twitter: https://twitter.com/JaminTree&#10;My Instagram: https://www.instagram.com/jamiecurrie_&#10;Email: jamin.tree@gmail.com&#10;-----------------------------------------------------------------------------------------------------------------------&#10;&#10;&#11015; Other Cryptocurrency &#38; Finance Videos For You&#11015;&#10;&#10;&#9658; I interview Michael Saylor - Latest Interview on Bitcoin, Ethereum, Hyper Inflation &#38; UFO&#8217;s (2021)&#10;https://youtu.be/knx-HhEgzJc&#10;&#10;&#9658; Michael Saylor: My WARNING about Ethereum | Michael Saylor on ETH 2.0 &#38; Ethereum Price Prediction&#10;https://youtu.be/1-tEILPjBQk&#10;&#10;&#9658; Ethereum Supercycle! $20,000 Price Target - Should you buy Ethereum? ETH Price Prediction (MAY 2021)&#10;https://youtu.be/7_5gMiklvGg&#10;&#10;&#9658; Realistic Ethereum Price Prediction (2021) - ARK invest Quant Analyst REVEALS why ETH can hit $40000&#10;https://youtu.be/SEkHjQLphtM&#10;&#10;#Ethereum #Bitcoin #Crypto"
+    channeltitle "Jamie Tree "
+    channelid "UCWZg7FTpyFB9lSpk-_cVr3Q"
+    favcount 0
+    viewcount 264528
+    likecount 3682
+    commentcount 3277
+    duration "PT8M8S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 223
-    label "l9TFKzYufPM"
-    step 0
-    date "2022-02-26T01:59:19Z"
-    title "This The Next Big NFT Collection?!"
-    description "This The Next Big NFT Collection?! NFTs are still the fastest growing sector for investments, and this new NFT collection is not just art like azuki but also adding audio elements! Subscribe to VoskCoin - http://voskco.in/Sub&#10;&#10;Beatsu music pfp generative NFTs! https://voskco.in/23s&#10;Beatsu NFTs whitelist! https://docs.google.com/forms/d/e/1FAIpQLSdFevXQdI7R7seXemaAGCGonXHuusCjeOadsv-aKExOjNXwzw/viewform&#10;Best mining rig you can buy review - https://www.youtube.com/watch?v=9mYWcUJHUYU&#10;The Bobcat Miner 300 is the best Helium mining rig - https://voskco.in/HNTb&#10;&#10;Opensea and looksrare are battling for the primary spot of NFT marketplaces but there's an exciting new NFT collection launching that is not only uniquely generated art but also uniquely generated music or actually beats for each of these NFTs! Let's review beatsu nfts!&#10;&#10;Links!&#10;Coinbase NFT marketplace sign-up - https://voskco.in/cbnft&#10;FTX NFTs - https://voskco.in/ftx&#10;My new NFTs public address and account on opensea - https://voskco.in/oNFTS&#10;&#10;&#9200; Timestamps &#9200;&#10;00:00 New NFTs combine art &#38; music?&#10;01:01 Current Top NFTs&#10;02:34 NFT Marketplaces&#10;04:10 VoskCoin community whitelist&#10;05:09 Beatsu NFTs&#10;06:50 Beatsu Roadmap &#38; collabs&#10;10:22 VoskCoin Beatsu Review&#10;&#10;VoskCoinTalk the VoskCoin forum - http://voskco.in/forum&#10;VoskCoin Facebook - https://www.facebook.com/VoskCoin/&#10;VoskCoin Reddit - https://www.reddit.com/r/voskcoin/&#10;VoskCoin Discord Server Invite - http://voskco.in/discord&#10;VoskCoin Twitter - https://twitter.com/VoskCoin&#10;VoskCoin Instagram - https://www.instagram.com/voskcoin/&#10;&#10;VoskCoin is for entertainment purposes only and is never intended to be financial investment advice. VoskCoin owns or has owned cryptocurrency and associated hardware. VoskCoin may receive donations or sponsorships in association with certain content creation. VoskCoin may receive compensation when affiliate/referral links are used. VoskCoin is home of the Doge Dad, VoskCoin is not your Dad, and thus VoskCoin is never liable for any decisions you make.&#10;#NFTs #Ethereum #beatsu #Solana #BinanceSmartChain #SOL #BSC #ETH #opensea #cryptopunks #boredapeyachtclub #shib #crypto #binance #bnb #VoskCoin"
-    channeltitle "VoskCoin"
-    channelid "UCT44w6854K62cSiwA1aiXfw"
-    favcount 0
-    viewcount 11445
-    likecount 158
-    commentcount 69
-    duration "PT13M13S"
-    indegree 0
-    cluster 4
-  ]
-  node
-  [
-    id 224
+    id 181
+    name "224"
     label "knIpyLmtot4"
     step 0
     date "2021-11-28T11:30:07Z"
@@ -3295,11 +5088,21 @@ graph
     commentcount 402
     duration "PT15M44S"
     indegree 3
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 225
+    id 182
+    name "225"
     label "IdEipvtYbYE"
     step 0
     date "2022-05-29T15:30:05Z"
@@ -3313,11 +5116,21 @@ graph
     commentcount 11
     duration "PT4M31S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 226
+    id 183
+    name "226"
     label "ZLNb8aLK83k"
     step 0
     date "2022-06-03T21:52:16Z"
@@ -3331,47 +5144,77 @@ graph
     commentcount 395
     duration "PT9M31S"
     indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 228
-    label "vL1r_MEsA5w"
+    id 184
+    name "227"
+    label "sXiZ5I-SeB4"
     step 0
-    date "2022-06-23T00:16:50Z"
-    title "MASSIVE NEWS!! | NFT Market Update | Doodles 2.0  Ebay NFT Marketplace"
-    description "In this video we will talk about some of the most Important News &#38; Trends in the NFT space right now. We will cover some major NFT news, showcase some NFT collections releasing this week and I will also show you the strategies I'm using right now.&#10;&#10;Patreon: https://www.patreon.com/nftverse&#10;(only 1,500 spots available for right now)&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/qTpz5X7qfZ&#10;&#10;Follow Our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;Doodles Event Livestream: https://www.instagram.com/p/CfF6DqcpV3S/&#10;&#10;News Articles Mentioned in the Video:&#10;Doodles 2.0: https://decrypt.co/103503/doodles-nfts-announces-pharrell-as-chief-brand-officer-fundraise-led-by-alexis-ohanian&#10;Magic Eden $130 Million Raise: https://decrypt.co/103403/solana-nft-marketplace-magic-eden-raises-130m-plans-multi-chain-expansion&#10;Ebay NFT Marketplace: https://techcrunch.com/2022/06/22/ebay-acquires-nft-marketplace-knownorigin/&#10;Rolling Stone x Bored Ape: https://www.rollingstone.com/product-recommendations/lifestyle/rolling-stone-bored-ape-yacht-club-print-1368894/&#10;Shopify NFT: https://twitter.com/Shopify/status/1539610296200974338&#10;&#10;0:00 - 1:40 Intro&#10;1:41 - 6:00 NFT Market Update&#10;6:01 - 12:51 Doodles 2.0 &#38; more announcements&#10;12:52 - 16:17 Magic Eden Raises $130 Million&#10;16:18 - 19:32 Ebay Acquires KnownOrigin&#10;19:33 - 21:32 Rolling Stone x Bored Ape Yacht Club&#10;21:33 - 24:02 Shopify NFT Tokengated Experiences&#10;24:03 - 25:21 Final Thoughts&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
-    channeltitle "NFT Verse"
-    channelid "UCf9cq3uePT1qmE5RNxiCqLg"
+    date "2022-04-22T11:00:59Z"
+    title "My NFT Portfolio"
+    description "NFTs are a growing part of our crypto portfolio, check out our collections of NFTs valued at around $850,000! What does your NFT crypto portfolio look like?&#10;&#10;Learn more about crypto &#10145;&#65039; https://bitlabacademy.com&#10;How to join Cardano (ADA) BitPool &#10145;&#65039; https://bitboycrypto.com/how-to-stake-ada-with-bpool/&#10;Pluto Alliance Staking - https://staking.plutoalliance.com/&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;Connect with Me &#38; the BitSquad!&#10;Join the BitSquad &#10145;&#65039; http://t.me/BitSquad&#10;Join BitSquad Traders &#10145;&#65039; http://t.me/BitSquadTraders&#10;Join Me on Twitter &#10145;&#65039; https://twitter.com/Bitboy_Crypto&#10;Join Me on Instagram &#10145;&#65039; https://www.instagram.com/bitboy_crypto&#10;Join Me on TikTok &#10145;&#65039; https://www.tiktok.com/@RealBitBoyCrypto&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;ByBit, Market Cipher, Ledger, TokenMetrics, Crypto.com &#38; more!&#10;Find deals on hardware wallets, trading indicators, exchanges &#38; more.&#10;Find Crypto DEALS &#10145;&#65039; https://bitboycrypto.com/deals&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;All of our videos are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies and not all strategies fit all people. Our videos ARE NOT financial advice.&#10;&#10;#Shorts #YouTubeShorts #Crypto #BitBoy"
+    channeltitle "BitBoy Crypto"
+    channelid "UCjemQfjaXAzA-95RKoy9n_g"
     favcount 0
-    viewcount 10964
-    likecount 422
-    commentcount 302
-    duration "PT25M22S"
-    indegree 16
+    viewcount 9542
+    likecount 211
+    commentcount 21
+    duration "PT28S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 185
+    name "229"
+    label "RjrA-slMoZ4"
+    step 0
+    date "2022-06-24T04:00:15Z"
+    title "Eminem  Snoop Dogg - From The D 2 The LBC [Official Music Video]"
+    description "Eminem &#38; Snoop Dogg - From The D 2 The LBC&#10;Listen: https://eminem.lnk.to/FromTheD2TheLBC&#10;&#10;http://eminem.com&#10;http://facebook.com/eminem&#10;http://twitter.com/eminem&#10;http://instagram.com/eminem&#10;&#10;http://shadyrecords.com&#10;http://facebook.com/shadyrecords&#10;http://twitter.com/shadyrecords&#10;http://instagram.com/shadyrecords&#10;&#10;#Eminem #SnoopDogg #FromTheD2TheLBC&#10;&#10;Music video by Eminem, Snoop Dogg performing From The D 2 The LBC. &#169; 2022 Marshall B. Mathers III&#10;&#10;http://vevo.ly/gJGvEY"
+    channeltitle "EminemVEVO"
+    channelid "UC20vb-R_px4CguHzzBPhoyQ"
+    favcount 0
+    viewcount 29923332
+    likecount 1710932
+    commentcount 83940
+    duration "PT4M47S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 230
-    label "W9ItSgden1I"
-    step 0
-    date "2022-07-09T13:40:42Z"
-    title "Panther Boss Club "
-    description "Today we are iving into the Panther Boss Club 'Biggest NFT Around&#34;&#10;&#10;https://www.premint.xyz/the-panther-boss-club/&#10;&#10;FREE NFT Listings! https://www.nftcreatorshub.com&#10;&#10;Inquiries&#10;&#128073; cryptomovess@gmail.com&#10;&#10;&#9940;Disclaimer &#9940;&#34;Watch For Crypto Scams &#38; Rug Pull Scams&#34; RED FLAGS&#10;The content in these videos and on this channel are not intended to be financial advice. The content in these videos and on this channel are only intended for education and entertainment purposes only. All information that you receive here is intended as examples and not actual investing advice on any particular Cryptocurrency Project or NFTs! Nothing here shall be construed to be financial, legal, or tax advice. The content of this Youtube Channel consists solely of the opinions of the entertainer, who is not a licensed financial advisor or registered investment advisor. Most videos on Crypto Prince Youtube Channel are Paid Promotions. Which means the content creator was paid to make these videos! Purchasing Crypto Projects &#38; NFTs poses considerable risk of loss. I don't guarantee any particular outcome. Past performance does not indicate future results. Never invest more than you can afford to lose."
-    channeltitle "Altcoin Goat"
-    channelid "UCtuctzKeLfRgARcwpY0jJVw"
-    favcount 0
-    viewcount 1165
-    likecount 30
-    commentcount 3
-    duration "PT9M34S"
-    indegree 1
-    cluster 2
-  ]
-  node
-  [
-    id 231
+    id 186
+    name "231"
     label "Cx3j9533lOo"
     step 0
     date "2022-04-19T15:00:13Z"
@@ -3385,11 +5228,21 @@ graph
     commentcount 215
     duration "PT10M41S"
     indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 232
+    id 187
+    name "232"
     label "HaRf6iE99zc"
     step 0
     date "2021-05-19T22:00:07Z"
@@ -3403,11 +5256,21 @@ graph
     commentcount 0
     duration "PT14M9S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 233
+    id 188
+    name "233"
     label "wNyW3Y-mpJs"
     step 0
     date "2022-07-04T21:37:31Z"
@@ -3421,11 +5284,21 @@ graph
     commentcount 3038
     duration "PT18M24S"
     indegree 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 234
+    id 189
+    name "234"
     label "Ui6a6j07NHg"
     step 0
     date "2022-07-04T11:30:22Z"
@@ -3439,11 +5312,21 @@ graph
     commentcount 64
     duration "PT10M17S"
     indegree 0
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 235
+    id 190
+    name "235"
     label "HDQzPohVEj4"
     step 0
     date "2021-09-08T17:00:10Z"
@@ -3457,11 +5340,21 @@ graph
     commentcount 871
     duration "PT18M25S"
     indegree 15
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 236
+    id 191
+    name "236"
     label "KyIITtPKJbY"
     step 0
     date "2021-11-08T12:42:19Z"
@@ -3475,11 +5368,21 @@ graph
     commentcount 16
     duration "PT4M21S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 237
+    id 192
+    name "237"
     label "1HlvEk_Aohw"
     step 0
     date "2022-01-23T12:00:03Z"
@@ -3493,11 +5396,21 @@ graph
     commentcount 419
     duration "PT28M31S"
     indegree 2
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 238
+    id 193
+    name "238"
     label "kxYquUyQPc0"
     step 0
     date "2021-12-20T18:04:35Z"
@@ -3511,11 +5424,21 @@ graph
     commentcount -1
     duration "PT4M50S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 239
+    id 194
+    name "239"
     label "F7OpWUOoQlM"
     step 0
     date "2022-07-11T16:45:01Z"
@@ -3529,11 +5452,21 @@ graph
     commentcount 34
     duration "PT22M59S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 240
+    id 195
+    name "240"
     label "PwJM81n6NCg"
     step 0
     date "2022-02-11T15:03:43Z"
@@ -3547,11 +5480,21 @@ graph
     commentcount 532
     duration "PT21M59S"
     indegree 2
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 241
+    id 196
+    name "241"
     label "SQxAIcZ7tU8"
     step 0
     date "2022-07-10T16:27:17Z"
@@ -3565,11 +5508,21 @@ graph
     commentcount 1
     duration "PT9M24S"
     indegree 1
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 242
+    id 197
+    name "242"
     label "hDs60U0BqU8"
     step 0
     date "2022-02-14T14:00:31Z"
@@ -3583,29 +5536,49 @@ graph
     commentcount 920
     duration "PT15M14S"
     indegree 30
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 245
-    label "tMtJS275si8"
+    id 198
+    name "243"
+    label "oM3JWDyb0iw"
     step 0
-    date "2022-07-05T22:41:43Z"
-    title "TRADING NFTs LIVE! FINDING THE NEXT 100X BLUECHIP NFT! (NFT TRADING STRATEGIES) JERZY NFT"
-    description "TRADING NFTs LIVE! FINDING THE NEXT 100X BLUECHIP NFT! (NFT TRADING STRATEGIES) JERZY NFT&#10;&#128178; Save 10% on ALL Trading Fees! (FTX.US) &#10145;&#65039; https://bit.ly/FTXJerzy&#10;&#128176; Get a free coin after trading $10! (Referral Code : JerzyFtx) &#10145;&#65039; https://link.blockfolio.com/9dzp/p382sr73&#10;&#129297; Get Early access to my crypto calls! - https://patreon.com/cryptojerzy&#10;&#129309; My Socials - https://linktr.ee/JerzyYT&#10;&#129395; Public Discord (no alpha) - https://discord.gg/nFgFpNa9Qm&#10;&#10;Live trading solana NFTs, finding the next 100x bluechip nft. Nfts to buy now for 100x potential!&#10;OpenSea Integrates Solana NFTs, Ethereum and Solana NFTs are about to EXPLODE! This news is going to shock the world.&#10;Live trading solana NFTs with these techniques! How to 100x your nft portfolio, NFTs to buy now live!&#10;&#10;DISCLAIMER:&#10;This video is for educational &#38; entertainment purposes only. Please do your own research before making any decisions with your money.  I will not be held liable for any losses or gains you may experience.  I am not your financial or investment advisor. This content is for educational and entertainment purposes ONLY. Please do your own research before making any financial decisions in your life!&#10;&#10;Tags:&#10;NFTs to buy now, 100 SOL, 100 Solana challenge, solana challenge, swing trading, flipping nfts, nft flipping, flipping solana nfts, Crypto, Finance, NFT, Solana, Bitcoin, Crypto market, Baby Ape Social Club NFT, BAYC NFT, solana NFT, ethereum, magic eden, new nft, solana nfts, new nft, early nft project, baby ape social club nft, bored ape yacht club, 100x potential, 100x nft, early nft projects, new nft projects, vvs, vvs finance, crypto staking, jerzy, jerzy crypto, jerzy nfts, crypto news, how to find nfts, find nfts early, cronos blockchain, crpyto.com, phantom wallet, metamask, ledger, nft 100x, 100x nfts, 100x altcoins, altcoin profits, nft profits, metaverse, solana metaverse, solana portals, metaverse ethereum, max maher, alex becker, alex becker's channel, nft flipping techniques, 10 to 100 sol, 10 to 100 sol challenge, 100x nft, 10x nfts, solana nfts new, what is nft, jerzy nft, live trading nfts, bored ape yacht club, nfts to buy, nfts to buy now, top new nfts, 100 solana challenge, solana challenge, 1000 solana challenge, 100 to 1000 solana, opensea solana, opensea marketplace, opensea integrates solana nfts, opensea solana, solana nfts opensea, nft bullrun, nft bullrun market, nft market bullrun, bullish nfts, undervalued nfts,"
-    channeltitle "Jerzy NFT"
-    channelid "UCnNVV4-VmwMJ4rgPLYIGKuw"
+    date "2022-04-17T17:59:39Z"
+    title "e 53"
+    description "&#352;ta je NFT i kako zaradio milione na njima &#10;&#10;Aleksandar Gligori&#263; je ponovo gost Vladimira Stankovi&#263;a u 53. epizodi podcasta Biznis Pri&#269;e.&#10;Njegovo prvo gostovanje pogledaj ovde: https://youtu.be/crRQRGQX1QQ&#10;&#10;&#128176;20&#8364; popusta za kurs SVE TAJNE INSTAGRAM MARKETINGA 2.0 uz kupon BIZNISPRICE https://bit.ly/2Zzr3e7&#10;&#10;&#10145;&#65039; Podr&#382;i podcast jednokratnom donacijom: https://bit.ly/3EfCvdZ&#10;&#10;&#10;&#128204; Teme u podcastu&#10;&#10;00:00- Uvod&#10;04:08- Kako sam u&#353;ao u NFT&#10;10:00- &#352;ta sam u startu gledao kod NFT-a&#10;14:39- Kako sam izgubio NFT od 50,000 evra&#10;20:28- NFT kolekcije&#10;27:06- &#352;ta NFT-u daje vrednost&#10;44:37- Moj NFT projekat&#10;49:03- Gde se nalazi NFT publika &#10;53:27- Savet za trgovanje NFT-a&#10;56:30- Moj kurs &#10;1:10:58- Moj NFT projekat&#10;1:29:20- Solana ili Eterum&#10;1:39:18- Snup Dog&#10;1:40:11- Ponude glumica za odrasle &#10;1:46:40- Recept za fleks&#10;&#10;&#10;&#11088;&#65039; Partneri podcasta: &#10;&#10;IT kompanija, &#8222;Quantox&#34;, a o njima vi&#353;e mo&#382;ete da saznate na linku: https://quantox.com&#10;&#10;Connect The Dots - sve otvorene pozicije mo&#382;ete videti na https://www.ctd.ai/careers&#10;&#10;BUSINESS LEADERSHIP SPRINT je novi program Mokrogorske koncipiran da pru&#382;i polaznicima puno razumevanje svih klju&#269;nih oblasti biznisa kroz samo 14 dana nastave. Program je organizovan u 3 sprinta nastave. Namenjen kompanijskim talentima, onima koji su spremni za preuzimanje ve&#263;e odgovornosti i one &#382;eljne karijernog napretka. &#10;Saznaj vi&#353;e o programu i zaka&#382;i intervju na bls.edu.rs&#10;&#10;&#10;&#128218;Preuzmi listu svih knjiga koje su preporu&#269;ili gosti Biznis Pri&#269;a: https://bit.ly/3nh6ooK&#10;&#10;&#128218; Besplatno preuzmi priru&#269;nik &#34;Re&#353;enja Instagram Problema&#34;  https://vladsdigital.com/besplatan-prirucnik-za-instagram-marketing/&#10;&#10;&#9989;  Autor podcasta: Vladimir Stankovi&#263; Vladsdigital&#10;https://www.instagram.com/vladsdigital/&#10;&#10;&#9989;  Zaprati Biznis Pri&#269;e:https://www.youtube.com/channel/UCEASCzL4XbzCFu8JhryzkNg?sub_confirmation=1&#10;Svake nedelje nova epizoda  &#10;Instagram: https://www.instagram.com/biznisprice/&#10;Tiktok: https://www.tiktok.com/@biznisprice&#10;&#10;&#10;&#127897;&#65039;  SLU&#352;AJ audio podcast na:&#10;iTunes: https://apple.co/2UKZrNt&#10;Google Podcasts:  https://bit.ly/334ix5N&#10;Spotify: https://spoti.fi/3pS7y95&#10;Deezer: https://www.deezer.com/us/show/2838592&#10;Podcast.rs: https://podcast.rs/show/biznis-price/"
+    channeltitle "Biznis Pri&#269;e"
+    channelid "UCEASCzL4XbzCFu8JhryzkNg"
     favcount 0
-    viewcount 5519
-    likecount 325
-    commentcount 50
-    duration "PT2H27M17S"
-    indegree 3
-    cluster 1
+    viewcount 48552
+    likecount 871
+    commentcount 166
+    duration "PT2H11S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 246
+    id 199
+    name "246"
     label "BGVFh4i08eQ"
     step 0
     date "2022-03-29T19:00:03Z"
@@ -3619,11 +5592,21 @@ graph
     commentcount 63
     duration "PT10M46S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 247
+    id 200
+    name "247"
     label "IEbVsNMLHnE"
     step 0
     date "2022-07-10T02:45:52Z"
@@ -3637,29 +5620,49 @@ graph
     commentcount 5
     duration "PT23M42S"
     indegree 2
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 249
-    label "mOk6s5BiKnc"
+    id 201
+    name "248"
+    label "i2Db3grqCAQ"
     step 0
-    date "2021-11-01T08:30:14Z"
-    title "NFT "
-    description "&#1041;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1099;&#1081; &#1043;&#1040;&#1049;&#1044; &#1087;&#1086; NFT - https://t.me/nftdop/486&#10;&#1052;&#1086;&#1103; &#1082;&#1086;&#1083;&#1083;&#1077;&#1082;&#1094;&#1080;&#1103; &#1085;&#1072; &#1041;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1077; XRPL - https://linktr.ee/leokings_nft&#10;&#1048;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084;: https://www.instagram.com/aletinsky/&#10;&#10;&#1071; &#1087;&#1086;&#1087;&#1099;&#1090;&#1072;&#1083;&#1089;&#1103; &#1088;&#1072;&#1079;&#1086;&#1073;&#1088;&#1072;&#1090;&#1100;&#1089;&#1103; &#1074;&#1086; &#1074;&#1089;&#1077;&#1093; &#1087;&#1086;&#1076;&#1088;&#1086;&#1073;&#1085;&#1086;&#1089;&#1090;&#1103;&#1093; NFT &#1080; &#1093;&#1086;&#1095;&#1091; &#1074;&#1072;&#1084; &#1086;&#1073; &#1101;&#1090;&#1086;&#1084; &#1088;&#1072;&#1089;&#1089;&#1082;&#1072;&#1079;&#1072;&#1090;&#1100;!  &#1042;&#1089;&#1077; &#1095;&#1090;&#1086; &#1085;&#1091;&#1078;&#1085;&#1086; &#1079;&#1085;&#1072;&#1090;&#1100; &#1086;&#1073; &#1053;&#1060;&#1058; &#1074;&#1089;&#1077;&#1075;&#1086; &#1079;&#1072; 10 &#1084;&#1080;&#1085;&#1091;&#1090;! &#1056;&#1072;&#1089;&#1089;&#1082;&#1072;&#1078;&#1091; &#1086; &#1085;&#1086;&#1074;&#1086;&#1081; &#1058;&#1077;&#1093;&#1085;&#1086;&#1083;&#1086;&#1075;&#1080;&#1080; &#1041;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085; &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084;&#1080; &#1089;&#1083;&#1086;&#1074;&#1072;&#1084;&#1080;. &#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100; &#1085;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083;, &#1089;&#1082;&#1086;&#1088;&#1086; &#1084;&#1085;&#1086;&#1075;&#1086; &#1085;&#1086;&#1074;&#1099;&#1093; &#1074;&#1080;&#1076;&#1077;&#1086;!&#10;&#10;#NFT #&#1053;&#1060;&#1058; #&#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1040;&#1088;&#1090;"
-    channeltitle "NFT DOP"
-    channelid "UCcCQXJ4z7GNJA2fvIYY-xxQ"
+    date "2022-02-06T20:42:00Z"
+    title "Joe Rogan and Elon Musk steal Pokmon NFTs"
+    description "Get Exclusive NordVPN deal here https://NordVPN.com/gitz It&#8217;s risk free with Nord&#8217;s 30 day money-back guarantee! &#10;&#10;Special thanks to our Patron Producers!&#10;&#10;Albert Hutchins&#10;David Murphy&#10;Andrew Palmer&#10;Adam Knopow&#10;&#10;Created by &#9658; &#10;Tom Hinchliffe &#38; Don Greger&#10;&#10;Animation &#9658;&#10;Holly Gee&#10;CalebJordann&#10;James Cunningham&#10;BoyPorcelain&#10;Perry Hull&#10;Wazzaldorp&#10;Darrudamassa&#10;&#10;Backgrounds &#9658;&#10;Lines - Soured Apple https://www.twitter.com/SouredApple&#10;Color - Naav Draws https://www.instagram.com/naav_draws/&#10;&#10;Additional Writing &#9658;&#10;Trevor Clark&#10;&#10;VO &#9658; &#10;Joe Rogan - Ethan Gallardo&#10;Ben Shapiro - @vincentmarcus&#10;Elon Musk - Tom&#10; &#10;Music &#9658;&#10;Zach Heyde https://youtube.com/playlist?list=PLXtP4ANq7nIUYo6VZEEHtd8H3HP_MthUC&#10;&#10;Sound &#9658; &#10;Justin Greger&#10;&#10;Ad Compositing &#9658; &#10;Oddest of the Odd&#10;&#10;Merch &#9658;&#10;https://crowdmade.com/flashgitz&#10;&#10;Instagram &#9658;&#10;https://www.instagram.com/flashgitz/&#10;&#10;Twitter &#9658;&#10;https://www.twitter.com/flashgitzanims&#10;https://www.twitter.com/flashgitztom&#10;https://www.twitter.com/flashgitzdon&#10;&#10;Discord &#9658;&#10;https://discord.gg/nJCcJj6"
+    channeltitle "Flashgitz"
+    channelid "UCNnKprAG-MWLsk-GsbsC2BA"
     favcount 0
-    viewcount 332984
-    likecount 10170
-    commentcount 434
-    duration "PT11M20S"
-    indegree 8
-    cluster 11
+    viewcount 1251296
+    likecount 108368
+    commentcount 3137
+    duration "PT4M56S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 250
+    id 202
+    name "250"
     label "AtTAK_P_9y8"
     step 0
     date "2022-06-05T07:30:01Z"
@@ -3673,11 +5676,21 @@ graph
     commentcount 53
     duration "PT7M44S"
     indegree 6
-    cluster 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 251
+    id 203
+    name "251"
     label "wkFm_TAg85g"
     step 0
     date "2022-05-31T23:22:28Z"
@@ -3691,11 +5704,21 @@ graph
     commentcount 360
     duration "PT10M4S"
     indegree 10
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 252
+    id 204
+    name "252"
     label "yQob_KVE7Ec"
     step 0
     date "2021-11-17T17:18:23Z"
@@ -3709,11 +5732,21 @@ graph
     commentcount 794
     duration "PT31M32S"
     indegree 17
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 253
+    id 205
+    name "253"
     label "NbvGmDJ_2Js"
     step 0
     date "2022-02-26T00:05:53Z"
@@ -3727,11 +5760,21 @@ graph
     commentcount 2324
     duration "PT4M51S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 254
+    id 206
+    name "254"
     label "xey5GOO_aRo"
     step 0
     date "2021-09-22T17:00:39Z"
@@ -3745,11 +5788,21 @@ graph
     commentcount 28
     duration "PT6M25S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 255
+    id 207
+    name "255"
     label "nFMgOrHXqY4"
     step 0
     date "2021-10-08T12:16:59Z"
@@ -3763,29 +5816,49 @@ graph
     commentcount 382
     duration "PT38M38S"
     indegree 5
-    cluster 10
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 257
-    label "OZJt7fnRDis"
+    id 208
+    name "256"
+    label "qn9hbvVsyGQ"
     step 0
-    date "2022-01-06T13:00:10Z"
-    title "I asked NFT artists: Is it too late to sell NFTs?"
-    description "Why have artists and designers started selling NFTs? Is it too late to get involved? In this video, I asked NFT artists how they started making NFTs and their thoughts on the future of digital art.&#10;It may seem daunting, but as a motion designer, you're equipped with all the tools you need to get involved and start creating NFTs.&#10;Join us in this video as we speak to NFT artists about their journeys and how they create NFTs that sell out!&#10;In this video you'll learn:&#10;&#9989; How to start designing NFTs&#10;&#9989; How to get involved in the NFT community&#10;&#9989; How to build your confidence as an NFT artist&#10;&#9989; Common mistakes and how to avoid them&#10;&#9989; How to protect your art online&#10;&#9989; How to make money from NFTs&#10;&#9989; Their top advice for motion designers who want to start designing NFTs&#10;&#10;Emonee LaRussa - https://emoneelarussa.com/&#10;Nick Greenawalt (Motion by Nick) - https://www.motionbynick.com/&#10;Alex Stanlake - https://alexstanlake.com/&#10;&#10;&#11088;&#65039; FREE COURSE TO GET YOUR NEXT MOTION DESIGN CLIENT &#11088;&#65039;&#10;Get your next client in 5 days | https://motionhatch.com/nextclient&#10;&#10;&#128276; SUBSCRIBE TO THE CHANNEL | Weekly videos to help you to grow your motion design career and build a successful freelance business. &#10;https://youtube.com/c/motionhatch?sub_confirmation=1&#10;&#10;&#128187; COURSES AND PROGRAMS TO GROW YOUR CAREER&#10;Client Quest | https://motionhatch.com/clientcourse&#10;Mograph Mastermind | https://motionhatch.com/mastermindcourse&#10;Mograph Accelerator | https://motionhatch.com/acceleratorcourse&#10;&#10;FOLLOW US FOR MORE &#128071;&#10;Website | https://motionhatch.com&#10;Podcast | https://motionhatch.com/motionpodcast&#10;Instagram | https://motionhatch.com/mhinstagram&#10;Twitter | https://motionhatch.com/mhtwitter&#10;Clubhouse  | https://motionhatch.com/mhclubhouse&#10;Facebook  | https://motionhatch.com/mhfacebook&#10;&#10;00:00 - Intro&#10;00:13 - In this video&#10;00:38 - What first got you into NFTs?&#10;03:39 - Is it too late to get involved?&#10;05:51 - What was the first NFT you sold?&#10;06:50 - Can you fill in the gaps of client work?&#10;08:20 - Get your next client in 5 days with our FREE course! is it too late to sell nfts"
-    channeltitle "Motion Hatch"
-    channelid "UCbPELH-EaxceIXruva3qpig"
+    date "2022-07-07T04:26:30Z"
+    title "Top New NFT Project - Paper Boyz by NFTMagazine.com - $3,650 REAL Value Included With Every NFT"
+    description "Paper Boyz teams up with Angry Birds &#38; FIFA Mobile animation artist Edgar Vehbiu for highly anticipated NFT drop&#10;&#10;Message Paper Boyz on telegram for more information + to join our MAYC Giveaway here now: https://t.me/NFTMagazineBot?start=w17182049&#10;&#10;NFTMagazine.com&#10;&#10;NFTMagazine.com was launched in 2021 with the mission to become the world&#8217;s leading news source of NFT alpha on the web. At NFTmagazine.com you get the latest news, market updates, and stories on NFT&#8217;s, crypto, and blockchain tech. Join our community for NFT alerts, the latest drops, articles, podcasts, and events.&#10;&#10;Speaking of trailblazing events, JetSet &#8212; one of the creators and co-founders of PaperBoyz by NFTMagazine.com &#8212; is releasing a 3,650-strong collection of NFTs that gives access to the most recent scoop from media company NFT Magazine. All Paper Boyz members get access to a fierce alpha community, NFT education, the latest news, and much more.&#10;&#10;On top of those perks, Paper Boyz Holders will be granted lifetime access to the NFTMagazine Alpha community discord group, valued at $1,200 per year!&#10;&#10;Most importantly, Paper Boyz will be hosting NFTMag Conference in Miami before the end of the year. All Paper Boyz holders will be granted a free resellable IRL ticket to this event, one of the biggest conferences the space has seen this year. There will be a limited number of tickets available for non-holders for sale and these tickets are valued at $2,450.&#10;&#10;On top of the utility, NFTMagazine.com provides additional benefits for owning a Paper Boyz NFT&#10;&#10;- Nostalgic animated art&#10;&#10;- Re-sellable NFTMag conference ticket ($2,450 value)&#10;&#10;- Claim free &#8220;Extra-Extra! by NFTMagazine.com&#8220; digital magazine art drops that will be sold in the future. (Valued at 3-4 ETH per year)&#10;&#10;- Early access to important industry updates while helping founders build #1 NFT news site as an early beta tester.&#10;&#10;- Get discounts on select future NFT drops by NFTMagazine.com&#10;&#10;- Get access to merchandise, ETH, and gadgets, as well as occasional blue-chip NFT giveaways&#10;&#10; &#10;Website: https://paperboyz.com&#10;&#10;Twitter: www.twitter.com/paperboyz4l&#10;&#10;Instagram: www.instagram.com/paperboyz&#10;&#10;Discord: www.discord.gg/nftmagazine&#10;&#10;WL: www.premint.xyz/paperboyz&#10;&#10;&#10;Source: https://www.mensjournal.com/entertainment/paper-boyz-nft-is-a-ticket-to-biggest-nft-conference-of-the-year/&#10;&#10;https://profiles.forbes.com/members/business/profile/Josh-King-Madrid-Neuro-Marketer-Internet-Marketer-Founder-NFTMagazine-com/fb50f97b-4ffa-4011-9faf-ca82bdc61df9"
+    channeltitle "Paper Boyz by NFTMagazine"
+    channelid "UCZbkBzlqp5tWf3lxkLJaqdA"
     favcount 0
-    viewcount 1946
-    likecount 122
-    commentcount 35
-    duration "PT8M43S"
+    viewcount 98555
+    likecount 43
+    commentcount 8
+    duration "PT52S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 258
+    id 209
+    name "258"
     label "t_SsS2FOdYE"
     step 0
     date "2021-07-08T16:41:52Z"
@@ -3799,11 +5872,21 @@ graph
     commentcount 19
     duration "PT2M9S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 259
+    id 210
+    name "259"
     label "Gx2H9AbxmZ0"
     step 0
     date "2022-04-03T13:00:13Z"
@@ -3817,47 +5900,77 @@ graph
     commentcount 1220
     duration "PT12M26S"
     indegree 16
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 211
+    name "260"
+    label "8oCYrtxT_Rc"
+    step 0
+    date "2022-06-27T18:30:07Z"
+    title "Floyd Mayweather is Ducking and Scamming You With NFTs | Multi Level Mondays"
+    description "Go to http://hellofresh.com/mlm16 to get up to 16 free meals plus 3 free gifts! &#10;Go to http://shipstation.com and use code MLM to get a 60-day free trial.&#10;Go to http://wildgrain.com/mlm or use code MLM to get $30 off your first box plus free croissants in very book.&#10;&#10;A Special Thanks to Robin Nelson for being the Announcer: https://twitter.com/XycronVA&#10;&#10;Welcome to Multi Level Mondays, a weekly series all about multi level marketing, pyramid schemes, and ponzi schemes.&#10;&#10;Floyd Mayweather is one of the wealthiest, most decorated boxers of all time. His brash personality has brought in billions, and any time he steps in the ring, he grabs attention. He&#8217;s brought that persona into the crypto world where he has repeatedly scammed the very people who loved him. We go multiple rounds with the champ and hit him with the evidence.&#10;&#10;Connect with me: https://linktr.ee/iilluminaughtii&#10;Sources: https://justpaste.it/97p3q&#10;&#10;Writers/Researchers/Helpers:&#10;Aj Reed&#10;&#10;This episode was edited by:&#10;Catechism: https://www.youtube.com/channel/UC1X38twKH-ePKOMQclh8a6g&#10;&#38;&#10;Kelpie&#10;&#38;&#10;Michael: https://www.flowcode.com/page/michaelseim&#10;&#38;&#10;The Mysterious Brian&#10;&#10;This episode's audio was mixed by:&#10;G. Thomas Craig &#10;&#10;Artists:&#10;Sprites made by https://plegberb.tumblr.com/&#10;&#10;Outro song is Cake by Retrovision&#10;&#10;You made it all the way to the bottom of my description box so, hello there.&#10;&#10;00:00 Intro&#10;02:55 Round 1&#10;06:10 Round 2&#10;09:45 Round 3&#10;12:36 Round 4&#10;17:14 AD&#10;20:53 Round 5&#10;26:42 Round 6&#10;28:23 Outro&#10;&#10;#iilluminaughtii #floydmayweather #nft"
+    channeltitle "iilluminaughtii"
+    channelid "UCpDmn2FfVYdPIDwRTcf5-OA"
+    favcount 0
+    viewcount 93522
+    likecount 5503
+    commentcount 555
+    duration "PT29M21S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
+  ]
+  node
+  [
+    id 212
+    name "262"
+    label "-n3YCI0mEdU"
+    step 0
+    date "2022-07-12T04:27:49Z"
+    title "AMC GME Stock | NFT Launched #GAMESTOP | Moviegoers are Leaving Their Couches for Theaters LOL DUH!"
+    description "#AMC&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203; &#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;#AMCSHORTSQUEEZE #AMCSTOCK #GME #GAMESTOP &#10;&#10;-------------------------------------------------------------------------------------------------------------------------------------------------------&#10;&#10;Stock Swinger Twitter:&#10;https://twitter.com/xStockSwingerx?s=...&#10;&#10;Stock Swinger YouTube Channel:&#10;https://youtube.com/channel/UCjE4Ixdy...&#10;&#10;-------------------------------------------------------------------------------------------------------------------------------------------------------&#10;&#10;My name is Jeff and I am a swing/day trader with 9 years of experience. Up until 9 years ago I never owned a single share of stock until my old boss introduced me to this wonderful world of trading. Fast forward 2 years after that I left a pretty good career I was in for 18 years to do this full time and never looked back!&#10;&#10;&#10;I am going to take a straight to the point approach on this channel. I will be doing 3-4 videos a week on swing trades I am taking with a good &#34;entry point&#34;,  &#34;price target&#34; and &#34;stop loss&#34;&#10;&#10;&#10;The most important thing for me and my success is &#34;stop loss&#34; Not all trades are going to be winners obviously but knowing when to get out has been key for me, taking a small 5-7% loss and move on! &#10;&#10;&#10;Legal Disclosure: I am not a financial advisor. The information contained in all of my videos is for entertainment purposes only. I am only showing you recommendations on certain plays I am in. I am not liable for any losses you may take in the market. Happy trading folks!&#10;&#10;&#10;&#10;&#10;&#10;&#10;Video topics: stock market,stocks,reddit,wallstreetbets,swing trades,best stocks,2022 stocks&#10;wall street bets, wall street, wallstreet bets, wall st bets, wall street gamestop, reddit wall street, wolf of wall street, wallstreetbets, wallstreetbet, wallstreetbets gme, wallstreetbets amc, wallstreebets, wallstreetbets cnbc, wallstreetbets meme, wallstreetbets memes, amc stock analysis, amc stock, treys trades, matt kohrs, meet kevin, gme stock prediction, stock short squeeze, wsb stocks, wsb, gamma squeeze, amc gamma squeeze, amc, gamestop short squeeze, gamestock stock, gamestops stock, how to buy amc stock, amc stock analysis, amc stock buy or sell, amc stock buy, amc stock price, amc stocktwits, amc stock reddit, amc earnings, short squeeze, amc vote, amc update, investing, investing for beginners, amc, gme, wsb, wall street bets, tlry, cannabis stocks, apha, top stocks, best stocks, stock market news, trading news, breaking news, stock picks, stock market live, top stocks 2022, best stocks 2022, citadel, margin call, short squeeze"
+    channeltitle "Stock Swinger"
+    channelid "UCjE4IxdydVIpg9LxtobzHEw"
+    favcount 0
+    viewcount 1307
+    likecount 239
+    commentcount 58
+    duration "PT12M49S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 261
-    label "GyaoJBY_qSY"
-    step 0
-    date "2022-06-21T13:53:57Z"
-    title "("
-    description "(&#1604;&#1604;&#1605;&#1576;&#1578;&#1583;&#1574;&#1610;&#1606; &#1608;&#1576;&#1583;&#1608;&#1606; &#1585;&#1571;&#1587; &#1575;&#1604;&#1605;&#1575;&#1604;) NFTs &#1605;&#1606; 0$ &#1573;&#1604;&#1609; 11000$ &#1593;&#1606; &#1591;&#1585;&#1610;&#1602;&#10;============================================================&#10;&#128293; Binance - Get $50 OFF Trading Fees https://bit.ly/mraddiebinance&#10;============================================================&#10;&#128293; All Access Creative Fabrica For $1 https://bit.ly/cf1dollar&#10;============================================================&#10;&#128293; Buy A Merch By Amazon Account https://bit.ly/mbaaccount&#10;============================================================&#10;&#128293; Merch By Amazon Arabic Course https://academy.mraddie.com/s/store/courses/description/MBA-Masters-Live-Course-Arabic-Beginners&#10;============================================================&#10;&#128293; My Merch By Amazon Course https://mraddie.com/mba-course&#10;============================================================&#10;&#128293; Win A Merch By Amazon Account https://bit.ly/mba-giveaway&#10;============================================================&#10;&#128293; My 1 To 1 Private Coaching https://mraddie.com/coaching&#10;============================================================&#10;&#128293; My Monthly Profitable Hot Niches Research https://mraddie.com/niches-sub&#10;============================================================&#10;&#128293; My Profitable POD Scalable Phrases https://mraddie.com/scalable-phrases&#10;============================================================&#10;&#128293; 200+ Free POD Profitable Niches https://mraddie.com/200-niches&#10;============================================================&#10;&#128293; All Access Creative Fabrica For $1 https://bit.ly/cf1dollar&#10;============================================================&#10;&#128293; 35% OFF Vexels Subscription https://bit.ly/2WtTSUU&#10;============================================================&#10;&#128293; Proven Money Making Methods https://taplink.cc/mraddie&#10;============================================================&#10;&#128293; AMZScout https://bit.ly/2wMg3fc&#10;============================================================&#10;&#128293; Free Amazon PPC Tool https://masteraddiep.com/sellicsbenchmarker&#10;============================================================&#10;&#128293; 25% OFF Podly &#128073; https://bit.ly/3IUEQxI Use Code PODLY25&#10;============================================================&#10;&#128293; Adobe Illustrator 7 Days Free Trial https://bit.ly/3jPagrS&#10;&#128293; Adobe Creative Cloud 7 Days Free Trial https://bit.ly/2I32Bc4&#10;============================================================&#10;&#128293; Free Canva Design Website https://bit.ly/3epm4hM&#10;============================================================&#10;&#128293; 30 Days Canva Pro Design Website Trial https://bit.ly/3epm4hM&#10;============================================================&#10;&#128293; 20% OFF Flying Research https://bit.ly/3u7uYtu Use Code MRADDIE&#10;============================================================&#10;&#128293; Merch Ninja http://bit.ly/2szNjnI&#10;Get 15% OFF For lifetime with Coupon ADDIE15&#10;============================================================&#10;&#128293; 20% OFF Merch Informer http://bit.ly/2EXbi3i Use Code ADDIE20&#10;============================================================&#10;&#128293; Jungle Scout https://bit.ly/3iRveqG&#10;============================================================&#10;&#128293; AMZScout https://bit.ly/2wMg3fc&#10;============================================================&#10;&#128293; My Main Print On Demand Tools And Resources https://bit.ly/2W3EYnM&#10;============================================================&#10;&#128293; Merch By Amazon Playlist 1 http://bit.ly/2KciTzg&#10;&#128293; Merch By Amazon Playlist 2 https://bit.ly/3DSyKdY&#10;============================================================&#10;&#128293; Business Email adnan@masteraddiep.com&#10;============================================================&#10;&#128293; Join My English Facebook Group https://bit.ly/36CeS1r&#10;&#128293; Join My Arabic Facebook Group http://bit.ly/2X2KJ77&#10;&#128293; Follow My Facebook Page https://www.facebook.com/MasterAddieP&#10;============================================================&#10;&#128293; Follow Me On Instagram http://bit.ly/2k31TjG&#10;============================================================"
-    channeltitle "Mr Adnan"
-    channelid "UCrVAIpnjKVj6iYG2p8I6XDQ"
-    favcount 0
-    viewcount 27935
-    likecount 1891
-    commentcount 101
-    duration "PT16M2S"
-    indegree 4
-    cluster 8
-  ]
-  node
-  [
-    id 263
-    label "jPAHui26a8Q"
-    step 0
-    date "2022-02-20T12:14:52Z"
-    title "View NFTs on Etherscan"
-    description "In this video, I will show you how to view your NFTs on Etherscan. Hope you enjoy the video.&#10;&#10;Other YouTube Channel:&#10;https://www.youtube.com/channel/UC-hai9BJi8mrCn1cG0yjV7g&#10;&#10;Twitter&#10;https://twitter.com/Hashlipsnft&#10;&#10;Discord&#10;https://discord.gg/qh6MWhMJDN&#10;&#10;Website: &#10;https://hashlips.online/&#10;&#10;Github Lab:&#10;https://github.com/hashlips-lab&#10;&#10;Github: &#10;https://github.com/HashLips&#10;&#10;My wallet addresses just in case &#128521;&#10;Ethereum:&#10;0x943590A42C27D08e3744202c4Ae5eD55c2dE240D&#10;&#10;Solana:&#10;2JqDeRFMANcABAuHYvje24TJYka5ki5XRdbjXEiwXKpr&#10;&#10;If you enjoyed the video, please leave a thumbs up and subscribe.&#10;&#10;Please be aware that the developer will not be responsible or liable for all loss or damage whatsoever caused by you participating in any way in the experimental code, whether putting money into the contract or using the code for your own project. &#10;&#10;We are not financial advisors. The content on this website and our YouTube videos are for educational purposes only and merely cite our own personal opinions. In order to make the best financial decision that suits your own needs, you must conduct your own research and seek the advice of a licensed financial advisor if necessary.  &#10;&#10;#react #generativeart #generative #art #node #javascript #coding #smartcontract #programming #polygon #ethereum #nft&#8203;&#8203; #nfts&#8203;&#8203;&#10;&#8203;#hashlips&#8203;&#8203; #code&#8203;&#8203;&#8203;&#8203; #solidity"
-    channeltitle "HashLips NFT"
-    channelid "UC1LV4_VQGBJHTJjEWUmy8nA"
-    favcount 0
-    viewcount 6486
-    likecount 302
-    commentcount 120
-    duration "PT2M22S"
-    indegree 0
-    cluster 4
-  ]
-  node
-  [
-    id 264
+    id 213
+    name "264"
     label "cDk1FPoCfqI"
     step 0
     date "2021-11-17T12:00:48Z"
@@ -3871,29 +5984,49 @@ graph
     commentcount 4824
     duration "PT25M35S"
     indegree 11
-    cluster 6
-  ]
-  node
-  [
-    id 266
-    label "0rY3dK0nqZU"
-    step 0
-    date "2022-01-23T20:11:03Z"
-    title "NFT Bros Be Like"
-    description "LIKE THE VIDEO&#10;Patreon:&#10;https://www.patreon.com/memezee&#10;&#10;Business Email:&#10;sponsormemezee@gmail.com&#10;&#10;&#10;Twitter &#9658; https://twitter.com/ImMemeZee&#10;&#10;Instagram &#9658; https://www.instagram.com/memezee.yt/&#10;&#10;TikTok&#9658; https://www.tiktok.com/@memezee_&#10;&#10;Reddit &#9658; https://www.reddit.com/r/MemeZee/&#10;&#10;&#10;Second Channel! &#9658;&#10; https://www.youtube.com/channel/UCa60-kUD9ppI46oaODMxIig"
-    channeltitle "Meme Zee"
-    channelid "UC3mB75p33VLYk3nv2SOVrmw"
-    favcount 0
-    viewcount 2057706
-    likecount 96287
-    commentcount 1726
-    duration "PT44S"
-    indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 267
+    id 214
+    name "265"
+    label "D_5OTepqSFc"
+    step 0
+    date "2022-07-11T19:24:30Z"
+    title ""
+    description "&#12304;&#32066;&#26044;&#20986;MV&#65281;&#12305;&#12298;&#32882;&#22818;1&#12299;&#26519;&#21531;&#34030;&#35299;&#27083;&#26032;&#27468;&#12298;N.F.T&#12299;MV&#35069;&#20316;&#36259;&#20107; &#8220;&#34892;&#25919;&#20154;&#21729;&#8221;&#20418;&#21633;&#31572;&#22002;&#128514;&#10;&#10;&#39764;&#26041;&#20840;&#23186; &#23067;&#27138;&#20840;&#19990;&#30028; MoreForms Media Entertains The World"
+    channeltitle "MoreForms Media&#39764;&#26041;&#20840;&#23186;"
+    channelid "UC8j9vuklS_kXfC1ZoIEPOpA"
+    favcount 0
+    viewcount 3185
+    likecount 257
+    commentcount 32
+    duration "PT1M59S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
+  ]
+  node
+  [
+    id 215
+    name "267"
     label "l6gSxUSCiv4"
     step 0
     date "2022-03-18T17:30:02Z"
@@ -3907,11 +6040,21 @@ graph
     commentcount 350
     duration "PT8M51S"
     indegree 8
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 268
+    id 216
+    name "268"
     label "weXScFVbKno"
     step 0
     date "2021-11-24T12:43:03Z"
@@ -3925,11 +6068,21 @@ graph
     commentcount 13
     duration "PT14M39S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 269
+    id 217
+    name "269"
     label "L5sCyA_Spec"
     step 0
     date "2022-06-29T14:00:08Z"
@@ -3943,11 +6096,21 @@ graph
     commentcount 35
     duration "PT16M8S"
     indegree 6
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 270
+    id 218
+    name "270"
     label "r1vJ-HoAmmM"
     step 0
     date "2022-04-16T12:36:40Z"
@@ -3961,47 +6124,77 @@ graph
     commentcount 515
     duration "PT13M35S"
     indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 219
+    name "271"
+    label "TDDFLxZ_xDA"
+    step 0
+    date "2022-07-11T15:41:05Z"
+    title "The Metaverse Adds Chris Brown To Growing NFT Community"
+    description "If you're making music in 2022, you've likely encountered the opportunity to be in the metaverse.&#10;&#10;Breezy capitalizing on the moment. And the future."
+    channeltitle "MILLION DOLLAZ WORTH OF GAME"
+    channelid "UC16Ne7V6Fe_bp1omKLiymFg"
+    favcount 0
+    viewcount 4841
+    likecount 203
+    commentcount 41
+    duration "PT1M"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 272
-    label "rr-ctBkVbrk"
+    id 220
+    name "273"
+    label "I7MoH3n6Bu4"
     step 0
-    date "2022-01-20T19:00:16Z"
-    title "NFT: QUL ES SU LADO OSCURO"
-    description "&#11088;&#65039;&#11088;&#65039; Suscr&#237;bete a nuestro canal https://bit.ly/3iFHitH &#11088;&#65039;&#11088;&#65039;&#10;&#10;Sep&#225;is o no lo que son, seguro que no hab&#233;is parado de escuchar &#250;ltimamente las siglas NFT. Y es que detr&#225;s del interesante concepto que suponen estos elementos, se esconden varias sombras dif&#237;ciles de ignorar. Por ello en el v&#237;deo de hoy no s&#243;lo te vamos a explicar qu&#233; son los NFT sino tambi&#233;n todo lo que conllevan. As&#237; que acompa&#241;adme&#10;&#10;#NFT #Bitcoin #Crypto&#10;&#10;&#128267;&#128267;&#128267;&#128267;&#10;&#10;Suscr&#237;bete http://bit.ly/VIpeW9&#10;&#10;&#128249;Echa un vistazo a nuestros v&#237;deos https://www.youtube.com/user/XatakaTV...&#10;&#128249;Sigue de cerca nuestras playlists https://www.youtube.com/user/XatakaTV...&#10;&#10;&#128240; Newsletter: https://www.getrevue.co/profile/xataka&#10;&#128378;&#127997; Tiktok https://vm.tiktok.com/ZSt7b3aJ/&#10;&#128216;Facebook https://www.facebook.com/Xataka&#10;&#128330;Twitter http://www.twitter.com/xataka&#10;&#128248;Instagram http://instagram.com/xataka&#10;&#128172;Telegram https://t.me/xataka&#10;&#128421;Leer m&#225;s: http://www.xataka.com/&#10;&#10;&#128225;&#128225;&#128225;&#128225;&#10;&#10;Xataka TV, canal de Youtube del medio l&#237;der en tecnolog&#237;a. Te informamos sobre la actualidad de los mejores productos tecnol&#243;gicos: smartphones, tel&#233;fonos m&#243;viles y sus apps (Android e iPhone), ordenadores e inform&#225;tica, televisiones y smart tv, tablets, drones, videoconsolas y juegos, c&#225;maras de fotos y fotograf&#237;a, todos los gadgets que puedas imaginar del mundo tech.&#10;&#10;Hacemos pruebas de producto que nos permiten hacer los mejores an&#225;lisis y reviews siempre en espa&#241;ol. Compartimos nuestras impresiones con comparativas con competidores. Expresamos nuestra opini&#243;n, siempre objetiva, para que est&#233;s siempre a la vanguardia de la informaci&#243;n."
-    channeltitle "Xataka TV"
-    channelid "UCUrYBZGlEOSD1_ds_HcNd6A"
+    date "2022-05-25T21:52:13Z"
+    title "Chronic Law - Drip (NFT Drip Riddim)"
+    description "Stream: https://marvment.lnk.to/nft-drip&#10;&#10;Buy the NFTs for this album:&#10;https://www.marvmentnft.com/album/628d8e2dad422a50a13000aa&#10;&#10;Producer: https://www.instagram.com/milli_music/&#10;&#10;Follow Chronic Law&#10;https://www.instagram.com/1law_chroniclaw357/&#10;&#10;Distributed by: MarvMent&#10;https://marvment.com&#10;&#10;#ChronicLaw #NFTDripRiddim #MilliMusic #Drip&#10;&#10;http://vevo.ly/g52EmI"
+    channeltitle "ChronicLawVEVO"
+    channelid "UCXSHOjS30YMaGRgwuuxBfLw"
     favcount 0
-    viewcount 46551
-    likecount 1629
-    commentcount 211
-    duration "PT9M46S"
-    indegree 5
-    cluster 9
+    viewcount 229850
+    likecount 10203
+    commentcount 590
+    duration "PT3M7S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 274
-    label "0KrdRZVr-q4"
-    step 0
-    date "2021-11-18T01:18:13Z"
-    title " es un NFT?"
-    description "Los NFT o Non Fungible Tokens han dado mucho de que hablar este a&#241;o. En este video voy a darles una introducci&#243;n acerca de que son los NFTs y como estos usan a la tecnolog&#237;a blockchain para poder registrar la propiedad de un activo digital.&#10;&#10;Quizas has escuchado hablar de los NFTs, y como se han vendido imagenes. gif, o tweets por bastante dinero, pero la tecnolog&#237;a plantea algo mucho m&#225;s utiil esto. En la Pr&#225;ctica los NFTs se registran en la blockchain de Ethereum y son en esencia Smart Contracts o contratos inteligentes.&#10;&#10;&#128104;&#8205;&#128187; Herramientas Recomendadas&#10;Cloudinary &#10142; https://bit.ly/3ohNlJ7&#10;Namecheap &#10142; namecheap.pxf.io/ErDe9&#10;NordVPN &#10142; https://bit.ly/2Te7p0J&#10;Hostinger &#10142; https://www.hostg.xyz/SH4YB&#10;&#10;&#128421;&#65039; Videos Recomendados:&#10;Curso de Expo &#10142; https://youtu.be/hXDMWeD0ERM&#10;Flutter &#10142; https://youtu.be/k3YsT7IZb6w&#10;React Native &#10142; https://youtu.be/i1uoJCsAxWc&#10;React Native &#38; Firebase &#10142; https://youtu.be/VE7J0SA1PRQ&#10;Mis Herramientas de Desarrollo &#10142; https://youtu.be/0me15LyLGO8&#10;&#10;&#127760; Redes:&#10;Fazt Web &#10142; https://www.faztweb.com/&#10;Facebook &#10142; https://facebook.com/fazttech&#10;Instagram &#10142; https://www.instagram.com/fazttech&#10;Twitter &#10142; https://twitter.com/fazttech&#10;Telegram &#10142; https://t.me/fazttech&#10;Twitch &#10142; https://www.twitch.tv/fazttech&#10;Slack &#10142; https://bit.ly/3dPqCPT&#10;Discord &#10142; https://discord.gg/mFUY4sT&#10;Blog &#10142;  http://blog.faztweb.com&#10;&#10;&#128233; Contacto:&#10;&#10142; fazt@faztweb.com&#10;&#10;#nft #blockchain"
-    channeltitle "Fazt"
-    channelid "UCX9NJ471o7Wie1DQe94RVIg"
-    favcount 0
-    viewcount 472848
-    likecount 22745
-    commentcount 990
-    duration "PT8M50S"
-    indegree 23
-    cluster 9
-  ]
-  node
-  [
-    id 275
+    id 221
+    name "275"
     label "HiibWQ8Alps"
     step 0
     date "2022-06-06T12:00:15Z"
@@ -4015,11 +6208,21 @@ graph
     commentcount 247
     duration "PT15M11S"
     indegree 14
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 276
+    id 222
+    name "276"
     label "AC3CxjarUa8"
     step 0
     date "2022-01-01T20:00:53Z"
@@ -4033,11 +6236,21 @@ graph
     commentcount 189
     duration "PT21M29S"
     indegree 5
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 277
+    id 223
+    name "277"
     label "hUnMKvtnFyo"
     step 0
     date "2022-04-23T19:30:12Z"
@@ -4051,11 +6264,21 @@ graph
     commentcount 40
     duration "PT20M21S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 278
+    id 224
+    name "278"
     label "Dl39Sye3C8U"
     step 0
     date "2022-07-11T23:55:47Z"
@@ -4069,29 +6292,49 @@ graph
     commentcount 20
     duration "PT57S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 281
-    label "r7_7-J33HMo"
+    id 225
+    name "279"
+    label "VbKHm96CvG0"
     step 0
-    date "2021-12-12T15:50:06Z"
-    title "est QUOI ?"
-    description "Les NFT c'est QUOI ?&#10;On entend beaucoup parler des NFT depuis cette ann&#233;e mais qu'est ce que c'est ? Quelle est la diff&#233;rence entre NFT et LES CRYPTOMONNAIES ? Quel est le rapport avec la BLOCKCHAIN ? &#10;Et puis apr&#232;s tout, comment &#231;a marche les NFT ? &#10;&#10;Tu cherches une EXPLICATION SIMPLE ? &#10;Dans cette vid&#233;o, tu trouveras TOUT CE QUE TU DOIS SAVOIR pour COMPRENDRE le monde des NFT ! &#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128279; MON INSTAGRAM :&#10;https://www.instagram.com/enissaytakespics&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128279; Site OpenSea: &#10;https://opensea.io/&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128279; AUTRES VIDEOS SIMILAIRES: &#10;&#9989; Le METAVERSE c'est quoi ? : https://youtu.be/2fMtkkAfuBc&#10;&#9989; La BLOCKCHAIN c'est quoi ? : https://youtu.be/_wh-_zub4cU&#10;&#9989; Les SMART CONTRACTS c'est quoi ? : https://youtu.be/fChbMGRnCf8&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128241; Contact Pro &#128241; &#10;enissay.ytb@gmail.com &#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;#NFT #crypto #blockchain"
-    channeltitle "Enissay &#10004;&#65039;"
-    channelid "UC_E7FzsmhKGCozm5W8YZbVg"
+    date "2022-07-11T00:31:50Z"
+    title "Balada Sebuah NFT Puluhan Milyar Yang Kehilangan Harganya Hampir 100%!!!"
+    description "#NFT #JackDorsey #SinaEstavi #Twitter #TjandraTedja &#10;Sebuah NFT yang berisikan cuitan pertama Jack Dorsey, co founder Twitter, yang dibeli Sina Estavi tahun lalu di harga sekitar 42 milyar rupiah dan ditawarkan seharga 689 milyar rupiah akhirnya hanya ditawar sekitar 4 juta rupiah.&#10;&#10;Inilah contoh ngenes dan konyolnya spekulasi investasi NFT..."
+    channeltitle "Tjandra Tedja"
+    channelid "UCJdr7-6ivdXtwLGw2rmQ5ZQ"
     favcount 0
-    viewcount 66983
-    likecount 3450
-    commentcount 293
-    duration "PT6M57S"
-    indegree 8
-    cluster 8
+    viewcount 4485
+    likecount 167
+    commentcount 70
+    duration "PT17M10S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 282
+    id 226
+    name "282"
     label "zuSThVmVSV0"
     step 0
     date "2022-06-20T19:00:57Z"
@@ -4105,11 +6348,21 @@ graph
     commentcount 3381
     duration "PT8M45S"
     indegree 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 283
+    id 227
+    name "283"
     label "pIQgy8I19Ds"
     step 0
     date "2022-06-08T18:08:26Z"
@@ -4123,11 +6376,21 @@ graph
     commentcount 6
     duration "PT4M8S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 284
+    id 228
+    name "284"
     label "ahc9vzdJ-QA"
     step 0
     date "2022-04-12T11:30:15Z"
@@ -4141,11 +6404,21 @@ graph
     commentcount 194
     duration "PT53M30S"
     indegree 4
-    cluster 10
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 285
+    id 229
+    name "285"
     label "m4UgN3-7_ps"
     step 0
     date "2022-04-05T19:11:26Z"
@@ -4159,29 +6432,49 @@ graph
     commentcount 5
     duration "PT1H1M41S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 287
-    label "wgI1pbMJM1M"
+    id 230
+    name "286"
+    label "Hbz8Rv77u2E"
     step 0
-    date "2021-09-18T15:52:24Z"
-    title "24 Horas Intentando Ganar Dinero Con NFTs"
-    description "Me paso 24 horas intentando ganar dinero con NFTs y te ense&#241;o de forma transparente mis resultados.&#10;&#10;&#9658; Consigue Criptomonedas Gratis: https://adriansaenz.com/Bitget&#10;&#9658; Una Acci&#243;n Gratis (hasta 200&#8364;): https://adriansaenz.com/Trade&#10;&#9658; C&#243;mo Crear Una Tienda Online: https://youtu.be/ty1tGghxqjk&#10;&#10;En este v&#237;deo me paso 24 horas intentando ganar dinero con los NFTs. &#218;ltimamente se han hecho muy populares los NFTs, hemos visto como algunos se han vendido por millones de euros. En este v&#237;deo te explico te forma transparente y para que todo el mundo lo entienda que es un NFT. Tambi&#233;n me paso 24 horas intentando ganar dinero con ellos y te lo cuento todo de forma totalmente transparente. Al final del v&#237;deo explico c&#243;mo ganar un NFT de forma totalmente gratis.&#10;&#10;Instagram: https://instagram.com/adrians&#10;Telegram: https://t.me/adriansaenzc&#10;&#10;Si te ha gustado el v&#237;deo no te olvides de darle like, no te cuesta nada y me ayudas un mont&#243;n :D"
-    channeltitle "Adri&#225;n S&#225;enz"
-    channelid "UCVt4ugq2txl_szlXAO7B3-g"
+    date "2022-05-08T19:00:08Z"
+    title "WHY I AM ACCUMULATING HEAVILY"
+    description "THIS NFT PROJECT COULD BE THE NEXT 100X, BIGGER THAN MOST SOLANA NFTS, ETHEREUM NFTS, &#38; MORE!&#10;&#10;Digital Animals | Upcoming Metaverse Game &#38; Massive NFT Project&#10;&#10;Welcome to the channel, my name is Nick or NCashOfficial. We talk about multiple cryptocurrencies, digital asset news, upcoming crypto projects, economics &#38; much more. If you enjoy the content be sure to leave a LIKE, SUBSCRIBE, &#38; HIT THE BELL to never miss a future update.&#10;&#10;Follow NCrypt - https://twitter.com/NCrypt30&#10;&#10;&#9989; My personal Exit Strategies, Portfolio Insights, &#38; MUCH MORE:&#10;https://www.ncashofficial.com&#10;&#10;&#9989; Official Crypto Themed Posters - https://officialcryptoposters.com/&#10;&#10;&#9989; Join this channel as a member to get access to exclusive member only perks:&#10;https://www.youtube.com/channel/UC4PZGdFS6D9j3r8pQWBNSww/join&#10;&#10;&#9989; KEEP YOUR CRYPTO SECURE FROM HACKERS -&#10;https://shop.ledger.com/pages/ledger-nano-x?r=3c8c376d6cdb&#38;tracker=MY_TRACKER&#10;&#10;&#9989; Referral Links -&#10;https://t.co/R2O8tLCKsQ?amp=1&#10;https://t.co/Bs9jqgyFuS?amp=1&#10;&#10;&#9989; FREE Discord Server -&#10;https://discord.gg/JMH4GYY5ce &#10;&#10;&#9989; Make sure to FOLLOW me on Twitter &#8211; http://www.twitter.com/NCashOfficial&#10;&#9989; Make sure to FOLLOW me on Instagram &#8211; http://www.instagram.com/NCashOfficial&#10;&#10;I do not have any other social media accounts, I would never ask for you to send me crypto in exchange for information, I would never ask for any logins, etc. Please be cautious about sharing any information in this market as scamming is a BIG issue.&#10;&#10;DISCLAIMER: I am not a financial adviser, &#38; all information given in my videos or on my social media platforms is for entertainment purposes only and is not financial advice. Investing/trading is a risk that is your own responsibility. You can easily lose your money in this market. None of my information should be used to make any investment decisions. Thank you all for the continued support, I appreciate you all.&#10;&#10;Description Tags (Ignore) &#10;#nft #nfts #ethereum"
+    channeltitle "NCashOfficial - Daily Crypto News"
+    channelid "UC4PZGdFS6D9j3r8pQWBNSww"
     favcount 0
-    viewcount 922164
-    likecount 48389
-    commentcount 1213
-    duration "PT23M24S"
-    indegree 18
-    cluster 9
+    viewcount 1747
+    likecount 100
+    commentcount 67
+    duration "PT12M32S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 288
+    id 231
+    name "288"
     label "jTg2-eIQQAY"
     step 0
     date "2022-03-01T19:06:43Z"
@@ -4195,29 +6488,49 @@ graph
     commentcount 21
     duration "PT20M23S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 290
-    label "zlvhtHcCLsE"
+    id 232
+    name "289"
+    label "ppTdyjr_ZMk"
     step 0
-    date "2022-01-19T10:00:13Z"
-    title "["
-    description "NFT, &#49888;&#49464;&#44228;&#51064;&#44032; &#49888;&#44592;&#47336;&#51064;&#44032;?&#10;2022&#45380; 1&#50900; 16&#51068; &#48169;&#49569; - &#44256;&#47140;&#45824;&#54617;&#44368; &#44608;&#49849;&#51452; &#51221;&#48372;&#48372;&#54840;&#45824;&#54617;&#50896; &#44368;&#49688;&#10;&#10;&#51648;&#45212;&#54644; 6&#50900; &#49548;&#45908;&#48708; &#44221;&#47588;&#50640;&#49436; NFT &#44592;&#49696;&#51012; &#54876;&#50857;&#54644; &#47564;&#46304; &#12300;&#53356;&#47549;&#53664;&#54161;&#53356; #7523&#12301;&#51060; 140&#50613; &#50896;&#50640; &#44144;&#47000;&#46096;&#45796;. &#10; &#49104;&#47564; &#50500;&#45768;&#46972; &#48708;&#54540;&#51060;&#46972;&#45716; &#50696;&#47749;&#51004;&#47196; &#54876;&#46041; &#51473;&#51064; &#47560;&#51060;&#53356; &#50952;&#53000;&#47564;&#51032; &#51089;&#54408; &#12300;&#47588;&#51068; :&#52395; 5000&#51068;&#12301;&#51008; &#10; &#53356;&#47532;&#49828;&#54000; &#44221;&#47588;&#50640;&#49436; 780&#50613; &#50896;&#50640; &#44144;&#47000;&#46104;&#47732;&#49436; NFT&#50640; &#45824;&#54620; &#44288;&#49900;&#44284; &#51060;&#47785;&#51060; &#51665;&#51473;&#46096;&#45796;.&#10; NFT&#44032; &#46020;&#45824;&#52404; &#47924;&#50631;&#51060;&#44592;&#50640; 'NFT'&#47564; &#48537;&#50632;&#45796;&#54616;&#47732; &#51060;&#47111;&#44172; &#52380;&#47928;&#54617;&#51201; &#50529;&#49688;&#44032; &#46384;&#46972;&#50724;&#45716; &#44152;&#44620;?&#10;&#10; NFT&#50640; &#45824;&#54620; &#44288;&#49900;&#51060; &#46888;&#44144;&#50892;&#51648;&#47732;&#49436; &#54620;&#54200;&#50640;&#49436;&#45716; &#50864;&#47140;&#51032; &#47785;&#49548;&#47532;&#46020; &#45458;&#45796;. &#10; &#44032;&#44201; &#48260;&#48660;&#44284; &#54364;&#51208;, &#51200;&#51089;&#44428; &#47928;&#51228; &#46321; &#50526;&#51004;&#47196; &#54644;&#44208;&#54644;&#50556; &#54624; &#44284;&#51228;&#46020; &#47566;&#44592; &#46412;&#47928;&#51060;&#45796;.&#10;&#44397;&#45236; &#54364;&#51201;&#51064; &#50516;&#54840;&#54617;&#51088; &#44608;&#49849;&#51452; &#44368;&#49688;(&#44256;&#47140;&#45824;&#54617;&#44368; &#51221;&#48372;&#48372;&#54840;&#45824;&#54617;&#50896;)&#50752; &#54632;&#44760;&#10;&#44032;&#49345;&#51088;&#49328; &#49884;&#51109;&#51032; &#52572;&#45824; &#51060;&#49800;&#47196; &#46496;&#50724;&#47480; NFT, &#44536; &#47749;&#44284; &#50516;&#51012; &#51674;&#50612;&#48376;&#45796;."
-    channeltitle "KBS&#51648;&#49885;"
-    channelid "UCBOs39Wu6lwfnT0IeJGyYWA"
+    date "2022-07-11T15:24:38Z"
+    title "NOVO JOGO NFT, GANHE FAZENDO O B DOGS"
+    description "Novo sistema de jogos NFT o (MOVETOEARN) chega com jogos divertidos e que te recompensam ao mesmo tempo que fazem bem a sa&#250;de, CATS  &#38; DOGS tr&#225;s esse sistema juntando divers&#227;o e rendimento aliados ao passeio do dia a dia.&#10;&#10;Website: https://www.catsanddogs.io/&#10;Twitter: https://twitter.com/CDOfficialNFTs&#10;Airdrop: https://bityli.com/HyfZFi&#10;&#10;Telegram e redes Canal Moreze &#9658;  https://beacons.ai/lucasmoreze&#10;&#10;INSTAGRAM      &#9658;  https://www.instagram.com/lucasmoreze&#10;SEJA MEMBRO &#9658;  http://bit.ly/2RocK3Z&#10;&#10;CRIE SUA CONTA BINANCE AQUI E GANHE B&#212;NUS&#10;https://accounts.binance.com/pt-BR/register?ref=J02Q8QU5&#10;&#10;#playtoearn #movetoearn #jogosnft"
+    channeltitle "Canal Moreze"
+    channelid "UC8KctpFNZvD9HZWO4L79crQ"
     favcount 0
-    viewcount 176308
-    likecount 3211
-    commentcount 98
-    duration "PT30M35S"
-    indegree 9
-    cluster 12
+    viewcount 891
+    likecount 93
+    commentcount 13
+    duration "PT7M23S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 291
+    id 233
+    name "291"
     label "PTUBcnz3zrs"
     step 0
     date "2022-07-06T03:00:19Z"
@@ -4231,29 +6544,49 @@ graph
     commentcount 29
     duration "PT9M38S"
     indegree 4
-    cluster 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 294
-    label "N5g9OqvV2-Q"
+    id 234
+    name "292"
+    label "8-8Swk7Sxi4"
     step 0
-    date "2022-03-02T06:00:09Z"
-    title "how to create opensea.io account, NFT sell "
-    description "how to create opensea.io account, sell NFT &#2459;&#2476;&#2495; &#2476;&#2495;&#2453;&#2509;&#2480;&#2495; &#2453;&#2480;&#2503; &#2463;&#2494;&#2453;&#2494; &#2439;&#2472;&#2453;&#2494;&#2478; &#2453;&#2480;&#2497;&#2472;&#2404; &#10;&#10; &#128293;First video: https://www.youtube.com/watch?v=OS78tXzl2wQ&#10;&#10;&#10;Follow Me: &#10;&#9193; Facebook: https://tinyurl.com/2p8ha74h&#10;&#9193; My Blog: https://tinyurl.com/2wpw44k3&#10;&#10;&#127873;business mail &#128071;&#10;sumonpike5@gmail.com&#10;&#10;LIKE, COMMENT &#38; SHARE"
-    channeltitle "Talk Dung Jr"
-    channelid "UCX_lJt6bDaJ4Tu_WaLTQkcQ"
+    date "2022-07-10T15:23:55Z"
+    title "BEST UPCOMING MINT ON SOLANA - DREAMERS NFT REVIEW"
+    description "BEST UPCOMING MINT ON SOLANA - DREAMERS NFT REVIEW&#10;&#10;Website - dreamersnfts.com&#10;Twitter - https://twitter.com/DreamersNFT_&#10;Discord - https://discord.gg/dreamers&#10;Launchpad - https://magiceden.io/launchpad/dreamers&#10;&#10;Mint Details &#10;Supply - 5555&#10;Price - 1.69 SOL&#10;Date - 11 July&#10;&#10;--------------------------------------------------------------------------------------&#10;&#10;Thanks for watching this video.&#10;&#10;--------------------------------------------------------------------------------------------&#10;&#10;Join us - https://twitter.com/cryptonfthuntyt&#10;&#10;--------------------------------------------------------------------------------------------"
+    channeltitle "CRYPTO NFT HUNT"
+    channelid "UCjGn3dj3GZwa6D7Sogwnd-g"
     favcount 0
-    viewcount 13030
-    likecount 476
-    commentcount 35
-    duration "PT15M12S"
-    indegree 3
-    cluster 5
+    viewcount 1433
+    likecount 15
+    commentcount 3
+    duration "PT7M27S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 295
+    id 235
+    name "295"
     label "ikKgre-7__8"
     step 0
     date "2022-07-08T17:00:26Z"
@@ -4267,11 +6600,21 @@ graph
     commentcount 30
     duration "PT13M41S"
     indegree 3
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 296
+    id 236
+    name "296"
     label "3xuzX56N5aQ"
     step 0
     date "2022-02-23T17:00:56Z"
@@ -4285,11 +6628,21 @@ graph
     commentcount 12
     duration "PT14M15S"
     indegree 0
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 297
+    id 237
+    name "297"
     label "76QU4hYWvUY"
     step 0
     date "2021-11-26T16:44:28Z"
@@ -4303,11 +6656,21 @@ graph
     commentcount 93
     duration "PT15M21S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 298
+    id 238
+    name "298"
     label "OkLaz3U0v-w"
     step 0
     date "2022-06-14T12:00:11Z"
@@ -4321,11 +6684,21 @@ graph
     commentcount 651
     duration "PT28M20S"
     indegree 2
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 299
+    id 239
+    name "299"
     label "j-9jnmwacN8"
     step 0
     date "2022-07-11T19:18:19Z"
@@ -4339,11 +6712,21 @@ graph
     commentcount 2
     duration "PT1M23S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 300
+    id 240
+    name "300"
     label "rDQWMCL5Zi0"
     step 0
     date "2022-06-15T14:45:04Z"
@@ -4357,11 +6740,21 @@ graph
     commentcount 32
     duration "PT14M46S"
     indegree 1
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 301
+    id 241
+    name "301"
     label "nWP-N_JH498"
     step 0
     date "2022-07-11T16:56:50Z"
@@ -4375,11 +6768,21 @@ graph
     commentcount 9
     duration "PT52M6S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 302
+    id 242
+    name "302"
     label "Y-IORP1VCAY"
     step 0
     date "2022-04-16T16:32:36Z"
@@ -4393,29 +6796,49 @@ graph
     commentcount 4262
     duration "PT24M50S"
     indegree 24
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 14
   ]
   node
   [
-    id 304
-    label "YasiHTeJvoM"
+    id 243
+    name "303"
+    label "7nr4Gv6rSgk"
     step 0
-    date "2022-04-13T15:25:51Z"
-    title "NFT "
-    description "NFT &#2453;&#2495; ?  How to Create an NFT ? How to Sell NFT Without Gas Fee | What is nft artwork | Exclusive Video&#10;Site:https://tinyurl.com/4baw7rt2&#10;&#2539; &#2489;&#2494;&#2460;&#2494;&#2480; &#2463;&#2494;&#2453;&#2494;&#2479;&#2492; DSLR Camera: https://youtu.be/8D3eRcUTve0&#10;&#2453;&#2478; &#2470;&#2494;&#2478;&#2503; &#2478;&#2507;&#2476;&#2494;&#2439;&#2482; - https://youtu.be/p0T3f8SY6LA&#10;&#2488;&#2488;&#2509;&#2468;&#2494;&#2479;&#2492; &#2465;&#2495;&#2460;&#2503; &#2488;&#2494;&#2441;&#2472;&#2509;&#2465; &#2488;&#2495;&#2488;&#2509;&#2463;&#2503;&#2478;-  https://youtu.be/p3nNRYBAv_4&#10;&#2478;&#2507;&#2476;&#2494;&#2439;&#2482; &#2488;&#2494;&#2480;&#2509;&#2477;&#2495;&#2488;&#2495;&#2434; - https://youtu.be/nTFOvPPBnPw&#10;&#2488;&#2488;&#2509;&#2468;&#2494;&#2479;&#2492; &#2460;&#2495;&#2478; &#2488;&#2494;&#2478;&#2455;&#2509;&#2480;&#2496; - https://youtu.be/hO4tb3i4Ue0&#10;&#10;&#2447;&#2479;&#2492;&#2494;&#2480;&#2465;&#2509;&#2480;&#2474; &#2469;&#2503;&#2453;&#2503; &#2438;&#2479;&#2492; &#2453;&#2480;&#2468;&#2503; &#2458;&#2494;&#2439;&#2482;&#2503; - https://t.me/airdropandbounty360&#10;&#10;**************************************************&#10;Telegram Airdrop - https://t.me/airdropandbounty360&#10;**************************************************&#10;&#128279; &#2456;&#2497;&#2480;&#2503; &#2438;&#2488;&#2497;&#2472; &#2438;&#2478;&#2494;&#2480; &#2480;&#2494;&#2472;&#2509;&#2472;&#2494;&#2480; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482; &#2469;&#2503;&#2453;&#2503; - https://tinyurl.com/y4jrspav&#10;&#128279; &#2456;&#2497;&#2480;&#2503; &#2438;&#2488;&#2497;&#2472; &#2438;&#2478;&#2494;&#2480; &#2477;&#2509;&#2482;&#2455; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482; &#2469;&#2503;&#2453;&#2503; - https://tinyurl.com/yxssevfs&#10;**************************************************&#10;&#128073; FOR ANY HELP: &#10;&#10;Email: mehedi.onlinehelp360@gmail.com&#10;Telegram: @MehediHasanIshaan&#10;Page : https://www.facebook.com/OnlineHelp360/&#10;Group : https://www.facebook.com/groups/IshaansFavor/&#10;&#10;**************************************************&#10;#Create_a_NFT_using_Mobile  #MakeMoney_With_NFT #Beginners_Tutorial &#10;**************************************************&#10;&#10;&#128681; Visit Our Website : https://tinyurl.com/yy9kfv6u&#10;&#128681; Follow Me on Facebook: https://tinyurl.com/y2uk3vqw&#10;&#128681; Follow Me on Instagram: https://tinyurl.com/y57ec6co&#10;&#128681; Like Our Facebook Page: https://tinyurl.com/yyl2bvug&#10;&#10;*************************************************&#10;&#128073; Disclaimer: This channel does not provide any financial advice. All the information provided on this channel is for educational and informational purposes only. This channel does not guarantee you that you can make money online using this method shown in the video, Your degree of achievement in accomplishing the outcomes asserted in the video will require diligent work, aptitudes, learning, and experience. This channel strongly advised you to do your research before investing or joining any such platform.&#10;&#10;&#128073; Affiliate Disclosure: This video description may contain affiliate links. This means if you click on that link this channel will receive a small amount of commission.&#10;***********************************************&#10;Thank You &#128579;&#128579;"
-    channeltitle "Online Help 360"
-    channelid "UCoHaBkoTU82qj57ukIN9OwA"
+    date "2021-11-04T14:30:01Z"
+    title "Top NFT Games in 2022 - How to Make Money PLAYING Video GAMES?!"
+    description "Today on CoinMarketCap, we are talking Play to Earn! &#10;&#10;Ever since the introduction of non-fungible tokens (NFTs), they have shown time and again that they have the potential of changing the gaming world. The emergence of NFTs promises a new and exciting order where players take up even more critical roles in the gaming economy and receive financial rewards in the process.&#10;&#10;This gaming paradigm has begun to take shape as game developers are increasingly adopting blockchain technology to give their games an even more immersive experience. In this guide, we will give you a rundown of some of the top NFT games available today. &#10;&#10;&#128309; CoinMarketCap Timestamps: &#10;&#10;0:00 - What Are Play to Earn NFT Games?&#10;2:05 - Top NFT Games of 2021 &#10;2:34 - Axie Infinity&#10;3:43 - Gods Unchained &#10;4:48 - Splinterlands&#10;5:27 - The Sandbox 3D&#10;6:17 - Alien Worlds&#10;6:57 - Battle Racers&#10;7:37 - Upcoming NFT Games &#10;7:40 - Guild of Guardians&#10;8:31 - Gold Fever &#10;9:15 - Neon District&#10;&#10;&#128276; P.S. Subscribe to not miss Tomorrow's Video! &#10;&#10;&#128309; Coin Market Cap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space. Its mission is to make crypto accessible all around the world through data and content.&#10;&#10;Founded by Brandon Chez in May 2013, CoinMarketCap has quickly grown to become the most trusted source by users, institutions, and media for comparing thousands of crypto assets and is commonly cited by CNBC, Bloomberg, and other major news outlets. &#10;&#10;&#128242; Download our app!&#10;IOS : https://apple.co/3dOkokH&#10;Android : https://bit.ly/3gHyJkS&#10;&#10;&#129309; Join CoinMarketCap!&#10;https://bit.ly/3dVaEoS&#10;&#10;Follow CoinMarketCap on social!&#10;https://twitter.com/CoinMarketCap&#10;https://www.facebook.com/CoinMarketCap&#10;https://www.instagram.com/CoinMarketCap&#10;https://reddit.com/r/CoinMarketCap&#10;https://t.me/CoinMarketCap&#10;&#10;&#128233; Subscribe to our Newsletter!&#10;https://coinmarketcap.com/newsletter/"
+    channeltitle "CoinMarketCap"
+    channelid "UCnhdZlwVd6ocXGhdSyV9Axg"
     favcount 0
-    viewcount 9159
-    likecount 408
-    commentcount 45
-    duration "PT15M15S"
-    indegree 3
-    cluster 5
+    viewcount 25223
+    likecount 779
+    commentcount 77
+    duration "PT11M8S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 305
+    id 244
+    name "305"
     label "SSCFtZmouqI"
     step 0
     date "2022-06-13T16:30:02Z"
@@ -4429,47 +6852,77 @@ graph
     commentcount 205
     duration "PT8M45S"
     indegree 0
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 309
-    label "lUVTQRkoo9A"
+    id 245
+    name "306"
+    label "VYjHTqBHhB0"
     step 0
-    date "2021-09-14T05:05:46Z"
-    title "My NFT Portfolio: JOYToys  VeeFriends"
-    description "NFTs on are taking off as a new asset class. Investable art, video games, event tickets, VR worlds, the potential is limitless for what can be created on the Ethereum blockchain as an NFT. In this episode I explain my philosophy for which NFTs I buy &#38; how I pick a good project/artist to support. Shoutout to JOYWorld &#38; VeeFriends!! Also shoutout to my friend Eli (from Starman Comics for helping me get my VeeFriend!) Let me know your NFT strategy in the comments below :)&#10;&#10;0:00 Intro&#10;2:20 My NFT Investing Strategy&#10;3:07 JOYWorld&#10;7:07 VeeFriends&#10;&#10;JOYWorld: https://joy.world/&#10;VeeFriends: https://veefriends.com/&#10;&#10;Support me on Patreon! https://www.patreon.com/hyperchange &#10;&#10;Twitter: https://twitter.com/HyperChangeTV&#10;IG: http://instagram.com/Hyperchange&#10;&#10;Music by Gali: https://soundcloud.com/galimusic&#10;&#10;Disclaimer: This video is purely my opinion and should not be regarded as factual information. I am not a financial advisor. This is not a recommendation to buy or sell securities. Do not assume any facts and numbers in this video are accurate. Always do your own due diligence. &#10;&#10;As of 09/13/2021 I'm invested in the following companies/startups/assets: Tesla, SpaceX, Bitcoin, Ethereum, Unisocks, VeeFriends, JOYToys, Square, Arcimoto, Dogecoin, Snap, NFTX, Rainbow Wallet, Atoms, Carta, Pipe, Alloy Automation, Genies, DMN8, Haus, Community, Dadi, Pigeon Loans &#38; others."
-    channeltitle "HyperChange"
-    channelid "UC1LAjODfg7dnSSrrPGGPPMw"
+    date "2022-05-17T19:34:33Z"
+    title "Logan Paul Fires Co-Host, Loses Millions On NFTs (Shocking) - IMPAULSIVE EP. 326"
+    description "In today&#8217;s episode, the boys discuss George nearly assaulting Mike, whose pull out game is weakest, losing millions from the crypto crash, Logan&#8217;s launch of 99 originals, Amber Heard VS. Johnny Depp, George attacks Mike&#8217;s poor taste in women, milking your prostate &#38; more&#8230;&#10;&#10;Wear Maverick Clothing &#9658; https://maverickclothing.com&#10;SUBSCRIBE TO THE PODCAST &#9658; https://www.youtube.com/impaulsive&#10;&#10;LISTEN ON:&#10;ITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2&#10;SPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw&#10;CASTBOX: https://castbox.fm/vc/1486024&#10;PODCAST ADDICT: https://podcastaddict.com/podcast/3224924&#10;&#10;Video Sponsored by Ridge Wallet. Check them out here: https://ridge.com/IMPAULSIVE Use Code &#34;IMPAULSIVE&#34; for 10% off your order&#10;&#10;Watch Previous (The Liver King Calls Out Joe Rogan, Eats Raw Liver LIVE, Rejects Steroid Rumors) &#9658; https://www.youtube.com/watch?v=hkTXbkz-vWA&#38;t=352s&#10;&#10;ADD US ON:&#10;INSTAGRAM: https://www.instagram.com/impaulsiveshow/&#10;&#10;Timestamps:&#10;0:00 Intro&#10;1:17 Deaf Man Mistake&#10;2:36 Logan, Mike &#38; George&#8217;s Fight&#10;6:27 Head In The Bathroom&#10;13:38 Thank You Call Her Daddy!&#10;19:16 Crypto Crash&#10;24:01 99 Originals Launch!&#10;25:51 Gunna &#38; Young Thug Arrested&#10;29:35 Logan Is Addicted&#10;34:11 Johnny Depp Vs Amber Heard Trial&#10;38:46 George Calls Out Logan &#38; Mike&#10;49:08 Mike&#8217;s Prostate Exam&#10;54:06 Jake Paul Or Logan Paul?&#10;58:42 Advice For 3-Year-Olds&#10;1:01:35 How To Build Success&#10;&#10;***PLEASE NOTE***&#10;Impaulsive is a significant break from the typical content viewers have come to expect from the vlog channel &#38; we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.&#10;&#10;&#9888;NO FINANCIAL ADVICE / DISCLAIMER&#9888; &#10;The Information discussed and shared on impaulsive is provided for educational, informational, and entertainment purposes only, without any express or implied warranty of any kind, including warranties of accuracy, completeness, or success for any particular purpose.&#10;&#10;The Information contained in or provided from or through this podcast is not intended to be and does not constitute financial advice, investment advice, trading advice, or any other advice.&#10;&#10;The Information on this podcast and provided from or through our content is general in nature and is not specific to you the user or anyone else. You should not make any decision, financial, investment, trading or otherwise, based on any of the information presented on this podcast without undertaking independent due diligence and consultation with a professional, professional broker or financial advisory.&#10;&#10;Understand that you are using any and all Information available on or through this website at your own risk.&#10;&#10;RISK STATEMENT&#8211; The trading of Bitcoins, alternative cryptocurrencies, NFTs, etc. has potential rewards, and it also has potential risks involved. Trading may not be suitable for all people. Anyone wishing to invest should seek his or her own independent financial or professional advice."
+    channeltitle "IMPAULSIVE"
+    channelid "UCGeBogGDZ9W3dsGx-mWQGJA"
     favcount 0
-    viewcount 5328
-    likecount 299
-    commentcount 122
-    duration "PT11M56S"
+    viewcount 1780952
+    likecount 49574
+    commentcount 4947
+    duration "PT1H7M38S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
+  ]
+  node
+  [
+    id 246
+    name "310"
+    label "98tstGJ3Vyo"
+    step 0
+    date "2022-07-09T01:00:02Z"
+    title "CHEVY 2023 Corvette  NFT For UNDER $10K (Ethereum Name Service SELLING FAST)"
+    description "In this NFT update, we aim to bring you the latest and most relevant NFT news today. Ethereum Name Service sees a massive spike in activity, Popular car company Chevrolet breaks down on their first NFT release and boxing legend Manny Pacquiao has Cardano in his corner as he prepares to release a play to earn NFT. &#10;&#10;What We Discuss:&#10;0:00 Intro&#10;0:22 ETH's ENS Explodes&#10;2:03 Chevy's Failed NFT&#10;3:24 Pacman NFT&#10;&#10;Subscribe To NFT Alpha &#10145;&#65039; https://www.youtube.com/c/NFTAlpha&#10;&#10;&#10;Top Videos:&#10;&#128211;Crypto 101: https://youtu.be/AaNfHskwLdg&#10;&#127960;&#65039;Housing Crisis: https://youtu.be/a51Oi34c6Jc&#10;&#127760;Internet Is Rotting Away: https://youtu.be/_rB6vjvYjNE&#10;&#128187;Cyber Warfare: https://youtu.be/gubDnq8jJxI&#10;&#127757;World Economic Forum: https://youtu.be/ZOOtPB1pYtE&#10;&#10;&#10;Learn more about crypto &#10145;&#65039; https://bitlabacademy.com&#10;How to join Cardano (ADA) BitPool &#10145;&#65039; https://bitboycrypto.com/how-to-stake-ada-with-bpool/&#10;&#10145;&#65039; MERCHANDISE: https://www.hitmerch.com/&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;Connect with Me &#38; the BitSquad!&#10;Join the BitSquad &#10145;&#65039; http://t.me/BitSquad&#10;Join BitSquad Traders &#10145;&#65039; http://t.me/BitSquadTraders&#10;Join Me on Twitter &#10145;&#65039; https://twitter.com/Bitboy_Crypto&#10;Join Me on Instagram &#10145;&#65039; https://www.instagram.com/bitboy_crypto&#10;Join Me on TikTok &#10145;&#65039; https://www.tiktok.com/@RealBitBoyCrypto&#10;Join Me on Minds &#10145;&#65039; https://www.minds.com/bitboy_crypto&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;ByBit, Market Cipher, Ledger, TokenMetrics, Crypto.com &#38; more!&#10;Find deals on hardware wallets, trading indicators, exchanges &#38; more.&#10;Find Crypto DEALS &#10145;&#65039; https://bitboycrypto.com/deals&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;All of our videos are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies and not all strategies fit all people. Our videos ARE NOT financial advice.&#10;&#10;Sources:&#10;https://twitter.com/nicksdjohnson&#10;https://adahandle.com/&#10;https://decrypt.co/104472/ethereum-name-service-registrations-spike-216-in-one-week&#10;https://datastudio.google.com/u/0/reporting/8785928a-71d5-4b17-9fea-fe1c937b064f/page/RoKgC?s=j1wlK90ZIbA&#10;https://twitter.com/Delphi_Digital/status/1544385610835808257?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1544385610835808257%7Ctwgr%5E%7Ctwcon%5Es1_&#38;ref_url=https%3A%2F%2Fdecrypt.co%2F104472%2Fethereum-name-service-registrations-spike-216-in-one-week&#10;https://twitter.com/10kClubOfficial&#10;https://twitter.com/10kClubOfficial/status/1543635091410255872&#10;https://cryptonews.com/news/chevrolets-first-nft-draws-zero-bids-even-though-its-accompanied-by-a-corvette.htm&#10;https://superrare.com/0x362373ad01f3a0ef671f757bcb7276cc4a3fb9bf/own-the-color--1&#10;https://twitter.com/ItsPacman4Ever/status/1543865100955951105?s=20&#38;t=1CYzG9RIpfYLYwEbPYY97A&#10;https://twitter.com/MannyPacquiao/status/1536955168608362497&#10;https://pacman.dog/&#10;&#10;#NFTs #Crypto #NFTart #NFTnews"
+    channeltitle "BitBoy Crypto"
+    channelid "UCjemQfjaXAzA-95RKoy9n_g"
+    favcount 0
+    viewcount 15053
+    likecount 827
+    commentcount 33
+    duration "PT4M53S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 311
-    label "pEreoxCwC6c"
-    step 0
-    date "2021-03-02T17:10:10Z"
-    title "Les NFTs : Cvolution ou danger ?"
-    description "Les Non-fungible tokens (NFT) sont &#224; la mode ! Mais comment est-ce qu'ils fonctionnent et d'ou vient leurs valeurs ? Vous verrez dans cette vid&#233;o les bases du monde des NFTs ainsi que les grosses entreprises et projets naissants sur ce segment tendance de la blockchain.&#10;&#10;&#128279;LIENS DE LA VIDEO:&#10;-Un article sur l'Oeuvre vendu &#224; 6.6M$: http://bit.ly/3sMgmyb&#10;-Unstoppable Domains (.crypto): https://bit.ly/2WOFRi5&#8203; *&#10;-Le projet de Capsules TERNOA: http://bit.ly/3q72cWn &#10;Je suis advisor du projet, rejoignez nous sur leur t&#233;l&#233;gram (ici): http://bit.ly/3bVYyJY&#10;-Arianee (et Satoshi studio): http://bit.ly/3e3iv4q&#10;-SuperFarm: http://bit.ly/3bRp1Zj&#10;-Le plateforme ULTRA (Token UOS):  https://www.youtube.com/watch?v=5H1jU9ty8_s&#10;&#10;|| Les places d'&#233;changes de NFTs :&#10;-OpenSea: http://bit.ly/3uGYs1z&#10;-Rarible: http://bit.ly/3dYjwL3&#10;&#10;&#10;Je reste &#224; votre disposition en commentaire et j'attends vos retours avec impatience merci pour votre attention !&#10;&#10;Sommaire:&#10;00:00:00 : Introduction&#10;00:01:10 : C&#8217;est quoi un NFT ?&#10;00:02:45 : Pourquoi la Blockchain ?&#10;00:05:40 : Les 5 cat&#233;gories&#10;00:18:13 : Les plateformes&#10;00:20:34 : Quelques projets int&#233;ressants&#10;00:25:12 : Conclusion&#10;&#10;&#128226; Voici de quoi me contacter:&#10;&#10;http://youtube.com/hasheur/&#10;http://facebook.com/hasheur/&#10;http://twitter.com/powerhasheur/&#10;Snapchat: PowerHasheur&#10;Instagram: Hasheur&#10;&#9993; Contact pro: Dimitri@hasheur.com&#10;LinkedIn: https://goo.gl/7JgTFb&#10;&#10;Merci &#224; vous pour le temps que vous consacrez sur mon contenu&#10;Owen.&#10;&#10;Les NFTs : C'est quoi et Comment &#231;a marche ? | R&#233;volution ou pi&#232;ge &#224; idiot ?&#10;&#10;#bitcoin #blockchain #NFT"
-    channeltitle "Hasheur"
-    channelid "UChlTcWDE8gd4tsl_L727NrQ"
-    favcount 0
-    viewcount 683391
-    likecount 23808
-    commentcount 1482
-    duration "PT26M27S"
-    indegree 9
-    cluster 8
-  ]
-  node
-  [
-    id 312
+    id 247
+    name "312"
     label "kWguqBkOVNU"
     step 0
     date "2022-04-15T19:29:16Z"
@@ -4483,29 +6936,49 @@ graph
     commentcount 2042
     duration "PT6M15S"
     indegree 17
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 314
-    label "VadREJtzMmw"
+    id 248
+    name "313"
+    label "EB0j1JvMM0I"
     step 0
-    date "2022-02-18T13:07:57Z"
-    title "NFTs "
-    description "Binance &#10;https://accounts.binance.me/en/register?ref=148727729&#10;&#10;CoinBase Link &#10;https://www.coinbase.com/join/KH25A1?src=ios-link&#10;&#10;#NFT&#4102;&#4141;&#4143;&#4112;&#4140;&#4120;&#4140;&#4124;&#4146; #YouTube&#4100;&#4157;&#4145;&#4123;&#4158;&#4140;&#4116;&#4106;&#4154;&#4152; #NFTMyanmar &#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UC_Bjw1lIcBdaRy4XARCTM3w/join"
-    channeltitle "Dee Dee Burmese Vlog"
-    channelid "UC_Bjw1lIcBdaRy4XARCTM3w"
+    date "2022-06-23T10:09:26Z"
+    title "NFT"
+    description "Provided to YouTube by Stem Disintermedia Inc.&#10;&#10;NFT &#183; Juicy J &#183; Pi'erre Bourne&#10;&#10;Space Age Pimpin&#10;&#10;&#8471; 2022 Trippy Music LLC&#10;&#10;Released on: 2022-06-24&#10;&#10;Producer: Juicy J&#10;Producer: Pi'erre Bourne&#10;Writer: Jordan Houston&#10;Writer: Jordan Jenks&#10;&#10;Auto-generated by YouTube."
+    channeltitle "Juicy J - Topic"
+    channelid "UCGwa7ZUGHL9pisTwM1rUIRQ"
     favcount 0
-    viewcount 51770
-    likecount 6602
-    commentcount 204
-    duration "PT9M44S"
-    indegree 1
-    cluster 4
+    viewcount 30569
+    likecount 883
+    commentcount 0
+    duration "PT3M15S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 315
+    id 249
+    name "315"
     label "KV4yzWw_2aM"
     step 0
     date "2021-12-05T11:15:01Z"
@@ -4519,47 +6992,77 @@ graph
     commentcount 237
     duration "PT7M"
     indegree 9
-    cluster 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 318
-    label "-y7AeMxnBLg"
+    id 250
+    name "316"
+    label "WvnNpa9OfCQ"
     step 0
-    date "2021-03-20T20:58:04Z"
-    title "NFT (Non Fungible Tokens) - ?"
-    description "&#2439;&#2472;&#2509;&#2463;&#2494;&#2480;&#2472;&#2503;&#2463; &#2478;&#2494;&#2480;&#2509;&#2453;&#2503;&#2463;&#2495;&#2434;, &#2465;&#2495;&#2460;&#2495;&#2463;&#2494;&#2482; &#2478;&#2494;&#2480;&#2509;&#2453;&#2503;&#2463;&#2495;&#2434; &#2447;&#2488;&#2476; &#2460;&#2495;&#2472;&#2495;&#2488; &#2474;&#2468;&#2509;&#2480;&#2503; &#2438;&#2455;&#2509;&#2480;&#2489;&#2496; &#2489;&#2482;&#2503; &#2438;&#2478;&#2494;&#2480; &#2447;&#2453;&#2494;&#2465;&#2503;&#2478;&#2495; &#2474;&#2503;&#2460; &#2463;&#2494; &#2456;&#2497;&#2480;&#2503; &#2438;&#2488;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2472; &#2447;&#2454;&#2494;&#2472; &#2469;&#2503;&#2453;&#2503;&#2435;  https://khalidfarhan.com/academy&#10;&#10;&#2447;&#2439; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482;&#2503; &#2438;&#2478;&#2495; &#2478;&#2498;&#2482;&#2468; &#2476;&#2509;&#2479;&#2476;&#2488;&#2494; &#2476;&#2494;&#2467;&#2495;&#2460;&#2509;&#2479;, &#2441;&#2470;&#2509;&#2479;&#2507;&#2453;&#2509;&#2468;&#2494; &#2460;&#2496;&#2476;&#2472; &#2469;&#2503;&#2453;&#2503; &#2486;&#2497;&#2480;&#2497; &#2453;&#2480;&#2503; &#2438;&#2478;&#2494;&#2480; &#2460;&#2496;&#2476;&#2472; &#2476;&#2495;&#2487;&#2527;&#2453; &#2489;&#2494;&#2476;&#2495;&#2460;&#2494;&#2476;&#2495; &#2488;&#2476; &#2453;&#2495;&#2459;&#2497; &#2472;&#2495;&#2527;&#2503;&#2439; &#2453;&#2469;&#2494; &#2476;&#2494;&#2480;&#2509;&#2468;&#2494; &#2476;&#2482;&#2495;&#2404; &#2468;&#2503;&#2478;&#2472; &#2453;&#2507;&#2472; &#2469;&#2495;&#2478; &#2472;&#2503;&#2439; &#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482;&#2503;&#2480;&#2404; &#2468;&#2476;&#2503; &#2478;&#2494;&#2480;&#2509;&#2453;&#2503;&#2463;&#2495;&#2434; &#2476;&#2494; &#2476;&#2509;&#2479;&#2476;&#2488;&#2494;&#2480; &#2453;&#2469;&#2494; &#2476;&#2494;&#2480;&#2509;&#2468;&#2494;&#2439; &#2476;&#2503;&#2486;&#2495; &#2476;&#2482;&#2494; &#2489;&#2527;&#2404; &#10;&#10;&#2458;&#2509;&#2479;&#2494;&#2472;&#2503;&#2482; &#2463;&#2494; &#2488;&#2494;&#2476;&#2488;&#2509;&#2453;&#2509;&#2480;&#2494;&#2439;&#2476; &#2472;&#2494; &#2453;&#2480;&#2503; &#2469;&#2494;&#2453;&#2482;&#2503; &#2453;&#2480;&#2503; &#2475;&#2503;&#2482;&#2468;&#2503; &#2474;&#2494;&#2480;&#2476;&#2503;&#2472; &#2447;&#2454;&#2494;&#2472;&#2503;&#2435; https://youtube.com/passivejournaluniversity/?sub_confirmation=1&#10;&#10;&#2447;&#2459;&#2494;&#2524;&#2494; &#2438;&#2478;&#2494;&#2453;&#2503; &#2488;&#2507;&#2486;&#2494;&#2482; &#2478;&#2495;&#2465;&#2495;&#2527;&#2494; &#2468;&#2503; &#2475;&#2482;&#2507; &#2453;&#2480;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2472; &#2438;&#2474;&#2472;&#2494;&#2480; &#2479;&#2503;&#2454;&#2494;&#2472;&#2503; &#2439;&#2458;&#2509;&#2459;&#2494;&#2435; &#10;&#10;&#2475;&#2503;&#2488;&#2476;&#2497;&#2453; &#2474;&#2503;&#2460;: https://www.facebook.com/chandlerbingforlife/&#10;&#2475;&#2503;&#2488;&#2476;&#2497;&#2453; &#2474;&#2509;&#2480;&#2507;&#2475;&#2494;&#2439;&#2482;: https://www.facebook.com/kfisawesome&#10;&#2439;&#2472;&#2509;&#2488;&#2463;&#2494;&#2455;&#2509;&#2480;&#2494;&#2478;: https://www.instagram.com/iamkhalidfarhan&#10;&#10;&#2477;&#2494;&#2482; &#2482;&#2494;&#2455;&#2482;&#2503; &#2477;&#2495;&#2465;&#2495;&#2451; &#2463;&#2495; &#2486;&#2503;&#2527;&#2494;&#2480; &#2453;&#2480;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2472; &#2438;&#2474;&#2472;&#2494;&#2480; &#2488;&#2507;&#2486;&#2494;&#2482; &#2478;&#2495;&#2465;&#2495;&#2527;&#2494;&#2527;&#2404; &#2438;&#2478;&#2494;&#2453;&#2503; &#2463;&#2509;&#2479;&#2494;&#2455; &#2453;&#2480;&#2468;&#2503; &#2477;&#2497;&#2482;&#2476;&#2503;&#2472; &#2472;&#2494;&#2404;&#10;&#10;To Check out NFT Marketplace: https://opensea.io/ (there are lots of other ones too)"
-    channeltitle "Khalid Farhan"
-    channelid "UCb-d2dCbEt_T-d3qf3oMICw"
+    date "2022-02-18T04:50:00Z"
+    title "Tales From The Crypto: Melania"
+    description "Stephen launches a new segment focused on the wild world of cryptocurrencies and NFTs, and takes a look how Ottawa locals feel about the Freedom Convoy. #Colbert #Comedy #Monologue&#10;&#10;Subscribe To &#34;The Late Show&#34; Channel: http://bit.ly/ColbertYouTube&#10;&#10;Watch full episodes of &#34;The Late Show&#34;: http://bit.ly/1Puei40&#10;Listen to &#34;The Late Show Pod Show&#34; podcast: https://link.chtbl.com/Awagtx95?sid=yt&#10;Like &#34;The Late Show&#34; on Facebook: http://on.fb.me/1df139Y&#10;Follow &#34;The Late Show&#34; on Twitter: http://bit.ly/1dMzZzG&#10;Follow &#34;The Late Show&#34; on Instagram: http://bit.ly/29wfREj&#10;&#10;Watch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.&#10;&#10;---&#10;The Late Show with Stephen Colbert is the premier late night talk show on CBS, airing at 11:35pm EST, streaming online via Paramount+, and delivered to the International Space Station on a USB drive taped to a weather balloon. Every night, viewers can expect: Comedy, humor, funny moments, witty interviews, celebrities, famous people, movie stars, bits, humorous celebrities doing bits, funny celebs, big group photos of every star from Hollywood, even the reclusive ones, plus also jokes."
+    channeltitle "The Late Show with Stephen Colbert"
+    channelid "UCMtFAi84ehTSYSE9XoHefig"
     favcount 0
-    viewcount 291325
-    likecount 18671
-    commentcount 539
-    duration "PT18M18S"
-    indegree 3
+    viewcount 1898286
+    likecount 32764
+    commentcount 3775
+    duration "PT11M10S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
+  ]
+  node
+  [
+    id 251
+    name "319"
+    label "Ze96cw-sM0o"
+    step 0
+    date "2022-06-06T18:58:18Z"
+    title "Epic Games! - The Largest Crypto NFT Gaming Updates Of 2022!"
+    description "Epic Games - Epic News! Despite the bear market, Crypto Gaming, NFTs, and Mainstream gaming continue to partner up, thus forging the way forward for the roaring blockchain gaming industry. Check in with Hustle 'In the Game' today, when he reveals some of the biggest gaming-related partnerships and explains what it means for this forward-moving industry as a whole.&#13;&#10;&#13;&#10;Host: Hustlepedia&#13;&#10;Twitter -  https://twitter.com/HustlepediaYT&#13;&#10;Insta - http://instagram.com/Hustle_NFT&#13;&#10;&#13;&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#13;&#10;&#13;&#10;&#128293;Seedify&#13;&#10;Exclusive opportunity to get degen gaming tokens before they are even listed&#13;&#10;&#128073;&#127996; Website - https://bit.ly/3zWwh1L&#13;&#10;Twitter - https://bit.ly/3n3CdAJ&#13;&#10; &#13;&#10;&#128293;Unix Gaming &#13;&#10;- In collaboration with Unix Gaming, Cross The Ages is giving the Banter fam 250 whitelist spots&#13;&#10;- Enter by clicking the link below&#13;&#10;&#128073;&#127996; http://gleam.io/Gg7R0/cross-th&#13;&#10;&#13;&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#13;&#10;&#13;&#10;&#128478;&#65039; Sign-up to The Daily Candle newsletter&#13;&#10;-Never miss a trend, never miss a trade!&#13;&#10;-https://twitter.com/i/newsletters/subscribe/crypto_banter&#13;&#10;&#13;&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#13;&#10;&#13;&#10;&#127758; JOIN THE GLOBAL BANTER FAM! &#13;&#10;&#13;&#10;- https://www.cryptobanter.com/community/ &#13;&#10;&#13;&#10;&#9757;&#127997;All official social accounts can be found here&#13;&#10;&#13;&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#13;&#10;&#13;&#10;Special thanks to:&#13;&#10;&#13;&#10;&#127925; Bra4os  &#13;&#10;- Crypto Banter for you &#13;&#10;- Full video: https://bit.ly/3pW2Mtu &#13;&#10;&#13;&#10;&#127925; DJ Send!t&#13;&#10;- The Hustle song&#13;&#10;- https://bit.ly/3zMjXRo&#13;&#10;&#13;&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#13;&#10;&#13;&#10;Crypto Banter is a live streaming channel that brings you the hottest crypto news, market updates and fundamentals of the world of digital assets &#8211; &#8220;straight out of the bull&#8217;s mouth&#8221;!! Join the fastest growing crypto community to get notified on the most profitable trades and latest market news!&#13;&#10;&#13;&#10;00:00 In The Game on Monday&#10;00:52 Epic Games Store Explained&#10;01:00 Intro &#10;02:21GalaVerse Event Malta&#10;02:52 Epic Games Partnership with GoGalaGames &#10;03:00 Fortnite Launched on Epic Games Store&#10;03:55 Major potential adoption with millions of users&#10;04:05 Grit game deep dive&#10;04:25 Epic Games - Free To Play&#10;05:11 Adoption Curve on Epic Games&#10;05:47 Grit is equal to PUBG on blockchain&#10;07:37 PUBG: Battlegrounds demo&#10;09:07 Epic games store revenue&#10;09:32 192mill users&#10;10:14 Associated with other major projects&#10;10:34 Launching of Gala film platform&#10;11:00 Entertainment hub of WEB3&#10;11:35 Power of play ownership&#10;12:00 When to buy Gala (GALA) coin&#10;13:06 Gaming watch list&#10;14:16 Look for platforms that have accelerated in the bear market&#10;14:24 Illuvium (ILV) just raised $72mill in successful NFT sale&#10;&#10;&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#13;&#10;&#13;&#10; *BEWARE OF SCAMMERS IN OUR COMMENTS AND COMMUNITY CHANNELS*&#13;&#10;&#13;&#10;Disclaimer:&#13;&#10;Crypto Banter is a social podcast for entertainment purposes only.&#13;&#10;All opinions expressed by the hosts, guests and callers should not be construed as financial advice. Views expressed by guests and hosts do not reflect the views of the station. Listeners are encouraged to do their own research.&#13;&#10;&#13;&#10;#EpicGames #PlayToEarn #CryptoGaming&#13;&#10;&#13;&#10;- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -&#10;&#10;Related Questions &#38; Searches:&#10;What is Epic Game Mystery Game?&#10;Epic Game Mystery Game&#10;Epic Game Mystery Game 2022&#10;Epic Games Store&#10;Epic Games&#10;https://www.youtube.com/watch?v=Ze96cw-sM0o&#10;Epic Mystery Game Clues"
+    channeltitle "Crypto Banter"
+    channelid "UCN9Nj4tjXbVTLYWN0EKly_Q"
+    favcount 0
+    viewcount 8462
+    likecount 604
+    commentcount 15
+    duration "PT15M14S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 320
-    label "Q1L8IFbYbek"
-    step 0
-    date "2022-07-02T07:33:37Z"
-    title "5 TOP FREE Play to Earn Crypto NFT Games with ZERO Investment"
-    description "Here's part 3 of The Best NFT Games that require ZERO investment to begin with and which can get you profitable.&#10;&#10;It&#8217;s time once again, to tackle five more NFT games that require no real investment. We&#8217;ve said it a lot of times, more and more NFT games will be popping up in the future. A lot of these will be free to play and play to earn. That&#8217;s the beauty of competition because it breeds more and more variety. That being said, let&#8217;s tackle the Game Mag&#8217;s five more NFT games that you can play with no investment needed. &#10;&#10;#nftgames #playtoearn #cryptogaming"
-    channeltitle "The Game Mag"
-    channelid "UCN93nZUvxIIDaVUbKlGcLvw"
-    favcount 0
-    viewcount 5388
-    likecount 67
-    commentcount 19
-    duration "PT7M43S"
-    indegree 4
-    cluster 7
-  ]
-  node
-  [
-    id 321
+    id 252
+    name "321"
     label "x2p7MsZBbWI"
     step 0
     date "2022-03-20T17:51:31Z"
@@ -4573,11 +7076,21 @@ graph
     commentcount 48
     duration "PT13M55S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 322
+    id 253
+    name "322"
     label "lLhN0w3auuE"
     step 0
     date "2022-06-25T03:00:31Z"
@@ -4591,29 +7104,49 @@ graph
     commentcount 338
     duration "PT12M12S"
     indegree 7
-    cluster 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 325
-    label "1pDNDf43V5M"
+    id 254
+    name "323"
+    label "bhJvRvS5AhI"
     step 0
-    date "2021-11-14T23:43:47Z"
-    title ""
-    description "Bobicraft &#191;Qu&#233; pasar&#237;a si Minecraft fuese un NFT? El problema con los NFT&#10;&#10;0:00 Inicio&#10;01:20 &#191;Qu&#233; es un NFT? &#10;05:05 Minecraft como un &#34;NTF&#34; &#191;C&#243;mo ser&#237;a?&#10;09:17 El GRAN PROBLEMA con los NFTs&#10;&#10;&#128995; DIRECTOS TWITCH:  https://www.twitch.tv/bobicraftmc&#10;&#128309; TWITTER: @BobicraftMC https://twitter.com/BobicraftMC&#10;&#128993; DISCORD: https://discord.gg/zaBeMcd&#10;&#128994; CANAL SECUNDARIO: https://www.youtube.com/channel/UCADRd3q-WK5Bgzs-DxIXKlA&#10;&#128996; FACEBOOK: https://www.facebook.com/gaming/BobicraftReal&#10;&#9899; TIKTOK: https://www.tiktok.com/@bobicraftmc?lang=es&#10;&#128992; INSTAGRAM: https://www.instagram.com/bobicraftmc/&#10;&#128308; SERVIDOR: mc.bobicraft.net&#10;&#128231; NEGOCIOS: bobicraft@mcr-agency.com &#10;&#128231; CORREO PARA FANS: contactobobicraft@gmail.com&#10;&#10;- Cr&#233;ditos musicales, Qumu: https://www.youtube.com/channel/UC0QbcOX2gI5zruEvpSmnf6Q&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#128142;UNETE A MIEMBROS: https://www.youtube.com/channel/UCMQOumrt3C7fFRT8oBc436Q/join&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#9679; 10 Cosas de Minecraft https://www.youtube.com/watch?v=Uu6SgdQTb4Y&#38;list=PL9PItSqgQmU1eL6ENZI-Dfj3v4ILLn-Qp&#10;&#9679; &#191;Qu&#233; Pasar&#237;a si...? https://www.youtube.com/watch?v=LiTB4S_GGk4&#38;list=PL9PItSqgQmU27SrkeYEKRX9AfVpM-uObT&#10;&#9679;  100/200 JUGADORES: https://www.youtube.com/playlist?list=PL9PItSqgQmU0pHkdQ9HlOaakAl6YfKY4t&#10;&#9679; Momentos Incre&#237;bles Captados en Minecraft: https://www.youtube.com/watch?v=q7GmxaD_r7A&#38;list=PL9PItSqgQmU1v-fy5RsrNEsFDso-fhHYn&#10;&#9679; Mundos Survival &#201;PICOS 100% Legal: https://www.youtube.com/watch?v=Itwh5d8IhKU&#38;list=PL9PItSqgQmU2oUWPDUl-Diajb957bcldV&#10;&#9679; Documentales de Minecraft: https://www.youtube.com/watch?v=NWSEANzXqlY&#38;list=PL9PItSqgQmU3-sGBgQCtl0NpW87lBLP6O&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#128065;&#65039;Miembros OMNIPOTENTE:&#10;CristopherGhost19,  Hazell45, Carlos de la cruz, Rosi Fern&#225;ndez Raffaelli&#10;&#10;&#128165;Miembros LEGENDARIO:&#10;POKE! Saiyan, Santiago Rescrepo, TANNY77, Elma Ang, Gabriel Barraza, Pana_64, POU OFICIAL, Sebastian mederos&#10;&#10;&#128171;Miembros C&#211;SMICOS:&#10;Alex Beni, vLegend, Yoaan, Patricia Gonz&#225;lez, Angustin Gustavo, Vicente Cifuentes, ItzGato YT, Antu Minecraft, Lanxpro1q1, UNIVERSO DRAGON, Caamii Igna, Honton129, Tremex, Arcangel EEUU, Arcangel 00, MrsPupi, Ronald Barragan, Araceli Rios&#10;#Minecraft #videogames #Bobicraft"
-    channeltitle "Bobicraft"
-    channelid "UCMQOumrt3C7fFRT8oBc436Q"
+    date "2022-04-21T19:12:32Z"
+    title "HOW TO MAKE YOUR OWN NFT! (How to mint  setup your NFT project) Solana NFT Guide!"
+    description "I had 24 hours to create an NFT project.. here's what happened!&#10;So, this is a complete meme NFT project, that I built in just 24 hours! Thought it would be a fun idea for the community to just create an NFT around me, and moments around my streams! We have a few special guests in this collection as well.&#10;&#10;&#128178; Save 10% on ALL Trading Fees! (FTX Desktop) &#10145;&#65039; https://bit.ly/FTXJerzy&#10;&#128178; Earn free crypto on every trade over $10 with FTX App Use Code (JerzyFtx) https://link.blockfolio.com/9dzp/p382sr73&#10;&#10148; Get Early access to my crypto calls! - https://patreon.com/cryptojerzy&#10;&#10148; My Socials - https://linktr.ee/JerzyYT&#10;&#10148; Public Discord (no alpha) - https://discord.gg/nFgFpNa9Qm&#10;&#10;IS THIS THE NEXT 100X NFT TO BUY NOW?! (How I created an NFT Project)&#10;&#10;Project Links: (not financial advice..)&#10;Discord - https://discord.gg/YMbfUBEagy&#10;Twitter - https://twitter.com/JerzyStreamNFT&#10;Magic Eden Soon - &#10;&#10;DISCLAIMER:&#10;This video is for educational &#38; entertainment purposes only. Please do your own research before making any decisions with your money.  I will not be held liable for any losses or gains you may experience.  I am not your financial or investment advisor. This content is for educational and entertainment purposes ONLY. Please do your own research before making any financial decisions in your life!&#10;&#10;Business Contact - jerzynftpromo@gmail.com&#10;&#10;Tags:&#10;passive income nfts, staking nfts, passive income solana nfts, staking nfts, nft staking, solana staking nfts, solana passive income nfts, earning $1000 a week from nfts, 4 nfts to buy soon, nfts to buy now, nfts to buy soon, most hype nfts, upcoming solana nft projects, project tenjin, NFTs to buy now, 1000 Solana challenge, 100 Solana challenge, 1000 sol, upcoming nft projects, solana nfts 100x, upcoming solana nft projects, 100 SOL, 100 Solana challenge, solana challenge, swing trading, flipping nfts, nft flipping, flipping Solana nfts, Crypto, Finance, NFT, Solana, Bitcoin, Crypto market, BAYC NFT, Solana NFT, ethereum, magic eden, new nft, solana nfts, new nft, early nft project, baby ape social club nft, bored ape yacht club, 100x potential, 100x nft, early nft projects, new nft projects, vvs, vvs finance, crypto staking, jerzy, jerzy crypto, jerzy nft, crypto news, how to find nfts, find nfts early, cronos blockchain, crpyto.com, phantom wallet, metamask, ledger, nft 100x, 100x nfts, 100x altcoins, altcoin profits, nft profits, metaverse, solana metaverse, solana portals, metaverse Ethereum, max Maher, Alex Becker, alex becker's channel, nft flipping techniques, 10 to 100 sol, 10 to 100 sol challenge, 100x nft, 10x nfts, solana nfts new, what is nft, jerzy nft, live trading nfts, bored ape yacht club, nfts to buy, nfts to buy now, top new nfts, 100 solana challenge, solana challenge, 1000 solana challenge, 100 to 1000 solana, nfts to buy now, live trading solana nfts, trading nfts, live trading nfts, flipping nfts techniques, astrals nft, tombstoned high society nft, new upcoming nfts, early nfts, nfts to buy now, early nft projects to buy now, I had 24 hours to create an NFT project.. here's what happened!,"
+    channeltitle "Jerzy NFT"
+    channelid "UCnNVV4-VmwMJ4rgPLYIGKuw"
     favcount 0
-    viewcount 1216368
-    likecount 68006
-    commentcount 2671
-    duration "PT13M21S"
-    indegree 5
-    cluster 9
+    viewcount 5490
+    likecount 242
+    commentcount 177
+    duration "PT8M3S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 326
+    id 255
+    name "326"
     label "B2YtqfDNnw8"
     step 0
     date "2022-02-19T16:00:10Z"
@@ -4627,11 +7160,21 @@ graph
     commentcount 196
     duration "PT10M3S"
     indegree 18
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 327
+    id 256
+    name "327"
     label "ZqtKwxE47XU"
     step 0
     date "2021-11-10T15:45:51Z"
@@ -4645,29 +7188,49 @@ graph
     commentcount 635
     duration "PT12M10S"
     indegree 7
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 329
-    label "BkfP_BdyI9I"
+    id 257
+    name "328"
+    label "Wlj61MkW4Q8"
     step 0
-    date "2022-05-20T19:33:13Z"
-    title "BORED APE SOLD FOR $200!! Starbucks Enters NFT| NFT Updates May 2022"
-    description "Seems like Bored Ape Yacht Club likes to stay in the headlines. Another crazy news comes from BAYC that one of their NFTs got sold for a mere $200! People have mixed opinions. Some think that this is just a stupid mistake while some believe it was done intentionally for tax evasion. Looks like BAYC is withdrawing all shares of its problems at once. Speaking of shares, Famous Music duo The Chainsmokers, announced that they will give a percentage of their album's revenue to its fans This is one of the best strategies to enter WEB3. Meanwhile, Chainsmoker is not the only new player entering the WEB3 through NFTs, Coffee giant Starbucks has officially announced that they will be releasing their NFT collection later this year.&#10;&#10;If you found this video informative, hit that like button. Comment down what you think about the events discussed in this video. Consider subscribing to the channel for amazing videos like this. See you at the next one.&#10;&#10;Timestamps&#10;00:00- Intro&#10;00:15- $200 BAYC&#10;02:13- Starbucks NFT&#10;04:15- Chainsmokers NFT Benefits&#10;06:27- Closing note and Outro"
-    channeltitle "itsTHOR"
-    channelid "UCeRP-sMZY6FJNmBGQcbEkDA"
+    date "2022-07-01T15:24:31Z"
+    title "Tempo DESTRUY Explicada)"
+    description "TELEGRAM: https://t.me/frequenciaurbana &#10;Facebook: https://www.facebook.com/FrequenciaUrbanaOficial &#10;Facebook Videos: https://www.facebook.com/FrequenciaUrbanaVideos&#10; Instagram: https://www.instagram.com/frequenciaurbana/ &#10;Twitter: https://twitter.com/frequenciaurban &#10;YouTube: https://www.youtube.com/channel/UCNNLBZDFeyvlM4NGNtLJkqQ &#10;Spotify: https://open.spotify.com/show/1pGnSXGqy2dHGGTEtpZpmP?si=c4fa043baee14496&#10; Frequencia Urbana, LLC &#169;&#65039;2022 ___________________________________________"
+    channeltitle "FREQUENCIA URBANA"
+    channelid "UCNNLBZDFeyvlM4NGNtLJkqQ"
     favcount 0
-    viewcount 729
-    likecount 185
-    commentcount 127
-    duration "PT6M33S"
-    indegree 1
-    cluster 2
+    viewcount 16674
+    likecount 561
+    commentcount 168
+    duration "PT10M16S"
+    indegree 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 330
+    id 258
+    name "330"
     label "u0sd2WYC69g"
     step 0
     date "2022-03-03T04:01:15Z"
@@ -4681,11 +7244,21 @@ graph
     commentcount 86
     duration "PT12M32S"
     indegree 4
-    cluster 10
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 331
+    id 259
+    name "331"
     label "QYJEKq1pKhA"
     step 0
     date "2022-02-03T09:51:20Z"
@@ -4699,29 +7272,49 @@ graph
     commentcount 6938
     duration "PT52S"
     indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 11
+  ]
+  node
+  [
+    id 260
+    name "332"
+    label "2wyCVkj1LTY"
+    step 0
+    date "2021-11-05T21:16:44Z"
+    title "Shiba Inu Dog Coin Themed NFT Marketplace!"
+    description "Shiba Inu Dog Coin Themed NFT Marketplace! Dogecoin DOGE and Shiba Inu SHIB continue to make headlines, and SHIB launched their own Shiboshis NFTs but now Dogs of Elon wants to be the next Shiba themed NFT and more! Subscribe to VoskCoin - http://voskco.in/Sub&#10;&#10;Dogs Of Elon NFTs and NFT marketplace DOE crypto! https://voskco.in/doe&#10;Best mining rig you can buy review - https://www.youtube.com/watch?v=9mYWcUJHUYU&#10;Compass has miners in stock! https://voskco.in/compass&#10;The Bobcat Miner 300 is the best Helium mining rig - https://voskco.in/HNTb&#10;&#10;Opensea is the first and biggest NFT marketplace but Coinbase and FTX either already have or are launching NFT marketplaces however these are all centralized and Dogs of Elon is launching their own decentralized NFT marketplace along with the Dogs of Elon DOE crypto token AND their own Dogs Of Elon NFT pfp collection. You can still mint these NFTs right now!&#10;&#10;Links!&#10;Coinbase NFT marketplace sign-up - https://voskco.in/cbnft&#10;FTX NFTs - https://voskco.in/ftx&#10;FTX US NFTs! https://voskco.in/FTXus&#10;Phantom Solana NFT wallet - https://voskco.in/phantom&#10;My new NFTs public address and account on opensea - https://voskco.in/oNFTS&#10;&#10;&#9200; Timestamps &#9200;&#10;00:00 Are NFTs still worth buying? &#10;02:07 A Unique NFT Avatar Marketplace &#10;02:38 NFTS on OpenSea &#38; Zapper.fi Quests&#10;03:49 How to mint an NFT&#10;05:17 Dogs of Elon on OpenSea&#10;06:10 Dogs of Elon&#8217;s Tokenomics &#10;07:35 Dogs of Elon&#8217;s Twitter &#10;08:49 Dogs of Elon on Etherscan&#10;10:26 Special $DOE Token Pre-Sale &#10;11:11 Dogs of Elon&#8217;s Roadmap and DOE review&#10;&#10;VoskCoinTalk the VoskCoin forum - http://voskco.in/forum&#10;VoskCoin Facebook - https://www.facebook.com/VoskCoin/&#10;VoskCoin Reddit - https://www.reddit.com/r/voskcoin/&#10;VoskCoin Discord Server Invite - http://voskco.in/discord&#10;VoskCoin Twitter - https://twitter.com/VoskCoin&#10;VoskCoin Instagram - https://www.instagram.com/voskcoin/&#10;&#10;VoskCoin is for entertainment purposes only and is never intended to be financial investment advice. VoskCoin owns or has owned cryptocurrency and associated hardware. VoskCoin may receive donations or sponsorships in association with certain content creation. VoskCoin may receive compensation when affiliate/referral links are used. VoskCoin is home of the Doge Dad, VoskCoin is not your Dad, and thus VoskCoin is never liable for any decisions you make.&#10;#NFTs #Ethereum #Solana #BinanceSmartChain #SOL #BSC #nfts #NFT #opensea #cryptopunks #boredapeyachtclub #shibainu #shib #doe #dogsofelon #bnb #VoskCoin"
+    channeltitle "VoskCoin"
+    channelid "UCT44w6854K62cSiwA1aiXfw"
+    favcount 0
+    viewcount 12355
+    likecount 277
+    commentcount 95
+    duration "PT14M56S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 333
-    label "IEOsoUiT_30"
-    step 0
-    date "2022-02-06T01:00:02Z"
-    title ""
-    description "&#51060;&#48264; &#50689;&#49345;&#51008; &#52376;&#51020; NFT &#44536;&#47548;&#51012; &#44536;&#47532;&#45716; &#48169;&#48277;&#48512;&#53552; &#47004;&#45924;&#54616;&#44256; &#44256;&#50976;&#54620; &#51060;&#48120;&#51648; &#51312;&#54633; &#51088;&#46041; &#49373;&#49457;, &#51060;&#48120;&#51648;&#47484; NFT&#47196; &#45824;&#47049; &#51088;&#46041; &#48124;&#54021;&#54616;&#44256; &#54032;&#47588;&#54616;&#45716; &#48169;&#48277;, NFT&#50640; &#44032;&#52824;&#47484; &#48512;&#50668;&#54616;&#45716; &#48169;&#48277;&#44620;&#51648; &#51228;&#51089;/&#48124;&#54021;/&#54032;&#47588; &#46321; NFT&#51032; &#47784;&#46304; &#44163;&#51012; &#45796; &#48176;&#50881;&#45768;&#45796;. &#47784;&#46304; &#44284;&#51221;&#50640; &#48708;&#50857;&#51060; &#51204;&#54784; &#54596;&#50836; &#50630;&#49845;&#45768;&#45796;. &#51649;&#51217; &#50668;&#47084;&#48516;&#47564;&#51032; NFT &#52972;&#47113;&#49496;&#51012; &#47924;&#47308;&#47196; &#47564;&#46308;&#50612;&#48372;&#49464;&#50836;!&#10;&#10;*&#44396;&#47588; &#51452;&#51032;&#10;Jolappy Bird NFT &#44288;&#47144; &#44277;&#51648;&#49324;&#54637; = JoCoding Club&#51004;&#47196; &#48320;&#44221;&#10;&#9654;https://www.youtube.com/post/UgkxN2y5WLj-_Oj2jiN7OfJ3-hDnXdEAIZxv&#10;&#9654;https://opensea.io/collection/jocoding-club&#10;&#10;&#51312;&#53076;&#46377; &#47716;&#48260;&#49901; &#44032;&#51077;(&#52572;&#49888; &#45824;&#47049; &#48124;&#54021; &#48169;&#48277; &#46321; &#47716;&#48260;&#49901; &#51204;&#50857; &#44053;&#51032; &#50689;&#49345; &#47924;&#51228;&#54620; &#49688;&#44053;)&#10;&#9654;https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg/join&#10;&#10;&#51312;&#53076;&#46377; &#46356;&#49828;&#53076;&#46300;&#10;&#9654;https://discord.gg/zny87VeSaX&#10;&#10;&#51312;&#53076;&#46377; &#52292;&#45328; &#44053;&#49324; &#51648;&#50896;&#10;&#9654;https://forms.gle/LsbgU8xFL9gtzRSt6&#10;&#10;&#49828;&#47560;&#53944;&#52968;&#53944;&#47001; &#51060;&#50857;&#54620; &#44053;&#51032; &#49548;&#44060;: https://youtu.be/6DcTUq8dlJc&#10;&#10;Visual Studio Code &#49444;&#52824;&#54616;&#44592;, &#44032;&#51060;&#46300; &#50689;&#49345;&#10;https://code.visualstudio.com/&#10;https://youtu.be/kRB3DTaJifI&#10;&#10;Nodejs &#49444;&#52824;&#54616;&#44592;&#10;https://nodejs.org/ko/&#10;&#10;Hashlips art engine &#51060;&#48120;&#51648; &#51312;&#54633; &#51088;&#46041; &#49373;&#49457;&#10;https://github.com/HashLips/hashlips_art_engine&#10;&#10;Opensea&#10;https://opensea.io/&#10;&#10;&#50724;&#54536;&#50472; &#48268;&#53356; &#51088;&#46041; &#48124;&#54021;/&#54032;&#47588; (&#50668;&#44592;&#49436; upload_captcha.py &#49324;&#50857;)&#10;https://github.com/infotrex/bulk-upload-to-opensea&#10;*&#52572;&#44540; recaptcha &#50629;&#45936;&#51060;&#53944;&#47196; &#48268;&#53356; &#50629;&#47196;&#46300;&#44032; &#44592;&#51316; &#53076;&#46300;&#47196; &#47561;&#54804;&#45716;&#45936; upload_captcha.py&#47484; &#49324;&#50857;&#54644;&#51452;&#49464;&#50836;!&#10;&#10;&#54260;&#47532;&#44260; NFT &#44396;&#51077; &#48169;&#48277;&#10;1. &#47700;&#53440;&#47560;&#49828;&#53356; &#51060;&#50857; &#48169;&#48277;: https://youtu.be/p-JyKDm5RuE&#10;2. Quick Swap &#51060;&#50857; &#48169;&#48277; : https://youtu.be/BJhiQIEnW-o&#10;&#10;&#47785;&#52264;&#10;00:00 &#48120;&#47532;&#48372;&#44592;&#10;00:18 &#50836;&#51608; &#45824;&#49464; NFT&#10;00:49 NFT&#46976;?&#10;01:52 NFT&#44032; &#53945;&#48324;&#54620; &#51060;&#50976;&#10;02:32 NFT&#47484; &#49324;&#45716; &#51060;&#50976;&#10;03:45 Bored Ape Yacht Club &#49324;&#47168;&#10;04:29 &#51060;&#48264; &#50689;&#49345;&#50640;&#49436; &#47564;&#46308; NFT &#49548;&#44060;&#10;04:53 NFT &#51228;&#51089;&#51032; &#55120;&#47492;&#10;06:56 Figma&#47484; &#51060;&#50857;&#54620; &#54028;&#53944; &#51060;&#48120;&#51648; &#51228;&#51089;&#10;15:15 hashlips art engine&#51012; &#54876;&#50857;&#54620; &#51060;&#48120;&#51648; &#51312;&#54633; &#51088;&#46041; &#49373;&#49457;&#54616;&#45716; &#48169;&#48277;&#10;23:58 Opensea NFT &#48124;&#54021; &#44284;&#51221; &#48143; &#48660;&#47197;&#52404;&#51064;&#48324; &#53945;&#51669; &#51221;&#47532;&#10;26:28 &#47700;&#53440;&#47560;&#49828;&#53356; &#51648;&#44049; &#49444;&#52824;&#10;28:00 Opensea &#51217;&#49549; &#48143; &#49464;&#54021;&#10;28:45 Opensea &#52972;&#47113;&#49496; &#49464;&#54021;&#10;31:25 &#51649;&#51217; &#54616;&#45208;&#50473; &#48124;&#54021;&#54616;&#44256; &#54032;&#47588;&#54616;&#45716; &#48169;&#48277;&#10;35:20 &#50724;&#54536;&#50472; &#48268;&#53356; &#51088;&#46041; &#48124;&#54021;/&#54032;&#47588;&#54616;&#45716; &#48169;&#48277;&#10;41:24 NFT&#51032; &#44032;&#52824;&#47484; &#45458;&#51060;&#45716; &#48169;&#48277; &#48143; &#49324;&#47168;&#10;42:27 Jolappy Bird NFT &#54848;&#45908; &#54812;&#53469;&#10;45:26 Jolappy Bird NFT &#44396;&#51077; &#48169;&#48277; (&#52852;&#46300;)&#10;46:52 Jolappy Bird NFT &#44396;&#51077; &#48169;&#48277; (&#54260;&#47532;&#44260; &#51060;&#45908;&#47532;&#50880;)&#10;48:25 NFT &#51064;&#51613; &#48143; VIP &#49849;&#44553; &#48169;&#48277;&#10;&#10;#NFT #&#48660;&#47197;&#52404;&#51064; #Opensea"
-    channeltitle "&#51312;&#53076;&#46377; JoCoding"
-    channelid "UCQNE2JmbasNYbjGAcuBiRRg"
-    favcount 0
-    viewcount 671409
-    likecount 16727
-    commentcount 1752
-    duration "PT49M53S"
-    indegree 8
-    cluster 12
-  ]
-  node
-  [
-    id 334
+    id 261
+    name "334"
     label "Uf3xMlPWfvA"
     step 0
     date "2022-03-21T03:19:16Z"
@@ -4735,11 +7328,21 @@ graph
     commentcount 67
     duration "PT3M34S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 335
+    id 262
+    name "335"
     label "rK7lnOz2clI"
     step 0
     date "2022-05-23T08:00:29Z"
@@ -4753,11 +7356,21 @@ graph
     commentcount 350
     duration "PT16M39S"
     indegree 9
-    cluster 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 336
+    id 263
+    name "336"
     label "oIPp1LyWtCg"
     step 0
     date "2022-05-06T23:31:11Z"
@@ -4771,11 +7384,21 @@ graph
     commentcount 36
     duration "PT12M26S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 337
+    id 264
+    name "337"
     label "kpyQw7ZLzJg"
     step 0
     date "2022-07-03T12:28:22Z"
@@ -4789,11 +7412,21 @@ graph
     commentcount 63
     duration "PT3M46S"
     indegree 1
-    cluster 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 338
+    id 265
+    name "338"
     label "YqUJbKCxLiA"
     step 0
     date "2022-01-29T21:43:18Z"
@@ -4807,29 +7440,49 @@ graph
     commentcount 913
     duration "PT12M38S"
     indegree 9
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 340
-    label "yfLp2592EwU"
+    id 266
+    name "339"
+    label "RhJ7_dcwDpM"
     step 0
-    date "2022-07-12T00:05:52Z"
-    title "These NFTs Are A Dumpster Fire"
-    description "Every Monday I am joined by top NFT gamers to discuss all things NFTs,  gaming, &#38; the cryptocurrency metaverse!&#13;&#10;&#13;&#10;FOLLOW THESE AWESOME CREATORS:&#13;&#10;&#13;&#10;Chris | Founder of NFT Plazas&#13;&#10;https://linktr.ee/NFTPlazas&#13;&#10;&#13;&#10;NFTYQ | NFT Live &#38; LadzCity&#13;&#10;https://twitter.com/nftyq&#13;&#10;https://twitter.com/nftlive&#13;&#10;&#13;&#10;Hustle | Host of &#8220;In The Game&#8221; on Crypto Banter&#13;&#10;https://www.youtube.com/c/CryptoBanterGroup&#13;&#10;https://twitter.com/HustlepediaYT&#13;&#10;&#13;&#10;'Stache&#13;&#10;https://twitter.com/cryptostache&#13;&#10;https://twitch.tv/crypto_stache&#13;&#10;&#13;&#10;#cryptogames #metaverse #nft #nftgames &#13;&#10;&#13;&#10;&#13;&#10;Join my community of &#34;Stachers&#34; to learn more about NFTs &#38; Gaming.&#13;&#10;https://discord.gg/dyQbnKK&#13;&#10;&#13;&#10;Follow me on Social&#13;&#10;https://twitter.com/cryptostache&#13;&#10;https://tiktok.com/@cryptostache&#13;&#10;https://instagram.com/cryptostache&#13;&#10;https://twitch.tv/Crypto_Stache&#13;&#10;https://CryptoStache.Theta.tv&#13;&#10;https://www.cryptostache.com&#13;&#10;&#13;&#10;&#13;&#10;Best Crypto Resources&#13;&#10;BEST EXCHANGE - Binance: https://www.cryptostache.com/binance&#13;&#10;&#13;&#10;&#13;&#10;All information found here, including any ideas, opinions, views, predictions, forecasts, commentaries, suggestions, or coin picks, expressed or implied herein, are for informational or educational purposes only and should not be construed as personal investment advice. Always do your own research!!!"
-    channeltitle "CryptoStache"
-    channelid "UCL4knTqpF5KTcJrAdethgNQ"
+    date "2022-05-14T10:00:11Z"
+    title ""
+    description "&#12507;&#12522;&#12456;&#12514;&#12531;&#12364;&#12415;&#12435;&#12394;&#12364;&#27671;&#12395;&#12394;&#12427;&#30097;&#21839;&#12395;&#20778;&#12375;&#12367;&#12289;&#26178;&#12395;&#21427;&#12375;&#12367;&#22238;&#31572;&#12377;&#12427;&#12467;&#12540;&#12490;&#12540;&#65281;&#10;&#20170;&#22238;&#12399;&#19968;&#12388;&#12398;&#12486;&#12540;&#12510;&#12395;&#12388;&#12356;&#12390;&#22528;&#27743;&#12373;&#12435;&#12395;&#35486;&#12387;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12377;&#12290;&#10;&#12486;&#12540;&#12510;&#12399;&#12300;NFT&#12301;&#26368;&#36817;&#35441;&#38988;&#12384;&#12369;&#12393;&#12289;&#32080;&#23616;NFT&#12387;&#12390;&#20309;&#65311;&#20786;&#12363;&#12427;&#12398;&#65311;&#10;&#10;YouTube&#12395;&#12399;&#12394;&#12356;&#24773;&#22577;&#12418;&#30427;&#12426;&#27810;&#23665;&#65281;&#12507;&#12522;&#12456;&#12514;&#12531;&#20844;&#24335;&#12513;&#12523;&#12510;&#12460;&#37197;&#20449;&#20013;&#10;&#30331;&#37682;&#12399;&#12371;&#12385;&#12425;&#8594; https://horiemon.com/magazine/&#10;&#10;&#27096;&#12293;&#12394;&#12501;&#12451;&#12540;&#12523;&#12489;&#12391;&#27963;&#36493;&#12377;&#12427;&#12503;&#12525;&#12501;&#12455;&#12483;&#12471;&#12519;&#12490;&#12523;&#36948;&#12398;&#38609;&#35527;&#12364;&#27005;&#12375;&#12417;&#12427;&#12300;ZATSUDAN&#12301;&#10;&#28961;&#26009;&#12488;&#12521;&#12452;&#12450;&#12523;&#20013;&#65281;&#8594;https://zatsudan.com/&#10;&#10;&#22528;&#27743;&#12395;&#12424;&#12427;&#12458;&#12531;&#12521;&#12452;&#12531;&#12469;&#12525;&#12531;&#12289;&#36890;&#31216;HIU&#65288;&#22528;&#27743;&#36020;&#25991;&#12452;&#12494;&#12505;&#12540;&#12471;&#12519;&#12531;&#22823;&#23398;&#26657;&#65289;&#12398;&#12513;&#12531;&#12496;&#12540;&#12418;&#21215;&#38598;&#20013;&#12391;&#12377;&#65281;&#10;&#35443;&#32048;&#12399;&#12371;&#12385;&#12425;&#8594;https://lounge.dmm.com/detail/87/&#10;&#10;&#12499;&#12472;&#12493;&#12473;&#12472;&#12515;&#12483;&#12472;&#20840;&#32232;&#65286;HIU&#12452;&#12505;&#12531;&#12488;&#12391;&#12398;&#23550;&#35527;&#12399;OPENREC&#20250;&#21729;&#38480;&#23450;&#12391;&#12362;&#35430;&#12375;&#35222;&#32884;&#21487;&#33021;&#65281;&#10;&#35443;&#32048;&#12399;&#12371;&#12385;&#12425;&#8594;https://www.openrec.tv/user/horiemon_&#10;&#10;&#12502;&#12525;&#12510;&#12460;&#12391;&#12418;&#12507;&#12522;&#12456;&#12514;&#12531;&#12398;&#12513;&#12523;&#12510;&#12460;&#12364;&#36092;&#35501;&#21487;&#33021;&#12391;&#12377;&#65281;&#10;&#8594; https://ch.nicovideo.jp/horiemon&#10;&#10;----------&#12362;&#12377;&#12377;&#12417;&#26360;&#31821;-------------&#10;&#12304;NEW&#12305;&#26368;&#22823;&#21270;&#12398;&#36229;&#32722;&#24931; &#12300;&#22528;&#27743;&#24335;&#12301;&#23436;&#20840;&#28961;&#27424;&#12398;&#20181;&#20107;&#34899;&#65288;&#24499;&#38291;&#26360;&#24215;&#65289;&#10;&#9654;https://amzn.to/3Kcy0Ew&#10;&#30772;&#25106;&#12398;&#12473;&#12473;&#12513;&#65288;&#23455;&#21209;&#25945;&#32946;&#20986;&#29256;&#65289;&#10;&#9654;https://amzn.to/3Ez0ipb&#10;&#23546;&#30000;&#26377;&#24076;&#12302;&#23550;&#23769;&#21147;&#12303;&#65288;&#12463;&#12525;&#12473;&#12513;&#12487;&#12451;&#12450;&#12539;&#12497;&#12502;&#12522;&#12483;&#12471;&#12531;&#12464;&#65289;&#10;&#9654;https://amzn.to/3kUmrEi&#10;&#12476;&#12525;&#8213;&#8213;&#8213;&#12394;&#12395;&#12418;&#12394;&#12356;&#33258;&#20998;&#12395;&#23567;&#12373;&#12394;&#12452;&#12481;&#12434;&#36275;&#12375;&#12390;&#12356;&#12367;&#65288;&#12480;&#12452;&#12516;&#12514;&#12531;&#12489;&#31038;&#65289;&#10;&#9654; https://amzn.to/2VHSx9J&#10;&#22810;&#21205;&#21147; (NewsPicks Book) (&#24187;&#20908;&#33294;&#25991;&#24235;)&#10;&#9654; https://amzn.to/2HNvlSv&#10;&#10;&#22528;&#27743;&#36020;&#25991;&#10;Twitter : https://twitter.com/takapon_jp&#10;Instagram : https://www.instagram.com/takapon_jp/&#10;TikTok : https://www.tiktok.com/@takafumi_horie&#10;&#10;&#23546;&#30000;&#26377;&#24076;&#10;Twitter : https://twitter.com/terada_yuki&#10;Instagram : https://www.instagram.com/terada_yuki/&#10;&#12458;&#12501;&#12451;&#12471;&#12515;&#12523;HP&#65306;http://yukiterada.com/&#10;&#10;&#36939;&#21942;&#65306;SNS media&#38;consulting &#26666;&#24335;&#20250;&#31038;&#10;https://horiemon.com/company/&#10;&#32232;&#38598;&#65306;&#12456;&#12452;&#12472;&#12513;&#12487;&#12451;&#12450;&#26666;&#24335;&#20250;&#31038;&#10;http://www.agemedia.jp/"
+    channeltitle "&#22528;&#27743;&#36020;&#25991; &#12507;&#12522;&#12456;&#12514;&#12531;"
+    channelid "UCXjTiSGclQLVVU83GVrRM4w"
     favcount 0
-    viewcount 729
-    likecount 60
-    commentcount 6
-    duration "PT58M15S"
-    indegree 0
-    cluster 4
+    viewcount 378148
+    likecount 5151
+    commentcount 220
+    duration "PT20M45S"
+    indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 341
+    id 267
+    name "341"
     label "Zi0Wymc5o3U"
     step 0
     date "2022-07-05T20:26:46Z"
@@ -4843,11 +7496,21 @@ graph
     commentcount 113
     duration "PT10M24S"
     indegree 0
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 342
+    id 268
+    name "342"
     label "yHvqlNgKiRA"
     step 0
     date "2022-05-06T00:31:10Z"
@@ -4861,47 +7524,77 @@ graph
     commentcount 1053
     duration "PT4M24S"
     indegree 26
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 345
-    label "oWGDZVlNPUg"
+    id 269
+    name "343"
+    label "WbvluNl4ahY"
     step 0
-    date "2022-07-09T09:52:56Z"
-    title "PIKASTER. RECLAMA TUS 5 NFTS GRATIS Y EMPIEZA A GANAR HASTA 10$ DIARIOS!"
-    description "RECLAMA TUS 5 NFT GRATIS AQUI: https://marketplace.pikaster.com/invitation/index/AR6QT&#10;&#10;P&#225;gina web oficial: pikaster-metaland.com&#10;Papel blanco: https://megaverse-1.gitbook.io/pikaster/&#10;Comunidad oficial de Telegram.: https://t.me/+RVgblCS6KOk3M2I1&#10;Twitter oficial: https://twitter.com/PikasterNFT&#10;Canal oficial de Discord: https://discord.gg/jxsrBzwNPb&#10;&#10;Convi&#233;rtete en miembro de este canal para disfrutar de ventajas:&#10;https://www.youtube.com/channel/UCJ3vkb1rgneT4ySMAMxGElQ/join&#10;&#10;Coleccion NFTs You Are The Hero!&#10;https://neftyblocks.com/c/uaretheherox&#10;&#10;Si tienes dudas relacionadas con este video, en mi discord:&#10;Canal de Gameplays y Bugs:&#10;https://discord.gg/GZd5mwVkpf&#10;&#10;Crypto-Donaciones:&#10;https://1upcoin.com/donate/youtube/gameplaysybugs&#10;&#10;++++++++++++++++++++++++++++++++++++++++++++&#10;Yepa! como va?&#10;Yo soy fdeflash nacido en Barcelona y viviendo en Ibiza. Algunos meses de vida en hive. Informatico. Gamer. Y alguna cosilla mas. Me gusta descubrir, coleccionar y subir de nivel. Me gusta escribir. Y estoy fascinado con todas las novedades que voy descubriendo, coleccionando y subiendo de nivel! &#10;&#10;Me puedes encontrar en Twitter: https://twitter.com/gameplaysybugs&#10;LBRY: https://lbry.tv/$/invite/@gameplaysybugs:a&#10;Espero que estes en Rising Star: https://www.risingstargame.com?referrer=fdeflash&#10;&#10;&#9733;Sigueme en las Redes Sociales&#9733;&#10;Sigueme en YouTube: https://cb.run/bX0L&#10;Sigueme en Twitter: https://cb.run/VgLi&#10;Sigueme en Facebook: https://cb.run/J7YD&#10;Sigueme en Medium: https://cb.run/rkHe&#10;&#10;&#9733;Chrome Apps:&#9733;&#10;Airdrop: https://cb.run/NJTf&#10;Channel App: https://cb.run/piro&#10;Kuailian App: https://cb.run/AD2Q&#10;DeadPool Tab Style: https://cb.run/jsn0&#10;T-series App: https://cb.run/T4w1&#10;&#10;++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++&#10;Descargo de responsabilidad legal independiente:&#10;&#10;Los comunicados de prensa, art&#237;culos patrocinados, banners o cualquier otro tipo de publicidad aqu&#237; promocionada, o en las cuentas de redes sociales de GAMEPLAYS Y BUGS, cumplen s&#243;lo fines informativos, la informaci&#243;n no constituye recomendaci&#243;n o consejo de inversi&#243;n o una oferta para invertir. El canal no es responsable de los productos y/o servicios descritos por los anunciantes.&#10;&#10;Por favor consulte a sus asesores financieros, de inversiones y fiscales profesionales antes de realizar cualquier inversi&#243;n en ofertas de monedas iniciales (&#171;ICO&#187;) u otras propuestas de inversi&#243;n. El contenido del canal GAMEPLAYS Y BUGS no ofrece asesoramiento financiero o de inversi&#243;n y no respalda ni recomienda inversiones en ninguna ICO, DAPP, propuestas de inversi&#243;n o similares anunciada en el canal y en sus redes sociales. El contenido de este sitio se proporciona s&#243;lo con fines informativos y debe complementarse con investigaci&#243;n independiente y verificaci&#243;n de hechos. &#10;&#10;Cabe resaltar que el canal no ofrece ni vende valores, ni solicita inversionistas para ofertas de valores, ni participa en negociaciones sobre inversiones potenciales, ni participa en la venta o compra de valores ni realiza transacciones de valores. Cualquier oferta, venta o compra en ICO o otras propuestas de inversi&#243;n se realiza a discreci&#243;n y se realiza directamente entre los emisores y los posibles inversionistas. Toda la informaci&#243;n proporcionada con respecto a las posibles oportunidades de inversi&#243;n de ICO o plataformas de inversi&#243;n est&#225; preparada exclusivamente por el emisor, y dicho emisor es el &#250;nico responsable de la exactitud de tales declaraciones. &#10;&#10;EL SITIO Y LOS SERVICIOS, Y TODO EL CONTENIDO, LA INFORMACI&#211;N Y LOS MATERIALES PUBLICADOS O PROPORCIONADOS POR O A TRAV&#201;S DEL SITIO O DE LOS SERVICIOS SE PROPORCIONAN &#171;TAL CUAL&#187; Y &#171;SEG&#218;N DISPONIBILIDAD&#187;, SIN GARANT&#205;A DE NING&#218;N TIPO, EXPRESA O IMPL&#205;CITA, INCLUYENDO SIN LIMITACI&#211;N, CUALQUIER GARANT&#205;A DE EXACTITUD O IDONEIDAD PARA UN PROP&#211;SITO EN PARTICULAR. AL UTILIZAR EL SITIO Y / O LOS SERVICIOS, SE COMPROMETE A UTILIZAR SU PROPIO JUICIO, PRECAUCI&#211;N Y SENTIDO COM&#218;N PARA GESTIONAR TODO EL CONTENIDO, LA INFORMACI&#211;N Y LOS MATERIALES QUE OFRECE Y ACEPTA QUE CUALQUIER USO QUE HAGA DE DICHO CONTENIDO, INFORMACI&#211;N O MATERIAL EST&#193; EN SU PROPIO RIESGO."
-    channeltitle "Gameplays y Bugs"
-    channelid "UCJ3vkb1rgneT4ySMAMxGElQ"
+    date "2022-07-04T21:00:12Z"
+    title "NOVO JOGO NFT FORA DO RADAR BAIXO INVESTIMENTO ROI EM MENOS DE 24 HORAS! CORRE!!! - DEEPSPACE"
+    description "LINK: https://app.deepspace.game/&#10;TOKEN: https://poocoin.app/tokens/0xf275e1ac303a4c9d987a2c48b8e555a77fec3f1c&#10;&#10;Neste video eu falo sobre o jogo NFT DeepSpace que est&#225; pagando muitas criptomoedas e tirando o investimento em menos de 24 horas, caso voc&#234; tenha gostado do conteudo me apoie e se inscreva e para n&#227;o perder os proximos videos sobre renda extra e ganhar dinheiro no autom&#225;tico, ative o sino para receber as notifica&#231;&#245;es!&#10;&#10;CONTATO: https://www.instagram.com/shukame/&#10;CANAL DO TELEGRAM: https://t.me/ArthurGarciaRenda&#10;ME ACOMPANHE NA ROXINHA: https://bit.ly/3sZKybp&#10;&#10;&#10;MAIS SOBRE RENDA PASSIVA!&#128071;&#10;&#128073;VIDEO HONEYGAIN: https://bit.ly/3JD7ljP&#10;&#128681;CADASTRO NO HONEYGAIN: https://r.honeygain.me/VLOGSB5743&#10;&#10;&#128073;CRIAR CONTA NA BINANCE: https://bit.ly/3LCrl7b&#10;&#10;&#128073;VIDEO PEER2PROFIT: https://bit.ly/3NoWDzq&#10;&#128681;CADASTRO NO PEER2PROFIT: https://bit.ly/3wzZKyw&#10;&#10;&#128073;VIDEO SURFAPP:https://bit.ly/3utgBAz&#10;&#128681;CADASTRO NO SURF APP:https://bit.ly/3iySkDB&#10;&#10;&#128073; VIDEO EARNAPP: https://www.youtube.com/watch?v=EldZN...&#10; &#128681;CADASTRO NO EARNAPP:https://bit.ly/3IT5kic&#10;&#10;&#128073;VIDEO TRON MINER:https://bit.ly/3IHPd73&#10;&#128681;MINERADOR DE TRON:https://bit.ly/3qAtFmn&#10;&#10;.&#10;.&#10;.&#10;.&#10;.&#10;.&#10;.&#10;.&#10;.&#10;tags ignore&#10;pix , bitcoin , criptomoedas , ethereum , litecoin , cardano , crypto , neio , binance , faucet , airdrops , expresscrypto , faucetpay , top jogos na blockchain , top jogos play to earn , crusaders of crypto brasil , crusaders of cripto pt-br, rollercoin, rollecoin event pass, rollecoin vale a pena, pagou no pix, dinheiro na internet, renda passiva."
+    channeltitle "Arthur Garcia - Renda Extra &#38; Criptomoedas."
+    channelid "UCTbBnkOB4kljP_ll4B3bcGg"
     favcount 0
-    viewcount 3594
-    likecount 145
-    commentcount 76
-    duration "PT21M16S"
-    indegree 1
-    cluster 9
+    viewcount 7972
+    likecount 357
+    commentcount 144
+    duration "PT19M14S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 347
-    label "_IeZoYp81V8"
+    id 270
+    name "346"
+    label "IasR8HFrd7E"
     step 0
-    date "2022-06-09T07:45:14Z"
-    title "FREE NFT? How to get a SIGIL NFT from Myria Games"
-    description "Stumbling upon blockchain gems like this is amazing! Today, I'll teach everyone how to get their own free NFT on the upcoming Triple A Blockchain Studio Myria Games through their Sigil event and how to join an alliance. &#10;A few helpful links:&#10;Myria website: https://partnership.myria.com/myrtle_sarrosa&#10;Myria Twitter: https://twitter.com/myriagames&#10;Discord: https://discord.gg/USAj8CDGF9&#10;----------------------------------------------------------------&#10;Follow Me:&#10;&#8226; Facebook: www.facebook.com/myrt.gail &#10;&#8226; Instagram: www.instagram.com/myrtlegail/ &#10;&#8226; Twitter: twitter.com/MyrtleGail &#10;&#8226; Tiktok: www.tiktok.com/@myrtlegail &#10;--------------------------------------------------------------------&#10;Edited By: Daniel Doks"
-    channeltitle "Myrtle Sarrosa"
-    channelid "UCyH2EFWcmkFFGIWY8dph4Jg"
+    date "2022-06-25T17:15:02Z"
+    title "CUAS por este NFT?"
+    description "&#9658;Directos: https://www.twitch.tv/aquinoby2002&#10;&#10;&#9658;Canal de Gameplays: https://www.youtube.com/channel/UC7jtSuXXamDt0eKFfYfGLDQ&#10;&#10;&#9658;Canal Secundario: https://www.youtube.com/channel/UCPIq0fJfkVC-CFdsIV0LzFw&#10;&#10;&#9658;Mi Instagram: https://www.instagram.com/aquinoby2002_/&#10;&#10;&#9658;S&#237;gueme en Twitter: https://twitter.com/AQUINOby_02&#10;&#10;&#9658;Mi Server de Discord: https://discord.com/invite/aquino&#10;&#10;&#9658;Reddit para que pasen sus videos: https://www.reddit.com/r/Webadas/&#10;&#10;&#9658;Correo de Contacto/Negocio: AQUINOby2002@gmail.com&#10;&#10;&#9658;M&#250;sica del final de mis videos:&#10;Trees and Lucy: https://www.youtube.com/watch?v=WIs5ObOuTVE"
+    channeltitle "AQUINO"
+    channelid "UCKuufKpyTISGU1TGj9n0q2A"
     favcount 0
-    viewcount 40796
-    likecount 1277
-    commentcount 172
-    duration "PT4M41S"
+    viewcount 558295
+    likecount 58756
+    commentcount 614
+    duration "PT10M16S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 348
+    id 271
+    name "348"
     label "Fjdwb_nF7Gs"
     step 0
     date "2022-04-19T11:46:56Z"
@@ -4915,11 +7608,21 @@ graph
     commentcount 214
     duration "PT10M41S"
     indegree 8
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 349
+    id 272
+    name "349"
     label "nZ6qRXFDRsg"
     step 0
     date "2022-07-07T17:23:43Z"
@@ -4933,11 +7636,21 @@ graph
     commentcount 61
     duration "PT13M14S"
     indegree 5
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 350
+    id 273
+    name "350"
     label "YoOcfElUHcU"
     step 0
     date "2021-11-16T19:15:56Z"
@@ -4951,11 +7664,21 @@ graph
     commentcount 4933
     duration "PT23M12S"
     indegree 6
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 351
+    id 274
+    name "351"
     label "qUnRTbW9YZg"
     step 0
     date "2022-04-23T14:30:08Z"
@@ -4969,47 +7692,77 @@ graph
     commentcount 514
     duration "PT8M30S"
     indegree 1
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 355
-    label "ixNNVSoggHo"
+    id 275
+    name "352"
+    label "ee6FBWD0QI8"
     step 0
-    date "2022-04-29T10:30:08Z"
-    title "NFT "
-    description "&#9654;&#47700;&#53440;&#53097;&#51592; &#50937; &#49324;&#51060;&#53944; : https://themetakongz.com&#10;&#9654;&#47700;&#53440;&#53097;&#51592; &#53944;&#50948;&#53552; : https://twitter.com/meta_kongz&#10;&#9654;&#47700;&#53440;&#53097;&#51592; &#46356;&#49828;&#53076;&#46300; : discord.gg/metakongz&#10;&#9654;&#47700;&#53440;&#53097;&#51592; &#50724;&#54536; &#52852;&#52852;&#50724;&#53665; : https://open.kakao.com/o/ga3vFvNd&#10;&#10;00:00 &#51064;&#53944;&#47196;&#10;01:14 NFT &#49884;&#51109;, &#44228;&#49549; &#49457;&#51109;&#54624; &#44144;&#46976; &#51060;&#50976;&#10;04:53 &#49457;&#44277;&#54616;&#45716; NFT &#54532;&#47196;&#51229;&#53944;&#51032; &#44277;&#53685;&#51216;&#10;08:21 &#54620;&#44397; NFT &#49457;&#44277;&#49324;&#47168; &#54364;&#48376;, &#47700;&#53440;&#53097;&#51592;&#10;&#10;#&#47700;&#53440;&#53097;&#51592; #NFT&#53804;&#51088; #BAYC #NFT"
-    channeltitle "&#45804;&#46976;&#53944;&#53804;&#51088;"
-    channelid "UCBM86JVoHLqg9irpR2XKvGw"
+    date "2022-07-09T13:00:19Z"
+    title "TOP 5 NOVOS JOGOS NFT GRTIS QUE MAIS PAGAM - FREE TO PLAY - GANHE DINHEIRO COM JOGOS NFT GRATUITO"
+    description "Salve, Salve rapaziada! Nesse v&#237;deo voc&#234; vai conferir varios novos jogos nft gratis e que ja est&#227;o pagando e pagando muito bem por jogar eles, separei um top 5 jogos nft gr&#225;tis fora do radar pra aumentar ainda mais suas chances de ganhar no come&#231;o, para jogar e ganhar dinheiro sem investir nada, voc&#234; pode come&#231;ar a jogar esses Free to Play hoje mesmo e come&#231;ar a faturar uma grana extra, renda extra no final do mes sem investir nada. vamos pra mais um top jogos nft gratuito :) &#10;&#10;Se voc&#234; gostar desse v&#237;deo, n&#227;o se esquece de se inscrever nesse canal e ativar o sininho para receber os meus novos conte&#250;dos, aproveita tamb&#233;m e j&#225; deixa o seu gostei que me ajuda demais! &#10;&#10;Aqui no canal voc&#234; vai encontrar conte&#250;do de:&#10;&#128053; Jogos NFT&#10;&#128176; Play to Earn&#10;&#128165; Cripto Games&#10;&#127942; Cripto Moedas&#10;&#128051; Jogos na Blockchain&#10;&#127918; Jogue pra ganhar&#10;&#128184; Free to play&#10;&#128525; Jogos NFT Gr&#225;tis&#10;&#10;&#128232; Parceria/Partnership:  canalclemff@gmail.com&#10;&#10;&#128242; Grupo Telgram: https://t.me/+iYQNojPNQzwyNmIx&#10;&#128241; Instagram: https://www.instagram.com/leandroclem/&#10; &#129436; Twitter: https://twitter.com/ClemFFytb&#10;&#128156; TwitchTV: https://www.twitch.tv/clemffyt&#10;&#128184; Doa&#231;&#245;es por Pix: canalclemff@gmail.com&#10;&#128188; Minha MetaMask caso queira me ajudar com uma doa&#231;&#227;o: &#10;0xf26a71BF6e9c65E42371A47574929f4101C18cD7&#10;&#10;&#10;&#128071;&#127995; Deixe nos coment&#225;rios suas sugest&#245;es de v&#237;deo:&#10;&#10;&#127909;&#128204; Links do V&#237;deo:&#10;&#128073;1 - https://axieinfinity.com/&#10;&#128073;2 - https://ninokuni.netmarble.com/pt&#10;&#128073;3 - https://ravenquest.io/en/&#10;&#128073;4 - https://www.era7.io/#/&#10;&#128073;5 - https://www.voxies.io/&#10;&#10;&#10;#top5nftgratis #nftgr&#225;tis #freetoplay #novonftgratis #nft #playtoearn #jogosnft #jogosnftgr&#225;tis2022  #jogosnftgratispraganhardinheiro #nftgratuito&#10;&#10;&#127881;Tags Ingl&#234;s: nft, nft explained, nft bot cryptoboyz, zick in crypto nft bot, nft how to get started, what is nft, opensea bot typical nft, nft for beginners, nft games, nft, nft game, what is an nft, how to make nft, solana nft, nft games play to earn, how to make nft digital art, how to sell nft, how to buy, what is nft and how it works, how to create nft, nft verse, nft cartoon, how to make an nft, pete davidson nft, nft kaise create kare, nft collection, solana nft bot, nft song, how to create nft and sell them on opensea, how to sell nft on opensea&#10;&#10;&#127881;Tags Portugu&#234;s: nft, nft explicado, nft bot cryptoboyz, zick in crypto nft bot, nft como come&#231;ar, o que &#233; nft, opensea bot t&#237;pico nft, nft para iniciantes, nft games, nft, nft game, o que &#233; nft, como fazer nft, solana nft, jogos nft jogue para ganhar, como fazer arte digital nft, como vender nft, como comprar, o que &#233; nft e como funciona, como criar nft, nft verse, nft cartoon, como fazer um nft, pete davidson nft, nft kaise create kare, nft collection, solana nft bot, nft song, como criar nft e vend&#234;-los no opensea, como vender nft no opensea"
+    channeltitle "Clem FF"
+    channelid "UCl9l5Cx2_hIBiU4-mdxncdQ"
     favcount 0
-    viewcount 26396
-    likecount 571
-    commentcount 42
-    duration "PT13M21S"
-    indegree 9
-    cluster 12
-  ]
-  node
-  [
-    id 357
-    label "6wxwWYjW2pM"
-    step 0
-    date "2022-07-02T15:00:04Z"
-    title "CORNUCOPIAS - Cardano Play-To-Earn NFT Game!"
-    description "Follow Me On Twitter: https://twitter.com/MetavInvestor&#10;--&#10;Cornucopias is an interesting new play-to-earn NFT gaming title that is featured on the seriously overlooked Cardano ecosystem. Cardano is often considered the more serious Blockchain protocol. And although the majority of the NFT, DeFi and Gaming Marketplace currently exists across the Ethereum Ecosystem. Projects like Cornucopias have already generated a lot of interest from the community with that number set to sky rocket in the near future!&#10;&#10;YOU NEED TO CHECK THESE HELPFUL LINKS:&#10;&#10;Our Millionaire Crypto Investing Strategy: https://metavinvestor.com/Quantum&#10;Keep Your Crypto Safe: https://metavinvestor.com/secure&#10;Our Favorite Play-To-Earn Game Right Now: https://metavinvestor.com/Gala&#10;--&#10;Check Out CORNUCOPIAS!&#10;Website: https://www.cornucopias.io&#10;Twitter: https://twitter.com/CornucopiasGame&#10;Instagram: https://www.instagram.com/cornucopiasgame/&#10;Facebook: https://www.facebook.com/cornucopiasgame/&#10;Discord: https://discord.com/invite/ZaavBkcGzJ&#10;Telegram: https://t.me/joinchat/Oo_NLKyNrjI5NDQ8&#10;&#10;For Business Inquiries: biz@metavinvestor.com&#10;For Blockchain charity fund for Ukrainians affected by the war: https://unchain.fund/&#10;&#10;Disclaimer:&#10;This video was created for entertainment purposes only! This is not financial advice. &#10;The projects talked about on this channel is our own personal opinion at the time of making this video. Any Crypto, Metaverse, Play to earn and NFT assets have high risks."
-    channeltitle "Metaverse Investor"
-    channelid "UCn2RJFAA1ndipnVJsYAwWOw"
-    favcount 0
-    viewcount 4231
-    likecount 235
-    commentcount 47
-    duration "PT8M26S"
+    viewcount 4949
+    likecount 261
+    commentcount 74
+    duration "PT10M1S"
     indegree 1
-    cluster 7
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 358
+    id 276
+    name "356"
+    label "sqQfrNBdhA0"
+    step 0
+    date "2021-11-03T13:30:17Z"
+    title "TOP 5 Playable FREE NFT Android Crypto Games!"
+    description "Here are my top 5 Crypto NFT games that I play everyday and are FREE to join! All these games give out daily rewards and random bonus's so you will be swimming in the NFT's and Cryptos in no time! (hopefully!)&#10;&#10;&#10;Let me know if you agree with my top 5 games or if you know some better ones let me know! Also if anyone has withdrawn from these games, I would love to hear from you!&#10;&#10;&#10;&#10;&#10;&#10;I'm inviting you to play Gala Games. https://gala.fan/YeZT2RuNr&#10;&#10;Referral code: 6134db1e70866c7e1a5a520e&#10;Own your game play!&#10;&#10;&#10;Want Free Cryptos?&#10;&#10;Get 10 Free NFTSea tokens here (limited time):&#10;https://nftsea.one/7Q3JTWG &#10;&#10;&#10;Join Torum and get 35 free coins:&#10;https://www.torum.com/signup?referral_code=dundeechief&#10;(This is a crypto social media platform where you get crypto for liking posts, and its pays really well!)&#10;&#10;Want to buy some Cryptos? &#10;&#10;Join Coinbase with discounts:&#10;https://www.coinbase.com/join/hodson_aot&#10;&#10;&#10;Join Binance with discounts:&#10;https://accounts.binance.com/en-AU/register?ref=JB1I009D&#10;&#10;Join GateIO with bonus's:&#10;https://www.gate.io/signup/902870&#10;&#10;&#10;&#10;#cryptogames&#10;#nftgames&#10;#alongwiththegods"
+    channeltitle "Gamezinvaders"
+    channelid "UC9gIzcjz5n98VBkLEe0vhVw"
+    favcount 0
+    viewcount 17083
+    likecount 122
+    commentcount 12
+    duration "PT11M24S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
+  ]
+  node
+  [
+    id 277
+    name "358"
     label "8LJQY_sjgd8"
     step 0
     date "2022-01-06T23:29:44Z"
@@ -5023,11 +7776,21 @@ graph
     commentcount 2293
     duration "PT1M"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 359
+    id 278
+    name "359"
     label "mWLHtxzFNaY"
     step 0
     date "2022-01-28T21:01:55Z"
@@ -5041,29 +7804,49 @@ graph
     commentcount 2133
     duration "PT27S"
     indegree 1
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 361
-    label "kVQm81w0JbU"
+    id 279
+    name "360"
+    label "qfcONVW7XK4"
     step 0
-    date "2022-02-22T17:25:40Z"
-    title "Wenn Influencer f Crypto"
-    description "&#9658; SP/RK SHOP: https://sprk.store/&#10;&#10;Rezos Meinung zu NFT &#38; Crypto, Montana Black und Unge teilt er im Livestream hier als Highlight f&#252;r euch mit. Influencer die f&#252;r Scam werben sind keine Seltenheit mehr, gerade in Amerika.&#10;&#10;Zu meinen nicen Displates kommt ihr &#252;ber diesen Link&#10;https://displate.com/rezo_?art=6193c7ff8385e &#7490;&#7473;&#7487;&#7470;&#7489;&#7482;&#7475;&#10;&#10;&#9658; PODCAST von Ju und Rezo: https://open.spotify.com/show/6UUIXmp1V0fK4ZpK7vzAbQ&#10;&#10;&#9658; FOLGT MIR&#10;Twitch: https://www.twitch.tv/rezo&#10;Tik Tok: Rezo&#10;Instagram: http://instagram.com/rezo&#8203;&#10;Twitter: https://twitter.com/rezomusik&#10;Anderer Kanal: https://www.youtube.com/channel/UCvU1c8D5n1Rue3NFRu0pJSw"
-    channeltitle "Renzo"
-    channelid "UCXup1ITuwbY5r_Gn2K2_TXA"
+    date "2022-07-10T17:45:13Z"
+    title " NUEVO JUEGO NFT PAGANDO PIKASTER EL NUEVO AXIE DINERO SIN INVERSION"
+    description "#pikaster #axieinfinity #nftgame #franlisnft&#10;COMO &#128226;10 $ POR DIA GRATIS &#128176; NUEVO JUEGO NFT PAGANDO TAMBIEN SORTEAMOS UN BECA PIKASTER EL NUEVO AXIE MEJORADO!! DINERO SIN INVERSION!!! BECAS&#10;&#10;Este nuevo juego nft copia el estilo de juego de AXIE pero con varios cambios interesante, ya esta pagando y podes entrar gratis por tiempo limitado, ademas en este video te cuento como ganar un beca poder hacer dinero gratis !&#10;&#10;Enlace:&#10;Link de referido https://marketplace.pikaster-metaland.com/invitation/index/P0ZWF&#10;P&#225;gina web oficial: pikaster-metaland.com&#10;Papel blanco: https://megaverse-1.gitbook.io/pikaster/&#10;Comunidad oficial de Telegram.: https://t.me/+RVgblCS6KOk3M2I1&#10;Twitter oficial: https://twitter.com/PikasterNFT&#10;Canal oficial de Discord: https://discord.gg/jxsrBzwNPb&#10;&#10;Crear cuenta de Binance https://bit.ly/3yyrR0K&#10;&#10;S&#237;gueme en mi y participa en diferentes sorteos&#10;&#128993; Sorteo en mi comunidad telegram https://t.me/franlisnft&#10;&#128993; Twitch https://www.twitch.tv/franlisok&#10;&#128993; Instagram https://www.instagram.com/franlisok/&#10;&#128993; Mi comunidad de Discord https://discord.gg/vzCUnQr3Vd&#10;&#128993; Twitter https://twitter.com/franlisok&#10;&#128993;  Mi web https://franlis.com&#10;Contacto: franzlist@gmail.com"
+    channeltitle "Franlis"
+    channelid "UCwSCdXTXBpviM0E7s_2BW_g"
     favcount 0
-    viewcount 638665
-    likecount 30561
-    commentcount 1602
-    duration "PT24M24S"
-    indegree 2
-    cluster 13
+    viewcount 2113
+    likecount 133
+    commentcount 84
+    duration "PT13M11S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 362
+    id 280
+    name "362"
     label "AZCTcYejROM"
     step 0
     date "2022-04-07T16:20:34Z"
@@ -5077,11 +7860,21 @@ graph
     commentcount 129
     duration "PT16M39S"
     indegree 3
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 15
   ]
   node
   [
-    id 363
+    id 281
+    name "363"
     label "jumD_lldVgg"
     step 0
     date "2022-02-23T19:00:28Z"
@@ -5095,11 +7888,21 @@ graph
     commentcount 387
     duration "PT18M28S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 364
+    id 282
+    name "364"
     label "2vNNPC5cra8"
     step 0
     date "2021-06-08T08:07:35Z"
@@ -5113,11 +7916,21 @@ graph
     commentcount 62
     duration "PT14M58S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 365
+    id 283
+    name "365"
     label "x-7fn7fzzEc"
     step 0
     date "2022-07-11T16:07:02Z"
@@ -5131,11 +7944,21 @@ graph
     commentcount 14
     duration "PT14M1S"
     indegree 1
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 366
+    id 284
+    name "366"
     label "z5fAeWswJos"
     step 0
     date "2022-01-21T12:18:20Z"
@@ -5149,11 +7972,21 @@ graph
     commentcount 296
     duration "PT8M57S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 367
+    id 285
+    name "367"
     label "gNVQQj-WsLk"
     step 0
     date "2022-01-09T09:00:19Z"
@@ -5167,11 +8000,21 @@ graph
     commentcount 1009
     duration "PT18M39S"
     indegree 6
-    cluster 13
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 368
+    id 286
+    name "368"
     label "qg-vDtvfuQ8"
     step 0
     date "2022-02-12T15:14:58Z"
@@ -5185,11 +8028,21 @@ graph
     commentcount 4497
     duration "PT18M"
     indegree 13
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 15
   ]
   node
   [
-    id 369
+    id 287
+    name "369"
     label "M7ZR9fhR6c8"
     step 0
     date "2022-02-11T11:14:40Z"
@@ -5203,11 +8056,21 @@ graph
     commentcount 231
     duration "PT22M47S"
     indegree 8
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 370
+    id 288
+    name "370"
     label "OfvmFN0OG3k"
     step 0
     date "2022-07-06T16:14:42Z"
@@ -5221,29 +8084,49 @@ graph
     commentcount 4
     duration "PT9M2S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 373
-    label "CvIwV__Agj4"
+    id 289
+    name "371"
+    label "HuyRmThGrSw"
     step 0
-    date "2022-07-05T23:02:18Z"
-    title "This Has To Be A SCAM! Polium One.. The NFT Video Game Console"
-    description "The Polium One&#10;&#10;Amazon Prime Day is coming July 12-13th! Get ready here: https://amzn.to/3OrwH6B (You can sign up for a Prime free Trial if you don't have one)&#10;Become a Madlittlepixel member if ya wanna support the channel, Thanks!: https://bit.ly/3m1H8R0&#10;Recommended Amazon Products: https://amzn.to/2yUs8MX&#10;Follow me on Twitter https://bit.ly/33uce9Y&#10;Shop Play-Asia: https://bit.ly/2m4xq5c&#10;Shop Castle Mania Games: https://bit.ly/2MsQuFG&#10;Shop Stone Age Gamer: https://bit.ly/33dGaY6&#10;&#10;As an Amazon Associate I earn from qualifying purchases from links posted in my description &#38; comments section. Other links posted may also be affiliate links and I may earn a small commission on any purchases made.  &#10;All other links should be treated as affiliate links as some may result in my earning a small commission as well. Thanks a ton! &#10;&#10;These are the items I use to record my videos! (UPDATED)&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;VIDEO:&#10;Sony ZV-1: https://amzn.to/3ryk3Gy&#10;Elgato HD Pro Capture Card: https://amzn.to/2CI9eLz&#10;Logitech Brio Webcam: https://amzn.to/2PDydc1&#10;&#10;AUDIO:&#10;Mic - Shure SM7B: https://amzn.to/2FCWre9&#10;Pre-Amp/Processor: https://amzn.to/2HM4SXL&#10;USB Audio Interface: https://amzn.to/2FEuse6&#10;Rode Wireless Go: https://amzn.to/3b0d3Nk&#10;&#10;MISC EQUIPMENT: &#10;Stream Deck: https://amzn.to/2Ueyd2X&#10;Studio Mic Arm: https://amzn.to/2HI2em1&#10;Tabletop Mic Stand: https://amzn.to/3hJaJ0R&#10;GEEKOTO 77'' Tripod: https://amzn.to/3etnyuo&#10;Gamdias Headset: https://amzn.to/2FAk1bm&#10;Lighting: https://amzn.to/2UfWpnT&#10;&#10;&#10;#PoliumOne #NFT #Web3&#10;#RetroGaming #Madlittlepixel #GamingNews  #VideoGames #Rant #GamingReview"
-    channeltitle "Madlittlepixel"
-    channelid "UC0oMYbkaO_bFN4Fh4J0LpYg"
+    date "2022-07-11T22:43:37Z"
+    title "Winions Arena - Tower Defense NFT FORA DO RADAR - Airdrop e IDO em andamento!"
+    description "&#10022;Site: https://winionsarena.io/&#10;&#10022;Twitter: https://twitter.com/winionsarena&#10;&#10022;Telegram: https://t.me/winionsarena&#10;&#10;&#9658;Meu Telegram sobre o mundo de NFT's&#10;https://t.me/mattosnft&#10;&#10;&#9658;Contato comercial: contatomattosnft@gmail.com&#10;&#10;Esse v&#237;deo n&#227;o &#233; uma recomenda&#231;&#227;o de investimento, fa&#231;a seu estudo e avalie por conta pr&#243;pria antes de entrar em qualquer jogo NFT.&#10;&#10;&#10;Grande abra&#231;o a todos!&#10;&#10;#winionsarena #bsc #mattos #nftgames #nft&#10;&#10;&#10;&#10;00:00 Teaser&#10;00:43 Inicio&#10;01:08 Site&#10;06:12 Airdrop&#10;07:18 Conclus&#227;o"
+    channeltitle "Mattos"
+    channelid "UC-r7PC8kpTmsPG-ISKD80lw"
     favcount 0
-    viewcount 8508
-    likecount 569
-    commentcount 153
-    duration "PT10M40S"
-    indegree 1
-    cluster 3
+    viewcount 2442
+    likecount 45
+    commentcount 16
+    duration "PT9M2S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 374
+    id 290
+    name "374"
     label "IjChDt_PR7A"
     step 0
     date "2022-05-10T18:18:21Z"
@@ -5257,29 +8140,49 @@ graph
     commentcount 39
     duration "PT6M6S"
     indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 291
+    name "375"
+    label "1QSGLsf4l8w"
+    step 0
+    date "2022-04-06T11:20:27Z"
+    title "VT NFT GAMES"
+    description "Game C&#7921;c Hay tuy&#7875;n ng&#432;&#7901;i Vi&#7871;t N&#7897;i Dung: https://www.shorturl.at/uzFIQ&#10;&#10;V&#236; sao game NFT b&#7883; GH&#201;T | B&#211;C PH&#7888;T NFT GAMES&#10;------------------------------------------------------&#10;Script: Lucy&#10;Voice: Ming Ming&#10;Editor: Kyanu Reeves&#10;------------------------------------------------------&#10;Fanpage: https://www.facebook.com/gamecuchayvn/&#10;Group: https://www.facebook.com/groups/gamecuchay/&#10;Discord: https://discord.gg/fu7hrh9z4X&#10;&#10;#gamecuchay #bocphot"
+    channeltitle "Game C&#7921;c Hay"
+    channelid "UCOvu_XgzASRa0ntQhTFA0rg"
+    favcount 0
+    viewcount 303087
+    likecount 12643
+    commentcount 594
+    duration "PT20M32S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 376
-    label "HvcySuWhpZM"
-    step 0
-    date "2021-10-26T15:15:10Z"
-    title "The Best NFTs Under 1 ETH | Undervalued NFT Projects"
-    description "In today's video I'll be covering some NFT projects I think are really good which are under 1 ETH and give some of my thoughts about them. The NFT market is so expensive for some of the best NFTs, so it gets hard to find good projects under 1 ETH.&#10;&#10;Join Our Discord:&#10;Discord: https://discord.gg/9fAfU8C3hj&#10;&#10;Follow our Socials:&#10;Twitter: https://twitter.com/NFTverse_&#10;Instagram: https://www.instagram.com/nft.verse/&#10;&#10;0:00 - 0:42 Intro&#10;0:43 - 3:16 DeadFellaz&#10;3:17 - 5:21 HeadDAO&#10;5:22 - 6:38 Robotos Offical&#10;6:39 - 8:19 The Wicked Craniums&#10;8:20 - 10:11 Curio Cards&#10;10:12 - 11:42 MoonCats Rescue&#10;11:43 - 12:55 My Thoughts &#38; Conclusion&#10;12:56 - 13:11 Outro&#10;&#10;Financial Disclaimer:&#10;This is not financial advice. I am not a financial advisor. This channel is for entertainment and expressing my opinions. Please do your own research and make your own decisions."
-    channeltitle "NFT Verse"
-    channelid "UCf9cq3uePT1qmE5RNxiCqLg"
-    favcount 0
-    viewcount 14785
-    likecount 609
-    commentcount 229
-    duration "PT13M12S"
-    indegree 1
-    cluster 1
-  ]
-  node
-  [
-    id 377
+    id 292
+    name "377"
     label "FExYuKDW1eg"
     step 0
     date "2022-06-30T20:00:05Z"
@@ -5293,11 +8196,21 @@ graph
     commentcount 2770
     duration "PT8M3S"
     indegree 6
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 378
+    id 293
+    name "378"
     label "SFpTM0pWJDs"
     step 0
     date "2022-02-08T19:48:17Z"
@@ -5311,29 +8224,49 @@ graph
     commentcount 60
     duration "PT10M26S"
     indegree 0
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 381
-    label "7aL29kMKngo"
+    id 294
+    name "379"
+    label "N4PPGuW7czQ"
     step 0
-    date "2022-05-26T23:03:28Z"
-    title "WILLYREX ARRUINA su CARRERA de la PEOR FORMA y sus NFTS NO VALEN NADA"
-    description "SUSCR&#205;BETE!!&#10;El fin de Willyrex y sus nfts, que pas&#243; con zilverk?&#10;&#9658; INSTAGRAM&#10149;https://www.instagram.com/turboplant/&#10;&#9658;TWITTER&#10149; https://twitter.com/turbo_plant&#10;&#9658;CANAL SECUNDARIO: https://www.youtube.com/channel/UC1RD...&#10;&#9658;Correo para consultas empresariales: jesusgallegoolmedo96@gmail.com"
-    channeltitle "Turbo Plant"
-    channelid "UCe9oZYUQ9UgAkDGgYPhBuAg"
+    date "2022-07-07T16:31:30Z"
+    title "I Bought The Worldmon Card ($5,300,000)"
+    description "Available NOW! Co-own the PSA 10 Pikachu Illustrator with me on Liquid MarketPlace &#9658; https://trade.liquidmarketplace.io/signup?aff=Illustrator&#10;SUBSCRIBE FOR MORE &#9658; http://bit.ly/Subscribe2Logan&#10;&#10;ADD ME ON INSTAGRAM:&#10;https://www.instagram.com/LoganPaul/&#10;&#10;Watch our IMPAULSIVE Podcast &#9658; https://www.youtube.com/impaulsive&#10;OR IMPAULSIVE CLIPS &#9658; https://www.youtube.com/impaulsiveclips&#10;&#10;Watch Previous Vlog (Logan Paul &#38; KSI Went Bald For Prime) &#9658; https://youtu.be/cbGmzdjcAYw&#10;&#10;Edited by: Hayden Hillier-Smith (@HillierSmith )&#10;https://www.instagram.com/hhilliersmith/&#10;&#10;Director of Photography: Kevin Galvan (@KevinGMov)&#10;https://www.instagram.com/kevingmov/&#10;&#10;Pokemon Style Animation by:  @Howard Wimshurst &#10;http://www.howardwimshurst.com/&#10;&#10;Additional Sound Design and Mix: Vannessa Audio (@Sound Design 101 )&#10;https://youtube.com/channel/UCBanmmeC5ylIe8dG-MUOoJQ&#10;&#10;Additional Visual FX: Finn Hitchcock (@FinnHitchcock)&#10;https://www.instagram.com/finn.hitchcock/&#10;&#10;Character Pixel Art by: Ejay Fernandez&#10;https://www.fiverr.com/ejayfernandez&#10;&#10;Pokemon Map Art by: Gianni Piccioni&#10;https://www.fiverr.com/giannipiccioni&#10;&#10;&#10;I&#8217;m a 27 year old living in Puerto Rico. This is my life.&#10;https://www.youtube.com/LoganPaulVlogs"
+    channeltitle "Logan Paul"
+    channelid "UCG8rbF3g2AMX70yOd8vqIZg"
     favcount 0
-    viewcount 166756
-    likecount 16988
-    commentcount 953
-    duration "PT14M38S"
+    viewcount 1607652
+    likecount 139038
+    commentcount 4694
+    duration "PT9M10S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 382
+    id 295
+    name "382"
     label "jVb525HPUL4"
     step 0
     date "2022-07-09T13:36:40Z"
@@ -5347,11 +8280,21 @@ graph
     commentcount 223
     duration "PT2M46S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 383
+    id 296
+    name "383"
     label "dFCmL1Bi5vI"
     step 0
     date "2022-02-04T10:00:31Z"
@@ -5365,11 +8308,21 @@ graph
     commentcount 401
     duration "PT13M51S"
     indegree 5
-    cluster 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 384
+    id 297
+    name "384"
     label "xXKmUbCMfwg"
     step 0
     date "2021-05-24T07:44:47Z"
@@ -5383,11 +8336,21 @@ graph
     commentcount 771
     duration "PT14M4S"
     indegree 18
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 385
+    id 298
+    name "385"
     label "bXmgTQgajKQ"
     step 0
     date "2022-01-23T10:00:14Z"
@@ -5401,11 +8364,21 @@ graph
     commentcount 222
     duration "PT10M30S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 386
+    id 299
+    name "386"
     label "Nkv9mOSLRJU"
     step 0
     date "2022-01-06T10:33:30Z"
@@ -5419,11 +8392,21 @@ graph
     commentcount 1341
     duration "PT33M1S"
     indegree 3
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 387
+    id 300
+    name "387"
     label "59F0SQXOkzY"
     step 0
     date "2021-03-31T16:39:54Z"
@@ -5437,11 +8420,21 @@ graph
     commentcount 231
     duration "PT11M23S"
     indegree 7
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 14
   ]
   node
   [
-    id 388
+    id 301
+    name "388"
     label "VF6MrY4vA3Q"
     step 0
     date "2022-03-02T16:30:06Z"
@@ -5455,29 +8448,49 @@ graph
     commentcount 1140
     duration "PT14M41S"
     indegree 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 390
-    label "XCMIMzs_i2M"
+    id 302
+    name "389"
+    label "Jnnmb5oiQNU"
     step 0
-    date "2022-01-16T18:59:05Z"
-    title "Wstp do NFT"
-    description "O co chodzi z ma&#322;pami, misiami i innymi niewymienialnymi tokenami?&#10;https://www.instagram.com/kubaklawiter/&#10;https://twitter.com/KubaKlawiter"
-    channeltitle "Kuba Klawiter"
-    channelid "UCLr4hMhk_2KE0GUBSBrspGA"
+    date "2022-06-01T21:00:09Z"
+    title "Dame Dash On Starting Rocawear, His Football League, NFTs,  More | Assets Over Liabilities"
+    description "Hosts Rashad Bilal and Troy Millings (of #EarnYourLeisure fame) are granted exclusive access into the personal lives and businesses of young entrepreneurs and celebrity guests to answer a critical question: Are they working with assets&#8230; or liabilities?&#10;&#10;For the 7th episode of season 2, the guys chop it up with American entrepreneur and record executive #DameDash, on him starting his own NFL and the importance of ownership for him, NFTs &#38; the metaverse, importance of changing the system &#38; controlling your own narrative, the start of Rocawear, Dame Dash Studios, fatherhood &#38; more! #AssetsOverLiabilities &#10;&#10;Find REVOLT on TV here: https://revolt.tv/providers&#10;&#10;Stay connected with REVOLT here: &#10;&#10;Download our app for more exclusive content!&#10;iOS: https://apps.apple.com/us/app/revolt-tv/id863492077&#10;Android: https://play.google.com/store/apps/details?id=com.zype.revolt&#10;&#10;+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now&#10;&#10;Website: http://www.revolt.tv/?utm_source=YouTube&#38;utm_medium=Organic_Referral (Surf) &#10;&#10;Instagram: http://Instagram.com/REVOLTTV (Follow) &#10;&#10;Twitter: http://twitter.com/REVOLTTV (Follow) &#10;&#10;Facebook: http://www.facebook.com/REVOLT (Like) &#10;&#10;Text Us! (404) 737-1393&#10;&#10;Snapchat: Revolt.TV (Add)&#10;&#10;TikTok: REVOLT&#10;&#10;About REVOLT :&#10;&#10;Launched by Sean &#34;Diddy&#34; Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more."
+    channeltitle "REVOLT"
+    channelid "UCqISR0F9-nCth-V2r4Qy75Q"
     favcount 0
-    viewcount 406130
-    likecount 21528
-    commentcount 1267
-    duration "PT17M29S"
-    indegree 4
-    cluster 2
+    viewcount 537292
+    likecount 8650
+    commentcount 1268
+    duration "PT1H10M54S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 391
+    id 303
+    name "391"
     label "7RdZC093vII"
     step 0
     date "2022-06-14T16:00:10Z"
@@ -5491,11 +8504,21 @@ graph
     commentcount 677
     duration "PT53M25S"
     indegree 3
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 14
   ]
   node
   [
-    id 392
+    id 304
+    name "392"
     label "dVEaKKPDANg"
     step 0
     date "2022-01-16T18:35:33Z"
@@ -5509,11 +8532,21 @@ graph
     commentcount 7
     duration "PT3M8S"
     indegree 0
-    cluster 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 393
+    id 305
+    name "393"
     label "vIEW_Wfs9Tg"
     step 0
     date "2022-07-11T18:00:09Z"
@@ -5527,29 +8560,49 @@ graph
     commentcount 21
     duration "PT14M9S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 395
-    label "cY-XGEHAVOw"
+    id 306
+    name "394"
+    label "qQD4qhPMadI"
     step 0
-    date "2021-05-12T17:00:12Z"
-    title "How to buy NFT art Coin - A Beginners Guide"
-    description "Buying NFTart?&#10;&#10;In this video, I&#8217;ll show you how to buy NFTart And we will walk through every single step of getting this crypto because it's one of the hardest ones to get right now.&#10;&#10;Join the 100X crypto club here: https://wealthhacks.co/crypto-alerts-opt-in/&#10;&#10;Easy platform to buy crypto w/ bank or CC:&#10;https://wealthhacks.co/tools/coinbase/yt&#10;&#10;Coin not available in the USA? Use VPN:&#10;https://wealthhacks.co/tools/nord/yt&#10;&#10;Recommended crypto exchange (outside US):&#10;https://wealthhacks.co/tools/binance/yt&#10;&#10;Recommended crypto exchange (US):&#10;https://wealthhacks.co/tools/coinbase/yt&#10;&#10;My favorite crypto trading bot:&#10;https://www.youtube.com/watch?v=nPxigLULgUA&#10;&#10;Need to get in contact with Spencer? Email @ spencer@wealthhacks.co&#10;&#10;----&#10;&#10;So a couple of things that we're going to need:&#10;&#10;1) A wallet to store the NFT.&#10;1) Some exchanges for us to make some crypto swaps and get the right cryptos. &#10;&#10;And once we have all that set up, we can make the swap and hold our NFTart.&#10;&#10;----&#10;&#10;CHECK OUT OUR OTHER VIDEOS:&#10;&#10;How To Buy Safemoon - A Beginner's Guide:&#10;https://youtu.be/-YOVq8OSPg8&#8203;&#10;&#10;How To Buy Doge Coin. - A Beginner's Guide:&#10;https://youtu.be/bM1_rl5hIeI&#8203;&#10;&#10;----&#10;Chapters:&#10;00:00 Introduction&#10;00:29 Binance Chain Wallet&#10;02:07 How To Buy BNB Token&#10;03:20 Moving BNB Token to Binance Chain Wallet&#10;04:27 Exchanging BNB Token to NFT Art&#10;--&#10;&#10;DISCLAIMER: This video and description may contain affiliate links, which means that if you click on one of the product links, I&#8217;ll receive a commission. This helps support the channel and allows me to continue to make videos like this. I will never support or push a product I don't believe in. Thank you for the support!"
-    channeltitle "Wealth Hacks"
-    channelid "UCJA7J3DqZN76PKx31Q_YHUQ"
+    date "2022-07-12T07:54:56Z"
+    title "[)"
+    description "#Live #&#30452;&#25773; #EnewsLive"
+    channeltitle "TVB&#23067;&#27138;&#26032;&#32862;&#21488;"
+    channelid "UC5dp6FxyIJmXLQv-9RYOTfA"
     favcount 0
-    viewcount 4203
-    likecount 84
-    commentcount 7
-    duration "PT7M25S"
+    viewcount 4823
+    likecount 308
+    commentcount 29
+    duration "PT42M6S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 396
+    id 307
+    name "396"
     label "LM91nSONWZU"
     step 0
     date "2022-07-02T00:31:27Z"
@@ -5563,11 +8616,21 @@ graph
     commentcount 535
     duration "PT4M29S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 397
+    id 308
+    name "397"
     label "bo9tbL6dSjY"
     step 0
     date "2022-02-01T00:00:08Z"
@@ -5581,11 +8644,21 @@ graph
     commentcount 2191
     duration "PT11M44S"
     indegree 11
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 398
+    id 309
+    name "398"
     label "qVzkcMJYBFU"
     step 0
     date "2021-05-14T16:00:35Z"
@@ -5599,29 +8672,49 @@ graph
     commentcount 16965
     duration "PT2M2S"
     indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
+  ]
+  node
+  [
+    id 310
+    name "399"
+    label "SPvQi_nYIBs"
+    step 0
+    date "2022-06-05T16:40:56Z"
+    title "Baxtli obunachi 3 - Qism Treydinga qoyilgan qadam | Bitcoin Va NFT ga investitsiya."
+    description "Biz sotib olgan NFT - https://ddsnft.com&#10;&#10;Bizni Instagram&#128071;&#127996;&#10;https://www.instagram.com/khasanov_gt/&#10;&#10;Bizni Sayt - https://grand-trade.uz&#10;&#10;Bizni Telegram&#128071;&#127996;&#10;https://t.me/joinchat/nuDrdOgZOH8xMjhi&#10;&#10;Telegram Menejer: @GT_ADMIN_UZ&#10;&#10;#treyding #btcuz #bitcoinuz"
+    channeltitle "GT UZ"
+    channelid "UCtmiznTNdqJvRCKtjGGgCUA"
+    favcount 0
+    viewcount 67012
+    likecount 4817
+    commentcount 3291
+    duration "PT17M18S"
+    indegree 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 400
-    label "cxmj-yF2PtM"
-    step 0
-    date "2022-06-13T15:15:01Z"
-    title ""
-    description "&#128993;&#27489;&#36814;&#35330;&#38321;&#25105;&#30340;&#38971;&#36947;&#10;1&#65039;&#8419;YouTubeChannel: Jer&#20180;&#10;&#26041;&#21521;&#65306;&#26178;&#20107;&#12289;&#31038;&#26371;&#12289;&#25919;&#27835;&#10;https://www.youtube.com/channel/UClkSKv9-Geah2gwYu7e9jFw&#10;2&#65039;&#8419;YouTubeChannel: Jer&#20180;&#27491;&#33021;&#37327;&#10;&#26041;&#21521;&#65306;&#26085;&#24120;&#12289;VLOG&#10;https://www.youtube.com/channel/UCn0qOY1028z5zdIIQ_A6Igg&#10;3&#65039;&#8419;GazeTV&#65306;Jer&#20180;&#10;https://www.gazetv.com/#channel/32c042df6534be5105eea09f17f317ea&#10;&#128995;Instagram&#65306;jjwilliamjj&#10;https://www.instagram.com/jjwilliamjj/&#10;&#128994;MeWe&#65306;Jer&#20180; &#10;https://mewe.com/p/jer%25E4%25BB%2594&#10;&#128309;Discord&#10;https://discord.gg/dDbaRTG&#10;&#128308;&#21152;&#20837;&#25104;&#28858;&#25105;&#30340;YouTube&#26371;&#21729;&#10;https://www.youtube.com/channel/UClkSKv9-Geah2gwYu7e9jFw/join&#10;&#128992;&#35531;&#25903;&#25345;&#12300;&#24859;&#35703;Jer&#20180;&#22522;&#37329;&#12301;&#10;&#12300;&#36681;&#25976;&#24555;&#12301;ID&#65306;&#10;3070117&#10;HSBC &#28377;&#35920;&#37504;&#34892; PayMe&#10;https://payme.hsbc/jjwilliamjj&#10;&#10;&#128996;Jer&#20180;&#23560;&#23660;&#20778;&#24800;&#10;1&#65039;&#8419;&#12304;&#24494;&#29275;Webull - &#23560;&#23660;&#20778;&#24800;&#12305;&#10;&#12304;&#33836;&#29289;&#26356;&#26032;&#65292;&#34382;&#36939;&#30331;&#22580;&#65292;&#36786;&#26310;&#26032;&#24180;&#65292;&#30070;&#28982;&#23569;&#19981;&#20102;Webul&#26032;&#24180;&#38283;&#25142;&#12305;&#10;&#10;&#34382;&#24180;&#22577;&#21916;&#65292;&#26032;&#19968;&#24180;&#31069;&#22823;&#23478;&#22312;&#32929;&#24066;&#22914;&#34382;&#28155;&#32764;&#65292;&#34382;&#34382;&#29983;&#23041;&#65281;&#24066;&#22580;&#27874;&#21205;&#30340;&#26178;&#20505;&#65292;&#31934;&#26126;&#30340;&#25237;&#36039;&#32773;&#65292;&#19968;&#23450;&#35201;&#23416;&#26371;&#31934;&#25171;&#32048;&#31639;&#65292;&#36889;&#27171;&#25165;&#33021;&#32005;&#21253;&#34892;&#24773;&#30433;&#22312;&#25163;&#20013;&#65281;&#39080;&#38753;&#20840;&#32654;&#25237;&#36039;&#25033;&#29992;&#65292;&#26032;&#24180;&#38283;&#21855;&#26032;&#36001;&#36939;&#65292;Webull&#20132;&#26131;&#26356;&#31281;&#24515;&#65281;&#32780;&#23478;&#38283;&#25142;&#21780;&#21934;&#27490;&#21487;&#20197;&#25294;&#21040;&#20729;&#20540;&#32004;&#19968;&#21315;&#34442;&#29518;&#36062;&#65292;&#26356;&#21487;&#20139;&#32654;&#28207;&#32929;&#38617;0&#20323;&#65281;&#10;&#10;&#128226;&#32780;&#23478;&#19979;&#36617;Webull App&#65292;&#23436;&#25104;&#38283;&#25142;&#65292;&#9312;&#21487;&#24471;12&#20491;&#26376;&#32654;&#32929;Level 2&#65307;&#9313;3&#24373;&#23382;&#23637;&#35469;&#36092;&#34701;&#36039;&#25171;&#26032;&#28187;&#20813;&#21048;&#65307;&#9314;30&#26085;&#20839;&#32173;&#25345;HK$10,000&#28136;&#23384;&#27454;&#21450;&#36023;&#20837;&#19968;&#31558;&#32654;&#32929;&#65292;&#20210;&#21487;&#20197;&#25294;&#36208;3&#32929;&#31119;&#29305;&#65281;&#65281;&#65281;&#10;&#10;&#25105;&#22021;&#23560;&#23660;&#38283;&#25142;link&#65306;https://a.webull.hk/i/Jerjaiofficialfansclub&#10;&#20778;&#24800;&#27963;&#21205;&#26781;&#27454;&#21450;&#32048;&#21063;&#65306;https://act.webull.hk/ko-yield/1632813186270-e76d&#10;&#36229;&#35443;&#32048;Webull&#35387;&#20874;-&#38283;&#25142;&#25351;&#24341;&#65306;https://act.webull.hk/contentEdit/index.html?pageId=24443&#10;&#10;&#9898;&#65039;&#21443;&#32771;&#36039;&#26009;&#10;&#10;&#9898;&#65039;&#20633;&#35387;&#10;&#22914;&#26524;&#20320;&#20497;&#23565;&#25105;&#30340;&#24433;&#29255;&#26377;&#20160;&#40636;&#24847;&#35211;&#65295;&#21839;&#38988;&#65292;&#27489;&#36814;&#22312;&#19979;&#38754;&#30041;&#35328;&#36319;&#25105;&#35611;&#21908;&#65281;&#10;&#24076;&#26395;&#22823;&#23478;&#26371;&#21916;&#27489;&#36889;&#37096;&#24433;&#29255;&#21543;&#65281;&#10;&#10;&#9899;&#65039;&#27161;&#31844;"
-    channeltitle "Jer&#20180;"
-    channelid "UClkSKv9-Geah2gwYu7e9jFw"
-    favcount 0
-    viewcount 131174
-    likecount 4485
-    commentcount 273
-    duration "PT10M54S"
-    indegree 4
-    cluster 6
-  ]
-  node
-  [
-    id 401
+    id 311
+    name "401"
     label "LVSeVl7CGy4"
     step 0
     date "2022-06-27T10:30:06Z"
@@ -5635,11 +8728,21 @@ graph
     commentcount 34
     duration "PT15M42S"
     indegree 4
-    cluster 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 402
+    id 312
+    name "402"
     label "ObPOmlbBfDY"
     step 0
     date "2022-07-03T02:01:24Z"
@@ -5653,11 +8756,21 @@ graph
     commentcount 1
     duration "PT17M16S"
     indegree 2
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 403
+    id 313
+    name "403"
     label "JPM6E0S9kW0"
     step 0
     date "2022-02-23T15:45:00Z"
@@ -5671,11 +8784,21 @@ graph
     commentcount 163
     duration "PT20M44S"
     indegree 7
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 404
+    id 314
+    name "404"
     label "9q8SctUnU1g"
     step 0
     date "2022-05-23T21:59:33Z"
@@ -5689,11 +8812,21 @@ graph
     commentcount 37
     duration "PT4M23S"
     indegree 0
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 405
+    id 315
+    name "405"
     label "7ZS4o0OFhBM"
     step 0
     date "2022-06-02T16:11:40Z"
@@ -5707,11 +8840,21 @@ graph
     commentcount 563
     duration "PT21M38S"
     indegree 2
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 406
+    id 316
+    name "406"
     label "d5jM1h3mxZ8"
     step 0
     date "2021-09-12T11:33:07Z"
@@ -5725,11 +8868,21 @@ graph
     commentcount 236
     duration "PT8M8S"
     indegree 1
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 407
+    id 317
+    name "407"
     label "6rCxdr7ZCVs"
     step 0
     date "2022-03-12T15:30:01Z"
@@ -5743,11 +8896,21 @@ graph
     commentcount 221
     duration "PT16M51S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 408
+    id 318
+    name "408"
     label "cY9ZC3MEzAI"
     step 0
     date "2022-06-28T17:02:29Z"
@@ -5761,11 +8924,21 @@ graph
     commentcount 447
     duration "PT16M43S"
     indegree 6
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 409
+    id 319
+    name "409"
     label "EFoO-Z1ye9o"
     step 0
     date "2021-05-09T14:14:16Z"
@@ -5779,11 +8952,21 @@ graph
     commentcount 1618
     duration "PT15M6S"
     indegree 3
-    cluster 13
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 410
+    id 320
+    name "410"
     label "HcbZQcLR97s"
     step 0
     date "2021-11-20T18:33:40Z"
@@ -5797,83 +8980,133 @@ graph
     commentcount 5743
     duration "PT19M38S"
     indegree 3
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 15
   ]
   node
   [
-    id 413
-    label "3AOdfAdvDWQ"
+    id 321
+    name "411"
+    label "4WaOfTkOh3U"
     step 0
-    date "2021-12-15T16:00:05Z"
-    title "Perche NON devi creare NFT"
-    description "In questo video vediamo perch&#232; NON dovresti creare NFT. &#10;&#10;O almeno non lo dovresti fare prima di aver visto bene tutto questo video. Questo perch&#232; a seconda di quali sono i tuoi obiettivi, creare degli NFT potrebbe essere un grave errore. &#10;&#10;Gli NFT sono un fenomeno che sta sconvolgendo il mondo dell'online e stanno entrando prepotentemente nel mercato italiano (esistono gi&#224; diverse community di NFT in Italia). Ovviamente non per il valore artistico, ma, come sempre, per i soldi che questi progetti si portano dietro.&#10;&#10;Giusto per dare un po' di contesto, in questo video inizieremo col dire cosa sono gli NFT, perch&#232; esistono e come le persone fanno i soldi con gli NFT. Inoltre, vedremo i 3 motivi per cui non ha troppo senso creare NFT e vendere NFT.&#10;&#10;Piccola eccezione: se create degli NFT gratis, senza pretese. Ma questa &#232; un'altra storia.&#10;&#10;Potete creare NFT su Opensea, tramite Crypto.com, tramite Binance o qualsiasi altra piattaforma. Allo stesso modo, potete creare NFT 3D oppure tramite Photoshop: non cambia molto. La tipologia di NFT e le piattaforme come Opensea non fanno marketing al posto vostro, quindi dovete trovare una via alternativa per pubblicizzare i vostri NFT.&#10;&#10;Guarda altri video sugli NFT:&#10;&#10;A cosa servono gli NFT: https://www.youtube.com/watch?v=b61aL7Zv4SY&#10;Provo a fare SOLDI ONLINE con gli NFT: https://www.youtube.com/watch?v=bmGNEg8cc2E&#10;NON COMPRARE NFT prima di aver visto questo video: https://www.youtube.com/watch?v=uWU0GMdwbx0&#10;&#10;Vi consiglio di guardare anche i canali di NFT Times, Aprilynne Alter e Brett Malinovski (da cui ho preso le informazioni e alcune idee per questo video).&#10;&#10;00:00 Introduzione&#10;00:58 Cosa cavolo sono?&#10;02:23 Perch&#232; esistono?&#10;03:23 Come ci fa i soldi la gente?&#10;04:11 3 motivi per cui NON dovresti crearli&#10;10:15 Un suggerimento&#10;&#10;#nft #crearenft #nftitalia&#10;______________________________________&#10;&#10;Videocamera - https://amzn.to/3BIQGay&#10;&#10;Luci - https://amzn.to/3BLU6t1&#10;&#10;Microfono - https://amzn.to/3BKMPJX&#10;&#10;Musica - https://www.epidemicsound.com/referra...&#10;&#10;___________________________&#10;&#10;&#128248; Seguimi su IG (@andreaasche):&#10;https://www.instagram.com/andreaasche/&#10;&#10;&#128249; Dai un'occhiata agli altri video:&#10;https://www.youtube.com/channel/UCkFDBHn7uJkLWPEOnxbNL7A"
-    channeltitle "Andrea Aschedamini"
-    channelid "UCkFDBHn7uJkLWPEOnxbNL7A"
+    date "2021-11-06T10:00:01Z"
+    title ""
+    description "&#12304;&#21205;&#30011;&#30446;&#27425;&#12305;&#10;00:00 OP&#10;05:22 NFT&#12392;&#12399;&#65311;&#10;15:16 &#12394;&#12380;&#35441;&#38988;&#12395;&#65311;&#10;19:52 &#21462;&#24341;&#25152;&#10;25:48 &#9312;&#12450;&#12540;&#12488;&#10;35:52 &#9313;&#12513;&#12479;&#12496;&#12540;&#12473;&#10;38:27 &#27425;&#22238;&#20104;&#21578;&#10;&#10;&#12371;&#12398;&#21205;&#30011;&#12398;&#21069;&#32232;&#12539;&#24460;&#32232;&#12399;&#12371;&#12385;&#12425;&#10;&#21069;&#32232;&#65306;https://youtu.be/4WaOfTkOh3U&#10;&#24460;&#32232;&#65306;https://youtu.be/Xj41YNLFuv8&#10;&#10;&#20013;&#30000;&#25958;&#24422;&#12398;Web&#12467;&#12511;&#12517;&#12491;&#12486;&#12451;&#12300;PROGRESS&#12301;&#12399;&#12371;&#12385;&#12425;&#10;https://www.nakataatsuhiko.com/fanclub-salon&#10;&#10;&#20013;&#30000;&#25958;&#24422;&#12398;&#33258;&#20253;&#23567;&#35500;&#12300;&#28151;&#27788;&#12434;&#27891;&#12368;&#12301;&#12399;&#12371;&#12385;&#12425;&#10;https://amzn.to/2Utm3p8&#10;&#10;&#20013;&#30000;&#25958;&#24422;&#12398;&#12488;&#12540;&#12463;&#12481;&#12515;&#12531;&#12493;&#12523;&#12399;&#12371;&#12385;&#12425;&#10;https://www.youtube.com/channel/UC6kSLiIgAcbXNSxf0JHjy5g&#10;&#10;&#32884;&#12367;YouTube&#22823;&#23398; in Voicy&#12399;&#12371;&#12385;&#12425;&#10;https://voicy.jp/channel/1598&#10;&#10;&#20013;&#30000;&#25958;&#24422;&#12503;&#12525;&#12487;&#12517;&#12540;&#12473;&#12539;&#12459;&#12540;&#12489;&#12466;&#12540;&#12512;&#12300;XENO&#12301;&#12399;&#12371;&#12385;&#12425;&#10;&#36890;&#24120;&#29256;&#65306;https://amzn.to/2JznN7w&#10;&#35946;&#33775;&#29256;&#65306;https://amzn.to/2RZf1od&#10;&#10;&#12300;XENO&#12301;&#12486;&#12540;&#12510;&#12477;&#12531;&#12464;&#12399;&#12371;&#12385;&#12425;&#10;https://www.tunecore.co.jp/artist/YUKI-TERADA#r580180&#10;&#10;&#12300;Win Win Wiiin&#12301;&#12486;&#12540;&#12510;&#12477;&#12531;&#12464;&#12399;&#12371;&#12385;&#12425;&#10;https://distrokid.com/hyperfollow/juvenilezinee/let-me-tell-you-now&#10;&#10;&#20013;&#30000;&#25958;&#24422;&#20844;&#24335;&#12469;&#12452;&#12488;&#12399;&#12371;&#12385;&#12425;&#10;https://www.nakataatsuhiko.com&#10;&#10;&#20013;&#30000;&#25958;&#24422;&#12398;&#22971;&#12300;&#31119;&#30000;&#33804;&#12398;YouTube -Moe ch.&#12418;&#12360;&#12481;&#12515;&#12531;- &#12301;&#12399;&#12371;&#12385;&#12425;&#10;https://www.youtube.com/channel/UCxbpQQS6pHnX-Ok-Fp8q7Tw&#10;&#10;&#12371;&#12398;&#21205;&#30011;&#12398;&#21442;&#32771;&#25991;&#29486;&#65306;&#10;&#12300;NFT&#12398;&#25945;&#31185;&#26360; &#12499;&#12472;&#12493;&#12473;&#12539;&#12502;&#12525;&#12483;&#12463;&#12481;&#12455;&#12540;&#12531;&#12539;&#27861;&#24459;&#12539;&#20250;&#35336;&#12414;&#12391; &#12487;&#12472;&#12479;&#12523;&#12487;&#12540;&#12479;&#12364;&#36039;&#29987;&#12395;&#12394;&#12427;&#26410;&#26469;&#12301;&#22825;&#32701;&#20581;&#20171;&#12289;&#22679;&#30000;&#38597;&#21490;&#65288;&#26397;&#26085;&#26032;&#32862;&#20986;&#29256;&#65289;&#10;https://amzn.to/2ZDYgW5&#10;&#8251;Amazon&#12450;&#12477;&#12471;&#12456;&#12452;&#12488;&#12392;&#12375;&#12390;&#19978;&#35352;&#12522;&#12531;&#12463;URL&#12434;&#20351;&#29992;&#12375;&#12390;&#12356;&#12414;&#12377;&#10;&#10;&#21332;&#21147;&#65306;&#26397;&#26085;&#26032;&#32862;&#20986;&#29256;&#10;&#8251;&#12371;&#12398;&#21205;&#30011;&#12399;&#20986;&#29256;&#31038;&#12398;&#35377;&#35582;&#12434;&#21462;&#12387;&#12383;&#19978;&#12391;&#37197;&#20449;&#12375;&#12390;&#12356;&#12414;&#12377;"
+    channeltitle "&#20013;&#30000;&#25958;&#24422;&#12398;YouTube&#22823;&#23398; - NAKATA UNIVERSITY"
+    channelid "UCFo4kqllbcQ4nV83WCyraiw"
     favcount 0
-    viewcount 39100
-    likecount 1726
-    commentcount 132
-    duration "PT11M44S"
-    indegree 3
+    viewcount 2765335
+    likecount 28940
+    commentcount 926
+    duration "PT39M39S"
+    indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
+  ]
+  node
+  [
+    id 322
+    name "414"
+    label "KdJItE9T1zA"
+    step 0
+    date "2022-05-04T12:17:47Z"
+    title "NFT Passive Income | Upcoming NFT Passive Income | Best NFTs"
+    description "NFT Passive Income | Upcoming NFT Passive Income | Best NFTs&#10;&#10;&#128073; Veefriends Official Twitter: https://twitter.com/veefriends&#10;&#128073; DeGods official twitter: https://twitter.com/degodsnft&#10;&#128073; Lux official twitter: https://twitter.com/weareLUX_space&#10;&#128073; Lucky Block Official Twitter: https://twitter.com/luckyblockcoin&#10;&#10;&#128073; Get Your Own Binance Account from here: https://bit.ly/Binance-Register-Now&#10;&#128073; Best Hardware Wallet (Trezor): https://bit.ly/Trezor-Cold-Wallet&#10;&#10;&#128190;Ledger Wallet discount &#128073; https://bit.ly/Ledger-Cold-Wallet&#10;&#10;_____________________________________________________________&#10;&#10;Links mentioned in the video:&#10;&#10;&#9989; Get your own free Binance account: https://bit.ly/Binance-Register-Now&#10;&#9989; Best Hardware Wallet (Ledger Nano): https://bit.ly/Ledger-Cold-Wallet&#10;&#9989; Best Hardware Wallet (Trezor): https://bit.ly/Trezor-Cold-Wallet&#10;&#10;_____________________________________________________________&#10;&#10;Welcome to our NFT Passive Income Video!&#10;&#10;The goal of investing is to create wealth and one of the best ways to do this is by earning passive income. In simple terms, passive income means making your money work for you by investing in assets like NFTs.&#10;&#10;Surprised to hear NFTs and passive income in the same sentence? You aren&#8217;t alone. While all the headlines are about NFTs selling like hotcakes, NFT trade isn&#8217;t the only way to earn returns.&#10;&#10;Truth is, blockchain-based assets like NFTs can in fact fetch you passive income in more than just one way, with certain principles borrowed from traditional assets like bank deposits and real estate.  &#10;&#10;How Do NFTs Work?&#10;An NFT or Non-Fungible Token is a unique and one-of-a-kind way to own digital assets like art, music, literature, or even Tweets! What makes NFTs valuable is their irreplaceable nature. &#10;&#10;For example, you can trade one Bitcoin for another and you&#8217;ll get the exact same thing - a Bitcoin. You can&#8217;t trade one NFT for another and get the same NFT - they&#8217;ll be different. &#10;&#10;Most popular NFTs like the Bored Ape Yacht Club collection are a part of the Ethereum blockchain. As a result, ETH, which is a token native to Ethereum, is used for payment and fees.  &#10;&#10;Furthermore, NFTs are assets which means that they have a value that can rise or fall based on some parameter, which is mostly what another person is willing to pay for it &#224; la a piece of art or a footballer&#8217;s value.   &#10;&#10;5 Ways To Earn Passive Income From NFTs&#10;1. Staking NFTs&#10;Staking simply means locking or depositing your NFTs to earn passive income. The yield that&#8217;s generated through staking is generally known to be distributed in the form of tokens. &#10;&#10;2. Renting Out NFTs&#10;There are several GameFi platforms that allow NFT owners to earn passive income by renting out their digital assets to NFT gamers within the ecosystem. These renting deals are governed by smart contracts. &#10;&#10;3. Royalties From NFTs&#10;NFTs have been one of the most important pillars of the creator led economy that Web 3.0 is building towards. A case in point is the fact that NFT creators can earn royalties even after they&#8217;ve sold their art.&#10;&#10;4. Liquidity Pool&#10;Multiple platforms are known to reward users who provide liquidity with NFTs in return. This NFT reward can be sold by the owner to exit the liquidity pool quickly. &#10;&#10;5. Yield Farming&#10;Yield farming with NFTs is a method where investors look to earn returns on top of returns by leveraging yields earned from one platform and investing them in another through methods like staking. &#10;&#10;I hope you found value in our NFT Passive Income video. Make sure to leave a like on the video if you gained value from it!&#10;&#10;_________________________________________________________________&#10;&#10;The information contained herein is for informational purposes only. Nothing herein shall be construed to be financial legal or tax advice. The content of this video is solely the opinions of the speaker who is not a licensed financial advisor or registered investment advisor. Trading cryptocurrencies poses a considerable risk of loss. The speaker does not guarantee any particular outcome.&#10;&#10;&#128073;&#128073; For Collaboration Contact Us At:  &#8235;collab@ico-investor.com&#10;&#128293; &#128293;  For &#8236;More ICO Projects Check Out Our Site: https://ico-investor.com&#10;&#10;#PassiveIncome #NFT #Crypto&#10;&#10;________________________________________________________________________&#10;&#10;&#127916;Watch our most recent videos:&#10;&#10;&#128293;Mint NFT | Shamagic Masks Review | Shamagic Masks Token&#128071;&#10;https://www.youtube.com/watch?v=4sM-GLZU6Xc&#10;&#10;&#128293;Crypto Bots | Crypto Bots For Beginners | Crypto Bots Explained&#128071;&#10;https://www.youtube.com/watch?v=b2PJza3ebHY&#10;&#10;________________________________________________________________________&#10;&#10;&#9200;TimeStamps&#9200;&#10;&#10;0:00 intro&#10;0:33 NFT Passive Income&#10;9:53 Summary"
+    channeltitle "&#128142; Crypto Investor &#128142;"
+    channelid "UC94qDGHPoXCnvpwJ3vDflqg"
+    favcount 0
+    viewcount 10317
+    likecount 238
+    commentcount 50
+    duration "PT10M10S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 416
-    label "edMCfFUzA-8"
+    id 323
+    name "417"
+    label "MycFDGbYOpY"
     step 0
-    date "2022-06-28T17:00:20Z"
-    title "ESTOY GANANDO 100$ AL DA CON ESTE JUEGO NFT RENTABLE | CryptoVHS"
-    description "ESTOY GANANDO 100$ AL D&#205;A CON ESTE JUEGO NFT RENTABLE | CryptoVHS&#10;&#10;&#128165;CryptoVHS: https://bit.ly/CryptoVHS&#10;&#127760;NFT World: https://nftworldnetwork.com&#10;&#128156;Todos los d&#237;as en directo a las 18:00 (hora espa&#241;ola) hablando sobre juegos NFT: https://www.twitch.tv/gonzalodorrego&#10;&#128226;&#218;nete a nuestra comunidad y ent&#233;rate de todas las noticias del mundo de los juegos NFT: https://discord.gg/KbAarHA9Jn&#10;&#128165;CryptoVHS: https://bit.ly/CryptoVHS&#10;&#128248;Perfil de Instagram: https://www.instagram.com/gonzalodorrego_&#10;&#128248;Perfil de Twitter: https://twitter.com/gonzalodorrego&#10;&#11088;&#65039;Mi Canal de Youtube sobre Marketing Digital: https://www.youtube.com/c/GonzaloDorrego&#10;&#11088;&#65039;Mi Canal de Youtube sobre M&#250;sica: https://www.youtube.com/channel/UCMruGeAvkaraAg0KsfsO6jA&#10;&#128229;Correo de Contacto: dorrego@nftworldnetwork.com&#10;&#128229;Correo de Contacto (Departamento de Marketing): carlos@nftworldnetwork.com&#10;&#10;Disclaimer: No soy asesor financiero, por lo que el contenido proporcionado en este canal es de car&#225;cter educativo, basado en mi propia experiencia. Invierte tu dinero de forma responsable.&#10;&#10;ESTOY GANANDO 100$ AL D&#205;A CON ESTE JUEGO NFT RENTABLE | CryptoVHS"
-    channeltitle "Dorrego"
-    channelid "UCspz8jBjOW1ZDP2GSq2USTA"
+    date "2022-03-15T09:10:22Z"
+    title "2 dakikada NFT satr?"
+    description "NFT nedir? NFT nas&#305;l yap&#305;l&#305;r? NFT nas&#305;l sat&#305;l&#305;r? sorular&#305;n&#305;n cevab&#305;n&#305; ararken, son d&#246;nemlerin Metaverse ile birlikte olmazsa olmazlar&#305;ndan olan NFT blockchain d&#252;nyas&#305;nda kendi NFT eserimizi &#231;izdik ve Opensea'de sat&#305;&#351;a koyduk. T&#252;m sorular&#305;n&#305;z&#305;n cevab&#305; videomuzda.&#10;&#10;NFT sat&#305;&#351;a koyma nas&#305;l yap&#305;l&#305;r? Anlatt&#305;k!&#10;&#10;Dilerseniz s&#246;z&#252; uzatmadan sizleri ''NFT nas&#305;l sat&#305;&#351;a &#231;&#305;kart&#305;l&#305;r?'' sorusunun cevab&#305;n&#305; verdi&#287;imiz videomuz ile ba&#351; ba&#351;a b&#305;rakal&#305;m. &#304;yi seyirler.&#10;&#10;00:00-01:28 NFT nedir?&#10;01:29-03:21 NFT al&#305;m sat&#305;m rehberi&#10;03:22-04:19 NFT nas&#305;l yap&#305;l&#305;r?&#10;04:20-05:03 OpenSea ve MetaMask hesab&#305; a&#231;ma&#10;05:04-07:03 NFT nas&#305;l say&#305;l&#305;r?&#10;07:04-08:00 Sonu&#231;&#10;&#10;Opensea&#8217;ye ula&#351;mak i&#231;in: https://opensea.io/&#10;&#10;#nfttweet #nftcoin #nftparakazanmak #nftnedir #nftfoto&#287;rafsatma #nftmetaverse #nftopensea #nftart #nftartfinance #metaversenftnedir #nftmaymun #nftcoin&#10;&#10;NFT nedir?&#10;&#10;Tam ad&#305;yla Non-Fungible Token olan NFT, kar&#351;&#305;l&#305;ks&#305;z token anlam&#305;na gelir; bu, temel olarak, yaln&#305;zca size ait olan, t&#252;r&#252;n&#252;n tek &#246;rne&#287;i bir dijital varl&#305;k oldu&#287;unu g&#246;steriyor. Hem finans hem de sanat d&#252;nyas&#305;nda pop&#252;ler hale gelen NFT, dijital &#252;r&#252;nlerin sahipli&#287;ini kan&#305;tlayabilen benzersiz bir tan&#305;mlay&#305;c&#305;d&#305;r.&#10;&#10;NFT nas&#305;l yap&#305;l&#305;r? Nas&#305;l sat&#305;l&#305;r?&#10;&#10;Ba&#351;lang&#305;&#231;ta kula&#287;a olduk&#231;a kar&#305;&#351;&#305;k gelen NFT teknolojisi, dijital d&#252;nyan&#305;n sundu&#287;u imkanlar ile daha kolay bir hale geliyor. NFT, Ethereum isimli blok zinciri geli&#351;tiricileri taraf&#305;ndan haz&#305;rlan&#305;yor. Bu blok zincirlerinin kaybolmamas&#305;n&#305; sa&#287;layan ve i&#351;lemlerin kolay bir &#351;ekilde ger&#231;ekle&#351;tirmesine yard&#305;mc&#305; olan platformlar yer al&#305;yor.&#10;&#10;Discord sunucumuza &#252;ye olun ve bizimle ileti&#351;imde kal&#305;n: https://bit.ly/SDNDiscordYouTube&#10;&#10;Teknoloji videolar&#305; ve teknolojiye dair her &#351;ey i&#231;in kanal&#305;m&#305;za ABONE Olun &#9658;&#9658;https://goo.gl/ylUFmZ&#10;&#10;T&#252;m &#304;nceleme videolar&#305;m&#305;z&#305; buradan izleyebilirsiniz &#10;&#9658;&#9658; https://goo.gl/IIKYIK&#10;&#10;ShiftDelete.Net&#8216;i t&#252;m sosyal a&#287;larda takip edin ;&#10;&#10;Instagram &#9658;&#9658; https://goo.gl/r4AJDv&#10;Facebook &#9658;&#9658; https://goo.gl/k1D1JL&#10;Twitter &#9658;&#9658;https://goo.gl/vTwhws&#10;SDN Forum &#9658;&#9658; https://bit.ly/2AQ2DR7&#10;&#10;ShiftDelete.Net YouTube hesab&#305;, T&#252;rkiye'nin en b&#252;y&#252;k teknoloji sitesinin video kanal&#305;d&#305;r.&#10;&#10;ShiftDelete.Net ile en yeni teknoloji haberlerine, videolu olarak ula&#351;abileceksiniz."
+    channeltitle "ShiftDelete.Net"
+    channelid "UCzNu79N8Lq1wUY52MkhWKSA"
     favcount 0
-    viewcount 3648
-    likecount 141
-    commentcount 58
-    duration "PT7M24S"
-    indegree 3
-    cluster 9
+    viewcount 345327
+    likecount 13138
+    commentcount 624
+    duration "PT8M1S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 419
-    label "oamq9Z-dtH4"
+    id 324
+    name "420"
+    label "lo1dhDHUSqo"
     step 0
-    date "2022-02-27T16:01:00Z"
-    title "Wie reich werde ich mit NFTs in 30 Tagen?"
-    description "NFTs sind letzter Zeit voll im Hype. Prominente geben viel Geld f&#252;r digitale Bilder von Affen aus. Aber geht es bei NFTs eigentlich um Kunst? Oder eher um das schnelle Geld? Das will ich herausfinden und mache ein Selbstexperiment: Ich investiere in NFTs und schaue wie viel Gewinn ich damit in 30 Tagen machen kann.&#10;&#10;Sichert euch 10&#8364; Startguthaben bei Timeless: https://connect.timeless.investments/tomatolix (Werbung)&#10;&#10;Vielen Dank an: &#10;Felix: https://www.youtube.com/c/FelixFischerDE&#10;Jakob: https://www.youtube.com/c/JakobSchwerdtfeger&#10;Galerie Bentler: https://www.galerie-bentler.de/&#10;&#10;Folgt mir gerne hier:&#10;&#9658; INSTAGRAM @tomatolix  http://www.instagram.com/tomatolix&#10;&#9658; TWITCH https://www.twitch.tv/tomatolix&#10;&#9658; DISCORD discord.id/tomatolix&#10;&#9658; TWITTER @tomatolix http://www.twitter.com/tomatolix&#10;&#9658; TIKTOK @tomatolix https://vm.tiktok.com/JJoQMJD/&#10;&#9658; FACEBOOK Tomatolix http://www.facebook.com/Tomatolix &#10;&#10;Hier kannst du meine Inhalte unterst&#252;tzen:&#10;&#9658; Kanalmitglied werden: https://www.youtube.com/channel/UCNCktfoFAXtXnMlhjyc9SPA/join&#10;&#9658; Paypal: https://www.paypal.me/Tomatolix&#10;&#10;Mein Equipment:&#10;Kameras:&#10;Meine Hauptkamera: *https://amzn.to/30Rp1RV&#10;Meine gro&#223;e Vlogkamera: *https://amzn.to/2IeV3PR&#10;Meine kleine Vlogkamera: *https://amzn.to/2VZJH7m&#10;GoPro: *https://amzn.to/2EJKWlm&#10;&#10;Objektive:&#10;Standartobjektiv auf der Hauptkamera: *https://amzn.to/2I8fJsP&#10;Objektiv an der Vlogkamera: *https://amzn.to/3bvYtL3&#10;Lieblingsobjektiv: *https://amzn.to/2EKZml0&#10;&#10;Ton:&#10;Mikrofon an der Vlogkamera: *https://amzn.to/2EMyAJ9&#10;Ansteckmikrofon: *https://amzn.to/2I6b4I0&#10;Mikrofon f&#252;r Voice Over: *https://amzn.to/2YhKwJN&#10;&#10;Schnitt + Postproduktion:&#10;Mein iMac: *https://amzn.to/30YYt0T&#10;&#10;Musik: Epidemic Sound - &#220;ber diesen Link kannst du die Audio Bibliothek 30 Tage kostenlos testen: *http://share.epidemicsound.com/pRfQg&#10;&#10;*Hierbei handelt es sich um Affiliate Links. Wenn du dich dar&#252;ber anmeldest oder ein Produkt kaufst, bezahlst du nicht mehr, aber ich bekomme eine Provision."
-    channeltitle "tomatolix"
-    channelid "UCNCktfoFAXtXnMlhjyc9SPA"
+    date "2022-06-25T11:00:33Z"
+    title ""
+    description "07/16(&#22303;)&#12395;&#12300;iPadmateNFT&#12301;&#12434;&#30330;&#22770;&#38283;&#22987;&#12375;&#12414;&#12377;&#65281;&#65281;&#21021;&#22238;&#12475;&#12540;&#12523;&#12399;25&#20491;&#12434;&#20104;&#23450;&#12375;&#12390;&#12427;&#12398;&#12391;&#27005;&#12375;&#12415;&#12395;&#12375;&#12390;&#12390;&#12367;&#12384;&#12373;&#12356;&#9825;&#10;&#10;amity_sensei&#12398;&#12362;&#12375;&#12426;NFT&#12467;&#12524;&#12463;&#12471;&#12519;&#12531;&#10;https://opensea.io/collection/bikini-beach-bootysandwich&#10;&#10;&#10;NFT&#12398;&#22987;&#12417;&#26041;(&#12502;&#12525;&#12464;)&#10;https://www.fisco.co.jp/media/crypto/metamask-about/&#10;&#10;Coincheck&#10;https://coincheck.com&#10;Metamask&#10;https://metamask.io&#10;&#10;Opensea&#10;https://opensea.io/&#10;Fundation&#10;https://foundation.app/&#10;SuperRare&#10;https://superrare.com/&#10;&#10;NFT&#12398;&#12362;&#12377;&#12377;&#12417;&#12502;&#12525;&#12464;&#9312; Tochi blog&#10;https://to-chi.org/&#10;&#10;NFT&#12398;&#12362;&#12377;&#12377;&#12417;&#12502;&#12525;&#12464;&#9313; &#12495;&#12521;&#12506;&#12540;&#12502;&#12525;&#12464;&#10;https://sekoiine.com/&#10;&#10;&#10;&#12304;iPadmate kids&#12305;&#10;&#26085;&#26412;&#21021;&#65281;iPad&#23554;&#38272;&#12398;&#23376;&#12393;&#12418;&#21521;&#12369;&#10;&#12463;&#12522;&#12456;&#12452;&#12486;&#12451;&#12502;&#12473;&#12463;&#12540;&#12523;&#12434;&#20140;&#37117;&#12391;&#12399;&#12376;&#12417;&#12414;&#12377;&#65281;&#10;https://kids.ipadmate.jp//&#10;&#10;iPadmate&#32057;&#20171;&#21205;&#30011;&#10;https://youtu.be/QrVLHCGvUOA&#10;https://kids.ipadmate.jp//&#10;&#10;&#9670;amity_sensei&#12398;iPad&#26412;&#10;&#12300;iPad&#12391;&#25551;&#12371;&#12358;&#65281;Procreate&#12452;&#12521;&#12473;&#12488;&#12486;&#12463;&#12491;&#12483;&#12463;&#12301;&#10;https://amzn.to/3Oa27h4&#10;&#12300;iPad&#12463;&#12522;&#12456;&#12452;&#12486;&#12451;&#12502;&#12301;&#10;https://amzn.to/2W9pT3T&#10;&#12300;Illustrator for iPad&#12463;&#12522;&#12456;&#12452;&#12486;&#12451;&#12502;&#12502;&#12483;&#12463;&#12301;&#10;https://amzn.to/2Ush1bY&#10;&#10;&#9670; NFT collection&#10;&#12487;&#12472;&#12479;&#12523;&#12450;&#12540;&#12488;&#36009;&#22770;&#12375;&#12390;&#12356;&#12414;&#12377;&#10;https://opensea.io/collection/bikini-beach-bootysandwich&#10;&#10;&#9670;&#26377;&#26009;&#12481;&#12517;&#12540;&#12488;&#12522;&#12450;&#12523;&#12304;Udemy&#12305;&#10;https://www.udemy.com/user/amity/&#10;&#10;&#9670;SNS&#10;Twitter&#10;https://twitter.com/amity_sensei&#10;Instagrm&#10;https://www.instagram.com/amity_sensei/&#10;&#20844;&#24335;web&#10;https://amitysensei.com&#10;Store &#12464;&#12483;&#12474;&#38;&#12487;&#12472;&#12479;&#12523;&#12450;&#12475;&#12483;&#12488;&#36009;&#22770;&#10;https://amity-sensei.stores.jp&#10;&#10;//////////////////////////////////////////////////////////////////////////////&#10;&#10;amity_sensei&#10;&#12450;&#12540;&#12488;&#12487;&#12451;&#12524;&#12463;&#12479;&#12540; / iPad Youtuber / &#26666;&#24335;&#20250;&#31038;olio&#20195;&#34920; &#10;&#20140;&#37117;&#29983;&#12414;&#12428;&#12290;&#12452;&#12462;&#12522;&#12473;&#12398;&#32654;&#34899;&#22823;&#23398;&#12395;&#12390;&#12487;&#12472;&#12479;&#12523;&#38;&#12486;&#12463;&#12494;&#12525;&#12472;&#12540;&#12450;&#12540;&#12488;&#12434;&#23398;&#12403;&#12289;iPad&#12391;&#12398;&#12487;&#12470;&#12452;&#12531;&#21046;&#20316;&#27963;&#21205;&#12434;&#38283;&#22987;&#12290;&#23398;&#29983;&#12398;&#12363;&#12383;&#12431;&#12425;&#12289;&#12525;&#12531;&#12489;&#12531;&#12398;&#26085;&#26412;&#20154;No.1&#12502;&#12525;&#12460;&#12540;&#12392;&#12375;&#12390;&#12418;&#27963;&#21205;&#12290;&#24112;&#22269;&#24460;&#12289;2017&#24180;&#12395;&#22806;&#36039;&#31995;&#24195;&#21578;&#20195;&#29702;&#24215;&#12395;&#20837;&#31038;&#12290;&#12381;&#12398;&#24460;&#12289;Adobe MAX JAPAN 2018 &#12473;&#12500;&#12540;&#12459;&#12540;&#20986;&#28436;&#12420;YouTube&#12481;&#12515;&#12531;&#12493;&#12523;&#38283;&#35373;&#12434;&#27231;&#12395;2019&#24180;&#12395;&#29420;&#31435;&#12289;&#26666;&#24335;&#20250;&#31038;olio&#12434;&#35373;&#31435;&#12290;&#12458;&#12531;&#12521;&#12452;&#12531;&#12469;&#12525;&#12531;&#12300;iPadmate&#12301;&#12398;&#36939;&#21942;&#12434;&#32076;&#12390;&#12289;&#29694;&#22312;&#12399;iPad&#12475;&#12511;&#12490;&#12540;&#35611;&#24107;&#12394;&#12393;&#12289;&#12463;&#12522;&#12456;&#12452;&#12479;&#12540;&#12420;&#20225;&#26989;&#12398;&#20685;&#12365;&#26041;&#12434;&#22793;&#12360;&#12427;&#12527;&#12540;&#12463;&#12487;&#12470;&#12452;&#12531;&#12420;&#12467;&#12531;&#12469;&#12523;&#26989;&#12434;&#34892;&#12387;&#12390;&#12356;&#12427;&#12290;&#10;https://amitysensei.com&#10;&#10;&#9660;&#12362;&#20181;&#20107;&#20381;&#38972;&#12399;&#12371;&#12385;&#12425;&#12398;&#12513;&#12540;&#12523;&#12450;&#12489;&#12524;&#12473;&#12395;&#12362;&#39000;&#12356;&#12375;&#12414;&#12377;&#12290;&#10;pr@amitysensei.com&#10;&#10;#amity_sensei #iPadmate #NFT"
+    channeltitle "amity_sensei"
+    channelid "UCcXtyjK8wagT5LWS5bBgPPQ"
     favcount 0
-    viewcount 544720
-    likecount 28522
-    commentcount 1187
-    duration "PT18M8S"
-    indegree 5
-    cluster 13
+    viewcount 38279
+    likecount 1999
+    commentcount 110
+    duration "PT21M24S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 15
   ]
   node
   [
-    id 421
-    label "UMZEvjdh9U4"
-    step 0
-    date "2022-06-13T16:44:41Z"
-    title "5  $100-$200.000)"
-    description "&#1052;&#1086;&#1081; &#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1050;&#1072;&#1085;&#1072;&#1083;: https://t.me/+0qk67qJs5TM1ZGFi !&#10;&#1058;&#1099; &#1053;&#1072;&#1081;&#1076;&#1077;&#1096;&#1100; &#1074;&#1089;&#1077; &#1057;&#1089;&#1099;&#1083;&#1082;&#1080; &#1090;&#1072;&#1084; &#10;-----&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1096;&#1080;&#1089;&#1100; &#1080; &#1055;&#1086;&#1089;&#1090;&#1072;&#1074;&#1100; &#1051;&#1072;&#1081;&#1082; !&#10;-----&#10;#nft #bayc #cryptoart #&#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072; #&#1085;&#1092;&#1090; #&#1076;&#1077;&#1085;&#1100;&#1075;&#1080; #&#1082;&#1088;&#1080;&#1087;&#1090;&#1072; #crypto #cryptocurrency #boredape #bitcoin #ethereum #garyvee #brettmalinowski #cryptopunks #&#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1099; #&#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082; #&#1090;&#1088;&#1077;&#1081;&#1076;&#1080;&#1085;&#1075; #trading"
-    channeltitle "Crypto &#1063;&#1080;&#1085;&#1072;"
-    channelid "UCsIG7m62YUJi_52oAlQ9unQ"
-    favcount 0
-    viewcount 7241
-    likecount 454
-    commentcount 41
-    duration "PT14M36S"
-    indegree 7
-    cluster 11
-  ]
-  node
-  [
-    id 422
+    id 325
+    name "422"
     label "xxv2YaS2SnU"
     step 0
     date "2021-09-14T23:35:25Z"
@@ -5887,11 +9120,21 @@ graph
     commentcount 319
     duration "PT26M11S"
     indegree 2
-    cluster 1
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 423
+    id 326
+    name "423"
     label "I76U9m0EtUY"
     step 0
     date "2022-03-13T14:50:56Z"
@@ -5905,11 +9148,21 @@ graph
     commentcount 99
     duration "PT8M48S"
     indegree 20
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 424
+    id 327
+    name "424"
     label "UbOBJPNiYNQ"
     step 0
     date "2022-02-13T09:49:01Z"
@@ -5923,11 +9176,21 @@ graph
     commentcount 131
     duration "PT8M3S"
     indegree 11
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 425
+    id 328
+    name "425"
     label "FrVCjWI_7g4"
     step 0
     date "2022-03-13T18:32:06Z"
@@ -5941,11 +9204,21 @@ graph
     commentcount 199
     duration "PT21M12S"
     indegree 2
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 426
+    id 329
+    name "426"
     label "rD_EwtNpu3M"
     step 0
     date "2022-03-06T16:01:46Z"
@@ -5959,11 +9232,21 @@ graph
     commentcount 620
     duration "PT25M34S"
     indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 427
+    id 330
+    name "427"
     label "XxKha-oN_u8"
     step 0
     date "2022-01-27T04:00:06Z"
@@ -5977,11 +9260,21 @@ graph
     commentcount 846
     duration "PT14M29S"
     indegree 2
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 428
+    id 331
+    name "428"
     label "7wDTTaQM_SY"
     step 0
     date "2022-01-27T05:32:31Z"
@@ -5995,11 +9288,21 @@ graph
     commentcount 594
     duration "PT4M45S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 429
+    id 332
+    name "429"
     label "5CFDCTo0bLI"
     step 0
     date "2021-03-20T20:39:49Z"
@@ -6013,65 +9316,105 @@ graph
     commentcount 3035
     duration "PT3M3S"
     indegree 25
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 432
-    label "eIilwLhc0C0"
+    id 333
+    name "430"
+    label "wZL95v-f4AQ"
     step 0
-    date "2021-11-11T13:28:38Z"
-    title "Bluemoon - The Worlds First Collaborative NFT Marketplace With An Integrated Metaverse!"
-    description "Bluemoon is the first collaborative NFT Marketplace with an integrated Metaverse.&#10;&#10;NFT &#38; VR technology is an opportunity to revolutionise the digital world and the Bluemoon platform is a tool for these changes.&#10;&#10;&#9889; Legion Network is the first super blockchain ecosystem that combines the best services in the industry in one Super App. &#10;&#10;From Crypto wallets to NFTs, all the way to Gaming and Software as a service.&#10;&#10;&#9854; Legion Network Explainer Video:&#10;https://youtu.be/e9Ue_lOpbLk&#10;&#10; Our official channels:&#10;&#10;&#127757; Website: https://www.legionnetwork.io &#10;&#10;&#128172; Telegram Group: https://t.me/LegionNetworkCommunity&#10;&#10;&#128488; Telegram Channel: https://t.me/LegionNetworkOfficial&#10;&#10;&#128142; Twitter: https://twitter.com/LegionNetwork__&#10;&#10;&#128248; Legion Network Instagram: https://www.instagram.com/legionnetwork.io&#10;&#10;&#128309; Bluemoon Instagram: https://www.instagram.com/bluemoon.inc&#10;&#10;&#129302; Reddit Page: https://www.reddit.com/r/legionnetwork_io&#10;&#10;&#128421; Medium : https://legionnetwork.medium.com&#10;&#10;&#9889;&#65039; Contract address:&#10;https://bscscan.com/token/0x9096b4309224d751fcb43d7eb178dcffc122ad15"
-    channeltitle "Legion Network"
-    channelid "UCynFmM09CqE5rmzlzOB1UNQ"
+    date "2022-07-01T16:38:34Z"
+    title "Polaco Reacciona s"
+    description "#tempo #polakan #tiraera &#10;Suscribete  ya  a TuLatinTV &#8594;&#13;&#10;https://www.youtube.com/channel/UClq4M4czl6s7xFJ1J65um0w?disable_polymer=true&#13;&#10;&#13;&#10;=====================================================&#13;&#10;&#13;&#10;Suscribete A Nuestro Segundo Canal: ---- &#13;&#10;-&#187;https://www.youtube.com/channel/UCznzDJ9AhhGRr-zSBcJXLYg?view_as=subscriber&#13;&#10;&#13;&#10;=====================================================&#13;&#10;&#13;&#10;&#191;Necesitas promoci&#243;n? WhatsApp: + 34635069534&#13;&#10;&#13;&#10;=====================================================&#13;&#10;&#13;&#10;&#9679; Suscribete A Youtube &#8594; https://www.youtube.com/user/ Top Mundial &#13;&#10;&#13;&#10;======================================================&#13;&#10;&#13;&#10;WHATSAPP: +34635069534 espa&#241;a&#13;&#10;&#13;&#10;======================================================&#13;&#10;&#13;&#10;Instagram: -----&#187; https://www.instagram.com/cibaomusical/&#13;&#10;&#13;&#10;======================================================&#13;&#10;&#13;&#10;Facebook: -----&#187;https://www.facebook.com/martineztifa&#13;&#10;&#13;&#10; =====================================================&#13;&#10;&#13;&#10;Twitter: -----&#187;https://twitter.com/fcomartineztifa"
+    channeltitle "Top Mundial"
+    channelid "UCKJqrDV9rr9N4AhwH6KS3ig"
     favcount 0
-    viewcount 133224
-    likecount 40545
-    commentcount 22636
-    duration "PT2M35S"
+    viewcount 26100
+    likecount 494
+    commentcount 151
+    duration "PT9M28S"
+    indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
+  ]
+  node
+  [
+    id 334
+    name "433"
+    label "OQu8X8yeEjs"
+    step 0
+    date "2022-07-10T09:57:05Z"
+    title ")"
+    description "&#12363;&#12381;&#12388;&#12540;&#12367;&#12435;Twitter&#10;https://twitter.com/kasotu2525&#10;&#10;&#10;--------------------------&#10;&#12304;&#30446;&#27425;&#12305;&#10;0:00 &#12458;&#12540;&#12503;&#12491;&#12531;&#12464;&#10;0:15 NFT&#12466;&#12540;&#12512;&#12392;&#12399;&#10;&#10;&#128081;&#20170;&#36913;&#12398;NFT&#12466;&#12540;&#12512;TOP10&#128081;&#10;&#10;0:38 10&#20301;&#65306;Polka Fantasy&#10;https://polkafantasy.com/jp/&#10;&#10;1:06 9&#20301;&#65306;Sleefi&#10;https://sleefi.com/&#10;&#10;1:32 8&#20301;&#65306;APEMOVE&#10;https://apemove.io/&#10;&#10;2:02 7&#20301;&#65306;Metarun&#10;https://twitter.com/MetarunGame&#10;&#10;2:27 6&#20301;&#65306;Mini mini Dungeon&#10;https://minidungeon.xyz/&#10;&#10;2:58 5&#20301;&#65306;Crypto Ninja Party&#10;https://twitter.com/c_ninja_party&#10;&#10;3:26 4&#20301;&#65306;Amazy&#10;https://amazy.io/&#10;&#10;3:55 3&#20301;&#65306;MOVEZ&#10;https://www.movez.me/&#10;&#10;4:21 2&#20301;&#65306;SpringGame&#10;https://spring.game/&#10;&#10;4:48 1&#20301;&#65306;Befitter&#10;https://befitter.io/&#10;&#10;5:18 &#12456;&#12531;&#12487;&#12451;&#12531;&#12464;&#10;&#10;This is the NFT game ranking in Japan.&#10;You can find out what's trending in Japan with this video.&#10;&#10;---------------------------------------&#10;&#10;&#128071;Bybit&#21475;&#24231;&#38283;&#35373;&#12399;&#12467;&#12481;&#12521;&#10;https://partner.bybit.com/b/kasotu2525&#10;&#10;--------------------------------------&#10;&#10;&#38899;&#27005;&#10;&#10;&#39442;&#38899;&#12398;&#12394;&#12356;&#19990;&#30028; &#27096;&#10;http://noiselessworld.net/&#10;&#10;------------------------------------&#10;&#10;&#9993;If you would like to contact me, send me a DM on Twitter.&#10;&#10;-------------------------------------&#10;&#25237;&#36039;&#12399;&#33258;&#24049;&#36012;&#20219;&#12391;&#12377;&#12290;&#10;&#12371;&#12398;&#21205;&#30011;&#12399;&#25237;&#36039;&#21161;&#35328;&#12434;&#30446;&#30340;&#12392;&#12375;&#12383;&#12418;&#12398;&#12391;&#12399;&#12372;&#12374;&#12356;&#12414;&#12379;&#12435;&#12290;&#10;&#24517;&#12378;&#12372;&#33258;&#36523;&#12391;&#35519;&#12409;&#12390;&#21028;&#26029;&#12375;&#12390;&#12367;&#12384;&#12373;&#12356;&#12290;"
+    channeltitle "&#12363;&#12381;&#12388;&#12540;&#12367;&#12435;"
+    channelid "UC2qqFsNVWOLQG1fXTJ-9fLg"
+    favcount 0
+    viewcount 3387
+    likecount 64
+    commentcount 3
+    duration "PT6M"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 435
-    label "OCcaJm9Ngug"
+    id 335
+    name "436"
+    label "gEyixeVw37Y"
     step 0
-    date "2022-07-11T16:00:24Z"
-    title "NFT "
-    description "NFT &#1073;&#1077;&#1079; &#1074;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1081;, &#1086;&#1093;&#1086;&#1090;&#1080;&#1084;&#1089;&#1103; &#1079;&#1072; NFT &#1080;&#1085;&#1090;&#1077;&#1088;&#1077;&#1089;&#1085;&#1099;&#1093; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1086;&#1074;. &#1048;&#1085;&#1090;&#1077;&#1088;&#1077;&#1089;&#1085;&#1099;&#1077; &#1090;&#1077;&#1089;&#1090;&#1085;&#1077;&#1090;&#1099; &#1074; &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1093; &#1091;&#1095;&#1072;&#1089;&#1090;&#1074;&#1091;&#1102;.&#10;Iguverse - https://wn.nr/fnHHX4&#10;https://airdrop.p12.games/?code=zA_D__nT&#10;https://galaxy.eco/campaigns/&#10;Starknet:&#10;StarkGate: https://teletype.in/@whitelist1/StarkGateTestnet&#10;Magnety: https://teletype.in/@idoresearch/magnety&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; OKX &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 30% &#1085;&#1072; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1099;&#1077; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080; - https://www.okx.com/join/15567070&#10;&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100; &#1085;&#1072; &#1085;&#1072;&#1096; &#1082;&#1072;&#1085;&#1072;&#1083; &#1074; &#1090;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084;&#1077;&#10;https://t.me/cryptomoney_chanel&#10;&#10;&#1045;&#1089;&#1083;&#1080; &#1091; &#1074;&#1072;&#1089; &#1077;&#1089;&#1090;&#1100; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1099;, &#1079;&#1072;&#1076;&#1072;&#1074;&#1072;&#1081;&#1090;&#1077; &#1080;&#1093; &#1074; &#1085;&#1072;&#1096;&#1077;&#1084; Telegram &#1095;&#1072;&#1090;&#1077;: https://t.me/joinchat/n1sOIbIgAsI4ZWY9&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; Binance &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 10% &#1085;&#1072; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1102; - https://accounts.binance.com/ru/register?ref=DR2SD5B7&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; Binance Futures &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 10% &#1085;&#1072; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1102; - https://www.binance.com/en/futures/ref/52158184&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; FTX &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; &#1085;&#1072; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1099;&#1077; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080;&#10;https://ftx.com/#a=4812858 &#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; Gate &#1089;&#1086; &#1089;&#1082;&#1080;&#1076;&#1082;&#1086;&#1081; 20% &#1085;&#1072; &#1090;&#1086;&#1088;&#1075;&#1086;&#1074;&#1099;&#1077; &#1082;&#1086;&#1084;&#1080;&#1089;&#1089;&#1080;&#1080;&#10;https://www.gate.io/ref/3331789&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1085;&#1072; &#1073;&#1080;&#1088;&#1078;&#1077; Kucoin&#10;https://www.kucoin.com/ucenter/signup?rcode=7JKah8&#10;&#10;&#1056;&#1077;&#1075;&#1080;&#1089;&#1090;&#1088;&#1072;&#1094;&#1080;&#1103; &#1074; Advcash&#10;http://wallet.advcash.com/referral/226dfbb7-3606-4a71-a467-89705be915d9&#10;&#10;&#1050;&#1091;&#1087;&#1080;&#1090;&#1100; &#1093;&#1086;&#1083;&#1086;&#1076;&#1085;&#1099;&#1081; &#1082;&#1086;&#1096;&#1077;&#1083;&#1105;&#1082; SafePal S1 &#1085;&#1072; &#1086;&#1092;&#1080;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1089;&#1072;&#1081;&#1090;&#1077; - &#10;https://store.safepal.io/safepal-s1-hardware-wallet.html?ref=cryptomoney2&#10;&#10;&#1050;&#1091;&#1087;&#1080;&#1090;&#1100; Ledger Nano X &#1085;&#1072; &#1086;&#1092;&#1080;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1089;&#1072;&#1081;&#1090;&#1077;&#10;https://shop.ledger.com/pages/ledger-nano-x?r=88cd02fa20fe&#10;&#10;&#1050;&#1091;&#1087;&#1080;&#1090;&#1100; Ledger Nano S &#1085;&#1072; &#1086;&#1092;&#1080;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1089;&#1072;&#1081;&#1090;&#1077;&#10;https://shop.ledger.com/products/ledger-nano-s?r=88cd02fa20fe&#10;&#10;&#1055;&#1086; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1072;&#1084; &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1072;: &#10;crypto.money.0013@gmail.com&#10;&#10;&#1042;&#1080;&#1076;&#1077;&#1086; &#1089;&#1076;&#1077;&#1083;&#1072;&#1085;&#1086; &#1074; &#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1077; Movavi - &#1089;&#1089;&#1099;&#1083;&#1082;&#1072; https://cutt.ly/jjk9Nxl"
-    channeltitle "Crypto Money"
-    channelid "UCE5vamtZ4K8hqZpXUtqn61g"
+    date "2022-07-12T02:08:44Z"
+    title "June 12th TownStar NFT Competition Meta Explained"
+    description "Again, big thanks to DubStepRod check out his Youtube for all the best TownStar Goodness https://www.youtube.com/c/DubstepRod_&#10;TownStar PlayBook  https://docs.google.com/spreadsheets/d/1QrKzA3ntcGVeDzg4QpzojrZqc7pX6U0U4Q1wd9TeZt0/edit#gid=276803189"
+    channeltitle "Drac Grinds Gala"
+    channelid "UCvmgfEPjOX2pShyj_y3qjwg"
     favcount 0
-    viewcount 494
-    likecount 42
+    viewcount 182
+    likecount 21
     commentcount 4
-    duration "PT5M41S"
+    duration "PT14M36S"
     indegree 0
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 437
-    label "2x__kXHy0xA"
-    step 0
-    date "2022-05-28T23:15:01Z"
-    title "FAMOSO YOUTUBER LO PIERDE TODO EN SUS INVERSIONES EN NFT Y TRAS ESTO HACE UN LLAMADO AL MUNDO"
-    description "FAMOSO YOUTUBER LO PIERDE TODO EN SUS INVERSIONES EN NFT Y TRAS ESTO HACE UN LLAMADO AL MUNDO&#10;&#10;tc_oficial:&#10;https://www.tiktok.com/@tucosmopolis_ok?lang=es&#10;&#10;DMeNT:&#10;https://www.youtube.com/channel/UCnoGxu6YeYbRWBzvmkT1QkA&#10;&#10;MARCO ANTONIO C:&#10;https://www.youtube.com/channel/UCgx7UKm4iAWPxnH1kxO2OuA&#10;&#10;ARCHIVOS MIEDO: &#10;https://www.youtube.com/channel/UCmIKpIgAbZ76Lts9c7QonXQ&#10;&#10;ANIMEMANIACOS:&#10;https://www.youtube.com/c/AniMeMaNiAcOs"
-    channeltitle "Tu COSMOPOLIS"
-    channelid "UCo4ywJQXfUIB0lCBpczW3cA"
-    favcount 0
-    viewcount 171165
-    likecount 13173
-    commentcount 828
-    duration "PT4M14S"
-    indegree 0
-    cluster 9
-  ]
-  node
-  [
-    id 438
+    id 336
+    name "438"
     label "bfNqgal5juA"
     step 0
     date "2021-12-03T15:33:21Z"
@@ -6085,11 +9428,21 @@ graph
     commentcount 259
     duration "PT13M"
     indegree 7
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 439
+    id 337
+    name "439"
     label "K5K8RhuTdk0"
     step 0
     date "2022-07-11T14:41:44Z"
@@ -6103,11 +9456,21 @@ graph
     commentcount 20
     duration "PT1M49S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 440
+    id 338
+    name "440"
     label "jE10-Jm92Hk"
     step 0
     date "2022-04-25T16:00:24Z"
@@ -6121,11 +9484,21 @@ graph
     commentcount 215
     duration "PT4M51S"
     indegree 5
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 441
+    id 339
+    name "441"
     label "Z4adfaLxOVk"
     step 0
     date "2022-06-04T04:00:22Z"
@@ -6139,29 +9512,49 @@ graph
     commentcount 6
     duration "PT21M27S"
     indegree 6
-    cluster 12
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 446
-    label "YuQCNNhnehA"
+    id 340
+    name "442"
+    label "sntzhxg6okQ"
     step 0
-    date "2022-03-30T10:30:07Z"
-    title "NFT..."
-    description "&#36319;&#22823;&#23478;&#32842;&#32842;&#26368;&#36817;&#22312;NFT&#24066;&#22580;&#30475;&#21040;&#30340;&#19968;&#20123;&#29694;&#35937;&#65292;&#22823;&#23478;&#19979;&#25163;&#20043;&#21069;&#19968;&#23450;&#35201;&#35641;&#24910;&#21834;!&#10;CoolWallet Pro&#29694;&#22312;&#26032;&#22686;&#20102;NFT&#21151;&#33021;&#65292;&#25972;&#21512;&#36914;OpenSea&#21644;Rarible&#20841;&#22823;NFT&#20132;&#26131;&#25152;&#65292;&#35731;&#20320;&#21487;&#20197;&#20445;&#35703;&#21152;&#23494;&#36008;&#24163;&#36039;&#29986;&#33287;NFT&#30340;&#23433;&#20840;! &#23601;&#31639;&#38651;&#33126;&#34987;&#39405;&#20063;&#19981;&#29992;&#25812;&#24515;&#37666;&#21253;&#34987;&#30428;~&#10;&#24163;&#22280;&#34892;&#36208;&#24517;&#20633;&#31070;&#22120;&#21834;! &#24555;&#40670;&#19979;&#38754;&#36899;&#32080;&#21435;&#30475;&#30475;!&#10;https://www.coolwallet.io/zh-hant/product/coolwallet-pro/?ref=chuchushoe     &#10;#&#20919;&#37666;&#21253;&#10;#&#21152;&#23494;&#36008;&#24163;&#10;#NFT&#10;&#65290;&#26412;&#24433;&#29255;&#20839;&#23481;&#19981;&#27083;&#25104;&#20219;&#20309;&#25237;&#36039;&#24314;&#35696;&#65292;&#25237;&#36039;&#21069;&#25033;&#20808;&#20102;&#35299;&#30456;&#38364;&#39080;&#38570;&#10;&#21886;&#38899;&#22909;&#26360; &#9654; https://reurl.cc/NX5ED5&#10;&#21886;&#21886;&#38795;&#25972;&#29702;&#36039;&#26009;&#30340;&#31192;&#35363; &#9654; https://bit.ly/2vi0urX&#10;&#10;&#9660;&#21886;&#21886;&#38795;&#30340;&#20154;&#27683;&#24433;&#29255;&#9660;&#10;&#12298;32&#34903;&#30340;&#20605;&#37396;&#22825;&#25165;&#12299;&#20605;&#37396;&#22823;&#24107;&#30340;&#25925;&#20107;&#10;https://youtu.be/9lKe9irDIDw&#10;Chrome&#23567;&#24656;&#40845;&#30340;&#31192;&#23494;!&#10;https://youtu.be/besQJCZ20j4&#10;&#22312;&#36335;&#19978;&#25791;&#21040;&#38568;&#36523;&#30879;&#65292;&#20320;&#26371;...?&#10;https://bit.ly/2ytI7E5&#10;&#20420;&#32645;&#26031;&#26041;&#22602;&#20063;&#26377;&#19990;&#30028;&#20896;&#36557;!?&#10;https://youtu.be/Dh9VaezvVnU&#10;YouTube&#30340;&#33258;&#21205;&#25773;&#25918;&#21151;&#33021;&#65292;&#25773;&#21040;&#26368;&#24460;&#26371;&#30475;&#21040;&#20160;&#40636;&#21602;?&#10;https://youtu.be/HMxT-MCRmh4&#10;&#29275;&#25490;&#30340;&#34880;&#27700;&#19981;&#26159;&#34880;!&#10;https://youtu.be/-7GjvnJ2PO0&#10;&#10;&#10;&#10;&#31881;&#32114;&#23560;&#38913;:https://www.facebook.com/chuchushoeTW&#10;Instagram:http://instagram.com/chuchushoetw&#10;Twitter:https://twitter.com/chuchushoeTW"
-    channeltitle "&#21886;&#21886;&#38795;"
-    channelid "UCIF_gt4BfsWyM_2GOcKXyEQ"
+    date "2022-07-04T14:00:23Z"
+    title "NFTgm vol.4"
+    description "&#12300;Earthshot&#19990;&#30028;&#12434;&#22793;&#12360;&#12427;&#12486;&#12463;&#12494;&#12525;&#12472;&#12540;&#12301;&#12398;&#12511;&#12491;&#12467;&#12540;&#12490;&#12540;&#12300;gm&#12301;&#12391;&#32057;&#20171;&#12375;&#12383;&#20154;&#29289;&#12398;Web&#12467;&#12531;&#12486;&#12531;&#12484;&#12391;&#12377;&#12290;&#20170;&#22238;&#12399;&#26666;&#24335;&#20250;&#31038;Fictionera&#20195;&#34920;&#12289;#&#26032;&#26143;&#12462;&#12515;&#12523;&#12496;&#12540;&#12473; &#20849;&#21516;&#21109;&#26989;&#32773;&#20860;Creative Director&#12391;&#12354;&#12426;&#12289;NFT&#12450;&#12540;&#12486;&#12451;&#12473;&#12488;#ZombieZooKeeper &#12398;&#27597;&#12391;&#12418;&#12354;&#12427;#&#33609;&#37326;&#32117;&#32654; &#12373;&#12435;&#12398;&#23550;&#35527;&#12391;&#12377;&#12290;&#10;&#10;&#12304;&#20869;&#23481;&#12305;&#10;00:00 &#12458;&#12540;&#12503;&#12491;&#12531;&#12464;&#10;00:23 Zombie Zoo Keeper&#12392;&#12399;&#10;02:16 Shinsei Galverse&#12392;&#12399;&#10;04:40 &#26085;&#26412;&#30330;NFT&#12364;&#19990;&#30028;&#65297;&#20301;&#12395;&#12394;&#12387;&#12383;&#29702;&#30001;&#10;06:21 NFT&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12398;&#12467;&#12511;&#12517;&#12491;&#12486;&#12451;&#12392;&#12399;&#10;08:04 NFT&#12399;&#12450;&#12540;&#12488;&#12394;&#12398;&#12363; &#26263;&#21495;&#36039;&#29987;&#12394;&#12398;&#12363;&#10;09:57 NFT&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#25104;&#21151;&#12398;&#31192;&#35363;&#10;14:58 &#26032;&#26143;&#12462;&#12515;&#12523;&#12496;&#12540;&#12473;&#12398;&#12525;&#12540;&#12489;&#12510;&#12483;&#12503;&#10;18:11 NFT&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12458;&#12540;&#12490;&#12540;&#12395;&#24517;&#35201;&#12394;&#12473;&#12461;&#12523;&#10;20:01 web3&#26178;&#20195;&#12395;&#27963;&#36493;&#12377;&#12427;&#33609;&#37326;&#32117;&#32654;&#12392;&#12399;&#10;&#12539;&#12539;&#12539;&#10;&#10;&#30058;&#32068;&#12450;&#12540;&#12459;&#12452;&#12502;&#10;https://www.youtube.com/playlist?list...&#10;&#10;&#12539;&#12539;&#12539;&#10;&#10;&#12487;&#12472;&#12479;&#12523;&#12460;&#12524;&#12540;&#12472;Earthshot&#23459;&#35328;&#10;https://www.garage.co.jp/ja/lp/advert...&#10;&#10;&#12487;&#12472;&#12479;&#12523;&#12460;&#12524;&#12540;&#12472;&#12398;&#12300;Earthshot&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12301;&#12399;&#12289;&#22320;&#29699;&#35222;&#28857;&#12391;ESG&#12395;&#21462;&#12426;&#32068;&#12416;&#26085;&#26412;&#12392;&#19990;&#30028;&#12398;&#20225;&#26989;&#12434;&#32057;&#20171;&#12375;&#12390;&#12356;&#12367;&#12487;&#12472;&#12479;&#12523;&#12460;&#12524;&#12540;&#12472;&#12398;&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12391;&#12377;&#12290; &#26412;&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12398;&#19968;&#29872;&#12392;&#12375;&#12390;&#12289;&#12487;&#12472;&#12479;&#12523;&#12460;&#12524;&#12540;&#12472;&#12399;&#26085;&#26412;&#12392;&#19990;&#30028;&#12398;ESG&#38306;&#36899;&#12473;&#12479;&#12540;&#12488;&#12450;&#12483;&#12503;&#20225;&#26989;&#12434;&#32057;&#20171;&#12375;&#12487;&#12540;&#12479;&#12505;&#12540;&#12473;&#21270;&#12377;&#12427;&#12450;&#12540;&#12459;&#12452;&#12502;&#26144;&#20687;&#12434;&#21046;&#20316;&#12375;&#12390;&#12356;&#12365;&#12414;&#12377;&#12290;&#10;https://earthshot.com/&#10;&#10;&#12487;&#12472;&#12479;&#12523;&#12460;&#12524;&#12540;&#12472; &#20844;&#24335;&#12469;&#12452;&#12488;&#10;https://www.garage.co.jp/&#10;&#12487;&#12472;&#12479;&#12523;&#12460;&#12524;&#12540;&#12472; Web3&#12398;&#12467;&#12450;&#20154;&#26448;&#21215;&#38598;&#20013;&#65281;&#10;https://recruit.garage.co.jp/fintech/"
+    channeltitle "EarthshotTV"
+    channelid "UCExuxqwTcVhW-fzV8OKuevA"
     favcount 0
-    viewcount 179353
-    likecount 5274
-    commentcount 596
-    duration "PT10M1S"
-    indegree 1
-    cluster 6
+    viewcount 3866
+    likecount 102
+    commentcount 3
+    duration "PT21M25S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
   ]
   node
   [
-    id 447
+    id 341
+    name "447"
     label "L0kT6JsiusE"
     step 0
     date "2021-10-04T13:59:05Z"
@@ -6175,65 +9568,105 @@ graph
     commentcount 190
     duration "PT13M14S"
     indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
+  ]
+  node
+  [
+    id 342
+    name "448"
+    label "5p9MJ9jEaDE"
+    step 0
+    date "2022-04-06T01:53:27Z"
+    title "ME HICIERON UN NFT "
+    description "ME HICIERON UN NFT &#128557;&#128557;&#128557;&#10;&#10;Hola mapaches :D Hoy yo, JasperDev, en mi canal de JasperVT, reacciono a un NFT de Jasper :( bueno, no importa XD mejor jueguen mis juegos de Hice un Juego en 24 horas y Hice un juego pero RTX que siempre quedan muy cutre, con muchos bugs y dan mucho cringe, PERO, no dan tango cringe como los NFTs, crypto, cryptobro, crytobros y Willyrex y sus NFT, jaja, como el meme de OH NO ES WILLYREX XD bruh. &#10;Suscr&#237;bete si te gust&#243; :D SUSCRIBITEEEEE&#10;&#10;&#10148; VU&#201;LVETE UN PATRON&#10;https://patreon.com/JasperDev&#10;&#10148; VU&#201;LVETE UN MIEMBRO DEL CANAL:&#10;https://www.youtube.com/c/jasperdev/join&#10;&#10148; DAME PLATITA :D&#10;https://streamelements.com/jasperdev/tip&#10;&#10;----------------------------------------------------&#10;&#10;&#10148; Twitter: https://twitter.com/JasperDevYT&#10;&#10148; Instagram: https://www.instagram.com/jasperdev_&#10;&#10148; Discord: https://discord.com/invite/QPHJC6thqf&#10;&#10148; CONTACTO: contacto@jasperdev.io&#10;&#10;EDITADO POR: Jasper y Bookha&#10;&#10;----------------------------------------------------&#10;&#10;(ACERCA DE MI)&#10;&#10;Hola, soy JasperDev, desarrollador de videojuegos indie (gamedev - game developer indie) y programador java y c# (c-sharp) con Unity, NO CON Unreal Engine ni con Godot, no los confundan XD. En mi canal subo videos muy divertidos sobre devlogs, desarrollo de videojuegos, shaders y programaci&#243;n. Soy como Guinxu y Alva Majo pero m&#225;s piola.&#10;&#10;Si disfrutaste de este video, Aqu&#237; hay m&#225;s que puedes ver de m&#237; o de otros desarrolladores de juegos!&#10;&#10;Aguineu (Programa cualquier juego con RTX en Unreal Engine)&#10;Aguineu - He creado el Dinosaurio de Google Chrome en Unreal Engine 4&#10;https://www.youtube.com/watch?v=xl98Fb64HqU&#10;Aguineu - He creado el Buscaminas en Unreal Engine&#10;https://www.youtube.com/watch?v=GQum0zJebfA&#10;Aguineu - He creado el SNAKE en Unreal Engine&#10;https://www.youtube.com/watch?v=Oif2SfvltEU&#10;Aguineu - He creado POU pero RTX (y da miedo)&#10;https://www.youtube.com/watch?v=FEmmgquhAMo&#10;&#10;Guinxu (Desarrollador de juegos y programador, trabaja en flatworld)&#10;Guinxu - Hackeando Dinosaurio de Google Chrome&#10;https://www.youtube.com/watch?v=fKnsmZ1rpNo&#10;&#10;JasperDev (re tonto este de aqu&#237;):&#10;JasperDev - Hice FNAF En 24 HORAS (y no es tan cutre)&#10;https://youtube.com/watch?v=46eBrU2XVaA&#10;JasperDev - Hice SUPER MARIO 64 En 24 HORAS (y Nintendo me denuncia)&#10;https://www.youtube.com/watch?v=UaNmcq26txU&#10;JasperDev - Hice CYBERPUNK 2077 en 24 HORAS (y es mejor que el original)&#10;https://www.youtube.com/watch?v=TT4wKyqmKmU&#10;JasperDev - Hice ROCKET LEAGUE En 24 HORAS (y es muy cutre)&#10;https://www.youtube.com/watch?v=X075NNipf1E&#10;JasperDev - Obligu&#233; a MIS SUBS a HACERME UN JUEGO...&#10;https://www.youtube.com/watch?v=RqZo5_Y6LBw&#10;JasperDev - Me INFILTR&#201; en mi propia GAME JAM (y nadie se dio cuenta...)&#10;https://www.youtube.com/watch?v=SZ5Dj24CznY&#10;JasperDev - Hice CS:GO en 24 HORAS (y Valve me contrata)&#10;https://www.youtube.com/watch?v=BkaKllgD0zo&#10;JasperDev - Hice FLAPPY BIRD pero en 3D&#8230;&#10;https://www.youtube.com/watch?v=A1yEG1_nLTA&#10;JasperDev - Hice FRIDAY NIGHT FUNKIN' pero RTX (y furry&#8230;)&#10;https://www.youtube.com/watch?v=qt3O7w1bnKo&#10;JasperDev - Hice GEOMETRY DASH pero RTX (y destruir&#225; tu pc...)&#10;https://www.youtube.com/watch?v=_jftS0lXUq8 &#10;JasperDev - Hice POU pero RTX (y destruir&#225; tu celular...)&#10;https://www.youtube.com/watch?v=oWHm_LiSAZI&#10;JasperDev - Hice un JUEGO en WORD XD&#10;https://www.youtube.com/watch?v=QSkKofGHObY&#10;JasperDev - Hice un JUEGO en EXCEL XD&#10;https://www.youtube.com/watch?v=hSa3QMcaIVE&#10;JasperDev - Hice un JUEGO en POWERPOINT XD&#10;https://www.youtube.com/watch?v=gM4HwEvDrWM&#10;&#10;JasperVT (re tonto tambien este de aqu&#237;):&#10;JasperVT - Jugando JUEGOS en Office XD&#10;https://www.youtube.com/watch?v=fH84mp0vDoE&#10;JasperVT - SOY EL MEJOR GAMEDEV DEL MUNDO XD&#10;https://www.youtube.com/watch?v=SjJGG2El73Q&#10;JasperVT - ME HICIERON UNA CRITICA DESTRUCTIVA &#128557;&#128557;&#128557;&#10;https://www.youtube.com/watch?v=Tk468Ehpdd4&#10;JasperVT - ME HICIERON UN NFT &#128557;&#128557;&#128557;&#10;https://www.youtube.com/watch?v=5p9MJ9jEaDE&#10;JasperVT - Me ROBARON 100 DOLARES &#128557;&#128557;&#128557;&#10;https://www.youtube.com/watch?v=Fc5qGzFHV0A&#10;JasperVT - JUEGOS Famosos pero RTX...&#10;https://www.youtube.com/watch?v=hu_slNEEf54"
+    channeltitle "JasperVT"
+    channelid "UCUA0py_HqdgPMDFtFjzVL2g"
+    favcount 0
+    viewcount 451221
+    likecount 20710
+    commentcount 726
+    duration "PT4M59S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 450
-    label "-gkgG6OJ_Aw"
+    id 343
+    name "451"
+    label "Wy4sftCZnRs"
     step 0
-    date "2022-06-24T17:30:32Z"
-    title "MUESTRO TODOS MIS NFTS"
-    description "Visita mi sala: https://t.co/1uDAA9DsCk&#10;Sigue Creadore en twitter: https://twitter.com/creadorenetwork&#10;&#128681;S&#233; el primero en ver los videos! Activa la &#128276; http://goo.gl/Cl12A&#10;&#127942; XMGuild Discord: https://discord.gg/J8ZJk5CWsT&#10;&#127942; XMGuild Twitter: https://twitter.com/XMGuild&#10;&#129351; Canal Principal: http://www.youtube.com/user/Willyrex&#10;&#128231; Business: Willyrexchange@gmail.com&#10;&#128247; Instagram: http://instagram.com/willyrex&#10;&#127925; TikTok: https://www.tiktok.com/@willyrex&#10;&#9654;&#65039; Twitter: https://twitter.com/#!/WillyrexYT&#10;&#9654;&#65039; Facebook: http://www.facebook.com/pages/Willyrex/162597417232850&#10;&#10;Disclaimer: No soy un Asesor Financiero, todo el contenido en este canal es con fin de entretener. Act&#250;a de manera responsable e inteligente a la hora de Gastar e Invertir tu dinero.&#10;&#10;#NFT #Willyrex #Metaverso"
-    channeltitle "TheWillyrex"
-    channelid "UC4LHNX8d8RqnDX0OezgmCTg"
+    date "2022-05-09T17:00:19Z"
+    title "Opice prod jsem ji prodal?"
+    description "&#128293; Chci se v&#237;ce dozv&#283;d&#283;t o NFT kurzu - https://link.pmara.cz/NFT&#10;&#10;&#128293; Odb&#283;r kan&#225;lu&#10;https://www.youtube.com/channel/UCSgFxc7dM_mjQIC0zxn1zqw?sub_confirmation=1&#10;&#10;&#9757;&#127996; Doporu&#269;en&#233; aplikace, slu&#382;by a gadgety, kter&#233; pou&#382;&#237;v&#225;m, v&#269;etn&#283; slev &#9757;&#127996; &#10;&#128073;&#127996; https://kit.co/petrmara &#128072;&#127996;&#10;&#10;Odeb&#237;rej m&#367;j newsletter&#10;&#128073;&#127996; https://www.petrmara.com/#newsletter &#128072;&#127996;&#10;&#10;V&#237;ce:&#10;Merch - http://mementomori.pm&#10;http://instagram.com/petrmara&#10;http://petrmara.com&#10;http://virtualnikomunikace.cz&#10;http://facebook.com/petrmara.page&#10;http://twitter.com/petrmara&#10;&#10;Kamera &#38;&#160;St&#345;ih: Marek Va&#328;ourek&#10;&#10;Hudba: Artlist - https://artlist.io/Petr-775415"
+    channeltitle "Petr M&#225;ra"
+    channelid "UCSgFxc7dM_mjQIC0zxn1zqw"
     favcount 0
-    viewcount 52602
-    likecount 2585
-    commentcount -1
-    duration "PT10M48S"
+    viewcount 95777
+    likecount 3932
+    commentcount 260
+    duration "PT15M47S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
+  ]
+  node
+  [
+    id 344
+    name "455"
+    label "dZoOGtmarvA"
+    step 0
+    date "2021-08-05T22:27:28Z"
+    title "REVOMON VR - NEW NFT VR GAME! COLLECT, EXPLORE, BATTLE! TOP NFT GAMES, NEW VR GAME SIDEQUEST"
+    description "https://revomon.io/&#10;INSTALL TUTORIAL -&#10;https://revomon.medium.com/&#10;https://sidequestvr.com/app/4936/revomon-alpha&#10;&#10;&#10;WHITE PAPER&#10;https://revomonvr.gitbook.io/revomon/&#10;&#10;TOKEN ADDRESS ON FOR PANCAKE SWAP&#10;ADD BINANCE TO METAMASK &#10;https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain&#10;&#10;TOKEN ADDRESS ON FOR PANCAKE SWAP&#10;https://revomon.medium.com/&#10;https://coinmarketcap.com/currencies/revomon/&#10;&#10;&#10;&#127918;MY SOCIALS&#10;TWITTER &#9658; - http://bit.ly/TWITTERCAGYJAN&#10;MY DISCORD - https://discord.gg/WBpw2BZ&#10;TWITTER BLOCKCHAIN GAMING LIST - https://twitter.com/i/lists/1247886376944599041?s=20&#10;#cryptonews #playtoearn #NFT"
+    channeltitle "CAGYJAN"
+    channelid "UCIraLfgEfUNT_O8_OCTPbXg"
+    favcount 0
+    viewcount 6788
+    likecount 138
+    commentcount 38
+    duration "PT8M12S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 454
-    label "SoVN-_gkiaE"
-    step 0
-    date "2022-01-31T16:30:09Z"
-    title "Jordi Wild le pregunta a Rubius su opinimica con Willyrex"
-    description ". Clip extra&#237;do de The Wild Project #110 ft Rubius: https://youtu.be/AaZXTNxwrRU&#10;Hoy en The Wild Project: El Rubius, no hace falta decir mucho m&#225;s. La gran leyenda de youtube y del entretenimiento en espa&#241;ol en una charla de casi tres horas en las que habla con Jordi Wild de absolutamente todo. &#161;No os lo perd&#225;is!&#10;- Canal de Rubius con 62534 millones de suscriptores: https://www.youtube.com/c/elrubiusOMG&#10;&#10;Sigue The Wild Project en: &#10;&#128266; SPOTIFY: https://spoti.fi/3cA2lfy&#10;&#128266; Apple Podcast: https://apple.co/2ILx6Rf&#10;&#128266; Ivoox: https://bit.ly/3cBPxoV&#10;&#128266; Amazon Music: https://amzn.to/3gylTFG&#10;&#10;Mail para posibles invitados: invitados@jordiwild.com&#10;&#10;Realizaci&#243;n y edici&#243;n: Nacho Amela https://twitter.com/NachoAmela&#10;&#10;Mi nuevo Tik Tok, &#161;s&#237;gueme!: https://www.tiktok.com/@jordiwild&#10;Canal de YT de Jordi Wild: https://www.youtube.com/user/ElRinconDeGiorgio&#10;&#161;Wild Style marca de ropa! &#8594; https://wildstylestore.com&#10;Jordi Wild web &#8594; http://www.jordiwild.com&#10;&#10;TWITTER: &#10;https://twitter.com/JordiWild&#10;https://twitter.com/TheWildProject8 &#10;&#10;FACEBOOK: &#10;https://www.facebook.com/ElRinconDeGiorgioOficial&#10;&#10;INSTAGRAM:&#10;http://instagram.com/jordiwild8&#10;http://instagram.com/the.wildproject"
-    channeltitle "The Wild Project"
-    channelid "UCBYyJBCtCvgqA4NwtoPMwpQ"
-    favcount 0
-    viewcount 572404
-    likecount 32707
-    commentcount 971
-    duration "PT11M52S"
-    indegree 16
-    cluster 9
-  ]
-  node
-  [
-    id 457
-    label "JmWM_ILYWls"
-    step 0
-    date "2021-09-03T15:30:05Z"
-    title "COMMENT CREER ET VENDRE SON NFT EN 2 MINUTES! Tuto complet et Fun!"
-    description "&#128176; Bybit: Bonus de 3.5% (jusqu'&#224; 3500$): https://www.bybit.com/register?affiliate_id=24065&#38;group_id=0&#38;group_type=1&#10;&#128176;Binance -  20% de cashback: https://accounts.binance.com/en/register?ref=AHPM620D&#10;&#128176;Kucoin: 10% sur les frais: https://www.kucoin.com/r/QBSSSMEE&#10;&#128176;FTX  - 10% de cashback : https://ftx.com/referrals#a=66372629&#10;&#10;&#128176;Les NFT est la nouvelle mode dans le monde de la crypto monnaie pour 2021! Nouvelle effet de mode, nouvelle tendance ou un vrai investissement? L'avenir nous le dira.&#10;Je me suis donc lanc&#233; le d&#233;fi de cr&#233;er mon propre NFT et de le mettre en vente sur le site Opensea.io&#10;Je vais aussi acheter un NFT (&#224; un prix de dingue en terme de frais) pour esp&#233;rer le vendre 1000x plus cher! A voir!&#10;&#10;Mes NFTS en vente sur mon profil: https://opensea.io/JulienRoman&#10;&#10;Comme &#224; chaque vid&#233;o, 10 Tokens JRTO &#224; gagner en likant / Commentant avec son adresse Metamask! &#10;&#10;#chassealacryptodorD15  ( pardon je m'&#233;tais tromp&#233;, j'avais mis 16 mais c'est le 15 :) &#10;&#10;&#10145;&#65039; N'h&#233;sitez pas &#224; vous abonner &#128073; https://www.youtube.com/c/JulienRoman?sub_confirmation=1&#10;&#10;Connecte toi avec moi entre 2 vid&#233;os  &#8601;&#65039;&#10;&#9989; Insta: https://www.instagram.com/jromanyoutube&#10;&#9989; Twitter: https://twitter.com/JulienROMAN13&#10;&#10;~~~~~&#10;Contact mail Pro : contact@julienroman.com&#10;~~~~~&#10;&#10;&#128250; AUTRES VIDEOS&#128250;&#10;&#10;&#127909; Gagner 10% d'int&#233;r&#234;ts avec Celsius &#128073; https://youtu.be/FEhTVNFOQp4&#10;&#127909; Gagner de la Crypto Gratuite! &#128073; https://youtu.be/IzJTlnvRrT8&#10;&#127909; Revenus Passifs avec Crypto.com &#128073; https://youtu.be/-wlJUfkAe_Q&#10;&#127909; Tuto Binance &#128073; https://youtu.be/lVMjaV_lqJE&#10;&#10;~~~~~&#10;&#10;&#128176; ACHETE ET ECHANGE DE LA CRYPTO-MONNAIE&#128176;&#10;&#10;&#128176; Crypto.com -  25$ offerts en stakant 5000 CRO : https://crypto.com/app/nrbcjkpnpf&#10;&#128176; Cr&#233;ez un compte sur Coinbase et gagnez 8,22&#8364; en d&#233;posant 100&#8364; au premier d&#233;p&#244;t: https://www.coinbase.com/join/roman_s3k&#10;&#128176; Cr&#233;ez un compte sur Swissborg et gagnez entre 1 et 100$ pour tout d&#233;p&#244;t de 50 dollars minimum https://join.swissborg.com/r/julienEICA&#10;&#128176;Binance -  5% de cashback: https://accounts.binance.me/en/register?ref=MPGVGOXW&#10;&#128176;Bitpanda - 10&#8364; de Bonus : https://www.bitpanda.com/?ref=569365464351085843&#10;&#128176;FTX  - 1 crypto gratuite pour tout achat de 10$ ou plus: https://link.blockfolio.com/9dzp/13339584&#10;&#10;~~~~~&#10;&#10;&#128176; LES PORTE MONNAIE QUE J'UTILISE &#128176;&#10;&#10;&#127974; Pointpay: https://auth.pointpay.io/sign-up?ref=15793764987&#10;&#127974; Maiar - 10$ de bonus: https://get.maiar.com/referral/cq55jnjr1e&#10;&#10;~~~~~&#10;&#10;&#128176; AUTRES APPLICATIONS DE CRYPTO &#128176;&#10;&#65039;&#9917;&#65039;  Socios (Appli sport)  https://wn.nr/sxMS2S&#10;&#10;~~~~~&#10;&#10;&#128176;BOURSE&#128176;&#10;J'utilise Trade Republic:  https://bit.ly/3rEInYS&#10;&#10;~~~~~&#10;&#10;&#128176; SECURISE TES CRYPTO SUR UNE CLE PHYSIQUE &#128176;&#10;&#128273; Ach&#232;te une ledger (je recommande la Nano X) sur le site officiel : https://shop.ledger.com/pages/christmas-pack?r=f366193b791e&#10;&#10;~~~~~&#10;&#10;&#128176; NAVIGUE DE FACON ANONYME ET SECURISE AVEC UN VPN&#128176;&#10;&#10071;&#65039;J'utilise NordVPN: https://nordvpn.com/roman&#10;&#10;~~~~~&#10;&#10;&#128176; STOCKE TES CRYPTO-MONNAIES ET GAGNE DES INTERET jusqu&#8217;&#224; 10%:&#128176;&#10;&#10;&#128274; Celsius : 40$ en Bitcoin en d&#233;posant 400$ au premier d&#233;p&#244;t et en utilisant le lien : https://celsiusnetwork.app.link/197546631b Code parrainage : 197546631b et 40$ suppl&#233;mentaire avec le Code Promo BTC40&#10;&#10;~~~~~&#10;&#10;&#128176;OUVRE UN COMPTE BANCAIRE EN LIGNE&#128176;&#10;&#127974; N26 - 0 frais et Carte Bleu gratuite  : https://n26.com/r/ericadeb7237&#10;&#127974;  Boursorama Bonus de 130&#8364; (dur&#233;e limit&#233;e) :  https://bour.so/SZYDbJo76B&#10;&#10;~~~~~&#10;&#10;&#128176;DECLARER FACILEMENT TA CRYPTO MONNAIE&#128176;&#10;&#127974;Avec WALTIO, Simple et efficace: https://waltio.co?a_aid=julienroman&#10;&#10;~~~~~&#10;&#10;LIBRAIRIE : &#10;&#128214; Avec Amazon Audible, 2 livres audio gratuits : https://www.amazon.fr/dp/B01AUIE0CK?tag=julienroman05-21&#10;&#128214; Mon livre &#171; Super Airbnb &#187; sur Amazon : https://amzn.to/38RKBwB&#10;&#128197; Mon agenda Business : https://amzn.to/3gwaDrm&#10;&#10;~~~~~&#10;&#10;&#127932;  Musique utilis&#233;es dans mes vid&#233;os : https://www.epidemicsound.com/referral/6ojyia/&#10;&#10;* Rien de tout cela n'est destin&#233; &#224; &#234;tre interpr&#233;t&#233; comme un conseil en investissement, c'est uniquement &#224; des fins de divertissement. Les personnes qui regardent les vid&#233;os et qui investissent, le font &#224; leur risque et p&#233;ril.&#10;&#10;Certains des liens ci-dessus incluent une commission d'affiliation ou de partenariats. Je fais partie d'un r&#233;seau d'affiliation et je re&#231;ois une r&#233;mun&#233;ration de la part des sites partenaires. La vid&#233;o comporte des informations exactes &#224; la date de publication, mais peut ne l&#8217;&#234;tre &#224; l&#8217;avenir. Lorsqu&#8217;il s&#8217;agit d&#8217;investissement, soyez prudent et &#233;duquez-vous. N&#8217;investissez qu&#8217;une petite partie de votre investissement et une somme que vous pouvez vous permettre de perdre.&#10;&#10;#NFT #opensea #vendrenft"
-    channeltitle "Julien Roman"
-    channelid "UCF09Jbsxb7x6lJ5imkapHNA"
-    favcount 0
-    viewcount 551265
-    likecount 17981
-    commentcount 1140
-    duration "PT13M44S"
-    indegree 9
-    cluster 8
-  ]
-  node
-  [
-    id 458
+    id 345
+    name "458"
     label "rX2FTcLRSWc"
     step 0
     date "2022-01-31T13:56:01Z"
@@ -6247,47 +9680,77 @@ graph
     commentcount 103
     duration "PT9M53S"
     indegree 15
-    cluster 11
-  ]
-  node
-  [
-    id 461
-    label "bigARmFlkRE"
-    step 0
-    date "2022-07-11T12:41:32Z"
-    title " Meta Force"
-    description "&#1057;&#1090;&#1072;&#1090;&#1091;&#1089;&#1085;&#1099;&#1077; NFT &#1103;&#1074;&#1083;&#1103;&#1102;&#1090;&#1089;&#1103; &#1090;&#1077;&#1084; &#1079;&#1074;&#1077;&#1085;&#1086;&#1084;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1086;&#1077; &#1089;&#1074;&#1103;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1084;&#1077;&#1078;&#1076;&#1091; &#1089;&#1086;&#1073;&#1086;&#1081; &#1088;&#1072;&#1079;&#1085;&#1099;&#1077; &#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1084;&#1099; Meta Force.&#10;&#1069;&#1090;&#1086; &#1090;&#1072; &#1089;&#1072;&#1084;&#1072;&#1103; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1100; &#1087;&#1072;&#1089;&#1089;&#1080;&#1074;&#1085;&#1086;&#1075;&#1086; &#1076;&#1086;&#1093;&#1086;&#1076;&#1072;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1091;&#1102; &#1084;&#1099; &#1091;&#1078;&#1077; &#1091;&#1087;&#1086;&#1084;&#1080;&#1085;&#1072;&#1083;&#1080;, &#1085;&#1086; &#1074;&#1089;&#1077; &#1076;&#1086; &#1089;&#1080;&#1093; &#1087;&#1086;&#1088; &#1075;&#1072;&#1076;&#1072;&#1102;&#1090;, &#1082;&#1072;&#1082; &#1101;&#1090;&#1086; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1077;&#1090;...&#10;&#10;==============================&#10;Meta FORCE Space - DeFi &#8470;1 &#38; &#1044;&#1077;&#1094;&#1077;&#1085;&#1090;&#1088;&#1072;&#1083;&#1080;&#1079;&#1086;&#1074;&#1072;&#1085;&#1085;&#1086;&#1077; &#1086;&#1073;&#1097;&#1077;&#1089;&#1090;&#1074;&#1086; &#1089; &#1089;&#1086;&#1073;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1081; &#1084;&#1086;&#1085;&#1077;&#1090;&#1086;&#1081; &#1080; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1080;&#1085;&#1075;&#1086;&#1084; &#1085;&#1072; &#1089;&#1084;&#1072;&#1088;&#1090;-&#1082;&#1086;&#1085;&#1090;&#1088;&#1072;&#1082;&#1090;&#1077;, &#1072; &#1079;&#1085;&#1072;&#1095;&#1080;&#1090; &#1074;&#1089;&#1105; &#1087;&#1091;&#1073;&#1083;&#1080;&#1095;&#1085;&#1086; &#1080; &#1087;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1085;&#1086; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087;&#1085;&#1086; &#1076;&#1083;&#1103; &#1086;&#1090;&#1089;&#1083;&#1077;&#1078;&#1080;&#1074;&#1072;&#1085;&#1080;&#1103; &#1085;&#1072; &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1077;.&#10;&#9553;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;&#10;&#9553; &#127760;  https://meta-force.space/&#10;&#9553; &#128313; https://ladookhotnikov.com/&#10;&#9553;&#128073;  &#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; Telegram  &#1050;&#1072;&#1085;&#1072;&#1083;: https://t.me/Meta_Force_RU&#10;&#9553; &#128227;  &#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; Telegram &#1063;&#1072;&#1090;: https://t.me/MetaForce_RU&#10;&#9553; &#128204; &#1042;&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1077;: https://vk.com/metaforcespace&#10;&#9562;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#10;&#1055;&#1086;&#1089;&#1090;&#1072;&#1074;&#1100; &#1083;&#1072;&#1081;&#1082; &#9829;&#65039; &#1055;&#1086;&#1076;&#1087;&#1080;&#1096;&#1080;&#1089;&#1100; &#1085;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083; &#10004;&#65039; &#1053;&#1072;&#1078;&#1084;&#1080; &#1085;&#1072; &#1082;&#1086;&#1083;&#1086;&#1082;&#1086;&#1083;&#1100;&#1095;&#1080;&#1082;&#128276;&#10;&#1048; &#1085;&#1077; &#1089;&#1090;&#1077;&#1089;&#1085;&#1103;&#1081;&#1089;&#1103; &#1089;&#1072;&#1084;&#1086;&#1074;&#1099;&#1088;&#1072;&#1078;&#1072;&#1090;&#1100;&#1089;&#1103; &#1074; &#1082;&#1086;&#1084;&#1084;&#1077;&#1085;&#1090;&#1072;&#1088;&#1080;&#1103;&#1093;!&#10;&#10;&#1055;&#1086;&#1076;&#1077;&#1083;&#1080;&#1090;&#1077;&#1089;&#1100; &#1101;&#1090;&#1080;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086;: https://youtu.be/bigARmFlkRE&#10;#Force #&#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072; #&#1073;&#1080;&#1090;&#1082;&#1086;&#1081;&#1085; #NFT #&#1052;&#1077;&#1090;&#1072;&#1042;&#1089;&#1077;&#1083;&#1077;&#1085;&#1085;&#1072;&#1103;"
-    channeltitle "Meta FORCE &#1085;&#1072; &#1088;&#1091;&#1089;&#1089;&#1082;&#1086;&#1084;"
-    channelid "UCIsiipdogN1xCmU-4mO4YIw"
-    favcount 0
-    viewcount 1143
-    likecount 75
-    commentcount 3
-    duration "PT11M35S"
-    indegree 0
-    cluster 11
-  ]
-  node
-  [
-    id 465
-    label "Fc9kAkNRV-I"
-    step 0
-    date "2022-03-28T20:56:35Z"
-    title "NFT EN 3 MIN O MENOS"
-    description "como crear un nft que es un nft en 3 min o menos &#10;SPOTIFY : HEISENWOLF https://open.spotify.com/artist/6cMUK6ehaMxZ70GaxNSsM3?si=FS9tanKYTV-XHT72P_ue3w&#10;Instagram https://www.instagram.com/Heisenwolf/&#10;CONTACTO : heisenwolfcontacto@gmail.com&#10;&#10;&#10; bitcoin crypto ethereum nft willyrexft juegos play to earn"
-    channeltitle "Heisenwolf"
-    channelid "UChvwv7Mrn_5bPdIhfo9OqPA"
-    favcount 0
-    viewcount 365330
-    likecount 34307
-    commentcount 768
-    duration "PT2M58S"
-    indegree 5
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 466
+    id 346
+    name "459"
+    label "2c4jyXJPk98"
+    step 0
+    date "2022-04-11T15:15:01Z"
+    title "SIFIRDAN NFT Nedir r?"
+    description "Bropalar NFT nas&#305;l yap&#305;l&#305;r ve nft ve metaverse nedir / nas&#305;l al&#305;n&#305;r gibi sorular i&#231;in NFT yapma ve NFT satmak i&#231;in nft olu&#351;turma &#252;zerine s&#305;f&#305;rdan e&#287;itim videosu &#231;ektim. Sizlere detayl&#305; bi&#231;imde NFT yap&#305;m&#305; ve al&#305;m sat&#305;m&#305; &#252;zerine bilgiler aktaraca&#287;&#305;m.&#10;&#10;&#304;leti&#351;im i&#231;in: info@spunkram.com&#10;&#10;Video D&#252;zenleme Programlar&#305; E&#287;itimleri i&#231;in:&#10;Adobe After Effects Dersleri: https://bit.ly/2YtFsFU&#10;Adobe Premiere Pro Dersleri: https://bit.ly/2WmVfDP&#10;DaVinci Resolve 16 Dersleri: https://bit.ly/3cdwGjH&#10;&#10;Programlar&#305; Bilmiyorsan Bu Serilere Kesinlikle Bakmal&#305;s&#305;n!:&#10;SIFIRDAN Premiere Pro Dersleri: https://bit.ly/3hqfWIl&#10;SIFIRDAN DaVinci Resolve Dersleri: https://bit.ly/31nX5Ic&#10;&#10;00:00 &#34;Bilmek&#34; neden &#246;nemli?&#10;01:28 NFT nedir?&#10;01:49 NFT nas&#305;l ve neden sat&#305;l&#305;r?&#10;03:32 NFT'de Reklam &#38; PR&#10;04:14 Projeni neden sat&#305;n al&#305;yorlar?&#10;05:50 NFT'de bireysel &#351;&#246;hretin &#246;nemi&#10;06:24 &#214;nemli bir an - tweet - video satmak&#10;08:18 NFT fiyat&#305; nas&#305;l belirlenir?&#10;08:48 NFT'lerde AL-SAT yapmak&#10;09:53 Hangi sitelerde NFT satabiliriz?&#10;&#10;info@spunkram.com&#10;&#10;https://www.spunkram.com&#10;FORUM: https://forum.spunkram.com&#10;INSTAGRAM: https://instagram.spunkram.com&#10;DISCORD: https://discord.spunkram.com&#10;TWITCH: https://twitch.tv/spunkram&#10;&#10;#NFT #NftNas&#305;lYap&#305;l&#305;r #OnurNaci&#214;zt&#252;rkler"
+    channeltitle "Onur Naci &#214;zt&#252;rkler"
+    channelid "UCphOZHNAnM-cL76IR5Qjb3g"
+    favcount 0
+    viewcount 154451
+    likecount 5527
+    commentcount 392
+    duration "PT12M5S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
+  ]
+  node
+  [
+    id 347
+    name "462"
+    label "jNW1rFvafeI"
+    step 0
+    date "2022-02-13T13:00:32Z"
+    title "COMO CRIAR UM NFT DO ZERO e DE GRAA (Podendo Ganhar uma BOA GRANA com isso)!"
+    description "E voc&#234;, t&#225; ca&#231;ando um jeito de pagar as suas d&#237;vidas? Ou talvez voc&#234; n&#227;o tenha d&#237;vidas mas t&#225; doido pra fazer uma renda extra pra construir um patrim&#244;nio mais r&#225;pido.&#10;&#10;&#201; por isso que eu vou te ensinar a criar e vender NFTs, do zero. Eu vou te mostrar na pr&#225;tica a cria&#231;&#227;o de um NFT do Dinheiro Com Voc&#234;, que, ali&#225;s, voc&#234; vai poder comprar e at&#233; vender no mercado secund&#225;rio.&#10;&#10;Assiste esse v&#237;deo at&#233; o final pra voc&#234; come&#231;ar a criar seus NFTs hoje mesmo. E quem sabe se n&#227;o &#233; agora que voc&#234; vai come&#231;ar a tirar uma grana extra caprichada, hein?&#10;&#10;&#128179; Abra sua conta no Modalmais: https://modalmais.onelink.me/7uJl/76e68d2&#10;&#10;Cole&#231;&#227;o oficial de NFTs do Dinheiro Com Voc&#234; : &#10;&#10;https://opensea.io/collection/william-ribeiro&#10;&#10;Tivemos que fazer sem leil&#227;o , pois a plataforma vai passar por uma atualiza&#231;&#227;o .&#10;&#10;00:00 Como ganhar dinheiro com NFT&#10;00:57 Como criar um NFT do ZERO&#10;02:00 Onde encontrar um desenhista para seu NFT&#10;02:23 Como encomendar NFT no Fiverr&#10;02:55 Quanto custa criar um NFT&#10;04:10 Onde vender  NFT&#10;05:00 Opensea como funciona&#10;05:31 Como fazer seu NFT de gra&#231;a&#10;05:46 Como criar e configurar a conta no Opensea&#10;06:35 Wallets compat&#237;veis com o Opensea&#10;07:00 Metamask: como instalar e configurar&#10;07:36 Como criar carteira na Metamask&#10;10:20 Personalizar perfil no Opensea&#10;11:11 Como criar um NFT de Gra&#231;a&#10;11:39 Criar cole&#231;&#227;o no Opensea&#10;12:20 Ganhar royalties com NFT&#10;13:01 Criar NFT no Opensea&#10;14:14 O que &#233; Mintar um NFT?&#10;15:08 Criar NFT na Ethereum ou na Polygon?&#10;15:23 Mintar NFT na Polygon (de gra&#231;a)&#10;15:58 Como listar seu NFT&#10;17:01 Assinando uma transa&#231;&#227;o com a Metamask&#10;17:42 Mintar NFT na rede Ethereum&#10;21:00 Desvantagens de criar o NFT na Polygon&#10;22:03 NFTs do Dinheiro Com Voc&#234;&#10;22:20 Comprar Bitcoin e Etherum no modalmais&#10;&#10;&#10;DISCLAIMER: Este v&#237;deo N&#195;O &#201; uma recomenda&#231;&#227;o de investimentos e representa apenas a minha &#10;vis&#227;o pessoal. Os exemplos s&#227;o elencados com o &#250;nico objetivo de ilustrar o aprendizado de finan&#231;as pessoais, educa&#231;&#227;o financeira e investimentos.&#10;Portanto, a &#218;NICA coisa que eu recomendo &#233; que voc&#234; ESTUDE.&#10;N&#227;o copie a minha carteira de investimentos (e a de NINGU&#201;M), j&#225; que ela pode n&#227;o ser adequada a voc&#234;, ao seu perfil de investidor ou condi&#231;&#227;o financeira.&#10;&#201; bastante prudente ter uma reserva de emerg&#234;ncia em Renda Fixa, investir aos poucos e diversificar os seus investimentos.&#10;&#10;#DCVB3nomodalmais #publicidade #NFT #Educa&#231;&#227;oFinanceira #investimentos&#10;&#10;------------------------- &#10;&#10;&#127482;&#127480;  Invista nos EUA com suporte em portugu&#234;s: https://bit.ly/avenue-abrir-conta&#10;&#10;&#128170; Ainda n&#227;o &#233; inscrito? Vem tamb&#233;m com a gente! http://bit.ly/dinheiro_com_vc&#10;&#10;&#128176; Vem pra nossa Lista VIP no Telegram! http://bit.ly/telegram-dcv &#10;&#10;&#9658;Vem conhecer os bastidores no  http://instagram.com/dinheirocomvoce"
+    channeltitle "Dinheiro Com Voc&#234; - Por William Ribeiro"
+    channelid "UCkPwI3gaSr65levrx1j9okQ"
+    favcount 0
+    viewcount 267103
+    likecount 21756
+    commentcount 620
+    duration "PT23M45S"
+    indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
+  ]
+  node
+  [
+    id 348
+    name "466"
     label "pRNKAK3qmYs"
     step 0
     date "2022-03-26T08:00:13Z"
@@ -6301,11 +9764,21 @@ graph
     commentcount 96
     duration "PT11M42S"
     indegree 5
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 467
+    id 349
+    name "467"
     label "wCF27U83dcc"
     step 0
     date "2022-06-12T13:48:19Z"
@@ -6319,29 +9792,49 @@ graph
     commentcount 205
     duration "PT13M5S"
     indegree 1
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 471
-    label "dVvguuVA4fU"
+    id 350
+    name "468"
+    label "HExc4LOLt1A"
     step 0
-    date "2021-05-08T13:17:41Z"
-    title "WHAT EXACTLY IS A NFT? | Fanadise"
-    description "So you have probably heard the word NFT being used a lot recently...but what exactly are NFT's? &#10;Let Fanadise get you up to date!&#10;&#9658; https://www.fanadise.com&#10;&#10;Fanadise is the world's first subscription based creator NFT platform with digital files, experiences, events, services and much more! Our platform is for everyone, with the additional option of exclusive content for those who want a little more! Join us now to become part of the social media revolution!&#10;&#10;Are you a creator and want to see what Fanadise has to offer? Send us a DM on Instagram, or email us on &#8594; join@fanadise.com Be quick...we already have a BIG waiting list with some HUGE creators!&#10;&#10;Are you an Investor who wants to get their hands on $FAN coin before anyone else?&#10;Make sure to subscribe to be up to date on all news:&#10;&#10;Website &#8594; https://www.fanadise.com&#10;Youtube &#8594; https://bit.ly/3eVWCTa&#10;Instagram &#8594; https://instagram.com/fanadisecom&#10;Twitter &#8594; https://twitter.com/fanadisenft&#10;Telegram &#8594; http://t.me/fanadisegrouptalk"
-    channeltitle "FANADISE"
-    channelid "UCKFhxQs9l5nKhmiZ3mr6uSg"
+    date "2022-07-06T10:35:58Z"
+    title "BombHeroes [ !"
+    description "&#3604;&#3634;&#3623;&#3609;&#3660;&#3650;&#3627;&#3621;&#3604; A3 Still Alive &#3648;&#3585;&#3617;&#3610;&#3609; App Store &#3649;&#3621;&#3632; Google Play&#10;https://netmarble.sng.link/Aez4k/4xb9/gmno&#10;&#10;BombHeroes &#3652;&#3617;&#3656;&#3605;&#3657;&#3629;&#3591;&#3648;&#3611;&#3636;&#3604;&#3592;&#3629;&#3648;&#3621;&#3656;&#3609;&#3607;&#3633;&#3657;&#3591;&#3623;&#3633;&#3609;&#10;https://bombheroes.io/&#10;&#10;Telegram &#3614;&#3641;&#3604;&#3588;&#3640;&#3618; : https://t.me/LGRGameFi&#10;&#10;&#3626;&#3617;&#3633;&#3588;&#3619;&#3585;&#3619;&#3632;&#3648;&#3611;&#3659;&#3634;&#3588;&#3619;&#3636;&#3611;&#3650;&#3605;&#3648;&#3614;&#3639;&#3656;&#3629;&#3648;&#3629;&#3634;&#3652;&#3623;&#3657;&#3595;&#3639;&#3657;&#3629;&#3586;&#3634;&#3618; (&#3649;&#3609;&#3632;&#3609;&#3635;&#3651;&#3627;&#3657;&#3617;&#3637;&#3607;&#3640;&#3585;&#3585;&#3619;&#3632;&#3648;&#3611;&#3659;&#3634;&#3609;&#3632;&#3588;&#3632;)&#10;&#10;Binance : https://bit.ly/3qm5BDN&#10;&#10;Bitazza : https://bit.ly/3immjhS&#10;&#10;Bitkub : https://bit.ly/34StjQu &#10;&#10;Zipmex : https://bit.ly/3N3Xcig&#10;&#10;Satang Pro : https://bit.ly/36c6nfR&#10;&#10;Coinbase : https://bit.ly/3D2GP0M&#10;&#10;----------------------------------------------------------------------&#10;Contact Work (&#3605;&#3636;&#3604;&#3605;&#3656;&#3629;&#3591;&#3634;&#3609;)&#10;Telegram : @Letgetrich&#10;Email : xii.wipp@gmail.com&#10;https://www.facebook.com/Letgetrich.nft/&#10;&#10;Facebook (&#3605;&#3636;&#3604;&#3605;&#3634;&#3617;&#3586;&#3656;&#3634;&#3623;&#3648;&#3585;&#3617;&#3651;&#3627;&#3617;&#3656;&#3654;)&#10;https://www.facebook.com/Letgetrich.nft/&#10;&#10;Twitter (&#3594;&#3656;&#3629;&#3591;)&#10;https://twitter.com/lgr_nft&#10;&#10;&#3588;&#3621;&#3636;&#3611;&#3623;&#3637;&#3604;&#3637;&#3650;&#3629;&#3609;&#3637;&#3657;&#3592;&#3633;&#3604;&#3607;&#3635;&#3586;&#3638;&#3657;&#3609;&#3648;&#3614;&#3639;&#3656;&#3629;&#3619;&#3637;&#3623;&#3636;&#3623;&#3648;&#3585;&#3637;&#3656;&#3618;&#3623;&#3585;&#3633;&#3610; Game NFT &#3648;&#3607;&#3656;&#3634;&#3609;&#3633;&#3657;&#3609; !!&#10;&#3652;&#3617;&#3656;&#3652;&#3604;&#3657;&#3648;&#3611;&#3655;&#3609;&#3585;&#3634;&#3619;&#3594;&#3633;&#3585;&#3594;&#3623;&#3609;&#3585;&#3634;&#3619;&#3621;&#3591;&#3607;&#3640;&#3609;&#3649;&#3605;&#3656;&#3629;&#3618;&#3656;&#3634;&#3591;&#3651;&#3604; &#3612;&#3641;&#3657;&#3594;&#3617;&#3605;&#3657;&#3629;&#3591;&#3624;&#3638;&#3585;&#3625;&#3634;&#3586;&#3657;&#3629;&#3617;&#3641;&#3621;&#3585;&#3656;&#3629;&#3609;&#3605;&#3633;&#3604;&#3626;&#3636;&#3609;&#3651;&#3592;&#3621;&#3591;&#3607;&#3640;&#3609;&#3604;&#3657;&#3623;&#3618;&#3605;&#3609;&#3648;&#3629;&#3591;&#10;&#10;----------------------------------------------------------------------&#10;#bombheroes &#10;#&#3648;&#3585;&#3617;nft&#10;#nftgame"
+    channeltitle "LGR"
+    channelid "UCGcuTWFzogdfMjIP1nHM86Q"
     favcount 0
-    viewcount 101609
-    likecount 327
-    commentcount 58
-    duration "PT3M19S"
+    viewcount 1460
+    likecount 25
+    commentcount 11
+    duration "PT10M37S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 472
+    id 351
+    name "472"
     label "0ToktU8uGk8"
     step 0
     date "2022-05-12T03:57:45Z"
@@ -6355,29 +9848,49 @@ graph
     commentcount 257
     duration "PT9M11S"
     indegree 0
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 14
   ]
   node
   [
-    id 474
-    label "eNbGzF4ciA0"
+    id 352
+    name "473"
+    label "JiQqE4mkz1I"
     step 0
-    date "2022-02-18T12:40:12Z"
-    title "100 NFT GRATIS PARA DESCARGAR"
-    description "Niveles de Poder de los NFT. Todos los NFT de Bored Ape Yacht Club.&#10;&#10;-Creador de los NFT: @CatusElGato &#10;&#10;Redes Sociales:&#10;- Vu&#233;lvete Miembro: https://www.youtube.com/user/TheDracergx/join&#10;- Twitter: https://twitter.com/TheDracerGx&#10;- TikTok: https://www.tiktok.com/@thedracergx&#10;- Facebook: https://www.facebook.com/eldracer&#10;- Canal Secundario: https://www.youtube.com/channel/UC2Q-wRR619GzpPOk89TZNhA&#10;- Instagram: https://www.instagram.com/eldracer/&#10;- Discord: https://discord.gg/H3NG8Fv&#10;- Correo electr&#243;nico: dracer.paul@hotmail.com&#10;&#10;#NFT #NivelesDePoder"
-    channeltitle "TheDracerGx"
-    channelid "UC1oVDo0rD0NfRcE3KP_qvyQ"
+    date "2022-06-30T19:00:09Z"
+    title "JOGO NFT GRTIS PAGANDO MUITO POR POUCO TEMPO, CORRA!"
+    description "Conhe&#231;a o game nft gr&#225;tis que anda pagando di&#225;riamente quem atingir o requisito m&#237;nimo de saque.&#10;Fruit Tycoon foi lan&#231;ado ontem 29/05/2022 pela rede da binance, corra que n&#227;o saberemos at&#233; quando ele conseguir&#225; pagar essas recompensas.&#10;&#10;Link para download - https://fruit.myrichfarm.com?char_id=100089315&#38;type=0&#10;C&#243;digo invitation - 100089315&#10;#fruittycoon #binance #web3 #blockchain #gamedefi &#10;___________________________________________________________________________&#10;Sugest&#245;es de v&#237;deos em potencial:&#10;Ganhe sem investir com a Honeygain &#9654;&#65039; https://youtu.be/SDgd8nXXuuU&#10;Farm crypto moedas gratuitamente RollerCoin &#9654;&#65039; https://youtu.be/P44DNKZRUvg&#10;Metaverso inspirado na vida real gratuito UpLand &#9654;&#65039; https://youtu.be/VXhz0Zr2dgg&#10;&#10;___________________________________________________________________________&#10;Sugest&#245;es de v&#237;deos para iniciantes:&#10;&#128104;&#127997;&#8205;&#127891;Tutorial para iniciantes no mercado &#9654;&#65039; https://youtu.be/9uj0loS29Qc&#10;&#128178; Como instalar e configurar uma carteira NFT &#9654;&#65039; https://youtu.be/4sXUI0eGljE&#10;&#128181; Como inserir salta em sua carteira via PIX &#9654;&#65039; https://youtu.be/7qUI7RdImEI&#10;___________________________________________________________________________&#10;&#128172;Discord: https://discord.gg/KjHYjmADcF&#10;&#128036;Twitter: https://twitter.com/torutorugo&#10;&#128100; Instagram: https://instagram.com/torutorugo&#8203;&#8203;&#10;Contato Profissional: contato.torugo@gmail.com"
+    channeltitle "Torugo"
+    channelid "UCeUKNWOAwvoIp5Fv7gon4HA"
     favcount 0
-    viewcount 30290
-    likecount 1530
-    commentcount 155
-    duration "PT35M13S"
-    indegree 0
-    cluster 9
+    viewcount 7143
+    likecount 284
+    commentcount 49
+    duration "PT16M35S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 475
+    id 353
+    name "475"
     label "82P5mEKu_b4"
     step 0
     date "2022-07-01T11:00:05Z"
@@ -6391,11 +9904,21 @@ graph
     commentcount 446
     duration "PT14M41S"
     indegree 1
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 476
+    id 354
+    name "476"
     label "vP7J1cYrVMY"
     step 0
     date "2022-07-08T17:45:12Z"
@@ -6409,47 +9932,77 @@ graph
     commentcount 100
     duration "PT15M44S"
     indegree 5
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 478
-    label "B-Lfrby31Xk"
+    id 355
+    name "477"
+    label "w5wzYQE5Nm8"
     step 0
-    date "2022-05-11T09:00:08Z"
-    title "[EN] NCT,,? NFT?  ep.7"
-    description "&#50504;&#45397;&#54616;&#49888;&#44032; &#51105;&#44163;&#46308;~~&#10;&#44536;&#46041;&#50504; &#51088;&#49328;&#51008; &#51328; &#48520;&#47160;&#45716;&#44032;~~??&#10;&#50724;&#45720;&#46020; &#51116;&#53580;&#53356; &#46020;&#50864;&#47084; &#50728; &#52509;&#47924;&#48152;&#51109;&#51060;&#50732;&#49884;&#45796;^^!!!&#10;&#10;&#46024;&#53356;&#47592; &#48372;&#44256; &#44032;&#49345; &#51088;&#49328;&#51012; &#52376;&#51020; &#48376; &#51105;&#44163;&#46308;&#51060;&#46972;&#47732;,,&#10;&#44845;~~~ &#54616;&#45208; &#45908; &#50508;&#50500;&#50556; &#54616;&#45716; NCT,,? NFT?&#10;&#44536;&#47088; &#44172; &#51080;&#45908;&#46972;&#44256;~?&#10;&#10;&#46024;&#50892;&#47532; &#53804;&#51088;&#45800;&#46020; &#54644;&#48372;&#48068; &#51339;&#51012; &#44163; &#44057;&#50500;&#49436;,,&#10;&#51204;&#47928;&#44032; &#50577;&#48152;&#51012; &#47784;&#49512;&#45716;&#45936;,, &#51060;&#46160;&#55148;? &#47672; &#51648;&#45768;&#50612;&#49828;?&#10;&#50500;&#51452; &#51060;&#54644;&#44032; &#50137;&#50137; &#46104;&#44172; &#49444;&#47749;&#51012; &#54644;&#51452;&#45908;&#46972;&#44256;^^~~!!!&#10;&#10;&#50864;&#47532; &#51105;&#44163;&#46308; &#50526;&#51004;&#47196; &#48512;&#51088; &#46104;&#45716; &#44600;!!&#10;&#46024;&#53356;&#47592;&#51060; &#54637;&#49345; &#51025;&#50896;&#54616;&#45768;&#44760;,, &#54632;&#44760; &#44032;&#48372;&#51088;&#44256;~~^^&#128184;&#128184;&#128184;&#10;&#10;&#10;&#45348;&#44032; &#51068;&#54616;&#51648; &#47568;&#44256;, &#45348; &#46024;&#51060; &#51068;&#54616;&#44172; &#54616;&#46972;! [&#46024;&#50892;&#53356;&#47592;]&#10;&#9654; &#44201;&#51452; &#49688; &#50724;&#54980; 6&#49884; &#44277;&#44060;&#10;&#10;* &#51648;&#45208;&#52828; &#48708;&#48169; &#48143; &#51064;&#49888;&#44277;&#44201;&#49457; &#45843;&#44544;&#51008; &#44288;&#47532;&#51088;&#50640; &#51032;&#54644; &#49325;&#51228;&#46112; &#49688; &#51080;&#49845;&#45768;&#45796;.&#10;&#10;#&#46024;&#50892;&#53356;&#47592; #&#44032;&#49345;&#51088;&#49328; #NFT&#10;#dontworkman #&#51452;&#49885; #&#44032;&#49345;&#51088;&#49328;&#44144;&#47000;&#10;#&#51109;&#49457;&#44508; #&#44608;&#44592;&#54785; #&#49888;&#49828; #&#51060;&#46160;&#55148; #&#53804;&#51088; #&#51116;&#53580;&#53356;"
-    channeltitle "&#50892;&#53356;&#47592;-Workman"
-    channelid "UCwx6n_4OcLgzAGdty0RWCoA"
+    date "2021-06-16T16:55:44Z"
+    title "2 Cardano NFT GEMS that you need to have on your radar..."
+    description "EASILY mint Cardano NFT's - http://nft-maker.io&#10;Check out Unsigs *amazing* art NFTs - https://unsigs.com&#10;Hashoshi sat down with Cardano NFT pioneers, Patrick Tobler and Alex Watanabe, the creators of NFT-maker.io and Unsigs (Unsigned Algorithm art) to talk about Cardano NFTs and why Cardano multi asset support makes native tokens so much easier to use. These tokens behave as if they are Cardano ADA native to the blockchain. As Cardano smart contracts go live on mainnet, even more powerful functionality will come to NFT projects via Cardano dapps.&#10;&#10;Cardano ADA Holders! Please consider delegating to the official Hashoshi Stake Pool!&#10;Ticker: H4SH&#10;Pool ID: 30c3386cefe12b15ca1d88be666db917e51a860722913ec4058c8359&#10;&#10;&#128064; Relevant Links:&#10;Alex Watanabe:&#10;@unsigned_algo&#10;@MonadPool&#10;&#10;https://unsigs.com&#10;https://ww.monadpool.com&#10;&#10;Patrick Tobler: &#10;@Padierfind&#10;@nftmakerio&#10; &#10;http://nft-maker.io&#10;http://pool-of-babel.com&#10;&#10;Important &#9888;&#65039; The opinions and information presented in this video are strictly my own or those of the interviewee featured in the episode, and are not representative of any other individual or entity. The content provided in this video is informational in nature and does not constitute financial advice.&#10;&#10;0:00 Welcome&#10;&#10;0:22 Patrick Tobler - Introduction&#10;&#10;1:34 Alex Watanabe - Introduction&#10;&#10;3:49 Delegate to the BABEL, MONAD, H4SH Cardano Stake Pools!&#10;&#10;4:32 Cardano NFTs: Why are they unique?&#10;&#10;6:55 but what are NFTs?&#10;&#10;7:58 Is the NFT craze over? The hype has died down?&#10;&#10;8:38 Unsigs is an innovative NFT project to look into&#10;&#10;12:09 Crypto provides such powerful opportunities &#10;&#10;12:38 [NFT-Maker.io](http://nft-maker.io) helps you mint Cardano NFT's EASILY&#10;&#10;16:00 Have an idea? GO BUILD IT!&#10;&#10;17:48 Where to find Unsigs and NFT Maker&#10;&#10;&#127881; // GET STARTED WITH CRYPTO // &#127881;&#10;-----------------------------------------------------------------&#10;&#127853; Earn free bitcoin while you shop with Lolli: http://bit.ly/lolli-btc&#10;&#128176;  Get some Bitcoin with Swan: https://www.swanbitcoin.com/hashoshi/&#10;&#128421;&#65039;  Build your coding skills: http://bit.ly/blockchain-code-learn&#10;&#129409;  Try the best web browser, Brave: http://bit.ly/2O1koBZ&#10;&#10;&#10;&#128272; // PROTECT YOUR CRYPTO //  &#128272;&#10;---------------------------------------------------------------&#10;Get a Trezor Model T wallet here: http://bit.ly/trezor_t&#10;Get a Trezor One wallet here: http://bit.ly/trezor_1&#10;Get a BC Vault wallet here: http://bit.ly/2X6zFSH&#10;&#10;&#128591; // CONNECT WITH ME ON SOCIAL // &#128591;&#10;&#10;I am @hashoshi4, let's hang out! &#10;&#10;Twitter: http://bit.ly/2EDnBjp&#10;Instagram: http://bit.ly/2ECkecO&#10;&#10;&#128721; // DISCLAIMERS &#38; TRANSPARENCY // &#128721;&#10;&#10;&#128314; This description box contains affiliate links, which means that if you click on one of the product links, I&#8217;ll receive a small commission. Most often, I include links to products when I do product reviews, but I do not allow brands to dictate my message in relation to a product or service. You will always get my personal and honest opinion. &#10;&#10;The information in this video is an opinion and is for informational purposes only.  It is not intended as investment advice, nor does it represent any entity's opinion but my own.  Seek a duly licensed professional for investment advice. No guarantees are being made, nor promises rendered of financial gain or other benefit in this highly speculative market. &#10;&#10;&#10;#Hashoshi #Cryptocurrency #Cardano"
+    channeltitle "Hashoshi"
+    channelid "UCQNHKsYDGlWefzv9MAaOJGA"
     favcount 0
-    viewcount 214807
-    likecount 2685
-    commentcount 310
-    duration "PT13M29S"
-    indegree 5
-    cluster 12
-  ]
-  node
-  [
-    id 482
-    label "A00Hk6M0zpk"
-    step 0
-    date "2021-05-09T07:15:44Z"
-    title "The NFT Song -  | Nft Music"
-    description "The NFT Song https://danic.video/the-nft-song&#10;This song is on sale as an NFT on OpenSea at this adress :&#10;https://danic.video/the-nft-song&#10;&#169; Daniel Ichbiah (2022)&#10;Sale has begun on 7 march 2022 and will end on 10 June 2022.&#10;&#10;Lyrics&#10;Download me&#10;Download me&#10;Cherish me&#10;Protect me&#10;I&#8217;m your NFT&#10;&#10;Download me&#10;Download me&#10;Cherish me&#10;Protect me&#10;I&#8217;m your NFT&#10;&#10;I don&#8217;t want you to question my unicity&#10;I&#8217;m protected by a blockchain inside of me&#10;Don&#8217;t you dare to argue my unicity&#10;Cause you see, inside of me I&#8217;m an NFT&#10;&#10;What would you say if you found a copy of me ?&#10;You&#8217;d realise that it&#8217;s not me cause I&#8217;m an NFT&#10;&#10;(Word and music : Daniel Ichbiah)&#10;&#10;&#10;You may wonder what is NFT music ?&#10;NFTs (non fungible token) have taken the world by storm since the beginning of 2021. Many artists, but also entrepreneurs are jumping to cash in on the action. And many musicians or music artists believe that it might take over the music industry by taking the power away from record labels. And that it might give some power back to the creators.  For example, 3LAU, has made a record $3.6 Million in NFT music sales. Some famous artists such as Kings of Leon or Linkin Park Mike Shinoda have entered the NFT music. And NFT songs sells habitually for $25 K on platform Rocki. Some NFTs can also include unlockable content only available to the owner(s) of it. NFT may also help defining who you are as an artist and building a community of fans.&#10;&#10;You may have learned about :&#10;. The song about NFTs by Elon Musk where he tweeted &#34;I&#8217;m selling this song about NFTs as an NFT&#34;&#10;. The techno version of the Elon Musk NFT Song&#10;. &#8220;Without Me&#8221; by Eminem&#10;. The cast of &#34;Saturday Night Live&#34; performed a rap explaining cryptocurrency : &#34;What the hell's an NFT?&#34; &#10;. The Weeknd - The Source (which was sold $490,000.00.&#10;&#10;This video is showing a nft song   but also belongs to the following subjects :&#10;-nft music &#10;-nft music production &#10;-nft song video&#10;&#10;&#10;This YouTube channel has other similar video clips including another nft song : &#10;https://www.youtube.com/watch?v=EPHXzmwSujM&#10;&#10;&#10;Subscribe to my channel :  &#10;https://www.youtube.com/channel/UC7KXEFnwkZkS8QzE9gAG0Pg&#10;&#10;&#10;Did you like this NFT song ? Do you think this is the best NFT song ? If so let me know.&#10;Or, if you were trying to find more information about nft music or nft music production did this description help? If so, you may want to comment listed below.&#10;&#10;The video is about The nft song but also covers the following subject:&#10;-nft music &#10;-nft music production &#10;-nft song video&#10;&#10;#nftsong #nft #NFT #cryptomusic #blockchain&#10;&#10;This video : https://youtu.be/A00Hk6M0zpk&#10;&#10;Link for easy sharing : https://danic.video/nft"
-    channeltitle "Daniel Ichbiah"
-    channelid "UC7KXEFnwkZkS8QzE9gAG0Pg"
-    favcount 0
-    viewcount 152620
-    likecount 185
-    commentcount 36
-    duration "PT3M16S"
+    viewcount 14662
+    likecount 817
+    commentcount 91
+    duration "PT22M2S"
     indegree 0
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 483
+    id 356
+    name "479"
+    label "sCuRJgiv9Ls"
+    step 0
+    date "2022-03-26T21:57:05Z"
+    title "THIS PLAYER TRADED TALKING BEN + HOW YOU CAN GET TALKING BEN (NFT CODES?) |Pop It Trading  | ROBLOX"
+    description "HI GUYS AND WELCOME TO THIS ROBLOX VIDEO.&#10;&#10;MAKE SURE TO SUBSCRIBE AND LIKE FOR MORE ROBLOX CONTENT&#10;&#10;THANKS! THESE ARE ALL ROBLOX CODES&#10;&#10;HERE IS MY ROBLOX GROUP AND MY ROBLOX PROFILE:&#10;&#10;group: https://www.roblox.com/groups/3637358/GoldenOwl-Fan-Group#!/about&#10;profile: https://www.roblox.com/users/95319131/profile"
+    channeltitle "GoldLeaf"
+    channelid "UCjTmXtQgMC3dSNJ2q3auBSQ"
+    favcount 0
+    viewcount 42876
+    likecount 690
+    commentcount 147
+    duration "PT2M23S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 13
+  ]
+  node
+  [
+    id 357
+    name "483"
     label "jjn5Sz4kEYA"
     step 0
     date "2022-01-21T16:15:01Z"
@@ -6463,11 +10016,21 @@ graph
     commentcount 40
     duration "PT6M8S"
     indegree 1
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 484
+    id 358
+    name "484"
     label "IFoayhttQFU"
     step 0
     date "2022-01-22T10:00:09Z"
@@ -6481,11 +10044,21 @@ graph
     commentcount 102
     duration "PT6M1S"
     indegree 2
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 485
+    id 359
+    name "485"
     label "jdxhRKh4gmA"
     step 0
     date "2021-05-06T09:01:46Z"
@@ -6499,11 +10072,21 @@ graph
     commentcount 360
     duration "PT6M22S"
     indegree 8
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 486
+    id 360
+    name "486"
     label "0Q6iqUYCqZY"
     step 0
     date "2022-07-04T09:10:25Z"
@@ -6517,11 +10100,21 @@ graph
     commentcount 16
     duration "PT12M47S"
     indegree 2
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 487
+    id 361
+    name "487"
     label "8X6mj8-mk34"
     step 0
     date "2021-03-18T02:16:47Z"
@@ -6535,47 +10128,77 @@ graph
     commentcount 2291
     duration "PT4M52S"
     indegree 13
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
+  ]
+  node
+  [
+    id 362
+    name "488"
+    label "7DsB_iNVLuw"
+    step 0
+    date "2022-07-11T10:47:03Z"
+    title ""
+    description "&#9989;&#12475;&#12473;&#12463;&#20844;&#24335;LINE&#9989;&#10;&#10145;&#65039;https://lin.ee/HAbggF3&#10;&#10145;&#65039;@544vkxda&#10;&#29305;&#20856;2&#36913;&#38291;&#12391;P2E&#12391;&#24471;&#12383;&#21033;&#30410;&#12434;9&#20493;&#12395;&#12375;&#12383;&#26041;&#27861;&#30693;&#12426;&#12383;&#12356;&#26041;&#12399;&#10;&#12513;&#12483;&#12475;&#12540;&#12472;&#36865;&#12387;&#12390;&#12367;&#12384;&#12373;&#12356;&#12290;&#10;&#10;&#9679;Crypto Legions Twitter&#10;&#10145;&#65038;https://twitter.com/LegionsCrypto&#10;&#10;&#9679;&#12475;&#12473;&#12463;Twitter&#10;&#10145;&#65038;https://twitter.com/sesk_3232&#10;&#10;&#9679;gate.io&#30331;&#37682;&#10;https://www.gate.io/signup/10917436&#10;&#10;&#9679;ByBit&#10;https://www.bybit.com/ja-JP/invite?ref=VQOMZ8&#10;&#32057;&#20171;&#12467;&#12540;&#12489;&#10;VQOMZ8&#10;&#10;&#9679;BITNEXT&#10;https://bit-next.com/?r=rbv6s0xa&#10;&#10;&#10;&#10;&#12304;&#12458;&#12473;&#12473;&#12513;&#12398;&#20182;&#12481;&#12515;&#12531;&#12493;&#12523;&#12373;&#12435;&#12305;&#10;&#10;DeFitter&#12472;&#12519;&#12531;&#12373;&#12435;&#10;https://youtu.be/i1HGTaruq6k&#10;&#8594;&#35504;&#12424;&#12426;&#12418;Defi&#12395;&#35443;&#12375;&#12356;&#12391;&#12377;&#12290;&#10;&#10;&#39640;&#27211;&#12480;&#12531;&#12373;&#12435;&#10;https://youtu.be/UNfSP9PfR90&#10;&#8594;&#12461;&#12515;&#12522;&#12450;&#30340;&#12395;&#25237;&#36039;&#20840;&#33324;&#12391;&#26368;&#24375;&#12463;&#12521;&#12473;&#12290;&#10;&#10;Joe Takayama&#12373;&#12435;&#10;https://youtu.be/kYE5WsdEHPw&#10;&#8594;&#38750;&#24120;&#12395;&#12431;&#12363;&#12426;&#12420;&#12377;&#12367;&#30456;&#22580;&#12420;&#12491;&#12517;&#12540;&#12473;&#12434;&#35299;&#35500;&#12375;&#12390;&#12367;&#12428;&#12414;&#12377;&#12290;&#10;&#10;&#12422;&#12394;&#12422;&#12394;&#12373;&#12435;&#10;https://youtu.be/MCBU_i16uDg&#10;&#8594;&#23455;&#38555;&#12395;&#21462;&#24341;&#25152;&#12398;&#35299;&#35500;&#26041;&#27861;&#12420;IDO&#12408;&#12398;&#21442;&#21152;&#21205;&#30011;&#12394;&#12393;&#12289;&#21021;&#24515;&#32773;&#12398;&#26041;&#12395;&#12362;&#12377;&#12377;&#12417;&#12391;&#12377;&#12290;&#12354;&#12392;&#21487;&#24859;&#12356;&#12391;&#12377;&#12290;&#10;&#10;&#10;#&#20206;&#24819;&#36890;&#36008;&#12288;#&#12499;&#12483;&#12488;&#12467;&#12452;&#12531; #&#12467;&#12452;&#12531;&#12481;&#12455;&#12483;&#12463;"
+    channeltitle "&#12475;&#12473;&#12463;&#12539;&#12463;&#12499;&#12391;&#12418;&#20740;&#12426;&#20154;&#12466;&#12540;&#12510;&#12540;"
+    channelid "UC7jwj_5D9CGk7J7WkREyoRg"
+    favcount 0
+    viewcount 813
+    likecount 21
+    commentcount 1
+    duration "PT11M55S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
+  ]
+  node
+  [
+    id 363
+    name "493"
+    label "CryOSWwexao"
+    step 0
+    date "2021-08-07T16:00:05Z"
+    title "Jak funguje nkup NFT? Postup krok za krokem"
+    description "&#128293; Pro dal&#353;&#237; tipy sleduj m&#367;j Instagram - https://pmara.cz/PM_IG&#10;&#10;&#128293; Metamask - https://metamask.io&#10;&#10;&#128293; Kde nakupovat NFT&#10;https://opensea.io&#10;https://rarible.com&#10;https://www.larvalabs.com/cryptopunks&#10;https://superrare.com/&#10;&#10;&#128293; Odb&#283;r kan&#225;lu&#10;https://www.youtube.com/channel/UCSgFxc7dM_mjQIC0zxn1zqw?sub_confirmation=1&#10;&#10;&#9757;&#127996; Doporu&#269;en&#233; aplikace, slu&#382;by a gadgety, kter&#233; pou&#382;&#237;v&#225;m, v&#269;etn&#283; slev &#9757;&#127996; &#10;&#128073;&#127996; https://kit.co/petrmara &#128072;&#127996;&#10;&#10;Odeb&#237;rej m&#367;j newsletter&#10;&#128073;&#127996; https://www.petrmara.com/#newsletter &#128072;&#127996;&#10;&#10;V&#237;ce:&#10;Merch - http://mementomori.pm&#10;http://instagram.com/petrmara&#10;http://petrmara.com&#10;http://virtualnikomunikace.cz&#10;http://facebook.com/petrmara.page&#10;http://twitter.com/petrmara&#10;&#10;Kamera &#38;&#160;St&#345;ih: Marek Va&#328;ourek&#10;&#10;Hudba: Artlist - https://artlist.io/Petr-775415"
+    channeltitle "Petr M&#225;ra"
+    channelid "UCSgFxc7dM_mjQIC0zxn1zqw"
+    favcount 0
+    viewcount 72259
+    likecount 2795
+    commentcount 142
+    duration "PT11M10S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 492
-    label "8niOOQTxUXg"
-    step 0
-    date "2021-11-06T18:34:27Z"
-    title " | @Kasmi Youness"
-    description "&#1581;&#1589;&#1585;&#1610;&#1575; &#1601;&#1610; &#1575;&#1604;&#1580;&#1586;&#1569; &#1575;&#1604;&#1575;&#1608;&#1604; &#1587;&#1610;&#1588;&#1585;&#1581; &#1604;&#1606;&#1575; @Kasmi Youness &#1605;&#1575; &#1607;&#1610; &#1575;&#1604; Metaverse &#1608; &#1605;&#1575; &#1607;&#1608; &#1575;&#1604; NFT &#1576;&#1588;&#1603;&#1604; &#1593;&#1575;&#1605;&#10;&#10;&#1575;&#1604;&#1581;&#1604;&#1602;&#1577; &#1575;&#1604;&#1579;&#1575;&#1606;&#1610;&#1577; &#1601;&#1610; &#1602;&#1575;&#1583;&#1605; &#1575;&#1604;&#1575;&#1610;&#1575;&#1605; &#1575;&#1606; &#1588;&#1575;&#1569; &#1575;&#1604;&#1604;&#1607;&#10;&#10;&#1575;&#1584;&#1575; &#1575;&#1593;&#1580;&#1576;&#1603; &#1575;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1604;&#1575; &#1578;&#1606;&#1587;&#1609; &#1583;&#1593;&#1605;&#1610; &#1576;&#1586;&#1585; &#1604;&#1575;&#1610;&#1603; &#1608; &#1605;&#1588;&#1575;&#1585;&#1603;&#1577; &#1575;&#1604;&#1601;&#1610;&#1583;&#1610;&#1608; &#1605;&#1593; &#1575;&#1589;&#1583;&#1602;&#1575;&#1574;&#1603; &#1604;&#1603;&#1610; &#1610;&#1587;&#1578;&#1601;&#1610;&#1583; &#1575;&#1604;&#1580;&#1605;&#1610;&#1593;&#10;&#10;Follow Me &#1578;&#1575;&#1576;&#1593;&#1606;&#1610;&#10;&#128313; Instagram  : http://instagram.com/salim.hamidi&#10;&#10;For Business : arsalimtv@gmail.com&#10;&#10;#NFT #ETH #Opensea"
-    channeltitle "Selim Hamidi &#1587;&#1604;&#1610;&#1605; &#1581;&#1605;&#1610;&#1583;&#1610;"
-    channelid "UCWw2aZP-gZpffyPD1EDJ0wA"
-    favcount 0
-    viewcount 702518
-    likecount 48137
-    commentcount 786
-    duration "PT16M4S"
-    indegree 5
-    cluster 8
-  ]
-  node
-  [
-    id 494
-    label "UU5i1hPGbH0"
-    step 0
-    date "2022-02-08T16:31:56Z"
-    title " NFT?"
-    description "&#1071;&#1050; &#1047;&#1040;&#1056;&#1054;&#1041;&#1048;&#1058;&#1048; &#1053;&#1040; NFT?&#10;&#1042; &#1094;&#1100;&#1086;&#1084;&#1091; &#1074;&#1110;&#1076;&#1077;&#1086; &#1103; &#1088;&#1086;&#1079;&#1082;&#1072;&#1078;&#1091; &#1110; &#1087;&#1086;&#1082;&#1072;&#1078;&#1091; &#1074;&#1072;&#1084; &#1103;&#1082; &#1084;&#1086;&#1078;&#1085;&#1072; &#1079;&#1072;&#1088;&#1086;&#1073;&#1080;&#1090;&#1080; &#1079;&#1072; &#1076;&#1086;&#1087;&#1086;&#1084;&#1086;&#1075;&#1086;&#1102; &#1085;&#1092;&#1090; &#1087;&#1088;&#1086;&#1089;&#1090;&#1080;&#1084; &#1083;&#1102;&#1076;&#1103;&#1084;, &#1089;&#1082;&#1110;&#1083;&#1100;&#1082;&#1080; &#1084;&#1086;&#1078;&#1085;&#1072; &#1079;&#1072;&#1088;&#1086;&#1073;&#1080;&#1090;&#1080; &#1110; &#1087;&#1086;&#1082;&#1072;&#1078;&#1091; &#1074;&#1072;&#1084; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1110; &#1087;&#1088;&#1080;&#1082;&#1083;&#1072;&#1076;&#1080;&#10;&#10;&#1052;&#1086;&#1103; &#1082;&#1086;&#1083;&#1077;&#1082;&#1094;&#1110;&#1103; &#1053;&#1060;&#1058; - https://opensea.io/RDeni&#10;&#10;&#1052;&#1110;&#1081; &#1090;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1082;&#1072;&#1085;&#1072;&#1083; - https://t.me/crypto_rdeni&#10;&#1052;&#1110;&#1081; &#1076;&#1088;&#1091;&#1075;&#1080;&#1081; &#1090;&#1075; &#1082;&#1072;&#1085;&#1072;&#1083; - https://t.me/bulka_crypto&#10;&#10;&#1030;&#1085;&#1089;&#1090;&#1072;&#1075;&#1088;&#1072;&#1084; - https://www.instagram.com/rostik.deni"
-    channeltitle "RDeni"
-    channelid "UCPLZhY0Hw6D2qHR1zLgW4_w"
-    favcount 0
-    viewcount 174586
-    likecount 13750
-    commentcount 598
-    duration "PT6M59S"
-    indegree 7
-    cluster 11
-  ]
-  node
-  [
-    id 495
+    id 364
+    name "495"
     label "e8xocC9qL54"
     step 0
     date "2022-07-09T14:00:28Z"
@@ -6589,29 +10212,49 @@ graph
     commentcount 118
     duration "PT9M39S"
     indegree 3
-    cluster 4
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 497
-    label "IS2Dr_uQk-I"
+    id 365
+    name "496"
+    label "Tr_T9-FcuPA"
     step 0
-    date "2021-09-06T09:35:12Z"
-    title ""
-    description "&#128142; &#1058;&#1077;&#1083;&#1077;&#1075;&#1088;&#1072;&#1084; &#1082;&#1072;&#1085;&#1072;&#1083; Cryptaza Pro&#160;https://t.me/cryptazapro&#10;&#10;&#128142; &#1050;&#1091;&#1087;&#1080;&#1090;&#1100; NFT &#1080;&#1079; &#1088;&#1086;&#1083;&#1080;&#1082;&#1072; &#1079;&#1072; 9,99 ETH &#1084;&#1086;&#1078;&#1085;&#1086; &#1090;&#1091;&#1090; https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/72228268832004036465647593468905015964367967520908543791564183845185918074881/&#10;&#10;&#128142; &#1055;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1072; OpenSea https://opensea.io&#10;&#10;NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#1099; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1091; &#1084;&#1085;&#1086;&#1075;&#1080;&#1093; &#1085;&#1072; &#1089;&#1083;&#1091;&#1093;&#1091;. &#1053;&#1072;&#1074;&#1077;&#1088;&#1085;&#1103;&#1082;&#1072; &#1074;&#1099; &#1089;&#1083;&#1099;&#1096;&#1072;&#1083;&#1080;, &#1095;&#1090;&#1086; &#1089;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090; &#1090;&#1072;&#1082;&#1086;&#1077; &#1087;&#1086;&#1085;&#1103;&#1090;&#1080;&#1077;, &#1082;&#1072;&#1082; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1072;&#1088;&#1090;. &#1053;&#1077;&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1094;&#1080;&#1092;&#1088;&#1086;&#1074;&#1099;&#1077; &#1093;&#1091;&#1076;&#1086;&#1078;&#1085;&#1080;&#1082;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1102;&#1090; &#1089; &#1087;&#1086;&#1084;&#1086;&#1097;&#1100;&#1102; NFT &#1084;&#1080;&#1083;&#1083;&#1080;&#1086;&#1085;&#1099; &#1076;&#1086;&#1083;&#1083;&#1072;&#1088;&#1086;&#1074;, &#1085;&#1086; &#1082;&#1072;&#1082; &#1078;&#1077; &#1085;&#1072;&#1084;, &#1087;&#1088;&#1086;&#1089;&#1090;&#1099;&#1084; &#1083;&#1102;&#1076;&#1103;&#1084; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT?&#10;&#10;&#1042; &#1101;&#1090;&#1086;&#1084; &#1074;&#1080;&#1076;&#1077;&#1086; &#1103; &#1087;&#1086;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102; &#1087;&#1086;&#1096;&#1072;&#1075;&#1086;&#1074;&#1086;, &#1082;&#1072;&#1082; &#1089;&#1086;&#1079;&#1076;&#1072;&#1090;&#1100; &#1089;&#1074;&#1086;&#1081; NFT &#1085;&#1072; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1077; OpenSea &#1080; &#1082;&#1072;&#1082; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1090;&#1086;&#1082;&#1077;&#1085;&#1072;&#1093;. &#1042;&#1099; &#1091;&#1074;&#1080;&#1076;&#1080;&#1090;&#1077;, &#1082;&#1072;&#1082; &#1088;&#1072;&#1079;&#1084;&#1077;&#1089;&#1090;&#1080;&#1090;&#1100; NFT &#1082;&#1072;&#1088;&#1090;&#1080;&#1085;&#1082;&#1091; &#1085;&#1072; &#1084;&#1072;&#1088;&#1082;&#1077;&#1090;&#1087;&#1083;&#1077;&#1081;&#1089;&#1077; OpenSea &#1074; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1086;&#1084; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080;. &#10;______________________&#10;&#1053;&#1072; &#1082;&#1072;&#1085;&#1072;&#1083;&#1077; CRYPTAZA &#1074;&#1099; &#1091;&#1079;&#1085;&#1072;&#1077;&#1090;&#1077; &#1084;&#1085;&#1086;&#1075;&#1086; &#1085;&#1086;&#1074;&#1086;&#1075;&#1086; &#1086; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1072;&#1093;, &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1077; &#1080; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1103;&#1093; &#1073;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1086; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100;, &#1074;&#1099;&#1080;&#1075;&#1088;&#1072;&#1090;&#1100; &#1080;&#1083;&#1080; &#1087;&#1086;&#1083;&#1091;&#1095;&#1080;&#1090;&#1100; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091; &#1088;&#1072;&#1079;&#1085;&#1099;&#1093; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1086;&#1074; &#1080; &#1073;&#1083;&#1086;&#1082;&#1095;&#1077;&#1081;&#1085;&#1086;&#1074;. &#1044;&#1077;&#1083;&#1080;&#1084;&#1089;&#1103; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1099;&#1084;&#1080; &#1080; &#1073;&#1077;&#1089;&#1087;&#1083;&#1072;&#1090;&#1085;&#1099;&#1084;&#1080; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1072;&#1084;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;, &#1073;&#1077;&#1079; &#1089;&#1093;&#1077;&#1084;, &#1088;&#1072;&#1079;&#1074;&#1086;&#1076;&#1086;&#1074; &#1080; &#1085;&#1077;&#1086;&#1073;&#1093;&#1086;&#1076;&#1080;&#1084;&#1086;&#1089;&#1090;&#1080; &#1082;&#1091;&#1076;&#1072;-&#1090;&#1086; &#1086;&#1090;&#1087;&#1088;&#1072;&#1074;&#1083;&#1103;&#1090;&#1100; &#1089;&#1074;&#1086;&#1080; &#1076;&#1077;&#1085;&#1100;&#1075;&#1080;.&#10;&#10;&#1053;&#1080;&#1078;&#1077; &#1074;&#1099; &#1085;&#1072;&#1081;&#1076;&#1077;&#1090;&#1077; &#1089;&#1089;&#1099;&#1083;&#1082;&#1080; &#1085;&#1072; &#1087;&#1088;&#1086;&#1074;&#1077;&#1088;&#1077;&#1085;&#1085;&#1099;&#1077; &#1089;&#1072;&#1081;&#1090;&#1099;, &#1089;&#1077;&#1088;&#1074;&#1080;&#1089;&#1099;, &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1099; &#1080; &#1073;&#1080;&#1088;&#1078;&#1080;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1087;&#1086;&#1084;&#1086;&#1075;&#1091;&#1090; &#1074;&#1072;&#1084; &#1079;&#1072;&#1088;&#1072;&#1073;&#1072;&#1090;&#1099;&#1074;&#1072;&#1090;&#1100; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091;, &#1085;&#1072;&#1076;&#1077;&#1078;&#1085;&#1086; &#1077;&#1077; &#1093;&#1088;&#1072;&#1085;&#1080;&#1090;&#1100; &#1080; &#1087;&#1088;&#1080;&#1091;&#1084;&#1085;&#1086;&#1078;&#1072;&#1090;&#1100;.&#10;&#10;&#9989;&#160;&#1050;&#1056;&#1048;&#1055;&#1058;&#1054; &#1041;&#1048;&#1056;&#1046;&#1048;&#10;&#10;&#128312;&#1058;&#1086;&#1087;&#1086;&#1074;&#1072;&#1103; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1085;&#1072;&#1103; &#1073;&#1080;&#1088;&#1078;&#1072; Binance&#160;https://bit.ly/2VoA5Vo&#10;&#128312;&#1044;&#1077;&#1094;&#1077;&#1085;&#1090;&#1088;&#1072;&#1083;&#1080;&#1079;&#1086;&#1074;&#1072;&#1085;&#1085;&#1072;&#1103; &#1073;&#1080;&#1088;&#1078;&#1072; 1inch&#160;https://bit.ly/2Hh776D&#10;&#128312;Coinlist https://bit.ly/3r4dDj8&#10;&#128312;&#1057;&#1090;&#1077;&#1081;&#1082;&#1080;&#1085;&#1075; USDN &#1085;&#1072; Waves 10-20% &#1075;&#1086;&#1076;&#1086;&#1074;&#1099;&#1093;&#160;https://bit.ly/37rmjaa&#10;&#10;&#9989;&#160;&#1050;&#1056;&#1048;&#1055;&#1058;&#1054; &#1050;&#1054;&#1064;&#1045;&#1051;&#1068;&#1050;&#1048;&#10;&#10;&#128312;&#1053;&#1072;&#1076;&#1077;&#1078;&#1085;&#1099;&#1081; &#1082;&#1086;&#1096;&#1077;&#1083;&#1077;&#1082; &#1076;&#1083;&#1103; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090; Trust Wallet&#160;https://bit.ly/34C2zz9&#10;&#128312;&#1051;&#1091;&#1095;&#1096;&#1080;&#1081; &#1093;&#1086;&#1083;&#1086;&#1076;&#1085;&#1099;&#1081; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1082;&#1086;&#1096;&#1077;&#1083;&#1077;&#1082; Ledger&#160;http://bit.ly/3a0lAwE&#10;&#10;&#9989;&#160;&#1054;&#1041;&#1052;&#1045;&#1053;&#1050;&#1048;&#10;&#10;&#128312;&#1040;&#1075;&#1088;&#1077;&#1075;&#1072;&#1090;&#1086;&#1088; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1085;&#1099;&#1093; &#1086;&#1073;&#1084;&#1077;&#1085;&#1086;&#1082; #1 BestChange&#160;https://bit.ly/2REd9Ab&#10;&#10;&#9989;&#160;&#1050;&#1056;&#1048;&#1055;&#1058;&#1054; &#1057;&#1045;&#1056;&#1042;&#1048;&#1057;&#1067;&#10;&#10;&#128312;&#1057;&#1077;&#1088;&#1074;&#1080;&#1089; &#1072;&#1074;&#1090;&#1086;&#1084;&#1072;&#1090;&#1080;&#1079;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1085;&#1086;&#1075;&#1086; &#1082;&#1088;&#1080;&#1087;&#1090;&#1086;&#1090;&#1088;&#1077;&#1081;&#1076;&#1080;&#1085;&#1075;&#1072; 3commas&#160;https://bit.ly/3a8XgZr&#10;______________________________&#10;&#10;&#10071;&#65039;&#1044;&#1048;&#1057;&#1050;&#1051;&#1045;&#1049;&#1052;&#1045;&#1056;&#10;&#10;&#1050;&#1072;&#1085;&#1072;&#1083; CRYPTAZA&#160;&#1080; &#1072;&#1074;&#1090;&#1086;&#1088; &#1085;&#1077; &#1085;&#1077;&#1089;&#1077;&#1090; &#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1080; &#1079;&#1072; &#1083;&#1102;&#1073;&#1099;&#1077; &#1084;&#1072;&#1090;&#1077;&#1088;&#1080;&#1072;&#1083;&#1099;, &#1091;&#1082;&#1072;&#1079;&#1072;&#1085;&#1085;&#1099;&#1077;&#160;&#1074; &#1074;&#1080;&#1076;&#1077;&#1086;, &#1080; &#1085;&#1077; &#1085;&#1077;&#1089;&#1077;&#1090; &#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1080; &#1079;&#1072; &#1083;&#1102;&#1073;&#1099;&#1077; &#1091;&#1073;&#1099;&#1090;&#1082;&#1080;&#160;&#1080;&#1083;&#1080; &#1087;&#1086;&#1090;&#1077;&#1088;&#1080;, &#1089;&#1074;&#1103;&#1079;&#1072;&#1085;&#1085;&#1099;&#1077; &#1089; &#1083;&#1102;&#1073;&#1099;&#1084;&#1080; &#1087;&#1088;&#1086;&#1076;&#1091;&#1082;&#1090;&#1072;&#1084;&#1080; &#1080;&#1083;&#1080; &#1091;&#1089;&#1083;&#1091;&#1075;&#1072;&#1084;&#1080;,&#160;&#1091;&#1087;&#1086;&#1084;&#1103;&#1085;&#1091;&#1090;&#1099;&#1084;&#1080; &#1074; &#1074;&#1080;&#1076;&#1077;&#1086;. CRYPTAZA &#1087;&#1088;&#1080;&#1079;&#1099;&#1074;&#1072;&#1077;&#1090; &#1079;&#1088;&#1080;&#1090;&#1077;&#1083;&#1077;&#1081;&#160;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1080;&#1090;&#1100; &#1089;&#1086;&#1073;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1077; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1103; &#1089; &#1076;&#1086;&#1083;&#1078;&#1085;&#1086;&#1081; &#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102;&#160;&#1086; &#1082;&#1086;&#1084;&#1087;&#1072;&#1085;&#1080;&#1080;, &#1087;&#1088;&#1086;&#1076;&#1091;&#1082;&#1090;&#1077; &#1080;&#1083;&#1080; &#1091;&#1089;&#1083;&#1091;&#1075;&#1077;, &#1091;&#1087;&#1086;&#1084;&#1103;&#1085;&#1091;&#1090;&#1099;&#1093; &#1074; &#1074;&#1080;&#1076;&#1077;&#1086; &#1080; &#1087;&#1086;&#1089;&#1090;&#1072;&#1093; &#1074; &#1089;&#1086;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1089;&#1077;&#1090;&#1103;&#1093;. CRYPTAZA&#160;&#1085;&#1077; &#1087;&#1088;&#1077;&#1076;&#1086;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1090; &#1080;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1094;&#1080;&#1086;&#1085;&#1085;&#1099;&#1077;, &#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1086;&#1074;&#1099;&#1077; &#1080;&#1083;&#1080; &#1102;&#1088;&#1080;&#1076;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077; &#1082;&#1086;&#1085;&#1089;&#1091;&#1083;&#1100;&#1090;&#1072;&#1094;&#1080;&#1080;.&#10;&#10;&#1042;&#1089;&#1103; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1103; &#1074; &#1074;&#1080;&#1076;&#1077;&#1086; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1077;&#1085;&#1072; &#1080;&#1089;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1086; &#1074; &#1086;&#1079;&#1085;&#1072;&#1082;&#1086;&#1084;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1093; &#1094;&#1077;&#1083;&#1103;&#1093; &#1080; &#1085;&#1077; &#1103;&#1074;&#1083;&#1103;&#1077;&#1090;&#1089;&#1103; &#1087;&#1088;&#1080;&#1079;&#1099;&#1074;&#1086;&#1084; &#1082; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1102;."
-    channeltitle "CRYPTAZA"
-    channelid "UClCDXS1i8F2pvr_iKK5oAow"
+    date "2022-05-26T07:35:01Z"
+    title "Top 4 Promising Music NFT Projects"
+    description "Music NFTs are one of the fastest growing sectors in crypto. If you want to know some of the best crypto music NFTs, you&#8217;ll have to come to that conclusion yourself. To help you along the way, here are 4 music NFT projects explaining what is being done in the music NFT crypto sector.&#10;&#10;Timestamps:&#10;00:00 Crypto Music NFT&#10;01:35 Audius Review ($AUDIO crypto)&#10;03:41 Ceek VR Review ($CEEK crypto)&#10;05:45 Bondly Review ($BONDLY crypto)&#10;06:41 Geojam Review ($JAM crypto)&#10;&#10;Kucoin Referral: https://www.kucoin.com/r/QBSSS86T (20% off trading fees)&#10;&#10;Disclaimer: This video should not be considered financial advice or an endorsement of any of the coins mentioned. This is an explanation of the new coins that have been listed.&#10;&#10;#NFT #musicnft #AUDIO #CEEK #JAM #BONDLY"
+    channeltitle "KuCoin"
+    channelid "UCeHwvftAM2b9kRzGtXxWaGg"
     favcount 0
-    viewcount 934439
-    likecount 42115
-    commentcount 2405
-    duration "PT8M5S"
-    indegree 16
-    cluster 11
+    viewcount 60840
+    likecount 379
+    commentcount 63
+    duration "PT9M14S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 498
+    id 366
+    name "498"
     label "iTeC-pvsIIs"
     step 0
     date "2021-12-11T17:42:50Z"
@@ -6625,11 +10268,21 @@ graph
     commentcount 1870
     duration "PT22M21S"
     indegree 15
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 499
+    id 367
+    name "499"
     label "PnUpOzNodoc"
     step 0
     date "2022-02-27T15:44:30Z"
@@ -6643,29 +10296,49 @@ graph
     commentcount 57
     duration "PT8M16S"
     indegree 1
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 501
-    label "BJVVsRABZ-s"
+    id 368
+    name "500"
+    label "1Cnk-rOo99E"
     step 0
-    date "2022-04-24T16:29:17Z"
-    title "NFT )"
-    description "&#128073; &#1050;&#1072;&#1085;&#1072;&#1083; &#1087;&#1088;&#1086; NFT &#1080; &#1050;&#1088;&#1080;&#1087;&#1090;&#1086;&#1074;&#1072;&#1083;&#1102;&#1090;&#1091; &#8212; https://t.me/+yJKJgaCZwdU5NmRi&#10;&#10;&#1056;&#1072;&#1079;&#1074;&#1077;&#1088;&#1085;&#1080;.&#10;&#10;&#1090;&#1077;&#1083;&#1077;&#1075;&#1072; - https://t.me/kharchevnikov &#10;&#10;&#1047;&#1072; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1085;&#1080;&#1081; &#1084;&#1077;&#1089;&#1103;&#1094; NFT &#1082;&#1088;&#1086;&#1089;&#1089;&#1086;&#1074;&#1082;&#1080; STEPN &#1087;&#1086;&#1081;&#1084;&#1072;&#1083;&#1080; &#1086;&#1075;&#1088;&#1086;&#1084;&#1085;&#1091;&#1102; &#1074;&#1086;&#1083;&#1085;&#1091; &#1072;&#1078;&#1080;&#1086;&#1090;&#1072;&#1078;&#1072;. &#1056;&#1077;&#1082;&#1083;&#1072;&#1084;&#1072; &#1091; &#1052;&#1086;&#1088;&#1075;&#1077;&#1085;&#1096;&#1090;&#1077;&#1088;&#1085;&#1072; &#1080; &#1051;&#1080;&#1090;&#1074;&#1080;&#1085;&#1072;, &#1073;&#1077;&#1079;&#1091;&#1084;&#1085;&#1099;&#1081; &#1088;&#1086;&#1089;&#1090; &#1087;&#1086;&#1076;&#1087;&#1080;&#1089;&#1095;&#1080;&#1082;&#1086;&#1074; &#1089;&#1086;&#1086;&#1073;&#1097;&#1077;&#1089;&#1090;&#1074; &#1087;&#1086; &#1080;&#1075;&#1088;&#1077;, &#1076;&#1072; &#1080; &#1089;&#1072;&#1084; &#1092;&#1072;&#1082;&#1090; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1072; &#1085;&#1072; &#1093;&#1086;&#1076;&#1100;&#1073;&#1077; &#1087;&#1088;&#1080;&#1074;&#1083;&#1077;&#1082;&#1072;&#1077;&#1090; &#1082; &#1087;&#1088;&#1080;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1102; &#1074;&#1089;&#1077; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077;&#1077; &#1080; &#1073;&#1086;&#1083;&#1100;&#1096;&#1077;&#1077; &#1074;&#1085;&#1080;&#1084;&#1072;&#1085;&#1080;&#1077; &#1086;&#1073;&#1099;&#1095;&#1085;&#1099;&#1093; &#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1077;&#1083;&#1077;&#1081;. &#1053;&#1086; &#1074;&#1089;&#1077; &#1083;&#1080; &#1090;&#1072;&#1082; &#1087;&#1088;&#1086;&#1089;&#1090;&#1086;? &#1050;&#1072;&#1082; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1102;&#1090; NFT-&#1080;&#1075;&#1088;&#1099;? &#1048;&#1079; &#1095;&#1077;&#1075;&#1086; &#1092;&#1086;&#1088;&#1084;&#1080;&#1088;&#1091;&#1077;&#1090;&#1089;&#1103; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1086;&#1082; &#1074; &#1090;&#1072;&#1082;&#1080;&#1093; &#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1072;&#1093;? &#1042;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086; &#1083;&#1080; &#1079;&#1072;&#1088;&#1072;&#1073;&#1086;&#1090;&#1072;&#1090;&#1100; &#1085;&#1072; NFT &#1080;&#1075;&#1088;&#1072;&#1093; &#1080;&#1083;&#1080; &#1101;&#1090;&#1086; &#1086;&#1095;&#1077;&#1088;&#1077;&#1076;&#1085;&#1072;&#1103; &#1087;&#1080;&#1088;&#1072;&#1084;&#1080;&#1076;&#1072;? &#1044;&#1086; &#1089;&#1080;&#1093; &#1087;&#1086;&#1088; &#1085;&#1077; &#1087;&#1086;&#1085;&#1103;&#1083;&#1080;, &#1086; &#1095;&#1077;&#1084; &#1080;&#1076;&#1077;&#1090; &#1088;&#1077;&#1095;&#1100;? &#1047;&#1072;&#1075;&#1083;&#1103;&#1085;&#1080;&#1090;&#1077; &#1074; &#1088;&#1086;&#1083;&#1080;&#1082;. &#1055;&#1088;&#1080;&#1103;&#1090;&#1085;&#1086;&#1075;&#1086; &#1087;&#1088;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1072;!&#10;&#10;&#1089;&#1089;&#1099;&#1083;&#1082;&#1080;:&#10;&#1074;&#1082; - https://vk.com/sashkabugaga&#10;&#10;&#1055;&#1086; &#1074;&#1086;&#1087;&#1088;&#1086;&#1089;&#1072;&#1084; &#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1072;: kharchevnikov@wildjam.ru"
-    channeltitle "&#1061;&#1072;&#1088;&#1095;&#1077;&#1074;&#1085;&#1080;&#1082;&#1086;&#1074;"
-    channelid "UC84J-P1AEat5jPz7C1vKhsw"
+    date "2022-02-14T15:23:05Z"
+    title "2 AYLIK NFT MACERAM! (Cm , Proje tavsiyesi vs vs)"
+    description "Evet, merhaba selamlar! Bu videoda bana uzun zamand&#305;r sorulan NFT hakk&#305;nda bildiklerimi ve nas&#305;l ba&#351;lad&#305;&#287;&#305;m&#305; basit bir &#351;ekilde anlatt&#305;m. Bu videoda sponsorluk, reklam vs yok sadece kendi girmeyi d&#252;&#351;&#252;nd&#252;&#287;&#252;m projeyi takip edin diye link verdim. YTD yani. &#10;&#10;Tavsiye etti&#287;im projenin hesaplar&#305;:&#10;DC&#9658;https://discord.gg/themetatribes&#10;Twitter&#9658;https://twitter.com/TheMetaTribes&#10;&#10;Telegram Grubumuz&#9658; https://t.me/TAAtelegram&#10;&#10;&#10;Kulland&#305;&#287;&#305;m Ekipmanlar&#9658;https://app.hps.im/d7ct/51b5ce8a&#10;&#10;&#10;abone olmak i&#231;in&#9658;http://goo.gl/NDaiCx&#10;&#10;instagram&#9658; http://instagram.com/ekinkollama&#10;&#10;i&#351;birlikleri: ekinkollama@creatorstation.com&#10;&#10;#inceleme #teknoloji #NFT #ytd"
+    channeltitle "Ekin Kollama"
+    channelid "UCGwKgTyNa0jE1GZmFlyX9PQ"
     favcount 0
-    viewcount 373375
-    likecount 19793
-    commentcount 1023
-    duration "PT14M4S"
-    indegree 9
-    cluster 11
+    viewcount 314401
+    likecount 9848
+    commentcount 315
+    duration "PT24M37S"
+    indegree 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 14
   ]
   node
   [
-    id 502
+    id 369
+    name "502"
     label "ctH-d0cx4aY"
     step 0
     date "2022-04-09T17:09:41Z"
@@ -6679,11 +10352,21 @@ graph
     commentcount 64
     duration "PT8M1S"
     indegree 2
-    cluster 2
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 503
+    id 370
+    name "503"
     label "ve63KVzrw20"
     step 0
     date "2022-03-07T09:37:45Z"
@@ -6697,11 +10380,21 @@ graph
     commentcount 238
     duration "PT16M56S"
     indegree 1
-    cluster 11
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 504
+    id 371
+    name "504"
     label "PzuaB6eF4UA"
     step 0
     date "2022-04-17T18:38:36Z"
@@ -6715,11 +10408,21 @@ graph
     commentcount 196
     duration "PT1M13S"
     indegree 13
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 505
+    id 372
+    name "505"
     label "xEbsS851Vsw"
     step 0
     date "2022-06-04T12:21:19Z"
@@ -6733,29 +10436,49 @@ graph
     commentcount 115
     duration "PT17M"
     indegree 4
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 508
-    label "OTirej33Hqs"
+    id 373
+    name "506"
+    label "Vb6VX0pK77M"
     step 0
-    date "2022-07-05T14:44:54Z"
-    title "LOS NFT DE YOUTUBERS, RESPUESTA LETAL A CONESA CRYPTO."
-    description "USA MIS ENLACES PARA OBTENER DESCUENTOS GRACIAS!!! &#10;&#10;ESTOS VIDEOS FUERON LO QUE  MENCIONO AQUI: &#10;KManu88: &#10;https://www.youtube.com/watch?v=cY9ZC3MEzAI&#10;WillyReX: &#10;https://www.youtube.com/watch?v=ud1Bvwsufz4&#38;t=101s&#10;&#10;&#10;ENLACE EN GATEIO: https://bit.ly/MarcianoGateiO &#10;Hotbit: http://bit.ly/MarcianoHotbit (Esta en Hotbit)&#10;ENLACE EN GATEIO: https://bit.ly/MarcianoGateiO &#10;ENLACE DE KUCOIN: https://bit.ly/KuCoinMarcianoFinanzas&#10;ENLACE DE BINANCE: https://bit.ly/MarcianoBinance&#10;ENLACE DE CRYPTO.COM:  https://bit.ly/MarcianoCrypto (te dan $25 Dolares cuando haces Staking)&#10;&#10;&#10;1. QUE NECESITAS SABER PARA INVERTIR EN BITCOIN: &#10;https://youtu.be/7Wzo81hNNkM&#10;2. COMO CREAR TU CUENTA DE BINANCE: &#10;https://youtu.be/Sbnaje6JzrY&#10;3. COMO VERIFICAR TU CUENTA BINANCE: &#10;https://youtu.be/n33A-4KBrgM&#10;4. COMO AGREGARLE DINERO A TU CUENTA: &#10;https://youtu.be/SCYEBeGGl2c&#10;5. COMO METER Y SACAR DINERO (COMERCIO P2P) &#10;https://youtu.be/KgCn2kSaE5k&#10;&#10;COINBASE: https://www.coinbase.com/join/holgui_ir &#10;(Gana $10 dolares en BITCOIN)&#10;&#10;VPN: https://bit.ly/MarcianoVPN2&#10;&#10;CREA cuenta en GATE.io&#10;https://www.gate.io/ref/4529171&#10;&#10;&#10;Que le gustar&#237;a saber?&#10;&#10;COMO COMPRAR SHIBA INU: https://www.youtube.com/watch?v=yXmglnvBcoA&#38;t=&#10;COMO COMPRAR DOGECOIN EN CRYPTO: https://youtu.be/5qHH0iwrKWg&#10;COMO COMPRAR DOGECOIN EN WEBULLL: https://youtu.be/oGwbE74heZw&#10;&#10;TUTORIAL QUE TODOS DEBEN VER: COMO USAR BINANCE: &#10;https://youtu.be/lPtXKAmcfV4&#10;&#10;ENLACE PARA REGISTRARTE EN BINANCE: &#10;(10% descuentO) &#10;&#10;ENLACE PARA REGISTRAR EN GATE.iO: https://www.gate.io/signup/4529171&#10;(10% de descuento) &#10;ENLACE DE POLIONEX: https://poloniex.com/signup?c=5HH5YDT2&#10;(no descuento) &#10;&#10;&#10;VPN: &#10;Por $49.50 tendr&#225;s 18 meses eso es 2.75 POR MES! Lo puedes cancelar 45 d&#237;as despu&#233;s:&#10;&#128267; https://www.cyberghostvpn.com/MarcianoTech &#128267;&#10;&#10;TUTORIAL VPN: https://youtu.be/xVW62pMu6Fk&#10;&#10;COMO COMPRAR SHIBA EN HOTBIT: &#10;https://www.youtube.com/watch?v=w-kcmmUlzKU&#38;t=&#10;&#10;(Mismo proceso en todas las plataformas, es bueno ver este video) &#10;&#10;IMPORTANTE VER: &#10;&#10;CURSO PARA COMPRAR Y VENDER BINANCE: &#10;https://www.youtube.com/watch?v=lPtXKAmcfV4&#10;&#10;COMPRANDO BINANCE: &#10;https://www.youtube.com/watch?v=-Zmuu2ua38A&#10;&#10;&#10;QUIERES COMPRAR DOGECOIN?? &#10;Yo uso estas Apps para comprar. &#10;&#10;Webull: https://bit.ly/WebullMarciano&#10;Binance: https://bit.ly/MarcianoBinance&#10;Crypto.com: https://bit.ly/MarcianoCrypto&#10;&#10;TUTORIALES: &#10;Webull: https://youtu.be/oGwbE74heZw&#10;Binance: https://youtu.be/lPtXKAmcfV4&#10;Crypto: https://youtu.be/5qHH0iwrKWg"
-    channeltitle "MarcianoFinanzas"
-    channelid "UCp-ZKfcSvikkWXOnJpzNXKA"
+    date "2022-02-10T17:05:20Z"
+    title "NFT = b a mimo realitu"
+    description "NordVPN slav&#237; 10 let, tak jdi na https://nordvpn.com/staysteak a z&#237;skej dvoulet&#253; pl&#225;n + m&#283;s&#237;c nav&#237;c zdarma, spolu s extra d&#225;rkem. D&#237;ky 30denn&#237; garanci vr&#225;cen&#237; pen&#283;z je to bez rizika!&#10;&#10;Sleduj m&#283; &#11015;&#65039;&#128018;&#10;MALL.TV: https://sledujumall.tv/FrantisekMrazek &#128072;&#10;TikTok: https://www.tiktok.com/@staysteak&#10;Instagram: https://www.instagram.com/adam_miklica/&#10;&#10;Moje nov&#233; album: https://spoti.fi/3u3pORp &#10;Kup mi kafe: https://ko-fi.com/staysteak &#9749;&#10;&#10;Nerad mluv&#237;m o pen&#283;z&#237;ch, ale kdy&#382; jde o budoucnost finan&#269;n&#237;ch mo&#382;nost&#237; a platforem, musel jsem se (subjektivn&#283; a amat&#233;rsky) vyj&#225;d&#345;it. Pokud v&#225;m p&#345;ijde, &#382;e m&#225;m na v&#283;c velmi pesimistick&#253; pohled, mo&#382;n&#225; je to pr&#225;v&#283; prvotn&#237;m potenci&#225;lem, kter&#253; jsem v NFTs vid&#283;l. Je &#353;koda, kolik &#353;patn&#233;ho se s kryptom&#283;nami poj&#237; a jak moc to v n&#283;kter&#253;ch ohledech brzd&#237; v&#253;voj. Po&#345;&#225;d je brzy, ale prvn&#237; vlna u&#382; d&#225;vno p&#345;e&#353;la... Praskne bublina?&#10;&#10;P. S. nejsem ani zdaleka finan&#269;n&#237; poradce nebo odborn&#237;k.&#10;&#10;KAPITOLY&#10;0:00 Pro&#269; NFT trenduje&#10;3:23 Jak se kupuje?&#10;4:51 FOMO a generi&#269;nost&#10;5:58 Milionov&#233; obraty&#10;7:27 D&#367;v&#283;ryhodnost projekt&#367;&#10;9:28 Investi&#269;n&#237; gambling&#10;10:56 NFT jako kickstarter&#10;12:25 Nebezpe&#269;&#237; volatility + GAS&#10;14:41 Osobn&#237; doporu&#269;en&#237;&#10;15:31 Bude Metaverse sv&#283;t h0ven?&#10;&#10;PLAYLISTY &#10;Videa o org. zlo&#269;inu &#128298;&#10;https://bit.ly/StayKrimi&#10;&#10;V&#237;ce d&#283;siv&#253;ch vide&#237; (jako nejp&#345;&#237;sn&#283;j&#353;&#237; v&#283;zen&#237; sv&#283;ta) &#128680;: https://bit.ly/desivavidea&#10;&#10;Poslouchej creepypasty&#10;https://bit.ly/creepypaster &#127911;&#10;Na Spotify: https://spoti.fi/3CKuxtN"
+    channeltitle "StaySteak"
+    channelid "UC5IKGQ5jt1NMu11HdyWq6Vw"
     favcount 0
-    viewcount 12184
-    likecount 711
-    commentcount 250
-    duration "PT19M11S"
-    indegree 1
-    cluster 9
+    viewcount 23816
+    likecount 2013
+    commentcount 92
+    duration "PT18M30S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 509
+    id 374
+    name "509"
     label "rTszpfVUq00"
     step 0
     date "2022-05-28T14:53:08Z"
@@ -6769,11 +10492,21 @@ graph
     commentcount 5440
     duration "PT8M25S"
     indegree 0
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 510
+    id 375
+    name "510"
     label "8s2Ri2nGlZs"
     step 0
     date "2022-03-27T14:45:13Z"
@@ -6787,29 +10520,49 @@ graph
     commentcount 2832
     duration "PT15M42S"
     indegree 0
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 513
-    label "iO3WvV86lS0"
+    id 376
+    name "511"
+    label "ZwqeoptvJCM"
     step 0
-    date "2022-06-18T10:30:12Z"
-    title "NFT"
-    description "@AmyShackletonArt &#10;Instagram &#9654; https://reurl.cc/WroX9e&#10;YT&#38971;&#36947; &#9654; https://reurl.cc/ZAoj6l&#10;FB&#31881;&#23560; &#9654; https://reurl.cc/Lmo7kK&#10;Amy&#30340;&#23448;&#26041;&#32178;&#31449; &#9654; https://amyshackleton.com/&#10;&#10;&#21886;&#38899;&#22909;&#26360; &#9654; https://reurl.cc/NX5ED5&#10;&#21886;&#21886;&#38795;&#25972;&#29702;&#36039;&#26009;&#30340;&#31192;&#35363; &#9654; https://bit.ly/2vi0urX&#10;&#10;&#9660;&#21886;&#21886;&#38795;&#30340;&#20154;&#27683;&#24433;&#29255;&#9660;&#10;&#12298;32&#34903;&#30340;&#20605;&#37396;&#22825;&#25165;&#12299;&#20605;&#37396;&#22823;&#24107;&#30340;&#25925;&#20107;&#10;https://youtu.be/9lKe9irDIDw&#10;Chrome&#23567;&#24656;&#40845;&#30340;&#31192;&#23494;!&#10;https://youtu.be/besQJCZ20j4&#10;&#22312;&#36335;&#19978;&#25791;&#21040;&#38568;&#36523;&#30879;&#65292;&#20320;&#26371;...?&#10;https://bit.ly/2ytI7E5&#10;&#20420;&#32645;&#26031;&#26041;&#22602;&#20063;&#26377;&#19990;&#30028;&#20896;&#36557;!?&#10;https://youtu.be/Dh9VaezvVnU&#10;YouTube&#30340;&#33258;&#21205;&#25773;&#25918;&#21151;&#33021;&#65292;&#25773;&#21040;&#26368;&#24460;&#26371;&#30475;&#21040;&#20160;&#40636;&#21602;?&#10;https://youtu.be/HMxT-MCRmh4&#10;&#29275;&#25490;&#30340;&#34880;&#27700;&#19981;&#26159;&#34880;!&#10;https://youtu.be/-7GjvnJ2PO0&#10;&#10;&#10;&#10;&#31881;&#32114;&#23560;&#38913;:https://www.facebook.com/chuchushoeTW&#10;Instagram:http://instagram.com/chuchushoetw&#10;Twitter:https://twitter.com/chuchushoeTW"
-    channeltitle "&#21886;&#21886;&#38795;"
-    channelid "UCIF_gt4BfsWyM_2GOcKXyEQ"
+    date "2022-05-26T21:15:00Z"
+    title "SAIA NA FRENTE NO METAVERSO! GANHE DINHEIRO HOJE COM ESSE JOGO NFT"
+    description "&#127918; Conhe&#231;a o novo CriptoGame do Mil&#234;nio, Danki Castle! Uma oportunidade de se divertir jogando e ainda conseguir grana com criptomoedas!: https://dankicastle.io - Acesse o canal da Danki Code e consiga as dicas mais quentes pra come&#231;ar na frente! www.youtube.com/dankicodepessoal&#10;&#10;Galera, falar que o Metaverso &#233; o futuro j&#225; nem d&#225; mais certo, por que o neg&#243;cio ta acontecendo agora, o Metaverso &#233; o presente e tem gente ficando pra tr&#225;s justamente por n&#227;o acreditar no potencial dessa coisa. Tudo acontecendo muito r&#225;pido, pessoas, empresas e jogos entrando no Metaverso e voc&#234; n&#227;o vai ficar de fora dessa n&#233;? No v&#237;deo de hoje eu vou mostrar pra voc&#234;s a forma correta de ganhar dinheiro com essa nova tecnologia! Bora.&#10;&#10;Aprenda como VIVER DE YOUTUBE e Criar seu Canal hoje:  &#10;https://rebrand.ly/viver-de-youtube&#10;&#10;Ganhe dinheiro com YOUTUBE SEM APARECER: &#10;https://bit.ly/3nkNc9z&#10;&#10;&#128176; APRENDA A GANHAR DINHEIRO SEM SAIR DE CASA HOJE MESMO! CONHE&#199;A A CYBERCLASS: https://bit.ly/33OVdfP&#10;&#10;Receba dicas no TELEGRAM:&#10;https://t.me/nerdsdenegocioscanal&#10;--------------------------&#10;&#10;REDES SOCIAIS&#10;Instagram: https://instagram.com/petjordan &#10;Twitter: https://twitter.com/peterjordan100&#10;&#10;&#10003; &#119912;&#119951;&#119958;&#119951;&#119940;&#119946;&#119942; &#8594; comercial@nerdsdenegocios.com.br&#10;&#10003; &#119912;&#119956;&#119956;&#119942;&#119956;&#119956;&#119952;&#119955;&#119946;&#119938; &#119941;&#119942; &#119946;&#119950;&#119953;&#119955;&#119942;&#119951;&#119956;&#119938; &#8594; assessoria@peterjordan.com.br"
+    channeltitle "Nerds de Neg&#243;cios"
+    channelid "UCbTAwyq6nWOLnFag-PR0XVw"
     favcount 0
-    viewcount 287855
-    likecount 12888
-    commentcount 698
-    duration "PT9M24S"
-    indegree 1
-    cluster 6
+    viewcount 112549
+    likecount 10655
+    commentcount 524
+    duration "PT8M3S"
+    indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 514
+    id 377
+    name "514"
     label "4WiIMXZZR-s"
     step 0
     date "2021-12-17T17:00:02Z"
@@ -6823,47 +10576,77 @@ graph
     commentcount 304
     duration "PT12M33S"
     indegree 6
-    cluster 8
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 517
-    label "pWuYjTV7_q0"
+    id 378
+    name "515"
+    label "2-VoYhLcjdw"
     step 0
-    date "2022-04-10T08:00:13Z"
-    title "Jogos az NFT rt?"
-    description "Csatlakozz te is a csatorna tagjaihoz &#233;s ak&#225;r r&#233;szt vehetsz egy vide&#243; elk&#233;sz&#237;t&#233;s&#233;ben is! &#128073; https://www.youtube.com/channel/UCEjwheEK9lMWgQOKFGgr0xw/join&#10;&#10;Pr&#243;b&#225;ld ki te is a Rackhost-ot most 3.000 Ft kedvezm&#233;nnyel, de siess, mert csak az els&#337; 100 regisztr&#225;l&#243;nak j&#225;r az aj&#225;nlat! https://www.rackhost.hu/referral/coupon?code=TQCHMAzD&#10;&#10;V&#225;s&#225;rold meg a kript&#243;d Binance-en: https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_005CXGMNVR &#10;Regisztr&#225;lj MetaMaskra &#233;s hozd l&#233;tre a kripto p&#233;nzt&#225;rc&#225;d: https://metamask.io/&#10;V&#225;s&#225;rolj NFt-t az OpenSea oldalon: https://opensea.io/&#10;&#10;Inst&#225;n is fent vagyunk: https://www.instagram.com/tizeslista/&#10;T&#237;zes lista Facebook: https://www.facebook.com/tizeslista/&#10;&#10;Az NFT-k m&#225;r 2014 &#243;ta l&#233;teznek a digit&#225;lis vil&#225;gban, de m&#233;gis csak nemr&#233;g robbantak be igaz&#225;n a k&#246;ztudatba. Sz&#243; szerint b&#225;rmi lehet NFT: m&#369;v&#233;szeti alkot&#225;sok, GIF-ek, vide&#243;k, s&#337;t ak&#225;r m&#233;g egy WC pap&#237;r guriga fot&#243;ja is. Az emberek pedig &#250;gy veszik &#337;ket, mint a cukrot, m&#233;ghozz&#225; olyan &#246;sszegek&#233;rt, mintha gy&#233;m&#225;ntok lenn&#233;nek. Nem egy v&#225;ltott gazd&#225;t t&#246;bb sz&#225;zmilli&#243; forintot &#233;r&#337; kript&#243;&#233;rt.&#10;&#10;0:00 Intro&#10;0:47 Meg&#233;rik?&#10;1:54 Mi az az NFT?&#10;4:38 Miben m&#225;s, mint a Crypto?&#10;6:16 &#205;gy m&#369;k&#246;dnek az NFT-k&#10;8:21 Mire haszn&#225;lj&#225;k?&#10;10:38 &#205;gy vehetsz NFT-t&#10;12:26 T&#233;nyleg sz&#252;ks&#233;ged van r&#225;?&#10;&#10;Forr&#225;sok: https://pastebin.com/gve4qATU&#10;&#10;Zene a vide&#243; alatt: https://audiojungle.net/item/stylish-lounge/24427610&#10;&#10;Outro zene: Cold Funk - Funkorama by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/...)&#10;&#10;Sz&#246;veg: &#10;#NFT #M&#225;rk #t&#237;zeslista"
-    channeltitle "T&#237;zes lista"
-    channelid "UCEjwheEK9lMWgQOKFGgr0xw"
+    date "2022-07-12T05:37:30Z"
+    title "BLOCKCHAIN MONSTER HUNT BEST NFT GAME? CHECK IT OUT GUYS LATEST UPDATES"
+    description "Website: https://bcmhunt.com/code/DANJOCAPITAL0322&#10;Twitter: https://mobile.twitter.com/bcmhunt&#10;Telegram: https://t.me/bcmhuntph&#10;Docs: https://docs.google.com/forms/d/e/1FAIpQLSd0aSuZeYmAeyhMxFgTqzM_MrZDzYdk5ffAqqesoUxcVqD1YA/viewform&#10;&#10;&#128293;NFT Master Course + Weekly Live Video &#10;Coaching + V.I.P Group exclusive&#8230; Enroll now Early Bird Promo&#10;&#10145;&#65039; https://bit.ly/3JxvWGq&#10;&#10;NFT MASTER COURSE WEBSITE &#10;&#128293; https://bit.ly/3wqrFAV&#10;&#10;MY 2ND YT CHANNEL &#11015;&#65039; https://youtube.com/channel/UC612eBWDpZoqPqPyVLaZvEw&#10;&#10;For Business Inquiries, Promotions, Endorsements and Collaborations, you can contact me at capitaldanjo@gmail.com  &#10;&#10;&#128293; OUR OFFICIAL TELEGRAM GROUP IS FINALLY HERE, &#10;JOIN here &#10145;&#65039;  https://t.me/+I7K_quo_j7g4OWE1&#10;&#10;Follow my Facebook Page - &#10145;&#65039;  https://www.facebook.com/danjocapitalmaster/&#10;&#10;Follow my Instagram page - &#10145;&#65039;  https://www.instagram.com/itsmycapital/&#10;&#10;Follow my Twitter page - &#10145;&#65039;&#10;https://twitter.com/CapitalDanjo?t=naWLDKvQWhaalu2R1Q1DPQ&#38;s=09&#10;&#10;Follow my Tiktok page - &#10145;&#65039;&#10;https://vt.tiktok.com/ZSddTVnon/&#10;&#10;In this video, Danjo the Capital Master will talk about BCM.&#10;&#10;Disclaimer:&#10;Everything in this video is based on my personal experience, research, and comprehension. Please exercise caution when beginning to invest and always conduct your own due diligence.&#10;&#10;Like and subscribe! &#10;Thank you.&#10;&#10;Keywords:&#10;BCM  , nft master, playermon , pegaxy, giveaway, metaverse, sandbox ,solana , defi , beastlegends nft,how to flip nft,how to buy and sell nft,nft flipping,secret to buying nft,paano bumili ng nft,paano magflip nft,BUY AND SELL NFT,BUY AND SELL NFTS,danjo capital master,axie infinity,plant vs undead,newnftgame,play to earn games,crypto games,monsta infinite,new nft games,NFT,nfts,nft games play to earn,crypto,NFTS,cryptomages nft,crypto mages nft,crypto mages,crypto game,Best nft game,Nft game,Play to earn,Play to earn game&#10;&#10;&#10;#bcm #nftgame #blockchaingames #nft"
+    channeltitle "Danjo Capital Master"
+    channelid "UCWsnTNwgIPx-4_Ydcy8ANWA"
     favcount 0
-    viewcount 43852
-    likecount 1398
-    commentcount 95
-    duration "PT14M15S"
-    indegree 1
-    cluster 4
-  ]
-  node
-  [
-    id 523
-    label "8b1Tqmln6GU"
-    step 0
-    date "2022-05-24T15:34:28Z"
-    title ""
-    description "&#9658;&#26085;&#26032;&#20803;&#23431;&#23449;NFT&#32178;&#31449;&#9658; https://nft.arhosunny.com/&#10;&#10;One Satoshi&#26106;&#35282;&#32317;&#24215;&#22320;&#22336;:&#10;&#26106;&#35282;&#24396;&#25958;&#36947;608&#34399;&#32317;&#32113;&#21830;&#26989;&#22823;&#24264;3&#27155;321&#34399;&#33302;&#10;&#10;&#20854;&#20182;&#20998;&#24215;&#22320;&#22336;&#21487;&#20197;&#21443;&#32771;&#19968;&#23447;&#32178;&#38913;&#128071;&#127995;&#10;https://zh.onesatoshi.world/stores&#10;&#10;&#20778;&#24800;&#26399;&#33267;6&#26376;30&#26085;&#10;&#10;&#19968;&#23447;instagram: onesatoshi_hk&#10;&#10;&#19968;&#23447;telegram USDT/USDC&#22577;&#20729;&#32676;&#32068;: https://t.me/onesatoshi_usdt&#10;&#10;&#9658;&#21152;&#20837;&#25105;&#20497;&#30340;Discord&#65281;&#9658; https://discord.gg/arhotverse&#10;&#9658;&#36092;&#36023;&#25105;&#30340;&#29986;&#21697;&#9658;http://arhosunny.com&#10;&#9658;&#25104;&#28858;&#26085;&#26032;&#37329;&#20027;&#9658;https://bit.ly/2MuPZYT&#10;&#9658;&#35330;&#38321;ARHOTV &#36898;&#26143;&#26399;&#20108;&#12289;&#22235;&#12289;&#20845;&#20986;&#29255; &#9658; https://goo.gl/etJik6&#10;&#9658;FACEBOOK &#9658; https://goo.gl/erHesS&#10;&#9658;Instagram &#9658;https://goo.gl/J8h7Z5&#10;&#10;&#12304;ARHO SUNNY &#30340;&#38364;&#37749;&#23383;&#12305;&#10;&#26085;&#26412;&#65295;&#38283;&#31665;&#65295;&#28120;&#23542;&#65295;&#24040;&#22823;&#65295;&#22781;&#21496;&#65295;&#25361;&#25136;&#65295;&#39135;&#29609;&#65295;&#21155;&#39135;&#65295; &#39321;&#28207;&#65295;&#28526;&#27969;&#65295;&#24291;&#26481;&#35441;&#65295;&#20415;&#21033;&#24215;&#39135;&#21697;&#65295;RAP&#65295;HIP HOP&#65295;&#38899;&#27138;&#65295;CREAMY&#65295;RAPPER&#65295;&#22075;&#21704;&#65295;&#30059;&#30059;&#65295;&#35373;&#35336;&#65295;&#34269;&#34899;&#65295;&#24773;&#20406;&#65295;&#31359;&#25645;&#65295;"
-    channeltitle "arhoTV"
-    channelid "UCXTE-gQCetfrx_lC9yFM2aw"
-    favcount 0
-    viewcount 273659
-    likecount 5172
-    commentcount 1955
-    duration "PT23M55S"
+    viewcount 2337
+    likecount 45
+    commentcount 97
+    duration "PT7M42S"
     indegree 0
-    cluster 6
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 524
+    id 379
+    name "518"
+    label "ZCwcRltAVHw"
+    step 0
+    date "2022-07-01T17:07:32Z"
+    title "MC Ceja y Polaco Le Tiran Fuerte AmN a la Tiraera pa Polaco NFT"
+    description "&#128181;&#128176;NEGOCIOS&#128176;&#128181;&#10;&#10;Si quieres que promocione tu negocio o producto, contactame a trav&#233;s del correo electr&#243;nico: elcacotvpromo@Gmail.com&#10;&#10;Env&#237;ame tu propuesta, presupuesto y todos los detalles del proyecto que quieras llevar a cabo y te podr&#233; dar un precio por mis servicios.&#10;&#10;#mcceja #polaco #tempo #nft #tiraera #elgenero #elcacotv #tira #unveranosinti #reggaeton #badbunny"
+    channeltitle "El Caco Tv"
+    channelid "UCWSG3_O-tiBmf8ghkugULVw"
+    favcount 0
+    viewcount 30574
+    likecount 508
+    commentcount 240
+    duration "PT10M3S"
+    indegree 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 3
+  ]
+  node
+  [
+    id 380
+    name "524"
     label "7Iu4LwjPdvw"
     step 0
     date "2022-03-30T00:58:57Z"
@@ -6877,11 +10660,21 @@ graph
     commentcount 19
     duration "PT1M2S"
     indegree 2
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 525
+    id 381
+    name "525"
     label "PN47emVLbBk"
     step 0
     date "2022-05-25T18:11:23Z"
@@ -6895,47 +10688,77 @@ graph
     commentcount 189
     duration "PT3M34S"
     indegree 0
-    cluster 9
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 528
-    label "MEMjJ_QdELQ"
+    id 382
+    name "526"
+    label "LYMtkSF5cJ4"
     step 0
-    date "2022-07-12T02:53:11Z"
-    title ""
-    description "#arho tv #sunny #creamy #&#24040;&#22823;&#21270; #&#20844;&#38364;&#28797;&#38627;&#10;#&#21561;&#27700; #&#33457;&#29983;&#21488; &#10;&#12304;&#33457;&#29983;&#21561;&#27700;&#21488; Ep.4&#12305;&#9876;&#65039;&#35413;&#35542;Arho TV Sunny Creamy NFT"
-    channeltitle "&#30007;&#39340;&#21033; BlueMary"
-    channelid "UCAuFUbnXeT6NFIrRHHCCGsg"
+    date "2022-07-12T10:11:59Z"
+    title "BAHASA | EC PMPL PRACTICE | DAY 2 | FT.#BTR #AURA #MORPH #NFT #ONIC #GEEK #VOIN #DWG #GPX"
+    description "#esportspubgmobile  #pubgmobilelive #pmpl &#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UC33ZrR0D7pASIRakgKgbW3A/join&#10;&#10;FOLLOW US&#10;&#10;DISCORD : https://discord.gg/J94CCVuw72&#10;INSTAGRAM : https://www.instagram.com/esportscounty&#10;FACEBOOK : https://www.facebook.com/EsportsCounty&#10;TWITTER : https://twitter.com/EsportsCounty&#10;TWITCH : https://www.twitch.tv/esportscounty &#10;&#10;PMPL INDONESIA PRATICE&#10;&#10;11TH - 15TH JULY&#10;&#10;&#10;START :&#10;01:30 PM &#127470;&#127465; &#10;&#10;5 ROUNDS&#10;E/M/S/M/E&#10;&#10;&#10;03.) BIGETRON RA &#127470;&#127465;&#10;04.) 21 ESPORTS &#127474;&#127464;&#10;05.) ONIC ESPORTS &#127474;&#127464;&#10;06.) BNW ESPORTS &#127474;&#127464; &#10;07.) HFX ESPORTS &#127470;&#127465;&#10;08.) DG ESPORTS &#127470;&#127465;&#10;09.) AURA ESPORTS &#127474;&#127464;&#10;10.) MORPH GGG &#127470;&#127465;&#10;11.) GPBR ESPORTS &#127474;&#127464;&#10;12.) ALTER EGO LIMAX &#127474;&#127464;&#10;13.) DEWA UNITED &#127474;&#127464;&#10;14.) GPX &#127474;&#127464;&#10;15.) DWG KIA &#127472;&#127479;&#10;16.) VOIN ESPORTS &#127474;&#127464;&#10;17.) GEEK FAM &#127474;&#127464;&#10;18.) NFT ESPORTS &#127470;&#127465;&#10;&#10;Note : Esports County reserves the copyrights to any and every part of this stream. Reproducing any part of this stream in form of re-uploads or highlights without any consent of authorities is illegal. If you use a copyrighted work without the appropriate permission, you may be violating&#8212;or &#8220;infringing&#8221;&#8212;the owner&#8217;s rights to that work. Infringing someone else&#8217;s copyright may subject you to legal action.&#10;&#10;Copyright &#169;&#65039; 2020-2022 Esports county - All Rights Reserved"
+    channeltitle "ESPORTS COUNTY"
+    channelid "UC33ZrR0D7pASIRakgKgbW3A"
     favcount 0
-    viewcount 1694
-    likecount 125
-    commentcount 27
-    duration "PT13M34S"
-    indegree 1
-    cluster 6
+    viewcount 97644
+    likecount 1967
+    commentcount 2
+    duration "PT3H26M39S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 530
-    label "v3ezLPeI_O4"
+    id 383
+    name "529"
+    label "VaMEz2K2-1I"
     step 0
-    date "2022-07-01T10:12:31Z"
-    title ""
-    description "#arho TV #sunny NFT #creamy #&#28120;&#23542; #NFT #&#24040;&#22823;&#21270;&#10;&#12304;&#33457;&#29983;&#21561;&#27700;&#21488; Ep.1&#12305;&#9876;&#65039;&#35413;&#35542;Arho TV Sunny Creamy NFT &#28120;&#23542;&#31561; &#20844;&#38364;&#28797;&#38627;&#24040;&#22823;&#21270;&#128561;&#9876;&#65039;&#38468;&#36865;&#20182;&#20497;&#20841;&#27573;&#25079;&#30097;&#36896;&#20551;&#21380;&#35264;&#30526;&#21380;&#27969;&#37327;&#30340;&#24433;&#29255;&#128545;&#128580;"
-    channeltitle "&#30007;&#39340;&#21033; BlueMary"
-    channelid "UCAuFUbnXeT6NFIrRHHCCGsg"
+    date "2021-08-09T20:17:00Z"
+    title "Tory Lanez -  Freestyle"
+    description "THE FIRST EVER Official E-NFT for Tory Lanez Entitled : WHEN ITS DARK DROPS (AUG 10 2021)&#10;ONLY 1 MILLION COPIES MADE !!! PRE ORDER AND ORDER NOW @ &#10;http://E-NFT.COM&#10;&#10;Subscribe to Tory Lanez's Channel: https://create.ffm.to/torylanezyt.oyd&#10;&#10;Follow @Tory Lanez:&#10;http://twitter.com/torylanez&#10;http://instagram.com/torylanez&#10;http://www.facebook.com/torylanez&#10;Tory Lanez Merch: https://torylanez.shop"
+    channeltitle "Tory Lanez"
+    channelid "UCbfUA3UGxAWL3muD004g0WQ"
     favcount 0
-    viewcount 17066
-    likecount 370
-    commentcount 90
-    duration "PT15M21S"
-    indegree 3
-    cluster 6
+    viewcount 7692869
+    likecount 183803
+    commentcount 19127
+    duration "PT3M50S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 531
+    id 384
+    name "531"
     label "XpH3O6mnZvw"
     step 0
     date "2022-06-19T20:30:27Z"
@@ -6949,11 +10772,21 @@ graph
     commentcount 12676
     duration "PT1H2M25S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 532
+    id 385
+    name "532"
     label "MZoEwzdjRvo"
     step 0
     date "2022-07-11T17:36:01Z"
@@ -6967,12 +10800,49 @@ graph
     commentcount 2
     duration "PT32S"
     indegree 0
-    cluster 3
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 386
+    name "533"
+    label "3P-xKFIsSw8"
+    step 0
+    date "2018-02-23T12:00:00Z"
+    title " I LOVE YOU BETH COOPER (2009) | Full Movie Trailer in HD | 1080p"
+    description "A nerdy valedictorian proclaims his love for the hottest and most popular girl in school - Beth Cooper - during his graduation speech. Much to his surprise, Beth shows up at his door that very night and decides to show him the best night of his life.&#10;----------------&#10;Cast: Hayden Panettiere, Paul Rust, Jack Carpenter #MoviePredictor #trailer #BestMovie"
+    channeltitle "MOVIE PREDICTOR"
+    channelid "UCLlHQpMI6NCzSBRRT1_D7eA"
+    favcount 0
+    viewcount 12140791
+    likecount 54936
+    commentcount 320
+    duration "PT2M44S"
+    indegree 0
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    cluster 4
   ]
   edge
   [
     source 0
-    target 367
+    target 286
     rank 3
   ]
   edge
@@ -6984,7 +10854,7 @@ graph
   edge
   [
     source 0
-    target 242
+    target 198
     rank 9
   ]
   edge
@@ -7002,7 +10872,7 @@ graph
   edge
   [
     source 0
-    target 80
+    target 66
     rank 15
   ]
   edge
@@ -7014,7 +10884,7 @@ graph
   edge
   [
     source 1
-    target 48
+    target 44
     rank 7
   ]
   edge
@@ -7032,7 +10902,7 @@ graph
   edge
   [
     source 1
-    target 151
+    target 124
     rank 11
   ]
   edge
@@ -7044,13 +10914,13 @@ graph
   edge
   [
     source 1
-    target 94
+    target 77
     rank 17
   ]
   edge
   [
     source 1
-    target 30
+    target 29
     rank 19
   ]
   edge
@@ -7074,13 +10944,13 @@ graph
   edge
   [
     source 2
-    target 56
+    target 51
     rank 4
   ]
   edge
   [
     source 2
-    target 71
+    target 60
     rank 6
   ]
   edge
@@ -7098,19 +10968,19 @@ graph
   edge
   [
     source 2
-    target 118
+    target 98
     rank 17
   ]
   edge
   [
     source 2
-    target 28
+    target 27
     rank 19
   ]
   edge
   [
     source 3
-    target 36
+    target 35
     rank 2
   ]
   edge
@@ -7134,13 +11004,13 @@ graph
   edge
   [
     source 3
-    target 58
+    target 53
     rank 11
   ]
   edge
   [
     source 3
-    target 108
+    target 89
     rank 14
   ]
   edge
@@ -7176,13 +11046,13 @@ graph
   edge
   [
     source 4
-    target 56
+    target 51
     rank 6
   ]
   edge
   [
     source 4
-    target 35
+    target 34
     rank 10
   ]
   edge
@@ -7200,7 +11070,7 @@ graph
   edge
   [
     source 4
-    target 28
+    target 27
     rank 17
   ]
   edge
@@ -7224,7 +11094,7 @@ graph
   edge
   [
     source 5
-    target 118
+    target 98
     rank 10
   ]
   edge
@@ -7236,13 +11106,13 @@ graph
   edge
   [
     source 5
-    target 43
+    target 39
     rank 15
   ]
   edge
   [
     source 5
-    target 94
+    target 77
     rank 16
   ]
   edge
@@ -7284,7 +11154,7 @@ graph
   edge
   [
     source 6
-    target 36
+    target 35
     rank 17
   ]
   edge
@@ -7302,7 +11172,7 @@ graph
   edge
   [
     source 7
-    target 118
+    target 98
     rank 2
   ]
   edge
@@ -7314,7 +11184,7 @@ graph
   edge
   [
     source 7
-    target 56
+    target 51
     rank 9
   ]
   edge
@@ -7326,25 +11196,25 @@ graph
   edge
   [
     source 7
-    target 94
+    target 77
     rank 14
   ]
   edge
   [
     source 7
-    target 154
+    target 127
     rank 15
   ]
   edge
   [
     source 7
-    target 28
+    target 27
     rank 18
   ]
   edge
   [
     source 7
-    target 60
+    target 54
     rank 20
   ]
   edge
@@ -7356,13 +11226,13 @@ graph
   edge
   [
     source 8
-    target 71
+    target 60
     rank 3
   ]
   edge
   [
     source 8
-    target 76
+    target 63
     rank 8
   ]
   edge
@@ -7374,7 +11244,7 @@ graph
   edge
   [
     source 8
-    target 28
+    target 27
     rank 18
   ]
   edge
@@ -7404,7 +11274,7 @@ graph
   edge
   [
     source 9
-    target 58
+    target 53
     rank 15
   ]
   edge
@@ -7422,25 +11292,25 @@ graph
   edge
   [
     source 10
-    target 36
+    target 35
     rank 9
   ]
   edge
   [
     source 10
-    target 118
+    target 98
     rank 10
   ]
   edge
   [
     source 10
-    target 94
+    target 77
     rank 12
   ]
   edge
   [
     source 10
-    target 43
+    target 39
     rank 16
   ]
   edge
@@ -7452,7 +11322,7 @@ graph
   edge
   [
     source 10
-    target 76
+    target 63
     rank 20
   ]
   edge
@@ -7464,7 +11334,7 @@ graph
   edge
   [
     source 11
-    target 118
+    target 98
     rank 8
   ]
   edge
@@ -7476,7 +11346,7 @@ graph
   edge
   [
     source 11
-    target 56
+    target 51
     rank 13
   ]
   edge
@@ -7488,7 +11358,7 @@ graph
   edge
   [
     source 11
-    target 76
+    target 63
     rank 18
   ]
   edge
@@ -7512,25 +11382,25 @@ graph
   edge
   [
     source 13
-    target 118
+    target 98
     rank 4
   ]
   edge
   [
     source 13
-    target 56
+    target 51
     rank 9
   ]
   edge
   [
     source 13
-    target 43
+    target 39
     rank 12
   ]
   edge
   [
     source 13
-    target 76
+    target 63
     rank 13
   ]
   edge
@@ -7548,7 +11418,7 @@ graph
   edge
   [
     source 14
-    target 118
+    target 98
     rank 1
   ]
   edge
@@ -7560,7 +11430,7 @@ graph
   edge
   [
     source 14
-    target 94
+    target 77
     rank 9
   ]
   edge
@@ -7572,37 +11442,37 @@ graph
   edge
   [
     source 14
-    target 43
+    target 39
     rank 15
   ]
   edge
   [
     source 14
-    target 242
+    target 198
     rank 16
   ]
   edge
   [
     source 14
-    target 96
+    target 79
     rank 20
   ]
   edge
   [
     source 15
-    target 191
+    target 157
     rank 14
   ]
   edge
   [
     source 15
-    target 47
+    target 43
     rank 15
   ]
   edge
   [
     source 16
-    target 118
+    target 98
     rank 1
   ]
   edge
@@ -7614,13 +11484,13 @@ graph
   edge
   [
     source 16
-    target 56
+    target 51
     rank 7
   ]
   edge
   [
     source 16
-    target 28
+    target 27
     rank 11
   ]
   edge
@@ -7644,7 +11514,7 @@ graph
   edge
   [
     source 17
-    target 118
+    target 98
     rank 1
   ]
   edge
@@ -7662,25 +11532,25 @@ graph
   edge
   [
     source 17
-    target 94
+    target 77
     rank 17
   ]
   edge
   [
     source 17
-    target 154
+    target 127
     rank 19
   ]
   edge
   [
     source 18
-    target 92
+    target 75
     rank 9
   ]
   edge
   [
     source 18
-    target 99
+    target 81
     rank 10
   ]
   edge
@@ -7692,7 +11562,7 @@ graph
   edge
   [
     source 18
-    target 32
+    target 31
     rank 16
   ]
   edge
@@ -7710,7 +11580,7 @@ graph
   edge
   [
     source 19
-    target 118
+    target 98
     rank 2
   ]
   edge
@@ -7722,13 +11592,13 @@ graph
   edge
   [
     source 19
-    target 43
+    target 39
     rank 11
   ]
   edge
   [
     source 19
-    target 94
+    target 77
     rank 15
   ]
   edge
@@ -7740,13 +11610,13 @@ graph
   edge
   [
     source 19
-    target 56
+    target 51
     rank 18
   ]
   edge
   [
     source 19
-    target 154
+    target 127
     rank 20
   ]
   edge
@@ -7758,13 +11628,13 @@ graph
   edge
   [
     source 20
-    target 58
+    target 53
     rank 5
   ]
   edge
   [
     source 20
-    target 62
+    target 56
     rank 6
   ]
   edge
@@ -7794,7 +11664,7 @@ graph
   edge
   [
     source 21
-    target 122
+    target 101
     rank 1
   ]
   edge
@@ -7818,19 +11688,19 @@ graph
   edge
   [
     source 21
-    target 56
+    target 51
     rank 11
   ]
   edge
   [
     source 21
-    target 71
+    target 60
     rank 12
   ]
   edge
   [
     source 21
-    target 28
+    target 27
     rank 14
   ]
   edge
@@ -7848,7 +11718,7 @@ graph
   edge
   [
     source 21
-    target 87
+    target 72
     rank 20
   ]
   edge
@@ -7860,13 +11730,13 @@ graph
   edge
   [
     source 22
-    target 94
+    target 77
     rank 3
   ]
   edge
   [
     source 22
-    target 118
+    target 98
     rank 4
   ]
   edge
@@ -7884,49 +11754,49 @@ graph
   edge
   [
     source 22
-    target 56
+    target 51
     rank 15
   ]
   edge
   [
     source 22
-    target 171
+    target 140
     rank 19
   ]
   edge
   [
     source 22
-    target 123
+    target 102
     rank 20
+  ]
+  edge
+  [
+    source 23
+    target 34
+    rank 1
+  ]
+  edge
+  [
+    source 23
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 23
+    target 9
+    rank 5
+  ]
+  edge
+  [
+    source 23
+    target 53
+    rank 6
   ]
   edge
   [
     source 23
     target 35
-    rank 1
-  ]
-  edge
-  [
-    source 23
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 23
-    target 9
-    rank 5
-  ]
-  edge
-  [
-    source 23
-    target 58
-    rank 6
-  ]
-  edge
-  [
-    source 23
-    target 36
     rank 7
   ]
   edge
@@ -7938,7 +11808,7 @@ graph
   edge
   [
     source 23
-    target 28
+    target 27
     rank 10
   ]
   edge
@@ -7950,13 +11820,13 @@ graph
   edge
   [
     source 23
-    target 49
+    target 45
     rank 13
   ]
   edge
   [
     source 23
-    target 118
+    target 98
     rank 15
   ]
   edge
@@ -7974,7 +11844,7 @@ graph
   edge
   [
     source 24
-    target 118
+    target 98
     rank 5
   ]
   edge
@@ -7998,13 +11868,13 @@ graph
   edge
   [
     source 24
-    target 71
+    target 60
     rank 14
   ]
   edge
   [
     source 24
-    target 76
+    target 63
     rank 15
   ]
   edge
@@ -8028,7 +11898,7 @@ graph
   edge
   [
     source 25
-    target 36
+    target 35
     rank 11
   ]
   edge
@@ -8040,9211 +11910,9211 @@ graph
   edge
   [
     source 26
-    target 68
+    target 58
     rank 3
   ]
   edge
   [
     source 26
-    target 32
+    target 31
     rank 5
   ]
   edge
   [
-    source 28
+    source 27
     target 14
     rank 1
   ]
   edge
   [
-    source 28
+    source 27
     target 21
     rank 2
   ]
   edge
   [
-    source 28
+    source 27
     target 2
     rank 4
   ]
   edge
   [
-    source 28
-    target 71
+    source 27
+    target 60
     rank 7
   ]
   edge
   [
-    source 28
+    source 27
     target 10
     rank 9
   ]
   edge
   [
-    source 28
-    target 56
+    source 27
+    target 51
     rank 10
   ]
   edge
   [
-    source 28
+    source 27
     target 11
     rank 11
   ]
   edge
   [
-    source 28
+    source 27
     target 4
     rank 13
   ]
   edge
   [
-    source 28
+    source 27
     target 22
     rank 14
   ]
   edge
   [
-    source 28
-    target 118
+    source 27
+    target 98
     rank 15
   ]
   edge
   [
-    source 28
+    source 27
     target 8
     rank 16
   ]
   edge
   [
-    source 29
-    target 298
+    source 28
+    target 239
     rank 1
   ]
   edge
   [
-    source 29
-    target 137
+    source 28
+    target 112
     rank 2
   ]
   edge
   [
-    source 29
+    source 28
     target 18
     rank 3
   ]
   edge
   [
-    source 29
+    source 28
     target 5
     rank 5
   ]
   edge
   [
-    source 29
+    source 28
     target 23
     rank 6
   ]
   edge
   [
-    source 29
+    source 28
     target 26
     rank 7
   ]
   edge
   [
-    source 29
-    target 78
+    source 28
+    target 65
     rank 18
   ]
   edge
   [
-    source 29
+    source 28
     target 19
     rank 19
   ]
   edge
   [
-    source 30
-    target 45
+    source 29
+    target 41
     rank 1
   ]
   edge
   [
-    source 30
+    source 29
     target 18
     rank 2
   ]
   edge
   [
-    source 30
-    target 118
+    source 29
+    target 98
     rank 3
   ]
   edge
   [
-    source 30
-    target 228
+    source 29
+    target 185
     rank 4
   ]
   edge
   [
-    source 30
-    target 29
+    source 29
+    target 28
     rank 5
   ]
   edge
   [
-    source 30
-    target 48
+    source 29
+    target 44
     rank 7
   ]
   edge
   [
-    source 30
-    target 94
+    source 29
+    target 77
     rank 8
   ]
   edge
   [
-    source 30
+    source 29
     target 23
     rank 11
   ]
   edge
   [
-    source 30
+    source 29
     target 5
     rank 13
   ]
   edge
   [
-    source 30
-    target 169
+    source 29
+    target 138
     rank 17
   ]
   edge
   [
-    source 30
+    source 29
     target 17
     rank 18
   ]
   edge
   [
-    source 30
-    target 80
+    source 29
+    target 66
     rank 20
   ]
   edge
   [
-    source 31
-    target 118
+    source 30
+    target 98
     rank 1
   ]
   edge
   [
-    source 31
+    source 30
     target 7
     rank 3
   ]
   edge
   [
-    source 31
+    source 30
     target 24
     rank 6
   ]
   edge
   [
-    source 31
+    source 30
     target 5
     rank 7
   ]
   edge
   [
-    source 31
+    source 30
     target 16
     rank 8
   ]
   edge
   [
-    source 31
-    target 94
+    source 30
+    target 77
     rank 11
+  ]
+  edge
+  [
+    source 30
+    target 33
+    rank 18
+  ]
+  edge
+  [
+    source 31
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 31
+    target 35
+    rank 2
+  ]
+  edge
+  [
+    source 31
+    target 5
+    rank 4
   ]
   edge
   [
     source 31
     target 34
-    rank 18
-  ]
-  edge
-  [
-    source 32
-    target 9
-    rank 1
-  ]
-  edge
-  [
-    source 32
-    target 36
-    rank 2
-  ]
-  edge
-  [
-    source 32
-    target 5
-    rank 4
-  ]
-  edge
-  [
-    source 32
-    target 35
     rank 8
   ]
   edge
   [
-    source 32
-    target 47
+    source 31
+    target 43
     rank 10
   ]
   edge
   [
-    source 32
-    target 92
+    source 31
+    target 75
     rank 13
   ]
   edge
   [
-    source 32
+    source 31
     target 18
     rank 15
   ]
   edge
   [
-    source 32
+    source 31
     target 26
     rank 17
   ]
   edge
   [
-    source 33
+    source 32
     target 18
     rank 4
   ]
   edge
   [
-    source 33
-    target 62
+    source 32
+    target 56
     rank 9
   ]
   edge
   [
-    source 33
+    source 32
     target 24
     rank 10
   ]
   edge
   [
-    source 33
+    source 32
     target 2
     rank 14
   ]
   edge
   [
-    source 33
-    target 92
+    source 32
+    target 75
     rank 17
   ]
   edge
   [
-    source 33
+    source 32
     target 23
     rank 20
   ]
   edge
   [
-    source 34
+    source 33
     target 14
     rank 1
   ]
   edge
   [
-    source 34
-    target 118
+    source 33
+    target 98
     rank 4
   ]
   edge
   [
-    source 34
+    source 33
     target 10
     rank 9
   ]
   edge
   [
-    source 34
+    source 33
     target 11
     rank 10
   ]
   edge
   [
-    source 34
-    target 76
+    source 33
+    target 63
     rank 12
   ]
   edge
   [
-    source 34
-    target 43
+    source 33
+    target 39
     rank 13
   ]
   edge
   [
-    source 34
+    source 33
     target 17
     rank 16
   ]
   edge
   [
-    source 34
+    source 33
     target 19
     rank 17
   ]
   edge
   [
-    source 34
-    target 94
+    source 33
+    target 77
     rank 18
   ]
   edge
   [
-    source 35
+    source 34
     target 10
     rank 1
   ]
   edge
   [
-    source 35
+    source 34
     target 9
     rank 2
   ]
   edge
   [
-    source 35
+    source 34
     target 21
     rank 4
   ]
   edge
   [
-    source 35
-    target 28
+    source 34
+    target 27
     rank 5
   ]
   edge
   [
-    source 35
+    source 34
     target 4
     rank 8
   ]
   edge
   [
-    source 35
+    source 34
     target 18
     rank 10
   ]
   edge
   [
-    source 35
+    source 34
     target 24
     rank 11
   ]
   edge
   [
-    source 35
+    source 34
     target 25
     rank 12
   ]
   edge
   [
-    source 35
-    target 58
+    source 34
+    target 53
     rank 15
   ]
   edge
   [
-    source 35
+    source 34
     target 20
     rank 18
   ]
   edge
   [
-    source 35
-    target 32
+    source 34
+    target 31
     rank 19
   ]
   edge
   [
-    source 35
+    source 34
     target 2
     rank 20
   ]
   edge
   [
-    source 36
+    source 35
     target 25
     rank 10
   ]
   edge
   [
-    source 36
+    source 35
     target 13
     rank 11
   ]
   edge
   [
-    source 36
+    source 35
     target 10
     rank 15
   ]
   edge
   [
-    source 38
+    source 36
     target 21
     rank 2
   ]
   edge
   [
-    source 38
+    source 36
     target 10
     rank 6
   ]
   edge
   [
-    source 38
+    source 36
     target 2
     rank 9
   ]
   edge
   [
-    source 39
-    target 99
+    source 37
+    target 81
     rank 1
   ]
   edge
   [
-    source 39
+    source 37
     target 10
     rank 5
   ]
   edge
   [
-    source 39
-    target 62
+    source 37
+    target 56
     rank 6
   ]
   edge
   [
-    source 39
+    source 37
     target 2
     rank 8
   ]
   edge
   [
-    source 39
-    target 58
+    source 37
+    target 53
     rank 13
   ]
   edge
   [
-    source 41
+    source 38
     target 14
     rank 5
   ]
   edge
   [
-    source 41
-    target 136
+    source 38
+    target 111
     rank 6
   ]
   edge
   [
-    source 41
-    target 56
+    source 38
+    target 51
     rank 12
   ]
   edge
   [
-    source 43
+    source 39
     target 14
     rank 1
   ]
   edge
   [
-    source 43
-    target 118
+    source 39
+    target 98
     rank 3
   ]
   edge
   [
-    source 43
+    source 39
     target 17
     rank 10
   ]
   edge
   [
-    source 43
-    target 94
+    source 39
+    target 77
     rank 13
   ]
   edge
   [
-    source 43
-    target 242
+    source 39
+    target 198
     rank 19
   ]
   edge
   [
-    source 43
+    source 39
     target 10
     rank 20
   ]
   edge
   [
-    source 45
-    target 86
+    source 41
+    target 71
     rank 1
   ]
   edge
   [
-    source 45
-    target 60
+    source 41
+    target 54
     rank 2
   ]
   edge
   [
-    source 45
-    target 48
+    source 41
+    target 44
     rank 3
   ]
   edge
   [
-    source 45
+    source 41
     target 18
     rank 5
   ]
   edge
   [
-    source 45
-    target 29
+    source 41
+    target 28
     rank 11
   ]
   edge
   [
-    source 45
-    target 30
+    source 41
+    target 29
     rank 12
   ]
   edge
   [
-    source 45
-    target 169
+    source 41
+    target 138
     rank 14
   ]
   edge
   [
-    source 45
-    target 74
+    source 41
+    target 62
     rank 17
   ]
   edge
   [
-    source 45
-    target 78
+    source 41
+    target 65
     rank 19
   ]
   edge
   [
-    source 45
+    source 41
     target 5
     rank 20
   ]
   edge
   [
-    source 46
-    target 118
+    source 42
+    target 98
     rank 2
   ]
   edge
   [
-    source 46
+    source 42
     target 10
     rank 4
   ]
   edge
   [
-    source 46
-    target 60
+    source 42
+    target 54
     rank 5
   ]
   edge
   [
-    source 46
+    source 42
     target 13
     rank 7
   ]
   edge
   [
-    source 46
+    source 42
     target 2
     rank 10
   ]
   edge
   [
-    source 46
-    target 94
+    source 42
+    target 77
     rank 11
   ]
   edge
   [
-    source 46
+    source 42
     target 14
     rank 13
   ]
   edge
   [
-    source 46
-    target 76
+    source 42
+    target 63
     rank 16
   ]
   edge
   [
-    source 46
+    source 42
     target 17
     rank 17
   ]
   edge
   [
-    source 47
-    target 92
+    source 43
+    target 75
     rank 11
   ]
   edge
   [
-    source 47
-    target 36
+    source 43
+    target 35
     rank 19
   ]
   edge
   [
-    source 48
-    target 35
+    source 44
+    target 34
     rank 1
   ]
   edge
   [
-    source 48
+    source 44
     target 18
     rank 2
   ]
   edge
   [
-    source 48
-    target 91
+    source 44
+    target 74
     rank 3
   ]
   edge
   [
-    source 48
-    target 159
+    source 44
+    target 130
     rank 4
   ]
   edge
   [
-    source 48
+    source 44
     target 10
     rank 5
   ]
   edge
   [
-    source 48
-    target 203
+    source 44
+    target 166
     rank 6
   ]
   edge
   [
-    source 48
-    target 118
+    source 44
+    target 98
     rank 7
   ]
   edge
   [
-    source 48
+    source 44
     target 23
     rank 8
   ]
   edge
   [
-    source 48
-    target 39
+    source 44
+    target 37
     rank 9
   ]
   edge
   [
-    source 48
-    target 30
+    source 44
+    target 29
     rank 11
   ]
   edge
   [
-    source 48
+    source 44
     target 5
     rank 13
   ]
   edge
   [
-    source 48
-    target 45
+    source 44
+    target 41
     rank 14
   ]
   edge
   [
-    source 48
-    target 169
+    source 44
+    target 138
     rank 19
   ]
   edge
   [
-    source 49
-    target 36
+    source 45
+    target 35
     rank 7
   ]
   edge
   [
-    source 50
-    target 53
+    source 46
+    target 48
     rank 1
   ]
   edge
   [
-    source 50
-    target 32
+    source 46
+    target 31
     rank 11
   ]
   edge
   [
-    source 50
-    target 47
+    source 46
+    target 43
     rank 17
   ]
   edge
   [
-    source 50
-    target 36
+    source 46
+    target 35
     rank 20
   ]
   edge
   [
-    source 53
-    target 36
+    source 48
+    target 35
     rank 10
   ]
   edge
   [
-    source 54
+    source 49
     target 9
     rank 1
   ]
   edge
   [
-    source 54
-    target 35
+    source 49
+    target 34
     rank 6
   ]
   edge
   [
-    source 54
-    target 28
+    source 49
+    target 27
     rank 10
   ]
   edge
   [
-    source 54
-    target 57
+    source 49
+    target 52
     rank 12
   ]
   edge
   [
-    source 54
-    target 58
+    source 49
+    target 53
     rank 13
   ]
   edge
   [
-    source 54
+    source 49
     target 14
     rank 14
   ]
   edge
   [
-    source 54
-    target 49
+    source 49
+    target 45
     rank 20
   ]
   edge
   [
-    source 55
+    source 50
     target 9
     rank 2
   ]
   edge
   [
-    source 55
-    target 156
+    source 50
+    target 128
     rank 5
   ]
   edge
   [
-    source 55
+    source 50
     target 10
     rank 6
   ]
   edge
   [
-    source 55
-    target 84
+    source 50
+    target 70
     rank 7
   ]
   edge
   [
-    source 55
-    target 123
+    source 50
+    target 102
     rank 10
   ]
   edge
   [
-    source 55
-    target 87
+    source 50
+    target 72
     rank 13
   ]
   edge
   [
-    source 55
-    target 119
+    source 50
+    target 99
     rank 15
   ]
   edge
   [
-    source 55
-    target 95
+    source 50
+    target 78
     rank 16
   ]
   edge
   [
-    source 56
+    source 51
     target 14
     rank 1
   ]
   edge
   [
-    source 56
+    source 51
     target 10
     rank 2
   ]
   edge
   [
-    source 56
-    target 118
+    source 51
+    target 98
     rank 3
   ]
   edge
   [
-    source 56
-    target 28
+    source 51
+    target 27
     rank 11
   ]
   edge
   [
-    source 56
+    source 51
     target 7
     rank 12
   ]
   edge
   [
-    source 56
+    source 51
     target 22
     rank 14
   ]
   edge
   [
-    source 56
-    target 123
+    source 51
+    target 102
     rank 16
   ]
   edge
   [
-    source 56
+    source 51
     target 17
     rank 17
   ]
   edge
   [
-    source 56
-    target 154
+    source 51
+    target 127
     rank 18
   ]
   edge
   [
-    source 56
-    target 43
-    rank 19
-  ]
-  edge
-  [
-    source 56
-    target 76
-    rank 20
-  ]
-  edge
-  [
-    source 57
-    target 5
-    rank 6
-  ]
-  edge
-  [
-    source 57
-    target 25
-    rank 8
-  ]
-  edge
-  [
-    source 57
-    target 2
-    rank 9
-  ]
-  edge
-  [
-    source 57
-    target 24
-    rank 10
-  ]
-  edge
-  [
-    source 57
-    target 122
-    rank 11
-  ]
-  edge
-  [
-    source 58
-    target 36
-    rank 3
-  ]
-  edge
-  [
-    source 58
-    target 92
-    rank 11
-  ]
-  edge
-  [
-    source 58
-    target 5
-    rank 20
-  ]
-  edge
-  [
-    source 60
-    target 118
-    rank 8
-  ]
-  edge
-  [
-    source 60
-    target 5
-    rank 12
-  ]
-  edge
-  [
-    source 60
-    target 17
-    rank 20
-  ]
-  edge
-  [
-    source 61
-    target 9
-    rank 1
-  ]
-  edge
-  [
-    source 61
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 61
-    target 35
-    rank 3
-  ]
-  edge
-  [
-    source 61
-    target 23
-    rank 4
-  ]
-  edge
-  [
-    source 61
-    target 18
-    rank 5
-  ]
-  edge
-  [
-    source 61
-    target 76
-    rank 6
-  ]
-  edge
-  [
-    source 61
-    target 91
-    rank 7
-  ]
-  edge
-  [
-    source 61
-    target 20
-    rank 8
-  ]
-  edge
-  [
-    source 61
-    target 168
-    rank 12
-  ]
-  edge
-  [
-    source 61
-    target 5
-    rank 14
-  ]
-  edge
-  [
-    source 61
-    target 228
-    rank 15
-  ]
-  edge
-  [
-    source 61
-    target 2
-    rank 17
-  ]
-  edge
-  [
-    source 61
-    target 176
-    rank 18
-  ]
-  edge
-  [
-    source 61
+    source 51
     target 39
     rank 19
   ]
   edge
   [
-    source 62
-    target 36
-    rank 3
-  ]
-  edge
-  [
-    source 62
-    target 25
-    rank 7
-  ]
-  edge
-  [
-    source 62
-    target 58
-    rank 9
-  ]
-  edge
-  [
-    source 62
-    target 99
-    rank 10
-  ]
-  edge
-  [
-    source 62
-    target 10
-    rank 11
-  ]
-  edge
-  [
-    source 62
-    target 92
-    rank 13
-  ]
-  edge
-  [
-    source 62
-    target 47
+    source 51
+    target 63
     rank 20
   ]
   edge
   [
-    source 65
-    target 8
-    rank 7
+    source 52
+    target 5
+    rank 6
   ]
   edge
   [
-    source 65
-    target 5
+    source 52
+    target 25
     rank 8
   ]
   edge
   [
-    source 65
+    source 52
     target 2
     rank 9
   ]
   edge
   [
-    source 68
+    source 52
+    target 24
+    rank 10
+  ]
+  edge
+  [
+    source 52
+    target 101
+    rank 11
+  ]
+  edge
+  [
+    source 53
+    target 35
+    rank 3
+  ]
+  edge
+  [
+    source 53
+    target 75
+    rank 11
+  ]
+  edge
+  [
+    source 53
+    target 5
+    rank 20
+  ]
+  edge
+  [
+    source 54
+    target 98
+    rank 8
+  ]
+  edge
+  [
+    source 54
+    target 5
+    rank 12
+  ]
+  edge
+  [
+    source 54
+    target 17
+    rank 20
+  ]
+  edge
+  [
+    source 55
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 55
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 55
+    target 34
+    rank 3
+  ]
+  edge
+  [
+    source 55
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 55
+    target 18
+    rank 5
+  ]
+  edge
+  [
+    source 55
+    target 63
+    rank 6
+  ]
+  edge
+  [
+    source 55
+    target 74
+    rank 7
+  ]
+  edge
+  [
+    source 55
+    target 20
+    rank 8
+  ]
+  edge
+  [
+    source 55
+    target 137
+    rank 12
+  ]
+  edge
+  [
+    source 55
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 55
+    target 185
+    rank 15
+  ]
+  edge
+  [
+    source 55
+    target 2
+    rank 17
+  ]
+  edge
+  [
+    source 55
+    target 145
+    rank 18
+  ]
+  edge
+  [
+    source 55
+    target 37
+    rank 19
+  ]
+  edge
+  [
+    source 56
+    target 35
+    rank 3
+  ]
+  edge
+  [
+    source 56
+    target 25
+    rank 7
+  ]
+  edge
+  [
+    source 56
+    target 53
+    rank 9
+  ]
+  edge
+  [
+    source 56
+    target 81
+    rank 10
+  ]
+  edge
+  [
+    source 56
+    target 10
+    rank 11
+  ]
+  edge
+  [
+    source 56
+    target 75
+    rank 13
+  ]
+  edge
+  [
+    source 56
+    target 43
+    rank 20
+  ]
+  edge
+  [
+    source 57
+    target 8
+    rank 7
+  ]
+  edge
+  [
+    source 57
+    target 5
+    rank 8
+  ]
+  edge
+  [
+    source 57
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 58
     target 25
     rank 5
   ]
   edge
   [
-    source 68
+    source 58
     target 9
     rank 13
   ]
   edge
   [
-    source 69
-    target 157
+    source 59
+    target 129
     rank 13
   ]
   edge
   [
-    source 71
+    source 60
     target 14
     rank 2
   ]
   edge
   [
-    source 71
+    source 60
     target 21
     rank 3
   ]
   edge
   [
-    source 71
+    source 60
     target 11
     rank 5
   ]
   edge
   [
-    source 71
+    source 60
     target 8
     rank 7
   ]
   edge
   [
-    source 71
-    target 56
+    source 60
+    target 51
     rank 8
   ]
   edge
   [
-    source 71
-    target 94
+    source 60
+    target 77
     rank 10
   ]
   edge
   [
-    source 71
+    source 60
     target 10
     rank 11
   ]
   edge
   [
-    source 71
-    target 76
+    source 60
+    target 63
     rank 17
   ]
   edge
   [
-    source 73
+    source 61
     target 14
     rank 1
   ]
   edge
   [
-    source 73
+    source 61
     target 21
     rank 3
   ]
   edge
   [
-    source 73
+    source 61
     target 9
     rank 5
   ]
   edge
   [
-    source 73
+    source 61
     target 17
     rank 14
   ]
   edge
   [
-    source 73
+    source 61
     target 2
     rank 16
   ]
   edge
   [
-    source 73
-    target 76
+    source 61
+    target 63
     rank 18
   ]
   edge
   [
-    source 74
-    target 91
+    source 62
+    target 74
     rank 1
   ]
   edge
   [
-    source 74
-    target 45
+    source 62
+    target 41
     rank 3
   ]
   edge
   [
-    source 74
-    target 48
+    source 62
+    target 44
     rank 5
   ]
   edge
   [
-    source 74
-    target 30
+    source 62
+    target 29
     rank 7
   ]
   edge
   [
-    source 74
+    source 62
     target 5
     rank 11
   ]
   edge
   [
-    source 74
+    source 62
     target 18
     rank 14
   ]
   edge
   [
-    source 74
-    target 60
+    source 62
+    target 54
     rank 15
   ]
   edge
   [
-    source 74
-    target 228
+    source 62
+    target 185
     rank 16
   ]
   edge
   [
-    source 74
-    target 80
+    source 62
+    target 66
     rank 18
   ]
   edge
   [
-    source 74
-    target 169
+    source 62
+    target 138
     rank 19
   ]
   edge
   [
-    source 76
+    source 63
     target 14
     rank 1
   ]
   edge
   [
-    source 76
-    target 94
+    source 63
+    target 77
     rank 2
   ]
   edge
   [
-    source 76
-    target 56
+    source 63
+    target 51
     rank 4
   ]
   edge
   [
-    source 76
-    target 118
+    source 63
+    target 98
     rank 5
   ]
   edge
   [
-    source 76
-    target 43
+    source 63
+    target 39
     rank 10
   ]
   edge
   [
-    source 76
+    source 63
     target 17
     rank 11
   ]
   edge
   [
-    source 76
+    source 63
     target 10
     rank 13
   ]
   edge
   [
-    source 76
+    source 63
     target 19
     rank 16
   ]
   edge
   [
-    source 76
-    target 154
+    source 63
+    target 127
     rank 18
   ]
   edge
   [
-    source 76
+    source 63
     target 5
     rank 19
   ]
   edge
   [
-    source 77
-    target 94
+    source 64
+    target 77
     rank 3
   ]
   edge
   [
-    source 77
-    target 137
+    source 64
+    target 112
     rank 4
   ]
   edge
   [
-    source 77
+    source 64
     target 17
     rank 7
   ]
   edge
   [
-    source 77
-    target 154
+    source 64
+    target 127
     rank 18
   ]
   edge
   [
-    source 78
+    source 65
     target 9
     rank 2
   ]
   edge
   [
-    source 78
+    source 65
     target 18
     rank 4
   ]
   edge
   [
-    source 78
-    target 136
+    source 65
+    target 111
     rank 7
   ]
   edge
   [
-    source 78
-    target 48
+    source 65
+    target 44
     rank 11
   ]
   edge
   [
-    source 78
+    source 65
     target 26
     rank 18
   ]
   edge
   [
-    source 80
-    target 91
+    source 66
+    target 74
     rank 2
   ]
   edge
   [
-    source 80
+    source 66
     target 4
     rank 6
   ]
   edge
   [
-    source 80
-    target 151
+    source 66
+    target 124
     rank 7
   ]
   edge
   [
-    source 80
-    target 78
+    source 66
+    target 65
     rank 8
   ]
   edge
   [
-    source 80
-    target 30
+    source 66
+    target 29
     rank 12
   ]
   edge
   [
-    source 80
-    target 228
+    source 66
+    target 185
     rank 14
   ]
   edge
   [
-    source 80
-    target 45
+    source 66
+    target 41
     rank 17
   ]
   edge
   [
-    source 80
-    target 48
+    source 66
+    target 44
     rank 19
   ]
   edge
   [
-    source 81
-    target 103
+    source 67
+    target 85
     rank 10
   ]
   edge
   [
-    source 81
-    target 47
+    source 67
+    target 43
     rank 13
   ]
   edge
   [
-    source 81
-    target 36
+    source 67
+    target 35
     rank 16
   ]
   edge
   [
-    source 82
+    source 68
     target 2
     rank 3
   ]
   edge
   [
-    source 83
-    target 119
+    source 69
+    target 99
     rank 1
   ]
   edge
   [
-    source 83
-    target 209
+    source 69
+    target 171
     rank 4
   ]
   edge
   [
-    source 83
-    target 118
+    source 69
+    target 98
     rank 5
   ]
   edge
   [
-    source 83
-    target 43
+    source 69
+    target 39
     rank 8
   ]
   edge
   [
-    source 83
-    target 84
+    source 69
+    target 70
     rank 9
   ]
   edge
   [
-    source 83
+    source 69
     target 17
     rank 10
   ]
   edge
   [
-    source 83
+    source 69
     target 14
     rank 11
   ]
   edge
   [
-    source 83
-    target 156
+    source 69
+    target 128
     rank 14
   ]
   edge
   [
-    source 83
-    target 93
+    source 69
+    target 76
     rank 17
   ]
   edge
   [
-    source 83
-    target 123
+    source 69
+    target 102
     rank 18
   ]
   edge
   [
-    source 83
-    target 94
+    source 69
+    target 77
     rank 19
   ]
   edge
   [
-    source 84
-    target 209
+    source 70
+    target 171
     rank 3
   ]
   edge
   [
-    source 84
-    target 119
+    source 70
+    target 99
     rank 5
   ]
   edge
   [
-    source 84
-    target 156
+    source 70
+    target 128
     rank 9
   ]
   edge
   [
-    source 84
-    target 171
+    source 70
+    target 140
     rank 10
   ]
   edge
   [
-    source 84
-    target 123
+    source 70
+    target 102
     rank 12
   ]
   edge
   [
-    source 84
+    source 70
     target 2
     rank 13
   ]
   edge
   [
-    source 84
-    target 212
+    source 70
+    target 173
     rank 14
   ]
   edge
   [
-    source 84
-    target 28
+    source 70
+    target 27
     rank 16
   ]
   edge
   [
-    source 84
-    target 87
+    source 70
+    target 72
     rank 17
   ]
   edge
   [
-    source 84
-    target 94
+    source 70
+    target 77
     rank 18
   ]
   edge
   [
-    source 86
+    source 71
     target 13
     rank 3
   ]
   edge
   [
-    source 86
-    target 36
+    source 71
+    target 35
     rank 4
   ]
   edge
   [
-    source 86
-    target 45
+    source 71
+    target 41
     rank 7
   ]
   edge
   [
-    source 86
-    target 419
+    source 71
+    target 324
     rank 8
   ]
   edge
   [
-    source 86
-    target 29
+    source 71
+    target 28
     rank 10
   ]
   edge
   [
-    source 86
-    target 110
+    source 71
+    target 91
     rank 15
   ]
   edge
   [
-    source 86
+    source 71
     target 5
     rank 17
   ]
   edge
   [
-    source 86
-    target 166
+    source 71
+    target 135
     rank 19
   ]
   edge
   [
-    source 87
-    target 123
+    source 72
+    target 102
     rank 1
   ]
   edge
   [
-    source 87
-    target 118
+    source 72
+    target 98
     rank 5
   ]
   edge
   [
-    source 87
-    target 119
+    source 72
+    target 99
     rank 6
   ]
   edge
   [
-    source 87
-    target 156
+    source 72
+    target 128
     rank 8
   ]
   edge
   [
-    source 87
-    target 83
+    source 72
+    target 69
     rank 11
   ]
   edge
   [
-    source 87
-    target 171
+    source 72
+    target 140
     rank 13
   ]
   edge
   [
-    source 87
+    source 72
     target 10
     rank 14
   ]
   edge
   [
-    source 87
-    target 84
+    source 72
+    target 70
     rank 16
   ]
   edge
   [
-    source 87
-    target 43
+    source 72
+    target 39
     rank 17
   ]
   edge
   [
-    source 87
-    target 178
+    source 72
+    target 146
     rank 20
   ]
   edge
   [
-    source 89
+    source 73
     target 14
     rank 2
   ]
   edge
   [
-    source 89
+    source 73
     target 18
     rank 3
   ]
   edge
   [
-    source 89
+    source 73
     target 10
     rank 5
   ]
   edge
   [
-    source 89
+    source 73
     target 2
     rank 10
   ]
   edge
   [
-    source 89
+    source 73
     target 5
     rank 13
   ]
   edge
   [
-    source 89
+    source 73
     target 19
     rank 15
   ]
   edge
   [
-    source 89
+    source 73
     target 0
     rank 16
   ]
   edge
   [
-    source 89
-    target 136
+    source 73
+    target 111
     rank 17
   ]
   edge
   [
-    source 91
+    source 74
     target 20
     rank 1
   ]
   edge
   [
-    source 91
-    target 169
+    source 74
+    target 138
     rank 6
   ]
   edge
   [
-    source 91
-    target 74
+    source 74
+    target 62
     rank 10
   ]
   edge
   [
-    source 91
-    target 228
+    source 74
+    target 185
     rank 15
   ]
   edge
   [
-    source 91
-    target 45
+    source 74
+    target 41
     rank 16
   ]
   edge
   [
-    source 91
-    target 168
+    source 74
+    target 137
     rank 17
   ]
   edge
   [
-    source 92
-    target 36
+    source 75
+    target 35
     rank 4
   ]
   edge
   [
-    source 92
+    source 75
     target 25
     rank 5
   ]
   edge
   [
-    source 92
-    target 62
+    source 75
+    target 56
     rank 6
   ]
   edge
   [
-    source 92
-    target 47
+    source 75
+    target 43
     rank 7
   ]
   edge
   [
-    source 92
-    target 58
+    source 75
+    target 53
     rank 15
   ]
   edge
   [
-    source 92
+    source 75
     target 3
     rank 17
   ]
   edge
   [
-    source 92
-    target 44
+    source 75
+    target 40
     rank 20
   ]
   edge
   [
-    source 93
+    source 76
     target 10
     rank 1
   ]
   edge
   [
-    source 93
-    target 119
+    source 76
+    target 99
     rank 2
   ]
   edge
   [
-    source 93
-    target 118
+    source 76
+    target 98
     rank 5
   ]
   edge
   [
-    source 93
-    target 83
+    source 76
+    target 69
     rank 11
   ]
   edge
   [
-    source 93
-    target 212
+    source 76
+    target 173
     rank 12
   ]
   edge
   [
-    source 93
+    source 76
     target 23
     rank 15
   ]
   edge
   [
-    source 93
-    target 123
+    source 76
+    target 102
     rank 16
   ]
   edge
   [
-    source 93
-    target 84
+    source 76
+    target 70
     rank 17
   ]
   edge
   [
-    source 94
+    source 77
     target 14
     rank 1
   ]
   edge
   [
-    source 94
-    target 118
+    source 77
+    target 98
     rank 4
   ]
   edge
   [
-    source 94
+    source 77
     target 19
     rank 7
   ]
   edge
   [
-    source 94
+    source 77
     target 17
     rank 9
   ]
   edge
   [
-    source 94
+    source 77
     target 7
     rank 10
   ]
   edge
   [
-    source 94
-    target 171
+    source 77
+    target 140
     rank 13
   ]
   edge
   [
-    source 94
-    target 43
+    source 77
+    target 39
     rank 14
   ]
   edge
   [
-    source 94
-    target 56
+    source 77
+    target 51
     rank 15
   ]
   edge
   [
-    source 94
+    source 77
     target 10
     rank 20
   ]
   edge
   [
-    source 95
-    target 87
+    source 78
+    target 72
     rank 4
   ]
   edge
   [
-    source 95
-    target 156
+    source 78
+    target 128
     rank 8
   ]
   edge
   [
-    source 95
+    source 78
     target 2
     rank 15
   ]
   edge
   [
-    source 96
-    target 118
+    source 79
+    target 98
     rank 1
   ]
   edge
   [
-    source 96
+    source 79
     target 14
     rank 2
   ]
   edge
   [
-    source 96
-    target 171
+    source 79
+    target 140
     rank 5
   ]
   edge
   [
-    source 96
-    target 242
+    source 79
+    target 198
     rank 11
   ]
   edge
   [
-    source 96
-    target 43
+    source 79
+    target 39
     rank 13
   ]
   edge
   [
-    source 96
+    source 79
     target 7
     rank 14
   ]
   edge
   [
-    source 96
+    source 79
     target 16
     rank 16
   ]
   edge
   [
-    source 96
-    target 76
+    source 79
+    target 63
     rank 19
   ]
   edge
   [
-    source 97
-    target 264
+    source 80
+    target 214
     rank 18
   ]
   edge
   [
-    source 99
+    source 81
     target 2
     rank 2
   ]
   edge
   [
-    source 100
-    target 137
+    source 82
+    target 112
     rank 1
   ]
   edge
   [
-    source 100
+    source 82
     target 14
     rank 5
   ]
   edge
   [
-    source 100
+    source 82
     target 19
     rank 10
   ]
   edge
   [
-    source 100
-    target 168
+    source 82
+    target 137
     rank 16
   ]
   edge
   [
-    source 101
-    target 92
+    source 83
+    target 75
     rank 2
   ]
   edge
   [
-    source 101
-    target 58
+    source 83
+    target 53
     rank 4
   ]
   edge
   [
-    source 101
-    target 47
+    source 83
+    target 43
     rank 5
   ]
   edge
   [
-    source 101
+    source 83
     target 2
     rank 7
   ]
   edge
   [
-    source 101
-    target 176
+    source 83
+    target 145
     rank 8
   ]
   edge
   [
-    source 101
+    source 83
     target 10
     rank 9
   ]
   edge
   [
-    source 101
-    target 36
+    source 83
+    target 35
     rank 10
   ]
   edge
   [
-    source 101
-    target 53
+    source 83
+    target 48
     rank 11
   ]
   edge
   [
-    source 101
-    target 196
+    source 83
+    target 161
     rank 15
   ]
   edge
   [
-    source 101
-    target 115
+    source 83
+    target 96
     rank 19
   ]
   edge
   [
-    source 102
-    target 91
+    source 84
+    target 74
     rank 1
   ]
   edge
   [
-    source 102
-    target 35
+    source 84
+    target 34
     rank 2
   ]
   edge
   [
-    source 102
+    source 84
     target 14
     rank 5
   ]
   edge
   [
-    source 102
-    target 118
+    source 84
+    target 98
     rank 6
   ]
   edge
   [
-    source 102
-    target 80
+    source 84
+    target 66
     rank 8
   ]
   edge
   [
-    source 102
-    target 151
+    source 84
+    target 124
     rank 9
   ]
   edge
   [
-    source 102
+    source 84
     target 5
     rank 10
   ]
   edge
   [
-    source 102
-    target 45
+    source 84
+    target 41
     rank 11
   ]
   edge
   [
-    source 102
-    target 74
+    source 84
+    target 62
     rank 13
   ]
   edge
   [
-    source 102
-    target 228
+    source 84
+    target 185
     rank 14
   ]
   edge
   [
-    source 102
+    source 84
     target 23
     rank 16
   ]
   edge
   [
-    source 103
-    target 32
+    source 85
+    target 31
     rank 5
   ]
   edge
   [
-    source 103
-    target 36
+    source 85
+    target 35
     rank 7
   ]
   edge
   [
-    source 103
+    source 85
     target 15
     rank 10
   ]
   edge
   [
-    source 103
-    target 81
+    source 85
+    target 67
     rank 16
   ]
   edge
   [
-    source 103
-    target 47
+    source 85
+    target 43
     rank 20
   ]
   edge
   [
-    source 105
-    target 184
+    source 87
+    target 151
     rank 4
   ]
   edge
   [
-    source 105
-    target 171
+    source 87
+    target 140
     rank 5
   ]
   edge
   [
-    source 105
-    target 242
+    source 87
+    target 198
     rank 8
   ]
   edge
   [
-    source 105
-    target 212
+    source 87
+    target 173
     rank 9
   ]
   edge
   [
-    source 105
-    target 143
+    source 87
+    target 117
     rank 10
   ]
   edge
   [
-    source 105
+    source 87
     target 19
     rank 12
   ]
   edge
   [
-    source 105
-    target 128
+    source 87
+    target 106
     rank 13
   ]
   edge
   [
-    source 105
-    target 118
+    source 87
+    target 98
     rank 14
   ]
   edge
   [
-    source 105
-    target 156
+    source 87
+    target 128
     rank 19
   ]
   edge
   [
-    source 107
+    source 88
     target 2
     rank 6
   ]
   edge
   [
-    source 107
-    target 213
+    source 88
+    target 174
     rank 8
   ]
   edge
   [
-    source 108
-    target 36
+    source 89
+    target 35
     rank 6
   ]
   edge
   [
-    source 108
+    source 89
     target 25
     rank 9
   ]
   edge
   [
-    source 108
+    source 89
     target 20
     rank 12
   ]
   edge
   [
-    source 108
+    source 89
     target 3
     rank 17
   ]
   edge
   [
-    source 109
-    target 36
+    source 90
+    target 35
     rank 2
   ]
   edge
   [
-    source 109
-    target 53
+    source 90
+    target 48
     rank 12
   ]
   edge
   [
-    source 109
+    source 90
     target 2
     rank 18
   ]
   edge
   [
-    source 110
+    source 91
     target 18
     rank 2
   ]
   edge
   [
-    source 110
-    target 29
+    source 91
+    target 28
     rank 10
   ]
   edge
   [
-    source 110
-    target 86
+    source 91
+    target 71
     rank 11
   ]
   edge
   [
-    source 110
-    target 147
+    source 91
+    target 120
     rank 16
   ]
   edge
   [
-    source 111
-    target 86
+    source 92
+    target 71
     rank 5
   ]
   edge
   [
-    source 111
-    target 45
+    source 92
+    target 41
     rank 6
   ]
   edge
   [
-    source 111
-    target 94
+    source 92
+    target 77
     rank 8
   ]
   edge
   [
-    source 111
-    target 110
+    source 92
+    target 91
     rank 9
   ]
   edge
   [
-    source 111
+    source 92
     target 18
     rank 11
   ]
   edge
   [
-    source 111
-    target 136
+    source 92
+    target 111
     rank 12
   ]
   edge
   [
-    source 111
-    target 78
+    source 92
+    target 65
     rank 18
   ]
   edge
   [
-    source 112
-    target 153
+    source 93
+    target 126
     rank 7
   ]
   edge
   [
-    source 112
-    target 357
+    source 93
+    target 277
     rank 14
   ]
   edge
   [
-    source 113
-    target 28
+    source 94
+    target 27
     rank 2
   ]
   edge
   [
-    source 113
-    target 99
+    source 94
+    target 81
     rank 4
   ]
   edge
   [
-    source 113
-    target 62
+    source 94
+    target 56
     rank 6
   ]
   edge
   [
-    source 113
+    source 94
     target 2
     rank 7
   ]
   edge
   [
-    source 113
+    source 94
     target 12
     rank 8
   ]
   edge
   [
-    source 113
-    target 312
+    source 94
+    target 248
     rank 12
   ]
   edge
   [
-    source 113
+    source 94
     target 23
     rank 15
   ]
   edge
   [
-    source 114
+    source 95
     target 13
     rank 9
   ]
   edge
   [
-    source 115
-    target 92
+    source 96
+    target 75
     rank 1
   ]
   edge
   [
-    source 115
-    target 36
+    source 96
+    target 35
     rank 2
   ]
   edge
   [
-    source 115
-    target 101
-    rank 3
-  ]
-  edge
-  [
-    source 115
-    target 47
-    rank 9
-  ]
-  edge
-  [
-    source 115
-    target 103
-    rank 11
-  ]
-  edge
-  [
-    source 115
-    target 58
-    rank 12
-  ]
-  edge
-  [
-    source 115
-    target 62
-    rank 15
-  ]
-  edge
-  [
-    source 115
-    target 196
-    rank 16
-  ]
-  edge
-  [
-    source 115
-    target 44
-    rank 17
-  ]
-  edge
-  [
-    source 115
-    target 53
-    rank 18
-  ]
-  edge
-  [
-    source 116
-    target 9
-    rank 1
-  ]
-  edge
-  [
-    source 116
-    target 159
-    rank 7
-  ]
-  edge
-  [
-    source 116
-    target 4
-    rank 10
-  ]
-  edge
-  [
-    source 116
-    target 189
-    rank 15
-  ]
-  edge
-  [
-    source 116
-    target 28
-    rank 16
-  ]
-  edge
-  [
-    source 118
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 118
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 118
-    target 56
-    rank 4
-  ]
-  edge
-  [
-    source 118
-    target 94
-    rank 9
-  ]
-  edge
-  [
-    source 118
-    target 17
-    rank 10
-  ]
-  edge
-  [
-    source 118
-    target 28
-    rank 11
-  ]
-  edge
-  [
-    source 118
-    target 123
-    rank 12
-  ]
-  edge
-  [
-    source 118
-    target 76
-    rank 17
-  ]
-  edge
-  [
-    source 118
-    target 24
-    rank 20
-  ]
-  edge
-  [
-    source 119
-    target 93
-    rank 1
-  ]
-  edge
-  [
-    source 119
-    target 118
-    rank 3
-  ]
-  edge
-  [
-    source 119
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 119
-    target 43
-    rank 5
-  ]
-  edge
-  [
-    source 119
-    target 84
-    rank 6
-  ]
-  edge
-  [
-    source 119
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 119
-    target 171
-    rank 10
-  ]
-  edge
-  [
-    source 119
-    target 87
-    rank 12
-  ]
-  edge
-  [
-    source 119
-    target 17
-    rank 14
-  ]
-  edge
-  [
-    source 119
-    target 123
-    rank 15
-  ]
-  edge
-  [
-    source 119
-    target 28
-    rank 16
-  ]
-  edge
-  [
-    source 121
-    target 171
-    rank 2
-  ]
-  edge
-  [
-    source 121
-    target 84
-    rank 3
-  ]
-  edge
-  [
-    source 121
-    target 184
-    rank 7
-  ]
-  edge
-  [
-    source 121
-    target 242
-    rank 11
-  ]
-  edge
-  [
-    source 121
-    target 143
-    rank 15
-  ]
-  edge
-  [
-    source 121
-    target 128
-    rank 17
-  ]
-  edge
-  [
-    source 122
-    target 171
-    rank 2
-  ]
-  edge
-  [
-    source 122
-    target 118
-    rank 3
-  ]
-  edge
-  [
-    source 122
-    target 5
-    rank 4
-  ]
-  edge
-  [
-    source 122
-    target 21
-    rank 5
-  ]
-  edge
-  [
-    source 122
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 122
-    target 331
-    rank 9
-  ]
-  edge
-  [
-    source 122
-    target 43
-    rank 10
-  ]
-  edge
-  [
-    source 122
-    target 28
-    rank 16
-  ]
-  edge
-  [
-    source 122
-    target 14
-    rank 17
-  ]
-  edge
-  [
-    source 122
-    target 16
-    rank 18
-  ]
-  edge
-  [
-    source 123
-    target 87
-    rank 1
-  ]
-  edge
-  [
-    source 123
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 123
-    target 118
-    rank 4
-  ]
-  edge
-  [
-    source 123
-    target 119
-    rank 5
-  ]
-  edge
-  [
-    source 123
-    target 43
-    rank 6
-  ]
-  edge
-  [
-    source 123
-    target 94
-    rank 8
-  ]
-  edge
-  [
-    source 123
-    target 171
-    rank 9
-  ]
-  edge
-  [
-    source 123
-    target 5
-    rank 10
-  ]
-  edge
-  [
-    source 123
-    target 84
-    rank 12
-  ]
-  edge
-  [
-    source 123
+    source 96
     target 83
-    rank 13
+    rank 3
   ]
   edge
   [
-    source 123
-    target 93
-    rank 14
+    source 96
+    target 43
+    rank 9
   ]
   edge
   [
-    source 123
-    target 156
+    source 96
+    target 85
+    rank 11
+  ]
+  edge
+  [
+    source 96
+    target 53
+    rank 12
+  ]
+  edge
+  [
+    source 96
+    target 56
     rank 15
   ]
   edge
   [
-    source 123
-    target 55
-    rank 20
-  ]
-  edge
-  [
-    source 125
-    target 203
-    rank 8
-  ]
-  edge
-  [
-    source 125
+    source 96
     target 161
     rank 16
   ]
   edge
   [
-    source 126
-    target 367
-    rank 3
-  ]
-  edge
-  [
-    source 126
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 126
-    target 28
-    rank 7
-  ]
-  edge
-  [
-    source 126
-    target 58
+    source 96
+    target 40
     rank 17
   ]
   edge
   [
-    source 127
-    target 84
-    rank 1
-  ]
-  edge
-  [
-    source 127
-    target 119
-    rank 2
-  ]
-  edge
-  [
-    source 127
-    target 43
-    rank 5
-  ]
-  edge
-  [
-    source 127
-    target 93
-    rank 9
-  ]
-  edge
-  [
-    source 127
-    target 270
-    rank 10
-  ]
-  edge
-  [
-    source 127
-    target 212
-    rank 15
-  ]
-  edge
-  [
-    source 127
-    target 87
-    rank 18
-  ]
-  edge
-  [
-    source 127
-    target 242
-    rank 20
-  ]
-  edge
-  [
-    source 128
-    target 171
-    rank 1
-  ]
-  edge
-  [
-    source 128
-    target 143
-    rank 3
-  ]
-  edge
-  [
-    source 128
-    target 184
-    rank 11
-  ]
-  edge
-  [
-    source 128
-    target 105
-    rank 13
-  ]
-  edge
-  [
-    source 128
-    target 178
-    rank 15
-  ]
-  edge
-  [
-    source 128
-    target 154
-    rank 16
-  ]
-  edge
-  [
-    source 128
-    target 93
-    rank 19
-  ]
-  edge
-  [
-    source 128
-    target 185
-    rank 20
-  ]
-  edge
-  [
-    source 130
-    target 18
-    rank 15
-  ]
-  edge
-  [
-    source 130
-    target 311
-    rank 16
-  ]
-  edge
-  [
-    source 131
-    target 92
-    rank 19
-  ]
-  edge
-  [
-    source 132
-    target 18
-    rank 2
-  ]
-  edge
-  [
-    source 132
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 132
-    target 228
-    rank 4
-  ]
-  edge
-  [
-    source 132
-    target 24
-    rank 5
-  ]
-  edge
-  [
-    source 132
-    target 23
-    rank 6
-  ]
-  edge
-  [
-    source 132
+    source 96
     target 48
-    rank 7
-  ]
-  edge
-  [
-    source 132
-    target 137
-    rank 11
-  ]
-  edge
-  [
-    source 132
-    target 32
-    rank 13
-  ]
-  edge
-  [
-    source 132
-    target 5
-    rank 15
-  ]
-  edge
-  [
-    source 132
-    target 80
-    rank 19
-  ]
-  edge
-  [
-    source 135
-    target 69
-    rank 1
-  ]
-  edge
-  [
-    source 135
-    target 145
-    rank 19
-  ]
-  edge
-  [
-    source 136
-    target 78
-    rank 2
-  ]
-  edge
-  [
-    source 136
-    target 26
-    rank 8
-  ]
-  edge
-  [
-    source 136
-    target 86
-    rank 9
-  ]
-  edge
-  [
-    source 136
-    target 34
-    rank 10
-  ]
-  edge
-  [
-    source 136
-    target 242
-    rank 12
-  ]
-  edge
-  [
-    source 136
-    target 17
-    rank 13
-  ]
-  edge
-  [
-    source 136
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 136
-    target 29
-    rank 17
-  ]
-  edge
-  [
-    source 136
-    target 147
-    rank 19
-  ]
-  edge
-  [
-    source 137
-    target 118
-    rank 8
-  ]
-  edge
-  [
-    source 137
-    target 94
-    rank 12
-  ]
-  edge
-  [
-    source 137
-    target 14
-    rank 13
-  ]
-  edge
-  [
-    source 137
-    target 5
     rank 18
   ]
   edge
   [
-    source 137
-    target 17
-    rank 20
-  ]
-  edge
-  [
-    source 138
-    target 233
+    source 97
+    target 9
     rank 1
   ]
   edge
   [
-    source 139
-    target 295
+    source 97
+    target 130
+    rank 7
+  ]
+  edge
+  [
+    source 97
+    target 4
+    rank 10
+  ]
+  edge
+  [
+    source 97
+    target 155
+    rank 15
+  ]
+  edge
+  [
+    source 97
+    target 27
+    rank 16
+  ]
+  edge
+  [
+    source 98
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 98
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 98
+    target 51
+    rank 4
+  ]
+  edge
+  [
+    source 98
+    target 77
+    rank 9
+  ]
+  edge
+  [
+    source 98
+    target 17
+    rank 10
+  ]
+  edge
+  [
+    source 98
+    target 27
     rank 11
   ]
   edge
   [
-    source 140
-    target 284
+    source 98
+    target 102
+    rank 12
+  ]
+  edge
+  [
+    source 98
+    target 63
+    rank 17
+  ]
+  edge
+  [
+    source 98
+    target 24
+    rank 20
+  ]
+  edge
+  [
+    source 99
+    target 76
+    rank 1
+  ]
+  edge
+  [
+    source 99
+    target 98
+    rank 3
+  ]
+  edge
+  [
+    source 99
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 99
+    target 39
     rank 5
   ]
   edge
   [
-    source 140
-    target 202
+    source 99
+    target 70
     rank 6
   ]
   edge
   [
-    source 140
-    target 255
-    rank 7
-  ]
-  edge
-  [
-    source 140
-    target 16
-    rank 12
-  ]
-  edge
-  [
-    source 140
-    target 242
-    rank 14
-  ]
-  edge
-  [
-    source 140
-    target 330
-    rank 18
-  ]
-  edge
-  [
-    source 141
-    target 58
-    rank 1
-  ]
-  edge
-  [
-    source 141
-    target 68
-    rank 3
-  ]
-  edge
-  [
-    source 141
-    target 53
-    rank 4
-  ]
-  edge
-  [
-    source 143
-    target 171
-    rank 1
-  ]
-  edge
-  [
-    source 143
-    target 119
-    rank 3
-  ]
-  edge
-  [
-    source 143
-    target 43
-    rank 5
-  ]
-  edge
-  [
-    source 143
-    target 94
+    source 99
+    target 14
     rank 9
   ]
   edge
   [
-    source 143
-    target 154
+    source 99
+    target 140
     rank 10
   ]
   edge
   [
-    source 143
-    target 105
-    rank 13
-  ]
-  edge
-  [
-    source 143
-    target 123
-    rank 15
-  ]
-  edge
-  [
-    source 143
-    target 178
-    rank 17
-  ]
-  edge
-  [
-    source 143
-    target 184
-    rank 19
-  ]
-  edge
-  [
-    source 143
-    target 83
-    rank 20
-  ]
-  edge
-  [
-    source 144
-    target 94
-    rank 1
-  ]
-  edge
-  [
-    source 144
-    target 118
-    rank 2
-  ]
-  edge
-  [
-    source 144
-    target 60
-    rank 4
-  ]
-  edge
-  [
-    source 144
-    target 5
-    rank 8
-  ]
-  edge
-  [
-    source 144
-    target 34
+    source 99
+    target 72
     rank 12
   ]
   edge
   [
-    source 145
+    source 99
+    target 17
+    rank 14
+  ]
+  edge
+  [
+    source 99
+    target 102
+    rank 15
+  ]
+  edge
+  [
+    source 99
+    target 27
+    rank 16
+  ]
+  edge
+  [
+    source 100
+    target 140
+    rank 2
+  ]
+  edge
+  [
+    source 100
+    target 70
+    rank 3
+  ]
+  edge
+  [
+    source 100
+    target 151
+    rank 7
+  ]
+  edge
+  [
+    source 100
+    target 198
+    rank 11
+  ]
+  edge
+  [
+    source 100
+    target 117
+    rank 15
+  ]
+  edge
+  [
+    source 100
+    target 106
+    rank 17
+  ]
+  edge
+  [
+    source 101
+    target 140
+    rank 2
+  ]
+  edge
+  [
+    source 101
+    target 98
+    rank 3
+  ]
+  edge
+  [
+    source 101
+    target 5
+    rank 4
+  ]
+  edge
+  [
+    source 101
+    target 21
+    rank 5
+  ]
+  edge
+  [
+    source 101
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 101
+    target 260
+    rank 9
+  ]
+  edge
+  [
+    source 101
+    target 39
+    rank 10
+  ]
+  edge
+  [
+    source 101
+    target 27
+    rank 16
+  ]
+  edge
+  [
+    source 101
+    target 14
+    rank 17
+  ]
+  edge
+  [
+    source 101
+    target 16
+    rank 18
+  ]
+  edge
+  [
+    source 102
+    target 72
+    rank 1
+  ]
+  edge
+  [
+    source 102
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 102
+    target 98
+    rank 4
+  ]
+  edge
+  [
+    source 102
+    target 99
+    rank 5
+  ]
+  edge
+  [
+    source 102
+    target 39
+    rank 6
+  ]
+  edge
+  [
+    source 102
+    target 77
+    rank 8
+  ]
+  edge
+  [
+    source 102
+    target 140
+    rank 9
+  ]
+  edge
+  [
+    source 102
+    target 5
+    rank 10
+  ]
+  edge
+  [
+    source 102
+    target 70
+    rank 12
+  ]
+  edge
+  [
+    source 102
     target 69
+    rank 13
+  ]
+  edge
+  [
+    source 102
+    target 76
+    rank 14
+  ]
+  edge
+  [
+    source 102
+    target 128
+    rank 15
+  ]
+  edge
+  [
+    source 102
+    target 50
     rank 20
   ]
   edge
   [
-    source 147
+    source 103
+    target 166
+    rank 8
+  ]
+  edge
+  [
+    source 103
+    target 132
+    rank 16
+  ]
+  edge
+  [
+    source 104
+    target 286
+    rank 3
+  ]
+  edge
+  [
+    source 104
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 104
+    target 27
+    rank 7
+  ]
+  edge
+  [
+    source 104
+    target 53
+    rank 17
+  ]
+  edge
+  [
+    source 105
+    target 70
+    rank 1
+  ]
+  edge
+  [
+    source 105
     target 99
     rank 2
   ]
   edge
   [
-    source 147
-    target 86
+    source 105
+    target 39
+    rank 5
+  ]
+  edge
+  [
+    source 105
+    target 76
+    rank 9
+  ]
+  edge
+  [
+    source 105
+    target 219
+    rank 10
+  ]
+  edge
+  [
+    source 105
+    target 173
+    rank 15
+  ]
+  edge
+  [
+    source 105
+    target 72
+    rank 18
+  ]
+  edge
+  [
+    source 105
+    target 198
+    rank 20
+  ]
+  edge
+  [
+    source 106
+    target 140
+    rank 1
+  ]
+  edge
+  [
+    source 106
+    target 117
     rank 3
   ]
   edge
   [
-    source 147
+    source 106
+    target 151
+    rank 11
+  ]
+  edge
+  [
+    source 106
+    target 87
+    rank 13
+  ]
+  edge
+  [
+    source 106
+    target 146
+    rank 15
+  ]
+  edge
+  [
+    source 106
+    target 127
+    rank 16
+  ]
+  edge
+  [
+    source 106
+    target 76
+    rank 19
+  ]
+  edge
+  [
+    source 106
+    target 152
+    rank 20
+  ]
+  edge
+  [
+    source 107
+    target 18
+    rank 15
+  ]
+  edge
+  [
+    source 107
+    target 247
+    rank 16
+  ]
+  edge
+  [
+    source 108
+    target 75
+    rank 19
+  ]
+  edge
+  [
+    source 109
+    target 18
+    rank 2
+  ]
+  edge
+  [
+    source 109
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 109
+    target 185
+    rank 4
+  ]
+  edge
+  [
+    source 109
+    target 24
+    rank 5
+  ]
+  edge
+  [
+    source 109
+    target 23
+    rank 6
+  ]
+  edge
+  [
+    source 109
+    target 44
+    rank 7
+  ]
+  edge
+  [
+    source 109
+    target 112
+    rank 11
+  ]
+  edge
+  [
+    source 109
+    target 31
+    rank 13
+  ]
+  edge
+  [
+    source 109
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 109
+    target 66
+    rank 19
+  ]
+  edge
+  [
+    source 110
+    target 59
+    rank 1
+  ]
+  edge
+  [
+    source 110
+    target 119
+    rank 19
+  ]
+  edge
+  [
+    source 111
+    target 65
+    rank 2
+  ]
+  edge
+  [
+    source 111
+    target 26
+    rank 8
+  ]
+  edge
+  [
+    source 111
+    target 71
+    rank 9
+  ]
+  edge
+  [
+    source 111
+    target 33
+    rank 10
+  ]
+  edge
+  [
+    source 111
+    target 198
+    rank 12
+  ]
+  edge
+  [
+    source 111
+    target 17
+    rank 13
+  ]
+  edge
+  [
+    source 111
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 111
+    target 28
+    rank 17
+  ]
+  edge
+  [
+    source 111
+    target 120
+    rank 19
+  ]
+  edge
+  [
+    source 112
+    target 98
+    rank 8
+  ]
+  edge
+  [
+    source 112
+    target 77
+    rank 12
+  ]
+  edge
+  [
+    source 112
+    target 14
+    rank 13
+  ]
+  edge
+  [
+    source 112
+    target 5
+    rank 18
+  ]
+  edge
+  [
+    source 112
+    target 17
+    rank 20
+  ]
+  edge
+  [
+    source 113
+    target 189
+    rank 1
+  ]
+  edge
+  [
+    source 114
+    target 236
+    rank 11
+  ]
+  edge
+  [
+    source 115
+    target 229
+    rank 5
+  ]
+  edge
+  [
+    source 115
+    target 165
+    rank 6
+  ]
+  edge
+  [
+    source 115
+    target 208
+    rank 7
+  ]
+  edge
+  [
+    source 115
+    target 16
+    rank 12
+  ]
+  edge
+  [
+    source 115
+    target 198
+    rank 14
+  ]
+  edge
+  [
+    source 115
+    target 259
+    rank 18
+  ]
+  edge
+  [
+    source 116
+    target 53
+    rank 1
+  ]
+  edge
+  [
+    source 116
+    target 58
+    rank 3
+  ]
+  edge
+  [
+    source 116
+    target 48
+    rank 4
+  ]
+  edge
+  [
+    source 117
+    target 140
+    rank 1
+  ]
+  edge
+  [
+    source 117
+    target 99
+    rank 3
+  ]
+  edge
+  [
+    source 117
+    target 39
+    rank 5
+  ]
+  edge
+  [
+    source 117
+    target 77
+    rank 9
+  ]
+  edge
+  [
+    source 117
+    target 127
+    rank 10
+  ]
+  edge
+  [
+    source 117
+    target 87
+    rank 13
+  ]
+  edge
+  [
+    source 117
+    target 102
+    rank 15
+  ]
+  edge
+  [
+    source 117
+    target 146
+    rank 17
+  ]
+  edge
+  [
+    source 117
+    target 151
+    rank 19
+  ]
+  edge
+  [
+    source 117
+    target 69
+    rank 20
+  ]
+  edge
+  [
+    source 118
+    target 77
+    rank 1
+  ]
+  edge
+  [
+    source 118
+    target 98
+    rank 2
+  ]
+  edge
+  [
+    source 118
+    target 54
+    rank 4
+  ]
+  edge
+  [
+    source 118
+    target 5
+    rank 8
+  ]
+  edge
+  [
+    source 118
+    target 33
+    rank 12
+  ]
+  edge
+  [
+    source 119
+    target 59
+    rank 20
+  ]
+  edge
+  [
+    source 120
+    target 81
+    rank 2
+  ]
+  edge
+  [
+    source 120
+    target 71
+    rank 3
+  ]
+  edge
+  [
+    source 120
     target 15
     rank 4
   ]
   edge
   [
-    source 147
-    target 136
+    source 120
+    target 111
     rank 6
   ]
   edge
   [
-    source 147
+    source 120
     target 26
     rank 7
   ]
   edge
   [
-    source 147
+    source 120
     target 16
     rank 8
   ]
   edge
   [
-    source 147
-    target 149
+    source 120
+    target 122
     rank 14
   ]
   edge
   [
-    source 147
-    target 29
+    source 120
+    target 28
     rank 15
   ]
   edge
   [
-    source 147
-    target 45
+    source 120
+    target 41
     rank 18
   ]
   edge
   [
-    source 148
-    target 84
+    source 121
+    target 70
     rank 1
   ]
   edge
   [
-    source 148
-    target 156
+    source 121
+    target 128
     rank 5
   ]
   edge
   [
-    source 148
-    target 87
+    source 121
+    target 72
     rank 10
   ]
   edge
   [
-    source 148
-    target 209
+    source 121
+    target 171
     rank 11
   ]
   edge
   [
-    source 148
-    target 212
+    source 121
+    target 173
     rank 14
   ]
   edge
   [
-    source 148
-    target 93
+    source 121
+    target 76
     rank 15
   ]
   edge
   [
-    source 149
-    target 110
+    source 122
+    target 91
     rank 1
   ]
   edge
   [
-    source 149
+    source 122
     target 19
     rank 18
   ]
   edge
   [
-    source 150
+    source 123
     target 25
     rank 6
   ]
   edge
   [
-    source 150
-    target 36
+    source 123
+    target 35
     rank 7
   ]
   edge
   [
-    source 150
+    source 123
     target 21
     rank 8
   ]
   edge
   [
-    source 150
+    source 123
     target 10
     rank 11
   ]
   edge
   [
-    source 150
-    target 58
+    source 123
+    target 53
     rank 17
   ]
   edge
   [
-    source 150
+    source 123
     target 4
     rank 18
   ]
   edge
   [
-    source 150
-    target 28
+    source 123
+    target 27
     rank 19
   ]
   edge
   [
-    source 151
-    target 35
+    source 124
+    target 34
     rank 1
   ]
   edge
   [
-    source 151
+    source 124
     target 18
     rank 2
   ]
   edge
   [
-    source 151
+    source 124
     target 23
     rank 3
   ]
   edge
   [
-    source 151
-    target 48
+    source 124
+    target 44
     rank 5
   ]
   edge
   [
-    source 151
-    target 45
+    source 124
+    target 41
     rank 6
   ]
   edge
   [
-    source 151
+    source 124
     target 2
     rank 8
   ]
   edge
   [
-    source 151
-    target 203
+    source 124
+    target 166
     rank 10
   ]
   edge
   [
-    source 151
-    target 168
+    source 124
+    target 137
     rank 16
   ]
   edge
   [
-    source 151
-    target 74
+    source 124
+    target 62
     rank 17
   ]
   edge
   [
-    source 151
-    target 169
+    source 124
+    target 138
     rank 19
   ]
   edge
   [
-    source 152
-    target 314
+    source 125
+    target 249
     rank 3
   ]
   edge
   [
-    source 152
-    target 94
+    source 125
+    target 77
     rank 19
   ]
   edge
   [
-    source 153
-    target 250
+    source 126
+    target 203
     rank 1
   ]
   edge
   [
-    source 153
+    source 126
     target 17
     rank 7
   ]
   edge
   [
-    source 153
+    source 126
     target 7
     rank 13
   ]
   edge
   [
-    source 154
+    source 127
     target 14
     rank 1
   ]
   edge
   [
-    source 154
-    target 118
+    source 127
+    target 98
     rank 7
   ]
   edge
   [
-    source 154
-    target 43
+    source 127
+    target 39
     rank 10
   ]
   edge
   [
-    source 154
+    source 127
     target 17
     rank 13
   ]
   edge
   [
-    source 154
-    target 94
+    source 127
+    target 77
     rank 17
   ]
   edge
   [
-    source 156
-    target 84
+    source 128
+    target 70
     rank 1
   ]
   edge
   [
-    source 156
-    target 83
+    source 128
+    target 69
     rank 3
   ]
   edge
   [
-    source 156
-    target 87
+    source 128
+    target 72
     rank 4
   ]
   edge
   [
-    source 156
-    target 123
+    source 128
+    target 102
     rank 5
   ]
   edge
   [
-    source 156
-    target 171
+    source 128
+    target 140
     rank 7
   ]
   edge
   [
-    source 156
-    target 209
+    source 128
+    target 171
     rank 8
   ]
   edge
   [
-    source 156
-    target 118
+    source 128
+    target 98
     rank 10
   ]
   edge
   [
-    source 156
-    target 119
+    source 128
+    target 99
     rank 12
   ]
   edge
   [
-    source 156
-    target 94
+    source 128
+    target 77
     rank 15
   ]
   edge
   [
-    source 156
-    target 212
+    source 128
+    target 173
     rank 16
   ]
   edge
   [
-    source 156
-    target 93
+    source 128
+    target 76
     rank 18
   ]
   edge
   [
-    source 157
+    source 129
     target 3
     rank 2
   ]
   edge
   [
-    source 157
-    target 104
+    source 129
+    target 86
     rank 10
   ]
   edge
   [
-    source 159
-    target 76
+    source 130
+    target 63
     rank 2
   ]
   edge
   [
-    source 159
-    target 161
+    source 130
+    target 132
     rank 5
   ]
   edge
   [
-    source 159
+    source 130
     target 2
     rank 8
   ]
   edge
   [
-    source 159
+    source 130
     target 4
     rank 16
   ]
   edge
   [
-    source 160
-    target 237
+    source 131
+    target 193
     rank 1
   ]
   edge
   [
-    source 160
-    target 28
+    source 131
+    target 27
     rank 2
   ]
   edge
   [
-    source 160
-    target 224
+    source 131
+    target 182
     rank 11
   ]
   edge
   [
-    source 160
-    target 76
+    source 131
+    target 63
     rank 17
   ]
   edge
   [
-    source 161
-    target 159
+    source 132
+    target 130
     rank 5
   ]
   edge
   [
-    source 162
+    source 133
     target 14
     rank 1
   ]
   edge
   [
-    source 162
-    target 118
+    source 133
+    target 98
     rank 3
   ]
   edge
   [
-    source 162
+    source 133
     target 17
     rank 11
   ]
   edge
   [
-    source 162
-    target 94
+    source 133
+    target 77
     rank 16
   ]
   edge
   [
-    source 162
-    target 43
+    source 133
+    target 39
     rank 17
   ]
   edge
   [
-    source 162
+    source 133
     target 5
     rank 18
   ]
   edge
   [
-    source 165
-    target 264
+    source 134
+    target 214
     rank 2
   ]
   edge
   [
-    source 165
-    target 402
+    source 134
+    target 313
     rank 18
   ]
   edge
   [
-    source 166
-    target 110
+    source 135
+    target 91
     rank 3
   ]
   edge
   [
-    source 166
-    target 198
+    source 135
+    target 162
     rank 5
   ]
   edge
   [
-    source 166
+    source 135
     target 18
     rank 8
   ]
   edge
   [
-    source 166
+    source 135
     target 5
     rank 9
   ]
   edge
   [
-    source 166
+    source 135
     target 16
     rank 10
   ]
   edge
   [
-    source 166
+    source 135
     target 26
     rank 15
   ]
   edge
   [
-    source 166
-    target 45
+    source 135
+    target 41
     rank 17
   ]
   edge
   [
-    source 166
-    target 86
+    source 135
+    target 71
     rank 19
   ]
   edge
   [
-    source 166
-    target 111
+    source 135
+    target 92
     rank 20
   ]
   edge
   [
-    source 167
-    target 53
-    rank 1
-  ]
-  edge
-  [
-    source 167
-    target 196
-    rank 2
-  ]
-  edge
-  [
-    source 167
-    target 36
-    rank 3
-  ]
-  edge
-  [
-    source 167
-    target 226
-    rank 4
-  ]
-  edge
-  [
-    source 167
-    target 176
-    rank 10
-  ]
-  edge
-  [
-    source 167
-    target 101
-    rank 11
-  ]
-  edge
-  [
-    source 168
-    target 91
-    rank 2
-  ]
-  edge
-  [
-    source 168
-    target 9
-    rank 5
-  ]
-  edge
-  [
-    source 168
-    target 30
-    rank 6
-  ]
-  edge
-  [
-    source 168
-    target 71
-    rank 8
-  ]
-  edge
-  [
-    source 168
-    target 5
-    rank 9
-  ]
-  edge
-  [
-    source 168
-    target 45
-    rank 10
-  ]
-  edge
-  [
-    source 168
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 168
-    target 94
-    rank 13
-  ]
-  edge
-  [
-    source 168
-    target 110
-    rank 14
-  ]
-  edge
-  [
-    source 169
+    source 136
     target 48
     rank 1
   ]
   edge
   [
-    source 169
-    target 18
+    source 136
+    target 161
     rank 2
   ]
   edge
   [
-    source 169
+    source 136
+    target 35
+    rank 3
+  ]
+  edge
+  [
+    source 136
+    target 184
+    rank 4
+  ]
+  edge
+  [
+    source 136
+    target 145
+    rank 10
+  ]
+  edge
+  [
+    source 136
+    target 83
+    rank 11
+  ]
+  edge
+  [
+    source 137
     target 74
+    rank 2
+  ]
+  edge
+  [
+    source 137
+    target 9
     rank 5
   ]
   edge
   [
-    source 169
-    target 228
+    source 137
+    target 29
     rank 6
   ]
   edge
   [
-    source 169
-    target 2
-    rank 7
+    source 137
+    target 60
+    rank 8
   ]
   edge
   [
-    source 169
+    source 137
     target 5
     rank 9
   ]
   edge
   [
-    source 169
-    target 30
-    rank 11
+    source 137
+    target 41
+    rank 10
   ]
   edge
   [
-    source 169
-    target 269
+    source 137
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 137
+    target 77
     rank 13
   ]
   edge
   [
-    source 169
-    target 118
+    source 137
+    target 91
     rank 14
   ]
   edge
   [
-    source 170
-    target 118
+    source 138
+    target 44
     rank 1
   ]
   edge
   [
-    source 170
-    target 76
+    source 138
+    target 18
     rank 2
   ]
   edge
   [
-    source 170
-    target 60
+    source 138
+    target 62
     rank 5
   ]
   edge
   [
-    source 171
-    target 143
+    source 138
+    target 185
+    rank 6
+  ]
+  edge
+  [
+    source 138
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 138
+    target 5
+    rank 9
+  ]
+  edge
+  [
+    source 138
+    target 29
+    rank 11
+  ]
+  edge
+  [
+    source 138
+    target 218
+    rank 13
+  ]
+  edge
+  [
+    source 138
+    target 98
+    rank 14
+  ]
+  edge
+  [
+    source 139
+    target 98
     rank 1
   ]
   edge
   [
-    source 171
+    source 139
+    target 63
+    rank 2
+  ]
+  edge
+  [
+    source 139
+    target 54
+    rank 5
+  ]
+  edge
+  [
+    source 140
+    target 117
+    rank 1
+  ]
+  edge
+  [
+    source 140
     target 10
     rank 2
   ]
   edge
   [
-    source 171
-    target 178
+    source 140
+    target 146
     rank 3
   ]
   edge
   [
-    source 171
-    target 119
+    source 140
+    target 99
     rank 8
   ]
   edge
   [
-    source 171
-    target 123
+    source 140
+    target 102
     rank 10
   ]
   edge
   [
-    source 171
-    target 156
+    source 140
+    target 128
     rank 12
   ]
   edge
   [
-    source 171
-    target 121
+    source 140
+    target 100
     rank 13
   ]
   edge
   [
-    source 171
-    target 118
+    source 140
+    target 98
     rank 17
   ]
   edge
   [
-    source 171
-    target 184
+    source 140
+    target 151
     rank 18
   ]
   edge
   [
-    source 171
-    target 185
+    source 140
+    target 152
     rank 20
   ]
   edge
   [
-    source 172
-    target 203
+    source 141
+    target 166
     rank 2
   ]
   edge
   [
-    source 172
+    source 141
     target 15
     rank 4
   ]
   edge
   [
-    source 172
+    source 141
     target 18
     rank 10
   ]
   edge
   [
-    source 172
-    target 47
+    source 141
+    target 43
     rank 16
   ]
   edge
   [
-    source 172
-    target 233
+    source 141
+    target 189
     rank 17
   ]
   edge
   [
-    source 173
-    target 35
+    source 142
+    target 34
     rank 2
   ]
   edge
   [
-    source 173
-    target 51
+    source 142
+    target 47
     rank 3
   ]
   edge
   [
-    source 173
-    target 45
+    source 142
+    target 41
     rank 4
   ]
   edge
   [
-    source 173
-    target 228
+    source 142
+    target 185
     rank 5
   ]
   edge
   [
-    source 173
+    source 142
     target 23
     rank 6
   ]
   edge
   [
-    source 173
+    source 142
     target 2
     rank 7
   ]
   edge
   [
-    source 173
-    target 80
+    source 142
+    target 66
     rank 10
   ]
   edge
   [
-    source 173
+    source 142
     target 5
     rank 14
   ]
   edge
   [
-    source 174
+    source 143
     target 14
     rank 1
   ]
   edge
   [
-    source 174
-    target 118
+    source 143
+    target 98
     rank 2
   ]
   edge
   [
-    source 174
-    target 242
+    source 143
+    target 198
     rank 8
   ]
   edge
   [
-    source 174
+    source 143
     target 19
     rank 20
   ]
   edge
   [
-    source 175
+    source 144
     target 25
     rank 8
   ]
   edge
   [
-    source 175
+    source 144
     target 3
     rank 16
   ]
   edge
   [
-    source 176
-    target 92
+    source 145
+    target 75
     rank 1
   ]
   edge
   [
-    source 176
-    target 36
+    source 145
+    target 35
     rank 3
   ]
   edge
   [
-    source 176
-    target 58
+    source 145
+    target 53
     rank 4
   ]
   edge
   [
-    source 176
-    target 47
+    source 145
+    target 43
     rank 6
   ]
   edge
   [
-    source 176
-    target 101
+    source 145
+    target 83
     rank 8
   ]
   edge
   [
-    source 176
+    source 145
     target 25
     rank 14
   ]
   edge
   [
-    source 176
-    target 44
+    source 145
+    target 40
     rank 18
   ]
   edge
   [
-    source 178
-    target 118
+    source 146
+    target 98
     rank 2
   ]
   edge
   [
-    source 178
+    source 146
     target 10
     rank 10
   ]
   edge
   [
-    source 178
-    target 119
+    source 146
+    target 99
     rank 11
   ]
   edge
   [
-    source 178
-    target 171
+    source 146
+    target 140
     rank 14
   ]
   edge
   [
-    source 178
-    target 242
+    source 146
+    target 198
     rank 16
   ]
   edge
   [
-    source 178
-    target 185
+    source 146
+    target 152
     rank 19
   ]
   edge
   [
-    source 179
-    target 391
+    source 147
+    target 304
     rank 2
   ]
   edge
   [
-    source 179
+    source 147
     target 24
     rank 6
   ]
   edge
   [
-    source 180
-    target 36
+    source 148
+    target 35
     rank 4
   ]
   edge
   [
-    source 180
-    target 157
+    source 148
+    target 129
     rank 10
   ]
   edge
   [
-    source 180
-    target 69
+    source 148
+    target 59
     rank 16
   ]
   edge
   [
-    source 182
+    source 149
     target 16
     rank 11
   ]
   edge
   [
-    source 182
+    source 149
     target 8
     rank 17
   ]
   edge
   [
-    source 183
-    target 35
+    source 150
+    target 34
     rank 1
   ]
   edge
   [
-    source 183
+    source 150
     target 5
     rank 3
   ]
   edge
   [
-    source 183
-    target 39
+    source 150
+    target 37
     rank 8
   ]
   edge
   [
-    source 183
+    source 150
     target 3
     rank 9
   ]
   edge
   [
-    source 183
+    source 150
     target 26
     rank 10
   ]
   edge
   [
-    source 183
-    target 175
+    source 150
+    target 144
     rank 13
   ]
   edge
   [
-    source 183
+    source 150
     target 2
     rank 17
   ]
   edge
   [
-    source 184
-    target 171
+    source 151
+    target 140
     rank 4
   ]
   edge
   [
-    source 184
-    target 185
+    source 151
+    target 152
     rank 9
   ]
   edge
   [
-    source 184
-    target 143
+    source 151
+    target 117
     rank 11
   ]
   edge
   [
-    source 184
-    target 105
+    source 151
+    target 87
     rank 17
   ]
   edge
   [
-    source 184
-    target 128
+    source 151
+    target 106
     rank 20
   ]
   edge
   [
-    source 185
-    target 178
+    source 152
+    target 146
     rank 1
   ]
   edge
   [
-    source 185
-    target 171
+    source 152
+    target 140
     rank 5
   ]
   edge
   [
-    source 185
-    target 143
+    source 152
+    target 117
     rank 7
   ]
   edge
   [
-    source 185
-    target 184
+    source 152
+    target 151
     rank 9
   ]
   edge
   [
-    source 185
+    source 152
     target 17
     rank 13
   ]
   edge
   [
-    source 185
-    target 119
+    source 152
+    target 99
     rank 20
   ]
   edge
   [
-    source 186
-    target 423
+    source 153
+    target 327
     rank 19
   ]
   edge
   [
-    source 187
-    target 235
+    source 154
+    target 191
     rank 4
   ]
   edge
   [
-    source 187
-    target 274
+    source 154
+    target 221
     rank 5
   ]
   edge
   [
-    source 187
-    target 302
+    source 154
+    target 243
     rank 6
   ]
   edge
   [
-    source 187
-    target 272
+    source 154
+    target 220
     rank 8
   ]
   edge
   [
-    source 187
-    target 397
+    source 154
+    target 309
     rank 12
   ]
   edge
   [
-    source 190
-    target 156
+    source 156
+    target 128
     rank 2
   ]
   edge
   [
-    source 190
-    target 119
+    source 156
+    target 99
     rank 3
   ]
   edge
   [
-    source 190
-    target 123
+    source 156
+    target 102
     rank 14
   ]
   edge
   [
-    source 191
+    source 157
     target 15
     rank 4
   ]
   edge
   [
-    source 192
-    target 65
+    source 158
+    target 57
     rank 5
   ]
   edge
   [
-    source 192
-    target 32
+    source 158
+    target 31
     rank 6
   ]
   edge
   [
-    source 192
-    target 228
+    source 158
+    target 185
     rank 15
   ]
   edge
   [
-    source 194
+    source 159
     target 9
     rank 1
   ]
   edge
   [
-    source 194
+    source 159
     target 11
     rank 7
   ]
   edge
   [
-    source 194
-    target 28
+    source 159
+    target 27
     rank 18
   ]
   edge
   [
-    source 194
+    source 159
     target 5
     rank 19
   ]
   edge
   [
-    source 195
-    target 110
+    source 160
+    target 91
     rank 4
   ]
   edge
   [
-    source 195
-    target 147
+    source 160
+    target 120
     rank 13
   ]
   edge
   [
-    source 196
-    target 92
+    source 161
+    target 75
     rank 1
   ]
   edge
   [
-    source 196
-    target 101
+    source 161
+    target 83
     rank 2
   ]
   edge
   [
-    source 196
-    target 176
+    source 161
+    target 145
     rank 4
   ]
   edge
   [
-    source 196
-    target 58
+    source 161
+    target 53
     rank 6
   ]
   edge
   [
-    source 196
-    target 115
+    source 161
+    target 96
     rank 7
   ]
   edge
   [
-    source 196
-    target 44
+    source 161
+    target 40
     rank 8
   ]
   edge
   [
-    source 196
-    target 47
+    source 161
+    target 43
     rank 11
   ]
   edge
   [
-    source 196
-    target 53
+    source 161
+    target 48
     rank 13
   ]
   edge
   [
-    source 196
-    target 266
+    source 161
+    target 215
     rank 14
   ]
   edge
   [
-    source 198
-    target 118
+    source 162
+    target 98
     rank 1
   ]
   edge
   [
-    source 198
-    target 166
+    source 162
+    target 135
     rank 3
   ]
   edge
   [
-    source 198
+    source 162
     target 18
     rank 4
   ]
   edge
   [
-    source 198
-    target 45
+    source 162
+    target 41
     rank 6
   ]
   edge
   [
-    source 198
-    target 86
+    source 162
+    target 71
     rank 7
   ]
   edge
   [
-    source 198
-    target 94
+    source 162
+    target 77
     rank 8
   ]
   edge
   [
-    source 198
-    target 261
+    source 162
+    target 212
     rank 10
   ]
   edge
   [
-    source 198
-    target 29
+    source 162
+    target 28
     rank 14
   ]
   edge
   [
-    source 198
-    target 78
+    source 162
+    target 65
     rank 16
   ]
   edge
   [
-    source 200
-    target 287
+    source 163
+    target 231
     rank 1
   ]
   edge
   [
-    source 200
-    target 272
+    source 163
+    target 220
     rank 6
   ]
   edge
   [
-    source 200
-    target 235
+    source 163
+    target 191
     rank 10
   ]
   edge
   [
-    source 200
-    target 487
+    source 163
+    target 362
     rank 15
   ]
   edge
   [
-    source 200
-    target 498
+    source 163
+    target 367
     rank 20
   ]
   edge
   [
-    source 201
-    target 355
+    source 164
+    target 276
     rank 12
   ]
   edge
   [
-    source 202
-    target 255
+    source 165
+    target 208
     rank 1
   ]
   edge
   [
-    source 202
-    target 284
+    source 165
+    target 229
     rank 3
   ]
   edge
   [
-    source 202
-    target 28
+    source 165
+    target 27
     rank 4
   ]
   edge
   [
-    source 202
+    source 165
     target 2
     rank 7
   ]
   edge
   [
-    source 203
-    target 233
+    source 166
+    target 189
     rank 4
   ]
   edge
   [
-    source 203
-    target 138
+    source 166
+    target 113
     rank 17
   ]
   edge
   [
-    source 204
-    target 84
+    source 167
+    target 70
     rank 5
   ]
   edge
   [
-    source 204
-    target 184
+    source 167
+    target 151
     rank 6
   ]
   edge
   [
-    source 204
-    target 87
+    source 167
+    target 72
     rank 7
   ]
   edge
   [
-    source 204
-    target 94
+    source 167
+    target 77
     rank 11
   ]
   edge
   [
-    source 204
-    target 123
+    source 167
+    target 102
     rank 16
   ]
   edge
   [
-    source 205
-    target 36
+    source 168
+    target 35
     rank 18
   ]
   edge
   [
-    source 207
-    target 318
+    source 169
+    target 251
     rank 2
   ]
   edge
   [
-    source 207
-    target 304
+    source 169
+    target 244
     rank 17
   ]
   edge
   [
-    source 207
-    target 127
+    source 169
+    target 105
     rank 18
   ]
   edge
   [
-    source 207
-    target 43
+    source 169
+    target 39
     rank 20
   ]
   edge
   [
-    source 208
-    target 287
+    source 170
+    target 231
     rank 3
   ]
   edge
   [
-    source 208
-    target 235
+    source 170
+    target 191
     rank 5
   ]
   edge
   [
-    source 208
-    target 338
+    source 170
+    target 266
     rank 7
   ]
   edge
   [
-    source 208
-    target 498
+    source 170
+    target 367
     rank 12
   ]
   edge
   [
-    source 208
-    target 487
+    source 170
+    target 362
     rank 17
   ]
   edge
   [
-    source 209
-    target 156
+    source 171
+    target 128
     rank 1
   ]
   edge
   [
-    source 209
-    target 84
+    source 171
+    target 70
     rank 2
   ]
   edge
   [
-    source 209
-    target 87
+    source 171
+    target 72
     rank 8
   ]
   edge
   [
-    source 209
-    target 123
+    source 171
+    target 102
     rank 9
   ]
   edge
   [
-    source 209
-    target 83
+    source 171
+    target 69
     rank 10
   ]
   edge
   [
-    source 209
-    target 212
+    source 171
+    target 173
     rank 12
   ]
   edge
   [
-    source 209
-    target 119
+    source 171
+    target 99
     rank 19
   ]
   edge
   [
-    source 210
-    target 76
+    source 172
+    target 63
     rank 7
   ]
   edge
   [
-    source 210
+    source 172
     target 16
     rank 14
   ]
   edge
   [
-    source 212
-    target 156
+    source 173
+    target 128
     rank 1
   ]
   edge
   [
-    source 212
-    target 209
+    source 173
+    target 171
     rank 2
   ]
   edge
   [
-    source 212
-    target 84
+    source 173
+    target 70
     rank 3
   ]
   edge
   [
-    source 212
-    target 171
+    source 173
+    target 140
     rank 5
   ]
   edge
   [
-    source 212
-    target 148
+    source 173
+    target 121
     rank 7
   ]
   edge
   [
-    source 212
-    target 143
+    source 173
+    target 117
     rank 8
   ]
   edge
   [
-    source 212
-    target 123
+    source 173
+    target 102
     rank 10
   ]
   edge
   [
-    source 212
-    target 93
+    source 173
+    target 76
     rank 14
   ]
   edge
   [
-    source 212
-    target 87
+    source 173
+    target 72
     rank 15
   ]
   edge
   [
-    source 212
-    target 119
+    source 173
+    target 99
     rank 16
   ]
   edge
   [
-    source 214
-    target 32
+    source 175
+    target 31
     rank 10
   ]
   edge
   [
-    source 216
-    target 68
+    source 176
+    target 58
     rank 1
   ]
   edge
   [
-    source 216
-    target 58
+    source 176
+    target 53
     rank 2
   ]
   edge
   [
-    source 216
-    target 172
+    source 176
+    target 141
     rank 4
   ]
   edge
   [
-    source 216
-    target 53
+    source 176
+    target 48
     rank 6
   ]
   edge
   [
-    source 216
+    source 176
     target 2
     rank 8
   ]
   edge
   [
-    source 217
-    target 118
+    source 177
+    target 98
     rank 1
   ]
   edge
   [
-    source 217
+    source 177
     target 14
     rank 2
   ]
   edge
   [
-    source 217
+    source 177
     target 19
     rank 6
   ]
   edge
   [
-    source 217
-    target 28
+    source 177
+    target 27
     rank 12
   ]
   edge
   [
-    source 218
-    target 91
+    source 178
+    target 74
     rank 2
   ]
   edge
   [
-    source 218
-    target 48
+    source 178
+    target 44
     rank 3
   ]
   edge
   [
-    source 218
+    source 178
     target 5
     rank 4
   ]
   edge
   [
-    source 218
+    source 178
     target 20
     rank 6
   ]
   edge
   [
-    source 218
-    target 45
+    source 178
+    target 41
     rank 8
   ]
   edge
   [
-    source 218
-    target 228
+    source 178
+    target 185
     rank 10
   ]
   edge
   [
-    source 218
+    source 178
     target 9
     rank 15
   ]
   edge
   [
-    source 218
-    target 80
+    source 178
+    target 66
     rank 19
   ]
   edge
   [
-    source 218
-    target 168
+    source 178
+    target 137
     rank 20
   ]
   edge
   [
-    source 219
-    target 331
+    source 179
+    target 260
     rank 1
   ]
   edge
   [
-    source 219
-    target 28
+    source 179
+    target 27
     rank 2
   ]
   edge
   [
-    source 219
+    source 179
     target 16
     rank 3
   ]
   edge
   [
-    source 219
-    target 118
+    source 179
+    target 98
     rank 4
   ]
   edge
   [
-    source 219
-    target 196
+    source 179
+    target 161
     rank 5
   ]
   edge
   [
-    source 219
-    target 122
+    source 179
+    target 101
     rank 7
   ]
   edge
   [
-    source 219
+    source 179
     target 10
     rank 9
   ]
   edge
   [
-    source 219
-    target 76
+    source 179
+    target 63
     rank 10
   ]
   edge
   [
-    source 219
+    source 179
     target 14
     rank 12
   ]
   edge
   [
-    source 219
-    target 84
+    source 179
+    target 70
     rank 13
   ]
   edge
   [
-    source 219
-    target 184
+    source 179
+    target 151
     rank 15
   ]
   edge
   [
-    source 219
+    source 179
     target 5
     rank 17
   ]
   edge
   [
-    source 220
-    target 30
+    source 180
+    target 29
     rank 2
   ]
   edge
   [
-    source 220
-    target 48
+    source 180
+    target 44
     rank 4
   ]
   edge
   [
-    source 220
-    target 60
+    source 180
+    target 54
     rank 7
   ]
   edge
   [
-    source 220
-    target 91
+    source 180
+    target 74
     rank 12
   ]
   edge
   [
-    source 220
-    target 74
+    source 180
+    target 62
     rank 14
   ]
   edge
   [
-    source 220
-    target 80
+    source 180
+    target 66
     rank 16
   ]
   edge
   [
-    source 220
-    target 228
+    source 180
+    target 185
     rank 20
   ]
   edge
   [
-    source 223
-    target 60
+    source 181
+    target 54
     rank 1
   ]
   edge
   [
-    source 224
-    target 160
+    source 182
+    target 131
     rank 4
   ]
   edge
   [
-    source 224
-    target 76
+    source 182
+    target 63
     rank 6
   ]
   edge
   [
-    source 224
-    target 94
+    source 182
+    target 77
     rank 8
   ]
   edge
   [
-    source 224
-    target 237
+    source 182
+    target 193
     rank 20
   ]
   edge
   [
-    source 225
+    source 183
     target 14
     rank 11
   ]
   edge
   [
-    source 225
+    source 183
     target 16
     rank 14
   ]
   edge
   [
-    source 225
-    target 367
+    source 183
+    target 286
     rank 15
   ]
   edge
   [
-    source 226
-    target 36
+    source 184
+    target 35
     rank 16
   ]
   edge
   [
-    source 226
-    target 68
+    source 184
+    target 58
     rank 18
   ]
   edge
   [
-    source 226
-    target 47
+    source 184
+    target 43
     rank 19
   ]
   edge
   [
-    source 226
-    target 92
+    source 184
+    target 75
     rank 20
   ]
   edge
   [
-    source 228
+    source 185
     target 18
     rank 2
   ]
   edge
   [
-    source 228
-    target 132
+    source 185
+    target 109
     rank 3
   ]
   edge
   [
-    source 228
+    source 185
     target 25
     rank 4
   ]
   edge
   [
-    source 228
-    target 30
+    source 185
+    target 29
     rank 5
   ]
   edge
   [
-    source 228
-    target 32
+    source 185
+    target 31
     rank 6
   ]
   edge
   [
-    source 228
+    source 185
     target 3
     rank 7
   ]
   edge
   [
-    source 228
+    source 185
     target 5
     rank 8
   ]
   edge
   [
-    source 228
-    target 269
+    source 185
+    target 218
     rank 14
   ]
   edge
   [
-    source 228
-    target 80
+    source 185
+    target 66
     rank 15
   ]
   edge
   [
-    source 228
-    target 169
+    source 185
+    target 138
     rank 20
   ]
   edge
   [
-    source 230
+    source 186
     target 24
     rank 1
   ]
   edge
   [
-    source 230
+    source 186
     target 8
     rank 4
   ]
   edge
   [
-    source 230
-    target 29
+    source 186
+    target 28
     rank 9
   ]
   edge
   [
-    source 231
+    source 187
     target 4
     rank 19
   ]
   edge
   [
-    source 232
-    target 58
+    source 188
+    target 53
     rank 1
   ]
   edge
   [
-    source 232
-    target 118
+    source 188
+    target 98
     rank 2
   ]
   edge
   [
-    source 232
-    target 56
+    source 188
+    target 51
     rank 17
   ]
   edge
   [
-    source 233
-    target 138
+    source 189
+    target 113
     rank 1
   ]
   edge
   [
-    source 233
-    target 203
+    source 189
+    target 166
     rank 2
   ]
   edge
   [
-    source 233
-    target 108
+    source 189
+    target 89
     rank 10
   ]
   edge
   [
-    source 234
-    target 387
+    source 190
+    target 301
     rank 5
   ]
   edge
   [
-    source 234
-    target 369
+    source 190
+    target 288
     rank 6
   ]
   edge
   [
-    source 235
-    target 287
+    source 191
+    target 231
     rank 1
   ]
   edge
   [
-    source 235
-    target 487
+    source 191
+    target 362
     rank 3
   ]
   edge
   [
-    source 235
-    target 338
+    source 191
+    target 266
     rank 7
   ]
   edge
   [
-    source 235
-    target 498
+    source 191
+    target 367
     rank 15
   ]
   edge
   [
-    source 235
-    target 208
+    source 191
+    target 170
     rank 17
   ]
   edge
   [
-    source 236
+    source 192
     target 8
     rank 3
   ]
   edge
   [
-    source 237
-    target 160
+    source 193
+    target 131
     rank 1
   ]
   edge
   [
-    source 237
-    target 56
+    source 193
+    target 51
     rank 12
   ]
   edge
   [
-    source 237
-    target 224
+    source 193
+    target 182
     rank 13
   ]
   edge
   [
-    source 238
-    target 56
+    source 194
+    target 51
     rank 1
   ]
   edge
   [
-    source 238
+    source 194
     target 19
     rank 3
   ]
   edge
   [
-    source 238
+    source 194
     target 17
     rank 8
   ]
   edge
   [
-    source 238
-    target 93
+    source 194
+    target 76
     rank 10
   ]
   edge
   [
-    source 238
-    target 119
+    source 194
+    target 99
     rank 15
   ]
   edge
   [
-    source 239
-    target 498
+    source 195
+    target 367
     rank 6
   ]
   edge
   [
-    source 240
-    target 91
+    source 196
+    target 74
     rank 3
   ]
   edge
   [
-    source 240
-    target 60
+    source 196
+    target 54
     rank 4
   ]
   edge
   [
-    source 240
-    target 74
+    source 196
+    target 62
     rank 8
   ]
   edge
   [
-    source 240
-    target 132
+    source 196
+    target 109
     rank 10
   ]
   edge
   [
-    source 241
-    target 76
+    source 197
+    target 63
     rank 1
   ]
   edge
   [
-    source 241
-    target 56
+    source 197
+    target 51
     rank 15
   ]
   edge
   [
-    source 241
+    source 197
     target 7
     rank 16
   ]
   edge
   [
-    source 242
-    target 118
+    source 198
+    target 98
     rank 3
   ]
   edge
   [
-    source 242
+    source 198
     target 14
     rank 8
   ]
   edge
   [
-    source 242
+    source 198
     target 16
     rank 14
   ]
   edge
   [
-    source 242
+    source 198
     target 17
     rank 17
   ]
   edge
   [
-    source 242
+    source 198
     target 19
     rank 18
   ]
   edge
   [
-    source 242
-    target 94
+    source 198
+    target 77
     rank 19
   ]
   edge
   [
-    source 245
+    source 199
     target 18
     rank 1
   ]
   edge
   [
-    source 245
-    target 48
+    source 199
+    target 44
     rank 4
   ]
   edge
   [
-    source 245
-    target 45
+    source 199
+    target 41
     rank 5
   ]
   edge
   [
-    source 245
+    source 199
     target 13
     rank 7
   ]
   edge
   [
-    source 245
+    source 199
+    target 28
+    rank 11
+  ]
+  edge
+  [
+    source 199
+    target 23
+    rank 14
+  ]
+  edge
+  [
+    source 199
+    target 120
+    rank 15
+  ]
+  edge
+  [
+    source 199
     target 29
-    rank 11
-  ]
-  edge
-  [
-    source 245
-    target 23
-    rank 14
-  ]
-  edge
-  [
-    source 245
-    target 147
-    rank 15
-  ]
-  edge
-  [
-    source 245
-    target 30
     rank 19
   ]
   edge
   [
-    source 245
-    target 78
+    source 199
+    target 65
     rank 20
   ]
   edge
   [
-    source 246
-    target 62
+    source 200
+    target 56
     rank 12
   ]
   edge
   [
-    source 247
-    target 97
+    source 201
+    target 80
     rank 1
   ]
   edge
   [
-    source 247
-    target 165
+    source 201
+    target 134
     rank 5
   ]
   edge
   [
-    source 249
-    target 252
+    source 202
+    target 205
     rank 3
   ]
   edge
   [
-    source 249
-    target 384
+    source 202
+    target 298
     rank 4
   ]
   edge
   [
-    source 249
-    target 368
+    source 202
+    target 287
     rank 7
   ]
   edge
   [
-    source 249
-    target 497
+    source 202
+    target 366
     rank 9
   ]
   edge
   [
-    source 249
-    target 423
+    source 202
+    target 327
     rank 11
   ]
   edge
   [
-    source 249
-    target 494
+    source 202
+    target 364
     rank 12
   ]
   edge
   [
-    source 250
-    target 320
+    source 203
+    target 252
     rank 1
   ]
   edge
   [
-    source 251
-    target 302
+    source 204
+    target 243
     rank 6
   ]
   edge
   [
-    source 251
-    target 275
+    source 204
+    target 222
     rank 8
   ]
   edge
   [
-    source 251
-    target 274
+    source 204
+    target 221
     rank 12
   ]
   edge
   [
-    source 251
-    target 312
+    source 204
+    target 248
     rank 13
   ]
   edge
   [
-    source 251
-    target 342
+    source 204
+    target 269
     rank 19
   ]
   edge
   [
-    source 252
-    target 368
+    source 205
+    target 287
     rank 4
   ]
   edge
   [
-    source 252
-    target 384
+    source 205
+    target 298
     rank 5
   ]
   edge
   [
-    source 252
-    target 494
+    source 205
+    target 364
     rank 7
   ]
   edge
   [
-    source 252
-    target 249
+    source 205
+    target 202
     rank 8
   ]
   edge
   [
-    source 252
-    target 497
+    source 205
+    target 366
     rank 10
   ]
   edge
   [
-    source 253
-    target 157
+    source 206
+    target 129
     rank 13
   ]
   edge
   [
-    source 254
+    source 207
     target 17
     rank 10
   ]
   edge
   [
-    source 255
-    target 202
+    source 208
+    target 165
     rank 1
   ]
   edge
   [
-    source 255
-    target 284
+    source 208
+    target 229
     rank 12
   ]
   edge
   [
-    source 255
-    target 330
+    source 208
+    target 259
     rank 15
   ]
   edge
   [
-    source 257
+    source 209
     target 7
     rank 8
   ]
   edge
   [
-    source 257
-    target 118
+    source 209
+    target 98
     rank 9
   ]
   edge
   [
-    source 257
+    source 209
     target 16
     rank 17
   ]
   edge
   [
-    source 258
+    source 210
     target 10
     rank 1
   ]
   edge
   [
-    source 258
-    target 335
+    source 210
+    target 263
     rank 13
   ]
   edge
   [
-    source 258
+    source 210
     target 14
     rank 14
   ]
   edge
   [
-    source 258
+    source 210
     target 2
     rank 16
   ]
   edge
   [
-    source 259
-    target 429
+    source 211
+    target 333
     rank 3
   ]
   edge
   [
-    source 259
-    target 397
+    source 211
+    target 309
     rank 10
   ]
   edge
   [
-    source 259
-    target 272
+    source 211
+    target 220
     rank 12
   ]
   edge
   [
-    source 259
-    target 302
+    source 211
+    target 243
     rank 13
   ]
   edge
   [
-    source 259
-    target 274
+    source 211
+    target 221
     rank 20
   ]
   edge
   [
-    source 261
-    target 267
+    source 212
+    target 216
     rank 9
   ]
   edge
   [
-    source 261
-    target 369
+    source 212
+    target 288
     rank 17
   ]
   edge
   [
-    source 263
+    source 213
     target 14
     rank 5
   ]
   edge
   [
-    source 263
-    target 60
+    source 213
+    target 54
     rank 7
   ]
   edge
   [
-    source 263
-    target 154
+    source 213
+    target 127
     rank 8
   ]
   edge
   [
-    source 264
-    target 97
+    source 214
+    target 80
     rank 11
   ]
   edge
   [
-    source 267
-    target 403
+    source 216
+    target 314
     rank 2
   ]
   edge
   [
-    source 267
-    target 327
+    source 216
+    target 257
     rank 3
   ]
   edge
   [
-    source 267
-    target 387
+    source 216
+    target 301
     rank 8
   ]
   edge
   [
-    source 267
-    target 28
+    source 216
+    target 27
     rank 9
   ]
   edge
   [
-    source 267
-    target 276
+    source 216
+    target 223
     rank 10
   ]
   edge
   [
-    source 267
-    target 261
+    source 216
+    target 212
     rank 12
   ]
   edge
   [
-    source 267
-    target 369
+    source 216
+    target 288
     rank 18
   ]
   edge
   [
-    source 267
-    target 43
+    source 216
+    target 39
     rank 19
   ]
   edge
   [
-    source 268
+    source 217
     target 17
     rank 14
   ]
   edge
   [
-    source 269
+    source 218
     target 18
     rank 1
   ]
   edge
   [
-    source 269
-    target 147
+    source 218
+    target 120
     rank 2
   ]
   edge
   [
-    source 269
-    target 32
+    source 218
+    target 31
     rank 4
   ]
   edge
   [
-    source 269
-    target 48
+    source 218
+    target 44
     rank 7
   ]
   edge
   [
-    source 269
-    target 228
+    source 218
+    target 185
     rank 13
   ]
   edge
   [
-    source 269
-    target 151
+    source 218
+    target 124
     rank 14
   ]
   edge
   [
-    source 269
-    target 183
+    source 218
+    target 150
     rank 18
   ]
   edge
   [
-    source 270
-    target 127
+    source 219
+    target 105
     rank 15
   ]
   edge
   [
-    source 272
-    target 487
-    rank 2
-  ]
-  edge
-  [
-    source 272
-    target 287
-    rank 3
-  ]
-  edge
-  [
-    source 272
-    target 235
-    rank 4
-  ]
-  edge
-  [
-    source 272
-    target 259
-    rank 11
-  ]
-  edge
-  [
-    source 272
-    target 342
-    rank 13
-  ]
-  edge
-  [
-    source 272
-    target 429
-    rank 14
-  ]
-  edge
-  [
-    source 272
-    target 312
-    rank 15
-  ]
-  edge
-  [
-    source 272
-    target 326
-    rank 16
-  ]
-  edge
-  [
-    source 272
-    target 498
-    rank 17
-  ]
-  edge
-  [
-    source 272
-    target 302
-    rank 18
-  ]
-  edge
-  [
-    source 274
-    target 287
-    rank 1
-  ]
-  edge
-  [
-    source 274
-    target 454
-    rank 5
-  ]
-  edge
-  [
-    source 274
-    target 487
-    rank 7
-  ]
-  edge
-  [
-    source 274
-    target 200
-    rank 9
-  ]
-  edge
-  [
-    source 274
-    target 259
-    rank 10
-  ]
-  edge
-  [
-    source 274
-    target 429
-    rank 12
-  ]
-  edge
-  [
-    source 274
-    target 235
-    rank 13
-  ]
-  edge
-  [
-    source 274
-    target 342
-    rank 15
-  ]
-  edge
-  [
-    source 274
-    target 312
-    rank 20
-  ]
-  edge
-  [
-    source 275
-    target 251
-    rank 1
-  ]
-  edge
-  [
-    source 275
-    target 504
-    rank 8
-  ]
-  edge
-  [
-    source 275
-    target 454
-    rank 11
-  ]
-  edge
-  [
-    source 275
-    target 377
-    rank 15
-  ]
-  edge
-  [
-    source 276
-    target 327
-    rank 1
-  ]
-  edge
-  [
-    source 276
-    target 369
-    rank 5
-  ]
-  edge
-  [
-    source 276
-    target 267
-    rank 6
-  ]
-  edge
-  [
-    source 276
-    target 94
-    rank 11
-  ]
-  edge
-  [
-    source 276
-    target 403
-    rank 15
-  ]
-  edge
-  [
-    source 277
-    target 118
-    rank 3
-  ]
-  edge
-  [
-    source 277
-    target 213
-    rank 7
-  ]
-  edge
-  [
-    source 277
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 277
-    target 56
-    rank 20
-  ]
-  edge
-  [
-    source 278
-    target 14
-    rank 1
-  ]
-  edge
-  [
-    source 278
-    target 19
-    rank 2
-  ]
-  edge
-  [
-    source 281
-    target 438
-    rank 4
-  ]
-  edge
-  [
-    source 281
-    target 457
-    rank 8
-  ]
-  edge
-  [
-    source 281
-    target 514
-    rank 9
-  ]
-  edge
-  [
-    source 282
-    target 377
-    rank 6
-  ]
-  edge
-  [
-    source 282
-    target 504
-    rank 7
-  ]
-  edge
-  [
-    source 282
-    target 454
-    rank 11
-  ]
-  edge
-  [
-    source 283
-    target 35
-    rank 3
-  ]
-  edge
-  [
-    source 283
-    target 342
-    rank 9
-  ]
-  edge
-  [
-    source 283
-    target 122
-    rank 10
-  ]
-  edge
-  [
-    source 284
-    target 202
-    rank 7
-  ]
-  edge
-  [
-    source 284
-    target 330
-    rank 12
-  ]
-  edge
-  [
-    source 284
-    target 140
-    rank 16
-  ]
-  edge
-  [
-    source 284
-    target 255
-    rank 18
-  ]
-  edge
-  [
-    source 285
-    target 118
-    rank 3
-  ]
-  edge
-  [
-    source 285
-    target 7
-    rank 13
-  ]
-  edge
-  [
-    source 287
-    target 235
-    rank 1
-  ]
-  edge
-  [
-    source 287
-    target 498
-    rank 5
-  ]
-  edge
-  [
-    source 287
-    target 487
-    rank 6
-  ]
-  edge
-  [
-    source 287
-    target 338
-    rank 14
-  ]
-  edge
-  [
-    source 288
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 288
-    target 118
-    rank 9
-  ]
-  edge
-  [
-    source 288
-    target 154
-    rank 17
-  ]
-  edge
-  [
-    source 290
-    target 333
-    rank 1
-  ]
-  edge
-  [
-    source 290
-    target 315
-    rank 6
-  ]
-  edge
-  [
-    source 290
-    target 478
-    rank 7
-  ]
-  edge
-  [
-    source 290
-    target 441
-    rank 16
-  ]
-  edge
-  [
-    source 291
-    target 250
-    rank 7
-  ]
-  edge
-  [
-    source 291
-    target 320
-    rank 8
-  ]
-  edge
-  [
-    source 294
-    target 304
-    rank 6
-  ]
-  edge
-  [
-    source 294
-    target 242
-    rank 8
-  ]
-  edge
-  [
-    source 294
-    target 119
-    rank 12
-  ]
-  edge
-  [
-    source 295
-    target 408
-    rank 6
-  ]
-  edge
-  [
-    source 295
-    target 476
-    rank 16
-  ]
-  edge
-  [
-    source 295
-    target 498
-    rank 19
-  ]
-  edge
-  [
-    source 296
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 296
-    target 127
-    rank 15
-  ]
-  edge
-  [
-    source 296
-    target 43
-    rank 20
-  ]
-  edge
-  [
-    source 297
-    target 154
-    rank 4
-  ]
-  edge
-  [
-    source 297
-    target 17
-    rank 10
-  ]
-  edge
-  [
-    source 299
-    target 76
-    rank 3
-  ]
-  edge
-  [
-    source 299
-    target 154
-    rank 11
-  ]
-  edge
-  [
-    source 299
-    target 19
-    rank 13
-  ]
-  edge
-  [
-    source 300
-    target 423
-    rank 2
-  ]
-  edge
-  [
-    source 300
-    target 249
-    rank 11
-  ]
-  edge
-  [
-    source 300
-    target 384
-    rank 13
-  ]
-  edge
-  [
-    source 300
-    target 252
-    rank 14
-  ]
-  edge
-  [
-    source 301
-    target 390
-    rank 14
-  ]
-  edge
-  [
-    source 302
-    target 274
-    rank 9
-  ]
-  edge
-  [
-    source 304
-    target 143
-    rank 3
-  ]
-  edge
-  [
-    source 304
-    target 318
-    rank 4
-  ]
-  edge
-  [
-    source 304
-    target 76
-    rank 7
-  ]
-  edge
-  [
-    source 304
-    target 119
-    rank 11
-  ]
-  edge
-  [
-    source 304
-    target 207
-    rank 16
-  ]
-  edge
-  [
-    source 304
-    target 127
-    rank 20
-  ]
-  edge
-  [
-    source 305
-    target 281
-    rank 3
-  ]
-  edge
-  [
-    source 305
-    target 440
-    rank 18
-  ]
-  edge
-  [
-    source 309
-    target 76
-    rank 6
-  ]
-  edge
-  [
-    source 311
-    target 457
-    rank 14
-  ]
-  edge
-  [
-    source 311
-    target 438
-    rank 16
-  ]
-  edge
-  [
-    source 311
-    target 281
-    rank 18
-  ]
-  edge
-  [
-    source 311
-    target 514
-    rank 19
-  ]
-  edge
-  [
-    source 312
-    target 302
-    rank 2
-  ]
-  edge
-  [
-    source 312
-    target 388
-    rank 5
-  ]
-  edge
-  [
-    source 312
-    target 397
-    rank 10
-  ]
-  edge
-  [
-    source 312
-    target 259
-    rank 11
-  ]
-  edge
-  [
-    source 312
-    target 187
-    rank 12
-  ]
-  edge
-  [
-    source 312
-    target 350
-    rank 18
-  ]
-  edge
-  [
-    source 312
-    target 351
-    rank 19
-  ]
-  edge
-  [
-    source 314
-    target 152
-    rank 1
-  ]
-  edge
-  [
-    source 315
-    target 290
-    rank 7
-  ]
-  edge
-  [
-    source 315
-    target 333
-    rank 9
-  ]
-  edge
-  [
-    source 315
-    target 401
-    rank 10
-  ]
-  edge
-  [
-    source 318
-    target 28
-    rank 3
-  ]
-  edge
-  [
-    source 318
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 318
-    target 119
-    rank 10
-  ]
-  edge
-  [
-    source 318
-    target 304
-    rank 18
-  ]
-  edge
-  [
-    source 320
-    target 250
-    rank 6
-  ]
-  edge
-  [
-    source 320
-    target 291
-    rank 15
-  ]
-  edge
-  [
-    source 321
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 321
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 321
-    target 20
-    rank 5
-  ]
-  edge
-  [
-    source 321
-    target 87
-    rank 7
-  ]
-  edge
-  [
-    source 321
-    target 8
-    rank 8
-  ]
-  edge
-  [
-    source 321
-    target 71
-    rank 10
-  ]
-  edge
-  [
-    source 321
-    target 123
-    rank 15
-  ]
-  edge
-  [
-    source 322
-    target 401
-    rank 6
-  ]
-  edge
-  [
-    source 322
-    target 335
-    rank 8
-  ]
-  edge
-  [
-    source 322
-    target 315
-    rank 14
-  ]
-  edge
-  [
-    source 322
-    target 355
-    rank 15
-  ]
-  edge
-  [
-    source 326
-    target 235
-    rank 1
-  ]
-  edge
-  [
-    source 326
-    target 487
-    rank 4
-  ]
-  edge
-  [
-    source 326
-    target 287
-    rank 9
-  ]
-  edge
-  [
-    source 326
-    target 259
-    rank 10
-  ]
-  edge
-  [
-    source 326
-    target 397
-    rank 18
-  ]
-  edge
-  [
-    source 327
-    target 387
-    rank 2
-  ]
-  edge
-  [
-    source 327
-    target 369
-    rank 5
-  ]
-  edge
-  [
-    source 327
-    target 267
-    rank 6
-  ]
-  edge
-  [
-    source 327
-    target 403
-    rank 8
-  ]
-  edge
-  [
-    source 327
-    target 276
-    rank 12
-  ]
-  edge
-  [
-    source 327
-    target 492
-    rank 13
-  ]
-  edge
-  [
-    source 329
-    target 16
-    rank 3
-  ]
-  edge
-  [
-    source 329
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 330
-    target 255
-    rank 5
-  ]
-  edge
-  [
-    source 330
-    target 284
-    rank 9
-  ]
-  edge
-  [
-    source 330
-    target 202
-    rank 12
-  ]
-  edge
-  [
-    source 331
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 331
-    target 118
-    rank 3
-  ]
-  edge
-  [
-    source 331
-    target 16
-    rank 6
-  ]
-  edge
-  [
-    source 331
-    target 28
-    rank 7
-  ]
-  edge
-  [
-    source 331
-    target 84
-    rank 8
-  ]
-  edge
-  [
-    source 331
-    target 9
-    rank 10
-  ]
-  edge
-  [
-    source 331
-    target 76
-    rank 11
-  ]
-  edge
-  [
-    source 331
-    target 23
-    rank 14
-  ]
-  edge
-  [
-    source 331
-    target 2
-    rank 17
-  ]
-  edge
-  [
-    source 331
-    target 43
-    rank 19
-  ]
-  edge
-  [
-    source 333
-    target 322
-    rank 14
-  ]
-  edge
-  [
-    source 334
-    target 118
-    rank 1
-  ]
-  edge
-  [
-    source 334
-    target 17
-    rank 19
-  ]
-  edge
-  [
-    source 335
-    target 333
-    rank 12
-  ]
-  edge
-  [
-    source 335
-    target 322
-    rank 13
-  ]
-  edge
-  [
-    source 335
-    target 355
-    rank 18
-  ]
-  edge
-  [
-    source 336
-    target 259
-    rank 5
-  ]
-  edge
-  [
-    source 336
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 336
-    target 302
-    rank 16
-  ]
-  edge
-  [
-    source 336
-    target 326
-    rank 17
-  ]
-  edge
-  [
-    source 336
-    target 342
-    rank 19
-  ]
-  edge
-  [
-    source 337
-    target 320
-    rank 2
-  ]
-  edge
-  [
-    source 337
-    target 250
-    rank 5
-  ]
-  edge
-  [
-    source 337
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 338
-    target 287
-    rank 1
-  ]
-  edge
-  [
-    source 338
-    target 487
-    rank 2
-  ]
-  edge
-  [
-    source 338
-    target 235
-    rank 6
-  ]
-  edge
-  [
-    source 338
-    target 208
-    rank 7
-  ]
-  edge
-  [
-    source 338
-    target 274
-    rank 14
-  ]
-  edge
-  [
-    source 340
-    target 56
-    rank 2
-  ]
-  edge
-  [
-    source 340
-    target 50
-    rank 3
-  ]
-  edge
-  [
-    source 340
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 340
-    target 7
-    rank 19
-  ]
-  edge
-  [
-    source 341
-    target 261
-    rank 1
-  ]
-  edge
-  [
-    source 342
-    target 302
-    rank 3
-  ]
-  edge
-  [
-    source 342
-    target 397
-    rank 6
-  ]
-  edge
-  [
-    source 342
-    target 312
-    rank 11
-  ]
-  edge
-  [
-    source 342
-    target 454
-    rank 14
-  ]
-  edge
-  [
-    source 342
-    target 200
-    rank 16
-  ]
-  edge
-  [
-    source 342
-    target 504
-    rank 17
-  ]
-  edge
-  [
-    source 342
-    target 259
-    rank 20
-  ]
-  edge
-  [
-    source 347
-    target 250
-    rank 1
-  ]
-  edge
-  [
-    source 347
-    target 7
-    rank 5
-  ]
-  edge
-  [
-    source 347
-    target 62
-    rank 7
-  ]
-  edge
-  [
-    source 347
-    target 56
-    rank 20
-  ]
-  edge
-  [
-    source 348
-    target 368
-    rank 2
-  ]
-  edge
-  [
-    source 348
-    target 494
-    rank 6
-  ]
-  edge
-  [
-    source 348
-    target 423
-    rank 8
-  ]
-  edge
-  [
-    source 348
-    target 497
-    rank 9
-  ]
-  edge
-  [
-    source 348
-    target 501
-    rank 19
-  ]
-  edge
-  [
-    source 349
-    target 476
-    rank 6
-  ]
-  edge
-  [
-    source 349
-    target 295
-    rank 10
-  ]
-  edge
-  [
-    source 351
-    target 454
-    rank 4
-  ]
-  edge
-  [
-    source 351
-    target 259
-    rank 5
-  ]
-  edge
-  [
-    source 351
-    target 302
-    rank 8
-  ]
-  edge
-  [
-    source 351
-    target 274
-    rank 9
-  ]
-  edge
-  [
-    source 351
-    target 326
-    rank 10
-  ]
-  edge
-  [
-    source 351
-    target 251
-    rank 11
-  ]
-  edge
-  [
-    source 351
-    target 504
-    rank 12
-  ]
-  edge
-  [
-    source 351
-    target 287
-    rank 18
-  ]
-  edge
-  [
-    source 355
-    target 401
-    rank 2
-  ]
-  edge
-  [
-    source 355
-    target 290
-    rank 8
-  ]
-  edge
-  [
-    source 355
-    target 333
-    rank 13
-  ]
-  edge
-  [
-    source 355
-    target 335
-    rank 15
-  ]
-  edge
-  [
-    source 355
-    target 322
-    rank 18
-  ]
-  edge
-  [
-    source 357
-    target 320
-    rank 8
-  ]
-  edge
-  [
-    source 357
-    target 250
-    rank 13
-  ]
-  edge
-  [
-    source 358
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 358
-    target 118
-    rank 2
-  ]
-  edge
-  [
-    source 358
-    target 76
-    rank 3
-  ]
-  edge
-  [
-    source 358
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 358
-    target 56
-    rank 7
-  ]
-  edge
-  [
-    source 358
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 358
-    target 18
-    rank 13
-  ]
-  edge
-  [
-    source 358
-    target 119
-    rank 15
-  ]
-  edge
-  [
-    source 358
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 358
-    target 419
-    rank 17
-  ]
-  edge
-  [
-    source 359
-    target 504
-    rank 10
-  ]
-  edge
-  [
-    source 361
-    target 367
-    rank 10
-  ]
-  edge
-  [
-    source 361
-    target 409
-    rank 19
-  ]
-  edge
-  [
-    source 362
-    target 5
-    rank 6
-  ]
-  edge
-  [
-    source 362
-    target 487
-    rank 15
-  ]
-  edge
-  [
-    source 362
-    target 259
-    rank 19
-  ]
-  edge
-  [
-    source 363
-    target 76
-    rank 7
-  ]
-  edge
-  [
-    source 364
-    target 16
-    rank 6
-  ]
-  edge
-  [
-    source 364
-    target 43
-    rank 13
-  ]
-  edge
-  [
-    source 364
-    target 118
-    rank 14
-  ]
-  edge
-  [
-    source 364
-    target 94
-    rank 18
-  ]
-  edge
-  [
-    source 364
-    target 17
-    rank 19
-  ]
-  edge
-  [
-    source 365
-    target 137
-    rank 1
-  ]
-  edge
-  [
-    source 365
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 365
-    target 242
-    rank 10
-  ]
-  edge
-  [
-    source 365
-    target 19
-    rank 16
-  ]
-  edge
-  [
-    source 365
-    target 154
-    rank 19
-  ]
-  edge
-  [
-    source 366
-    target 425
-    rank 1
-  ]
-  edge
-  [
-    source 367
-    target 409
-    rank 3
-  ]
-  edge
-  [
-    source 367
-    target 23
-    rank 6
-  ]
-  edge
-  [
-    source 367
-    target 419
-    rank 12
-  ]
-  edge
-  [
-    source 367
-    target 2
-    rank 19
-  ]
-  edge
-  [
-    source 368
-    target 252
-    rank 5
-  ]
-  edge
-  [
-    source 368
-    target 384
-    rank 10
-  ]
-  edge
-  [
-    source 369
-    target 267
-    rank 4
-  ]
-  edge
-  [
-    source 369
-    target 327
-    rank 7
-  ]
-  edge
-  [
-    source 369
-    target 154
-    rank 9
-  ]
-  edge
-  [
-    source 369
-    target 403
-    rank 13
-  ]
-  edge
-  [
-    source 369
-    target 242
-    rank 14
-  ]
-  edge
-  [
-    source 370
-    target 28
-    rank 4
-  ]
-  edge
-  [
-    source 370
-    target 138
-    rank 6
-  ]
-  edge
-  [
-    source 370
-    target 26
-    rank 10
-  ]
-  edge
-  [
-    source 370
-    target 25
-    rank 12
-  ]
-  edge
-  [
-    source 373
-    target 138
-    rank 1
-  ]
-  edge
-  [
-    source 373
-    target 118
-    rank 6
-  ]
-  edge
-  [
-    source 373
-    target 233
-    rank 13
-  ]
-  edge
-  [
-    source 374
-    target 118
-    rank 3
-  ]
-  edge
-  [
-    source 374
-    target 28
-    rank 5
-  ]
-  edge
-  [
-    source 374
-    target 156
-    rank 7
-  ]
-  edge
-  [
-    source 374
-    target 19
-    rank 12
-  ]
-  edge
-  [
-    source 374
-    target 123
-    rank 15
-  ]
-  edge
-  [
-    source 376
-    target 132
-    rank 5
-  ]
-  edge
-  [
-    source 376
-    target 228
-    rank 17
-  ]
-  edge
-  [
-    source 377
-    target 350
-    rank 19
-  ]
-  edge
-  [
-    source 378
-    target 423
-    rank 9
-  ]
-  edge
-  [
-    source 378
-    target 485
-    rank 12
-  ]
-  edge
-  [
-    source 378
-    target 497
-    rank 19
-  ]
-  edge
-  [
-    source 381
-    target 454
-    rank 3
-  ]
-  edge
-  [
-    source 381
-    target 302
-    rank 5
-  ]
-  edge
-  [
-    source 381
-    target 342
-    rank 8
-  ]
-  edge
-  [
-    source 381
-    target 377
-    rank 10
-  ]
-  edge
-  [
-    source 381
-    target 504
-    rank 14
-  ]
-  edge
-  [
-    source 382
-    target 14
-    rank 1
-  ]
-  edge
-  [
-    source 382
-    target 76
-    rank 7
-  ]
-  edge
-  [
-    source 382
-    target 154
-    rank 12
-  ]
-  edge
-  [
-    source 382
-    target 7
-    rank 17
-  ]
-  edge
-  [
-    source 382
-    target 96
-    rank 18
-  ]
-  edge
-  [
-    source 382
-    target 17
-    rank 20
-  ]
-  edge
-  [
-    source 383
-    target 290
-    rank 9
-  ]
-  edge
-  [
-    source 383
-    target 322
-    rank 16
-  ]
-  edge
-  [
-    source 383
-    target 333
-    rank 17
-  ]
-  edge
-  [
-    source 384
-    target 252
-    rank 1
-  ]
-  edge
-  [
-    source 384
-    target 497
-    rank 5
-  ]
-  edge
-  [
-    source 384
-    target 368
-    rank 6
-  ]
-  edge
-  [
-    source 384
-    target 249
-    rank 7
-  ]
-  edge
-  [
-    source 384
-    target 423
-    rank 8
-  ]
-  edge
-  [
-    source 384
-    target 494
-    rank 12
-  ]
-  edge
-  [
-    source 384
-    target 485
-    rank 19
-  ]
-  edge
-  [
-    source 385
-    target 76
-    rank 9
-  ]
-  edge
-  [
-    source 386
-    target 390
-    rank 7
-  ]
-  edge
-  [
-    source 386
-    target 24
-    rank 19
-  ]
-  edge
-  [
-    source 387
-    target 492
-    rank 3
-  ]
-  edge
-  [
-    source 387
-    target 276
-    rank 6
-  ]
-  edge
-  [
-    source 387
-    target 327
-    rank 7
-  ]
-  edge
-  [
-    source 387
-    target 267
-    rank 10
-  ]
-  edge
-  [
-    source 387
-    target 242
-    rank 15
-  ]
-  edge
-  [
-    source 387
-    target 403
-    rank 18
-  ]
-  edge
-  [
-    source 388
-    target 454
-    rank 1
-  ]
-  edge
-  [
-    source 388
-    target 504
-    rank 11
-  ]
-  edge
-  [
-    source 388
-    target 397
-    rank 13
-  ]
-  edge
-  [
-    source 388
-    target 302
-    rank 16
-  ]
-  edge
-  [
-    source 390
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 390
-    target 2
-    rank 11
-  ]
-  edge
-  [
-    source 392
-    target 171
-    rank 3
-  ]
-  edge
-  [
-    source 392
-    target 87
-    rank 4
-  ]
-  edge
-  [
-    source 392
-    target 8
-    rank 6
-  ]
-  edge
-  [
-    source 392
-    target 156
-    rank 12
-  ]
-  edge
-  [
-    source 393
-    target 408
-    rank 19
-  ]
-  edge
-  [
-    source 395
-    target 56
-    rank 2
-  ]
-  edge
-  [
-    source 395
-    target 94
-    rank 3
-  ]
-  edge
-  [
-    source 395
-    target 76
-    rank 7
-  ]
-  edge
-  [
-    source 395
-    target 22
-    rank 12
-  ]
-  edge
-  [
-    source 395
-    target 17
-    rank 15
-  ]
-  edge
-  [
-    source 395
-    target 7
-    rank 20
-  ]
-  edge
-  [
-    source 396
-    target 429
-    rank 18
-  ]
-  edge
-  [
-    source 396
-    target 326
-    rank 20
-  ]
-  edge
-  [
-    source 397
-    target 274
-    rank 2
-  ]
-  edge
-  [
-    source 397
-    target 187
-    rank 4
-  ]
-  edge
-  [
-    source 397
-    target 454
-    rank 9
-  ]
-  edge
-  [
-    source 397
-    target 259
-    rank 16
-  ]
-  edge
-  [
-    source 397
-    target 429
-    rank 17
-  ]
-  edge
-  [
-    source 397
-    target 302
-    rank 19
-  ]
-  edge
-  [
-    source 398
-    target 2
-    rank 11
-  ]
-  edge
-  [
-    source 400
-    target 505
-    rank 2
-  ]
-  edge
-  [
-    source 401
-    target 335
-    rank 9
-  ]
-  edge
-  [
-    source 401
-    target 333
-    rank 12
-  ]
-  edge
-  [
-    source 401
-    target 355
-    rank 16
-  ]
-  edge
-  [
-    source 402
-    target 45
-    rank 2
-  ]
-  edge
-  [
-    source 402
-    target 165
-    rank 3
-  ]
-  edge
-  [
-    source 402
-    target 74
-    rank 8
-  ]
-  edge
-  [
-    source 402
-    target 247
-    rank 17
-  ]
-  edge
-  [
-    source 403
-    target 369
-    rank 1
-  ]
-  edge
-  [
-    source 403
-    target 242
-    rank 5
-  ]
-  edge
-  [
-    source 403
-    target 276
-    rank 6
-  ]
-  edge
-  [
-    source 403
-    target 267
-    rank 9
-  ]
-  edge
-  [
-    source 403
-    target 327
-    rank 11
-  ]
-  edge
-  [
-    source 403
-    target 387
-    rank 14
-  ]
-  edge
-  [
-    source 404
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 405
-    target 454
-    rank 11
-  ]
-  edge
-  [
-    source 405
-    target 388
-    rank 17
-  ]
-  edge
-  [
-    source 406
-    target 97
-    rank 2
-  ]
-  edge
-  [
-    source 406
-    target 264
-    rank 6
-  ]
-  edge
-  [
-    source 407
-    target 60
-    rank 2
-  ]
-  edge
-  [
-    source 408
-    target 342
-    rank 6
-  ]
-  edge
-  [
-    source 408
-    target 302
-    rank 10
-  ]
-  edge
-  [
-    source 408
-    target 508
-    rank 15
-  ]
-  edge
-  [
-    source 408
-    target 275
-    rank 18
-  ]
-  edge
-  [
-    source 409
-    target 419
-    rank 5
-  ]
-  edge
-  [
-    source 409
-    target 361
-    rank 6
-  ]
-  edge
-  [
-    source 409
-    target 13
-    rank 8
-  ]
-  edge
-  [
-    source 409
-    target 367
-    rank 10
-  ]
-  edge
-  [
-    source 409
-    target 7
-    rank 13
-  ]
-  edge
-  [
-    source 410
-    target 274
-    rank 1
-  ]
-  edge
-  [
-    source 410
-    target 287
-    rank 2
-  ]
-  edge
-  [
-    source 410
-    target 454
-    rank 3
-  ]
-  edge
-  [
-    source 410
-    target 498
-    rank 4
-  ]
-  edge
-  [
-    source 410
-    target 397
-    rank 6
-  ]
-  edge
-  [
-    source 410
-    target 208
-    rank 7
-  ]
-  edge
-  [
-    source 410
-    target 429
-    rank 8
-  ]
-  edge
-  [
-    source 410
-    target 504
-    rank 9
-  ]
-  edge
-  [
-    source 410
-    target 302
-    rank 13
-  ]
-  edge
-  [
-    source 413
-    target 502
-    rank 19
-  ]
-  edge
-  [
-    source 416
-    target 208
-    rank 6
-  ]
-  edge
-  [
-    source 416
-    target 139
-    rank 9
-  ]
-  edge
-  [
-    source 416
-    target 408
-    rank 17
-  ]
-  edge
-  [
-    source 419
-    target 409
-    rank 11
-  ]
-  edge
-  [
-    source 421
-    target 423
-    rank 1
-  ]
-  edge
-  [
-    source 421
-    target 300
-    rank 4
-  ]
-  edge
-  [
-    source 421
-    target 384
-    rank 8
-  ]
-  edge
-  [
-    source 422
-    target 365
-    rank 15
-  ]
-  edge
-  [
-    source 422
-    target 376
-    rank 16
-  ]
-  edge
-  [
-    source 423
-    target 252
-    rank 1
-  ]
-  edge
-  [
-    source 423
-    target 368
-    rank 3
-  ]
-  edge
-  [
-    source 423
-    target 348
-    rank 8
-  ]
-  edge
-  [
-    source 423
-    target 501
-    rank 15
-  ]
-  edge
-  [
-    source 423
-    target 494
-    rank 16
-  ]
-  edge
-  [
-    source 424
-    target 423
-    rank 3
-  ]
-  edge
-  [
-    source 424
-    target 252
-    rank 5
-  ]
-  edge
-  [
-    source 424
-    target 348
-    rank 10
-  ]
-  edge
-  [
-    source 424
-    target 497
-    rank 15
-  ]
-  edge
-  [
-    source 424
-    target 485
-    rank 18
-  ]
-  edge
-  [
-    source 425
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 425
-    target 25
-    rank 11
-  ]
-  edge
-  [
-    source 425
-    target 413
-    rank 19
-  ]
-  edge
-  [
-    source 426
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 427
-    target 368
-    rank 1
-  ]
-  edge
-  [
-    source 427
-    target 503
-    rank 5
-  ]
-  edge
-  [
-    source 427
-    target 423
-    rank 12
-  ]
-  edge
-  [
-    source 427
-    target 384
-    rank 14
-  ]
-  edge
-  [
-    source 427
-    target 118
-    rank 16
-  ]
-  edge
-  [
-    source 428
-    target 454
-    rank 2
-  ]
-  edge
-  [
-    source 428
-    target 274
-    rank 4
-  ]
-  edge
-  [
-    source 428
-    target 302
-    rank 5
-  ]
-  edge
-  [
-    source 428
-    target 504
-    rank 7
-  ]
-  edge
-  [
-    source 428
-    target 429
-    rank 10
-  ]
-  edge
-  [
-    source 428
-    target 397
-    rank 12
-  ]
-  edge
-  [
-    source 428
-    target 342
-    rank 20
-  ]
-  edge
-  [
-    source 429
-    target 487
-    rank 2
-  ]
-  edge
-  [
-    source 429
-    target 274
-    rank 7
-  ]
-  edge
-  [
-    source 429
-    target 235
-    rank 12
-  ]
-  edge
-  [
-    source 429
-    target 259
-    rank 17
-  ]
-  edge
-  [
-    source 432
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 432
-    target 56
-    rank 15
-  ]
-  edge
-  [
-    source 432
-    target 19
-    rank 20
-  ]
-  edge
-  [
-    source 435
-    target 368
-    rank 7
-  ]
-  edge
-  [
-    source 435
-    target 423
-    rank 8
-  ]
-  edge
-  [
-    source 435
-    target 252
-    rank 12
-  ]
-  edge
-  [
-    source 435
-    target 497
-    rank 14
-  ]
-  edge
-  [
-    source 437
-    target 342
-    rank 3
-  ]
-  edge
-  [
-    source 438
-    target 457
-    rank 7
-  ]
-  edge
-  [
-    source 438
-    target 514
-    rank 11
-  ]
-  edge
-  [
-    source 439
-    target 43
-    rank 11
-  ]
-  edge
-  [
-    source 440
-    target 438
-    rank 7
-  ]
-  edge
-  [
-    source 440
-    target 311
-    rank 11
-  ]
-  edge
-  [
-    source 441
-    target 401
-    rank 4
-  ]
-  edge
-  [
-    source 441
-    target 290
-    rank 6
-  ]
-  edge
-  [
-    source 441
-    target 333
-    rank 16
-  ]
-  edge
-  [
-    source 446
-    target 97
-    rank 3
-  ]
-  edge
-  [
-    source 446
-    target 264
-    rank 8
-  ]
-  edge
-  [
-    source 447
-    target 2
-    rank 16
-  ]
-  edge
-  [
-    source 447
-    target 16
-    rank 17
-  ]
-  edge
-  [
-    source 450
-    target 504
-    rank 1
-  ]
-  edge
-  [
-    source 450
-    target 274
-    rank 3
-  ]
-  edge
-  [
-    source 450
-    target 342
-    rank 5
-  ]
-  edge
-  [
-    source 450
-    target 287
-    rank 7
-  ]
-  edge
-  [
-    source 450
-    target 429
-    rank 11
-  ]
-  edge
-  [
-    source 450
-    target 326
-    rank 12
-  ]
-  edge
-  [
-    source 450
-    target 200
-    rank 14
-  ]
-  edge
-  [
-    source 450
-    target 275
-    rank 15
-  ]
-  edge
-  [
-    source 454
-    target 504
-    rank 6
-  ]
-  edge
-  [
-    source 454
-    target 350
-    rank 8
-  ]
-  edge
-  [
-    source 454
-    target 274
-    rank 10
-  ]
-  edge
-  [
-    source 454
-    target 251
-    rank 14
-  ]
-  edge
-  [
-    source 454
-    target 302
-    rank 15
-  ]
-  edge
-  [
-    source 454
-    target 377
-    rank 16
-  ]
-  edge
-  [
-    source 454
-    target 326
-    rank 17
-  ]
-  edge
-  [
-    source 454
-    target 388
-    rank 18
-  ]
-  edge
-  [
-    source 454
-    target 200
-    rank 19
-  ]
-  edge
-  [
-    source 454
-    target 429
-    rank 20
-  ]
-  edge
-  [
-    source 457
-    target 311
-    rank 9
-  ]
-  edge
-  [
-    source 457
-    target 438
-    rank 11
-  ]
-  edge
-  [
-    source 457
-    target 440
-    rank 19
-  ]
-  edge
-  [
-    source 458
-    target 252
-    rank 1
-  ]
-  edge
-  [
-    source 458
-    target 423
-    rank 4
-  ]
-  edge
-  [
-    source 458
-    target 368
-    rank 5
-  ]
-  edge
-  [
-    source 458
-    target 497
-    rank 7
-  ]
-  edge
-  [
-    source 458
-    target 501
-    rank 12
-  ]
-  edge
-  [
-    source 461
-    target 423
-    rank 16
-  ]
-  edge
-  [
-    source 461
-    target 252
-    rank 19
-  ]
-  edge
-  [
-    source 465
-    target 487
-    rank 1
-  ]
-  edge
-  [
-    source 465
-    target 274
-    rank 3
-  ]
-  edge
-  [
-    source 465
-    target 259
-    rank 7
-  ]
-  edge
-  [
-    source 465
-    target 397
-    rank 8
-  ]
-  edge
-  [
-    source 465
-    target 342
-    rank 11
-  ]
-  edge
-  [
-    source 465
-    target 429
-    rank 16
-  ]
-  edge
-  [
-    source 466
-    target 438
-    rank 8
-  ]
-  edge
-  [
-    source 466
-    target 311
-    rank 15
-  ]
-  edge
-  [
-    source 467
-    target 423
-    rank 2
-  ]
-  edge
-  [
-    source 467
-    target 384
-    rank 10
-  ]
-  edge
-  [
-    source 467
-    target 501
-    rank 16
-  ]
-  edge
-  [
-    source 471
-    target 386
-    rank 4
-  ]
-  edge
-  [
-    source 472
-    target 14
-    rank 1
-  ]
-  edge
-  [
-    source 472
-    target 118
-    rank 2
-  ]
-  edge
-  [
-    source 472
-    target 56
-    rank 12
-  ]
-  edge
-  [
-    source 474
-    target 429
-    rank 1
-  ]
-  edge
-  [
-    source 474
+    source 220
     target 362
     rank 2
   ]
   edge
   [
-    source 474
-    target 342
-    rank 15
+    source 220
+    target 231
+    rank 3
   ]
   edge
   [
-    source 474
-    target 397
-    rank 16
+    source 220
+    target 191
+    rank 4
   ]
   edge
   [
-    source 474
-    target 325
-    rank 17
-  ]
-  edge
-  [
-    source 475
-    target 97
+    source 220
+    target 211
     rank 11
   ]
   edge
   [
-    source 476
-    target 408
-    rank 9
+    source 220
+    target 269
+    rank 13
   ]
   edge
   [
-    source 476
-    target 345
+    source 220
+    target 333
+    rank 14
+  ]
+  edge
+  [
+    source 220
+    target 248
+    rank 15
+  ]
+  edge
+  [
+    source 220
+    target 256
+    rank 16
+  ]
+  edge
+  [
+    source 220
+    target 367
+    rank 17
+  ]
+  edge
+  [
+    source 220
+    target 243
     rank 18
   ]
   edge
   [
-    source 476
-    target 295
-    rank 20
+    source 221
+    target 231
+    rank 1
   ]
   edge
   [
-    source 478
-    target 290
+    source 221
+    target 344
     rank 5
   ]
   edge
   [
-    source 482
+    source 221
+    target 362
+    rank 7
+  ]
+  edge
+  [
+    source 221
+    target 163
+    rank 9
+  ]
+  edge
+  [
+    source 221
+    target 211
+    rank 10
+  ]
+  edge
+  [
+    source 221
+    target 333
+    rank 12
+  ]
+  edge
+  [
+    source 221
+    target 191
+    rank 13
+  ]
+  edge
+  [
+    source 221
+    target 269
+    rank 15
+  ]
+  edge
+  [
+    source 221
+    target 248
+    rank 20
+  ]
+  edge
+  [
+    source 222
+    target 204
+    rank 1
+  ]
+  edge
+  [
+    source 222
+    target 372
+    rank 8
+  ]
+  edge
+  [
+    source 222
+    target 344
+    rank 11
+  ]
+  edge
+  [
+    source 222
+    target 293
+    rank 15
+  ]
+  edge
+  [
+    source 223
+    target 257
+    rank 1
+  ]
+  edge
+  [
+    source 223
+    target 288
+    rank 5
+  ]
+  edge
+  [
+    source 223
+    target 216
+    rank 6
+  ]
+  edge
+  [
+    source 223
+    target 77
+    rank 11
+  ]
+  edge
+  [
+    source 223
+    target 314
+    rank 15
+  ]
+  edge
+  [
+    source 224
+    target 98
+    rank 3
+  ]
+  edge
+  [
+    source 224
+    target 174
+    rank 7
+  ]
+  edge
+  [
+    source 224
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 224
+    target 51
+    rank 20
+  ]
+  edge
+  [
+    source 225
     target 14
     rank 1
   ]
   edge
   [
-    source 482
-    target 71
-    rank 10
-  ]
-  edge
-  [
-    source 482
-    target 8
-    rank 20
-  ]
-  edge
-  [
-    source 483
-    target 76
-    rank 4
-  ]
-  edge
-  [
-    source 483
-    target 43
-    rank 14
-  ]
-  edge
-  [
-    source 483
-    target 94
-    rank 15
-  ]
-  edge
-  [
-    source 483
-    target 517
-    rank 19
-  ]
-  edge
-  [
-    source 484
-    target 264
-    rank 2
-  ]
-  edge
-  [
-    source 484
-    target 2
-    rank 8
-  ]
-  edge
-  [
-    source 484
-    target 97
-    rank 11
-  ]
-  edge
-  [
-    source 485
-    target 384
-    rank 1
-  ]
-  edge
-  [
-    source 485
-    target 252
-    rank 2
-  ]
-  edge
-  [
-    source 485
-    target 368
-    rank 8
-  ]
-  edge
-  [
-    source 485
-    target 497
-    rank 9
-  ]
-  edge
-  [
-    source 486
-    target 530
-    rank 2
-  ]
-  edge
-  [
-    source 486
-    target 505
-    rank 4
-  ]
-  edge
-  [
-    source 486
-    target 475
-    rank 12
-  ]
-  edge
-  [
-    source 487
-    target 287
-    rank 1
-  ]
-  edge
-  [
-    source 487
-    target 235
-    rank 2
-  ]
-  edge
-  [
-    source 487
-    target 338
-    rank 10
-  ]
-  edge
-  [
-    source 487
-    target 326
-    rank 15
-  ]
-  edge
-  [
-    source 492
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 492
-    target 403
-    rank 5
-  ]
-  edge
-  [
-    source 492
-    target 387
-    rank 7
-  ]
-  edge
-  [
-    source 492
-    target 261
-    rank 14
-  ]
-  edge
-  [
-    source 492
-    target 457
-    rank 18
-  ]
-  edge
-  [
-    source 492
-    target 276
-    rank 20
-  ]
-  edge
-  [
-    source 494
-    target 368
-    rank 5
-  ]
-  edge
-  [
-    source 494
-    target 485
-    rank 11
-  ]
-  edge
-  [
-    source 494
-    target 497
-    rank 13
-  ]
-  edge
-  [
-    source 495
-    target 118
-    rank 3
-  ]
-  edge
-  [
-    source 495
-    target 76
-    rank 5
-  ]
-  edge
-  [
-    source 495
+    source 225
     target 19
-    rank 10
+    rank 2
   ]
   edge
   [
-    source 495
-    target 56
-    rank 17
+    source 226
+    target 337
+    rank 4
   ]
   edge
   [
-    source 497
-    target 252
-    rank 1
+    source 226
+    target 345
+    rank 8
   ]
   edge
   [
-    source 497
-    target 368
+    source 226
+    target 378
+    rank 9
+  ]
+  edge
+  [
+    source 227
+    target 293
+    rank 6
+  ]
+  edge
+  [
+    source 227
+    target 372
     rank 7
   ]
   edge
   [
-    source 498
-    target 287
-    rank 6
-  ]
-  edge
-  [
-    source 498
-    target 487
-    rank 13
-  ]
-  edge
-  [
-    source 499
-    target 390
-    rank 1
-  ]
-  edge
-  [
-    source 499
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 499
-    target 386
+    source 227
+    target 344
     rank 11
   ]
   edge
   [
-    source 499
-    target 76
-    rank 12
-  ]
-  edge
-  [
-    source 499
-    target 16
-    rank 14
-  ]
-  edge
-  [
-    source 501
-    target 384
-    rank 16
-  ]
-  edge
-  [
-    source 501
-    target 368
-    rank 19
-  ]
-  edge
-  [
-    source 502
-    target 413
+    source 228
+    target 34
     rank 3
   ]
   edge
   [
-    source 503
-    target 485
-    rank 4
+    source 228
+    target 269
+    rank 9
   ]
   edge
   [
-    source 503
-    target 384
+    source 228
+    target 101
     rank 10
   ]
   edge
   [
-    source 504
-    target 429
-    rank 1
+    source 229
+    target 165
+    rank 7
   ]
   edge
   [
-    source 504
-    target 454
+    source 229
+    target 259
+    rank 12
+  ]
+  edge
+  [
+    source 229
+    target 115
+    rank 16
+  ]
+  edge
+  [
+    source 229
+    target 208
+    rank 18
+  ]
+  edge
+  [
+    source 230
+    target 98
     rank 3
   ]
   edge
   [
-    source 504
-    target 342
-    rank 8
+    source 230
+    target 7
+    rank 13
   ]
   edge
   [
-    source 504
-    target 302
+    source 231
+    target 191
+    rank 1
+  ]
+  edge
+  [
+    source 231
+    target 367
+    rank 5
+  ]
+  edge
+  [
+    source 231
+    target 362
+    rank 6
+  ]
+  edge
+  [
+    source 231
+    target 266
+    rank 14
+  ]
+  edge
+  [
+    source 232
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 232
+    target 98
+    rank 9
+  ]
+  edge
+  [
+    source 232
+    target 127
     rank 17
   ]
   edge
   [
-    source 505
-    target 530
-    rank 3
+    source 233
+    target 261
+    rank 1
   ]
   edge
   [
-    source 505
-    target 264
+    source 233
+    target 250
+    rank 6
+  ]
+  edge
+  [
+    source 233
+    target 356
+    rank 7
+  ]
+  edge
+  [
+    source 233
+    target 340
     rank 16
   ]
   edge
   [
-    source 508
-    target 408
-    rank 2
+    source 234
+    target 203
+    rank 7
   ]
   edge
   [
-    source 508
-    target 251
-    rank 19
+    source 234
+    target 252
+    rank 8
   ]
   edge
   [
-    source 509
-    target 264
-    rank 11
+    source 235
+    target 244
+    rank 6
   ]
   edge
   [
-    source 510
-    target 264
+    source 235
+    target 198
+    rank 8
+  ]
+  edge
+  [
+    source 235
+    target 99
     rank 12
   ]
   edge
   [
-    source 513
-    target 97
+    source 236
+    target 319
+    rank 6
+  ]
+  edge
+  [
+    source 236
+    target 355
+    rank 16
+  ]
+  edge
+  [
+    source 236
+    target 367
+    rank 19
+  ]
+  edge
+  [
+    source 237
+    target 2
     rank 2
   ]
   edge
   [
-    source 514
-    target 457
+    source 237
+    target 105
+    rank 15
+  ]
+  edge
+  [
+    source 237
+    target 39
+    rank 20
+  ]
+  edge
+  [
+    source 238
+    target 127
+    rank 4
+  ]
+  edge
+  [
+    source 238
+    target 17
+    rank 10
+  ]
+  edge
+  [
+    source 240
+    target 63
     rank 3
   ]
   edge
   [
-    source 514
-    target 438
+    source 240
+    target 127
+    rank 11
+  ]
+  edge
+  [
+    source 240
+    target 19
     rank 13
   ]
   edge
   [
-    source 514
-    target 466
+    source 241
+    target 327
+    rank 2
+  ]
+  edge
+  [
+    source 241
+    target 202
+    rank 11
+  ]
+  edge
+  [
+    source 241
+    target 298
+    rank 13
+  ]
+  edge
+  [
+    source 241
+    target 205
     rank 14
   ]
   edge
   [
-    source 517
+    source 242
+    target 303
+    rank 14
+  ]
+  edge
+  [
+    source 243
+    target 221
+    rank 9
+  ]
+  edge
+  [
+    source 244
+    target 117
+    rank 3
+  ]
+  edge
+  [
+    source 244
+    target 251
+    rank 4
+  ]
+  edge
+  [
+    source 244
+    target 63
+    rank 7
+  ]
+  edge
+  [
+    source 244
+    target 99
+    rank 11
+  ]
+  edge
+  [
+    source 244
+    target 169
+    rank 16
+  ]
+  edge
+  [
+    source 244
+    target 105
+    rank 20
+  ]
+  edge
+  [
+    source 245
+    target 226
+    rank 3
+  ]
+  edge
+  [
+    source 245
+    target 339
+    rank 18
+  ]
+  edge
+  [
+    source 246
+    target 63
+    rank 6
+  ]
+  edge
+  [
+    source 247
+    target 345
+    rank 14
+  ]
+  edge
+  [
+    source 247
+    target 337
+    rank 16
+  ]
+  edge
+  [
+    source 247
+    target 226
+    rank 18
+  ]
+  edge
+  [
+    source 247
+    target 378
+    rank 19
+  ]
+  edge
+  [
+    source 248
+    target 243
+    rank 2
+  ]
+  edge
+  [
+    source 248
+    target 302
+    rank 5
+  ]
+  edge
+  [
+    source 248
+    target 309
+    rank 10
+  ]
+  edge
+  [
+    source 248
+    target 211
+    rank 11
+  ]
+  edge
+  [
+    source 248
+    target 154
+    rank 12
+  ]
+  edge
+  [
+    source 248
+    target 274
+    rank 18
+  ]
+  edge
+  [
+    source 248
+    target 275
+    rank 19
+  ]
+  edge
+  [
+    source 249
+    target 125
+    rank 1
+  ]
+  edge
+  [
+    source 250
+    target 233
+    rank 7
+  ]
+  edge
+  [
+    source 250
+    target 261
+    rank 9
+  ]
+  edge
+  [
+    source 250
+    target 312
+    rank 10
+  ]
+  edge
+  [
+    source 251
+    target 27
+    rank 3
+  ]
+  edge
+  [
+    source 251
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 251
+    target 99
+    rank 10
+  ]
+  edge
+  [
+    source 251
+    target 244
+    rank 18
+  ]
+  edge
+  [
+    source 252
+    target 203
+    rank 6
+  ]
+  edge
+  [
+    source 252
+    target 234
+    rank 15
+  ]
+  edge
+  [
+    source 253
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 253
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 253
+    target 20
+    rank 5
+  ]
+  edge
+  [
+    source 253
+    target 72
+    rank 7
+  ]
+  edge
+  [
+    source 253
+    target 8
+    rank 8
+  ]
+  edge
+  [
+    source 253
+    target 60
+    rank 10
+  ]
+  edge
+  [
+    source 253
+    target 102
+    rank 15
+  ]
+  edge
+  [
+    source 254
+    target 312
+    rank 6
+  ]
+  edge
+  [
+    source 254
+    target 263
+    rank 8
+  ]
+  edge
+  [
+    source 254
+    target 250
+    rank 14
+  ]
+  edge
+  [
+    source 254
+    target 276
+    rank 15
+  ]
+  edge
+  [
+    source 256
+    target 191
+    rank 1
+  ]
+  edge
+  [
+    source 256
+    target 362
+    rank 4
+  ]
+  edge
+  [
+    source 256
+    target 231
+    rank 9
+  ]
+  edge
+  [
+    source 256
+    target 211
+    rank 10
+  ]
+  edge
+  [
+    source 256
+    target 309
+    rank 18
+  ]
+  edge
+  [
+    source 257
+    target 301
+    rank 2
+  ]
+  edge
+  [
+    source 257
+    target 288
+    rank 5
+  ]
+  edge
+  [
+    source 257
+    target 216
+    rank 6
+  ]
+  edge
+  [
+    source 257
+    target 314
+    rank 8
+  ]
+  edge
+  [
+    source 257
+    target 223
+    rank 12
+  ]
+  edge
+  [
+    source 257
+    target 363
+    rank 13
+  ]
+  edge
+  [
+    source 258
     target 16
     rank 3
   ]
   edge
   [
-    source 517
-    target 76
-    rank 13
+    source 258
+    target 2
+    rank 5
   ]
   edge
   [
-    source 523
-    target 264
-    rank 1
+    source 259
+    target 208
+    rank 5
   ]
   edge
   [
-    source 524
-    target 504
-    rank 2
+    source 259
+    target 229
+    rank 9
   ]
   edge
   [
-    source 524
-    target 359
-    rank 3
-  ]
-  edge
-  [
-    source 524
-    target 274
-    rank 6
-  ]
-  edge
-  [
-    source 524
-    target 429
-    rank 11
-  ]
-  edge
-  [
-    source 524
-    target 342
-    rank 19
-  ]
-  edge
-  [
-    source 525
-    target 504
-    rank 2
-  ]
-  edge
-  [
-    source 525
-    target 429
-    rank 4
-  ]
-  edge
-  [
-    source 528
-    target 505
-    rank 3
-  ]
-  edge
-  [
-    source 528
-    target 530
+    source 259
+    target 165
     rank 12
   ]
   edge
   [
-    source 530
-    target 528
-    rank 1
-  ]
-  edge
-  [
-    source 530
-    target 505
-    rank 2
-  ]
-  edge
-  [
-    source 531
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 532
+    source 260
     target 10
     rank 1
   ]
   edge
   [
-    source 532
-    target 118
+    source 260
+    target 98
     rank 3
   ]
   edge
   [
-    source 532
-    target 36
+    source 260
+    target 16
     rank 6
   ]
   edge
   [
-    source 532
-    target 172
+    source 260
+    target 27
+    rank 7
+  ]
+  edge
+  [
+    source 260
+    target 70
+    rank 8
+  ]
+  edge
+  [
+    source 260
+    target 9
+    rank 10
+  ]
+  edge
+  [
+    source 260
+    target 63
+    rank 11
+  ]
+  edge
+  [
+    source 260
+    target 23
+    rank 14
+  ]
+  edge
+  [
+    source 260
+    target 2
+    rank 17
+  ]
+  edge
+  [
+    source 260
+    target 39
+    rank 19
+  ]
+  edge
+  [
+    source 261
+    target 254
+    rank 14
+  ]
+  edge
+  [
+    source 262
+    target 98
+    rank 1
+  ]
+  edge
+  [
+    source 262
+    target 17
+    rank 19
+  ]
+  edge
+  [
+    source 263
+    target 261
+    rank 12
+  ]
+  edge
+  [
+    source 263
+    target 254
+    rank 13
+  ]
+  edge
+  [
+    source 263
+    target 276
+    rank 18
+  ]
+  edge
+  [
+    source 264
+    target 211
+    rank 5
+  ]
+  edge
+  [
+    source 264
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 264
+    target 243
+    rank 16
+  ]
+  edge
+  [
+    source 264
+    target 256
+    rank 17
+  ]
+  edge
+  [
+    source 264
+    target 269
+    rank 19
+  ]
+  edge
+  [
+    source 265
+    target 252
+    rank 2
+  ]
+  edge
+  [
+    source 265
+    target 203
+    rank 5
+  ]
+  edge
+  [
+    source 265
+    target 99
+    rank 19
+  ]
+  edge
+  [
+    source 266
+    target 231
+    rank 1
+  ]
+  edge
+  [
+    source 266
+    target 362
+    rank 2
+  ]
+  edge
+  [
+    source 266
+    target 191
+    rank 6
+  ]
+  edge
+  [
+    source 266
+    target 170
+    rank 7
+  ]
+  edge
+  [
+    source 266
+    target 221
+    rank 14
+  ]
+  edge
+  [
+    source 267
+    target 51
+    rank 2
+  ]
+  edge
+  [
+    source 267
+    target 46
+    rank 3
+  ]
+  edge
+  [
+    source 267
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 267
+    target 7
+    rank 19
+  ]
+  edge
+  [
+    source 268
+    target 212
+    rank 1
+  ]
+  edge
+  [
+    source 269
+    target 243
+    rank 3
+  ]
+  edge
+  [
+    source 269
+    target 309
+    rank 6
+  ]
+  edge
+  [
+    source 269
+    target 248
+    rank 11
+  ]
+  edge
+  [
+    source 269
+    target 344
+    rank 14
+  ]
+  edge
+  [
+    source 269
+    target 163
+    rank 16
+  ]
+  edge
+  [
+    source 269
+    target 372
+    rank 17
+  ]
+  edge
+  [
+    source 269
+    target 211
+    rank 20
+  ]
+  edge
+  [
+    source 271
+    target 203
+    rank 1
+  ]
+  edge
+  [
+    source 271
+    target 7
+    rank 5
+  ]
+  edge
+  [
+    source 271
+    target 56
+    rank 7
+  ]
+  edge
+  [
+    source 271
+    target 51
+    rank 20
+  ]
+  edge
+  [
+    source 272
+    target 287
+    rank 2
+  ]
+  edge
+  [
+    source 272
+    target 364
+    rank 6
+  ]
+  edge
+  [
+    source 272
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 272
+    target 366
+    rank 9
+  ]
+  edge
+  [
+    source 272
+    target 369
+    rank 19
+  ]
+  edge
+  [
+    source 273
+    target 355
+    rank 6
+  ]
+  edge
+  [
+    source 273
+    target 236
+    rank 10
+  ]
+  edge
+  [
+    source 275
+    target 344
+    rank 4
+  ]
+  edge
+  [
+    source 275
+    target 211
+    rank 5
+  ]
+  edge
+  [
+    source 275
+    target 243
+    rank 8
+  ]
+  edge
+  [
+    source 275
+    target 221
+    rank 9
+  ]
+  edge
+  [
+    source 275
+    target 256
+    rank 10
+  ]
+  edge
+  [
+    source 275
+    target 204
+    rank 11
+  ]
+  edge
+  [
+    source 275
+    target 372
+    rank 12
+  ]
+  edge
+  [
+    source 275
+    target 231
+    rank 18
+  ]
+  edge
+  [
+    source 276
+    target 312
+    rank 2
+  ]
+  edge
+  [
+    source 276
+    target 233
+    rank 8
+  ]
+  edge
+  [
+    source 276
+    target 261
+    rank 13
+  ]
+  edge
+  [
+    source 276
+    target 263
+    rank 15
+  ]
+  edge
+  [
+    source 276
+    target 254
+    rank 18
+  ]
+  edge
+  [
+    source 277
+    target 252
+    rank 8
+  ]
+  edge
+  [
+    source 277
+    target 203
+    rank 13
+  ]
+  edge
+  [
+    source 278
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 278
+    target 98
+    rank 2
+  ]
+  edge
+  [
+    source 278
+    target 63
+    rank 3
+  ]
+  edge
+  [
+    source 278
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 278
+    target 51
+    rank 7
+  ]
+  edge
+  [
+    source 278
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 278
+    target 18
+    rank 13
+  ]
+  edge
+  [
+    source 278
+    target 99
+    rank 15
+  ]
+  edge
+  [
+    source 278
+    target 22
+    rank 16
+  ]
+  edge
+  [
+    source 278
+    target 324
+    rank 17
+  ]
+  edge
+  [
+    source 279
+    target 372
+    rank 10
+  ]
+  edge
+  [
+    source 280
+    target 286
+    rank 10
+  ]
+  edge
+  [
+    source 280
+    target 320
+    rank 19
+  ]
+  edge
+  [
+    source 281
+    target 5
+    rank 6
+  ]
+  edge
+  [
+    source 281
+    target 362
+    rank 15
+  ]
+  edge
+  [
+    source 281
+    target 211
+    rank 19
+  ]
+  edge
+  [
+    source 282
+    target 63
+    rank 7
+  ]
+  edge
+  [
+    source 283
+    target 16
+    rank 6
+  ]
+  edge
+  [
+    source 283
+    target 39
+    rank 13
+  ]
+  edge
+  [
+    source 283
+    target 98
+    rank 14
+  ]
+  edge
+  [
+    source 283
+    target 77
+    rank 18
+  ]
+  edge
+  [
+    source 283
+    target 17
+    rank 19
+  ]
+  edge
+  [
+    source 284
+    target 112
+    rank 1
+  ]
+  edge
+  [
+    source 284
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 284
+    target 198
+    rank 10
+  ]
+  edge
+  [
+    source 284
+    target 19
+    rank 16
+  ]
+  edge
+  [
+    source 284
+    target 127
+    rank 19
+  ]
+  edge
+  [
+    source 285
+    target 329
+    rank 1
+  ]
+  edge
+  [
+    source 286
+    target 320
+    rank 3
+  ]
+  edge
+  [
+    source 286
+    target 23
+    rank 6
+  ]
+  edge
+  [
+    source 286
+    target 324
+    rank 12
+  ]
+  edge
+  [
+    source 286
+    target 2
+    rank 19
+  ]
+  edge
+  [
+    source 287
+    target 205
+    rank 5
+  ]
+  edge
+  [
+    source 287
+    target 298
+    rank 10
+  ]
+  edge
+  [
+    source 288
+    target 216
+    rank 4
+  ]
+  edge
+  [
+    source 288
+    target 257
+    rank 7
+  ]
+  edge
+  [
+    source 288
+    target 127
+    rank 9
+  ]
+  edge
+  [
+    source 288
+    target 314
+    rank 13
+  ]
+  edge
+  [
+    source 288
+    target 198
+    rank 14
+  ]
+  edge
+  [
+    source 289
+    target 27
+    rank 4
+  ]
+  edge
+  [
+    source 289
+    target 113
+    rank 6
+  ]
+  edge
+  [
+    source 289
+    target 26
+    rank 10
+  ]
+  edge
+  [
+    source 289
+    target 25
+    rank 12
+  ]
+  edge
+  [
+    source 290
+    target 113
+    rank 1
+  ]
+  edge
+  [
+    source 290
+    target 98
+    rank 6
+  ]
+  edge
+  [
+    source 290
+    target 189
+    rank 13
+  ]
+  edge
+  [
+    source 291
+    target 98
+    rank 3
+  ]
+  edge
+  [
+    source 291
+    target 27
+    rank 5
+  ]
+  edge
+  [
+    source 291
+    target 128
+    rank 7
+  ]
+  edge
+  [
+    source 291
+    target 19
+    rank 12
+  ]
+  edge
+  [
+    source 291
+    target 102
+    rank 15
+  ]
+  edge
+  [
+    source 292
+    target 109
+    rank 5
+  ]
+  edge
+  [
+    source 292
+    target 185
+    rank 17
+  ]
+  edge
+  [
+    source 293
+    target 274
+    rank 19
+  ]
+  edge
+  [
+    source 294
+    target 327
+    rank 9
+  ]
+  edge
+  [
+    source 294
+    target 360
+    rank 12
+  ]
+  edge
+  [
+    source 294
+    target 366
+    rank 19
+  ]
+  edge
+  [
+    source 295
+    target 344
+    rank 3
+  ]
+  edge
+  [
+    source 295
+    target 243
+    rank 5
+  ]
+  edge
+  [
+    source 295
+    target 269
+    rank 8
+  ]
+  edge
+  [
+    source 295
+    target 293
+    rank 10
+  ]
+  edge
+  [
+    source 295
+    target 372
+    rank 14
+  ]
+  edge
+  [
+    source 296
+    target 14
+    rank 1
+  ]
+  edge
+  [
+    source 296
+    target 63
+    rank 7
+  ]
+  edge
+  [
+    source 296
+    target 127
+    rank 12
+  ]
+  edge
+  [
+    source 296
+    target 7
+    rank 17
+  ]
+  edge
+  [
+    source 296
+    target 79
+    rank 18
+  ]
+  edge
+  [
+    source 296
+    target 17
+    rank 20
+  ]
+  edge
+  [
+    source 297
+    target 233
+    rank 9
+  ]
+  edge
+  [
+    source 297
+    target 254
+    rank 16
+  ]
+  edge
+  [
+    source 297
+    target 261
+    rank 17
+  ]
+  edge
+  [
+    source 298
+    target 205
+    rank 1
+  ]
+  edge
+  [
+    source 298
+    target 366
+    rank 5
+  ]
+  edge
+  [
+    source 298
+    target 287
+    rank 6
+  ]
+  edge
+  [
+    source 298
+    target 202
+    rank 7
+  ]
+  edge
+  [
+    source 298
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 298
+    target 364
+    rank 12
+  ]
+  edge
+  [
+    source 298
+    target 360
+    rank 19
+  ]
+  edge
+  [
+    source 299
+    target 63
+    rank 9
+  ]
+  edge
+  [
+    source 300
+    target 303
+    rank 7
+  ]
+  edge
+  [
+    source 300
+    target 24
+    rank 19
+  ]
+  edge
+  [
+    source 301
+    target 363
+    rank 3
+  ]
+  edge
+  [
+    source 301
+    target 223
+    rank 6
+  ]
+  edge
+  [
+    source 301
+    target 257
+    rank 7
+  ]
+  edge
+  [
+    source 301
+    target 216
+    rank 10
+  ]
+  edge
+  [
+    source 301
+    target 198
+    rank 15
+  ]
+  edge
+  [
+    source 301
+    target 314
+    rank 18
+  ]
+  edge
+  [
+    source 302
+    target 344
+    rank 1
+  ]
+  edge
+  [
+    source 302
+    target 372
+    rank 11
+  ]
+  edge
+  [
+    source 302
+    target 309
+    rank 13
+  ]
+  edge
+  [
+    source 302
+    target 243
+    rank 16
+  ]
+  edge
+  [
+    source 303
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 303
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 305
+    target 140
+    rank 3
+  ]
+  edge
+  [
+    source 305
+    target 72
+    rank 4
+  ]
+  edge
+  [
+    source 305
+    target 8
+    rank 6
+  ]
+  edge
+  [
+    source 305
+    target 128
+    rank 12
+  ]
+  edge
+  [
+    source 306
+    target 319
+    rank 19
+  ]
+  edge
+  [
+    source 307
+    target 51
+    rank 2
+  ]
+  edge
+  [
+    source 307
+    target 77
+    rank 3
+  ]
+  edge
+  [
+    source 307
+    target 63
+    rank 7
+  ]
+  edge
+  [
+    source 307
+    target 22
+    rank 12
+  ]
+  edge
+  [
+    source 307
+    target 17
+    rank 15
+  ]
+  edge
+  [
+    source 307
+    target 7
+    rank 20
+  ]
+  edge
+  [
+    source 308
+    target 333
+    rank 18
+  ]
+  edge
+  [
+    source 308
+    target 256
+    rank 20
+  ]
+  edge
+  [
+    source 309
+    target 221
+    rank 2
+  ]
+  edge
+  [
+    source 309
+    target 154
+    rank 4
+  ]
+  edge
+  [
+    source 309
+    target 344
+    rank 9
+  ]
+  edge
+  [
+    source 309
+    target 211
+    rank 16
+  ]
+  edge
+  [
+    source 309
+    target 333
+    rank 17
+  ]
+  edge
+  [
+    source 309
+    target 243
+    rank 19
+  ]
+  edge
+  [
+    source 310
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 311
+    target 373
+    rank 2
+  ]
+  edge
+  [
+    source 312
+    target 263
+    rank 9
+  ]
+  edge
+  [
+    source 312
+    target 261
+    rank 12
+  ]
+  edge
+  [
+    source 312
+    target 276
+    rank 16
+  ]
+  edge
+  [
+    source 313
+    target 41
+    rank 2
+  ]
+  edge
+  [
+    source 313
+    target 134
+    rank 3
+  ]
+  edge
+  [
+    source 313
+    target 62
+    rank 8
+  ]
+  edge
+  [
+    source 313
+    target 201
+    rank 17
+  ]
+  edge
+  [
+    source 314
+    target 288
+    rank 1
+  ]
+  edge
+  [
+    source 314
+    target 198
+    rank 5
+  ]
+  edge
+  [
+    source 314
+    target 223
+    rank 6
+  ]
+  edge
+  [
+    source 314
+    target 216
+    rank 9
+  ]
+  edge
+  [
+    source 314
+    target 257
+    rank 11
+  ]
+  edge
+  [
+    source 314
+    target 301
+    rank 14
+  ]
+  edge
+  [
+    source 315
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 316
+    target 344
+    rank 11
+  ]
+  edge
+  [
+    source 316
+    target 302
+    rank 17
+  ]
+  edge
+  [
+    source 317
+    target 80
+    rank 2
+  ]
+  edge
+  [
+    source 317
+    target 214
+    rank 6
+  ]
+  edge
+  [
+    source 318
+    target 54
+    rank 2
+  ]
+  edge
+  [
+    source 319
+    target 269
+    rank 6
+  ]
+  edge
+  [
+    source 319
+    target 243
+    rank 10
+  ]
+  edge
+  [
+    source 319
+    target 374
+    rank 15
+  ]
+  edge
+  [
+    source 319
+    target 222
+    rank 18
+  ]
+  edge
+  [
+    source 320
+    target 324
+    rank 5
+  ]
+  edge
+  [
+    source 320
+    target 280
+    rank 6
+  ]
+  edge
+  [
+    source 320
+    target 13
+    rank 8
+  ]
+  edge
+  [
+    source 320
+    target 286
+    rank 10
+  ]
+  edge
+  [
+    source 320
+    target 7
+    rank 13
+  ]
+  edge
+  [
+    source 321
+    target 221
+    rank 1
+  ]
+  edge
+  [
+    source 321
+    target 231
+    rank 2
+  ]
+  edge
+  [
+    source 321
+    target 344
+    rank 3
+  ]
+  edge
+  [
+    source 321
+    target 367
+    rank 4
+  ]
+  edge
+  [
+    source 321
+    target 309
+    rank 6
+  ]
+  edge
+  [
+    source 321
+    target 170
+    rank 7
+  ]
+  edge
+  [
+    source 321
+    target 333
+    rank 8
+  ]
+  edge
+  [
+    source 321
+    target 372
+    rank 9
+  ]
+  edge
+  [
+    source 321
+    target 243
+    rank 13
+  ]
+  edge
+  [
+    source 322
+    target 370
+    rank 19
+  ]
+  edge
+  [
+    source 323
+    target 170
+    rank 6
+  ]
+  edge
+  [
+    source 323
+    target 114
+    rank 9
+  ]
+  edge
+  [
+    source 323
+    target 319
+    rank 17
+  ]
+  edge
+  [
+    source 324
+    target 320
+    rank 11
+  ]
+  edge
+  [
+    source 325
+    target 327
+    rank 1
+  ]
+  edge
+  [
+    source 325
+    target 241
+    rank 4
+  ]
+  edge
+  [
+    source 325
+    target 298
+    rank 8
+  ]
+  edge
+  [
+    source 326
+    target 284
+    rank 15
+  ]
+  edge
+  [
+    source 326
+    target 292
+    rank 16
+  ]
+  edge
+  [
+    source 327
+    target 205
+    rank 1
+  ]
+  edge
+  [
+    source 327
+    target 287
+    rank 3
+  ]
+  edge
+  [
+    source 327
+    target 272
+    rank 8
+  ]
+  edge
+  [
+    source 327
+    target 369
+    rank 15
+  ]
+  edge
+  [
+    source 327
+    target 364
+    rank 16
+  ]
+  edge
+  [
+    source 328
+    target 327
+    rank 3
+  ]
+  edge
+  [
+    source 328
+    target 205
+    rank 5
+  ]
+  edge
+  [
+    source 328
+    target 272
+    rank 10
+  ]
+  edge
+  [
+    source 328
+    target 366
+    rank 15
+  ]
+  edge
+  [
+    source 328
+    target 360
+    rank 18
+  ]
+  edge
+  [
+    source 329
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 329
+    target 25
+    rank 11
+  ]
+  edge
+  [
+    source 329
+    target 322
+    rank 19
+  ]
+  edge
+  [
+    source 330
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 331
+    target 287
+    rank 1
+  ]
+  edge
+  [
+    source 331
+    target 371
+    rank 5
+  ]
+  edge
+  [
+    source 331
+    target 327
+    rank 12
+  ]
+  edge
+  [
+    source 331
+    target 298
+    rank 14
+  ]
+  edge
+  [
+    source 331
+    target 98
+    rank 16
+  ]
+  edge
+  [
+    source 332
+    target 344
+    rank 2
+  ]
+  edge
+  [
+    source 332
+    target 221
+    rank 4
+  ]
+  edge
+  [
+    source 332
+    target 243
+    rank 5
+  ]
+  edge
+  [
+    source 332
+    target 372
+    rank 7
+  ]
+  edge
+  [
+    source 332
+    target 333
+    rank 10
+  ]
+  edge
+  [
+    source 332
+    target 309
+    rank 12
+  ]
+  edge
+  [
+    source 332
+    target 269
+    rank 20
+  ]
+  edge
+  [
+    source 333
+    target 362
+    rank 2
+  ]
+  edge
+  [
+    source 333
+    target 221
+    rank 7
+  ]
+  edge
+  [
+    source 333
+    target 191
+    rank 12
+  ]
+  edge
+  [
+    source 333
+    target 211
+    rank 17
+  ]
+  edge
+  [
+    source 334
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 334
+    target 51
+    rank 15
+  ]
+  edge
+  [
+    source 334
+    target 19
+    rank 20
+  ]
+  edge
+  [
+    source 335
+    target 287
+    rank 7
+  ]
+  edge
+  [
+    source 335
+    target 327
+    rank 8
+  ]
+  edge
+  [
+    source 335
+    target 205
+    rank 12
+  ]
+  edge
+  [
+    source 335
+    target 366
+    rank 14
+  ]
+  edge
+  [
+    source 336
+    target 269
+    rank 3
+  ]
+  edge
+  [
+    source 337
+    target 345
+    rank 7
+  ]
+  edge
+  [
+    source 337
+    target 378
+    rank 11
+  ]
+  edge
+  [
+    source 338
+    target 39
+    rank 11
+  ]
+  edge
+  [
+    source 339
+    target 337
+    rank 7
+  ]
+  edge
+  [
+    source 339
+    target 247
+    rank 11
+  ]
+  edge
+  [
+    source 340
+    target 312
+    rank 4
+  ]
+  edge
+  [
+    source 340
+    target 233
+    rank 6
+  ]
+  edge
+  [
+    source 340
+    target 261
+    rank 16
+  ]
+  edge
+  [
+    source 341
+    target 80
+    rank 3
+  ]
+  edge
+  [
+    source 341
+    target 214
+    rank 8
+  ]
+  edge
+  [
+    source 342
+    target 2
+    rank 16
+  ]
+  edge
+  [
+    source 342
+    target 16
+    rank 17
+  ]
+  edge
+  [
+    source 343
+    target 372
+    rank 1
+  ]
+  edge
+  [
+    source 343
+    target 221
+    rank 3
+  ]
+  edge
+  [
+    source 343
+    target 269
+    rank 5
+  ]
+  edge
+  [
+    source 343
+    target 231
+    rank 7
+  ]
+  edge
+  [
+    source 343
+    target 333
+    rank 11
+  ]
+  edge
+  [
+    source 343
+    target 256
+    rank 12
+  ]
+  edge
+  [
+    source 343
+    target 163
+    rank 14
+  ]
+  edge
+  [
+    source 343
+    target 222
+    rank 15
+  ]
+  edge
+  [
+    source 344
+    target 372
+    rank 6
+  ]
+  edge
+  [
+    source 344
+    target 274
+    rank 8
+  ]
+  edge
+  [
+    source 344
+    target 221
+    rank 10
+  ]
+  edge
+  [
+    source 344
+    target 204
+    rank 14
+  ]
+  edge
+  [
+    source 344
+    target 243
+    rank 15
+  ]
+  edge
+  [
+    source 344
+    target 293
+    rank 16
+  ]
+  edge
+  [
+    source 344
+    target 256
+    rank 17
+  ]
+  edge
+  [
+    source 344
+    target 302
+    rank 18
+  ]
+  edge
+  [
+    source 344
+    target 163
+    rank 19
+  ]
+  edge
+  [
+    source 344
+    target 333
+    rank 20
+  ]
+  edge
+  [
+    source 345
+    target 247
+    rank 9
+  ]
+  edge
+  [
+    source 345
+    target 337
+    rank 11
+  ]
+  edge
+  [
+    source 345
+    target 339
+    rank 19
+  ]
+  edge
+  [
+    source 346
+    target 205
+    rank 1
+  ]
+  edge
+  [
+    source 346
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 346
+    target 287
+    rank 5
+  ]
+  edge
+  [
+    source 346
+    target 366
+    rank 7
+  ]
+  edge
+  [
+    source 346
+    target 369
+    rank 12
+  ]
+  edge
+  [
+    source 347
+    target 327
+    rank 16
+  ]
+  edge
+  [
+    source 347
+    target 205
+    rank 19
+  ]
+  edge
+  [
+    source 348
+    target 362
+    rank 1
+  ]
+  edge
+  [
+    source 348
+    target 221
+    rank 3
+  ]
+  edge
+  [
+    source 348
+    target 211
+    rank 7
+  ]
+  edge
+  [
+    source 348
+    target 309
+    rank 8
+  ]
+  edge
+  [
+    source 348
+    target 269
+    rank 11
+  ]
+  edge
+  [
+    source 348
+    target 333
+    rank 16
+  ]
+  edge
+  [
+    source 349
+    target 337
+    rank 8
+  ]
+  edge
+  [
+    source 349
+    target 247
+    rank 15
+  ]
+  edge
+  [
+    source 350
+    target 327
+    rank 2
+  ]
+  edge
+  [
+    source 350
+    target 298
+    rank 10
+  ]
+  edge
+  [
+    source 350
+    target 369
+    rank 16
+  ]
+  edge
+  [
+    source 351
+    target 300
+    rank 4
+  ]
+  edge
+  [
+    source 352
+    target 14
+    rank 1
+  ]
+  edge
+  [
+    source 352
+    target 98
+    rank 2
+  ]
+  edge
+  [
+    source 352
+    target 51
+    rank 12
+  ]
+  edge
+  [
+    source 353
+    target 333
+    rank 1
+  ]
+  edge
+  [
+    source 353
+    target 281
+    rank 2
+  ]
+  edge
+  [
+    source 353
+    target 269
+    rank 15
+  ]
+  edge
+  [
+    source 353
+    target 309
+    rank 16
+  ]
+  edge
+  [
+    source 353
+    target 255
+    rank 17
+  ]
+  edge
+  [
+    source 354
+    target 80
+    rank 11
+  ]
+  edge
+  [
+    source 355
+    target 319
+    rank 9
+  ]
+  edge
+  [
+    source 355
+    target 270
+    rank 18
+  ]
+  edge
+  [
+    source 355
+    target 236
+    rank 20
+  ]
+  edge
+  [
+    source 356
+    target 233
+    rank 5
+  ]
+  edge
+  [
+    source 357
+    target 14
+    rank 1
+  ]
+  edge
+  [
+    source 357
+    target 60
+    rank 10
+  ]
+  edge
+  [
+    source 357
+    target 8
+    rank 20
+  ]
+  edge
+  [
+    source 358
+    target 63
+    rank 4
+  ]
+  edge
+  [
+    source 358
+    target 39
+    rank 14
+  ]
+  edge
+  [
+    source 358
+    target 77
+    rank 15
+  ]
+  edge
+  [
+    source 358
+    target 379
+    rank 19
+  ]
+  edge
+  [
+    source 359
+    target 214
+    rank 2
+  ]
+  edge
+  [
+    source 359
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 359
+    target 80
+    rank 11
+  ]
+  edge
+  [
+    source 360
+    target 298
+    rank 1
+  ]
+  edge
+  [
+    source 360
+    target 205
+    rank 2
+  ]
+  edge
+  [
+    source 360
+    target 287
+    rank 8
+  ]
+  edge
+  [
+    source 360
+    target 366
+    rank 9
+  ]
+  edge
+  [
+    source 361
+    target 384
+    rank 2
+  ]
+  edge
+  [
+    source 361
+    target 373
+    rank 4
+  ]
+  edge
+  [
+    source 361
+    target 354
+    rank 12
+  ]
+  edge
+  [
+    source 362
+    target 231
+    rank 1
+  ]
+  edge
+  [
+    source 362
+    target 191
+    rank 2
+  ]
+  edge
+  [
+    source 362
+    target 266
+    rank 10
+  ]
+  edge
+  [
+    source 362
+    target 256
+    rank 15
+  ]
+  edge
+  [
+    source 363
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 363
+    target 314
+    rank 5
+  ]
+  edge
+  [
+    source 363
+    target 301
+    rank 7
+  ]
+  edge
+  [
+    source 363
+    target 212
+    rank 14
+  ]
+  edge
+  [
+    source 363
+    target 345
+    rank 18
+  ]
+  edge
+  [
+    source 363
+    target 223
+    rank 20
+  ]
+  edge
+  [
+    source 364
+    target 287
+    rank 5
+  ]
+  edge
+  [
+    source 364
+    target 360
+    rank 11
+  ]
+  edge
+  [
+    source 364
+    target 366
+    rank 13
+  ]
+  edge
+  [
+    source 365
+    target 98
+    rank 3
+  ]
+  edge
+  [
+    source 365
+    target 63
+    rank 5
+  ]
+  edge
+  [
+    source 365
+    target 19
+    rank 10
+  ]
+  edge
+  [
+    source 365
+    target 51
+    rank 17
+  ]
+  edge
+  [
+    source 366
+    target 205
+    rank 1
+  ]
+  edge
+  [
+    source 366
+    target 287
+    rank 7
+  ]
+  edge
+  [
+    source 367
+    target 231
+    rank 6
+  ]
+  edge
+  [
+    source 367
+    target 362
+    rank 13
+  ]
+  edge
+  [
+    source 368
+    target 303
+    rank 1
+  ]
+  edge
+  [
+    source 368
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 368
+    target 300
+    rank 11
+  ]
+  edge
+  [
+    source 368
+    target 63
+    rank 12
+  ]
+  edge
+  [
+    source 368
+    target 16
+    rank 14
+  ]
+  edge
+  [
+    source 369
+    target 298
+    rank 16
+  ]
+  edge
+  [
+    source 369
+    target 287
+    rank 19
+  ]
+  edge
+  [
+    source 370
+    target 322
+    rank 3
+  ]
+  edge
+  [
+    source 371
+    target 360
+    rank 4
+  ]
+  edge
+  [
+    source 371
+    target 298
+    rank 10
+  ]
+  edge
+  [
+    source 372
+    target 333
+    rank 1
+  ]
+  edge
+  [
+    source 372
+    target 344
+    rank 3
+  ]
+  edge
+  [
+    source 372
+    target 269
+    rank 8
+  ]
+  edge
+  [
+    source 372
+    target 243
+    rank 17
+  ]
+  edge
+  [
+    source 373
+    target 384
+    rank 3
+  ]
+  edge
+  [
+    source 373
+    target 214
+    rank 16
+  ]
+  edge
+  [
+    source 374
+    target 319
+    rank 2
+  ]
+  edge
+  [
+    source 374
+    target 204
+    rank 19
+  ]
+  edge
+  [
+    source 375
+    target 214
+    rank 11
+  ]
+  edge
+  [
+    source 376
+    target 214
+    rank 12
+  ]
+  edge
+  [
+    source 377
+    target 80
+    rank 2
+  ]
+  edge
+  [
+    source 378
+    target 345
+    rank 3
+  ]
+  edge
+  [
+    source 378
+    target 337
+    rank 13
+  ]
+  edge
+  [
+    source 378
+    target 349
+    rank 14
+  ]
+  edge
+  [
+    source 379
+    target 16
+    rank 3
+  ]
+  edge
+  [
+    source 379
+    target 63
+    rank 13
+  ]
+  edge
+  [
+    source 380
+    target 214
+    rank 1
+  ]
+  edge
+  [
+    source 381
+    target 372
+    rank 2
+  ]
+  edge
+  [
+    source 381
+    target 279
+    rank 3
+  ]
+  edge
+  [
+    source 381
+    target 221
+    rank 6
+  ]
+  edge
+  [
+    source 381
+    target 333
+    rank 11
+  ]
+  edge
+  [
+    source 381
+    target 269
+    rank 19
+  ]
+  edge
+  [
+    source 382
+    target 372
+    rank 2
+  ]
+  edge
+  [
+    source 382
+    target 333
+    rank 4
+  ]
+  edge
+  [
+    source 383
+    target 373
+    rank 3
+  ]
+  edge
+  [
+    source 383
+    target 384
+    rank 12
+  ]
+  edge
+  [
+    source 384
+    target 383
+    rank 1
+  ]
+  edge
+  [
+    source 384
+    target 373
+    rank 2
+  ]
+  edge
+  [
+    source 385
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 386
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 386
+    target 98
+    rank 3
+  ]
+  edge
+  [
+    source 386
+    target 35
+    rank 6
+  ]
+  edge
+  [
+    source 386
+    target 141
     rank 9
   ]
 ]
