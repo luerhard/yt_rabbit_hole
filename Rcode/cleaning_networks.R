@@ -34,7 +34,8 @@ get_network_metadata <- function(g, networkName=NA){
     num_components = components$no,
     size_largest_component = components$csize[which.max(components$csize)],
     isolates = sum(components$csize[components$csize==1]),
-    avg_degree_clean = mean(degree(g))
+    avg_degree_clean = mean(degree(g)),
+    viewcount_clean = sum(V(g)$view_count)
   )
   
   # selecting largest connected component
@@ -47,7 +48,8 @@ get_network_metadata <- function(g, networkName=NA){
   MD2 <- data.frame(
     no_clusters = length(unique(cl$membership)),
     modularity = cl$modularity[1],
-    avg_degree = mean(degree(g))
+    avg_degree = mean(degree(g)),
+    viewcount = sum(V(g)$view_count)
   )
 
   return(cbind(MD1,MD2))  

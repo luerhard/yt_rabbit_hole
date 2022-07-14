@@ -2,9 +2,11 @@ library('ggplot2')
 
 theme_set(
   theme_classic() +
-  theme(text=element_text(size=12, color='black'),
-        axis.text=element_text(size=12, color='black'))
+  theme(text=element_text(size=12, color='black', family="Open Sans"),
+        axis.text=element_text(size=12, color='black', family="Open Sans"))
 )
+
+## READ DATA ----
 
 df <- read.csv('../data/clean/metadata/metadata_networks.csv')
 
@@ -24,43 +26,60 @@ science_topics <- c("game_theory","filter_bubbles","nft","climate_change",
                     "machine_learning","autism","tourette_syndrome")
 
 df$category[df$name %in% conspiracy_topics] <- "conspiracy"
-df$category[df$name %in% noncontroversial_topics] <- "noncontroversial"
+df$category[df$name %in% noncontroversial_topics] <- "non-controversial"
 df$category[df$name %in% news_topics] <- "news"
 df$category[df$name %in% science_topics] <- "science"
 
+df$category <- factor(df$category, levels=c("non-controversial","science","news","conspiracy"))
+
+df$name <- gsub("_"," ",df$name)
+
+## PLOTTING ----
+
 ggplot(df, aes(x=category, y=size_largest_component, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='white', color='black') + 
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
   stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  xlab('') +
-  geom_text(color = 'blue')
+  ylab('# of videos (LCC)') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
 
 ggplot(df, aes(x=category, y=avg_degree_clean, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='white', color='black') + 
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
   stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  geom_text(color = 'blue') +
-  theme_classic()
+  ylab('average degree (clean)') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
 
-ggplot(df, aes(x=category, y=size_clean)) +
-  stat_summary(fun = mean, geom = "bar", fill='white', color='black') + 
+ggplot(df, aes(x=category, y=avg_degree, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
   stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  theme_classic()
+  ylab('average degree (LCC)') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
 
-ggplot(df, aes(x=category, y=isolates)) +
-  stat_summary(fun = mean, geom = "bar", fill='white', color='black') + 
+ggplot(df, aes(x=category, y=size_clean, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
   stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  theme_classic()
+  ylab('# of videos (clean)') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
+
+ggplot(df, aes(x=category, y=isolates, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
+  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
+  ylab('# isolates') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
 
 ggplot(df, aes(x=category, y=modularity, label=name)) +
-  stat_summary(fun = mean, geom = "bar", fill='white', color='black') + 
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
   stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
-  geom_text(color = 'blue') +
-  theme_classic()
+  ylab('modularity') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
+
+ggplot(df, aes(x=category, y=viewcount, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
+  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
+  ylab('total # of views') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
 
 
 
+summary(lm(avg_degree ~ category + viewcount + size_largest_component, data=df))
+# problems: viewcount on video level related to indegree, 
 
-
-
-
-g <- read_graph("../data/clean/networks/roe_v_wade.gml", format='gml')
-V(g)$title[V(g)$label == "9HZj8Qp4p2A"]
