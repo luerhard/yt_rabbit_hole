@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 11:01:11 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 12:20:18 2022"
 Version 1
 graph
 [
@@ -523,7 +523,7 @@ graph
     commentcount 2
     duration "PT38M19S"
     indegree 0
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 3613
     duration "PT25M17S"
     indegree 25
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 1
     duration "PT41S"
     indegree 1
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 1051
     duration "PT12M42S"
     indegree 12
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 0
     duration "PT31M30S"
     indegree 0
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 63
     duration "PT3M53S"
     indegree 0
-    cluster 9
+    cluster 2
   ]
   node
   [
@@ -1225,7 +1225,7 @@ graph
     commentcount 611
     duration "PT6M22S"
     indegree 7
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 44
     duration "PT6M6S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount 213
     duration "PT8M21S"
     indegree 0
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 44
     duration "PT2M51S"
     indegree 0
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 0
     duration "PT28M11S"
     indegree 0
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 25
     duration "PT1H44M46S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 103
     duration "PT46M44S"
     indegree 0
-    cluster 1
+    cluster 8
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 2
     duration "PT57M1S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   edge
   [
