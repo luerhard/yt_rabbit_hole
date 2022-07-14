@@ -140,6 +140,7 @@ code_tbl1 <- final_data %>% group_by(title) %>%
               neutral = sum(micro=="Neutral", na.rm=T),
               spread= sum(micro=="Spreading", na.rm=T),
               des_miss = sum(micro=="Description missing", na.rm=T),
+              irr = sum(micro=="Irrelevant Video", na.rm = T),
               not_sure = sum(micro=="I'm not sure", na.rm=T)
     ) 
 write.csv(code_tbl1, here(my_path, "codingchoice1_summary.csv"), row.names=F)
