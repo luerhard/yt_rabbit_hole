@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 15:27:41 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 16:13:32 2022"
 Version 1
 graph
 [
@@ -6,7 +6,25 @@ graph
   node
   [
     id 0
-    name "1"
+    label "1aP7FE0ws0s"
+    step 0
+    date "2021-12-17T15:39:45Z"
+    title "Dominion Voting wins key decision in lawsuit against Fox News"
+    description "A judge in Delaware has found that Fox News' coverage of election fraud after the 2020 election may have been inaccurate, and is allowing a major defamation case against the TV network to move forward. CNN legal analysts weigh in on the ruling. #CNN #News"
+    channeltitle "CNN"
+    channelid "UCupvZG-5ko_eiXAupbDfxWw"
+    favcount 0
+    viewcount 1015986
+    likecount 18833
+    commentcount 7290
+    duration "PT8M3S"
+    indegree 16
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 1
     label "46CAKyyObls"
     step 0
     date "2020-12-09T13:51:51Z"
@@ -20,21 +38,12 @@ graph
     commentcount 893
     duration "PT6M14S"
     indegree 40
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 1
-    name "2"
+    id 2
     label "DQw5NtBPll4"
     step 0
     date "2021-01-11T02:29:48Z"
@@ -48,21 +57,12 @@ graph
     commentcount 1347
     duration "PT2M52S"
     indegree 19
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 2
-    name "3"
+    id 3
     label "Q7kPSzYsR6Y"
     step 0
     date "2018-09-13T00:05:59Z"
@@ -76,21 +76,12 @@ graph
     commentcount 196
     duration "PT3M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 3
-    name "4"
+    id 4
     label "nJESuhKk_zM"
     step 0
     date "2021-02-23T22:32:19Z"
@@ -104,21 +95,12 @@ graph
     commentcount 404
     duration "PT3M44S"
     indegree 16
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 4
-    name "5"
+    id 5
     label "CSJKzhvx8nU"
     step 0
     date "2020-11-22T19:35:00Z"
@@ -132,21 +114,12 @@ graph
     commentcount 6965
     duration "PT9M41S"
     indegree 105
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 5
-    name "6"
+    id 6
     label "lH-m_-kzvvo"
     step 0
     date "2021-01-25T22:51:12Z"
@@ -160,21 +133,12 @@ graph
     commentcount 84
     duration "PT2M12S"
     indegree 17
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 6
-    name "7"
+    id 7
     label "0IICuw38zE4"
     step 0
     date "2022-04-07T01:39:11Z"
@@ -188,21 +152,12 @@ graph
     commentcount 7
     duration "PT3M42S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 7
-    name "8"
+    id 8
     label "YLIS68YfMYU"
     step 0
     date "2017-04-14T22:45:51Z"
@@ -216,21 +171,12 @@ graph
     commentcount -1
     duration "PT57M13S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 8
-    name "9"
+    id 9
     label "v62C-riEZ0I"
     step 0
     date "2020-10-26T23:54:36Z"
@@ -244,21 +190,12 @@ graph
     commentcount -1
     duration "PT7M11S"
     indegree 59
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 9
-    name "10"
+    id 10
     label "cHhiDXrk5Do"
     step 0
     date "2021-03-26T23:25:22Z"
@@ -272,21 +209,12 @@ graph
     commentcount 30
     duration "PT21S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 10
-    name "11"
+    id 11
     label "HCWMHTl9ux4"
     step 0
     date "2021-05-05T15:22:09Z"
@@ -300,21 +228,12 @@ graph
     commentcount 751
     duration "PT6M54S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 11
-    name "12"
+    id 12
     label "hnxDJKheI44"
     step 0
     date "2021-01-25T17:23:02Z"
@@ -328,21 +247,12 @@ graph
     commentcount 78
     duration "PT47S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 12
-    name "13"
+    id 13
     label "dWgWP-EU-Gw"
     step 0
     date "2020-11-09T17:52:06Z"
@@ -356,21 +266,12 @@ graph
     commentcount 391
     duration "PT8M40S"
     indegree 126
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 13
-    name "14"
+    id 14
     label "cIEuYflHuTc"
     step 0
     date "2020-11-30T16:50:34Z"
@@ -384,21 +285,12 @@ graph
     commentcount 174
     duration "PT6M8S"
     indegree 6
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 14
-    name "15"
+    id 15
     label "QtWP0KDx2hA"
     step 0
     date "2019-08-13T01:52:11Z"
@@ -412,21 +304,12 @@ graph
     commentcount 652
     duration "PT4M47S"
     indegree 38
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 15
-    name "16"
+    id 16
     label "LkJAHFJSDto"
     step 0
     date "2020-12-23T02:23:37Z"
@@ -440,21 +323,12 @@ graph
     commentcount 447
     duration "PT5M13S"
     indegree 15
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 16
-    name "17"
+    id 17
     label "wmoxE1sJc1c"
     step 0
     date "2018-10-03T17:24:30Z"
@@ -468,21 +342,12 @@ graph
     commentcount -1
     duration "PT9M2S"
     indegree 85
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 17
-    name "18"
+    id 18
     label "Lg3Yztn22R8"
     step 0
     date "2021-03-26T11:57:17Z"
@@ -496,21 +361,12 @@ graph
     commentcount 79
     duration "PT21S"
     indegree 7
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 18
-    name "19"
+    id 19
     label "eXlG93Tz8_g"
     step 0
     date "2020-11-25T01:26:57Z"
@@ -524,21 +380,12 @@ graph
     commentcount 195
     duration "PT2M32S"
     indegree 5
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 19
-    name "20"
+    id 20
     label "i_SpWzv2cVw"
     step 0
     date "2020-12-03T15:30:03Z"
@@ -552,21 +399,12 @@ graph
     commentcount 1357
     duration "PT10M30S"
     indegree 51
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 20
-    name "21"
+    id 21
     label "MXDP27O54_Y"
     step 0
     date "2021-01-26T15:42:25Z"
@@ -580,49 +418,31 @@ graph
     commentcount 112
     duration "PT56S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 21
-    name "22"
-    label "A1F6-OMmufM"
+    id 23
+    label "clgYLEM-hG0"
     step 0
-    date "2020-11-14T18:43:26Z"
-    title "How to Pronounce Dominion Voting Systems? (CORRECTLY)"
-    description "Hear MORE FAMOUS BRAND NAMES pronounced: https://www.youtube.com/watch?v=2ZhYGLsus4M&#38;list=PLd_ydU7Boqa1_Qi2sWyRPbdddkAoEuixD&#10;Listen how to say this word/name correctly with Julien (English vocabulary videos), &#34;how do you pronounce&#34; free pronunciation audio/video tutorials.&#10;&#10;Learn how to say words in English, French, Spanish, German, Italian, and many other languages with Julien Miquel and his pronunciation tutorials! In the world of words and the diversity of accents and local dialects, some words can be extremely hard to pronounce. There are mobile apps, online tools, dictionary websites to help you as well, but this dedicated channel is you go-to directory to improve your diction, voicing elocution, enunciation, and intonation.&#10;Julien&#8217;s instructional and educational videos make pronunciation easier as I detail the correct pronunciation as fluent speaker many languages such as French, English, Spanish, or Italian, and curious student of world idioms such as Chinese, Japanese, Portuguese, Polish, or Russian.&#10;-If you found this video helpful please like the video to support my work.&#10;-If you would like help with any future pronunciations, be sure to subscribe!&#10;-Thanks for Watching How To Pronounce with Julien and happy pronouncing.&#10;&#10;#EnglishWithJulien  &#10;&#10;What does this word/name mean? Words&#8217; meaning, dictionary definition, explanation, information.&#10;Information &#38; Source: &#10;Dominion Voting Systems Corporation is a company that sells electronic voting hardware and software, including voting machines and tabulators, in the United States and Canada. The company's international headquarters are in Toronto, Canada, and its U.S. headquarters are in Denver, Colorado. https://en.wikipedia.org/wiki/Dominion_Voting_Systems"
-    channeltitle "Julien Miquel"
-    channelid "UCYsWqViUNFkLaXKNR9clGLQ"
+    date "2020-01-14T19:14:42Z"
+    title "Voting equipment makers: Machines not 100% secure"
+    description "(9 Jan 2020) The House Administration Committee on Thursday heard from the CEOs of the three biggest U.S. voting equipment manufacturers who all say voting machines are not 100 percent secure. &#13;&#10;In the first election security hearing at the start of a presidential election year, top executives from Dominion Voting Systems, Hart InterCivic and Election Systems and Software (ES&#38;amp;S) testified before congress.&#13;&#10;When asked by the ranking member of the committee Rep. Rodney Davis of Illinois if voting machines were 100% secure, the executives unanimously stated &#34;no.&#34;&#13;&#10;The executives represent companies believed to control more than 90% of the voting equipment market in the U.S., according to a report put out by the University of Pennsylvania's Wharton Public Policy Initiative.&#13;&#10;&#13;&#10;Find out more about AP Archive: http://www.aparchive.com/HowWeWork &#13;&#10;Twitter: https://twitter.com/AP_Archive &#13;&#10;Facebook: https://www.facebook.com/APArchives &#8203;&#8203;&#13;&#10;Instagram: https://www.instagram.com/APNews/&#13;&#10;&#13;&#10;&#13;&#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/6d707c096d1045e5850e57fb68002081"
+    channeltitle "AP Archive"
+    channelid "UCHTK-2W11Vh1V4uwofOfR4w"
     favcount 0
-    viewcount 12864
-    likecount 90
-    commentcount 87
-    duration "PT50S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    viewcount 12749
+    likecount 309
+    commentcount 136
+    duration "PT2M59S"
+    indegree 48
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 22
-    name "24"
+    id 24
     label "fjSID4CLRrE"
     step 0
     date "2021-02-04T14:37:02Z"
@@ -636,21 +456,12 @@ graph
     commentcount 30
     duration "PT1M28S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 23
-    name "25"
+    id 25
     label "GPBagXouCvU"
     step 0
     date "2022-05-14T01:06:18Z"
@@ -664,21 +475,12 @@ graph
     commentcount 15
     duration "PT1M10S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 24
-    name "26"
+    id 26
     label "2NAhl4Hi_LE"
     step 0
     date "2019-10-27T18:24:36Z"
@@ -692,21 +494,12 @@ graph
     commentcount 44
     duration "PT3M54S"
     indegree 8
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 25
-    name "27"
+    id 27
     label "53m4RlBzhOk"
     step 0
     date "2021-03-26T15:34:41Z"
@@ -720,21 +513,12 @@ graph
     commentcount 7521
     duration "PT6M1S"
     indegree 8
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 26
-    name "28"
+    id 28
     label "T6YGxCkS3BM"
     step 0
     date "2020-11-13T07:53:02Z"
@@ -748,21 +532,12 @@ graph
     commentcount 181
     duration "PT3M19S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 27
-    name "29"
+    id 29
     label "61EqSsVnm5w"
     step 0
     date "2021-10-15T00:46:24Z"
@@ -776,21 +551,12 @@ graph
     commentcount 82
     duration "PT5M4S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 28
-    name "30"
+    id 30
     label "HA2DWMHgLnc"
     step 0
     date "2017-08-11T20:53:48Z"
@@ -804,21 +570,12 @@ graph
     commentcount 4615
     duration "PT6M36S"
     indegree 26
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 29
-    name "31"
+    id 31
     label "3qEno6P6PSQ"
     step 0
     date "2021-02-22T19:17:12Z"
@@ -832,21 +589,12 @@ graph
     commentcount 27
     duration "PT35S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 30
-    name "32"
+    id 32
     label "4IMDmpYkY-E"
     step 0
     date "2019-07-31T22:32:53Z"
@@ -860,21 +608,12 @@ graph
     commentcount 47
     duration "PT2M7S"
     indegree 10
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 31
-    name "33"
+    id 33
     label "L-KLjB_Olko"
     step 0
     date "2021-08-25T14:32:01Z"
@@ -888,21 +627,12 @@ graph
     commentcount 11
     duration "PT27S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 32
-    name "34"
+    id 34
     label "mt6-aSIX2Bk"
     step 0
     date "2020-12-08T03:07:13Z"
@@ -916,21 +646,12 @@ graph
     commentcount 168
     duration "PT38M45S"
     indegree 25
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 33
-    name "35"
+    id 35
     label "bI2vhCV8JZw"
     step 0
     date "2020-10-15T00:51:27Z"
@@ -944,21 +665,12 @@ graph
     commentcount -1
     duration "PT8M6S"
     indegree 16
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 34
-    name "36"
+    id 36
     label "3gWhxI5LqU8"
     step 0
     date "2021-10-14T00:54:47Z"
@@ -972,21 +684,12 @@ graph
     commentcount 3
     duration "PT3M15S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 35
-    name "37"
+    id 37
     label "VO-sIk1htVQ"
     step 0
     date "2018-06-27T21:56:29Z"
@@ -1000,21 +703,12 @@ graph
     commentcount 942
     duration "PT54M52S"
     indegree 43
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 36
-    name "38"
+    id 38
     label "L7ExnUvqxpw"
     step 0
     date "2021-01-25T23:10:24Z"
@@ -1028,21 +722,12 @@ graph
     commentcount 2
     duration "PT1M57S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 37
-    name "39"
+    id 39
     label "hvOKWeW_Fog"
     step 0
     date "2016-09-01T17:38:03Z"
@@ -1056,21 +741,12 @@ graph
     commentcount 1664
     duration "PT7M18S"
     indegree 83
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 38
-    name "40"
+    id 40
     label "jV20dWObhBY"
     step 0
     date "2020-11-02T06:55:04Z"
@@ -1084,21 +760,12 @@ graph
     commentcount 0
     duration "PT15M16S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 39
-    name "41"
+    id 41
     label "rpcMwiTx86w"
     step 0
     date "2021-01-25T17:21:01Z"
@@ -1112,21 +779,12 @@ graph
     commentcount 13
     duration "PT30S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 40
-    name "42"
+    id 42
     label "oULMv-bopN4"
     step 0
     date "2021-08-31T23:14:43Z"
@@ -1140,21 +798,12 @@ graph
     commentcount 3
     duration "PT2M47S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 41
-    name "43"
+    id 43
     label "cUV8h7f-mAg"
     step 0
     date "2021-02-23T01:01:25Z"
@@ -1168,21 +817,12 @@ graph
     commentcount 35
     duration "PT33S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 42
-    name "44"
+    id 44
     label "S5Xzagfvv-g"
     step 0
     date "2021-03-26T14:54:50Z"
@@ -1196,21 +836,12 @@ graph
     commentcount 5068
     duration "PT2M54S"
     indegree 9
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 43
-    name "45"
+    id 45
     label "otiDjYtQlgE"
     step 0
     date "2020-11-13T18:47:09Z"
@@ -1224,21 +855,12 @@ graph
     commentcount 3
     duration "PT13S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 44
-    name "46"
+    id 46
     label "QTCmkIxve0c"
     step 0
     date "2018-03-29T11:00:15Z"
@@ -1252,49 +874,31 @@ graph
     commentcount 1864
     duration "PT4M35S"
     indegree 11
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 45
-    name "47"
-    label "69OFP3K-BUI"
+    id 48
+    label "KmihqVmKGT4"
     step 0
-    date "2021-02-22T15:37:09Z"
-    title "Dominion Voting Systems Sues MyPillow CEO Mike Lindell, Seeking More Than $1.3B In Damages"
-    description "Dominion Voting Systems has filed a lawsuit against MyPillow CEO Mike Lindell over his election fraud claims. Katie Johnston reports."
-    channeltitle "CBS Local News"
-    channelid "UC3HDFpCnZtLZjEdpzKT9tGA"
+    date "2016-09-19T01:31:48Z"
+    title "Professor demonstrates how to hack a voting machine"
+    description "Princeton professor insists Americans should vote using paper ballots"
+    channeltitle "Fox News"
+    channelid "UCXIJgqnII2ZOINSWNOGFThA"
     favcount 0
-    viewcount 284
-    likecount 7
-    commentcount 7
-    duration "PT33S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    viewcount 69411
+    likecount 1241
+    commentcount 335
+    duration "PT2M44S"
+    indegree 23
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 46
-    name "49"
+    id 49
     label "q6ydDq4878c"
     step 0
     date "2020-12-07T22:15:16Z"
@@ -1308,21 +912,12 @@ graph
     commentcount 345
     duration "PT15M16S"
     indegree 35
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 47
-    name "50"
+    id 50
     label "onjEieXFYgs"
     step 0
     date "2020-11-12T17:15:35Z"
@@ -1336,105 +931,69 @@ graph
     commentcount 830
     duration "PT38S"
     indegree 26
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 48
-    name "51"
-    label "yYtxxMX9-jo"
-    step 0
-    date "2022-03-31T15:00:36Z"
-    title "France electoral system explained: Will Emmanuel Macron win 2nd term? | WION Originals"
-    description "About Channel: &#10;&#10;WION -The World is One News, examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to the politics of the world. People are tired of biased reportage and we stand for a globalised united world. So for us the World is truly One.&#10; &#10;Please keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs as well as personal insults.&#10;&#10;Subscribe to our channel at https://goo.gl/JfY3NI&#10;Check out our website: http://www.wionews.com&#10;Connect with us on our social media handles:&#10;Facebook: https://www.facebook.com/WIONews&#10;Twitter: https://twitter.com/WIONews&#10;&#10;Follow us on Google News for latest updates&#10;&#10;Zee News:- https://bit.ly/2Ac5G60&#10;Zee Bussiness:- https://bit.ly/36vI2xa&#10;DNA India:- https://bit.ly/2ZDuLRY&#10;WION: https://bit.ly/3gnDb5J&#10;Zee News Apps : https://bit.ly/ZeeNewsApps"
-    channeltitle "WION"
-    channelid "UC_gUM8rL-Lrg6O3adPW9K1g"
-    favcount 0
-    viewcount 4111
-    likecount 85
-    commentcount 6
-    duration "PT2M21S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 49
-    name "53"
-    label "HzQycpY4RqU"
+    id 52
+    label "FGY6K3lahBA"
     step 0
-    date "2020-11-16T18:02:01Z"
-    title ": Trump Says Denver-Based Dominion Voting Systems Ruined Election"
-    description "&#8220;Dominion is running our Election. Rigged!&#8221; Pres. Trump tweeted Sunday night.&#10;Twitter flagged that tweet as well, stating, &#8220;This claim about election fraud is disputed.&#8221; Katie Johnston reports."
-    channeltitle "CBS Local News"
-    channelid "UC3HDFpCnZtLZjEdpzKT9tGA"
+    date "2021-10-07T02:06:47Z"
+    title "Hanks shoots at fake Dominion voting machine in new campaign video"
+    description "Colorado State Rep. Ron Hanks, from Ca&#241;on City, wants to compete against Democratic Senator Michael Bennet."
+    channeltitle "Next 9NEWS"
+    channelid "UC00SLi9yOR6iJXX-_cU2APg"
     favcount 0
-    viewcount 1101
+    viewcount 2111
     likecount 24
-    commentcount 24
-    duration "PT46S"
+    commentcount 44
+    duration "PT1M54S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 50
-    name "55"
-    label "3KO8iVBic-0"
+    id 54
+    label "AL3S_1x5_uA"
     step 0
-    date "2021-08-26T01:17:04Z"
-    title "Mesa County Commissioners choose Dominion voting systems"
-    description "Mesa County Commissioners choose Dominion voting systems"
-    channeltitle "KREX News 5"
-    channelid "UCmjsff0sxdTH036-pMoLSXw"
+    date "2018-10-10T15:29:41Z"
+    title "Dominion Election Night Reporting Video (Oct 2018)"
+    description ""
+    channeltitle "New York State Board of Elections"
+    channelid "UCGrec5ku9pr-Z6MPdZ6inWw"
     favcount 0
-    viewcount 64
-    likecount 1
+    viewcount 5147
+    likecount 32
     commentcount 3
-    duration "PT3M5S"
+    duration "PT1M57S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 51
-    name "57"
+    id 56
+    label "jCuSsbsZsSs"
+    step 0
+    date "2021-03-24T00:59:52Z"
+    title "After Spreading False Election Fraud Claims, Powell Claims t Believe Her"
+    description "Joy&#8217;s choice for the absolute worst: Ex-Trump attorney Sidney Powell's weekslong campaign to invalidate the results of the 2020 election was not based in fact, her lawyers said Monday. Joy&#8217;s message to Trump supporters: &#8220;Hey guys, I think she&#8217;s calling y&#8217;all suckers.&#8221; Aired on 03/23/2021.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About The ReidOut with Joy Reid: Joy Reid conducts one-on-one conversations with politicians and newsmakers while addressing provocative political issues both inside and outside of the beltway. Reid, who is also a best-selling author and public speaker, joined MSNBC in 2011 as a contributor. Drawing from her decades-long experience in politics, passion for addressing the intersection of race, justice and culture, as well as her signature tenacious interviewing style, Reid kicks off MSNBC&#8217;s primetime lineup by delving into American politics as it unfolds. &#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, Hardball, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#Trump #ElectionFraud #MSNBC&#10;&#10;After Spreading False Election Fraud Claims, Powell Claims &#8216;Reasonable People&#8217; Wouldn&#8217;t Believe Her"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
+    favcount 0
+    viewcount 899859
+    likecount 18744
+    commentcount 6385
+    duration "PT4M1S"
+    indegree 3
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 57
     label "y8-v3BkwmJU"
     step 0
     date "2022-03-22T19:16:18Z"
@@ -1448,49 +1007,31 @@ graph
     commentcount 0
     duration "PT3M41S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 52
-    name "58"
-    label "1rrjJyTYbWI"
+    id 59
+    label "LkH2r-sNjQs"
     step 0
-    date "2018-05-14T14:23:55Z"
-    title "RCV Symposium Session 9: Dominion Voting Systems RCV Capabilities"
-    description "Dominion Voting Systems will present the company's latest voting systems and how these systems can be used for ranked choice voting ballot design and tabulation."
-    channeltitle "Ranked Choice Voting Resource Center"
-    channelid "UCji8xui8CyrBPp8GHBGm1Kg"
+    date "2019-12-09T16:00:07Z"
+    title "Why Electronic Voting Is Still A Bad Idea"
+    description "We still shouldn't be using electronic voting. Here's why. &#8226; Sponsored by Dashlane &#8212; for free on your first device @  https://www.dashlane.com/tomscott&#10;&#10;MORE BASICS: https://www.youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&#13;&#10;&#13;&#10;REFERENCES:&#10;&#10;Computerphile video: https://www.youtube.com/watch?v=w3_0x6oaDmI&#10;&#10;Stories about voter identification happening outside the law: https://www.theguardian.com/notesandqueries/query/0,,-1051,00.html&#10;&#10;Voting machines left connected to the internet: https://www.vice.com/en_us/article/3kxzk9/exclusive-critical-us-election-systems-have-been-left-exposed-online-despite-official-denials&#10;&#10;Hackers getting voting machines to play Doom: https://www.salon.com/2019/08/14/hackers-can-easily-break-into-voting-machines-used-across-the-u-s-play-doom-nirvana/&#10;&#10;&#34;Small, well-funded team backed by a national government&#34;: https://www.nytimes.com/2019/07/25/us/politics/russian-hacking-elections.html&#10;&#10;Scottish election: https://www.theguardian.com/politics/2007/jun/20/scotland.devolution and http://news.bbc.co.uk/1/hi/scotland/6627657.stm - with the Excel detail on page 50 of https://www.openrightsgroup.org/wp-content/uploads/org_election_report.pdf?page=50&#10;&#10;Report on e-voting in Estonia: https://estoniaevoting.org/&#10;&#10;&#10;Written with Sean Elliott https://twitter.com/SeanMElliott/&#10;Directed by Tomek&#13;&#10;Graphics by Mooviemakers https://www.mooviemakers.co.uk/&#13;&#10;Audio mix by Haerther Productions https://haerther.net/&#13;&#10;&#13;&#10;I'm at https://tomscott.com&#13;&#10;on Twitter at https://twitter.com/tomscott&#13;&#10;on Facebook at https://facebook.com/tomscott&#13;&#10;and on Instagram as tomscottgo"
+    channeltitle "Tom Scott"
+    channelid "UCBa659QWEk1AI4Tg--mrJ2A"
     favcount 0
-    viewcount 88
-    likecount 1
-    commentcount 0
-    duration "PT29M11S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    viewcount 3585666
+    likecount 157870
+    commentcount 14829
+    duration "PT12M1S"
+    indegree 23
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 53
-    name "60"
+    id 60
     label "72QdD58JiUs"
     step 0
     date "2021-02-08T15:30:00Z"
@@ -1504,21 +1045,12 @@ graph
     commentcount 710
     duration "PT3M42S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 54
-    name "61"
+    id 61
     label "-v17_7ojPNg"
     step 0
     date "2019-05-15T19:24:55Z"
@@ -1532,21 +1064,12 @@ graph
     commentcount 2
     duration "PT2M33S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 55
-    name "62"
+    id 62
     label "4Bol3Cdln5g"
     step 0
     date "2022-06-22T22:30:00Z"
@@ -1560,21 +1083,12 @@ graph
     commentcount 5826
     duration "PT8M50S"
     indegree 7
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 56
-    name "63"
+    id 63
     label "pjKXvqSNIkk"
     step 0
     date "2021-01-11T02:28:53Z"
@@ -1588,21 +1102,12 @@ graph
     commentcount 15152
     duration "PT5M9S"
     indegree 9
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 57
-    name "64"
+    id 64
     label "Y15D19usS0g"
     step 0
     date "2020-01-09T17:57:28Z"
@@ -1616,21 +1121,12 @@ graph
     commentcount 29
     duration "PT2H46M"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 58
-    name "65"
+    id 65
     label "svEuG_ekNT0"
     step 0
     date "2019-11-04T07:30:01Z"
@@ -1644,21 +1140,12 @@ graph
     commentcount 11231
     duration "PT19M22S"
     indegree 29
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 59
-    name "66"
+    id 66
     label "ijjwS6h-PyU"
     step 0
     date "2020-12-09T13:45:01Z"
@@ -1672,21 +1159,12 @@ graph
     commentcount 346
     duration "PT8M12S"
     indegree 20
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 60
-    name "67"
+    id 67
     label "qTGrNAw8Ekk"
     step 0
     date "2021-01-05T01:27:31Z"
@@ -1700,21 +1178,12 @@ graph
     commentcount 400
     duration "PT4M22S"
     indegree 4
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 61
-    name "68"
+    id 68
     label "PDFzO_X9vo4"
     step 0
     date "2021-02-09T17:43:37Z"
@@ -1728,21 +1197,12 @@ graph
     commentcount 5731
     duration "PT28M9S"
     indegree 5
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 62
-    name "69"
+    id 69
     label "YSreS7_zX7E"
     step 0
     date "2019-05-15T19:25:00Z"
@@ -1756,49 +1216,31 @@ graph
     commentcount 4
     duration "PT2M52S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 63
-    name "70"
-    label "vPriOpIek0E"
-    step 0
-    date "2022-06-13T16:53:54Z"
-    title "WATCH: Why Bill Barr didns baseless election fraud claims | Jan. 6 hearings"
-    description "In a recorded deposition played by the House committee investigating the Jan. 6 attack, Bill Barr addressed the myriad false claims of election fraud he encountered as the former attorney general.&#10;&#10;&#8220;I was influenced by the fact that early claims that I understood were bogus and silly and usually based on misinformation, so I did not consider the quality of claims right out of the box to give me any feeling there was substance here,&#8221; he said in a video played on June 13.&#10;&#10;Rep. Zoe Lofgren, D- Calif., noted that former President Donald Trump continued to lie about election fraud even after Barr told him those claims were false, adding that Trump berated and nearly fired Barr.&#10;&#10;Barr said that he was particularly disturbed by baseless and &#8220;idiotic&#8221; claims regarding the functionality of Dominion Voting machines because they influenced members of the public, causing some to believe the nonsensical idea that the machines were controlled by people and emblematic of systemic corruption.&#10;&#10;&#8220;I told them that it was crazy stuff and they were wasting their time on that,&#8221; Barr said. &#8220;It was doing a great, grave disservice to the country.&#8221;&#10;&#10;Barr detailed an exchange with the former president in which Trump handed Barr a misleading report that he said indicated those machines were designed to engage in fraud. Barr emphasized that he did not see any information to support that conclusion.&#10;&#10;&#8220;I was somewhat demoralized because I thought &#8216;Boy, if he really believes this stuff, he&#8217;s become detached from reality,&#8217;&#8221; Barr said. He added that when he told Trump that those allegations were &#8220;crazy,&#8221; the former president did not show much interest in &#8220;what the actual facts were.&#8221; Barr reiterated that in his opinion, the 2020 presidential election was not stolen by fraud and he has not seen any evidence since then to change his mind.&#10;&#10;The hearing was the second of several planned by the Jan. 6 committee that focused on how Trump actively spread false information about the 2020 election outcome &#8211; what has become known as the &#8220;big lie&#8221; &#8211; in the run up to the Jan. 6 insurrection. In the year since its creation, the committee has conducted more than 1,000 interviews, seeking critical information and documents from people witness to, or involved in, the violence that day.&#10;&#10;Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG&#10;Find more from PBS NewsHour at https://www.pbs.org/newshour&#10;Subscribe to our YouTube channel: https://bit.ly/2HfsCD6&#10;&#10;Follow us:&#10;Facebook: http://www.pbs.org/newshour&#10;Twitter: http://www.twitter.com/newshour&#10;Instagram: http://www.instagram.com/newshour"
-    channeltitle "PBS NewsHour"
-    channelid "UC6ZFN9Tx6xh-skXCuRHCDpQ"
-    favcount 0
-    viewcount 677130
-    likecount 4979
-    commentcount -1
-    duration "PT24M51S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 64
-    name "73"
+    id 72
+    label "oKyJas9DShE"
+    step 0
+    date "2020-11-08T09:36:06Z"
+    title "Dominion Voting Systems"
+    description "Dominion Voting Systems Corporation is a company that sells electronic voting hardware and software, including voting machines and tabulators, in the U.S. and Canada. The company's international headquarters are in Toronto, Canada, and its U.S. headquarters are in Denver, Colorado. As of September 2019, Dominion voting machines are used in 2,000 jurisdictions in 33 U.S. states and Puerto Rico. The company also has over 100 municipal customers in Canada and clients in other countries. The company carries out in-house software development for its customers in the U.S., Canada and Serbia."
+    channeltitle "Wiki4All"
+    channelid "UC9m0TI-Yt1TxXWZCezegv8w"
+    favcount 0
+    viewcount 2194
+    likecount 25
+    commentcount 23
+    duration "PT1M36S"
+    indegree 1
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 73
     label "HTc3LRLM8gU"
     step 0
     date "2020-11-19T16:09:22Z"
@@ -1812,21 +1254,12 @@ graph
     commentcount 541
     duration "PT4M43S"
     indegree 93
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 65
-    name "74"
+    id 74
     label "rJI_cwAt9y0"
     step 0
     date "2019-05-15T19:24:48Z"
@@ -1840,21 +1273,12 @@ graph
     commentcount 8
     duration "PT56S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 66
-    name "75"
+    id 75
     label "90O-q7dgS-I"
     step 0
     date "2022-03-30T02:00:03Z"
@@ -1868,21 +1292,12 @@ graph
     commentcount 10487
     duration "PT53M18S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 67
-    name "76"
+    id 76
     label "zEWYhRYshK0"
     step 0
     date "2019-11-02T01:23:55Z"
@@ -1896,21 +1311,12 @@ graph
     commentcount 5
     duration "PT2M18S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 68
-    name "77"
+    id 77
     label "SJZItdQOR1s"
     step 0
     date "2022-06-21T01:15:03Z"
@@ -1924,21 +1330,12 @@ graph
     commentcount 918
     duration "PT12M43S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 69
-    name "78"
+    id 78
     label "xQmfLDeghpI"
     step 0
     date "2019-04-27T14:34:20Z"
@@ -1952,21 +1349,12 @@ graph
     commentcount 106
     duration "PT5M22S"
     indegree 44
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 70
-    name "79"
+    id 79
     label "yj6KpT23UnQ"
     step 0
     date "2015-12-14T20:56:26Z"
@@ -1980,21 +1368,12 @@ graph
     commentcount 1
     duration "PT2M4S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 71
-    name "80"
+    id 80
     label "ofZOWzd4YjE"
     step 0
     date "2020-12-04T03:37:27Z"
@@ -2008,21 +1387,12 @@ graph
     commentcount 13453
     duration "PT2M18S"
     indegree 6
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 72
-    name "81"
+    id 81
     label "cOVYUkLh8Qw"
     step 0
     date "2020-11-17T01:40:38Z"
@@ -2036,77 +1406,50 @@ graph
     commentcount 44
     duration "PT3M8S"
     indegree 5
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 73
-    name "82"
-    label "mQsNkt9yuKI"
+    id 83
+    label "q2VRcpP1I1s"
     step 0
-    date "2015-11-10T23:27:52Z"
-    title "Americas Voting Machines Are F**ked: The Daily Show"
-    description "Ronny Chieng examines how outdated technologies and overpriced voting machines threaten America's election process.&#10;&#10;Watch full episodes of The Daily Show now: http://on.cc.com/1h5ThRg"
-    channeltitle "The Daily Show with Trevor Noah"
-    channelid "UCwWhs_6x42TyRM4Wstoq8HA"
+    date "2020-02-11T03:25:33Z"
+    title "Dominion Voting"
+    description "This is how to vote on the ImageCast X."
+    channeltitle "JMac Productions"
+    channelid "UCAtyMUBm3ELdrXnQPEwdalA"
     favcount 0
-    viewcount 2032274
-    likecount 27672
-    commentcount 1820
-    duration "PT5M33S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 74
-    name "84"
-    label "BGdIHlqJAU8"
-    step 0
-    date "2022-07-06T22:00:27Z"
-    title "Virtual Election Education Seminar Part 1: Primary Election"
-    description "&#8220;Watch our virtual election education seminar. Our subject matter experts will provide election information, discuss election security and how you can get involved in Maricopa County&#8217;s upcoming Primary Election.&#8221;&#10;&#10;SUBSCRIBE &#9658;http://www.youtube.com/c/MaricopaVote&#10;SUBSCRIBASE &#9658; http://www.youtube.com/c/MaricopaVote&#10;&#10;&#127797; For Maricopa County, Arizona Voters&#127797;&#10;&#127797; Para votantes del Condado Maricopa, Arizona&#127797;&#10;***************************************&#10;&#10;[Virtual Election Education Seminar Part 1: Primary Election] &#10;&#10;Election Connection Episode 1 &#9658; https://www.youtube.com/watch?v=_lr9FL2FkKA&#10;&#10;Election Connection Episode 2 &#9658; https://www.youtube.com/watch?v=U6GB1c0zWoQ&#38;t=28s&#10;&#10;Check-out Our New Website &#9658; https://elections.maricopa.gov/&#10;&#10;***************************************&#10;&#10;01:00 Welcome to the Maricopa County Election Education Seminar!&#10;01:32 Agenda&#10;02:33 Primary Election Dates&#10;04:19 How Do I Vote in Maricopa County?&#10;06:57 How is Voting in Maricopa County Different?&#10;07:34 Find a Vote Center Near Me&#10;08:20 What Kind of Vote Center Equipment Does Maricopa County Use?&#10;12:10 What Happens To My Ballot After I Vote?&#10;13:05 Where Do I Find My Voter Information?&#10;13:45 Meet Our Poll Workers!&#10;14:45 Panel Introduction&#10;15:02 Meet the Directors!&#10;17:36 Why are elections important?&#10;22:22 What you need to know about elections this year&#10;28:02 How Can Maricopa County make elections better?&#10;38:34 Panel answers viewer questions&#10;01:00:14 Meet Our Poll Workers!&#10;01:01:13 Meet Our Information Security Officer!&#10;01:02:44 What does the Maricopa County Elections Department System look like?&#10;01:03:38 How have we improved in-person voting?&#10;01:04:19 How does the Dominion Election Management System work?&#10;01:05:51 Are voting machines secure?&#10;01:07:54 How does Maricopa County Elections Department ensure its tech is secure?&#10;01:10:33 How We Prevent Hackers&#10;01:12:21 Elections Command Center&#10;01:14:14 Cyber Security Monitoring War Room&#10;01:14:38 How to spot elections misinformation, disinformation, and malinformation (MDM)&#10;01:17:32 Current MDM Threat Landscape&#10;01:19:05 Fake Tweets&#10;01:21:12 Final words on election security&#10;01:23:43 Recap&#10;01:24:00 About Voter Outreach&#10;01:24:14 Our New Website&#10;01:25:54 Save the Date! Our upcoming events&#10;01:26:57 Get Involved at the Maricopa County Elections Department!&#10;&#10;---------------------------------------------------------------------------------------------&#10;Maricopa County, Arizona is the fastest growing county in the United States.&#10;With more than 2.5 million registered voters, the Elections Department serves the second largest voting jurisdiction in the United States.&#10;The Elections Department helps Maricopa County voters exercise their right to vote by teaching them how to be ballot ready.&#10;&#10;El Condado Maricopa, Arizona es el condado de m&#225;s r&#225;pido crecimiento en los Estados Unidos. &#10;Con m&#225;s de 2.5 millones de votantes registrados, el Departamento de Elecciones presta servicio a la segunda mayor jurisdicci&#243;n de votaci&#243;n en los Estados Unidos. &#10;El Departamento de Elecciones ayuda a los votantes del Condado Maricopa a ejercer su derecho al voto ense&#241;&#225;ndoles c&#243;mo estar listos para votar.&#10;&#10;WELCOME to Maricopa County Elections:&#10;https://www.youtube.com/watch?v=D34x9esCBm0&#10;&#10;&#129309; JOIN our team &#9658;https://GetInvolved.Maricopa.Vote&#10;&#129504; LEARN about our organization &#9658;https://www.Maricopa.Vote&#10;&#128077; SUBSCRIBE &#9658;http://www.youtube.com/c/MaricopaVote&#10;&#10;---------------------------------------------------------------------------------------------&#10;CONNECT with Maricopa County Elections:&#10;&#10;&#128240; Maricopa.Vote  &#9658; https://maricopa.vote&#10;&#129492; Facebook  &#9658; https://www.facebook.com/MaricopaVote&#10;&#128038; Twitter  &#9658; https://twitter.com/MaricopaVote&#10;&#128249; YouTube  &#9658; http://www.youtube.com/c/MaricopaVote&#10;&#9993; E-mail  &#9658; voterinfo@risc.maricopa.gov"
-    channeltitle "Maricopa County Elections Department"
-    channelid "UCN5NGBNn9txenWZ54hpQwLw"
-    favcount 0
-    viewcount 34
-    likecount 2
-    commentcount 0
-    duration "PT1H29M15S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    viewcount 390
+    likecount 0
+    commentcount 2
+    duration "PT2M57S"
+    indegree 1
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 75
-    name "86"
+    id 85
+    label "dRjdkTcqizQ"
+    step 0
+    date "2022-04-29T15:22:38Z"
+    title "Jurassic Park Dominion..... Voting System? Joe Biden Cameo?"
+    description "#JurassicParkDominion #JoeBiden #Meme #Shorts"
+    channeltitle "Dark Mojo"
+    channelid "UCdes38Zus6Ta5oDvVTVbhDw"
+    favcount 0
+    viewcount 120
+    likecount 11
+    commentcount 8
+    duration "PT6S"
+    indegree 2
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 86
     label "2pVwt3-RZxI"
     step 0
     date "2021-01-25T16:15:03Z"
@@ -2120,21 +1463,12 @@ graph
     commentcount 912
     duration "PT23M54S"
     indegree 11
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 76
-    name "87"
+    id 87
     label "hNFueUCOQDc"
     step 0
     date "2020-12-04T02:28:07Z"
@@ -2148,77 +1482,50 @@ graph
     commentcount 0
     duration "PT1M21S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 77
-    name "88"
-    label "HAl2JJjbu0c"
-    step 0
-    date "2022-06-13T17:14:39Z"
-    title "January 6th Committee Holds Public Hearing On 2021 Capitol Attack | Day Two"
-    description "The second public hearing held by the House committee investigating the Jan. 6 riot will have witness testimony and video footage surrounding last year's attack on the Capitol. Get the latest updates from The NBC News live blog here: https://www.nbcnews.com/politics/congress/live-blog/january-6-hearings-day-two-live-updates-rcna32975.&#10;&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://apps.nbcnews.com/mobile&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;Follow NBC News on Instagram: http://nbcnews.to/InstaNBC&#10;&#10;LIVE: Jan. 6 Committee Holds Public Hearing On 2021 Capitol Attack | NBC News"
-    channeltitle "NBC News"
-    channelid "UCeY0bbntWzzVIaj2z3QigXg"
-    favcount 0
-    viewcount 1822214
-    likecount 11546
-    commentcount 4311
-    duration "PT2H36M40S"
-    indegree 4
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 78
-    name "93"
-    label "MF62gzBoQuQ"
+    id 92
+    label "J8AHHbiic98"
     step 0
-    date "2021-02-23T14:59:46Z"
-    title "Dominion Voting System vs. Mike Lindell"
-    description ""
-    channeltitle "Lisa Cabrera"
-    channelid "UCcTzK_2JDmFYGnUiaUleQYg"
+    date "2021-02-23T01:00:03Z"
+    title "Dominion Voting Sues MyPillow CEO Mike Lindell For Defamation Over Election Conspiracy | Forbes"
+    description "Dominion Voting Systems filed a lawsuit Monday against MyPillow and its CEO Mike Lindell for defamation after the Trump ally spread baseless claims about the company&#8217;s voting machines, the latest in a string of high-dollar lawsuits Dominion has waged against right-wing figures who spread conspiracy theories about election fraud.&#10;&#10;Subscribe to FORBES: https://www.youtube.com/c/ForbesUnder30?sub_confirmation=1&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 21719
-    likecount 595
-    commentcount 51
-    duration "PT6M34S"
-    indegree 4
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    viewcount 9638
+    likecount 123
+    commentcount 878
+    duration "PT3M22S"
+    indegree 0
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 79
-    name "95"
+    id 94
+    label "_QoThsSmMJA"
+    step 0
+    date "2020-11-19T16:02:52Z"
+    title "Nov 18, 2020: Dominion Voting Systems Used in Ontario"
+    description "Belinda asks the Ontario government whether the concerns surrounding Dominion voting systems (used in the 2018 Ontario provincial election) have been alleviated, and whether using machines that &#34;glitch&#34; instead of counting by hand is really worth the cost.&#10;&#10;Follow Belinda on&#10;Facebook: https://www.facebook.com/KarahaliosNewBlue&#10;Twitter: https://twitter.com/BKarahalios&#10;Instagram: https://www.instagram.com/belinda_karahalios/&#10;SoundCloud: https://soundcloud.com/belindakarahalios&#10;&#10;A donation to the New Blue Party of Ontario will help us keep building and provide you with a generous tax credit. Visit our website to donate or sign up for updates! https://www.newblueontario.com"
+    channeltitle "Belinda Karahalios"
+    channelid "UCNBKB9YKT8vrUGsPnZ9Ac7w"
+    favcount 0
+    viewcount 1557
+    likecount 61
+    commentcount 16
+    duration "PT2M29S"
+    indegree 2
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 95
     label "Zgs3-_sXPsg"
     step 0
     date "2020-12-17T00:48:22Z"
@@ -2232,21 +1539,12 @@ graph
     commentcount 21
     duration "PT13M47S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 80
-    name "96"
+    id 96
     label "mfb0D3P9org"
     step 0
     date "2020-11-02T08:36:20Z"
@@ -2260,21 +1558,12 @@ graph
     commentcount 21
     duration "PT1M23S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 81
-    name "97"
+    id 97
     label "Si7dntPP3S4"
     step 0
     date "2020-11-13T13:06:15Z"
@@ -2288,21 +1577,12 @@ graph
     commentcount 56
     duration "PT3M20S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 82
-    name "98"
+    id 98
     label "Q88so45WKjk"
     step 0
     date "2021-01-08T20:57:53Z"
@@ -2316,49 +1596,31 @@ graph
     commentcount 0
     duration "PT54S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 83
-    name "99"
-    label "ZfenoKfibJE"
+    id 101
+    label "t244U1TqPwE"
     step 0
-    date "2022-07-02T00:05:06Z"
-    title "Watch: Full Jan. 6 Committee Hearing - Day 4"
-    description "Watch MSNBC coverage of the fourth public January 6th House committee hearing investigating the Capitol riot.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#january6 #msnbc #FullHearing"
-    channeltitle "MSNBC"
-    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
+    date "2022-07-07T12:24:30Z"
+    title "Fox vs Dominion | The Hill Reports on Defamation Lawsuit (HH | 7-6-22)"
+    description "We're back!  And what better way to return than with a new look, a new time, and new headlines?  &#13;&#10;&#13;&#10;Can Fox be successfully sued by voting systems companies for their commentary on the 2020 election?  Will this video be demonetized for even talking about the issue?  So many questions!&#13;&#10;&#13;&#10;Let's discuss.&#13;&#10;&#13;&#10;#headlines #foxnews #dominion&#13;&#10;&#13;&#10;***&#13;&#10;CHAPTERS&#13;&#10;00:00 Good Morning! (Hang-Outs)&#13;&#10;14:19 Fox vs Dominion (Headlines)&#10; 39:50 Hang-Outs!&#10;&#13;&#10;***&#13;&#10;Welcome to Hang-Outs and Headlines!  The media suggests and shapes our understanding of the news items that fill our days (and our social media timelines) - sometimes fairly and sometimes quite unfairly.  &#13;&#10;&#13;&#10;Here Hoeg (and often friends) dive deep into just what's happening in the story behind the stories, with a whole lot of hanging-out, chatting, and wild tangents as well. &#13;&#10;&#13;&#10;***&#13;&#10;THE HEADLINES (will be revised following episode):&#13;&#10;&#13;&#10;https://thehill.com/homenews/media/3547447-fox-news-hires-new-legal-counsel-in-defamation-case-with-dominion/&#13;&#10;&#13;&#10;https://thehill.com/media/3532580-judge-dismisses-latest-bid-from-fox-corp-to-toss-dominion-lawsuit/&#13;&#10;&#13;&#10;https://courts.delaware.gov/Opinions/Download.aspx?id=334260&#13;&#10;&#13;&#10;***&#13;&#10;WANT TO SUPPORT THE CHANNEL?&#13;&#10;UTREON - https://utreon.com/c/hoeglaw/&#13;&#10;PATREON - https://www.patreon.com/VirtualLegality&#13;&#10;STORE - https://teespring.com/stores/hoeg-law-store&#13;&#10;&#13;&#10;YOUTUBE MEMBERSHIP&#13;&#10;https://www.youtube.com/channel/UCi5RTzzeCFurWTPLm8usDkQ/join&#13;&#10;&#13;&#10;BITCAST (Sundays 11AM Eastern) - https://www.youtube.com/channel/UCgHBXONMT06nX_8RZ5r32UA&#13;&#10;&#13;&#10;***&#13;&#10;SOME PREVIOUS GUESTS&#13;&#10;@Nate The Lawyer&#13;&#10;@LegalBytes&#13;&#10;Law and Lumber (https://www.youtube.com/c/lawlumber/)&#13;&#10;@Law Talk With Mike&#13;&#10;@Runkle Of The Bailey&#13;&#10;@Emily D. Baker &#13;&#10;@Uncivil Law&#13;&#10;@natalielawyerchick&#13;&#10;    &#13;&#10;***&#13;&#10;For other shows on this channel:&#13;&#10;&#13;&#10;&#34;Virtual Legality&#34; is a continuing series discussing the law, video games, software, and everything digital, hosted by Richard Hoeg, of the Hoeg Law Business Law Firm (Hoeg Law). &#13;&#10;&#13;&#10;CHECK OUT THE REST OF VIRTUAL LEGALITY HERE: &#13;&#10;https://www.youtube.com/playlist?list=PL1zDCgJzZUy9YAU61GoW-00K0TJOGnPCo&#13;&#10;&#13;&#10;***&#13;&#10;ALL DISCUSSION IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT TO BE CONSTRUED AS LEGAL ADVICE.  INDIVIDUALS INTERESTED IN THE LEGAL TOPICS DISCUSSED IN THIS VIDEO SHOULD CONSULT WITH THEIR OWN COUNSEL.&#13;&#10;&#13;&#10;***&#13;&#10;Twitter: @hoeglaw&#13;&#10;Web: hoeglaw.com&#13;&#10;&#13;&#10;***&#13;&#10;DESIGN WORK&#13;&#10;Joe Ellis (Logo Design)&#13;&#10;Chris Leroux (Logo Design, Thumbnails, and Motion Graphics)&#13;&#10;For more information contact Chris at @Chrisleroux on Twitter"
+    channeltitle "Hoeg Law"
+    channelid "UCi5RTzzeCFurWTPLm8usDkQ"
     favcount 0
-    viewcount 1041773
-    likecount 5191
-    commentcount 1153
-    duration "PT2H37M57S"
-    indegree 6
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    viewcount 5288
+    likecount 519
+    commentcount 29
+    duration "PT49M4S"
+    indegree 0
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 84
-    name "102"
+    id 102
     label "8ZxQ5GThciI"
     step 0
     date "2020-11-17T05:02:09Z"
@@ -2372,21 +1634,12 @@ graph
     commentcount 13
     duration "PT1M31S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 85
-    name "103"
+    id 103
     label "IZotfTLCins"
     step 0
     date "2020-11-19T18:44:58Z"
@@ -2400,21 +1653,12 @@ graph
     commentcount -1
     duration "PT7M59S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 86
-    name "104"
+    id 104
     label "41P0xr22SXQ"
     step 0
     date "2020-11-21T03:26:57Z"
@@ -2428,21 +1672,12 @@ graph
     commentcount 1
     duration "PT2M33S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 87
-    name "105"
+    id 105
     label "SC9TvDX6R08"
     step 0
     date "2020-12-23T12:08:34Z"
@@ -2456,49 +1691,31 @@ graph
     commentcount 3
     duration "PT5M33S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 88
-    name "106"
-    label "zAcR6qoNO9o"
+    id 107
+    label "s7scSfpwnqw"
     step 0
-    date "2021-04-19T18:02:31Z"
-    title "146. Change the Narrative - Reply to a Dominion Voting Comment"
-    description ""
-    channeltitle "The Winning Momentum Podcast with Scott Sinclair "
-    channelid "UCfHd-GrdcKchMZkN4eTcQiQ"
+    date "2020-12-15T21:16:02Z"
+    title " LIVE: Dominion Voting CEO Testimony at Michigan Legislature Hearing"
+    description "December 15, 2020: Watch LIVE as John Poulos, the CEO of Dominion Voting Systems, testifies before a Michigan State Legislature hearing.&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCHqC-yWZ1kri4YzwRSt6RGQ/join&#10;&#10;&#128308;  Subscribe to RSBN for more LIVE streams and Breaking NEWS: http://bit.ly/2gDGbkh&#10;&#10;&#128308;  Donate to RSBN and help keep us on the air: http://rsbn.tv/donate&#10;&#10;&#128308;  Follow us on Twitter for breaking news updates: http://twitter.com/RSBNetwork&#10;&#10;&#128308;  Like us on Facebook for more live streams and updates: http://facebook.com/rightsidebroadcasting"
+    channeltitle "Right Side Broadcasting Network"
+    channelid "UCHqC-yWZ1kri4YzwRSt6RGQ"
     favcount 0
-    viewcount 143
-    likecount 1
-    commentcount 2
-    duration "PT15M53S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    viewcount 263483
+    likecount 7911
+    commentcount 934
+    duration "PT3H5M20S"
+    indegree 34
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 89
-    name "108"
+    id 108
     label "y62k3eFoMZc"
     step 0
     date "2020-11-09T04:51:31Z"
@@ -2512,21 +1729,12 @@ graph
     commentcount 4
     duration "PT6M38S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 90
-    name "109"
+    id 109
     label "augKOxUZWE8"
     step 0
     date "2021-04-01T05:31:26Z"
@@ -2540,21 +1748,12 @@ graph
     commentcount 18
     duration "PT2M37S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 91
-    name "110"
+    id 110
     label "8hKXl7KD2m0"
     step 0
     date "2021-09-26T00:59:02Z"
@@ -2568,21 +1767,12 @@ graph
     commentcount 0
     duration "PT2M43S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 92
-    name "111"
+    id 111
     label "ZegSmm9Jkmo"
     step 0
     date "2020-11-30T03:15:05Z"
@@ -2596,21 +1786,12 @@ graph
     commentcount 14
     duration "PT4M37S"
     indegree 10
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 93
-    name "112"
+    id 112
     label "saWPdEDa_R8"
     step 0
     date "2021-12-17T12:01:38Z"
@@ -2624,21 +1805,12 @@ graph
     commentcount 0
     duration "PT50S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 94
-    name "113"
+    id 113
     label "UhRBX9oYz1A"
     step 0
     date "2020-12-18T02:28:25Z"
@@ -2652,21 +1824,12 @@ graph
     commentcount 5
     duration "PT2M24S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 95
-    name "114"
+    id 114
     label "x0ARaJQQbas"
     step 0
     date "2020-11-15T13:21:13Z"
@@ -2680,49 +1843,31 @@ graph
     commentcount 8
     duration "PT2M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 96
-    name "115"
-    label "P5vwrzaQOUQ"
+    id 116
+    label "TffQa4KGeuo"
     step 0
-    date "2022-07-02T00:18:10Z"
-    title "Watch: Full Jan. 6 Committee Hearing - Day 5"
-    description "Watch MSNBC coverage of the fifth public January 6th House committee hearing investigating the Capitol riot.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#january6 #msnbc #FullHearing"
-    channeltitle "MSNBC"
-    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
+    date "2020-12-11T16:53:03Z"
+    title "Rip-Off Of The Week (2020), Ep. 24: Dominion Voting Systems Reaps Millions"
+    description "Just how much does it &#34;cost&#34; to run a modern election? Tune in for our deep dive into the Dominion Voting Systems.&#10;&#10;Learn more - read our investigation published at Forbes: https://bit.ly/DominionVotingSystems&#10;&#10;Thank you for watching! Please like, comment, share &#38; SUBSCRIBE for more great content.&#10;&#10;OpenTheBooks.com"
+    channeltitle "OpenTheBooks"
+    channelid "UCjK7gBT5Ub0Srl-6zZBnuRw"
     favcount 0
-    viewcount 672477
-    likecount 3604
-    commentcount 666
-    duration "PT2H27M14S"
-    indegree 5
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    viewcount 470
+    likecount 35
+    commentcount 7
+    duration "PT13M4S"
+    indegree 0
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 97
-    name "117"
+    id 117
     label "moDwlGWjGe8"
     step 0
     date "2020-11-15T09:16:12Z"
@@ -2736,21 +1881,12 @@ graph
     commentcount 1
     duration "PT8S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 98
-    name "118"
+    id 118
     label "igWKPlD5MiI"
     step 0
     date "2020-11-20T23:50:35Z"
@@ -2764,49 +1900,31 @@ graph
     commentcount 0
     duration "PT3M49S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 99
-    name "119"
-    label "40o4ONuR3mA"
-    step 0
-    date "2020-11-20T00:04:26Z"
-    title "DOMINION VOTING SYSTEMS"
-    description "#trump2020 #trump #maga #trumptrain #republicans #conservative #vote #voterfraud #stopthesteal #KeepTheFaith2020 #dominion #smartmatic #dominionvoting"
-    channeltitle "baddad_ 007"
-    channelid "UC_ZrFB4Df9wghXxo9mO70PQ"
-    favcount 0
-    viewcount 100
-    likecount 5
-    commentcount 0
-    duration "PT3M5S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 100
-    name "121"
+    id 120
+    label "N2b5Vh3KF4A"
+    step 0
+    date "2020-11-12T23:16:40Z"
+    title "Fact Check: Dominion Voting Systems Did NOT Delete 2.7 Million Trump Votes"
+    description "Read full story here: https://hoax-alert.leadstories.com/2020/11/fact-check-dominion-voting-systems-did-not-delete-2.7million-trump-votes.html&#10;&#10;FACT CHECK: DOMINION VOTING SYSTEMS DID NOT DELETE 2.7 MILLION TRUMP VOTES&#10;&#10;Does data analysis show that an election software supplier deleted 2.7 million Trump votes and switched 435,000 votes from Donald Trump to Joe Biden? No, that's not true. The states using Dominion Voting Systems software have reported that minor hiccups in the vote-tallying process were the result of user errors, were corrected by the bipartisan &#34;canvassing&#34; system and would not have changed the outcome in any state. The &#34;data analysis&#34; referred to is a string of internet posts for which no one accepts responsibility and the election data firm whose data an anonymous poster claims to have stolen dismisses the claim as a likely fabrication."
+    channeltitle "Lead Stories"
+    channelid "UCGrs9ygWWH8iccEQfM5uh_A"
+    favcount 0
+    viewcount 287
+    likecount 4
+    commentcount 16
+    duration "PT5M6S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 121
     label "mizD483gFxw"
     step 0
     date "2020-11-24T07:49:44Z"
@@ -2820,21 +1938,12 @@ graph
     commentcount 0
     duration "PT26M1S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 101
-    name "122"
+    id 122
     label "JaxisLq4krg"
     step 0
     date "2018-07-05T12:36:32Z"
@@ -2848,77 +1957,50 @@ graph
     commentcount 9
     duration "PT43M11S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 102
-    name "123"
-    label "pT_bX9rkqvg"
+    id 124
+    label "5qWt1wSUMLg"
     step 0
-    date "2021-02-11T01:50:57Z"
-    title "Defendants: Dominion Voting Systems, Facebook, Zuckerburg, and others"
-    description "Visit DominionClassAction.com to learn more about the lawsuit and join the class or support the cost of litigation. Many others are being added daily for the amended complaint."
-    channeltitle "Dominion Class Action"
-    channelid "UCMVVpNP8f_bFM_I17BY5fSQ"
+    date "2020-11-07T02:21:36Z"
+    title "Dominion Voting Systems election management system"
+    description ""
+    channeltitle "Kf4yjz"
+    channelid "UCS0tvSSDJMuWW7mUOFDG-kg"
     favcount 0
-    viewcount 135
-    likecount 18
-    commentcount 3
-    duration "PT1M52S"
+    viewcount 879
+    likecount 35
+    commentcount 8
+    duration "PT50S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 103
-    name "125"
-    label "DQDfAQo20k8"
+    id 126
+    label "HK8d3cUXMGc"
     step 0
-    date "2022-07-01T21:49:24Z"
-    title "Watch: Full Jan. 6 Committee Hearing - Day 1"
-    description "Watch MSNBC coverage of the first public January 6th House committee hearing investigating the Capitol riot.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;Watch: Full Jan. 6 Committee Hearing - Day 1&#10;&#10;#january6 #msnbc #FullHearing"
-    channeltitle "MSNBC"
-    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
+    date "2020-11-23T13:15:01Z"
+    title "Wait-for-the-facts update: Dominion Voting System edition"
+    description "ARTICLES:&#10;&#10;&#10;&#8220;Dominion Cancels Planned Appearance Before Pennsylvania Lawmakers&#8221;&#10;&#10;https://www.theepochtimes.com/dominion-cancels-planned-appearance-before-pennsylvania-lawmakers_3587425.html?utm_source=newsnoe&#38;utm_medium=email&#38;utm_campaign=breaking-2020-11-20-3&#10;&#10;&#10;&#10;MY MUSIC CHANNEL (as &#34;Gene Allan&#34;):&#10;&#10;https://bit.ly/2SEftre&#10;&#10;&#34;BEAUTIFUL AT NIGHT&#34;&#10;https://youtu.be/DsDhJpc0yro&#10;&#10;&#34;ON THE BALL&#34;&#10;https://youtu.be/UNlMnUVuVmE&#10;&#10;&#34;77 MOEBIUS STRIP&#34;&#10;&#10;https://youtu.be/8VrEw_8bhqI"
+    channeltitle "The Okay Boomer"
+    channelid "UCQMIdP-mge8obetLdIkvJwQ"
     favcount 0
-    viewcount 78748
-    likecount 718
-    commentcount 348
-    duration "PT1H53M12S"
-    indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    viewcount 22
+    likecount 2
+    commentcount 0
+    duration "PT9M57S"
+    indegree 2
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 104
-    name "127"
+    id 127
     label "6Z8cRXpuQDM"
     step 0
     date "2020-12-17T00:14:24Z"
@@ -2932,77 +2014,50 @@ graph
     commentcount 11
     duration "PT42S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 130
+    label "Q5FNKoQWDHE"
+    step 0
+    date "2020-11-13T03:47:57Z"
+    title "Dr Appel Testifies re: DOMINION VOTE TALLY MACHINE VULNERABILITIES before senate"
+    description "House Committee on ELECTION FRAUD.&#10;&#10;NOTE:&#10;When  an individual intentionally casts an illegal ballot [as] an individual , that's VOTER FRAUD.&#10;&#10;ELECTION FRAUD is when someone counting, transporting, storing, installing software, a mail carrier, or INTERFERING WITH LEGAL OVERSIGHT occurs (etc)."
+    channeltitle "TrumanHW"
+    channelid "UCoMK7Z-wEeRFepy_tsjswGQ"
+    favcount 0
+    viewcount 817
+    likecount 29
+    commentcount 13
+    duration "PT5M37S"
+    indegree 6
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 105
-    name "128"
-    label "guS4-iShCNQ"
+    id 134
+    label "0muLhWNJVjQ"
     step 0
-    date "2020-11-20T09:22:53Z"
-    title "Dominion Voting Software Robot keeps elections safe in Detroit"
-    description "Trump 2020 claims election fraud but with the new AI systems in place at Dominion  all Americans should know that they can count on honesty and integrity in their elections"
-    channeltitle "abowden500"
-    channelid "UCG8uBdLpZbCxZJzk5ApASjQ"
+    date "2020-12-07T23:56:08Z"
+    title "Fact Check: Dominion Voting Machine Algorithm Was NOT ..."
+    description "Read full story here: https://hoax-alert.leadstories.com/2020/12/fact-check-dominion-voting-machine-algorithm-not-broken-by-test-run-on-sequestered-machine-in-georgia.html&#10;&#10;FACT CHECK: DOMINION VOTING MACHINE ALGORITHM WAS NOT 'BROKEN' BY TEST RUN ON 'SEQUESTERED' MACHINES IN GEORGIA&#10;&#10;Did a test run using Dominion voting machines &#34;sequestered&#34; in Ware County, Georgia, reveal that an algorithm secretly gave Biden 26% extra votes? No, that's not true: The chief election officer in Ware County told Lead Stories the claim is &#34;100% fake.&#34; No machines were sequestered and no test run was conducted, Elections Supervisor Carlos Nelson said. A high-ranking official with the Georgia secretary of state's office also confirmed to Lead Stories it was false. Lead Stories previously debunked the claim that &#34;Trump Team&#34; had seized Ware County machines for testing. The apparent main source of this claim said he heard it from a woman who told him she heard it from a friend and did not know where her friend heard it."
+    channeltitle "Lead Stories"
+    channelid "UCGrs9ygWWH8iccEQfM5uh_A"
     favcount 0
-    viewcount 163
-    likecount 5
-    commentcount 3
-    duration "PT55S"
-    indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    viewcount 236
+    likecount 0
+    commentcount 5
+    duration "PT3M38S"
+    indegree 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 106
-    name "131"
-    label "ryEwPqRMFXU"
-    step 0
-    date "2022-07-08T18:00:31Z"
-    title "Vegan Fail to...?"
-    description "From vegan fail to full time activist. Yuri spends most of his time living out of his van as he travels doing activism as Southeast Outreach Coordinator for Vegan Outreach.Yuri shares some of his struggles initially trying to go vegan in 2007 to finally to finding his way in 2008 and evolving into a nomadic advocate living out of a van doing all he can to help change the world.&#10;&#10;This video was brought to you by VeganLinked. If you like our work and want to help us keep the cameras rolling considering contributing here: https://veganlinked.com/fundme/&#10;&#10;For more awesome vegans check out our playlist &#34;Vegan Stories, Insights &#38; Perspectives&#34; https://youtube.com/playlist?list=PLmSzj4R9w2MC2b0L_07bRyphvPsxcz7Px&#10;&#10;To experience 50 different influential vegan authors get the book &#34;Vegan Voices&#34;! Purchase through our affiliate link here https://amzn.to/2Z6wBwe"
-    channeltitle "Vegan Linked"
-    channelid "UCt0cYZjanDigkRRlScvrxWg"
-    favcount 0
-    viewcount 2440
-    likecount 117
-    commentcount 15
-    duration "PT1H2M6S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 107
-    name "135"
+    id 135
     label "L86lAdEGQ0U"
     step 0
     date "2020-11-17T04:38:41Z"
@@ -3016,21 +2071,12 @@ graph
     commentcount 0
     duration "PT2M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 108
-    name "136"
+    id 136
     label "npRzgcUqVfQ"
     step 0
     date "2020-12-26T21:55:33Z"
@@ -3044,21 +2090,12 @@ graph
     commentcount 4
     duration "PT8M12S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 109
-    name "137"
+    id 137
     label "mhT4LEcSqnU"
     step 0
     date "2022-04-18T22:09:23Z"
@@ -3072,21 +2109,12 @@ graph
     commentcount 0
     duration "PT42S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 110
-    name "138"
+    id 138
     label "md7i1YZ9Puo"
     step 0
     date "2020-12-22T20:55:13Z"
@@ -3100,21 +2128,12 @@ graph
     commentcount 519
     duration "PT1M50S"
     indegree 7
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 111
-    name "139"
+    id 139
     label "Co91BdP_G_o"
     step 0
     date "2022-03-30T19:58:43Z"
@@ -3128,105 +2147,69 @@ graph
     commentcount 3
     duration "PT1M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 112
-    name "140"
-    label "-88fOpUQw_A"
-    step 0
-    date "2022-07-03T14:00:00Z"
-    title "2020 Election Denier Loses Her Own Election"
-    description "Colorado GOP gubernatorial candidate tina peters want you to get out and vote! Jayar Jackson and Farron Cousins break it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;Read more HERE: https://www.thedailybeast.com/mesa-county-clerk-tina-peter-loses-race-for-colorado-secretary-of-state&#10;&#34;Tina Peters, the Colorado county clerk who flogged election conspiracy theories and was then indicted for allegedly breaching her own voting machines, lost her primary bid to become the secretary of state.&#10;&#10;And then she did exactly what you would expect: She denied she lost, cried fraud, and vowed to keep fighting.&#34;&#10;*** &#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://youtube.com/watchlisttyt&#10;FACEBOOK: &#9758; http://www.facebook.com/watchlisttyt&#10;TWITTER: &#9758; https://twitter.com/watchlisttyt&#10;INSTAGRAM: &#9758; https://instagram.com/watchlisttyt&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#10; Merch: http://shoptyt.com&#10;&#10; Donate: http://www.tyt.com/go&#10;&#10; Website: https://www.tyt.com&#10;&#10;App: http://www.tyt.com/app&#10;&#10; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;Indisputable  https://www.youtube.com/indisputabletyt&#10;&#10;The Young Turks  https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report  https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports  https://www.youtube.com/tytsports&#10;&#10;The Conversation  https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ  https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates  https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;#TYT #TheWatchlist #JayarJackson&#10;&#10;&#10;220629__WL06_Election_Denier_Tina"
-    channeltitle "WatchlistTYT"
-    channelid "UCdUdP5BeOsua_j3u-0ZbL5w"
-    favcount 0
-    viewcount 5483
-    likecount 540
-    commentcount 79
-    duration "PT6M7S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 113
-    name "142"
-    label "VxbrlCzthec"
+    id 141
+    label "ckH0RDVueo4"
     step 0
-    date "2021-02-02T22:36:06Z"
-    title "Fact Check: Myanmar Did NOT Use Dominion Voting Systems In Its Election Before Military Coup"
-    description "Read full story here: https://hoax-alert.leadstories.com/2021/02/fact-check-myanmar-did-not-use-dominion-voting-systems--in-election-before-military-coup.html&#10;&#10;FACT CHECK: MYANMAR DID NOT USE DOMINION VOTING SYSTEMS IN ITS ELECTION BEFORE MILITARY COUP&#10;&#10;Did Myanmar use Dominion Voting Systems to calculate election results prior to the military coup in that country? No, that's not true: A Dominion spokesperson told Lead Stories that they &#34;do not have systems in Myanmar, and never have.&#34;"
-    channeltitle "Lead Stories"
-    channelid "UCGrs9ygWWH8iccEQfM5uh_A"
+    date "2020-11-28T18:16:39Z"
+    title "Smartmatic AKA Dominion Voting Systems rigged the Venezuela election in 2004; Sound Familiar?"
+    description "#belcherman #games #comedy &#10;Description: Smartmatic AKA Dominion Voting Systems rigged the Venezuela election in 2004. Here is CNN actauly doing a story on it; imagine that?&#10;FACEBOOK group: Belching Toad Clan: http://BTCgroup.mbdevpro.com&#10;YOUTUBE channel: Belching Toad Clan: http://BTCyoutube.mbdevpro.com&#10;TWITCH.TV: https://www.twitch.tv/belchingtoadclan&#10;WEBSITE: http://www.BelchingToadProductions.com&#10;&#10;&#10;******* MORE SOCIAL MEDIA *******&#10;FACEBOOK GROUPS:&#10;BelchingToadClan http://BTCgroup.mbdevpro.com&#10;Driving Around The World http://DATWgroup.mbdevpro.com&#10;VIDEO Recording, Editing, Producing, Publishing: http://Vgroup.mbdevpro.com&#10;MBDEVpro: Games, Science, &#38; Technology http://GSTgroup.mbdevpro.com&#10;The Body Human: Health, Fitness, &#38; Science: http://TBHHFSgroup.mbdevpro.com&#10;Shrewsbury, Pennsylvania: http://ShrewsburyPA.mbdevpro.com&#10;Baltimore, Maryland: http://BaltimoreMD.mbdevpro.com&#10;&#10;&#10;YOUTUBE CHANNELS:&#10;Driving Around The World: http://DATWyoutube.mbdevpro.com&#10;MBDEVpro: Games, Science, &#38; Technology: http://GSTyoutube.mbdevpro.com&#10;Belcherman: http://BTCyoutube.mbdevpro.com"
+    channeltitle "belcherman"
+    channelid "UC7TJKOOxyelIP4DR6eF5P3Q"
     favcount 0
-    viewcount 109
-    likecount 1
-    commentcount 3
-    duration "PT1M51S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 114
-    name "145"
-    label "P7tta7OKJSk"
-    step 0
-    date "2020-12-31T22:49:07Z"
-    title "voting system dominion"
-    description "&#12458;&#12503;&#12471;&#12519;&#12531;&#12391;&#12288;&#12527;&#12452;&#12516;&#12524;&#12473;&#20253;&#36865;&#12391;&#12365;&#12427;&#12392;&#26360;&#12356;&#12390;&#12354;&#12426;&#12414;&#12377;&#12290;"
-    channeltitle "tomrt834"
-    channelid "UCeveuTkeCD4MjjnaYOvZfVQ"
-    favcount 0
-    viewcount 19
-    likecount 0
+    viewcount 421
+    likecount 21
     commentcount 0
-    duration "PT1M5S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    duration "PT4M26S"
+    indegree 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 115
-    name "147"
+    id 144
+    label "fF4ZbTvyjbg"
+    step 0
+    date "2020-11-19T02:11:54Z"
+    title "LEAKED Dominion Voting Systems Training Videos (11/18/2020)"
+    description "These are Dominion Voting Systems training videos from a non-public source, which show how votes in the 2020 election were counted. These clips were originally posted by Kyle Becker on Twitter."
+    channeltitle "Stop The Steal"
+    channelid "UCGyQZjAIxKUZHf23hetag6Q"
+    favcount 0
+    viewcount 507
+    likecount 15
+    commentcount 5
+    duration "PT13M23S"
+    indegree 0
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 146
+    label "2vmrvyMeLmE"
+    step 0
+    date "2020-11-11T20:52:17Z"
+    title "Dominion Admits it Uses Chinese Components in Voting Machines"
+    description "Dominion Admits it Uses Chinese Components in Voting Machines"
+    channeltitle "Catholics 4 Trump"
+    channelid "UCvWM6kqzHJZWlUyg0NecB8w"
+    favcount 0
+    viewcount 1176
+    likecount 19
+    commentcount 0
+    duration "PT57S"
+    indegree 0
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 147
     label "ami4y706qvU"
     step 0
     date "2020-11-20T15:23:48Z"
@@ -3240,21 +2223,12 @@ graph
     commentcount 12
     duration "PT12M48S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 116
-    name "148"
+    id 148
     label "UxtSSbXiYng"
     step 0
     date "2020-12-18T20:39:50Z"
@@ -3268,21 +2242,12 @@ graph
     commentcount 2
     duration "PT7M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 117
-    name "149"
+    id 149
     label "89Q8OK6p9aE"
     step 0
     date "2020-11-19T06:27:53Z"
@@ -3296,21 +2261,12 @@ graph
     commentcount 0
     duration "PT3H10M31S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 118
-    name "150"
+    id 150
     label "YtqIpWMezGw"
     step 0
     date "2021-02-23T00:32:43Z"
@@ -3324,21 +2280,12 @@ graph
     commentcount 6
     duration "PT9M15S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 119
-    name "151"
+    id 151
     label "b4dLYd2E-_c"
     step 0
     date "2020-11-30T02:01:01Z"
@@ -3352,21 +2299,12 @@ graph
     commentcount 0
     duration "PT2M20S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 120
-    name "152"
+    id 152
     label "BbCmq0jPUxY"
     step 0
     date "2016-08-30T18:56:48Z"
@@ -3380,49 +2318,31 @@ graph
     commentcount 547
     duration "PT8M24S"
     indegree 14
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 121
-    name "153"
-    label "phH2lTDAN9o"
+    id 155
+    label "nYd9EkZadDw"
     step 0
-    date "2021-03-26T15:01:22Z"
-    title "OUCH! Dominion Voting Systems sue Fox News for $1.6 Billion Dollars - Fox in a Legal hole"
-    description "OUCH! Dominion Voting Systems sue Fox News for $1.3 Billion Dollars - Fox in aLegal hole"
-    channeltitle "Tony Dortie - 24/7 Eyes"
-    channelid "UCRPdcY4_Al8TrRtgkMzkrQQ"
+    date "2020-11-20T04:09:05Z"
+    title "1/09/20: John Poulos- President and CEO of Dominion Voting Software During House Committee Hearing"
+    description "January 9, 2020: &#10;&#10;John Poulos-&#10;&#10;President and CEO of &#10;Dominion Voting Software &#10;&#10;I put together testimonials from Dominion President John Poulos as he was asked to respond accurately and accordingly to any and all questions asked by the House Committee regarding a hearing into the New Voting Systems looking to be put in place before the 2020 Presidential Election, and the overall security of said software.&#10;I apologize for the length of the video. It&#8217;s the best I could do project wise. &#10;It&#8217;s well worth the watch. &#10;&#10;#dominion #dominionvotingsystems #housecommittee #presidentialelections #votingsystems #johnpoulos #usa #america #government #elections"
+    channeltitle "TSM The Silent Majority"
+    channelid "UCnZEfugv3C62QFSELN55OCg"
     favcount 0
-    viewcount 4587
-    likecount 224
-    commentcount 47
-    duration "PT13M11S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    viewcount 347
+    likecount 6
+    commentcount 2
+    duration "PT19M8S"
+    indegree 3
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 122
-    name "156"
+    id 156
     label "OR3UMT2ZSjY"
     step 0
     date "2020-11-12T22:11:29Z"
@@ -3436,49 +2356,31 @@ graph
     commentcount 0
     duration "PT3M10S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 123
-    name "157"
-    label "oou9INxAcA8"
-    step 0
-    date "2021-08-22T01:37:45Z"
-    title "Dominion Voting Systems MAJOR WIN in Defamation Lawsuit | Dominion v My Pilliow"
-    description "#DominionVoting #Mypillow #MikeLindell&#10;&#10;Dominion vs Rudy Giuliani, Sidney Powell, and Mike Lindell&#10;Defamation Lawsuit&#10;&#10;Dominion Voting Systems lawsuit will go forward after Judge denied a motion to dismiss. &#10;&#10;Join me on the journey to 1 Million Subscribers.&#10;&#10;Locals: https://natethelawyer.locals.com/&#10;&#10;Join the Channel&#10;https://www.youtube.com/channel/UCD5_...&#10;&#10;Paypal&#10;https://www.paypal.me/BroadyLaw&#10;&#10;Consider Becoming a Patreon: &#10;https://www.patreon.com/NateBroady&#10;&#10;Join the Broady Bunch&#10;https://www.youtube.com/channel/UCD5_...&#10;&#10;Non -Subscriber SPECIAL Link&#10;https://www.youtube.com/channel/UCD5_...&#10;&#10;DON'T' FORGET TO LIKE, SUBSCRIBE, COMMENT AND SHARE!!!&#10;&#10;Holla at me on - &#10;Twitter : https://twitter.com/NateTheLawyer&#10;Facebook: https://www.facebook.com/nate.broady.946"
-    channeltitle "Nate The Lawyer"
-    channelid "UCD5_QIM67BZJdh9AwZv3soA"
-    favcount 0
-    viewcount 12830
-    likecount 730
-    commentcount 363
-    duration "PT9M"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 124
-    name "159"
+    id 158
+    label "cfglyweLjqc"
+    step 0
+    date "2020-11-09T22:28:17Z"
+    title "Pelosi Sr Advisor = Lobbyist for Clinton favored controversial Dominion Voting Systems"
+    description ""
+    channeltitle "John S"
+    channelid "UC29rLmTwiwJpZ3iXwHFz5Nw"
+    favcount 0
+    viewcount 849
+    likecount 31
+    commentcount 3
+    duration "PT3M33S"
+    indegree 1
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 159
     label "8au6UGaO7zs"
     step 0
     date "2020-12-04T21:38:04Z"
@@ -3492,21 +2394,12 @@ graph
     commentcount 11
     duration "PT12M3S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 125
-    name "160"
+    id 160
     label "BQ0LBdheupI"
     step 0
     date "2020-12-30T14:10:27Z"
@@ -3520,49 +2413,31 @@ graph
     commentcount 3
     duration "PT1H4M41S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 126
-    name "161"
-    label "7xgiSjwlWL8"
+    id 162
+    label "tNnl5ol3P2g"
     step 0
-    date "2020-12-02T02:00:23Z"
-    title "Dominion Voting Democracy Suite Reporting Training Video"
-    description "Parler: @GKChesterton&#10;Twitter: @GKCinspiredCSL &#10;Other Socials / Secret Twitter: https://linktr.ee/GKChesterton&#10;&#10;https://www.dominionvoting.com/training/rtr/index.html#&#10;&#10;https://twitter.com/graphiccons/status/1333928101215133697?s=20"
-    channeltitle "Chester Belloc"
-    channelid "UC7rM5xHQmYfP65E6f1wrG3A"
+    date "2020-12-15T21:19:24Z"
+    title "LIVE: Dominion Voting CEO Testimony at Michigan Legislature Hearing"
+    description "Stream via RSBN. Subscribe to RSBN: http://bit.ly/2gDGbkh&#10;&#10;LIVE: Dominion Voting CEO Testimony at Michigan Legislature Hearing"
+    channeltitle "Diamond and Silk - The Viewers View"
+    channelid "UCug1cL7vmUvYooOjXyHjsxQ"
     favcount 0
-    viewcount 120
-    likecount 7
-    commentcount 3
-    duration "PT18M13S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    viewcount 13222
+    likecount 883
+    commentcount 135
+    duration "PT3H4M29S"
+    indegree 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 127
-    name "163"
+    id 163
     label "DiBqdzs1shY"
     step 0
     date "2020-12-01T20:31:02Z"
@@ -3576,21 +2451,12 @@ graph
     commentcount 0
     duration "PT17M38S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 128
-    name "164"
+    id 164
     label "8Up73bFTsQg"
     step 0
     date "2021-07-19T22:25:58Z"
@@ -3604,21 +2470,12 @@ graph
     commentcount 18
     duration "PT1M31S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 129
-    name "165"
+    id 165
     label "AjPCOim0jgI"
     step 0
     date "2020-11-23T10:09:38Z"
@@ -3632,21 +2489,12 @@ graph
     commentcount 5
     duration "PT9M3S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 130
-    name "166"
+    id 166
     label "G_aSatgbsM8"
     step 0
     date "2020-11-21T02:08:17Z"
@@ -3660,21 +2508,12 @@ graph
     commentcount 47
     duration "PT2M51S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 131
-    name "167"
+    id 167
     label "H4MvbmSoSw8"
     step 0
     date "2020-11-30T17:18:10Z"
@@ -3688,21 +2527,12 @@ graph
     commentcount 0
     duration "PT4M18S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 132
-    name "168"
+    id 168
     label "HUNeozupEf4"
     step 0
     date "2020-12-16T18:30:02Z"
@@ -3716,49 +2546,31 @@ graph
     commentcount 214
     duration "PT19M"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 133
-    name "169"
-    label "fvXGmwVVQeM"
+    id 170
+    label "Sq81MXCmcMs"
     step 0
-    date "2020-11-21T20:08:26Z"
-    title "Chicago Election / Dominion Voter Systems Open / Remote access to U.S. Elections. (election fraud.)"
+    date "2020-11-14T14:38:28Z"
+    title "PBS investigates Dominion Voting Systems in GA finding huge lack of software security."
     description ""
-    channeltitle "&#201;tienne Breaux"
-    channelid "UCIzJnL-CCJcJ-BgLRBJEMJg"
+    channeltitle "Ian Pointer"
+    channelid "UCsDsnDA-u_nVoWW9ludaf-w"
     favcount 0
-    viewcount 68
-    likecount 0
-    commentcount 0
-    duration "PT35M21S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    viewcount 1389
+    likecount 31
+    commentcount 2
+    duration "PT2M15S"
+    indegree 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 134
-    name "171"
+    id 171
     label "wWvj-6OJRtw"
     step 0
     date "2020-11-21T17:00:30Z"
@@ -3772,21 +2584,12 @@ graph
     commentcount 0
     duration "PT49M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 135
-    name "172"
+    id 172
     label "t1TpR53yPHU"
     step 0
     date "2020-11-27T00:15:26Z"
@@ -3800,49 +2603,31 @@ graph
     commentcount 32
     duration "PT8M32S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 136
-    name "173"
-    label "8YI5hGucHSg"
-    step 0
-    date "2022-07-08T06:02:54Z"
-    title "Canadian Citizenship Test 2022 (414 Questions)"
-    description "This video is designed to help you prepare for and pass your Canadian Citizenship Test in 2022.&#10;&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#10;Happy Life by FREDJI https://soundcloud.com/fredjimusic&#10;https://www.facebook.com/fredjimusic&#10;Music promoted by Audio Library https://youtu.be/u4PI5p5bI9k&#10;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;"
-    channeltitle "Immigration Canada"
-    channelid "UCQE8zXWHTeZiNmly4ZWszbQ"
-    favcount 0
-    viewcount 2486
-    likecount 35
-    commentcount 5
-    duration "PT3H4M1S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 137
-    name "175"
+    id 174
+    label "jJSKCHNsmfI"
+    step 0
+    date "2020-11-18T16:40:15Z"
+    title "Democrats Complain About Dominion Voting Systems Fraud"
+    description "I'm old enough to remember when it was the Democrats crying foul about Dominion Voting Systems being used for fraud in 2016 and other US election."
+    channeltitle "faqtually"
+    channelid "UCZ1pFMEK6pl1XiN6oOkeFFA"
+    favcount 0
+    viewcount 822
+    likecount 7
+    commentcount 1
+    duration "PT1M15S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 175
     label "MjUNVO2Whkw"
     step 0
     date "2020-11-15T12:14:52Z"
@@ -3856,21 +2641,12 @@ graph
     commentcount 0
     duration "PT1M3S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 138
-    name "176"
+    id 176
     label "3sUyFLWT3Y8"
     step 0
     date "2020-11-19T20:08:29Z"
@@ -3884,21 +2660,12 @@ graph
     commentcount 399
     duration "PT1H4M9S"
     indegree 16
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 139
-    name "177"
+    id 177
     label "mX4KbcGt-Us"
     step 0
     date "2021-05-10T23:00:15Z"
@@ -3912,21 +2679,12 @@ graph
     commentcount 7
     duration "PT7M8S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 140
-    name "178"
+    id 178
     label "8gkwiUcqMzg"
     step 0
     date "2020-12-15T02:22:46Z"
@@ -3940,21 +2698,12 @@ graph
     commentcount 3
     duration "PT12M19S"
     indegree 8
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 141
-    name "179"
+    id 179
     label "Oui5_FnaZBc"
     step 0
     date "2020-12-17T10:00:16Z"
@@ -3968,21 +2717,12 @@ graph
     commentcount 0
     duration "PT23M34S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 142
-    name "180"
+    id 180
     label "qMED6Y_wCIw"
     step 0
     date "2020-11-20T18:08:02Z"
@@ -3996,21 +2736,12 @@ graph
     commentcount 5
     duration "PT6M45S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 143
-    name "181"
+    id 181
     label "5jPkQc_NXLQ"
     step 0
     date "2020-11-08T21:13:35Z"
@@ -4024,21 +2755,12 @@ graph
     commentcount 2
     duration "PT1M58S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 144
-    name "182"
+    id 182
     label "34CEjFwz6rQ"
     step 0
     date "2020-11-13T04:43:59Z"
@@ -4052,21 +2774,12 @@ graph
     commentcount 2
     duration "PT2M15S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 145
-    name "183"
+    id 183
     label "ik7SxHGA4PY"
     step 0
     date "2020-12-22T12:28:13Z"
@@ -4080,49 +2793,31 @@ graph
     commentcount 8
     duration "PT14M47S"
     indegree 10
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 146
-    name "184"
-    label "stTKMtKTVxc"
+    id 185
+    label "nhjwWyvuKvY"
     step 0
-    date "2020-11-22T17:12:54Z"
-    title "The Anatomy of a Lie | How the Right Became Obsessed with Dominion Voting Systems"
-    description "I&#8217;ve spent the last week on various social media platforms exploring the dominant theories among Trump voters for how the election was rigged against him, and one particularly persistent theory has caught my attention. Before this year&#8217;s election, you&#8217;d probably only heard of Dominion Voting Systems if you&#8217;re a regular watcher of John Oliver or reader of white papers of voting, but all of that changed on November 12th when Trump tweeted the lie that Dominion Voting Systems had fraudulently switched millions of votes for himself to Joe Biden, costing him the election. Now, I can&#8217;t talk to a single Trump voter without them asserting as truth that Dominion swung the election despite there being absolutely no evidence for this, much less proof. This made me curious. How does such a broad population of people all come to believe the same flimsy lie so quickly? &#10;&#10;https://apnews.com/article/election-2020-joe-biden-us-news-media-michigan-43bdaa186e3b8d9d897cae3bd0c6cdc0&#10;&#10;https://apnews.com/article/joe-biden-donald-trump-technology-voting-michigan-6beeef230376e75252d6eaa91db3f88f&#10;&#10;https://www.nytimes.com/2020/11/11/technology/no-dominion-voting-machines-did-not-delete-trump-votes.html&#10;&#10;https://www.usatoday.com/story/news/factcheck/2020/11/14/fact-check-dominion-voting-machines-didnt-delete-switch-votes/6282157002/&#10;&#10;https://www.businessinsider.com/trumps-lawyer-claims-without-evidence-won-millions-of-votes-2020-11&#10;&#10;https://www.insider.com/trump-tweets-out-fake-voting-claim-right-after-oan-segment-2020-11&#10;&#10;https://en.wikipedia.org/wiki/One_America_News_Network&#10;&#10;https://www.theverge.com/2020/10/5/21499009/harvard-berkman-klein-center-paper-voting-misinformation-trump-tweets-media-framing&#10;&#10;https://cyber.harvard.edu/publication/2020/Mail-in-Voter-Fraud-Disinformation-2020&#10;&#10;https://www.washingtonpost.com/national-security/trump-fires-dhs-election-official/2020/11/17/97d3fa5c-251c-11eb-952e-0c475972cfc0_story.html&#10;&#10;https://www.npr.org/2020/09/29/917747123/you-literally-cant-believe-the-facts-tucker-carlson-tells-you-so-say-fox-s-lawye&#10;&#10;https://www.cisa.gov/news/2020/11/12/joint-statement-elections-infrastructure-government-coordinating-council-election"
-    channeltitle "Gerard LeConte"
-    channelid "UCQWe8KpgNrUIqoQ797pcQWw"
+    date "2021-08-11T02:12:55Z"
+    title "Dominion Voting Systems lawsuit  witness"
+    description "Today Axios is reporting that Dominion Voting Systems filed a lawsuit against conservative media outlets Newsmax, OAN News Network as well as Rudy Giuliani and others claiming defamation.&#10;&#10;Dominion has been one of the most maligned companies in America- maligned by the conservative media, maligned by republican lawmakers, maligned by the president and all his men in a vast media eco system that perpetuated and reinforced the lies in an effort to overturn the last election. What Republicans did to Dominion to promote their fraud is inexcusable- Dominion hasn't done anything wrong and is now fighting back to protect their reputation. In that lawsuit, there's a nugget that details a so-called 'expert witness' that OAN used to promote the theory of Dominion election fraud that you may find interesting.."
+    channeltitle "Rusted Culture Podcast"
+    channelid "UC1HeQkbta9C17sNZPrE3yBQ"
     favcount 0
-    viewcount 82
-    likecount 11
-    commentcount 36
-    duration "PT12M34S"
+    viewcount 107
+    likecount 9
+    commentcount 8
+    duration "PT8M32S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 147
-    name "186"
+    id 186
     label "7cIktf7_Izo"
     step 0
     date "2020-12-08T21:50:19Z"
@@ -4136,21 +2831,12 @@ graph
     commentcount 2
     duration "PT13M49S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 148
-    name "187"
+    id 187
     label "E0OVMCU8rnA"
     step 0
     date "2020-11-07T16:59:40Z"
@@ -4164,21 +2850,12 @@ graph
     commentcount 61
     duration "PT1M"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 149
-    name "188"
+    id 188
     label "WAdJAxLAJjE"
     step 0
     date "2020-11-12T21:21:43Z"
@@ -4192,21 +2869,12 @@ graph
     commentcount 6
     duration "PT26M45S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 150
-    name "189"
+    id 189
     label "PR66TN-Mlig"
     step 0
     date "2022-01-18T19:28:19Z"
@@ -4220,49 +2888,31 @@ graph
     commentcount 2
     duration "PT1M40S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 151
-    name "190"
-    label "gnTOecbEy0U"
+    id 191
+    label "ZzvOBHnoyGs"
     step 0
-    date "2022-07-05T02:44:16Z"
-    title "1. Indian Polity | General studies for AAI ATC JE Exam preparation | General studies for AAI ATC JE"
-    description "1. Indian Polity | General studies for AAI ATC JE Exam preparation | General studies for AAI ATC JE&#10;Airport Authority of India announces 400 vacancies for junior Executive Air Traffic Control | All Graduates with Physics &#38; Maths is eligible | YourPedia starting the preparation module for the same AAI JE ATC Written. preparation. 50% Topics &#38; 90% weightage of these topics of Physics &#38; Mathematics | AAI ATC JE Exam preparation&#10;&#10;Interested fill google form: https://forms.gle/KBXvgfHryiva7yek8&#10;&#10;#AAI_ATC_JE_Exam_Preparation&#10;#AAI_JE_ATC_Preparation&#10;#AAI_ATC_JE_General_studies&#10;&#10;For more educational video such as preparation strategy for entrance exam or motivational videos, make sure you SUBSCRIBE our channel and click on bell icon for future updates.&#10;______________________________&#10;Check out our website:&#10;https://www.yourpedia.in/&#10;______________________________&#10;YourPedia Mock Interview GD GT Channel &#8211;&#10;https://www.youtube.com/channel/UCc5I2-ufNOnPmrwFQKwpeig&#10;YourPedia Jobs Update &#38; Preparation Channel - https://www.youtube.com/channel/UCltheKNKEczg5eKWbVCouig&#10;______________________________&#10;Follow Us On&#10;Facebook:- https://www.facebook.com/Yourpedia/&#10;Telegram:-https://t.me/yourpedia&#10;Telegram(Job Notification): -https://t.me/yourpediajob&#10;Telegram (CIVIL &#38; ES GATE Preparation): &#10;Instagram: -https://www.instagram.com/yourpedia/&#10;___________________________&#10;POST GATE COUNSELLING Playlist:&#10;https://www.youtube.com/watch?v=VdtCjic2_s0&#38;list=PLLtWVVE-awYjhkfbnzroDLQAaYIg15IqI&#10;Inspirational Videos of Selected Students:&#10;https://www.youtube.com/watch?v=OjiDkQ-izi0&#38;list=PLLtWVVE-awYhDs3PtnIDthNjGYbqw6d4M&#10;Environmental Science &#38; Engineering GATE Preparation:&#10;https://www.youtube.com/watch?v=JYT6Zf72P24&#38;list=PLLtWVVE-awYhF-_oZtvpJcOVyCT9BSIXy&#10;YourPedia Selections:&#10;https://www.youtube.com/watch?v=YdtC9Bb_ffA&#38;list=PLLtWVVE-awYiI9K4tCQ0a4uHhTqD4R86w&#10;Foreign Admissions (Dream Big Series):&#10;https://www.youtube.com/watch?v=Vl1276SNTSo&#38;list=PLLtWVVE-awYhYrILSo5YDSeSRW-D3rmr_&#10;=====================&#10;Interview Questions for IIT(MTech/MS/Direct PhD)/PSU/Campus Placement-Production&#10;https://www.youtube.com/playlist?list=PLLtWVVE-awYiy0j7bEMdVpawD7DelpXBj&#10;Interview Questions for IIT(MTech/MS/Direct PhD)/PSU/Campus Placement-FM&#10;https://www.youtube.com/playlist?list=PLLtWVVE-awYj4O8iL6KHDjoDWK5TQVubl&#10;Interview Questions for IIT(MTech/MS/DirectPhD)/PSU/Campus Placement-THERMODYNAMICS&#10;https://www.youtube.com/playlist?list=PLLtWVVE-awYgA5WJHslKKklbY7jMxeM9S&#10;Interview Questions for IIT(MTech/MS/Direct PhD)/PSU/Campus Placement-SOM&#10;https://www.youtube.com/playlist?list=PLLtWVVE-awYgLBkZ1GFgiFPzhJw-Yc_r3&#10;===========================================================&#10;For any Details or Guidance feel FREE to call us at 9855273076"
-    channeltitle "Yourpedia Education"
-    channelid "UC4ZfW_-pmfjkkZciu5BFzNA"
+    date "2020-12-03T23:15:13Z"
+    title "Antonio Mujica n Smartmatic Dominion voting machines"
+    description ""
+    channeltitle "CHaettig"
+    channelid "UCYhUqfiDTvV2rH7RTQRUNbQ"
     favcount 0
-    viewcount 2551
-    likecount 134
-    commentcount 9
-    duration "PT1H36M45S"
+    viewcount 42
+    likecount 0
+    commentcount 0
+    duration "PT2M20S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 152
-    name "192"
+    id 192
     label "qaqGHxjGleI"
     step 0
     date "2021-01-27T03:42:38Z"
@@ -4276,49 +2926,31 @@ graph
     commentcount 1
     duration "PT1M21S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 197
+    label "HB39LLaOCgM"
+    step 0
+    date "2020-11-14T19:06:39Z"
+    title "Dominion Voting systems and their issues, also Voting fraud reported by one of their employees "
+    description "Pre election concerns and  employee witnesses' voting fraud. #MAGA #Biden #2020election&#10;&#10;News articles&#10;https://www.theepochtimes.com/pre-election-concerns-over-dominion-voting-systems-highlighted-in-georgia-lawsuit_3576863.html&#10;&#10;https://www.ntd.com/a-closer-look-at-dominion-voting-systems_526302.html&#10;&#10;https://www.theepochtimes.com/dominion-contractor-says-she-witnessed-fraudulent-actions-in-detroit-during-ballot-counting_3576395.html"
+    channeltitle "Stop Black On Black Oppression"
+    channelid "UCXrf7vgaL_uNYhu4X3hclQQ"
+    favcount 0
+    viewcount 148
+    likecount 17
+    commentcount 8
+    duration "PT12M52S"
+    indegree 0
+    sentiment 1
     cluster 8
   ]
   node
   [
-    id 153
-    name "193"
-    label "5PtbMLA6cfM"
-    step 0
-    date "2020-11-12T19:48:48Z"
-    title "Dominion Voting Systems (2016-Fox) - Demonstrating How Easy it is to Hack Dominion and Switch Votes"
-    description "A broadcast from 2016 demonstrates how easy it is to switch votes over from one candidate to another by hacking Dominion voting systems.   These are the same systems at work in the U.S. 2020 election swing states."
-    channeltitle "Virtual Martini"
-    channelid "UCnjYrTeKnysGAhOoRIFcieQ"
-    favcount 0
-    viewcount 942
-    likecount 73
-    commentcount 9
-    duration "PT1M44S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 154
-    name "198"
+    id 198
     label "nfkPJYWiUrg"
     step 0
     date "2020-11-19T18:03:55Z"
@@ -4332,21 +2964,12 @@ graph
     commentcount 6
     duration "PT1M40S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 155
-    name "199"
+    id 199
     label "639OF1EodAA"
     step 0
     date "2020-11-16T16:51:34Z"
@@ -4360,21 +2983,12 @@ graph
     commentcount 471
     duration "PT4M38S"
     indegree 11
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 156
-    name "200"
+    id 200
     label "XmMD_1KBCIo"
     step 0
     date "2020-11-11T23:00:10Z"
@@ -4388,21 +3002,12 @@ graph
     commentcount 176
     duration "PT22M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 157
-    name "201"
+    id 201
     label "SGwNDGvffBw"
     step 0
     date "2020-11-20T05:12:11Z"
@@ -4416,21 +3021,12 @@ graph
     commentcount 1
     duration "PT9M38S"
     indegree 6
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 158
-    name "202"
+    id 202
     label "_rofgBfVlfM"
     step 0
     date "2020-11-12T05:08:09Z"
@@ -4444,21 +3040,12 @@ graph
     commentcount 15
     duration "PT7M39S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 159
-    name "203"
+    id 203
     label "51jyRZeiGPg"
     step 0
     date "2020-11-16T14:30:47Z"
@@ -4472,21 +3059,12 @@ graph
     commentcount 0
     duration "PT7S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 160
-    name "204"
+    id 204
     label "eb3JAoY4wkQ"
     step 0
     date "2020-11-24T08:58:48Z"
@@ -4500,21 +3078,12 @@ graph
     commentcount 101
     duration "PT1M51S"
     indegree 4
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 161
-    name "205"
+    id 205
     label "HorAGhRHyJw"
     step 0
     date "2022-03-05T02:09:57Z"
@@ -4528,21 +3097,12 @@ graph
     commentcount 1
     duration "PT16S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 162
-    name "206"
+    id 206
     label "YtJB5oikN3U"
     step 0
     date "2020-11-13T04:26:04Z"
@@ -4556,49 +3116,31 @@ graph
     commentcount 1
     duration "PT2M5S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 163
-    name "207"
-    label "pBwCNpYMJCA"
+    id 210
+    label "anEuZft_ut8"
     step 0
-    date "2020-11-23T20:30:02Z"
-    title "Dominion Voting System in Question for 2020 Election"
-    description "#calltheadhero &#10;&#10;LIKE &#38; SUBSCRIBE for new videos every day. &#10;&#10;Dominion Voting System has been in question since 2004 for the Venezuelan election. These voting machines might have given millions of votes to Joe Biden when the votes might have been meant for President Trump.&#10;Fact Checkers around the net on every news site downplaying President Trump's allegations.&#10;Also, Twitter &#38; Facebook in another hearing about censorship. And Joe Biden asked softball questions.&#10;&#10;FOLLOW ME:&#10;Podcast: https://anchor.fm/realquickwithgenogiovanni&#10;Advertise: https://adsemble.com&#10;Parler: @genogiovanni &#10;Twitter: https://twitter.com/ggadhero &#10;Facebook: https://www.facebook.com/ggadhero &#10;Instagram: http://www.instagram.com/ggadhero"
-    channeltitle "Geno Giovanni Presents"
-    channelid "UCfQj-Q50QITOCmj-4Caj7Mw"
+    date "2020-12-16T20:49:19Z"
+    title "Federal Investigation Of Foreign Influence In Dominion Voting System! Dick Morris TV: Lunch ALERT!"
+    description "Sign up today&#8230;It&#8217;s FREE&#8230;&#10;http://www.dickmorris.com/subscribe/"
+    channeltitle "dickmorrisreports"
+    channelid "UCPkuXB5CZJIVerREXE-81tw"
     favcount 0
-    viewcount 2
-    likecount 0
-    commentcount 0
-    duration "PT16M32S"
+    viewcount 2647
+    likecount -1
+    commentcount -1
+    duration "PT1M10S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 164
-    name "211"
+    id 211
     label "c5zCa9GhbaM"
     step 0
     date "2020-11-14T14:30:02Z"
@@ -4612,21 +3154,12 @@ graph
     commentcount 29
     duration "PT14M33S"
     indegree 40
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 165
-    name "212"
+    id 212
     label "CEz5A6PZEKM"
     step 0
     date "2021-02-11T04:49:35Z"
@@ -4640,21 +3173,12 @@ graph
     commentcount 8
     duration "PT4M26S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 166
-    name "213"
+    id 213
     label "xnhGmCx6cTo"
     step 0
     date "2020-12-31T04:58:28Z"
@@ -4668,49 +3192,31 @@ graph
     commentcount 6
     duration "PT3M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
-  ]
-  node
-  [
-    id 167
-    name "214"
-    label "p9_LCZpriwQ"
-    step 0
-    date "2022-07-11T08:00:28Z"
-    title "Sustainable Diets: Jessica Sansom in conversation with MD, Nick Gold"
-    description "Sustainable Diets: Sustainability Director at Huel, Jessica Sansom, in conversation with MD Nick Gold   &#10;&#10;In this episode of 'In conversation with' the Former Head of Sustainability at Innocent drinks and the current Sustainability Director at Huel, Jessica Sansom joined our MD, Nick Gold on the topic of sustainability. Jessica and Nick discussed another aspect of sustainability, which is sustainability in the food industry. &#10;&#10;There are two global issues in terms of food sustainability. As we have over 2 billion people around the world who are overweight and obese, the first issue that needs to be tackled is what should we eat to benefit our health. The other one concerns the impact of our diet on climate change, biodiversity, and so on. About a quarter of global greenhouse gas emissions come from the food system; thus, we should consider consuming more sustainable food and beverages to benefit the planet.   &#10;&#10;Jessica said Huel tried to address these two significant issues by offering their customers what they needed to eat while ensuring that the products matched, limiting global warming.   &#10;&#10;In this video, Nick and Jessica also discuss our role in saving the planet and what we should do to achieve the long-term goal.  &#10;&#10;Key highlights in this video  &#10;&#10;00:00 &#8211; 00:24 Intro   &#10;&#10;00:24 &#8211; 3:12 What's Jessica been doing at Huel?  &#10;&#10;3:12 -5:34 How does Huel make it simpler for consumers to achieve a sustainable lifestyle?    &#10;&#10;5:34 &#8211; 8:09 Being sustainable could be started by doing small things that fit the guidelines  &#10;&#10;8:09 &#8211; 9:08 We are the ones who control and are responsible for sustainability  &#10;&#10;9:08 &#8211; 10:38 Could businesses achieve sustainability and profit at the same time?   &#10;&#10;10:38 &#8211; 12:37 What we need to do for the future  &#10;&#10;About Jessica Sansom  &#10;&#10;Jessica is a sustainability professional who has spent her time agitating, motivating, and convincing companies to move to sustainable business models.  &#10;&#10;She is the former Head of Sustainability at innocent drinks, where she was led the company's commitment to become a highly successful model of sustainable capitalism - working to negate major impact areas, engage and motivate employees, influence supply chain and industry, and developing a business model to proactively address global sustainability challenges and ensure the long-term viability of the business.  &#10;&#10;For more information about Jessica Sansom, please visit https://www.speakerscorner.co.uk/keynote-speakers/jessica-sansom   &#10;&#10;If you want to watch more videos in the &#34;In Conversation with MD Nick Gold&#34; series, please visit &#128073; https://www.youtube.com/playlist?list=PLkc0UNW91JVobKHAcvFD1fGY4zIJDIrXv  &#10;&#10;For more information or to book a speaker for your in-person or virtual event, please visit https://www.speakerscorner.co.uk or call +44 (0) 20 7607 7070   &#10;&#10;Say Hi on Social Media   &#10;&#10;&#128075; Instagram &#128073; https://www.instagram.com/speakerscornerbureau/?hl=en &#10;&#10;&#128075; Facebook &#128073; https://www.facebook.com/SpeakersCornerBureau&#10;&#10;&#128075; Twitter &#128073; https://twitter.com/Speakers_Corner  &#10;&#10;&#128075; LinkedIn &#128073; https://www.linkedin.com/company/speakers-corner/"
-    channeltitle "Speakers Corner"
-    channelid "UCmHmb4nfs9Dy_VPR88zl6Rw"
-    favcount 0
-    viewcount 2
-    likecount 0
-    commentcount 0
-    duration "PT12M37S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 168
-    name "216"
+    id 215
+    label "cpg2jYrdgSk"
+    step 0
+    date "2020-11-20T14:19:03Z"
+    title "DOMINION VOTING-CANADA CONNECTION, UN BIOMETRIC DIGITAL ID  MORE!"
+    description "Join us weeknights at 8pm for live discussions on political and social issues, spirituality and God. To get more news visit our telegram account on https://t.me/TruthForHope&#10;&#10;DON'T HAVE A VPN YET? Get a Virtual Shield VPN here by using our affiliate link: https://bit.ly/3kCXhcY"
+    channeltitle "REINHARD COLLEGE"
+    channelid "UCdgBN521CxqFwscVV3l2RRA"
+    favcount 0
+    viewcount 344
+    likecount 11
+    commentcount 0
+    duration "PT59M48S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 216
     label "g0bx8QjoTmc"
     step 0
     date "2020-12-10T18:22:25Z"
@@ -4724,21 +3230,12 @@ graph
     commentcount 50
     duration "PT20M32S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 169
-    name "217"
+    id 217
     label "c7fhwzuRoVk"
     step 0
     date "2020-11-15T22:35:54Z"
@@ -4752,21 +3249,12 @@ graph
     commentcount 11
     duration "PT2M48S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 170
-    name "218"
+    id 218
     label "lvBCkyip2is"
     step 0
     date "2020-11-29T00:01:46Z"
@@ -4780,21 +3268,12 @@ graph
     commentcount 1
     duration "PT1M14S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 171
-    name "219"
+    id 219
     label "ji2YzmBJFtY"
     step 0
     date "2020-12-08T08:00:04Z"
@@ -4808,21 +3287,12 @@ graph
     commentcount 0
     duration "PT53S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 172
-    name "220"
+    id 220
     label "63QY0Coq0wA"
     step 0
     date "2020-11-11T20:35:18Z"
@@ -4836,21 +3306,12 @@ graph
     commentcount 34
     duration "PT1H5M30S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 173
-    name "221"
+    id 221
     label "-6FNOekfn_A"
     step 0
     date "2020-11-20T04:24:10Z"
@@ -4864,21 +3325,12 @@ graph
     commentcount 14
     duration "PT2H5M"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 174
-    name "222"
+    id 222
     label "nT0u6tSeAig"
     step 0
     date "2020-12-15T20:07:46Z"
@@ -4892,21 +3344,12 @@ graph
     commentcount 5
     duration "PT1H35M26S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 175
-    name "223"
+    id 223
     label "fjiwOpwy1m4"
     step 0
     date "2020-11-13T23:32:29Z"
@@ -4920,21 +3363,12 @@ graph
     commentcount 0
     duration "PT6M56S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 176
-    name "224"
+    id 224
     label "Uh2Dn-wNdY4"
     step 0
     date "2020-11-21T07:42:36Z"
@@ -4948,21 +3382,12 @@ graph
     commentcount 0
     duration "PT1M15S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 177
-    name "225"
+    id 225
     label "lGhI8ac4JdA"
     step 0
     date "2021-03-07T15:30:12Z"
@@ -4976,77 +3401,50 @@ graph
     commentcount 0
     duration "PT1H40M13S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 178
-    name "226"
-    label "UEoIsBrYua0"
+    id 230
+    label "Sd9up1Lw5T8"
     step 0
-    date "2020-11-21T16:30:40Z"
-    title " Dominion Voting System"
-    description "&#924;&#941;&#961;&#959;&#962; &#916;&#949;&#973;&#964;&#949;&#961;&#959; &#964;&#951;&#962; &#963;&#949;&#953;&#961;&#940;&#962;: &#932;&#953; &#948;&#949;&#957; &#952;&#945; &#963;&#959;&#965; &#960;&#959;&#965;&#957; &#964;&#945; media &#947;&#953;&#945; &#964;&#953;&#962; &#949;&#954;&#955;&#959;&#947;&#941;&#962; &#963;&#964;&#953;&#962; &#919;&#928;&#913;. &#931;&#949; &#945;&#965;&#964;&#972; &#964;&#959; &#946;&#943;&#957;&#964;&#949;&#959; &#951; &#948;&#953;&#954;&#951;&#947;&#972;&#961;&#959;&#962; &#964;&#959;&#965; &#925;&#964;&#972;&#955;&#945;&#957;&#964; &#932;&#961;&#945;&#956;&#960;, &#931;&#943;&#957;&#964;&#949;&#965; &#928;&#940;&#959;&#965;&#949;&#955; &#945;&#960;&#959;&#954;&#945;&#955;&#973;&#960;&#964;&#949;&#953; &#960;&#969;&#962; &#955;&#949;&#953;&#964;&#959;&#965;&#961;&#947;&#949;&#943; &#964;&#959; &#963;&#973;&#963;&#964;&#951;&#956;&#945; Dominion &#954;&#945;&#953; &#941;&#954;&#955;&#949;&#946;&#945;&#957; &#968;&#942;&#966;&#959;&#965;&#962; &#945;&#960;&#972; &#964;&#959;&#957; &#932;&#961;&#945;&#956;&#960; &#954;&#945;&#953; &#964;&#953;&#962; &#948;&#943;&#957;&#945;&#957; &#963;&#964;&#959;&#957; &#924;&#960;&#940;&#953;&#957;&#964;&#949;&#957;.&#10;&#10;Links:&#10;https://www.donaldjtrump.com/&#10;https://www.youtube.com/watch?v=akqeL9AtJYI&#10;https://www.youtube.com/channel/UC-9J07yyuXQTx_uZQchtwsg&#10;https://twitter.com/realDonaldTrump&#10;https://youtu.be/3GBws-KmD6g&#10;&#10;&#920;&#941;&#955;&#949;&#953;&#962; &#957;&#945; &#956;&#940;&#952;&#949;&#953;&#962; &#957;&#945; &#949;&#960;&#949;&#957;&#948;&#973;&#949;&#953;&#962; &#963;&#969;&#963;&#964;&#940; &#964;&#945; &#967;&#961;&#942;&#956;&#945;&#964;&#945; &#963;&#959;&#965;; &#928;&#940;&#961;&#949; &#960;&#961;&#972;&#963;&#946;&#945;&#963;&#951; &#963;&#964;&#959; &#954;&#945;&#955;&#973;&#964;&#949;&#961;&#959; &#960;&#961;&#972;&#947;&#961;&#945;&#956;&#956;&#945; &#946;&#949;&#955;&#964;&#943;&#969;&#963;&#951;&#962; &#959;&#953;&#954;&#959;&#957;&#959;&#956;&#953;&#954;&#959;&#973; IQ &#956;&#949; &#972;&#957;&#959;&#956;&#945; Money Psychology.&#10;&#10;&#924;&#949; &#964;&#959; &#949;&#953;&#948;&#953;&#954;&#972; &#954;&#959;&#965;&#960;&#972;&#957;&#953; &#34;TRUMP&#34; &#954;&#949;&#961;&#948;&#943;&#950;&#949;&#953;&#962; &#941;&#954;&#960;&#964;&#969;&#963;&#951;!&#10;Money Psychology Link: https://terry.gr/trump&#10;&#10;&#928;&#940;&#964;&#951;&#963;&#949; &#964;&#959; link &#954;&#945;&#953; &#959;&#955;&#959;&#954;&#955;&#942;&#961;&#969;&#963;&#949; &#964;&#951;&#957; &#949;&#947;&#947;&#961;&#945;&#966;&#942;: https://link.terry.gr/join&#10;&#10;Shoutout to my Gold members &#964;&#959;&#965; &#954;&#945;&#957;&#945;&#955;&#953;&#959;&#973; &#945;&#965;&#964;&#959;&#973;:&#10;&#10;&#919;&#923;&#921;&#913;&#931; &#924;&#928;&#927;&#923;&#937;&#931;&#919;&#931;&#10;Dimitris Loupakis&#10;&#920;&#949;&#959;&#948;&#969;&#961;&#959;&#962; &#928;&#945;&#960;&#945;&#948;&#945;&#954;&#951;&#962;&#10;costas deve&#10;Vicky Papadopoulou&#10;David Jamson&#10;Dimitri Korexenos&#10;Efi Skandalaki&#10;Panagiotis Pantazis&#10;&#931;&#964;&#961;&#945;&#964;&#951;&#962; &#923;&#945;&#948;&#959;&#960;&#959;&#965;&#955;&#959;&#962;&#10;&#921;&#969;&#940;&#957;&#957;&#951;&#962; &#922;&#959;&#964;&#963;&#945;&#954;&#953;&#945;&#967;&#943;&#948;&#951;&#962;&#10;&#926;&#949;&#957;&#959;&#966;&#974;&#957; &#932;&#963;&#953;&#964;&#959;&#962;&#10;The_mountain_honey_and_oil &#924;&#919;&#932;&#931;&#913;&#925;&#919;&#931; &#916;&#919;&#924;&#927;&#931;&#10;Panagiotis Chorozoglou&#10;&#915;&#917;&#937;&#929;&#915;&#921;&#913; &#934;&#921;&#923;&#932;&#931;&#927;&#933;&#10;chris mouzakis&#10;Andreas Kay&#10;Thodoris Tr&#10;George Papatsimpas&#10;Konsta Ntina&#10;Matvei Georgiadis&#10;tachoexpert&#10;Lykourgos StatusLK&#10;Christos Hougiazos&#10;maraki m&#10;Rayleigh&#10;George Gianisis&#10;AKIS CHARITOS&#10;Dimitrios Mavridis&#10;&#915;&#953;&#945;&#957;&#957;&#951;&#962; &#935;&#945;&#957;&#964;&#950;&#951;&#962;&#10;&#10;&#917;&#965;&#967;&#945;&#961;&#953;&#963;&#964;&#974; &#960;&#959;&#955;&#973; &#947;&#953;&#945; &#964;&#951;&#957; &#965;&#960;&#959;&#963;&#964;&#942;&#961;&#953;&#958;&#951;!&#10;&#928;&#940;&#964;&#951;&#963;&#949; &#964;&#959; link &#954;&#945;&#953; &#959;&#955;&#959;&#954;&#955;&#942;&#961;&#969;&#963;&#949; &#964;&#951;&#957; &#949;&#947;&#947;&#961;&#945;&#966;&#942;: https://link.terry.gr/join&#10;&#10;#election2020 #powell #trump"
-    channeltitle "Terry Hatziieremias"
-    channelid "UCXMncEkNqE3O83-NXFG0AUg"
+    date "2020-12-11T04:21:41Z"
+    title "Cyber Warfare Specialist Details Vulnerabilities of Dominion Voting Machines"
+    description "Retired Army colonel cyber warfare specialist Phil Waldron details vulnerabilities with Dominion voting machines and provides an analysis of network traffic for Dominion servers on Election Day. He also talks about Dominion&#8217;s relationship to the Department of Homeland Security."
+    channeltitle "2020 Election Fraud"
+    channelid "UCkGzzTwV5FmVIhcGHruWWmQ"
     favcount 0
-    viewcount 23650
-    likecount 1910
-    commentcount 397
-    duration "PT29M21S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 179
-    name "231"
-    label "Ge9_a-2R4_s"
-    step 0
-    date "2022-07-04T01:09:18Z"
-    title "Sunday 8:05 AM Worship Service ~ July 3, 2022"
-    description "Sunday 8:05 AM Worship Service ~ July 3, 2022"
-    channeltitle "St Mark Church of Christ Goldsboro, NC"
-    channelid "UCAvULvf5_75YB5g3oHk3H1Q"
-    favcount 0
-    viewcount 84
+    viewcount 114
     likecount 2
     commentcount 0
-    duration "PT59M25S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    duration "PT1M31S"
+    indegree 1
+    sentiment 1
     cluster 7
   ]
   node
   [
-    id 180
-    name "234"
+    id 233
+    label "OqnkHrtMb9Q"
+    step 0
+    date "2020-12-08T09:19:23Z"
+    title "Trump obtained conclusive evidence that Dominion voting machines transferred Trump votes to Biden"
+    description "Trump has obtained conclusive evidence that Dominion voting machines in Ware County, Georgia, transferred Trump votes to Biden"
+    channeltitle "ET Times"
+    channelid "UCjQ9OIox5LYrqaOx6ye5kPQ"
+    favcount 0
+    viewcount 434
+    likecount 16
+    commentcount 0
+    duration "PT5M56S"
+    indegree 11
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 234
     label "fx5bjj33SrQ"
     step 0
     date "2020-12-05T20:36:33Z"
@@ -5060,49 +3458,31 @@ graph
     commentcount 0
     duration "PT1M1S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 181
-    name "235"
-    label "tj1Hxmd55ys"
-    step 0
-    date "2022-07-03T15:18:42Z"
-    title "The Life Of Jon Snow (Game Of Thrones)"
-    description "The Life Of Jon Snow (Game Of Thrones)   &#10;&#10;Be Sure To Subscribe:&#10;https://www.youtube.com/channel/UCkbrlVKUj1hjQ9Bat0CvJLQ?sub_confirmation=1&#10;&#10;Jon Snow, born Aegon Targaryen, is the son of Lyanna Stark and Rhaegar Targaryen, the late Prince of Dragonstone. From infancy, Jon is presented as the bastard son of Lord Eddard Stark, Lyanna's brother, and raised alongside Eddard's lawful children at Winterfell. Jon's true parentage is kept secret from everyone, including Jon himself, in order to protect him from those that sought the complete annihilation of House Targaryen. Jon joins the Night's Watch and is later elected as Lord Commander. As a result of several controversial decisions, such as allowing the wildlings to settle south of the Wall, Jon is murdered in a mutiny but is resurrected by Melisandre. Freed from his Night's Watch vows, Jon and his half-sister Sansa Stark retake Winterfell from House Bolton, restoring House Stark's dominion over the North. Jon is declared King in the North. Jon negotiates with Daenerys Targaryen for an alliance against the White Walkers in the imminent Great War. Later he pledges himself and his army to Daenerys, whom he falls in love with, subsequently abdicating his throne and being named Warden of the North.&#10;&#10;***&#10;&#10;CHAPTERS&#10;&#10;00:00:00 Intro&#10;00:02:43 Secret Origin&#10;00:05:01 Early Life&#10;00:07:28 Season One&#10;00:14:09 Season Two&#10;00:18:42 Season Three&#10;00:28:19 Season Four&#10;00:40:37 Season Five&#10;00:52:51 Season Six&#10;01:05:09 Season Seven&#10;01:21:10 Season Eight&#10;&#10;***&#10;&#10;FOLLOW ME&#10;&#10;INSTAGRAM: https://www.instagram.com/ethanschulteis/&#10;TWITTER: https://twitter.com/the_amagi&#10;VLOG CHANNEL: @Ethan Schulteis &#10;SECOND CHANNEL: @The Amagi 2 &#10;&#10;***&#10;&#10;POTC WIKI&#10;&#10;WEBSITE: https://gameofthrones.fandom.com/&#10;ARTICLE: https://gameofthrones.fandom.com/wiki/Jon_Snow&#10;&#10;***&#10;&#10;CREDITS&#10;&#10;PRODUCER: @Ethan Schulteis &#10;NARRATOR: @Lovely Dorrie&#10;EDITOR: @Imubi5&#10;WRITER: @Game of Thrones Wiki&#10;MUSIC: @Christian Andersen&#10;&#10;***&#10;&#10;This video uses material from the &#34;Jon Snow&#8221; article on the Game of Thrones Wiki at Fandom, licensed under the Creative Commons Attribution-Share Alike License."
-    channeltitle "The Amagi"
-    channelid "UCkbrlVKUj1hjQ9Bat0CvJLQ"
-    favcount 0
-    viewcount 11791
-    likecount 450
-    commentcount 98
-    duration "PT1H33M35S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 182
-    name "237"
+    id 236
+    label "HlgEi-XRkFs"
+    step 0
+    date "2021-01-19T18:55:25Z"
+    title "#4. Eric Coomer - falsely accused of Changing votes on Dominion Voting Systems"
+    description "Shortly before the 2020 election, a right-wing figure Joe Oltmann in Denver, Colorado heard &#34;Eric from Dominion&#34; on an Antifa call say that he was going to make sure Trump did not win the election. After a google search, Joe Oltmann found a man named &#34;Eric Coomer&#34; who worked for the widely used Dominion Voting systems, and assumed the worst. Unfortunately for Eric Coomer, none of the accusations are true, but he still lives in danger because of death threats to himself, his coworkers, and his family."
+    channeltitle "Real Talk with Mary Contrary &#38; Starfish"
+    channelid "UCNW8dg5Z8wKG0HCvKMTwkkA"
+    favcount 0
+    viewcount 100
+    likecount 1
+    commentcount 5
+    duration "PT29M31S"
+    indegree 1
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 237
     label "WYd4ebub7tU"
     step 0
     date "2020-11-30T20:32:18Z"
@@ -5116,21 +3496,12 @@ graph
     commentcount 22
     duration "PT11M51S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 183
-    name "238"
+    id 238
     label "RH4EdCReNyA"
     step 0
     date "2020-12-07T08:33:01Z"
@@ -5144,21 +3515,12 @@ graph
     commentcount 0
     duration "PT9M48S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 184
-    name "239"
+    id 239
     label "k93ozoL9nrA"
     step 0
     date "2020-12-17T09:56:20Z"
@@ -5172,21 +3534,12 @@ graph
     commentcount 0
     duration "PT2M24S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 185
-    name "240"
+    id 240
     label "E54mmOIowt8"
     step 0
     date "2020-11-15T18:05:20Z"
@@ -5200,21 +3553,12 @@ graph
     commentcount 1
     duration "PT15S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 186
-    name "241"
+    id 241
     label "wUIJZsR-lAk"
     step 0
     date "2020-11-18T01:58:20Z"
@@ -5228,21 +3572,12 @@ graph
     commentcount 0
     duration "PT52S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 187
-    name "242"
+    id 242
     label "kbAxY0MWNho"
     step 0
     date "2020-12-31T01:14:10Z"
@@ -5256,161 +3591,107 @@ graph
     commentcount 0
     duration "PT2M15S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 188
-    name "243"
-    label "wbmQIqhvs24"
-    step 0
-    date "2020-11-13T07:36:43Z"
-    title "Dominion Voting Machine aka The ICE Machine"
-    description ""
-    channeltitle "William Eckford"
-    channelid "UCD3DCI0jEL34706lQ1zdFWg"
-    favcount 0
-    viewcount 35
-    likecount 0
-    commentcount 0
-    duration "PT2M36S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 189
-    name "245"
-    label "ph5xcj0pF28"
-    step 0
-    date "2020-11-16T23:12:21Z"
-    title "Dominion Voting System admit some componus from China"
-    description "#Dominion #Dominionvotingsystem"
-    channeltitle "Miami ArtLife"
-    channelid "UCunZrOuEdTk_Fr6-AsoB_-w"
-    favcount 0
-    viewcount 16
-    likecount 1
-    commentcount 0
-    duration "PT6S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 190
-    name "247"
-    label "VWvGpwqeqJ8"
+    id 244
+    label "xKlj_b3h_iM"
     step 0
-    date "2020-11-14T18:08:40Z"
-    title " - Ballots Switched - Voter Fraud - Election 2020 Fraud"
-    description "Dominion Voting Systems in Germany was raided by the FBI and US Army.  The evidence ceased will be enough to bring the entire Democratic Party down!!!&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/awesomemosewa20&#10;https://www.tiktok.com/@awesomemosewa"
-    channeltitle "America Maggic"
-    channelid "UCV5c1pnFiOCsvosOysIzhnA"
+    date "2020-11-17T22:08:00Z"
+    title "Eric Coomer- VP Dominion Voting System SAID  ? Wtf"
+    description "Eric Coomer - The vice president of dominion voting systems... told election officials in the state of Illinois&#10;&#10;one America news posted this 11/24 2020&#10;https://youtu.be/qZ_ks_sNITg&#10;&#10; &#34;You can bypass the software and go directly into the database of the vote count system, as long as you have permission to do so&#34;&#10;&#10;and that is based on his own admission.&#10;&#10;Yep!! he actually said that. TRUE STORY."
+    channeltitle "UNITED USA 2020"
+    channelid "UC3kZ_gVFkfXBekteQCL4Thw"
     favcount 0
-    viewcount 45
-    likecount 2
-    commentcount 0
-    duration "PT2M21S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
-  ]
-  node
-  [
-    id 191
-    name "249"
-    label "ausoh13e_Ck"
-    step 0
-    date "2020-11-19T16:23:35Z"
-    title "Dominion voting systems conspiracy theories peddled by Mark Levin and Rush Limbaugh"
-    description "Mark Levin and Rush Limbaugh never used to be like this. They never used to peddle conspiracy theories so easily.. why do I follow them? You have to know and confront what they say to their listeners, otherwise, like a mushroom in the darkness, their lies flourish.. you have to drag their conspiracy theories out in the sunlight and debunk the crazy or they will flourish in the vacuum of darkness.&#10;&#10;The two people peddling these theories being promoted by Mark and Rush are Lin Wood and Sydney Powell.. listen to the crazy talk and then why we shouldn&#8217;t believe a word of it..&#10;&#10;We&#8217;ll talk about Dominion voter systems and Smartmatic and why there is no fraud with respect to America&#8217;s elections.."
-    channeltitle "Rusted Culture Podcast"
-    channelid "UC1HeQkbta9C17sNZPrE3yBQ"
-    favcount 0
-    viewcount 112
-    likecount 2
-    commentcount 6
-    duration "PT10M3S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 192
-    name "251"
-    label "Xl99-hBQpQQ"
-    step 0
-    date "2022-07-07T12:34:31Z"
-    title "WEDNESDAY QA"
-    description "WEDNESDAY Q&#38;A &#13;&#10;Take Over U: More Than a prayer!&#13;&#10;Releasing the kingdom within part 2"
-    channeltitle "TheFamilyChurchNJ"
-    channelid "UCHkFWWGx0JZJLdM70fxVVGw"
-    favcount 0
-    viewcount 204
-    likecount 12
+    viewcount 219
+    likecount 9
     commentcount 2
-    duration "PT42M9S"
+    duration "PT36S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
+    cluster 8
+  ]
+  node
+  [
+    id 246
+    label "-Wy0XLgzijM"
+    step 0
+    date "2020-11-14T17:54:11Z"
+    title " - Trump Supporters in DC - Dominion Voting Systems Fraud - Fight for America"
+    description "Million MAGA March going on in DC today.  Millions of Trump Supporters there to fight for our rights as Americans.&#10;&#10;Joe Biden, go back to your basement because after the Courts come out with the evidence collected from the Dominion Voting System, your next home will be Prison, along with your son Hunter!&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/awesomemosewa20&#10;https://www.tiktok.com/@awesomemosewa"
+    channeltitle "Maggic America"
+    channelid "UCMxhati9F3pdAiLdjX6r0xQ"
+    favcount 0
+    viewcount 28
+    likecount 1
+    commentcount 0
+    duration "PT44S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 248
+    label "nJI8jft0yGM"
+    step 0
+    date "2020-12-17T10:01:24Z"
+    title "06 Closing | MI Senate Oversight Committee Hearing with Dominion Voting Sys Testimony"
+    description "On December 15th, 2020 Members of the MI Senate Oversight Committee heard sworn testimony from Dominion Voting Systems. &#10;&#10;For more information about this and other voting system technologies, visit us on the following platforms: https://linktr.ee/krakeninstitute"
+    channeltitle "Kraken Institute"
+    channelid "UC00TAzQ9OQuISj_9v4nccbQ"
+    favcount 0
+    viewcount 78
+    likecount 3
+    commentcount 0
+    duration "PT52S"
+    indegree 1
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 250
+    label "00omGqjfigw"
+    step 0
+    date "2020-12-16T03:50:55Z"
+    title "12-15-20: Dominion Voting Systems CEO John Poulos Testifies in Front of Michigan Legislature Part 2"
+    description "12-15-20:&#10;&#10;CEO of Dominion Voting Systems John Poulos testifies before the Michigan Legislature Oversight Committee regarding allegations of widespread election fraud as a result of the Dominion Voting Systems. The Oversight Committee inquires about everything regarding the votings systems, from their source code to their hard drives. &#10;&#10;#dominionvotingsystems #johnpoulos #presidentialelection2020 #usa #america #americans #voting #votingsystems #michigan"
+    channeltitle "TSM The Silent Majority"
+    channelid "UCnZEfugv3C62QFSELN55OCg"
+    favcount 0
+    viewcount 69
+    likecount 0
+    commentcount 0
+    duration "PT57M22S"
+    indegree 0
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 193
-    name "254"
+    id 253
+    label "WVLDhT-nDO4"
+    step 0
+    date "2021-03-03T19:19:44Z"
+    title "Come Research With Me Dominion Voting Systems Part 1B - John Poulos 1"
+    description "Please find the sources in the filing cabinet below &#128452;, I recommend you to look further into the information provided. &#10;&#10;Reminder: please do not doxx, bully, or harass anybody, nor the person featured this video. &#9888;&#65039;&#160;Please do not state accusations of crimes as facts without proof.&#160;Please be respectful of each other in the comments. &#160;&#65039;&#10;&#10;These videos are for educational purposes, and help people to start their own research into subjects. Research is so important, as it helps with critical thinking, and to see their own biases, as you can become wrapped up in confirmation bias. &#10;&#10;But most of all have fun with it, and learn new cool things!&#10;&#10;Sources for you to follow&#10;&#10;https://perfectlyresearchdrops.files.wordpress.com/2021/03/come-research-with-me-john-poulos.pdf&#10;&#10;Social Media Links &#128187;&#10;&#10;My Rumble Channel: https://rumble.com/user/PerfectlyfadedResearchDrops&#10;&#10;My Odysee Channel: https://odysee.com/@PerfectlyResearchDrops:4&#10;&#10;My Minds: https://www.minds.com/Perfectlyfadeddelusions/&#10;&#10;My Twitter if you would like to send me drop for me anything to research: https://twitter.com/P_ResearchDrops&#10;&#10;My Brighteon Channel: https://www.brighteon.com/channels/perfectlyfadedresearchdrop&#10;&#10;My Brand New Tube: https://brandnewtube.com/@Perfectlyfadeddelusions&#10;&#10;My Bitchute Channel: https://www.bitchute.com/channel/pntr0gSBBxx8/&#10;&#10;My Bittube: https://bittube.tv/profile/PerfectlyfadedResearchDrops"
+    channeltitle "Perfectlyfaded Research Drops"
+    channelid "UCe7NoYyrIerkRu614qrhxYg"
+    favcount 0
+    viewcount 105
+    likecount 27
+    commentcount 0
+    duration "PT1H24M34S"
+    indegree 0
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 254
     label "c6LX2BpO_IM"
     step 0
     date "2020-11-27T15:21:40Z"
@@ -5424,21 +3705,12 @@ graph
     commentcount 2
     duration "PT1H43M29S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 194
-    name "255"
+    id 255
     label "F5tCPNEIb48"
     step 0
     date "2020-11-12T22:12:08Z"
@@ -5452,49 +3724,31 @@ graph
     commentcount 65
     duration "PT9M48S"
     indegree 22
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
+    cluster 8
+  ]
+  node
+  [
+    id 257
+    label "cTRmHmRUZGM"
+    step 0
+    date "2020-12-08T04:00:00Z"
+    title "Sample check of Dominion voting machine uncovers glaring errors- War Room Pandemic Ep 565"
+    description "Dominion voting machine gave Biden extra votes while taking votes from Trump."
+    channeltitle "Barry Wuthrich"
+    channelid "UCjsUYRcYiVw3tgHi2ijIB4A"
+    favcount 0
+    viewcount 687
+    likecount 19
+    commentcount 0
+    duration "PT1M24S"
+    indegree 3
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 195
-    name "256"
-    label "6SJDSEsZQuQ"
-    step 0
-    date "2020-11-25T01:32:45Z"
-    title "ELECTION FRAUD 2 Lewindowski Doesn"
-    description "All rights reserved. Content created under 'Fair Use'.&#10;The News Now, 2020"
-    channeltitle "THE NEWS NOW"
-    channelid "UCbmhgq7YH1TI8H__RI7vlWQ"
-    favcount 0
-    viewcount 40
-    likecount 0
-    commentcount 0
-    duration "PT1M26S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 196
-    name "258"
+    id 258
     label "UaV1epLTwY8"
     step 0
     date "2020-12-15T02:46:49Z"
@@ -5508,49 +3762,31 @@ graph
     commentcount 2
     duration "PT5M28S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 197
-    name "259"
-    label "j9UKonsLvAA"
-    step 0
-    date "2020-12-08T18:10:55Z"
-    title " - Dominion Voting System Fraud - Life Threats - Drain the Swamp"
-    description "&#34;It. Has. All. Gone. Too. Far,&#34; says Gabriel Sterling.&#10;&#10;Georgia Sec of State after a Dominion tech's life was threatened with a noose. &#34;Mr. President, you have not condemned these actions or this language....all of you who have not said a damn word are complicit in this.&#34;&#10;&#10;So has the Voter Fraud!  So let's have the guilty ones step up and condemn the ones that committed fraud!&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/maggic_time&#10;https://www.tiktok.com/@awesomemosewa"
-    channeltitle "Maggic America"
-    channelid "UCMxhati9F3pdAiLdjX6r0xQ"
-    favcount 0
-    viewcount 49
-    likecount 1
-    commentcount 2
-    duration "PT2M6S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 198
-    name "262"
+    id 261
+    label "7DJWBsKRFlk"
+    step 0
+    date "2020-12-27T05:11:51Z"
+    title "Dominion Voting System interview by RebelNews in Canada HQ"
+    description "Dominion Voting System interview by RebelNews in Canada Headquarter"
+    channeltitle "&#32654;&#22269;&#20122;&#35028;&#36873;&#27665; Asian American Dreamers"
+    channelid "UC9VMnllbxh_SvRNWDh1AgQg"
+    favcount 0
+    viewcount 230
+    likecount 17
+    commentcount 0
+    duration "PT3M34S"
+    indegree 0
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 262
     label "v_eOl9dwa_w"
     step 0
     date "2020-11-16T23:45:20Z"
@@ -5564,21 +3800,12 @@ graph
     commentcount 7
     duration "PT8M20S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 199
-    name "263"
+    id 263
     label "oyENy_QrEd8"
     step 0
     date "2020-12-19T22:43:11Z"
@@ -5592,21 +3819,12 @@ graph
     commentcount 0
     duration "PT14M24S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 200
-    name "264"
+    id 264
     label "CPEQRs70af4"
     step 0
     date "2020-11-14T21:55:35Z"
@@ -5620,21 +3838,12 @@ graph
     commentcount 4
     duration "PT1M43S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 201
-    name "265"
+    id 265
     label "sIFfNJ3lCZI"
     step 0
     date "2020-11-15T23:15:06Z"
@@ -5648,21 +3857,12 @@ graph
     commentcount 36
     duration "PT3M49S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 202
-    name "266"
+    id 266
     label "NMgBySFdsfU"
     step 0
     date "2020-12-17T09:59:26Z"
@@ -5676,21 +3876,12 @@ graph
     commentcount 0
     duration "PT1H3M32S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 203
-    name "267"
+    id 267
     label "7yy1ruFDOy0"
     step 0
     date "2020-11-26T17:47:15Z"
@@ -5704,77 +3895,50 @@ graph
     commentcount 4
     duration "PT3M20S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 8
   ]
   node
   [
-    id 204
-    name "268"
-    label "V3156pdduJ8"
+    id 269
+    label "kOP1Pgez3zA"
     step 0
-    date "2021-01-28T03:17:53Z"
-    title "BREAKING! Rudy Giuliani Sued by Dominion Voting Systems Over False Election Claims"
-    description "An election technology company that has been the focus of consistent conspiracy theories by Donald Trump and his allies has sued the former President's lawyer Rudy Giuliani for defamation after he pushed the &#34;Big Lie&#34; about election fraud on his podcast and TV appearances.&#10;&#10;Dominion Voting Systems is seeking more than $1.3 billion in damages.&#10;&#34;Just as Giuliani and his allies intended, the Big Lie went viral on social media as people tweeted, retweeted, and raged that Dominion had stolen their votes. While some lies -- little lies -- flare up on social media and die with the next news cycle, the Big Lie was different,&#34; lawyers for Dominion wrote in the lawsuit, filed in DC District Court on Monday morning. &#34;The harm to Dominion's business and reputation is unprecedented and irreparable because of how fervently millions of people believe it.&#34;&#10;The lawsuit notes that while Giuliani spread falsehoods about Dominion being owned by Venezuelan communists and corrupting the election, he did not make those claims in lawsuits he pushed on behalf of Trump.&#10;--------------------------------------------------&#10;Thanks for all your Support, LIKE the video, Sharing the video, and leaving a comment are always appreciated!! &#10;...........................................................&#10;Donation  &#10;https://streamlabs.com/roybling&#10;https://cash.app/$roybling12&#10;--------------------------------------------------&#10;&#128434; Check out my last video &#128434;&#10;&#9658; https://youtu.be/twB765zunwY&#10;--------------------------------------------------&#10;&#9658;Affiliates, Sponsors &#38; Referrals:&#10;--------------------------&#10;GAMING LAPTOP&#10;https://www.amazon.com/shop/roybling12?listId=1EWV16LJK6LUV&#38;ref=idea_share_inf&#10;VLOGGING ITEMS &#10;https://www.amazon.com/shop/roybling12?listId=1J0BKSQ0DRZKC&#38;ref=idea_share_inf&#10;LIVE STREAMING ITEMS&#10;https://www.amazon.com/shop/roybling12?listId=PAG4XEPKU9R3&#38;ref=idea_share_inf&#10;BMW E46 ITEMS&#10;https://www.amazon.com/shop/roybling12?listId=36C954729A2KX&#38;ref=idea_share_inf&#10;BMW E90 ITEMS&#10;https://www.amazon.com/shop/roybling12?listId=459REX1QJREP&#38;ref=idea_share_inf&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;SUBSCRIBE AND HIT THE BELL SO YOU DON'T MISS ANYTHING!&#10;----------------------------------------------------------------------------- &#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;CONTACT/SOCIALS&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#8226;&#10;Find me @RoyBling on all major music platforms!&#10;TWITCH: https://www.twitch.tv/roybling&#10;INSTAGRAM: https://instagram.com/roybling12&#10;TWITTER: https://twitter.com/nerdstudiosja1&#10;TIKTOK: https://www.tiktok.com/@roybling12&#10;YOUTUBE: https://www.youtube.com/roybling&#10;---------------------------------------------------------------------------------------------------&#10;Join our growing community for new videos every Tuesday and Friday!&#10;&#10;#Giuliani #Dominion #Sued #BlackLivesMatter  #Vote #GetPaidTo #CloutEarn #Scam #Election2020 #WalterWallace #BLM #WESTPhiladelphia #youtubers #youtube #youtuber #youtubechannel #like #instagram #youtubevideos #subscribe #sub #follow #youtubevideo #love #tiktok #likes #likeforlikes #memes #explorepage #instagood #video #gaming #viral #edits #gamer #vlogger #explore #influencer #a #vlog #followforfollowback #bhfyp"
-    channeltitle "Roy Bling"
-    channelid "UCHPL5RLqyx1KSKUS026IOYQ"
+    date "2020-12-05T05:37:49Z"
+    title "Chinese - 75% owner Dominion Voting Machines and New York!"
+    description "#Chinese - 75% owner #Dominion #Voting #Machines and New York!"
+    channeltitle "News 9 Live"
+    channelid "UCfj0YZ-nCvWcOBz_1qFm09w"
     favcount 0
-    viewcount 113
-    likecount 3
-    commentcount 2
-    duration "PT7M29S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
-  ]
-  node
-  [
-    id 205
-    name "270"
-    label "P3TO-T__7oI"
-    step 0
-    date "2020-11-23T21:57:44Z"
-    title "BERNIE SANDERS WAS CHEATED BY DOMINION VOTING SYSTEM!"
-    description "Even crazy Bernie Sanders got rigged for Sleepy Joe to &#34;win&#34; &#128517; lmaooo. The Dominion voting system is horrible&#127482;&#127480;&#10071;&#10;&#10;Don't worry. We're only on step 1. If one step doesn't work, it goes to the next.&#10;&#128680;&#10;1st step: District Courts&#10;2nd step: Supreme Court &#10;3rd step: 12th Amendment w/ House Of Representatives electing the President and VP.&#10;&#127482;&#127480;&#10;If non is choosen by January 20th, for INGUARGRUAN, the speaker of the house will be temporarily set in place until answer is found upon. &#10;If the VP is picked first, then the VP would temporarily be President until that spot was picked. For instance, Mike Pence or Kamala Harris. &#10;&#129327;&#10;The way the constitution is setup, it leaves room for a mix match complication of a Republican/ Democrat President and VP. &#10;&#128680;&#128680;&#128680;&#128680;&#10;There's also more Red States than Blue states so it gives Republicans the upperhand if this comes a Contingent Election &#10;&#127482;&#127480;&#10;Which is unlikely but it could happen. there's procedures that President Trump knows, he knows how to win. He's been calm &#38; collectively telling us this for a while. &#10;&#127482;&#127480;&#10;FOR MORE CONTENT, FOLLOW: @republican_news_outlet&#10;&#128591;&#10084;&#129293;&#128153;&#127482;&#127480;&#10071;&#10;#Trump2020 #Election2020"
-    channeltitle "Republican News Outlet"
-    channelid "UCvcU_7BsG67e5nOuI6z77ww"
-    favcount 0
-    viewcount 57
-    likecount 2
+    viewcount 236
+    likecount 6
     commentcount 0
-    duration "PT1M36S"
+    duration "PT4M14S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 206
-    name "272"
+    id 271
+    label "rliQR_b1wpk"
+    step 0
+    date "2020-12-05T12:33:04Z"
+    title "Forensic Examination of Dominion Voting Machines | Footage show potential Fraud in Georgia"
+    description "Surveillance footage from State Farm Arena was presented by Trump's legal time in Georiga Judiciary Subcommittee Hearing is claimed to be evidence of fraud but officials keep denying it is normal. Governor has directed GA Secretary of State to make a signature audit. &#10;&#10;Arizona legislature leaders are seeking an independent audit of Dominion Voting System's software. Sidney Powell also claims forensic examination will uncover more evidence of fraud.&#10;&#10;Antrim County judge orders for a forensic inspection of 22 Dominion Voting Machines. Michigan is the first state to order for a forensic investigation while Dominion keeps denying all the allegations. &#10;&#10;#Dominion #Sidney Powell #Georgia #Michigan #ForensicAudit"
+    channeltitle "The Upstream"
+    channelid "UCT2JdofSgMzDpSyaXqgzIGg"
+    favcount 0
+    viewcount 9504
+    likecount 204
+    commentcount 69
+    duration "PT4M31S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 272
     label "h3jjjefZyCM"
     step 0
     date "2020-11-28T09:28:15Z"
@@ -5788,21 +3952,12 @@ graph
     commentcount 12
     duration "PT7M26S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 207
-    name "273"
+    id 273
     label "FlFI8FGTXXE"
     step 0
     date "2020-12-16T02:23:58Z"
@@ -5816,21 +3971,12 @@ graph
     commentcount 3
     duration "PT1M57S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 208
-    name "274"
+    id 274
     label "mI8j6euk0lM"
     step 0
     date "2020-12-18T03:19:27Z"
@@ -5844,77 +3990,50 @@ graph
     commentcount 1
     duration "PT5M13S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 209
-    name "275"
-    label "6t10DG7CUNQ"
-    step 0
-    date "2020-09-26T04:02:02Z"
-    title "Kill Chain: The Cyber War on Americas Elections"
-    description "With the integrity of 2016&#8217;s election in question, 2020 is also at risk as malware may already be in place to disrupt aspects of the election system. Following Harri Hursti, the legendary Finnish hacker turned election expert, as he investigates election-related hacks, the film provides a chilling look at this threat--and reveals how unprotected our voting systems really are."
-    channeltitle "YouTube Movies"
-    channelid "UCQZD2AlGax54lzxsrmrh6iA"
-    favcount 0
-    viewcount -1
-    likecount 236
-    commentcount 40
-    duration "PT1H31M15S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 210
-    name "279"
-    label "TXvhf1M-Rpo"
-    step 0
-    date "2020-12-11T05:34:17Z"
-    title "BUSTED DOMINION REMOTELY TAKING OVER VOTING MACHINE"
-    description ""
-    channeltitle "Dicky Jr"
-    channelid "UCLE4iitFnkCGtf6K_h9F2mw"
-    favcount 0
-    viewcount 32
-    likecount 1
-    commentcount 0
-    duration "PT3M43S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 211
-    name "281"
+    id 278
+    label "fqg1b5tsAaA"
+    step 0
+    date "2020-11-14T03:00:57Z"
+    title "The Disturbing TRUTH About ERIC COOMER Head Of Security for DOMINION Voting Systems! MUST SEE!"
+    description "Subscribe TODAY: https://www.youtube.com/channel/UC-BHnFgHzMjyq0CFCsGBHyQ?sub_confirmation=1&#10;&#10;Today, we learn the truth about The Director Of Security for DOMINION VOTING SYSTEMS ERIC COOMER and his Far Left Radical Views. This is important information that is being suppressed and I politely ask you to please share this video!&#10;&#10;#Dominion #EricCoomer #Trump"
+    channeltitle "Great Dane Explain"
+    channelid "UC-BHnFgHzMjyq0CFCsGBHyQ"
+    favcount 0
+    viewcount 4844
+    likecount 217
+    commentcount 39
+    duration "PT8M45S"
+    indegree 6
+    sentiment 1
+    cluster 8
+  ]
+  node
+  [
+    id 280
+    label "_lsnAGG-9e0"
+    step 0
+    date "2020-12-06T18:01:22Z"
+    title "MICHIGAN ALLOWS TRUMP, Forensic Audit To 22 DOMINION VOTING MACHINES-Huge WIN"
+    description "This is massive news,  and this will reveal the truth my friends.."
+    channeltitle "Fake News Police"
+    channelid "UCDnifQJB-HWRsqgVtVcPnvA"
+    favcount 0
+    viewcount 201
+    likecount 6
+    commentcount 0
+    duration "PT35S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 281
     label "2iP-Wve_T8w"
     step 0
     date "2020-11-29T15:01:26Z"
@@ -5928,21 +4047,12 @@ graph
     commentcount 4
     duration "PT13M3S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 212
-    name "282"
+    id 282
     label "yuFdWlJmjZI"
     step 0
     date "2020-12-10T04:39:24Z"
@@ -5956,21 +4066,12 @@ graph
     commentcount 1
     duration "PT13M5S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 213
-    name "283"
+    id 283
     label "kDK10pe4k7Y"
     step 0
     date "2020-11-25T20:30:53Z"
@@ -5984,21 +4085,12 @@ graph
     commentcount 12
     duration "PT4M49S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 214
-    name "284"
+    id 284
     label "8Wtf4drsKeA"
     step 0
     date "2020-11-25T01:03:21Z"
@@ -6012,21 +4104,12 @@ graph
     commentcount 1
     duration "PT4M58S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 215
-    name "285"
+    id 285
     label "tFfRIrSsp78"
     step 0
     date "2020-11-22T23:00:11Z"
@@ -6040,21 +4123,12 @@ graph
     commentcount 0
     duration "PT3M42S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 216
-    name "286"
+    id 286
     label "k9K2xvKbPXQ"
     step 0
     date "2020-11-12T23:20:56Z"
@@ -6068,105 +4142,69 @@ graph
     commentcount 18
     duration "PT7M20S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 217
-    name "287"
-    label "L5oH_W_Srsg"
+    id 288
+    label "vDy0zg85Eww"
     step 0
-    date "2020-11-14T03:20:14Z"
-    title "2.7 Million Trump Ballots Deleted; Witnesses Alleging Ballot Fraud in Dominion Voting Systems--1114"
-    description "#FraudBallots #Election2020 #VoterFraud #DonaldTrump #TankmanNation&#10;&#10;Interested in Political Debate? &#10;Link to join our free speech promotion server: https://discord.gg/mMGTGx7nf7&#10;Tankman Nation is hosting a debate show where political issues are discussed. A show to which debaters will be given a topic to debate on one week prior to the event. Debaters will have time to prepare and present their political view. Through their constructive speeches arguments will be formed to allow room for discussion.&#10;&#10;We promote a free speech community and urge all who have strong feelings on their side of the political party to speak out and let the world hear your voice!&#10;&#10;In addition to the free speech debate, we are also welcoming promotion partner that have the same ideology. We fight for a world that has free speech and protected human rights ! Together we will see a better tomorrow."
-    channeltitle "Tankman Nation"
-    channelid "UC1gkucrKcBpJHcEyUzZEDew"
+    date "2020-12-18T23:08:45Z"
+    title "Arizonas Maricopa County Refusing Subpoena To Audit Dominion Voting Machines"
+    description "12-18-20:&#10;&#10;Clint Hickman, the Chair of the Maricopa County Board of Supervisors is refusing to comply with the subpoena that would require Maricopa County to allow audits to be done on the Dominion Voting Systems that are currently used by and were used in the 2020 Presidential Election in their districts. &#10;&#10;This subpoena was requested by both the Republican Run House and Senate Members out of Arizona after claims came from a Maricopa County Republican Chairwoman, who saw first hand votes for Trump being switched to Biden by the Dominion machines during Election Night. &#10;&#10;#arizona #maricopacounty #republicans #democrats #electionfraud #electionirregularities #voting #voterfraud #joebiden #donaldtrump #presidenttrump #dominionvotingsystems #dominionvoting"
+    channeltitle "TSM The Silent Majority"
+    channelid "UCnZEfugv3C62QFSELN55OCg"
     favcount 0
-    viewcount 125
-    likecount 9
-    commentcount 4
-    duration "PT2M12S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 218
-    name "289"
-    label "dBVlDPBQlvo"
-    step 0
-    date "2020-11-16T23:55:25Z"
-    title "A rundown on the dominion voting machines and Trumps path to WIN!"
-    description "A rundown on the dominion voting machines and Trump's path to WIN! I'm talking Sidney Powell talks about voting anomalies, Rudy Giuliani, sounds of evidence, and how Joe Biden is on the hot seat."
-    channeltitle "The Insolent Bard"
-    channelid "UCDDjUE4OT80ioSwhwLsec_w"
-    favcount 0
-    viewcount 56
+    viewcount 167
     likecount 4
     commentcount 1
-    duration "PT12M42S"
+    duration "PT1M20S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 219
-    name "295"
-    label "N0TcDspQ_cs"
-    step 0
-    date "2020-11-07T05:33:09Z"
-    title "Nov. 7, 2020 The election software system in Michigan is called "
-    description "Every video clip in this channel is for educational purpose and has not made any profit.&#10;&#10;If it infringes any copyrights, please leave a message, and the video will be removed. &#10;&#10;&#128522; &#10;&#10;The clip is from twitter account &#10;&#10;&#10;Kyle Becker&#10;@kylenabecker&#10;Former Associate Producer/Writer &#10;@FoxNews&#10;. Former Director of Viral Media &#38; Sr. Mg. Ed. &#10;@TheIJR Also &#10;@DailyCaller&#10;&#10;&#10;tweet link is here&#10;&#10;&#10;Kyle Becker (@kylenabecker) Tweeted:&#10;The election software system in Michigan that switched 6,000 votes from Trump to Biden is called &#34;Dominion.&#34;&#10;&#10;It is used in 30 states including:&#10;&#10;&#9745;&#65039;Nevada&#10;&#9745;&#65039;Arizona&#10;&#9745;&#65039;Minnesota&#10;&#9745;&#65039;Michigan&#10;&#9745;&#65039;Wisconsin&#10;&#9745;&#65039;Georgia&#10;&#9745;&#65039;Pennsylvania&#10;&#10;Every single major swing state. EVERY. SINGLE. ONE. https://t.co/R6s2RnVmEF https://twitter.com/kylenabecker/status/1324867717808050176?s=20&#10;&#10;music royalty free&#10;&#10;title: Hero&#10;composer: MK2"
-    channeltitle "Fan Matisse"
-    channelid "UCCb80hQ1eGNJ8h4VW9KD3Yw"
-    favcount 0
-    viewcount 388
-    likecount 12
-    commentcount 0
-    duration "PT52S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 220
-    name "297"
+    id 294
+    label "yG1KuF-Whsk"
+    step 0
+    date "2020-11-14T22:08:51Z"
+    title "Dominion Voting Machines bought by Hackers on Ebay?"
+    description ""
+    channeltitle "Killer Fuzz &#38; Red Stacker Quantum"
+    channelid "UCGQoiNB2z0FE74VurZpVi5g"
+    favcount 0
+    viewcount 471
+    likecount 20
+    commentcount 2
+    duration "PT1M39S"
+    indegree 0
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 296
+    label "ePXcDNrCljg"
+    step 0
+    date "2020-11-22T04:33:52Z"
+    title "Eric Cr0m3r, Antifa and Dominion Voting Machine"
+    description ""
+    channeltitle "1A Free News Guy"
+    channelid "UCPz8NawhFvvOhXIGflWeG9g"
+    favcount 0
+    viewcount 67
+    likecount 2
+    commentcount 4
+    duration "PT6M6S"
+    indegree 0
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 297
     label "IUxtewUJhC8"
     step 0
     date "2020-12-03T19:31:34Z"
@@ -6180,77 +4218,50 @@ graph
     commentcount 0
     duration "PT10M21S"
     indegree 3
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 221
-    name "298"
-    label "er51uj8UWbQ"
+    id 299
+    label "lQzQKacLEXY"
     step 0
-    date "2020-11-14T16:31:15Z"
-    title " - Lou Dobbs - Dominion Voting Systems - Joe Biden - Nancy Pelosi"
-    description "Sidney Powell says is true, all hell is going to break loose.  The fate of the Democratic Party and the media is on the line. Losing the election will be the least of their worries!&#10;&#10;For days after the election, adherents to the QAnon conspiracy movement had been trying to get President Donald Trump&#8217;s attention with constant false claims about voter fraud connected to a company that makes voting machines.&#10;&#10;On Thursday, they celebrated. Trump tweeted in all-caps about a conspiracy theory that baselessly alleges that Dominion Voting Systems, a company that makes voting machines, &#8220;deleted&#8221; millions of Trump votes, citing a report on the far-right cable news outlet One America News Network.&#10;&#10;While the theory has already been debunked &#8212; including by Chris Krebs, director of the Cybersecurity and Infrastructure Security Agency, which is tasked with national security related to the internet and technology &#8212; Trump's tweet offered a sliver of energy at a time when the QAnon movement had stalled, waiting for its leader, &#8220;Q,&#8221; to return with guidance from a hiatus that began on the morning of Election Day and lasted more than a week.&#10;&#10;But QAnon is far from done. The movement's recent evolution and activity around the Dominion conspiracy theory highlight how even Joe Biden's election win and the disintegration of the broader QAnon narrative do not spell the end of the broader conspiracy ecosystem it has built.&#10;&#10;Advance Democracy, a nonpartisan nonprofit that tracks misinformation, found that 1 in 7 tweets about &#8220;#Dominion&#8221; since Nov. 5 originated from accounts that self-identified as QAnon accounts. Tweets featuring the #Dominion hashtag rose from about 75 tweets per day to over 35,700 each day in the last week.&#10;&#10;QAnon adherents had been reeling in the last week, as the conspiracy prophecy had seemingly failed. The conspiracy theory posited that Trump was secretly working to save the world from a cabal of high-profile Democrats who murder children to appease Satan, and that an anonymous user named &#8220;Q&#8221; on the extremist website 8kun was outlining his secret plan to round up and execute them.&#10;&#10;President Trump will win the Election!&#10;&#10;The Dominion Voting Machine was used by the Democrats to switch the Trump votes with the Biden votes.&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/awesomemosewa20&#10;https://www.tiktok.com/@awesomemosewa"
-    channeltitle "American Maggic"
-    channelid "UCoFbwV0czAL_61gESdO8L9Q"
+    date "2021-05-01T08:47:41Z"
+    title "NEWSMAX APOLOGIZES, walks back all Dominion voting fraud claims."
+    description "Here's the link:&#10;https://www.nbcnews.com/politics/2020-election/newsmax-apologizes-vote-manipulation-claims-against-dominion-leader-n1266040"
+    channeltitle "Artist N Recovery"
+    channelid "UCc6isy6l7goznFzqEO9yHEw"
     favcount 0
-    viewcount 182
-    likecount 4
-    commentcount 3
-    duration "PT6M59S"
+    viewcount 136
+    likecount 21
+    commentcount 4
+    duration "PT10M25S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 222
-    name "300"
-    label "xGv6ykrLC3I"
+    id 302
+    label "Xw4JTFat4ac"
     step 0
-    date "2022-07-09T12:59:31Z"
-    title "Lenius: A Terrifying New Level of Magical DPS | Unit Showcase | Last Cloudia"
-    description "I hope you guys enjoy! This was definitely a fun one to make!&#10;&#10;Shoutout to Lake for his amazing information regarding units, to help me make this kind of showcase!&#10;&#10;Cheers!&#10;~Tweacz&#10;&#10;#lenius #lastcloudia &#10;&#10;Join the LC Discord: https://discord.gg/lastcloudia&#10;Check out Lake's Goldmine (the best LC resource): https://www.lastcloudia-goldmine.com/&#10;Check out Lake's Farming Tool: https://tinyurl.com/LakesGodlyFarmingTool&#10;Check out the GL Tier List: https://tinyurl.com/LastCloudiaTL&#10;&#10;Timestamps:&#10;00:00 Intro&#10;00:11 Overview&#10;01:18 Traits&#10;03:58 Regular Attack, Skills, Special&#10;08:00 Magic Spells&#10;11:06 Passives&#10;20:46 Equipment Selections&#10;25:40 Ark Selections&#10;29:40 vs Lambda (Thunder Magic)&#10;31:10 vs Mother System (Thunder Magic)&#10;34:54 vs Mardagade (Ice Magic)&#10;36:00 vs Green Gate (Earth Magic)&#10;37:46 Multiplayer Suggestions&#10;40:52 Closing Thoughts on Lenius"
-    channeltitle "Tweacz"
-    channelid "UCxOPjFRUF9K7-lHr-g7Ho0Q"
+    date "2020-11-24T05:00:21Z"
+    title "Chairwoman Kelli Wardaz peels back the curtains to EXPOSE Dominion Voting Software"
+    description "Chairwoman Kelli Wardaz peels back the curtains to EXPOSE Dominion Voting Software"
+    channeltitle "Truth News"
+    channelid "UC5XVjRBowsQgtxdPVTLhRcw"
     favcount 0
-    viewcount 1953
-    likecount 92
-    commentcount 21
-    duration "PT42M47S"
+    viewcount 157
+    likecount 11
+    commentcount 2
+    duration "PT5M57S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 223
-    name "303"
+    id 303
     label "trJyenLrwVA"
     step 0
     date "2020-11-24T19:52:06Z"
@@ -6264,21 +4275,12 @@ graph
     commentcount 0
     duration "PT9M10S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 224
-    name "304"
+    id 304
     label "a6IpeIWzi6E"
     step 0
     date "2020-12-25T06:24:19Z"
@@ -6292,49 +4294,31 @@ graph
     commentcount 0
     duration "PT3M10S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 225
-    name "305"
-    label "y6OpIy7muk0"
+    id 307
+    label "u_lc_E3nGtw"
     step 0
-    date "2020-11-24T20:26:58Z"
-    title "US election voting Dominion voting ,Smartmatic voting. Democratic party."
-    description "TrumpCampaign should encourage everyone in the US to confirm their Trump vote at http://Vote.DonaldJTrump.com then drill down to the precinct level to prove our Trump votes were swapped in the machines stored on hacked EAC &#8220;certified&#8221; memory cards tallied"
-    channeltitle "Access_Reality_Truth"
-    channelid "UCGZpWNeaspQ6E7xy7n2mn7Q"
+    date "2020-12-09T19:25:23Z"
+    title "VoterGA announced today it has confirmed the Dominion Democracy Suite 5.5 system"
+    description "ROUGH TRANSCRIPT:&#10;Hello and welcome to ASL Patriot Broadcast!&#10;&#10;Press Release Contact: December 3, 2020   ATLANTA GA &#8211;    VoterGA announced today it has confirmed the Dominion Democracy Suite 5.5 system used throughout Georgia flipped dozens of votes cast in at least one county for President Donald Trump to former Vice President Joe Biden during the November 3rd 2020 election. Dominion vote flipping from Trump to Biden was previously believed to have occurred only in Antrim County, Michigan where the system swapped 6,000 votes from Trump to Biden. In Georgia, Ware County Elections Director confirmed that the recently completed hand count audit totals showed the total electronic vote count shorted Donald Trump 37 votes and added those 37 votes to totals for Joe Biden. The 37 swapped votes of the 74 total impacted represents .26% of the 14,192 county votes cast, exactly the same as Biden&#8217;s total statewide margin of .26%. State Election Director Chris Harvey&#8217;s November 16 th memo instructed counties to certify all Dominion results if they included all ballots cast. After Harvey pressed counties to disregard any potential Dominion counting inaccuracies, Secretary of State (SOS) Brad Raffensperger ordered counties to reset their machines for the U.S. Senate race, which would destroy potential evidence of tabulation malware. Secretary Raffensperger forced Georgia counties to enter their audit results into a centralized ARLO system rather than their own data sources. That broke the audit reporting chain and allowed the SOS office to tell counties what their results are rather than counties reporting their results to the state using generally accepted American election reporting principles. VoterGA polled all 159 counties and found roughly 150 of them had no electronic totals for their own hand count audit. ARLO was supported in Georgia by VotingWorks, whose founder Ben Adida posted anti-Trump profanity on social media. The same is true for Dominion&#8217;s Eric Coomer, the V.P of Systems Strategy and Security, a software patent holder and expert state defense witness in the Curling V. Raffensperger case against Georgia&#8217;s Dominion voting system. Coomer, whose many historical posts on Social media prove he is an ultimate Trump hater, was also identified on an Antifa conference call telling members that: &#8220;Trump is not going to win. I made f***ing sure of it&#8221;.  HOWEVER the Democrats are saying it did not happen.  Instead, &#8220;Ware County Election Supervisor Carlos Nelson told the Associated Press that an election worker made a small tabulation error that involved the 37 votes.&#10;Election officials discovered the mistake during an internal audit and corrected the figure in the full hand recount of paper ballots, he said. There was never an issue with the technology from Dominion.&#8221;  Dominion Voting Systems has also repeatedly denied claims that its machines deleted or switched votes. A statement on its website notes that &#34;all baseless claims have been debunked by election officials, subject matter experts and third-party fact-checkers.&#34;  The fact checker for THIS article says it&#8217;s not true based on what the Ware co supervisor said.  Well, guess what?  At the VERY bottom of the fact checker article, it said, &#8220;Our fact check work is supported in part by a grant from Facebook.&#8221;  Wow! Facebook is everywhere!!! Even in USA TODAY!  Does USA Today need Facebook&#8217;s money???&#10;Really? Here&#8217;s some MORE evidence!!!  We are seeing pictures of different examples where the print out papers shows votes has been changed!  One area had 524 votes about MM legality.  Tied at 262 each.  Recounted came out to 262 yes and 261 no. 523 total votes.  This law passed.  Here&#8217;s another better example.  One county school board voting had a total of 1068 votes.   Printout was a little out of focus so let me sum it up&#8230; Melaine had 519 while Keith  had 525 votes, then &#8220;write in&#8221;  had 24.  They redid the count and suddenly Melaine has 852 (up from 519) and Keith has 846(up from 525).   HOW???  Then in one other board school in different CO. They had a total of 663 votes.  Mark had 333 and Christopher had 320.  &#10; They AUDITED the ballots (Not recount) then the qualifying ballots that were left were drastically different.  Each of them got 3 votes.  Total qualifying votes were down from 663 votes to 6 votes.   This might seem small. But on numbers that goes into the thousands or hundreds of thousands, those little percentages adds up.  &#10;&#10;There is EVIDENCE of fraud out there.  Go and look.   &#10;&#10;Facebook link: https://www.facebook.com/ASLPB2020&#10;MeWe link: https://mewe.com/join/aslpatriotbroadcast&#10;Gab link: https://gab.com/ASLPatriotBroadcast&#10;Rumble link:  https://rumble.com/user/ASLPatriotBroadcast&#10;YouTube link: https://www.youtube.com/channel/UCKmOZpjcn6dK0HifpTpJzGA"
+    channeltitle "ASL Patriot Broadcast"
+    channelid "UCKmOZpjcn6dK0HifpTpJzGA"
     favcount 0
-    viewcount 64
-    likecount 3
-    commentcount 0
-    duration "PT14M40S"
+    viewcount 294
+    likecount 4
+    commentcount 1
+    duration "PT12M4S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 226
-    name "308"
+    id 308
     label "-L-wvLFDjGs"
     step 0
     date "2020-11-29T02:50:34Z"
@@ -6348,21 +4332,12 @@ graph
     commentcount 2
     duration "PT34M53S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 227
-    name "309"
+    id 309
     label "ES3bHdHCc4A"
     step 0
     date "2020-11-14T17:56:07Z"
@@ -6376,21 +4351,12 @@ graph
     commentcount 0
     duration "PT21S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 228
-    name "310"
+    id 310
     label "ldjZtKC6U9Q"
     step 0
     date "2020-11-14T23:42:37Z"
@@ -6404,49 +4370,31 @@ graph
     commentcount 0
     duration "PT6M51S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 229
-    name "311"
-    label "9l1a2dE25Hw"
+    id 312
+    label "8-W24yYj_n0"
     step 0
-    date "2022-07-06T16:55:21Z"
-    title "POLICE RELEASED 54 WOMEN AFTER THE UN FREEDOM OF ASSOCIATION URGED THE GOVERNMENT TO DO SO"
-    description "Police has released 54 protestors arrested and detained for illegal and unlawful demonstrating on Monday without charges.&#10;This came as a result of the tweet from the UN Special Rapporteur Freedom of Association i quote '' #SierraLeone - I&#8217;m concerned about reports related to yesterday's arrest &#38; #detention by police of a number of people, mainly women, who demonstrated against the cost of living. I urge the State to immediately release those detained and to guarantee their access to #justice.&#10;#SierraLeone - I remind the government of its obligation to guarantee the right to peaceful assembly, whether planned or spontaneous, and regardless of the organizers&#8217; registration status. Authorities should facilitate peaceful #assemblies.&#10;&#10;However;Femi Claudius-Cole and Dennis Bright remain in custody.&#10;&#10;THIS AND MORE FOR YOU IN THIS EDITION OF WI YARD 06/07/22"
-    channeltitle "Wi Yard"
-    channelid "UCZQRp0r2C0PTZtzzzIgWP5w"
+    date "2020-11-12T22:03:44Z"
+    title "Joe Biden and Dominion Voting Machines that Flipped Votes in 28 States, 9 Top Counties"
+    description "MSM doesn't care what Joe Biden says but you should"
+    channeltitle "Tate Chasers"
+    channelid "UChS7p2emhoFlyDSthDk7PWA"
     favcount 0
-    viewcount 11031
-    likecount 605
-    commentcount 35
-    duration "PT1H40M43S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    viewcount 3555
+    likecount 170
+    commentcount 32
+    duration "PT1M49S"
+    indegree 7
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 230
-    name "313"
+    id 313
     label "VoGzak3GuTk"
     step 0
     date "2020-11-25T00:15:01Z"
@@ -6460,49 +4408,31 @@ graph
     commentcount 90
     duration "PT8M50S"
     indegree 4
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 231
-    name "314"
-    label "v324ldxBtRA"
+    id 316
+    label "uaQwy7IvC20"
     step 0
-    date "2020-11-16T17:28:06Z"
-    title " - Patriots of America - Dominion Voting Systems Fraud is Real"
-    description "Patriots are out supporting President Trump.  We need to fight for our rights and can't let the Democrats run us over with this massive election Fraud.&#10;&#10;The Democrats have been planning this for a long time, trying to get President Trump out of office before the election! They knew he had dirt on them and only a matter of time, the ENTIRE SWAMP WILL BE DRAINED!&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/awesomemosewa20&#10;https://www.tiktok.com/@awesomemosewa"
-    channeltitle "Maggic America"
-    channelid "UCMxhati9F3pdAiLdjX6r0xQ"
+    date "2020-11-17T08:12:55Z"
+    title "Latest on Lawsuits of Voter Fraud  Election Fraud with the Dominion Voting System 11/16/20"
+    description ""
+    channeltitle "Bret Griffiths"
+    channelid "UCE7fYHO0P5SJ8rH5WMr5l8Q"
     favcount 0
-    viewcount 10
-    likecount 1
-    commentcount 0
-    duration "PT1M45S"
+    viewcount 149
+    likecount 11
+    commentcount 4
+    duration "PT11M54S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 232
-    name "317"
+    id 317
     label "QIw2B475t0w"
     step 0
     date "2020-12-10T14:00:10Z"
@@ -6516,77 +4446,50 @@ graph
     commentcount 0
     duration "PT16M50S"
     indegree 5
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 233
-    name "318"
-    label "GFVpY7EqTIo"
+    id 320
+    label "RrO11lT0aaY"
     step 0
-    date "2020-11-26T01:37:59Z"
-    title "Dominion CEO Admits Using Parts Made in Communist China in a House Hearing in January"
-    description "Dominion CEO Admits Using Parts Made in Communist China in a House Hearing in January&#10;&#10;Ref:&#10;https://gnews.org/590751/ &#10;&#10;Before the House Administration Committee (Jan. 9, 2020), CEOs of voting system companies, including the Election Systems &#38; Software (ES&#38;S) president &#38; CEO, Tom Burt and the Dominion Voting System&#8217;s President &#38; CEO, John Poulos, admitted that their voting systems used components made-in-Communist-China. All 3 CEOs admitted that none of the voting systems was 100% safe.&#10;&#10;#stopthesteal #Verifythevote #Voterfraud #Trump #prayforamerica #Whistleblowermovement #TakeDownCCP #TheNewFedralStateOfChina"
-    channeltitle "G&#36319;&#38568;&#21271;&#32654;&#25945;&#32244;"
-    channelid "UCJnMyeDxwzMMP2qlo3Y0lnw"
+    date "2020-11-18T04:25:01Z"
+    title "Sidney Powell 11/17/20 Newsmax Dominion Voting"
+    description ""
+    channeltitle "denverflynn"
+    channelid "UCS5RpSBiQFkz2oeEB-Hfoqw"
     favcount 0
-    viewcount 41
-    likecount 2
-    commentcount 1
-    duration "PT9M12S"
+    viewcount 743
+    likecount 24
+    commentcount 2
+    duration "PT2M40S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 234
-    name "321"
-    label "qxw6rM0_Gys"
+    id 322
+    label "YNoqtkyhVls"
     step 0
-    date "2022-07-04T05:11:18Z"
-    title "Abort Abortion: 23 Scriptures that Oppose Abortion"
-    description "In light of the recent US Supreme Court overturn of Roe vs. Wade, Pastor Mark shares this topical sermon with 23 different Scripture verses giving reasons why true Christians must oppose abortion.&#10;&#10;Connect with Me:&#10;Twitter:  http://twitter.com/pastormark &#10;Instagram:  http://instagram.com/markdriscoll &#10;Facebook:  http://facebook.com/pastormark &#10;&#10;Follow Our Church: &#10;Twitter:  https://twitter.com/TheTrinityChrch?s=20 &#10;Instagram:  https://www.instagram.com/trinitychrch/&#10;Facebook:  https://www.facebook.com/trinitychrch&#10;Abort Abortion: Realfaith.com/abortabortion"
-    channeltitle "Real Faith by Mark Driscoll"
-    channelid "UCyzD6QsOut9S3e854Ffj41g"
+    date "2020-12-16T21:02:47Z"
+    title "KAMALA HARRIS AND DOMINION VOTING ARRANGE A COUP ON ELYSIUM"
+    description "Who acted better, Kamala Harris or the Dominion CEO John Poulos? Leave your answer in comments. https://SILVIEW.media &#8220;Minecraft&#34; &#34;ASMR&#34; &#34;pewdiepie&#34; &#34;music&#34; &#34;Fortnite&#34; &#34;markiplier&#34; &#8220;YouTube is a perfectly balanced game with no exploits.&#8221; &#34;Runescape&#34; &#34;World of Warcraft&#34; &#34;Shadowlands&#34; &#34;Dream&#34; &#34;MrBeast&#34; &#34;Warzone&#34; &#34;FaZe Clan&#34; &#34;100 Thieves&#34; &#34;Call of Duty&#34; &#34;Pokemon&#34; &#34;Pokemon cards&#34; &#34;card unboxing&#34; &#34;Charizard&#34; &#34;they don't want you to know&#34; &#34;Flat earth&#34; &#34;round earth&#34; &#34;triangle earth&#34; &#34;the earth is not earth&#34; &#34;omg government is lying to you&#34; &#34;Minecraft&#34; &#34;ASMR&#34; &#34;pewdiepie&#34; &#34;music&#34; &#34;Fortnite&#34; &#34;markiplier&#34; &#8220;YouTube is a perfectly balanced game with no exploits&#8221; &#34;Runescape&#34; &#34;World of Warcraft&#34; &#34;Shadowlands&#34; &#34;MrBeast&#34; &#34;Warzone&#34; &#34;FaZe Clan&#34; &#34;100 Thieves&#34; &#34;Call of Duty&#34; &#34;Pokemon&#34; &#34;Halo&#34; &#34;Devil may cry&#34; &#8220;YouTube is a perfectly balanced game with no exploits.&#8221; &#8220;Cocomelon&#8221; &#8220;t series&#8221; &#8220;Minecraft&#34; &#34;ASMR&#34; &#34;pewdiepie&#34; &#34;music&#34; &#34;Fortnite&#34; &#34;markiplier&#34; &#8220;YouTube is a perfectly balanced game with no exploits.&#8221; &#34;Runescape&#34; &#34;World of Warcraft&#34; &#34;Shadowlands&#34; &#34;Dream&#34; &#34;MrBeast&#34; &#34;Warzone&#34; &#34;FaZe Clan&#34; &#34;100 Thieves&#34; &#34;Call of Duty&#34; &#34;Pokemon&#34; &#34;Pokemon cards&#34; &#34;card unboxing&#34; &#34;Charizard&#34; &#34;they don't want you to know&#34; &#34;Flat earth&#34; &#34;round earth&#34; &#34;triangle earth&#34; &#34;the earth is not earth&#34; &#34;omg government is lying to you&#34; &#34;Minecraft&#34; &#34;ASMR&#34; &#34;pewdiepie&#34; &#34;music&#34; &#34;Fortnite&#34; &#34;markiplier&#34; &#8220;YouTube is a perfectly balanced game with no exploits.&#8221; &#34;Runescape&#34; &#34;World of Warcraft&#34; &#34;Shadowlands&#34; &#34;Dream&#34; &#34;MrBeast&#34; &#34;Warzone&#34; &#34;FaZe Clan&#34; &#34;100 Thieves&#34; &#34;Call of Duty&#34; &#34;Pokemon&#34; &#34;Halo&#34; &#34;Devil may cry&#34; &#8220;YouTube is a perfectly balanced game with no exploits.&#8221; &#8220;Cocomelon&#8221; &#8220;t series&#8221;"
+    channeltitle "Silview Media Backup Channel"
+    channelid "UCpsM3LQNrWVB97QpDnEN8TQ"
     favcount 0
-    viewcount 1725
-    likecount 95
-    commentcount 4
-    duration "PT56M13S"
+    viewcount 68
+    likecount 5
+    commentcount 0
+    duration "PT2M8S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 235
-    name "323"
+    id 323
     label "TbUrzCA9Jio"
     step 0
     date "2020-11-16T17:21:56Z"
@@ -6600,21 +4503,12 @@ graph
     commentcount 1
     duration "PT2M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 236
-    name "324"
+    id 324
     label "3OG0TX7wpvs"
     step 0
     date "2020-11-22T12:08:57Z"
@@ -6628,21 +4522,12 @@ graph
     commentcount 1
     duration "PT2M21S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 237
-    name "325"
+    id 325
     label "KerqDHrR8xY"
     step 0
     date "2021-06-08T18:59:14Z"
@@ -6656,77 +4541,50 @@ graph
     commentcount 2
     duration "PT2M30S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 238
-    name "326"
-    label "dPixqLHb6oU"
-    step 0
-    date "2022-07-05T03:13:06Z"
-    title "Paganism 2 - Apostle Arome Osayi"
-    description "Wonderful sermon by the Man of God"
-    channeltitle "SpiritofTruth"
-    channelid "UCwhYMZ4iTX5wY3rLBDf_n0g"
-    favcount 0
-    viewcount 352
-    likecount 8
-    commentcount 0
-    duration "PT2H6M49S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 239
-    name "328"
-    label "Eh1mZCQHFiY"
+    id 327
+    label "5tr0W9vT4Dk"
     step 0
-    date "2022-07-04T17:50:49Z"
-    title "4th of July Political Tarot Readings with Jenn Lynn"
-    description "#politicalnews  #economy #Tarot #readings #housing &#10;Reading topics include : What is happening to the Amazon Rainforest and can it be saved?&#10;Fox Daytime News breaking away from Donald Trump will Tucker and Sean Hannity follow too?&#10;SCOTUS taking over the electoral system state by state?&#10;Merrick Garland DOJ going to indictment of a higher up Gov official soon?&#10;Ronna McDaniel's political future... did she know about the fake electoral system plan?&#10;Is Giuliani in more trouble because of Lev Parnas? Will more republicans be named from taking oligarch money funneled through Lev Parnas?&#10;Governor Newsom running adds in Florida, how does DeSantis feel about that?&#10;How will most Americans feel they are doing financially by Christmas time?&#10;How will we be doing financially by early spring 2023?&#10;How will the housing market be doing by early spring 2023?&#10;Will prices go down by early spring?&#10;The crownbug numbers are rising here, will we have a new wave in Fall?&#10;Will the new vaccine that targets Omicron be successful and will people take it?&#10;Alex Jones from Infowars said Roger Stone told him that Trump would announce he's running for President in 2024 on July 4th, will he or will there be a delay?&#10;A reading for you and I , what do we need to know for rest of the week?&#10;&#10;***If you would like to schedule a reading with me please visit my website to book your appointment&#10;https://www.thewayofpositivechange.com/&#10;To donate to my channel and thank you  https://www.paypal.me/loricrawford11&#10;The NEW Super Thanks button has been activated below the current videos if you would like to donate that way as well, thank you!"
-    channeltitle "The Way of Positive Change"
-    channelid "UCi30HhbAH04YjE-eL8BeGeQ"
+    date "2020-11-22T06:29:58Z"
+    title "Eric Coomer dominion"
+    description "Eric Coomer director of product strategy and security for Dominion Voting Systems, bragged about rigging the 2020 election against Donald Trump in an antifa conference call."
+    channeltitle "Bobby Hodges"
+    channelid "UCgqL3h_E0YDcLeUzwIi6Dmw"
     favcount 0
-    viewcount 8161
-    likecount 1292
-    commentcount 74
-    duration "PT1H14M24S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    viewcount 3072
+    likecount 82
+    commentcount 0
+    duration "PT3M"
+    indegree 1
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 240
-    name "332"
+    id 331
+    label "JI08fK_CEAc"
+    step 0
+    date "2020-11-11T03:06:25Z"
+    title "BREAKING: Dominion System SWITCHES 512,095 to Biden and Erases 2,865,757 Votes from TRUMP across USA"
+    description "BREAKING EXCLUSIVE: Analysis of Election Night Data from All States Shows MILLIONS OF VOTES Either Switched from President Trump to Biden or Were Lost&#10;&#10;We&#8217;ve reported on numerous events in the 2020 election which are being referred to as system &#8216;glitches&#8217; in the media. &#10;Last night we provided another &#8216;glitch&#8217;, this time in Wisconsin, which if reversed would eliminate Biden&#8217;s reported vote lead in the state. &#10;&#10;Tonight we have obtained an unaudited analysis of data available for all the states looking for system glitches and other oddities in vote counts related to the Presidential race only. &#10;Last night we reported on another so called system &#8216;glitch&#8217;, this time in a county in Wisconsin.  Evidence was provided to us that showed that the vote totals for Rock County appeared to be switched between President Trump and Joe Biden.  9,516 votes were eliminated from President Trump and moved to Joe Biden. This 19,032 vote difference when corrected would eliminate Biden&#8217;s lead in Wisconsin.&#10;&#10;In the post last night we also identified issues we&#8217;ve reported on in Michigan, Pennsylvania and Georgia where similar &#8216;glitches&#8217; occurred.&#10;&#10;We next attempted to obtain more data on this issue so we could determine how widespread this issue may be and/or if there are reasonable explanations for what is occurring.&#10;&#10;In the piece the author claims his work is a full list of votes switched from Trump to Biden or votes erased by Dominion (the vote machines used in many states across the US).&#10;&#10;(The author claims that his work has been verified but we have not verified the results so we currently are labeling his results unaudited.)&#10;&#10;The author decided to obtain the data himself and perform an analysis of national votes switched from Trump to Biden and votes erased (the total amount of votes counted decreased by that amount throughout the counting).&#10;&#10;The author obtained data that has been passed around that was reportedly captured by the New York Times on election night.&#10;&#10;By examining the data the author was able to locate an instance where votes were switched from Trump to Biden so he decided to perform an analysis on the entire data set, starting with the states where Dominion voting machines are used.&#10;&#10;The author also claims that the data is from Edison Research and it is the same data that is used for election coverage by at least ABC News, CBS News, CNN and NBC News.&#10;&#10;It is also used for the website of the NYT, and probably others as well.&#10;&#10;The Chart Lists Votes Switched from Trump to Biden and Votes That Were Lost by Trump&#10;Switched Votes Lost Votes&#10;&#10;Dominion Systems &#10; &#10;Pennsylvania    220,883 941,248&#10;New Jersey              80,242 20&#10;Florida                     21,422 456&#10;Michigan             20,213 21,882&#10;New York             18,124 623,213&#10;Georgia                     17,407 33,574&#10;Ohio                     14,965 5,102&#10;Virginia                     12,163 789,023&#10;California                7,701 10,989&#10;Arizona                       4,492 0&#10;Minnesota               2,766 195,650&#10;Tennessee               2,330 0&#10;Louisiana               2,322 0&#10;Illinois                       2,166 54,730&#10;Wisconsin               2,078 3,408&#10;Colorado               1,809 0&#10;Utah                       1,627 0&#10;New Hampshire          973 116&#10;Iowa                          938 477&#10;New Mexico                   268 4,610&#10;Missouri                       0 20,730&#10;Nevada                               0 0&#10;Alaska                               0 0&#10;Washington                       0 0&#10;Hawaii                               0 0&#10;                                  434,889 2,705,228&#10;&#10;Kansas and Texas use Premier Election Solutions, Owned by Dominion&#10;&#10;Texas                     14,954 30,557&#10;Kansas                       1,674 2,154&#10;                                    16,628 32,711&#10;&#10;Election Systems &#38; Software  &#10;&#10;Nebraska               30,086 50&#10;Kentucky                 8,129 23,849&#10;Arkansas                 3,664 20,748&#10;South Carolina              2,779 2,119&#10;Montana                  2,330 1,276&#10;South Dakota          1,347 1&#10;North Dakota            234 681&#10;Maryland                    203 0&#10;North Carolina                0 15&#10;District of Columbia        0 0&#10;                                      48,772 48,739&#10;Unknown Systems  &#10;Connecticut                  3,834 272&#10;Massachusetts           3,613 51&#10;Oregon                          2,557 0&#10;Alabama                  1,170 408&#10;Mississippi                    355 0&#10;Maine                             271 35&#10;Rhode Island                       6 13&#10;West Virginia               0 78,300&#10;Idaho                               0 0&#10;Oklahoma                       0 0&#10;Indiana                               0 0&#10;Delaware                       0 0&#10;Vermont                               0 0&#10;                                    11,806 79,079&#10;OVERALL TOTALS 512,095 2,865,757&#10;&#10;Based on this initial analysis over 500,000 votes were identified that were switched from President Trump to Joe Biden. &#10;&#10;In addition to this another 2,865,757 votes were deleted."
+    channeltitle "Bret Griffiths"
+    channelid "UCE7fYHO0P5SJ8rH5WMr5l8Q"
+    favcount 0
+    viewcount 536
+    likecount 34
+    commentcount 7
+    duration "PT8M23S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 332
     label "sEvaOMJ7jV0"
     step 0
     date "2020-11-19T20:16:23Z"
@@ -6740,49 +4598,31 @@ graph
     commentcount 281
     duration "PT6M39S"
     indegree 2
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 241
-    name "333"
-    label "oSy6Ytmq0LE"
+    id 335
+    label "qiWHa04qugU"
     step 0
-    date "2022-07-08T21:44:55Z"
-    title "FED Choking Out CRYPTO MARKETS (MAJOR BACKLASH Over Job Outlook)"
-    description "Today we will be discussing June&#8217;s stronger than expected jobs report and with that means for the economy going forward. Next we&#8217;ll look at new crypto ethics rules put out by the US office of Gov. Ethics and last we&#8217;ll talk about one of Canada&#8217;s biggest telecommunications networks going down across the country.&#10;&#10;Around the Blockchain is your favorite Cryptocurrency show discussing Bitcoin, Ethereum, Cardano, and the top altcoins. Our four crypto experts RiceTVx, The Crypto Factor, Cryptostache, &#38; Johnny Hopper. Tune in for their insightful crypto analysis.&#10;&#10;RiceTVx:&#10;[https://www.youtube.com/c/RICETVx](https://www.youtube.com/c/RICETVx &#34;&#8204;&#34;)&#10;[https://twitter.com/RiceTVx](https://twitter.com/RiceTVx &#34;&#8204;&#34;)&#10;&#10;The Crypto Factor:&#10;[https://www.youtube.com/c/TheCryptoFactor](https://www.youtube.com/c/TheCryptoFactor &#34;&#8204;&#34;)&#10;[https://twitter.com/mcpauld](https://twitter.com/mcpauld &#34;&#8204;&#34;)&#10;&#10;Cryptostache:&#10;[https://www.youtube.com/c/CryptoStache](https://www.youtube.com/c/CryptoStache &#34;&#8204;&#34;)&#10;[https://twitter.com/CryptoStache](https://twitter.com/CryptoStache &#34;&#8204;&#34;)&#10;&#10;Johnny Hopper:&#10;[https://www.youtube.com/channel/UCMQ90convZ6yyzj0r-IgDGQ](https://www.youtube.com/channel/UCMQ90convZ6yyzj0r-IgDGQ &#34;&#8204;&#34;)&#10;[https://twitter.com/johnny___crypto/](https://twitter.com/johnny___crypto/ &#34;&#8204;&#34;)&#10;&#10;Intro music by Gregario Franco. Song - Nacht&#10;[https://gregoriofranco.bandcamp.com/](https://gregoriofranco.bandcamp.com/ &#34;&#8204;&#34;)&#10;&#10;Top Videos:&#10;&#128211;Crypto 101: https://youtu.be/AaNfHskwLdg&#10;&#127960;&#65039;Housing Crisis: https://youtu.be/a51Oi34c6Jc&#10;&#127760;Internet Is Rotting Away: https://youtu.be/_rB6vjvYjNE&#10;&#128187;Cyber Warfare: https://youtu.be/gubDnq8jJxI&#10;&#127757;World Economic Forum: https://youtu.be/ZOOtPB1pYtE&#10;&#10;&#10;Learn more about crypto &#10145;&#65039; https://bitlabacademy.com&#10;How to join Cardano (ADA) BitPool &#10145;&#65039; https://bitboycrypto.com/how-to-stake-ada-with-bpool/&#10;&#10145;&#65039; MERCHANDISE: https://www.hitmerch.com/&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;Connect with Me &#38; the BitSquad!&#10;Join the BitSquad &#10145;&#65039; http://t.me/BitSquad&#10;Join BitSquad Traders &#10145;&#65039; http://t.me/BitSquadTraders&#10;Join Me on Twitter &#10145;&#65039; https://twitter.com/Bitboy_Crypto&#10;Join Me on Instagram &#10145;&#65039; https://www.instagram.com/bitboy_crypto&#10;Join Me on TikTok &#10145;&#65039; https://www.tiktok.com/@RealBitBoyCrypto&#10;Join Me on Minds &#10145;&#65039; https://www.minds.com/bitboy_crypto&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;ByBit, Market Cipher, Ledger, TokenMetrics, Crypto.com &#38; more!&#10;Find deals on hardware wallets, trading indicators, exchanges &#38; more.&#10;Find Crypto DEALS &#10145;&#65039; https://bitboycrypto.com/deals&#10;&#9679;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9679;&#10;All of our videos are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies and not all strategies fit all people. Our videos ARE NOT financial advice.&#10;&#10;#bitcoin #ethereum #crypto #news #nft #economy #money #blockchain #invest #inflation"
-    channeltitle "BitBoy Crypto"
-    channelid "UCjemQfjaXAzA-95RKoy9n_g"
+    date "2022-07-06T16:27:40Z"
+    title "Are FFXIV Billboards Illegal? | Copyright, Trademark and Square Enix (VL686)"
+    description "Final Fantasy XIV is one of the most popular multiplayer RPG's on Earth.  So popular, in fact, that it seems that everyone wants to get the word out.  But are billboards advertising a risque community get together going, perhaps, too far?&#10;&#10;We like to make sure things are &#34;above board&#34;...in Virtual Legality.&#10;&#10;#ffxiv #copyright #billboard &#10;&#10;***&#10;WANT TO SUPPORT THE CHANNEL?&#10;&#10;UTREON - https://utreon.com/c/hoeglaw/&#10;PATREON - https://www.patreon.com/VirtualLegality&#10;STORE - https://teespring.com/stores/hoeg-law-store&#10;&#10;BITCAST (Sundays 11AM Eastern) - https://www.youtube.com/channel/UCgHBXONMT06nX_8RZ5r32UA&#10;&#10;***&#10;CHAPTERS&#10;00:00 Introduction&#10;2:40 Copyright Fundamentals&#10;7:00 Trademark Fundamentals&#10;11:37 Square Enix Account Agreement&#10;21:02 User Agreement and Software License&#10;31:56 Materials Usage Agreement&#10;43:08 Conclusion&#10;&#10;***&#10;Discussed in this episode:&#10;&#10;TWEETS&#10;https://twitter.com/Mrhappy1227/status/1544401751586918400&#10;https://twitter.com/Julia_CaSsian/status/1544391962610089988&#10;&#10;LAW AND LEGAL ANALYSIS&#10;https://www.law.cornell.edu/uscode/text/17/106&#10;https://www.copyright.gov/circs/circ14.pdf&#10;https://www.law.cornell.edu/uscode/text/17/107&#10;https://www.uspto.gov/trademarks/basics/what-trademark&#10;https://www.uspto.gov/trademarks/basics/trademark-patent-copyright&#10;https://www.law.cornell.edu/uscode/text/15/1114&#10;&#10;SQUARE ENIX AGREEMENTS&#10;https://na.finalfantasyxiv.com/lodestone/topics/detail/c4aeca0b14ab2c96fe48fcf83cca93e6cb552c29&#10;https://support.na.square-enix.com/rule.php?id=496&#38;la=1&#38;tag=sqexaccount&#10;https://support.na.square-enix.com/rule.php?id=5382&#38;la=1&#38;tag=users_en&#10;https://support.na.square-enix.com/rule.php?id=5382&#38;la=1&#38;tag=software_en&#10;https://support.na.square-enix.com/rule.php?id=5382&#38;la=1&#38;tag=authc&#10;&#10;***&#10;&#34;Virtual Legality&#34; is a continuing series discussing the law, video games, software, and everything digital, hosted by Richard Hoeg, of the Hoeg Law Business Law Firm (Hoeg Law). &#10;&#10;CHECK OUT THE REST OF VIRTUAL LEGALITY HERE: &#10;https://www.youtube.com/playlist?list=PL1zDCgJzZUy9YAU61GoW-00K0TJOGnPCo&#10;&#10;DISCUSSION IS PROVIDED FOR INFORMATIONAL PURPOSES ONLY AND IS NOT TO BE CONSTRUED AS LEGAL ADVICE.  INDIVIDUALS INTERESTED IN THE LEGAL TOPICS DISCUSSED IN THIS VIDEO SHOULD CONSULT WITH THEIR OWN COUNSEL.&#10;&#10;***&#10;Twitter: @hoeglaw&#10;Web: hoeglaw.com&#10;&#10;***&#10;DESIGN WORK&#10;Joe Ellis (Logo Design)&#10;Chris Leroux (Motion Graphics)&#10;For more information: contact Chris at @Chrisleroux on Twitter.&#10;&#10;PODCAST VERSIONS ALSO AVAILABLE"
+    channeltitle "Hoeg Law"
+    channelid "UCi5RTzzeCFurWTPLm8usDkQ"
     favcount 0
-    viewcount 32739
-    likecount 1891
-    commentcount 110
-    duration "PT38M31S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    viewcount 41692
+    likecount 1647
+    commentcount 428
+    duration "PT45M19S"
+    indegree 1
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 242
-    name "336"
+    id 336
     label "16SIS28O2sU"
     step 0
     date "2020-12-05T18:14:07Z"
@@ -6796,49 +4636,31 @@ graph
     commentcount 514
     duration "PT9M57S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 243
-    name "337"
-    label "IXeO1Bp2OBw"
+    id 363
+    label "ZOrUhx_0ZuQ"
     step 0
-    date "2022-07-07T03:22:08Z"
-    title "Did The 1980 Liberia Coup Set The Black Race Back 100 Years? w/ Kala Genesis"
-    description "Did The 1980 Liberia Coup Set The Black Race Back 50 Years? w/ Kala Genesis&#13;&#10;Cash App: $amirdynast&#13;&#10;Patreon: https://www.patreon.com/searchforuhuru&#13;&#10;Instagram: Searchforuhuru&#13;&#10;instagram: Africapersonified&#13;&#10;Facebook: https://www.facebook.com/searchforuhuru&#13;&#10;Facebook: https://www.facebook.com/Africapersonified/&#13;&#10;Twitter: https://twitter.com/searchforuhuru/"
-    channeltitle "Search For Uhuru"
-    channelid "UC2rmgVaijnf92nixlIZWGmg"
+    date "2021-09-13T07:15:19Z"
+    title "The Dominion Voting System Was Hacked"
+    description "The Dominion Voting System Was Hacked&#10;Proof In The Google Drive Below&#10;&#10;&#10;&#10;https://drive.google.com/drive/u/1/folders/1TJr6JCO-wa6SYB5-qn_elb2SKnICWAZT"
+    channeltitle "BlackHat Espeed"
+    channelid "UCuFl4Br4i-fPBD13YjY5r2A"
     favcount 0
-    viewcount 3332
-    likecount 238
-    commentcount 107
-    duration "PT2H20M3S"
+    viewcount 68
+    likecount 3
+    commentcount 1
+    duration "PT1M51S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 244
-    name "364"
+    id 364
     label "fj1HVzUIv7c"
     step 0
     date "2020-11-13T14:42:08Z"
@@ -6852,21 +4674,12 @@ graph
     commentcount 597
     duration "PT2M7S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 245
-    name "365"
+    id 365
     label "Rys_3J_m2VM"
     step 0
     date "2020-11-17T19:45:01Z"
@@ -6880,21 +4693,12 @@ graph
     commentcount 596
     duration "PT13M32S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 246
-    name "366"
+    id 366
     label "1BbrFbeikew"
     step 0
     date "2020-11-14T18:45:45Z"
@@ -6908,21 +4712,12 @@ graph
     commentcount 315
     duration "PT6M4S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 247
-    name "367"
+    id 367
     label "8SV04gMa4vI"
     step 0
     date "2020-12-02T00:03:56Z"
@@ -6936,21 +4731,12 @@ graph
     commentcount 4
     duration "PT3M5S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 248
-    name "368"
+    id 368
     label "8U2-aVAqfz0"
     step 0
     date "2020-11-13T01:06:27Z"
@@ -6964,21 +4750,12 @@ graph
     commentcount 40
     duration "PT6M30S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 249
-    name "369"
+    id 369
     label "Nlsv0FbEsFI"
     step 0
     date "2020-11-13T15:48:30Z"
@@ -6992,77 +4769,50 @@ graph
     commentcount 0
     duration "PT4M54S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
-  ]
-  node
-  [
-    id 250
-    name "370"
-    label "uZcQHliNSkk"
-    step 0
-    date "2020-11-17T20:37:47Z"
-    title "Dominion Voting System Investigation by PBS and Sidney Powell - Part I 720p"
-    description "This video contains a public record PBS sound clip about their investigation of automated voting system weaknesses and then an interview with Trump attorney, Sidney Powell, discussing ongoing legal issues over the recent Nov 3, 2020 election BS.  &#10;&#10;If you haven&#8217;t been staying in the loop, this one speaks for itself.  Rigged voting elects Biden (supposedly) and Trump must fight in court to correct the corruption.&#10;&#10;This is the 25 minute full meal deal version.  The important Sidney Powell interview begins at the 8 minute and 45 second mark.&#10;&#10;Part II can be found here...&#10;&#10;https://www.youtube.com/watch?v=Q3CSdi-F6fM&#10;&#10;Then watch PBS for more investigative details prior to the election&#8230;&#10;&#10;https://www.pbs.org/newshour/show/october-26-2020-pbs-newshour-full-episode&#10;&#10;Start at the 38 minute mark for the Dominion voting machine investigation segment.&#10;&#10;Watch closely to see the &#34;green button&#34; many complained of to change votes in some reports.&#10;&#10;Also note the signature feature which is impossible to use to write a signature like voters would do with pen and paper when they registered; thus judges were talked into allowing no signature verification, overriding state law (for both in person and mail in ballots) and letting people rig the election if they wanted to.&#10;&#10;And note the comment by the voting official that they wanted to stay off of the media's radar screen (wonder why?).&#10;&#10;Note also that the &#34;QR code&#34; (Quick Response code) can be easily tampered with but is what is really read by a scanner to do the actual counting; not the person's &#34;human readable&#34; part of the ballot (which is only used if a hand recount is ordered by a non-partisan judge)."
-    channeltitle "TMI-America"
-    channelid "UCNIId7DV17haQcZv_iKP-7w"
-    favcount 0
-    viewcount 456
-    likecount 7
-    commentcount -1
-    duration "PT25M50S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 251
-    name "374"
-    label "Hvywu0ST-z4"
+    id 373
+    label "jOmadvfLG30"
     step 0
-    date "2020-11-20T06:01:29Z"
-    title "Dominion Whistleblower Calls Out Election Fraud"
-    description "A contractor for Dominion Voting Systems said in a sworn statement that she saw poll workers count some ballots up to 8 times.&#10;Poll workers were also seen filling out, and signing blank ballots after receiving unreadable documents.&#10;The whistleblower was brushed off by her manager when confronted."
-    channeltitle "The MetaFlair"
-    channelid "UCswYD0ol81Vp6TO3GJB8lqg"
+    date "2020-11-08T09:12:23Z"
+    title "DOMINION VOTING SYSTEMS ACTUAL REAL-TIME VOTE SWITCHING ON TELEVISION HARD EVIDENCE"
+    description "The exact same amount of votes switches live on TV from one candidate to the other in real-time. The exact same number of votes from one candidate to the other from the Dominion Voting Systems which are owned by Democrats (look it up Nancy Pelosi has stock in it or something like that, but is also connected to the the other former Governor from San Francisco Dianne Feinstein - her husband is something like half-owner of the company which donated to the Clintons... I dunno just look it up if you don't already know vote machines on Twitter was shadow trending)&#10;&#10;Here's the video of the evidence, which is really a smoking gun - and there is probably a lot of this out there which shows for sure how it is true, and the machines do this: as has occurred in Michigan on record already with 6,000+ votes from Trump to Biden... which means this has had to occurred numerous times, and probably a whole lot on television. Share this with everybody who can help get this out there. #stopthesteal #voterfraud election 2020"
+    channeltitle "Your Drunken History Teacher"
+    channelid "UCCoogS4ozxqv8LD4NLdubqg"
     favcount 0
-    viewcount 16984
-    likecount 1125
-    commentcount 59
-    duration "PT1M29S"
+    viewcount 6053
+    likecount 110
+    commentcount 17
+    duration "PT6M40S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 252
-    name "379"
+    id 378
+    label "oBIkbUk8tfc"
+    step 0
+    date "2020-11-14T06:44:15Z"
+    title "THE PLOT AGAINST PRESIDENT TRUMP; Dominion Voting Systems | Fri, Nov. 13, 2020"
+    description ""
+    channeltitle "Paleocrat"
+    channelid "UCEaOEjvOgm4Z9mZFQlJQl3A"
+    favcount 0
+    viewcount 220
+    likecount 17
+    commentcount 0
+    duration "PT3H13M50S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 379
     label "vTR2D0GiEJY"
     step 0
     date "2020-11-18T18:31:17Z"
@@ -7076,49 +4826,31 @@ graph
     commentcount 2
     duration "PT18M26S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 253
-    name "380"
-    label "9_0-ZKBuMjc"
-    step 0
-    date "2020-11-18T03:06:36Z"
-    title "November 17, 2020 - The Dominion Voting Machine"
-    description "Ward discusses #VotingFraud, #SidneyPowell, and gives up an update on #AlachuaCounty revisions on this episode of The Ward Scott Files.&#10;&#10;_________&#10;&#10;Make sure to LIKE, FOLLOW, and SHARE this episode!&#10;&#10;www.WardScottFiles.com"
-    channeltitle "Ward Scott Files"
-    channelid "UCtq-3vZldUhjMDgTcLsdbKg"
-    favcount 0
-    viewcount 46
-    likecount 2
-    commentcount 0
-    duration "PT1H53S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 7
   ]
   node
   [
-    id 254
-    name "383"
+    id 382
+    label "cCZ5gBUiMzw"
+    step 0
+    date "2020-12-09T02:51:40Z"
+    title "Dominion Voting Systems Are A Scam [REACTION]"
+    description "This shows just one instance where the Chinese Communist Party paid to rig American elections.There's a lot more moving parts and of course there's a lot more evidence and trails to follow through Smartmatic and other voting  machine tampering involved in this case. They're about to blow the lid clean off this corruption case. Heads will roll. Oh my..."
+    channeltitle "Eugene Hetler"
+    channelid "UCEGjiVreMx7iEHGuvQ-Y1lQ"
+    favcount 0
+    viewcount 103
+    likecount 1
+    commentcount 0
+    duration "PT26S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 383
     label "vEbpkUXAD14"
     step 0
     date "2020-11-27T10:38:04Z"
@@ -7132,105 +4864,69 @@ graph
     commentcount 10
     duration "PT1M43S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
-  ]
-  node
-  [
-    id 255
-    name "384"
-    label "qfMo1CcseRo"
-    step 0
-    date "2020-12-04T13:53:46Z"
-    title "Election integrity incredulity: More than just Dominion Voting Systems"
-    description "December 4, 2020 - NO Soundbites Allowed - A full month after the 2020 election and the public still lacks clear answers. It's not just votes switched and Dominion machines connected to the internet. It's not just dead voters and suitcases filled with ballots counted after everyone poll watcher is sent home. It's unregistered voters, unconstitutional rules and &#34;found&#34; votes. Voter fatigue is no excuse for what is happening.&#10;&#10;Sources:&#10;https://m.facebook.com/story.php?story_fbid=10222006482564476&#38;id=1033174221&#10;https://www.youtube.com/watch?v=N1MmTEtwsl0&#10;https://www.youtube.com/watch?v=t7AYqWxRtoI&#10;https://www.youtube.com/watch?v=t75xvZ3osFg&#10;https://www.forbes.com/sites/jodywestby/2020/04/16/hbo-documentary-shows-the-value-of-cybersecurity-in-election-security/?sh=fa716203f1cf&#10;https://en.wikipedia.org/wiki/Hursti_Hack&#10;https://www.cnn.com/videos/business/2019/08/10/voting-booth-hack-def-con-orig.cnn-business&#10;https://www.nbcnews.com/politics/elections/online-vulnerable-experts-find-nearly-three-dozen-u-s-voting-n1112436&#10;https://apnews.com/article/election-2020-ap-fact-check-joe-biden-donald-trump-technology-49a24edd6d10888dbad61689c24b05a5&#10;https://www.bbc.com/news/election-us-2020-54959962&#10;https://apnews.com/article/2nd-georgia-county-find-uncounted-votes-018eac6ac24733d63d356ee76f485530&#10;https://www.cbs46.com/news/lawmakers-hear-bombshell-allegations-of-georgia-election-fraud/article_8404e930-35e5-11eb-8ac3-1fc96e3b52d8.html&#10;https://www.youtube.com/watch?v=xEpy89d5aW4&#10;https://en.wikipedia.org/wiki/List_of_electronic_voting_machines_in_New_York_state&#10;https://apnews.com/article/new-york-elections-claudia-tenney-house-elections-voting-c12927a8c3c0481c6da3b8acf79dd79c&#10;https://www.politico.com/states/new-york/albany/story/2020/12/03/new-york-house-rematch-plays-out-the-only-way-it-could-strange-and-complicated-1341046&#10;https://www.youtube.com/watch?v=P0udDRxCeTU&#10;https://youtu.be/oQ9YGSMY2xg&#10;&#10;About Us:&#10;&#10;GoFundMe - https://www.gofundme.com/f/Support-Free-Press&#10;&#10;Political Commentary - http://www.mvass.com&#10;&#10;Twitter - @MVConsult&#10;&#10;Parler - @Vassmike68"
-    channeltitle "No Soundbites Allowed"
-    channelid "UCZoBm98rIR_aVpBInGXgJ8g"
-    favcount 0
-    viewcount 65
-    likecount 2
-    commentcount 18
-    duration "PT42M3S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
-  ]
-  node
-  [
-    id 256
-    name "386"
-    label "OuXNWB_w18c"
-    step 0
-    date "2020-11-19T23:26:56Z"
-    title "Giuliani, Powell, Ellis expose Cheaters, Dominion voting system popular with dictators of Venezuela"
-    description "Waaaa, I didnot know that Our Votes in the USA are counted Overseas by #Dominion, #Smartmatic, #Scytl, run by #Soros and his minion #Brown. The #Voting system are designed to cheat, invented by Venezuelans to defraud their election and used by Dictators to stay in power, I learned that China has its dirty hand in this as well, it all make sense now I witnessed the Vote count were actually going backwards for #Trump in MI, at the real time coverage on #ELECTION Night,  the Cyber Cheaters were grabbing votes with the click of a mouse and transfer them to #Biden  Crazy! See for yourself."
-    channeltitle "Redneck Neighbor Filmmaker"
-    channelid "UCyg-HawRBlle_Gt1z0zuHHQ"
-    favcount 0
-    viewcount 20
-    likecount 2
-    commentcount 4
-    duration "PT17M51S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 257
-    name "388"
-    label "1USGGnx1eds"
-    step 0
-    date "2022-07-05T05:44:47Z"
-    title "Americas Independence Day | Loosening the Yoke of Progressive tyranny | July 4th, 2022"
-    description "===&#10;Support Independent journalist DIRECTLY via Streamlabs tip page:&#10;https://chriswyatt.live/tip&#10;&#10;Join the Chris Wyatt Africa YouTube channel to support INDEPENDENT journalism and to get access to perks:&#10;https://www.youtube.com/channel/UCo-3Qu7AoKwo0co8v79mcYw/join&#10;&#10;https://www.tiktok.com/@africamatters&#10;&#10;All Things Africa podcast on Podbean: https://allthingsafrica.podbean.com/&#10;&#10;&#128073; Follow me on Odysee: https://odysee.com/@ChrisWyattAfrica:5&#10;&#128073; Follow me on bitchute: https://www.bitchute.com/channel/cul8PoB6nC3n/&#10;&#128073; Follow me on youtube:https://www.youtube.com/channel/UCo-3Qu7AoKwo0co8v79mcYw&#10;&#128073; Follow me on rumble: https://rumble.com/c/c-402047&#10;&#128073; Follow me on subscribestar: https://www.subscribestar.com/chris-wyatt-africa&#10;&#128308; Check out my merch store: https://teespring.com/stores/my-store-10367682&#10;Support cogent conversation &#38; objective analysis @ Chris Wyatt Africa:&#10;&#128073; Paypal: wmwchris@outlook.com&#10;&#10;https://linktr.ee/IndabaAfrica&#10;https://beacons.page/wmwchris&#10;https://wlo.link/@ChrisWyattAfrica&#10;&#10;Credits:&#10;Music: Jezelle http://www.jezelle.co.za/&#10;&#10;Music: https://www.bensound.com&#10;Animation credit: Talon Bezuidenhout&#10;Opening news drums sequence: Kevin Nicklin&#10;&#10;&#169; All Rights Reserved."
-    channeltitle "Chris Wyatt Africa"
-    channelid "UCo-3Qu7AoKwo0co8v79mcYw"
-    favcount 0
-    viewcount 395
-    likecount 84
-    commentcount 3
-    duration "PT1H35M37S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 258
-    name "390"
+    id 385
+    label "JgZyLIu-pD4"
+    step 0
+    date "2020-11-09T00:59:22Z"
+    title "DOMINION VOTING SYSTEMS ACTUAL REAL-TIME VOTE SWITCHING ON TELEVISION TRUMP BIDEN PA THIS TIME!!"
+    description "READ THIS!!! Start of video PA total votes are:&#10;Donald Trump&#10; 1,690,589&#10;&#10;Biden&#10; 1,252,537&#10;&#10;At the end of the video the totals on the screen are for PA are: &#10;&#10;Trump 1,670,631 = -19,958 VOTES&#10;&#10;Biden 1,272,495 = +19,958&#10;&#10;The exact same amount of votes switches live on TV from one candidate to the other in real-time. The exact same number of votes from one candidate to the other from the Dominion Voting Systems which are owned by Democrats (look it up Nancy Pelosi has stock in it or something like that, but is also connected to the the other former Governor from San Francisco Dianne Feinstein - her husband is something like half-owner of the company which donated to the Clintons... I dunno just look it up if you don't already know vote machines on Twitter was shadow trending)&#10;&#10;Here's the video of the evidence, which is really a smoking gun - and there is probably a lot of this out there which shows for sure how it is true, and the machines do this: as has occurred in Michigan on record already with 6,000+ votes from Trump to Biden... which means this has had to occurred numerous times, and probably a whole lot on television. Share this with everybody who can help get this out there. #stopthesteal #voterfraud election 2020"
+    channeltitle "Your Drunken History Teacher"
+    channelid "UCCoogS4ozxqv8LD4NLdubqg"
+    favcount 0
+    viewcount 4287
+    likecount 113
+    commentcount 41
+    duration "PT43S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 387
+    label "HWEPWIvi1hE"
+    step 0
+    date "2020-12-08T21:12:42Z"
+    title "THE TRUTH ABOUT DOMINION VOTING MACHINES (THEY DO NOT WANT YOU TO SEE THIS)"
+    description ""
+    channeltitle "Vinny Allison"
+    channelid "UCLGL-dbZdVBsTNt0ZlRi1TA"
+    favcount 0
+    viewcount 71
+    likecount 5
+    commentcount 2
+    duration "PT1M8S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 389
+    label "HpQBRQHabhE"
+    step 0
+    date "2020-11-13T23:27:54Z"
+    title "Sidney Powell 11/13/20 Release The Kraken. Dominion Voting System. Expose Everyone. #FightBack"
+    description ""
+    channeltitle "denverflynn"
+    channelid "UCS5RpSBiQFkz2oeEB-Hfoqw"
+    favcount 0
+    viewcount 9143
+    likecount 138
+    commentcount 14
+    duration "PT6M58S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 390
     label "419Spj6OtVg"
     step 0
     date "2020-12-03T05:04:25Z"
@@ -7244,21 +4940,12 @@ graph
     commentcount 0
     duration "PT13M53S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 259
-    name "391"
+    id 391
     label "GLOYVribjeA"
     step 0
     date "2020-11-18T07:13:24Z"
@@ -7272,21 +4959,12 @@ graph
     commentcount 1
     duration "PT13M54S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 260
-    name "392"
+    id 392
     label "R7mLoAwJOVQ"
     step 0
     date "2020-11-24T16:07:29Z"
@@ -7300,49 +4978,31 @@ graph
     commentcount 123
     duration "PT6M24S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 261
-    name "393"
-    label "TTE4n_onCtI"
+    id 394
+    label "V3reSAtLZSs"
     step 0
-    date "2020-12-10T12:55:23Z"
-    title "Adjudication on Dominion Democracy Suite"
-    description "This video explains how the Dominion Voting adjudication workstation operates. Any admin on the system has full control of the way ballots are counted. We know from testimony that poll workers overvoted ballots during inspection to force them into adjudication. Also blank ballots were scanned and marked as the admin wanted. Ballots can also be manipulated or discarded."
-    channeltitle "Chris Marx"
-    channelid "UCOZAt-RDwfgom23xilR05IQ"
+    date "2020-11-21T01:29:03Z"
+    title "Company Who Acquired Dominion Voting Systems Has Board Member Tied to Obama"
+    description "(After reading this, go online and do your own research into it to verify its validity and authenticity.)&#10;&#10;&#10;Introducing William Earl Kennard. &#10;&#10;Sitting Board Member of &#10;Staple Street Capital LLC.&#10;&#10;The same &#10;Staple Street Capital LLC that bought out...&#10;&#10;You guessed it, &#10;&#10;Dominion Voting Systems Inc.&#10;&#10;They quickly deleted most of their website but if you google William Kennard Staple Street, you will still see the page link before it got removed. &#10;&#10;Fast Forward.....&#10;&#10;Kennard served as the U.S. Ambassador to the European Union (2009&#8211;13) and chairman of the Federal Communications Commission (1997&#8211;2001). &#10;&#10;He was nominated as ambassador to the EU by President Barack Obama in August 2009&#10;&#10;Prior to this, Kennard was Managing Director of the global private equity firm the Carlyle Group. &#10;&#10;(The same Carlyle Group Of Which George Soros has invested hundreds of millions into and a quarter of its Executive Members of Staple Street are former Carlyle Group members.)&#10;&#10;He was also chairman of the FCC appointed by President Bill Clinton in November 1997, from November 3, 1997-January 19, 2001.&#10;&#10;This guy seems awful friendly with enemies of Trump, yet he owns the company that bought out the company of the voting systems we used...&#10;&#10;#clinton #dominion #dominionvotingsystems #obama  #trump #usa #carlylegroup #staplestreet #williamkennard #presidentialelection"
+    channeltitle "TSM The Silent Majority"
+    channelid "UCnZEfugv3C62QFSELN55OCg"
     favcount 0
-    viewcount 1100
-    likecount 38
-    commentcount 9
-    duration "PT8M50S"
+    viewcount 1976
+    likecount 10
+    commentcount 8
+    duration "PT2M28S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 262
-    name "395"
+    id 395
     label "vZIP339XePw"
     step 0
     date "2020-11-11T23:27:54Z"
@@ -7356,77 +5016,50 @@ graph
     commentcount 0
     duration "PT7M44S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 263
-    name "396"
-    label "DK4BI_HlC1Y"
+    id 398
+    label "PGPpssKI9kM"
     step 0
-    date "2020-11-08T06:32:21Z"
-    title "What Everyone is Forgetting About Election Fraud - Dominion Voting Systems - Diebold Blues"
-    description "John Brisson discusses John Kenneth Blackwell, Dominion Voting Systems, and election fraud.&#10;&#10;Please like, share, and subscribe, thank you! &#10;&#10;Follow me on Twitter: https://twitter.com/weve_read&#10;&#10;We've Read the Documents Fedbook Group: https://www.facebook.com/groups/932163273812057/&#10;&#10;I have made a Subscribe Star / Patreon for We've Read the Documents. You can subscribe for $5 a month if you would like for more content. New content will be uploaded to both services. So no need to subscribe to both.&#10;&#10;https://www.subscribestar.com/wevereadthedocuments&#10;https://www.patreon.com/weveread&#10;&#10;I have made a Substack for We've Read the Documents. You can subscribe for $5 a month if you would like access to the rough drafts of my book on The Finders Operation and other blogs.&#10;&#10;https://weveread.substack.com/&#10;&#10;If your would like to donate to We've Read:&#10;&#10;https://streamlabs.com/wevereadthedocuments/tip&#10;&#10;All subscriptions and donations are much appreciated!&#10;&#10;The views, opinions, and information, guests, our YouTube/LBRY channel's live chat, or our YouTube/LBRY channel's comment section disclose do not necessarily reflect the views or beliefs of We've Read the Documents. Do your own research!"
-    channeltitle "We've Read The Documents"
-    channelid "UC7vqQJCxvXl2tZ_V5P-gYJQ"
+    date "2020-12-01T12:33:25Z"
+    title "485 Dominion Voting System"
+    description "http://eleventhhourpolitics.com/"
+    channeltitle "Veronica Nufer"
+    channelid "UCscv9tYzAixbSc5MVc1E_dA"
     favcount 0
-    viewcount 2018
-    likecount 123
-    commentcount 24
-    duration "PT1H6M30S"
+    viewcount 15
+    likecount 1
+    commentcount 2
+    duration "PT28M32S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 264
-    name "399"
-    label "XBEMEtc5hWw"
+    id 400
+    label "hu-jgE8XJXE"
     step 0
-    date "2020-11-16T10:33:02Z"
-    title "Lou Dobbs w/ Sidney Powell - Massive Election Fraud Using Dominion Voting Systems - 11-14-20"
-    description "Sidney Powell, a member of President Trump's legal team, releases information concerning massive election fraud in many states that used Dominion Voting Systems for this election."
-    channeltitle "BexarPatriot"
-    channelid "UCz43O-5n-faM38JotM6e0oA"
+    date "2020-11-13T23:09:47Z"
+    title "Trump more!"
+    description "Trump's Lawsuits, Michigan Election Fraud?, Dominion Voting Systems &#38; more!&#10;&#10;#2020Election #Biden2020 #Trump2020&#10;&#10;https://streamlabs.com/theconvocouch/tip&#10;to have your chat show up ON SCREEN!&#10;&#10;&#10;Thanks to the support of our amazing fams, we were able to upgrade our equipment to produce clean interviews as well as having the means to travel and bring you ON THE GROUND footage that mainstream media WILL NOT SHOW YOU...&#10;&#10;&#10;To support us further:&#10;Patreon: http://bit.ly/tccpat4&#10;or&#10;Sign up on Rokfin and get access to all the creators Premium Content&#10;https://rokfin.com/TheConvoCouch&#10;(Creators include: Niko House, Ron Placone, Graham Elwood, Jimmy Dore, Kim Iversen, Tina-Desiree Berg, Jackson Facts, The American Vagabond, Papi Chulomin Richard Medhurst &#38; more!)&#10;---------------------------------------------------------------&#10;Keep Up With THE CONVO COUCH &#128715;&#10;&#128250; Youtube: http://bit.ly/tccyt27&#10;&#128181;Patreon: http://bit.ly/tccpat4&#10;&#128126;Rokfin: https://rokfin.com/TheConvoCouch&#10;&#129302;Twitch: https://twitch.tv/theconvocouch&#10;&#128038;Twitter: https://twitter.com/theconvocouch&#10;&#128110;&#8205;&#9792;&#65039;Facebook: http://bit.ly/tcc2fb&#10;&#127825;Instagram:  http://instagram.com/theconvocouch&#10;&#10;&#10;&#127837;Craig &#34;Pasta&#34; Jardula &#10;Twitter: https://twitter.com/yopasta&#10;Facebook: http://bit.ly/pasta2fb&#10;&#10;&#10;&#128131;Fiorella Isabel:&#10;Twitter: https://twitter.com/Fiorella_im&#10;Facebook: http://bit.ly/tccfifb27&#10;&#10;&#10;&#127754;Jonny Tsunami:&#10;Twitter: https://twitter.com/jonathanmayorca&#10;Jonny started a new channel! But will still be producing The Convo Couch :)&#10;Subscribe to True Rebel Network: https://www.youtube.com/c/truerebelnetwork&#10;&#10;&#10;Support True Rebel Network: https://www.patreon.com/truerebelnetwork"
+    channeltitle "The Convo Couch"
+    channelid "UCnESeKWQPmL85jLaZU6Babg"
     favcount 0
-    viewcount 1444
-    likecount 24
-    commentcount 4
-    duration "PT8M27S"
+    viewcount 4258
+    likecount 624
+    commentcount 68
+    duration "PT2H3M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 265
-    name "401"
+    id 401
     label "yql-mpgNY2U"
     step 0
     date "2020-12-06T14:47:44Z"
@@ -7440,21 +5073,12 @@ graph
     commentcount -1
     duration "PT35S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 7
   ]
   node
   [
-    id 266
-    name "402"
+    id 402
     label "mnZJtpBiofk"
     step 0
     date "2020-11-21T22:07:34Z"
@@ -7468,21 +5092,12 @@ graph
     commentcount 2
     duration "PT3M4S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 267
-    name "403"
+    id 403
     label "_aO1CXBNb2I"
     step 0
     date "2020-11-24T21:42:32Z"
@@ -7496,21 +5111,12 @@ graph
     commentcount 757
     duration "PT5M14S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 268
-    name "404"
+    id 404
     label "ODAH4Ci3Ca8"
     step 0
     date "2020-11-10T14:15:01Z"
@@ -7524,21 +5130,12 @@ graph
     commentcount 1
     duration "PT12M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 7
   ]
   node
   [
-    id 269
-    name "405"
+    id 405
     label "E_aKwjMApxY"
     step 0
     date "2020-11-10T10:34:04Z"
@@ -7552,21 +5149,12 @@ graph
     commentcount 1
     duration "PT56M47S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 270
-    name "406"
+    id 406
     label "o4LuCn87Nsg"
     step 0
     date "2020-11-21T14:45:53Z"
@@ -7580,49 +5168,31 @@ graph
     commentcount 1
     duration "PT1M"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 271
-    name "407"
-    label "sIdfSO8PwDk"
+    id 412
+    label "YHVs9OQkiJU"
     step 0
-    date "2020-11-15T23:00:23Z"
-    title "Communists Software (Dominion Voting System)used to Cheat in This Presidential Election (Allegedly)"
-    description "Communists Software was use to Steal/Cheat in This election from President Trump (Allegedly)&#10;&#10;MASSIVE GLOBAL BOYCOTT 2020 ~ December 5th&#38;6th. Let&#8217;s send them a message that our voices have the right to be heard and we will turn them off.&#10;&#10;&#10;Please like,&#10084;&#65039;share, share, share,&#129293; and &#128153;. ~Please help me reach 1000 subscribers by subscribing today. Thank you&#128591;&#127998;&#10;&#10;Just in case you would like to Donate please use PayPal: https://www.PayPal.me/CynthiaRaglin&#10;&#10;Email:1stHeiress@gmail.com&#10;&#10;Thank you and God Bless&#10083;&#65039;"
-    channeltitle "1stHeiress Shares"
-    channelid "UCRw8OmTFcPEhD0jWQfjUpJA"
+    date "2020-11-21T23:37:13Z"
+    title "Fraction Magic Vote Theft -- Dominion Voting Systems documentary (with CORRECTED AUDIO)"
+    description "Audio fixed for even level. The Gem program is used in Dominion Voting Systems. This is a re-upload of the original video which was fraught with extensive audio problems. I downloaded the original, extracted and leveled the audio, put it back into the video and uploaded that new version to this channel. The original video is here: https://www.youtube.com/watch?v=Fob-AGgZn44&#38;t=599s"
+    channeltitle "Another Virgo Asshole"
+    channelid "UCLoLmJj3DEF3VHJP4QO2jBA"
     favcount 0
-    viewcount 45
-    likecount 16
-    commentcount 38
-    duration "PT12M15S"
+    viewcount 201
+    likecount 8
+    commentcount 2
+    duration "PT24M40S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 272
-    name "413"
+    id 413
     label "uG15SGKNSeM"
     step 0
     date "2020-11-24T02:36:10Z"
@@ -7636,21 +5206,12 @@ graph
     commentcount 0
     duration "PT3M15S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 273
-    name "414"
+    id 414
     label "WOBFrwLuFys"
     step 0
     date "2020-11-15T21:41:35Z"
@@ -7664,21 +5225,12 @@ graph
     commentcount 0
     duration "PT2M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 274
-    name "415"
+    id 415
     label "2k5RLVEHSgk"
     step 0
     date "2020-11-20T23:34:34Z"
@@ -7692,21 +5244,12 @@ graph
     commentcount 0
     duration "PT27M30S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 275
-    name "416"
+    id 416
     label "cw17F9ufjkQ"
     step 0
     date "2020-11-17T01:41:25Z"
@@ -7720,21 +5263,12 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 276
-    name "417"
+    id 417
     label "w3a98ODl8js"
     step 0
     date "2020-12-08T05:25:34Z"
@@ -7748,49 +5282,31 @@ graph
     commentcount 5
     duration "PT2M21S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 277
-    name "418"
-    label "UU6hnKQ5-As"
+    id 419
+    label "SW5v5FPNomg"
     step 0
-    date "2022-06-12T21:41:57Z"
-    title "Dominion Voting Systems tied to Clintons, widely used in battleground states"
-    description "Powered by Restream https://restre.am/yt"
-    channeltitle "mark Balentine"
-    channelid "UCVfpjL1Cje-x7Jua2HHmjHg"
+    date "2020-12-10T16:46:12Z"
+    title "Dominion voting machine tutorial (Georgia)"
+    description "https://www.youtube.com/watch?v=mJIqfYHKpVk&#10;&#10;&#10;Credit for this video goes to Borg Clone&#10;&#10;&#10;Watch as ballots are scanned and manipulated in the Dominion voting system...Runs on Windows LOL!"
+    channeltitle "CheckHook"
+    channelid "UCZGaCz8hqJspLVL-TK_d27Q"
     favcount 0
-    viewcount 4
-    likecount 0
+    viewcount 32
+    likecount 2
     commentcount 0
-    duration "PT9M43S"
+    duration "PT24M40S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 278
-    name "420"
+    id 420
     label "m91unr2YE18"
     step 0
     date "2020-11-16T00:24:33Z"
@@ -7804,21 +5320,12 @@ graph
     commentcount 0
     duration "PT2M5S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 279
-    name "421"
+    id 421
     label "1L0JvxVE-pI"
     step 0
     date "2020-11-09T02:51:52Z"
@@ -7832,21 +5339,12 @@ graph
     commentcount 4
     duration "PT3M49S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 280
-    name "422"
+    id 422
     label "pLi12TPNGfc"
     step 0
     date "2020-11-17T19:00:02Z"
@@ -7860,21 +5358,12 @@ graph
     commentcount 0
     duration "PT33S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 281
-    name "423"
+    id 423
     label "KuvfeY6nBDI"
     step 0
     date "2020-11-14T16:19:35Z"
@@ -7888,21 +5377,12 @@ graph
     commentcount 2
     duration "PT6M56S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 282
-    name "424"
+    id 424
     label "LnVjot4mo1E"
     step 0
     date "2020-11-16T18:54:00Z"
@@ -7916,21 +5396,12 @@ graph
     commentcount 11
     duration "PT11M49S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 283
-    name "425"
+    id 425
     label "FtlSDYPx4kg"
     step 0
     date "2020-11-21T21:36:59Z"
@@ -7944,21 +5415,12 @@ graph
     commentcount 0
     duration "PT3M40S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 284
-    name "426"
+    id 426
     label "cWZP7QvJn50"
     step 0
     date "2020-11-15T21:41:11Z"
@@ -7972,21 +5434,12 @@ graph
     commentcount 0
     duration "PT2M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 285
-    name "427"
+    id 427
     label "WoD4e2nJ7Nk"
     step 0
     date "2020-11-15T06:36:01Z"
@@ -8000,21 +5453,12 @@ graph
     commentcount 0
     duration "PT5M27S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 286
-    name "428"
+    id 428
     label "ymFFnwB0eZU"
     step 0
     date "2020-11-16T00:19:03Z"
@@ -8028,21 +5472,12 @@ graph
     commentcount 2
     duration "PT1M57S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 287
-    name "429"
+    id 429
     label "yABflAKvBco"
     step 0
     date "2020-11-11T01:47:08Z"
@@ -8056,21 +5491,12 @@ graph
     commentcount 0
     duration "PT44S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 288
-    name "430"
+    id 430
     label "_mUXK6ihm9g"
     step 0
     date "2020-11-18T03:47:28Z"
@@ -8084,21 +5510,12 @@ graph
     commentcount 0
     duration "PT8M11S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 289
-    name "431"
+    id 431
     label "saVsBcYpcQM"
     step 0
     date "2020-11-13T04:31:25Z"
@@ -8112,21 +5529,12 @@ graph
     commentcount 4
     duration "PT1M21S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 290
-    name "432"
+    id 432
     label "EO4KDVbgYfs"
     step 0
     date "2020-11-13T17:30:03Z"
@@ -8140,49 +5548,31 @@ graph
     commentcount 1
     duration "PT6M38S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 291
-    name "433"
-    label "Ex4hHLwqFJ4"
+    id 435
+    label "v5EA0EgLyQg"
     step 0
-    date "2020-11-17T14:27:59Z"
-    title "Mark Levin interviews Sidney Powell on Dominion Voting Systems on his Mark Levin Radio Show 11-16-20"
-    description "Listen to Mark Levin's full show here: https://www.podbean.com/media/share/dir-5j7jk-c112e98 On Monday's Mark Levin Show, Dominion Voting System was recently profiled by PBS as part of their reporting on making elections more secure. However, Democrats filed multiple lawsuits prior to the election to weaken the safeguards protecting elections in all of the battleground states. &#10;&#10;Alex Halderman, a white-hat hacker checking for vulnerabilities, found that glitches in the programs caused candidate names to disappear. There were several systemic issues with the Dominion Voting System that affected the election and they were known at least three weeks prior to the election. Yet, federal judge Amy Totenberg allowed the State of Georgia to use this system anyway even after the vulnerabilities were known and a last-minute patch was issued to repair it. &#10;&#10;Then, Federal litigator Sidney Powell calls in to discuss an affidavit from a witness that has come forward to testify of their involvement in using this software to change vote counts in Venezuela and at least one other country. Powell re-iterated that there is plenty of opposition from all sides to end this litigation. Sen.'s Elizabeth Warren (D-MA) and Sen. Ron Wyden (D-KS) have issued letters in the past requesting information on the security of this software. &#10;&#10;Powell believes that Dominion Voting System has negatively affected several million votes in favor of Joe Biden. The people attacking the recount are undermining our constitutional system. Those trying to eliminate Trump's due process are showing their fascistic colors."
-    channeltitle "Wayne Gerald"
-    channelid "UCp-lE3rWQcrSIe_y1dOP8cA"
+    date "2020-12-08T18:10:18Z"
+    title " - China and Others Are Behind Election Breach"
+    description "Sidney Powell talks to everyone about the Dominion Voting Software fraud!  So many Countries are involved in this and all will be released in Court!&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/maggic_time&#10;https://www.tiktok.com/@awesomemosewa"
+    channeltitle "Maggic America"
+    channelid "UCMxhati9F3pdAiLdjX6r0xQ"
     favcount 0
-    viewcount 1694
-    likecount 48
-    commentcount 16
-    duration "PT15M19S"
+    viewcount 20
+    likecount 0
+    commentcount 0
+    duration "PT1M22S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 292
-    name "436"
+    id 436
     label "42apP5HIKVg"
     step 0
     date "2020-11-16T00:20:53Z"
@@ -8196,21 +5586,12 @@ graph
     commentcount 0
     duration "PT1M47S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 293
-    name "437"
+    id 437
     label "tqWWdabjyaM"
     step 0
     date "2020-11-18T23:44:39Z"
@@ -8224,21 +5605,12 @@ graph
     commentcount 2
     duration "PT14M18S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 294
-    name "438"
+    id 438
     label "c2YtGsPqLR4"
     step 0
     date "2020-12-05T01:57:31Z"
@@ -8252,21 +5624,12 @@ graph
     commentcount -1
     duration "PT2M30S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 295
-    name "439"
+    id 439
     label "qpUcMFplx8w"
     step 0
     date "2020-11-22T01:05:26Z"
@@ -8280,21 +5643,12 @@ graph
     commentcount 4
     duration "PT16M38S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 296
-    name "440"
+    id 440
     label "xpm52DBtkNU"
     step 0
     date "2020-11-21T21:41:46Z"
@@ -8308,21 +5662,12 @@ graph
     commentcount 1
     duration "PT50M35S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 297
-    name "441"
+    id 441
     label "PucOesJh-4o"
     step 0
     date "2020-11-19T20:45:38Z"
@@ -8336,21 +5681,12 @@ graph
     commentcount 0
     duration "PT9M58S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 298
-    name "442"
+    id 442
     label "dk2-0EnUOsY"
     step 0
     date "2020-11-13T06:20:27Z"
@@ -8364,21 +5700,12 @@ graph
     commentcount 0
     duration "PT8M7S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 299
-    name "443"
+    id 443
     label "Fv56SBjqzm8"
     step 0
     date "2021-01-15T02:00:02Z"
@@ -8392,21 +5719,12 @@ graph
     commentcount 1
     duration "PT31S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 300
-    name "444"
+    id 444
     label "XfrZZydzXhw"
     step 0
     date "2020-11-11T18:43:15Z"
@@ -8420,21 +5738,12 @@ graph
     commentcount 8
     duration "PT5M42S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 301
-    name "445"
+    id 445
     label "IbqNLx1KXDw"
     step 0
     date "2020-11-16T14:27:44Z"
@@ -8448,21 +5757,12 @@ graph
     commentcount 186
     duration "PT21M35S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 302
-    name "446"
+    id 446
     label "hMNylTmmH1s"
     step 0
     date "2020-11-23T12:00:16Z"
@@ -8476,21 +5776,12 @@ graph
     commentcount 1
     duration "PT2M16S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 303
-    name "447"
+    id 447
     label "Pzp8Bx3oc4o"
     step 0
     date "2020-11-11T18:53:11Z"
@@ -8504,77 +5795,50 @@ graph
     commentcount 2
     duration "PT1M21S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 304
-    name "448"
-    label "6GR5ldkcG8I"
+    id 449
+    label "1y83Cd2dKCQ"
     step 0
-    date "2020-11-16T00:23:20Z"
-    title " - Part 3 - Dominion Voting Systems Fraud"
-    description "Sidney Powell, attorney General Michael Flynn and for the Trump campaign, is vowing to expose voter fraud she believes took place during the presidential election.&#10;&#10;Although the Dominion voting systems says there was no foreign interference in the presidential election, Powell says she will soon present &#8220;staggering&#8221; evidence that will prove otherwise.&#10;&#10;This will be enough evidence for the Trump Team to overturn the Election of 2020.&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/awesomemosewa20&#10;https://www.tiktok.com/@awesomemosewa"
-    channeltitle "American Maggic"
-    channelid "UCoFbwV0czAL_61gESdO8L9Q"
+    date "2020-11-17T18:01:04Z"
+    title "Dominion Voting Machine in Real Time Flipping Votes #2"
+    description "Think there is no proof of the Dominion voting machines flipping 20K votes at a clip&#8230; in real time&#8230; right before the public&#8217;s eyes?  See for yourself."
+    channeltitle "Jon Uhler"
+    channelid "UChcaIq3H1m8bmDFO3GedE_g"
     favcount 0
-    viewcount 98
-    likecount 3
-    commentcount 0
-    duration "PT2M3S"
+    viewcount 693
+    likecount 15
+    commentcount 1
+    duration "PT3M32S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 305
-    name "450"
-    label "tE0aRAZDcjE"
+    id 452
+    label "hFpWc4FLrnU"
     step 0
-    date "2020-11-13T05:55:33Z"
-    title "Sean Hannity 11/12/20 Dominion Voting System #StopTheSteal #MAGA"
-    description ""
-    channeltitle "denverflynn"
-    channelid "UCS5RpSBiQFkz2oeEB-Hfoqw"
+    date "2021-08-03T15:21:18Z"
+    title "Dominion Voting Machines Online Access Proof"
+    description "&#34;Then you will know the truth, and the truth will set you free.&#34;&#10;John 8:32&#10;&#10;--&#10;&#10;A whistleblower reached out with footage filmed of the Dominion Election Management System inside an ele&#10;). &#10;As you will see in the video, the whistleblower initially discusses with a Dominion employee about who holds the BIOS password and it is discovered that the STATE is keeping the password - not Dominion, and not the county.&#10;Later, the whistleblower asks the Dominion employee about connectivity and whether or not the machines can be connected to the internet..."
+    channeltitle "Will Ceron"
+    channelid "UCGK6VVIO-CL4xOMX1YX0m3w"
     favcount 0
-    viewcount 216
-    likecount 8
+    viewcount 24
+    likecount 2
     commentcount 0
-    duration "PT8M1S"
+    duration "PT1M18S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 306
-    name "453"
+    id 453
     label "guTyil46GH4"
     step 0
     date "2020-11-22T09:12:48Z"
@@ -8588,133 +5852,88 @@ graph
     commentcount 0
     duration "PT2M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
-  ]
-  node
-  [
-    id 307
-    name "454"
-    label "9BphC2BL-Ag"
-    step 0
-    date "2020-11-14T18:04:37Z"
-    title "Truth Behind Dominion Voting Systems Fraud Plus Million MAGA March Watch Till End! *News USA*"
-    description "This Video Is An Effort To Reach As Many MAGA Supporters To Tell Them What The President Wont. The Million MAGA March Is Today 11/14/2020, Hopefully Violence Does Not Ensue."
-    channeltitle "News USA"
-    channelid "UCnLxCQyx4xL9LB9amfYctIQ"
-    favcount 0
-    viewcount 40
-    likecount 2
-    commentcount 28
-    duration "PT10M46S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 308
-    name "456"
-    label "nuSesGvq8es"
+    id 455
+    label "ctDs1qVN65M"
     step 0
-    date "2020-11-18T01:16:59Z"
-    title "2020 Most Secure Election? Dominion Voting Systems  SmartMatic works with DHS? - Lou Dobbs 11/17/20"
-    description "Just in from President Trump: &#34;The recent statement by Chris Krebs on the security of the 2020 Election was highly inaccurate, in that there were massive improprieties and fraud - including dead people voting, Poll Watchers not allowed into polling locations, &#8220;glitches&#8221; in the voting machines which changed votes from Trump to Biden, late voting, and many more. Therefore, effective immediately, Chris Krebs has been terminated as Director of the Cybersecurity and Infrastructure Security Agency.&#34; - President Trump Tweet 11/17/20"
-    channeltitle "Wayne Gerald"
-    channelid "UCp-lE3rWQcrSIe_y1dOP8cA"
+    date "2020-11-16T08:04:39Z"
+    title " - Dominion Voting Systems Fraud"
+    description "CIA Director Haspel Should Be Fired For Ignoring Warnings About &#34;Rotten&#34; Dominion Voting.  All of this should have been addressed a long time ago instead of letting the Democrats try to run the table.  Not in office, they still tried to run the tables on the Republicans but you know what?&#10;&#10;President Trump will drain the swamp and all will be in prison soon!!!&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/awesomemosewa20&#10;https://www.tiktok.com/@awesomemosewa"
+    channeltitle "Maggic America"
+    channelid "UCMxhati9F3pdAiLdjX6r0xQ"
     favcount 0
-    viewcount 223
-    likecount 12
-    commentcount 5
-    duration "PT8M5S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 309
-    name "458"
-    label "vym5N3_M4Jc"
-    step 0
-    date "2020-11-20T09:32:54Z"
-    title "Sidney Powell Exposes The Dominion Voting System Software Providing Proof To Wide Spread Voter Fraud"
-    description "Former New York Mayor and attorney Rudy Giuliani held a Press Conference together with attorney Sidney Powell to clear up a lot different things concerning the lawsuits filed post US Election - as irregularities in the Trump / Biden election have been revealed. &#10;&#10;They explaining the origin of Dominion - that were created on the order of the former President of Venezuela Hugo Chavez.&#10;&#10;Powell talks about close ties between Dominion leadership to both George Soros and the Clinton Foundation.&#10;&#10;#domion #voterfraud #2020elections"
-    channeltitle "Elan News"
-    channelid "UCTvqJ6kOri08YdhVemS_Wcw"
-    favcount 0
-    viewcount 34
-    likecount 3
+    viewcount 85
+    likecount 1
     commentcount 0
-    duration "PT2M3S"
+    duration "PT2M1S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 310
-    name "461"
-    label "iL-z5Y0lojo"
-    step 0
-    date "2020-11-17T15:02:18Z"
-    title "One America News Investigates:  the Vote"
-    description "How compromised was the 2020 election? Dominion Voting Systems, which is used in 29 states, has had a history of problems. Stolen laptops, &#8220;switched&#8221; votes, Clinton ties, Antifa CEOs, undeniable data... Join OAN&#8217;s Chanel Rion for this exclusive investigation. Exclusive interviews with Rudy Giuliani, Sidney Powell &#38; hackers who break down Dominion&#8217;s shocking vulnerabilities.&#10;&#10;&#10;&#10;Tune in Saturday, Nov. 21st &#38; Sunday, Nov. 22nd at 10 p.m. ET / 7 p.m PT -- only on One America News!&#10;&#10;&#10;&#10;Visit us at:&#10;&#10;Tired of censorship from other social media platforms? Join us on Free Talk&#10;Free Talk is OANs new social platform.&#10;Users can post, chat and connect with other members.&#10;It allows Free Speech at home, on the go and anywhere in the world, No SHADOWBANNING!&#10;https://freetalk.app&#10;&#10;&#10;Website: https://www.oann.com&#10;Facebook: &#10;https://www.facebook.com/OneAmericaNewsNetwork&#10;Twitter: https://twitter.com/OANN&#10;Instagram:&#10;https://www.instagram.com/one_america_news_&#10;&#10;KlowdTV:&#10;Watch OAN Live on KlowdTV subscription prices start at $4.99 /mo&#10;https://klowdtv.com"
-    channeltitle "One America News Network"
-    channelid "UCNbIDJNNgaRrXOD7VllIMRQ"
-    favcount 0
-    viewcount 32049
-    likecount 2314
-    commentcount 180
-    duration "PT31S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 7
   ]
   node
   [
-    id 311
-    name "463"
+    id 457
+    label "VZzVuwDe2D4"
+    step 0
+    date "2020-12-01T01:22:51Z"
+    title "Episode 1113 - Dominion Voting Machines Connected To Internet? +"
+    description "Source:&#10;https://www.spreaker.com/user/lokiluckiii/episode-1113-dominion-voting-machines-co&#10;&#10;Done a brief rant &#38; narrated these articles:&#10;* Billy's Cancer Treatments&#10;https://www.gofundme.com/f/billy039s-cancer-treatments&#10;* Poll Challenger, Dominion Contractor Say Voting Machines in Detroit Were Connected to Internet&#10;https://www.theepochtimes.com/poll-challenger-dominion-contractor-say-voting-machines-in-detroit-were-connected-to-internet_3597825.html&#10;* Revenge&#10;https://americanfreepress.net/revenge/&#10;&#10;Music Credit:&#10;* TeknoAxe - High Tech Suspense&#10;http://teknoaxe.com/Link_Code_3.php?q=1181&#38;genre=Intro&#10;&#10;Contact:&#10;* LokiLuck3@gmail.com&#10;* LokiLuck03@protonmail.com&#10;&#10;Donations @ https://paypal.me/LokiLuck3ev"
+    channeltitle "Loki Luck 3"
+    channelid "UCjaDG23doiEM_cl19Jhb5Kw"
+    favcount 0
+    viewcount 29
+    likecount 0
+    commentcount 0
+    duration "PT28M30S"
+    indegree 0
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 460
+    label "VOaGDITEvVU"
+    step 0
+    date "2020-11-23T14:10:09Z"
+    title "Fontgate how the Dominion voting system tricked you with a font: by The Revolution Televised"
+    description "https://www.youtube.com/c/TheRevolutionTelevised?sub_confirmation=1&#10;^^^CLICK THIS LINK TO SUBSCRIBE TO OUR CHANNEL^^^&#10;At the request of Pennsylvania they asked the Dominion voting system executives for a straight ticket vote option where you could vote straight Republican or Democrat ticket.  But President Trump was listed in the Repubiican Party, so he would not get any votes on a straight Republican ticket vote.  That's because the Dominion voting system using the Arial font would replace the capital I as you can see here, instead of the lower case l you also see here.  A simple misspelling explains how so many Republicans won in voting districts that Trump lost in........The Democrats almost got away with this one. &#10;To see more videos like this please subscribe here and click on the notification bell. And visit us on the web at www.TheRevolutionTelevised.com to see restricted videos not available to the general public and to purchase merchandise and gear to show your support for the Conservative movement and President Donald Trump."
+    channeltitle "The Revolution Televised"
+    channelid "UCzaRb3pIeiYu861qMkqEoIA"
+    favcount 0
+    viewcount 278
+    likecount 9
+    commentcount 1
+    duration "PT4M48S"
+    indegree 0
+    sentiment 1
+    cluster 7
+  ]
+  node
+  [
+    id 462
+    label "VTty3treJr0"
+    step 0
+    date "2020-11-19T01:57:07Z"
+    title "The Dominion Voting Systems, brief introduction  and investors behind it"
+    description "The video is from a research report of Fan Matisse.&#10;&#10;https://link.medium.com/lHOqtDRPwbb&#10;&#10;You are welcome to share but do respect copyright and cite the original sources and credit Fan Matisse.&#10;&#10;There&#8217;s no intention to make a profit out of the research.&#10;&#10;The truth should always prevail and if there&#8217;s nothing to hide behind the investors of Dominion Voting Systems, why there&#8217;s no open information of who actually invested in the company, instead the real investors are hiding behind the private equity firm, The Staple Street Capital.&#10;&#10;There&#8217;s no coincidence.&#10;&#10;Joe Biden is from Delaware.&#10;&#10;Staple Street Capital is registered in Delaware.&#10;&#10;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;&#129300;"
+    channeltitle "Fan Matisse"
+    channelid "UCCb80hQ1eGNJ8h4VW9KD3Yw"
+    favcount 0
+    viewcount 43
+    likecount 4
+    commentcount 1
+    duration "PT4M44S"
+    indegree 0
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 463
     label "urAnXdwdH2k"
     step 0
     date "2020-11-15T21:23:46Z"
@@ -8728,77 +5947,50 @@ graph
     commentcount 0
     duration "PT2M5S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 312
-    name "464"
-    label "UJrvDdEKveE"
-    step 0
-    date "2020-11-14T10:58:45Z"
-    title "Sidney Powell on Lou Dobbs talking about Dominion Voting Machines and prosecute of 2020 voter fraud"
-    description ""
-    channeltitle "Killer Fuzz &#38; Red Stacker Quantum"
-    channelid "UCGQoiNB2z0FE74VurZpVi5g"
-    favcount 0
-    viewcount 5728
-    likecount 140
-    commentcount 75
-    duration "PT7M3S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 313
-    name "466"
-    label "ngQAKIwObJQ"
+    id 465
+    label "t_AncYkygBM"
     step 0
-    date "2022-07-03T01:10:32Z"
-    title "SYNCRETISM SOCIETY - EP 58 - Archaix and the Simulacrum- Part 3- LIVE  Taking Calls"
-    description "Become a part of The Syncretism Society Virtual Academy. &#10;Today is the day to reclaim your life and your sovereignty! &#10;Take back the Truth!&#10;Join us now and relearn with many other like-minded Syncretists.&#10;https://www.syncretismsociety.com/become-a-member&#10;https://www.syncretismsociety.com/&#10;&#10;&#10;We greatly appreciate your donations! To continue to support the Grand Rise of the Syncretism Academy please use our new PayPal, https://www.paypal.com/paypalme/SyncretismSociety?locale.x=en_US&#10;&#10;**If possible when making your donation please send it via &#8220;Friends and Family&#8221; not &#8220;Goods and Services&#8221;.**&#10;&#10;&#10;Join us on Instagram for daily updates: https://www.instagram.com/syncretismsociety/"
-    channeltitle "Syncretism Society"
-    channelid "UCpDrSOtQ552LXmdRVYvTLyQ"
+    date "2020-11-15T21:22:25Z"
+    title " - Part 3 - Sidney Powell Presents Staggering Evidence of Fraud"
+    description "Sidney Powell, attorney General Michael Flynn and for the Trump campaign, is vowing to expose voter fraud she believes took place during the presidential election.&#10;&#10;Although the Dominion voting systems says there was no foreign interference in the presidential election, Powell says she will soon present &#8220;staggering&#8221; evidence that will prove otherwise.&#10;&#10;This will be enough evidence for the Trump Team to overturn the Election of 2020.&#10;&#10;Wake up America!&#10;Count Every Vote&#10;&#10;Enjoy the Video!&#10;&#10;Know someone with a birthday coming up?&#10;Check out http://www.awesomebirthdaysong.com and make someone's day!&#10;&#10;Visit Channel Pals for all types of channels to anything and everything.&#10;http://www.channelpals.com&#10;&#10;Christmas is Coming!  &#10;&#10;Don't forget to submit your wish list to Santa&#10;http://www.santashake.com&#10;&#10;as well as our Christmas 365 Channel&#10;https://www.youtube.com/channel/UCLULvTKnyiKP87XVKgNRIrg&#10;&#10;Don't forget to check us out on our other Social Media Sites&#10;&#10;https://www.instagram.com/awesomemosewa2020/&#10;https://twitter.com/awesomemosewa20&#10;https://www.tiktok.com/@awesomemosewa"
+    channeltitle "Maggic America"
+    channelid "UCMxhati9F3pdAiLdjX6r0xQ"
     favcount 0
-    viewcount 6416
-    likecount 1365
-    commentcount 128
-    duration "PT2H6M35S"
+    viewcount 26
+    likecount 3
+    commentcount 0
+    duration "PT2M3S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 314
-    name "470"
+    id 469
+    label "UuPx7vr5psk"
+    step 0
+    date "2020-12-04T12:09:41Z"
+    title "Nan Su Presents New Dominion Voting Info, General Vallely Provides An Insider Perspective"
+    description "Nan Su begins the show talking about the Dominion Voting System's parent company Staple Street Capital's reception of $400 million dollars from Swiss Bank UBS, while the majority ownership of UBS happens to be the CCP.&#10;&#10;Amy reminds everyone that she had met the young lady whose diary she had read and who she was asked to denounce.  The girl had let her inside her house after sharing a quote from a book they both knew.&#10;&#10;The Shanghai Caring Committee had found out that Ling had had a baby with her boyfriend Ling, but left the baby on a beach hoping someone would rescue the child, only to find out the child had been washed away and died.  Ling was being accused with murder.&#10;&#10;Old Chen had asked Ling in an interrogation to sign a paper accusing her boyfriend of rape. Old Chen also required Ling to have sex with him.  In exchange she was told her and her boyfriend would eventually be released and transferred to a different location.&#10;&#10;Amy struggled to convince Ling not to take her own life.  Amy mentions how many suicides meant to protest their conditions had no effect.  Amy talks to her about believing in some kind of creator who gives life a purpose.  Amy warns her about the imminent denunciation and offers to talk to Old Chen.  When she talks to Old Chen, he cancels the meeting and moves Ling to another village.&#10;&#10;40 years later, Amy went back for a reunion.  She finds out Ling had eventually died in a mental hospital. Lee had been released 20 years later, but had lost everything.  Another girl had escaped to Hong Kong and became a human rights attorney. She had collected the many stories of what really happened.  Amy thought they should consult the victims.&#10;&#10;Nan introduces the sound bite of General Flynn discussing how fast Communist China has moved to become the sole global superpower.  He believes their disappointment with the 2016 US election caused them to seek influence in the 2020 elections.  He asks how we can accept a voting system that is not domestic.  He explains that &#34;The Kracken&#34; referred to by Sydney Powell is the Military Intelligence Battalion who has identified China, Iran and Russia as being involved with US vote manipulation.  He describes how special forces seized servers in Frankfurt Germany.&#10;&#10;Bill Graff finds it disturbing that US mainstream media has not reported on any of this.  Amy mentions that her friends in other countries are asking about these things, but no one knows about it in the US.&#10;&#10;Nan mentions how strange it is that US media does not cover this topic.  He wants to know why no one would care if Chairman Xi possibly chooses the US president.  Nan introduces General Vallely.&#10;&#10;General Vallely explains that from the reports he has been able to receive and what he has heard in D.C., when you connect the dots, these voting machines have been manipulated to change the votes. Nan asks how it is possible to change what are supposed to be secure votes.  General Vallely says, &#34;It's called hacking.&#34;  He describes a web of deceit, fraud and treason to steal the election.&#10;&#10;Amy asks about William Bar's conclusion that there is no widespread fraud. General Vallely explains that the Department of Justice and FBI are corrupt, citing the Russian collusion hoax as an example.  The General mentions that Bars actual statement was that they did not have evidence &#34;so far&#34;.  General Vallely describes the Department of Justice, the FBI and the CIA as politically corrupt.  He suggests the divisions are so great in the US we are headed toward a civil war. &#10;&#10;Bill Graff asks how the General &#34;as a military guy&#34; sees this whole situation.  The General describes how many people in the giant bureaucracy of the pentagon are not loyal to the constitution.  However, many generals, admirals and special forces in particular are supportive of the president.&#10;&#10;Billy asks if we are in danger of being taken over by the CCP.  General Vallely describes how the CCP is moving &#34;on all fronts&#34;, pointing out how aggressively they are acting across the board.&#10;&#10;Nan asks about why the voting machines is connected to the internet and even counted in servers outside the country.  The General confirms the situation &#34;as far as I know&#34;.  He point out the &#34;tragedy&#34; of what happened to General Flynn.  The General thinks the &#34;Democratic Socialist Party&#34; is corrupt and a Biden administration is unacceptable.&#10;&#10;Billy asks if we can monitor what Chinese hackers are trying to do to us.  The General suggests that we absolutely can, but we have been very lax, leading the the theft of a lot of technology.  He feels we have become more proficient recently, though it is a lot of work...&#10;&#10;China &#220;ber Alles is a weekly radio show airing Thursdays 2PM - 4PM Pacific Time on KSCO Talk Radio - Santa Cruz, CA. &#10;&#10;Visit http://ChinaUberAlles.com to listen to our show live and sign up for our informational newsletter.&#10;&#10;#China #Decoupling #CCP"
+    channeltitle "China Watch Radio"
+    channelid "UCG_g2kttt1M0ifNqHdW9InA"
+    favcount 0
+    viewcount 25
+    likecount 1
+    commentcount 0
+    duration "PT1H56M43S"
+    indegree 0
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 470
     label "2TsGILjQhlE"
     step 0
     date "2020-12-28T18:46:06Z"
@@ -8812,21 +6004,12 @@ graph
     commentcount 0
     duration "PT44S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 315
-    name "471"
+    id 471
     label "TJyOjPz_Y1M"
     step 0
     date "2020-12-10T11:15:24Z"
@@ -8840,21 +6023,12 @@ graph
     commentcount 0
     duration "PT8M44S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 316
-    name "472"
+    id 472
     label "eTqiaGyDX58"
     step 0
     date "2020-12-08T07:40:49Z"
@@ -8868,49 +6042,31 @@ graph
     commentcount 32
     duration "PT2M56S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
-  ]
-  node
-  [
-    id 317
-    name "473"
-    label "QqwdwIejnKo"
-    step 0
-    date "2021-06-17T22:47:03Z"
-    title "Mr. Lindell talked about how dominion voting system stolen the president election"
-    description "The New Federal State of China will broadcasting the event the will hold in July to review how the hackers from China hacked the election result."
-    channeltitle "Rosemary Wan"
-    channelid "UC4MoaxXwd2trldYFv4M_DUA"
-    favcount 0
-    viewcount 26
-    likecount 2
-    commentcount 0
-    duration "PT4M30S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 318
-    name "475"
+    id 474
+    label "MXLdRtAZ1ds"
+    step 0
+    date "2020-11-25T17:57:48Z"
+    title "Voter Fraud and Dominion Voting Machines. "
+    description "Not my President! Proof of Evil &#129465;&#8205;&#9794;&#65039;"
+    channeltitle "Astral King"
+    channelid "UCrHrsTsYAA3dBSITurYzfig"
+    favcount 0
+    viewcount 24
+    likecount 1
+    commentcount 1
+    duration "PT3M10S"
+    indegree 0
+    sentiment 1
+    cluster 8
+  ]
+  node
+  [
+    id 475
     label "c8cUO2ug_kQ"
     step 0
     date "2020-11-15T12:11:20Z"
@@ -8924,49 +6080,31 @@ graph
     commentcount 1
     duration "PT1M27S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 319
-    name "476"
-    label "5k5R1IapDpQ"
+    id 478
+    label "ACpNtBnBCLY"
     step 0
-    date "2020-11-12T09:09:29Z"
-    title "US Elections: Does the Dominion voting software have ties to Clinton Foundation and Nancy Pelosi"
-    description "US Elections: Does the Dominion voting software have ties to Clinton Foundation and Nancy Pelosi&#10;Join me on telegram: https://t.me/davepartnermedia&#10;Get your business courses: https://braintem.org&#10;&#10;Importation course: &#10;Level 1: https://braintem.org/courses/2&#10;Level 2: https://braintem.org/courses/3&#10;&#10;Youtube course:&#10;For mobile:  https://braintem.org/courses/5&#10;For Mobile and Laptops: https://braintem.org/courses/4 &#10;&#10;Software Programming Course: https://braintem.org/courses/7&#10;Web development course: https://braintem.org/courses/9&#10;&#10;As poll workers tallied votes from the U.S. presidential election, many social media users interpreted a clerk&#8217;s error in a small, Republican-leaning Michigan county as vote-rigging because it wrongly favored Joe Biden before being fixed.&#10;&#10;A week later, that misinterpreted mistake has snowballed into a deluge of false claims that Democrats have deep ties to Dominion Voting Systems, the company that supplies election equipment to Michigan and dozens of other states nationwide.&#10;&#10;Claims that House Speaker Nancy Pelosi, California Sen. Dianne Feinstein and the Clinton Foundation have interest or influence in Dominion are all unsubstantiated. But that didn&#8217;t stop tens of thousands of social media users from amplifying them on Facebook, Twitter and Instagram this week.&#10;donald trump,trump,2020 election,speaker pelosi,dominion voting,dominion voting software,cnn dominion voting software,latest news,happening now,cnn,politics,president donald trump,us news,lawsuits,nancy pelosi george stephanopoulos interview,nancy pelosi good morning glitch,hillary clinton,2020 election night,2020 election debate highlights"
-    channeltitle "Dave Partner"
-    channelid "UCpFnf2JdSNcewXWY-idYSZA"
+    date "2020-11-12T18:58:21Z"
+    title "Dominion Voting Systems: CHINESE SUPPLIERS, acquired company w/ suspected ties to HUGO CHAVEZ"
+    description "Today we're going over the 15 years of security concerns surrounding Dominion Voting Systems and two other voting infrastructure manufacturers. &#10;&#10;We're also diving into a company acquisition Dominion made in 2010 - they purchased a company that had been under scrutiny by U.S. investigators for suspected ties to the Venezuelan dictator, Hugo Chavez. &#10;&#10;&#10;IF YOU LOVE MY WORK: &#10;&#10;Please consider donating to keep me a journalist: https://thenomanzone.com/index.php/donate/ &#10;&#10;Read all of my articles: https://thenomanzone.com/index.php/nomanslandarticles/ &#10;&#10;Find me on Twitter: https://twitter.com/coangelaramirez &#10;&#10;Support our Facebook page: https://www.facebook.com/thenomanslandEP"
+    channeltitle "Angela Ramirez"
+    channelid "UCx2GjP90Muh6Uz8eIHUAhnw"
     favcount 0
-    viewcount 4044
-    likecount -1
-    commentcount 44
-    duration "PT23M8S"
+    viewcount 118
+    likecount 6
+    commentcount 7
+    duration "PT54M26S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 8
   ]
   node
   [
-    id 320
-    name "479"
+    id 479
     label "AK9LgRvvPJQ"
     step 0
     date "2020-12-11T04:25:35Z"
@@ -8980,21 +6118,12 @@ graph
     commentcount 0
     duration "PT13M43S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 321
-    name "480"
+    id 480
     label "MsCpjqMjNnQ"
     step 0
     date "2020-11-22T14:03:03Z"
@@ -9008,49 +6137,31 @@ graph
     commentcount 22
     duration "PT8M59S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
-  ]
-  node
-  [
-    id 322
-    name "481"
-    label "ccAFvw7XYV4"
-    step 0
-    date "2020-11-15T01:52:03Z"
-    title "Dominion vote machine TrumanBlack thedonald.win 1 American News Network Edison Research Larry Rosin"
-    description "[REDACTED]"
-    channeltitle "waptek2"
-    channelid "UCo6GhRKKsBuZmzOewMZgghg"
-    favcount 0
-    viewcount 291
-    likecount 6
-    commentcount 21
-    duration "PT15M"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 323
-    name "486"
+    id 485
+    label "jSqTPYEbMDE"
+    step 0
+    date "2020-11-22T10:30:03Z"
+    title "Trump Still Believes!!! Dominion Voting Systems Laid Bare"
+    description "Trump still believes. Dominion voting systems is laid bare in this video. Trump is pursuing several legal avenues and Dominion has been caught. They will be exposed in court and it will be a serious problem for those who perpetuated this fraud."
+    channeltitle "Joseph Cernea"
+    channelid "UCz6XpFBgOdYmlSW1GlV5Yvw"
+    favcount 0
+    viewcount 52
+    likecount 9
+    commentcount 0
+    duration "PT13M14S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 486
     label "wYQI3C-7rp0"
     step 0
     date "2020-11-13T18:15:41Z"
@@ -9064,21 +6175,12 @@ graph
     commentcount 4
     duration "PT13M16S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 324
-    name "487"
+    id 487
     label "d2-PZ09X5xk"
     step 0
     date "2020-12-14T22:19:18Z"
@@ -9092,49 +6194,31 @@ graph
     commentcount 77
     duration "PT2M56S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 325
-    name "488"
-    label "po2QLLgLyLc"
+    id 491
+    label "u8lM2AkMNyY"
     step 0
-    date "2020-11-20T23:15:11Z"
-    title "Dominion Voting Systems shared office is INCUBATOR for radical left-wing organizations"
-    description "&#9658;Help support our independent journalism: http://www.HelpRebelNews.com&#10;Keean Bexte continues to dig into the connections between Dominion Voting System and far-left organizations that share an office with the supposedly non-partisan elections company.&#10;FULL REPORT from Keean Bexte: https://rebelne.ws/35QS39m&#10;&#10;Rebel News: Telling the other side of the story. https://www.rebelnews.com for more great Rebel content. &#10;&#10;Unlike almost all of our mainstream media competitors, Rebel News doesn&#8217;t receive any government funding. We rely on our generous audience to help keep us reporting. Please consider supporting Rebel News by making a donation, purchasing a RebelNews+ subscription, shopping in our online store, or any of the other methods below: &#10;&#10;&#9658;Support our independent journalism - https://rebelne.ws/donation&#10;&#9658; Donate in cryptocurrency - http://rebelne.ws/crypto&#10;&#9658;Make a donation through PayPal - https://rebelne.ws/paypal&#10;&#9658;Rebel News Plus  - Become a Premium Content subscriber - https://rebelne.ws/plus&#10;&#9658;BUY Rebel News gear - https://rebelne.ws/store&#10;&#9658;LISTEN to our FREE podcast - https://rebelne.ws/podcast&#10;&#10;Make sure to follow Rebel News on social media too! &#10;FACEBOOK - https://rebelne.ws/fbook&#10;TWITTER - https://rebelne.ws/twitter&#10;INSTAGRAM - https://rebelne.ws/Instagram&#10;&#10;An original video production by Rebel News.&#10;&#10;#RebelNews #KeeanBexte #DominionVotingSystems #OpenSocietyFoundations #GeorgeSoros #RadicalLeft #Toronto #Election #ElectionFraud #USElection"
-    channeltitle "Rebel News"
-    channelid "UCGy6uV7yqGWDeUWTZzT3ZEg"
+    date "2020-11-15T21:58:56Z"
+    title "Sidney Powell with Eric Bolling on the accuracy of Dominion voting machines 1"
+    description ""
+    channeltitle "Steve P"
+    channelid "UCXviMHLdLFBa91YfGPTCtMA"
     favcount 0
-    viewcount 78218
-    likecount 9609
-    commentcount 1223
-    duration "PT13M52S"
+    viewcount 156
+    likecount 5
+    commentcount 0
+    duration "PT5M4S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 326
-    name "492"
+    id 492
     label "lSewrCeF6JM"
     step 0
     date "2020-11-18T00:53:06Z"
@@ -9148,49 +6232,31 @@ graph
     commentcount 1
     duration "PT36S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 327
-    name "493"
-    label "WZepqpeeSz0"
+    id 496
+    label "h1cY6ZaCH6g"
     step 0
-    date "2020-11-17T19:00:03Z"
-    title "Dominion Voting Machines and Voter Fraud Allegations"
-    description "Were electronic voting machines, like Dominion Voting Machines and ES&#38;S, involved in voter fraud? For years, experts have warned that voting machines have security vulnerabilities, a kill chain that could suffer from hacking. And the Trump campaign alleges that a lack of election security resulted in widespread voter fraud and election fraud. Three main companies supply 80% of the country&#8217;s voting machines and vote counting machines: Election Systems &#38; Software or ES&#38;S, Dominion Voting, and Hart InterCivic  And they're used in many swing states, like Georgia. The Georgia vote is now in a recount. Will other recounts of ballots happen? What will a Trump lawsuit achieve? And will the Trump Supreme Court might grant him the recount he wants? Find out on America Uncovered!&#10;&#10;SUPPORT US: &#10;Patreon.......&#9658;https://www.patreon.com/americauncovered&#10;&#10;SOCIAL:&#10;Parler: @AmericaUncovered &#10;Facebook...&#9658; https://www.facebook.com/usuncovered&#10;Instagram..&#9658; https://www.instagram.com/americauncovered&#10;Twitter........&#9658; https://twitter.com/USUncovered&#10;&#10;#dominion&#10; dominion voting systems"
-    channeltitle "America Uncovered"
-    channelid "UC_7vFlErTHxVD-IFNB-BFCg"
+    date "2020-11-11T05:53:20Z"
+    title "s Votes!"
+    description "When the President says, &#34;Wait until you see what's coming!&#34;, one has to ask themselves if he's talking about the rampant voter fraud and intimidation seen across this country. Is it the backdating or was it the vans of ballots that showed up across this country at zero-dark-thirty? While these historic instances of fraud played a large role, the bigger picture lays within the irregularities caused by Dominion voting software. The Democrats foresaw their own destiny when they predicted Amy Coney Barret would end Biden as the Supreme Court WILL have no choice but to review this evidence. &#10;&#10;Checkmate!&#10;&#10;Thank you for watching and enjoy the show!&#10;&#10;Show Notes: https://www.americanreveille.com/glitch-heard-around-the-world-notes&#10;&#10;Please follow me on Parlor at - http://ow.ly/QNma50AwfEg&#10;&#10;Please like and follow me on Facebook - http://ow.ly/uwTu50zvkTU&#10;&#10;Please follow me on Twitter - http://ow.ly/i4nO50zvkON &#10;&#10;Listen to the ARP on Spotify - http://ow.ly/gOON50zPya7&#10;&#10;Listen to the ARP on Apple Podcasts - http://ow.ly/Nlsw50zvkUT&#10;&#10;Listen to the ARP on Google Podcasts - http://ow.ly/rvTE50A7g7u&#10;&#10;Listen to the ARP on iHeartRADIO - http://ow.ly/eDYB50A7gc8&#10;&#10;Listen to the ARP on Tune In / Alexa - http://ow.ly/QOH650A7gdc&#10;&#10;Listen to the ARP on Stitcher - http://ow.ly/ZlLT50A7gev&#10;&#10;Listen to the ARP on Podcast Addict - http://ow.ly/9DDh50A7gg0&#10;&#10;Listen to the ARP on Podchaser - http://ow.ly/iSsY50A7gh9&#10;&#10;Listen to the ARP on Deezer - http://ow.ly/cDP950A7gmk&#10;&#10;Please follow me on LinkedIn - http://ow.ly/x8Xc50zvkOh &#10;&#10;Please subscribe on Youtube - http://ow.ly/XqVA50zvkWv &#10;&#10;Please follow me on Instagram - http://ow.ly/1jWI50zvkZS &#10;&#10;Please visit the American Reveille Podcast website - http://ow.ly/EerK50zvl0A"
+    channeltitle "American Reveille"
+    channelid "UCNHtDosFrPMwwS45rOviFQA"
     favcount 0
-    viewcount 154075
-    likecount 13380
-    commentcount 3179
-    duration "PT18M43S"
+    viewcount 1782
+    likecount 81
+    commentcount 40
+    duration "PT21M41S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 328
-    name "497"
+    id 497
     label "fBixWXuVdHM"
     step 0
     date "2020-11-18T03:45:24Z"
@@ -9204,77 +6270,50 @@ graph
     commentcount 1
     duration "PT3M11S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 329
-    name "498"
-    label "3g_WTCAV6Ks"
+    id 499
+    label "5oNqq6DpLf4"
     step 0
-    date "2021-02-24T16:24:31Z"
-    title "Dominion Voting System"
-    description "This morning, #BKP discusses the Dominion Voting Lawsuits. Who all is Dominion Suing? Are they trying to take down Mike Lindell's company? #BKP also discusses the need for Brad Raffensperger to turn in his Republican Card. Will Brian Kemp ask him to? What say you?&#10;&#10;8 AM Just click  https://fyntv.net/&#10;#BKPpolitics with #BKP #AnythingGoes&#10;BKP's Opinion on Local, State and National news and also Politics Monday through Friday. &#10;At anytime contact BKP at 706-889-9700 or Chief@FetchYourNews.com &#10;Thank you for tuning in and watching! Comment and Like below!"
-    channeltitle "Voice of Rural America"
-    channelid "UCtKBuOPAxAZ_CgBaIYMHZRQ"
+    date "2020-11-25T04:32:00Z"
+    title "11/24/20 Dominion Voting System and Sidney Powell talks about court beginning in GA"
+    description "Lou Dobbs interviews Sidney Powell about Dominion voting system and what is going on currently in GA. She is most likely filing for court tomorrow! #SidneyPowell #Dominionsoftware #Dominionvoting #Georgia"
+    channeltitle "Chells Wisdom"
+    channelid "UCQ5Ld2GDgLO9D7_7RInTFIA"
     favcount 0
-    viewcount 16
-    likecount 0
-    commentcount 0
-    duration "PT24M41S"
+    viewcount 144
+    likecount 5
+    commentcount 3
+    duration "PT27M16S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 330
-    name "500"
-    label "bOU-fRfi9pU"
-    step 0
-    date "2020-11-18T01:22:13Z"
-    title "Sidney Powell says shes ready to release the Kraken on Dominion Voting Systems"
-    description "This week,&#10;&#10;Brushfiremind.locals.com  Join our community and engage with like-minded conservatives.&#10;Facebook: https://www.facebook.com/BrushFireMind/&#10;Twitter: https://twitter.com/brushfiremind&#10;BFM Site: http://brushfiremind.com/&#10;&#10;The Brush Fire Mind is a Veteran Owned project established against all enemies of the United States, foreign and domestic.&#10;&#10;Our Mission is:&#10;Examine contemporary issues as true conservatives.&#10;Read and discuss comic books, film, television, literature, classic rock, heavy metal, and real man art.&#10;Beer, meat, whiskey, coffee, cigars, guns, and all of the other things that make manliness equally awesomeness.  &#10;Expose the modern GOP republican party for the squishy liberal beta males that they are.&#10;Expose the enemy left for the regressive tyrants that they are.&#10;&#10;HARASSMENT NOTICE&#10;It is not my intention to cause the original video publisher to receive any kind of harassment or abuse. My intention is to provide a counter-argument to claims they have made in a civil and courteous manner. While I have no control over the feedback you choose to provide, I&#8217;d kindly ask that you avoid any forms of harassment or abuse. Thanks! &#10;FAIR USE NOTICE&#10;This video may contain copyrighted material; the use of which has not been specifically authorized by the copyright owner. We are making such material available for the purposes of criticism, comment, review, and news reporting which constitute the 'fair use' of any such copyrighted material as provided for in section 107 of the US Copyright Law. Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work for purposes such as criticism, comment, review, and news reporting is not an infringement of copyright.&#10;#STOPTHESTEAL #Dominion #DominionVotingSystems"
-    channeltitle "The Brushfire Mind"
-    channelid "UCTnVcuNOx9Vj_ShUVNZFYLQ"
-    favcount 0
-    viewcount 403
-    likecount 19
-    commentcount 6
-    duration "PT41M40S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 331
-    name "503"
+    id 502
+    label "-dUvx3SwRDI"
+    step 0
+    date "2022-05-31T21:11:14Z"
+    title "Dominion Vote Counting System Audit"
+    description ""
+    channeltitle "Pas Kristensen"
+    channelid "UCWPQtkKpfZ9IguFezhs_PFw"
+    favcount 0
+    viewcount 21
+    likecount 1
+    commentcount 0
+    duration "PT23M11S"
+    indegree 0
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 503
     label "fj9Cp1UCdpE"
     step 0
     date "2020-11-25T22:00:08Z"
@@ -9288,21 +6327,12 @@ graph
     commentcount 153
     duration "PT8M34S"
     indegree 1
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 332
-    name "504"
+    id 504
     label "YCrcSjQHNXg"
     step 0
     date "2020-11-21T15:42:13Z"
@@ -9316,49 +6346,31 @@ graph
     commentcount 3
     duration "PT1M27S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 333
-    name "505"
-    label "RfzqmqhBA1Q"
+    id 507
+    label "gBfOJG1bFzI"
     step 0
-    date "2020-11-25T16:54:17Z"
-    title "CEO of Overstock Patrick Byrne Weighs in on the Dominion Election Steal"
-    description "CEO of Overstock Patrick Byrne Weighs in on the Dominion Election Steal.&#10;Patrick Byrne, who founded Overstock.com and has led a highly successful life as an entrepreneur and observer of facts, including cyber-security issues. In this interview, he shares what he has discovered about the Dominion system voting system.&#10;&#10;GET YOUR TRUMP2020 GEAR AT OUR STORE: https://JohnMarkNielsen.com/trump2020&#10;&#10;@FreedomForumUSA &#10;PLEASE NOTE: for those who cannot link back to our YouTube page (this is an unresolved YouTube issue) here is the link to the rest of our videos: https://www.johnmarknielsen.com/freedom-forum-video-collection/&#10;You can help keep Freedom Forum AD-FREE in the following ways: &#10;DONATE: https://paypal.me/truenorthambition &#10;LIKE LifeVerse Books on Facebook - https://www.facebook.com/LifeVerseBooks to receive our Daily Deals list of FREE Inspirational Kindle eBooks. &#10;SUBSCRIBE to LifeVerse Books: https://www.lifeversebooks.org/subscribe/ (to receive the Daily Deals by email.&#10;Professional and affordable Web design/webmaster Services: https://webdesign.truenorthambition.com"
-    channeltitle "Freedom Forum"
-    channelid "UCkBKczhvyTDI1WqCjJbaOTw"
+    date "2020-12-04T21:42:52Z"
+    title "Dominion Software owner Nick Ikonomakis"
+    description "Applications that are pending as well as patents that have already been granted by the united states patent and trademark office (uspto)&#10;&#10;Dominion Patent Number - 9870666 &#10;Inventors - John Poulos, James Hoover, Nick Ikonomakis, Goran Obradovic&#10;&#10;A system,method and computer program for tabulating  votes and creating an audit trail is provided. A ballot processing device may include a paper feed machine  mechanism, a computer, a ballot processing application loaded onto the computer  and a digital scanning device  link to the computer. the ballot processing  application may process digital image  to establish a series of processing results defining one or more vote results for the paper ballot  and also an audit trail. The ballot processing application  may process the digital image to define the  voting results based on criteria established by the election officials, including ambiguous mark criteria. the audit trail enables election officials to verify that particular paper ballots have been processed correctly in accorance with these criteria.&#10;&#10;type - grant &#10;Filed - may 3, 2012&#10;date of patent - January 16, 2018&#10;Assignee - Dominion Voting Systems, Inc.&#10;Inventors - John Poulos, James Hoover, Nick Ikonomakis, Goran Obradovic&#10;&#10;Also Esnos is as bad as dominion more info on them to come &#10;#foxnews #cnn #msnbc #abc #nbc #cbs #skynews #tyt #oan #rsb #bbc&#10;Staple Street Voter Fraud Investigation p5 An investigation into SEC filings has revealed that the firm which owns Dominion Voting Systems received $400 million dollars from a Swiss bank with close links to the Chinese government less than a month before the election.&#10;&#10;The investigation centers on Staple Street Capital, which acquired Dominion Voting Systems in 2018.&#10;&#10;Dominion Voting Systems operates voting machines in 28 states and has been accused by President Trump and his supporters of being involved in deleting millions of votes for Trump in addition to switching votes to Biden on election night.&#10;&#10;&#8220;On Oct 8, 2020, Staple Street Capital filed SEC Form D offerings and sales amount of $400,000,000 with the Sales Compensation Recipient identified as UBS Securities,&#8221; states the investigation, which also notes that another payment of $200,000,000 was received in December 2014.&#10;&#10;&#8220;UBS Securities is a Swiss investment bank which owns 24.99% of UBS Securities Co LTD, a Chinese Investment Bank. The remaining 75% of UBS Securities CO LTD is owned by the Chinese government,&#8221; states the report.&#10;&#10;The overall owners of UBS Securities Co LTD are;&#10;&#10;&#8211; Beijing Guoxiang (33%)&#10;&#8211; UBS (24.99%)&#10;&#8211; Guangdong Comm. Group [zh] (14.01%)&#10;&#8211; China Guodian (14%)&#10;&#8211; COFCO Group (14%)&#10;&#10;Aside from UBS, the other four owners of UBS Securities are all Communist Chinese front groups.&#10;&#10;Beijing Guoxiang is a state owned asset.&#10;&#10;Guangdong Comm. Group 100% stakeholder is the Guangdong Provincial Government.&#10;&#10;China Guodian is state owned enterprise administered for the SASAC for the state Council&#10;&#10;COFCO Group is a state owned enterprise under the direct supervision of the SASAC.&#10;&#10;SASAC The State-owned Assets Supervision and Administration Commission of the State Council (SASAC) is a special commission of the People&#8217;s Republic of China, directly under the State Council.&#10;&#10;The revelation that Dominion Voting Systems has financial ties to the Chinese government via UBS Securities will bolster claims by Trump supporters that foreign actors working on behalf of Communist China may have sought to meddle in the presidential election to help Joe Biden.&#10;&#10;Other connections between Dominion Voting Systems and the Chinese government have also emerged in recent weeks, including the company&#8217;s Core Infrastructure Manager of Information Technology, Andy Huang, who previously worked for China Telecom, which is &#8220;wholly run by the Chinese government,&#8221; reported the National Pulse.&#10;&#10;View the full document batch here: 1 &#8211; 2 &#8211; 3 &#8211; 4 &#8211; 5&#10;&#10;Editor&#8217;s Note: A previous version of this article incorrectly credited a particular research firm for performing this investigation. That information was erroneous, and this article has been updated to correct that. We apologize for the confusion.&#10;&#10;#cnn #foxnews #msnbc"
+    channeltitle "Truth News Media History"
+    channelid "UCcqg5XyyY4hqQQ2WH9wqqOQ"
     favcount 0
-    viewcount 17417
-    likecount 525
-    commentcount 42
-    duration "PT18M19S"
+    viewcount 168
+    likecount 1
+    commentcount 0
+    duration "PT35S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 334
-    name "508"
+    id 508
     label "tsuKoAPsROg"
     step 0
     date "2020-12-08T02:47:01Z"
@@ -9372,49 +6384,31 @@ graph
     commentcount 0
     duration "PT6M17S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 3
-  ]
-  node
-  [
-    id 335
-    name "509"
-    label "Er4KWrP1oRs"
-    step 0
-    date "2020-11-17T23:15:12Z"
-    title "Dominion Voting shares office with far-left George Soros linked group"
-    description "&#9658;Help support independent journalism: http://www.HelpRebelNews.com&#10;Update: After publication of this news story, Tides Canada contacted us by email. They state they moved out of the office building at 215 Spadina Avenue last year, although their name remains in the building door entry system and on the building's directory of tenants.&#10;&#10;Tides Canada also told us that they do not receive or disburse &#8220;cash&#8221; from George Soros. In fact, the Tides Foundation (the parent of Tides Canada) has received more than $22 million from Soros foundations.&#10;&#10;Keean Bexte visits the Toronto headquarters of Dominion Voting Systems to try and ask some questions about the organization's involvement in the 2020 American election.&#10;FULL REPORT from Keean Bexte: https://rebelne.ws/3f76zNv&#10;&#10;Rebel News: Telling the other side of the story. https://www.rebelnews.com for more great Rebel content. &#10;&#10;Unlike almost all of our mainstream media competitors, Rebel News doesn&#8217;t receive any government funding. We rely on our generous audience to help keep us reporting. Please consider supporting Rebel News by making a donation, purchasing a RebelNews+ subscription, shopping in our online store, or any of the other methods below: &#10;&#10;&#9658;Support our independent journalism - https://rebelne.ws/donation&#10;&#9658; Donate in cryptocurrency - http://rebelne.ws/crypto&#10;&#9658;Make a donation through PayPal - https://rebelne.ws/paypal&#10;&#9658;Rebel News Plus  - Become a Premium Content subscriber - https://rebelne.ws/plus&#10;&#9658;BUY Rebel News gear - https://rebelne.ws/store&#10;&#9658;LISTEN to our FREE podcast - https://rebelne.ws/podcast&#10;&#10;Make sure to follow Rebel News on social media too! &#10;FACEBOOK - https://rebelne.ws/fbook&#10;TWITTER - https://rebelne.ws/twitter&#10;INSTAGRAM - https://rebelne.ws/Instagram&#10;&#10;An original video production by Rebel News.&#10;&#10;#RebelNews #KeeanBexte #DominionVotingSystems #Smartmatic #USElection2020 #ElectionFraud #StapleStreetCapital #JohnPoulous"
-    channeltitle "Rebel News"
-    channelid "UCGy6uV7yqGWDeUWTZzT3ZEg"
-    favcount 0
-    viewcount 198394
-    likecount 14203
-    commentcount 1961
-    duration "PT10M12S"
-    indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 336
-    name "512"
+    id 511
+    label "mBOU5yjwwRI"
+    step 0
+    date "2020-12-19T20:31:39Z"
+    title "Georgia Still Using Fraudulent Voting System DOMINION For 2020 Senate Runoff"
+    description "This voting system was created in Venezuela to allow Chavez to rig elections. The voting system allows for USB port tinkering, ballot editing, and &#10;ballot deletion."
+    channeltitle "Lady Punisher"
+    channelid "UC3b4gdiPmS67JkgGAt0VmWQ"
+    favcount 0
+    viewcount 58
+    likecount 1
+    commentcount 0
+    duration "PT1M"
+    indegree 0
+    sentiment 1
+    cluster 7
+  ]
+  node
+  [
+    id 512
     label "noZNQMRqXx4"
     step 0
     date "2020-12-31T01:26:31Z"
@@ -9428,21 +6422,12 @@ graph
     commentcount 22
     duration "PT10M4S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 337
-    name "513"
+    id 513
     label "r9bjwBSfEBE"
     step 0
     date "2020-11-17T22:13:46Z"
@@ -9456,21 +6441,12 @@ graph
     commentcount 1
     duration "PT15M53S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 338
-    name "514"
+    id 514
     label "Je83y6T5Akk"
     step 0
     date "2020-12-14T23:13:23Z"
@@ -9484,49 +6460,31 @@ graph
     commentcount 2
     duration "PT1M23S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 339
-    name "515"
-    label "qub2mClm8l8"
+    id 518
+    label "FHIqRzUJcGA"
     step 0
-    date "2020-11-11T17:13:45Z"
-    title "Rudy Giuliani confirmed whistleblowers from Dominion have come forward"
-    description "Help Us TAKE DOWN The Liberal Media With Our Free Pro-Trump App&#10;https://ilovemyfreedoms.com/optin7ekmnppn&#10;&#10;Socials:&#10;facebook.com/pg/trendingpoliticsdotcom&#10;twitter.com/Trend_Politics&#10;instagram.com/trendingpolitics&#10;www.twitter.com/ILMForg"
-    channeltitle "Trending Politics"
-    channelid "UCNsOMrEYnRq6lUQhyIItSKw"
+    date "2020-12-01T19:15:16Z"
+    title " - voter fraud videos"
+    description "https://youtu.be/Iw5muLNhkLc  thats all his personal info publicly available to anyone. phone number adresses and so on &#10;#Foxnews #Cnn #MSNBC #Tucker #breakingnews #XavierKhouri &#10;&#10;&#10;&#10;&#10;An investigation into SEC filings has revealed that the firm which owns Dominion Voting Systems -received $400 million dollars from a Swiss bank with close links to the Chinese government less than a month before the election.&#10;&#10;The investigation centers on Staple Street Capital, which acquired Dominion Voting Systems in 2018.&#10;&#10;Dominion Voting Systems operates voting machines in 28 states and has been accused by President Trump and his supporters of being involved in deleting millions of votes for Trump in addition to switching votes to Biden on election night.&#10;&#10;&#8220;On Oct 8, 2020, Staple Street Capital filed SEC Form D offerings and sales amount of $400,000,000 with the Sales Compensation Recipient identified as UBS Securities,&#8221; states the investigation, which also notes that another payment of $200,000,000 was received in December 2014.&#10;&#10;&#8220;UBS Securities is a Swiss investment bank which owns 24.99% of UBS Securities Co LTD, a Chinese Investment Bank. The remaining 75% of UBS Securities CO LTD is owned by the Chinese government,&#8221; states the report.&#10;&#10;The overall owners of UBS Securities Co LTD are;&#10;&#10;&#8211; Beijing Guoxiang (33%)&#10;&#8211; UBS (24.99%)&#10;&#8211; Guangdong Comm. Group [zh] (14.01%)&#10;&#8211; China Guodian (14%)&#10;&#8211; COFCO Group (14%)&#10;&#10;Aside from UBS, the other four owners of UBS Securities are all Communist Chinese front groups.&#10;&#10;Beijing Guoxiang is a state owned asset.&#10;&#10;Guangdong Comm. Group 100% stakeholder is the Guangdong Provincial Government.&#10;&#10;China Guodian is state owned enterprise administered for the SASAC for the state Council&#10;&#10;COFCO Group is a state owned enterprise under the direct supervision of the SASAC.&#10;&#10;SASAC The State-owned Assets Supervision and Administration Commission of the State Council (SASAC) is a special commission of the People&#8217;s Republic of China, directly under the State Council.&#10;&#10;The revelation that Dominion Voting Systems has financial ties to the Chinese government via UBS Securities will bolster claims by Trump supporters that foreign actors working on behalf of Communist China may have sought to meddle in the presidential election to help Joe Biden.&#10;&#10;Other connections between Dominion Voting Systems and the Chinese government have also emerged in recent weeks, including the company&#8217;s Core Infrastructure Manager of Information Technology, Andy Huang, who previously worked for China Telecom, which is &#8220;wholly run by the Chinese government,&#8221; reported the National Pulse."
+    channeltitle "TNMH Channel 3"
+    channelid "UCB_y-s2TsAfd28RWy3AbtoA"
     favcount 0
-    viewcount 32507
-    likecount 521
-    commentcount 36
-    duration "PT1M11S"
+    viewcount 1114
+    likecount 22
+    commentcount 20
+    duration "PT5M19S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 340
-    name "519"
+    id 519
     label "Iu0XMvMTIUc"
     step 0
     date "2020-12-04T19:15:00Z"
@@ -9540,16 +6498,8 @@ graph
     commentcount 232
     duration "PT2M1S"
     indegree 0
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 7
   ]
   edge
   [
@@ -9560,13 +6510,13 @@ graph
   edge
   [
     source 0
-    target 51
+    target 56
     rank 12
   ]
   edge
   [
     source 0
-    target 56
+    target 62
     rank 15
   ]
   edge
@@ -9578,7 +6528,7 @@ graph
   edge
   [
     source 1
-    target 60
+    target 66
     rank 2
   ]
   edge
@@ -9590,13 +6540,13 @@ graph
   edge
   [
     source 1
-    target 38
+    target 39
     rank 6
   ]
   edge
   [
     source 1
-    target 53
+    target 59
     rank 7
   ]
   edge
@@ -9614,7 +6564,7 @@ graph
   edge
   [
     source 1
-    target 47
+    target 49
     rank 17
   ]
   edge
@@ -9632,7 +6582,7 @@ graph
   edge
   [
     source 2
-    target 57
+    target 63
     rank 6
   ]
   edge
@@ -9644,13 +6594,13 @@ graph
   edge
   [
     source 2
-    target 53
+    target 59
     rank 9
   ]
   edge
   [
     source 2
-    target 59
+    target 65
     rank 11
   ]
   edge
@@ -9668,7 +6618,7 @@ graph
   edge
   [
     source 3
-    target 38
+    target 39
     rank 1
   ]
   edge
@@ -9680,7 +6630,7 @@ graph
   edge
   [
     source 3
-    target 29
+    target 30
     rank 3
   ]
   edge
@@ -9728,7 +6678,7 @@ graph
   edge
   [
     source 6
-    target 56
+    target 62
     rank 2
   ]
   edge
@@ -9752,7 +6702,7 @@ graph
   edge
   [
     source 7
-    target 22
+    target 23
     rank 5
   ]
   edge
@@ -9770,19 +6720,19 @@ graph
   edge
   [
     source 8
-    target 53
+    target 59
     rank 8
   ]
   edge
   [
     source 9
-    target 76
+    target 86
     rank 16
   ]
   edge
   [
     source 9
-    target 139
+    target 176
     rank 19
   ]
   edge
@@ -9812,37 +6762,37 @@ graph
   edge
   [
     source 12
-    target 59
+    target 65
     rank 13
   ]
   edge
   [
     source 13
-    target 70
+    target 78
     rank 14
   ]
   edge
   [
     source 13
-    target 31
+    target 32
     rank 15
   ]
   edge
   [
     source 14
-    target 59
+    target 65
     rank 6
   ]
   edge
   [
     source 14
-    target 60
+    target 66
     rank 19
   ]
   edge
   [
     source 15
-    target 38
+    target 39
     rank 1
   ]
   edge
@@ -9854,13 +6804,13 @@ graph
   edge
   [
     source 15
-    target 29
+    target 30
     rank 3
   ]
   edge
   [
     source 15
-    target 53
+    target 59
     rank 4
   ]
   edge
@@ -9884,19 +6834,19 @@ graph
   edge
   [
     source 16
-    target 89
+    target 107
     rank 12
   ]
   edge
   [
     source 18
-    target 53
+    target 59
     rank 9
   ]
   edge
   [
     source 19
-    target 38
+    target 39
     rank 1
   ]
   edge
@@ -9914,68 +6864,26 @@ graph
   edge
   [
     source 20
-    target 89
+    target 107
     rank 14
   ]
   edge
   [
     source 21
-    target 40
+    target 41
     rank 2
   ]
   edge
   [
     source 21
-    target 59
+    target 65
     rank 11
   ]
   edge
   [
     source 21
-    target 33
+    target 34
     rank 12
-  ]
-  edge
-  [
-    source 22
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 22
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 22
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 22
-    target 59
-    rank 5
-  ]
-  edge
-  [
-    source 22
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 22
-    target 1
-    rank 10
-  ]
-  edge
-  [
-    source 22
-    target 93
-    rank 19
   ]
   edge
   [
@@ -9985,5072 +6893,5120 @@ graph
   ]
   edge
   [
-    source 24
-    target 35
-    rank 5
-  ]
-  edge
-  [
-    source 24
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 24
-    target 17
-    rank 11
-  ]
-  edge
-  [
-    source 25
-    target 53
-    rank 5
-  ]
-  edge
-  [
-    source 25
-    target 34
-    rank 11
-  ]
-  edge
-  [
-    source 25
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 26
-    target 0
-    rank 6
-  ]
-  edge
-  [
-    source 26
-    target 43
-    rank 7
-  ]
-  edge
-  [
-    source 26
-    target 56
-    rank 13
-  ]
-  edge
-  [
-    source 28
-    target 35
-    rank 1
-  ]
-  edge
-  [
-    source 28
-    target 15
-    rank 7
-  ]
-  edge
-  [
-    source 28
-    target 0
-    rank 10
-  ]
-  edge
-  [
-    source 28
-    target 17
-    rank 13
-  ]
-  edge
-  [
-    source 28
-    target 1
-    rank 18
-  ]
-  edge
-  [
-    source 28
-    target 26
-    rank 20
-  ]
-  edge
-  [
-    source 29
-    target 38
+    source 23
+    target 39
     rank 2
   ]
   edge
   [
-    source 29
-    target 17
+    source 23
+    target 15
     rank 3
   ]
   edge
   [
-    source 29
-    target 15
-    rank 5
-  ]
-  edge
-  [
-    source 29
-    target 53
-    rank 7
-  ]
-  edge
-  [
-    source 29
-    target 34
-    rank 14
-  ]
-  edge
-  [
-    source 29
-    target 9
-    rank 18
-  ]
-  edge
-  [
-    source 30
-    target 15
-    rank 2
-  ]
-  edge
-  [
-    source 30
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 31
-    target 38
-    rank 5
-  ]
-  edge
-  [
-    source 31
-    target 53
-    rank 6
-  ]
-  edge
-  [
-    source 31
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 31
-    target 17
-    rank 11
-  ]
-  edge
-  [
-    source 31
-    target 25
-    rank 14
-  ]
-  edge
-  [
-    source 32
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 32
-    target 15
-    rank 11
-  ]
-  edge
-  [
-    source 32
-    target 38
-    rank 18
-  ]
-  edge
-  [
-    source 33
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 33
-    target 1
-    rank 11
-  ]
-  edge
-  [
-    source 33
-    target 5
-    rank 12
-  ]
-  edge
-  [
-    source 33
+    source 23
     target 65
-    rank 15
+    rank 5
   ]
   edge
   [
-    source 34
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 34
-    target 25
-    rank 2
-  ]
-  edge
-  [
-    source 34
-    target 53
-    rank 3
-  ]
-  edge
-  [
-    source 34
-    target 29
-    rank 6
-  ]
-  edge
-  [
-    source 34
-    target 15
-    rank 7
-  ]
-  edge
-  [
-    source 34
+    source 23
     target 9
     rank 8
   ]
   edge
   [
-    source 35
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 35
-    target 49
-    rank 3
-  ]
-  edge
-  [
-    source 35
-    target 28
-    rank 11
-  ]
-  edge
-  [
-    source 35
-    target 56
-    rank 14
-  ]
-  edge
-  [
-    source 36
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 36
-    target 29
-    rank 4
-  ]
-  edge
-  [
-    source 36
-    target 17
-    rank 5
-  ]
-  edge
-  [
-    source 36
-    target 15
-    rank 6
-  ]
-  edge
-  [
-    source 37
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 37
-    target 9
-    rank 4
-  ]
-  edge
-  [
-    source 38
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 38
-    target 29
-    rank 5
-  ]
-  edge
-  [
-    source 38
-    target 53
-    rank 6
-  ]
-  edge
-  [
-    source 39
-    target 38
-    rank 6
-  ]
-  edge
-  [
-    source 39
-    target 70
-    rank 10
-  ]
-  edge
-  [
-    source 41
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 42
-    target 30
-    rank 9
-  ]
-  edge
-  [
-    source 43
-    target 18
-    rank 6
-  ]
-  edge
-  [
-    source 43
-    target 10
-    rank 15
-  ]
-  edge
-  [
-    source 44
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 45
-    target 53
-    rank 4
-  ]
-  edge
-  [
-    source 45
-    target 17
-    rank 11
-  ]
-  edge
-  [
-    source 45
-    target 38
-    rank 14
-  ]
-  edge
-  [
-    source 45
-    target 59
-    rank 15
-  ]
-  edge
-  [
-    source 45
-    target 15
-    rank 19
-  ]
-  edge
-  [
-    source 46
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 46
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 46
-    target 34
-    rank 4
-  ]
-  edge
-  [
-    source 46
-    target 9
-    rank 13
-  ]
-  edge
-  [
-    source 47
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 47
-    target 89
-    rank 10
-  ]
-  edge
-  [
-    source 48
-    target 5
-    rank 19
-  ]
-  edge
-  [
-    source 49
-    target 35
-    rank 1
-  ]
-  edge
-  [
-    source 49
-    target 29
-    rank 2
-  ]
-  edge
-  [
-    source 49
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 50
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 50
-    target 53
-    rank 4
-  ]
-  edge
-  [
-    source 52
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 52
-    target 25
-    rank 3
-  ]
-  edge
-  [
-    source 52
-    target 71
-    rank 7
-  ]
-  edge
-  [
-    source 52
-    target 38
-    rank 10
-  ]
-  edge
-  [
-    source 52
-    target 36
-    rank 20
-  ]
-  edge
-  [
-    source 54
-    target 56
-    rank 8
-  ]
-  edge
-  [
-    source 55
-    target 63
-    rank 1
-  ]
-  edge
-  [
-    source 55
-    target 53
-    rank 5
-  ]
-  edge
-  [
-    source 55
-    target 66
-    rank 16
-  ]
-  edge
-  [
-    source 57
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 57
-    target 67
-    rank 8
-  ]
-  edge
-  [
-    source 58
-    target 53
-    rank 10
-  ]
-  edge
-  [
-    source 58
-    target 59
-    rank 15
-  ]
-  edge
-  [
-    source 60
+    source 23
     target 1
-    rank 4
+    rank 10
   ]
   edge
   [
-    source 60
-    target 47
-    rank 9
+    source 23
+    target 111
+    rank 19
   ]
   edge
   [
-    source 60
-    target 33
-    rank 18
-  ]
-  edge
-  [
-    source 61
-    target 89
-    rank 7
-  ]
-  edge
-  [
-    source 61
-    target 47
-    rank 20
-  ]
-  edge
-  [
-    source 63
+    source 24
     target 17
     rank 1
   ]
   edge
   [
-    source 63
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 63
-    target 25
+    source 25
+    target 36
     rank 5
   ]
   edge
   [
-    source 63
-    target 38
+    source 25
+    target 6
     rank 10
   ]
   edge
   [
-    source 63
-    target 70
-    rank 17
-  ]
-  edge
-  [
-    source 63
-    target 36
-    rank 19
-  ]
-  edge
-  [
-    source 64
-    target 13
-    rank 6
-  ]
-  edge
-  [
-    source 64
-    target 124
-    rank 9
-  ]
-  edge
-  [
-    source 65
-    target 59
-    rank 9
-  ]
-  edge
-  [
-    source 65
-    target 5
+    source 25
+    target 17
     rank 11
   ]
   edge
   [
-    source 65
-    target 20
-    rank 12
+    source 26
+    target 59
+    rank 5
   ]
   edge
   [
-    source 65
+    source 26
+    target 35
+    rank 11
+  ]
+  edge
+  [
+    source 26
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 27
+    target 0
+    rank 6
+  ]
+  edge
+  [
+    source 27
+    target 44
+    rank 7
+  ]
+  edge
+  [
+    source 27
     target 62
     rank 13
   ]
   edge
   [
-    source 65
-    target 146
+    source 29
+    target 36
+    rank 1
+  ]
+  edge
+  [
+    source 29
+    target 15
+    rank 7
+  ]
+  edge
+  [
+    source 29
+    target 0
+    rank 10
+  ]
+  edge
+  [
+    source 29
+    target 17
+    rank 13
+  ]
+  edge
+  [
+    source 29
+    target 1
     rank 18
   ]
   edge
   [
-    source 68
-    target 25
+    source 29
+    target 27
+    rank 20
+  ]
+  edge
+  [
+    source 30
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 30
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 30
+    target 15
+    rank 5
+  ]
+  edge
+  [
+    source 30
+    target 59
+    rank 7
+  ]
+  edge
+  [
+    source 30
+    target 35
+    rank 14
+  ]
+  edge
+  [
+    source 30
+    target 9
+    rank 18
+  ]
+  edge
+  [
+    source 31
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 31
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 32
+    target 39
+    rank 5
+  ]
+  edge
+  [
+    source 32
+    target 59
+    rank 6
+  ]
+  edge
+  [
+    source 32
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 32
+    target 17
+    rank 11
+  ]
+  edge
+  [
+    source 32
+    target 26
+    rank 14
+  ]
+  edge
+  [
+    source 33
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 33
+    target 15
+    rank 11
+  ]
+  edge
+  [
+    source 33
+    target 39
+    rank 18
+  ]
+  edge
+  [
+    source 34
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 34
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 34
+    target 5
+    rank 12
+  ]
+  edge
+  [
+    source 34
+    target 73
+    rank 15
+  ]
+  edge
+  [
+    source 35
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 35
+    target 26
+    rank 2
+  ]
+  edge
+  [
+    source 35
+    target 59
+    rank 3
+  ]
+  edge
+  [
+    source 35
+    target 30
+    rank 6
+  ]
+  edge
+  [
+    source 35
+    target 15
+    rank 7
+  ]
+  edge
+  [
+    source 35
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 36
+    target 56
+    rank 1
+  ]
+  edge
+  [
+    source 36
+    target 52
+    rank 3
+  ]
+  edge
+  [
+    source 36
+    target 29
+    rank 11
+  ]
+  edge
+  [
+    source 36
+    target 62
+    rank 14
+  ]
+  edge
+  [
+    source 37
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 37
+    target 30
+    rank 4
+  ]
+  edge
+  [
+    source 37
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 37
+    target 15
+    rank 6
+  ]
+  edge
+  [
+    source 38
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 38
+    target 9
+    rank 4
+  ]
+  edge
+  [
+    source 39
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 39
+    target 30
+    rank 5
+  ]
+  edge
+  [
+    source 39
+    target 59
+    rank 6
+  ]
+  edge
+  [
+    source 40
+    target 39
+    rank 6
+  ]
+  edge
+  [
+    source 40
+    target 78
+    rank 10
+  ]
+  edge
+  [
+    source 42
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 43
+    target 31
+    rank 9
+  ]
+  edge
+  [
+    source 44
+    target 18
+    rank 6
+  ]
+  edge
+  [
+    source 44
+    target 10
+    rank 15
+  ]
+  edge
+  [
+    source 45
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 46
+    target 59
+    rank 4
+  ]
+  edge
+  [
+    source 46
+    target 17
+    rank 11
+  ]
+  edge
+  [
+    source 46
+    target 39
+    rank 14
+  ]
+  edge
+  [
+    source 46
+    target 65
+    rank 15
+  ]
+  edge
+  [
+    source 46
+    target 15
+    rank 19
+  ]
+  edge
+  [
+    source 48
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 48
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 48
+    target 35
+    rank 4
+  ]
+  edge
+  [
+    source 48
+    target 9
+    rank 13
+  ]
+  edge
+  [
+    source 49
+    target 34
+    rank 4
+  ]
+  edge
+  [
+    source 49
+    target 107
+    rank 10
+  ]
+  edge
+  [
+    source 50
+    target 5
+    rank 19
+  ]
+  edge
+  [
+    source 52
+    target 36
+    rank 1
+  ]
+  edge
+  [
+    source 52
+    target 30
+    rank 2
+  ]
+  edge
+  [
+    source 52
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 54
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 54
+    target 59
+    rank 4
+  ]
+  edge
+  [
+    source 57
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 57
+    target 26
+    rank 3
+  ]
+  edge
+  [
+    source 57
+    target 79
+    rank 7
+  ]
+  edge
+  [
+    source 57
+    target 39
+    rank 10
+  ]
+  edge
+  [
+    source 57
+    target 37
+    rank 20
+  ]
+  edge
+  [
+    source 60
+    target 62
+    rank 8
+  ]
+  edge
+  [
+    source 61
+    target 69
+    rank 1
+  ]
+  edge
+  [
+    source 61
+    target 59
+    rank 5
+  ]
+  edge
+  [
+    source 61
+    target 74
+    rank 16
+  ]
+  edge
+  [
+    source 63
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 63
+    target 75
+    rank 8
+  ]
+  edge
+  [
+    source 64
+    target 59
+    rank 10
+  ]
+  edge
+  [
+    source 64
+    target 65
+    rank 15
+  ]
+  edge
+  [
+    source 66
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 66
+    target 49
+    rank 9
+  ]
+  edge
+  [
+    source 66
+    target 34
+    rank 18
+  ]
+  edge
+  [
+    source 67
+    target 107
+    rank 7
+  ]
+  edge
+  [
+    source 67
+    target 49
+    rank 20
+  ]
+  edge
+  [
+    source 69
+    target 17
     rank 1
   ]
   edge
   [
     source 69
-    target 56
-    rank 10
+    target 15
+    rank 3
   ]
   edge
   [
-    source 70
-    target 53
-    rank 7
-  ]
-  edge
-  [
-    source 71
-    target 38
+    source 69
+    target 26
     rank 5
   ]
   edge
   [
-    source 71
-    target 53
-    rank 8
+    source 69
+    target 39
+    rank 10
   ]
   edge
   [
-    source 71
-    target 70
+    source 69
+    target 78
+    rank 17
+  ]
+  edge
+  [
+    source 69
+    target 37
+    rank 19
+  ]
+  edge
+  [
+    source 72
+    target 13
+    rank 6
+  ]
+  edge
+  [
+    source 72
+    target 158
+    rank 9
+  ]
+  edge
+  [
+    source 73
+    target 65
+    rank 9
+  ]
+  edge
+  [
+    source 73
+    target 5
     rank 11
   ]
   edge
   [
     source 73
-    target 70
-    rank 6
+    target 20
+    rank 12
   ]
   edge
   [
     source 73
-    target 195
-    rank 10
+    target 68
+    rank 13
   ]
   edge
   [
-    source 74
-    target 38
-    rank 4
+    source 73
+    target 183
+    rank 18
   ]
   edge
   [
     source 76
-    target 40
-    rank 2
+    target 26
+    rank 1
   ]
   edge
   [
     source 77
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 77
-    target 70
-    rank 9
+    target 62
+    rank 10
   ]
   edge
   [
     source 78
     target 59
-    rank 2
-  ]
-  edge
-  [
-    source 79
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 79
-    target 45
-    rank 5
-  ]
-  edge
-  [
-    source 79
-    target 38
-    rank 6
-  ]
-  edge
-  [
-    source 79
-    target 1
     rank 7
   ]
   edge
   [
     source 79
-    target 22
-    rank 17
+    target 39
+    rank 5
   ]
   edge
   [
     source 79
+    target 59
+    rank 8
+  ]
+  edge
+  [
+    source 79
+    target 78
+    rank 11
+  ]
+  edge
+  [
+    source 81
+    target 78
+    rank 6
+  ]
+  edge
+  [
+    source 81
+    target 255
+    rank 10
+  ]
+  edge
+  [
+    source 83
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 86
+    target 41
+    rank 2
+  ]
+  edge
+  [
+    source 87
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 87
+    target 78
+    rank 9
+  ]
+  edge
+  [
+    source 92
+    target 65
+    rank 2
+  ]
+  edge
+  [
+    source 94
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 94
+    target 46
+    rank 5
+  ]
+  edge
+  [
+    source 94
+    target 39
+    rank 6
+  ]
+  edge
+  [
+    source 94
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 94
+    target 23
+    rank 17
+  ]
+  edge
+  [
+    source 94
     target 9
     rank 20
   ]
   edge
   [
-    source 80
+    source 95
     target 0
     rank 2
   ]
   edge
   [
-    source 80
+    source 95
     target 20
-    rank 8
-  ]
-  edge
-  [
-    source 80
-    target 59
-    rank 10
-  ]
-  edge
-  [
-    source 80
-    target 65
-    rank 14
-  ]
-  edge
-  [
-    source 81
-    target 45
-    rank 1
-  ]
-  edge
-  [
-    source 81
-    target 25
-    rank 6
-  ]
-  edge
-  [
-    source 81
-    target 59
-    rank 8
-  ]
-  edge
-  [
-    source 81
-    target 15
-    rank 9
-  ]
-  edge
-  [
-    source 81
-    target 1
-    rank 11
-  ]
-  edge
-  [
-    source 81
-    target 60
-    rank 18
-  ]
-  edge
-  [
-    source 81
-    target 47
-    rank 19
-  ]
-  edge
-  [
-    source 81
-    target 33
-    rank 20
-  ]
-  edge
-  [
-    source 82
-    target 165
-    rank 13
-  ]
-  edge
-  [
-    source 83
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 83
-    target 165
-    rank 5
-  ]
-  edge
-  [
-    source 83
-    target 46
-    rank 6
-  ]
-  edge
-  [
-    source 83
-    target 65
-    rank 16
-  ]
-  edge
-  [
-    source 84
-    target 56
-    rank 1
-  ]
-  edge
-  [
-    source 84
-    target 26
-    rank 2
-  ]
-  edge
-  [
-    source 84
-    target 242
-    rank 6
-  ]
-  edge
-  [
-    source 85
-    target 17
-    rank 6
-  ]
-  edge
-  [
-    source 85
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 85
-    target 38
-    rank 9
-  ]
-  edge
-  [
-    source 85
-    target 59
-    rank 13
-  ]
-  edge
-  [
-    source 85
-    target 1
-    rank 14
-  ]
-  edge
-  [
-    source 87
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 87
-    target 46
-    rank 15
-  ]
-  edge
-  [
-    source 88
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 88
-    target 89
-    rank 11
-  ]
-  edge
-  [
-    source 90
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 90
-    target 1
-    rank 4
-  ]
-  edge
-  [
-    source 90
-    target 53
-    rank 7
-  ]
-  edge
-  [
-    source 90
-    target 22
-    rank 8
-  ]
-  edge
-  [
-    source 90
-    target 70
-    rank 9
-  ]
-  edge
-  [
-    source 90
-    target 15
-    rank 17
-  ]
-  edge
-  [
-    source 91
-    target 17
-    rank 5
-  ]
-  edge
-  [
-    source 91
-    target 38
-    rank 9
-  ]
-  edge
-  [
-    source 92
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 92
-    target 59
-    rank 12
-  ]
-  edge
-  [
-    source 94
-    target 59
     rank 8
   ]
   edge
   [
     source 95
-    target 16
-    rank 18
+    target 65
+    rank 10
+  ]
+  edge
+  [
+    source 95
+    target 73
+    rank 14
   ]
   edge
   [
     source 96
-    target 165
-    rank 5
+    target 46
+    rank 1
   ]
   edge
   [
     source 96
-    target 195
-    rank 7
+    target 26
+    rank 6
   ]
   edge
   [
     source 96
-    target 13
+    target 65
+    rank 8
+  ]
+  edge
+  [
+    source 96
+    target 15
     rank 9
   ]
   edge
   [
     source 96
-    target 5
-    rank 10
+    target 1
+    rank 11
   ]
   edge
   [
     source 96
-    target 93
-    rank 16
+    target 66
+    rank 18
   ]
   edge
   [
-    source 97
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 97
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 97
-    target 47
-    rank 6
-  ]
-  edge
-  [
-    source 97
-    target 9
-    rank 16
-  ]
-  edge
-  [
-    source 97
-    target 65
-    rank 17
-  ]
-  edge
-  [
-    source 98
-    target 38
-    rank 4
-  ]
-  edge
-  [
-    source 98
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 98
-    target 34
+    source 96
+    target 49
     rank 19
   ]
   edge
   [
-    source 99
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 99
-    target 70
-    rank 5
-  ]
-  edge
-  [
-    source 99
-    target 22
-    rank 13
-  ]
-  edge
-  [
-    source 99
-    target 5
+    source 96
+    target 34
     rank 20
   ]
   edge
   [
-    source 100
-    target 48
-    rank 15
+    source 97
+    target 211
+    rank 13
   ]
   edge
   [
-    source 100
-    target 27
-    rank 17
-  ]
-  edge
-  [
-    source 100
-    target 13
-    rank 19
-  ]
-  edge
-  [
-    source 101
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 101
-    target 70
-    rank 14
-  ]
-  edge
-  [
-    source 102
-    target 53
-    rank 3
-  ]
-  edge
-  [
-    source 102
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 102
-    target 60
-    rank 7
-  ]
-  edge
-  [
-    source 102
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 102
-    target 70
-    rank 14
-  ]
-  edge
-  [
-    source 102
-    target 106
-    rank 19
-  ]
-  edge
-  [
-    source 103
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 104
+    source 98
     target 17
     rank 1
   ]
   edge
   [
-    source 104
-    target 38
+    source 98
+    target 211
+    rank 5
+  ]
+  edge
+  [
+    source 98
+    target 48
+    rank 6
+  ]
+  edge
+  [
+    source 98
+    target 73
+    rank 16
+  ]
+  edge
+  [
+    source 101
+    target 62
+    rank 1
+  ]
+  edge
+  [
+    source 101
+    target 27
     rank 2
   ]
   edge
   [
-    source 104
-    target 70
-    rank 12
+    source 101
+    target 335
+    rank 6
   ]
   edge
   [
-    source 104
-    target 195
+    source 102
+    target 17
+    rank 6
+  ]
+  edge
+  [
+    source 102
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 102
+    target 39
+    rank 9
+  ]
+  edge
+  [
+    source 102
+    target 65
+    rank 13
+  ]
+  edge
+  [
+    source 102
+    target 1
     rank 14
   ]
   edge
   [
     source 104
-    target 9
-    rank 20
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 104
+    target 48
+    rank 15
   ]
   edge
   [
     source 105
-    target 89
-    rank 12
-  ]
-  edge
-  [
-    source 106
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 106
-    target 1
+    target 17
     rank 3
   ]
   edge
   [
-    source 106
-    target 73
+    source 105
+    target 107
     rank 11
   ]
   edge
   [
-    source 106
-    target 14
-    rank 18
-  ]
-  edge
-  [
-    source 107
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 107
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 107
-    target 34
-    rank 12
-  ]
-  edge
-  [
     source 108
-    target 38
+    target 17
     rank 1
   ]
   edge
   [
     source 108
-    target 22
-    rank 6
+    target 1
+    rank 4
   ]
   edge
   [
     source 108
-    target 1
+    target 59
+    rank 7
+  ]
+  edge
+  [
+    source 108
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 108
+    target 78
     rank 9
   ]
   edge
   [
     source 108
     target 15
-    rank 12
-  ]
-  edge
-  [
-    source 108
-    target 60
-    rank 19
+    rank 17
   ]
   edge
   [
     source 109
-    target 59
-    rank 2
-  ]
-  edge
-  [
-    source 109
-    target 89
+    target 17
     rank 5
   ]
   edge
   [
     source 109
-    target 16
-    rank 19
+    target 39
+    rank 9
   ]
   edge
   [
     source 110
-    target 38
-    rank 7
+    target 56
+    rank 1
   ]
   edge
   [
     source 110
-    target 15
-    rank 18
+    target 65
+    rank 12
   ]
   edge
   [
     source 112
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 112
-    target 0
-    rank 10
-  ]
-  edge
-  [
-    source 112
-    target 59
-    rank 16
-  ]
-  edge
-  [
-    source 113
-    target 25
-    rank 2
-  ]
-  edge
-  [
-    source 113
-    target 38
-    rank 6
-  ]
-  edge
-  [
-    source 113
-    target 45
+    target 65
     rank 8
   ]
   edge
   [
     source 113
-    target 59
-    rank 10
-  ]
-  edge
-  [
-    source 113
-    target 20
-    rank 11
+    target 16
+    rank 18
   ]
   edge
   [
     source 114
-    target 36
+    target 211
+    rank 5
+  ]
+  edge
+  [
+    source 114
+    target 255
+    rank 7
+  ]
+  edge
+  [
+    source 114
+    target 13
+    rank 9
+  ]
+  edge
+  [
+    source 114
+    target 5
     rank 10
   ]
   edge
   [
     source 114
-    target 34
-    rank 13
-  ]
-  edge
-  [
-    source 115
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 115
-    target 195
-    rank 7
-  ]
-  edge
-  [
-    source 115
-    target 34
-    rank 10
-  ]
-  edge
-  [
-    source 115
-    target 61
-    rank 13
-  ]
-  edge
-  [
-    source 116
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 117
-    target 17
-    rank 7
-  ]
-  edge
-  [
-    source 118
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 119
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 119
-    target 30
-    rank 20
-  ]
-  edge
-  [
-    source 120
-    target 128
-    rank 3
-  ]
-  edge
-  [
-    source 120
-    target 13
-    rank 6
-  ]
-  edge
-  [
-    source 121
-    target 195
-    rank 9
-  ]
-  edge
-  [
-    source 121
-    target 210
-    rank 10
-  ]
-  edge
-  [
-    source 121
-    target 207
-    rank 12
-  ]
-  edge
-  [
-    source 121
-    target 46
-    rank 15
-  ]
-  edge
-  [
-    source 121
-    target 29
-    rank 16
-  ]
-  edge
-  [
-    source 121
-    target 9
-    rank 18
-  ]
-  edge
-  [
-    source 122
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 123
-    target 60
-    rank 18
-  ]
-  edge
-  [
-    source 124
-    target 38
-    rank 4
-  ]
-  edge
-  [
-    source 124
-    target 70
-    rank 7
-  ]
-  edge
-  [
-    source 124
-    target 9
-    rank 10
-  ]
-  edge
-  [
-    source 124
-    target 13
-    rank 12
-  ]
-  edge
-  [
-    source 125
-    target 22
-    rank 10
-  ]
-  edge
-  [
-    source 125
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 125
-    target 65
-    rank 15
-  ]
-  edge
-  [
-    source 126
-    target 47
-    rank 7
-  ]
-  edge
-  [
-    source 126
-    target 33
-    rank 11
-  ]
-  edge
-  [
-    source 126
-    target 20
-    rank 13
-  ]
-  edge
-  [
-    source 126
-    target 65
-    rank 14
-  ]
-  edge
-  [
-    source 127
-    target 89
-    rank 5
-  ]
-  edge
-  [
-    source 128
-    target 36
-    rank 19
-  ]
-  edge
-  [
-    source 129
-    target 45
-    rank 5
-  ]
-  edge
-  [
-    source 129
-    target 38
-    rank 7
-  ]
-  edge
-  [
-    source 129
-    target 1
-    rank 11
-  ]
-  edge
-  [
-    source 130
-    target 5
-    rank 17
-  ]
-  edge
-  [
-    source 131
-    target 5
-    rank 15
-  ]
-  edge
-  [
-    source 131
-    target 13
-    rank 16
-  ]
-  edge
-  [
-    source 131
-    target 65
-    rank 20
-  ]
-  edge
-  [
-    source 132
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 132
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 132
-    target 1
-    rank 7
-  ]
-  edge
-  [
-    source 132
-    target 15
-    rank 14
-  ]
-  edge
-  [
-    source 133
-    target 89
-    rank 15
-  ]
-  edge
-  [
-    source 134
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 134
-    target 59
-    rank 2
-  ]
-  edge
-  [
-    source 134
-    target 158
-    rank 9
-  ]
-  edge
-  [
-    source 134
-    target 233
-    rank 10
-  ]
-  edge
-  [
-    source 134
-    target 29
-    rank 13
-  ]
-  edge
-  [
-    source 134
-    target 16
-    rank 15
-  ]
-  edge
-  [
-    source 134
-    target 47
-    rank 18
-  ]
-  edge
-  [
-    source 134
-    target 19
-    rank 19
-  ]
-  edge
-  [
-    source 135
-    target 65
-    rank 7
-  ]
-  edge
-  [
-    source 135
-    target 156
-    rank 11
-  ]
-  edge
-  [
-    source 136
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 136
-    target 38
-    rank 4
-  ]
-  edge
-  [
-    source 136
-    target 70
-    rank 10
-  ]
-  edge
-  [
-    source 137
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 137
-    target 59
-    rank 9
-  ]
-  edge
-  [
-    source 137
-    target 139
-    rank 15
-  ]
-  edge
-  [
-    source 137
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 138
-    target 233
-    rank 5
-  ]
-  edge
-  [
-    source 140
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 140
-    target 53
-    rank 3
-  ]
-  edge
-  [
-    source 140
-    target 38
-    rank 4
-  ]
-  edge
-  [
-    source 140
-    target 16
-    rank 10
-  ]
-  edge
-  [
-    source 141
-    target 36
-    rank 2
-  ]
-  edge
-  [
-    source 141
-    target 29
-    rank 8
-  ]
-  edge
-  [
-    source 142
-    target 17
-    rank 9
-  ]
-  edge
-  [
-    source 143
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 143
-    target 38
-    rank 4
-  ]
-  edge
-  [
-    source 143
-    target 180
-    rank 19
-  ]
-  edge
-  [
-    source 143
-    target 48
-    rank 20
-  ]
-  edge
-  [
-    source 144
-    target 70
-    rank 4
-  ]
-  edge
-  [
-    source 145
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 146
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 146
-    target 60
-    rank 4
-  ]
-  edge
-  [
-    source 146
-    target 47
-    rank 5
-  ]
-  edge
-  [
-    source 146
-    target 5
-    rank 14
-  ]
-  edge
-  [
-    source 146
-    target 20
-    rank 15
-  ]
-  edge
-  [
-    source 147
-    target 26
-    rank 2
-  ]
-  edge
-  [
-    source 147
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 147
-    target 43
-    rank 8
-  ]
-  edge
-  [
-    source 147
-    target 65
-    rank 20
-  ]
-  edge
-  [
-    source 148
-    target 60
-    rank 12
-  ]
-  edge
-  [
-    source 150
-    target 106
-    rank 15
-  ]
-  edge
-  [
-    source 150
-    target 149
-    rank 17
-  ]
-  edge
-  [
-    source 151
-    target 38
-    rank 4
-  ]
-  edge
-  [
-    source 152
-    target 1
-    rank 7
-  ]
-  edge
-  [
-    source 152
-    target 196
-    rank 19
-  ]
-  edge
-  [
-    source 153
-    target 16
-    rank 20
-  ]
-  edge
-  [
-    source 154
-    target 195
-    rank 14
-  ]
-  edge
-  [
-    source 155
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 155
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 155
-    target 36
-    rank 4
-  ]
-  edge
-  [
-    source 155
-    target 156
-    rank 8
-  ]
-  edge
-  [
-    source 155
-    target 241
-    rank 9
-  ]
-  edge
-  [
-    source 155
-    target 195
-    rank 11
-  ]
-  edge
-  [
-    source 155
-    target 13
-    rank 16
-  ]
-  edge
-  [
-    source 155
-    target 5
-    rank 18
-  ]
-  edge
-  [
-    source 155
-    target 65
-    rank 20
-  ]
-  edge
-  [
-    source 157
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 158
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 158
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 158
-    target 45
-    rank 4
-  ]
-  edge
-  [
-    source 158
-    target 87
-    rank 5
-  ]
-  edge
-  [
-    source 158
-    target 131
-    rank 6
-  ]
-  edge
-  [
-    source 158
-    target 141
-    rank 9
-  ]
-  edge
-  [
-    source 158
-    target 15
-    rank 16
-  ]
-  edge
-  [
-    source 158
-    target 46
-    rank 20
-  ]
-  edge
-  [
-    source 159
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 160
-    target 13
-    rank 10
-  ]
-  edge
-  [
-    source 160
-    target 48
-    rank 12
-  ]
-  edge
-  [
-    source 161
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 161
-    target 38
-    rank 5
-  ]
-  edge
-  [
-    source 161
-    target 60
-    rank 6
-  ]
-  edge
-  [
-    source 161
-    target 70
-    rank 8
-  ]
-  edge
-  [
-    source 161
-    target 36
-    rank 10
-  ]
-  edge
-  [
-    source 161
-    target 89
-    rank 13
-  ]
-  edge
-  [
-    source 161
-    target 231
-    rank 14
-  ]
-  edge
-  [
-    source 162
-    target 38
-    rank 8
-  ]
-  edge
-  [
-    source 162
-    target 75
-    rank 13
-  ]
-  edge
-  [
-    source 162
-    target 15
-    rank 18
-  ]
-  edge
-  [
-    source 163
-    target 217
-    rank 7
-  ]
-  edge
-  [
-    source 163
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 164
-    target 89
-    rank 5
-  ]
-  edge
-  [
-    source 164
-    target 5
-    rank 15
-  ]
-  edge
-  [
-    source 164
-    target 36
-    rank 19
-  ]
-  edge
-  [
-    source 165
-    target 89
-    rank 2
-  ]
-  edge
-  [
-    source 166
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 166
-    target 38
-    rank 5
-  ]
-  edge
-  [
-    source 167
-    target 1
-    rank 4
-  ]
-  edge
-  [
-    source 167
-    target 127
-    rank 12
-  ]
-  edge
-  [
-    source 167
-    target 165
-    rank 14
-  ]
-  edge
-  [
-    source 167
-    target 47
-    rank 17
-  ]
-  edge
-  [
-    source 167
-    target 14
-    rank 19
-  ]
-  edge
-  [
-    source 167
-    target 9
-    rank 20
-  ]
-  edge
-  [
-    source 168
-    target 65
-    rank 9
-  ]
-  edge
-  [
-    source 169
-    target 33
-    rank 18
-  ]
-  edge
-  [
-    source 170
-    target 20
-    rank 6
-  ]
-  edge
-  [
-    source 170
-    target 22
-    rank 15
-  ]
-  edge
-  [
-    source 171
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 171
-    target 1
-    rank 4
-  ]
-  edge
-  [
-    source 172
-    target 65
-    rank 15
-  ]
-  edge
-  [
-    source 173
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 173
-    target 165
-    rank 7
-  ]
-  edge
-  [
-    source 173
-    target 15
-    rank 11
-  ]
-  edge
-  [
-    source 173
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 173
-    target 22
-    rank 13
-  ]
-  edge
-  [
-    source 173
-    target 18
-    rank 14
-  ]
-  edge
-  [
-    source 173
-    target 5
-    rank 18
-  ]
-  edge
-  [
-    source 174
-    target 5
-    rank 7
-  ]
-  edge
-  [
-    source 175
-    target 22
-    rank 1
-  ]
-  edge
-  [
-    source 175
-    target 1
-    rank 5
-  ]
-  edge
-  [
-    source 175
-    target 36
-    rank 9
-  ]
-  edge
-  [
-    source 175
-    target 89
-    rank 12
-  ]
-  edge
-  [
-    source 175
-    target 5
-    rank 14
-  ]
-  edge
-  [
-    source 175
     target 111
     rank 16
   ]
   edge
   [
-    source 175
-    target 65
-    rank 17
-  ]
-  edge
-  [
-    source 176
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 176
-    target 70
-    rank 12
-  ]
-  edge
-  [
-    source 177
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 177
-    target 146
-    rank 8
-  ]
-  edge
-  [
-    source 177
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 179
-    target 45
+    source 116
+    target 17
     rank 2
   ]
   edge
   [
-    source 179
-    target 17
-    rank 5
+    source 116
+    target 23
+    rank 4
   ]
   edge
   [
-    source 179
-    target 38
+    source 116
+    target 49
     rank 6
   ]
   edge
   [
-    source 179
+    source 116
+    target 9
+    rank 16
+  ]
+  edge
+  [
+    source 116
+    target 73
+    rank 17
+  ]
+  edge
+  [
+    source 117
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 117
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 117
+    target 35
+    rank 19
+  ]
+  edge
+  [
+    source 118
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 118
+    target 78
+    rank 5
+  ]
+  edge
+  [
+    source 118
+    target 23
+    rank 13
+  ]
+  edge
+  [
+    source 118
+    target 5
+    rank 20
+  ]
+  edge
+  [
+    source 120
+    target 50
+    rank 15
+  ]
+  edge
+  [
+    source 120
+    target 28
+    rank 17
+  ]
+  edge
+  [
+    source 120
+    target 13
+    rank 19
+  ]
+  edge
+  [
+    source 121
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 121
+    target 78
+    rank 14
+  ]
+  edge
+  [
+    source 122
     target 59
+    rank 3
+  ]
+  edge
+  [
+    source 122
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 122
+    target 66
+    rank 7
+  ]
+  edge
+  [
+    source 122
+    target 9
     rank 8
   ]
   edge
   [
-    source 179
+    source 122
+    target 78
+    rank 14
+  ]
+  edge
+  [
+    source 122
+    target 130
+    rank 19
+  ]
+  edge
+  [
+    source 124
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 126
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 126
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 126
+    target 78
+    rank 12
+  ]
+  edge
+  [
+    source 126
+    target 255
+    rank 14
+  ]
+  edge
+  [
+    source 126
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 127
+    target 107
+    rank 12
+  ]
+  edge
+  [
+    source 130
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 130
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 130
+    target 81
+    rank 11
+  ]
+  edge
+  [
+    source 130
+    target 14
+    rank 18
+  ]
+  edge
+  [
+    source 134
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 134
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 134
+    target 35
+    rank 12
+  ]
+  edge
+  [
+    source 135
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 135
+    target 23
+    rank 6
+  ]
+  edge
+  [
+    source 135
     target 1
     rank 9
   ]
   edge
   [
-    source 179
-    target 70
-    rank 10
-  ]
-  edge
-  [
-    source 179
-    target 141
+    source 135
+    target 15
     rank 12
   ]
   edge
   [
-    source 179
-    target 221
-    rank 15
+    source 135
+    target 66
+    rank 19
   ]
   edge
   [
-    source 179
-    target 46
-    rank 16
+    source 136
+    target 65
+    rank 2
   ]
   edge
   [
-    source 179
-    target 47
-    rank 20
+    source 136
+    target 107
+    rank 5
   ]
   edge
   [
-    source 180
-    target 38
-    rank 1
+    source 136
+    target 16
+    rank 19
   ]
   edge
   [
-    source 180
-    target 47
+    source 137
+    target 39
+    rank 7
+  ]
+  edge
+  [
+    source 137
+    target 15
+    rank 18
+  ]
+  edge
+  [
+    source 139
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 139
+    target 0
     rank 10
   ]
   edge
   [
-    source 180
-    target 20
+    source 139
+    target 65
     rank 16
   ]
   edge
   [
-    source 180
-    target 5
+    source 141
+    target 26
+    rank 2
+  ]
+  edge
+  [
+    source 141
+    target 39
+    rank 6
+  ]
+  edge
+  [
+    source 141
+    target 46
+    rank 8
+  ]
+  edge
+  [
+    source 141
+    target 65
+    rank 10
+  ]
+  edge
+  [
+    source 141
+    target 20
+    rank 11
+  ]
+  edge
+  [
+    source 144
+    target 37
+    rank 10
+  ]
+  edge
+  [
+    source 144
+    target 35
+    rank 13
+  ]
+  edge
+  [
+    source 146
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 146
+    target 255
+    rank 7
+  ]
+  edge
+  [
+    source 146
+    target 35
+    rank 10
+  ]
+  edge
+  [
+    source 146
+    target 67
+    rank 13
+  ]
+  edge
+  [
+    source 147
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 148
+    target 17
+    rank 7
+  ]
+  edge
+  [
+    source 149
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 150
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 150
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 151
+    target 163
+    rank 3
+  ]
+  edge
+  [
+    source 151
+    target 13
+    rank 6
+  ]
+  edge
+  [
+    source 152
+    target 255
+    rank 9
+  ]
+  edge
+  [
+    source 152
+    target 278
+    rank 10
+  ]
+  edge
+  [
+    source 152
+    target 272
+    rank 12
+  ]
+  edge
+  [
+    source 152
+    target 48
+    rank 15
+  ]
+  edge
+  [
+    source 152
+    target 30
+    rank 16
+  ]
+  edge
+  [
+    source 152
+    target 9
     rank 18
+  ]
+  edge
+  [
+    source 155
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 156
+    target 66
+    rank 18
+  ]
+  edge
+  [
+    source 158
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 158
+    target 78
+    rank 7
+  ]
+  edge
+  [
+    source 158
+    target 9
+    rank 10
+  ]
+  edge
+  [
+    source 158
+    target 13
+    rank 12
+  ]
+  edge
+  [
+    source 159
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 159
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 159
+    target 73
+    rank 15
+  ]
+  edge
+  [
+    source 160
+    target 49
+    rank 7
+  ]
+  edge
+  [
+    source 160
+    target 34
+    rank 11
+  ]
+  edge
+  [
+    source 160
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 160
+    target 73
+    rank 14
+  ]
+  edge
+  [
+    source 162
+    target 107
+    rank 5
+  ]
+  edge
+  [
+    source 163
+    target 37
+    rank 19
+  ]
+  edge
+  [
+    source 164
+    target 46
+    rank 5
+  ]
+  edge
+  [
+    source 164
+    target 39
+    rank 7
+  ]
+  edge
+  [
+    source 164
+    target 1
+    rank 11
+  ]
+  edge
+  [
+    source 165
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 166
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 166
+    target 13
+    rank 16
+  ]
+  edge
+  [
+    source 166
+    target 73
+    rank 20
+  ]
+  edge
+  [
+    source 167
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 167
+    target 23
+    rank 5
+  ]
+  edge
+  [
+    source 167
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 167
+    target 15
+    rank 14
+  ]
+  edge
+  [
+    source 168
+    target 107
+    rank 15
+  ]
+  edge
+  [
+    source 170
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 170
+    target 65
+    rank 2
+  ]
+  edge
+  [
+    source 170
+    target 201
+    rank 9
+  ]
+  edge
+  [
+    source 170
+    target 317
+    rank 10
+  ]
+  edge
+  [
+    source 170
+    target 30
+    rank 13
+  ]
+  edge
+  [
+    source 170
+    target 16
+    rank 15
+  ]
+  edge
+  [
+    source 170
+    target 49
+    rank 18
+  ]
+  edge
+  [
+    source 170
+    target 19
+    rank 19
+  ]
+  edge
+  [
+    source 171
+    target 73
+    rank 7
+  ]
+  edge
+  [
+    source 171
+    target 199
+    rank 11
+  ]
+  edge
+  [
+    source 172
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 172
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 172
+    target 78
+    rank 10
+  ]
+  edge
+  [
+    source 174
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 174
+    target 65
+    rank 9
+  ]
+  edge
+  [
+    source 174
+    target 176
+    rank 15
+  ]
+  edge
+  [
+    source 174
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 175
+    target 317
+    rank 5
+  ]
+  edge
+  [
+    source 177
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 177
+    target 59
+    rank 3
+  ]
+  edge
+  [
+    source 177
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 177
+    target 16
+    rank 10
+  ]
+  edge
+  [
+    source 178
+    target 37
+    rank 2
+  ]
+  edge
+  [
+    source 178
+    target 30
+    rank 8
+  ]
+  edge
+  [
+    source 179
+    target 17
+    rank 9
+  ]
+  edge
+  [
+    source 180
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 180
+    target 39
+    rank 4
+  ]
+  edge
+  [
+    source 180
+    target 233
+    rank 19
+  ]
+  edge
+  [
+    source 180
+    target 50
+    rank 20
   ]
   edge
   [
     source 181
-    target 22
-    rank 19
+    target 78
+    rank 4
   ]
   edge
   [
     source 182
-    target 65
-    rank 10
-  ]
-  edge
-  [
-    source 182
-    target 89
-    rank 12
-  ]
-  edge
-  [
-    source 182
-    target 121
-    rank 16
+    target 39
+    rank 3
   ]
   edge
   [
     source 183
-    target 17
+    target 39
     rank 1
   ]
   edge
   [
     source 183
-    target 13
-    rank 7
+    target 66
+    rank 4
   ]
   edge
   [
     source 183
-    target 70
-    rank 11
-  ]
-  edge
-  [
-    source 183
-    target 65
-    rank 12
-  ]
-  edge
-  [
-    source 184
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 184
-    target 47
-    rank 3
-  ]
-  edge
-  [
-    source 184
-    target 65
+    target 49
     rank 5
   ]
   edge
   [
-    source 184
-    target 33
-    rank 11
+    source 183
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 183
+    target 20
+    rank 15
   ]
   edge
   [
     source 185
-    target 17
+    target 27
+    rank 2
+  ]
+  edge
+  [
+    source 185
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 185
+    target 44
     rank 8
   ]
   edge
   [
     source 185
-    target 22
-    rank 10
+    target 73
+    rank 20
   ]
   edge
   [
     source 186
-    target 65
-    rank 15
-  ]
-  edge
-  [
-    source 187
-    target 13
-    rank 10
-  ]
-  edge
-  [
-    source 188
-    target 70
-    rank 10
-  ]
-  edge
-  [
-    source 188
-    target 89
-    rank 12
-  ]
-  edge
-  [
-    source 188
-    target 17
-    rank 17
-  ]
-  edge
-  [
-    source 188
-    target 22
-    rank 18
-  ]
-  edge
-  [
-    source 189
-    target 210
-    rank 5
-  ]
-  edge
-  [
-    source 189
-    target 121
-    rank 9
-  ]
-  edge
-  [
-    source 190
-    target 146
-    rank 11
-  ]
-  edge
-  [
-    source 191
-    target 17
-    rank 6
-  ]
-  edge
-  [
-    source 192
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 192
-    target 89
-    rank 8
-  ]
-  edge
-  [
-    source 192
-    target 65
-    rank 9
-  ]
-  edge
-  [
-    source 192
-    target 122
-    rank 10
-  ]
-  edge
-  [
-    source 192
-    target 5
-    rank 19
-  ]
-  edge
-  [
-    source 193
-    target 98
-    rank 8
-  ]
-  edge
-  [
-    source 193
-    target 178
-    rank 10
-  ]
-  edge
-  [
-    source 194
-    target 79
-    rank 10
-  ]
-  edge
-  [
-    source 195
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 195
-    target 70
-    rank 5
-  ]
-  edge
-  [
-    source 196
-    target 47
-    rank 4
-  ]
-  edge
-  [
-    source 196
-    target 20
-    rank 9
-  ]
-  edge
-  [
-    source 197
-    target 45
-    rank 1
-  ]
-  edge
-  [
-    source 197
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 197
-    target 47
-    rank 18
-  ]
-  edge
-  [
-    source 197
-    target 33
-    rank 19
-  ]
-  edge
-  [
-    source 198
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 198
-    target 16
-    rank 20
-  ]
-  edge
-  [
-    source 199
-    target 53
-    rank 4
-  ]
-  edge
-  [
-    source 199
-    target 70
-    rank 10
-  ]
-  edge
-  [
-    source 200
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 200
-    target 127
-    rank 6
-  ]
-  edge
-  [
-    source 200
-    target 46
-    rank 9
-  ]
-  edge
-  [
-    source 200
-    target 9
-    rank 11
-  ]
-  edge
-  [
-    source 200
-    target 33
-    rank 13
-  ]
-  edge
-  [
-    source 200
-    target 47
-    rank 14
-  ]
-  edge
-  [
-    source 200
-    target 20
-    rank 19
-  ]
-  edge
-  [
-    source 200
-    target 13
-    rank 20
-  ]
-  edge
-  [
-    source 201
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 201
-    target 70
-    rank 3
-  ]
-  edge
-  [
-    source 201
-    target 230
-    rank 10
-  ]
-  edge
-  [
-    source 201
-    target 29
-    rank 14
-  ]
-  edge
-  [
-    source 201
-    target 46
-    rank 15
-  ]
-  edge
-  [
-    source 201
-    target 34
-    rank 16
-  ]
-  edge
-  [
-    source 202
-    target 45
-    rank 1
-  ]
-  edge
-  [
-    source 202
-    target 70
-    rank 15
-  ]
-  edge
-  [
-    source 203
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 203
-    target 17
-    rank 5
-  ]
-  edge
-  [
-    source 203
-    target 47
-    rank 13
-  ]
-  edge
-  [
-    source 203
-    target 33
-    rank 15
-  ]
-  edge
-  [
-    source 204
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 204
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 204
-    target 70
-    rank 3
-  ]
-  edge
-  [
-    source 204
-    target 121
-    rank 7
-  ]
-  edge
-  [
-    source 204
-    target 29
-    rank 9
-  ]
-  edge
-  [
-    source 205
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 205
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 205
-    target 70
-    rank 4
-  ]
-  edge
-  [
-    source 205
-    target 86
-    rank 5
-  ]
-  edge
-  [
-    source 205
-    target 146
-    rank 6
-  ]
-  edge
-  [
-    source 205
-    target 143
-    rank 7
-  ]
-  edge
-  [
-    source 205
-    target 106
-    rank 8
-  ]
-  edge
-  [
-    source 205
-    target 5
-    rank 20
-  ]
-  edge
-  [
-    source 206
-    target 89
-    rank 2
-  ]
-  edge
-  [
-    source 206
-    target 5
-    rank 6
-  ]
-  edge
-  [
-    source 206
-    target 20
-    rank 8
-  ]
-  edge
-  [
-    source 207
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 207
-    target 70
-    rank 5
-  ]
-  edge
-  [
-    source 207
-    target 121
-    rank 6
-  ]
-  edge
-  [
-    source 207
-    target 139
-    rank 7
-  ]
-  edge
-  [
-    source 207
-    target 34
-    rank 12
-  ]
-  edge
-  [
-    source 207
-    target 5
-    rank 15
-  ]
-  edge
-  [
-    source 207
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 207
-    target 20
-    rank 18
-  ]
-  edge
-  [
-    source 208
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 208
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 208
-    target 180
-    rank 10
-  ]
-  edge
-  [
-    source 208
-    target 61
-    rank 17
-  ]
-  edge
-  [
-    source 209
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 209
-    target 89
-    rank 13
-  ]
-  edge
-  [
-    source 209
-    target 46
-    rank 14
-  ]
-  edge
-  [
-    source 209
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 209
-    target 47
-    rank 18
-  ]
-  edge
-  [
-    source 210
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 210
-    target 121
-    rank 7
-  ]
-  edge
-  [
-    source 210
-    target 239
-    rank 13
-  ]
-  edge
-  [
-    source 210
-    target 15
-    rank 16
-  ]
-  edge
-  [
-    source 211
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 211
-    target 1
-    rank 5
-  ]
-  edge
-  [
-    source 211
-    target 48
-    rank 13
-  ]
-  edge
-  [
-    source 211
-    target 20
-    rank 18
-  ]
-  edge
-  [
-    source 211
-    target 65
-    rank 19
-  ]
-  edge
-  [
-    source 212
-    target 22
-    rank 18
-  ]
-  edge
-  [
-    source 213
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 213
-    target 60
-    rank 6
-  ]
-  edge
-  [
-    source 213
-    target 180
-    rank 8
-  ]
-  edge
-  [
-    source 213
-    target 141
-    rank 9
-  ]
-  edge
-  [
-    source 213
-    target 207
-    rank 10
-  ]
-  edge
-  [
-    source 214
-    target 161
-    rank 8
-  ]
-  edge
-  [
-    source 214
-    target 121
-    rank 16
-  ]
-  edge
-  [
-    source 215
-    target 5
-    rank 14
-  ]
-  edge
-  [
-    source 215
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 215
-    target 65
-    rank 17
-  ]
-  edge
-  [
-    source 216
-    target 5
-    rank 15
-  ]
-  edge
-  [
-    source 216
-    target 13
-    rank 16
-  ]
-  edge
-  [
-    source 217
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 217
-    target 53
-    rank 2
-  ]
-  edge
-  [
-    source 217
-    target 59
-    rank 4
-  ]
-  edge
-  [
-    source 217
-    target 65
-    rank 5
-  ]
-  edge
-  [
-    source 217
-    target 93
-    rank 16
-  ]
-  edge
-  [
-    source 218
-    target 89
-    rank 2
-  ]
-  edge
-  [
-    source 218
-    target 16
-    rank 12
-  ]
-  edge
-  [
-    source 218
-    target 20
-    rank 20
-  ]
-  edge
-  [
-    source 219
-    target 201
-    rank 2
-  ]
-  edge
-  [
-    source 220
-    target 143
-    rank 1
-  ]
-  edge
-  [
-    source 220
-    target 161
-    rank 2
-  ]
-  edge
-  [
-    source 221
-    target 158
-    rank 8
-  ]
-  edge
-  [
-    source 221
-    target 47
-    rank 14
-  ]
-  edge
-  [
-    source 222
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 223
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 223
-    target 161
-    rank 3
-  ]
-  edge
-  [
-    source 223
-    target 5
-    rank 9
-  ]
-  edge
-  [
-    source 223
-    target 36
-    rank 10
-  ]
-  edge
-  [
-    source 224
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 224
-    target 70
-    rank 9
-  ]
-  edge
-  [
-    source 224
-    target 65
-    rank 10
-  ]
-  edge
-  [
-    source 224
-    target 139
-    rank 11
-  ]
-  edge
-  [
-    source 224
-    target 104
-    rank 12
-  ]
-  edge
-  [
-    source 224
-    target 22
-    rank 15
-  ]
-  edge
-  [
-    source 225
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 226
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 226
-    target 9
-    rank 4
-  ]
-  edge
-  [
-    source 226
-    target 60
-    rank 6
-  ]
-  edge
-  [
-    source 226
-    target 121
-    rank 11
-  ]
-  edge
-  [
-    source 227
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 227
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 227
-    target 59
-    rank 6
-  ]
-  edge
-  [
-    source 227
-    target 70
-    rank 12
-  ]
-  edge
-  [
-    source 227
-    target 165
-    rank 15
-  ]
-  edge
-  [
-    source 228
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 229
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 230
-    target 65
-    rank 17
-  ]
-  edge
-  [
-    source 231
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 231
-    target 16
-    rank 15
-  ]
-  edge
-  [
-    source 231
-    target 20
-    rank 20
-  ]
-  edge
-  [
-    source 232
-    target 158
-    rank 11
-  ]
-  edge
-  [
-    source 233
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 233
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 233
-    target 9
-    rank 6
-  ]
-  edge
-  [
-    source 233
-    target 59
-    rank 10
-  ]
-  edge
-  [
-    source 233
-    target 13
-    rank 11
-  ]
-  edge
-  [
-    source 233
-    target 165
-    rank 16
-  ]
-  edge
-  [
-    source 233
-    target 196
-    rank 18
-  ]
-  edge
-  [
-    source 234
-    target 2
-    rank 11
-  ]
-  edge
-  [
-    source 234
-    target 5
-    rank 15
-  ]
-  edge
-  [
-    source 235
-    target 89
-    rank 4
-  ]
-  edge
-  [
-    source 236
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 236
-    target 165
-    rank 6
-  ]
-  edge
-  [
-    source 236
-    target 149
-    rank 8
-  ]
-  edge
-  [
-    source 236
-    target 45
-    rank 11
-  ]
-  edge
-  [
-    source 236
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 236
-    target 15
-    rank 14
-  ]
-  edge
-  [
-    source 236
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 237
-    target 45
-    rank 8
-  ]
-  edge
-  [
-    source 237
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 238
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 238
-    target 29
-    rank 3
-  ]
-  edge
-  [
-    source 239
-    target 31
-    rank 3
-  ]
-  edge
-  [
-    source 239
-    target 36
-    rank 6
-  ]
-  edge
-  [
-    source 239
-    target 121
-    rank 8
-  ]
-  edge
-  [
-    source 239
-    target 195
-    rank 11
-  ]
-  edge
-  [
-    source 239
-    target 210
-    rank 12
-  ]
-  edge
-  [
-    source 239
-    target 46
-    rank 19
-  ]
-  edge
-  [
-    source 240
-    target 158
-    rank 8
-  ]
-  edge
-  [
-    source 241
-    target 156
-    rank 14
-  ]
-  edge
-  [
-    source 243
-    target 93
-    rank 3
-  ]
-  edge
-  [
-    source 243
-    target 221
-    rank 6
-  ]
-  edge
-  [
-    source 243
-    target 33
-    rank 7
-  ]
-  edge
-  [
-    source 244
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 244
-    target 53
-    rank 10
-  ]
-  edge
-  [
-    source 245
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 245
-    target 195
-    rank 10
-  ]
-  edge
-  [
-    source 245
-    target 46
-    rank 13
-  ]
-  edge
-  [
-    source 246
-    target 89
-    rank 16
-  ]
-  edge
-  [
-    source 247
-    target 139
-    rank 8
-  ]
-  edge
-  [
-    source 248
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 248
-    target 53
-    rank 2
-  ]
-  edge
-  [
-    source 248
-    target 65
-    rank 4
-  ]
-  edge
-  [
-    source 248
-    target 70
-    rank 5
-  ]
-  edge
-  [
-    source 248
-    target 90
-    rank 6
-  ]
-  edge
-  [
-    source 248
-    target 60
-    rank 11
-  ]
-  edge
-  [
-    source 248
-    target 233
-    rank 14
-  ]
-  edge
-  [
-    source 249
-    target 36
-    rank 7
-  ]
-  edge
-  [
-    source 250
-    target 13
-    rank 6
-  ]
-  edge
-  [
-    source 251
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 251
-    target 59
-    rank 5
-  ]
-  edge
-  [
-    source 251
-    target 230
-    rank 8
-  ]
-  edge
-  [
-    source 251
-    target 16
-    rank 13
-  ]
-  edge
-  [
-    source 252
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 253
-    target 70
-    rank 4
-  ]
-  edge
-  [
-    source 253
-    target 165
-    rank 13
-  ]
-  edge
-  [
-    source 253
-    target 9
-    rank 19
-  ]
-  edge
-  [
-    source 254
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 254
-    target 233
-    rank 7
-  ]
-  edge
-  [
-    source 254
-    target 9
-    rank 9
-  ]
-  edge
-  [
-    source 254
-    target 13
-    rank 11
-  ]
-  edge
-  [
-    source 254
-    target 20
-    rank 13
-  ]
-  edge
-  [
-    source 254
-    target 165
-    rank 18
-  ]
-  edge
-  [
-    source 254
-    target 60
-    rank 19
-  ]
-  edge
-  [
-    source 254
-    target 180
-    rank 20
-  ]
-  edge
-  [
-    source 255
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 255
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 255
-    target 15
-    rank 11
-  ]
-  edge
-  [
-    source 255
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 255
-    target 19
-    rank 15
-  ]
-  edge
-  [
-    source 255
-    target 5
-    rank 16
-  ]
-  edge
-  [
-    source 255
-    target 165
-    rank 18
-  ]
-  edge
-  [
-    source 255
-    target 169
-    rank 19
-  ]
-  edge
-  [
-    source 256
-    target 89
-    rank 4
-  ]
-  edge
-  [
-    source 256
-    target 33
-    rank 13
-  ]
-  edge
-  [
-    source 256
-    target 20
-    rank 15
-  ]
-  edge
-  [
-    source 256
-    target 5
-    rank 19
-  ]
-  edge
-  [
-    source 257
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 257
-    target 22
-    rank 10
-  ]
-  edge
-  [
-    source 257
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 257
-    target 65
-    rank 16
-  ]
-  edge
-  [
-    source 258
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 259
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 259
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 259
-    target 70
-    rank 8
-  ]
-  edge
-  [
-    source 259
-    target 139
-    rank 15
-  ]
-  edge
-  [
-    source 260
-    target 22
-    rank 6
-  ]
-  edge
-  [
-    source 261
-    target 139
-    rank 20
-  ]
-  edge
-  [
-    source 262
-    target 241
-    rank 12
-  ]
-  edge
-  [
-    source 263
-    target 13
-    rank 10
-  ]
-  edge
-  [
-    source 263
-    target 48
-    rank 18
-  ]
-  edge
-  [
-    source 264
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 264
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 264
-    target 70
-    rank 7
-  ]
-  edge
-  [
-    source 264
-    target 139
-    rank 8
-  ]
-  edge
-  [
-    source 264
-    target 15
-    rank 13
-  ]
-  edge
-  [
-    source 264
-    target 46
-    rank 16
-  ]
-  edge
-  [
-    source 264
-    target 22
-    rank 18
-  ]
-  edge
-  [
-    source 264
-    target 29
-    rank 20
-  ]
-  edge
-  [
-    source 265
-    target 165
-    rank 14
-  ]
-  edge
-  [
-    source 266
-    target 59
-    rank 4
-  ]
-  edge
-  [
-    source 267
-    target 210
-    rank 6
-  ]
-  edge
-  [
-    source 267
-    target 65
-    rank 18
-  ]
-  edge
-  [
-    source 267
-    target 36
-    rank 19
-  ]
-  edge
-  [
-    source 268
-    target 19
-    rank 5
-  ]
-  edge
-  [
-    source 269
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 269
-    target 13
-    rank 5
-  ]
-  edge
-  [
-    source 269
-    target 230
-    rank 14
-  ]
-  edge
-  [
-    source 269
-    target 46
-    rank 16
-  ]
-  edge
-  [
-    source 270
-    target 13
-    rank 6
-  ]
-  edge
-  [
-    source 271
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 271
-    target 29
-    rank 12
-  ]
-  edge
-  [
-    source 271
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 272
-    target 59
-    rank 7
-  ]
-  edge
-  [
-    source 272
-    target 5
-    rank 10
-  ]
-  edge
-  [
-    source 272
-    target 65
-    rank 18
-  ]
-  edge
-  [
-    source 273
-    target 89
-    rank 3
-  ]
-  edge
-  [
-    source 273
-    target 33
-    rank 13
-  ]
-  edge
-  [
-    source 274
     target 66
-    rank 6
-  ]
-  edge
-  [
-    source 274
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 274
-    target 156
-    rank 14
-  ]
-  edge
-  [
-    source 275
-    target 22
-    rank 2
-  ]
-  edge
-  [
-    source 275
-    target 165
-    rank 11
-  ]
-  edge
-  [
-    source 276
-    target 70
-    rank 3
-  ]
-  edge
-  [
-    source 276
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 276
-    target 48
-    rank 20
-  ]
-  edge
-  [
-    source 277
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 277
-    target 180
-    rank 18
-  ]
-  edge
-  [
-    source 277
-    target 47
-    rank 20
-  ]
-  edge
-  [
-    source 278
-    target 165
-    rank 8
-  ]
-  edge
-  [
-    source 278
-    target 179
-    rank 9
-  ]
-  edge
-  [
-    source 278
-    target 233
-    rank 11
-  ]
-  edge
-  [
-    source 278
-    target 33
-    rank 17
-  ]
-  edge
-  [
-    source 278
-    target 13
-    rank 18
-  ]
-  edge
-  [
-    source 279
-    target 13
-    rank 18
-  ]
-  edge
-  [
-    source 280
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 280
-    target 158
-    rank 3
-  ]
-  edge
-  [
-    source 280
-    target 33
-    rank 16
-  ]
-  edge
-  [
-    source 280
-    target 5
-    rank 17
-  ]
-  edge
-  [
-    source 280
-    target 13
-    rank 20
-  ]
-  edge
-  [
-    source 281
-    target 22
     rank 12
   ]
   edge
   [
-    source 282
-    target 13
-    rank 11
-  ]
-  edge
-  [
-    source 282
-    target 74
-    rank 13
-  ]
-  edge
-  [
-    source 283
-    target 65
-    rank 8
-  ]
-  edge
-  [
-    source 283
-    target 195
-    rank 12
-  ]
-  edge
-  [
-    source 284
-    target 121
-    rank 3
-  ]
-  edge
-  [
-    source 284
-    target 5
-    rank 9
-  ]
-  edge
-  [
-    source 284
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 284
-    target 65
-    rank 14
-  ]
-  edge
-  [
-    source 285
-    target 195
-    rank 9
-  ]
-  edge
-  [
-    source 286
-    target 13
-    rank 16
-  ]
-  edge
-  [
-    source 287
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 287
-    target 156
-    rank 19
-  ]
-  edge
-  [
-    source 288
-    target 13
-    rank 12
-  ]
-  edge
-  [
-    source 289
-    target 13
-    rank 18
-  ]
-  edge
-  [
-    source 290
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 291
-    target 38
-    rank 7
-  ]
-  edge
-  [
-    source 292
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 293
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 293
-    target 1
-    rank 7
-  ]
-  edge
-  [
-    source 293
-    target 4
-    rank 17
-  ]
-  edge
-  [
-    source 294
-    target 70
-    rank 16
-  ]
-  edge
-  [
-    source 294
-    target 195
-    rank 18
-  ]
-  edge
-  [
-    source 295
-    target 65
-    rank 4
-  ]
-  edge
-  [
-    source 295
-    target 22
-    rank 8
-  ]
-  edge
-  [
-    source 295
-    target 13
-    rank 19
-  ]
-  edge
-  [
-    source 296
-    target 65
-    rank 9
-  ]
-  edge
-  [
-    source 297
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 297
-    target 34
-    rank 3
-  ]
-  edge
-  [
-    source 297
-    target 29
-    rank 5
-  ]
-  edge
-  [
-    source 297
-    target 65
-    rank 10
-  ]
-  edge
-  [
-    source 298
-    target 65
-    rank 10
-  ]
-  edge
-  [
-    source 298
-    target 165
-    rank 14
-  ]
-  edge
-  [
-    source 299
-    target 201
-    rank 10
-  ]
-  edge
-  [
-    source 299
+    source 188
     target 130
     rank 15
   ]
   edge
   [
-    source 300
-    target 89
-    rank 7
+    source 188
+    target 187
+    rank 17
   ]
   edge
   [
-    source 300
-    target 2
-    rank 13
+    source 189
+    target 39
+    rank 4
   ]
   edge
   [
-    source 301
+    source 191
     target 1
     rank 7
   ]
   edge
   [
-    source 301
-    target 38
-    rank 8
-  ]
-  edge
-  [
-    source 301
-    target 141
-    rank 12
-  ]
-  edge
-  [
-    source 301
-    target 5
+    source 191
+    target 257
     rank 19
   ]
   edge
   [
-    source 302
-    target 5
-    rank 17
-  ]
-  edge
-  [
-    source 303
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 303
-    target 38
-    rank 7
-  ]
-  edge
-  [
-    source 303
-    target 70
-    rank 9
-  ]
-  edge
-  [
-    source 304
-    target 70
-    rank 11
-  ]
-  edge
-  [
-    source 305
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 305
-    target 60
-    rank 7
-  ]
-  edge
-  [
-    source 305
-    target 201
-    rank 8
-  ]
-  edge
-  [
-    source 305
-    target 106
-    rank 19
-  ]
-  edge
-  [
-    source 306
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 307
-    target 65
-    rank 3
-  ]
-  edge
-  [
-    source 308
-    target 9
-    rank 5
-  ]
-  edge
-  [
-    source 308
-    target 93
-    rank 10
-  ]
-  edge
-  [
-    source 308
-    target 106
-    rank 11
-  ]
-  edge
-  [
-    source 309
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 309
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 309
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 309
-    target 9
-    rank 5
-  ]
-  edge
-  [
-    source 309
-    target 15
-    rank 17
-  ]
-  edge
-  [
-    source 309
-    target 6
-    rank 19
-  ]
-  edge
-  [
-    source 309
-    target 18
+    source 192
+    target 16
     rank 20
   ]
   edge
   [
-    source 310
-    target 165
-    rank 15
-  ]
-  edge
-  [
-    source 311
-    target 70
-    rank 9
-  ]
-  edge
-  [
-    source 312
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 313
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 314
-    target 45
-    rank 3
-  ]
-  edge
-  [
-    source 315
-    target 161
-    rank 5
-  ]
-  edge
-  [
-    source 315
-    target 210
-    rank 7
-  ]
-  edge
-  [
-    source 315
-    target 31
-    rank 16
-  ]
-  edge
-  [
-    source 315
-    target 5
-    rank 17
-  ]
-  edge
-  [
-    source 315
-    target 13
-    rank 19
-  ]
-  edge
-  [
-    source 315
-    target 65
-    rank 20
-  ]
-  edge
-  [
-    source 316
-    target 17
-    rank 1
-  ]
-  edge
-  [
-    source 316
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 316
-    target 38
-    rank 6
-  ]
-  edge
-  [
-    source 316
-    target 9
-    rank 9
-  ]
-  edge
-  [
-    source 316
-    target 59
+    source 197
+    target 255
     rank 14
   ]
   edge
   [
-    source 316
-    target 65
-    rank 17
+    source 198
+    target 39
+    rank 1
   ]
   edge
   [
-    source 316
+    source 198
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 198
+    target 37
+    rank 4
+  ]
+  edge
+  [
+    source 198
+    target 199
+    rank 8
+  ]
+  edge
+  [
+    source 198
+    target 332
+    rank 9
+  ]
+  edge
+  [
+    source 198
+    target 255
+    rank 11
+  ]
+  edge
+  [
+    source 198
     target 13
-    rank 18
-  ]
-  edge
-  [
-    source 316
-    target 70
-    rank 19
-  ]
-  edge
-  [
-    source 316
-    target 36
-    rank 20
-  ]
-  edge
-  [
-    source 317
-    target 1
-    rank 4
-  ]
-  edge
-  [
-    source 318
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 318
-    target 195
-    rank 12
-  ]
-  edge
-  [
-    source 319
-    target 105
-    rank 4
-  ]
-  edge
-  [
-    source 320
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 320
-    target 195
-    rank 15
-  ]
-  edge
-  [
-    source 321
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 321
-    target 59
-    rank 4
-  ]
-  edge
-  [
-    source 321
-    target 48
-    rank 10
-  ]
-  edge
-  [
-    source 321
-    target 34
-    rank 12
-  ]
-  edge
-  [
-    source 321
-    target 9
-    rank 15
-  ]
-  edge
-  [
-    source 322
-    target 5
     rank 16
   ]
   edge
   [
-    source 323
+    source 198
+    target 5
+    rank 18
+  ]
+  edge
+  [
+    source 198
+    target 73
+    rank 20
+  ]
+  edge
+  [
+    source 200
     target 17
     rank 1
   ]
   edge
   [
-    source 323
-    target 70
+    source 201
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 201
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 201
+    target 46
+    rank 4
+  ]
+  edge
+  [
+    source 201
+    target 104
+    rank 5
+  ]
+  edge
+  [
+    source 201
+    target 166
     rank 6
   ]
   edge
   [
-    source 323
-    target 48
+    source 201
+    target 178
+    rank 9
+  ]
+  edge
+  [
+    source 201
+    target 15
     rank 16
   ]
   edge
   [
-    source 324
+    source 201
+    target 48
+    rank 20
+  ]
+  edge
+  [
+    source 202
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 203
+    target 13
+    rank 10
+  ]
+  edge
+  [
+    source 203
+    target 50
+    rank 12
+  ]
+  edge
+  [
+    source 204
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 204
+    target 39
+    rank 5
+  ]
+  edge
+  [
+    source 204
+    target 66
+    rank 6
+  ]
+  edge
+  [
+    source 204
+    target 78
+    rank 8
+  ]
+  edge
+  [
+    source 204
+    target 37
+    rank 10
+  ]
+  edge
+  [
+    source 204
+    target 107
+    rank 13
+  ]
+  edge
+  [
+    source 204
+    target 313
+    rank 14
+  ]
+  edge
+  [
+    source 205
+    target 39
+    rank 8
+  ]
+  edge
+  [
+    source 205
+    target 85
+    rank 13
+  ]
+  edge
+  [
+    source 205
+    target 15
+    rank 18
+  ]
+  edge
+  [
+    source 206
+    target 286
+    rank 7
+  ]
+  edge
+  [
+    source 206
+    target 80
+    rank 11
+  ]
+  edge
+  [
+    source 210
+    target 107
+    rank 5
+  ]
+  edge
+  [
+    source 210
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 210
+    target 37
+    rank 19
+  ]
+  edge
+  [
+    source 211
+    target 107
+    rank 2
+  ]
+  edge
+  [
+    source 212
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 212
+    target 39
+    rank 5
+  ]
+  edge
+  [
+    source 213
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 213
+    target 162
+    rank 12
+  ]
+  edge
+  [
+    source 213
+    target 211
+    rank 14
+  ]
+  edge
+  [
+    source 213
+    target 49
+    rank 17
+  ]
+  edge
+  [
+    source 213
+    target 14
+    rank 19
+  ]
+  edge
+  [
+    source 213
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 215
+    target 73
+    rank 9
+  ]
+  edge
+  [
+    source 216
+    target 34
+    rank 18
+  ]
+  edge
+  [
+    source 217
+    target 20
+    rank 6
+  ]
+  edge
+  [
+    source 217
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 218
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 218
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 219
+    target 73
+    rank 15
+  ]
+  edge
+  [
+    source 220
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 220
+    target 211
+    rank 7
+  ]
+  edge
+  [
+    source 220
+    target 15
+    rank 11
+  ]
+  edge
+  [
+    source 220
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 220
+    target 23
+    rank 13
+  ]
+  edge
+  [
+    source 220
+    target 18
+    rank 14
+  ]
+  edge
+  [
+    source 220
+    target 5
+    rank 18
+  ]
+  edge
+  [
+    source 221
+    target 5
+    rank 7
+  ]
+  edge
+  [
+    source 222
+    target 23
+    rank 1
+  ]
+  edge
+  [
+    source 222
+    target 1
+    rank 5
+  ]
+  edge
+  [
+    source 222
+    target 37
+    rank 9
+  ]
+  edge
+  [
+    source 222
+    target 107
+    rank 12
+  ]
+  edge
+  [
+    source 222
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 222
+    target 138
+    rank 16
+  ]
+  edge
+  [
+    source 222
+    target 73
+    rank 17
+  ]
+  edge
+  [
+    source 223
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 223
+    target 78
+    rank 12
+  ]
+  edge
+  [
+    source 224
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 224
+    target 183
+    rank 8
+  ]
+  edge
+  [
+    source 224
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 230
+    target 46
+    rank 2
+  ]
+  edge
+  [
+    source 230
     target 17
     rank 5
   ]
   edge
   [
-    source 324
-    target 16
+    source 230
+    target 39
     rank 6
   ]
   edge
   [
-    source 325
-    target 9
+    source 230
+    target 65
+    rank 8
+  ]
+  edge
+  [
+    source 230
+    target 1
+    rank 9
+  ]
+  edge
+  [
+    source 230
+    target 78
+    rank 10
+  ]
+  edge
+  [
+    source 230
+    target 178
+    rank 12
+  ]
+  edge
+  [
+    source 230
+    target 297
+    rank 15
+  ]
+  edge
+  [
+    source 230
+    target 48
+    rank 16
+  ]
+  edge
+  [
+    source 230
+    target 49
+    rank 20
+  ]
+  edge
+  [
+    source 233
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 233
+    target 49
+    rank 10
+  ]
+  edge
+  [
+    source 233
+    target 20
+    rank 16
+  ]
+  edge
+  [
+    source 233
+    target 5
+    rank 18
+  ]
+  edge
+  [
+    source 234
+    target 23
+    rank 19
+  ]
+  edge
+  [
+    source 236
+    target 73
+    rank 10
+  ]
+  edge
+  [
+    source 236
+    target 107
+    rank 12
+  ]
+  edge
+  [
+    source 236
+    target 152
+    rank 16
+  ]
+  edge
+  [
+    source 237
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 237
+    target 13
+    rank 7
+  ]
+  edge
+  [
+    source 237
+    target 78
     rank 11
   ]
   edge
   [
-    source 325
+    source 237
+    target 73
+    rank 12
+  ]
+  edge
+  [
+    source 238
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 238
+    target 49
+    rank 3
+  ]
+  edge
+  [
+    source 238
+    target 73
+    rank 5
+  ]
+  edge
+  [
+    source 238
+    target 34
+    rank 11
+  ]
+  edge
+  [
+    source 239
+    target 17
+    rank 8
+  ]
+  edge
+  [
+    source 239
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 240
+    target 73
+    rank 15
+  ]
+  edge
+  [
+    source 241
+    target 13
+    rank 10
+  ]
+  edge
+  [
+    source 242
+    target 78
+    rank 10
+  ]
+  edge
+  [
+    source 242
+    target 107
+    rank 12
+  ]
+  edge
+  [
+    source 242
+    target 17
+    rank 17
+  ]
+  edge
+  [
+    source 242
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 244
+    target 278
+    rank 5
+  ]
+  edge
+  [
+    source 244
+    target 152
+    rank 9
+  ]
+  edge
+  [
+    source 246
+    target 183
+    rank 11
+  ]
+  edge
+  [
+    source 248
+    target 17
+    rank 6
+  ]
+  edge
+  [
+    source 250
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 250
+    target 107
+    rank 8
+  ]
+  edge
+  [
+    source 250
+    target 73
+    rank 9
+  ]
+  edge
+  [
+    source 250
+    target 155
+    rank 10
+  ]
+  edge
+  [
+    source 250
     target 5
     rank 19
   ]
   edge
   [
-    source 325
+    source 253
+    target 117
+    rank 8
+  ]
+  edge
+  [
+    source 253
+    target 225
+    rank 10
+  ]
+  edge
+  [
+    source 254
+    target 94
+    rank 10
+  ]
+  edge
+  [
+    source 255
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 255
+    target 78
+    rank 5
+  ]
+  edge
+  [
+    source 257
+    target 49
+    rank 4
+  ]
+  edge
+  [
+    source 257
+    target 20
+    rank 9
+  ]
+  edge
+  [
+    source 258
+    target 46
+    rank 1
+  ]
+  edge
+  [
+    source 258
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 258
+    target 49
+    rank 18
+  ]
+  edge
+  [
+    source 258
+    target 34
+    rank 19
+  ]
+  edge
+  [
+    source 261
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 261
+    target 16
+    rank 20
+  ]
+  edge
+  [
+    source 262
+    target 59
+    rank 4
+  ]
+  edge
+  [
+    source 262
+    target 78
+    rank 10
+  ]
+  edge
+  [
+    source 263
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 263
+    target 162
+    rank 6
+  ]
+  edge
+  [
+    source 263
+    target 48
+    rank 9
+  ]
+  edge
+  [
+    source 263
+    target 9
+    rank 11
+  ]
+  edge
+  [
+    source 263
+    target 34
+    rank 13
+  ]
+  edge
+  [
+    source 263
+    target 49
+    rank 14
+  ]
+  edge
+  [
+    source 263
+    target 20
+    rank 19
+  ]
+  edge
+  [
+    source 263
+    target 13
+    rank 20
+  ]
+  edge
+  [
+    source 264
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 264
+    target 78
+    rank 3
+  ]
+  edge
+  [
+    source 264
+    target 312
+    rank 10
+  ]
+  edge
+  [
+    source 264
+    target 30
+    rank 14
+  ]
+  edge
+  [
+    source 264
+    target 48
+    rank 15
+  ]
+  edge
+  [
+    source 264
+    target 35
+    rank 16
+  ]
+  edge
+  [
+    source 265
+    target 46
+    rank 1
+  ]
+  edge
+  [
+    source 265
+    target 78
+    rank 15
+  ]
+  edge
+  [
+    source 266
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 266
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 266
+    target 49
+    rank 13
+  ]
+  edge
+  [
+    source 266
+    target 34
+    rank 15
+  ]
+  edge
+  [
+    source 267
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 267
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 267
+    target 78
+    rank 3
+  ]
+  edge
+  [
+    source 267
+    target 152
+    rank 7
+  ]
+  edge
+  [
+    source 267
+    target 30
+    rank 9
+  ]
+  edge
+  [
+    source 269
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 269
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 269
+    target 78
+    rank 4
+  ]
+  edge
+  [
+    source 269
+    target 103
+    rank 5
+  ]
+  edge
+  [
+    source 269
+    target 183
+    rank 6
+  ]
+  edge
+  [
+    source 269
+    target 180
+    rank 7
+  ]
+  edge
+  [
+    source 269
+    target 130
+    rank 8
+  ]
+  edge
+  [
+    source 269
+    target 5
+    rank 20
+  ]
+  edge
+  [
+    source 271
+    target 107
+    rank 2
+  ]
+  edge
+  [
+    source 271
+    target 5
+    rank 6
+  ]
+  edge
+  [
+    source 271
+    target 20
+    rank 8
+  ]
+  edge
+  [
+    source 272
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 272
+    target 78
+    rank 5
+  ]
+  edge
+  [
+    source 272
+    target 152
+    rank 6
+  ]
+  edge
+  [
+    source 272
+    target 176
+    rank 7
+  ]
+  edge
+  [
+    source 272
+    target 35
+    rank 12
+  ]
+  edge
+  [
+    source 272
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 272
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 272
+    target 20
+    rank 18
+  ]
+  edge
+  [
+    source 273
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 273
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 273
+    target 233
+    rank 10
+  ]
+  edge
+  [
+    source 273
+    target 67
+    rank 17
+  ]
+  edge
+  [
+    source 274
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 274
+    target 107
+    rank 13
+  ]
+  edge
+  [
+    source 274
+    target 48
+    rank 14
+  ]
+  edge
+  [
+    source 274
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 274
+    target 49
+    rank 18
+  ]
+  edge
+  [
+    source 278
+    target 23
+    rank 3
+  ]
+  edge
+  [
+    source 278
+    target 152
+    rank 7
+  ]
+  edge
+  [
+    source 278
+    target 327
+    rank 13
+  ]
+  edge
+  [
+    source 278
+    target 15
+    rank 16
+  ]
+  edge
+  [
+    source 280
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 280
+    target 1
+    rank 5
+  ]
+  edge
+  [
+    source 280
+    target 50
+    rank 13
+  ]
+  edge
+  [
+    source 280
+    target 20
+    rank 18
+  ]
+  edge
+  [
+    source 280
+    target 73
+    rank 19
+  ]
+  edge
+  [
+    source 281
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 282
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 282
+    target 66
+    rank 6
+  ]
+  edge
+  [
+    source 282
+    target 233
+    rank 8
+  ]
+  edge
+  [
+    source 282
+    target 178
+    rank 9
+  ]
+  edge
+  [
+    source 282
+    target 272
+    rank 10
+  ]
+  edge
+  [
+    source 283
+    target 204
+    rank 8
+  ]
+  edge
+  [
+    source 283
+    target 152
+    rank 16
+  ]
+  edge
+  [
+    source 284
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 284
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 284
+    target 73
+    rank 17
+  ]
+  edge
+  [
+    source 285
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 285
+    target 13
+    rank 16
+  ]
+  edge
+  [
+    source 286
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 286
+    target 59
+    rank 2
+  ]
+  edge
+  [
+    source 286
+    target 65
+    rank 4
+  ]
+  edge
+  [
+    source 286
+    target 73
+    rank 5
+  ]
+  edge
+  [
+    source 286
+    target 111
+    rank 16
+  ]
+  edge
+  [
+    source 288
+    target 107
+    rank 2
+  ]
+  edge
+  [
+    source 288
+    target 16
+    rank 12
+  ]
+  edge
+  [
+    source 288
     target 20
     rank 20
   ]
   edge
   [
-    source 326
-    target 13
-    rank 9
-  ]
-  edge
-  [
-    source 327
-    target 210
-    rank 18
-  ]
-  edge
-  [
-    source 328
-    target 195
-    rank 7
-  ]
-  edge
-  [
-    source 329
-    target 85
-    rank 15
-  ]
-  edge
-  [
-    source 330
-    target 5
-    rank 4
-  ]
-  edge
-  [
-    source 330
-    target 65
-    rank 7
-  ]
-  edge
-  [
-    source 330
-    target 13
-    rank 20
-  ]
-  edge
-  [
-    source 331
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 332
-    target 38
+    source 294
+    target 264
     rank 2
   ]
   edge
   [
-    source 332
-    target 9
-    rank 10
-  ]
-  edge
-  [
-    source 332
-    target 5
-    rank 13
-  ]
-  edge
-  [
-    source 332
-    target 36
-    rank 18
-  ]
-  edge
-  [
-    source 333
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 334
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 334
-    target 38
-    rank 7
-  ]
-  edge
-  [
-    source 334
-    target 31
-    rank 18
-  ]
-  edge
-  [
-    source 335
-    target 38
+    source 296
+    target 180
     rank 1
   ]
   edge
   [
-    source 335
+    source 296
+    target 204
+    rank 2
+  ]
+  edge
+  [
+    source 297
+    target 201
+    rank 8
+  ]
+  edge
+  [
+    source 297
+    target 49
+    rank 14
+  ]
+  edge
+  [
+    source 299
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 302
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 302
+    target 204
+    rank 3
+  ]
+  edge
+  [
+    source 302
+    target 5
+    rank 9
+  ]
+  edge
+  [
+    source 302
+    target 37
+    rank 10
+  ]
+  edge
+  [
+    source 303
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 303
+    target 78
+    rank 9
+  ]
+  edge
+  [
+    source 303
+    target 73
+    rank 10
+  ]
+  edge
+  [
+    source 303
+    target 176
+    rank 11
+  ]
+  edge
+  [
+    source 303
+    target 126
+    rank 12
+  ]
+  edge
+  [
+    source 303
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 304
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 307
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 307
+    target 9
+    rank 4
+  ]
+  edge
+  [
+    source 307
+    target 66
+    rank 6
+  ]
+  edge
+  [
+    source 307
+    target 152
+    rank 11
+  ]
+  edge
+  [
+    source 308
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 308
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 308
+    target 65
+    rank 6
+  ]
+  edge
+  [
+    source 308
+    target 78
+    rank 12
+  ]
+  edge
+  [
+    source 308
+    target 211
+    rank 15
+  ]
+  edge
+  [
+    source 309
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 310
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 312
+    target 73
+    rank 17
+  ]
+  edge
+  [
+    source 313
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 313
+    target 16
+    rank 15
+  ]
+  edge
+  [
+    source 313
+    target 20
+    rank 20
+  ]
+  edge
+  [
+    source 316
+    target 201
+    rank 11
+  ]
+  edge
+  [
+    source 317
+    target 23
+    rank 3
+  ]
+  edge
+  [
+    source 317
     target 17
     rank 4
   ]
   edge
   [
-    source 335
+    source 317
+    target 9
+    rank 6
+  ]
+  edge
+  [
+    source 317
     target 65
+    rank 10
+  ]
+  edge
+  [
+    source 317
+    target 13
+    rank 11
+  ]
+  edge
+  [
+    source 317
+    target 211
+    rank 16
+  ]
+  edge
+  [
+    source 317
+    target 257
+    rank 18
+  ]
+  edge
+  [
+    source 320
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 320
+    target 5
+    rank 15
+  ]
+  edge
+  [
+    source 322
+    target 107
+    rank 4
+  ]
+  edge
+  [
+    source 323
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 323
+    target 211
+    rank 6
+  ]
+  edge
+  [
+    source 323
+    target 187
+    rank 8
+  ]
+  edge
+  [
+    source 323
+    target 46
+    rank 11
+  ]
+  edge
+  [
+    source 323
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 323
+    target 15
+    rank 14
+  ]
+  edge
+  [
+    source 323
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 324
+    target 46
+    rank 8
+  ]
+  edge
+  [
+    source 324
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 325
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 325
+    target 30
+    rank 3
+  ]
+  edge
+  [
+    source 327
+    target 32
+    rank 3
+  ]
+  edge
+  [
+    source 327
+    target 37
+    rank 6
+  ]
+  edge
+  [
+    source 327
+    target 152
+    rank 8
+  ]
+  edge
+  [
+    source 327
+    target 255
+    rank 11
+  ]
+  edge
+  [
+    source 327
+    target 278
+    rank 12
+  ]
+  edge
+  [
+    source 327
+    target 48
+    rank 19
+  ]
+  edge
+  [
+    source 331
+    target 201
+    rank 8
+  ]
+  edge
+  [
+    source 332
+    target 199
     rank 14
   ]
   edge
   [
     source 336
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 337
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 337
-    target 16
-    rank 2
-  ]
-  edge
-  [
-    source 337
-    target 59
+    target 111
     rank 3
   ]
   edge
   [
-    source 337
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 337
-    target 5
+    source 336
+    target 297
     rank 6
   ]
   edge
   [
-    source 337
-    target 89
-    rank 14
+    source 336
+    target 34
+    rank 7
   ]
   edge
   [
-    source 337
-    target 60
-    rank 15
-  ]
-  edge
-  [
-    source 337
-    target 2
-    rank 20
-  ]
-  edge
-  [
-    source 338
-    target 38
-    rank 3
-  ]
-  edge
-  [
-    source 338
-    target 165
-    rank 6
-  ]
-  edge
-  [
-    source 339
+    source 363
     target 17
     rank 2
   ]
   edge
   [
-    source 339
-    target 38
+    source 363
+    target 59
+    rank 10
+  ]
+  edge
+  [
+    source 364
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 364
+    target 255
+    rank 10
+  ]
+  edge
+  [
+    source 364
+    target 48
+    rank 13
+  ]
+  edge
+  [
+    source 365
+    target 107
+    rank 16
+  ]
+  edge
+  [
+    source 366
+    target 176
     rank 8
   ]
   edge
   [
-    source 339
-    target 70
+    source 367
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 367
+    target 59
+    rank 2
+  ]
+  edge
+  [
+    source 367
+    target 73
+    rank 4
+  ]
+  edge
+  [
+    source 367
+    target 78
+    rank 5
+  ]
+  edge
+  [
+    source 367
+    target 108
+    rank 6
+  ]
+  edge
+  [
+    source 367
+    target 66
     rank 11
   ]
   edge
   [
-    source 339
-    target 36
+    source 367
+    target 317
+    rank 14
+  ]
+  edge
+  [
+    source 368
+    target 37
+    rank 7
+  ]
+  edge
+  [
+    source 369
+    target 13
+    rank 6
+  ]
+  edge
+  [
+    source 373
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 373
+    target 65
+    rank 5
+  ]
+  edge
+  [
+    source 373
+    target 312
+    rank 8
+  ]
+  edge
+  [
+    source 373
+    target 16
+    rank 13
+  ]
+  edge
+  [
+    source 378
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 379
+    target 78
+    rank 4
+  ]
+  edge
+  [
+    source 379
+    target 211
+    rank 13
+  ]
+  edge
+  [
+    source 379
+    target 9
+    rank 19
+  ]
+  edge
+  [
+    source 382
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 382
+    target 317
+    rank 7
+  ]
+  edge
+  [
+    source 382
+    target 9
+    rank 9
+  ]
+  edge
+  [
+    source 382
+    target 13
+    rank 11
+  ]
+  edge
+  [
+    source 382
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 382
+    target 211
+    rank 18
+  ]
+  edge
+  [
+    source 382
+    target 66
+    rank 19
+  ]
+  edge
+  [
+    source 382
+    target 233
     rank 20
   ]
   edge
   [
-    source 340
-    target 125
+    source 383
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 383
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 383
+    target 15
+    rank 11
+  ]
+  edge
+  [
+    source 383
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 383
+    target 19
+    rank 15
+  ]
+  edge
+  [
+    source 383
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 383
+    target 211
+    rank 18
+  ]
+  edge
+  [
+    source 383
+    target 216
     rank 19
+  ]
+  edge
+  [
+    source 385
+    target 107
+    rank 4
+  ]
+  edge
+  [
+    source 385
+    target 34
+    rank 13
+  ]
+  edge
+  [
+    source 385
+    target 20
+    rank 15
+  ]
+  edge
+  [
+    source 385
+    target 5
+    rank 19
+  ]
+  edge
+  [
+    source 387
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 387
+    target 23
+    rank 10
+  ]
+  edge
+  [
+    source 387
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 387
+    target 73
+    rank 16
+  ]
+  edge
+  [
+    source 389
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 390
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 390
+    target 23
+    rank 3
+  ]
+  edge
+  [
+    source 390
+    target 78
+    rank 8
+  ]
+  edge
+  [
+    source 390
+    target 176
+    rank 15
+  ]
+  edge
+  [
+    source 391
+    target 23
+    rank 6
+  ]
+  edge
+  [
+    source 392
+    target 176
+    rank 20
+  ]
+  edge
+  [
+    source 394
+    target 332
+    rank 12
+  ]
+  edge
+  [
+    source 395
+    target 13
+    rank 10
+  ]
+  edge
+  [
+    source 395
+    target 50
+    rank 18
+  ]
+  edge
+  [
+    source 398
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 398
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 398
+    target 78
+    rank 7
+  ]
+  edge
+  [
+    source 398
+    target 176
+    rank 8
+  ]
+  edge
+  [
+    source 398
+    target 15
+    rank 13
+  ]
+  edge
+  [
+    source 398
+    target 48
+    rank 16
+  ]
+  edge
+  [
+    source 398
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 398
+    target 30
+    rank 20
+  ]
+  edge
+  [
+    source 400
+    target 211
+    rank 14
+  ]
+  edge
+  [
+    source 401
+    target 65
+    rank 4
+  ]
+  edge
+  [
+    source 402
+    target 278
+    rank 6
+  ]
+  edge
+  [
+    source 402
+    target 73
+    rank 18
+  ]
+  edge
+  [
+    source 402
+    target 37
+    rank 19
+  ]
+  edge
+  [
+    source 403
+    target 19
+    rank 5
+  ]
+  edge
+  [
+    source 404
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 404
+    target 13
+    rank 5
+  ]
+  edge
+  [
+    source 404
+    target 312
+    rank 14
+  ]
+  edge
+  [
+    source 404
+    target 48
+    rank 16
+  ]
+  edge
+  [
+    source 405
+    target 13
+    rank 6
+  ]
+  edge
+  [
+    source 406
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 406
+    target 30
+    rank 12
+  ]
+  edge
+  [
+    source 406
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 412
+    target 65
+    rank 7
+  ]
+  edge
+  [
+    source 412
+    target 5
+    rank 10
+  ]
+  edge
+  [
+    source 412
+    target 73
+    rank 18
+  ]
+  edge
+  [
+    source 413
+    target 107
+    rank 3
+  ]
+  edge
+  [
+    source 413
+    target 34
+    rank 13
+  ]
+  edge
+  [
+    source 414
+    target 74
+    rank 6
+  ]
+  edge
+  [
+    source 414
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 414
+    target 199
+    rank 14
+  ]
+  edge
+  [
+    source 415
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 415
+    target 211
+    rank 11
+  ]
+  edge
+  [
+    source 416
+    target 78
+    rank 3
+  ]
+  edge
+  [
+    source 416
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 416
+    target 50
+    rank 20
+  ]
+  edge
+  [
+    source 417
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 417
+    target 233
+    rank 18
+  ]
+  edge
+  [
+    source 417
+    target 49
+    rank 20
+  ]
+  edge
+  [
+    source 419
+    target 211
+    rank 8
+  ]
+  edge
+  [
+    source 419
+    target 230
+    rank 9
+  ]
+  edge
+  [
+    source 419
+    target 317
+    rank 11
+  ]
+  edge
+  [
+    source 419
+    target 34
+    rank 17
+  ]
+  edge
+  [
+    source 419
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 420
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 421
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 421
+    target 201
+    rank 3
+  ]
+  edge
+  [
+    source 421
+    target 34
+    rank 16
+  ]
+  edge
+  [
+    source 421
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 421
+    target 13
+    rank 20
+  ]
+  edge
+  [
+    source 422
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 423
+    target 13
+    rank 11
+  ]
+  edge
+  [
+    source 423
+    target 83
+    rank 13
+  ]
+  edge
+  [
+    source 424
+    target 73
+    rank 8
+  ]
+  edge
+  [
+    source 424
+    target 255
+    rank 12
+  ]
+  edge
+  [
+    source 425
+    target 152
+    rank 3
+  ]
+  edge
+  [
+    source 425
+    target 5
+    rank 9
+  ]
+  edge
+  [
+    source 425
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 425
+    target 73
+    rank 14
+  ]
+  edge
+  [
+    source 426
+    target 255
+    rank 9
+  ]
+  edge
+  [
+    source 427
+    target 13
+    rank 16
+  ]
+  edge
+  [
+    source 428
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 428
+    target 199
+    rank 19
+  ]
+  edge
+  [
+    source 429
+    target 13
+    rank 12
+  ]
+  edge
+  [
+    source 430
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 431
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 432
+    target 39
+    rank 7
+  ]
+  edge
+  [
+    source 435
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 436
+    target 25
+    rank 2
+  ]
+  edge
+  [
+    source 436
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 436
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 437
+    target 78
+    rank 16
+  ]
+  edge
+  [
+    source 437
+    target 255
+    rank 18
+  ]
+  edge
+  [
+    source 438
+    target 73
+    rank 4
+  ]
+  edge
+  [
+    source 438
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 438
+    target 13
+    rank 19
+  ]
+  edge
+  [
+    source 439
+    target 73
+    rank 9
+  ]
+  edge
+  [
+    source 440
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 440
+    target 35
+    rank 3
+  ]
+  edge
+  [
+    source 440
+    target 30
+    rank 5
+  ]
+  edge
+  [
+    source 440
+    target 73
+    rank 10
+  ]
+  edge
+  [
+    source 441
+    target 73
+    rank 10
+  ]
+  edge
+  [
+    source 441
+    target 211
+    rank 14
+  ]
+  edge
+  [
+    source 442
+    target 264
+    rank 10
+  ]
+  edge
+  [
+    source 442
+    target 165
+    rank 15
+  ]
+  edge
+  [
+    source 443
+    target 107
+    rank 7
+  ]
+  edge
+  [
+    source 443
+    target 2
+    rank 13
+  ]
+  edge
+  [
+    source 444
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 444
+    target 39
+    rank 8
+  ]
+  edge
+  [
+    source 444
+    target 178
+    rank 12
+  ]
+  edge
+  [
+    source 444
+    target 5
+    rank 19
+  ]
+  edge
+  [
+    source 445
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 446
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 446
+    target 39
+    rank 7
+  ]
+  edge
+  [
+    source 446
+    target 78
+    rank 9
+  ]
+  edge
+  [
+    source 447
+    target 78
+    rank 11
+  ]
+  edge
+  [
+    source 449
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 449
+    target 66
+    rank 7
+  ]
+  edge
+  [
+    source 449
+    target 264
+    rank 8
+  ]
+  edge
+  [
+    source 449
+    target 130
+    rank 19
+  ]
+  edge
+  [
+    source 452
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 453
+    target 73
+    rank 3
+  ]
+  edge
+  [
+    source 455
+    target 9
+    rank 5
+  ]
+  edge
+  [
+    source 455
+    target 111
+    rank 10
+  ]
+  edge
+  [
+    source 455
+    target 130
+    rank 11
+  ]
+  edge
+  [
+    source 457
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 457
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 457
+    target 23
+    rank 4
+  ]
+  edge
+  [
+    source 457
+    target 9
+    rank 5
+  ]
+  edge
+  [
+    source 457
+    target 15
+    rank 17
+  ]
+  edge
+  [
+    source 457
+    target 6
+    rank 19
+  ]
+  edge
+  [
+    source 457
+    target 18
+    rank 20
+  ]
+  edge
+  [
+    source 460
+    target 211
+    rank 15
+  ]
+  edge
+  [
+    source 462
+    target 78
+    rank 9
+  ]
+  edge
+  [
+    source 463
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 465
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 469
+    target 46
+    rank 3
+  ]
+  edge
+  [
+    source 470
+    target 204
+    rank 5
+  ]
+  edge
+  [
+    source 470
+    target 278
+    rank 7
+  ]
+  edge
+  [
+    source 470
+    target 32
+    rank 16
+  ]
+  edge
+  [
+    source 470
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 470
+    target 13
+    rank 19
+  ]
+  edge
+  [
+    source 470
+    target 73
+    rank 20
+  ]
+  edge
+  [
+    source 471
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 471
+    target 23
+    rank 5
+  ]
+  edge
+  [
+    source 471
+    target 39
+    rank 6
+  ]
+  edge
+  [
+    source 471
+    target 9
+    rank 9
+  ]
+  edge
+  [
+    source 471
+    target 65
+    rank 14
+  ]
+  edge
+  [
+    source 471
+    target 73
+    rank 17
+  ]
+  edge
+  [
+    source 471
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 471
+    target 78
+    rank 19
+  ]
+  edge
+  [
+    source 471
+    target 37
+    rank 20
+  ]
+  edge
+  [
+    source 472
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 474
+    target 23
+    rank 5
+  ]
+  edge
+  [
+    source 474
+    target 255
+    rank 12
+  ]
+  edge
+  [
+    source 475
+    target 127
+    rank 4
+  ]
+  edge
+  [
+    source 478
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 478
+    target 255
+    rank 15
+  ]
+  edge
+  [
+    source 479
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 479
+    target 65
+    rank 4
+  ]
+  edge
+  [
+    source 479
+    target 50
+    rank 10
+  ]
+  edge
+  [
+    source 479
+    target 35
+    rank 12
+  ]
+  edge
+  [
+    source 479
+    target 9
+    rank 15
+  ]
+  edge
+  [
+    source 480
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 485
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 485
+    target 78
+    rank 6
+  ]
+  edge
+  [
+    source 485
+    target 50
+    rank 16
+  ]
+  edge
+  [
+    source 486
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 486
+    target 16
+    rank 6
+  ]
+  edge
+  [
+    source 487
+    target 9
+    rank 11
+  ]
+  edge
+  [
+    source 487
+    target 5
+    rank 19
+  ]
+  edge
+  [
+    source 487
+    target 20
+    rank 20
+  ]
+  edge
+  [
+    source 491
+    target 13
+    rank 9
+  ]
+  edge
+  [
+    source 492
+    target 278
+    rank 18
+  ]
+  edge
+  [
+    source 496
+    target 255
+    rank 7
+  ]
+  edge
+  [
+    source 497
+    target 102
+    rank 15
+  ]
+  edge
+  [
+    source 499
+    target 5
+    rank 4
+  ]
+  edge
+  [
+    source 499
+    target 73
+    rank 7
+  ]
+  edge
+  [
+    source 499
+    target 13
+    rank 20
+  ]
+  edge
+  [
+    source 502
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 503
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 503
+    target 9
+    rank 10
+  ]
+  edge
+  [
+    source 503
+    target 5
+    rank 13
+  ]
+  edge
+  [
+    source 503
+    target 37
+    rank 18
+  ]
+  edge
+  [
+    source 504
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 507
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 507
+    target 39
+    rank 7
+  ]
+  edge
+  [
+    source 507
+    target 32
+    rank 18
+  ]
+  edge
+  [
+    source 508
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 508
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 508
+    target 73
+    rank 14
+  ]
+  edge
+  [
+    source 511
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 512
+    target 39
+    rank 1
+  ]
+  edge
+  [
+    source 512
+    target 16
+    rank 2
+  ]
+  edge
+  [
+    source 512
+    target 65
+    rank 3
+  ]
+  edge
+  [
+    source 512
+    target 34
+    rank 4
+  ]
+  edge
+  [
+    source 512
+    target 5
+    rank 6
+  ]
+  edge
+  [
+    source 512
+    target 107
+    rank 14
+  ]
+  edge
+  [
+    source 512
+    target 66
+    rank 15
+  ]
+  edge
+  [
+    source 512
+    target 2
+    rank 20
+  ]
+  edge
+  [
+    source 513
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 513
+    target 211
+    rank 6
+  ]
+  edge
+  [
+    source 514
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 514
+    target 39
+    rank 8
+  ]
+  edge
+  [
+    source 514
+    target 78
+    rank 11
+  ]
+  edge
+  [
+    source 514
+    target 37
+    rank 20
+  ]
+  edge
+  [
+    source 518
+    target 159
+    rank 19
+  ]
+  edge
+  [
+    source 519
+    target 80
+    rank 13
   ]
 ]

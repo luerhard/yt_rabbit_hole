@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 15:27:38 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 16:13:29 2022"
 Version 1
 graph
 [
@@ -6,7 +6,25 @@ graph
   node
   [
     id 0
-    name "1"
+    label "PK_iBYSqEsc"
+    step 0
+    date "2009-01-29T07:10:42Z"
+    title "NIST Video: Why the Building (WTC7) Fell"
+    description "The National Institute of Standards and Technology (NIST) conducted an extensive three-year scientific and technical investigation of the Sept. 11, 2001, collapse of the 47-story World Trade Center building 7 (WTC 7) in New York City. This video describes the results of this study, which concluded that fires on multiple floors in WTC 7--which were uncontrolled but otherwise similar to fires experienced in other tall buildings--caused an extraordinary event. Heating of floor beams and girders caused a critical support column to fail, initiating a fire-induced progressive collapse that brought the building down.&#13;&#10;&#13;&#10;For more info visit:&#13;&#10;https://www.nist.gov/topics/disaster-failure-studies/world-trade-center-disaster-study&#10;http://www.nist.gov/public_affairs/factsheet/wtc_qa_082108.cfm"
+    channeltitle "National Institute of Standards and Technology"
+    channelid "UCelItQpbih_hBrNSA5cRZyw"
+    favcount 0
+    viewcount 2109853
+    likecount 6806
+    commentcount 128
+    duration "PT3M40S"
+    indegree 0
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 1
     label "7ZiMG84hws0"
     step 0
     date "2015-07-21T14:15:50Z"
@@ -20,21 +38,12 @@ graph
     commentcount 5494
     duration "PT1M25S"
     indegree 30
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 1
-    name "2"
+    id 2
     label "Xhv5qbjICB4"
     step 0
     date "2015-07-21T14:55:04Z"
@@ -48,21 +57,12 @@ graph
     commentcount 1197
     duration "PT1M22S"
     indegree 23
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 2
-    name "3"
+    id 3
     label "9U82qnmyaig"
     step 0
     date "2015-11-24T23:08:01Z"
@@ -76,21 +76,12 @@ graph
     commentcount 3525
     duration "PT2M17S"
     indegree 14
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 3
-    name "4"
+    id 4
     label "qXYpqJvjekM"
     step 0
     date "2020-11-20T14:27:29Z"
@@ -104,21 +95,12 @@ graph
     commentcount 8181
     duration "PT55M36S"
     indegree 32
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 4
-    name "5"
+    id 5
     label "oCPVNLLo-mI"
     step 0
     date "2018-09-07T13:47:23Z"
@@ -132,21 +114,12 @@ graph
     commentcount 17679
     duration "PT8M40S"
     indegree 56
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 5
-    name "6"
+    id 6
     label "FeasKVBFySw"
     step 0
     date "2009-08-31T15:43:23Z"
@@ -160,21 +133,12 @@ graph
     commentcount 6340
     duration "PT3M58S"
     indegree 38
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 6
-    name "7"
+    id 7
     label "ZnneC0tviTE"
     step 0
     date "2019-01-22T18:00:01Z"
@@ -188,21 +152,12 @@ graph
     commentcount 3023
     duration "PT4M14S"
     indegree 32
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 7
-    name "8"
+    id 8
     label "OQk5Qw8hHGA"
     step 0
     date "2018-09-07T13:44:52Z"
@@ -216,21 +171,12 @@ graph
     commentcount 6645
     duration "PT8M44S"
     indegree 36
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 8
-    name "9"
+    id 9
     label "4LFZA0Rx1gg"
     step 0
     date "2020-09-23T11:00:03Z"
@@ -244,21 +190,12 @@ graph
     commentcount 16134
     duration "PT9M48S"
     indegree 29
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 9
-    name "10"
+    id 10
     label "vzInIjD6nKw"
     step 0
     date "2015-08-28T17:53:33Z"
@@ -272,21 +209,12 @@ graph
     commentcount 16544
     duration "PT4M1S"
     indegree 31
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 10
-    name "11"
+    id 11
     label "SMDkvJRHaNM"
     step 0
     date "2016-09-08T19:01:51Z"
@@ -300,21 +228,12 @@ graph
     commentcount 24793
     duration "PT4M18S"
     indegree 37
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 11
-    name "12"
+    id 12
     label "uO9wpQ6b2Yw"
     step 0
     date "2021-09-09T18:30:42Z"
@@ -328,21 +247,12 @@ graph
     commentcount 7683
     duration "PT4M17S"
     indegree 5
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 12
-    name "13"
+    id 13
     label "3HbD_Q6kmh8"
     step 0
     date "2011-09-09T17:31:43Z"
@@ -356,21 +266,12 @@ graph
     commentcount 8219
     duration "PT7M29S"
     indegree 51
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 13
-    name "14"
+    id 14
     label "Y2erDTPtsBI"
     step 0
     date "2010-02-11T11:03:18Z"
@@ -384,21 +285,12 @@ graph
     commentcount -1
     duration "PT1M51S"
     indegree 18
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 14
-    name "15"
+    id 15
     label "EEogeIIOJzU"
     step 0
     date "2018-09-11T13:03:28Z"
@@ -412,21 +304,12 @@ graph
     commentcount -1
     duration "PT4M47S"
     indegree 49
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 15
-    name "16"
+    id 16
     label "ieIFtjnBfJU"
     step 0
     date "2010-08-30T18:20:21Z"
@@ -440,21 +323,12 @@ graph
     commentcount 11915
     duration "PT3M21S"
     indegree 19
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 16
-    name "17"
+    id 17
     label "GySgEL4NRFY"
     step 0
     date "2020-09-11T04:45:00Z"
@@ -468,21 +342,12 @@ graph
     commentcount 3347
     duration "PT4M44S"
     indegree 7
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 17
-    name "18"
+    id 18
     label "VAkTbyENZ5s"
     step 0
     date "2017-09-11T15:56:50Z"
@@ -496,21 +361,12 @@ graph
     commentcount 13301
     duration "PT5M51S"
     indegree 29
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 18
-    name "19"
+    id 19
     label "K0Cxfc5Whqk"
     step 0
     date "2011-09-07T18:21:32Z"
@@ -524,21 +380,12 @@ graph
     commentcount -1
     duration "PT3M2S"
     indegree 1
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 19
-    name "20"
+    id 20
     label "bEAwYkvZ5og"
     step 0
     date "2016-09-08T18:10:32Z"
@@ -552,21 +399,12 @@ graph
     commentcount 1700
     duration "PT12M42S"
     indegree 24
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 20
-    name "21"
+    id 21
     label "sBciZFE8lAw"
     step 0
     date "2011-09-09T21:12:58Z"
@@ -580,21 +418,12 @@ graph
     commentcount 25073
     duration "PT27M16S"
     indegree 21
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 21
-    name "22"
+    id 22
     label "i4CAwjfY-dU"
     step 0
     date "2021-09-10T17:04:06Z"
@@ -608,21 +437,12 @@ graph
     commentcount 4439
     duration "PT6M59S"
     indegree 26
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 22
-    name "23"
+    id 23
     label "itBC228XSh4"
     step 0
     date "2021-09-08T12:17:28Z"
@@ -636,21 +456,12 @@ graph
     commentcount 4508
     duration "PT9M26S"
     indegree 4
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 23
-    name "24"
+    id 24
     label "ZXcsBLcVc5o"
     step 0
     date "2014-09-09T19:53:51Z"
@@ -664,21 +475,12 @@ graph
     commentcount 22
     duration "PT2M54S"
     indegree 5
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 24
-    name "25"
+    id 25
     label "Z7JJbEMJONE"
     step 0
     date "2019-12-13T20:15:00Z"
@@ -692,21 +494,12 @@ graph
     commentcount 15357
     duration "PT14M48S"
     indegree 11
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 25
-    name "26"
+    id 26
     label "5mq8xwitqFc"
     step 0
     date "2011-03-08T08:37:53Z"
@@ -720,21 +513,12 @@ graph
     commentcount -1
     duration "PT1M57S"
     indegree 7
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 26
-    name "27"
+    id 27
     label "dsxc3vHmisY"
     step 0
     date "2019-09-11T21:31:39Z"
@@ -748,21 +532,12 @@ graph
     commentcount 1497
     duration "PT12M9S"
     indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 27
-    name "28"
+    id 28
     label "VveRmJpFW6o"
     step 0
     date "2011-09-09T20:57:53Z"
@@ -776,21 +551,12 @@ graph
     commentcount 10639
     duration "PT12M4S"
     indegree 33
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 28
-    name "29"
+    id 29
     label "56OhXUuY2RE"
     step 0
     date "2012-09-18T06:38:27Z"
@@ -804,21 +570,12 @@ graph
     commentcount 20186
     duration "PT2M32S"
     indegree 65
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 29
-    name "30"
+    id 30
     label "SnwYYF_gK1s"
     step 0
     date "2015-08-04T04:56:43Z"
@@ -832,21 +589,12 @@ graph
     commentcount -1
     duration "PT4M7S"
     indegree 8
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 30
-    name "31"
+    id 31
     label "QbRk3WAIhVQ"
     step 0
     date "2018-09-07T13:41:23Z"
@@ -860,21 +608,12 @@ graph
     commentcount 8205
     duration "PT4M47S"
     indegree 19
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 31
-    name "32"
+    id 32
     label "dV466B8VVtw"
     step 0
     date "2021-09-01T09:00:12Z"
@@ -888,21 +627,12 @@ graph
     commentcount 3468
     duration "PT4M52S"
     indegree 5
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 32
-    name "33"
+    id 33
     label "8WNk674LZrI"
     step 0
     date "2018-09-11T09:59:53Z"
@@ -916,21 +646,12 @@ graph
     commentcount 384
     duration "PT6M22S"
     indegree 9
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 33
-    name "34"
+    id 34
     label "JnLcUxV1dPo"
     step 0
     date "2011-10-02T22:19:17Z"
@@ -944,21 +665,12 @@ graph
     commentcount 6064
     duration "PT14M11S"
     indegree 36
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 34
-    name "35"
+    id 35
     label "nLqFZNfTmU4"
     step 0
     date "2021-09-09T01:49:17Z"
@@ -972,21 +684,12 @@ graph
     commentcount 3724
     duration "PT6M21S"
     indegree 3
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 35
-    name "36"
+    id 36
     label "NbA89YbWoL8"
     step 0
     date "2015-05-29T05:07:20Z"
@@ -1000,21 +703,12 @@ graph
     commentcount 24583
     duration "PT2M6S"
     indegree 7
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 36
-    name "37"
+    id 37
     label "bn64AyrHe4Q"
     step 0
     date "2021-08-30T12:00:17Z"
@@ -1028,21 +722,12 @@ graph
     commentcount -1
     duration "PT45M35S"
     indegree 22
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 37
-    name "38"
+    id 38
     label "5WmBt6BBUzs"
     step 0
     date "2021-09-19T14:47:47Z"
@@ -1056,21 +741,12 @@ graph
     commentcount 8982
     duration "PT18M49S"
     indegree 4
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 38
-    name "39"
+    id 39
     label "eRVUvgJpi50"
     step 0
     date "2021-09-05T11:30:07Z"
@@ -1084,21 +760,12 @@ graph
     commentcount -1
     duration "PT25M57S"
     indegree 35
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 39
-    name "40"
+    id 40
     label "0ZqP8moItcc"
     step 0
     date "2016-09-05T18:09:59Z"
@@ -1112,21 +779,12 @@ graph
     commentcount 1282
     duration "PT7M16S"
     indegree 26
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 40
-    name "41"
+    id 41
     label "9HpEAddV2FQ"
     step 0
     date "2016-09-11T21:33:41Z"
@@ -1140,21 +798,12 @@ graph
     commentcount 654
     duration "PT4M54S"
     indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 41
-    name "42"
+    id 42
     label "mY7F4xMcE4s"
     step 0
     date "2021-08-31T07:52:06Z"
@@ -1168,21 +817,12 @@ graph
     commentcount -1
     duration "PT3M22S"
     indegree 4
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 42
-    name "43"
+    id 43
     label "Mb4MNe1vk70"
     step 0
     date "2021-08-15T12:03:53Z"
@@ -1196,49 +836,31 @@ graph
     commentcount 5591
     duration "PT10M51S"
     indegree 11
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 47
+    label "Df-o5TKv0C0"
+    step 0
+    date "2012-01-27T00:32:39Z"
+    title "Joe Rogan and Rosie Talk 9/11 Conspiracy Theory | The Rosie Show | Oprah Winfrey Network"
+    description "Joe Rogan isn't afraid to get down to the bottom of things on his podcast, The Joe Rogan Experience. Watch as he and Rosie discuss a conspiracy theory surrounding the fall of Tower 7 on September 11, 2001. For more on #TheRosieShow, visit Oprah.com.&#10;&#10;Find OWN on TV at http://www.oprah.com/FindOWN&#10;&#10;#OWNTV #TheRosieShow #RosieODonnell&#10;SUBSCRIBE: http://bit.ly/1vqD1PN&#10;&#10;Download the Watch OWN App: http://bit.ly/2hr1nX2&#10;&#10;About OWN:&#10;Oprah Winfrey Network is the first and only network named for, and inspired by, a single iconic leader.  Oprah Winfrey's heart and creative instincts inform the brand -- and the magnetism of the channel.&#10;&#10;Winfrey provides leadership in programming and attracts superstar talent to join her in primetime, building a global community of like-minded viewers and leading that community to connect on social media and beyond.  OWN is a singular destination on cable.  Depth with edge. Heart. Star power. Connection.  And endless possibilities.&#10;&#10;Discover OWN TV:&#10;Find OWN on you TV!: http://bit.ly/1wJ0ugI&#10;Our Fantastic Lineup: http://bit.ly/1qMi2jE&#10;&#10;Connect with OWN Online:&#10;Visit the OWN WEBSITE: http://bit.ly/1qMi2jE&#10;Like OWN on FACEBOOK: http://on.fb.me/1AXYujp&#10;Follow OWN on TWITTER: http://bit.ly/1sJin8Y&#10;Follow OWN on INSTAGRAM: http://bit.ly/LnqzMz&#10;Follow OWN on PINTEREST: http://bit.ly/2dvfPeN&#10;&#10;Joe Rogan and Rosie Talk 9/11 Conspiracy Theory | The Rosie Show | Oprah Winfrey Network&#10;http://www.youtube.com/user/OWN"
+    channeltitle "OWN"
+    channelid "UCKBnlTTgEnhIXv_c4LvvyMQ"
+    favcount 0
+    viewcount 357293
+    likecount 2552
+    commentcount -1
+    duration "PT2M31S"
+    indegree 0
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 43
-    name "44"
-    label "igIIkjp5vhU"
-    step 0
-    date "2022-05-15T20:45:01Z"
-    title "Hermitcraft 9: Episode 11 - THE ENTITY MOVING"
-    description "Hermitcraft 9: Episode  11 - THE ENTITY MOVING Grian is back on hermitcraft and has made some &#34;upgrades&#34; to his &#34;shop&#34;. Hermitcraft season 9 is getting intense.&#10;&#10;#minecraft #hermitcraft"
-    channeltitle "Grian"
-    channelid "UCR9Gcq0CMm6YgTzsDxAxjOQ"
-    favcount 0
-    viewcount 3048904
-    likecount 151020
-    commentcount 11070
-    duration "PT24M9S"
-    indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 44
-    name "48"
+    id 48
     label "mO6tpdbcWDA"
     step 0
     date "2019-09-09T17:00:49Z"
@@ -1252,21 +874,12 @@ graph
     commentcount 14
     duration "PT1M40S"
     indegree 11
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 45
-    name "49"
+    id 49
     label "yRUhDDZsw8s"
     step 0
     date "2016-02-02T18:35:05Z"
@@ -1280,49 +893,31 @@ graph
     commentcount 8
     duration "PT4M7S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 46
-    name "50"
-    label "WosblHoWh1g"
+    id 51
+    label "nVd5w6mLlKI"
     step 0
-    date "2022-05-01T17:00:15Z"
-    title "Hermitcraft 9: Episode 9 - GRIANS BIG BASE!"
-    description "Check out Audible here: https://audible.com/grian OR text &#34;Grian&#34; to 500-500. &#10;&#10;Hermitcraft 9: Episode  9 - GRIANS BIG BASE! Grian is back on hermitcraft making grians base and mumbo has decided to base nearby too, this should be fun!&#10;&#10;Thank you to Audible for sponsoring this video. Special thanks to Mumbo for being DOP and Scar for additional voice overs!&#10;&#10;#minecraft #hermitcraft"
-    channeltitle "Grian"
-    channelid "UCR9Gcq0CMm6YgTzsDxAxjOQ"
+    date "2016-07-05T11:29:25Z"
+    title "9/11 Building 7 (So out There Mix)"
+    description "Provided to YouTube by CDBaby&#10;&#10;9/11 Building 7 (So out There Mix) &#183; Martin Noakes&#10;&#10;Life Is Just a Ride&#10;&#10;&#8471; 2016 Meaningful Music Ltd&#10;&#10;Released on: 2016-07-06&#10;&#10;Auto-generated by YouTube."
+    channeltitle "Martin Noakes - Topic"
+    channelid "UC6cWCkkwdIQPbUJQW3uCM4A"
     favcount 0
-    viewcount 3085447
-    likecount 202305
-    commentcount 14377
-    duration "PT23M22S"
-    indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    viewcount 3139
+    likecount 65
+    commentcount 0
+    duration "PT4M23S"
+    indegree 0
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 47
-    name "52"
+    id 52
     label "DYBhgEm3j7A"
     step 0
     date "2011-09-10T06:22:57Z"
@@ -1336,49 +931,31 @@ graph
     commentcount 6983
     duration "PT1H51M32S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 48
-    name "53"
-    label "I0Nt6hCJAw0"
-    step 0
-    date "2022-07-08T03:20:05Z"
-    title "Inside the trapped class as Dallas 7/7 shooting and explosion unfolded"
-    description "Despite repeated 911 calls, police overlooked a classroom when evacuating El Centro College before setting off explosives to kill the suspect."
-    channeltitle "WFAA"
-    channelid "UCBu0KdNokE4MqdkacvH37_A"
-    favcount 0
-    viewcount 6159
-    likecount 130
-    commentcount 18
-    duration "PT5M6S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 49
-    name "56"
+    id 55
+    label "Mamvq7LWqRU"
+    step 0
+    date "2013-09-21T07:32:09Z"
+    title "30-Second Reel of Building 7 Collapse Footage"
+    description "World Trade Center Building 7&#10;5:20pm, September 11, 2001"
+    channeltitle "ReThink911"
+    channelid "UC7vihttb7JVxqw1HvW3yDFw"
+    favcount 0
+    viewcount 2309150
+    likecount -1
+    commentcount -1
+    duration "PT33S"
+    indegree 3
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 56
     label "Atbrn4k55lA"
     step 0
     date "2008-11-02T02:21:11Z"
@@ -1392,21 +969,12 @@ graph
     commentcount -1
     duration "PT7M29S"
     indegree 6
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 50
-    name "57"
+    id 57
     label "nKog6z2kywo"
     step 0
     date "2014-09-12T04:32:37Z"
@@ -1420,49 +988,31 @@ graph
     commentcount 1580
     duration "PT16M25S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 7
   ]
   node
   [
-    id 51
-    name "58"
-    label "75SoOmgKuk4"
+    id 59
+    label "2oP1oGva0JY"
     step 0
-    date "2022-01-24T20:00:01Z"
-    title "Chasing Nightmares | Critical Role | Campaign 3, Episode 11"
-    description "This episode is sponsored by Skillshare. Check out Skillshare at http://skl.sh/criticalrole01221&#10;&#10;This episode is also sponsored by Foreteller Games. Get 25% off your first two months at Fabler with code CRITROLE at http://bit.ly/getfabler&#10;&#10;The group comes face to face with the terrifying entity known as the Nightmare King but the interaction leaves only questions to an increasingly perplexing puzzle...&#10;&#10;CAPTION STATUS: CAPTIONED BY OUR EDITORS. The closed captions featured on this episode have been curated by our CR editors. For more information on the captioning process, check out: https://critrole.com/cr-transcript-closed-captions-update&#10;&#10;Due to the improv nature of Critical Role and other RPG content on our channels, some themes and situations that occur in-game may be difficult for some to handle. If certain episodes or scenes become uncomfortable, we strongly suggest taking a break or skipping that particular episode.&#10;Your health and well-being is important to us and Psycom has a great list of international mental health resources, in case it&#8217;s useful: http://bit.ly/PsycomResources&#10;&#10;Watch Critical Role live Thursdays at 7pm PT on https://twitch.tv/criticalrole and https://youtube.com/criticalrole. To join our live and moderated community chat, watch the broadcast on our Twitch channel.&#10;&#10;&#34;It's Thursday Night&#34; written by Sam Riegel and Peter Habib&#10;Original Music by Omar Fadel and Hexany Audio&#10;&#34;Welcome to Marquet&#34; Art Theme by Colm McGuinness&#10;Additional Music by Universal Production Music, Epidemic Sounds, and 5 Alarm&#10;Character Art by Hannah Friederichs&#10;&#10;Twitch subscribers gain instant access to VODs of our shows like Critical Role, Mighty Vibes, and Narrative Telephone. But don't worry: Twitch broadcasts will be uploaded to YouTube about 36 hours after airing live, with audio-only podcast versions of select shows on Spotify, Apple Podcasts &#38; Google Podcasts following a week after the initial air date. Twitch subscribers also gain access to our official custom emote set and subscriber badges and the ability to post links in Twitch chat!&#10;&#10;&#10;Follow us!&#10;Website: https://www.critrole.com&#10;Newsletter: https://critrole.com/newsletter&#10;Facebook: https://www.facebook.com/criticalrole&#10;Twitter: https://twitter.com/criticalrole&#10;Instagram: https://instagram.com/critical_role&#10;Twitch: https://www.twitch.tv/criticalrole&#10;&#10;Shops: &#10;US: https://shop.critrole.com&#10;UK: https://shop.critrole.co.uk&#10;AU: https://shop.critrole.com.au&#10;CA: https://canada.critrole.com&#10;&#10;Follow Critical Role Foundation!&#10;Learn More &#38; Donate: https://criticalrolefoundation.org&#10;Twitter: https://twitter.com/CriticalRoleFDN&#10;Facebook: https://facebook.com/CriticalRoleFDN&#10;&#10;Want games? Follow Darrington Press&#10;Newsletter: https://darringtonpress.com/newsletter&#10;Twitter: https://twitter.com/DarringtonPress&#10;Facebook: https://www.facebook.com/darringtonpress&#10;&#10;#CriticalRole #Campaign3 #DungeonsAndDragons"
-    channeltitle "Critical Role"
-    channelid "UCpXBGqwsBkpvcYjsJBQ7LEQ"
+    date "2011-11-02T15:05:26Z"
+    title "WTC Building 7 on fire at 9/11"
+    description "Footage of WTC Building 7 on fire at 9/11 . Video released under Freedom of information Act ."
+    channeltitle "Merovee999"
+    channelid "UCTA0SfSPmh_8LThAwTNLZhw"
     favcount 0
-    viewcount 2533334
-    likecount 42222
-    commentcount 3918
-    duration "PT4H52M19S"
+    viewcount 2120
+    likecount 12
+    commentcount 11
+    duration "PT2M"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 9
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 52
-    name "60"
+    id 60
     label "-YBOZYcBg68"
     step 0
     date "2021-09-09T17:33:31Z"
@@ -1476,21 +1026,12 @@ graph
     commentcount 3
     duration "PT3M22S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 53
-    name "61"
+    id 61
     label "YCtfQJAepfU"
     step 0
     date "2019-09-10T22:09:51Z"
@@ -1504,21 +1045,12 @@ graph
     commentcount 201
     duration "PT14M51S"
     indegree 13
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 54
-    name "62"
+    id 62
     label "mdHfINfUwgY"
     step 0
     date "2021-08-07T22:54:05Z"
@@ -1532,21 +1064,12 @@ graph
     commentcount 21
     duration "PT33S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 55
-    name "63"
+    id 63
     label "AqRjqmqn5rE"
     step 0
     date "2017-06-15T00:57:42Z"
@@ -1560,49 +1083,31 @@ graph
     commentcount 10
     duration "PT33S"
     indegree 3
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
-  ]
-  node
-  [
-    id 56
-    name "64"
-    label "ToaKCzD4RaY"
-    step 0
-    date "2022-07-07T17:10:51Z"
-    title "9 PM | ETV Telugu News |7th July 2022"
-    description "9 PM | ETV Telugu News |7th July '2022&#10; #EtvNews&#10;#NewsHeadlines&#10;#EtvWin &#10;&#10;News Headlines&#10;&#10;To watch your ETV all channel&#8217;s programmes any where any time Download ETV Win App for both Android &#38; IOS: https://f66tr.app.goo.gl/apps&#10;&#10;ETV Telugu(Youtube) - http://bit.ly/2QR0yu9  &#10;Facebook - http://bit.ly/2L2GYYh&#10;&#10;ETV Jabardasth(Youtube) - http://bit.ly/35xdqtu&#10;&#10;ETV Dhee(Youtube) - http://bit.ly/2Ok8zWF&#10;&#10;ETV Plus India(Youtube) - http://bit.ly/2OlEAOg&#10;Facebook - http://bit.ly/2DudC0t&#10;&#10;ETV Abhiruchi(Youtube) - http://bit.ly/2OkEtTb&#10;Facebook - http://bit.ly/2OSrIhv&#10;&#10;ETV Life(Youtube) - http://bit.ly/2OiKAY6&#10;Facebook - http://bit.ly/34tiqzk&#10;&#10;ETV Telangana(Youtube) - http://bit.ly/33nRaAK&#10;Facebook - http://bit.ly/37GkVQF&#10;&#10;ETV Andhra Pradesh(Youtube) - http://bit.ly/2OKARZz&#10;Facebook - http://bit.ly/2R0vs3k&#10;&#10;&#10;&#9658; Like us on Facebook : https://www.facebook.com/etvwin&#10;&#9658; Follow us on Instagram : https://www.instagram.com/etvwin/&#10;&#9658; Follow us on Twitter : https://twitter.com/ETV__Win&#10;&#9658; Visit Website : https://www.etvwin.com/&#10;&#9658; Pin us on Pinterest: https://in.pinterest.com/etv_win/"
-    channeltitle "ETV Andhra Pradesh"
-    channelid "UCJi8M0hRKjz8SLPvJKEVTOg"
-    favcount 0
-    viewcount 269188
-    likecount 2672
-    commentcount 111
-    duration "PT24M6S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 57
-    name "67"
+    id 66
+    label "4LUDXpMhkNk"
+    step 0
+    date "2017-09-08T07:15:43Z"
+    title "Building 7 Explained: The Tube That Crumpled"
+    description "**THIS VIDEO HAS BEEN UPDATED**&#10;Please watch: https://youtu.be/nP3TNHPCIVU&#10;&#10;Comments on this older video will no longer be approved and will not appear here. Watch the new video and comment there instead, please.&#10;-----&#10;&#10;Long-debunked talking points:&#10;&#10;1. &#34;7WTC collapsed into its own footprint.&#34; There is no evidence of that. The animation at 5:00 is scale-accurate: The east face of the frame tipped that much to the north (the smaller building shown is Fiterman Hall). Meanwhile, the west face appears to have rotated to the south. The photos at the end of the video disprove the &#34;footprint&#34; talking point.&#10;&#10;2. &#34;Thousands of architects and engineers disagree.&#34; Actual skyscraper experts don't disagree. I made comedy out of the petition put forward by Architects &#38; Engineers for 9/11 Truth: https://youtu.be/lpEnvGBfgnI&#10;&#10;3. &#34;A collapse with (a brief period of) freefall violates the laws of physics.&#34; Point to one paper in a peer-reviewed journal that supports this claim. I apparently violated the same laws in this experiment: https://twitter.com/edwardcurrent/status/924052742338834432&#10;&#10;4. &#34;WTC7's collapse and fire were totally different from the Tehran building&#34; Yes, and the difference in their collapses is explained beginning at 3:34. They were also very different in size and mass https://www.metabunk.org/attachments/20170119-095743-d00ca-jpg.24118/ which affected not only their collapses but also how their fires appeared from the outside. WTC7 as seen from the south was also a raging fire https://www.youtube.com/watch?v=8k0-CFGP9ZQ . &#10;&#10;5. &#34;Professor Dr. Leroy Hulsey Ph.D. of the University of Alaska's two-year study&#8230;&#34; With funding by Architects &#38; Engineers for 9/11 Truth, Hulsey (an expert on bridges, not buildings, who had never done fire analysis) and two graduate students computer-modeled two floors where NIST found that collapse initiation *might* have taken place, and found scenarios where the collapse did not initiate. AE911Truth would like you to believe that fire, therefore, was ruled out. This is *not* a scientific conclusion, it's a sensational statement bought and paid for by a 9/11 profiteering group. The study has been comprehensively debunked at https://www.metabunk.org/debunked-uaf-study-shows-wtc7-could-not-have-collapsed-from-fire.t9056/.&#10;&#10;6. &#34;Witnesses heard explosions.&#34; Lots of things explode in fires: transformers, gas lines, water lines, air compressors, fire extinguishers, propane tanks, refrigeration systems. An &#34;explosion sound&#34; is different from the high-brisance detonation necessary to cut even one 14&#34; x 22&#34; steel column of a major skyscraper (let alone 58&#8211;82 of them), which would exceed 140 decibels a half mile away and be clearly audible from New Jersey. Meanwhile, seismographs picked up the collapse of the interior (preceding the collapse of the exterior frame), but no detonations. Regardless, such blasts would be loudly audible on all of the camera footage, seconds before the collapse began. There's nothing on the tapes.&#10;This is how demolitions actually sound: https://www.youtube.com/watch?v=eem7d58gjno&#10;Here are 12&#34; steel pins failing, producing &#34;explosion&#34; sounds: (at 0:40)&#10;https://youtu.be/ZXr1IeWbP10?t=40&#10;&#10;7. &#34;The BBC reported that WTC7 had collapsed before it actually did.&#34; There was confusion and chaos on 9/11. Firefighters had cleared the area, because 7WTC was at risk of collapsing ( https://sites.google.com/site/wtc7lies/eyewitnessaccountsofthewithdrawalfromwtc?pageId=104443402069968647957 ). This was misreported by Reuters. BBC explains (at 43:32): https://youtu.be/vZbMfTtHkYM?t=43m32s Anyway, that's a far less complicated explanation than that the BBC or Reuters were in on a conspiracy, and/or made a massive on-air blunder in a secret operation that remains perfectly covered up 19 years later.&#10;&#10;8. &#34;Larry Silverstein confessed to demolishing the building when he said it was pulled.&#34; He said the firefighting was pulled out. Watch FDNY chief Daniel Nigro discuss this decision (at 22:09): https://youtu.be/vZbMfTtHkYM?t=22m9s &#10;&#34;Pull&#34; is not a term used in demolition except to yank small buildings down with cables. Silverstein didn't confess to massive insurance fraud in a scheduled sit-down PBS interview, only for that confession to be ignored by the insurers. One of the dumbest talking points ever.&#10;&#10;9. &#34;You must be paid by the government to make these videos.&#34; And your standards for evidence must be extremely low, if you're willing to convince yourself that this wild claim is true. (It's not. I make nothing from these videos.)&#10;&#10;10. &#34;Why not just set steel buildings on fire when they need to be demolished, instead of using explosives?&#34; Because they might land on other buildings and destroy them, as WTC7 did. And maybe set them on fire, too. Setting a skyscraper on fire in a city, and letting it belch out toxic smoke from burning plastics for hours, is a very stupid idea. Okay, this is officially the dumbest talking point ever."
+    channeltitle "EdwardCurrent"
+    channelid "UC20U2rjFhakOCOlvJn0MAGg"
+    favcount 0
+    viewcount 351589
+    likecount 5893
+    commentcount 2424
+    duration "PT6M3S"
+    indegree 30
+    sentiment 1
+    cluster 10
+  ]
+  node
+  [
+    id 67
     label "W9RxNcni2x4"
     step 0
     date "2021-09-08T13:52:10Z"
@@ -1616,21 +1121,12 @@ graph
     commentcount 7
     duration "PT14M11S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 58
-    name "68"
+    id 68
     label "gy9zM2Kf57A"
     step 0
     date "2018-08-10T18:53:59Z"
@@ -1644,21 +1140,12 @@ graph
     commentcount 0
     duration "PT13S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 59
-    name "69"
+    id 69
     label "M26-B44qQIs"
     step 0
     date "2014-04-27T15:07:39Z"
@@ -1672,21 +1159,12 @@ graph
     commentcount 276
     duration "PT7M16S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 60
-    name "70"
+    id 70
     label "ymTbyNADycU"
     step 0
     date "2011-10-08T16:51:33Z"
@@ -1700,49 +1178,31 @@ graph
     commentcount -1
     duration "PT7M29S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
-  ]
-  node
-  [
-    id 61
-    name "71"
-    label "-YdGz8HWd7M"
-    step 0
-    date "2022-07-12T21:00:12Z"
-    title "The Five 7/12/22 FULL HD - Fox Breaking News July 12, 2022"
-    description "The Five 7/12/22 FULL HD - Fox Breaking News July 12, 2022&#10;Thanks for Watching&#10;Please Like video &#38; Subcribe channel ! Thanks all&#10;&#9654;&#9654; Watch more Fox News Video:&#10;&#128073;&#127995; 5AM: Fox and Friends&#10;&#128073;&#127995; 9AM: America's Newsroom&#10;&#128073;&#127995; 33AM: The Faulkner Focus&#10;&#128073;&#127995; 32PM: Outnumbered&#10;&#128073;&#127995; 3PM: America Reports&#10;&#128073;&#127995; 3PM: The Story Martha MacCallum&#10;&#128073;&#127995; 4PM: Your World With Neil Cavuto&#10;&#128073;&#127995; 5PM: The Five  &#10;&#128073;&#127995; 7PM: Special Report With Bret Baier&#10;&#128073;&#127995; 7PM: Jesse Watters Primetime&#10;&#128073;&#127995; 8PM: Tucker Carlson Tonight&#10;&#128073;&#127995; 9PM: Sean Hannity&#10;&#128073;&#127995; 10PM: The Ingraham Angle&#10;&#128073;&#127995; 33PM: Gutfeld!&#10;&#10;Hello everybody. Thanks for watching. DO YOU LIKE MY CHANNEL!! SUBSCRIBE !! &#10;Please like, share and subscribe my channel. Love all.&#10;#FoxNews #BreakingNews #FoxNewsAlert"
-    channeltitle "INT Coverage"
-    channelid "UCT15tYkg7jE75TSfSxt8eSQ"
-    favcount 0
-    viewcount 20615
-    likecount 2401
-    commentcount -1
-    duration "PT28M26S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 62
-    name "75"
+    id 74
+    label "SXvAxgrPj8M"
+    step 0
+    date "2013-12-28T14:36:17Z"
+    title "BUILDING 7 COLLAPSED AT 5:21:10 PM ON SEPTEMBER 11, 2001"
+    description "Building 7 was a 47-story skyscraper and was part of the World Trade Center complex. Built in 1984, it would have been the tallest high-rise in 33 states in the United States. It collapsed at 5:21:10 pm on September 11, 2001. It was not hit by an airplane and suffered minimal damage compared to other buildings much closer to the Twin Towers.&#10;&#10;7 Facts about Building 7&#10;&#10;1) If fire caused Building 7 to collapse, it would be the first ever fire-induced collapse of a steel-frame high-rise.&#10;&#10;2) Building 7's collapse was not mentioned in the 9/11 Commission Report.&#10;&#10;3) According to a Zogby poll in 2006, 43% of Americans did not know about Building 7.&#10;&#10;4) It took the federal government seven years to conduct an investigation and issue a report for Building 7.&#10;&#10;5) 2,800+ architects and engineers have signed a petition calling for a new investigation into the destruction of Building 7, specifying that it should include a full inquiry into the possible use of explosives.&#10;&#10;6) Numerous witnesses say the possibility of demolishing Building 7 was widely discussed by emergency personnel at the scene and advocated by the building's owner.&#10;&#10;7) Building 7 housed several intelligence and law enforcement agencies, and the NYC Office of Emergency Management's Emergency Operations Center, more commonly known as &#34;Giuliani's Bunker&#34;.&#10;&#10;Edit by Thomas Koitzsch :)"
+    channeltitle "NewEarthWorld"
+    channelid "UCn0OkeW4lBi88evVw4Cbqow"
+    favcount 0
+    viewcount 18937
+    likecount 150
+    commentcount 42
+    duration "PT1M40S"
+    indegree 4
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 75
     label "Vgx8Uwo-Vxc"
     step 0
     date "2016-03-07T08:15:17Z"
@@ -1756,49 +1216,31 @@ graph
     commentcount 24
     duration "PT4M15S"
     indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 10
   ]
   node
   [
-    id 63
-    name "76"
-    label "qed9gmfCh7A"
+    id 77
+    label "bMq1PiUbf-M"
     step 0
-    date "2021-09-15T20:30:01Z"
-    title "The Masked Singer - Seahorse sings 9/11 Building 7"
-    description "Who could this celebrity singer be?"
-    channeltitle "Brett's junk"
-    channelid "UC--iZksDEX8M4wsxf_8BadQ"
+    date "2011-09-01T19:35:49Z"
+    title "9/11 Building 7 - Martin Noakes"
+    description "Written &#38; recorded in 2007 - From the album Life is Just a Ride - Featured in the multi-award winning film Sieranevada  (21 awards to date -  https://www.imdb.com/title/tt4466490/awards?ref_=tt_awd) - by internationally acclaimed director - Cristi Puiu. Available on Spotify and other platforms. Please rate, comment &#38; forward to your friends.&#10;&#10;Many thanks to anyone who supports my work...&#10;&#10;Finally, here's a link to the opening ceremony for the premier of Sieranevada (Which my wife &#38; I attended) at the Cannes Film Festival  - May 2016 - https://www.youtube.com/watch?v=Iy0MJgB45eE &#10;&#10;Chord Chart - http://www.911building7.co.uk/ChordCh...&#10;&#10;Lyrics:&#10;There's a million reasons why I don't believe it.&#10;There's a million reasons why it can't be true.&#10;Open fire can't melt steel, it's not hot enough.&#10;&#10;(It's nothing new it's not a mystery, check out the Reichstag Germany).&#10;&#10;There's a million questions still remain unanswered.&#10;There's a million questions still to be resolved.&#10;Out of nineteen Muslim guys, seven still remained alive.&#10;&#10;(It's nothing new it's not a mystery, check out the USS Liberty)&#10;&#10;CHORUS&#10;&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;The Project for the New American Century (PNAC),&#10;Was added to a year before that day.&#10;It states in order to proceed, &#10;A modern day Pearl Harbor it would need.&#10;&#10;(In Vietnam it was just the same, the Gulf of Tonkin took the blame.)&#10;&#10;9/11 set them free - The Project for the New American Century.&#10;(It's just a lie it's a conspiracy, Cold War, Bird Flu, W.M.D)&#10;&#10;CHORUS&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;We've gotta stand up,&#10;We've gotta be strong,&#10;We've got to hold our nerve until the job is done&#10;And they've made a KILLING.&#10;They don't care about the BLOOD that they're spilling.&#10;&#10;Oh!&#10;&#10;9/11, 9/11, what went down with building 7?&#10;Ever since that fateful day.&#10;Our civil rights have disappeared,&#10;A global Fascist state draws near,&#10;And our freedom slips away.&#10;And they don't give a stuff!&#10;They've made that clear enough&#10;So now it's up to us, to bring 'em down...&#10;&#10;*IMPORTANT Syria Chemical Attack is a False Flag event EXACTLY like 9/11 - https://www.youtube.com/watch?v=Bdnr32H34T4 &#10;&#10;&#10;9/11 documentaries:&#10;https://topdocumentaryfilms.com/911-mysteries/ - 9/11 mysteries&#10;https://www.youtube.com/watch?v=Y9o7n2nugmc - 9/11 Ripple Effect&#10;http://www.youtube.com/watch?v=quTifl... - Loose Change&#10;&#10;Agenda 21 Link - http://www.youtube.com/watch?v=x5dvBH...&#10;Agenda 21 Link - http://www.youtube.com/watch?v=TzEEgt..."
+    channeltitle "marndin"
+    channelid "UCyKCTr1DsfA_rbw5HBvHFKA"
     favcount 0
-    viewcount 19
-    likecount 1
-    commentcount 0
-    duration "PT1M41S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    viewcount 240496
+    likecount 3416
+    commentcount 606
+    duration "PT4M50S"
+    indegree 18
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 64
-    name "78"
+    id 78
     label "Xd7tqpwdlpQ"
     step 0
     date "2019-09-04T01:12:33Z"
@@ -1812,21 +1254,12 @@ graph
     commentcount 863
     duration "PT1M20S"
     indegree 7
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 10
   ]
   node
   [
-    id 65
-    name "79"
+    id 79
     label "ZR6ndyfs6sI"
     step 0
     date "2019-09-10T07:30:29Z"
@@ -1840,49 +1273,31 @@ graph
     commentcount 21
     duration "PT41S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 66
-    name "80"
-    label "RMkz0VbM7gw"
-    step 0
-    date "2022-07-12T18:00:19Z"
-    title "Watch Morning Joe Highlights: July 12 | MSNBC"
-    description "&#8216;Morning Joe&#8217; breaks down the day&#8217;s biggest stories. Watch on MSNBC weekdays from 6-10 a.m. ET.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;(FULL Watch Morning Joe Highlights: July 12 | MSNBC TITLE)&#34;"
-    channeltitle "MSNBC"
-    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
-    favcount 0
-    viewcount 19531
-    likecount 323
-    commentcount 133
-    duration "PT26M22S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 67
-    name "83"
+    id 82
+    label "eaNHuwGAG1I"
+    step 0
+    date "2009-09-10T20:41:58Z"
+    title "9/11: WTC Building 7 WILL COLLAPSE reports ABC News, Before It Happened"
+    description "In the attached video news clip from ABC News,  ABC News reports (from police on the ground) THAT WORLD TRADE CENTER BUILDING 7 WILL COLLAPSE. Before  WTC7 collapsed, the raging fire caused authorities to evacuate the area.  ABC reports on the massive damage to WTC7 caused by the collapse of the twin towers.  And ABC News reports that the fire raging for 8 hours (then) had grown far worse and out of control."
+    channeltitle "JonathonMoseley"
+    channelid "UCEnUwXx5OQCbJdOYMmucB5Q"
+    favcount 0
+    viewcount 4854
+    likecount 17
+    commentcount 7
+    duration "PT1M17S"
+    indegree 0
+    sentiment 1
+    cluster 9
+  ]
+  node
+  [
+    id 83
     label "C-VNjYXU-CE"
     step 0
     date "2015-11-21T04:26:32Z"
@@ -1896,49 +1311,31 @@ graph
     commentcount 39
     duration "PT2M14S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 68
-    name "84"
-    label "Su3g506sqdo"
+    id 87
+    label "OmL9F-TSIes"
     step 0
-    date "2022-07-04T17:18:07Z"
-    title "Bloomberg Markets Full Show (07/04/2022 - 9-11AM)"
-    description "Guy Johnson brings you news you need to know and trends you need to watch as U.S. markets get into the trading day.&#10; --------&#10;Follow Bloomberg for business news &#38; analysis, up-to-the-minute market data, features, profiles and more: http://www.bloomberg.com&#10;Connect with us on...&#10;Twitter: https://twitter.com/business&#10;Facebook: https://www.facebook.com/bloombergbusiness&#10;Instagram: https://www.instagram.com/bloombergbusiness/"
-    channeltitle "Bloomberg Markets and Finance"
-    channelid "UCIALMKvObZNtJ6AmdCLP7Lg"
+    date "2006-04-21T11:33:49Z"
+    title "9/11 Building 7 Close Up"
+    description "2 Close up shots of the collapse of wtc building 7 on 9/11. The first shows the rooftop penthouse collapsing a split second before the rest of the building and the second shows a series of explosions, or squibs running up the walls.   Both prove that the building was demolitioned!"
+    channeltitle "thetruthwillout"
+    channelid "UCWgRK5OL0S1tS_sBNYACMuQ"
     favcount 0
-    viewcount 27135
-    likecount 181
-    commentcount 213
-    duration "PT1H29M42S"
+    viewcount 35623
+    likecount 45
+    commentcount 80
+    duration "PT21S"
     indegree 1
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 69
-    name "88"
+    id 88
     label "AfK2h07yd9k"
     step 0
     date "2010-11-02T21:35:04Z"
@@ -1952,49 +1349,31 @@ graph
     commentcount 6
     duration "PT31S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 70
-    name "89"
-    label "CVSiCN7Sg3I"
+    id 93
+    label "MBytxAhYL70"
     step 0
-    date "2010-08-24T03:35:30Z"
-    title "9/11 Building7 East Penthouse Collapse"
-    description "The demolition starts with the internal structure."
-    channeltitle "xigorph"
-    channelid "UCY7hywV0ATudKD9LJPa9jGw"
+    date "2015-07-12T13:05:58Z"
+    title "9/11: WTC Building 7 Falls, Leaning Camera"
+    description "NIST FOIA file with enhanced resolution"
+    channeltitle "WTC911demolition"
+    channelid "UClFMniGLo1ysEIrUQShlK3A"
     favcount 0
-    viewcount 135
-    likecount 2
-    commentcount 0
-    duration "PT26S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    viewcount 6039
+    likecount 83
+    commentcount 6
+    duration "PT33S"
+    indegree 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 71
-    name "94"
+    id 94
     label "FQn9f1LA5es"
     step 0
     date "2021-09-01T17:05:25Z"
@@ -2008,49 +1387,31 @@ graph
     commentcount 7
     duration "PT6M36S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 72
-    name "95"
-    label "kTZslHOM3Sk"
+    id 96
+    label "JSMFZxjrZe8"
     step 0
-    date "2022-07-12T09:00:23Z"
-    title "Do You Have EYES to SEE? - Porch Time 2022"
-    description "Keep your eyes Open! Do you have eyes to see what is going on around you? Join Danny on Porch Time today. &#10;&#10;&#9654;&#9644;  PODCAST  is now available  3 WAYS   &#10;1. Our website https://www.deepsouthhomestead.com &#10;2. On your favorite podcast platforms like Spotify, iTunes, iHeart Radio, and about 10 more. &#10;3.  If you want to go directly to the podcast use this LINK:      https://deepsouthhomestead.libsyn.com/website&#10;#eyestosee #doyouseeit #porchtime&#10;&#9654; &#9644; EMAIL &#9644; &#10; To contact me via email,   deepsouthhomestead@gmail.com &#10;&#9654;&#9644;  MAILING ADDRESS&#9644;  &#10; Deep South Homestead&#10;P.O. Box 462&#10;Wiggins, MS. 39577&#10;&#10;&#9654;&#9644;  PAYPAL account:&#9644; &#10; https://paypal.me/deepsouthhomestead&#10;(If you wish to support projects on our homestead, use this account)&#10;&#10;&#9654; WEBSITE   http://www.deepsouthhomestead.com/&#10;&#9654; &#9644; SOCIALIZE WITH US&#9644; &#10;&#9654; FACEBOOK Page:  Deep South Homestead &#10;&#9654; INSTAGRAM: Deep South Homestead&#10;&#9654; Wanda's channel CRAZY DAZES:     &#10;https://www.youtube.com/channel/UCEdGFbO34_TILUgbFgx_hJQ&#10;&#9654; Danny's BIBLE channel ---   ALL GOD'S CHILDREN  https://www.youtube.com/channel/UCv6KuZYC9GwU6JhTgEShYUg&#10;&#10;&#9654;ETSY Store  https://deepsouthhomestead.etsy.com  &#10;SWEET POTATO MANUAL&#10;CARROT MANUAL&#10;ENGLISH PEA MANUAL   books written by Danny. &#10; These books show how to plant, grow, harvest, cook and preserve these vegetables.  The books include pictures from Deep South gardens that show step by step.&#10;&#9654;&#9644; COOKBOOK  compiled by Wanda  &#10; From Garden to Pantry to Table in the Deep South Kitchen   https://deepsouthhomestead.etsy.com&#10;&#10;&#9654;TSHIRTS :    https://www.bonfire.com/store/deep-south-homestead/  &#10;  PORCH TIME tshirts and CRAZY DAZES Tshirts are available too. &#10; WATER IS LIFE    https://www.bonfire.com/water-is-life-2&#10;&#10;&#9654;&#9644;  Patreon:  All proceeds here goes to our building project --  CANDY CORN CABIN -- Our Off Grid Cabin  https://www.patreon.com/deepsouthhomestead&#10;&#10;&#9654;&#9644; Channel Art by Felisha:   https://CreativeAce.co&#10;&#10;*******Some of my links below are affiliate links, which means if you make a purchase, I make a small commission at no extra cost to you. :-)   Thanks for helping our homestead. &#10;&#9654;&#9644;  AMAZON LINK: &#9644;  You shop for ALL your Amazon needs and we receive a small commision. &#10;https://amzn.to/2XMw40m&#10; (affiliate link*).   #commisionsearned&#10;&#10;&#9654;&#9644;  HIGH TUNNEL KITS Greenhouse KITS   https://www.growerssolution.com/deepsouth   promo code:   DeepSouth     This is a 10% discount&#10;&#10;&#9654;&#9644; Water Filtration System or LONG TERM FOOD STORAGE:   Alexa Pure  &#10; MY Patriot Supply      http://www.preparewithdeepsouth.com/&#10; Stainless Spigot:  https://amzn.to/2RKLfmJ&#10;&#10;&#9654;&#9644;  Harvest Right Freeze Dryer:   https://affiliates.harvestright.com/idevaffiliate.php?id=1011&#38;tid1=deepsouthhomestead &#10;&#10;&#9654;&#9644; EMP Shield   https://www.empshield.com?coupon=deepsouth&#10;&#10;&#9654;Visit  HOSS TOOL  (affiliate link):  For ALL your Garden Tools and Seeds&#10;http://www.shareasale.com/r.cfm?B=862842&#38;U=1327136&#38;M=65739&#38;urllink          &#10;&#10;&#9654; Visit   GreenStalk Vertical Planters  __ You get $10 off you order using our link.   code word  Deepsouth&#10;http://lddy.no/7pg9&#10;&#10;&#9654;&#9644; Renogy Solar Panel Kit  10% discount  Promo code:  DeepSouthHomestead https://shareasale.com/r.cfm?b=1628429&#38;u=1327136&#38;m=96785&#38;urllink=&#38;afftrack=&#10;&#9654;&#9644; *** CANNING LIDS***  &#10;https://forjars.shop  promo code DEEPSOUTH10&#10;&#9654;&#9644; Remington Solar Greenhouses:  10 x 10  or 10 x 20  Financing Available&#10;https://remingtonsolar.com/?ref+Wandaking&#10;&#9654;Danny and Wanda's KUJO Yardwear SHOES  https://www.kujo.com/?ref=deepsouth promo code DeepSouth  for 10% off &#10;&#9654;&#9644;Herbal Coffee  https://teeccino.com/discount/deepsouth?dt_id=12401&#10;THANKS FOR WATCHING!"
-    channeltitle "Deep South Homestead"
-    channelid "UCn0P1Q-lAsIwnIM8wDPCg_g"
+    date "2019-09-03T00:48:56Z"
+    title "WTC Building 7 Falls on 9/11 (2008 release)"
+    description "The NIST report finally explained it in 2008. (Time should say 5:20) Converted original file to HD with video enhancer and virtual dub. &#34;Do YOU work in a large office building?&#34; LOL https://www.youtube.com/watch?v=L7U22m9xLrQ Thanks, James. FYI all, perhaps the best WTC7 compilation video is here: https://www.youtube.com/watch?v=JnLcUxV1dPo"
+    channeltitle "CTV911"
+    channelid "UC2ps2FIYIIgtv8rJN5N7mMA"
     favcount 0
-    viewcount 35579
-    likecount 3532
-    commentcount 1054
-    duration "PT44M30S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    viewcount 4804
+    likecount 93
+    commentcount 51
+    duration "PT13S"
+    indegree 6
+    sentiment 1
+    cluster 10
   ]
   node
   [
-    id 73
-    name "97"
+    id 97
     label "tImTkBHtxKo"
     step 0
     date "2022-07-01T08:00:26Z"
@@ -2064,21 +1425,12 @@ graph
     commentcount 0
     duration "PT10M28S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 74
-    name "98"
+    id 98
     label "LSD3_8UVRpg"
     step 0
     date "2016-09-27T12:17:33Z"
@@ -2092,21 +1444,12 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 75
-    name "99"
+    id 99
     label "bWorDrTC0Qg"
     step 0
     date "2010-09-06T15:22:40Z"
@@ -2120,21 +1463,12 @@ graph
     commentcount -1
     duration "PT2M31S"
     indegree 7
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 76
-    name "100"
+    id 100
     label "wxMiTIFPAjE"
     step 0
     date "2018-03-26T19:05:11Z"
@@ -2148,49 +1482,31 @@ graph
     commentcount 548
     duration "PT5M19S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 77
-    name "101"
-    label "M4O-qXVL-Co"
-    step 0
-    date "2022-07-09T17:00:20Z"
-    title "Yu-Gi-Oh!: Kazuki Takahashis Masterpiece - Kirblog 7/9/22"
-    description "I'm joined by Dave Evelyn, fellow avid Yu-Gi-Oh! fan, to discuss the work of the recently passed Kazuki Takahashi and how it affected our lives. Our favorite story arcs, our favorite characters, Takahashi-san's art and history and much more.&#10;&#10;Follow Dave on Twitter! https://twitter.com/shinhoroko&#10;&#10;Read the original Yu-Gi-Oh! manga! https://www.viz.com/yu-gi-oh&#10;_______________________________________&#10;https://twitter.com/kirbopher&#13;&#10;https://twitter.com/TOMERPG&#13;&#10;https://www.facebook.com/TOMEseries"
-    channeltitle "Christopher Niosi"
-    channelid "UCKnUnMncnZ7zHxtxBNzdvaA"
-    favcount 0
-    viewcount 1222
-    likecount 111
-    commentcount 16
-    duration "PT1H32M5S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 78
-    name "108"
+    id 107
+    label "5WQXEHQlNM4"
+    step 0
+    date "2019-05-26T23:21:02Z"
+    title "CBS News - Dan Rather describes collapse of World Trade Center Building 7"
+    description "CBS News - Dan Rather describes collapse of World Trade Center Building 7 on September 11, 2001."
+    channeltitle "John Ekonomou"
+    channelid "UCKnZkMSIAp2JT73aPwpTXtw"
+    favcount 0
+    viewcount 347
+    likecount 7
+    commentcount 3
+    duration "PT36S"
+    indegree 0
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 108
     label "RYLI-kKwsZ4"
     step 0
     date "2021-09-13T18:48:47Z"
@@ -2204,21 +1520,12 @@ graph
     commentcount 2
     duration "PT7M3S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 79
-    name "109"
+    id 109
     label "KMlWbCQ48x4"
     step 0
     date "2020-09-23T13:23:50Z"
@@ -2232,49 +1539,31 @@ graph
     commentcount 2
     duration "PT1M25S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 80
-    name "110"
-    label "fU-2x3N3QTk"
-    step 0
-    date "2022-07-09T22:46:35Z"
-    title "Test Riding the Voodoo Banshee"
-    description "I finally got to throw a leg over the Banshee and it was an epic experience. Sabo built an amazing machine and it was one of the craziest ATV's I've ever ridden. Huge shout out to him for letting me take it for a rip! &#10;&#10;Mikes Channel https://www.youtube.com/c/MichaelSabo&#10;Voodoo Banshee build finale https://youtu.be/ppp8KtT0Rmc&#10;&#10;Our Website https://petehager.com/&#10;&#10;Chapters&#10;0:00-1:26 Intro&#10;1:27-3:35 Machine Overview&#10;3:36-5:25 First Ride&#10;5:26-6:33 First Impressions&#10;6:34-9:10 Second Ride&#10;9:11-9:40 Ride Break&#10;9:41-13:26 Trail Riding&#10;13:27-15:07 Final Thoughts&#10;15:08-15:26 Outro&#10;&#10;Music sourced through epidemic sound&#10;Closing song &#34;Sparkling80s&#34; by Andreas Dahlbacky&#10;&#10;Camera Gear-&#10;GoPro Hero 7 https://amzn.to/2MHvxVl&#10;**Must purchase GoPro adapter to run microphone https://amzn.to/2SjdM3O&#10;Motovlog Mic Purple Panda DISCOUNT LINK https://www.purplepandastore.com/products/purple-panda-lavalier-microphone-kit&#10;3rd Person Filmed with Sony A6000 https://amzn.to/2XoVfWD&#10;3rd Person Mic-Sony Zoom Microphone https://amzn.to/2Xtv6Wp&#10;3rd Person Wind Muff- https://amzn.to/2x5Lluf&#10;Iphone 13 Pro for Cinematics&#10;&#10;Follow Me On:&#10;Instagram- https://www.instagram.com/pete.hager/&#10;Facebook- https://www.facebook.com/Pete-Hager-Media-2151982125062349&#10;&#10;#savesportquads"
-    channeltitle "Pete Hager"
-    channelid "UCj_JTCJIYU7qOVXqfx0vFLw"
-    favcount 0
-    viewcount 29802
-    likecount 1103
-    commentcount 95
-    duration "PT15M27S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 81
-    name "113"
+    id 112
+    label "UV4V1uEBVvs"
+    step 0
+    date "2021-09-08T00:43:08Z"
+    title "9/11 building 7 new video"
+    description ""
+    channeltitle "Civil Disorder"
+    channelid "UCxkx6MiL3mf_IC6m1gXg3Mg"
+    favcount 0
+    viewcount 93
+    likecount 1
+    commentcount 2
+    duration "PT35S"
+    indegree 0
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 113
     label "4wD6_PpMcXc"
     step 0
     date "2021-09-07T22:23:11Z"
@@ -2288,49 +1577,31 @@ graph
     commentcount 0
     duration "PT2M31S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 82
-    name "114"
-    label "9V7_OelWHoM"
+    id 115
+    label "dhg0K7ybVF4"
     step 0
-    date "2021-09-11T07:15:01Z"
-    title "Terrible Tim - Building #7 and 9/11 song LYRICS"
-    description "a song that seems to be scrubbed from the internet, i found it on my computer just in time."
-    channeltitle "WORLD OF BUNNER"
-    channelid "UCxF66WS4czX2DmfTj87v63Q"
+    date "2021-04-26T02:01:35Z"
+    title "9/11 Inside Building 7 rare footage"
+    description "NIST FOIA WTC7   Office of Secure Transportation   William Bennette Mark LaGanga, CBS HD"
+    channeltitle "Bruce S"
+    channelid "UCpRp6NthmJpN8FDsYecNnxQ"
     favcount 0
-    viewcount 170
-    likecount 17
-    commentcount 2
-    duration "PT4M6S"
+    viewcount 285
+    likecount 9
+    commentcount 0
+    duration "PT5M8S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 83
-    name "116"
+    id 116
     label "gKQ_2jbgJIs"
     step 0
     date "2011-09-02T09:45:19Z"
@@ -2344,21 +1615,12 @@ graph
     commentcount 0
     duration "PT37S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 84
-    name "117"
+    id 117
     label "zEDM9pDY08g"
     step 0
     date "2012-01-08T21:45:58Z"
@@ -2372,49 +1634,31 @@ graph
     commentcount 1
     duration "PT1M20S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 85
-    name "118"
-    label "JeSttW7grrg"
+    id 119
+    label "iE2NJscLjuY"
     step 0
-    date "2022-07-09T14:30:17Z"
-    title "Houston forecast: Heat advisory in effect until 9 p.m."
-    description "We're expecting dangerously hot temperatures this weekend, practice heat safety precautions."
-    channeltitle "KHOU 11"
-    channelid "UCXwRxm0zS0jBNTMOVI6xZJw"
+    date "2010-07-29T13:41:18Z"
+    title "9-11 ABC News - ground zero, no fires in building #7 before collapse, melted cars"
+    description "ABC news uses seditious nuclear words 'ground zero' in this September 11 coverage at the end of the day. Besides, a ground zero responder describes that there were no fires in building #7 before its collapse, but mentions a truck 'putting water' on the WTC-7 - which is the standard and the well-known procedure in demolition industry: all structures are always doused with water to minimize dust release during their controlled demolition. For more information visit www.911thology.com  or   www.911thology.cn&#10;Please, consider donating: &#10;http://911thology.com/donations_details.html&#10;Full version of my book on 9/11thology: &#8220;Third Truth about 9/11&#8221; (free to download, but not free to read!):  http://www.911thology.com"
+    channeltitle "Dimitri Khalezov"
+    channelid "UCLYScy2-yp-8_0S4J0t_3cA"
     favcount 0
-    viewcount 3308
-    likecount 40
-    commentcount 3
-    duration "PT9M11S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    viewcount 3686
+    likecount 33
+    commentcount 5
+    duration "PT52S"
+    indegree 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 86
-    name "120"
+    id 120
     label "U8950hcKZXw"
     step 0
     date "2008-03-16T20:56:23Z"
@@ -2428,21 +1672,12 @@ graph
     commentcount 6
     duration "PT1M25S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 87
-    name "121"
+    id 121
     label "0vngXAlVVbI"
     step 0
     date "2022-06-25T01:33:06Z"
@@ -2456,49 +1691,31 @@ graph
     commentcount 0
     duration "PT1M2S"
     indegree 6
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 88
-    name "122"
-    label "MiqTsR4zyYQ"
+    id 123
+    label "pJpqv3U1l7w"
     step 0
-    date "2022-07-13T17:02:54Z"
-    title "Top 7 Best Places To Visit In Sicily Travel Guide"
-    description "If you Visiting Italy you must explore the 7 best things to do in Sicily with our Italy Travel guide we look closer to what to do in sicily with it's rich history featuring Greek temples,Byzantine mosaics and do not forget to visit the active Volcano of Sicily Mount Etna,it is one of highest volcanos in Europe.we hope you enjoy our selection of the  best places to visit in Sicily Italy let us know in the comment section below which is your favorite things to do in Sicily.&#10;&#10;The Gear I use&#10;&#10;Interchangeable Lens 4K Mirrorless Camera&#10;https://amzn.to/3QLiHWH&#10;&#10;Manfrotto Video Head&#10;https://amzn.to/3MHXZo4&#10;&#10;R&#216;DE Microphones GO II Wireless&#10;https://amzn.to/38COZ4A&#10;&#10;Samsung  Galaxy Tab A, 10.5&#34;&#10;https://amzn.to/3aPdQ4j&#10;&#10;Foval 150W Power Inverter &#10;https://amzn.to/2KF0BbF&#10;&#10;Interchangeable Lens Mirrorless Camera&#10;https://amzn.to/3QLiHWH&#10;&#10;Neewer 72.4 inches Aluminum Camera Tripod&#10;https://amzn.to/2L2kCbW&#10;&#10;Jabra Elite  pro-Earbuds&#10;https://amzn.to/3KQRspB&#10;&#10;This post contains links to products that I may receive compensation from at no additional cost to you, which helps me make more videos and you Help support this channel Thank You!&#10;As an Amazon Associate, I earn from qualifying purchases.&#10;&#10;Hello, Travelers Welcome everybody This is Anthony also known as the Travel Droner here on this channel we create videos discussing amazing travel facts and amazing destinations and top ten videos so join us on our journey around the world by subscribing to our channel please click the bell icon to get notified when we publish a new video.&#10;&#10;&#128276; Subscribe for 2 new videos EVERY WEEK! &#10;https://www.youtube.com/traveldroner?sub_confirmation=1&#10;&#10;&#128073; Check Out These Popular Videos&#10;&#10;&#9654;&#65039; Top 10 Best Countries To Live Cheap In The World&#10;https://youtu.be/wKN9VTuKlk0&#10;&#10;&#9654;&#65039; Top 10 Most Exotic Places to Travel to in the world&#10;https://youtu.be/QshLiUoZrrs&#10;&#10;&#9654;&#65039; Top 10 Best Places in the Philippines&#10;https://youtu.be/FTimsLaPV_Q&#10;&#10;&#9654;&#65039;Top  10 Best Islands to buy Property and Retire&#10;https://youtu.be/1n3zhoxK3VM&#10;&#10;&#9654;&#65039; The Top 10 places to visit in Greece&#10;https://youtu.be/9vPCSoijvUE&#10;&#10;&#10;&#128073; Stay Connected With Travel Droner&#10;&#10;&#9654;&#65039; Facebook: https://www.facebook.com/thetraveldroner&#10;&#9654;&#65039; Twitter: https://twitter.com/traveldroner&#10;&#9654;&#65039; Website: http://www.traveldroner.com/&#10;&#10;&#10;&#10132;&#128276; Don't Forget To SUBSCRIBE!&#10;https://www.youtube.com/channel/UC2rkgW49nwJyQp3JHZxh5IQ/sub_confirmation=1&#10;&#10;Footage&#10;&#10;Title: &#8220;(HD) Walking Tour Bs.As. - Ma&#241;ana lluviosa por Palermo&#8221;&#10;Creator: &#8220;alcon ph&#8220;&#8212; https://www.youtube.com/channel/UCsLT-6okCuCyxJtcmog0LIg&#10;Source: &#8220;https://youtu.be/j8-ngx4f3po.&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;Title: &#8220;Civico Museo di Storia ed Arte - Orto Lapidario - Trieste [ENG]&#8221;&#10;Creator: &#8220;Comune di Trieste&#8220; https://www.youtube.com/channel/UC8kAiuN_0wG7pK0vjQuToRw.&#10;Source: &#8220;https://youtu.be/4Y-k9MFEaMk.&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;Title: &#8220;Cath&#233;drale Monreale Sicile&#8221;&#10;Creator: &#8220;Moije4769&#8220;&#8212; https://www.youtube.com/channel/UCKFeqJUWsOHfQcRu7yz84iw.&#10;Source: &#8220;https://youtu.be/1eVefiCqnVI&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;Title: &#8220;Cathedra of Monreal - Sicily.mpg&#8221;&#10;Creator: &#8220;Mircea Costiniuc&#8220;&#8212;https://www.youtube.com/channel/UC_UbS-rTDXSzMPTRdUX8S9w&#10;Source: &#8220;https://youtu.be/yB8aSV5h2f8&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;Title: &#8220;Sicily: Cefalu Beach Paradise&#8221;&#10;Creator: &#8220;Mary Bartnikowski&#8220;&#8212; https://www.youtube.com/channel/UCSbSvTMZ4NXg7WuL1MkIXow&#10;Source: &#8220;https://youtu.be/NuIMYo40n_A&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;Title: &#8220;Sicilie Taormina luxe vakantie villa met zeezicht en zwembad, voor een top Italiaanse strandvakantie&#8221;&#10;Creator: &#8220;Ronalds Italie&#8220; https://www.youtube.com/channel/UCyEMVMeka6nFMjTkqzD1SgA&#10;Source: &#8220;https://youtu.be/RgtH6fdiQ5E&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;Title: &#8220;Etna Volcano - The Mountain of Fire - Italy Sicily PHANTOM 4 DRONE 4K&#8221;&#10;Creator: &#8220;World&#38;Drone&#8220;&#8212; https://www.youtube.com/channel/UCpJNe2U__O6bMNMWdo0IhsQ&#10;Source: &#8220;https://youtu.be/PMbmNXF2vuM&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;Title: &#8220;Wonderful Alcantara Gorges, Siciliy, Italy&#8221;&#10;Creator: &#8220;Calatorul Roman&#8220;&#8212; https://www.youtube.com/channel/UCjEMdZa-JnsHfgUqvtUN0HA&#10;Source: &#8220;https://youtu.be/1CWZbHF0zk8&#10;License: &#8220;CC BY 2.0&#8221;&#8212;https://creativecommons.org/licenses/by/2.0/.&#10;&#10;#traveldroner #sicily #italytravel things to do in sicily italy"
-    channeltitle "Travel Droner"
-    channelid "UC2rkgW49nwJyQp3JHZxh5IQ"
+    date "2013-09-01T19:23:38Z"
+    title "WTC-7 : The THIRD building that fell on 9/11 at free fall speed"
+    description "cant spread this video around too much. p.s. a repost, but feel free to download it and spread it around. youtube downloader is still free, it is called 'YTD video downloader'. google it to find it."
+    channeltitle "vengencefrom1979"
+    channelid "UCpXYmbe8jgD68NnvyeV6nUQ"
     favcount 0
-    viewcount 39
-    likecount 6
-    commentcount 6
-    duration "PT9M11S"
+    viewcount 12601
+    likecount 44
+    commentcount 4
+    duration "PT2M31S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 89
-    name "124"
+    id 124
     label "bUxqgDV2osY"
     step 0
     date "2011-03-29T11:52:11Z"
@@ -2512,21 +1729,12 @@ graph
     commentcount 19
     duration "PT31S"
     indegree 1
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 90
-    name "125"
+    id 125
     label "4e-CxHOf424"
     step 0
     date "2013-11-10T17:33:52Z"
@@ -2540,21 +1748,12 @@ graph
     commentcount 118
     duration "PT3M26S"
     indegree 5
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 91
-    name "126"
+    id 126
     label "C3E-26oVIIs"
     step 0
     date "2006-06-05T17:25:21Z"
@@ -2568,49 +1767,31 @@ graph
     commentcount 364
     duration "PT58S"
     indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 8
   ]
   node
   [
-    id 92
-    name "127"
-    label "bxKcjjIOQRY"
+    id 130
+    label "JPV4LgbjGd4"
     step 0
-    date "2011-09-02T18:05:06Z"
-    title "Martin Noakes - 9/11 Building 7"
-    description "An original music video that explores a few of the myriad of unanswered questions surrounding the events of 9/11."
-    channeltitle "TheAntiNWOMusic"
-    channelid "UCGucPJXNTGtLY3CM2BjS6Vg"
+    date "2016-09-14T20:04:28Z"
+    title "Steve Spak Building 7 Footage"
+    description "This is Steve Spak&#8217;s footage of World Trade Center 7 on 9/11 prior to its collapse."
+    channeltitle "OffGuardian"
+    channelid "UCKoUcSx89qaC4E8l1aYhNAw"
     favcount 0
-    viewcount 4107
-    likecount 130
-    commentcount 36
-    duration "PT4M50S"
+    viewcount 1664
+    likecount 7
+    commentcount -1
+    duration "PT11M8S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 10
   ]
   node
   [
-    id 93
-    name "131"
+    id 131
     label "347LgFQj19o"
     step 0
     date "2020-08-02T17:12:12Z"
@@ -2624,49 +1805,31 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 4
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 10
   ]
   node
   [
-    id 94
-    name "132"
-    label "lb6lI1t2IR0"
+    id 135
+    label "dY8J-gs9f6k"
     step 0
-    date "2022-07-11T19:15:01Z"
-    title "Insane Facts You Never Knew About the US Military"
-    description "The US Military has been protecting Americans for hundreds of years - and it&#8217;s developed a lot of secrets in that time. Don't miss today's epic video that counts down 50 of the most insane military facts!&#10;&#10;&#10;&#128276; SUBSCRIBE TO THE INFOGRAPHICS SHOW &#9658; https://www.youtube.com/c/theinfographicsshowOFFICIAL?sub_confirmation=1&#10;&#10;&#128278; MY SOCIAL PAGES&#10;TikTok &#9658; https://www.tiktok.com/@theinfographicsshow&#10;Discord &#9658; https://discord.gg/theinfographicsshow&#10;Facebook &#9658; https://www.facebook.com/TheInfographicsShow&#10;Twitter &#9658; https://twitter.com/TheInfoShow&#10;&#10;&#10;&#128173; Find more interesting stuff on:&#10;https://www.theinfographicsshow.com&#10;&#10;&#10;&#128221; SOURCES:https://pastebin.com/hQ1cDBhF&#10;&#10;All videos are based on publicly available information unless otherwise noted."
-    channeltitle "The Infographics Show"
-    channelid "UCfdNM3NAhaBOXCafH7krzrA"
+    date "2020-09-23T13:29:04Z"
+    title "9/11 Inside Job: WTC Building 7 Collapses Without A Plane Hitting It"
+    description "Controlled Demolition. &#10;What is the excuse for this then smh"
+    channeltitle "Becky"
+    channelid "UCE1hMMIhSh9Y-Q5EUwQXZ_g"
     favcount 0
-    viewcount 318218
-    likecount 9566
-    commentcount 838
-    duration "PT26M47S"
+    viewcount 294
+    likecount 8
+    commentcount 1
+    duration "PT1M25S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 95
-    name "136"
+    id 136
     label "Fr8UK1xmEas"
     step 0
     date "2015-10-27T02:58:02Z"
@@ -2680,105 +1843,69 @@ graph
     commentcount -1
     duration "PT4M47S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 96
-    name "137"
-    label "i1Rmyvws5Sc"
+    id 144
+    label "bUvscqHYO4c"
     step 0
-    date "2019-08-30T04:06:15Z"
-    title "Divisibility Rule | Must Known Tricks | For All Exam | By Kaneesh"
-    description "Click Here for Platinum Mock Test Pack Valid for 12 Months @ Rs.399: https://crackwithjack.com/plan&#10;&#10;Banking Awareness Free E-book -  https://crackwithjack.com/ebook/banking-awareness&#10;&#10;Our Website - https://crackwithjack.com&#10;&#10;399 Yearly Package - https://crackwithjack.com/plan&#10;&#10;IBPS PO Prelims - https://crackwithjack.com/ibps-po-mock-test&#10;EPFO SSA Prelims - https://crackwithjack.com/mock-test-series/epfo-ssa-prelims-online-mock-test-2019&#10;ESIC UDC Mains - https://crackwithjack.com/mock-test-series/esic-udc-mains-online-mock-test&#10;IBPS RRB PO Mains - https://crackwithjack.com/mock-test-series/ibps-rrb-officers-scale-i-mains-2019-online-mock-test&#10;IBPS RRB Clerk Mains - https://crackwithjack.com/mock-test-series/ibps-rrb-office-assistant-mains-test-series-package&#10;LIC HFL - https://crackwithjack.com/lic-hfl-online-mock-test&#10;&#10;#CWJ #crackwithjack #simplification"
-    channeltitle "Crack with Jack"
-    channelid "UCDSkjqkm5k0xv9ejdV2QlPQ"
+    date "2007-10-08T20:15:07Z"
+    title "WTC7 - World Trade Center Building 7 on History Channel"
+    description "Re-encoded Xenomorph911's download of WTC7 to 320x240 framebased XviD (audio removed).&#13;&#10;&#13;&#10;You can find his original high quality 640x480 at :&#13;&#10;&#13;&#10;http://www.megaupload.com/?d=8QY2IHVR&#13;&#10;&#13;&#10;On YouTube at :&#13;&#10;&#13;&#10;http://www.youtube.com/watch?v=QhCf-gAhOCw&#13;&#10;&#13;&#10;Please watch Xenomorph911's great selection of 9/11 Truth videos at :&#13;&#10;&#13;&#10;http://www.youtube.com/user/Xenomorph911&#13;&#10;&#13;&#10;---&#13;&#10;&#13;&#10;To know more about 9/11, please visit...&#13;&#10;&#13;&#10;- http://www.911blogger.com/&#13;&#10;- http://www.pilotsfor911truth.org/&#13;&#10;- http://loosechange911.com&#13;&#10;- http://thepentacon.com/&#13;&#10;&#13;&#10;There are many others, including...&#13;&#10;&#13;&#10;Architects &#38; Engineers for 9/11 Truth&#13;&#10;http://www.ae911truth.org/&#13;&#10;--&#13;&#10;Scholars for 9/11 Truth &#38; Justice&#13;&#10;http://stj911.org/&#13;&#10;--&#13;&#10;Senior Military, Intelligence, Law Enforcement and Government Officials Question the 9/11 Commission Report&#13;&#10;http://patriotsquestion911.com/&#13;&#10;&#13;&#10;--- Thanks and best wishes"
+    channeltitle "911veritas"
+    channelid "UC9Nwy5gypl5Ci3VGkT91IUg"
     favcount 0
-    viewcount 139272
-    likecount 3956
-    commentcount 202
-    duration "PT27M22S"
+    viewcount 6316
+    likecount 9
+    commentcount 2
+    duration "PT44S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 97
-    name "145"
-    label "mFY0eNG3yjU"
-    step 0
-    date "2022-07-09T01:34:05Z"
-    title "New state law changes Oregon justice systems pretrial release methods | The Story | July 8, 2022"
-    description "July 8, 2022 on The Story: Under a new state law that became effective July 1, Oregon began adjudicating the pretrial release of criminal defendants based on their potential danger to the community more so than on their ability to pay bail. It&#8217;s a method meant to make the criminal justice system more just, breaking down traditional barriers for the poor and people of color while continuing to keep high-threat offenders off the streets. But the recent case of a man who allegedly directed a targeted and vicious attack against an Asian family on Portland&#8217;s Eastbank Esplanade, and his swift release from jail, underlines how there continue to be major pitfalls in our justice system that could endanger victims.&#10;&#10;&#10;Subscribe: https://www.youtube.com/c/KGWNews8&#10;Watch the latest KGW newscast: https://www.kgw.com/watch &#10;Get the KGW app: https://kgw.com/appredirect"
-    channeltitle "KGW News"
-    channelid "UCKgAB8lqTbqbwXC-e6_9lhQ"
-    favcount 0
-    viewcount 617
-    likecount -1
-    commentcount 4
-    duration "PT30M55S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 98
-    name "147"
-    label "rl7sPjXwYDM"
+    id 146
+    label "apmiEzx4CkE"
     step 0
-    date "2022-07-13T01:05:37Z"
-    title "9/11 2001 Building 7 Multiple Views Synced"
-    description ""
-    channeltitle "MyNews"
-    channelid "UCm9KuBH3G5VRb2NclWH89_A"
+    date "2015-11-26T01:59:30Z"
+    title "World Trade Center Building 7 Evaluation Introduction"
+    description "http://WTC7Evaluation.org &#10;&#10;World Trade Center Building 7 Evaluation is an engineering study at the University of Alaska Fairbanks (UAF) using finite element modeling to evaluate the possible causes of World Trade Center Building 7&#8217;s collapse. The study is being conducted by Dr. J. Leroy Hulsey, Chair of UAF's Civil and Environmental Engineering Department, and two Ph.D. research assistants. Professionals from the fields of structural engineering, civil engineering, mechanical engineering, architecture, building design and construction, physics, math, and science, as well as everyday citizens, are invited to get involved. Every aspect of the scientific process will be posted onhttp://WTC7Evaluation.org. The study is being crowd-funded by the nonprofit organization Architects &#38; Engineers for 9/11 Truth.&#10;&#10;For more information visit http://WTC7Evaluation.org&#10;&#10;Subscribe to stay updated, and please share with your colleagues"
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
-    viewcount 11
-    likecount 0
-    commentcount 0
-    duration "PT43S"
-    indegree 1
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    viewcount 43938
+    likecount 774
+    commentcount 21
+    duration "PT2M14S"
+    indegree 0
+    sentiment 1
+    cluster 11
   ]
   node
   [
-    id 99
-    name "154"
+    id 153
+    label "679xhTZZyog"
+    step 0
+    date "2010-09-16T12:25:54Z"
+    title "Steve Spak Building 7 Footage"
+    description "Showing what little fire actually was in building 7."
+    channeltitle "infontek"
+    channelid "UCCV0S1m0P8iAbI6AWi-8nbw"
+    favcount 0
+    viewcount 1842
+    likecount 14
+    commentcount 17
+    duration "PT11M8S"
+    indegree 5
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 154
     label "rA8mweZvcS4"
     step 0
     date "2014-08-06T05:09:50Z"
@@ -2792,217 +1919,145 @@ graph
     commentcount 4
     duration "PT33S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 100
-    name "155"
-    label "Hpm9qSUJOt4"
+    id 156
+    label "FWkUxr_fuU4"
     step 0
-    date "2022-03-26T03:29:00Z"
-    title "MY NEW Building 7 Collapse Video 2022 AP Archive"
-    description "MY NEW Building 7 Collapse Video 2022 AP Archive"
-    channeltitle "Rare 9/11 Facts"
-    channelid "UCOch_SItPku1FqXKLMe9lqg"
+    date "2020-04-19T15:17:42Z"
+    title "9 11 Building 7 Collapse. Explosions and close-up."
+    description "Building 7 was the first steel framed skyscraper in history to be brought down purely by fire (according to the government, burning office furnishings caused the collapse).  No aircraft came near the building. Other steel-framed skyscrapers have experienced far more serious fires than Building 7.&#10;WTC 7 fell straight down, which necessitated that all of the load-bearing columns be broken at the same moment. Inflicting such damage with the precision required to prevent a building from toppling and damaging adjacent buildings is what the science of controlled demolition is all about. No random events, such as the debris damage and fires envisioned by the official reports, or explosions from fuel tanks proposed by some, could be expected to result in such a tidy and complete collapse.&#10;WTC 7 fell precipitously, at a rate closely approaching the speed of gravitational free-fall. That necessitated the sudden removal of structure near ground level that would have impeded its descent.&#10;The collapse of WTC 7 exhibited all of the features of a standard controlled demolition. To suppose that a cause other than controlled demolition could produce an event with all of the features uniquely characteristic of controlled demolition defies logic."
+    channeltitle "Waking up the World"
+    channelid "UCl4QVzxRmSHK2hScoNglk9Q"
     favcount 0
-    viewcount 118
-    likecount 5
-    commentcount 7
-    duration "PT1M43S"
+    viewcount 875
+    likecount 17
+    commentcount 3
+    duration "PT54S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 101
-    name "157"
-    label "v11ld9hhdhU"
+    id 162
+    label "EUwrMNacW1U"
     step 0
-    date "2015-01-15T07:00:19Z"
-    title "(9/11/01) Remember Building 7 : 10th Anniversary TV Ad"
-    description ""
-    channeltitle "Anonymous Gui"
-    channelid "UCVDdDz2G6NgT6-EJEt7NMxw"
-    favcount 0
-    viewcount 367
-    likecount 2
-    commentcount 0
-    duration "PT37S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 102
-    name "163"
-    label "LT8RH8ovOvk"
-    step 0
-    date "2012-01-24T19:15:09Z"
+    date "2012-01-18T11:21:02Z"
     title "9 11 10th Anniversary Campaign by Remember Building 7"
     description " "
-    channeltitle "douglas bickford"
-    channelid "UCbUlAdfKeVVAEB11m4LsVfw"
+    channeltitle "TruthTVBurkinaFaso"
+    channelid "UCkUvhjzFGQBWKmfiFW0NpIA"
     favcount 0
-    viewcount 1
+    viewcount 2
     likecount 0
     commentcount 0
     duration "PT37S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 103
-    name "173"
-    label "0pGxFlonJAA"
+    id 172
+    label "hycank4AxBo"
     step 0
-    date "2011-07-17T22:49:21Z"
-    title "9/11 WTC 7 - Keep An Eye On That Building Its Coming Down ..... The Building Is About To Blow Up"
-    description "0:40 Poll: Half of US blames Bush admin for 9/11 ...... Demolition crew evacuating the World Trade Center Solomon Building"
+    date "2012-08-31T02:22:23Z"
+    title "WTC 7 Freefall - World Trade Center Building 7 Collapse"
+    description "Most people have never seen footage of WTC Building 7's notorious freefall collapse on September 11, 2001. It was only broadcast a few times on that tragic day. In 2013, polls suggest that when people see the footage of its collapse many suspect it was a controlled demolition. Over 3000 licensed and professional architects and engineers are calling for a new investigation of World Trade Center Building 7 and the Twin Towers (WTC 1 and WTC 2) at Architects &#38; Engineers For 9/11 Truth. There are professional and general public petitions being signed there at www.ae911truth.org. The YouGov poll information is available here: https://yougov.co.uk/news/2013/09/12/new-poll-finds-most-americans-open-alternative-911&#10;&#10;Subscribe to the channel here for more videos and updates, including this &#34;Most Watched&#34; and &#34;Most Shared&#34; 9/11 documentary broadcast on public television in Colorado and through the PBS national website when it was released in 2012:&#10;https://youtu.be/1l-8PFk8j5I&#10;&#10;Check out WTC 7 Evaluation with Dr. Leroy Hulsey at the University of Alaska Fairbanks for updates on his breakthrough finite element analysis report of WTC Building 7. Using advanced mathematics, he and two of his PhD students are using two different software systems to examine and calculate all of the possibilities which could explain WTC 7's symmetrical, freefall collapse into its own footprint at 5:20pm on 9/11:&#10;http://www.wtc7evaluation.org&#10;Project trailer on YouTube:&#10;https://youtu.be/C-VNjYXU-CE"
+    channeltitle "Francis Battaglia"
+    channelid "UCUf5rYCAnI0Mg5trbmWEkSQ"
+    favcount 0
+    viewcount 72910
+    likecount 423
+    commentcount 9
+    duration "PT45S"
+    indegree 2
+    sentiment 1
+    cluster 8
+  ]
+  node
+  [
+    id 174
+    label "FL9CCZFuDFY"
+    step 0
+    date "2020-04-17T20:28:03Z"
+    title "SEVEN Official Teaser (2020) | World Trade Center Building 7"
+    description "&#8220;SEVEN&#8221; is a documentary about the extraordinary conclusions of the University of Alaska Fairbanks study on the destruction of World Trade Center Building 7 and the epic failure of our institutions to tell the truth.&#10;&#10;Subscribe for updates on the upcoming release of the film. For more information and to receive email updates, visit https://AE911Truth.org.&#10;&#10;Make a gift to help promote the film&#8217;s release.&#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=HHJ5MTUWJW4PQ&#38;source=url"
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
+    favcount 0
+    viewcount 102015
+    likecount 3611
+    commentcount 686
+    duration "PT2M1S"
+    indegree 6
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 179
+    label "6-0e1Br1ctY"
+    step 0
+    date "2012-11-20T21:06:13Z"
+    title "9/11 BBC WTC 7 Solomon Building Has Collapsed 427pm (1 Hour Before Actual Collapse)"
+    description ""
     channeltitle "911InvestigationVids"
     channelid "UCBp6IQZpN_QnpBXP-aUuJxQ"
     favcount 0
-    viewcount 1287
-    likecount 9
+    viewcount 1637
+    likecount 13
     commentcount 3
-    duration "PT52S"
+    duration "PT1M2S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
-  ]
-  node
-  [
-    id 104
-    name "175"
-    label "RLoO25d3dic"
-    step 0
-    date "2022-07-08T08:08:44Z"
-    title "FDNY Captain Patterson Spills the Beans on 9/11"
-    description "Explosions at the Twin Towers; Picking up aircraft parts; Paramilitary at Building 7&#10;&#10;Captain Richard Patterson, FDNY, ret., was an institution himself in the New York Fire Department. He was off-duty on 9/11 in Uptown NY, but made his way down to the World Trade Center hitching a ride on an ambulance. &#10;&#10;He is my guest today on RichardGage911:UNLEASHED!&#10;&#10;He was carrying out duties just outside the North Tower when he was knocked back by explosions. He survived, but lost 41 firefighters that morning&#8212;brothers who he new personally. He saw the jumpers from the towers, and he picked up body parts from the aftermath of the explosive destruction. &#10;&#10;Captain Patterson has a Bachelor of Arts in&#160;Fire Service Administration from John Jay College, and 20 years as a firefighter."
-    channeltitle "RichardGage911WTC"
-    channelid "UCxf4b9mDWZf-TXw2y3X-zug"
-    favcount 0
-    viewcount 307
-    likecount 23
-    commentcount 13
-    duration "PT3M57S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 105
-    name "180"
-    label "vxLFhzYq7rM"
+    id 182
+    label "sW5TRGcJnAk"
     step 0
-    date "2014-04-14T16:02:38Z"
-    title "9/11 Building 7 Controlled Demolition"
-    description "Building 7 was brought down by a controlled demolition on Sept. 11th 2001. Turn off your TVs and do your own research."
-    channeltitle "Darrin McBreen"
-    channelid "UCoGTUZHK3eQIFVQ850Lm_zA"
+    date "2009-09-08T21:28:05Z"
+    title "9/11: Caught on Tape: WTC Building 7 Damaged by Falling Debris from Twin Towers (Earlier Version)"
+    description "NEW VERSION AT    /watch?v=nEgPNNcdtu4&#13;&#10;&#13;&#10;This ABC News Video from 9/11 shows damage to the upper floors of WTC7, from debris falling from the collapse of the WTC twin towers.  Far greater damage down near the street is NOT visible from this angle with smoke.  However, this proves that WTC Bldg 7 was struck by debris from the WTC twin towers collapse.   SEE UPDATED VERSION    http://www.youtube.com/watch?v=p3_wCKwPAlo"
+    channeltitle "JonathonMoseley"
+    channelid "UCEnUwXx5OQCbJdOYMmucB5Q"
     favcount 0
-    viewcount 304
-    likecount 11
-    commentcount 1
-    duration "PT35S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 106
-    name "183"
-    label "bsUuQz4llMM"
-    step 0
-    date "2022-07-10T02:27:09Z"
-    title "LIVE: Donald Trump Rally in Alaska, 2024 Announcement Possible"
-    description "Support the stream: https://streamlabs.com/thedavidpakmanshow Support the stream, get a Membership at http://www.joinpakman.com with coupon code &#34;wow22&#34; for a huge discount&#13;&#10;&#13;&#10;Failed former President Donald Trump holds a rally in Anchorage, Alaska"
-    channeltitle "David Pakman Show"
-    channelid "UCvixJtaXuNdMPUGdOPcY8Ag"
-    favcount 0
-    viewcount 260792
-    likecount 5298
-    commentcount 4746
-    duration "PT3H21M21S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    viewcount 33019
+    likecount 24
+    commentcount 39
+    duration "PT51S"
+    indegree 3
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 107
-    name "185"
+    id 184
+    label "DwgHorgDPGo"
+    step 0
+    date "2009-10-09T03:49:47Z"
+    title "New York:BBC News Reporters  WTC 7 Building Collapse. Full Report"
+    description "BBC Reporting collapse before it happens"
+    channeltitle "Iamawarpig"
+    channelid "UCVHkPAGv4Y-W6f1oehOcVCg"
+    favcount 0
+    viewcount 8159
+    likecount 109
+    commentcount 44
+    duration "PT9M27S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 185
     label "j2q2mD2HaKA"
     step 0
     date "2007-01-11T03:48:22Z"
@@ -3016,49 +2071,31 @@ graph
     commentcount 919
     duration "PT1M1S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 108
-    name "186"
-    label "3s-0Adk3fFg"
-    step 0
-    date "2022-07-11T07:37:44Z"
-    title "SSC Selection Post Phase 10 | English By Pratibha Singh | 50 Most Important Questions | Day 2"
-    description "SSC Selection Post Phase 10 | English By Pratibha Singh |  50 Most Important Questions | Day 2 | SSC Selection Post Phase X Syllabus Classes | SSC Selection Post Phase 10 Notification 2022 Classes &#10;&#10;#SSCSelectionPostAdda247 #SSCPhase10 #English&#10;&#10;[PLAYLIST LINK]: https://youtube.com/playlist?list=PLQYgCxDYkIswBpZCo6LHIC3B8kxXpjN3m&#10;&#10;Welcome to India's No.1 SSC and Railway Exams Preparation Channel SSC Adda247. Prepare for SSC Exams (SSC CGL, SSC CHSL, SSC GD Constable, SSC MTS, SSC CPO) and Railway Exams (DFCCIL, RRB NTPC, RRC Group D).&#10;******&#10;&#10;Fill this form to know more details about SSC Selection Post: https://forms.gle/KHjXmYPkcp57rUAr6&#10;&#10;SSC Selection Phase X Pre Recorded Videos | Complete Hinglish Batch By Adda247 : https://bit.ly/3MumcP0&#10;&#10;50+ SSC Selection Post Mock Tests for SSC Selection Phase X 2022 | Complete Bilingual Test Series by Adda247 : https://bit.ly/3PzUh1h&#10;&#10;SSC Maha Pack (Validity 12  Months) : https://bit.ly/3pf4Yf0&#10;******&#10;Download our Adda247 App: https://adda247.app.link/Z80o02II7pb  &#10;PDF Link :- https://bit.ly/3NfC5cv&#13;&#10;******&#10;&#10;SSC Adda247 Live Classes Schedule:-&#10;07 AM - Hindu Editorial&#10;08 AM - Daily Current Affairs&#10;&#10;9:00 AM - SSC Selection Post 2022 | Maths&#10;10:00 AM - SSC Selection Post 2022 | GS&#10;11:00 AM - SSC Selection Post 2022 | Reasoning&#10;12:00 PM - SSC Selection Post 2022 | English&#10;&#10;10:00 AM - Supreme Court Junior Court Assistant | Reasoning &#10;10:30 AM - Supreme Court Junior Court Assistant | English&#10;11:00 AM - Supreme Court Junior Court Assistant | Maths &#10;11:30 AM - Supreme Court Junior Court Assistant | GK/GS &#10;12:00 PM - Supreme Court Junior Court Assistant | Computer&#10;&#10;11:00 AM | SSC CGL Mains 2021 - 22 | English&#10;12:00 PM | SSC CGL Mains 2021 - 22 | Maths&#10;&#10;01 PM - SSC MTS 2021 -2022 | GENERAL STUDIES&#10;02 PM - SSC MTS 2021 -2022 | Reasoning&#10;03 PM - SSC MTS 2021 -2022 | English&#10;04 PM - SSC MTS 2021 -2022 | Maths&#10;05 PM - SSC MTS / Selection Post | Science&#10;&#10;01 PM - UPSSSC | ICAR | BIS  | English&#10;02 PM -UPSSSC | ICAR | BIS  | Maths&#10;03 PM - UPSSSC | ICAR | BIS  | GS&#10;&#10;05 PM- Delhi Police Head Constable (Ministerial) 2022  | English&#10;06 PM- Delhi Police Head Constable (Ministerial) 2022  | Reasoning&#10;07 PM - Delhi Police Head Constable (Ministerial) 2022  | GENERAL STUDIES&#10;08 PM - Delhi Police Head Constable (Ministerial) 2022  | Maths&#10;09 PM - Delhi Police Head Constable (Ministerial) 2022  | Science&#10;&#10;10 PM - SSC Foundation | Group D | Reasoning&#10;11 PM - SSC Foundation | Group D | Maths&#10;&#10;Follow us on Social Media:-&#10;&#8658;   Visit our SSC Adda website: http://bit.ly/2CidhNX&#10;&#8658;   Facebook Page: http://bit.ly/2PKGyJc&#10;&#8658;   Twitter: http://bit.ly/2r12JRx&#10;&#8658;   Instagram: http://bit.ly/2rMVMDF&#10;&#10;******&#10;&#10;#SSCPhase10Syllabus #SSCSelectionPostPhaseX #SSCPhase10PreviousYearQuestions #SSCPhase10Notification2022 #SSCSelectionPost #SSCAdda247 #SSCAdda247Classes #SSCAdda247Live"
-    channeltitle "SSC Adda247"
-    channelid "UCAyYBPzFioHUxvVZEn4rMJA"
-    favcount 0
-    viewcount 7176
-    likecount 501
-    commentcount 18
-    duration "PT1H4M20S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 109
-    name "189"
+    id 188
+    label "u7yRJ8AlhdA"
+    step 0
+    date "2022-04-24T15:36:12Z"
+    title "New #WTC #WTC7 Building 7 Explosion CNN"
+    description "New #WTC #WTC7 Building 7 Explosion CNN What the hell is that?"
+    channeltitle "Rare 9/11 Facts"
+    channelid "UCOch_SItPku1FqXKLMe9lqg"
+    favcount 0
+    viewcount 183
+    likecount 5
+    commentcount 6
+    duration "PT3M6S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 189
     label "BG1uJQlMrR0"
     step 0
     date "2014-09-10T17:00:39Z"
@@ -3072,77 +2109,50 @@ graph
     commentcount 0
     duration "PT15S"
     indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 110
-    name "190"
-    label "rBmROPo9sVw"
+    id 191
+    label "nP3TNHPCIVU"
     step 0
-    date "2022-07-07T04:37:24Z"
-    title "The Hindu News Analysis 7 July 2022 | UPSC CSE |"
-    description "Join our Telegram Group to get Daily Current Affairs PDF with MCQs&#10;Click: https://t.me/rajmalhotraias&#10;&#10;To know more about us, Visit https://www.rajiasacademy.com&#8203;&#10;Or Call: +917087000437&#10;.................................................................................................................................................................&#10;Welcome to Raj Malhotra's IAS !&#10;................................................................................................................................................................&#10;&#10;IMPORTANT LINKS:&#10;To attend our free demo classes; visit: https://learn.rajiasacademy.com/s/store/courses/description/Demo-Lectures-for-UPSC--By---Raj-Malhotras-IAS&#10;Facebook: https://www.facebook.com/RMISG&#10;YouTube: https://www.youtube.com/c/RajMalhotrasbestIASCoachingacademyChandigarh/videos&#8203;&#10;.................................................................................................................................................................&#10;To enroll into the course, Call: 7087000437 / 7087206042 / 9876764466 / 8557910002&#10;.................................................................................................................................................................&#10;Subscribe to our channel for more updates related to UPSC Civil Services Exam&#10;#thehindu  #theindianexpress  #pib  #currentaffairsmcqs  #thehinducurrentaffair  #pib #upsc   #ias     #prelims2022  #dailycurrentaffairs  #mains2021  #civilservices  #rajmalhotraias  #iascoachingchandigarh  #upscchandigarh   #rajmalhotraias"
-    channeltitle "Raj Malhotra's IAS Coaching in Chandigarh"
-    channelid "UCiJy3FiIjPhYZe5Swngx47Q"
+    date "2021-09-06T16:21:52Z"
+    title "Building 7 Explained: Comprehensive Final Edition"
+    description "The last word on the collapse of the original 7 World Trade Center on September 11, 2001. Running down the mainstream engineering explanation, debunking common Truther myths, and answering frequently asked questions. Comments may be intentionally demolished...make your own video if you want to spread misinformation about this engineering disaster, or about anything else.&#10;&#10;Interesting video #1: ABC News reports some time in the afternoon that 7 World Trade Center is expected to collapse due to fire: https://youtu.be/vrSCQeJb2CI?t=20&#10;&#10;Interesting video #2: Building 7 collapses in the background during a live interview. Notice how the sight of the building coming down startles people, but no one seemed to notice any sounds from demolition detonations that were supposedly taking down what would be the tallest building ever imploded in the world. Also this angle gives you a good idea of the height of Building 7 &#8212; it was a very tall office building by any city's standards. (Warning to sensitive viewers, emotionally intense) https://www.youtube.com/watch?v=_5XAUUnBYpY&#10;&#10;Thank you for supporting me on Patreon: http://patreon.com/edwardcurrent"
+    channeltitle "EdwardCurrent"
+    channelid "UC20U2rjFhakOCOlvJn0MAGg"
     favcount 0
-    viewcount 1346
-    likecount 73
-    commentcount 5
-    duration "PT58M22S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    viewcount 17118
+    likecount 778
+    commentcount 549
+    duration "PT18M37S"
+    indegree 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 111
-    name "192"
-    label "-uOASVjn0Rk"
+    id 193
+    label "edowrAzWQBo"
     step 0
-    date "2009-09-17T00:36:56Z"
-    title "9/11/09-Real Change Conference-Building 7"
-    description "A traitor owns this building!"
-    channeltitle "WeAreChangeIdaho"
-    channelid "UCQCbVpZnEN-GiymXpp5IwbQ"
+    date "2010-08-20T14:43:01Z"
+    title "Building 7 Collapse as seen from the west"
+    description "Original footage of Building 7 collapse, as seen from the west. Shown here at actual speed, half speed and quarter speed."
+    channeltitle "BuildingWhat"
+    channelid "UCygqn62_I9q51mgFE9UWKAA"
     favcount 0
-    viewcount 16
-    likecount 1
-    commentcount 0
-    duration "PT17S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    viewcount 22960
+    likecount -1
+    commentcount -1
+    duration "PT2M5S"
+    indegree 2
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 112
-    name "194"
+    id 194
     label "kWOjXMLP9j8"
     step 0
     date "2017-01-17T09:55:17Z"
@@ -3156,21 +2166,12 @@ graph
     commentcount 0
     duration "PT2M31S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 113
-    name "195"
+    id 195
     label "efGQ56tTXqQ"
     step 0
     date "2019-09-11T12:25:30Z"
@@ -3184,49 +2185,31 @@ graph
     commentcount -1
     duration "PT1M20S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 114
-    name "196"
-    label "NMRgGJFIo1E"
+    id 199
+    label "6W9r7Ldz4zE"
     step 0
-    date "2022-07-12T13:08:05Z"
-    title "[ Ukraine SITREP ] Day136-138 (9-11/7) Summary - Ukr planes falling like flies; Adjusting frontlines"
-    description "00:00 Intro&#10;00:51 Crossborder Shellings&#10;03:15 Mykolaiv Front (Oleksandrivka - Stanislav - Shyroke Balka)&#10;07:10 Mykolaiv Front (Kyselivka)&#10;08:16 Mykolaiv Front (Frontlines)&#10;09:18 Mykolaiv Front (Snihurivka)&#10;10:27 Mykolaiv Front (Ukr planes shot down)&#10;11:31 Davydiv Brid Front&#10;13:35 Kryvyi Rih Front&#10;13:59 Zaporizhzhia Line&#10;15:06 Mariupol railway operational&#10;16:17 Donetsk Front (East of Donetsk City)&#10;19:42 Increase air to air shot downs&#10;20:41 Curious case of Komar (North of Velyka Novosilka)&#10;22:15 Donetsk Front (North of Donetsk City)&#10;24:36 Bakhmut Front (South)&#10;28:08 Bakhmut Front (North)&#10;30:34 Luhansk (Lysychansk)&#10;31:49 Misinformation on Siversky Donets River crossings&#10;32:56 Izyum Front&#10;35:20 Izyum Front (Forest West of Izyum)&#10;36:59 Kharkiv Front&#10;39:23 Conclusion&#10;&#10;This is a summary / SITREP of Day 136-138's development in the Ukraine-Russia war as we &#34;start off&#34; the day in the afternoon (ukraine time) of Day 139 of Russian's &#34;Special Operation&#34; against Ukraine.&#10;&#10;You can find more information and the interactive map used in the video on https://defensepoliticsasia.com/Ukraine&#10;&#10;Twitter: https://twitter.com/defensepolitics&#10;Facebook: http://facebook.com/defensepolitics&#10;Instagram: https://www.instagram.com/defensepoliticsasia/&#10;Reddit: https://reddit.com/r/defensepoliticsasia/&#10;Telegram: https://t.me/defensepoliticsasia&#10;Discord: https://discord.gg/HG3Qmwjdbt&#10;&#10;Be a DPA Army Officer!!!&#10;Patreon: https://patreon.com/defensepoliticsasia/&#10;&#10;#UkraineWar  #UkraineRussiaWar  #RussianInvasion #UkraineRussianWar  #RussianUkrainianWar  #Russia #Ukraine"
-    channeltitle "Defense Politics Asia"
-    channelid "UCgGHiivhFq7M_1MLemh-cjg"
+    date "2012-12-26T00:40:33Z"
+    title "WKAJ TV Trailer - The Men In Building 7"
+    description "The most taboo subject in corporate media history, 9/11. In the Salomon Brothers Building, also known as WTC Building 7, there was an emergency bunker for the mayor and a bomb proof command center on the 23rd floor. A Case of AWOL or honest mistakes?&#10;Thanks to Josh Woodward for the perfectly timed piece to this trailer."
+    channeltitle "WKAJ TV"
+    channelid "UCTjNx2MU2ZSFd4_LgvlIjBA"
     favcount 0
-    viewcount 48791
-    likecount 2827
-    commentcount 722
-    duration "PT40M20S"
+    viewcount 389
+    likecount 3
+    commentcount 0
+    duration "PT1M12S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 115
-    name "200"
+    id 200
     label "v8ZShe3Z-3k"
     step 0
     date "2022-06-30T07:45:57Z"
@@ -3240,161 +2223,107 @@ graph
     commentcount 0
     duration "PT10M32S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 116
-    name "201"
-    label "CUzy45j7AqU"
+    id 202
+    label "GGh0Zji0l9g"
     step 0
-    date "2008-12-23T22:17:31Z"
-    title "WTC building 7 collapse captured live on MSNBC | MSNBC live |**9/11 Truth Exposed**"
-    description "&#9556;&#9552;&#9574;&#9559;&#9556;&#9574;&#9559;&#9556;&#9552;&#9574;&#9552;&#9574;&#9574;&#9574;&#9574;&#9559;&#9556;&#9552;&#9559; &#9553;&#9562;&#9571;&#9553;&#9553;&#9553;&#9562;&#9571;&#9562;&#9571;&#9556;&#9571;&#9556;&#9571;&#9553;&#9562;&#9571;&#9552;&#9571; &#9568;&#9559;&#9553;&#9562;&#9565;&#9553;&#9553;&#9568;&#9559;&#9553;&#9562;&#9571;&#9553;&#9553;&#9553;&#9553;&#9553;&#9552;&#9571; &#9562;&#9552;&#9577;&#9552;&#9552;&#9577;&#9552;&#9577;&#9552;&#9577;&#9552;&#9577;&#9565;&#9562;&#9577;&#9552;&#9577;&#9552;&#9565; If you like this video and want more --------------------------9/11 was an inside job.&#13;&#10;&#13;&#10;FDNY lieutenant David Rastuccio describes how the building was to be allowed to fall on it's own or &#34;would be taken down&#34;. Right-click and save to download clip: http://xenomorph.s3.amazonaws.com/WTC...&#13;&#10;Recommended 9/11 research:&#13;&#10;http://www.cooperativeresearch.org/&#13;&#10;http://www.globalresearch.ca/&#13;&#10;http://www.911research.wtc7.net/&#13;&#10;http://www.ae911truth.org/&#13;&#10;http://www.stj911.org/&#13;&#10;http://0x1a.com/&#13;&#10;http://www.prisonplanet.com/&#13;&#10;http://www.whatreallyhappened.com/&#13;&#10;http://www.911blogger.com/&#13;&#10;http://www.loosechange911.com/&#13;&#10;http://www.nineeleven.co.uk/&#13;&#10;http://www.wtc7.net/&#13;&#10;http://www.journalof911studies.com/&#13;&#10;http://www.patriotsquestion911.com/&#13;&#10;http://www.wearechange.org&#13;&#10;http://www.questionsquestions.net&#13;&#10;http://www.911disinformation.com/"
-    channeltitle "SpideredNewz"
-    channelid "UCAHneDkrzDc3uvcnmmNVyTQ"
+    date "2022-04-29T00:01:21Z"
+    title "Structural engineer Larry Cooper gets standing ovation presenting Building 7 to local ASCE group"
+    description "This week on 9/11 Free Fall, retired structural engineer Larry Cooper joins host Andy Steele to give an update on the presentation he made last week to the SunCoast Branch of the Florida Section of the American Society of Civil Engineers.&#10;&#10;Larry spoke to the group about the collapse of World Trade Center Building 7 and the 2020 University of Alaska Fairbanks report. He received a standing ovation from the 22 engineers in attendance, two-thirds of whom had not previously heard of Building 7.&#10;&#10;Hear all about Larry&#8217;s experience on this week&#8217;s episode of 9/11 Free Fall.&#10;&#10;To learn more, visit https://AE911Truth.org."
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
-    viewcount 11192
-    likecount 19
-    commentcount 9
-    duration "PT2M6S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    viewcount 3599
+    likecount 242
+    commentcount 84
+    duration "PT1H1M20S"
+    indegree 7
+    sentiment 1
+    cluster 11
   ]
   node
   [
-    id 117
-    name "203"
-    label "A5KRern3HNw"
+    id 204
+    label "dZG6KyehF4w"
     step 0
-    date "2022-07-12T01:00:12Z"
-    title "AMANDA GRACE URGENT MESSAGE: [MILITARY IS ROUSED UP] SOMETHING BIG IS GOING ON"
-    description "Amanda Grace Urgent Message: [military Is Roused Up] Something Big Is Going On&#10;#AmandaGrace #amandagraceprophecy #amandagracelive"
-    channeltitle "Prophetic Message"
-    channelid "UChxOg9EPyk4BW8X2etLjs1A"
+    date "2016-01-24T05:27:42Z"
+    title "How did the building 7 collapse on 9/11 ?"
+    description ""
+    channeltitle "Tim Brown"
+    channelid "UCRY0KCk9mWBva7gg0Sg0xlQ"
     favcount 0
-    viewcount 3675
-    likecount 192
-    commentcount 18
-    duration "PT1H34M10S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 118
-    name "205"
-    label "LJ7NezK6M6s"
-    step 0
-    date "2022-07-04T05:53:11Z"
-    title "BBC News Lady Announces Building 7 Collapsed 23 Minutes Before It Did"
-    description "here is and interesting video this news lady announces it collapsed 23 minutes before it actually did how did she know and where did she get the info of it from ? we may never know&#10;&#10;https://www.facebook.com/profile.php?id=100083160363276 message me here&#10;&#10;hamtheman1987@gmail.com   email me a 9 /11 video if you want it on here &#10;&#10;thanks for watching plz Like and SUBSCRIBE"
-    channeltitle "9/11 Uncut "
-    channelid "UCd3alUyCM4RCikCIdynz_8Q"
-    favcount 0
-    viewcount 4
-    likecount 1
-    commentcount 2
-    duration "PT4M49S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    viewcount 639
+    likecount 2
+    commentcount 0
+    duration "PT58S"
+    indegree 2
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 119
-    name "207"
-    label "7BkpjwFbzEI"
+    id 206
+    label "6Pa0vC-Zbso"
     step 0
-    date "2022-07-12T15:00:04Z"
-    title "Beautiful Newports | Chris Distefano Presents: Chrissy Chaos | EP 76"
-    description "#ChrisDistefano #Podcast #Comedy #ChrissyChaos #TheMets&#10;&#10;Chrissy CHAOS is SWINGING this ep! Fresh off some shows in Providence Chris is feeling GREAT! A man falls through his house and Ti Ti gets in an accident with a weirdo. Chris lost his wallet and goes OFF his diet. Chris talks about what happened to him and Tampa Tony at the Boston Red Socks game at Fenway park. Sharing a green room with a legendary comedian. Chris goes after Newport Rhode Island. Chris talks about how his new material is his best ever. Life is about taking big risks. Chris gets some amazing advice from his father. Montreal is a weird city of french magic. Chris gets BANGED out for money this week. The world continues to fall apart and be pure anxiety. Elon pulls out of twitter deal and Trump attacks him.We answer a few Patreon questions!&#10;&#10;SUPPORT THE SPONSORS TO SUPPORT THE CHAOS&#10;If you like the RSVLTS shirt Chris is wearing in this video or have seen him wear before, check out our curated RSVLTS x Chrissy Chaos collection page where you can shop a bunch of other gear as well. Use the code ChrissyChaos at checkout for 20% off your first order!&#10;magicspoon.com/chaos code chaos&#10;download the upside app code chaos&#10;00:00 Intro &#10;01:05 He Fell Through My Ceiling &#10;05:08 Reverse Car Accident&#10;07:03 Tequila + No Money + Fitness Points&#10;10:11 Fenway with Tampa Tony&#10;13:00 Lenny Clarke&#10;15:25 Newports&#10;18:00 Right Intention Wrong Move&#10;24:13 Chrissy Ads&#10;26:30 Chrissy Spokesperson &#10;30:45 Tampa Tony Filled Up &#10;34:55 Chrissy Renovations&#10;36:10 Chrissy Canada &#10;41:58 Chrissy Ads&#10;45:17 Everyone&#8217;s Angry&#10;49:16 Twitter + Baby Daddy&#10;50:52 Patreon Questions&#10;57:34 Tiger Belly&#10;59:45 Come See Chrissy and Subscribe &#10;UNCUT WILD CONTENT GO HERE&#10;&#128073;https://www.patreon.com/chrisdcomedy&#10;&#10;Follow us Muffin Butt!&#10;&#10;&#128582;&#127996;&#8205;&#9794;&#65039; Chris Distefano&#10;Instagram - https://www.instagram.com/chrisdcomedy/&#10;Twitter - https://twitter.com/chrisdcomedy&#10;Website - https://www.chrisdcomedy.com/&#10;&#10;&#127909;               @TheHomelessPimp           our producer&#10;Instagram - https://www.instagram.com/thehomelesspimp/&#10;Twitter - https://twitter.com/homelesspimp?lang=en&#10;&#10;&#127908;More Chris D Comedy&#10;Website:  https://www.chrisdcomedy.com/&#10;Live Dates: https://www.chrisdcomedy.com/#tickets&#10;Merch: https://shop.upstatemerch.com/chrisdistefano/shop/home"
-    channeltitle "chrisdcomedy"
-    channelid "UCon_vk_hDDMjhecQq-9Dc4Q"
+    date "2019-09-18T21:42:39Z"
+    title "KTVA: Fire did not cause World Trade Center Building 7 collapse, UAF study suggests"
+    description "Alaska CBS affiliate KTVA breaks the mainstream media's deafening silence on the groundbreaking University of Alaska Fairbanks WTC 7 study, which was released Sept. 3, 2019. For more information, visit https://AE911Truth.org/wtc7."
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
-    viewcount 36443
-    likecount 1557
-    commentcount 235
-    duration "PT1H29S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    viewcount 12167
+    likecount 759
+    commentcount 924
+    duration "PT1M40S"
+    indegree 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 120
-    name "209"
-    label "KWaPq5caL6Q"
+    id 208
+    label "a0FBIFAYRfo"
     step 0
-    date "2009-10-13T08:08:49Z"
-    title "What Went Down With Building 7?"
-    description "The collapse of this building, and the other events which took place on 9/11, need to be re-investigated.&#10;&#10;The 9/11 Commission failed.&#10;&#10;Reinvestigate 9/11&#10;&#10;This is a music video I put together. Did not produce the song, just did the video part.&#10;&#10;More info: https://www.youtube.com/watch?v=RmHPfXemf10"
-    channeltitle "ScreechingKettle"
-    channelid "UCT08s4qyS4ucsPzQLia6d8Q"
+    date "2016-08-20T14:24:32Z"
+    title "9:45 New Footage Of 9 11 With police saying building 7 will fall next before it fell"
+    description "At 9:45 in this video the police officer states that the 3rd building is going to fall down next. He said this before it fell and no plane hit it, so why did he say this and how did he know?&#10;There was no way for this officer to know that a third building would fall but he did and they have it on video."
+    channeltitle "Reality Decoded"
+    channelid "UCKVTP_4gllRRWlyBS_XOn4w"
     favcount 0
-    viewcount 1289
-    likecount -1
+    viewcount 1089
+    likecount 15
     commentcount 1
-    duration "PT3M58S"
+    duration "PT14M37S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 121
-    name "211"
+    id 210
+    label "bcUmEyfaKW4"
+    step 0
+    date "2021-07-21T19:00:24Z"
+    title "SEVEN | The New 9/11 Building 7 Film | Watch It Today"
+    description "What caused Building 7 to collapse on 9/11? Dr. Leroy Hulsey from the University of Alaska Fairbanks may have the answer, following an exhaustive four-year engineering study. https://vimeo.com/ondemand/seven1091"
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
+    favcount 0
+    viewcount 6220
+    likecount 366
+    commentcount 65
+    duration "PT37S"
+    indegree 0
+    sentiment 1
+    cluster 11
+  ]
+  node
+  [
+    id 211
     label "bYlUSGteS4E"
     step 0
     date "2009-08-08T04:22:20Z"
@@ -3408,105 +2337,69 @@ graph
     commentcount 38
     duration "PT8M18S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 122
-    name "212"
-    label "LW2lzfW2qAg"
+    id 214
+    label "dXrT6h2oepc"
     step 0
-    date "2022-07-07T09:38:28Z"
-    title " 11/7/22 | eFootball"
-    description "&#3626;&#3617;&#3633;&#3588;&#3619;&#3648;&#3611;&#3655;&#3609;&#3626;&#3617;&#3634;&#3594;&#3636;&#3585; &#3648;&#3614;&#3639;&#3656;&#3629;&#3626;&#3609;&#3633;&#3610;&#3626;&#3609;&#3640;&#3609;&#3594;&#3656;&#3629;&#3591; : https://www.youtube.com/channel/UCAbWdcdo1a2vX8RK8xOTSPQ/join&#10;&#10;Contact :&#10;Facebook - https://www.facebook.com/iappdays/&#10;Email - jamesx2u@gmail.com (For Work)&#10;&#10;#APPDAYS &#10;#efootball #efootball2022 &#10;#efootballmobile #eFootball&#3617;&#3639;&#3629;&#3606;&#3639;&#3629;&#10;#FIFA22 #FIFAMOBILE&#10;#&#3615;&#3637;&#3615;&#3656;&#3634;&#3617;&#3639;&#3629;&#3606;&#3639;&#3629; #&#3615;&#3637;&#3615;&#3656;&#3634;"
-    channeltitle "APPDAYS"
-    channelid "UCAbWdcdo1a2vX8RK8xOTSPQ"
+    date "2013-03-23T22:37:21Z"
+    title "WTC 9/11 Building 7 - CLEARLY DETONATED! 2013 NEW FOOTAGE OF EXPLOSIONS!"
+    description "BUILDING SEVEN DETONATED.. NEW FOOTAGE.. MAKE VIRAL ALL!!!!&#10;&#10;MAKE VIRAL ALL!!"
+    channeltitle "TheGoldenAgeOfUs"
+    channelid "UCZ9GoO534PwljBp-FHuLYaw"
     favcount 0
-    viewcount 5635
-    likecount 188
-    commentcount 13
-    duration "PT2M45S"
+    viewcount 65556
+    likecount 281
+    commentcount 110
+    duration "PT48S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 123
-    name "215"
-    label "7urdl_VYIaA"
+    id 221
+    label "b3lrdpA5Oo4"
     step 0
-    date "2011-09-16T15:46:41Z"
-    title "BUILDING 7 BACSKIDE VIEW PEOPLE WALKING AROUND UP TOP 9/11/2001"
-    description "After watching the new video of the alleged backside of B7, I knew I had seen other video showing the backside and the big gash in it and even someone walking around near the top inside the damaged area. This is merely a reposting of a video. It has been on YT for years now. I am not the original poster of this. I am just pointing out that the new B7 video appears &#34;TO ME&#34; to be a major purposeful HOAX to get everyone all worked up and involved in it and not looking out for something else that may be going on. 5T4R, I hope this helps you in this. Please ask Prophetic about it as well. Just trying to help!"
-    channeltitle "rushfan9thcmd"
-    channelid "UChq7Zaz8mQJyHbXcYsRhwIg"
+    date "2022-05-19T21:59:53Z"
+    title "Dr. Shyam Sunders Building 7 report press conference on Aug. 21, 2008"
+    description "For more information, visit https://AE911Truth.org/nist."
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
-    viewcount 99
-    likecount 2
-    commentcount 1
-    duration "PT23S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    viewcount 3225
+    likecount 128
+    commentcount 109
+    duration "PT1M35S"
+    indegree 8
+    sentiment 1
+    cluster 11
   ]
   node
   [
-    id 124
-    name "222"
-    label "gJstZoojjb4"
+    id 226
+    label "mw1nK8Rrag0"
     step 0
-    date "2017-02-28T22:22:56Z"
-    title "Barry Jennings Interview explosives in building 7 TV, 2001 LTW, 2007"
-    description "Barry Jennings was an important eyewitness to the events of 9/11. At the time, he was the Deputy Director of the Emergency Services Department for the New York City Housing Authority. Together with Michael Hess, the New York City Corporation Counsel (an associate of Rudy Giuliani), he was rescued from WTC Building 7 before it collapsed at 5:20 p.m. On several occasions, Jennings stated that an explosion trapped them in WTC Building 7 (before the collapses of WTC 1 &#38; 2) and that explosions occurred throughout the building until they were saved after attracting the attention of a team of firefighters through a broken 8th floor window. Jennings reportedly died in 2008, in highly suspicious circumstances."
-    channeltitle "cpr941"
-    channelid "UCN7db0Tvguuey97hic_3H4Q"
+    date "2022-07-03T02:59:04Z"
+    title "Raw Unfiltered Building 7 Control Demolition"
+    description "#WTC7 #unfiltered  &#10;FOX recording looks different from all other recordings of Building 7 Control Demolition &#10;&#10;Fox recording of Building 7 Collapse actually looks different then all other WTC7 Building 7 Collapse because no pause is seen between the penthouse and the main body. Fox Predicts WTC7 Building 7 Collapse Fox&#10;&#10;https://youtu.be/mw1nK8Rrag0&#10;&#10;BBC&#10;&#10;https://youtu.be/MaX1fNkS8Ac&#10;SS: FOX NEWS recording looks like the only recording without edits, pauses or other issues designed to dupe the public. It is raw unfiltered truth.&#10;&#10;FOX (WTTG) 9-11- 2001 News Coverage 5:00 PM - 6:00 PM&#10;https://youtu.be/U0QKOS1qCGU?t=1628"
+    channeltitle "Rare 9/11 Facts"
+    channelid "UCOch_SItPku1FqXKLMe9lqg"
     favcount 0
-    viewcount 699
-    likecount 23
+    viewcount 388
+    likecount 6
     commentcount 3
-    duration "PT21M5S"
+    duration "PT2M41S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 125
-    name "227"
+    id 227
     label "0aIanrHfEiU"
     step 0
     date "2020-10-19T20:20:21Z"
@@ -3520,105 +2413,69 @@ graph
     commentcount 69
     duration "PT51M16S"
     indegree 8
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 11
   ]
   node
   [
-    id 126
-    name "228"
-    label "gIEymh7sgWo"
+    id 230
+    label "yXhZnNAjQk8"
     step 0
-    date "2010-09-08T18:27:53Z"
-    title "Zapruder film 9/11 Building 7"
-    description "Building 7 footage from 9/11 is the Zapruder Film of this generation!&#10;Narrated by Daniel Sunjata (Rescue Me, The Bronx is Burning).   &#10;&#10;For more info: &#10;http://www.BuildingWhat.org&#10;http://www.ae911Truth.org"
-    channeltitle "Megabyte Bots"
-    channelid "UCtDHGh3RlkyGZTcwn_iwK4w"
+    date "2012-09-11T04:08:58Z"
+    title "9/11 Never Forget (Building 7)"
+    description "&#9600;&#9608;&#9600; &#9608;&#9600; &#9608;_&#9608;&#65279; &#9600;&#9608;&#9600; &#9608;&#9644;&#9608; &#1071; &#926; &#8730; &#937; L U T &#8593; &#9788; N!&#10;The Injustice Report:&#10;https://twitter.com/InjusticeReport&#10;http://theinjusticereport.tumblr.com/ &#10;&#10;a montage of Building 7's collapse at free fall speed into its own footprint on 9/11. Featuring &#34;Crack in Time&#34; by Two Steps from Hell."
+    channeltitle "Truth Be Known Revolution"
+    channelid "UCECskPQNeG6ss33AVZOrhrw"
     favcount 0
-    viewcount 717
-    likecount 11
-    commentcount 0
-    duration "PT1M52S"
+    viewcount 5025
+    likecount 76
+    commentcount 15
+    duration "PT3M47S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 127
-    name "231"
-    label "s-aDKpcc16g"
+    id 232
+    label "nEgPNNcdtu4"
     step 0
-    date "2022-07-10T12:30:45Z"
-    title "Middle  Right lift has a HORRIBLE slam!! 2002? Stannah lifts at Reading Station Car Park"
-    description "The slam sounds loud if you hear it on video, but trust me, it was much louder in real life.&#10;Left lifts information:&#10;Floors: 6 (1, 3, 5, 7, 9, 11)&#10;Capacity: 21 Persons/1800 kilograms&#10;Built: 2002?&#10;Serial Number: R2-0572&#10;Middle lifts information:&#10;Floors: 6 (1, 3, 5, 7, 9, 11)&#10;Capacity: 21 Persons/1800 kilograms&#10;Built: 2002?&#10;Serial Number: R2-0573&#10;Right lifts information:&#10;Floors: 6 (1, 3, 5, 7, 9, 11)&#10;Capacity: 21 Persons/1800 kilograms&#10;Built: 2002?&#10;Serial Number: R2-0574&#10;Filmed: Yesterday"
-    channeltitle "Morgan's lift adventures"
-    channelid "UCRJPw2quOJPoT2h69H5UG-w"
+    date "2009-10-08T21:51:50Z"
+    title "9/11: Caught on Tape: WTC Building 7 Damaged by Debris from Twin Towers Collapse (Updated) (WTC 7)"
+    description "Buldiing 7 of the World Trade Center collapsed after 8 hours because it was heavily damaged, and fire raged for 8 hours. These images show SOME of the actual damage to WTC 7 from the collapse of the WTC twin towers, but do not show the fornt of the most damaged face closest to the twin towers. Smoke and other buildings get in the way"
+    channeltitle "JonathonMoseley"
+    channelid "UCEnUwXx5OQCbJdOYMmucB5Q"
     favcount 0
-    viewcount 107
-    likecount 3
-    commentcount 10
-    duration "PT6M24S"
+    viewcount 28446
+    likecount 108
+    commentcount 342
+    duration "PT4M53S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 236
+    label "-aDUSLRHdUU"
+    step 0
+    date "2013-06-27T23:24:06Z"
+    title "NPR: Questioning 9/11 WTC Building 7 collapse is "
+    description "NPR &#34;Talk of the Nation&#34; host Neal Conan invited listeners to call in and answer a simple question: &#34;What's the talk of the nation?&#34;  &#10;&#10;When an NPR listener called in to &#34;Talk of the Nation&#34; and segued from the topic of NSA domestic spying to raise questions about the collapse of World Trade Center Building 7 on September 11, 2001, host Neal Conan labeled the caller a &#34;truther&#34;.  &#10;&#10;Dismissing the listener's questions as &#34;scientific nonsense&#34;, Conan abruptly cut off the caller as he began to mention the name of an organization called &#34;Architects and Engineers for 9/11 Truth&#34;, telling the caller &#34;I'm hanging up now&#34;."
+    channeltitle "FreedomOfThePress IsNotFree"
+    channelid "UCr78BTOtNEHXXzsDnBCqlKQ"
+    favcount 0
+    viewcount 5210
+    likecount 31
+    commentcount 49
+    duration "PT2M13S"
+    indegree 4
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 128
-    name "233"
-    label "aqt-Q--ctCE"
-    step 0
-    date "2012-02-12T01:00:06Z"
-    title "9 11 10th Anniversary Campaign by Remember Building 7"
-    description "http://question911.com&#10;http://helpfreetheearth.com&#10;http://911truth.org&#10;http://ae911truth.org"
-    channeltitle "douglas bickford"
-    channelid "UCi87HsZk7a16vm6a57XJp-Q"
-    favcount 0
-    viewcount 2
-    likecount 0
-    commentcount 0
-    duration "PT37S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 129
-    name "237"
+    id 237
     label "PLZ4EQkAbws"
     step 0
     date "2019-09-15T06:21:16Z"
@@ -3632,21 +2489,12 @@ graph
     commentcount 1
     duration "PT1M39S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 10
   ]
   node
   [
-    id 130
-    name "238"
+    id 238
     label "vOaJZr83RJg"
     step 0
     date "2011-09-11T17:47:27Z"
@@ -3660,21 +2508,12 @@ graph
     commentcount -1
     duration "PT3M35S"
     indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 131
-    name "239"
+    id 239
     label "Z6zKo2g5DWs"
     step 0
     date "2021-07-21T18:10:42Z"
@@ -3688,49 +2527,31 @@ graph
     commentcount 66
     duration "PT37S"
     indegree 1
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 132
-    name "240"
-    label "qUikWrp-eiM"
+    id 242
+    label "6rTHFDKI5Ug"
     step 0
-    date "2009-12-16T02:51:11Z"
-    title "WTC 9/11 Building 7 replacement? Feds  Military all in one called FEDERAL CITY!"
-    description "At the time of the September 11, 2001 attacks, Salomon Smith Barney was by far the largest tenant in 7 World Trade Center, occupying 1,202,900 sq ft (111,750 m&#178;) (64 percent of the building) which included floors 2845.[1][24] Other major tenants included ITT Hartford Insurance Group (122,590 sq ft/11,400 m&#178;), American Express Bank International (106,117 sq ft/9,900 m&#178;), Standard Chartered Bank (111,398 sq ft/10,350 m&#178;), and the Securities and Exchange Commission (106,117 sq ft/9,850 m&#178;).[24] Smaller tenants included the Internal Revenue Service Regional Council (90,430 sq ft/8,400 m&#178;) and the United States Secret Service (85,343 sq ft/7,900 m&#178;).[24] The smallest tenants included the New York City Office of Emergency Management,[25] National Association of Insurance Commissioners, Federal Home Loan Bank, First State Management Group Inc., Provident Financial Management, and the Immigration and Naturalization Service.[24] The Department of Defense (DOD) and Central Intelligence Agency (CIA) shared the 25th floor with the IRS.[1] Floors 4647 were mechanical floors, as were the bottom six floors and part of the seventh floor.[1"
-    channeltitle "lexkixla"
-    channelid "UCC9IhsLCxBrKPKLxFcNlV8w"
+    date "2021-05-14T15:39:46Z"
+    title "BBC Building 7 Had Collapsed 20 Minutes Before It Fell"
+    description "BBC   Building 7 Had Collapsed 20 Minutes Before It Fell&#10;An astounding video uncovered from the archives today shows the BBC reporting on the collapse of WTC Building 7 over twenty minutes before it fell at 5:20pm on the afternoon of 9/11. - https://www.dailymotion.com/video/xe4l4e&#10;The incredible footage shows BBC reporter Jane Standley talking about the collapse of the Salomon Brothers Building while it remains standing in the live shot behind her head. How did the BBC know that it was going to collapse? And why did they report the collapse when it is clearly standing in the background? - &#10;&#10;&#10;BBC Part of the conspiracy?&#10;Richard Porter | 17:12 UK time, Tuesday, 27 February 2007&#10;The 9/11 conspiracy theories are pretty well known by now. The BBC addressed them earlier this month with a documentary, The Conspiracy Files, shown within the UK.&#10;&#10;BBC World - Until now, I don't think we've been accused of being part of the conspiracy. But now some websites are using news footage from BBC World on September 11th 2001 to suggest we were actively participating in some sort of attempt to manipulate the audience. As a result, we're now getting lots of emails asking us to clarify our position. So here goes:&#10;&#10;1. We're not part of a conspiracy. Nobody told us what to say or do on September 11th. We didn't get told in advance that buildings were going to fall down. We didn't receive press releases or scripts in advance of events happening.&#10;&#10;2. In the chaos and confusion of the day, I'm quite sure we said things which turned out to be untrue or inaccurate - but at the time were based on the best information we had. We did what we always did - sourced our reports, used qualifying words like &#34;apparently&#34; or &#34;it's reported&#34; or &#34;we're hearing&#34; and constantly tried to check and double check the information we were receiving.&#10;&#10;An image of the website hosting the alleged BBC World footage3. Our reporter Jane Standley was in New York on the day of the attacks, and like everyone who was there, has the events seared on her mind. I've spoken to her today and unsurprisingly, she doesn't remember minute-by-minute what she said or did - like everybody else that day she was trying to make sense of what she was seeing; what she was being told; and what was being told to her by colleagues in London who were monitoring feeds and wires services.&#10;&#10;4. We no longer have the original tapes of our 9/11 coverage (for reasons of cock-up, not conspiracy). So if someone has got a recording of our output, I'd love to get hold of it. We do have the tapes for our sister channel News 24, but they don't help clear up the issue one way or another.&#10;&#10;5. If we reported the building had collapsed before it had done so, it would have been an error - no more than that. As one of the comments on You Tube says today &#34;so the guy in the studio didn't quite know what was going on? Woah, that totally proves conspiracy... &#34;&#10;&#10;https://www.bbc.co.uk/blogs/theeditors/2007/02/part_of_the_conspiracy.html"
+    channeltitle "iXXi Q"
+    channelid "UCCSM68WpN-DU3p7FFfaH4wg"
     favcount 0
-    viewcount 742
-    likecount 4
-    commentcount 0
-    duration "PT1M48S"
+    viewcount 435
+    likecount 14
+    commentcount 1
+    duration "PT3M7S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 10
   ]
   node
   [
-    id 133
-    name "243"
+    id 243
     label "Xsr9586hu7Y"
     step 0
     date "2007-05-02T13:00:14Z"
@@ -3744,161 +2565,107 @@ graph
     commentcount 14
     duration "PT1M36S"
     indegree 1
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 134
-    name "244"
-    label "6iEHZNk2_So"
+    id 249
+    label "tNKP5K_WDGo"
     step 0
-    date "2022-07-05T22:04:12Z"
-    title "Born-Free 13 Custom Motorcycle Show Full Highlights | A ChopCult Film"
-    description "The Born-Free custom motorcycle show is known world-wide for good reason. More than 30 elite bike builders grind it out in their garages for months prepping their best work for this show. At stake is the notoriety of being declared the best-of-the-best. A few coveted spots at the 30th Mooneyes Hot Rod Custom show in Yokohama, Japan also sweeten the pot. We took our time filming each of these insane bikes so you can drink in all the sweet details from the comfort of your couch.&#10;&#10;The night before Born-Free is another fierce battle between bike builders. The Biltwell People's Champ competition is held at the legendary Cook's Corner bike bar, a few miles down the road from Born-Free. 6 finalists from a pool of hundreds ride their choppers to the show for a shot at $10 grand and a place at Born-Free with the invited builders. We made sure to shoot all of their bikes as well.&#10;&#10;Not to be forgotten is the hundreds of ride-ins, vendor bikes, and special guests. We couldn't include all of these but we threw in a couple we know you'll dig. &#10;&#10;Enjoy the video, check out the forum, and buy some merch so we can keeping making cool stuff for y'all. Also, this project couldn't have been made without generous support from our sponsor Throttle Addiction. They make and sell hartails, gas tanks, oil tanks, sissy bars, you name it. Get yourself some cool stuff and tell 'em ChopCult sent ya.&#10;&#10;https://www.throttleaddiction.com/&#10;http://www.chopcult.com/default.php&#10;&#10;0:00 Intro&#10;0:43 '56 H-D KHK | David Polgreen&#10;3:48 Chapter 1&#10;6:00 '76 CB750 | Clay Krick&#10;9:11 Chapter 2&#10;11:41 '51 Triumph | Anthony Robinson&#10;14:13  Chapter 3&#10;15:57 '65 Panhead | Andy Carter&#10;18:22 Chapter 4&#10;20:12 '47 Knucklehead | Brook Lund&#10;22:22 Chapter 5&#10;26:10 '64 Panhead | Greg Gagnon&#10;29:31 Chapter 6&#10;31:14 '47 Knucklehead | Jeff Leighton&#10;32:51 Chapter 7&#10;34:46 '67 Shovelhead | Aaron Crow&#10;38:46 Chapter 8&#10;40:36 '75 Shovelhead | James Booth&#10;43:57 Chapter 9"
-    channeltitle "ChopCult"
-    channelid "UCsd3HxrMhBvzpVBPyiudUgA"
+    date "2014-08-09T05:51:43Z"
+    title "196 2001 9 11 World Trade Center Building 7 Barry Jennings"
+    description ""
+    channeltitle "KissYourIllusions Goodbye"
+    channelid "UC46AHF87-5Lpqg2B7Rhq4lA"
     favcount 0
-    viewcount 31636
-    likecount 578
-    commentcount 23
-    duration "PT45M57S"
+    viewcount 200
+    likecount 7
+    commentcount 0
+    duration "PT18M50S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 135
-    name "250"
-    label "FdrDI40FpjQ"
+    id 252
+    label "ZdRi_GOdEmM"
     step 0
-    date "2011-04-24T07:43:27Z"
-    title "Remember Building 7 Stand with the 9 11 families demanding a NEW Building 7 investigation What is Building 7"
-    description " "
-    channeltitle "seattlepatriot1776"
-    channelid "UCcM3kfM0Q2U2XPPrK0JeW0A"
+    date "2016-02-25T09:58:33Z"
+    title "FREE FALLIN starring BUILDING 7"
+    description "The FREE FALLIN&#8217; Campaign: Between now and September 11, 2016, send your version of &#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; to freefallin@AE911Truth.org, and we&#8217;ll post or share it here. Use our lyrics or write your own. Let&#8217;s post as many videos as we can!&#10; &#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&#10;&#10;Background&#10;&#10;&#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; is a riff on the classic Tom Petty song Free Fallin&#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&#10;&#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&#10;&#10;The infinitely small chance of a fire-induced failure bringing down the entire building &#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&#8217; prediction of Building 7&#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&#10;&#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&#8230;. [T]he best hypothesis has only a low probability of occurrence.&#8221; More than four years after the collapse, the government&#8217;s lead investigator would state, &#8220;[T]ruthfully, we don&#8217;t really know. We&#8217;ve had trouble getting a handle on building No. 7.&#8221;&#10;&#10;In reality, the warnings of Building 7&#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&#10;&#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!"
+    channeltitle "vengencefrom1979"
+    channelid "UCpXYmbe8jgD68NnvyeV6nUQ"
     favcount 0
-    viewcount 14
-    likecount 0
+    viewcount 27821
+    likecount 687
+    commentcount 106
+    duration "PT4M15S"
+    indegree 5
+    sentiment 1
+    cluster 10
+  ]
+  node
+  [
+    id 255
+    label "1Ppmf5E4KR0"
+    step 0
+    date "2014-10-27T17:22:05Z"
+    title "World Trade Center Building 7 - Solomon Brothers - El*A*Kwents - wtc7"
+    description "The 9/11 Commission Report failed to even mention World Trade Center Building #7 in it's report.  Why was the complete collapse of this building withheld from their findings?  Re-investigate 9/11.&#10;&#10;FREE SUBSCRIBER DOWNLOAD - https://www.reverbnation.com/elakwents&#10;LYRICS - http://spiritualhiphop.wordpress.com/2014/10/27/elakwents-wtc7-world-trade-center-building-7/&#10;www.elakwents.com&#10;www.spiritualhiphop.info/exchange"
+    channeltitle "SpiritualHipHop"
+    channelid "UCh37wPNMv6QRlA-QWw42wBQ"
+    favcount 0
+    viewcount 610
+    likecount 6
+    commentcount 2
+    duration "PT2M1S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 258
+    label "5SC-HyfE-o8"
+    step 0
+    date "2021-08-30T11:42:00Z"
+    title "WTC Building 7 - 9/11 was an inside job."
+    description ""
+    channeltitle "Sensei Kurt on the #Harpazzo / #Rapture"
+    channelid "UClj5S7b1CP1_QpXGtAz3AQA"
+    favcount 0
+    viewcount 68
+    likecount 4
     commentcount 0
+    duration "PT45S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 266
+    label "ocY7Ukhz6r8"
+    step 0
+    date "2010-10-25T13:39:34Z"
+    title "9/11 WTC Building 7 Ad,Families Want Answers"
+    description "New Eye Opening ad. Go to http://BuildingWhat.org - This 30-second ad will appear on TV screens all over New York City. Every $400 raised will allow 10,000 more New Yorkers to see the collapse of Building 7 for the first time.&#13;&#10;&#13;&#10;*Disclaimer-BuildingWhat.org provides no endorsement of my Channel or the use of its work on my Channel."
+    channeltitle "Yeshua is Messiah-SUBSCRIBE Please"
+    channelid "UCoVe9mQo1w4yesQVn067iyQ"
+    favcount 0
+    viewcount 4146
+    likecount 16
+    commentcount 3
     duration "PT32S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 136
-    name "253"
-    label "M5DHvMkcmL8"
-    step 0
-    date "2012-01-23T11:05:00Z"
-    title "9 11 10th Anniversary Campaign by Remember Building 7"
-    description "http://helpfreetheearth.com&#10;http://ae911truth.org&#10;http://911truth.org&#10;http://question911.com"
-    channeltitle "doug bickford"
-    channelid "UCVJuzMnXSVf_pxJ5CBHFDSQ"
-    favcount 0
-    viewcount 4
-    likecount 0
-    commentcount 0
-    duration "PT37S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 137
-    name "256"
-    label "Ol-yWG_OFJI"
-    step 0
-    date "2020-04-04T00:54:59Z"
-    title "Building 7 - feat Robby Royce"
-    description "&#34;When a building falls down&#34;..&#10;&#10;Thanks Robby for getting involved, here's a link to his channel:&#10;https://www.youtube.com/channel/UCKLlrsFJYcIrJDX7kqgP8Ow&#10;&#10;9/11 was insane, so many unanswered questions.&#10;Here's some links I used for the video:&#10;&#10;Corbett Report 9/11 Trillions: Follow The Money:&#10;https://www.youtube.com/watch?v=n3xgjxJwedA&#10;&#10;Loose Change film:&#10;https://www.youtube.com/watch?v=lKO5t3rcIZU&#10;&#10;Dr Judy Wood Dustification:&#10;https://www.youtube.com/watch?v=lb2i8R5YlRk&#10;&#10;AE911Truth channel:&#10;https://www.youtube.com/user/ae911truth&#10;&#10;#unBEARables #Building7 &#10;&#10;Twatter: https://twitter.com/thelastmoomin&#10;SoundCloud: https://soundcloud.com/user-730111383&#10;IG: @TheLastMoomin&#10;Bitchute: https://www.bitchute.com/profile/kHlL3NT1JWkj/&#10;BandCamp: https://thelastmoomin.bandcamp.com/&#10;Dlive: https://dlive.tv/TheLastMoomin&#10;Email me: thelastmoomin@gmail.com"
-    channeltitle "The Last Moomin"
-    channelid "UC5wWnTbb40fgzKxtbR_EJAQ"
-    favcount 0
-    viewcount 350
-    likecount 34
-    commentcount 14
-    duration "PT4M21S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 138
-    name "259"
-    label "1V1JfSshNh8"
-    step 0
-    date "2022-07-11T03:38:03Z"
-    title "Does God Keep His Promises? : Empires VOL 3 : Andy McGowan (7-10-22)"
-    description "Empires VOL 3 is Part 3 of a study through the Book of Romans. In this message, Pastor Andy McGowan answers the question, &#34;Does God keep His promises?&#34;"
-    channeltitle "Kenosha City Church"
-    channelid "UC1bhe4RBOn2R4Lq91zgqNsA"
-    favcount 0
-    viewcount 31
-    likecount 0
-    commentcount 0
-    duration "PT1H40M16S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 139
-    name "267"
+    id 267
     label "bF8deDyBwPw"
     step 0
     date "2020-03-31T17:59:40Z"
@@ -3912,49 +2679,31 @@ graph
     commentcount 1
     duration "PT4M6S"
     indegree 1
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 140
-    name "268"
-    label "VKcIksty_iE"
+    id 276
+    label "4L6KWlHzv-c"
     step 0
-    date "2012-01-26T03:22:40Z"
-    title "9 11 10th Anniversary Campaign by Remember Building 7"
-    description "http://helpfreetheearth.com (Grace Powers Website) Produced Ring of Power&#13;&#10;http://question911.com&#13;&#10;http://ae911truth.org&#13;&#10;http://911truth.org"
-    channeltitle "DOUGLAS BICKFORD"
-    channelid "UCSLlqeDuwY_sCjb0fIS4WRQ"
+    date "2013-10-15T15:31:27Z"
+    title "WTC Building 7 Collapse Compilation"
+    description "Compilation of World Trade Center Building 7&#10;Building 7 was not hit by a plane and the structural damage caused by the collapse of the North Tower was insufficient to cause a collapse. Officially the collapse was caused by office fires, (Paper, carpet, furniture) This is incredible since WTC 7 was built and designed to be a secure building for financial and government offices. WTC 7 had offices for the C.I.A and the SEC amongst others. When the building collapsed at 5:20 PM crucial files on multiple corporate scandals/ investigations such as WorldCom and Enron were destroyed.&#10;Building 7 collapsed at or near the speed of gravity, it collapsed on it's own foot print, only minor damage was done to the neighbouring buildings even though Building 7 was 50 stories high. Some debunkers like to point at the damage pattern on the neighbouring Post Office building as evidence of asymetrical collapse however this damage was superficial and the presence of fire hoses in the area directly above the damage is testament to that fact. If the damage was serious then how coulf the FDNY allow it's members and equipment to be deployed in the area directly above the damage?&#10;Building 7 and it's story are key to unlocking the sequence of events that day, beginning with Barry Jennings and Micheal Hess, who were both in Building 7 when it was rocked by internal explosions at the time of first tower collapse. Michael Hess and Barry Jennings both made statements on the actual day that there was an explosion on the 6th floor. Video footage backs up this story, Michael Hess can even be seen inside Building 7 between the collapses, where he calls for help from the 8th floor, just as his testifies later that day, as did Barry Jennings. These two men are key witnesses and their testimony on the actual day matches the multiple sources of video evidence.&#10;Once again the 9/11 Commission completely ignores this, in fact the 9/11 Commission Report doesn't even reference Building 7 making it the 9/11 OMISSION REPORT"
+    channeltitle "Decryptionaddiction"
+    channelid "UCUhuvto7tHFeTnkja-DZcyQ"
     favcount 0
-    viewcount 2
-    likecount 0
+    viewcount 1448
+    likecount 18
     commentcount 0
-    duration "PT37S"
+    duration "PT23M5S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 141
-    name "277"
+    id 277
     label "YgwXG8aJOLM"
     step 0
     date "2011-03-18T02:06:30Z"
@@ -3968,21 +2717,12 @@ graph
     commentcount 2
     duration "PT6M56S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 142
-    name "278"
+    id 278
     label "O1h82dMe25A"
     step 0
     date "2019-03-05T14:28:56Z"
@@ -3996,49 +2736,31 @@ graph
     commentcount 36
     duration "PT2M52S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
-  ]
-  node
-  [
-    id 143
-    name "279"
-    label "2UvNjbK64Ls"
-    step 0
-    date "2022-07-11T23:59:08Z"
-    title "1776 Restoration Movement at the White House, Biden on the South Lawn, and someone in the river?"
-    description "Quite an eventful day that actually started last night with the arrival of Marine One and a motorcade from Ft. McNair to the White House. The White House landing zone was out of commission for a signing ceremony today for the new gun control bill, and I managed to see both Biden and Harris on the South Lawn for that event. Prior to that though I ran into the DC fire department responding for a possible jumper (none found) and a march by the 1776 Restoration Movement to the White House.  We finished up the day with a ride around Capitol Hill.&#10;&#10;Show not tell.&#10;&#10;If you are feeling down and need help, please contact 800-273-8255. There are people on the hotline who can help.&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;PenguinSix is an apolitical guy in a political town who likes to walk a lot. He has hiked over 17,000 miles (27,000kms) in the past six years and is still walking today. He is an American expat who spent the last decade in Hong Kong with his family and is now back in Washington DC, continuing his daily ritual of taking very long hikes around the city catching the sights and sounds of the city while live streaming to share with others.  History, culture, life as an expat (with reverse culture shock), and the pitiful Chinese food in Washington DC are regular topics of discussion. Feel free to follow him on other social media accounts such as:&#10;&#10;Camera 1: DJI Osmo Pocket 2 &#8212; https://amzn.to/3bvGEPn&#10;Camera 2: iPhone 13 Pro -- https://amzn.to/3rnxSrt&#10;Camera 3: Canon 70D  -- https://amzn.to/39f0vAB&#10;Camera 4: Sony A7IV  -- https://amzn.to/3t4xPov&#10;&#10;&#10;Big Lens: Sony 100-400mm &#8212; https://amzn.to/34GCDqM&#10;Portable Lens: Apexel 36x iPhone Telephoto Lens - https://amzn.to/3CzIKte&#10;&#10;&#10;Shoes:    ASCIS Gel Kayano 27 &#10;Tracker:    Fitbit Charge 4&#10;Winter Jacket:  Rothco US Army M-65 Field Jacket. https://amzn.to/2PAxOHC&#10;&#10;Miles I walk per day: &#10; Stay at home day: 3-4 miles&#10; Normal day:  4-7 miles&#10; Good hike day: 7-10 miles&#10; Best day: 25 miles  &#10;&#10;http://www.penguinsix.com/&#10;&#10;Twitter @penguinsix  https://twitter.com/PenguinSix&#10;Happs @penguinsix http://happs.tv/invite/@Penguinsix&#10;Instagram @penguinsix  https://www.instagram.com/penguinsix/&#10;Facebook - PenguinSix  https://www.facebook.com/penguinsix&#10;Twitch - @ThePenguinsix  https://www.twitch.tv/thepenguinsix"
-    channeltitle "penguinsix"
-    channelid "UCaY1fW9JOK921VAlMaOnLbQ"
-    favcount 0
-    viewcount 12000
-    likecount 1058
-    commentcount 229
-    duration "PT24M56S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 10
   ]
   node
   [
-    id 144
-    name "282"
+    id 281
+    label "vZJ2yoq1JQg"
+    step 0
+    date "2017-01-06T15:11:36Z"
+    title "Tom Petty Does FREE FALLIN Building 7 Awesome!!!"
+    description "MUST SEE! MUST SEE! Awesome! Tom Petty does &#34;Free Fallin'&#34; version for Building 7, totally rocks!&#10;&#10;(Originally posted at https://www.youtube.com/watch?v=v-27FGbpBk4)&#10;Post Text: Published on Feb 23, 2016&#10;The FREE FALLIN&#8217; Campaign: Between now and September 11, 2016, send your version of &#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; to freefallin@AE911Truth.org, and we&#8217;ll post or share it here. Use our lyrics or write your own. Let&#8217;s post as many videos as we can!&#10; &#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&#10;&#10;Background&#10;&#10;&#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; is a riff on the classic Tom Petty song Free Fallin&#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&#10;&#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&#10;&#10;The infinitely small chance of a fire-induced failure bringing down the entire building &#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&#8217; prediction of Building 7&#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&#10;&#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&#8230;. [T]he best hypothesis has only a low probability of occurrence.&#8221; More than four years after the collapse, the government&#8217;s lead investigator would state, &#8220;[T]ruthfully, we don&#8217;t really know. We&#8217;ve had trouble getting a handle on building No. 7.&#8221;&#10;&#10;In reality, the warnings of Building 7&#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&#10;&#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!&#10;Category&#10;News &#38; Politics&#10;License&#10;Standard YouTube License&#10;Music&#10;&#34;Free Fallin'&#34; by Tom Petty Listen ad-free with YouTube Red"
+    channeltitle "Richard Bruce"
+    channelid "UCY71q12u4OIUJGOg5MAlttQ"
+    favcount 0
+    viewcount 5940
+    likecount 158
+    commentcount 16
+    duration "PT4M15S"
+    indegree 0
+    sentiment 1
+    cluster 10
+  ]
+  node
+  [
+    id 282
     label "8dFQ9pmAo5E"
     step 0
     date "2014-06-28T21:06:16Z"
@@ -4052,21 +2774,12 @@ graph
     commentcount 74
     duration "PT1M30S"
     indegree 2
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 145
-    name "283"
+    id 283
     label "ENcy_GPXHPo"
     step 0
     date "2022-07-10T11:41:27Z"
@@ -4080,21 +2793,12 @@ graph
     commentcount 0
     duration "PT3M54S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 146
-    name "284"
+    id 284
     label "vhRoTC5NAn8"
     step 0
     date "2019-09-04T03:29:33Z"
@@ -4108,77 +2812,50 @@ graph
     commentcount 118
     duration "PT8M31S"
     indegree 4
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 147
-    name "285"
-    label "e4swMQW6Teo"
+    id 288
+    label "AxOXAw1cR3U"
     step 0
-    date "2010-07-23T08:51:48Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 12/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
+    date "2022-07-06T22:16:41Z"
+    title "Global Failure: A Structural Reevaluation of the Collapse of WTC 7 | John Schuler | July 6, 2022"
+    description "This presentation outlines the findings and conclusions of a four-year study of the collapse of World Trade Center Building 7 by researchers at the University of Alaska Fairbanks (UAF) and provides a comprehensive critique of the WTC 7 report issued by the National Institute of Standards and Technology (NIST) in 2008.&#13;&#10;&#13;&#10;WTC 7 was a 47-story high-rise that suffered a total collapse at 5:20 PM on September 11, 2001, although it was not struck by an airplane.&#13;&#10;&#13;&#10;The objective of the UAF study was threefold: (1) Examine the structural response of WTC 7 to fire loads that may have occurred on September 11, 2001; (2) Rule out scenarios that could not have caused the observed collapse; and (3) Identify types of failures and their locations that may have caused the total collapse to occur as observed. The principal conclusion of the study is that fire did not cause the collapse of WTC 7, contrary to the conclusion of NIST.&#13;&#10;&#13;&#10;The UAF study together with years of analysis by independent engineers since the NIST report was issued in 2008 demonstrates that NIST&#8217;s probable collapse sequence for WTC 7 is physically impossible.&#13;&#10;&#13;&#10;For more information, visit https://AE911Truth.org."
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
-    viewcount 394
-    likecount 1
-    commentcount 0
-    duration "PT5M30S"
-    indegree 14
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    viewcount 2890
+    likecount 337
+    commentcount 77
+    duration "PT58M3S"
+    indegree 11
+    sentiment 1
+    cluster 11
   ]
   node
   [
-    id 148
-    name "289"
-    label "giiCKuDgQxA"
+    id 291
+    label "t2fXmsZHxso"
     step 0
-    date "2022-07-11T06:59:58Z"
-    title "Building Up"
-    description "Pastor Jeff teaches where the enemy is trying to lead us to."
-    channeltitle "Believers' Church Of Redlands"
-    channelid "UCOFQ5DgK08H96dX9u_ofuAQ"
+    date "2011-07-05T13:33:06Z"
+    title "DAVID ICKE - 9/11-building7 - Martin Noakes(911- INSIDE JOB)."
+    description "http://www.davidicke.com/"
+    channeltitle "jay4louise2"
+    channelid "UCWCAuVrmpvaubXYqE3_rG0w"
     favcount 0
-    viewcount 14
-    likecount 2
-    commentcount -1
-    duration "PT1H55M36S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    viewcount 9657
+    likecount 65
+    commentcount 6
+    duration "PT7M49S"
+    indegree 2
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 149
-    name "292"
+    id 292
     label "p7bIgiu-BXg"
     step 0
     date "2013-04-12T06:48:55Z"
@@ -4192,133 +2869,88 @@ graph
     commentcount 1164
     duration "PT2M1S"
     indegree 4
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 150
-    name "293"
-    label "f1uJEk84t-Q"
+    id 295
+    label "IpDQb01ggag"
     step 0
-    date "2011-01-09T19:40:39Z"
-    title "3rd Blue Beam for World Trade Center Building #7 on 9 11 10"
-    description "This is a video of me at New York City on Saturday, September 11th, 2010. I'm with We Are Change and Architects and Engineers for 9/11 Truth working to get the Truth out about this terrible attack. Thanks We Are Change I love all of you. Lotta love also goes out to Richard Gage and AE911Truth.org and NYCCAN. The 3rd blue beam of light is to signify that World Trade Center Building 7 was the 3rd building that was demolished on 9/11/01 NOT two. On Feb 13, 1975, North Tower 1 (with the antenna) suffered fire damage from the 9th - 14th floor. It did NOT collapse. Office fires don't make buildings collapse. Bombs and explosives do. Almost 10 years later we still don't have a real independent investigation. Please do your own research."
-    channeltitle "97dieu"
-    channelid "UCIpfef1fH5WULdM0Sd-M7RA"
+    date "2020-04-28T02:46:26Z"
+    title "University Study Concludes Fire Did Not Bring Down Building 7 on 9 11"
+    description ""
+    channeltitle "Jug OfPiss"
+    channelid "UCb1BXEvOlcXQXn_tPv7rbag"
     favcount 0
-    viewcount 1752
-    likecount 12
-    commentcount 12
-    duration "PT2M"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 151
-    name "296"
-    label "e2OZLcNOtss"
-    step 0
-    date "2022-07-13T09:25:19Z"
-    title "EPIC Automatic door #shorts #shortsfeed #minecraft #minecraftshorts #viralshorts#minecrafttricks"
-    description "minecraft,&#10;999 iq minecraft,&#10;900 to 1000 days in minecraft,&#10;9000 days in minecraft,&#10;9/11 minecraft,&#10;900 days in minecraft,&#10;9 minecraft 1.16.5,&#10;9 minecraft 1.12.2 mods,&#10;minecraft 90s,&#10;minecraft 9x9 house,&#10;minecraft 9000 days,&#10;minecraft 9/11 meme,&#10;minecraft 9 minute speedrun,&#10;minecraft 9/11 tribute,&#10;minecraft 99,&#10;minecraft 90000 days,&#10;minecraft 900 days,&#10;minecraft 9/11,&#10;84 minecraft,&#10;8k minecraft,&#10;85 minecraft,&#10;800 days in minecraft,&#10;8 bitryan minecraft,&#10;8 minecraft skin,&#10;8 minecraft account,&#10;minecraft 86,&#10;minecraft 81,&#10;minecraft 82,&#10;minecraft 83,&#10;minecraft 8x8 texture pack,&#10;minecraft 84,&#10;minecraft 8 bit music,&#10;minecraft 8k,&#10;minecraft 85,&#10;minecraft 8 bitryan,&#10;7 minecraft year in real time,&#10;7 minecraft glitches,&#10;7 minecraft pranks to help your friends,&#10;7 minecraft farms,&#10;minecraft 72,&#10;minecraft 79,&#10;minecraft 75,&#10;minecraft 7 segment display,&#10;minecraft 71,&#10;minecraft 70,&#10;minecraft 78,&#10;minecraft 7000 days,&#10;minecraft 700 days,&#10;61 minecraft,&#10;60 minecraft,&#10;6000 days in minecraft,&#10;69 days in minecraft,&#10;6 block jump minecraft,&#10;64x64 minecraft texture pack,&#10;666 seed minecraft,&#10;600 days in minecraft,&#10;minecraft 6000 days,&#10;minecraft 67,&#10;minecraft 64 bit,&#10;minecraft 60,&#10;minecraft 6 block jump,&#10;minecraft 64x64 texture pack,&#10;minecraft 600 days,&#10;minecraft 64,&#10;minecraft 666 seed,&#10;minecraft 666,&#10;5 minecraft secret base entrances,&#10;5 minecraft youtubers who have sworn meme,&#10;5 minecraft hacks,&#10;5 minecraft food,&#10;5 minecraft crafts,&#10;5 minecraft music disc,&#10;5 minecraft pranks to play on your friends,&#10;minecraft 500 chunks,&#10;minecraft 5 simple redstone builds,&#10;minecraft 50 ways to die,&#10;minecraft 5 nights at freddy's,&#10;minecraft 5 block jump,&#10;minecraft 5x5 house,&#10;minecraft 50,&#10;minecraft 5000 days,&#10;minecraft 5 music disc,&#10;minecraft 500 days,&#10;4000 days in minecraft,&#10;4d minecraft,&#10;4 minecraft books,&#10;minecraft 4k texture pack,&#10;minecraft 4d skins,&#10;minecraft 4x4 piston door,&#10;minecraft 400 days,&#10;minecraft 422,&#10;minecraft 4000 days,&#10;minecraft 4d,&#10;minecraft 4th dimension,&#10;minecraft 4k,&#10;3 minecraft horror stories animated,&#10;3 minecraft starter house,&#10;3 minecraft farms,&#10;3 minecraft horror stories,&#10;3 minecraft speedrunner vs hunter ft. mrbeast,&#10;3 minecraft songs,&#10;minecraft 300 players civilization,&#10;minecraft 3d texture pack,&#10;minecraft 300 days,&#10;minecraft 360&#176;,&#10;minecraft 3000 days,&#10;minecraft 3x3 piston door,&#10;minecraft 360 vr,&#10;minecraft 3am,&#10;minecraft 3ds,&#10;minecraft 360,&#10;2 minecraft noobs freak out when they find diamonds,&#10;2 minecraft speedrunners vs terminator reaction,&#10;minecraft 2000 days,&#10;1 minecraft video,&#10;1 minecraft 100,&#10;1 minecraft hd,&#10;minecraft 100 days bronzo,&#10;minecraft 1.18,&#10;minecraft 100 days zombie apocalypse,&#10;minecraft 1.20 trailer,&#10;minecraft 1.19 trailer,&#10;minecraft 1.19 let's play,&#10;minecraft 100 days modded,&#10;minecraft 1000 days,&#10;minecraft 100 days survival,&#10;1 minecraft speedrunner vs 5 hunters,&#10;2 minecraft speedrunners vs 2 000 terminators,&#10;minecraft 2012,&#10;1 minecraft speedrunner vs 3 hunters,&#10;2 minecraft speedrunners thought they could beat me,&#10;2 minecraft chickens fighting,&#10;2 minecraft speedrunners vs terminator,&#10;minecraft 2021,&#10;minecraft 2009,&#10;minecraft 2022 april fools,&#10;minecraft 2.0,&#10;minecraft 2020,&#10;minecraft 200 days,&#10;minecraft 2b2t,&#10;minecraft 2022,&#10;1 minecraft house,&#10;1 minecraft song,&#10;1 minecraft 100 days,&#10;minecraft 1.20,&#10;2 minecraft accounts on one computer,&#10;0ggy minecraft,&#10;0x803f8001 minecraft windows 10,&#10;01g minecraft,&#10;0 vs 10000 minecraft,&#10;00000.1 minecraft,&#10;04am minecraft dungeons,&#10;0.07 seconds from losing my minecraft world,&#10;09sharkboy &#10;minecraft youtube shorts,&#10;minecraft yandere,&#10;minecraft yes smarty pie,&#10;minecraft youtubers be like,&#10;minecraft zombie girl,&#10;minecraft xp farm 1.18 bedrock,&#10;minecraft xp farm bedrock edition,&#10;minecraft xbox 360,&#10;minecraft xp glitch,&#10;minecraft xnestorio,&#10;minecraft xp farm 1.18,&#10;minecraft xp farm 1.19,&#10;what is minecraft legends,&#10;minecraft underground house,&#10;minecraft unspeakable,&#10;minecraft update 1.19,&#10;8 minecraft bugs that became features,&#10;3 minecraft pet houses,&#10;minecraft underground base,&#10;minecraft update,&#10;the minecraft song,&#10;the minecraft movie,&#10;tutorial minecraft house,&#10;tiktok hacks minecraft,&#10;4 minecraft civilization,&#10;the warden minecraft,&#10;techno gamerz minecraft,&#10;minecraft origins mod,&#10;minecraft otherside,&#10;minecraft one block,&#10;minecraft ost,&#10;minecraft noob vs pro,&#10;minecraft nutshell,&#10;minecraft new music disc,&#10;minecraft nintendo switch,&#10;minecraft note block songs,&#10;minecraft naruto,&#10;minecraft noob vs pro vs hacker vs god,&#10;minecraft nostalgia,&#10;minecraft new update,&#10;grox minecraft,&#10;game theory minecraft,&#10;game minecraft,&#10;g minecraft banner,&#10;minecraft guide,&#10;minecraft glitches,&#10;minecraft gun mod,&#10;minecraft granny,&#10;minecraft gold ,&#10;minecraft gameplay,&#10;minecraft game,&#10;find diamonds in minecraft 1.18,&#10;facts about minecraft,&#10;free minecraft download,&#10;minecraft free download,&#10; building tutorial,&#10;minecraft build battle,&#10;minecraft but you can mine anything,&#10;minecraft backrooms,&#10;minecraft building ideas,&#10;minecraft bedrock,&#10;minecraft build hacks,&#10;minecraft bedwars,&#10;minecraft but,&#10;minecraft builds,"
-    channeltitle "MINE TIPS YT"
-    channelid "UCbFfCSQoyQav0K6ppiLOz0g"
-    favcount 0
-    viewcount 9
-    likecount -1
+    viewcount 8
+    likecount 0
     commentcount 0
-    duration "PT1M"
+    duration "PT1M20S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 152
-    name "298"
-    label "igzL_xtce5E"
+    id 297
+    label "aEAGzoK97E0"
     step 0
-    date "2011-09-17T07:17:41Z"
-    title "The 9/11 Memorial Tour: The Building 7 Segment - 9/16/11"
-    description "The 9/11 Memorial Tour:  The Building 7 Segment&#10;Shot on September 16th, 2011&#10;I managed to sneak onto a few legs of the absolutely disgusting 9/11 memorial guided tour... This is the part where the guide explains the official story of building 7 and seemed to me even the average duhmerican ain't buying it."
-    channeltitle "wtc791166623"
-    channelid "UCQ4a22tsdWfKjYcqO-MpMdQ"
+    date "2007-11-06T04:21:07Z"
+    title "911 Building 7 - by Martin Noakes"
+    description "http://www.911building7.co.uk/ - music and info&#13;&#10;&#13;&#10;On the 22nd October 2007 Martin Noakes releases his latest song that challenges the official account of 9/11. You can download the tune via many online music distributors including iTunes."
+    channeltitle "SO OUT THERE - Music &#38; Video"
+    channelid "UCxrkYB3oHHNI321sF2CKd8Q"
     favcount 0
-    viewcount 1890
-    likecount 5
-    commentcount 4
-    duration "PT7M49S"
+    viewcount 6204
+    likecount 91
+    commentcount 17
+    duration "PT4M30S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 153
-    name "305"
-    label "9wFsBOjh1sU"
-    step 0
-    date "2018-10-26T01:55:01Z"
-    title "9/11 government controlled abc building 7 south side concrete Steel demolition video"
-    description "[REDACTED]"
-    channeltitle "waptek2"
-    channelid "UCo6GhRKKsBuZmzOewMZgghg"
-    favcount 0
-    viewcount 68
-    likecount 1
-    commentcount 2
-    duration "PT3M11S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 6
   ]
   node
   [
-    id 154
-    name "307"
+    id 304
+    label "ZGCN8uUFKl0"
+    step 0
+    date "2016-07-19T04:50:00Z"
+    title "FREE FALLIN starring BUILDING 7"
+    description "Published on Feb 23, 2016&#10;&#10;&#10;The FREE FALLIN&#8217; Campaign: Between now and September 11, 2016, send your version of &#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; to freefallin@AE911Truth.org, and we&#8217;ll post or share it here. Use our lyrics or write your own. Let&#8217;s post as many videos as we can!&#10; &#10;Sign the Petition. Share our Materials. Support our Work. http://AE911Truth.org&#10;&#10;Background&#10;&#10;&#8220;FREE FALLIN&#8217; starring BUILDING 7&#8221; is a riff on the classic Tom Petty song Free Fallin&#8217;. Twenty-seven years after the release of this beautiful song, it provides a perfect platform to bring attention to the troubling destruction of World Trade Center Building 7, which came down in free fall late in the afternoon on September 11, 2001. According to the official account of 9/11, Building 7 collapsed due to normal office fires ignited by falling debris from WTC 1 (structural damage and diesel fuel fires did not contribute to the collapse, according to the government). However, scientific and circumstantial evidence strongly contradicts that explanation.&#10;&#10;The fact that Building 7 instantaneously entered free fall - the acceleration of gravity - for a period of 2.25 seconds over a distance of eight stories is very strong evidence of controlled demolition. Free fall can only be achieved when there is no resistance provided by the structure below. A free-fall drop of eight stories indicates that all 81 columns in Building 7 were simultaneously severed over eight stories. Only explosives can account for this kind of structural failure. Indeed, fires have never caused the total collapse of a steel-framed high-rise, let alone in the manner of a classic controlled demolition.&#10;&#10;The infinitely small chance of a fire-induced failure bringing down the entire building &#8211; in particular, through the improbable series of structural failures which the government alleges caused the collapse &#8211; cannot be reconciled with the strong foreknowledge on the part of local authorities that Building 7 would eventually collapse (which the video highlights prominently). If Building 7 actually collapsed from fire, the authorities&#8217; prediction of Building 7&#8217;s collapse would be analogous to confidently and correctly predicting one specific lottery ticket to win the lottery.&#10;&#10;The inexplicable foreknowledge on the part of authorities is made all the more apparent by the inability of the engineering community to explain it after the fact. Nine months after the collapse, FEMA would state, &#8220;The specifics of the fires in WTC 7 and how they caused the building to collapse remain unknown at this time&#8230;. [T]he best hypothesis has only a low probability of occurrence.&#8221; More than four years after the collapse, the government&#8217;s lead investigator would state, &#8220;[T]ruthfully, we don&#8217;t really know. We&#8217;ve had trouble getting a handle on building No. 7.&#8221;&#10;&#10;In reality, the warnings of Building 7&#8217;s imminent demise must have originated from someone who knew that Building 7 was going to be brought down in a controlled demolition. Beyond that, Architects &#38; Engineers for 9/11 Truth, which represents over 2,400 architectural and engineering professionals, does not speculate on who brought down Building 7 or why. Instead, we are dedicated to educating the public about the destruction of all three World Trade Center buildings with the expectation that others with the responsibility and authority to conduct a proper investigation will do so.&#10;&#10;Please share this video widely through social media - if you're already on Facebook, share our posted version of the video from our Official page at https://www.facebook.com/ae911truth/and visit http://AE911Truth.org for more information on how you can help advance the cause of truth!"
+    channeltitle "whoobie2008"
+    channelid "UC3tSP3E5LvTdGmb-fU2cFlA"
+    favcount 0
+    viewcount 6576
+    likecount 84
+    commentcount 12
+    duration "PT4M15S"
+    indegree 0
+    sentiment 1
+    cluster 10
+  ]
+  node
+  [
+    id 306
+    label "5akpnIFK-RM"
+    step 0
+    date "2006-04-21T06:53:01Z"
+    title "Building 7 Controlled Demolition"
+    description "Compare the collapse of World Trade Center Building 7 with stock footage of controlled demolitions.  And what was so special about building 7?"
+    channeltitle "thetruthwillout"
+    channelid "UCWgRK5OL0S1tS_sBNYACMuQ"
+    favcount 0
+    viewcount 374224
+    likecount 788
+    commentcount 1474
+    duration "PT4M25S"
+    indegree 5
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 307
     label "YZebkGymzb0"
     step 0
     date "2019-09-06T12:53:46Z"
@@ -4332,21 +2964,12 @@ graph
     commentcount 7
     duration "PT1M20S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 155
-    name "308"
+    id 308
     label "c_KTnvprq_k"
     step 0
     date "2010-03-15T21:01:02Z"
@@ -4360,133 +2983,88 @@ graph
     commentcount 2
     duration "PT3M7S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 156
-    name "309"
-    label "Uwda1Twxtt4"
+    id 311
+    label "iVfJsOMCeuw"
     step 0
-    date "2019-11-10T23:07:31Z"
-    title "NIST Lies: Says No Explosives used to Bring Down Building 7 on 9/11"
-    description "NIST gives the governments official story that explosives were not used to bring down Building 7 on 9/11. Says there were no video or witnesses that recorded explosions."
-    channeltitle "Eduardo Corrochio"
-    channelid "UCsIQkODRQQ3jPPphKUMWCxQ"
+    date "2019-09-26T12:01:03Z"
+    title "9/11/19: CNBC Anchor Admits Building 7 Was A "
+    description "Either: 1) Sensitive government buildings are built pre-wired with charges for future demolition if necessary, 2) the NYFD has the capability to wire a building for demolition in 8 hours, or 3) it was an inside job.&#10;&#10;source video: https://www.youtube.com/watch?v=gNIzC4a8rLs"
+    channeltitle "ThisWeekInFascism"
+    channelid "UCifMC6kFVQcYeU6QBOK-wZg"
     favcount 0
-    viewcount 57
-    likecount 5
-    commentcount 1
-    duration "PT22M15S"
+    viewcount 65
+    likecount 7
+    commentcount -1
+    duration "PT3M28S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 157
-    name "312"
-    label "mwPqbq-IfbY"
+    id 331
+    label "wqZJDPRfUDE"
     step 0
-    date "2022-07-12T05:34:27Z"
-    title "Are Women Loyaler To Their Man Or Bestie?"
-    description "&#128250;Patreon&#128250;&#10;&#10140;http://Patreon.com/Freshfit&#10;&#10;Our goal is to help men navigate women, finances, and fitness. &#10;&#10;#FreshandfitPodcast #freshandfitpodcast &#10;--------------------------------&#10;&#127916;Clips Channel&#127916; &#10;&#10140; https://www.youtube.com/c/FreshandFitClips/videos &#10;---------------------------------&#10;&#128249;Twitch&#128249;&#10;&#10140;https://www.twitch.tv/freshandfitpodcast&#10;---------------------------------&#10;&#128216;Get my FREE E-Book&#128216;&#10;&#10140;http://freebook.unplugfit.com/optin1595265648348 &#10;---------------------------------&#10;&#128142;Join this channel to get access to perks&#128142;&#10;&#10140; https://www.youtube.com/channel/UC5sqmi33b7l9kIYa0yASOmQ/join&#10;---------------------------------&#10;&#128085;Purchase Our Merch&#128085;&#10;&#10140;https://www.freshfitpodcaststore.com/&#10;---------------------------------&#10;&#128176;Tip The FreshandFit Podcast&#128176;&#10;&#10140;https://streamelements.com/freshandfitpodcast/tip&#10;---------------------------------&#10;&#127911;Podcasts&#127911;(Spotify, Apple, Google and MORE)&#10;https://anchor.fm/freshfit&#10;---------------------------------&#10;&#129489;&#8205;&#127891;Studies&#129489;&#8205;&#127891;&#10;https://linktr.ee/fffacts&#10;---------------------------------&#10;&#9823;1on1 Coaching&#9823;&#10;Fresh&#10140;https://calendly.com/ceolifestyleconsulting&#10;Fit&#10140;https://www.freshandfitmiami.com/book-online&#10;---------------------------------&#10;&#128247;Instagram&#128247;&#10;Fresh and Fit&#10140;https://www.instagram.com/freshandfitpodcast/&#10;Fresh&#10140;https://www.instagram.com/freshprinceceo/&#10;Fit&#10140;https://www.instagram.com/unplugfit/?hl=en&#10;Chris&#10140;https://www.instagram.com/aaroncpogson/?utm_medium=copy_link&#10;---------------------------------&#10;&#127925;TikTok&#127925;&#10;https://www.tiktok.com/@freshfitbusiness&#10;---------------------------------&#10;&#128241;Twitter&#128241;&#10;&#10140;https://twitter.com/FreshandFitPod&#10;---------------------------------&#10;&#128231;Collaboration/Sponsorship Inquiries&#128231;&#10;&#10140;Freshandfitpartnerships@gmail.com&#10;---------------------------------&#10;&#127925;Intro/Outro Music&#127925;&#10;Intro&#10140;Future &#38; The Weeknd - Low Life Trap Remix (Apato Remix)&#10;Outro&#10140;Phetsta - Push it to the Limit (Bootleg)&#10;Afterhours&#10140;Laura Branigan - Self Control (New Techno Remix 2021)&#10;---------------------------------&#10;&#128187;Linkr.ee&#128187;&#10;&#10140;Linktr.ee: https://linktr.ee/freshfit&#10;---------------------------------&#10;Girls:&#10;https://www.instagram.com/xena_thewitch/&#10;https://www.instagram.com/tvibe__/&#10;https://www.instagram.com/ryeemeredith/&#10;https://www.instagram.com/sashabeng101/&#10;https://www.instagram.com/julia_delpozzo/&#10;&#10;&#9202;&#65039; TIME STAMPS &#9202;&#65039;&#10;0:00 : Intro/announcements &#10;4:30 : Ladies intro&#10;11:00 : Superchats!&#10;15:00 : Would you want a guy with a good credit score?&#10;18:50 : Female delusion &#8220;don&#8217;t judge my credit score&#8221;&#10;20:20 : Superchats!&#10;25:00 : Dumb people are just dumb&#10;28:00 : Superchats!&#10;32:30 : People don&#8217;t get missing that often (Listen to Myron he was a former federal agent)&#10;34:30 : Live kidnapping on air&#160;&#10;35:00 : Myron ALMOST PAID FOR &#8220;BOX&#8221;&#10;36:00 : Crazy/worst dating stories&#10;41:10 : Superchats!&#10;46:00 : Xena got arrested for credit fraud&#10;49:55 : Superchats!&#10;51:55 : Best friend or Boyfriend?&#10;56:00 : Would you cheat on your boyfriend or on your Best-Friend?&#10;58:30 : 1st video reaction&#10;01:04:00 : When a guy starts to take a girl serious (he does this)&#10;01:05:25 : What constitutes as cheating&#160;&#10;01:10:00 : Guys struggle to get S3X while for women it&#8217;s effortless&#10;01:15:00 : Women don&#8217;t want to settle nowadays&#10;01:18:30 : Women are looking for the top of the top&#10;01:21:15 : Would you date a Bi-guy?&#10;01:22:00 : Myron has a theory on men who swing both ways&#10;01:23:00 : Back to would you date a Bi-guy?&#10;01:29:30 : Superchats!&#10;01:30:10 : Average body count&#160;of a women who is 25 yrs old&#10;01:34:00 : Women finest men more than vice versa&#10;01:39:30 : 2nd video reaction&#10;01:47:50 : Women will not pay for dates unless&#8230;!&#10;01:52:25 : Women can&#8217;t handle rejection (they can&#8217;t pay the date)&#10;01:58:00 : Superchats!&#10;02:00:00 : Before the show did you know the majority of men weren&#8217;t smashing&#10;02:02:50 : Superchats!&#10;02:03:10 : Fresh gives a quick story&#10;02:05:00 : Superchats!&#10;02:06:00 : Why do guys stay in unappreciative relationships?&#10;02:13:00 : Women can&#8217;t handle the truth (why guys lie)&#10;02:17:00 : Guy game is attaining women, girl game is retaining a guy&#10;02:19:00 : Women care more about family than men&#10;02:24:00 : Women are just delusional sheesh (listen closely, fellas)&#10;02:27:00 : When a woman becomes a loser&#10;02:30:00 : Women get bored easily + staying attractive as a man to your women&#10;02:44:00 : Women can&#8217;t give accurate advice to men about dating&#10;02:50:00 : Women do what they want to do &#38; women don&#8217;t drop a guy unless they have a replacement&#10;02:52:25 : Superchats!&#10;02:56:30 : Last thoughts&#10;03:00:00 : Hurting women's feelings &#38;&#10;TIkTek 304&#10;03:05:10: Back to last thoughts&#10;03:07:40 : Superchats!&#10;03:08:30 : The show wraps up"
-    channeltitle "FreshandFit"
-    channelid "UC5sqmi33b7l9kIYa0yASOmQ"
+    date "2022-07-07T01:13:18Z"
+    title "We Are Change Talk Show: Richard Gage Former CEO of Architects and Engineers for 9/11 truth"
+    description "This episode features San Francisco Bay Area architect Richard Gage, AIA, member of the American Institute of Architects and founder and former CEO of Architects &#38; Engineers for 9/11 truth.&#10;&#10;To help the We Are Change Melbourne Talk Show, Donations&#10;can be made to&#10;&#10;Westpac Jeff J O'Toole BSB 734 216 Account Number 871 457&#10;&#10;Support via Paypal: paypal.me/wearechangemelbourne&#10;&#10;https://www.patreon.com/jeffrowproduc...&#10;&#10;Bitcoin: PAZTSOBSEM2DYNDVIA4GG535NZHUO2JS&#10;&#10;We Are Change Melbourne Facebook Group: https://www.facebook.com/groups/50604...&#10;&#10;Jeff O'Toole Facebook: https://www.facebook.com/&#10;&#10;Videos Available on&#10;We Are Change Melbourne Clips https://www.youtube.com/channel/UCuUL...&#10;&#10;Jeffrow Productions.&#10;https://www.youtube.com/channel/UCsgc...&#10;&#10;Subscribe on Bitchute for a full range of videos&#10;https://www.bitchute.com/channel/skhC..."
+    channeltitle "WeAreChangeMelbourne"
+    channelid "UC8jL0B-Lj8IBEt6Df7W23qw"
     favcount 0
-    viewcount 148443
-    likecount 8467
-    commentcount 613
-    duration "PT3H9M11S"
+    viewcount 649
+    likecount 59
+    commentcount 10
+    duration "PT39M"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 158
-    name "332"
-    label "ROvF9ji7eSM"
-    step 0
-    date "2022-07-11T23:55:19Z"
-    title "Dr.SHIVA LIVE: NYC Prepares for Nuclear War. Why? NATO  Kaliningrad History"
-    description "Dr.SHIVA LIVE: NYC Prepares for Nuclear War. Why?  NATO &#38; Russia to Lithuania &#38; Kaliningrad History&#13;&#10;&#13;&#10;In this discussion, Dr. SHIVA reviews the breaking news that New York City (NYC)'s Emergency Management just released a Public Service Announcement (PSA) video to tell New Yorkers HOW to prepare for Nuclear War.  Dr. SHIVA intersects this news with the news of the day that Lithuania is moving forward with its ban of Russian goods such as steel to Russian Province Kaliningrad on the Baltic Sea. A historical systems approach interconnects the developments between NATO &#38; Russia to Lithuania  &#38; Kaliningrad so we can discern the whole picture - the whole system.&#13;&#10;&#13;&#10;It's time you learn to THINK from a SYSTEMS APPROACH to see things as they truly are.  Register for the Foundation of Systems Course at VASHIVA.com/JOIN.&#13;&#10;&#13;&#10;You are also invited to attend an On-Line OPEN HOUSE with Dr.SHIVA THURSDAYS at 11AM and 8PM EST. RSVP at: VASHIVA.com/ORIENTATION.&#13;&#10;&#13;&#10;About DR. SHIVA AYYADURAI, MIT PhD&#13;&#10;Dr. Shiva Ayyadurai is a world-renowned engineer, scientist, educator, entrepreneur, and author. He holds four engineering degrees from MIT including his PhD in Biological Engineering. He is a Fulbright Scholar, Westinghouse Science Honors Awardee, Nominee for the National Medal of Technology and Innovation, and has published in major peer-reviewed journals  such as IEEE, Nature Neuroscience, CELL's Biophysical Journal. &#13;&#10;&#13;&#10;Dr. SHIVA has created the Foundation of Systems educational program so as to provide anyone in the world the opportunity to understand the principles of ALL systems, requiring no pre-requisites, except a commitment to learn.  &#13;&#10;&#13;&#10;He believes that we can create an incredible world through this curriculum which provides the foundations on HOW to THINK, not what to think.&#13;&#10;&#13;&#10;Learn the Foundations of System at VASHIVA.com/JOIN. The  tuition for the course is $2,600. However, for adults (those over the age of 18), Dr. Shiva is providing a $2,500 scholarship along with 1-year membership to connect with a global community of students and scholars. Thus, the adult student's actual Tuition is only $100.00.&#13;&#10;&#13;&#10;Young people (18 and below) will be afforded a FULL scholarship and first year membership at no cost, provided they are sponsored by an adult alumni of the Foundations of Systems Course.&#13;&#10;&#13;&#10;Be the Light!"
-    channeltitle "Dr. SHIVA Ayyadurai, MIT PhD"
-    channelid "UC1Esh5OiaDMUt-iEHYCbQCg"
-    favcount 0
-    viewcount 7800
-    likecount 693
-    commentcount 119
-    duration "PT1H18M3S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 159
-    name "334"
-    label "w4ZVFxmFOF8"
+    id 333
+    label "gHnAc5jlHyg"
     step 0
-    date "2017-04-22T07:10:12Z"
-    title "9/11 - WTC Building 7 Collapse Examined"
-    description "9/11 revisited - This professionally produced video examines WTC Building 7's &#34;total&#34; &#34;symmetrical&#34; &#34;free-falll&#34; collapse on the afternoon of 9/11 which violated the most fundamental laws of Physics. NIST's claim that Building 7 collapsed from simple office fires alone are challenged because of the very heavy reinforcing performed on the building's structure during construction and video/infrared evidence that fires were scattered and relatively minor. It is a portion of the excellent 5-hour 9/11 investigative film &#34;September 11 - The New Pearl Harbor&#34; by Massimo Mazzucco.&#10;&#10;Building 7 was not struck by an aircraft, had minor damage from debris from the collapse of the Twin Towers, and had relatively minor fires as infrared pictures show, yet it was the third steel-framed high-rise office building that day to suffer a total, symmetrical, free-fall collapse from burning office materials. Steel-framed high-rise buildings have never in the history of such buildings suffered such global collapses from fire. &#10;&#10;This video examines Building 7, its construction, and the creative reasoning by the National Institute of Standards and Technology (NIST) in assessing why it collapsed at 5:20 on the afternoon of September 11, 2001. &#10;&#10;The complete 5-hour investigative film:&#10;September 11 - The New Pearl Harbor (Full version) - Part 1 of 3 https://www.youtube.com/watch?v=I5ppQDmId9M &#10;&#10;September 11 - The New Pearl Harbor (Full version) - Part 2 of 3 https://www.youtube.com/watch?v=ahPo6DiGp7Y &#10;&#10;September 11 - The New Pearl Harbor (Full version) - Part 3 of 3 https://www.youtube.com/watch?v=haVF4oUOFJE&#10;&#10;https://www.youtube.com/watch?v=hE_l8V8oUfg&#38;t=1210s - &#34;The Smoking Gun&#34; of 9/11 - WTC Building 7 &#10;&#10;https://www.youtube.com/watch?v=XSYez_UHOCM - The Power of Deception - Vietnam Thru 9/11 to the Middle East and Beyond &#10;&#10;https://www.youtube.com/watch?v=3JK1zTuBTZI  - 9/11 - Did Flight 77 Really Crash into The Pentagon? - 3 Conflicting &#34;Official&#34; Animations"
-    channeltitle "NRUN65"
-    channelid "UC7Of6CWGIHYPzZlc8vADBnQ"
+    date "2022-07-04T09:45:38Z"
+    title "9/11: An Architects Guide Part 1 - Building 7 (5/4/22) [TRUNCATED - SEE DESCRIPTION]"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88937/911-An-Architects-Guide--Part-1-World-Trade-Center-7-5422-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter&#10;Content Managed by ContentSafe.co"
+    channeltitle "RichardGage911WTC"
+    channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
-    viewcount 7879
-    likecount 166
-    commentcount -1
-    duration "PT19M3S"
+    viewcount 7
+    likecount 1
+    commentcount 0
+    duration "PT6M2S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 160
-    name "338"
+    id 337
+    label "_nyogTsrsgI"
+    step 0
+    date "2015-02-25T00:24:48Z"
+    title "Architects and Engineers: Solving the Mystery of Building 7 - w/ Ed Asner"
+    description "This is the original video that YouTube took down, without notice, on or about Feb 20, 2015 - which left the following notice for those who follow one of thousands of locations of the YouTube link out there on the internet:&#10;&#10;https://www.youtube.com/watch?v=hZEvA8BCoBw&#10;&#10;&#34;This video has been removed as a violation of YouTube's policy against spam, scams, and commercially deceptive content&#34;&#10;&#10;Which makes no sense whatsoever given the scientific evidence that this documentary sticks to. Of course we are appealing the action to the extent that we can and will take legal steps as well.&#10;The video had over a Million and a half views prior to be taken down.&#10;&#10;Richard Gage, AIA&#10;Architects &#38; Engineers for 9/11 Truth&#10;http://www.ae911truth.org"
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
+    favcount 0
+    viewcount 436284
+    likecount 7066
+    commentcount 3291
+    duration "PT15M"
+    indegree 0
+    sentiment 1
+    cluster 10
+  ]
+  node
+  [
+    id 338
     label "rZTk3Y_HRoM"
     step 0
     date "2020-08-28T20:08:32Z"
@@ -4500,21 +3078,12 @@ graph
     commentcount 89
     duration "PT33M14S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 161
-    name "339"
+    id 339
     label "uFJa9WUy5QI"
     step 0
     date "2011-09-06T08:10:04Z"
@@ -4528,21 +3097,12 @@ graph
     commentcount 8445
     duration "PT3M31S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 10
   ]
   node
   [
-    id 162
-    name "340"
+    id 340
     label "BLQoaiOOmXA"
     step 0
     date "2016-09-18T04:45:58Z"
@@ -4556,21 +3116,12 @@ graph
     commentcount 240
     duration "PT3M33S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 163
-    name "341"
+    id 341
     label "ozqUrnK26yc"
     step 0
     date "2022-07-03T08:14:23Z"
@@ -4584,49 +3135,31 @@ graph
     commentcount 0
     duration "PT7M46S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 164
-    name "342"
-    label "EHXmsclQvLc"
+    id 344
+    label "-oBEW6k18hE"
     step 0
-    date "2022-06-30T07:13:35Z"
-    title "9/11: An Architects Guide Part 1 - Building 7 (10/5/21) [TRUNCATED - SEE DESCRIPTION]"
-    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/87816/911-An-Architects-Guide--Part-1-World-Trade-Center-7-10521-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#8203;&#10;Content Managed by ContentSafe.co"
+    date "2022-07-03T08:00:27Z"
+    title "9/11: An Architects Guide Part 1 - Building 7 (2/1/22) [TRUNCATED - SEE DESCRIPTION]"
+    description "[[[   IMPORTANT NOTE: YouTube has removed our channels unpredictably, citing &#34;hate speech&#34; while offering no specifics. We have trimmed this video down to a short teaser to discourage YouTube from censoring it. Watch this complete video on Rokfin: https://www.rokfin.com/post/88241/911-An-Architects-Guide--Part-1-World-Trade-Center-7-2122-webinar--R-Gage or on our other video platforms: https://richardgage911.org/#platform-icons   ]]]&#10;&#10;&#10;9/11: An Architect&#8217;s Guide | Part 1 - World Trade Center 7&#10;&#10;Course Number: RG911-AAG-OD1&#10;&#10;Live three-part webinar series. Each part is about 1 1/2 hours long&#10;&#10;Richard Gage, AIA, Architect is dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, my courses provide the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;&#10;Course Description:&#10;&#10;In Part 1 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important and readily understandable evidence regarding the destruction of World Trade Center Building 7 (WTC 7), a 47-story high-rise that was not struck by an airplane.&#10;&#10;The damage WTC 7 suffered from the collapse of the North Tower was found to be inconsequential. It had fires that were similar to those that have occurred previously in high-rise buildings. Yet it fell symmetrically into its own footprint in the manner of a typical controlled demolition.&#10;&#10;In 2008, the National Institute of Standards and Technology (NIST) concluded that WTC 7&#8217;s destruction was caused by normal office fires that burned &#8220;at temperatures hundreds of degrees below those typically considered in design practice for establishing structural fire resistance ratings.&#8221;&#10;&#10;Is NIST&#8217;s explanation for this unprecedented structural failure valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#8212; is more consistent with the evidence.&#10;&#10;Learning Objectives:&#10;&#10;Participants will be able to:&#10;&#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Building 7.&#10;&#10;4. Analyze the physical evidence and dynamics of Building 7&#8217;s collapse according to how consistent they are with the competing hypotheses of fire-induced failure and controlled demolition.&#10;&#10;For more information: visit https://RichardGage911.org&#8203;&#10;&#10;#Part1WorldTradeCenter #anarchitectguide911 #NIST911 #richardgage #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage&#10;Content Managed by ContentSafe.co"
     channeltitle "RichardGage911WTC"
     channelid "UCxf4b9mDWZf-TXw2y3X-zug"
     favcount 0
-    viewcount 9
+    viewcount 3
     likecount 2
     commentcount 0
-    duration "PT11M25S"
+    duration "PT7M46S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 165
-    name "345"
+    id 345
     label "i9XNZ8nWjD8"
     step 0
     date "2007-04-30T13:00:28Z"
@@ -4640,21 +3173,12 @@ graph
     commentcount 364
     duration "PT4M53S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 166
-    name "346"
+    id 346
     label "gMckQvf32M0"
     step 0
     date "2022-07-05T09:48:06Z"
@@ -4668,105 +3192,69 @@ graph
     commentcount 0
     duration "PT11M36S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
-  ]
-  node
-  [
-    id 167
-    name "347"
-    label "koUl7arMncs"
-    step 0
-    date "2013-02-07T08:18:45Z"
-    title "9/11 - Dan Rather Reporting on the Collapse of Building 7"
-    description "Dan Rather isn't the only news anchor that morning who reported on the building collapses looking like a planned implosion. This is just one example. They had a frame of reference for  what planned implosions looked like because they covered other implosions during their career. When an average person sees the collapses, they rationalize that the airplane strikes and huge fireballs were the cause. Repetition also helps this idea and you remember how many times they repeated it to us right? If you didn't already know that the towers were built to withstand airplane impacts, you wouldn't know any better would you? 911 debunking has got nothing but a comforting distraction from the dark reality. The only other time in history that buildings have fallen completely into their own footprints without slowing down is when they were being demolished. The fact that explosives were experienced and heard by countless eyewitnesses (including police, firemen) ON THE RECORD and the fact that the official government report on Building 7 stated that they DID NOT check for the possibility that explosives were used PROVES a government cover up, and therefore, a conspiracy. The fact that NIST pretended to be completely unaware of the molten metal under the buildings when firefighters and others working at ground zero are ON THE RECORD talking about it PROVES a cover up. The fires raged for weeks after 911 under rubble... how?? The fires in the towers were oxygen starved, how did all the dust from the collapses allow for fires hot enough to create pools of molten metal running like lava under the buildings and raging fires for weeks??? The fuel from the planes was mostly burned up after impact, so what was the SOURCE of the molten metal and raging fires under the rubble? Why didn't the Gov't investigate that?? NASA took aerial thermal shots of Ground Zero and it showed extremely high temperatures under towers 1, 2 AND building 7. Understand yet? The fact that the 911 Commission was a fraud according to most of it's own members, and the fact that the report completely ignored building 7 and the explosive testimony altogether PROVES a cover up. As if the first building to collapse exactly like controlled demolition from fire and minor damage wasn't something to mention in the report... especially since it supposedly happened as a result of the &#34;terrorist attacks&#34;. What was the point of the 911 Commission anyway? Their own report stated, &#34;whoever financed the attacks is of little practical significance&#34;. So I guess the 911 Commission only existed to FRONT THE &#34;OFFICIAL&#34; STORY. Firemen and police are on video saying that &#34;the building (WTC 7) would be coming down soon&#34;, and that they needed to clear the area because there was a bomb in the building (WTC 7). The fact that the collapse of WTC 7 was reported by two separate news stations as it was still clearly standing behind the news anchors reporting on it PROVES accidental advanced reporting. The BBC stated that WTC 7 (aka the Solomon brothers building) had &#34;indeed collapsed&#34; while it is seen live as still standing in the background. It is a distinct looking building with the penthouse on top. The fact that the top of the building caved in first reveals that the core columns were cut and then the building conveniently folded in on itself at free fall, barely damaging surrounding structures... which is the goal of controlled demolition. Larry Silverstein is ON THE RECORD stating that &#34;they were not sure they would be able to contain the fire (in WTC 7), so maybe the smartest thing to do is PULL IT, and so they made the decision to PULL, and then we watched the building collapse&#34;. He signed a 99 year lease on all 7 WTC buildings not long before 9/11/2001, he made a fortune on their destruction, and didn't have to pay for the clean up either. John Kerry is ON THE RECORD in a video interview stating that they made the decision to demolish building 7. Controlled demolition requires careful planning and investigation of the building to see how it can be brought down safely. GET IT YET????????????? It was already rigged to blow prior to 9/11/01....For the love of your country and your freedom... WAKE THE HELL UP AMERICA!!!! This is only scratching the surface on WTC 7. The reasons for why it was brought down are clear to those who have done their research on who occupied WTC 7 and the documents and evidence contained within. A worker inside WTC 7 named Barry Jennings is ON RECORD many times (including RIGHT after he escaped from WTC 7 on 911) stating that there were explosions happening inside the building. He has recently died.."
-    channeltitle "That Thing Called Life"
-    channelid "UCVowTbC9ihjT7fSCOL8en9A"
-    favcount 0
-    viewcount 7473
-    likecount 56
-    commentcount 11
-    duration "PT37S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 168
-    name "349"
-    label "DtGfNZFiRZI"
+    id 348
+    label "7OJ0w5eT2gU"
     step 0
-    date "2012-06-24T07:06:07Z"
-    title "9/11 Truth About What Happened To The WTC Building 7"
-    description "September 11 2001 NYC World Trade Center Multiple Explosions... An Inside Job... Please Watch all of this Video Before you make any Conclusions. Links to Evidence and Full Documentary's:&#10;&#10;https://kat.ph/9-11-september-11th-2001-controlled-demolition-of-wtc-s-1-2-and-7-evidence-files-t6222932.html&#10;&#10;Subscribe, Like &#38; Add:  http://www.youtube.com/user/isammy666"
-    channeltitle "isammy666"
-    channelid "UCEfdJWEIajhQTdsQQSp6D_A"
+    date "2016-11-28T21:30:01Z"
+    title "9/11: Why The Building 7 Conspiracy is Bullshit"
+    description "Help Support NOBS by joining our Patreon!&#10;https://www.patreon.com/nobullshit&#10;&#10;Our next 30 supporters on Patreon will get shout outs in future videos.&#10;&#10;Original video: https://youtu.be/uFJa9WUy5QI&#10;SHIRTS! https://teespring.com/stores/no-bullshit-store&#10;Contact: TheNoBSemail@gmail.com&#10;Twitter: https://twitter.com/TheNoBullshit&#10;Paypal Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=SEUELSDAERNQQ&#10;&#10;(Segments of source material used under fair use, for commentary, criticism and satire.)"
+    channeltitle "No B.S."
+    channelid "UCZNk7Jjb2t8EuBdgn4Zj1cw"
     favcount 0
-    viewcount 6761
-    likecount 43
-    commentcount 15
-    duration "PT9M1S"
+    viewcount 59888
+    likecount 746
+    commentcount 920
+    duration "PT8M35S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 169
-    name "351"
-    label "eJI6YvK_TK0"
+    id 350
+    label "mAREJJYZVGw"
     step 0
-    date "2007-05-03T07:26:54Z"
-    title "Demolition terminology: What Does  Mean? (9/11 - Building #7)"
-    description "Many people are trying to get the word out that the term &#34;Pull it,&#34; as said by Larry Silverstein in reference to WTC7 means to &#34;pull the firefighters out of the building.&#34;&#13;&#10;&#13;&#10;The 9-11 Truth Movement has discovered that &#34;Pull it&#34; actually means &#34;to pull the building down&#34; or to demolish a building.&#13;&#10;&#13;&#10;Watch the video and decide for yourself."
-    channeltitle "vicki68"
-    channelid "UCEAF5E8lNnoQ8RGBIzsvBig"
+    date "2007-09-27T09:21:41Z"
+    title "9/11 Building 7 - The Original Video - Martin Noakes"
+    description "There is an updated video here: https://www.youtube.com/watch?v=bMq1PiUbf-M &#10;&#10;Written &#38; recorded in 2007 - From the album Life is Just a Ride - http://www.cdbaby.com/cd/martinnoakes2 &#38; Featured in the multi-award winning film Sieranevada (Nominated for an Oscar - Feb 2017) - by internationally acclaimed director - Cristi Puiu. More info here: http://www.songcity.co.uk Please rate, comment &#38; forward to your friends.&#10;&#10;Many thanks to anyone who supports my work...&#10;&#10;Finally, here's a link to the opening ceremony for the premier of Sieranevada (Which my wife &#38; I attended) at the Cannes Film Festival  - May 2016 - https://www.youtube.com/watch?v=Iy0MJgB45eE &#10;&#10;Chord Chart - http://www.911building7.co.uk/ChordCh...&#10;&#10;Lyrics:&#10;There's a million reasons why I don't believe it.&#10;There's a million reasons why it can't be true.&#10;Open fire can't melt steel, it's not hot enough.&#10;&#10;(It's nothing new it's not a mystery, check out the Reichstag Germany).&#10;&#10;There's a million questions still remain unanswered.&#10;There's a million questions still to be resolved.&#10;Out of nineteen Muslim guys, seven still remained alive.&#10;&#10;(It's nothing new it's not a mystery, check out the USS Liberty)&#10;&#10;CHORUS&#10;&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;The Project for the New American Century (PNAC),&#10;Was added to a year before that day.&#10;It states in order to proceed, &#10;A modern day Pearl Harbor it would need.&#10;&#10;(In Vietnam it was just the same, the Gulf of Tonkin took the blame.)&#10;&#10;9/11 set them free - The Project for the New American Century.&#10;(It's just a lie it's a conspiracy, Cold War, Bird Flu, W.M.D)&#10;&#10;CHORUS&#10;9/11, 9/11, what went down with building 7?&#10;It's a mystery to this day.&#10;The building fell with such precision,&#10;Freefall speed no reasons given,&#10;Like the towers it just fell.&#10;And fire's not enough,&#10;No way hot enough to bring 'em down.&#10;&#10;We've gotta stand up,&#10;We've gotta be strong,&#10;We've got to hold our nerve until the job is done&#10;And they've made a KILLING.&#10;They don't care about the BLOOD that they're spilling.&#10;&#10;Oh!&#10;&#10;9/11, 9/11, what went down with building 7?&#10;Ever since that fateful day.&#10;Our civil rights have disappeared,&#10;A global Fascist state draws near,&#10;And our freedom slips away.&#10;And they don't give a stuff!&#10;They've made that clear enough&#10;So now it's up to us, to bring 'em down...&#10;&#10;*IMPORTANT Syria Chemical Attack is a False Flag event EXACTLY like 9/11 - https://www.youtube.com/watch?v=Bdnr32H34T4 &#10;&#10;&#10;9/11 documentaries:&#10;https://www.youtube.com/watch?v=gq35C... - 9/11 mysteries&#10;http://www.youtube.com/watch?v=bwThcd... - 9/11 Ripple Effect&#10;http://www.youtube.com/watch?v=quTifl... - Loose Change&#10;&#10;Agenda 21 Link - http://www.youtube.com/watch?v=x5dvBH...&#10;Agenda 21 Link - http://www.youtube.com/watch?v=TzEEgt..."
+    channeltitle "marndin"
+    channelid "UCyKCTr1DsfA_rbw5HBvHFKA"
     favcount 0
-    viewcount 21227
-    likecount 118
-    commentcount -1
-    duration "PT2M45S"
+    viewcount 5773
+    likecount 71
+    commentcount 25
+    duration "PT4M17S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 8
   ]
   node
   [
-    id 170
-    name "353"
+    id 352
+    label "wZsvc1b2HjI"
+    step 0
+    date "2008-05-15T01:43:41Z"
+    title "9/11: Building 7 - Controlled Demolition"
+    description "An outtake from the film &#34;Zeitgeist&#34; comparing the World Trade Center Building 7 collapse with the characteristics of a controlled demolition.&#10;&#10;See these films:&#10;&#10;9/11 Press for Truth&#10;9/11 Mysteries&#10;Zeitgeist&#10;&#10;Tell the Truth.  Spread the Word."
+    channeltitle "Ghosty Boy"
+    channelid "UC6YqwIyORhwd-67GZR5Le7g"
+    favcount 0
+    viewcount 1837
+    likecount 9
+    commentcount 2
+    duration "PT58S"
+    indegree 0
+    sentiment 1
+    cluster 9
+  ]
+  node
+  [
+    id 353
     label "IAgi4Z5ImRU"
     step 0
     date "2007-03-01T00:37:25Z"
@@ -4780,21 +3268,12 @@ graph
     commentcount 88
     duration "PT9M51S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 4
   ]
   node
   [
-    id 171
-    name "354"
+    id 354
     label "oj3SC2moaY8"
     step 0
     date "2007-08-10T00:04:42Z"
@@ -4808,133 +3287,88 @@ graph
     commentcount 1
     duration "PT3M45S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 172
-    name "355"
-    label "cLj-KLlI3j0"
+    id 358
+    label "K0-a3pzLIY4"
     step 0
-    date "2012-03-02T02:33:53Z"
-    title "9-11 building 7?????"
-    description "What happened to building number 7!"
-    channeltitle "brad Hess"
-    channelid "UCr1MhSwpXGNMlbwK0VKn-4Q"
+    date "2013-05-12T15:33:28Z"
+    title "9/11 Twin Towers Collapse Coincidences."
+    description "Moment of 9/11 Planes Attack  On WTC 1 &#38; 2  &#10;Symmetry of Collapse Coincidences&#10;Building 7 Collapse Within 7 Seconds Mystery In &#10;Expert View For Alternate Explanation.&#10;Music  - Heart of Courage, &#10;               Protectors of The Earth&#10;Album - Invincible  &#10;              ,Thomas J. Bergersen"
+    channeltitle "Andy Cruise"
+    channelid "UC7hFQ6zWC4CIs7aiMxTJULA"
     favcount 0
-    viewcount 61
-    likecount 0
-    commentcount 0
-    duration "PT2M6S"
+    viewcount 60452
+    likecount 400
+    commentcount 516
+    duration "PT15M22S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 173
-    name "359"
-    label "aDWgsVSo4Oc"
+    id 360
+    label "TB2IWCdM6Jg"
     step 0
-    date "2017-10-04T04:15:17Z"
-    title ", AE911Truth Hoax"
-    description "In #911Truth Part 6 I go over an extensive review of some of the blatant disinformation in the so-called 9/11 &#8220;Truth&#8221; Movement to illustrate the multi-layered onion-like coverup of what actually happened on 9/11, which is the towers turned to dust in mid-air. The most recognizable &#8220;truth&#8221; organization is Architects &#38; Engineers for 9/11 &#8220;Truth&#8221; but also serves as the best example of how controlled opposition works. Instead of urging people to do their own investigations they urge professionals to sign a petition asking the government to do an &#8220;independent investigation&#8221; into the &#8220;explosives&#8221; evidence allegedly used on 9/11, in hopes of incriminating the government&#8230;.. if this isn&#8217;t controlled opposition then I don&#8217;t know what is. And to make it more blatantly clear what AE911Truth&#8217;s purpose is, their logo literally contains the infamous freemason Compass &#38; Square!&#10;&#10;But regardless of AE911Truth&#8217;s mission statement, they not only cherry pick &#8220;evidence&#8221; to support a mystical &#8220;thermite&#8221; demolition of &#8220;building 7&#8221;, they purposely ignore all evidence that couldn&#8217;t possibly have been controlled demolition. From ignoring the lack of seismic data, and the literal HOURS of thick dust pouring out of all 7 World Trade Center Towers including the famous &#8220;building 7&#8221;, to outright banning people that do mention this evidence. In fact one of the founders, Richard Gage, LITERALLY says they ban and censor people that share information they don&#8217;t like or can&#8217;t explain, such as the brilliant work of Dr. Judy Wood and her book &#8220;Where Did The Towers Go?&#8221;. And as I explained in my #FreeEnergy Part 2 video, the infamous Steven Jones whom was involved in covering up Cold Fusion in the 1980s and 1990s, was also a cofounder of AE911Truth, because as will be abundantly clear 9/11 is directly tied to the advanced free energy technology issue.&#10;&#10;Also in this video I cover another blatant disinformation campaign and this time is from the &#8220;Alternative&#8221; media outlet SGTreport and their pathetic &#8220;Mini Nukes&#8221; lies. Early last month, Sean from SGTreport interviewed James Perloff to discuss the miniature nuclear device &#8220;theory&#8221; that James &#8220;believes&#8221; 2 Israeli &#8220;agents&#8221; carried nuclear bombs inside 2 briefcases and placed in an elevator below the two World Trade Center Towers. James claims that two nuclear blasts caused so much &#8220;heat&#8221; that and &#8220;explosions&#8221; that debris flew across far distances, the bedrock &#8220;melted&#8221;, ground zero was super &#8220;hot&#8221;, and the most stupid of all statements ever uttered: &#8220;nuclear steam&#8221; traveled through mystical sewers to set around 1400 cars in weird fires. Every single pathetic &#8220;statement&#8221;, i.e. blatant lies, can easily be disproved by just seeing videos of survivors LITERALLY walking on ground zero, moments after the buildings &#8220;collapsed&#8221;, i.e. it wasn&#8217;t &#8220;hot&#8221; and the ground was barely damaged. In fact an ambulance was right next to WTC 1 and was BARELY damaged! In my extensive video I illustrate in a step by step method so many of the blatant lies by Sean and James.&#10;&#10;Also included in this nearly 6 hour video is an extensive analysis of other so-called &#8220;alternative&#8221; media outlets such as David Icke, Alex Jones, AlienScientist, and even Truthstream Media and the Colbert Report, to show that Dr. Judy Wood name is literally off limits by these so-called &#8220;Truth&#8221; outlets. Hopefully these outlets build up the courage and live up to their name&#8230;&#10;&#10;Stay Tuned for #911Truth Part 7&#8230;&#10;&#10;CORRECTION: @2:00:00 The filing cabinet is not found in the &#34;meteorite&#34;.&#10;&#10;Download video notes: https://1drv.ms/b/s!As32ynv0LoaIh4IDhy-GxG2YVwzHuQ&#10;&#10;Video notes : https://peakd.com/@mes/911truth-part-6-controlled-opposition-mini-nukes-building-7-ae911truth-hoax&#10;&#10;Related Videos: &#10;&#10;#911Truth: https://peakd.com/truth/@mes/911&#10;#MESScience: https://mes.fm/science-playlist&#10;#AntiGravity: https://peakd.com/antigravity/@mes/series&#10;#FreeEnergy: https://mes.fm/freeenergy-playlist .&#10;&#10;------------------------------------------------------&#10;&#10;SUBSCRIBE via EMAIL: https://mes.fm/subscribe&#10;&#10;DONATE! &#661; &#8226;&#7461;&#8226;&#660; https://mes.fm/donate&#10;&#10;Like, Subscribe, Favorite, and Comment Below! &#10;&#10;Follow us on:&#10;&#10;MES Truth: https://mes.fm/truth&#10;Official Website: https://MES.fm&#10;Hive: https://peakd.com/@mes&#10;&#10;MORE Links: https://linktr.ee/matheasy&#10;&#10;Email me: contact@mes.fm&#10;&#10;Free Calculators: https://mes.fm/calculators&#10;&#10;BMI Calculator: https://bmicalculator.mes.fm&#10;Grade Calculator: https://gradecalculator.mes.fm&#10;Mortgage Calculator: https://mortgagecalculator.mes.fm&#10;Percentage Calculator: https://percentagecalculator.mes.fm&#10;&#10;Free Online Tools: https://mes.fm/tools&#10;&#10;iPhone and Android Apps: https://mes.fm/mobile-apps"
-    channeltitle "Math Easy Solutions"
-    channelid "UCUUBq1GPBvvGNz7dpgO14Ow"
+    date "2019-09-13T01:38:25Z"
+    title "9 11 RARE CLEAR Video of WTC Building 7 Controlled Demolition"
+    description "Synchronized destruction of multiple floors on World Trade Center 7.&#10;This video does not make any claim of how the WTC 7 went down. This video is merely highlighting the smoke expanding rapidly out of the several floors as WTC 7 fell down.&#10;&#10;Here's my sauce:&#10;http://ine.uaf.edu/wtc7"
+    channeltitle "Enigma-Turing Machines"
+    channelid "UC2Mv1Jr5Zy1QlyUmcRI3cqA"
     favcount 0
-    viewcount 16128
-    likecount 191
-    commentcount 119
-    duration "PT5H45M25S"
+    viewcount 3696
+    likecount 43
+    commentcount 3
+    duration "PT1M"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 174
-    name "361"
-    label "4nm8y-gyWlA"
+    id 362
+    label "gNIzC4a8rLs"
     step 0
-    date "2019-06-11T08:41:19Z"
-    title "9/11 building7 mirror 2018"
-    description ""
-    channeltitle "King Fred II"
-    channelid "UC9P7LwJSQcM3wZECjWaeLZw"
+    date "2019-09-25T20:09:58Z"
+    title "9/11 Bombshell: CNBC Anchor Says Building 7 a "
+    description "For more analysis of Ron Insana&#8217;s statement regarding Building 7, visit https://AE911Truth.org/news/570.&#10;&#10;On the 18th anniversary of 9/11, CNBC senior analyst and former anchor Ron Insana went on Bernie and Sid In the Morning on New York&#8217;s 77 WABC Radio to share his haunting experience of that horrible day.&#10;&#10;Approximately eight minutes into the interview, Insana made a statement regarding the 47-story World Trade Center Building 7 that is truly stunning, especially considering his access to the scene and his job as a prominent news anchor:&#10;&#10;&#8220;Well, remember 7 World Trade had not yet come down. And so when I went down to the [New York Stock] Exchange that Wednesday morning [September 12], I was standing with some military and police officers, and we were looking over in that direction. And if it had come down in the way in which it was tilting, it would have wiped out everything from where it stood to Trinity Church to the Exchange to, effectively, you know, the mouth of the Hudson. And so there were still fears that if that building had fallen sideways, you were going to wipe out a good part of Lower Manhattan. So they did manage for one to take that down in a controlled implosion later on. And the Exchange was up and running the following Monday.&#8221;"
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
-    viewcount 67
-    likecount 4
-    commentcount 4
-    duration "PT1M23S"
+    viewcount 32118
+    likecount 1433
+    commentcount 836
+    duration "PT3M28S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 11
   ]
   node
   [
-    id 175
-    name "363"
-    label "qKlKxVNqzF8"
+    id 364
+    label "b4z-Wrp1pY8"
     step 0
-    date "2014-01-02T15:51:10Z"
-    title "Geraldo Rivera Sides With Alex Jones 9/11 Building 7"
-    description ""
-    channeltitle "TOO SHORT News"
-    channelid "UC5cC56Y-wm3pSB8TBXLYGvg"
+    date "2009-05-19T06:43:57Z"
+    title "Kevin Mcpadden 9/11 First Responder: Building 7 Countdown, Explosions, Controlled Demolition"
+    description "Kevin Mcpadden experienced the collapse of WTC 7 firsthand. He was told that Building 7 was going to be brought down. He heard the countdown to the controlled demolition, heard the explosions, felt the ground shake, and ran from the smoke. Filmed at the World Trade Center in New York, he stands below where the Twin Towers used to stand, part of a feature documentary &#34;The Elephant In the Room&#34;.&#13;&#10;&#13;&#10;The Elephant in the Room is a documentary following British filmmaker Dean Puckett through his journey into the 9/11 Truth Movement: a global movement of 'conspiracy theorists' who hold as their primary belief that the official explanation about what happened on 9/11 is totally or partially inaccurate. The filmmakers travel from middle England, across Europe and to New York for the six year anniversary of the attacks, where the film takes one final twist as we are introduced to the 9/11 first responders who are suffering from various grave health difficulties due to the toxic dust that they breathed in trying to help their country during the weeks after this tragic event. Told with a personal hands on approach that avoids advancing any one position, the film asks the question: Are these crazy conspiracy theorists? Or is 9/11 Truth a credible political movement?"
+    channeltitle "911TruthVideos"
+    channelid "UCExZBT0BpFdRlR59WbrxM_g"
     favcount 0
-    viewcount 546
-    likecount 5
-    commentcount 0
-    duration "PT4M30S"
+    viewcount 26797
+    likecount 194
+    commentcount 29
+    duration "PT2M38S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 176
-    name "365"
+    id 365
     label "PJJ2M3gn9rE"
     step 0
     date "2019-04-02T07:58:19Z"
@@ -4948,21 +3382,12 @@ graph
     commentcount 7
     duration "PT9M1S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 177
-    name "366"
+    id 366
     label "CTBDY5ArSys"
     step 0
     date "2015-07-07T06:23:50Z"
@@ -4976,49 +3401,31 @@ graph
     commentcount 11
     duration "PT3M33S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 368
+    label "mBm3k5so2vQ"
+    step 0
+    date "2020-09-11T22:17:56Z"
+    title "Never Forget WTC Building 7 9-11"
+    description "I discuss waking up as a result of 9/11, WTC7, and thinking for yourself&#10;&#10;&#10;&#10;&#10;Eternal Flame by Lahar https://soundcloud.com/musicbylahar&#10;Creative Commons &#8212; Attribution 3.0 Unported &#8212; CC BY 3.0&#10;Free Download / Stream: https://bit.ly/al-eternal-flame&#10;Music promoted by Audio Library https://youtu.be/Q8773hTncoM"
+    channeltitle "Brandon Start"
+    channelid "UCpvPq0Oyt3iiJxh_4B9vbCw"
+    favcount 0
+    viewcount 75
+    likecount 6
+    commentcount 1
+    duration "PT5M2S"
+    indegree 0
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 178
-    name "367"
-    label "783mtK_0zhE"
-    step 0
-    date "2010-11-16T02:55:07Z"
-    title "Huge explosion before the destruction of building 7 WTC - AE911Truth.org"
-    description "A huge explosion is clearly heard before building 7 is destroyed. You may need earbuds to hear the explosion.&#10;This video is part of NIST'S recent FOIA release.&#10;Download and compare the videos yourself&#10;The video above with the explosion is found below:&#10;http://911datasets.org/images/International_Center_for_911_Studies_NIST_FOIA_-_Release_14_-_NIST_Cumulus_Video_Database_-_Original_Files_-_CBS-Net_NIST_Dub_%235_-_CBS-Net_Dub5_09.avi.torrent&#10;&#10;The same but longer video mysteriously without an explosion is found below:&#10;http://911datasets.org/images/International_Center_for_911_Studies_NIST_FOIA_-_Release_14_-_NIST_Cumulus_Video_Database_-_Original_Files_-_CBS-Net_NIST_Dub_%237_-_CBS-Net_Dub7_47.avi.torrent&#10;&#10;Preview the New AE911Truth.org 9/11 Documentary 2011 &#34;9/11: Explosive Evidence -- Experts Speak Out&#34;:&#10;http://www.youtube.com/watch?v=yIOC1J44RYw&#10;&#10;Pre-Order the DVD September 1st 2011:&#10;http://www.ae911truth.net/store/product_info.php?products_id=145&#10;&#10;Buy the 9/11 Book &#34;9/11 The Simple Facts&#34;:&#10;http://www.ae911truth.net/store/product_info.php?products_id=143&#10;&#10;Follow AE911TRUTH around the Web:&#10;http://AE911truth.org/news-section/41-articles/544-eso-trailer.html&#10;http://www.911ExpertsSpeakOut.org&#10;http://www.AE911truth.org&#10;http://www.BuildingWhat.org&#10;http://www.Facebook.com/ae911truth&#10;http://www.Twitter.com/ae911truth&#10;http://www.Youtube.com/ae911truth&#10;http://www.Flickr.com/ae911truth&#10;http://www.AE911truth.net/store/&#10;http://www.AE911truth.org/911investigator"
-    channeltitle "AE911Truth"
-    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
-    favcount 0
-    viewcount 37552
-    likecount 238
-    commentcount 253
-    duration "PT52S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 179
-    name "369"
+    id 369
     label "5864an4_w6Q"
     step 0
     date "2007-03-30T08:01:06Z"
@@ -5032,21 +3439,12 @@ graph
     commentcount -1
     duration "PT8M13S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 180
-    name "370"
+    id 370
     label "HV1dVA0nhr8"
     step 0
     date "2021-04-21T08:28:06Z"
@@ -5060,77 +3458,50 @@ graph
     commentcount 8
     duration "PT1M48S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 181
-    name "371"
-    label "HetCLca2fbw"
+    id 373
+    label "mWkbD56KiUA"
     step 0
-    date "2009-05-24T15:57:04Z"
-    title "Building 7 - Gone in 7 - WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11 !!"
-    description "http://www.northtexas911truth.com/  ~ WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11: Building 7 - Gone in 7 ~ &#13;&#10;&#13;&#10;Mark your calendars for Saturday, July 11th 2009, for a landmark, all day event entitled &#34;WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11: Building 7 - Gone in 7&#34;. A vast array of the very best documentary films will be screened in different theatres throughout the entire day. There will be 9/11 exhibits, special guest presentations, scientific articles, government documents, and experts on hand for Q&#38;A. Special guests include Lt Col Bob Bowman, one of the country's foremost authorities on national security and past director of the Star Wars Program. &#13;&#10;&#13;&#10;Expect to see tons of compelling, explosive film and video footage which most Americans have never seen, due to a virtual media blackout. &#13;&#10;Expect to find out &#34;WHAT YOU ARE NOT SUPPOSED TO KNOW ABOUT 9/11&#34;.  - &#13;&#10;&#13;&#10;With your DAY PASS, 'Come and Go' from 10am-10pm to the Film Theatres of your choice. Dont miss this dynamic event held at the Conference Center which is located at the Spring Creek Campus of Collin County Community College in Plano, TX. For more information visit http://www.711911.webs.com/  or http://www.building7symposium.webs.com/  &#13;&#10;&#13;&#10;*There are ONLY 3 engineers in the country who support the government's story about the collapse of the 3 World Trade Center buildings...and their pay hinges upon the government. &#13;&#10;However, there are more than 650 INDEPENDENT &#34;Architects and Engineers for 9/11 Truth&#34; who have put their reputations on the line by saying that the government's story is a LIE!! ...that there is VERY CLEAR EVIDENCE of Controlled Demolition with all 3 buildings in New York city on 9/11/01.  http://www.ae911truth.org/  &#13;&#10;&#13;&#10;Unexploded fragments of military grade, high-tech explosives were found in ALL the dust samples from the World Trade Center collapses. These fragments of explosives are so extremely high-tech that they could ONLY have been created in an advanced laboratory manufacturing facility. This conclusive evidence comes from a published, peer-reviewed scientific journal after vasts amount of research, study and testing. This type of science can not be fudged. &#13;&#10;It is set in stone - Explosives were used on 9/11/01. &#13;&#10;http://stj911.org/&#13;&#10;~~~~~~~~~~~~~~ This 10 minute YouTube segment came from parts of Chapter 10 of CORE OF CORRUPTION:  IN THE SHADOWS.  http://www.coreofcorruption.com/"
-    channeltitle "NorthTexas911Truth"
-    channelid "UCUrpdrQ7-yewIdVQtsULBSg"
+    date "2021-09-01T02:13:37Z"
+    title "Ed Asner on 9/11: Solving the Mystery of Building 7 (2010)"
+    description "Ed Asner: Solving the Mystery of Building 7 (2010)&#10;&#10;A Tribute to Ed Asner&#10;&#10;Dear Friends:&#10;&#10;Our beloved friend Ed Asner, fellow Lawyers&#8217; Committee Board member died this past Sunday August 29, 2021 . He was 91 years old.&#10;&#10;Ed towered above all the actors and entertainers in the United States regarding his concern for justice and proper investigation of the 9/11 crimes.&#10;&#10;He was a good friend of both the Architects &#38; Engineers for 9/11 Truth and for the Lawyers&#8217; Committee for 9/11 Inquiry. He did excellent videos both on 9l11 crimes and of support for both non-profit organizations. He sat on the Lawyers&#8217; Committee Board of Directors.&#10;&#10;There will be a tribute to him at the Lawyers&#8217; Committee 9/11 20th anniversary event. As was previously planned, he would have given the welcome address. September 11th. Global Live Stream from the Lawyers&#8217; Committee&#10;&#10;Architects and Engineers http://ae911truth.org&#10;&#10;Visit our new Merch store https://www.lcfor911.us/&#10;Visit the Lawyers' Committee website http://lcfor911.org&#10;&#10;Please help with a donation if you can&#10;We are a 501(c)(3) nonprofit organization so donations are tax deductible&#10;https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&#38;hosted_button_id=4MNAJTY6GPJM2&#38;source=url"
+    channeltitle "Lawyers' Committee for 9/11 Inquiry"
+    channelid "UCWQbEeExutR4vR4pEFmQUJw"
     favcount 0
-    viewcount 198868
-    likecount 696
-    commentcount 673
-    duration "PT10M6S"
+    viewcount 1135
+    likecount 126
+    commentcount 39
+    duration "PT15M46S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 182
-    name "374"
-    label "rVBd03ibziM"
+    id 375
+    label "kqG6v7KZ_s8"
     step 0
-    date "2007-03-13T21:29:52Z"
-    title "9/11 Building 7"
-    description "9/11 Truth Song"
-    channeltitle "davidhharnett"
-    channelid "UCiRyyCslOYTZrBfAlFtS18g"
+    date "2013-04-26T08:21:34Z"
+    title "9/11 *RARE* CLEAR Video of WTC Building 7 Controlled Demolition"
+    description "Demolition of WTC Building 7, 9/11/2001 (September 11th Attacks) - This SHOWS CLEARLY Proof / Smoking Gun of what happened to Building 7."
+    channeltitle "Patriot News Organization"
+    channelid "UCj-tpQY7U-FqEYIKLG2q2qA"
     favcount 0
-    viewcount 27873
-    likecount 191
-    commentcount 214
-    duration "PT4M28S"
+    viewcount 434678
+    likecount 1124
+    commentcount 1031
+    duration "PT1M"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 3
   ]
   node
   [
-    id 183
-    name "376"
+    id 376
     label "c5genXmKBrc"
     step 0
     date "2007-12-14T10:48:42Z"
@@ -5144,21 +3515,12 @@ graph
     commentcount 3
     duration "PT5M14S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 184
-    name "377"
+    id 377
     label "Zk3YUb1HCE4"
     step 0
     date "2020-07-14T00:54:39Z"
@@ -5172,161 +3534,107 @@ graph
     commentcount 0
     duration "PT2M37S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 185
-    name "378"
-    label "DlEqDpR1Ru4"
+    id 384
+    label "AMH8fYrXxcI"
     step 0
-    date "2013-06-15T11:04:42Z"
-    title "9/11: WTC Building 7 - Proof of Demolition and Media Fakery"
-    description "As we all know, building 7 at the WTC was &#34;pulled&#34; on purpose and on Larry Silverstein's (the owner) command on September 11, 2001.&#10;&#10;Ah yes, and the BBC reported the &#34;collapse&#34; roughly 20 minutes TOO EARLY, so BEFORE WTC 7 even went down.&#10;&#10;9/11 at ikuduyu: http://ikuduyu.4key.net/category/911-usa/"
-    channeltitle "ProjectVenko"
-    channelid "UCEIyKQ7LFd-ZyPD5ogyMX3g"
+    date "2015-11-06T21:19:51Z"
+    title "New evidence of Building 7 on 9/11"
+    description "Bombs go off on building 7"
+    channeltitle "OLMEC THUGS"
+    channelid "UCDUQt35_Ew9xgaCJ1ZS0w2w"
     favcount 0
-    viewcount 1881
-    likecount 20
-    commentcount 5
-    duration "PT2M25S"
+    viewcount 126
+    likecount 2
+    commentcount 0
+    duration "PT48S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
+    cluster 1
+  ]
+  node
+  [
+    id 388
+    label "8VjBNJr7MLw"
+    step 0
+    date "2020-03-06T09:56:20Z"
+    title "BBC reporting on the collapse of WTC Building 7 - ON 9/11."
+    description "THE TRUTH OF WHAT HAPPENED THAT DAY. NO LIES HEAR.&#10;VENTURA, WHAT A GREAT GUY."
+    channeltitle "OH MY GOD"
+    channelid "UC78Iz691HisenUxRwnFkk1Q"
+    favcount 0
+    viewcount 81
+    likecount 5
+    commentcount 2
+    duration "PT3M20S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 390
+    label "OVVQEBy1pW4"
+    step 0
+    date "2010-09-01T16:04:54Z"
+    title "9/11 Inside Job Smoking Gun: WTC Building 7"
+    description "Daily News @ http://RevolutionNews.US ~ Richard Gage, AIA has been a practicing San Francisco Bay Area architect for more than 20 years, and is a registered member of the American Institute of Architects. Most recently he worked on a $400M mixed-use facility in Las Vegas NV. But he is also the founder and CEO of Architects &#38; Engineers for 9/11 Truth, now numbering over 800 A/E's, calling for a new investigation into the destruction of all 3 WTC high-rises on 9/11. Gage has spoken at over 100 events, reaching 20 U.S. states and 8 countries. He has been invited to present in 14 cities Australia, New Zealand, and Japan before the end of this year. As the anniversary of the events approaches, Gage tells WAN why he thinks there are hidden depths to the destruction of the World Trade Centre...&#10;&#10;http://www.worldarchitecturenews.com/index.php?fuseaction=wanappln.commentview&#38;comment_id=158&#10;&#10;---&#10;&#10;&#34;Educate and inform the whole mass of the people... They are the only sure reliance for the preservation of our liberty.&#34;&#10;&#10;&#8212;Thomas Jefferson&#10;&#10;&#10;Time For A New American Revolution?&#10;&#9829;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9829;&#10048;&#9760;&#10047;&#9774;&#10048;&#9760;&#10;http://RevolutionNews.US&#10;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9774;&#10048;&#9760;&#10047;&#9829;"
+    channeltitle "American2Revolution"
+    channelid "UCw6VBjvalgYRbVQUJrSuC0g"
+    favcount 0
+    viewcount 10065
+    likecount 37
+    commentcount 93
+    duration "PT9M11S"
+    indegree 0
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 186
-    name "385"
-    label "CWa6vI1aUvw"
+    id 392
+    label "kP0Hs-v-uJ0"
     step 0
-    date "2011-09-09T11:56:28Z"
-    title "9/11 Charlatans EXPOSED Denying Building 7 Damage"
-    description "See Pathetic Con Men Lie About BBC Documentary The Third Tower. This 9/11, let's really work together to counter their deceptions&#10; which are misdirecting people from reality, Clicking Here Helps: &#10;http://www.youtube.com/watch?v=5I2lUGso3m4&#38;list=PLC8F8AF16A5781733&#38;feature=plpp&#10;Look Across the Street from Building 7&#10;&#10;9/11 Charlatans EXPOSED Denying Building 7 Damage&#10;http://www.youtube.com/watch?v=CWa6vI1aUvw&#38;list=PL9D3FBD3ED9B84927&#38;feature=plpp&#10;&#10;On 9/11, WTC7 Collapse Was Firemen's Concern (controlled demolition debunked) http://www.youtube.com/watch?src_vid=5I2lUGso3m4&#38;feature=iv&#38;v=_7rj5UQvlWw&#38;list=PL605641003DE05216&#10;&#10;Building 7 did NOT fall at &#34;free fall&#34;:&#10;NIST stated that the north face of the building descended 18 stories (the portion of the collapse visible in the video) in 5.4 seconds, based on video analysis of the building collapse. This time period is 40 percent longer than the 3.9 seconds this process would have taken if the north face of the building had descended solely under free fall conditions. http://www.nist.gov/public_affairs/factsheet/wtc_qa_082108.cfm&#10;And building 7 didn't &#34;collapse into its own footprint&#34;&#10;See damage it did to 30 West Broadway in this video:&#10;http://www.youtube.com/watch?v=_7rj5UQvlWw&#38;list=PL605641003DE05216&#38;feature=plpp&#10;&#10;&#34;Class 1 (fire-resistive) buildings typical of high-rise construction usually are designated as having three- or four-hour fire resistance ratings. In the past, that was taken to mean that they would never be a serious collapse threat. While this is usually the case in the completed structures, it is not a guarantee, particularly in the steel-framed high-rise that relies on some type of spray-on or membrane fireproofing to protect the steel. &#34; Firehouse.com Sept. 1998 ***So Fire CAN cause  steel-framed high-rises to collapse as this article explicitly states. SEE: http://tinyurl.com/911WhatYouDontKnow&#10;&#10;Fires CAN cause thermal expansion (which is what happened to WTC7): WTC7: &#34;The heat from the uncontrolled fires caused steel floor beams and girders to thermally expand, leading to a chain of events that caused a key structural column to fail. The failure of this structural column then initiated a fire-induced progressive collapse of the entire building.&#10;According to the report's probable collapse sequence, heat from the uncontrolled fires caused thermal expansion of the steel beams on the lower floors of the east side of WTC 7, damaging the floor framing on multiple floors.&#10;Eventually, a girder on Floor 13 lost its connection to a critical column, Column 79, that provided support for the long floor spans on the east side of the building (see Diagram 1). The displaced girder and other local fire-induced damage caused Floor 13 to collapse, beginning a cascade of floor failures down to the 5th floor. Many of these floors had already been at least partially weakened by the fires in the vicinity of Column 79. This collapse of floors left Column 79 insufficiently supported in the east-west direction over nine stories.&#10;The unsupported Column 79 then buckled and triggered an upward progression of floor system failures that reached the building's east penthouse. What followed in rapid succession was a series of structural failures. Failure first occurred all the way to the roof line-involving all three interior columns on the easternmost side of the building (79, 80, 81). Then, progressing from east to west across WTC 7, all of the columns failed in the core of the building (58 through 78). Finally, the entire fa&#231;ade collapsed.&#34; http://www.nist.gov/public_affairs/factsheet/wtc_qa_082108.cfm&#10;***Please subscribe&#10;http://Tinyurl.com/SubToChannel&#10;&#10;Join Email list to give extra boost:&#10;http://TinyUrl.com/JoinEmail (People report not seeing their subscriptions so this could help boost views)&#10;You can also invite others to join the email list: http://groups.google.com/group/representativepress/members_invite"
-    channeltitle "Representative Press &#9758;"
-    channelid "UCdUAI319whTmWI2D6hbMxBg"
+    date "2010-11-14T04:12:48Z"
+    title "Geraldo Rivera Does 911 Truth Segment About Building 7"
+    description "Airing Date Nov.13, 2010&#10;&#10;Geraldo Rivera Does 911 Truth Segment About Building 7&#10;Geraldo says &#34; i am certainly much more open minded about it then i was&#34;"
+    channeltitle "SaveOurSovereignty3"
+    channelid "UCHegi3yBeL9oVDtlGR5lTbA"
     favcount 0
-    viewcount 11096
-    likecount 205
-    commentcount 544
-    duration "PT1M49S"
+    viewcount 233222
+    likecount 1507
+    commentcount 1527
+    duration "PT8M10S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 8
   ]
   node
   [
-    id 187
-    name "389"
-    label "EGgESuLLLss"
+    id 394
+    label "hE_l8V8oUfg"
     step 0
-    date "2014-09-25T20:00:26Z"
-    title "9/11 - Dr Graeme MacQueen - Foreknowledge of Building 7s Collapse"
-    description "Investigate Building 7 : March 26 2011, West Hartford CT&#10;&#10;The Case for a New Building 7 Investigation &#10;First of a a Three-part Presentation Introduced by Dr. William Pepper, International Human Rights Attorney&#10;&#10;Foreknowledge of Building 7's Collapse&#10;Dr. Graeme MacQueen&#10;&#10;Even though World Trade Center Building 7 is said to have been the first steel-framed building in history to undergo total collapse due to fire, there were many people who knew the building was going to collapse long before it did. In this presentation, the evidence for this peculiar foreknowledge will be summarized and its significance discussed. The argument will be made that it is impossible to explain this foreknowledge on the basis of the collapse hypothesis offered by the National Institute of Standards and Technology (NIST). The only hypothesis that explains this foreknowledge is the controlled demolition hypothesis."
-    channeltitle "911TimeForTruth"
-    channelid "UCJGLxCmH-RV0VfZYsfWdPuA"
+    date "2013-04-23T05:52:32Z"
+    title " of 9/11 - WTC Building 7?"
+    description "9/11 revisited - This consists of various video clips focusing on the &#34;impossible&#34; &#34;by fires alone&#34; total free-fall collapse of WTC-7 Salomon Brothers Building on 9/11/2001.&#10;&#10;The collapse of WTC Building 7 is the most telling event of the 9/11 attacks and demonstrates beyond reasonable doubt that controlled demolition was used to bring the building down in its own footprint. Larry Silverstein, the new World Trade Center leaseholder at the time of the attacks, admitted in a 2002 PBS documentary that Building 7 was &#34;Pulled&#34; - a demolition industry term for &#34;controlled demolition.&#34; And, indeed, Building 7's collapse appears to be textbook controlled demolition. &#10;&#10;However, the National Institute of Standards and Technology (NIST) who investigated the WTC building collapses stated officially that office fires alone brought the building down - something that has never happened in the history of steel famed highrise buildings. Since it borders on the realm of impossibility that technicians could wire a 47-story building with office fires burning for the near textbook perfect demolition seen in Building 7's collapse in a mere 6-hours, it strongly suggests that the building was wired prior to 9/11/2001, and this would seem to indicate that the 9/11 attacks were an inside orchestrated operation.&#10;&#10;As Dr. Alan Sabrosky, former Director of Studies at the U.S. Army War College, commented: &#34;If one of the buildings was wired for demolition, all of them were wired for demolition.&#34; And, indeed, all three buildings demonstrate controlled demolition.&#10;&#10;Is World Trade Center building # 7 the 9/11 smoking gun? Countless professionals feel that it is. Only three high-rise steel framed buildings have &#34;ever&#34; completely collapsed with the destruction being attributed to fires, and all of them were in the World Trade Center complex on September 11, 2001. Was WTC-7 &#34;pulled&#34; (controlled demolition)? In the PBS documentary aired in 2002 WTC leaseholder Larry Silverstein used the demolition industry's term &#34;Pull-it&#34; when describing the events that led to the perfect textbook total collapse of the building only 6-hours after the 9/11 attack.&#10;&#10;It takes weeks to months to prepare a large building for precision controlled demolition - especially the degree of precision exhibited by WTC-7's collapse. To properly prepare a 47-story steel framed building for such a perfect demolition in less than six hours would be almost super-human - all the more remarkable if fires, smoke, and the confusion and turmoil of the 9/11 attack would be in the mix.&#10;&#10;The World Trade Center had modernization work being performed for many months leading up to 9/11 as well as suspicious activities such as an electrical system power-down involving the Twin Towers on the weekend prior to 9/11. Could this have given the &#34;perpetrators&#34;, whoever they are, the opportunity to wire the buildings for demolition? Who was in charge of security for the World Trade Center? Marvin P. Bush, George W. Bush's younger brother was a principle in Securacom, the company that provided security for the World Trade Center on 9/11, United Airlines, and Dulles International Airport. In addition, Wirt D. Walker III, George W. Bush's cousin, was Securacom's CEO.&#10;http://911research.wtc7.net/cache/wtc/arch/wtc_elevator_renovation.pdf&#10;http://whatreallyhappened.com/WRHARTICLES/911security.html"
+    channeltitle "NRUN65"
+    channelid "UC7Of6CWGIHYPzZlc8vADBnQ"
     favcount 0
-    viewcount 2085
-    likecount 30
-    commentcount 6
-    duration "PT1H20M8S"
+    viewcount 104608
+    likecount 912
+    commentcount -1
+    duration "PT35M39S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 188
-    name "391"
-    label "K2Kas3Iw22A"
-    step 0
-    date "2015-04-26T13:31:10Z"
-    title "9/11 Truth - Remember Building 7 - Investigate 9/11"
-    description "By 2015, more than 2300 architects and engineers have signed a petition demanding a truly independent investigation to uncover the truth surrounding the events of September 11th - specifically the collapses of the Twin Towers and Building 7. The official story that fire brought down the buildings, they say, is an impossibility.&#10;&#10;http://www.ae911truth.org/&#10;&#10;http://rememberbuilding7.org/&#10;&#10;Video uploaded under fair use clause - Copyright Act of 1976, 17 U.S.C. &#167; 107 - for purposes such as criticism, comment, news reporting and education. DocumentaryArchive does not own the rights to this video."
-    channeltitle "DocumentaryArchive"
-    channelid "UC07P8ZHoaO_Bp1Rq1OnDzbA"
-    favcount 0
-    viewcount 69
-    likecount 1
-    commentcount 0
-    duration "PT32S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
-  ]
-  node
-  [
-    id 189
-    name "393"
-    label "_3kAwlHKo4g"
-    step 0
-    date "2018-03-06T19:58:59Z"
-    title "9/11: Building 7 reloaded; exposing the filth in our institutions (2018)"
-    description "Professor Colin Bailey had his 2018 Inaugural Lecture at Queen Mary University in London, defending the NIST version of the WTC7 collapse.&#10;&#10;This video presents 25 arguments / counts of endictments, exposing the fraud and the state-sponsored terror attacks of 9/11 (Building 7 only)"
-    channeltitle "9/11 and beyond: the Oligarch's nuclear wargames"
-    channelid "UCJfUw7aBrzWkaq3Lh_FdbEw"
-    favcount 0
-    viewcount 2451
-    likecount 66
-    commentcount 19
-    duration "PT13M39S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 190
-    name "395"
+    id 395
     label "vONXZ-Dp2ZI"
     step 0
     date "2019-09-11T20:43:25Z"
@@ -5340,189 +3648,126 @@ graph
     commentcount 7
     duration "PT2M17S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
-  ]
-  node
-  [
-    id 191
-    name "396"
-    label "HXd9ukmfPKA"
-    step 0
-    date "2011-09-20T22:30:40Z"
-    title "Lupe Fiasco Wants An Investigation On 9-11, Building 7, And The New World Order"
-    description "Lupe talking about 9-11 building 7 and NWO"
-    channeltitle "TheLCloo56"
-    channelid "UCnOZ_u75mT4waoTYrdDgeqA"
-    favcount 0
-    viewcount 704
-    likecount 13
-    commentcount 1
-    duration "PT13M26S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 192
-    name "398"
-    label "fjfyR_IU6LY"
-    step 0
-    date "2018-03-29T05:13:21Z"
-    title "Building 7 Collapses (9/11 Clean Footage)"
-    description "Building 7 was definitely not hit by a plane, but it definitely collapsed just the same as the twin towers did. &#10;&#10;[ SOURCE: http://www.dailymotion.com/video/x4uk6r7 ]&#10;&#10;--------------------&#10;&#10;MY OWN mathematical / linguistic STRONG EVIDENCE against the existence of an all-powerful god (pay attention and read over; If you can comprehend it, you will be strongly influenced, and rightfully so).&#10;&#10;-----------------------------&#10;&#10;Since&#8203; &#8203;all&#8203; &#8203;creatures&#8203; &#8203;live&#8203; &#8203;in&#8203; &#8203;the&#8203; &#8203;same&#8203; &#8203;&#8220;universe&#8221;,&#8203; &#8203;when&#8203; &#8203;a creature&#8203; &#8203;of&#8203; &#8203;any&#8203; &#8203;kind&#8203; &#8203;is&#8203; &#8203;hurting,&#8203; &#8203;it&#8203; &#8203;means&#8203; &#8203;that&#8203; &#8203;there&#8217;s&#8203; &#8203;an increased&#8203; &#8203;chance&#8203; &#8203;that&#8203; &#8203;every&#8203; &#8203;other&#8203; &#8203;creature&#8203; &#8203;in&#8203; &#8203;the&#8203; &#8203;universe will&#8203; &#8203;be&#8203; &#8203;hurting;&#8203; &#8203;Because&#8203; &#8203;we&#8203; &#8203;know&#8203; &#8203;this,&#8203; &#8203;god&#8203; &#8203;himself,&#8203; &#8203;if&#8203; &#8203;truly &#8220;all-powerful&#8221;,&#8203; &#8203;in&#8203; &#8203;the&#8203; &#8203;literal&#8203; &#8203;sense,&#8203; &#8203;must&#8203; &#8203;not&#8203; &#8203;allow&#8203; &#8203;there&#8203; &#8203;to be&#8203; &#8203;any&#8203; &#8203;pain&#8203; &#8203;in&#8203; &#8203;the&#8203; &#8203;universe,&#8203; &#8203;since&#8203; &#8203;god&#8203; &#8203;himself&#8203; &#8203;exists&#8203; &#8203;in&#8203; &#8203;the same&#8203; &#8203;universe,&#8203; &#8203;as&#8203; THE UNIVERSE IS &#8220;UNI&#8221;,&#8203; &#8203;meaning&#8203; &#8203;&#8220;ONE&#8221;, meaning&#8203; &#8203;&#8220;ALL THAT IS, CAN, AND WILL BE&#8221;;&#8203; &#8203;God&#8203; &#8203;must&#8203; &#8203;not&#8203; &#8203;allow the&#8203; &#8203;creatures&#8203; &#8203;of&#8203; &#8203;the&#8203; &#8203;universe&#8203; &#8203;to&#8203; &#8203;suffer,&#8203; &#8203;since&#8203; &#8203;if&#8203; &#8203;the creatures&#8203; &#8203;of&#8203; &#8203;the&#8203; &#8203;universe&#8203; &#8203;suffer,&#8203; &#8203;it&#8203; &#8203;technically&#8203; &#8203;increases the&#8203; CHANCE &#8203;of&#8203; &#8203;god&#8203; &#8203;itself&#8203; &#8203;suffering.&#8203;&#10;&#10;&#8203;We&#8203; &#8203;understand&#8203; &#8203;that creatures&#8203; &#8203;can,&#8203; &#8203;in&#8203; &#8203;fact,&#8203; &#8203;suffer;&#8203; &#8203;This&#8203; &#8203;means&#8203; &#8203;that&#8203; &#8203;god&#8203; &#8203;is non-existent,&#8203; &#8203;or&#8203; &#8203;somehow&#8203; &#8203;in&#8203; &#8203;a&#8203; &#8203;special&#8203; &#8203;godly&#8203; &#8203;place&#8203; &#8203;that makes&#8203; &#8203;sense&#8203; &#8203;only&#8203; &#8203;to&#8203; &#8203;god,&#8203; &#8203;that&#8203; &#8203;is,&#8203; &#8203;him&#8203; &#8203;being&#8203; &#8203;OUTSIDE OF THE &#34;UNIVERSE&#34;.&#8203; &#8203;Since&#8203; &#8203;we&#8203; &#8203;understand&#8203; &#8203;that&#8203; &#8203;god&#8203; &#8203;must&#8203; &#8203;be&#8203; &#8203;outside of&#8203; &#8203;the&#8203; &#8203;&#8220;universe&#8221;&#8203; &#8203;somehow,&#8203; &#8203;since&#8203; &#8203;if&#8203; &#8203;he&#8203; &#8203;wasn&#8217;t,&#8203; &#8203;pain&#8203; &#8203;would be&#8203; &#8203;non-existent,&#8203; &#8203;he&#8203; &#8203;therefore&#8203; &#8203;doesn&#8217;t&#8203; &#8203;even&#8203; &#8203;exist,&#8203; &#8203;due&#8203; &#8203;to the&#8203; &#8203;fact&#8203; &#8203;that&#8203; &#8203;HE'S OUTSIDE OF THE UNIVERSE,&#8203; &#8203;meaning&#8203; &#8203;he&#8217;s completely&#8203; &#8203;disconnected&#8203; &#8203;from&#8203; &#8203;us&#8203; &#8203;in&#8203; &#8203;every&#8203; &#8203;way&#8203; &#8203;or&#8203; &#8203;form.&#8203;&#10;&#10;&#8203;One&#8203; &#8203;may&#8203; &#8203;argue&#8203; &#8203;that&#8203; &#8203;since god&#8203; &#8203;is&#8203; &#8203;&#34;all-powerful&#34;,&#8203; &#8203;he&#8203; &#8203;can&#8203; &#8203;make&#8203; &#8203;it&#8203; &#8203;so&#8203; &#8203;that&#8203; &#8203;other creatures in the UNI-verse&#8203; &#8203;are hurting&#8203; &#8203;while&#8203; at the same time not having an INCREASED CHANCE of god himself hurting,&#8203; &#8203;while&#8203; &#8203;remaining&#8203; &#8203;in&#8203; &#8203;the&#8203; &#8203;same UNI-verse;&#8203; &#8203;However,&#8203; &#8203;since&#8203; &#8203;this&#8203; ISN'T MATHEMATICALLY POSSIBLE,&#8203; &#8203;he&#8203; &#8203;must&#8203; &#8203;exist&#8203; &#8203;outside&#8203; &#8203;of&#8203; &#8203;mathematics,&#8203; &#8203;and&#8203; &#8203;since &#34;exist&#8203; &#8203;or&#8203; doesn't &#8203;exist&#34;&#8203; &#8203;are&#8203; &#8203;part&#8203; &#8203;of&#8203; &#8203;mathematics,&#8203; &#8203;since&#8203; &#8203;they&#8203; &#8203;are based&#8203; &#8203;on&#8203; BINARY,&#8203; &#8203;he,&#8203; &#8203;in&#8203; &#8203;the&#8203; &#8203;end,&#8203; &#8203;must&#8203; register BOTH EXISTING AND NOT EXISTING or simply NOT EXISTING (&#8203;&#8203;due&#8203; &#8203;to&#8203; &#8203;his&#8203; &#8203;&#34;impossible&#34;&#8203; &#8203;powers that&#8203; &#8203;are&#8203; &#8203;outside&#8203; &#8203;of&#8203; &#8203;math),&#8203;&#8203; &#8203;&#8203;and [existingandnotexisting=/=existing]&#8203;,&#8203; &#8203;since [existingandnotexisting]&#8203;&#8203; &#8203;&#8203;is&#8203; &#8203;non-binary,&#8203; &#8203;so&#8203; &#8203;he&#8203; &#8203;doesn&#8217;t&#8203; &#8203;exist. [And if he registers &#34;NOT EXISTING&#34; then he DOESN'T EXIST].&#10;&#10;After&#8203; &#8203;all&#8203; &#8203;this,&#8203; &#8203;one&#8203; &#8203;may&#8203; &#8203;still&#8203; &#8203;be&#8203; &#8203;able&#8203; &#8203;to&#8203; &#8203;argue&#8203; &#8203;that&#8203; &#8203;since&#8203; &#8203;god is&#8203; &#8203;&#8220;all-powerful&#8221;,&#8203; &#8203;he&#8203; &#8203;can&#8203; &#8203;make&#8203; &#8203;it&#8203; &#8203;so&#8203; &#8203;that&#8203; &#8203;pain&#8203; &#8203;isn&#8217;t bothersome&#8203; &#8203;to&#8203; &#8203;him,&#8203; &#8203;but&#8203; &#8203;this&#8203; &#8203;makes&#8203; &#8203;very&#8203; &#8203;little&#8203; &#8203;sense because&#8203; &#8203;pain&#8203; &#8203;is&#8203; &#8203;an&#8203; &#8203;objective&#8203; &#8203;experience&#8203; &#8203;that&#8203; &#8203;cannot&#8203; &#8203;be simply&#8203; &#8203;ignored&#8203; &#8203;(If&#8203; &#8203;anything&#8203; &#8203;in&#8203; &#8203;the&#8203; &#8203;universe,&#8203; &#8203;including&#8203; &#8203;any possible&#8203; &#8203;&#8220;god&#8221;&#8203; &#8203;experiences&#8203; &#8203;pain,&#8203; &#8203;it&#8203; &#8203;cannot&#8203; &#8203;be &#8220;shaken&#8203; &#8203;off&#8221;&#8203; &#8203;to&#8203; &#8203;a&#8203; &#8203;level&#8203; &#8203;of&#8203; &#8203;perfection,&#8203; &#8203;because&#8203; &#8203;pain&#8203; &#8203;is&#8203; &#8203;pain).&#10;&#10;After&#8203; &#8203;this,&#8203; &#8203;there&#8217;s&#8203; &#8203;no&#8203; &#8203;more&#8203; &#8203;&#34;god&#8203; &#8203;can&#8203; &#8203;do&#8203; &#8203;it&#8203; &#8203;because&#8203; &#8203;he's all-powerful&#34;,&#8203; &#8203;it&#8203; &#8203;ends&#8203; &#8203;there,&#8203; &#8203;to&#8203; &#8203;the&#8203; &#8203;power&#8203; &#8203;of&#8203; &#8203;binary,&#8203; &#8203;due&#8203; &#8203;to the&#8203; &#8203;authority&#8203; &#8203;of&#8203; &#8203;language&#8203; &#8203;itself&#8203;; We&#8203; &#8203;have exhausted&#8203; &#8203;all&#8203; &#8203;of&#8203; &#8203;the&#8203; &#8203;counter-arguments&#8203; &#8203;to&#8203; &#8203;the&#8203; &#8203;&#8220;god&#8203; &#8203;and pain&#8221;&#8203; &#8203;argument&#8203; &#8203;that&#8203; &#8203;I&#8203; &#8203;invented&#8203; &#8203;all&#8203; &#8203;by&#8203; &#8203;myself.&#8203;&#8203; &#8203;P.S.&#8203;&#8203; &#8203;This&#8203; &#8203;is my&#8203; &#8203;best&#8203; &#8203;and&#8203; &#8203;original&#8203; &#8203;evidence&#8203; &#8203;against&#8203; &#8203;god&#8217;s&#8203; &#8203;existence.&#10;&#10;-------------"
-    channeltitle "Alex Jones"
-    channelid "UC9s-siwcn3AQYR6hTWnD6Jw"
-    favcount 0
-    viewcount 79
-    likecount 1
-    commentcount 2
-    duration "PT36S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 193
-    name "402"
-    label "Hk0eR7aIVrw"
-    step 0
-    date "2022-01-30T23:26:55Z"
-    title "Alexa knows what happened to Building 7 on 9/11."
-    description ""
-    channeltitle "Bob Tuskin"
-    channelid "UCNA9WcxAT07_5JNOZBzM3IQ"
-    favcount 0
-    viewcount 348
-    likecount 33
-    commentcount 3
-    duration "PT29S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 194
-    name "404"
-    label "lpUN_XnO0gU"
-    step 0
-    date "2017-09-11T14:25:42Z"
-    title "Building 7 on 9/11"
-    description "No one doubts that no aircraft hit building 7 on 9/11, yet it imploded just like the others."
-    channeltitle "Billy Bumr"
-    channelid "UCpJ78lsiOplZ84586TIx9RQ"
-    favcount 0
-    viewcount 170
-    likecount 2
-    commentcount 0
-    duration "PT9M1S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 9
-  ]
-  node
-  [
-    id 195
-    name "406"
-    label "1EcUGLoowv4"
-    step 0
-    date "2010-07-23T09:19:24Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 13/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
-    favcount 0
-    viewcount 378
-    likecount 2
-    commentcount 0
-    duration "PT5M8S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 3
   ]
   node
   [
-    id 196
-    name "408"
-    label "Np4yXRNHc5Y"
+    id 397
+    label "Xc3Cj_8sA90"
     step 0
-    date "2014-10-18T15:36:44Z"
-    title "9/11 Nuclear Demolition of WTC Building 7, slow motion, narrated"
-    description "9/11 Nuclear Demolition -- New York was NUKED on 9/11. This video is based on the CBS News shot of the WTC-7 demolition from the West Side Hwy. Peter Valentino narrates the slow motion version and compares it to a conventional controlled demolition.&#10;&#10;Source https://www.youtube.com/watch?v=38Vsv0eve_U&#10;&#10;Follow us on Twitter @papamundi_film&#10;&#10;Peter Valentino is the author of the film Papamundi and the 9/11 Mechanism, available at Amazon:&#10;http://amzn.to/2E4ilZP&#10;&#10;See the trailer:  https://www.youtube.com/watch?v=oA_qU7xt-YM&#10;&#10;Peter Crawford-Valentino for California Governor 2018&#10;https://valentino4gov.org/"
-    channeltitle "PAPAMUNDI"
-    channelid "UCUok8kVv_fDXvV1B-d6oVAA"
+    date "2016-10-24T00:34:12Z"
+    title "Building 7 free fall false flag. PNAC 9/11 inside job"
+    description "9/11 Building 7 freefall false flag PNAC airplanes put options gold attacks pentagon shocking demolition Inside Job proof"
+    channeltitle "Nick Auclair"
+    channelid "UC57wiBIyEi9eMmiT88cYDSw"
     favcount 0
-    viewcount 6146
-    likecount 47
-    commentcount 2
-    duration "PT1M52S"
+    viewcount 167
+    likecount 6
+    commentcount 0
+    duration "PT1M18S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 197
-    name "410"
+    id 401
+    label "Y2h6MpjTjAk"
+    step 0
+    date "2022-04-23T04:56:26Z"
+    title "Update 12 Building 7 Control Demolition"
+    description "Updated #WTC7 news reports hinting at explosions in the building&#10;&#10;Silverstein never said who should do the demolition nor has any &#8220;Conspiracy Theorists&#8221; said  who should do the deed i.e. naming NYC Fire Department to demolish Building 7 or anyone else. That is a false strawman by trolls who are evil people. &#10;&#10;The fire crews were &#8220;pulled&#8221; before noon. The building was fully evacuated by 12:15.&#10;&#10;There was water. There were 3 18,000 gallons per minute fireboats a block and a half away, and their water was directed to a pumper relay truck on West Street and played on WTC6&#8212;which was already a total loss.&#10;&#10;I am told by a reliable source that had the street-level Siamese fitting on WTC7 been connected to the hose line from the West Street relay pumper, the WTC7 sprinkler system would have been restored.&#10;&#10;#WTC7  https://www.podchaser.com/podcasts/the-mind-renewed-thinking-chri-6810/episodes/tmr-092-tony-szamboti-on-nists-49702175&#10; tony szamboti barry jennings Mr. hess Silverstein &#10;9/11: An Architect&#8217;s Guide | Part 2: The Twin Towers&#8217; Explosive Destruction&#10;VISIT US AT:     https://RichardGage911.org&#10;Course Number: RG911-AAG-OD2&#10;Three-part webinar series. Each part is about 1 1/2 hours. &#10;We are an organization dedicated to conducting research and providing education about the complete destruction of the three World Trade Center skyscrapers, our courses give architects the technical knowledge and analytical framework with which to evaluate the most likely cause of those building failures.&#10;Course Description:&#10;Never before has a steel-framed high-rise collapsed from fire. Why, then, did three such buildings collapse on September 11, 2001?&#10;In Part 2 of &#8220;9/11: An Architect&#8217;s Guide,&#8221; Richard Gage, AIA, provides an overview of the most important evidence related to the explosiveness of the Twin Towers&#8217; destruction. Much like that of WTC 7, the destruction of the Twin Towers exhibited most of the features of controlled demolition.&#10;In 2005, the National Institute of Standards and Technology (NIST) concluded that the Twin Towers&#8217; destruction resulted from the combined effects of the airplane impact damage and ensuing fires.&#10;Is NIST&#8217;s explanation for these unprecedented structural failures valid? Decide for yourself after watching this informative one-hour presentation. Using the information presented, you will be able to evaluate which of the two hypotheses &#8212; fire-induced failure or controlled demolition &#65533;&#65533; is more consistent with the evidence.&#10;Learning Objectives:&#10;Participants will be able to: &#10;1. Describe the characteristics of building fires and the aspects of high-rise design that contribute to make fire-induced failure in steel-framed high-rise buildings a rare occurrence.&#10;2. Recognize the distinct features associated with fire-induced failure and the distinct features associated with the procedure of controlled demolition.&#10;3. Describe step-by-step the series of structural failures that the National Institute of Standards and Technology found to be the most likely cause of the collapse of World Trade Center Twin Towers.&#10;4. Analyze the physical evidence and the dynamics of the collapse of the Twin Towers according to how consistent it is with the competing hypotheses of fire-induced failure and controlled demolition.&#10;VISIT US AT: https://RichardGage911.org&#10;#RichardGage911 #NIST911 #AnArchetectsguidepart2 #TTExplosivedestruction #richardgage911 #richardgage911:unleashed! #wtc7 #911con #worldtradecenter #richardgage"
+    channeltitle "Rare 9/11 Facts"
+    channelid "UCOch_SItPku1FqXKLMe9lqg"
+    favcount 0
+    viewcount 179
+    likecount 6
+    commentcount 1
+    duration "PT17M28S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 403
+    label "CmrjJaIb_6k"
+    step 0
+    date "2014-08-27T08:39:20Z"
+    title "9/11 Building 7 Controlled Demolition Exposed on C-SPAN, Aug 2014"
+    description "Originally broadcast on C-SPAN.  The use of media materials is protected by the Fair Use Clause of the U.S. Copyright Act of 1976, which allows for the rebroadcast of copyrighted materials for the purpose of commentary, criticism, and education. &#10;&#10;The implications of this evidence revealed on C-SPAN affects much of U.S. domestic and foreign policy since 2001.  It also involves the death of some 3,000 American citizens during the incident in question, and the subsequent use of United States military resources, the invasion of several countries negatively impacting millions of innocent people, and a dramatic erosion of US civil liberties at home based upon an incident which is now know to be based on a false narrative. &#10;&#10;The evidence highlighted requires a much larger investigation and follow-up after careful consideration of the truth and the evidence at hand.  Based on the conclusions, appropriate action must be taken against those who are at fault."
+    channeltitle "faithmix"
+    channelid "UCZDk9ub6AuNtGqDeANXvyaQ"
+    favcount 0
+    viewcount 843
+    likecount 8
+    commentcount 1
+    duration "PT40M10S"
+    indegree 0
+    sentiment 1
+    cluster 7
+  ]
+  node
+  [
+    id 405
+    label "AgksqYdRCPU"
+    step 0
+    date "2012-02-23T03:48:37Z"
+    title "Building 7 Collapse  Exploding Twin Tower on 9/11 at World Trade Center David Chandler"
+    description "See http://www.youtube.com/user/Destitutebroadcast for more videos.&#10;&#10;This video shows the 3rd tower WTC7 that collapsed at free-fall speed and the North Tower explosively demolished and it's concrete floors pulverized to dust. &#10;&#10;David Chandler discussed the WTC7 collapse in greater detail and analyzed the North Tower's explosions on two separate occasions. &#10;David did not object to my combining the two talks.&#10;&#10;World Trade Center &#10;Building 7 &#10;controlled demolition&#10;9/11 &#10;Twin Towners explode&#10;WTC7 collapse&#10;911 False Flag&#10;Reichstag Fire"
+    channeltitle "Destitutebroadcast"
+    channelid "UC9O0UYrdvqCOplMXEaErOUA"
+    favcount 0
+    viewcount 35003
+    likecount 74
+    commentcount 1
+    duration "PT8M4S"
+    indegree 0
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 407
+    label "tgsGnTmqFnY"
+    step 0
+    date "2020-01-25T11:32:06Z"
+    title "9/11 - BBC Reporting Building 7 collapsed B E F O R E it actually did - David Knight Show 1/24/2020"
+    description "9/11 - BBC Reporting Building 7 (not hit by plane at all) collapsed B E F O R E it actually collapsed - David Knight Show 1/24/2020"
+    channeltitle "hobbyrevolutionary"
+    channelid "UCob2URirjOhKBaiiX8yK1OA"
+    favcount 0
+    viewcount 103
+    likecount 4
+    commentcount 0
+    duration "PT7M18S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 409
+    label "ZEMjtNnxSm8"
+    step 0
+    date "2020-09-11T14:21:32Z"
+    title "WTC Building 7 Live News Report 9/11"
+    description "Sept 11&#10;WTC Building 7 live report.&#10;We will never forget what a tragic day 9/11 was."
+    channeltitle "TMV ARCHAEOLOGY"
+    channelid "UC7VrPrAWwhiscORQz-gFM1g"
+    favcount 0
+    viewcount 387
+    likecount 5
+    commentcount 0
+    duration "PT3M33S"
+    indegree 0
+    sentiment 1
+    cluster 10
+  ]
+  node
+  [
+    id 410
     label "pPOyX8r1XOg"
     step 0
     date "2018-02-18T11:50:51Z"
@@ -5536,21 +3781,12 @@ graph
     commentcount 0
     duration "PT15M39S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 198
-    name "411"
+    id 411
     label "lESol88wOi0"
     step 0
     date "2009-05-14T11:11:25Z"
@@ -5564,301 +3800,202 @@ graph
     commentcount -1
     duration "PT9M50S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 11
   ]
   node
   [
-    id 199
-    name "412"
-    label "noGGs8FJ8W0"
+    id 413
+    label "Eszw6BQH15c"
     step 0
-    date "2019-04-01T05:59:44Z"
-    title "Building 7 Collapse WTC 9-11 (sensitive footage)"
-    description "WTC demolition video I complied. Hi def, sensitive footage. Viewer discretion.&#10;What else have they lied about??"
-    channeltitle "Paul Not DownUnder"
-    channelid "UCLwA-DzTxeUhTcZtFaOHF-A"
+    date "2022-01-07T03:22:33Z"
+    title "9 11 CNBC Anchor Says Building 7 was a controlled demolition"
+    description "Project Gelatin B related"
+    channeltitle "dan smith"
+    channelid "UCRo8H9uCD9JoZ3sfDI4JHyQ"
     favcount 0
-    viewcount 452
-    likecount 12
-    commentcount 3
-    duration "PT10M12S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
-  ]
-  node
-  [
-    id 200
-    name "414"
-    label "Oei9Ky0GvNk"
-    step 0
-    date "2010-07-20T21:53:40Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 1/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.911research.wtc7.net/mirrors/bentham_open/ActiveThermitic_Harrit_Bentham2009.pdf&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
-    favcount 0
-    viewcount 4964
-    likecount 32
-    commentcount 10
-    duration "PT10M53S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 201
-    name "417"
-    label "lm2WMTlEspY"
-    step 0
-    date "2010-07-22T10:52:22Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 6/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
-    favcount 0
-    viewcount 691
-    likecount 2
+    viewcount 33
+    likecount 5
     commentcount 0
-    duration "PT4M57S"
+    duration "PT3M28S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 202
-    name "420"
-    label "kIhpLPOhnbA"
-    step 0
-    date "2013-02-21T03:15:20Z"
-    title "9/11, LIES and Building 7!!!!!!"
-    description "Bush and Silverstein fabricating stories about the events. These are out right lies."
-    channeltitle "QuestionAuthority247"
-    channelid "UCePBjiY8u2V6wDX1GSqQMBQ"
-    favcount 0
-    viewcount 98
-    likecount 3
-    commentcount 1
-    duration "PT5M1S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 203
-    name "423"
-    label "2KfVhrcRRy0"
-    step 0
-    date "2021-04-09T04:12:12Z"
-    title "WTC 9/11 Building 7 Staged"
-    description "WTC building 7 Was a demolition. So was WTC1 &#38; WTC2  #OrganizedByUs"
-    channeltitle "South Kerr"
-    channelid "UC7vtDkWTr9lFsxJxnYWVN8A"
-    favcount 0
-    viewcount 73
-    likecount 1
-    commentcount 1
-    duration "PT4M14S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 204
-    name "425"
-    label "NbjrCbvsw5A"
-    step 0
-    date "2013-03-21T19:37:03Z"
-    title "Geraldo Rivera 911 Truth and WTC Building 7 Controlled Demolition - BuildingWhat.org"
-    description " "
-    channeltitle "PuzzleMaster"
-    channelid "UCOHP0teq9bxUneaExItvGPg"
-    favcount 0
-    viewcount 2326
-    likecount 28
-    commentcount 7
-    duration "PT8M10S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
-  ]
-  node
-  [
-    id 205
-    name "428"
-    label "Wpd5v1zygno"
-    step 0
-    date "2010-07-23T21:12:15Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 18/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
-    favcount 0
-    viewcount 443
-    likecount 1
-    commentcount 0
-    duration "PT4M50S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 206
-    name "437"
-    label "DGR2d_hUbBw"
-    step 0
-    date "2010-07-23T08:22:19Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 11/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
-    favcount 0
-    viewcount 444
-    likecount 2
-    commentcount 1
-    duration "PT10M3S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 207
-    name "439"
-    label "IIKVGnudtBM"
+    id 416
+    label "MN7Gda2LZxU"
     step 0
-    date "2021-08-30T22:09:00Z"
-    title "9/11 Twin Towers  Building 7 Freefall Collapse"
-    description "Architects and Engineers for 9/11 Truth discuss the impossibility of WTC 1, 2, and 7 collapsing at freefall speed."
-    channeltitle "Eduardo Corrochio"
-    channelid "UCsIQkODRQQ3jPPphKUMWCxQ"
+    date "2012-09-19T17:43:18Z"
+    title "9/11Truth WTC Building 7 Demolition Countdown NWO"
+    description "9/11 Truth&#10;People Wake Up and Know Your Enemy"
+    channeltitle "Unplugged1977"
+    channelid "UCweuhNBR7UNCzCPEJ34mbZg"
     favcount 0
-    viewcount 158
-    likecount 12
-    commentcount 0
-    duration "PT5M13S"
+    viewcount 2671
+    likecount 25
+    commentcount 9
+    duration "PT3M8S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 208
-    name "444"
-    label "VxUB8Fte1gQ"
+    id 419
+    label "eJBUedWFJ40"
     step 0
-    date "2008-11-27T01:08:40Z"
-    title "building 7 mystery on 9/11 - reverse speech"
-    description "building 7 mystery on 9/11 - reverse speech"
-    channeltitle "fascistamericadotnet"
-    channelid "UCu64dc8lcIos10ZEqgYwwWQ"
+    date "2011-09-15T14:34:01Z"
+    title "PROOF of WTC Building 7 Explosive Charges Going Off!!"
+    description "In this video, you can see the bombs going off in WTC Building Seven which caused it to collapse. 9/11 was an inside job, wake up people and take back what has been stolen from you!"
+    channeltitle "TheFactsoverFiction"
+    channelid "UCsSlm9Qp6uLgOXOBF-Vd_7g"
     favcount 0
-    viewcount 1945
-    likecount -1
-    commentcount 0
-    duration "PT31S"
+    viewcount 19951
+    likecount 203
+    commentcount 104
+    duration "PT48S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 10
   ]
   node
   [
-    id 209
-    name "447"
+    id 422
+    label "QHdAd6gxMsg"
+    step 0
+    date "2013-09-11T10:15:55Z"
+    title "9/11 Truth and WTC Building 7 Controlled Demolition by KhujeNao.com"
+    description "9/11 Truth and WTC Building 7 Controlled Demolition by KhujeNao.com"
+    channeltitle "Khuje Nao"
+    channelid "UCCIefqshdbcmvQDYFrYxJeg"
+    favcount 0
+    viewcount 443
+    likecount 6
+    commentcount 0
+    duration "PT8M10S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 424
+    label "QxdyIgkCV4I"
+    step 0
+    date "2017-01-22T19:13:31Z"
+    title "Building 7 - Never Forget: No Plane Hit WTC7 on 9/11"
+    description "Building 7 - Never Forget: No Plane Hit World Trade Center Building 7 on 9/11.&#10;&#10;In this video, we have a couple of news anchors who are reporting an event that had never happened in the history of mankind before 9/11 (collapse of a steel-frame superstructure).  And they are reporting it before it even happens.&#10;&#10;This is followed by very important clips from researchers and presenters that show the official story of the 'collapse' of WTC7 provided by NIST is full of holes, fabrications, corruption, and outright fraud.  Indeed the absurdity of what we are expected to believe has never been more clearly demonstrated.&#10;&#10;WTC 7 had not been hit by a plane, so it was apparently the first steel-framed high-rise building in the known universe to have collapsed because of fire alone. &#10;&#10;From a purely scientific perspective, of course, there would have been an obvious answer as to why building 7 came down. Scientists, presupposing the regularity of nature, operate on the principle that like effects generally imply like causes. Scientists are, therefore, loathe to posit unprecedented causes for common phenomena. By 9/11, the collapse of steel-framed high-rises had become a rather common phenomenon, which most Americans had seen on television. And in every one of these cases, the building had been brought down by explosives in the process known as controlled demolition. From a scientific perspective, therefore, the obvious assumption would have been that WTC 7 came down because explosives had been used to remove its steel supports. &#10;&#10;As always, use this info to gather more info.&#10;&#10;Subscribe to this channel - http://www.youtube.com/c/ProperGander&#10;Proper Gander on Minds.com - http://www.minds.com/Joelsee&#10;Join Minds.com today: https://www.minds.com/register;referrer=Joelsee&#10;Proper Gander on Facebook - http://www.facebook.com/aProperGander&#10;PayPal Donations welcome.  Click here: http://goo.gl/FxXWYQ&#10;&#10;Foreknowledge of the Collapse of World Trade Center Building 7 - http://www.consensus911.org/point-wtc7-7/&#10;Remember Building 7 - http://rememberbuilding7.org&#10;The Controlled Collapse of WTC7 - http://www.whatreallyhappened.com/WRHARTICLES/wtc7.html&#10;Larry Silverstein, WTC 7, and the 9/11 Demolition - http://www.whatreallyhappened.com/WRHARTICLES/cutter.html&#10;NIST criminally manipulated computer input data - https://isgp-studies.com/911-wtc-7-collapse-nist-failure-to-disprove-controlled-demolition-thermate&#10;WTC 7 Gallery of Evidence - http://www2.ae911truth.org/wtc7.php&#10;Fraud Exposed in NIST WTC 7 Reports - http://www1.ae911truth.org/faqs/803-fraud-exposed-in-nist-wtc-7-reports-part-5-of-5.html&#10;&#8216;Debunking NIST&#8217;s Conclusions About WTC 7 is as Easy as Shooting Fish in a Barrel&#8217; - http://www.911truth.org/debunking-nists-conclusions-about-wtc-7/&#10;Was the WTC 7 pulled? - http://killtown.911review.org/wtc7/collapse.html&#10;Solving the Mystery of WTC Building 7 - http://architects-engineers.org/&#10;9/11: Larry Silverstein Designed New WTC-7 One Year Before Attacks - http://www.mintpressnews.com/911-larry-silverstein-designed-new-wtc-7-one-year-attacks/214821/&#10;Donald Rumsfeld and the Demolition of WTC 7 - http://911blogger.com/news/2014-05-22/donald-rumsfeld-and-demolition-wtc-7&#10;WTC 7 Now A Proven Case Of Controlled Demolition - http://www.paulcraigroberts.org/2014/06/03/wtc-7-now-proven-case-controlled-demolition&#10;Was Flight 93 to Hit WTC7? - https://kendoc911.wordpress.com/911-flights/was-flight-93-to-hit-wtc-7/&#10;Here are images of WTC 7's fires compared to those of other steel skyscrapers - https://www.reddit.com/r/conspiracy/comments/1jtyln/here_are_images_of_wtc_7s_fires_compared_to_those/&#10;The Corbett Report - WTC7 - https://www.corbettreport.com/tag/wtc7/"
+    channeltitle "Proper Gander"
+    channelid "UCPi6euzgQgW8lXDLAw152Pg"
+    favcount 0
+    viewcount 4805
+    likecount 80
+    commentcount 25
+    duration "PT16M54S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 427
+    label "6uod3z9pdJM"
+    step 0
+    date "2021-07-18T23:40:29Z"
+    title "Building 7 on 9-11 Investigation"
+    description "News. Documentary"
+    channeltitle "TRUTH CHANNEL"
+    channelid "UC6akUmY4E3aAlZsh31ywjKA"
+    favcount 0
+    viewcount 24
+    likecount 3
+    commentcount 6
+    duration "PT17M57S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 436
+    label "OUedCKiAbIo"
+    step 0
+    date "2021-02-27T05:41:29Z"
+    title "2/25/2021 Follow The Money - WTC Building 7, 9-11 and Money"
+    description "Follow The Money, WTC Building 7, 9-11 and Money&#10;Breaking down amazing videos by Scotty Mar10 and The_Highroller with various others.&#10;Awakening humanity one soul at a time!&#10;Paypalme&#10;https://paypal.me/5DGramma?locale.x=en_US&#10;Check out my Hempworx website below&#10;HEMPWORX LINK - &#10;www.hempworx.com/5DGramma&#10;Michelle Harmon Energy&#10;https://www.michelleharmonenergy.com/&#10;Videos removed from YouTube:&#10;Rumble&#10;https://rumble.com/vfcucj-evergreen-update-children-missiles-and-vaccines-found.html?mref=imgst&#38;mc=1rlhz&#10;&#10;https://rumble.com/veei5h-adreno-chrome.html?mref=imgst&#38;mc=1rlhz&#10;&#10;https://rumble.com/vfdcax-gates-epstein-connections-exposed.html?mref=imgst&#38;mc=1rlhz"
+    channeltitle "5D Gramma"
+    channelid "UCiczT_8vjQAT22llskP2QMg"
+    favcount 0
+    viewcount 149
+    likecount 7
+    commentcount 0
+    duration "PT9M43S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 438
+    label "MI-GwN_cmLA"
+    step 0
+    date "2022-03-18T07:08:39Z"
+    title "9/11 Truth: What Happened to WTC Building 7 on 9/11?"
+    description "Clip from 9/11 Mysteries: The WTC 7 collapse was clearly a case of a well-planned controlled demolition."
+    channeltitle "SecretGardens"
+    channelid "UCY1DstTn4ItrybcvOtRjeug"
+    favcount 0
+    viewcount 28
+    likecount 1
+    commentcount 0
+    duration "PT9M1S"
+    indegree 0
+    sentiment 1
+    cluster 4
+  ]
+  node
+  [
+    id 443
+    label "v0z71Xld1H4"
+    step 0
+    date "2019-10-05T19:17:13Z"
+    title "Tucker Carlson wont show Building 7 Collapse on TV"
+    description "Dr. Steven Jones went on Tucker Carlson's &#34;The Situation&#34; in 2005 to show evidence of a controlled demolition of WTC 7. At 3:23 Tucker and MSNBC would not show the videos Dr. Jones provided, but instead showed pictures of the building."
+    channeltitle "Eduardo Corrochio"
+    channelid "UCsIQkODRQQ3jPPphKUMWCxQ"
+    favcount 0
+    viewcount 1308
+    likecount 21
+    commentcount 5
+    duration "PT6M10S"
+    indegree 0
+    sentiment 1
+    cluster 9
+  ]
+  node
+  [
+    id 446
+    label "2Ws6H9b8CqI"
+    step 0
+    date "2017-01-22T21:06:14Z"
+    title "BEST 911 DOCUMENTARY EVER!FULL MOVIE TOTAL PROOF BUILDING 7 PENTAGON"
+    description ""
+    channeltitle "azizrampage"
+    channelid "UCmyIOSfexeQWPuUAvp59SRA"
+    favcount 0
+    viewcount 4363
+    likecount 45
+    commentcount 8
+    duration "PT1H44M55S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 447
     label "ZAv7XFk7kRk"
     step 0
     date "2014-10-24T20:44:02Z"
@@ -5872,77 +4009,50 @@ graph
     commentcount 54
     duration "PT21M23S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 210
-    name "448"
-    label "jCjQ6KCM04U"
-    step 0
-    date "2017-04-06T19:35:41Z"
-    title "ArchitectsEngineers for 9/11 Truth-Tony Szamboti : Building 7 NIST report"
-    description "Tony Szamboti is a mechanical design engineer with over 30 years of structural design experience in the aerospace and communications industries. At one point in his career he worked for RCA Broadcast, the company that designed and built the antenna stack on the North Tower. Since 2006, he has authored or co-authored a number of technical papers on the WTC high-rise failures that are published in the Journal of 9/11 Studies and in the International Journal of Protective Structures."
-    channeltitle "Rachael L. McIntosh"
-    channelid "UCCcWs1HAYIupJIxxSzYRKhg"
-    favcount 0
-    viewcount 510
-    likecount 13
-    commentcount 3
-    duration "PT1H"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 211
-    name "452"
-    label "YVPT-0umwTo"
-    step 0
-    date "2016-01-04T09:47:19Z"
-    title "New Years Fire At Dubai Proves 9/11 Building 7 Collapse was planned"
-    description "On New Years Eve the Address Downtown Hotel in Dubai, burned for nearly 20 hours. After New Years Day, the building still stands although with a damaged facade. &#10;&#10;Why is this important? &#10;&#10;On 9/11, building 7, a building that was not hit by any airplane, collapsed at free fall speed. The NIST in charge of the investigation stated that the building fell due to fires inside the building.&#10; &#10;However, video footage of the collapse of building 7 shows that the building showed signs of a controlled demolition, which are the pyroclastic clouds, the building fell at freefall speed on its footprint.&#10;&#10; Thus, the Address Downtown Hotel fire in Dubai is further evidence that what occurred on 9/11 was a controlled demolition that had to be planned ahead of time. You can prove that the controlled demolition happened ahead of time if you watch the BBC news footage that reported the collapse of building 7 twice before it actually happened. &#10;&#10;Links: &#10;Dubai seeks cause of massive hotel fire at New Year : http://www.bbc.com/news/world-middle-east-35209029&#10;&#10;Fire at The Address, Downtown #Dubai 2016&#10;https://youtu.be/obRM9bv7jA8&#10;&#10;Huge fire engulfs Dubai Hotel ( The Address Hotel )&#10;https://www.youtube.com/watch?v=lN6ahc_YqfQ&#10;&#10;Compiled Footage of Building 7's Collapse&#10;https://www.youtube.com/watch?v=bWorDrTC0Qg&#10;&#10;BBC Reports Collapse of WTC Building 7 Early-- TWICE&#10;https://www.youtube.com/watch?v=6mxFRigYD3s"
-    channeltitle "EmergingTruth"
-    channelid "UCCvp4Ky6AqbbD9X-0lTzNkA"
-    favcount 0
-    viewcount 1343
-    likecount 8
-    commentcount 1
-    duration "PT8M51S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 8
   ]
   node
   [
-    id 212
-    name "457"
+    id 451
+    label "uI5HjltI_xw"
+    step 0
+    date "2022-04-05T07:50:34Z"
+    title "Early WTC Building 7 Explosion Reports"
+    description "Early WTC Building 7 Explosion Reports"
+    channeltitle "Rare 9/11 Facts"
+    channelid "UCOch_SItPku1FqXKLMe9lqg"
+    favcount 0
+    viewcount 11
+    likecount 0
+    commentcount 0
+    duration "PT9M51S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 456
+    label "2o2Be8RtvO4"
+    step 0
+    date "2007-03-30T08:01:32Z"
+    title "World Trade Center Building 7 - the Smoking Gun of 9/11 p2/2"
+    description "This documentary tells the story of what happened to the  Salomon Brothers building, also known as WTC7 on 9/11.  An excellent overview of all the known facts about the events of that day and the follow-up to the cover up by the government."
+    channeltitle "clbackus"
+    channelid "UCRqlMgtVZxJJIy-v3JjIXbQ"
+    favcount 0
+    viewcount 15282
+    likecount 36
+    commentcount -1
+    duration "PT8M13S"
+    indegree 0
+    sentiment 1
+    cluster 8
+  ]
+  node
+  [
+    id 457
     label "OTTwH19wTY4"
     step 0
     date "2017-02-10T23:25:13Z"
@@ -5956,49 +4066,31 @@ graph
     commentcount 0
     duration "PT4M7S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 10
   ]
   node
   [
-    id 213
-    name "458"
-    label "6-Vlwnkvb-I"
+    id 460
+    label "6EoJW_FWUAQ"
     step 0
-    date "2019-09-11T08:47:56Z"
-    title "Never Forget 9/11 Building 7"
-    description "Architects and Engineers solving the problem of WTC-7, (Feb, 2015), https://video.search.yahoo.com/search/video?fr=mcafee&#38;p=Building+7#id=2&#38;vid=7c9959a1381157ca488f5ee2b940ad09&#38;action=view&#10;&#10;FEMA, (2002), World Trade Center Building Performance study&#8217;, Chapter 5, WTC 7, https://www.fema.gov/media-library/assets/documents/3544&#10;&#10;Evidence Destruction at Ground Zero, (2006), 911review, http://911review.com/coverup/groundzero.html&#10;&#10;Jones, Dr. Steven, (May 2007), &#8220;Cheney Says U.S. in Final Stages of Diplomacy with Iraq,&#8221; American Forces Press Service, March 16, 2003. http://www.defenselink.mil/news/Mar2003/n03162003_200303162.html&#10;&#10;&#160;SEC and EEOC Attack Delays Investigations, https://www.wanttoknow.info/010917nylawyerwallstreetsecfiles&#10;&#10;Hartocollis, Anemona, (2008), Developer Sues to Win 12.3 billion in 9/11 Attack, The New York, Times, https://www.nytimes.com/2008/03/27/nyregion/27rebuild.html&#10;&#10;&#10;&#10;&#10;Schlesinger, David, (2015), BarryJenningsblogspot, https://barryjenningsmystery.blogspot.com&#10;&#10;&#10;&#10;&#10;Barry Jennings account of WTC 7 explosions, https://www.youtube.com/watch?v=B3p7uUyjtas&#10;&#10;&#10;&#10;&#10;WTC 7, (2019), TheHardFacts9/11, http://www.911hardfacts.com/report_07.htm&#10;&#10;Building 7, (2006), 9-11Review, http://911review.com/attack/wtc/b7.html#ref3&#10;&#10;&#10;&#10;&#10;NIST, (2005), Final Report on the Collapse of the World Trade Center Building 7,&#10;&#10;https://nvlpubs.nist.gov/nistpubs/Legacy/NCSTAR/ncstar1a.pdf&#10;&#10;Paul and Hoffman, (2004), Waking up from our Nightmare: The 9/11/01 Crimes in New York City, Irresistible/Revolutionary-first edition"
-    channeltitle "Trish Thomas-Mink"
-    channelid "UCo1JS8pXw1V4wPRikUtmRaQ"
+    date "2020-07-01T21:55:21Z"
+    title "The Truth About 9 11 And Building 7"
+    description "re-used from: Information Balance&#10;https://www.youtube.com/channel/UCdgReg82yQLM_VkRsNG2h1Q"
+    channeltitle "Wave Radio 365"
+    channelid "UClrwopahtm_Gkr4lMNPaMog"
     favcount 0
-    viewcount 32
-    likecount 1
-    commentcount -1
-    duration "PT19M15S"
+    viewcount 59
+    likecount 0
+    commentcount 0
+    duration "PT9M9S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 214
-    name "461"
+    id 461
     label "mAVVtaNXuFE"
     step 0
     date "2011-08-28T06:57:15Z"
@@ -6012,49 +4104,31 @@ graph
     commentcount 2
     duration "PT15M"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
-  ]
-  node
-  [
-    id 215
-    name "462"
-    label "lG_gx6CnYCU"
-    step 0
-    date "2020-09-11T05:33:08Z"
-    title "9/11 WTC BUILDING 7 COLLAPSED IN FREE FALL SPEED | NOT HIT BY PLANES | MINIMAL FIRE DAMAGE"
-    description "Follow us at:&#10;&#10;Twitter&#10;https://twitter.com/KingdomPrepare1&#10;&#10;Facebook&#10;https://www.facebook.com/kingdom.prepare/&#10;&#10;Website&#10;http://kingdomprepare.com/&#10;&#10;Building 7 was the third skyscraper to be reduced to rubble on September 11, 2001. Planes never hit Building 7, yet it came crumbling down in free fall speed.&#10;&#10;There are thousands of Architects and Engineers who concluded WTC Building 7 was controlled demolition. 9/11 victims' family members are questioning how this tower came down. &#10;&#10;According to the government, fires leveled this building, but fires have never before or since destroyed a steel skyscraper. The government admits WTC 7 hit free fall, gravitational acceleration, during its collapse.&#10;&#10;The team that investigated the collapse were kept away from the crime scene. By the time they published their inconclusive report in May, 2002, the evidence had been destroyed. Why did the government rapidly recycle the steel from the largest and most mysterious engineering failure in world history, and why has the media remained silent?&#10;&#10;***NOT FINANCIAL, LEGAL, OR TAX ADVICE! This channel is for entertainment purposes only and is just my opinion as I am not an expert or a financial planner. Please perform your own research."
-    channeltitle "Kingdom Prepare"
-    channelid "UCVk4dlg_0IB4Az1x_ZqCvCg"
-    favcount 0
-    viewcount 1267
-    likecount 49
-    commentcount 5
-    duration "PT8M5S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 216
-    name "464"
+    id 463
+    label "k7GJOimeHII"
+    step 0
+    date "2014-08-28T19:06:05Z"
+    title "9 11 Blueprint for Truth WTC Building 7 10 minute Segment from AE911Truth org Companion Edition"
+    description "This is the first of 3 segments on the new AE911Truth.org Companion Edition to Blueprint for Truth. In just 10 minutes Richard Gage, AIA of Architects &#38; Engineers for 9/11 Truth takes you through most of the scientific forensic evidence proving beyond a reasonable doubt that the destruction of WTC 7 was accomplished with explosive controlled demolition. This DVD is available at the AE911Truth online store, http://www.ae911truth.net/store/produ... packaged together along with the 30 and 60 minute versions of 9/11: Blueprint for Truth. See the extended 2 hour Research Edition for the complete array of evidence and background information! Visit http://www.ae911truth.org/ for further details."
+    channeltitle "vengencefrom1979"
+    channelid "UCpXYmbe8jgD68NnvyeV6nUQ"
+    favcount 0
+    viewcount 629
+    likecount 8
+    commentcount 5
+    duration "PT9M50S"
+    indegree 0
+    sentiment 1
+    cluster 6
+  ]
+  node
+  [
+    id 464
     label "1CJQDXZ-RzM"
     step 0
     date "2010-09-20T08:17:38Z"
@@ -6068,133 +4142,88 @@ graph
     commentcount 5
     duration "PT4M25S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 217
-    name "465"
-    label "y3D0Y2SJllc"
+    id 474
+    label "wDowfEWkzUQ"
     step 0
-    date "2010-07-22T22:25:03Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 10/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
+    date "2020-04-21T16:18:03Z"
+    title "9/11 Bombshell: CNBC Anchor Ron Insana Says Building 7 a "
+    description "https://www.ae911truth.org/news/570 &#10;&#34;...And so there were still fears that if that building had fallen sideways, you were going to wipe out a good part of Lower Manhattan. So they did manage for one to take that down in a controlled implosion later on.&#34;"
+    channeltitle "911operationgladio"
+    channelid "UCcvVaK5AinFO7yi_GL-SGUw"
     favcount 0
-    viewcount 625
-    likecount 3
-    commentcount 2
-    duration "PT10M53S"
+    viewcount 316
+    likecount 29
+    commentcount 1
+    duration "PT3M28S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 10
   ]
   node
   [
-    id 218
-    name "475"
-    label "pMFoZRyylaM"
+    id 476
+    label "ADugN3k8QCk"
     step 0
-    date "2011-09-04T22:46:58Z"
-    title "The mysterious Building 7.flv"
-    description "For no reason,the WTC -7  scrumbled after the two towers  of the World Trade Center!What's happen?"
-    channeltitle "Michel Duchaine"
-    channelid "UCy_3H8zecljfjowtEV8u23g"
+    date "2006-02-04T07:54:31Z"
+    title "What Happened To Building 7? Part 2"
+    description "Rarely seen footage of the collapse of the Twin Towers from 9/11."
+    channeltitle "thetruthwillout"
+    channelid "UCWgRK5OL0S1tS_sBNYACMuQ"
     favcount 0
-    viewcount 390
-    likecount 4
-    commentcount 0
-    duration "PT10M37S"
+    viewcount 6880
+    likecount 26
+    commentcount 10
+    duration "PT11M20S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 219
-    name "477"
-    label "fpjU42RbqEU"
-    step 0
-    date "2011-04-17T19:30:31Z"
-    title "Armchair Critics - 9/11 (building 7) - Theres Something About Larry"
-    description "To all those that were affected and those that are interested - keep positive! This is not a topic to just forget about.&#13;&#10;Even though 911 was almost a decade ago we should not turn a blind eye to the criminal activity that went down that  day....."
-    channeltitle "Stu Mullins"
-    channelid "UC-mu6sTxMSjbhIKjHOBCN5Q"
-    favcount 0
-    viewcount 121
-    likecount 3
-    commentcount 0
-    duration "PT10M57S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 2
   ]
   node
   [
-    id 220
-    name "479"
-    label "jTGgNmT6Rdw"
+    id 478
+    label "k6qwijRSdfo"
     step 0
-    date "2010-02-15T04:09:37Z"
-    title "9-11 Mysteries - Pt 6 - WTC Building 7.wmv"
-    description "This is a video Series that every American should take the time to watch !!!&#13;&#10;&#13;&#10;The truth of what is said is undeniable and very hard to debunk!"
-    channeltitle "Brent Bennett"
-    channelid "UC4aAe2X148s8L7IzfzoIVgA"
+    date "2012-08-17T01:50:55Z"
+    title "Building 7 - NIST Finally Admits Freefall"
+    description "David Chandler explains how he brought the National Institute of Standards and Technology to acknowledge that World Trade Center Building 7 experienced free fall acceleration during its destruction on September 11, 2001, and the implications of free fall.&#10;&#10;https://www.youtube.com/user/ae911truth&#10;https://www.youtube.com/user/DavidChandler911"
+    channeltitle "thermate911"
+    channelid "UCpSJwx4Rfsyab5UjV2-3C8A"
     favcount 0
-    viewcount 5210
-    likecount 12
-    commentcount 0
-    duration "PT6M9S"
+    viewcount 5186
+    likecount 95
+    commentcount -1
+    duration "PT26M44S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 221
-    name "482"
+    id 481
+    label "13AEvQrjsFs"
+    step 0
+    date "2012-09-13T05:13:02Z"
+    title "Larry Silverstein Pull It Building 7 Burning For Hours"
+    description "Leaseholder of the World Trade Centre, Larry Silverstein questioned on his remarks on WTC Building 7 and what he was referring to when he said &#34;pull it&#34; As always you decide!"
+    channeltitle "jamie4870"
+    channelid "UCdb5hWxC9Gvg-Sf-47XtnIQ"
+    favcount 0
+    viewcount 3965
+    likecount 38
+    commentcount 29
+    duration "PT7M17S"
+    indegree 0
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 482
     label "pZzV8UUxVK4"
     step 0
     date "2019-09-05T06:32:41Z"
@@ -6208,189 +4237,126 @@ graph
     commentcount 2
     duration "PT3M22S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 3
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 222
-    name "483"
-    label "WKdxb967HT8"
+    id 484
+    label "0Aqe7fLcpqM"
     step 0
-    date "2019-11-19T13:17:28Z"
-    title "9/11- THE NEW PEARL HARBOR Documentary PART 7 BUILDING 7"
-    description "PART 7 BUILDING 7 to the &#34;September 11th: The New Pearl Harbor&#34; Documentary &#10;Director: Massimo Mazzucco&#10;Writer: Massimo Mazzucco"
-    channeltitle "Daniel Pier"
-    channelid "UCJDrz4tYGrVfb_kXKyO4mUg"
+    date "2019-02-24T20:04:16Z"
+    title "The Truth About 9/11 And Building 7"
+    description ""
+    channeltitle "Information Balance"
+    channelid "UCdgReg82yQLM_VkRsNG2h1Q"
     favcount 0
-    viewcount 283
-    likecount 7
-    commentcount 0
-    duration "PT22M46S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 223
-    name "485"
-    label "7zL8IPD4-9M"
-    step 0
-    date "2010-07-22T04:44:03Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 7/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
-    favcount 0
-    viewcount 1027
-    likecount 4
-    commentcount 5
-    duration "PT10M35S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 224
-    name "490"
-    label "uIs692R53HQ"
-    step 0
-    date "2010-07-22T10:26:03Z"
-    title "9/11 Prof Niels Harrit Nano-thermite Lecture ... WTC-7, Building-7, Iron Microspheres Part 4/18"
-    description ".17th July 2010&#13;&#10;Check out &#13;&#10;www.911oz.com - Iron Microspheres in WTC Dust&#13;&#10;http://www.911oz.com/vbulletin/showthread.php?t=8218&#13;&#10;&#13;&#10;www.ae911truth.org - 1226 architectural and engineering professionals&#13;&#10;and 8850 other supporters including A&#38;E students&#13;&#10;have signed the petition demanding of Congress&#13;&#10;a truly independent investigation. &#13;&#10;www.911truth.org&#13;&#10;&#13;&#10;Professor Niels Harrit visits Australia to talk about explosives discovered at the World Trade Center and other scientific phenomena which are being hidden from the Public by Officialdom and the Majority of Mainstream Media.&#13;&#10;The RJ Lee Group also discovered iron spheres in the WTC Dust Signature Report - Composition and Morphology at 5.87 % which is 146.75 times as many iron spheres in WTC Dust compared to normal background Building dust. see&#13;&#10;http://911research.wtc7.net/essays/thermite/cache/nyenvirolaw_WTCDustSignatureCompositionAndMorphology.pdf&#13;&#10;&#13;&#10;Active Thermitic Materials Paper&#13;&#10;&#13;&#10;http://www.bentham-open.org/pages/content.php?TOCPJ/2009/00000002/00000001/7TOCPJ.SGM&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Message from John Bursill, True Blue Aussie (Ozzy) Hero and Event Organizer&#13;&#10;&#13;&#10;On Saturday the 17th of July Prof. Niels Harritt of the University of Copenhagen in Denmark gave a lecture to a capacity crowd of concerned citizens called &#34; Did Explosives Bring Down the Towers on 9/11&#34;. This Sydney audience was generated purely from fliers handed out by diligent activists and one radio interview.&#13;&#10;&#13;&#10;&#13;&#10;Although a handful of independent journalists did attend and a small press conference was held, not one Australian main stream media outlet was represented. It is now more clear than ever that a culture of silence surrounds the science of 9/11 which proves beyond any reasonable doubt that the Twin Towers and Building 7 where brought down using explosives and incendiary devices.&#13;&#10;&#13;&#10;&#13;&#10;The Australian 9/11 Truth Movement would like to thank all that made this event possible and their generous donations which for the first time actually covered the costs! A special thanks must also go to the Sydney WeAreChange Chapter who acted as the arms and legs to get this show on the road!&#13;&#10;&#13;&#10;&#13;&#10;Besides being a man of great knowledge, Niels Harrit is an absolute gem of a man that works hard for the 9/11 cause. Dr Harrit has given in excess of 100 lectures to the public, both in Denmark and abroad. He is a modern day scientific hero in a world of intellectual cowards and self serving academics.&#13;&#10;&#13;&#10;&#13;&#10;International relationships within the 9/11 Truth Movement continue to build by these events, strengthening all our resolves to pursue truth and justice for the victims of the 9/11 Attacks.&#13;&#10;&#13;&#10;Hail Our Lady Mary Full of Grace... Amen"
-    channeltitle "NineEleven isAnInsideJOB"
-    channelid "UCG_0n-70wLNBTqoDf30x-SQ"
-    favcount 0
-    viewcount 1118
+    viewcount 84
     likecount 3
-    commentcount 3
-    duration "PT9M11S"
+    commentcount 0
+    duration "PT9M9S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 10
   ]
   node
   [
-    id 225
-    name "494"
-    label "RIpCs85fybc"
+    id 489
+    label "GTv1WVaMVag"
     step 0
-    date "2021-05-14T08:57:45Z"
-    title "David Icke Problem Reaction Solution 9/11 - Building 7"
-    description "David Icke Problem Reaction Solution 9/11 - Building 7&#10;Icke uses the phrase &#34;problem&#8211;reaction&#8211;solution&#34; to explain how he believes the Illuminati agenda advances. According to Icke, the Illuminati guide us in the direction they desire by creating false problems, which allows them to give their desired solution to the problem they created.&#10;&#10;&#8220;The reason we are so controlled is not that we don't have the power to decide our own destiny, it is that we give that power away every minute of our lives. When something happens that we don't like, we look for someone else to blame. When there is a problem in the world, we say &#34;What are they going to do about it&#34;. At which point they, who have secretly created the problem in the first place, respond to this demand by introducing a 'solution' - more centralisation of power and erosion of freedom. If you want to give more powers to the police, security agencies and military, and you want the public to demand you do it, then ensure there is more crime, violence and terrorism, and then it's a cinch to achieve your aims. Once the people are in fear of being burgled, mugged or bombed, they will demand that you take their freedom away to protect them from what they have been manipulated to fear. The Oklahoma bombing is a classic of this kind, as I detail in ..And The Truth Shall Set You Free. I call this technique problem-reaction-solution.&#10;&#10;Create the problem, encourage the reaction &#34;something must be done&#34;, and then offer the solution. It is summed up by the Freemason motto 'Ordo Ab Chao' -order out of chaos. Create the chaos and then offer the way to restore order. Your order. The masses are herded and directed by many and varios forms of emotional and mental control. It is the only way it coud be done.&#8221;&#10;&#10;&#8213; David Icke"
-    channeltitle "iXXi Q"
-    channelid "UCCSM68WpN-DU3p7FFfaH4wg"
+    date "2012-03-03T21:40:46Z"
+    title "What Really Happened to WTC Building 7 on 9/11 - Part 1"
+    description "What Really Happened to WTC Building 7 on 9/11 - Part 1&#10;If you think you know what happened based on news reports and school teachers, Wake up and watch this video.&#10;&#10;Barry Jennings was in building 7 when explosives went off, He knew they were explosives.&#10;&#10;&#34;Our study found that the fires in WTC 7, which were uncontrolled&#10;but otherwise similar to fires experienced in other tall buildings,&#10;caused an extraordinary event,&#34;said NIST WTC Lead Investigator&#10;Shyam Sunder. &#34;Heating of floor beams and girders caused a critical&#10;support column to fail, initiating a fire-induced progressive collapse that&#10;brought the building down.&#34; &#10;&#10;Absolutely impossible, Your telling me that for the first time in history, A building collapsed due to fire? Wait sorry i mean THREE, On the SAME day.&#10;&#10;Danny Jowenko, A expert in demolition explains in detail how that is not possible.&#10;&#10;None of the sleeping Americans have seen his interview, They don't want you to see it.&#10;&#10;R.I.P Barry Jennings&#10;&#34;No cause of death has been made public, and the mainstream press has not even covered the death of this American hero.&#34;&#10;http://jenningsmystery.com/&#10;&#10;R.I.P Danny Jowenko&#10;&#34;Dutch demolition expert Danny Jowenko was killed a car accident Saturday in the Netherlands. He was reportedly driving from church when he collided head-on with a tree. There was also a dog in the car who survived.&#34;&#10;&#10;No damage to the surrounding grass, No skid marks, Volvo went pretty far after impact.&#10;&#10;You should also see&#10;http://www.youtube.com/watch?v=aw4GW977OmI&#10;http://www.youtube.com/watch?v=C7SwOT29gbc&#10;http://www.wikileaks.org/&#10;http://www.infowars.com/&#10;http://www.prisonplanet.com/&#10;&#10;Also remember your rights!&#10;http://www.youtube.com/watch?v=gmrbNLt7Om8&#38;feature=list_related&#38;playnext=1&#38;list=SP1B0B357282389571&#10;&#10;Wake up America!, So much money on security but the enemies are already in our gates!"
+    channeltitle "lilllieqdwo"
+    channelid "UCRAURV3RjwvbWJUfLxSBvAw"
     favcount 0
-    viewcount 149
-    likecount 6
-    commentcount 1
-    duration "PT5M24S"
+    viewcount 1473
+    likecount 4
+    commentcount 2
+    duration "PT12M35S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 1
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 226
-    name "496"
-    label "S24G9Lf1nJg"
+    id 493
+    label "Km8wLoEm7EM"
     step 0
-    date "2007-06-11T12:32:45Z"
-    title "9/11 Truth: What Happened to Building 7"
-    description "Documentary explains what really happened to building #7."
-    channeltitle "cloneofclb"
-    channelid "UClCWkPaHYS7P1PJyBJhzgmw"
+    date "2022-07-08T21:13:25Z"
+    title "Gene Johnson brings the WTC 7 evidence to the ASCEs grassroots"
+    description "Mechanical engineer Gene Johnson joins host Andy Steele on 9/11 Free Fall to talk about his recent WTC 7 presentation to members of the Longview, Texas, branch of the ASCE, and share the reactions of his audience when they were confronted with scientific evidence and eyewitness accounts that they had never been exposed to before.&#10;&#10;Johnson belongs to AE911Truth's Project Due Diligence, whose volunteer engineers deliver powerful presentations to grassroots organizations, including the branches of professional engineering associations, all over the country. &#10;&#10;For more information: visit http://AE911Truth.org&#13;&#10;and http://WTC7Evaluation.org"
+    channeltitle "AE911Truth"
+    channelid "UCL-c_zvZ3lhlU7NU1ikxgmQ"
     favcount 0
-    viewcount 1475
-    likecount 10
-    commentcount 1
-    duration "PT9M1S"
+    viewcount 2694
+    likecount 190
+    commentcount 105
+    duration "PT59M1S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 495
+    label "TJuUpFLcMEY"
+    step 0
+    date "2012-01-28T18:55:43Z"
+    title "Rudolph Giuliani Confronted on Building 7 Alex Jones Infowars"
+    description " "
+    channeltitle "TheOrcOfZork"
+    channelid "UCdvkHR_5-3-xDIEaqw_Kz8w"
+    favcount 0
+    viewcount 1089
+    likecount 4
+    commentcount 3
+    duration "PT6M34S"
+    indegree 0
+    sentiment 1
     cluster 4
   ]
   node
   [
-    id 227
-    name "502"
-    label "X4UUUMBzRgI"
+    id 501
+    label "7ak-fI7HH0c"
     step 0
-    date "2012-11-19T20:02:55Z"
-    title "Building 7"
-    description "A young freelance journalist investigates the events surrounding 9/11 and the collapse of World Trade Center Building 7. Starring Robert Marshall Lee, Alyson Olmsted and Jordan Lee. Produced, Written and Directed by Robert Marshall Lee. Newsclips courtesy 'Fair Use Trademark Law.'"
-    channeltitle "YouNoSeeMe Junior"
-    channelid "UCXztnzene9FZVMsMqFAlKLA"
+    date "2020-05-23T17:45:04Z"
+    title "Danny Jowenko DEMOLITION EXPERT SAYING ON RECORD BUILDING 7 ON 9 11 WAS A CONTROLLED DEMOLITION"
+    description ""
+    channeltitle "Behold A Pale Horse"
+    channelid "UCEKpsEAAHms6uX4AtYOOQcg"
     favcount 0
-    viewcount 247
-    likecount 1
+    viewcount 99
+    likecount 5
+    commentcount 1
+    duration "PT24M30S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 505
+    label "McrbuHhwLxA"
+    step 0
+    date "2019-10-05T03:11:07Z"
+    title "9 11 Bombshell CNBC Anchor Says Building 7 a Controlled Implosion 1"
+    description ""
+    channeltitle "George Sanford"
+    channelid "UCzsG1h4XpN_1sY4IyMJjVJA"
+    favcount 0
+    viewcount 40
+    likecount 3
     commentcount 0
-    duration "PT13M26S"
+    duration "PT3M28S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 5
   ]
   node
   [
-    id 228
-    name "506"
+    id 506
     label "GA39KlZbAlg"
     step 0
     date "2019-09-26T03:45:59Z"
@@ -6404,21 +4370,12 @@ graph
     commentcount 1
     duration "PT3M28S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 229
-    name "507"
+    id 507
     label "L8YyUfLNiEA"
     step 0
     date "2020-01-18T01:57:20Z"
@@ -6432,105 +4389,69 @@ graph
     commentcount 18
     duration "PT13M21S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 230
-    name "508"
-    label "DyM1YZwzUjk"
+    id 509
+    label "F6QV6LK8j1Q"
     step 0
-    date "2012-11-09T05:38:41Z"
-    title "9-11 BUILDING 7- UNDENIABLE SCIENTIFIC EVIDENCE (Mirrored)"
-    description " "
-    channeltitle "TrutherTube1776"
-    channelid "UCs2T9Xdtlw_27J8PkHH54mQ"
+    date "2006-04-21T07:04:04Z"
+    title "What About Building 7?"
+    description "The collapse of World Trade Center Building 7 and the subsequent comment by leaseholder Larry Silverstein."
+    channeltitle "thetruthwillout"
+    channelid "UCWgRK5OL0S1tS_sBNYACMuQ"
     favcount 0
-    viewcount 86
-    likecount 2
-    commentcount 0
-    duration "PT15M"
+    viewcount 100949
+    likecount 139
+    commentcount 271
+    duration "PT4M15S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 231
-    name "510"
-    label "3Q_ji2Xyyxs"
+    id 512
+    label "1JPreVoErw4"
     step 0
-    date "2009-12-08T01:30:04Z"
-    title "9/11 Facts Part One: Building 7"
-    description "video made by a 13 year old boy, 9/11 was an inside job!"
-    channeltitle "Resisthenwo"
-    channelid "UCLzeW_FIlLqLU8mv6DKNVKA"
+    date "2014-01-06T23:21:50Z"
+    title "Did you know....Building 7 and the World Trade Center evidence Rethink 9/11"
+    description "World Trade Center Building 7 was a 47-story skyscraper that collapsed completely in under seven seconds on September 11, 2001. People deserve to know. Please share this video. &#10;http://www.rethink911.org"
+    channeltitle "Francis Battaglia"
+    channelid "UCUf5rYCAnI0Mg5trbmWEkSQ"
     favcount 0
-    viewcount 240
-    likecount 3
-    commentcount 1
-    duration "PT8M26S"
+    viewcount 1620
+    likecount -1
+    commentcount 6
+    duration "PT4M50S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 232
-    name "513"
-    label "pBiEtz-583Y"
-    step 0
-    date "2017-09-01T03:01:58Z"
-    title "9/11 building 7"
-    description "Smoking gun 9/11"
-    channeltitle "Patrick Moynahan"
-    channelid "UC8HWfvQkJ6_vXHF9lRWXa8A"
-    favcount 0
-    viewcount 221
-    likecount 9
-    commentcount 0
-    duration "PT11M38S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 233
-    name "518"
+    id 517
+    label "Sp5Q_aK8e9k"
+    step 0
+    date "2022-04-22T07:20:59Z"
+    title "Historys Business Larry Silverstein Building 7 Controlled Demolition"
+    description "Hello,&#10;&#10;I am looking for &#34;History's Business: Larry Silverstein (2002) Season 2, Episode 5&#34; Do you have it archived? &#10;&#10;Thanks dan &#10;&#10;Hello Dan,&#10;Unfortunately, we do not hold the episode of History&#8217;s Business that you are seeking. Attached is a list of other television archives that we suggest you check in with.&#10;Best,&#10;&#10;Lygia Bagdanovich&#10;Study Center Assistant&#10;Archive Research and Study Center&#10;UCLA Film &#38; Television Archive&#10;&#10;46 Powell Library&#10;&#10;Los Angeles, CA 90095-1517&#10;#WeAreCHANGE confronts Larry Silverstein&#10;https://www.youtube.com/watch?v=EtPC0W4HII8&#10;&#10;Body language and micro-facial expressions &#10;&#10;http://www.nytimes.com/2001/11/29/nyregion/29TOWE.html?ex=1115092800&#38;en=...&#10;&#10;From the famous Glanz article:&#10;&#34;By 11:30 a.m., the fire commander in charge of that area, Assistant Chief Frank Fellini, ordered firefighters away from it for safety reasons.&#34;&#10;&#10;So all firefighters were &#34;pulled&#34; from WTC7 six hours before it fell, and the man to ask about Larry's phone call would be FRANK FELLINI.&#10;&#10;History's Business Larry Silverstein &#10;&#10;History's Business Larry Silverstein Building 7 Controlled Demolition&#10;&#10;Larry Silverstein goes on record saying that Building 7 of the World Trade Center was indeed a planned controlled demolition. Which begs the question, how did the precise planning of a controlled demolition happen? For a controlled demolition to take place, it takes weeks and weeks of planning. I remember setting up my VCR to record this episode. I have since transferred the VCR recording to a DVD. I have only found 2 other copies of the interview.&#10;&#10;https://www.imdb.com/title/tt3788882/"
+    channeltitle "Rare 9/11 Facts"
+    channelid "UCOch_SItPku1FqXKLMe9lqg"
+    favcount 0
+    viewcount 49
+    likecount 3
+    commentcount 4
+    duration "PT14M40S"
+    indegree 0
+    sentiment 1
+    cluster 5
+  ]
+  node
+  [
+    id 518
     label "xiD55hk0O5M"
     step 0
     date "2020-07-30T11:39:38Z"
@@ -6544,21 +4465,12 @@ graph
     commentcount 1
     duration "PT10M37S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 5
+    sentiment 1
+    cluster 6
   ]
   node
   [
-    id 234
-    name "519"
+    id 519
     label "YCfa22Ojky8"
     step 0
     date "2019-08-30T19:08:23Z"
@@ -6572,49 +4484,31 @@ graph
     commentcount 24
     duration "PT56M27S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 235
-    name "520"
-    label "I0mPMV0W6ZU"
-    step 0
-    date "2011-09-14T17:02:20Z"
-    title "Was United Airlines 93 Intended for WTC Building 7"
-    description "&#34;This and no other is the root from which a tyrant springs; when he first appears he is a protector.&#34; Plato &#10;&#10;------------------------------------------------------------------------------------------------------------&#10;                 Never underestimate the evil your Government is capable of committing . Author&#10;------------------------------------------------------------------------------------------------------------ &#10;WTC 7 collapse completely ignored in 9/11 Commission Report&#10;&#10;post script - Danny Jowenko leading europeon demolition expert died in car crash July 2011. Danny drove into a tree...very careless for a brilliant engineer and Sunday morning church-goer.&#10;http://www.veteranstoday.com/2011/07/23/dutch-demolition-expert-danny-jowenko-dies-in-car-crash/&#10;&#10;&#10;You couldn't write this shit!&#10;&#10;keep flying that flag in 'sheeple' obedience...&#10;----------------------------------------------------------------------------------------------------------&#10;What is Building 7?&#10;&#10;Building 7 was a 47-story skyscraper and was part of the World Trade Center complex. Built in 1984, it would have been the tallest high-rise in 33 states in the United States. It collapsed at 5:20 pm on September 11, 2001. It was not hit by an airplane and suffered minimal damage compared to other buildings much closer to the Twin Towers.&#10;&#10;7 FACTS ABOUT BUILDING 7&#10;&#10;1) If fire caused Building 7 to collapse, it would be the first ever fire-induced collapse of a steel-frame high-rise.&#10;&#10;2) Building 7's collapse was not mentioned in the 9/11 Commission Report.&#10;&#10;3) According to a Zogby poll in 2006, 43% of Americans did not know about Building 7.&#10;&#10;4) It took the federal government seven years to conduct an investigation and issue a report for Building 7.&#10;&#10;5) 1,500+ architects and engineers have signed a petition calling for a new investigation into the destruction of Building 7, specifying that it should include a full inquiry into the possible use of explosives.&#10;&#10;6) Numerous witnesses say the possibility of demolishing Building 7 was widely discussed by emergency personnel at the scene and advocated by the building's owner.&#10;&#10;7) Building 7 housed several intelligence and law enforcement agencies, and the NYC Office of Emergency Management's Emergency Operations Center, more commonly known as &#34;Giuliani's Bunker&#34;. Source Remember Building 7 http://rememberbuilding7.org/10/"
-    channeltitle "nomem de Guerre"
-    channelid "UCm_0Z7VQosuUfQTKkgCfCAg"
-    favcount 0
-    viewcount 3033
-    likecount 42
-    commentcount 26
-    duration "PT9M12S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 236
-    name "529"
+    id 528
+    label "PbUBRzHN1v8"
+    step 0
+    date "2018-03-29T22:29:10Z"
+    title "9-11 and Building 7 - Deceptions and Misdirection"
+    description "Controlled Opposition &#8211; deception mascaraing as the truth. One of the greatest obstacles to getting to the truth about 9-11 is to get around the relentless disinformation and misinformation from people who are playing the role of searching for 9-11 truth, but instead are leader of the rabbit hole tour.  I will make this statement; NO information about 9-11 that points to the truth about what happened on that horrible day in our history is allowed to exist in a medium that permits it free access to the American Public.  The Protectors of the Realm promote their propaganda lies and attack anything that leads to the truth.  If you want to know the truth about 9-11, research the web for the most attacked declarations on 9-11. Google &#8211; No Planes, Rebekah Roth, Judy Wood, and Ace Baker.  The truth is out there, but only the disinformation is made available for the misinformed public."
+    channeltitle "American Patriot Peartree"
+    channelid "UCQ-zsEQRZ0AM2qdr9l5JUNg"
+    favcount 0
+    viewcount 52
+    likecount 3
+    commentcount 2
+    duration "PT4M45S"
+    indegree 0
+    sentiment 1
+    cluster 10
+  ]
+  node
+  [
+    id 529
     label "CK4dp341UbU"
     step 0
     date "2011-08-20T20:33:44Z"
@@ -6628,77 +4522,50 @@ graph
     commentcount 0
     duration "PT4M24S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
-  ]
-  node
-  [
-    id 237
-    name "530"
-    label "OsCWwl0Hzgk"
-    step 0
-    date "2009-11-02T23:04:27Z"
-    title "9/11 Truth: What Happened to Building 7"
-    description "Explains what really happened to Building 7. Please Visit INFOWARS.COM for the truth about what's really going on."
-    channeltitle "Masteramerican"
-    channelid "UCaLpw9SWhhBjfo2eeZM3Nfg"
-    favcount 0
-    viewcount 359
-    likecount 1
-    commentcount 0
-    duration "PT9M1S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 238
-    name "533"
-    label "phm8xjy9czw"
+    id 532
+    label "iesJHl-FnmI"
     step 0
-    date "2019-09-16T01:00:36Z"
-    title "9/11 + 18 YEARS  BUILDING 7 = M-U-R-D-E-R | FALSE-FLAG-FRIDAY EP#1.1 | (2019)"
-    description "#9/11 #FALSEFLAG #terrorism&#10;The now 18 year war in Afghanistan, while the war in Iraq is just 18 months younger. These conflicts date back to one event, on one day, yet the repercussions continue to reverberate nearly two decades later.&#10;&#10;False Flag Friday | Episode #1.1"
-    channeltitle "WKAJ TV"
-    channelid "UCTjNx2MU2ZSFd4_LgvlIjBA"
+    date "2015-03-23T15:34:48Z"
+    title "Follow the MONEY  The Corbett Report"
+    description "Check Out My INFO WAR - DOCUMENTARIES PLAY LIST &#10;http://www.youtube.com/playlist?list=PLZWK79zvK-Z3raAqBgpQoFzyjsEqkNA9Y&#10;Please visit the FACEBOOK page http://www.facebook.com/WeWontGetFooledAgain &#10;Corbett Report YouTube Channel https://www.youtube.com/user/corbettreport/featured&#10;Who Was Really Behind the 9/11 Attacks? &#10;https://www.youtube.com/watch?v=mWLis-TVB2w&#10;&#10;July 2001! - U.S. plans to invade Afghanistan for an attack on Osama bin Laden and the Taliban by October 2001.&#10;a) http://news.bbc.co.uk/2/hi/south_asia...&#10;b) http://www.guardian.co.uk/world/2001/...&#10;&#10;Sep 4, 2001 - The White House approves plans to invade Afghanistan&#10;http://www.usatoday.com/news/washington/2004-03-23-war-analysis_x.htm&#10;&#10;Sep 5, 2001 - U.S. pulls the plug on Muslim websites.&#10;http://www.guardian.co.uk/technology/2001/sep/10/internetnews.worlddispatch&#10;&#10;Friday, 7 September, 2001 - FBI accused of anti-Muslim bias&#10;http://news.bbc.co.uk/2/hi/science/nature/1530361.stm&#10;&#10;Sep10, 2001 - The White House's battle plan to invade Afghanistan and topple the Taliban and Osama bin Laden awaits President Bush's approval&#10;http://www.msnbc.msn.com/id/4585010/&#10;&#10;Kissinger &#38; Carlyle Group Connections to yet more financial interests:&#10;http://911review.com/articles/ryan/carlyle_kissinger_saic_halliburton.html&#10;&#10;Rumsfeld Trillions:&#10;1. September 10, 2001 - Secretary of Defense Donald Rumsfeld announces that the Pentagon has lost track of $2.3 TRILLION DOLLARS of military spending. http://www.cbsnews.com/stories/2002/01/29/eveningnews/main325985.shtml&#10;http://www.defenselink.mil/speeches/2001/s20010910-secdef.html&#10;9/10/2001: Rumsfeld says $2.3 TRILLION Missing from Pentagon (DOD) (Live footage of the speech)&#10;http://www.youtube.com/watch?v=xU4GdHLUHwU&#10;&#10;&#10;1. September 6, 2001 - Large number of &#34;put&#34; options are placed on United Airlines stock betting that the stock price would fall.&#10;a) http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/09/29/MN186128.DTL&#10;b) http://tinyurl.com/ygxsls8 (Chicago Tribune)&#10;&#10;2. September 6, 2001 - Some of the put options placed on United Airlines stock were purchased through the investment banking firm of Deutsche Banc Alex. Brown in which the current Executive Director of the CIA, A.B. &#34;Buzzy&#34; Krongard, used to be the company's CEO up until 1998.&#10;http://web.archive.org/web/20041011182446/http://www.cia.gov/cia/information/krongard.htm&#10;(CIA.gov took this down in 2005, Why?)&#10;&#10;3.  All the proof you need. (Insider Trading) &#10;http://tvnewslies.org/html/9_11_-_all_the_proof_you_need.html/&#10;&#10;Ex. CIA-director, former President, and President Bush's Dad, George H.W. Bush, meets with one of Osama Bin Laden's brothers at a Carlyle business conference in Washington D.C.&#10;http://www.guardian.co.uk/theobserver/2002/jun/16/features.magazine57/&#10;http://www.economist.com/books/displaystory.cfm?story_id=1875084/&#10;&#10;9/11 - Sen. Bob Graham (D-FL) and Rep. Porter Goss (R-FL) -- the chairmen of the Senate and House Intelligence Committees -- along with Sen. John Kyl (R-AZ) and some other members of the House Intelligence Committee are in a meeting at the Capital building with the director of Pakistani intelligence (ISI), Lt. Gen. Mahmud Ahmad, who authorized a $100,000 wire transfer to alleged lead 9/11 hijacker, Mohamed Atta.&#10;http://www.salon.com/politics/feature/2001/09/14/human_spies/index.html/&#10;&#10;Any Broken Links use: http://www.Archive.org/&#10;&#10;Major Federal Reserve motivations for 9/11:&#10;Iraq nets handsome profit by dumping Dollar for Euro:&#10;http://www.guardian.co.uk/business/2003/feb/16/iraq.theeuro/&#10;&#10;U.N. to let Iraq sell oil for euros:&#10;http://www.defenseindustrydaily.com/commanders-in-iraq-urgently-request-renewable-power-options-02548/&#10;http://www.energybulletin.net/node/7707/&#10;&#10;Cheney, Energy, and Iraq Invasion (Supreme Court)&#10;http://articles.sfgate.com/2004-03-21/opinion/17417765_1_russia-s-lukoil-judicial-watch-future-oil/&#10;&#10;Henry Kissinger&#10;1. November 29, 2002 - President Bush names former Secretary of State, former National Security advisor, and former Unocal consultant Henry Kissinger to head the &#34;independent&#34; 9/11 investigations. &#10;http://archives.cnn.com/2002/ALLPOLITICS/11/27/intelligence.probe/index.html&#10;http://www.cbsnews.com/stories/2002/12/12/politics/main532794.shtml&#10;&#10;2. December 12, 2002 - Democrats want Henry Kissinger to name his business clients. &#10;http://www.cbsnews.com/news/dems-want-kissinger-to-name-clients/&#10;&#10;December 13, 2002 - Henry Kissinger resigns as head of 9/11 commission. &#10;http://news.bbc.co.uk/2/hi/americas/2574741.stm&#10;&#10;Norad Wargames:&#10;1. 9/11 (6:00 am) - NORAD was in day two of a week long exercise called &#34;Vigilant Guardian&#34; in which some of it's military participants thought the first reports of the hijackings later on in the day were &#34;part of the exercise.&#34;"
+    channeltitle "We Wont Get Fooled Again"
+    channelid "UCHVZieiuuekr2_pGDLT8Glg"
     favcount 0
-    viewcount 2373
-    likecount 11
-    commentcount 1
-    duration "PT9M"
+    viewcount 9858
+    likecount 107
+    commentcount 20
+    duration "PT37M"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 239
-    name "536"
+    id 535
+    label "5RmPq5nY9Cg"
+    step 0
+    date "2021-09-01T16:06:35Z"
+    title "Danny Jowenko on building 7 collapse"
+    description "From Dutch television: &#34;Zembla: Het complot van 11 september&#34;.&#10;Originally aired on September 10, 2006."
+    channeltitle "Michael Madsen"
+    channelid "UCn1Tov6xy_zUD-xhm9K24iw"
+    favcount 0
+    viewcount 423
+    likecount 5
+    commentcount 0
+    duration "PT57S"
+    indegree 0
+    sentiment 1
+    cluster 3
+  ]
+  node
+  [
+    id 536
     label "90ip8LquBIM"
     step 0
     date "2012-03-30T16:03:54Z"
@@ -6712,21 +4579,12 @@ graph
     commentcount 10
     duration "PT2M55S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 8
   ]
   node
   [
-    id 240
-    name "537"
+    id 537
     label "6p9UrIROYwI"
     step 0
     date "2020-11-13T05:57:52Z"
@@ -6740,161 +4598,107 @@ graph
     commentcount 2
     duration "PT5M23S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 8
-  ]
-  node
-  [
-    id 241
-    name "538"
-    label "B7XkOyAIBQ4"
-    step 0
-    date "2011-09-11T17:13:19Z"
-    title "9/11 Ten Years Later: Public Knows WTC Building 7 Hoax"
-    description "Alex Jones InfoWars nightly news interviews random people in Austin, TX asking them about building 7. Most believe building 7 was a controlled demolition"
-    channeltitle "ekenliney4"
-    channelid "UClFJJWMvSlKlnvWmHjqPBEg"
-    favcount 0
-    viewcount 83
-    likecount 0
-    commentcount 0
-    duration "PT13M8S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
-  ]
-  node
-  [
-    id 242
-    name "544"
-    label "u9XKLKCrQWI"
-    step 0
-    date "2021-08-10T21:26:35Z"
-    title "Chapter 23 Jerome Hauer, Kroll, OEM  Building 7: AN INCONVENIENT 9/11 TRUTH [Part I]"
-    description "Disclaimer: Not every claim presented in An Inconvenient 9/11 Truth' [Part I] are accurate, some revisions have been made on separate films from the channel. From the full-length film An Inconvenient 9/11 Truth' [Part I] (2017, 2nd edit): https://youtu.be/WTHLw1_6vZ4&#10;&#10;Help us create more films, donate on PayPal or become a Patreon: https://www.patreon.com/thermaldetonator"
-    channeltitle "Truther TV Archives"
-    channelid "UCHk0X-eeJEgmUVa7C3_T42Q"
-    favcount 0
-    viewcount 65
-    likecount 3
-    commentcount 0
-    duration "PT4M25S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 1
   ]
   node
   [
-    id 243
-    name "548"
-    label "lPzjqRMiHSk"
+    id 543
+    label "E6s0Gam54mk"
     step 0
-    date "2008-12-22T20:45:55Z"
-    title "The Truth About World Trade Center Building 7"
-    description "A little bit of info about World Trade Center Building 7.&#13;&#10;&#13;&#10;Song- Immortal Technique, &#34;The Cause of Death&#34;&#13;&#10;&#13;&#10;Clips- &#34;Martial Law- 911, Rise of The Police State&#34;, by Alex Jones&#13;&#10;       &#13;&#10;...all mixed together with New World Order Quotes and random cartoons.  &#13;&#10;&#13;&#10;Have fun waking up ;)"
-    channeltitle "westridge44"
-    channelid "UCYdSNvr8cw8ZoltL8Ogd2PQ"
+    date "2015-05-17T02:24:49Z"
+    title "Take the 47 Minute Building 7 Challenge!"
+    description "This is a 47 minute challenge about Building 7, a 47-story skyscraper, which collapsed at 5:20pm on September 11th, 2001.&#10;&#10;The challenge is to watch this 47 minute video and try to maintain your belief in the official story of what happened on September 11th, 2001. This is a difficult challenge because this video features testimony from Structural Engineers, Architects, Demolition Experts, and eyewitnesses who provide evidence that Building 7 collapsed as a result of a controlled demolition. After looking at the evidence, it will be challenging to maintain the belief that fire caused Building 7 to collapse in the manner that was observed. &#10;&#10;Music by Ross Bugen&#10;https://www.youtube.com/channel/UCQKGLOK2FqmVgVwYferltKQ&#10;&#10;http://www.rethink911.org/&#10;http://www.rememberbuilding7.org/&#10;http://www.ae911truth.org/&#10;http://www.loosechange911.com/&#10;https://www.corbettreport.com/&#10;&#10;This video features clips from the following documentaries:&#10;&#10;September 11 - The New Pearl Harbor&#10;https://www.youtube.com/playlist?list=PL_IlIlrxhtPM1E-yzT61Ex4lREHJTpXcE&#10;&#10;9/11: Explosive Evidence - Experts Speak Out (Free 1-hour version) &#10;https://www.youtube.com/watch?v=Ddz2mw2vaEg&#10;&#10;Loose Change 9/11: An American Coup&#10;https://www.youtube.com/watch?v=N_4IJV-o4bY&#10;&#10;The Elephant In The Room&#10;https://vimeo.com/34948257&#10;&#10;Sources:&#10;http://www.foxnews.com/opinion/2010/04/22/jeffrey-scott-shapiro-jesse-venture-book-lies-truthers-ground-zero-sept-shame.html"
+    channeltitle "LibertyDefender84"
+    channelid "UCjFzB4tXw7T0l3a_bPWLqpA"
     favcount 0
-    viewcount 2936
-    likecount 11
-    commentcount 1
-    duration "PT9M44S"
+    viewcount 172616
+    likecount 1608
+    commentcount 2090
+    duration "PT47M1S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
+    sentiment 1
+    cluster 1
   ]
   node
   [
-    id 244
-    name "550"
-    label "9dwPKOBuAyY"
+    id 547
+    label "G6Sos0stBdA"
     step 0
-    date "2015-12-11T20:32:27Z"
-    title "911 - What Happened to WTC Building 7?"
-    description ""
-    channeltitle "Johnny Golightly"
-    channelid "UCEwSTSTU1YpLiOX1_ZKk8hA"
+    date "2018-07-25T10:16:25Z"
+    title "911 - Part 2 Building 7"
+    description "The mysterious collapse of building 7"
+    channeltitle "Conspiracy Channel"
+    channelid "UCzxh0gv-3__cB7nexv0ob9Q"
     favcount 0
-    viewcount 17
+    viewcount 49
     likecount 0
     commentcount 0
-    duration "PT9M1S"
+    duration "PT9M15S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 6
+    sentiment 1
+    cluster 2
   ]
   node
   [
-    id 245
-    name "552"
-    label "uucQZyJnx18"
+    id 549
+    label "1o2_CpKK1k4"
     step 0
-    date "2019-09-16T03:06:05Z"
-    title "9/11 + 18 YEARS  BUILDING 7 = M-U-R-D-E-R | FALSE-FLAG-FRIDAY EP#1.2 | (2019)"
-    description "#9/11 #FALSEFLAG #terrorism&#10;The now 18 year war in Afghanistan, while the war in Iraq is just 18 months younger. These conflicts date back to one event, on one day, yet the repercussions continue to reverberate nearly two decades later.&#10;False Flag Friday | Episode #1.2"
-    channeltitle "WKAJ TV"
-    channelid "UCTjNx2MU2ZSFd4_LgvlIjBA"
+    date "2018-01-21T00:32:05Z"
+    title "Building 7 - Mystery Engineer "
+    description "FDNY Deputy Chief Hayden discuses the mystery 'engineer' who somehow accurately predicted the time wtc7 would collapse. He was &#34;right on the money&#34;, says Hayden. Questions 'debunkers' would never think to ask;&#10;&#10;1) What was the engineer's name?&#10;2) If we don't know his name, is it a secret?&#10;3) Building 7's collapse was unprecedented, an &#34;extraordinary event&#34; as NIST's Shyam Sunder described it. So how did this mystery engineer make such an accurate prediction with no previous experience to draw upon? Was he just 'lucky'?&#10;4) Why has the mystery engineer never been interviewed, or said anything verbally, or written since 9/11?&#10;5) With his obvious expertise in predicting collapse and when, to the near minute, it would occur, why didn't NIST consult him for their investigation? The engineer's input would have been invaluable, one imagines. NIST had trouble &#34;getting a handle on&#34; things. The engineer could have helped out and saved NIST a lot of time and taxpayers money."
+    channeltitle "ManAgainstCrime"
+    channelid "UCWLoqwlHA6_6fK9bDjWqeWg"
     favcount 0
-    viewcount 4339
-    likecount 16
-    commentcount 0
-    duration "PT10M6S"
+    viewcount 451
+    likecount 9
+    commentcount 15
+    duration "PT27S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
+    cluster 8
+  ]
+  node
+  [
+    id 551
+    label "AEvvoI_EqUM"
+    step 0
+    date "2015-09-23T06:59:58Z"
+    title "Larry Silverstein admits they pulled building 7 and other evidence"
+    description "Building 7 brought down by controlled demolition"
+    channeltitle "Chuck Frasher"
+    channelid "UCYXv_5lp3UVye6d0RfculWQ"
+    favcount 0
+    viewcount 261
+    likecount 3
+    commentcount 0
+    duration "PT11M1S"
+    indegree 0
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 246
-    name "556"
+    id 555
+    label "UwaKvlBS7B0"
+    step 0
+    date "2011-01-23T18:27:17Z"
+    title "911 Mysteries-WTCs 1, 2 and BUILDING 7 were planted with EXPLOSIVES by the U.S. Government!"
+    description "Douglas Bickford 360-773-1318  Whitehouse 202-456-1414"
+    channeltitle "DandDBroadCasting43"
+    channelid "UCgxG6Px9MhvJRUEpdJnSe9g"
+    favcount 0
+    viewcount 1090
+    likecount 14
+    commentcount 3
+    duration "PT1H30M42S"
+    indegree 0
+    sentiment 1
+    cluster 9
+  ]
+  node
+  [
+    id 556
     label "tqs6LqX_K3I"
     step 0
     date "2020-02-04T23:51:25Z"
@@ -6908,105 +4712,69 @@ graph
     commentcount 0
     duration "PT10M6S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 10
   ]
   node
   [
-    id 247
-    name "557"
-    label "vmAhyjMNGd4"
+    id 561
+    label "tlRmaUCE8sM"
     step 0
-    date "2015-12-28T04:23:04Z"
-    title "Architects and Engineers - Solving the Mystery of Building 7"
-    description "Join actor, Ed Asner and Architect Richard Gage, AIA and Architects and Engineers as they narrate an unfolding story that decimates the official account (&#34;collapse due to normal office fires&#34;) of this 47 story high-rise which was destroyed on the afternoon of 9/11 in record time: top to bottom in under 7 seconds - and at free-fall acceleration for a third of its fall. Solving the Mystery of the Free-Fall Collapse of WTC 7.&#10;&#10;http://www.ae911truth.org/"
-    channeltitle "Empire of Lies"
-    channelid "UCqh7uKVtSA1qRM3ugZPDgmg"
+    date "2010-08-19T01:15:46Z"
+    title "Building 7 - Sound Evidence for Explosions (10 min)"
+    description "High school physics teacher refutes the claim made by the National Institute of Standards and Technology (NIST) that there was no evidence of explosions by examining eyewitness accounts and sound recordings on a nearby microphone.  Mr. Chandler also reviews the various news reports showing foreknowledge that Building 7 would come down."
+    channeltitle "BuildingWhat"
+    channelid "UCygqn62_I9q51mgFE9UWKAA"
     favcount 0
-    viewcount 2417
+    viewcount 4464
     likecount -1
     commentcount -1
-    duration "PT14M12S"
+    duration "PT9M57S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 10
+    sentiment 1
+    cluster 9
   ]
   node
   [
-    id 248
-    name "562"
-    label "tXlqbctJ2sY"
+    id 567
+    label "5ArcMOkuoK0"
     step 0
-    date "2012-11-02T10:40:14Z"
-    title "Alex Jones - Weekly Report - Live 01.27.04 (Analysis Of WTC Building 7)"
-    description "Alex analyze the mysterious collapse of Building 7 on Septemper 11'th 2001&#10;&#10;Alex Jones"
-    channeltitle "MasterpieceConCen7"
-    channelid "UCro4H4Jvayrh7rUFwh6COBA"
+    date "2009-06-07T04:54:18Z"
+    title "Building 7: Truth  Lies of 9/11. Architect Richard Gage Speaks of Freefall Speed Explosions"
+    description "WTC 7 collapsed rapidly and symmetrically, even though fires were randomly scattered in the building. WTC 7 fell about seven hours after the Towers collapsed, even though no major persistent fires were visible.&#13;&#10;&#13;&#10;There were twenty-four huge steel support columns inside WTC 7 as well as huge trusses, arranged asymmetrically, along with approximately 57 perimeter columns. A symmetrical collapse, as observed, evidently requires the simultaneous pulling of most or all of the support columns. &#13;&#10;&#13;&#10;The Second Law of Thermodynamics implies that the likelihood of complete and symmetrical collapse due to random fires as in the official theory is small, since asymmetrical failure is so much more likely. On the other hand, a major goal of controlled demolition using explosives is the complete and symmetrical collapse of buildings.&#13;&#10;&#13;&#10;Concluding remarks in the FEMA report on the WTC 7 collapse lend support to my arguments:&#13;&#10;&#13;&#10;The specifics of the fires in WTC 7 and how they caused the building to collapse [official theory] remain unknown at this time. Although the total diesel fuel on the premises contained massive potential energy, the best hypothesis [fire/damage-caused collapse] has only a low probability of occurrence. Further research, investigation, and analyses are needed to resolve this issue.&#13;&#10;&#13;&#10;- Steven Jones&#13;&#10;&#34;Why Indeed Did the WTC Buildings Collapse?&#34;&#13;&#10;Department of Physics and Astronomy&#13;&#10;Brigham Young University"
+    channeltitle "911TruthVideos"
+    channelid "UCExZBT0BpFdRlR59WbrxM_g"
     favcount 0
-    viewcount 2465
-    likecount 20
-    commentcount 5
-    duration "PT32M24S"
+    viewcount 67295
+    likecount 350
+    commentcount 16
+    duration "PT10M9S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 4
-  ]
-  node
-  [
-    id 249
-    name "568"
-    label "LgA7yLGECwc"
-    step 0
-    date "2008-07-01T04:35:36Z"
-    title "The Truth Behind 911 - What Happened to Building 7"
-    description "9 11 Truth - What Happened to Building 7"
-    channeltitle "1337radiantEnergy"
-    channelid "UCJBb8F5BKLbJkzOVkCWkRZA"
-    favcount 0
-    viewcount 1945
-    likecount 11
-    commentcount 7
-    duration "PT9M1S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
+    sentiment 1
     cluster 5
   ]
   node
   [
-    id 250
-    name "583"
+    id 582
+    label "19cS9ZwtEC4"
+    step 0
+    date "2015-05-17T02:31:43Z"
+    title "Richard Gage Presents 9/11 BLUEPRINT FOR TRUTH Live from Atlanta!"
+    description "Streaming live from the Campus of Georgia Institute of Technology's Clary Theater, Richard Gage will be giving an interactive presentation entitled &#34; 9/11 Blueprint for Truth&#34; in conjunction with several of the world's most high respected and preeminent Architects and Engineers from around the world.  This event coincides with the American Institute of Architects National Convention now in progress in Atlanta during which the AIA was to vote on resolution 15-6 to open a new investigation into the collapse of WTC 7. For more information please visit WTC7Resolution.org"
+    channeltitle "Operation Educate"
+    channelid "UCs9xk6r8eJNfX6xGmkKYgLg"
+    favcount 0
+    viewcount 2459
+    likecount 51
+    commentcount 24
+    duration "PT3H19M9S"
+    indegree 0
+    sentiment 1
+    cluster 2
+  ]
+  node
+  [
+    id 583
     label "Yd9iv9sHPm8"
     step 0
     date "2022-06-11T16:15:09Z"
@@ -7020,44 +4788,8 @@ graph
     commentcount 32
     duration "PT2H1M59S"
     indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 2
-  ]
-  node
-  [
-    id 251
-    name "584"
-    label "__dsWcE_I94"
-    step 0
-    date "2019-01-10T13:32:14Z"
-    title "9/11 Controlled Demolition | The Conspiracy Show with Richard Syrett | Season 1 | Episode 2"
-    description "&#9658; Subscribe to get all the latest content https://bit.ly/3FZsL9m&#10;&#10;The Conspiracy Show with Richard Syrett Season 1 Episode 2 9/11 Controlled Demolition&#10;&#10;Richard travels to New York, San Francisco and Seattle to investigate claims the Twin Towers and Building 7 were brought down by explosives placed inside the towers prior to the 911 attacks. The founders of Architects and Engineers for 9/11 Truth and Firefighters for 9/11 Truth present their best evidence for controlled demolition and a Fire and Explosives expert attempts to refute their claims.&#10;&#10;Broadcast personality Richard Syrett creates a calm, rational platform on which stars from the worlds of conspiracy thought, the paranormal, alternate health can engage in high quality discourse in these subject arenas.&#10;&#10;Director: Jalal Merhi&#10;Writer: Richard Syrett&#10;Stars: Ron Craig, Richard Gage, Eric Lawyer"
-    channeltitle "Film One"
-    channelid "UCYJRLp-kSgPVyXmHMpvy4pA"
-    favcount 0
-    viewcount 2271
-    likecount 35
-    commentcount 0
-    duration "PT22M33S"
-    indegree 0
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    sentiment NaN
-    cluster 7
+    sentiment 1
+    cluster 4
   ]
   edge
   [
@@ -8556,3198 +6288,3198 @@ graph
   edge
   [
     source 42
-    target 45
+    target 48
     rank 9
   ]
   edge
   [
-    source 44
+    source 47
     target 25
     rank 2
   ]
   edge
   [
-    source 45
+    source 48
     target 1
     rank 8
   ]
   edge
   [
-    source 45
+    source 48
     target 2
     rank 1
   ]
   edge
   [
-    source 45
+    source 48
     target 3
     rank 7
   ]
   edge
   [
-    source 45
+    source 48
     target 5
     rank 2
   ]
   edge
   [
-    source 45
+    source 48
     target 6
     rank 9
   ]
   edge
   [
-    source 45
+    source 48
     target 7
     rank 12
   ]
   edge
   [
-    source 45
+    source 48
     target 8
     rank 6
   ]
   edge
   [
-    source 45
+    source 48
     target 13
     rank 16
   ]
   edge
   [
-    source 45
+    source 48
     target 20
     rank 15
   ]
   edge
   [
-    source 45
+    source 48
     target 25
     rank 18
   ]
   edge
   [
-    source 46
-    target 64
+    source 49
+    target 77
     rank 1
   ]
   edge
   [
-    source 47
-    target 64
+    source 51
+    target 77
     rank 13
   ]
   edge
   [
-    source 48
+    source 52
     target 5
     rank 5
   ]
   edge
   [
-    source 48
+    source 52
     target 15
     rank 12
   ]
   edge
   [
-    source 48
+    source 52
     target 21
     rank 13
   ]
   edge
   [
-    source 48
+    source 52
     target 28
     rank 10
   ]
   edge
   [
-    source 48
+    source 52
     target 37
     rank 18
   ]
   edge
   [
-    source 49
+    source 55
     target 1
     rank 2
   ]
   edge
   [
-    source 49
+    source 55
     target 13
     rank 3
   ]
   edge
   [
-    source 49
+    source 55
     target 34
     rank 20
   ]
   edge
   [
-    source 49
-    target 99
+    source 55
+    target 153
     rank 14
   ]
   edge
   [
-    source 50
+    source 56
     target 34
     rank 20
   ]
   edge
   [
-    source 50
+    source 56
     target 43
     rank 7
   ]
   edge
   [
-    source 51
+    source 57
     target 38
     rank 20
   ]
   edge
   [
-    source 52
+    source 59
     target 1
     rank 6
   ]
   edge
   [
-    source 52
+    source 59
     target 5
     rank 1
   ]
   edge
   [
-    source 52
+    source 59
     target 14
     rank 9
   ]
   edge
   [
-    source 52
+    source 59
     target 20
     rank 17
   ]
   edge
   [
-    source 52
+    source 59
     target 26
     rank 18
   ]
   edge
   [
-    source 53
+    source 60
     target 28
     rank 6
   ]
   edge
   [
-    source 54
+    source 61
     target 5
     rank 2
   ]
   edge
   [
-    source 54
+    source 61
     target 8
     rank 1
   ]
   edge
   [
-    source 55
+    source 62
     target 15
     rank 3
   ]
   edge
   [
-    source 55
+    source 62
     target 28
     rank 4
   ]
   edge
   [
-    source 56
+    source 63
     target 2
     rank 1
   ]
   edge
   [
-    source 56
+    source 63
     target 3
     rank 13
   ]
   edge
   [
-    source 56
+    source 63
     target 5
     rank 2
   ]
   edge
   [
-    source 56
+    source 63
     target 6
     rank 14
-  ]
-  edge
-  [
-    source 56
-    target 9
-    rank 3
-  ]
-  edge
-  [
-    source 56
-    target 15
-    rank 4
-  ]
-  edge
-  [
-    source 56
-    target 29
-    rank 6
-  ]
-  edge
-  [
-    source 56
-    target 45
-    rank 9
-  ]
-  edge
-  [
-    source 57
-    target 45
-    rank 3
-  ]
-  edge
-  [
-    source 58
-    target 1
-    rank 4
-  ]
-  edge
-  [
-    source 58
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 58
-    target 7
-    rank 3
-  ]
-  edge
-  [
-    source 58
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 58
-    target 19
-    rank 8
-  ]
-  edge
-  [
-    source 58
-    target 25
-    rank 20
-  ]
-  edge
-  [
-    source 59
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 59
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 59
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 59
-    target 7
-    rank 18
-  ]
-  edge
-  [
-    source 59
-    target 10
-    rank 12
-  ]
-  edge
-  [
-    source 59
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 59
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 59
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 59
-    target 45
-    rank 9
-  ]
-  edge
-  [
-    source 59
-    target 62
-    rank 14
-  ]
-  edge
-  [
-    source 60
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 60
-    target 20
-    rank 11
-  ]
-  edge
-  [
-    source 60
-    target 28
-    rank 5
-  ]
-  edge
-  [
-    source 61
-    target 34
-    rank 4
-  ]
-  edge
-  [
-    source 62
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 62
-    target 21
-    rank 5
   ]
   edge
   [
     source 63
     target 9
-    rank 2
-  ]
-  edge
-  [
-    source 65
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 65
-    target 21
     rank 3
   ]
   edge
   [
-    source 65
-    target 26
-    rank 13
+    source 63
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 63
+    target 29
+    rank 6
+  ]
+  edge
+  [
+    source 63
+    target 48
+    rank 9
   ]
   edge
   [
     source 66
-    target 10
-    rank 12
-  ]
-  edge
-  [
-    source 66
-    target 11
-    rank 2
-  ]
-  edge
-  [
-    source 66
-    target 18
-    rank 16
-  ]
-  edge
-  [
-    source 66
-    target 31
-    rank 1
+    target 48
+    rank 3
   ]
   edge
   [
     source 67
-    target 5
-    rank 5
+    target 1
+    rank 4
   ]
   edge
   [
     source 67
-    target 18
+    target 3
     rank 16
   ]
   edge
   [
     source 67
-    target 41
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 67
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 67
+    target 19
     rank 8
   ]
   edge
   [
     source 67
-    target 54
+    target 25
+    rank 20
+  ]
+  edge
+  [
+    source 68
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 68
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 68
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 68
+    target 7
     rank 18
   ]
   edge
   [
     source 68
+    target 10
+    rank 12
+  ]
+  edge
+  [
+    source 68
+    target 11
+    rank 1
+  ]
+  edge
+  [
+    source 68
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 68
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 68
+    target 48
+    rank 9
+  ]
+  edge
+  [
+    source 68
+    target 74
+    rank 14
+  ]
+  edge
+  [
+    source 69
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 69
+    target 20
+    rank 11
+  ]
+  edge
+  [
+    source 69
+    target 28
+    rank 5
+  ]
+  edge
+  [
+    source 70
+    target 34
+    rank 4
+  ]
+  edge
+  [
+    source 74
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 74
+    target 21
+    rank 5
+  ]
+  edge
+  [
+    source 75
+    target 9
+    rank 2
+  ]
+  edge
+  [
+    source 78
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 78
+    target 21
+    rank 3
+  ]
+  edge
+  [
+    source 78
+    target 26
+    rank 13
+  ]
+  edge
+  [
+    source 79
+    target 10
+    rank 12
+  ]
+  edge
+  [
+    source 79
+    target 11
+    rank 2
+  ]
+  edge
+  [
+    source 79
+    target 18
+    rank 16
+  ]
+  edge
+  [
+    source 79
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 82
+    target 5
+    rank 5
+  ]
+  edge
+  [
+    source 82
+    target 18
+    rank 16
+  ]
+  edge
+  [
+    source 82
+    target 41
+    rank 8
+  ]
+  edge
+  [
+    source 82
+    target 61
+    rank 18
+  ]
+  edge
+  [
+    source 83
     target 29
     rank 15
   ]
   edge
   [
-    source 68
+    source 83
     target 35
     rank 1
   ]
   edge
   [
-    source 68
+    source 83
     target 37
     rank 19
   ]
   edge
   [
-    source 68
+    source 83
     target 39
     rank 20
   ]
   edge
   [
-    source 68
+    source 83
     target 43
     rank 4
   ]
   edge
   [
-    source 69
+    source 87
     target 22
     rank 5
   ]
   edge
   [
-    source 70
+    source 88
     target 29
     rank 1
   ]
   edge
   [
-    source 70
+    source 88
     target 34
     rank 6
   ]
   edge
   [
-    source 70
-    target 45
+    source 88
+    target 48
     rank 2
   ]
   edge
   [
-    source 70
-    target 49
+    source 88
+    target 55
     rank 8
   ]
   edge
   [
-    source 70
-    target 56
+    source 88
+    target 63
     rank 5
   ]
   edge
   [
-    source 70
-    target 86
+    source 88
+    target 119
     rank 7
   ]
   edge
   [
-    source 70
-    target 88
+    source 88
+    target 121
     rank 4
   ]
   edge
   [
-    source 70
-    target 90
+    source 88
+    target 124
     rank 11
   ]
   edge
   [
-    source 71
+    source 93
     target 29
     rank 1
   ]
   edge
   [
-    source 72
+    source 94
     target 1
     rank 3
   ]
   edge
   [
-    source 72
+    source 94
     target 2
     rank 1
   ]
   edge
   [
-    source 72
+    source 94
     target 40
     rank 14
   ]
   edge
   [
-    source 72
+    source 94
     target 42
     rank 15
   ]
   edge
   [
-    source 72
-    target 91
-    rank 16
-  ]
-  edge
-  [
-    source 73
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 73
-    target 33
-    rank 2
-  ]
-  edge
-  [
-    source 73
-    target 57
-    rank 18
-  ]
-  edge
-  [
-    source 73
-    target 99
-    rank 13
-  ]
-  edge
-  [
-    source 73
-    target 147
-    rank 17
-  ]
-  edge
-  [
-    source 74
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 74
-    target 36
-    rank 1
-  ]
-  edge
-  [
-    source 74
-    target 43
-    rank 13
-  ]
-  edge
-  [
-    source 75
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 77
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 77
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 77
-    target 18
-    rank 20
-  ]
-  edge
-  [
-    source 77
-    target 29
-    rank 1
-  ]
-  edge
-  [
-    source 77
-    target 33
-    rank 13
-  ]
-  edge
-  [
-    source 77
-    target 45
-    rank 16
-  ]
-  edge
-  [
-    source 78
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 78
-    target 7
-    rank 3
-  ]
-  edge
-  [
-    source 78
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 78
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 78
-    target 26
-    rank 12
-  ]
-  edge
-  [
-    source 78
-    target 30
-    rank 9
-  ]
-  edge
-  [
-    source 79
-    target 13
-    rank 9
-  ]
-  edge
-  [
-    source 80
-    target 10
-    rank 8
-  ]
-  edge
-  [
-    source 80
-    target 11
-    rank 2
-  ]
-  edge
-  [
-    source 80
-    target 34
-    rank 19
-  ]
-  edge
-  [
-    source 81
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 81
-    target 16
-    rank 14
-  ]
-  edge
-  [
-    source 81
-    target 30
-    rank 5
-  ]
-  edge
-  [
-    source 81
-    target 36
-    rank 7
-  ]
-  edge
-  [
-    source 82
-    target 10
-    rank 11
-  ]
-  edge
-  [
-    source 82
-    target 13
-    rank 12
-  ]
-  edge
-  [
-    source 82
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 82
-    target 36
-    rank 3
-  ]
-  edge
-  [
-    source 83
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 83
-    target 24
-    rank 13
-  ]
-  edge
-  [
-    source 83
-    target 32
-    rank 11
-  ]
-  edge
-  [
-    source 83
-    target 154
-    rank 9
-  ]
-  edge
-  [
-    source 84
-    target 92
-    rank 2
-  ]
-  edge
-  [
-    source 85
-    target 29
-    rank 1
-  ]
-  edge
-  [
-    source 86
-    target 29
-    rank 17
-  ]
-  edge
-  [
-    source 87
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 87
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 87
-    target 8
-    rank 2
-  ]
-  edge
-  [
-    source 87
-    target 18
-    rank 12
-  ]
-  edge
-  [
-    source 88
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 88
-    target 11
-    rank 4
-  ]
-  edge
-  [
-    source 88
-    target 14
-    rank 6
-  ]
-  edge
-  [
-    source 88
-    target 26
-    rank 20
-  ]
-  edge
-  [
-    source 88
-    target 36
-    rank 7
-  ]
-  edge
-  [
-    source 88
-    target 45
-    rank 5
-  ]
-  edge
-  [
-    source 89
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 89
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 89
-    target 13
-    rank 7
-  ]
-  edge
-  [
-    source 90
-    target 29
-    rank 2
-  ]
-  edge
-  [
-    source 90
-    target 34
-    rank 6
-  ]
-  edge
-  [
-    source 90
-    target 45
-    rank 1
-  ]
-  edge
-  [
-    source 90
-    target 88
-    rank 3
-  ]
-  edge
-  [
-    source 92
-    target 7
-    rank 2
-  ]
-  edge
-  [
-    source 92
-    target 64
-    rank 18
-  ]
-  edge
-  [
-    source 92
-    target 91
-    rank 19
-  ]
-  edge
-  [
-    source 93
-    target 57
-    rank 16
-  ]
-  edge
-  [
-    source 93
-    target 65
-    rank 18
-  ]
-  edge
-  [
-    source 93
-    target 73
-    rank 17
-  ]
-  edge
-  [
     source 94
-    target 34
-    rank 13
+    target 125
+    rank 16
   ]
   edge
   [
-    source 94
-    target 65
-    rank 14
-  ]
-  edge
-  [
-    source 95
-    target 10
-    rank 7
-  ]
-  edge
-  [
-    source 95
-    target 28
+    source 96
+    target 5
     rank 1
   ]
   edge
   [
     source 96
-    target 36
-    rank 6
+    target 33
+    rank 2
+  ]
+  edge
+  [
+    source 96
+    target 66
+    rank 18
+  ]
+  edge
+  [
+    source 96
+    target 153
+    rank 13
+  ]
+  edge
+  [
+    source 96
+    target 284
+    rank 17
   ]
   edge
   [
     source 97
-    target 29
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 97
+    target 36
     rank 1
   ]
   edge
   [
     source 97
-    target 34
+    target 43
+    rank 13
+  ]
+  edge
+  [
+    source 98
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 100
+    target 6
     rank 7
   ]
   edge
   [
-    source 97
-    target 45
-    rank 2
-  ]
-  edge
-  [
-    source 97
-    target 88
-    rank 3
-  ]
-  edge
-  [
-    source 98
-    target 42
-    rank 9
-  ]
-  edge
-  [
-    source 98
-    target 117
-    rank 16
-  ]
-  edge
-  [
-    source 98
-    target 124
-    rank 19
-  ]
-  edge
-  [
-    source 98
-    target 148
-    rank 17
-  ]
-  edge
-  [
-    source 99
-    target 1
-    rank 10
-  ]
-  edge
-  [
-    source 99
-    target 7
-    rank 1
-  ]
-  edge
-  [
-    source 99
-    target 119
-    rank 9
-  ]
-  edge
-  [
-    source 99
-    target 136
-    rank 6
-  ]
-  edge
-  [
     source 100
-    target 11
-    rank 5
-  ]
-  edge
-  [
-    source 100
-    target 28
-    rank 1
-  ]
-  edge
-  [
-    source 101
-    target 11
-    rank 2
-  ]
-  edge
-  [
-    source 101
-    target 28
-    rank 1
-  ]
-  edge
-  [
-    source 101
-    target 57
-    rank 8
-  ]
-  edge
-  [
-    source 102
-    target 110
-    rank 3
-  ]
-  edge
-  [
-    source 103
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 103
-    target 8
-    rank 2
-  ]
-  edge
-  [
-    source 104
-    target 22
-    rank 5
-  ]
-  edge
-  [
-    source 104
-    target 126
-    rank 20
-  ]
-  edge
-  [
-    source 105
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 105
-    target 45
-    rank 2
-  ]
-  edge
-  [
-    source 106
-    target 7
-    rank 8
-  ]
-  edge
-  [
-    source 106
-    target 28
-    rank 5
-  ]
-  edge
-  [
-    source 107
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 107
-    target 29
-    rank 20
-  ]
-  edge
-  [
-    source 107
-    target 40
-    rank 17
-  ]
-  edge
-  [
-    source 108
-    target 7
+    target 10
     rank 4
   ]
   edge
   [
-    source 108
-    target 15
-    rank 7
+    source 100
+    target 18
+    rank 20
   ]
   edge
   [
-    source 108
-    target 17
+    source 100
+    target 29
+    rank 1
+  ]
+  edge
+  [
+    source 100
+    target 33
+    rank 13
+  ]
+  edge
+  [
+    source 100
+    target 48
+    rank 16
+  ]
+  edge
+  [
+    source 107
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 107
+    target 7
     rank 3
   ]
   edge
   [
+    source 107
+    target 10
+    rank 8
+  ]
+  edge
+  [
+    source 107
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 107
+    target 26
+    rank 12
+  ]
+  edge
+  [
+    source 107
+    target 30
+    rank 9
+  ]
+  edge
+  [
     source 108
-    target 21
-    rank 5
+    target 13
+    rank 9
   ]
   edge
   [
     source 109
     target 10
-    rank 12
+    rank 8
   ]
   edge
   [
     source 109
-    target 13
-    rank 18
+    target 11
+    rank 2
   ]
   edge
   [
-    source 110
-    target 18
-    rank 8
+    source 109
+    target 34
+    rank 19
   ]
   edge
   [
-    source 111
-    target 4
-    rank 8
+    source 112
+    target 11
+    rank 1
   ]
   edge
   [
-    source 111
-    target 39
-    rank 13
+    source 112
+    target 16
+    rank 14
   ]
   edge
   [
-    source 111
-    target 43
+    source 112
+    target 30
     rank 5
   ]
   edge
   [
     source 112
-    target 76
-    rank 1
-  ]
-  edge
-  [
-    source 112
-    target 131
-    rank 6
-  ]
-  edge
-  [
-    source 113
-    target 20
-    rank 16
-  ]
-  edge
-  [
-    source 113
-    target 25
-    rank 2
-  ]
-  edge
-  [
-    source 113
-    target 34
-    rank 8
-  ]
-  edge
-  [
-    source 114
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 114
-    target 4
+    target 36
     rank 7
   ]
   edge
   [
-    source 114
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 114
-    target 13
-    rank 8
-  ]
-  edge
-  [
-    source 114
-    target 91
-    rank 20
-  ]
-  edge
-  [
-    source 115
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 115
-    target 28
-    rank 2
-  ]
-  edge
-  [
-    source 115
-    target 33
-    rank 6
-  ]
-  edge
-  [
-    source 115
-    target 41
-    rank 4
-  ]
-  edge
-  [
-    source 115
-    target 54
-    rank 10
-  ]
-  edge
-  [
-    source 115
-    target 104
-    rank 16
-  ]
-  edge
-  [
-    source 115
-    target 106
-    rank 12
-  ]
-  edge
-  [
-    source 116
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 116
-    target 14
-    rank 1
-  ]
-  edge
-  [
-    source 118
-    target 18
-    rank 2
-  ]
-  edge
-  [
-    source 119
-    target 7
-    rank 6
-  ]
-  edge
-  [
-    source 119
-    target 18
-    rank 9
-  ]
-  edge
-  [
-    source 119
-    target 40
+    source 113
+    target 10
     rank 11
   ]
   edge
   [
-    source 119
-    target 147
-    rank 20
+    source 113
+    target 13
+    rank 12
   ]
   edge
   [
-    source 120
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 120
-    target 50
-    rank 17
-  ]
-  edge
-  [
-    source 120
-    target 119
-    rank 14
-  ]
-  edge
-  [
-    source 120
-    target 129
-    rank 19
-  ]
-  edge
-  [
-    source 121
+    source 113
     target 15
     rank 1
   ]
   edge
   [
-    source 121
-    target 117
-    rank 17
+    source 113
+    target 36
+    rank 3
   ]
   edge
   [
-    source 121
-    target 148
-    rank 18
+    source 115
+    target 1
+    rank 2
   ]
   edge
   [
-    source 122
-    target 13
+    source 115
+    target 24
+    rank 13
+  ]
+  edge
+  [
+    source 115
+    target 32
+    rank 11
+  ]
+  edge
+  [
+    source 115
+    target 306
     rank 9
   ]
   edge
   [
-    source 122
+    source 116
+    target 126
+    rank 2
+  ]
+  edge
+  [
+    source 117
     target 29
     rank 1
   ]
   edge
   [
-    source 122
-    target 40
-    rank 14
+    source 119
+    target 29
+    rank 17
   ]
   edge
   [
-    source 123
-    target 40
-    rank 11
-  ]
-  edge
-  [
-    source 124
-    target 4
-    rank 5
-  ]
-  edge
-  [
-    source 125
+    source 120
     target 1
-    rank 6
+    rank 3
   ]
   edge
   [
-    source 125
+    source 120
     target 2
     rank 1
   ]
   edge
   [
-    source 125
+    source 120
+    target 8
+    rank 2
+  ]
+  edge
+  [
+    source 120
+    target 18
+    rank 12
+  ]
+  edge
+  [
+    source 121
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 121
     target 11
+    rank 4
+  ]
+  edge
+  [
+    source 121
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 121
+    target 26
+    rank 20
+  ]
+  edge
+  [
+    source 121
+    target 36
     rank 7
   ]
   edge
   [
-    source 125
-    target 43
-    rank 11
+    source 121
+    target 48
+    rank 5
   ]
   edge
   [
-    source 126
-    target 117
-    rank 18
-  ]
-  edge
-  [
-    source 127
+    source 123
     target 5
     rank 1
   ]
   edge
   [
-    source 127
+    source 123
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 123
+    target 13
+    rank 7
+  ]
+  edge
+  [
+    source 124
+    target 29
+    rank 2
+  ]
+  edge
+  [
+    source 124
+    target 34
+    rank 6
+  ]
+  edge
+  [
+    source 124
+    target 48
+    rank 1
+  ]
+  edge
+  [
+    source 124
+    target 121
+    rank 3
+  ]
+  edge
+  [
+    source 126
     target 7
     rank 2
   ]
   edge
   [
-    source 127
-    target 11
-    rank 3
-  ]
-  edge
-  [
-    source 127
-    target 33
-    rank 5
-  ]
-  edge
-  [
-    source 127
-    target 57
-    rank 10
-  ]
-  edge
-  [
-    source 128
-    target 7
-    rank 5
-  ]
-  edge
-  [
-    source 128
-    target 39
-    rank 9
-  ]
-  edge
-  [
-    source 130
-    target 57
-    rank 12
-  ]
-  edge
-  [
-    source 131
-    target 76
-    rank 11
-  ]
-  edge
-  [
-    source 131
-    target 112
+    source 126
+    target 77
     rank 18
   ]
   edge
   [
-    source 132
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 132
-    target 25
-    rank 6
-  ]
-  edge
-  [
-    source 132
-    target 29
-    rank 15
-  ]
-  edge
-  [
-    source 133
-    target 40
+    source 126
+    target 125
     rank 19
   ]
   edge
   [
-    source 133
-    target 57
+    source 130
+    target 66
+    rank 16
+  ]
+  edge
+  [
+    source 130
+    target 78
+    rank 18
+  ]
+  edge
+  [
+    source 130
+    target 96
     rank 17
   ]
   edge
   [
+    source 131
+    target 34
+    rank 13
+  ]
+  edge
+  [
+    source 131
+    target 78
+    rank 14
+  ]
+  edge
+  [
     source 135
-    target 6
+    target 10
+    rank 7
+  ]
+  edge
+  [
+    source 135
+    target 28
     rank 1
   ]
   edge
   [
     source 136
-    target 63
-    rank 4
+    target 36
+    rank 6
   ]
   edge
   [
-    source 137
-    target 40
+    source 144
+    target 29
+    rank 1
+  ]
+  edge
+  [
+    source 144
+    target 34
+    rank 7
+  ]
+  edge
+  [
+    source 144
+    target 48
+    rank 2
+  ]
+  edge
+  [
+    source 144
+    target 121
+    rank 3
+  ]
+  edge
+  [
+    source 146
+    target 42
+    rank 9
+  ]
+  edge
+  [
+    source 146
+    target 202
+    rank 16
+  ]
+  edge
+  [
+    source 146
+    target 221
+    rank 19
+  ]
+  edge
+  [
+    source 146
+    target 288
     rank 17
   ]
   edge
   [
-    source 138
-    target 13
-    rank 8
-  ]
-  edge
-  [
-    source 139
-    target 49
-    rank 5
-  ]
-  edge
-  [
-    source 140
-    target 54
+    source 153
+    target 1
     rank 10
   ]
   edge
   [
-    source 141
-    target 8
+    source 153
+    target 7
     rank 1
   ]
   edge
   [
-    source 141
-    target 13
-    rank 7
-  ]
-  edge
-  [
-    source 141
-    target 29
-    rank 18
-  ]
-  edge
-  [
-    source 141
-    target 33
+    source 153
+    target 206
     rank 9
   ]
   edge
   [
-    source 141
-    target 45
-    rank 3
-  ]
-  edge
-  [
-    source 141
-    target 54
-    rank 14
-  ]
-  edge
-  [
-    source 141
-    target 76
-    rank 19
-  ]
-  edge
-  [
-    source 142
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 142
-    target 20
-    rank 2
-  ]
-  edge
-  [
-    source 143
-    target 30
-    rank 6
-  ]
-  edge
-  [
-    source 143
-    target 65
-    rank 18
-  ]
-  edge
-  [
-    source 144
-    target 5
-    rank 3
-  ]
-  edge
-  [
-    source 144
-    target 57
-    rank 7
-  ]
-  edge
-  [
-    source 144
-    target 63
-    rank 4
-  ]
-  edge
-  [
-    source 144
-    target 136
-    rank 11
-  ]
-  edge
-  [
-    source 145
-    target 29
-    rank 1
-  ]
-  edge
-  [
-    source 146
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 146
-    target 13
-    rank 12
-  ]
-  edge
-  [
-    source 148
-    target 4
-    rank 6
-  ]
-  edge
-  [
-    source 148
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 148
-    target 29
-    rank 1
-  ]
-  edge
-  [
-    source 149
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 149
-    target 15
-    rank 13
-  ]
-  edge
-  [
-    source 150
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 150
-    target 29
-    rank 19
-  ]
-  edge
-  [
-    source 151
-    target 29
-    rank 6
-  ]
-  edge
-  [
-    source 152
-    target 57
-    rank 9
-  ]
-  edge
-  [
-    source 152
-    target 64
-    rank 3
-  ]
-  edge
-  [
-    source 152
-    target 99
-    rank 2
-  ]
-  edge
-  [
-    source 152
-    target 129
-    rank 12
-  ]
-  edge
-  [
     source 153
-    target 57
-    rank 1
-  ]
-  edge
-  [
-    source 153
-    target 64
-    rank 2
-  ]
-  edge
-  [
-    source 153
-    target 136
-    rank 3
+    target 252
+    rank 6
   ]
   edge
   [
     source 154
-    target 3
-    rank 15
+    target 11
+    rank 5
   ]
   edge
   [
     source 154
-    target 43
-    rank 11
-  ]
-  edge
-  [
-    source 155
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 155
-    target 29
+    target 28
     rank 1
   ]
   edge
   [
     source 156
-    target 40
-    rank 9
-  ]
-  edge
-  [
-    source 157
-    target 64
-    rank 11
-  ]
-  edge
-  [
-    source 158
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 159
-    target 5
+    target 11
     rank 2
   ]
   edge
   [
-    source 159
-    target 8
+    source 156
+    target 28
     rank 1
   ]
   edge
   [
-    source 160
-    target 4
-    rank 3
-  ]
-  edge
-  [
-    source 160
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 160
-    target 13
+    source 156
+    target 66
     rank 8
-  ]
-  edge
-  [
-    source 160
-    target 57
-    rank 16
-  ]
-  edge
-  [
-    source 161
-    target 4
-    rank 1
   ]
   edge
   [
     source 162
-    target 57
-    rank 6
+    target 189
+    rank 3
   ]
   edge
   [
-    source 163
-    target 14
+    source 172
+    target 5
     rank 1
   ]
   edge
   [
-    source 164
-    target 1
+    source 172
+    target 8
     rank 2
   ]
   edge
   [
-    source 165
-    target 6
-    rank 7
+    source 174
+    target 22
+    rank 5
   ]
   edge
   [
-    source 166
-    target 2
+    source 174
+    target 227
+    rank 20
+  ]
+  edge
+  [
+    source 179
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 179
+    target 48
     rank 2
   ]
   edge
   [
-    source 166
-    target 4
+    source 182
+    target 7
     rank 8
   ]
   edge
   [
-    source 166
+    source 182
+    target 28
+    rank 5
+  ]
+  edge
+  [
+    source 184
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 184
+    target 29
+    rank 20
+  ]
+  edge
+  [
+    source 184
+    target 40
+    rank 17
+  ]
+  edge
+  [
+    source 185
     target 7
     rank 4
   ]
   edge
   [
-    source 166
-    target 37
-    rank 6
-  ]
-  edge
-  [
-    source 167
-    target 10
-    rank 9
-  ]
-  edge
-  [
-    source 167
-    target 13
-    rank 12
-  ]
-  edge
-  [
-    source 168
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 169
-    target 64
-    rank 3
-  ]
-  edge
-  [
-    source 170
-    target 54
-    rank 2
-  ]
-  edge
-  [
-    source 171
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 171
-    target 9
-    rank 20
-  ]
-  edge
-  [
-    source 171
-    target 29
-    rank 13
-  ]
-  edge
-  [
-    source 172
-    target 26
-    rank 5
-  ]
-  edge
-  [
-    source 172
-    target 50
-    rank 15
-  ]
-  edge
-  [
-    source 172
-    target 71
-    rank 11
-  ]
-  edge
-  [
-    source 172
-    target 106
-    rank 18
-  ]
-  edge
-  [
-    source 172
-    target 134
-    rank 17
-  ]
-  edge
-  [
-    source 172
-    target 149
-    rank 16
-  ]
-  edge
-  [
-    source 173
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 173
+    source 185
     target 15
     rank 7
   ]
   edge
   [
-    source 174
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 174
-    target 43
-    rank 4
-  ]
-  edge
-  [
-    source 174
-    target 54
-    rank 17
-  ]
-  edge
-  [
-    source 174
-    target 99
-    rank 7
-  ]
-  edge
-  [
-    source 175
-    target 117
-    rank 8
-  ]
-  edge
-  [
-    source 175
-    target 126
-    rank 17
-  ]
-  edge
-  [
-    source 175
-    target 148
-    rank 20
-  ]
-  edge
-  [
-    source 176
-    target 25
-    rank 3
-  ]
-  edge
-  [
-    source 177
-    target 18
-    rank 16
-  ]
-  edge
-  [
-    source 178
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 178
-    target 11
-    rank 3
-  ]
-  edge
-  [
-    source 178
-    target 57
-    rank 6
-  ]
-  edge
-  [
-    source 179
-    target 34
-    rank 6
-  ]
-  edge
-  [
-    source 179
-    target 57
-    rank 3
-  ]
-  edge
-  [
-    source 180
-    target 29
-    rank 13
-  ]
-  edge
-  [
-    source 180
-    target 40
-    rank 12
-  ]
-  edge
-  [
-    source 180
-    target 54
-    rank 14
-  ]
-  edge
-  [
-    source 181
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 181
-    target 28
-    rank 1
-  ]
-  edge
-  [
-    source 182
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 182
-    target 39
-    rank 3
-  ]
-  edge
-  [
-    source 183
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 183
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 183
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 183
-    target 13
-    rank 11
-  ]
-  edge
-  [
-    source 183
-    target 16
-    rank 6
-  ]
-  edge
-  [
-    source 183
-    target 26
-    rank 8
-  ]
-  edge
-  [
-    source 183
-    target 33
-    rank 12
-  ]
-  edge
-  [
-    source 184
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 184
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 184
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 184
-    target 7
-    rank 10
-  ]
-  edge
-  [
-    source 184
-    target 21
-    rank 5
-  ]
-  edge
-  [
-    source 184
-    target 28
-    rank 3
-  ]
-  edge
-  [
-    source 184
-    target 29
-    rank 20
-  ]
-  edge
-  [
     source 185
-    target 6
-    rank 16
-  ]
-  edge
-  [
-    source 185
-    target 29
-    rank 9
-  ]
-  edge
-  [
-    source 185
-    target 76
-    rank 10
-  ]
-  edge
-  [
-    source 186
-    target 13
-    rank 1
-  ]
-  edge
-  [
-    source 186
-    target 104
-    rank 6
-  ]
-  edge
-  [
-    source 187
-    target 29
-    rank 14
-  ]
-  edge
-  [
-    source 187
-    target 40
-    rank 13
-  ]
-  edge
-  [
-    source 187
-    target 150
-    rank 17
-  ]
-  edge
-  [
-    source 188
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 188
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 188
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 188
-    target 30
-    rank 3
-  ]
-  edge
-  [
-    source 189
-    target 64
-    rank 14
-  ]
-  edge
-  [
-    source 190
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 191
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 191
-    target 27
-    rank 16
-  ]
-  edge
-  [
-    source 191
-    target 36
-    rank 4
-  ]
-  edge
-  [
-    source 192
-    target 29
-    rank 5
-  ]
-  edge
-  [
-    source 192
-    target 40
-    rank 2
-  ]
-  edge
-  [
-    source 193
-    target 10
-    rank 11
-  ]
-  edge
-  [
-    source 193
-    target 11
-    rank 5
-  ]
-  edge
-  [
-    source 193
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 194
-    target 38
-    rank 1
-  ]
-  edge
-  [
-    source 195
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 195
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 195
-    target 28
-    rank 3
-  ]
-  edge
-  [
-    source 196
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 196
-    target 29
-    rank 15
-  ]
-  edge
-  [
-    source 196
-    target 40
-    rank 16
-  ]
-  edge
-  [
-    source 197
-    target 28
-    rank 1
-  ]
-  edge
-  [
-    source 197
-    target 57
-    rank 16
-  ]
-  edge
-  [
-    source 198
-    target 18
-    rank 8
-  ]
-  edge
-  [
-    source 199
-    target 117
-    rank 7
-  ]
-  edge
-  [
-    source 199
-    target 148
-    rank 4
-  ]
-  edge
-  [
-    source 200
-    target 6
-    rank 6
-  ]
-  edge
-  [
-    source 200
-    target 13
-    rank 10
-  ]
-  edge
-  [
-    source 201
-    target 99
-    rank 5
-  ]
-  edge
-  [
-    source 202
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 202
-    target 57
-    rank 17
-  ]
-  edge
-  [
-    source 203
-    target 10
-    rank 5
-  ]
-  edge
-  [
-    source 203
-    target 18
-    rank 10
-  ]
-  edge
-  [
-    source 203
-    target 40
-    rank 13
-  ]
-  edge
-  [
-    source 204
-    target 20
-    rank 2
-  ]
-  edge
-  [
-    source 205
-    target 13
-    rank 18
-  ]
-  edge
-  [
-    source 206
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 206
-    target 20
-    rank 5
-  ]
-  edge
-  [
-    source 206
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 206
-    target 29
-    rank 7
-  ]
-  edge
-  [
-    source 207
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 207
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 208
-    target 54
-    rank 9
-  ]
-  edge
-  [
-    source 209
-    target 40
-    rank 13
-  ]
-  edge
-  [
-    source 210
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 210
-    target 64
-    rank 7
-  ]
-  edge
-  [
-    source 211
-    target 13
-    rank 14
-  ]
-  edge
-  [
-    source 212
-    target 103
-    rank 2
-  ]
-  edge
-  [
-    source 213
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 213
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 213
-    target 28
-    rank 2
-  ]
-  edge
-  [
-    source 213
-    target 57
-    rank 17
-  ]
-  edge
-  [
-    source 213
-    target 73
-    rank 15
-  ]
-  edge
-  [
-    source 214
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 214
-    target 29
-    rank 15
-  ]
-  edge
-  [
-    source 214
-    target 34
-    rank 13
-  ]
-  edge
-  [
-    source 214
-    target 57
-    rank 12
-  ]
-  edge
-  [
-    source 215
-    target 4
-    rank 1
-  ]
-  edge
-  [
-    source 216
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 216
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 216
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 216
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 216
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 217
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 217
-    target 50
-    rank 6
-  ]
-  edge
-  [
-    source 217
-    target 119
-    rank 4
-  ]
-  edge
-  [
-    source 217
-    target 129
-    rank 7
-  ]
-  edge
-  [
-    source 218
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 218
-    target 57
-    rank 9
-  ]
-  edge
-  [
-    source 218
-    target 65
-    rank 12
-  ]
-  edge
-  [
-    source 218
-    target 73
-    rank 10
-  ]
-  edge
-  [
-    source 218
-    target 94
-    rank 17
-  ]
-  edge
-  [
-    source 218
-    target 140
-    rank 11
-  ]
-  edge
-  [
-    source 219
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 219
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 219
-    target 29
-    rank 5
-  ]
-  edge
-  [
-    source 219
-    target 69
-    rank 4
-  ]
-  edge
-  [
-    source 219
-    target 154
-    rank 10
-  ]
-  edge
-  [
-    source 220
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 220
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 220
-    target 20
-    rank 13
-  ]
-  edge
-  [
-    source 220
-    target 104
-    rank 5
-  ]
-  edge
-  [
-    source 221
-    target 5
-    rank 1
-  ]
-  edge
-  [
-    source 221
-    target 7
-    rank 14
-  ]
-  edge
-  [
-    source 221
     target 17
     rank 3
   ]
   edge
   [
-    source 221
-    target 20
-    rank 18
-  ]
-  edge
-  [
-    source 221
+    source 185
     target 21
-    rank 16
+    rank 5
   ]
   edge
   [
-    source 222
-    target 29
-    rank 11
+    source 188
+    target 10
+    rank 12
   ]
   edge
   [
-    source 223
-    target 57
-    rank 11
-  ]
-  edge
-  [
-    source 224
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 224
-    target 54
-    rank 4
-  ]
-  edge
-  [
-    source 225
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 225
-    target 39
-    rank 3
-  ]
-  edge
-  [
-    source 226
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 226
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 227
-    target 29
-    rank 15
-  ]
-  edge
-  [
-    source 228
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 228
+    source 188
     target 13
     rank 18
   ]
   edge
   [
-    source 229
-    target 29
-    rank 17
-  ]
-  edge
-  [
-    source 230
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 231
-    target 154
-    rank 4
-  ]
-  edge
-  [
-    source 232
-    target 110
-    rank 3
-  ]
-  edge
-  [
-    source 233
-    target 34
-    rank 11
-  ]
-  edge
-  [
-    source 233
-    target 145
-    rank 15
-  ]
-  edge
-  [
-    source 234
-    target 34
-    rank 5
-  ]
-  edge
-  [
-    source 234
-    target 154
+    source 189
+    target 18
     rank 8
   ]
   edge
   [
-    source 235
+    source 191
+    target 4
+    rank 8
+  ]
+  edge
+  [
+    source 191
+    target 39
+    rank 13
+  ]
+  edge
+  [
+    source 191
+    target 43
+    rank 5
+  ]
+  edge
+  [
+    source 193
+    target 99
+    rank 1
+  ]
+  edge
+  [
+    source 193
+    target 238
+    rank 6
+  ]
+  edge
+  [
+    source 194
+    target 20
+    rank 16
+  ]
+  edge
+  [
+    source 194
+    target 25
+    rank 2
+  ]
+  edge
+  [
+    source 194
+    target 34
+    rank 8
+  ]
+  edge
+  [
+    source 195
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 195
+    target 4
+    rank 7
+  ]
+  edge
+  [
+    source 195
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 195
+    target 13
+    rank 8
+  ]
+  edge
+  [
+    source 195
+    target 125
+    rank 20
+  ]
+  edge
+  [
+    source 199
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 199
+    target 28
+    rank 2
+  ]
+  edge
+  [
+    source 199
+    target 33
+    rank 6
+  ]
+  edge
+  [
+    source 199
+    target 41
+    rank 4
+  ]
+  edge
+  [
+    source 199
+    target 61
+    rank 10
+  ]
+  edge
+  [
+    source 199
+    target 174
+    rank 16
+  ]
+  edge
+  [
+    source 199
+    target 182
+    rank 12
+  ]
+  edge
+  [
+    source 200
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 200
+    target 14
+    rank 1
+  ]
+  edge
+  [
+    source 204
     target 18
     rank 2
   ]
   edge
   [
-    source 236
-    target 65
-    rank 2
+    source 206
+    target 7
+    rank 6
   ]
   edge
   [
-    source 236
-    target 94
-    rank 4
+    source 206
+    target 18
+    rank 9
   ]
   edge
   [
-    source 237
-    target 34
+    source 206
+    target 40
+    rank 11
+  ]
+  edge
+  [
+    source 206
+    target 284
+    rank 20
+  ]
+  edge
+  [
+    source 208
+    target 31
     rank 1
   ]
   edge
   [
-    source 238
-    target 1
-    rank 3
+    source 208
+    target 56
+    rank 17
   ]
   edge
   [
-    source 238
+    source 208
+    target 206
+    rank 14
+  ]
+  edge
+  [
+    source 208
+    target 236
+    rank 19
+  ]
+  edge
+  [
+    source 210
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 210
+    target 202
+    rank 17
+  ]
+  edge
+  [
+    source 210
+    target 288
+    rank 18
+  ]
+  edge
+  [
+    source 211
+    target 13
+    rank 9
+  ]
+  edge
+  [
+    source 211
+    target 29
+    rank 1
+  ]
+  edge
+  [
+    source 211
+    target 40
+    rank 14
+  ]
+  edge
+  [
+    source 214
+    target 40
+    rank 11
+  ]
+  edge
+  [
+    source 221
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 226
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 226
     target 2
     rank 1
   ]
   edge
   [
-    source 238
-    target 20
-    rank 19
-  ]
-  edge
-  [
-    source 238
-    target 25
+    source 226
+    target 11
     rank 7
   ]
   edge
   [
-    source 238
-    target 29
-    rank 10
-  ]
-  edge
-  [
-    source 238
-    target 104
+    source 226
+    target 43
     rank 11
   ]
   edge
   [
-    source 239
+    source 227
+    target 202
+    rank 18
+  ]
+  edge
+  [
+    source 230
     target 5
     rank 1
   ]
   edge
   [
-    source 239
-    target 11
-    rank 3
-  ]
-  edge
-  [
-    source 239
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 240
-    target 6
-    rank 20
-  ]
-  edge
-  [
-    source 240
-    target 13
-    rank 6
-  ]
-  edge
-  [
-    source 240
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 240
-    target 40
-    rank 11
-  ]
-  edge
-  [
-    source 240
-    target 54
-    rank 16
-  ]
-  edge
-  [
-    source 240
-    target 62
-    rank 15
-  ]
-  edge
-  [
-    source 240
-    target 92
-    rank 10
-  ]
-  edge
-  [
-    source 240
-    target 103
-    rank 12
-  ]
-  edge
-  [
-    source 241
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 241
-    target 2
-    rank 1
-  ]
-  edge
-  [
-    source 241
-    target 11
+    source 230
+    target 7
     rank 2
   ]
   edge
   [
-    source 241
-    target 34
-    rank 16
+    source 230
+    target 11
+    rank 3
   ]
   edge
   [
-    source 241
-    target 57
-    rank 13
+    source 230
+    target 33
+    rank 5
   ]
   edge
   [
-    source 241
-    target 64
-    rank 14
+    source 230
+    target 66
+    rank 10
   ]
   edge
   [
-    source 241
-    target 91
+    source 232
+    target 7
+    rank 5
+  ]
+  edge
+  [
+    source 232
+    target 39
+    rank 9
+  ]
+  edge
+  [
+    source 237
+    target 66
+    rank 12
+  ]
+  edge
+  [
+    source 238
+    target 99
+    rank 11
+  ]
+  edge
+  [
+    source 238
+    target 193
+    rank 18
+  ]
+  edge
+  [
+    source 239
+    target 11
+    rank 1
+  ]
+  edge
+  [
+    source 239
+    target 25
+    rank 6
+  ]
+  edge
+  [
+    source 239
+    target 29
     rank 15
   ]
   edge
   [
     source 242
+    target 40
+    rank 19
+  ]
+  edge
+  [
+    source 242
+    target 66
+    rank 17
+  ]
+  edge
+  [
+    source 249
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 252
+    target 75
+    rank 4
+  ]
+  edge
+  [
+    source 255
+    target 40
+    rank 17
+  ]
+  edge
+  [
+    source 258
+    target 13
+    rank 8
+  ]
+  edge
+  [
+    source 266
+    target 55
+    rank 5
+  ]
+  edge
+  [
+    source 267
+    target 61
+    rank 10
+  ]
+  edge
+  [
+    source 276
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 276
+    target 13
+    rank 7
+  ]
+  edge
+  [
+    source 276
+    target 29
+    rank 18
+  ]
+  edge
+  [
+    source 276
+    target 33
+    rank 9
+  ]
+  edge
+  [
+    source 276
+    target 48
+    rank 3
+  ]
+  edge
+  [
+    source 276
+    target 61
+    rank 14
+  ]
+  edge
+  [
+    source 276
+    target 99
+    rank 19
+  ]
+  edge
+  [
+    source 277
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 277
+    target 20
+    rank 2
+  ]
+  edge
+  [
+    source 278
+    target 30
+    rank 6
+  ]
+  edge
+  [
+    source 278
+    target 78
+    rank 18
+  ]
+  edge
+  [
+    source 281
+    target 5
+    rank 3
+  ]
+  edge
+  [
+    source 281
+    target 66
+    rank 7
+  ]
+  edge
+  [
+    source 281
+    target 75
+    rank 4
+  ]
+  edge
+  [
+    source 281
+    target 252
+    rank 11
+  ]
+  edge
+  [
+    source 282
+    target 29
+    rank 1
+  ]
+  edge
+  [
+    source 283
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 283
+    target 13
+    rank 12
+  ]
+  edge
+  [
+    source 288
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 288
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 288
+    target 29
+    rank 1
+  ]
+  edge
+  [
+    source 291
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 291
+    target 15
+    rank 13
+  ]
+  edge
+  [
+    source 292
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 292
+    target 29
+    rank 19
+  ]
+  edge
+  [
+    source 295
+    target 29
+    rank 6
+  ]
+  edge
+  [
+    source 297
+    target 66
+    rank 9
+  ]
+  edge
+  [
+    source 297
+    target 77
+    rank 3
+  ]
+  edge
+  [
+    source 297
+    target 153
+    rank 2
+  ]
+  edge
+  [
+    source 297
+    target 236
+    rank 12
+  ]
+  edge
+  [
+    source 304
+    target 66
+    rank 1
+  ]
+  edge
+  [
+    source 304
+    target 77
+    rank 2
+  ]
+  edge
+  [
+    source 304
+    target 252
+    rank 3
+  ]
+  edge
+  [
+    source 306
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 306
+    target 43
+    rank 11
+  ]
+  edge
+  [
+    source 307
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 307
+    target 29
+    rank 1
+  ]
+  edge
+  [
+    source 308
+    target 40
+    rank 9
+  ]
+  edge
+  [
+    source 311
+    target 77
+    rank 11
+  ]
+  edge
+  [
+    source 331
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 333
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 333
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 337
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 337
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 337
+    target 13
+    rank 8
+  ]
+  edge
+  [
+    source 337
+    target 66
+    rank 16
+  ]
+  edge
+  [
+    source 338
     target 4
     rank 1
   ]
   edge
   [
-    source 243
+    source 339
+    target 66
+    rank 6
+  ]
+  edge
+  [
+    source 340
+    target 14
+    rank 1
+  ]
+  edge
+  [
+    source 341
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 344
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 345
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 345
+    target 4
+    rank 8
+  ]
+  edge
+  [
+    source 345
+    target 7
+    rank 4
+  ]
+  edge
+  [
+    source 345
+    target 37
+    rank 6
+  ]
+  edge
+  [
+    source 346
+    target 10
+    rank 9
+  ]
+  edge
+  [
+    source 346
+    target 13
+    rank 12
+  ]
+  edge
+  [
+    source 348
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 350
+    target 77
+    rank 3
+  ]
+  edge
+  [
+    source 352
+    target 61
+    rank 2
+  ]
+  edge
+  [
+    source 353
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 353
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 353
+    target 29
+    rank 13
+  ]
+  edge
+  [
+    source 354
+    target 26
+    rank 5
+  ]
+  edge
+  [
+    source 354
+    target 56
+    rank 15
+  ]
+  edge
+  [
+    source 354
+    target 93
+    rank 11
+  ]
+  edge
+  [
+    source 354
+    target 182
+    rank 18
+  ]
+  edge
+  [
+    source 354
+    target 243
+    rank 17
+  ]
+  edge
+  [
+    source 354
+    target 291
+    rank 16
+  ]
+  edge
+  [
+    source 358
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 358
+    target 15
+    rank 7
+  ]
+  edge
+  [
+    source 360
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 360
+    target 43
+    rank 4
+  ]
+  edge
+  [
+    source 360
+    target 61
+    rank 17
+  ]
+  edge
+  [
+    source 360
+    target 153
+    rank 7
+  ]
+  edge
+  [
+    source 362
+    target 202
+    rank 8
+  ]
+  edge
+  [
+    source 362
+    target 227
+    rank 17
+  ]
+  edge
+  [
+    source 362
+    target 288
+    rank 20
+  ]
+  edge
+  [
+    source 364
+    target 25
+    rank 3
+  ]
+  edge
+  [
+    source 365
+    target 18
+    rank 16
+  ]
+  edge
+  [
+    source 366
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 366
+    target 11
+    rank 3
+  ]
+  edge
+  [
+    source 366
+    target 66
+    rank 6
+  ]
+  edge
+  [
+    source 368
+    target 34
+    rank 6
+  ]
+  edge
+  [
+    source 368
+    target 66
+    rank 3
+  ]
+  edge
+  [
+    source 369
+    target 29
+    rank 13
+  ]
+  edge
+  [
+    source 369
+    target 40
+    rank 12
+  ]
+  edge
+  [
+    source 369
+    target 61
+    rank 14
+  ]
+  edge
+  [
+    source 370
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 370
+    target 28
+    rank 1
+  ]
+  edge
+  [
+    source 373
+    target 22
+    rank 4
+  ]
+  edge
+  [
+    source 373
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 375
     target 2
     rank 1
   ]
   edge
   [
-    source 243
+    source 375
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 375
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 375
+    target 13
+    rank 11
+  ]
+  edge
+  [
+    source 375
+    target 16
+    rank 6
+  ]
+  edge
+  [
+    source 375
+    target 26
+    rank 8
+  ]
+  edge
+  [
+    source 375
+    target 33
+    rank 12
+  ]
+  edge
+  [
+    source 376
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 376
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 376
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 376
+    target 7
+    rank 10
+  ]
+  edge
+  [
+    source 376
+    target 21
+    rank 5
+  ]
+  edge
+  [
+    source 376
+    target 28
+    rank 3
+  ]
+  edge
+  [
+    source 376
+    target 29
+    rank 20
+  ]
+  edge
+  [
+    source 377
+    target 6
+    rank 16
+  ]
+  edge
+  [
+    source 377
+    target 29
+    rank 9
+  ]
+  edge
+  [
+    source 377
+    target 99
+    rank 10
+  ]
+  edge
+  [
+    source 384
+    target 13
+    rank 1
+  ]
+  edge
+  [
+    source 384
+    target 174
+    rank 6
+  ]
+  edge
+  [
+    source 388
+    target 29
+    rank 14
+  ]
+  edge
+  [
+    source 388
+    target 40
+    rank 13
+  ]
+  edge
+  [
+    source 388
+    target 292
+    rank 17
+  ]
+  edge
+  [
+    source 390
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 390
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 390
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 390
+    target 30
+    rank 3
+  ]
+  edge
+  [
+    source 392
+    target 77
+    rank 14
+  ]
+  edge
+  [
+    source 394
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 395
+    target 11
+    rank 1
+  ]
+  edge
+  [
+    source 395
+    target 27
+    rank 16
+  ]
+  edge
+  [
+    source 395
+    target 36
+    rank 4
+  ]
+  edge
+  [
+    source 397
+    target 29
+    rank 5
+  ]
+  edge
+  [
+    source 397
     target 40
     rank 2
   ]
   edge
   [
-    source 244
-    target 64
+    source 401
+    target 10
+    rank 11
+  ]
+  edge
+  [
+    source 401
+    target 11
+    rank 5
+  ]
+  edge
+  [
+    source 401
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 403
+    target 38
     rank 1
   ]
   edge
   [
-    source 245
+    source 405
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 405
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 405
+    target 28
+    rank 3
+  ]
+  edge
+  [
+    source 407
+    target 10
+    rank 4
+  ]
+  edge
+  [
+    source 407
+    target 29
+    rank 15
+  ]
+  edge
+  [
+    source 407
+    target 40
+    rank 16
+  ]
+  edge
+  [
+    source 409
+    target 28
+    rank 1
+  ]
+  edge
+  [
+    source 409
+    target 66
+    rank 16
+  ]
+  edge
+  [
+    source 410
+    target 18
+    rank 8
+  ]
+  edge
+  [
+    source 411
+    target 202
+    rank 7
+  ]
+  edge
+  [
+    source 411
+    target 288
+    rank 4
+  ]
+  edge
+  [
+    source 413
+    target 6
+    rank 6
+  ]
+  edge
+  [
+    source 413
+    target 13
+    rank 10
+  ]
+  edge
+  [
+    source 416
+    target 153
+    rank 5
+  ]
+  edge
+  [
+    source 419
+    target 18
+    rank 7
+  ]
+  edge
+  [
+    source 419
+    target 66
+    rank 17
+  ]
+  edge
+  [
+    source 422
+    target 10
+    rank 5
+  ]
+  edge
+  [
+    source 422
+    target 18
+    rank 10
+  ]
+  edge
+  [
+    source 422
+    target 40
+    rank 13
+  ]
+  edge
+  [
+    source 424
+    target 20
+    rank 2
+  ]
+  edge
+  [
+    source 427
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 436
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 436
+    target 20
+    rank 5
+  ]
+  edge
+  [
+    source 436
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 436
+    target 29
+    rank 7
+  ]
+  edge
+  [
+    source 438
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 438
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 443
+    target 61
+    rank 9
+  ]
+  edge
+  [
+    source 446
+    target 40
+    rank 13
+  ]
+  edge
+  [
+    source 447
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 447
+    target 77
+    rank 7
+  ]
+  edge
+  [
+    source 451
+    target 13
+    rank 14
+  ]
+  edge
+  [
+    source 456
+    target 172
+    rank 2
+  ]
+  edge
+  [
+    source 457
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 457
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 457
+    target 28
+    rank 2
+  ]
+  edge
+  [
+    source 457
+    target 66
+    rank 17
+  ]
+  edge
+  [
+    source 457
+    target 96
+    rank 15
+  ]
+  edge
+  [
+    source 460
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 460
+    target 29
+    rank 15
+  ]
+  edge
+  [
+    source 460
+    target 34
+    rank 13
+  ]
+  edge
+  [
+    source 460
+    target 66
+    rank 12
+  ]
+  edge
+  [
+    source 461
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 463
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 463
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 463
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 463
+    target 18
+    rank 11
+  ]
+  edge
+  [
+    source 463
+    target 206
+    rank 19
+  ]
+  edge
+  [
+    source 464
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 464
+    target 56
+    rank 6
+  ]
+  edge
+  [
+    source 464
+    target 206
+    rank 4
+  ]
+  edge
+  [
+    source 464
+    target 236
+    rank 7
+  ]
+  edge
+  [
+    source 474
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 474
+    target 66
+    rank 9
+  ]
+  edge
+  [
+    source 474
+    target 78
+    rank 12
+  ]
+  edge
+  [
+    source 474
+    target 96
+    rank 10
+  ]
+  edge
+  [
+    source 474
+    target 131
+    rank 17
+  ]
+  edge
+  [
+    source 474
+    target 267
+    rank 11
+  ]
+  edge
+  [
+    source 476
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 476
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 476
+    target 29
+    rank 5
+  ]
+  edge
+  [
+    source 476
+    target 87
+    rank 4
+  ]
+  edge
+  [
+    source 476
+    target 306
+    rank 10
+  ]
+  edge
+  [
+    source 478
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 478
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 478
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 478
+    target 174
+    rank 5
+  ]
+  edge
+  [
+    source 481
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 481
+    target 7
+    rank 14
+  ]
+  edge
+  [
+    source 481
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 481
+    target 20
+    rank 18
+  ]
+  edge
+  [
+    source 481
+    target 21
+    rank 16
+  ]
+  edge
+  [
+    source 482
+    target 29
+    rank 11
+  ]
+  edge
+  [
+    source 484
+    target 66
+    rank 11
+  ]
+  edge
+  [
+    source 489
+    target 6
+    rank 7
+  ]
+  edge
+  [
+    source 489
+    target 61
+    rank 4
+  ]
+  edge
+  [
+    source 493
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 493
+    target 39
+    rank 3
+  ]
+  edge
+  [
+    source 495
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 495
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 501
+    target 29
+    rank 15
+  ]
+  edge
+  [
+    source 505
+    target 11
+    rank 1
+  ]
+  edge
+  [
+    source 505
+    target 13
+    rank 18
+  ]
+  edge
+  [
+    source 506
+    target 29
+    rank 17
+  ]
+  edge
+  [
+    source 507
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 509
+    target 306
+    rank 4
+  ]
+  edge
+  [
+    source 512
+    target 189
+    rank 3
+  ]
+  edge
+  [
+    source 517
+    target 34
+    rank 11
+  ]
+  edge
+  [
+    source 517
+    target 282
+    rank 15
+  ]
+  edge
+  [
+    source 518
+    target 34
+    rank 5
+  ]
+  edge
+  [
+    source 518
+    target 306
+    rank 8
+  ]
+  edge
+  [
+    source 519
+    target 18
+    rank 2
+  ]
+  edge
+  [
+    source 528
+    target 78
+    rank 2
+  ]
+  edge
+  [
+    source 528
+    target 131
+    rank 4
+  ]
+  edge
+  [
+    source 529
+    target 34
+    rank 1
+  ]
+  edge
+  [
+    source 532
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 532
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 532
+    target 20
+    rank 19
+  ]
+  edge
+  [
+    source 532
+    target 25
+    rank 7
+  ]
+  edge
+  [
+    source 532
+    target 29
+    rank 10
+  ]
+  edge
+  [
+    source 532
+    target 174
+    rank 11
+  ]
+  edge
+  [
+    source 535
+    target 5
+    rank 1
+  ]
+  edge
+  [
+    source 535
+    target 11
+    rank 3
+  ]
+  edge
+  [
+    source 535
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 536
+    target 6
+    rank 20
+  ]
+  edge
+  [
+    source 536
+    target 13
+    rank 6
+  ]
+  edge
+  [
+    source 536
+    target 18
+    rank 7
+  ]
+  edge
+  [
+    source 536
+    target 40
+    rank 11
+  ]
+  edge
+  [
+    source 536
+    target 61
+    rank 16
+  ]
+  edge
+  [
+    source 536
+    target 74
+    rank 15
+  ]
+  edge
+  [
+    source 536
+    target 126
+    rank 10
+  ]
+  edge
+  [
+    source 536
+    target 172
+    rank 12
+  ]
+  edge
+  [
+    source 537
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 537
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 537
+    target 11
+    rank 2
+  ]
+  edge
+  [
+    source 537
+    target 34
+    rank 16
+  ]
+  edge
+  [
+    source 537
+    target 66
+    rank 13
+  ]
+  edge
+  [
+    source 537
+    target 77
+    rank 14
+  ]
+  edge
+  [
+    source 537
+    target 125
+    rank 15
+  ]
+  edge
+  [
+    source 543
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 547
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 547
+    target 40
+    rank 2
+  ]
+  edge
+  [
+    source 549
+    target 77
+    rank 1
+  ]
+  edge
+  [
+    source 551
     target 18
     rank 1
   ]
   edge
   [
-    source 245
-    target 145
+    source 551
+    target 282
     rank 2
   ]
   edge
   [
-    source 246
-    target 54
+    source 555
+    target 61
     rank 16
   ]
   edge
   [
-    source 247
-    target 65
+    source 556
+    target 78
     rank 12
   ]
   edge
   [
-    source 247
-    target 73
+    source 556
+    target 96
     rank 8
   ]
   edge
   [
-    source 247
-    target 94
+    source 556
+    target 131
     rank 17
   ]
   edge
   [
-    source 248
-    target 76
+    source 561
+    target 99
     rank 2
   ]
   edge
   [
-    source 248
-    target 131
+    source 561
+    target 238
     rank 6
   ]
   edge
   [
-    source 249
+    source 567
     target 10
     rank 2
   ]
   edge
   [
-    source 249
+    source 567
     target 18
     rank 3
   ]
   edge
   [
-    source 250
+    source 582
     target 3
     rank 13
   ]
   edge
   [
-    source 251
+    source 583
     target 20
     rank 17
   ]
   edge
   [
-    source 251
+    source 583
     target 39
     rank 10
   ]
