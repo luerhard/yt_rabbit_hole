@@ -207,7 +207,7 @@ server <- function(input, output, session) {
   # Check if current coder has done too much -------------------
   
   observeEvent(input$name, {
-    limit = 358
+    limit = 10000
     current = sum(priors$name[priors$s.no. %in% dataset$s.no.] == input$name)
     if (current >= limit){
       # display message if so
