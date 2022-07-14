@@ -134,6 +134,7 @@ micro <- c("None selected",
            "Neutral",
            "Spreading",
            "Description missing",
+           "Irrelevant Video",
            "I'm not sure")
 
 topic <- c("None selected",
@@ -224,7 +225,7 @@ server <- function(input, output, session) {
     priors <- priorData$prior_responses
     
     # exclude articles already coded twice
-    # exclude articles already coded four times
+    # exclude articles already coded six times
     exclude1 <- priors %>%
       group_by(s.no.) %>%
       mutate(total = length(s.no.)) %>%
