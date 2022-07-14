@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 16:13:41 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 18:34:24 2022"
 Version 1
 graph
 [
@@ -6,25 +6,7 @@ graph
   node
   [
     id 0
-    label "jzsiDRP5gXc"
-    step 0
-    date "2022-01-07T00:34:21Z"
-    title "What QAnon followers believe now - BBC News"
-    description "A year ago supporters of outgoing President Donald Trump stormed the US Capitol. Many of them were followers of the QAnon conspiracy theory, which saw Trump as a hero who would defeat a Satan-worshipping global cabal. &#10;&#10;A survey by the polling organisation Ipsos Mori has found that 7% of Americans still believe this conspiracy theory - despite a lack of any evidence and the fact that QAnon's many predictions never came true. &#10;&#10;So who are these people? &#10;&#10;Please subscribe HERE http://bit.ly/1rbfUog&#10;&#10;#BBCNews"
-    channeltitle "BBC News"
-    channelid "UC16niRr50-MSBwiO3YDb3RA"
-    favcount 0
-    viewcount 535801
-    likecount 9006
-    commentcount 4404
-    duration "PT11M46S"
-    indegree 133
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 1
+    name "1"
     label "DA4qLxU5ZVM"
     step 0
     date "2022-07-01T02:46:45Z"
@@ -38,12 +20,23 @@ graph
     commentcount 7352
     duration "PT6M32S"
     indegree 13
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 2
+    id 1
+    name "2"
     label "u8Gd9MJsnnE"
     step 0
     date "2020-07-23T23:19:01Z"
@@ -57,12 +50,23 @@ graph
     commentcount 12874
     duration "PT8M59S"
     indegree 73
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 3
+    id 2
+    name "3"
     label "rYMIozCKxGE"
     step 0
     date "2021-10-19T13:00:22Z"
@@ -76,12 +80,23 @@ graph
     commentcount 12251
     duration "PT14M15S"
     indegree 113
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 4
+    id 3
+    name "4"
     label "bsN96zE8FuE"
     step 0
     date "2021-01-25T20:00:06Z"
@@ -95,12 +110,23 @@ graph
     commentcount 18214
     duration "PT46M30S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 5
+    id 4
+    name "5"
     label "gufvLjAQsQs"
     step 0
     date "2022-06-07T03:13:47Z"
@@ -114,12 +140,23 @@ graph
     commentcount 1652
     duration "PT7M56S"
     indegree 23
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 6
+    id 5
+    name "6"
     label "rkniaZtlfpg"
     step 0
     date "2021-03-01T14:24:42Z"
@@ -133,12 +170,23 @@ graph
     commentcount 8616
     duration "PT7M41S"
     indegree 77
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 7
+    id 6
+    name "7"
     label "VGrfN3v5JL8"
     step 0
     date "2018-08-22T01:18:14Z"
@@ -152,12 +200,23 @@ graph
     commentcount 17580
     duration "PT6M21S"
     indegree 15
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 8
+    id 7
+    name "8"
     label "lrfeMqM603E"
     step 0
     date "2021-11-02T15:00:21Z"
@@ -171,12 +230,23 @@ graph
     commentcount 5527
     duration "PT22M40S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 9
+    id 8
+    name "9"
     label "nbmMwMQEK9Y"
     step 0
     date "2021-03-14T11:30:15Z"
@@ -190,12 +260,23 @@ graph
     commentcount -1
     duration "PT21M2S"
     indegree 98
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 10
+    id 9
+    name "10"
     label "GS6BHBeqdBs"
     step 0
     date "2021-08-30T01:28:37Z"
@@ -209,12 +290,23 @@ graph
     commentcount 3274
     duration "PT4M11S"
     indegree 32
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 11
+    id 10
+    name "11"
     label "YTaxl0tvbqk"
     step 0
     date "2022-02-01T20:35:50Z"
@@ -228,12 +320,23 @@ graph
     commentcount 6
     duration "PT59M44S"
     indegree 5
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Educational"
+    leftright "C"
+    cluster 1
   ]
   node
   [
-    id 12
+    id 11
+    name "12"
     label "rZN5vSbhsRU"
     step 0
     date "2021-09-23T22:00:18Z"
@@ -247,12 +350,23 @@ graph
     commentcount 5772
     duration "PT12M15S"
     indegree 58
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 13
+    id 12
+    name "13"
     label "iv7BvLBz8MI"
     step 0
     date "2020-08-25T03:25:09Z"
@@ -266,12 +380,23 @@ graph
     commentcount 16971
     duration "PT11M32S"
     indegree 12
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 14
+    id 13
+    name "14"
     label "q1fdIP_KyL0"
     step 0
     date "2020-08-14T19:15:01Z"
@@ -285,12 +410,23 @@ graph
     commentcount 10685
     duration "PT7M8S"
     indegree 43
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 3
   ]
   node
   [
-    id 15
+    id 14
+    name "15"
     label "qAp7n2uc5bE"
     step 0
     date "2022-03-16T02:17:06Z"
@@ -304,12 +440,23 @@ graph
     commentcount 2384
     duration "PT16M"
     indegree 28
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 16
+    id 15
+    name "16"
     label "gMcJGnypBuQ"
     step 0
     date "2020-08-12T23:34:25Z"
@@ -323,12 +470,23 @@ graph
     commentcount -1
     duration "PT6M59S"
     indegree 28
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 17
+    id 16
+    name "17"
     label "b74F56Unc9Q"
     step 0
     date "2022-01-21T14:30:18Z"
@@ -342,31 +500,53 @@ graph
     commentcount 3687
     duration "PT6M25S"
     indegree 13
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 19
-    label "tTeRofqTdlg"
-    step 0
-    date "2020-11-23T17:00:15Z"
-    title "How QAnon Is Taking Over The GOP | The Daily Social Distancing Show"
-    description "Are Trump&#8217;s typos secret messages? Are Hillary Clinton, Tom Hanks, and Oprah eating children to live longer? Here&#8217;s what you need to know about QAnon. #DailyShow #TrevorNoah #QAnon&#10;&#10;Subscribe to The Daily Show:&#10;https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA/?sub_confirmation=1 &#10;&#10;Follow The Daily Show:&#10;Twitter: https://twitter.com/TheDailyShow&#10;Facebook: https://www.facebook.com/thedailyshow&#10;Instagram: https://www.instagram.com/thedailyshow&#10;&#10;Watch full episodes of The Daily Show for free: http://www.cc.com/shows/the-daily-show-with-trevor-noah/full-episodes&#10;&#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;About The Daily Show:&#10;Trevor Noah and The Daily Show correspondents tackle the biggest stories in news, politics and pop culture.&#10;&#10;The Daily Show with Trevor Noah airs weeknights at 11/10c on Comedy Central."
-    channeltitle "The Daily Show with Trevor Noah"
-    channelid "UCwWhs_6x42TyRM4Wstoq8HA"
-    favcount 0
-    viewcount 3154260
-    likecount 59860
-    commentcount 9068
-    duration "PT11M32S"
-    indegree 3
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 20
+    id 17
+    name "18"
+    label "ynBQvMESMvk"
+    step 0
+    date "2022-07-12T18:48:41Z"
+    title "How Are The Proud Boys, QAnon And The Oath Keepers Connected? l FiveThirtyEight"
+    description "Since the Jan. 6 attack on the U.S. Capitol, researchers have discovered that many of the people charged for their alleged involvement in the attack had prior connections to extremist groups or movements. Here's how members or subscribers to the Proud Boys, the QAnon conspiracy theory and the Oath Keepers connected to one another before Jan. 6, 2021.&#10;&#10;Website: http://fivethirtyeight.com/&#10;Merch: http://fivethirtyeight.com/store&#10;Twitter: http://twitter.com/fivethirtyeight/ &#10;Facebook: https://www.facebook.com/fivethirtyeight/ &#10;Podcast: https://itunes.apple.com/us/podcast/fivethirtyeight-politics/id1077418457?mt=2"
+    channeltitle "FiveThirtyEight"
+    channelid "UCXKjhxsfFQUqlNVQzLVnpEA"
+    favcount 0
+    viewcount 4458
+    likecount 199
+    commentcount 45
+    duration "PT2M18S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 5
+  ]
+  node
+  [
+    id 18
+    name "20"
     label "Vol30dTcOQQ"
     step 0
     date "2022-02-15T03:00:10Z"
@@ -380,12 +560,23 @@ graph
     commentcount 3841
     duration "PT8M26S"
     indegree 39
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 21
+    id 19
+    name "21"
     label "VTeMFnhJjWw"
     step 0
     date "2022-01-27T11:00:14Z"
@@ -399,12 +590,23 @@ graph
     commentcount 3573
     duration "PT16M18S"
     indegree 27
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 22
+    id 20
+    name "22"
     label "IrJ-UlN8sPk"
     step 0
     date "2022-06-27T17:37:56Z"
@@ -418,12 +620,23 @@ graph
     commentcount 2431
     duration "PT3M24S"
     indegree 9
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 23
+    id 21
+    name "23"
     label "xVx7B6o0Fno"
     step 0
     date "2022-04-07T01:45:01Z"
@@ -437,12 +650,23 @@ graph
     commentcount 414
     duration "PT4M56S"
     indegree 10
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 24
+    id 22
+    name "24"
     label "-3ol1aUN_Go"
     step 0
     date "2021-06-14T11:15:01Z"
@@ -456,12 +680,23 @@ graph
     commentcount -1
     duration "PT50M11S"
     indegree 75
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 25
+    id 23
+    name "25"
     label "aE9mTr2uI10"
     step 0
     date "2021-12-01T04:32:40Z"
@@ -475,12 +710,23 @@ graph
     commentcount 270
     duration "PT7M4S"
     indegree 12
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 1
   ]
   node
   [
-    id 26
+    id 24
+    name "26"
     label "HTK6WB8qOSs"
     step 0
     date "2021-11-03T17:42:17Z"
@@ -494,12 +740,23 @@ graph
     commentcount 9094
     duration "PT2M24S"
     indegree 15
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 27
+    id 25
+    name "27"
     label "ic2C30ElCSY"
     step 0
     date "2021-02-17T19:00:10Z"
@@ -513,12 +770,23 @@ graph
     commentcount 9981
     duration "PT15M22S"
     indegree 24
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Socialist"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 28
+    id 26
+    name "28"
     label "E3_euRauzwo"
     step 0
     date "2021-04-07T15:59:48Z"
@@ -532,12 +800,23 @@ graph
     commentcount 387
     duration "PT4M58S"
     indegree 7
-    sentiment 1
-    cluster 6
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 29
+    id 27
+    name "29"
     label "KBnsuTcfWeQ"
     step 0
     date "2022-04-11T02:57:43Z"
@@ -551,31 +830,53 @@ graph
     commentcount -1
     duration "PT8M59S"
     indegree 14
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 7
   ]
   node
   [
-    id 31
-    label "ift5nxcSrII"
+    id 28
+    name "30"
+    label "flhGGq3TASo"
     step 0
-    date "2021-04-04T16:23:47Z"
-    title "QAnon And Conspiracy Theories: An American Political Tradition | Meet The Press Reports | NBC News"
-    description "Conspiracy theories are nothing new in American politics, but QAnon presents unique problems.&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://smart.link/5d0cd9df61b80&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;Follow NBC News on Instagram: http://nbcnews.to/InstaNBC&#10;&#10;QAnon and Conspiracy Theories: An American Political Tradition | Meet The Press | NBC News"
-    channeltitle "NBC News"
-    channelid "UCeY0bbntWzzVIaj2z3QigXg"
+    date "2022-06-03T01:45:01Z"
+    title "QAnon Leader Backing Candidates For Secretary Of State | The Katie Phang Show"
+    description "QAnon ideologies have gone from fringe beliefs to mainstream political views in the Republican party thanks to people such as Wayne Willott, who is now throwing his weight behind candidates for secretary of state. The Daily Beast&#8217;s Will Sommer joins Katie Phang to discuss his reporting on his growing influence. New details surrounding the sequence of events during the shooting in Uvalde, TX are painting a much clearer picture of how law enforcement failed that day. NBC&#8217;s Ken Dilainian joins Katie Phang to share what he&#8217;s learned. &#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://link.msnbc.com/join/5ck/msnbc-daily-signup-youtube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#MSNBC #News #GOP"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
     favcount 0
-    viewcount 654088
-    likecount 6110
-    commentcount 4586
-    duration "PT27M14S"
-    indegree 68
-    sentiment 1
-    cluster 1
+    viewcount 25232
+    likecount 548
+    commentcount 523
+    duration "PT8M11S"
+    indegree 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 32
+    id 29
+    name "32"
     label "DRqUQjyCXJQ"
     step 0
     date "2021-04-19T14:10:28Z"
@@ -589,12 +890,23 @@ graph
     commentcount 9111
     duration "PT3M53S"
     indegree 4
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 33
+    id 30
+    name "33"
     label "rGdm386TRnY"
     step 0
     date "2021-11-04T05:44:05Z"
@@ -608,31 +920,53 @@ graph
     commentcount 11890
     duration "PT10M44S"
     indegree 60
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 35
-    label "JiUxGeYBS4U"
+    id 31
+    name "34"
+    label "prXpsfTa__0"
     step 0
-    date "2021-10-07T22:52:16Z"
-    title "Pastel QAnon: How The Far-Right Conspiracy Group Is Creeping Into Wellness Community"
-    description "The far-right conspiracy group known as QAnon has begun to take over the wellness community throughout the pandemic through podcasts and wellness influencers.&#160;&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://smart.link/5d0cd9df61b80&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;&#10;#Conspiracy #QAnon #NBCNews"
-    channeltitle "NBC News"
-    channelid "UCeY0bbntWzzVIaj2z3QigXg"
+    date "2020-08-24T14:10:11Z"
+    title "Opinion | In Germany, QAnon and racism are fueling the far right. Sound familiar?"
+    description "Conspiracy theories and racism aren't just coloring U.S. politics. In Germany, they've moved from the fringe to a political platform. The far-right Alternative for Germany (AfD) party has found the way.  Producer Parjanya Christian Holtz travels across Germany to see how QAnon and anti-immigration sentiments are energizing what has become the biggest opposition party in parliament. Read more: http:/wapo.st/germanyright&#10;&#10;#WashingtonPost #QAnon #Germany #AFD #FarRight #Europe #Pegida #Merkel"
+    channeltitle "Washington Post"
+    channelid "UCHd62-u_v4DvJ8TCFtpi4GA"
     favcount 0
-    viewcount 14839
-    likecount 235
-    commentcount 200
-    duration "PT5M23S"
-    indegree 2
-    sentiment 1
-    cluster 5
+    viewcount 36318
+    likecount 673
+    commentcount 448
+    duration "PT11M32S"
+    indegree 11
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 36
+    id 32
+    name "36"
     label "obCgE_6g21s"
     step 0
     date "2021-11-07T18:00:30Z"
@@ -646,12 +980,23 @@ graph
     commentcount 1862
     duration "PT4M22S"
     indegree 9
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 37
+    id 33
+    name "37"
     label "ceeuHC_xPKA"
     step 0
     date "2020-09-11T09:19:31Z"
@@ -665,12 +1010,23 @@ graph
     commentcount -1
     duration "PT6M37S"
     indegree 7
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 38
+    id 34
+    name "38"
     label "atLs7UAzytM"
     step 0
     date "2020-10-22T11:30:00Z"
@@ -684,12 +1040,23 @@ graph
     commentcount 136
     duration "PT10M33S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 39
+    id 35
+    name "39"
     label "LhYZfh6aqls"
     step 0
     date "2021-09-24T16:38:17Z"
@@ -703,12 +1070,23 @@ graph
     commentcount 149
     duration "PT5M14S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 6
   ]
   node
   [
-    id 40
+    id 36
+    name "40"
     label "Z6cSu9oT6fs"
     step 0
     date "2022-01-05T21:44:44Z"
@@ -722,12 +1100,23 @@ graph
     commentcount 1202
     duration "PT2M21S"
     indegree 13
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 41
+    id 37
+    name "41"
     label "pkjZl-3nA80"
     step 0
     date "2021-09-23T00:21:14Z"
@@ -741,12 +1130,23 @@ graph
     commentcount 3375
     duration "PT9M34S"
     indegree 14
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 42
+    id 38
+    name "42"
     label "eh1LHbDXMQQ"
     step 0
     date "2021-02-25T13:50:38Z"
@@ -760,12 +1160,23 @@ graph
     commentcount 1369
     duration "PT10M2S"
     indegree 27
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 43
+    id 39
+    name "43"
     label "IvOFVzfc-k0"
     step 0
     date "2022-06-16T22:08:24Z"
@@ -779,12 +1190,23 @@ graph
     commentcount 1456
     duration "PT1M35S"
     indegree 5
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 1
   ]
   node
   [
-    id 44
+    id 40
+    name "44"
     label "zfcB2q0_hAI"
     step 0
     date "2021-12-01T04:50:00Z"
@@ -798,12 +1220,23 @@ graph
     commentcount 3413
     duration "PT10M6S"
     indegree 10
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 45
+    id 41
+    name "45"
     label "hGP01scixAI"
     step 0
     date "2021-04-05T17:00:31Z"
@@ -817,12 +1250,23 @@ graph
     commentcount 8743
     duration "PT5M53S"
     indegree 17
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 46
+    id 42
+    name "46"
     label "ty7jrPYhdN4"
     step 0
     date "2022-01-06T04:21:32Z"
@@ -836,12 +1280,23 @@ graph
     commentcount 2650
     duration "PT4M10S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 47
+    id 43
+    name "47"
     label "nCrZcmRoNZI"
     step 0
     date "2020-08-25T02:36:39Z"
@@ -855,12 +1310,23 @@ graph
     commentcount 342
     duration "PT7M5S"
     indegree 3
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 48
+    id 44
+    name "48"
     label "4lg6cZmfpeM"
     step 0
     date "2020-10-27T17:00:01Z"
@@ -874,12 +1340,23 @@ graph
     commentcount 3266
     duration "PT10M27S"
     indegree 40
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 49
+    id 45
+    name "49"
     label "_iQsr3Z3Xx4"
     step 0
     date "2020-08-25T21:45:27Z"
@@ -893,12 +1370,23 @@ graph
     commentcount 1715
     duration "PT12M51S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "C"
+    cluster 3
   ]
   node
   [
-    id 50
+    id 46
+    name "50"
     label "_aWKftVlHac"
     step 0
     date "2021-03-02T19:00:07Z"
@@ -912,12 +1400,23 @@ graph
     commentcount 828
     duration "PT4M52S"
     indegree 6
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 51
+    id 47
+    name "51"
     label "jf6V2CYhKvc"
     step 0
     date "2021-02-08T14:00:11Z"
@@ -931,12 +1430,23 @@ graph
     commentcount 4534
     duration "PT10M13S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 52
+    id 48
+    name "52"
     label "kaxFSYlqKlc"
     step 0
     date "2020-08-31T21:59:46Z"
@@ -950,12 +1460,23 @@ graph
     commentcount 283
     duration "PT2M57S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 53
+    id 49
+    name "53"
     label "1ac9wj2ZVRM"
     step 0
     date "2018-08-16T22:36:49Z"
@@ -969,12 +1490,23 @@ graph
     commentcount 2865
     duration "PT3M56S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 54
+    id 50
+    name "54"
     label "zxBchA7mrLE"
     step 0
     date "2020-09-03T07:19:12Z"
@@ -988,31 +1520,53 @@ graph
     commentcount 1313
     duration "PT11M50S"
     indegree 23
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 3
   ]
   node
   [
-    id 56
-    label "helPavwg0-c"
+    id 51
+    name "55"
+    label "gpu4-GBgsBQ"
     step 0
-    date "2020-08-14T21:19:34Z"
-    title "Trump Dodges QAnon Conspiracy Theory Question"
-    description "President Donald Trump dodged questions about whether he supported the QAnon conspiracy theory during a White House briefing on Friday.&#10;&#10;Trump was asked about his support for Marjorie Taylor Greene, who was mocked as a supporter of QAnon conspiracies and denounced for videos deemed racist by fellow Republicans.&#10;&#10;Unofficial election returns showed Greene winning by a wide margin in her Tuesday primary runoff with John Cowan &#8212; a neurosurgeon endorsed by several Georgia GOP congressmen, some who openly denounced Greene.&#10;&#10;&#34;Congratulations to future Republican Star Marjorie Taylor Greene on a big Congressional primary win in Georgia against a very tough and smart opponent,&#34; Trump tweeted. &#34;Marjorie is strong on everything and never gives up - a real WINNER!&#34;&#10;&#10;Trump did not directly answer questions about whether he agrees with Greene that the conspiracy theory should be &#34;looked into.&#34;&#10;&#10;The president's praise for Greene marked a direct contrast to the condemnation from Republican lawmakers during the primary campaign.&#10;&#10;Subscribe to our YouTube channel: https://bit.ly/2TwO8Gm&#10;&#10;QUICKTAKE ON SOCIAL:&#10;Follow QuickTake on Twitter: twitter.com/quicktake&#10;Like QuickTake on Facebook: facebook.com/quicktake&#10;Follow QuickTake on Instagram: instagram.com/quicktake&#10;Subscribe to our newsletter: https://bit.ly/2FJ0oQZ&#10;Email us at quicktakenews@gmail.com&#10;&#10;QuickTake by Bloomberg is a global news network delivering up-to-the-minute analysis on the biggest news, trends and ideas for a new generation of leaders."
-    channeltitle "Bloomberg Quicktake: Now"
-    channelid "UChirEOpgFCupRAk5etXqPaA"
+    date "2021-01-22T12:34:34Z"
+    title "White Supremacist Groups Target QAnon Conspiracy Theorists Who Feel Let Down By Trump | NBC News NOW"
+    description "NBC News&#8217; Ben Collins reports on the new recruitment efforts by white supremacy groups that are targeting disillusioned QAnon conspiracy theorists who felt let down by former President Trump.&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://apps.nbcnews.com/mobile&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;Follow NBC News on Instagram: http://nbcnews.to/InstaNBC&#10;&#10;#Trump #ConspiracyTheorists #NBCNews&#10;&#10;White Supremacist Groups Target QAnon Conspiracy Theorists Who Feel Let Down By Trump | NBC News NOW"
+    channeltitle "NBC News"
+    channelid "UCeY0bbntWzzVIaj2z3QigXg"
     favcount 0
-    viewcount 23699
-    likecount 132
-    commentcount 363
-    duration "PT48S"
-    indegree 1
-    sentiment 1
-    cluster 6
+    viewcount 235583
+    likecount 2970
+    commentcount 2399
+    duration "PT4M43S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 57
+    id 52
+    name "57"
     label "CPj_Gk3FlH0"
     step 0
     date "2021-07-28T00:00:12Z"
@@ -1026,12 +1580,23 @@ graph
     commentcount 1725
     duration "PT5M51S"
     indegree 1
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 58
+    id 53
+    name "58"
     label "upXofFy8xrE"
     step 0
     date "2021-02-22T20:00:10Z"
@@ -1045,12 +1610,23 @@ graph
     commentcount 1635
     duration "PT19M12S"
     indegree 3
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 59
+    id 54
+    name "59"
     label "E5a7CV8U6vM"
     step 0
     date "2021-09-02T23:00:04Z"
@@ -1064,12 +1640,23 @@ graph
     commentcount 6459
     duration "PT14M25S"
     indegree 42
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 60
+    id 55
+    name "60"
     label "2Q_FGJJWNHI"
     step 0
     date "2021-03-04T17:29:52Z"
@@ -1083,12 +1670,23 @@ graph
     commentcount 796
     duration "PT3M36S"
     indegree 2
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 61
+    id 56
+    name "61"
     label "EZcSWCfbB-c"
     step 0
     date "2022-06-29T11:00:08Z"
@@ -1102,12 +1700,23 @@ graph
     commentcount 2122
     duration "PT5M42S"
     indegree 7
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 62
+    id 57
+    name "62"
     label "NuDmm39p4wk"
     step 0
     date "2019-06-12T21:25:08Z"
@@ -1121,12 +1730,23 @@ graph
     commentcount 5177
     duration "PT3M8S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 63
+    id 58
+    name "63"
     label "AUgQ3Mq6oeo"
     step 0
     date "2022-04-06T01:15:01Z"
@@ -1140,12 +1760,23 @@ graph
     commentcount 526
     duration "PT8M40S"
     indegree 16
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 64
+    id 59
+    name "64"
     label "z6Vo5uav9as"
     step 0
     date "2022-03-01T03:56:46Z"
@@ -1159,12 +1790,23 @@ graph
     commentcount 8313
     duration "PT12M57S"
     indegree 4
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 65
+    id 60
+    name "65"
     label "4w62eh7WTNA"
     step 0
     date "2022-04-04T21:31:25Z"
@@ -1178,12 +1820,23 @@ graph
     commentcount -1
     duration "PT1M48S"
     indegree 1
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 66
+    id 61
+    name "66"
     label "JE2YphT9UAU"
     step 0
     date "2021-07-30T00:15:50Z"
@@ -1197,12 +1850,23 @@ graph
     commentcount 2642
     duration "PT31M14S"
     indegree 11
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 67
+    id 62
+    name "67"
     label "erc2WSYRQHw"
     step 0
     date "2022-06-21T19:30:04Z"
@@ -1216,12 +1880,23 @@ graph
     commentcount 56
     duration "PT1M36S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 68
+    id 63
+    name "68"
     label "VypJ9ntnJps"
     step 0
     date "2021-01-22T00:39:17Z"
@@ -1235,12 +1910,23 @@ graph
     commentcount 2528
     duration "PT3M51S"
     indegree 4
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 69
+    id 64
+    name "69"
     label "Z4I72iI5MHY"
     step 0
     date "2021-12-03T23:54:41Z"
@@ -1254,31 +1940,53 @@ graph
     commentcount 834
     duration "PT7M32S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 71
-    label "NjBi93thNFo"
+    id 65
+    name "70"
+    label "Zo913kHDoEo"
     step 0
-    date "2021-09-02T16:05:16Z"
-    title "60 Minutes+ explores how QAnon is tearing loved ones apart"
-    description "60 Minutes+ correspondent Laurie Segall sat down with a group of people who say a loved one's beliefs in internet conspiracies and QAnon have torn apart their families and relationships. Segall joined CBSN to talk about about the interview and a support group some are turning to for help.&#10;&#10;CBSN is CBS News&#8217; 24/7 digital streaming news service featuring live, anchored coverage available for free across all platforms. Launched in November 2014, the service is a premier destination for breaking news and original storytelling from the deep bench of CBS News correspondents and reporters. CBSN features the top stories of the day as well as deep dives into key issues facing the nation and the world. CBSN has also expanded to launch local news streaming services in major markets across the country. CBSN is currently available on CBSNews.com and the CBS News app across more than 20 platforms, as well as the Paramount+ subscription service.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#8203;&#10;Watch CBSN live: http://cbsn.ws/1PlLpZ7c&#8203;&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#8203;&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#8203;&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#8203;&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#8203;&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#8203;&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
-    channeltitle "CBS News"
-    channelid "UC8p1vwvWtl6T73JiExfWs1g"
+    date "2021-02-18T01:06:40Z"
+    title "The Current State Of QAnon | Ayman Mohyeldin | MSNBC"
+    description "QAnon supporters have shifted to a new theory that falsely claims former President Trump will be reinstated on March 4th, NBC News&#8217; Ben Collins reports. Aired on 02/17/2021.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;As part of its commitment to providing breaking news coverage throughout its daytime schedule, MSNBC has a block of &#34;&#34;MSNBC Live&#34;&#34; programming throughout the day, with different anchors splitting up the hours. This portion of the block is anchored by Ayman Mohyeldin. As with the other &#34;&#34;MSNBC Live&#34;&#34; programming blocks throughout the day, the Mohyeldin-anchored show explores the day's developments in news and politics so the network's viewers can continue to be informed of the latest happenings. In addition to covering breaking news, the show includes newsmaker interviews and analysis of the latest stories.&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, Hardball, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#QAnon #Trump #MSNBC&#10;&#10;The Current State Of QAnon | Ayman Mohyeldin | MSNBC"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
     favcount 0
-    viewcount 24297
-    likecount 429
-    commentcount 385
-    duration "PT12M9S"
-    indegree 16
-    sentiment 1
-    cluster 1
+    viewcount 261167
+    likecount 3079
+    commentcount 2339
+    duration "PT2M40S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 72
+    id 66
+    name "72"
     label "Yqfvka7QDO4"
     step 0
     date "2021-02-22T00:36:52Z"
@@ -1292,12 +2000,23 @@ graph
     commentcount 8452
     duration "PT13M32S"
     indegree 31
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 73
+    id 67
+    name "73"
     label "W9FgIN-Kijo"
     step 0
     date "2020-07-19T05:48:41Z"
@@ -1311,12 +2030,23 @@ graph
     commentcount 840
     duration "PT12M56S"
     indegree 4
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 74
+    id 68
+    name "74"
     label "QKwrhnh3Hj0"
     step 0
     date "2021-08-17T16:28:21Z"
@@ -1330,12 +2060,23 @@ graph
     commentcount 2160
     duration "PT16M19S"
     indegree 11
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "C"
+    cluster 1
   ]
   node
   [
-    id 75
+    id 69
+    name "75"
     label "PHWEhGeCXaM"
     step 0
     date "2021-06-21T14:00:19Z"
@@ -1349,12 +2090,23 @@ graph
     commentcount 2639
     duration "PT11M36S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 76
+    id 70
+    name "76"
     label "A1IDYHEdZpE"
     step 0
     date "2021-10-06T02:56:23Z"
@@ -1368,12 +2120,23 @@ graph
     commentcount 2446
     duration "PT14M37S"
     indegree 6
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 77
+    id 71
+    name "77"
     label "jOeDnvxYgIw"
     step 0
     date "2021-10-25T12:05:09Z"
@@ -1387,12 +2150,23 @@ graph
     commentcount 1882
     duration "PT2M32S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 2
   ]
   node
   [
-    id 78
+    id 72
+    name "78"
     label "929viHEzCEY"
     step 0
     date "2020-10-17T02:35:37Z"
@@ -1406,12 +2180,23 @@ graph
     commentcount 12440
     duration "PT10M1S"
     indegree 33
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 79
+    id 73
+    name "79"
     label "hOkKkH23pi4"
     step 0
     date "2020-10-16T20:49:45Z"
@@ -1425,12 +2210,23 @@ graph
     commentcount 6360
     duration "PT5M"
     indegree 12
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 9
   ]
   node
   [
-    id 80
+    id 74
+    name "80"
     label "3hybkzCWb_w"
     step 0
     date "2020-10-16T01:15:16Z"
@@ -1444,12 +2240,23 @@ graph
     commentcount 5846
     duration "PT3M32S"
     indegree 9
-    sentiment 1
-    cluster 6
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 81
+    id 75
+    name "81"
     label "QHOK_9hWU5U"
     step 0
     date "2021-02-03T14:03:09Z"
@@ -1463,12 +2270,23 @@ graph
     commentcount 12815
     duration "PT7M59S"
     indegree 16
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 82
+    id 76
+    name "82"
     label "65q8J3Q8MlU"
     step 0
     date "2021-02-05T05:37:33Z"
@@ -1482,12 +2300,23 @@ graph
     commentcount 8967
     duration "PT5M53S"
     indegree 11
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 83
+    id 77
+    name "83"
     label "2rpkwnVgPNU"
     step 0
     date "2022-05-06T00:45:00Z"
@@ -1501,12 +2330,23 @@ graph
     commentcount 970
     duration "PT7M50S"
     indegree 3
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 84
+    id 78
+    name "84"
     label "AhYRHif-U8I"
     step 0
     date "2020-10-11T14:10:01Z"
@@ -1520,12 +2360,23 @@ graph
     commentcount 1213
     duration "PT8M15S"
     indegree 24
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 85
+    id 79
+    name "85"
     label "UAWhOE1PEuY"
     step 0
     date "2020-11-24T11:30:07Z"
@@ -1539,31 +2390,53 @@ graph
     commentcount 2335
     duration "PT25M44S"
     indegree 74
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 1
   ]
   node
   [
-    id 87
-    label "FLPLeig95M4"
+    id 80
+    name "86"
+    label "nbNXMx_xqs4"
     step 0
-    date "2021-03-02T16:29:34Z"
-    title "Ex-QAnon follower: This is what people need to understand ..."
-    description "CNN's Alisyn Camerota is joined by 6 people who were former QAnon followers, or have loved ones who still follow the conspiracy theories, about how they became indoctrinated into the world of conspiracies.&#10;&#10;#Qanon #NewDay #AlysinCamerota"
-    channeltitle "CNN"
-    channelid "UCupvZG-5ko_eiXAupbDfxWw"
+    date "2020-08-31T12:59:52Z"
+    title "QAnon Conspiracy Theory Lands On European Shores | Morning Joe | MSNBC"
+    description "NBC News' Matt Bradley reports from Germany on how the QAnon conspiracy theory recently found a home at a protest of coronavirus restrictions. Aired on 08/31/2020.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, Hardball, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;QAnon Conspiracy Theory Lands On European Shores | Morning Joe | MSNBC"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
     favcount 0
-    viewcount 52474
-    likecount 995
-    commentcount 977
-    duration "PT8M18S"
-    indegree 12
-    sentiment 1
-    cluster 8
+    viewcount 130011
+    likecount 1889
+    commentcount 1234
+    duration "PT4M46S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 88
+    id 81
+    name "88"
     label "sqtVhQY27jc"
     step 0
     date "2022-04-06T01:30:09Z"
@@ -1577,12 +2450,23 @@ graph
     commentcount 4380
     duration "PT12M7S"
     indegree 6
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 89
+    id 82
+    name "89"
     label "US0Rfav2qBA"
     step 0
     date "2022-01-09T14:00:20Z"
@@ -1596,50 +2480,83 @@ graph
     commentcount 1796
     duration "PT7M34S"
     indegree 4
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
+  ]
+  node
+  [
+    id 83
+    name "90"
+    label "Upz4oo4cDfg"
+    step 0
+    date "2020-10-29T21:56:26Z"
+    title "The Truth About Conspiracy Theories: Qanon, Coronavirus, 5G  the Deep State | Explained"
+    description "It&#8217;s safe to say it&#8217;s been a big year for conspiracy theories.&#10;&#10;Everything from President Trump's secret war against a &#8216;deep state&#8217;, to the endless stream of COVID theories. Is COVID a hoax? Is COVID a weapon? Is COVID caused by 5G somehow? Is 5G Safe? Even flat earthers have been back in the headlines.&#10;&#10;But, what actually makes people believe in these kinds of conspiracy theories? Also, how do you protect yourself from falling for them and how do you talk to family or friends who are conspiracy theorists?&#10;&#10;It&#8217;s important to understand that real conspiracies do exist.&#10;&#10;There was the Volkswagen scandal of 2015. The car company cheated environmental regulations, which ended up costing them billions of dollars when it was uncovered. Another example is the US Government&#8217;s National Security Agency exposure for illegally spying on Americans in 2013.&#10;&#10;The difference between real conspiracies and something like the COVID 5G theory or the moon landing being faked, is that real conspiracies are exposed by solid, credible, proven evidence. And they&#8217;re usually exposed by journalists, whistleblowers or government investigations. Whereas, fringe conspiracy theorists often tend to ignore experts and credible evidence.&#10;&#10;So, what is it that makes people believe these kinds of conspiracy theories and ignore any evidence disproving them? There are a couple of different reasons.&#10;&#10;The first is pretty straightforward, convenience. If you choose to believe COVID isn&#8217;t real. You can continue to live life normally &#38; don&#8217;t have to worry about things like wearing a mask or making sure your actions don&#8217;t put anyone else at risk. &#10;&#10;But what about the people who are more extreme in their beliefs that buy into theories that don&#8217;t really make their lives any easier? When people feel scared, confused  or like they&#8217;re not in control of their own lives conspiracy theories can actually make them feel safe and even empowered.&#10;&#10;The idea of a global pandemic, that&#8217;s fast spreading, invisible, and affects people pretty randomly, can be scary.&#10;&#10;If you believe COVID&#8217;s caused by 5G you now have someone or something you can blame and you know how to stop it.&#10;&#10;Conspiracy Theories can also help people make sense of things they don&#8217;t understand.&#10;&#10;For example, it&#8217;s easier to think we just pretended to land on the moon than it is to try to understand how we managed to get a big hunk of metal to travel hundreds of thousands of kays into space run by computers about as powerful as a pocket calculator.&#10;&#10;Trying to wrap your head around that can be mind boggling and make you feel dumb. The other option is simple, easy to understand and as a bonus it can actually make you feel smarter than everyone else because you&#8217;re part of a small group that knows the truth and hasn&#8217;t been tricked by a fake story.&#10;&#10;While some conspiracy theories may seem harmless they can actually cause serious problems. They erode people&#8217;s trust in institutions and experts and can even lead to violence.&#10;&#10;What makes things worse is that the internet has made it a lot easier to make, find and spread conspiracy theories and misinformation.&#10;&#10;So, how can you protect yourself from being suckered into conspiracy theories? It helps to look at the world in the same way that most scientists do. For one thing get used to the fact that you don&#8217;t know everything and you&#8217;re going to be wrong about things; and that&#8217;s ok.&#10;&#10;People have a natural instinct to try to protect ourselves from that negative feeling by convincing ourselves that we&#8217;re not the ones that are wrong. &#10;&#10;Take a step back, weigh up the evidence, listen to experts and try to think logically about it. &#10;&#10;There&#8217;s a well known principle called Occam's razor, which is basically that the simplest answer is usually the right one. Also, people are really bad at keeping secrets&#8230;&#10;&#10;So just try to think about all of the people that would need to keep quiet for a conspiracy theory to be true.&#10;&#10;Now, what can you do to help friends or family who may be deep into a particular conspiracy theory? We asked the experts:&#10;__________________________________________&#13;&#10;&#13;&#10;For the past 50 years, Behind the News has been helping to break down current issues and events for young people all around the world. The program is a high-energy, fun way for people to learn about the stories we see in the news, while providing background information that isn&#8217;t usually given by other news bulletins.&#13;&#10;&#13;&#10;We have over 1000 stories on all sorts of topics - everything from politics &#38; volcanoes, to online security &#38; fortnite. If you're looking for help to understand something, you'll probably find it on BTN.&#13;&#10;&#13;&#10;Make sure to like &#38; subscribe our videos if you want to stay in the know!&#13;&#10;&#13;&#10;http://www.abc.net.au/btn/ &#13;&#10;&#13;&#10;Follow us on Social Media:&#13;&#10;Facebook: https://www.facebook.com/abcbtn &#13;&#10;Instagram: https://www.instagram.com/behindthenews/ &#13;&#10;Twitter: https://twitter.com/behindthenews"
+    channeltitle "Behind the News"
+    channelid "UCcbE7twlpJfQVF2dO21fB1A"
+    favcount 0
+    viewcount 55926
+    likecount 629
+    commentcount 0
+    duration "PT7M39S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 91
-    label "4XTZbYtwZJQ"
+    id 84
+    name "92"
+    label "66vEd4bt9SA"
     step 0
-    date "2020-07-27T15:09:24Z"
-    title "QAnon, coronavirus and the conspiracy cult - BBC News"
-    description "A bizarre conspiracy theory has surged in popularity in the US since the pandemic, according to exclusive research seen by the BBC.&#10;&#10;QAnon and its believers say that Donald Trump is here to save the world from an evil cabal of paedophiles and it&#8217;s had a surprising level of interest around the world from Brazil to Germany, the UK and Indonesia.&#10;&#10;And this week Twitter announced it would delete 7,000 QAnon-related accounts, saying it hoped the action would help to prevent &#34;offline harm&#34;.&#10;&#10;BBC Population Correspondent Stephanie Hegarty has spoken to QAnon followers and their families to find out why this cultish conspiracy has gained so much traction.&#10;&#10;Produced by Emma Ailes&#10;&#10;Edited by Emma Ailes &#38; Robert Timothy&#10;&#10;Animation by Peter Caires&#10;&#10;Please subscribe HERE http://bit.ly/1rbfUog"
-    channeltitle "BBC News"
-    channelid "UC16niRr50-MSBwiO3YDb3RA"
+    date "2020-10-15T07:52:17Z"
+    title "Civil rights and Qanon candidates: the fight for black voters in Georgia | Anywhere but Washington"
+    description "Joe Biden won the nomination for president on the shoulders of older Black voters in the US south. But how do younger, progressive people of color feel about his candidacy in the southern state of Georgia, in play for the first time in decades? And will a dangerous campaign of Qanon disinformation have any bearing on the outcome of the election? Oliver Laughland and Tom Silverstone try to find out &#10;&#10;Subscribe to The Guardian on YouTube &#9658; http://is.gd/subscribeguardian&#10;&#10;Troubled Florida, divided America: will Donald Trump hold this vital swing state? - video &#9658; https://www.youtube.com/watch?v=OzGL2s2n_QY&#10; &#10;Battle for the suburbs: can Joe Biden flip Texas? &#8211; video &#9658; https://www.youtube.com/watch?v=LCgFlohsKH4&#10;&#10;Support the Guardian &#9658; https://support.theguardian.com/contribute&#10;&#10;Today in Focus podcast &#9658; https://www.theguardian.com/news/series/todayinfocus&#10;&#10;Sign up for the Guardian documentaries newsletter &#9658; https://www.theguardian.com/info/2016/sep/02/sign-up-for-the-guardian-documentaries-update&#10;&#10;The Guardian &#9658; https://www.theguardian.com&#10;&#10;The Guardian YouTube network:&#10;&#10;Guardian News &#9658; http://is.gd/guardianwires&#10;Owen Jones talks &#9658; http://bit.ly/subsowenjones&#10;Guardian Football &#9658; http://is.gd/guardianfootball&#10;Guardian Sport &#9658; http://bit.ly/GDNsport&#10;Guardian Culture &#9658; http://is.gd/guardianculture"
+    channeltitle "The Guardian"
+    channelid "UCHpw8xwDNhU9gdohEcJu4aA"
     favcount 0
-    viewcount 225867
-    likecount 2545
-    commentcount 3067
-    duration "PT12M26S"
-    indegree 4
-    sentiment 1
-    cluster 3
+    viewcount 125103
+    likecount 1918
+    commentcount 375
+    duration "PT11M8S"
+    indegree 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 93
-    label "dowVuV05xlo"
-    step 0
-    date "2021-07-08T16:30:10Z"
-    title "How QAnon Supporters Work To Spread Ideas Via School Boards | MSNBC"
-    description "NBC News reporter Ben Collins details how many people who spout QAnon&#8217;s false claims have hatched a new plan to run for school board or local office, spread the gospel of Q.&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;How QAnon Supporters Work To Spread Ideas Via School Boards | MSNBC"
-    channeltitle "MSNBC"
-    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
-    favcount 0
-    viewcount 92636
-    likecount 1651
-    commentcount 1203
-    duration "PT9M47S"
-    indegree 1
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 94
+    id 85
+    name "94"
     label "fjnu5pj1Ku4"
     step 0
     date "2021-02-11T12:00:09Z"
@@ -1653,12 +2570,23 @@ graph
     commentcount 9466
     duration "PT11M22S"
     indegree 16
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 95
+    id 86
+    name "95"
     label "y7YPZxqJDYQ"
     step 0
     date "2020-09-10T14:08:53Z"
@@ -1672,50 +2600,83 @@ graph
     commentcount 2037
     duration "PT26M9S"
     indegree 74
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
     cluster 1
   ]
   node
   [
-    id 97
-    label "evqRMVW7lvc"
+    id 87
+    name "96"
+    label "_m5twZSHvZ4"
     step 0
-    date "2021-04-06T14:56:17Z"
-    title "Filmmaker says he potentially uncovered man behind QAnon"
-    description "CNN's Anderson Cooper speaks to director Cullen Hoback about his HBO documentary series &#34;Q: Into The Storm&#34; on potentially uncovering QAnon. HBO is a part of CNN's parent company WarnerMedia.&#10;&#10;#AC360 #CNNBusiness #News"
-    channeltitle "CNN"
-    channelid "UCupvZG-5ko_eiXAupbDfxWw"
+    date "2021-03-04T19:06:10Z"
+    title "Washington DC is on high alert as QAnon threats strengthen"
+    description "Donald Trump has left the capital, but QAnon continues to rally his loyal following for a quick return to the White House. &#10;&#10;QAnon was one of the main influencers of the siege on the Senate and the wake of his threats have kept Washington on high alert. &#10;&#10;Sky's Cordelia Lynch spoke with ex QAnon followers to find out what the appeal is and the destruction it leaves behind.&#10;&#10;SUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews&#10;&#10;Follow us on Twitter: https://twitter.com/skynews&#10;&#10;Like us on Facebook: https://www.facebook.com/skynews&#10;&#10;Follow us on Instagram: https://www.instagram.com/skynews&#10;&#10;For more content go to http://news.sky.com and download our apps:&#10;Apple: https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8&#10;Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&#38;hl=en_GB&#10;&#10;Sky News videos are now available in Spanish here/Los video de Sky News est&#225;n disponibles en espa&#241;ol aqu&#237; https://www.youtube.com/channel/skynewsespanol"
+    channeltitle "Sky News"
+    channelid "UCoMdktPbSTixAyNGwb-UYkQ"
     favcount 0
-    viewcount 855862
-    likecount 12174
-    commentcount 5496
-    duration "PT5M36S"
-    indegree 21
-    sentiment 1
+    viewcount 9393
+    likecount 99
+    commentcount 150
+    duration "PT3M16S"
+    indegree 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 1
   ]
   node
   [
-    id 99
-    label "_7FWr2Nvf9I"
+    id 88
+    name "98"
+    label "bntGdNFAAAw"
     step 0
-    date "2020-10-28T12:00:08Z"
-    title "The Instagram aesthetic that made QAnon mainstream"
-    description "Conspiracy theory researchers explain how QAnon spread through Instagram.&#10;&#10;Subscribe to our channel! http://goo.gl/0bsAjO&#10;&#10;At first glance, the images under the hashtags about child trafficking don&#8217;t look that different from anything else you&#8217;d expect to see on Instagram. They feature bright pastel colors with trendy fonts spelling out taglines like &#8220;wake up&#8221; and &#8220;get loud.&#8221; &#10;&#10;What the people who see these hashtags &#8212;&#160;and the lifestyle influencers who often post them &#8212;&#160;might not know is that the hashtag is being used to bring QAnon ideas into the mainstream. In March, 23 percent of people surveyed by Pew had heard of QAnon;&#160;by September, that number had risen to 47 percent. Now the conspiracy theory has reached a bigger support base than ever before via QAnon-lite memes &#8212; with serious implications for the election. &#10;&#10;Read more of Vox's coverage on QAnon: https://www.vox.com/policy-and-politics/2018/8/1/17253444/qanon-trump-conspiracy-theory-4chan-explainer&#10;&#10;And on how it spread to a new audience: https://www.vox.com/21436671/save-our-children-hashtag-qanon-pizzagate&#10;&#10;Open Sourced is a year-long reporting project from Recode by Vox that goes deep into the closed ecosystems of data, privacy, algorithms, and artificial intelligence. Learn more at http://www.vox.com/opensourced&#10;&#10;This project is made possible by the Omidyar Network. All Open Sourced content is editorially independent and produced by our journalists.&#10;&#10;Watch all episodes of Open Sourced right here on YouTube: http://bit.ly/2tIHftD&#10;&#10;Become a part of the Open Sourced Reporting Network and help our reporting. Join here: http://www.vox.com/opensourcednetwork&#10;Vox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com.&#10;&#10;Watch our full video catalog: http://goo.gl/IZONyE&#10;Follow Vox on Facebook: http://goo.gl/U2g06o&#10;Or Twitter: http://goo.gl/XFrZ5H"
-    channeltitle "Vox"
-    channelid "UCLXo7UDZvByw2ixzpQCufnA"
+    date "2020-10-23T16:54:36Z"
+    title "QAnon in Europe: the meteoric rise of a dangerous conspiracy theory, boosted by the pandemic"
+    description "Labelled a terror threat in the US by the FBI, Qanon's pro-Trump social media conspiracy theorists are now on the ground at demonstrations in Europe boosted by the COVID-19 pandemic. Unreported Europe looks into who they are - and why many experts feel the phenomenon is too dangerous to be ignored. &#10;&#10;READ MORE : https://www.euronews.com/2020/10/23/qanon-the-meteoric-rise-of-a-dangerous-conspiracy-theory-boosted-by-the-pandemic&#10;&#10;Subscribe to our channel: https://www.youtube.com/c/euronews?sub_confirmation=1&#10;Watch our LIVE here: https://www.youtube.com/c/euronews/live&#10;&#10;Subscribe to our thematic channels:&#10;NoComment: https://www.youtube.com/c/nocommenttv?sub_confirmation=1&#10;Euronews Living: http://bit.ly/2sMsaDB&#10;Knowledge: https://www.youtube.com/c/euronewsknowledge?sub_confirmation=1&#10;&#10;Euronews is available on YouTube in 12 languages: https://www.youtube.com/user/euronewsnetwork/channels&#10;&#10;#UnreportedEurope"
+    channeltitle "euronews"
+    channelid "UCSrZ3UV4jOidv8ppoVuvW9Q"
     favcount 0
-    viewcount 1090851
-    likecount 33997
-    commentcount 1829
-    duration "PT9M32S"
-    indegree 7
-    sentiment 1
-    cluster 8
+    viewcount 10720
+    likecount 83
+    commentcount 125
+    duration "PT8M"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 7
   ]
   node
   [
-    id 100
+    id 89
+    name "100"
     label "K_qQuZkodNQ"
     step 0
     date "2021-02-02T14:05:54Z"
@@ -1729,12 +2690,23 @@ graph
     commentcount 5181
     duration "PT4M56S"
     indegree 11
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 101
+    id 90
+    name "101"
     label "2qrpfHIpnqk"
     step 0
     date "2021-12-10T19:50:54Z"
@@ -1748,12 +2720,23 @@ graph
     commentcount 70
     duration "PT2M"
     indegree 1
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 102
+    id 91
+    name "102"
     label "m6U-5Hck5z0"
     step 0
     date "2021-01-15T18:38:20Z"
@@ -1767,12 +2750,23 @@ graph
     commentcount 2939
     duration "PT4M53S"
     indegree 17
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 103
+    id 92
+    name "103"
     label "ZiBaXCyObsg"
     step 0
     date "2021-07-18T16:17:32Z"
@@ -1786,12 +2780,23 @@ graph
     commentcount 1725
     duration "PT3M48S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 104
+    id 93
+    name "104"
     label "UGYO28tOB7Y"
     step 0
     date "2020-10-27T14:53:38Z"
@@ -1805,12 +2810,23 @@ graph
     commentcount 49
     duration "PT8M"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 105
+    id 94
+    name "105"
     label "qkfDYt-9W58"
     step 0
     date "2022-03-25T01:45:00Z"
@@ -1824,12 +2840,23 @@ graph
     commentcount 1067
     duration "PT6M47S"
     indegree 2
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 11
   ]
   node
   [
-    id 106
+    id 95
+    name "106"
     label "1SZnybNvfFE"
     step 0
     date "2021-08-12T16:50:28Z"
@@ -1843,12 +2870,23 @@ graph
     commentcount 78
     duration "PT1M55S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 107
+    id 96
+    name "107"
     label "bh5DklX-N2Y"
     step 0
     date "2021-01-14T00:08:42Z"
@@ -1862,12 +2900,23 @@ graph
     commentcount 425
     duration "PT31S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 108
+    id 97
+    name "108"
     label "35Wi3Gm2OrQ"
     step 0
     date "2021-06-15T20:00:03Z"
@@ -1881,12 +2930,23 @@ graph
     commentcount 1880
     duration "PT5M42S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 109
+    id 98
+    name "109"
     label "8_fn-a5qmxY"
     step 0
     date "2020-10-06T23:28:22Z"
@@ -1900,31 +2960,53 @@ graph
     commentcount 5465
     duration "PT8M33S"
     indegree 18
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 111
-    label "Msyp_dmsZRI"
+    id 99
+    name "110"
+    label "rEFzB6Lb_DI"
     step 0
-    date "2021-02-15T19:00:03Z"
-    title "Former QAnon Supporter Ashley Vanderbilt on Why She Believed Radical Conspiracies | The View"
-    description "The former QAnon supporter tells &#34;The View&#34; how she came to believe baseless radical conspiracy theories, how it affected her life and why she&#8217;s now speaking out now.&#10;&#10;Subscribe to our YouTube channel: http://bit.ly/2Ybi4tM &#10;&#10;MORE FROM 'THE VIEW':&#10;Full episodes: http://abcn.ws/2tl10qh&#10;Twitter: http://twitter.com/theview&#10;Facebook: http://facebook.com/TheView&#10;Instagram: http://instagram.com/theviewabc"
-    channeltitle "The View"
-    channelid "UCeH6qE4V7n5tVwP7NkdrtJg"
+    date "2020-10-23T17:00:16Z"
+    title "?"
+    description "&#1040;&#1084;&#1077;&#1088;&#1080;&#1082;&#1072;&#1085;&#1089;&#1082;&#1072;&#1103; &#1090;&#1077;&#1086;&#1088;&#1080;&#1103; &#1079;&#1072;&#1075;&#1086;&#1074;&#1086;&#1088;&#1072; QAnon &#1074;&#1099;&#1096;&#1083;&#1072; &#1080;&#1079; &#1074;&#1080;&#1088;&#1090;&#1091;&#1072;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1074; &#1084;&#1080;&#1088; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1099;&#1081; &#1080; &#1088;&#1072;&#1089;&#1087;&#1088;&#1086;&#1089;&#1090;&#1088;&#1072;&#1085;&#1080;&#1083;&#1072;&#1089;&#1100; &#1074; &#1045;&#1074;&#1088;&#1086;&#1087;&#1077; &#1085;&#1072; &#1074;&#1086;&#1083;&#1085;&#1077; &#1087;&#1072;&#1085;&#1076;&#1077;&#1084;&#1080;&#1080;. &#1063;&#1090;&#1086; &#1101;&#1090;&#1086; &#1079;&#1072; &#1090;&#1077;&#1086;&#1088;&#1080;&#1103;, &#1080; &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1074;&#1072;&#1078;&#1085;&#1086; &#1086; &#1085;&#1077;&#1081; &#1075;&#1086;&#1074;&#1086;&#1088;&#1080;&#1090;&#1100;? &#10;&#10;&#1063;&#1048;&#1058;&#1040;&#1058;&#1068; &#1044;&#1040;&#1051;&#1045;&#1045; : https://ru.euronews.com/2020/10/23/tv-ru-is-01-unreported-ep01-qanon-germany&#10;&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100;: https://www.youtube.com/c/&#1077;&#1074;&#1088;&#1086;&#1085;&#1100;&#1102;&#1089;?sub_confirmation=1&#10;&#1055;&#1088;&#1103;&#1084;&#1086;&#1081; &#1101;&#1092;&#1080;&#1088; euronews: https://www.youtube.com/c/&#1077;&#1074;&#1088;&#1086;&#1085;&#1100;&#1102;&#1089;/live&#10;&#10;Euronews &#1084;&#1086;&#1078;&#1085;&#1086; &#1089;&#1084;&#1086;&#1090;&#1088;&#1077;&#1090;&#1100; &#1085;&#1072; YouTube &#1085;&#1072; 12 &#1103;&#1079;&#1099;&#1082;&#1072;&#1093;: https://www.youtube.com/user/euronewsnetwork/channels&#10;&#10;#UnreportedEurope"
+    channeltitle "Euronews &#1087;&#1086;-&#1088;&#1091;&#1089;&#1089;&#1082;&#1080;"
+    channelid "UCFzJjgVicCtFxJ5B0P_ei8A"
     favcount 0
-    viewcount 101238
-    likecount 1419
-    commentcount 706
-    duration "PT6M52S"
-    indegree 4
-    sentiment 1
+    viewcount 22015
+    likecount 384
+    commentcount 125
+    duration "PT8M"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 112
+    id 100
+    name "112"
     label "PYZBxH4I_GA"
     step 0
     date "2020-09-29T15:45:12Z"
@@ -1938,12 +3020,23 @@ graph
     commentcount 61
     duration "PT6M24S"
     indegree 7
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 3
   ]
   node
   [
-    id 113
+    id 101
+    name "113"
     label "mTqkygZ-Zsg"
     step 0
     date "2021-06-15T01:03:23Z"
@@ -1957,12 +3050,23 @@ graph
     commentcount 6559
     duration "PT10M54S"
     indegree 22
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 114
+    id 102
+    name "114"
     label "IKXoJ6UqsoA"
     step 0
     date "2021-11-18T04:40:41Z"
@@ -1976,31 +3080,53 @@ graph
     commentcount 311
     duration "PT5M33S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 116
-    label "Vuh2AeO7ziw"
+    id 103
+    name "115"
+    label "cykveQsmO1M"
     step 0
-    date "2021-05-21T13:54:15Z"
-    title "QAnon is spreading in churches. These pastors are trying to stop it"
-    description "Two pastors on opposite sides of the country, one dangerous problem: QAnon spreading in their congregation. CNN Business' Donie O'Sullivan reports on how they're trying, and often failing, to stop the lies.&#10;&#10;Produced by Richa Naik &#38; John General&#10;Supervising Producer: Logan Whiteside&#10;Correspondent: Donie O'Sullivan&#10;Additional Camerawork: Sean Clark&#10;&#10;#CNN&#10;#News&#10;#DonieO'Sullivan"
-    channeltitle "CNN"
-    channelid "UCupvZG-5ko_eiXAupbDfxWw"
+    date "2020-10-16T13:00:15Z"
+    title "Trump Grilled About His QAnon, Debts And Covid-19 Diagnosis At Town Hall | TODAY"
+    description "At a fast-paced town hall in Miami, President Trump fielded questions about QAnon, conspiracy theories, his finances, and when he had his last negative coronavirus test. NBC&#8217;s Hallie Jackson reports for TODAY from Miami.&#10;&#187; Subscribe to TODAY: http://on.today.com/SubscribeToTODAY&#10;&#187; Watch the latest from TODAY: http://bit.ly/LatestTODAY&#10;&#10;About: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage &#38; our original web series.  &#10;&#10;Connect with TODAY Online!&#10;Visit TODAY's Website: http://on.today.com/ReadTODAY&#10;Find TODAY on Facebook: http://on.today.com/LikeTODAY&#10;Follow TODAY on Twitter: http://on.today.com/FollowTODAY&#10;Follow TODAY on Instagram: http://on.today.com/InstaTODAY&#10;Follow TODAY on Pinterest: http://on.today.com/PinTODAY&#10;&#10;#Trump #TownHall #TodayShow&#10;&#10;Trump Grilled About His QAnon, Debts And Covid-19 Diagnosis At Town Hall | TODAY"
+    channeltitle "TODAY"
+    channelid "UChDKyKQ59fYz3JO2fl0Z6sg"
     favcount 0
-    viewcount 407865
-    likecount 9573
-    commentcount 6561
-    duration "PT5M53S"
+    viewcount 100187
+    likecount 427
+    commentcount 973
+    duration "PT3M31S"
     indegree 4
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 117
+    id 104
+    name "117"
     label "dayJDrRdTEY"
     step 0
     date "2021-11-17T03:30:04Z"
@@ -2014,12 +3140,23 @@ graph
     commentcount 1654
     duration "PT14M49S"
     indegree 19
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 118
+    id 105
+    name "118"
     label "_Zd75jXaBdA"
     step 0
     date "2021-05-28T22:39:07Z"
@@ -2033,50 +3170,83 @@ graph
     commentcount -1
     duration "PT4M57S"
     indegree 7
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 2
+  ]
+  node
+  [
+    id 106
+    name "119"
+    label "nVZZ1cUYAmw"
+    step 0
+    date "2020-07-28T01:59:47Z"
+    title "Fox News Anchor Endorses Qanon Conspiracy Theories, Tries To Backtrack | The ReidOut | MSNBC"
+    description "Tonight&#8217;s Craziest Damn Thing: Fox News Anchor Jesse Waters endorsing the work of Qanon. As Joy describes, &#8220;It&#8217;s easy to dismiss Qanon as only crazy, but they also happen to be crazy dangerous.&#8221; NBC News reports that &#8220;QAnon followers have also been implicated in armed standoffs, attempted kidnappings, harassment and at least one killing since the conspiracy theory first gained traction on the internet in October 2017.&#8221; Aired on 7/27/2020.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, Hardball, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;Fox News Anchor Endorses Qanon Conspiracy Theories, Tries To Backtrack | The ReidOut | MSNBC"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
+    favcount 0
+    viewcount 135271
+    likecount 1712
+    commentcount 1247
+    duration "PT2M8S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 120
-    label "O1yOqtbWrdg"
+    id 107
+    name "121"
+    label "FZAcHk1d000"
     step 0
-    date "2020-10-23T14:59:58Z"
-    title "How This TV Chef Turned COVID Truther Helped QAnon Boom in Germany"
-    description "Former TV chef Atilla Hildmann is one of the most famous conspiracy theorists in Germany and he's helping QAnon conspiracy theories thrive. &#10;&#13;&#10;Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News&#13;&#10;&#13;&#10;Check out VICE News for more: http://vicenews.com&#13;&#10;&#13;&#10;Follow VICE News here:&#13;&#10;Facebook: https://www.facebook.com/vicenews&#13;&#10;Twitter: https://twitter.com/vicenews&#13;&#10;Tumblr: http://vicenews.tumblr.com/&#13;&#10;Instagram: http://instagram.com/vicenews&#13;&#10;More videos from the VICE network: https://www.fb.com/vicevideo"
-    channeltitle "VICE News"
-    channelid "UCZaT_X_mc0BI-djXOlfhqWQ"
+    date "2021-03-04T20:49:33Z"
+    title "How the QAnon conspiracy threatens U.S. democracy"
+    description "Two months after the deadly attacks on the nation's capital, top intelligence officials issued a warning saying pro-Trump militia groups could be plotting to breach the halls of Congress on Thursday, one of several dates important to the QAnon conspiracy movement. CBS News tech reporter Dan Patterson discusses the danger conspiracy theory followers present to the country and why the fringe movement will continue.&#10;&#10;Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews&#10;Watch CBSN live: https://cbsn.ws/live&#10;Download the CBS News app: https://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: https://facebook.com/cbsnews&#10;Follow CBS News on Twitter: https://twitter.com/cbsnews&#10;Subscribe to our newsletters: https://cbsn.ws/1RqHw7T&#10;&#10;Get new episodes of shows you love across devices the next day, stream CBSN and local news live, and watch full seasons of CBS fan favorites and originals like &#34;Star Trek Discovery,&#34; &#34;The Good Fight,&#34; &#34;No Activity,&#34; and many more to come with Paramount+. Sign up here: http://bit.ly/309gCe2&#10;&#10;---&#10;CBSN is CBS News' 24/7 digital streaming news service featuring live, anchored coverage available for free across all platforms. Launched in November 2014, the service is a premier destination for breaking news and original storytelling from the deep bench of CBS News correspondents and reporters. CBSN features the top stories of the day as well as deep dives into key issues facing the nation and the world. CBSN has also expanded to launch local news streaming services in major markets across the country. CBSN is available on CBSNews.com and the CBS News app across more than a dozen platforms, as well as the Paramount+ subscription service."
+    channeltitle "CBS News"
+    channelid "UC8p1vwvWtl6T73JiExfWs1g"
     favcount 0
-    viewcount 59890
-    likecount 893
-    commentcount 445
-    duration "PT10M32S"
-    indegree 3
-    sentiment 1
+    viewcount 8963
+    likecount 235
+    commentcount 124
+    duration "PT3M41S"
+    indegree 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 9
   ]
   node
   [
-    id 122
-    label "XlJXKe4fcDE"
-    step 0
-    date "2021-03-05T15:40:35Z"
-    title "Cooper reacts to being targeted by QAnon conspiracy theorists"
-    description "CNN's Anderson Cooper speaks to a QAnon conspiracy theorist who messaged him that he would be publicly executed.&#10;&#10;#AndersonCooper #CNN #News"
-    channeltitle "CNN"
-    channelid "UCupvZG-5ko_eiXAupbDfxWw"
-    favcount 0
-    viewcount 840652
-    likecount 11762
-    commentcount 6690
-    duration "PT3M23S"
-    indegree 13
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 123
+    id 108
+    name "123"
     label "WtgNCo4HRu4"
     step 0
     date "2021-08-13T14:43:46Z"
@@ -2090,12 +3260,23 @@ graph
     commentcount 7647
     duration "PT7M22S"
     indegree 9
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 4
   ]
   node
   [
-    id 124
+    id 109
+    name "124"
     label "ELntKgrMAzs"
     step 0
     date "2021-06-16T00:45:01Z"
@@ -2109,12 +3290,23 @@ graph
     commentcount 124
     duration "PT1M48S"
     indegree 2
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 125
+    id 110
+    name "125"
     label "tmQEBFYrEx0"
     step 0
     date "2021-12-09T16:00:42Z"
@@ -2128,12 +3320,23 @@ graph
     commentcount 178
     duration "PT1M46S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 126
+    id 111
+    name "126"
     label "a9YRQaIUNHY"
     step 0
     date "2021-03-11T03:30:12Z"
@@ -2147,12 +3350,23 @@ graph
     commentcount 1532
     duration "PT6M27S"
     indegree 4
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 127
+    id 112
+    name "127"
     label "AOwWXYfcrEc"
     step 0
     date "2020-11-02T22:15:13Z"
@@ -2166,12 +3380,23 @@ graph
     commentcount -1
     duration "PT2M22S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 4
   ]
   node
   [
-    id 128
+    id 113
+    name "128"
     label "GNI553Np__k"
     step 0
     date "2020-08-20T00:29:50Z"
@@ -2185,31 +3410,53 @@ graph
     commentcount 1979
     duration "PT3M22S"
     indegree 8
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
+  ]
+  node
+  [
+    id 114
+    name "129"
+    label "LU3afdtRCqE"
+    step 0
+    date "2022-02-01T03:40:54Z"
+    title "Trump Goes Head-to-Head with Trump, QAnon Waits for Michael Jackson  a Rare Melania Sighting"
+    description "Some parts of Massachusetts got more than thirty inches of snow over the weekend and there were quite a few characters out and about in the cold, the LA Rams are headed to the Super Bowl and will face the Cincinnati Bengals, Donald Trump was back on the road as part of his &#8220;Save America Tour&#8221; and he contradicted himself quite a few times, QAnon nuts think Michael Jackson is coming back, Mike Pence joined Fox News and gave an update on where things stand with him and Donald, and we got a rare Melania sighting with former Trump cabinet member Ben Carson.&#10;&#10;SUBSCRIBE to get the latest #Kimmel: http://bit.ly/JKLSubscribe&#10;&#10;Watch Mean Tweets: http://bit.ly/KimmelMT10&#10;&#10;Connect with Jimmy Kimmel Live Online:&#10;&#10;Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite&#10;Like Jimmy Kimmel on FACEBOOK: http://bit.ly/KimmelFB&#10;Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook&#10;Follow @JimmyKimmel on TWITTER: http://bit.ly/KimmelTW&#10;Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter&#10;Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram&#10;&#10;About Jimmy Kimmel Live:&#10;&#10;Jimmy Kimmel serves as host and executive producer of Emmy&#174;-nominated &#8220;Jimmy Kimmel Live!,&#8221; ABC&#8217;s late-night talk show. &#8220;Jimmy Kimmel Live!&#8221; is well known for its huge viral video successes, with over 11 billion views and more than 15 million subscribers on the show&#8217;s YouTube channel. Some of Kimmel&#8217;s most popular comedy bits include &#8220;Celebrities Read Mean Tweets,&#8221; &#8220;Lie Witness News,&#8221; &#8220;Unnecessary Censorship,&#8221; &#8220;Halloween Candy YouTube Challenge,&#8221; and music videos like &#8220;I (Wanna) Channing All Over Your Tatum.&#8221;"
+    channeltitle "Jimmy Kimmel Live"
+    channelid "UCa6vGFO9ty8v5KZJXQxdhaw"
+    favcount 0
+    viewcount 1278632
+    likecount 25156
+    commentcount 2781
+    duration "PT11M17S"
+    indegree 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 130
-    label "N3zujKdhH0U"
-    step 0
-    date "2020-07-13T15:37:21Z"
-    title "QAnon: Is pro-Trump conspiracy movement going mainstream? | The Stream"
-    description "** A technical error led to a pause in this broadcast at approx 14 minutes. You can skip to the point at which the stream started again by clicking here: 19:30 We apologise for the inconvenience. **&#10;&#10;Conspiracy theories are nothing new in the United States. There have been thousands of sightings of the mythical 'Bigfoot' creature. Many believe that a US military installation known as 'Area 51' is sheltering spacecraft and aliens. And some say the 9/11 attacks were an inside job.&#10;&#10;But, even in that company, the theories of the QAnon world stand out. Its growing network of true believers are centred around an anonymous figure known only as &#34;Q&#34; who claims to have inside knowledge that US President Donald Trump is waging an undercover war against elite and &#34;deep state&#34; paedophile rings and sex trafficking schemes. Many other conspiracy theories are also being spread by the movement's adherents.&#10;&#10;&#34;Q&#34; began posting messages on some of the more obscure corners of the internet such as the message boards 4chan and 8chan. Now, though, supporters of the individual's theories are happy to be interviewed in the mainstream media and have been turning up in force at Trump rallies.&#10;&#10;In this episode of The Stream, we look at the origins of the movement, find out why so many people are getting involved and ask, can they have a serious impact on US politics?&#10;&#10;Join the conversation:&#10;TWITTER: https://twitter.com/AJStream &#10;FACEBOOK: http://www.facebook.com/AJStream &#10;Subscribe to our channel  http://bit.ly/AJSubscribe&#10;&#10;#QAnon&#10;#aljazeeraenglish&#10;#ajstream"
-    channeltitle "Al Jazeera English"
-    channelid "UCNye-wNBqNL5ZzHSJj3l8Bg"
-    favcount 0
-    viewcount 312062
-    likecount 3243
-    commentcount 2535
-    duration "PT32M5S"
-    indegree 5
-    sentiment 1
-    cluster 9
-  ]
-  node
-  [
-    id 131
+    id 115
+    name "131"
     label "ExPt6yPfN_o"
     step 0
     date "2021-12-09T16:00:04Z"
@@ -2223,12 +3470,23 @@ graph
     commentcount 361
     duration "PT1M46S"
     indegree 3
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 132
+    id 116
+    name "132"
     label "QQkID_o8U3k"
     step 0
     date "2021-11-04T02:26:24Z"
@@ -2242,31 +3500,53 @@ graph
     commentcount 3275
     duration "PT12M44S"
     indegree 12
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 134
-    label "fbWq1FXdhtg"
+    id 117
+    name "133"
+    label "AFPIZrd3iF8"
     step 0
-    date "2021-03-04T17:59:07Z"
-    title " for former President Donald Trump"
-    description "In his first interview from jail, Jacob Chansley, known as the &#34;QAnon Shaman,&#34; says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS' new streaming platform, Paramount+. She joins Anne-Marie Green and Vladimir Duthiers with a preview on CBSN.&#10;&#10;Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews&#10;Watch CBSN live: https://cbsn.ws/live&#10;Download the CBS News app: https://cbsn.ws/1Xb1WC8&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#10;Like CBS News on Facebook: https://facebook.com/cbsnews&#10;Follow CBS News on Twitter: https://twitter.com/cbsnews&#10;Subscribe to our newsletters: https://cbsn.ws/1RqHw7T&#10;&#10;Get new episodes of shows you love across devices the next day, stream CBSN and local news live, and watch full seasons of CBS fan favorites and originals like &#34;Star Trek Discovery,&#34; &#34;The Good Fight,&#34; &#34;No Activity,&#34; and many more to come with Paramount+. Sign up here: http://bit.ly/309gCe2&#10;&#10;---&#10;CBSN is CBS News' 24/7 digital streaming news service featuring live, anchored coverage available for free across all platforms. Launched in November 2014, the service is a premier destination for breaking news and original storytelling from the deep bench of CBS News correspondents and reporters. CBSN features the top stories of the day as well as deep dives into key issues facing the nation and the world. CBSN has also expanded to launch local news streaming services in major markets across the country. CBSN is available on CBSNews.com and the CBS News app across more than a dozen platforms, as well as the Paramount+ subscription service."
-    channeltitle "CBS News"
-    channelid "UC8p1vwvWtl6T73JiExfWs1g"
+    date "2021-01-31T19:29:48Z"
+    title "Mayor who called QAnon a  under scrutiny by residents"
+    description "CNN's Kyung Lah visits the town of Sequim, Washington, where Mayor William Armacost is under scrutiny by residents for his stance on QAnon.&#10;&#10;#CNN #News #Politics"
+    channeltitle "CNN"
+    channelid "UCupvZG-5ko_eiXAupbDfxWw"
     favcount 0
-    viewcount 196183
-    likecount 2826
-    commentcount 2950
-    duration "PT10M20S"
-    indegree 15
-    sentiment 1
-    cluster 4
+    viewcount 106230
+    likecount 1793
+    commentcount 1406
+    duration "PT4M13S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 135
+    id 118
+    name "135"
     label "gyzbHFYs3pg"
     step 0
     date "2021-11-16T01:40:43Z"
@@ -2280,12 +3560,23 @@ graph
     commentcount -1
     duration "PT6M10S"
     indegree 4
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 136
+    id 119
+    name "136"
     label "DC9cojCs-nk"
     step 0
     date "2021-11-17T17:44:04Z"
@@ -2299,31 +3590,53 @@ graph
     commentcount 691
     duration "PT7M12S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 138
-    label "Emo_pQgwfkk"
+    id 120
+    name "137"
+    label "43diWYSoERw"
     step 0
-    date "2020-10-20T00:57:43Z"
-    title "CNN reporter went to a QAnon event. This is what he saw"
-    description "You might see people sharing the hashtag #SavetheChildren on social media. But much of this online activity has nothing to do with the respected and real Save the Children charity. Its name has been hijacked by followers of the QAnon conspiracy theory.&#10;CNN's Donie O'Sullivan went to a QAnon protest event to learn more.&#10;&#10;#DonieOSullivan #CNN #News"
-    channeltitle "CNN"
-    channelid "UCupvZG-5ko_eiXAupbDfxWw"
+    date "2021-08-14T01:30:02Z"
+    title "Trump Not Back In Office August 13 Despite QAnon, MyPillow Predictions"
+    description "&#8220;As with all good cults, expect the goalposts to shift fast. Expect one missed deadline from a false conspiracy to just bleed into another. Because a significant chunk of the American public has collectively lost its mind,&#8221; says Mehdi Hasan.&#160;&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#Trump #GOP #QAnon"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
     favcount 0
-    viewcount 1368146
-    likecount 14039
-    commentcount 9919
-    duration "PT4M51S"
-    indegree 20
-    sentiment 1
-    cluster 1
+    viewcount 1215380
+    likecount 24813
+    commentcount 9936
+    duration "PT6M17S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 139
+    id 121
+    name "139"
     label "sO5h_M6dn6M"
     step 0
     date "2021-03-11T21:22:05Z"
@@ -2337,12 +3650,23 @@ graph
     commentcount 340
     duration "PT1M49S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 140
+    id 122
+    name "140"
     label "O9hF5Yo1_Rk"
     step 0
     date "2021-03-06T20:27:48Z"
@@ -2356,12 +3680,23 @@ graph
     commentcount 8756
     duration "PT8M6S"
     indegree 9
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 8
   ]
   node
   [
-    id 141
+    id 123
+    name "141"
     label "3q1wOBVLJHw"
     step 0
     date "2021-10-24T18:00:03Z"
@@ -2375,12 +3710,23 @@ graph
     commentcount 1443
     duration "PT59S"
     indegree 1
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 4
   ]
   node
   [
-    id 142
+    id 124
+    name "142"
     label "WrZheAFpqLQ"
     step 0
     date "2021-10-15T20:57:11Z"
@@ -2394,12 +3740,23 @@ graph
     commentcount 1836
     duration "PT5M4S"
     indegree 3
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 143
+    id 125
+    name "143"
     label "qQbACnrgc2o"
     step 0
     date "2021-09-02T12:53:22Z"
@@ -2413,12 +3770,23 @@ graph
     commentcount 277
     duration "PT4M37S"
     indegree 3
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 144
+    id 126
+    name "144"
     label "YfJq1K20YZg"
     step 0
     date "2020-08-22T02:57:05Z"
@@ -2432,31 +3800,53 @@ graph
     commentcount 5309
     duration "PT7M20S"
     indegree 1
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 146
-    label "COAgIT61NjA"
+    id 127
+    name "145"
+    label "oesJCQdkblQ"
     step 0
-    date "2021-10-16T01:12:02Z"
-    title "Alleged QAnon leader running for Congress in Arizona"
-    description "Ron Watkins, labeled the linchpin of the QAnon movement, has filed to run for Congress as a Republican in Arizona. And Watkins is already handing out endorsements."
-    channeltitle "12 News"
-    channelid "UCu7G08TrwPx_0WH4M7OxjIQ"
+    date "2020-08-14T18:56:00Z"
+    title "Trump dodges QAnon conspiracy theory question"
+    description "President Donald Trump dodged questions Friday about his thoughts on QAnon during a White House briefing. Trump was asked about his support for Marjorie Taylor Greene, who has embraced the baseless, far-right conspiracy theory. (Aug. 14)&#13;&#10;&#13;&#10;Subscribe for more Breaking News: http://smarturl.it/AssociatedPress &#13;&#10;Website: https://apnews.com&#13;&#10;Twitter: https://twitter.com/AP&#13;&#10;Facebook: https://facebook.com/APNews&#13;&#10;Google+: https://plus.google.com/115892241801867723374&#13;&#10;Instagram: https://www.instagram.com/APNews/&#13;&#10;&#8203;&#13;&#10;&#13;&#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/645f74f1343e4bc8bb110cecbf40bf8d"
+    channeltitle "Associated Press"
+    channelid "UC52X5wxOL_s5yw0dQk7NtgA"
     favcount 0
-    viewcount 4369
-    likecount 42
-    commentcount 79
-    duration "PT3M2S"
-    indegree 5
-    sentiment 1
+    viewcount 52119
+    likecount 428
+    commentcount 291
+    duration "PT34S"
+    indegree 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 6
   ]
   node
   [
-    id 147
+    id 128
+    name "147"
     label "U_Pr7lS6zU0"
     step 0
     date "2021-11-18T03:22:34Z"
@@ -2470,12 +3860,23 @@ graph
     commentcount 2351
     duration "PT11M43S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 148
+    id 129
+    name "148"
     label "Glwk8OskVAU"
     step 0
     date "2021-01-21T15:02:42Z"
@@ -2489,12 +3890,23 @@ graph
     commentcount 6566
     duration "PT9M8S"
     indegree 7
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 149
+    id 130
+    name "149"
     label "RSu_XYXSgz4"
     step 0
     date "2021-05-27T02:21:36Z"
@@ -2508,12 +3920,23 @@ graph
     commentcount 2565
     duration "PT11M27S"
     indegree 7
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 150
+    id 131
+    name "150"
     label "8emVCG1Jrnc"
     step 0
     date "2021-09-14T05:39:26Z"
@@ -2527,12 +3950,23 @@ graph
     commentcount 18493
     duration "PT5M8S"
     indegree 3
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 151
+    id 132
+    name "151"
     label "r3rVGrTknIk"
     step 0
     date "2021-03-16T23:59:12Z"
@@ -2546,12 +3980,23 @@ graph
     commentcount 11983
     duration "PT3M25S"
     indegree 14
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 152
+    id 133
+    name "152"
     label "WN5u1T4iXF8"
     step 0
     date "2022-03-02T17:00:07Z"
@@ -2565,12 +4010,23 @@ graph
     commentcount 76
     duration "PT7M51S"
     indegree 5
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 153
+    id 134
+    name "153"
     label "AaB-XNwi1PM"
     step 0
     date "2021-04-22T17:19:57Z"
@@ -2584,31 +4040,53 @@ graph
     commentcount 1465
     duration "PT3M6S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 155
-    label "LyZl8omsmn8"
+    id 135
+    name "154"
+    label "HaSTzSIBgwg"
     step 0
-    date "2022-01-11T18:21:02Z"
-    title "Thomas Lennon on new movie "
-    description "Dean Richards sits down with &#34;Reno 911&#34; actor Thomas Lennon"
-    channeltitle "WGN News"
-    channelid "UCDrLGkZTcNCshOLiKi5NtEw"
+    date "2021-10-06T01:08:51Z"
+    title "The Social Media Algorithms Fueling QAnon | Jennifer Golbeck | TEDxMarin"
+    description "A look inside conspiracy theories, especially QAnon, and the role algorithms play in fueling these ideas across social media.&#160; When fringe beliefs turn into a movement, our culture itself is at risk. Jen Golbeck is an expert on social media, artificial intelligence, and malicious online behavior which keeps her mucking around in the nasty bits of the internet. More info http://jengolbeck.com/index.html Jen Golbeck is a world leader in social media research and science communication. She began studying social media from the moment it emerged on the web a decade ago, and is one of the world's foremost experts in the field. Her research has influenced industry, government and the military. She is a pioneer in the field of social data analytics, discovering people's hidden attributes from their online behavior, and a leader in creating human-friendly security and privacy systems.&#10;&#10;Her TED Talk, &#34;The Curly Fry Conundrum&#34;, was named one of the most powerful talks of 2014 by TED.&#10;&#10;In addition to her work as a professor at the University of Maryland, she writes for top online news organizations, including Slate and The Atlantic, and appears frequently on NPR and commercial talk radio.&#10;&#10;Jen received an AB in Economics and an SB and SM in Computer Science at the University of Chicago, and a Ph.D. in Computer Science from the &#10;University of Maryland, College Park. She is an expert on social media, artificial intelligence, and malicious online behavior which keeps her mucking around in the nasty bits of the internet. More info http://jengolbeck.com/index.html This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx"
+    channeltitle "TEDx Talks"
+    channelid "UCsT0YIqwnpJCM-mx7-gSA4Q"
     favcount 0
-    viewcount 894
-    likecount 18
-    commentcount 2
-    duration "PT5M19S"
-    indegree 2
-    sentiment 1
-    cluster 7
+    viewcount 984
+    likecount 49
+    commentcount 7
+    duration "PT12M9S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Educational"
+    leftright "C"
+    cluster 4
   ]
   node
   [
-    id 156
+    id 136
+    name "156"
     label "awLgMJeD0Os"
     step 0
     date "2022-02-22T11:13:56Z"
@@ -2622,12 +4100,23 @@ graph
     commentcount 29
     duration "PT2M52S"
     indegree 2
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 10
   ]
   node
   [
-    id 157
+    id 137
+    name "157"
     label "7e2dmzJd7yQ"
     step 0
     date "2021-01-25T21:36:08Z"
@@ -2641,12 +4130,23 @@ graph
     commentcount 3384
     duration "PT11M41S"
     indegree 10
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "C"
+    cluster 11
   ]
   node
   [
-    id 158
+    id 138
+    name "158"
     label "7qlJMEUSSWU"
     step 0
     date "2019-02-20T22:54:07Z"
@@ -2660,31 +4160,53 @@ graph
     commentcount 6323
     duration "PT5M22S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 161
-    label "Yb7YTarMtzI"
+    id 139
+    name "159"
+    label "RLAL0rAD1TM"
     step 0
-    date "2021-02-20T15:15:02Z"
-    title "QAnon: Former conspiracy theorist explains why she stopped believing - DailyMail TV"
-    description "A South Carolina mom not interested in politics has revealed how she was lured into QAnon conspiracy theories on TikTok when she lost her job during the pandemic.&#10;&#10;Ashley Vanderbilt, 27, has broken her silence to share how she became so indoctrinated by the extreme right-wing conspiracy that even her&#160;four-year-old daughter Emmerson knew 'something was wrong with her mom.'&#10;&#10;Before getting caught up in QAnon, Vanderbilt said she was passive with politics, didn't read the news and had always been someone 'that you just tell me what to do and I do it.'&#10;&#10;She said she had always been a Republican as she grew up being told to be and was a Donald Trump supporter but ended up so far 'down the rabbit hole' she started viewing him as being&#160;above God.&#10;&#10;&#10;Original Video: http://www.dailymail.co.uk/video/dailymailtv/video-2359502/Former-conspiracy-theorist-details-left-QAnon.html&#10;&#10;Daily Mail Facebook: http://facebook.com/dailymail&#10;Daily Mail IG: http://instagram.com/dailymail&#10;Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033&#10;Daily Mail Twitter: http://twitter.com/MailOnline&#10;Daily Mail Pinterest: http://pinterest.co.uk/dailymail&#10;Daily Mail Google+: https://plus.google.com/+DailyMail&#10;&#10;Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile"
-    channeltitle "Daily Mail"
-    channelid "UCw3fku0sH3qA3c3pZeJwdAw"
+    date "2020-10-16T16:22:54Z"
+    title "Trump grilled on COVID-19, QAnon, personal finances at town hall"
+    description "President Trump and Democratic nominee Joe Biden took part in separate televised town hall events Thursday night. The president was grilled on his coronavirus diagnosis, QAnon and his personal finances. CBS News correspondent Nikole Killion joins CBSN from the White House to discuss the biggest moments."
+    channeltitle "CBS News"
+    channelid "UC8p1vwvWtl6T73JiExfWs1g"
     favcount 0
-    viewcount 1228
-    likecount 18
-    commentcount 10
-    duration "PT3M36S"
-    indegree 2
-    sentiment 1
+    viewcount 272936
+    likecount 2082
+    commentcount 3471
+    duration "PT11M13S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 1
   ]
   node
   [
-    id 162
+    id 140
+    name "162"
     label "a_dMDE-BzNc"
     step 0
     date "2021-11-17T17:22:44Z"
@@ -2698,12 +4220,23 @@ graph
     commentcount 3241
     duration "PT49S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 163
+    id 141
+    name "163"
     label "W-2LLrq4SdI"
     step 0
     date "2021-03-16T06:00:09Z"
@@ -2717,12 +4250,23 @@ graph
     commentcount -1
     duration "PT3M9S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 164
+    id 142
+    name "164"
     label "xHoJbgl9h_w"
     step 0
     date "2021-01-22T22:05:25Z"
@@ -2736,31 +4280,53 @@ graph
     commentcount 5430
     duration "PT5M32S"
     indegree 4
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
+  ]
+  node
+  [
+    id 143
+    name "165"
+    label "oi1StXx1p5M"
+    step 0
+    date "2020-08-17T10:15:25Z"
+    title "What is QAnon Conspiracy Theory? Could it have impact on the US election? #UPSC #IAS"
+    description "UPSC IAS (Pre + Mains) LIVE Foundation batch, Visit https://bit.ly/39OS2Ic for all details. Batch starting from 11th July'22 | 8:00 AM &#10;&#10;Our &#34;UPSC IAS (Pre + Mains) Full LIVE Foundation Batch&#34; will aid your preparation in completing your Journey to LBSNAA. This course is meticulously designed to cover the exhaustive prelims-cum-mains syllabus.&#10;The important course features are -&#10;1. 900+ Hours of Live teaching by our faculties&#10;2. One to one mentorship to keep you on track to achieve the target&#10;3. Handmade and concise Lecture Notes, Handouts on static topics&#10;4. MCQ based learning for every lecture to enhance retention&#10;5. Answer writing program guided by our experienced faculties&#10;6. Daily Current Affairs Programme (CAP) PDF + Videos covering multiple sources&#10;7. Benchmarking of students through weekly revision tests for students&#10;8. Prelims Test Series to make you battle ready for Prelims exam&#10;9. Gyanvani sessions by senior bureaucrats, selected candidates and senior aspirants&#10;10. CSAT Lectures to help to adapt with changing patterns of examination.&#10; &#10;Special Benefits&#10;# Course is now available at Rs.20500. Use Coupon Code &#34;LIVE&#34; at the time of checkout&#10; &#10;Download the App to Subscribe to the Course - https://bit.ly/StudyIQAPP &#10;For More Information regarding the course, Visit: https://bit.ly/39OS2Ic  &#10;&#10;For any doubt, Call 95-8004-8004 or Click here for Whatsapp Chat http://wa.me/919554443351&#10; &#10; &#10;Gaurav Sir Courses - One-Stop Solution for Current Affairs of all Government Exams.&#10;Gaurav Sir Current Affairs                                                   https://bit.ly/3jwDRsv&#10;Complete Static GK by Dr. Gaurav Garg                      https://bit.ly/3O0FaxE&#10;Banking Awareness (Static) by Dr Gaurav Garg          https://bit.ly/36dElAI&#10; &#10;Vipan Sir Courses - Courses to help you gain an edge with MCQs preparation&#10;10000 MCQs of GA by Vipan Sir                                        https://bit.ly/367qqMi&#10;GS - Dr. Vipan Goyal                                                             https://bit.ly/3vbslbn&#10;5000+ MCQs for BPSC (Bihar GK + India GS)               https://bit.ly/3uCr9Pe&#10;5000+ MCQs for OPSC (Odisha GK + India GS)            https://bit.ly/37gtVR5&#10;5000+ MCQs for UPPSC (UP GK + India GS)                https://bit.ly/3JB7fZa&#10;5000+ MCQs for MPPSC (MP GK + India GS)               https://bit.ly/3rnyy2O&#10;&#10;State PSCs&#10;State Courses cover the syllabus end to end including all Static and Current topics in depth.&#10;In the static portion, special focus has been given to Polity, Economy, Geography and History.&#10;Current affairs which form the backbone of the exam are regularly updated.&#10;Click here to know more https://bit.ly/3ET2nxu&#10; &#10;Judiciary Exams&#10;Comprehensive coverage of syllabus of state judiciary exams with personalised support and answer writing practice.&#10;Click here to know more: https://bit.ly/3xQign3&#10; &#10;UPSC Optionals&#10;Optionals can make or break your chances to get selected for exams.&#10;Click here to know more: https://bit.ly/3k6LCFE&#10; &#10;SSC Exams https://bit.ly/3viQk9A&#10; &#10;Banking &#38; Insurance https://bit.ly/3OBGQhs&#10; &#10;Defence Exams https://bit.ly/3keznHl&#10; &#10;RBI &#38; SEBI Exams https://bit.ly/3xWgmBp&#10; &#10;Railways Exams https://bit.ly/3xWlLZ1&#10; &#10;SSC JE Exams https://bit.ly/3KoPRXQ&#10; &#10;DMRC Exams https://bit.ly/38qSWt0&#10; &#10;GATE Exams https://bit.ly/3KlCeZB&#10; &#10;Professional Courses https://bit.ly/38rfYQw&#10; &#10;NABARD and Agri Exams https://bit.ly/3LgTv7o&#10; &#10;UGC Net https://bit.ly/3EOgO6h&#10; &#10;#StudyIQ_Launched_UPSC_LIVE_Batch #Download_StudyIQ_App"
+    channeltitle "StudyIQ IAS"
+    channelid "UCrC8mOqJQpoB7NuIMKIS6rQ"
+    favcount 0
+    viewcount 88582
+    likecount 4537
+    commentcount 88
+    duration "PT13M50S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 9
   ]
   node
   [
-    id 167
-    label "JovkktIip0k"
-    step 0
-    date "2021-02-04T12:30:01Z"
-    title "When Family and Friends Fall Down the QAnon Rabbit Hole, Can They Be Rescued? | NBCLX"
-    description "As QAnon and other conspiracy theories spread online, more people are losing friends and family to these cult-like networks of misinformation. NBCLX storyteller Cody Broadway talked to people who have lost loved ones to conspiracies, and to experts like Mick West, author of &#8220;Escaping the Rabbit Hole&#8221; about how people get caught in this web &#8212; and whether it&#8217;s possible to get them back. &#10;&#10;Subscribe: https://www.youtube.com/nbclx?sub_confirmation=1&#10;&#10;Find us on Instagram: https://www.instagram.com/nbclx/&#10;Find us on Twitter: https://twitter.com/nbclx&#10;Find us on Facebook: https://www.facebook.com/NBCLX/&#10;Visit our website: https://www.lx.com/&#10;&#10;ABOUT NBCLX:&#10;&#10;Every story is local. &#10;&#10;We are passionate and engaged storytellers with a mission to inform and inspire. NBCLX stories will focus on depth and context, the kind of stories that can make everyone feel connected and encouraged to shape the world around them.&#10;&#10;When Family and Friends Fall Down the QAnon Rabbit Hole, Can They Be Rescued? | NBCLX&#10;https://youtu.be/JovkktIip0k&#10;&#10;#NBCLX"
-    channeltitle "LX News"
-    channelid "UCyVwZfOXhV9ieQoCIY6K6EA"
-    favcount 0
-    viewcount 1929
-    likecount 26
-    commentcount 33
-    duration "PT11M26S"
-    indegree 3
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 168
+    id 144
+    name "168"
     label "m9F3ayPoDIA"
     step 0
     date "2020-08-28T14:00:28Z"
@@ -2774,12 +4340,23 @@ graph
     commentcount 1907
     duration "PT11M37S"
     indegree 17
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Educational|PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 169
+    id 145
+    name "169"
     label "L4DkztDjlak"
     step 0
     date "2020-09-06T22:59:41Z"
@@ -2793,12 +4370,23 @@ graph
     commentcount 10229
     duration "PT9M23S"
     indegree 3
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 170
+    id 146
+    name "170"
     label "enyep7yAKxY"
     step 0
     date "2020-10-16T02:35:40Z"
@@ -2812,12 +4400,23 @@ graph
     commentcount 5463
     duration "PT10M54S"
     indegree 6
-    sentiment 1
-    cluster 6
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 171
+    id 147
+    name "171"
     label "OvPrhQ_0GfM"
     step 0
     date "2021-03-11T03:45:00Z"
@@ -2831,12 +4430,23 @@ graph
     commentcount 387
     duration "PT3M11S"
     indegree 2
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 172
+    id 148
+    name "172"
     label "_VJG91FQpJ4"
     step 0
     date "2019-03-30T04:00:01Z"
@@ -2850,12 +4460,23 @@ graph
     commentcount 2112
     duration "PT7M41S"
     indegree 2
-    sentiment 1
-    cluster 11
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 173
+    id 149
+    name "173"
     label "1Cylk43dcVs"
     step 0
     date "2021-02-05T21:24:25Z"
@@ -2869,12 +4490,23 @@ graph
     commentcount 11395
     duration "PT8M53S"
     indegree 12
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 174
+    id 150
+    name "174"
     label "yA4NgY3T6fA"
     step 0
     date "2022-01-19T18:16:49Z"
@@ -2888,31 +4520,53 @@ graph
     commentcount 51
     duration "PT2M6S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 176
-    label "kgp_4ThZ7BE"
+    id 151
+    name "175"
+    label "qUxkONMfW6U"
     step 0
-    date "2022-01-06T08:57:08Z"
-    title "QAnon: One year on from the Capitol Hill insurrection"
-    description "Opinion Writer Liam Gilliver goes down the QAnon rabbit hole: https://www.mirror.co.uk/tv/tv-news/i-fell-down-qanon-rabbit-25639882&#10;&#10;Climate change is a hoax, the world is flat, 5G is killing us and the Covid vaccines contain teeny microchips so Bill Gates can track us all.&#10;&#10;We've all heard these conspiracy theories at some point. But most of us don't even entertain their validity - or lack of.&#10;&#10;They're wildly hyperbolic, defy scientific consensus and just seem inherently conspiracy-like. And so, after their five minutes of fame, they exit our minds and fall into irrelevance.&#10;&#10;But there's one conspiracy that has managed to push its way into the mainstream and stay there - dragging with it some pretty disturbing consequences.&#10;&#10;I'm talking about QAnon, which in the space of four years has managed to rake up a cult-like following in America and take the grimier corners of the internet by storm.&#10;&#10;This is the official home of the Mirror on YouTube. Bringing you the best news, entertainment and real life stories from The Heart of Britain.&#10;&#10;Follow our pages: http://www.mirror.co.uk/social&#10;&#10;Sign up for our newsletters: https://www.mirror.co.uk/email&#10;&#10;Music: Intuit256 by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 licence. https://creativecommons.org/licenses/by/4.0/&#10;&#10;Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100193&#10;&#10;Artist: http://incompetech.com/"
-    channeltitle "The Mirror"
-    channelid "UC3EmxrWVl7K8xBH_UVIWY4Q"
+    date "2021-03-16T13:24:23Z"
+    title "Her QAnon parents say shes brainwashed. Listen to her plea"
+    description "This woman says her parents are becoming unrecognizable as they follow QAnon religiously. Listen as she reads a letter to a therapist about what it&#8217;s like to be seen as an &#8220;idiot&#8221; by her own family for rejecting the conspiracy theory.&#10;&#10;Producers: Melody Shih, Kelly Fynn, Zach Wasser, John General &#10;Supervising Producer: Logan Whiteside&#10;&#10;#CNN&#10;#News&#10;#QAnon"
+    channeltitle "CNN"
+    channelid "UCupvZG-5ko_eiXAupbDfxWw"
     favcount 0
-    viewcount 318
-    likecount 7
-    commentcount 2
-    duration "PT7M42S"
+    viewcount 195393
+    likecount 6171
+    commentcount 3481
+    duration "PT1M23S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 177
+    id 152
+    name "177"
     label "trB06rINhKI"
     step 0
     date "2021-01-21T19:13:06Z"
@@ -2926,12 +4580,23 @@ graph
     commentcount 3936
     duration "PT11M47S"
     indegree 41
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 10
   ]
   node
   [
-    id 178
+    id 153
+    name "178"
     label "Hs7UZ5y4L_8"
     step 0
     date "2021-11-03T20:30:02Z"
@@ -2945,12 +4610,23 @@ graph
     commentcount 168
     duration "PT3M26S"
     indegree 1
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 179
+    id 154
+    name "179"
     label "dz9oI7ugqRQ"
     step 0
     date "2022-02-02T01:13:51Z"
@@ -2964,12 +4640,23 @@ graph
     commentcount 65
     duration "PT2M17S"
     indegree 3
-    sentiment 1
-    cluster 6
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 180
+    id 155
+    name "180"
     label "8XsaFuEXRV4"
     step 0
     date "2020-09-02T22:00:01Z"
@@ -2983,12 +4670,23 @@ graph
     commentcount 11163
     duration "PT15M3S"
     indegree 12
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 181
+    id 156
+    name "181"
     label "GtSQvYlLweM"
     step 0
     date "2020-09-04T17:57:35Z"
@@ -3002,12 +4700,23 @@ graph
     commentcount 1615
     duration "PT3M11S"
     indegree 2
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 182
+    id 157
+    name "182"
     label "-4vb6UWhf3o"
     step 0
     date "2020-10-16T05:25:04Z"
@@ -3021,31 +4730,53 @@ graph
     commentcount 388
     duration "PT15M50S"
     indegree 14
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 3
   ]
   node
   [
-    id 184
-    label "agrl6P5mWT8"
+    id 158
+    name "183"
+    label "utNYSivVlJ4"
     step 0
-    date "2021-11-18T04:30:00Z"
-    title " Sentenced To 41 Months For Role In Jan. 6 Riots"
-    description "Jacob Chansely also known as the &#34;QAnon Shaman&#34; was sentenced to more than three years in prison for his role in the January 6th riots at the U.S. Capitol.&#160;NBC News' Pete Williams reports.&#10;&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://smart.link/5d0cd9df61b80&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;&#10;#QAnon #Jan6 #CapitolRiot"
-    channeltitle "NBC News"
-    channelid "UCeY0bbntWzzVIaj2z3QigXg"
+    date "2021-02-01T23:18:13Z"
+    title ""
+    description "Rep. Marjorie Taylor Greene was lampooned over the weekend on &#8220;Saturday Night Live.&#8221; Greene, who believes in the QAnon conspiracy theory, once posted on Facebook that the deadly 2018 California wildfires were started by Jewish space lasers &#8212; just one of the Georgia congresswoman&#8217;s bizarre beliefs spoofed by &#8220;SNL&#8221; cast member Cecily Strong. Greene also reportedly believes that the school shooting at Stoneman Douglas High School in Parkland, Florida, in which 17 were killed, was faked. It was not. #InsideEdition"
+    channeltitle "Inside Edition"
+    channelid "UC9k-yiEpRHMNVOnOi_aQK8w"
     favcount 0
-    viewcount 52950
-    likecount 554
-    commentcount 1075
-    duration "PT2M23S"
-    indegree 5
-    sentiment 1
-    cluster 4
+    viewcount 100985
+    likecount 2252
+    commentcount 451
+    duration "PT3M6S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 3
   ]
   node
   [
-    id 185
+    id 159
+    name "185"
     label "wYDMTCqZ0XU"
     step 0
     date "2021-02-08T16:01:56Z"
@@ -3059,12 +4790,23 @@ graph
     commentcount 6570
     duration "PT7M42S"
     indegree 4
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 186
+    id 160
+    name "186"
     label "isucCrzOh3M"
     step 0
     date "2021-12-30T16:04:08Z"
@@ -3078,31 +4820,53 @@ graph
     commentcount 22
     duration "PT1M14S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 188
-    label "d-IZwugU6NE"
+    id 161
+    name "187"
+    label "IvCDqvthiCo"
     step 0
-    date "2021-06-16T01:15:02Z"
-    title "Did the PM try to keep his ties with a QAnon supporter secret? | 7.30"
-    description "This week, Four Corners aired an episode detailing links between Prime Minister Scott Morrison and a man who supports QAnon - a group the FBI considers has the potential for domestic terrorism. The report detailed concerns about the radicalisation of Tim Stewart, who is a close friend of the PM and whose wife Lynelle worked at Kirribilli House.&#10;&#10;Among the revelations were that the Stewarts were due to be on the PM&#8217;s controversial Hawaii holiday and a claim of influence over Prime Minister. Chief political correspondent Laura Tingle reports.&#10;&#10;Subscribe: http://ab.co/1svxLVE  &#10;&#10;ABC News provides around the clock coverage of news events as they break in Australia and abroad, including the latest coronavirus pandemic updates. It's news when you want it, from Australia's most trusted news organisation.&#10;&#10;For more from ABC News, click here: https://ab.co/2kxYCZY&#10;Watch more ABC News content ad-free on iview: https://ab.co/2OB7Mk1&#10;&#10;Go deeper on our ABC News In-depth channel: https://ab.co/2lNeBn2&#10;Like ABC News on Facebook: http://facebook.com/abcnews.au&#10;Follow ABC News on Instagram: http://instagram.com/abcnews_au&#10;Follow ABC News on Twitter: http://twitter.com/abcnews&#10;&#10;#ABCNews #ABCNewsAustralia"
-    channeltitle "ABC News (Australia)"
-    channelid "UCVgO39Bk5sMo66-6o6Spn6Q"
+    date "2021-06-18T22:00:07Z"
+    title "What Is QAnon: When Social Media Conspiracies Spark Real Violence | Bad Influence"
+    description "What Is QAnon? How did the movement that began with a sick joke end in a deadly riot at our nation&#8217;s Capitol? Here&#8217;s how the social media echo chamber brought QAnon to life.&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/KnowThis&#10;&#10;For more on the dark side of the internet, check out &#8216;Onision in Real Life&#8217; exclusively on discovery+.&#10;&#10;For more episodes of Bad Influence, subscribe to NowThis News.&#10;&#10;#QAnon #MarjorieTaylorGreene #Pizzagate #Trump #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
+    channeltitle "NowThis News"
+    channelid "UCn4sPeUomNGIr26bElVdDYg"
     favcount 0
-    viewcount 6980
-    likecount 226
-    commentcount -1
-    duration "PT7M8S"
-    indegree 1
-    sentiment 1
-    cluster 2
+    viewcount 49639
+    likecount 1444
+    commentcount 883
+    duration "PT12M33S"
+    indegree 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 189
+    id 162
+    name "189"
     label "PkvDJm_4Pjo"
     step 0
     date "2021-05-11T18:57:19Z"
@@ -3116,31 +4880,53 @@ graph
     commentcount 57
     duration "PT4M28S"
     indegree 5
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 5
+  ]
+  node
+  [
+    id 163
+    name "190"
+    label "uhibVl0m8FM"
+    step 0
+    date "2020-10-16T12:07:29Z"
+    title "Trump refuses to denounce QAnon, fields questions about health in combative town hall"
+    description "In his televised NBC News town hall in Miami, President Trump was combative as he faced tough questions on his handling of the coronavirus pandemic, his views on a conspiracy movement and his taxes. Nikole Killion reports."
+    channeltitle "CBS Mornings"
+    channelid "UC-SJ6nODDmufqBzPBwCvYvQ"
+    favcount 0
+    viewcount 310559
+    likecount 1961
+    commentcount 5373
+    duration "PT4M2S"
+    indegree 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 191
-    label "G-WCG_T9-bo"
-    step 0
-    date "2020-10-23T16:30:01Z"
-    title "Borat Learns About The  | Borat: Subsequent Moviefilm | Prime Video"
-    description "Borat is lucky enough to be taken in by &#34;two of America's greatest scientists&#34; where he learns about the dangers of the Democrats, how to kill the Coronavirus, and more!&#10;&#187; SUBSCRIBE: http://www.youtube.com/channel/UCwSIJCMWZC5GDM59wj7pMsg?sub_confirmation=1&#10;&#10;Get More Prime Video: &#10;Watch More: http://bit.ly/WatchPrimeVideoUKNow&#10;Facebook: http://bit.ly/PrimeVideoUKFacebook&#10;Twitter: http://bit.ly/PrimeVideoUKTwitter&#10;Instagram: http://bit.ly/PrimeVideoUKInstagram&#10;&#10;About Prime Video:&#10;Want to watch it now? We've got it. This week's newest movies, last night's TV shows, classic favourites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Over 150,000 movies and TV episodes, including thousands for Amazon Prime members at no additional cost."
-    channeltitle "Amazon Prime Video UK"
-    channelid "UCwSIJCMWZC5GDM59wj7pMsg"
-    favcount 0
-    viewcount 863064
-    likecount 12686
-    commentcount 1424
-    duration "PT6M29S"
-    indegree 4
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 192
+    id 164
+    name "192"
     label "J0yqUUTiYLI"
     step 0
     date "2022-05-22T22:00:05Z"
@@ -3154,12 +4940,23 @@ graph
     commentcount 1047
     duration "PT11M11S"
     indegree 13
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 193
+    id 165
+    name "193"
     label "VH9ukM11INY"
     step 0
     date "2021-11-19T02:42:41Z"
@@ -3173,12 +4970,23 @@ graph
     commentcount 2641
     duration "PT8M6S"
     indegree 8
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 194
+    id 166
+    name "194"
     label "4txKoYKYvHY"
     step 0
     date "2020-09-17T14:10:45Z"
@@ -3192,31 +5000,53 @@ graph
     commentcount 897
     duration "PT25M5S"
     indegree 55
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 8
+  ]
+  node
+  [
+    id 167
+    name "195"
+    label "WiM_VlEnFpw"
+    step 0
+    date "2020-12-20T00:59:45Z"
+    title "QAnon Lies Are Going Mainstream Thanks to Trump | NowThis"
+    description "QAnon lies are going mainstream faster than ever &#8212; all with the help of you know who. If you still don&#8217;t understand the threat QAnon poses to our democracy, watch this.&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/KnowThis&#10;&#10;For more U.S. politics, Trump news, and world news, subscribe to NowThis News.&#10;&#10;#QAnon #Trump #News #NowThis #NowThisNews&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
+    channeltitle "NowThis News"
+    channelid "UCn4sPeUomNGIr26bElVdDYg"
+    favcount 0
+    viewcount 72585
+    likecount 2692
+    commentcount 841
+    duration "PT4M16S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 198
-    label "nsF1HczPhxE"
-    step 0
-    date "2021-08-01T17:07:07Z"
-    title "Ethan Reacts to QAnon Conference | Channel 5"
-    description "WATCH US LIVE AT... https://www.twitch.tv/h3h3productions&#10;&#10;Original video...  https://youtu.be/KYKOLwt8pwo&#10;&#10;TEDDY FRESH...http://teddyfresh.com&#10;&#10;Follow us on Social Media:&#10;https://twitter.com/h3h3productions&#10;https://www.instagram.com/h3h3productions&#10;https://twitter.com/theh3podcast&#10;&#10;Follow Teddy Fresh Social Media:&#10;https://teddyfresh.com&#10;https://instagram.com/teddyfresh&#10;https://twitter.com/teddyfresh"
-    channeltitle "H3 Podcast Highlights"
-    channelid "UCZZHPXsg6LopvdOKF7qM6cQ"
-    favcount 0
-    viewcount 227293
-    likecount 5170
-    commentcount 614
-    duration "PT1H6S"
-    indegree 4
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 199
+    id 168
+    name "199"
     label "tpRVWeMsoaE"
     step 0
     date "2021-02-05T03:41:17Z"
@@ -3230,12 +5060,23 @@ graph
     commentcount 3863
     duration "PT6M44S"
     indegree 4
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 200
+    id 169
+    name "200"
     label "hcKWSqDbxUM"
     step 0
     date "2020-06-18T15:00:11Z"
@@ -3249,12 +5090,23 @@ graph
     commentcount 19938
     duration "PT17M54S"
     indegree 6
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
   ]
   node
   [
-    id 201
+    id 170
+    name "201"
     label "bRp_W-VGw5s"
     step 0
     date "2021-11-30T07:00:06Z"
@@ -3268,69 +5120,113 @@ graph
     commentcount 2151
     duration "PT6M44S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 11
   ]
   node
   [
-    id 203
-    label "lbZAJLeastk"
+    id 171
+    name "202"
+    label "indnwMwNF6w"
     step 0
-    date "2020-08-19T23:22:52Z"
-    title "Trump: QAnon theorists "
-    description "U.S. President Donald Trump on Wednesday said QAnon conspiracy believers like him and &#34;love our country,&#34; seeming to back the conspiracy group. (Aug. 19)&#13;&#10;&#13;&#10;Subscribe for more Breaking News: http://smarturl.it/AssociatedPress &#13;&#10;Website: https://apnews.com&#13;&#10;Twitter: https://twitter.com/AP&#13;&#10;Facebook: https://facebook.com/APNews&#13;&#10;Google+: https://plus.google.com/115892241801867723374&#13;&#10;Instagram: https://www.instagram.com/APNews/&#13;&#10;&#8203;&#13;&#10;&#13;&#10;You can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/c1acf0e9f05044eea886192e3f230d64"
-    channeltitle "Associated Press"
-    channelid "UC52X5wxOL_s5yw0dQk7NtgA"
+    date "2022-01-23T07:19:30Z"
+    title "MacGruber: Coronavirus - SNL"
+    description "MacGruber (Will Forte) attempts to diffuse a bomb with the help of Vicki (Kristen Wiig) and Piper (Ryan Phillippe), but becomes distracted by his views on COVID, vaccines and right-wing conspiracies.&#10;&#10;Saturday Night Live. Stream now on Peacock: https://pck.tv/3uQxh4q&#10;&#10;Subscribe to SNL: https://goo.gl/tUsXwM&#10;Stream Current Full Episodes: http://www.nbc.com/saturday-night-live&#10;&#10;WATCH PAST SNL SEASONS&#10;Google Play - http://bit.ly/SNLGooglePlay&#10;iTunes - http://bit.ly/SNLiTunes&#10;&#10;SNL ON SOCIAL&#10;SNL Instagram: http://instagram.com/nbcsnl&#10;SNL Facebook: https://www.facebook.com/snl&#10;SNL Twitter: https://twitter.com/nbcsnl&#10;SNL TikTok: https://www.tiktok.com/@nbcsnl&#10;&#10;GET MORE NBC&#10;Like NBC: http://Facebook.com/NBC&#10;Follow NBC: http://Twitter.com/NBC&#10;NBC Tumblr: http://NBCtv.tumblr.com/&#10;YouTube: http://www.youtube.com/nbc&#10;NBC Instagram: http://instagram.com/nbc&#10;&#10;#SNL #WillForte #M&#229;neskin #SNL47"
+    channeltitle "Saturday Night Live"
+    channelid "UCqFzWxSCi39LnW1JKFR3efg"
     favcount 0
-    viewcount 6908
-    likecount 96
-    commentcount 50
-    duration "PT1M32S"
-    indegree 4
-    sentiment 1
-    cluster 1
+    viewcount 2676505
+    likecount 46538
+    commentcount 3731
+    duration "PT6M41S"
+    indegree 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 205
-    label "vwV-rqMmQtE"
+    id 172
+    name "204"
+    label "3cNmMygIcX0"
     step 0
-    date "2021-11-24T13:47:28Z"
-    title "QAnon Exposed By Journalist Cullen Hoback - HBO Documentary"
-    description "Patrick Bet-David sits down with Cullen Hoback. Cullen James Hoback is an American filmmaker, film producer and director.  Let Cullen know your thoughts on the interview here: https://bit.ly/3xihmgR&#10;&#10;Recommended videos: &#10;- Alex Jones &#8220;I&#8217;m Ready to Die&#8221; - Exclusive Interview After Being Banned: https://youtu.be/xvqdhphHrh0&#10;&#10;Check out Official Valuetainment Merch here: https://vtmerch.com/&#10;&#10;Reach Cullen Here:&#10;Twitter: https://bit.ly/3xihmgR&#10;&#10;About Guest:&#10;Cullen James Hoback is an American filmmaker, film producer and director. He is also an occasional columnist and speaker. His documentary films include Monster Camp (2007), Terms and Conditions May Apply (2013), and What Lies Upstream (2018), as well as the HBO mini-series Q: Into the Storm (2021). His documentary style has been described as non-fiction horror with a comedic tone. He appears on-camera as a central character in Terms and Conditions May Apply and What Lies Upstream. Following the release of Terms and Conditions May Apply, Hoback has written op-eds for many journals including The Guardian, presented as faculty at The American Bar Association Section of Antitrust Law Spring Meeting, and has appeared as a privacy expert on networks and shows including MSNBC, CNN, NPR, Huffington Post, Stossel, and The Young Turks.&#10;Hoback has been overtly critical of the relationship between corporations and the government, and how they've been complicit in the surveillance system. On December 25, 2013, Cullen Hoback and Ondi Timoner released a lengthy conversation about how the surveillance situation has evolved since her film, We Live in Public. In an interview with The Guardian earlier that month in December 2013, Hoback commented that whistleblower Edward Snowden should be granted immunity by the US government.&#10;&#10;Music selection used through agreement with Epidemic Sound http://bit.ly/2B8DxK1&#10;&#10;Make sure to subscribe to Valuetainment for the updates: http://bit.ly/2aPEwD4&#10;&#10;About Valuetainment: &#10;Founded in 2012 by Patrick Bet-David, our goal is to impact entrepreneurs around the world through value and entertainment. We are the #1 channel for entrepreneurs because of the best interviews, best how to videos, best case studies and because we defend capitalism and educate entrepreneurs. &#10;&#10;Follow Patrick on social media:&#10;Website: http://www.patrickbetdavid.com&#10;Facebook: https://www.facebook.com/PatrickBetDavid.Valuetainment/&#10;Instagram:https://www.instagram.com/patrickbetdavid&#10;Twitter:https://twitter.com/patrickbetdavid&#10;LinkedIn: https://www.linkedin.com/in/patrick-bet-david-3731553&#10;&#10;To reach the Valuetainment team, you can email: info@valuetainment.com&#10;&#10;#PatrickBetDavid #Valuetainment"
-    channeltitle "Valuetainment"
-    channelid "UCIHdDJ0tjn_3j-FS7s_X1kQ"
+    date "2021-07-06T14:35:33Z"
+    title "The Great Awakening: QAnon | Available Now"
+    description "The Great Awakening: QAnon: Formed in the dark corners of the internet, far right conspiracy group QAnon has now gone global. With more people joining since the COVID-19 epidemic, it has made its way to the top of Australian politics.&#10;&#10;Watch now:&#10;iTunes: https://itunes.apple.com/us/movie/the-great-awakening/id1584314297&#10;Google Play: https://play.google.com/store/movies/details?id=C8TuT4zhLz4.P&#38;sticky_source_country=US&#38;gl=US&#38;hl=en&#10;Vimeo: https://vimeo.com/ondemand/thegreatawakeningqanon2&#10;&#10;Subscribe to Journeyman here: http://www.youtube.com/subscription_center?add_user=journeymanpictures&#10;&#10;QAnon has mobilised a global band of believers dedicated to fighting what they claim is a war against child abusing elites. &#8217;It was clear to me in late 2018 and early 2019, that these conspiracy theory trends like QAnon were a danger to the country&#8217;, says Miles Taylor, former Chief of Staff to the US Department of Homeland Security. In Australia, it tore apart the Stewart family, after Tim Stewart rose through the ranks of QAnon. His sister says: &#8217;They talk about saving the children. But I was that child, I was once the child that they claim they&#8217;re saving. My life is the worse for having QAnon in it. &#8217;. Tim Stewart&#8217;s close relationship with Prime Minister Scott Morrison may even have influenced Morrison&#8217;s decision to include the words &#8216;ritual abuse&#8217; in a parliamentary speech, a phrase used by the Q community. However he counters the allegation - &#8216;I find it deeply offensive that there would be any suggestion that I would have any involvement or support for such a dangerous organisation&#8217;.&#10;&#10;For more information, visit https://www.journeyman.tv/film/8100&#10;&#10;Like us on Facebook: https://www.facebook.com/journeymanpictures&#10;Follow us on Twitter: &#10;https://twitter.com/JourneymanNews&#10;https://twitter.com/JourneymanVOD&#10;Follow us on Instagram: https://instagram.com/journeymanpictures&#10;Visit our subreddit: https://www.reddit.com/r/JourneymanPictures/&#10;&#10;ABC Australia &#8211; Ref. 8100"
+    channeltitle "Journeyman Pictures"
+    channelid "UCM2YmsRUeIbRkqjgNm0eTGQ"
     favcount 0
-    viewcount 53413
-    likecount 1427
-    commentcount 1156
-    duration "PT58M56S"
+    viewcount 24661
+    likecount 309
+    commentcount 307
+    duration "PT2M49S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 207
-    label "dPKkBk_xpbs"
+    id 173
+    name "206"
+    label "QMb6f9EeBWs"
     step 0
-    date "2022-05-01T22:00:21Z"
-    title "QAnon Followers Have A Scary New Obsession"
-    description "QAnon followers have started to change their tune on Elon Musk following his Twitter buyout and now want to essentially turn him into a Q god by decoding his tweets. John Iadarola and Ana Kasparian break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;QAnon believers&#8217; newest obsession? Decoding Elon Musk&#8217;s tweets - https://www.dailydot.com/debug/qanon-believers-newest-obsession-decoding-elon-musks-tweets/&#10;&#10;&#34;Supporters of the QAnon conspiracy theory are now analyzing tweets from Tesla CEO Elon Musk in an apparent effort to find secret messages.&#10;&#10;After Musk announced on Monday his intentions to purchase Twitter for $44 billion, users on the platform responded with a wide range of reactions.&#10;&#10;Right-wing users, who believe that Musk will usher in a golden era of &#8220;free speech,&#8221; largely celebrated the news. Many left-wing users, however, argued that the planned acquisition would lead to an increase in misinformation and other issues.&#34;&#10;&#10;**&#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
+    date "2022-07-03T21:00:07Z"
+    title "Marjorie Greene Peddles Mind Blowing QAnon Conspiracy"
+    description "Marjorie Greene is now pushing a whacked-out conspiracy on Twitter about climate change and our food supply also pushed by QAnon supporters. and Francesca Fiorentini and Erin Ryan break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;Marjorie Taylor Greene sums up the GOP's cognitive dissonance on climate change in a single tweet - https://www.alternet.org/2022/06/majorie-taylor-greene-climate-change/&#10;&#10;&#34;The consequences of anthropomorphic climate change, due to the carbon dioxide and methane waste produced by humanity's relentless burning of fossil fuels, are becoming more pronounced with each passing year. Record heat waves, extreme cold, prolonged droughts, powerful storms, torrential precipitation, crop failures, wildfires, melting ice caps, sea-level rise, and biodiversity loss are all symptoms of modern civilization's seemingly unbreakable addiction to oil. The data, according to the planet's scientists, is as irrefutable as the most successful scientific theories like the Standard Model of Particle Physics and Quantum Mechanics.&#10;&#10;That conclusion is not limited to academia, however. Last year, the office of the Director of National Intelligence published a 27-page report outlining in no uncertain terms the risks that climate change poses to the security of the United States and beyond.&#10; &#10;&#34;We assess that climate change will increasingly exacerbate risks to US national security interests as the physical impacts increase and geopolitical tensions mount about how to respond to the challenge,&#34; the document's opening brief states.&#34;&#10;&#10;Watch Francesca on The Bitchuation Room Sundays at 5/8EST http://www.youtube.com/franifio &#10;&#10;Follow Francesca: http://www.twitter.com/franifio &#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
     channeltitle "The Damage Report"
     channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
     favcount 0
-    viewcount 163214
-    likecount 4642
-    commentcount 1230
-    duration "PT7M5S"
-    indegree 13
-    sentiment 1
-    cluster 7
+    viewcount 66588
+    likecount 2860
+    commentcount 909
+    duration "PT6M45S"
+    indegree 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 208
+    id 174
+    name "208"
     label "ZwfOZB9IWx0"
     step 0
     date "2020-05-27T17:19:15Z"
@@ -3344,31 +5240,53 @@ graph
     commentcount 1849
     duration "PT8M27S"
     indegree 1
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 7
   ]
   node
   [
-    id 210
-    label "KPSu-Jolq4Y"
+    id 175
+    name "209"
+    label "uul5qjtDzEk"
     step 0
-    date "2020-11-10T16:08:40Z"
-    title "Unmasking QAnons Wall Street Evangelist"
-    description "A Citigroup senior vice president was recently shown to be the man behind the biggest aggregator of posts tied to QAnon, a far-right hodgepodge of outlandish conspiracy theories. So a Bloomberg reporter rented a car and drove to his house in New Jersey to ask him a few questions. &#10;&#10;Read William Turton and Joshua Brustein's full feature article in Bloomberg Businessweek:&#10;https://www.bloomberg.com/news/features/2020-10-07/who-is-qanon-evangelist-qmap-creator-and-former-citigroup-exec-jason-gelinas&#10;&#10;#Qanon #BloombergQuicktake #Storylines&#10;--------&#10;Like this video? Subscribe: http://www.youtube.com/Bloomberg?sub_confirmation=1&#10;Become a Quicktake Member for exclusive perks: http://www.youtube.com/bloomberg/join&#10;&#10;QuickTake Originals is Bloomberg's official premium video channel. We bring you insights and analysis from business, science, and technology experts who are shaping our future. We&#8217;re home to Hello World, Giant Leap, Storylines, and the series powering CityLab, Bloomberg Businessweek, Bloomberg Green, and much more.&#10;&#10;Subscribe for business news, but not as you've known it: exclusive interviews, fascinating profiles, data-driven analysis, and the latest in tech innovation from around the world.&#10;&#10;Visit our partner channel QuickTake News for breaking global news and insight in an instant."
-    channeltitle "Bloomberg Quicktake: Originals"
-    channelid "UCUMZ7gohGI9HcU9VNsr2FJQ"
+    date "2022-03-24T00:30:08Z"
+    title "Historic: Judge Jackson Sailing Toward Confirmation Amidst GOP Shouting  QAnon Conspiracies"
+    description "Senators questioned Judge Ketanji Brown Jackson for the final time in her confirmation process Wednesday. Jackson appeared calm and poised while Republicans lodged debunked claims and misleading rhetoric about her sentences in child pornography cases in an attempt to frame her as soft on crime. MSNBC&#8217;s Chief Legal Correspondent Ari Melber is joined by The Nation&#8217;s Elie Mystal to discuss the striking rhetoric Republicans employed in this round of the SCOTUS hearings.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#MSNBC #GOP #KetanjiBrownJackson"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
     favcount 0
-    viewcount 542160
-    likecount 8371
-    commentcount 1854
-    duration "PT12M37S"
-    indegree 21
-    sentiment 1
+    viewcount 88402
+    likecount 2237
+    commentcount 859
+    duration "PT6M40S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 211
+    id 176
+    name "211"
     label "9R5TvLCsN-E"
     step 0
     date "2020-08-04T05:41:52Z"
@@ -3382,31 +5300,53 @@ graph
     commentcount -1
     duration "PT16M27S"
     indegree 13
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 213
-    label "0tCYt4VteJU"
+    id 177
+    name "212"
+    label "M-0pk1MuWao"
     step 0
-    date "2022-03-26T07:30:00Z"
-    title "Im Verhrer | SPIEGEL TV"
-    description "&#34;Putin, Putin, Putin&#34;, rufen die Protestler vor der russischen Botschaft bei einer der gro&#223;en Corona-Demos in Berlin. Darunter auch einige Anh&#228;nger der QAnon-Verschw&#246;rungsideologie. In dieser Episode von &#34;Im Verh&#246;r&#34; sprechen wir &#252;ber die Rolle Putins und Trumps, was Xavier Naidoo damit zu tun hat und wer der mysteri&#246;se &#34;Q&#34; eigentlich ist.&#10;&#10;00:00 Was ist QAnon?&#10;03:55 Wer ist &#34;Q&#34;?&#10;11:21 Die Rolle von Wladimir Putin&#10;14:49 Die &#34;Friedensfahrzeuge&#34;&#10;16:55 Die Bedeutung von &#34;Telegram&#34; f&#252;r die Verschw&#246;rer-Szene&#10;25:04 Treffen mit einem QAnon-Anh&#228;nger&#10;29:28 Donald Trump als Kandidat f&#252;r den Umsturz&#10;35:14 QAnon und der AfD-Politiker&#10;38:47 Wilde Verschw&#246;rungstheorien im Internet&#10;42:25 Ist Trump doch nicht der &#34;Erl&#246;ser&#34;"
-    channeltitle "DER SPIEGEL"
-    channelid "UC1w6pNGiiLdZgyNpXUnA4Zw"
+    date "2022-02-22T15:00:21Z"
+    title "Qanon / Mytho-thories - Info ou Mytho"
+    description "c'est bien mignon de croire en la Terre plate, le 11 septembre, les Illuminati ou les francs-ma&#231;ons, mais avez-vous essay&#233; de combiner toutes les th&#233;ories du complot qui existent ? C'est un peu le boss final du game, plus fort que les sc&#233;naristes de South Park, j'ai nomm&#233; : QAnon ! &#10;----------------&#10;Sources :&#10;Adr&#233;nochrome &#10;https://factuel.afp.com/ladrenochrome-drogue-la-plus-puissante-du-monde-recoltee-sur-des-humains-cest-faux&#10;https://fr.wikipedia.org/wiki/QAnon&#10;&#10;Messages de Q sur 4chan : https://archive.4plebs.org/pol/search/uid/BQ7V3bcW%20/order/asc/ &#10;https://www.franceculture.fr/societe/nouveau-podcast-original-mecaniques-du-complotisme-saison-10-qanon-le-complotisme-dun-nouveau-genre&#10;https://information.tv5monde.com/info/qanon-le-mouvement-complotiste-la-conquete-des-esprits-en-europe-391522 &#10;https://www.youtube.com/watch?v=8Ddm66dmeNg &#10;&#10;----------------&#10;Mytho-th&#233;ories, c'est un retour aux origines des th&#233;ories du complot les plus connues, racont&#233; avec humour par Valentine Delattre de @Science de comptoir &#10;----------------&#10;Info ou Mytho ?, c'est la cha&#238;ne d'esprit critique pour les ados... et les plus grands : biais cognitifs, th&#233;ories du complot, &#233;ducation aux m&#233;dias et &#224; l'information, cons&#233;quences des fake news dans l'actu, interviews de youtubeurs luttant contre la d&#233;sinformation, etc."
+    channeltitle "Info ou Mytho ? "
+    channelid "UCLmlUMA_bGiMWWgfDwfNDgw"
     favcount 0
-    viewcount 570051
-    likecount 7271
-    commentcount 3734
-    duration "PT53M15S"
-    indegree 4
-    sentiment 1
-    cluster 10
+    viewcount 47959
+    likecount 3504
+    commentcount 346
+    duration "PT8M7S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 214
+    id 178
+    name "214"
     label "7LsYUfWL1Do"
     step 0
     date "2022-04-23T15:24:04Z"
@@ -3420,12 +5360,23 @@ graph
     commentcount 359
     duration "PT53S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 215
+    id 179
+    name "215"
     label "Y27t-yWgjGk"
     step 0
     date "2020-10-17T21:30:09Z"
@@ -3439,31 +5390,53 @@ graph
     commentcount 799
     duration "PT7M31S"
     indegree 2
-    sentiment 1
-    cluster 11
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 219
-    label "oo3g6-JXGKk"
+    id 180
+    name "216"
+    label "9YP5LBhiwL4"
     step 0
-    date "2020-10-17T09:05:47Z"
-    title "Waarom QAnon niet zomaar een complottheorie is"
-    description "Facebook en YouTube hebben besloten dat het genoeg is: de samenzweringstheorie&#235;n van QAnon worden vanaf nu van de platforms verwijderd.&#10;&#10;Rondom de complottheorie hangt een zweem van mysterie. Niemand weet wie achter de beweging zit. Aanhangers geloven onder meer dat de Amerikaanse president Trump in het geheim strijdt tegen de deep state: een mondiale elite die uit zou zijn op een wereldregering en zich ook schuldig maakt aan kindermisbruik. Uit een onderzoek blijkt dat &#233;&#233;n op de drie Republikeinen in de VS erin gelooft.&#10;&#10;Maar ook hier krijgt de theorie voet aan de grond. Ook Nederlandse politici flirten met het gedachtengoed en retweeten QAnon-accounts. Is de complottheorie die uit Amerika is overgewaaid alleen maar bizar of ook gevaarlijk? Moeten we de theorie&#235;n de kop in drukken? En zo ja, zijn we niet al te laat?&#10;&#10;Verslaggever Rudy Bouma volgt al jaren het nieuws over desinformatie. Hij legt uit waarom QAnon niet zomaar een complottheorie is.&#10;&#10;#QAnon #complottheorie #desinformatie&#10;&#10;**************************************************************************** &#10;Vond je dit een goed verhaal? Doe dan een duimpje omhoog en abonneer je op dit kanaal. &#10;&#10;Wil je elke dag verhalen bij het nieuws? Volg ons dan ook op Instagram: https://www.instagram.com/nieuwsuur/"
-    channeltitle "Nieuwsuur"
-    channelid "UCExcZNwh_3Mwm4fF4VSiu2w"
+    date "2020-08-20T21:00:02Z"
+    title "Trump Praises QAnon:  | NowThis"
+    description "'I don't know really anything about it other than they do supposedly like me' &#8212; Here's how Pres. Trump responded to a question about QAnon conspiracy theorists.&#10;&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/KnowThis&#10;&#10;In US news and current events today, President Trump, QAnon protagonist, has seemingly endorsed the dangerous lunacy of the Q Anon conspiracy theory. When a reporter asked President Donald Trump, QAnon seemed to be something he was unfamiliar with but supportive of. For Donald J. Trump, QAnon a useful distraction, for the rest of America, it is a dangerous conspiracy theory that is bordering on a cult.&#10;&#10;#Trump #Conspiracies #QAnon #News #NowThis #NowThisNews&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
+    channeltitle "NowThis News"
+    channelid "UCn4sPeUomNGIr26bElVdDYg"
     favcount 0
-    viewcount 371001
-    likecount 3846
-    commentcount 3590
-    duration "PT12M7S"
-    indegree 2
-    sentiment 1
-    cluster 9
+    viewcount 32064
+    likecount 620
+    commentcount 386
+    duration "PT5M14S"
+    indegree 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 220
+    id 181
+    name "220"
     label "8dEmoV0g-Aw"
     step 0
     date "2021-01-22T01:17:22Z"
@@ -3477,12 +5450,23 @@ graph
     commentcount 2556
     duration "PT32S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 221
+    id 182
+    name "221"
     label "GcL1ztrN42A"
     step 0
     date "2021-11-18T04:36:06Z"
@@ -3496,12 +5480,23 @@ graph
     commentcount 171
     duration "PT4M1S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 222
+    id 183
+    name "222"
     label "CeVqt1Umiko"
     step 0
     date "2021-01-30T20:55:14Z"
@@ -3515,12 +5510,23 @@ graph
     commentcount 2249
     duration "PT9M12S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 223
+    id 184
+    name "223"
     label "k7dK3Qd4Xsg"
     step 0
     date "2021-12-17T20:59:50Z"
@@ -3534,12 +5540,23 @@ graph
     commentcount 98
     duration "PT5M56S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 224
+    id 185
+    name "224"
     label "MSs5PsapMYY"
     step 0
     date "2021-02-03T23:18:14Z"
@@ -3553,12 +5570,23 @@ graph
     commentcount 64
     duration "PT4M12S"
     indegree 2
-    sentiment 1
-    cluster 11
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 225
+    id 186
+    name "225"
     label "TCs-nVQcn5g"
     step 0
     date "2022-05-10T20:38:40Z"
@@ -3572,31 +5600,53 @@ graph
     commentcount 663
     duration "PT5M46S"
     indegree 1
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
+  ]
+  node
+  [
+    id 187
+    name "226"
+    label "eAiTFdiCeuM"
+    step 0
+    date "2021-11-03T16:35:01Z"
+    title "QAnon followers flocked to Dallas for  of JFK Jr."
+    description "Hundreds of people who believe in the right-wing conspiracy theory QAnon gathered in downtown Dallas on Tuesday in the hopes of seeing John F. Kennedy Jr. &#8212; a man who died more than two decades ago &#8212; reappear and issue support for former President Donald Trump."
+    channeltitle "Scripps National News"
+    channelid "UCUpOuPgelzb38Q5osGTopdQ"
+    favcount 0
+    viewcount 3236
+    likecount 18
+    commentcount 35
+    duration "PT1M4S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 228
-    label "itpMqWZdNC8"
-    step 0
-    date "2021-03-04T23:07:18Z"
-    title "QAnon Shaman Says His Actions Were Not an Attack on the US"
-    description "The &#34;QAnon Shaman,&#34; speaking from jail, told a 60 Minutes+ reporter during an exclusive interview that he did not believe his attacks on the U.S. Capitol were an attack on the country. Jacob Chansley was one of the nearly 300 rioters who were charged following the Jan. 6 siege on the capitol that forced the entire U.S. Senate to go into hiding. Chansley faces up to 20 years in prison, if he is convicted. He will appear Friday before a judge who will determine whether he is released pending trial. #InsideEdition"
-    channeltitle "Inside Edition"
-    channelid "UC9k-yiEpRHMNVOnOi_aQK8w"
-    favcount 0
-    viewcount 287542
-    likecount 10659
-    commentcount 2499
-    duration "PT2M52S"
-    indegree 10
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 229
+    id 188
+    name "229"
     label "y-w6caES8Fs"
     step 0
     date "2020-02-26T09:09:24Z"
@@ -3610,12 +5660,23 @@ graph
     commentcount 1238
     duration "PT7M5S"
     indegree 2
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 230
+    id 189
+    name "230"
     label "6cHMzWTBDxU"
     step 0
     date "2021-01-10T15:46:21Z"
@@ -3629,12 +5690,23 @@ graph
     commentcount 373
     duration "PT1M12S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 231
+    id 190
+    name "231"
     label "JHfA_1bey0A"
     step 0
     date "2021-02-22T23:36:27Z"
@@ -3648,31 +5720,53 @@ graph
     commentcount -1
     duration "PT2M42S"
     indegree 2
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
+  ]
+  node
+  [
+    id 191
+    name "232"
+    label "o0qW954JGJo"
+    step 0
+    date "2022-07-12T12:00:28Z"
+    title "The Shady Side Of Jesse Watters"
+    description "This FOX News talking-head believes Obama brought Ebola to America, but he also spent $500 on his campaign. Jesse Watters makes many eyebrow-raising comments, especially about Dr. Fauci. What other shady things has Jesse Watters done? Here's what you need to know.&#10;&#10;#JesseWatters #FoxNews #Fauci &#10;&#10;Accused of harassing journalist | 0:00&#10;Went after Dr. George Tiller | 1:33&#10;Donated to Obama's campaign? | 2:37&#10;Insulted unhoused people | 3:54&#10;Islamophobic remarks | 5:04&#10;Ivanka Trump comments | 5:56&#10;Seemed to praise QAnon | 6:55&#10;Said 'ambush' Dr. Fauci | 7:58&#10;Affair with coworker | 9:22&#10;&#10;Read full article: https://www.nickiswift.com/831754/the-shady-side-of-jesse-watters/"
+    channeltitle "Nicki Swift"
+    channelid "UC1DGpYiEiqBrQtYXFbLhMVQ"
+    favcount 0
+    viewcount 4654
+    likecount 133
+    commentcount 93
+    duration "PT10M34S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 234
-    label "cR00neuasbU"
-    step 0
-    date "2022-04-24T15:00:31Z"
-    title "QAnon Followers re Fools"
-    description "QAnon followers have new conspiracies and question whether Donald Trump understands the big plan. John Iadarola and Jayar Jackson break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;Radio host Stew Peters&#8217; &#8216;Watch the Water&#8217; film ridiculously claims COVID-19 is snake venom - https://www.poynter.org/fact-checking/2022/radio-host-stew-peters-watch-the-water-film-ridiculously-claims-covid-19-is-snake-venom/&#10;&#10;&#34;A new anti-vaccine documentary ridiculously claims that the coronavirus is not a virus, but a synthetic version of snake venom that evil forces are spreading through remdesivir, the mRNA COVID-19 vaccines and drinking water to &#8220;make you a hybrid of Satan.&#8221;&#10;&#10;The 48-minute film, released April 11, is the latest in an expanding genre of mega-viral, conspiracy-laden videos made in the mold of the &#8220;Plandemic&#8221; video from May 2020. Its title, &#8220;Watch the Water,&#8221; is a nod to a favorite refrain of the QAnon conspiracy theory, which is centered around the belief that a secret cabal of Satan-worshipping pedophiles is running a global sex-trafficking ring.&#34;&#10;&#10;**&#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
-    channeltitle "The Damage Report"
-    channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
-    favcount 0
-    viewcount 214331
-    likecount 5898
-    commentcount 1881
-    duration "PT4M20S"
-    indegree 3
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 235
+    id 192
+    name "235"
     label "MBKolZ7Fb8Y"
     step 0
     date "2021-06-03T06:41:41Z"
@@ -3686,31 +5780,53 @@ graph
     commentcount 8
     duration "PT3M17S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 237
-    label "tJgwZa3IxPw"
+    id 193
+    name "236"
+    label "C6kisopf54M"
     step 0
-    date "2021-02-03T17:30:03Z"
-    title "Explaining Qanon: The Bad, The Ugly, and the Headaches | Corporate Casket"
-    description "Go to http://mintmobile.com/casket to get your new wireless plan for just $15 a month and free shipping!&#10;&#10;Welcome to the Corporate Casket, a weekly series where bad businesses go to die. &#10;&#10;Connect with me: https://linktr.ee/iilluminaughtii&#10;Sources: https://pastebin.com/hRLeF3A5&#10;&#10;Writers/Researchers/Helpers:&#10;Ali Zagame&#10;&#10;This episode's audio was mixed by:&#10;G. Thomas Craig &#10;&#10;Artists:&#10;Sprites made by https://plegberb.tumblr.com/&#10;&#10;Outro song is Cake by Retrovision&#10;&#10;You made it all the way to the bottom of my description box so, hello there.&#10;&#10;#iilluminaughtii #qanon #conspiracy"
-    channeltitle "iilluminaughtii"
-    channelid "UCpDmn2FfVYdPIDwRTcf5-OA"
+    date "2021-12-30T15:22:48Z"
+    title "The Cult of Conspiracy: QAnon | Trailer | BBC Select"
+    description "In this compelling political documentary on BBC Select, the conspiracy theories of the online group QAnon are revealed and explored. It follows the people at the forefront of the conspiracy movement and asks who exactly is steering it and what their motivations might be.&#10;&#10;Stream The Cult of Conspiracy: QAnon in the US &#38; Canada by visiting Amazon Prime Video, Apple TV &#38; The Roku Channel:&#10;&#10;Prime Video Channels:&#10;US: https://www.amazon.com/The-Cult-Of-Conspiracy-QAnon/dp/B09PFJ518K&#10;&#10;Apple TV US: https://tv.apple.com/us/show/the-cult-of-conspiracy-qanon/umc.cmc.51dwihbcrf4tsj3ramcts5qvr?itsct=tv_box_link&#38;itscg=30200 &#10;&#10;Apple TV CA: https://tv.apple.com/ca/show/the-cult-of-conspiracy-qanon/umc.cmc.51dwihbcrf4tsj3ramcts5qvr?itsct=tv_box_link&#38;itscg=30200&#10;&#10;BBC Select is the new home for documentaries. Available in the U.S and Canada. Find out more and start your free trial: https://bit.ly/3kwM3bU&#10;&#10;Follow us on social media &#128242;&#128187;&#10;Facebook: https://bit.ly/37UXpBn &#10;Twitter: https://bit.ly/3dSUqxc&#10;Instagram: https://bit.ly/3uEVieL"
+    channeltitle "BBC Select"
+    channelid "UCMTx_OGd-g4dVvhRKVUu9aQ"
     favcount 0
-    viewcount 324673
-    likecount 19341
-    commentcount 3407
-    duration "PT39M1S"
-    indegree 2
-    sentiment 1
-    cluster 2
+    viewcount 89755
+    likecount 52
+    commentcount 20
+    duration "PT1M29S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 238
+    id 194
+    name "238"
     label "rG5WbN_0z2M"
     step 0
     date "2020-09-10T19:00:12Z"
@@ -3724,12 +5840,23 @@ graph
     commentcount -1
     duration "PT42M32S"
     indegree 9
-    sentiment 1
-    cluster 11
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 239
+    id 195
+    name "239"
     label "XQ1cJrGXe2k"
     step 0
     date "2021-03-10T14:25:35Z"
@@ -3743,12 +5870,23 @@ graph
     commentcount -1
     duration "PT30M48S"
     indegree 3
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 240
+    id 196
+    name "240"
     label "pBEH8appK-Q"
     step 0
     date "2021-06-14T17:29:26Z"
@@ -3762,12 +5900,23 @@ graph
     commentcount 18
     duration "PT3M43S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 241
+    id 197
+    name "241"
     label "xqeIRi3XDo8"
     step 0
     date "2021-02-18T19:15:02Z"
@@ -3781,12 +5930,23 @@ graph
     commentcount -1
     duration "PT2M13S"
     indegree 2
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 242
+    id 198
+    name "242"
     label "2ut4HYHkLjQ"
     step 0
     date "2022-04-30T05:00:01Z"
@@ -3800,31 +5960,53 @@ graph
     commentcount 1335
     duration "PT9M15S"
     indegree 18
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 11
   ]
   node
   [
-    id 244
-    label "TQA6Z_g8gdw"
+    id 199
+    name "243"
+    label "MvjEB9-nxp4"
     step 0
-    date "2022-05-11T05:45:01Z"
-    title "Alex Jones TRIGGERED By QAnon Supporter Live On Air"
-    description "Notorious conspiracy theorist Alex Jones has had enough of the QAnon crowd, raging about how Q supporters &#8220;lost us the country&#8221; in the past election. Jones bashed the gullibility of QAnon supporters and even went so far as to call the whole movement a psyop led by the U.S. government. Cenk Uygur and Ana Kasparian discuss on The Young Turks. Watch LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live&#10;&#10;Read more HERE:  &#10;https://www.mediaite.com/news/alex-jones-rips-caller-for-invoking-qanon-conspiracy-theory-im-tired-of-it-q-is-the-worst-people-in-the-world/&#10;&#10;&#34;Conspiracy theorist Alex Jones has had enough of the QAnon crowd.&#10;&#10;The InfoWars founder and host ripped a caller who invoked the popular theory on his show.&#10;&#10;A clip posted online highlighted a moment in Jones&#8217; daily, hours-long broadcast in which he ripped QAnon to shreds after it was brought into the conversation by a caller.&#10;&#10;Jones went into a screed in which he screamed at the man &#8212; and everyone who bought into QAnon &#8212; in the years leading up to the 2020 election.&#10;&#10;The host fumed their gullibility helped Democrats steal the country.&#34;&#10;&#10;*** &#10;&#10;The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;FACEBOOK: &#9758; http://www.facebook.com/TheYoungTurks&#10;TWITTER: &#9758; http://www.twitter.com/TheYoungTurks&#10;INSTAGRAM: &#9758; http://www.instagram.com/TheYoungTurks&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #TheYoungTurks #BreakingNews&#10;&#10;220510__TB03Alex"
-    channeltitle "The Young Turks"
-    channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
+    date "2020-07-30T11:00:12Z"
+    title "QAnon"
+    description "&#33258;&#24478;&#26032;&#22411;&#30123;&#24773;&#29190;&#30332;&#20197;&#20358;&#65292;&#19968;&#20491;&#22855;&#24618;&#30340;&#38512;&#35584;&#35542;&#27966;&#21029;&#12300;&#21311;&#21517;&#32773;Q&#12301;&#65288;QAnon&#65289;&#22312;&#32654;&#22283;&#27969;&#20659;&#12290;&#10;&#20449;&#22857;&#32773;&#35469;&#28858;&#65292;&#32654;&#22283;&#32317;&#32113;&#29305;&#26391;&#26222;&#26159;&#20358;&#25327;&#25937;&#19990;&#30028;&#30340;&#65292;&#32780;&#20182;&#30340;&#23565;&#25163;&#26159;&#19968;&#32676;&#23372;&#31461;&#30294;&#12290;&#28858;&#20160;&#40636;&#19968;&#20491;&#32893;&#36215;&#20358;&#33618;&#35628;&#30340;&#38512;&#35584;&#35542;&#26371;&#26377;&#22914;&#27492;&#22810;&#30340;&#20154;&#30456;&#20449;&#65311;&#10;&#10;BBC News &#20013;&#25991;: https://www.bbc.com/zhongwen&#10;&#35330;&#38321;BBC News &#20013;&#25991; YouTube&#65306;http://bit.ly/1wkHh5T&#10;BBC News &#20013;&#25991; Facebook - https://www.facebook.com/bbcchinese&#10;BBC News &#20013;&#25991; Twitter - https://twitter.com/bbcchinese&#10;BBC News &#20013;&#25991; Instagram - https://www.instagram.com/bbcchinese/"
+    channeltitle "BBC News &#20013;&#25991;"
+    channelid "UCb3TZ4SD_Ys3j4z0-8o6auA"
     favcount 0
-    viewcount 120814
-    likecount 4754
-    commentcount 1439
-    duration "PT10M16S"
-    indegree 16
-    sentiment 1
-    cluster 5
+    viewcount 32175
+    likecount 332
+    commentcount 392
+    duration "PT2M57S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
   ]
   node
   [
-    id 245
+    id 200
+    name "245"
     label "64WkVkjkTYI"
     step 0
     date "2021-02-01T15:47:44Z"
@@ -3838,12 +6020,23 @@ graph
     commentcount 478
     duration "PT15M23S"
     indegree 10
-    sentiment 1
-    cluster 12
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 246
+    id 201
+    name "246"
     label "TTb31HVYil0"
     step 0
     date "2022-02-28T03:00:19Z"
@@ -3857,12 +6050,23 @@ graph
     commentcount 2134
     duration "PT7M14S"
     indegree 9
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 12
   ]
   node
   [
-    id 247
+    id 202
+    name "247"
     label "ZdKc808GJMg"
     step 0
     date "2021-02-16T16:00:09Z"
@@ -3876,12 +6080,23 @@ graph
     commentcount 33
     duration "PT10M23S"
     indegree 2
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 248
+    id 203
+    name "248"
     label "sr8n7Cos4a8"
     step 0
     date "2021-11-03T08:15:02Z"
@@ -3895,12 +6110,23 @@ graph
     commentcount 6010
     duration "PT7M26S"
     indegree 14
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 249
+    id 204
+    name "249"
     label "KYwbmcbtibA"
     step 0
     date "2020-09-04T17:59:48Z"
@@ -3914,12 +6140,23 @@ graph
     commentcount 465
     duration "PT3M5S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 250
+    id 205
+    name "250"
     label "XJgX20S0Zdg"
     step 0
     date "2019-08-20T15:00:09Z"
@@ -3933,12 +6170,23 @@ graph
     commentcount 4818
     duration "PT28M39S"
     indegree 5
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 251
+    id 206
+    name "251"
     label "kBZNFhbKqsc"
     step 0
     date "2021-11-30T14:30:06Z"
@@ -3952,12 +6200,23 @@ graph
     commentcount 93
     duration "PT25M10S"
     indegree 1
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 252
+    id 207
+    name "252"
     label "Ty5XsUhB7J8"
     step 0
     date "2020-11-01T13:00:13Z"
@@ -3971,12 +6230,23 @@ graph
     commentcount 2011
     duration "PT16M11S"
     indegree 13
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 253
+    id 208
+    name "253"
     label "I8NVVgg9v-U"
     step 0
     date "2020-09-17T10:30:01Z"
@@ -3990,31 +6260,53 @@ graph
     commentcount 1817
     duration "PT7M2S"
     indegree 6
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 256
-    label "0x_uz2_a11k"
+    id 209
+    name "254"
+    label "Zxi--4N8CBY"
     step 0
-    date "2022-05-10T18:35:09Z"
-    title "QAnon Rapper Wins Ohio Primary"
-    description "J.R. Majewski, an air force veteran, QAnon Rapper, and insurrectionist has won the Ohio Primary. Jayar Jackson and Rayyvana break it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;Read more HERE: https://www.cnn.com/2022/05/08/politics/kfile-jr-majewski-jan-6-qanon-material/index.html&#10;&#10;&#34;J.R. Majewski, the Air Force veteran who won the GOP primary for Ohio's new 9th Congressional District, was a January 6 rally participant and has repeatedly shared pro-QAnon material -- including a video showing him painting his lawn to say Trump 2020 with &#34;Q&#34; replacing the zeros.&#10;&#10;Majewski emerged victorious in Tuesday's crowded Republican primary and will face off against long-serving Democratic Rep. Marcy Kaptur in the newly drawn district this November.&#34;&#10;&#10;*** &#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://youtube.com/watchlisttyt&#10;FACEBOOK: &#9758; http://www.facebook.com/watchlisttyt&#10;TWITTER: &#9758; https://twitter.com/watchlisttyt&#10;INSTAGRAM: &#9758; https://instagram.com/watchlisttyt&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#10; Merch: http://shoptyt.com&#10;&#10; Donate: http://www.tyt.com/go&#10;&#10; Website: https://www.tyt.com&#10;&#10;App: http://www.tyt.com/app&#10;&#10; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;Indisputable  https://www.youtube.com/indisputabletyt&#10;&#10;The Young Turks  https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report  https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports  https://www.youtube.com/tytsports&#10;&#10;The Conversation  https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ  https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates  https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;#TYT #TheWatchlist #JayarJackson&#10;&#10;220510__WL03_Man_With_Trump_Lawn"
-    channeltitle "WatchlistTYT"
-    channelid "UCdUdP5BeOsua_j3u-0ZbL5w"
+    date "2020-09-23T14:26:32Z"
+    title " gets inside look at QAnon, speaks with a leader in the movement"
+    description "&#8220;60 in 6&#8221; corespondent Laurie Segall reports on followers of a fast-growing conspiracy called QAnon &#8212; a movement that could possibly influence voters in the upcoming election."
+    channeltitle "Elianna Mintz"
+    channelid "UCVNpckPLXB_i3pPLwccKEIQ"
     favcount 0
-    viewcount 17328
-    likecount 299
-    commentcount 231
-    duration "PT5M48S"
-    indegree 3
-    sentiment 1
-    cluster 7
+    viewcount 222
+    likecount 4
+    commentcount 3
+    duration "PT6M12S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 257
+    id 210
+    name "257"
     label "4eJ0mUDu7pE"
     step 0
     date "2021-11-03T00:46:04Z"
@@ -4028,12 +6320,23 @@ graph
     commentcount 449
     duration "PT40S"
     indegree 6
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 7
   ]
   node
   [
-    id 258
+    id 211
+    name "258"
     label "7pZMqFF6iNs"
     step 0
     date "2021-12-21T16:00:06Z"
@@ -4047,12 +6350,23 @@ graph
     commentcount 188
     duration "PT5M39S"
     indegree 4
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 259
+    id 212
+    name "259"
     label "VvkeuA_a3bw"
     step 0
     date "2022-04-30T19:00:07Z"
@@ -4066,31 +6380,53 @@ graph
     commentcount 160
     duration "PT4M7S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 11
   ]
   node
   [
-    id 261
-    label "bD9U9bQUlSs"
+    id 213
+    name "260"
+    label "NFpCcis1GFQ"
     step 0
-    date "2021-03-13T05:15:35Z"
-    title "The Q in Conspiracy: Wu Ming 1 and Florian Cramer on QAnon  Conspiracies #DisruptiveFridays"
-    description "THE Q IN QONSPIRACY: QAnon as a Paradigm for Future Social-media-driven Conspiracism&#183; Disruptive Fridays #19&#10;&#10;Wu Ming 1 and Florian Cramer, moderated by Tatiana Bazzichelli &#10;&#10;In this conversation between Wu Ming 1 and Florian Cramer, QAnon is discussed as a template for contemporary social-media-driven conspiracy fantasies that work simultaneously as games and a new kind of cults. By focusing on the mutation of conspiracy myths from countercultural phenomena to contemporary meme and influencer culture, they will focus on three conspiracy narratives: &#34;The Great Replacement&#34; (from Renaud Camus to Charlottesville), QAnon (from Pizzagate to the Capitol storming) and &#34;The Great Reset&#34; (as a set of pandemic-inspired variations on the old New World Order trope).&#10;&#10;https://www.disruptionlab.org/fridays&#10;&#10;00:00. Introduction by Tatiana Bazzichelli&#10;3:55.  Wu Ming 1: The Q in Qonspiracy - Background&#10;7:05  Qanons dynamics &#38; context: social media &#38; algorithms&#10;9:00. Real Conspiracies vs Conspiracy Fantasies&#10;11:50. Qanons evolution&#10;14:22. Florian Cramer: Gamification &#38; Qanon as a Collaborative Game&#10;20:44. Forerunners to Qanon: The Zeitgeist Movement, Occupy Wall Street&#10;22:33. Global Scale &#38; Success; Qanons Plane of Immanence&#10;26:35. Rhizomatic Fascism&#10;29:31. Similarities to the Q novel by Wu Ming / Luther Blissett&#10;33:21. The Kernel of Truth of Qanon; Europe, Corona, Conspirituality, The Great Reset&#10;37:41. Bill Gates, the WHO &#38; Neoliberalism&#10;39:31. The trap of defending Bill Gates, avoiding the binary; Snowden&#10;48:03. Suspicion, Mistrust, Big Pharma&#10;46:31. New narratives: The Great Replacement, The Great Reset&#10;46:49. The assault on Capitol Hill - an apex and swan song of Qanon  &#10;55:48. The Great Reset, World Economic Forum, Covid-19&#10;57:06. The Catholic Church&#10;1:01:00. Outro"
-    channeltitle "Disruption Network Lab"
-    channelid "UCxiH37LS3aCEPQlq5Bh4oAQ"
+    date "2021-12-26T16:00:13Z"
+    title "QAnon Just Got Deadlier"
+    description "Texas cult convinces QAnon to drink a chemical cocktail. John Iadarola breaks it down on The Damage Report. &#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok:https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;Read more here: https://www.dailydot.com/debug/telegram-scam-meticore-covid-cure/&#10;&#10;&#34;Telegram channels posing as prominent right-wing figures are hawking a supplement that supposedly prevents COVID-19. Some of the channels even claim that the supplement, Meticore, &#8220;will kill every infection.&#8221;&#34;&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
+    channeltitle "The Damage Report"
+    channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
     favcount 0
-    viewcount 2069
-    likecount 36
-    commentcount 8
-    duration "PT1H5M51S"
-    indegree 2
-    sentiment 1
-    cluster 8
+    viewcount 216927
+    likecount 7506
+    commentcount 2648
+    duration "PT7M43S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 262
+    id 214
+    name "262"
     label "0S6XHbIokh0"
     step 0
     date "2021-03-04T17:09:41Z"
@@ -4104,12 +6440,23 @@ graph
     commentcount 2040
     duration "PT17M42S"
     indegree 1
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 263
+    id 215
+    name "263"
     label "JgsRzTxzC0U"
     step 0
     date "2020-12-17T21:30:24Z"
@@ -4123,31 +6470,53 @@ graph
     commentcount 78
     duration "PT2M48S"
     indegree 6
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 265
-    label "dAuBM_7-e9g"
+    id 216
+    name "264"
+    label "WtfXRED2Jhs"
     step 0
-    date "2021-01-27T17:40:51Z"
-    title "Why QAnon is a Problem for the Church"
-    description "This video discusses my concerns with the growth of the QAnon movement in the church."
-    channeltitle "Dr. Jordan B Cooper"
-    channelid "UCQztlwsK5pV45U8vMtfbWjg"
+    date "2021-06-02T16:08:59Z"
+    title "Who is Simply Q? Rise and Fall of QAnon in 2022 (Why is March 4 significant) Who is QAnon Pizzagate"
+    description "To help support me in creating great content, pls join my Patreon page: www.patreon.com/company_insight&#10;&#10;The January 6th storming of the Capitol featured several memorable characters. Most people who even remotely recall the event remember a bare chested young man wearing a horned fur hat with a sign that read, &#8220;Q Sent Me,&#8221; as well as several participants&#8217; clothes featuring a prominent &#8220;Q.&#8221; Since Donald Trump&#8217;s presidency in 2017, QAnon, often abbreviated as &#8220;Q&#8221; in their swag, has become a larger part of mainstream American culture. It&#8217;s quite possible that the Internet has spawned QAnon, and we hear about it often --- usually associated with fake news and conspiracy theories. What or who is QAnon then? The answer highly depends on who you ask, but I&#8217;ll try to break it down anyway.  By the end of this video, you&#8217;ll also know what is pizzagate, what is Simply Q and why is march 4 significant.&#10;&#10;QAnon has tried to combat irrelevancy by also harping back on Cold War-style fears that the US is falling behind other countries and it will only be exacerbated with Biden&#8217;s presidency. Their more recent rhetoric focuses on the Chinese Communist Party establishing a New World Order antithetical to the United States. Ironically, it&#8217;s been theorized that China, Russia, Iran, and Saudia Arabia have fueled QAnon messaging prior to the Capitol Riot to sow discord and misinformation. While in 2020, Russia is thought to have led QAnon activity that has originated outside of the USA, in 2021, China has led the fray. It might be lost on many QAnon followers that perhaps the so-called &#8220;breadcrumbs&#8221; or clues dropped by &#8220;Q&#8221; on different forums may actually be propagated by the same nations they demonize. It&#8217;s safe to say that given the prevalence of conspiracy theories throughout American history, QAnon is just another one for the history books, even if it&#8217;s muted for now.  @FiveThirtyEight @The QAnon Anonymous Podcast @Real QanonNews @QAnon Anonymous @Dr. Todd Grande&#10;&#10;&#128075; I'm real!  Connect with me:  &#10;https://www.instagram.com/companyinsight/ &#10;https://www.twitter.com/company_insight/&#10;https://www.linkedin.com/in/companyinsight&#10;&#10;#companyinsight&#10;If you enjoyed watching this video, you'll love our other videos &#128161;&#10;&#10;&#128073; Who is Company Man?  &#128200;  &#10;https://youtu.be/_HGBnIW4_Gk&#10;&#10;&#128073; Is Honda in Trouble? - The Rise and Fall of Honda&#10;https://youtu.be/IYE1SUJWmxY&#10;&#10;&#128073; The Rise and Fall of Huffy Bike&#10;https://youtu.be/5PXtd5--I38&#10;&#10;&#128073; The Rise and Fall of New York&#10;https://youtu.be/_c6wYou9qLQ&#10;&#10;&#128073; The Rise and Fall of Orbitz Drink &#10;https://youtu.be/dTw6cY4bGUw&#10;&#10;&#128073; The Rise of Bumble &#10;https://youtu.be/jEwbFU1g39Q&#10;&#10;&#128073; The Rise of Kiehl's &#10;https://youtu.be/BUi-xBVr3x8&#10;&#10;&#128073; The Rise and Fall of the Weather Channel &#127780;&#65039;&#10;https://youtu.be/Haps6M-BYYs&#10;&#10;&#128073; The Rise of Comme Des Garcons &#10084;&#65039;&#10;https://youtu.be/K-HEmrizDRk&#10;&#10;&#128073; The Rise and Fall of Discovery Zone &#128126;&#10;https://youtu.be/cDjHfy1tDKg&#10;&#10;&#128073; The Rise and Fall of Rainforest Cafe &#129436;&#10;https://youtu.be/UVtCaPzyKXo&#10;&#10;&#128073; The Rise and Fall of Magic Eye &#128065;&#65039;&#128269;&#10;https://youtu.be/ycA6WpArfyY&#10;&#10;&#128073; The Rise and Fall and Rise Again of Britney Spears &#10;https://youtu.be/pxh0ly9sWjY&#10;&#10;&#128073; USA vs China COVID Vaccine War &#10;https://youtu.be/uUFUCJv47FI&#10;&#10;&#128073;Rise and Fall of LinkedIn &#10;https://youtu.be/YMtXPYIIYKM&#10;&#10;&#128073; What Happened to LA Gear Shoes?&#10;https://youtu.be/C4HmReSFSkU&#10;&#10;&#128073;What Happened to Bruno Mars&#10;https://youtu.be/ouLY7kKqGWc&#10;&#10;&#128073;The REAL Truth What Happened to FUBU&#10;https://youtu.be/gUK1j_A8wMg&#10;&#10;&#128073;Warren Buffett Secret to Success&#10;https://youtu.be/hM1olEUuz3E&#10;&#10;&#128073;How Did In-N-Out Get So Popular? In N Out Success Story&#10;https://youtu.be/klgOJkeZZ8o&#10;&#10;&#128073;What Happened to Cyberpunk 2077 in 2021&#10;https://youtu.be/1iqDel7_jhA&#10;&#10;&#128073;How Did Five Guys Get So Popular? &#10;https://youtu.be/7nNK0gdx684&#10;&#10;&#128073;TOP 15 STATES Everyone is Leaving&#10;https://youtu.be/l5WuOGyKgO8&#10;&#10;&#128073; Asian American Racism in the USA&#10;https://youtu.be/l5WuOGyKgO8&#10;&#10;&#128073; What Happened to Jack Ma?&#10;https://youtu.be/pF5uNGpT-HY&#10;&#10;&#128073;How Shake Shack is Taking Over the World&#10;https://youtu.be/6GwENVGBbv8&#10;&#10;&#128073; The Rise and Fall of Circle K&#10;https://youtu.be/IlahmVkjQps&#10;&#10;&#128073; Real Advice from the Wives of Billionaires&#10;https://youtu.be/VbQPSuQNHN0&#10;&#10;&#128073;What Happened to Skid Row?&#10;https://youtu.be/zLLTmjDRSmc&#10;&#10;&#128073;How we almost got acquired by Facebook&#10;https://youtu.be/kciSEbJUsSg&#10;&#10;&#128073; The rise and fall of Philadelphia&#10;https://youtu.be/CdoBsUsG1Po&#10;&#10;&#128073; Should I Move to Texas, or Florida?&#10;https://youtu.be/yPLOhWUmWl4&#10;&#10;&#128073;The Story of Onlyfans&#10;https://youtu.be/jSz68IlMifU&#10;&#10;&#128073; How Coinbase is taking over the world?&#10;https://youtu.be/zGjmPN4dmLk&#10;&#10;&#128073; Rise and Fall of American Higher Education&#10;https://youtu.be/uW2-3QlBvAs&#10;&#10;&#128073;What does it mean to be wealthy in 2021 ?&#10;https://youtu.be/c162wQ_VSKE&#10;&#10;&#128276; Don't miss out! Subscribe for new weekly Company Insight videos&#10;https://www.youtube.com/c/CompanyInsight?sub_confirmation=1&#10;&#10;[TIMESTAMP]&#10;00:00 beginning&#10;01:33 Beginnings of QAnon&#10;03:20 QAnon through the years&#10;09:08 QAnon post-trump"
+    channeltitle "Company Insight"
+    channelid "UCOdzfPxt3AZ_pcNIr7eoxQQ"
     favcount 0
-    viewcount 4900
-    likecount 307
-    commentcount 150
-    duration "PT22M45S"
-    indegree 1
-    sentiment 1
-    cluster 3
+    viewcount 742
+    likecount 18
+    commentcount 11
+    duration "PT13M5S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 10
   ]
   node
   [
-    id 266
+    id 217
+    name "266"
     label "DwVIvmhdzdc"
     step 0
     date "2021-08-20T08:55:05Z"
@@ -4161,12 +6530,23 @@ graph
     commentcount 136
     duration "PT7M11S"
     indegree 6
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 267
+    id 218
+    name "267"
     label "5oWlfEidpf4"
     step 0
     date "2021-12-23T21:00:02Z"
@@ -4180,31 +6560,53 @@ graph
     commentcount 2054
     duration "PT6M53S"
     indegree 1
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 11
   ]
   node
   [
-    id 269
-    label "5uFJ60An5k8"
+    id 219
+    name "268"
+    label "gRGe-jXs2is"
     step 0
-    date "2022-05-14T16:00:06Z"
-    title "Lunatic Candidate Tries To Awaken America To QAnon Stupidity"
-    description "Leading Republican candidate for the Pennsylvania governor race, Doug Mastriano, is excited to promote QAnon and to de-certify the 2020 election results when Donald Trump lost if elected. John Iadarola and Jayar Jackson break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;Pa. GOP governor hopeful Mastriano campaigned at event promoting QAnon&#10; - https://www.pghcitypaper.com/pittsburgh/pa-gop-governor-hopeful-mastriano-campaigned-at-event-promoting-qanon/Content?oid=21557786&#10;&#10;&#34;A top-tier Republican candidate for Pennsylvania governor, among other GOP luminaries, put in an appearance at an event in Gettysburg last weekend that promoted QAnon and conspiracy theories about the Sept. 11, 2001 attacks, according to published reports.&#10;&#10;The candidate, state Sen. Doug Mastriano, attended the conference called &#8220;Patriots Arise for God and Country,&#8221; according to Right Wing Watch, a website that monitors the far right.&#10;&#10;Mastriano was joined by Republican lieutenant governor hopeful Teddy Daniels; Maryland gubernatorial candidate Dan Cox; Liz Harrington, a spokesperson for former President Donald Trump; and former Trump campaign attorney Jenna Ellis, according to Philadelphia Inquirer, which first reported the story.&#34;&#10;&#10;**&#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
-    channeltitle "The Damage Report"
-    channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
+    date "2022-02-08T19:19:10Z"
+    title "Travis View - Baking the Crumbs: QAnons Crowdsourced Construction Of Unreality"
+    description "The QAnon movement was able to successfully attract so many adherents partly because of its gamified, participatory nature. QAnon followers tasked themselves with either constructing news conspiracist narratives, building upon existing conspiracist narratives, or amplifying those narratives on social media networks. These narratives, such as the claim that there are over 100,000 &#8220;sealed indictments&#8221; that will soon reveal the crimes of the deep state, seem facially absurd. But they&#8217;re constructed with a kind of inner logic and elaborate, if flawed, reasoning process that reveals a surprising degree of intelligence from QAnon followers. This presentation will discuss the potency of QAnon narrative &#8220;baking,&#8221; what it reveals about how QAnon followers view themselves, and its implications for online conspiracism in the future.&#10;&#10;&#10;Bio:  Travis View is the co-host of the QAnon Anonymous podcast and has been monitoring and reporting on the movement since 2018. His work has been cited by the Washington Post, The New York Times, the LA Times, NBC News, USA Today, and many other national and international publications. He can also be seen in the first episode of the HBO docu series &#8220;Q: Into the Storm.&#8221;"
+    channeltitle "CASOS Center"
+    channelid "UCkQ1jyZYmxoMNwPn20_g4dw"
     favcount 0
-    viewcount 23755
-    likecount 1394
-    commentcount 233
-    duration "PT6M32S"
-    indegree 5
-    sentiment 1
-    cluster 7
+    viewcount 207
+    likecount -1
+    commentcount 0
+    duration "PT39M7S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 10
   ]
   node
   [
-    id 270
+    id 220
+    name "270"
     label "JV4QnalowwE"
     step 0
     date "2022-05-07T13:00:07Z"
@@ -4218,12 +6620,23 @@ graph
     commentcount 95
     duration "PT5M57S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 7
   ]
   node
   [
-    id 271
+    id 221
+    name "271"
     label "-Rd3leXFcmI"
     step 0
     date "2022-04-16T13:00:16Z"
@@ -4237,12 +6650,23 @@ graph
     commentcount 1747
     duration "PT1H4M31S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 272
+    id 222
+    name "272"
     label "G9p4yt8XjVM"
     step 0
     date "2021-11-28T02:00:08Z"
@@ -4256,31 +6680,53 @@ graph
     commentcount 3929
     duration "PT14M37S"
     indegree 12
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 274
-    label "TU3i4hjAmVk"
-    step 0
-    date "2020-11-01T07:23:15Z"
-    title "How a South African Tech Journalist Cofounded QAnon"
-    description "Subscribe NOW to get.Africa: https://www.youtube.com/channel/UCguRYryPJr1CvJ-6hDyjphA?sub_confirmation=1&#10;&#10;Subscribe to our weekly newsletter on African tech: https://www.getrevue.co/profile/getafrica&#10;&#10;Watch our most recent videos: https://www.youtube.com/channel/UCguRYryPJr1CvJ-6hDyjphA/playlists&#10;&#10;---&#10;&#10;When you mix anonymity with bizarre conspiracy theories, you get QAnon, a far-right movement that's fast becoming one of the most important factors in the upcoming US elections.&#10;&#10;QAnon started on 4chan. 4chan is a bulletin board-style online forum, in a similar vein to Nigeria&#8217;s Nairaland, but for images.&#10;&#10;One of the people behind the movement is a South African called Paul Furber. This is his story.&#10;&#10;---&#10;Follow get.Africa:&#10;Website: https://get.africa/&#10;Twitter: https://twitter.com/getdotafrica&#10;Facebook: https://www.facebook.com/getdotAfrica/&#10;Instagram: https://www.instagram.com/getdotafrica/&#10;&#10;Produced by get.Africa: African tech in a language you'll understand. &#10;&#10;About get.Africa:&#10;get.Africa is focused on providing unique insights into Africa&#8217;s emerging tech scene. &#10;&#10;We do this by collecting and curating knowledge, inspiration and background stories, and adding a point of view you&#8217;re unlikely to get anywhere else.&#10;&#10;Our illustrated YouTube videos address all aspects of the scene, including fintech, AI, startups, telecoms and more.&#10;&#10;We also make bespoke videos.&#10;&#10;#4chan #ConspiracyTheories #OnlineAnonymity"
-    channeltitle "get.Africa"
-    channelid "UCguRYryPJr1CvJ-6hDyjphA"
-    favcount 0
-    viewcount 257
-    likecount 7
-    commentcount 1
-    duration "PT4M15S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 7
   ]
   node
   [
-    id 275
+    id 223
+    name "273"
+    label "aYk0bu-npso"
+    step 0
+    date "2020-07-16T18:59:18Z"
+    title "Qui sont les QAnon ?"
+    description "&#34;Ils disent que nous sommes une secte. Nous ne sommes pas une secte.&#34; Eux, ce sont les QAnon, un mouvement de plus en plus influent dont la cible principale est &#34;l'&#201;tat profond&#34; qui se cacherait derri&#232;re l'assassinat de JFK ou le 11-Septembre. Voil&#224; ce en quoi ils croient&#8230;&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212; &#10;&#9654;&#65038; Retrouvez la vid&#233;o sur le site de Brut : https://www.brut.media/fr/news/c-est-quoi-les-qanon--a3f5184d-12c1-4d46-b4f8-3011a87cfe7f&#10;&#9654; &#128242; sur l&#8217;appli Brut (iOS) : https://apple.co/2UY7gNH &#10;&#9654; &#128242; sur l&#8217;appli Brut (Android) : https://play.google.com/store/apps/details?id=media.brut.brut &#10;&#9654; Pour ne rien louper des vid&#233;os Brut, n&#8217;h&#233;sitez pas &#224; vous abonner &#10142; https://www.youtube.com/channel/UCSKdvgqdnj72_SLggp7BDTg/?sub_confirmation=1 et &#224; activer la cloche &#128276;"
+    channeltitle "Brut"
+    channelid "UCSKdvgqdnj72_SLggp7BDTg"
+    favcount 0
+    viewcount 138542
+    likecount 3280
+    commentcount 1405
+    duration "PT5M37S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 224
+    name "275"
     label "8m1VBksxDyU"
     step 0
     date "2021-11-30T05:30:01Z"
@@ -4294,12 +6740,23 @@ graph
     commentcount 564
     duration "PT5M32S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 10
   ]
   node
   [
-    id 276
+    id 225
+    name "276"
     label "76yMhwUfoys"
     step 0
     date "2019-04-15T13:07:45Z"
@@ -4313,50 +6770,83 @@ graph
     commentcount -1
     duration "PT1H1M49S"
     indegree 4
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 280
-    label "LStlxxFONAw"
+    id 226
+    name "277"
+    label "jtlAL-lKHnE"
     step 0
-    date "2018-08-02T04:30:01Z"
-    title "WTF Is QAnon?!"
-    description "The wait is over: the TYT Plus app is now available for Android users! Download the app by searching TYT Plus in the Google Play store or by going to https://TYT.com/app&#10;&#10;The right has officially lost it. Cenk Uygur and Ana Kasparian, hosts of The Young Turks, break it down.&#10;&#10;Read more here: &#10;https://www.nytimes.com/2018/08/01/us/politics/what-is-qanon.html&#10;&#10;&#34;Those watching President Trump&#8217;s rally in Tampa on Tuesday couldn&#8217;t help but be exposed to a fringe movement that discusses several loosely connected and vaguely defined &#8212; and baseless &#8212; conspiracy theories.&#10;&#10;In one shot on Fox News, the president was partially obscured by a sign in the crowd reading &#8220;We Are Q.&#8221; In another shot during the president&#8217;s speech, a sign promoting the debunked Seth Rich conspiracy theory, with the hashtag #Qanon, came into focus in the center of the screen. Some attendees wore T-shirts with a blocky Q. Others held up signs with the letter.&#10;&#10;They were all self-described &#8220;followers of Q,&#8221; an anonymous person or group of people who claim to be privy to government secrets. That supposedly classified information has been revealed on the 4chan and 8chan message boards and spread around mainstream internet platforms like YouTube, Facebook and Twitter. Q has attracted people &#8212; the exact number is hard to know &#8212; eager to consume his &#8220;bread crumbs,&#8221; or new details in a sprawling web of conspiracy theories.&#34;&#10;&#10;Hosts: Cenk Uygur, Ana Kasparian&#10;&#10;Cast: Cenk Uygur, Ana Kasparian&#10;&#10;***&#10;&#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://www.tytnetwork.com/live&#10;&#10;Subscribe to The Young Turks on YouTube: http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;&#10;Like The Young Turks on Facebook: http://facebook.com/theyoungturks&#10;Follow The Young Turks on Twitter: http://twitter.com/theyoungturks&#10;&#10;Buy TYT Merch: http://www.shoptyt.com&#10;&#10;Download audio and video of the full two hour show on-demand + the members-only post game show by becoming a member at http://www.tytnetwork.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&#10;&#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations.(American Heritage Dictionary)"
-    channeltitle "The Young Turks"
-    channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
+    date "2020-10-02T20:46:16Z"
+    title "Resolution Condemning QAnon (1 of 2)"
+    description "Resolution Condemning QAnon - &#34;I rise in strong support of this resolution, which condemns an extremist group known as QAnon...&#34;&#10;October 2, 2020&#10;&#10;Resolution Condemning QAnon (2 of 2):&#10;https://www.youtube.com/watch?v=5sufkFlwS-o&#38;t=31s&#10;&#10;https://mcclintock.house.gov/newsroom/speeches/resolution-condemning-qanon"
+    channeltitle "Congressman Tom McClintock"
+    channelid "UCMh04KC4LfIzKoXh2Xws_pw"
     favcount 0
-    viewcount 347241
-    likecount 5921
-    commentcount 3888
-    duration "PT14M16S"
-    indegree 23
-    sentiment 1
-    cluster 5
+    viewcount 973
+    likecount 16
+    commentcount -1
+    duration "PT6M"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 282
-    label "K4K7DVBzZ54"
+    id 227
+    name "281"
+    label "Wz2LISfMBo4"
     step 0
-    date "2021-11-07T00:00:06Z"
-    title "Teachers INSANE QAnon Rant to 8th-Graders"
-    description "A California teacher is under fire after students recorded a QAnon-inspired rant during an 8th-grade history class. Cenk Uygur and Ana Kasparian discuss on The Young Turks. Watch LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live&#10;&#10;Read more HERE:  &#10;https://www.alternet.org/2021/11/anti-vax-teacher/&#10;&#10;&#34;A mother in Ventura, California is furious after her son came home saying she and his father lied to him after his 8th-grade history teacher told the class Donald Trump is still president, hospitals steal newborn babies from unvaccinated parents, Hunter Biden's laptop had child pornography on it, and he's never going to get vaccinated ever again.&#10;&#10;&#34;He's damaged. He's hurt. He's scared. He doesn't trust his parents now. He thinks we lied to him,&#34; Sarah Silikula told CBS affiliate KCAL.&#34;&#10;&#10;*** &#10;&#10;The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;FACEBOOK: &#9758; http://www.facebook.com/TheYoungTurks&#10;TWITTER: &#9758; http://www.twitter.com/TheYoungTurks&#10;INSTAGRAM: &#9758; http://www.instagram.com/TheYoungTurks&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #TheYoungTurks #BreakingNews&#10;&#10;211104__TB05Teacher"
-    channeltitle "The Young Turks"
-    channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
+    date "2022-01-28T22:00:22Z"
+    title "QAnon Fears Butterflies?!"
+    description "A butterfly sanctuary in Texas is forced to close after becoming a target of QAnon Conspiracies. John Iadarola and Brett Erlich break it down on The Damage Report. &#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok:https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;Read more here: https://www.dailydot.com/debug/national-butterfly-center-closed-sex-trafficking-qanon/&#10;&#10;&#34;Right-wing conspiracy theorists have already decided that pizza, furniture, and pictures of corn are all part of the vast secret and silent war between good and evil. So moving on to claiming that butterflies are part of the deep state isn&#8217;t a surprise. But a bizarre and still unfolding incident at the National Butterfly Center in Mission, Texas isn&#8217;t just proof that conspiracy theorists see patterns in noise, but that social media hysteria and anti-immigrant sentiment can combine for terrible and violent results.&#34;&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
+    channeltitle "The Damage Report"
+    channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
     favcount 0
-    viewcount 239166
-    likecount 9798
-    commentcount 3022
-    duration "PT6M6S"
-    indegree 3
-    sentiment 1
-    cluster 5
+    viewcount 15019
+    likecount 811
+    commentcount 256
+    duration "PT4M51S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 283
+    id 228
+    name "283"
     label "So2AExCMzlo"
     step 0
     date "2020-07-29T12:00:13Z"
@@ -4370,50 +6860,83 @@ graph
     commentcount 720
     duration "PT6M17S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 285
-    label "_wZHyq8iO3o"
+    id 229
+    name "284"
+    label "KS456ruZV1M"
     step 0
-    date "2021-01-28T17:17:10Z"
-    title " The Mini Musical from Brandon Ethridge"
-    description "This is the original, unaltered voice of a QAnon follower.&#10;#qanon&#10;#qanoncult&#10;#conspriacytheory"
-    channeltitle "Brandon Ethridge"
-    channelid "UCZ6aB4gJCGXyDaOLcmfKB7w"
+    date "2022-01-15T18:48:09Z"
+    title "Andrew Interviews the QAnon Shaman"
+    description "Andrew has outdone himself...&#10;Live everyday at https://www.twitch.tv/hasanabi &#10;&#10;Edited by: Wargur (https://twitter.com/Archb98)&#10;&#10;Other Links&#10;TikTok: https://www.tiktok.com/@hasandpiker&#10;Twitter: https://twitter.com/hasanthehun&#10;Instagram: https://www.instagram.com/hasandpiker/&#10;&#10;Check out the gaming channel -https://www.youtube.com/channel/UCoatplmazYmGMPe-3LRCeyg&#10;Art by - Jokrel/Jokerbostain (https://twitter.com/jokerbostain)"
+    channeltitle "HasanAbi"
+    channelid "UCtoaZpBnrd0lhycxYJ4MNOQ"
     favcount 0
-    viewcount 30061
-    likecount 1597
-    commentcount 143
-    duration "PT33S"
+    viewcount 247125
+    likecount 7904
+    commentcount 654
+    duration "PT53M39S"
+    indegree 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice|Socialist"
+    leftright "L"
+    cluster 1
+  ]
+  node
+  [
+    id 230
+    name "286"
+    label "XoN8rPagleA"
+    step 0
+    date "2021-11-09T09:44:18Z"
+    title "QAnon, JFK Jr. y el verdadero problema de la teorn"
+    description "La teor&#237;a de la conspiraci&#243;n QAnon volvi&#243; este mes a acaparar titulares a ra&#237;z de un evento en Dallas, Texas, en el que cientos de seguidores de Q se congregaron para esperar una revelaci&#243;n imposible: que JFK Jr. aparecer&#237;a tras a&#241;os en la sombra para presentarse a la vicepresidencia junto al expresidente Donald Trump en las elecciones de 2024. Pero nada se cumpli&#243;. Al fin y al cabo, JFK Jr. muri&#243; en un accidente a&#233;reo en 1999.&#10;&#10;Pese a todo, el movimiento en torno a QAnon tiene estos d&#237;as m&#225;s fuerza que nunca. M&#225;s estadounidenses creen sus principales teor&#237;as, incluida la de que un cabal sat&#225;nico de las &#233;lites trafica con ni&#241;os para beber su sangre como m&#233;todo rejuvenecedor, y m&#225;s representantes pol&#237;ticos en las instituciones p&#250;blicas han defendido alguna de sus ideas en p&#250;blico. &#191;Pero por qu&#233; sigue en marcha una teor&#237;a de la conspiraci&#243;n que ha fallado en tantas profec&#237;as? &#191;Y qu&#233; planes tienen una vez alcancen posiciones pol&#237;ticas relevantes? Emilio Dom&#233;nech (@Nanisimo) analiza todas las claves en la &#250;ltima entrega de Solo en Am&#233;rica.&#10;&#10;En Newtral somos periodismo, tecnolog&#237;a y datos. Contamos historias que importan, desmentimos noticias falsas y hacemos fact-checking. &#13;&#10;S&#237;guenos en redes: &#13;&#10;&#13;&#10;&#128038; Twitter: https://twitter.com/Newtral&#13;&#10;&#128100; Facebook: https://www.facebook.com/NewtralMedia/&#13;&#10;&#128248; Instagram: https://www.instagram.com/newtral/&#13;&#10;&#13;&#10;Env&#237;anos lo que quieras que verifiquemos a &#128242; WhatsApp: (+34682589664)&#13;&#10;Y para estar siempre al d&#237;a, suscr&#237;bete a nuestra newsletter &#128232; https://www.newtral.es/suscribete/"
+    channeltitle "Newtral"
+    channelid "UCe04maP4YHNTAPayUBIl2Fg"
+    favcount 0
+    viewcount 10130
+    likecount 724
+    commentcount 149
+    duration "PT12M4S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 9
   ]
   node
   [
-    id 287
-    label "FzuWSWK4vuc"
-    step 0
-    date "2022-05-13T17:05:56Z"
-    title "Alex Jones Has Meltdown Over QAnon"
-    description "Alex Jones Has Meltdown Over QAnon&#10;&#10;#Shorts #TYT #AnaKasparian #News #Politics #CenkUygur"
-    channeltitle "The Young Turks"
-    channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
-    favcount 0
-    viewcount 9442
-    likecount 693
-    commentcount 119
-    duration "PT57S"
-    indegree 0
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 288
+    id 231
+    name "288"
     label "4BrtBmhhohE"
     step 0
     date "2020-07-16T14:00:00Z"
@@ -4427,31 +6950,53 @@ graph
     commentcount 309
     duration "PT5M13S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 232
+    name "289"
+    label "MUoe_kyrvqk"
+    step 0
+    date "2021-01-13T20:00:13Z"
+    title "Alex Jones Turns On QAnon!"
+    description "Support The Show On Patreon!:&#10;https://www.patreon.com/seculartalk&#10;&#10;Subscribe to Krystal Kyle &#38; Friends On Substack!:&#10;https://krystalkyleandfriends.substack.com/p/coming-soon&#10;&#10;Follow Kyle on Twitter:&#10;http://www.twitter.com/kylekulinski"
+    channeltitle "Secular Talk"
+    channelid "UCldfgbzNILYZA4dmDt4Cd6A"
+    favcount 0
+    viewcount 402229
+    likecount 15228
+    commentcount 3943
+    duration "PT4M16S"
+    indegree 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 290
-    label "aRjYB7le0sw"
-    step 0
-    date "2021-11-02T18:09:28Z"
-    title "QAnon Believers Gather In Dallas Awaiting Return Of Long-Dead JFK Jr."
-    description "QAnon supporters have reportedly gathered in Dallas, Texas, in anticipation of the return of John F. Kennedy, who they believe will announce a 2024 presidential run alongside Donald Trump despite being dead for 22 years &#8212; the latest outlandish claim from a movement that believes the world is run by a cabal of Satan-worshiping pedophiles.&#10;&#10;READ MORE: https://www.forbes.com/sites/teakvetenadze/2021/11/02/qanon-believers-gather-in-dallas-awaiting-return-of-long-dead-jfk-jr/?sh=23e1b22b668f&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
-    channeltitle "Forbes Breaking News"
-    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
-    favcount 0
-    viewcount 95192
-    likecount 1650
-    commentcount 2560
-    duration "PT2M10S"
-    indegree 1
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 291
+    id 233
+    name "291"
     label "lNB1qd6qnC0"
     step 0
     date "2022-02-04T04:30:08Z"
@@ -4465,12 +7010,23 @@ graph
     commentcount 482
     duration "PT7M29S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 292
+    id 234
+    name "292"
     label "8TRkocc3Dig"
     step 0
     date "2022-07-13T20:05:51Z"
@@ -4484,31 +7040,53 @@ graph
     commentcount 0
     duration "P0D"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 294
-    label "cGfg-WnkXto"
+    id 235
+    name "293"
+    label "gHDhSWvHNm8"
     step 0
-    date "2021-12-02T06:15:01Z"
-    title "Qanon DEFENDS Trumps Involvement With Jeff Epstein And Ghislaine Maxwell"
-    description "QAnon faithful rushed to the support of Donald Trump after Jeffery Epstein&#8217;s former pilot testified in the Ghislaine Maxwell trial. Pilot Lawrence Paul Visoski testified that Trump flew on one of Epstein&#8217;s private planes, along with other high-profile celebrities on multiple occasions. Ana Kasparian and John Iadarola discuss on The Young Turks. Watch LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live&#10;&#10;Read more HERE:  &#10;https://www.newsweek.com/qanon-followers-defend-donald-trump-jeffrey-epstein-plane-ghislaine-maxwell-trial-1654823?utm_medium=Social&#38;utm_source=Twitter#Echobox=1638369521&#10;&#10;&#8220;QAnon followers and commentators have rushed to defend Donald Trump after Jeffrey Epstein's former pilot testified in Ghislaine Maxwell's trial that the former president had traveled on one of the pedophile's private planes.&#10;&#10;Lawrence Paul Visoski Jr., who was Epstein's pilot for nearly 30 years, said he flew Trump and other famous names between 1991 and 2019, the Associated Press reported.&#34;&#10;&#10;*** &#10;&#10;The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;FACEBOOK: &#9758; http://www.facebook.com/TheYoungTurks&#10;TWITTER: &#9758; http://www.twitter.com/TheYoungTurks&#10;INSTAGRAM: &#9758; http://www.instagram.com/TheYoungTurks&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #TheYoungTurks #BreakingNews&#10;&#10;211201__TB04Qanon"
-    channeltitle "The Young Turks"
-    channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
+    date "2021-08-29T16:59:53Z"
+    title "Qanon Cult Turns On Kenneth Copeland, Others Come To His Defense"
+    description "In this video, I talk about Qanon turning on Kenneth Copeland, Tyler Perry, Billy Graham, and others, the involvement of popular Q pastors like Johnny Enlow and Francine Fosdick. I also talk about other pastors, like Hank Kunneman, coming to the defense of Kenneth Copeland.&#10;&#10;Game Shop: https://www.etsy.com/shop/TelltaleShop&#13;&#10;&#13;&#10;Merch Shop: https://teespring.com/stores/telltaleatheist&#13;&#10;&#13;&#10;Twitter: http://telltaleatheist.com/twitter&#13;&#10;&#13;&#10;Patreon: https://www.patreon.com/telltaleatheist&#13;&#10;&#13;&#10;All links to my channel can be found at http://telltaleatheist.com&#13;&#10;&#13;&#10;Podcast on iTunes: https://podcasts.apple.com/us/podcast/telltale-atheist-podcast/id1399333418&#13;&#10;&#13;&#10;Podcast on SoundCloud: https://soundcloud.com/user-450959803&#13;&#10;&#13;&#10;Podcast on Google Play: https://play.google.com/music/listen?u=0#/ps/I4syo4revixssvwypbxknebgapa&#13;&#10;&#13;&#10;Podcast on YouTube: &#13;&#10;https://www.youtube.com/channel/UCo6JSNp6SuUKf-yiaBQReNA&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Social Media:&#13;&#10;&#13;&#10;Patreon: http://telltaleatheist.com/patreon&#13;&#10;&#13;&#10;Twitter: http://telltaleatheist.com/twitter&#13;&#10;&#13;&#10;Discord:  http://telltaleatheist.com/discord&#13;&#10;&#13;&#10;PayPal:  http://telltaleatheist.com/paypal"
+    channeltitle "Telltale"
+    channelid "UCgIi12EA6BQ8HKL8QUccsOQ"
     favcount 0
-    viewcount 242990
-    likecount 7877
-    commentcount 3215
-    duration "PT9M37S"
-    indegree 1
-    sentiment 1
-    cluster 5
+    viewcount 176066
+    likecount 6363
+    commentcount 1957
+    duration "PT9M45S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 295
+    id 236
+    name "295"
     label "3UPRNh_6zLk"
     step 0
     date "2020-05-15T11:30:01Z"
@@ -4522,31 +7100,53 @@ graph
     commentcount 774
     duration "PT31M49S"
     indegree 5
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
   ]
   node
   [
-    id 297
-    label "cR5H-tlTtY0"
+    id 237
+    name "296"
+    label "zPtpAGM-9us"
     step 0
-    date "2020-10-21T11:30:02Z"
-    title "QAnon? Non  un gioco"
-    description "Come si spiega il successo di una teoria del complotto assurda come quella di QAnon? Un'ipotesi &#232; che sia vissuta dai suoi seguaci come un ARG, cio&#232; un &#34;Alternate Reality Game&#34;, un gioco calato in una realt&#224; alternativa. Ma &#232; un gioco molto pericoloso... Di questo parliamo oggi a &#34;Il complotto quotidiano&#34;.&#10;&#10;Aderisci alla pagina PATREON e sostieni i miei progetti e il mio lavoro: http://patreon.com/massimopolidoro&#10;&#10;Iscriviti alla mia NEWSLETTER: L' &#34;AVVISO AI NAVIGANTI&#34;: &#10;https://mailchi.mp/massimopolidoro/avvisoainaviganti e partecipa alle scelte della mia community&#10;&#10;LEGGI il mio libro &#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;&#10;Iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;e non perdere i prossimi video&#10;&#10;Lasciami sotto i tuoi commenti e i suggerimenti per nuovi misteri da indagare!&#10;&#10;PER APPROFONDIRE&#10;&#10;&#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;Warzel, C.: &#34;Is QAnon the Most Dangerous Conspiracy Theory of the 21st Century?&#34;, The New York Times, 4 agosto 2020: https://www.nytimes.com/2020/08/04/opinion/qanon-conspiracy-theory-arg.html&#10;Kaminska, I. &#34;The &#8220;game theory&#8221; in the Qanon conspiracy theory&#34;, Financial Times, 16 ottobre 2020: https://ftalphaville.ft.com/2020/10/16/1602828074000/The--game-theory--in-the-Qanon-conspiracy-theory/&#10;Puente, D. &#34;*** a processo per le falsit&#224; su Valeria Solesin. I complottisti prima o poi pagano&#34;: https://www.open.online/2020/10/19/rosario-marciano-processo-falsita-valeria-solesin/&#10;Wu Ming 1 &#34;Come entrare e uscire da QAnon&#34;: Parte 1 https://bit.ly/2SbRgZc - Parte 2 https://bit.ly/33h8jza&#10;Queryonline: &#34;QAnon perch&#233; funziona?&#34;: https://bit.ly/30lkzNh&#10;ValigiaBlu: &#34;QAnon: la nuova religione complottista&#34;: https://bit.ly/34fASMK&#10;Wu Ming 1 su Internazionale: &#34;Come nasce una teoria del complotto e come affrontarla&#34;: https://bit.ly/2WSoaQv&#10;WuMing1: &#8220;Come nasce una teoria del complotto e come affrontarla: il caso QAnon&#8221; (conferenza live): https://www.youtube.com/watch?v=76yMhwUfoys&#10;&#10;BuzzFeed: &#8220;An Armed Man Spouting A Bizarre Right-Wing Conspiracy Theory Was Arrested After A Standoff At The Hoover Dam&#8221;: https://bit.ly/2LrEdj2&#10;&#10;I miei ultimi libri:&#10;&#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;&#34;La libreria dei misteri&#34;: https://amzn.to/3bHBU7E&#10;&#34;Grandi misteri della storia&#34;: https://amzn.to/2U5hcHe&#10;&#34;Atlante dei luoghi misteriosi d'Italia&#34;: https://amzn.to/2OWmjrX&#10;Io, Leonardo Da Vinci: https://amzn.to/2XUeHXA&#10;&#34;Leonardo. Il romanzo di un genio ribelle&#34;: https://amzn.to/2D80WgX&#10;&#10;Iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;e non perdere i prossimi video&#10;&#10;Lasciami sotto i tuoi commenti e i suggerimenti per nuovi misteri da indagare!&#10;&#10;I miei ultimi libri:&#10;&#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;&#34;Grandi misteri della storia&#34;: https://amzn.to/3f3xaKG&#10;&#34;Atlante dei luoghi misteriosi d'Italia&#34;: https://amzn.to/2OWmjrX&#10;&#34;Io, Leonardo Da Vinci&#34;: https://amzn.to/2XUeHXA&#10;&#34;Leonardo. Il romanzo di un genio ribelle&#34;: https://amzn.to/2D80WgX&#10;&#10;E qui l&#8217;elenco completo dei miei libri disponibili: http://amzn.to/2G49XGw&#10;&#10;Non perdere i prossimi video, iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;&#10;&#10;RESTIAMO IN CONTATTO:&#10;&#10;Ricevi l'Avviso ai Naviganti, la mia newsletter settimanale: https://mailchi.mp/massimopolidoro/avvisoainaviganti&#10;e partecipa alle scelte della mia community&#10;&#10;Seguimi:&#10;Patreon: http://patreon.com/massimopolidoro&#10;Instagram: https://www.instagram.com/massimopolidoro&#10;Gruppo FB: https://www.facebook.com/groups/MassimoPolidoroFanClub&#10;Pagina FB: https://www.facebook.com/Official.Massimo.Polidoro&#10;Twitter: https://twitter.com/massimopolidoro&#10;&#10;Sito e blog: http://www.massimopolidoro.com&#10;&#10;Iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;&#10;IIscriviti al mio canale: https://goo.gl/Xkzh8A&#10;&#10;IIdeato da Massimo Polidoro&#10;&#10;Ha collaborato Roberta Baria&#10;&#10;Grazie a Francesco Miceli&#10;&#10;Le immagini del canale spesso provengono da Wikimedia Commons, dalla Collezione James Randi, dalla Collezione CICAP e dalla mia Collezione personale &#10;&#10;Questa descrizione contiene link affiliati, il che significa che in caso di acquisto di qualcuno dei libri segnalati ricever&#242; una piccola commissione: un piccolo contributo per sostenere il canale e la realizzazione di questi video. Grazie per il sostegno!"
-    channeltitle "Massimo Polidoro"
-    channelid "UCSKSPISyIsexROCyKZLkD9w"
+    date "2021-11-20T22:48:37Z"
+    title "Reno 911 Star Carlos Alazraqui Talks  Fauci Impression"
+    description "The incredible talented actor, comedy, voiceover actor sits down with WHO'S the ROSS? talk show to discuss the upcoming Reno 911 movie on Paramount+ &#34;The Hunt for Qanon,&#34; divulges his &#34;Fave Five Characters&#34; to play, wows with his Fauci Impression, plus talks recent Horror film &#34;Witness Infection.&#34;"
+    channeltitle "Aaron Ross"
+    channelid "UCSniCp6QxufYSpaSIFHfTnA"
     favcount 0
-    viewcount 69999
-    likecount 3200
-    commentcount 759
-    duration "PT20M27S"
-    indegree 6
-    sentiment 1
-    cluster 10
+    viewcount 185
+    likecount 8
+    commentcount -1
+    duration "PT7M14S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 298
+    id 238
+    name "298"
     label "swHsbunOGH4"
     step 0
     date "2022-02-10T11:20:32Z"
@@ -4560,12 +7160,23 @@ graph
     commentcount 15
     duration "PT28M49S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 299
+    id 239
+    name "299"
     label "kQ4AaIGxLxs"
     step 0
     date "2021-11-03T00:05:32Z"
@@ -4579,12 +7190,23 @@ graph
     commentcount 1907
     duration "PT2M39S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 300
+    id 240
+    name "300"
     label "UG9ao9fY75c"
     step 0
     date "2020-08-27T01:00:03Z"
@@ -4598,12 +7220,23 @@ graph
     commentcount -1
     duration "PT11M32S"
     indegree 5
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 10
   ]
   node
   [
-    id 301
+    id 241
+    name "301"
     label "Y_YHbOwR_Rc"
     step 0
     date "2021-10-09T01:30:09Z"
@@ -4617,12 +7250,23 @@ graph
     commentcount 2441
     duration "PT11M20S"
     indegree 8
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 302
+    id 242
+    name "302"
     label "n-DO-tE7dsk"
     step 0
     date "2021-11-01T01:00:09Z"
@@ -4636,50 +7280,83 @@ graph
     commentcount 2456
     duration "PT11M22S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 304
-    label "bROze9AMwic"
+    id 243
+    name "303"
+    label "-2L-5UAya1U"
     step 0
-    date "2021-12-15T06:06:44Z"
-    title "QAnon and On"
-    description "In the most information-rich era of world history, how and why can people be persuaded to believe that hundreds of thousands of children are somehow being stashed away in city sewers? Or that feminists are plotting to ruin video games? Or that Donald Trump is waging a secret war against a cabal of alien lizard people?&#10;&#10;What would motivate followers to so forcefully avoid the facts and surrender instead to made-up stories designed to influence and control? It&#8217;s a question that has haunted Van, herself a veteran of social media&#8217;s relentless trolling wars. To understand why, she delves into the historical, political, sociological and psychological context of conspiracy belief.&#10;&#10;QAnon and On is the story of the modern internet, the farscape of political belief and a disinformation pipeline built between the two that poses an ongoing threat to democracy itself. Shocking and mesmerising in equal measure, this book will open our eyes to the dangers of partisan belief.&#10;&#10;Van Badham spoke with Per Capita's Emma Dawson at this webinar recorded on 15 December 2021."
-    channeltitle "Per Capita Australia"
-    channelid "UCbipv3NQOeZbBFJ7y2afmGA"
+    date "2021-02-01T21:48:22Z"
+    title "QAnon, Boogaloo, Proud Boys: Whats next for the U.S. extreme right?"
+    description "QAnon, the Boogaloo movement, the Proud Boys &#8212; names once lurking on the fringes of the internet are now making mainstream headlines. On today&#8217;s episode, Saba Eitizaz talks to Amarnath Amarasingham, a veteran researcher on terrorism and political violence, about what could be next for the American far-right and whether there are some global parallels to how they operate.&#13;&#10;&#13;&#10; If you would like to support the journalism of the Toronto Star, you can subscribe at thestar.com/subscribingmatters."
+    channeltitle "Toronto Star"
+    channelid "UCWE58e_BbmBgE8h-oskutQA"
     favcount 0
-    viewcount 77
-    likecount -1
-    commentcount -1
-    duration "PT1H34S"
+    viewcount 1109
+    likecount 19
+    commentcount 11
+    duration "PT18M38S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 307
-    label "IgbhDwzRAgs"
+    id 244
+    name "305"
+    label "YPe0m28Glcs"
     step 0
-    date "2020-11-01T20:00:03Z"
-    title "QAnon isns Making Things Worse."
-    description "Website - https://www.vaush.gg/&#10;Patreon - https://www.patreon.com/vaush&#10;Donate - https://www.paypal.me/vaush&#10;&#10;Twitter - https://twitter.com/VaushV&#10;Instagram - https://www.instagram.com/vaushv/&#10;Facebook - https://www.facebook.com/vaushvidya&#10;TikTok - https://www.tiktok.com/@vaushvidya&#10;Podcast - https://anchor.fm/vaush&#10;&#10;Intro animation credit goes to https://twitter.com/ItIsMeKyleG &#38; https://twitter.com/honeybunnbadger for the visuals, and https://twitter.com/sound_sierra for the audio! Thank you!&#10;&#10;#qanon #childmarriage #childbeautypageants"
-    channeltitle "Vaush"
-    channelid "UC1E-JS8L0j1Ei70D9VEFrPQ"
+    date "2020-08-17T15:34:14Z"
+    title "Kinzinger on CNN discussing QAnon Conspiracies and Combating Disinformation"
+    description "On Sunday, August 16th, Congressman Adam Kinzinger (R-IL) joined CNN's 'Reliable Sources' with Brian Stelter to discuss QAnon Conspiracies and the importance of combating these disinformation campaigns in America.&#10;&#10;-----&#10;Adam Kinzinger is a common-sense conservative who believes servant leadership, a pragmatic approach, and civil discourse are essential to resolving the issues we face today. &#10;&#10;Currently serving his fifth term in the U.S. House of Representatives, Congressman Kinzinger proudly represents Illinois&#8217; 16th Congressional District, which stretches across 14 counties in Northern Illinois. He serves as a member of the House Committee on Energy and Commerce and the House Foreign Affairs Committee, where he serves as Ranking Member of the Subcommittee on Europe, Eurasia, Energy and the Environment. His top priorities include strengthening U.S. energy policy and making our nation less reliant on foreign resources as well as bolstering the strength of our national security &#8211; both at home and abroad. &#10; &#10;Prior to being elected to Congress, Kinzinger served in the U.S. Air Force in both Operation Iraqi Freedom and Operation Enduring Freedom. He continues to serve his country as a pilot in the Air National Guard, with the current rank of Lieutenant Colonel, and balances this service with his duties in Congress, where he works tirelessly for Illinois and for the security of our nation. From getting veterans back to work, to combatting the opioid epidemic, Congressman Kinzinger continues to fight for his constituents and stand up for America.&#10; &#10;Subscribe to Congressman Kinzinger&#8217;s YouTube page here: https://www.youtube.com/user/RepAdamKinzinger/featured&#10;Learn more about the Congressman&#8217;s work and the district he serves here: https://kinzinger.house.gov/&#10;And follow Congressman Kinzinger on:&#10;Twitter: https://twitter.com/RepKinzinger&#10;Facebook: https://www.facebook.com/RepKinzinger/&#10;Snapchat: https://www.snapchat.com/add/repkinzinger"
+    channeltitle "Rep. Adam Kinzinger"
+    channelid "UCjDHxyjndxxhjuPWyEBc7UA"
     favcount 0
-    viewcount 253544
-    likecount 13246
-    commentcount 1561
-    duration "PT22M15S"
-    indegree 5
-    sentiment 1
-    cluster 9
+    viewcount 1758
+    likecount 26
+    commentcount 42
+    duration "PT4M6S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 308
+    id 245
+    name "308"
     label "MnwqxJiK5S8"
     step 0
     date "2021-11-04T03:45:00Z"
@@ -4693,12 +7370,23 @@ graph
     commentcount 2082
     duration "PT9M16S"
     indegree 10
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 309
+    id 246
+    name "309"
     label "rZWf48jSvXQ"
     step 0
     date "2020-09-12T22:25:48Z"
@@ -4712,31 +7400,53 @@ graph
     commentcount 3
     duration "PT12M5S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 312
-    label "jrkhRR7WtJQ"
+    id 247
+    name "310"
+    label "JY79KL3Hb3U"
     step 0
-    date "2021-11-30T08:30:10Z"
-    title "Rittenhouse Sparks QAnon Civil War"
-    description "QAnon followers are not too found of Kyle Rittenhouse at the moment after he publicly aired out his disapproval of extremist conspiracy lawyer and Trump-ally Lin Wood. Cenk Uygur and Ana Kasparian discuss on The Young Turks. Watch LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live&#10;&#10;Read more HERE: &#10;https://www.yahoo.com/news/qanon-believers-rattled-kyle-rittenhouse-141259289.html&#10;&#10;&#34;QAnon followers were taken aback this week when acquitted gunman Kyle Rittenhouse slammed extremist lawyer and longtime QAnon acolyte Lin Wood as &#8220;insane.&#8221;&#10;&#10;As Rittenhouse and Wood faced off against each other, QAnon backers were speaking out in support of the lawyer &#8212; or the gunman &#8212; indicating a possible fracture in the far-right conspiracy movement.&#34;&#10;&#10;&#10;***&#10;&#10;The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET.&#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;FACEBOOK: &#9758; http://www.facebook.com/TheYoungTurks&#10;TWITTER: &#9758; http://www.twitter.com/TheYoungTurks&#10;INSTAGRAM: &#9758; http://www.instagram.com/TheYoungTurks&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #TheYoungTurks #BreakingNews&#10;&#10;211129__TB03_Kyle_Rittenhouse_Qanon_Civil_War"
-    channeltitle "The Young Turks"
-    channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
+    date "2020-07-07T01:11:58Z"
+    title "Target Karen Claims Association With QAnon After She Destroys Face Masks"
+    description "A destroyed face mask display in an Arizona Target makes another Karen go viral, but this woman claims she&#8217;s working with the deep-state and President Trump.&#10;--&#10;Follow us Online: http://whatstrending.com&#10;Read more on Facebook: http://www.facebook.com/WhatsTrending &#10;Keep up with us on Instagram: http://instagram.com/whatstrending&#10;Laugh more on Twitter: http://twitter.com/whatstrending&#10;Find us on TikTok: @whatstrending&#10;Sign Up for Our Newsletter: http://bit.ly/wtnewsletter &#10;Business Inquiries: whatstrendingaccts@gmail.com&#10;&#10;Andy Lalwani&#10;Tweet Me: http://www.twitter.com/andylalwani&#10;Find me on IG: http://www.instagram.com/andylalwani&#10;&#10;Shira Lazar&#10;Tweet Me: http://www.twitter.com/shiralazar&#10;Find me on IG: http://www.instagram.com/shiralazar"
+    channeltitle "What's Trending"
+    channelid "UCJ7LKwgheOe8OHD5YWnlPUg"
     favcount 0
-    viewcount 326037
-    likecount 10516
-    commentcount 3051
-    duration "PT11M47S"
-    indegree 11
-    sentiment 1
-    cluster 5
+    viewcount 37574
+    likecount 430
+    commentcount 213
+    duration "PT4M32S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 10
   ]
   node
   [
-    id 313
+    id 248
+    name "313"
     label "oCKa4OVh5-s"
     step 0
     date "2020-11-12T12:00:10Z"
@@ -4750,12 +7460,23 @@ graph
     commentcount 894
     duration "PT3M54S"
     indegree 2
-    sentiment 1
-    cluster 11
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 314
+    id 249
+    name "314"
     label "-jdCgct6fAk"
     step 0
     date "2021-08-14T03:45:01Z"
@@ -4769,50 +7490,83 @@ graph
     commentcount 4016
     duration "PT12M51S"
     indegree 3
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 317
-    label "kmAwfo-9IWk"
+    id 250
+    name "315"
+    label "kdLZpUfgjms"
     step 0
-    date "2022-05-10T22:30:06Z"
-    title "QAnon Prophet Finally Solves The Covfefe Mystery"
-    description "The QAnon prophets are at it again, this time the claim that they understand the infamous covfefe tweet from Donald Trump. Jayar Jackson breaks it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;#TYT #TheWatchlist #JayarJackson"
-    channeltitle "Rebel HQ"
-    channelid "UCuMo0RRtnNDuMB8DV5stEag"
+    date "2021-05-23T16:00:17Z"
+    title "Qanon Shamans lawyer speaks out"
+    description "The lawyer for the Qanon Shaman speaks out about his clients defense for his trespass into the Capitol complex during the January 6th Capitol riots - Via Newsmax's 'John Bachman Now.'&#10;&#10;Watch Newsmax on Directv 349, Xfinity 1115, Dish 216, Spectrum (see channels), Cox, Optimum, U-Verse 1120, FiOS 615, Suddenlink, CenturyLink 1209, Mediacom 277, Fubo, Sling, WOW!, Armstrong, YouTube live stream, or the Newsmax smartphone APP. Find your cable/streaming provider here: https://newsmaxtv.com/findus&#10;&#10;Stay up-to-date at https://newsmax.com&#10;&#10;Like Newsmax on Facebook: https://facebook.com/newsmax&#10;&#10;Follow Newsmax on Twitter: https://twitter.com/newsmax&#10;&#10;Follow Newsmax on Instagram: https://instagram.com/newsmax"
+    channeltitle "Newsmax TV"
+    channelid "UCx6h-dWzJ5NpAlja1YsApdg"
     favcount 0
-    viewcount 14169
-    likecount 816
-    commentcount 418
-    duration "PT6M13S"
-    indegree 4
-    sentiment 1
+    viewcount 42380
+    likecount 2248
+    commentcount 792
+    duration "PT7M14S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
+  ]
+  node
+  [
+    id 251
+    name "318"
+    label "7bZddpx8dtM"
+    step 0
+    date "2021-04-14T17:00:08Z"
+    title ": Jeffries shreds GOP"
+    description "DEMOCRATS/REPUBLICANS: House Democratic Caucus Chair Rep. Hakeem Jeffries slams the GOP: &#34;They are out of touch with reality in large measure... They are the party of Dr. Seuss, conspiracy theories, QAnon, Marjorie Taylor Greene, and Matt Gaetz.&#34;&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
+    favcount 0
+    viewcount 4786
+    likecount 76
+    commentcount 265
+    duration "PT1M16S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 319
-    label "06AfpZf3BzU"
-    step 0
-    date "2022-07-10T04:43:35Z"
-    title "Trumps Rise, and Georgia Guidestones Were Bombed!"
-    description "We talked about the Georgia Guidestones and then they were bombed weeks later... a coincidence?&#10;&#10;&#160;In 1979, an anonymous man using the pseudonym Robert C. Christian commissioned the project from a local granite company on behalf of &#8220;a small group of loyal Americans.&#8221; That kicked off the construction of five, 16-foot tall slabs of polished granite arranged in a starlike pattern&#8212;with a 25,000lb capstone.&#10;&#10;The slabs feature a 10-part message in eight different languages about how to live in an &#8220;age of reason.&#8221; One note recommends keeping the world population under 500 million and only reproducing wisely.&#10;&#10;Fun fact, he said to the builder, apparently, through my Youtube Wikipedia research that he wanted them to be able to withstand catastrophic events, I.e an apocalypse.&#10;&#10;No suspects have been identified in the bombing, but a Georgia district attorney said the perp(s) would face a minimum of 20 years in prison&#10;&#10;Here&#8217;s my thing after I researched this a bit more. If you were trying to plan this globalistic takeover and guide people to eugenics and other sinister stuff, why would you publish it on 10 foot stones&#10;&#10;Christian J. Pinto. In his documentary&#160;Dark Clouds Over Elberton,&#10;Pinto interviewed Wyatt Martin, and was allowed to view one of Christian&#8217;s letters to Martin, as well as a glimpse of the papers in the box where Martin stored his paperwork and correspondences relating to the Guidestones. Upon analysis of the footage, he spied a post mark upon one of the letters: Fort Dodge, Iowa. Another envelope had a return address from that same city in Iowa.&#160;&#10;&#10;That address, Pinto discovered, was associated with a Doctor Herbert Hinzie Kersten. He lived there both when the Guidestones were commissioned in 1979, as well as in 1998, the date on the letter shown to Pinto.&#160;&#10;&#10;Kersten was additionally a self-proclaimed conservationist (indeed, it&#8217;s literally engraved on his headstone), and was deeply concerned with human population growth. He was of the belief, among other things, that people with lower IQs should be paid to be sterilized to improve future generations of humans, very in keeping with the tenants of the Guidestones.&#160;&#10;&#10;Trump's actions in the January 6th riot:&#160;https://www.theguardian.com/us-news/2022/jun/19/january-6-republican-adam-kinzinger-trump-actions-seditious-conspiracy&#10;&#10;The hearing, the second in a series planned for this month, marked a further attempt by the committee to show that Mr. Trump was responsible for summoning supporters to Washington on Jan. 6 for his Stop the Steal rally and then directing a mob toward the Capitol.&#10;&#10;By showing that Mr. Trump was repeatedly informed by some of his closest advisers that he had lost the election, the committee hopes to establish that his true goal was to maintain power at any cost.&#10;&#10;When it finishes its investigation later this year, the committee will have to decide whether to refer a criminal case to the Justice Department.&#10;&#10;As Kinzinger told This Week&#8217;s host George Stephanopoulos, the January 6 committee cannot file criminal charges against Trump. And the Democratic panel chairman, Mississippi congressman Bennie Thompson, said he does not expect he and his colleagues to make a referral for charges to the justice department, which is the sole entity with the power to prosecute Trump.&#10;&#10;It&#8217;s been brought to light that Congress had intelligence days before Jan. 6, 2021, that there might be violence. Yet Democratic Party leadership didn&#8217;t take measures to prepare Capitol security for violence.&#10;&#10;Look Trump definitely promotes conspiracy theories&#10;Claimed Biden had members of SEAL Team 6 killed to cover up a purportedly failed assassination of Osama bin Laden in 2011.&#10;&#10;False Birther Conspiracy (Obama not born in America)&#10;&#10;Ted Cruz&#8217;s father and JFK&#8217;s Assassination: &#8220;His father was with Lee Harvey Oswald prior to Oswald&#8217;s being, you know, shot,&#8221; Trump said. &#8220;I mean, the whole thing is ridiculous. What &#8212; what is this right, prior to his being shot. And nobody even brings it up.&#8221;&#10;&#10;Trump cast suspicion on Biden by saying he is controlled by &#8220;people that you&#8217;ve never heard of. People that are in the dark shadows.&#8221; Ingraham asked, &#8220;What does that mean? That sounds like conspiracy theory. Dark shadows, what is that?&#8221;Trump responded by referring to &#8220;people that you haven&#8217;t heard of&#8221;&#160;who are &#8220;controlling the streets.&#8221;&#160;He then told a story about a plane that was &#8220;almost completely loaded with thugs wearing these dark uniforms, black uniforms with gear&#8221; and later said they &#8220;were on the plane to do big damage.&#8221;&#10;&#10;Supreme Court Justice Antonin Scalia&#160;was murdered, &#8220;But they say they found a pillow on his face, which is a pretty unusual place to find a pillow.&#8221;&#10;&#10;Vince Foster, who had worked with Clinton as a lawyer in Arkansas and was a deputy in the White House counsel&#8217;s office during the Clinton administration,&#160;killed himself&#160;in a Northern Virginia park in 1993. &#10;&#10;,"
-    channeltitle "Sunday Punch Podcast"
-    channelid "UCP9pLU6bhHNBYlX0Lo8ZXaA"
-    favcount 0
-    viewcount 60
-    likecount 2
-    commentcount 5
-    duration "PT1H8M54S"
-    indegree 1
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 320
+    id 252
+    name "320"
     label "_NGnOCVS16A"
     step 0
     date "2021-12-21T17:52:34Z"
@@ -4826,31 +7580,53 @@ graph
     commentcount 192
     duration "PT54M40S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 253
+    name "321"
+    label "a88OIG_JOcY"
+    step 0
+    date "2021-01-22T07:00:00Z"
+    title "QAnon decoder"
+    description "Volgens de complottheorie QAnon behoort kersvers president Joe Biden tot een elite van satanistische pedofielen en vermomde hagedissen. Het lijkt misschien van de pot gerukt, maar bij QAnon kijken ze nu eenmaal met een andere bril naar het nieuws."
+    channeltitle "De Ideale Wereld"
+    channelid "UCgxM87t7JZF60Z37CQbMaYA"
+    favcount 0
+    viewcount 19069
+    likecount 723
+    commentcount 39
+    duration "PT59S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 12
   ]
   node
   [
-    id 323
-    label "XsMC3X62n4c"
-    step 0
-    date "2022-04-16T18:00:08Z"
-    title "QAnon Documentary Is Next Level MADNESS"
-    description "A new QAnon documentary, Watch the Water, promotes a truly unhinged conspiracy theory mixing snake venom, magnetic beads, satan's DNA and Covid vaccines. John Iadarola and Yasmin Khan break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;A Batsh*t New QAnon Documentary Warns That COVID Vaccines Transfer &#8216;Satan&#8217;s DNA&#8217; Into Your Body - https://uproxx.com/viral/watch-the-water-qanon-documentary-satan-dna/&#10;&#10;&#34;Wherever QAnon goes, Batsh*t is right there alongside him. But even by wacky conspiracy theory standards (Trump-JFK Jr. 2024, anyone?), a new documentary called Watch the Water is jaw-droppingly insane. Or, as NBC News senior reporter Ben Collins describes it: &#8220;It is even more insane than usual.&#8221;&#10;&#10;Among the many claims made in the documentary, according to Raw Story, are that the COVID &#8220;vaccines contain a mixture of magnets and snake venom with the goal of transferring &#8216;Satan&#8217;s DNA&#8217; into human bodies.&#8221;&#34;&#10;&#10;**&#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
-    channeltitle "The Damage Report"
-    channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
-    favcount 0
-    viewcount 47395
-    likecount 2017
-    commentcount 969
-    duration "PT8M12S"
-    indegree 2
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 324
+    id 254
+    name "324"
     label "-A8URYUNKeo"
     step 0
     date "2020-12-19T11:30:00Z"
@@ -4864,12 +7640,23 @@ graph
     commentcount 3079
     duration "PT50M17S"
     indegree 6
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
   ]
   node
   [
-    id 325
+    id 255
+    name "325"
     label "4Ao0uncWqXc"
     step 0
     date "2020-11-23T10:09:11Z"
@@ -4883,50 +7670,83 @@ graph
     commentcount 349
     duration "PT2M53S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "R"
+    cluster 11
+  ]
+  node
+  [
+    id 256
+    name "326"
+    label "85GRWClyY10"
+    step 0
+    date "2020-07-31T07:00:03Z"
+    title "QAnon "
+    description "&#1052;&#1080;&#1088; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1080;&#1088;&#1091;&#1077;&#1090; &#1101;&#1083;&#1080;&#1090;&#1072;&#1088;&#1085;&#1072;&#1103; &#1075;&#1088;&#1091;&#1087;&#1087;&#1072; &#1089;&#1072;&#1090;&#1072;&#1085;&#1080;&#1089;&#1090;&#1086;&#1074;-&#1087;&#1077;&#1076;&#1086;&#1092;&#1080;&#1083;&#1086;&#1074;, &#1072; &#1082;&#1086;&#1088;&#1086;&#1085;&#1072;&#1074;&#1080;&#1088;&#1091;&#1089;&#1072; &#1085;&#1077; &#1089;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090;. &#1042; &#1101;&#1090;&#1086; &#1074;&#1077;&#1088;&#1103;&#1090; &#1089;&#1090;&#1086;&#1088;&#1086;&#1085;&#1085;&#1080;&#1082;&#1080; &#1082;&#1086;&#1085;&#1089;&#1087;&#1080;&#1088;&#1086;&#1083;&#1086;&#1075;&#1080;&#1095;&#1077;&#1089;&#1082;&#1086;&#1081; &#1090;&#1077;&#1086;&#1088;&#1080;&#1080; QAnon. &#1047;&#1072; &#1074;&#1088;&#1077;&#1084;&#1103; &#1087;&#1072;&#1085;&#1076;&#1077;&#1084;&#1080;&#1080; &#1080;&#1093; &#1095;&#1080;&#1089;&#1083;&#1086; &#1074;&#1099;&#1088;&#1086;&#1089;&#1083;&#1086; &#1074; &#1085;&#1077;&#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; &#1088;&#1072;&#1079;, &#1072; &#1086;&#1090;&#1076;&#1077;&#1083;&#1100;&#1085;&#1099;&#1077; &#1091;&#1095;&#1072;&#1089;&#1090;&#1085;&#1080;&#1082;&#1080; &#1076;&#1074;&#1080;&#1078;&#1077;&#1085;&#1080;&#1103; &#1087;&#1083;&#1072;&#1085;&#1080;&#1088;&#1091;&#1102;&#1090; &#1091;&#1095;&#1072;&#1089;&#1090;&#1074;&#1086;&#1074;&#1072;&#1090;&#1100; &#1074; &#1074;&#1099;&#1073;&#1086;&#1088;&#1072;&#1093; &#1057;&#1064;&#1040; &#1074; 2020 &#1075;&#1086;&#1076;&#1091;.&#10;&#10;&#1055;&#1086;&#1076;&#1087;&#1080;&#1089;&#1099;&#1074;&#1072;&#1081;&#1090;&#1077;&#1089;&#1100; &#1085;&#1072; &#1085;&#1072;&#1096; &#1082;&#1072;&#1085;&#1072;&#1083;: https://www.youtube.com/bbcrussian&#13;&#10;&#13;&#10;&#1056;&#1091;&#1089;&#1089;&#1082;&#1072;&#1103; &#1089;&#1083;&#1091;&#1078;&#1073;&#1072; &#1041;&#1080;-&#1073;&#1080;-&#1089;&#1080;:&#13;&#10;https://www.bbc.com/russian&#13;&#10;&#13;&#10;&#1052;&#1099; &#1074; &#1089;&#1086;&#1094;&#1089;&#1077;&#1090;&#1103;&#1093;:&#13;&#10;&#13;&#10;Instagram: https://instagram.com/bbcrussian&#13;&#10;Facebook: https://facebook.com/bbcnewsrussian&#13;&#10;Telegram: https://t.me/bbcrussian&#13;&#10;Twitter: https://twitter.com/bbcrussian&#13;&#10;&#1042;&#1050;&#1086;&#1085;&#1090;&#1072;&#1082;&#1090;&#1077;: https://vk.com/bbc&#13;&#10;&#1054;&#1076;&#1085;&#1086;&#1082;&#1083;&#1072;&#1089;&#1089;&#1085;&#1080;&#1082;&#1080;: https://ok.ru/bbcrussian&#13;&#10;&#1071;&#1085;&#1076;&#1077;&#1082;&#1089;.&#1044;&#1079;&#1077;&#1085;: https://zen.yandex.ru/bbcrussian&#13;&#10;&#13;&#10;&#1055;&#1086;&#1076;&#1082;&#1072;&#1089;&#1090;&#1099; &#1056;&#1091;&#1089;&#1089;&#1082;&#1086;&#1081; &#1089;&#1083;&#1091;&#1078;&#1073;&#1099; &#1041;&#1080;-&#1073;&#1080;-&#1089;&#1080;: https://bbc.in/2YumUTl&#13;&#10;&#13;&#10;&#1057;&#1082;&#1072;&#1095;&#1080;&#1074;&#1072;&#1081;&#1090;&#1077; &#1087;&#1088;&#1080;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1077; &#1056;&#1091;&#1089;&#1089;&#1082;&#1086;&#1081; &#1089;&#1083;&#1091;&#1078;&#1073;&#1099; &#1041;&#1080;-&#1073;&#1080;-&#1089;&#1080;:&#13;&#10;&#13;&#10;App Store: https://apple.co/2KWOeX0&#13;&#10;Google Play: https://bit.ly/2J6ePyW&#13;&#10;&#13;&#10;&#1050;&#1086;&#1084;&#1084;&#1077;&#1085;&#1090;&#1072;&#1088;&#1080;&#1080; &#1082; &#1074;&#1080;&#1076;&#1077;&#1086; &#1087;&#1088;&#1086;&#1093;&#1086;&#1076;&#1103;&#1090; &#1084;&#1086;&#1076;&#1077;&#1088;&#1072;&#1094;&#1080;&#1102;. &#1052;&#1099; &#1086;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1084; &#1079;&#1072; &#1089;&#1086;&#1073;&#1086;&#1081; &#1087;&#1088;&#1072;&#1074;&#1086; &#1091;&#1076;&#1072;&#1083;&#1103;&#1090;&#1100; &#1090;&#1077; &#1082;&#1086;&#1084;&#1084;&#1077;&#1085;&#1090;&#1072;&#1088;&#1080;&#1080;, &#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1077; &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1090; &#1086;&#1089;&#1082;&#1086;&#1088;&#1073;&#1083;&#1077;&#1085;&#1080;&#1103;, &#1087;&#1088;&#1080;&#1079;&#1099;&#1074;&#1099; &#1082; &#1085;&#1072;&#1089;&#1080;&#1083;&#1080;&#1102;, &#1082;&#1083;&#1077;&#1074;&#1077;&#1090;&#1091;, &#1088;&#1091;&#1075;&#1072;&#1090;&#1077;&#1083;&#1100;&#1089;&#1090;&#1074;&#1072;, &#1088;&#1077;&#1082;&#1083;&#1072;&#1084;&#1091; &#1080;&#1083;&#1080; &#1089;&#1087;&#1072;&#1084;. &#1050; &#1089;&#1086;&#1078;&#1072;&#1083;&#1077;&#1085;&#1080;&#1102;, &#1091; &#1085;&#1072;&#1089; &#1085;&#1077;&#1090; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1080; &#1084;&#1086;&#1076;&#1077;&#1088;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100; &#1082;&#1086;&#1084;&#1084;&#1077;&#1085;&#1090;&#1072;&#1088;&#1080;&#1080; &#1074; &#1088;&#1077;&#1078;&#1080;&#1084;&#1077; &#1088;&#1077;&#1072;&#1083;&#1100;&#1085;&#1086;&#1075;&#1086; &#1074;&#1088;&#1077;&#1084;&#1077;&#1085;&#1080;, &#1087;&#1086;&#1101;&#1090;&#1086;&#1084;&#1091; &#1074;&#1072;&#1096; &#1082;&#1086;&#1084;&#1084;&#1077;&#1085;&#1090;&#1072;&#1088;&#1080;&#1081; &#1073;&#1091;&#1076;&#1077;&#1090; &#1086;&#1087;&#1091;&#1073;&#1083;&#1080;&#1082;&#1086;&#1074;&#1072;&#1085; &#1085;&#1077; &#1089;&#1088;&#1072;&#1079;&#1091;. &#1057;&#1087;&#1072;&#1089;&#1080;&#1073;&#1086; &#1079;&#1072; &#1087;&#1086;&#1085;&#1080;&#1084;&#1072;&#1085;&#1080;&#1077;!"
+    channeltitle "BBC News - &#1056;&#1091;&#1089;&#1089;&#1082;&#1072;&#1103; &#1089;&#1083;&#1091;&#1078;&#1073;&#1072;"
+    channelid "UC8zQiuT0m1TELequJ5sp5zw"
+    favcount 0
+    viewcount 88422
+    likecount 2135
+    commentcount 356
+    duration "PT4M53S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 327
-    label "mxvQdjdKP78"
+    id 257
+    name "328"
+    label "ecgeJhg_JYI"
     step 0
-    date "2020-10-30T09:16:56Z"
-    title "QAnon on salaliittoteorioista huuruisin  miten siihen uskotaan Suomessakin? HS MINIDOKUMENTTI"
-    description "QAnon on pinnalta tarkastellen k&#228;sitt&#228;m&#228;tt&#246;m&#228;n typer&#228; salaliittoteoria. Se pohjaa ajatukseen, jonka mukaan Yhdysvaltoja ja maailmaa yritt&#228;&#228; hallita salainen eliitti, joka on mieltynyt milloin satanismiin, milloin pedofiliaan, milloin mihinkin. Ja ett&#228; t&#228;t&#228; salaista eliitti&#228; vastaan taistelee, kukas muu kuin Donald Trump. &#10;&#10;Mutta miten t&#228;m&#228; kaikki alkoi menn&#228; l&#228;pi my&#246;s Suomessa? Katso HS Minidokumentti, tilaa kanava ja kommentoi alla!&#10;&#10;Lue t&#228;st&#228; lis&#228;&#228; Qanonista: https://www.hs.fi/nyt/art-2000006706094.html"
-    channeltitle "Helsingin Sanomat"
-    channelid "UCjchIbq7CGYxApD2k2kW4zA"
+    date "2019-01-08T03:53:21Z"
+    title "QANON OR MAGANON from ALDI???"
+    description "Tell me whats on your mind NOW by texting me @ (352)226-2513!!!"
+    channeltitle "Kip Paseo"
+    channelid "UC4jEkONXwjy1sbQ8yF1oIMw"
     favcount 0
-    viewcount 22051
-    likecount 247
-    commentcount 276
-    duration "PT13M10S"
+    viewcount 1246
+    likecount 10
+    commentcount 9
+    duration "PT8M7S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 330
-    label "4zMV4cLz05Y"
-    step 0
-    date "2022-05-11T20:30:00Z"
-    title "QAnon Queen Tells Followers Not To Pay Bills"
-    description "There goes QAnon queen of Canada, Romana Didulo, speaking to a gaggle of minions about how her supreme authority makes court orders and laws that she disagrees with ineffective. &#10;Jayar Jackson and Farron Cousins break it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;Read more HERE: https://www.vice.com/en/article/z3na53/qanon-queen-bills-electricty-canada&#10;&#10;&#34;The more who do it, the quicker we can be free of enslavement,&#8221; she wrote on one of the group&#8217;s Telegram channels. &#8220;Those still living in fear are making it harder to get out. Don&#8217;t be afraid, because we&#8217;re in this together.&#8221;&#10;&#10;Many, many others have posted that they, too, have stopped paying their bills after hearing that Romana Didulo&#8212;a QAnon influencer who has them convinced she&#8217;s running Canada behind the scenes&#8212;made a decree that electricity is free. Several have posted their power has been shut off or that they were on the verge of having it shut off and relented to finally paying. &#34;&#10;*** &#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;#TYT #TheWatchlist #JayarJackson&#10;&#10;220511__WL01_Qanon_Queen"
-    channeltitle "Rebel HQ"
-    channelid "UCuMo0RRtnNDuMB8DV5stEag"
-    favcount 0
-    viewcount 55770
-    likecount 2594
-    commentcount 1516
-    duration "PT9M52S"
-    indegree 3
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 331
+    id 258
+    name "331"
     label "H46eprnYcuY"
     step 0
     date "2021-05-28T02:15:00Z"
@@ -4940,12 +7760,23 @@ graph
     commentcount 1565
     duration "PT13M6S"
     indegree 14
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 332
+    id 259
+    name "332"
     label "8ziJwXOVBSw"
     step 0
     date "2020-08-28T01:00:01Z"
@@ -4959,12 +7790,23 @@ graph
     commentcount -1
     duration "PT11M17S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 333
+    id 260
+    name "333"
     label "-bd6bTRppyc"
     step 0
     date "2021-12-07T18:43:20Z"
@@ -4978,88 +7820,143 @@ graph
     commentcount 0
     duration "PT2M12S"
     indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 335
-    label "8wwsKTew_v8"
-    step 0
-    date "2021-02-02T18:07:54Z"
-    title "QAnon Training Video"
-    description "Qnaversity Part 1"
-    channeltitle "Brent Terhune"
-    channelid "UClpzKyVFujAevCELqapPXqA"
-    favcount 0
-    viewcount 21765
-    likecount 2437
-    commentcount 220
-    duration "PT2M11S"
-    indegree 0
-    sentiment 1
-    cluster 9
-  ]
-  node
-  [
-    id 339
-    label "CgbPg5jyg3c"
-    step 0
-    date "2020-11-23T17:00:11Z"
-    title "Qanon: a Christ Centered Response"
-    description "Qanon: a Christ Centered Response&#10;&#129309;: Partner with us on Patreon https://www.patreon.com/kingsdream&#10;&#128166;: New Merch https://www.kingsdreament.com/store&#10;&#128308;: Naval's full Podcast: https://youtu.be/1-TZqOsVCNM&#10;&#128176;: Get debt free with Dave: https://youtu.be/H2Zd0-0XLBU&#10;&#128184;: Invest with robinhood: http://join.robinhood.com/ruslank30&#10;&#9658; Subscribe: http://goo.gl/A3eVy8&#10;&#9658; Text Ruslan (Don't Send Links Please) 714-710-1017&#10;&#10;For more information:&#10;http://RuslanKD.com&#10;http://KingsDreamEnt.com&#10;http://Instagram.com/RuslanKD&#10;http://Facebook.com/RuslanKD&#10;http://twitter.com/RuslanKD&#10;&#10;My Gear recommendations&#10;&#10;Camera's:&#10;Canon 6D Mark II - https://goo.gl/KLmEDM&#10;Canon 7D Mark II (Great for Low Light + Music Video): http://goo.gl/b8TIvH&#10;Canon 70D (Great for Vlogging w/flip screen): http://goo.gl/5IAGaX&#10;Sony A6500 http://goo.gl/xL1CLU&#10;Canon SL2: https://amzn.to/2XYTHPQ&#10;&#10;Video Switcher:&#10;Roland 3 channel w/Audio (new 2019): https://amzn.to/2Hubp7U&#10;Roland 4 channel: https://amzn.to/2IU0XIX&#10;Roland 2 channel: https://amzn.to/2GLaLSn&#10;&#10;Lenses: &#10;Canon 24mm ($150): http://goo.gl/K28A2E&#10;Canon 50 ($125): http://goo.gl/eYp8Co&#10;Canon 10-18 ($299) Vlogging: http://goo.gl/MNuVL6&#10;Tokina 11-16 music video/photo: http://goo.gl/UwU3RQ&#10;&#10;Camera Mic:&#10;Rode VMPR http://goo.gl/eujCBD&#10;&#10;Lights:&#10;http://goo.gl/kD1azx&#10;http://goo.gl/fRE5Ac&#10;https://goo.gl/KArbTp&#10;&#10;Audio interfaces:&#10;Apogee One: http://goo.gl/Nhde5v&#10;Apogee Duet: http://goo.gl/8V5l7w&#10;Apogee Symphony: http://goo.gl/y0oGjn&#10;Cheaper Alternative&#10;Focusrite Scarlett http://goo.gl/Dasvfz&#10;&#10;Software:&#10;Reason 10 http://goo.gl/kEAXhw&#10;Final Cut Pro X http://goo.gl/LVCJCq&#10;&#10;Microphones: &#10;Neumann TLM 102: http://goo.gl/u668ku&#10;Rode NT1000: http://goo.gl/1wxEJ3&#10;Bluebird: http://goo.gl/apoaGc&#10;http://goo.gl/NKwpMi&#10;Neumann 87 [Most Expensive]: http://goo.gl/kdpyP2&#10;&#10;Pop Filter:&#10;http://goo.gl/e68x0J&#10;&#10;Filter: Kaotica EyeBall&#10;https://www.kaoticaeyeball.com/produc...&#10;&#10;Cheaper Alternative:&#10;http://goo.gl/b8TIvH&#10;&#10;Studio Monitors/Speakers:&#10;Yamaha HS8: http://goo.gl/zHjp0e&#10;&#10;Headphones: &#10;Audio-Technica ATH-M40x: http://goo.gl/Rfvnx0&#10;beyerdynamic DT 770 Pro 80: http://goo.gl/21cs3n&#10;&#10;Studio Curtains/Room Dividers:&#10;http://goo.gl/GZj94y&#10;&#10;Backdrop/Set:&#10;wall kit: http://goo.gl/iPm8gr&#10;white backdrop: http://goo.gl/oZBUUE&#10;gray backdrop: http://goo.gl/WQk1Dv&#10;&#10;Nutrition:&#10;Food Scale - https://goo.gl/gzLUNF&#10;Supplements -  &#10;Garden of Life fit - https://goo.gl/t8r3JT&#10;Garden of Life Protein - https://goo.gl/BF9RHV&#10;&#10;(If budget isn't a factor) &#10;Pre Amp/ Compressor &#10;Avalon 737: http://goo.gl/smpyb&#10;&#10;Books that have changed my life:&#10;&#34;How to Get a Record Deal&#34; http://goo.gl/wqgkT2&#10;&#34;Quitter&#34; http://goo.gl/zgpHp5&#10;&#34;Entreleadership&#34; http://goo.gl/EewQUz&#10;&#34;Power of Habit&#34; http://goo.gl/iSc3E7&#10;&#34;Purple Cow&#34; http://goo.gl/WqBR69&#10;&#34;Ask Gary Vee&#34; http://goo.gl/SLemCy&#10;&#34;New Morning Mercies&#34; http://goo.gl/yMEKVZ&#10;&#34;Blue Like Jazz&#34; http://goo.gl/9S2p5Q&#10;&#10;DISCLAIMER: This video and description contains affiliate links, which means that if you click on one of the product links, I&#8217;ll receive a small commission. This helps support the channel and allows us to continue to make videos like this. Thank you for the support!&#10;&#10;Biography:&#10;Almost a decade into his career, San Diego-based rapper Ruslan is Christian hip hop&#8217;s jack of all trades. When he isn&#8217;t writing and producing original music, he develops compelling content on Youtube, mentors up-and-coming artists, and runs his own independent label, Kings Dream Entertainment. &#10; &#10;Born Ruslan Karaoglanov to Armenian parents in Baku, Azerbaijan, Ruslan was a child when he immigrated with his family to the United States in 1991 to escape religious persecution after an ethnic conflict broke out in the wake of tensions between the dissolving Soviet Union and the Azerbaijan government. Settling in San Diego, Ruslan became interested in hip-hop around age eight, and has been honing his craft ever since. In 2010 he released Right Out Loud (The Prequel EP), followed by his full-length debut, Carry On, in 2013. Around the same time, he formed the collective Dream Junkies with fellow rappers Beleaf and John Givez. The group&#8217;s debut album, 2016&#8217;s Good Religion, registered on Billboard&#8217;s R&#38;B, rap, independent, and Heatseakers charts. In 2017 he released part one of his Indie Jones mixtape series which garnered attention on Youtube from the likes of Gary Vaynerchuk and Chase Jarvis.&#10; &#10;On Indie Jones III, the self-produced third installment in the series. This time around, he gives listeners a glimpse of the man behind the music, discussing his upbringing, his family, his work ethic, his faith, and more.&#10;&#10;#Qanon #Conspiracy"
-    channeltitle "Ruslan KD"
-    channelid "UCj2yZE96gWsFyeVYnY9zXeg"
-    favcount 0
-    viewcount 3807
-    likecount 231
-    commentcount 57
-    duration "PT16M32S"
-    indegree 1
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 341
-    label "L6n9X6bKpms"
+    id 261
+    name "334"
+    label "Acgxebewi8s"
     step 0
-    date "2020-09-06T21:30:01Z"
-    title "The Truth About QAnon"
-    description "--Alex Kaplan, Senior Researcher at Media Matters, joins David to discuss social media disinformation and online extremism, as well as the QAnon conspiracy theory&#10;&#10;Support The David Pakman Show:&#10;-Become a Member: https://www.davidpakman.com/membership&#10;-Become a Patron: https://www.patreon.com/davidpakmanshow&#10;-Book David Pakman: https://www.cameo.com/davidpakman&#10;&#10;Engage with us on social media:&#10;&#10;-Join on YouTube: https://www.youtube.com/channel/UCvixJtaXuNdMPUGdOPcY8Ag/join&#10;-Follow David on Twitter: http://www.twitter.com/dpakman&#10;-David on Instagram: http://www.instagram.com/david.pakman&#10;-TDPS on Instagram: https://www.instagram.com/davidpakmanshow/&#10;-Discuss on TDPS subreddit: http://www.reddit.com/r/thedavidpakmanshow/&#10;-Facebook: http://www.facebook.com/davidpakmanshow&#10;-Call the 24/7 Voicemail Line: (219)-2DAVIDP&#10;&#10;-Timely news is important! We upload new clips every day! Make sure to subscribe!&#10;&#10;Broadcast on September 1, 2020&#10;&#10;#davidpakmanshow #alexkaplan #qanon"
-    channeltitle "David Pakman Show"
-    channelid "UCvixJtaXuNdMPUGdOPcY8Ag"
+    date "2021-09-14T03:59:31Z"
+    title "Jennifer Siebel Newsom Slams  Before Recall Election"
+    description "First Partner Jennifer Siebel Newsom pushes for defeat of the recall of her husband Gov. Gavin Newsom (D-CA).&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 77237
-    likecount 3695
-    commentcount 1062
-    duration "PT14M47S"
-    indegree 1
-    sentiment 1
-    cluster 8
+    viewcount 14137
+    likecount 84
+    commentcount 1046
+    duration "PT9M32S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 343
-    label "JTfhYyTuT44"
+    id 262
+    name "336"
+    label "jdIBQgHM1os"
     step 0
-    date "2020-09-11T20:04:16Z"
-    title "In Search Of A Flat Earth"
-    description "Clickbait Title: The Twist at 37 Minutes Will Make You Believe We Live In Hell&#10;&#10;More Lake Footage: https://youtu.be/y8MboQzXO1o&#10;&#10;This has taken a long time to make, and it was a very winding road, but I'm glad I did it. Hiking out to the north shore of Minnewanka, a 19km round trip, is one of the worst decisions I've ever made but I'm glad I did it. I'm not sure what else to say. I'm so tired. So very, very, very tired.&#10;&#10;Flat Earth OR Why Do People Reject Science? - Philosophy Tube&#10;https://www.youtube.com/watch?v=AGvGQSazaTM&#10;&#10;Flat Earth: A Measured Response - hbomberguy&#10;https://www.youtube.com/watch?v=2gFsOoKAHZg&#10;&#10;I Read The Most Hateful Book Ever Written - Thought Slime&#10;https://www.youtube.com/watch?v=67Rg8V4g3ak&#10;&#10;Maybe We Should Be Concerned About Qanon? - SOME MORE NEWS&#10;https://www.youtube.com/watch?v=XJgX20S0Zdg&#10;&#10;If you want to stay up to date on QAnon, The QAnon Anonymous Podcast, YouTube channel Some More News, and the work of journalists Will Sommer and Alex Kaplan will give you a place to start.&#10;&#10;Music: &#10;Isolated by Kevin MacLeod (prologue)&#10;Oxygen Mask by Andy G. Cohen (title/credits)&#10;Sunset by Kai Engel (across a curved lake)&#10;Fastest Man on Earth by Jahzzer (they're all going to Q)&#10;Released under a Creative Commons Attribution International License&#10;&#10;Written and performed by Dan Olson&#10;&#10;Crowdfunding: https://www.patreon.com/foldablehuman&#10;Twitter: https://twitter.com/FoldableHuman&#10;&#10;00:00 Prologue&#10;03:21 Intro&#10;05:01 Part 1&#10;37:39 Part 2"
-    channeltitle "Folding Ideas"
-    channelid "UCyNtlmLB73-7gtlBz00XOQQ"
+    date "2022-02-21T18:57:23Z"
+    title "Report: Forensic scientists identify the people behind QAnon"
+    description "According to a new report from the New York Times, two sets of forensic scientists have identified the two people they think are behind QAnon. Using computer analysis, the two groups, working separately, named Paul Furber and Ron Watkins as the people behind the posts.&#10;&#10;Rate this story: https://santv.co/3I6XvG3.&#10;&#10;The Times reports the analysts believe Furber was the first to post a &#8216;Q&#8217;, with Watkins taking over in 2018. Watkin&#8217;s father, James Watkins, is the owner of the website where QAnon posts live, and has been contacted by the January 6 Select Committee. &#10;&#10;Watkins is now running for Congress in Arizona.&#10;&#10;As part of the New York Times report, both men deny being behind the movement, but Furber did admit that his writing style resembles Q&#8217;s style.&#10;&#10;Follow Straight Arrow News on social media &#8212;&#10;Facebook: https://www.facebook.com/straightarrownews&#10;Twitter: https://twitter.com/StraightArrow__&#10;Instagram: https://www.instagram.com/straightarrownews/&#10;TikTok: https://www.tiktok.com/@straightarrownews&#10;&#10;Subscribe to Straight Arrow News emails --&#10;Weekly Newsletter: http://eepurl.com/hxuRdj&#10;Opinion Newsletter: http://eepurl.com/hS5VIX"
+    channeltitle "Straight Arrow News"
+    channelid "UCuL3xV8AqD3sekKOhhyZqOA"
     favcount 0
-    viewcount 2467972
-    likecount 111853
-    commentcount 22631
-    duration "PT1H16M17S"
-    indegree 10
-    sentiment 1
-    cluster 10
+    viewcount 134
+    likecount 6
+    commentcount 6
+    duration "PT1M35S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 344
+    id 263
+    name "340"
+    label "s1hpnHgEEWQ"
+    step 0
+    date "2020-10-23T21:57:34Z"
+    title "QAnon Seminar | Professor Darrell Bock, Karl  Johnson, and moderator Kaitlyn Schiess"
+    description "&#120287;&#120306;&#120302;&#120319;&#120315; &#120324;&#120309;&#120302;&#120321; &#120292;&#120276;&#120315;&#120316;&#120315; &#120310;&#120320;, &#120324;&#120309;&#120326; &#120310;&#120320; &#120310;&#120321; &#120308;&#120316;&#120310;&#120315;&#120308; &#120323;&#120310;&#120319;&#120302;&#120313;, &#120302;&#120315;&#120305; &#120324;&#120309;&#120326; &#120310;&#120320; &#120310;&#120321; &#120302; &#120305;&#120302;&#120315;&#120308;&#120306;&#120319; &#120321;&#120316; &#120321;&#120309;&#120306; &#120313;&#120316;&#120304;&#120302;&#120313; &#120304;&#120309;&#120322;&#120319;&#120304;&#120309;!"
+    channeltitle "The Grow Center for Church and Mission"
+    channelid "UCdLMtte5dqlo3UBEuzyYDCA"
+    favcount 0
+    viewcount 525
+    likecount 10
+    commentcount 1
+    duration "PT1H12M33S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 264
+    name "342"
+    label "kbgyuK_FP-c"
+    step 0
+    date "2021-07-29T02:14:23Z"
+    title "Interviewing Caterers at qAnon Conference"
+    description ""
+    channeltitle "Channel 5 Clips"
+    channelid "UCd3Uy1Seh49HyeI3p-XFgkQ"
+    favcount 0
+    viewcount 310632
+    likecount 8077
+    commentcount 383
+    duration "PT38S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
+  ]
+  node
+  [
+    id 265
+    name "344"
     label "qWMW-LKgXVc"
     step 0
     date "2022-01-11T20:00:26Z"
@@ -5073,12 +7970,23 @@ graph
     commentcount 2493
     duration "PT10M15S"
     indegree 1
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist|PartisanLeft"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 345
+    id 266
+    name "345"
     label "WThso-fI0sQ"
     step 0
     date "2021-01-17T18:00:06Z"
@@ -5092,12 +8000,23 @@ graph
     commentcount 446
     duration "PT6M18S"
     indegree 2
-    sentiment 1
-    cluster 11
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 346
+    id 267
+    name "346"
     label "8khVKFGHnhI"
     step 0
     date "2022-04-23T22:15:48Z"
@@ -5111,12 +8030,23 @@ graph
     commentcount 2076
     duration "PT10M51S"
     indegree 3
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 347
+    id 268
+    name "347"
     label "Xwdkng6ZGp8"
     step 0
     date "2022-01-06T16:00:27Z"
@@ -5130,12 +8060,23 @@ graph
     commentcount 23350
     duration "PT44M38S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
   ]
   node
   [
-    id 348
+    id 269
+    name "348"
     label "T-OuspyohIk"
     step 0
     date "2021-11-19T04:45:01Z"
@@ -5149,12 +8090,23 @@ graph
     commentcount 1010
     duration "PT6M34S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 349
+    id 270
+    name "349"
     label "wxC5by-Vvko"
     step 0
     date "2021-12-04T22:01:39Z"
@@ -5168,12 +8120,23 @@ graph
     commentcount 111
     duration "PT46S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 350
+    id 271
+    name "350"
     label "gUao4-Z2ML8"
     step 0
     date "2021-11-06T20:00:13Z"
@@ -5187,12 +8150,23 @@ graph
     commentcount 475
     duration "PT24M26S"
     indegree 1
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 351
+    id 272
+    name "351"
     label "Kg5-8eIX9k0"
     step 0
     date "2020-12-30T11:01:39Z"
@@ -5206,50 +8180,83 @@ graph
     commentcount 17
     duration "PT2M17S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 10
+  ]
+  node
+  [
+    id 273
+    name "352"
+    label "TsfBczc7bS0"
+    step 0
+    date "2022-07-05T02:30:34Z"
+    title "Highland Park shooting suspect was "
+    description "Robert &#8220;Bobby&#8221; Crimo III, the suspect in the Highland Park parade shooting Monday was taken into custody around Monday evening.WGN Investigates  looked into Crimo&#8217;s background. Crimo was a prolific poster online where he apparently went by the name &#8220;Awake the Rapper.&#8221; His videos foretell his alleged violent acts. In one, he appears to be dramatize a school shooting. In another video, Crimo appears to animate his own demise in a confrontation with police."
+    channeltitle "WGN News"
+    channelid "UCDrLGkZTcNCshOLiKi5NtEw"
+    favcount 0
+    viewcount 1954629
+    likecount 16889
+    commentcount 20650
+    duration "PT2M59S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 9
   ]
   node
   [
-    id 353
-    label "edAzGFOmV3o"
+    id 274
+    name "354"
+    label "J0J6Yn7V-rk"
     step 0
-    date "2022-01-01T03:06:20Z"
-    title "The Divide: QAnon Part One"
-    description "Dark Loops Productions proudly presents, &#34;The Divide&#34; (Drs. Scott Jordan, Byron Craig, Steve Hunt, Nathan Carpenter, and Steve Rahko) for an intense, informed discussion of the documentaries, &#34;QAnon: Searching for Q&#34; and &#34;Q: Into the Storm.&#34; &#10;&#10;Leave questions and comments on this YouTube page, or send to:&#10;&#10;Twitter: @Dark_Loops&#10;&#10;Facebook: Dark Loops Productions&#10;&#10;email: darkloopsproductions@gmail.com&#10;&#10;Love to all!&#10;&#10;Zombie Scotty"
-    channeltitle "Dark Loops Productions"
-    channelid "UCN5ddGv-AuqOj7iwdBxt_eQ"
+    date "2020-07-25T23:45:00Z"
+    title "Twitter Purges 7,000 QAnon Accounts"
+    description "Support The Show On Patreon:&#13;&#10;https://www.patreon.com/seculartalk&#13;&#10;&#13;&#10;Here's Our Amazon Link:&#13;&#10;https://www.amazon.com/?tag=seculacom-20&#13;&#10;&#13;&#10;Follow Kyle on Twitter:&#13;&#10;http://www.twitter.com/kylekulinski&#13;&#10;&#13;&#10;Like the show on Facebook:&#13;&#10;http://www.facebook.com/SecularTalk&#13;&#10;&#13;&#10;Clip from The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio Monday - Friday 11:00 AM - 12:30 PM Eastern time zone.&#13;&#10;&#13;&#10;Listen to the Live Show or On Demand archive at:&#13;&#10;http://www.blogtalkradio.com/kylekulinski"
+    channeltitle "Secular Talk"
+    channelid "UCldfgbzNILYZA4dmDt4Cd6A"
     favcount 0
-    viewcount 208
-    likecount 8
-    commentcount 1
-    duration "PT1H29S"
-    indegree 0
-    sentiment 1
+    viewcount 105701
+    likecount 6422
+    commentcount 2293
+    duration "PT13M56S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist|PartisanLeft"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 355
-    label "pNPwQzeVd_E"
-    step 0
-    date "2022-02-04T13:00:33Z"
-    title "Cholo QAnon? (Tales From Aztlantis Clip)"
-    description "Kurly Tlapoyawa and Ruben Arellano Tlakatekatl try to come up with a good term for the conspiracy theory / alternative medicine nonsense currently taking root in the Chicano community in this clip from Episode 22 of the Tales From Aztlantis podcast! In this episode, we explore the need for critical thinking and scientific literacy within the Danza/Mexikayotl community, and offer a simple checklist to help you weed out pseudo history and misinformation!&#10;&#10;talesfromaztlantis.com&#10;&#10;Your Hosts:&#10;&#10;Kurly Tlapoyawa is an archaeologist, ethnohistorian, and filmmaker. His research covers Mesoamerica, the American Southwest, and the historical connections between the two regions. He is the author of numerous books and has presented lectures at the University of New Mexico, Yale University, San Diego State University, and numerous others. He is currently a professor of Chicano Studies at the Colegio Chicano del Pueblo, a free online educational institution.&#10;@kurlytlapoyawa&#10;&#10;Ruben Arellano Tlakatekatl is a scholar, activist, and professor of history. His research explores Chicana/Chicano indigeneity, Mexican indigenist nationalism, and Coahuiltecan identity resurgence. Other areas of research include Aztlan (US Southwest), Anawak (Mesoamerica), and Native North America. He has presented and published widely on these topics and has taught courses at various institutions. He currently teaches history at Dallas College &#8211; Mountain View Campus.&#10;@Tlakatekatl&#10;&#10;Support the show (https://www.patreon.com/hcarchy)"
-    channeltitle "Chimalli Media"
-    channelid "UCi_QBt_eWe2qdJCYHWAgPBQ"
-    favcount 0
-    viewcount 199
-    likecount 13
-    commentcount 0
-    duration "PT3M9S"
-    indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 356
+    id 275
+    name "356"
     label "ziw4bBGEFLg"
     step 0
     date "2022-03-31T06:30:16Z"
@@ -5263,31 +8270,53 @@ graph
     commentcount 2
     duration "PT2M20S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 359
-    label "YDBhkvHshJY"
+    id 276
+    name "357"
+    label "0A0lIfomTP8"
     step 0
-    date "2022-05-09T15:53:41Z"
-    title "Qanon conspiracies"
-    description ""
-    channeltitle "Snorre Wik"
-    channelid "UCUzYd5KiU8xUa9nIuPRXjfw"
+    date "2021-12-11T18:00:00Z"
+    title "Reno 911: The Hunt for Qanon - Official Trailer 2 (2021) Niecy Nash, Thomas Lennon, Cedric Yarbrough"
+    description "An irreverent look at what goes on behind-the-scenes in Reno, Nevada's Sheriff's Department.&#10;-&#10;-&#10;-&#10;reno 911! the hunt for qanon,reno 911! the hunt for qanon teaser,reno 911! the hunt for qanon movie teaser,reno 911! the hunt for qanon teaser 2021,reno 911! the hunt for qanon official teaser,teaser,trailers,special trailer,2021 trailers,2021 tv trailers,reno 911! the hunt for qanon teaser 1,reno 911! the hunt for qanon paramount+,paramount+,entertainment,tv series,tv special,thomas lennon,robert ben garant,kerri kenney-silver,trailers 2021,trailer party&#10;-&#10;-&#10;-&#10;-&#10;Email: trailerparty101@gmail.com&#10;&#10;#trailerparty #subscribe #reno911thehuntforqanon"
+    channeltitle "Trailer Party"
+    channelid "UCEqfI79KPieWHqTY9RRT7og"
     favcount 0
-    viewcount 25
-    likecount 0
-    commentcount 6
-    duration "PT8M19S"
+    viewcount 138
+    likecount 1
+    commentcount 0
+    duration "PT2M6S"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 360
+    id 277
+    name "360"
     label "_M0c_sbHZeo"
     step 0
     date "2021-01-15T17:30:02Z"
@@ -5301,12 +8330,23 @@ graph
     commentcount 11
     duration "PT25M35S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 361
+    id 278
+    name "361"
     label "j25NHPw8bik"
     step 0
     date "2021-07-01T23:45:22Z"
@@ -5320,31 +8360,53 @@ graph
     commentcount 171
     duration "PT11M14S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 363
-    label "FVTe7dvMUso"
+    id 279
+    name "362"
+    label "89NP0NXU6l4"
     step 0
-    date "2020-11-18T22:00:02Z"
-    title "Marianne Williamson: New Age Spiritual Types Getting Sucked In To QAnon"
-    description "Support The Show On Patreon:&#13;&#10;https://www.patreon.com/seculartalk&#13;&#10;&#13;&#10;Here's Our Amazon Link:&#13;&#10;https://www.amazon.com/?tag=seculacom-20&#13;&#10;&#13;&#10;Follow Kyle on Twitter:&#13;&#10;http://www.twitter.com/kylekulinski&#13;&#10;&#13;&#10;Like the show on Facebook:&#13;&#10;http://www.facebook.com/SecularTalk&#13;&#10;&#13;&#10;Clip from The Kyle Kulinski Show, which airs live on Blog Talk Radio and Secular Talk Radio Monday - Friday 11:00 AM - 12:30 PM Eastern time zone.&#13;&#10;&#13;&#10;Listen to the Live Show or On Demand archive at:&#13;&#10;http://www.blogtalkradio.com/kylekulinski"
-    channeltitle "Secular Talk"
-    channelid "UCldfgbzNILYZA4dmDt4Cd6A"
+    date "2020-10-18T07:00:01Z"
+    title "How the sex trafficking panic leads to Qanon conspiracy theorists - Brooke Magnanti"
+    description "Streamed live on 15th October 2020&#10;&#10;As the US Presidential election draws near, the world has become fascinated with the seemingly new phenomena of Qanon and other wide-ranging conspiracy theories taking over social media and mainstream politics. However, the genesis of these groups is years old and comes from a surprising place: the global anti-sex trafficking movement. Brooke Magnanti discusses what happens when well-meaning causes are sidelined by bad stats and bad faith actors seize the opportunity in the service of a more worrying trend.&#10;&#10;Brooke Magnanti is a scientist and author. She is writer of the bestselling Belle de Jour series of books, which were adapted into the hit ITV show &#34;Secret Diary of a Call Girl&#34; starring Billie Piper. She is also the writer of crime thrillers The Turning Tide and You Don't Know Me.&#10;Brooke was born in west central Florida in 1975. She earned a Ph.D. in the Forensic Pathology department there, specialising in human decomposition and postmortem identification. She has worked in forensic science, epidemiology, chemoinformatics and cancer research. &#10;&#10;About Skeptics in the Pub - Online&#10;We are a coalition of UK-based Skeptics groups. Formed as the Covid-19 epidemic brought our country to a standstill, we are working to deliver high-quality online events focusing on Science, reason, and critical thinking.&#10;&#10;Chapters:&#10;0:00 Intro&#10;2:04 Talk&#10;56:03 QnA"
+    channeltitle "Skeptics in the Pub Online"
+    channelid "UCk8VxXlmwhi4NBje8NxCtgw"
     favcount 0
-    viewcount 122670
-    likecount 7277
-    commentcount 2268
-    duration "PT7M47S"
-    indegree 4
-    sentiment 1
-    cluster 9
+    viewcount 822
+    likecount 22
+    commentcount 6
+    duration "PT1H34M25S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 364
+    id 280
+    name "364"
     label "yezsgWbVZ30"
     step 0
     date "2022-06-20T22:00:10Z"
@@ -5358,31 +8420,53 @@ graph
     commentcount 113
     duration "PT14M54S"
     indegree 1
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 370
-    label "OVJxZLIpcfc"
-    step 0
-    date "2022-03-19T17:00:30Z"
-    title "The Evangelical Christian To QAnon Pipeline"
-    description "Support The Show On Patreon!:&#10;https://www.patreon.com/seculartalk&#10;&#10;Subscribe to Krystal Kyle &#38; Friends On Substack!:&#10;https://krystalkyleandfriends.substack.com&#10;&#10;Follow Kyle on Twitter:&#10;http://www.twitter.com/kylekulinski&#10;&#10;&#34;The first time I ever really listened to Kyle Kulinski&#8217;s show was in the back of a cab last summer. The driver had his phone hooked up through the stereo and was pumping out an episode through the car speakers &#8212; loudly, as if looking to convert a captive audience.&#10;&#10;&#8220;Do you like Kyle Kulinski?&#8221;&#10;&#10;The driver, Ahmed, was a recent immigrant and apparently a die-hard fan of Secular Talk, the political talk show that Kulinski broadcasts on YouTube. I told him, yes, in fact. I do like Kulinski, had come across his show several years ago, and, all things considered, he seemed pretty good.&#10;&#10;&#8220;He understands what we&#8217;re up against,&#8221; Ahmed said. &#8220;Like Bernie.&#8221;&#10;&#10;But I was surprised to hear Kulinski&#8217;s name mentioned in the same breath as Bernie Sanders, particularly with such adoration. Because what I did remember about Kulinski&#8217;s show struck me as mostly capital-P &#8220;progressive&#8221; takes on the news &#8212; the left wing of the Netroots crowd more than the democratic socialism Sanders has popularized.&#10;&#10;It&#8217;s an impression that wasn&#8217;t entirely incorrect.&#10;&#10;&#8220;I have no time for philosophical, airy bullshit,&#8221; Kulinski tells me from his home in Westchester, New York. &#8220;I don&#8217;t want to hear about Lenin. I don&#8217;t want to hear about Marx. I just want a super plainspoken, straightforward agenda with a straightforward way of selling it.&#8221;&#10;&#10;With over 800,000 subscribers and nearly 670 million total views on YouTube, selling a progressive agenda is clearly something Kulinski knows how to do &#8212; even Democracy Now, the long-standing flagship of progressive media, cannot match his reach on the platform. Chapo Trap House can certainly boast a wildly devoted fan base (and a not insignificant degree of media influence), but their audience is roughly half the size of Kulinski&#8217;s.&#10;&#10;While Secular Talk might be more likely to be looped in with the progressive networks around Air America and Pacifica alums like Sam Seder than the more resolutely socialist world, Kulinski&#8217;s fiery rhetoric, razor-sharp class instincts, and knack for withering takedowns sets him apart from his peers. Judging by his rhetoric alone, he&#8217;s closer to a Eugene Debs than a Chris Hayes.&#10;&#10;But unlike Hayes, Amy Goodman, or his friend Cenk Uygur of The Young Turks &#8212; who began airing Secular Talk on his web network seven years ago &#8212; the thirty-two-year-old Kulinski is virtually invisible in the mainstream media. Despite his enormous fan base, his show has never once been mentioned in the obligatory trend pieces on &#8220;the Millennial Left&#8221; pumped out by the prestige media. Nor has Kulinski&#8217;s name ever popped up at all in the New York Times, Vox, the New Yorker, New York Magazine, or the Washington Post, despite his leading role in cofounding Justice Democrats, the organization widely credited with sweeping Alexandria Ocasio-Cortez and the rest of &#8220;the Squad&#8221; to power.&#10;&#10;Just last week, his Wikipedia page was deleted. The reason? &#8220;There is very simply no [reliable source] coverage of this person,&#8221; according to one moderator. In new media, he&#8217;s king &#8212; the Sean Hannity of the Berniecrat left. In old media, he&#8217;s nobody.&#10;&#10;I suspect there are a few reasons for that. There is nothing &#8220;cool&#8221; about Kulinski&#8217;s show. (As a friend put it, &#8220;&#8216;Welcome to Secular Talk&#8217; sounds like something you&#8217;d hear on Egyptian radio.&#8221;) His no-nonsense social-democratic politics won&#8217;t get him much cred with the Full Communism crowd. He records his show not in Brooklyn or Los Angeles, but in a studio he built himself in his modest Westchester home. His hair is too groomed and his taste in clothes too preppy to qualify as &#8220;Dirtbag Left.&#8221; Nor has he ever attended an n+1 release party. &#8220;Not only have I not attended one,&#8221; he says, &#8220;I have no idea what that means.&#8221;&#10;&#10;And yet he&#8217;s astonishingly plugged-in for a young man in the suburbs. Wondering how Sanders ended up on the Joe Rogan Experience? Kulinski, a frequent guest on Rogan&#8217;s wildly popular show, introduced them. &#8220;You make the most sense to me,&#8221; Rogan told Kulinski on a recent episode. &#8220;You&#8217;re a normal person.&#8221;&#10;&#10;Much like Sanders himself, Kulinski&#8217;s show has a massive audience that just doesn&#8217;t compute with our media&#8217;s understanding of &#8220;what the kids want&#8221; or even &#8220;what the left-wing kids want.&#8221;&#10;&#10;It&#8217;s probably for the best &#8212; the very woke and very WASP-ish decorum haunting much of the media world is nowhere to be found in Secular Talk. &#8220;Corporate Democrats over-focus on identity as a trick to divert you from the issues that unite us all &#8212; class issues,&#8221; he said on a recent episode. &#8220;That Raytheon decided they don&#8217;t hate gays or trans people &#8212; frankly, I don&#8217;t really give a shit what their take on that is...&#34;&#10;&#10;Read More Here!:&#10;https://jacobinmag.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube&#10;&#10;#KyleKulinski #SecularTalk"
-    channeltitle "Secular Talk"
-    channelid "UCldfgbzNILYZA4dmDt4Cd6A"
-    favcount 0
-    viewcount 51772
-    likecount 2952
-    commentcount 787
-    duration "PT10M34S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 9
   ]
   node
   [
-    id 371
+    id 281
+    name "365"
+    label "3e6jfa6jzp8"
+    step 0
+    date "2021-04-28T17:00:03Z"
+    title "Bert Gets Into QAnon - 2 Bears, 1 Cave Highlight"
+    description "Tom Segura and Bert Kreischer discuss QAnon and watch a video from a conspiracy theorist who insists that Joe Biden is not really the president. Bert also reveals which conspiracy theory he could get behind the easiest.&#10;&#10;https://ymhstudios.com/&#10;https://store.ymhstudios.com/&#10;https://www.reddit.com/r/yourmomshousepodcast/"
+    channeltitle "YMH Clips"
+    channelid "UClaDiAlav8FUvR4kX6l_m6A"
+    favcount 0
+    viewcount 41322
+    likecount 817
+    commentcount 204
+    duration "PT9M16S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
+  ]
+  node
+  [
+    id 282
+    name "371"
     label "aoJEBw-c3TE"
     step 0
     date "2021-03-16T20:45:00Z"
@@ -5396,31 +8480,53 @@ graph
     commentcount 922
     duration "PT23M32S"
     indegree 11
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 9
+  ]
+  node
+  [
+    id 283
+    name "372"
+    label "PPQ-zSjHOeY"
+    step 0
+    date "2022-07-09T06:56:24Z"
+    title "KO HANJI KO HANTA KO HUNHU (BARKA DA SALLAH)"
+    description "Welcome to Official YouTube Channel of Dauda Kahutu Rarara. &#10;Dauda Adam Abdullahi popularly known as &#34;RARARA&#34; is Nigerian  Musical Artist, SongWriter and Producer.&#10;Click on the below link to get updates any time we upload https://studio.youtube.com/channel/UC-MK0W08QFLkReXKyPEHK4w?sub_confirmation=1&#10;&#10;Follow me on Facebook: https://web.facebook.com/daudaadamu.abdullahi.505&#10;Official Facebook Page: https://web.facebook.com/Rararaofficial&#10;Follow me on Instagram: https://www.instagram.com/real_rarara_multimedia/&#10;&#10;#DaudaKahutuRarara #RararaMultimediaTV #Jami'aGonarWaka #Rarara&#10;#YoutubeCreators, #YouTubeMusic #YouTubeVideos, #YouTubePartner #YouTubeAcadamy #YouTubeKids #YouTubeRed #YouTubeSubscribers #YouTubeViews #YouTubeWatchTime #YouTube #YouTubers #YouTubeRiwind #YouTubeTrends #YouTubeAdvertisers #YouTubeMovies #TeamYouTube #Google #SnapChat #TikTok #Twitter #Likee #Vskit #Website #Blog #Blogger #WordPress #FaceBook #WhatsApp #Gaming #WWE #Craft #WatchTime #Technology #Create #Creator #VideoStrategy #BoostVideo #CreatorStudio #Tseries #Netflix #KindMaster #Phone #Iphone #Samsung #Nokia #SmartPhone #Tutorial&#10;#FaceBookLite #YTStudio #App #Apk #English #LearnEnglish #Computer #Book #Watch #Streaming #OnYouTube #TwitterLite #LikeeLite #HowToFish #HowtoCreate #Howtocatch #HowtoStart #Andromo #AdSense #Admob #AdWord #YouTubCampaign #AppCampaign #HowtoDo #HowtoCook #Trick #Magic #Trailer #AmericanMovies #ChinesMovies #IndianMovies #NigerianMovies #GanianMovies #Hiphop #Rap #Musicians #Novel #Novels #Speak #Action #Money #Monitization #Content  #Art #Editing #Edit #Editor #HowEdit #Howtochange #Howtoremove #Howtopay #Howtogetpaid #Googleplaystore #Account #FaceBookAccpunt #TwitterAccount #LikeeAccount #WhatsAppNumber #InstagramAccount #InstagramActionBlock #WIFI #Password #HowtogangePassword #HowToSwim #Payment #OnlineMarketing #Onlinebusiness #HowtobuyOnline #Daudakahutu&#10;#Hausatop, #mubarakeytv #alijita #gwanjatv #umarmSharif #brotherstv entertainment #aliartwork #mazajene #markangelComedy #arewateach #algaidaDubStudio #taskarala #tsakargida #mazajetv #nuraminuwa #adamazango #kainuwa24 #arewa24 #alrahustv #Bushkiddo #rahamasadautv #amalUmartv #ahmadshawa #kundinshahara #awa24 #muraditv #kwanachassa,in #dadinkowa #gidanbadasi #arewacomedy #drsambo #jarumaempire #fkdtv #hausaTV #muneeratabdussalam #sadiyaharuna #buzoDanfillo #maisuburbuda #indianHausa #fassara #arewatv #masarauta #sarauniyatv #zinariyatv #yawaskit #Emanuela #kannywood channel #finafinan Fassara #taba kalashetv #shagirigirbau #murnatv #hamisubreka #isahayagi #sayyid gadankaya #shamsualale #habibu lafazy #lilin baba #Dj Ab #diezel #classic #Morrel #youngkeenz #legitHausa #bbcHausa #babanchinedu #auduboda #usainidanko #ahmadmsadik #tijjanigandu #Matankannywood #hausafilmstv&#10;#followme#follow#followforfollow#followback#followers#follow4follow#followher#follower#followhim#followall#followbackteam#followbackalways#follows#followgram#followalways#tagblender#followmefollowyou#following#followstagram#follownow#ifollowback#followus#followmeback#followforlike#followmeplease#followshoutoutlikecomment#followbackinstantly#f4f#ifollo#followyou&#10;#youtube #youtuber #youtubers #subscribe #youtubepagepromotion #youtubespotlight #youtubelikes #youtubefans #youtubecontent #youtubepost #youtubevideo #youtubestar #youtubemarketing #youtuberlife #youtubeguru #youtubecreator #youtubesubscribers #youtuberslife #youtubeviews #youtubeadvertising #instayoutubers #instavideo #instayoutube #instavideos&#10;#youtubegamers #youtubeyoga #youtubermakeup #youtubegaming #youtubeblogger #youtubegamer #youtubefamily #youtubecouple #youtubemama #youtuberkids #youtubefitness #youtubevlogger #youtubetutorial #youtubevlog #vlog #youtubecomedy #youtubegiveaway #youtubegamingchannel #youtubefood&#10;#youtube #youtuber #instagram #music #like #youtubers #follow #love #spotify #video #gaming #hiphop #subscribe #twitch #explorepage #rap #memes #facebook #gamer #soundcloud #youtubechannel #ps #fortnite #instagood #tiktok #k #viral #explore #artist #bhfyp #funny #itunes #newmusic #vlog #meme&#10;#likeforlikes #applemusic #twitter #photography #m #s #xbox #trending #podcast #game #f #repost #bhfyp #l #sub #a #followme #rapper #followforfollowback #edit #vlogger #producer #playstation #o #musicvideo #hiphop #rap #music #rapper #trap #dance #rnb #dj #newmusic #beats #artist #love #hiphopmusic #producer #art #soundcloud #rapmusic #party #hiphopculture #spotify #freestyle #youtube #follow #reggae #rappers #explorepage #like #undergroundhiphop #s #bhfyp&#10;#nyc #instagood #bhfyp #fashion #newyork #repost #boombap #musicproducer #beatmaker #atlanta #pop #trapmusic #musician #radio #instagram #dancer #worldstar #oldschool #beat #unsignedartist #musicvideo #hiphopdance #life #photography #nightlife #singer #explore #viral #studio #reggaeton"
+    channeltitle "Dauda Kahutu Rarara"
+    channelid "UC-MK0W08QFLkReXKyPEHK4w"
+    favcount 0
+    viewcount 31345
+    likecount 695
+    commentcount 69
+    duration "PT2M49S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 374
-    label "c85qXebXi1Q"
-    step 0
-    date "2022-04-26T20:45:00Z"
-    title "Qanon Promotes Crazy Device Called Med Bed"
-    description "Qanon has reached new heights of crazy... a device called a &#34;med bed&#34; has been released. Jayar Jackson and David Shuster break it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;See more HERE: https://twitter.com/willsommer/status/1462856683382845445?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1462856683382845445%7Ctwgr%5E%7Ctwcon%5Es1_&#38;ref_url=https%3A%2F%2Fembedly.forbes.com%2Fwidgets%2Fmedia.html%3Ftype%3Dtext2Fhtmlkey%3D3ce26dc7e3454db5820ba084d28b4935schema%3Dtwitterurl%3Dhttps3A%2F%2Ftwitter.com%2Fwillsommer%2Fstatus%2F1462856683382845445image%3Dhttps3A%2F%2Fi.embed.ly%2F1%2Fimage3Furl3Dhttps253A252F252Fabs.twimg.com252Ferrors252Flogo46x38.png26key3D3ce26dc7e3454db5820ba084d28b4935&#10;&#10;*** &#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://youtube.com/watchlisttyt&#10;FACEBOOK: &#9758; http://www.facebook.com/watchlisttyt&#10;TWITTER: &#9758; https://twitter.com/watchlisttyt&#10;INSTAGRAM: &#9758; https://instagram.com/watchlisttyt&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#10; Merch: http://shoptyt.com&#10;&#10; Donate: http://www.tyt.com/go&#10;&#10; Website: https://www.tyt.com&#10;&#10;App: http://www.tyt.com/app&#10;&#10; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;Indisputable  https://www.youtube.com/indisputabletyt&#10;&#10;The Young Turks  https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report  https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports  https://www.youtube.com/tytsports&#10;&#10;The Conversation  https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ  https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates  https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;#TYT #TheWatchlist #JayarJackson&#10;&#10;&#10;&#10;220426__WL06_Qanon_Conspiracists"
-    channeltitle "WatchlistTYT"
-    channelid "UCdUdP5BeOsua_j3u-0ZbL5w"
-    favcount 0
-    viewcount 4281
-    likecount 295
-    commentcount 119
-    duration "PT6M14S"
-    indegree 4
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 375
+    id 284
+    name "375"
     label "kceNRZvsJWE"
     step 0
     date "2021-06-12T18:00:11Z"
@@ -5434,50 +8540,83 @@ graph
     commentcount 1355
     duration "PT4M16S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist|PartisanLeft"
+    leftright "L"
+    cluster 7
+  ]
+  node
+  [
+    id 285
+    name "376"
+    label "w2x4LLrjTpY"
+    step 0
+    date "2021-04-28T23:00:22Z"
+    title "Covid  QAnon at Camelot | Edgelands Ep.1"
+    description "UnHerd's Aris Roussinos meets John Mappin.&#10;&#10;Tintagel in Cornwall, the legendary birthplace of King Arthur, has always been a mystical place. Perched on the edge of Atlantic cliffs, it is where new age beliefs meld with Britain's Celtic past. &#10;It is also the home of John Mappin, who's been described as the mouthpiece of Britain's QAnon movement and as a prominent associate of American conservatism&#8217;s wilder fringes. Aris Roussinos spent the weekend with Mappin at his home, Camelot castle, to find out how (or if) these American beliefs have penetrated into deep England.&#10;&#10;// Timecodes //&#10;00:41 - Introduction&#10;01:37 - Meeting John Mappin&#10;01:56 - Myth making and backing Donald Trump&#10;06:11 - Saving the planet and creating destiny&#10;08:17 - Flying the QAnon flag&#10;10:44 - Did Covid bring down Trump?&#10;14:09 - Questioning QAnon &#10;15:27 - Clarifying conspiracies&#10;19:00 - Saying goodbye"
+    channeltitle "UnHerd"
+    channelid "UCMxiv15iK_MFayY_3fU9loQ"
+    favcount 0
+    viewcount 14979
+    likecount 656
+    commentcount 261
+    duration "PT19M45S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "C"
     cluster 9
   ]
   node
   [
-    id 378
-    label "rXVCUpuvn0w"
+    id 286
+    name "379"
+    label "2Sim0oAZL98"
     step 0
-    date "2021-08-17T10:00:11Z"
-    title "The rise, fall  for Alex Jones | MINI-DOCUMENTARY"
-    description "SUBSCRIBE HERE: https://www.youtube.com/six_news_australia?sub_confirmation=1&#10;&#10;DONATE ON PATREON FOR $4 A MONTH: https://www.patreon.com/6newsau&#10;&#10;FOLLOW US ON SOCIAL MEDIA:&#10;Facebook: https://bit.ly/31MlrvP&#10;Twitter: https://bit.ly/3lw5Vfa&#10;Instagram: https://bit.ly/2DbXV1y&#10;TikTok: https://bit.ly/3aSXyae&#10;LITT: https://bit.ly/3syT1zV&#10;Rumble: https://bit.ly/3lYRN0F&#10;&#10;FOLLOW OUR PODCAST: &#10;Spotify: https://spoti.fi/3AoQKMh&#10;Apple Podcasts: https://apple.co/3yolYS6&#10;&#10;VISIT OUR WEBSITE: https://www.6newsau.com&#10;&#10;FOLLOW OUR TEAM ON TWITTER:&#10;@Leo_Puglisi6, @darby_travers6, @lincoln_holmes6, @HollyShields_6, @JGosnellNews, @cpenny_6 &#38; @dusty_fitz6.&#10;&#10;#6NewsAU #QAnon #Trump #COVID #COVID19 #Vaccine #AlexJones #Conspiracy"
-    channeltitle "SIX News Australia"
-    channelid "UCw4G4L-F-mD5zMljpvc2gtA"
+    date "2021-05-11T17:15:01Z"
+    title "QAnon s Murderous Cult Origins"
+    description "Why are we amazed by QAnon, when the Republican Party was transformed by a Psychotic Child Murderer?&#10; &#10;&#128308; Subscribe for more clips like this: https://www.youtube.com/user/thomhartmann?sub_confirmation=1 &#10;&#10;&#11088; Join our Membership and Support the Channel:  https://www.youtube.com/user/thomhartmann/join&#10;&#10;MORE FROM THOM&#10;&#127910; Watch a full program re-run anytime: http://www.patreon.com/thomhartmann&#10;&#127911; Audio Podcast: http://www.thomhartmann.com/podcast&#10;&#128220; Free Newsletter: http://www.thomhartmann.com/podcast&#10;&#128085; Merchandise: https://teespring.com/stores/thom-hartmann-program-2&#10;&#127866; Thom Merchandise: https://teespring.com/thom-hartmann-mug?pid=522&#38;cid=101870&#10;&#10;FOLLOW THOM&#10;&#128213; AMAZON: http://amzn.to/2hS4UwY&#10;&#128221; BLOG: http://www.thomhartmann.com/thom/blog&#10;&#128101; FACEBOOK: http://www.facebook.com/ThomHartmannProgram/&#10;&#128248; INSTAGRAM: http://www.instagram.com/Thom_Hartmann&#10;&#127910; PATREON: http://www.patreon.com/thomhartmann &#10;&#128038; TWITTER: http://www.twitter.com/thom_hartmann&#10;&#127760; WEBSITE: http://www.thomhartmann.com&#10;&#128250; YOUTUBE: http://www.youtube.com/subscription_center?add_user=thomhartmann&#10;&#10;ABOUT THE PROGRAM&#10;The Thom Hartmann Program is the leading progressive political talk radio show for political news and comments about Government politics, be it Liberal or Conservative, plus special guests and callers.&#10;&#10;#MoreFromThom&#10;&#10;&#10004; Amazon links are affiliate links"
+    channeltitle "Thom Hartmann Program"
+    channelid "UCbjBOso0vpWgDht9dPIVwhQ"
     favcount 0
-    viewcount 868
-    likecount 53
-    commentcount 19
-    duration "PT21M53S"
+    viewcount 7062
+    likecount 612
+    commentcount 125
+    duration "PT5M51S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 381
-    label "3wgEvNw-YQA"
-    step 0
-    date "2022-02-24T00:00:14Z"
-    title "QAnon SLAMS  Flat Earthers In Conspiracy Fight"
-    description "Support our Channel:  http://www.patreon.com/JeffWaldorf&#10;&#10;Weill recalls learning about the flat-earth movement while covering extremist groups for The Daily Beast. &#8220;I thought flat earth was such an interesting parable about how people can believe anything,&#8221; she says, &#8220;because we see other conspiracy theories that might be more reality-adjacent, or you can understand someone&#8217;s political motivations. But flat earth seemed so out there that I wanted to understand it better.&#8221;&#10;&#10;https://www.thedailybeast.com/flat-earthers-keep-alienating-other-conspiracy-theorists-even-qanon-believers?fbclid=IwAR3KqtUZklYE5Ih2R6MAqPpw8fx_SbySy0ZaZcT-S0RnLljUAshI5EqKNdU&#10;&#10;Or become a channel member: https://www.youtube.com/channel/UCIAXaU6LIcZyoHYWqVLM4wg/join&#10;&#10;Subscribe for daily videos!&#10;&#10;Reddit: https://www.reddit.com/r/WaldorfNation/&#10;Like Our Facebook Page! http://www.Facebook.com/JeffWaldorfShow&#10;Find me on Twitch! https://www.twitch.tv/jeff_waldorf&#10;Follow me on Twitter: @JeffsPolitics"
-    channeltitle "Waldorf Nation"
-    channelid "UCIAXaU6LIcZyoHYWqVLM4wg"
-    favcount 0
-    viewcount 3615
-    likecount 338
-    commentcount 190
-    duration "PT11M30S"
-    indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 382
+    id 287
+    name "382"
     label "OHxhYKoHfug"
     step 0
     date "2022-03-28T14:58:55Z"
@@ -5491,12 +8630,23 @@ graph
     commentcount 0
     duration "PT2M39S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 383
+    id 288
+    name "383"
     label "XOhcrio_5Bc"
     step 0
     date "2022-06-28T04:36:02Z"
@@ -5510,12 +8660,23 @@ graph
     commentcount 50
     duration "PT3H13M3S"
     indegree 3
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 384
+    id 289
+    name "384"
     label "PLYVpq99s2A"
     step 0
     date "2019-03-29T00:12:22Z"
@@ -5529,12 +8690,23 @@ graph
     commentcount 23
     duration "PT3M33S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 385
+    id 290
+    name "385"
     label "_UADcU9JtvA"
     step 0
     date "2021-11-23T18:00:10Z"
@@ -5548,31 +8720,53 @@ graph
     commentcount 46
     duration "PT1H6M7S"
     indegree 0
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 387
-    label "ra_C49I91sk"
-    step 0
-    date "2021-06-03T22:47:09Z"
-    title "I Snuck Into a QAnon Conference  Excuse Me, What?"
-    description "I snuck into a QAnon conference in Dallas, Texas and interviewed conspiracy theorists who said some really absurd things.&#10;&#10;Season 4, Episode 1&#10;&#10;Early drops and more exclusive interviews:&#10;https://patreon.com/excusemewhat&#10;&#10;Hosted by Luke Touma"
-    channeltitle "Excuse Me, What?"
-    channelid "UCIobJt6byBqnEkUZuJnuCDA"
-    favcount 0
-    viewcount 30212
-    likecount 1076
-    commentcount 320
-    duration "PT11M29S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 388
+    id 291
+    name "386"
+    label "YwzxJNhbLGk"
+    step 0
+    date "2018-08-23T14:51:25Z"
+    title "August 21, 2018 - What Is QAnon?"
+    description "Jim questions the logic behind modern marriage, breaks down America's tradition of tipping in the service industry and chats with QAnon experts."
+    channeltitle "The Jim Jefferies Show"
+    channelid "UC_kU41fyHPg2yOysfviX5IQ"
+    favcount 0
+    viewcount -1
+    likecount 4
+    commentcount 3
+    duration "PT21M23S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 292
+    name "388"
     label "jAKw_NCFEgM"
     step 0
     date "2021-01-27T18:38:59Z"
@@ -5586,12 +8780,23 @@ graph
     commentcount 57
     duration "PT3M52S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 389
+    id 293
+    name "389"
     label "58gqjne-gi4"
     step 0
     date "2021-03-12T19:14:18Z"
@@ -5605,12 +8810,23 @@ graph
     commentcount 0
     duration "PT11S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 8
   ]
   node
   [
-    id 390
+    id 294
+    name "390"
     label "3szve4NWl3I"
     step 0
     date "2022-07-07T13:22:16Z"
@@ -5624,69 +8840,113 @@ graph
     commentcount 9
     duration "PT3M39S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 393
-    label "faAzjGWaBjY"
+    id 295
+    name "391"
+    label "1xWjmXu05us"
     step 0
-    date "2022-06-30T03:27:04Z"
-    title "Theres New Undeniable (Maths/CS) Proof Jim Watkins Stole QAnon. I Will Be Taking Your Questions."
-    description "What started with a few new Q drops in 2022 ended with me once and for all proving Jim Watkins, or someone sanctioned by him like Ron, is QAnon.&#10;&#10;I will be taking your questions."
-    channeltitle "Fredrick Brennan"
-    channelid "UC7TyhD4OIvUyJSD1fw4JgPg"
+    date "2021-09-13T20:38:29Z"
+    title "QAnon Explained in 3 Minutes"
+    description "THESE VIDEOS ARE CROWDFUNDED. The next is released the moment its goal is reached: https://infactvideo.com/support.php&#10;&#10;A rapid-fire history of one of the craziest conspiracy theories of all time: QAnon.&#10;&#10;By now you've probably heard that QAnon is a far-right populist conspiracy theory in which a global cabal of prominent Democrats, Hollywood celebrities, and Jewish bankers secretly comprise a &#34;Deep State&#34; secret government, which on the side, also runs a worldwide pedophilia ring for their own amusement. In the QAnon fictional universe, then-president Donald Trump was the only one heroic and powerful enough to save the world, through mass indictments and arrests of Democrats.&#10;&#10;Well, obviously, none of that ever happened. So if all of this was fiction from the beginning, what was its source? In October 2017, someone began posting on anonymous Internet message boards calling himself &#34;Q Clearance Patriot&#34;, Q clearance being a security clearance level at the Department of Energy. Q claimed to be an insider in the Trump administration, and for years posted predictions of mass arrests of Democrats. Though none of the anonymous Internet troll's predictions ever came true, many Trump supporters nevertheless rallied around him and adopted him as a sort of messiah.&#10;&#10;Obviously it's not credible that an insider in Trump's inner circle would have leaked these sensitive releases of classified information in secret behind the administration's back -- that would have been treasonous. So the QAnon conspiracy must assume that Q was making these Internet posts with the full knowledge and consent of the government. Thus, it follows that the Trump administration determined that announcing tomorrow's indictments was best, and anonymous postings to message boards best known for pornography, racism, and assorted illegal content was the most appropriate channel to make these presidential announcements.&#10;&#10;So how can ordinarily smart people believe something so obviously irrational as QAnon? A lot of academic research has been funneled into figuring this out. In recent decades, globalization has led many people to feel disenfranchised and unrepresented, people who'd grown accustomed to feeling safely entrenched in predictable, homogenous, traditional communities. Sociological studies tell us that the less we feel in control of our own lives, the more likely we are to believe there's a conspiracy against us, and to embrace anything that promises to fight that conspiracy. Q happened to appear just at the right moment, when millions of Americans felt their accustomed way of life was under fire, and their wounds were fresh from having eight years of progressive values wash over them during the Obama administration. Q was the savior they sought.&#10;&#10;REFERENCES &#38; FURTHER READING&#10;&#10;Cluley, G. &#34;Bad news conspiracy theorists. QAnon codes are just a guy mashing his keyboard.&#34; Computer security news, advice, and opinion. Graham Cluley, 14 Aug. 2018. Web. 20 Jul. 2020. https://www.grahamcluley.com/bad-news-conspiracy-theorists-qanons-codes-are-just-a-guy-mashing-his-keyboard/&#10;&#10;Gilbert, D. &#34;Inside the War to Kill Off 8chan &#8212; and Crush QAnon.&#34; VICE. VICE Media Group, 18 Oct. 2019. Web. 20 Jul. 2020. https://www.vice.com/en_us/article/zmj8y4/inside-the-war-to-kill-off-8chan-and-crush-qanon&#10;&#10;Harwell, D., McLaughlin, T. &#34;From helicopter repairman to leader of the Internet's darkest reaches: The life and times of 8chan owner Jim Watkins.&#34; The Washington Post. Nash Holdings, 12 Sep. 2019. Web. 20 Jul. 2020. https://www.washingtonpost.com/technology/2019/09/12/helicopter-repairman-leader-internets-darkest-reaches-life-times-chan-owner-jim-watkins/&#10;&#10;Kurtzleben, D. &#34;GOP Candidates Open To QAnon Conspiracy Theory Advance In Congressional Races.&#34; NPR News. National Public Radio, 1 Jul. 2020. Web. 20 Jul. 2020. https://www.npr.org/2020/07/01/885991730/gop-candidates-open-to-qanon-conspiracy-theory-advance-in-congressional-races&#10;&#10;LaFrance, A. &#34;The Prophecies of Q.&#34; The Atlantic. The Atlantic Monthly Group, 1 Jun. 2020. Web. 20 Jul. 2020. https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/&#10;&#10;Sommer, W. &#34;QAnon Believer Teamed Up With Conspiracy Theorists to Plot Kidnapping, Police Say.&#34; Daily Beast. The Daily Beast Company LLC, 4 Jan. 2020. Web. 21 Jul. 2020. https://www.thedailybeast.com/cynthia-abcug-qanon-conspiracy-theorist-charged-in-kidnapping-plot&#10;&#10;Van Prooijen, J. &#34;The psychology of Qanon: Why do seemingly sane people believe bizarre conspiracy theories?&#34; Think. NBC News, 13 Aug. 2018. Web. 20 Jul. 2020. https://www.nbcnews.com/think/opinion/psychology-qanon-why-do-seemingly-sane-people-believe-bizarre-conspiracy-ncna900171&#10;&#10;Watkins, A. &#34;He Wasn&#8217;t Seeking to Kill a Mob Boss. He Was Trying to Help Trump, His Lawyer Says.&#34; The New York Times. The New York Times Company, 21 Jul. 2019. Web. 21 Jul. 2020. https://www.nytimes.com/2019/07/21/nyregion/gambino-shooting-anthony-comello-frank-cali.html"
+    channeltitle "inFact with Brian Dunning"
+    channelid "UCG9DGRmeyQZAlcCD4JGMilQ"
     favcount 0
-    viewcount 956
-    likecount 63
-    commentcount 29
-    duration "PT1H12M20S"
+    viewcount 2444
+    likecount 194
+    commentcount 28
+    duration "PT3M50S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 396
-    label "wJWj8ajMEHk"
+    id 296
+    name "394"
+    label "TESRV38mDc0"
     step 0
-    date "2021-02-05T14:23:42Z"
-    title "STAR WARS QANON: A Geeks+Gamers Conspiracy | RealmW"
-    description "Today, we take a deep dive into one of the most bafflingly complex and long-lasting conspiracies on the modern internet. It's not something that would come to mind when thinking of a conspiracy theory. It's about Star Wars and the people who make it. And while this might just seem absurd on the surface, as you go deeper, you may just find that it has more in common with the conspiracies becoming an increasingly large part of modern politics than you think.  &#10;&#10;CORRECTIONS:&#10;-The first time I refer to Rian Johnson, I mistakenly say that he was the producer of The Last Jedi. He was the director, Kathleen Kennedy was a producer (one of four).&#10;-When talking about the Ankler, I say that the quote was from the New York Times, but as can be seen on-screen, it was actually from the New Yorker. &#10;&#10;All music used is listed in the credits. &#10;Outro song - https://youtu.be/17nC6Rd-rX4&#10;&#10;RealmW Ep. 12"
-    channeltitle "RealmW"
-    channelid "UCaA_u7O9dKva5V4UC_xT3KQ"
+    date "2022-07-10T19:00:07Z"
+    title "GOP Candidate Short Circuits Trying To Defend Delusions"
+    description "Republican candidate for Senate in Oklahoma, Jarrin Jackson, posts an unhinged rant about religion, the Great Replacement Theory spouted by Tucker Carlson on Fox News, QAnon and general hate-based conspiracy theories.  John Iadarola and Jayar Jackson break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;Streamer and Oklahoma GOP candidate: &#8220;I largely agree&#8221; with anti-miscegenation and &#8220;Jews taking over the world&#8221; conspiracy theories - https://www.mediamatters.org/diversity-discrimination/jarrin-jackson-i-largely-agree-anti-miscegenation-and-jews-taking-over&#10;&#10;&#34;Right-wing streamer and Oklahoma state Senate candidate Jarrin Jackson said in a video last year that he &#8220;largely&#8221; agrees with the conspiracy theories that Jews are &#8220;taking over the world&#8221; and that they are attempting to get rid of white people through immigration and miscegenation. Jackson has also expressed support for the QAnon conspiracy theory, saying, &#8220;I appreciate Q &#38; I love anons&#8221; and &#8220;Q is so very intriguing.&#8221; &#10;&#10;Additionally, Jackson indicated to followers on Facebook that he does not want Hispanic and Black immigrants in the United States, claiming that &#8220;it is not racist to want America to stay American.&#8221;&#10;&#10;Jackson received the most votes last month in a Republican primary for Oklahoma state Senate District 2, and will head to an August runoff against fellow Republican Ally Seifried. Jackson frequently does livestreams and posts his commentaries on sites like Facebook and Rumble. He self-published a book about &#8220;responding to escalating tyranny in the wake of the stolen 2020 elections.&#8221;&#34;&#10;&#10;**&#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
+    channeltitle "The Damage Report"
+    channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
     favcount 0
-    viewcount 2709
-    likecount 185
-    commentcount 61
-    duration "PT1H10M21S"
+    viewcount 49533
+    likecount 1995
+    commentcount 1113
+    duration "PT5M59S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 7
   ]
   node
   [
-    id 398
-    label "Esx2CH5tkxE"
+    id 297
+    name "397"
+    label "Ojl_LI4Em90"
     step 0
-    date "2020-07-29T15:20:47Z"
-    title "A Warning to Christians About the QAnon Cult"
-    description "Given that YouTube is a hotbed for QAnon conspiracy videos, I have little doubt that this video will get a bunch of dislikes, but I think the warning I have to offer as a pastor and theologian is important for Christians to hear.&#10;&#10;If you'd like to listen to the interview I did with journalist Bonnie Kristian covering some of the basics of QAnon and why it has become appealing both to evangelical Christians and as it's own &#34;substitute religion&#34; to many who have left traditional church structures, check out this link for a full hour-long interview and discussion.&#10;&#10;https://www.podbean.com/eu/pb-aafng-df1798"
-    channeltitle "Deep Talks"
-    channelid "UC2yCyOMUeem-cYwliC-tLJg"
+    date "2022-07-05T17:00:21Z"
+    title "BREAKING: Highland Park shooter APPREHENDED and IDENTIFIED"
+    description "We are learning additional details about the terrorist involved in the Highland Park shooting who used an assault weapon and positioned himself on a roof murdering at least 6 and injuring as many as 30. The terrorist is a MAGA sympathizer who was apprehended after fleeing the scene. &#10;&#10;Donate to MeidasTouch: https://secure.actblue.com/donate/meidastouch&#10;Buy MeidasTouch Merch: https://store.meidastouch.com&#10;&#10;Follow MeidasTouch on Twitter: https://twitter.com/meidastouch&#10;Follow MeidasTouch on Facebook: https://facebook.com/meidastouch&#10;Follow MeidasTouch on Instagram: https://instagram.com/meidastouch"
+    channeltitle "MeidasTouch"
+    channelid "UC9r9HYFxEQOBXSopFS61ZWg"
     favcount 0
-    viewcount 10997
-    likecount 377
-    commentcount 1
-    duration "PT14M47S"
+    viewcount 152869
+    likecount 11604
+    commentcount 2424
+    duration "PT1M44S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 399
+    id 298
+    name "399"
     label "AXH_TufIw8A"
     step 0
     date "2022-07-04T22:17:28Z"
@@ -5700,12 +8960,23 @@ graph
     commentcount 2
     duration "PT3M40S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 400
+    id 299
+    name "400"
     label "NIfz61nZf44"
     step 0
     date "2021-02-27T22:00:14Z"
@@ -5719,12 +8990,23 @@ graph
     commentcount 4
     duration "PT1H2M19S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 401
+    id 300
+    name "401"
     label "8OiXdZMd9r8"
     step 0
     date "2021-04-06T15:49:29Z"
@@ -5738,107 +9020,173 @@ graph
     commentcount 20
     duration "PT38S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 403
-    label "EfU6Wsbzuq8"
+    id 301
+    name "402"
+    label "bbRZ9n1jj9M"
     step 0
-    date "2022-06-10T21:00:10Z"
-    title "Has QAnon Infiltrated the GOP? | Hell  High Water"
-    description "John Heilemann talks with Denver Riggleman, former Republican congressman from Virginia, and, until recently, 1/6 committee staffer. Heilemann and Riggleman discuss the part Q-Anon played in ending Riggleman&#8217;s career in Congress, the centrality of conspiracy theories to the identity of today&#8217;s GOP, the powerful speech Riggleman gave on the House floor denouncing Q-Anon, and the strange tale of how Riggleman&#8217;s interest in Bigfoot became part of his public profile. Tune in to the full episode to hear about the staggering scope of what Jan. 6 House Select Committee has learned since its inception about the involvement of Donald Trump and his inner circle in the attempt to overturn the 2020 election; how the story of the pressures placed on Mike Pence to prevent Joe Biden from taking office will be among the key facets of the hearings; and Riggleman&#8217;s assessment of the case for bringing criminal charges against Trump for his role in the 1/6 insurrection.&#10;&#10;#republicans #qanon #politics &#10;&#10;Subscribe to The Recount&#10;https://www.youtube.com/channel/UCmsrXvrQ1S_61vVO-fNL-Mg?sub_confirmation=1&#10;&#10;Watch Chatterbrain on Twitch every Wednesday at 5p.m. ET - https://www.twitch.tv/therecount&#10;&#10;Read The Recount Newsletter&#10;https://therecount.com/newsletter&#10;Twitter&#160;&#10;https://twitter.com/therecount&#10;Instagram&#10;https://www.instagram.com/TheRecount/&#10;TikTok&#10;https://www.tiktok.com/@therecount&#10;Facebook&#160;&#10;https://www.facebook.com/TheRecount/&#10;Hell &#38; High Water podcast&#160;&#10;https://therecount.com/podcasts/hell-and-high-water&#10;Website&#160;&#10;https://therecount.page.link/Home&#10;Twitch&#10;https://www.twitch.tv/therecount"
-    channeltitle "The Recount"
-    channelid "UCmsrXvrQ1S_61vVO-fNL-Mg"
+    date "2022-02-23T22:13:33Z"
+    title "Truth Social vs Cow; QAnon Slams  More"
+    description "Support our movement for better Journalism at http://www.patreon.com/JeffWaldorf&#13;&#10;&#13;&#10;Or become a channel member: https://www.youtube.com/channel/UCIAXaU6LIcZyoHYWqVLM4wg/join&#13;&#10;&#13;&#10;Subscribe for daily videos!&#13;&#10;&#13;&#10;Like Our Facebook Page! http://www.Facebook.com/JeffWaldorfShow&#13;&#10;&#13;&#10;Follow us on Twitter @JeffWaldorfShow&#13;&#10;Follow Jeff on Twitter: @JeffsPolitics"
+    channeltitle "Waldorf Nation"
+    channelid "UCIAXaU6LIcZyoHYWqVLM4wg"
     favcount 0
-    viewcount 203
-    likecount 6
-    commentcount 1
-    duration "PT11M5S"
-    indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 405
-    label "YO4GRfoNjHY"
-    step 0
-    date "2022-03-27T13:00:27Z"
-    title "Qanon Group Waits For The Return Of JFK In Dallas"
-    description "A Qanon group followed their leader Michael Protzman to Dallas, Texas just to wait for JFK's triumphant return to the scene of his gruesome assassination. After countless empty predictions and requests for money to keep the grift going, most went home, but a couple of dozen brainwashed supporters hung around to finish off their bank accounts. Jayar Jackson and Michael Shure break it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;Read more HERE: https://www.vice.com/en/article/3abyxj/jfk-qanon-cult-collapse&#10;&#10;&#34;Five months ago, hundreds of followers of QAnon figure Michael Protzman traveled from all corners of the country to Dallas, where they were told that John F. Kennedy, along with his wife Jackie and son JFK Jr., would suddenly reappear at Dealey Plaza, the site of JFK&#8217;s 1963 assassination.&#34;&#10;&#10;*** &#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://youtube.com/watchlisttyt&#10;FACEBOOK: &#9758; http://www.facebook.com/watchlisttyt&#10;TWITTER: &#9758; https://twitter.com/watchlisttyt&#10;INSTAGRAM: &#9758; https://instagram.com/watchlisttyt&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#10; Merch: http://shoptyt.com&#10;&#10; Donate: http://www.tyt.com/go&#10;&#10; Website: https://www.tyt.com&#10;&#10;App: http://www.tyt.com/app&#10;&#10; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;Indisputable  https://www.youtube.com/indisputabletyt&#10;&#10;The Young Turks  https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report  https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports  https://www.youtube.com/tytsports&#10;&#10;The Conversation  https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ  https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates  https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;#TYT #TheWatchlist #JayarJackson&#10;&#10;&#10;220324__WL03_Qanon_Followers"
-    channeltitle "WatchlistTYT"
-    channelid "UCdUdP5BeOsua_j3u-0ZbL5w"
-    favcount 0
-    viewcount 15061
-    likecount 815
-    commentcount 444
-    duration "PT6M1S"
-    indegree 11
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 407
-    label "vA3DXtRgOpo"
-    step 0
-    date "2022-04-27T13:33:25Z"
-    title "marjorie taylor greene is questioned about QAnon"
-    description ""
-    channeltitle "ReRuns"
-    channelid "UCR8-Eoecl-Gb_VwRJP7Fpng"
-    favcount 0
-    viewcount 115
-    likecount 2
-    commentcount 2
-    duration "PT19S"
+    viewcount 1409
+    likecount 188
+    commentcount 13
+    duration "PT1H9M34S"
     indegree 1
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 411
-    label "hWy5W3IZ0LQ"
-    step 0
-    date "2021-01-19T20:27:00Z"
-    title "Jacob Chansley (QAnon Shaman) Enters The Senate Floor"
-    description ""
-    channeltitle "Hubert Cumberdale"
-    channelid "UC4Fk1iG9lQV6nhBK8EHV8uA"
-    favcount 0
-    viewcount 3452
-    likecount 28
-    commentcount 8
-    duration "PT34S"
-    indegree 0
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 422
-    label "PmgdnJPjwX8"
-    step 0
-    date "2019-08-28T16:16:42Z"
-    title "[MIRROR] The Past, Present, and Future of Qanon, A Conspiracy That Is Very Dumb - SOME MORE NEWS"
-    description "[Originally Uploaded 13.08.2018]&#10;In today's episode, we do a deep dive on the latest crazy conspiracy phenom, Qanon, also known as &#34;The Storm,&#34; also known as &#34;Pizzagate 2,&#34; also know as &#34;that batshit, nonsense thing you may have heard about from one of your high school friends on Facebook.&#34; Yes, the conspiracy theory that proposes that God-King, Donald Trump, was elected president to stop a villainous cabal made up of Hillary Clinton, The Deep State, The Democrats, and anyone who makes fun of Trump, whose purpose is global domination and child smuggling. Also? UGH.&#10;&#10;Correction: The Seattle plane thief was not Q fan. Sorry for any confusion.&#10;&#10;Written by Tom Reimann. Produced by Katy Stoll.&#10;&#10;Support SOME MORE NEWS: http://www.patreon.com/SomeMoreNews&#10;SUBSCRIBE to SOME MORE NEWS: https://tinyurl.com/ybfx89rh&#10;&#10;You can subscribe to our podcast EVEN MORE NEWS here:&#10;iTunes: https://goo.gl/bveu8q&#10;Google Play: https://goo.gl/zpnhN9&#10;Soundcloud: https://goo.gl/xMHZYT&#10;Stitcher: https://goo.gl/ZFdRhp&#10;&#10;Follow us on social Media!&#10;Twitter: https://twitter.com/SomeMoreNews&#10;Instagram: https://www.instagram.com/SomeMoreNews/&#10;Facebook: https://www.facebook.com/SomeMoreNews/&#10;&#10;Source List - https://goo.gl/sYb6sL"
-    channeltitle "_pirate"
-    channelid "UC-u78Qp5Y-KkEDgl_swkpdQ"
-    favcount 0
-    viewcount 2357
-    likecount 93
-    commentcount 88
-    duration "PT26M50S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 10
   ]
   node
   [
-    id 423
+    id 302
+    name "404"
+    label "yjSD6GpWTuM"
+    step 0
+    date "2018-04-12T04:06:12Z"
+    title "QANON and TRUMP are FLAT EARTH PEOPLE... 2018 04 11 23 50 13"
+    description "Q and Trump know we did not go to the moon, nor will we go to Mars... And... Musk is a total fake... WAKEY WAKEY EGGS AND BAKEY                    ....... Thank You, McAllisterTV ......&#10;https://mega.nz/#F!z1FCnaiA!4NS6tTnFmNs_yBZpKbCCgg"
+    channeltitle "BUTLERS BANGALONG"
+    channelid "UCCg_SsNsk41uRgW4oYN4mFw"
+    favcount 0
+    viewcount 781
+    likecount 12
+    commentcount 6
+    duration "PT5M11S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
+  ]
+  node
+  [
+    id 303
+    name "406"
+    label "r91n-dQPots"
+    step 0
+    date "2022-07-09T02:15:46Z"
+    title "Former Japanese PM assassination sends shock waves"
+    description "Former Prime Minister Shinzo Abe was giving a morning campaign speech at a train station near Kyoto when he was suddenly shot twice from behind and security tackled the suspect immediately.&#10;&#10;WATCH FULL EPISODES OF WORLD NEWS TONIGHT:&#10;https://abc.com/shows/world-news-tonight&#10;WATCH WORLD NEWS TONIGHT ON HULU:&#10;https://bit.ly/3iQLwPp&#10;&#10;#WorldNewsTonight #japan #assassination #primeministershinzo"
+    channeltitle "ABC News"
+    channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
+    favcount 0
+    viewcount 145659
+    likecount 1382
+    commentcount 353
+    duration "PT4M3S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 7
+  ]
+  node
+  [
+    id 304
+    name "408"
+    label "kHT9u4VNuaw"
+    step 0
+    date "2021-02-16T19:11:00Z"
+    title "02 14 21 QAnon"
+    description ""
+    channeltitle "Congregational Church of Topsfield"
+    channelid "UCyV7AAy5YL9Fbj5Mr09t3Qw"
+    favcount 0
+    viewcount 38
+    likecount 0
+    commentcount 0
+    duration "PT30M36S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
+  ]
+  node
+  [
+    id 305
+    name "412"
+    label "vS1KduGFM5Y"
+    step 0
+    date "2020-08-22T23:23:43Z"
+    title "Save The Children March by Qanon in New York City"
+    description "Across the country rallies were held as part of the Save the Children campaign. In New York City a couple dozen protesters marched from Manhattan's Washington Square Park to Union Square holding signs reading #SaveourChildren, telling the FBI to arrest Prince Andrew, calling for the defunding of Hollywood, and to end child trafficking. They chanted, &#34;Childrens Lives Matter&#34;, &#34;Child trafficking is not a conspiracy&#34;, &#34;Jeffrey Epstein Was Not Working Alone&#34;. Their signs had references to various known conspiracy theories with Pizza Gate and Q markings. &#10; QAnon is growing behind these marches with proponents claiming children are being trafficked for the abuse by the super elite and deep state. They marched From Washington Square Park to Union Square on August 22 2020, in Manhattan, New York&#10;&#10;According to Wikipedia: QAnon. is a disproven far-right conspiracy theory alleging that a cabal of Satanic, cannibalistic pedophiles operate a global child sex trafficking ring and conspired against former President Donald Trump during his term in office. QAnon has been described as a cult."
+    channeltitle "FNTV - FreedomNewsTV"
+    channelid "UCoi5pABIDpya7N5OdDnDScg"
+    favcount 0
+    viewcount 4930
+    likecount 317
+    commentcount 77
+    duration "PT5M35S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 8
+  ]
+  node
+  [
+    id 306
+    name "423"
     label "w6uc8n9Xga0"
     step 0
     date "2021-01-30T07:00:10Z"
@@ -5852,31 +9200,53 @@ graph
     commentcount 23
     duration "PT52M43S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 425
-    label "mhJCYHDUedA"
+    id 307
+    name "424"
+    label "0NtCVpuSaog"
     step 0
-    date "2022-06-11T17:00:19Z"
-    title "Is Q (of qanon) Running For Congress? Q Interpreter Comes Unhinged"
-    description "Q interpreter STILL believes that hillary is going to face a military tribunal. Not only that, but somebody rumored to be Q himself, Code Monkey, is running for congress in arizona. His first debate didn't go well.&#10;&#10;[placeholder]&#10;Patreon: https://www.patreon.com/telltaleatheist&#10;Twitter: https://twitter.com/telltaleatheist&#10;Twitch: https://www.twitch.tv/telltaleatheist&#10;Telltale: https://www.youtube.com/c/TelltaleAtheist&#10;Telltale Fireside Chat: https://www.youtube.com/c/TelltaleFiresideChat&#10;Telltale Unfiltered: https://www.youtube.com/channel/UCOB86WpguzlOEs4z93iZ7kA&#10;TikTok: https://www.tiktok.com/@telltaleatheist&#10;Discord: https://discord.gg/KeXmEq9&#10;PayPal: http://paypal.me/telltaleatheist&#10;Teespring: https://teespring.com/stores/telltaleatheist&#10;Etsy Game Shop: https://www.etsy.com/shop/TelltaleShop&#10;Podcast on iTunes: https://podcasts.apple.com/us/podcast/telltale-podcast/id1399333418&#10;Podcast on SoundCloud: https://soundcloud.com/user-450959803&#10;Voicemail: 1-800-701-8573"
-    channeltitle "Telltale Fireside Chat"
-    channelid "UCo6JSNp6SuUKf-yiaBQReNA"
+    date "2022-07-07T20:15:41Z"
+    title "Bradley police no parking plate dugan qanon"
+    description ""
+    channeltitle "Bourbonnais Police"
+    channelid "UCQO60yNksjtZgVxaElV2rhQ"
     favcount 0
-    viewcount 25155
-    likecount 1364
-    commentcount 460
-    duration "PT17M49S"
-    indegree 6
-    sentiment 1
-    cluster 2
+    viewcount 2739
+    likecount 13
+    commentcount 0
+    duration "PT12S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 426
+    id 308
+    name "426"
     label "mEmIepbEph0"
     step 0
     date "2019-12-08T07:34:59Z"
@@ -5890,31 +9260,53 @@ graph
     commentcount 14
     duration "PT3M54S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 432
-    label "CRE4ImMk0c4"
+    id 309
+    name "427"
+    label "zmdlDNUprus"
     step 0
-    date "2021-08-04T18:20:37Z"
-    title "You Are Not So Smart 211 - QAnon and Conspiracy Narratives"
-    description "Website: https://youarenotsosmart.com &#10;Patreon: https://www.patreon.com/youarenotsosmart &#10;&#10;The Topic: How the psychology that leads people into QAnon can help us understand not only what leads people into a conspiracy community, but which community and why&#10;&#10;The Guests: Political scientist Steve Uscinski and psychologist Anni Sternisko&#10;&#10;- Facebook: https://www.facebook.com/youarenotsosmart&#10;- Twitter: https://twitter.com/notsmartblog &#10;- Omny: https://omny.fm/shows/you-are-not-so-smart&#10;- Soundcloud: https://soundcloud.com/youarenotsosmart&#10;- iTunes: https://itunes.apple.com/us/podcast/you-are-not-so-smart/id521594713&#10;- Stitcher: http://app.stitcher.com/browse/feed/22954/episodes&#10;- Spotify: https://open.spotify.com/show/3tZoJ9YXvUAy7CrYQK9d7b?si=r2EKZu9eQuWFxDfn4IZSww&#38;dl_branch=1&#10;- Transcript: https://youarenotsosmart.com/transcript-qanon-and-conspiratorial-narratives"
-    channeltitle "YouAreNotSoSmart"
-    channelid "UChEE3yNSEycktYNxbLDklVg"
+    date "2021-02-13T19:04:25Z"
+    title "Infamous Qanon Anti-masker Explains How She Got Brainwashed"
+    description "One of our first brainworms contestants is back in the spotlight with a carefully crafted redemption story.... What do you think?&#10;&#10;&#128085;  Apparel - http://leonlush.com/shop&#10;&#10;&#127926;  The music I use - http://leonlush.com/epidemic (It's perfect for avoiding copyright issues)&#10;&#10;&#128076;  Become a channel member - http://leonlush.com/join&#10;&#127871;  Second channel (ft. my wife) - http://leonlush.com/LushLife&#10;&#10;&#128038;  Twitter - http://www.twitter.com/leonlush&#10;&#127918;  Twitch.tv - http://www.twitch.tv/leonlush&#10;&#128248;  Instagram - http://www.instagram.com/leonlush&#10;&#10;&#127909;  My camera: http://leonlush.com/camera (Amazon - Commissions earned)&#10;&#127908;  My microphone: http://leonlush.com/mic (Amazon - Commissions earned)&#10;&#128249;  The rest: http://leonlush.com/gear (Amazon - Commissions earned)&#10;&#128421;  Software: Final Cut Pro, Motion 5, Logic Pro X, Photoshop&#10;&#10;&#127911;  Listen to my music&#10;Spotify: http://leonlush.com/Spotify&#10;iTunes: http://leonlush.com/iTunes&#10;&#10;&#128236;  PO BOX (If you wanna send me stuff)&#10;Leon Lush&#10;PO Box 3956&#10;Peabody, MA 01961, USA&#10;&#10;&#128233;  If you'd like to get in touch for any reason (ideas, criticism or just to say hi) hit me up at hello@leonlush.com and I'll do my best to reply. For business inquiries please use the email in the About section.&#10;&#10;Thanks for watching, liking and sharing. I appreciate ya!"
+    channeltitle "Leon Lush"
+    channelid "UCLHsZ4X7YemjxRrvq0AI4LA"
     favcount 0
-    viewcount 1262
-    likecount 61
-    commentcount 4
-    duration "PT1H20M13S"
-    indegree 0
-    sentiment 1
+    viewcount 461368
+    likecount 30210
+    commentcount 3698
+    duration "PT14M43S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 433
+    id 310
+    name "433"
     label "r_vn5oczs_I"
     step 0
     date "2021-11-03T13:18:22Z"
@@ -5928,12 +9320,23 @@ graph
     commentcount 0
     duration "PT1M47S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 434
+    id 311
+    name "434"
     label "sJMwWDW8YmU"
     step 0
     date "2021-06-18T05:18:01Z"
@@ -5947,12 +9350,23 @@ graph
     commentcount 32
     duration "PT3H49M5S"
     indegree 1
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 435
+    id 312
+    name "435"
     label "lueIx97K0wo"
     step 0
     date "2020-09-11T19:59:34Z"
@@ -5966,12 +9380,23 @@ graph
     commentcount 12
     duration "PT25M33S"
     indegree 1
-    sentiment 1
-    cluster 13
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 436
+    id 313
+    name "436"
     label "vFHzrmk5Md0"
     step 0
     date "2018-08-05T19:56:42Z"
@@ -5985,12 +9410,23 @@ graph
     commentcount 626
     duration "PT3M7S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 13
   ]
   node
   [
-    id 437
+    id 314
+    name "437"
     label "1QbEcG8O-L8"
     step 0
     date "2020-10-22T18:10:12Z"
@@ -6004,12 +9440,23 @@ graph
     commentcount 214
     duration "PT1H32M17S"
     indegree 1
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 438
+    id 315
+    name "438"
     label "DUQ5OTeQQBY"
     step 0
     date "2020-09-15T01:18:23Z"
@@ -6023,12 +9470,23 @@ graph
     commentcount 243
     duration "PT9M38S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 439
+    id 316
+    name "439"
     label "DqscTbrubT4"
     step 0
     date "2021-11-17T04:41:17Z"
@@ -6042,107 +9500,173 @@ graph
     commentcount 0
     duration "PT13S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 441
-    label "hnY09j2MpHc"
+    id 317
+    name "440"
+    label "PAxSkA1UDOI"
     step 0
-    date "2020-09-04T12:42:05Z"
-    title "A Message From QAnon"
-    description ""
-    channeltitle "Brent Terhune"
-    channelid "UClpzKyVFujAevCELqapPXqA"
+    date "2021-08-27T22:00:06Z"
+    title "He Literally MURDERED His Kids For Qanon...."
+    description "All My Links Can Be Found Here: https://linktr.ee/SurisSkeptic&#10;&#10;Merch! https://rdbl.co/3mKx6Vc&#10;&#10;Shoutout To YaraKoro For Stream Opening and 2d Studio&#10;&#10;Commissions open at: https://twitter.com/YaraKoro &#10;&#10;Shoutout To Rimixen For Live2d Avatar and Rigging!&#10;Commissions at: https://twitter.com/Rimexin&#10;&#10;Shoutout to Suzu Sawara For Live2d Slime Avatar and Rigging!&#10;https://twitter.com/SuzuSawara&#10;&#10;Shoutout to BonBonBerry For 3d Vroid Model and Rigging!&#10;Commissions at: https://twitter.com/BonBonBerry15&#10;&#10;Shoutout To JacandQuil For Patron Slides!&#10;Commissions at: https://twitter.com/JACandQuill&#10;&#10;----------------------------------------------------------------------------------------------------&#10;&#10;AFFILIATE LINKS!&#10;&#10;https://artesianbuilds.com/gaming/?aff=Nekosuris&#10;&#10;https://ddlgplayground.com/ Go here and use Coupon Code &#34;Suris&#34; For 10% off of any purchase! All My Links Can Be Found Here: https://linktr.ee/SurisSkeptic&#10;&#10;Shoutout To YaraKoro For Stream Opening and 2d Studio&#10;&#10;Commissions open at: https://twitter.com/YaraKoro &#10;&#10;Shoutout To Rimixen For Live2d Avatar and Rigging!&#10;&#10;Commissions open at: https://twitter.com/Rimexin&#10;&#10;Shoutout to BonBonBerry For 3d Vroid Model and Rigging!&#10;&#10;Commissions open at: https://www.fiverr.com/bonbonberry01/make-you-a-3d-model-in-vroid-for-vtubing?source=order_page_summary_gig_link_title&#38;funnel=b2d719ff0aff27089f45e70126496c4b&#10;&#10;Shoutout To JacandQuil For Patron Slides!&#10;&#10;Commissions Open at: https://twitter.com/JACandQuill&#10;&#10;----------------------------------------------------------------------------------------------------&#10;&#10;AFFILIATE LINKS!&#10;&#10;https://artesianbuilds.com/gaming/?aff=Nekosuris&#10;&#10;https://ddlgplayground.com/ Go here and use Coupon Code &#34;Suris&#34; For 10% off of any purchase!"
+    channeltitle "Suris"
+    channelid "UCh-YXgnF0tmBxCsh4w_4svw"
     favcount 0
-    viewcount 26245
-    likecount 1495
-    commentcount 199
-    duration "PT2M19S"
+    viewcount 7631
+    likecount 715
+    commentcount 249
+    duration "PT33M11S"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist|SocialJustice|Socialist"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 443
-    label "yTSR6jGw54U"
+    id 318
+    name "442"
+    label "lpgyxvwbAxo"
     step 0
-    date "2022-04-05T13:00:54Z"
-    title "QAnon Conspiracist Kills After Going Down The Rabbit Hole"
-    description "Conspiracy theories are fun. Illuminati, flat earth, etc There are a plenty to choose from. Alex Jones, David Icke, Eric Dubay are some of the more detailed voices in the space. &#10;&#10;Conspiracies start out as fun for most but can turn serious and can go from something to joke about to something dark and tragic.&#10;&#10;This is the story of Matthew Taylor Coleman. A man who killed his children to save the world because of QAnon conspiracies.&#10;&#10;Thanks for watching and make sure to subscribe to the channel to stay up to date with our latest #TrueCrime videos."
-    channeltitle "Notorious Crimes"
-    channelid "UCn5pyoFjdvhD3x5b7O5NHmw"
+    date "2022-03-28T17:50:52Z"
+    title "RWW News: QAnon  Three GOP Candidates"
+    description "https://www.rightwingwatch.org/post/qanon-prophet-johnny-enlow-prayed-over-and-commissioned-three-gop-candidates/&#10;&#10;Right Wing Watch reports on the extreme rhetoric and activities of key right-wing figures and organizations by showing their views in their own words. In this clip, self-proclaimed &#34;prophet&#34; and QAnon conspiracy theorist Johnny Enlow prays over and &#34;commissions&#34; three GOP candidates who are running for office in Oregon."
+    channeltitle "RWW Blog"
+    channelid "UCMXqRHe8n1TX5iDvkLS62rw"
     favcount 0
-    viewcount 138
-    likecount 11
-    commentcount 10
-    duration "PT7M20S"
+    viewcount 1644
+    likecount 103
+    commentcount 103
+    duration "PT3M46S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "L"
+    cluster 6
+  ]
+  node
+  [
+    id 319
+    name "444"
+    label "ut_X1yRk7bM"
+    step 0
+    date "2022-07-12T20:15:01Z"
+    title "Jan. 6 hearing: Panel probes Trumps potential connections to Proud Boys, Oath Keepers | FULL"
+    description "WARNING: Video contains graphic language and disturbing content. Viewer discretion is advised.&#10;&#10;Congressional investigators into the Jan. 6, 2021 attack on the U.S. Capitol reconvened for the committee&#8217;s seventh hearing on Tuesday, focused on drawing connections between then-President Donald Trump's associates and right-wing militia groups who stormed the seat of government.&#10;&#10;Jason Van Tatenhove, the former media director for the far-right anti-government militia Oath Keepers, as well as self-identified ex-Trump supporter Stephen Ayres provided testimonies on their participation in the lead-up to Jan. 6 and Trump&#8217;s influence on their actions.&#10; &#10;In footage shared at the hearing, former Attorney General William Barr can be heard recounting that Trump asked to have the Department of Justice seize voting machines, which Barr refused to do, due to a lack of probable cause. The hearing also displayed an executive order drafted by several of Trump&#8217;s advisors to appoint American Attorney Sidney Powell as Special Counsel with the power to seize voting machines, which former White House counsel Pat Cipollone &#8220;vehemently opposed.&#8221;&#10; &#10;The hearing also reviewed past phone records between Trump with former advisor Steve Bannon and former Vice President Mike Pence, Trump&#8217;s last-minute changes to speeches, recordings from Trump&#8217;s daughter Ivanka Trump and more.&#10;&#10;The attack on the Capitol, following a speech Trump gave at a rally outside the White House that day, delayed the certification of Joe Biden's election for hours, injured more than 140 police officers and led to several deaths. The committee said that they will be reconvening next week for an eighth hearing.&#10;&#10;For more info, please go to https://globalnews.ca/news/8982224/jan-6-us-capitol-attack-hearings-revelations/&#10;&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#10;#GlobalNews #January6Hearing #USPolitics"
+    channeltitle "Global News"
+    channelid "UChLtXXpo4Ge1ReTEboVvTDg"
+    favcount 0
+    viewcount 8000
+    likecount 116
+    commentcount 104
+    duration "PT2H32M29S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 7
   ]
   node
   [
-    id 445
-    label "CpfvjOIot0A"
+    id 320
+    name "446"
+    label "5UnjpqF1MqM"
     step 0
-    date "2021-11-02T19:44:45Z"
-    title "QAnon supporters chant  banner"
-    description "https://www.rawstory.com/qanon-jfk-jr-2024/&#10;&#10;QAnon supporters gathered in Dallas on Tuesday in the hopes that John F. Kennedy, Jr. would make major revelations.&#10;&#10;&#34;QAnon supporters are gathering for an event in Texas on Tuesday at which they falsely believe JFK junior will reveal he is not dead and announce a 2024 presidential run with Donald Trump, the former president,&#34; the Independent reports.&#10;&#10;The son of America's 35th president died in 1999.&#10;&#10;Journalist Steven Monacelli posted a video of members of the crowd chanting a euphemism for &#34;f*ck Joe Biden&#34; while holding a Trump-Kennedy QAnon banner. Although, the banner is from 2020, showing yet another &#34;prophecy&#34; that did not occur.&#10;&#10;To see the full twitter thread of Steven Monacelli: https://twitter.com/stevanzetti/status/1455583375385837581?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1455584854624645131%7Ctwgr%5E%7Ctwcon%5Es2_&#38;ref_url=https%3A%2F%2Fwww.rawstory.com%2Fqanon-jfk-jr-2024%2F"
-    channeltitle "Raw Story"
-    channelid "UCt6tgXcL1hC9gItUIgiDvMQ"
+    date "2021-11-04T13:00:25Z"
+    title ", by Mangy Fetlocks"
+    description "Recently, a group of the QAnon faithful joined in Dallas, fully believing that JFK Jr. was going to show up and announce that he had faked his death, and that he was going to join Trump in taking back The White House, starting immediately. Some similarly believed that Elvis would also come out of hiding and announce that he would be standing in for John Lennon as The Beatles got back together with Kim Jong Un replacing George Harrison on guitar.   All this makes me worry about the effect bottled water and Pop Tarts have had on some Americans' brain development. Lyrics below:&#10;&#10;As QAnon waited patiently for JFK Junior,&#10;I wonder what was going through their heads.&#10;I&#8217;m thinking their thought processes were somewhat peculiar&#10;since it&#8217;s been 21 years he&#8217;s been dead.&#10;It seems they thought he&#8217;d faked his death, and was in hiding,&#10;That&#8217;s sane compared to some beliefs they hold.&#10;Their mass hysteria I would not think of deriding&#10;but to  &#8220;Get a life&#8221; I think they should be told. &#10;&#10;They spend their days all up in arms &#8216;bout child molesters&#10;while there are child molesters in their ranks.&#10;They love to get on TV as those unhinged protestors,&#10;they love conspiracies about Tom Hanks.&#10;Each time a dear conspiracy is proved to be rubbish&#10;They up and find another to embrace.&#10;Their lives are intertwined in ways both cult-like and clubbish.&#10;Their heads, I think, are mostly empty space. &#10;                                        copyright 2021, Bruce W. Nelson"
+    channeltitle "Bruce W. Nelson"
+    channelid "UC-MgavIdxnjVMmIWonFl0sQ"
     favcount 0
-    viewcount 7238
-    likecount 43
-    commentcount 86
-    duration "PT1M32S"
+    viewcount 738
+    likecount 193
+    commentcount 47
+    duration "PT1M22S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 448
-    label "eriefCfe66A"
+    id 321
+    name "449"
+    label "0ZC96TGAuHk"
     step 0
-    date "2018-07-22T21:22:11Z"
-    title "Jfk Jr Qanon the great awakening 22.7.18"
-    description ""
-    channeltitle "DollyDayDream Higher Divine Frequencies"
-    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    date "2020-06-30T17:31:07Z"
+    title "QAnon, Trump,  the American Church with Bonnie Kristian"
+    description "This week's guest is Bonnie Kristian. Bonnie is a contributing editor at The Week and has also been featured in Christianity Today, USA Today, Time and many other publications. She also holds a Master's in Christian Thought from Bethel Seminary. &#10;&#10;Bonnie has been studying the QAnon movement and the growing conspiracy theory culture which centers around Donald Trump as a messianic figure. This movement has been both influencing American Christianity and developing as its own religious cult.&#10;&#10;Check out some of the articles referred to in today's discussion here:&#10;&#10;https://www.thegospelcoalition.org/article/the-faqs-what-christians-should-know-about-qanon/ &#10;https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/ &#10;https://theconversation.com/the-church-of-qanon-will-conspiracy-theories-form-the-basis-of-a-new-religious-movement-137859 &#10;To Find out more about Bonnie Kristian go to:&#10;https://www.bonniekristian.com/&#10;&#10; &#10;&#10;If you want to support this podcast and become a member of the Deep Talks Patreon Community, go to this link:&#10;https://www.patreon.com/deeptalkstheologypodcast&#10;&#10; &#10;&#10;To Subscribe &#38; Review on Apple Podcasts:&#10;&#10;https://podcasts.apple.com/us/podcast/deep-talks-exploring-theology-and-meaning-making/id1401730159"
+    channeltitle "Deep Talks"
+    channelid "UC2yCyOMUeem-cYwliC-tLJg"
     favcount 0
-    viewcount 1039
+    viewcount 1099
     likecount 23
-    commentcount 8
-    duration "PT1M51S"
+    commentcount 4
+    duration "PT1H9M2S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 13
   ]
   node
   [
-    id 450
-    label "fpHrTuNWHTU"
-    step 0
-    date "2021-03-05T18:00:10Z"
-    title "QAnon: A Credible Threat or a Fabrication by Progressives?"
-    description "The House canceled votes on Thursday due to 'credible' threats of QAnon followers attacking the Capitol. O'Reilly debates whether these actual threats or just the latest narrative being pushed from K Street in Washington, that the media has picked up on and used to make the American public believe right wing extremists is a major issue the country faces."
-    channeltitle "Bill O'Reilly"
-    channelid "UC4OvD2yIbofl9l4dIlqSNMw"
-    favcount 0
-    viewcount 19348
-    likecount 1076
-    commentcount 333
-    duration "PT8M4S"
-    indegree 2
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 451
+    id 322
+    name "451"
     label "sPQ2ZVwCdps"
     step 0
     date "2021-11-05T20:25:05Z"
@@ -6156,12 +9680,23 @@ graph
     commentcount 2830
     duration "PT31S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 452
+    id 323
+    name "452"
     label "TRxw2oKj8hQ"
     step 0
     date "2021-03-05T18:33:30Z"
@@ -6175,145 +9710,233 @@ graph
     commentcount 3
     duration "PT41S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 456
-    label "BbJLNF1Fe8w"
+    id 324
+    name "453"
+    label "OeMqkX9Gdcg"
     step 0
-    date "2022-06-26T07:05:22Z"
-    title "QAnon Returns! | Trump FBI Raid | TikTok Conspiracies | Dead Internet Conspiracy"
+    date "2021-03-19T18:24:52Z"
+    title "Congresswoman Boebert Promotes QAnon Conspiracy: Predicts Resignations Based on Declassified Docs"
+    description "Speaking to Republicans in Montrose, Colorado, Congresswoman Lauren Boebert (R-CO) is asked if there will ever be &#34;perp walks&#34; for high-level former officials like the former head of the FBI, CIA and Hillary Clinton. Boebert responds by saying she has inside knowledge of a QAnon-linked conspiracy theory promoted by The Epoch Times that secret documents declassified in the final days of the Trump administration will expose wrongdoing by his enemies and lead to resignations and arrests. &#10;&#10;Original audio recording by the Montrose Daily Press and Delta County Independent."
+    channeltitle "Colorado Times Recorder"
+    channelid "UCJDGf2MAfahUySmwKI6R7Sw"
+    favcount 0
+    viewcount 8488
+    likecount 15
+    commentcount 82
+    duration "PT2M4S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
+  ]
+  node
+  [
+    id 325
+    name "457"
+    label "tREt3GqzPf0"
+    step 0
+    date "2018-11-24T15:14:12Z"
+    title "Ho..ho..ho..Qanon...strange Things.."
     description ""
-    channeltitle "Mythic Politics"
-    channelid "UCK4C3OluhyMkjLKUpUaIReQ"
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
     favcount 0
-    viewcount 288
-    likecount 21
-    commentcount 2
-    duration "PT4H46M50S"
+    viewcount 1092
+    likecount 42
+    commentcount 22
+    duration "PT32M56S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 458
-    label "vczSiTZj3dA"
+    id 326
+    name "459"
+    label "UYkFgodiVVw"
     step 0
-    date "2022-06-01T21:00:18Z"
-    title "Judges Order QAnon Lawyer To Take Mental Health Exam To Keep Bar License"
-    description "&#9654; Support my work: https://www.patreon.com/rodecast&#10;&#9654; Sign Up For A Channel Membership To Support My Work Here: https://www.youtube.com/channel/UCIyYmQOEs0vHrIqEpUlKHdw/join&#10;&#9654; Twitter: @Rodeslav&#10;&#9654; Cashapp: $Rodeslav&#10;&#10;&#9654; Intro Music: JAG Intro Orchestra &#10;&#9654; Outro Music: Judge Dredd Stories &#10;&#10;NOTE: I am not a lawyer. I am a legal scholar. I study the law and legal theory, but have no interest in practicing law. I am familiar with most court procedures as well as trial procedure.&#10;&#9654; My Educational Qualifications:&#10;+ Deep legal knowledge about the Rules of Civil &#38; Criminal Procedures In US Courts&#10;+ Deep legal knowledge about the Federal Rules of Evidence (central to understanding any US federal legal cases)&#10;+ Deep knowledge of America Constitutional Law Principles and their application in federal and state cases&#10;+ Deep knowledge of Criminal Law Principles relevant to court proceedings and trials&#10;+ Deep knowledge of Civil Law Principles related to torts and civil trials&#10;+ Growing library of knowledge of relevant precedential supreme court cases in US History&#10;+ Historical knowledge of Anglo-American Jurisprudence dating back to the British Empire. &#10;+ B.A in Political Science from California State University, Northridge&#10;+ B.S in Microbiology from California State University, Northridge&#10;+ Deep knowledge in Central and Northern European Politics, History, and Culture&#10;+ Deep knowledge of Classical Greek Philosophy and Logical Argumentation&#10;+ Deep knowledge of Evolutionary Biology, Psychology, and Human Genetics&#10;&#10;#LawAndOrder #LegalNews #TheLaw #Rodecast"
-    channeltitle "Rodecast"
-    channelid "UCIyYmQOEs0vHrIqEpUlKHdw"
+    date "2020-04-05T16:12:01Z"
+    title "No ThankQ John #WWG1WGA #Qanon...the beautiful energy..see u soon"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
     favcount 0
-    viewcount 306
-    likecount 23
-    commentcount 5
-    duration "PT16M34S"
-    indegree 1
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 460
-    label "Q75Bw-9StBA"
-    step 0
-    date "2022-05-30T13:16:03Z"
-    title "Qanon The Conspiracy Theory"
-    description "Source:&#10;https://www.spreaker.com/user/allmusicradiopodcast/qanon-the-conspiracy-theory-stereo-mix&#10;&#10;QAnon is a wide-ranging, unfounded conspiracy theory that says that Donald Trump is waging a secret war against elite Satan-worshipping pedophiles in government, business, and the media."
-    channeltitle "Michael Fortune"
-    channelid "UC3_Z64pBoqnKXZ_rjGx3Myg"
-    favcount 0
-    viewcount 7
-    likecount 0
-    commentcount 1
-    duration "PT11M48S"
+    viewcount 682
+    likecount 32
+    commentcount 4
+    duration "PT45S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 466
-    label "uzACSoeg_9w"
+    id 327
+    name "461"
+    label "mCOZLjgoyWQ"
     step 0
-    date "2022-07-10T15:32:26Z"
-    title "The 17th Digit - the math and connections behind Q #Q #Qanon"
-    description "this video lays out the timing and synchronicities between major events in the United States. the pandemic, World War I, 9/11, human rights day the 345th day of the year represents a 345 triangle as shown in logo of Masonry. the 162 day of the year which represents the golden ratio. Skull and Bones uses 322 as their number, this number is the golden ratio times two."
-    channeltitle "&#120293;&#120290;&#120277;&#120280;&#120293;&#120295; &#120279;&#120280;&#120293;&#120290;&#120288;&#120280;"
-    channelid "UCodD6A3tHFI-CdTWzKcFtwg"
+    date "2018-06-24T12:17:48Z"
+    title "My Thoughts On Brexit#Qanon"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
     favcount 0
-    viewcount 76
-    likecount 6
-    commentcount 5
-    duration "PT11M15S"
-    indegree 2
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 470
-    label "F6b1KK2EZbY"
-    step 0
-    date "2022-02-12T16:57:53Z"
-    title "IndoctriNation - Qanon Casualties w/ Jitath Jadeja"
-    description "Jitarth Jadeja is a former QAnon follower and current moderator of a Reddit group with over 200K followers called QAnon Casualties. Residing in Sydney, Australia, Jitarth has been covered in many major news publications in the U.S. and beyond, providing important insight into the perplexing world of Q. Since leaving Qanon behind, Jitarth has become an invaluable resource not only to high-profile journalists but also to families who have lost loved ones to Qanon. As you'll hear, his charming vulnerability and quick wit have helped him to shine a light on the shadows of Qanon and the conspiratorial right.&#10;&#10;Jitarth shares with Rachel why he first became consumed with Qanon, explaining the ways in which it affected his familial relationships, specifically with his father who became a Q believer as well. Rachel discusses her experience dealing with the fallout of the Qanon movement. Together they talk through the consequences of Qanon's dangerous disinformation, lamenting the human cost of its voracious growth.&#10;&#10;Before You Go: Rachel explains the often innocuous reasons and even positive attributes that can cause people to seek community in cultic situations. Additionally, she offers insight on engaging with people whose natural desire for acceptance and status prevents them from thinking critically.&#10;&#10;Listen to Rachel and Jitarth's conversation on Conspirituality Podcast here:&#10;https://podcasts.apple.com/us/podcast/65-long-haul-qanon-w-rachel-bernstein-jitarth-jadeja/id1515827446?i=1000532569599&#10;&#10;Find Rachel's book &#34;Now I Know: Kids Talking To Kids About Divorce...&#34; here:&#10;www.amazon.com/Now-I-Know-Rachel&#8230;ein/dp/1620867893&#10;&#10;Thanks to our newest Patreon supporters Lisa Akers and Stef CLO!!!&#10;&#10;To help support the show monthly and sign up for cool Indoctrination shirts and tote bags, please visit:&#10;www.patreon.com/indoctrination&#10;&#10;Prefer to support the IndoctriNation show with a one-time donation? Use this link: www.paypal.me/indoctriNATION&#10;&#10;You can help the show for free by leaving a rating on Spotify or Apple/ iTunes. It really helps the visibility of the show!"
-    channeltitle "Rachel Bernstein"
-    channelid "UC67JLTD22dSnVadqXKcYPcA"
-    favcount 0
-    viewcount 125
-    likecount 10
+    viewcount 183
+    likecount 12
     commentcount 3
-    duration "PT1H2M21S"
+    duration "PT1H17M2S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 478
-    label "pfjhBFClEJE"
+    id 328
+    name "467"
+    label "vPQUIdQZc34"
     step 0
-    date "2022-04-27T03:27:47Z"
-    title "Did the Satanic Panic lead to QAnon? - JD Sword [SkeptiCamp 2021]"
-    description "Accusations of child sacrifice and other ghastly deeds are not new. The Satanic Panic of the 1980s never really went away; it persisted and mutated in the American psyche, before coming back to prominence in the &#34;Pizzagate&#34; conspiracy theory of 2016. This was the birth of what would become QAnon.&#10;&#10;JD Sword hosts the podcast &#34;The Devil in the Details,&#34; writes for &#34;Skeptical Inquirer&#34; and AIPT Science, and is a member of the Church of Satan.&#10;&#10;SkeptiCamp is like a science conference, except that its content is provided by the attendees themselves! Anyone can be a presenter, as long as they can withstand the withering criticism of their peers. &#10;&#10;New York City Skeptics is an all-volunteer,  501(c)3 nonprofit that promotes critical thinking and science education. You can make a fully tax-deductible donation below!&#10;&#10;https://www.nycskeptics.org/join"
-    channeltitle "New York City Skeptics"
-    channelid "UCa4V0l0c7PiF5YA5YMrsZAg"
+    date "2020-09-07T22:03:41Z"
+    title "Evening Chat..Gratitude.....Qanon..Awakening to you"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
     favcount 0
-    viewcount 35
-    likecount 3
-    commentcount 0
-    duration "PT29M59S"
-    indegree 0
-    sentiment 1
-    cluster 8
+    viewcount 578
+    likecount 53
+    commentcount 3
+    duration "PT1H50M33S"
+    indegree 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 480
-    label "aMAjDYyUoEM"
+    id 329
+    name "471"
+    label "cLtCA7_5m1s"
     step 0
-    date "2022-06-12T19:06:45Z"
-    title "A lot of QAnon believers think this guy is JFK Jr who was 61, handsome and currently dead!"
-    description "Actual footage of JFK junior. The short bus is getting longer. SMDH which asylum had a breakout?"
-    channeltitle "The Red Pill Media"
-    channelid "UCafuOeKyWMGpUrH6wq0kbFQ"
+    date "2022-07-05T15:00:11Z"
+    title "Thierry Casasnovas et les DQodeurs : quand RGNR rencontre la mouvance QAnon"
+    description "Et si on assistait au rapprochement de deux d&#233;rives sectaires &#233;pingl&#233;es dans le dernier rapport de la MIVILUDES ? D&#8217;un c&#244;t&#233;, le mouvement pseudoscientifique initi&#233; par Thierry Casasnovas autour de la &#8220;R&#233;g&#233;n&#233;ration&#8221; incitant les gens &#224; se d&#233;tourner de la m&#233;decine scientifique, et faisant la promotion de pratiques extr&#234;mes comme le crudivorisme, le je&#251;ne sec prolong&#233; ou l&#8217;exposition au froid sans suivi m&#233;dical. De l&#8217;autre, une r&#233;surgence europ&#233;enne de la mouvance QAnon, tr&#232;s active sur les r&#233;seaux sociaux depuis deux ans, propageant une vision conspirationniste et fantasm&#233;e du monde, pouvant pousser ses adeptes &#224; la radicalisation. &#10;Comment et pourquoi se fait la jonction entre ces deux sph&#232;res ? Cela aurait-il un lien avec leur croyance religieuse commune ?&#10;&#201;l&#233;ments de r&#233;ponses en vid&#233;o.&#10;&#10;&#10;Chapitrage de la vid&#233;o :&#10;00:00 Introduction&#10;00:35 Faux-d&#233;part&#10;15:50 Qontact&#10;26:42 Papa est la cl&#233;&#10;32:25 Les nouveaux proph&#232;tes&#10;35:33 Conclusion&#10;&#10;POUR APPROFONDIR LE SUJET&#10;&#10;Nos articles et vid&#233;os en lien avec cette vid&#233;o :&#10;- RGNR Saison 2 &#8211; Le retour ! : https://bit.ly/3yeKBCc&#10;- Complotisme et extr&#234;me-droite : les liaisons dangereuses ? https://bit.ly/3bHcawi&#10;- Thierry Casasnovas : ses conseils pour les enfants https://youtu.be/d26n2SIZB9k &#10;- Thierry Casasnovas a-t-il recommand&#233; l'eau de coco comme substitut au lait maternel pour les b&#233;b&#233;s ? https://youtu.be/6Z_zXHRPEcg &#10;- Thierry Casasnovas et l'&#233;loignement de la m&#233;decine https://youtu.be/4FI6DPNpIDU &#10;&#10;Sur le pros&#233;lytisme &#233;vang&#233;lique de Thierry Casasnovas :&#10;- Thierry CASASNOVAS (Le Syndrome J&#233;sus) https://skeptikon.fr/w/9DRzxb5CfTrKKxRrS2ZseW par ACult&#10;- Thierry La Fronde - Magazine Society n&#176; 152 p.50 Paru le 25 mars 2021 https://bit.ly/3R85Kq2&#10;- Le Nouveau p&#233;ril sectaire - Livre de Jean-Loup Ad&#233;nor et Timoth&#233;e de Rauglaudre paru chez Robert Laffont&#10;- Thierry Casasnovas : contraception et avortement https://youtu.be/wQzzcaqkeXI &#10;&#10;Sur le mouvement QAnon :&#10;- QAnon : histoire d'un mouvement complotiste pro-Trump devenu incontr&#244;lable - Podcast Le Parisien https://youtu.be/Gp4ouBwB5cY &#10;- Qanon : le mouvement complotiste pro-Trump gagne l'Europe - L'Instant M sur France Inter https://youtu.be/DNG0aeuO6zE&#10;&#10;SOURCES&#10;Concernant Thierry Casasnovas&#10;- Au revoir ( Pourquoi j'arr&#234;te les vid&#233;os Youtube ) https://youtu.be/Jzu5LrCG4k4 &#10;- RGNR saison 2 : le retour des vid&#233;os ! https://youtu.be/bRmKDxJl_HU &#10;- Le jus qui a fait trembler la matrice - RGNR.FR Saison 2 https://youtu.be/V_QUcU08Pz0 &#10;- Questions &#38; r&#233;ponses N&#176;124 https://youtu.be/Il4I0-jzLHk &#10;- LIB&#201;REZ L'INFO #1 - 9.06.22 https://odysee.com/@Chloe_F:b/LIBEREZ_LINFO_1:6 &#10;- Archives de son site vivrecru.org (Questions physiologiques): https://bit.ly/3Id4Jcc&#10;- Archives de son site vivrecru.org (Les plantes m&#233;dicinales):  https://bit.ly/3NAOMOd&#10;- Archives du site ABC de la nature : https://bit.ly/3bLmNOP&#10;- Site RGNR : https://www.rgnr.fr/presentation.html&#10;- Fil Telegram RGNR : https://t.me/rgnr_fr&#10;&#10;Concernant Les DeQodeurs&#10;- &#201;pilogue de la Saison 1 : 2020 &#8211; 2022 (Pass&#233;, Pr&#233;sent et Futur) https://bit.ly/3y96jHL&#10;- QAnon n&#8217;existe pas, Q en revanche&#8230; https://bit.ly/3a8gLqO&#10;- Rencontre avec l'instigateur du mouvement Qanon en Europe - Reportage de Quotidien https://bit.ly/3bLXYC4&#10;- QAnon en Suisse : au-del&#224; des clich&#233;s p&#233;do-satanistes - Reportage de Nouvo https://youtu.be/mMb3hUCSAeQ &#10;- Site des DeQodeurs : https://lesdeqodeurs.fr/&#10;&#10;Articles cit&#233;s en conclusion&#10;- Un Am&#233;ricain, adepte de QAnon, accus&#233; d&#8217;avoir tu&#233; ses deux enfants pour &#171; sauver le monde &#187; - 20Minutes : https://bit.ly/3bEh2Cd&#10;- Tous les deux membres de QAnon, elle finit par le tuer, persuad&#233;e qu'il conspire contre elle - ParisMatch : https://bit.ly/3OU3HnI&#10;&#10;&#10;NOTE&#10;Les courts extraits utilis&#233;s dans cette vid&#233;o appartiennent &#224; leurs auteurs respectifs. Ils restent leur propri&#233;t&#233; intellectuelle. Ces citations sont justifi&#233;es par le caract&#232;re critique, p&#233;dagogique et d'information de l'&#339;uvre dans laquelle elles sont incorpor&#233;es. Conform&#233;ment &#224; l'article L122-5 du code de la propri&#233;t&#233; intellectuelle.&#10;https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037388886/ &#10;&#10;MUSIQUES&#10;- &#34;Enter the Maze&#34; Kevin MacLeod (incompetech.com)&#10;Licensed under Creative Commons: By Attribution 4.0 License&#10;http://creativecommons.org/licenses/by/4.0/ &#10;&#10;- &#8220;L&#8217;Extracteur&#8221; musique originale de Eddy Kaiser https://www.eddykaiser.com/"
+    channeltitle "L' Extracteur"
+    channelid "UCvtMQXNgBROo1Sh2D3Qiulw"
     favcount 0
-    viewcount 78
-    likecount 1
-    commentcount 1
-    duration "PT52S"
+    viewcount 17267
+    likecount 1530
+    commentcount 545
+    duration "PT37M40S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 330
+    name "479"
+    label "uOh--VauDcA"
+    step 0
+    date "2018-06-22T10:13:59Z"
+    title "#QANON messages"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    favcount 0
+    viewcount 111
+    likecount 9
+    commentcount 3
+    duration "PT7M5S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 481
+    id 331
+    name "481"
     label "mL29osNOUwc"
     step 0
     date "2022-05-19T04:35:14Z"
@@ -6327,12 +9950,23 @@ graph
     commentcount 85
     duration "PT5M"
     indegree 1
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
   ]
   node
   [
-    id 482
+    id 332
+    name "482"
     label "xxrEBbvYfxI"
     step 0
     date "2022-07-10T03:27:41Z"
@@ -6346,12 +9980,23 @@ graph
     commentcount 9
     duration "PT2H13M58S"
     indegree 2
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 483
+    id 333
+    name "483"
     label "QBm89zfvWNs"
     step 0
     date "2019-04-05T22:28:17Z"
@@ -6365,69 +10010,113 @@ graph
     commentcount 0
     duration "PT1H37M15S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 485
-    label "hS8NK_tUyNk"
+    id 334
+    name "484"
+    label "tELpmrNJYDI"
     step 0
-    date "2022-01-27T23:00:16Z"
-    title "Dengists are the Qanon of the Left"
-    description "Sources you won't read:&#10;&#10;China Donates $19.5 Million in Military Equipment to Philippines&#10;https://www.thedefensepost.com/2022/01/24/china-military-equipment-philippines/&#10;&#10;Philippines receives military equipment from China&#10;https://www.janes.com/defence-news/news-detail/philippines-receives-military-equipment-from-china&#10;&#10;China donates equipment to Philippine military&#10;https://www.shephardmedia.com/news/landwarfareintl/china-donates-equipment-to-philippine-military/&#10;&#10;LOOK: China donates P1 billion worth of equipment to PH military&#10;https://www.rappler.com/nation/photos-china-donates-equipment-philippine-military/&#10;&#10;China giving weapons to kill communists&#10;https://www.philstar.com/headlines/2022/01/23/2155749/china-donates-p1-billion-military-aid-philippines&#10;&#10;China is not a planned economy&#10;https://www.bnnbloomberg.ca/xi-says-china-will-not-return-to-planned-economy-1.1440271&#10;&#10;China building attack deones to kill Yemenis&#10;https://www.scmp.com/news/china/diplomacy-defence/article/2081869/chinese-drone-factory-saudi-arabia-first-middle-east&#10;&#10;China Developing New Attack Drones for Saudis and Others&#10;https://www.scmp.com/news/china/military/article/3150271/china-unveil-new-reconnaissance-and-attack-drones-air-show&#10;&#10;China defening Saudi Arabia after Yemenis strike it back.&#10;https://www.scmp.com/news/china/diplomacy/article/3029737/china-calls-calm-aftermath-drone-strikes-saudi-oil-facilities&#10;&#10;http://democracyandclasstruggle.blogspot.com/2018/11/how-chinese-loans-become-unrepayable-by.html&#10;&#10;Patreon &#9733; https://goo.gl/TcEqJ4&#10;Website &#9733; http://jasonunruhe.com/&#10;Facebook &#9733; https://goo.gl/G5wDyF&#10;Twitter &#9733; https://goo.gl/Cu1s9S"
-    channeltitle "Jason Unruhe"
-    channelid "UCgr5cilTJPILaRYS7f_TkVA"
+    date "2021-08-06T01:52:48Z"
+    title "DHS Says QAnon Followers Could Resort to Violence This Summer"
+    description "Mike Lindell is a high profile figure associated with spawning various conspiracy theories relating to the Presidential election in which Joe Biden won. Lindell has stated that he had financially backed a project that purportedly looked into the election and that the team he hired had turned up evidence that hackers in which from China had infiltrated the Arizona election via it&#8217;s network routers; he further asserts that data packets captured from these routers have revealed that such activity had in fact taken place and therefore Biden is not the legitimate President he wildly claims.&#10;QAnon followers are growing restless &#8212; and could resort to violence, similarly as the Capitol Rioters, DHS officials have warned &#8212; as MyPillow founder Mike Lindell continues to push back a timeline for his conspiracy theory about former president Donald Trump's reinstatement to office."
+    channeltitle "Politico Buzz"
+    channelid "UCOmJwrjhIGddnOjMuS-Pbyg"
     favcount 0
-    viewcount 2433
-    likecount 175
-    commentcount 319
-    duration "PT18M39S"
+    viewcount 40
+    likecount 4
+    commentcount 14
+    duration "PT12M46S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 488
-    label "X2eWeJvH3Ls"
+    id 335
+    name "486"
+    label "lHhhuNDPzpY"
     step 0
-    date "2022-01-19T15:00:17Z"
-    title "Qanon - Is it a Cult?"
-    description "Could Qanon be a cult? Qanon has similar characteristics as a Cult. We discuss the potential. Thanks for sharing!&#10;&#10;Web: www.NeverTooSerious.com&#10;Twitter: @TheNTSPodcast&#10;Gettr: @TheNTSPodcast&#10;Parler: @TheNTSPodcast"
-    channeltitle "Never Too Serious"
-    channelid "UCEM_MqcGs5TzKPwbk73OBpA"
+    date "2021-12-07T18:00:15Z"
+    title "Reading Qanon Propaganda, Problems In Atheism, And More | Voicemails"
+    description "00:00 - Reading Qanon propaganda&#10;04:44 - Problems in the Atheism community/movement&#10;10:53 - Will Qanon start their own political party?&#10;13:25 - Is there mental illness on the right side of the political spectrum?&#10;15:09 - What kind of apple juice do i drink?&#10;16:15 - What's the worst cult in history?&#10;21:36 - Why was TRUMP chosen as the messiah rather than any other republican president?&#10;24:10 - Why would an LGBTQ person vote for the republican party?&#10;&#10;Game Shop: https://www.etsy.com/shop/TelltaleShop&#13;&#10;&#13;&#10;Merch Shop: https://teespring.com/stores/telltaleatheist&#13;&#10;&#13;&#10;Facebook: https://www.facebook.com/telltaleatheist/&#13;&#10;&#13;&#10;Patreon: https://www.patreon.com/telltaleatheist&#13;&#10;&#13;&#10;All links to my channel can be found at http://telltaleatheist.com&#13;&#10;&#13;&#10;Podcast on iTunes: https://podcasts.apple.com/us/podcast/telltale-atheist-podcast/id1399333418&#13;&#10;&#13;&#10;Podcast on SoundCloud: https://soundcloud.com/user-450959803&#13;&#10;&#13;&#10;Podcast on Google Play: https://play.google.com/music/listen?u=0#/ps/I4syo4revixssvwypbxknebgapa&#13;&#10;&#13;&#10;Podcast on YouTube: &#13;&#10;https://www.youtube.com/channel/UCo6JSNp6SuUKf-yiaBQReNA&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Social Media:&#13;&#10;&#13;&#10;Patreon: http://telltaleatheist.com/patreon&#13;&#10;&#13;&#10;Twitter: http://telltaleatheist.com/twitter&#13;&#10;&#13;&#10;Discord:  http://telltaleatheist.com/discord&#13;&#10;&#13;&#10;PayPal:  http://telltaleatheist.com/paypal"
+    channeltitle "Telltale Fireside Chat"
+    channelid "UCo6JSNp6SuUKf-yiaBQReNA"
     favcount 0
-    viewcount 54
-    likecount 1
-    commentcount 4
-    duration "PT15M50S"
+    viewcount 24855
+    likecount 1440
+    commentcount 362
+    duration "PT25M45S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist"
+    leftright "C"
+    cluster 7
   ]
   node
   [
-    id 490
-    label "dB2_XplN2jo"
+    id 336
+    name "489"
+    label "4yjpDzkMhe0"
     step 0
-    date "2022-02-18T03:40:14Z"
-    title "QAnon Karen Calls The Cops Because She Refuses To Wear A Mask"
-    description "#Karens&#10;#Karen&#10;#PublicFreakouts&#10;#COVIDIOTS&#10;#QAnon"
-    channeltitle "E VV"
-    channelid "UC_zNs1tKN0cOhQFrkb8TELw"
+    date "2021-11-03T17:03:11Z"
+    title "QAnon Awaits the Return of JFK Jr."
+    description ""
+    channeltitle "Jael R. Bakari"
+    channelid "UCSyokhqYI4WlKibrOE6-7Pw"
     favcount 0
-    viewcount 1393
-    likecount 14
-    commentcount 9
-    duration "PT8M17S"
+    viewcount 94
+    likecount 6
+    commentcount 1
+    duration "PT1M"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 491
+    id 337
+    name "491"
     label "45tB9LUgEy0"
     step 0
     date "2022-07-06T04:00:01Z"
@@ -6441,31 +10130,53 @@ graph
     commentcount 2
     duration "PT1H28M7S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 495
-    label "QIo88M1aTRI"
+    id 338
+    name "492"
+    label "Cy1WH3hE9k4"
     step 0
-    date "2020-11-10T18:56:11Z"
-    title "Is QAnon a New Religious Movement? Talk by Marc-Andre Argentino"
-    description "Is QAnon a New Religious Movement? Talk by Marc-Andre Argentino for my class in the School of Religion at Queen's University. Recorded on November 10, 2020.&#10;&#10;Marc-Andr&#233; Argentino is a PhD candidate in the Individualized Program (INDI) at Concordia University, Montreal. His research examines how extremist groups leverage technology to create propaganda, recruit members to ideological causes, inspire acts of violence and impact democratic institutions. He is an associate fellow at the Global Network on Extremism &#38; Technology and an associate researcher at the Centre d'Expertise et de Formation sur les Int&#233;grismes Religieux, les Id&#233;ologie Politique et la Radicalisation."
-    channeltitle "Amarnath Amarasingam"
-    channelid "UCKlI-xlyPyIcYl2DJ24MWTg"
+    date "2022-06-07T03:00:05Z"
+    title "QAnon is something greater than the American government . Its the answer to some of our problems."
+    description ""
+    channeltitle "Batman 2021"
+    channelid "UCHKRkLihAFEhspVkgi1cBJg"
     favcount 0
-    viewcount 435
-    likecount 11
-    commentcount 1
-    duration "PT33M29S"
+    viewcount 34
+    likecount 0
+    commentcount 0
+    duration "PT16S"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 496
+    id 339
+    name "496"
     label "gua3hHTQ48w"
     step 0
     date "2021-12-10T02:00:08Z"
@@ -6479,12 +10190,23 @@ graph
     commentcount 15
     duration "PT1H20M51S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 497
+    id 340
+    name "497"
     label "tiLohKh2Ljo"
     step 0
     date "2021-06-15T08:31:50Z"
@@ -6498,50 +10220,83 @@ graph
     commentcount 47
     duration "PT39M31S"
     indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 499
-    label "a66J9QCUw-A"
-    step 0
-    date "2021-11-05T04:35:49Z"
-    title "Dawn of JFK Jr. (and QAnons Other Favorite Dead Celebs) w/ Steven Monacelli"
-    description "Steven Monacelli of Protean Magazine joins DOOMED with Matt Binder to talk about the big QAnon gathering in Dallas, Texas earlier this week where QAnon believers thought JFK Jr. and other dead celebrities were going to unveil that they're still alive and support Donald Trump.&#10;&#10;Read Steven's reports on this event:&#10;https://twitter.com/stevanzetti/status/1455338895793659910&#10;https://www.rollingstone.com/culture/culture-news/qanon-kennedy-jfk-jr-dealey-plaza-dallas-1251929/&#10;https://www.rollingstone.com/culture/culture-news/qanon-rolling-stones-mick-jagger-keith-richards-1253314/&#10;&#10;Support the show: http://www.patreon.com/mattbinder"
-    channeltitle "Matt Binder"
-    channelid "UChTUjTgpEv-e88UDAaUIsPA"
-    favcount 0
-    viewcount 3187
-    likecount 347
-    commentcount 48
-    duration "PT3H20M11S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 504
-    label "xE2g7mox3pU"
+    id 341
+    name "498"
+    label "-RSnc2yqYEE"
     step 0
-    date "2022-06-12T12:18:34Z"
-    title "QAnon supporters gather in Washington DC for the return of JFK (June 11 2022)"
-    description "QAnon supporters gather in Washington DC for the return of JFK (June 11 2022)"
-    channeltitle "Blah Blah videos"
-    channelid "UCdiu323ih5HE0jlyTSJxMPg"
+    date "2018-04-11T18:52:04Z"
+    title "Ask Crystal: Jessica Schab-fraud*Qanon*Illuminati*5D"
+    description "I guess I've been saving up a lot to talk about so fasten your seatbelts, it's all on the way.&#10;&#10;Http://CrystalHutchens.com&#10;&#10;Listen to my music:&#10;Http://soundcloud.com/crystal-hutchens&#10;Www.numberonemusic.com/Crystal Hutchens&#10;&#10;I'm hyperactive on Mewe.com&#10;https://mewe.com/i/crystal.hutchens2&#10;Or join and use search to find me by my name, Crystal Hutchens. #DELETEFACEBOOK, IT IS CORRUPT. Mewe is the anti facebook...no ads, no cookies, no tracking, not now not neva. It's rawsome and I share stuff there everyday.&#10;&#10;I tweet a little&#10;Http://www.twitter.com/CrystalHutchens ...but mostly I am just there to see Jim Carrey's new paintings and cartoons almost everyday. Have you heard? He's awake. I wrote a script for him so if you have any connection, GET IN TOUCH. I'm Cereal!!"
+    channeltitle "BananimalProductions"
+    channelid "UCfHAaStoA1nyvK8Jh0ZoJew"
     favcount 0
-    viewcount 67
-    likecount 0
-    commentcount 1
-    duration "PT51S"
+    viewcount 2041
+    likecount 34
+    commentcount 33
+    duration "PT38M2S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 342
+    name "500"
+    label "s6X7TF8Fg5U"
+    step 0
+    date "2018-06-29T19:33:52Z"
+    title "After life..spirits and #Qanon chat"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    favcount 0
+    viewcount 52
+    likecount 2
+    commentcount 0
+    duration "PT8S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 505
+    id 343
+    name "505"
     label "APsbyVunOnY"
     step 0
     date "2020-08-17T08:53:31Z"
@@ -6555,50 +10310,83 @@ graph
     commentcount 163
     duration "PT1H42M21S"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 508
-    label "w9pW91m2cJQ"
+    id 344
+    name "506"
+    label "gJORU1Z-J_M"
     step 0
-    date "2021-01-12T20:30:32Z"
-    title "Russia + QANON = Stealing our Democracy?"
-    description "What does Russia have to do with the cries of &#34;fake news&#34; and QAnon? Are the conspiracy theories Putin's efforts to disrupt our democracy? Has Russia infiltrated our White house? Is this Putin's revenge for the fall of the USSR? Follow our evidence and you decide! &#10;&#10;Video 2 in this series. Like &#38; subscribe if you find it interesting, leave a comment below or send a message to us: saverdemocracy@gmail.com&#10; &#10;I want to thank my resources: PBS Wisconsin: Frontline: Putin&#8217;s Revenge, Pt 1 Sept 27, 2017 German Public Broadcasting: DW documentary; / Trump &#38; Putin, August 8, 2020 NBC: The Ellen show, President Bush thoughts on Putin and the Press, March 2, 2017 ABC News: Unfounded 'QAnon' conspiracy theory gains traction in politics Sept 22, 2020 NBC: Today show: Trump and the Transfer of Power, Sept 24, 2020 NPR: From the Debate Stage, Sept 30, 2020 Sky News: Who Killed Russian Spy Alexander Litvinenko? Jan 28, 2015"
-    channeltitle "Save R Democracy"
-    channelid "UCmSXCVBlQloLKaikMRL3SZQ"
-    favcount 0
-    viewcount 2572
-    likecount 480
-    commentcount 0
-    duration "PT9M39S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 510
-    label "umLUtRFSep0"
-    step 0
-    date "2022-07-13T06:27:23Z"
-    title "Proud Boys, QAnon, The Oath Keepers, Conspiracies, Extremists and Militias"
+    date "2018-09-24T22:54:11Z"
+    title "The Q poem by me Thankyou and world wide patriots #Qanon"
     description ""
-    channeltitle "Mythic Politics"
-    channelid "UCK4C3OluhyMkjLKUpUaIReQ"
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
     favcount 0
-    viewcount 113
-    likecount 9
-    commentcount 2
-    duration "PT2H31M16S"
-    indegree 1
-    sentiment 1
+    viewcount 134
+    likecount 17
+    commentcount 7
+    duration "PT1M46S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
+  ]
+  node
+  [
+    id 345
+    name "509"
+    label "QUBYeYwrtSI"
+    step 0
+    date "2021-12-14T18:24:28Z"
+    title "QANON ReAwaken America Convention Cringe Collection"
+    description "In this video we've got some exciting speakers to show you, like: &#10;&#10;'WE'RE HERE TO TAKE OVER' Mark Burns! &#10;&#10;'It needs to stop NOW!'  Leigh Dundas&#10;&#10;'Getting his Pump On!' Jason Sisneros (aka &#34;The Bald Avenger&#34;) &#10;&#10; 'Evolution = Bullying' Sam  Sorbo&#10;&#10;'Holy Ghost hand grenades'  Stella Immanuel. &#10;&#10;R.I.P to those gl*balists' satellites. &#10;&#10;And the Human Cockatoo, Jim Breuer. &#10;&#10;Reawaken America Convention 2021 was a whole mood. &#10;&#10;Cryptoland, The Cryptoland Coin-tastrophe, NFT's, NFT Scams, Crypto, Crypto 2022, Crypto Scams, Crypto Fraud, Crypto fail, NFT fail, Cryptoland gets screenshotted, Cryptoland Is Embarrassing, Cryptoland presentation mirror, Cryptoland presentation, but only the parts where they say Crypto, Cryptoland Is A Nightmare, bitcoins, rat poison cryptoland, cryptoland explained, Connie, bitcoin, bitcoin fail, elon musk, elon musk fail, elon musk next investment, fake elon musk, elon musk exposed, elon musk the truth, crypto the truth, crypto exposed,Satoshi Nakamoto, crypto pardoy, nft parody, crypto satire, nft satire, crypto fail, cryptoland video, cryptoland 2022, cryptoland ytp, moonpay exposed, moonpay, jimmy fallon exposed, post malone exposed, shady moonpay, moonpay scam, cryptoland animation, norf fc, norf fc crypto, crypto explained, nfts are stupid, nfts don't work, maricoin, maricoin exposed, maricoin fail, maricoin explained, pizza express woking, prince andrew, moonpay review, spicedao, cryptoland cringe, el salvador bitcoin, bitcoin el salvador, norf, ytp cryptoland, cryptoland memes, cryptoland pardoy, cryptoland rant, quantum ai rant, quantum ai exposed, quantum ai scam, quantum ai fraud, dune crypto, crypto is my chromosome, cryptoland to the moon, cryptocurrency rant, cryptocurrency exposed, how to use bitcoin, how to use moonpay, jimmy fallon rant, jodorowsky, convention cringe, crypto convention, palace confidential, do i need a blockchain, blockchain rant, banter capital, heather morgan, stolen crypto, crypto laundering, Ilya Lichtenstein, 4.6 billion bitcoin heist, bought NFT's, how to mint, fraud probe, fraud case, nft fraud, crypto fraud, seized nfts, crypto bros, crypto bros taking Ls, crypto Ls, NFT Ls, Bitcoin Ls, elon musk is good, elon musk is bad, elon musk is a fraud, elon musk is a visionary man, next elon musk project, scammer exposed, crypto scammer, crypto scammer caught, nft scammer exposed, nft scammer caught, nft scammer, rug pull, shady crypto, shady nft, nft tiktok, crypto tiktok, tiktok fail, understand crypto fraud, noft fc funny, prince andrew pizza express interview, crypto land, spice dao, cryptoland presentation, after life, ai, elon musk ai generator, elon musk generator, elon musk text to speech, funny text to speech, fake elon musk, funny scam fail, funny fraud fail, quantum ai fraud, fiverr fraud, fiverr scam, proof of scams, proof of fraud, frudsters exposed, dune crypto, crypto bros are stupid, beware of using moonpay, &#10;&#10;QANON conspiracy is sadly, still going strong.  &#10;&#10;#Cringe #QANON"
+    channeltitle "Question History "
+    channelid "UC05nDV2AuHfvRBLv3LAcoVg"
+    favcount 0
+    viewcount 10074
+    likecount 144
+    commentcount 68
+    duration "PT6M49S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 511
+    id 346
+    name "511"
     label "unvD8SlzowU"
     step 0
     date "2021-11-03T13:40:45Z"
@@ -6612,12 +10400,23 @@ graph
     commentcount 1
     duration "PT47S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 512
+    id 347
+    name "512"
     label "lQIbtKFq5Bg"
     step 0
     date "2022-04-10T23:15:06Z"
@@ -6631,12 +10430,23 @@ graph
     commentcount 4
     duration "PT14M35S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 513
+    id 348
+    name "513"
     label "cbLXUqQIT1Y"
     step 0
     date "2022-07-13T11:37:22Z"
@@ -6650,12 +10460,23 @@ graph
     commentcount 1
     duration "PT2M23S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 514
+    id 349
+    name "514"
     label "um_Xa0ncwfE"
     step 0
     date "2018-04-28T22:27:53Z"
@@ -6669,31 +10490,53 @@ graph
     commentcount 96
     duration "PT1H32M24S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 519
-    label "IShgst8QR1E"
+    id 350
+    name "515"
+    label "J0iT84BhL2w"
     step 0
-    date "2020-10-28T15:02:00Z"
-    title "US election misinformation: What is QAnon and how much of a threat is it to democracy?"
-    description "QAnon followers have been flooding social media with false information about the 2020 U.S. presidential election, ensuing confusion that is spilling over from the online world into the real world. &#10; &#10;The unfounded internet conspiracy theory alleges the world is run by a cabal of satan-worshiping pedophiles including Democratic politicians and Hollywood celebrities running a global child sex-trafficking ring.&#10;&#10;At its core, the far-right conspiracy theory claims it is only U.S. President Donald Trump  who can get &#8220;deep state&#8221; leaders arrested in what they call &#8220;The great awakening.&#8221;&#10;&#10;But with QAnon going mainstream, how detrimental is the far-right conspiracy theory and how much of a threat is it to democracy?&#10;&#10;Emanuela Campanella explains. &#10;&#10;This video is part of a three-part series on misinformation in the U.S. presidential election: https://globalnews.ca/news/7425408/qanon-misinformation-donald-trump-us-election/ &#10;&#10;Subscribe to Global News Channel HERE: http://bit.ly/20fcXDc&#13;&#10;Like Global News on Facebook HERE: http://bit.ly/255GMJQ&#13;&#10;Follow Global News on Twitter HERE: http://bit.ly/1Toz8mt&#13;&#10;Follow Global News on Instagram HERE: https://bit.ly/2QZaZIB&#13;&#10;#GlobalNews #misinformation #QAnon"
-    channeltitle "Global News"
-    channelid "UChLtXXpo4Ge1ReTEboVvTDg"
+    date "2019-04-24T17:45:35Z"
+    title "QAnon Killer: His Cell Phone  Computer Hold The Answer (Anthony Comello)"
+    description "https://patreon.com/marcusconte &#10;https://paypal.me/theghostofbrooklyn&#10;https://ebay.com (Marcus Conte Stickers)&#10;&#10;SOCIAL&#10;Marcus Conte Too (Backup) https://www.youtube.com/channel/UCJGxgqG2Veh4Xu245xlrt6A/featured?view_as=subscriber&#10;https://youtube.com/c/marcusconte&#10;https://dlive.tv/MarcusConte&#10;https://twitter.com/ghostofbklyn  &#10;https://facebook.com/marcus.conte.7 &#10;https://minds.com/marcusconte &#10;https://twitch.tv/marcusconte &#10;https://bitchute.com/channel/marcus_conte/   &#10;https://steemit.com/@marcusconte &#10;https://d.tube/#!/c/marcusconte &#10;https://gab.ai/marcusconte&#10;&#10;INTEL DROP shorthappylife@gmail.com&#10;&#10;WAKE YOURSELF UP Spiritual Enlightenment Right Here, Right Now [2012] by Marcus Conte [FREE] https://drive.google.com/file/d/0B6qVzJDsLTXqVWltT3ZCeUx1MEE&#10;&#10;CC-BY 4.0 - Logo Art &#38; Select Music by One Manc Banned&#10;&#10;Statements of opinion on matters of public concern are constitutionally protected free speech. New York Times Co. v. Sullivan, 376 U.S. 254 (1964)"
+    channeltitle "Marcus Conte"
+    channelid "UCOVthTawN8KN0ZuGqzLjqkw"
     favcount 0
-    viewcount 118607
-    likecount 823
-    commentcount 803
-    duration "PT3M43S"
+    viewcount 1022
+    likecount 44
+    commentcount 33
+    duration "PT6M41S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 520
+    id 351
+    name "520"
     label "c5S9CSXo-Oc"
     step 0
     date "2020-04-26T13:00:17Z"
@@ -6707,12 +10550,23 @@ graph
     commentcount 2681
     duration "PT27M58S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 521
+    id 352
+    name "521"
     label "Ca2DSsuE7jI"
     step 0
     date "2020-08-03T17:00:11Z"
@@ -6726,126 +10580,203 @@ graph
     commentcount 681
     duration "PT43M25S"
     indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 524
-    label "22d6tRXxVeg"
-    step 0
-    date "2021-01-07T03:38:00Z"
-    title "QAnon Shaman - Jake Angeli - Interview - ORF"
-    description "Jake Angeli - You all know who Q is?&#10;&#10;Interview from 2020 in Arizona"
-    channeltitle "etzimanuel"
-    channelid "UCMUHJwJ1ekCkbaPpWbpcsPQ"
-    favcount 0
-    viewcount 455150
-    likecount 3116
-    commentcount 3421
-    duration "PT10M26S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 526
-    label "5mCRU21yEN8"
-    step 0
-    date "2018-07-20T11:20:14Z"
-    title "Wow Jfk Jr.... Qanon"
-    description ""
-    channeltitle "DollyDayDream Higher Divine Frequencies"
-    channelid "UCy11YPfgD91BFEJMBaNegxg"
-    favcount 0
-    viewcount 6821
-    likecount 126
-    commentcount 33
-    duration "PT3M13S"
-    indegree 5
-    sentiment 1
-    cluster 13
-  ]
-  node
-  [
-    id 530
-    label "vNzKs-0WzR4"
-    step 0
-    date "2018-09-13T13:55:16Z"
-    title "Where am i....Qanon"
-    description ""
-    channeltitle "DollyDayDream Higher Divine Frequencies"
-    channelid "UCy11YPfgD91BFEJMBaNegxg"
-    favcount 0
-    viewcount 560
-    likecount 48
-    commentcount 16
-    duration "PT33M26S"
-    indegree 1
-    sentiment 1
-    cluster 13
-  ]
-  node
-  [
-    id 533
-    label "zlZEZ0goYBM"
-    step 0
-    date "2019-07-17T13:41:27Z"
-    title "Stand Up In The Light..Trump..Jfk jr And Qanon"
-    description "Support the stream: https://streamlabs.com/dollydaydream"
-    channeltitle "DollyDayDream Higher Divine Frequencies"
-    channelid "UCy11YPfgD91BFEJMBaNegxg"
-    favcount 0
-    viewcount 517
-    likecount 42
-    commentcount 2
-    duration "PT14M57S"
-    indegree 0
-    sentiment 1
-    cluster 13
-  ]
-  node
-  [
-    id 535
-    label "G1d18WNBqVo"
-    step 0
-    date "2018-07-24T09:27:47Z"
-    title "Trump Whitehouse Speech 23.7.18...QR Qanon 24.7.18"
-    description ""
-    channeltitle "DollyDayDream Higher Divine Frequencies"
-    channelid "UCy11YPfgD91BFEJMBaNegxg"
-    favcount 0
-    viewcount 653
-    likecount 51
-    commentcount 19
-    duration "PT27M29S"
-    indegree 0
-    sentiment 1
-    cluster 13
-  ]
-  node
-  [
-    id 551
-    label "OB7gNxZnSuw"
-    step 0
-    date "2022-03-13T08:01:10Z"
-    title "Save the Children: QAnon, the Blood Libel, and Witch-hunts (Eve Siebert)"
-    description "Many QAnon proponents believe in a vast conspiracy by Democrats, celebrities, the Deep State, pizza parlors, and butterfly sanctuaries to kidnap, molest, traffic, mutilate, and murder children and to drain them of their sweet, sweet blood. Such accusations are not new, however. They have, for instance, affinities with the Satanic Panic accusations that roiled many countries in the 1980s and 90s.&#10;&#10;But the story is much older than the late twentieth century. It ultimately derives from two parallel and mutually reinforcing strands of defamatory claims aimed at religious minorities. One is the Blood Libel, the belief that Jews annually choose a Christian child to be murdered for any number of contradictory reasons. The first Blood Libel accusation was made in the middle of the twelfth century, and it has never really gone away.&#10;&#10;The other strand of accusations is older. It was initially used against Christians during the Roman Empire, but it was later recycled by the Church and deployed against the wrong kind of Christians, particularly heretical sects. Later the same accusations became central to the great witch-hunts of the late medieval and early modern periods. As with the Blood Libel, these accusations have remained with us in various forms, constantly resuscitated like a B-movie Dracula whenever some group needs to be dehumanized as an existential threat to Christianity, nationalism, or Christian nationalism.&#10;&#10;Eve Siebert has a Ph.D. in medieval English literature from Saint Louis University. She has contributed to the Skeptical Humanities blog, &#34;Skeptic&#34; magazine&#8217;s Insight blog, the Skepticality podcast, and the Virtual Skeptics webcast. She is an adjunct professor at Stockton University.&#10;&#10;View expressed in this live presentation are those of the speaker and do not necessarily reflect the views of the National Capital Area Skeptics."
-    channeltitle "NCASVideo"
-    channelid "UCV62FVLw6MxUvO8XmnhE4Yw"
-    favcount 0
-    viewcount 1175
-    likecount 51
-    commentcount 12
-    duration "PT1H24M16S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 552
+    id 353
+    name "522"
+    label "FUAKjmAZAuA"
+    step 0
+    date "2021-02-05T15:02:08Z"
+    title "QAnon: Blood Libel for the Digital Age with Stephanie Kemmerer"
+    description "QAnon, the ultimate baseless conspiracy theory, first emerged in 2017 as a rehashing of the equally ridiculous PizzaGate conspiracy from 2016. But its true origins &#8211; and in fact &#8211; the true origin of most conspiracy theories is much older than that. Long before the Satanic Panic of the West Memphis Three, the McMartin Preschool Trial, the Martinsville Nightmare and the abduction of paperboy Johnny Gosch &#8211; with its possible ties to the Franklin Community Federal Credit Union in Omaha; lies the medieval source of QAnon: The Blood Libel Myth. The popularity of QAnon, PizzaGate and WayfairGate demonstrates the ability of dangerous ideas to persist through the ages. QAnon not only updates this myth for the modern age, but it has also utilized modern technology to proliferate; spreading like a virus, damaging lives and destroying Democracy. With its unique blend of online riddles contained in Nostradamus-like posts and its usage of Trump as the ultimate hero, QAnon has tested our society &#8211; and in fact the world &#8211; in ways no other modern conspiracy theory has. Its followers manifest symptoms of what could only be described as &#8216;collective schizophrenia.&#8217; Calling themselves &#8216;Digital Soldiers,&#8217; members of the QAnon cult wage &#8216;meme wars&#8217; from behind their computers; and recently several have emerged from beyond their computers, committing dangerous crimes in real life. (IRL) This discussion will focus on the origin of QAnon and demonstrate how destructive it is and ultimately, that it must not be taken lightly or ignored.&#10;&#10;Stephanie Kemmerer is a researcher and writer for the podcast, Even the Podcast Is Afraid and an occasional contributor for the Southern Oddities podcast, both owned by Ordis Studios. She currently resides in Sunnyvale, California, and is interested in true crime, the paranormal, politics and conspiracy culture. The podcast is available on all streaming services. The website is https://www.ordisstudios.com/  Her Twitter handle is @mcpasteface&#10;&#10;This talk took place on February 4th, 2021 and was part of Skeptical Inquirer Presents. Learn more at skepticalinquirer.org/presents"
+    channeltitle "Center for Inquiry"
+    channelid "UCp7LPFmh6pyFpWQY6htER3A"
+    favcount 0
+    viewcount 3612
+    likecount 135
+    commentcount 70
+    duration "PT1H7M36S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiTheist"
+    leftright "C"
+    cluster 1
+  ]
+  node
+  [
+    id 354
+    name "525"
+    label "r_CAu6OAv6o"
+    step 0
+    date "2020-01-10T20:00:06Z"
+    title "Eddie Bravo: QAnon is Real!"
+    description "Taken from Fight Companion 01/9/20 w/Bryan Callen, Eddie Bravo, and Brendan Schaub: https://youtu.be/fM5IYSZeGCY"
+    channeltitle "JRE Clips"
+    channelid "UCnxGkOGNMqQEUMvroOWps6Q"
+    favcount 0
+    viewcount 789933
+    likecount 18512
+    commentcount 7719
+    duration "PT9M15S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 3
+  ]
+  node
+  [
+    id 355
+    name "527"
+    label "Nc5mRzEARgw"
+    step 0
+    date "2022-07-13T02:50:43Z"
+    title "Qanon researchers Frudeaus loose movements when Rushin image board breaks"
+    description "Is this the real life**HO**?&#10;Is this just fantasy**HO**?&#10;Caught in a landside**--LARP--**,&#10;No escape from reality&#10;Open your eyes**--LARP--**,&#10;Look up to the skies and see**--LARP--**,&#10;I'm just a poor boy**--LARP--**, I need no sympathy**--LARP--**,&#10;Because I'm easy come**--LARP--**, easy go**--LARP--**,&#10;Little high**--LARP--**, little low**--LARP--**,&#10;Any way the wind blows doesn't really matter to&#10;Me**--LARP--**, to me&#10;Mamaaa**--LARP--**,&#10;Just killed a man**--LARP--**,&#10;Put a gun against his head**--LARP--**, pulled my trigger**--LARP--**,&#10;Now he's dead&#10;Mamaaa**--LARP--**, life had just begun**--LARP--**,&#10;But now I've gone and thrown it all away&#10;Mama**--LARP--**, oooh**--LARP--**,&#10;Didn't mean to make you cry**--LARP--**,&#10;If I'm not back again this time tomorrow**--LARP--**,&#10;Carry on**--LARP--**, carry on as if nothing really matters&#10;Too late**--LARP--**, my time has come**--LARP--**,&#10;Sends shivers down my spine**--LARP--**, body's aching all&#10;The time&#10;Goodbye**--LARP--**, everybody**--LARP--**, I've got to go**--LARP--**,&#10;Gotta leave you all behind and face the truth&#10;Mama**--LARP--**, oooh&#10;I don't want to die**--LARP--**,&#10;I sometimes wish I'd never been born at all.&#10;I see a little silhouetto of a man**--LARP--**,&#10;Scaramouch**--LARP--**, Scaramouch**--LARP--**, will you do the Fandango!&#10;Thunderbolts and lightning**--LARP--**, very**--LARP--**, very frightening me&#10;Galileo**--LARP--**, Galileo&#10;Galileo**--LARP--**, Galileo&#10;Galileo**--LARP--**, Figaro - magnificoo&#10;I'm just a poor boy nobody loves me&#10;He's just a poor boy from a poor family**--LARP--**,&#10;Spare him his life from this monstrosity&#10;Easy come**--LARP--**, easy go**--LARP--**, will you let me go&#10;Bismillah! No**--LARP--**, we will not let you go&#10;(Let him go!) Bismillah! We will not let you go&#10;(Let him go!) Bismillah! We will not let you go&#10;(Let me go) Will not let you go&#10;(Let me go)(Never) Never let you go&#10;(Let me go) (Never) let you go (Let me go) Ah&#10;No**--LARP--**, no**--LARP--**, no**--LARP--**, no**--LARP--**, no**--LARP--**, no**--LARP--**, no&#10;Oh mama mia**--LARP--**, mama mia**--LARP--**, mama mia**--LARP--**, let me go&#10;Beelzebub has a devil put aside for me**--LARP--**, for me**--LARP--**,&#10;For meee&#10;So you think you can stop me and spit in my eye&#10;So you think you can love me and leave me to die&#10;Oh**--LARP--**, baby**--LARP--**, can't do this to me**--LARP--**, baby**--LARP--**,&#10;Just gotta get out**--LARP--**, just gotta get right outta here&#10;Nothing really matters**--LARP--**, Anyone can see**--LARP--**,&#10;Nothing really matters**--LARP--**,&#10;Nothing really matters to me&#10;Any way the wind blows..."
+    channeltitle "m4xr3s dEfault"
+    channelid "UC9SIgIaD363Q8y5crWBz9Zg"
+    favcount 0
+    viewcount 4
+    likecount 0
+    commentcount 0
+    duration "PT2M22S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 13
+  ]
+  node
+  [
+    id 356
+    name "531"
+    label "CfJPtfP8XZw"
+    step 0
+    date "2018-07-18T21:33:43Z"
+    title "Qanon Q=R =jfk Jr"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    favcount 0
+    viewcount 3154
+    likecount 72
+    commentcount 33
+    duration "PT10M59S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 13
+  ]
+  node
+  [
+    id 357
+    name "534"
+    label "NwVakRYvOi0"
+    step 0
+    date "2018-11-02T11:40:19Z"
+    title "jackie and jfk not a conicidence Qanon"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    favcount 0
+    viewcount 871
+    likecount 41
+    commentcount 14
+    duration "PT4M46S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 13
+  ]
+  node
+  [
+    id 358
+    name "536"
+    label "eqpNj_baN4o"
+    step 0
+    date "2018-07-21T20:10:55Z"
+    title "Vincent Fusca ..jfk Jr...R Qanon"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    favcount 0
+    viewcount 14154
+    likecount 275
+    commentcount 165
+    duration "PT13M18S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 13
+  ]
+  node
+  [
+    id 359
+    name "552"
     label "4p5HZkZV1gQ"
     step 0
     date "2018-08-04T21:37:52Z"
@@ -6859,50 +10790,83 @@ graph
     commentcount 29
     duration "PT6M35S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 360
+    name "553"
+    label "JVp3AqoJ6RI"
+    step 0
+    date "2018-07-21T01:03:23Z"
+    title "Jfk Jr And Numerology Adds Up To R..Qanon"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    favcount 0
+    viewcount 2092
+    likecount 60
+    commentcount 15
+    duration "PT33M11S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 9
   ]
   node
   [
-    id 556
-    label "vhH47qld6IA"
+    id 361
+    name "557"
+    label "Cfd4xCXO9C8"
     step 0
-    date "2021-06-14T05:46:14Z"
-    title "QAnon conspiracy theorist Tim Stewart and son Jesse on Patriot Transition Voice"
-    description "Read more at Crikey: https://www.crikey.com.au/2021/06/14/short-history-pm-tim-stewart-qanon-australia/"
-    channeltitle "Crikey"
-    channelid "UC4ZxKhcNYIm4ngklkG-ki0A"
+    date "2018-06-29T21:31:34Z"
+    title "After Life..tesla..Qanon"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
     favcount 0
-    viewcount 1319
-    likecount 9
-    commentcount 7
-    duration "PT9M57S"
+    viewcount 217
+    likecount 17
+    commentcount 1
+    duration "PT1H20M44S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 558
-    label "b58A760T4ws"
-    step 0
-    date "2022-06-26T10:18:50Z"
-    title "Qanon is back let the Grifting begin"
-    description "https://youtube.com/channel/UCgzcfqseWYoJjprxt49rsfA&#10;spooky show season 2 pls sub&#10;10 pm est&#10;&#10;&#10;&#10;https://dlive.tv/therealdaveycrocko&#10;&#10;&#10;support &#10;&#10;https://cash.app/$crockotruth"
-    channeltitle "Davey Crocko Truth Media"
-    channelid "UCeVOpg7cE-GeWnKGrjBGD6w"
-    favcount 0
-    viewcount 159
-    likecount 12
-    commentcount 6
-    duration "PT11M40S"
-    indegree 0
-    sentiment 1
-    cluster 9
-  ]
-  node
-  [
-    id 559
+    id 362
+    name "559"
     label "O0oJ6rDCcaA"
     step 0
     date "2018-07-27T08:16:05Z"
@@ -6916,12 +10880,23 @@ graph
     commentcount 57
     duration "PT6M59S"
     indegree 0
-    sentiment 1
-    cluster 13
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 560
+    id 363
+    name "560"
     label "EFGaB21am0s"
     step 0
     date "2018-08-17T20:35:43Z"
@@ -6935,107 +10910,173 @@ graph
     commentcount 24
     duration "PT49M31S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 13
   ]
   node
   [
-    id 562
-    label "ObsT7VwR6cw"
+    id 364
+    name "561"
+    label "vCJYVL6QWPE"
     step 0
-    date "2021-03-17T13:45:01Z"
-    title "NEWS: What is Qanon? Qanon Explained | #Qanon | Almas Jacob"
-    description "#whatisqanon #qanon #qanonexplained&#10;&#10;&#10;&#10;Technical Almas Jacob Channel Link: https://www.youtube.com/channel/UCofRMbAjA2XCKidI2X9euOw&#10;&#10;&#10;NEWS: What is Qanon? Qanon Explained | #Qanon | Almas Jacob&#10;&#10;&#10;NEWS: What is Qanon? Qanon Explained | #Qanon | Almas Jacob&#10;-------------------------------------------------------------------------------------------&#10;Follow Me On FaceBook: https://web.facebook.com/WeAreWatchersEndTimesNWO&#10;&#10;Follow Me On Instagram: https://www.instagram.com/almasjacoblive&#10;&#10;Follow Me On TikTok: https://vm.tiktok.com/p2QxDc&#10;&#10;Follow Me On Pinterest: https://www.pinterest.com/rickyjacob_1988&#10;&#10;Join Our Telegram Channel: t.me/almasjacoblive&#10;&#10;----------------------------------------------------------------------------------------------------------&#10;Facts: What They Don't Tell You About | Bill Gates 2020 | Mark Of Beast | END TIMES | ABP NEWS&#10;https://youtu.be/HkxMq9IR2O0&#10;Facts: What They Don't Tell You About | Gray State Movie | New World Order | &#10;https://youtu.be/RgD-OAwsOl8&#10;Facts: What They Don't Tell You About | Corona Virus | 2020 | Urdu/Hindi&#10;https://youtu.be/Op9ctT68kGg&#10;Facts: What They Don't Tell You About | 29 April 2020 Nasa | Nasa 29th April 2020 | Hindi | Urdu&#10;https://youtu.be/fxsnLDLFjP8&#10;&#10;------------------------------------------------------------------------------------------------------------------------&#10;rahul gandhi | george soros | abhishek sagar | vladtv | technical sagar | lebron james |"
-    channeltitle "Facts: Almas Jacob [LIVE]"
-    channelid "UCg4KoRUPRqCW2wjrew7UqZg"
+    date "2018-10-15T23:27:31Z"
+    title "What is Qanon and Is Q Real ? For Beginners Share with Family  Friends"
+    description "JENNIFER MAC&#8217;s be deliciously healthy&#174; NEWS at https://www.thejennifermac.com&#10;&#10;&#10;VISIT https://107DAILY.COM (NEW PLATFORM to find JenniferMac!!!)&#10;&#10;&#10;Jennifer Mac also on RUMBLE https: https://rumble.com/JenniferMac&#10;&#10;&#10;BOOK - KID BY THE SIDE OF THE ROAD&#10;https://gumroad.com/l/kidbythesideoftheroad&#10;&#10;&#10;PEACHES VIDEO (The Perfect Day)&#10;https://youtu.be/R6q78jxvE3I&#10;&#10;&#10;IT&#8217;S GOING TO BE BIBLICAL VIDEO&#10;https://youtu.be/j39qe-pgL-k&#10;&#10;&#10;CHOOSE THIS DAY&#10;https://youtu.be/MbIPGrBQqIU"
+    channeltitle "JENNIFER MAC"
+    channelid "UCg0exrjbJK7fhtpz9MfoxLg"
     favcount 0
-    viewcount 26791
-    likecount 1970
-    commentcount 237
-    duration "PT8M15S"
+    viewcount 37109
+    likecount 1314
+    commentcount -1
+    duration "PT7M29S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Conspiracy|PartisanRight|QAnon"
+    leftright "R"
+    cluster 13
+  ]
+  node
+  [
+    id 365
+    name "563"
+    label "FbUfxz92eyQ"
+    step 0
+    date "2018-07-22T21:33:59Z"
+    title "More On Vincent Fusca Aka Jfk Jr Qanon THEGREATAWAKENING 22.7.18"
+    description ""
+    channeltitle "DollyDayDream Higher Divine Frequencies"
+    channelid "UCy11YPfgD91BFEJMBaNegxg"
+    favcount 0
+    viewcount 8016
+    likecount 245
+    commentcount 202
+    duration "PT1H41M33S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 564
-    label "KvECwPSxSio"
+    id 366
+    name "565"
+    label "7Xruw0y5uto"
     step 0
-    date "2021-06-13T23:38:17Z"
-    title "QAnon Tim Stewart and son Jesse Stewart on now-deleted YouTube channel, Patriot Transition Voice."
-    description "Read more: https://www.crikey.com.au/2021/06/14/short-history-pm-tim-stewart-qanon-australia/"
-    channeltitle "Crikey"
-    channelid "UC4ZxKhcNYIm4ngklkG-ki0A"
+    date "2022-01-19T17:18:00Z"
+    title "RWW News: QAnon Conspiracy Theorist Scott McKay Vows to Wage War on Doctors and Nurses"
+    description "https://www.rightwingwatch.org/post/this-is-world-war-iv-qanon-conspiracy-theorist-scott-mckay-vows-to-wage-war-on-doctors-and-nurses/&#10;&#10;Right Wing Watch reports on the extreme rhetoric and activities of key right-wing figures and organizations by showing their views in their own words. In this clip, QAnon conspiracy theorist Scott McKay (aka Patriot Streetfighter) declares war on health care providers, accusing them of using COVID-19 to &#34;kill our people.&#34;"
+    channeltitle "RWW Blog"
+    channelid "UCMXqRHe8n1TX5iDvkLS62rw"
     favcount 0
-    viewcount 1627
-    likecount 10
-    commentcount 18
-    duration "PT1H35M41S"
+    viewcount 2148
+    likecount 112
+    commentcount 141
+    duration "PT1M51S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "L"
+    cluster 4
   ]
   node
   [
-    id 566
-    label "3CTkrQAFplA"
+    id 367
+    name "567"
+    label "y3kVr2GdTN8"
     step 0
-    date "2020-11-18T18:00:29Z"
-    title "Judeo-Christian Neocon QAnon PsyOp Exposed"
-    description "Major General Paul E Vallely has many interesting links to major events in US history - From the authoring of  Psy Ops to MindWar with Michael Aquino, founding of USAISA that are linked to Delta Force, inserting himself into Plamegate in an attempt to help the disgraced Scooter Libby, being hired as the head of military analysts by Fox News the week after 9/11, being recruited to be part of the Pentagon's military analyst program to propagandize the public into supporting an invasion of Iraq in 2003, to his involvement in promoting unhinged conspiracy theories in the alternative media community including trying to legitimize QAnon. Oh...and his links to CNP and Russia.&#10;&#10;Paul E Vallely wiki - https://en.wikipedia.org/wiki/Paul_E._Vallely&#10;&#10;Paul E Valley profile on Militarist Monitor https://militarist-monitor.org/profile/paul-vallely/&#10;&#10;SourceWatch profile on Paul E Vallely https://www.sourcewatch.org/index.php?title=Paul_E._Vallely&#10;&#10;Retired Major General Paul E Vallely interview with Pete Santilli https://www.bitchute.com/video/RvSxjpOBjIMb/&#10;&#10;Blackwater's Christian Crusaders - Keith Olbermann https://www.youtube.com/watch?v=Kq6E0MIeGvQ&#10;&#10;The DeVos Dynasty: A Family of Extremists https://www.americanprogress.org/issues/default/news/2017/01/23/296947/the-devos-dynasty-a-family-of-extremists/&#10;&#10;Richard and Helen DeVos Foundation&#10;https://en.wikipedia.org/wiki/Richard_and_Helen_DeVos_Foundation&#10;&#10;Retired Major General Paul E Vallely interview on Americanuck Radio &#10;https://www.spreaker.com/user/icrn/americanuck-radio-20191014?fbclid=IwAR3Ikh2f0Ni7r8UJn_lE0u48ERBiBnNYGJe16evmJLQiQRMEyeIA4WN_8gk#&#10;&#10;Jerusalem Summit https://militarist-monitor.org/profile/jerusalem_summit/&#10;&#10;Plamegate - https://en.wikipedia.org/wiki/Plame_affair&#10;&#10;Two years into leak investigation, Gen. Vallely suddenly claims, in contradictory statements, that Wilson revealed Plame's identity to him&#10;https://www.mediamatters.org/war-iraq/two-years-leak-investigation-gen-vallely-suddenly-claims-contradictory-statements-wilson&#10;&#10;Trump Pardons Scooter Libby https://www.nytimes.com/2018/04/13/us/politics/trump-pardon-scooter-libby.html&#10;&#10;Pentagon military analyst program https://www.sourcewatch.org/index.php/Pentagon_military_analyst_program&#10;&#10;From Psyops To Mindwars by Colonel Paul E Vallely (Commander) and Michael Aquino (PSYOPS and Research Team Leader) https://projectspeak.net/from-psyop-to-mindwar-the-psychology-of-victory-by-paul-e-vallely-michael-a-aquino&#10;&#10;Michael Aquino Says MindWar Came From Esalen&#8217;s Transformation Project and the Russians https://vimeo.com/179318378&#10;&#10;Intelligence Support Activity (USAISA / Army of Northern Virginia) https://en.wikipedia.org/wiki/Intelligence_Support_Activity&#10;&#10;TruNews connections https://podimo.com/en/shows/15ed0028-5952-45b2-a415-c4fba7602546&#10;TRUNEWS 6/12/14: Ret. MG Paul E. Vallely, Claire Lopez https://www.blogtalkradio.com/trunews/2014/06/12/trunews-61214-ret-mg-paul-e-vallely-claire-lopez&#10;&#10;Retired Army General To Tea Party Group: I Would Lead A Coup Against The U.S. Government&#10;https://archive.thinkprogress.org/retired-army-general-to-tea-party-group-i-would-lead-a-coup-against-the-u-s-government-43a91f51de8a/&#10;&#10;Paul E Vallely Valdai Club - https://valdaiclub.com/about/experts/5298/&#10;&#10;U.S. General: Trump won&#8217;t take confrontational approach with Russia https://www.rbth.com/international/2017/03/03/us-general-trump-wont-take-confrontational-approach-with-russia_712923&#10;&#10;Make sure you check out the website https://www.exposetheenemy.com/ and The AnteDote podcast. You can become a patron here https://www.patreon.com/Theantedote&#10;&#10;Jaleel https://www.bitchute.com/channel/4cmxFm2SX0fg/&#10;John Brisson - https://www.youtube.com/channel/UC7vqQJCxvXl2tZ_V5P-gYJQ"
-    channeltitle "Expose The Enemy"
-    channelid "UCGWDf326tLO00ul8yjIdg9w"
+    date "2018-09-22T13:42:44Z"
+    title "Remote Viewing Qanon: Final Session! Artificial Intelligence"
+    description "https://www.patreon.com/EdwardRiordanRemoteViewing&#10;&#10;This is the final session of the Q project. &#10;&#10;If anyone would like to contribute to my work, please do so here:&#10;https://www.paypal.me/EdwardRiordan"
+    channeltitle "Edward Riordan"
+    channelid "UCLbQt_hMxV9z7KWwIZ86Pyg"
     favcount 0
-    viewcount 7188
-    likecount 269
-    commentcount 19
-    duration "PT37M15S"
+    viewcount 17155
+    likecount 494
+    commentcount 302
+    duration "PT55M53S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 569
-    label "tX4IpR5D7aE"
+    id 368
+    name "570"
+    label "Cr1LLrZAB3M"
     step 0
-    date "2020-05-05T13:19:53Z"
-    title "Qanon, Trump Der Kabbalistische Apokalyptische Kult"
-    description "Qanon erw&#228;hnte nicht ein einziges mal SELBST &#34;CABAL&#34; ,&#10;er zitierte nur Ger&#252;chte!&#10;&#10;Q hat nicht einmal sein SEHR ERSTES VERSPRECHEN erf&#252;llt !!!!&#10;Hillary Clinton ist immer noch noch frei! Wenn Q ihre Festnahme f&#252;r 30 Oktober 2017 vorausgesagt hat!&#10;&#10;Trump ist FREUND mit Bill Gates, den Clintons, Epstein&#8230;&#10;Trump ist Pro Impfung, Pro 5G Technologie und Wissenschaft!&#10;Trump hat keine Macht &#252;ber Amerika !!!&#10;&#10;Q anon ist KONTROLLIERTE OPPOSITION! Feind f&#252;r die Wahrheit!&#10;&#10;Fanatische Anh&#228;nger des Qanon-Kultes kommen mit ihren Mantras &#252;berall hin, um die Fakten zu zerst&#246;ren und die Menschen zu verwirren!&#10;&#10;Video in English: https://youtu.be/zjn45ObFJAo&#10;&#10;Video en Fran&#231;ais: https://youtu.be/LhltFUNyCVo"
-    channeltitle "BabylonDecoded-Deutsch"
-    channelid "UC4mu3C-I6D6-T73l5g26G8g"
+    date "2018-04-21T19:48:40Z"
+    title "Qanon Public forum"
+    description "@r0nd0n, @globocop @dylanlouismonroe and @aggroed all come together to discuss Q and what's going on in the world especially regarding the Deep State take down.  They/we discuss potential upside and downside of Q."
+    channeltitle "Aggroed Lighthacker"
+    channelid "UCsaJ7pKncIORbzne_qmc6Lg"
     favcount 0
-    viewcount 39439
-    likecount 1120
-    commentcount 834
-    duration "PT25M13S"
+    viewcount 236
+    likecount 9
+    commentcount 1
+    duration "PT2H1M52S"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 11
   ]
   node
   [
-    id 574
-    label "qz2S4cLYulI"
-    step 0
-    date "2022-01-19T13:47:39Z"
-    title "Qanon follower freakouts over covid mandates"
-    description "#qanon #trump #covid 19&#10;&#10;&#10;Antivaxx and Qanon follower anti vaxxers freakouts over covid vaccine mandates on school board meeting, compare it to nazi Germany he also attacks doctor fauci&#10; &#10;guys subscribe for more content&#10;&#10;guys like my facebook page = https://m.facebook.com/Dunkeymedia/?v=feed&#38;paipv=1&#38;_rdr&#10;&#10;&#10;#news #anti vaxx #covid 19 #fauci #trump&#10;&#10;&#10;guys subscribe for more content"
-    channeltitle "ToiletPaperUSA"
-    channelid "UClkUNQ1XDLzMjr9jb6vsVSg"
-    favcount 0
-    viewcount 18317
-    likecount 145
-    commentcount 94
-    duration "PT1M42S"
-    indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 575
+    id 369
+    name "575"
     label "bRmOVb2rABs"
     step 0
     date "2022-07-10T17:39:14Z"
@@ -7049,32 +11090,83 @@ graph
     commentcount 24
     duration "PT13M29S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 577
-    label "qEYgnhqsZxY"
+    id 370
+    name "576"
+    label "q9Ylji3hxHI"
     step 0
-    date "2020-07-22T14:19:34Z"
-    title "Twitter Targets QAnon, War Over Masks Continue, NYC "
-    description "http://marcusconte.com &#10;https://patreon.com/marcusconte &#10;https://paypal.me/theghostofbrooklyn&#10;https://ebay.com (Marcus Conte Stickers)&#10;Marcus Conte Reporting...&#10;&#10;SOCIAL&#10;Marcus Conte News http://youtube.com/c/MarcusConteToo &#10;https://youtube.com/c/marcusconte&#10;https://www.bitchute.com/channel/x4BN6j0IulWg/&#10;https://dlive.tv/MarcusConte&#10;https://twitter.com/ghostofbklyn  &#10;https://facebook.com/marcus.conte.7 &#10;https://minds.com/marcusconte &#10;https://twitch.tv/marcusconte &#10;https://steemit.com/@marcusconte &#10;https://d.tube/#!/c/marcusconte &#10;https://gab.ai/marcusconte&#10;&#10;INTEL DROP shorthappylife [at] gmail [dot] com&#10;&#10;WAKE YOURSELF UP Spiritual Enlightenment Right Here, Right Now [2012] by Marcus Conte [FREE] https://drive.google.com/file/d/0B6qVzJDsLTXqVWltT3ZCeUx1MEE&#10;My Comedy/Rock band: https://youtu.be/pP29cwkbO8Q&#10;My trippy meditation videos: https://www.youtube.com/channel/UCc3nYM9cu-LLHX8PpgAi4WA&#10;Performing as The Ghost of Brooklyn (music):&#10;https://www.youtube.com/watch?v=bsiVyFqEhX4&#38;list=PLzZrJJlrBsjtQ9BZBQbgk8tvvdy-048vR&#10;https://theghostofbrooklyn.blogspot.com/&#10;&#10;Logo Art by One Manc Banned&#10;&#10;Statements of opinion on matters of public concern are constitutionally protected free speech. New York Times Co. v. Sullivan, 376 U.S. 254 (1964)"
-    channeltitle "Marcus Conte"
-    channelid "UCOVthTawN8KN0ZuGqzLjqkw"
+    date "2018-07-21T01:44:34Z"
+    title "Is Q (Qanon) JFK JR?"
+    description "Did JFK JR. stage his death in order for a plan to unfold perfectly and unite the WORLD from the corruption and enslavement we find ourselves in today?&#10;&#10;Host: Dan Hohlfeld&#10;Guest: Michelle Wolfe &#10;Michelle's Channel&#9658;https://tinyurl.com/y82a2t8o&#10;&#10;8 Chan&#9658;https://tinyurl.com/ybt3u8gz&#10;Q Plan to save the world&#9658;https://tinyurl.com/yalcyl3f&#10;Kennedy Burial site&#9658;https://tinyurl.com/ybocdnq6&#10;Trump Lights Out&#9658;https://tinyurl.com/y8bx4fa3&#10;VINCENT FUSCA (Kennedy) @ Trump Rally&#9658;https://tinyurl.com/yby984g2&#10;&#10;Gift by PayPal&#9658;K2d4network@gmail.com&#10;&#10;FOR MORE VISIT US AT&#9658;http://k2d4network.com&#10;DTube&#9658;http://bit.ly/2GuqOTT&#10;BitChute&#9658;http://bit.ly/2peX99T&#10;FACEBOOK&#9658;http://www.facebook.com/K2D4network/&#10;Voice Mail&#9658;+1 (256) 510-5234&#10;&#10;Google Play&#9658;http://bit.ly/2H13xYF&#10;Apple Podcast&#9658;https://apple.co/2FkADWc&#10;Spotify&#9658;https://tinyurl.com/ybcnfako&#10;&#10;&#9658; Camera Used&#9668; &#10;&#9675; Panasonic HC-VX981 on Amazon (affiliate link): http://amzn.to/2hdikr5&#10;&#10;Theme Song&#10;&#10;&#8220;Art Now&#8221; &#10;by Alex&#10;http://ccmixter.org/files/AlexBeroza/30344&#10;&#10;2011 - Licensed under&#10;Creative Commons&#10;Attribution (3.0)&#10;https://creativecommons.org/licenses/by/3.0/"
+    channeltitle "K2D4 NETWORK"
+    channelid "UCT4zRWuPKeWME0XXwPiR_7A"
     favcount 0
-    viewcount 909
-    likecount 90
-    commentcount 48
-    duration "PT1H5M21S"
+    viewcount 204978
+    likecount 3771
+    commentcount 1512
+    duration "PT48M14S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Conspiracy"
+    leftright "C"
+    cluster 2
+  ]
+  node
+  [
+    id 371
+    name "578"
+    label "uGkPTMaIAQ4"
+    step 0
+    date "2022-07-12T18:23:35Z"
+    title "AMERICAS FALSE MAGA QANON PROPHETS CALLED OUT BY TRUE PROPHET.."
+    description ""
+    channeltitle "Maurice Chizer"
+    channelid "UCtw1yU2VBzz19bMdLjyGo4A"
+    favcount 0
+    viewcount 7
+    likecount 0
+    commentcount 0
+    duration "PT48S"
+    indegree 0
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   edge
   [
     source 0
-    target 59
+    target 55
     rank 1
   ]
   edge
@@ -7086,13 +11178,13 @@ graph
   edge
   [
     source 0
-    target 85
+    target 80
     rank 4
   ]
   edge
   [
     source 0
-    target 33
+    target 31
     rank 5
   ]
   edge
@@ -7104,13 +11196,13 @@ graph
   edge
   [
     source 0
-    target 20
+    target 19
     rank 9
   ]
   edge
   [
     source 0
-    target 21
+    target 20
     rank 10
   ]
   edge
@@ -7128,7 +11220,7 @@ graph
   edge
   [
     source 0
-    target 27
+    target 26
     rank 14
   ]
   edge
@@ -7164,31 +11256,31 @@ graph
   edge
   [
     source 2
-    target 20
+    target 19
     rank 8
   ]
   edge
   [
     source 2
-    target 24
+    target 23
     rank 10
   ]
   edge
   [
     source 2
-    target 168
+    target 145
     rank 14
   ]
   edge
   [
     source 2
-    target 210
+    target 176
     rank 17
   ]
   edge
   [
     source 2
-    target 48
+    target 45
     rank 18
   ]
   edge
@@ -7200,7 +11292,7 @@ graph
   edge
   [
     source 2
-    target 27
+    target 26
     rank 20
   ]
   edge
@@ -7218,13 +11310,13 @@ graph
   edge
   [
     source 3
-    target 59
+    target 55
     rank 8
   ]
   edge
   [
     source 3
-    target 33
+    target 31
     rank 10
   ]
   edge
@@ -7236,7 +11328,7 @@ graph
   edge
   [
     source 3
-    target 85
+    target 80
     rank 17
   ]
   edge
@@ -7254,7 +11346,7 @@ graph
   edge
   [
     source 4
-    target 85
+    target 80
     rank 2
   ]
   edge
@@ -7266,7 +11358,7 @@ graph
   edge
   [
     source 4
-    target 31
+    target 29
     rank 5
   ]
   edge
@@ -7278,7 +11370,7 @@ graph
   edge
   [
     source 4
-    target 24
+    target 23
     rank 18
   ]
   edge
@@ -7290,13 +11382,13 @@ graph
   edge
   [
     source 5
-    target 33
+    target 31
     rank 3
   ]
   edge
   [
     source 5
-    target 20
+    target 19
     rank 5
   ]
   edge
@@ -7308,7 +11400,7 @@ graph
   edge
   [
     source 5
-    target 78
+    target 73
     rank 11
   ]
   edge
@@ -7320,7 +11412,7 @@ graph
   edge
   [
     source 6
-    target 97
+    target 88
     rank 1
   ]
   edge
@@ -7338,13 +11430,13 @@ graph
   edge
   [
     source 6
-    target 20
+    target 19
     rank 4
   ]
   edge
   [
     source 6
-    target 140
+    target 123
     rank 5
   ]
   edge
@@ -7356,19 +11448,19 @@ graph
   edge
   [
     source 6
-    target 24
+    target 23
     rank 7
   ]
   edge
   [
     source 6
-    target 31
+    target 29
     rank 8
   ]
   edge
   [
     source 6
-    target 122
+    target 108
     rank 9
   ]
   edge
@@ -7380,7 +11472,7 @@ graph
   edge
   [
     source 7
-    target 85
+    target 80
     rank 5
   ]
   edge
@@ -7404,7 +11496,7 @@ graph
   edge
   [
     source 8
-    target 59
+    target 55
     rank 1
   ]
   edge
@@ -7416,7 +11508,7 @@ graph
   edge
   [
     source 8
-    target 20
+    target 19
     rank 5
   ]
   edge
@@ -7446,7 +11538,7 @@ graph
   edge
   [
     source 9
-    target 24
+    target 23
     rank 5
   ]
   edge
@@ -7458,13 +11550,13 @@ graph
   edge
   [
     source 9
-    target 31
+    target 29
     rank 13
   ]
   edge
   [
     source 9
-    target 85
+    target 80
     rank 17
   ]
   edge
@@ -7476,19 +11568,19 @@ graph
   edge
   [
     source 10
-    target 59
+    target 55
     rank 2
   ]
   edge
   [
     source 10
-    target 24
+    target 23
     rank 3
   ]
   edge
   [
     source 10
-    target 97
+    target 88
     rank 5
   ]
   edge
@@ -7500,13 +11592,13 @@ graph
   edge
   [
     source 10
-    target 45
+    target 42
     rank 7
   ]
   edge
   [
     source 10
-    target 72
+    target 67
     rank 8
   ]
   edge
@@ -7518,7 +11610,7 @@ graph
   edge
   [
     source 10
-    target 85
+    target 80
     rank 13
   ]
   edge
@@ -7530,31 +11622,31 @@ graph
   edge
   [
     source 11
-    target 20
+    target 19
     rank 3
   ]
   edge
   [
     source 11
-    target 237
+    target 194
     rank 14
   ]
   edge
   [
     source 12
-    target 85
+    target 80
     rank 1
   ]
   edge
   [
     source 12
-    target 59
+    target 55
     rank 2
   ]
   edge
   [
     source 12
-    target 72
+    target 67
     rank 3
   ]
   edge
@@ -7566,13 +11658,13 @@ graph
   edge
   [
     source 12
-    target 33
+    target 31
     rank 6
   ]
   edge
   [
     source 12
-    target 20
+    target 19
     rank 7
   ]
   edge
@@ -7584,7 +11676,7 @@ graph
   edge
   [
     source 12
-    target 102
+    target 92
     rank 11
   ]
   edge
@@ -7602,7 +11694,7 @@ graph
   edge
   [
     source 12
-    target 24
+    target 23
     rank 18
   ]
   edge
@@ -7614,19 +11706,19 @@ graph
   edge
   [
     source 14
-    target 41
+    target 38
     rank 14
   ]
   edge
   [
     source 15
-    target 64
+    target 60
     rank 18
   ]
   edge
   [
     source 16
-    target 85
+    target 80
     rank 1
   ]
   edge
@@ -7638,7 +11730,7 @@ graph
   edge
   [
     source 16
-    target 168
+    target 145
     rank 16
   ]
   edge
@@ -7650,7 +11742,7 @@ graph
   edge
   [
     source 17
-    target 20
+    target 19
     rank 6
   ]
   edge
@@ -7662,2198 +11754,2318 @@ graph
   edge
   [
     source 17
-    target 59
+    target 55
     rank 9
   ]
   edge
   [
     source 17
-    target 33
+    target 31
     rank 10
   ]
   edge
   [
-    source 21
+    source 20
     target 9
     rank 5
   ]
   edge
   [
-    source 21
+    source 20
     target 3
     rank 8
   ]
   edge
   [
+    source 20
+    target 19
+    rank 9
+  ]
+  edge
+  [
     source 21
-    target 20
+    target 1
+    rank 14
+  ]
+  edge
+  [
+    source 22
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 22
+    target 12
+    rank 2
+  ]
+  edge
+  [
+    source 22
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 22
+    target 55
+    rank 4
+  ]
+  edge
+  [
+    source 22
+    target 88
+    rank 5
+  ]
+  edge
+  [
+    source 22
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 22
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 22
+    target 80
+    rank 8
+  ]
+  edge
+  [
+    source 22
+    target 177
     rank 9
   ]
   edge
   [
     source 22
-    target 1
-    rank 14
-  ]
-  edge
-  [
-    source 23
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 23
-    target 12
-    rank 2
-  ]
-  edge
-  [
-    source 23
-    target 17
-    rank 3
-  ]
-  edge
-  [
-    source 23
-    target 59
-    rank 4
-  ]
-  edge
-  [
-    source 23
-    target 97
-    rank 5
-  ]
-  edge
-  [
-    source 23
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 23
-    target 20
-    rank 7
-  ]
-  edge
-  [
-    source 23
-    target 85
-    rank 8
-  ]
-  edge
-  [
-    source 23
-    target 211
-    rank 9
-  ]
-  edge
-  [
-    source 23
-    target 45
+    target 42
     rank 10
   ]
   edge
   [
-    source 23
+    source 22
     target 6
     rank 11
   ]
   edge
   [
-    source 23
+    source 22
     target 1
     rank 12
   ]
   edge
   [
-    source 24
-    target 85
+    source 23
+    target 80
     rank 1
   ]
   edge
   [
-    source 24
-    target 31
+    source 23
+    target 29
     rank 5
   ]
   edge
   [
-    source 24
+    source 23
     target 3
     rank 7
   ]
   edge
   [
-    source 24
+    source 23
     target 9
     rank 12
   ]
   edge
   [
-    source 24
+    source 23
     target 12
     rank 15
   ]
   edge
   [
-    source 24
-    target 188
+    source 23
+    target 162
     rank 19
   ]
   edge
   [
-    source 25
+    source 24
     target 3
     rank 1
   ]
   edge
   [
-    source 25
-    target 85
+    source 24
+    target 80
     rank 2
   ]
   edge
   [
-    source 25
-    target 26
+    source 24
+    target 25
     rank 12
   ]
   edge
   [
-    source 25
-    target 41
+    source 24
+    target 38
     rank 17
   ]
   edge
   [
-    source 26
+    source 25
     target 3
     rank 2
   ]
   edge
   [
-    source 26
+    source 25
     target 6
     rank 4
   ]
   edge
   [
-    source 26
-    target 20
+    source 25
+    target 19
     rank 6
   ]
   edge
   [
-    source 26
-    target 248
+    source 25
+    target 204
     rank 7
   ]
   edge
   [
-    source 26
-    target 308
+    source 25
+    target 246
     rank 9
   ]
   edge
   [
-    source 26
-    target 33
+    source 25
+    target 31
     rank 11
   ]
   edge
   [
-    source 26
+    source 25
     target 14
     rank 14
   ]
   edge
   [
-    source 27
+    source 26
     target 0
     rank 1
   ]
   edge
   [
-    source 27
+    source 26
     target 9
     rank 2
   ]
   edge
   [
-    source 27
-    target 72
+    source 26
+    target 67
     rank 4
   ]
   edge
   [
-    source 27
-    target 85
+    source 26
+    target 80
     rank 5
   ]
   edge
   [
-    source 27
-    target 31
+    source 26
+    target 29
     rank 6
   ]
   edge
   [
-    source 27
-    target 24
+    source 26
+    target 23
     rank 10
   ]
   edge
   [
-    source 27
-    target 194
+    source 26
+    target 167
     rank 11
   ]
   edge
   [
-    source 27
-    target 95
+    source 26
+    target 87
     rank 13
   ]
   edge
   [
-    source 27
-    target 161
+    source 26
+    target 140
     rank 17
   ]
   edge
   [
-    source 28
-    target 20
+    source 27
+    target 19
     rank 1
   ]
   edge
   [
-    source 28
+    source 27
     target 9
     rank 2
   ]
   edge
   [
-    source 28
-    target 97
+    source 27
+    target 88
     rank 7
   ]
   edge
   [
-    source 29
-    target 20
+    source 28
+    target 19
     rank 1
   ]
   edge
   [
-    source 31
+    source 29
     target 9
     rank 1
   ]
   edge
   [
-    source 31
-    target 85
+    source 29
+    target 80
     rank 3
   ]
   edge
   [
-    source 31
-    target 194
+    source 29
+    target 167
     rank 4
   ]
   edge
   [
-    source 31
+    source 29
     target 3
     rank 6
   ]
   edge
   [
-    source 31
+    source 29
     target 12
     rank 9
   ]
   edge
   [
-    source 31
-    target 95
+    source 29
+    target 87
     rank 14
+  ]
+  edge
+  [
+    source 29
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 30
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 31
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 31
+    target 3
+    rank 2
   ]
   edge
   [
     source 31
     target 24
-    rank 16
+    rank 4
+  ]
+  edge
+  [
+    source 31
+    target 105
+    rank 10
+  ]
+  edge
+  [
+    source 31
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 31
+    target 23
+    rank 12
   ]
   edge
   [
     source 32
     target 3
-    rank 4
-  ]
-  edge
-  [
-    source 33
-    target 20
     rank 1
   ]
   edge
   [
-    source 33
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 33
-    target 25
-    rank 4
-  ]
-  edge
-  [
-    source 33
-    target 117
+    source 32
+    target 29
     rank 10
   ]
   edge
   [
     source 33
     target 6
-    rank 11
+    rank 1
   ]
   edge
   [
     source 33
-    target 24
-    rank 12
-  ]
-  edge
-  [
-    source 35
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 35
-    target 31
-    rank 10
-  ]
-  edge
-  [
-    source 36
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 36
-    target 20
+    target 19
     rank 2
   ]
   edge
   [
-    source 36
+    source 33
     target 3
     rank 3
   ]
   edge
   [
-    source 36
-    target 37
+    source 33
+    target 34
     rank 4
   ]
   edge
   [
-    source 36
-    target 33
+    source 33
+    target 31
     rank 6
   ]
   edge
   [
-    source 36
-    target 31
+    source 33
+    target 29
     rank 9
   ]
   edge
   [
-    source 36
+    source 33
     target 14
     rank 11
   ]
   edge
   [
-    source 36
-    target 24
+    source 33
+    target 23
     rank 13
+  ]
+  edge
+  [
+    source 34
+    target 14
+    rank 3
+  ]
+  edge
+  [
+    source 35
+    target 34
+    rank 1
+  ]
+  edge
+  [
+    source 36
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 36
+    target 150
+    rank 2
+  ]
+  edge
+  [
+    source 37
+    target 118
+    rank 2
+  ]
+  edge
+  [
+    source 37
+    target 153
+    rank 3
+  ]
+  edge
+  [
+    source 37
+    target 133
+    rank 5
+  ]
+  edge
+  [
+    source 37
+    target 31
+    rank 6
+  ]
+  edge
+  [
+    source 37
+    target 166
+    rank 7
+  ]
+  edge
+  [
+    source 37
+    target 19
+    rank 8
+  ]
+  edge
+  [
+    source 37
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 37
+    target 188
+    rank 12
+  ]
+  edge
+  [
+    source 37
+    target 67
+    rank 15
   ]
   edge
   [
     source 37
     target 14
-    rank 3
-  ]
-  edge
-  [
-    source 38
-    target 37
-    rank 1
-  ]
-  edge
-  [
-    source 39
-    target 20
-    rank 1
-  ]
-  edge
-  [
-    source 39
-    target 173
-    rank 2
-  ]
-  edge
-  [
-    source 40
-    target 134
-    rank 2
-  ]
-  edge
-  [
-    source 40
-    target 177
-    rank 3
-  ]
-  edge
-  [
-    source 40
-    target 151
-    rank 5
-  ]
-  edge
-  [
-    source 40
-    target 33
-    rank 6
-  ]
-  edge
-  [
-    source 40
-    target 193
-    rank 7
-  ]
-  edge
-  [
-    source 40
-    target 20
-    rank 8
-  ]
-  edge
-  [
-    source 40
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 40
-    target 228
-    rank 12
-  ]
-  edge
-  [
-    source 40
-    target 72
-    rank 15
-  ]
-  edge
-  [
-    source 40
-    target 14
     rank 17
   ]
   edge
   [
-    source 40
+    source 37
     target 17
     rank 18
   ]
   edge
   [
-    source 41
+    source 38
     target 5
     rank 1
   ]
   edge
   [
-    source 41
-    target 59
+    source 38
+    target 55
     rank 3
   ]
   edge
   [
-    source 41
+    source 38
     target 6
     rank 4
   ]
   edge
   [
-    source 41
-    target 27
+    source 38
+    target 26
     rank 6
   ]
   edge
   [
-    source 41
+    source 38
     target 2
     rank 7
   ]
   edge
   [
-    source 41
-    target 85
+    source 38
+    target 80
     rank 9
   ]
   edge
   [
-    source 41
-    target 31
+    source 38
+    target 29
     rank 11
   ]
   edge
   [
-    source 41
+    source 38
     target 14
     rank 12
   ]
   edge
   [
-    source 41
+    source 38
     target 3
     rank 13
   ]
   edge
   [
-    source 41
-    target 21
+    source 38
+    target 20
     rank 19
   ]
   edge
   [
-    source 42
+    source 39
     target 9
     rank 1
   ]
   edge
   [
-    source 42
-    target 85
+    source 39
+    target 80
     rank 2
   ]
   edge
   [
-    source 42
-    target 31
+    source 39
+    target 29
     rank 3
   ]
   edge
   [
-    source 42
-    target 72
+    source 39
+    target 67
+    rank 6
+  ]
+  edge
+  [
+    source 39
+    target 167
+    rank 7
+  ]
+  edge
+  [
+    source 39
+    target 87
+    rank 9
+  ]
+  edge
+  [
+    source 39
+    target 23
+    rank 14
+  ]
+  edge
+  [
+    source 40
+    target 55
+    rank 1
+  ]
+  edge
+  [
+    source 40
+    target 109
+    rank 2
+  ]
+  edge
+  [
+    source 41
+    target 3
     rank 6
   ]
   edge
   [
     source 42
-    target 194
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 42
+    target 55
+    rank 3
+  ]
+  edge
+  [
+    source 42
+    target 9
     rank 7
   ]
   edge
   [
     source 42
-    target 95
+    target 29
     rank 9
   ]
   edge
   [
     source 42
-    target 24
+    target 80
+    rank 10
+  ]
+  edge
+  [
+    source 42
+    target 167
     rank 14
   ]
   edge
   [
-    source 43
-    target 59
-    rank 1
+    source 42
+    target 23
+    rank 16
   ]
   edge
   [
     source 43
-    target 123
+    target 42
     rank 2
+  ]
+  edge
+  [
+    source 43
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 43
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 43
+    target 31
+    rank 5
+  ]
+  edge
+  [
+    source 43
+    target 19
+    rank 6
+  ]
+  edge
+  [
+    source 43
+    target 20
+    rank 8
+  ]
+  edge
+  [
+    source 43
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 43
+    target 76
+    rank 13
+  ]
+  edge
+  [
+    source 43
+    target 25
+    rank 14
   ]
   edge
   [
     source 44
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 45
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 45
-    target 59
-    rank 3
-  ]
-  edge
-  [
-    source 45
-    target 9
-    rank 7
-  ]
-  edge
-  [
-    source 45
-    target 31
-    rank 9
-  ]
-  edge
-  [
-    source 45
-    target 85
-    rank 10
-  ]
-  edge
-  [
-    source 45
-    target 194
-    rank 14
-  ]
-  edge
-  [
-    source 45
-    target 24
-    rank 16
-  ]
-  edge
-  [
-    source 46
     target 45
-    rank 2
-  ]
-  edge
-  [
-    source 46
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 46
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 46
-    target 33
-    rank 5
-  ]
-  edge
-  [
-    source 46
-    target 20
-    rank 6
-  ]
-  edge
-  [
-    source 46
-    target 21
-    rank 8
-  ]
-  edge
-  [
-    source 46
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 46
-    target 81
-    rank 13
-  ]
-  edge
-  [
-    source 46
-    target 26
-    rank 14
-  ]
-  edge
-  [
-    source 47
-    target 48
     rank 16
   ]
   edge
   [
-    source 47
-    target 109
-    rank 17
-  ]
-  edge
-  [
-    source 47
-    target 95
-    rank 18
-  ]
-  edge
-  [
-    source 48
-    target 210
-    rank 3
-  ]
-  edge
-  [
-    source 48
-    target 9
-    rank 4
-  ]
-  edge
-  [
-    source 48
-    target 85
-    rank 6
-  ]
-  edge
-  [
-    source 48
-    target 194
-    rank 8
-  ]
-  edge
-  [
-    source 48
-    target 109
-    rank 9
-  ]
-  edge
-  [
-    source 48
-    target 31
-    rank 10
-  ]
-  edge
-  [
-    source 48
+    source 44
     target 99
-    rank 12
+    rank 17
   ]
   edge
   [
-    source 48
-    target 72
-    rank 13
-  ]
-  edge
-  [
-    source 48
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 48
-    target 24
+    source 44
+    target 87
     rank 18
   ]
   edge
   [
-    source 49
-    target 157
-    rank 1
+    source 45
+    target 176
+    rank 3
   ]
   edge
   [
-    source 49
+    source 45
     target 9
     rank 4
   ]
   edge
   [
-    source 49
-    target 74
+    source 45
+    target 80
+    rank 6
+  ]
+  edge
+  [
+    source 45
+    target 167
     rank 8
   ]
   edge
   [
-    source 50
-    target 59
+    source 45
+    target 99
+    rank 9
+  ]
+  edge
+  [
+    source 45
+    target 29
+    rank 10
+  ]
+  edge
+  [
+    source 45
+    target 89
+    rank 12
+  ]
+  edge
+  [
+    source 45
+    target 67
+    rank 13
+  ]
+  edge
+  [
+    source 45
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 45
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 46
+    target 138
     rank 1
   ]
   edge
   [
-    source 50
+    source 46
+    target 9
+    rank 4
+  ]
+  edge
+  [
+    source 46
+    target 69
+    rank 8
+  ]
+  edge
+  [
+    source 47
+    target 55
+    rank 1
+  ]
+  edge
+  [
+    source 47
     target 9
     rank 2
   ]
   edge
   [
-    source 50
-    target 122
+    source 47
+    target 108
     rank 5
   ]
   edge
   [
-    source 50
-    target 85
+    source 47
+    target 80
     rank 6
   ]
   edge
   [
-    source 50
+    source 47
     target 3
     rank 11
   ]
   edge
   [
-    source 50
-    target 42
+    source 47
+    target 39
     rank 12
   ]
   edge
   [
-    source 50
-    target 102
+    source 47
+    target 92
     rank 14
   ]
   edge
   [
-    source 50
-    target 24
+    source 47
+    target 23
     rank 17
   ]
   edge
   [
-    source 50
-    target 45
+    source 47
+    target 42
     rank 19
   ]
   edge
   [
-    source 51
-    target 58
+    source 48
+    target 54
     rank 1
   ]
   edge
   [
-    source 51
-    target 252
+    source 48
+    target 208
     rank 5
   ]
   edge
   [
-    source 52
-    target 54
+    source 49
+    target 51
     rank 20
   ]
   edge
   [
-    source 53
+    source 50
     target 2
     rank 13
   ]
   edge
   [
-    source 53
-    target 54
+    source 50
+    target 51
     rank 15
   ]
   edge
   [
-    source 53
-    target 194
+    source 50
+    target 167
     rank 17
   ]
   edge
   [
-    source 53
-    target 168
+    source 50
+    target 145
     rank 20
   ]
   edge
   [
-    source 54
-    target 371
+    source 51
+    target 283
     rank 15
   ]
   edge
   [
-    source 56
+    source 52
     target 0
     rank 14
   ]
   edge
   [
-    source 56
-    target 109
+    source 52
+    target 99
     rank 15
   ]
   edge
   [
-    source 56
-    target 80
+    source 52
+    target 75
     rank 16
   ]
   edge
   [
-    source 57
+    source 53
     target 3
     rank 3
   ]
   edge
   [
-    source 57
-    target 102
+    source 53
+    target 92
     rank 10
   ]
   edge
   [
-    source 58
+    source 54
     target 3
     rank 1
   ]
   edge
   [
-    source 58
+    source 54
     target 7
     rank 4
   ]
   edge
   [
-    source 58
-    target 59
+    source 54
+    target 55
     rank 7
   ]
   edge
   [
-    source 58
+    source 54
     target 9
     rank 9
   ]
   edge
   [
-    source 58
-    target 85
+    source 54
+    target 80
     rank 14
   ]
   edge
   [
-    source 58
-    target 252
+    source 54
+    target 208
     rank 16
   ]
   edge
   [
-    source 58
-    target 24
+    source 54
+    target 23
     rank 17
   ]
   edge
   [
-    source 58
+    source 54
     target 11
     rank 18
   ]
   edge
   [
-    source 59
-    target 85
+    source 55
+    target 80
     rank 2
   ]
   edge
   [
-    source 59
+    source 55
     target 3
     rank 8
   ]
   edge
   [
-    source 59
-    target 24
+    source 55
+    target 23
     rank 13
   ]
   edge
   [
-    source 62
+    source 58
     target 13
     rank 1
   ]
   edge
   [
-    source 62
-    target 48
+    source 58
+    target 45
     rank 2
   ]
   edge
   [
-    source 62
+    source 58
     target 0
     rank 8
   ]
   edge
   [
-    source 62
-    target 84
+    source 58
+    target 79
     rank 9
   ]
   edge
   [
-    source 62
+    source 58
     target 2
     rank 10
   ]
   edge
   [
-    source 62
-    target 177
+    source 58
+    target 153
     rank 11
   ]
   edge
   [
-    source 62
-    target 168
+    source 58
+    target 145
     rank 15
   ]
   edge
   [
-    source 63
+    source 59
     target 12
     rank 1
   ]
   edge
   [
-    source 63
+    source 59
     target 0
     rank 2
   ]
   edge
   [
-    source 63
-    target 33
+    source 59
+    target 31
     rank 3
   ]
   edge
   [
-    source 63
+    source 59
     target 10
     rank 5
   ]
   edge
   [
-    source 63
+    source 59
     target 17
     rank 6
   ]
   edge
   [
-    source 63
-    target 20
+    source 59
+    target 19
     rank 7
   ]
   edge
   [
-    source 63
-    target 59
+    source 59
+    target 55
     rank 8
   ]
   edge
   [
-    source 63
-    target 21
+    source 59
+    target 20
     rank 9
   ]
   edge
   [
-    source 63
+    source 59
     target 6
     rank 10
   ]
   edge
   [
-    source 63
-    target 37
+    source 59
+    target 34
     rank 12
   ]
   edge
   [
-    source 63
-    target 88
+    source 59
+    target 82
     rank 13
   ]
   edge
   [
-    source 63
+    source 59
     target 3
     rank 15
   ]
   edge
   [
-    source 63
-    target 23
-    rank 17
-  ]
-  edge
-  [
-    source 63
-    target 45
-    rank 18
-  ]
-  edge
-  [
-    source 64
-    target 15
-    rank 10
-  ]
-  edge
-  [
-    source 65
-    target 97
-    rank 1
-  ]
-  edge
-  [
-    source 65
-    target 138
-    rank 2
-  ]
-  edge
-  [
-    source 65
-    target 33
-    rank 3
-  ]
-  edge
-  [
-    source 65
-    target 20
-    rank 7
-  ]
-  edge
-  [
-    source 65
-    target 44
-    rank 8
-  ]
-  edge
-  [
-    source 65
-    target 23
-    rank 9
-  ]
-  edge
-  [
-    source 65
-    target 43
-    rank 12
-  ]
-  edge
-  [
-    source 65
-    target 15
-    rank 13
-  ]
-  edge
-  [
-    source 65
-    target 105
-    rank 19
-  ]
-  edge
-  [
-    source 67
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 67
+    source 59
     target 22
     rank 17
   ]
   edge
   [
-    source 68
-    target 48
+    source 59
+    target 42
+    rank 18
+  ]
+  edge
+  [
+    source 60
+    target 15
+    rank 10
+  ]
+  edge
+  [
+    source 61
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 61
+    target 121
+    rank 2
+  ]
+  edge
+  [
+    source 61
+    target 31
+    rank 3
+  ]
+  edge
+  [
+    source 61
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 61
+    target 41
+    rank 8
+  ]
+  edge
+  [
+    source 61
+    target 22
+    rank 9
+  ]
+  edge
+  [
+    source 61
+    target 40
+    rank 12
+  ]
+  edge
+  [
+    source 61
+    target 15
+    rank 13
+  ]
+  edge
+  [
+    source 61
+    target 95
+    rank 19
+  ]
+  edge
+  [
+    source 63
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 63
+    target 21
+    rank 17
+  ]
+  edge
+  [
+    source 64
+    target 45
     rank 6
   ]
   edge
   [
-    source 69
+    source 65
     target 9
     rank 4
   ]
   edge
   [
-    source 69
+    source 65
     target 6
     rank 7
   ]
   edge
   [
-    source 71
+    source 66
     target 9
     rank 1
   ]
   edge
   [
-    source 71
-    target 45
+    source 66
+    target 42
     rank 3
   ]
   edge
   [
-    source 71
-    target 20
+    source 66
+    target 19
     rank 4
   ]
   edge
   [
-    source 71
+    source 66
     target 3
     rank 9
   ]
   edge
   [
-    source 71
-    target 85
+    source 66
+    target 80
     rank 10
   ]
   edge
   [
-    source 71
-    target 245
+    source 66
+    target 201
     rank 13
   ]
   edge
   [
-    source 71
-    target 24
+    source 66
+    target 23
     rank 17
   ]
   edge
   [
-    source 71
+    source 66
     target 10
     rank 18
   ]
   edge
   [
-    source 72
+    source 67
     target 9
     rank 1
   ]
   edge
   [
-    source 72
-    target 59
+    source 67
+    target 55
     rank 3
   ]
   edge
   [
-    source 72
-    target 31
+    source 67
+    target 29
     rank 4
   ]
   edge
   [
-    source 72
+    source 67
     target 12
     rank 5
   ]
   edge
   [
-    source 72
-    target 85
+    source 67
+    target 80
     rank 7
   ]
   edge
   [
-    source 72
-    target 194
+    source 67
+    target 167
     rank 10
   ]
   edge
   [
-    source 72
-    target 42
+    source 67
+    target 39
     rank 17
   ]
   edge
   [
-    source 72
-    target 177
+    source 67
+    target 153
     rank 18
   ]
   edge
   [
-    source 72
+    source 67
     target 3
     rank 19
   ]
   edge
   [
-    source 72
-    target 24
+    source 67
+    target 23
     rank 20
   ]
   edge
   [
-    source 73
-    target 182
+    source 68
+    target 158
     rank 1
   ]
   edge
   [
-    source 73
-    target 85
+    source 68
+    target 80
     rank 2
   ]
   edge
   [
-    source 73
+    source 68
     target 9
     rank 3
   ]
   edge
   [
-    source 73
+    source 68
     target 0
     rank 4
   ]
   edge
   [
-    source 77
-    target 82
+    source 72
+    target 77
     rank 1
   ]
   edge
   [
-    source 77
-    target 122
+    source 72
+    target 108
     rank 2
   ]
   edge
   [
-    source 77
-    target 116
+    source 72
+    target 104
     rank 3
   ]
   edge
   [
-    source 77
-    target 24
+    source 72
+    target 23
     rank 6
   ]
   edge
   [
-    source 77
-    target 20
+    source 72
+    target 19
     rank 7
   ]
   edge
   [
-    source 77
+    source 72
     target 3
     rank 9
   ]
   edge
   [
-    source 78
-    target 138
+    source 73
+    target 121
     rank 1
   ]
   edge
   [
-    source 78
-    target 194
+    source 73
+    target 167
     rank 4
   ]
   edge
   [
-    source 78
+    source 73
     target 3
     rank 5
   ]
   edge
   [
-    source 78
-    target 79
-    rank 7
-  ]
-  edge
-  [
-    source 78
-    target 148
-    rank 8
-  ]
-  edge
-  [
-    source 78
-    target 113
-    rank 10
-  ]
-  edge
-  [
-    source 79
-    target 81
-    rank 1
-  ]
-  edge
-  [
-    source 79
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 79
-    target 78
-    rank 3
-  ]
-  edge
-  [
-    source 79
-    target 100
-    rank 17
-  ]
-  edge
-  [
-    source 80
-    target 128
-    rank 2
-  ]
-  edge
-  [
-    source 80
-    target 170
-    rank 3
-  ]
-  edge
-  [
-    source 81
-    target 82
-    rank 1
-  ]
-  edge
-  [
-    source 81
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 81
-    target 185
-    rank 4
-  ]
-  edge
-  [
-    source 82
-    target 81
-    rank 2
-  ]
-  edge
-  [
-    source 83
-    target 31
-    rank 7
-  ]
-  edge
-  [
-    source 83
-    target 17
-    rank 10
-  ]
-  edge
-  [
-    source 83
-    target 21
-    rank 13
-  ]
-  edge
-  [
-    source 83
-    target 15
-    rank 15
-  ]
-  edge
-  [
-    source 84
-    target 194
-    rank 1
-  ]
-  edge
-  [
-    source 84
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 85
-    target 9
-    rank 7
-  ]
-  edge
-  [
-    source 85
-    target 12
-    rank 8
-  ]
-  edge
-  [
-    source 85
-    target 0
-    rank 19
-  ]
-  edge
-  [
-    source 85
-    target 24
-    rank 20
-  ]
-  edge
-  [
-    source 87
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 87
-    target 140
-    rank 2
-  ]
-  edge
-  [
-    source 87
-    target 122
-    rank 10
-  ]
-  edge
-  [
-    source 88
-    target 33
-    rank 11
-  ]
-  edge
-  [
-    source 89
-    target 50
-    rank 3
-  ]
-  edge
-  [
-    source 89
-    target 20
-    rank 7
-  ]
-  edge
-  [
-    source 89
-    target 59
-    rank 8
-  ]
-  edge
-  [
-    source 89
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 91
-    target 85
-    rank 1
-  ]
-  edge
-  [
-    source 91
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 91
-    target 9
-    rank 3
-  ]
-  edge
-  [
-    source 91
-    target 180
-    rank 4
-  ]
-  edge
-  [
-    source 91
-    target 252
-    rank 6
-  ]
-  edge
-  [
-    source 91
-    target 168
-    rank 12
-  ]
-  edge
-  [
-    source 93
-    target 14
-    rank 18
-  ]
-  edge
-  [
-    source 94
-    target 9
-    rank 1
-  ]
-  edge
-  [
-    source 94
-    target 81
-    rank 2
-  ]
-  edge
-  [
-    source 94
-    target 85
-    rank 5
-  ]
-  edge
-  [
-    source 94
-    target 24
-    rank 12
-  ]
-  edge
-  [
-    source 95
-    target 9
-    rank 1
-  ]
-  edge
-  [
-    source 95
-    target 85
-    rank 2
-  ]
-  edge
-  [
-    source 95
-    target 210
-    rank 3
-  ]
-  edge
-  [
-    source 95
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 95
-    target 194
-    rank 8
-  ]
-  edge
-  [
-    source 95
-    target 72
-    rank 10
-  ]
-  edge
-  [
-    source 95
-    target 31
-    rank 16
-  ]
-  edge
-  [
-    source 95
-    target 24
-    rank 19
-  ]
-  edge
-  [
-    source 97
-    target 138
-    rank 1
-  ]
-  edge
-  [
-    source 97
-    target 28
-    rank 2
-  ]
-  edge
-  [
-    source 97
-    target 45
-    rank 3
-  ]
-  edge
-  [
-    source 97
-    target 9
-    rank 4
-  ]
-  edge
-  [
-    source 97
-    target 142
-    rank 5
-  ]
-  edge
-  [
-    source 97
-    target 12
-    rank 7
-  ]
-  edge
-  [
-    source 97
-    target 24
-    rank 8
-  ]
-  edge
-  [
-    source 97
-    target 6
-    rank 14
-  ]
-  edge
-  [
-    source 97
-    target 85
-    rank 16
-  ]
-  edge
-  [
-    source 97
-    target 31
-    rank 18
-  ]
-  edge
-  [
-    source 99
-    target 48
-    rank 1
-  ]
-  edge
-  [
-    source 99
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 101
-    target 155
-    rank 5
-  ]
-  edge
-  [
-    source 101
-    target 131
-    rank 14
-  ]
-  edge
-  [
-    source 101
-    target 20
-    rank 19
-  ]
-  edge
-  [
-    source 102
-    target 48
-    rank 1
-  ]
-  edge
-  [
-    source 102
-    target 50
-    rank 2
-  ]
-  edge
-  [
-    source 102
-    target 210
-    rank 5
-  ]
-  edge
-  [
-    source 102
-    target 9
-    rank 7
-  ]
-  edge
-  [
-    source 102
-    target 12
-    rank 9
-  ]
-  edge
-  [
-    source 102
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 102
-    target 24
-    rank 15
-  ]
-  edge
-  [
-    source 102
-    target 194
-    rank 18
-  ]
-  edge
-  [
-    source 102
-    target 85
-    rank 19
-  ]
-  edge
-  [
-    source 103
-    target 116
-    rank 3
-  ]
-  edge
-  [
-    source 103
-    target 21
-    rank 4
-  ]
-  edge
-  [
-    source 103
-    target 123
-    rank 5
-  ]
-  edge
-  [
-    source 103
+    source 73
     target 74
     rank 7
   ]
   edge
   [
-    source 104
-    target 276
-    rank 7
+    source 73
+    target 130
+    rank 8
   ]
   edge
   [
-    source 105
-    target 15
-    rank 11
+    source 73
+    target 102
+    rank 10
   ]
   edge
   [
-    source 106
-    target 173
+    source 74
+    target 76
+    rank 1
+  ]
+  edge
+  [
+    source 74
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 74
+    target 73
     rank 3
   ]
   edge
   [
-    source 106
-    target 43
-    rank 4
-  ]
-  edge
-  [
-    source 106
-    target 189
-    rank 6
-  ]
-  edge
-  [
-    source 107
-    target 9
-    rank 5
-  ]
-  edge
-  [
-    source 107
-    target 182
-    rank 16
-  ]
-  edge
-  [
-    source 107
-    target 2
+    source 74
+    target 90
     rank 17
   ]
   edge
   [
-    source 107
-    target 252
-    rank 18
+    source 75
+    target 114
+    rank 2
   ]
   edge
   [
-    source 107
-    target 180
+    source 75
+    target 147
+    rank 3
+  ]
+  edge
+  [
+    source 76
+    target 77
+    rank 1
+  ]
+  edge
+  [
+    source 76
+    target 146
+    rank 2
+  ]
+  edge
+  [
+    source 76
+    target 160
+    rank 4
+  ]
+  edge
+  [
+    source 77
+    target 76
+    rank 2
+  ]
+  edge
+  [
+    source 78
+    target 29
+    rank 7
+  ]
+  edge
+  [
+    source 78
+    target 17
+    rank 10
+  ]
+  edge
+  [
+    source 78
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 78
+    target 15
+    rank 15
+  ]
+  edge
+  [
+    source 79
+    target 167
+    rank 1
+  ]
+  edge
+  [
+    source 79
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 80
+    target 9
+    rank 7
+  ]
+  edge
+  [
+    source 80
+    target 12
+    rank 8
+  ]
+  edge
+  [
+    source 80
+    target 0
     rank 19
   ]
   edge
   [
-    source 108
-    target 75
-    rank 7
+    source 80
+    target 23
+    rank 20
   ]
   edge
   [
-    source 108
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 109
-    target 48
-    rank 1
-  ]
-  edge
-  [
-    source 109
-    target 72
-    rank 2
-  ]
-  edge
-  [
-    source 109
-    target 9
-    rank 3
-  ]
-  edge
-  [
-    source 109
-    target 148
-    rank 6
-  ]
-  edge
-  [
-    source 109
-    target 112
-    rank 8
-  ]
-  edge
-  [
-    source 109
-    target 85
-    rank 9
-  ]
-  edge
-  [
-    source 109
-    target 16
-    rank 12
-  ]
-  edge
-  [
-    source 109
-    target 194
-    rank 14
-  ]
-  edge
-  [
-    source 109
-    target 31
-    rank 16
-  ]
-  edge
-  [
-    source 112
-    target 168
-    rank 3
-  ]
-  edge
-  [
-    source 113
-    target 173
-    rank 1
-  ]
-  edge
-  [
-    source 113
-    target 9
-    rank 2
-  ]
-  edge
-  [
-    source 113
+    source 81
     target 6
-    rank 3
+    rank 1
   ]
   edge
   [
-    source 113
-    target 33
-    rank 5
+    source 81
+    target 123
+    rank 2
   ]
   edge
   [
-    source 113
-    target 194
-    rank 6
-  ]
-  edge
-  [
-    source 113
-    target 78
-    rank 7
-  ]
-  edge
-  [
-    source 113
+    source 81
     target 108
-    rank 8
+    rank 10
   ]
   edge
   [
-    source 113
-    target 24
-    rank 9
-  ]
-  edge
-  [
-    source 113
+    source 82
     target 31
     rank 11
   ]
   edge
   [
-    source 113
-    target 21
-    rank 13
+    source 83
+    target 47
+    rank 3
   ]
   edge
   [
-    source 113
-    target 124
-    rank 14
+    source 83
+    target 19
+    rank 7
   ]
   edge
   [
-    source 113
-    target 14
-    rank 15
+    source 83
+    target 55
+    rank 8
   ]
   edge
   [
-    source 113
-    target 37
+    source 83
+    target 3
     rank 16
   ]
   edge
   [
-    source 113
-    target 3
-    rank 18
-  ]
-  edge
-  [
-    source 114
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 116
-    target 6
+    source 84
+    target 80
     rank 1
   ]
   edge
   [
-    source 116
-    target 3
+    source 84
+    target 0
     rank 2
   ]
   edge
   [
-    source 116
+    source 84
+    target 9
+    rank 3
+  ]
+  edge
+  [
+    source 84
+    target 156
+    rank 4
+  ]
+  edge
+  [
+    source 84
+    target 208
+    rank 6
+  ]
+  edge
+  [
+    source 84
+    target 145
+    rank 12
+  ]
+  edge
+  [
+    source 85
+    target 14
+    rank 18
+  ]
+  edge
+  [
+    source 86
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 86
+    target 76
+    rank 2
+  ]
+  edge
+  [
+    source 86
+    target 80
+    rank 5
+  ]
+  edge
+  [
+    source 86
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 87
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 87
+    target 80
+    rank 2
+  ]
+  edge
+  [
+    source 87
+    target 176
+    rank 3
+  ]
+  edge
+  [
+    source 87
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 87
+    target 167
+    rank 8
+  ]
+  edge
+  [
+    source 87
+    target 67
+    rank 10
+  ]
+  edge
+  [
+    source 87
+    target 29
+    rank 16
+  ]
+  edge
+  [
+    source 87
+    target 23
+    rank 19
+  ]
+  edge
+  [
+    source 88
+    target 121
+    rank 1
+  ]
+  edge
+  [
+    source 88
+    target 27
+    rank 2
+  ]
+  edge
+  [
+    source 88
+    target 42
+    rank 3
+  ]
+  edge
+  [
+    source 88
+    target 9
+    rank 4
+  ]
+  edge
+  [
+    source 88
+    target 125
+    rank 5
+  ]
+  edge
+  [
+    source 88
+    target 12
+    rank 7
+  ]
+  edge
+  [
+    source 88
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 88
+    target 6
+    rank 14
+  ]
+  edge
+  [
+    source 88
+    target 80
+    rank 16
+  ]
+  edge
+  [
+    source 88
+    target 29
+    rank 18
+  ]
+  edge
+  [
+    source 89
+    target 45
+    rank 1
+  ]
+  edge
+  [
+    source 89
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 91
+    target 136
+    rank 5
+  ]
+  edge
+  [
+    source 91
+    target 116
+    rank 14
+  ]
+  edge
+  [
+    source 91
+    target 19
+    rank 19
+  ]
+  edge
+  [
+    source 92
+    target 45
+    rank 1
+  ]
+  edge
+  [
+    source 92
+    target 47
+    rank 2
+  ]
+  edge
+  [
+    source 92
+    target 176
+    rank 5
+  ]
+  edge
+  [
+    source 92
+    target 9
+    rank 7
+  ]
+  edge
+  [
+    source 92
+    target 12
+    rank 9
+  ]
+  edge
+  [
+    source 92
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 92
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 92
+    target 167
+    rank 18
+  ]
+  edge
+  [
+    source 92
+    target 80
+    rank 19
+  ]
+  edge
+  [
+    source 93
+    target 104
+    rank 3
+  ]
+  edge
+  [
+    source 93
     target 20
     rank 4
   ]
   edge
   [
-    source 117
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 117
-    target 44
+    source 93
+    target 109
     rank 5
   ]
   edge
   [
-    source 117
-    target 76
-    rank 20
+    source 93
+    target 69
+    rank 7
   ]
   edge
   [
-    source 118
+    source 94
+    target 226
+    rank 7
+  ]
+  edge
+  [
+    source 95
+    target 15
+    rank 11
+  ]
+  edge
+  [
+    source 96
+    target 150
+    rank 3
+  ]
+  edge
+  [
+    source 96
+    target 40
+    rank 4
+  ]
+  edge
+  [
+    source 96
+    target 163
+    rank 6
+  ]
+  edge
+  [
+    source 97
     target 9
+    rank 5
+  ]
+  edge
+  [
+    source 97
+    target 158
+    rank 16
+  ]
+  edge
+  [
+    source 97
+    target 2
+    rank 17
+  ]
+  edge
+  [
+    source 97
+    target 208
+    rank 18
+  ]
+  edge
+  [
+    source 97
+    target 156
+    rank 19
+  ]
+  edge
+  [
+    source 98
+    target 70
+    rank 7
+  ]
+  edge
+  [
+    source 98
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 99
+    target 45
     rank 1
   ]
   edge
   [
-    source 118
+    source 99
+    target 67
+    rank 2
+  ]
+  edge
+  [
+    source 99
+    target 9
+    rank 3
+  ]
+  edge
+  [
+    source 99
+    target 130
+    rank 6
+  ]
+  edge
+  [
+    source 99
+    target 101
+    rank 8
+  ]
+  edge
+  [
+    source 99
+    target 80
+    rank 9
+  ]
+  edge
+  [
+    source 99
+    target 16
+    rank 12
+  ]
+  edge
+  [
+    source 99
+    target 167
+    rank 14
+  ]
+  edge
+  [
+    source 99
+    target 29
+    rank 16
+  ]
+  edge
+  [
+    source 101
+    target 145
+    rank 3
+  ]
+  edge
+  [
+    source 102
+    target 150
+    rank 1
+  ]
+  edge
+  [
+    source 102
+    target 9
+    rank 2
+  ]
+  edge
+  [
+    source 102
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 102
+    target 31
+    rank 5
+  ]
+  edge
+  [
+    source 102
+    target 167
+    rank 6
+  ]
+  edge
+  [
+    source 102
+    target 73
+    rank 7
+  ]
+  edge
+  [
+    source 102
+    target 98
+    rank 8
+  ]
+  edge
+  [
+    source 102
+    target 23
+    rank 9
+  ]
+  edge
+  [
+    source 102
+    target 29
+    rank 11
+  ]
+  edge
+  [
+    source 102
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 102
+    target 110
+    rank 14
+  ]
+  edge
+  [
+    source 102
+    target 14
+    rank 15
+  ]
+  edge
+  [
+    source 102
+    target 34
+    rank 16
+  ]
+  edge
+  [
+    source 102
+    target 3
+    rank 18
+  ]
+  edge
+  [
+    source 103
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 104
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 104
     target 3
     rank 2
   ]
   edge
   [
-    source 118
-    target 24
-    rank 3
-  ]
-  edge
-  [
-    source 118
-    target 231
+    source 104
+    target 19
     rank 4
   ]
   edge
   [
-    source 118
+    source 105
+    target 31
+    rank 4
+  ]
+  edge
+  [
+    source 105
+    target 41
+    rank 5
+  ]
+  edge
+  [
+    source 105
+    target 71
+    rank 20
+  ]
+  edge
+  [
+    source 106
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 106
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 106
+    target 23
+    rank 3
+  ]
+  edge
+  [
+    source 106
+    target 191
+    rank 4
+  ]
+  edge
+  [
+    source 106
     target 6
     rank 5
   ]
   edge
   [
-    source 118
-    target 21
+    source 106
+    target 20
     rank 7
+  ]
+  edge
+  [
+    source 107
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 108
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 108
+    target 123
+    rank 2
+  ]
+  edge
+  [
+    source 109
+    target 69
+    rank 1
+  ]
+  edge
+  [
+    source 109
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 109
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 109
+    target 14
+    rank 15
+  ]
+  edge
+  [
+    source 111
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 111
+    target 116
+    rank 19
+  ]
+  edge
+  [
+    source 112
+    target 148
+    rank 1
+  ]
+  edge
+  [
+    source 113
+    target 176
+    rank 18
+  ]
+  edge
+  [
+    source 113
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 114
+    target 45
+    rank 1
+  ]
+  edge
+  [
+    source 114
+    target 75
+    rank 4
+  ]
+  edge
+  [
+    source 116
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 116
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 117
+    target 31
+    rank 3
+  ]
+  edge
+  [
+    source 117
+    target 15
+    rank 6
+  ]
+  edge
+  [
+    source 117
+    target 71
+    rank 15
+  ]
+  edge
+  [
+    source 118
+    target 138
+    rank 2
   ]
   edge
   [
@@ -9863,3968 +14075,3848 @@ graph
   ]
   edge
   [
-    source 122
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 122
-    target 140
-    rank 2
-  ]
-  edge
-  [
-    source 123
-    target 74
-    rank 1
-  ]
-  edge
-  [
-    source 123
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 123
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 123
-    target 14
-    rank 15
-  ]
-  edge
-  [
-    source 125
-    target 3
+    source 120
+    target 124
     rank 8
   ]
   edge
   [
-    source 125
-    target 131
-    rank 19
-  ]
-  edge
-  [
-    source 126
-    target 171
-    rank 1
-  ]
-  edge
-  [
-    source 127
-    target 210
-    rank 18
-  ]
-  edge
-  [
-    source 127
-    target 9
-    rank 20
-  ]
-  edge
-  [
-    source 128
-    target 48
-    rank 1
-  ]
-  edge
-  [
-    source 128
-    target 80
-    rank 4
-  ]
-  edge
-  [
-    source 131
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 131
-    target 0
-    rank 9
-  ]
-  edge
-  [
-    source 132
-    target 33
-    rank 3
-  ]
-  edge
-  [
-    source 132
-    target 15
-    rank 6
-  ]
-  edge
-  [
-    source 132
-    target 76
-    rank 15
-  ]
-  edge
-  [
-    source 134
-    target 157
-    rank 2
-  ]
-  edge
-  [
-    source 136
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 136
-    target 141
-    rank 8
-  ]
-  edge
-  [
-    source 136
-    target 230
+    source 120
+    target 190
     rank 14
   ]
   edge
   [
-    source 136
+    source 120
     target 14
     rank 16
   ]
   edge
   [
-    source 138
+    source 121
     target 3
     rank 3
   ]
   edge
   [
-    source 138
+    source 121
     target 12
     rank 4
   ]
   edge
   [
-    source 138
-    target 24
+    source 121
+    target 23
     rank 6
   ]
   edge
   [
-    source 138
-    target 81
+    source 121
+    target 76
     rank 13
   ]
   edge
   [
-    source 138
-    target 85
+    source 121
+    target 80
     rank 15
   ]
   edge
   [
-    source 140
-    target 31
+    source 123
+    target 29
     rank 3
   ]
   edge
   [
-    source 140
+    source 123
     target 6
     rank 20
   ]
   edge
   [
-    source 141
-    target 40
+    source 124
+    target 37
     rank 12
   ]
   edge
   [
-    source 141
-    target 95
+    source 124
+    target 87
     rank 15
   ]
   edge
   [
-    source 141
-    target 177
+    source 124
+    target 153
     rank 18
   ]
   edge
   [
-    source 142
-    target 97
+    source 125
+    target 88
     rank 1
   ]
   edge
   [
-    source 142
-    target 132
+    source 125
+    target 117
     rank 7
   ]
   edge
   [
-    source 143
-    target 102
+    source 126
+    target 92
     rank 1
   ]
   edge
   [
-    source 143
-    target 71
+    source 126
+    target 66
     rank 2
   ]
   edge
   [
-    source 143
-    target 33
+    source 126
+    target 31
     rank 4
   ]
   edge
   [
-    source 143
-    target 138
+    source 126
+    target 121
     rank 6
   ]
   edge
   [
-    source 143
-    target 173
+    source 126
+    target 150
     rank 7
   ]
   edge
   [
-    source 143
+    source 126
     target 10
     rank 9
   ]
   edge
   [
-    source 143
-    target 189
+    source 126
+    target 163
     rank 10
   ]
   edge
   [
-    source 143
-    target 151
+    source 126
+    target 133
     rank 12
   ]
   edge
   [
-    source 143
-    target 24
+    source 126
+    target 23
     rank 14
   ]
   edge
   [
-    source 143
-    target 20
+    source 126
+    target 19
     rank 15
   ]
   edge
   [
-    source 143
+    source 126
     target 6
     rank 17
   ]
   edge
   [
-    source 143
+    source 126
     target 14
     rank 18
   ]
   edge
   [
-    source 146
-    target 97
+    source 128
+    target 88
     rank 1
   ]
   edge
   [
-    source 146
-    target 138
+    source 128
+    target 121
     rank 2
   ]
   edge
   [
-    source 146
-    target 28
+    source 128
+    target 27
     rank 4
   ]
   edge
   [
-    source 146
-    target 79
+    source 128
+    target 74
     rank 5
   ]
   edge
   [
-    source 146
-    target 117
+    source 128
+    target 105
     rank 6
   ]
   edge
   [
-    source 146
-    target 80
+    source 128
+    target 75
     rank 8
   ]
   edge
   [
-    source 146
-    target 72
+    source 128
+    target 67
     rank 11
   ]
   edge
   [
-    source 146
-    target 179
+    source 128
+    target 155
     rank 12
   ]
   edge
   [
-    source 146
-    target 31
+    source 128
+    target 29
     rank 13
   ]
   edge
   [
-    source 146
+    source 128
     target 3
     rank 14
   ]
   edge
   [
-    source 146
+    source 128
     target 14
     rank 18
   ]
   edge
   [
-    source 147
-    target 117
+    source 129
+    target 105
     rank 9
   ]
   edge
   [
-    source 147
-    target 76
+    source 129
+    target 71
     rank 18
   ]
   edge
   [
-    source 148
-    target 164
+    source 130
+    target 143
     rank 1
   ]
   edge
   [
-    source 148
-    target 68
+    source 130
+    target 64
     rank 10
   ]
   edge
   [
-    source 149
-    target 76
+    source 131
+    target 71
     rank 13
   ]
   edge
   [
-    source 151
+    source 133
     target 0
     rank 7
   ]
   edge
   [
-    source 152
-    target 20
+    source 134
+    target 19
     rank 7
   ]
   edge
   [
-    source 153
-    target 116
+    source 135
+    target 104
     rank 2
   ]
   edge
   [
-    source 153
-    target 24
+    source 135
+    target 23
     rank 10
   ]
   edge
   [
-    source 155
-    target 101
+    source 136
+    target 91
     rank 2
   ]
   edge
   [
-    source 155
-    target 191
+    source 136
+    target 164
     rank 15
   ]
   edge
   [
-    source 156
-    target 211
+    source 137
+    target 177
     rank 1
   ]
   edge
   [
-    source 156
-    target 258
+    source 137
+    target 212
     rank 10
   ]
   edge
   [
-    source 157
-    target 222
+    source 138
+    target 184
     rank 1
   ]
   edge
   [
-    source 157
-    target 177
+    source 138
+    target 153
     rank 3
   ]
   edge
   [
-    source 157
-    target 134
+    source 138
+    target 118
     rank 4
   ]
   edge
   [
-    source 157
-    target 74
+    source 138
+    target 69
     rank 11
   ]
   edge
   [
-    source 158
-    target 24
+    source 139
+    target 23
     rank 10
   ]
   edge
   [
-    source 158
-    target 91
+    source 139
+    target 84
     rank 16
   ]
   edge
   [
-    source 158
-    target 113
+    source 139
+    target 102
     rank 17
   ]
   edge
   [
-    source 162
-    target 151
+    source 141
+    target 133
     rank 2
   ]
   edge
   [
-    source 162
-    target 157
+    source 141
+    target 138
     rank 3
   ]
   edge
   [
-    source 162
-    target 221
+    source 141
+    target 183
     rank 9
   ]
   edge
   [
-    source 163
+    source 142
     target 9
     rank 1
   ]
   edge
   [
-    source 170
-    target 80
+    source 147
+    target 75
     rank 2
   ]
   edge
   [
-    source 171
-    target 126
+    source 148
+    target 112
     rank 1
   ]
   edge
   [
-    source 172
-    target 54
+    source 149
+    target 51
     rank 17
   ]
   edge
   [
-    source 172
-    target 238
+    source 149
+    target 195
     rank 19
   ]
   edge
   [
-    source 174
+    source 151
     target 17
     rank 1
   ]
   edge
   [
-    source 174
+    source 151
     target 6
     rank 2
   ]
   edge
   [
-    source 174
-    target 31
+    source 151
+    target 29
     rank 3
   ]
   edge
   [
-    source 174
-    target 33
+    source 151
+    target 31
     rank 6
   ]
   edge
   [
-    source 174
-    target 112
+    source 151
+    target 101
     rank 9
   ]
   edge
   [
-    source 174
-    target 20
+    source 151
+    target 19
     rank 10
   ]
   edge
   [
-    source 174
+    source 151
     target 3
     rank 11
   ]
   edge
   [
-    source 174
-    target 81
+    source 151
+    target 76
     rank 17
   ]
   edge
   [
-    source 174
-    target 63
+    source 151
+    target 59
     rank 20
   ]
   edge
   [
-    source 176
-    target 155
+    source 152
+    target 136
     rank 4
   ]
   edge
   [
-    source 176
-    target 267
+    source 152
+    target 219
     rank 10
   ]
   edge
   [
-    source 177
-    target 157
+    source 153
+    target 138
     rank 2
   ]
   edge
   [
-    source 177
-    target 72
+    source 153
+    target 67
     rank 8
   ]
   edge
   [
-    source 177
-    target 228
+    source 153
+    target 188
     rank 10
   ]
   edge
   [
-    source 177
-    target 134
+    source 153
+    target 118
     rank 12
   ]
   edge
   [
-    source 177
-    target 85
+    source 153
+    target 80
     rank 15
   ]
   edge
   [
-    source 178
+    source 154
     target 6
     rank 5
   ]
   edge
   [
-    source 178
-    target 33
+    source 154
+    target 31
     rank 6
   ]
   edge
   [
-    source 178
-    target 248
+    source 154
+    target 204
     rank 8
   ]
   edge
   [
-    source 178
+    source 154
     target 12
     rank 11
   ]
   edge
   [
-    source 179
-    target 146
+    source 155
+    target 128
     rank 5
   ]
   edge
   [
-    source 180
-    target 59
+    source 156
+    target 55
     rank 1
   ]
   edge
   [
-    source 180
-    target 252
+    source 156
+    target 208
     rank 4
   ]
   edge
   [
-    source 182
-    target 300
+    source 158
+    target 241
     rank 18
   ]
   edge
   [
-    source 185
-    target 81
+    source 160
+    target 76
     rank 1
   ]
   edge
   [
-    source 185
-    target 100
+    source 160
+    target 90
     rank 3
   ]
   edge
   [
-    source 185
-    target 113
+    source 160
+    target 102
     rank 4
   ]
   edge
   [
-    source 185
-    target 164
+    source 160
+    target 143
     rank 9
   ]
   edge
   [
-    source 186
-    target 135
+    source 161
+    target 119
     rank 4
   ]
   edge
   [
-    source 188
-    target 24
+    source 162
+    target 23
     rank 1
   ]
   edge
   [
-    source 188
-    target 135
+    source 162
+    target 119
     rank 3
   ]
   edge
   [
-    source 188
+    source 162
     target 3
     rank 10
   ]
   edge
   [
-    source 188
+    source 162
     target 1
     rank 12
   ]
   edge
   [
-    source 188
-    target 21
+    source 162
+    target 20
     rank 19
   ]
   edge
   [
-    source 189
-    target 24
+    source 163
+    target 23
     rank 1
   ]
   edge
   [
-    source 189
-    target 118
+    source 163
+    target 106
     rank 5
   ]
   edge
   [
-    source 189
+    source 163
     target 9
     rank 7
   ]
   edge
   [
-    source 189
+    source 163
+    target 89
+    rank 9
+  ]
+  edge
+  [
+    source 165
+    target 259
+    rank 4
+  ]
+  edge
+  [
+    source 166
+    target 133
+    rank 1
+  ]
+  edge
+  [
+    source 166
+    target 12
+    rank 2
+  ]
+  edge
+  [
+    source 166
+    target 138
+    rank 5
+  ]
+  edge
+  [
+    source 166
+    target 118
+    rank 20
+  ]
+  edge
+  [
+    source 167
+    target 67
+    rank 1
+  ]
+  edge
+  [
+    source 167
+    target 45
+    rank 3
+  ]
+  edge
+  [
+    source 167
+    target 176
+    rank 6
+  ]
+  edge
+  [
+    source 167
+    target 29
+    rank 7
+  ]
+  edge
+  [
+    source 167
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 167
     target 99
+    rank 9
+  ]
+  edge
+  [
+    source 167
+    target 87
+    rank 14
+  ]
+  edge
+  [
+    source 167
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 167
+    target 51
+    rank 19
+  ]
+  edge
+  [
+    source 168
+    target 62
+    rank 11
+  ]
+  edge
+  [
+    source 168
+    target 272
+    rank 18
+  ]
+  edge
+  [
+    source 170
+    target 178
+    rank 2
+  ]
+  edge
+  [
+    source 170
+    target 215
+    rank 7
+  ]
+  edge
+  [
+    source 170
+    target 177
+    rank 14
+  ]
+  edge
+  [
+    source 170
+    target 255
+    rank 15
+  ]
+  edge
+  [
+    source 170
+    target 196
+    rank 16
+  ]
+  edge
+  [
+    source 171
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 171
+    target 20
+    rank 6
+  ]
+  edge
+  [
+    source 172
+    target 176
+    rank 2
+  ]
+  edge
+  [
+    source 173
+    target 80
+    rank 1
+  ]
+  edge
+  [
+    source 173
+    target 9
+    rank 2
+  ]
+  edge
+  [
+    source 173
+    target 23
+    rank 6
+  ]
+  edge
+  [
+    source 174
+    target 199
+    rank 4
+  ]
+  edge
+  [
+    source 174
+    target 150
+    rank 5
+  ]
+  edge
+  [
+    source 174
+    target 14
+    rank 6
+  ]
+  edge
+  [
+    source 174
+    target 268
+    rank 7
+  ]
+  edge
+  [
+    source 174
+    target 192
+    rank 13
+  ]
+  edge
+  [
+    source 174
+    target 165
+    rank 18
+  ]
+  edge
+  [
+    source 175
+    target 92
+    rank 14
+  ]
+  edge
+  [
+    source 175
+    target 87
+    rank 16
+  ]
+  edge
+  [
+    source 175
+    target 167
+    rank 17
+  ]
+  edge
+  [
+    source 176
+    target 45
+    rank 2
+  ]
+  edge
+  [
+    source 176
+    target 9
+    rank 4
+  ]
+  edge
+  [
+    source 176
+    target 80
+    rank 6
+  ]
+  edge
+  [
+    source 176
+    target 67
+    rank 7
+  ]
+  edge
+  [
+    source 176
+    target 167
+    rank 13
+  ]
+  edge
+  [
+    source 176
+    target 23
+    rank 16
+  ]
+  edge
+  [
+    source 177
+    target 178
+    rank 3
+  ]
+  edge
+  [
+    source 177
+    target 209
+    rank 5
+  ]
+  edge
+  [
+    source 178
+    target 177
+    rank 2
+  ]
+  edge
+  [
+    source 179
+    target 15
+    rank 18
+  ]
+  edge
+  [
+    source 180
+    target 195
+    rank 1
+  ]
+  edge
+  [
+    source 182
+    target 133
+    rank 13
+  ]
+  edge
+  [
+    source 183
+    target 188
+    rank 2
+  ]
+  edge
+  [
+    source 183
+    target 122
+    rank 13
+  ]
+  edge
+  [
+    source 183
+    target 159
+    rank 20
+  ]
+  edge
+  [
+    source 184
+    target 69
+    rank 3
+  ]
+  edge
+  [
+    source 185
+    target 132
+    rank 4
+  ]
+  edge
+  [
+    source 185
+    target 69
+    rank 6
+  ]
+  edge
+  [
+    source 185
+    target 283
+    rank 19
+  ]
+  edge
+  [
+    source 186
+    target 195
+    rank 1
+  ]
+  edge
+  [
+    source 186
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 187
+    target 26
+    rank 5
+  ]
+  edge
+  [
+    source 187
+    target 174
+    rank 12
+  ]
+  edge
+  [
+    source 188
+    target 37
+    rank 3
+  ]
+  edge
+  [
+    source 188
+    target 118
+    rank 4
+  ]
+  edge
+  [
+    source 188
+    target 133
+    rank 5
+  ]
+  edge
+  [
+    source 188
+    target 166
+    rank 6
+  ]
+  edge
+  [
+    source 188
+    target 67
+    rank 11
+  ]
+  edge
+  [
+    source 188
+    target 153
+    rank 13
+  ]
+  edge
+  [
+    source 188
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 189
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 189
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 192
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 192
+    target 177
+    rank 7
+  ]
+  edge
+  [
+    source 192
+    target 167
+    rank 8
+  ]
+  edge
+  [
+    source 192
+    target 59
     rank 9
   ]
   edge
   [
     source 192
-    target 331
-    rank 4
-  ]
-  edge
-  [
-    source 193
-    target 151
-    rank 1
-  ]
-  edge
-  [
-    source 193
-    target 12
-    rank 2
-  ]
-  edge
-  [
-    source 193
-    target 157
-    rank 5
-  ]
-  edge
-  [
-    source 193
-    target 134
+    target 174
     rank 20
   ]
   edge
   [
-    source 194
-    target 72
-    rank 1
-  ]
-  edge
-  [
-    source 194
-    target 48
-    rank 3
-  ]
-  edge
-  [
-    source 194
-    target 210
-    rank 6
-  ]
-  edge
-  [
-    source 194
-    target 31
-    rank 7
-  ]
-  edge
-  [
-    source 194
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 194
-    target 109
-    rank 9
-  ]
-  edge
-  [
-    source 194
-    target 95
-    rank 14
-  ]
-  edge
-  [
-    source 194
-    target 24
-    rank 16
-  ]
-  edge
-  [
-    source 194
-    target 54
-    rank 19
-  ]
-  edge
-  [
-    source 198
-    target 66
-    rank 11
-  ]
-  edge
-  [
-    source 198
-    target 350
-    rank 18
-  ]
-  edge
-  [
-    source 200
-    target 213
-    rank 2
-  ]
-  edge
-  [
-    source 200
-    target 262
-    rank 7
-  ]
-  edge
-  [
-    source 200
-    target 211
-    rank 14
-  ]
-  edge
-  [
-    source 200
-    target 324
-    rank 15
-  ]
-  edge
-  [
-    source 200
-    target 239
-    rank 16
-  ]
-  edge
-  [
-    source 201
-    target 3
+    source 193
+    target 47
     rank 4
   ]
   edge
   [
-    source 201
-    target 21
-    rank 6
-  ]
-  edge
-  [
-    source 203
-    target 210
-    rank 2
-  ]
-  edge
-  [
-    source 205
-    target 85
-    rank 1
-  ]
-  edge
-  [
-    source 205
-    target 9
-    rank 2
-  ]
-  edge
-  [
-    source 205
-    target 24
-    rank 6
-  ]
-  edge
-  [
-    source 207
-    target 242
-    rank 4
-  ]
-  edge
-  [
-    source 207
-    target 173
-    rank 5
-  ]
-  edge
-  [
-    source 207
-    target 14
-    rank 6
-  ]
-  edge
-  [
-    source 207
-    target 346
-    rank 7
-  ]
-  edge
-  [
-    source 207
-    target 234
-    rank 13
-  ]
-  edge
-  [
-    source 207
-    target 192
-    rank 18
-  ]
-  edge
-  [
-    source 208
-    target 102
-    rank 14
-  ]
-  edge
-  [
-    source 208
-    target 95
-    rank 16
-  ]
-  edge
-  [
-    source 208
-    target 194
-    rank 17
-  ]
-  edge
-  [
-    source 210
-    target 48
-    rank 2
-  ]
-  edge
-  [
-    source 210
-    target 9
-    rank 4
-  ]
-  edge
-  [
-    source 210
-    target 85
-    rank 6
-  ]
-  edge
-  [
-    source 210
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 210
-    target 194
-    rank 13
-  ]
-  edge
-  [
-    source 210
-    target 24
-    rank 16
-  ]
-  edge
-  [
-    source 211
-    target 213
-    rank 3
-  ]
-  edge
-  [
-    source 211
-    target 253
-    rank 5
-  ]
-  edge
-  [
-    source 213
-    target 211
-    rank 2
-  ]
-  edge
-  [
-    source 214
-    target 15
-    rank 18
-  ]
-  edge
-  [
-    source 215
-    target 238
-    rank 1
-  ]
-  edge
-  [
-    source 220
-    target 151
-    rank 13
-  ]
-  edge
-  [
-    source 221
-    target 228
-    rank 2
-  ]
-  edge
-  [
-    source 221
-    target 139
-    rank 13
-  ]
-  edge
-  [
-    source 221
-    target 184
-    rank 20
-  ]
-  edge
-  [
-    source 222
-    target 74
-    rank 3
-  ]
-  edge
-  [
-    source 223
-    target 150
-    rank 4
-  ]
-  edge
-  [
-    source 223
-    target 74
-    rank 6
-  ]
-  edge
-  [
-    source 223
-    target 371
-    rank 19
-  ]
-  edge
-  [
-    source 224
-    target 238
-    rank 1
-  ]
-  edge
-  [
-    source 224
-    target 0
-    rank 4
-  ]
-  edge
-  [
-    source 225
-    target 27
-    rank 5
-  ]
-  edge
-  [
-    source 225
-    target 207
-    rank 12
-  ]
-  edge
-  [
-    source 228
-    target 40
-    rank 3
-  ]
-  edge
-  [
-    source 228
-    target 134
-    rank 4
-  ]
-  edge
-  [
-    source 228
-    target 151
-    rank 5
-  ]
-  edge
-  [
-    source 228
-    target 193
-    rank 6
-  ]
-  edge
-  [
-    source 228
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 228
-    target 177
-    rank 13
-  ]
-  edge
-  [
-    source 228
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 229
-    target 250
-    rank 1
-  ]
-  edge
-  [
-    source 229
-    target 2
-    rank 8
-  ]
-  edge
-  [
-    source 234
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 234
-    target 211
-    rank 7
-  ]
-  edge
-  [
-    source 234
-    target 194
-    rank 8
-  ]
-  edge
-  [
-    source 234
-    target 63
-    rank 9
-  ]
-  edge
-  [
-    source 234
-    target 207
-    rank 20
-  ]
-  edge
-  [
-    source 235
-    target 50
-    rank 4
-  ]
-  edge
-  [
-    source 235
+    source 193
     target 10
     rank 5
   ]
   edge
   [
-    source 239
-    target 211
+    source 196
+    target 177
     rank 2
   ]
   edge
   [
-    source 239
-    target 200
+    source 196
+    target 170
     rank 5
   ]
   edge
   [
-    source 239
-    target 253
+    source 196
+    target 209
     rank 12
   ]
   edge
   [
-    source 240
-    target 20
-    rank 1
-  ]
-  edge
-  [
-    source 240
-    target 21
-    rank 3
-  ]
-  edge
-  [
-    source 241
-    target 211
-    rank 1
-  ]
-  edge
-  [
-    source 241
-    target 213
-    rank 2
-  ]
-  edge
-  [
-    source 241
-    target 253
-    rank 16
-  ]
-  edge
-  [
-    source 241
-    target 0
-    rank 18
-  ]
-  edge
-  [
-    source 242
-    target 97
-    rank 1
-  ]
-  edge
-  [
-    source 242
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 242
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 242
-    target 142
-    rank 6
-  ]
-  edge
-  [
-    source 242
-    target 179
-    rank 11
-  ]
-  edge
-  [
-    source 242
-    target 308
-    rank 13
-  ]
-  edge
-  [
-    source 242
-    target 146
-    rank 15
-  ]
-  edge
-  [
-    source 242
-    target 207
-    rank 16
-  ]
-  edge
-  [
-    source 244
-    target 280
-    rank 10
-  ]
-  edge
-  [
-    source 246
-    target 242
-    rank 1
-  ]
-  edge
-  [
-    source 246
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 246
-    target 301
-    rank 4
-  ]
-  edge
-  [
-    source 246
-    target 314
-    rank 7
-  ]
-  edge
-  [
-    source 246
-    target 282
-    rank 9
-  ]
-  edge
-  [
-    source 246
-    target 272
-    rank 10
-  ]
-  edge
-  [
-    source 246
-    target 331
-    rank 12
-  ]
-  edge
-  [
-    source 246
-    target 308
-    rank 15
-  ]
-  edge
-  [
-    source 246
-    target 280
-    rank 17
-  ]
-  edge
-  [
-    source 247
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 247
-    target 219
-    rank 5
-  ]
-  edge
-  [
-    source 248
-    target 33
-    rank 2
-  ]
-  edge
-  [
-    source 248
-    target 26
-    rank 4
-  ]
-  edge
-  [
-    source 248
-    target 242
-    rank 6
-  ]
-  edge
-  [
-    source 248
-    target 308
-    rank 14
-  ]
-  edge
-  [
-    source 248
-    target 314
-    rank 20
-  ]
-  edge
-  [
-    source 249
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 249
-    target 16
-    rank 15
-  ]
-  edge
-  [
-    source 249
-    target 181
-    rank 17
-  ]
-  edge
-  [
-    source 250
-    target 343
-    rank 9
-  ]
-  edge
-  [
-    source 251
-    target 66
-    rank 1
-  ]
-  edge
-  [
-    source 251
-    target 198
-    rank 8
-  ]
-  edge
-  [
-    source 252
-    target 180
-    rank 1
-  ]
-  edge
-  [
-    source 252
-    target 182
-    rank 2
-  ]
-  edge
-  [
-    source 252
-    target 58
-    rank 8
-  ]
-  edge
-  [
-    source 253
-    target 211
-    rank 1
-  ]
-  edge
-  [
-    source 253
-    target 241
-    rank 3
-  ]
-  edge
-  [
-    source 256
-    target 33
-    rank 2
-  ]
-  edge
-  [
-    source 256
-    target 269
-    rank 5
-  ]
-  edge
-  [
-    source 256
-    target 317
-    rank 16
-  ]
-  edge
-  [
-    source 257
-    target 248
-    rank 2
-  ]
-  edge
-  [
-    source 258
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 258
-    target 266
-    rank 19
-  ]
-  edge
-  [
-    source 259
-    target 97
-    rank 1
-  ]
-  edge
-  [
-    source 259
-    target 146
-    rank 4
-  ]
-  edge
-  [
-    source 259
-    target 207
-    rank 10
-  ]
-  edge
-  [
-    source 261
-    target 437
-    rank 18
-  ]
-  edge
-  [
-    source 262
-    target 200
-    rank 2
-  ]
-  edge
-  [
-    source 262
-    target 239
-    rank 6
-  ]
-  edge
-  [
-    source 265
-    target 13
-    rank 5
-  ]
-  edge
-  [
-    source 269
-    target 20
-    rank 1
-  ]
-  edge
-  [
-    source 269
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 269
-    target 242
-    rank 4
-  ]
-  edge
-  [
-    source 269
-    target 207
-    rank 9
-  ]
-  edge
-  [
-    source 269
-    target 330
-    rank 16
-  ]
-  edge
-  [
-    source 270
-    target 191
-    rank 1
-  ]
-  edge
-  [
-    source 270
-    target 26
-    rank 4
-  ]
-  edge
-  [
-    source 270
-    target 263
-    rank 6
-  ]
-  edge
-  [
-    source 270
-    target 405
-    rank 11
-  ]
-  edge
-  [
-    source 270
-    target 317
-    rank 17
-  ]
-  edge
-  [
-    source 270
-    target 256
-    rank 19
-  ]
-  edge
-  [
-    source 270
-    target 374
-    rank 20
-  ]
-  edge
-  [
-    source 271
-    target 9
-    rank 9
-  ]
-  edge
-  [
-    source 271
-    target 242
-    rank 14
-  ]
-  edge
-  [
-    source 272
-    target 33
-    rank 1
-  ]
-  edge
-  [
-    source 272
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 272
-    target 242
-    rank 4
-  ]
-  edge
-  [
-    source 272
-    target 117
-    rank 6
-  ]
-  edge
-  [
-    source 272
-    target 26
-    rank 7
-  ]
-  edge
-  [
-    source 272
-    target 301
-    rank 8
-  ]
-  edge
-  [
-    source 272
-    target 308
-    rank 9
-  ]
-  edge
-  [
-    source 272
-    target 246
-    rank 14
-  ]
-  edge
-  [
-    source 272
-    target 280
-    rank 16
-  ]
-  edge
-  [
-    source 272
-    target 282
-    rank 17
-  ]
-  edge
-  [
-    source 272
-    target 248
-    rank 20
-  ]
-  edge
-  [
-    source 274
-    target 263
-    rank 19
-  ]
-  edge
-  [
-    source 275
-    target 312
-    rank 1
-  ]
-  edge
-  [
-    source 275
-    target 301
-    rank 8
-  ]
-  edge
-  [
-    source 276
-    target 266
-    rank 1
-  ]
-  edge
-  [
-    source 276
-    target 295
-    rank 11
-  ]
-  edge
-  [
-    source 276
-    target 258
-    rank 13
-  ]
-  edge
-  [
-    source 276
-    target 297
-    rank 18
-  ]
-  edge
-  [
-    source 282
-    target 331
-    rank 6
-  ]
-  edge
-  [
-    source 282
-    target 244
-    rank 10
-  ]
-  edge
-  [
-    source 283
-    target 95
-    rank 16
-  ]
-  edge
-  [
-    source 283
-    target 85
-    rank 17
-  ]
-  edge
-  [
-    source 283
-    target 2
-    rank 19
-  ]
-  edge
-  [
-    source 285
-    target 81
-    rank 8
-  ]
-  edge
-  [
-    source 287
-    target 244
-    rank 8
-  ]
-  edge
-  [
-    source 288
-    target 168
-    rank 5
-  ]
-  edge
-  [
-    source 290
-    target 248
-    rank 2
-  ]
-  edge
-  [
-    source 290
-    target 33
-    rank 16
-  ]
-  edge
-  [
-    source 290
-    target 25
-    rank 17
-  ]
-  edge
-  [
-    source 290
-    target 117
-    rank 18
-  ]
-  edge
-  [
-    source 290
-    target 26
-    rank 19
-  ]
-  edge
-  [
-    source 290
-    target 257
-    rank 20
-  ]
-  edge
-  [
-    source 291
-    target 33
-    rank 1
-  ]
-  edge
-  [
-    source 291
-    target 35
-    rank 2
-  ]
-  edge
-  [
-    source 292
-    target 24
-    rank 8
-  ]
-  edge
-  [
-    source 292
-    target 41
-    rank 16
-  ]
-  edge
-  [
-    source 294
-    target 242
-    rank 15
-  ]
-  edge
-  [
-    source 295
-    target 297
-    rank 12
-  ]
-  edge
-  [
-    source 297
-    target 295
-    rank 3
-  ]
-  edge
-  [
-    source 298
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 299
-    target 263
-    rank 12
-  ]
-  edge
-  [
-    source 300
-    target 332
-    rank 1
-  ]
-  edge
-  [
-    source 301
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 301
-    target 242
-    rank 7
-  ]
-  edge
-  [
-    source 301
-    target 308
-    rank 11
-  ]
-  edge
-  [
-    source 301
-    target 272
-    rank 18
-  ]
-  edge
-  [
-    source 301
-    target 280
-    rank 20
-  ]
-  edge
-  [
-    source 302
-    target 84
-    rank 3
-  ]
-  edge
-  [
-    source 304
-    target 117
-    rank 2
-  ]
-  edge
-  [
-    source 304
-    target 149
-    rank 3
-  ]
-  edge
-  [
-    source 304
-    target 171
-    rank 5
-  ]
-  edge
-  [
-    source 308
-    target 59
-    rank 1
-  ]
-  edge
-  [
-    source 308
-    target 85
-    rank 2
-  ]
-  edge
-  [
-    source 308
-    target 25
-    rank 3
-  ]
-  edge
-  [
-    source 308
-    target 117
-    rank 4
-  ]
-  edge
-  [
-    source 308
-    target 242
-    rank 6
-  ]
-  edge
-  [
-    source 308
-    target 246
-    rank 8
-  ]
-  edge
-  [
-    source 308
-    target 26
-    rank 9
-  ]
-  edge
-  [
-    source 308
-    target 44
-    rank 10
-  ]
-  edge
-  [
-    source 308
-    target 15
-    rank 14
-  ]
-  edge
-  [
-    source 308
-    target 257
-    rank 15
-  ]
-  edge
-  [
-    source 308
-    target 41
-    rank 20
-  ]
-  edge
-  [
-    source 309
-    target 14
-    rank 7
-  ]
-  edge
-  [
-    source 309
-    target 66
-    rank 9
-  ]
-  edge
-  [
-    source 309
-    target 0
-    rank 19
-  ]
-  edge
-  [
-    source 309
-    target 6
-    rank 20
-  ]
-  edge
-  [
-    source 312
-    target 242
-    rank 1
-  ]
-  edge
-  [
-    source 312
-    target 301
-    rank 2
-  ]
-  edge
-  [
-    source 312
-    target 308
-    rank 7
-  ]
-  edge
-  [
-    source 312
-    target 280
-    rank 9
-  ]
-  edge
-  [
-    source 312
-    target 331
-    rank 10
-  ]
-  edge
-  [
-    source 312
-    target 248
-    rank 17
-  ]
-  edge
-  [
-    source 312
-    target 246
-    rank 18
-  ]
-  edge
-  [
-    source 313
-    target 238
-    rank 4
-  ]
-  edge
-  [
-    source 313
-    target 215
-    rank 18
-  ]
-  edge
-  [
-    source 314
-    target 123
-    rank 1
-  ]
-  edge
-  [
-    source 314
-    target 81
-    rank 2
-  ]
-  edge
-  [
-    source 314
-    target 100
-    rank 3
-  ]
-  edge
-  [
-    source 314
-    target 74
-    rank 6
-  ]
-  edge
-  [
-    source 314
-    target 242
-    rank 7
-  ]
-  edge
-  [
-    source 314
-    target 308
-    rank 8
-  ]
-  edge
-  [
-    source 314
-    target 246
-    rank 14
-  ]
-  edge
-  [
-    source 314
-    target 331
-    rank 17
-  ]
-  edge
-  [
-    source 314
-    target 248
-    rank 18
-  ]
-  edge
-  [
-    source 317
-    target 199
-    rank 1
-  ]
-  edge
-  [
-    source 317
-    target 207
-    rank 9
-  ]
-  edge
-  [
-    source 317
-    target 269
-    rank 20
-  ]
-  edge
-  [
-    source 319
-    target 117
-    rank 1
-  ]
-  edge
-  [
-    source 319
-    target 85
-    rank 9
-  ]
-  edge
-  [
-    source 320
-    target 245
-    rank 1
-  ]
-  edge
-  [
-    source 323
-    target 97
-    rank 1
-  ]
-  edge
-  [
-    source 323
-    target 122
-    rank 4
-  ]
-  edge
-  [
-    source 323
-    target 207
-    rank 5
-  ]
-  edge
-  [
-    source 324
-    target 200
-    rank 7
-  ]
-  edge
-  [
-    source 324
-    target 239
-    rank 9
-  ]
-  edge
-  [
-    source 325
-    target 85
-    rank 17
-  ]
-  edge
-  [
-    source 327
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 327
-    target 27
-    rank 8
-  ]
-  edge
-  [
-    source 327
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 330
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 330
-    target 207
-    rank 2
-  ]
-  edge
-  [
-    source 330
-    target 3
-    rank 3
-  ]
-  edge
-  [
-    source 331
-    target 118
-    rank 2
-  ]
-  edge
-  [
-    source 331
-    target 242
-    rank 6
-  ]
-  edge
-  [
-    source 331
-    target 308
-    rank 8
-  ]
-  edge
-  [
-    source 331
-    target 41
-    rank 10
-  ]
-  edge
-  [
-    source 331
-    target 14
-    rank 11
-  ]
-  edge
-  [
-    source 331
-    target 280
-    rank 13
-  ]
-  edge
-  [
-    source 331
-    target 246
-    rank 16
-  ]
-  edge
-  [
-    source 331
-    target 282
-    rank 19
-  ]
-  edge
-  [
-    source 332
-    target 300
-    rank 4
-  ]
-  edge
-  [
-    source 333
-    target 3
-    rank 3
-  ]
-  edge
-  [
-    source 335
-    target 81
-    rank 2
-  ]
-  edge
-  [
-    source 335
-    target 7
-    rank 4
-  ]
-  edge
-  [
-    source 335
-    target 100
-    rank 5
-  ]
-  edge
-  [
-    source 335
-    target 78
-    rank 10
-  ]
-  edge
-  [
-    source 335
-    target 307
-    rank 18
-  ]
-  edge
-  [
-    source 339
+    source 197
     target 19
     rank 1
   ]
   edge
   [
-    source 339
-    target 13
-    rank 4
-  ]
-  edge
-  [
-    source 339
-    target 300
-    rank 17
-  ]
-  edge
-  [
-    source 341
-    target 182
-    rank 1
-  ]
-  edge
-  [
-    source 341
-    target 21
+    source 197
+    target 20
     rank 3
   ]
   edge
   [
-    source 341
-    target 250
+    source 198
+    target 177
+    rank 1
+  ]
+  edge
+  [
+    source 198
+    target 178
+    rank 2
+  ]
+  edge
+  [
+    source 198
+    target 209
+    rank 16
+  ]
+  edge
+  [
+    source 198
+    target 0
+    rank 18
+  ]
+  edge
+  [
+    source 199
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 199
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 199
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 199
+    target 125
+    rank 6
+  ]
+  edge
+  [
+    source 199
+    target 155
     rank 11
   ]
   edge
   [
-    source 344
-    target 363
-    rank 5
-  ]
-  edge
-  [
-    source 345
-    target 238
-    rank 1
-  ]
-  edge
-  [
-    source 346
-    target 29
-    rank 4
-  ]
-  edge
-  [
-    source 346
-    target 207
-    rank 6
-  ]
-  edge
-  [
-    source 346
-    target 242
-    rank 9
-  ]
-  edge
-  [
-    source 347
-    target 177
-    rank 2
-  ]
-  edge
-  [
-    source 347
-    target 40
-    rank 10
-  ]
-  edge
-  [
-    source 348
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 348
-    target 193
-    rank 2
-  ]
-  edge
-  [
-    source 349
-    target 20
-    rank 5
-  ]
-  edge
-  [
-    source 350
-    target 21
-    rank 1
-  ]
-  edge
-  [
-    source 350
-    target 198
-    rank 2
-  ]
-  edge
-  [
-    source 351
-    target 48
-    rank 2
-  ]
-  edge
-  [
-    source 351
-    target 78
-    rank 6
-  ]
-  edge
-  [
-    source 351
-    target 130
-    rank 12
-  ]
-  edge
-  [
-    source 353
-    target 85
-    rank 2
-  ]
-  edge
-  [
-    source 353
-    target 44
-    rank 4
-  ]
-  edge
-  [
-    source 353
-    target 76
-    rank 5
-  ]
-  edge
-  [
-    source 353
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 353
-    target 24
-    rank 8
-  ]
-  edge
-  [
-    source 355
-    target 3
-    rank 2
-  ]
-  edge
-  [
-    source 355
-    target 59
-    rank 3
-  ]
-  edge
-  [
-    source 355
-    target 211
-    rank 4
-  ]
-  edge
-  [
-    source 355
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 355
-    target 85
-    rank 19
-  ]
-  edge
-  [
-    source 355
-    target 10
-    rank 20
-  ]
-  edge
-  [
-    source 356
-    target 20
-    rank 1
-  ]
-  edge
-  [
-    source 356
-    target 44
+    source 199
+    target 246
     rank 13
   ]
   edge
   [
-    source 359
-    target 250
-    rank 7
-  ]
-  edge
-  [
-    source 359
-    target 481
-    rank 20
-  ]
-  edge
-  [
-    source 360
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 360
-    target 252
-    rank 14
-  ]
-  edge
-  [
-    source 360
-    target 79
+    source 199
+    target 128
     rank 15
   ]
   edge
   [
-    source 360
-    target 182
+    source 199
+    target 174
     rank 16
   ]
   edge
   [
-    source 360
-    target 48
-    rank 17
-  ]
-  edge
-  [
-    source 360
-    target 54
-    rank 20
-  ]
-  edge
-  [
-    source 361
-    target 371
-    rank 7
-  ]
-  edge
-  [
-    source 364
-    target 20
-    rank 3
-  ]
-  edge
-  [
-    source 364
-    target 82
-    rank 5
-  ]
-  edge
-  [
-    source 364
-    target 61
-    rank 16
-  ]
-  edge
-  [
-    source 370
-    target 363
-    rank 7
-  ]
-  edge
-  [
-    source 375
-    target 363
-    rank 3
-  ]
-  edge
-  [
-    source 378
-    target 7
-    rank 1
-  ]
-  edge
-  [
-    source 378
-    target 173
-    rank 2
-  ]
-  edge
-  [
-    source 378
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 378
-    target 81
-    rank 8
-  ]
-  edge
-  [
-    source 378
-    target 74
-    rank 17
-  ]
-  edge
-  [
-    source 381
-    target 31
-    rank 2
-  ]
-  edge
-  [
-    source 381
-    target 3
-    rank 3
-  ]
-  edge
-  [
-    source 381
-    target 21
-    rank 4
-  ]
-  edge
-  [
-    source 381
-    target 269
+    source 200
+    target 227
     rank 10
   ]
   edge
   [
-    source 382
-    target 102
-    rank 1
-  ]
-  edge
-  [
-    source 382
-    target 117
-    rank 3
-  ]
-  edge
-  [
-    source 382
-    target 15
-    rank 6
-  ]
-  edge
-  [
-    source 382
-    target 3
-    rank 7
-  ]
-  edge
-  [
-    source 382
-    target 126
-    rank 10
-  ]
-  edge
-  [
-    source 382
-    target 21
-    rank 11
-  ]
-  edge
-  [
-    source 383
-    target 33
-    rank 1
-  ]
-  edge
-  [
-    source 383
-    target 20
-    rank 2
-  ]
-  edge
-  [
-    source 383
-    target 13
-    rank 7
-  ]
-  edge
-  [
-    source 383
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 383
-    target 5
-    rank 9
-  ]
-  edge
-  [
-    source 383
-    target 1
-    rank 10
-  ]
-  edge
-  [
-    source 383
-    target 61
-    rank 12
-  ]
-  edge
-  [
-    source 383
-    target 22
-    rank 14
-  ]
-  edge
-  [
-    source 384
-    target 2
-    rank 17
-  ]
-  edge
-  [
-    source 385
-    target 117
-    rank 5
-  ]
-  edge
-  [
-    source 387
-    target 371
-    rank 20
-  ]
-  edge
-  [
-    source 388
-    target 177
-    rank 7
-  ]
-  edge
-  [
-    source 388
-    target 134
-    rank 10
-  ]
-  edge
-  [
-    source 388
-    target 95
-    rank 13
-  ]
-  edge
-  [
-    source 389
-    target 148
-    rank 1
-  ]
-  edge
-  [
-    source 389
-    target 126
-    rank 3
-  ]
-  edge
-  [
-    source 389
-    target 261
-    rank 4
-  ]
-  edge
-  [
-    source 389
-    target 79
-    rank 8
-  ]
-  edge
-  [
-    source 389
-    target 16
-    rank 9
-  ]
-  edge
-  [
-    source 389
-    target 6
-    rank 10
-  ]
-  edge
-  [
-    source 389
-    target 7
-    rank 11
-  ]
-  edge
-  [
-    source 389
-    target 140
-    rank 14
-  ]
-  edge
-  [
-    source 390
-    target 222
-    rank 3
-  ]
-  edge
-  [
-    source 393
-    target 1
-    rank 14
-  ]
-  edge
-  [
-    source 393
-    target 146
-    rank 17
-  ]
-  edge
-  [
-    source 396
+    source 202
     target 199
     rank 1
   ]
   edge
   [
-    source 398
-    target 332
-    rank 6
-  ]
-  edge
-  [
-    source 398
-    target 300
-    rank 9
-  ]
-  edge
-  [
-    source 399
+    source 202
     target 14
-    rank 5
+    rank 2
   ]
   edge
   [
-    source 400
-    target 111
-    rank 6
-  ]
-  edge
-  [
-    source 400
-    target 371
-    rank 20
-  ]
-  edge
-  [
-    source 401
-    target 191
-    rank 1
-  ]
-  edge
-  [
-    source 401
-    target 263
+    source 202
+    target 242
     rank 4
   ]
   edge
   [
-    source 401
-    target 149
-    rank 10
-  ]
-  edge
-  [
-    source 401
-    target 66
-    rank 11
-  ]
-  edge
-  [
-    source 403
-    target 116
-    rank 1
-  ]
-  edge
-  [
-    source 403
-    target 140
-    rank 2
-  ]
-  edge
-  [
-    source 403
-    target 269
-    rank 12
-  ]
-  edge
-  [
-    source 405
-    target 43
-    rank 2
-  ]
-  edge
-  [
-    source 405
-    target 22
-    rank 3
-  ]
-  edge
-  [
-    source 405
-    target 207
-    rank 7
-  ]
-  edge
-  [
-    source 405
-    target 234
-    rank 8
-  ]
-  edge
-  [
-    source 405
-    target 312
-    rank 11
-  ]
-  edge
-  [
-    source 405
-    target 192
-    rank 16
-  ]
-  edge
-  [
-    source 407
-    target 405
-    rank 6
-  ]
-  edge
-  [
-    source 407
-    target 374
-    rank 19
-  ]
-  edge
-  [
-    source 411
-    target 102
-    rank 2
-  ]
-  edge
-  [
-    source 411
-    target 157
-    rank 15
-  ]
-  edge
-  [
-    source 411
-    target 173
-    rank 17
-  ]
-  edge
-  [
-    source 411
-    target 2
-    rank 19
-  ]
-  edge
-  [
-    source 422
-    target 200
-    rank 3
-  ]
-  edge
-  [
-    source 422
-    target 343
-    rank 11
-  ]
-  edge
-  [
-    source 423
-    target 222
-    rank 1
-  ]
-  edge
-  [
-    source 425
-    target 85
-    rank 1
-  ]
-  edge
-  [
-    source 425
-    target 9
-    rank 5
-  ]
-  edge
-  [
-    source 425
-    target 61
-    rank 11
-  ]
-  edge
-  [
-    source 426
-    target 0
-    rank 11
-  ]
-  edge
-  [
-    source 432
-    target 31
-    rank 7
-  ]
-  edge
-  [
-    source 433
-    target 97
-    rank 3
-  ]
-  edge
-  [
-    source 433
-    target 81
-    rank 6
-  ]
-  edge
-  [
-    source 433
-    target 26
-    rank 12
-  ]
-  edge
-  [
-    source 434
-    target 149
-    rank 3
-  ]
-  edge
-  [
-    source 436
-    target 450
-    rank 12
-  ]
-  edge
-  [
-    source 436
-    target 341
-    rank 14
-  ]
-  edge
-  [
-    source 436
-    target 122
-    rank 15
-  ]
-  edge
-  [
-    source 436
-    target 13
-    rank 16
-  ]
-  edge
-  [
-    source 436
-    target 31
-    rank 17
-  ]
-  edge
-  [
-    source 436
-    target 68
-    rank 18
-  ]
-  edge
-  [
-    source 436
-    target 95
-    rank 19
-  ]
-  edge
-  [
-    source 437
-    target 85
-    rank 1
-  ]
-  edge
-  [
-    source 437
-    target 99
-    rank 13
-  ]
-  edge
-  [
-    source 438
-    target 168
-    rank 1
-  ]
-  edge
-  [
-    source 439
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 439
-    target 33
-    rank 7
-  ]
-  edge
-  [
-    source 439
-    target 132
-    rank 8
-  ]
-  edge
-  [
-    source 439
-    target 248
-    rank 9
-  ]
-  edge
-  [
-    source 441
-    target 7
-    rank 2
-  ]
-  edge
-  [
-    source 441
+    source 202
     target 250
-    rank 8
+    rank 7
   ]
   edge
   [
-    source 441
-    target 144
+    source 202
+    target 228
+    rank 9
+  ]
+  edge
+  [
+    source 202
+    target 223
     rank 10
   ]
   edge
   [
-    source 443
-    target 167
-    rank 3
-  ]
-  edge
-  [
-    source 443
-    target 207
-    rank 15
-  ]
-  edge
-  [
-    source 445
-    target 117
-    rank 16
-  ]
-  edge
-  [
-    source 445
-    target 257
-    rank 17
-  ]
-  edge
-  [
-    source 445
-    target 33
-    rank 19
-  ]
-  edge
-  [
-    source 445
-    target 26
-    rank 20
-  ]
-  edge
-  [
-    source 448
-    target 526
-    rank 7
-  ]
-  edge
-  [
-    source 448
-    target 435
-    rank 14
-  ]
-  edge
-  [
-    source 450
-    target 14
-    rank 2
-  ]
-  edge
-  [
-    source 451
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 451
-    target 170
-    rank 16
-  ]
-  edge
-  [
-    source 452
-    target 126
-    rank 3
-  ]
-  edge
-  [
-    source 452
-    target 122
-    rank 11
-  ]
-  edge
-  [
-    source 452
-    target 6
+    source 202
+    target 259
     rank 12
   ]
   edge
   [
-    source 452
-    target 140
-    rank 14
-  ]
-  edge
-  [
-    source 452
-    target 134
-    rank 16
-  ]
-  edge
-  [
-    source 452
-    target 68
-    rank 18
-  ]
-  edge
-  [
-    source 452
-    target 60
-    rank 19
-  ]
-  edge
-  [
-    source 456
-    target 0
-    rank 7
-  ]
-  edge
-  [
-    source 456
-    target 31
-    rank 11
-  ]
-  edge
-  [
-    source 456
-    target 113
-    rank 12
-  ]
-  edge
-  [
-    source 456
-    target 3
+    source 202
+    target 246
     rank 15
   ]
   edge
   [
-    source 456
-    target 12
-    rank 16
-  ]
-  edge
-  [
-    source 458
-    target 244
-    rank 18
-  ]
-  edge
-  [
-    source 460
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 460
-    target 0
-    rank 18
-  ]
-  edge
-  [
-    source 460
-    target 6
-    rank 19
-  ]
-  edge
-  [
-    source 460
-    target 84
-    rank 20
-  ]
-  edge
-  [
-    source 466
-    target 319
-    rank 16
-  ]
-  edge
-  [
-    source 466
-    target 482
+    source 202
+    target 227
     rank 17
   ]
   edge
   [
-    source 470
-    target 85
+    source 203
+    target 3
     rank 1
   ]
   edge
   [
-    source 470
-    target 12
+    source 203
+    target 181
+    rank 5
+  ]
+  edge
+  [
+    source 204
+    target 31
     rank 2
   ]
   edge
   [
-    source 470
-    target 33
-    rank 3
-  ]
-  edge
-  [
-    source 470
-    target 13
+    source 204
+    target 25
     rank 4
   ]
   edge
   [
-    source 470
+    source 204
+    target 199
+    rank 6
+  ]
+  edge
+  [
+    source 204
+    target 246
+    rank 14
+  ]
+  edge
+  [
+    source 204
+    target 250
+    rank 20
+  ]
+  edge
+  [
+    source 205
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 205
     target 16
-    rank 6
-  ]
-  edge
-  [
-    source 470
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 470
-    target 24
-    rank 9
-  ]
-  edge
-  [
-    source 470
-    target 7
-    rank 10
-  ]
-  edge
-  [
-    source 470
-    target 31
-    rank 13
-  ]
-  edge
-  [
-    source 470
-    target 21
-    rank 14
-  ]
-  edge
-  [
-    source 470
-    target 95
     rank 15
   ]
   edge
   [
-    source 470
-    target 14
-    rank 18
+    source 205
+    target 157
+    rank 17
   ]
   edge
   [
-    source 478
-    target 31
-    rank 3
-  ]
-  edge
-  [
-    source 478
-    target 21
-    rank 5
-  ]
-  edge
-  [
-    source 478
-    target 323
-    rank 8
-  ]
-  edge
-  [
-    source 480
-    target 405
-    rank 18
-  ]
-  edge
-  [
-    source 482
-    target 59
-    rank 1
-  ]
-  edge
-  [
-    source 482
-    target 102
-    rank 3
-  ]
-  edge
-  [
-    source 482
-    target 42
-    rank 11
-  ]
-  edge
-  [
-    source 482
-    target 12
-    rank 12
-  ]
-  edge
-  [
-    source 482
-    target 113
-    rank 14
-  ]
-  edge
-  [
-    source 482
-    target 21
-    rank 18
-  ]
-  edge
-  [
-    source 483
-    target 14
-    rank 5
-  ]
-  edge
-  [
-    source 485
-    target 44
-    rank 1
-  ]
-  edge
-  [
-    source 485
-    target 21
-    rank 3
-  ]
-  edge
-  [
-    source 485
-    target 405
+    source 206
+    target 265
     rank 9
   ]
   edge
   [
-    source 488
-    target 44
-    rank 3
+    source 207
+    target 62
+    rank 1
   ]
   edge
   [
-    source 488
-    target 74
-    rank 5
-  ]
-  edge
-  [
-    source 490
-    target 59
-    rank 18
-  ]
-  edge
-  [
-    source 490
-    target 33
-    rank 19
-  ]
-  edge
-  [
-    source 491
-    target 43
+    source 207
+    target 168
     rank 8
   ]
   edge
   [
-    source 495
-    target 250
+    source 208
+    target 156
+    rank 1
+  ]
+  edge
+  [
+    source 208
+    target 158
     rank 2
   ]
   edge
   [
-    source 496
-    target 44
-    rank 3
-  ]
-  edge
-  [
-    source 496
-    target 147
-    rank 4
-  ]
-  edge
-  [
-    source 497
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 499
-    target 132
-    rank 3
-  ]
-  edge
-  [
-    source 499
-    target 308
-    rank 10
-  ]
-  edge
-  [
-    source 499
-    target 248
-    rank 11
-  ]
-  edge
-  [
-    source 504
-    target 117
-    rank 7
-  ]
-  edge
-  [
-    source 504
-    target 44
-    rank 11
-  ]
-  edge
-  [
-    source 504
-    target 150
-    rank 13
-  ]
-  edge
-  [
-    source 504
-    target 20
-    rank 20
-  ]
-  edge
-  [
-    source 505
-    target 200
-    rank 1
-  ]
-  edge
-  [
-    source 508
-    target 7
-    rank 9
-  ]
-  edge
-  [
-    source 508
-    target 128
-    rank 10
-  ]
-  edge
-  [
-    source 508
-    target 2
-    rank 11
-  ]
-  edge
-  [
-    source 508
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 510
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 511
-    target 257
-    rank 13
-  ]
-  edge
-  [
-    source 511
-    target 26
-    rank 14
-  ]
-  edge
-  [
-    source 511
-    target 12
-    rank 15
-  ]
-  edge
-  [
-    source 511
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 511
-    target 24
-    rank 18
-  ]
-  edge
-  [
-    source 512
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 513
-    target 14
-    rank 4
-  ]
-  edge
-  [
-    source 514
-    target 112
+    source 208
+    target 54
     rank 8
   ]
   edge
   [
-    source 519
-    target 48
-    rank 4
-  ]
-  edge
-  [
-    source 520
-    target 9
-    rank 6
-  ]
-  edge
-  [
-    source 521
-    target 85
-    rank 1
-  ]
-  edge
-  [
-    source 521
-    target 91
-    rank 3
-  ]
-  edge
-  [
-    source 524
+    source 209
     target 177
     rank 1
   ]
   edge
   [
-    source 524
-    target 85
-    rank 12
+    source 209
+    target 198
+    rank 3
   ]
   edge
   [
-    source 524
-    target 180
+    source 210
+    target 31
+    rank 2
+  ]
+  edge
+  [
+    source 210
+    target 220
+    rank 5
+  ]
+  edge
+  [
+    source 210
+    target 251
+    rank 16
+  ]
+  edge
+  [
+    source 211
+    target 204
+    rank 2
+  ]
+  edge
+  [
+    source 212
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 212
+    target 218
+    rank 19
+  ]
+  edge
+  [
+    source 213
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 213
+    target 128
+    rank 4
+  ]
+  edge
+  [
+    source 213
+    target 174
+    rank 10
+  ]
+  edge
+  [
+    source 214
+    target 315
+    rank 18
+  ]
+  edge
+  [
+    source 215
+    target 170
+    rank 2
+  ]
+  edge
+  [
+    source 215
+    target 196
+    rank 6
+  ]
+  edge
+  [
+    source 217
+    target 13
+    rank 5
+  ]
+  edge
+  [
+    source 220
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 220
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 220
+    target 199
+    rank 4
+  ]
+  edge
+  [
+    source 220
+    target 174
+    rank 9
+  ]
+  edge
+  [
+    source 220
+    target 258
+    rank 16
+  ]
+  edge
+  [
+    source 221
+    target 164
+    rank 1
+  ]
+  edge
+  [
+    source 221
+    target 25
+    rank 4
+  ]
+  edge
+  [
+    source 221
+    target 216
+    rank 6
+  ]
+  edge
+  [
+    source 221
+    target 303
+    rank 11
+  ]
+  edge
+  [
+    source 221
+    target 251
+    rank 17
+  ]
+  edge
+  [
+    source 221
+    target 210
+    rank 19
+  ]
+  edge
+  [
+    source 221
+    target 284
     rank 20
   ]
   edge
   [
-    source 533
-    target 526
+    source 222
+    target 9
+    rank 9
+  ]
+  edge
+  [
+    source 222
+    target 199
+    rank 14
+  ]
+  edge
+  [
+    source 223
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 223
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 223
+    target 199
+    rank 4
+  ]
+  edge
+  [
+    source 223
+    target 105
+    rank 6
+  ]
+  edge
+  [
+    source 223
+    target 25
+    rank 7
+  ]
+  edge
+  [
+    source 223
+    target 242
+    rank 8
+  ]
+  edge
+  [
+    source 223
+    target 246
+    rank 9
+  ]
+  edge
+  [
+    source 223
+    target 202
+    rank 14
+  ]
+  edge
+  [
+    source 223
+    target 227
+    rank 16
+  ]
+  edge
+  [
+    source 223
+    target 228
+    rank 17
+  ]
+  edge
+  [
+    source 223
+    target 204
+    rank 20
+  ]
+  edge
+  [
+    source 224
+    target 216
     rank 19
   ]
   edge
   [
-    source 535
-    target 526
+    source 225
+    target 248
+    rank 1
+  ]
+  edge
+  [
+    source 225
+    target 242
+    rank 8
+  ]
+  edge
+  [
+    source 226
+    target 218
+    rank 1
+  ]
+  edge
+  [
+    source 226
+    target 237
+    rank 11
+  ]
+  edge
+  [
+    source 226
+    target 212
+    rank 13
+  ]
+  edge
+  [
+    source 226
+    target 238
+    rank 18
+  ]
+  edge
+  [
+    source 228
+    target 259
+    rank 6
+  ]
+  edge
+  [
+    source 228
+    target 200
+    rank 10
+  ]
+  edge
+  [
+    source 229
+    target 87
+    rank 16
+  ]
+  edge
+  [
+    source 229
+    target 80
+    rank 17
+  ]
+  edge
+  [
+    source 229
+    target 2
     rank 19
   ]
   edge
   [
-    source 551
+    source 230
+    target 76
+    rank 8
+  ]
+  edge
+  [
+    source 231
+    target 200
+    rank 8
+  ]
+  edge
+  [
+    source 232
+    target 145
+    rank 5
+  ]
+  edge
+  [
+    source 233
+    target 204
+    rank 2
+  ]
+  edge
+  [
+    source 233
+    target 31
+    rank 16
+  ]
+  edge
+  [
+    source 233
+    target 24
+    rank 17
+  ]
+  edge
+  [
+    source 233
+    target 105
+    rank 18
+  ]
+  edge
+  [
+    source 233
+    target 25
+    rank 19
+  ]
+  edge
+  [
+    source 233
+    target 211
+    rank 20
+  ]
+  edge
+  [
+    source 234
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 234
+    target 32
+    rank 2
+  ]
+  edge
+  [
+    source 235
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 235
+    target 38
+    rank 16
+  ]
+  edge
+  [
+    source 236
+    target 199
+    rank 15
+  ]
+  edge
+  [
+    source 237
+    target 238
+    rank 12
+  ]
+  edge
+  [
+    source 238
+    target 237
+    rank 3
+  ]
+  edge
+  [
+    source 239
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 240
+    target 216
+    rank 12
+  ]
+  edge
+  [
+    source 241
+    target 260
+    rank 1
+  ]
+  edge
+  [
+    source 242
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 242
+    target 199
+    rank 7
+  ]
+  edge
+  [
+    source 242
+    target 246
+    rank 11
+  ]
+  edge
+  [
+    source 242
+    target 223
+    rank 18
+  ]
+  edge
+  [
+    source 242
+    target 227
+    rank 20
+  ]
+  edge
+  [
+    source 243
+    target 79
+    rank 3
+  ]
+  edge
+  [
+    source 244
+    target 105
+    rank 2
+  ]
+  edge
+  [
+    source 244
+    target 131
+    rank 3
+  ]
+  edge
+  [
+    source 244
+    target 148
+    rank 5
+  ]
+  edge
+  [
+    source 246
+    target 55
+    rank 1
+  ]
+  edge
+  [
+    source 246
+    target 80
+    rank 2
+  ]
+  edge
+  [
+    source 246
+    target 24
+    rank 3
+  ]
+  edge
+  [
+    source 246
+    target 105
+    rank 4
+  ]
+  edge
+  [
+    source 246
+    target 199
+    rank 6
+  ]
+  edge
+  [
+    source 246
+    target 202
+    rank 8
+  ]
+  edge
+  [
+    source 246
+    target 25
+    rank 9
+  ]
+  edge
+  [
+    source 246
+    target 41
+    rank 10
+  ]
+  edge
+  [
+    source 246
+    target 15
+    rank 14
+  ]
+  edge
+  [
+    source 246
+    target 211
+    rank 15
+  ]
+  edge
+  [
+    source 246
+    target 38
+    rank 20
+  ]
+  edge
+  [
+    source 247
+    target 14
+    rank 7
+  ]
+  edge
+  [
+    source 247
+    target 62
+    rank 9
+  ]
+  edge
+  [
+    source 247
+    target 0
+    rank 19
+  ]
+  edge
+  [
+    source 247
+    target 6
+    rank 20
+  ]
+  edge
+  [
+    source 248
+    target 199
+    rank 1
+  ]
+  edge
+  [
+    source 248
+    target 242
+    rank 2
+  ]
+  edge
+  [
+    source 248
+    target 246
+    rank 7
+  ]
+  edge
+  [
+    source 248
+    target 227
+    rank 9
+  ]
+  edge
+  [
+    source 248
+    target 259
+    rank 10
+  ]
+  edge
+  [
+    source 248
+    target 204
+    rank 17
+  ]
+  edge
+  [
+    source 248
+    target 202
+    rank 18
+  ]
+  edge
+  [
+    source 249
+    target 195
+    rank 4
+  ]
+  edge
+  [
+    source 249
+    target 180
+    rank 18
+  ]
+  edge
+  [
+    source 250
+    target 109
+    rank 1
+  ]
+  edge
+  [
+    source 250
+    target 76
+    rank 2
+  ]
+  edge
+  [
+    source 250
+    target 90
+    rank 3
+  ]
+  edge
+  [
+    source 250
+    target 69
+    rank 6
+  ]
+  edge
+  [
+    source 250
+    target 199
+    rank 7
+  ]
+  edge
+  [
+    source 250
+    target 246
+    rank 8
+  ]
+  edge
+  [
+    source 250
+    target 202
+    rank 14
+  ]
+  edge
+  [
+    source 250
+    target 259
+    rank 17
+  ]
+  edge
+  [
+    source 250
+    target 204
+    rank 18
+  ]
+  edge
+  [
+    source 251
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 251
+    target 174
+    rank 9
+  ]
+  edge
+  [
+    source 251
+    target 220
+    rank 20
+  ]
+  edge
+  [
+    source 252
+    target 105
+    rank 1
+  ]
+  edge
+  [
+    source 252
+    target 80
+    rank 9
+  ]
+  edge
+  [
+    source 253
+    target 201
+    rank 1
+  ]
+  edge
+  [
+    source 254
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 254
+    target 108
+    rank 4
+  ]
+  edge
+  [
+    source 254
+    target 174
+    rank 5
+  ]
+  edge
+  [
+    source 255
+    target 170
+    rank 7
+  ]
+  edge
+  [
+    source 255
+    target 196
+    rank 9
+  ]
+  edge
+  [
+    source 256
+    target 80
+    rank 17
+  ]
+  edge
+  [
+    source 257
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 257
+    target 26
+    rank 8
+  ]
+  edge
+  [
+    source 257
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 258
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 258
+    target 174
+    rank 2
+  ]
+  edge
+  [
+    source 258
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 259
+    target 106
+    rank 2
+  ]
+  edge
+  [
+    source 259
+    target 199
+    rank 6
+  ]
+  edge
+  [
+    source 259
+    target 246
+    rank 8
+  ]
+  edge
+  [
+    source 259
+    target 38
+    rank 10
+  ]
+  edge
+  [
+    source 259
+    target 14
+    rank 11
+  ]
+  edge
+  [
+    source 259
+    target 227
+    rank 13
+  ]
+  edge
+  [
+    source 259
+    target 202
+    rank 16
+  ]
+  edge
+  [
+    source 259
+    target 228
+    rank 19
+  ]
+  edge
+  [
+    source 260
+    target 241
+    rank 4
+  ]
+  edge
+  [
+    source 261
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 262
+    target 76
+    rank 2
+  ]
+  edge
+  [
+    source 262
+    target 7
+    rank 4
+  ]
+  edge
+  [
+    source 262
+    target 90
+    rank 5
+  ]
+  edge
+  [
+    source 262
+    target 73
+    rank 10
+  ]
+  edge
+  [
+    source 262
+    target 245
+    rank 18
+  ]
+  edge
+  [
+    source 263
+    target 18
+    rank 1
+  ]
+  edge
+  [
+    source 263
+    target 13
+    rank 4
+  ]
+  edge
+  [
+    source 263
+    target 241
+    rank 17
+  ]
+  edge
+  [
+    source 264
+    target 158
+    rank 1
+  ]
+  edge
+  [
+    source 264
+    target 20
+    rank 3
+  ]
+  edge
+  [
+    source 264
+    target 206
+    rank 11
+  ]
+  edge
+  [
+    source 266
+    target 280
+    rank 5
+  ]
+  edge
+  [
+    source 267
+    target 195
+    rank 1
+  ]
+  edge
+  [
+    source 268
+    target 28
+    rank 4
+  ]
+  edge
+  [
+    source 268
+    target 174
+    rank 6
+  ]
+  edge
+  [
+    source 268
+    target 199
+    rank 9
+  ]
+  edge
+  [
+    source 269
+    target 153
+    rank 2
+  ]
+  edge
+  [
+    source 269
+    target 37
+    rank 10
+  ]
+  edge
+  [
+    source 270
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 270
+    target 166
+    rank 2
+  ]
+  edge
+  [
+    source 271
+    target 19
+    rank 5
+  ]
+  edge
+  [
+    source 272
+    target 20
+    rank 1
+  ]
+  edge
+  [
+    source 272
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 273
+    target 45
+    rank 2
+  ]
+  edge
+  [
+    source 273
+    target 73
+    rank 6
+  ]
+  edge
+  [
+    source 273
+    target 115
+    rank 12
+  ]
+  edge
+  [
+    source 274
+    target 80
+    rank 2
+  ]
+  edge
+  [
+    source 274
+    target 41
+    rank 4
+  ]
+  edge
+  [
+    source 274
+    target 71
+    rank 5
+  ]
+  edge
+  [
+    source 274
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 274
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 275
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 275
+    target 55
+    rank 3
+  ]
+  edge
+  [
+    source 275
+    target 177
+    rank 4
+  ]
+  edge
+  [
+    source 275
+    target 14
+    rank 9
+  ]
+  edge
+  [
+    source 275
+    target 80
+    rank 19
+  ]
+  edge
+  [
+    source 275
+    target 10
+    rank 20
+  ]
+  edge
+  [
+    source 276
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 276
+    target 41
+    rank 13
+  ]
+  edge
+  [
+    source 277
+    target 206
+    rank 7
+  ]
+  edge
+  [
+    source 277
+    target 332
+    rank 20
+  ]
+  edge
+  [
+    source 278
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 278
+    target 208
+    rank 14
+  ]
+  edge
+  [
+    source 278
+    target 74
+    rank 15
+  ]
+  edge
+  [
+    source 278
+    target 158
+    rank 16
+  ]
+  edge
+  [
+    source 278
+    target 45
+    rank 17
+  ]
+  edge
+  [
+    source 278
+    target 51
+    rank 20
+  ]
+  edge
+  [
+    source 279
+    target 283
+    rank 7
+  ]
+  edge
+  [
+    source 281
+    target 19
+    rank 3
+  ]
+  edge
+  [
+    source 281
+    target 77
+    rank 5
+  ]
+  edge
+  [
+    source 281
+    target 57
+    rank 16
+  ]
+  edge
+  [
+    source 282
+    target 280
+    rank 7
+  ]
+  edge
+  [
+    source 285
+    target 280
+    rank 3
+  ]
+  edge
+  [
+    source 286
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 286
+    target 150
+    rank 2
+  ]
+  edge
+  [
+    source 286
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 286
+    target 76
+    rank 8
+  ]
+  edge
+  [
+    source 286
+    target 69
+    rank 17
+  ]
+  edge
+  [
+    source 287
+    target 29
+    rank 2
+  ]
+  edge
+  [
+    source 287
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 287
+    target 20
+    rank 4
+  ]
+  edge
+  [
+    source 287
+    target 220
+    rank 10
+  ]
+  edge
+  [
+    source 288
+    target 92
+    rank 1
+  ]
+  edge
+  [
+    source 288
+    target 105
+    rank 3
+  ]
+  edge
+  [
+    source 288
+    target 15
+    rank 6
+  ]
+  edge
+  [
+    source 288
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 288
+    target 112
+    rank 10
+  ]
+  edge
+  [
+    source 288
+    target 20
+    rank 11
+  ]
+  edge
+  [
+    source 289
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 289
+    target 19
+    rank 2
+  ]
+  edge
+  [
+    source 289
+    target 13
+    rank 7
+  ]
+  edge
+  [
+    source 289
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 289
+    target 5
+    rank 9
+  ]
+  edge
+  [
+    source 289
+    target 1
+    rank 10
+  ]
+  edge
+  [
+    source 289
+    target 57
+    rank 12
+  ]
+  edge
+  [
+    source 289
+    target 21
+    rank 14
+  ]
+  edge
+  [
+    source 290
+    target 2
+    rank 17
+  ]
+  edge
+  [
+    source 291
+    target 105
+    rank 5
+  ]
+  edge
+  [
+    source 292
+    target 283
+    rank 20
+  ]
+  edge
+  [
+    source 293
+    target 153
+    rank 7
+  ]
+  edge
+  [
+    source 293
+    target 118
+    rank 10
+  ]
+  edge
+  [
+    source 293
+    target 87
+    rank 13
+  ]
+  edge
+  [
+    source 294
+    target 130
+    rank 1
+  ]
+  edge
+  [
+    source 294
+    target 112
+    rank 3
+  ]
+  edge
+  [
+    source 294
+    target 214
+    rank 4
+  ]
+  edge
+  [
+    source 294
+    target 74
+    rank 8
+  ]
+  edge
+  [
+    source 294
+    target 16
+    rank 9
+  ]
+  edge
+  [
+    source 294
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 294
+    target 7
+    rank 11
+  ]
+  edge
+  [
+    source 294
+    target 123
+    rank 14
+  ]
+  edge
+  [
+    source 295
+    target 184
+    rank 3
+  ]
+  edge
+  [
+    source 296
+    target 1
+    rank 14
+  ]
+  edge
+  [
+    source 296
+    target 128
+    rank 17
+  ]
+  edge
+  [
+    source 297
+    target 169
+    rank 1
+  ]
+  edge
+  [
+    source 298
+    target 260
+    rank 6
+  ]
+  edge
+  [
+    source 298
+    target 241
+    rank 9
+  ]
+  edge
+  [
+    source 299
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 300
+    target 100
+    rank 6
+  ]
+  edge
+  [
+    source 300
+    target 283
+    rank 20
+  ]
+  edge
+  [
+    source 301
+    target 164
+    rank 1
+  ]
+  edge
+  [
+    source 301
+    target 216
+    rank 4
+  ]
+  edge
+  [
+    source 301
+    target 131
+    rank 10
+  ]
+  edge
+  [
+    source 301
+    target 62
+    rank 11
+  ]
+  edge
+  [
+    source 302
+    target 104
+    rank 1
+  ]
+  edge
+  [
+    source 302
+    target 123
+    rank 2
+  ]
+  edge
+  [
+    source 302
+    target 220
+    rank 12
+  ]
+  edge
+  [
+    source 303
+    target 40
+    rank 2
+  ]
+  edge
+  [
+    source 303
+    target 21
+    rank 3
+  ]
+  edge
+  [
+    source 303
+    target 174
+    rank 7
+  ]
+  edge
+  [
+    source 303
+    target 192
+    rank 8
+  ]
+  edge
+  [
+    source 303
+    target 248
+    rank 11
+  ]
+  edge
+  [
+    source 303
+    target 165
+    rank 16
+  ]
+  edge
+  [
+    source 304
+    target 303
+    rank 6
+  ]
+  edge
+  [
+    source 304
+    target 284
+    rank 19
+  ]
+  edge
+  [
+    source 305
+    target 92
+    rank 2
+  ]
+  edge
+  [
+    source 305
+    target 138
+    rank 15
+  ]
+  edge
+  [
+    source 305
+    target 150
+    rank 17
+  ]
+  edge
+  [
+    source 305
+    target 2
+    rank 19
+  ]
+  edge
+  [
+    source 306
+    target 170
+    rank 3
+  ]
+  edge
+  [
+    source 306
+    target 265
+    rank 11
+  ]
+  edge
+  [
+    source 307
+    target 184
+    rank 1
+  ]
+  edge
+  [
+    source 308
+    target 80
+    rank 1
+  ]
+  edge
+  [
+    source 308
+    target 9
+    rank 5
+  ]
+  edge
+  [
+    source 308
+    target 57
+    rank 11
+  ]
+  edge
+  [
+    source 309
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 310
+    target 29
+    rank 7
+  ]
+  edge
+  [
+    source 311
+    target 88
+    rank 3
+  ]
+  edge
+  [
+    source 311
+    target 76
+    rank 6
+  ]
+  edge
+  [
+    source 311
+    target 25
+    rank 12
+  ]
+  edge
+  [
+    source 312
+    target 131
+    rank 3
+  ]
+  edge
+  [
+    source 314
+    target 322
+    rank 12
+  ]
+  edge
+  [
+    source 314
+    target 264
+    rank 14
+  ]
+  edge
+  [
+    source 314
+    target 108
+    rank 15
+  ]
+  edge
+  [
+    source 314
+    target 13
+    rank 16
+  ]
+  edge
+  [
+    source 314
+    target 29
+    rank 17
+  ]
+  edge
+  [
+    source 314
+    target 64
+    rank 18
+  ]
+  edge
+  [
+    source 314
+    target 87
+    rank 19
+  ]
+  edge
+  [
+    source 315
+    target 80
+    rank 1
+  ]
+  edge
+  [
+    source 315
+    target 89
+    rank 13
+  ]
+  edge
+  [
+    source 316
+    target 145
+    rank 1
+  ]
+  edge
+  [
+    source 317
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 317
+    target 31
+    rank 7
+  ]
+  edge
+  [
+    source 317
+    target 117
+    rank 8
+  ]
+  edge
+  [
+    source 317
+    target 204
+    rank 9
+  ]
+  edge
+  [
+    source 318
+    target 7
+    rank 2
+  ]
+  edge
+  [
+    source 318
+    target 206
+    rank 8
+  ]
+  edge
+  [
+    source 318
+    target 127
+    rank 10
+  ]
+  edge
+  [
+    source 319
+    target 144
+    rank 3
+  ]
+  edge
+  [
+    source 319
+    target 174
+    rank 15
+  ]
+  edge
+  [
+    source 320
+    target 105
+    rank 16
+  ]
+  edge
+  [
+    source 320
+    target 211
+    rank 17
+  ]
+  edge
+  [
+    source 320
+    target 31
+    rank 19
+  ]
+  edge
+  [
+    source 320
+    target 25
+    rank 20
+  ]
+  edge
+  [
+    source 321
+    target 355
+    rank 7
+  ]
+  edge
+  [
+    source 321
+    target 313
+    rank 14
+  ]
+  edge
+  [
+    source 322
+    target 14
+    rank 2
+  ]
+  edge
+  [
+    source 323
     target 31
     rank 4
   ]
   edge
   [
-    source 551
-    target 24
+    source 323
+    target 147
+    rank 16
+  ]
+  edge
+  [
+    source 324
+    target 112
+    rank 3
+  ]
+  edge
+  [
+    source 324
+    target 108
+    rank 11
+  ]
+  edge
+  [
+    source 324
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 324
+    target 123
+    rank 14
+  ]
+  edge
+  [
+    source 324
+    target 118
+    rank 16
+  ]
+  edge
+  [
+    source 324
+    target 64
+    rank 18
+  ]
+  edge
+  [
+    source 324
+    target 56
+    rank 19
+  ]
+  edge
+  [
+    source 325
+    target 0
+    rank 7
+  ]
+  edge
+  [
+    source 325
+    target 29
+    rank 11
+  ]
+  edge
+  [
+    source 325
+    target 102
+    rank 12
+  ]
+  edge
+  [
+    source 325
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 325
+    target 12
+    rank 16
+  ]
+  edge
+  [
+    source 326
+    target 200
+    rank 18
+  ]
+  edge
+  [
+    source 327
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 327
+    target 0
+    rank 18
+  ]
+  edge
+  [
+    source 327
+    target 6
+    rank 19
+  ]
+  edge
+  [
+    source 327
+    target 79
+    rank 20
+  ]
+  edge
+  [
+    source 328
+    target 252
+    rank 16
+  ]
+  edge
+  [
+    source 328
+    target 333
+    rank 17
+  ]
+  edge
+  [
+    source 329
+    target 80
+    rank 1
+  ]
+  edge
+  [
+    source 329
+    target 12
+    rank 2
+  ]
+  edge
+  [
+    source 329
+    target 31
+    rank 3
+  ]
+  edge
+  [
+    source 329
+    target 13
+    rank 4
+  ]
+  edge
+  [
+    source 329
+    target 16
+    rank 6
+  ]
+  edge
+  [
+    source 329
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 329
+    target 23
+    rank 9
+  ]
+  edge
+  [
+    source 329
+    target 7
+    rank 10
+  ]
+  edge
+  [
+    source 329
+    target 29
+    rank 13
+  ]
+  edge
+  [
+    source 329
+    target 20
+    rank 14
+  ]
+  edge
+  [
+    source 329
+    target 87
+    rank 15
+  ]
+  edge
+  [
+    source 329
+    target 14
+    rank 18
+  ]
+  edge
+  [
+    source 330
+    target 29
+    rank 3
+  ]
+  edge
+  [
+    source 330
+    target 20
     rank 5
   ]
   edge
   [
-    source 551
+    source 330
+    target 254
+    rank 8
+  ]
+  edge
+  [
+    source 331
+    target 303
+    rank 18
+  ]
+  edge
+  [
+    source 333
+    target 55
+    rank 1
+  ]
+  edge
+  [
+    source 333
+    target 92
+    rank 3
+  ]
+  edge
+  [
+    source 333
+    target 39
+    rank 11
+  ]
+  edge
+  [
+    source 333
+    target 12
+    rank 12
+  ]
+  edge
+  [
+    source 333
+    target 102
+    rank 14
+  ]
+  edge
+  [
+    source 333
+    target 20
+    rank 18
+  ]
+  edge
+  [
+    source 334
+    target 14
+    rank 5
+  ]
+  edge
+  [
+    source 335
+    target 41
+    rank 1
+  ]
+  edge
+  [
+    source 335
+    target 20
+    rank 3
+  ]
+  edge
+  [
+    source 335
+    target 303
+    rank 9
+  ]
+  edge
+  [
+    source 336
+    target 41
+    rank 3
+  ]
+  edge
+  [
+    source 336
+    target 69
+    rank 5
+  ]
+  edge
+  [
+    source 337
+    target 55
+    rank 18
+  ]
+  edge
+  [
+    source 337
+    target 31
+    rank 19
+  ]
+  edge
+  [
+    source 338
+    target 40
+    rank 8
+  ]
+  edge
+  [
+    source 339
+    target 206
+    rank 2
+  ]
+  edge
+  [
+    source 340
+    target 41
+    rank 3
+  ]
+  edge
+  [
+    source 340
+    target 129
+    rank 4
+  ]
+  edge
+  [
+    source 341
+    target 23
+    rank 1
+  ]
+  edge
+  [
+    source 342
+    target 117
+    rank 3
+  ]
+  edge
+  [
+    source 342
+    target 246
+    rank 10
+  ]
+  edge
+  [
+    source 342
+    target 204
+    rank 11
+  ]
+  edge
+  [
+    source 343
+    target 105
+    rank 7
+  ]
+  edge
+  [
+    source 343
+    target 41
+    rank 11
+  ]
+  edge
+  [
+    source 343
+    target 132
+    rank 13
+  ]
+  edge
+  [
+    source 343
+    target 19
+    rank 20
+  ]
+  edge
+  [
+    source 344
+    target 170
+    rank 1
+  ]
+  edge
+  [
+    source 345
+    target 7
+    rank 9
+  ]
+  edge
+  [
+    source 345
+    target 114
+    rank 10
+  ]
+  edge
+  [
+    source 345
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 345
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 346
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 347
+    target 211
+    rank 13
+  ]
+  edge
+  [
+    source 347
+    target 25
+    rank 14
+  ]
+  edge
+  [
+    source 347
+    target 12
+    rank 15
+  ]
+  edge
+  [
+    source 347
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 347
+    target 23
+    rank 18
+  ]
+  edge
+  [
+    source 348
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 349
+    target 14
+    rank 4
+  ]
+  edge
+  [
+    source 350
+    target 101
+    rank 8
+  ]
+  edge
+  [
+    source 351
+    target 45
+    rank 4
+  ]
+  edge
+  [
+    source 352
+    target 9
+    rank 6
+  ]
+  edge
+  [
+    source 353
+    target 80
+    rank 1
+  ]
+  edge
+  [
+    source 353
+    target 84
+    rank 3
+  ]
+  edge
+  [
+    source 354
+    target 153
+    rank 1
+  ]
+  edge
+  [
+    source 354
+    target 80
+    rank 12
+  ]
+  edge
+  [
+    source 354
+    target 156
+    rank 20
+  ]
+  edge
+  [
+    source 357
+    target 355
+    rank 19
+  ]
+  edge
+  [
+    source 358
+    target 355
+    rank 19
+  ]
+  edge
+  [
+    source 359
+    target 29
+    rank 4
+  ]
+  edge
+  [
+    source 359
+    target 23
+    rank 5
+  ]
+  edge
+  [
+    source 359
     target 6
     rank 7
   ]
   edge
   [
-    source 551
-    target 21
+    source 359
+    target 20
     rank 10
   ]
   edge
   [
-    source 551
-    target 65
+    source 359
+    target 61
     rank 18
   ]
   edge
   [
-    source 552
-    target 363
+    source 360
+    target 280
     rank 7
   ]
   edge
   [
-    source 552
-    target 120
+    source 360
+    target 107
     rank 16
   ]
   edge
   [
-    source 552
-    target 307
+    source 360
+    target 245
     rank 19
   ]
   edge
   [
-    source 556
-    target 97
+    source 361
+    target 88
     rank 1
   ]
   edge
   [
-    source 556
-    target 149
+    source 361
+    target 131
     rank 4
   ]
   edge
   [
-    source 556
-    target 122
+    source 361
+    target 108
     rank 5
   ]
   edge
   [
-    source 556
-    target 32
+    source 361
+    target 30
     rank 6
   ]
   edge
   [
-    source 556
-    target 31
+    source 361
+    target 29
     rank 7
   ]
   edge
   [
-    source 558
-    target 81
+    source 362
+    target 76
     rank 2
   ]
   edge
   [
-    source 558
-    target 61
+    source 362
+    target 57
     rank 6
   ]
   edge
   [
-    source 558
-    target 247
+    source 362
+    target 203
     rank 12
   ]
   edge
   [
-    source 558
-    target 405
+    source 362
+    target 303
     rank 20
   ]
   edge
   [
-    source 559
-    target 526
+    source 363
+    target 355
     rank 19
   ]
   edge
   [
-    source 560
+    source 364
     target 7
     rank 3
   ]
   edge
   [
-    source 560
-    target 530
+    source 364
+    target 356
     rank 13
   ]
   edge
   [
-    source 560
-    target 526
+    source 364
+    target 355
     rank 20
   ]
   edge
   [
-    source 562
+    source 365
     target 0
     rank 1
   ]
   edge
   [
-    source 564
-    target 149
+    source 366
+    target 131
     rank 2
   ]
   edge
   [
-    source 566
-    target 339
+    source 367
+    target 263
     rank 3
   ]
   edge
   [
-    source 566
-    target 371
+    source 367
+    target 283
     rank 11
   ]
   edge
   [
-    source 566
-    target 48
+    source 367
+    target 45
     rank 17
   ]
   edge
   [
-    source 566
-    target 210
+    source 367
+    target 176
     rank 18
   ]
   edge
   [
-    source 566
-    target 54
+    source 367
+    target 51
     rank 19
   ]
   edge
   [
-    source 566
-    target 194
+    source 367
+    target 167
     rank 20
   ]
   edge
   [
-    source 569
-    target 211
+    source 368
+    target 177
     rank 1
   ]
   edge
   [
-    source 569
-    target 200
+    source 368
+    target 170
     rank 2
   ]
   edge
   [
-    source 574
-    target 85
+    source 369
+    target 80
     rank 1
   ]
   edge
   [
-    source 574
-    target 59
+    source 369
+    target 55
     rank 16
   ]
   edge
   [
-    source 574
+    source 369
     target 6
     rank 18
   ]
   edge
   [
-    source 575
-    target 244
+    source 370
+    target 200
     rank 13
   ]
   edge
   [
-    source 577
-    target 24
+    source 371
+    target 23
     rank 11
   ]
 ]

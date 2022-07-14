@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 16:13:32 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 18:32:06 2022"
 Version 1
 graph
 [
@@ -6,25 +6,7 @@ graph
   node
   [
     id 0
-    label "svj_6w0EUz4"
-    step 0
-    date "2021-07-13T17:36:50Z"
-    title "Critical race theory: Experts break down what it actually means"
-    description "Teachers across the country are caught in the middle of the latest flashpoint in America's culture war: critical race theory. Here's what the decades-old framework actually entails. Read more: https://wapo.st/3i5akot. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&#10;&#10;Follow us:&#10;Twitter: https://twitter.com/washingtonpost&#10;Instagram: https://www.instagram.com/washingtonpost/&#10;Facebook: https://www.facebook.com/washingtonpost/"
-    channeltitle "Washington Post"
-    channelid "UCHd62-u_v4DvJ8TCFtpi4GA"
-    favcount 0
-    viewcount 238397
-    likecount 3294
-    commentcount 3677
-    duration "PT5M54S"
-    indegree 68
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 1
+    name "1"
     label "_gdxrkwpPKc"
     step 0
     date "2021-06-29T17:43:07Z"
@@ -38,12 +20,23 @@ graph
     commentcount -1
     duration "PT2M51S"
     indegree 67
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 1
   ]
   node
   [
-    id 2
+    id 1
+    name "2"
     label "EICp1vGlh_U"
     step 0
     date "2022-02-21T07:30:02Z"
@@ -57,12 +50,23 @@ graph
     commentcount 35986
     duration "PT28M8S"
     indegree 37
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 3
+    id 2
+    name "3"
     label "8h5fdMS07ug"
     step 0
     date "2021-09-01T01:15:00Z"
@@ -76,12 +80,23 @@ graph
     commentcount 231
     duration "PT2M51S"
     indegree 4
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 4
+    id 3
+    name "4"
     label "4JbdKWsHeLI"
     step 0
     date "2021-06-24T22:59:56Z"
@@ -95,12 +110,23 @@ graph
     commentcount -1
     duration "PT9M5S"
     indegree 142
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 5
+    id 4
+    name "5"
     label "n4TAQF6ocLU"
     step 0
     date "2021-06-22T02:20:11Z"
@@ -114,12 +140,23 @@ graph
     commentcount 6911
     duration "PT8M56S"
     indegree 37
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 6
+    id 5
+    name "6"
     label "dwgsbZ1MsAE"
     step 0
     date "2021-08-07T03:02:06Z"
@@ -133,12 +170,23 @@ graph
     commentcount 86605
     duration "PT9M31S"
     indegree 150
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 7
+    id 6
+    name "7"
     label "miVlHcdjaWM"
     step 0
     date "2022-01-04T16:00:18Z"
@@ -152,12 +200,23 @@ graph
     commentcount 437
     duration "PT5M19S"
     indegree 26
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 8
+    id 7
+    name "8"
     label "57kVvE97nI4"
     step 0
     date "2021-09-22T18:38:34Z"
@@ -171,12 +230,23 @@ graph
     commentcount -1
     duration "PT3M37S"
     indegree 45
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 9
+    id 8
+    name "9"
     label "cfmpnGV0IGc"
     step 0
     date "2021-06-14T17:44:49Z"
@@ -190,12 +260,23 @@ graph
     commentcount 3410
     duration "PT17M58S"
     indegree 8
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 10
+    id 9
+    name "10"
     label "drqhlcJCqw8"
     step 0
     date "2021-09-13T17:00:34Z"
@@ -209,12 +290,23 @@ graph
     commentcount 6592
     duration "PT22M58S"
     indegree 40
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 11
+    id 10
+    name "11"
     label "mmRO3J6IJC8"
     step 0
     date "2021-10-04T11:24:27Z"
@@ -228,12 +320,23 @@ graph
     commentcount -1
     duration "PT1H2S"
     indegree 86
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 4
   ]
   node
   [
-    id 12
+    id 11
+    name "12"
     label "X2gQeV18mOk"
     step 0
     date "2021-07-07T01:00:25Z"
@@ -247,12 +350,23 @@ graph
     commentcount 18606
     duration "PT8M14S"
     indegree 47
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 13
+    id 12
+    name "13"
     label "ryGQ45RBBhg"
     step 0
     date "2021-06-10T21:42:43Z"
@@ -266,12 +380,23 @@ graph
     commentcount 1974
     duration "PT3M9S"
     indegree 21
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 14
+    id 13
+    name "14"
     label "0yHuCjQ5pUA"
     step 0
     date "2021-08-31T14:53:13Z"
@@ -285,12 +410,23 @@ graph
     commentcount -1
     duration "PT1H41M23S"
     indegree 16
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 15
+    id 14
+    name "15"
     label "Y2esl0yVFXE"
     step 0
     date "2021-07-14T20:15:03Z"
@@ -304,12 +440,23 @@ graph
     commentcount 9731
     duration "PT4M32S"
     indegree 142
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 16
+    id 15
+    name "16"
     label "wQRibSsdgQY"
     step 0
     date "2021-11-04T18:00:13Z"
@@ -323,12 +470,23 @@ graph
     commentcount 3762
     duration "PT9M3S"
     indegree 37
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 17
+    id 16
+    name "17"
     label "6ofjZH80y3g"
     step 0
     date "2021-06-30T00:57:46Z"
@@ -342,12 +500,23 @@ graph
     commentcount 2479
     duration "PT3M41S"
     indegree 22
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 18
+    id 17
+    name "18"
     label "WOqxuVVbTrQ"
     step 0
     date "2021-11-04T10:45:00Z"
@@ -361,12 +530,23 @@ graph
     commentcount 2567
     duration "PT47M24S"
     indegree 25
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 19
+    id 18
+    name "19"
     label "In6NVLANvLc"
     step 0
     date "2021-07-28T19:00:06Z"
@@ -380,12 +560,23 @@ graph
     commentcount 11002
     duration "PT11M7S"
     indegree 101
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 20
+    id 19
+    name "20"
     label "TkUs6B9DE_k"
     step 0
     date "2022-03-22T20:34:01Z"
@@ -399,12 +590,23 @@ graph
     commentcount -1
     duration "PT4M33S"
     indegree 21
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 21
+    id 20
+    name "21"
     label "2LJ8nBgEA2Q"
     step 0
     date "2021-11-02T03:33:48Z"
@@ -418,12 +620,23 @@ graph
     commentcount 9958
     duration "PT27M7S"
     indegree 49
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 22
+    id 21
+    name "22"
     label "2rDu_VUpoJ8"
     step 0
     date "2021-05-28T22:06:39Z"
@@ -437,12 +650,23 @@ graph
     commentcount 9246
     duration "PT21M26S"
     indegree 51
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 23
+    id 22
+    name "23"
     label "R_5Ls0eylh0"
     step 0
     date "2022-03-07T19:00:17Z"
@@ -456,12 +680,23 @@ graph
     commentcount 585
     duration "PT12M6S"
     indegree 22
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 24
+    id 23
+    name "24"
     label "QFqaBuFtigQ"
     step 0
     date "2021-10-13T11:00:23Z"
@@ -475,12 +710,23 @@ graph
     commentcount 21907
     duration "PT9M49S"
     indegree 76
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 25
+    id 24
+    name "25"
     label "z15OKP203G0"
     step 0
     date "2021-05-27T21:10:33Z"
@@ -494,12 +740,23 @@ graph
     commentcount -1
     duration "PT2M34S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 26
+    id 25
+    name "26"
     label "iK4DqtXu7uA"
     step 0
     date "2021-08-15T17:45:09Z"
@@ -513,12 +770,23 @@ graph
     commentcount 1556
     duration "PT52M55S"
     indegree 11
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 27
+    id 26
+    name "27"
     label "ZkjG9ih2-w4"
     step 0
     date "2021-07-22T23:08:52Z"
@@ -532,12 +800,23 @@ graph
     commentcount 155
     duration "PT3M24S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 28
+    id 27
+    name "28"
     label "GQT-RRqLeH8"
     step 0
     date "2021-11-11T05:11:16Z"
@@ -551,12 +830,23 @@ graph
     commentcount -1
     duration "PT13M39S"
     indegree 22
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 29
+    id 28
+    name "29"
     label "O0-pF3dvM4Q"
     step 0
     date "2022-04-24T17:30:01Z"
@@ -570,12 +860,23 @@ graph
     commentcount 1148
     duration "PT9M3S"
     indegree 4
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 4
   ]
   node
   [
-    id 30
+    id 29
+    name "30"
     label "Dx8JKitp7zk"
     step 0
     date "2022-02-03T03:44:51Z"
@@ -589,12 +890,23 @@ graph
     commentcount 305
     duration "PT9M28S"
     indegree 27
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 31
+    id 30
+    name "31"
     label "R9lxFfOgFtM"
     step 0
     date "2022-03-22T20:29:21Z"
@@ -608,12 +920,23 @@ graph
     commentcount 10089
     duration "PT33M29S"
     indegree 3
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 32
+    id 31
+    name "32"
     label "pCqwaGM3wTg"
     step 0
     date "2021-10-19T17:34:27Z"
@@ -627,12 +950,23 @@ graph
     commentcount 4
     duration "PT1M55S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 33
+    id 32
+    name "33"
     label "yEL7KtQ673w"
     step 0
     date "2021-06-11T15:50:18Z"
@@ -646,12 +980,23 @@ graph
     commentcount 746
     duration "PT43M49S"
     indegree 77
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 34
+    id 33
+    name "34"
     label "XRwrN_Iqp8Q"
     step 0
     date "2022-03-23T18:00:13Z"
@@ -665,12 +1010,23 @@ graph
     commentcount 1279
     duration "PT3M33S"
     indegree 7
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 35
+    id 34
+    name "35"
     label "oz7yDU1FmJQ"
     step 0
     date "2021-06-23T21:13:07Z"
@@ -684,12 +1040,23 @@ graph
     commentcount -1
     duration "PT2M36S"
     indegree 7
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 36
+    id 35
+    name "36"
     label "6mGohbqdcT8"
     step 0
     date "2021-09-21T12:00:07Z"
@@ -703,12 +1070,23 @@ graph
     commentcount 2219
     duration "PT1H6M23S"
     indegree 21
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 4
   ]
   node
   [
-    id 37
+    id 36
+    name "37"
     label "MAuAou_sops"
     step 0
     date "2022-04-23T01:00:04Z"
@@ -722,12 +1100,23 @@ graph
     commentcount 186
     duration "PT2M40S"
     indegree 20
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 38
+    id 37
+    name "38"
     label "XiOp-XFa3O0"
     step 0
     date "2022-02-25T18:18:21Z"
@@ -741,12 +1130,23 @@ graph
     commentcount 12
     duration "PT1H33M40S"
     indegree 3
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Educational"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 39
+    id 38
+    name "39"
     label "1QhLW1A70G8"
     step 0
     date "2021-06-24T02:00:00Z"
@@ -760,12 +1160,23 @@ graph
     commentcount 19752
     duration "PT9M44S"
     indegree 14
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 40
+    id 39
+    name "40"
     label "gFQvnZOGvNg"
     step 0
     date "2022-07-04T20:00:06Z"
@@ -779,12 +1190,23 @@ graph
     commentcount 188
     duration "PT14M27S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 41
+    id 40
+    name "41"
     label "IiyVFrKSRMU"
     step 0
     date "2022-04-01T11:30:03Z"
@@ -798,12 +1220,23 @@ graph
     commentcount 53
     duration "PT5M5S"
     indegree 5
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 42
+    id 41
+    name "42"
     label "bQ1LuHNJWgw"
     step 0
     date "2021-06-24T18:00:20Z"
@@ -817,12 +1250,23 @@ graph
     commentcount 2512
     duration "PT9M15S"
     indegree 5
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 43
+    id 42
+    name "43"
     label "F8ix4Y2FIv0"
     step 0
     date "2021-09-03T04:00:05Z"
@@ -836,12 +1280,23 @@ graph
     commentcount -1
     duration "PT15M44S"
     indegree 3
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 44
+    id 43
+    name "44"
     label "ngElSkVYLFc"
     step 0
     date "2021-06-21T11:30:05Z"
@@ -855,12 +1310,23 @@ graph
     commentcount 1918
     duration "PT8M11S"
     indegree 15
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 45
+    id 44
+    name "45"
     label "lr9JJbCc44o"
     step 0
     date "2021-06-18T20:03:03Z"
@@ -874,12 +1340,23 @@ graph
     commentcount 505
     duration "PT2M22S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 46
+    id 45
+    name "46"
     label "o3OtFva33Ck"
     step 0
     date "2022-02-03T23:36:48Z"
@@ -893,12 +1370,23 @@ graph
     commentcount 190
     duration "PT14M28S"
     indegree 13
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 47
+    id 46
+    name "47"
     label "_x26q2lWg3M"
     step 0
     date "2021-10-28T00:03:29Z"
@@ -912,12 +1400,23 @@ graph
     commentcount -1
     duration "PT10M40S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 48
+    id 47
+    name "48"
     label "a0N_DpQNeuo"
     step 0
     date "2021-12-15T22:48:20Z"
@@ -931,12 +1430,23 @@ graph
     commentcount 111
     duration "PT3M19S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 49
+    id 48
+    name "49"
     label "BPbxBMbX-IQ"
     step 0
     date "2021-11-05T03:19:56Z"
@@ -950,12 +1460,23 @@ graph
     commentcount 42
     duration "PT7M23S"
     indegree 18
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 50
+    id 49
+    name "50"
     label "s6rJOdzTpxk"
     step 0
     date "2022-03-23T17:54:53Z"
@@ -969,12 +1490,23 @@ graph
     commentcount -1
     duration "PT59S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 51
+    id 50
+    name "51"
     label "VuBRVGxgCdw"
     step 0
     date "2022-03-29T19:00:13Z"
@@ -988,12 +1520,23 @@ graph
     commentcount 16
     duration "PT5M43S"
     indegree 3
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 52
+    id 51
+    name "52"
     label "-zPwXyQxwDk"
     step 0
     date "2022-01-05T14:00:01Z"
@@ -1007,12 +1550,23 @@ graph
     commentcount 539
     duration "PT3M20S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 53
+    id 52
+    name "53"
     label "7sGK33uTOpU"
     step 0
     date "2021-06-28T23:00:03Z"
@@ -1026,12 +1580,23 @@ graph
     commentcount 1406
     duration "PT1M53S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 54
+    id 53
+    name "54"
     label "CoCrE7bA8NI"
     step 0
     date "2021-07-09T03:09:17Z"
@@ -1045,12 +1610,23 @@ graph
     commentcount 129
     duration "PT1M46S"
     indegree 5
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 55
+    id 54
+    name "55"
     label "Hdx4JsDIsWs"
     step 0
     date "2021-10-20T18:43:24Z"
@@ -1064,12 +1640,23 @@ graph
     commentcount 8809
     duration "PT6M36S"
     indegree 15
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 56
+    id 55
+    name "56"
     label "ufKusK6dQI8"
     step 0
     date "2021-08-21T10:54:13Z"
@@ -1083,12 +1670,23 @@ graph
     commentcount 52
     duration "PT10M2S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 57
+    id 56
+    name "57"
     label "yMU6pr2N28M"
     step 0
     date "2022-01-08T17:00:37Z"
@@ -1102,12 +1700,23 @@ graph
     commentcount 673
     duration "PT4M50S"
     indegree 9
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 58
+    id 57
+    name "58"
     label "l1V73yIlTww"
     step 0
     date "2022-04-21T17:44:37Z"
@@ -1121,12 +1730,23 @@ graph
     commentcount 29
     duration "PT4M32S"
     indegree 3
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 7
   ]
   node
   [
-    id 59
+    id 58
+    name "59"
     label "8WLOy5zuLJA"
     step 0
     date "2021-10-05T10:33:09Z"
@@ -1140,12 +1760,23 @@ graph
     commentcount 64
     duration "PT5M30S"
     indegree 13
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 4
   ]
   node
   [
-    id 60
+    id 59
+    name "60"
     label "AOawTrPfoJU"
     step 0
     date "2021-06-15T20:30:00Z"
@@ -1159,12 +1790,23 @@ graph
     commentcount 974
     duration "PT7M39S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 61
+    id 60
+    name "61"
     label "-Nuf9uh7TPU"
     step 0
     date "2022-01-24T19:30:01Z"
@@ -1178,12 +1820,23 @@ graph
     commentcount 338
     duration "PT4M39S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 62
+    id 61
+    name "62"
     label "i5JPr7Mjfbg"
     step 0
     date "2022-03-10T21:50:02Z"
@@ -1197,12 +1850,23 @@ graph
     commentcount 25
     duration "PT3M49S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 63
+    id 62
+    name "63"
     label "q2CzWT-2Do8"
     step 0
     date "2021-10-21T14:45:02Z"
@@ -1216,12 +1880,23 @@ graph
     commentcount 165
     duration "PT3M4S"
     indegree 4
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 64
+    id 63
+    name "64"
     label "hnIlzCZjh2o"
     step 0
     date "2022-06-13T23:00:11Z"
@@ -1235,12 +1910,23 @@ graph
     commentcount 82
     duration "PT4M53S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 6
   ]
   node
   [
-    id 65
+    id 64
+    name "65"
     label "7JjHNj37cl0"
     step 0
     date "2021-07-16T23:31:29Z"
@@ -1254,12 +1940,23 @@ graph
     commentcount 136
     duration "PT1M45S"
     indegree 5
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 4
   ]
   node
   [
-    id 66
+    id 65
+    name "66"
     label "SybEMMiH4mQ"
     step 0
     date "2021-08-17T15:07:27Z"
@@ -1273,12 +1970,23 @@ graph
     commentcount 1766
     duration "PT14M15S"
     indegree 10
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 67
+    id 66
+    name "67"
     label "LpOQ7qAUxxs"
     step 0
     date "2021-10-03T19:00:11Z"
@@ -1292,12 +2000,23 @@ graph
     commentcount 1404
     duration "PT8M5S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 68
+    id 67
+    name "68"
     label "BIJf6tMNgq4"
     step 0
     date "2021-09-24T04:19:02Z"
@@ -1311,12 +2030,23 @@ graph
     commentcount 196
     duration "PT7M8S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 3
   ]
   node
   [
-    id 69
+    id 68
+    name "69"
     label "ZuvhrXM3v7U"
     step 0
     date "2020-12-16T19:54:38Z"
@@ -1330,12 +2060,23 @@ graph
     commentcount 2262
     duration "PT1H44M15S"
     indegree 129
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Libertarian"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 70
+    id 69
+    name "70"
     label "HN_ox2RBn3o"
     step 0
     date "2022-04-13T15:45:41Z"
@@ -1349,12 +2090,23 @@ graph
     commentcount 130
     duration "PT10M47S"
     indegree 4
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 71
+    id 70
+    name "71"
     label "RKq7nP08e08"
     step 0
     date "2021-10-06T12:45:52Z"
@@ -1368,12 +2120,23 @@ graph
     commentcount 299
     duration "PT46M57S"
     indegree 7
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 72
+    id 71
+    name "72"
     label "vlLfYu3BQCg"
     step 0
     date "2021-07-07T03:01:13Z"
@@ -1387,12 +2150,23 @@ graph
     commentcount 56
     duration "PT1M30S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 73
+    id 72
+    name "73"
     label "vLBapXx9sTs"
     step 0
     date "2021-06-22T22:12:54Z"
@@ -1406,12 +2180,23 @@ graph
     commentcount 158
     duration "PT4M27S"
     indegree 8
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 74
+    id 73
+    name "74"
     label "0w8Awc2nc0w"
     step 0
     date "2021-09-04T01:00:00Z"
@@ -1425,12 +2210,23 @@ graph
     commentcount 521
     duration "PT3M1S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 75
+    id 74
+    name "75"
     label "kPUHTImIqkk"
     step 0
     date "2021-06-24T15:02:00Z"
@@ -1444,12 +2240,23 @@ graph
     commentcount 1273
     duration "PT12M10S"
     indegree 3
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 76
+    id 75
+    name "76"
     label "f8HeR2ARKBY"
     step 0
     date "2022-03-23T00:48:34Z"
@@ -1463,12 +2270,23 @@ graph
     commentcount 217
     duration "PT29M25S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 1
   ]
   node
   [
-    id 77
+    id 76
+    name "77"
     label "coL1uedveZE"
     step 0
     date "2022-04-19T01:07:08Z"
@@ -1482,12 +2300,23 @@ graph
     commentcount 3722
     duration "PT15M17S"
     indegree 7
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "LateNightTalkShow|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 78
+    id 77
+    name "78"
     label "z-SffJkUt_U"
     step 0
     date "2014-02-02T01:23:25Z"
@@ -1501,12 +2330,23 @@ graph
     commentcount -1
     duration "PT22M40S"
     indegree 28
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 79
+    id 78
+    name "79"
     label "uF6B5ar4FgI"
     step 0
     date "2021-06-24T13:30:08Z"
@@ -1520,12 +2360,23 @@ graph
     commentcount 1604
     duration "PT9M21S"
     indegree 17
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 80
+    id 79
+    name "80"
     label "xUt2I75wQEk"
     step 0
     date "2021-06-16T06:30:06Z"
@@ -1539,12 +2390,23 @@ graph
     commentcount 895
     duration "PT5M34S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
     cluster 4
   ]
   node
   [
-    id 81
+    id 80
+    name "81"
     label "oCya-XjjBsc"
     step 0
     date "2021-06-12T01:00:25Z"
@@ -1558,12 +2420,23 @@ graph
     commentcount 1124
     duration "PT6M36S"
     indegree 14
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 82
+    id 81
+    name "82"
     label "nP9ynWoT1QY"
     step 0
     date "2021-06-10T02:38:25Z"
@@ -1577,12 +2450,23 @@ graph
     commentcount 162
     duration "PT2M44S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 83
+    id 82
+    name "83"
     label "dQTnV0E91fY"
     step 0
     date "2022-03-22T21:00:13Z"
@@ -1596,12 +2480,23 @@ graph
     commentcount 454
     duration "PT3M34S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 84
+    id 83
+    name "84"
     label "DYwPwRpXtWU"
     step 0
     date "2021-05-20T20:41:58Z"
@@ -1615,12 +2510,23 @@ graph
     commentcount 478
     duration "PT8M24S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 85
+    id 84
+    name "85"
     label "f0tN_AA0EKw"
     step 0
     date "2022-02-16T18:42:52Z"
@@ -1634,12 +2540,23 @@ graph
     commentcount 6
     duration "PT6M27S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 86
+    id 85
+    name "86"
     label "i2PJNfOFNLk"
     step 0
     date "2021-06-15T02:35:26Z"
@@ -1653,12 +2570,23 @@ graph
     commentcount 2127
     duration "PT7M1S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 87
+    id 86
+    name "87"
     label "KajzZPKPsrY"
     step 0
     date "2021-06-16T15:30:09Z"
@@ -1672,12 +2600,23 @@ graph
     commentcount 252
     duration "PT25M16S"
     indegree 13
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 88
+    id 87
+    name "88"
     label "k5LO_b3k6a8"
     step 0
     date "2021-06-20T16:43:09Z"
@@ -1691,12 +2630,23 @@ graph
     commentcount 3380
     duration "PT8M35S"
     indegree 47
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 89
+    id 88
+    name "89"
     label "IpIUklDBLHE"
     step 0
     date "2021-11-03T22:00:20Z"
@@ -1710,12 +2660,23 @@ graph
     commentcount 1461
     duration "PT8M29S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 90
+    id 89
+    name "90"
     label "_CwGy392gFE"
     step 0
     date "2021-07-06T14:30:09Z"
@@ -1729,12 +2690,23 @@ graph
     commentcount 2005
     duration "PT8M37S"
     indegree 19
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 91
+    id 90
+    name "91"
     label "4xfFUgVK5AY"
     step 0
     date "2021-08-23T15:54:46Z"
@@ -1748,12 +2720,23 @@ graph
     commentcount 57
     duration "PT3M16S"
     indegree 4
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 92
+    id 91
+    name "92"
     label "nY3CuLwGUx0"
     step 0
     date "2021-11-03T02:00:07Z"
@@ -1767,12 +2750,23 @@ graph
     commentcount 3003
     duration "PT5M32S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 93
+    id 92
+    name "93"
     label "8u2en1Fwwas"
     step 0
     date "2022-04-19T02:15:00Z"
@@ -1786,12 +2780,23 @@ graph
     commentcount 776
     duration "PT3M59S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 94
+    id 93
+    name "94"
     label "qeT8-V3wrgs"
     step 0
     date "2022-03-22T20:31:41Z"
@@ -1805,12 +2810,23 @@ graph
     commentcount 1738
     duration "PT3M34S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 95
+    id 94
+    name "95"
     label "eBzt6vhseww"
     step 0
     date "2021-06-10T12:30:18Z"
@@ -1824,12 +2840,23 @@ graph
     commentcount 895
     duration "PT2M59S"
     indegree 4
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 96
+    id 95
+    name "96"
     label "mxpsFMu4Dx0"
     step 0
     date "2021-07-13T17:00:24Z"
@@ -1843,12 +2870,23 @@ graph
     commentcount 474
     duration "PT3M18S"
     indegree 29
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 3
   ]
   node
   [
-    id 97
+    id 96
+    name "97"
     label "9wtn-JbJNbM"
     step 0
     date "2022-02-16T22:27:06Z"
@@ -1862,12 +2900,23 @@ graph
     commentcount 6
     duration "PT2M19S"
     indegree 3
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 98
+    id 97
+    name "98"
     label "raM-F94QPpI"
     step 0
     date "2021-05-13T00:50:14Z"
@@ -1881,12 +2930,23 @@ graph
     commentcount 2481
     duration "PT5M"
     indegree 28
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 99
+    id 98
+    name "99"
     label "YZJVLiUQKqA"
     step 0
     date "2022-03-23T15:34:57Z"
@@ -1900,12 +2960,23 @@ graph
     commentcount 606
     duration "PT2M54S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 100
+    id 99
+    name "100"
     label "hqYs97FG6ZU"
     step 0
     date "2022-04-18T23:11:22Z"
@@ -1919,12 +2990,23 @@ graph
     commentcount -1
     duration "PT2M41S"
     indegree 1
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 101
+    id 100
+    name "101"
     label "4dW5HP3mQ_s"
     step 0
     date "2022-02-05T05:45:00Z"
@@ -1938,12 +3020,23 @@ graph
     commentcount 273
     duration "PT4M54S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 102
+    id 101
+    name "102"
     label "r9L9sZhuFus"
     step 0
     date "2021-11-02T18:00:15Z"
@@ -1957,12 +3050,23 @@ graph
     commentcount 2138
     duration "PT5M35S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 103
+    id 102
+    name "103"
     label "qq8YkVg-KAc"
     step 0
     date "2021-07-08T19:59:47Z"
@@ -1976,12 +3080,23 @@ graph
     commentcount 558
     duration "PT5M51S"
     indegree 18
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 104
+    id 103
+    name "104"
     label "plfn0d7s2CE"
     step 0
     date "2022-04-18T18:00:29Z"
@@ -1995,12 +3110,23 @@ graph
     commentcount 4343
     duration "PT3M54S"
     indegree 8
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 105
+    id 104
+    name "105"
     label "e3b6JT0kiLU"
     step 0
     date "2022-01-27T23:22:41Z"
@@ -2014,12 +3140,23 @@ graph
     commentcount 47
     duration "PT2M36S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 106
+    id 105
+    name "106"
     label "zuMvutNEqso"
     step 0
     date "2022-02-10T22:01:16Z"
@@ -2033,12 +3170,23 @@ graph
     commentcount 5
     duration "PT7M38S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 107
+    id 106
+    name "107"
     label "tzLcqDk7kjg"
     step 0
     date "2022-03-17T16:02:05Z"
@@ -2052,12 +3200,23 @@ graph
     commentcount 146
     duration "PT5M41S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 108
+    id 107
+    name "108"
     label "fFNVsmJWndo"
     step 0
     date "2022-02-09T23:27:12Z"
@@ -2071,12 +3230,23 @@ graph
     commentcount 27
     duration "PT2M25S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 4
   ]
   node
   [
-    id 109
+    id 108
+    name "109"
     label "9pET0JPW6bo"
     step 0
     date "2021-06-12T15:00:03Z"
@@ -2090,12 +3260,23 @@ graph
     commentcount -1
     duration "PT4M4S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 110
+    id 109
+    name "110"
     label "6xMGRAhZAes"
     step 0
     date "2021-10-02T06:33:24Z"
@@ -2109,12 +3290,23 @@ graph
     commentcount 169
     duration "PT8M52S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 111
+    id 110
+    name "111"
     label "ALZY1PAa2p8"
     step 0
     date "2021-06-08T23:00:42Z"
@@ -2128,12 +3320,23 @@ graph
     commentcount 9662
     duration "PT6M42S"
     indegree 15
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
     cluster 3
   ]
   node
   [
-    id 112
+    id 111
+    name "112"
     label "UD8A81Vhh4Y"
     step 0
     date "2021-07-09T16:15:01Z"
@@ -2147,12 +3350,23 @@ graph
     commentcount 394
     duration "PT3M48S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 4
   ]
   node
   [
-    id 113
+    id 112
+    name "113"
     label "8sGbLdAt0LY"
     step 0
     date "2021-06-23T11:52:33Z"
@@ -2166,12 +3380,23 @@ graph
     commentcount 803
     duration "PT3M18S"
     indegree 7
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 114
+    id 113
+    name "114"
     label "cejZKnURf0w"
     step 0
     date "2021-10-04T20:50:03Z"
@@ -2185,12 +3410,23 @@ graph
     commentcount -1
     duration "PT9M52S"
     indegree 8
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 115
+    id 114
+    name "115"
     label "Kgx49-lJrYA"
     step 0
     date "2021-05-14T12:30:03Z"
@@ -2204,12 +3440,23 @@ graph
     commentcount 8819
     duration "PT6M36S"
     indegree 20
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 116
+    id 115
+    name "116"
     label "WxUggD7LDqQ"
     step 0
     date "2022-04-22T18:38:11Z"
@@ -2223,12 +3470,23 @@ graph
     commentcount 358
     duration "PT9M21S"
     indegree 12
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 117
+    id 116
+    name "117"
     label "TS_nPhsMw0w"
     step 0
     date "2021-11-01T02:35:13Z"
@@ -2242,12 +3500,23 @@ graph
     commentcount 2227
     duration "PT12M35S"
     indegree 12
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 4
   ]
   node
   [
-    id 118
+    id 117
+    name "118"
     label "1SSn1XZ1abs"
     step 0
     date "2021-06-03T19:59:50Z"
@@ -2261,12 +3530,23 @@ graph
     commentcount 1705
     duration "PT4M26S"
     indegree 1
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 9
   ]
   node
   [
-    id 119
+    id 118
+    name "119"
     label "q8XWnXP4jFY"
     step 0
     date "2021-10-22T15:01:30Z"
@@ -2280,12 +3560,23 @@ graph
     commentcount 982
     duration "PT13M17S"
     indegree 4
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 120
+    id 119
+    name "120"
     label "HXmaEJ3Yd_I"
     step 0
     date "2021-11-23T15:20:41Z"
@@ -2299,12 +3590,23 @@ graph
     commentcount 1121
     duration "PT35M58S"
     indegree 8
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 3
   ]
   node
   [
-    id 121
+    id 120
+    name "121"
     label "KtJ3s6YECAc"
     step 0
     date "2021-10-25T23:38:56Z"
@@ -2318,12 +3620,23 @@ graph
     commentcount 232
     duration "PT3M10S"
     indegree 5
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 122
+    id 121
+    name "122"
     label "lIMPQPNmYEE"
     step 0
     date "2021-07-19T17:45:00Z"
@@ -2337,12 +3650,23 @@ graph
     commentcount 713
     duration "PT3M54S"
     indegree 31
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 123
+    id 122
+    name "123"
     label "Xf0Yt8ToaAI"
     step 0
     date "2021-11-10T23:08:26Z"
@@ -2356,12 +3680,23 @@ graph
     commentcount 1
     duration "PT1M29S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 124
+    id 123
+    name "124"
     label "Q6NHK6mgy_A"
     step 0
     date "2021-12-01T13:49:56Z"
@@ -2375,12 +3710,23 @@ graph
     commentcount 3
     duration "PT56M17S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 125
+    id 124
+    name "125"
     label "_xHez-mMG70"
     step 0
     date "2021-11-03T21:09:55Z"
@@ -2394,12 +3740,23 @@ graph
     commentcount 9
     duration "PT7M37S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 126
+    id 125
+    name "126"
     label "a3r2B1Z4-D4"
     step 0
     date "2021-06-24T00:26:00Z"
@@ -2413,12 +3770,23 @@ graph
     commentcount -1
     duration "PT2H51M44S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 127
+    id 126
+    name "127"
     label "mwSPOviOJ7k"
     step 0
     date "2021-06-10T15:52:03Z"
@@ -2432,31 +3800,53 @@ graph
     commentcount 25
     duration "PT4M45S"
     indegree 6
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 8
+  ]
+  node
+  [
+    id 127
+    name "128"
+    label "nGaOVT75-Yw"
+    step 0
+    date "2022-07-08T22:42:20Z"
+    title "Florida moves to restrict what schools can teach about systemic racism"
+    description "A new law in Florida has instituted restrictions on how schools and businesses can teach race-related concepts. The law, called the Stop Woke Act, limits instruction on critical race theory. It's the latest part of Republican Gov. Ron Desantis&#8217; extensive efforts to reshape public education and curriculum in the state. The Miami Herald's Ana Ceballos joins Lisa Desjardins to discuss.&#10;&#10;Stream your PBS favorites with the PBS app: https://to.pbs.org/2Jb8twG  &#10;Find more from PBS NewsHour at https://www.pbs.org/newshour  &#10;Subscribe to our YouTube channel: https://bit.ly/2HfsCD6 &#10;&#10;Follow us: &#10;TikTok: https://www.tiktok.com/@pbsnews  &#10;Twitter: http://www.twitter.com/newshour&#10;Instagram: http://www.instagram.com/newshour  &#10;Facebook: http://www.pbs.org/newshour  &#10;&#10;Subscribe: &#10;PBS NewsHour podcasts: https://www.pbs.org/newshour/podcasts&#10;Newsletters: https://www.pbs.org/newshour/subscribe"
+    channeltitle "PBS NewsHour"
+    channelid "UC6ZFN9Tx6xh-skXCuRHCDpQ"
+    favcount 0
+    viewcount 13766
+    likecount 269
+    commentcount -1
+    duration "PT5M17S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|StateFunded"
+    leftright "C"
     cluster 3
   ]
   node
   [
-    id 129
-    label "TLROQ5wf6os"
-    step 0
-    date "2022-03-23T17:04:44Z"
-    title "Sen. Ted Cruz questions Supreme Court nominee Judge Ketanji Brown Jackson on Critical Race Theory"
-    description "Sen. Ted Cruz (R-Texas) questioned Supreme Court nominee Judge Ketanji Brown Jackson about critical race theory Tuesday during the confirmation hearings.  &#10;&#10;Full story: https://www.khou.com/article/news/politics/ketanji-brown-jackson-supreme-court-ted-cruz/285-307892e7-413f-4e69-9283-2984e7a85472"
-    channeltitle "KHOU 11"
-    channelid "UCXwRxm0zS0jBNTMOVI6xZJw"
-    favcount 0
-    viewcount 50276
-    likecount 278
-    commentcount 403
-    duration "PT2M7S"
-    indegree 5
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 130
+    id 128
+    name "130"
     label "frLdug9qNDE"
     step 0
     date "2022-04-06T22:14:33Z"
@@ -2470,12 +3860,23 @@ graph
     commentcount -1
     duration "PT4M16S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 131
+    id 129
+    name "131"
     label "06ZMIv7ASng"
     step 0
     date "2021-09-23T07:30:00Z"
@@ -2489,12 +3890,23 @@ graph
     commentcount 501
     duration "PT5M48S"
     indegree 42
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 3
   ]
   node
   [
-    id 132
+    id 130
+    name "132"
     label "YJUYgb242-E"
     step 0
     date "2022-01-17T20:22:17Z"
@@ -2508,12 +3920,23 @@ graph
     commentcount 2
     duration "PT1H3M26S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 133
+    id 131
+    name "133"
     label "nWqFRUc6XGU"
     step 0
     date "2021-07-22T20:59:50Z"
@@ -2527,50 +3950,83 @@ graph
     commentcount 243
     duration "PT4M53S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 8
+  ]
+  node
+  [
+    id 132
+    name "134"
+    label "n1qJGLwGvPg"
+    step 0
+    date "2022-06-28T09:00:26Z"
+    title "Should Muslims use Critical Race Theory?"
+    description "Dr Mohamed Ghilan responds to the query &#34;Can Critical Race theory be used to empower the Muslim Community?&#34;&#10;&#10;&#128276; Subscribe to our YouTube to help us reach our &#120783; &#119820;&#119842;&#119845;&#119845;&#119842;&#119848;&#119847; subscriber goal. &#10;&#10;&#127881;  Introducing the official OnePath Network MERCHANDISE STORE! &#127991;&#65039; &#128085; &#128073; https://shop.onepathnetwork.com/&#10;&#10;If you enjoy OnePath content, please consider supporting us to grow! &#9658;https://onepathnetwork.com/dollar-a-day/?&#38;utm_source=youtube&#38;utm_medium=description&#10;&#10;Download the OnePath Network App for access to the latest and exclusive videos:&#10;https://onepath.onelink.me/mJxr/3de973bd&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCQHRLH8RQIrdGWMhf5heWiA/join&#10;&#10;Facebook &#9658;: https://www.facebook.com/onepathnetwork&#10;Instagram &#9658;: https://www.instagram.com/onepathnetwork/&#10;Patreon &#9658;: https://www.patreon.com/OnePathNetwork"
+    channeltitle "OnePath Network"
+    channelid "UCQHRLH8RQIrdGWMhf5heWiA"
+    favcount 0
+    viewcount 6303
+    likecount 437
+    commentcount 92
+    duration "PT6M24S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 135
-    label "A3KuzMDkPac"
+    id 133
+    name "136"
+    label "3vNx3jELcqg"
     step 0
-    date "2021-12-27T15:33:10Z"
-    title "Critical Race Theory: Texas Pushing to Ban Certain Books from Libraries"
-    description "BNC justice correspondent Candace Kelly joins &#8220;Start Your Day&#8221; discussing the fierce debate in Texas over books teaching kids about social issues such as race, LGBTQ+ rights, etc. &#10;&#10;More schools in the state are banning certain books, and now there&#8217;s a push by parents and some politicians to have those books removed from public libraries.  &#10;&#10;&#8220;This is kind of an underhanded way once again to try to figure out how we can remove information from the lives of young people in school,&#8221; Kelly says.  &#10;&#10;All this and more on &#8220;Start Your Day.&#8221;  &#10;&#10;To watch BNC programming, visit https://bnc.tv/how-to-watch/   &#10;Follow BNC on social media:   &#10;Facebook: https://www.facebook.com/BNCNews   &#10;Twitter: https://twitter.com/BNCNews   &#10;Instagram: https://www.instagram.com/bncnews/?hl=en  &#10; &#10;#Texas #CriticalRaceTheory #Books"
-    channeltitle "BNC News"
-    channelid "UCAPlkRGvp4_JnsIyOJmpgDg"
+    date "2022-02-09T21:04:31Z"
+    title "Missouri AG sues Springfield Public Schools over Critical Race Theory curriculum"
+    description "Missouri Attorney General Eric Schmitt sues Springfield Public Schools for not responding to Sunshine Law Requests about the Critical Race Theory curriculum. School officials say they responded and deny teaching anything other than inclusion. They accuse Schmitt of spreading misinformation and using the opportunity for political gain."
+    channeltitle "KY3 News"
+    channelid "UCnKYBTzfcyzIsd9aqczP0JQ"
     favcount 0
-    viewcount 1950
-    likecount 99
-    commentcount 180
-    duration "PT7M"
+    viewcount 653
+    likecount 9
+    commentcount 5
+    duration "PT3M26S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 137
-    label "BED_D6Hc6TU"
-    step 0
-    date "2022-02-21T15:49:55Z"
-    title "What is Critical Race Theory? | James Lindsay"
-    description "Resisting Critical Race Theory Workshop, Session 1 of 5&#10;&#10;What is Critical Race Theory? What does it believe? Where does it come from? How does it work? And what can we do about it? These are core questions to understanding our times. In this series of lectures, originally delivered in Tampa, Florida, in July of 2021, James Lindsay, the founder of New Discourses, gives thorough, deep answers to these questions. &#10;&#10;In the first of these lectures, Lindsay dives into a pressing question: what is Critical Race Theory? In particular, he seeks to offer answers and insights about what defines Critical Race Theory, both in terms of what it represents as a Theory and in terms of what its core beliefs are as a religious system. His answer is simple: Critical Race Theory is Race Marxism. In this illuminating lecture, Lindsay takes us through excerpts from introductory and advanced Critical Race Theory texts to make clear not only that CRT is, in fact, Race Marxism, but what that means in practice for everyone. He stresses particularly that Critical Race Theory is a belief system founded on the article of faith that racism that benefits white people is the fundamental organizing principle of society. He then details thirteen core beliefs, or tenets, of the Critical Race Theory faith and explains how they form a comprehensive, systematic system of belief around that core article of faith. Join him for this and the subsequent lectures in the series to understand Critical Race Theory like you never have before.&#10;&#10;For those interested in learning even more, Lindsay's newest book, Race Marxism: The Truth About Critical Race Theory and Praxis (http://racemarxism.com), was developed out of the notes for this series of lectures. His notes for this lecture served as the basis for the first two chapters of the book. Get the book and follow along with the lectures!&#10;&#10;Session 2: https://newdiscourses.com/2022/02/proximate-ideological-origins-critical-race-theory/&#10;Session 3: https://newdiscourses.com/2022/03/deep-ideological-origins-critical-race-theory/&#10;Session 4: https://newdiscourses.com/2022/03/how-critical-race-theory-operates/&#10;Session 5: https://newdiscourses.com/2022/03/what-to-do-about-critical-race-theory/&#10;&#10;Support New Discourses:&#10;https://www.paypal.me/newdiscourses&#10;https://newdiscourses.locals.com/support&#10;https://patreon.com/newdiscourses&#10;https://subscribestar.com/newdiscourses&#10;https://www.youtube.com/channel/UC9K5PLkj0N_b9JTPdSRwPkg/join&#10;&#10;Website:&#10;https://newdiscourses.com&#10;&#10;Follow:&#10;https://facebook.com/newdiscourses&#10;https://twitter.com/NewDiscourses&#10;https://instagram.com/newdiscourses &#10;https://newdiscourses.locals.com/&#10;https://pinterest.com/newdiscourses/&#10;https://linkedin.com/company/newdiscourses&#10;https://minds.com/newdiscourses&#10;https://reddit.com/r/NewDiscourses&#10;&#10;Podcast:&#10;https://soundcloud.com/newdiscourses&#10;https://podcasts.apple.com/us/podcast/new-discourses/id1499880546&#10;http://bit.ly/NDGooglePodcasts&#10;https://open.spotify.com/show/0HfzDaXI5L4LnJQStFWgZp&#10;https://stitcher.com/podcast/new-discourses&#10;&#10;&#169; 2022 New Discourses. All rights reserved."
-    channeltitle "New Discourses"
-    channelid "UC9K5PLkj0N_b9JTPdSRwPkg"
-    favcount 0
-    viewcount 149977
-    likecount 6268
-    commentcount 1515
-    duration "PT1H27M5S"
-    indegree 20
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 138
+    id 134
+    name "138"
     label "KQpdgtk7xCs"
     step 0
     date "2021-11-03T21:35:21Z"
@@ -2584,12 +4040,23 @@ graph
     commentcount 12
     duration "PT1H22M9S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 139
+    id 135
+    name "139"
     label "nZTIrsexnhc"
     step 0
     date "2021-10-05T10:19:46Z"
@@ -2603,12 +4070,23 @@ graph
     commentcount 232
     duration "PT1H4M2S"
     indegree 12
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 140
+    id 136
+    name "140"
     label "E2KL8oHxW8A"
     step 0
     date "2021-05-06T00:32:39Z"
@@ -2622,12 +4100,23 @@ graph
     commentcount 5384
     duration "PT8M43S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 141
+    id 137
+    name "141"
     label "weuyJFcI_E0"
     step 0
     date "2021-06-04T05:47:10Z"
@@ -2641,12 +4130,23 @@ graph
     commentcount 48
     duration "PT5M29S"
     indegree 3
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 142
+    id 138
+    name "142"
     label "oR79ywYT-eo"
     step 0
     date "2022-02-24T01:26:41Z"
@@ -2660,12 +4160,23 @@ graph
     commentcount 2
     duration "PT44M35S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 143
+    id 139
+    name "143"
     label "oE6wISHWlp8"
     step 0
     date "2021-12-18T02:13:06Z"
@@ -2679,31 +4190,53 @@ graph
     commentcount 19
     duration "PT7M40S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 145
-    label "J03o_PHFXPA"
+    id 140
+    name "144"
+    label "CFjK3BLDLr4"
     step 0
-    date "2021-08-03T14:15:01Z"
-    title "Critical race theory training for officers blasted by former cop"
-    description "Brandon Tatum, a former Tucson police officer, sounds off on the city of Austin for funding 'anti-American' critical race theory training for officers.&#160;&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity: http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
-    channeltitle "Fox News"
-    channelid "UCXIJgqnII2ZOINSWNOGFThA"
+    date "2020-06-24T13:23:47Z"
+    title "Critical Race Theory with Dr. Neil Shenvi"
+    description "Have you found yourself a bit confused by all the talk on Critical Race Theory, Identity Politics, Intersectionality, and terms of like manner? If so, join Bobby as he interviews apologist Dr. Neil Shenvi to discuss Critical Race Theory 101. &#10;&#10;Details: Tuesday, June 23rd at 8:00 PM EST"
+    channeltitle "oneminuteapologist"
+    channelid "UCXkgIl5W-HXG8-srQdyAbDw"
     favcount 0
-    viewcount 65486
-    likecount 4093
-    commentcount 1000
-    duration "PT3M46S"
-    indegree 0
-    sentiment 1
-    cluster 4
+    viewcount 13551
+    likecount 349
+    commentcount 110
+    duration "PT1H16M11S"
+    indegree 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 6
   ]
   node
   [
-    id 146
+    id 141
+    name "146"
     label "ihnuYXKBGZg"
     step 0
     date "2021-05-26T01:27:37Z"
@@ -2717,12 +4250,23 @@ graph
     commentcount 11135
     duration "PT25M1S"
     indegree 38
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 147
+    id 142
+    name "147"
     label "WUBDHs55_1U"
     step 0
     date "2021-06-23T21:17:08Z"
@@ -2736,12 +4280,23 @@ graph
     commentcount 1076
     duration "PT2M4S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 148
+    id 143
+    name "148"
     label "a1-VBgENZ7c"
     step 0
     date "2021-06-10T20:45:11Z"
@@ -2755,12 +4310,23 @@ graph
     commentcount 7500
     duration "PT12M29S"
     indegree 27
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
     cluster 4
   ]
   node
   [
-    id 149
+    id 144
+    name "149"
     label "BzXQZvr2nvY"
     step 0
     date "2021-07-14T22:02:10Z"
@@ -2774,12 +4340,23 @@ graph
     commentcount 1
     duration "PT2M25S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 150
+    id 145
+    name "150"
     label "LygIypMuxv4"
     step 0
     date "2021-07-08T00:30:02Z"
@@ -2793,12 +4370,23 @@ graph
     commentcount 139
     duration "PT5M24S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 151
+    id 146
+    name "151"
     label "d1cFYh5lNOg"
     step 0
     date "2021-11-10T15:00:18Z"
@@ -2812,12 +4400,23 @@ graph
     commentcount 758
     duration "PT3M30S"
     indegree 18
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 152
+    id 147
+    name "152"
     label "xrm-1uzBmQY"
     step 0
     date "2021-06-23T12:00:35Z"
@@ -2831,12 +4430,23 @@ graph
     commentcount 4397
     duration "PT4M50S"
     indegree 22
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 153
+    id 148
+    name "153"
     label "hqaCDXosfuU"
     step 0
     date "2020-11-16T16:00:11Z"
@@ -2850,12 +4460,23 @@ graph
     commentcount 1265
     duration "PT36M13S"
     indegree 37
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 154
+    id 149
+    name "154"
     label "Y-gBQYl07KE"
     step 0
     date "2022-03-23T14:07:53Z"
@@ -2869,12 +4490,23 @@ graph
     commentcount 216
     duration "PT14M22S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 155
+    id 150
+    name "155"
     label "Fuap-T-YQFc"
     step 0
     date "2021-09-18T14:00:49Z"
@@ -2888,12 +4520,23 @@ graph
     commentcount 1449
     duration "PT5M28S"
     indegree 3
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 156
+    id 151
+    name "156"
     label "-aPLJT6pfFY"
     step 0
     date "2021-07-07T22:15:00Z"
@@ -2907,31 +4550,53 @@ graph
     commentcount 5456
     duration "PT8M24S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 158
-    label "Imxl0Oty6ok"
+    id 152
+    name "157"
+    label "F6Rc11HDFkU"
     step 0
-    date "2021-08-22T12:00:05Z"
-    title "Colorado father: Critical race theory keeps racism on life support"
-    description "Rocky Mountain Black Conservatives Executive Director Derrick Wilburn elaborates on his viral school board speech slamming critical race theory. #FoxNews&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
-    channeltitle "Fox News"
-    channelid "UCXIJgqnII2ZOINSWNOGFThA"
+    date "2022-03-23T18:00:05Z"
+    title "Education Secy. On Impacts Of  Bill, Critical Race Theory, Covid Pandemic"
+    description "NBC News NOW&#8217;s Savannah Sellers sat down with Education Secretary Miguel Cardona for a wide-ranging interview, discussing everything from how to safely return kids to the classroom and supporting students&#8217; mental health to Florida&#8217;s &#8220;Don&#8217;t Say Gay&#8221; bill and critical race theory.&#160;&#10;&#10;&#187; Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC&#10;&#187; Watch more NBC video: http://bit.ly/MoreNBCNews&#10;&#10;NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news stories. NBC News Digital features NBCNews.com, MSNBC.com, TODAY.com, Nightly News, Meet the Press, Dateline, and the existing apps and digital extensions of these respective properties.  We deliver the best in breaking news, live video coverage, original journalism and segments from your favorite NBC News Shows.&#10;&#10;Connect with NBC News Online!&#10;NBC News App: https://apps.nbcnews.com/mobile&#10;Breaking News Alerts: https://link.nbcnews.com/join/5cj/breaking-news-signup?cid=sm_npd_nn_yt_bn-clip_190621&#10;Visit NBCNews.Com: http://nbcnews.to/ReadNBC&#10;Find NBC News on Facebook: http://nbcnews.to/LikeNBC&#10;Follow NBC News on Twitter: http://nbcnews.to/FollowNBC&#10;Follow NBC News on Instagram: http://nbcnews.to/InstaNBC&#10;&#10;#News #Education #MiguelCardona"
+    channeltitle "NBC News"
+    channelid "UCeY0bbntWzzVIaj2z3QigXg"
     favcount 0
-    viewcount 99621
-    likecount 5158
-    commentcount -1
-    duration "PT5M28S"
-    indegree 5
-    sentiment 1
-    cluster 7
+    viewcount 7610
+    likecount 165
+    commentcount 160
+    duration "PT8M7S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 159
+    id 153
+    name "159"
     label "beOAJz_pUxI"
     step 0
     date "2021-06-04T02:09:22Z"
@@ -2945,12 +4610,23 @@ graph
     commentcount 91
     duration "PT5M26S"
     indegree 6
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 9
   ]
   node
   [
-    id 160
+    id 154
+    name "160"
     label "ZwEWqT9XCyM"
     step 0
     date "2021-07-17T23:46:26Z"
@@ -2964,12 +4640,23 @@ graph
     commentcount 4
     duration "PT19M58S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 161
+    id 155
+    name "161"
     label "o0XfxZhyNqQ"
     step 0
     date "2022-01-26T04:26:35Z"
@@ -2983,12 +4670,23 @@ graph
     commentcount 3
     duration "PT57S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 162
+    id 156
+    name "162"
     label "mjztzqT8JoQ"
     step 0
     date "2021-06-24T05:20:26Z"
@@ -3002,12 +4700,23 @@ graph
     commentcount 1987
     duration "PT4M5S"
     indegree 11
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanLeft"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 163
+    id 157
+    name "163"
     label "YKyEjIPnuLU"
     step 0
     date "2021-06-23T16:45:01Z"
@@ -3021,12 +4730,23 @@ graph
     commentcount 1209
     duration "PT7M41S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 4
   ]
   node
   [
-    id 164
+    id 158
+    name "164"
     label "y0hobFwF9DY"
     step 0
     date "2021-09-03T20:00:23Z"
@@ -3040,12 +4760,23 @@ graph
     commentcount 1144
     duration "PT1H8M40S"
     indegree 33
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 165
+    id 159
+    name "165"
     label "Q5M4QGMVuEA"
     step 0
     date "2022-03-15T10:59:53Z"
@@ -3059,12 +4790,23 @@ graph
     commentcount 213
     duration "PT1M47S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 166
+    id 160
+    name "166"
     label "u7pB_4qVCXo"
     step 0
     date "2021-06-24T00:34:43Z"
@@ -3078,12 +4820,23 @@ graph
     commentcount 175
     duration "PT8M7S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 167
+    id 161
+    name "167"
     label "8Zy6DQoRYQw"
     step 0
     date "2021-04-26T13:00:16Z"
@@ -3097,31 +4850,53 @@ graph
     commentcount 10723
     duration "PT5M5S"
     indegree 33
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 8
+  ]
+  node
+  [
+    id 162
+    name "168"
+    label "xfMAq3yD9mQ"
+    step 0
+    date "2022-02-17T18:36:52Z"
+    title "Lies and the Lying Racists: The GOP on Critical Race Theory (Feb. 17, 2022)"
+    description "Welfare Queens, Willie Horton, Birthers, Now Critical Race Theory &#10;&#10;Get tickets to see Al on the &#34;The Only Former U.S. Senator Currently on Tour&#34; Tour at https://alfranken.com/appearances.&#10;&#10;Subscribe to The Al Franken Podcast on:&#10;Apple Podcasts: http://bit.ly/TheAlFrankenPodcast-iTunes&#10;Spotify: http://bit.ly/TheAlFrankenPodcast-Spotify&#10;Google Podcasts: http://bit.ly/TheAlFrankenPodcast-Google&#10;Amazon Music: http://bit.ly/TheAlFrankenPodcast-Amazon"
+    channeltitle "Al Franken"
+    channelid "UChK2Q2QyQlygpwSp8AE24TQ"
+    favcount 0
+    viewcount 126729
+    likecount 9158
+    commentcount 1120
+    duration "PT10M20S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 169
-    label "0b1aw4_7YG0"
-    step 0
-    date "2021-02-03T22:19:54Z"
-    title "Future Hindsight | Critical Race Theory: Mari Matsuda"
-    description "This week, we're joined by Mari Matsuda, a lawyer, activist, law professor, and founding practitioner of Critical Race Theory. We discuss the various ways inequality threatens our freedom, the dangers of harmful speech, and the way racism is systemic in our institutions.&#10;&#10;Be sure to listen to the episode now!&#10;&#10;https://podcasts.apple.com/us/podcast/critical-race-theory-mari-matsuda/id1334328470?i=1000506924167&#10;.&#10;.&#10;.&#10;SOCIAL: &#10;Twitter: @futur_hindsight&#10;Instagram: @future__hindsight&#10;Website: www.futurehindsight.com"
-    channeltitle "Future Hindsight"
-    channelid "UCMJnjCXsID10wREXQLhoYyg"
-    favcount 0
-    viewcount 1237
-    likecount 27
-    commentcount 2
-    duration "PT36M39S"
-    indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 170
+    id 163
+    name "170"
     label "KbzPDoEgO_s"
     step 0
     date "2020-10-16T17:00:09Z"
@@ -3135,31 +4910,53 @@ graph
     commentcount 757
     duration "PT1H18M52S"
     indegree 18
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 172
-    label "jp4Ioxv1UEM"
+    id 164
+    name "171"
+    label "S1Ja9fSAkT0"
     step 0
-    date "2021-05-27T03:43:32Z"
-    title "Jonathan Chism on the History of Critical Race Theory and effects of growing attacks in education"
-    description "The threat on critical race theory in education continues to grow as Tennessee becomes the fourth state in the nation to ban teaching it in schools.  &#10;&#10;Jonathan Chism, co-editor of critical race theory across multiple disciplines and Assistant professor of History at the University of Houston, joined Charles Blow on BNC Prime to discuss the impact of new legislative measures that would erase the truths of racism throughout the nation&#8217;s history.  &#10;&#10;Several states either have bills moving forward or comparable measures already in place, including Oklahoma, where Governor Kevin Stitt signed a bill banning schools from teaching about the Tulsa Massacre the same month as its 100th anniversary."
-    channeltitle "BNC News"
-    channelid "UCAPlkRGvp4_JnsIyOJmpgDg"
+    date "2022-03-09T22:00:08Z"
+    title "Critical Race Theory Comes to Fairview - Fairview"
+    description "Fairview faces a new challenge: books.&#10;&#10;About Fairview:&#10;Whether it&#8217;s employment, climate change, vaccines or some other hot-button issue, the pigheaded-and-proud residents in the small town of Fairview are always ready for a fight.&#10;&#10;About Animated: &#10;Looking for funny cartoons? Comedy Central&#8217;s Animated channel is your one-stop shop for animated comedy that&#8217;s fun &#8211; but not always appropriate &#8211; for the whole family. Immerse yourself in clips, livestreams and compilations from new and legendary series alike. Check out brand-new episodes of Tales from the Trip and other originals, or catch up on old favorites like Dr. Katz and TripTank. &#10;&#10;Follow Animated:&#10;Instagram: https://www.instagram.com/animated &#10;&#10;Subscribe to Animated: https://www.youtube.com/channel/UCNVBYBxWj9dMHqKEl_V8HBQ?sub_confirmation=1&#10;&#10;Watch more Comedy Central: https://www.youtube.com/comedycentral&#10; &#10;Follow Comedy Central:&#10;Twitter: https://twitter.com/ComedyCentral&#10;Facebook: https://www.facebook.com/ComedyCentral&#10;Instagram: https://www.instagram.com/comedycentral&#10;&#10;#Animated #Fairview"
+    channeltitle "Animated"
+    channelid "UCqp9YsX6sR7i93CY4yGsAow"
     favcount 0
-    viewcount 6709
-    likecount 243
-    commentcount 389
-    duration "PT7M57S"
-    indegree 5
-    sentiment 1
-    cluster 6
+    viewcount 4313
+    likecount 50
+    commentcount 83
+    duration "PT1M58S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 173
+    id 165
+    name "173"
     label "we45ySMOjXQ"
     step 0
     date "2022-01-31T15:28:51Z"
@@ -3173,12 +4970,23 @@ graph
     commentcount 171
     duration "PT5M40S"
     indegree 27
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 174
+    id 166
+    name "174"
     label "tb5JiBUXs54"
     step 0
     date "2021-10-28T22:41:43Z"
@@ -3192,12 +5000,23 @@ graph
     commentcount 4
     duration "PT26M34S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 175
+    id 167
+    name "175"
     label "2vowjNXDm-k"
     step 0
     date "2021-06-30T15:02:49Z"
@@ -3211,12 +5030,23 @@ graph
     commentcount 3
     duration "PT59M16S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 176
+    id 168
+    name "176"
     label "eaEwaYASKkM"
     step 0
     date "2021-12-25T19:00:09Z"
@@ -3230,12 +5060,23 @@ graph
     commentcount 82
     duration "PT5M12S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 177
+    id 169
+    name "177"
     label "UZhW1k_m7OY"
     step 0
     date "2021-08-05T16:00:13Z"
@@ -3249,12 +5090,23 @@ graph
     commentcount 9567
     duration "PT52M36S"
     indegree 9
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 2
   ]
   node
   [
-    id 178
+    id 170
+    name "178"
     label "s2E_TQzBiJU"
     step 0
     date "2021-09-29T11:52:29Z"
@@ -3268,12 +5120,23 @@ graph
     commentcount 2
     duration "PT6M37S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 179
+    id 171
+    name "179"
     label "TtscOnCYH9g"
     step 0
     date "2021-05-15T12:30:04Z"
@@ -3287,12 +5150,23 @@ graph
     commentcount 7004
     duration "PT8M8S"
     indegree 12
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 3
   ]
   node
   [
-    id 180
+    id 172
+    name "180"
     label "AutSYxtI6gI"
     step 0
     date "2021-07-02T17:39:06Z"
@@ -3306,12 +5180,23 @@ graph
     commentcount 85
     duration "PT6M17S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 181
+    id 173
+    name "181"
     label "NAwNASLFMNo"
     step 0
     date "2021-10-14T19:00:43Z"
@@ -3325,12 +5210,23 @@ graph
     commentcount 146
     duration "PT6M14S"
     indegree 10
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 182
+    id 174
+    name "182"
     label "_dHt4HFLCaM"
     step 0
     date "2021-04-12T17:53:24Z"
@@ -3344,12 +5240,23 @@ graph
     commentcount 151
     duration "PT48M3S"
     indegree 8
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 183
+    id 175
+    name "183"
     label "5TMJG_Lfr5M"
     step 0
     date "2021-10-19T07:45:01Z"
@@ -3363,12 +5270,23 @@ graph
     commentcount 15
     duration "PT31M57S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 184
+    id 176
+    name "184"
     label "8Iy6FHQYCwo"
     step 0
     date "2021-10-04T22:28:55Z"
@@ -3382,12 +5300,23 @@ graph
     commentcount 0
     duration "PT2M12S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 185
+    id 177
+    name "185"
     label "g-mVGwTMJxI"
     step 0
     date "2020-08-26T16:46:38Z"
@@ -3401,12 +5330,23 @@ graph
     commentcount -1
     duration "PT26M15S"
     indegree 3
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 186
+    id 178
+    name "186"
     label "QiTmp9h4gI4"
     step 0
     date "2021-11-03T00:42:19Z"
@@ -3420,12 +5360,23 @@ graph
     commentcount 0
     duration "PT1H30M43S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 187
+    id 179
+    name "187"
     label "WRK9NEZGnTw"
     step 0
     date "2021-05-13T14:31:16Z"
@@ -3439,12 +5390,23 @@ graph
     commentcount 4550
     duration "PT1M34S"
     indegree 4
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 188
+    id 180
+    name "188"
     label "fUHOwe1t_UU"
     step 0
     date "2022-03-18T18:41:05Z"
@@ -3458,12 +5420,23 @@ graph
     commentcount 2
     duration "PT44M25S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 189
+    id 181
+    name "189"
     label "SK8oAqTW_6k"
     step 0
     date "2021-09-17T20:00:11Z"
@@ -3477,12 +5450,23 @@ graph
     commentcount 3
     duration "PT24M9S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 190
+    id 182
+    name "190"
     label "LlajrOXv9Yo"
     step 0
     date "2021-06-26T20:36:47Z"
@@ -3496,12 +5480,23 @@ graph
     commentcount 3
     duration "PT9M48S"
     indegree 4
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 191
+    id 183
+    name "191"
     label "TY10H3qRN8M"
     step 0
     date "2021-07-18T14:40:55Z"
@@ -3515,12 +5510,23 @@ graph
     commentcount 0
     duration "PT8M24S"
     indegree 1
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 192
+    id 184
+    name "192"
     label "D0-du0NnkD0"
     step 0
     date "2022-03-18T12:00:06Z"
@@ -3534,12 +5540,23 @@ graph
     commentcount 190
     duration "PT9M36S"
     indegree 4
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Socialist"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 193
+    id 185
+    name "193"
     label "KrqRHOFMgho"
     step 0
     date "2021-06-22T03:00:29Z"
@@ -3553,12 +5570,23 @@ graph
     commentcount 93
     duration "PT10M40S"
     indegree 3
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 194
+    id 186
+    name "194"
     label "9Gotbah5lhg"
     step 0
     date "2021-07-20T05:20:50Z"
@@ -3572,12 +5600,23 @@ graph
     commentcount 234
     duration "PT10M20S"
     indegree 5
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 195
+    id 187
+    name "195"
     label "uJV3SUwDkC0"
     step 0
     date "2022-01-31T21:00:32Z"
@@ -3591,12 +5630,23 @@ graph
     commentcount 14
     duration "PT4M50S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 196
+    id 188
+    name "196"
     label "IPnAYN-mFf8"
     step 0
     date "2022-01-10T23:27:31Z"
@@ -3610,12 +5660,23 @@ graph
     commentcount 6
     duration "PT2M3S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 197
+    id 189
+    name "197"
     label "GLx2Rvw2YAo"
     step 0
     date "2021-02-02T07:03:14Z"
@@ -3629,12 +5690,23 @@ graph
     commentcount 0
     duration "PT58M40S"
     indegree 5
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 198
+    id 190
+    name "198"
     label "jXMwTiUxRAw"
     step 0
     date "2021-12-17T17:30:06Z"
@@ -3648,12 +5720,23 @@ graph
     commentcount 76
     duration "PT14M32S"
     indegree 6
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 199
+    id 191
+    name "199"
     label "EoDYMLn07nc"
     step 0
     date "2022-04-09T19:49:30Z"
@@ -3667,31 +5750,53 @@ graph
     commentcount 1
     duration "PT1H22M39S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
+  ]
+  node
+  [
+    id 192
+    name "200"
+    label "BmRONG7i6mg"
+    step 0
+    date "2021-11-19T18:37:08Z"
+    title "FRONT ROW Nov. 19th: Critical Race Theory in Schools Poised to be 2022 Campaign Issue"
+    description "This week on FRONT ROW with Marc Rotterman: The John Locke Foundation's Mitch Kokai discusses how critical race theory in schools is poised to be a 2022 campaign issue."
+    channeltitle "North Carolina Channel"
+    channelid "UCkdgwZLXcC4E_RW-VEsXXeg"
+    favcount 0
+    viewcount 31
+    likecount 1
+    commentcount 1
+    duration "PT1M36S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 201
-    label "oTKZCHoxdaA"
-    step 0
-    date "2021-06-17T17:34:47Z"
-    title "Senator Angela Hill - Critical Race Theory in Schools"
-    description "Senator Angela Hill called in this morning to talk to Dave on the Gallo show on the possibility critical race theory being taught in Mississippi schools and what actions she plans to take in the legislature to keep that from happening."
-    channeltitle "SuperTalk Mississippi"
-    channelid "UCAmQan4iTo5pkNH9bi7RAww"
-    favcount 0
-    viewcount 180
-    likecount 3
-    commentcount 0
-    duration "PT21M4S"
-    indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 202
+    id 193
+    name "202"
     label "zeHqZT-NsxE"
     step 0
     date "2021-04-02T14:00:32Z"
@@ -3705,12 +5810,23 @@ graph
     commentcount 11080
     duration "PT10M19S"
     indegree 70
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 203
+    id 194
+    name "203"
     label "TLKveX5YUuw"
     step 0
     date "2022-02-19T01:33:07Z"
@@ -3724,12 +5840,23 @@ graph
     commentcount 23
     duration "PT2H25M56S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 204
+    id 195
+    name "204"
     label "3D3srJ87S18"
     step 0
     date "2022-05-13T14:30:10Z"
@@ -3743,12 +5870,23 @@ graph
     commentcount 27
     duration "PT10M27S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 205
+    id 196
+    name "205"
     label "HrqHN04QjMA"
     step 0
     date "2022-04-07T04:38:19Z"
@@ -3762,12 +5900,23 @@ graph
     commentcount 1
     duration "PT2M15S"
     indegree 4
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 206
+    id 197
+    name "206"
     label "2K6-K-YKwxw"
     step 0
     date "2021-07-23T12:45:00Z"
@@ -3781,12 +5930,23 @@ graph
     commentcount 450
     duration "PT3M49S"
     indegree 29
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 207
+    id 198
+    name "207"
     label "6054GzO4oEc"
     step 0
     date "2021-06-23T15:15:01Z"
@@ -3800,12 +5960,23 @@ graph
     commentcount 899
     duration "PT4M46S"
     indegree 1
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 208
+    id 199
+    name "208"
     label "E6x7HB5QqPg"
     step 0
     date "2020-11-30T16:00:11Z"
@@ -3819,12 +5990,23 @@ graph
     commentcount 142
     duration "PT1H28M31S"
     indegree 2
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 209
+    id 200
+    name "209"
     label "mnqIyoeoBYY"
     step 0
     date "2021-09-05T13:45:02Z"
@@ -3838,12 +6020,23 @@ graph
     commentcount -1
     duration "PT4M54S"
     indegree 35
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 210
+    id 201
+    name "210"
     label "mjecCeAHGN4"
     step 0
     date "2021-10-25T05:00:20Z"
@@ -3857,12 +6050,23 @@ graph
     commentcount 1559
     duration "PT56M50S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "SocialJustice"
+    leftright "L"
     cluster 1
   ]
   node
   [
-    id 211
+    id 202
+    name "211"
     label "c9T17jHEB5k"
     step 0
     date "2020-09-02T21:00:06Z"
@@ -3876,12 +6080,23 @@ graph
     commentcount 388
     duration "PT3M59S"
     indegree 7
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 212
+    id 203
+    name "212"
     label "l8O-7KqDCew"
     step 0
     date "2022-02-02T20:52:22Z"
@@ -3895,12 +6110,23 @@ graph
     commentcount 90
     duration "PT3M51S"
     indegree 5
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 213
+    id 204
+    name "213"
     label "A4uZGyh1uTk"
     step 0
     date "2021-11-05T10:30:02Z"
@@ -3914,12 +6140,23 @@ graph
     commentcount 897
     duration "PT4M2S"
     indegree 29
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 4
   ]
   node
   [
-    id 214
+    id 205
+    name "214"
     label "p3yKcamADZI"
     step 0
     date "2021-05-08T00:00:15Z"
@@ -3933,12 +6170,23 @@ graph
     commentcount 845
     duration "PT7M22S"
     indegree 47
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 215
+    id 206
+    name "215"
     label "WJjnpjJnb9E"
     step 0
     date "2021-05-18T08:30:02Z"
@@ -3952,12 +6200,23 @@ graph
     commentcount 3234
     duration "PT4M13S"
     indegree 27
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 216
+    id 207
+    name "216"
     label "fg57_CnEmbg"
     step 0
     date "2021-10-27T15:45:02Z"
@@ -3971,12 +6230,23 @@ graph
     commentcount 593
     duration "PT5M6S"
     indegree 17
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 217
+    id 208
+    name "217"
     label "t7ex4HjwGfk"
     step 0
     date "2022-01-31T01:45:16Z"
@@ -3990,12 +6260,23 @@ graph
     commentcount 0
     duration "PT33M53S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 218
+    id 209
+    name "218"
     label "24bXkJcuWDU"
     step 0
     date "2021-08-25T17:04:05Z"
@@ -4009,12 +6290,23 @@ graph
     commentcount 1128
     duration "PT12M23S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 219
+    id 210
+    name "219"
     label "dhRPlsa-Y-0"
     step 0
     date "2020-12-07T20:44:37Z"
@@ -4028,12 +6320,23 @@ graph
     commentcount 3166
     duration "PT2M18S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
     cluster 5
   ]
   node
   [
-    id 220
+    id 211
+    name "220"
     label "nNplavU3YtA"
     step 0
     date "2020-12-07T16:00:11Z"
@@ -4047,12 +6350,23 @@ graph
     commentcount 68
     duration "PT37M43S"
     indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 221
+    id 212
+    name "221"
     label "TlyUtF6kdjY"
     step 0
     date "2022-04-24T17:29:29Z"
@@ -4066,12 +6380,23 @@ graph
     commentcount 30
     duration "PT16M8S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 222
+    id 213
+    name "222"
     label "Wx-uBRoAltI"
     step 0
     date "2020-12-15T15:30:08Z"
@@ -4085,12 +6410,23 @@ graph
     commentcount 28
     duration "PT19M31S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 223
+    id 214
+    name "223"
     label "WZwli4WdZmI"
     step 0
     date "2021-06-11T05:09:53Z"
@@ -4104,12 +6440,23 @@ graph
     commentcount 6314
     duration "PT6M11S"
     indegree 13
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 224
+    id 215
+    name "224"
     label "FhH2RSVEcWQ"
     step 0
     date "2021-11-03T05:15:00Z"
@@ -4123,12 +6470,23 @@ graph
     commentcount 2520
     duration "PT11M16S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
+    cluster 8
   ]
   node
   [
-    id 225
+    id 216
+    name "225"
     label "-jQJ3gPg1WU"
     step 0
     date "2021-04-21T00:00:27Z"
@@ -4142,12 +6500,23 @@ graph
     commentcount 20
     duration "PT38M23S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 3
   ]
   node
   [
-    id 226
+    id 217
+    name "226"
     label "71bEoYB-CCY"
     step 0
     date "2020-09-27T08:59:44Z"
@@ -4161,12 +6530,23 @@ graph
     commentcount 2
     duration "PT44M39S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 227
+    id 218
+    name "227"
     label "XVLJejRiunc"
     step 0
     date "2021-08-09T04:54:04Z"
@@ -4180,12 +6560,23 @@ graph
     commentcount 1
     duration "PT2H6M35S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 228
+    id 219
+    name "228"
     label "tvKA7n8oeQY"
     step 0
     date "2021-06-26T00:19:48Z"
@@ -4199,12 +6590,23 @@ graph
     commentcount 2505
     duration "PT25M37S"
     indegree 8
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "SocialJustice"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 229
+    id 220
+    name "229"
     label "3BAbfj9ahDY"
     step 0
     date "2021-11-12T18:16:26Z"
@@ -4218,12 +6620,23 @@ graph
     commentcount 69
     duration "PT18M13S"
     indegree 1
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 230
+    id 221
+    name "230"
     label "vxTMNu31DHU"
     step 0
     date "2021-05-23T09:01:00Z"
@@ -4237,12 +6650,23 @@ graph
     commentcount 180
     duration "PT4M4S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 231
+    id 222
+    name "231"
     label "LEtHS8Gp5zg"
     step 0
     date "2022-03-14T18:19:02Z"
@@ -4256,12 +6680,23 @@ graph
     commentcount 114
     duration "PT3M35S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 232
+    id 223
+    name "232"
     label "CNin63B0rb4"
     step 0
     date "2021-03-09T06:41:47Z"
@@ -4275,12 +6710,23 @@ graph
     commentcount 210
     duration "PT3M15S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 233
+    id 224
+    name "233"
     label "KKipuGXhbOs"
     step 0
     date "2021-04-16T19:36:44Z"
@@ -4294,12 +6740,23 @@ graph
     commentcount 814
     duration "PT5M51S"
     indegree 4
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 234
+    id 225
+    name "234"
     label "EbYABFruI1U"
     step 0
     date "2021-07-27T19:16:19Z"
@@ -4313,12 +6770,23 @@ graph
     commentcount 0
     duration "PT13M48S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 235
+    id 226
+    name "235"
     label "ykOVrn6lgTI"
     step 0
     date "2021-11-29T20:00:09Z"
@@ -4332,12 +6800,23 @@ graph
     commentcount 186
     duration "PT1H5M38S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 236
+    id 227
+    name "236"
     label "zbl-nIv6jmY"
     step 0
     date "2022-03-18T15:12:17Z"
@@ -4351,12 +6830,23 @@ graph
     commentcount 542
     duration "PT51M33S"
     indegree 14
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 237
+    id 228
+    name "237"
     label "3vf7yX9ESRc"
     step 0
     date "2020-10-22T13:23:13Z"
@@ -4370,12 +6860,23 @@ graph
     commentcount 351
     duration "PT9M50S"
     indegree 8
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 238
+    id 229
+    name "238"
     label "abyn9juukWU"
     step 0
     date "2020-10-23T05:00:00Z"
@@ -4389,31 +6890,53 @@ graph
     commentcount -1
     duration "PT46M10S"
     indegree 0
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 240
-    label "nqZvRXOCoGo"
-    step 0
-    date "2021-07-16T16:46:07Z"
-    title "Critics of Critical Race Theory Are Going Crazy"
-    description "The engineered hysteria over critical race theory has been going on for months. &#10;&#10;The misinformation that is pushed by Fox News is only driving up the panic. According to Media Matters, they have found that in the last three months, there has been more than 1,900 mentions of critical race theory on Fox News. Also, Fox has mentioned CRT in a staggering 244 times just last week. &#10;&#10;Eric Boehlert, who is the founder and editor of Press Run Media, and Howard University professor Niambi Carter join Charles Blow on &#8220;Prime&#8221; to talk about the obsession with critical race theory. &#10;&#10;All this and more on &#8220;Prime.&#8221; &#10;&#10;To watch BNC programming, visit https://bnc.tv/how-to-watch/  &#10;&#10;Follow BNC on social media:  &#10;Facebook: https://www.facebook.com/BNCNews  &#10;Twitter: https://twitter.com/BNCNews  &#10;Instagram: https://www.instagram.com/bncnews/?hl=en &#10; &#10; &#10;#CriticalRaceTheory #FoxNews #BNC"
-    channeltitle "BNC News"
-    channelid "UCAPlkRGvp4_JnsIyOJmpgDg"
-    favcount 0
-    viewcount 3803
-    likecount 145
-    commentcount 109
-    duration "PT11M57S"
-    indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 241
+    id 230
+    name "239"
+    label "_93AQd-gt7c"
+    step 0
+    date "2021-05-20T18:44:02Z"
+    title "Critical Race Theory Invades BYU Campus"
+    description "&#34;It's worse than we thought!&#34;&#10;Visit our Website here: http://www.cwicmedia.com&#10;Subscribe above! And hit the &#34;alert&#34; bell!&#10;&#10;Critical Race Theory is pervasive on the BYU campus. We discuss the choice of guest speakers who preach Critical Race Theory, Intersectionality, Anti-democracy and Anti-Americanism, and the degrading and slanderous concept of &#34;Whiteness&#34; to the students and faculty. We also cover the CRT language in the report given by the new Committee on Race, Equity and Belonging, the lack of the gospel in that report, and a few of the suggestions that report makes. &#10;&#10;As members of the church, we stand in a unique place in history. The opportunity before us is to &#34;gather Israel&#34;. However, with the modern connection between peoples and races, there are ideologies that seek to further divide us. Critical Race Theory is one of those ideologies. Critical Race Theory and its fruits of Intersectionality, Anti-Racism, and &#34;Whiteness&#34; have been adopted by many at BYU and formal initiatives have been suggested that could further entrench it throughout the campus.&#10;&#10;&#10;Reference Video&#10;Cwic Show- Deconstructing Christianity- https://youtu.be/WBCuKuw5zlE&#10;&#10;17:08 Professor Willie Jennings - &#34;After Whiteness&#34;&#10;23:36 Ta-Nehisi Coates&#10;26:10  Ibram Kendi- The Kennedy Center&#10;32:33  Language&#10;33:25  Committe on Race, Equity, and Belonging - Report&#10;&#10;&#10;********************&#10;&#10145;&#65039; Home of the Cwic Show, the Cwic Media Come Follow Me Series, and the Cwic Interpreters.&#10;&#10;Cwic Show relates real-world, current events for faith-based commentary and conversations. We address current events, The Church of Jesus Christ of Latter-Day Saints, politics, pop culture, the Book of Mormon, the Bible, and gospel principles in a faith-based manner.&#10;&#10;Cwic Show has conversations on issues facing Latter-Day Saints and the church today. We take on the tough topics and share perspectives and information to keep our audience informed. Our objective is to support the LDS Church and fight the disinformation that is so pervasive online. &#10;&#10;We also engage in interfaith discussion with Christian leaders and theologians as well as other faith leaders in a spirit of Faith, Hope and Charity.&#10;&#10;&#10145;&#65039; Our Cwic Media Come Follow Me Series and other gospel principle episodes use a disciplined approach with our faith-based, Cwic Interpreters that help you to see the scriptures in a new light. Once you follow us for a while, you will never see the scriptures the same again!&#10;&#10;********************&#10;Disclaimer&#10;The products and content offered by Cwic Media are neither made, provided, approved nor endorsed by Intellectual Reserve, Inc. or The Church of Jesus Christ of Latter-day Saints. &#10;&#10;All content and products are solely those of Cwic Media and not those of Intellectual Reserve, Inc. or The Church of Jesus Christ of Latter-day-Saints.&#10;&#10;********************&#10; #CwicShow&#8203;&#8203; #CriticalRaceTheory #BYU&#10;Greg Matsen"
+    channeltitle "Cwic Media"
+    channelid "UCFNi-bt0oFbPvWvv5UmmAVQ"
+    favcount 0
+    viewcount 50109
+    likecount 1560
+    commentcount 851
+    duration "PT42M41S"
+    indegree 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 231
+    name "241"
     label "hStkQRbhqLQ"
     step 0
     date "2022-01-20T18:43:46Z"
@@ -4427,12 +6950,23 @@ graph
     commentcount -1
     duration "PT47M7S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 242
+    id 232
+    name "242"
     label "j77jQ8s_q5k"
     step 0
     date "2022-02-03T15:00:19Z"
@@ -4446,12 +6980,23 @@ graph
     commentcount 1102
     duration "PT12M14S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 243
+    id 233
+    name "243"
     label "QfYxgsqVpJk"
     step 0
     date "2022-03-05T19:15:00Z"
@@ -4465,12 +7010,23 @@ graph
     commentcount 87
     duration "PT6M19S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 244
+    id 234
+    name "244"
     label "AcbRSEoxU4I"
     step 0
     date "2021-10-27T18:15:00Z"
@@ -4484,12 +7040,23 @@ graph
     commentcount 2539
     duration "PT2M30S"
     indegree 6
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 245
+    id 235
+    name "245"
     label "CU1nCquHNsM"
     step 0
     date "2022-04-27T19:00:28Z"
@@ -4503,12 +7070,23 @@ graph
     commentcount 55
     duration "PT43M4S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 246
+    id 236
+    name "246"
     label "Il20J_MpVc8"
     step 0
     date "2021-10-13T14:45:24Z"
@@ -4522,12 +7100,23 @@ graph
     commentcount 1
     duration "PT14M9S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 247
+    id 237
+    name "247"
     label "9Wd0puWt40U"
     step 0
     date "2022-04-05T14:04:47Z"
@@ -4541,12 +7130,23 @@ graph
     commentcount 172
     duration "PT47M13S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 248
+    id 238
+    name "248"
     label "BTguwl8StpA"
     step 0
     date "2022-03-11T14:50:57Z"
@@ -4560,31 +7160,53 @@ graph
     commentcount 557
     duration "PT58M45S"
     indegree 3
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 4
   ]
   node
   [
-    id 250
-    label "ZtgnIXnvxlw"
+    id 239
+    name "249"
+    label "y3juWi4DAqQ"
     step 0
-    date "2021-06-10T23:45:01Z"
-    title "Tom Cotton Warns Critical Race Theory  Is Causing Soldiers To Leave Military"
-    description "Sen. Tom Cotton (R-AR) questions Defense Secretary Lloyd Austin about equity training and critical race theory trainings being mandated in the military at a Senate Armed Services hearing.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    date "2022-05-27T15:53:39Z"
+    title "GOP Lawmaker Presses Education Secretary On Critical Race Theory"
+    description "At a House Education Committee hearing on Thursday, Rep. Rick Allen (R-GA) pressed Sec. Miguel Cardona on critical race theory.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
     channeltitle "Forbes Breaking News"
     channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 193672
-    likecount 9208
-    commentcount 4112
-    duration "PT6M19S"
-    indegree 2
-    sentiment 1
-    cluster 3
+    viewcount 3512
+    likecount 77
+    commentcount 21
+    duration "PT4M26S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 251
+    id 240
+    name "251"
     label "sPear9wa26A"
     step 0
     date "2021-06-10T17:31:23Z"
@@ -4598,12 +7220,23 @@ graph
     commentcount 3100
     duration "PT1M53S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|Libertarian|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 252
+    id 241
+    name "252"
     label "kZ4E0T6Gus8"
     step 0
     date "2021-06-25T21:56:55Z"
@@ -4617,12 +7250,23 @@ graph
     commentcount 1968
     duration "PT32M21S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 253
+    id 242
+    name "253"
     label "AftoggVdQwY"
     step 0
     date "2022-06-16T19:11:37Z"
@@ -4636,12 +7280,23 @@ graph
     commentcount 50
     duration "PT4M57S"
     indegree 4
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 254
+    id 243
+    name "254"
     label "R0xRsTFTaNY"
     step 0
     date "2022-01-22T15:30:21Z"
@@ -4655,12 +7310,23 @@ graph
     commentcount 3537
     duration "PT1H7S"
     indegree 1
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|Socialist"
+    leftright "L"
+    cluster 1
   ]
   node
   [
-    id 255
+    id 244
+    name "255"
     label "Fq38yjo_s5k"
     step 0
     date "2020-07-10T13:30:01Z"
@@ -4674,12 +7340,23 @@ graph
     commentcount -1
     duration "PT6M10S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 256
+    id 245
+    name "256"
     label "1vKSzfB9n58"
     step 0
     date "2021-12-29T15:38:18Z"
@@ -4693,12 +7370,23 @@ graph
     commentcount 4
     duration "PT42M9S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 257
+    id 246
+    name "257"
     label "iirJ0XaxgNE"
     step 0
     date "2022-01-26T13:30:08Z"
@@ -4712,31 +7400,53 @@ graph
     commentcount 20
     duration "PT5M51S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 259
-    label "aBrhA3nY6dY"
+    id 247
+    name "258"
+    label "gUXc0VMld4E"
     step 0
-    date "2021-06-15T21:00:01Z"
-    title "The GOPs War on Critical Race Theory"
-    description "Western States Executive Director Eric Ward speaks with Cenk Uygur on The Conversation about why conservatives losing their minds over critical race theory. https://twitter.com/BulldogShadow&#10;&#10;MORE TYT: https://tyt.com/trial&#10;&#10;Hosts: Cenk Uygur, &#10;&#10;Cast: Cenk Uygur,&#10;&#10;***&#10;&#10;The Largest Online News Show in the World. Hosted by Cenk Uygur and Ana Kasparian. LIVE STREAMING weekdays 6-8pm ET. http://tyt.com/live&#10;&#10;Subscribe to The Young Turks on YouTube: http://youtube.com/subscription_center?add_user=theyoungturks&#10;&#10;TYT on Facebook: http://facebook.com/theyoungturks&#10;TYT on Twitter: http://twitter.com/theyoungturks&#10;TYT on Instagram: http://instagram.com/theyoungturks&#10;&#10;Merch: http://www.shoptyt.com&#10;&#10;Donate to TYT&#10;https://patreon.com/tytnetwork&#10;http://tyt.com/donate&#10;&#10;Download audio and video of the full two-hour show on-demand + the members-only postgame show by becoming a member at http://tyt.com/join/. Your membership supports the day to day operations and is vital for our continued success and growth.&#10;&#10;Gift membership: http://tyt.com/gift&#10;&#10;Producer, Senior Producer and Executive Producer membership: http://go.tyt.com/producer&#10;&#10;Young Turk (n), 1. Young progressive or insurgent member of an institution, movement, or political party. 2. A young person who rebels against authority or societal expectations. (American Heritage Dictionary)&#10;&#10;#TYT #TheYoungTurks #TheConversation"
-    channeltitle "TYT's The Conversation"
-    channelid "UCKw8kdkYfmuNSVehGoDw8Mg"
+    date "2022-01-09T23:45:00Z"
+    title "Greg Abbott Takes Aim At Critical Race Theory,  In Campaign Speech"
+    description "Campaigning in Lockhart, Texas, Gov. Greg Abbott (R-TX) touted his accomplishments and decried the state's Democratic politicians, who he called &#34;radical leftists.&#34;&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 3760
-    likecount 239
-    commentcount 89
-    duration "PT11M56S"
+    viewcount 17758
+    likecount 783
+    commentcount 307
+    duration "PT17M7S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 260
+    id 248
+    name "260"
     label "QPNtyiwLuBs"
     step 0
     date "2021-04-08T22:29:59Z"
@@ -4750,12 +7460,23 @@ graph
     commentcount -1
     duration "PT1H1M39S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 261
+    id 249
+    name "261"
     label "9qYXXNGXim8"
     step 0
     date "2021-11-19T00:50:47Z"
@@ -4769,31 +7490,53 @@ graph
     commentcount 90
     duration "PT3M1S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 263
-    label "nPAgLY8stpw"
+    id 250
+    name "262"
+    label "s8xmh0cq_k4"
     step 0
-    date "2021-08-09T10:00:17Z"
-    title "Is Critical Race Theory Compatible with Christianity? | Episode 15"
-    description "Is Critical Race Theory compatible with Christianity? There has been much discussion in the media recently about Critical Race Theory (CRT). Some U.S. states have even banned the teaching of CRT in K-12 public school classrooms. The debate has been hotly contested and, in some instances, has spilled over into churches and religious denominations.&#10;&#10;In this episode, Dr. David K. Bernard explains CRT and discusses whether this idea is compatible with the teachings of Scripture. He reviews the history of slavery and race relations in the United States while calling Christians back to a biblical understanding of racial equality.&#10;&#10;While answering this question, Dr. Bernard references the book Inhuman Bondage by historian David Brion Davis. You can purchase a copy from your favorite bookseller.&#10;&#10;You can listen to the audio version of this episode on Apple, Spotify, Amazon, and other podcast platforms."
-    channeltitle "David K. Bernard"
-    channelid "UC7pxLKkNn9BFXWbu690NFCw"
+    date "2021-07-04T20:37:03Z"
+    title "Trump Decries Critical Race Theory, Biden Border Policy In Sarasota Speech"
+    description "At last night's speech in Sarasota, Florida, former President Trump took aim at frequent targets like critical race theory and the Biden Administration's border policy.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 5656
-    likecount 275
-    commentcount 41
-    duration "PT11M18S"
+    viewcount 58385
+    likecount -1
+    commentcount -1
+    duration "PT3M49S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 264
+    id 251
+    name "264"
     label "u8_2UhzTFYM"
     step 0
     date "2022-03-04T19:45:52Z"
@@ -4807,12 +7550,23 @@ graph
     commentcount 35
     duration "PT2M32S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 265
+    id 252
+    name "265"
     label "aXHQiVsA0bM"
     step 0
     date "2021-07-18T22:00:10Z"
@@ -4826,12 +7580,23 @@ graph
     commentcount 593
     duration "PT1H6M38S"
     indegree 18
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Libertarian"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 266
+    id 253
+    name "266"
     label "CDSCehhI_Ac"
     step 0
     date "2021-02-06T01:39:44Z"
@@ -4845,12 +7610,23 @@ graph
     commentcount -1
     duration "PT56M"
     indegree 3
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 267
+    id 254
+    name "267"
     label "Sgw5oh0gj_s"
     step 0
     date "2022-03-23T12:00:21Z"
@@ -4864,12 +7640,23 @@ graph
     commentcount 44
     duration "PT2M22S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 268
+    id 255
+    name "268"
     label "kY6O41r-M-U"
     step 0
     date "2021-09-03T03:45:19Z"
@@ -4883,31 +7670,53 @@ graph
     commentcount 0
     duration "PT5M12S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 271
-    label "TX9_Edv4AYU"
+    id 256
+    name "269"
+    label "scGaSFInrUk"
     step 0
-    date "2021-08-15T18:53:34Z"
-    title "Larry Elder Decries Critical Race Theory In First Press Briefing In  Campaign"
-    description "Earlier this week, conservative radio host Larry Elder, who is running in the California recall election to unseat Gov. Gavin Newsom (D-CA), decried critical race theory, school admissions policies, and the rise of hate crimes in his state.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
-    channeltitle "Forbes Breaking News"
-    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
+    date "2021-06-20T13:00:18Z"
+    title "Recent LDS Teachings vs Critical Race Theory"
+    description "This episode pulls from the words of President Nelson, President Oaks, and others in recent talks on race that are stark contrasts to the tenets of Critical Race Theory. The Church leaders are giving us a path to &#34;clear thinking&#34; and building a Zion people.&#10;&#10;We should distinguish between &#34;forming better race relations&#34; and Critical Race Theory. They are not the same. &#10;&#10;President Nelson speaks of race within the context of &#34;Gathering Israel&#34; and President Oaks speaks of the sin of racism and the need in these times for &#34;clear thinking.&#34;&#10;&#10;Website - https://www.cwicmedia.com&#10;&#10;&#10;- Critical Theories Series -&#10;Deconstructing Christianity-  https://youtu.be/WBCuKuw5zlE&#10;Critical Theory Invades BYU Campus-  https://youtu.be/_93AQd-gt7c&#10;Critical Theory Reaches the Latter-day Saints-  https://youtu.be/LmcXCFjkEQM&#10;Critical Race Theory in Utah Public Schools, Rep Steve Christiansen - https://youtu.be/o1R2fUODJRI&#10;Critical Race Theory and an LDS Jesus - https://youtu.be/kVqclMRA8CI&#10;California's New Ethnic Studies Curriculum Is All Critical Race Theory - https://youtu.be/A9y5dIRd5ic&#10;The Latter-day Saints and NAACP Partnership - https://youtu.be/ExRcYUoN7fc&#10;&#10;********************&#10;&#10145;&#65039; Home of the Cwic Show, Cwic Media Come Follow Me Series, and the Cwic Interpreters.&#10;&#10;Cwic Show relates real-world, current events for faith-based commentary and conversations. We address The Church of Jesus Christ of Latter-Day Saints, politics, pop culture, the Book of Mormon, the Bible, and gospel principles in a faith-based manner.&#10;&#10;Cwic Show has conversations on issues facing Latter-day Saints and the church today. We take on the tough topics and share perspectives and information to keep our audience informed. Our objective is to support the Restored Church of Jesus Christ and fight the disinformation that is so pervasive online. &#10;&#10;We also engage in interfaith discussion with Christian leaders and theologians as well as other faith leaders in a spirit of Faith, Hope and Charity.&#10;&#10;&#10145;&#65039; Our Cwic Media Come Follow Me LDS Series and other gospel principle episodes use a disciplined approach with our faith-based, Cwic Interpreters that help you to see the scriptures in a new light. Once you follow us for a while, you will never see the scriptures the same again!&#10;&#10;********************&#10;Disclaimer&#10;The products and content offered by Cwic Media are neither made, provided, approved nor endorsed by Intellectual Reserve, Inc. or The Church of Jesus Christ of Latter-day Saints. &#10;&#10;All content and products are solely those of Cwic Media and not those of Intellectual Reserve, Inc. or The Church of Jesus Christ of Latter-day Saints.&#10;&#10;********************&#10; #CwicShow&#8203;&#8203; #CriticalRaceTheory #ChurchOfJesusChrist"
+    channeltitle "Cwic Media"
+    channelid "UCFNi-bt0oFbPvWvv5UmmAVQ"
     favcount 0
-    viewcount 717359
-    likecount 23146
-    commentcount 5666
-    duration "PT58M33S"
-    indegree 4
-    sentiment 1
-    cluster 3
+    viewcount 10348
+    likecount 501
+    commentcount 147
+    duration "PT29M21S"
+    indegree 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 272
+    id 257
+    name "272"
     label "aH2_4SP5Zx0"
     step 0
     date "2022-07-09T15:00:13Z"
@@ -4921,12 +7730,23 @@ graph
     commentcount 5
     duration "PT4M50S"
     indegree 5
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 273
+    id 258
+    name "273"
     label "z5GCJSLISH0"
     step 0
     date "2021-06-23T19:38:52Z"
@@ -4940,12 +7760,23 @@ graph
     commentcount 644
     duration "PT5M18S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 274
+    id 259
+    name "274"
     label "36uJfeO4ZAU"
     step 0
     date "2021-06-03T15:44:17Z"
@@ -4959,12 +7790,23 @@ graph
     commentcount 5134
     duration "PT4M2S"
     indegree 11
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 4
   ]
   node
   [
-    id 275
+    id 260
+    name "275"
     label "hbQHmXveQEc"
     step 0
     date "2022-06-11T00:39:34Z"
@@ -4978,12 +7820,23 @@ graph
     commentcount 23
     duration "PT16M33S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 276
+    id 261
+    name "276"
     label "PetbMHzBWuk"
     step 0
     date "2022-07-09T00:21:57Z"
@@ -4997,31 +7850,53 @@ graph
     commentcount -1
     duration "PT1M38S"
     indegree 3
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 8
   ]
   node
   [
-    id 278
-    label "w5uXpwoq0_M"
+    id 262
+    name "277"
+    label "MRTCyfS94DE"
     step 0
-    date "2020-10-23T20:00:10Z"
-    title "Critical Race Theory is Racist"
-    description "Critical race theory, the intellectual framework steadily seeping from academia&#8217;s ivory towers into the national conversation, demands that we use race as a lens through which to examine every aspect of our society. It doesn&#8217;t matter what you as an individual have done or said. The only thing that&#8217;s important is which group you belong to&#8212;in other words, the color of your skin. That seems bad enough on its own, but it doesn&#8217;t stop there. Sam Martin, creative director at Free the People, dives deep into this bizarre new logic that is permeating our culture in a frightening way.&#10;&#10;Follow Free the People on Twitter: https://twitter.com/freethepeople&#10;Follow Free the People on Instagram: https://instagram.com/freethepeople&#10;Follow Free the People on Facebook: https://facebook.com/freethepeople&#10;Visit Free the People's website: https://freethepeople.org&#10;Join Free the People's community: https://community.freethepeople.org&#10;Support Free the People on Patreon: https://patreon.com/freethepeoplefoundation&#10;&#10;Free the People&#8217;s mission is simple&#8212;to make the values of liberty entertaining, accessible, and human. Free the People deliberately explores issues that bridge the partisan divide&#8212;topics like criminal justice reform, health care choice, and opposing corporate cronyism. We produce documentary films, video web series, and podcasts that illuminate the people and ideas changing the world for the better. We reach audiences across the political spectrum as a rational but passionate voice for liberty.&#10;&#10;Free the People specializes in video production, creative storytelling, and social media engagement. We are building a community of people who believe in the values of freedom, entrepreneurship, individual responsibility, choice, and peaceful cooperation. Free the People finds and tells stories of people affecting positive change in their community through entrepreneurship and innovation. We defend free choice in everything from drug policy, to health care and retirement, to every aspect of the sharing economy. Our values, like &#34;equal treatment under the law&#34; and &#34;innocent until proven guilty,&#34; animate fights for criminal justice reform. We tell the stories of people who have lived through the hardships of authoritarianism and collectivism throughout history. We show our viewers that beautiful things can happen when free people come together to make the world a better place."
-    channeltitle "Free the People"
-    channelid "UCEPkS6A53GSnQelyGCHHIIQ"
+    date "2022-07-07T18:21:32Z"
+    title "Episode 110: Creating Laboratories for Friction with Mn"
+    description "Classrooms have become ground zero for the problem of political polarization. What is being taught, who is teaching it, how it&#8217;s being taught, how it is funded, etc. Are we teaching Critical Race Theory, or are we not? Should we be? These and many questions have become a toxic political football. The problem of this polarization impacts the classroom in a unique way largely because many people on all sides of political conversations do not want their children caught in the middle. As a result, I believe that teachers are morally bound to model curiosity, radical inclusivity of viewpoints, as well as the respect that most easily comes from &#8220;trying on each other&#8217;s shoes.&#8221;&#10;&#10;Sadly though, our politicians, teachers unions and professional organizations don&#8217;t model this. We are swimming in almost an entirely politically homogeneous pool within the education profession. The problem is that our students AREN&#8217;T. It&#8217;s time for us to share the pool. I am joined in this talk by author and journalist, and recent TED Talker M&#243;nica Guzm&#225;n to discuss why most of our assumptions about the beliefs of others are probably wrong.&#10;&#10;We are so divided, we are blinded. Opening our eyes means being less certain, more courageous, and a LOT more curious about the views we don&#8217;t want to see.&#10;&#10;M&#243;nica Guzm&#225;n&#10;A &#8220;laboratory for friction&#8221; is a term M&#243;nica uses to describe the ideal classroom in which the educator has made the radically inclusive decision to intentionally create a space in which students are able to learn from each other through open dialogue and the safety to be the only dissenting voice.&#10;&#10;If you enjoy this content, please consider supporting the show at http://www.patreon.com/choralosophy for as little as 3$ a month AND receive subscriber only content there.&#10;&#10;Please support our sponsors by checking out these sites. Be sure to enter Choralosophy at Checkout for a 10% discount!&#10;https://www.ryanmain.com &#10;https://www.sightreadingfactory.com&#10;https://www.graphitepublishing.com&#10;https://www.vocevista.com/choralosophy&#10;&#10;&#10;5% off all branded products at https://www.mymusicfolders.com&#10;&#10;&#10;Also be sure to visit https://www.choralosophy.com"
+    channeltitle "Choralosophy Podcast"
+    channelid "UCCzw8Xi0ZmX-TZAchH_5jcg"
     favcount 0
-    viewcount 43793
-    likecount 2291
-    commentcount 436
-    duration "PT6M32S"
+    viewcount 13
+    likecount 1
+    commentcount 0
+    duration "PT1H3M12S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 10
   ]
   node
   [
-    id 279
+    id 263
+    name "279"
     label "jntRiFsjLWM"
     step 0
     date "2022-01-12T02:45:00Z"
@@ -5035,12 +7910,23 @@ graph
     commentcount 1823
     duration "PT1H1M22S"
     indegree 1
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 280
+    id 264
+    name "280"
     label "v_32zkuxDbw"
     step 0
     date "2021-07-17T02:30:20Z"
@@ -5054,12 +7940,23 @@ graph
     commentcount 13327
     duration "PT6M"
     indegree 34
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 281
+    id 265
+    name "281"
     label "hDBI5icm-Zk"
     step 0
     date "2020-10-21T07:32:18Z"
@@ -5073,12 +7970,23 @@ graph
     commentcount 263
     duration "PT6M33S"
     indegree 11
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 282
+    id 266
+    name "282"
     label "MIr-OzY8-7M"
     step 0
     date "2021-07-11T23:39:04Z"
@@ -5092,12 +8000,23 @@ graph
     commentcount 2773
     duration "PT3M52S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 283
+    id 267
+    name "283"
     label "WBZPQTcaOHk"
     step 0
     date "2021-09-05T21:45:00Z"
@@ -5111,31 +8030,53 @@ graph
     commentcount 453
     duration "PT4M49S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 285
-    label "jP84tmyzhZ0"
+    id 268
+    name "284"
+    label "h10jnK215ZI"
     step 0
-    date "2021-07-13T12:00:31Z"
-    title "I Wont Let Critical Race Theory Divide my Family"
-    description ""
-    channeltitle "TakeCharge Minnesota"
-    channelid "UC-FJENzOaf3xQ3lE0oiUa2g"
+    date "2022-04-26T00:00:15Z"
+    title "How Critical Race Theory Can Erode Your Faith | Josh Daws | Kirk Cameron on TBN"
+    description "Takeaways: Josh Daws, host of The Great Awokening Podcast, joins Kirk Cameron to discuss what is Critical Race Theory and the dangerous affects it can have on your faith.&#10;&#10;SUBSCRIBE: https://www.youtube.com/channel/UCSDO9_MeVGzzN_twa0ze7fw?sub_confirmation=1&#10;&#10;Watch full episodes of Takeaways with Kirk Cameron on TBN On Demand: https://watch.tbn.org/takeaways-with-kirk-cameron&#10;&#10;Join Kirk Cameron to discuss pressing issues Christians are facing with compassionate, well-informed guests. Together we will find actionable takeaways that we can use today this week and this month to bring more of Heaven to Earth.&#10;&#10;#kirkcameron #criticalracetheory #joshdaws"
+    channeltitle "Kirk Cameron on TBN"
+    channelid "UCSDO9_MeVGzzN_twa0ze7fw"
     favcount 0
-    viewcount 2526
-    likecount 139
-    commentcount 12
-    duration "PT2M52S"
+    viewcount 6492
+    likecount 345
+    commentcount 67
+    duration "PT9M30S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 286
+    id 269
+    name "286"
     label "KDddouNOqLQ"
     step 0
     date "2021-06-23T19:45:19Z"
@@ -5149,12 +8090,23 @@ graph
     commentcount 1425
     duration "PT2M27S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 287
+    id 270
+    name "287"
     label "9Bdm_8sD_cg"
     step 0
     date "2022-07-06T14:43:53Z"
@@ -5168,12 +8120,23 @@ graph
     commentcount 2
     duration "PT1M17S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 288
+    id 271
+    name "288"
     label "CYaQpSvYImM"
     step 0
     date "2021-05-10T21:29:30Z"
@@ -5187,31 +8150,53 @@ graph
     commentcount 0
     duration "PT1H2M34S"
     indegree 1
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 290
-    label "cHgQhEE013Y"
+    id 272
+    name "289"
+    label "rmsF9GBka88"
     step 0
-    date "2021-08-15T15:00:16Z"
-    title "Ben Shapiros Advice to New Teacher Dealing With Critical Race Theory Nonsense"
-    description "Ben Shapiro advises a teacher on how to fight back against CRT in the education system.&#10;&#10;LIKE &#38; SUBSCRIBE for new videos every day.&#10;&#10;This is a reupload of a portion of the Q&#38;A segment of my 2021 @Young America's Foundation speech in Texas. To subscribe to YAF, click here: https://www.youtube.com/user/YAFTV&#10;&#10;#Politics #DailyWire #YAF #Speech #BenShapiro #CriticalRaceTheory #LoudonCounty"
-    channeltitle "Ben Shapiro"
-    channelid "UCnQC_G5Xsjhp9fEJKuIcrSw"
+    date "2022-07-11T13:00:35Z"
+    title "Talib Kweli s Party Full"
+    description "In this episode of &#34;People's Party With Talib Kweli,&#34; Kweli and Jasmin Leigh sit down with politician, social worker, activist, and 2022 Los Angeles mayoral candidate:&#10;&#10;KAREN BASS&#10;&#10;Here's what we got into: &#10;&#10;&#8226; The grassroots approach of Bass' Los Angeles mayoral campaign.&#10;&#8226; Her long and storied history as an activist and how she was inspired.&#10;&#8226; Honoring her daughter's memory with the work she does everyday.&#10;&#8226; The GOP's Southern Strategy and how the Dems became progressive.&#10;&#8226; The responsibility of black politicians to address black people's issues.&#10;&#8226; Her personal experience during the January 6th rally and insurrection.&#10;&#8226; Homelessness being LA's biggest problem and her plan to address it.&#10;&#8226; Her take on how the anti-abortion laws are an attack on women.&#10;&#8226; Past work with SCYEA to help steer at-risk kids away from gangs.&#10;&#8226; The George Floyd Act and warrior policing vs. guardian policing.&#10;&#8226; Rick Caruso and his spending 40 million dollars on his campaign.&#10;&#8226; Karen's relationship with the leaders of Black Lives Matter.&#10;&#8226; Conflicting reports of large police forces' impact on black communities.&#10;&#8226; Predatory loan companies and her take on student debt forgiveness.&#10;&#8226; California being a model for how reparations could move forward.&#10;&#8226; The invention of the term critical race theory and banning of books.&#10;&#8226; Why the inside/outside strategy is the best way to promote change.&#10;&#8226; Her take on the real agenda as well as the hypocrisy of the NRA.&#10;&#8226; How she would convince someone that their vote matters.&#10;&#10;Listen to &#34;No Fear of Time&#34; Black Star's first album in 24 years. Only on Luminary. https://luminary.link/nofearoftime&#10;&#10;&#128276; Subscribe to UPROXX Video and ring the bell to turn on notifications: https://uproxx.it/5rzazsh&#10;&#10;&#127897;&#65039; New Episodes of People&#8217;s Party with Talib Kweli every Monday 9AMet/6AMpt. Watch all the episodes here: https://uproxx.it/avxtjgf&#10;&#10;&#127911; Audio Podcast -- Listen, Subscribe and Review!&#10;Apple: https://applepodcasts.com/peoplesparty &#10;Spotify: https://open.spotify.com/show/72bYFZB...&#10;Soundcloud: https://soundcloud.com/peoplesparty&#10;&#10;The UPROXX Family&#10;&#127911; UPROXX Music youtube.com/uproxxmusic&#10;&#127909; UPROXX Studio youtube.com/uproxx&#10;&#10;FOLLOW Rep. Karen Bass&#10;&#10133;Instagram: https://www.instagram.com/repkarenbass&#10;&#10133;Twitter: https://twitter.com/RepKarenBass&#10;&#10;FOLLOW UPROXX&#10;&#10133;UPROXX.com: https://uproxx.com&#10;&#10133;Instagram: https://instagram.com/uproxx&#10;&#10133;Twitter: https://twitter.com/uproxx&#10;&#10133;Facebook: https://facebook.com/uproxx &#10;&#10;More Jasmin Leigh: &#10;&#10;https://www.youtube.com/jasminleigh&#10;&#10;https://www.instagram.com/realjasminleigh&#10;&#10;Hip-Hop Heads Playlists:&#10;&#10;90's Hip Hop &#9654;&#65039; http://bit.ly/90sHipHopPlaylist&#10;2000's Hip Hop &#9654;&#65039; http://bit.ly/2000sHipHopPlaylist&#10;90's R&#38;B Hits &#9654;&#65039; http://bit.ly/90sRBPlaylist&#10;&#10;ABOUT UPROXX VIDEO:&#10;&#10;UPROXX Video celebrates Hip-Hop, Style, and Creativity through a mix of original shows and music videos from the biggest artists, entertainers, and innovators from our culture. &#10;&#10;PEOPLE'S PARTY WITH TALIB KWELI&#10;&#10;People's Party is a weekly interview show hosted by Talib Kweli and Jasmin Leigh. Guests range from the biggest names in hip-hop to global entertainers to the most progressive minds moving our culture forward. The audio podcast is available on Apple and Spotify."
+    channeltitle "UPROXX Video"
+    channelid "UCWGljB8djPusdaKtVx1UKfg"
     favcount 0
-    viewcount 222350
-    likecount 9493
-    commentcount 1073
-    duration "PT1M56S"
-    indegree 1
-    sentiment 1
-    cluster 3
+    viewcount 2781
+    likecount 122
+    commentcount 18
+    duration "PT45M52S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Black"
+    leftright "L"
+    cluster 6
   ]
   node
   [
-    id 291
+    id 273
+    name "291"
     label "jzn39_fauag"
     step 0
     date "2021-03-29T14:55:18Z"
@@ -5225,12 +8210,23 @@ graph
     commentcount -1
     duration "PT20M36S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 292
+    id 274
+    name "292"
     label "p8d-5e2LHsg"
     step 0
     date "2022-05-22T06:00:08Z"
@@ -5244,12 +8240,23 @@ graph
     commentcount 191
     duration "PT18M9S"
     indegree 2
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Socialist"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 293
+    id 275
+    name "293"
     label "9Dd0foZnMlM"
     step 0
     date "2022-06-11T21:00:04Z"
@@ -5263,12 +8270,23 @@ graph
     commentcount 1665
     duration "PT32S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 294
+    id 276
+    name "294"
     label "aSoAk-E0Xi4"
     step 0
     date "2021-07-09T01:15:22Z"
@@ -5282,31 +8300,53 @@ graph
     commentcount -1
     duration "PT36M22S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 296
-    label "CTVGsbqYNbA"
+    id 277
+    name "295"
+    label "tzdB_p9nOyc"
     step 0
-    date "2021-08-24T16:48:46Z"
-    title "Teacher Webinar Part 1 - Critical Race Theory"
-    description ""
-    channeltitle "TheFamilyFoundation"
-    channelid "UCeyPueYDiJgV0chnGRWkUYQ"
+    date "2021-07-19T23:39:43Z"
+    title "Hasbro Hires Dr. Seuss CANCELLATION SQUAD to Teach Kids Critical Race Theory?!"
+    description "Hasbro has hired the husband and wife team behind the cancellation of Dr. Seuss to teach their employees about CRT (critical race theory.) A Black Hasbro employee has stepped forward and talked to Project Veritas about how disgusted he is by the program, and how he feels this is about using Hasbro's massive platform to &#34;indoctrinate&#34; young children into current year politics. &#10;&#10;Could this be why My Little Pony G5 is centered on race relations, and Cobra Commander can't wear a hood anymore? And then there's Hasbro-owned Wizards of the Coast and the drama about race relations in Dungeons &#38; Dragons...&#10;&#10;About Clownfish TV:&#10;Hosted by Kneon and Geeky Sparkles, Clownfish TV is an independent, opinionated news and commentary channel that covers Pop Culture from a consumer's point of view. We talk about Gaming, Comics, Anime, TV, Movies, Animation and more. Opinions expressed by our contributors do not necessarily reflect the views of our guests, affiliates, sponsors or advertisers. Clownfish TV is an unofficial news source and has no connection to any company that we may cover.&#10;&#10;Follow Us on the Web:&#10;&#9658; ClownfishTV.com - http://clownfishtv.com&#10;&#9658; D-REZZED Pop Culture News - http://d-rezzed.com&#10;&#10;Follow Clownfish TV on Social Media -&#10;&#9658; TWITTER - http://twitter.com/RealClownfishTV&#10;&#9658; FACEBOOK - http://facebook.com/ClownfishTV&#10;&#9658; INSTAGRAM - http://instagram.com/RealClownfishTV&#10;&#10;Business Inquiries can be sent to shoutout [at] clownfishtv.com&#10;&#10;(Please note that we get a LOT of emails and not all email inquiries will be answered.)&#10;&#10;Some music and sound FX courtesy of Epidemic Sound - http://www.epidemicsound.com/&#10;&#10;#Hasbro #MyLittlePony #GIJoe #Woke #CRT #Politics #CriticalRaceTheory #G5"
+    channeltitle "Clownfish TV"
+    channelid "UC4gD0czpXVv_LpADTSU624g"
     favcount 0
-    viewcount 214
-    likecount 4
-    commentcount -1
-    duration "PT1H5M43S"
+    viewcount 36189
+    likecount 2968
+    commentcount 972
+    duration "PT21M38S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "R"
     cluster 6
   ]
   node
   [
-    id 297
+    id 278
+    name "297"
     label "2Kg0q82mFzI"
     step 0
     date "2022-01-21T19:23:37Z"
@@ -5320,12 +8360,23 @@ graph
     commentcount 5580
     duration "PT1H51M50S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 298
+    id 279
+    name "298"
     label "3ch9GfBkk98"
     step 0
     date "2021-05-13T19:48:30Z"
@@ -5339,12 +8390,23 @@ graph
     commentcount 12
     duration "PT3M32S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 299
+    id 280
+    name "299"
     label "7Yf12qsD3Go"
     step 0
     date "2020-06-08T19:41:02Z"
@@ -5358,31 +8420,53 @@ graph
     commentcount 2
     duration "PT1M19S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 301
-    label "qSU3B-VzR5o"
+    id 281
+    name "300"
+    label "NvUHc4aqgh4"
     step 0
-    date "2021-11-30T02:00:24Z"
-    title "If You Didn | WRETCHED"
-    description "Watch and listen to full episodes of Wretched TV + Radio: https://wretched.org&#10;&#10;Wretched TV + Radio is hosted by Todd Friel. On the show, you will see and hear live witnessing encounters, discussions of tough theological issues, and Christian commentary on current events. We might even make you laugh.&#10;&#10;SUPPORT WRETCHED: &#10;https://wretched.org/donate&#10;&#10;FACEBOOK:&#10;Wretched: http://facebook.com/wretchednetwork&#10;&#10;TWITTER:&#10;Wretched: http://twitter.com/wretchednetwork&#10;Todd Friel: http://twitter.com/toddfriel&#10;&#10;INSTAGRAM:&#10;Wretched: http://instagram.com/wretched.network"
-    channeltitle "Wretched"
-    channelid "UCdlxWNzGGPKzQLMXkkyZkUQ"
+    date "2021-04-27T14:05:35Z"
+    title "Idaho State Senate Passes Bill Banning Teaching Of Critical Race Theory In Schools"
+    description "By a vote of 27 to 8, the GOP-dominated State Senate in Idaho banned the teaching of Critical Race Theory in public schools.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 14023
-    likecount 759
-    commentcount -1
-    duration "PT12M2S"
-    indegree 0
-    sentiment 1
-    cluster 5
+    viewcount 445732
+    likecount 11033
+    commentcount 3815
+    duration "PT27M56S"
+    indegree 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 302
+    id 282
+    name "302"
     label "HCkx_x9FLJ8"
     step 0
     date "2021-06-05T15:00:07Z"
@@ -5396,12 +8480,23 @@ graph
     commentcount 11612
     duration "PT9M30S"
     indegree 47
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "R"
+    cluster 6
   ]
   node
   [
-    id 303
+    id 283
+    name "303"
     label "wPne63CD7co"
     step 0
     date "2021-05-19T05:52:13Z"
@@ -5415,12 +8510,23 @@ graph
     commentcount -1
     duration "PT6M58S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 304
+    id 284
+    name "304"
     label "UKdglMZd6Ps"
     step 0
     date "2021-12-16T23:00:11Z"
@@ -5434,12 +8540,23 @@ graph
     commentcount 55
     duration "PT10M12S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 305
+    id 285
+    name "305"
     label "OsSt6PmzB2I"
     step 0
     date "2021-02-27T00:08:43Z"
@@ -5453,12 +8570,23 @@ graph
     commentcount -1
     duration "PT1H2M7S"
     indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 306
+    id 286
+    name "306"
     label "tJKpQlPGJm0"
     step 0
     date "2022-02-18T17:00:44Z"
@@ -5472,12 +8600,23 @@ graph
     commentcount 9
     duration "PT10M25S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 307
+    id 287
+    name "307"
     label "PG1EWTXO4wo"
     step 0
     date "2021-08-08T13:00:20Z"
@@ -5491,12 +8630,23 @@ graph
     commentcount 154
     duration "PT1H3M33S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiTheist"
+    leftright "C"
+    cluster 6
   ]
   node
   [
-    id 308
+    id 288
+    name "308"
     label "yWqx2Rs8RGc"
     step 0
     date "2021-10-07T16:30:11Z"
@@ -5510,12 +8660,23 @@ graph
     commentcount 66
     duration "PT3M57S"
     indegree 1
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 309
+    id 289
+    name "309"
     label "3uf-HoXnL8E"
     step 0
     date "2021-05-28T20:00:11Z"
@@ -5529,31 +8690,53 @@ graph
     commentcount 1535
     duration "PT18M15S"
     indegree 12
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 9
   ]
   node
   [
-    id 311
-    label "q-z_ZrxP9hI"
+    id 290
+    name "310"
+    label "XHyuIc_ZYmI"
     step 0
-    date "2021-02-19T19:00:12Z"
-    title "Critical Race Theory War: James Lindsay, Allie Stuckey, Christopher Rufo | ROUNDTABLE | Rubin Report"
-    description "Dave Rubin of The Rubin Report talks to James Lindsay, Allie Beth Stuckey and Christopher Rufo about critical race theory and Joe Biden&#8217;s reversal of Donald Trump&#8217;s executive order banning government agencies from receiving training involving critical race theory. James gives a clear explanation to answer the question &#8220;what is critical race theory&#8221;, but also discusses its toxic and divisive effects. This is an issue that is affecting more and more people as diversity trainings become more common in everyday workplaces. All three guests have taken an active involvement in the critical race theory debate since the Black Lives Matter protests erupted in the spring and we have been bombarded with messages about systemic racism. James, Allie and Christopher share tips on how you can push back on these toxic ideas in your local community now.&#10;&#10;Is the state of US news driving you crazy? Does the coverage of political news rarely seem &#8220;fair and balanced&#8221;? Serious discussions on US politics is vital to having a healthy democracy. No matter what political party you belong to, we need to be able to hear a variety of political perspectives. Whether you majored in political science or just want to have a deeper understanding of the issues you&#8217;ll want to check out this playlist:&#10;https://www.youtube.com/playlist?list=PLEbhOtC9klbCr0iN2ANJbaV477B0eSpc6&#10;&#10;To make sure you never miss a single Rubin Report video, click here to subscribe:&#10;https://www.youtube.com/channel/UCJdKr0Bgd_5saZYqLCa9mng?sub_confirmation=1&#10;&#10;Looking for smart and honest conversations about current events, political news and the culture war? Want to increase your critical thinking by listening to different perspectives on a variety of topics? If so, then you&#8217;re in the right place because on The Rubin Report Dave Rubin engages the ideas of some of society's most interesting thought leaders, authors, politicians and comedians. The Rubin Report is the largest talk show about free speech and big ideas on YouTube. &#10;Dave allows his guests to speak their minds and his audience to think for themselves.&#10;New videos every week.&#10;&#10;The Rubin Report is fan funded through monthly and one-time donations: http://www.rubinreport.com/support&#10;&#10;******&#10;&#10;Dave Rubin's book, &#34;Don't Burn This Book&#34; is now available at:&#10;www.dontburnthisbook.com&#10;&#10;LISTEN to The Rubin Report podcast: www.rubinreport.com/podcast&#10;&#10;See Dave LIVE:  https://daverubin.com/events/&#10;&#10;Sign up for our newsletter with the best of The Rubin Report delivered to your inbox once a week: http://www.rubinreport.com/newsletter&#10;&#10;Official Rubin Report Merchandise: https://teespring.com/stores/therubinreport&#10;&#10;All art on the set are original works by Caylin Rose Janet. &#10;Get a print here: https://www.caylinrosejanet.com/rubinreportart.html&#10;&#10;******&#10;&#10;James Lindsay&#10;Author, Cynical Theories&#10;James on Twitter: https://twitter.com/ConceptualJames&#10; &#10;Allie Beth Stuckey&#10;Host, Relatable&#10;Allie on Twitter: https://twitter.com/conservmillen&#10; &#10;Christopher F. Rufo&#10;Director, DiscoveryCWPM &#10;Christopher on Twitter: https://twitter.com/realchrisrufo&#10;&#10;******&#10;&#10;Follow Dave on Twitter: https://twitter.com/RubinReport&#10;Follow The Rubin Report on Facebook: https://www.facebook.com/rubinreport&#10;Follow Dave on Facebook: https://www.facebook.com/daverubin&#10;Follow Dave on Instagram: https://www.instagram.com/rubinreport/?hl=en&#10;About Dave Rubin: http://rubinreport.com"
-    channeltitle "The Rubin Report"
-    channelid "UCJdKr0Bgd_5saZYqLCa9mng"
+    date "2021-11-20T20:15:00Z"
+    title ": Ted Cruz Presses Biden Nominee On His Tweets"
+    description "At Wednesday's Senate Commerce Committee hearing, Sen. Ted Cruz (R-TX) grilled Alvaro Bedoya, nominee to be a Commissioner of the Federal Trade Commission, over his tweets.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 147337
-    likecount 8144
-    commentcount 1330
-    duration "PT40M1S"
-    indegree 17
-    sentiment 1
+    viewcount 50186
+    likecount 2107
+    commentcount 292
+    duration "PT4M"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 312
+    id 291
+    name "312"
     label "Q757q-Z9s80"
     step 0
     date "2021-06-18T23:33:36Z"
@@ -5567,12 +8750,23 @@ graph
     commentcount 393
     duration "PT2M34S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 313
+    id 292
+    name "313"
     label "MzWa4qSfHNY"
     step 0
     date "2022-04-10T22:00:08Z"
@@ -5586,12 +8780,23 @@ graph
     commentcount 5
     duration "PT1H41M43S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 314
+    id 293
+    name "314"
     label "QV2rNX7JiXU"
     step 0
     date "2021-03-22T20:54:04Z"
@@ -5605,12 +8810,23 @@ graph
     commentcount 10
     duration "PT31M20S"
     indegree 1
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 315
+    id 294
+    name "315"
     label "U7rFKsNibic"
     step 0
     date "2021-05-12T22:21:50Z"
@@ -5624,31 +8840,53 @@ graph
     commentcount 1224
     duration "PT46M22S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 317
-    label "yBRW1hoDtrY"
+    id 295
+    name "316"
+    label "06HnuhE7-0g"
     step 0
-    date "2021-10-22T01:00:29Z"
-    title "Condoleezza Rice Schools  Hosts on Critical Race Theory"
-    description "&#34;We should be able to empower black children without hurting white children.&#34; &#128079;&#128079;&#128079;&#128079;  EXACTLY.&#10;&#10;&#128680;  PragerU is experiencing severe censorship on Big Tech platforms. Go to https://www.prageru.com/ to watch our videos free from censorship!&#10;&#10;Stay up-to-date on our latest releases! &#128073; https://www.prageru.com/series/the-pulse/&#10;&#10;Take PragerU videos with you everywhere you go. Download our free mobile app! &#10;Download iOS: https://itunes.apple.com/us/app/prageru/id1115115779&#10;Download Android: https://play.google.com/store/apps/details?id=com.cappital.prageru"
-    channeltitle "PragerU"
-    channelid "UCZWlSUNDvCCS1hBiXV0zKcA"
+    date "2022-07-11T20:07:29Z"
+    title " Talks Critical Race Theory, Tennis, Race in America and More"
+    description "Join Host Harold Bell and Facilitator Gary Johnson as they talk Critical Race Theory, and sports, specifically tennis greats, Arthur Ashe, Andre Aggasi, and Harold's interview with Charlie Brotman.  The guys also talk about the impact of the hit song, &#34;Black Like Me,&#34; by country star Mickey Guyton."
+    channeltitle "Gary Johnson"
+    channelid "UCCStC73n7nOhgEwbRaPLQ6w"
     favcount 0
-    viewcount 205306
-    likecount 21080
-    commentcount 1582
-    duration "PT6M13S"
-    indegree 1
-    sentiment 1
-    cluster 2
+    viewcount 5
+    likecount 0
+    commentcount 0
+    duration "PT55M21S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 318
+    id 296
+    name "318"
     label "nn2wnPitZug"
     step 0
     date "2021-02-03T23:18:32Z"
@@ -5662,12 +8900,23 @@ graph
     commentcount 8
     duration "PT8M17S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 319
+    id 297
+    name "319"
     label "qte_jldVc0s"
     step 0
     date "2022-07-09T13:00:18Z"
@@ -5681,12 +8930,23 @@ graph
     commentcount 310
     duration "PT3M56S"
     indegree 12
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 320
+    id 298
+    name "320"
     label "gogQ04caM3s"
     step 0
     date "2021-08-09T14:32:19Z"
@@ -5700,12 +8960,23 @@ graph
     commentcount 259
     duration "PT8M14S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 9
   ]
   node
   [
-    id 321
+    id 299
+    name "321"
     label "xgWmlo_56ug"
     step 0
     date "2021-06-09T19:14:36Z"
@@ -5719,69 +8990,113 @@ graph
     commentcount 82
     duration "PT1M2S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 323
-    label "VnDS-_-o67s"
+    id 300
+    name "322"
+    label "PUeOQ9P2CVU"
     step 0
-    date "2021-07-18T11:30:38Z"
-    title "Teacher - Critical Race Theory Creating Racial Tensions In School"
-    description "Ramona Bessinger, Providence, Rhode Island, Middle School Teacher https://legalinsurrection.com/2021/07/im-a-middle-school-teacher-and-see-how-critical-race-curriculum-is-creating-racial-hostility-in-school/"
-    channeltitle "Legal Insurrection"
-    channelid "UCufR_sP6bjarwJwNEljxAnQ"
+    date "2021-07-24T17:45:21Z"
+    title "Larry Elder Outlines Opposition To  In Bid To Win California Recall Election"
+    description "In a video posted to social media this morning, conservative radio host Larry Elder, who according to polls is the top contender against Gov. Gavin Newsom (D-CA) in the California recall election, decried &#34;critical race theory.&#34;&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 1081
-    likecount 39
-    commentcount 15
-    duration "PT4M9S"
+    viewcount 30692
+    likecount 2892
+    commentcount 496
+    duration "PT1M52S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 325
-    label "mmcPSXY-TdY"
+    id 301
+    name "324"
+    label "2N-HrGelM4s"
     step 0
-    date "2022-07-04T17:39:02Z"
-    title "Critical Race Theory: A Nation Divided! (July 4, 2022) | Dr Phil 2022 Full Episode"
-    description "Critical Race Theory: A Nation Divided&#10;&#10;Dr. Phil: Season 20, Episode 73&#10;&#10;Parents say Critical Race Theory is being taught in K-12 schools, poisoning the minds of children and keeping racism alive; author James Lindsay calls CRT &#34;Race Marxism&#34;; a teacher says children need to learn about the racist history of the U.S.&#10;&#10;Hello everyone, &#10;Since the channel is not monetized, If you like the content and would like to support the channel, here our patreon: &#10;https://www.patreon.com/Drphilepisodes&#10;Regardless, we will continue to upload all episodes to youtube including new ones, we sincerely appreciate your support, Thank you all and have a nice day &#10084;"
-    channeltitle "Dr Phil Latest Episodes"
-    channelid "UCXMpTK7FM9qyG6ShGMLr-WQ"
+    date "2021-04-20T21:00:01Z"
+    title "Hakeem Jeffries Fires Back At Reporter: "
+    description "During his weekly press conference, Chair of the House Democratic Caucus Rep. Hakeem Jeffries (D-NY) pushed back on a reporter pressing him on &#34;critical race theory&#34; pertaining to the policing reform bill.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 1801
-    likecount 39
-    commentcount 48
-    duration "PT40M42S"
+    viewcount 9180
+    likecount 114
+    commentcount 232
+    duration "PT2M38S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 327
-    label "SK0oBSse05I"
+    id 302
+    name "326"
+    label "oQvlLUwXvbs"
     step 0
-    date "2021-07-15T03:22:30Z"
-    title "What Critical Race Theory Looks Like In Elementary School"
-    description "Via https://www.valleynewslive.com/2021/07/15/what-is-critical-race-theory/ published with permission"
-    channeltitle "Legal Insurrection"
-    channelid "UCufR_sP6bjarwJwNEljxAnQ"
+    date "2017-11-07T12:27:14Z"
+    title "Critical Race Theory - Fact vs Feeling"
+    description "Dr. Keith Stanley Brooks is the Dean of Academic Foundations at Minneapolis Community and Technical College. A licensed principal, Dr. Brooks has worked as an Associate Professor of Education at Bethel University, a Project Manager at the St Paul Public Schools Foundation and the Director of Multi-Cultural Affairs at Anoka Ramsey Community College. He earned his M.ED in teacher leadership and PhD in work and human resource education at the University of MN.&#10; &#10;Source: AchieveMinneapolis"
+    channeltitle "Discriminology"
+    channelid "UCOgQVjZAVjwwHKOuBnpqqhg"
     favcount 0
-    viewcount 378
-    likecount 23
-    commentcount 4
-    duration "PT12M44S"
+    viewcount 1100
+    likecount 13
+    commentcount 0
+    duration "PT17M24S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 7
   ]
   node
   [
-    id 328
+    id 303
+    name "328"
     label "gzuhkJ37c5w"
     step 0
     date "2021-07-27T18:31:47Z"
@@ -5795,31 +9110,53 @@ graph
     commentcount 0
     duration "PT1H9M12S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 330
-    label "dcsumghCuLM"
+    id 304
+    name "329"
+    label "lF65yCeF-e8"
     step 0
-    date "2022-03-30T00:30:11Z"
-    title "Critical Race Theory?"
-    description "Tanya joins blogger and public speaker Samuel Sey to discuss the complexities and harms of critical race theory and what he sees as the links between Marxism and &#34;CRT.&#34;&#10;&#10;Tune in to The News Forum for more news, updates, and in-depth interviews from a Canadian perspective where all voices matter. Check your local listings for channel details. &#10;#thenewsforum&#10;&#10;#canadiannews #governmentofcanada #explorepage #news #trending #politics #media #people #government #today #political #ontario #dailynews #latestnews #newsupdate #current #interview #future #important #top10 #preview #primeminister #parlimentofcanada #canadian #vancouver #calgary #ottawa #toronto #montreal"
-    channeltitle "The News Forum"
-    channelid "UCCDrI4ogZ8avR6xVcHhobPQ"
+    date "2021-07-10T14:30:10Z"
+    title "President Nelson  Jesus Teach Critical Race Theory? BYU Professor Says So!"
+    description "Yet Another Example of Critical Race Theory Out Of BYU&#10;In an article entitled, &#34;How Critical Race Theory Helps us Follow Jesus,&#34; a BYU Professor and member of the Church, uses scripture and the words of Jesus, and the words of President Hinckley, President Nelson, and President Oaks to build a case that the Restored Gospel of Jesus Christ is compatible with CRT.&#10;&#10;Listen with us as we review the article and show its obvious errors while helping members of the Church learn to defend what is quickly coming to their doorstep. By reviewing the article, you will better grasp how supporters of Critical Race Theory often message this ideology and how you can better recognize its flaws by learning about its origins, its tenets and comparing it to the Restored Gospel of Jesus Christ.&#10;&#10;Website- https://www.cwicmedia.com&#10;&#10;President Dallin H. Oaks, Racism and Other Challenges, BYU Devotional - https://youtu.be/7LehpU7-p4Q&#10;&#10;********************&#10;&#10145;&#65039; Home of the Cwic Show, Cwic Media Come Follow Me Series, and the Cwic Interpreters.&#10;&#10;Cwic Show relates real-world, current events for faith-based commentary and conversations. We address The Church of Jesus Christ of Latter-Day Saints, politics, pop culture, the Book of Mormon, the Bible, and gospel principles in a faith-based manner.&#10;&#10;Cwic Show has conversations on issues facing Latter-day Saints and the church today. We take on the tough topics and share perspectives and information to keep our audience informed. Our objective is to support the Restored Church of Jesus Christ and fight the disinformation that is so pervasive online. &#10;&#10;&#10145;&#65039; Our Cwic Media Come Follow Me LDS Series and other gospel principle episodes use a disciplined approach with our faith-based, Cwic Interpreters that help you to see the scriptures in a new light. Once you follow us for a while, you will never see the scriptures the same again!&#10;&#10;********************&#10;Disclaimer&#10;The products and content offered by Cwic Media are neither made, provided, approved nor endorsed by Intellectual Reserve, Inc. or The Church of Jesus Christ of Latter-day Saints. &#10;&#10;All content and products are solely those of Cwic Media and not those of Intellectual Reserve, Inc. or The Church of Jesus Christ of Latter-day Saints.&#10;&#10;********************&#10; #CwicShow&#8203;&#8203; #CriticalTheory #ChurchOfJesusChrist"
+    channeltitle "Cwic Media"
+    channelid "UCFNi-bt0oFbPvWvv5UmmAVQ"
     favcount 0
-    viewcount 36
-    likecount 2
-    commentcount 1
-    duration "PT22M1S"
-    indegree 0
-    sentiment 1
-    cluster 4
+    viewcount 13840
+    likecount 503
+    commentcount 271
+    duration "PT42M3S"
+    indegree 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 331
+    id 305
+    name "331"
     label "2Ox1A8kFq_U"
     step 0
     date "2021-07-06T14:04:06Z"
@@ -5833,12 +9170,23 @@ graph
     commentcount 118
     duration "PT5M43S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 332
+    id 306
+    name "332"
     label "ehpOQZ85qwQ"
     step 0
     date "2021-05-24T20:51:01Z"
@@ -5852,12 +9200,23 @@ graph
     commentcount 0
     duration "PT1H49M18S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 333
+    id 307
+    name "333"
     label "l3Ji9WlV02M"
     step 0
     date "2021-06-03T23:01:25Z"
@@ -5871,12 +9230,23 @@ graph
     commentcount 271
     duration "PT1H14M37S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 334
+    id 308
+    name "334"
     label "kdJb2uBDy1Q"
     step 0
     date "2021-02-17T12:00:13Z"
@@ -5890,12 +9260,23 @@ graph
     commentcount 43
     duration "PT54M43S"
     indegree 1
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Libertarian|PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 335
+    id 309
+    name "335"
     label "fyle1b7dsw0"
     step 0
     date "2021-08-15T21:51:47Z"
@@ -5909,12 +9290,23 @@ graph
     commentcount 16
     duration "PT2M12S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
     cluster 5
   ]
   node
   [
-    id 336
+    id 310
+    name "336"
     label "yruhDDx8_4k"
     step 0
     date "2022-02-10T17:00:28Z"
@@ -5928,12 +9320,23 @@ graph
     commentcount 81
     duration "PT6M9S"
     indegree 4
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "SocialJustice|Socialist"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 337
+    id 311
+    name "337"
     label "t40zD1NZKMk"
     step 0
     date "2020-10-01T14:07:24Z"
@@ -5947,12 +9350,23 @@ graph
     commentcount 1347
     duration "PT50M44S"
     indegree 16
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "C"
+    cluster 3
   ]
   node
   [
-    id 338
+    id 312
+    name "338"
     label "PbedmwYnmew"
     step 0
     date "2021-11-08T14:00:09Z"
@@ -5966,31 +9380,53 @@ graph
     commentcount 25
     duration "PT17M15S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 340
-    label "yStppBsSr0A"
+    id 313
+    name "339"
+    label "GAvA6M6GHjk"
     step 0
-    date "2021-05-20T22:51:34Z"
-    title "Critical Race Theory: Coming to a School Near You?"
-    description "Having been at the forefront of a movement that has been exposing critical race theory&#8217;s infiltration of institutions across America, Christopher Rufo is giving a warning to parents with children in school on what they should know about this &#8220;deeply alarming&#8221; and &#8220;divisive&#8221; ideology.&#10;&#10;Read More:&#10;What You Need to Know About Critical Race Theory: https://www.dailysignal.com/2021/01/20/podcast-what-you-need-to-know-about-critical-race-theory/&#10;&#10;Keep Racist Critical Race Theory Ideology Out of K-12 Classrooms: https://www.dailysignal.com/2021/04/22/keep-racist-critical-race-theory-ideology-out-of-k-12-classrooms/&#10;&#10;Critical Race Theory Is Being Institutionalized Throughout America: https://www.dailysignal.com/2021/05/19/critical-race-theory-is-being-institutionalized-throughout-america/&#10;&#10;Still haven&#8217;t subscribed to The Daily Signal on YouTube? Click here &#9658; https://bit.ly/2oz8N1I&#10;&#10;Follow The Daily Signal on Facebook: https://www.facebook.com/TheDailySignalNews/&#10;&#10;Follow The Daily Signal on Twitter: https://twitter.com/DailySignal&#10;&#10;Follow The Daily Signal on Instagram: https://www.instagram.com/thedailysignal/?hl=en"
-    channeltitle "The Daily Signal"
-    channelid "UCHqkXbgqrDrDVInBMSoGQgQ"
+    date "2021-11-02T01:45:00Z"
+    title "Glenn Youngkin Promises To Ban Critical Race Theory On Day 1 If Elected Governor"
+    description "Glenn Youngkin speaks at a rally on the even of the Virginia's Governor election.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
     favcount 0
-    viewcount 16394
-    likecount 363
-    commentcount 65
-    duration "PT2M22S"
+    viewcount 10987
+    likecount 834
+    commentcount 319
+    duration "PT2M18S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 341
+    id 314
+    name "341"
     label "0bHrrZdFRPk"
     step 0
     date "2021-03-28T23:38:08Z"
@@ -6004,12 +9440,23 @@ graph
     commentcount 922
     duration "PT1M47S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 342
+    id 315
+    name "342"
     label "Si-U4eipV34"
     step 0
     date "2021-11-06T13:00:24Z"
@@ -6023,12 +9470,23 @@ graph
     commentcount 59
     duration "PT7M55S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 6
   ]
   node
   [
-    id 343
+    id 316
+    name "343"
     label "PbGV8Ms9GP8"
     step 0
     date "2021-07-14T16:28:06Z"
@@ -6042,12 +9500,23 @@ graph
     commentcount 2
     duration "PT6M43S"
     indegree 1
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 344
+    id 317
+    name "344"
     label "pirjrKmWxmA"
     step 0
     date "2020-07-20T20:23:09Z"
@@ -6061,12 +9530,23 @@ graph
     commentcount 928
     duration "PT1H14M31S"
     indegree 21
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 345
+    id 318
+    name "345"
     label "kPYPh3czBZk"
     step 0
     date "2022-02-03T11:26:16Z"
@@ -6080,12 +9560,23 @@ graph
     commentcount 244
     duration "PT3M41S"
     indegree 1
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 346
+    id 319
+    name "346"
     label "b1WoYaF1DY8"
     step 0
     date "2020-07-27T16:00:11Z"
@@ -6099,12 +9590,23 @@ graph
     commentcount 68
     duration "PT12M56S"
     indegree 3
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 347
+    id 320
+    name "347"
     label "gaW4otDuSMw"
     step 0
     date "2022-07-07T14:00:43Z"
@@ -6118,12 +9620,23 @@ graph
     commentcount 136
     duration "PT59S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "SocialJustice|Socialist"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 348
+    id 321
+    name "348"
     label "vzZ26aXYw64"
     step 0
     date "2021-02-04T12:44:29Z"
@@ -6137,12 +9650,23 @@ graph
     commentcount 667
     duration "PT30M16S"
     indegree 58
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 349
+    id 322
+    name "349"
     label "tHdthcjyUwE"
     step 0
     date "2022-07-06T14:56:04Z"
@@ -6156,50 +9680,83 @@ graph
     commentcount 278
     duration "PT2M5S"
     indegree 13
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 351
-    label "H4IxXKWEpG8"
+    id 323
+    name "350"
+    label "JKH9mDbFuaY"
     step 0
-    date "2021-07-07T23:12:04Z"
-    title "VIRAL: Parent BLASTS Critical Race Theory at School Board Meeting"
-    description "In a recent viral video, Ty Smith blasted critical race theory at a local school board meeting. After listening to a plethora of white parents argue that CRT is a good thing, he felt he had to stand up and push back.&#10;&#10;Other videos you might enjoy: &#10;&#10;CANDACE OWENS: I don't support Juneteenth being a federal holiday. Here's why. &#8212; https://youtu.be/T2nIIdauKm8&#10;&#10;Candace Owens Reacts to Derek Chauvin Guilty Verdict &#8212; https://youtu.be/dKRF1n6SWv0&#10;&#10;Dana White Explains Why The UFC Is Staying Out Of Politics &#8212; https://youtu.be/z9ZZ0GkQFqE&#10;&#10;#Candace #CandaceOwens #DailyWire #CriticalRaceTheory #CRT"
-    channeltitle "Candace"
-    channelid "UCkY4fdKOFk3Kiq7g5LLKYLw"
+    date "2021-05-21T18:30:49Z"
+    title "Owen Strachan Explains the Problems with Critical Race Theory and How the Church Should Respond"
+    description "Owen Strachan, Author of Christianity and Wokeness and Provost and Research Professor at Grace Bible Theological Seminary, explains the problems with Critical Race Theory and how the church should respond.&#10;&#10;For more Washington Watch with Tony Perkins, visit www.tonyperkins.com."
+    channeltitle "Tony Perkins"
+    channelid "UCK1k5jwrGprtSG0P2NJf52Q"
     favcount 0
-    viewcount 192820
-    likecount 18649
-    commentcount 1664
-    duration "PT13M12S"
-    indegree 6
-    sentiment 1
+    viewcount 1286
+    likecount 41
+    commentcount -1
+    duration "PT15M54S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
+  ]
+  node
+  [
+    id 324
+    name "352"
+    label "_sAUZlgbaps"
+    step 0
+    date "2021-07-27T01:28:19Z"
+    title "Critical Race Theory in Practice"
+    description "&#9658;Join the channel:  https://www.youtube.com/channel/UCTrecbx23AAYdmFHDkci0aQ/join&#10;&#9658;Get an Undoomed T-shirt: https://teespring.com/stores/undoomed&#10;&#9658;Help me out on Patreon: https://www.patreon.com/Undoomed&#10;&#9658;Or SubscribeStar: https://www.subscribestar.com/undoomed&#10;&#9658;Discord: https://discord.gg/rfyAckm&#10;&#9658;StreamLabs: https://streamlabs.com/undoomedone&#10;&#10;Enjoy!&#10;&#10;0:00 Teaser&#10;0:12 Introduction&#10;1:09 Main Video&#10;15:21 Outro&#10;15:42 Patreon Credits&#10;16:17 Easter Egg&#10;&#10;&#9658;Undoomed T-SHIRT: https://teespring.com/stores/undoomed&#10;&#10;&#10;&#10;DISCLAIMER: &#10;All material used falls under fair use of the Digital Millennium Copyright Act (1998).&#10;(Used under fair use, for commentary, education, criticism and satire.)&#10;This video is for educational, entertainment and social commentary purposes only. It is not intended to cause offense. Do not contact or harass the creator of the video I&#8217;m responding to. The link is provided solely for copyright purposes, and to allow that channel to monetize any traffic resulting from the creation of this video. If you are the creator of the video I'm responding to and would like the link to your video removed, please contact me on Twitter @Undoomed.&#10;&#10;Original Video: &#10;&#10;Intro &#38; outro music by Undoomed &#38; Wolvven Music:&#10;https://www.youtube.com/user/WolvvenMusic&#10;&#10;#CRT&#10;&#10;&#9658;Twitter: https://twitter.com/Undoomed &#10;&#9658;Facebook: https://www.facebook.com/Undoomed&#10;&#9658;Instagram: https://www.instagram.com/undoomedofficial &#10;&#9658;Minds: https://minds.com/Undoomed &#10;&#10;&#9658;Discord: https://discord.gg/rfyAckm&#10;&#10;&#9658;MAIN channel: https://www.youtube.com/UndoomedOne&#10;&#9658;Live Stream channel: https://www.youtube.com/channel/UCF7EmTnVXy2R3buW9zTdkBA&#10;&#9658;My Science channel: https://www.youtube.com/channel/UCpI5nryEItASpttJi2fnbIQ&#10;&#9658;DailyMotion: http://www.dailymotion.com/undoomed_official&#10;&#9658;BitChute: https://www.bitchute.com/channel/undoomed/&#10;&#10;&#9658;T-shirts: https://teespring.com/stores/undoomed&#10;&#10;&#9658;SubscribeStar: https://www.subscribestar.com/undoomed&#10;&#9658;Patreon: https://www.patreon.com/Undoomed"
+    channeltitle "Undoomed"
+    channelid "UCTrecbx23AAYdmFHDkci0aQ"
+    favcount 0
+    viewcount 47090
+    likecount 6489
+    commentcount 1541
+    duration "PT16M23S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "R"
     cluster 1
   ]
   node
   [
-    id 353
-    label "k_HjeDNQloM"
-    step 0
-    date "2021-12-20T22:00:15Z"
-    title "Trump Blasts  Ideology, Critical Race Theory At Rallies | 2021 Rewind"
-    description "At rallies during 2021, former President Trump tore into two common foes: wokeness and critical race theory.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
-    channeltitle "Forbes Breaking News"
-    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
-    favcount 0
-    viewcount 61377
-    likecount 5224
-    commentcount 1064
-    duration "PT9M55S"
-    indegree 0
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 354
+    id 325
+    name "354"
     label "MU3eGiHtzII"
     step 0
     date "2022-03-29T23:30:03Z"
@@ -6213,12 +9770,23 @@ graph
     commentcount 8
     duration "PT5M8S"
     indegree 1
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 355
+    id 326
+    name "355"
     label "C7_nNaPCIz8"
     step 0
     date "2021-04-25T21:00:03Z"
@@ -6232,31 +9800,53 @@ graph
     commentcount 1923
     duration "PT5M45S"
     indegree 15
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 357
-    label "H0Yncm832bY"
-    step 0
-    date "2022-07-07T20:00:48Z"
-    title "Governor Kevin Stitt announces audit of Tulsa Public Schools"
-    description "Hey Oklahoma, Governor Kevin Stitt here.&#10;&#10;I wanted to update you directly with some news.&#10;&#10;At the request of two Tulsa School Board members, today I am calling for a special audit of Tulsa Public Schools and the potential mishandling of public funds.&#10;&#10;As one of the largest districts in the state, TPS received over $200 million in COVID federal relief funds.&#10;&#10;TPS also stayed closed the longest, over 300 days.&#10;&#10;Board members, parents, students, and teachers deserve to know how that money was spent.&#10;&#10;I am also concerned that TPS may have violated state law, specifically HB 1775, which bans public schools from teaching critical race theory.&#10;&#10;Specifically, the bill prohibits teaching that &#8220;one race or sex is inherently superior to another race or sex.&#8221;&#10;&#10;I firmly believe that not one cent of taxpayer money should be used to define and divide young Oklahomans by their race or sex.&#10;&#10;I have every confidence in State Auditor Cindy Byrd, who is also conducting a financial audit of the State Department of Education which I called for last year.&#10;&#10;To be Top Ten in education, parents need to know exactly what&#8217;s going on in their child&#8217;s school and in their child&#8217;s classrooms.&#10;&#10;As governor, I will always &#8211; ALWAYS &#8211; stand with parents.&#10;&#10;We will get to the bottom of what&#8217;s going on in Tulsa Public Schools.&#10;&#10;Thank you, God Bless you, and God Bless the great state of Oklahoma."
-    channeltitle "Governor Kevin Stitt"
-    channelid "UCyE0TZqyRF9AAd6PGzfcfjA"
-    favcount 0
-    viewcount 582
-    likecount 67
-    commentcount -1
-    duration "PT1M54S"
-    indegree 3
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 8
   ]
   node
   [
-    id 358
+    id 327
+    name "356"
+    label "hXBdrsX7Ero"
+    step 0
+    date "2022-04-12T14:00:25Z"
+    title ": Trump Takes Aim At Critical Race Theory At NC Rally"
+    description "At his rally Saturday night in Selma, North Carolina, former President Trump spoke about what he says is a danger &#34;from within.&#34;&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
+    channeltitle "Forbes Breaking News"
+    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
+    favcount 0
+    viewcount 10965
+    likecount 1261
+    commentcount 380
+    duration "PT3M16S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 328
+    name "358"
     label "qUdY2r5S4KA"
     step 0
     date "2021-12-01T15:30:07Z"
@@ -6270,31 +9860,53 @@ graph
     commentcount 7
     duration "PT1M9S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 10
   ]
   node
   [
-    id 360
-    label "3qFgBxv_LgY"
+    id 329
+    name "359"
+    label "fh2FdfHeLno"
     step 0
-    date "2021-03-15T19:29:16Z"
-    title "EXPOSED: Mandatory Critical Race Theory  Training at Princeton Theological Seminary"
-    description "YAF has obtained exclusive footage of a mandatory 'anti-racism' training for all students and faculty at Princeton Theological Seminary, through our Campus Bias Tip Line. Students are segregated by race for part of the training in order to avoid &#34;harm&#34; to students of color.&#10;&#10;Read the full story and materials here: https://www.yaf.org/news/video-princeton-theological-seminary-separates-students-by-race-to-create-safety-in-anti-racism-training/&#10;&#10;Report campus bias here: https://www.yaf.org/tips"
-    channeltitle "Young America's Foundation"
-    channelid "UC4-AGCUwX7C-D4BsBook9fQ"
+    date "2021-11-03T14:59:46Z"
+    title "Fox News Host Panics When  Narrative Blows Up in Her Face"
+    description "Get early access to videos by supporting us on Patreon, YouTube or PayPal! Sign up here: http://www.patreon.com/humanistreport or here: http://www.humanistreport.com/support.html or here: https://www.youtube.com/channel/UC7Q4rvzJDbHeBHYk5rnvZeA/join&#10;&#10;************************&#10;Visit Our Website: http://www.humanistreport.com/&#10;Follow Us on Twitter: http://www.twitter.com/HumanistReport&#10;Like Us on Facebook: http://www.facebook.com/humanistreport&#10;Follow Mike on Instagram: https://www.instagram.com/mike.figueredo/&#10;Follow Mike on Twitch: https://www.twitch.tv/humanistreport&#10;Audio Available on iTunes, Spotify, SoundCloud, and iHeartRadio&#10;&#10;************************&#10;The Humanist Report (THR) is a progressive political podcast that discusses and analyzes current news events and pressing political issues. Our analyses are guided by humanism and political progressivism. Each news story we cover is supplemented with thought-provoking, fact-based commentary that aims for the highest level of objectivity.&#10;&#10;#HumanistReport #THR #MikeFigueredo"
+    channeltitle "The Humanist Report"
+    channelid "UC7Q4rvzJDbHeBHYk5rnvZeA"
     favcount 0
-    viewcount 21168
-    likecount 704
-    commentcount 456
-    duration "PT4M51S"
-    indegree 2
-    sentiment 1
-    cluster 5
+    viewcount 28415
+    likecount 3071
+    commentcount 1020
+    duration "PT9M11S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice|Socialist"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 361
+    id 330
+    name "361"
     label "i2SGgL7XES0"
     step 0
     date "2021-10-08T16:22:13Z"
@@ -6308,12 +9920,23 @@ graph
     commentcount 339
     duration "PT2M16S"
     indegree 1
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 362
+    id 331
+    name "362"
     label "4LfdNjvc_yc"
     step 0
     date "2021-11-03T15:26:35Z"
@@ -6327,12 +9950,23 @@ graph
     commentcount 16
     duration "PT54M59S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 363
+    id 332
+    name "363"
     label "MHqveDwORUo"
     step 0
     date "2021-12-22T19:46:10Z"
@@ -6346,12 +9980,23 @@ graph
     commentcount 57
     duration "PT3M"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|Libertarian|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 364
+    id 333
+    name "364"
     label "avrWrwYk0KA"
     step 0
     date "2022-03-10T20:29:48Z"
@@ -6365,31 +10010,53 @@ graph
     commentcount 170
     duration "PT3M12S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 366
-    label "vgWxEYIIAXQ"
+    id 334
+    name "365"
+    label "abGtk-FN0wI"
     step 0
-    date "2021-05-23T03:43:40Z"
-    title "Dr. Carol Swain reacts to Parents revolting against critical race theory in Palm Beach County"
-    description "On today's episode of 'Justice with Judge Jeanine', Jeanine talks about Trump&#8217;s America vs. Biden&#8217;s America; plus, the NYC Pride parade has banned police from participating until 2025.&#10;&#10;Instagram: @drcarolmswain&#10;Twitter: @carolmswain&#10;Facebook: @carolmswain&#10;Locals: @carolmswain&#10;&#10;To support Dr. Swain or keep up with her interviews, books, and more, please visit bethepeoplenews.com."
-    channeltitle "Dr. Carol M. Swain: Be the People News"
-    channelid "UCYVXqTwYl3rKlyQIfMlJukg"
+    date "2021-06-11T18:46:44Z"
+    title "HASANABI BASED Take On -Critical Race Theory-"
+    description "Please Subscribe! &#10;&#10;Hasan Twitch : https://www.twitch.tv/hasanabi"
+    channeltitle "PogChamp"
+    channelid "UCMdByOxd6jIk1jhdPQehPSA"
     favcount 0
-    viewcount 3465
-    likecount 316
-    commentcount 0
-    duration "PT2M58S"
-    indegree 1
-    sentiment 1
-    cluster 6
+    viewcount 1860
+    likecount 27
+    commentcount 7
+    duration "PT11M14S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 367
+    id 335
+    name "367"
     label "w2z6ucF2qvw"
     step 0
     date "2021-10-12T03:45:02Z"
@@ -6403,12 +10070,23 @@ graph
     commentcount 135
     duration "PT3M35S"
     indegree 3
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 368
+    id 336
+    name "368"
     label "8BDyEt21cq4"
     step 0
     date "2022-06-05T19:59:24Z"
@@ -6422,12 +10100,23 @@ graph
     commentcount 44
     duration "PT6M46S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|Mainstream News|PartisanRight"
+    leftright "R"
     cluster 3
   ]
   node
   [
-    id 369
+    id 337
+    name "369"
     label "oGfzJJE-gPg"
     step 0
     date "2021-08-07T18:51:51Z"
@@ -6441,12 +10130,23 @@ graph
     commentcount 12
     duration "PT4M40S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 370
+    id 338
+    name "370"
     label "uAw3Eva_F6s"
     step 0
     date "2021-06-18T17:19:49Z"
@@ -6460,12 +10160,23 @@ graph
     commentcount 81
     duration "PT8M47S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 371
+    id 339
+    name "371"
     label "tnZrwVB6yxU"
     step 0
     date "2020-12-07T11:55:34Z"
@@ -6479,31 +10190,53 @@ graph
     commentcount 167
     duration "PT1M59S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 374
-    label "0-D2kk09GPI"
+    id 340
+    name "372"
+    label "J8jL9ooNtY4"
     step 0
-    date "2022-03-25T20:50:23Z"
-    title "Schools BREAK Critical Race Theory Bans | Adam Guillette On Tipping Point"
-    description "Adam Guillette joins OAN's Tipping Point with Kara McKinney to discuss AIM's undercover videos that exposed CRT in Tennessee &#38; Idaho classrooms. &#10;&#10;Follow Accuracy In Media: &#10;&#10;https://www.facebook.com/AccuracyInMedia&#10;https://twitter.com/AccuracyInMedia&#10;https://www.instagram.com/accuracyinmedia/&#10;&#10;Follow Adam Guillette: &#10;&#10;https://twitter.com/adamguillette&#10;https://www.facebook.com/AdamGuillette1&#10;https://www.instagram.com/adam.guillette/"
-    channeltitle "Accuracy in Media"
-    channelid "UCj41LMgg5G085QyTsSgy1TQ"
+    date "2022-05-19T13:41:12Z"
+    title "Are MATH TEXTBOOKS Teaching Kids Critical Race Theory?????"
+    description "SUPPORT more videos like this at http://patreon.com/rebecca&#10;&#10;SUBSCRIBE at http://www.youtube.com/subscription_center?add_user=rkwatson&#10;&#10;+++&#10;&#10;Links + transcript available at https://www.patreon.com/posts/66589643&#10;&#10;+++&#10;&#10;ABOUT: Rebecca Watson is the founder of the Skepchick Network, a collection of sites focused on science and critical thinking. She has written for outlets such as Slate, Popular Science, and the Committee for Skeptical Inquiry. She's also the host of Quiz-o-tron, a rowdy, live quiz show that pits scientists against comedians. Asteroid 153289 Rebeccawatson is named after her (her real name being 153289).&#10;&#10;+++&#10;&#10;MORE: http://www.skepchick.org&#10;FOLLOW: http://www.twitter.com/skepchicks&#10;AND: http://www.twitter.com/rebeccawatson&#10;LIKE: https://www.facebook.com/skepchicks"
+    channeltitle "Rebecca Watson"
+    channelid "UCFJxE0l3cVYU4kHzi4qVEkw"
     favcount 0
-    viewcount 286
-    likecount 18
-    commentcount 2
-    duration "PT12M55S"
+    viewcount 23499
+    likecount 2552
+    commentcount 513
+    duration "PT9M22S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiTheist|SocialJustice"
+    leftright "L"
+    cluster 5
   ]
   node
   [
-    id 375
+    id 341
+    name "375"
     label "DxbzHofmko4"
     step 0
     date "2021-05-04T23:08:40Z"
@@ -6517,12 +10250,23 @@ graph
     commentcount 35
     duration "PT1M24S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 376
+    id 342
+    name "376"
     label "0_GoouKwDM4"
     step 0
     date "2021-07-12T17:47:37Z"
@@ -6536,12 +10280,23 @@ graph
     commentcount -1
     duration "PT3M22S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 377
+    id 343
+    name "377"
     label "pgxrcuydUOU"
     step 0
     date "2021-09-25T18:00:10Z"
@@ -6555,12 +10310,23 @@ graph
     commentcount 1841
     duration "PT19M34S"
     indegree 1
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 378
+    id 344
+    name "378"
     label "aKhrbk8jGnY"
     step 0
     date "2022-07-12T12:33:39Z"
@@ -6574,12 +10340,23 @@ graph
     commentcount 0
     duration "PT49M9S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 379
+    id 345
+    name "379"
     label "eVIbd9cxGKQ"
     step 0
     date "2021-05-12T13:00:16Z"
@@ -6593,31 +10370,53 @@ graph
     commentcount 15
     duration "PT7M56S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 381
-    label "pBPRbGJwUSM"
+    id 346
+    name "380"
+    label "MhbgiMqBRmY"
     step 0
-    date "2021-09-20T06:14:06Z"
-    title "Whats so dangerous about Critical Race Theory?"
-    description "Advance Spokeswoman Jacinta Nampijinpa Price breaks down the concept of Critical Race Theory and why it should have no place in Australian classrooms and universities. &#127462;&#127482;"
-    channeltitle "Advance Australia"
-    channelid "UC19frhUmBTxfHS2RJPaS3Ww"
+    date "2021-07-20T19:15:57Z"
+    title "Rep Alexandria Ocasio-Cortez Addresses Critical Race Theory On Don Lemon Show"
+    description "Rep Alexandria Ocasio-Cortez (D-NY) addressed critical race theory in her interview on CNN's Don Lemon show(07/19/21)&#10;&#10;#AOC #CRT #DonLemon"
+    channeltitle "Emoluments Clause"
+    channelid "UCOQEYWGQzfOWMRiAHQZAuHQ"
     favcount 0
-    viewcount 429
-    likecount -1
-    commentcount -1
-    duration "PT5M17S"
+    viewcount 2110
+    likecount 31
+    commentcount 127
+    duration "PT6M32S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 382
+    id 347
+    name "382"
     label "zYE1RiI8wwk"
     step 0
     date "2022-02-24T06:37:49Z"
@@ -6631,12 +10430,23 @@ graph
     commentcount 9
     duration "PT30M12S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 383
+    id 348
+    name "383"
     label "GOa5q2We0-E"
     step 0
     date "2022-07-06T08:30:03Z"
@@ -6650,12 +10460,23 @@ graph
     commentcount 14
     duration "PT15M9S"
     indegree 1
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 384
+    id 349
+    name "384"
     label "fqZiPbzU2wM"
     step 0
     date "2021-12-17T19:57:32Z"
@@ -6669,12 +10490,23 @@ graph
     commentcount 82
     duration "PT1M2S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|Politician"
+    leftright "R"
+    cluster 9
   ]
   node
   [
-    id 385
+    id 350
+    name "385"
     label "TQiNNXFUikA"
     step 0
     date "2022-07-10T01:56:47Z"
@@ -6688,31 +10520,53 @@ graph
     commentcount 0
     duration "PT2M26S"
     indegree 4
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 387
-    label "SydryOGpYXo"
+    id 351
+    name "386"
+    label "gtTaqYLOe68"
     step 0
-    date "2021-12-06T18:06:05Z"
-    title ": Rebecca Kleefisch Says Critical Race Theory Being Taught In Schools"
-    description "In a video released to social media, former Lt. Gov. Rebecca Kleefisch (R-WI) and candidate for governor claims critical race theory is being taught to children in public schools.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
-    channeltitle "Forbes Breaking News"
-    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
+    date "2022-03-22T19:32:57Z"
+    title "Ted Cruz grills Ketanji Brown Jackson on Critical Race Theory"
+    description "Sen. Ted Cruz asked President Joe Biden's Supreme Court nominee Judge Ketanji Brown Jackson about Critical Race Theory at the Senate confirmation hearing Tuesday.&#10;&#10;Watch Newsmax on Directv 349, Xfinity 1115, Dish 216, Spectrum (see channels), Cox, Optimum, U-Verse 1120, FiOS 615, Suddenlink, CenturyLink 1209, Mediacom 277, Fubo, Sling, WOW!, Armstrong, or the Newsmax smartphone APP. &#10;&#10;Get the latest news, headlines and analysis at http://newsmax.com&#10;Find your Newsmax cable/streaming provider here: https://newsmaxtv.com/findus&#10;&#10;Like Newsmax on Facebook: http://nws.mx/FB&#10;Follow Newsmax on Twitter: http://nws.mx/twitter&#10;Follow Newsmax on Instagram: http://nws.mx/IG&#10;Follow Newsmax on GETTR: https://gettr.com/user/newsmax&#10;Get a Laugh with Newsmax's Cartoon of the Day: http://nws.mx/cartoons&#10;Subscribe to Newsmax podcasts for free at http://newsmaxtv.com/podcasts&#10;Shop Newsmax Logo Gear at http://nws.mx/shop&#10;&#10;#Newsmax"
+    channeltitle "Newsmax TV"
+    channelid "UCx6h-dWzJ5NpAlja1YsApdg"
     favcount 0
-    viewcount 5281
-    likecount 474
-    commentcount 116
-    duration "PT2M"
-    indegree 1
-    sentiment 1
-    cluster 1
+    viewcount 18927
+    likecount 969
+    commentcount 387
+    duration "PT7M"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News|PartisanRight"
+    leftright "R"
+    cluster 10
   ]
   node
   [
-    id 388
+    id 352
+    name "388"
     label "Np7WIfe-EMw"
     step 0
     date "2021-06-29T15:59:25Z"
@@ -6726,12 +10580,23 @@ graph
     commentcount 11
     duration "PT4M"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 389
+    id 353
+    name "389"
     label "dvutAgHtrF4"
     step 0
     date "2021-06-07T17:45:01Z"
@@ -6745,12 +10610,23 @@ graph
     commentcount 18017
     duration "PT5M33S"
     indegree 14
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|MissingLinkMedia|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 390
+    id 354
+    name "390"
     label "pgal1XW3B6M"
     step 0
     date "2022-01-06T14:17:21Z"
@@ -6764,12 +10640,23 @@ graph
     commentcount 85
     duration "PT14M2S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Libertarian|PartisanRight"
+    leftright "R"
     cluster 5
   ]
   node
   [
-    id 391
+    id 355
+    name "391"
     label "vbVKJ83uLCE"
     step 0
     date "2021-07-20T01:50:14Z"
@@ -6783,12 +10670,23 @@ graph
     commentcount 3
     duration "PT15M29S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 392
+    id 356
+    name "392"
     label "okPnq_z5g0I"
     step 0
     date "2021-12-26T20:08:18Z"
@@ -6802,12 +10700,23 @@ graph
     commentcount 8
     duration "PT10M19S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 393
+    id 357
+    name "393"
     label "vu26EKt9PaY"
     step 0
     date "2021-07-23T00:27:52Z"
@@ -6821,12 +10730,23 @@ graph
     commentcount 198
     duration "PT4M57S"
     indegree 2
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 394
+    id 358
+    name "394"
     label "FQRcy3ZjDj8"
     step 0
     date "2022-01-29T01:00:10Z"
@@ -6840,12 +10760,23 @@ graph
     commentcount 115
     duration "PT4M37S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 3
   ]
   node
   [
-    id 395
+    id 359
+    name "395"
     label "tdFi7AdW4S0"
     step 0
     date "2020-10-16T15:08:59Z"
@@ -6859,12 +10790,23 @@ graph
     commentcount 1
     duration "PT16M37S"
     indegree 1
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 396
+    id 360
+    name "396"
     label "5yWybzFR1jw"
     step 0
     date "2021-08-09T13:00:10Z"
@@ -6878,12 +10820,23 @@ graph
     commentcount 9
     duration "PT28M31S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 397
+    id 361
+    name "397"
     label "-v9MWRRt5OY"
     step 0
     date "2022-07-08T23:15:54Z"
@@ -6897,31 +10850,53 @@ graph
     commentcount 2
     duration "PT2M46S"
     indegree 4
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
     cluster 8
   ]
   node
   [
-    id 399
-    label "ImRBvDMzJZE"
+    id 362
+    name "398"
+    label "Rsi6cOFF2S4"
     step 0
-    date "2022-07-02T12:59:56Z"
-    title "Critical Race Theory is radical indoctrination, and its dangerous #shorts"
-    description "#onlyatYAF"
-    channeltitle "Young America's Foundation"
-    channelid "UC4-AGCUwX7C-D4BsBook9fQ"
+    date "2021-06-11T23:35:17Z"
+    title "Florida BANS Critical Race Theory"
+    description "Florida man strikes again.&#10;&#10;SUPPORT THE CHANNEL&#10;&#10145;&#65039;YouTube Memberships: https://bit.ly/39yRdh8&#10;&#10145;&#65039;PayPal: https://www.paypal.me/Memology101&#10;&#10145;&#65039;Patreon: https://www.patreon.com/AntonioChavez&#10;&#10;SOURCES&#10;&#10145;&#65039;https://thepostmillennial.com/breaking-florida-officially-bans-critical-race-theory-from-its-classrooms&#10;&#10145;&#65039;https://thepostmillennial.com/watch-gov-desantis-vows-to-ban-critical-race-theory-any-departure-from-accurate-history-in-floridas-schools&#10;&#10;CREDITS&#10;&#10145;&#65039;Background visuals: https://www.youtube.com/watch?v=xmBLa__SMbo&#10;&#10145;&#65039;Background music: https://www.youtube.com/watch?v=HXbE2aJRQFk&#10;&#10145;&#65039;Thumbnail: https://twitter.com/DeSantisandCo/status/1401546923891335173&#10;&#10;FOLLOW ME&#10;&#10145;&#65039;Main channel - Memology 101: https://www.youtube.com/channel/UC1X9HTMhyL4UpmjgkrN41oQ  &#10;&#10145;&#65039;RoxyTube: https://www.roxytube.com/@Memology_101&#10;&#10145;&#65039;Minds: https://www.minds.com/Memology_101/ &#10;&#10145;&#65039;Parler: https://parler.com/profile/M101News&#10;&#10145;&#65039;Twitter: https://twitter.com/NewsM101&#10;&#10145;&#65039;SubReddit: https://bit.ly/32Y9mm9&#10;&#10145;&#65039;Bitchute: https://bit.ly/2TK6sNu&#10;&#10145;&#65039;Odysee: https://odysee.com/@Memology101:e0&#10;&#10145;&#65039;Discord: https://discord.gg/UPh5F4E&#10;&#10;OTHER CHANNELS&#10;&#10145;&#65039;Memology 102:  https://www.youtube.com/channel/UCBfB4NCL1v1Wx_tMD6hpLkw&#10;&#10145;&#65039;DSP Tries It - Memology 101:  https://www.youtube.com/channel/UCTGXPDKjEKJcM9eCVFq5LRw  &#10;&#10145;&#65039;M101 News: https://www.youtube.com/channel/UC9M0fKN795Qje1I5E5w7xZw   &#10;&#10;ADDITIONAL CREDITS&#10;&#10145;&#65039;Memology 101 Netflix Intro:&#10;https://www.youtube.com/user/pleasesubscribedad&#10;&#10;Trends: #FLORIDA"
+    channeltitle "Memology 101"
+    channelid "UC1X9HTMhyL4UpmjgkrN41oQ"
     favcount 0
-    viewcount 30149
-    likecount 3452
-    commentcount 113
-    duration "PT52S"
+    viewcount 189207
+    likecount 25135
+    commentcount 3941
+    duration "PT3M46S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "R"
+    cluster 10
   ]
   node
   [
-    id 400
+    id 363
+    name "400"
     label "pcQYBaCxQqQ"
     step 0
     date "2022-07-07T18:04:34Z"
@@ -6935,12 +10910,23 @@ graph
     commentcount 13
     duration "PT10M59S"
     indegree 4
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 401
+    id 364
+    name "401"
     label "QjmONANA4Bc"
     step 0
     date "2022-05-20T17:56:36Z"
@@ -6954,12 +10940,23 @@ graph
     commentcount 15
     duration "PT42M18S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 402
+    id 365
+    name "402"
     label "GMEMuXUQdtk"
     step 0
     date "2021-07-07T01:50:07Z"
@@ -6973,12 +10970,23 @@ graph
     commentcount 2661
     duration "PT2M45S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "R"
+    cluster 3
   ]
   node
   [
-    id 403
+    id 366
+    name "403"
     label "yyCdnMLXPPI"
     step 0
     date "2022-03-07T14:45:31Z"
@@ -6992,12 +11000,23 @@ graph
     commentcount 167
     duration "PT1M17S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 404
+    id 367
+    name "404"
     label "iK2GtqQ7vlU"
     step 0
     date "2022-02-04T12:00:15Z"
@@ -7011,12 +11030,23 @@ graph
     commentcount 277
     duration "PT1M31S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 405
+    id 368
+    name "405"
     label "VdkiwmB86Cc"
     step 0
     date "2021-07-15T00:45:00Z"
@@ -7030,12 +11060,23 @@ graph
     commentcount 71
     duration "PT11M59S"
     indegree 3
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 7
   ]
   node
   [
-    id 406
+    id 369
+    name "406"
     label "XR6fGAlIlKI"
     step 0
     date "2021-06-11T20:14:17Z"
@@ -7049,12 +11090,23 @@ graph
     commentcount 6
     duration "PT4M5S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 407
+    id 370
+    name "407"
     label "VoOHrTdDFe0"
     step 0
     date "2020-10-07T18:45:01Z"
@@ -7068,31 +11120,53 @@ graph
     commentcount 292
     duration "PT4M47S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 410
-    label "NY7BZ6NDtzY"
+    id 371
+    name "408"
+    label "UbRcQ8sFdio"
     step 0
-    date "2021-05-07T19:47:54Z"
-    title "Critical Race Theory With Scott McKay"
-    description "Should we allow the Federal and State Governments to insert Critical Race Theory into our Louisiana Schools? Will we have a real choice?&#10;&#10;In this podcast interview with Scott McKay, writer at The American Spectator and Publisher at The Hayride, he helps us become more informed of what the background of CRT is and what exactly it is.&#10;&#10;Scott also gives us some insight on what is occurring in the current Louisiana Legislative Session involving CRT."
-    channeltitle "The Livingston Parish Thread"
-    channelid "UCDTf7ezba9dejye87qYSTmQ"
+    date "2021-08-21T16:00:26Z"
+    title "What is CRITICAL RACE THEORY?"
+    description "I sat down for an interview with Dr. Carol Swain and Dr. Christopher Schorr to talk about Critical Race Theory and their brand new book, Black Eye for America: How Critical Race Theory Is Burning Down the House. &#10;Purchase their book here: https://bethepeoplenonprofit.com/black-eye-for-america/&#10;&#10;Part 2: How Patriots Will CRUSH Critical Race Theory - https://youtu.be/mVTO9yWX2M4&#10;&#10;Join our ARMY!!&#10;Our Virtual gathering of New Conservative Patriots on September 3rd and 4th needs YOU!&#10;Register today at https://conferences.turleytalks.com/patriot-live50017283"
+    channeltitle "Dr. Steve Turley"
+    channelid "UCCsiAKRKcgzA_372WbXNBaw"
     favcount 0
-    viewcount 601
-    likecount 22
-    commentcount 6
-    duration "PT1H37M46S"
+    viewcount 38896
+    likecount 4365
+    commentcount 673
+    duration "PT17M33S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 411
+    id 372
+    name "411"
     label "7L6owUSiGRc"
     step 0
     date "2021-05-15T16:50:23Z"
@@ -7106,12 +11180,23 @@ graph
     commentcount 1769
     duration "PT12M16S"
     indegree 6
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 1
   ]
   node
   [
-    id 412
+    id 373
+    name "412"
     label "5VSpDbb86hk"
     step 0
     date "2022-07-09T22:22:43Z"
@@ -7125,12 +11210,23 @@ graph
     commentcount 0
     duration "PT3M36S"
     indegree 7
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 413
+    id 374
+    name "413"
     label "rVcR9z0gicA"
     step 0
     date "2022-03-09T19:07:54Z"
@@ -7144,12 +11240,23 @@ graph
     commentcount 2
     duration "PT4M33S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 414
+    id 375
+    name "414"
     label "dtzeLBEhxqI"
     step 0
     date "2021-06-17T17:43:27Z"
@@ -7163,12 +11270,23 @@ graph
     commentcount 14
     duration "PT5M13S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 415
+    id 376
+    name "415"
     label "dI8zGUTr9jM"
     step 0
     date "2021-02-25T03:00:15Z"
@@ -7182,12 +11300,23 @@ graph
     commentcount 18
     duration "PT1H4M48S"
     indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Conspiracy|PartisanRight|ReligiousConservative"
+    leftright "R"
     cluster 5
   ]
   node
   [
-    id 416
+    id 377
+    name "416"
     label "JLGXKArX9gU"
     step 0
     date "2022-07-06T14:15:01Z"
@@ -7201,31 +11330,53 @@ graph
     commentcount 11
     duration "PT10M44S"
     indegree 8
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 418
-    label "uo5Tn1rN5u8"
+    id 378
+    name "417"
+    label "GD2QnENW3C8"
     step 0
-    date "2021-06-24T18:30:42Z"
-    title "The Critical Race Theory B**ch Fight"
-    description "Full Podcast + Links: https://www.lotuseaters.com/the-podcast-of-the-lotus-eaters-161-24-06-21&#10;&#10;Exclusive video/written content for as little as &#163;5 a month: https://www.lotuseaters.com/register&#10;&#10;Subscribe to our other channel - The Lotus Eaters: &#10;https://www.youtube.com/channel/UCnw5I-wliudW8YO1vr5O4IQ&#10;&#10;YouTube - Podcast of the Lotus Eaters: https://www.youtube.com/channel/UC7edjYPNhTm5LYJMT7UMt0Q&#10;YouTube - Other videos: https://www.youtube.com/channel/UCnw5I-wliudW8YO1vr5O4IQ&#10;BitChute: https://www.bitchute.com/channel/lotuseaters_com/&#10;Odysee - Podcasts: https://odysee.com/@lotuseaters_com:1&#10;Odysee - Other Videos: https://odysee.com/@lotuseatermedia:9&#10;Rumble: https://rumble.com/c/c-340087&#10;&#10;Audio:&#10;&#10;Sound Cloud: https://soundcloud.com/lotuseaters_com&#10;Spotify: https://open.spotify.com/show/3bXokLwz40Wt5iQjDClghI&#10;Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg5NjIxMzU3NS9zb3VuZHMucnNz?sa=X&#38;ved=0CAIQ9sEGahcKEwjIxrePtdDtAhUAAAAAHQAAAAAQFA&#10;Apple Podcasts: https://podcasts.apple.com/gb/podcast/podcast-of-the-lotus-eaters/id1544753433&#10;&#10;Live:&#10;&#10;Lotuseaters.com: https://www.lotuseaters.com/category/podcast&#10;DLive: https://dlive.tv/lotuseaters_com&#10;Twitch: https://www.twitch.tv/lotuseaters_com&#10;Facebook: https://www.facebook.com/lotuseatersdotcom&#10;VK: https://vk.com/lotuseaters_com&#10;&#10;Other socials:&#10;&#10;Parler: https://parler.com/profile/lotuseatersdotcom/posts&#10;Twitter: https://twitter.com/lotuseaters_com&#10;Gab: https://gab.com/lotuseaters_com&#10;Minds: https://www.minds.com/lotuseaters_com/&#10;Facebook: https://www.facebook.com/lotuseatersdotcom&#10;VK: https://vk.com/lotuseaters_com&#10;Instagram: https://www.instagram.com/lotuseaters_com/&#10;Ruqqus: https://ruqqus.com/+lotuseaters_com&#10;Reddit: https://www.reddit.com/r/Lotuseaters_com&#10;___________________________________________________________"
+    date "2021-06-15T17:00:05Z"
+    title "Critical Race Theory is not a Conspiracy Theory"
+    description "Full Podcast + Links: https://www.lotuseaters.com/the-podcast-of-the-lotus-eaters-154-15-06-21&#10;&#10;Exclusive video/written content for as little as &#163;5 a month: https://www.lotuseaters.com/register&#10;&#10;Subscribe to our other channel - The Lotus Eaters: &#10;https://www.youtube.com/channel/UCnw5I-wliudW8YO1vr5O4IQ&#10;&#10;YouTube - Podcast of the Lotus Eaters: https://www.youtube.com/channel/UC7edjYPNhTm5LYJMT7UMt0Q&#10;YouTube - Other videos: https://www.youtube.com/channel/UCnw5I-wliudW8YO1vr5O4IQ&#10;BitChute: https://www.bitchute.com/channel/lotuseaters_com/&#10;Odysee - Podcasts: https://odysee.com/@lotuseaters_com:1&#10;Odysee - Other Videos: https://odysee.com/@lotuseatermedia:9&#10;Rumble: https://rumble.com/c/c-340087&#10;&#10;Audio:&#10;&#10;Sound Cloud: https://soundcloud.com/lotuseaters_com&#10;Spotify: https://open.spotify.com/show/3bXokLwz40Wt5iQjDClghI&#10;Google Podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg5NjIxMzU3NS9zb3VuZHMucnNz?sa=X&#38;ved=0CAIQ9sEGahcKEwjIxrePtdDtAhUAAAAAHQAAAAAQFA&#10;Apple Podcasts: https://podcasts.apple.com/gb/podcast/podcast-of-the-lotus-eaters/id1544753433&#10;&#10;Live:&#10;&#10;Lotuseaters.com: https://www.lotuseaters.com/category/podcast&#10;DLive: https://dlive.tv/lotuseaters_com&#10;Twitch: https://www.twitch.tv/lotuseaters_com&#10;Facebook: https://www.facebook.com/lotuseatersdotcom&#10;VK: https://vk.com/lotuseaters_com&#10;&#10;Other socials:&#10;&#10;Parler: https://parler.com/profile/lotuseatersdotcom/posts&#10;Twitter: https://twitter.com/lotuseaters_com&#10;Gab: https://gab.com/lotuseaters_com&#10;Minds: https://www.minds.com/lotuseaters_com/&#10;Facebook: https://www.facebook.com/lotuseatersdotcom&#10;VK: https://vk.com/lotuseaters_com&#10;Instagram: https://www.instagram.com/lotuseaters_com/&#10;Ruqqus: https://ruqqus.com/+lotuseaters_com&#10;Reddit: https://www.reddit.com/r/Lotuseaters_com&#10;___________________________________________________________"
     channeltitle "The Podcast of the Lotus Eaters"
     channelid "UC7edjYPNhTm5LYJMT7UMt0Q"
     favcount 0
-    viewcount 89246
-    likecount 7426
-    commentcount 1037
-    duration "PT17M41S"
+    viewcount 33245
+    likecount 3537
+    commentcount 576
+    duration "PT12M53S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 9
   ]
   node
   [
-    id 419
+    id 379
+    name "419"
     label "iA1IDaqt7po"
     step 0
     date "2022-06-12T01:45:59Z"
@@ -7239,12 +11390,23 @@ graph
     commentcount 144
     duration "PT11M51S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 420
+    id 380
+    name "420"
     label "QI6MN4qI9-4"
     step 0
     date "2021-07-19T19:47:37Z"
@@ -7258,12 +11420,23 @@ graph
     commentcount 2332
     duration "PT4M11S"
     indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
     cluster 3
   ]
   node
   [
-    id 421
+    id 381
+    name "421"
     label "xRChTBoRD1E"
     step 0
     date "2021-06-05T21:07:30Z"
@@ -7277,12 +11450,23 @@ graph
     commentcount 1075
     duration "PT11M9S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 422
+    id 382
+    name "422"
     label "poet-IrBaZs"
     step 0
     date "2021-12-08T21:11:34Z"
@@ -7296,31 +11480,53 @@ graph
     commentcount 99
     duration "PT5M51S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 424
-    label "P56rUszBPKs"
+    id 383
+    name "423"
+    label "3S4STblnBb0"
     step 0
-    date "2021-06-01T23:23:23Z"
-    title "Father/Daughter Destroy Critical Race Theory"
-    description "Father and daughter destroy Critical Race Theory.&#10;&#10;&#8220;How we treat people is based on who they are and not what color they are &#8230; Yeah, you can make friends no matter what color they are.  So we need to stop CRT, period. Point blank.&#8221;"
-    channeltitle "Mr Producer Media"
-    channelid "UCV1ffUbyWrX1_fR4g22kgxQ"
+    date "2020-08-26T22:47:16Z"
+    title "Update  Call to Action (Critical Race Theory at Sandia National Labs)"
+    description "Thanks for all the support. Please contact me and/or these following contacts to report EVERY instance of Critical Race Theory being pushed in our labs. We have to get it out, root &#38; stem. &#10;Name Names, Dates of training's, and any materials you have received or can find at the labs. &#10;You can remain anonymous or stand by my side. I WILL NOT give out your information. &#10;Thank you fellow Sandians. &#10;&#10;Here are some contacts:&#10;1.&#160;&#160;&#160;White House: (202) 456-1111&#10;Contact Page:&#160;https://www.whitehouse.gov/contact/&#10;2.&#160;&#160;&#160;Secretary of Energy:&#160;(202)-586-5000The.Secretary@hq.doe.gov@SecBrouillette&#10;Contact Page:&#160;https://www.energy.gov/contact-us&#10;3.&#160;&#160;&#160;Office of Inspector General Hotline:&#160;(800)541-1625Email:&#160;ighotline@hq.doe.gov&#10;Contact Page:&#160;https://www.energy.gov/ig/ig-hotline&#10;4.&#160;&#160;&#160;National Nuclear Security Administration (NNSA):&#160;202-586-5000&#10;Contact Page:&#160;https://www.energy.gov/nnsa/nnsa-contact-us&#10;5.&#160;&#160;&#160;Senator Josh Hawley: (202) 224-6154&#10;info@joshHawley"
+    channeltitle "Data Driven Conclusions"
+    channelid "UCWjvTQVcjhyEKVyb4zqOmxQ"
     favcount 0
-    viewcount 43207
-    likecount 2628
-    commentcount 419
-    duration "PT59S"
+    viewcount 11356
+    likecount 793
+    commentcount 118
+    duration "PT8M16S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 425
+    id 384
+    name "425"
     label "AGSwj2tqMSg"
     step 0
     date "2021-10-05T15:09:34Z"
@@ -7334,12 +11540,23 @@ graph
     commentcount -1
     duration "PT1H2M48S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 426
+    id 385
+    name "426"
     label "cO0tyOrg0QU"
     step 0
     date "2021-10-28T11:30:22Z"
@@ -7353,31 +11570,53 @@ graph
     commentcount 388
     duration "PT8M40S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 428
-    label "doGrFeKzhPM"
+    id 386
+    name "427"
+    label "0nKJ5O7RQX8"
     step 0
-    date "2021-04-17T09:33:20Z"
-    title "Why Critical Race Theory is Dangerous (with Monique Duson)"
-    description "Monique spent 2 decades advocating for Critical Race Theory (CRT), but through a series of events began to see the contradictions of CRT with the historic Christian worldview. In this conversation, I talk with Monique about CRT and it's issues.&#10;&#10;Center for Biblical Unity: https://www.centerforbiblicalunity.com/&#10;&#10;Like Our Videos?      &#10;         &#10;Be sure to subscribe! It&#8217;s free!       &#10;&#10;Have any thoughts? Let us know below in the comments! &#10;&#10;-------------------------------- GIVING --------------------------------&#10;&#10;Please consider becoming a Patron! I have a part-time job, in addition to being a full-time student. I would love to be able to quit my job so that I could put a lot more time into Adherent Apologetics, but I need your support! You can support for as little as a dollar a month, that&#8217;s like three pennies a day.&#10;&#10;Patreon (Thanks!): https://www.patreon.com/AdherentApologetics&#10;&#10;PayPal (Thanks!): https://www.paypal.me/adherentaplogetics&#10;&#10;Sponsors: https://adherentapologetics.com/spons...&#10;&#10;My Top Books (Affiliate Links): https://adherentapologetics.com/our-l...&#10;&#10;0:00 Intro&#10;1:45 Monique's Interest in CRT&#10;3:15 What is CRT?&#10;5:30 Why is CRT Prevalent Today?&#10;7:55 Why Should We Care?&#10;10:50 Critical Theory vs Racism&#10;12:15 The Oppressor and Oppressed &#10;15:55 CRT in Everyday Life&#10;17:55 CRT's Impact on Christianity &#10;19:30 How Can Christians Respond to CRT?&#10;23:00 The Way Forward for Christians&#10;25:15 CRT Today&#10;27:35 CRT, Corporate Sin, and the Bible&#10;29:10 Conclusion&#10;&#10;&#10;--------------------- YOUTH APOLOGETICS EMPIRE  -------------------&#10;&#10;Apologetics for All: http://bit.ly/2L2SXbi&#10;&#10;Kerusso Apologetics: https://bit.ly/3gM8R5B&#10;&#10;Invoking Theism: http://bit.ly/2LZWwzr&#10;&#10;JMDApologetics: http://bit.ly/34ZeAjv&#10;&#10;Think Christian Theism (Blog): https://bit.ly/3oQejHo&#10;&#10;----------------------------- SOCIAL MEDIA  ---------------------------&#10;&#10;Blog: https://adherentapologetics.com/&#10;&#10;Twitter: https://twitter.com/AApologetics&#10;&#10;Facebook: https://www.facebook.com/adherentapol...&#10;&#10;Instagram: https://www.instagram.com/adherentapo...&#10;&#10;TikTok: https://vm.tiktok.com/E6GCgd/&#10;&#10;Apologist March Madness: https://twitter.com/ApologistPolls&#10;&#10;-------------------------------- PODCAST -------------------------------&#10;&#10;I now have a podcast! Be sure to give it a follow and to stay up to date on all of my content.&#10;&#10;The Adherent Apologetics Podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast...&#10;&#10;The Adherent Apologetics Podcast on Spotify: https://open.spotify.com/show/6e2G94L...&#10;&#10;The Adherent Apologetics Podcast on Google Play: https://playmusic.app.goo.gl/?ibi=com...&#10;&#10;-------------------------------- PARTNERS -------------------------------&#10;&#10;Sacrize Clothing (Use &#8220;APOLOGETICS&#8221; for 15% off): http://sacrize.com?aff=17&#10;&#10;-------------------------------- CONTACT -------------------------------&#10;&#10;If you have interview suggestions, want to say hello, or anything else, you can contact me at adherentapologetics@gmail.com"
-    channeltitle "Adherent Apologetics"
-    channelid "UCO8jj_CQwrRRwwwXBndo6nQ"
+    date "2021-03-26T19:00:00Z"
+    title "Class action complaint against Critical Race Theory (from Livestream #72)"
+    description "Class action complaint against Critical Race Theory&#10;&#10;References:&#10;https://static1.squarespace.com/static/5ac03e14ec4eb74c10016931/t/5fa02b0c4ddbcf7db99555e7/1604332300428/CNRA+class+action+complaint.pdf&#10;&#10;Clip taken from DarkHorse Podcast Livestream #72 (originally streamed live on March 20, 2021): https://youtu.be/K2yOM2MlOxY&#10;&#10;Q&#38;A: https://youtu.be/3uupK7DpXJ4&#10;&#10;What is this a clip from?&#10;In this 72nd in a series of live discussions with Bret Weinstein and Heather Heying (both PhDs in Biology), discuss the state of the world though an evolutionary lens. Find more from us on Bret&#8217;s website (https://bretweinstein.net) or Heather&#8217;s website (http://heatherheying.com). &#10;&#10;A Hunter-Gatherer&#8217;s Guide to the 21st Century, is now available for pre-sale at amazon. Publication date: 9-14-21: &#10;https://www.amazon.com/dp/0593086880/ref=cm_sw_r_tw_dp_5BDTABYFKRJKZBT5GSQA&#10;&#10;DarkHorse merchandise now available at: http://store.darkhorsepodcast.org/&#10;&#10;Become a member of the DarkHorse Livestreams, and get access to an additional Q&#38;A livestream every month. Join at Heather's Patreon.&#10;https://www.patreon.com/heatherheying&#10;&#10;Like this content? Subscribe to the channel, like this video, follow us on twitter (@BretWeinstein, @HeatherEHeying), and consider helping us out by contributing to either of our Patreons or Bret&#8217;s Paypal.&#10;https://www.patreon.com/bretweinstein&#10;&#10;Theme Music: Thank you to Martin Molin of Wintergatan for providing us the rights to use their excellent music."
+    channeltitle "DarkHorse Podcast Clips"
+    channelid "UCAWCKUrmvK5F_ynBY_CMlIA"
     favcount 0
-    viewcount 192
-    likecount 19
-    commentcount 6
-    duration "PT30M54S"
-    indegree 0
-    sentiment 1
-    cluster 5
+    viewcount 63172
+    likecount 2050
+    commentcount 694
+    duration "PT17M46S"
+    indegree 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 8
   ]
   node
   [
-    id 429
+    id 387
+    name "429"
     label "5uQPRWUFJqk"
     step 0
     date "2022-03-24T01:50:45Z"
@@ -7391,12 +11630,23 @@ graph
     commentcount -1
     duration "PT29M56S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 430
+    id 388
+    name "430"
     label "6yarTNrv2L0"
     step 0
     date "2022-07-09T20:37:43Z"
@@ -7410,12 +11660,23 @@ graph
     commentcount 1
     duration "PT16S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 431
+    id 389
+    name "431"
     label "fvrjceL7ePE"
     step 0
     date "2021-07-05T19:51:34Z"
@@ -7429,12 +11690,23 @@ graph
     commentcount 279
     duration "PT26M38S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 9
   ]
   node
   [
-    id 432
+    id 390
+    name "432"
     label "bvrCFo81qS0"
     step 0
     date "2022-03-24T14:50:31Z"
@@ -7448,12 +11720,23 @@ graph
     commentcount 17
     duration "PT4M16S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 433
+    id 391
+    name "433"
     label "4Vg6lb42yKo"
     step 0
     date "2021-08-31T13:16:04Z"
@@ -7467,12 +11750,23 @@ graph
     commentcount 1561
     duration "PT7M31S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 434
+    id 392
+    name "434"
     label "6XiOZk58QpQ"
     step 0
     date "2021-12-16T14:07:37Z"
@@ -7486,12 +11780,23 @@ graph
     commentcount 9615
     duration "PT8M36S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 435
+    id 393
+    name "435"
     label "kHbmUiWHYGA"
     step 0
     date "2022-07-05T21:03:20Z"
@@ -7505,12 +11810,23 @@ graph
     commentcount 88
     duration "PT9M6S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 436
+    id 394
+    name "436"
     label "tu8sfuP2Obs"
     step 0
     date "2022-01-12T17:31:06Z"
@@ -7524,12 +11840,23 @@ graph
     commentcount 18
     duration "PT54M24S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 3
   ]
   node
   [
-    id 437
+    id 395
+    name "437"
     label "NS0Q5lrpT1M"
     step 0
     date "2021-10-13T19:21:45Z"
@@ -7543,12 +11870,23 @@ graph
     commentcount 4
     duration "PT3M25S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 438
+    id 396
+    name "438"
     label "xwUazXBq5AQ"
     step 0
     date "2022-04-26T19:11:41Z"
@@ -7562,12 +11900,23 @@ graph
     commentcount 6
     duration "PT6M3S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 439
+    id 397
+    name "439"
     label "cIXDg15JOck"
     step 0
     date "2021-06-21T16:00:10Z"
@@ -7581,12 +11930,23 @@ graph
     commentcount 220
     duration "PT10M9S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 440
+    id 398
+    name "440"
     label "-rz0n4yJYXg"
     step 0
     date "2021-05-27T03:15:50Z"
@@ -7600,12 +11960,23 @@ graph
     commentcount 19
     duration "PT4M53S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 441
+    id 399
+    name "441"
     label "zxQm1YRyFTc"
     step 0
     date "2022-07-09T11:37:00Z"
@@ -7619,12 +11990,23 @@ graph
     commentcount 1
     duration "PT26S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 442
+    id 400
+    name "442"
     label "arS8rthaRcA"
     step 0
     date "2021-08-09T02:27:11Z"
@@ -7638,12 +12020,23 @@ graph
     commentcount -1
     duration "PT51M6S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "R"
+    cluster 9
   ]
   node
   [
-    id 443
+    id 401
+    name "443"
     label "E3rggd6yvXc"
     step 0
     date "2021-05-20T01:58:32Z"
@@ -7657,12 +12050,23 @@ graph
     commentcount 7
     duration "PT1H33M25S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
   ]
   node
   [
-    id 444
+    id 402
+    name "444"
     label "3-yApZLSk4g"
     step 0
     date "2021-10-11T18:30:02Z"
@@ -7676,12 +12080,23 @@ graph
     commentcount 14
     duration "PT35M37S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Libertarian"
+    leftright "R"
     cluster 5
   ]
   node
   [
-    id 445
+    id 403
+    name "445"
     label "6SZOjzkxt1c"
     step 0
     date "2022-01-14T13:45:00Z"
@@ -7695,12 +12110,23 @@ graph
     commentcount 2095
     duration "PT5M25S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 6
   ]
   node
   [
-    id 446
+    id 404
+    name "446"
     label "36js0wIiulM"
     step 0
     date "2020-12-05T01:45:01Z"
@@ -7714,69 +12140,113 @@ graph
     commentcount 3009
     duration "PT9M58S"
     indegree 29
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 448
-    label "UornvOLBwIA"
+    id 405
+    name "447"
+    label "U5x4bHxQmRQ"
     step 0
-    date "2021-03-25T09:39:14Z"
-    title "Dr. Carol Swain on Critical Race Theory"
-    description "Real America - Dan W/ Retired Professor of Political Science &#38; Law at Vanderbilt University, Carol Swain (March 23, 21)"
-    channeltitle "Dr. Carol M. Swain: Be the People News"
-    channelid "UCYVXqTwYl3rKlyQIfMlJukg"
+    date "2022-01-07T01:01:03Z"
+    title "James Lindsay demolish Critical Race Theory on Dr. Phil"
+    description "James Lindsay demolish Critical Race Theory on Dr. Phil"
+    channeltitle "America the Great"
+    channelid "UC_jmLfEEEgCwgGKDxSHtljg"
     favcount 0
-    viewcount 11772
-    likecount 457
-    commentcount 67
-    duration "PT5M10S"
-    indegree 2
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 450
-    label "7bMQorO8VGQ"
-    step 0
-    date "2022-01-16T15:22:09Z"
-    title "Fox News host challenges Glenn Youngkin on critical race theory"
-    description "via Fox News"
-    channeltitle "Raw Story Videos"
-    channelid "UCw2xA1U2_gixYN1kpMfS1xg"
-    favcount 0
-    viewcount 3349
-    likecount 12
-    commentcount 10
-    duration "PT4M6S"
+    viewcount 37121
+    likecount 977
+    commentcount 1666
+    duration "PT2M20S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 452
-    label "toEo7Dgv3n0"
+    id 406
+    name "449"
+    label "emRRnattCsk"
     step 0
-    date "2022-07-11T16:49:37Z"
-    title "Ted Shaw on Critical Race Theory CRT"
-    description "Ted Shaw on Critical Race Theory CRT&#10;Biography. Ted Shaw is the Julius L. Chambers Distinguished Professor of Law and the Director of the UNC Center for Civil Rights. Shaw teaches Civil Procedure and Advanced Constitutional Law.&#10;&#10;Lawyer and professor Theodore Michael Shaw was born on November 24, 1954 in New York City to Theodore and Jean Audrey Churchill Shaw. He received his B.A. degree from Wesleyan University in 1976 and his J.D. degree from the Columbia University School of Law in 1979, where he was a Charles Evans Hughes Fellow. Upon graduation, Shaw worked as a trial attorney in the Civil Rights Division of the United States Department of Justice from 1979 until 1982. He then joined the NAACP Legal Defense Fund (LDF) as an assistant counsel and director of the Education Docket in 1982. In 1987, Shaw established LDF's Western Regional Office in Los Angeles, and served as its Western Regional Counsel. In 1990, he left LDF to join the faculty of the University of Michigan Law School, where he taught &#10;constitutional law, civil procedure, and civil rights. In 1993, on a leave of absence from Michigan, he rejoined LDF as associate director-counsel. Shaw was lead counsel in a coalition that represented African American and Latino student-intervenors in the University of Michigan undergraduate affirmative action admissions case, Gratz v. Bollinger. On May 1, 2004, Shaw became the fifth director-counsel and president of LDF after Elaine Jones retired, where he served until 2008. He then joined the law firm of Norton Rose Fulbright, where he is &#8220;Of Counsel.&#8221; Shaw is also professor of professional practice at Columbia Law School and has held rotating chairs at the City University of New York School of Law and Temple University&#8217;s James E. Beasley School of Law. Shaw has testified before Congress and state legislatures on numerous occasions. He has been a frequent guest on television and radio programs, and has published numerous newspaper, magazine and law review articles. He also has traveled and lectured extensively on civil rights and human rights in Europe, South Africa, South America, and Japan. Shaw serves on the Boards of the American Constitution Society, Common Sense, The Equal Rights Trust (London, England), The International Center for&#10;Transitional Justice, The New Press, the Poverty and Race Research Action Council, the Wesleyan University Center for Prison Education, and the Board of Deacons of the Abyssinian Baptist Church in the City of New York. He also serves on the Legal Advisory Network of the European Roma Rights Council, and served on Wesleyan University&#8217;s Board of Trustees for fifteen years. Shaw has received numerous awards, honors, and citations. He was an Aspen Institute Fellow on Law and Society in 1987; a Twenty-first Century Trust Fellow on Global Interdependence in London, England in 1989; and a Salzburg Institute Fellow in 1991. The National Bar Association Young Lawyers Division presented Shaw with the A. Leon Higginbotham, Jr. Memorial Award. He also received the Lawrence A. Wein Prize for Social Justice from Columbia University, and was awarded the Baldwin Medal from the Wesleyan University alumni body. Theodore M. Shaw was interviewed by The History Makers on April 7, 2014."
-    channeltitle "podcastit"
-    channelid "UCs6vq7-ysQLSwGdQdX9hObg"
+    date "2022-07-06T16:52:58Z"
+    title ": White Supremacist Patriot Front Marches Through Boston, Attacks Black Artist"
+    description "Boston officials claim they had no prior knowledge of a march through the city by about 100 members of the white supremacist group Patriot Front on Saturday. Local anti-fascist organizers contronted the marchers, who also attacked a local Black artist named Charles Murrell. We speak to Boston civil rights activist Reverend Kevin Peterson, who is an adviser to Murrell; investigative journalist Phillip Martin, who has documented the rise of the neo-Nazi movement in Massachusetts; and Michael Edison Hayden with the Southern Poverty Law Center. Peterson is calling for an internal investigation into the Boston police over its response to Saturday's violence. His group, the New Democracy Coalition, is also calling for Boston Mayor Michelle Wu to develop a race commission to explore what would constitute reparations for Black people.&#10;&#10;#DemocracyNow&#13;&#10;&#13;&#10;Democracy Now! is an independent global news hour that airs on nearly 1,400 TV and radio stations Monday through Friday. Watch our livestream 8-9AM ET: https://democracynow.org&#13;&#10;&#13;&#10;Please consider supporting independent media by making a donation to Democracy Now! today: https://democracynow.org/donate&#13;&#10;&#13;&#10;FOLLOW DEMOCRACY NOW! ONLINE:&#13;&#10;YouTube: http://youtube.com/democracynow &#13;&#10;Facebook: http://facebook.com/democracynow &#13;&#10;Twitter: https://twitter.com/democracynow&#13;&#10;Instagram: http://instagram.com/democracynow&#13;&#10;SoundCloud: http://soundcloud.com/democracynow &#13;&#10;iTunes: https://itunes.apple.com/podcast/democracy-now!-audio/id73802554 &#13;&#10;Daily Email Digest: https://democracynow.org/subscribe"
+    channeltitle "Democracy Now!"
+    channelid "UCzuqE7-t13O4NIDYJfakrhw"
     favcount 0
-    viewcount 1
-    likecount 0
-    commentcount 0
-    duration "PT57M10S"
+    viewcount 265134
+    likecount 8452
+    commentcount 4772
+    duration "PT21M10S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft|SocialJustice"
+    leftright "L"
     cluster 5
   ]
   node
   [
-    id 453
+    id 407
+    name "451"
+    label "EZwUnP0SkZo"
+    step 0
+    date "2022-07-11T22:13:32Z"
+    title "The INCREDIBLE Plan To SAVE Our Children and Our Schools! | Betsy DeVos | Huckabee"
+    description "Betsy DeVos has decades of experience in the education freedom trenches. She served as education secretary in the Trump administration, and she says the time has come for a new approach to American education. Secretary DeVos joins &#34;Huckabee&#34; to detail the ideas from her fantastic new book, HOSTAGES NO MORE, to give students, parents, and teachers more education freedom.&#10;-----&#10;Watch Huckabee Saturdays 8/7c and again Sundays 9/8c exclusively on TBN&#10;&#10;View full Huckabee episodes for free on the TBN app: &#10;https://watch.tbn.org/huckabee&#10;&#10;Shop Huckabee merch now:&#10;https://shop.huckabee.tv/&#10;&#10;Connect with Mike Huckabee:&#10;https://www.facebook.com/mikehuckabee/ &#10;https://twitter.com/GovMikeHuckabee&#10;&#10;Stay updated with Huckabee On TBN:&#10;https://www.facebook.com/HuckabeeOnTBN/ &#10;https://twitter.com/HuckabeeOnTBN &#10;https://www.instagram.com/huckabeeontbn/&#10;-----&#10;#betsydevos #education #children #america"
+    channeltitle "Huckabee"
+    channelid "UClDAdF7QCpKHLrE3F_VZjrg"
+    favcount 0
+    viewcount 13463
+    likecount 1768
+    commentcount 98
+    duration "PT8M18S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
+    cluster 5
+  ]
+  node
+  [
+    id 408
+    name "453"
     label "VJyZ8Ixy3eQ"
     step 0
     date "2021-05-21T19:59:56Z"
@@ -7790,12 +12260,23 @@ graph
     commentcount 693
     duration "PT15M5S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 5
   ]
   node
   [
-    id 454
+    id 409
+    name "454"
     label "7ynPABlIIPU"
     step 0
     date "2022-07-09T14:51:58Z"
@@ -7809,12 +12290,23 @@ graph
     commentcount 1
     duration "PT34S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 455
+    id 410
+    name "455"
     label "jtDxl9f3QsQ"
     step 0
     date "2022-03-23T15:18:54Z"
@@ -7828,12 +12320,23 @@ graph
     commentcount 67
     duration "PT7M43S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 456
+    id 411
+    name "456"
     label "xi-04wk__RA"
     step 0
     date "2021-04-21T23:00:26Z"
@@ -7847,107 +12350,173 @@ graph
     commentcount 63
     duration "PT5M12S"
     indegree 3
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
     cluster 2
   ]
   node
   [
-    id 458
-    label "4R5tS7-Z6oU"
+    id 412
+    name "457"
+    label "qcoIouZHwus"
     step 0
-    date "2022-07-09T02:10:58Z"
-    title "Critical Race Theory is racist (as proposed)"
-    description "CRT is incredibly racist. Period. #crt #schools #race #theory #left #wrong #liberal #wtf #notokay #foryou #shorts"
-    channeltitle "The Logan Theory"
-    channelid "UCUE2mgQ_myQNjRbu1tkY8Xg"
+    date "2021-06-14T18:20:17Z"
+    title "Critical Race Theory is the Great Lie: Here Are All the Ways It Distorts History"
+    description "Robert Reich comes to the defense of Critical Race Theory because he wants to hide the fact that the racial atrocities of American history were all perpetrated by Democrats.&#10;&#10;&#8212;&#10;&#10;Dinesh D'Souza is an author and filmmaker.  A graduate of Dartmouth College, he was a senior domestic policy analyst in the Reagan administration.  He also served as a research fellow at the American Enterprise Institute and the Hoover Institution at Stanford University.  &#10;&#10;He is the author of many bestselling books, including &#34;Illiberal Education,&#34; &#34;What's So Great About Christianity,&#34; &#34;America: Imagine a World Without Her,&#34; &#34;The Roots of Obama's Rage,&#34; &#34;Death of a Nation,&#34; and &#34;United States of Socialism.&#34;  &#10;&#10;His documentary films &#34;2016: Obama's America,&#34; &#34;America,&#34; &#34;Hillary's America,&#34; &#34;Death of a Nation,&#34; and &#34;Trump Card&#34; are among the highest-grossing political documentaries of all time. He and his wife Debbie are also executive producers of the acclaimed feature film &#34;Infidel.&#34;&#10;&#10;&#8212;&#10;&#10;Want to connect with Dinesh D'Souza online for more hard-hitting analysis of current events in America? Here&#8217;s how:&#10;&#10;Facebook: https://www.facebook.com/dsouzadinesh&#10;&#10;Twitter: https://twitter.com/dineshdsouza&#10;&#10;Rumble: https://rumble.com/dineshdsouza&#10;&#10;Instagram: https://www.instagram.com/dineshjdsouza&#10;&#10;Email: http://www.dineshdsouza.com/email/"
+    channeltitle "Dinesh D'Souza"
+    channelid "UC8GAOCAJxBL4bExaUCvwL4Q"
     favcount 0
-    viewcount 2
-    likecount 0
-    commentcount 0
-    duration "PT57S"
-    indegree 2
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 464
-    label "EuGlTmlzaNM"
-    step 0
-    date "2021-06-09T19:02:16Z"
-    title "Christopher Rufo"
-    description "Christopher Rufo&#8217;s &#8220;Critical Race Theory Briefing Book&#8221; is a policy and communications guide for parents, schools, and policy leaders.  According to Rufo&#8217;s website:&#10;&#10;&#8220;In recent months, I've advised hundreds of leaders across the country, from local school board candidates to members of the United States House and Senate. I've distilled down my advice into this briefing book, which contains definitions, quotations, stories, language, and model policies&#8212;everything you need to fight critical race theory in American institutions.&#10;&#10;Right now, we have enormous momentum on this issue. But in order to turn this sentiment into victory, we need to build a persuasive argument to the public and implement smart policies at every level of government. I hope this guidebook will help thousands of leaders learn about critical race theory, explain it to their constituents, and abolish it from American public life.&#8221; &#10;&#10;Here's a link to the book: http://christopherrufo.com/crt-briefing-book/?mc_cid=340fbeafe6&#38;mc_eid=cc1d9d0b9c"
-    channeltitle "Chalk &#38; Talk"
-    channelid "UCON9vFaGhqkgR4FdsLH8SeQ"
-    favcount 0
-    viewcount 719
-    likecount 76
-    commentcount 33
-    duration "PT22M26S"
+    viewcount 14266
+    likecount 2495
+    commentcount 372
+    duration "PT4M50S"
     indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 466
-    label "x4Pl5sloiiA"
-    step 0
-    date "2021-10-07T14:00:17Z"
-    title "Terrorist Speech: Parental Pushback on Critical Race Theory Spurs FBI Domestic Terror Probe"
-    description "Attorney General Merrick Garland orders the FBI to launch a domestic terrorism probe in the wake of a series of parental protests at school board meetings over critical race theory curriculum in public schools. Garland got goaded into this by a National School Boards Association request to the Biden administration. What's the true threat here?&#10;&#10;Right Angle &#8212; with Bill Whittle, Stephen Green and Scott Ott &#8212; is produced by our Members. When you join, you unlock access to comments, forums, backstage video content and you become an author at the Member-written blog. Just click the big green button at https://BillWhittle.com"
-    channeltitle "Bill Whittle"
-    channelid "UC6P8LT59hNgA8bes61IA9Ow"
-    favcount 0
-    viewcount 10067
-    likecount 1688
-    commentcount 244
-    duration "PT15M4S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
     cluster 3
   ]
   node
   [
-    id 471
-    label "6ZX6j5Muz6I"
+    id 413
+    name "459"
+    label "muaP3u1_2Oc"
     step 0
-    date "2021-10-13T15:07:31Z"
-    title "CRT : NEW Secret Critical Race Theory Doc Exposed"
-    description "Judicial Watch President Tom Fitton appeared on Newxmax TV to discuss a CRT (&#34;critical race theory&#34;) training course sent to Judicial Watch by a whitstleblower detailing how teachers are pushing critical race theory in classrooms. READ MORE https://www.judicialwatch.org/press-releases/jw-exposes-crt-schools/&#10;&#10;We have joined Parler and Rumble! Follow us @JudicialWatch to stay updated on the latest news from Judicial Watch--&#10;&#10;Rumble: https://rumble.com/user/JudicialWatch&#10;&#10;Parler: https://parler.com/profile/JudicialWatch/posts &#10;&#10;Donate today! &#9658;https://www.judicialwatch.org/donate/thank-youtube/ &#10;&#10;Subscribe on YouTube! &#9658; http://jwatch.us/subscribe&#10;&#10;Check out our website &#9658; http://www.judicialwatch.org&#10;&#10;&#34;Like&#34; us on Facebook &#9658; http://www.facebook.com/JudicialWatch&#10;&#10;Follow us on Twitter &#9658; http://twitter.com/JudicialWatch"
-    channeltitle "Judicial Watch"
-    channelid "UCGDaOZg2INC0Qg2Z203F1dA"
+    date "2022-07-10T17:41:13Z"
+    title "From Womb To Tomb: Every Life Matters ][ Collide Series ][ Welcome To Westside ][ Pastor Marcus Rosa"
+    description "Roe vs. Wade, Homosexual Marriage, Critical Race Theory, Sexual Identity... the ways of Christ and our culture are on a continual collision course. As followers of Christ, we are called to be in the world but not of the world... we are not to be conformed by the world but transformed by Christ.&#10;Join us this July as Pastor Marcus tackles some tough topics from a Biblical perspective. This series will strengthen your faith in a world that's trying to wreck you and your family. &#10;Service Schedule&#10;Sundays&#10;9:15 AM Bible study (All ages; No nursery)&#10;10:30 AM Morning Worship Service; Live-streamed&#10;Wednesdays&#10;11:00 AM Prayer and Potluck in the Fellowship Hall&#10;5:30 PM Youth and Children's Ministries&#10;Give Online:&#10;https://onrealm.org/WestsideEmmanuel/give&#10;Text &#34;WEBC&#34; to 73256&#10;Worship Guide and Sermon Notes:&#10;http://bible.com/events/48919328&#10;Check out our Facebook page at:&#10;www.facebook.com/WestsideEmmanuel&#10;Check out our YouTube Channel at:&#10;www.YouTube.com/WestsideEmmanuelBaptistChurch&#10;If you&#8217;re visiting with us and would like more information about Westside, please check out this link so we can be praying for you and your family.&#10;https://forms.gle/zSCwYxgUwovcqdbbA"
+    channeltitle "Westside Emmanuel Baptist Church"
+    channelid "UClxPvlvSPrAaNuEt3YT8Tsg"
     favcount 0
-    viewcount 9827
-    likecount 1554
-    commentcount 277
-    duration "PT5M16S"
+    viewcount 11
+    likecount 1
+    commentcount 0
+    duration "PT1H23M40S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 9
   ]
   node
   [
-    id 473
-    label "Eynw-NRbzZE"
+    id 414
+    name "465"
+    label "FKrcoiH54VE"
     step 0
-    date "2021-07-15T18:07:44Z"
-    title "The War Over Critical Race Theory"
-    description "Critical Race Theory has become the new front in the culture wars. Both proponents and opponents of it seem to have the same goal&#8212;to stamp out racism in the U.S. So why is it so divisive? Part of the answer lies in how people are defining CRT. &#10;&#10;Is Marxism Invading our Schools? | Critical Race Theory Explained https://www.youtube.com/watch?v=1814HNjVntA&#10;America Is RACIST&#8212;the 1619 Project https://www.youtube.com/watch?v=mXN5fFPkmo8&#10;&#10;&#10;SUPPORT US: &#10;Patreon.......&#9658;https://www.patreon.com/americauncovered&#10;&#10;SOCIAL:&#10;Facebook...&#9658; https://www.facebook.com/America-Uncovered-1819821761677650/&#10;Instagram..&#9658; https://www.instagram.com/americauncovered&#10;Twitter........&#9658; https://twitter.com/USUncovered"
-    channeltitle "America Uncovered"
-    channelid "UC_7vFlErTHxVD-IFNB-BFCg"
+    date "2021-06-07T20:54:07Z"
+    title "JLP | The Fruits of Critical Race Theory"
+    description "ALT STREAM&#10;https://trovo.live/jesseleepeterson - SUPER CHATS here too!&#10;https://www.periscope.tv/jlptalk&#10;&#10;SUPERCHATS http://jesseleepeterson.live&#10;SILENT PRAYER http://silentprayer.video &#10;AUDIO https://soundcloud.com/rebuildingtheman/silent-prayer &#10;&#10;OTHER CHANNELS: &#10;BOND https://youtube.com/bondrebuildingtheman &#10;TFS https://youtube.com/thefallenstatetv &#10; &#10;JESSE HAS 3 SHOWS: &#10;The Jesse Lee Peterson Show (M-F 6-9am PT) http://jlptalk.com &#10;The Fallen State (in-person interviews) http://thefallenstate.tv &#10;Church (Sunday 11am PT) http://rebuildingtheman.com/church &#10; &#10;Do you want a personal shoutout or advice from Jesse? Check out his CAMEO page and book Jesse:  https://www.cameo.com/jesseleepeterson&#10;&#10;Support: 800-411-BOND (or 800-411-2663) &#10;https://rebuildingtheman.com/donate/ &#10;https://www.paypal.me/jesseleepeterson&#10;&#10;EXCLUSIVE CONTENT / EARLY ACCESS: &#10;https://www.patreon.com/jesseleepeterson &#10;https://www.subscribestar.com/jesseleepeterson &#10;https://rokfin.com/jesseleepeterson/ &#10;&#10;ARTICLES: &#10;https://www.wnd.com/author/jlpeterson/ &#10; &#10;BOOKS: &#10;http://www.bondinfostore.org &#10; &#10;T-SHIRTS: &#10;BOND https://teespring.com/stores/rebuildingtheman &#10;TFS https://teespring.com/stores/shopthefallenstate &#10; &#10;TWITTER/FB: &#10;https://twitter.com/jlptalk &#10;https://www.facebook.com/jlptalk &#10;https://www.facebook.com/OfficialJesseLeePeterson"
+    channeltitle "Jesse Lee Peterson"
+    channelid "UCOBNx5Pdw7FZkh2oQR3i9SQ"
     favcount 0
-    viewcount 75322
-    likecount 8229
-    commentcount 1674
-    duration "PT16M6S"
-    indegree 3
-    sentiment 1
-    cluster 5
+    viewcount 21263
+    likecount 1489
+    commentcount 514
+    duration "PT12M28S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
+    leftright "R"
+    cluster 8
   ]
   node
   [
-    id 474
+    id 415
+    name "467"
+    label "pk6KBRSjJVU"
+    step 0
+    date "2022-07-11T16:20:41Z"
+    title "Segment 40 BLM 1619 PROJECT CRITICAL RACE THEORY"
+    description ""
+    channeltitle "Asensio4Congress"
+    channelid "UCVX-xzFAoKZYEufaSuL-k_Q"
+    favcount 0
+    viewcount 2
+    likecount 0
+    commentcount 0
+    duration "PT4M39S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
+  ]
+  node
+  [
+    id 416
+    name "472"
+    label "Lf54rcqpeB4"
+    step 0
+    date "2022-07-07T22:32:30Z"
+    title "Bookshelf Tour | 2022"
+    description "Thanks for watching! &#10;&#10;Links to our curriculum videos&#11015;&#65039;&#10;&#10;&#10;9th Grade Curriculum &#10;https://youtu.be/6oOs19e8smU&#10;&#10;&#10;10th Grade Curriculum &#10;https://youtu.be/W0qzTLpvCck&#10;&#10;&#10;11th Grade Curriculum &#10;https://youtu.be/p1WZpGVAU6g&#10;&#10;&#10;12th Grade Curriculum &#10;https://youtu.be/2PTELwZCI7E&#10;&#10;Amazon Books &#128218;&#11015;&#65039;&#10;&#10;The Loneliest Americans https://a.co/d/3xVxBqD&#10;&#10;Incidents in the Life of a Slave Girl (Dover Thrift Editions: Black History) https://a.co/d/bvTG9u1&#10;&#10;The Life of Olaudah Equiano (Dover Thrift Editions: Black History) https://a.co/d/i0fbiT9&#10;&#10;Critical Race Theory: The Key... https://www.amazon.com/dp/1565842715?ref=ppx_pop_mob_ap_share&#10;&#10;Precolonial Black Africa https://www.amazon.com/dp/1556520883?ref=ppx_pop_mob_ap_share&#10;&#10;The Sociology Book: Big Ideas... https://www.amazon.com/dp/146547854X?ref=ppx_pop_mob_ap_share&#10;&#10;&#10;Their Eyes Were Watching God https://a.co/d/cERzQzp&#10;&#10;Notes of a Native Son https://www.amazon.com/dp/0807006238?ref=ppx_pop_mob_ap_share&#10;&#10;How to Read Literature Like a... https://www.amazon.com/dp/0062301675?ref=ppx_pop_mob_ap_share&#10;&#10;Crime and Punishment (Dover Thrift Editions: Classic Novels) https://a.co/d/7PHqBtP&#10;&#10;A Song for Nagasaki: The Story of... https://www.amazon.com/dp/158617343X?ref=ppx_pop_mob_ap_share&#10;&#10;Great Poems by American Women: An... https://www.amazon.com/dp/0486401642?ref=ppx_pop_mob_ap_share&#10;&#10;A People's History of the United... https://www.amazon.com/dp/0062397346?ref=ppx_pop_mob_ap_share&#10;&#10;Alexander Hamilton https://www.amazon.com/dp/0143034758?ref=ppx_pop_mob_ap_share&#10;&#10;Passing (Penguin Classics) https://www.amazon.com/dp/0142437271?ref=ppx_pop_mob_ap_share&#10;&#10;A Long Way Gone: Memoirs of a Boy... https://www.amazon.com/dp/0374531269?ref=ppx_pop_mob_ap_share&#10;&#10;100 Best-Loved Poems (Dover... https://www.amazon.com/dp/0486285537?ref=ppx_pop_mob_ap_share&#10;&#10;Women, Race &#38; Class https://www.amazon.com/dp/0394713516?ref=ppx_pop_mob_ap_share&#10;&#10;Selim Aga: A Slave's Odyssey https://a.co/d/f5X5u7Q&#10;&#10;&#10;&#10;&#10;Books we used for Anatomy &#38; Physiology &#11015;&#65039;&#10;&#10;Textbook:&#10;&#10;Understanding Anatomy &#38;... https://www.amazon.com/dp/080367645X?ref=ppx_pop_mob_ap_share&#10;&#10;Workbook:&#10;&#10;Understanding Anatomy &#38;... https://www.amazon.com/dp/080367645X?ref=ppx_pop_mob_ap_share&#10;&#10;Instagram: LogicWithJulia"
+    channeltitle "Logic With Julia"
+    channelid "UCg_MFTpj_VoW4UjZnjM8oFw"
+    favcount 0
+    viewcount 86
+    likecount 11
+    commentcount 2
+    duration "PT11M37S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 8
+  ]
+  node
+  [
+    id 417
+    name "474"
     label "wYE-wTwArag"
     step 0
     date "2021-07-09T22:18:09Z"
@@ -7961,12 +12530,23 @@ graph
     commentcount 143
     duration "PT2M56S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
     cluster 5
   ]
   node
   [
-    id 475
+    id 418
+    name "475"
     label "hOS3wnvWS0I"
     step 0
     date "2021-05-03T16:48:48Z"
@@ -7980,164 +12560,263 @@ graph
     commentcount 5
     duration "PT7M16S"
     indegree 2
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 477
-    label "aAZv5wgC6_o"
+    id 419
+    name "476"
+    label "Q1EO7R7K0qs"
     step 0
-    date "2021-07-26T15:22:02Z"
-    title "#ExposeHasbro Critical Race Theory Whistleblower David Johnson Goes MAINSTREAM!"
-    description "Donate: https://www.projectveritas.com/donate&#10;&#10;Get emails: https://confirmsubscription.com/h/j/EC8A17570A033FCC&#10;&#10;Follow:&#10;Telegram: https://t.me/project_veritas&#10;FB: https://www.facebook.com/ProjectVeritas&#10;IG: https://www.instagram.com/project_veritas/&#10;Telegram: https://t.me/JamesOKeefeIII&#10;IG: https://www.instagram.com/jamesokeefeiii/&#10;&#10;Mission Statement&#10;Investigate &#38; expose corruption, dishonesty, self-dealing, waste, fraud, and other misconduct in both public and private institutions in order to achieve a more ethical &#38; transparent society.&#10;&#10;Core Values&#10;MORAL COURAGE - Courage is the virtue that sustains all others. We choose to overcome our fears.&#10;&#10;WE ARE ALL LEADERS - Turning people into leaders. Completed staff work. Ownership.&#10;&#10;COLLABORATION - Best not to work in silos. No one individual is as smart as all of us.&#10;&#10;RESILIENCE - Persistence and determination alone are omnipotent. Never, ever, ever give up. We don't let mistakes or setbacks discourage us. Pursue perfection, knowing full well you will never attain it.&#10;&#10;MISSION DRIVEN - The best people are motivated by purpose. We are passionate and truly believe in our cause. We must be externally focused, not internally focused.&#10;&#10;MAKE THE STATUS QUO DO THE IMPOSSIBLE - We move mountains. Failure is not an option. We do whatever it takes.&#10;&#10;THE TIP OF THE SPEAR - We are a loss leader. We do not shy away from conflict or litigation.&#10;&#10;Ethical Values&#10;Rule #1 &#8211; Truth is paramount. Our reporting is fact based with clear and irrefutable video and audio content.  Truth is paramount. We never deceive our audience. We do not distort the facts or the context. We do not &#8220;selectively edit.&#8221;&#10;&#10;Rule #2 &#8211; We do not break the law. We maintain one-party consent when recording someone is inherently moral and ethical. We never record when there is zero-party consent. In areas where we are required to have consent from all parties, we seek legal guidance regarding the expectation of privacy&#8217;s impact on our right to record.&#10;&#10;Rule #3 &#8211; We adhere to the 1st Amendment rights of others. During our investigations we do not disrupt the peace. We do not infringe on the 1st Amendment rights of others.&#10;&#10;Rule #4 &#8211; The Zekman Test. The undercover investigations we pursue are judged by us to be of &#8220;vital public interest&#8221; and &#8220;profound importance.&#8221; The Zekman Test is our baseline. Undercover investigative reporting is necessary because, &#8220;...there&#8217;s no other way to get the story...&#8221; Whereas the Society of Professional Journalists allows for undercover techniques, if undercover techniques are necessary to expose issues of vital public importance; we believe they are not only allowed but required.&#10;&#10;Rule #5 &#8211; We Protect the Innocent When Possible - Embarrassing private details are not to be investigated. We stay away from irrelevant embarrassingly intimate details about private citizens personal lives. We look for individual wrong-doing and judge its public importance. The irrelevant religious or sexual dispositions of our targets are not to be investigated.&#10;&#10;Rule #6 &#8211; Transparency. Our methods &#38; tactics must be reasonable and defensible. We use the &#8220;Twelve Jurors on Our Shoulder&#8221; rule. The work has to be done with such a degree of integrity that it can withstand scrutiny in both law &#38; ethics. We are comfortable with transparency. We must be willing to be ready to disclose our methods upon publication.&#10;&#10;Rule #7 &#8211; Verifying and Corroborate Stories &#8211; Evaluate impact on third parties and Newsworthiness of Statements Alone.We consistently consider the probable truth or falsity of statements, examine any reasons to doubt the veracity of underlying assertions and whether the assertions are newsworthy. When possible, we will confirm with our subjects that their statements captured on video are accurate &#38; truthful. At the very least, we will give our subjects an opportunity to elaborate and/or respond. In all matters, we rely on the 1st Amendment to protect our ability to publish newsworthy items after our internal deliberations. On whether there is an obligation to ensure the veracity of statements made on video, 1.) consider whether the remarks may potentially impact an innocent third party. (Factors in support of releasing the content) and 2.)The Newsworthiness of the statement alone by itself. (Factors against releasing the content).&#10;&#10;Rule #8 &#8211; Raw Video. In certain circumstances we may release the &#8220;raw&#8221; video to the press and or the public.  But as a rule, we do not.&#10;&#10;Rule #9 &#8211; Subject Anonymity. We investigate &#38; question sources before promising anonymity. Once we confirm, we will do everything in our power to protect the identity of our confidential sources.&#10;&#10;Rule #10 &#8211; Being Accountable. Admit mistakes &#38; correct them promptly.&#10;&#10;Rule #11 &#8211; We do not manufacture content. We do not put words in our investigative subjects' mouths. We do not lead the horse to water. Our purpose is to elicit truth.&#10;&#10;Rule #12 &#8211; With Great Power comes Great Responsibility."
-    channeltitle "Project Veritas"
-    channelid "UCL9PlYkRD3Q-RZca6CCnPKw"
+    date "2022-07-06T04:00:15Z"
+    title "You will NOT be silenced | Sara Gon"
+    description "The right to freedom of expression is worth defending. David Ansara of the CRA speaks with Sara Gon about the launch of the Free Speech Union in South Africa.&#10;&#10;Free Speech Union South Africa: https://freespeech.org.za/&#10;Free Speech Union United Kingdom: https://freespeechunion.org/&#10;&#10;_________________ &#10;&#10;The Centre For Risk Analysis (CRA) is a South African think tank with a global perspective. &#10;&#10;The CRA specialises in helping organisations and individuals understand the current political and economic environment, and the trends to come.&#10;&#10;CRA clients gain access to a range of research products, online briefings, and political risk advisory services as part of their ongoing subscription. &#10;&#10;Understand. Prepare. Prosper.&#10;&#10;&#128273; SIGN-UP for a 30-day free trial to access the CRA's exclusive client content:&#10;https://cra-sa.com/free-trial&#10;&#10;&#127757; VISIT the CRA website:&#10;https://cra-sa.com&#10;&#10;&#128188; FOLLOW the CRA on LinkedIn: https://www.linkedin.com/company/centre-for-risk-analysis/&#10;&#10;&#128077; LIKE the CRA on Facebook: https://www.facebook.com/CentreForRiskAnalysis/&#10;&#10;&#128276; SUBSCRIBE to the CRA YouTube channel:&#10;https://www.youtube.com/channel/UCHRcn9vEaeKapV_EkfwFQJQ/"
+    channeltitle "Centre For Risk Analysis"
+    channelid "UCHRcn9vEaeKapV_EkfwFQJQ"
     favcount 0
-    viewcount 73007
-    likecount 13852
-    commentcount 1234
-    duration "PT5M15S"
+    viewcount 3316
+    likecount 276
+    commentcount 36
+    duration "PT7M52S"
     indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 482
-    label "aaIunJEMqcU"
-    step 0
-    date "2022-07-11T01:02:36Z"
-    title "CRT - Critical Race Theory, [Rico vs. Von Eric] what is it and where is it being taught?"
-    description "This is the one you have been waiting for. Rico and Von Eric go head-to-head to find out what is going on with this CRT and where it is being taught among other things. Let's Talk about it."
-    channeltitle "Lets Talk The Better Black Life"
-    channelid "UCBJq8LYxIi2lalRgeeEyodA"
-    favcount 0
-    viewcount 222
-    likecount 29
-    commentcount 3
-    duration "PT5H24M5S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 484
-    label "UJUDeE4sXN8"
-    step 0
-    date "2022-01-25T00:33:30Z"
-    title "James Lindsay: Critical Race Theory Is The New Form of Marxism [Part 1] | Teaser"
-    description "&#128640;Watch the full episode&#128073;https://ept.ms/HowCRTisMarxistYT&#10;&#10;&#11093; EpochTV EXCLUSIVES. Only $1 (Limited Time Offer) &#128073; https://ept.ms/1DollarNOW1&#10;&#10;&#10071;Subscribe to Crossroads Highlights&#128073;https://www.youtube.com/channel/UC_cBUy9u0VhEZx9hiBUgMiQ?sub_confirmation=1&#10;&#10;&#128309;Communism has a very dark past. Watch our special series on its origins &#128073; https://ept.ms/DarkOriginsOfCommunismSeries&#10;&#10;&#128309;Sign up for the Crossroads exclusive newsletter and get even more insights from Josh&#128073; https://ept.ms/CrossroadsExclusiveNewsletter&#10;&#10;&#128309;Join us in our fight for the truth&#128073; https://ept.ms/37ckRcx&#10;&#10;Critical Race Theory is now being pushed in every institution, from schools to the military, and from businesses to online platforms. While it is often criticized as having links to Marxism, the direct connections are often blurry. James Lindsay, bestselling author and founder of New Discourses, said that he initially didn't believe there was a direct connection between CRT and Marxism, but after researching this in-depth he has found undeniable ties, and is now declaring that Critical Race Theory is not just a Marxist-inspired system. Instead, he says, it's the new form of Marxism, which he describes in his new book, &#34;Race Marxism: The Truth About Political Race Theory and Praxis.&#34; To learn more about this we've invited James Lindsay to speak with us.&#10;&#10;#CriticalRaceTheory #Marxism #Race&#10;- - - - - - - - - &#10;&#11093;&#65039;  Subscribe to Crossroads&#128073;https://www.youtube.com/channel/UC_cBUy9u0VhEZx9hiBUgMiQ?sub_confirmation=1&#10;&#11093;&#65039;  Donate to support our work:  https://donorbox.org/crossroads&#10;- - - - - - - - -&#10;&#127919;Follow us on Facebook &#128073; https://www.facebook.com/Crossroads.Josh&#10;&#127919;Follow us on Twitter &#128073; https://twitter.com/crossroads_josh&#10;&#127919;Follow us on Gab &#128073; https://gab.com/Crossroads_Josh&#10;&#127919;Follow us on MeWe &#128073; https://mewe.com/p/crossroadswithjoshuaphilipp&#10;&#127919;Join us on Telegram &#128073; https://t.me/Crossroads_josh&#10;&#127919;INSTAGRAM &#128073; crossroads_josh&#10;https://www.instagram.com/crossroads_josh/&#10;&#127919;Follow us on Gettr &#128073;https://gettr.com/user/crossroads_josh&#10;- - - - - - - - -&#10;Watch more on YouTube:&#10;&#8226; Interviews: https://bit.ly/2WDTjHL&#10;&#8226; Government and Law: https://ept.ms/36UlS7k&#10;&#8226; Money and Economy: https://ept.ms/2TpakFg&#10;&#8226; The Wisdom of Tradition: https://ept.ms/2NrHaRT&#10;&#8226; Progressivism and Society: https://ept.ms/373Nqac&#10;&#8226; Constitutional Rights: https://ept.ms/30kK93O&#10;&#8226; Human Rights: https://ept.ms/3ac3SXR&#10;&#8226; Religion and Spirituality: https://ept.ms/36W48ID&#10;- - - - - - - - -&#10;Credits:&#10;Getty Images&#10;Music:  Audioblocks.com, epidemicsound.com&#10;Stock Video:  Videoblocks.com&#10;James Lindsay: Critical Race Theory Is The New Form of Marxism [Part 1]&#10;-------------------------------------------------&#10;&#169; All Rights Reserved."
-    channeltitle "Crossroads with JOSHUA PHILIPP"
-    channelid "UCG8yy4W8nBbTle9YSpCqXeg"
-    favcount 0
-    viewcount 10592
-    likecount 935
-    commentcount 57
-    duration "PT57S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 488
-    label "35DE2Jp6X3k"
+    id 420
+    name "478"
+    label "zH-Jgf0amTY"
     step 0
-    date "2021-10-20T20:00:01Z"
-    title "The Invasion of Critical Race Theory a Direct Result of Black Lives Matter Protests | CLIP"
-    description "&#128308;TRY IT NOW just by signing up with your email at Epoch TV&#128073; https://ept.ms/MarxistRevolution1 &#10;&#10;Heritage Foundation Senior Fellow Mike Gonzalez, author of BLM: The Making of a New Marxist Revolution, says what he describes as the &#34;invasion of critical race theory&#34; in all aspects of life in the US was a direct result of the thousands of Black Lives Matter protests in 2020. Gonzalez says that the ways critical race theory is implemented are often unconstitutional or illegal in breaking the Civil Rights Act.&#10;&#10;#MikeGonzalez #BlackLivesMatter #BLM  &#10;&#10;- - -&#10;&#10;&#128073;Watch EXCLUSIVE episodes only on Epoch TV: www.epochtv.com&#10;&#10;&#128309; Sign up for our newsletter&#128073;  https://subscribe.theepochtimes.com/p/?page=emailtemp-atl1 so you don't miss out on our exclusive videos and private events.&#10;&#10;&#128142;Donate to support our work: https://donorbox.org/american-thought-leaders&#10;&#10;&#128142;Subscribe to The Epoch Times: http://readepoch.com/&#10;&#10;Find out where you can watch us on cable TV: https://www.ntd.com/tv-providers.html&#10;&#10;Follow Jan on Twitter: https://twitter.com/JanJekielek&#10;&#10;Facebook: https://www.facebook.com/AmericanThoughtLeaders/&#10;&#10;Parler: https://parler.com/profile/atl&#10;&#10;Rumble: https://rumble.com/c/AmericanThoughtLeaders&#10;&#10;Telegram: https://t.me/AmThoughtLeader&#10;&#10;Twitter: http://twitter.com/AmThoughtLeader&#10;&#10;Gettr: https://gettr.com/user/amthoughtleader&#10;&#10;- - -&#10;&#10;[EXCLUSIVE DOCUMENTARY] DeSantis: Florida vs. Lockdowns&#10;http://ept.ms/desantis &#10;&#10;- - -&#10;&#10;LATEST EXCLUSIVE EPISODES:&#10;&#10;Curt Jaimungal: The Extreme Left&#8217;s Common Thread, from Communist China to America&#10;https://ept.ms/ClassGuilt1&#10;&#10;Sharri Markson: Unmasking the Wuhan Institute of Virology and the Origins of COVID-19&#10;https://ept.ms/CovidOriginsExpose1&#10;&#10;Rabbi Abraham Cooper on Christian, Yazidi Persecution in Middle East; the Recent Rise in Anti-Semitism; and the Abraham Accords One Year On&#10;https://ept.ms/BahrainMiracle1&#10;&#10;Dr. Jay Bhattacharya on Vaccine Mandates, Herd Immunity, and Why Zero COVID Is Impossible&#10;https://ept.ms/HerdImmunity1&#10;&#10;Wikipedia Co-founder Larry Sanger: Why Wikipedia Has Failed and What to Do About It&#10;https://ept.ms/WikipediaSlant1 &#10;&#10;Dr. Scott Atlas on Vaccine Mandates for Children, Natural Immunity, and Florida&#8217;s COVID Surge &#10;https://ept.ms/EthicsVaccineChild1  &#10;&#10;Lenore Skenazy: How Overparenting Is Crippling the Next Generation &#10;http://ept.ms/AmericaWorstMom1&#10;&#10;Harvard Epidemiologist Martin Kulldorff on Vaccine Passports, the Delta Variant, and the COVID &#8216;Public Health Fiasco&#8217; &#10;https://ept.ms/3CvM2NX &#10;&#10;Larry Elder Reflects on the California Recall Election, with Former State Sen. John Moorlach &#10;https://ept.ms/ReflectingOnTheRecall1 &#10;&#10;Dr. Robert Malone on Ivermectin, Escape Mutants, and the Faulty Logic of Vaccine Mandates (PART 2) &#10;https://ept.ms/EscapeMutants1  &#10;&#10;Dr. Robert Malone, mRNA Vaccine Inventor, on Latest COVID-19 Data, Booster Shots, and the Shattered Scientific &#8216;Consensus&#8217; (Part 1) &#10;https://ept.ms/VACCINEQUESTIONS1&#10;&#10;Dr. Bret Weinstein: &#8216;Perverse Incentives&#8217; in the Vaccine Rollout and the Censorship of Science&#10;https://ept.ms/3qIHezf&#10;&#10;Victor Davis Hanson on the Assault on Meritocracy, Politicization of the Virus, and the &#8216;Platonic Noble Lie&#8217;&#10;https://ept.ms/3qtF2v9&#10;&#10;Jaco Booyens: Trafficking Epidemic Fueled by Lockdowns, Police Cuts, and a Porous Border&#10;https://ept.ms/3yg4ozG&#10;&#10;&#10;&#10;- - -&#10;OUR PLAYLISTS:&#10;&#10;The Communist China Threat:   https://ept.ms/atl_china   &#10;Culture Wars: https://ept.ms/atl_culturewar&#10;Traditional Values: https://ept.ms/atl_tradition&#10;Crossfire Hurricane / FISA Abuse:   https://ept.ms/atl_crossfirehurricane&#10;CCP Virus: https://ept.ms/atl_ccpvirus &#10;Media: https://ept.ms/atl_media&#10;Economy: https://ept.ms/atl_economy&#10;Education: https://ept.ms/atl_education&#10;&#10;- - -&#10;&#10;Mike Gonzalez: The Marxist Underpinnings of the BLM Organizations &#10;&#10;&#10;Credits:&#10;&#10;shutterstock Images:  https://shutr.bz/2u8Zdp8&#10;Music:  Audioblocks.com,  epidemicsound.com&#10;Stock Video:  Videoblocks.com&#10;&#10;-------------------------------------------------&#10;&#169; All Rights Reserved."
-    channeltitle "American Thought Leaders - The Epoch Times"
-    channelid "UCmWhuFRkZKu0g-e1xrlakVA"
+    date "2022-02-21T03:00:31Z"
+    title "Epic! Biracial Parent Tears Apart School Board Over Critical Race Theory"
+    description "Rejuvenate Your Hair, Nails, Joints, &#38; Skin Here&#10;http://healthwithgary.com&#10;This is my FAV trusted source ^^^^&#10;&#10;Get more at http://NextNewsNetwork.com &#10;&#10;Sub to Gary's NEW Podcast on YouTube here:&#10;https://nnn.is/subscribe-to-G-Cast&#10;&#10;Sub to Gary's original YouTube Channel here:&#10;https://www.youtube.com/channel/UC7hGbKgaf_DK3w_gwQweICg?sub_confirmation=1&#10;&#10;Sub to the Next News Youtube Channel here:&#10;http://nnn.is/Sub-to-N3&#10;&#10;Get on our Email list! &#10;http://nnn.is/email-newsletter-next-news &#10;&#10;Hannah Nightingale from The Post Millennial reports, On Monday, a North Carolina dad spoke at a local school board meeting urging parents to &#34;take the wheel back&#34; in their children's education, and commended the school board for passing a resolution last summer that banned critical race theory teachings in the district.&#10;&#10;See the report here:&#10;https://youtu.be/zH-Jgf0amTY&#10;&#10;Read More/Source/Credit/FairUse:&#10;https://thepostmillennial.com/watch-north-carolina-dad-slams-school-board-over-critical-race-theory-and-gender-indoctrination&#10;&#10;Share this to Facebook: https://www.facebook.com/sharer.php?u=https://youtu.be/zH-Jgf0amTY&#10;&#10;Tweet This video: https://twitter.com/home?status=Must%20See!%20https%3A//youtu.be/zH-Jgf0amTY&#10;&#10;------------------------------------------------------------------------------------&#10;SUPPORT THE NETWORK WITH THE LINKS BELOW!&#10;------------------------------------------------------------------------------------&#10;Patreon $5/mo: http://nnn.is/monthly-gift-5&#10;Donate with Paypal: https://nnn.is/give-once&#10;Give BTC: 13Hd1HFqS5CDLCMcFQPWu9wumubo6X2hSM&#10;Next News T-Shirt Shop: http://nnn.is/get-your-gear-here&#10;&#10;Protect Your Kids From Marxist Ideas!&#10;https://teachrealprinciples.com&#10;&#10;Get the equivalent of a Ph.D. in libertarian thought and &#10;free-market economics online for just 24 cents a day! &#10;Visit: http://LibertyClassroom.org&#10;&#10;Restore YOUR Online Privacy here:&#10;https://HideWithGary.com&#10;Enter Promo Code: nextnews for 20% OFF !&#10;&#10;Be Ready in ANY disaster. Stock up on Survival Food here:&#10;http://PrepareWithGary.com&#10;&#10;----------------------------------------&#10;FOLLOW US ON SOCIAL!&#10;---------------------------------------&#10;https://Minds.com/NextNews&#10;https://Minds.com/GaryFranchi&#10;https://BitChute.com/channel/NextNewsNetwork&#10;https://Real.Video/channel/NextNewsNetwork&#10;http://Facebook.com/NextNewsNet&#10;http://Twitter.com/NextNewsNet&#10;http://Twitter.com/garyfranchi&#10;http://NextNewsNetwork.com&#10;&#10;Copyright Disclaimer: Citation of articles and authors in this report does not imply ownership. Works and images presented here fall under Fair Use Section 107 and are used for commentary on globally significant newsworthy events. Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, and research.&#10;&#10;Community Guidelines Disclaimer: The points of view and purpose of this video is not to bully or harass anybody, but rather share that opinion and thoughts with other like-minded individuals curious about the subject.&#10;&#10;#NextNews"
+    channeltitle "The Next News Network"
+    channelid "UCLoNQH9RCndfUGOb2f7E1Ew"
     favcount 0
-    viewcount 2832
-    likecount 355
-    commentcount 40
-    duration "PT11M"
+    viewcount 8887
+    likecount 1211
+    commentcount 128
+    duration "PT5M24S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Conspiracy|PartisanRight"
+    leftright "R"
     cluster 4
   ]
   node
   [
-    id 495
-    label "oPhtgbIs6AY"
+    id 421
+    name "483"
+    label "PwA-CpI3E9A"
     step 0
-    date "2020-10-08T14:47:37Z"
-    title "Critical race theory is an attack on America"
-    description "The purpose of critical race theory is to delegitimize the United States of America so that socialists feel justified in tearing down our system of government and imposing Marxism on us instead. Conservatives, this is your wake-up call! Fight back against this destructive, Marxist ideology.&#10;&#10;--&#10;&#10;Click the subscribe button above to make sure you don't miss a single video from Liz Wheeler.&#10;&#10;--&#10;This is Liz Wheeler like you've never seen her before. One of the most anticipated new podcasts of the year, #TheLizWheelerShow is a personal, researched, and unapologetic take on how we think about our culture&#8212;or what's left of it. This courageous new show shines a floodlight on the shadows cast by the mainstream media, illuminating what they don't want you to see and elucidating their murky motives along the way.&#10;&#10;Subscribe at https://lizwheelershow.com to make sure you never miss an episode!&#10;&#10;-- &#10;&#10;Stay in touch with Liz on social media:&#10;&#10;Facebook: https://www.facebook.com/OfficialLizWheeler&#10;Twitter: https://twitter.com/Liz_Wheeler&#10;Instagram: https://www.instagram.com/liz_oann/&#10;Parler: https://parler.com/profile/LizWheeler/&#10;#LizWheeler #TheLizWheelerShow #Politics #News #ConservativeMedia"
-    channeltitle "Liz Wheeler"
-    channelid "UCXdOgiTcdHCpQOyDxgwHdDg"
+    date "2022-07-09T19:00:52Z"
+    title "Gavin Newsom Tells Floridians To Flee Ron DeSantis And Move To California"
+    description "California Governor Gavin Newsom has been running ads in Florida, encouraging people in the state to flee Ron DeSantis' rule and move to California instead. Newsom has done a better job with his state than DeSantis has, but ceding control to the right wing nutjob by evacuating the liberals isn't exactly a good strategy. Ring of Fire's Farron Cousins explains what Newsome should be doing to undermine DeSantis' quest for power. &#160;&#10;&#10;Link - https://www.axios.com/2022/07/03/gavin-newsom-florida-gop-attack-ad&#10;&#10;Subscribe to our podcast: http://www.ROFPodcast.com&#10;&#10;Become a member today!: https://www.youtube.com/channel/UCYWIEbibRcZav6xMLo9qWWw/join&#10;&#10;Support us by becoming a monthly patron on Patreon, and help keep progressive media alive!: https://www.patreon.com/TheRingofFire&#10;&#10;Find our merchandise at Teespring: https://teespring.com/stores/rof-store&#10;&#10;Spread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!&#10;&#10;Support Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/theringoffire&#10;&#10;Be sociable! Follow us on:&#10;Facebook: http://www.facebook.com/RingofFireRadio&#10;Twitter: https://twitter.com/RingofFireMedia&#10;Instagram: https://www.instagram.com/ringoffirenetwork/&#10;&#10;*This transcript was generated by a third-party transcription software company, so please excuse any typos.&#10;&#10;Democratic California. Governor Gavin Newsome has been running ads down here in the state of Florida, encouraging Floridians to abandon Ron DeSantis, authoritarian hell hole down here, and instead move over to California where they still believe in freedom. And of course, this is in response to a, you know, plethora of anti-democratic pieces of legislation that Ron DeSantis has signed into law. The, the banning of books, the banning of critical race theory, the transgender athlete ban the protest ban that allows motorists to run you over. If you're protesting in the middle of a street that and many, many more that don't say gay bill, the abortion ban that a judge actually recently kind of put the breaks on, but all of these horrible things happening in Florida. So Gavin Newsom decides, you know what? I'm gonna run ads in Florida telling these people, I'm assuming the liberals in Florida, leave it a band to leave it, abandon this sinking ship and come out here in California, we got a budget surplus, right? &#10;&#10;Our economy is, is banging in spite of what all those rich people say like, oh, I'm leaving California because of the taxes. Cool. Those taxes again gave California a budget surplus. The state is not in fact a hell hole as right. Wingers would have you believe, does it have problems? Yeah. Every state has problems. Alabama run by Republicans for 20 years has the worst poverty of the industrialized world. But you don't hear Democrats harping on that, which I think they should. But here's the problem I have with Newsom's plan. Florida's a red state for sure. Don't get me wrong. Florida's a red state and we've had more Republicans, uh, register in this state than Democrats over the last two years. So we got, we got some big problems, but do we really wanna dilute such a valuable state like Florida, you know, and take the liberals and move them over to an already safe blue state in California, making Florida even more red is as California gets more blue, California's blue enough as it is folks. &#10;&#10;We don't have to worry about California and their electoral votes. We do have to worry about Florida on the other hand. And I just don't think it's the best strategy electorally to take the liberals out of Florida and move 'em on over to California. Now I have complained about Ron DeSantis, plenty, you know, factually based of course. And I've complained about some of the folks here in Florida. I've complained about my Congressman Matt gates, but in spite of all the things I hate about it, I still want to stay here. I still want to keep fighting. I enjoy living here. The schools are good. My children love it. The weather's pretty decent for 10 months out of the year. I don't wanna just &#10;&#10;Pack up and leave, you know, be pushed out of the state where I was born and raised just because we've got this authoritarian leader here, I'd rather stay in fight. I don't wanna retreat. And I think a lot of liberals here in the state of Florida, agree with me on that. We don't want to give up our homes. We don't want to give up our livelihoods. We don't wanna hand this state over to the Republicans and say, fine take it. It's yours. Cuz that's a quitter's mentality. And while I do appreciate what Gavin Newsome is doing here, I don't have that quitters mentality and I unfortunately will not be taking him up on his offer to pack up my family and move to California."
+    channeltitle "The Ring of Fire"
+    channelid "UCYWIEbibRcZav6xMLo9qWWw"
     favcount 0
-    viewcount 64267
-    likecount 10051
-    commentcount 690
-    duration "PT4M12S"
+    viewcount 40516
+    likecount 3992
+    commentcount 779
+    duration "PT4M5S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanLeft"
+    leftright "L"
+    cluster 2
+  ]
+  node
+  [
+    id 422
+    name "485"
+    label "lKM4VYNvOIk"
+    step 0
+    date "2021-12-21T23:53:27Z"
+    title "Larry Arnn on Critical Race Theory, Lockdowns | TEASER"
+    description "&#128308;TRY IT NOW just by signing up with your email at Epoch TV&#128073;  https://ept.ms/1221LarryArnn1&#10; &#10;&#8220;Just think what critical race theory is. It's a simple thing. They're saying that accidental features of you&#8230;are defining of you. Now, no parent tells the child that. What you tell the child is you should become a good human being. And then you can do anything a human being can do.&#8221;&#10;&#10;Today, I sit down with Larry Arnn, president of Hillsdale College and a professor of history and politics. We discuss why critical race theory goes against basic humanity, what a good education really means, and why a nation cannot be governed by experts. &#10;&#10;Recently, Hillsdale College launched a new Academy for Science and Freedom to pursue the free exchange of scientific ideas. Its fellows include Dr. Scott Atlas, Dr. Jay Bhattacharya, and Dr. Martin Kulldorff. &#10;&#10;#LarryArnn #Hillsdale #Omicron &#10;&#10;- - -&#10;&#10;&#128073;Watch EXCLUSIVE episodes only on Epoch TV: www.epochtv.com&#10;&#10;&#128309; Sign up for our newsletter&#128073;  https://subscribe.theepochtimes.com/p/?page=emailtemp-atl1 so you don't miss out on our exclusive videos and private events.&#10;&#10;&#128142;Donate to support our work: https://donorbox.org/american-thought-leaders&#10;&#10;&#128142;Subscribe to The Epoch Times: http://readepoch.com/&#10;&#10;Find out where you can watch us on cable TV: https://www.ntd.com/tv-providers.html&#10;&#10;Follow Jan on Twitter: https://twitter.com/JanJekielek&#10;&#10;Facebook: https://www.facebook.com/AmericanThoughtLeaders/&#10;&#10;Parler: https://parler.com/profile/atl&#10;&#10;Rumble: https://rumble.com/c/AmericanThoughtLeaders&#10;&#10;Telegram: https://t.me/AmThoughtLeader&#10;&#10;Twitter: http://twitter.com/AmThoughtLeader&#10;&#10;Gettr: https://gettr.com/user/amthoughtleader&#10;&#10;- - -&#10;&#10;[EXCLUSIVE DOCUMENTARY] DeSantis: Florida vs. Lockdowns&#10;http://ept.ms/desantis &#10;&#10;- - -&#10;&#10;LATEST EXCLUSIVE EPISODES:&#10;&#10;EXCLUSIVE: Dr. Ben Carson on Therapeutics, Pandemic Politics, and the Dangers of Critical Race Theory &#10;https://ept.ms/1218BenCarson1 &#10;&#10;Dr. Steven Templeton: How Media Frenzy and COVID Panic Made America Obsessively Risk Averse and Germophobic&#10;https://ept.ms/1216SteveTempleton1 &#10;&#10;Nathan Law: Communist China&#8217;s Rise Is &#8216;Existential Crisis&#8217; for Liberal Democracies&#10;https://ept.ms/1214NathanLaw1 &#10;&#10;PART 2: Robert Destro: Is the West Starting to Adopt China&#8217;s Orwellian Social Credit System and Internet Firewall?&#10;https://ept.ms/1211P2RobertDestro1&#10;&#10;PART 1: China&#8217;s Communist Leaders Are &#8216;Traffickers&#8217; Selling Human Organs&#8212;Robert Destro on &#8216;Genocides&#8217; of Falun Gong, Uyghurs&#10;https://ept.ms/1209RobertDestro1 &#10;&#10;Donald Boudreaux: The Deafening Silence of Economists During COVID and the Abandonment of Logic&#10;https://ept.ms/1207DonaldBoudreaux1 &#10;&#10;Soledad Ursua: Drug Addiction, Crime, and Mental Illness&#8212;The Tragedy Unfolding on America&#8217;s Streets&#10;https://ept.ms/1204SoledadUrsua1&#10;&#10;John Fund: U.S. Far Behind Mexico, Canada, and Europe in Election Safeguards&#10;https://ept.ms/1127JohnFund1 &#10;&#10;Dr. Paul Alexander on the Politicization of Science and Why Healthy Children Shouldn&#8217;t Get COVID Vaccine | PART 2&#10;&#10;Could Boosters Backfire?&#8212;Dr. Paul Alexander on Booster Shots, Natural Immunity, and the Failures of Lockdowns | PART 1&#10;&#10;Jeffrey Tucker: How the Working Class Was Betrayed By Lockdowns, Vaccine Mandates &#10;https://ept.ms/1118JeffreyTucker1 &#10;&#10;Batya Ungar-Sargon: How Woke Media Abandoned the Working Class and Monetized Outrage &#10;https://ept.ms/1109BatyaUngarSargon1 &#10;&#10;Dr. David Jeremiah: Why Socialism Is Anti-Family and Anti-Faith&#10;https://ept.ms/1106DavidJeremiah1 &#10;&#10;Harvard Epidemiologist Martin Kulldorff: Hospitals Should Hire Nurses with Natural Immunity, Not Fire Them &#10;https://ept.ms/1026MartinKulldorff1 &#10;&#10;Victor Davis Hanson: The &#8216;Era of Intimidation,&#8217; Tribalism, and Elite Contempt for the Middle &#10;Class&#10;https://ept.ms/TheDyingCitizen1&#10;&#10;&#8216;I Want to Wake People Up&#8217;&#8212;Xi Van Fleet, Survivor of Mao&#8217;s Cultural Revolution&#10;https://ept.ms/NewCulturalRev1&#10;&#10;Sharri Markson: Unmasking the Wuhan Institute of Virology and the Origins of COVID-19&#10;https://ept.ms/CovidOriginsExpose1&#10;&#10;Dr. Jay Bhattacharya on Vaccine Mandates, Herd Immunity, and Why Zero COVID Is Impossible&#10;https://ept.ms/HerdImmunity1&#10;&#10;Clyde Prestowitz: How Communist China Entrapped America&#8217;s Elite, from Washington to Wall Street &#10;https://ept.ms/TheChinaTrap1  &#10;&#10;- - -&#10;OUR PLAYLISTS:&#10;&#10;The Communist China Threat:   https://ept.ms/atl_china   &#10;Culture Wars: https://ept.ms/atl_culturewar&#10;Traditional Values: https://ept.ms/atl_tradition&#10;Crossfire Hurricane / FISA Abuse:   https://ept.ms/atl_crossfirehurricane&#10;CCP Virus: https://ept.ms/atl_ccpvirus &#10;Media: https://ept.ms/atl_media&#10;Economy: https://ept.ms/atl_economy&#10;Education: https://ept.ms/atl_education&#10;&#10;- - -&#10;&#10;&#8216;We&#8217;re Distorting Children&#8217;&#8212;Larry Arnn on Critical Race Theory, Lockdowns, and Why a Nation Cannot Be Governed by Experts &#10;&#10;&#10;- - -&#10;&#10;Credits:&#10;&#10;shutterstock Images:  https://shutr.bz/2u8Zdp8&#10;Music:  Audioblocks.com,  epidemicsound.com&#10;Stock Video:  Videoblocks.com&#10;&#10;-------------------------------------------------&#10;&#169; All Rights Reserved."
+    channeltitle "American Thought Leaders - The Epoch Times"
+    channelid "UCmWhuFRkZKu0g-e1xrlakVA"
+    favcount 0
+    viewcount 3449
+    likecount 288
+    commentcount 20
+    duration "PT50S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "MissingLinkMedia|PartisanRight"
+    leftright "R"
     cluster 5
   ]
   node
   [
-    id 512
-    label "3wvdfn-id7k"
+    id 423
+    name "489"
+    label "r-7vnx7w41g"
     step 0
-    date "2022-07-08T14:41:18Z"
-    title "Oklahoma Gov. Calls For Special Audit Of Tulsa Schools Over CRT And Covid-19 Funding"
-    description "Oklahoma Gov. Kevin Stitt released a message on social media yesterday calling for a special audit of Tulsa schools. &#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
-    channeltitle "Forbes Breaking News"
-    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
+    date "2022-07-07T10:22:45Z"
+    title "Ryan Chapman on Postmodernism: DEBUNKED!"
+    description "Postmodern philosophy is often misunderstood, partially because it is very nuanced, but often because people do not fully understand the presuppositions that postmodernists rely on, nor do they understand the critique of modernity. &#10;&#10;In this video, I react to a video by Youtuber Ryan Chapman called &#8220;What is Postmodernism?&#8221; Chapman attempts to explain postmodernism and show its secret links to so-called Leftist identity politics. &#10;&#10;I have provided a plethora of citations, including the one&#8217;s Chapman uses in his video, but doesn&#8217;t provide any. &#10;&#10;00:00 Introduction&#10;00:32 Modernism&#10;01:06 Postmodernism&#10;02:03 Critique of Foundationalist Objectivity&#10;06:05 Social Constructivism&#10;09:05 Privilege/Exclusion&#10;11:57 Relativism&#10;17:04 Critique of Science&#10;18:37 Metanarratives &#10;20:55 Is IdPol Secretly PoMo in Disguise?&#10;27:36 Identity Politics&#10;31:45 Conclusion &#10;&#10;#postmodernism #philosophy #ryanchapman&#10;&#10;What is PostModernism? https://youtu.be/Zw1ucZEqQ78&#10;Let's Talk About Intersex [ANIMATION] &#8226; trf: https://www.youtube.com/watch?v=x4cnBDoC6yA&#10;&#10;&#10;R. Kelly &#38; The Politics of Truth: https://youtu.be/CpVPsQrbFks&#10;social constructs are not fake: https://youtube.com/shorts/wrGcW4_v_uU&#10;Post-Modernist Rejects Identity Politics | Judith Butler: https://youtu.be/rfT6c3RYSRo&#10;How to Philosophize With a Fork? https://youtu.be/4QYt83XBm4k&#10;is vs ought shorts: https://youtube.com/shorts/9CqSTQBGfrg&#10;&#10;&#10;Citations:&#10;&#10;Derrida, Jacques. Limited Inc. Northwestern Univ. Press, 2008. Buy here: https://amzn.to/3AyvlTw&#10;&#10;DeAngelo, Robin &#38; Ozlem Sensoy. Is Everyone Really Equal - An Introduction to Key Concepts in Social Justice Education. 2017: https://drive.google.com/file/d/1ei43L_sFRCx1R3vyaCzr1LPzLXbIhiCt/view?usp=sharing&#10;&#10;Crenshaw, Kimberle. &#8220;Mapping the Margins: Intersectionality, Identity Politics, &#38; Violence Against Women of Color&#8221;. 1989: https://drive.google.com/file/d/1tP8_HauZpBuE4EvBd19r26pUUa0pPkk-/view?usp=sharing&#10;&#10;Beauvoir, Simone de. The Second Sex. Vintage Books, 2011. Buy here: https://amzn.to/3AxTwBp&#10;&#10;Friedrich, Hegel Georg Wilhelm. Hegel's Phenomenology of Spirit. Oxford University Press, 1994. Buy here: https://amzn.to/3yO6ytf&#10;&#10;Baudrillard, Jean. The Gulf War Did Not Take Place. 1991: https://drive.google.com/file/d/1vFmNvBq6xENdbOKe49FPa5WQP3oPhM6I/view?usp=sharing&#10;&#10;hooks, bell. &#8220;Postmodern Blackness&#8221;. 1994: https://www.africa.upenn.edu/Articles_Gen/Postmodern_Blackness_18270.html&#10;&#10;Nietzsche, Friedrich Wilhelm. On the Genealogy of Morality: A Polemic. Buy here: https://amzn.to/33pWyZQ&#10;&#10;Butler, Judith. Gender Trouble: Feminism and the Subversion of Identity. Routledge, 2006. Buy here: https://amzn.to/3bjSfmM&#10;&#10;Michel Foucault, Discipline and Punish: The Birth of the Prison. Buy here: https://amzn.to/3Bgq1AO&#10;&#10;Foucault, Michel. Madness and Civilization: A History of Insanity in the Age of Reason. Translated by Richard Howard, Vintage Books, 2006. Buy here: https://amzn.to/3yjXzyB&#10;&#10;Foucault, Michel. Power/Knowledge: Selected Interviews and Other Writings 1972-1977. Buy here: https://amzn.to/30RPkfV&#10;&#10;Deere, Don T. &#8220;TRUTH.&#8221;&#160;The Cambridge Foucault Lexicon, edited by Leonard Lawlor and John Nale, Cambridge University Press, 2014, pp. 517&#8211;527.&#10;&#10;Pappas, Stephanie. &#8220;APA issues first-ever guidelines for practice with men and boys&#8221;. 2019. https://www.apa.org/monitor/2019/01/ce-corner&#10;&#10;Lyotard Jean-Franc&#807;ois. The Postmodern Condition: A Report on Knowledge. Translated by Geoff Bennington, Univ. of Minnesota Press, 2010. Buy here: https://amzn.to/3yXcv7r&#10;&#10;As an Amazon Associate, I earn from qualifying purchases.&#10;&#10;Check out my other strange thoughts:&#10;Website: https://strangecornersofthought.com/&#10;Facebook: https://www.facebook.com/ZachThoughts/&#10;Twitter: https://twitter.com/ZachCorners&#10;Youtube: https://www.youtube.com/channel/UCRymCptv1XzriVJmIFLh6bA&#10;Patreon: https://www.patreon.com/user?u=24027861"
+    channeltitle "Zach's Strange Corners of Thought"
+    channelid "UCRymCptv1XzriVJmIFLh6bA"
     favcount 0
-    viewcount 4687
-    likecount 638
-    commentcount 160
-    duration "PT1M54S"
+    viewcount 363
+    likecount 31
+    commentcount 9
+    duration "PT35M4S"
     indegree 0
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 541
-    label "1f1wrO9ok5g"
-    step 0
-    date "2021-01-13T19:20:06Z"
-    title "What Makes Critical Race Theory So Harmful to Our Society?"
-    description "#CriticalRaceTheory&#10;Chris Rufo breaks the issues that Critical Race Theory poses to our society while exposing the ideologies and beliefs that make up its core &#8212; and why they wouldn't actually lead to racial equality.&#10;&#10;Watch the full event, here: The New Intolerance: Critical Race Theory and Its Grip on America: https://youtu.be/imWcoo-2NYo&#10;&#10;Still haven&#8217;t subscribed to The Heritage Foundation on YouTube? Click here &#9658; https://bit.ly/2otKliy&#10;&#10;Follow The Heritage Foundation on Facebook: https://www.facebook.com/heritagefoundation/&#10;&#10;Follow The Heritage Foundation on Twitter: https://twitter.com/Heritage&#10;&#10;Follow The Heritage Foundation on Instagram: https://www.instagram.com/heritagefoundation/?hl=en"
-    channeltitle "The Heritage Foundation"
-    channelid "UC5bEfSFTYQVfLCwkhBt8NtQ"
-    favcount 0
-    viewcount 34148
-    likecount 1494
-    commentcount 393
-    duration "PT5M24S"
-    indegree 0
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 543
-    label "cMJ-kbmDLY4"
-    step 0
-    date "2022-02-28T19:00:24Z"
-    title "Critical Race Theory Is Race Marxism"
-    description "The New Discourses Podcast with James Lindsay, Episode 68&#10;&#10;James Lindsay recently released a new book titled Race Marxism: The Truth About Critical Race Theory and Praxis (http://racemarxism.com) that shot up to #14 on the Amazon.com bestsellers list in its opening week. As many will know, that book seeks to expose Critical Race Theory and follows a series of lectures Lindsay gave in Tampa, Florida, in July of 2021 (https://newdiscourses.com/tag/resisting-critical-race-theory-workshop/). Since the book is so broad and has so much to expose, there's even more to say about the specific claim in the title, that Critical Race Theory is Race Marxism. In this episode of the New Discourses Podcast, Lindsay goes into tremendous detail linking Marx's Theory of Communism directly to Critical Race Theory, showing in clear detail how Critical Race Theory reproduces those ideas in a new form that replaces economic class with race. For those seeking to understand Critical Race Theory, this episode of the New Discourses Podcast is therefore indispensable. Join James to fully understand how Critical Race Theory is, in fact, Race Marxism in the deepest possible way.&#10;&#10;Support New Discourses:&#10;https://www.paypal.me/newdiscourses&#10;https://newdiscourses.locals.com/support&#10;https://patreon.com/newdiscourses&#10;https://subscribestar.com/newdiscourses&#10;https://www.youtube.com/channel/UC9K5PLkj0N_b9JTPdSRwPkg/join&#10;&#10;Website:&#10;https://newdiscourses.com&#10;&#10;Follow:&#10;https://facebook.com/newdiscourses&#10;https://twitter.com/NewDiscourses&#10;https://instagram.com/newdiscourses &#10;https://newdiscourses.locals.com/&#10;https://pinterest.com/newdiscourses/&#10;https://linkedin.com/company/newdiscourses&#10;https://minds.com/newdiscourses&#10;https://reddit.com/r/NewDiscourses&#10;&#10;Podcast:&#10;https://soundcloud.com/newdiscourses&#10;https://podcasts.apple.com/us/podcast/new-discourses/id1499880546&#10;http://bit.ly/NDGooglePodcasts&#10;https://open.spotify.com/show/0HfzDaXI5L4LnJQStFWgZp&#10;https://stitcher.com/podcast/new-discourses&#10;&#10;&#169; 2022 New Discourses. All rights reserved."
-    channeltitle "New Discourses"
-    channelid "UC9K5PLkj0N_b9JTPdSRwPkg"
-    favcount 0
-    viewcount 31097
-    likecount 1576
-    commentcount 422
-    duration "PT1H49M40S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 544
+    id 424
+    name "496"
+    label "ZGhMvcS8oe8"
+    step 0
+    date "2022-07-10T23:58:45Z"
+    title "Abortion, Family, Queerness and Private Property with Sophie Lewis"
+    description "This week, Scott and William talk to Sophie Lewis, author of Full Surrogacy Now: Feminism Against Family and the soon-to-be-released Abolish The Family A Manifest for Care and Liberation (out in October, 2022) about the current political moment that is characterized by attacks on trans people and peoples reproductive abilities. They also talk through what creates this moment, where trans people come into the target of State power being weaponized by the far right, as well as the connections among these attacks against LGBT education, access to transition, access to abortion and critical race theory. Also discussed are some limitations of a legalization framework around abortion, as opposed to a decriminalization, the limits of liberalism (particularly liberal feminism), and also the ways that certain strains of feminism contribute to an anti-trans discourse. Finally, there is chat about how to approach people needing support people who need access to healthcare, whether it be transition or abortion, outside of the hands of the state.&#13;&#10;&#13;&#10; You can find Sophie on twitter at @ReproUtopoia and support her on Patreon at Patreon.com/ReproUtopia. You can find a children's book Sophie co-translated called Communism For Kids or a compilation she contributed to on the ecological crisis called Hope Against Hope.&#13;&#10;&#13;&#10; Opposing Torture [01:11:19 - 01:17:44]&#13;&#10;&#13;&#10; In Sean's segment, he mentions his new book, Opposing Torture, available from LittleBlackCart.Com&#13;&#10;&#13;&#10; . ... . ..&#13;&#10;&#13;&#10; Featuerd Track:  Trans Girls Need Guns by Flummox Roe v World by War On Women"
+    channeltitle "Final Straw"
+    channelid "UCTe87EmGzsBLPgyNyMi2q7g"
+    favcount 0
+    viewcount 13
+    likecount 3
+    commentcount 0
+    duration "PT1H19M53S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 425
+    name "513"
+    label "7RYMt6TrmNM"
+    step 0
+    date "2022-07-12T08:58:39Z"
+    title "RAGE AGAINST THE MACHINE IN THIN. DISTINCTIVELY FIERCE FORM ON THE FIRST SHOW IN 11 YEARS"
+    description "Rage Against The Machine in thin. distinctively fierce form on the first show in 11 years&#13;&#10;&#13;&#10;It's been a decade since lyrical bomb throwers Rage Against the Machine took the stage together. But Saturday night (July 9) at the sold out Alpine Valley Music Theater in East Troy. Wisconsin. the reunited radical rockers seemed to show no sign of rust as they treated the crowd of over 30.000 with a ferocious set of classics enriched with their proprietary blend of prisoner less messages.With a deep catalog of songs that go against conformity. groupthink and the legacy of racism. the group's comeback &#8211; repeatedly postponed due to the COVID 19 pandemic &#8211; right now seems perfectly poised to confront stark divisions in a country torn by arguments over what the truth means even more.According to Rolling Stone. the show started in typically raucous fashion for the band whose patented blend of rap. rock. metal and reportage at the level of the street has kept them in arena level headlining status despite two extended hiatuses since their split in 2000. The magazine reported that the set kicked off with 1992's 'Bombtrack'   during which the words 'Fear is Your Only God' flashed on the screen behind them   followed by classics such as 'People of the Sun' and 'Bulls on Parade.' The 90 minute show. of course. also included some of the band's expected provocations. including stage screen footage that included a burning El Paso police car. a helicopter zooming in on a group of refugees in a boat and the defiant phrase 'Drop the Supreme Court' just weeks after conservative justices overturned the landmark Roe v. Wade. Guitarist Tom Morello   who talks and often makes appearances with his nurturing mother   has also pushed some red status buttons as he playfully tweaks the non issue that has become the right wing's favorite stalking horse of late with an 'I Love CRT' t shirt for the latest songs from the show; although a slew of Republican lawmakers and parents have claimed that critical race theory at the college level is taught to elementary school students. there is no evidence that this is true. The show also featured the band running through a cover of Bruce Springsteen's 'The Ghost of Tom Joad.' which they hadn't played since their last date swing in 2000. as well as fan favorites such as 'Killing in the Name'. '. 'Bullet to the Head'. 'Know Your Enemy'. 'Testify'. 'Guerrilla Radio'. 'Sleep Now in the Fire' and 'War Within a Breath'. The gig was the band's first live performance since LA Rising on July 30. 2011; the next show on their public announcement tour will be on Monday. July 11 at the United Center in Chicago. Check out some fan videos and the full set list below. Rage Against the Machine at Alpine Valley. July 9. 2022: &#8220;Bombtrack&#8221; &#8220;People Of The Sun&#8221; &#8220;Bulls On Parade&#8221; &#8220;Bullet In The Head&#8221; &#8220;Testify&#8221; &#8220;Tire Me&#8221; &#8220;Wake Up&#8221; &#8220;Guerrilla Radio&#8221; &#8220;Sans One Face' 'Know Thy Enemy' 'Quiet as a Bomb' 'Sleep Now in the Fire' 'War in a Breath' 'The Ghost of Tom Joad' 'Freedom' 'Kill in the Name'&#13;&#10;&#13;&#10;#news"
+    channeltitle "VIDEO NEWS USA"
+    channelid "UC5v7JxlTuuTtfHmBssitROQ"
+    favcount 0
+    viewcount 0
+    likecount 0
+    commentcount 0
+    duration "PT2M40S"
+    indegree 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 10
+  ]
+  node
+  [
+    id 426
+    name "542"
+    label "gnHVFdKeTFk"
+    step 0
+    date "2021-06-12T18:51:35Z"
+    title "In Class with Carr, Ep. 66: Critical Race Theory and the Cold Civil War"
+    description "There is a #ColdCivilWar going on in the United States and the battlefront is &#34;history.&#34; Dr. Greg Carr and Karen explores &#34;CriticalRaceTheory, why we must reframe the American (and world) knarrative and why &#34;they&#34; will fight to the bitter to prevent the true narrative from being told. We will also speak with former #Flint, MI mayor Karen Weaver about power players. #OpheliaSettleEgypt #InClasswithCarr #OurStory"
+    channeltitle "Karen Hunter Show"
+    channelid "UCVbKWqUXDRdspaJ2v-prwnQ"
+    favcount 0
+    viewcount 56513
+    likecount 4348
+    commentcount 296
+    duration "PT2H36M47S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Black|SocialJustice"
+    leftright "L"
+    cluster 5
+  ]
+  node
+  [
+    id 427
+    name "544"
     label "zxu3wdiXRF0"
     step 0
     date "2021-06-04T03:25:35Z"
@@ -8151,12 +12830,23 @@ graph
     commentcount 13107
     duration "PT11M10S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 545
+    id 428
+    name "545"
     label "PFZbY1ALflU"
     step 0
     date "2021-06-18T02:21:21Z"
@@ -8170,31 +12860,53 @@ graph
     commentcount 979
     duration "PT4M41S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "PartisanRight"
+    leftright "R"
     cluster 3
   ]
   node
   [
-    id 547
-    label "5FtqpHUgt9c"
+    id 429
+    name "546"
+    label "A4CjtcvoeEw"
     step 0
-    date "2020-09-18T18:45:28Z"
-    title "Steven Deconstructs Critical Race Theory (aka Mental-Illness) | Louder With Crowder"
-    description "Critical Race Theory seems to lack some critical thinking.&#10;&#10;Full Stream:&#10;&#10;Want to watch the full show every day? Join #MugClub! http://louderwithcrowder.com/mugclub&#13;&#10;&#13;&#10;Use promo codes &#34;student&#34; &#34;veteran&#34; &#34;military&#34; to get daily access for $69/year!&#13;&#10;&#13;&#10;Shop the official #LWC store: http://louderwithcrowdershop.com&#13;&#10;&#13;&#10;Follow me on Twitter: https://twitter.com/scrowder&#13;&#10;Like me on Facebook: https://www.facebook.com/stevencrowder &#13;&#10;&#13;&#10;Find behind the scenes footage on instagram: http://www.instagram.com/louderwithcrowder&#13;&#10;&#13;&#10;&#34;Eat My Butt&#34;"
-    channeltitle "CrowderBits"
-    channelid "UCMAtX9eFBpwc4LtgvbqsOpQ"
+    date "2020-10-04T14:59:13Z"
+    title "Critical Race Theory is Driving Britain Mad"
+    description "The institutions of Britain seem to be completely in thrall to intersectional social justice and this has caused the creation of a &#34;race council&#34; in Wales and Sainsbury's supermarket to create racially-segregated spaces. &#10;&#10;Follow me on Parler: https://parler.com/profile/sargon/posts&#10;Follow me on Bitchute: https://www.bitchute.com/profile/JnQkBKkHmwuP/&#10;&#10;You can support me via: &#10;    Paypal: https://www.paypal.me/sargonofakkad &#10;    SubscribeStar: https://www.subscribestar.com/sargon&#10;    Bitcoin: 3F88QMRVaNdHqcufuQB2jRq6j3szR5Uddh&#10;    Merch: https://www.redbubble.com/people/Sargon-of-Akkad/explore?asc=u&#38;page=1&#38;sortOrder=recent&#10;&#10;Other social media: &#10;    Gab: https://gab.com/Sargonofakkad100&#10;    Minds: https://www.minds.com/Sargon_of_Akkad&#10;    Facebook: https://www.facebook.com/sargonofakkad100/"
+    channeltitle "Akkad Daily"
+    channelid "UCitU2-w3XE8ujvUZjcAnhIg"
     favcount 0
-    viewcount 190104
-    likecount 10212
-    commentcount 559
-    duration "PT6M42S"
+    viewcount 182794
+    likecount 15508
+    commentcount 2950
+    duration "PT18M3S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "AntiSJW|PartisanRight"
+    leftright "R"
+    cluster 2
   ]
   node
   [
-    id 548
+    id 430
+    name "548"
     label "Xwt-8WwiAIk"
     step 0
     date "2022-05-11T13:00:19Z"
@@ -8208,12 +12920,23 @@ graph
     commentcount 3
     duration "PT5M5S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 549
+    id 431
+    name "549"
     label "E5IVd4T3A1M"
     step 0
     date "2022-02-05T20:00:11Z"
@@ -8227,7 +12950,17 @@ graph
     commentcount 543
     duration "PT1H18M23S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVETHREAT NaN
+    sentiment NaN
+    channeltags "Conspiracy|PartisanRight|ReligiousConservative"
+    leftright "R"
     cluster 1
   ]
   edge
@@ -8269,7 +13002,7 @@ graph
   edge
   [
     source 0
-    target 213
+    target 205
     rank 7
   ]
   edge
@@ -8299,7 +13032,7 @@ graph
   edge
   [
     source 0
-    target 209
+    target 201
     rank 12
   ]
   edge
@@ -8455,7 +13188,7 @@ graph
   edge
   [
     source 3
-    target 215
+    target 207
     rank 11
   ]
   edge
@@ -8515,7 +13248,7 @@ graph
   edge
   [
     source 4
-    target 139
+    target 136
     rank 18
   ]
   edge
@@ -8623,7 +13356,7 @@ graph
   edge
   [
     source 7
-    target 209
+    target 201
     rank 4
   ]
   edge
@@ -8719,7 +13452,7 @@ graph
   edge
   [
     source 8
-    target 214
+    target 206
     rank 6
   ]
   edge
@@ -8755,7 +13488,7 @@ graph
   edge
   [
     source 8
-    target 209
+    target 201
     rank 13
   ]
   edge
@@ -8821,7 +13554,7 @@ graph
   edge
   [
     source 9
-    target 209
+    target 201
     rank 10
   ]
   edge
@@ -8845,7 +13578,7 @@ graph
   edge
   [
     source 9
-    target 213
+    target 205
     rank 14
   ]
   edge
@@ -8863,7 +13596,7 @@ graph
   edge
   [
     source 9
-    target 131
+    target 130
     rank 19
   ]
   edge
@@ -8953,7 +13686,7 @@ graph
   edge
   [
     source 11
-    target 139
+    target 136
     rank 9
   ]
   edge
@@ -8977,7 +13710,7 @@ graph
   edge
   [
     source 11
-    target 209
+    target 201
     rank 16
   ]
   edge
@@ -9109,7 +13842,7 @@ graph
   edge
   [
     source 13
-    target 209
+    target 201
     rank 11
   ]
   edge
@@ -9229,7 +13962,7 @@ graph
   edge
   [
     source 14
-    target 139
+    target 136
     rank 18
   ]
   edge
@@ -9397,7 +14130,7 @@ graph
   edge
   [
     source 17
-    target 209
+    target 201
     rank 11
   ]
   edge
@@ -9427,7 +14160,7 @@ graph
   edge
   [
     source 17
-    target 214
+    target 206
     rank 20
   ]
   edge
@@ -9535,13 +14268,13 @@ graph
   edge
   [
     source 22
-    target 302
+    target 283
     rank 3
   ]
   edge
   [
     source 22
-    target 202
+    target 194
     rank 7
   ]
   edge
@@ -9613,7 +14346,7 @@ graph
   edge
   [
     source 23
-    target 173
+    target 166
     rank 10
   ]
   edge
@@ -9679,7 +14412,7 @@ graph
   edge
   [
     source 25
-    target 214
+    target 206
     rank 3
   ]
   edge
@@ -9733,7 +14466,7 @@ graph
   edge
   [
     source 25
-    target 202
+    target 194
     rank 19
   ]
   edge
@@ -9745,7 +14478,7 @@ graph
   edge
   [
     source 26
-    target 202
+    target 194
     rank 13
   ]
   edge
@@ -9787,7 +14520,7 @@ graph
   edge
   [
     source 27
-    target 209
+    target 201
     rank 9
   ]
   edge
@@ -9805,7 +14538,7 @@ graph
   edge
   [
     source 27
-    target 213
+    target 205
     rank 12
   ]
   edge
@@ -9823,7 +14556,7 @@ graph
   edge
   [
     source 28
-    target 214
+    target 206
     rank 1
   ]
   edge
@@ -9841,7 +14574,7 @@ graph
   edge
   [
     source 28
-    target 198
+    target 191
     rank 7
   ]
   edge
@@ -9877,7 +14610,7 @@ graph
   edge
   [
     source 28
-    target 162
+    target 157
     rank 15
   ]
   edge
@@ -10009,7 +14742,7 @@ graph
   edge
   [
     source 30
-    target 209
+    target 201
     rank 16
   ]
   edge
@@ -10021,7 +14754,7 @@ graph
   edge
   [
     source 30
-    target 162
+    target 157
     rank 20
   ]
   edge
@@ -10063,25 +14796,25 @@ graph
   edge
   [
     source 32
-    target 233
+    target 225
     rank 16
   ]
   edge
   [
     source 32
-    target 446
+    target 405
     rank 20
   ]
   edge
   [
     source 33
-    target 153
+    target 149
     rank 10
   ]
   edge
   [
     source 33
-    target 202
+    target 194
     rank 18
   ]
   edge
@@ -10171,7 +14904,7 @@ graph
   edge
   [
     source 37
-    target 173
+    target 166
     rank 14
   ]
   edge
@@ -10207,7 +14940,7 @@ graph
   edge
   [
     source 38
-    target 148
+    target 144
     rank 12
   ]
   edge
@@ -10273,7 +15006,7 @@ graph
   edge
   [
     source 39
-    target 146
+    target 142
     rank 12
   ]
   edge
@@ -10327,7 +15060,7 @@ graph
   edge
   [
     source 41
-    target 173
+    target 166
     rank 7
   ]
   edge
@@ -10435,13 +15168,13 @@ graph
   edge
   [
     source 44
-    target 146
+    target 142
     rank 7
   ]
   edge
   [
     source 44
-    target 209
+    target 201
     rank 8
   ]
   edge
@@ -10483,7 +15216,7 @@ graph
   edge
   [
     source 44
-    target 280
+    target 265
     rank 19
   ]
   edge
@@ -10555,7 +15288,7 @@ graph
   edge
   [
     source 46
-    target 139
+    target 136
     rank 7
   ]
   edge
@@ -10585,7 +15318,7 @@ graph
   edge
   [
     source 46
-    target 173
+    target 166
     rank 14
   ]
   edge
@@ -10621,7 +15354,7 @@ graph
   edge
   [
     source 47
-    target 152
+    target 148
     rank 7
   ]
   edge
@@ -10639,7 +15372,7 @@ graph
   edge
   [
     source 47
-    target 158
+    target 153
     rank 12
   ]
   edge
@@ -10657,7 +15390,7 @@ graph
   edge
   [
     source 48
-    target 214
+    target 206
     rank 2
   ]
   edge
@@ -10693,7 +15426,7 @@ graph
   edge
   [
     source 49
-    target 214
+    target 206
     rank 5
   ]
   edge
@@ -10717,13 +15450,13 @@ graph
   edge
   [
     source 49
-    target 131
+    target 130
     rank 14
   ]
   edge
   [
     source 49
-    target 173
+    target 166
     rank 16
   ]
   edge
@@ -10759,19 +15492,19 @@ graph
   edge
   [
     source 50
-    target 129
+    target 128
     rank 4
   ]
   edge
   [
     source 50
-    target 173
+    target 166
     rank 5
   ]
   edge
   [
     source 50
-    target 131
+    target 130
     rank 12
   ]
   edge
@@ -10801,7 +15534,7 @@ graph
   edge
   [
     source 51
-    target 173
+    target 166
     rank 5
   ]
   edge
@@ -10813,13 +15546,13 @@ graph
   edge
   [
     source 51
-    target 164
+    target 159
     rank 10
   ]
   edge
   [
     source 51
-    target 172
+    target 165
     rank 11
   ]
   edge
@@ -10867,7 +15600,7 @@ graph
   edge
   [
     source 52
-    target 202
+    target 194
     rank 14
   ]
   edge
@@ -10927,7 +15660,7 @@ graph
   edge
   [
     source 54
-    target 159
+    target 154
     rank 7
   ]
   edge
@@ -10945,13 +15678,13 @@ graph
   edge
   [
     source 56
-    target 173
+    target 166
     rank 2
   ]
   edge
   [
     source 56
-    target 237
+    target 229
     rank 6
   ]
   edge
@@ -11053,13 +15786,13 @@ graph
   edge
   [
     source 59
-    target 139
+    target 136
     rank 1
   ]
   edge
   [
     source 59
-    target 173
+    target 166
     rank 2
   ]
   edge
@@ -11089,7 +15822,7 @@ graph
   edge
   [
     source 59
-    target 209
+    target 201
     rank 11
   ]
   edge
@@ -11179,13 +15912,13 @@ graph
   edge
   [
     source 61
-    target 173
+    target 166
     rank 3
   ]
   edge
   [
     source 61
-    target 151
+    target 147
     rank 4
   ]
   edge
@@ -11197,7 +15930,7 @@ graph
   edge
   [
     source 61
-    target 131
+    target 130
     rank 10
   ]
   edge
@@ -11239,7 +15972,7 @@ graph
   edge
   [
     source 62
-    target 202
+    target 194
     rank 12
   ]
   edge
@@ -11257,7 +15990,7 @@ graph
   edge
   [
     source 63
-    target 173
+    target 166
     rank 4
   ]
   edge
@@ -11281,13 +16014,13 @@ graph
   edge
   [
     source 63
-    target 151
+    target 147
     rank 13
   ]
   edge
   [
     source 63
-    target 172
+    target 165
     rank 15
   ]
   edge
@@ -11341,7 +16074,7 @@ graph
   edge
   [
     source 65
-    target 281
+    target 266
     rank 20
   ]
   edge
@@ -11359,7 +16092,7 @@ graph
   edge
   [
     source 66
-    target 302
+    target 283
     rank 18
   ]
   edge
@@ -11413,7 +16146,7 @@ graph
   edge
   [
     source 68
-    target 209
+    target 201
     rank 13
   ]
   edge
@@ -11455,7 +16188,7 @@ graph
   edge
   [
     source 69
-    target 146
+    target 142
     rank 3
   ]
   edge
@@ -11515,7 +16248,7 @@ graph
   edge
   [
     source 71
-    target 159
+    target 154
     rank 4
   ]
   edge
@@ -11533,13 +16266,13 @@ graph
   edge
   [
     source 71
-    target 139
+    target 136
     rank 8
   ]
   edge
   [
     source 71
-    target 209
+    target 201
     rank 9
   ]
   edge
@@ -11581,7 +16314,7 @@ graph
   edge
   [
     source 71
-    target 173
+    target 166
     rank 17
   ]
   edge
@@ -11623,7 +16356,7 @@ graph
   edge
   [
     source 72
-    target 274
+    target 260
     rank 17
   ]
   edge
@@ -11635,13 +16368,13 @@ graph
   edge
   [
     source 72
-    target 190
+    target 183
     rank 20
   ]
   edge
   [
     source 73
-    target 173
+    target 166
     rank 1
   ]
   edge
@@ -11653,7 +16386,7 @@ graph
   edge
   [
     source 73
-    target 202
+    target 194
     rank 4
   ]
   edge
@@ -11665,19 +16398,19 @@ graph
   edge
   [
     source 73
-    target 302
+    target 283
     rank 6
   ]
   edge
   [
     source 73
-    target 274
+    target 260
     rank 8
   ]
   edge
   [
     source 73
-    target 167
+    target 162
     rank 9
   ]
   edge
@@ -11701,7 +16434,7 @@ graph
   edge
   [
     source 73
-    target 190
+    target 183
     rank 17
   ]
   edge
@@ -11737,7 +16470,7 @@ graph
   edge
   [
     source 74
-    target 173
+    target 166
     rank 4
   ]
   edge
@@ -11749,7 +16482,7 @@ graph
   edge
   [
     source 74
-    target 185
+    target 178
     rank 15
   ]
   edge
@@ -11767,7 +16500,7 @@ graph
   edge
   [
     source 75
-    target 209
+    target 201
     rank 2
   ]
   edge
@@ -11815,7 +16548,7 @@ graph
   edge
   [
     source 75
-    target 280
+    target 265
     rank 18
   ]
   edge
@@ -11839,7 +16572,7 @@ graph
   edge
   [
     source 78
-    target 153
+    target 149
     rank 13
   ]
   edge
@@ -11857,7 +16590,7 @@ graph
   edge
   [
     source 79
-    target 162
+    target 157
     rank 9
   ]
   edge
@@ -11899,7 +16632,7 @@ graph
   edge
   [
     source 82
-    target 214
+    target 206
     rank 3
   ]
   edge
@@ -11935,7 +16668,7 @@ graph
   edge
   [
     source 82
-    target 152
+    target 148
     rank 16
   ]
   edge
@@ -11977,7 +16710,7 @@ graph
   edge
   [
     source 84
-    target 151
+    target 147
     rank 5
   ]
   edge
@@ -12007,7 +16740,7 @@ graph
   edge
   [
     source 84
-    target 146
+    target 142
     rank 18
   ]
   edge
@@ -12019,7 +16752,7 @@ graph
   edge
   [
     source 85
-    target 214
+    target 206
     rank 1
   ]
   edge
@@ -12067,7 +16800,7 @@ graph
   edge
   [
     source 85
-    target 148
+    target 144
     rank 11
   ]
   edge
@@ -12085,7 +16818,7 @@ graph
   edge
   [
     source 85
-    target 173
+    target 166
     rank 15
   ]
   edge
@@ -12109,7 +16842,7 @@ graph
   edge
   [
     source 86
-    target 348
+    target 322
     rank 17
   ]
   edge
@@ -12157,7 +16890,7 @@ graph
   edge
   [
     source 87
-    target 153
+    target 149
     rank 12
   ]
   edge
@@ -12169,7 +16902,7 @@ graph
   edge
   [
     source 87
-    target 139
+    target 136
     rank 14
   ]
   edge
@@ -12235,7 +16968,7 @@ graph
   edge
   [
     source 88
-    target 209
+    target 201
     rank 14
   ]
   edge
@@ -12253,7 +16986,7 @@ graph
   edge
   [
     source 88
-    target 213
+    target 205
     rank 18
   ]
   edge
@@ -12313,7 +17046,7 @@ graph
   edge
   [
     source 91
-    target 209
+    target 201
     rank 1
   ]
   edge
@@ -12355,7 +17088,7 @@ graph
   edge
   [
     source 91
-    target 131
+    target 130
     rank 16
   ]
   edge
@@ -12421,13 +17154,13 @@ graph
   edge
   [
     source 95
-    target 173
+    target 166
     rank 1
   ]
   edge
   [
     source 95
-    target 131
+    target 130
     rank 2
   ]
   edge
@@ -12439,7 +17172,7 @@ graph
   edge
   [
     source 95
-    target 151
+    target 147
     rank 7
   ]
   edge
@@ -12457,7 +17190,7 @@ graph
   edge
   [
     source 96
-    target 215
+    target 207
     rank 1
   ]
   edge
@@ -12469,7 +17202,7 @@ graph
   edge
   [
     source 96
-    target 209
+    target 201
     rank 3
   ]
   edge
@@ -12481,7 +17214,7 @@ graph
   edge
   [
     source 96
-    target 131
+    target 130
     rank 5
   ]
   edge
@@ -12523,13 +17256,13 @@ graph
   edge
   [
     source 96
-    target 213
+    target 205
     rank 18
   ]
   edge
   [
     source 96
-    target 280
+    target 265
     rank 20
   ]
   edge
@@ -12547,7 +17280,7 @@ graph
   edge
   [
     source 97
-    target 209
+    target 201
     rank 4
   ]
   edge
@@ -12565,19 +17298,19 @@ graph
   edge
   [
     source 97
-    target 148
+    target 144
     rank 11
   ]
   edge
   [
     source 97
-    target 213
+    target 205
     rank 15
   ]
   edge
   [
     source 97
-    target 158
+    target 153
     rank 17
   ]
   edge
@@ -12589,7 +17322,7 @@ graph
   edge
   [
     source 98
-    target 281
+    target 266
     rank 12
   ]
   edge
@@ -12631,7 +17364,7 @@ graph
   edge
   [
     source 99
-    target 129
+    target 128
     rank 20
   ]
   edge
@@ -12661,19 +17394,19 @@ graph
   edge
   [
     source 100
-    target 281
+    target 266
     rank 11
   ]
   edge
   [
     source 100
-    target 214
+    target 206
     rank 13
   ]
   edge
   [
     source 100
-    target 155
+    target 151
     rank 17
   ]
   edge
@@ -12733,7 +17466,7 @@ graph
   edge
   [
     source 103
-    target 209
+    target 201
     rank 2
   ]
   edge
@@ -12751,13 +17484,13 @@ graph
   edge
   [
     source 103
-    target 351
+    target 324
     rank 10
   ]
   edge
   [
     source 103
-    target 151
+    target 147
     rank 11
   ]
   edge
@@ -12769,13 +17502,13 @@ graph
   edge
   [
     source 103
-    target 280
+    target 265
     rank 17
   ]
   edge
   [
     source 103
-    target 292
+    target 275
     rank 18
   ]
   edge
@@ -12811,7 +17544,7 @@ graph
   edge
   [
     source 104
-    target 173
+    target 166
     rank 15
   ]
   edge
@@ -12823,13 +17556,13 @@ graph
   edge
   [
     source 105
-    target 162
+    target 157
     rank 5
   ]
   edge
   [
     source 105
-    target 151
+    target 147
     rank 6
   ]
   edge
@@ -12853,13 +17586,13 @@ graph
   edge
   [
     source 105
-    target 212
+    target 204
     rank 17
   ]
   edge
   [
     source 107
-    target 198
+    target 191
     rank 5
   ]
   edge
@@ -12871,13 +17604,13 @@ graph
   edge
   [
     source 107
-    target 302
+    target 283
     rank 14
   ]
   edge
   [
     source 108
-    target 214
+    target 206
     rank 4
   ]
   edge
@@ -12907,7 +17640,7 @@ graph
   edge
   [
     source 109
-    target 148
+    target 144
     rank 1
   ]
   edge
@@ -12961,7 +17694,7 @@ graph
   edge
   [
     source 112
-    target 348
+    target 322
     rank 9
   ]
   edge
@@ -13045,13 +17778,13 @@ graph
   edge
   [
     source 115
-    target 215
+    target 207
     rank 4
   ]
   edge
   [
     source 115
-    target 187
+    target 180
     rank 13
   ]
   edge
@@ -13081,7 +17814,7 @@ graph
   edge
   [
     source 118
-    target 148
+    target 144
     rank 14
   ]
   edge
@@ -13117,7 +17850,7 @@ graph
   edge
   [
     source 121
-    target 173
+    target 166
     rank 6
   ]
   edge
@@ -13141,7 +17874,7 @@ graph
   edge
   [
     source 122
-    target 151
+    target 147
     rank 4
   ]
   edge
@@ -13153,7 +17886,7 @@ graph
   edge
   [
     source 122
-    target 280
+    target 265
     rank 11
   ]
   edge
@@ -13177,13 +17910,13 @@ graph
   edge
   [
     source 122
-    target 209
+    target 201
     rank 20
   ]
   edge
   [
     source 123
-    target 214
+    target 206
     rank 1
   ]
   edge
@@ -13219,13 +17952,13 @@ graph
   edge
   [
     source 124
-    target 202
+    target 194
     rank 2
   ]
   edge
   [
     source 124
-    target 192
+    target 185
     rank 4
   ]
   edge
@@ -13273,19 +18006,19 @@ graph
   edge
   [
     source 125
-    target 214
+    target 206
     rank 5
   ]
   edge
   [
     source 125
-    target 244
+    target 235
     rank 8
   ]
   edge
   [
     source 126
-    target 214
+    target 206
     rank 1
   ]
   edge
@@ -13297,7 +18030,7 @@ graph
   edge
   [
     source 126
-    target 148
+    target 144
     rank 3
   ]
   edge
@@ -13338,6920 +18071,6866 @@ graph
   ]
   edge
   [
-    source 129
+    source 128
     target 31
+    rank 15
+  ]
+  edge
+  [
+    source 129
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 130
+    target 96
+    rank 1
+  ]
+  edge
+  [
+    source 130
+    target 15
+    rank 5
+  ]
+  edge
+  [
+    source 130
+    target 201
+    rank 7
+  ]
+  edge
+  [
+    source 130
+    target 166
+    rank 10
+  ]
+  edge
+  [
+    source 130
+    target 103
+    rank 11
+  ]
+  edge
+  [
+    source 130
+    target 4
+    rank 13
+  ]
+  edge
+  [
+    source 130
+    target 265
     rank 15
   ]
   edge
   [
     source 130
-    target 6
-    rank 18
-  ]
-  edge
-  [
-    source 131
-    target 96
-    rank 1
-  ]
-  edge
-  [
-    source 131
-    target 15
-    rank 5
-  ]
-  edge
-  [
-    source 131
-    target 209
-    rank 7
-  ]
-  edge
-  [
-    source 131
-    target 173
-    rank 10
-  ]
-  edge
-  [
-    source 131
-    target 103
-    rank 11
-  ]
-  edge
-  [
-    source 131
-    target 4
-    rank 13
-  ]
-  edge
-  [
-    source 131
-    target 280
-    rank 15
-  ]
-  edge
-  [
-    source 131
     target 13
     rank 16
   ]
   edge
   [
-    source 131
+    source 130
     target 11
     rank 17
   ]
   edge
   [
-    source 132
-    target 214
+    source 131
+    target 206
     rank 1
   ]
   edge
   [
-    source 132
-    target 148
+    source 131
+    target 144
     rank 2
   ]
   edge
   [
-    source 133
+    source 132
     target 11
     rank 1
   ]
   edge
   [
-    source 133
+    source 132
     target 15
     rank 2
   ]
   edge
   [
-    source 133
-    target 209
+    source 132
+    target 201
     rank 3
   ]
   edge
   [
-    source 133
+    source 132
     target 103
     rank 5
   ]
   edge
   [
-    source 133
-    target 131
+    source 132
+    target 130
     rank 6
   ]
   edge
   [
-    source 133
+    source 132
     target 19
     rank 9
   ]
   edge
   [
-    source 133
+    source 132
     target 6
     rank 12
   ]
   edge
   [
-    source 133
+    source 132
     target 122
     rank 15
   ]
   edge
   [
-    source 133
-    target 206
+    source 132
+    target 198
     rank 17
   ]
   edge
   [
-    source 135
+    source 133
     target 77
     rank 1
   ]
   edge
   [
-    source 135
+    source 133
     target 81
     rank 11
   ]
   edge
   [
-    source 135
-    target 194
+    source 133
+    target 187
     rank 14
   ]
   edge
   [
-    source 135
-    target 164
+    source 133
+    target 159
     rank 16
   ]
   edge
   [
-    source 135
+    source 133
     target 33
     rank 20
   ]
   edge
   [
-    source 137
+    source 134
     target 11
     rank 2
   ]
   edge
   [
-    source 137
-    target 309
+    source 134
+    target 290
     rank 5
   ]
   edge
   [
-    source 137
+    source 134
     target 0
     rank 9
   ]
   edge
   [
-    source 137
-    target 164
+    source 134
+    target 159
     rank 11
   ]
   edge
   [
-    source 137
-    target 236
+    source 134
+    target 228
     rank 17
   ]
   edge
   [
-    source 137
+    source 134
     target 6
     rank 20
   ]
   edge
   [
-    source 138
+    source 135
     target 23
     rank 1
   ]
   edge
   [
-    source 138
+    source 135
     target 15
     rank 2
   ]
   edge
   [
-    source 138
+    source 135
     target 33
     rank 5
   ]
   edge
   [
-    source 138
+    source 135
     target 11
     rank 7
   ]
   edge
   [
-    source 138
-    target 348
+    source 135
+    target 322
     rank 11
   ]
   edge
   [
-    source 138
-    target 389
+    source 135
+    target 354
     rank 20
   ]
   edge
   [
-    source 139
+    source 136
     target 71
     rank 1
   ]
   edge
   [
-    source 139
+    source 136
     target 19
     rank 4
   ]
   edge
   [
-    source 139
+    source 136
     target 11
     rank 6
   ]
   edge
   [
-    source 139
+    source 136
     target 88
     rank 7
   ]
   edge
   [
-    source 139
+    source 136
     target 20
     rank 8
   ]
   edge
   [
-    source 139
-    target 209
+    source 136
+    target 201
     rank 9
   ]
   edge
   [
-    source 139
+    source 136
     target 49
     rank 11
   ]
   edge
   [
-    source 139
+    source 136
     target 1
     rank 12
   ]
   edge
   [
-    source 139
+    source 136
     target 4
     rank 14
   ]
   edge
   [
-    source 139
+    source 136
     target 7
     rank 15
   ]
   edge
   [
-    source 139
+    source 136
     target 122
     rank 16
   ]
   edge
   [
-    source 139
+    source 136
     target 59
     rank 18
   ]
   edge
   [
-    source 139
+    source 136
     target 63
     rank 19
   ]
   edge
   [
-    source 139
+    source 136
     target 30
     rank 20
   ]
   edge
   [
-    source 140
-    target 146
+    source 137
+    target 142
     rank 1
   ]
   edge
   [
-    source 140
+    source 137
     target 15
     rank 3
   ]
   edge
   [
-    source 140
+    source 137
     target 11
     rank 6
   ]
   edge
   [
-    source 140
+    source 137
     target 4
     rank 10
   ]
   edge
   [
-    source 140
-    target 202
+    source 137
+    target 194
     rank 13
   ]
   edge
   [
-    source 140
+    source 137
     target 43
     rank 18
   ]
   edge
   [
-    source 141
-    target 159
+    source 138
+    target 154
     rank 4
   ]
   edge
   [
-    source 141
+    source 138
     target 127
     rank 9
   ]
   edge
   [
-    source 142
+    source 139
     target 65
     rank 2
   ]
   edge
   [
-    source 142
+    source 139
     target 23
     rank 3
   ]
   edge
   [
-    source 142
+    source 139
     target 15
     rank 4
   ]
   edge
   [
-    source 142
-    target 131
+    source 139
+    target 130
     rank 5
   ]
   edge
   [
-    source 142
+    source 139
     target 1
     rank 6
   ]
   edge
   [
-    source 142
+    source 139
     target 20
     rank 9
   ]
   edge
   [
-    source 142
+    source 139
     target 8
     rank 10
   ]
   edge
   [
-    source 142
+    source 139
     target 4
     rank 14
   ]
   edge
   [
-    source 142
+    source 139
     target 66
     rank 16
   ]
   edge
   [
-    source 142
+    source 139
     target 78
     rank 18
   ]
   edge
   [
-    source 143
+    source 140
     target 37
     rank 2
   ]
   edge
   [
-    source 143
+    source 140
     target 7
     rank 3
   ]
   edge
   [
-    source 143
+    source 140
     target 6
     rank 5
   ]
   edge
   [
-    source 143
-    target 181
+    source 140
+    target 174
     rank 6
   ]
   edge
   [
-    source 143
+    source 140
     target 33
     rank 11
   ]
   edge
   [
-    source 145
+    source 141
     target 24
     rank 1
   ]
   edge
   [
-    source 146
+    source 142
     target 39
     rank 2
   ]
   edge
   [
-    source 146
+    source 142
     target 88
     rank 6
   ]
   edge
   [
-    source 146
+    source 142
     target 6
     rank 7
   ]
   edge
   [
-    source 146
+    source 142
     target 90
     rank 9
   ]
   edge
   [
-    source 146
+    source 142
     target 11
     rank 17
   ]
   edge
   [
-    source 147
+    source 143
     target 19
     rank 3
   ]
   edge
   [
-    source 147
+    source 143
     target 4
     rank 6
   ]
   edge
   [
-    source 147
+    source 143
     target 33
     rank 7
   ]
   edge
   [
-    source 147
+    source 143
     target 35
     rank 8
   ]
   edge
   [
-    source 147
+    source 143
     target 6
     rank 9
   ]
   edge
   [
-    source 147
-    target 162
+    source 143
+    target 157
     rank 10
   ]
   edge
   [
-    source 147
-    target 302
+    source 143
+    target 283
     rank 18
   ]
   edge
   [
-    source 147
-    target 271
+    source 143
+    target 257
     rank 19
   ]
   edge
   [
-    source 147
-    target 446
+    source 143
+    target 405
     rank 20
   ]
   edge
   [
-    source 148
+    source 144
     target 21
     rank 5
   ]
   edge
   [
-    source 148
+    source 144
     target 15
     rank 7
   ]
   edge
   [
-    source 148
+    source 144
     target 12
     rank 8
   ]
   edge
   [
-    source 148
+    source 144
     target 117
     rank 18
   ]
   edge
   [
-    source 149
-    target 223
+    source 145
+    target 215
     rank 10
   ]
   edge
   [
-    source 149
-    target 215
+    source 145
+    target 207
     rank 12
   ]
   edge
   [
-    source 150
-    target 167
+    source 146
+    target 162
     rank 18
   ]
   edge
   [
-    source 151
+    source 147
     target 15
     rank 1
   ]
   edge
   [
-    source 151
+    source 147
     target 24
     rank 2
   ]
   edge
   [
-    source 151
-    target 173
+    source 147
+    target 166
     rank 7
   ]
   edge
   [
-    source 151
+    source 147
     target 4
     rank 10
   ]
   edge
   [
-    source 151
-    target 215
+    source 147
+    target 207
     rank 16
   ]
   edge
   [
-    source 151
+    source 147
     target 19
     rank 17
   ]
   edge
   [
-    source 153
+    source 149
     target 15
     rank 3
   ]
   edge
   [
-    source 153
+    source 149
     target 11
     rank 4
   ]
   edge
   [
-    source 153
+    source 149
     target 4
     rank 5
   ]
   edge
   [
-    source 153
+    source 149
     target 22
     rank 7
   ]
   edge
   [
-    source 153
+    source 149
     target 19
     rank 8
   ]
   edge
   [
-    source 153
+    source 149
     target 81
     rank 9
   ]
   edge
   [
-    source 153
+    source 149
     target 33
     rank 10
   ]
   edge
   [
-    source 153
-    target 202
+    source 149
+    target 194
     rank 12
   ]
   edge
   [
-    source 153
-    target 302
+    source 149
+    target 283
     rank 19
   ]
   edge
   [
-    source 153
+    source 149
     target 10
     rank 20
   ]
   edge
   [
-    source 154
+    source 150
     target 83
     rank 11
   ]
   edge
   [
-    source 155
+    source 151
     target 4
     rank 1
   ]
   edge
   [
-    source 158
-    target 159
+    source 153
+    target 154
     rank 2
   ]
   edge
   [
-    source 158
+    source 153
     target 117
     rank 10
   ]
   edge
   [
-    source 158
+    source 153
     target 6
     rank 13
   ]
   edge
   [
-    source 159
-    target 148
+    source 154
+    target 144
     rank 1
   ]
   edge
   [
-    source 159
-    target 215
+    source 154
+    target 207
     rank 2
   ]
   edge
   [
-    source 159
-    target 173
+    source 154
+    target 166
     rank 7
   ]
   edge
   [
-    source 159
-    target 151
+    source 154
+    target 147
     rank 9
   ]
   edge
   [
-    source 159
+    source 154
     target 54
     rank 17
   ]
   edge
   [
-    source 159
-    target 158
+    source 154
+    target 153
     rank 19
   ]
   edge
   [
-    source 160
-    target 148
+    source 155
+    target 144
     rank 15
   ]
   edge
   [
-    source 160
-    target 202
+    source 155
+    target 194
     rank 17
   ]
   edge
   [
-    source 161
+    source 156
     target 30
     rank 1
   ]
   edge
   [
-    source 161
+    source 156
     target 15
     rank 3
   ]
   edge
   [
-    source 161
-    target 131
+    source 156
+    target 130
     rank 13
   ]
   edge
   [
-    source 162
+    source 157
     target 35
     rank 13
   ]
   edge
   [
-    source 162
+    source 157
     target 79
     rank 18
   ]
   edge
   [
-    source 163
-    target 152
+    source 158
+    target 148
     rank 4
   ]
   edge
   [
-    source 164
-    target 146
+    source 159
+    target 142
     rank 2
   ]
   edge
   [
-    source 164
+    source 159
     target 90
     rank 5
   ]
   edge
   [
-    source 164
+    source 159
     target 0
     rank 10
   ]
   edge
   [
-    source 165
-    target 215
+    source 160
+    target 207
     rank 1
   ]
   edge
   [
-    source 166
-    target 162
+    source 161
+    target 157
     rank 3
   ]
   edge
   [
-    source 166
+    source 161
     target 4
     rank 8
   ]
   edge
   [
-    source 167
+    source 162
     target 15
     rank 1
   ]
   edge
   [
-    source 167
+    source 162
     target 88
     rank 2
   ]
   edge
   [
-    source 167
+    source 162
     target 6
     rank 3
   ]
   edge
   [
-    source 167
-    target 214
+    source 162
+    target 206
     rank 4
   ]
   edge
   [
-    source 167
+    source 162
     target 4
     rank 5
   ]
   edge
   [
-    source 167
+    source 162
     target 5
     rank 6
   ]
   edge
   [
-    source 167
+    source 162
     target 1
     rank 7
   ]
   edge
   [
-    source 167
-    target 209
+    source 162
+    target 201
     rank 8
   ]
   edge
   [
-    source 167
+    source 162
     target 0
     rank 9
   ]
   edge
   [
-    source 167
+    source 162
     target 96
     rank 10
   ]
   edge
   [
-    source 167
+    source 162
     target 11
     rank 13
   ]
   edge
   [
-    source 167
+    source 162
     target 73
     rank 14
   ]
   edge
   [
-    source 167
-    target 206
+    source 162
+    target 198
     rank 15
   ]
   edge
   [
-    source 167
-    target 213
+    source 162
+    target 205
     rank 16
   ]
   edge
   [
-    source 167
+    source 162
     target 44
     rank 17
   ]
   edge
   [
-    source 169
-    target 202
+    source 163
+    target 194
     rank 4
   ]
   edge
   [
-    source 169
+    source 163
     target 15
     rank 5
   ]
   edge
   [
-    source 169
+    source 163
     target 78
     rank 19
   ]
   edge
   [
-    source 170
-    target 235
+    source 164
+    target 227
     rank 1
   ]
   edge
   [
-    source 170
+    source 164
     target 66
     rank 8
   ]
   edge
   [
-    source 170
+    source 164
     target 69
     rank 14
   ]
   edge
   [
-    source 172
+    source 165
     target 4
     rank 1
   ]
   edge
   [
-    source 172
-    target 193
+    source 165
+    target 186
     rank 5
   ]
   edge
   [
-    source 172
-    target 237
+    source 165
+    target 229
     rank 10
   ]
   edge
   [
-    source 172
+    source 165
     target 33
     rank 16
   ]
   edge
   [
-    source 173
+    source 166
     target 46
     rank 1
   ]
   edge
   [
-    source 173
+    source 166
     target 11
     rank 4
   ]
   edge
   [
-    source 173
+    source 166
     target 1
     rank 5
   ]
   edge
   [
-    source 173
+    source 166
     target 15
     rank 6
   ]
   edge
   [
-    source 173
-    target 151
+    source 166
+    target 147
     rank 7
   ]
   edge
   [
-    source 173
+    source 166
     target 88
     rank 9
   ]
   edge
   [
-    source 173
+    source 166
     target 24
     rank 11
   ]
   edge
   [
-    source 173
+    source 166
     target 95
     rank 12
   ]
   edge
   [
-    source 173
+    source 166
     target 19
     rank 14
   ]
   edge
   [
-    source 173
-    target 131
+    source 166
+    target 130
     rank 15
   ]
   edge
   [
-    source 173
+    source 166
     target 7
     rank 17
   ]
   edge
   [
-    source 173
+    source 166
     target 49
     rank 18
   ]
   edge
   [
-    source 173
+    source 166
     target 4
     rank 19
   ]
   edge
   [
-    source 174
+    source 167
     target 46
     rank 1
   ]
   edge
   [
-    source 174
+    source 167
     target 114
     rank 4
   ]
   edge
   [
-    source 174
+    source 167
     target 90
     rank 5
   ]
   edge
   [
-    source 174
+    source 167
     target 15
     rank 7
   ]
   edge
   [
-    source 174
+    source 167
     target 19
     rank 9
   ]
   edge
   [
-    source 174
+    source 167
     target 24
     rank 11
   ]
   edge
   [
-    source 174
+    source 167
     target 68
     rank 13
   ]
   edge
   [
-    source 174
-    target 148
+    source 167
+    target 144
     rank 16
   ]
   edge
   [
-    source 174
+    source 167
     target 4
     rank 18
   ]
   edge
   [
-    source 175
-    target 215
+    source 168
+    target 207
     rank 2
   ]
   edge
   [
-    source 175
-    target 152
+    source 168
+    target 148
     rank 6
   ]
   edge
   [
-    source 175
+    source 168
     target 98
     rank 8
   ]
   edge
   [
-    source 176
+    source 169
     target 1
     rank 1
   ]
   edge
   [
-    source 177
+    source 170
     target 2
     rank 10
   ]
   edge
   [
-    source 178
+    source 171
     target 6
     rank 14
   ]
   edge
   [
-    source 179
-    target 215
+    source 172
+    target 207
     rank 3
   ]
   edge
   [
-    source 180
+    source 173
     target 15
     rank 1
   ]
   edge
   [
-    source 180
+    source 173
     target 24
     rank 2
   ]
   edge
   [
-    source 180
+    source 173
     target 11
     rank 3
   ]
   edge
   [
-    source 180
-    target 209
+    source 173
+    target 201
     rank 4
   ]
   edge
   [
-    source 180
+    source 173
     target 0
     rank 6
   ]
   edge
   [
-    source 180
-    target 131
+    source 173
+    target 130
     rank 9
   ]
   edge
   [
-    source 180
+    source 173
     target 97
     rank 10
   ]
   edge
   [
-    source 180
-    target 164
+    source 173
+    target 159
     rank 14
   ]
   edge
   [
-    source 180
+    source 173
     target 87
     rank 15
   ]
   edge
   [
-    source 180
-    target 280
+    source 173
+    target 265
     rank 19
   ]
   edge
   [
-    source 181
+    source 174
     target 34
     rank 2
   ]
   edge
   [
-    source 181
+    source 174
     target 37
     rank 3
   ]
   edge
   [
-    source 181
+    source 174
     target 33
     rank 7
   ]
   edge
   [
-    source 181
+    source 174
     target 66
     rank 10
   ]
   edge
   [
-    source 182
+    source 175
     target 69
     rank 3
   ]
   edge
   [
-    source 182
+    source 175
     target 33
     rank 9
   ]
   edge
   [
-    source 182
-    target 164
+    source 175
+    target 159
     rank 10
   ]
   edge
   [
-    source 182
-    target 348
+    source 175
+    target 322
     rank 19
   ]
   edge
   [
-    source 183
-    target 214
+    source 176
+    target 206
     rank 1
   ]
   edge
   [
-    source 183
+    source 176
     target 15
     rank 2
   ]
   edge
   [
-    source 183
-    target 215
+    source 176
+    target 207
     rank 3
   ]
   edge
   [
-    source 183
-    target 223
+    source 176
+    target 215
     rank 6
   ]
   edge
   [
-    source 183
+    source 176
     target 33
     rank 7
   ]
   edge
   [
-    source 183
-    target 164
+    source 176
+    target 159
     rank 12
   ]
   edge
   [
-    source 183
-    target 153
+    source 176
+    target 149
     rank 14
   ]
   edge
   [
-    source 183
+    source 176
     target 98
     rank 17
   ]
   edge
   [
-    source 184
+    source 177
     target 11
     rank 2
   ]
   edge
   [
-    source 184
+    source 177
     target 122
     rank 3
   ]
   edge
   [
-    source 184
+    source 177
     target 15
     rank 5
   ]
   edge
   [
-    source 184
+    source 177
     target 30
     rank 7
   ]
   edge
   [
-    source 184
+    source 177
     target 8
     rank 8
   ]
   edge
   [
-    source 184
-    target 131
+    source 177
+    target 130
     rank 9
   ]
   edge
   [
-    source 184
-    target 213
+    source 177
+    target 205
     rank 10
   ]
   edge
   [
-    source 185
+    source 178
     target 69
     rank 18
   ]
   edge
   [
-    source 186
-    target 148
+    source 179
+    target 144
     rank 7
   ]
   edge
   [
-    source 186
+    source 179
     target 24
     rank 18
   ]
   edge
   [
-    source 187
+    source 180
     target 115
     rank 2
   ]
   edge
   [
-    source 187
+    source 180
     target 98
     rank 5
   ]
   edge
   [
-    source 187
+    source 180
     target 21
     rank 10
   ]
   edge
   [
-    source 188
+    source 181
     target 1
     rank 3
   ]
   edge
   [
-    source 189
+    source 182
     target 19
     rank 1
   ]
   edge
   [
-    source 189
-    target 177
-    rank 16
-  ]
-  edge
-  [
-    source 190
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 190
-    target 87
-    rank 10
-  ]
-  edge
-  [
-    source 191
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 191
-    target 152
-    rank 6
-  ]
-  edge
-  [
-    source 192
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 192
-    target 10
-    rank 3
-  ]
-  edge
-  [
-    source 192
-    target 11
-    rank 4
-  ]
-  edge
-  [
-    source 192
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 192
-    target 4
-    rank 7
-  ]
-  edge
-  [
-    source 192
-    target 198
-    rank 9
-  ]
-  edge
-  [
-    source 192
-    target 111
-    rank 13
-  ]
-  edge
-  [
-    source 193
-    target 302
-    rank 16
-  ]
-  edge
-  [
-    source 194
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 194
-    target 33
-    rank 13
-  ]
-  edge
-  [
-    source 195
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 195
-    target 214
-    rank 2
-  ]
-  edge
-  [
-    source 195
-    target 193
-    rank 12
-  ]
-  edge
-  [
-    source 195
-    target 202
-    rank 20
-  ]
-  edge
-  [
-    source 196
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 196
-    target 15
-    rank 5
-  ]
-  edge
-  [
-    source 196
-    target 151
-    rank 12
-  ]
-  edge
-  [
-    source 196
-    target 6
-    rank 18
-  ]
-  edge
-  [
-    source 197
-    target 37
-    rank 1
-  ]
-  edge
-  [
-    source 197
-    target 237
-    rank 8
-  ]
-  edge
-  [
-    source 197
-    target 181
-    rank 9
-  ]
-  edge
-  [
-    source 197
-    target 33
-    rank 10
-  ]
-  edge
-  [
-    source 197
-    target 146
-    rank 17
-  ]
-  edge
-  [
-    source 197
-    target 182
-    rank 20
-  ]
-  edge
-  [
-    source 198
-    target 23
-    rank 2
-  ]
-  edge
-  [
-    source 198
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 198
-    target 0
-    rank 7
-  ]
-  edge
-  [
-    source 199
-    target 66
-    rank 5
-  ]
-  edge
-  [
-    source 199
-    target 69
-    rank 19
-  ]
-  edge
-  [
-    source 201
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 201
-    target 233
-    rank 9
-  ]
-  edge
-  [
-    source 201
-    target 115
-    rank 10
-  ]
-  edge
-  [
-    source 201
-    target 348
-    rank 14
-  ]
-  edge
-  [
-    source 201
-    target 202
-    rank 15
-  ]
-  edge
-  [
-    source 201
-    target 78
-    rank 19
-  ]
-  edge
-  [
-    source 202
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 202
-    target 11
-    rank 2
-  ]
-  edge
-  [
-    source 202
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 202
-    target 4
-    rank 5
-  ]
-  edge
-  [
-    source 202
-    target 0
-    rank 6
-  ]
-  edge
-  [
-    source 202
-    target 1
-    rank 8
-  ]
-  edge
-  [
-    source 202
-    target 302
-    rank 15
-  ]
-  edge
-  [
-    source 203
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 203
-    target 90
-    rank 2
-  ]
-  edge
-  [
-    source 203
-    target 22
-    rank 4
-  ]
-  edge
-  [
-    source 203
-    target 215
-    rank 5
-  ]
-  edge
-  [
-    source 203
-    target 33
-    rank 7
-  ]
-  edge
-  [
-    source 203
-    target 202
-    rank 8
-  ]
-  edge
-  [
-    source 203
-    target 167
-    rank 10
-  ]
-  edge
-  [
-    source 203
-    target 24
-    rank 11
-  ]
-  edge
-  [
-    source 203
-    target 148
-    rank 15
-  ]
-  edge
-  [
-    source 203
+    source 182
     target 170
     rank 16
   ]
   edge
   [
-    source 204
-    target 164
+    source 183
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 183
+    target 87
     rank 10
   ]
   edge
   [
-    source 205
+    source 184
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 184
+    target 148
+    rank 6
+  ]
+  edge
+  [
+    source 185
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 185
+    target 10
+    rank 3
+  ]
+  edge
+  [
+    source 185
+    target 11
+    rank 4
+  ]
+  edge
+  [
+    source 185
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 185
+    target 4
+    rank 7
+  ]
+  edge
+  [
+    source 185
+    target 191
+    rank 9
+  ]
+  edge
+  [
+    source 185
+    target 111
+    rank 13
+  ]
+  edge
+  [
+    source 186
+    target 283
+    rank 16
+  ]
+  edge
+  [
+    source 187
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 187
+    target 33
+    rank 13
+  ]
+  edge
+  [
+    source 188
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 188
+    target 206
+    rank 2
+  ]
+  edge
+  [
+    source 188
+    target 186
+    rank 12
+  ]
+  edge
+  [
+    source 188
+    target 194
+    rank 20
+  ]
+  edge
+  [
+    source 189
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 189
     target 15
     rank 5
   ]
   edge
   [
-    source 205
-    target 354
+    source 189
+    target 147
+    rank 12
+  ]
+  edge
+  [
+    source 189
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 190
+    target 37
+    rank 1
+  ]
+  edge
+  [
+    source 190
+    target 229
+    rank 8
+  ]
+  edge
+  [
+    source 190
+    target 174
     rank 9
   ]
   edge
   [
-    source 205
+    source 190
+    target 33
+    rank 10
+  ]
+  edge
+  [
+    source 190
+    target 142
+    rank 17
+  ]
+  edge
+  [
+    source 190
+    target 175
+    rank 20
+  ]
+  edge
+  [
+    source 191
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 191
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 191
+    target 0
+    rank 7
+  ]
+  edge
+  [
+    source 192
+    target 66
+    rank 5
+  ]
+  edge
+  [
+    source 192
+    target 69
+    rank 19
+  ]
+  edge
+  [
+    source 193
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 193
+    target 225
+    rank 9
+  ]
+  edge
+  [
+    source 193
     target 115
     rank 10
   ]
   edge
   [
-    source 205
+    source 193
+    target 322
+    rank 14
+  ]
+  edge
+  [
+    source 193
+    target 194
+    rank 15
+  ]
+  edge
+  [
+    source 193
+    target 78
+    rank 19
+  ]
+  edge
+  [
+    source 194
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 194
+    target 11
+    rank 2
+  ]
+  edge
+  [
+    source 194
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 194
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 194
+    target 0
+    rank 6
+  ]
+  edge
+  [
+    source 194
+    target 1
+    rank 8
+  ]
+  edge
+  [
+    source 194
+    target 283
+    rank 15
+  ]
+  edge
+  [
+    source 195
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 195
+    target 90
+    rank 2
+  ]
+  edge
+  [
+    source 195
+    target 22
+    rank 4
+  ]
+  edge
+  [
+    source 195
+    target 207
+    rank 5
+  ]
+  edge
+  [
+    source 195
+    target 33
+    rank 7
+  ]
+  edge
+  [
+    source 195
+    target 194
+    rank 8
+  ]
+  edge
+  [
+    source 195
+    target 162
+    rank 10
+  ]
+  edge
+  [
+    source 195
+    target 24
+    rank 11
+  ]
+  edge
+  [
+    source 195
+    target 144
+    rank 15
+  ]
+  edge
+  [
+    source 195
+    target 164
+    rank 16
+  ]
+  edge
+  [
+    source 196
+    target 159
+    rank 10
+  ]
+  edge
+  [
+    source 197
+    target 15
+    rank 5
+  ]
+  edge
+  [
+    source 197
+    target 326
+    rank 9
+  ]
+  edge
+  [
+    source 197
+    target 115
+    rank 10
+  ]
+  edge
+  [
+    source 197
     target 70
     rank 13
   ]
   edge
   [
-    source 205
+    source 197
     target 6
     rank 16
   ]
   edge
   [
-    source 205
-    target 152
+    source 197
+    target 148
     rank 17
   ]
   edge
   [
-    source 205
-    target 336
+    source 197
+    target 311
     rank 20
   ]
   edge
   [
-    source 206
+    source 198
     target 117
     rank 1
   ]
   edge
   [
-    source 206
+    source 198
     target 15
     rank 6
   ]
   edge
   [
-    source 206
+    source 198
     target 24
     rank 9
   ]
   edge
   [
-    source 206
+    source 198
     target 19
     rank 10
   ]
   edge
   [
-    source 206
+    source 198
     target 6
     rank 15
   ]
   edge
   [
-    source 206
-    target 202
+    source 198
+    target 194
     rank 20
   ]
   edge
   [
-    source 207
-    target 152
+    source 199
+    target 148
     rank 5
   ]
   edge
   [
-    source 208
-    target 153
+    source 200
+    target 149
     rank 4
   ]
   edge
   [
-    source 208
-    target 202
+    source 200
+    target 194
     rank 10
   ]
   edge
   [
-    source 208
+    source 200
     target 78
     rank 15
   ]
   edge
   [
-    source 209
+    source 201
     target 15
     rank 2
   ]
   edge
   [
-    source 209
+    source 201
     target 8
     rank 10
   ]
   edge
   [
-    source 210
+    source 202
     target 15
     rank 2
   ]
   edge
   [
-    source 210
+    source 202
     target 11
     rank 3
   ]
   edge
   [
-    source 210
+    source 202
     target 30
     rank 5
   ]
   edge
   [
-    source 210
+    source 202
     target 88
     rank 10
   ]
   edge
   [
-    source 210
-    target 280
+    source 202
+    target 265
     rank 11
   ]
   edge
   [
-    source 210
-    target 209
+    source 202
+    target 201
     rank 12
   ]
   edge
   [
-    source 210
+    source 202
     target 4
     rank 13
   ]
   edge
   [
-    source 210
+    source 202
     target 96
     rank 15
   ]
   edge
   [
-    source 210
+    source 202
     target 0
     rank 16
   ]
   edge
   [
-    source 210
+    source 202
     target 44
     rank 17
   ]
   edge
   [
-    source 210
+    source 202
     target 122
     rank 18
   ]
   edge
   [
-    source 210
-    target 213
+    source 202
+    target 205
     rank 20
   ]
   edge
   [
-    source 211
+    source 203
     target 33
     rank 2
   ]
   edge
   [
-    source 211
+    source 203
     target 69
     rank 10
   ]
   edge
   [
-    source 212
+    source 204
     target 15
     rank 2
   ]
   edge
   [
-    source 212
+    source 204
     target 19
     rank 5
   ]
   edge
   [
-    source 212
+    source 204
     target 37
     rank 6
   ]
   edge
   [
-    source 212
+    source 204
     target 14
     rank 7
   ]
   edge
   [
-    source 212
+    source 204
     target 28
     rank 8
   ]
   edge
   [
-    source 212
+    source 204
     target 4
     rank 9
   ]
   edge
   [
-    source 212
+    source 204
     target 33
     rank 10
   ]
   edge
   [
-    source 212
-    target 162
+    source 204
+    target 157
     rank 11
   ]
   edge
   [
-    source 212
+    source 204
     target 1
     rank 12
   ]
   edge
   [
-    source 212
+    source 204
     target 70
     rank 13
   ]
   edge
   [
-    source 212
+    source 204
     target 49
     rank 14
   ]
   edge
   [
-    source 212
-    target 192
+    source 204
+    target 185
     rank 15
   ]
   edge
   [
-    source 212
-    target 245
+    source 204
+    target 236
     rank 16
   ]
   edge
   [
-    source 212
+    source 204
     target 111
     rank 17
   ]
   edge
   [
-    source 212
+    source 204
     target 79
     rank 18
   ]
   edge
   [
-    source 213
+    source 205
     target 24
     rank 2
   ]
   edge
   [
-    source 213
+    source 205
     target 11
     rank 5
   ]
   edge
   [
-    source 213
+    source 205
     target 13
     rank 6
   ]
   edge
   [
-    source 213
+    source 205
     target 15
     rank 8
   ]
   edge
   [
-    source 213
-    target 281
+    source 205
+    target 266
     rank 9
   ]
   edge
   [
-    source 213
-    target 215
+    source 205
+    target 207
     rank 13
   ]
   edge
   [
-    source 213
+    source 205
     target 6
     rank 18
   ]
   edge
   [
-    source 213
+    source 205
     target 96
     rank 19
   ]
   edge
   [
-    source 214
+    source 206
     target 15
     rank 7
   ]
   edge
   [
-    source 214
+    source 206
     target 11
     rank 8
   ]
   edge
   [
-    source 214
+    source 206
     target 1
     rank 14
   ]
   edge
   [
-    source 214
+    source 206
     target 4
     rank 15
   ]
   edge
   [
-    source 214
+    source 206
     target 8
     rank 16
   ]
   edge
   [
-    source 214
-    target 202
+    source 206
+    target 194
     rank 17
   ]
   edge
   [
-    source 215
+    source 207
     target 15
     rank 1
   ]
   edge
   [
-    source 215
+    source 207
     target 115
     rank 9
   ]
   edge
   [
-    source 215
-    target 213
+    source 207
+    target 205
     rank 13
   ]
   edge
   [
-    source 216
+    source 208
     target 6
     rank 1
   ]
   edge
   [
-    source 216
-    target 209
+    source 208
+    target 201
     rank 2
   ]
   edge
   [
-    source 216
+    source 208
     target 21
     rank 3
   ]
   edge
   [
-    source 216
+    source 208
     target 11
     rank 4
   ]
   edge
   [
-    source 216
+    source 208
     target 4
     rank 6
   ]
   edge
   [
-    source 216
+    source 208
     target 15
     rank 8
   ]
   edge
   [
-    source 216
-    target 214
+    source 208
+    target 206
     rank 9
   ]
   edge
   [
-    source 216
+    source 208
     target 1
     rank 10
   ]
   edge
   [
-    source 216
+    source 208
     target 96
     rank 11
   ]
   edge
   [
-    source 216
+    source 208
     target 122
     rank 12
   ]
   edge
   [
-    source 216
+    source 208
     target 0
     rank 14
   ]
   edge
   [
-    source 216
-    target 213
+    source 208
+    target 205
     rank 17
   ]
   edge
   [
-    source 216
-    target 206
+    source 208
+    target 198
     rank 18
   ]
   edge
   [
-    source 216
-    target 131
+    source 208
+    target 130
     rank 19
   ]
   edge
   [
-    source 217
+    source 209
     target 1
     rank 6
   ]
   edge
   [
-    source 217
-    target 202
+    source 209
+    target 194
     rank 8
   ]
   edge
   [
-    source 217
+    source 209
     target 33
     rank 17
   ]
   edge
   [
-    source 218
-    target 281
+    source 210
+    target 266
     rank 9
   ]
   edge
   [
-    source 218
+    source 210
     target 4
     rank 13
   ]
   edge
   [
-    source 218
+    source 210
     target 7
     rank 17
   ]
   edge
   [
-    source 218
+    source 210
     target 0
     rank 18
   ]
   edge
   [
-    source 219
+    source 211
     target 19
     rank 1
   ]
   edge
   [
-    source 219
+    source 211
     target 33
     rank 2
   ]
   edge
   [
-    source 219
+    source 211
     target 69
     rank 7
   ]
   edge
   [
-    source 220
-    target 214
+    source 212
+    target 206
     rank 2
   ]
   edge
   [
-    source 220
+    source 212
     target 69
     rank 6
+  ]
+  edge
+  [
+    source 213
+    target 24
+    rank 8
+  ]
+  edge
+  [
+    source 214
+    target 207
+    rank 2
+  ]
+  edge
+  [
+    source 214
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 214
+    target 98
+    rank 12
+  ]
+  edge
+  [
+    source 214
+    target 200
+    rank 16
+  ]
+  edge
+  [
+    source 214
+    target 149
+    rank 17
+  ]
+  edge
+  [
+    source 215
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 216
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 216
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 217
+    target 194
+    rank 12
+  ]
+  edge
+  [
+    source 218
+    target 149
+    rank 14
+  ]
+  edge
+  [
+    source 219
+    target 33
+    rank 4
+  ]
+  edge
+  [
+    source 219
+    target 194
+    rank 6
+  ]
+  edge
+  [
+    source 219
+    target 254
+    rank 19
+  ]
+  edge
+  [
+    source 220
+    target 15
+    rank 16
   ]
   edge
   [
     source 221
     target 24
-    rank 8
-  ]
-  edge
-  [
-    source 222
-    target 215
-    rank 2
-  ]
-  edge
-  [
-    source 222
-    target 15
     rank 3
   ]
   edge
   [
-    source 222
-    target 98
-    rank 12
-  ]
-  edge
-  [
-    source 222
-    target 208
-    rank 16
-  ]
-  edge
-  [
-    source 222
-    target 153
-    rank 17
-  ]
-  edge
-  [
-    source 223
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 224
-    target 4
-    rank 1
-  ]
-  edge
-  [
-    source 224
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 225
-    target 202
-    rank 12
-  ]
-  edge
-  [
-    source 226
-    target 153
-    rank 14
-  ]
-  edge
-  [
-    source 227
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 227
-    target 202
-    rank 6
-  ]
-  edge
-  [
-    source 227
-    target 266
-    rank 19
-  ]
-  edge
-  [
-    source 228
-    target 15
-    rank 16
-  ]
-  edge
-  [
-    source 229
-    target 24
-    rank 3
-  ]
-  edge
-  [
-    source 229
+    source 221
     target 4
     rank 9
   ]
   edge
   [
-    source 229
+    source 221
     target 0
     rank 12
   ]
   edge
   [
-    source 229
+    source 221
     target 91
     rank 13
   ]
   edge
   [
-    source 230
+    source 222
     target 15
     rank 1
   ]
   edge
   [
-    source 230
+    source 222
     target 6
     rank 2
   ]
   edge
   [
-    source 230
+    source 222
     target 33
     rank 9
   ]
   edge
   [
-    source 231
-    target 214
+    source 223
+    target 206
     rank 1
   ]
   edge
   [
-    source 231
-    target 243
+    source 223
+    target 234
     rank 6
   ]
   edge
   [
-    source 231
+    source 223
     target 69
     rank 9
   ]
   edge
   [
-    source 232
+    source 224
     target 56
     rank 5
   ]
   edge
   [
-    source 232
-    target 190
+    source 224
+    target 183
     rank 9
   ]
   edge
   [
-    source 232
+    source 224
     target 6
     rank 12
   ]
   edge
   [
-    source 232
-    target 314
+    source 224
+    target 294
     rank 14
   ]
   edge
   [
-    source 233
-    target 351
+    source 225
+    target 324
     rank 12
   ]
   edge
   [
-    source 234
-    target 223
+    source 226
+    target 215
     rank 2
   ]
   edge
   [
-    source 234
-    target 152
+    source 226
+    target 148
     rank 7
   ]
   edge
   [
-    source 234
+    source 226
     target 4
     rank 8
   ]
   edge
   [
-    source 234
+    source 226
     target 98
     rank 14
   ]
   edge
   [
-    source 235
+    source 227
     target 11
     rank 1
   ]
   edge
   [
-    source 235
-    target 170
+    source 227
+    target 164
     rank 3
   ]
   edge
   [
-    source 235
+    source 227
     target 1
     rank 6
   ]
   edge
   [
-    source 236
-    target 137
+    source 228
+    target 134
     rank 3
   ]
   edge
   [
-    source 236
-    target 181
+    source 228
+    target 174
     rank 8
   ]
   edge
   [
-    source 236
+    source 228
     target 6
     rank 13
   ]
   edge
   [
-    source 236
+    source 228
     target 33
     rank 14
   ]
   edge
   [
-    source 237
-    target 281
+    source 229
+    target 266
     rank 2
   ]
   edge
   [
-    source 238
-    target 348
+    source 230
+    target 322
     rank 18
   ]
   edge
   [
-    source 240
-    target 280
+    source 231
+    target 265
     rank 4
   ]
   edge
   [
-    source 240
+    source 231
     target 4
     rank 8
   ]
   edge
   [
-    source 240
-    target 193
+    source 231
+    target 186
     rank 14
   ]
   edge
   [
-    source 240
-    target 172
+    source 231
+    target 165
     rank 18
   ]
   edge
   [
-    source 241
+    source 232
     target 15
     rank 3
   ]
   edge
   [
-    source 241
+    source 232
     target 19
     rank 4
   ]
   edge
   [
-    source 241
+    source 232
     target 18
     rank 6
   ]
   edge
   [
-    source 241
+    source 232
     target 36
     rank 8
   ]
   edge
   [
-    source 241
+    source 232
     target 10
     rank 11
   ]
   edge
   [
-    source 241
+    source 232
     target 33
     rank 12
   ]
   edge
   [
-    source 241
+    source 232
     target 0
     rank 14
   ]
   edge
   [
-    source 241
+    source 232
     target 4
     rank 15
   ]
   edge
   [
-    source 241
+    source 232
     target 6
     rank 18
   ]
   edge
   [
-    source 242
-    target 213
+    source 233
+    target 205
     rank 5
   ]
   edge
   [
-    source 242
-    target 173
+    source 233
+    target 166
     rank 6
   ]
   edge
   [
-    source 243
+    source 234
     target 24
     rank 1
   ]
   edge
   [
-    source 243
+    source 234
     target 1
     rank 3
   ]
   edge
   [
-    source 243
+    source 234
     target 69
     rank 20
   ]
   edge
   [
-    source 244
-    target 148
+    source 235
+    target 144
     rank 6
   ]
   edge
   [
-    source 245
+    source 236
     target 90
     rank 3
   ]
   edge
   [
-    source 245
+    source 236
     target 116
     rank 5
   ]
   edge
   [
-    source 245
+    source 236
     target 70
     rank 12
   ]
   edge
   [
-    source 245
-    target 164
+    source 236
+    target 159
     rank 20
   ]
   edge
   [
-    source 246
-    target 214
+    source 237
+    target 206
     rank 1
   ]
   edge
   [
-    source 246
+    source 237
     target 90
     rank 2
   ]
   edge
   [
-    source 246
+    source 237
     target 15
     rank 3
   ]
   edge
   [
-    source 246
+    source 237
     target 19
     rank 4
   ]
   edge
   [
-    source 246
+    source 237
     target 6
     rank 9
   ]
   edge
   [
-    source 246
+    source 237
     target 69
     rank 15
   ]
   edge
   [
-    source 246
-    target 348
+    source 237
+    target 322
     rank 16
   ]
   edge
   [
-    source 246
-    target 302
+    source 237
+    target 283
     rank 17
   ]
   edge
   [
-    source 247
+    source 238
     target 116
     rank 6
   ]
   edge
   [
-    source 247
+    source 238
     target 4
     rank 9
   ]
   edge
   [
-    source 247
+    source 238
     target 58
     rank 12
   ]
   edge
   [
-    source 247
+    source 238
     target 115
     rank 13
   ]
   edge
   [
-    source 247
-    target 202
+    source 238
+    target 194
     rank 19
   ]
   edge
   [
-    source 248
-    target 236
+    source 239
+    target 228
     rank 2
   ]
   edge
   [
-    source 248
+    source 239
     target 11
     rank 3
   ]
   edge
   [
-    source 248
-    target 137
+    source 239
+    target 134
     rank 4
   ]
   edge
   [
-    source 248
-    target 198
+    source 239
+    target 191
     rank 6
   ]
   edge
   [
-    source 248
-    target 311
+    source 239
+    target 291
     rank 10
   ]
   edge
   [
-    source 250
+    source 240
     target 13
     rank 6
   ]
   edge
   [
-    source 250
+    source 240
     target 127
     rank 13
   ]
   edge
   [
-    source 251
-    target 302
+    source 241
+    target 283
     rank 18
   ]
   edge
   [
-    source 252
-    target 228
+    source 242
+    target 220
     rank 9
   ]
   edge
   [
-    source 252
+    source 242
     target 2
     rank 10
   ]
   edge
   [
-    source 253
-    target 198
+    source 243
+    target 191
     rank 4
   ]
   edge
   [
-    source 253
+    source 243
     target 0
     rank 11
   ]
   edge
   [
-    source 254
-    target 297
+    source 244
+    target 279
     rank 4
   ]
   edge
   [
-    source 255
-    target 305
+    source 245
+    target 286
     rank 9
   ]
   edge
   [
-    source 255
-    target 185
+    source 245
+    target 178
     rank 10
   ]
   edge
   [
-    source 255
+    source 245
     target 69
     rank 18
   ]
   edge
   [
-    source 256
+    source 246
     target 24
     rank 2
   ]
   edge
   [
-    source 256
-    target 164
+    source 246
+    target 159
     rank 7
   ]
   edge
   [
-    source 256
-    target 153
+    source 246
+    target 149
     rank 18
   ]
   edge
   [
-    source 257
+    source 247
     target 22
     rank 1
   ]
   edge
   [
-    source 257
-    target 302
+    source 247
+    target 283
     rank 2
   ]
   edge
   [
-    source 257
+    source 247
     target 19
     rank 6
   ]
   edge
   [
-    source 257
+    source 247
     target 15
     rank 8
   ]
   edge
   [
-    source 257
+    source 247
     target 33
     rank 9
   ]
   edge
   [
-    source 257
-    target 148
+    source 247
+    target 144
     rank 11
   ]
   edge
   [
-    source 257
-    target 155
+    source 247
+    target 151
     rank 12
   ]
   edge
   [
-    source 257
+    source 247
     target 69
     rank 20
   ]
   edge
   [
-    source 259
+    source 248
     target 15
     rank 1
   ]
   edge
   [
-    source 259
+    source 248
     target 19
     rank 2
   ]
   edge
   [
-    source 260
-    target 348
+    source 249
+    target 322
     rank 5
   ]
   edge
   [
-    source 260
+    source 249
     target 69
     rank 6
   ]
   edge
   [
-    source 260
-    target 170
+    source 249
+    target 164
     rank 8
   ]
   edge
   [
-    source 260
-    target 371
+    source 249
+    target 340
     rank 15
   ]
   edge
   [
-    source 260
-    target 344
+    source 249
+    target 318
     rank 16
   ]
   edge
   [
-    source 261
-    target 148
+    source 250
+    target 144
     rank 1
   ]
   edge
   [
-    source 261
+    source 250
     target 19
     rank 4
   ]
   edge
   [
-    source 261
+    source 250
     target 98
     rank 6
   ]
   edge
   [
-    source 261
+    source 250
     target 21
     rank 7
   ]
   edge
   [
-    source 261
+    source 250
     target 81
     rank 9
   ]
   edge
   [
-    source 261
+    source 250
     target 10
     rank 12
   ]
   edge
   [
-    source 261
+    source 250
     target 79
     rank 13
   ]
   edge
   [
-    source 261
+    source 250
     target 6
     rank 14
   ]
   edge
   [
-    source 261
-    target 280
+    source 250
+    target 265
     rank 15
   ]
   edge
   [
-    source 261
+    source 250
     target 111
     rank 16
   ]
   edge
   [
-    source 261
-    target 164
+    source 250
+    target 159
     rank 17
   ]
   edge
   [
-    source 261
-    target 179
+    source 250
+    target 172
     rank 19
   ]
   edge
   [
-    source 263
-    target 302
+    source 251
+    target 283
     rank 20
   ]
   edge
   [
-    source 264
-    target 243
+    source 252
+    target 234
     rank 7
   ]
   edge
   [
-    source 264
-    target 319
+    source 252
+    target 298
     rank 12
   ]
   edge
   [
-    source 264
-    target 272
+    source 252
+    target 258
     rank 17
   ]
   edge
   [
-    source 264
-    target 279
+    source 252
+    target 264
     rank 18
   ]
   edge
   [
-    source 265
+    source 253
     target 6
     rank 6
   ]
   edge
   [
-    source 266
-    target 281
+    source 254
+    target 266
     rank 5
   ]
   edge
   [
-    source 266
-    target 348
+    source 254
+    target 322
     rank 10
   ]
   edge
   [
-    source 266
-    target 344
+    source 254
+    target 318
     rank 12
   ]
   edge
   [
-    source 266
-    target 360
+    source 254
+    target 330
     rank 14
   ]
   edge
   [
-    source 266
+    source 254
     target 69
     rank 19
   ]
   edge
   [
-    source 267
+    source 255
     target 20
     rank 1
   ]
   edge
   [
-    source 268
+    source 256
     target 15
     rank 1
   ]
   edge
   [
-    source 268
+    source 256
     target 79
     rank 5
   ]
   edge
   [
-    source 268
+    source 256
     target 6
     rank 9
   ]
   edge
   [
-    source 272
+    source 258
     target 119
     rank 4
   ]
   edge
   [
-    source 272
-    target 181
+    source 258
+    target 174
     rank 7
   ]
   edge
   [
-    source 272
-    target 319
+    source 258
+    target 298
     rank 10
   ]
   edge
   [
-    source 272
-    target 236
+    source 258
+    target 228
     rank 11
   ]
   edge
   [
-    source 272
+    source 258
     target 37
     rank 12
   ]
   edge
   [
-    source 273
+    source 259
     target 35
     rank 1
   ]
   edge
   [
-    source 273
-    target 162
+    source 259
+    target 157
     rank 3
   ]
   edge
   [
-    source 273
+    source 259
     target 79
     rank 17
   ]
   edge
   [
-    source 274
-    target 240
+    source 260
+    target 231
     rank 19
   ]
   edge
   [
-    source 275
-    target 309
+    source 261
+    target 290
     rank 1
   ]
   edge
   [
-    source 275
-    target 223
+    source 261
+    target 215
     rank 3
   ]
   edge
   [
-    source 275
-    target 348
+    source 261
+    target 322
     rank 8
   ]
   edge
   [
-    source 275
-    target 153
+    source 261
+    target 149
     rank 12
   ]
   edge
   [
-    source 275
+    source 261
     target 115
     rank 17
   ]
   edge
   [
-    source 276
-    target 397
+    source 262
+    target 362
     rank 2
   ]
   edge
   [
-    source 276
-    target 385
+    source 262
+    target 351
     rank 3
   ]
   edge
   [
-    source 276
+    source 262
     target 15
     rank 6
   ]
   edge
   [
-    source 276
-    target 357
+    source 262
+    target 328
     rank 13
   ]
   edge
   [
-    source 278
-    target 177
+    source 263
+    target 170
     rank 16
   ]
   edge
   [
-    source 279
+    source 264
     target 69
     rank 20
   ]
   edge
   [
-    source 280
+    source 265
     target 11
     rank 5
   ]
   edge
   [
-    source 280
+    source 265
     target 13
     rank 11
   ]
   edge
   [
-    source 281
-    target 223
+    source 266
+    target 215
     rank 2
   ]
   edge
   [
-    source 281
-    target 237
+    source 266
+    target 229
     rank 5
   ]
   edge
   [
-    source 281
-    target 302
+    source 266
+    target 283
     rank 15
   ]
   edge
   [
-    source 282
+    source 267
     target 69
     rank 4
   ]
   edge
   [
-    source 283
-    target 265
+    source 268
+    target 253
     rank 12
   ]
   edge
   [
-    source 283
-    target 271
+    source 268
+    target 257
     rank 13
   ]
   edge
   [
-    source 283
+    source 268
     target 69
     rank 18
   ]
   edge
   [
-    source 285
-    target 214
+    source 269
+    target 206
     rank 1
   ]
   edge
   [
-    source 285
-    target 202
+    source 269
+    target 194
     rank 8
   ]
   edge
   [
-    source 285
-    target 274
+    source 269
+    target 260
     rank 9
   ]
   edge
   [
-    source 285
-    target 348
+    source 269
+    target 322
     rank 15
   ]
   edge
   [
-    source 285
+    source 269
     target 69
     rank 20
   ]
   edge
   [
-    source 286
-    target 162
+    source 270
+    target 157
     rank 6
   ]
   edge
   [
-    source 286
-    target 187
+    source 270
+    target 180
     rank 7
   ]
   edge
   [
-    source 286
+    source 270
     target 35
     rank 11
   ]
   edge
   [
-    source 286
-    target 265
+    source 270
+    target 253
     rank 20
   ]
   edge
   [
-    source 287
+    source 271
     target 115
     rank 10
   ]
   edge
   [
-    source 288
+    source 272
     target 37
     rank 6
   ]
   edge
   [
-    source 288
+    source 272
     target 113
     rank 10
   ]
   edge
   [
-    source 288
+    source 272
     target 33
     rank 16
   ]
   edge
   [
-    source 288
-    target 181
+    source 272
+    target 174
     rank 18
   ]
   edge
   [
-    source 288
+    source 272
     target 6
     rank 20
   ]
   edge
   [
-    source 290
+    source 273
     target 4
     rank 1
   ]
   edge
   [
-    source 290
+    source 273
     target 6
     rank 2
   ]
   edge
   [
-    source 290
-    target 214
+    source 273
+    target 206
     rank 5
   ]
   edge
   [
-    source 290
+    source 273
     target 8
     rank 6
   ]
   edge
   [
-    source 290
-    target 216
+    source 273
+    target 208
     rank 12
   ]
   edge
   [
-    source 291
-    target 348
+    source 274
+    target 322
     rank 3
   ]
   edge
   [
-    source 291
-    target 311
+    source 274
+    target 291
     rank 10
   ]
   edge
   [
-    source 292
-    target 202
+    source 275
+    target 194
     rank 2
   ]
   edge
   [
-    source 292
-    target 167
+    source 275
+    target 162
     rank 12
   ]
   edge
   [
-    source 292
-    target 253
+    source 275
+    target 243
     rank 13
   ]
   edge
   [
-    source 292
+    source 275
     target 11
     rank 16
   ]
   edge
   [
-    source 293
-    target 214
+    source 276
+    target 206
     rank 1
   ]
   edge
   [
-    source 293
+    source 276
     target 6
     rank 4
   ]
   edge
   [
-    source 294
-    target 214
+    source 277
+    target 206
     rank 1
   ]
   edge
   [
-    source 294
+    source 277
     target 37
     rank 4
   ]
   edge
   [
-    source 294
-    target 181
+    source 277
+    target 174
     rank 13
   ]
   edge
   [
-    source 294
+    source 277
     target 6
     rank 14
   ]
   edge
   [
-    source 294
-    target 236
+    source 277
+    target 228
     rank 16
   ]
   edge
   [
-    source 294
+    source 277
     target 33
     rank 18
   ]
   edge
   [
-    source 296
-    target 202
+    source 278
+    target 194
     rank 5
   ]
   edge
   [
-    source 296
+    source 278
     target 15
     rank 7
   ]
   edge
   [
-    source 296
+    source 278
     target 33
     rank 8
   ]
   edge
   [
-    source 296
-    target 152
+    source 278
+    target 148
     rank 11
   ]
   edge
   [
-    source 296
-    target 348
+    source 278
+    target 322
     rank 12
   ]
   edge
   [
-    source 296
+    source 278
     target 69
     rank 18
   ]
   edge
   [
-    source 297
-    target 254
+    source 279
+    target 244
     rank 12
   ]
   edge
   [
-    source 297
-    target 137
+    source 279
+    target 134
     rank 19
   ]
   edge
   [
-    source 298
-    target 214
+    source 280
+    target 206
     rank 1
   ]
   edge
   [
-    source 298
-    target 237
+    source 280
+    target 229
     rank 4
   ]
   edge
   [
-    source 299
-    target 236
+    source 281
+    target 228
     rank 3
   ]
   edge
   [
-    source 299
+    source 281
     target 37
     rank 4
   ]
   edge
   [
-    source 299
-    target 181
+    source 281
+    target 174
     rank 9
   ]
   edge
   [
-    source 299
-    target 344
+    source 281
+    target 318
     rank 17
   ]
   edge
   [
-    source 301
+    source 282
     target 33
     rank 10
   ]
   edge
   [
-    source 301
-    target 181
+    source 282
+    target 174
     rank 11
   ]
   edge
   [
-    source 302
+    source 283
     target 0
     rank 2
   ]
   edge
   [
-    source 302
+    source 283
     target 12
     rank 3
   ]
   edge
   [
-    source 302
+    source 283
     target 6
     rank 6
   ]
   edge
   [
-    source 302
+    source 283
     target 22
     rank 15
   ]
   edge
   [
-    source 303
+    source 284
     target 1
     rank 1
   ]
   edge
   [
-    source 303
-    target 148
+    source 284
+    target 144
     rank 5
   ]
   edge
   [
-    source 303
+    source 284
     target 33
     rank 6
   ]
   edge
   [
-    source 303
+    source 284
     target 98
     rank 13
   ]
   edge
   [
-    source 303
+    source 284
     target 115
     rank 17
   ]
   edge
   [
-    source 303
-    target 351
+    source 284
+    target 324
     rank 18
   ]
   edge
   [
-    source 304
+    source 285
     target 33
     rank 1
   ]
   edge
   [
-    source 304
+    source 285
     target 87
     rank 6
   ]
   edge
   [
-    source 304
-    target 348
+    source 285
+    target 322
     rank 9
   ]
   edge
   [
-    source 304
+    source 285
     target 69
     rank 14
   ]
   edge
   [
-    source 304
-    target 446
+    source 285
+    target 405
     rank 17
   ]
   edge
   [
-    source 305
-    target 185
+    source 286
+    target 178
     rank 7
   ]
   edge
   [
-    source 305
-    target 360
+    source 286
+    target 330
     rank 10
   ]
   edge
   [
-    source 305
-    target 164
+    source 286
+    target 159
     rank 17
   ]
   edge
   [
-    source 306
-    target 202
+    source 287
+    target 194
     rank 4
   ]
   edge
   [
-    source 306
+    source 287
     target 15
     rank 5
   ]
   edge
   [
-    source 306
+    source 287
     target 19
     rank 6
   ]
   edge
   [
-    source 306
-    target 177
+    source 287
+    target 170
     rank 15
   ]
   edge
   [
-    source 306
+    source 287
     target 33
     rank 17
   ]
   edge
   [
-    source 307
-    target 164
+    source 288
+    target 159
     rank 5
   ]
   edge
   [
-    source 308
+    source 289
     target 33
     rank 3
   ]
   edge
   [
-    source 308
+    source 289
     target 69
     rank 7
   ]
   edge
   [
-    source 308
-    target 348
+    source 289
+    target 322
     rank 9
   ]
   edge
   [
-    source 309
-    target 153
+    source 290
+    target 149
     rank 3
   ]
   edge
   [
-    source 309
-    target 311
+    source 290
+    target 291
     rank 5
   ]
   edge
   [
-    source 309
+    source 290
     target 22
     rank 8
   ]
   edge
   [
-    source 309
+    source 290
     target 69
     rank 11
   ]
   edge
   [
-    source 309
-    target 317
+    source 290
+    target 296
     rank 16
   ]
   edge
   [
-    source 309
-    target 167
+    source 290
+    target 162
     rank 19
   ]
   edge
   [
-    source 311
+    source 291
     target 69
     rank 1
   ]
   edge
   [
-    source 311
-    target 137
+    source 291
+    target 134
     rank 14
   ]
   edge
   [
-    source 311
-    target 170
+    source 291
+    target 164
     rank 19
   ]
   edge
   [
-    source 312
-    target 148
+    source 292
+    target 144
     rank 3
   ]
   edge
   [
-    source 312
+    source 292
     target 19
     rank 6
   ]
   edge
   [
-    source 312
-    target 151
+    source 292
+    target 147
     rank 7
   ]
   edge
   [
-    source 312
-    target 158
+    source 292
+    target 153
     rank 9
   ]
   edge
   [
-    source 312
+    source 292
     target 69
     rank 15
   ]
   edge
   [
-    source 312
-    target 411
+    source 292
+    target 373
     rank 18
   ]
   edge
   [
-    source 313
-    target 214
+    source 293
+    target 206
     rank 2
   ]
   edge
   [
-    source 313
+    source 293
     target 15
     rank 3
   ]
   edge
   [
-    source 313
+    source 293
     target 88
     rank 10
   ]
   edge
   [
-    source 313
+    source 293
     target 33
     rank 12
   ]
   edge
   [
-    source 313
-    target 202
+    source 293
+    target 194
     rank 17
   ]
   edge
   [
-    source 313
-    target 146
+    source 293
+    target 142
     rank 18
   ]
   edge
   [
-    source 313
-    target 348
+    source 293
+    target 322
     rank 20
   ]
   edge
   [
-    source 314
-    target 233
+    source 294
+    target 225
     rank 8
   ]
   edge
   [
-    source 314
-    target 202
+    source 294
+    target 194
     rank 9
   ]
   edge
   [
-    source 314
+    source 294
     target 69
     rank 17
   ]
   edge
   [
-    source 315
+    source 295
     target 6
     rank 3
   ]
   edge
   [
-    source 317
+    source 296
     target 4
     rank 4
   ]
   edge
   [
-    source 317
+    source 296
     target 29
     rank 7
   ]
   edge
   [
-    source 317
+    source 296
     target 6
     rank 8
   ]
   edge
   [
-    source 317
+    source 296
     target 22
     rank 15
   ]
   edge
   [
-    source 318
+    source 297
     target 1
     rank 2
   ]
   edge
   [
-    source 320
-    target 164
+    source 299
+    target 159
     rank 7
   ]
   edge
   [
-    source 320
+    source 299
     target 69
     rank 10
   ]
   edge
   [
-    source 321
-    target 223
+    source 300
+    target 215
     rank 1
   ]
   edge
   [
-    source 321
+    source 300
     target 22
     rank 13
   ]
   edge
   [
-    source 321
-    target 274
+    source 300
+    target 260
     rank 17
   ]
   edge
   [
-    source 323
-    target 152
+    source 301
+    target 148
     rank 1
   ]
   edge
   [
-    source 325
+    source 302
     target 57
     rank 1
   ]
   edge
   [
-    source 327
+    source 303
     target 30
     rank 1
   ]
   edge
   [
-    source 327
-    target 214
+    source 303
+    target 206
     rank 4
   ]
   edge
   [
-    source 327
+    source 303
     target 11
     rank 5
   ]
   edge
   [
-    source 327
+    source 303
     target 8
     rank 7
   ]
   edge
   [
-    source 327
-    target 152
+    source 303
+    target 148
     rank 12
   ]
   edge
   [
-    source 327
+    source 303
     target 0
     rank 14
   ]
   edge
   [
-    source 327
+    source 303
     target 54
     rank 16
   ]
   edge
   [
-    source 327
+    source 303
     target 4
     rank 17
   ]
   edge
   [
-    source 328
-    target 152
+    source 304
+    target 148
     rank 9
   ]
   edge
   [
-    source 328
+    source 304
     target 98
     rank 10
   ]
   edge
   [
-    source 330
+    source 305
     target 24
     rank 3
   ]
   edge
   [
-    source 330
-    target 214
+    source 305
+    target 206
     rank 4
   ]
   edge
   [
-    source 330
+    source 305
     target 11
     rank 5
   ]
   edge
   [
-    source 330
-    target 215
+    source 305
+    target 207
     rank 6
   ]
   edge
   [
-    source 330
-    target 148
+    source 305
+    target 144
     rank 8
   ]
   edge
   [
-    source 330
+    source 305
     target 101
     rank 10
   ]
   edge
   [
-    source 330
+    source 305
     target 6
     rank 11
   ]
   edge
   [
-    source 330
+    source 305
     target 33
     rank 13
   ]
   edge
   [
-    source 330
-    target 166
+    source 305
+    target 161
     rank 16
   ]
   edge
   [
-    source 331
-    target 153
+    source 306
+    target 149
     rank 1
   ]
   edge
   [
-    source 332
+    source 307
     target 78
     rank 18
   ]
   edge
   [
-    source 333
+    source 308
     target 14
     rank 1
   ]
   edge
   [
-    source 334
+    source 309
     target 69
     rank 7
   ]
   edge
   [
-    source 334
-    target 311
+    source 309
+    target 291
     rank 13
   ]
   edge
   [
-    source 334
-    target 415
+    source 309
+    target 377
     rank 16
   ]
   edge
   [
-    source 335
-    target 214
+    source 310
+    target 206
     rank 1
   ]
   edge
   [
-    source 335
+    source 310
     target 15
     rank 2
   ]
   edge
   [
-    source 335
+    source 310
     target 19
     rank 3
   ]
   edge
   [
-    source 335
+    source 310
     target 4
     rank 8
   ]
   edge
   [
-    source 335
-    target 320
+    source 310
+    target 299
     rank 14
   ]
   edge
   [
-    source 336
+    source 311
     target 19
     rank 2
   ]
   edge
   [
-    source 336
+    source 311
     target 116
     rank 8
   ]
   edge
   [
-    source 336
-    target 281
+    source 311
+    target 266
     rank 9
   ]
   edge
   [
-    source 336
+    source 311
     target 93
     rank 12
   ]
   edge
   [
-    source 336
+    source 311
     target 6
     rank 20
   ]
   edge
   [
-    source 337
+    source 312
     target 69
     rank 3
   ]
   edge
   [
-    source 338
-    target 244
+    source 313
+    target 235
     rank 2
   ]
   edge
   [
-    source 338
+    source 313
     target 24
     rank 4
   ]
   edge
   [
-    source 338
-    target 156
+    source 313
+    target 152
     rank 14
   ]
   edge
   [
-    source 340
+    source 314
     target 15
     rank 3
   ]
   edge
   [
-    source 340
-    target 213
+    source 314
+    target 205
     rank 6
   ]
   edge
   [
-    source 340
-    target 164
+    source 314
+    target 159
     rank 16
   ]
   edge
   [
-    source 341
-    target 237
+    source 315
+    target 229
     rank 7
   ]
   edge
   [
-    source 341
-    target 182
+    source 315
+    target 175
     rank 18
   ]
   edge
   [
-    source 342
+    source 316
     target 21
     rank 1
   ]
   edge
   [
-    source 342
+    source 316
     target 10
     rank 4
   ]
   edge
   [
-    source 342
-    target 164
+    source 316
+    target 159
     rank 6
   ]
   edge
   [
-    source 343
-    target 173
+    source 317
+    target 166
     rank 4
   ]
   edge
   [
-    source 343
+    source 317
     target 38
     rank 5
   ]
   edge
   [
-    source 343
-    target 215
+    source 317
+    target 207
     rank 7
   ]
   edge
   [
-    source 343
+    source 317
     target 4
     rank 8
   ]
   edge
   [
-    source 343
+    source 317
     target 7
     rank 11
   ]
   edge
   [
-    source 343
+    source 317
     target 98
     rank 15
   ]
   edge
   [
-    source 343
+    source 317
     target 79
     rank 16
   ]
   edge
   [
-    source 344
+    source 318
     target 69
     rank 2
   ]
   edge
   [
-    source 346
-    target 255
+    source 320
+    target 245
     rank 20
   ]
   edge
   [
-    source 347
-    target 215
+    source 321
+    target 207
     rank 3
   ]
   edge
   [
-    source 347
+    source 321
     target 19
     rank 6
   ]
   edge
   [
-    source 347
-    target 209
+    source 321
+    target 201
     rank 8
   ]
   edge
   [
-    source 347
+    source 321
     target 79
     rank 9
   ]
   edge
   [
-    source 347
+    source 321
     target 98
     rank 11
   ]
   edge
   [
-    source 347
-    target 155
+    source 321
+    target 151
     rank 15
   ]
   edge
   [
-    source 347
-    target 319
+    source 321
+    target 298
     rank 16
   ]
   edge
   [
-    source 347
+    source 321
     target 37
     rank 18
   ]
   edge
   [
-    source 347
-    target 349
+    source 321
+    target 323
     rank 19
   ]
   edge
   [
-    source 348
-    target 170
+    source 322
+    target 164
     rank 5
   ]
   edge
   [
-    source 349
+    source 323
     target 29
     rank 9
   ]
   edge
   [
-    source 351
+    source 324
     target 15
     rank 2
   ]
   edge
   [
-    source 351
+    source 324
     target 6
     rank 3
   ]
   edge
   [
-    source 351
+    source 324
     target 0
     rank 4
   ]
   edge
   [
-    source 351
+    source 324
     target 54
     rank 6
   ]
   edge
   [
-    source 353
+    source 325
     target 90
     rank 1
   ]
   edge
   [
-    source 354
-    target 215
+    source 326
+    target 207
     rank 2
   ]
   edge
   [
-    source 354
-    target 223
+    source 326
+    target 215
     rank 3
   ]
   edge
   [
-    source 354
-    target 152
+    source 326
+    target 148
     rank 4
   ]
   edge
   [
-    source 355
-    target 214
+    source 327
+    target 206
     rank 1
   ]
   edge
   [
-    source 355
+    source 327
     target 11
     rank 2
   ]
   edge
   [
-    source 355
+    source 327
     target 15
     rank 3
   ]
   edge
   [
-    source 355
-    target 209
+    source 327
+    target 201
     rank 5
   ]
   edge
   [
-    source 355
-    target 213
+    source 327
+    target 205
     rank 6
   ]
   edge
   [
-    source 355
+    source 327
     target 4
     rank 7
   ]
   edge
   [
-    source 355
+    source 327
     target 96
     rank 9
   ]
   edge
   [
-    source 355
+    source 327
     target 122
     rank 12
   ]
   edge
   [
-    source 355
+    source 327
     target 6
     rank 13
   ]
   edge
   [
-    source 355
-    target 131
+    source 327
+    target 130
     rank 14
   ]
   edge
   [
-    source 355
-    target 206
-    rank 15
-  ]
-  edge
-  [
-    source 355
-    target 280
-    rank 20
-  ]
-  edge
-  [
-    source 357
-    target 397
-    rank 1
-  ]
-  edge
-  [
-    source 357
-    target 385
-    rank 12
-  ]
-  edge
-  [
-    source 357
-    target 276
-    rank 15
-  ]
-  edge
-  [
-    source 358
+    source 327
     target 198
-    rank 4
-  ]
-  edge
-  [
-    source 358
-    target 57
-    rank 13
-  ]
-  edge
-  [
-    source 358
-    target 202
-    rank 20
-  ]
-  edge
-  [
-    source 361
-    target 22
-    rank 18
-  ]
-  edge
-  [
-    source 362
-    target 23
-    rank 1
-  ]
-  edge
-  [
-    source 362
-    target 214
-    rank 2
-  ]
-  edge
-  [
-    source 362
-    target 4
-    rank 4
-  ]
-  edge
-  [
-    source 362
-    target 164
-    rank 8
-  ]
-  edge
-  [
-    source 362
-    target 33
-    rank 10
-  ]
-  edge
-  [
-    source 362
-    target 146
-    rank 12
-  ]
-  edge
-  [
-    source 362
-    target 202
-    rank 14
-  ]
-  edge
-  [
-    source 362
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 362
-    target 69
-    rank 17
-  ]
-  edge
-  [
-    source 363
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 363
-    target 11
-    rank 2
-  ]
-  edge
-  [
-    source 363
-    target 15
-    rank 8
-  ]
-  edge
-  [
-    source 363
-    target 122
-    rank 11
-  ]
-  edge
-  [
-    source 363
-    target 213
-    rank 13
-  ]
-  edge
-  [
-    source 363
-    target 131
     rank 15
   ]
   edge
   [
-    source 364
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 364
-    target 302
-    rank 12
-  ]
-  edge
-  [
-    source 364
-    target 345
-    rank 20
-  ]
-  edge
-  [
-    source 367
-    target 456
-    rank 14
-  ]
-  edge
-  [
-    source 369
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 369
-    target 15
-    rank 2
-  ]
-  edge
-  [
-    source 369
-    target 152
-    rank 3
-  ]
-  edge
-  [
-    source 369
-    target 98
-    rank 4
-  ]
-  edge
-  [
-    source 369
-    target 280
-    rank 7
-  ]
-  edge
-  [
-    source 369
-    target 179
-    rank 9
-  ]
-  edge
-  [
-    source 369
-    target 348
-    rank 11
-  ]
-  edge
-  [
-    source 369
-    target 366
-    rank 15
-  ]
-  edge
-  [
-    source 370
-    target 4
-    rank 1
-  ]
-  edge
-  [
-    source 370
-    target 69
-    rank 8
-  ]
-  edge
-  [
-    source 374
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 374
-    target 215
-    rank 2
-  ]
-  edge
-  [
-    source 374
-    target 15
-    rank 5
-  ]
-  edge
-  [
-    source 374
-    target 117
-    rank 6
-  ]
-  edge
-  [
-    source 374
-    target 20
-    rank 10
-  ]
-  edge
-  [
-    source 374
-    target 21
-    rank 11
-  ]
-  edge
-  [
-    source 374
-    target 244
-    rank 13
-  ]
-  edge
-  [
-    source 374
-    target 164
-    rank 15
-  ]
-  edge
-  [
-    source 374
-    target 202
-    rank 18
-  ]
-  edge
-  [
-    source 374
-    target 438
-    rank 19
-  ]
-  edge
-  [
-    source 374
-    target 455
-    rank 20
-  ]
-  edge
-  [
-    source 375
-    target 233
-    rank 13
-  ]
-  edge
-  [
-    source 376
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 376
-    target 215
-    rank 3
-  ]
-  edge
-  [
-    source 376
-    target 223
-    rank 4
-  ]
-  edge
-  [
-    source 376
-    target 148
-    rank 7
-  ]
-  edge
-  [
-    source 376
-    target 98
-    rank 15
-  ]
-  edge
-  [
-    source 376
-    target 115
-    rank 17
-  ]
-  edge
-  [
-    source 377
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 377
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 378
-    target 69
-    rank 15
-  ]
-  edge
-  [
-    source 379
-    target 69
-    rank 4
-  ]
-  edge
-  [
-    source 381
-    target 15
-    rank 2
-  ]
-  edge
-  [
-    source 381
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 381
-    target 1
-    rank 5
-  ]
-  edge
-  [
-    source 381
-    target 215
-    rank 6
-  ]
-  edge
-  [
-    source 381
-    target 152
-    rank 9
-  ]
-  edge
-  [
-    source 381
-    target 115
-    rank 10
-  ]
-  edge
-  [
-    source 381
-    target 98
-    rank 12
-  ]
-  edge
-  [
-    source 381
-    target 164
-    rank 15
-  ]
-  edge
-  [
-    source 381
-    target 179
-    rank 16
-  ]
-  edge
-  [
-    source 381
-    target 33
-    rank 18
-  ]
-  edge
-  [
-    source 381
-    target 274
-    rank 19
-  ]
-  edge
-  [
-    source 382
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 382
-    target 33
-    rank 3
-  ]
-  edge
-  [
-    source 382
-    target 22
-    rank 8
-  ]
-  edge
-  [
-    source 382
-    target 202
-    rank 9
-  ]
-  edge
-  [
-    source 382
-    target 146
-    rank 10
-  ]
-  edge
-  [
-    source 382
-    target 309
-    rank 12
-  ]
-  edge
-  [
-    source 382
-    target 4
-    rank 15
-  ]
-  edge
-  [
-    source 382
-    target 69
-    rank 17
-  ]
-  edge
-  [
-    source 383
-    target 19
-    rank 5
-  ]
-  edge
-  [
-    source 383
-    target 117
-    rank 11
-  ]
-  edge
-  [
-    source 383
-    target 1
-    rank 15
-  ]
-  edge
-  [
-    source 384
-    target 361
-    rank 10
-  ]
-  edge
-  [
-    source 385
-    target 357
-    rank 1
-  ]
-  edge
-  [
-    source 385
-    target 276
-    rank 15
-  ]
-  edge
-  [
-    source 385
-    target 397
-    rank 16
-  ]
-  edge
-  [
-    source 387
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 387
-    target 122
-    rank 2
-  ]
-  edge
-  [
-    source 387
-    target 15
-    rank 7
-  ]
-  edge
-  [
-    source 387
-    target 213
-    rank 9
-  ]
-  edge
-  [
-    source 387
-    target 131
-    rank 12
-  ]
-  edge
-  [
-    source 387
-    target 206
-    rank 15
-  ]
-  edge
-  [
-    source 387
-    target 280
-    rank 16
-  ]
-  edge
-  [
-    source 387
-    target 69
-    rank 20
-  ]
-  edge
-  [
-    source 388
-    target 152
-    rank 7
-  ]
-  edge
-  [
-    source 388
-    target 6
-    rank 8
-  ]
-  edge
-  [
-    source 389
-    target 223
-    rank 3
-  ]
-  edge
-  [
-    source 390
-    target 69
-    rank 18
-  ]
-  edge
-  [
-    source 391
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 391
-    target 148
-    rank 8
-  ]
-  edge
-  [
-    source 391
-    target 98
-    rank 12
-  ]
-  edge
-  [
-    source 391
-    target 152
-    rank 19
-  ]
-  edge
-  [
-    source 392
-    target 117
-    rank 3
-  ]
-  edge
-  [
-    source 392
-    target 15
-    rank 6
-  ]
-  edge
-  [
-    source 392
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 392
-    target 120
-    rank 12
-  ]
-  edge
-  [
-    source 392
-    target 4
-    rank 13
-  ]
-  edge
-  [
-    source 392
-    target 131
-    rank 14
-  ]
-  edge
-  [
-    source 392
-    target 148
-    rank 18
-  ]
-  edge
-  [
-    source 393
-    target 456
-    rank 4
-  ]
-  edge
-  [
-    source 393
-    target 367
-    rank 19
-  ]
-  edge
-  [
-    source 394
-    target 19
-    rank 1
-  ]
-  edge
-  [
-    source 394
-    target 14
-    rank 3
-  ]
-  edge
-  [
-    source 394
-    target 10
-    rank 4
-  ]
-  edge
-  [
-    source 394
-    target 69
-    rank 6
-  ]
-  edge
-  [
-    source 394
+    source 327
     target 265
-    rank 11
-  ]
-  edge
-  [
-    source 395
-    target 78
-    rank 17
-  ]
-  edge
-  [
-    source 396
-    target 15
-    rank 2
-  ]
-  edge
-  [
-    source 396
-    target 19
-    rank 5
-  ]
-  edge
-  [
-    source 396
-    target 152
-    rank 10
-  ]
-  edge
-  [
-    source 396
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 396
-    target 280
-    rank 15
-  ]
-  edge
-  [
-    source 396
-    target 179
-    rank 16
-  ]
-  edge
-  [
-    source 396
-    target 6
-    rank 19
-  ]
-  edge
-  [
-    source 396
-    target 81
     rank 20
   ]
   edge
   [
-    source 397
-    target 385
-    rank 14
-  ]
-  edge
-  [
-    source 397
-    target 276
-    rank 20
-  ]
-  edge
-  [
-    source 399
-    target 214
+    source 328
+    target 362
     rank 1
   ]
   edge
   [
-    source 399
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 399
-    target 167
-    rank 20
-  ]
-  edge
-  [
-    source 400
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 400
-    target 319
-    rank 15
-  ]
-  edge
-  [
-    source 401
-    target 15
-    rank 2
-  ]
-  edge
-  [
-    source 401
-    target 11
-    rank 3
-  ]
-  edge
-  [
-    source 401
-    target 77
-    rank 5
-  ]
-  edge
-  [
-    source 401
-    target 146
-    rank 7
-  ]
-  edge
-  [
-    source 401
-    target 6
+    source 328
+    target 351
     rank 12
   ]
   edge
   [
-    source 401
-    target 177
-    rank 17
+    source 328
+    target 262
+    rank 15
   ]
   edge
   [
-    source 402
-    target 19
-    rank 1
-  ]
-  edge
-  [
-    source 402
-    target 302
+    source 329
+    target 191
     rank 4
   ]
   edge
   [
-    source 403
-    target 115
-    rank 13
-  ]
-  edge
-  [
-    source 403
-    target 6
-    rank 18
-  ]
-  edge
-  [
-    source 404
-    target 15
-    rank 2
-  ]
-  edge
-  [
-    source 404
+    source 329
     target 57
     rank 13
   ]
   edge
   [
-    source 404
-    target 274
-    rank 15
-  ]
-  edge
-  [
-    source 405
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 405
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 405
-    target 192
-    rank 3
-  ]
-  edge
-  [
-    source 405
-    target 212
-    rank 4
-  ]
-  edge
-  [
-    source 406
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 406
-    target 6
-    rank 12
-  ]
-  edge
-  [
-    source 406
-    target 148
-    rank 15
-  ]
-  edge
-  [
-    source 407
-    target 78
-    rank 11
-  ]
-  edge
-  [
-    source 410
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 410
-    target 209
-    rank 2
-  ]
-  edge
-  [
-    source 410
-    target 11
-    rank 3
-  ]
-  edge
-  [
-    source 410
-    target 15
-    rank 4
-  ]
-  edge
-  [
-    source 410
-    target 206
-    rank 7
-  ]
-  edge
-  [
-    source 410
-    target 187
-    rank 12
-  ]
-  edge
-  [
-    source 410
-    target 98
-    rank 14
-  ]
-  edge
-  [
-    source 411
-    target 69
-    rank 4
-  ]
-  edge
-  [
-    source 412
-    target 319
-    rank 1
-  ]
-  edge
-  [
-    source 412
-    target 416
-    rank 3
-  ]
-  edge
-  [
-    source 412
-    target 458
-    rank 9
-  ]
-  edge
-  [
-    source 412
-    target 15
-    rank 10
-  ]
-  edge
-  [
-    source 413
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 413
-    target 214
-    rank 5
-  ]
-  edge
-  [
-    source 413
-    target 164
-    rank 18
-  ]
-  edge
-  [
-    source 413
-    target 6
+    source 329
+    target 194
     rank 20
   ]
   edge
   [
-    source 414
-    target 215
-    rank 2
-  ]
-  edge
-  [
-    source 414
-    target 311
-    rank 4
-  ]
-  edge
-  [
-    source 414
-    target 302
-    rank 6
-  ]
-  edge
-  [
-    source 414
-    target 98
-    rank 7
-  ]
-  edge
-  [
-    source 414
-    target 153
-    rank 9
-  ]
-  edge
-  [
-    source 414
-    target 348
-    rank 11
-  ]
-  edge
-  [
-    source 415
-    target 69
-    rank 3
-  ]
-  edge
-  [
-    source 416
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 416
+    source 331
     target 22
-    rank 2
-  ]
-  edge
-  [
-    source 416
-    target 202
-    rank 3
-  ]
-  edge
-  [
-    source 416
-    target 24
-    rank 4
-  ]
-  edge
-  [
-    source 416
-    target 1
-    rank 7
-  ]
-  edge
-  [
-    source 416
-    target 319
-    rank 14
-  ]
-  edge
-  [
-    source 416
-    target 87
-    rank 17
-  ]
-  edge
-  [
-    source 416
-    target 137
     rank 18
   ]
   edge
   [
-    source 416
-    target 383
-    rank 20
-  ]
-  edge
-  [
-    source 418
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 419
-    target 2
-    rank 11
-  ]
-  edge
-  [
-    source 419
-    target 302
-    rank 15
-  ]
-  edge
-  [
-    source 420
-    target 4
-    rank 3
-  ]
-  edge
-  [
-    source 421
-    target 146
-    rank 6
-  ]
-  edge
-  [
-    source 421
-    target 69
-    rank 10
-  ]
-  edge
-  [
-    source 422
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 422
-    target 202
-    rank 4
-  ]
-  edge
-  [
-    source 422
-    target 156
-    rank 5
-  ]
-  edge
-  [
-    source 422
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 422
-    target 228
-    rank 10
-  ]
-  edge
-  [
-    source 424
-    target 159
-    rank 1
-  ]
-  edge
-  [
-    source 424
-    target 13
-    rank 7
-  ]
-  edge
-  [
-    source 424
-    target 214
-    rank 9
-  ]
-  edge
-  [
-    source 424
-    target 152
-    rank 11
-  ]
-  edge
-  [
-    source 424
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 424
-    target 79
-    rank 13
-  ]
-  edge
-  [
-    source 424
-    target 98
-    rank 14
-  ]
-  edge
-  [
-    source 424
-    target 280
-    rank 15
-  ]
-  edge
-  [
-    source 424
-    target 156
-    rank 16
-  ]
-  edge
-  [
-    source 424
-    target 179
-    rank 17
-  ]
-  edge
-  [
-    source 424
-    target 274
-    rank 19
-  ]
-  edge
-  [
-    source 425
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 425
-    target 19
-    rank 2
-  ]
-  edge
-  [
-    source 425
-    target 131
-    rank 3
-  ]
-  edge
-  [
-    source 425
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 425
-    target 164
-    rank 5
-  ]
-  edge
-  [
-    source 425
-    target 111
-    rank 6
-  ]
-  edge
-  [
-    source 425
-    target 10
-    rank 9
-  ]
-  edge
-  [
-    source 425
-    target 202
-    rank 11
-  ]
-  edge
-  [
-    source 425
-    target 69
-    rank 13
-  ]
-  edge
-  [
-    source 425
-    target 377
-    rank 15
-  ]
-  edge
-  [
-    source 426
-    target 244
-    rank 4
-  ]
-  edge
-  [
-    source 428
-    target 164
-    rank 7
-  ]
-  edge
-  [
-    source 428
-    target 146
-    rank 16
-  ]
-  edge
-  [
-    source 428
-    target 202
-    rank 17
-  ]
-  edge
-  [
-    source 428
-    target 348
-    rank 18
-  ]
-  edge
-  [
-    source 428
-    target 153
-    rank 20
-  ]
-  edge
-  [
-    source 429
-    target 19
-    rank 1
-  ]
-  edge
-  [
-    source 429
-    target 11
-    rank 4
-  ]
-  edge
-  [
-    source 429
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 429
-    target 21
-    rank 11
-  ]
-  edge
-  [
-    source 429
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 429
-    target 18
-    rank 14
-  ]
-  edge
-  [
-    source 429
-    target 31
-    rank 19
-  ]
-  edge
-  [
-    source 430
-    target 416
-    rank 4
-  ]
-  edge
-  [
-    source 430
-    target 412
-    rank 7
-  ]
-  edge
-  [
-    source 430
-    target 349
-    rank 14
-  ]
-  edge
-  [
-    source 431
-    target 26
-    rank 2
-  ]
-  edge
-  [
-    source 432
-    target 387
-    rank 20
-  ]
-  edge
-  [
-    source 433
-    target 223
-    rank 1
-  ]
-  edge
-  [
-    source 433
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 433
-    target 10
-    rank 16
-  ]
-  edge
-  [
-    source 434
-    target 48
-    rank 20
-  ]
-  edge
-  [
-    source 435
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 435
-    target 77
-    rank 4
-  ]
-  edge
-  [
-    source 435
-    target 14
-    rank 8
-  ]
-  edge
-  [
-    source 435
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 436
-    target 10
-    rank 2
-  ]
-  edge
-  [
-    source 436
-    target 164
-    rank 9
-  ]
-  edge
-  [
-    source 436
-    target 33
-    rank 11
-  ]
-  edge
-  [
-    source 436
-    target 69
-    rank 15
-  ]
-  edge
-  [
-    source 436
-    target 153
-    rank 17
-  ]
-  edge
-  [
-    source 437
-    target 15
-    rank 4
-  ]
-  edge
-  [
-    source 437
-    target 90
-    rank 6
-  ]
-  edge
-  [
-    source 437
-    target 223
-    rank 7
-  ]
-  edge
-  [
-    source 437
-    target 215
-    rank 8
-  ]
-  edge
-  [
-    source 437
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 437
-    target 98
-    rank 13
-  ]
-  edge
-  [
-    source 437
-    target 6
-    rank 17
-  ]
-  edge
-  [
-    source 437
-    target 81
-    rank 19
-  ]
-  edge
-  [
-    source 438
-    target 214
-    rank 2
-  ]
-  edge
-  [
-    source 438
-    target 15
-    rank 5
-  ]
-  edge
-  [
-    source 438
-    target 455
-    rank 12
-  ]
-  edge
-  [
-    source 438
-    target 33
-    rank 13
-  ]
-  edge
-  [
-    source 438
-    target 6
-    rank 16
-  ]
-  edge
-  [
-    source 438
-    target 432
-    rank 19
-  ]
-  edge
-  [
-    source 439
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 439
-    target 159
-    rank 2
-  ]
-  edge
-  [
-    source 439
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 439
-    target 151
-    rank 4
-  ]
-  edge
-  [
-    source 439
-    target 131
-    rank 7
-  ]
-  edge
-  [
-    source 439
-    target 26
-    rank 8
-  ]
-  edge
-  [
-    source 439
-    target 6
-    rank 9
-  ]
-  edge
-  [
-    source 439
-    target 216
-    rank 11
-  ]
-  edge
-  [
-    source 439
-    target 167
-    rank 18
-  ]
-  edge
-  [
-    source 440
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 440
-    target 215
-    rank 2
-  ]
-  edge
-  [
-    source 440
-    target 98
-    rank 5
-  ]
-  edge
-  [
-    source 440
-    target 115
-    rank 11
-  ]
-  edge
-  [
-    source 441
-    target 416
-    rank 4
-  ]
-  edge
-  [
-    source 441
-    target 14
-    rank 12
-  ]
-  edge
-  [
-    source 441
-    target 349
-    rank 14
-  ]
-  edge
-  [
-    source 442
-    target 202
-    rank 5
-  ]
-  edge
-  [
-    source 442
-    target 33
-    rank 7
-  ]
-  edge
-  [
-    source 442
-    target 15
-    rank 8
-  ]
-  edge
-  [
-    source 442
-    target 148
-    rank 10
-  ]
-  edge
-  [
-    source 442
-    target 348
-    rank 11
-  ]
-  edge
-  [
-    source 442
-    target 19
-    rank 12
-  ]
-  edge
-  [
-    source 442
-    target 4
-    rank 20
-  ]
-  edge
-  [
-    source 443
-    target 148
-    rank 3
-  ]
-  edge
-  [
-    source 443
-    target 202
-    rank 9
-  ]
-  edge
-  [
-    source 443
-    target 146
-    rank 12
-  ]
-  edge
-  [
-    source 443
-    target 311
-    rank 13
-  ]
-  edge
-  [
-    source 443
-    target 69
-    rank 18
-  ]
-  edge
-  [
-    source 443
-    target 170
-    rank 20
-  ]
-  edge
-  [
-    source 444
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 444
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 444
-    target 177
-    rank 6
-  ]
-  edge
-  [
-    source 445
-    target 24
-    rank 1
-  ]
-  edge
-  [
-    source 445
-    target 111
-    rank 12
-  ]
-  edge
-  [
-    source 445
-    target 16
-    rank 14
-  ]
-  edge
-  [
-    source 445
-    target 81
-    rank 16
-  ]
-  edge
-  [
-    source 446
-    target 220
-    rank 20
-  ]
-  edge
-  [
-    source 448
-    target 131
-    rank 1
-  ]
-  edge
-  [
-    source 448
-    target 320
-    rank 6
-  ]
-  edge
-  [
-    source 450
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 450
-    target 179
-    rank 12
-  ]
-  edge
-  [
-    source 450
-    target 202
-    rank 16
-  ]
-  edge
-  [
-    source 450
-    target 69
-    rank 17
-  ]
-  edge
-  [
-    source 450
-    target 446
-    rank 18
-  ]
-  edge
-  [
-    source 452
-    target 33
-    rank 13
-  ]
-  edge
-  [
-    source 452
-    target 69
-    rank 16
-  ]
-  edge
-  [
-    source 453
-    target 19
-    rank 1
-  ]
-  edge
-  [
-    source 453
-    target 368
-    rank 2
-  ]
-  edge
-  [
-    source 453
-    target 8
-    rank 3
-  ]
-  edge
-  [
-    source 454
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 455
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 455
+    source 332
     target 23
-    rank 3
-  ]
-  edge
-  [
-    source 455
-    target 19
-    rank 4
-  ]
-  edge
-  [
-    source 455
-    target 4
-    rank 6
-  ]
-  edge
-  [
-    source 455
-    target 30
-    rank 7
-  ]
-  edge
-  [
-    source 455
-    target 7
-    rank 8
-  ]
-  edge
-  [
-    source 455
-    target 302
-    rank 19
-  ]
-  edge
-  [
-    source 455
-    target 216
-    rank 20
-  ]
-  edge
-  [
-    source 456
-    target 65
-    rank 3
-  ]
-  edge
-  [
-    source 456
-    target 302
-    rank 11
-  ]
-  edge
-  [
-    source 458
-    target 24
     rank 1
   ]
   edge
   [
-    source 458
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 458
-    target 117
-    rank 6
-  ]
-  edge
-  [
-    source 458
-    target 122
-    rank 7
-  ]
-  edge
-  [
-    source 458
-    target 281
-    rank 8
-  ]
-  edge
-  [
-    source 458
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 458
-    target 131
-    rank 13
-  ]
-  edge
-  [
-    source 458
-    target 308
-    rank 14
-  ]
-  edge
-  [
-    source 458
-    target 152
-    rank 15
-  ]
-  edge
-  [
-    source 458
+    source 332
     target 206
-    rank 16
-  ]
-  edge
-  [
-    source 458
-    target 349
-    rank 17
-  ]
-  edge
-  [
-    source 458
-    target 319
-    rank 18
-  ]
-  edge
-  [
-    source 458
-    target 158
-    rank 19
-  ]
-  edge
-  [
-    source 464
-    target 98
-    rank 4
-  ]
-  edge
-  [
-    source 464
-    target 115
-    rank 5
-  ]
-  edge
-  [
-    source 464
-    target 179
-    rank 7
-  ]
-  edge
-  [
-    source 464
-    target 182
-    rank 13
-  ]
-  edge
-  [
-    source 464
-    target 348
-    rank 17
-  ]
-  edge
-  [
-    source 464
-    target 250
-    rank 18
-  ]
-  edge
-  [
-    source 466
-    target 10
     rank 2
   ]
   edge
   [
-    source 471
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 471
-    target 115
-    rank 2
-  ]
-  edge
-  [
-    source 471
-    target 152
+    source 332
+    target 4
     rank 4
   ]
   edge
   [
-    source 471
-    target 69
+    source 332
+    target 159
     rank 8
   ]
   edge
   [
-    source 473
-    target 69
-    rank 11
+    source 332
+    target 33
+    rank 10
   ]
   edge
   [
-    source 474
-    target 90
-    rank 4
+    source 332
+    target 142
+    rank 12
   ]
   edge
   [
-    source 474
+    source 332
     target 194
     rank 14
   ]
   edge
   [
-    source 474
+    source 332
     target 22
     rank 16
   ]
   edge
   [
-    source 475
+    source 332
     target 69
-    rank 11
-  ]
-  edge
-  [
-    source 475
-    target 78
     rank 17
   ]
   edge
   [
-    source 477
-    target 10
-    rank 1
-  ]
-  edge
-  [
-    source 477
-    target 19
-    rank 2
-  ]
-  edge
-  [
-    source 482
+    source 333
     target 24
     rank 1
   ]
   edge
   [
-    source 482
-    target 23
+    source 333
+    target 11
     rank 2
   ]
   edge
   [
-    source 482
-    target 214
+    source 333
+    target 15
+    rank 8
+  ]
+  edge
+  [
+    source 333
+    target 122
+    rank 11
+  ]
+  edge
+  [
+    source 333
+    target 205
+    rank 13
+  ]
+  edge
+  [
+    source 333
+    target 130
+    rank 15
+  ]
+  edge
+  [
+    source 334
+    target 6
+    rank 5
+  ]
+  edge
+  [
+    source 334
+    target 283
+    rank 12
+  ]
+  edge
+  [
+    source 334
+    target 319
+    rank 20
+  ]
+  edge
+  [
+    source 336
+    target 412
+    rank 14
+  ]
+  edge
+  [
+    source 338
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 338
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 338
+    target 148
     rank 3
   ]
   edge
   [
-    source 482
-    target 117
+    source 338
+    target 98
     rank 4
   ]
   edge
   [
-    source 482
+    source 338
+    target 265
+    rank 7
+  ]
+  edge
+  [
+    source 338
+    target 172
+    rank 9
+  ]
+  edge
+  [
+    source 338
+    target 322
+    rank 11
+  ]
+  edge
+  [
+    source 338
+    target 335
+    rank 15
+  ]
+  edge
+  [
+    source 339
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 339
+    target 69
+    rank 8
+  ]
+  edge
+  [
+    source 341
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 341
+    target 207
+    rank 2
+  ]
+  edge
+  [
+    source 341
     target 15
     rank 5
   ]
   edge
   [
-    source 482
-    target 18
+    source 341
+    target 117
     rank 6
   ]
   edge
   [
-    source 482
-    target 11
-    rank 8
+    source 341
+    target 20
+    rank 10
   ]
   edge
   [
-    source 482
-    target 152
-    rank 9
-  ]
-  edge
-  [
-    source 482
-    target 6
+    source 341
+    target 21
     rank 11
   ]
   edge
   [
-    source 482
-    target 31
+    source 341
+    target 235
     rank 13
   ]
   edge
   [
-    source 482
-    target 36
-    rank 14
-  ]
-  edge
-  [
-    source 482
-    target 4
-    rank 16
-  ]
-  edge
-  [
-    source 482
-    target 2
-    rank 17
-  ]
-  edge
-  [
-    source 482
-    target 14
-    rank 20
-  ]
-  edge
-  [
-    source 484
-    target 434
-    rank 5
-  ]
-  edge
-  [
-    source 484
-    target 309
-    rank 9
-  ]
-  edge
-  [
-    source 484
-    target 311
-    rank 12
-  ]
-  edge
-  [
-    source 484
-    target 69
-    rank 13
-  ]
-  edge
-  [
-    source 484
-    target 337
+    source 341
+    target 159
     rank 15
   ]
   edge
   [
-    source 488
+    source 341
+    target 194
+    rank 18
+  ]
+  edge
+  [
+    source 341
+    target 397
+    rank 19
+  ]
+  edge
+  [
+    source 341
+    target 411
+    rank 20
+  ]
+  edge
+  [
+    source 342
+    target 225
+    rank 13
+  ]
+  edge
+  [
+    source 343
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 343
+    target 207
+    rank 3
+  ]
+  edge
+  [
+    source 343
+    target 215
+    rank 4
+  ]
+  edge
+  [
+    source 343
+    target 144
+    rank 7
+  ]
+  edge
+  [
+    source 343
+    target 98
+    rank 15
+  ]
+  edge
+  [
+    source 343
+    target 115
+    rank 17
+  ]
+  edge
+  [
+    source 344
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 344
     target 6
     rank 2
   ]
   edge
   [
-    source 495
-    target 446
+    source 345
+    target 69
+    rank 15
+  ]
+  edge
+  [
+    source 346
+    target 69
+    rank 4
+  ]
+  edge
+  [
+    source 347
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 347
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 347
+    target 1
     rank 5
   ]
   edge
   [
-    source 512
-    target 385
+    source 347
+    target 207
     rank 6
   ]
   edge
   [
-    source 512
-    target 397
+    source 347
+    target 148
+    rank 9
+  ]
+  edge
+  [
+    source 347
+    target 115
+    rank 10
+  ]
+  edge
+  [
+    source 347
+    target 98
     rank 12
   ]
   edge
   [
-    source 512
-    target 357
-    rank 13
+    source 347
+    target 159
+    rank 15
   ]
   edge
   [
-    source 541
-    target 33
-    rank 11
-  ]
-  edge
-  [
-    source 541
-    target 348
-    rank 17
-  ]
-  edge
-  [
-    source 543
-    target 10
-    rank 6
-  ]
-  edge
-  [
-    source 544
-    target 127
-    rank 5
-  ]
-  edge
-  [
-    source 544
-    target 4
-    rank 7
-  ]
-  edge
-  [
-    source 544
-    target 141
-    rank 11
-  ]
-  edge
-  [
-    source 544
-    target 33
+    source 347
+    target 172
     rank 16
   ]
   edge
   [
-    source 545
+    source 347
+    target 33
+    rank 18
+  ]
+  edge
+  [
+    source 347
+    target 260
+    rank 19
+  ]
+  edge
+  [
+    source 348
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 348
+    target 33
+    rank 3
+  ]
+  edge
+  [
+    source 348
+    target 22
+    rank 8
+  ]
+  edge
+  [
+    source 348
+    target 194
+    rank 9
+  ]
+  edge
+  [
+    source 348
+    target 142
+    rank 10
+  ]
+  edge
+  [
+    source 348
+    target 290
+    rank 12
+  ]
+  edge
+  [
+    source 348
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 348
+    target 69
+    rank 17
+  ]
+  edge
+  [
+    source 349
+    target 19
+    rank 5
+  ]
+  edge
+  [
+    source 349
+    target 117
+    rank 11
+  ]
+  edge
+  [
+    source 349
+    target 1
+    rank 15
+  ]
+  edge
+  [
+    source 350
+    target 331
+    rank 10
+  ]
+  edge
+  [
+    source 351
+    target 328
+    rank 1
+  ]
+  edge
+  [
+    source 351
+    target 262
+    rank 15
+  ]
+  edge
+  [
+    source 351
+    target 362
+    rank 16
+  ]
+  edge
+  [
+    source 352
+    target 11
+    rank 1
+  ]
+  edge
+  [
+    source 352
+    target 122
+    rank 2
+  ]
+  edge
+  [
+    source 352
+    target 15
+    rank 7
+  ]
+  edge
+  [
+    source 352
+    target 205
+    rank 9
+  ]
+  edge
+  [
+    source 352
+    target 130
+    rank 12
+  ]
+  edge
+  [
+    source 352
+    target 198
+    rank 15
+  ]
+  edge
+  [
+    source 352
+    target 265
+    rank 16
+  ]
+  edge
+  [
+    source 352
+    target 69
+    rank 20
+  ]
+  edge
+  [
+    source 353
+    target 148
+    rank 7
+  ]
+  edge
+  [
+    source 353
+    target 6
+    rank 8
+  ]
+  edge
+  [
+    source 354
+    target 215
+    rank 3
+  ]
+  edge
+  [
+    source 355
+    target 69
+    rank 18
+  ]
+  edge
+  [
+    source 356
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 356
+    target 144
+    rank 8
+  ]
+  edge
+  [
+    source 356
+    target 98
+    rank 12
+  ]
+  edge
+  [
+    source 356
+    target 148
+    rank 19
+  ]
+  edge
+  [
+    source 357
+    target 117
+    rank 3
+  ]
+  edge
+  [
+    source 357
+    target 15
+    rank 6
+  ]
+  edge
+  [
+    source 357
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 357
+    target 120
+    rank 12
+  ]
+  edge
+  [
+    source 357
+    target 4
+    rank 13
+  ]
+  edge
+  [
+    source 357
+    target 130
+    rank 14
+  ]
+  edge
+  [
+    source 357
+    target 144
+    rank 18
+  ]
+  edge
+  [
+    source 358
+    target 412
+    rank 4
+  ]
+  edge
+  [
+    source 358
+    target 336
+    rank 19
+  ]
+  edge
+  [
+    source 359
     target 19
     rank 1
   ]
   edge
   [
-    source 547
-    target 348
-    rank 7
-  ]
-  edge
-  [
-    source 548
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 548
-    target 21
+    source 359
+    target 14
     rank 3
   ]
   edge
   [
-    source 548
-    target 214
+    source 359
+    target 10
     rank 4
   ]
   edge
   [
-    source 548
-    target 164
-    rank 7
+    source 359
+    target 69
+    rank 6
   ]
   edge
   [
-    source 548
-    target 355
+    source 359
+    target 253
+    rank 11
+  ]
+  edge
+  [
+    source 360
+    target 78
     rank 17
   ]
   edge
   [
-    source 549
-    target 11
-    rank 1
-  ]
-  edge
-  [
-    source 549
+    source 361
     target 15
     rank 2
   ]
   edge
   [
-    source 549
-    target 209
-    rank 4
-  ]
-  edge
-  [
-    source 549
-    target 96
+    source 361
+    target 19
     rank 5
   ]
   edge
   [
-    source 549
-    target 103
-    rank 6
-  ]
-  edge
-  [
-    source 549
-    target 131
-    rank 7
-  ]
-  edge
-  [
-    source 549
-    target 0
-    rank 8
-  ]
-  edge
-  [
-    source 549
-    target 206
+    source 361
+    target 148
     rank 10
   ]
   edge
   [
-    source 549
-    target 122
+    source 361
+    target 4
     rank 12
+  ]
+  edge
+  [
+    source 361
+    target 265
+    rank 15
+  ]
+  edge
+  [
+    source 361
+    target 172
+    rank 16
+  ]
+  edge
+  [
+    source 361
+    target 6
+    rank 19
+  ]
+  edge
+  [
+    source 361
+    target 81
+    rank 20
+  ]
+  edge
+  [
+    source 362
+    target 351
+    rank 14
+  ]
+  edge
+  [
+    source 362
+    target 262
+    rank 20
+  ]
+  edge
+  [
+    source 363
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 363
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 363
+    target 162
+    rank 20
+  ]
+  edge
+  [
+    source 364
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 364
+    target 298
+    rank 15
+  ]
+  edge
+  [
+    source 365
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 365
+    target 11
+    rank 3
+  ]
+  edge
+  [
+    source 365
+    target 77
+    rank 5
+  ]
+  edge
+  [
+    source 365
+    target 142
+    rank 7
+  ]
+  edge
+  [
+    source 365
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 365
+    target 170
+    rank 17
+  ]
+  edge
+  [
+    source 366
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 366
+    target 283
+    rank 4
+  ]
+  edge
+  [
+    source 367
+    target 115
+    rank 13
+  ]
+  edge
+  [
+    source 367
+    target 6
+    rank 18
+  ]
+  edge
+  [
+    source 368
+    target 15
+    rank 2
+  ]
+  edge
+  [
+    source 368
+    target 57
+    rank 13
+  ]
+  edge
+  [
+    source 368
+    target 260
+    rank 15
+  ]
+  edge
+  [
+    source 369
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 369
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 369
+    target 185
+    rank 3
+  ]
+  edge
+  [
+    source 369
+    target 204
+    rank 4
+  ]
+  edge
+  [
+    source 370
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 370
+    target 6
+    rank 12
+  ]
+  edge
+  [
+    source 370
+    target 144
+    rank 15
+  ]
+  edge
+  [
+    source 371
+    target 78
+    rank 11
+  ]
+  edge
+  [
+    source 372
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 372
+    target 201
+    rank 2
+  ]
+  edge
+  [
+    source 372
+    target 11
+    rank 3
+  ]
+  edge
+  [
+    source 372
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 372
+    target 198
+    rank 7
+  ]
+  edge
+  [
+    source 372
+    target 180
+    rank 12
+  ]
+  edge
+  [
+    source 372
+    target 98
+    rank 14
+  ]
+  edge
+  [
+    source 373
+    target 69
+    rank 4
+  ]
+  edge
+  [
+    source 374
+    target 298
+    rank 1
+  ]
+  edge
+  [
+    source 374
+    target 378
+    rank 3
+  ]
+  edge
+  [
+    source 374
+    target 413
+    rank 9
+  ]
+  edge
+  [
+    source 374
+    target 15
+    rank 10
+  ]
+  edge
+  [
+    source 375
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 375
+    target 206
+    rank 5
+  ]
+  edge
+  [
+    source 375
+    target 159
+    rank 18
+  ]
+  edge
+  [
+    source 375
+    target 6
+    rank 20
+  ]
+  edge
+  [
+    source 376
+    target 207
+    rank 2
+  ]
+  edge
+  [
+    source 376
+    target 291
+    rank 4
+  ]
+  edge
+  [
+    source 376
+    target 283
+    rank 6
+  ]
+  edge
+  [
+    source 376
+    target 98
+    rank 7
+  ]
+  edge
+  [
+    source 376
+    target 149
+    rank 9
+  ]
+  edge
+  [
+    source 376
+    target 322
+    rank 11
+  ]
+  edge
+  [
+    source 377
+    target 69
+    rank 3
+  ]
+  edge
+  [
+    source 378
+    target 11
+    rank 1
+  ]
+  edge
+  [
+    source 378
+    target 22
+    rank 2
+  ]
+  edge
+  [
+    source 378
+    target 194
+    rank 3
+  ]
+  edge
+  [
+    source 378
+    target 24
+    rank 4
+  ]
+  edge
+  [
+    source 378
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 378
+    target 298
+    rank 14
+  ]
+  edge
+  [
+    source 378
+    target 87
+    rank 17
+  ]
+  edge
+  [
+    source 378
+    target 134
+    rank 18
+  ]
+  edge
+  [
+    source 378
+    target 349
+    rank 20
+  ]
+  edge
+  [
+    source 379
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 380
+    target 2
+    rank 11
+  ]
+  edge
+  [
+    source 380
+    target 283
+    rank 15
+  ]
+  edge
+  [
+    source 381
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 382
+    target 142
+    rank 6
+  ]
+  edge
+  [
+    source 382
+    target 69
+    rank 10
+  ]
+  edge
+  [
+    source 383
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 383
+    target 194
+    rank 4
+  ]
+  edge
+  [
+    source 383
+    target 152
+    rank 5
+  ]
+  edge
+  [
+    source 383
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 383
+    target 220
+    rank 10
+  ]
+  edge
+  [
+    source 384
+    target 154
+    rank 1
+  ]
+  edge
+  [
+    source 384
+    target 13
+    rank 7
+  ]
+  edge
+  [
+    source 384
+    target 206
+    rank 9
+  ]
+  edge
+  [
+    source 384
+    target 148
+    rank 11
+  ]
+  edge
+  [
+    source 384
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 384
+    target 79
+    rank 13
+  ]
+  edge
+  [
+    source 384
+    target 98
+    rank 14
+  ]
+  edge
+  [
+    source 384
+    target 265
+    rank 15
+  ]
+  edge
+  [
+    source 384
+    target 152
+    rank 16
+  ]
+  edge
+  [
+    source 384
+    target 172
+    rank 17
+  ]
+  edge
+  [
+    source 384
+    target 260
+    rank 19
+  ]
+  edge
+  [
+    source 385
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 385
+    target 19
+    rank 2
+  ]
+  edge
+  [
+    source 385
+    target 130
+    rank 3
+  ]
+  edge
+  [
+    source 385
+    target 33
+    rank 4
+  ]
+  edge
+  [
+    source 385
+    target 159
+    rank 5
+  ]
+  edge
+  [
+    source 385
+    target 111
+    rank 6
+  ]
+  edge
+  [
+    source 385
+    target 10
+    rank 9
+  ]
+  edge
+  [
+    source 385
+    target 194
+    rank 11
+  ]
+  edge
+  [
+    source 385
+    target 69
+    rank 13
+  ]
+  edge
+  [
+    source 385
+    target 344
+    rank 15
+  ]
+  edge
+  [
+    source 386
+    target 235
+    rank 4
+  ]
+  edge
+  [
+    source 387
+    target 159
+    rank 7
+  ]
+  edge
+  [
+    source 387
+    target 142
+    rank 16
+  ]
+  edge
+  [
+    source 387
+    target 194
+    rank 17
+  ]
+  edge
+  [
+    source 387
+    target 322
+    rank 18
+  ]
+  edge
+  [
+    source 387
+    target 149
+    rank 20
+  ]
+  edge
+  [
+    source 388
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 388
+    target 11
+    rank 4
+  ]
+  edge
+  [
+    source 388
+    target 24
+    rank 7
+  ]
+  edge
+  [
+    source 388
+    target 21
+    rank 11
+  ]
+  edge
+  [
+    source 388
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 388
+    target 18
+    rank 14
+  ]
+  edge
+  [
+    source 388
+    target 31
+    rank 19
+  ]
+  edge
+  [
+    source 389
+    target 378
+    rank 4
+  ]
+  edge
+  [
+    source 389
+    target 374
+    rank 7
+  ]
+  edge
+  [
+    source 389
+    target 323
+    rank 14
+  ]
+  edge
+  [
+    source 390
+    target 26
+    rank 2
+  ]
+  edge
+  [
+    source 391
+    target 352
+    rank 20
+  ]
+  edge
+  [
+    source 392
+    target 215
+    rank 1
+  ]
+  edge
+  [
+    source 392
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 392
+    target 10
+    rank 16
+  ]
+  edge
+  [
+    source 393
+    target 48
+    rank 20
+  ]
+  edge
+  [
+    source 394
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 394
+    target 77
+    rank 4
+  ]
+  edge
+  [
+    source 394
+    target 14
+    rank 8
+  ]
+  edge
+  [
+    source 394
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 395
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 395
+    target 159
+    rank 9
+  ]
+  edge
+  [
+    source 395
+    target 33
+    rank 11
+  ]
+  edge
+  [
+    source 395
+    target 69
+    rank 15
+  ]
+  edge
+  [
+    source 395
+    target 149
+    rank 17
+  ]
+  edge
+  [
+    source 396
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 396
+    target 90
+    rank 6
+  ]
+  edge
+  [
+    source 396
+    target 215
+    rank 7
+  ]
+  edge
+  [
+    source 396
+    target 207
+    rank 8
+  ]
+  edge
+  [
+    source 396
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 396
+    target 98
+    rank 13
+  ]
+  edge
+  [
+    source 396
+    target 6
+    rank 17
+  ]
+  edge
+  [
+    source 396
+    target 81
+    rank 19
+  ]
+  edge
+  [
+    source 397
+    target 206
+    rank 2
+  ]
+  edge
+  [
+    source 397
+    target 15
+    rank 5
+  ]
+  edge
+  [
+    source 397
+    target 411
+    rank 12
+  ]
+  edge
+  [
+    source 397
+    target 33
+    rank 13
+  ]
+  edge
+  [
+    source 397
+    target 6
+    rank 16
+  ]
+  edge
+  [
+    source 397
+    target 391
+    rank 19
+  ]
+  edge
+  [
+    source 398
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 398
+    target 154
+    rank 2
+  ]
+  edge
+  [
+    source 398
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 398
+    target 147
+    rank 4
+  ]
+  edge
+  [
+    source 398
+    target 130
+    rank 7
+  ]
+  edge
+  [
+    source 398
+    target 26
+    rank 8
+  ]
+  edge
+  [
+    source 398
+    target 6
+    rank 9
+  ]
+  edge
+  [
+    source 398
+    target 208
+    rank 11
+  ]
+  edge
+  [
+    source 398
+    target 162
+    rank 18
+  ]
+  edge
+  [
+    source 399
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 399
+    target 207
+    rank 2
+  ]
+  edge
+  [
+    source 399
+    target 98
+    rank 5
+  ]
+  edge
+  [
+    source 399
+    target 115
+    rank 11
+  ]
+  edge
+  [
+    source 400
+    target 378
+    rank 4
+  ]
+  edge
+  [
+    source 400
+    target 14
+    rank 12
+  ]
+  edge
+  [
+    source 400
+    target 323
+    rank 14
+  ]
+  edge
+  [
+    source 401
+    target 194
+    rank 5
+  ]
+  edge
+  [
+    source 401
+    target 33
+    rank 7
+  ]
+  edge
+  [
+    source 401
+    target 15
+    rank 8
+  ]
+  edge
+  [
+    source 401
+    target 144
+    rank 10
+  ]
+  edge
+  [
+    source 401
+    target 322
+    rank 11
+  ]
+  edge
+  [
+    source 401
+    target 19
+    rank 12
+  ]
+  edge
+  [
+    source 401
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 402
+    target 144
+    rank 3
+  ]
+  edge
+  [
+    source 402
+    target 194
+    rank 9
+  ]
+  edge
+  [
+    source 402
+    target 142
+    rank 12
+  ]
+  edge
+  [
+    source 402
+    target 291
+    rank 13
+  ]
+  edge
+  [
+    source 402
+    target 69
+    rank 18
+  ]
+  edge
+  [
+    source 402
+    target 164
+    rank 20
+  ]
+  edge
+  [
+    source 403
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 403
+    target 33
+    rank 4
+  ]
+  edge
+  [
+    source 403
+    target 170
+    rank 6
+  ]
+  edge
+  [
+    source 404
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 404
+    target 111
+    rank 12
+  ]
+  edge
+  [
+    source 404
+    target 16
+    rank 14
+  ]
+  edge
+  [
+    source 404
+    target 81
+    rank 16
+  ]
+  edge
+  [
+    source 405
+    target 212
+    rank 20
+  ]
+  edge
+  [
+    source 406
+    target 130
+    rank 1
+  ]
+  edge
+  [
+    source 406
+    target 299
+    rank 6
+  ]
+  edge
+  [
+    source 407
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 407
+    target 172
+    rank 12
+  ]
+  edge
+  [
+    source 407
+    target 194
+    rank 16
+  ]
+  edge
+  [
+    source 407
+    target 69
+    rank 17
+  ]
+  edge
+  [
+    source 407
+    target 405
+    rank 18
+  ]
+  edge
+  [
+    source 408
+    target 33
+    rank 13
+  ]
+  edge
+  [
+    source 408
+    target 69
+    rank 16
+  ]
+  edge
+  [
+    source 409
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 409
+    target 337
+    rank 2
+  ]
+  edge
+  [
+    source 409
+    target 8
+    rank 3
+  ]
+  edge
+  [
+    source 410
+    target 37
+    rank 7
+  ]
+  edge
+  [
+    source 411
+    target 17
+    rank 2
+  ]
+  edge
+  [
+    source 411
+    target 23
+    rank 3
+  ]
+  edge
+  [
+    source 411
+    target 19
+    rank 4
+  ]
+  edge
+  [
+    source 411
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 411
+    target 30
+    rank 7
+  ]
+  edge
+  [
+    source 411
+    target 7
+    rank 8
+  ]
+  edge
+  [
+    source 411
+    target 283
+    rank 19
+  ]
+  edge
+  [
+    source 411
+    target 208
+    rank 20
+  ]
+  edge
+  [
+    source 412
+    target 65
+    rank 3
+  ]
+  edge
+  [
+    source 412
+    target 283
+    rank 11
+  ]
+  edge
+  [
+    source 413
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 413
+    target 15
+    rank 3
+  ]
+  edge
+  [
+    source 413
+    target 117
+    rank 6
+  ]
+  edge
+  [
+    source 413
+    target 122
+    rank 7
+  ]
+  edge
+  [
+    source 413
+    target 266
+    rank 8
+  ]
+  edge
+  [
+    source 413
+    target 37
+    rank 9
+  ]
+  edge
+  [
+    source 413
+    target 130
+    rank 13
+  ]
+  edge
+  [
+    source 413
+    target 289
+    rank 14
+  ]
+  edge
+  [
+    source 413
+    target 148
+    rank 15
+  ]
+  edge
+  [
+    source 413
+    target 198
+    rank 16
+  ]
+  edge
+  [
+    source 413
+    target 323
+    rank 17
+  ]
+  edge
+  [
+    source 413
+    target 298
+    rank 18
+  ]
+  edge
+  [
+    source 413
+    target 153
+    rank 19
+  ]
+  edge
+  [
+    source 414
+    target 98
+    rank 4
+  ]
+  edge
+  [
+    source 414
+    target 115
+    rank 5
+  ]
+  edge
+  [
+    source 414
+    target 172
+    rank 7
+  ]
+  edge
+  [
+    source 414
+    target 175
+    rank 13
+  ]
+  edge
+  [
+    source 414
+    target 322
+    rank 17
+  ]
+  edge
+  [
+    source 414
+    target 240
+    rank 18
+  ]
+  edge
+  [
+    source 415
+    target 10
+    rank 2
+  ]
+  edge
+  [
+    source 416
+    target 206
+    rank 1
+  ]
+  edge
+  [
+    source 416
+    target 115
+    rank 2
+  ]
+  edge
+  [
+    source 416
+    target 148
+    rank 4
+  ]
+  edge
+  [
+    source 416
+    target 69
+    rank 8
+  ]
+  edge
+  [
+    source 417
+    target 69
+    rank 11
+  ]
+  edge
+  [
+    source 418
+    target 90
+    rank 4
+  ]
+  edge
+  [
+    source 418
+    target 187
+    rank 14
+  ]
+  edge
+  [
+    source 418
+    target 22
+    rank 16
+  ]
+  edge
+  [
+    source 419
+    target 69
+    rank 11
+  ]
+  edge
+  [
+    source 419
+    target 78
+    rank 17
+  ]
+  edge
+  [
+    source 420
+    target 10
+    rank 1
+  ]
+  edge
+  [
+    source 420
+    target 19
+    rank 2
+  ]
+  edge
+  [
+    source 421
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 421
+    target 23
+    rank 2
+  ]
+  edge
+  [
+    source 421
+    target 206
+    rank 3
+  ]
+  edge
+  [
+    source 421
+    target 117
+    rank 4
+  ]
+  edge
+  [
+    source 421
+    target 15
+    rank 5
+  ]
+  edge
+  [
+    source 421
+    target 18
+    rank 6
+  ]
+  edge
+  [
+    source 421
+    target 11
+    rank 8
+  ]
+  edge
+  [
+    source 421
+    target 148
+    rank 9
+  ]
+  edge
+  [
+    source 421
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 421
+    target 31
+    rank 13
+  ]
+  edge
+  [
+    source 421
+    target 36
+    rank 14
+  ]
+  edge
+  [
+    source 421
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 421
+    target 2
+    rank 17
+  ]
+  edge
+  [
+    source 421
+    target 14
+    rank 20
+  ]
+  edge
+  [
+    source 422
+    target 393
+    rank 5
+  ]
+  edge
+  [
+    source 422
+    target 290
+    rank 9
+  ]
+  edge
+  [
+    source 422
+    target 291
+    rank 12
+  ]
+  edge
+  [
+    source 422
+    target 69
+    rank 13
+  ]
+  edge
+  [
+    source 422
+    target 312
+    rank 15
+  ]
+  edge
+  [
+    source 423
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 424
+    target 405
+    rank 5
+  ]
+  edge
+  [
+    source 425
+    target 351
+    rank 6
+  ]
+  edge
+  [
+    source 425
+    target 362
+    rank 12
+  ]
+  edge
+  [
+    source 425
+    target 328
+    rank 13
+  ]
+  edge
+  [
+    source 426
+    target 33
+    rank 11
+  ]
+  edge
+  [
+    source 426
+    target 322
+    rank 17
+  ]
+  edge
+  [
+    source 427
+    target 10
+    rank 6
+  ]
+  edge
+  [
+    source 428
+    target 127
+    rank 5
+  ]
+  edge
+  [
+    source 428
+    target 4
+    rank 7
+  ]
+  edge
+  [
+    source 428
+    target 138
+    rank 11
+  ]
+  edge
+  [
+    source 428
+    target 33
+    rank 16
+  ]
+  edge
+  [
+    source 429
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 430
+    target 322
+    rank 7
+  ]
+  edge
+  [
+    source 431
+    target 15
+    rank 1
+  ]
+  edge
+  [
+    source 431
+    target 21
+    rank 3
+  ]
+  edge
+  [
+    source 431
+    target 206
+    rank 4
+  ]
+  edge
+  [
+    source 431
+    target 159
+    rank 7
+  ]
+  edge
+  [
+    source 431
+    target 327
+    rank 17
   ]
 ]

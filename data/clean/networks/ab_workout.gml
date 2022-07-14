@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 16:13:30 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 18:31:40 2022"
 Version 1
 graph
 [
@@ -6,25 +6,7 @@ graph
   node
   [
     id 0
-    label "1f8yoFFdkcY"
-    step 0
-    date "2020-02-16T08:00:00Z"
-    title "10 MIN BEGINNER AB WORKOUT // No Equipment | Pamela Reif"
-    description "Ohhhh yes - a BEGINNER ab workout! &#9829;&#65038; / Werbung &#10;&#10;If you have a hard time keeping up with my super intense &#34;10min Ab Workout&#34; and &#34;10min Sixpack Workout&#34;... THIS ONE IS FOR YOU :) &#10;&#10;Everybody starts somewhere and my other workouts require suuuper strong core muscles. That's why I really wanted to create an ab workout, that is suitable for beginners - while still being super effective. &#10;&#10;And listen.. it even includes BREAKS! :D &#10;(If you feel like it's too easy with the breaks though: just continue the last exercise during the break &#38; jump into the new movement one once I start with it as well)&#10;&#10;My mom tried this workout and said, that it's 100% manageable for her .. although she usually isn't so much into working out. That means: no excuses for you. GIVE IT A TRY &#9829;&#65038;&#10;&#10;__&#10;&#10;No Equipment necessary and not much space needed :) The video is in full length which means you can just follow whatever I&#8217;m doing 30s for each exercise. There is a small break included and you can have a look at what exercise is up next. &#10;&#10;I recommend switching up your workouts to give your muscles enough time to recover and to hit them from different angles.&#10;I have more workouts that are suitable for beginners! Check out my &#10;- 20min Full Body Workout,&#10;- Good Morning Workout, &#10;- 10min Cool Down Routine or my &#10;- 10min Sexy Arm Workout&#10; &#10;__&#10;&#10;&#9656; You can always find ALL SONGS in my workout playlist. I update it weekly &#38; it's available on Spotify, Apple Music, etc. &#9829;&#65038;&#10;http://wmg.click/GetActive&#10;&#10;1. &#34;In Your Eyes&#34; by Robin Schulz feat. Alida &#10;2. &#34;Mambo&#34; by  Nikki Vianna&#10;3. &#34;Not So Bad&#34; by Yves V, Ilkay Sencan feat. Emie &#10;4. &#34;Birthday&#34; by Anne-Marie&#10;&#10;__&#10;&#10;&#10142; Instagram http://www.instagram.com/pamela_rf/&#10;&#10142; Food Account http://www.instagram.com/pamgoesnuts/&#10;&#10;__&#10;&#10;Contact (business inquiries):&#10;pamela_reif@icloud.com &#10;&#10;__&#10;unterst&#252;tzt durch Warner Music Germany&#10;&#10;Disclaimer:&#10;When joining me for this workout video, you need to take some precautions as your health and safety is the most important.&#160;To avoid any injury or harm, you need to check your health with your doctor before exercising.&#160;By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video."
-    channeltitle "Pamela Reif"
-    channelid "UChVRfsT_ASBZk10o0An7Ucg"
-    favcount 0
-    viewcount 64189596
-    likecount 824320
-    commentcount 13817
-    duration "PT10M30S"
-    indegree 140
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 1
+    name "1"
     label "Cnmy08JgakM"
     step 0
     date "2021-09-15T17:08:35Z"
@@ -38,12 +20,21 @@ graph
     commentcount 583
     duration "PT16M46S"
     indegree 44
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 2
+    id 1
+    name "2"
     label "AnYl6Nk9GOA"
     step 0
     date "2019-10-20T07:00:00Z"
@@ -57,12 +48,21 @@ graph
     commentcount 19325
     duration "PT10M26S"
     indegree 92
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 3
+    id 2
+    name "3"
     label "8AAmaSOSyIA"
     step 0
     date "2020-03-27T13:30:00Z"
@@ -76,12 +76,21 @@ graph
     commentcount 2783
     duration "PT23M12S"
     indegree 33
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 4
+    id 3
+    name "4"
     label "2pLT-olgUJs"
     step 0
     date "2019-08-12T11:45:00Z"
@@ -95,12 +104,21 @@ graph
     commentcount 294236
     duration "PT11M4S"
     indegree 186
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 5
+    id 4
+    name "5"
     label "8PwoytUU06g"
     step 0
     date "2021-10-14T18:00:02Z"
@@ -114,12 +132,21 @@ graph
     commentcount 4010
     duration "PT23M44S"
     indegree 69
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 6
+    id 5
+    name "6"
     label "vOiP3kfFlrE"
     step 0
     date "2021-06-23T03:00:13Z"
@@ -133,12 +160,21 @@ graph
     commentcount 3857
     duration "PT10M4S"
     indegree 105
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 7
+    id 6
+    name "7"
     label "QfMlHzgzBwQ"
     step 0
     date "2022-01-27T20:28:08Z"
@@ -152,12 +188,21 @@ graph
     commentcount 702
     duration "PT12M20S"
     indegree 26
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 8
+    id 7
+    name "8"
     label "uCKgK6qDdrU"
     step 0
     date "2022-02-28T20:17:03Z"
@@ -171,12 +216,21 @@ graph
     commentcount 369
     duration "PT11M41S"
     indegree 41
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 9
+    id 8
+    name "9"
     label "54x6yjnzLms"
     step 0
     date "2020-12-15T05:00:00Z"
@@ -190,12 +244,21 @@ graph
     commentcount 4031
     duration "PT10M40S"
     indegree 119
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 10
+    id 9
+    name "10"
     label "cbCt69XAUKA"
     step 0
     date "2018-01-25T19:41:00Z"
@@ -209,12 +272,21 @@ graph
     commentcount 24126
     duration "PT9M57S"
     indegree 25
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 11
+    id 10
+    name "11"
     label "9p7-YC91Q74"
     step 0
     date "2019-12-20T15:30:00Z"
@@ -228,12 +300,21 @@ graph
     commentcount 7948
     duration "PT10M2S"
     indegree 54
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 12
+    id 11
+    name "12"
     label "uUKAYkQZXko"
     step 0
     date "2018-12-27T19:00:07Z"
@@ -247,12 +328,21 @@ graph
     commentcount 19827
     duration "PT10M27S"
     indegree 65
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 13
+    id 12
+    name "13"
     label "zzD80vCLq0Y"
     step 0
     date "2021-01-24T17:52:35Z"
@@ -266,12 +356,21 @@ graph
     commentcount 3154
     duration "PT12M18S"
     indegree 59
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 14
+    id 13
+    name "14"
     label "P1mInEK7BEU"
     step 0
     date "2021-04-19T00:00:04Z"
@@ -285,12 +384,21 @@ graph
     commentcount 5160
     duration "PT33M27S"
     indegree 26
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 15
+    id 14
+    name "15"
     label "yEllr_kIV4I"
     step 0
     date "2020-02-05T18:00:09Z"
@@ -304,12 +412,21 @@ graph
     commentcount 2885
     duration "PT10M37S"
     indegree 35
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 16
+    id 15
+    name "16"
     label "Goo0g_zmFBY"
     step 0
     date "2020-03-29T08:00:02Z"
@@ -323,12 +440,21 @@ graph
     commentcount 2114
     duration "PT12M40S"
     indegree 26
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 17
+    id 16
+    name "17"
     label "zXITzjuRXYo"
     step 0
     date "2020-11-13T15:44:53Z"
@@ -342,12 +468,21 @@ graph
     commentcount 2116
     duration "PT6M38S"
     indegree 28
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 18
+    id 17
+    name "18"
     label "uO2UMEKlBTo"
     step 0
     date "2021-09-24T14:11:11Z"
@@ -361,12 +496,21 @@ graph
     commentcount 261
     duration "PT12M1S"
     indegree 12
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 19
+    id 18
+    name "19"
     label "M6VjjM4nMLo"
     step 0
     date "2018-03-28T23:00:00Z"
@@ -380,12 +524,21 @@ graph
     commentcount 8082
     duration "PT8M17S"
     indegree 13
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 20
+    id 19
+    name "20"
     label "r7gKGvjfyHg"
     step 0
     date "2020-12-01T18:49:32Z"
@@ -399,12 +552,21 @@ graph
     commentcount 794
     duration "PT13M59S"
     indegree 13
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 21
+    id 20
+    name "21"
     label "glxrwC9zsHY"
     step 0
     date "2018-12-15T19:18:25Z"
@@ -418,12 +580,21 @@ graph
     commentcount 3354
     duration "PT16M58S"
     indegree 17
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 22
+    id 21
+    name "22"
     label "PvUdEKEJBnU"
     step 0
     date "2022-04-05T01:30:04Z"
@@ -437,12 +608,21 @@ graph
     commentcount 1177
     duration "PT11M3S"
     indegree 63
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 23
+    id 22
+    name "23"
     label "YHx_mah4Xhs"
     step 0
     date "2022-04-02T01:00:30Z"
@@ -456,12 +636,21 @@ graph
     commentcount 232
     duration "PT15M42S"
     indegree 31
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 24
+    id 23
+    name "24"
     label "R8oZk2wnpY0"
     step 0
     date "2021-04-07T15:20:36Z"
@@ -475,12 +664,21 @@ graph
     commentcount 4159
     duration "PT10M24S"
     indegree 56
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 25
+    id 24
+    name "25"
     label "ohgLmY19jNg"
     step 0
     date "2020-05-08T16:30:12Z"
@@ -494,12 +692,21 @@ graph
     commentcount 49195
     duration "PT5M53S"
     indegree 85
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 26
+    id 25
+    name "26"
     label "lno9GbdrVh4"
     step 0
     date "2022-06-12T21:43:32Z"
@@ -513,12 +720,21 @@ graph
     commentcount 99
     duration "PT10M13S"
     indegree 31
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 27
+    id 26
+    name "27"
     label "NFr-3aAb2Gg"
     step 0
     date "2022-02-23T02:00:10Z"
@@ -532,12 +748,21 @@ graph
     commentcount 368
     duration "PT27M53S"
     indegree 36
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 28
+    id 27
+    name "28"
     label "yxjbxsX7y_E"
     step 0
     date "2022-06-30T10:00:09Z"
@@ -551,12 +776,21 @@ graph
     commentcount 34
     duration "PT10M46S"
     indegree 1
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 29
+    id 28
+    name "29"
     label "Ta8_ASDu9yk"
     step 0
     date "2021-10-12T16:30:07Z"
@@ -570,12 +804,21 @@ graph
     commentcount 615
     duration "PT10M25S"
     indegree 54
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 30
+    id 29
+    name "30"
     label "1919eTCoESo"
     step 0
     date "2012-01-17T19:12:28Z"
@@ -589,12 +832,21 @@ graph
     commentcount 10987
     duration "PT10M13S"
     indegree 33
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 31
+    id 30
+    name "31"
     label "EfJ4aB_enVE"
     step 0
     date "2020-06-12T05:30:00Z"
@@ -608,12 +860,21 @@ graph
     commentcount 6755
     duration "PT15M41S"
     indegree 107
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 32
+    id 31
+    name "32"
     label "rptV4dEJUx4"
     step 0
     date "2018-12-04T18:01:40Z"
@@ -627,12 +888,21 @@ graph
     commentcount 5329
     duration "PT13M43S"
     indegree 38
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 33
+    id 32
+    name "33"
     label "svdPTfOpAyQ"
     step 0
     date "2020-08-17T15:38:05Z"
@@ -646,12 +916,21 @@ graph
     commentcount 3112
     duration "PT12M2S"
     indegree 35
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 34
+    id 33
+    name "34"
     label "t9gaMVgKkgs"
     step 0
     date "2021-01-06T12:00:14Z"
@@ -665,12 +944,21 @@ graph
     commentcount 397
     duration "PT12M21S"
     indegree 17
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 35
+    id 34
+    name "35"
     label "KFcUwNl7eXo"
     step 0
     date "2021-07-06T13:19:50Z"
@@ -684,12 +972,21 @@ graph
     commentcount 604
     duration "PT21M38S"
     indegree 19
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 36
+    id 35
+    name "36"
     label "YSqdzrmJAlw"
     step 0
     date "2021-08-26T04:30:04Z"
@@ -703,12 +1000,21 @@ graph
     commentcount 311
     duration "PT12M52S"
     indegree 6
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 37
+    id 36
+    name "37"
     label "DHD1-2P94DI"
     step 0
     date "2018-10-25T17:34:06Z"
@@ -722,12 +1028,21 @@ graph
     commentcount 13496
     duration "PT12M7S"
     indegree 27
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 38
+    id 37
+    name "38"
     label "QDUklXQJ_6E"
     step 0
     date "2020-08-04T19:00:10Z"
@@ -741,12 +1056,21 @@ graph
     commentcount 4574
     duration "PT10M25S"
     indegree 75
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 39
+    id 38
+    name "39"
     label "cO7iMCci904"
     step 0
     date "2020-04-23T15:00:15Z"
@@ -760,12 +1084,21 @@ graph
     commentcount 2954
     duration "PT26M24S"
     indegree 16
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 40
+    id 39
+    name "40"
     label "XgI_p8bKg78"
     step 0
     date "2021-02-22T01:00:03Z"
@@ -779,12 +1112,21 @@ graph
     commentcount 4242
     duration "PT23M40S"
     indegree 27
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 41
+    id 40
+    name "41"
     label "hxjKZcOT17E"
     step 0
     date "2013-05-01T20:01:05Z"
@@ -798,12 +1140,21 @@ graph
     commentcount 16628
     duration "PT12M3S"
     indegree 14
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 42
+    id 41
+    name "42"
     label "mPc_Z7SuvPc"
     step 0
     date "2021-12-12T19:04:10Z"
@@ -817,12 +1168,21 @@ graph
     commentcount 84
     duration "PT6M14S"
     indegree 21
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 43
+    id 42
+    name "43"
     label "AvWVYgzH_f4"
     step 0
     date "2021-03-29T12:00:09Z"
@@ -836,12 +1196,21 @@ graph
     commentcount 9571
     duration "PT11M12S"
     indegree 27
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 44
+    id 43
+    name "44"
     label "rK_tmffSghQ"
     step 0
     date "2021-04-12T14:11:47Z"
@@ -855,12 +1224,21 @@ graph
     commentcount 1661
     duration "PT17M27S"
     indegree 30
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 45
+    id 44
+    name "45"
     label "i27K2ry9jEo"
     step 0
     date "2021-05-02T17:20:06Z"
@@ -874,12 +1252,21 @@ graph
     commentcount 2856
     duration "PT10M19S"
     indegree 26
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 46
+    id 45
+    name "46"
     label "Gn2EWxH7ME8"
     step 0
     date "2021-12-07T20:00:07Z"
@@ -893,12 +1280,21 @@ graph
     commentcount 438
     duration "PT32M34S"
     indegree 19
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 47
+    id 46
+    name "47"
     label "wGS_lTcBHhw"
     step 0
     date "2021-08-10T11:00:33Z"
@@ -912,12 +1308,21 @@ graph
     commentcount 237
     duration "PT12M39S"
     indegree 7
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 48
+    id 47
+    name "48"
     label "53B40Aw0k3g"
     step 0
     date "2022-04-25T15:27:28Z"
@@ -931,12 +1336,21 @@ graph
     commentcount 218
     duration "PT22M48S"
     indegree 12
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 49
+    id 48
+    name "49"
     label "3p8EBPVZ2Iw"
     step 0
     date "2018-07-02T01:25:44Z"
@@ -950,12 +1364,21 @@ graph
     commentcount 76091
     duration "PT12M"
     indegree 83
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 50
+    id 49
+    name "50"
     label "vkKCVCZe474"
     step 0
     date "2010-04-02T10:46:55Z"
@@ -969,12 +1392,21 @@ graph
     commentcount 31772
     duration "PT8M15S"
     indegree 34
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 51
+    id 50
+    name "51"
     label "dJlFmxiL11s"
     step 0
     date "2015-07-21T19:19:53Z"
@@ -988,12 +1420,21 @@ graph
     commentcount 4332
     duration "PT10M16S"
     indegree 45
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 52
+    id 51
+    name "52"
     label "Jx5VKHQgWMY"
     step 0
     date "2021-04-11T12:30:05Z"
@@ -1007,12 +1448,21 @@ graph
     commentcount 790
     duration "PT11M48S"
     indegree 12
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 53
+    id 52
+    name "53"
     label "5i8y-_cbwgw"
     step 0
     date "2020-08-19T08:00:00Z"
@@ -1026,12 +1476,21 @@ graph
     commentcount 1490
     duration "PT31M22S"
     indegree 22
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 54
+    id 53
+    name "54"
     label "N9rQIk9puXI"
     step 0
     date "2022-03-31T17:59:48Z"
@@ -1045,12 +1504,21 @@ graph
     commentcount 675
     duration "PT7M54S"
     indegree 14
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 55
+    id 54
+    name "55"
     label "FXloHGTJ_k0"
     step 0
     date "2021-02-16T15:26:44Z"
@@ -1064,12 +1532,21 @@ graph
     commentcount 4041
     duration "PT10M5S"
     indegree 64
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 56
+    id 55
+    name "56"
     label "xF4_1h-WUq8"
     step 0
     date "2020-06-06T13:00:12Z"
@@ -1083,12 +1560,21 @@ graph
     commentcount -1
     duration "PT11M18S"
     indegree 1
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 57
+    id 56
+    name "57"
     label "JLdSuFF62AI"
     step 0
     date "2020-05-22T17:19:52Z"
@@ -1102,12 +1588,21 @@ graph
     commentcount 5198
     duration "PT10M14S"
     indegree 40
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 58
+    id 57
+    name "58"
     label "5cMYysFl4CY"
     step 0
     date "2016-04-21T16:55:21Z"
@@ -1121,12 +1616,21 @@ graph
     commentcount 4318
     duration "PT9M54S"
     indegree 8
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 59
+    id 58
+    name "59"
     label "V4sWpLJcQoU"
     step 0
     date "2020-02-18T12:30:02Z"
@@ -1140,12 +1644,21 @@ graph
     commentcount 10007
     duration "PT10M38S"
     indegree 46
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 60
+    id 59
+    name "60"
     label "urBJkOFnKVc"
     step 0
     date "2022-04-25T11:00:17Z"
@@ -1159,12 +1672,21 @@ graph
     commentcount 271
     duration "PT10M48S"
     indegree 8
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 61
+    id 60
+    name "61"
     label "-I9Rp0HMatM"
     step 0
     date "2021-11-09T17:19:57Z"
@@ -1178,12 +1700,21 @@ graph
     commentcount 493
     duration "PT6M32S"
     indegree 12
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 62
+    id 61
+    name "62"
     label "MznqHWzCv8s"
     step 0
     date "2020-07-01T16:30:01Z"
@@ -1197,12 +1728,21 @@ graph
     commentcount 1693
     duration "PT15M24S"
     indegree 11
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 63
+    id 62
+    name "63"
     label "huqPu2epmcw"
     step 0
     date "2021-06-22T11:00:17Z"
@@ -1216,12 +1756,21 @@ graph
     commentcount 241
     duration "PT8M54S"
     indegree 11
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 64
+    id 63
+    name "64"
     label "z2ggDhOqLsk"
     step 0
     date "2021-08-18T03:30:11Z"
@@ -1235,12 +1784,21 @@ graph
     commentcount 821
     duration "PT11M9S"
     indegree 22
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 65
+    id 64
+    name "65"
     label "vt-9sMWqUsc"
     step 0
     date "2020-12-08T12:00:14Z"
@@ -1254,12 +1812,21 @@ graph
     commentcount 1351
     duration "PT6M13S"
     indegree 13
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 66
+    id 65
+    name "66"
     label "31O70ckvY3c"
     step 0
     date "2021-09-07T15:35:40Z"
@@ -1273,12 +1840,21 @@ graph
     commentcount 346
     duration "PT12M22S"
     indegree 8
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 67
+    id 66
+    name "67"
     label "3M3W5VCsuCY"
     step 0
     date "2019-09-25T21:09:01Z"
@@ -1292,12 +1868,21 @@ graph
     commentcount 2146
     duration "PT7M15S"
     indegree 12
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 68
+    id 67
+    name "68"
     label "xZaSVMB2yy0"
     step 0
     date "2022-03-22T16:55:41Z"
@@ -1311,12 +1896,21 @@ graph
     commentcount 145
     duration "PT10M12S"
     indegree 27
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 69
+    id 68
+    name "69"
     label "2RrGnjxSsiA"
     step 0
     date "2019-08-27T16:00:21Z"
@@ -1330,12 +1924,21 @@ graph
     commentcount 1124
     duration "PT7M51S"
     indegree 16
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 70
+    id 69
+    name "70"
     label "3SUtOSaOn1M"
     step 0
     date "2021-02-24T16:00:01Z"
@@ -1349,12 +1952,21 @@ graph
     commentcount 660
     duration "PT11M7S"
     indegree 9
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 71
+    id 70
+    name "71"
     label "qfWx1EPdhwE"
     step 0
     date "2020-08-25T16:36:45Z"
@@ -1368,12 +1980,21 @@ graph
     commentcount 1254
     duration "PT16M34S"
     indegree 22
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 72
+    id 71
+    name "72"
     label "Q-vuR4PJh2c"
     step 0
     date "2018-01-08T18:38:38Z"
@@ -1387,12 +2008,21 @@ graph
     commentcount 12653
     duration "PT10M22S"
     indegree 52
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 73
+    id 72
+    name "73"
     label "F6PhNnlb-14"
     step 0
     date "2020-04-02T19:30:36Z"
@@ -1406,12 +2036,21 @@ graph
     commentcount 14062
     duration "PT7M4S"
     indegree 25
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 74
+    id 73
+    name "74"
     label "MmNbGJS57U8"
     step 0
     date "2020-10-23T04:00:03Z"
@@ -1425,12 +2064,21 @@ graph
     commentcount 1202
     duration "PT10M34S"
     indegree 26
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 75
+    id 74
+    name "75"
     label "OfMK1r41Jz0"
     step 0
     date "2021-08-16T07:00:15Z"
@@ -1444,12 +2092,21 @@ graph
     commentcount 191
     duration "PT8M46S"
     indegree 22
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 76
+    id 75
+    name "76"
     label "NMgWyTivrTI"
     step 0
     date "2020-12-04T12:00:21Z"
@@ -1463,12 +2120,21 @@ graph
     commentcount 2287
     duration "PT15M19S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 77
+    id 76
+    name "77"
     label "QdIutxfm_hU"
     step 0
     date "2020-01-26T17:35:05Z"
@@ -1482,12 +2148,21 @@ graph
     commentcount 1031
     duration "PT8M58S"
     indegree 18
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 78
+    id 77
+    name "78"
     label "EPXbWEFQ008"
     step 0
     date "2020-12-08T05:00:11Z"
@@ -1501,12 +2176,21 @@ graph
     commentcount 1796
     duration "PT13M53S"
     indegree 13
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 79
+    id 78
+    name "79"
     label "Cbb1uqiaMtM"
     step 0
     date "2022-04-12T18:38:39Z"
@@ -1520,12 +2204,21 @@ graph
     commentcount 58
     duration "PT9M57S"
     indegree 20
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 80
+    id 79
+    name "80"
     label "o3mfKLCerec"
     step 0
     date "2021-03-17T04:30:05Z"
@@ -1539,12 +2232,21 @@ graph
     commentcount 2017
     duration "PT10M41S"
     indegree 32
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 81
+    id 80
+    name "81"
     label "MrV4vCotio0"
     step 0
     date "2013-03-01T15:12:56Z"
@@ -1558,12 +2260,21 @@ graph
     commentcount 1769
     duration "PT10M31S"
     indegree 10
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 82
+    id 81
+    name "82"
     label "1R1w-YcubSk"
     step 0
     date "2017-03-08T17:00:01Z"
@@ -1577,12 +2288,21 @@ graph
     commentcount 296
     duration "PT10M16S"
     indegree 10
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 83
+    id 82
+    name "83"
     label "Kc5-kYMGsOU"
     step 0
     date "2019-09-23T16:00:06Z"
@@ -1596,12 +2316,21 @@ graph
     commentcount 673
     duration "PT10M22S"
     indegree 9
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 84
+    id 83
+    name "84"
     label "qk97w6ZmV90"
     step 0
     date "2019-06-30T16:35:36Z"
@@ -1615,12 +2344,21 @@ graph
     commentcount 3803
     duration "PT14M42S"
     indegree 26
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 85
+    id 84
+    name "85"
     label "4krsAmEeZX0"
     step 0
     date "2021-10-21T16:00:07Z"
@@ -1634,12 +2372,21 @@ graph
     commentcount 178
     duration "PT10M28S"
     indegree 10
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 86
+    id 85
+    name "86"
     label "5ourM6YUQPU"
     step 0
     date "2022-05-23T11:00:02Z"
@@ -1653,12 +2400,21 @@ graph
     commentcount 181
     duration "PT12M36S"
     indegree 14
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 87
+    id 86
+    name "87"
     label "UgEr_UHwbuE"
     step 0
     date "2021-03-19T15:30:02Z"
@@ -1672,12 +2428,21 @@ graph
     commentcount 591
     duration "PT10M24S"
     indegree 14
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 88
+    id 87
+    name "88"
     label "-b2lNLq3EaA"
     step 0
     date "2019-06-30T22:02:51Z"
@@ -1691,12 +2456,21 @@ graph
     commentcount 1856
     duration "PT22M50S"
     indegree 15
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 89
+    id 88
+    name "89"
     label "JEEG0hBNk3E"
     step 0
     date "2020-05-20T12:32:18Z"
@@ -1710,12 +2484,21 @@ graph
     commentcount 9864
     duration "PT11M3S"
     indegree 29
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 90
+    id 89
+    name "90"
     label "_rp6OqtbVR0"
     step 0
     date "2022-03-30T13:19:44Z"
@@ -1729,12 +2512,21 @@ graph
     commentcount 347
     duration "PT23M10S"
     indegree 18
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 91
+    id 90
+    name "91"
     label "as5DvVo2P-k"
     step 0
     date "2021-10-31T16:53:36Z"
@@ -1748,12 +2540,21 @@ graph
     commentcount 169
     duration "PT10M15S"
     indegree 21
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 92
+    id 91
+    name "92"
     label "x2Ihrm19mCM"
     step 0
     date "2019-04-23T01:40:18Z"
@@ -1767,12 +2568,21 @@ graph
     commentcount 1742
     duration "PT8M50S"
     indegree 5
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 93
+    id 92
+    name "93"
     label "1XBQMd1Q9tc"
     step 0
     date "2019-01-28T15:21:43Z"
@@ -1786,12 +2596,21 @@ graph
     commentcount 1006
     duration "PT11M18S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 94
+    id 93
+    name "94"
     label "q6NIWNnvOK0"
     step 0
     date "2013-11-05T05:24:49Z"
@@ -1805,12 +2624,21 @@ graph
     commentcount 2515
     duration "PT19M33S"
     indegree 5
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 95
+    id 94
+    name "95"
     label "nXxsfMyz7So"
     step 0
     date "2017-05-31T18:49:55Z"
@@ -1824,12 +2652,21 @@ graph
     commentcount 1067
     duration "PT8M39S"
     indegree 18
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 96
+    id 95
+    name "96"
     label "2IGxhqbYT1k"
     step 0
     date "2022-06-18T18:00:03Z"
@@ -1843,12 +2680,21 @@ graph
     commentcount 1244
     duration "PT12S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 97
+    id 96
+    name "97"
     label "jn5IMNPMRR0"
     step 0
     date "2020-05-02T09:22:17Z"
@@ -1862,12 +2708,21 @@ graph
     commentcount 1875
     duration "PT17M40S"
     indegree 20
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 98
+    id 97
+    name "98"
     label "ak58fSBBYKE"
     step 0
     date "2022-04-03T17:18:56Z"
@@ -1881,12 +2736,21 @@ graph
     commentcount 81
     duration "PT10M11S"
     indegree 20
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 99
+    id 98
+    name "99"
     label "nO3fVMzvDrs"
     step 0
     date "2020-08-24T16:30:05Z"
@@ -1900,12 +2764,21 @@ graph
     commentcount 12112
     duration "PT8M18S"
     indegree 36
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 100
+    id 99
+    name "100"
     label "2mkwIgukTuY"
     step 0
     date "2021-02-17T20:56:15Z"
@@ -1919,12 +2792,21 @@ graph
     commentcount 746
     duration "PT17M24S"
     indegree 15
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 101
+    id 100
+    name "101"
     label "X13iqiXRG4k"
     step 0
     date "2020-03-08T16:50:15Z"
@@ -1938,12 +2820,21 @@ graph
     commentcount 499
     duration "PT14M1S"
     indegree 4
-    sentiment 1
-    cluster 10
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 102
+    id 101
+    name "102"
     label "PlqWX_cv7bc"
     step 0
     date "2021-10-06T04:00:11Z"
@@ -1957,12 +2848,21 @@ graph
     commentcount 330
     duration "PT13M10S"
     indegree 31
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 103
+    id 102
+    name "103"
     label "sZtlc1t7x9E"
     step 0
     date "2019-06-07T06:15:44Z"
@@ -1976,12 +2876,21 @@ graph
     commentcount 2976
     duration "PT11M23S"
     indegree 1
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 104
+    id 103
+    name "104"
     label "3oeimlA6s68"
     step 0
     date "2020-10-22T16:20:17Z"
@@ -1995,12 +2904,21 @@ graph
     commentcount 1052
     duration "PT20M56S"
     indegree 29
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 105
+    id 104
+    name "105"
     label "U_Y7Pe0Wi74"
     step 0
     date "2020-06-09T10:00:13Z"
@@ -2014,12 +2932,21 @@ graph
     commentcount 112
     duration "PT4M3S"
     indegree 8
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 106
+    id 105
+    name "106"
     label "3zl1_XGgDVk"
     step 0
     date "2018-07-15T12:08:10Z"
@@ -2033,12 +2960,21 @@ graph
     commentcount 6434
     duration "PT22M20S"
     indegree 17
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 107
+    id 106
+    name "107"
     label "StBxsDojk70"
     step 0
     date "2021-08-16T15:12:14Z"
@@ -2052,12 +2988,21 @@ graph
     commentcount 242
     duration "PT14M39S"
     indegree 2
-    sentiment 1
-    cluster 10
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 108
+    id 107
+    name "108"
     label "7nIOqf23Ec0"
     step 0
     date "2022-01-10T02:00:10Z"
@@ -2071,12 +3016,21 @@ graph
     commentcount 340
     duration "PT15M23S"
     indegree 32
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 109
+    id 108
+    name "109"
     label "TqXwI1MWZks"
     step 0
     date "2021-06-28T17:57:09Z"
@@ -2090,12 +3044,21 @@ graph
     commentcount 3323
     duration "PT13M49S"
     indegree 29
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 110
+    id 109
+    name "110"
     label "fpK5VZCwJPY"
     step 0
     date "2022-01-03T01:00:14Z"
@@ -2109,12 +3072,21 @@ graph
     commentcount 2047
     duration "PT11M29S"
     indegree 30
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 111
+    id 110
+    name "111"
     label "Oa-xdUN3x08"
     step 0
     date "2020-05-09T13:00:20Z"
@@ -2128,12 +3100,21 @@ graph
     commentcount 960
     duration "PT17M45S"
     indegree 13
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 112
+    id 111
+    name "112"
     label "k1cLRd7cahQ"
     step 0
     date "2018-03-05T19:05:45Z"
@@ -2147,12 +3128,21 @@ graph
     commentcount 763
     duration "PT12M2S"
     indegree 13
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 113
+    id 112
+    name "113"
     label "bkHuvrLxpUU"
     step 0
     date "2016-09-14T18:59:04Z"
@@ -2166,12 +3156,21 @@ graph
     commentcount 1229
     duration "PT6M50S"
     indegree 23
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 114
+    id 113
+    name "114"
     label "4hXKEfzKYdU"
     step 0
     date "2022-04-17T16:03:40Z"
@@ -2185,12 +3184,21 @@ graph
     commentcount 397
     duration "PT16M51S"
     indegree 13
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 115
+    id 114
+    name "115"
     label "l2AHpn2i7_Y"
     step 0
     date "2020-08-05T04:30:02Z"
@@ -2204,12 +3212,21 @@ graph
     commentcount 1622
     duration "PT10M30S"
     indegree 21
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 116
+    id 115
+    name "116"
     label "Z_dgrjRlD_4"
     step 0
     date "2021-04-22T04:00:06Z"
@@ -2223,12 +3240,21 @@ graph
     commentcount 1049
     duration "PT13M6S"
     indegree 10
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 117
+    id 116
+    name "117"
     label "62tEuL1FOtM"
     step 0
     date "2022-06-01T06:44:31Z"
@@ -2242,12 +3268,21 @@ graph
     commentcount 102
     duration "PT10M14S"
     indegree 25
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 118
+    id 117
+    name "118"
     label "f0lCIn461co"
     step 0
     date "2020-08-18T16:30:04Z"
@@ -2261,12 +3296,21 @@ graph
     commentcount 744
     duration "PT10M23S"
     indegree 12
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 119
+    id 118
+    name "119"
     label "t0Za9A8f9uA"
     step 0
     date "2021-08-03T16:30:05Z"
@@ -2280,12 +3324,21 @@ graph
     commentcount 178
     duration "PT5M25S"
     indegree 7
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 120
+    id 119
+    name "120"
     label "Bc6G41KutHE"
     step 0
     date "2020-11-18T14:00:02Z"
@@ -2299,12 +3352,21 @@ graph
     commentcount 655
     duration "PT26M44S"
     indegree 10
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 121
+    id 120
+    name "121"
     label "FOVHXpAaCk8"
     step 0
     date "2015-11-19T00:33:37Z"
@@ -2318,12 +3380,21 @@ graph
     commentcount 655
     duration "PT11M53S"
     indegree 2
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 122
+    id 121
+    name "122"
     label "URtLwJC6gXk"
     step 0
     date "2021-01-16T06:00:11Z"
@@ -2337,12 +3408,21 @@ graph
     commentcount 398
     duration "PT15M20S"
     indegree 12
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 123
+    id 122
+    name "123"
     label "v_zGx8seH_Y"
     step 0
     date "2021-10-18T16:00:26Z"
@@ -2356,12 +3436,21 @@ graph
     commentcount 133
     duration "PT10M26S"
     indegree 10
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 124
+    id 123
+    name "124"
     label "WcKW8h1Plec"
     step 0
     date "2020-02-02T17:00:09Z"
@@ -2375,12 +3464,21 @@ graph
     commentcount 292
     duration "PT21M4S"
     indegree 3
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 125
+    id 124
+    name "125"
     label "IrA9dvgRKR0"
     step 0
     date "2021-12-21T12:31:48Z"
@@ -2394,12 +3492,21 @@ graph
     commentcount 119
     duration "PT10M25S"
     indegree 19
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 126
+    id 125
+    name "126"
     label "Th97oQ4eF9U"
     step 0
     date "2019-01-09T11:28:32Z"
@@ -2413,12 +3520,21 @@ graph
     commentcount 6352
     duration "PT10M45S"
     indegree 29
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 127
+    id 126
+    name "127"
     label "-Xet6BIhtPU"
     step 0
     date "2022-07-03T18:37:50Z"
@@ -2432,12 +3548,21 @@ graph
     commentcount 61
     duration "PT10M13S"
     indegree 15
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 128
+    id 127
+    name "128"
     label "QKCkO9fy9O4"
     step 0
     date "2020-08-09T11:37:57Z"
@@ -2451,12 +3576,21 @@ graph
     commentcount 5372
     duration "PT13M50S"
     indegree 64
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 129
+    id 128
+    name "129"
     label "3LlvMrjLar0"
     step 0
     date "2021-04-29T19:30:00Z"
@@ -2470,12 +3604,21 @@ graph
     commentcount 101
     duration "PT15M45S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 130
+    id 129
+    name "130"
     label "JqYPJtSMHN4"
     step 0
     date "2021-08-07T07:00:11Z"
@@ -2489,12 +3632,21 @@ graph
     commentcount 385
     duration "PT11M5S"
     indegree 11
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 131
+    id 130
+    name "131"
     label "fhWf2OJ5qiU"
     step 0
     date "2022-07-07T15:00:10Z"
@@ -2508,12 +3660,21 @@ graph
     commentcount 16
     duration "PT14M3S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 132
+    id 131
+    name "132"
     label "6LVoW7Bkw1c"
     step 0
     date "2020-10-21T14:30:00Z"
@@ -2527,12 +3688,21 @@ graph
     commentcount 660
     duration "PT10M9S"
     indegree 3
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 133
+    id 132
+    name "133"
     label "6zaU5AQsyDw"
     step 0
     date "2022-03-01T19:50:21Z"
@@ -2546,12 +3716,21 @@ graph
     commentcount 49
     duration "PT10M11S"
     indegree 9
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 134
+    id 133
+    name "134"
     label "cZsGukYkLKw"
     step 0
     date "2020-06-22T15:00:28Z"
@@ -2565,12 +3744,21 @@ graph
     commentcount 950
     duration "PT8M7S"
     indegree 5
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 135
+    id 134
+    name "135"
     label "nS_wQV0LjjU"
     step 0
     date "2022-06-03T08:54:41Z"
@@ -2584,12 +3772,21 @@ graph
     commentcount 37
     duration "PT6M14S"
     indegree 17
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 136
+    id 135
+    name "136"
     label "MrIf68WxkuI"
     step 0
     date "2022-06-01T06:56:28Z"
@@ -2603,12 +3800,21 @@ graph
     commentcount 94
     duration "PT10M33S"
     indegree 25
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 137
+    id 136
+    name "137"
     label "p5xwSkcySoo"
     step 0
     date "2022-03-04T18:38:32Z"
@@ -2622,12 +3828,21 @@ graph
     commentcount 259
     duration "PT11M37S"
     indegree 9
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 138
+    id 137
+    name "138"
     label "L1BeGwFoNqk"
     step 0
     date "2021-04-05T11:00:06Z"
@@ -2641,12 +3856,21 @@ graph
     commentcount 404
     duration "PT20M36S"
     indegree 9
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 139
+    id 138
+    name "139"
     label "Z78l81is7lE"
     step 0
     date "2022-03-09T02:30:09Z"
@@ -2660,12 +3884,21 @@ graph
     commentcount 450
     duration "PT14M57S"
     indegree 12
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 140
+    id 139
+    name "140"
     label "Jnkz6q39Dlw"
     step 0
     date "2019-12-04T11:27:36Z"
@@ -2679,12 +3912,21 @@ graph
     commentcount 1034
     duration "PT5M33S"
     indegree 10
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 141
+    id 140
+    name "141"
     label "ZEo9SjuUqYY"
     step 0
     date "2022-05-29T19:55:11Z"
@@ -2698,12 +3940,21 @@ graph
     commentcount 78
     duration "PT10M14S"
     indegree 27
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 142
+    id 141
+    name "142"
     label "6BdAAc5N5x0"
     step 0
     date "2022-06-07T19:09:09Z"
@@ -2717,12 +3968,21 @@ graph
     commentcount 58
     duration "PT10M15S"
     indegree 18
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 143
+    id 142
+    name "143"
     label "3jynwku8QpA"
     step 0
     date "2022-01-30T18:47:48Z"
@@ -2736,12 +3996,21 @@ graph
     commentcount 78
     duration "PT10M12S"
     indegree 24
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 144
+    id 143
+    name "144"
     label "6TmQiugy_qw"
     step 0
     date "2019-04-30T11:08:03Z"
@@ -2755,12 +4024,21 @@ graph
     commentcount 43553
     duration "PT11M8S"
     indegree 28
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 145
+    id 144
+    name "145"
     label "s6dIsx6j4AE"
     step 0
     date "2021-04-01T13:00:15Z"
@@ -2774,12 +4052,21 @@ graph
     commentcount 364
     duration "PT12M15S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 146
+    id 145
+    name "146"
     label "c6VQvQJfD8Q"
     step 0
     date "2020-08-07T14:45:00Z"
@@ -2793,12 +4080,21 @@ graph
     commentcount 552
     duration "PT8M1S"
     indegree 8
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 147
+    id 146
+    name "147"
     label "4CkVdu4z1HA"
     step 0
     date "2019-07-02T11:40:02Z"
@@ -2812,12 +4108,21 @@ graph
     commentcount 7514
     duration "PT11M"
     indegree 22
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 148
+    id 147
+    name "148"
     label "P4GukOvkeQQ"
     step 0
     date "2020-09-22T09:13:24Z"
@@ -2831,12 +4136,21 @@ graph
     commentcount 477
     duration "PT19M51S"
     indegree 3
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 149
+    id 148
+    name "149"
     label "5YzzeNrHF4s"
     step 0
     date "2018-01-22T09:03:27Z"
@@ -2850,12 +4164,21 @@ graph
     commentcount 520
     duration "PT11M28S"
     indegree 2
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 150
+    id 149
+    name "150"
     label "Qia2ZXEzyLw"
     step 0
     date "2019-09-09T22:29:34Z"
@@ -2869,12 +4192,21 @@ graph
     commentcount 2138
     duration "PT11M23S"
     indegree 26
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 151
+    id 150
+    name "151"
     label "K34wxKQT9pY"
     step 0
     date "2021-01-13T12:00:05Z"
@@ -2888,12 +4220,21 @@ graph
     commentcount 4619
     duration "PT9M22S"
     indegree 19
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 152
+    id 151
+    name "152"
     label "tfPoEnaCBjg"
     step 0
     date "2021-10-10T19:55:35Z"
@@ -2907,12 +4248,21 @@ graph
     commentcount 182
     duration "PT10M17S"
     indegree 16
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 153
+    id 152
+    name "153"
     label "1V64QSE-96Y"
     step 0
     date "2020-07-09T14:41:25Z"
@@ -2926,12 +4276,21 @@ graph
     commentcount 705
     duration "PT34M28S"
     indegree 5
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 154
+    id 153
+    name "154"
     label "sQp904QUFc0"
     step 0
     date "2022-01-26T09:30:09Z"
@@ -2945,31 +4304,49 @@ graph
     commentcount 484
     duration "PT25M39S"
     indegree 3
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 156
-    label "0_nKiv0i7PA"
+    id 154
+    name "155"
+    label "aW5IYarq0fo"
     step 0
-    date "2020-09-04T06:00:00Z"
-    title "5 MINUTE ABS | UPPER AB WORKOUT"
-    description "Looking for a killer upper abs workout? This 5 min upper abs workout will have you feeling the BURN in no time!  Upper abs is one of the first places you'll start seeing results when you start cleaning up your diet.  This quick 5 minute ab workout is perfect to squeeze in any time of day or to add as a finisher to your daily workout routine. &#10;&#10;&#128680; I don't take many supplements but one that I swear by and have been taking for the past 8 months is Goldie Locks Hair Growth Supplements. Not only will these make your hair grow in thicker and stronger, but they are packed with tons of essential vitamins and minerals that help to balance mood and boost your energy, too. I'll never recommend anything that I don't personally use and love, and these are the best out there. Check them out at the link below.&#10;&#10;&#128138; https://bit.ly/HairGrowthSups&#10;&#10;If you are looking for quick EFFECTIVE at home workouts, this upper abs workout is a great one, but check out these recommendations below.&#10;&#10;More Ab Workout Videos:&#10;&#10;&#128170;&#127997; 5 Min Obliques: https://bit.ly/3s3fl3N&#10;&#128170;&#127997; 5 Min Lower Abs: https://bit.ly/3dHMMnu&#10;12 Min V-Cut Abs (Ripped Obliques): https://bit.ly/3sz2OWb&#10;&#128170;&#127997; 12 Min Total Abs: https://bit.ly/31WbmLS&#10;&#128170;&#127997; 15 Min Upper Abs Workout: https://bit.ly/3szJdVJ&#10;&#128170;&#127997; 15 Min Ab Shredder: https://bit.ly/2Qd4PcX&#10;&#10;AB WORKOUT DETAILS&#10;&#10;&#128073;&#127996; Duration: 5 Minutes&#10;&#128073;&#127996; Equipment: Just a mat&#10;&#129421; We use and highly recommend the Yo Gorilla Mats Premium Large Exercise Mat, size: 7' x 4' x 8mm. This mat is the first mat we've used that doesn't slide around and we are OBSESSED with the comfort! Check it out at https://gorillamats.com/collections/large-exercise-mats/products/premium-large-exercise-mat-7-x-4-x-8mm?aff=63&#10;&#9658; Use code TIFFXDAN to get 10% off your order!&#10;&#128073;&#127996; Timing: 30 Seconds Work, No Rest&#10;&#128073;&#127996; Level: Medium to Advanced&#10;&#10;The exercises for this lower abs workout are listed below:&#10;&#10;0:10 - Full Sit Ups&#10;0:40 - Tabletop Crunches&#10;1:10 - Cross Crunches Right&#10;1:40 - Cross Crunches Left&#10;2:10 - Tabletop Side Reach Right&#10;2:40 - Tabletop Side Reach Left&#10;3:10 - Toe Reaches&#10;3:40 - Frog Crunches&#10;4:10 - Tabletop Tuck&#10;4:40 - Crunch Pulse&#10;&#10;Looking for a complete workout program? Look no further than our FREE 6 Week Shred! This at home workout program uses a combination of bodyweight and dumbbells and includes a total of 30 videos (5 every week) ranging between 30-60 minutes each for your to follow along with. View the Community Tab on our channel for the workout calendars.&#10;&#10;Add the 6 Week Shred playlist to your favorites so you can come back every day.&#10;&#128073;&#127996; https://www.youtube.com/playlist?list=PL2NpXBzdtNam-M_8y6FFypSf7ae8Ph4_6 &#10;&#10;If you haven't already, be sure to check out our ABS VIDEO PLAYLIST for some of our favorite abs workouts.&#10;&#128073;&#127996; https://youtube.com/playlist?list=PL2NpXBzdtNakxT83kAFnxoKcNwYXFk9Cp &#10;&#10;&#128077;&#127997; LIKE if you want more ab workouts!&#10;&#128172; COMMENT to let us know what other videos you want to see. &#10;&#128276; SUBSCRIBE + turn on notifications so you never miss a workout!&#10;&#128248; FOLLOW us on IG for more workouts: https://www.instagram.com/tiffxdan/ &#10;&#10;THANK YOU for watching and please remember to subscribe!  We feel so grateful to have such an amazing YouTube community. &#10;&#10;TIFF x DAN &#10;&#10;DISCLAIMER: TIFF x DAN strongly recommend that you consult your physician before starting any exercise or workout program. You should be in good physical + mental condition + able to participate in the exercises. You should be aware + understand that when participating in any exercise or exercise program, there is the possibility of physical injury. If you engage in this workout, exercise or exercise program, you agree that you do so at your own risk, are voluntarily participating in these activities, assume all risk of injury to yourself, + agree to release and discharge TIFF x DAN from any and all claims or causes of action, known or unknown, arising out of TIFF x DAN negligence."
-    channeltitle "TIFF x DAN"
-    channelid "UCXtE168z7GAxYKAIHFOgm8w"
+    date "2019-12-16T07:53:28Z"
+    title "Intermediate/Advanced cardio, resistance and ABS workout! LOW IMPACT OPTION"
+    description "https://teambodyproject.com&#10;&#10;To take part in more workouts from the Blaze plan, come and join the team. &#10;&#10;Blaze workouts are intermediate to advanced total body workouts, set to the beat."
+    channeltitle "Body Project"
+    channelid "UCFjc9H89-RpWuIStDqhO7AQ"
     favcount 0
-    viewcount 1090195
-    likecount 20955
-    commentcount 721
-    duration "PT5M28S"
-    indegree 4
-    sentiment 1
-    cluster 8
+    viewcount 1196762
+    likecount 13307
+    commentcount 426
+    duration "PT36M27S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 157
+    id 155
+    name "157"
     label "pdC3OfWI5cw"
     step 0
     date "2020-04-28T08:45:00Z"
@@ -2983,12 +4360,21 @@ graph
     commentcount 1922
     duration "PT11M48S"
     indegree 8
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 158
+    id 156
+    name "158"
     label "gg33A9qlFh8"
     step 0
     date "2019-12-01T17:53:00Z"
@@ -3002,12 +4388,21 @@ graph
     commentcount 3179
     duration "PT11M37S"
     indegree 20
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 159
+    id 157
+    name "159"
     label "cLO4uRh4xDE"
     step 0
     date "2020-10-28T05:00:07Z"
@@ -3021,12 +4416,21 @@ graph
     commentcount 1200
     duration "PT10M50S"
     indegree 21
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 160
+    id 158
+    name "160"
     label "aKFVZu_4Lq4"
     step 0
     date "2012-06-11T04:10:45Z"
@@ -3040,12 +4444,21 @@ graph
     commentcount 946
     duration "PT10M18S"
     indegree 6
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 161
+    id 159
+    name "161"
     label "K134RhnDTso"
     step 0
     date "2021-10-18T15:05:45Z"
@@ -3059,12 +4472,21 @@ graph
     commentcount 575
     duration "PT12M4S"
     indegree 9
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 162
+    id 160
+    name "162"
     label "vhcyvcbVBQQ"
     step 0
     date "2018-12-27T19:00:03Z"
@@ -3078,12 +4500,21 @@ graph
     commentcount 3323
     duration "PT8M58S"
     indegree 7
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 163
+    id 161
+    name "163"
     label "EGhERRQ3GP0"
     step 0
     date "2021-11-13T02:00:09Z"
@@ -3097,12 +4528,21 @@ graph
     commentcount 313
     duration "PT20M25S"
     indegree 17
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 164
+    id 162
+    name "164"
     label "23WPx6sv7k0"
     step 0
     date "2021-10-20T03:30:00Z"
@@ -3116,12 +4556,21 @@ graph
     commentcount 784
     duration "PT9M7S"
     indegree 4
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 165
+    id 163
+    name "165"
     label "H765nVNbUsA"
     step 0
     date "2019-06-01T20:54:42Z"
@@ -3135,12 +4584,21 @@ graph
     commentcount 854
     duration "PT23M51S"
     indegree 5
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 166
+    id 164
+    name "166"
     label "W-9L0J_9qag"
     step 0
     date "2011-08-27T17:22:23Z"
@@ -3154,12 +4612,21 @@ graph
     commentcount 2254
     duration "PT8M15S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 167
+    id 165
+    name "167"
     label "O7yqw4gCnaY"
     step 0
     date "2018-01-15T23:33:43Z"
@@ -3173,12 +4640,21 @@ graph
     commentcount 399
     duration "PT15M11S"
     indegree 8
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 168
+    id 166
+    name "168"
     label "eIRQzn3w710"
     step 0
     date "2020-03-05T01:01:25Z"
@@ -3192,12 +4668,21 @@ graph
     commentcount 1100
     duration "PT11M43S"
     indegree 31
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 169
+    id 167
+    name "169"
     label "aWJo_Fe20aE"
     step 0
     date "2020-10-11T07:59:48Z"
@@ -3211,12 +4696,21 @@ graph
     commentcount 336
     duration "PT10M46S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 170
+    id 168
+    name "170"
     label "6auB47_9Kq4"
     step 0
     date "2019-11-10T20:19:24Z"
@@ -3230,12 +4724,21 @@ graph
     commentcount 1684
     duration "PT5M38S"
     indegree 4
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 171
+    id 169
+    name "171"
     label "FgfT2fOv31E"
     step 0
     date "2014-03-06T01:00:01Z"
@@ -3249,12 +4752,21 @@ graph
     commentcount 1024
     duration "PT8M3S"
     indegree 1
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 172
+    id 170
+    name "172"
     label "KFZ4srhXP04"
     step 0
     date "2022-03-27T12:59:49Z"
@@ -3268,12 +4780,21 @@ graph
     commentcount 70
     duration "PT10M13S"
     indegree 17
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 173
+    id 171
+    name "173"
     label "RarcD0Q50nU"
     step 0
     date "2020-06-24T08:37:44Z"
@@ -3287,12 +4808,21 @@ graph
     commentcount 3521
     duration "PT6M13S"
     indegree 11
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 174
+    id 172
+    name "174"
     label "m8HScrQndpU"
     step 0
     date "2020-02-13T22:19:54Z"
@@ -3306,12 +4836,21 @@ graph
     commentcount 1379
     duration "PT11M57S"
     indegree 18
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 175
+    id 173
+    name "175"
     label "sz3xierpVgg"
     step 0
     date "2022-06-06T16:00:24Z"
@@ -3325,12 +4864,21 @@ graph
     commentcount 1200
     duration "PT8M45S"
     indegree 26
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 176
+    id 174
+    name "176"
     label "tS01JLqO2B8"
     step 0
     date "2020-08-12T08:54:02Z"
@@ -3344,12 +4892,21 @@ graph
     commentcount 2778
     duration "PT16M54S"
     indegree 6
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 177
+    id 175
+    name "177"
     label "u30ElgGF8yk"
     step 0
     date "2016-07-21T12:30:02Z"
@@ -3363,12 +4920,21 @@ graph
     commentcount 13050
     duration "PT10M41S"
     indegree 11
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 178
+    id 176
+    name "178"
     label "hGOYxik3oeE"
     step 0
     date "2017-07-19T22:00:17Z"
@@ -3382,12 +4948,21 @@ graph
     commentcount 3480
     duration "PT6M53S"
     indegree 22
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 179
+    id 177
+    name "179"
     label "qAClNDV9Ua4"
     step 0
     date "2020-04-14T14:23:56Z"
@@ -3401,12 +4976,21 @@ graph
     commentcount 1710
     duration "PT14M17S"
     indegree 12
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 180
+    id 178
+    name "180"
     label "hUHQdQfjlSo"
     step 0
     date "2021-04-07T11:44:50Z"
@@ -3420,12 +5004,21 @@ graph
     commentcount 1099
     duration "PT3M23S"
     indegree 6
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 181
+    id 179
+    name "181"
     label "hAUIGLE8PEo"
     step 0
     date "2020-05-11T12:34:06Z"
@@ -3439,12 +5032,21 @@ graph
     commentcount 12877
     duration "PT11M18S"
     indegree 6
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 182
+    id 180
+    name "182"
     label "_vV6gwE6Z2A"
     step 0
     date "2020-08-09T20:27:29Z"
@@ -3458,12 +5060,21 @@ graph
     commentcount 859
     duration "PT10M12S"
     indegree 7
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 183
+    id 181
+    name "183"
     label "m5DJMRYDSc0"
     step 0
     date "2020-07-06T15:56:19Z"
@@ -3477,12 +5088,21 @@ graph
     commentcount 816
     duration "PT17M1S"
     indegree 8
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 184
+    id 182
+    name "184"
     label "9kV7PNH3Gio"
     step 0
     date "2018-08-31T18:57:52Z"
@@ -3496,12 +5116,21 @@ graph
     commentcount 1355
     duration "PT8M2S"
     indegree 2
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 185
+    id 183
+    name "185"
     label "_ikzZyiwsGU"
     step 0
     date "2020-10-29T06:00:05Z"
@@ -3515,12 +5144,21 @@ graph
     commentcount 1137
     duration "PT10M47S"
     indegree 12
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 186
+    id 184
+    name "186"
     label "Gf6WzTAgcLA"
     step 0
     date "2021-09-10T02:56:36Z"
@@ -3534,12 +5172,21 @@ graph
     commentcount 1641
     duration "PT9M7S"
     indegree 34
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 8
   ]
   node
   [
-    id 187
+    id 185
+    name "187"
     label "rDxPfQEKBHw"
     step 0
     date "2022-01-01T14:00:12Z"
@@ -3553,12 +5200,21 @@ graph
     commentcount 1195
     duration "PT15M37S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 8
   ]
   node
   [
-    id 188
+    id 186
+    name "188"
     label "U1VYkfFgvVs"
     step 0
     date "2021-01-19T17:00:07Z"
@@ -3572,12 +5228,21 @@ graph
     commentcount 1778
     duration "PT5M58S"
     indegree 24
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 189
+    id 187
+    name "189"
     label "EmfNKttx1n0"
     step 0
     date "2022-03-28T14:00:13Z"
@@ -3591,12 +5256,21 @@ graph
     commentcount 76
     duration "PT7M19S"
     indegree 11
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 190
+    id 188
+    name "190"
     label "NRwFRLH9ulM"
     step 0
     date "2020-06-19T05:00:06Z"
@@ -3610,12 +5284,21 @@ graph
     commentcount 1838
     duration "PT11M13S"
     indegree 25
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 191
+    id 189
+    name "191"
     label "N55JQubU1FE"
     step 0
     date "2020-03-05T20:16:40Z"
@@ -3629,12 +5312,21 @@ graph
     commentcount 2696
     duration "PT9M58S"
     indegree 9
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 192
+    id 190
+    name "192"
     label "aUHabt61HDY"
     step 0
     date "2020-11-18T15:00:01Z"
@@ -3648,12 +5340,21 @@ graph
     commentcount 1336
     duration "PT11M16S"
     indegree 3
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 193
+    id 191
+    name "193"
     label "9VsDP584zyQ"
     step 0
     date "2017-05-26T01:52:06Z"
@@ -3667,12 +5368,21 @@ graph
     commentcount 13848
     duration "PT7M10S"
     indegree 7
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 194
+    id 192
+    name "194"
     label "4yxiJugV-YU"
     step 0
     date "2021-09-02T13:00:01Z"
@@ -3686,31 +5396,49 @@ graph
     commentcount 343
     duration "PT8M41S"
     indegree 17
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 193
+    name "195"
+    label "8Dcd4BHJREw"
+    step 0
+    date "2021-08-30T05:30:11Z"
+    title "10 Minute Standing Abs Workout - 10 of the Best Ab Exercises to help reduce Belly Fat (that work)"
+    description "10 Minute Standing Ab Workout that is designed to help reduce belly fat (the safe and effective way) and strengthen your core.&#10;Blog on Healthy Eating Tips &#127869;   https://www.lwrfitness.com/2019/04/14/6-tips-to-clean-eating/&#10;DOWNLOAD ANY OF MY FREE TRAINING GUIDES&#128210; &#11015;&#65039;&#10;https://www.lwrfitness.com/free-chall...&#10;&#10;Instagram &#10;https://www.instagram.com/lucywyndham...&#10;&#10;TikTok&#10;https://www.tiktok.com/@lucywyndhamread&#10;&#10;Facebook https://www.facebook.com/LWRFitness/&#10;&#10;I am here for you are your qualified online trainer to get you the best results.&#10;Click here to see some of my incredible Progress Pictures and Stories:&#10;https://www.lwrfitness.com/before-and-after/&#10;&#10;#standingabsworkout #10minuteabworkout  #homeworkout #lucysworkout #bellyfatworkout"
+    channeltitle "Lucy Wyndham-Read"
+    channelid "UCag7XoiJLutjBTsM0tAzUzg"
+    favcount 0
+    viewcount 444064
+    likecount 6475
+    commentcount 304
+    duration "PT12M40S"
+    indegree 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 196
-    label "ycuEk_IRitY"
-    step 0
-    date "2022-03-21T15:00:34Z"
-    title "GET SHREDDED ABS in 14 Days (no equipment) | 5 minute Workout"
-    description "Get shredded abs and lose belly fat in 14 days with this 5 minute workout. No equipment needed to get the best abs results at home. These abs exercises will help you get a flat stomach and lose stubborn belly fat. For the best results, do this with good nutrition and my other fat burn workouts.&#10;&#10;&#128293; Get the LEAN App &#128293; Personalised workout programs, personalised meal plans, exclusive workout challenges, a habit tracker, a journal, a recipe library and so much more. Get the LEAN App here: https://www.leanwithlilly.com/&#10;&#10;&#128105;&#8205;&#127891; Students get 20% off the LEAN App and Products here: https://www.leanwithlilly.com/student&#10;&#10;&#129380; The supplements &#38; protein bars I use to get results: https://www.leanwithlilly.com/pages/supplements&#10;&#10;&#128170; Get your Free Home Workout programs here: https://www.leanwithlilly.com&#10;&#10;&#129293; FOLLOW ME:&#10;Instagram:  https://instagram.com/lillysabri&#10;TikTok: https://www.tiktok.com/@lillysabri?lang=en&#10;Private Facebook Group- Lean with Lilly Guides&#10;https://www.facebook.com/groups/508730913266325/&#10;Twitter:  https://twitter.com/lillysabri&#10;Facebook:  https://www.facebook.com/lilly.sabri/&#10;&#10;&#128276; DON'T FORGET to Subscribe for daily uploads xx&#10;Hit that bell icon to get a notification when I upload.&#10;&#10;0:00 Get Shredded Abs Workout Introduction&#10;0:07 Best Abs Workout Results&#10;0:38 Abs &#38; Lose Belly Fat Workout&#10;5:41 Complete Abs Workout&#10;&#10;Get Love Me Again by John Newman here https://lickd.lnk.to/RqBy3dID!Lilly%20Sabri&#10;License ID: 76RMLm36pAD&#10;Get this and other songs for your next YouTube video at https://lickd.co/r/lillysabri&#10;&#10;Disclaimer: Please remember that we cannot spot reduce fat, meaning we can&#8217;t choose the areas on our body where we loose fat. However to get fat loss results I recommend the following:&#10;1. Being in calorie deficit&#10;2. Cardio/ HIIT workout (I often call these Fat Loss/Burn workouts on my channel)&#10;3. Resistance training and specific muscle targeted workouts. To strengthen and develop specific muscles.&#10;I have hundreds of other home workouts available on my channel, so you can pick and choose which workouts you want to do, to not only make you build a strong body, but also feel amazing.&#10;Please remember every body is different and we all progress at different rates. The fact that you have shown up and completed this workout is incredible. You should be very proud of yourself for taking the steps to improve not only your physical, but also your mental health.&#10;The key to achieving your fitness and health goals is consistency and healthy lifestyle changes, without restriction. I don&#8217;t believe in crazy fad diets. Simply eat nutritious food, move your body, smile and enjoy the journey! Love Lilly"
-    channeltitle "Lilly Sabri"
-    channelid "UCTsM1dSAiXqiV5oZjuNw_Bg"
-    favcount 0
-    viewcount 514843
-    likecount 16714
-    commentcount 323
-    duration "PT5M53S"
-    indegree 3
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 197
+    id 194
+    name "197"
     label "SX6Vhj9wZh8"
     step 0
     date "2020-07-27T12:33:43Z"
@@ -3724,12 +5452,21 @@ graph
     commentcount 8538
     duration "PT11M7S"
     indegree 18
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 198
+    id 195
+    name "198"
     label "u4z7sBiGFA8"
     step 0
     date "2020-11-04T18:41:00Z"
@@ -3743,12 +5480,21 @@ graph
     commentcount 1617
     duration "PT14M31S"
     indegree 3
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 199
+    id 196
+    name "199"
     label "hRpnK0JXY1g"
     step 0
     date "2020-06-17T11:16:35Z"
@@ -3762,12 +5508,21 @@ graph
     commentcount 578
     duration "PT1H6M50S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 200
+    id 197
+    name "200"
     label "jE11JG2Et7s"
     step 0
     date "2022-03-16T18:24:16Z"
@@ -3781,12 +5536,21 @@ graph
     commentcount 157
     duration "PT10M29S"
     indegree 8
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 201
+    id 198
+    name "201"
     label "GgJsQCBXXmk"
     step 0
     date "2020-09-04T17:54:33Z"
@@ -3800,12 +5564,21 @@ graph
     commentcount 244
     duration "PT16M37S"
     indegree 5
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 202
+    id 199
+    name "202"
     label "CMUe-gpNzus"
     step 0
     date "2021-05-07T20:01:44Z"
@@ -3819,12 +5592,21 @@ graph
     commentcount 662
     duration "PT14M43S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 203
+    id 200
+    name "203"
     label "1WIah0t1Bzw"
     step 0
     date "2021-12-02T05:00:01Z"
@@ -3838,12 +5620,21 @@ graph
     commentcount 684
     duration "PT21M41S"
     indegree 13
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 204
+    id 201
+    name "204"
     label "3ukhXFkZYpo"
     step 0
     date "2022-01-02T15:59:46Z"
@@ -3857,31 +5648,49 @@ graph
     commentcount 67
     duration "PT9M57S"
     indegree 17
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
+  ]
+  node
+  [
+    id 202
+    name "205"
+    label "T7TkoHtbyh8"
+    step 0
+    date "2021-06-14T13:00:09Z"
+    title "No Neck Pain Abs Workout | 10 Min Ab Workout (NECK + BACK FRIENDLY!)"
+    description "No Neck Pain Abs Workout | 10 Min Ab Workout (NECK + BACK FRIENDLY!)&#10;&#10;No Neck Pain Abs Workout | 10 Min Ab Workout at home (NECK + BACK FRIENDLY!) // Caroline Jordan //  for more info about abs workout without neck strain and other abs exercises, head over to: https://carolinejordanfitness.com&#10;&#10;Help me to maintain and grow this channel!!!&#10;become a Patreon here: https://www.patreon.com/carolinejordanfitness &#10;or donate Paypal: https://www.paypal.me/CarolineJordanUS &#10;or Venmo: https://venmo.com/carolinejordanfitness&#10;&#10;Have you ever tried to do a core workout and instead of feeling your abs, you are feeling the strain in your neck or back? It can be tough to stick through the workout if you constantly end up in pain and discomfort. If this sounds like you, watch this video and start off with these exercises to strengthen your core, without adding that extra tension on your lower back and neck!! &#10;&#10;Working your core is important for a stronger body and better posture, but if you are also hurting your neck, back, or hips in the process, then you may be missing out on some of the benefits of ab workouts altogether. One of the most common complaints from traditional ab exercises is neck pain. Too often the movement of core exercises puts undue strain on the neck and upper back. A lot of this has to do with form and our posture from spending entirely too much time on the computer. But don't give up on your abs altogether&#8212;my creative core exercises will leave you with a strong core without the pain in the neck. As a certified personal trainer and coach, Im here to help you find exercises that strengthen your core without strain and help you move better in your body. Join me for this neck-friendly abs workout and we will get strong together!&#10;&#10;I believe exercise is one of the key ingredients in having energy and living a powerful life. I hope this Floor workout video serves you in feeling you're very best. Leave me a comment below if you try these routines and let me know how you feel! &#10;&#10;&#9829; No matter how where you are in your health and fitness, you CAN start getting fit and improving your life! Start this workout with me &#9829; Snap &#38; Share pictures of your progress. Tag me @carolinejordanfitness I want you to be healthy &#38; happy. =) &#9829; LIKE, SHARE this video &#38; SUBSCRIBE. https://www.youtube.com/CarolineJordan?sub_confirmation=1 Support me in reaching more subscribers!!! xx&#10;&#10;Positive Feel Good Fitness,&#10;-Caroline Jordan&#10;&#10; &#128071; SUBSCRIBE TO CAROLINE&#8217;S YOUTUBE CHANNEL NOW &#128071;&#10; https://www.youtube.com/CarolineJordan?sub_confirmation=1&#10;&#10;&#9733;&#9734;&#9733; CONNECT WITH CAROLINE ON SOCIAL MEDIA &#9733;&#9734;&#9733;&#10;Caroline Jordan Blog: https://carolinejordanfitness.com/blog/&#10;Facebook: https://www.facebook.com/carolinejordanfitness&#10;Instagram: https://www.instagram.com/carolinejordanfitness/&#10;Twitter:  https://twitter.com/carolinefitness&#10;Linkedin: https://www.linkedin.com/in/caroline-jordan-7531315b/&#10;&#10;&#128170; TRAINING AND PROGRAMS &#128187;&#10;HURT FOOT FITNESS EXCLUSIVE COACHING PROGRAM: https://www.hurtfootfitness.com&#10;WORKOUT VIDEO LIBRARY: https://www.hurtfootfitness.com/workout-video-library&#10;HURT FOOT DIET GUIDE: https://www.hurtfootfitness.com/healingdiet &#10;STRONG BODY PROGRAM: https://www.hurtfootfitness.com/strongbody&#10;DIABETES WEIGHT LOSS PROGRAM:  https://hurtfootfitness.com/diabetes-exercises-for-weight-loss-workout-program&#10;SCIATIC NERVE PAIN RELIEF PROGRAM: https://get-pain-relief-now.teachable.com/p/sciatic-nerve-pain-relief &#10;&#10;#C&#8203;arolineJordan #AbWorkout #NoNeckPain&#10;&#10;DISCLAIMER: This content (the video, description, links, and comments) is not medical advice or a treatment plan and is intended for general education and demonstration purposes only. This content should not be used to self-diagnose or self-treat any health, medical, or physical condition. Don&#8217;t use this content to avoid going to your own healthcare professional or to replace the advice they give you. Consult with your healthcare professional before doing anything contained in this content. You agree to indemnify and hold harmless Caroline Jordan Fitness its officers, employees, and contractors for any and all losses, injuries, or damages resulting from any and all claims that arise from your use or misuse of this content. Caroline Jordan Fitness makes no representations about the accuracy or suitability of this content. Use of this content is at your sole risk."
+    channeltitle "Caroline Jordan"
+    channelid "UCkadh1ZnrCDOF8awC9NbAbA"
+    favcount 0
+    viewcount 35143
+    likecount 1311
+    commentcount 60
+    duration "PT12M13S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 206
-    label "oQ--HZDG2ew"
-    step 0
-    date "2015-09-09T17:00:01Z"
-    title "Bowflex Bodyweight Workout | Three-Minute Standing Ab Workout"
-    description "Subscribe for more workouts and tips: http://goo.gl/sxLYmP&#10;&#10;You don't have to go down to the floor to work your abs, and this quick workout proves it.  Get ready to work your core while keeping your feet on the floor, all in three minutes!&#10;&#10;The Three-Minute Standing Ab Workout consists of four ab exercises done for 45 seconds each:&#10;&#10;1) March and Squeeze - Start with both hands straight up in the air and bring one knee all the way up while bringing your arms down, keeping your hands above your elbows and near your body, so your elbows and knee line up, with your knee in between both arms.  As you do this, squeeze your abs.  Return to the starting position and do the same thing with your other knee, and continue to alternate knees.&#10;&#10;2) Elbow to Opposite Knee - Bring one arm up so your elbow is at chest height and your hand is above your elbow, and bring your opposite knee up while bringing that arm down so your elbow meets your knee (don't hit them together hard).  As you do this, squeeze your abs.  Return them back to their starting point and do the same thing with your other knee and elbow, and continue to alternate.&#10;&#10;3) Straight Leg Raises - Keeping your leg a straight as possible, raise it up in front of your body with bringing the opposite arm down, reaching out your hand to touch your foot (or as close as you can get).  Return them back to their starting point and do the same thing with your other leg and arm, and continue to alternate.&#10;&#10;4) Rotate and Punch - Stand with your legs about shoulder width apart and rotate your upper body, throwing a jab out with your arm. Then rotate the other direction and jab with your other arm.  Your feet should stay in about the same location the whole time, with just a little twist of the same foot of the arm that is jabbing to allow the body to rotate.&#10;&#10;Do each of these exercises consecutively, for a total of three minutes, and you will have got an awesome ab workout while never going to the ground.&#10;&#10;More quick workouts: http://goo.gl/mj1b0C&#10;&#10;Additional fitness tips: http://goo.gl/vFWbTL&#10;&#10;&#10;Here are some other fitness resources you may find helpful:&#10;&#10;http://www.Bowflex.com - Find all the fitness solutions you'll ever need to help you be healthy.&#10;&#10;http://www.BowflexInsider.com - Head to the Bowflex Insider blog to read the latest in all things related to fitness and health."
-    channeltitle "Bowflex"
-    channelid "UCKik8uG08NYJStvTW7ZgUAQ"
-    favcount 0
-    viewcount 3076560
-    likecount 24952
-    commentcount 318
-    duration "PT3M36S"
-    indegree 5
-    sentiment 1
-    cluster 9
-  ]
-  node
-  [
-    id 207
+    id 203
+    name "207"
     label "3yL0klflL0M"
     step 0
     date "2021-02-15T12:00:03Z"
@@ -3895,12 +5704,21 @@ graph
     commentcount 5489
     duration "PT10M58S"
     indegree 24
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 208
+    id 204
+    name "208"
     label "zcMOEvUWVTA"
     step 0
     date "2020-08-05T15:00:13Z"
@@ -3914,12 +5732,21 @@ graph
     commentcount 391
     duration "PT8M30S"
     indegree 14
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 209
+    id 205
+    name "209"
     label "c1lu0QZFA8M"
     step 0
     date "2019-11-21T12:54:21Z"
@@ -3933,12 +5760,21 @@ graph
     commentcount 220
     duration "PT10M21S"
     indegree 3
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 210
+    id 206
+    name "210"
     label "Hhw7z3koeHs"
     step 0
     date "2021-05-19T04:00:15Z"
@@ -3952,12 +5788,21 @@ graph
     commentcount 571
     duration "PT16M24S"
     indegree 23
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 211
+    id 207
+    name "211"
     label "IlPFzRSZrSU"
     step 0
     date "2018-12-30T15:57:15Z"
@@ -3971,12 +5816,21 @@ graph
     commentcount 2305
     duration "PT10M19S"
     indegree 24
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 212
+    id 208
+    name "212"
     label "mUI4hXTmAkw"
     step 0
     date "2020-07-15T17:00:23Z"
@@ -3990,12 +5844,21 @@ graph
     commentcount 868
     duration "PT16M32S"
     indegree 15
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 213
+    id 209
+    name "213"
     label "_4TXcvnx32E"
     step 0
     date "2021-07-12T04:15:01Z"
@@ -4009,12 +5872,21 @@ graph
     commentcount 550
     duration "PT11M39S"
     indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 214
+    id 210
+    name "214"
     label "p-51VIUgR1Q"
     step 0
     date "2020-09-14T10:58:45Z"
@@ -4028,12 +5900,21 @@ graph
     commentcount 1028
     duration "PT11M59S"
     indegree 3
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 215
+    id 211
+    name "215"
     label "8NhanDq-psc"
     step 0
     date "2021-04-29T05:00:02Z"
@@ -4047,12 +5928,21 @@ graph
     commentcount 247
     duration "PT10M54S"
     indegree 2
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 216
+    id 212
+    name "216"
     label "ToUCfDEeogQ"
     step 0
     date "2022-03-22T13:00:16Z"
@@ -4066,12 +5956,21 @@ graph
     commentcount 899
     duration "PT11M8S"
     indegree 8
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 217
+    id 213
+    name "217"
     label "8jyhJ6TiUPA"
     step 0
     date "2017-01-06T03:10:26Z"
@@ -4085,12 +5984,21 @@ graph
     commentcount 9002
     duration "PT11M56S"
     indegree 19
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 218
+    id 214
+    name "218"
     label "n9HcNA2AXnQ"
     step 0
     date "2021-12-03T14:00:23Z"
@@ -4104,12 +6012,21 @@ graph
     commentcount 117
     duration "PT20M26S"
     indegree 3
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 219
+    id 215
+    name "219"
     label "k4Y37-Rsv4o"
     step 0
     date "2018-07-05T21:01:39Z"
@@ -4123,12 +6040,21 @@ graph
     commentcount 2019
     duration "PT5M58S"
     indegree 3
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 220
+    id 216
+    name "220"
     label "9JAR0GcL0kc"
     step 0
     date "2021-10-07T08:50:42Z"
@@ -4142,12 +6068,21 @@ graph
     commentcount 244
     duration "PT6M57S"
     indegree 3
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 221
+    id 217
+    name "221"
     label "afjBIrq9IeQ"
     step 0
     date "2022-06-01T01:00:10Z"
@@ -4161,12 +6096,21 @@ graph
     commentcount 361
     duration "PT17M3S"
     indegree 21
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 222
+    id 218
+    name "222"
     label "sSbVUcxvQpo"
     step 0
     date "2018-12-14T10:17:31Z"
@@ -4180,12 +6124,21 @@ graph
     commentcount 918
     duration "PT7M9S"
     indegree 6
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 223
+    id 219
+    name "223"
     label "9wxVX1jn_YU"
     step 0
     date "2020-05-06T16:00:06Z"
@@ -4199,31 +6152,49 @@ graph
     commentcount 1543
     duration "PT14M12S"
     indegree 5
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 225
-    label "l4kQd9eWclE"
+    id 220
+    name "224"
+    label "SvxwYVdn-Kk"
     step 0
-    date "2012-06-12T15:15:12Z"
-    title "How to Do a Leg Raise | Ab Workout"
-    description "Tone your abs with leg raises and increase your workout efficiency with these great tools!&#10;&#10;Cycle Bike with Ipad Mount &#38; Comfortable Seat Cushion:&#10;&#128279;https://amzn.to/3LuYPnu&#10;Olympic Barbell Clamps:&#10;&#128279;https://amzn.to/3qSMm51&#10;Bumper Plates Olympic Weight Plates:&#10;&#128279;https://amzn.to/36BfoPT&#10;Exercise Mat with EVA Foam Interlocking Tiles:&#10;&#128279;https://amzn.to/3ITIwyO&#10;T Series Treadmills:&#10;&#128279;https://amzn.to/36IS3vp&#10;&#10;Full Playlist: https://www.youtube.com/playlist?list=PLE98687C875D52964&#10;-&#10;-&#10;Top Rated At Home Workout Gear:  &#13;&#10;&#13;&#10;Inred Dual Ab Wheel: http://amzn.to/1JwgNPy&#13;&#10;LifelineUSA Chest Expander: http://amzn.to/1O6dlhA&#13;&#10;Iron Gym Upper Body Workout: http://amzn.to/1igVj2p&#13;&#10;Shake Weight Dumbell: http://amzn.to/1igS0YU&#13;&#10;Perfect Pushup Elite: http://amzn.to/1hS0zJG&#13;&#10;Valeo Deluxe Speed Rope: http://amzn.to/1L1QRv9&#13;&#10;&#10;&#10;Watch more Home Ab Workout for Men videos: http://www.howcast.com/videos/500991-How-to-Do-a-Leg-Raise-Ab-Workout&#10;&#10;&#10;&#10;Now I'm going to demonstrate how to do a leg raise. You're going to lie down. For us, we're going to put our hands behind the lower back or slightly underneath near the gluts. It gives support for the lower back. This exercise, primarily you're targeting the lower abdominals, so it puts a little bit more stress in the lower back if you don't have a strong core. &#10;&#10;Keep your knees slightly bent. Come down. The lower you bring your legs to the floor, obviously the more resistance it's going to cause in the lower abdominals. You could start here and just come straight up. Down slow. Again. Come up faster as you go down. Your negatives are always a little slower than your positives. Exhale on the positive. Down slow. Remember, knees bent. If you start to feel a little bit of strain in the lower back that will take off some of the pressure in the lower back. Do high repetitions. Try to do about 15 to 20 repetitions. That's how you do a leg raise."
-    channeltitle "Howcast"
-    channelid "UCSpVHeDGr9UbREhRca0qwsA"
+    date "2021-11-22T06:30:10Z"
+    title "7 MINUTE ABS WORKOUT 7 DAY CHALLENGE by Lucy Wyndham- Read"
+    description "7 Minute Ab Workout and 7 Day Challenge &#10;Do this for the next 7 days and you will feel your abs become stronger and this also helps to reduce belly fat.&#10;&#10;&#10;&#10;#7minuteabworkout  #standingabexercises  #homeexerices  #lucywyndhamread"
+    channeltitle "Lucy Wyndham-Read"
+    channelid "UCag7XoiJLutjBTsM0tAzUzg"
     favcount 0
-    viewcount 3931369
-    likecount 20428
-    commentcount 436
-    duration "PT1M25S"
-    indegree 5
-    sentiment 1
-    cluster 4
+    viewcount 492539
+    likecount 6197
+    commentcount 220
+    duration "PT8M48S"
+    indegree 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 226
+    id 221
+    name "226"
     label "zFQ3dmYdpbI"
     step 0
     date "2020-01-28T22:32:15Z"
@@ -4237,12 +6208,21 @@ graph
     commentcount 559
     duration "PT17M15S"
     indegree 2
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 227
+    id 222
+    name "227"
     label "znvIJv7VLUY"
     step 0
     date "2022-03-18T16:30:14Z"
@@ -4256,12 +6236,21 @@ graph
     commentcount 213
     duration "PT7M25S"
     indegree 7
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 228
+    id 223
+    name "228"
     label "2RmeXozcBrM"
     step 0
     date "2022-04-19T11:10:44Z"
@@ -4275,12 +6264,21 @@ graph
     commentcount 64
     duration "PT10M12S"
     indegree 17
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 229
+    id 224
+    name "229"
     label "d492B8NheF0"
     step 0
     date "2021-06-22T11:13:06Z"
@@ -4294,12 +6292,21 @@ graph
     commentcount 240
     duration "PT6M16S"
     indegree 5
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 230
+    id 225
+    name "230"
     label "KieymEt_YCo"
     step 0
     date "2022-01-25T10:02:12Z"
@@ -4313,12 +6320,21 @@ graph
     commentcount 364
     duration "PT11M33S"
     indegree 4
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 231
+    id 226
+    name "231"
     label "5bgVXyP0IIM"
     step 0
     date "2021-07-14T04:15:00Z"
@@ -4332,12 +6348,21 @@ graph
     commentcount 537
     duration "PT12M21S"
     indegree 12
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 232
+    id 227
+    name "232"
     label "Xwngi2PwVic"
     step 0
     date "2022-05-23T13:00:15Z"
@@ -4351,12 +6376,21 @@ graph
     commentcount 1547
     duration "PT11M4S"
     indegree 24
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 233
+    id 228
+    name "233"
     label "bdCX8Nb_2Mg"
     step 0
     date "2018-06-05T16:04:58Z"
@@ -4370,31 +6404,49 @@ graph
     commentcount 3072
     duration "PT32M42S"
     indegree 3
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 235
-    label "SRq7XtDW0wg"
+    id 229
+    name "234"
+    label "7t2IzgEMG5Y"
     step 0
-    date "2017-01-23T17:00:01Z"
-    title "5-Minute Standing Flat-Belly Workout | Class FitSugar"
-    description "Katie Dunlop, creator of Love Sweat Fitness, shares her favorite moves to work her abs while standing.&#10;&#10;Check out Anna on Katie Dunlop's Love Sweat Fitness channel here: https://youtu.be/efGY4txBxTU&#10;&#10;Find more videos from Katie on her socials:&#10;https://www.youtube.com/user/LoveSweatFitness&#10;https://www.instagram.com/lovesweatfitness/&#10;https://www.facebook.com/lovesweatandfitness/?ref=bookmarks&#10;https://lovesweatfitness.com/&#10;Snapchat: LoveSweatAndFit &#10;&#10;&#10;&#10;POPSUGAR's Favorite Workout Gear&#10;Leggings: https://bit.ly/30Tz9w5&#10;Sports Bra: https://bit.ly/2Y0ieX4&#10;Yoga Mat: https://bit.ly/33XCTPp&#10;&#10;As POPSUGAR editors, we independently select and write about stuff we love and think you'll like too. POPSUGAR has affiliate and advertising partnerships so we get revenue from sharing this content and from your purchase.&#10;&#10;POPSUGAR Fitness offers fresh fitness tutorials, workouts, and exercises that will help you on your road to healthy living, weight loss, and stress relief.  Check out Class FitSugar, our do-it-along-with-us real-time workout show  to sweat alongside fitness experts and Hollywood&#8217;s hottest celebrity trainers. Class FitSugar regularly covers the most buzzed-about workout classes and trends, including the Victoria's Secret workout, Tabata, P90X, Bar Method, and more.&#10;&#10;Subscribe to POPSUGAR Fitness!&#10;http://www.youtube.com/subscription_center?add_user=popsugartvfit&#10;&#10;Check us out on Instagram!&#10;https://www.instagram.com/popsugarfitness"
-    channeltitle "POPSUGAR Fitness"
-    channelid "UCBINFWq52ShSgUFEoynfSwg"
+    date "2021-05-04T09:00:05Z"
+    title "30 Minute Intense Cardio  Abs Workout *No Equipment Needed | Summertime Fine 3.0 - Day 2"
+    description "Welcome to DAY 2 OF Summertime Fine 3.0! Welcome to our new set, the new home for Royal Change! Subscribe to the channel at the link here! www.youtube.com/c/sydneycummings?sub_confirmation=1&#10;&#10;Join the Sydney Squad NOW!!&#10;Get access to your monthly workout calendar, a monthly stretch calendar, my nutrition program, help with tracking and analyzing your nutrition and workout progress, access to me going live frequently doing educational sessions and Q&#38;A's, and join a group of over 4200 like-minded people from across the entire world here!&#10;https://www.royalchange.fit/sydneysquad&#10;&#10;Get your May STF3 calendar (with clickable stretch days) here:&#10;https://www.royalchange.fit/store/p149/Summertime_Fine_3.0_May_2021_Workout_%26_Stretch_Calendar.html&#10;&#10;Today is a cardio and abs workout so be ready to turn up the intensity! Today's workout has no repeats and we are going to be working the entire time! No equipment needed so grab your water, your sweat towel, and get pumped to work hard with me! Keep the intensity up!!!&#10;&#10;Exercises:&#10;1. side hop and vertical knee drive &#10;2. lateral slides &#10;3. scissor chops with burpee at the end &#10;4. side plank top crunch right &#10;5. Side Plank hip dip right&#10;6. Mermaid lift right&#10;7. side plank top crunch left&#10;8. side plank hip dip left &#10;9. Mermaid lift left &#10;10. High knee taps &#10;11. Standing Mountain Climbers&#10;12. Mountain Climbers&#10;13. Canoe flutter&#10;14. Open arm and leg cross over flutter&#10;15. Single Leg Crunch and switch &#10;16. criss cross arms and legs high and low &#10;17. Left knee to right elbow &#10;18. Right knee to left elbow&#10;19. criss cross knee drive alternating &#10;20. leg raises with side drop&#10;21. tabletop crunches to one side &#10;22. Bicycles with double tap&#10;23. 2 jumping jacks/2 cross punch jacks/ 2 ceiling jacks &#10;24. 2 wiper twists / 2 tucks / 2 butterfly crunches&#10;&#10;Shop at my Amazon store and grab a jump rope, a cordless rope, a thin band, etc !&#10;https://www.amazon.com/shop/sydneycummings&#10;&#10;Interested in my outfits? Check out my LIKEtoKNOW.it profile here!&#10;https://www.liketoknow.it/Sydney%20Cummings&#10;&#10;Use code SYDNEY for 20% off GHOST Supplements! https://www.ghostlifestyle.com/&#10;I am obsessed with these products and since I get so many questions on my favorite pre-workout and protein, I figured you guys deserve a recommendation that I TRULY LOVE! &#10;&#10;Check out the story of our new stage! https://youtu.be/sDL6EnfS9jQ&#10;Check out my story here: https://youtu.be/UrS5ZNhcF0I&#10;Learn more about my journey here: https://youtu.be/Q9L-3PjG9xk&#10;&#10;Connect with me!!!&#10;Instagram: https://www.instagram.com/sydneycummings_&#10;Facebook: https://www.facebook.com/sydneycummingsfitness&#10;Twitter: https://twitter.com/sydneycummings_&#10;Website: https://www.royalchange.fit&#10;&#10;In this workout you are training with me, Sydney Cummings, owner of Royal Change and NASM Certified Personal Trainer and Fitness Nutrition Specialist. I am a fitness trainer in Charlotte, North Carolina and was a Division 1 athlete at West Virginia University where I was a national qualifying high jumper. I use my knowledge from my NASM certifications, bachelor&#8217;s degree, nursing school experience, and my elite athletic background to lead you through workouts designed to make you a stronger, more balanced athlete. My goal is to get you closer to your goals with each workout!&#10;&#10;LEGAL DISCLAIMER:&#10; &#10;All information provided by Royal Change and/or Sydney Cummings is furnished strictly for educational and entertainment purposes only. Royal Change and/or Sydney Cummings is not engaged in rendering medical or professional services. No information is to be taken as medical or other health advice pertaining to any individual's specific health or medical condition. Please consult your healthcare professional before participating in or acting on any recommendation found in content provided by Royal Change and/or Sydney Cummings.&#10; &#10;You agree that use of the information contained in any content provided by Royal Change and/or Sydney Cummings is at your own risk. Royal Change and/or Sydney Cummings is not responsible or liable for any injury sustained as a result of using the content in this video or any other video provided by Royal Change and/or Sydney Cummings.PLEASE CLICK HERE and subscribe! It helps us continue to be able to make videos for you all here every single day! https://www.youtube.com/c/sydneycummings?sub_confirmation=1"
+    channeltitle "Sydney Cummings Houdyshell"
+    channelid "UCVQJZE_on7It_pEv6tn-jdA"
     favcount 0
-    viewcount 13802716
-    likecount 169929
-    commentcount 1890
-    duration "PT5M37S"
-    indegree 9
-    sentiment 1
-    cluster 9
+    viewcount 631851
+    likecount 29059
+    commentcount 1323
+    duration "PT34M54S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 236
+    id 230
+    name "236"
     label "_qNmbXRZtfY"
     step 0
     date "2017-11-07T13:21:35Z"
@@ -4408,12 +6460,21 @@ graph
     commentcount 873
     duration "PT13M56S"
     indegree 2
-    sentiment 1
-    cluster 10
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 237
+    id 231
+    name "237"
     label "AqUO8npvBIU"
     step 0
     date "2015-04-07T10:00:01Z"
@@ -4427,12 +6488,21 @@ graph
     commentcount 7205
     duration "PT4M47S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 238
+    id 232
+    name "238"
     label "uHVKdiz6CXU"
     step 0
     date "2022-01-28T02:00:09Z"
@@ -4446,12 +6516,21 @@ graph
     commentcount 205
     duration "PT12M23S"
     indegree 12
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 239
+    id 233
+    name "239"
     label "D-8kLwf8xjc"
     step 0
     date "2021-04-23T19:00:03Z"
@@ -4465,12 +6544,21 @@ graph
     commentcount 1498
     duration "PT12M8S"
     indegree 1
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 240
+    id 234
+    name "240"
     label "rPPu5RqB_TU"
     step 0
     date "2020-01-02T11:33:26Z"
@@ -4484,12 +6572,21 @@ graph
     commentcount 12647
     duration "PT11M15S"
     indegree 14
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 241
+    id 235
+    name "241"
     label "So9gERcgEdY"
     step 0
     date "2020-03-03T16:57:29Z"
@@ -4503,12 +6600,21 @@ graph
     commentcount 3501
     duration "PT17M17S"
     indegree 6
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 242
+    id 236
+    name "242"
     label "pR0lSGKyLZU"
     step 0
     date "2020-04-26T16:00:34Z"
@@ -4522,12 +6628,21 @@ graph
     commentcount 392
     duration "PT9M49S"
     indegree 7
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 243
+    id 237
+    name "243"
     label "DjMNlYg8xK8"
     step 0
     date "2020-04-03T20:00:14Z"
@@ -4541,12 +6656,21 @@ graph
     commentcount 14621
     duration "PT14M55S"
     indegree 7
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 244
+    id 238
+    name "244"
     label "ft6MgeTvfYs"
     step 0
     date "2021-11-03T04:30:10Z"
@@ -4560,12 +6684,21 @@ graph
     commentcount 524
     duration "PT10M35S"
     indegree 3
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 245
+    id 239
+    name "245"
     label "6PBhi1SBBbs"
     step 0
     date "2021-07-03T07:00:11Z"
@@ -4579,12 +6712,21 @@ graph
     commentcount 352
     duration "PT35M49S"
     indegree 15
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 246
+    id 240
+    name "246"
     label "pwKOtslwxNA"
     step 0
     date "2022-05-15T15:55:30Z"
@@ -4598,12 +6740,21 @@ graph
     commentcount 1068
     duration "PT3M3S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 247
+    id 241
+    name "247"
     label "N3aSoC0HHdU"
     step 0
     date "2020-04-04T09:32:08Z"
@@ -4617,31 +6768,49 @@ graph
     commentcount 7089
     duration "PT6M15S"
     indegree 38
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 249
-    label "AzNvXrcd6NU"
+    id 242
+    name "248"
+    label "wiFNA3sqjCA"
     step 0
-    date "2021-10-26T17:51:17Z"
-    title "6 MIN SIXPACK ABS WORKOUT"
-    description "THIS ONE IS INTENSE. let me know on a scale from 1-10 how hard it was for you!! If you ever feel like you need more rest, an extra break or modify an exercise - do so! it's time to get started sooo.. are you ready to LEVEL UP?&#10;&#10;GET MY WORKOUT PROGRAMS: https://gainsbybrains.com/collections/guides&#10;&#10;for daily workout inspo, follow me on instagram https://instagram.com/gainsbybrains&#8203;&#8203;&#10;&#10;FREE MACRO CALCULATOR: https://gainsbybrains.com/pages/macro-calculator&#10;&#10;music from epidemic sound&#10;www.epidemicsound.com&#10;music from artlist&#10;www.artlist.io&#10;&#10;Disclaimer:&#10;To avoid any injuries or harm, make sure you check your health with your doctor before exercising. This channel offers health, fitness and nutritional information. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. TRAIN WITH GAINSBYBRAINS will not be responsible or liable for any injury or harm you sustain as a result of this video."
-    channeltitle "TRAIN WITH GAINSBYBRAINS"
-    channelid "UCi-gw2zFTtLD5evzz_ed-VQ"
+    date "2014-03-08T00:03:44Z"
+    title "How to Do the Bird Dog Exercise | Abs Workout"
+    description "Check out these great workout products to take your exercise game to the next level!&#10;&#10;indoor Cycling Bike Stationary Bike:&#10;&#128279;https://amzn.to/3LDiz8q&#10;Advanced Heat and Massage Inversion Table:&#10;&#128279;https://amzn.to/3DBWSTw&#10;Recumbent Bike Series:&#10;&#128279;https://amzn.to/3u3oMEK&#10;Smart Scale for Body Weight:&#10;&#128279;https://amzn.to/3LGtcHz&#10;Freestanding Punching Bag:&#10;&#128279;https://amzn.to/3DSmfRf&#10;&#10;&#10;Ab Workout for Women! Sexy Six-Pack Playlist https://www.youtube.com/watch?v=ZJQ-AV3HRBo&#38;list=PLLALQuK1NDrh-WzJhsFQ_j9o-cUdspF3E&#10;&#10;So I'm going to demonstrate how to do a bird dog for you. So you're going to start out in a quadruped position, which is basically what you see here. Your hands are under your shoulders and your knees are under your hips. So you're going to take one leg out high behind you. &#10;&#10;You're going to point your toe. You're going to reach your opposite arm out in front of you, and you're going to reach. You have a couple options here. You could stay here if this is challenging enough. If you want more of a challenge, you're going to take your elbow into your knee and extend it long. &#10;&#10;Extend it long. So I like to go about 5 to 15 reps on each side. So you're going to take your opposite leg and extend it high behind you, point your toe, reach out forward with your opposite arm, and take it in toward your belly button and extend. It's a great exercise for your abs and also a great tool to use as a warm up. And that's how you do a bird dog."
+    channeltitle "Howcast"
+    channelid "UCSpVHeDGr9UbREhRca0qwsA"
     favcount 0
-    viewcount 335038
-    likecount 8966
-    commentcount 87
-    duration "PT6M16S"
-    indegree 11
-    sentiment 1
-    cluster 5
+    viewcount 2586781
+    likecount 8024
+    commentcount 102
+    duration "PT1M5S"
+    indegree 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 250
+    id 243
+    name "250"
     label "psEbA2ASZHw"
     step 0
     date "2022-05-20T16:01:09Z"
@@ -4655,12 +6824,21 @@ graph
     commentcount 211
     duration "PT15M44S"
     indegree 13
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 251
+    id 244
+    name "251"
     label "G9ZsOWZ4K-U"
     step 0
     date "2022-02-12T12:00:44Z"
@@ -4674,12 +6852,21 @@ graph
     commentcount 100
     duration "PT5M47S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 252
+    id 245
+    name "252"
     label "BTa6crp6L9g"
     step 0
     date "2020-02-02T14:30:00Z"
@@ -4693,12 +6880,21 @@ graph
     commentcount 983
     duration "PT15M21S"
     indegree 5
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 253
+    id 246
+    name "253"
     label "kWM3BaCsmQc"
     step 0
     date "2021-05-04T04:00:14Z"
@@ -4712,12 +6908,21 @@ graph
     commentcount 792
     duration "PT48M31S"
     indegree 8
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 254
+    id 247
+    name "254"
     label "8ePGaGH6eNk"
     step 0
     date "2020-04-17T18:29:36Z"
@@ -4731,12 +6936,21 @@ graph
     commentcount 664
     duration "PT16M9S"
     indegree 9
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 255
+    id 248
+    name "255"
     label "tGrpmOubRkI"
     step 0
     date "2021-04-10T16:00:20Z"
@@ -4750,12 +6964,21 @@ graph
     commentcount 355
     duration "PT6M18S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 256
+    id 249
+    name "256"
     label "6wEGUy9cTjs"
     step 0
     date "2018-12-12T12:33:32Z"
@@ -4769,12 +6992,21 @@ graph
     commentcount 1761
     duration "PT11M51S"
     indegree 7
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 257
+    id 250
+    name "257"
     label "eOFGMW7CWSc"
     step 0
     date "2020-01-19T09:00:12Z"
@@ -4788,12 +7020,21 @@ graph
     commentcount 2945
     duration "PT12M56S"
     indegree 2
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 258
+    id 251
+    name "258"
     label "PhMwhb0rsVg"
     step 0
     date "2022-02-03T17:49:24Z"
@@ -4807,12 +7048,21 @@ graph
     commentcount 867
     duration "PT12M44S"
     indegree 9
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 259
+    id 252
+    name "259"
     label "cApi13gQCJc"
     step 0
     date "2020-09-28T08:04:33Z"
@@ -4826,12 +7076,21 @@ graph
     commentcount 1505
     duration "PT46M27S"
     indegree 1
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 260
+    id 253
+    name "260"
     label "0K7NNWMhO1Q"
     step 0
     date "2021-02-07T16:30:00Z"
@@ -4845,12 +7104,21 @@ graph
     commentcount 782
     duration "PT11M45S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 261
+    id 254
+    name "261"
     label "zn8XH_YGriA"
     step 0
     date "2021-10-17T13:00:32Z"
@@ -4864,12 +7132,21 @@ graph
     commentcount 342
     duration "PT42M15S"
     indegree 2
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 262
+    id 255
+    name "262"
     label "H5Q0MOTFfI0"
     step 0
     date "2021-06-19T07:00:11Z"
@@ -4883,12 +7160,21 @@ graph
     commentcount 490
     duration "PT34M26S"
     indegree 4
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 263
+    id 256
+    name "263"
     label "2eYJaYMsFJ8"
     step 0
     date "2021-12-15T02:00:23Z"
@@ -4902,12 +7188,21 @@ graph
     commentcount 362
     duration "PT43M43S"
     indegree 8
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 7
   ]
   node
   [
-    id 264
+    id 257
+    name "264"
     label "jCGinKVteow"
     step 0
     date "2021-06-21T04:00:10Z"
@@ -4921,12 +7216,21 @@ graph
     commentcount 948
     duration "PT42M56S"
     indegree 5
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 7
   ]
   node
   [
-    id 265
+    id 258
+    name "265"
     label "ITdlvmHpFc0"
     step 0
     date "2019-09-25T11:45:00Z"
@@ -4940,12 +7244,21 @@ graph
     commentcount 2144
     duration "PT10M54S"
     indegree 5
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 266
+    id 259
+    name "266"
     label "mYksHq_m49M"
     step 0
     date "2017-07-04T14:00:05Z"
@@ -4959,12 +7272,21 @@ graph
     commentcount 5120
     duration "PT11M12S"
     indegree 4
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 267
+    id 260
+    name "267"
     label "iY4hQd24_d0"
     step 0
     date "2016-07-21T20:21:57Z"
@@ -4978,12 +7300,21 @@ graph
     commentcount 1066
     duration "PT5M36S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 268
+    id 261
+    name "268"
     label "pNqrkGnkUWc"
     step 0
     date "2007-01-13T13:45:15Z"
@@ -4997,12 +7328,21 @@ graph
     commentcount 3247
     duration "PT8M53S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 269
+    id 262
+    name "269"
     label "IcqsyUGZqzc"
     step 0
     date "2022-04-04T18:37:39Z"
@@ -5016,12 +7356,21 @@ graph
     commentcount 422
     duration "PT5M54S"
     indegree 8
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 270
+    id 263
+    name "270"
     label "SbJXu898mLM"
     step 0
     date "2022-05-09T06:52:49Z"
@@ -5035,12 +7384,21 @@ graph
     commentcount 137
     duration "PT11M18S"
     indegree 6
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 271
+    id 264
+    name "271"
     label "ITvqjnwhJqA"
     step 0
     date "2017-08-30T12:46:21Z"
@@ -5054,12 +7412,21 @@ graph
     commentcount 1387
     duration "PT12M12S"
     indegree 5
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 272
+    id 265
+    name "272"
     label "XxZlND8PS9s"
     step 0
     date "2021-05-03T12:00:25Z"
@@ -5073,12 +7440,21 @@ graph
     commentcount 5847
     duration "PT11M3S"
     indegree 28
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 273
+    id 266
+    name "273"
     label "nCMfX8-VuZE"
     step 0
     date "2020-05-05T19:19:03Z"
@@ -5092,12 +7468,21 @@ graph
     commentcount 7649
     duration "PT10M9S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 274
+    id 267
+    name "274"
     label "Z-8sNHcncpM"
     step 0
     date "2021-04-21T03:30:06Z"
@@ -5111,12 +7496,21 @@ graph
     commentcount 1485
     duration "PT8M37S"
     indegree 17
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 275
+    id 268
+    name "275"
     label "6En0LPb4Hfw"
     step 0
     date "2020-08-12T04:30:00Z"
@@ -5130,12 +7524,21 @@ graph
     commentcount 1584
     duration "PT10M58S"
     indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 276
+    id 269
+    name "276"
     label "_t_DwpxWjyo"
     step 0
     date "2019-11-27T00:44:27Z"
@@ -5149,12 +7552,21 @@ graph
     commentcount 1064
     duration "PT23M42S"
     indegree 3
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 277
+    id 270
+    name "277"
     label "5FL5HQzqGoY"
     step 0
     date "2022-05-23T15:03:43Z"
@@ -5168,12 +7580,21 @@ graph
     commentcount 221
     duration "PT11M47S"
     indegree 6
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 278
+    id 271
+    name "278"
     label "VheIsJjbzZ4"
     step 0
     date "2022-04-24T11:00:12Z"
@@ -5187,12 +7608,21 @@ graph
     commentcount 77
     duration "PT10M12S"
     indegree 21
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 279
+    id 272
+    name "279"
     label "1OF3q6MHie8"
     step 0
     date "2021-11-14T18:54:58Z"
@@ -5206,31 +7636,49 @@ graph
     commentcount 872
     duration "PT12M44S"
     indegree 12
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
+  ]
+  node
+  [
+    id 273
+    name "280"
+    label "HcA7LISXxU4"
+    step 0
+    date "2021-10-14T14:00:11Z"
+    title "3 Mile Walk Morning Cardio Abs Workout at Home"
+    description "This workout is no repeats and requires no equipment! &#10;&#10;This workout is fun but so intense! Results will come if you stay consistent and patient! Make sure to document your progress on TikTok and share with the hashtag #growwithjo&#10;&#10;I will be choosing some to do fun reactions to so that we can celebrate with the entire community!!&#10;&#10;During todays' workout, after our 5 minute warm up, we will launch ourselves into a dance-party-esque type cardio abs workout. &#10;&#10;There are no repeats (except to keep things even on both sides), and we will be doing a total body cool down at the end of this workout&#10;&#10;If you have read this entire caption through, I think of you as one of my most attentive MVPs! make sure to comment below letting me know what your favorite growwithjo workout is and why, (so I know that you read this entire description through)&#10;&#10;Love you! keep moving boo :)&#10;&#10;Jo&#10;________________________________________________________________&#10;&#10;RESULTS&#10;&#10;SHARE YOUR WORKOUT VIDEOS on Tik Tok, YouTube or Instagram for a chance to be featured in my next video or on our community Youtube: @growwithjo unified&#10;&#10;Record a video or take a picture of you doing the workout, tag me @growwithjo #growwithjo @growwithjo_unified&#10;&#10;To get the BEST (AND QUICKER) RESULTS, follow a nutrition plan that supports your goals. Get a customized nutrition plan in my app. &#10;&#10;Hit this link to try your customized plan FREE for 7 days: https://get.growwithjo.app/UVuo/myapp&#10;&#10;_______________________________________________________________&#10;&#10;SHOP&#10;&#10;Grow With Jo APP &#8594;https://get.growwithjo.app/UVuo/myapp&#10;Workbooks &#38; Video Programs &#8594; https://www.godaily.ca/&#10;Big Booty Tight Tummy Guided Video Program (BEST SELLER): https://www.godaily.ca/bbtt-go&#10;&#10;_________________________________________________________________&#10;&#10;KEEP UP WITH ME&#10;&#10;INSTAGRAM &#8594; https://www.instagram.com/growwithjo/?hl=en&#10;FACEBOOK &#8594; https://www.facebook.com/growwithjoofficial/&#10;PINTEREST &#8594; https://www.pinterest.ca/growwithjo/&#10;TIKTOK &#8594; https://www.tiktok.com/@growwithjo?lang=en&#10;CONTACT EMAIL &#8594; support@growwithjo.ca&#10;&#10;_________________________________________________________________&#10;DISCLAIMER:&#10;All information provided by growwithjo is of a general nature and is furnished only for educational/entertainment purposes only. No information is to be taken as medical or other health advice pertaining to any individual specific health or medical condition. You agree that use of this information is at your own risk and hold growwithjo harmless from any and all losses, liabilities, injuries or damages resulting from any and all claims.&#10;&#10;growwithjo beginner workouts abs workout walking all standing low impact fun fitness videos"
+    channeltitle "growwithjo"
+    channelid "UCZUUZFex6AaIU4QTopFudYA"
+    favcount 0
+    viewcount 796203
+    likecount 25406
+    commentcount 1387
+    duration "PT44M25S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 281
-    label "t3fjs55jY-4"
-    step 0
-    date "2022-05-04T14:00:32Z"
-    title "8 MIN. SHREDDED ABS WORKOUT - intense full core burner for a flat belly"
-    description "This is a quick 8 minute shredded abs workout to tone your abs &#38; core. This intense abs workout is also a burner for your upper,lower &#38; side abs. To get shredded abs, these 8 minute workout will help your abs to become more visible. You can do this 8 minute ab workout challenge at home with no equipment needed. Combine this workout with one of my fat burn workouts and good nutrition for even better results. Love you all, Marybody Family! Came up with this amazing new name for you &#38; us :) loving it!&#10;&#10;&#10;Music by Epidemic Sound&#10;Songs:&#10;Mindme - Bruises&#10;Aiyo - Morning Breath&#10;Aiyo - Pink Clouds And Fairy Dust&#10;&#10;Follow me on Instagram for daily motivation &#9829;&#65038; &#10;Love you and appreciate everyone of you.&#10;Instagram: @_marybraun https://www.instagram.com/_marybraun/&#10;Business Contact: marybraun.info@gmail.com&#10;&#10;Disclaimer: When joining me for all my workout videos, you need to know that we can&#8217;t choose the area where we want to lose fat. Your health and safety is the most important thing. To reduce and avoid any type of injury, it is better for you to check with your doctor, before beginning this workout. If you don&#8217;t feel comfortable in performing different exercises, see a fitness professional to give you advice on your exercise form. Mary Braun will not be responsible or liable for any injury or harm you sustain as a result of this video."
-    channeltitle "Mary Braun"
-    channelid "UCao4a5ju7QRScI_tnf2MArw"
-    favcount 0
-    viewcount 126298
-    likecount 3444
-    commentcount 47
-    duration "PT9M10S"
-    indegree 5
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 282
+    id 274
+    name "282"
     label "_hwvmGZuBeY"
     step 0
     date "2022-05-25T01:30:11Z"
@@ -5244,12 +7692,21 @@ graph
     commentcount 272
     duration "PT15M52S"
     indegree 2
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 283
+    id 275
+    name "283"
     label "TeNg1oTvlVM"
     step 0
     date "2021-12-16T05:00:11Z"
@@ -5263,12 +7720,21 @@ graph
     commentcount 421
     duration "PT13M40S"
     indegree 4
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 284
+    id 276
+    name "284"
     label "3O66a3rqOjo"
     step 0
     date "2020-05-23T07:45:00Z"
@@ -5282,12 +7748,21 @@ graph
     commentcount 235
     duration "PT11M9S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 285
+    id 277
+    name "285"
     label "Nftnbh6Rq5g"
     step 0
     date "2018-05-02T13:20:38Z"
@@ -5301,12 +7776,21 @@ graph
     commentcount 1139
     duration "PT12M31S"
     indegree 8
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 286
+    id 278
+    name "286"
     label "8ortypveAL0"
     step 0
     date "2020-06-13T09:54:56Z"
@@ -5320,12 +7804,21 @@ graph
     commentcount 1355
     duration "PT20M41S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 287
+    id 279
+    name "287"
     label "-DvD437v9Ec"
     step 0
     date "2022-02-02T06:52:56Z"
@@ -5339,12 +7832,21 @@ graph
     commentcount 425
     duration "PT12M36S"
     indegree 8
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 288
+    id 280
+    name "288"
     label "Iy1aDbS__pw"
     step 0
     date "2022-04-27T14:20:41Z"
@@ -5358,31 +7860,49 @@ graph
     commentcount 153
     duration "PT16M44S"
     indegree 4
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 290
-    label "LpJKq9VTTb4"
+    id 281
+    name "289"
+    label "S8xkwLlzIA8"
     step 0
-    date "2020-03-01T16:55:28Z"
-    title "10 Minute Lower Ab Flattener | Total Body Transformation Workout"
-    description "Welcome to your Total Body Transformation!!! Over the next 6 weeks, we're gonna target ALL the major muscles in your body in a way that will make you feel stronger every week.&#10;&#10;March workout calendar: https://www.blogilates.com/march-2020-workout-calendar/&#10;&#10;I'm really excited about this series because this is the time of year when we're just ready to switch up our workout routines!! I'm gonna tell you EXACTLY what to do every day this month, so it'll basically be like I am your personal trainer. The link to the March workout calendar is above!&#10;&#10;You have 8 lower ab moves today, and we'll do each for 1 minute with a 15 second break in between. They are:&#10;&#10;1. Double Leg Stretch&#10;2. Expanding Tabletops (R)&#10;3. Expanding Tabletops (L)&#10;4. Reverse Crunch&#10;5. Double Leg Lift&#10;6. Double Ds&#10;7. Rollovers&#10;8. Flutters&#10;&#10;Workout starts at 3:13!&#10;&#10;Here is where I get all of my music! Epidemic Sound: http://share.epidemicsound.com/sgFTn&#13;&#10;&#13;&#10;******&#13;&#10;&#13;&#10;Cassey Ho is an award-winning fitness instructor, entrepreneur and online personality. As the creator behind Blogilates, the #1 female fitness channel on YouTube, she&#8217;s transformed millions of lives through helping them achieve their strength and weight-loss goals. She focuses on making fitness fun and the results are evident. Cassey's unique format, POP Pilates&#169;, which launched as a workout video on YouTube in 2009, has become a live fitness class that can be taken at gyms all over the world with over 3,000 POP Pilates classes being taught monthly. Her authenticity continues to shine through, making her one of the most relatable fitness icons online and beyond. She's also the author of the best-selling book, Hot Body Year Round and is the designer of her own activewear line, POPFLEX.&#13;&#10;&#13;&#10;With a wide range of free workout videos available, Cassey's channel focuses on ab exercises, butt &#38; thigh exercises, arm exercises, pilates, cardio routines, fat burning workouts, high intensity interval training workouts (HIIT), stretching and flexibility routines and so much more!&#13;&#10;&#13;&#10;&#13;&#10;***&#13;&#10;DISCLAIMER:&#13;&#10;&#13;&#10;Blogilates and oGorgeous Inc. strongly recommend that you consult with your physician before beginning any exercise program.&#13;&#10;&#13;&#10;You should be in good physical condition and be able to participate in the exercise.&#13;&#10;&#13;&#10;You should understand that when participating in any exercise or exercise program, there is the possibility of physical injury. If you engage in this exercise or exercise program, you agree that you do so at your own risk, are voluntarily participating in these activities, assume all risk of injury to yourself, and agree to release and discharge Blogilates and oGorgeous Inc. from any and all claims or causes of action, known or unknown, arising out of Blogilates' and oGorgeous Inc.'s negligence."
-    channeltitle "blogilates"
-    channelid "UCIJwWYOfsCfz6PjxbONYXSg"
+    date "2020-09-23T18:29:17Z"
+    title "STANDING ABS WORKOUT | AB WORKOUT AT HOME AB  WAIST EXERCISES AND CORE | LUCY WYNDHAM READ"
+    description "This is all about your ABS, ABS, ABS,  Standing Ab, Waist and Core Workout &#10;DOWNLOAD MY NEW 7 MINUTE BELLY FAT CHALLENGE  GUIDE HERE &#10;https://www.lwrfitness.com/7-day-lose-belly-fat-challenge/&#10;&#10;#standingabsworkout #homefitness #homeworkouts #lucywyndhamread #waistworkout #waistexercise #fitnesschannel"
+    channeltitle "Lucy Wyndham-Read"
+    channelid "UCag7XoiJLutjBTsM0tAzUzg"
     favcount 0
-    viewcount 2032639
-    likecount 37198
-    commentcount 1064
-    duration "PT15M30S"
-    indegree 6
-    sentiment 1
-    cluster 6
+    viewcount 1112792
+    likecount 13955
+    commentcount 491
+    duration "PT12M15S"
+    indegree 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 291
+    id 282
+    name "291"
     label "7Nu7eSe9KHQ"
     step 0
     date "2017-02-16T21:50:17Z"
@@ -5396,12 +7916,21 @@ graph
     commentcount 1003
     duration "PT5M36S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 292
+    id 283
+    name "292"
     label "67zHU9Q2pj8"
     step 0
     date "2022-06-16T13:00:03Z"
@@ -5415,12 +7944,21 @@ graph
     commentcount 69
     duration "PT10M57S"
     indegree 2
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 293
+    id 284
+    name "293"
     label "FWchW_M9tvU"
     step 0
     date "2021-09-22T14:08:11Z"
@@ -5434,12 +7972,21 @@ graph
     commentcount 205
     duration "PT10M29S"
     indegree 4
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 294
+    id 285
+    name "294"
     label "E8SLO3JgUbQ"
     step 0
     date "2017-09-04T02:14:32Z"
@@ -5453,12 +8000,21 @@ graph
     commentcount 3904
     duration "PT10M19S"
     indegree 6
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 295
+    id 286
+    name "295"
     label "pveDOXQEjMM"
     step 0
     date "2022-03-14T05:00:28Z"
@@ -5472,12 +8028,21 @@ graph
     commentcount 75
     duration "PT5M43S"
     indegree 6
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 296
+    id 287
+    name "296"
     label "9DqQ5GfZth4"
     step 0
     date "2020-10-11T16:52:31Z"
@@ -5491,12 +8056,21 @@ graph
     commentcount 1545
     duration "PT10M3S"
     indegree 12
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 297
+    id 288
+    name "297"
     label "M6b37hswcks"
     step 0
     date "2017-11-07T13:30:01Z"
@@ -5510,12 +8084,21 @@ graph
     commentcount 1474
     duration "PT11M4S"
     indegree 7
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 298
+    id 289
+    name "298"
     label "RAUyogkbzLs"
     step 0
     date "2021-05-21T16:00:30Z"
@@ -5529,12 +8112,21 @@ graph
     commentcount 4
     duration "PT11M27S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 299
+    id 290
+    name "299"
     label "ivWre5eokas"
     step 0
     date "2020-10-02T19:00:04Z"
@@ -5548,12 +8140,21 @@ graph
     commentcount 821
     duration "PT11M15S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 8
   ]
   node
   [
-    id 300
+    id 291
+    name "300"
     label "gGqQX9HqHEk"
     step 0
     date "2022-02-01T12:19:54Z"
@@ -5567,12 +8168,21 @@ graph
     commentcount 80
     duration "PT7M43S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 301
+    id 292
+    name "301"
     label "jxTbn63X3c4"
     step 0
     date "2021-02-06T11:33:00Z"
@@ -5586,12 +8196,21 @@ graph
     commentcount 792
     duration "PT10M47S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 302
+    id 293
+    name "302"
     label "dL9ZzqtQI5c"
     step 0
     date "2012-06-11T07:33:58Z"
@@ -5605,12 +8224,21 @@ graph
     commentcount 136
     duration "PT1M36S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 303
+    id 294
+    name "303"
     label "Odj-xcMGxjo"
     step 0
     date "2021-03-04T06:00:15Z"
@@ -5624,12 +8252,21 @@ graph
     commentcount 510
     duration "PT30M36S"
     indegree 2
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 304
+    id 295
+    name "304"
     label "bZMqRjB7W0Y"
     step 0
     date "2020-11-04T05:30:11Z"
@@ -5643,12 +8280,21 @@ graph
     commentcount 367
     duration "PT14M18S"
     indegree 2
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 305
+    id 296
+    name "305"
     label "nGZPfhDaCz8"
     step 0
     date "2020-06-15T16:30:03Z"
@@ -5662,12 +8308,21 @@ graph
     commentcount 1077
     duration "PT12M1S"
     indegree 3
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 306
+    id 297
+    name "306"
     label "YXSnjNZsRp4"
     step 0
     date "2022-03-27T13:55:06Z"
@@ -5681,12 +8336,21 @@ graph
     commentcount 189
     duration "PT14M11S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 307
+    id 298
+    name "307"
     label "HDc6uaWiJ6U"
     step 0
     date "2022-05-19T10:00:14Z"
@@ -5700,12 +8364,21 @@ graph
     commentcount 149
     duration "PT3M54S"
     indegree 1
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 308
+    id 299
+    name "308"
     label "hu8VB-7NtoE"
     step 0
     date "2021-01-27T07:00:07Z"
@@ -5719,12 +8392,21 @@ graph
     commentcount 845
     duration "PT10M20S"
     indegree 6
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 309
+    id 300
+    name "309"
     label "Co9uUqCw5ZM"
     step 0
     date "2021-10-15T01:00:10Z"
@@ -5738,12 +8420,21 @@ graph
     commentcount 275
     duration "PT35M37S"
     indegree 2
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 310
+    id 301
+    name "310"
     label "qJVtUkVTqic"
     step 0
     date "2022-03-28T14:30:08Z"
@@ -5757,12 +8448,21 @@ graph
     commentcount 348
     duration "PT7M14S"
     indegree 4
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 311
+    id 302
+    name "311"
     label "o1uif6PRLjo"
     step 0
     date "2021-04-25T13:00:31Z"
@@ -5776,12 +8476,21 @@ graph
     commentcount 68
     duration "PT12M20S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 312
+    id 303
+    name "312"
     label "jyaBMHUcrss"
     step 0
     date "2016-03-12T03:35:15Z"
@@ -5795,12 +8504,21 @@ graph
     commentcount 9
     duration "PT8M43S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 313
+    id 304
+    name "313"
     label "YH7qpxOP_FE"
     step 0
     date "2022-06-18T17:16:06Z"
@@ -5814,12 +8532,21 @@ graph
     commentcount 139
     duration "PT6M"
     indegree 1
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 314
+    id 305
+    name "314"
     label "FwhNje1Z7pY"
     step 0
     date "2022-05-11T15:00:16Z"
@@ -5833,12 +8560,21 @@ graph
     commentcount 284
     duration "PT6M48S"
     indegree 8
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 8
   ]
   node
   [
-    id 315
+    id 306
+    name "315"
     label "WoNCIBVLbgY"
     step 0
     date "2012-06-13T13:10:04Z"
@@ -5852,12 +8588,21 @@ graph
     commentcount 177
     duration "PT1M18S"
     indegree 3
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 316
+    id 307
+    name "316"
     label "yju74O7F7fc"
     step 0
     date "2021-11-11T17:59:07Z"
@@ -5871,12 +8616,21 @@ graph
     commentcount 20
     duration "PT11M39S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 317
+    id 308
+    name "317"
     label "wkD8rjkodUI"
     step 0
     date "2012-06-15T01:15:17Z"
@@ -5890,12 +8644,21 @@ graph
     commentcount 1145
     duration "PT1M32S"
     indegree 4
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 318
+    id 309
+    name "318"
     label "ywJgsm5mkkQ"
     step 0
     date "2020-04-09T12:21:19Z"
@@ -5909,12 +8672,21 @@ graph
     commentcount 11366
     duration "PT11M13S"
     indegree 26
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 319
+    id 310
+    name "319"
     label "4pVg8vA1JJc"
     step 0
     date "2018-02-23T19:09:28Z"
@@ -5928,31 +8700,49 @@ graph
     commentcount 117
     duration "PT10M18S"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 321
-    label "2-g3Aa126zs"
+    id 311
+    name "320"
+    label "0U4PguxC6bc"
     step 0
-    date "2020-12-18T16:14:14Z"
-    title "12 Minute Ab Workout | All-Levels | Month 4, Day 1 Strength at Home Program"
-    description "Grab a mat, a set of light dumbbells, and a light mini band for this super quick ab focused workout. Total workout time: 10 minutes; Recovery time: just shy of 2 minutes. We will go 1 minute on, 15 seconds off for 10 exercises. The first five are bodyweight only and the last 5 exercises will require some extra resistance to make it more challenging. These exercises are designed to target the rectus abdominals (&#34;6-pack muscle&#34;) and your transverse abdominals (&#34;corset-like muscle&#34;). We are honing in on the anterior part of your core, although some others will work as secondary muscle groups. These exercises are &#34;basic&#34;, there is no fluff. These are the exercises I perform during my own personal training. These &#34;basic&#34; exercises will provide great engagement if done correctly. You don't need to reinvent the wheel to get results : ) This is for all-levels. Let me know how it goes in the comments below : )&#10;&#10;SKIP TO 2:22 to begin &#10;&#10;Other Ab Workouts: https://youtube.com/playlist?list=PLkdaCg6IG0aWFfOvEHn67Yq5rkrXoYaYa&#10;&#10;Advanced/Intermediate Workouts: https://youtube.com/playlist?list=PLkdaCg6IG0aUokOX1_8lO_9HI8ZXfPEi4&#10;Beginner Friendly Workouts: https://youtube.com/playlist?list=PLkdaCg6IG0aWCvGs-6IVI5eaaO-qYE0TU&#10;&#10;Dumbbell set: https://amzn.to/36ByjYu&#10;Dumbbell set lighter: https://amzn.to/3jtVSWB&#10;Adjustable DB: https://amzn.to/30DUv0e&#10;&#10;Set of 5 Mini Bands: https://amzn.to/2UUc2NZ&#10;Set of 3 Mini Bands: https://amzn.to/2yoYIcR&#10;&#10;Adjustable bench: https://amzn.to/3laSQXy&#10;&#10;HydroJug: Use Code LARIE10 for discount&#10;https://www.thehydrojug.com/&#10;&#10;The GOAT of pre-workouts&#10;Amino Energy in Grape: https://amzn.to/2QVWtEg&#10;Amino Energy in Watermelon: https://amzn.to/2QTwFZy&#10;&#10;Post-Workout Protein Bars&#10;Fit Crunch Protein Bars LEGIT THE BEST TASTING PROTEIN BAR EVER: https://amzn.to/3byEMm7 (If you follow me on IG, you know I'm obsessed)&#10;&#10;Track your HR&#10;Apple Watch Series 3 White: https://amzn.to/2UujKiK&#10;Apple Watch Series 5 Rose Gold: https://amzn.to/3bAZe5H&#10;&#10;Replica Lululemon tank: https://amzn.to/3g95fbP&#10;&#10;Cute CHEAP sports bra: https://amzn.to/37M7uh4&#10;&#10;Replica Lululemon Align Pants CHEAP: https://amzn.to/2PaCRLK&#10;&#10;Lululemon Align Replica Grey: https://amzn.to/2Tfqhfh&#10;&#10;Yoga Mat (similar): https://amzn.to/39EvlS1&#10;&#10;Tag me in your posts &#38; stories on IG: @lariemidkiff&#10;&#10;&#127925; All  songs are licensed from epidemic sounds and soundstripe"
-    channeltitle "FIT by Larie"
-    channelid "UC8pE4eKOA-KLZosVMgl3ddg"
+    date "2017-09-30T23:43:37Z"
+    title "EASY AB workout for BEGINNERS"
+    description "EASY AB workout for BEGINNERS // Low Impact abs exercises if your new to fitness. Try this simple but effective abdominal routine at home. Tighten &#38; tone your stomach!&#10;&#10;FREE 28 Day Workout VIDEO Calendar &#38; Top Fitness Secret Tips Guide at: http://freeworkoutcalendar.com&#10;&#10;============================&#10;&#9734; Click Below to SUBSCRIBE for NEW Videos Every Week! http://www.youtube.com/subscription_center?add_user=zacharyfiorido&#10;&#9734; WEBSITE:  https://BeautyandTheFit.com &#10;&#10;============================&#10;&#9734; TWEET TWEET: https://twitter.com/zacharyfiorido&#10;&#9734; FACEBOOK: https://www.facebook.com/ZacharyFiorido&#10;&#9734; INSTAGRAM: http://instagram.com/zacharyfiorido/&#10;&#9734; SNAPCHAT: ZacharyFiorido&#10;&#10;============================&#10;About This Video:&#10;EASY AB workout for BEGINNERS"
+    channeltitle "ZacharyFiorido"
+    channelid "UCfR0jUUdiGAw80zTQaHrdLg"
     favcount 0
-    viewcount 9964
-    likecount 247
-    commentcount 20
-    duration "PT16M20S"
+    viewcount 7929
+    likecount 216
+    commentcount 13
+    duration "PT14M19S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 322
+    id 312
+    name "322"
     label "1iKE6wSWUyg"
     step 0
     date "2022-05-10T14:13:13Z"
@@ -5966,12 +8756,21 @@ graph
     commentcount 59
     duration "PT15M13S"
     indegree 12
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 323
+    id 313
+    name "323"
     label "X59_4RrU_aA"
     step 0
     date "2012-06-14T17:26:06Z"
@@ -5985,31 +8784,49 @@ graph
     commentcount 115
     duration "PT1M31S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 326
-    label "OUctE0Gv5Pk"
+    id 314
+    name "324"
+    label "y9Jbost8Oo8"
     step 0
-    date "2020-01-24T12:30:00Z"
-    title "6 Pack Abs Workout for Beginners | Yatinder Singh"
-    description "We all want those ripped 6 Pack Abs and always put efforts to get them. However, despite putting all of the hard work, sweat and hopes, the results aren't that much visible.&#10;&#10;To tackle this issue, here in this video, I've shared 6 different Abs Workout with their proper technique to help you achieve the target of getting 6 Pack Abs. These exercises are perfectly suited for beginners.&#10;&#10;Do watch the video full and don't forget to like the video and comment down your questions and queries. &#10;&#10;For more videos related to motivation, fitness, workout, muscles, nutrition, bodybuilding, etc., Do subscribe to our channels:&#10;&#10;YouTube: https://www.youtube.com/c/YatinderSinghOfficial&#10;Facebook: https://www.facebook.com/Yatindersinghofficial&#10;Insta: https://www.instagram.com/yatindersingh_official&#10;&#10;Best Abs Workout: &#10;https://youtu.be/vRtSIb64rFM&#10;&#10;Top Supplements for Muscle Building:&#10;https://youtu.be/k3ZHKQThuiM"
-    channeltitle "Yatinder Singh"
-    channelid "UC12K7FCbzFG5BOMJrHn-sog"
+    date "2020-06-08T12:21:26Z"
+    title "Why Do Hips Pop During Ab Exercises? Quick Fix to Stop the Popping-Hip Syndrome"
+    description "Have you ever experienced snapping hips? Today's I'm explaining why your hips pop when you do hip and/or ab exercises.&#10;&#10;Perhaps this happens when you are laying on your back and do leg scissors or leg lifts.&#10;The answer is incredibly simple: hips work similarly to a foundation, and need the legs to be straight with the hipline.&#10;&#10;Make sure to check out my Facebook Page fore more content: www.facebook.com/angelaparkerfi&#10;Don't forget to follow me on IG too for tutorials &#38; live sessions: www.instagram.com/angelaparkerfit&#10;Website: www.amptribe.com&#10;&#10;Comment below if this has ever happened to you and let me know if the clicking disappears by following these tips! &#128071;"
+    channeltitle "Angela Parker FIT"
+    channelid "UCw2U1MFeA0l3zC5LVf5ZhqQ"
     favcount 0
-    viewcount 9074594
-    likecount 422519
-    commentcount 5701
-    duration "PT9M59S"
-    indegree 18
-    sentiment 1
+    viewcount 1939
+    likecount 47
+    commentcount 9
+    duration "PT4M19S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 327
+    id 315
+    name "327"
     label "S1_C11ovtZc"
     step 0
     date "2022-05-19T20:51:42Z"
@@ -6023,12 +8840,21 @@ graph
     commentcount 74
     duration "PT20M13S"
     indegree 16
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 328
+    id 316
+    name "328"
     label "CWOZyf8kaH0"
     step 0
     date "2012-06-12T23:19:57Z"
@@ -6042,12 +8868,21 @@ graph
     commentcount 450
     duration "PT1M36S"
     indegree 2
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 329
+    id 317
+    name "329"
     label "_G49y_ba3m4"
     step 0
     date "2021-02-02T17:00:12Z"
@@ -6061,12 +8896,21 @@ graph
     commentcount 8
     duration "PT13M42S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 8
   ]
   node
   [
-    id 330
+    id 318
+    name "330"
     label "DHOPWvO3ZcI"
     step 0
     date "2020-03-22T08:00:04Z"
@@ -6080,12 +8924,21 @@ graph
     commentcount 3092
     duration "PT10M40S"
     indegree 28
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 331
+    id 319
+    name "331"
     label "5he3cF7bITY"
     step 0
     date "2021-06-11T19:08:00Z"
@@ -6099,31 +8952,49 @@ graph
     commentcount 319
     duration "PT46S"
     indegree 3
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 320
+    name "332"
+    label "15_K5PAOwOk"
+    step 0
+    date "2022-04-30T16:00:12Z"
+    title "PERFECT 30 MIN CHEST  ABS WORKOUT [MUSCLE BUILDER]"
+    description "Lets grow your chest with this effective 30 minute routine, while also giving your abs an intense workout. Please stop using &#34;no gym membership&#34; as an excuse not to grow. You have all you need at home to get the gains!&#10;&#10;Many more 30 minute and more sessions on the way as well as a 60 day workout challenge coming up soon! Stay ready so you don't have to get ready!&#10;---------------------------------- &#10;4-8 Week Push-up Progression Training Program: https://bit.ly/3Cea5Ql&#10;&#10;8-16 Week Gym Training Program: https://bit.ly/3z81HQF&#10;&#10;YOGA Mats: https://bit.ly/3AdcnPi&#10;&#10;Sunday Live sessions!!!! &#10;&#10;Become a member!!! https://bit.ly/399zdvm&#10; ---------------------------------"
+    channeltitle "BullyJuice"
+    channelid "UCK9JEqf7LBBx3tkrPx2xvbQ"
+    favcount 0
+    viewcount 176949
+    likecount 4273
+    commentcount 101
+    duration "PT30M48S"
+    indegree 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 333
-    label "n-bGcQCzWUg"
-    step 0
-    date "2022-03-08T15:00:34Z"
-    title "SEXY 11 LINE ABS in 14 Days | 6 minute Workout"
-    description "Get 11 line abs in 14 days with this 6 minute workout challenge that you can do it home with no equipment. These abs exercises will help you lose belly fat and show you how to get a flat stomach and slim waist at home. For the best visible abs results, do this with good nutrition and my fat loss workouts.&#10;&#10;&#128153; Shop my Gymshark Outfits: https://gym.sh/Shop-Lilly-YT-Gymshark-Adapt&#10;&#10;&#128293; Get the LEAN App &#128293; Personalised workout programs, personalised meal plans, exclusive workout challenges, a habit tracker, a journal, a recipe library and so much more. Get the LEAN App here: https://www.leanwithlilly.com/&#10;&#10;&#128105;&#8205;&#127891; Students get 20% off the LEAN App and Products here: https://www.leanwithlilly.com/student&#10;&#10;&#129380; The supplements &#38; protein bars I use to get results: https://www.leanwithlilly.com/pages/supplements&#10;&#10;&#128170; Get your Free Home Workout programs here: https://www.leanwithlilly.com&#10;&#10;&#129293; FOLLOW ME:&#10;Instagram:  https://instagram.com/lillysabri&#10;TikTok: https://www.tiktok.com/@lillysabri?lang=en&#10;Private Facebook Group- Lean with Lilly Guides&#10;https://www.facebook.com/groups/508730913266325/&#10;Twitter:  https://twitter.com/lillysabri&#10;Facebook:  https://www.facebook.com/lilly.sabri/&#10;&#10;&#128276; DON'T FORGET to Subscribe for daily uploads xx&#10;Hit that bell icon to get a notification when I upload.&#10;&#10;0:00 Sexy 11 Line Abs Workout&#10;0:07 Best Abs Workout Results&#10;0:33 Lose Belly Fat Workout&#10;6:37 Complete Workout&#10;&#10;Get Your Song by Rita Ora here https://t.lickd.co/6e184c389e7b4cf2927ed43c1c50621f&#10;License ID: Q0GKbZ4vKLJ&#10;Get Let You Love Me by Rita Ora here https://lickd.lnk.to/K4cWdkID!Lilly%20Sabri&#10;License ID: d8w9KAKPRj0&#10;Get this and other songs for your next YouTube video at https://lickd.co/r/lillysabri&#10;&#10;Disclaimer: Please remember that we cannot spot reduce fat, meaning we can&#8217;t choose the areas on our body where we loose fat. However to get fat loss results I recommend the following:&#10;1. Being in calorie deficit&#10;2. Cardio/ HIIT workout (I often call these Fat Loss/Burn workouts on my channel)&#10;3. Resistance training and specific muscle targeted workouts. To strengthen and develop specific muscles.&#10;I have hundreds of other home workouts available on my channel, so you can pick and choose which workouts you want to do, to not only make you build a strong body, but also feel amazing.&#10;Please remember every body is different and we all progress at different rates. The fact that you have shown up and completed this workout is incredible. You should be very proud of yourself for taking the steps to improve not only your physical, but also your mental health.&#10;The key to achieving your fitness and health goals is consistency and healthy lifestyle changes, without restriction. I don&#8217;t believe in crazy fad diets. Simply eat nutritious food, move your body, smile and enjoy the journey! Love Lilly"
-    channeltitle "Lilly Sabri"
-    channelid "UCTsM1dSAiXqiV5oZjuNw_Bg"
-    favcount 0
-    viewcount 528822
-    likecount 13516
-    commentcount 273
-    duration "PT6M45S"
-    indegree 3
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 334
+    id 321
+    name "334"
     label "mKsh188HrgQ"
     step 0
     date "2020-11-13T14:10:39Z"
@@ -6137,12 +9008,21 @@ graph
     commentcount 20
     duration "PT11M"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 8
   ]
   node
   [
-    id 335
+    id 322
+    name "335"
     label "0fmODAKgOD0"
     step 0
     date "2020-05-05T16:00:01Z"
@@ -6156,12 +9036,21 @@ graph
     commentcount 54
     duration "PT7M14S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 336
+    id 323
+    name "336"
     label "vAzUdYcdFKQ"
     step 0
     date "2022-06-25T01:00:12Z"
@@ -6175,12 +9064,21 @@ graph
     commentcount 178
     duration "PT12M29S"
     indegree 5
-    sentiment 1
-    cluster 7
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 337
+    id 324
+    name "337"
     label "UDckBtpgS7U"
     step 0
     date "2022-07-06T14:00:11Z"
@@ -6194,12 +9092,21 @@ graph
     commentcount 17
     duration "PT7M23S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 7
   ]
   node
   [
-    id 338
+    id 325
+    name "338"
     label "0TJZB44Jp1A"
     step 0
     date "2020-03-02T06:32:52Z"
@@ -6213,12 +9120,21 @@ graph
     commentcount 2
     duration "PT7M24S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 339
+    id 326
+    name "339"
     label "thJJ4huOlTQ"
     step 0
     date "2021-01-06T14:00:14Z"
@@ -6232,12 +9148,21 @@ graph
     commentcount 120
     duration "PT13M10S"
     indegree 0
-    sentiment 1
-    cluster 10
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 340
+    id 327
+    name "340"
     label "bh1IZ8s1A_s"
     step 0
     date "2020-11-04T20:01:38Z"
@@ -6251,12 +9176,21 @@ graph
     commentcount 16
     duration "PT7M57S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 11
   ]
   node
   [
-    id 341
+    id 328
+    name "341"
     label "eKgfEA4PTTI"
     step 0
     date "2021-02-21T17:57:16Z"
@@ -6270,12 +9204,21 @@ graph
     commentcount 47138
     duration "PT16M4S"
     indegree 3
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 342
+    id 329
+    name "342"
     label "fCHcSfjogNI"
     step 0
     date "2013-10-30T17:36:11Z"
@@ -6289,31 +9232,49 @@ graph
     commentcount 53
     duration "PT2M33S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
+  ]
+  node
+  [
+    id 330
+    name "343"
+    label "A0BhN-HAkt8"
+    step 0
+    date "2021-10-31T16:00:09Z"
+    title "20 MINUTE CARDIO AND ABS WORKOUT [FAT MELTING ROUTINE]"
+    description "1 on 1 Personal Training: https://bit.ly/3Jjb2du&#10;---------------------------------- &#10;https://linktr.ee/Bullyjuice&#10;&#10;4-8 Week Push-up Progression Training Program: https://bit.ly/3Cea5Ql&#10;&#10;8-16 Week Gym Training Program: https://bit.ly/3z81HQF&#10;&#10;DAILY DIET GUIDE: https://bit.ly/3qwI9ok&#10;&#10;YOGA Mats: https://bit.ly/3AdcnPi&#10;&#10;Become a member!!! https://bit.ly/399zdvm&#10; ---------------------------------"
+    channeltitle "BullyJuice"
+    channelid "UCK9JEqf7LBBx3tkrPx2xvbQ"
+    favcount 0
+    viewcount 330373
+    likecount 6501
+    commentcount 249
+    duration "PT20M29S"
+    indegree 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 344
-    label "HR4WFlOflus"
-    step 0
-    date "2018-07-27T16:00:04Z"
-    title "4 Minute Abs | Beginner Six Pack Ab Workout for Men  Women"
-    description "For more simple to follow, six pack ab workouts built for men &#38; women just like these that you can do from the comfort of your home, check out my free body type quiz and get the right plan for you - http://vshred.fit/BeginnerAbWorkout&#10;&#10;In this video I take you through an ab workout designed with the beginner in mind, to go at a high intensity in a short 4 minutes to help you lose that unwanted bit of belly fat or just tone up your stomach. This abs workout consists of just 4 exercises that will hit all areas of your abs. &#10;&#10;All you need is yourself for this workout, there is absolutely no equipment required - so grab a mat, and let's kill this together!&#10;&#10;Each exercise is performed for 45 seconds on with a 15 second rest before moving into the next:&#10;&#10;- Plank Jacks&#10;- Heel Taps&#10;- Flutter Kicks&#10;- Floor Wipers&#10;&#10;If you liked this ab workout be sure to leave a thumbs up below and let me know down in the comments so I know to make more videos just like this one!&#10;&#10;Thanks for watching, see you in the next video!&#10;&#10;4 Minute Abs | Beginner Ab Workout for Men &#38; Women&#10;https://youtu.be/HR4WFlOflus&#10;&#10;--------------------------------------------------------------------&#10;&#10;Check out My Supplement Stacks! &#10;&#10;For Fat Loss : http://vshred.fit/246fatLossStackYT&#10;For Muscle Building : http://vshred.fit/246MuscleStackYT&#10;&#10;--------------------------------------------------------------------&#10;&#10;Intro Song: Always Have by Castor Troy"
-    channeltitle "V Shred"
-    channelid "UCOFCwvhDoUvYcfpD7RJKQwA"
-    favcount 0
-    viewcount 83290
-    likecount 3104
-    commentcount 82
-    duration "PT7M30S"
-    indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 345
+    id 331
+    name "345"
     label "JJUaTkbYm-k"
     step 0
     date "2012-04-23T14:13:40Z"
@@ -6327,12 +9288,21 @@ graph
     commentcount 215
     duration "PT10M49S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 6
   ]
   node
   [
-    id 346
+    id 332
+    name "346"
     label "tSmVmwOQV_0"
     step 0
     date "2022-06-27T13:36:55Z"
@@ -6346,50 +9316,77 @@ graph
     commentcount 7
     duration "PT5M9S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 348
-    label "74q6vWcvZOo"
+    id 333
+    name "347"
+    label "e5-P7C8a_IQ"
     step 0
-    date "2022-04-06T12:03:32Z"
-    title "Bruce Lee Ab Workouts (Signature Abs Exercises)"
-    description "The most visually impressive of all Lee&#8217;s body parts were the famous Bruce Lee abs, with highly defined intercostal and serratus anterior muscles. Bruce Lee&#8217;s cobra-like lats and shredded biceps were ridiculously impressive, too, but nothing seemed as out of this world as his washboard stomach and ripped six-pack abs.&#10;&#10;#getsixpackabs #bestworkout #abworkout #absworkout&#10;&#10;0:00 Leg Raise and Hold&#10;0:50 straight legs up Crunch&#10;1:40 arms straight Crunch&#10;2:30 Lying Floor Legs Raise&#10;3:21 Dragon Flag&#10;4:11 Lying leg hip raise&#10;5:01 Bench Leg Raise&#10;5:52 Incline Legs Hip Raise&#10;&#10;abs workout, abs, abdominals, abdomen, exercise, exercises, training, train, flat, stomach, Min, Abs, Workout, ab workout for 6 pack abs, 22 day ab workout, 22 day abs workout, athleanx, athlean x, jeff cavaliere, how to get six pack abs"
-    channeltitle "WORKOUT"
-    channelid "UC7t6QJ4u8qF8pI-vibX-BUQ"
+    date "2021-01-31T07:00:05Z"
+    title "I tried Pamela Reifs ab workout and diet! (amazing results fast)"
+    description "Save 25% on your first Native Plastic-Free Deodorant Pack - normally $39, you&#8217;ll get it for $29! Click here https://bit.ly/nativesjt3 and use my code SJT3 #AD&#10;&#10;Pamela reif ab workout - https://youtu.be/AnYl6Nk9GOA (I followed this once everyday) &#10;&#10;Pamela&#8217;s channel - https://youtube.com/c/PamelaRf1&#10;&#10;Pamela&#8217;s cookbook - https://www.amazon.com.au/gp/aw/d/B084R61GNK/ref=tmm_kin_title_0?ie=UTF8&#38;qid=&#38;sr= (I got the kindle option which was $15)&#10;&#10;&#10;&#10;&#10;A portion of this video is sponsored by Native but all opinions are of course my own.&#10;&#10;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10030;&#10;&#10;Outro music is v a l e n t i n e s by Soya beats - soundcloud.com/soyabeats&#10;Music by Dan and Drum - Lester - https://thmatc.co/?l=4EECFD67&#10;Music by Zachary Friederich - The Ballad Of Janie Sue And Johnny Blue (Instrumental) - https://thmatc.co/?l=48B7AE0C&#10;Music by Singto Conley - Stay - https://thmatc.co/?l=E3E03BDC&#10;Music by frumhere - so, tell me about yourself. - https://thmatc.co/?l=29B2F7CF&#10;Music by frumhere, kevatta - almost blue - https://thmatc.co/?l=9993A34B&#10;Music by MDMN - Mimosas - https://thmatc.co/?l=BF426AE8&#10;Music by Brooks - Daisy Daffodil - https://thmatc.co/?l=674FBCC2&#10;Music by Chinsaku - Blossom - https://thmatc.co/?l=682A107&#10;Music by Mr. Chase - Wild Cherry - https://thmatc.co/?l=4AF12EFD&#10;&#10;&#10;FOLLOW MY SOCIALS &#8609;&#8609;&#8609;&#10;&#10;Instagram @susiejtodd&#10;Twitter @susiejtodd&#10;Tik tok @susiejtodd&#10;&#10;&#10;&#10;For all business enquiries email susie@zooz.com."
+    channeltitle "SusieJTodd"
+    channelid "UC2b9tVgzE8IUChCjRTL5YPw"
     favcount 0
-    viewcount 738853
-    likecount 19024
-    commentcount 114
-    duration "PT6M47S"
-    indegree 1
-    sentiment 1
+    viewcount 1060564
+    likecount 41033
+    commentcount 1496
+    duration "PT29M8S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
+  ]
+  node
+  [
+    id 334
+    name "349"
+    label "ZCYiQlCVMiQ"
+    step 0
+    date "2018-09-13T16:39:14Z"
+    title "CALISTHENICS| Intense Leg and AB workout | NO EQUIPMENT"
+    description "Got a spare 30 minutes? This no-equipment bodyweight workout will smash your legs and Abs! Get ripped, build muscle and get a big sweat on with this workout you can do anywhere.&#10;&#10;Using the Tabata format I'll take you through 8 exercises doing 8 rounds of each which will get your lungs screaming for air and your muscles burning. &#10;&#10;Any level of fitness can do this, you can adjust the exercises and the workout length to suit your level!&#10;&#10;No excuses for this awesome calisthenics workout!&#10;&#10;&#10;SUBSCRIBE TO MY CHANNEL FOR MORE WEEKLY CONTENT!&#10;https://www.youtube.com/mattfoxcoach&#10;----------------------------------------------------------------------------------------------------&#10;LET ME HELP YOU TRANSFORM YOUR BODY HERE!&#10;https://www.bodyweightbuilt.com&#10;----------------------------------------------------------------------------------------------------&#10;&#10;----------------------------------------------------------------------------------------------------    &#10;GET YOUR FREE WORKOUTS HERE!&#10;https://www.bodyweightbuilt.com/toned-body-circuit/&#10;https://www.bodyweightbuilt.com/chest-building-workout/&#10;https://www.bodyweightbuilt.com/sixpack-ab-routine/&#10;---------------------------------------------------------------------------------------------------&#10;LET&#8217;S CONNECT&#10;&#10;Instagram - https://www.instagram.com/mattycfox/&#10;Facebook - https://www.facebook.com/mattycfox&#10;Bodyweight Built training- https://www.bodyweightbuilt.com&#10;Webpage-https://www.mattcfox.com&#10;LinkedIn- https://www.linkedin.com/in/matt-fox-bodyweight-built/&#10;&#10;My name is Matt and I'm making videos to share my knowledge of how I transformed my body and the bodies of others worldwide without a gym or fancy equipment. I'll show you how to workout anywhere, enjoy a fun, non-restrictive lifestyle while never depriving yourself of your favourite foods. I'm a former professional athlete and qualified trainer. Don't forget to subscribe so you can stay up to date :)"
+    channeltitle "Matt fox"
+    channelid "UCe7g99xjR4ygzppDRhOjs3A"
+    favcount 0
+    viewcount 14321
+    likecount 439
+    commentcount 12
+    duration "PT8M3S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 350
-    label "jV2Pse5_Le0"
-    step 0
-    date "2020-05-15T14:00:28Z"
-    title "10 MIN NO PLANK AB WORKOUT (no equipment, apartment friendly)"
-    description "No planks or jumping in this 10 mins workout.. 10 minutes of core work. No equipment needed in this bodyweight ab workout!&#10;-OPEN FOR MORE-&#10;&#11088;&#65039;My music playlist: https://open.spotify.com/playlist/2zO...&#10;&#10;&#11088;&#65039;WORKOUTS TO PAIR WITH THIS ONE:&#10;5-min warm-up: https://bit.ly/3cgVF5s&#10;15 min Full-Body Dumbbell workout: https://bit.ly/3birVEE&#10;4-min dance cardio (pick one!): &#10;5-min Cooldown/Stretch: https://bit.ly/2AgFozq&#10;&#10;&#10148; PREVIOUS VIDEO (Dancing workout): https://bit.ly/2JJvUhr&#10;&#10148;BODY WEIGHT WORKOUTS: https://bit.ly/2xdS48P&#10;&#10148; CARDIO WORKOUTS: https://bit.ly/3dlM7qP&#10;&#10148;LAGREE AT HOME WORKOUTS: https://bit.ly/2xwZcNq&#10;&#10;SUBSCRIBE TO MY MAIN CHANNEL: https://bit.ly/3a7RyaO&#10;&#10008; I N S T A G R A M: @thevedgelife&#10;&#10008; For 1:1 personalized coaching: https://www.anagoesfit.com/shopmyebooks&#10;&#9993; C O N T A C T (business inquiries): hello@vedgetalk.com&#10;&#10;&#11088;&#65039;My Outfit:&#10;- Leggings: https://rstyle.me/+vW8vp8onqXn5mIwWfe...&#10;-Top: https://rstyle.me/+i8XPa_GDRe3utexxBF...&#10;-Socks: https://rstyle.me/+Qlp0Da6F4rWCl_MuYJ...&#10;&#10;&#11088;&#65039;Shop My Storefront: https://www.amazon.com/shop/anaalarcon&#10;&#10;&#128247; GEAR I USE: &#10;&#128073;&#127996;THE MAT I USE: https://amzn.to/3a8AJvt&#10;CAMERA: https://amzn.to/2VxzH74&#10;50 mm LENS: https://amzn.to/2K7yVZg&#10;24-120 mm LENS: https://amzn.to/3ehCV7g&#10;TRIPOD: https://amzn.to/34BsXZY&#10;MICROPHONE: https://amzn.to/34CF49f&#10;LIGHTS: https://amzn.to/3bdbtpg&#10;JOBY: https://amzn.to/2K8AfLm&#10;&#10;Song: LiQWYD - You &#38; Me&#10;Music provided by Vlog No Copyright Music.&#10;Creative Commons - Attribution 3.0 Unported&#10;Video Link: https://youtu.be/qSYspnLzxfo&#10;&#10;This video is not sponsored |  Amazon and Reward Style are affiliates links.  Thank you for supporting myself, this channel and helping me continue to create content for you&#9825;"
-    channeltitle "The Vedge Life"
-    channelid "UCu-O0WhaWx66eQnauOvcJvQ"
-    favcount 0
-    viewcount 5470
-    likecount 130
-    commentcount 19
-    duration "PT12M57S"
-    indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 351
+    id 335
+    name "351"
     label "_UeMNy14V9U"
     step 0
     date "2022-01-30T08:47:46Z"
@@ -6403,12 +9400,21 @@ graph
     commentcount 493
     duration "PT11M33S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 352
+    id 336
+    name "352"
     label "GsarTRwixuA"
     step 0
     date "2020-10-07T17:00:07Z"
@@ -6422,31 +9428,49 @@ graph
     commentcount 19
     duration "PT11M16S"
     indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 354
-    label "xr474YINOqo"
-    step 0
-    date "2019-10-24T20:34:09Z"
-    title "BEST AB EXERCISES (TOP 10 NO EQUIPMENT)"
-    description "I show you and explain my top 10 ab exercises that require no equipment and can be performed wherever. I teach an extremely easy way to create your own ab circuit that will be both effective and time efficient. I cover 2 common myths may believe about creating a 6-pack and tell you the truth. #ShreddedForLife #NaturalBodyBuilding&#10;&#10;FREE WORKOUTS ON IG: https://www.instagram.com/briandecosta&#10;&#10;&#128170; $4.90 TRAINING &#38; NUTRITION PLANS AND COACHING:&#10;&#128293; http://www.shreddedforlife.com &#128293;&#10;&#128293; http://www.shreddedforlife.com &#128293;&#10;&#128293; http://www.shreddedforlife.com &#128293;&#10;&#10;&#10006;&#65039;FREE TRAINING &#38; NUTRITION PROGRAMS &#128071;&#10;&#128170; LEAN GAIN TRAINING PROGRAM: http://bit.ly/TheLeanGainProgram&#10;&#128170; ULTIMATE TRAINING SPLIT CHEATSHEET: http://bit.ly/UltimateTrainingSplit&#10;&#128170; SHREDDING BASICS CHEATSHEET: http://bit.ly/ShreddingGuide&#10;&#10;&#10006;&#65039;LET'S CONNECT &#128071;&#10;&#128515; WEBSITE: https://www.briandecosta.com&#10;&#128170; CLIENT TRANSFORMATIONS: http://bit.ly/ShredTransformations&#10;&#127925; MY SPOTIFY PLAYLIST: http://bit.ly/DailyShredTunes&#10;&#128248; INSTAGRAM: https://www.instagram.com/briandecosta&#10;&#128216; FACEBOOK: https://www.facebook.com/BrianDeCostaFit&#10;&#128038; TWITTER: https://twitter.com/briandecosta"
-    channeltitle "Brian DeCosta"
-    channelid "UCcgeICzHT1rjCdDPEZw5LyQ"
-    favcount 0
-    viewcount 8077
-    likecount 519
-    commentcount 17
-    duration "PT8M43S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 355
+    id 337
+    name "353"
+    label "-PjgUoNn2ZE"
+    step 0
+    date "2016-08-25T18:58:38Z"
+    title "Advanced Ab Workout for Six Pack | Kris Gethin"
+    description "Kris Gethin shows you one of hi favorite advanced ab workout super sets to build a six pack. The ab contractions I get from doing this is beyond intense.  &#10;&#9658; Try Kris Gethin's Training Programs: https://bit.ly/32GcdAk&#10;&#9658; Shop Kaged Muscle Supplements: https://bit.ly/2YY4hcK&#10;&#10;This advanced ab workout is 6 parts and is not for the beginner.  Try doing 6 rounds of this ab workout and comment below to let me know what you guys think.  Share this and lets see who has the mental toughness to get through this workout. Make sure you subscribe if you haven't already.  New videos drop every week. Thanks for watching. Cheers. &#10;&#10;-Kris&#10;&#10;| Kris Gethin's Advancd Ab Workout for a Six Pack |&#10;1. Banded Crunches: 10-15 reps&#10;2. Banded Cruch Isometric Hold: 5-10 seconds&#10;3. Crunch Isometric Hold: 5-10 seconds&#10;4. Dumbbell Sit-Ups: 5-10 reps&#10;5. Dumbbell Sit-Up Isometric Hold: 5-10 seconds&#10;6. Sit-Up Isometric Hold: 5-10 seconds&#10;&#10;00:00 - Intro&#10;00:20 - Banded Crunches&#10;00:50 - Banded Crunch Isometric Hold&#10;01:00 - Crunch Isometric Hold&#10;01:30 - Dumbbell Sit-Ups&#10;01:55 - Dumbbell Sit-Up Isometric Hold&#10;02:05 - Sit-Up Isometric Hold&#10;02:20 - Workout Details&#10;&#10;If you like the video, hit the like button and please subscribe if you haven't already. Questions? Leave them in the comments below so Kris can get back to you. Thanks for watching, guys. &#10;&#10;ONLINE TRAINING + FREE DAILY EMAILS&#10;&#9658;https://www.healthkik.com/&#10;&#10;KRIS GETHIN&#10;&#9658;Facebook: https://www.facebook.com/krisgethin&#10;&#9658;Instagram: https://instagram.com/krisgethin&#10;&#9658;Twitter: https://twitter.com/kagedmuscle&#10;&#9658;Website: https://www.krisgethin.com&#10;&#10;KAGEDMUSCLE&#10;&#9658;Facebook https://www.facebook.com/Kaged-Muscle...&#10;&#9658;Instagram: https://instagram.com/kagedmusclesupps&#10;&#9658;Twitter: https://twitter.com/kagedmusclellc&#10;&#9658;Website: https://www.kagedmuscle.com&#10;&#10;&#9658;Workouts for muscle building: https://bit.ly/34RhNCE&#10;&#9658;Healthy Recipes: https://bit.ly/2Dhv2B4&#10;&#9658;Workouts for Women: https://bit.ly/31P9G7E&#10;&#9658;How to be successful: https://bit.ly/34ZHeCd&#10;&#9658;Everything You want to Know About Supplements: https://bit.ly/2EFHlIm&#10;&#10;PARTNER DEALS&#10;&#9658;BluBLOX Blue light blocking glasses: GETHIN (15% off) https://www.blublox.com/&#10;&#9658;Ryderwear workout boots (KRIS10) https://www.ryderwear.com/kris&#10;&#9658;Better Bodies and GASP clothing (GETHIN20) https://www.gaspofficial.com/ / https://www.betterbodies.com/&#10;&#9658;Organifi superfood powders: GETHIN (20% off first order) https://www.organifishop.com/&#10;&#9658;Octagon Labs CBD GETHIN20 https://www.octagonbiolabs.com/default.asp?Click=3638&#10;&#9658;Earthing.com (KG20) https://www.earthing.com/&#10;&#9658;Oura Ring (50$ off) http://ouraring.com/partners/krisgethin&#10;&#9658;Laird Superfood (GETHIN20) https://lairdsuperfood.com/&#10;&#9658;BioOptimizers MassEnzymes (KRIS20) https://masszymes.com/kris20&#10;&#9658;Mind Alive: KRIS www.mindalive.com&#10;&#9658;FlexPulse  https://flexpulse.com/#a_aid=Kris&#10;&#9658;BioBalance  https://biobalancepemf.com/#a_aid=Kris&#10;&#9658;TeslaFit  https://teslafit.com/#a_aid=Kris&#10;&#9658;Feetup Headstand GETHIN10 https://feetup.com/&#10;&#9658;Troscriptions Nootropic (GETHIN) https://troscriptions.com/blue-cannatine/&#10;&#9658;Ned Full Spectrum Hemp Products (GETHIN) http://www.helloned.com/GETHIN&#10;&#9658;Visual Chemistry Skin (GETHIN20) https://www.visualchemistryskin.com/&#10;&#9658;Gymreapers (GETHIN) https://www.gymreapers.com/&#10;&#9658;Redmond Real Salt (GETHIN15) https://redmond.life/realsalt/&#10;&#9658;Drink HRW (GETHIN) https://lddy.no/c61h  &#10;&#9658;Red Light Rising (GETHIN5) https://redlightrising.co.uk/&#10;&#10;#KrisGethin #UltraMarathon&#10;&#10;| Kris Gethin |&#10;Kris is a business man, transformation specialist, and much, much more.  Kris is originally from Wales in the UK, but now spends the majority of his time in the United States. &#10;&#10;Kris' hectic schedule sees him travelling the globe hosting seminars, workshops, and exhibitions at several bodybuilding and fitness events throughout the year. He works with and trains the best of the best, passing on his knowledge and techniques to his fans, followers, and subscribers. &#10;&#10;His passion and determination for building a better, stronger, healthier body and mind pushes him to achieve great things for himself physically and mentally, thus enabling him to motivate and inspire his followers and fans across the world to achieve greatness for themselves. Kris has transformed millions of physiques through his immensely popular video series shown on Bodybuilding.com, including the immensely popular 12-Week Muscle-Building Trainer and the intense 4Weeks2Shred program.&#10;&#10;He is the author of many books including the best-seller &#34;Body by Design,&#34; &#34;The Adventures of KAGED MUSCLE,&#34; and &#34;The Transformer&#34; which was released in January 2016. Kris' books and graphic novels have received global praise and have helped and inspired millions of readers.&#10;&#10;Kris is the founder of the DTP training method, director and co-founder of Gethin Gyms, and former editor-in-chief of Bodybuilding.com. He is the Director of Trainers for Physique Global and CEO of the supplement brand KAGED MUSCLE which ships worldwide and is one of the highest rated and reviewed supplement companies in the world."
+    channeltitle "Kris Gethin"
+    channelid "UClwgvoHyQnCs0S66SaOXpAw"
+    favcount 0
+    viewcount 38869
+    likecount 771
+    commentcount 13
+    duration "PT4M39S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
+  ]
+  node
+  [
+    id 338
+    name "355"
     label "XvO4oAAZ5iI"
     step 0
     date "2020-04-20T13:00:24Z"
@@ -6460,12 +9484,21 @@ graph
     commentcount 10
     duration "PT6M22S"
     indegree 0
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 356
+    id 339
+    name "356"
     label "bsV-mehrw78"
     step 0
     date "2019-08-29T15:00:10Z"
@@ -6479,12 +9512,21 @@ graph
     commentcount 64
     duration "PT5M59S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 357
+    id 340
+    name "357"
     label "NLWwVutIaEY"
     step 0
     date "2020-04-16T12:00:21Z"
@@ -6498,31 +9540,49 @@ graph
     commentcount 27
     duration "PT12M7S"
     indegree 0
-    sentiment 1
-    cluster 11
-  ]
-  node
-  [
-    id 359
-    label "LFbsWIV_60M"
-    step 0
-    date "2021-03-14T13:00:13Z"
-    title "Lower Body  Ab Workout For Beginners (Bodyweight Only)"
-    description "What&#8217;s going on guys! In today&#8217;s video, &#13;I'm going to show you a 10-minute workout you can do that requires no equipment at all! &#10;&#10;Have you ever noticed that most home workouts include plyometric (jumping) movements? That&#8217;s because some studies have shown plyometrics can produce similar effects on muscle growth to resistance training, making them a great alternative if  you don&#8217;t have access to weights.&#10;&#10;Plyometrics are a great alternative to weight training because they have been shown to produce similar effects on muscle growth to resistance training! That is one reason we put them in so many of our home workouts. But if you have achy joints or are a beginner, these jumping movements can sometimes be too much to take on. &#10;&#10;If you are unable to do jumping movements or just aren&#8217;t in the mood for a high-impact workout, we have a great 10-minute at-home workout for you to try! This workout doesn&#8217;t require any jumping but still uses a HIIT timing format, which is usually best for optimal fat burn!&#10;&#10;Low Impact Bodyweight Workout for Beginners (No jumping)&#10;You will do each exercise below for 45 seconds, followed by 15 seconds of rest&#10;0:00 Introduction&#10;1:47 SIDE STEP SQUAT&#10;2:30 NEXT EXERCISE: SIDE STEP JACKS&#10;3:31 NEXT EXERCISE: RIGHT-SIDE KNEE DRIVES&#10;4:31 NEXT EXERCISE: LEFT-SIDE KNEE DRIVES&#10;5:31 NEXT EXERCISE: SQUAT BUTT KICKS&#10;6:31 NEXT EXERCISE: PLANK ROTATIONS&#10;7:32 NEXT EXERCISE: REVERSE LUNGE KNEE DRIVES&#10;8:32 NEXT EXERCISE: RIGHT-SIDE PLANK HIP DIPS&#10;9:32 NEXT EXERCISE: LEFT-SIDE PLANK HIP DIPS&#10;10:33 NEXT EXERCISE: SKATERS&#10;&#10;Check Out MOVE! The complete at-home bodyweight workout program! - &#13;http://vshred.fit/YTMOVE314&#10;&#10;#AbWorkout #LowerBodyWorkout #VShred&#10;&#10;&#128071; Trying this tip out? Drop a comment below and let me know how this helped you! Don't forget to subscribe for more videos as well!&#13;&#10;&#13;&#10;LOW IMPACT LOWER BODY &#38; ABS WORKOUT FOR BEGINNERS (BODYWEIGHT + NO JUMPING)&#10;https://youtu.be/LFbsWIV_60M&#10;--------------------------------------------------------------------&#13;&#10;Check out My Supplement Stacks! &#13;&#10;For Fat Loss: http://vshred.fit/YTFatLossStack314&#13;&#10;For Muscle Building: http://vshred.fit/YTMuscleBuildingStack314&#10;-------------------------------------------------------------------&#13;&#10;Intro Song: Lights Go Down by Bazanji"
-    channeltitle "V Shred"
-    channelid "UCOFCwvhDoUvYcfpD7RJKQwA"
-    favcount 0
-    viewcount 27303
-    likecount 1317
-    commentcount 82
-    duration "PT12M41S"
-    indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 360
+    id 341
+    name "358"
+    label "A-33E2_PEj0"
+    step 0
+    date "2014-01-20T21:48:41Z"
+    title "Lee Priest Reveals Ab Workout for Mr Universe"
+    description "After winning the Mr Universe title, Lee reveals his secrets to ab training. &#10;&#10;The good news is that you don't need complicated gym equipment or weird and wonderful training techniques.&#10;&#10;Ironmaster IM2000 Smith Machine - http://samsfitness.com.au/ironmaster-im2000-self-spotting-machine&#10;&#10;Sam's Fitness - http://samsfitness.com.au/"
+    channeltitle "Sam's Fitness - Gym Equipment"
+    channelid "UC3g6isgZShtLsfpY-MBawmw"
+    favcount 0
+    viewcount 25119
+    likecount 284
+    commentcount 27
+    duration "PT2M5S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
+  ]
+  node
+  [
+    id 342
+    name "360"
     label "AT9l8tz2oJU"
     step 0
     date "2017-07-30T23:12:26Z"
@@ -6536,31 +9596,49 @@ graph
     commentcount 514
     duration "PT9M28S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 362
-    label "HIESJjP8JTk"
+    id 343
+    name "361"
+    label "mw5Ab6E_RRU"
     step 0
-    date "2022-01-16T17:02:36Z"
-    title "Why Ab Workouts Are Pointless"
-    description "&#9989; Subscribe to my main fitness channel: https://www.youtube.com/user/NalewanyjFitness&#10;&#10;Get Your FREE Workout &#38; Diet Plan:&#10;&#128221; https://www.SeanNal.com/freeplan&#10;&#10;Premium Quality, Science-Based Supplements:&#10;&#128138; https://www.RealScienceAthletics.com/&#10;(Save 15% with coupon code YOUTUBE15)&#10;&#10;Connect With Me:&#10;&#128073; https://www.instagram.com/Sean_Nalewanyj&#10;&#128073; https://www.tiktok.com/@sean_nalewanyj&#10;&#10;What's one of the absolute biggest wastes of time in the gym? Ab workouts. It's the typical &#34;six pack ab routines&#34; you see all over social media where you cycle through a bunch of high rep body weight ab exercises for 10 to 15 minutes. Keep in mind that it's not possible to spot reduce fat, and so these six pack ab workouts won't do anything in terms of specifically leaning down your midsection. All they really do is work the abdominal muscles underneath. But since the abs are a muscle just like any other (no different from your chest or quads or biceps), they should be trained for strength and hypertrophy in exactly the same way. That means selecting abdominal exercises where you can apply enough resistance to get within a few reps of failure, taking a proper rest period in between sets and applying progressive overload over time. This will increase the development of your abs, causing them to pop out a bit more noticeably assuming your body fat levels are low enough for them to visible. But just remember that having sufficiently low body fat is the ultimate key to a &#34;defined&#34; midsection, and that is achieved through a calorie deficit rather than ab exercises.&#10;&#10;#fitness #gym #workout #buildmuscle #bodybuilding #abs #sixpackabs #abworkout"
-    channeltitle "Sean Nalewanyj Shorts"
-    channelid "UCtoCSRviHk6uFIb-zqeo4yQ"
+    date "2018-02-28T01:24:00Z"
+    title "Intense Ab Workout"
+    description "Here's some intense pre boxing abs workout that I do with my coach. These moves are pretty useful and effective in the gym or even at home! Try it out and feel muscles activate! &#10;&#10;#dyanfittransformchallenge #dyanfit #dyanfittip #wotd #workoutoftheday #fitspiration #fitlife #fitness #fitlife #fitlifeph #betteryou #betteryourself #asicsph #asics  #workout #flabtofab #rudyprojectph #elevateyourperformance #fitmom #fitnessmotivation #fitspo  #core #coreworkout #abs #abworkout #intense"
+    channeltitle "Dyan Castillejo"
+    channelid "UCDMG8H7c3E3GKNvJEWcutKw"
     favcount 0
-    viewcount 5659343
-    likecount 337066
-    commentcount 2123
-    duration "PT53S"
+    viewcount 164
+    likecount 3
+    commentcount 0
+    duration "PT7M4S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 363
+    id 344
+    name "363"
     label "RpidTxAtOqI"
     step 0
     date "2020-05-27T10:54:11Z"
@@ -6574,12 +9652,21 @@ graph
     commentcount 9
     duration "PT3M34S"
     indegree 0
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 364
+    id 345
+    name "364"
     label "cJx0jEuAuDI"
     step 0
     date "2022-07-04T15:46:10Z"
@@ -6593,31 +9680,49 @@ graph
     commentcount 125
     duration "PT3M23S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
+  ]
+  node
+  [
+    id 346
+    name "365"
+    label "9jD9oVyBd20"
+    step 0
+    date "2012-10-09T15:22:26Z"
+    title "Cat Vomit - DanceyPants Fitness | Ab workout"
+    description "Another great exercise for the transverse abdominis that I learned from Tim Ferris!&#10;&#10;Be sure to Subscribe to follow my Fit Chix Groove&#8482; videos, my Fit Chix Jam&#8482; videos, my older dance videos, and fitness tips! &#10;&#10;Follow me on FB:&#10;https://www.facebook.com/LisaLouFitness/&#10;&#10;And on Instagram:&#10;https://instagram.com/lisaloufitness/"
+    channeltitle "Lisa Lou Fitness"
+    channelid "UCd2-MGHDzEnkvbXptnfsvbg"
+    favcount 0
+    viewcount 167897
+    likecount 213
+    commentcount 1
+    duration "PT1M32S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 2
   ]
   node
   [
-    id 366
-    label "H4VP0sZyEW8"
-    step 0
-    date "2022-04-26T10:03:38Z"
-    title "Get Abs in 5 Min/Day - Intense Ab Workout "
-    description "&#128073; MY NEW (2022) BOOTY BOOST PROGRAM IS LIVE!&#10;https://getfitbyivana.com&#10;&#10;My Booty Boost program is designed to achieve progressive booty growth by doing the right volume of training and the right choice of exercises.&#10;&#10;The program includes:&#10;- A comprehensive 12 week booty workout plan&#10;- 6 follow-through workout videos&#10;- A 12 week (day-by-day) follow-through booty schedule&#10;- A progress tracking page (before &#38; after photos, booty measurement, strength assessment)&#10;- A private photo library&#10;- Plus more!&#10;&#10;&#128073; If you would like to listen to your own &#34;favourite&#34; music, try my non-music version with beeps only: https://youtu.be/NYfcFdCVjRQ&#10;&#10;&#129419; SHARE AND POST YOU PROGRESS PICTURES ON INSTAGRAM AND USE #getfitbyivana&#10;#bootyboostprogram&#10;&#10;&#128073; Shop: PHLURT &#10;Shop at: https://phlurtofficial.com&#10;Instagram: @phlurt&#10;&#10;&#128073; ECHT Apparel&#10;https://echt.com.au&#10;Discount code: IVANA10&#10;&#10;&#128247; Instagram: getfitbyivana_&#10;https://www.instagram.com/getfitbyivana_/?hl=en&#10;&#128038; Twitter: getfitbyivana&#10;https://twitter.com/getfitbyivana&#10;&#128233; Business Enquires: &#10;getfitbyivana@gmail.com"
-    channeltitle "getfitbyivana"
-    channelid "UCa_JUG9hl8D7S6jH7nWTURA"
-    favcount 0
-    viewcount 62458
-    likecount 2725
-    commentcount 71
-    duration "PT6M14S"
-    indegree 2
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 367
+    id 347
+    name "367"
     label "R4EI3H2YDno"
     step 0
     date "2021-12-20T16:00:25Z"
@@ -6631,12 +9736,21 @@ graph
     commentcount 53
     duration "PT6M59S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 5
   ]
   node
   [
-    id 368
+    id 348
+    name "368"
     label "8hEsXV3PY8s"
     step 0
     date "2022-06-27T15:48:04Z"
@@ -6650,12 +9764,21 @@ graph
     commentcount 425
     duration "PT14S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 369
+    id 349
+    name "369"
     label "7zYQi5o2btg"
     step 0
     date "2018-02-06T20:13:59Z"
@@ -6669,12 +9792,21 @@ graph
     commentcount 147
     duration "PT5M36S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 370
+    id 350
+    name "370"
     label "elaZvoL9omc"
     step 0
     date "2021-10-12T14:00:11Z"
@@ -6688,12 +9820,21 @@ graph
     commentcount 338
     duration "PT8M4S"
     indegree 6
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 371
+    id 351
+    name "371"
     label "7P4-W0D21fg"
     step 0
     date "2020-06-03T05:00:03Z"
@@ -6707,12 +9848,21 @@ graph
     commentcount 696
     duration "PT10M47S"
     indegree 1
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 372
+    id 352
+    name "372"
     label "S5vLpXWnFqE"
     step 0
     date "2018-09-24T17:51:36Z"
@@ -6726,12 +9876,21 @@ graph
     commentcount 77
     duration "PT8M23S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 373
+    id 353
+    name "373"
     label "oVjvttfSzq4"
     step 0
     date "2022-07-11T04:00:17Z"
@@ -6745,12 +9904,21 @@ graph
     commentcount 7
     duration "PT5M40S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 374
+    id 354
+    name "374"
     label "1dEF6cB2GzI"
     step 0
     date "2014-06-19T17:50:59Z"
@@ -6764,12 +9932,21 @@ graph
     commentcount -1
     duration "PT2M18S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 375
+    id 355
+    name "375"
     label "saqZE89DPyI"
     step 0
     date "2022-07-02T04:06:39Z"
@@ -6783,12 +9960,21 @@ graph
     commentcount 5
     duration "PT10M18S"
     indegree 0
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 10
   ]
   node
   [
-    id 376
+    id 356
+    name "376"
     label "_e5-6f5iDk0"
     step 0
     date "2020-10-16T16:00:11Z"
@@ -6802,12 +9988,21 @@ graph
     commentcount 61
     duration "PT14M3S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
   ]
   node
   [
-    id 377
+    id 357
+    name "377"
     label "XKW7FtuGiLw"
     step 0
     date "2020-01-02T23:03:27Z"
@@ -6821,12 +10016,21 @@ graph
     commentcount 11
     duration "PT9M35S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 378
+    id 358
+    name "378"
     label "R8d-rDXG_-4"
     step 0
     date "2021-07-01T20:58:02Z"
@@ -6840,12 +10044,21 @@ graph
     commentcount 197
     duration "PT55S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 379
+    id 359
+    name "379"
     label "DCNfkVg3dps"
     step 0
     date "2022-07-06T13:00:07Z"
@@ -6859,12 +10072,21 @@ graph
     commentcount 517
     duration "PT16M17S"
     indegree 4
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 380
+    id 360
+    name "380"
     label "xapJklWd8t8"
     step 0
     date "2011-12-08T16:28:29Z"
@@ -6878,12 +10100,21 @@ graph
     commentcount 2
     duration "PT2M10S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 381
+    id 361
+    name "381"
     label "aF5iua2GvNo"
     step 0
     date "2014-02-12T20:09:04Z"
@@ -6897,12 +10128,21 @@ graph
     commentcount 18
     duration "PT3M35S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 382
+    id 362
+    name "382"
     label "zR7zoET1nEE"
     step 0
     date "2022-07-08T22:38:10Z"
@@ -6916,12 +10156,21 @@ graph
     commentcount 6
     duration "PT9M43S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 383
+    id 363
+    name "383"
     label "PjQ_Cen-siA"
     step 0
     date "2020-10-11T16:00:11Z"
@@ -6935,12 +10184,21 @@ graph
     commentcount 766
     duration "PT10M26S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 384
+    id 364
+    name "384"
     label "9eXLdIoTPIg"
     step 0
     date "2022-03-27T19:01:19Z"
@@ -6954,12 +10212,21 @@ graph
     commentcount 97
     duration "PT6M6S"
     indegree 2
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 385
+    id 365
+    name "385"
     label "OYIRrlKDJ6k"
     step 0
     date "2021-02-21T18:37:08Z"
@@ -6973,12 +10240,21 @@ graph
     commentcount 8
     duration "PT1M24S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 386
+    id 366
+    name "386"
     label "Z-PVgN26qTQ"
     step 0
     date "2020-03-01T08:00:12Z"
@@ -6992,31 +10268,49 @@ graph
     commentcount 723
     duration "PT3M58S"
     indegree 1
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 367
+    name "387"
+    label "1Jrb_yn_3mU"
+    step 0
+    date "2011-09-07T19:38:00Z"
+    title "Jennifer Anistons Yoga Ab Workout!"
+    description "We are fans of Jennifer Aniston's abs, and we are fans of yoga. When you combine the two, like Jen's longtime trainer Mandy Ingber does, it greatly increases our enthusiasm to work our midsections. You can learn Mandy's mixture of yoga and sculpting moves in this video featuring three poses with variations. Ditch the crunches and work out with Jen's trainer!"
+    channeltitle "PSJenniferAniston"
+    channelid "UCMczoEV9jitiTNXY9feZCdQ"
+    favcount 0
+    viewcount 186384
+    likecount 387
+    commentcount 13
+    duration "PT3M18S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 388
-    label "0I5JomXr68Q"
-    step 0
-    date "2022-07-04T17:20:54Z"
-    title "morning ab workout routine"
-    description ""
-    channeltitle "alay bowker x give me glo"
-    channelid "UC_KWD87RGzVPOtpgh6MfFpQ"
-    favcount 0
-    viewcount 3630
-    likecount 280
-    commentcount 3
-    duration "PT16S"
-    indegree 0
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 389
+    id 368
+    name "389"
     label "wJWmwI_Snl8"
     step 0
     date "2022-02-24T17:30:08Z"
@@ -7030,12 +10324,21 @@ graph
     commentcount 11
     duration "PT10M56S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 8
   ]
   node
   [
-    id 390
+    id 369
+    name "390"
     label "jC5xlKIQgR8"
     step 0
     date "2020-10-07T04:00:08Z"
@@ -7049,12 +10352,21 @@ graph
     commentcount 4073
     duration "PT7M15S"
     indegree 78
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 391
+    id 370
+    name "391"
     label "WLK8ukeND6o"
     step 0
     date "2022-06-23T15:06:40Z"
@@ -7068,12 +10380,21 @@ graph
     commentcount 19
     duration "PT10M26S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 1
   ]
   node
   [
-    id 392
+    id 371
+    name "392"
     label "8oMl8WqIx5w"
     step 0
     date "2020-12-14T17:00:12Z"
@@ -7087,31 +10408,49 @@ graph
     commentcount 14
     duration "PT21M59S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 372
+    name "393"
+    label "oNFdjV2FKOI"
+    step 0
+    date "2019-04-09T19:58:48Z"
+    title "BEGINNER AB WORKOUT YOU CAN DO ANYWHERE (YES YOU!)"
+    description "&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10134;&#10;CONNECT WITH ME-&#10;Instagram&#128242;: https://urlgeni.us/instagram/DDSz&#10;Facebook&#128242;: https://urlgeni.us/facebook/ThPz&#10;Snapchat&#128242;: https://urlgeni.us/snapchat/6dT0&#10;Twitter&#128242;: https://urlgeni.us/twitter/tsCO"
+    channeltitle "MRLONDON"
+    channelid "UCF9-EnEmbqDZGALBOaVpsbQ"
+    favcount 0
+    viewcount 56238
+    likecount 4141
+    commentcount 172
+    duration "PT10M25S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 394
-    label "TFMk_142NE8"
-    step 0
-    date "2022-07-05T19:48:47Z"
-    title "8 MINUTE WEIGHTED AB WORKOUT | INTENSE X CALORIE BURNER | TRY THIS AT HOME!"
-    description "You can use a dumbbell, or anything you have at home!&#10;I just used a 5lb weight! &#10;Hope you guys enjoy!&#10;&#10;FOLLOW ME ON:&#10;IG: @SkylerAyami &#10;TIKTOK: @skylerayamee"
-    channeltitle "SkylerAyami"
-    channelid "UChx0GBG9uZN6DQMVspP41JA"
-    favcount 0
-    viewcount 682
-    likecount 70
-    commentcount 0
-    duration "PT8M39S"
-    indegree 0
-    sentiment 1
-    cluster 8
-  ]
-  node
-  [
-    id 395
+    id 373
+    name "395"
     label "lX7Z7qg-gc0"
     step 0
     date "2020-05-18T18:44:19Z"
@@ -7125,12 +10464,21 @@ graph
     commentcount 4
     duration "PT10M41S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 396
+    id 374
+    name "396"
     label "z29ayei4JIs"
     step 0
     date "2020-03-20T18:19:53Z"
@@ -7144,12 +10492,21 @@ graph
     commentcount 89
     duration "PT2M26S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 397
+    id 375
+    name "397"
     label "cCxdR9YopCg"
     step 0
     date "2022-07-04T15:00:23Z"
@@ -7163,31 +10520,49 @@ graph
     commentcount 39
     duration "PT18M29S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 400
-    label "6ktmlNRNSc8"
+    id 376
+    name "398"
+    label "o3v7v-5bZgo"
     step 0
-    date "2019-12-25T21:00:49Z"
-    title "Christmas Ab Workout! (DAY 23) | 30 Days of Workouts (FITmas)"
-    description "I'm doing 30 days of workouts for the month of December instead of Vlogmas! Make sure to subscribe and click the bell button to get notified when I post a new workout video EVERYDAY and workout with me!!!&#10;&#10;*** Get a Meal Plan to go with your workouts! (I recommend to calculate your calories first here: https://bodibiday.com/pages/test and pick a plan that is closest to what you need): https://bodibiday.com/collections/non.... Get 50% off non-custom plans with code &#34;MP50&#34; at checkout! ***&#10;&#10;The Workout:&#10;1. Reverse Crunches&#10;2. Russian Twist&#10;3. Flutter Kicks&#10;4. Toe Touches&#10;5. Dying Roach&#10;30 secs each working set, 30 secs of rest in between for 3 Sets each exercise.&#10;&#10;Seconds Pro Timer: http://www.intervaltimer.com/"
-    channeltitle "Bodibiday Fitness"
-    channelid "UCuVcEb2SSjJtzo02lGoQfBg"
+    date "2022-07-08T08:36:53Z"
+    title "LOSE FAT IN 17 DAYS: BELLY + WAIST + ABS WORKOUT AT HOME"
+    description "Get a flat belly at home by working out everyday with these effective core exercises!!&#10;&#10;Do this at home for the next 17 days to see really good stomach fat burn results. I understand how you might have gained quite a few this quarantine period due to the lack of physical activity but you can do something to see weight loss results. Just remain positive and motivated to burn fat and do this workout regularly.&#10;&#10;Good luck and let's get started!&#10084;&#65039;&#128170;&#10;&#10;**If you want to be notified when I upload a new video, make sure to subscribe to our channel. I upload new videos everyday from Sunday to Friday!&#10;&#10;TIMECODES:&#10;&#10;00:00 Introduction&#10;00:15 Torso Rotation&#10;00:58 Rest&#10;01:15 Side Lunge Windmill&#10;01:47 Rest&#10;02:05 Burpee Side Taps&#10;02:50 Rest&#10;03:07 High Knee Chops Left&#10;03:39 Rest&#10;03:56 High Knee Chops Right&#10;04:29 Rest&#10;04:46 Knee Raises&#10;05:14 Rest&#10;05:31 Leg Kicks&#10;06:01 Rest&#10;06:18 Lunge Jumps&#10;06:36 Rest&#10;06:58 Torso Rotation&#10;07:41 Rest&#10;07:58 Side Lunge Windmill&#10;08:31 Rest&#10;08:48 Burpee Side Taps&#10;09:33 Rest&#10;09:50 High Knee Chops Left&#10;10:23 Rest&#10;10:40 High Knee Chops Right&#10;11:13 Rest&#10;11:30 Knee Raises&#10;11:57 Rest&#10;12:15 Leg Kicks&#10;12:44 Rest&#10;13:01 Lunge Jumps&#10;13:19 Rest&#10;13:41 Leg Hugs&#10;15:01 Rest&#10;15:18 Leg Drops&#10;16:22 Rest&#10;16:39 Leg Pulls&#10;17:23 Rest&#10;17:40 Reverse Crunch Extension&#10;18:35 Rest&#10;18:52 Swing Backs&#10;19:33 Rest&#10;19:50 U Boat Crunch&#10;20:25 Rest&#10;20:42 Woodchoppers Left&#10;21:24 Rest&#10;21:41 Woodchoppers Right&#10;22:23 Rest&#10;22:40 Leg Hugs&#10;24:00 Rest&#10;24:17 Leg Drops&#10;25:21 Rest&#10;25:38 Leg Pulls&#10;26:23 Rest&#10;26:40 Reverse Crunch Extension&#10;27:34 Rest&#10;27:51 Swing Backs&#10;28:33 Rest&#10;28:50 U Boat Crunch&#10;29:24 Rest&#10;29:41 Woodchoppers Left&#10;30:23 Rest&#10;30:40 Woodchoppers Right&#10;31:23 Rest&#10;31:40 Cobra"
+    channeltitle "Roberta's Gym"
+    channelid "UCDUlDJcPPOOQK-3UrxEyhAQ"
     favcount 0
-    viewcount 3521
-    likecount 147
-    commentcount 18
-    duration "PT16M17S"
+    viewcount 59218
+    likecount 1531
+    commentcount 55
+    duration "PT32M49S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 401
+    id 377
+    name "401"
     label "1c6knDqDwOU"
     step 0
     date "2021-01-24T16:50:32Z"
@@ -7201,12 +10576,21 @@ graph
     commentcount 9
     duration "PT6M27S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 402
+    id 378
+    name "402"
     label "FRGYfj0WqVU"
     step 0
     date "2022-07-03T18:00:07Z"
@@ -7220,31 +10604,49 @@ graph
     commentcount 1
     duration "PT18S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
+  ]
+  node
+  [
+    id 379
+    name "403"
+    label "i6acsAjmPUk"
+    step 0
+    date "2021-01-17T07:00:06Z"
+    title "10 MIN AB WORKOUT / No Equipment | nicolaca_"
+    description "Hey there, &#10;&#10;Thank you for watching my first Youtube video. &#10;I hope you like it. &#10;&#10;In this video, we focus on our abs. Let them burn.&#10;You don&#34;t need any equipment but for an extra burn, you can add some light ankle weights. &#10;&#10;&#10;Follow me on Instagram: nicolaca_&#10;&#10;Sound by: &#10;https://www.epidemicsound.com"
+    channeltitle "nicolaca_"
+    channelid "UCeWl5jySqONAfcmWtKLZskg"
+    favcount 0
+    viewcount 43821
+    likecount 961
+    commentcount 75
+    duration "PT10M18S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 404
-    label "fMy9x2NbScg"
-    step 0
-    date "2020-03-28T13:08:15Z"
-    title "10 MIN INTENSE TOTAL AB WORKOUT IN BED (Upper + Side + Lower Belly Burn at Home) ~ Emi"
-    description "&#9786;SUBSCRIBE &#35330;&#38321;: http://bit.ly/SubscribeToEmi&#10;&#9658;TURN ON NOTIFICATION BUTTON FOR THE NEWEST VIDEOS!&#10; &#10;&#9658;BE MY FRIEND &#25104;&#28858;&#25105;&#30340;&#26379;&#21451;&#10;Instagram: @EmiWong_  https://www.instagram.com/emiwong_&#10;Facebook: @Emi Wong https://www.facebook.com/EmiWongg&#10;&#10;&#9658;HELP ME TRANSLATE MY VIDEOS &#38750;&#24120;&#24863;&#28608;&#22823;&#23478;&#24171;&#25105;&#21152;&#23383;&#24149;&#65281;&#10;http://www.youtube.com/timedtext_cs_panel?tab=2&#38;c=UCvGEK5_U-kLgO6-AMDPeTUQ&#10;&#10;&#9658;WATCH MORE VIDEOS!&#10;&#10;30 DAYS FAT BURN PROGRAM: https://www.youtube.com/playlist?list=PLGj6tJC_x-76sHaWnoYhDrbuL40oTCz9I&#10;&#10;AB WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-75cdAQJ9EcZWfOWkXCMzRIu&#10;&#10;ARM &#38; BACK WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-76dW0cWI1dUgwY_5cD_E7Nk&#10;&#10;LEG &#38; THIGH WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-76GfKHlzQZO23ZeCm1LZ62g&#10;&#10;FULL BODY WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-74dAtP0pa5VGPTbXQbEzJZ8&#10;&#10;KPOP WORKOUTS: https://www.youtube.com/playlist?list=PLGj6tJC_x-771Cx5q_AFuHDJULqqn63XD&#10;&#10;STRETCHES: https://www.youtube.com/playlist?list=PLGj6tJC_x-761L98lmAlZxNLttH-oh2mL&#10;&#10;TRAVEL VLOGS: https://www.youtube.com/playlist?list=PLGj6tJC_x-7755xDX2amoz4JkaCf4rL_f&#10;&#10;STUDY &#38; WORK EXPERIENCE: https://www.youtube.com/playlist?list=PLGj6tJC_x-74aM0VVYY6VBNU8zU7pKASX&#10;&#10;GETTING MARRIED VLOGS: https://www.youtube.com/playlist?list=PLGj6tJC_x-75Hn8yT-3LjekGVTjPKK3iC&#10;&#10;FOOD VLOGS: https://www.youtube.com/playlist?list=PLGj6tJC_x-77zyOKm47kypmGjeoedgjPn&#10;&#10;MAKE UP, SKIN CARE, FASHION: https://www.youtube.com/playlist?list=PLGj6tJC_x-74dfPXCrcBsu3GERCbPaQZ_&#10;&#10;FITNESS &#38; DIET TIPS: https://www.youtube.com/playlist?list=PLGj6tJC_x-74aBAyc7KxoJ5c8w5uM0TJu&#10;&#10;RECIPES &#38; COOKING: https://www.youtube.com/playlist?list=PLGj6tJC_x-76EwZHn8o-Jdtrm-AYyP636"
-    channeltitle "emi wong"
-    channelid "UCvGEK5_U-kLgO6-AMDPeTUQ"
-    favcount 0
-    viewcount 1582706
-    likecount 29501
-    commentcount 738
-    duration "PT10M51S"
-    indegree 3
-    sentiment 1
-    cluster 9
-  ]
-  node
-  [
-    id 405
+    id 380
+    name "405"
     label "1G3Az85q41c"
     step 0
     date "2020-04-11T03:56:33Z"
@@ -7258,12 +10660,21 @@ graph
     commentcount 1041
     duration "PT5M49S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 406
+    id 381
+    name "406"
     label "8K3tBVPaQYc"
     step 0
     date "2021-06-30T03:30:01Z"
@@ -7277,31 +10688,49 @@ graph
     commentcount 1693
     duration "PT11M34S"
     indegree 33
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 408
-    label "dt5QYu6EiKk"
-    step 0
-    date "2022-07-04T13:00:19Z"
-    title "TOUGH CORE WORKOUT - 5 Minute Ab Workout"
-    description "You have 5 minutes to spare. Try today's tough core workout that hits your abs in all the right places... and let me know how you feel afterward in the comments!&#10;&#10;#coreworkout #abworkout #strongwomen &#10;&#10;Thanks for watching and working out with me.&#10;&#10;If you liked this workout, please make sure to subscribe to my channel and also click the notification bell so you'll be notified every time a new workout is uploaded!&#10;&#10;Details:&#10;&#8226; No Equipment&#10;&#8226; Intermediate&#10;&#8226; 30 seconds of work for each exercise&#10;&#8226; No Repeats&#10;&#10;What other workouts do you want to see? Let me know below!&#10;&#10;Follow me on Instagram at instagram.com/spinsyddy&#10;Spotify Playlist: https://open.spotify.com/user/22gkmlxlnhkcesr3hswwhll5y?si=2L6DM8IVQimLUDXS4FY4rA&#10;Outfit: Under Armour"
-    channeltitle "Sydney Torabi"
-    channelid "UCerDXvAzBVuANVLjRkNfmCA"
-    favcount 0
-    viewcount 60
-    likecount 3
-    commentcount 1
-    duration "PT6M10S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 409
+    id 382
+    name "407"
+    label "Uq1AUNznOqU"
+    step 0
+    date "2022-07-07T07:16:54Z"
+    title "AB WORKOUT"
+    description ""
+    channeltitle "STEELE FIT"
+    channelid "UCLsUdaP8UeusVKkiY_Jk3aw"
+    favcount 0
+    viewcount 1971
+    likecount 33
+    commentcount 0
+    duration "PT16S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
+  ]
+  node
+  [
+    id 383
+    name "409"
     label "8h5CUB4MW3s"
     step 0
     date "2022-06-09T14:14:29Z"
@@ -7315,31 +10744,49 @@ graph
     commentcount 10
     duration "PT10M28S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 411
-    label "Jg9_-uI08iw"
+    id 384
+    name "410"
+    label "WvWQ1P-muEg"
     step 0
-    date "2015-07-11T18:11:21Z"
-    title "How to get a tiny Waist - AB Workout by Vicky Justiz"
-    description "&#9825; MY VERY OWN SUPPLEMENT LINE: https://womens.best/Shop-Vicky&#10;NEW version of this video!!! https://www.youtube.com/watch?v=1X2M8d0VzyA&#10;&#10;A great workout to do to minimize the size of your waist and give you that hour-glass body shape. &#10;&#10;SHOP MY VERY OWN SUPPLEMENT LINE X WOMENS BEST - with amazing flavors such as Pina Colada, Mojito, and Raspberry Sorbet! https://Womens.Best/Shop-Vicky&#10;&#10;FREE WORKOUT CHALLENGES: https://www.vickyjustiz.co/youtube-challenges&#10;WORKOUT PROGRAM &#38; NUTRITION GUIDE: https://www.vickyjustiz.co/workoutprogram/&#10;&#10;FOLLOW ME &#128151; &#10;TIKTOK: https://www.tiktok.com/@vickyjustiz&#10;IG: https://www.instagram.com/vickyjustiz/&#10; FITNESS IG: https://www.instagram.com/vickyjustizfitness/&#10;&#10;-Hold in Plank for 30 secs. &#10;-Plank twists (20)&#10;-Bicycle Crunches (30)&#10;-Side Crunches (20 on each side)&#10;-Knee to Elbow Planks (30)&#10;-Hip Raises (As many as you can)&#10;Repeat the whole workout 3x for ideal results. Incorporate this workout into your daily routine&#10;&#10;&#10;EQUIPMENT:&#10;Ankle Weights: http://amzn.to/2o42bqK&#10;Resistance Bands: http://amzn.to/2nu6pq6&#10;Resistance Loop Bands:https://amzn.to/2Wf7JMS&#10;&#10;&#9825;&#9825;&#9825;&#9825;&#9825;&#9825;&#9825;&#10;&#10;My VLOG Youtube channel: https://www.youtube.com/channel/UCrCqdWGQ-Z5U6ep9MBGka_A&#10;&#10;Our Travel Youtube Channel: https://www.youtube.com/c/johnnyurra&#10;&#10;My blog: https://www.vickyjustiz.co/Blog&#10;&#10;&#9825;&#9825;&#9825;&#9825;&#9825;&#9825;&#9825;&#10;&#10;Partnership Inquiries:&#10;bookvickyjustiz@gmail.com"
-    channeltitle "Vicky Justiz"
-    channelid "UCR117JPMLO3Y7J5mIblkBNg"
+    date "2022-07-08T17:45:49Z"
+    title "Killer Ab Workout | Pull up Bar Abs Exercise"
+    description "Killer Ab Workout | Pull up Bar Abs Exercise&#10;Workout Programs and Diet Plans&#10;&#11015;&#65039;&#11015;&#65039;&#11015;&#65039;&#11015;&#65039;&#11015;&#65039;&#11015;&#65039;&#10;https://www.patreon.com/SenzuGang?fan_landing=true&#10;=========================&#10;&#10;LET'S CONNECT&#8252;&#65039;&#160;&#10;INSTAGRAM: https://instagram.com/goku_pump?igshid=lh57574ilauh&#10;&#10;FACEBOOK: http://www.facebook.com/therealbambaam/&#10;&#10;TikTok: https://vm.tiktok.com/bsCAsS/&#10;&#10;=============================================&#10;&#10;My name is Bam BAAM, I am the CEO of SenzuCulture&#8482;&#65039;. I believe in a holistic approach to health that includes calisthenics, a Plant based diet, and free mind. I was raised in both Nigeria and Brooklyn and learn you don't need a gym membership to be fit. You don't need short cuts to reach your fitness goals the world is your gym. Hard work, motivation, and dedication is all you need. I've been training for 5 years without taking any supplements &#38; steroids. I've have proved bodyweight training alone can help build a great physic. Representing the calisthenics community 100%.&#10;=============================================&#10;&#10;What is calisthenics?&#10;&#10;The gymnastic exercises"
+    channeltitle "Goku Pump"
+    channelid "UCQsXOqLToSR1L9010iCQsqg"
     favcount 0
-    viewcount 13790331
-    likecount 338988
-    commentcount 7539
-    duration "PT5M15S"
+    viewcount 4813
+    likecount -1
+    commentcount 20
+    duration "PT1M"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 412
+    id 385
+    name "412"
     label "s8QEarpQut8"
     step 0
     date "2018-10-17T12:15:01Z"
@@ -7353,12 +10800,21 @@ graph
     commentcount 7069
     duration "PT12M8S"
     indegree 5
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 413
+    id 386
+    name "413"
     label "xwjhbsQCgxo"
     step 0
     date "2022-07-03T21:59:27Z"
@@ -7372,31 +10828,49 @@ graph
     commentcount 7
     duration "PT13M19S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
+  ]
+  node
+  [
+    id 387
+    name "414"
+    label "z3yxHCh1wOM"
+    step 0
+    date "2014-09-23T15:35:45Z"
+    title "Mari Winsor Flat Abs Pilates/Flat Abs Workout"
+    description "Master Pilates instructor Mari Winsor will guide you through this workout designed to strengthen your powerhouse while you get a small waist, flat abs and a long, lean look. Flat Abs Workout features over 17 ab sculpting moves sequenced to provide a core conditioning burn."
+    channeltitle "Mari Winsor Flat Abs Pilates"
+    channelid "UCuBu5oUW3dTJ6XZSZB70frg"
+    favcount 0
+    viewcount -1
+    likecount 3
+    commentcount 0
+    duration "PT22M33S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 5
   ]
   node
   [
-    id 415
-    label "7W6qQbUATWU"
-    step 0
-    date "2022-07-10T18:00:02Z"
-    title "5 MIN PERFECT ABS WORKOUT AT HOME"
-    description "Remember to also have a good diet &#38; if you want a NO EQUIPMENT ABS WORKOUT, try this!&#10;&#128073;  https://youtu.be/jX9Ro1CNQIA&#10;&#10;#shorts #abs #fitness"
-    channeltitle "Adolfo Tex"
-    channelid "UCfaHhwMW9cFH8fRyyi7JzLQ"
-    favcount 0
-    viewcount 5903
-    likecount 404
-    commentcount 7
-    duration "PT19S"
-    indegree 0
-    sentiment 1
-    cluster 9
-  ]
-  node
-  [
-    id 416
+    id 388
+    name "416"
     label "TjYOv-RRkyg"
     step 0
     date "2019-11-14T12:20:57Z"
@@ -7410,12 +10884,21 @@ graph
     commentcount 1387
     duration "PT11M25S"
     indegree 2
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 417
+    id 389
+    name "417"
     label "vCcZBsVhGv4"
     step 0
     date "2022-07-09T19:10:37Z"
@@ -7429,12 +10912,21 @@ graph
     commentcount 0
     duration "PT15M29S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 418
+    id 390
+    name "418"
     label "fApYps2lXtI"
     step 0
     date "2022-07-04T04:30:07Z"
@@ -7448,31 +10940,49 @@ graph
     commentcount 17
     duration "PT8M39S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
+  ]
+  node
+  [
+    id 391
+    name "419"
+    label "3QTBWTvvXy8"
+    step 0
+    date "2022-07-10T19:00:13Z"
+    title "20 Minute Dance Cardio with tWitch and Allison! with Standing Ab Exercises"
+    description "Welcome back to another Boss Family Workout, we hope you're ready for some dance cardio! Today we're groovin' for 20 minutes and focusing on some standing abs throughout. Comment below what songs or moves you'd like to see in the next one!&#10;&#10;With Love and Kindness,&#10;The Boss Family&#10;&#10;_____________________&#10;SUBSCRIBE HERE: https://www.youtube.com/channel/UCXipBJpeaa_Zt7K9ePxA6Jg?sub_confirmation=1&#10;&#10;Find us on Instagram!&#10;Boss Family Workout: https://bit.ly/3Bc4Jo6&#10;Allison: https://bit.ly/2XK59nm&#10;tWitch: https://bit.ly/3B5NRQ0&#10;Weslie: https://bit.ly/3mrP6ov&#10;Maddox: https://bit.ly/3y9470V&#10;Zaia: https://bit.ly/3gtFYfr&#10;&#10;Find us on TikTok!&#10;Allison: https://bit.ly/3B9AmyN&#10;tWitch: https://bit.ly/3zenQNZ&#10;Weslie: https://bit.ly/3mt34qa&#10;&#10;Welcome to the OFFICIAL Boss Family Youtube Channel. Become a BFF (Boss Family Friend) and SUBSCRIBE!! We upload new videos weekly, so turn on post notifications so you don&#8217;t miss a beat with the Boss Fam!&#10;&#10;Together with our 3 children, Weslie, Maddox and Zaia, our videos include Boss Family dance workouts, vlogs, comedy, cooking, challenges, and fun family moments! &#10;&#10;Stephen &#34;tWitch&#34; Boss has appeared in &#34;Magic Mike&#34;, &#34;Ghostbusters&#34;, runner up on &#34;So You Think You Can Dance&#34;, but is most well-known for co-hosting &#34;The Ellen Degeneres Show&#34;. Allison Holker Boss has appeared on &#34;So You Think You Can Dance&#34;, &#8220;Dancing with the Stars&#34;, and &#34;Design Star: Next Gen&#34;.&#10;_____________________&#10;00:00 - Welcome!&#10;0:27- Warm Up Song&#10;04:21 - Second Song&#10;07:47 - Raise the Vibrations!&#10;11:20 - Let the Sweat Make an Appearance&#10;15:24 - Final Song, Final Push!"
+    channeltitle "OFFICIAL BOSS FAM"
+    channelid "UCXipBJpeaa_Zt7K9ePxA6Jg"
+    favcount 0
+    viewcount 965
+    likecount 90
+    commentcount 17
+    duration "PT20M16S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 420
-    label "KZuyiPNhw1w"
-    step 0
-    date "2022-07-07T21:03:11Z"
-    title "AB WORKOUT ROUTINE AT PLANET FITNESS | Jada Hall"
-    description "&#9825; My ab workout routine at planet fitness:&#10;Russian Twist 5 x 25&#10;&#8220;Kick outs&#8221; 3 x 15&#10;Mountain Climbers 5 x 25&#10;Core machine leg up x 10&#10;Core machine leg up left x 10&#10;Core machine leg up right x 10&#10;Sit ups 5 x 15&#10;&#10;&#9825; Check out my Leg Workout Routine at Planet fitness: https://youtu.be/GejErghYwog&#10;&#10;&#9825; Heyyy! I am Jada Hall! I am currently in college as a chemistry major working on obtaining a degree in pharmacy. Subscribe to follow me along my journey! I will be uploading content such as hauls, GRWMs, advice, college life, vlogs and more!&#10;&#10;&#9825; Follow me on instagram! @jadavhall&#10;https://www.instagram.com/jadavhall/"
-    channeltitle "Jada Hall"
-    channelid "UCELE6OevQCGk3dHKe5tzVeA"
-    favcount 0
-    viewcount 113
-    likecount 14
-    commentcount 4
-    duration "PT5M52S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 421
+    id 392
+    name "421"
     label "eiuNnCQCGdY"
     step 0
     date "2022-07-06T06:20:32Z"
@@ -7486,12 +10996,21 @@ graph
     commentcount 13
     duration "PT27M2S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 422
+    id 393
+    name "422"
     label "_09sCmmcqwI"
     step 0
     date "2021-04-07T18:15:55Z"
@@ -7505,31 +11024,49 @@ graph
     commentcount 6
     duration "PT14M19S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 424
-    label "-S0jvoyART0"
+    id 394
+    name "423"
+    label "hjF1vCW8-p8"
     step 0
-    date "2022-07-08T10:00:00Z"
-    title "8 Minute Ab Workout | Follow Along"
-    description "#mma #fitness #markmugen &#10;&#10;&#9658; FACEBOOK - https://web.facebook.com/markmugen&#10;&#10;&#9658; INSTAGRAM - https://www.instagram.com/markmugen/&#10;&#10;&#9658; TIKTOK - https://www.tiktok.com/@markmugen23?"
-    channeltitle "Mark Mugen"
-    channelid "UCrYiyXzC_uQxWstZ5QuGdQw"
+    date "2014-10-06T18:16:22Z"
+    title "5 Day Fit: Trouble Zone Solutions/ Bonus Ab Workout"
+    description "BONUS! Ab workout with Tanja Djelevic"
+    channeltitle "5 Day Fit: Trouble Zone Solutions"
+    channelid "UCUoSDQe46UfMNGIu74tfybw"
     favcount 0
-    viewcount 653
-    likecount 78
-    commentcount 8
-    duration "PT8M34S"
+    viewcount -1
+    likecount 0
+    commentcount 0
+    duration "PT10M14S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 425
+    id 395
+    name "425"
     label "5cWxgnJgHHs"
     step 0
     date "2020-08-24T20:49:57Z"
@@ -7543,12 +11080,21 @@ graph
     commentcount 22696
     duration "PT12M35S"
     indegree 67
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 426
+    id 396
+    name "426"
     label "tpsb8Usk_oI"
     step 0
     date "2022-07-11T05:18:58Z"
@@ -7562,31 +11108,49 @@ graph
     commentcount 0
     duration "PT4M26S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 428
-    label "ZcnIiYnTghg"
+    id 397
+    name "427"
+    label "C8bhrL5ACwo"
     step 0
-    date "2022-07-07T09:22:28Z"
-    title "3 Best Six Pack Abs Workout | Body Recomposition"
-    description "PROTEIN-GO BUY NOW!!&#10;Buy Frotein from the links below&#10;AMAZON: https://amzn.to/364bm1H&#10;WEBSITE: https://bit.ly/3hWzlT9&#10;FLIPKART: https://bit.ly/3MT3kd9&#10;&#10;&#10;&#10;MY COMPLETE SUPPLEMENT STACK&#10;Buy my stack from the links below:&#10;Premium Gold Whey&#10;Amazon: https://amzn.to/3s9290G&#10;Website: https://bit.ly/3JLBywC&#10;BCAA Energy: https://bit.ly/3LSWVOo&#10; Freak: https://amzn.to/3H7pfcp&#10; Joint Care: https://bit.ly/3Iebf1D&#10;Real Vitamin :  https://amzn.to/3t4phfY&#10; Ashwagandha: https://bit.ly/3BHmEEO&#10;Vitamin C: https://amzn.to/3scJrFx&#10;Greens &#38; Superfood: https://bit.ly/3v9vqdo&#10;Essential whey:&#10;https://www.amazon.in/dp/B09P8KS4XD/r...&#10;#sixpack #sixpackabs #sixpackabsworkout"
-    channeltitle "SHRAZ FIT"
-    channelid "UC-41ASlCx30it_mR3CqMNpg"
+    date "2022-07-06T23:53:27Z"
+    title "Boxing ab workout  #abs #boxingtraining #abworkout"
+    description ""
+    channeltitle "Smooth Boy Joe "
+    channelid "UCSMTe3SogIWLfa_sD_1hjuw"
     favcount 0
-    viewcount 3102
-    likecount 281
-    commentcount 24
-    duration "PT6M33S"
+    viewcount 16
+    likecount -1
+    commentcount 0
+    duration "PT13S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 429
+    id 398
+    name "429"
     label "yx28XGI8ODQ"
     step 0
     date "2022-07-10T01:49:35Z"
@@ -7600,12 +11164,21 @@ graph
     commentcount 0
     duration "PT11S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 430
+    id 399
+    name "430"
     label "bTpX1W-kJzA"
     step 0
     date "2022-07-10T18:53:21Z"
@@ -7619,31 +11192,49 @@ graph
     commentcount 0
     duration "PT5M10S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
+  ]
+  node
+  [
+    id 400
+    name "431"
+    label "5KMsnmi8byc"
+    step 0
+    date "2015-06-30T00:44:46Z"
+    title "How To Do: EZ Curl Bar Crunch - Flat Bench | Ab Workout Exercise"
+    description "Lie down on a flat bench and hold a EZ curl bar above your chest with arms fully extended. Keep hands shoulder width apart in a overhand grip. Raise your upper body while keeping your lower back on the bench. Keep your arms extended. Hold for a moment and return to starting position.&#10;&#10;Video and instructions provided by Fitway, a free app that offers tailor-made workout videos to help you hit your fitness goals, more info on http://www.gofitway.com/&#10;&#10;Download on Google Play https://play.google.com/store/apps/details?id=com.datasupply.fitwayandroid"
+    channeltitle "Fitway - Workout Trainer"
+    channelid "UCko0bg3jUnC-hCetDWZmvSw"
+    favcount 0
+    viewcount 2107
+    likecount 8
+    commentcount 0
+    duration "PT28S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 432
-    label "7jmJVykRBTM"
-    step 0
-    date "2014-04-02T17:59:32Z"
-    title "Intense Ab Workout for Sexy Toned Stomach"
-    description "Wat a flat stomach? A Toned Tummy? Strong Core? This ab workout challenge will help you get sexy toned ab muscles. Set your timer and try to do as many reps of each ab exercise as you can in one minute while keeping great form. You can click the link below to purchase a GymBoss timer:&#10;http://interneka.com/affiliate/AIDLink.php?BID=14612&#38;AID=044026"
-    channeltitle "Womens Workout Channel"
-    channelid "UCmXGmgUgjEHwGq6NR9SSi6g"
-    favcount 0
-    viewcount 209702
-    likecount 2064
-    commentcount 37
-    duration "PT9M14S"
-    indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 433
+    id 401
+    name "433"
     label "0hMBjf5rrPA"
     step 0
     date "2022-07-10T13:30:01Z"
@@ -7657,12 +11248,21 @@ graph
     commentcount 3
     duration "PT10M19S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 434
+    id 402
+    name "434"
     label "s2gYOge2S-U"
     step 0
     date "2022-07-06T12:49:45Z"
@@ -7676,12 +11276,21 @@ graph
     commentcount 2
     duration "PT3M10S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 435
+    id 403
+    name "435"
     label "G5IOz-FmNuQ"
     step 0
     date "2022-07-08T20:21:48Z"
@@ -7695,12 +11304,21 @@ graph
     commentcount 14
     duration "PT5M39S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 436
+    id 404
+    name "436"
     label "rJtNGKwp_Js"
     step 0
     date "2022-07-09T15:53:08Z"
@@ -7714,12 +11332,21 @@ graph
     commentcount 4
     duration "PT5M11S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 1
   ]
   node
   [
-    id 437
+    id 405
+    name "437"
     label "c5RCGkiQam8"
     step 0
     date "2022-07-07T10:38:46Z"
@@ -7733,12 +11360,21 @@ graph
     commentcount 1
     duration "PT3M10S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 438
+    id 406
+    name "438"
     label "W6t9D6yWzhY"
     step 0
     date "2022-07-07T14:00:24Z"
@@ -7752,12 +11388,21 @@ graph
     commentcount 4
     duration "PT8M16S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 439
+    id 407
+    name "439"
     label "6FOVXf7kHzg"
     step 0
     date "2014-11-27T03:20:07Z"
@@ -7771,12 +11416,21 @@ graph
     commentcount 20
     duration "PT5M23S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 440
+    id 408
+    name "440"
     label "borJVSQ37Ns"
     step 0
     date "2022-07-11T02:38:01Z"
@@ -7790,31 +11444,49 @@ graph
     commentcount 0
     duration "PT18S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 442
-    label "RcRuJZzQLCA"
+    id 409
+    name "441"
+    label "_oUSQH0FrT4"
     step 0
-    date "2022-07-07T02:29:31Z"
-    title "10 MIN AB WORKOUT | at home, no equipment"
-    description "Your abs be like: &#128293;&#10;&#10;Vlog Channel:&#10;https://www.youtube.com/channel/UC7yr7Yse43ZFKYSE1UI2fSw&#10;Instagram:&#10;https://www.instagram.com/avaberian/?hl=en&#10;&#10;Music:&#10;Song 1: Tobu - Candyland [NCS Release]Music provided by NoCopyrightSoundsFree Download/Stream: http://ncs.io/candylandWatch: http://youtu.be/IIrCDAV3EgI&#10;&#10;Song 2: DEAF KEV - Invincible [NCS Release]Music provided by NoCopyrightSoundsFree Download/Stream: http://ncs.io/invincibleWatch: http://youtu.be/J2X5mJ3HDYE&#10;&#10;Song 3: Cartoon - On &#38; On (feat. Daniel Levi) [NCS Release]Music provided by NoCopyrightSoundsFree Download/Stream: http://ncs.io/onandonWatch: http://youtu.be/K4DyBUG242c&#10;&#10;DISCLAIMER:&#10;Before taking on any new exercise programs, please consult your physician. By participating in this video&#8217;s exercise, you are voluntarily doing so at your own risk. In any exercise program, there is always a risk of injury to the body. With this, you agree to discharge and release Ava Berian and her YouTube channel from any and all causes of action or claims. Unknown or known, arising out of Ava Berian&#8217;s negligence."
-    channeltitle "Ava Berian"
-    channelid "UCCFv1OJumdh_rE_FG7YaOQg"
+    date "2022-07-09T09:20:00Z"
+    title "Intense AB workout(#shorts )"
+    description "Guys and girls in yoga pants are having a belly workout session, do you want to join us?&#10;&#10;#shorts #abworkout #homeworkout #homegym #intenseabworkout #flatbellyexercise"
+    channeltitle "Wavar"
+    channelid "UC32GmGIFjjElMKbcyzSOjPA"
     favcount 0
-    viewcount 264
-    likecount 13
-    commentcount 1
-    duration "PT10M1S"
+    viewcount 4
+    likecount 0
+    commentcount 0
+    duration "PT12S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 443
+    id 410
+    name "443"
     label "JmpZUxlQJWI"
     step 0
     date "2022-07-10T09:36:48Z"
@@ -7828,50 +11500,77 @@ graph
     commentcount 1
     duration "PT8M12S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 445
-    label "fOod28F5Weg"
+    id 411
+    name "444"
+    label "6o7-OA-MLxE"
     step 0
-    date "2022-07-11T10:27:09Z"
-    title "Shredded ABS workout #shorts"
-    description "Hello and Welcome to my Channel Mr Beast Fitness&#10;&#10;&#10;&#10;&#10;abs,abs workout,workout,shredded abs workout,home workout,ab workout,shredded abs,intense ab workout,shredded,flat belly workout,at home workout,lower abs workout,shredded ab workout,abs workout program,10 mins workout,ab workout at home,core workout,10 minute workout,bed workout,ab workouts,abs workout challenge,shredded workout,workout program,six pack workout,workout for shredded abs,workout get shredded abs,ab shredder workout"
-    channeltitle "MrBeast Fitness "
-    channelid "UC_lw98PAmx7_C_Mek4-6WgQ"
+    date "2022-07-10T18:45:28Z"
+    title "Gym Ab Workout #video #tiktok #viral #status #trending #short #shortvideo #shortsvideo #omg #shorts"
+    description ""
+    channeltitle "Meena Ji"
+    channelid "UCl37DqGPclyki5YHBwWlLOA"
     favcount 0
-    viewcount 0
-    likecount 0
+    viewcount 1668
+    likecount -1
     commentcount 0
-    duration "PT55S"
-    indegree 1
-    sentiment 1
+    duration "PT7S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
+  ]
+  node
+  [
+    id 412
+    name "446"
+    label "5gTcEID5eHs"
+    step 0
+    date "2022-07-09T22:39:07Z"
+    title "Morning Ab Workout | Get It Done  Out The Way | #abworkout #short #workout"
+    description "Morning Ab Workout | Get It Done &#38; Out The Way &#10;#abworkout #abs #workout&#10;&#10;Website:&#10;bernardparkerjr.com&#10;&#10;Social Media (Subscribe, Follow &#38; Turn On Notifications):&#10;Instagram | https://www.instagram.com/bernardparker_/&#10;YouTube | https://www.youtube.com/channel/UCb14O6ByspoDg8WkW8KXQbQ/&#10;Twitter: https://twitter.com/bernardparker_/&#10;Pinterest | https://www.pinterest.com/bernardparker_/&#10;Facebook | https://www.facebook.com/bernardparkerjr/&#10;&#10;Fitness Video Disclaimer:&#10;&#10;Bernard Parker Jr. LLC strongly recommends that you consult with your physician before beginning any exercise program.&#10;You should be in good physical condition and be able to participate in the exercise.&#10;Bernard Parker Jr. LLC is not a licensed medical care provider and represents that it has no expertise in diagnosing, examining, or treating medical conditions of any kind, or in determining the effect of any specific exercise on a medical condition.&#10;You should understand that when participating in any exercise or exercise program, there is the possibility of physical injury. If you engage in this exercise or exercise program, you agree that you do so at your own risk, are voluntarily participating in these activities, assume all risk of injury to yourself, and agree to release and discharge Bernard Parker Jr. LLC from any and all claims or causes of action, known or unknown, arising out of Bernard Parker Jr. LLC negligence.&#10;&#10;&#10;Education Video Disclaimer:&#10;&#10;The materials and the information contained on this channel are provided for general and educational purposes only and do not constitute any legal, medical or other professional advice on any subject matter. The statements have not been evaluated by the FDA and are not intended to diagnose, treat or cure any disease. Always seek the advice of your physician or other qualified healthcare providers prior to starting any new diet or treatment and with any questions you may have regarding a medical condition. If you have or suspect that you have a medical problem, promptly contact your healthcare provider."
+    channeltitle "Bernard Parker Jr"
+    channelid "UCb14O6ByspoDg8WkW8KXQbQ"
+    favcount 0
+    viewcount 32
+    likecount 2
+    commentcount 0
+    duration "PT56S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 447
-    label "6wXKKM4Lh2g"
-    step 0
-    date "2022-07-06T20:24:00Z"
-    title "12 MIN INTENSE AB WORKOUT - Abs  Core, No Repeat Exercises"
-    description "30 of each ab exercise &#10;Upper abs &#10;Lower abs &#10;Middle abs"
-    channeltitle "Rush Hour Bootcamp by Sheela"
-    channelid "UClEWuCJSucB5WkIsLe-a8Nw"
-    favcount 0
-    viewcount 48
-    likecount 4
-    commentcount 0
-    duration "PT13M44S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 448
+    id 413
+    name "448"
     label "rOTZNqV43B0"
     step 0
     date "2022-07-09T11:00:33Z"
@@ -7885,12 +11584,21 @@ graph
     commentcount 0
     duration "PT9M32S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 449
+    id 414
+    name "449"
     label "8bNDXIPFDgw"
     step 0
     date "2022-07-09T00:30:02Z"
@@ -7904,31 +11612,49 @@ graph
     commentcount 5
     duration "PT9M46S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 451
-    label "qnvjig0HQvM"
+    id 415
+    name "450"
+    label "jMhp8ZT-GSA"
     step 0
-    date "2022-07-10T03:42:19Z"
-    title "Quick No Equipment Follow Along Ab Workout (Beginner  Intermediate Lvl)"
-    description "#abworkout #lowerabs #sixpackabs &#10;In this video, we will be looking into a 3 min follow-along ab workout to hit all the six-pack ab muscles effectively.&#10; 0:00 Intro&#10;0:39 Follow Along Workout Begins&#10;4:40 Outro&#10;&#10;Atlas Application For Form Correction: https://www.atlasai.co.uk/supple-strength-early-access?&#10;&#10;&#9658;At TheSuppleStrength we aim to optimize human performance by working on mobility, flexibility and strength backed up by balanced nutrition using an evidence-based coaching system under the guidance of our professional coaches.&#10;.&#10;&#9658;For TRAINING with us check out https://www.thesupplestrength.com/&#8203;&#10;.&#10;.&#10;I hope you found it helpful.&#10;STAY SUPPLE STAY STRONG&#10;&#10;FOLLOW ME ON INSTAGRAM:&#10;https://www.instagram.com/keertan_fit&#8203;"
-    channeltitle "The Supple Strength"
-    channelid "UCwjO-IEBXB-pBGELh0DGF2A"
+    date "2022-07-09T11:52:53Z"
+    title " #bodybuilding #gym #fitness"
+    description ""
+    channeltitle "Dale Gets Fit"
+    channelid "UC0dAQyR0bQESHrcAzFwxw4w"
     favcount 0
-    viewcount 57
-    likecount 8
+    viewcount 373
+    likecount 11
     commentcount 0
-    duration "PT4M48S"
+    duration "PT28S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 452
+    id 416
+    name "452"
     label "pksWzkM7i3Q"
     step 0
     date "2022-07-10T17:18:15Z"
@@ -7942,12 +11668,21 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 453
+    id 417
+    name "453"
     label "h-2do4LwIhE"
     step 0
     date "2022-07-08T15:44:20Z"
@@ -7961,12 +11696,21 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 0
-    sentiment 1
-    cluster 9
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 454
+    id 418
+    name "454"
     label "Q_DXjrfXR0I"
     step 0
     date "2022-07-10T04:37:25Z"
@@ -7980,12 +11724,21 @@ graph
     commentcount 0
     duration "PT7M10S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 455
+    id 419
+    name "455"
     label "DoRFDKNWFw8"
     step 0
     date "2022-07-10T05:09:22Z"
@@ -7999,12 +11752,21 @@ graph
     commentcount 0
     duration "PT10M59S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 456
+    id 420
+    name "456"
     label "Z2wRBAt1b0M"
     step 0
     date "2022-07-10T23:43:16Z"
@@ -8018,12 +11780,21 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 3
   ]
   node
   [
-    id 457
+    id 421
+    name "457"
     label "q7ojdRCXw4M"
     step 0
     date "2022-07-09T02:04:26Z"
@@ -8037,12 +11808,21 @@ graph
     commentcount 0
     duration "PT5S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 458
+    id 422
+    name "458"
     label "qUXZLP5xRk0"
     step 0
     date "2022-07-11T10:23:12Z"
@@ -8056,12 +11836,21 @@ graph
     commentcount 0
     duration "PT56S"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 459
+    id 423
+    name "459"
     label "adSgxVinzdg"
     step 0
     date "2022-07-11T09:23:50Z"
@@ -8075,50 +11864,77 @@ graph
     commentcount 0
     duration "PT36S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 461
-    label "kHKMHK5cJqY"
+    id 424
+    name "460"
+    label "8sH3JibHG1Y"
     step 0
-    date "2022-07-09T00:03:36Z"
-    title "Favorite Ab Workout"
-    description ""
-    channeltitle "AR Iron King"
-    channelid "UCNRI1f1WT1FgFs44hSbmWrA"
+    date "2022-07-09T07:27:59Z"
+    title "5 Minute at home ab workout (no equipment) #shorts"
+    description "Todays workout is focused on working the abs. Each minute is a different exercise listed below. &#10;&#10;1 - Sit ups&#10;2 - Right Plank Side Crunch&#10;3 - Left Plank Side Crunch&#10;4 - Flutter Kicks&#10;5 - Sit ups"
+    channeltitle "Workout NOW!"
+    channelid "UCRDOG2nxvshVVge-UJh9DjA"
     favcount 0
-    viewcount 801
-    likecount 20
-    commentcount 1
-    duration "PT16S"
+    viewcount 43
+    likecount 2
+    commentcount 0
+    duration "PT40S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 463
-    label "Tul6Tuv_ksk"
+    id 425
+    name "462"
+    label "NjvNXCfHYlA"
     step 0
-    date "2022-07-09T15:47:50Z"
-    title "#sixpack #fitness #absworkout | abs workout at gym | core exercises | belly fat burn #short"
-    description "abs workout at gym  | how to lose belly fat  | how to get rid of belly fat  | how to build six-pack | core strength exercise  | six-pack abs workout| belly fat burn exercise&#10;&#10;#shorts&#10;#ytshort&#10;#fitness&#10;#workout &#10;#fitnessmotivation&#10;#exercise&#10;#gym&#10;#homeworkout&#10;#shortfeed&#10;&#10;ab workout&#10;lower abs workout&#10;intense ab workout&#10;how to get abs&#10;Abs workout at gym&#10;six pack abs&#10;abs workout at home&#10;how to lose belly fat&#10;how to get rid of belly fat&#10;Stomach exercises to lose belly fat&#10;Core workout&#10;sixpack workout&#10;Sixpack &#10;workout music"
-    channeltitle "Vishwas Fitness"
-    channelid "UCe4S3cUCRi_BeiBA-Vyb4ow"
+    date "2022-07-09T10:09:13Z"
+    title "LETS TRAIN SOME ABS ! THIS IS ONE OF FAV AB WORKOUT ! LET ME KNOW WHAT YOU THINK !"
+    description "OK GUYS, LET'S TRAIN SOME ABS !&#10;THIS IS ONE OF FAV AB WORKOUT !&#10;LET ME KNOW WHAT YOU THINK !&#10;LET'S GO TO TRY OUT !&#10;&#10;Video by IG @LISAFIITT &#10;#short #shortvideo #shorts #shortsvideo #shortsfeed #shortsyoutube #shortsbeta #love #lovenotes #lovenote #lovestatus #fitnessmotivation #fitness #fitnesslifestyle #abs #absworkout #workouts #workout #workoutmotivation #workoutathome #olahragadirumah #olahraga #olahragapagi #olahragapopuler #subscriber #subscribe #subscribers #subscribetomychannel #subscrib #share #shareinvitation #shares #gym #gymmotivation #gymtips #gymlover #1ksubs #1k #1kcreator #1ksubscribers #1kviews #latihanfisik #latihan &#10;&#10;Thank you for watching this video. If you enjoyned with @Amer Saladin Channel, please to like, SUBSCRIBE, share &#38; comment.&#10;&#10;Thank you &#128170;&#128170;&#128170;&#128077;&#128077;&#128077;&#128076;&#128076;&#128076;&#128150;&#128150;&#128150;"
+    channeltitle "Amer Saladin Channel"
+    channelid "UCTSrWbSuQLLZGcqdcOY3N1A"
     favcount 0
-    viewcount 106
-    likecount 3
-    commentcount 1
-    duration "PT24S"
+    viewcount 121
+    likecount 6
+    commentcount 0
+    duration "PT59S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 464
+    id 426
+    name "464"
     label "_VojCRwzNac"
     step 0
     date "2013-04-30T20:01:34Z"
@@ -8132,12 +11948,21 @@ graph
     commentcount 101
     duration "PT6M15S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 465
+    id 427
+    name "465"
     label "qRVZP_f5H28"
     step 0
     date "2022-07-11T05:07:57Z"
@@ -8151,12 +11976,21 @@ graph
     commentcount 0
     duration "PT12M9S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 6
   ]
   node
   [
-    id 466
+    id 428
+    name "466"
     label "zIcmPTUK3Wo"
     step 0
     date "2022-07-10T13:00:37Z"
@@ -8170,31 +12004,49 @@ graph
     commentcount 0
     duration "PT17M6S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
+  ]
+  node
+  [
+    id 429
+    name "467"
+    label "-NPpP1Eph9c"
+    step 0
+    date "2022-07-10T03:24:33Z"
+    title "Ab workout #shorts"
+    description ""
+    channeltitle "Brandon Bautista"
+    channelid "UC8rxFYXNH11KRHMqUssSl-w"
+    favcount 0
+    viewcount 442
+    likecount 5
+    commentcount 0
+    duration "PT14S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 468
-    label "Gt5r2IVBWuM"
-    step 0
-    date "2022-03-16T12:41:36Z"
-    title "10 Minute Ab Workout for Burning Belly Fat"
-    description "abs workout, abs, abdominals, abdomen, exercise, exercises, training, train, flat, stomach, Min, Abs, Workout, fat, burning, diets, nutritions, instructions, workout, level, how, to, have, six, pack, min, next, yoga, weight, loss, burn, minute, ab, hip, hop, lower, female, pilates, ripped, p90x, eight, ripper, workouts, cbn, best, arms, girl, fake, buns, minutes, for, crunchless, chest, fbb, legs, amazing, work, out, showtime, contour, six pack, 6 pack, at home, ab workout&#10;&#10;0:00 Twist Squat&#10;0:54 bent knee oblique twist&#10;2:05 Crossover Lunge&#10;3:00 Bycicle Crunch&#10;4:10 Crab Twist&#10;5:05 High Knee Squat&#10;6:15 Standing Twist&#10;7:10 Hip Circles&#10;8:21 Mountain Climber&#10;9:15 Glute March&#10;&#10;#abs #abworkout #abs_exercise #abs_workout&#10;&#10;Which exercise is best for abs for female?&#10;How can a woman get abs in 2 weeks?&#10;How do women get abs for beginners?&#10;How can I tone my abs fast?&#10;&#10;beginner abs workout female, exercise for abs for female at home, best flat tummy exercises for great female abs, ab exercises at home, best ab exercises for women, lower ab workouts for women, 3 best ab exercises, ab exercises for beginners"
-    channeltitle "WORKOUT"
-    channelid "UC7t6QJ4u8qF8pI-vibX-BUQ"
-    favcount 0
-    viewcount 589580
-    likecount 15309
-    commentcount 81
-    duration "PT10M16S"
-    indegree 2
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 469
+    id 430
+    name "469"
     label "Vai5W7rQe5I"
     step 0
     date "2022-07-09T12:13:03Z"
@@ -8208,12 +12060,21 @@ graph
     commentcount 0
     duration "PT6M8S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 470
+    id 431
+    name "470"
     label "f-IyK5_L5r0"
     step 0
     date "2022-07-09T06:54:54Z"
@@ -8227,12 +12088,21 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 471
+    id 432
+    name "471"
     label "YO9Ruecltcg"
     step 0
     date "2022-07-10T13:02:12Z"
@@ -8246,50 +12116,77 @@ graph
     commentcount 22
     duration "PT2M4S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 473
-    label "42-77g_faDk"
+    id 433
+    name "472"
+    label "7JroopnrItQ"
     step 0
-    date "2022-07-10T05:00:37Z"
-    title "Abs workout, burn your belly fat at Home Without any Equipment #shorts"
-    description "#shorts #abs #workout &#10;Abs workout, &#128293;&#128293;&#128293;burn your belly fat at Home Without any Equipment"
-    channeltitle "Stay fit E"
-    channelid "UCiM_QtYgkygVUF027GTc7lA"
+    date "2022-07-10T12:45:06Z"
+    title "#shorts #fitness #youtubeshorts #abs#viral"
+    description ""
+    channeltitle "Titesh Bhusara Fitness Vlog"
+    channelid "UC7UVDStGnb8Ny06PHc0i8MA"
     favcount 0
-    viewcount 2
-    likecount 1
+    viewcount 26
+    likecount 15
+    commentcount 1
+    duration "PT16S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
+  ]
+  node
+  [
+    id 434
+    name "474"
+    label "HNjmhpR5zI4"
+    step 0
+    date "2022-07-10T21:21:59Z"
+    title "world best abs workout #shorts #bodybuilder #gymmotivation #muscle #gym #workout #fitness #chest #ab"
+    description ""
+    channeltitle "Domzy Gym Motivations "
+    channelid "UC5tNb7OnTjJhzIGk6noi5oA"
+    favcount 0
+    viewcount 529
+    likecount 21
     commentcount 0
-    duration "PT48S"
+    duration "PT8S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 475
-    label "anvvfJZaSIM"
-    step 0
-    date "2022-07-09T08:15:00Z"
-    title "3 Min Weight Loss in 10 Day | Nobody | ABS Workout"
-    description "-  3 Min Weight Loss in 10 Day | Nobody | ABS Workout  &#128165; workout video &#128165; Female Fitness Motivation video.&#10;&#9658; Thank you for watching videos!&#10;&#9658; You can also leave a like and share my videos if you want !&#10;&#9658;  -   Subscribe for more videos: https://goo.gl/ocm219 &#10;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#9620;&#10;&#10;&#9654;&#65039;Follow:  @saomiguelito&#10;Instagram:  https://www.instagram.com/saomiguelito/&#10;&#10;&#9654;&#65039;Follow:  @gainsbybrains&#10;Instagram:  https://www.instagram.com/gainsbybrains/&#10;&#10;@ Music:&#10;Track: Zack Merci X CRVN - Nobody [NCS Release]&#10;Music provided by NoCopyrightSounds.&#10;Watch: https://youtu.be/juYcyMJMu6I&#10;Free Download / Stream: http://NCS.io/ZMCNobody&#10;&#10;#gymworkouts #gymmotivation #weightloss #exercise #fitness #workout &#10;&#10; @ Our Goal, When Making a Compilation, Is Not To Steal Someone's Video. But, to share the Best Content and Quality Compilers. Use of Some Images, Short Videos On The Internet ... If Any Clip Owners, Used in Our Collective, Have a Copyright Problem, Feel Free to Contact Them I By Personal Message Or Add Title Issuance. We will remove clips."
-    channeltitle "Beautiful and healthy channel"
-    channelid "UClMLNjODBgzcWM14oo7mlIw"
-    favcount 0
-    viewcount 2180
-    likecount 40
-    commentcount 2
-    duration "PT3M8S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 476
+    id 435
+    name "476"
     label "2MT7liK-F0c"
     step 0
     date "2022-07-07T14:00:00Z"
@@ -8303,12 +12200,21 @@ graph
     commentcount 4
     duration "PT31S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 477
+    id 436
+    name "477"
     label "k9I6fogYKrc"
     step 0
     date "2022-07-08T19:45:00Z"
@@ -8322,12 +12228,21 @@ graph
     commentcount 0
     duration "PT19S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 478
+    id 437
+    name "478"
     label "kdr1KLfzCIE"
     step 0
     date "2022-07-08T14:00:12Z"
@@ -8341,31 +12256,49 @@ graph
     commentcount 13
     duration "PT8M22S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 480
-    label "nDRlkhE0PU4"
+    id 438
+    name "479"
+    label "fkbM42vFzJw"
     step 0
-    date "2022-07-07T03:35:00Z"
-    title "ABS Abs workout at gym wont get best ABS to impress your friends do this #tiktok #workout #abs"
-    description ""
-    channeltitle "HATE ME X9"
-    channelid "UCyLOITUmkJUt8Ulu353mmLA"
+    date "2022-07-09T15:41:32Z"
+    title "Dumbbell ab workout #selflove #fitness"
+    description "God First Spiritual Soul ian davidson ii Fitness Motivation Health Wealth Abundance&#10;Subscribe Here: https://www.youtube.com/channel/UCamp6_z04UTsU-LqudfJPSA/&#10;&#10;Good Money if you would like to DONATE&#10;CASHAPP $iandavidsonii &#10;chime ~iandavidsonii&#10;&#10;#shorts Gods Way! Pisces King More videos Not Able to Post on Youtube Here:&#10;Gods Plan home workout dumbbells resistance band training calisthenics vs pilates for beginners | dragon ball z super goku my favorite loving man but always ready !&#10;&#10;SPIRITUAL SOUL WALK TALK YOUR TRUTH SPIRIT LIGHT WARRIOR &#10;&#10;Videos like: ralph smart spiritual so foster ebayy 5d beyond rashad jamal&#10;vontoocut enoch the freestyle prince | know who you are motivation talk&#10;&#10;twitter &#38; instagram only no onlyfans subscribe to my youtube duh!!!!!!!!!!!!!&#10;https://www.youtube.com/channel/UCamp6_z04UTsU-LqudfJPSA/&#10;&#10;Apple Music &#8220; Stream All Music For Shoutout! &#8220;&#10;&#10;https://music.apple.com/us/playlist/apple-music-daily-playlist/pl.u-zPyLl9RuZy0VVlx&#10;&#10;Spotify&#10;https://open.spotify.com/playlist/2uuFIKhRiWByza88a3WreS?si=lFpCRMGXSqePfCYWl3UZFQ&#38;dl_branch=1&#38;nd=1&#10;&#10;Comment Done , When Done !!"
+    channeltitle "Spiritual Soul"
+    channelid "UCamp6_z04UTsU-LqudfJPSA"
     favcount 0
-    viewcount 20466
-    likecount 833
-    commentcount 5
-    duration "PT16S"
+    viewcount 1106
+    likecount 25
+    commentcount 3
+    duration "PT1M"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 481
+    id 439
+    name "481"
     label "BRBuCndn8Io"
     step 0
     date "2019-01-27T06:38:03Z"
@@ -8379,12 +12312,21 @@ graph
     commentcount 44
     duration "PT5M22S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 482
+    id 440
+    name "482"
     label "V9wWvc8WhoY"
     step 0
     date "2022-07-10T19:52:32Z"
@@ -8398,12 +12340,21 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 1
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 483
+    id 441
+    name "483"
     label "xE3aMWTjNsE"
     step 0
     date "2022-07-11T01:15:06Z"
@@ -8417,12 +12368,21 @@ graph
     commentcount 1
     duration "PT6S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 484
+    id 442
+    name "484"
     label "DqAnCf6apMk"
     step 0
     date "2022-07-10T18:26:32Z"
@@ -8436,12 +12396,21 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 0
-    sentiment 1
-    cluster 11
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 485
+    id 443
+    name "485"
     label "hcL1MROgktA"
     step 0
     date "2022-07-10T12:34:49Z"
@@ -8455,50 +12424,77 @@ graph
     commentcount 0
     duration "PT18S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 12
+  ]
+  node
+  [
+    id 444
+    name "486"
+    label "SSdU1x87aB8"
+    step 0
+    date "2012-06-08T22:31:24Z"
+    title "BodyRock Ab Workout - Push It Up!"
+    description "Become a BodyRocker and Get in the best shape of your life at home for free. Don't miss a workout! &#10;Visit us here for all of our updates! (http://bit.ly/WebBRTV)&#10;&#10;Official BodyRock.Tv T-Shirts are available here: http://bit.ly/BRTVSHIRTS&#10;&#10;Connect and Follow us! We love hearing from you guys.&#10;&#10;Twitter: http://bit.ly/_BRTV_TWITTER&#10;Facebook (Main): http://on.fb.me/BRTVFacebook&#10;Facebook - Sean: http://on.fb.me/SEANBRHOST&#10;Facebook - Lisa: http://on.fb.me/BRTVLISA&#10;Facebook - Freddy: http://on.fb.me/FreddyBRTV&#10;Google+: http://bit.ly/BRTVGplus&#10;&#10;Links to all of the equipment that helps us get the most fat burn and tone in our workouts:&#10;&#10;Interval Timer: http://bit.ly/GYMBOSSTIMER&#10;SandBag: http://bit.ly/ULTSANDBAG&#10;Abs &#38; Dip Station: http://bit.ly/BPDIPBAR&#10;Weighted Soft Fitness Ball: http://bit.ly/UGIBALL&#10;BodyRocker Equalizer: http://bit.ly/LEBEQUALIZER&#10;&#10;Awesome Lean Protein &#38; Fat Loss Supplements: &#10;http://bit.ly/VITASOURCE&#10;&#10;Balance Ball, Skipping Rope, Exercise Mats &#38; Pull Up Bars: &#10;http://bit.ly/BPEQUIPMENT"
+    channeltitle "BodyRock TV"
+    channelid "UCuY1W4AwhhgkB6rsJBtltUA"
+    favcount 0
+    viewcount 649353
+    likecount 2172
+    commentcount 1
+    duration "PT4M53S"
+    indegree 0
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 9
   ]
   node
   [
-    id 487
-    label "H0f8NlfguFc"
+    id 445
+    name "488"
+    label "pF56shJVsQg"
     step 0
-    date "2022-07-10T08:50:30Z"
-    title "biceps back chest and ab #abs #short #bodybuildingonly #bodybuilding #gym #fitness"
-    description "biceps back chest and ab's workout &#128170;&#128170; #abs #short #bodybuildingonly #bodybuilding #gym #fitness all abs workout # #bodybuildingonlychest workout and ab's workout #bodybuildingonlychest workout &#128170;&#128170;&#128170; #bodybuildingonly7 time Mr Olympia &#128525;  Phil heath motivation &#128293; for gym sharks &#129327;&#128170;fitness video center india &#127470;&#127475; #shorts #video #fitness #gymbody #gymlife #youtube #viral #gymloverABDOMEN Exercise #shorts #shortfeeds #youtubeshorts #exercise #fitness #gymfitness #workout&#10;&#10;No.1bodybuilder in the world||mukesh choudhary bodybuilder #shorts #fitness #gym #gymmotivation #gym&#10;#shorts #viral #trending #trendingshorts #bodybuilder #bodybuilding #youtubeshorts #ytshorts #viralshorts&#10;No.1bodybuilder in the world||mukesh choudhary bodybuilder #shorts #fitness #gym #gymmotivation #gym&#10;ABDOMEN Exercise #shorts #shortfeeds #youtubeshorts #exercise #fitness #gymfitness #workout&#10;&#10;no.1bodybuilder in the world&#10;no.1bodybuilder in the world 2022&#10;no.1bodybuilder in the india&#10;no.1bodybuilder in the world 2021&#10;no.1bodybuilder in india&#10;no.1body grow&#10;no.1body spray in the body&#10;no.1 body in the bollywood&#10;no.1 body lotion in tha india&#10;no.1 bodybuilder in the world all time&#10;no.1 body&#10;no.1 body in world&#10;bodybuilder video&#10;bodybuilder song&#10;bodybuilder reels&#10;bodybuilder motivational video&#10;bodybuilder motivational reel&#10;bodybuilder tik tok&#10;bodybuilder status&#10;bodybuilder enstagram reels&#10;bodybuilder in police reaction india&#10;bodybuilder fitnas workout&#10;bodybuilder attitudee&#10;&#10;&#10;&#10;&#10;Your Query :-&#10;&#10;no.1bodybuilder in the world&#10;no.1bodybuilder in the world 2022&#10;no.1bodybuilder in the india&#10;no.1bodybuilder in the world 2021&#10;no.1bodybuilder in india&#10;no.1body grow&#10;no.1body spray in the body&#10;no.1 body in the bollywood&#10;no.1 body lotion in tha india&#10;no.1 bodybuilder in the world all time&#10;no.1 body&#10;no.1 body in world&#10;bodybuilder video&#10;bodybuilder song&#10;bodybuilder reels&#10;bodybuilder motivational video&#10;bodybuilder motivational reel&#10;bodybuilder tik tok&#10;bodybuilder status&#10;bodybuilder enstagram reels&#10;bodybuilder in police reaction india&#10;bodybuilder fitnas workout&#10;bodybuilder attitudee&#10;&#10;&#10;Mukesh choudhary l#bodybuilder#bodybuilding&#160;#shorts&#160;#fitness#viralshort&#160;#gm&#160;#ytshortsindia&#10;Mukesh choudhary l#bodybuilder #bodybuilding #shorts #fitness #viralshort #gm #ytshortsindia&#10;#shorts #shorts #bodybuilding #fitnessmotivation #mukeshchaudhary #fitness #mukeshchaudhary #bodybuilding #fitnessmotivation #bodybuilder #youtubeshorts #fitness #youtubeshorts #shorts #shorts #shorts #shorts #shorts #bodybuilding #shorts #bodybuilding #bodybuilding #fitnessmotivation #fitnessmotivation #fitnessmotivation #fitnessmotivation #youtubeshorts #youtubeshorts #youtubeshorts #youtubeshorts #viralshort #viralshort #viralshort #viralshort #mukeshchaudhary&#10;&#10;&#10;&#10;&#10;tags &#128071;&#128071;&#10;&#10;#rejection #love #motivation #quotes #selflove #inspiration #mentalhealth #depression #rejected #anxiety #healing #memes #success #faith #relationships #life #hurt #loveyourself #rejectionquotes #acceptance #relationship #instagood #funnymemes #motivationalquotes #bhfyp #rejectionhurts #meme #rejectionmeme #failure #bhfyp#dankmemes #relatablememes #loveadvise #friendzoneadvise #friendzone #kerala #christian #sad #fear #friendzonememe #jesus #hope #writersofinstagram #selfcare #wisdom #mentalhealthawareness #quoteoftheday #heart #truth #thoughts #poetry #forgiveness #lovequotes #sgmeme #believe #feelings #instagram #singaporememes #sgag #dil#fitnessmotivation #fitness #workout #gym #fit #motivation #bodybuilding #fitfam #training #gymlife #gymmotivation #healthylifestyle #fitnessjourney #fitnessmodel #lifestyle #fitnessgirl #health #personaltrainer #love #instagood #muscle #fitnessaddict #healthy #instafit #fitspo #exercise #crossfit #weightloss #sport #bhfyp#workoutmotivation #fitnesslife #like #fitnesslifestyle #bhfyp #instagram #goals #fitlife #fitnessgoals #happy #life #cardio #strong #inspiration #weightlossjourney #abs #yoga #photooftheday #photography #gains #nutrition #healthyfood #homeworkout #fitgirl #nevergiveup #bodybuilder #strength #nopainnogain #running #model&#10;&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. &#34; I personally do not own this song and the clips used in this video,the copyrights credit goes to the respective owners only   &#10;&#10;&#10;thanks for you &#10;please channel ko subscribe Jarur kar dena yaar&#10084;&#65039;&#10084;&#65039;&#10084;&#65039;&#128591;&#128591;&#128525;&#128077;&#127997;&#128077;&#127997;&#9995;&#9995;"
-    channeltitle "No.1bodybuilder Mukesh Choudhary"
-    channelid "UCmb8KuXv_5Ucs73uEdyBkGA"
+    date "2022-07-07T12:20:03Z"
+    title "#fullbodyabsworkout #shorts #youtubeshorts"
+    description "&#128170;&#128293; ABS WORKOUT For Men&#128170;&#128293;#fullbodyabsworkout #shorts #youtubeshorts &#10;&#10;#shorts #motivation #fitness #exercises #weightloss #exercise #homeworkout #workout #Yoga #foryou #sport&#10;#workout &#10;#gym &#10;#abs &#10;#absworkout &#10;#exercise &#10;#gymmotivation,&#10;#bodybuildingmotivation,&#10;#fullbodyworkout,&#10;#GYMStatusMotivationVideo,&#10;#losebellyfat,&#10;#bellyfat,&#10;#losebellyfatin10days,&#10;#workoutstolosebellyfatin10days,&#10;#10dayschallengetolosebellyfat,&#10;&#10;shorts,gym motivation,bodybuilding motivation,full body workout,GYM Status Motivation Video,lose belly fat,belly fat,lose belly fat in 10 days,workouts to lose belly fat in 10 days,10 days challenge to lose belly fat,10 days belly fat workout,10 days exercise for belly fat,belly fat reduction in 10 days,how to flatten your belly in 10 days,home workout,lose fat at home,work out exercise at home,healthywage,nich lmao and zoe,youtube shorts,#shorts&#10;&#10;start working out,burn fat,build muscle,best,chest,home,workout,bigger arms,abs,chrisheria.com,six pack,body weight,no gym,obliques workout,abs workout,from home workout,workout for abs,abs workout at home,workout at home,ab workout,lower abs workout,arms workout,booty workout,arm workout,10 min abs workout,abs workout for men,chloe ting,chloe ting abs,daisy keech,butt workout,abs workout for beginners,leg workout,abs workout at gym"
+    channeltitle "Health Coach"
+    channelid "UCh2T4UEgtk8yfMuh-A37xoQ"
     favcount 0
-    viewcount 34
-    likecount -1
-    commentcount 4
-    duration "PT7S"
-    indegree 0
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 489
-    label "jTg0YChrT9Y"
-    step 0
-    date "2022-07-07T15:41:58Z"
-    title "Top 5 best ab workouts , top 5 abs workout at gym"
-    description "Top 5 best ab workouts , top 5 abs workout at gym&#10;We are giving you a full week workout plan which includes exercises, sets and repetitions and the correct technique to perform them. Anyone can follow it; beginner, intermediate or advanced. The intensity of the workout will have to be considered as per everyone's capacity.&#10;M4 Muscle our mission is to build a platform that provides people with the knowledge, to reach their fitness and physique goals.&#10;&#1587;&#1576; &#1587;&#1746; &#1575;&#1608;&#1662;&#1585; 5 &#1575;&#1576; &#1608;&#1585;&#1586;&#1588;&#1548; &#1575;&#1576; &#1608;&#1585;&#1586;&#1588;&#1548; &#1705;&#1585;&#1606;&#1670; &#1608;&#1585;&#1586;&#1588;&#10;&#1729;&#1605; &#1570;&#1662; &#1705;&#1608; &#1662;&#1608;&#1585;&#1746; &#1729;&#1601;&#1578;&#1746; &#1705;&#1575; &#1608;&#1585;&#1586;&#1588; &#1705;&#1575; &#1605;&#1606;&#1589;&#1608;&#1576;&#1729; &#1583;&#1746; &#1585;&#1729;&#1746; &#1729;&#1740;&#1722; &#1580;&#1587; &#1605;&#1740;&#1722; &#1605;&#1588;&#1602;&#1740;&#1722;&#1548; &#1587;&#1740;&#1657; &#1575;&#1608;&#1585; &#1578;&#1705;&#1585;&#1575;&#1585; &#1575;&#1608;&#1585; &#1575;&#1606; &#1705;&#1608; &#1575;&#1606;&#1580;&#1575;&#1605; &#1583;&#1740;&#1606;&#1746; &#1705;&#1740; &#1589;&#1581;&#1740;&#1581; &#1578;&#1705;&#1606;&#1740;&#1705; &#1588;&#1575;&#1605;&#1604; &#1729;&#1746;&#1748; &#1705;&#1608;&#1574;&#1740; &#1576;&#1726;&#1740; &#1575;&#1587; &#1705;&#1740; &#1662;&#1740;&#1585;&#1608;&#1740; &#1705;&#1585;&#1587;&#1705;&#1578;&#1575; &#1729;&#1746;&#1748; &#1575;&#1576;&#1578;&#1583;&#1575;&#1574;&#1740;&#1548; &#1583;&#1585;&#1605;&#1740;&#1575;&#1606;&#1740; &#1740;&#1575; &#1575;&#1593;&#1604;&#1740; &#1583;&#1585;&#1580;&#1746; &#1705;&#1740;. &#1608;&#1585;&#1586;&#1588; &#1705;&#1740; &#1588;&#1583;&#1578; &#1705;&#1608; &#1729;&#1585; &#1575;&#1740;&#1705; &#1705;&#1740; &#1589;&#1604;&#1575;&#1581;&#1740;&#1578; &#1705;&#1746; &#1605;&#1591;&#1575;&#1576;&#1602; &#1587;&#1605;&#1580;&#1726;&#1606;&#1575; &#1729;&#1608;&#1711;&#1575;&#1748;&#10;M4 Muscle &#1729;&#1605;&#1575;&#1585;&#1575; &#1605;&#1588;&#1606; &#1575;&#1740;&#1705; &#1575;&#1740;&#1587;&#1575; &#1662;&#1604;&#1740;&#1657; &#1601;&#1575;&#1585;&#1605; &#1576;&#1606;&#1575;&#1606;&#1575; &#1729;&#1746; &#1580;&#1608; &#1604;&#1608;&#1711;&#1608;&#1722; &#1705;&#1608; &#1593;&#1604;&#1605; &#1601;&#1585;&#1575;&#1729;&#1605; &#1705;&#1585;&#1746;&#1548; &#1575;&#1606; &#1705;&#1740; &#1601;&#1657;&#1606;&#1587; &#1575;&#1608;&#1585; &#1580;&#1587;&#1605;&#1575;&#1606;&#1740; &#1605;&#1602;&#1575;&#1589;&#1583; &#1578;&#1705; &#1662;&#1729;&#1606;&#1670; &#1587;&#1705;&#1746;&#1748;&#10;https://www.facebook.com/M4-Muscle-106722262006283/?ref=pages_you_manage&#10;Chapters :-&#10;00:00 Introduction&#10;00:14 BODYWEIGHT CRUNCHE&#10;00:43 RUSSIAN TWIST&#10;01:14 SEATED JACKKAIFE&#10;01:43 INCLINE BENCH SIT-UPS&#10;02:15 LEG RAISES&#10;02:50 OUTRO"
-    channeltitle "M4 Muscle"
-    channelid "UCsLdWj9aXQOfevEGUDKJCXA"
-    favcount 0
-    viewcount 18
-    likecount 3
+    viewcount 1223
+    likecount 55
     commentcount 0
-    duration "PT2M51S"
+    duration "PT9S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 4
   ]
   node
   [
-    id 490
+    id 446
+    name "490"
     label "sKsn1Yozd7Q"
     step 0
     date "2020-07-15T18:00:22Z"
@@ -8512,12 +12508,21 @@ graph
     commentcount 96
     duration "PT10M41S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 491
+    id 447
+    name "491"
     label "9DSiY2OibL8"
     step 0
     date "2022-07-07T12:45:00Z"
@@ -8531,12 +12536,21 @@ graph
     commentcount 88
     duration "PT17M47S"
     indegree 0
-    sentiment 1
-    cluster 8
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 2
   ]
   node
   [
-    id 492
+    id 448
+    name "492"
     label "0Y9r_BNsWn4"
     step 0
     date "2021-03-26T16:30:00Z"
@@ -8550,31 +12564,49 @@ graph
     commentcount 273
     duration "PT2M46S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 8
   ]
   node
   [
-    id 494
-    label "pSILHJyCyFI"
+    id 449
+    name "493"
+    label "ovQm7amfglI"
     step 0
-    date "2022-07-08T15:35:04Z"
-    title "10 Minute AB workout - 2022 Edition!"
-    description "Ready to be FORGED by FITNESS with this insane 10 minute ab workout!?"
-    channeltitle "Forged By Fitness"
-    channelid "UCcBnTUPVVRlYPB7-zlB-pEg"
+    date "2022-07-08T11:35:45Z"
+    title "Ab workout 2022"
+    description "Ab workout"
+    channeltitle "Mel"
+    channelid "UCYjOfCbj8S6Jofzworxstug"
     favcount 0
-    viewcount 0
-    likecount 0
+    viewcount 24
+    likecount 1
     commentcount 0
-    duration "PT11M18S"
+    duration "PT8M30S"
     indegree 0
-    sentiment 1
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
     cluster 3
   ]
   node
   [
-    id 495
+    id 450
+    name "495"
     label "94nvIsOVIMI"
     step 0
     date "2022-07-10T22:12:16Z"
@@ -8588,12 +12620,21 @@ graph
     commentcount 0
     duration "PT1M38S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 496
+    id 451
+    name "496"
     label "KrFjkL1Lr7s"
     step 0
     date "2022-07-09T08:52:25Z"
@@ -8607,12 +12648,21 @@ graph
     commentcount 0
     duration "PT14S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   node
   [
-    id 497
+    id 452
+    name "497"
     label "JNapIEzAGB4"
     step 0
     date "2022-07-10T08:24:03Z"
@@ -8626,27 +12676,44 @@ graph
     commentcount 0
     duration "PT3M19S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 9
   ]
   node
   [
-    id 503
-    label "0KLKt2kYgtw"
+    id 453
+    name "498"
+    label "4lju6oOUH7s"
     step 0
-    date "2022-07-09T10:43:33Z"
-    title "Another ABS olutely killer ab workout coming your way "
-    description ""
-    channeltitle "The Zeal"
-    channelid "UCx0vgtkEO5ZkTJyCm_ZdG-w"
+    date "2022-07-09T22:28:33Z"
+    title "7 min easy AB WORKOUT for small waist"
+    description "Follow along easy simple 7 min ab workout for toned ab muscles and small waist&#10084;&#65039;&#10024;&#128293; plz like and subscribe for more!! Hope this helped&#128522;"
+    channeltitle "#doitforyou"
+    channelid "UCvcD0vflSznqOIkfNHJlx2A"
     favcount 0
-    viewcount 1102
-    likecount 17
+    viewcount 5
+    likecount 1
     commentcount 0
-    duration "PT14S"
+    duration "PT6M55S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEPROFANITY NaN
+    sentiment NaN
+    cluster 4
   ]
   edge
   [
@@ -8681,7 +12748,7 @@ graph
   edge
   [
     source 0
-    target 390
+    target 370
     rank 14
   ]
   edge
@@ -8765,7 +12832,7 @@ graph
   edge
   [
     source 2
-    target 390
+    target 370
     rank 6
   ]
   edge
@@ -8777,7 +12844,7 @@ graph
   edge
   [
     source 2
-    target 211
+    target 208
     rank 10
   ]
   edge
@@ -8801,7 +12868,7 @@ graph
   edge
   [
     source 2
-    target 406
+    target 382
     rank 18
   ]
   edge
@@ -8813,7 +12880,7 @@ graph
   edge
   [
     source 2
-    target 190
+    target 189
     rank 20
   ]
   edge
@@ -8903,7 +12970,7 @@ graph
   edge
   [
     source 4
-    target 318
+    target 310
     rank 10
   ]
   edge
@@ -8975,7 +13042,7 @@ graph
   edge
   [
     source 6
-    target 390
+    target 370
     rank 7
   ]
   edge
@@ -9011,7 +13078,7 @@ graph
   edge
   [
     source 6
-    target 406
+    target 382
     rank 15
   ]
   edge
@@ -9023,7 +13090,7 @@ graph
   edge
   [
     source 6
-    target 211
+    target 208
     rank 19
   ]
   edge
@@ -9041,7 +13108,7 @@ graph
   edge
   [
     source 7
-    target 179
+    target 178
     rank 6
   ]
   edge
@@ -9089,7 +13156,7 @@ graph
   edge
   [
     source 8
-    target 168
+    target 167
     rank 4
   ]
   edge
@@ -9101,7 +13168,7 @@ graph
   edge
   [
     source 8
-    target 179
+    target 178
     rank 6
   ]
   edge
@@ -9113,7 +13180,7 @@ graph
   edge
   [
     source 8
-    target 269
+    target 263
     rank 9
   ]
   edge
@@ -9137,7 +13204,7 @@ graph
   edge
   [
     source 9
-    target 390
+    target 370
     rank 3
   ]
   edge
@@ -9149,7 +13216,7 @@ graph
   edge
   [
     source 9
-    target 211
+    target 208
     rank 5
   ]
   edge
@@ -9167,7 +13234,7 @@ graph
   edge
   [
     source 9
-    target 406
+    target 382
     rank 11
   ]
   edge
@@ -9191,13 +13258,13 @@ graph
   edge
   [
     source 9
-    target 190
+    target 189
     rank 18
   ]
   edge
   [
     source 10
-    target 390
+    target 370
     rank 3
   ]
   edge
@@ -9227,13 +13294,13 @@ graph
   edge
   [
     source 10
-    target 219
+    target 216
     rank 12
   ]
   edge
   [
     source 10
-    target 425
+    target 396
     rank 15
   ]
   edge
@@ -9365,13 +13432,13 @@ graph
   edge
   [
     source 13
-    target 188
+    target 187
     rank 5
   ]
   edge
   [
     source 13
-    target 296
+    target 288
     rank 6
   ]
   edge
@@ -9419,7 +13486,7 @@ graph
   edge
   [
     source 13
-    target 279
+    target 273
     rank 19
   ]
   edge
@@ -9497,7 +13564,7 @@ graph
   edge
   [
     source 15
-    target 390
+    target 370
     rank 6
   ]
   edge
@@ -9515,7 +13582,7 @@ graph
   edge
   [
     source 15
-    target 185
+    target 184
     rank 11
   ]
   edge
@@ -9533,7 +13600,7 @@ graph
   edge
   [
     source 16
-    target 390
+    target 370
     rank 6
   ]
   edge
@@ -9557,7 +13624,7 @@ graph
   edge
   [
     source 16
-    target 406
+    target 382
     rank 15
   ]
   edge
@@ -9593,13 +13660,13 @@ graph
   edge
   [
     source 17
-    target 168
+    target 167
     rank 6
   ]
   edge
   [
     source 17
-    target 390
+    target 370
     rank 7
   ]
   edge
@@ -9635,7 +13702,7 @@ graph
   edge
   [
     source 17
-    target 269
+    target 263
     rank 20
   ]
   edge
@@ -9689,7 +13756,7 @@ graph
   edge
   [
     source 19
-    target 237
+    target 232
     rank 1
   ]
   edge
@@ -9701,13 +13768,13 @@ graph
   edge
   [
     source 19
-    target 390
+    target 370
     rank 6
   ]
   edge
   [
     source 19
-    target 217
+    target 214
     rank 10
   ]
   edge
@@ -9755,7 +13822,7 @@ graph
   edge
   [
     source 20
-    target 212
+    target 209
     rank 8
   ]
   edge
@@ -9863,7 +13930,7 @@ graph
   edge
   [
     source 22
-    target 390
+    target 370
     rank 6
   ]
   edge
@@ -9911,7 +13978,7 @@ graph
   edge
   [
     source 23
-    target 238
+    target 233
     rank 4
   ]
   edge
@@ -9929,13 +13996,13 @@ graph
   edge
   [
     source 23
-    target 210
+    target 207
     rank 8
   ]
   edge
   [
     source 23
-    target 221
+    target 218
     rank 14
   ]
   edge
@@ -10001,7 +14068,7 @@ graph
   edge
   [
     source 26
-    target 390
+    target 370
     rank 6
   ]
   edge
@@ -10013,7 +14080,7 @@ graph
   edge
   [
     source 26
-    target 425
+    target 396
     rank 10
   ]
   edge
@@ -10037,7 +14104,7 @@ graph
   edge
   [
     source 26
-    target 249
+    target 243
     rank 14
   ]
   edge
@@ -10079,7 +14146,7 @@ graph
   edge
   [
     source 27
-    target 245
+    target 240
     rank 5
   ]
   edge
@@ -10109,13 +14176,13 @@ graph
   edge
   [
     source 27
-    target 221
+    target 218
     rank 12
   ]
   edge
   [
     source 27
-    target 163
+    target 162
     rank 13
   ]
   edge
@@ -10157,7 +14224,7 @@ graph
   edge
   [
     source 28
-    target 250
+    target 244
     rank 13
   ]
   edge
@@ -10181,7 +14248,7 @@ graph
   edge
   [
     source 29
-    target 194
+    target 193
     rank 17
   ]
   edge
@@ -10217,7 +14284,7 @@ graph
   edge
   [
     source 30
-    target 160
+    target 159
     rank 9
   ]
   edge
@@ -10253,7 +14320,7 @@ graph
   edge
   [
     source 31
-    target 390
+    target 370
     rank 3
   ]
   edge
@@ -10295,7 +14362,7 @@ graph
   edge
   [
     source 31
-    target 406
+    target 382
     rank 17
   ]
   edge
@@ -10307,7 +14374,7 @@ graph
   edge
   [
     source 32
-    target 168
+    target 167
     rank 1
   ]
   edge
@@ -10337,7 +14404,7 @@ graph
   edge
   [
     source 32
-    target 179
+    target 178
     rank 11
   ]
   edge
@@ -10349,7 +14416,7 @@ graph
   edge
   [
     source 32
-    target 173
+    target 172
     rank 13
   ]
   edge
@@ -10379,7 +14446,7 @@ graph
   edge
   [
     source 33
-    target 179
+    target 178
     rank 8
   ]
   edge
@@ -10529,7 +14596,7 @@ graph
   edge
   [
     source 35
-    target 165
+    target 164
     rank 17
   ]
   edge
@@ -10559,7 +14626,7 @@ graph
   edge
   [
     source 36
-    target 203
+    target 201
     rank 15
   ]
   edge
@@ -10571,19 +14638,19 @@ graph
   edge
   [
     source 37
-    target 296
+    target 288
     rank 2
   ]
   edge
   [
     source 37
-    target 217
+    target 214
     rank 6
   ]
   edge
   [
     source 37
-    target 193
+    target 192
     rank 7
   ]
   edge
@@ -10601,7 +14668,7 @@ graph
   edge
   [
     source 37
-    target 191
+    target 190
     rank 12
   ]
   edge
@@ -10619,13 +14686,13 @@ graph
   edge
   [
     source 37
-    target 158
+    target 157
     rank 17
   ]
   edge
   [
     source 38
-    target 188
+    target 187
     rank 3
   ]
   edge
@@ -10655,7 +14722,7 @@ graph
   edge
   [
     source 38
-    target 247
+    target 242
     rank 16
   ]
   edge
@@ -10685,13 +14752,13 @@ graph
   edge
   [
     source 39
-    target 252
+    target 246
     rank 8
   ]
   edge
   [
     source 39
-    target 290
+    target 282
     rank 11
   ]
   edge
@@ -10709,7 +14776,7 @@ graph
   edge
   [
     source 39
-    target 223
+    target 220
     rank 16
   ]
   edge
@@ -10775,13 +14842,13 @@ graph
   edge
   [
     source 42
-    target 249
+    target 243
     rank 1
   ]
   edge
   [
     source 42
-    target 194
+    target 193
     rank 3
   ]
   edge
@@ -10793,7 +14860,7 @@ graph
   edge
   [
     source 42
-    target 390
+    target 370
     rank 5
   ]
   edge
@@ -10847,7 +14914,7 @@ graph
   edge
   [
     source 42
-    target 204
+    target 202
     rank 20
   ]
   edge
@@ -10889,13 +14956,13 @@ graph
   edge
   [
     source 43
-    target 197
+    target 195
     rank 13
   ]
   edge
   [
     source 43
-    target 232
+    target 228
     rank 14
   ]
   edge
@@ -10907,7 +14974,7 @@ graph
   edge
   [
     source 43
-    target 207
+    target 204
     rank 18
   ]
   edge
@@ -10937,7 +15004,7 @@ graph
   edge
   [
     source 44
-    target 194
+    target 193
     rank 7
   ]
   edge
@@ -10949,7 +15016,7 @@ graph
   edge
   [
     source 44
-    target 179
+    target 178
     rank 10
   ]
   edge
@@ -10985,19 +15052,19 @@ graph
   edge
   [
     source 45
-    target 191
+    target 190
     rank 3
   ]
   edge
   [
     source 45
-    target 193
+    target 192
     rank 4
   ]
   edge
   [
     source 45
-    target 296
+    target 288
     rank 7
   ]
   edge
@@ -11027,7 +15094,7 @@ graph
   edge
   [
     source 45
-    target 279
+    target 273
     rank 17
   ]
   edge
@@ -11159,7 +15226,7 @@ graph
   edge
   [
     source 49
-    target 188
+    target 187
     rank 3
   ]
   edge
@@ -11219,13 +15286,13 @@ graph
   edge
   [
     source 50
-    target 188
+    target 187
     rank 12
   ]
   edge
   [
     source 50
-    target 194
+    target 193
     rank 13
   ]
   edge
@@ -11237,7 +15304,7 @@ graph
   edge
   [
     source 51
-    target 243
+    target 238
     rank 11
   ]
   edge
@@ -11273,7 +15340,7 @@ graph
   edge
   [
     source 52
-    target 208
+    target 205
     rank 7
   ]
   edge
@@ -11333,7 +15400,7 @@ graph
   edge
   [
     source 53
-    target 212
+    target 209
     rank 10
   ]
   edge
@@ -11345,7 +15412,7 @@ graph
   edge
   [
     source 53
-    target 203
+    target 201
     rank 15
   ]
   edge
@@ -11363,13 +15430,13 @@ graph
   edge
   [
     source 54
-    target 296
+    target 288
     rank 4
   ]
   edge
   [
     source 54
-    target 193
+    target 192
     rank 8
   ]
   edge
@@ -11399,7 +15466,7 @@ graph
   edge
   [
     source 54
-    target 279
+    target 273
     rank 17
   ]
   edge
@@ -11429,7 +15496,7 @@ graph
   edge
   [
     source 56
-    target 249
+    target 243
     rank 4
   ]
   edge
@@ -11465,7 +15532,7 @@ graph
   edge
   [
     source 58
-    target 211
+    target 208
     rank 6
   ]
   edge
@@ -11477,7 +15544,7 @@ graph
   edge
   [
     source 58
-    target 390
+    target 370
     rank 8
   ]
   edge
@@ -11495,7 +15562,7 @@ graph
   edge
   [
     source 58
-    target 406
+    target 382
     rank 13
   ]
   edge
@@ -11573,7 +15640,7 @@ graph
   edge
   [
     source 59
-    target 168
+    target 167
     rank 19
   ]
   edge
@@ -11633,7 +15700,7 @@ graph
   edge
   [
     source 61
-    target 390
+    target 370
     rank 5
   ]
   edge
@@ -11651,7 +15718,7 @@ graph
   edge
   [
     source 61
-    target 269
+    target 263
     rank 9
   ]
   edge
@@ -11687,7 +15754,7 @@ graph
   edge
   [
     source 62
-    target 227
+    target 223
     rank 11
   ]
   edge
@@ -11753,7 +15820,7 @@ graph
   edge
   [
     source 64
-    target 159
+    target 158
     rank 5
   ]
   edge
@@ -11765,7 +15832,7 @@ graph
   edge
   [
     source 64
-    target 390
+    target 370
     rank 7
   ]
   edge
@@ -11807,13 +15874,13 @@ graph
   edge
   [
     source 65
-    target 390
+    target 370
     rank 18
   ]
   edge
   [
     source 65
-    target 425
+    target 396
     rank 19
   ]
   edge
@@ -11831,13 +15898,13 @@ graph
   edge
   [
     source 66
-    target 277
+    target 271
     rank 11
   ]
   edge
   [
     source 66
-    target 208
+    target 205
     rank 14
   ]
   edge
@@ -11849,7 +15916,7 @@ graph
   edge
   [
     source 67
-    target 390
+    target 370
     rank 5
   ]
   edge
@@ -11891,7 +15958,7 @@ graph
   edge
   [
     source 68
-    target 390
+    target 370
     rank 5
   ]
   edge
@@ -12005,13 +16072,13 @@ graph
   edge
   [
     source 71
-    target 201
+    target 199
     rank 1
   ]
   edge
   [
     source 71
-    target 254
+    target 248
     rank 5
   ]
   edge
@@ -12029,7 +16096,7 @@ graph
   edge
   [
     source 71
-    target 168
+    target 167
     rank 13
   ]
   edge
@@ -12059,7 +16126,7 @@ graph
   edge
   [
     source 72
-    target 390
+    target 370
     rank 6
   ]
   edge
@@ -12071,7 +16138,7 @@ graph
   edge
   [
     source 72
-    target 211
+    target 208
     rank 10
   ]
   edge
@@ -12107,13 +16174,13 @@ graph
   edge
   [
     source 72
-    target 406
+    target 382
     rank 19
   ]
   edge
   [
     source 73
-    target 247
+    target 242
     rank 3
   ]
   edge
@@ -12131,7 +16198,7 @@ graph
   edge
   [
     source 73
-    target 193
+    target 192
     rank 12
   ]
   edge
@@ -12161,7 +16228,7 @@ graph
   edge
   [
     source 74
-    target 390
+    target 370
     rank 9
   ]
   edge
@@ -12185,7 +16252,7 @@ graph
   edge
   [
     source 74
-    target 190
+    target 189
     rank 17
   ]
   edge
@@ -12203,13 +16270,13 @@ graph
   edge
   [
     source 75
-    target 390
+    target 370
     rank 2
   ]
   edge
   [
     source 75
-    target 295
+    target 287
     rank 3
   ]
   edge
@@ -12221,7 +16288,7 @@ graph
   edge
   [
     source 75
-    target 242
+    target 237
     rank 7
   ]
   edge
@@ -12233,13 +16300,13 @@ graph
   edge
   [
     source 75
-    target 189
+    target 188
     rank 12
   ]
   edge
   [
     source 75
-    target 425
+    target 396
     rank 13
   ]
   edge
@@ -12257,7 +16324,7 @@ graph
   edge
   [
     source 76
-    target 188
+    target 187
     rank 3
   ]
   edge
@@ -12323,7 +16390,7 @@ graph
   edge
   [
     source 78
-    target 188
+    target 187
     rank 3
   ]
   edge
@@ -12353,13 +16420,13 @@ graph
   edge
   [
     source 78
-    target 247
+    target 242
     rank 15
   ]
   edge
   [
     source 78
-    target 270
+    target 264
     rank 19
   ]
   edge
@@ -12371,7 +16438,7 @@ graph
   edge
   [
     source 79
-    target 390
+    target 370
     rank 6
   ]
   edge
@@ -12395,7 +16462,7 @@ graph
   edge
   [
     source 79
-    target 242
+    target 237
     rank 10
   ]
   edge
@@ -12407,7 +16474,7 @@ graph
   edge
   [
     source 79
-    target 186
+    target 185
     rank 12
   ]
   edge
@@ -12437,7 +16504,7 @@ graph
   edge
   [
     source 80
-    target 390
+    target 370
     rank 3
   ]
   edge
@@ -12455,7 +16522,7 @@ graph
   edge
   [
     source 80
-    target 211
+    target 208
     rank 7
   ]
   edge
@@ -12485,7 +16552,7 @@ graph
   edge
   [
     source 80
-    target 406
+    target 382
     rank 16
   ]
   edge
@@ -12515,13 +16582,13 @@ graph
   edge
   [
     source 81
-    target 160
+    target 159
     rank 14
   ]
   edge
   [
     source 81
-    target 177
+    target 176
     rank 15
   ]
   edge
@@ -12533,7 +16600,7 @@ graph
   edge
   [
     source 82
-    target 235
+    target 230
     rank 1
   ]
   edge
@@ -12557,7 +16624,7 @@ graph
   edge
   [
     source 82
-    target 168
+    target 167
     rank 16
   ]
   edge
@@ -12569,13 +16636,13 @@ graph
   edge
   [
     source 83
-    target 227
+    target 223
     rank 7
   ]
   edge
   [
     source 83
-    target 173
+    target 172
     rank 18
   ]
   edge
@@ -12641,7 +16708,7 @@ graph
   edge
   [
     source 85
-    target 227
+    target 223
     rank 6
   ]
   edge
@@ -12737,7 +16804,7 @@ graph
   edge
   [
     source 87
-    target 227
+    target 223
     rank 5
   ]
   edge
@@ -12791,7 +16858,7 @@ graph
   edge
   [
     source 88
-    target 179
+    target 178
     rank 8
   ]
   edge
@@ -12881,19 +16948,19 @@ graph
   edge
   [
     source 89
-    target 232
+    target 228
     rank 15
   ]
   edge
   [
     source 89
-    target 318
+    target 310
     rank 16
   ]
   edge
   [
     source 89
-    target 181
+    target 180
     rank 19
   ]
   edge
@@ -12911,7 +16978,7 @@ graph
   edge
   [
     source 91
-    target 249
+    target 243
     rank 3
   ]
   edge
@@ -13025,7 +17092,7 @@ graph
   edge
   [
     source 93
-    target 306
+    target 298
     rank 5
   ]
   edge
@@ -13067,7 +17134,7 @@ graph
   edge
   [
     source 95
-    target 206
+    target 203
     rank 18
   ]
   edge
@@ -13103,7 +17170,7 @@ graph
   edge
   [
     source 97
-    target 390
+    target 370
     rank 8
   ]
   edge
@@ -13127,7 +17194,7 @@ graph
   edge
   [
     source 97
-    target 330
+    target 319
     rank 17
   ]
   edge
@@ -13157,7 +17224,7 @@ graph
   edge
   [
     source 98
-    target 390
+    target 370
     rank 4
   ]
   edge
@@ -13205,13 +17272,13 @@ graph
   edge
   [
     source 98
-    target 327
+    target 316
     rank 12
   ]
   edge
   [
     source 98
-    target 425
+    target 396
     rank 13
   ]
   edge
@@ -13229,13 +17296,13 @@ graph
   edge
   [
     source 98
-    target 278
+    target 272
     rank 19
   ]
   edge
   [
     source 98
-    target 204
+    target 202
     rank 20
   ]
   edge
@@ -13307,7 +17374,7 @@ graph
   edge
   [
     source 101
-    target 236
+    target 231
     rank 8
   ]
   edge
@@ -13325,7 +17392,7 @@ graph
   edge
   [
     source 102
-    target 238
+    target 233
     rank 9
   ]
   edge
@@ -13349,13 +17416,13 @@ graph
   edge
   [
     source 102
-    target 221
+    target 218
     rank 16
   ]
   edge
   [
     source 102
-    target 210
+    target 207
     rank 17
   ]
   edge
@@ -13379,7 +17446,7 @@ graph
   edge
   [
     source 103
-    target 186
+    target 185
     rank 19
   ]
   edge
@@ -13397,7 +17464,7 @@ graph
   edge
   [
     source 104
-    target 212
+    target 209
     rank 7
   ]
   edge
@@ -13427,7 +17494,7 @@ graph
   edge
   [
     source 104
-    target 163
+    target 162
     rank 14
   ]
   edge
@@ -13457,7 +17524,7 @@ graph
   edge
   [
     source 106
-    target 390
+    target 370
     rank 9
   ]
   edge
@@ -13487,7 +17554,7 @@ graph
   edge
   [
     source 106
-    target 406
+    target 382
     rank 19
   ]
   edge
@@ -13499,7 +17566,7 @@ graph
   edge
   [
     source 107
-    target 236
+    target 231
     rank 12
   ]
   edge
@@ -13511,7 +17578,7 @@ graph
   edge
   [
     source 108
-    target 221
+    target 218
     rank 3
   ]
   edge
@@ -13529,13 +17596,13 @@ graph
   edge
   [
     source 108
-    target 210
+    target 207
     rank 9
   ]
   edge
   [
     source 108
-    target 238
+    target 233
     rank 11
   ]
   edge
@@ -13559,7 +17626,7 @@ graph
   edge
   [
     source 108
-    target 163
+    target 162
     rank 18
   ]
   edge
@@ -13649,7 +17716,7 @@ graph
   edge
   [
     source 111
-    target 179
+    target 178
     rank 8
   ]
   edge
@@ -13667,7 +17734,7 @@ graph
   edge
   [
     source 111
-    target 168
+    target 167
     rank 11
   ]
   edge
@@ -13709,7 +17776,7 @@ graph
   edge
   [
     source 113
-    target 235
+    target 230
     rank 1
   ]
   edge
@@ -13733,25 +17800,25 @@ graph
   edge
   [
     source 113
-    target 206
+    target 203
     rank 18
   ]
   edge
   [
     source 113
-    target 285
+    target 278
     rank 20
   ]
   edge
   [
     source 114
-    target 201
+    target 199
     rank 1
   ]
   edge
   [
     source 114
-    target 288
+    target 281
     rank 4
   ]
   edge
@@ -13763,13 +17830,13 @@ graph
   edge
   [
     source 114
-    target 243
+    target 238
     rank 9
   ]
   edge
   [
     source 114
-    target 254
+    target 248
     rank 11
   ]
   edge
@@ -13793,7 +17860,7 @@ graph
   edge
   [
     source 115
-    target 390
+    target 370
     rank 5
   ]
   edge
@@ -13817,7 +17884,7 @@ graph
   edge
   [
     source 115
-    target 211
+    target 208
     rank 15
   ]
   edge
@@ -13829,7 +17896,7 @@ graph
   edge
   [
     source 115
-    target 190
+    target 189
     rank 18
   ]
   edge
@@ -13883,7 +17950,7 @@ graph
   edge
   [
     source 117
-    target 390
+    target 370
     rank 4
   ]
   edge
@@ -13919,7 +17986,7 @@ graph
   edge
   [
     source 117
-    target 175
+    target 174
     rank 12
   ]
   edge
@@ -14003,7 +18070,7 @@ graph
   edge
   [
     source 119
-    target 390
+    target 370
     rank 3
   ]
   edge
@@ -14051,7 +18118,7 @@ graph
   edge
   [
     source 120
-    target 276
+    target 270
     rank 5
   ]
   edge
@@ -14093,7 +18160,7 @@ graph
   edge
   [
     source 120
-    target 208
+    target 205
     rank 17
   ]
   edge
@@ -14105,7 +18172,7 @@ graph
   edge
   [
     source 121
-    target 157
+    target 156
     rank 6
   ]
   edge
@@ -14135,13 +18202,13 @@ graph
   edge
   [
     source 122
-    target 210
+    target 207
     rank 8
   ]
   edge
   [
     source 122
-    target 238
+    target 233
     rank 9
   ]
   edge
@@ -14165,7 +18232,7 @@ graph
   edge
   [
     source 122
-    target 163
+    target 162
     rank 20
   ]
   edge
@@ -14177,7 +18244,7 @@ graph
   edge
   [
     source 123
-    target 251
+    target 245
     rank 3
   ]
   edge
@@ -14213,7 +18280,7 @@ graph
   edge
   [
     source 123
-    target 227
+    target 223
     rank 14
   ]
   edge
@@ -14225,13 +18292,13 @@ graph
   edge
   [
     source 124
-    target 226
+    target 222
     rank 3
   ]
   edge
   [
     source 124
-    target 250
+    target 244
     rank 5
   ]
   edge
@@ -14261,7 +18328,7 @@ graph
   edge
   [
     source 126
-    target 318
+    target 310
     rank 6
   ]
   edge
@@ -14321,7 +18388,7 @@ graph
   edge
   [
     source 127
-    target 186
+    target 185
     rank 9
   ]
   edge
@@ -14363,7 +18430,7 @@ graph
   edge
   [
     source 128
-    target 168
+    target 167
     rank 3
   ]
   edge
@@ -14417,13 +18484,13 @@ graph
   edge
   [
     source 130
-    target 221
+    target 218
     rank 5
   ]
   edge
   [
     source 130
-    target 238
+    target 233
     rank 8
   ]
   edge
@@ -14435,7 +18502,7 @@ graph
   edge
   [
     source 130
-    target 210
+    target 207
     rank 16
   ]
   edge
@@ -14555,7 +18622,7 @@ graph
   edge
   [
     source 133
-    target 204
+    target 202
     rank 16
   ]
   edge
@@ -14573,7 +18640,7 @@ graph
   edge
   [
     source 134
-    target 249
+    target 243
     rank 5
   ]
   edge
@@ -14597,7 +18664,7 @@ graph
   edge
   [
     source 135
-    target 390
+    target 370
     rank 2
   ]
   edge
@@ -14621,7 +18688,7 @@ graph
   edge
   [
     source 135
-    target 249
+    target 243
     rank 11
   ]
   edge
@@ -14633,7 +18700,7 @@ graph
   edge
   [
     source 135
-    target 194
+    target 193
     rank 15
   ]
   edge
@@ -14651,7 +18718,7 @@ graph
   edge
   [
     source 135
-    target 425
+    target 396
     rank 19
   ]
   edge
@@ -14663,25 +18730,25 @@ graph
   edge
   [
     source 136
-    target 425
+    target 396
     rank 1
   ]
   edge
   [
     source 136
-    target 200
+    target 198
     rank 4
   ]
   edge
   [
     source 136
-    target 390
+    target 370
     rank 5
   ]
   edge
   [
     source 136
-    target 185
+    target 184
     rank 7
   ]
   edge
@@ -14699,7 +18766,7 @@ graph
   edge
   [
     source 136
-    target 287
+    target 280
     rank 14
   ]
   edge
@@ -14711,7 +18778,7 @@ graph
   edge
   [
     source 136
-    target 308
+    target 300
     rank 20
   ]
   edge
@@ -14813,7 +18880,7 @@ graph
   edge
   [
     source 139
-    target 390
+    target 370
     rank 10
   ]
   edge
@@ -14849,7 +18916,7 @@ graph
   edge
   [
     source 140
-    target 167
+    target 166
     rank 17
   ]
   edge
@@ -14867,7 +18934,7 @@ graph
   edge
   [
     source 141
-    target 390
+    target 370
     rank 4
   ]
   edge
@@ -14897,19 +18964,19 @@ graph
   edge
   [
     source 141
-    target 327
+    target 316
     rank 11
   ]
   edge
   [
     source 141
-    target 232
+    target 228
     rank 12
   ]
   edge
   [
     source 141
-    target 242
+    target 237
     rank 13
   ]
   edge
@@ -14969,7 +19036,7 @@ graph
   edge
   [
     source 142
-    target 390
+    target 370
     rank 4
   ]
   edge
@@ -15047,7 +19114,7 @@ graph
   edge
   [
     source 143
-    target 390
+    target 370
     rank 3
   ]
   edge
@@ -15065,13 +19132,13 @@ graph
   edge
   [
     source 143
-    target 204
+    target 202
     rank 7
   ]
   edge
   [
     source 143
-    target 249
+    target 243
     rank 9
   ]
   edge
@@ -15095,7 +19162,7 @@ graph
   edge
   [
     source 143
-    target 425
+    target 396
     rank 14
   ]
   edge
@@ -15143,7 +19210,7 @@ graph
   edge
   [
     source 144
-    target 207
+    target 204
     rank 17
   ]
   edge
@@ -15203,7 +19270,7 @@ graph
   edge
   [
     source 147
-    target 318
+    target 310
     rank 8
   ]
   edge
@@ -15227,7 +19294,7 @@ graph
   edge
   [
     source 147
-    target 232
+    target 228
     rank 13
   ]
   edge
@@ -15239,7 +19306,7 @@ graph
   edge
   [
     source 148
-    target 167
+    target 166
     rank 8
   ]
   edge
@@ -15251,7 +19318,7 @@ graph
   edge
   [
     source 148
-    target 229
+    target 225
     rank 18
   ]
   edge
@@ -15275,19 +19342,19 @@ graph
   edge
   [
     source 150
-    target 235
+    target 230
     rank 1
   ]
   edge
   [
     source 150
-    target 208
+    target 205
     rank 2
   ]
   edge
   [
     source 150
-    target 168
+    target 167
     rank 3
   ]
   edge
@@ -15311,7 +19378,7 @@ graph
   edge
   [
     source 150
-    target 276
+    target 270
     rank 15
   ]
   edge
@@ -15323,7 +19390,7 @@ graph
   edge
   [
     source 150
-    target 174
+    target 173
     rank 20
   ]
   edge
@@ -15335,7 +19402,7 @@ graph
   edge
   [
     source 151
-    target 318
+    target 310
     rank 4
   ]
   edge
@@ -15371,7 +19438,7 @@ graph
   edge
   [
     source 151
-    target 232
+    target 228
     rank 18
   ]
   edge
@@ -15383,7 +19450,7 @@ graph
   edge
   [
     source 152
-    target 204
+    target 202
     rank 2
   ]
   edge
@@ -15425,7 +19492,7 @@ graph
   edge
   [
     source 152
-    target 249
+    target 243
     rank 16
   ]
   edge
@@ -15461,7 +19528,7 @@ graph
   edge
   [
     source 153
-    target 277
+    target 271
     rank 8
   ]
   edge
@@ -15479,7 +19546,7 @@ graph
   edge
   [
     source 153
-    target 208
+    target 205
     rank 18
   ]
   edge
@@ -15503,7837 +19570,7831 @@ graph
   edge
   [
     source 154
-    target 229
+    target 225
     rank 9
   ]
   edge
   [
-    source 156
+    source 155
     target 25
     rank 3
   ]
   edge
   [
-    source 156
+    source 155
     target 86
     rank 4
   ]
   edge
   [
-    source 156
+    source 155
     target 77
     rank 6
   ]
   edge
   [
+    source 155
+    target 55
+    rank 9
+  ]
+  edge
+  [
+    source 155
+    target 99
+    rank 15
+  ]
+  edge
+  [
+    source 155
+    target 172
+    rank 17
+  ]
+  edge
+  [
     source 156
-    target 55
-    rank 9
+    target 175
+    rank 2
   ]
   edge
   [
     source 156
-    target 99
-    rank 15
+    target 219
+    rank 6
   ]
   edge
   [
     source 156
-    target 173
-    rank 17
+    target 226
+    rank 7
+  ]
+  edge
+  [
+    source 156
+    target 236
+    rank 12
   ]
   edge
   [
     source 157
-    target 176
-    rank 2
-  ]
-  edge
-  [
-    source 157
-    target 222
-    rank 6
-  ]
-  edge
-  [
-    source 157
-    target 230
-    rank 7
-  ]
-  edge
-  [
-    source 157
-    target 241
-    rank 12
-  ]
-  edge
-  [
-    source 158
-    target 296
-    rank 5
-  ]
-  edge
-  [
-    source 158
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 158
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 158
-    target 173
-    rank 9
-  ]
-  edge
-  [
-    source 158
-    target 217
-    rank 11
-  ]
-  edge
-  [
-    source 158
-    target 109
-    rank 15
-  ]
-  edge
-  [
-    source 158
-    target 45
-    rank 18
-  ]
-  edge
-  [
-    source 159
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 159
-    target 390
-    rank 3
-  ]
-  edge
-  [
-    source 159
-    target 211
-    rank 7
-  ]
-  edge
-  [
-    source 159
-    target 64
-    rank 8
-  ]
-  edge
-  [
-    source 159
-    target 22
-    rank 9
-  ]
-  edge
-  [
-    source 159
-    target 0
-    rank 11
-  ]
-  edge
-  [
-    source 159
-    target 55
-    rank 13
-  ]
-  edge
-  [
-    source 159
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 159
-    target 72
-    rank 15
-  ]
-  edge
-  [
-    source 159
-    target 274
-    rank 18
-  ]
-  edge
-  [
-    source 160
-    target 30
-    rank 1
-  ]
-  edge
-  [
-    source 160
-    target 235
-    rank 7
-  ]
-  edge
-  [
-    source 160
-    target 128
-    rank 9
-  ]
-  edge
-  [
-    source 160
-    target 150
-    rank 17
-  ]
-  edge
-  [
-    source 160
-    target 82
-    rank 18
-  ]
-  edge
-  [
-    source 161
-    target 32
-    rank 1
-  ]
-  edge
-  [
-    source 161
-    target 1
-    rank 2
-  ]
-  edge
-  [
-    source 161
-    target 9
-    rank 3
-  ]
-  edge
-  [
-    source 161
-    target 179
-    rank 5
-  ]
-  edge
-  [
-    source 161
-    target 7
-    rank 6
-  ]
-  edge
-  [
-    source 161
-    target 8
-    rank 10
-  ]
-  edge
-  [
-    source 161
-    target 137
-    rank 15
-  ]
-  edge
-  [
-    source 162
-    target 49
-    rank 1
-  ]
-  edge
-  [
-    source 162
-    target 294
-    rank 12
-  ]
-  edge
-  [
-    source 162
-    target 55
-    rank 18
-  ]
-  edge
-  [
-    source 163
-    target 210
-    rank 1
-  ]
-  edge
-  [
-    source 163
-    target 238
-    rank 4
-  ]
-  edge
-  [
-    source 163
-    target 102
-    rank 7
-  ]
-  edge
-  [
-    source 163
-    target 35
-    rank 8
-  ]
-  edge
-  [
-    source 163
-    target 104
-    rank 10
-  ]
-  edge
-  [
-    source 163
-    target 31
-    rank 11
-  ]
-  edge
-  [
-    source 163
-    target 221
-    rank 12
-  ]
-  edge
-  [
-    source 163
-    target 27
-    rank 14
-  ]
-  edge
-  [
-    source 163
-    target 23
-    rank 15
-  ]
-  edge
-  [
-    source 163
-    target 122
-    rank 18
-  ]
-  edge
-  [
-    source 164
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 164
-    target 390
-    rank 5
-  ]
-  edge
-  [
-    source 164
-    target 72
-    rank 9
-  ]
-  edge
-  [
-    source 164
-    target 22
-    rank 13
-  ]
-  edge
-  [
-    source 164
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 164
-    target 6
-    rank 15
-  ]
-  edge
-  [
-    source 164
-    target 9
-    rank 18
-  ]
-  edge
-  [
-    source 164
-    target 274
-    rank 19
-  ]
-  edge
-  [
-    source 165
-    target 88
-    rank 1
-  ]
-  edge
-  [
-    source 165
-    target 128
-    rank 3
-  ]
-  edge
-  [
-    source 165
-    target 35
-    rank 4
-  ]
-  edge
-  [
-    source 165
-    target 40
-    rank 6
-  ]
-  edge
-  [
-    source 165
-    target 163
-    rank 8
-  ]
-  edge
-  [
-    source 165
-    target 7
-    rank 10
-  ]
-  edge
-  [
-    source 165
-    target 33
-    rank 12
-  ]
-  edge
-  [
-    source 165
-    target 3
-    rank 13
-  ]
-  edge
-  [
-    source 165
-    target 179
-    rank 16
-  ]
-  edge
-  [
-    source 165
-    target 210
-    rank 17
-  ]
-  edge
-  [
-    source 165
-    target 21
-    rank 19
-  ]
-  edge
-  [
-    source 165
-    target 5
-    rank 20
-  ]
-  edge
-  [
-    source 166
-    target 49
-    rank 4
-  ]
-  edge
-  [
-    source 166
-    target 37
-    rank 7
-  ]
-  edge
-  [
-    source 166
-    target 149
-    rank 10
-  ]
-  edge
-  [
-    source 166
-    target 0
-    rank 13
-  ]
-  edge
-  [
-    source 166
-    target 4
-    rank 14
-  ]
-  edge
-  [
-    source 166
-    target 95
-    rank 16
-  ]
-  edge
-  [
-    source 166
-    target 50
-    rank 18
-  ]
-  edge
-  [
-    source 167
-    target 183
-    rank 9
-  ]
-  edge
-  [
-    source 167
-    target 140
-    rank 20
-  ]
-  edge
-  [
-    source 168
-    target 32
-    rank 1
-  ]
-  edge
-  [
-    source 168
-    target 150
-    rank 3
-  ]
-  edge
-  [
-    source 168
-    target 128
-    rank 6
-  ]
-  edge
-  [
-    source 168
-    target 179
-    rank 8
-  ]
-  edge
-  [
-    source 168
-    target 33
-    rank 9
-  ]
-  edge
-  [
-    source 168
-    target 17
-    rank 12
-  ]
-  edge
-  [
-    source 168
-    target 59
-    rank 14
-  ]
-  edge
-  [
-    source 168
-    target 174
-    rank 20
-  ]
-  edge
-  [
-    source 169
-    target 38
-    rank 2
-  ]
-  edge
-  [
-    source 169
-    target 13
-    rank 8
-  ]
-  edge
-  [
-    source 169
-    target 29
-    rank 11
-  ]
-  edge
-  [
-    source 169
-    target 286
-    rank 14
-  ]
-  edge
-  [
-    source 169
-    target 5
-    rank 17
-  ]
-  edge
-  [
-    source 169
-    target 11
-    rank 18
-  ]
-  edge
-  [
-    source 170
-    target 57
-    rank 4
-  ]
-  edge
-  [
-    source 171
-    target 222
-    rank 12
-  ]
-  edge
-  [
-    source 172
-    target 143
-    rank 1
-  ]
-  edge
-  [
-    source 172
-    target 390
-    rank 3
-  ]
-  edge
-  [
-    source 172
-    target 98
-    rank 4
-  ]
-  edge
-  [
-    source 172
-    target 15
-    rank 5
-  ]
-  edge
-  [
-    source 172
-    target 91
-    rank 7
-  ]
-  edge
-  [
-    source 172
-    target 42
-    rank 9
-  ]
-  edge
-  [
-    source 172
-    target 152
-    rank 10
-  ]
-  edge
-  [
-    source 172
-    target 31
-    rank 11
-  ]
-  edge
-  [
-    source 172
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 172
-    target 22
-    rank 13
-  ]
-  edge
-  [
-    source 172
-    target 8
-    rank 14
-  ]
-  edge
-  [
-    source 172
-    target 127
-    rank 15
-  ]
-  edge
-  [
-    source 172
-    target 117
-    rank 16
-  ]
-  edge
-  [
-    source 172
-    target 249
-    rank 17
-  ]
-  edge
-  [
-    source 172
-    target 68
-    rank 19
-  ]
-  edge
-  [
-    source 172
-    target 72
-    rank 20
-  ]
-  edge
-  [
-    source 173
-    target 156
-    rank 7
-  ]
-  edge
-  [
-    source 173
-    target 270
-    rank 10
-  ]
-  edge
-  [
-    source 173
-    target 247
-    rank 16
-  ]
-  edge
-  [
-    source 174
-    target 168
-    rank 1
-  ]
-  edge
-  [
-    source 174
-    target 32
-    rank 3
-  ]
-  edge
-  [
-    source 174
-    target 90
-    rank 4
-  ]
-  edge
-  [
-    source 174
-    target 150
-    rank 6
-  ]
-  edge
-  [
-    source 174
-    target 59
-    rank 8
-  ]
-  edge
-  [
-    source 174
-    target 33
-    rank 12
-  ]
-  edge
-  [
-    source 174
-    target 128
-    rank 14
-  ]
-  edge
-  [
-    source 174
-    target 113
-    rank 15
-  ]
-  edge
-  [
-    source 174
-    target 71
-    rank 20
-  ]
-  edge
-  [
-    source 175
-    target 25
-    rank 6
-  ]
-  edge
-  [
-    source 175
-    target 425
-    rank 7
-  ]
-  edge
-  [
-    source 175
-    target 65
-    rank 12
-  ]
-  edge
-  [
-    source 175
-    target 370
-    rank 20
-  ]
-  edge
-  [
-    source 176
-    target 214
-    rank 4
-  ]
-  edge
-  [
-    source 176
-    target 157
-    rank 19
-  ]
-  edge
-  [
-    source 177
-    target 43
-    rank 1
-  ]
-  edge
-  [
-    source 177
-    target 266
-    rank 5
-  ]
-  edge
-  [
-    source 177
-    target 58
-    rank 6
-  ]
-  edge
-  [
-    source 177
-    target 126
-    rank 7
-  ]
-  edge
-  [
-    source 177
-    target 147
-    rank 8
-  ]
-  edge
-  [
-    source 177
-    target 297
-    rank 9
-  ]
-  edge
-  [
-    source 177
-    target 144
-    rank 14
-  ]
-  edge
-  [
-    source 177
-    target 4
-    rank 16
-  ]
-  edge
-  [
-    source 177
-    target 318
-    rank 17
-  ]
-  edge
-  [
-    source 177
-    target 99
-    rank 18
-  ]
-  edge
-  [
-    source 178
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 178
-    target 30
-    rank 9
-  ]
-  edge
-  [
-    source 178
-    target 113
-    rank 11
-  ]
-  edge
-  [
-    source 178
-    target 4
-    rank 15
-  ]
-  edge
-  [
-    source 178
-    target 206
-    rank 17
-  ]
-  edge
-  [
-    source 179
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 179
-    target 32
-    rank 3
-  ]
-  edge
-  [
-    source 179
-    target 33
-    rank 5
-  ]
-  edge
-  [
-    source 179
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 179
-    target 7
-    rank 16
-  ]
-  edge
-  [
-    source 179
-    target 21
-    rank 20
-  ]
-  edge
-  [
-    source 180
-    target 0
-    rank 11
-  ]
-  edge
-  [
-    source 180
-    target 4
-    rank 14
-  ]
-  edge
-  [
-    source 181
-    target 43
-    rank 1
-  ]
-  edge
-  [
-    source 181
-    target 89
-    rank 2
-  ]
-  edge
-  [
-    source 181
-    target 144
-    rank 5
-  ]
-  edge
-  [
-    source 181
-    target 4
-    rank 6
-  ]
-  edge
-  [
-    source 181
-    target 126
-    rank 8
-  ]
-  edge
-  [
-    source 181
-    target 151
-    rank 10
-  ]
-  edge
-  [
-    source 181
-    target 272
-    rank 13
-  ]
-  edge
-  [
-    source 181
-    target 232
-    rank 16
-  ]
-  edge
-  [
-    source 182
-    target 186
-    rank 6
-  ]
-  edge
-  [
-    source 182
-    target 175
-    rank 8
-  ]
-  edge
-  [
-    source 182
-    target 25
-    rank 10
-  ]
-  edge
-  [
-    source 183
-    target 33
-    rank 4
-  ]
-  edge
-  [
-    source 183
-    target 252
-    rank 5
-  ]
-  edge
-  [
-    source 183
-    target 290
-    rank 8
-  ]
-  edge
-  [
-    source 183
-    target 223
-    rank 19
-  ]
-  edge
-  [
-    source 184
-    target 425
-    rank 2
-  ]
-  edge
-  [
-    source 184
-    target 72
-    rank 9
-  ]
-  edge
-  [
-    source 184
-    target 189
-    rank 10
-  ]
-  edge
-  [
-    source 184
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 184
-    target 31
-    rank 20
-  ]
-  edge
-  [
-    source 185
-    target 192
-    rank 2
-  ]
-  edge
-  [
-    source 185
-    target 25
-    rank 5
-  ]
-  edge
-  [
-    source 185
-    target 390
-    rank 6
-  ]
-  edge
-  [
-    source 185
-    target 425
-    rank 7
-  ]
-  edge
-  [
-    source 185
-    target 9
-    rank 10
-  ]
-  edge
-  [
-    source 185
-    target 75
-    rank 14
-  ]
-  edge
-  [
-    source 185
-    target 15
-    rank 17
-  ]
-  edge
-  [
-    source 185
-    target 4
-    rank 19
-  ]
-  edge
-  [
-    source 186
-    target 25
-    rank 4
-  ]
-  edge
-  [
-    source 186
-    target 175
-    rank 9
-  ]
-  edge
-  [
-    source 186
-    target 99
-    rank 14
-  ]
-  edge
-  [
-    source 186
-    target 425
-    rank 16
-  ]
-  edge
-  [
-    source 187
-    target 56
-    rank 7
-  ]
-  edge
-  [
-    source 189
-    target 295
-    rank 1
-  ]
-  edge
-  [
-    source 189
-    target 75
-    rank 3
-  ]
-  edge
-  [
-    source 189
-    target 185
-    rank 4
-  ]
-  edge
-  [
-    source 189
-    target 390
-    rank 5
-  ]
-  edge
-  [
-    source 189
-    target 242
-    rank 11
-  ]
-  edge
-  [
-    source 189
-    target 314
-    rank 14
-  ]
-  edge
-  [
-    source 189
-    target 175
-    rank 15
-  ]
-  edge
-  [
-    source 189
-    target 182
-    rank 19
-  ]
-  edge
-  [
-    source 189
-    target 425
-    rank 20
-  ]
-  edge
-  [
-    source 190
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 190
-    target 211
-    rank 3
-  ]
-  edge
-  [
-    source 190
-    target 74
-    rank 4
-  ]
-  edge
-  [
-    source 190
-    target 390
-    rank 7
-  ]
-  edge
-  [
-    source 190
-    target 139
-    rank 9
-  ]
-  edge
-  [
-    source 190
-    target 0
-    rank 16
-  ]
-  edge
-  [
-    source 190
-    target 115
-    rank 19
-  ]
-  edge
-  [
-    source 190
-    target 9
-    rank 20
-  ]
-  edge
-  [
-    source 191
-    target 37
-    rank 1
-  ]
-  edge
-  [
-    source 191
-    target 217
-    rank 5
-  ]
-  edge
-  [
-    source 191
-    target 296
-    rank 7
-  ]
-  edge
-  [
-    source 191
-    target 73
-    rank 8
-  ]
-  edge
-  [
-    source 191
-    target 45
-    rank 9
-  ]
-  edge
-  [
-    source 191
-    target 109
-    rank 11
-  ]
-  edge
-  [
-    source 191
-    target 54
-    rank 14
-  ]
-  edge
-  [
-    source 191
-    target 13
-    rank 15
-  ]
-  edge
-  [
-    source 191
-    target 279
-    rank 18
-  ]
-  edge
-  [
-    source 192
-    target 185
-    rank 3
-  ]
-  edge
-  [
-    source 192
-    target 239
-    rank 7
-  ]
-  edge
-  [
-    source 192
-    target 425
-    rank 9
-  ]
-  edge
-  [
-    source 192
-    target 128
-    rank 10
-  ]
-  edge
-  [
-    source 192
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 192
-    target 314
-    rank 17
-  ]
-  edge
-  [
-    source 192
-    target 390
-    rank 19
-  ]
-  edge
-  [
-    source 193
-    target 217
-    rank 4
-  ]
-  edge
-  [
-    source 193
-    target 73
-    rank 13
-  ]
-  edge
-  [
-    source 193
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 194
-    target 249
-    rank 5
-  ]
-  edge
-  [
-    source 194
-    target 390
-    rank 7
-  ]
-  edge
-  [
-    source 194
-    target 25
-    rank 9
-  ]
-  edge
-  [
-    source 194
-    target 75
-    rank 17
-  ]
-  edge
-  [
-    source 194
-    target 186
-    rank 18
-  ]
-  edge
-  [
-    source 194
-    target 99
-    rank 19
-  ]
-  edge
-  [
-    source 196
-    target 310
-    rank 2
-  ]
-  edge
-  [
-    source 196
-    target 25
-    rank 8
-  ]
-  edge
-  [
-    source 196
-    target 333
-    rank 9
-  ]
-  edge
-  [
-    source 196
-    target 99
-    rank 12
-  ]
-  edge
-  [
-    source 197
-    target 151
-    rank 1
-  ]
-  edge
-  [
-    source 197
-    target 144
-    rank 4
-  ]
-  edge
-  [
-    source 197
-    target 126
-    rank 5
-  ]
-  edge
-  [
-    source 197
-    target 89
-    rank 8
-  ]
-  edge
-  [
-    source 197
-    target 4
-    rank 10
-  ]
-  edge
-  [
-    source 197
-    target 43
-    rank 12
-  ]
-  edge
-  [
-    source 197
-    target 55
-    rank 13
-  ]
-  edge
-  [
-    source 197
-    target 232
-    rank 14
-  ]
-  edge
-  [
-    source 197
-    target 147
-    rank 15
-  ]
-  edge
-  [
-    source 197
-    target 207
-    rank 16
-  ]
-  edge
-  [
-    source 197
-    target 318
-    rank 18
-  ]
-  edge
-  [
-    source 197
-    target 272
-    rank 20
-  ]
-  edge
-  [
-    source 198
-    target 215
-    rank 13
-  ]
-  edge
-  [
-    source 199
-    target 53
-    rank 5
-  ]
-  edge
-  [
-    source 199
-    target 253
-    rank 20
-  ]
-  edge
-  [
-    source 200
-    target 185
-    rank 5
-  ]
-  edge
-  [
-    source 200
-    target 390
-    rank 6
-  ]
-  edge
-  [
-    source 200
-    target 136
-    rank 8
-  ]
-  edge
-  [
-    source 200
-    target 287
-    rank 9
-  ]
-  edge
-  [
-    source 200
-    target 99
-    rank 10
-  ]
-  edge
-  [
-    source 200
-    target 425
-    rank 11
-  ]
-  edge
-  [
-    source 200
-    target 25
-    rank 18
-  ]
-  edge
-  [
-    source 201
-    target 114
-    rank 5
-  ]
-  edge
-  [
-    source 201
-    target 254
-    rank 6
-  ]
-  edge
-  [
-    source 201
-    target 71
-    rank 8
-  ]
-  edge
-  [
-    source 201
-    target 31
-    rank 18
-  ]
-  edge
-  [
-    source 201
-    target 128
-    rank 20
-  ]
-  edge
-  [
-    source 202
-    target 25
-    rank 4
-  ]
-  edge
-  [
-    source 202
-    target 425
-    rank 5
-  ]
-  edge
-  [
-    source 202
-    target 175
-    rank 9
-  ]
-  edge
-  [
-    source 203
-    target 212
-    rank 1
-  ]
-  edge
-  [
-    source 203
-    target 116
-    rank 3
-  ]
-  edge
-  [
-    source 203
-    target 53
-    rank 6
-  ]
-  edge
-  [
-    source 203
-    target 104
-    rank 8
-  ]
-  edge
-  [
-    source 203
-    target 63
-    rank 10
-  ]
-  edge
-  [
-    source 204
-    target 42
-    rank 1
-  ]
-  edge
-  [
-    source 204
-    target 152
-    rank 5
-  ]
-  edge
-  [
-    source 204
-    target 98
-    rank 6
-  ]
-  edge
-  [
-    source 204
-    target 75
-    rank 7
-  ]
-  edge
-  [
-    source 204
-    target 117
-    rank 8
-  ]
-  edge
-  [
-    source 204
-    target 143
-    rank 9
-  ]
-  edge
-  [
-    source 204
-    target 135
-    rank 12
-  ]
-  edge
-  [
-    source 204
-    target 425
-    rank 13
-  ]
-  edge
-  [
-    source 204
-    target 127
-    rank 15
-  ]
-  edge
-  [
-    source 204
-    target 22
-    rank 17
-  ]
-  edge
-  [
-    source 204
-    target 29
-    rank 20
-  ]
-  edge
-  [
-    source 206
-    target 235
-    rank 1
-  ]
-  edge
-  [
-    source 206
-    target 150
-    rank 5
-  ]
-  edge
-  [
-    source 206
-    target 113
-    rank 6
-  ]
-  edge
-  [
-    source 207
-    target 43
-    rank 1
-  ]
-  edge
-  [
-    source 207
-    target 232
-    rank 3
-  ]
-  edge
-  [
-    source 207
-    target 144
-    rank 5
-  ]
-  edge
-  [
-    source 207
-    target 197
-    rank 6
-  ]
-  edge
-  [
-    source 207
-    target 126
-    rank 7
-  ]
-  edge
-  [
-    source 207
-    target 89
-    rank 8
-  ]
-  edge
-  [
-    source 207
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 207
-    target 151
-    rank 11
-  ]
-  edge
-  [
-    source 207
-    target 318
-    rank 17
-  ]
-  edge
-  [
-    source 208
-    target 150
-    rank 1
-  ]
-  edge
-  [
-    source 208
-    target 66
-    rank 4
-  ]
-  edge
-  [
-    source 208
-    target 82
-    rank 5
-  ]
-  edge
-  [
-    source 208
-    target 59
-    rank 9
-  ]
-  edge
-  [
-    source 208
-    target 277
-    rank 13
-  ]
-  edge
-  [
-    source 208
-    target 128
-    rank 14
-  ]
-  edge
-  [
-    source 208
-    target 250
-    rank 15
-  ]
-  edge
-  [
-    source 209
-    target 167
-    rank 17
-  ]
-  edge
-  [
-    source 210
-    target 238
-    rank 1
-  ]
-  edge
-  [
-    source 210
-    target 122
-    rank 6
-  ]
-  edge
-  [
-    source 210
-    target 163
-    rank 7
-  ]
-  edge
-  [
-    source 210
-    target 102
-    rank 10
-  ]
-  edge
-  [
-    source 210
-    target 23
-    rank 13
-  ]
-  edge
-  [
-    source 210
-    target 31
-    rank 14
-  ]
-  edge
-  [
-    source 210
-    target 108
-    rank 19
-  ]
-  edge
-  [
-    source 211
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 211
-    target 72
-    rank 5
-  ]
-  edge
-  [
-    source 211
-    target 390
-    rank 6
-  ]
-  edge
-  [
-    source 211
-    target 16
-    rank 8
-  ]
-  edge
-  [
-    source 211
-    target 74
-    rank 10
-  ]
-  edge
-  [
-    source 211
-    target 406
-    rank 12
-  ]
-  edge
-  [
-    source 211
-    target 115
-    rank 14
-  ]
-  edge
-  [
-    source 211
-    target 106
-    rank 15
-  ]
-  edge
-  [
-    source 211
-    target 0
-    rank 16
-  ]
-  edge
-  [
-    source 211
-    target 9
-    rank 17
-  ]
-  edge
-  [
-    source 211
-    target 65
-    rank 18
-  ]
-  edge
-  [
-    source 212
-    target 231
-    rank 5
-  ]
-  edge
-  [
-    source 212
-    target 55
-    rank 6
-  ]
-  edge
-  [
-    source 212
-    target 70
-    rank 11
-  ]
-  edge
-  [
-    source 212
-    target 104
-    rank 13
-  ]
-  edge
-  [
-    source 212
-    target 203
-    rank 15
-  ]
-  edge
-  [
-    source 212
-    target 250
-    rank 16
-  ]
-  edge
-  [
-    source 212
-    target 159
-    rank 17
-  ]
-  edge
-  [
-    source 212
-    target 53
-    rank 18
-  ]
-  edge
-  [
-    source 213
-    target 116
-    rank 3
-  ]
-  edge
-  [
-    source 213
-    target 231
-    rank 5
-  ]
-  edge
-  [
-    source 213
-    target 104
-    rank 6
-  ]
-  edge
-  [
-    source 213
-    target 20
-    rank 13
-  ]
-  edge
-  [
-    source 213
-    target 38
-    rank 14
-  ]
-  edge
-  [
-    source 214
-    target 176
-    rank 1
-  ]
-  edge
-  [
-    source 215
-    target 243
-    rank 4
-  ]
-  edge
-  [
-    source 216
-    target 4
-    rank 1
-  ]
-  edge
-  [
-    source 216
-    target 232
-    rank 3
-  ]
-  edge
-  [
-    source 216
-    target 144
-    rank 7
-  ]
-  edge
-  [
-    source 216
-    target 207
-    rank 9
-  ]
-  edge
-  [
-    source 216
-    target 43
-    rank 10
-  ]
-  edge
-  [
-    source 216
-    target 197
-    rank 11
-  ]
-  edge
-  [
-    source 216
-    target 89
-    rank 12
-  ]
-  edge
-  [
-    source 216
-    target 151
-    rank 15
-  ]
-  edge
-  [
-    source 216
-    target 126
-    rank 16
-  ]
-  edge
-  [
-    source 216
-    target 318
-    rank 17
-  ]
-  edge
-  [
-    source 216
-    target 147
-    rank 18
-  ]
-  edge
-  [
-    source 217
-    target 19
-    rank 3
-  ]
-  edge
-  [
-    source 217
-    target 296
-    rank 4
-  ]
-  edge
-  [
-    source 217
-    target 191
-    rank 5
-  ]
-  edge
-  [
-    source 217
-    target 158
-    rank 7
-  ]
-  edge
-  [
-    source 217
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 217
-    target 45
-    rank 11
-  ]
-  edge
-  [
-    source 217
-    target 54
-    rank 12
-  ]
-  edge
-  [
-    source 217
-    target 49
-    rank 20
-  ]
-  edge
-  [
-    source 218
-    target 62
-    rank 2
-  ]
-  edge
-  [
-    source 218
-    target 12
-    rank 6
-  ]
-  edge
-  [
-    source 218
-    target 55
-    rank 7
-  ]
-  edge
-  [
-    source 218
-    target 85
-    rank 10
-  ]
-  edge
-  [
-    source 218
-    target 258
-    rank 12
-  ]
-  edge
-  [
-    source 218
-    target 11
-    rank 19
-  ]
-  edge
-  [
-    source 218
-    target 29
-    rank 20
-  ]
-  edge
-  [
-    source 219
-    target 25
-    rank 3
-  ]
-  edge
-  [
-    source 219
-    target 390
-    rank 4
-  ]
-  edge
-  [
-    source 219
-    target 10
-    rank 7
-  ]
-  edge
-  [
-    source 219
-    target 184
-    rank 10
-  ]
-  edge
-  [
-    source 219
-    target 4
-    rank 11
-  ]
-  edge
-  [
-    source 219
-    target 175
-    rank 13
-  ]
-  edge
-  [
-    source 219
-    target 425
-    rank 17
-  ]
-  edge
-  [
-    source 220
-    target 235
-    rank 3
-  ]
-  edge
-  [
-    source 220
-    target 128
-    rank 9
-  ]
-  edge
-  [
-    source 220
-    target 168
-    rank 12
-  ]
-  edge
-  [
-    source 220
-    target 114
-    rank 15
-  ]
-  edge
-  [
-    source 220
-    target 229
-    rank 17
-  ]
-  edge
-  [
-    source 221
-    target 108
-    rank 1
-  ]
-  edge
-  [
-    source 221
-    target 130
-    rank 3
-  ]
-  edge
-  [
-    source 221
-    target 102
-    rank 5
-  ]
-  edge
-  [
-    source 221
-    target 31
-    rank 7
-  ]
-  edge
-  [
-    source 221
-    target 245
-    rank 12
-  ]
-  edge
-  [
-    source 221
-    target 250
-    rank 15
-  ]
-  edge
-  [
-    source 221
-    target 210
-    rank 16
-  ]
-  edge
-  [
-    source 221
-    target 27
-    rank 17
-  ]
-  edge
-  [
-    source 221
-    target 117
-    rank 19
-  ]
-  edge
-  [
-    source 221
-    target 336
-    rank 20
-  ]
-  edge
-  [
-    source 222
-    target 157
-    rank 1
-  ]
-  edge
-  [
-    source 222
-    target 241
-    rank 10
-  ]
-  edge
-  [
-    source 222
-    target 230
-    rank 14
-  ]
-  edge
-  [
-    source 222
-    target 176
-    rank 17
-  ]
-  edge
-  [
-    source 223
-    target 39
-    rank 2
-  ]
-  edge
-  [
-    source 223
-    target 290
-    rank 6
-  ]
-  edge
-  [
-    source 223
-    target 183
-    rank 15
-  ]
-  edge
-  [
-    source 223
-    target 252
-    rank 16
-  ]
-  edge
-  [
-    source 225
-    target 193
-    rank 9
-  ]
-  edge
-  [
-    source 225
-    target 49
-    rank 18
-  ]
-  edge
-  [
-    source 225
-    target 109
-    rank 20
-  ]
-  edge
-  [
-    source 226
-    target 250
-    rank 3
-  ]
-  edge
-  [
-    source 226
-    target 8
-    rank 5
-  ]
-  edge
-  [
-    source 226
-    target 33
-    rank 7
-  ]
-  edge
-  [
-    source 226
-    target 21
-    rank 13
-  ]
-  edge
-  [
-    source 226
-    target 1
-    rank 15
-  ]
-  edge
-  [
-    source 226
-    target 7
-    rank 17
-  ]
-  edge
-  [
-    source 226
-    target 44
-    rank 20
-  ]
-  edge
-  [
-    source 227
-    target 24
-    rank 2
-  ]
-  edge
-  [
-    source 227
-    target 11
-    rank 3
-  ]
-  edge
-  [
-    source 227
-    target 12
-    rank 4
-  ]
-  edge
-  [
-    source 227
-    target 38
-    rank 5
-  ]
-  edge
-  [
-    source 227
-    target 29
-    rank 7
-  ]
-  edge
-  [
-    source 227
-    target 62
-    rank 9
-  ]
-  edge
-  [
-    source 227
-    target 117
-    rank 12
-  ]
-  edge
-  [
-    source 227
-    target 348
-    rank 18
-  ]
-  edge
-  [
-    source 227
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 228
-    target 143
-    rank 1
-  ]
-  edge
-  [
-    source 228
-    target 390
-    rank 3
-  ]
-  edge
-  [
-    source 228
-    target 194
-    rank 5
-  ]
-  edge
-  [
-    source 228
-    target 4
-    rank 7
-  ]
-  edge
-  [
-    source 228
-    target 98
-    rank 9
-  ]
-  edge
-  [
-    source 228
-    target 31
-    rank 10
-  ]
-  edge
-  [
-    source 228
-    target 8
-    rank 11
-  ]
-  edge
-  [
-    source 228
-    target 42
-    rank 12
-  ]
-  edge
-  [
-    source 228
-    target 126
-    rank 15
-  ]
-  edge
-  [
-    source 228
-    target 22
-    rank 16
-  ]
-  edge
-  [
-    source 228
-    target 117
-    rank 17
-  ]
-  edge
-  [
-    source 228
-    target 278
-    rank 18
-  ]
-  edge
-  [
-    source 228
-    target 26
-    rank 19
-  ]
-  edge
-  [
-    source 229
-    target 25
-    rank 3
-  ]
-  edge
-  [
-    source 229
-    target 390
-    rank 4
-  ]
-  edge
-  [
-    source 229
-    target 17
-    rank 5
-  ]
-  edge
-  [
-    source 229
-    target 220
-    rank 9
-  ]
-  edge
-  [
-    source 229
-    target 140
-    rank 14
-  ]
-  edge
-  [
-    source 229
-    target 65
-    rank 15
-  ]
-  edge
-  [
-    source 230
-    target 157
-    rank 1
-  ]
-  edge
-  [
-    source 230
-    target 176
-    rank 5
-  ]
-  edge
-  [
-    source 230
-    target 222
-    rank 11
-  ]
-  edge
-  [
-    source 231
-    target 212
-    rank 5
-  ]
-  edge
-  [
-    source 231
-    target 203
-    rank 7
-  ]
-  edge
-  [
-    source 231
-    target 104
-    rank 8
-  ]
-  edge
-  [
-    source 231
-    target 55
-    rank 10
-  ]
-  edge
-  [
-    source 231
-    target 116
-    rank 11
-  ]
-  edge
-  [
-    source 231
-    target 20
-    rank 13
-  ]
-  edge
-  [
-    source 231
-    target 53
-    rank 16
-  ]
-  edge
-  [
-    source 232
-    target 151
-    rank 1
-  ]
-  edge
-  [
-    source 232
-    target 144
-    rank 5
-  ]
-  edge
-  [
-    source 232
-    target 4
-    rank 6
-  ]
-  edge
-  [
-    source 232
-    target 43
-    rank 8
-  ]
-  edge
-  [
-    source 232
-    target 126
-    rank 10
-  ]
-  edge
-  [
-    source 232
-    target 147
-    rank 16
-  ]
-  edge
-  [
-    source 232
-    target 89
-    rank 19
-  ]
-  edge
-  [
-    source 233
-    target 4
-    rank 5
-  ]
-  edge
-  [
-    source 233
-    target 5
-    rank 12
-  ]
-  edge
-  [
-    source 235
-    target 82
-    rank 3
-  ]
-  edge
-  [
-    source 235
-    target 25
-    rank 7
-  ]
-  edge
-  [
-    source 235
-    target 220
-    rank 8
-  ]
-  edge
-  [
-    source 235
-    target 128
-    rank 10
-  ]
-  edge
-  [
-    source 235
-    target 168
-    rank 18
-  ]
-  edge
-  [
-    source 236
-    target 101
-    rank 5
-  ]
-  edge
-  [
-    source 236
-    target 107
-    rank 20
-  ]
-  edge
-  [
-    source 237
-    target 390
-    rank 7
-  ]
-  edge
-  [
-    source 237
-    target 19
-    rank 9
-  ]
-  edge
-  [
-    source 237
-    target 24
-    rank 10
-  ]
-  edge
-  [
-    source 237
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 237
-    target 55
-    rank 14
-  ]
-  edge
-  [
-    source 237
-    target 170
-    rank 17
-  ]
-  edge
-  [
-    source 237
-    target 49
-    rank 19
-  ]
-  edge
-  [
-    source 238
-    target 210
-    rank 4
-  ]
-  edge
-  [
-    source 238
-    target 47
-    rank 6
-  ]
-  edge
-  [
-    source 238
-    target 221
-    rank 13
-  ]
-  edge
-  [
-    source 238
-    target 130
-    rank 14
-  ]
-  edge
-  [
-    source 238
-    target 102
-    rank 16
-  ]
-  edge
-  [
-    source 239
-    target 186
-    rank 7
-  ]
-  edge
-  [
-    source 239
-    target 192
-    rank 13
-  ]
-  edge
-  [
-    source 239
-    target 341
-    rank 16
-  ]
-  edge
-  [
-    source 239
-    target 185
-    rank 18
-  ]
-  edge
-  [
-    source 240
-    target 43
-    rank 1
-  ]
-  edge
-  [
-    source 240
-    target 126
-    rank 3
-  ]
-  edge
-  [
-    source 240
-    target 89
-    rank 5
-  ]
-  edge
-  [
-    source 240
-    target 318
-    rank 6
-  ]
-  edge
-  [
-    source 240
-    target 99
-    rank 8
-  ]
-  edge
-  [
-    source 240
-    target 151
-    rank 9
-  ]
-  edge
-  [
-    source 240
-    target 4
-    rank 10
-  ]
-  edge
-  [
-    source 241
-    target 222
-    rank 4
-  ]
-  edge
-  [
-    source 241
-    target 157
-    rank 18
-  ]
-  edge
-  [
-    source 242
-    target 295
-    rank 1
-  ]
-  edge
-  [
-    source 242
-    target 31
-    rank 3
-  ]
-  edge
-  [
-    source 242
-    target 75
-    rank 4
-  ]
-  edge
-  [
-    source 242
-    target 390
-    rank 6
-  ]
-  edge
-  [
-    source 242
-    target 189
-    rank 7
-  ]
-  edge
-  [
-    source 242
-    target 8
-    rank 9
-  ]
-  edge
-  [
-    source 242
-    target 22
-    rank 11
-  ]
-  edge
-  [
-    source 242
-    target 0
-    rank 13
-  ]
-  edge
-  [
-    source 242
-    target 9
-    rank 15
-  ]
-  edge
-  [
-    source 244
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 244
-    target 390
-    rank 5
-  ]
-  edge
-  [
-    source 244
-    target 22
-    rank 14
-  ]
-  edge
-  [
-    source 244
-    target 139
-    rank 15
-  ]
-  edge
-  [
-    source 244
-    target 159
-    rank 16
-  ]
-  edge
-  [
-    source 244
-    target 9
-    rank 19
-  ]
-  edge
-  [
-    source 245
-    target 102
-    rank 1
-  ]
-  edge
-  [
-    source 245
-    target 253
-    rank 5
-  ]
-  edge
-  [
-    source 245
-    target 27
-    rank 9
-  ]
-  edge
-  [
-    source 245
-    target 221
-    rank 10
-  ]
-  edge
-  [
-    source 245
-    target 23
-    rank 12
-  ]
-  edge
-  [
-    source 245
-    target 263
-    rank 13
-  ]
-  edge
-  [
-    source 245
-    target 130
-    rank 15
-  ]
-  edge
-  [
-    source 245
-    target 108
-    rank 19
-  ]
-  edge
-  [
-    source 246
-    target 109
-    rank 15
-  ]
-  edge
-  [
-    source 246
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 247
-    target 73
-    rank 4
-  ]
-  edge
-  [
-    source 247
-    target 188
-    rank 8
-  ]
-  edge
-  [
-    source 247
-    target 173
-    rank 10
-  ]
-  edge
-  [
-    source 247
-    target 78
-    rank 13
-  ]
-  edge
-  [
-    source 247
-    target 326
-    rank 20
-  ]
-  edge
-  [
-    source 249
-    target 42
-    rank 1
-  ]
-  edge
-  [
-    source 249
-    target 25
-    rank 5
-  ]
-  edge
-  [
-    source 249
-    target 194
-    rank 6
-  ]
-  edge
-  [
-    source 249
-    target 117
-    rank 9
-  ]
-  edge
-  [
-    source 249
-    target 134
-    rank 10
-  ]
-  edge
-  [
-    source 249
-    target 135
-    rank 11
-  ]
-  edge
-  [
-    source 249
-    target 91
-    rank 12
-  ]
-  edge
-  [
-    source 249
-    target 152
-    rank 14
-  ]
-  edge
-  [
-    source 249
-    target 247
-    rank 16
-  ]
-  edge
-  [
-    source 249
-    target 99
-    rank 17
-  ]
-  edge
-  [
-    source 250
-    target 168
-    rank 6
-  ]
-  edge
-  [
-    source 250
-    target 128
-    rank 12
-  ]
-  edge
-  [
-    source 250
-    target 28
-    rank 13
-  ]
-  edge
-  [
-    source 251
-    target 125
-    rank 17
-  ]
-  edge
-  [
-    source 252
-    target 290
-    rank 1
-  ]
-  edge
-  [
-    source 252
-    target 39
-    rank 5
-  ]
-  edge
-  [
-    source 252
-    target 223
-    rank 10
-  ]
-  edge
-  [
-    source 252
-    target 183
-    rank 19
-  ]
-  edge
-  [
-    source 253
-    target 245
-    rank 1
-  ]
-  edge
-  [
-    source 253
-    target 210
-    rank 3
-  ]
-  edge
-  [
-    source 253
-    target 27
-    rank 7
-  ]
-  edge
-  [
-    source 253
-    target 263
-    rank 10
-  ]
-  edge
-  [
-    source 253
-    target 102
-    rank 14
-  ]
-  edge
-  [
-    source 254
-    target 128
-    rank 3
-  ]
-  edge
-  [
-    source 254
-    target 90
-    rank 4
-  ]
-  edge
-  [
-    source 254
     target 288
-    rank 6
-  ]
-  edge
-  [
-    source 254
-    target 201
-    rank 7
-  ]
-  edge
-  [
-    source 254
-    target 71
-    rank 15
-  ]
-  edge
-  [
-    source 254
-    target 114
-    rank 16
-  ]
-  edge
-  [
-    source 254
-    target 59
-    rank 17
-  ]
-  edge
-  [
-    source 254
-    target 168
-    rank 20
-  ]
-  edge
-  [
-    source 255
-    target 55
-    rank 1
-  ]
-  edge
-  [
-    source 255
-    target 188
-    rank 7
-  ]
-  edge
-  [
-    source 255
-    target 247
-    rank 13
-  ]
-  edge
-  [
-    source 256
-    target 128
-    rank 3
-  ]
-  edge
-  [
-    source 256
-    target 90
-    rank 7
-  ]
-  edge
-  [
-    source 256
-    target 412
-    rank 9
-  ]
-  edge
-  [
-    source 256
-    target 271
-    rank 16
-  ]
-  edge
-  [
-    source 257
-    target 22
-    rank 6
-  ]
-  edge
-  [
-    source 257
-    target 390
-    rank 7
-  ]
-  edge
-  [
-    source 257
-    target 31
-    rank 9
-  ]
-  edge
-  [
-    source 257
-    target 274
-    rank 13
-  ]
-  edge
-  [
-    source 257
-    target 106
-    rank 14
-  ]
-  edge
-  [
-    source 257
-    target 330
-    rank 20
-  ]
-  edge
-  [
-    source 258
-    target 162
-    rank 4
-  ]
-  edge
-  [
-    source 258
-    target 5
-    rank 10
-  ]
-  edge
-  [
-    source 258
-    target 110
-    rank 17
-  ]
-  edge
-  [
-    source 259
-    target 104
-    rank 17
-  ]
-  edge
-  [
-    source 260
-    target 252
-    rank 2
-  ]
-  edge
-  [
-    source 260
-    target 183
-    rank 11
-  ]
-  edge
-  [
-    source 260
-    target 39
-    rank 12
-  ]
-  edge
-  [
-    source 260
-    target 290
-    rank 14
-  ]
-  edge
-  [
-    source 260
-    target 223
-    rank 15
-  ]
-  edge
-  [
-    source 261
-    target 66
-    rank 1
-  ]
-  edge
-  [
-    source 261
-    target 259
     rank 5
   ]
   edge
   [
-    source 261
-    target 153
-    rank 11
-  ]
-  edge
-  [
-    source 261
-    target 120
-    rank 17
-  ]
-  edge
-  [
-    source 262
-    target 27
-    rank 2
-  ]
-  edge
-  [
-    source 262
-    target 210
-    rank 5
-  ]
-  edge
-  [
-    source 262
-    target 245
+    source 157
+    target 24
     rank 7
   ]
   edge
   [
-    source 262
-    target 163
+    source 157
+    target 37
     rank 8
   ]
   edge
   [
-    source 262
-    target 221
-    rank 10
+    source 157
+    target 172
+    rank 9
   ]
   edge
   [
-    source 262
-    target 23
+    source 157
+    target 214
     rank 11
   ]
   edge
   [
-    source 262
-    target 238
-    rank 20
+    source 157
+    target 109
+    rank 15
   ]
   edge
   [
-    source 263
-    target 108
-    rank 1
-  ]
-  edge
-  [
-    source 263
-    target 163
-    rank 5
-  ]
-  edge
-  [
-    source 263
-    target 245
-    rank 6
-  ]
-  edge
-  [
-    source 263
-    target 23
-    rank 7
-  ]
-  edge
-  [
-    source 263
-    target 253
-    rank 11
-  ]
-  edge
-  [
-    source 263
-    target 102
-    rank 12
-  ]
-  edge
-  [
-    source 264
-    target 23
-    rank 7
-  ]
-  edge
-  [
-    source 264
-    target 27
-    rank 11
-  ]
-  edge
-  [
-    source 264
-    target 210
-    rank 13
-  ]
-  edge
-  [
-    source 264
-    target 102
-    rank 16
-  ]
-  edge
-  [
-    source 264
-    target 221
+    source 157
+    target 45
     rank 18
   ]
   edge
   [
-    source 264
-    target 262
-    rank 20
-  ]
-  edge
-  [
-    source 265
-    target 43
-    rank 1
-  ]
-  edge
-  [
-    source 265
-    target 147
-    rank 4
-  ]
-  edge
-  [
-    source 265
-    target 144
-    rank 5
-  ]
-  edge
-  [
-    source 265
-    target 126
-    rank 19
-  ]
-  edge
-  [
-    source 266
-    target 43
-    rank 1
-  ]
-  edge
-  [
-    source 266
-    target 126
-    rank 3
-  ]
-  edge
-  [
-    source 266
-    target 177
-    rank 5
-  ]
-  edge
-  [
-    source 266
-    target 89
-    rank 7
-  ]
-  edge
-  [
-    source 266
-    target 9
-    rank 8
-  ]
-  edge
-  [
-    source 266
-    target 147
-    rank 9
-  ]
-  edge
-  [
-    source 266
-    target 59
-    rank 16
-  ]
-  edge
-  [
-    source 266
-    target 4
-    rank 17
-  ]
-  edge
-  [
-    source 266
-    target 318
-    rank 19
-  ]
-  edge
-  [
-    source 267
-    target 58
-    rank 3
-  ]
-  edge
-  [
-    source 267
-    target 31
-    rank 20
-  ]
-  edge
-  [
-    source 268
-    target 113
-    rank 3
-  ]
-  edge
-  [
-    source 268
-    target 67
-    rank 14
-  ]
-  edge
-  [
-    source 268
-    target 50
-    rank 16
-  ]
-  edge
-  [
-    source 268
-    target 95
-    rank 19
-  ]
-  edge
-  [
-    source 269
-    target 168
-    rank 1
-  ]
-  edge
-  [
-    source 269
-    target 25
-    rank 2
-  ]
-  edge
-  [
-    source 269
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 269
-    target 33
-    rank 9
-  ]
-  edge
-  [
-    source 269
-    target 295
-    rank 14
-  ]
-  edge
-  [
-    source 269
-    target 61
-    rank 15
-  ]
-  edge
-  [
-    source 269
-    target 8
-    rank 17
-  ]
-  edge
-  [
-    source 269
-    target 137
-    rank 19
-  ]
-  edge
-  [
-    source 270
-    target 86
-    rank 4
-  ]
-  edge
-  [
-    source 270
-    target 38
-    rank 6
-  ]
-  edge
-  [
-    source 270
-    target 78
-    rank 7
-  ]
-  edge
-  [
-    source 270
-    target 247
-    rank 8
-  ]
-  edge
-  [
-    source 270
-    target 125
-    rank 15
-  ]
-  edge
-  [
-    source 271
-    target 285
-    rank 3
-  ]
-  edge
-  [
-    source 271
-    target 256
-    rank 6
-  ]
-  edge
-  [
-    source 271
-    target 412
-    rank 12
-  ]
-  edge
-  [
-    source 271
-    target 90
-    rank 20
-  ]
-  edge
-  [
-    source 272
-    target 4
-    rank 1
-  ]
-  edge
-  [
-    source 272
-    target 89
-    rank 4
-  ]
-  edge
-  [
-    source 272
-    target 181
-    rank 5
-  ]
-  edge
-  [
-    source 272
-    target 144
-    rank 8
-  ]
-  edge
-  [
-    source 272
-    target 151
-    rank 10
-  ]
-  edge
-  [
-    source 272
-    target 43
-    rank 11
-  ]
-  edge
-  [
-    source 272
-    target 318
-    rank 13
-  ]
-  edge
-  [
-    source 272
-    target 232
-    rank 14
-  ]
-  edge
-  [
-    source 272
-    target 126
-    rank 15
-  ]
-  edge
-  [
-    source 272
-    target 207
-    rank 16
-  ]
-  edge
-  [
-    source 272
-    target 147
-    rank 17
-  ]
-  edge
-  [
-    source 272
-    target 59
-    rank 19
-  ]
-  edge
-  [
-    source 273
-    target 4
-    rank 4
-  ]
-  edge
-  [
-    source 273
-    target 341
-    rank 10
-  ]
-  edge
-  [
-    source 274
+    source 158
     target 31
     rank 1
   ]
   edge
   [
-    source 274
-    target 390
-    rank 7
+    source 158
+    target 370
+    rank 3
   ]
   edge
   [
-    source 274
-    target 16
-    rank 13
-  ]
-  edge
-  [
-    source 274
-    target 115
-    rank 14
-  ]
-  edge
-  [
-    source 274
-    target 0
-    rank 17
-  ]
-  edge
-  [
-    source 274
-    target 406
-    rank 19
-  ]
-  edge
-  [
-    source 274
-    target 9
-    rank 20
-  ]
-  edge
-  [
-    source 275
-    target 139
-    rank 6
-  ]
-  edge
-  [
-    source 275
-    target 31
-    rank 7
-  ]
-  edge
-  [
-    source 275
-    target 115
-    rank 11
-  ]
-  edge
-  [
-    source 275
-    target 390
-    rank 12
-  ]
-  edge
-  [
-    source 275
-    target 74
-    rank 16
-  ]
-  edge
-  [
-    source 275
-    target 9
-    rank 19
-  ]
-  edge
-  [
-    source 275
-    target 0
-    rank 20
-  ]
-  edge
-  [
-    source 276
-    target 150
-    rank 2
-  ]
-  edge
-  [
-    source 276
-    target 66
-    rank 9
-  ]
-  edge
-  [
-    source 276
-    target 120
-    rank 17
-  ]
-  edge
-  [
-    source 276
-    target 0
-    rank 20
-  ]
-  edge
-  [
-    source 277
-    target 150
-    rank 4
-  ]
-  edge
-  [
-    source 277
-    target 66
-    rank 5
-  ]
-  edge
-  [
-    source 277
+    source 158
     target 208
     rank 7
   ]
   edge
   [
-    source 277
-    target 52
-    rank 11
-  ]
-  edge
-  [
-    source 277
-    target 168
-    rank 14
-  ]
-  edge
-  [
-    source 277
-    target 276
-    rank 18
-  ]
-  edge
-  [
-    source 278
-    target 390
-    rank 3
-  ]
-  edge
-  [
-    source 278
-    target 42
-    rank 4
-  ]
-  edge
-  [
-    source 278
-    target 75
-    rank 5
-  ]
-  edge
-  [
-    source 278
-    target 98
-    rank 6
-  ]
-  edge
-  [
-    source 278
-    target 143
-    rank 7
-  ]
-  edge
-  [
-    source 278
-    target 141
-    rank 11
-  ]
-  edge
-  [
-    source 278
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 278
-    target 22
-    rank 13
-  ]
-  edge
-  [
-    source 278
-    target 15
-    rank 14
-  ]
-  edge
-  [
-    source 278
-    target 204
-    rank 16
-  ]
-  edge
-  [
-    source 278
-    target 322
-    rank 17
-  ]
-  edge
-  [
-    source 278
-    target 127
-    rank 18
-  ]
-  edge
-  [
-    source 278
-    target 133
-    rank 19
-  ]
-  edge
-  [
-    source 278
-    target 117
-    rank 20
-  ]
-  edge
-  [
-    source 279
-    target 296
-    rank 3
-  ]
-  edge
-  [
-    source 279
-    target 193
-    rank 6
-  ]
-  edge
-  [
-    source 279
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 279
-    target 191
-    rank 9
-  ]
-  edge
-  [
-    source 279
-    target 45
-    rank 11
-  ]
-  edge
-  [
-    source 279
-    target 55
-    rank 12
-  ]
-  edge
-  [
-    source 279
-    target 54
-    rank 15
-  ]
-  edge
-  [
-    source 279
-    target 73
-    rank 16
-  ]
-  edge
-  [
-    source 279
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 279
-    target 84
-    rank 19
-  ]
-  edge
-  [
-    source 281
-    target 295
-    rank 1
-  ]
-  edge
-  [
-    source 281
-    target 189
-    rank 3
-  ]
-  edge
-  [
-    source 281
-    target 75
-    rank 4
-  ]
-  edge
-  [
-    source 281
-    target 390
-    rank 6
-  ]
-  edge
-  [
-    source 281
-    target 42
-    rank 7
-  ]
-  edge
-  [
-    source 281
-    target 186
-    rank 8
-  ]
-  edge
-  [
-    source 281
-    target 136
-    rank 12
-  ]
-  edge
-  [
-    source 281
-    target 9
-    rank 13
-  ]
-  edge
-  [
-    source 281
-    target 242
-    rank 17
-  ]
-  edge
-  [
-    source 282
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 282
-    target 159
-    rank 5
-  ]
-  edge
-  [
-    source 282
-    target 22
-    rank 6
-  ]
-  edge
-  [
-    source 282
-    target 390
-    rank 8
-  ]
-  edge
-  [
-    source 282
+    source 158
     target 64
-    rank 16
-  ]
-  edge
-  [
-    source 282
-    target 0
-    rank 17
-  ]
-  edge
-  [
-    source 282
-    target 9
-    rank 18
-  ]
-  edge
-  [
-    source 282
-    target 6
-    rank 20
-  ]
-  edge
-  [
-    source 283
-    target 104
-    rank 4
-  ]
-  edge
-  [
-    source 283
-    target 231
-    rank 6
-  ]
-  edge
-  [
-    source 283
-    target 116
     rank 8
   ]
   edge
   [
-    source 283
-    target 108
-    rank 15
-  ]
-  edge
-  [
-    source 283
-    target 212
-    rank 19
-  ]
-  edge
-  [
-    source 283
-    target 203
-    rank 20
-  ]
-  edge
-  [
-    source 284
-    target 156
-    rank 4
-  ]
-  edge
-  [
-    source 284
-    target 4
-    rank 8
-  ]
-  edge
-  [
-    source 284
-    target 9
-    rank 9
-  ]
-  edge
-  [
-    source 284
-    target 20
-    rank 12
-  ]
-  edge
-  [
-    source 284
-    target 89
-    rank 13
-  ]
-  edge
-  [
-    source 284
-    target 116
-    rank 14
-  ]
-  edge
-  [
-    source 284
-    target 211
-    rank 17
-  ]
-  edge
-  [
-    source 284
-    target 32
-    rank 19
-  ]
-  edge
-  [
-    source 285
-    target 412
-    rank 6
-  ]
-  edge
-  [
-    source 285
-    target 168
-    rank 10
-  ]
-  edge
-  [
-    source 285
-    target 90
-    rank 11
-  ]
-  edge
-  [
-    source 285
-    target 128
-    rank 13
-  ]
-  edge
-  [
-    source 286
-    target 169
-    rank 2
-  ]
-  edge
-  [
-    source 287
-    target 65
-    rank 2
-  ]
-  edge
-  [
-    source 287
-    target 200
-    rank 5
-  ]
-  edge
-  [
-    source 287
-    target 185
-    rank 9
-  ]
-  edge
-  [
-    source 287
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 287
-    target 425
-    rank 19
-  ]
-  edge
-  [
-    source 287
-    target 167
-    rank 20
-  ]
-  edge
-  [
-    source 288
-    target 114
-    rank 2
-  ]
-  edge
-  [
-    source 288
-    target 254
-    rank 11
-  ]
-  edge
-  [
-    source 288
-    target 250
-    rank 12
-  ]
-  edge
-  [
-    source 288
-    target 201
-    rank 13
-  ]
-  edge
-  [
-    source 288
-    target 71
-    rank 19
-  ]
-  edge
-  [
-    source 290
-    target 252
-    rank 9
-  ]
-  edge
-  [
-    source 290
-    target 39
-    rank 11
-  ]
-  edge
-  [
-    source 290
-    target 223
-    rank 16
-  ]
-  edge
-  [
-    source 290
-    target 9
-    rank 20
-  ]
-  edge
-  [
-    source 291
-    target 109
-    rank 2
-  ]
-  edge
-  [
-    source 291
-    target 191
-    rank 5
-  ]
-  edge
-  [
-    source 291
-    target 84
-    rank 13
-  ]
-  edge
-  [
-    source 291
-    target 70
-    rank 15
-  ]
-  edge
-  [
-    source 292
-    target 194
-    rank 4
-  ]
-  edge
-  [
-    source 293
-    target 31
-    rank 2
-  ]
-  edge
-  [
-    source 293
-    target 390
-    rank 5
-  ]
-  edge
-  [
-    source 293
-    target 308
-    rank 9
-  ]
-  edge
-  [
-    source 293
-    target 75
-    rank 12
-  ]
-  edge
-  [
-    source 293
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 293
-    target 136
-    rank 16
-  ]
-  edge
-  [
-    source 293
-    target 287
-    rank 17
-  ]
-  edge
-  [
-    source 293
-    target 200
-    rank 19
-  ]
-  edge
-  [
-    source 294
-    target 173
-    rank 4
-  ]
-  edge
-  [
-    source 294
-    target 162
-    rank 5
-  ]
-  edge
-  [
-    source 294
-    target 49
-    rank 10
-  ]
-  edge
-  [
-    source 294
-    target 38
-    rank 13
-  ]
-  edge
-  [
-    source 295
-    target 189
-    rank 1
-  ]
-  edge
-  [
-    source 295
-    target 75
-    rank 5
-  ]
-  edge
-  [
-    source 295
-    target 390
-    rank 6
-  ]
-  edge
-  [
-    source 295
-    target 242
-    rank 7
-  ]
-  edge
-  [
-    source 295
-    target 186
-    rank 8
-  ]
-  edge
-  [
-    source 295
-    target 25
-    rank 13
-  ]
-  edge
-  [
-    source 295
-    target 425
-    rank 16
-  ]
-  edge
-  [
-    source 295
-    target 4
-    rank 20
-  ]
-  edge
-  [
-    source 296
-    target 37
-    rank 9
-  ]
-  edge
-  [
-    source 296
-    target 45
-    rank 10
-  ]
-  edge
-  [
-    source 296
-    target 38
-    rank 11
-  ]
-  edge
-  [
-    source 296
-    target 54
-    rank 13
-  ]
-  edge
-  [
-    source 296
-    target 73
-    rank 17
-  ]
-  edge
-  [
-    source 296
-    target 279
-    rank 18
-  ]
-  edge
-  [
-    source 296
-    target 125
-    rank 19
-  ]
-  edge
-  [
-    source 296
-    target 109
-    rank 20
-  ]
-  edge
-  [
-    source 297
-    target 177
-    rank 1
-  ]
-  edge
-  [
-    source 297
-    target 43
-    rank 5
-  ]
-  edge
-  [
-    source 297
-    target 285
-    rank 6
-  ]
-  edge
-  [
-    source 297
-    target 59
-    rank 7
-  ]
-  edge
-  [
-    source 297
-    target 266
-    rank 8
-  ]
-  edge
-  [
-    source 297
-    target 128
-    rank 9
-  ]
-  edge
-  [
-    source 297
-    target 126
-    rank 14
-  ]
-  edge
-  [
-    source 297
-    target 90
-    rank 15
-  ]
-  edge
-  [
-    source 297
-    target 4
-    rank 17
-  ]
-  edge
-  [
-    source 297
-    target 147
-    rank 18
-  ]
-  edge
-  [
-    source 298
-    target 175
-    rank 4
-  ]
-  edge
-  [
-    source 299
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 299
-    target 370
-    rank 12
-  ]
-  edge
-  [
-    source 300
-    target 125
-    rank 5
-  ]
-  edge
-  [
-    source 300
-    target 251
-    rank 18
-  ]
-  edge
-  [
-    source 301
-    target 25
-    rank 14
-  ]
-  edge
-  [
-    source 302
-    target 225
-    rank 6
-  ]
-  edge
-  [
-    source 303
-    target 55
-    rank 6
-  ]
-  edge
-  [
-    source 303
-    target 23
-    rank 11
-  ]
-  edge
-  [
-    source 303
-    target 210
-    rank 13
-  ]
-  edge
-  [
-    source 304
-    target 326
-    rank 8
-  ]
-  edge
-  [
-    source 304
-    target 13
-    rank 17
-  ]
-  edge
-  [
-    source 304
-    target 247
-    rank 18
-  ]
-  edge
-  [
-    source 304
-    target 188
-    rank 20
-  ]
-  edge
-  [
-    source 305
-    target 192
-    rank 2
-  ]
-  edge
-  [
-    source 305
-    target 186
-    rank 4
-  ]
-  edge
-  [
-    source 305
-    target 175
-    rank 7
-  ]
-  edge
-  [
-    source 305
-    target 25
-    rank 15
-  ]
-  edge
-  [
-    source 305
-    target 425
-    rank 16
-  ]
-  edge
-  [
-    source 305
-    target 99
-    rank 18
-  ]
-  edge
-  [
-    source 306
-    target 93
-    rank 7
-  ]
-  edge
-  [
-    source 307
-    target 220
-    rank 1
-  ]
-  edge
-  [
-    source 307
-    target 229
-    rank 4
-  ]
-  edge
-  [
-    source 308
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 308
-    target 128
-    rank 6
-  ]
-  edge
-  [
-    source 308
-    target 287
-    rank 9
-  ]
-  edge
-  [
-    source 308
-    target 4
-    rank 15
-  ]
-  edge
-  [
-    source 308
-    target 25
-    rank 16
-  ]
-  edge
-  [
-    source 308
-    target 74
-    rank 19
-  ]
-  edge
-  [
-    source 309
-    target 245
-    rank 1
-  ]
-  edge
-  [
-    source 309
-    target 23
-    rank 7
-  ]
-  edge
-  [
-    source 309
-    target 253
-    rank 8
-  ]
-  edge
-  [
-    source 309
-    target 27
-    rank 13
-  ]
-  edge
-  [
-    source 309
-    target 263
-    rank 15
-  ]
-  edge
-  [
-    source 309
-    target 102
-    rank 20
-  ]
-  edge
-  [
-    source 310
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 310
-    target 196
-    rank 2
-  ]
-  edge
-  [
-    source 310
-    target 99
-    rank 14
-  ]
-  edge
-  [
-    source 311
-    target 109
-    rank 14
-  ]
-  edge
-  [
-    source 312
-    target 140
-    rank 9
-  ]
-  edge
-  [
-    source 313
-    target 425
-    rank 2
-  ]
-  edge
-  [
-    source 313
-    target 25
-    rank 16
-  ]
-  edge
-  [
-    source 314
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 314
-    target 310
-    rank 8
-  ]
-  edge
-  [
-    source 314
-    target 99
-    rank 12
-  ]
-  edge
-  [
-    source 315
-    target 32
-    rank 3
-  ]
-  edge
-  [
-    source 315
-    target 109
-    rank 11
-  ]
-  edge
-  [
-    source 315
-    target 4
-    rank 14
-  ]
-  edge
-  [
-    source 315
-    target 19
-    rank 18
-  ]
-  edge
-  [
-    source 316
-    target 425
-    rank 3
-  ]
-  edge
-  [
-    source 316
-    target 384
-    rank 4
-  ]
-  edge
-  [
-    source 316
-    target 99
-    rank 16
-  ]
-  edge
-  [
-    source 317
-    target 49
-    rank 14
-  ]
-  edge
-  [
-    source 317
-    target 109
-    rank 16
-  ]
-  edge
-  [
-    source 318
-    target 43
-    rank 1
-  ]
-  edge
-  [
-    source 318
-    target 147
-    rank 2
-  ]
-  edge
-  [
-    source 318
-    target 89
-    rank 4
-  ]
-  edge
-  [
-    source 318
-    target 240
-    rank 5
-  ]
-  edge
-  [
-    source 318
-    target 126
-    rank 7
-  ]
-  edge
-  [
-    source 318
-    target 4
-    rank 10
-  ]
-  edge
-  [
-    source 318
-    target 151
-    rank 11
-  ]
-  edge
-  [
-    source 318
-    target 144
-    rank 13
-  ]
-  edge
-  [
-    source 319
-    target 101
-    rank 8
-  ]
-  edge
-  [
-    source 319
-    target 168
-    rank 11
-  ]
-  edge
-  [
-    source 321
-    target 20
-    rank 12
-  ]
-  edge
-  [
-    source 321
-    target 150
-    rank 20
-  ]
-  edge
-  [
-    source 322
-    target 143
-    rank 2
-  ]
-  edge
-  [
-    source 322
-    target 327
-    rank 4
-  ]
-  edge
-  [
-    source 322
-    target 4
-    rank 5
-  ]
-  edge
-  [
-    source 322
+    source 158
     target 22
-    rank 7
-  ]
-  edge
-  [
-    source 322
-    target 141
     rank 9
   ]
   edge
   [
-    source 322
-    target 98
-    rank 10
-  ]
-  edge
-  [
-    source 322
-    target 117
-    rank 15
-  ]
-  edge
-  [
-    source 322
-    target 204
-    rank 17
-  ]
-  edge
-  [
-    source 322
-    target 68
-    rank 20
-  ]
-  edge
-  [
-    source 323
-    target 317
-    rank 4
-  ]
-  edge
-  [
-    source 323
-    target 109
-    rank 10
-  ]
-  edge
-  [
-    source 326
-    target 188
-    rank 13
-  ]
-  edge
-  [
-    source 327
-    target 117
-    rank 4
-  ]
-  edge
-  [
-    source 327
-    target 143
-    rank 6
-  ]
-  edge
-  [
-    source 327
-    target 86
-    rank 7
-  ]
-  edge
-  [
-    source 327
-    target 141
+    source 158
+    target 0
     rank 11
   ]
   edge
   [
-    source 327
-    target 42
+    source 158
+    target 55
     rank 13
   ]
   edge
   [
-    source 327
-    target 27
+    source 158
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 158
+    target 72
+    rank 15
+  ]
+  edge
+  [
+    source 158
+    target 268
+    rank 18
+  ]
+  edge
+  [
+    source 159
+    target 30
+    rank 1
+  ]
+  edge
+  [
+    source 159
+    target 230
+    rank 7
+  ]
+  edge
+  [
+    source 159
+    target 128
+    rank 9
+  ]
+  edge
+  [
+    source 159
+    target 150
     rank 17
   ]
   edge
   [
-    source 327
-    target 26
-    rank 19
+    source 159
+    target 82
+    rank 18
   ]
   edge
   [
-    source 328
-    target 425
+    source 160
+    target 32
+    rank 1
+  ]
+  edge
+  [
+    source 160
+    target 1
+    rank 2
+  ]
+  edge
+  [
+    source 160
+    target 9
+    rank 3
+  ]
+  edge
+  [
+    source 160
+    target 178
+    rank 5
+  ]
+  edge
+  [
+    source 160
+    target 7
     rank 6
   ]
   edge
   [
-    source 329
-    target 314
-    rank 20
+    source 160
+    target 8
+    rank 10
   ]
   edge
   [
-    source 330
+    source 160
+    target 137
+    rank 15
+  ]
+  edge
+  [
+    source 161
+    target 49
+    rank 1
+  ]
+  edge
+  [
+    source 161
+    target 286
+    rank 12
+  ]
+  edge
+  [
+    source 161
+    target 55
+    rank 18
+  ]
+  edge
+  [
+    source 162
+    target 207
+    rank 1
+  ]
+  edge
+  [
+    source 162
+    target 233
+    rank 4
+  ]
+  edge
+  [
+    source 162
+    target 102
+    rank 7
+  ]
+  edge
+  [
+    source 162
+    target 35
+    rank 8
+  ]
+  edge
+  [
+    source 162
+    target 104
+    rank 10
+  ]
+  edge
+  [
+    source 162
+    target 31
+    rank 11
+  ]
+  edge
+  [
+    source 162
+    target 218
+    rank 12
+  ]
+  edge
+  [
+    source 162
+    target 27
+    rank 14
+  ]
+  edge
+  [
+    source 162
+    target 23
+    rank 15
+  ]
+  edge
+  [
+    source 162
+    target 122
+    rank 18
+  ]
+  edge
+  [
+    source 163
     target 31
     rank 1
   ]
   edge
   [
-    source 330
-    target 390
-    rank 8
+    source 163
+    target 370
+    rank 5
   ]
   edge
   [
-    source 330
-    target 16
-    rank 10
-  ]
-  edge
-  [
-    source 330
+    source 163
     target 72
-    rank 11
+    rank 9
   ]
   edge
   [
-    source 330
+    source 163
+    target 22
+    rank 13
+  ]
+  edge
+  [
+    source 163
     target 0
     rank 14
   ]
   edge
   [
-    source 330
-    target 74
-    rank 17
+    source 163
+    target 6
+    rank 15
   ]
   edge
   [
-    source 330
+    source 163
     target 9
     rank 18
   ]
   edge
   [
-    source 331
-    target 125
-    rank 5
-  ]
-  edge
-  [
-    source 331
-    target 73
-    rank 10
-  ]
-  edge
-  [
-    source 331
-    target 55
-    rank 17
-  ]
-  edge
-  [
-    source 333
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 333
-    target 196
-    rank 3
-  ]
-  edge
-  [
-    source 333
-    target 310
-    rank 10
-  ]
-  edge
-  [
-    source 333
-    target 99
-    rank 14
-  ]
-  edge
-  [
-    source 334
-    target 328
-    rank 9
-  ]
-  edge
-  [
-    source 335
-    target 38
-    rank 4
-  ]
-  edge
-  [
-    source 336
-    target 238
-    rank 6
-  ]
-  edge
-  [
-    source 336
-    target 102
-    rank 9
-  ]
-  edge
-  [
-    source 336
-    target 245
-    rank 13
-  ]
-  edge
-  [
-    source 336
-    target 130
-    rank 17
-  ]
-  edge
-  [
-    source 336
-    target 163
-    rank 20
-  ]
-  edge
-  [
-    source 337
-    target 127
-    rank 6
-  ]
-  edge
-  [
-    source 337
-    target 26
-    rank 15
-  ]
-  edge
-  [
-    source 337
-    target 54
-    rank 16
-  ]
-  edge
-  [
-    source 337
-    target 67
-    rank 17
-  ]
-  edge
-  [
-    source 337
-    target 59
-    rank 20
-  ]
-  edge
-  [
-    source 338
-    target 277
-    rank 5
-  ]
-  edge
-  [
-    source 338
-    target 174
-    rank 6
-  ]
-  edge
-  [
-    source 339
-    target 38
-    rank 11
-  ]
-  edge
-  [
-    source 339
-    target 217
-    rank 16
-  ]
-  edge
-  [
-    source 339
-    target 101
-    rank 20
-  ]
-  edge
-  [
-    source 340
-    target 99
-    rank 1
-  ]
-  edge
-  [
-    source 340
-    target 168
-    rank 3
-  ]
-  edge
-  [
-    source 340
-    target 4
-    rank 6
-  ]
-  edge
-  [
-    source 340
-    target 114
-    rank 7
-  ]
-  edge
-  [
-    source 340
-    target 41
-    rank 20
-  ]
-  edge
-  [
-    source 341
-    target 25
-    rank 13
-  ]
-  edge
-  [
-    source 341
-    target 186
-    rank 17
-  ]
-  edge
-  [
-    source 342
-    target 37
-    rank 14
-  ]
-  edge
-  [
-    source 344
-    target 94
-    rank 15
-  ]
-  edge
-  [
-    source 344
-    target 57
-    rank 20
-  ]
-  edge
-  [
-    source 345
-    target 290
-    rank 11
-  ]
-  edge
-  [
-    source 346
-    target 25
-    rank 4
-  ]
-  edge
-  [
-    source 346
-    target 4
-    rank 5
-  ]
-  edge
-  [
-    source 346
-    target 61
-    rank 10
-  ]
-  edge
-  [
-    source 346
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 348
-    target 300
+    source 163
+    target 268
     rank 19
   ]
   edge
   [
-    source 350
-    target 21
+    source 164
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 164
+    target 128
     rank 3
   ]
   edge
   [
-    source 350
-    target 425
+    source 164
+    target 35
+    rank 4
+  ]
+  edge
+  [
+    source 164
+    target 40
     rank 6
   ]
   edge
   [
-    source 350
-    target 100
-    rank 7
+    source 164
+    target 162
+    rank 8
   ]
   edge
   [
-    source 350
-    target 39
+    source 164
+    target 7
+    rank 10
+  ]
+  edge
+  [
+    source 164
+    target 33
     rank 12
   ]
   edge
   [
-    source 350
+    source 164
     target 3
     rank 13
   ]
   edge
   [
-    source 350
-    target 104
-    rank 16
-  ]
-  edge
-  [
-    source 351
-    target 51
-    rank 7
-  ]
-  edge
-  [
-    source 351
-    target 110
-    rank 8
-  ]
-  edge
-  [
-    source 351
-    target 38
-    rank 9
-  ]
-  edge
-  [
-    source 352
-    target 67
-    rank 20
-  ]
-  edge
-  [
-    source 354
-    target 296
-    rank 2
-  ]
-  edge
-  [
-    source 354
-    target 69
-    rank 5
-  ]
-  edge
-  [
-    source 354
-    target 11
-    rank 18
-  ]
-  edge
-  [
-    source 355
-    target 198
-    rank 11
-  ]
-  edge
-  [
-    source 356
-    target 25
-    rank 8
-  ]
-  edge
-  [
-    source 356
-    target 16
-    rank 10
-  ]
-  edge
-  [
-    source 356
-    target 159
-    rank 11
-  ]
-  edge
-  [
-    source 356
-    target 190
-    rank 12
-  ]
-  edge
-  [
-    source 356
-    target 72
-    rank 14
-  ]
-  edge
-  [
-    source 356
-    target 157
-    rank 18
-  ]
-  edge
-  [
-    source 357
-    target 240
-    rank 3
-  ]
-  edge
-  [
-    source 357
-    target 241
-    rank 8
-  ]
-  edge
-  [
-    source 359
-    target 9
-    rank 12
-  ]
-  edge
-  [
-    source 360
-    target 31
-    rank 10
-  ]
-  edge
-  [
-    source 362
-    target 55
-    rank 15
-  ]
-  edge
-  [
-    source 363
-    target 241
-    rank 1
-  ]
-  edge
-  [
-    source 363
-    target 32
-    rank 2
-  ]
-  edge
-  [
-    source 363
-    target 126
-    rank 18
-  ]
-  edge
-  [
-    source 364
-    target 33
-    rank 14
-  ]
-  edge
-  [
-    source 364
-    target 269
-    rank 15
-  ]
-  edge
-  [
-    source 366
-    target 25
-    rank 3
-  ]
-  edge
-  [
-    source 366
-    target 292
-    rank 4
-  ]
-  edge
-  [
-    source 366
-    target 194
-    rank 5
-  ]
-  edge
-  [
-    source 366
-    target 390
-    rank 10
-  ]
-  edge
-  [
-    source 367
-    target 243
-    rank 3
-  ]
-  edge
-  [
-    source 367
-    target 175
-    rank 6
-  ]
-  edge
-  [
-    source 367
-    target 186
-    rank 18
-  ]
-  edge
-  [
-    source 368
-    target 55
-    rank 2
-  ]
-  edge
-  [
-    source 369
-    target 92
-    rank 18
-  ]
-  edge
-  [
-    source 370
-    target 425
-    rank 8
-  ]
-  edge
-  [
-    source 371
-    target 9
-    rank 2
-  ]
-  edge
-  [
-    source 371
-    target 0
-    rank 15
-  ]
-  edge
-  [
-    source 372
-    target 201
-    rank 8
-  ]
-  edge
-  [
-    source 372
-    target 80
-    rank 14
-  ]
-  edge
-  [
-    source 373
-    target 295
-    rank 2
-  ]
-  edge
-  [
-    source 373
-    target 189
-    rank 8
-  ]
-  edge
-  [
-    source 373
-    target 390
-    rank 14
-  ]
-  edge
-  [
-    source 373
-    target 182
-    rank 15
-  ]
-  edge
-  [
-    source 374
-    target 20
-    rank 8
-  ]
-  edge
-  [
-    source 374
-    target 39
-    rank 10
-  ]
-  edge
-  [
-    source 374
-    target 4
-    rank 18
-  ]
-  edge
-  [
-    source 375
-    target 241
-    rank 11
-  ]
-  edge
-  [
-    source 375
-    target 127
-    rank 17
-  ]
-  edge
-  [
-    source 375
-    target 50
-    rank 19
-  ]
-  edge
-  [
-    source 375
-    target 51
-    rank 20
-  ]
-  edge
-  [
-    source 376
-    target 425
-    rank 4
-  ]
-  edge
-  [
-    source 376
-    target 32
-    rank 12
-  ]
-  edge
-  [
-    source 376
-    target 9
-    rank 13
-  ]
-  edge
-  [
-    source 376
-    target 272
-    rank 18
-  ]
-  edge
-  [
-    source 376
-    target 31
-    rank 19
-  ]
-  edge
-  [
-    source 377
-    target 12
-    rank 7
-  ]
-  edge
-  [
-    source 377
-    target 247
-    rank 17
-  ]
-  edge
-  [
-    source 378
-    target 49
-    rank 2
-  ]
-  edge
-  [
-    source 378
-    target 55
-    rank 3
-  ]
-  edge
-  [
-    source 378
-    target 69
-    rank 7
-  ]
-  edge
-  [
-    source 378
-    target 77
-    rank 16
-  ]
-  edge
-  [
-    source 379
-    target 4
-    rank 1
-  ]
-  edge
-  [
-    source 379
-    target 232
-    rank 4
-  ]
-  edge
-  [
-    source 379
-    target 43
-    rank 13
-  ]
-  edge
-  [
-    source 379
-    target 59
-    rank 14
-  ]
-  edge
-  [
-    source 379
-    target 144
-    rank 20
-  ]
-  edge
-  [
-    source 380
-    target 291
-    rank 14
-  ]
-  edge
-  [
-    source 381
-    target 69
-    rank 16
-  ]
-  edge
-  [
-    source 382
-    target 51
-    rank 6
-  ]
-  edge
-  [
-    source 382
-    target 247
-    rank 9
-  ]
-  edge
-  [
-    source 382
-    target 91
-    rank 15
-  ]
-  edge
-  [
-    source 382
-    target 31
-    rank 17
-  ]
-  edge
-  [
-    source 382
-    target 105
-    rank 18
-  ]
-  edge
-  [
-    source 382
-    target 67
-    rank 20
-  ]
-  edge
-  [
-    source 383
-    target 25
-    rank 2
-  ]
-  edge
-  [
-    source 383
-    target 9
-    rank 3
-  ]
-  edge
-  [
-    source 383
-    target 99
-    rank 9
-  ]
-  edge
-  [
-    source 383
-    target 425
-    rank 10
-  ]
-  edge
-  [
-    source 383
-    target 4
-    rank 12
-  ]
-  edge
-  [
-    source 383
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 383
-    target 74
-    rank 18
-  ]
-  edge
-  [
-    source 384
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 384
-    target 25
-    rank 11
-  ]
-  edge
-  [
-    source 385
-    target 19
-    rank 6
-  ]
-  edge
-  [
-    source 386
-    target 390
-    rank 5
-  ]
-  edge
-  [
-    source 386
-    target 0
-    rank 9
-  ]
-  edge
-  [
-    source 386
-    target 257
-    rank 12
-  ]
-  edge
-  [
-    source 388
-    target 25
-    rank 6
-  ]
-  edge
-  [
-    source 389
-    target 186
-    rank 6
-  ]
-  edge
-  [
-    source 390
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 390
-    target 74
-    rank 4
-  ]
-  edge
-  [
-    source 390
-    target 72
-    rank 7
-  ]
-  edge
-  [
-    source 390
-    target 22
-    rank 14
-  ]
-  edge
-  [
-    source 390
-    target 0
-    rank 15
-  ]
-  edge
-  [
-    source 390
-    target 9
-    rank 16
-  ]
-  edge
-  [
-    source 390
-    target 6
-    rank 17
-  ]
-  edge
-  [
-    source 390
-    target 2
-    rank 18
-  ]
-  edge
-  [
-    source 391
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 391
-    target 4
-    rank 4
-  ]
-  edge
-  [
-    source 391
-    target 24
-    rank 8
-  ]
-  edge
-  [
-    source 391
-    target 9
-    rank 13
-  ]
-  edge
-  [
-    source 391
-    target 104
-    rank 14
-  ]
-  edge
-  [
-    source 391
-    target 26
-    rank 15
-  ]
-  edge
-  [
-    source 391
-    target 5
-    rank 16
-  ]
-  edge
-  [
-    source 391
-    target 2
-    rank 19
-  ]
-  edge
-  [
-    source 392
-    target 194
-    rank 15
-  ]
-  edge
-  [
-    source 394
-    target 175
-    rank 17
-  ]
-  edge
-  [
-    source 394
-    target 25
-    rank 18
-  ]
-  edge
-  [
-    source 394
-    target 126
-    rank 19
-  ]
-  edge
-  [
-    source 395
-    target 168
-    rank 2
-  ]
-  edge
-  [
-    source 395
-    target 174
-    rank 6
-  ]
-  edge
-  [
-    source 395
-    target 111
-    rank 9
-  ]
-  edge
-  [
-    source 395
-    target 0
-    rank 16
-  ]
-  edge
-  [
-    source 396
-    target 38
-    rank 9
-  ]
-  edge
-  [
-    source 397
-    target 128
-    rank 2
-  ]
-  edge
-  [
-    source 397
-    target 175
-    rank 5
-  ]
-  edge
-  [
-    source 397
-    target 390
-    rank 7
-  ]
-  edge
-  [
-    source 397
-    target 134
-    rank 9
-  ]
-  edge
-  [
-    source 397
-    target 168
-    rank 14
-  ]
-  edge
-  [
-    source 397
-    target 59
-    rank 18
-  ]
-  edge
-  [
-    source 400
-    target 185
-    rank 4
-  ]
-  edge
-  [
-    source 401
-    target 150
-    rank 7
-  ]
-  edge
-  [
-    source 402
-    target 4
-    rank 6
-  ]
-  edge
-  [
-    source 402
-    target 0
-    rank 7
-  ]
-  edge
-  [
-    source 404
-    target 412
-    rank 1
-  ]
-  edge
-  [
-    source 404
-    target 416
-    rank 2
-  ]
-  edge
-  [
-    source 405
-    target 49
-    rank 3
-  ]
-  edge
-  [
-    source 405
-    target 38
-    rank 14
-  ]
-  edge
-  [
-    source 406
-    target 31
-    rank 1
-  ]
-  edge
-  [
-    source 406
-    target 0
-    rank 6
-  ]
-  edge
-  [
-    source 406
-    target 74
-    rank 10
-  ]
-  edge
-  [
-    source 406
-    target 22
-    rank 11
-  ]
-  edge
-  [
-    source 406
-    target 390
-    rank 12
-  ]
-  edge
-  [
-    source 406
-    target 72
-    rank 13
-  ]
-  edge
-  [
-    source 406
-    target 9
-    rank 14
-  ]
-  edge
-  [
-    source 406
-    target 274
-    rank 15
-  ]
-  edge
-  [
-    source 406
-    target 6
-    rank 17
-  ]
-  edge
-  [
-    source 406
-    target 2
-    rank 20
-  ]
-  edge
-  [
-    source 408
-    target 13
-    rank 3
-  ]
-  edge
-  [
-    source 408
-    target 188
-    rank 4
-  ]
-  edge
-  [
-    source 408
-    target 162
-    rank 6
-  ]
-  edge
-  [
-    source 408
-    target 61
-    rank 8
-  ]
-  edge
-  [
-    source 408
-    target 17
-    rank 10
-  ]
-  edge
-  [
-    source 408
-    target 38
-    rank 11
-  ]
-  edge
-  [
-    source 408
-    target 67
-    rank 13
-  ]
-  edge
-  [
-    source 408
-    target 247
-    rank 15
-  ]
-  edge
-  [
-    source 408
-    target 108
-    rank 16
-  ]
-  edge
-  [
-    source 408
-    target 45
-    rank 18
-  ]
-  edge
-  [
-    source 408
-    target 34
-    rank 19
-  ]
-  edge
-  [
-    source 409
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 409
-    target 128
-    rank 11
-  ]
-  edge
-  [
-    source 409
-    target 90
-    rank 12
-  ]
-  edge
-  [
-    source 409
-    target 59
-    rank 14
-  ]
-  edge
-  [
-    source 409
-    target 99
-    rank 15
-  ]
-  edge
-  [
-    source 409
-    target 425
-    rank 19
-  ]
-  edge
-  [
-    source 411
-    target 25
-    rank 9
-  ]
-  edge
-  [
-    source 411
-    target 425
-    rank 15
-  ]
-  edge
-  [
-    source 411
-    target 99
-    rank 16
-  ]
-  edge
-  [
-    source 412
-    target 416
-    rank 1
-  ]
-  edge
-  [
-    source 412
-    target 404
-    rank 11
-  ]
-  edge
-  [
-    source 413
-    target 152
-    rank 1
-  ]
-  edge
-  [
-    source 413
-    target 32
-    rank 2
-  ]
-  edge
-  [
-    source 413
-    target 51
-    rank 9
-  ]
-  edge
-  [
-    source 413
-    target 66
-    rank 10
-  ]
-  edge
-  [
-    source 413
-    target 91
-    rank 11
-  ]
-  edge
-  [
-    source 413
-    target 0
-    rank 13
-  ]
-  edge
-  [
-    source 413
-    target 38
-    rank 17
-  ]
-  edge
-  [
-    source 413
-    target 68
-    rank 19
-  ]
-  edge
-  [
-    source 413
-    target 143
-    rank 20
-  ]
-  edge
-  [
-    source 415
-    target 113
-    rank 1
-  ]
-  edge
-  [
-    source 415
-    target 188
-    rank 6
-  ]
-  edge
-  [
-    source 415
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 415
-    target 49
-    rank 11
-  ]
-  edge
-  [
-    source 415
-    target 25
-    rank 15
-  ]
-  edge
-  [
-    source 415
-    target 128
-    rank 20
-  ]
-  edge
-  [
-    source 416
-    target 412
-    rank 1
-  ]
-  edge
-  [
-    source 416
-    target 404
-    rank 6
-  ]
-  edge
-  [
-    source 416
-    target 90
-    rank 7
-  ]
-  edge
-  [
-    source 417
-    target 425
-    rank 5
-  ]
-  edge
-  [
-    source 417
-    target 175
-    rank 8
-  ]
-  edge
-  [
-    source 417
-    target 370
-    rank 10
-  ]
-  edge
-  [
-    source 418
-    target 4
-    rank 8
-  ]
-  edge
-  [
-    source 418
-    target 86
-    rank 18
-  ]
-  edge
-  [
-    source 420
-    target 4
-    rank 9
-  ]
-  edge
-  [
-    source 420
+    source 164
     target 178
-    rank 11
+    rank 16
   ]
   edge
   [
-    source 420
-    target 51
-    rank 12
+    source 164
+    target 207
+    rank 17
   ]
   edge
   [
-    source 421
-    target 137
+    source 164
+    target 21
+    rank 19
+  ]
+  edge
+  [
+    source 164
+    target 5
+    rank 20
+  ]
+  edge
+  [
+    source 165
+    target 49
     rank 4
   ]
   edge
   [
-    source 421
-    target 4
-    rank 11
-  ]
-  edge
-  [
-    source 422
-    target 243
-    rank 1
-  ]
-  edge
-  [
-    source 422
-    target 9
-    rank 9
-  ]
-  edge
-  [
-    source 422
-    target 128
-    rank 19
-  ]
-  edge
-  [
-    source 424
-    target 51
-    rank 2
-  ]
-  edge
-  [
-    source 424
-    target 63
-    rank 15
-  ]
-  edge
-  [
-    source 424
-    target 191
-    rank 19
-  ]
-  edge
-  [
-    source 424
+    source 165
     target 37
-    rank 20
+    rank 7
   ]
   edge
   [
-    source 425
-    target 175
-    rank 5
+    source 165
+    target 149
+    rank 10
   ]
   edge
   [
-    source 425
-    target 25
-    rank 11
+    source 165
+    target 0
+    rank 13
   ]
   edge
   [
-    source 426
-    target 67
-    rank 3
-  ]
-  edge
-  [
-    source 426
-    target 30
-    rank 6
-  ]
-  edge
-  [
-    source 428
-    target 326
-    rank 1
-  ]
-  edge
-  [
-    source 429
-    target 49
-    rank 4
-  ]
-  edge
-  [
-    source 429
-    target 30
-    rank 9
-  ]
-  edge
-  [
-    source 429
-    target 457
-    rank 16
-  ]
-  edge
-  [
-    source 430
-    target 390
-    rank 1
-  ]
-  edge
-  [
-    source 430
-    target 222
-    rank 2
-  ]
-  edge
-  [
-    source 430
-    target 162
-    rank 4
-  ]
-  edge
-  [
-    source 430
-    target 269
-    rank 11
-  ]
-  edge
-  [
-    source 430
-    target 82
+    source 165
+    target 4
     rank 14
   ]
   edge
   [
-    source 430
-    target 61
-    rank 15
+    source 165
+    target 95
+    rank 16
   ]
   edge
   [
-    source 430
-    target 49
-    rank 20
-  ]
-  edge
-  [
-    source 432
-    target 94
-    rank 5
-  ]
-  edge
-  [
-    source 432
-    target 58
-    rank 19
-  ]
-  edge
-  [
-    source 433
-    target 9
-    rank 6
-  ]
-  edge
-  [
-    source 433
-    target 32
-    rank 7
-  ]
-  edge
-  [
-    source 433
+    source 165
     target 50
-    rank 17
-  ]
-  edge
-  [
-    source 433
-    target 51
     rank 18
   ]
   edge
   [
-    source 433
-    target 177
-    rank 19
-  ]
-  edge
-  [
-    source 434
-    target 125
-    rank 6
-  ]
-  edge
-  [
-    source 434
-    target 188
+    source 166
+    target 182
     rank 9
   ]
   edge
   [
-    source 434
-    target 158
-    rank 11
+    source 166
+    target 140
+    rank 20
   ]
   edge
   [
-    source 434
-    target 9
-    rank 12
-  ]
-  edge
-  [
-    source 434
-    target 437
-    rank 13
-  ]
-  edge
-  [
-    source 434
-    target 11
-    rank 15
-  ]
-  edge
-  [
-    source 435
-    target 9
+    source 167
+    target 32
     rank 1
   ]
   edge
   [
-    source 435
-    target 390
-    rank 7
+    source 167
+    target 150
+    rank 3
   ]
   edge
   [
-    source 435
-    target 269
-    rank 12
+    source 167
+    target 128
+    rank 6
   ]
   edge
   [
-    source 435
-    target 25
-    rank 13
-  ]
-  edge
-  [
-    source 435
-    target 50
-    rank 15
-  ]
-  edge
-  [
-    source 435
-    target 162
-    rank 17
-  ]
-  edge
-  [
-    source 435
-    target 222
-    rank 18
-  ]
-  edge
-  [
-    source 435
-    target 0
-    rank 19
-  ]
-  edge
-  [
-    source 436
+    source 167
     target 178
     rank 8
   ]
   edge
   [
-    source 436
-    target 67
-    rank 13
-  ]
-  edge
-  [
-    source 436
-    target 126
-    rank 18
-  ]
-  edge
-  [
-    source 436
-    target 95
-    rank 20
-  ]
-  edge
-  [
-    source 437
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 437
-    target 188
-    rank 7
-  ]
-  edge
-  [
-    source 437
-    target 49
-    rank 13
-  ]
-  edge
-  [
-    source 437
-    target 50
-    rank 18
-  ]
-  edge
-  [
-    source 437
-    target 4
-    rank 20
-  ]
-  edge
-  [
-    source 438
-    target 126
+    source 167
+    target 33
     rank 9
   ]
   edge
   [
-    source 438
-    target 186
-    rank 15
+    source 167
+    target 17
+    rank 12
   ]
   edge
   [
-    source 438
-    target 75
-    rank 18
+    source 167
+    target 59
+    rank 14
   ]
   edge
   [
-    source 438
-    target 0
+    source 167
+    target 173
     rank 20
   ]
   edge
   [
-    source 439
+    source 168
+    target 38
+    rank 2
+  ]
+  edge
+  [
+    source 168
     target 13
-    rank 5
+    rank 8
   ]
   edge
   [
-    source 439
-    target 32
-    rank 7
-  ]
-  edge
-  [
-    source 440
-    target 49
-    rank 3
-  ]
-  edge
-  [
-    source 440
-    target 30
+    source 168
+    target 29
     rank 11
   ]
   edge
   [
-    source 442
-    target 68
-    rank 1
-  ]
-  edge
-  [
-    source 442
-    target 128
-    rank 3
-  ]
-  edge
-  [
-    source 442
-    target 0
-    rank 4
-  ]
-  edge
-  [
-    source 442
-    target 13
-    rank 6
-  ]
-  edge
-  [
-    source 442
-    target 271
-    rank 13
-  ]
-  edge
-  [
-    source 442
-    target 44
-    rank 15
-  ]
-  edge
-  [
-    source 442
-    target 266
-    rank 16
-  ]
-  edge
-  [
-    source 442
-    target 41
-    rank 18
-  ]
-  edge
-  [
-    source 442
-    target 16
-    rank 19
-  ]
-  edge
-  [
-    source 443
-    target 51
-    rank 2
-  ]
-  edge
-  [
-    source 443
-    target 0
-    rank 4
-  ]
-  edge
-  [
-    source 443
-    target 50
-    rank 8
-  ]
-  edge
-  [
-    source 443
-    target 81
-    rank 12
-  ]
-  edge
-  [
-    source 443
-    target 10
-    rank 13
-  ]
-  edge
-  [
-    source 443
-    target 12
-    rank 15
-  ]
-  edge
-  [
-    source 443
-    target 30
-    rank 16
-  ]
-  edge
-  [
-    source 445
-    target 458
-    rank 13
-  ]
-  edge
-  [
-    source 447
-    target 177
-    rank 1
-  ]
-  edge
-  [
-    source 447
-    target 228
-    rank 2
-  ]
-  edge
-  [
-    source 447
-    target 58
-    rank 3
-  ]
-  edge
-  [
-    source 448
-    target 4
-    rank 1
-  ]
-  edge
-  [
-    source 448
-    target 30
-    rank 2
-  ]
-  edge
-  [
-    source 449
-    target 51
-    rank 4
-  ]
-  edge
-  [
-    source 449
-    target 41
-    rank 7
-  ]
-  edge
-  [
-    source 449
-    target 12
-    rank 8
-  ]
-  edge
-  [
-    source 449
-    target 50
-    rank 9
-  ]
-  edge
-  [
-    source 449
-    target 4
-    rank 14
-  ]
-  edge
-  [
-    source 449
-    target 10
-    rank 15
-  ]
-  edge
-  [
-    source 449
-    target 105
-    rank 16
-  ]
-  edge
-  [
-    source 449
-    target 30
-    rank 19
-  ]
-  edge
-  [
-    source 451
-    target 158
-    rank 1
-  ]
-  edge
-  [
-    source 451
-    target 51
-    rank 2
-  ]
-  edge
-  [
-    source 451
-    target 105
-    rank 9
-  ]
-  edge
-  [
-    source 451
-    target 296
-    rank 12
-  ]
-  edge
-  [
-    source 451
-    target 247
-    rank 15
-  ]
-  edge
-  [
-    source 451
-    target 217
-    rank 16
-  ]
-  edge
-  [
-    source 451
-    target 45
-    rank 18
-  ]
-  edge
-  [
-    source 452
-    target 243
-    rank 1
-  ]
-  edge
-  [
-    source 452
-    target 128
-    rank 5
-  ]
-  edge
-  [
-    source 452
-    target 193
-    rank 7
-  ]
-  edge
-  [
-    source 452
-    target 247
-    rank 19
-  ]
-  edge
-  [
-    source 453
-    target 235
-    rank 1
-  ]
-  edge
-  [
-    source 454
-    target 50
-    rank 6
-  ]
-  edge
-  [
-    source 455
-    target 32
-    rank 1
-  ]
-  edge
-  [
-    source 455
-    target 5
-    rank 2
-  ]
-  edge
-  [
-    source 455
-    target 82
-    rank 3
-  ]
-  edge
-  [
-    source 455
-    target 147
-    rank 4
-  ]
-  edge
-  [
-    source 455
-    target 132
-    rank 10
-  ]
-  edge
-  [
-    source 455
-    target 89
-    rank 14
-  ]
-  edge
-  [
-    source 456
-    target 51
-    rank 2
-  ]
-  edge
-  [
-    source 457
-    target 429
-    rank 6
-  ]
-  edge
-  [
-    source 457
-    target 180
-    rank 17
-  ]
-  edge
-  [
-    source 458
-    target 445
-    rank 3
-  ]
-  edge
-  [
-    source 458
-    target 84
-    rank 5
-  ]
-  edge
-  [
-    source 458
-    target 112
-    rank 13
-  ]
-  edge
-  [
-    source 459
-    target 73
-    rank 1
-  ]
-  edge
-  [
-    source 459
-    target 188
-    rank 2
-  ]
-  edge
-  [
-    source 459
+    source 168
     target 279
-    rank 4
+    rank 14
   ]
   edge
   [
-    source 459
-    target 247
-    rank 7
-  ]
-  edge
-  [
-    source 459
-    target 49
-    rank 8
-  ]
-  edge
-  [
-    source 459
-    target 110
-    rank 16
-  ]
-  edge
-  [
-    source 461
-    target 49
-    rank 1
-  ]
-  edge
-  [
-    source 463
-    target 4
-    rank 3
-  ]
-  edge
-  [
-    source 463
-    target 50
-    rank 8
-  ]
-  edge
-  [
-    source 463
-    target 49
-    rank 10
-  ]
-  edge
-  [
-    source 463
-    target 30
-    rank 13
-  ]
-  edge
-  [
-    source 463
-    target 180
+    source 168
+    target 5
     rank 17
   ]
   edge
   [
-    source 464
-    target 94
-    rank 2
+    source 168
+    target 11
+    rank 18
   ]
   edge
   [
-    source 464
-    target 19
-    rank 5
-  ]
-  edge
-  [
-    source 465
-    target 49
-    rank 2
-  ]
-  edge
-  [
-    source 465
-    target 30
-    rank 3
-  ]
-  edge
-  [
-    source 466
-    target 31
-    rank 4
-  ]
-  edge
-  [
-    source 466
-    target 233
-    rank 16
-  ]
-  edge
-  [
-    source 468
-    target 125
-    rank 7
-  ]
-  edge
-  [
-    source 468
-    target 251
-    rank 15
-  ]
-  edge
-  [
-    source 469
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 469
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 469
-    target 32
-    rank 4
-  ]
-  edge
-  [
-    source 469
-    target 128
-    rank 5
-  ]
-  edge
-  [
-    source 469
-    target 9
-    rank 6
-  ]
-  edge
-  [
-    source 469
-    target 188
-    rank 8
-  ]
-  edge
-  [
-    source 469
-    target 0
-    rank 11
-  ]
-  edge
-  [
-    source 469
-    target 49
-    rank 15
-  ]
-  edge
-  [
-    source 470
-    target 4
-    rank 4
-  ]
-  edge
-  [
-    source 470
-    target 188
-    rank 8
-  ]
-  edge
-  [
-    source 470
-    target 247
-    rank 10
-  ]
-  edge
-  [
-    source 470
-    target 180
-    rank 20
-  ]
-  edge
-  [
-    source 471
+    source 169
     target 57
     rank 4
   ]
   edge
   [
-    source 471
-    target 45
-    rank 14
+    source 170
+    target 219
+    rank 12
   ]
   edge
   [
-    source 471
-    target 258
-    rank 16
-  ]
-  edge
-  [
-    source 473
-    target 126
+    source 171
+    target 143
     rank 1
   ]
   edge
   [
-    source 473
-    target 49
-    rank 13
+    source 171
+    target 370
+    rank 3
   ]
   edge
   [
-    source 475
-    target 25
-    rank 1
-  ]
-  edge
-  [
-    source 475
-    target 50
-    rank 6
-  ]
-  edge
-  [
-    source 475
-    target 5
-    rank 9
-  ]
-  edge
-  [
-    source 475
-    target 43
-    rank 13
-  ]
-  edge
-  [
-    source 475
-    target 126
-    rank 14
-  ]
-  edge
-  [
-    source 476
-    target 4
-    rank 7
-  ]
-  edge
-  [
-    source 477
-    target 50
-    rank 5
-  ]
-  edge
-  [
-    source 478
-    target 110
+    source 171
+    target 98
     rank 4
   ]
   edge
   [
-    source 478
-    target 5
+    source 171
+    target 15
     rank 5
   ]
   edge
   [
-    source 478
-    target 188
+    source 171
+    target 91
     rank 7
   ]
   edge
   [
-    source 478
-    target 4
+    source 171
+    target 42
     rank 9
   ]
   edge
   [
-    source 478
+    source 171
+    target 152
+    rank 10
+  ]
+  edge
+  [
+    source 171
+    target 31
+    rank 11
+  ]
+  edge
+  [
+    source 171
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 171
+    target 22
+    rank 13
+  ]
+  edge
+  [
+    source 171
+    target 8
+    rank 14
+  ]
+  edge
+  [
+    source 171
+    target 127
+    rank 15
+  ]
+  edge
+  [
+    source 171
+    target 117
+    rank 16
+  ]
+  edge
+  [
+    source 171
+    target 243
+    rank 17
+  ]
+  edge
+  [
+    source 171
+    target 68
+    rank 19
+  ]
+  edge
+  [
+    source 171
+    target 72
+    rank 20
+  ]
+  edge
+  [
+    source 172
+    target 155
+    rank 7
+  ]
+  edge
+  [
+    source 172
+    target 264
+    rank 10
+  ]
+  edge
+  [
+    source 172
+    target 242
+    rank 16
+  ]
+  edge
+  [
+    source 173
+    target 167
+    rank 1
+  ]
+  edge
+  [
+    source 173
+    target 32
+    rank 3
+  ]
+  edge
+  [
+    source 173
+    target 90
+    rank 4
+  ]
+  edge
+  [
+    source 173
+    target 150
+    rank 6
+  ]
+  edge
+  [
+    source 173
+    target 59
+    rank 8
+  ]
+  edge
+  [
+    source 173
+    target 33
+    rank 12
+  ]
+  edge
+  [
+    source 173
+    target 128
+    rank 14
+  ]
+  edge
+  [
+    source 173
+    target 113
+    rank 15
+  ]
+  edge
+  [
+    source 173
+    target 71
+    rank 20
+  ]
+  edge
+  [
+    source 174
+    target 25
+    rank 6
+  ]
+  edge
+  [
+    source 174
+    target 396
+    rank 7
+  ]
+  edge
+  [
+    source 174
+    target 65
+    rank 12
+  ]
+  edge
+  [
+    source 174
+    target 351
+    rank 20
+  ]
+  edge
+  [
+    source 175
+    target 211
+    rank 4
+  ]
+  edge
+  [
+    source 175
+    target 156
+    rank 19
+  ]
+  edge
+  [
+    source 176
+    target 43
+    rank 1
+  ]
+  edge
+  [
+    source 176
+    target 260
+    rank 5
+  ]
+  edge
+  [
+    source 176
+    target 58
+    rank 6
+  ]
+  edge
+  [
+    source 176
+    target 126
+    rank 7
+  ]
+  edge
+  [
+    source 176
+    target 147
+    rank 8
+  ]
+  edge
+  [
+    source 176
+    target 289
+    rank 9
+  ]
+  edge
+  [
+    source 176
+    target 144
+    rank 14
+  ]
+  edge
+  [
+    source 176
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 176
+    target 310
+    rank 17
+  ]
+  edge
+  [
+    source 176
+    target 99
+    rank 18
+  ]
+  edge
+  [
+    source 177
+    target 51
+    rank 1
+  ]
+  edge
+  [
+    source 177
+    target 30
+    rank 9
+  ]
+  edge
+  [
+    source 177
+    target 113
+    rank 11
+  ]
+  edge
+  [
+    source 177
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 177
+    target 203
+    rank 17
+  ]
+  edge
+  [
+    source 178
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 178
+    target 32
+    rank 3
+  ]
+  edge
+  [
+    source 178
+    target 33
+    rank 5
+  ]
+  edge
+  [
+    source 178
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 178
+    target 7
+    rank 16
+  ]
+  edge
+  [
+    source 178
+    target 21
+    rank 20
+  ]
+  edge
+  [
+    source 179
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 179
+    target 4
+    rank 14
+  ]
+  edge
+  [
+    source 180
+    target 43
+    rank 1
+  ]
+  edge
+  [
+    source 180
+    target 89
+    rank 2
+  ]
+  edge
+  [
+    source 180
+    target 144
+    rank 5
+  ]
+  edge
+  [
+    source 180
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 180
+    target 126
+    rank 8
+  ]
+  edge
+  [
+    source 180
+    target 151
+    rank 10
+  ]
+  edge
+  [
+    source 180
+    target 266
+    rank 13
+  ]
+  edge
+  [
+    source 180
+    target 228
+    rank 16
+  ]
+  edge
+  [
+    source 181
+    target 185
+    rank 6
+  ]
+  edge
+  [
+    source 181
+    target 174
+    rank 8
+  ]
+  edge
+  [
+    source 181
+    target 25
+    rank 10
+  ]
+  edge
+  [
+    source 182
+    target 33
+    rank 4
+  ]
+  edge
+  [
+    source 182
+    target 246
+    rank 5
+  ]
+  edge
+  [
+    source 182
+    target 282
+    rank 8
+  ]
+  edge
+  [
+    source 182
+    target 220
+    rank 19
+  ]
+  edge
+  [
+    source 183
+    target 396
+    rank 2
+  ]
+  edge
+  [
+    source 183
+    target 72
+    rank 9
+  ]
+  edge
+  [
+    source 183
+    target 188
+    rank 10
+  ]
+  edge
+  [
+    source 183
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 183
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 184
+    target 191
+    rank 2
+  ]
+  edge
+  [
+    source 184
+    target 25
+    rank 5
+  ]
+  edge
+  [
+    source 184
+    target 370
+    rank 6
+  ]
+  edge
+  [
+    source 184
+    target 396
+    rank 7
+  ]
+  edge
+  [
+    source 184
+    target 9
+    rank 10
+  ]
+  edge
+  [
+    source 184
+    target 75
+    rank 14
+  ]
+  edge
+  [
+    source 184
+    target 15
+    rank 17
+  ]
+  edge
+  [
+    source 184
+    target 4
+    rank 19
+  ]
+  edge
+  [
+    source 185
+    target 25
+    rank 4
+  ]
+  edge
+  [
+    source 185
+    target 174
+    rank 9
+  ]
+  edge
+  [
+    source 185
+    target 99
+    rank 14
+  ]
+  edge
+  [
+    source 185
+    target 396
+    rank 16
+  ]
+  edge
+  [
+    source 186
+    target 56
+    rank 7
+  ]
+  edge
+  [
+    source 188
+    target 287
+    rank 1
+  ]
+  edge
+  [
+    source 188
+    target 75
+    rank 3
+  ]
+  edge
+  [
+    source 188
+    target 184
+    rank 4
+  ]
+  edge
+  [
+    source 188
+    target 370
+    rank 5
+  ]
+  edge
+  [
+    source 188
+    target 237
+    rank 11
+  ]
+  edge
+  [
+    source 188
+    target 306
+    rank 14
+  ]
+  edge
+  [
+    source 188
+    target 174
+    rank 15
+  ]
+  edge
+  [
+    source 188
+    target 181
+    rank 19
+  ]
+  edge
+  [
+    source 188
+    target 396
+    rank 20
+  ]
+  edge
+  [
+    source 189
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 189
+    target 208
+    rank 3
+  ]
+  edge
+  [
+    source 189
+    target 74
+    rank 4
+  ]
+  edge
+  [
+    source 189
+    target 370
+    rank 7
+  ]
+  edge
+  [
+    source 189
+    target 139
+    rank 9
+  ]
+  edge
+  [
+    source 189
+    target 0
+    rank 16
+  ]
+  edge
+  [
+    source 189
+    target 115
+    rank 19
+  ]
+  edge
+  [
+    source 189
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 190
+    target 37
+    rank 1
+  ]
+  edge
+  [
+    source 190
+    target 214
+    rank 5
+  ]
+  edge
+  [
+    source 190
+    target 288
+    rank 7
+  ]
+  edge
+  [
+    source 190
+    target 73
+    rank 8
+  ]
+  edge
+  [
+    source 190
+    target 45
+    rank 9
+  ]
+  edge
+  [
+    source 190
+    target 109
+    rank 11
+  ]
+  edge
+  [
+    source 190
+    target 54
+    rank 14
+  ]
+  edge
+  [
+    source 190
+    target 13
+    rank 15
+  ]
+  edge
+  [
+    source 190
+    target 273
+    rank 18
+  ]
+  edge
+  [
+    source 191
+    target 184
+    rank 3
+  ]
+  edge
+  [
+    source 191
+    target 234
+    rank 7
+  ]
+  edge
+  [
+    source 191
+    target 396
+    rank 9
+  ]
+  edge
+  [
+    source 191
     target 128
     rank 10
   ]
   edge
   [
-    source 478
-    target 296
-    rank 12
-  ]
-  edge
-  [
-    source 478
-    target 13
-    rank 13
-  ]
-  edge
-  [
-    source 478
-    target 0
-    rank 17
-  ]
-  edge
-  [
-    source 478
-    target 49
-    rank 18
-  ]
-  edge
-  [
-    source 480
-    target 188
-    rank 1
-  ]
-  edge
-  [
-    source 480
-    target 38
-    rank 5
-  ]
-  edge
-  [
-    source 480
-    target 49
-    rank 11
-  ]
-  edge
-  [
-    source 480
-    target 326
-    rank 16
-  ]
-  edge
-  [
-    source 481
-    target 32
-    rank 18
-  ]
-  edge
-  [
-    source 482
-    target 38
-    rank 7
-  ]
-  edge
-  [
-    source 483
-    target 49
-    rank 4
-  ]
-  edge
-  [
-    source 483
-    target 247
-    rank 12
-  ]
-  edge
-  [
-    source 484
-    target 215
-    rank 1
-  ]
-  edge
-  [
-    source 484
-    target 241
-    rank 10
-  ]
-  edge
-  [
-    source 484
-    target 177
-    rank 13
-  ]
-  edge
-  [
-    source 485
-    target 113
-    rank 1
-  ]
-  edge
-  [
-    source 487
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 489
-    target 188
-    rank 2
-  ]
-  edge
-  [
-    source 490
-    target 44
+    source 191
+    target 9
     rank 14
   ]
   edge
   [
-    source 491
-    target 25
+    source 191
+    target 306
+    rank 17
+  ]
+  edge
+  [
+    source 191
+    target 370
+    rank 19
+  ]
+  edge
+  [
+    source 192
+    target 214
+    rank 4
+  ]
+  edge
+  [
+    source 192
+    target 73
+    rank 13
+  ]
+  edge
+  [
+    source 192
+    target 37
+    rank 16
+  ]
+  edge
+  [
+    source 193
+    target 243
+    rank 5
+  ]
+  edge
+  [
+    source 193
+    target 370
     rank 7
   ]
   edge
   [
-    source 491
-    target 186
+    source 193
+    target 25
+    rank 9
+  ]
+  edge
+  [
+    source 193
+    target 75
+    rank 17
+  ]
+  edge
+  [
+    source 193
+    target 185
+    rank 18
+  ]
+  edge
+  [
+    source 193
+    target 99
+    rank 19
+  ]
+  edge
+  [
+    source 194
+    target 302
+    rank 2
+  ]
+  edge
+  [
+    source 194
+    target 25
     rank 8
   ]
   edge
   [
-    source 491
+    source 194
+    target 321
+    rank 9
+  ]
+  edge
+  [
+    source 194
     target 99
     rank 12
   ]
   edge
   [
-    source 491
-    target 175
+    source 195
+    target 151
+    rank 1
+  ]
+  edge
+  [
+    source 195
+    target 144
+    rank 4
+  ]
+  edge
+  [
+    source 195
+    target 126
+    rank 5
+  ]
+  edge
+  [
+    source 195
+    target 89
+    rank 8
+  ]
+  edge
+  [
+    source 195
+    target 4
+    rank 10
+  ]
+  edge
+  [
+    source 195
+    target 43
+    rank 12
+  ]
+  edge
+  [
+    source 195
+    target 55
+    rank 13
+  ]
+  edge
+  [
+    source 195
+    target 228
+    rank 14
+  ]
+  edge
+  [
+    source 195
+    target 147
+    rank 15
+  ]
+  edge
+  [
+    source 195
+    target 204
+    rank 16
+  ]
+  edge
+  [
+    source 195
+    target 310
+    rank 18
+  ]
+  edge
+  [
+    source 195
+    target 266
     rank 20
   ]
   edge
   [
-    source 492
+    source 196
+    target 212
+    rank 13
+  ]
+  edge
+  [
+    source 197
+    target 53
+    rank 5
+  ]
+  edge
+  [
+    source 197
+    target 247
+    rank 20
+  ]
+  edge
+  [
+    source 198
+    target 184
+    rank 5
+  ]
+  edge
+  [
+    source 198
+    target 370
+    rank 6
+  ]
+  edge
+  [
+    source 198
+    target 136
+    rank 8
+  ]
+  edge
+  [
+    source 198
+    target 280
+    rank 9
+  ]
+  edge
+  [
+    source 198
+    target 99
+    rank 10
+  ]
+  edge
+  [
+    source 198
+    target 396
+    rank 11
+  ]
+  edge
+  [
+    source 198
+    target 25
+    rank 18
+  ]
+  edge
+  [
+    source 199
+    target 114
+    rank 5
+  ]
+  edge
+  [
+    source 199
+    target 248
+    rank 6
+  ]
+  edge
+  [
+    source 199
+    target 71
+    rank 8
+  ]
+  edge
+  [
+    source 199
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 199
+    target 128
+    rank 20
+  ]
+  edge
+  [
+    source 200
+    target 25
+    rank 4
+  ]
+  edge
+  [
+    source 200
+    target 396
+    rank 5
+  ]
+  edge
+  [
+    source 200
+    target 174
+    rank 9
+  ]
+  edge
+  [
+    source 201
+    target 209
+    rank 1
+  ]
+  edge
+  [
+    source 201
+    target 116
+    rank 3
+  ]
+  edge
+  [
+    source 201
+    target 53
+    rank 6
+  ]
+  edge
+  [
+    source 201
+    target 104
+    rank 8
+  ]
+  edge
+  [
+    source 201
+    target 63
+    rank 10
+  ]
+  edge
+  [
+    source 202
+    target 42
+    rank 1
+  ]
+  edge
+  [
+    source 202
+    target 152
+    rank 5
+  ]
+  edge
+  [
+    source 202
+    target 98
+    rank 6
+  ]
+  edge
+  [
+    source 202
+    target 75
+    rank 7
+  ]
+  edge
+  [
+    source 202
+    target 117
+    rank 8
+  ]
+  edge
+  [
+    source 202
+    target 143
+    rank 9
+  ]
+  edge
+  [
+    source 202
+    target 135
+    rank 12
+  ]
+  edge
+  [
+    source 202
+    target 396
+    rank 13
+  ]
+  edge
+  [
+    source 202
+    target 127
+    rank 15
+  ]
+  edge
+  [
+    source 202
+    target 22
+    rank 17
+  ]
+  edge
+  [
+    source 202
+    target 29
+    rank 20
+  ]
+  edge
+  [
+    source 203
+    target 230
+    rank 1
+  ]
+  edge
+  [
+    source 203
+    target 150
+    rank 5
+  ]
+  edge
+  [
+    source 203
+    target 113
+    rank 6
+  ]
+  edge
+  [
+    source 204
+    target 43
+    rank 1
+  ]
+  edge
+  [
+    source 204
+    target 228
+    rank 3
+  ]
+  edge
+  [
+    source 204
+    target 144
+    rank 5
+  ]
+  edge
+  [
+    source 204
+    target 195
+    rank 6
+  ]
+  edge
+  [
+    source 204
+    target 126
+    rank 7
+  ]
+  edge
+  [
+    source 204
+    target 89
+    rank 8
+  ]
+  edge
+  [
+    source 204
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 204
+    target 151
+    rank 11
+  ]
+  edge
+  [
+    source 204
+    target 310
+    rank 17
+  ]
+  edge
+  [
+    source 205
+    target 150
+    rank 1
+  ]
+  edge
+  [
+    source 205
+    target 66
+    rank 4
+  ]
+  edge
+  [
+    source 205
+    target 82
+    rank 5
+  ]
+  edge
+  [
+    source 205
+    target 59
+    rank 9
+  ]
+  edge
+  [
+    source 205
+    target 271
+    rank 13
+  ]
+  edge
+  [
+    source 205
+    target 128
+    rank 14
+  ]
+  edge
+  [
+    source 205
+    target 244
+    rank 15
+  ]
+  edge
+  [
+    source 206
+    target 166
+    rank 17
+  ]
+  edge
+  [
+    source 207
+    target 233
+    rank 1
+  ]
+  edge
+  [
+    source 207
+    target 122
+    rank 6
+  ]
+  edge
+  [
+    source 207
+    target 162
+    rank 7
+  ]
+  edge
+  [
+    source 207
+    target 102
+    rank 10
+  ]
+  edge
+  [
+    source 207
+    target 23
+    rank 13
+  ]
+  edge
+  [
+    source 207
+    target 31
+    rank 14
+  ]
+  edge
+  [
+    source 207
+    target 108
+    rank 19
+  ]
+  edge
+  [
+    source 208
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 208
+    target 72
+    rank 5
+  ]
+  edge
+  [
+    source 208
+    target 370
+    rank 6
+  ]
+  edge
+  [
+    source 208
+    target 16
+    rank 8
+  ]
+  edge
+  [
+    source 208
+    target 74
+    rank 10
+  ]
+  edge
+  [
+    source 208
+    target 382
+    rank 12
+  ]
+  edge
+  [
+    source 208
+    target 115
+    rank 14
+  ]
+  edge
+  [
+    source 208
+    target 106
+    rank 15
+  ]
+  edge
+  [
+    source 208
+    target 0
+    rank 16
+  ]
+  edge
+  [
+    source 208
+    target 9
+    rank 17
+  ]
+  edge
+  [
+    source 208
+    target 65
+    rank 18
+  ]
+  edge
+  [
+    source 209
+    target 227
+    rank 5
+  ]
+  edge
+  [
+    source 209
+    target 55
+    rank 6
+  ]
+  edge
+  [
+    source 209
+    target 70
+    rank 11
+  ]
+  edge
+  [
+    source 209
+    target 104
+    rank 13
+  ]
+  edge
+  [
+    source 209
+    target 201
+    rank 15
+  ]
+  edge
+  [
+    source 209
+    target 244
+    rank 16
+  ]
+  edge
+  [
+    source 209
+    target 158
+    rank 17
+  ]
+  edge
+  [
+    source 209
+    target 53
+    rank 18
+  ]
+  edge
+  [
+    source 210
+    target 116
+    rank 3
+  ]
+  edge
+  [
+    source 210
+    target 227
+    rank 5
+  ]
+  edge
+  [
+    source 210
+    target 104
+    rank 6
+  ]
+  edge
+  [
+    source 210
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 210
+    target 38
+    rank 14
+  ]
+  edge
+  [
+    source 211
+    target 175
+    rank 1
+  ]
+  edge
+  [
+    source 212
+    target 238
+    rank 4
+  ]
+  edge
+  [
+    source 213
     target 4
     rank 1
   ]
   edge
   [
-    source 494
-    target 30
-    rank 1
-  ]
-  edge
-  [
-    source 495
-    target 0
-    rank 4
-  ]
-  edge
-  [
-    source 495
-    target 177
-    rank 9
-  ]
-  edge
-  [
-    source 495
-    target 38
-    rank 19
-  ]
-  edge
-  [
-    source 496
-    target 49
+    source 213
+    target 228
     rank 3
   ]
   edge
   [
-    source 496
-    target 50
+    source 213
+    target 144
     rank 7
   ]
   edge
   [
-    source 496
-    target 178
+    source 213
+    target 204
+    rank 9
+  ]
+  edge
+  [
+    source 213
+    target 43
+    rank 10
+  ]
+  edge
+  [
+    source 213
+    target 195
+    rank 11
+  ]
+  edge
+  [
+    source 213
+    target 89
     rank 12
   ]
   edge
   [
-    source 497
+    source 213
+    target 151
+    rank 15
+  ]
+  edge
+  [
+    source 213
+    target 126
+    rank 16
+  ]
+  edge
+  [
+    source 213
+    target 310
+    rank 17
+  ]
+  edge
+  [
+    source 213
+    target 147
+    rank 18
+  ]
+  edge
+  [
+    source 214
+    target 19
+    rank 3
+  ]
+  edge
+  [
+    source 214
+    target 288
+    rank 4
+  ]
+  edge
+  [
+    source 214
+    target 190
+    rank 5
+  ]
+  edge
+  [
+    source 214
+    target 157
+    rank 7
+  ]
+  edge
+  [
+    source 214
+    target 37
+    rank 8
+  ]
+  edge
+  [
+    source 214
+    target 45
+    rank 11
+  ]
+  edge
+  [
+    source 214
+    target 54
+    rank 12
+  ]
+  edge
+  [
+    source 214
+    target 49
+    rank 20
+  ]
+  edge
+  [
+    source 215
+    target 62
+    rank 2
+  ]
+  edge
+  [
+    source 215
+    target 12
+    rank 6
+  ]
+  edge
+  [
+    source 215
+    target 55
+    rank 7
+  ]
+  edge
+  [
+    source 215
+    target 85
+    rank 10
+  ]
+  edge
+  [
+    source 215
+    target 252
+    rank 12
+  ]
+  edge
+  [
+    source 215
+    target 11
+    rank 19
+  ]
+  edge
+  [
+    source 215
+    target 29
+    rank 20
+  ]
+  edge
+  [
+    source 216
+    target 25
+    rank 3
+  ]
+  edge
+  [
+    source 216
+    target 370
+    rank 4
+  ]
+  edge
+  [
+    source 216
+    target 10
+    rank 7
+  ]
+  edge
+  [
+    source 216
+    target 183
+    rank 10
+  ]
+  edge
+  [
+    source 216
+    target 4
+    rank 11
+  ]
+  edge
+  [
+    source 216
+    target 174
+    rank 13
+  ]
+  edge
+  [
+    source 216
+    target 396
+    rank 17
+  ]
+  edge
+  [
+    source 217
+    target 230
+    rank 3
+  ]
+  edge
+  [
+    source 217
+    target 128
+    rank 9
+  ]
+  edge
+  [
+    source 217
+    target 167
+    rank 12
+  ]
+  edge
+  [
+    source 217
+    target 114
+    rank 15
+  ]
+  edge
+  [
+    source 217
+    target 225
+    rank 17
+  ]
+  edge
+  [
+    source 218
+    target 108
+    rank 1
+  ]
+  edge
+  [
+    source 218
+    target 130
+    rank 3
+  ]
+  edge
+  [
+    source 218
+    target 102
+    rank 5
+  ]
+  edge
+  [
+    source 218
+    target 31
+    rank 7
+  ]
+  edge
+  [
+    source 218
+    target 240
+    rank 12
+  ]
+  edge
+  [
+    source 218
+    target 244
+    rank 15
+  ]
+  edge
+  [
+    source 218
+    target 207
+    rank 16
+  ]
+  edge
+  [
+    source 218
+    target 27
+    rank 17
+  ]
+  edge
+  [
+    source 218
+    target 117
+    rank 19
+  ]
+  edge
+  [
+    source 218
+    target 324
+    rank 20
+  ]
+  edge
+  [
+    source 219
+    target 156
+    rank 1
+  ]
+  edge
+  [
+    source 219
+    target 236
+    rank 10
+  ]
+  edge
+  [
+    source 219
+    target 226
+    rank 14
+  ]
+  edge
+  [
+    source 219
+    target 175
+    rank 17
+  ]
+  edge
+  [
+    source 220
+    target 39
+    rank 2
+  ]
+  edge
+  [
+    source 220
+    target 282
+    rank 6
+  ]
+  edge
+  [
+    source 220
+    target 182
+    rank 15
+  ]
+  edge
+  [
+    source 220
+    target 246
+    rank 16
+  ]
+  edge
+  [
+    source 221
+    target 192
+    rank 9
+  ]
+  edge
+  [
+    source 221
+    target 49
+    rank 18
+  ]
+  edge
+  [
+    source 221
+    target 109
+    rank 20
+  ]
+  edge
+  [
+    source 222
+    target 244
+    rank 3
+  ]
+  edge
+  [
+    source 222
+    target 8
+    rank 5
+  ]
+  edge
+  [
+    source 222
+    target 33
+    rank 7
+  ]
+  edge
+  [
+    source 222
+    target 21
+    rank 13
+  ]
+  edge
+  [
+    source 222
+    target 1
+    rank 15
+  ]
+  edge
+  [
+    source 222
+    target 7
+    rank 17
+  ]
+  edge
+  [
+    source 222
+    target 44
+    rank 20
+  ]
+  edge
+  [
+    source 223
+    target 24
+    rank 2
+  ]
+  edge
+  [
+    source 223
+    target 11
+    rank 3
+  ]
+  edge
+  [
+    source 223
+    target 12
+    rank 4
+  ]
+  edge
+  [
+    source 223
+    target 38
+    rank 5
+  ]
+  edge
+  [
+    source 223
+    target 29
+    rank 7
+  ]
+  edge
+  [
+    source 223
+    target 62
+    rank 9
+  ]
+  edge
+  [
+    source 223
+    target 117
+    rank 12
+  ]
+  edge
+  [
+    source 223
+    target 334
+    rank 18
+  ]
+  edge
+  [
+    source 223
+    target 119
+    rank 19
+  ]
+  edge
+  [
+    source 224
+    target 143
+    rank 1
+  ]
+  edge
+  [
+    source 224
+    target 370
+    rank 3
+  ]
+  edge
+  [
+    source 224
+    target 193
+    rank 5
+  ]
+  edge
+  [
+    source 224
+    target 4
+    rank 7
+  ]
+  edge
+  [
+    source 224
+    target 98
+    rank 9
+  ]
+  edge
+  [
+    source 224
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 224
+    target 8
+    rank 11
+  ]
+  edge
+  [
+    source 224
+    target 42
+    rank 12
+  ]
+  edge
+  [
+    source 224
+    target 126
+    rank 15
+  ]
+  edge
+  [
+    source 224
+    target 22
+    rank 16
+  ]
+  edge
+  [
+    source 224
+    target 117
+    rank 17
+  ]
+  edge
+  [
+    source 224
+    target 272
+    rank 18
+  ]
+  edge
+  [
+    source 224
+    target 26
+    rank 19
+  ]
+  edge
+  [
+    source 225
+    target 25
+    rank 3
+  ]
+  edge
+  [
+    source 225
+    target 370
+    rank 4
+  ]
+  edge
+  [
+    source 225
+    target 17
+    rank 5
+  ]
+  edge
+  [
+    source 225
+    target 217
+    rank 9
+  ]
+  edge
+  [
+    source 225
+    target 140
+    rank 14
+  ]
+  edge
+  [
+    source 225
+    target 65
+    rank 15
+  ]
+  edge
+  [
+    source 226
+    target 156
+    rank 1
+  ]
+  edge
+  [
+    source 226
+    target 175
+    rank 5
+  ]
+  edge
+  [
+    source 226
+    target 219
+    rank 11
+  ]
+  edge
+  [
+    source 227
+    target 209
+    rank 5
+  ]
+  edge
+  [
+    source 227
+    target 201
+    rank 7
+  ]
+  edge
+  [
+    source 227
+    target 104
+    rank 8
+  ]
+  edge
+  [
+    source 227
+    target 55
+    rank 10
+  ]
+  edge
+  [
+    source 227
+    target 116
+    rank 11
+  ]
+  edge
+  [
+    source 227
+    target 20
+    rank 13
+  ]
+  edge
+  [
+    source 227
+    target 53
+    rank 16
+  ]
+  edge
+  [
+    source 228
+    target 151
+    rank 1
+  ]
+  edge
+  [
+    source 228
+    target 144
+    rank 5
+  ]
+  edge
+  [
+    source 228
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 228
+    target 43
+    rank 8
+  ]
+  edge
+  [
+    source 228
+    target 126
+    rank 10
+  ]
+  edge
+  [
+    source 228
+    target 147
+    rank 16
+  ]
+  edge
+  [
+    source 228
+    target 89
+    rank 19
+  ]
+  edge
+  [
+    source 229
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 229
+    target 5
+    rank 12
+  ]
+  edge
+  [
+    source 230
+    target 82
+    rank 3
+  ]
+  edge
+  [
+    source 230
+    target 25
+    rank 7
+  ]
+  edge
+  [
+    source 230
+    target 217
+    rank 8
+  ]
+  edge
+  [
+    source 230
+    target 128
+    rank 10
+  ]
+  edge
+  [
+    source 230
+    target 167
+    rank 18
+  ]
+  edge
+  [
+    source 231
+    target 101
+    rank 5
+  ]
+  edge
+  [
+    source 231
+    target 107
+    rank 20
+  ]
+  edge
+  [
+    source 232
+    target 370
+    rank 7
+  ]
+  edge
+  [
+    source 232
+    target 19
+    rank 9
+  ]
+  edge
+  [
+    source 232
+    target 24
+    rank 10
+  ]
+  edge
+  [
+    source 232
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 232
+    target 55
+    rank 14
+  ]
+  edge
+  [
+    source 232
+    target 169
+    rank 17
+  ]
+  edge
+  [
+    source 232
+    target 49
+    rank 19
+  ]
+  edge
+  [
+    source 233
+    target 207
+    rank 4
+  ]
+  edge
+  [
+    source 233
+    target 47
+    rank 6
+  ]
+  edge
+  [
+    source 233
+    target 218
+    rank 13
+  ]
+  edge
+  [
+    source 233
+    target 130
+    rank 14
+  ]
+  edge
+  [
+    source 233
+    target 102
+    rank 16
+  ]
+  edge
+  [
+    source 234
+    target 185
+    rank 7
+  ]
+  edge
+  [
+    source 234
+    target 191
+    rank 13
+  ]
+  edge
+  [
+    source 234
+    target 329
+    rank 16
+  ]
+  edge
+  [
+    source 234
+    target 184
+    rank 18
+  ]
+  edge
+  [
+    source 235
+    target 43
+    rank 1
+  ]
+  edge
+  [
+    source 235
+    target 126
+    rank 3
+  ]
+  edge
+  [
+    source 235
+    target 89
+    rank 5
+  ]
+  edge
+  [
+    source 235
+    target 310
+    rank 6
+  ]
+  edge
+  [
+    source 235
+    target 99
+    rank 8
+  ]
+  edge
+  [
+    source 235
+    target 151
+    rank 9
+  ]
+  edge
+  [
+    source 235
+    target 4
+    rank 10
+  ]
+  edge
+  [
+    source 236
+    target 219
+    rank 4
+  ]
+  edge
+  [
+    source 236
+    target 156
+    rank 18
+  ]
+  edge
+  [
+    source 237
+    target 287
+    rank 1
+  ]
+  edge
+  [
+    source 237
+    target 31
+    rank 3
+  ]
+  edge
+  [
+    source 237
+    target 75
+    rank 4
+  ]
+  edge
+  [
+    source 237
+    target 370
+    rank 6
+  ]
+  edge
+  [
+    source 237
+    target 188
+    rank 7
+  ]
+  edge
+  [
+    source 237
+    target 8
+    rank 9
+  ]
+  edge
+  [
+    source 237
+    target 22
+    rank 11
+  ]
+  edge
+  [
+    source 237
+    target 0
+    rank 13
+  ]
+  edge
+  [
+    source 237
+    target 9
+    rank 15
+  ]
+  edge
+  [
+    source 239
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 239
+    target 370
+    rank 5
+  ]
+  edge
+  [
+    source 239
+    target 22
+    rank 14
+  ]
+  edge
+  [
+    source 239
+    target 139
+    rank 15
+  ]
+  edge
+  [
+    source 239
+    target 158
+    rank 16
+  ]
+  edge
+  [
+    source 239
+    target 9
+    rank 19
+  ]
+  edge
+  [
+    source 240
+    target 102
+    rank 1
+  ]
+  edge
+  [
+    source 240
+    target 247
+    rank 5
+  ]
+  edge
+  [
+    source 240
+    target 27
+    rank 9
+  ]
+  edge
+  [
+    source 240
+    target 218
+    rank 10
+  ]
+  edge
+  [
+    source 240
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 240
+    target 257
+    rank 13
+  ]
+  edge
+  [
+    source 240
+    target 130
+    rank 15
+  ]
+  edge
+  [
+    source 240
+    target 108
+    rank 19
+  ]
+  edge
+  [
+    source 241
+    target 109
+    rank 15
+  ]
+  edge
+  [
+    source 241
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 242
+    target 73
+    rank 4
+  ]
+  edge
+  [
+    source 242
+    target 187
+    rank 8
+  ]
+  edge
+  [
+    source 242
+    target 172
+    rank 10
+  ]
+  edge
+  [
+    source 242
+    target 78
+    rank 13
+  ]
+  edge
+  [
+    source 242
+    target 315
+    rank 20
+  ]
+  edge
+  [
+    source 243
+    target 42
+    rank 1
+  ]
+  edge
+  [
+    source 243
+    target 25
+    rank 5
+  ]
+  edge
+  [
+    source 243
+    target 193
+    rank 6
+  ]
+  edge
+  [
+    source 243
+    target 117
+    rank 9
+  ]
+  edge
+  [
+    source 243
+    target 134
+    rank 10
+  ]
+  edge
+  [
+    source 243
+    target 135
+    rank 11
+  ]
+  edge
+  [
+    source 243
+    target 91
+    rank 12
+  ]
+  edge
+  [
+    source 243
+    target 152
+    rank 14
+  ]
+  edge
+  [
+    source 243
+    target 242
+    rank 16
+  ]
+  edge
+  [
+    source 243
+    target 99
+    rank 17
+  ]
+  edge
+  [
+    source 244
+    target 167
+    rank 6
+  ]
+  edge
+  [
+    source 244
+    target 128
+    rank 12
+  ]
+  edge
+  [
+    source 244
+    target 28
+    rank 13
+  ]
+  edge
+  [
+    source 245
+    target 125
+    rank 17
+  ]
+  edge
+  [
+    source 246
+    target 282
+    rank 1
+  ]
+  edge
+  [
+    source 246
+    target 39
+    rank 5
+  ]
+  edge
+  [
+    source 246
+    target 220
+    rank 10
+  ]
+  edge
+  [
+    source 246
+    target 182
+    rank 19
+  ]
+  edge
+  [
+    source 247
+    target 240
+    rank 1
+  ]
+  edge
+  [
+    source 247
+    target 207
+    rank 3
+  ]
+  edge
+  [
+    source 247
+    target 27
+    rank 7
+  ]
+  edge
+  [
+    source 247
+    target 257
+    rank 10
+  ]
+  edge
+  [
+    source 247
+    target 102
+    rank 14
+  ]
+  edge
+  [
+    source 248
+    target 128
+    rank 3
+  ]
+  edge
+  [
+    source 248
+    target 90
+    rank 4
+  ]
+  edge
+  [
+    source 248
+    target 281
+    rank 6
+  ]
+  edge
+  [
+    source 248
+    target 199
+    rank 7
+  ]
+  edge
+  [
+    source 248
+    target 71
+    rank 15
+  ]
+  edge
+  [
+    source 248
+    target 114
+    rank 16
+  ]
+  edge
+  [
+    source 248
+    target 59
+    rank 17
+  ]
+  edge
+  [
+    source 248
+    target 167
+    rank 20
+  ]
+  edge
+  [
+    source 249
+    target 55
+    rank 1
+  ]
+  edge
+  [
+    source 249
+    target 187
+    rank 7
+  ]
+  edge
+  [
+    source 249
+    target 242
+    rank 13
+  ]
+  edge
+  [
+    source 250
+    target 128
+    rank 3
+  ]
+  edge
+  [
+    source 250
+    target 90
+    rank 7
+  ]
+  edge
+  [
+    source 250
+    target 386
+    rank 9
+  ]
+  edge
+  [
+    source 250
+    target 265
+    rank 16
+  ]
+  edge
+  [
+    source 251
+    target 22
+    rank 6
+  ]
+  edge
+  [
+    source 251
+    target 370
+    rank 7
+  ]
+  edge
+  [
+    source 251
+    target 31
+    rank 9
+  ]
+  edge
+  [
+    source 251
+    target 268
+    rank 13
+  ]
+  edge
+  [
+    source 251
+    target 106
+    rank 14
+  ]
+  edge
+  [
+    source 251
+    target 319
+    rank 20
+  ]
+  edge
+  [
+    source 252
+    target 161
+    rank 4
+  ]
+  edge
+  [
+    source 252
+    target 5
+    rank 10
+  ]
+  edge
+  [
+    source 252
+    target 110
+    rank 17
+  ]
+  edge
+  [
+    source 253
+    target 104
+    rank 17
+  ]
+  edge
+  [
+    source 254
+    target 246
+    rank 2
+  ]
+  edge
+  [
+    source 254
+    target 182
+    rank 11
+  ]
+  edge
+  [
+    source 254
+    target 39
+    rank 12
+  ]
+  edge
+  [
+    source 254
+    target 282
+    rank 14
+  ]
+  edge
+  [
+    source 254
+    target 220
+    rank 15
+  ]
+  edge
+  [
+    source 255
+    target 66
+    rank 1
+  ]
+  edge
+  [
+    source 255
+    target 253
+    rank 5
+  ]
+  edge
+  [
+    source 255
+    target 153
+    rank 11
+  ]
+  edge
+  [
+    source 255
+    target 120
+    rank 17
+  ]
+  edge
+  [
+    source 256
+    target 27
+    rank 2
+  ]
+  edge
+  [
+    source 256
+    target 207
+    rank 5
+  ]
+  edge
+  [
+    source 256
+    target 240
+    rank 7
+  ]
+  edge
+  [
+    source 256
+    target 162
+    rank 8
+  ]
+  edge
+  [
+    source 256
+    target 218
+    rank 10
+  ]
+  edge
+  [
+    source 256
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 256
+    target 233
+    rank 20
+  ]
+  edge
+  [
+    source 257
+    target 108
+    rank 1
+  ]
+  edge
+  [
+    source 257
+    target 162
+    rank 5
+  ]
+  edge
+  [
+    source 257
+    target 240
+    rank 6
+  ]
+  edge
+  [
+    source 257
+    target 23
+    rank 7
+  ]
+  edge
+  [
+    source 257
+    target 247
+    rank 11
+  ]
+  edge
+  [
+    source 257
+    target 102
+    rank 12
+  ]
+  edge
+  [
+    source 258
+    target 23
+    rank 7
+  ]
+  edge
+  [
+    source 258
+    target 27
+    rank 11
+  ]
+  edge
+  [
+    source 258
+    target 207
+    rank 13
+  ]
+  edge
+  [
+    source 258
+    target 102
+    rank 16
+  ]
+  edge
+  [
+    source 258
+    target 218
+    rank 18
+  ]
+  edge
+  [
+    source 258
+    target 256
+    rank 20
+  ]
+  edge
+  [
+    source 259
+    target 43
+    rank 1
+  ]
+  edge
+  [
+    source 259
+    target 147
+    rank 4
+  ]
+  edge
+  [
+    source 259
+    target 144
+    rank 5
+  ]
+  edge
+  [
+    source 259
+    target 126
+    rank 19
+  ]
+  edge
+  [
+    source 260
+    target 43
+    rank 1
+  ]
+  edge
+  [
+    source 260
+    target 126
+    rank 3
+  ]
+  edge
+  [
+    source 260
+    target 176
+    rank 5
+  ]
+  edge
+  [
+    source 260
+    target 89
+    rank 7
+  ]
+  edge
+  [
+    source 260
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 260
+    target 147
+    rank 9
+  ]
+  edge
+  [
+    source 260
+    target 59
+    rank 16
+  ]
+  edge
+  [
+    source 260
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 260
+    target 310
+    rank 19
+  ]
+  edge
+  [
+    source 261
+    target 58
+    rank 3
+  ]
+  edge
+  [
+    source 261
+    target 31
+    rank 20
+  ]
+  edge
+  [
+    source 262
+    target 113
+    rank 3
+  ]
+  edge
+  [
+    source 262
+    target 67
+    rank 14
+  ]
+  edge
+  [
+    source 262
+    target 50
+    rank 16
+  ]
+  edge
+  [
+    source 262
+    target 95
+    rank 19
+  ]
+  edge
+  [
+    source 263
+    target 167
+    rank 1
+  ]
+  edge
+  [
+    source 263
+    target 25
+    rank 2
+  ]
+  edge
+  [
+    source 263
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 263
+    target 33
+    rank 9
+  ]
+  edge
+  [
+    source 263
+    target 287
+    rank 14
+  ]
+  edge
+  [
+    source 263
+    target 61
+    rank 15
+  ]
+  edge
+  [
+    source 263
+    target 8
+    rank 17
+  ]
+  edge
+  [
+    source 263
+    target 137
+    rank 19
+  ]
+  edge
+  [
+    source 264
+    target 86
+    rank 4
+  ]
+  edge
+  [
+    source 264
+    target 38
+    rank 6
+  ]
+  edge
+  [
+    source 264
+    target 78
+    rank 7
+  ]
+  edge
+  [
+    source 264
+    target 242
+    rank 8
+  ]
+  edge
+  [
+    source 264
+    target 125
+    rank 15
+  ]
+  edge
+  [
+    source 265
+    target 278
+    rank 3
+  ]
+  edge
+  [
+    source 265
+    target 250
+    rank 6
+  ]
+  edge
+  [
+    source 265
+    target 386
+    rank 12
+  ]
+  edge
+  [
+    source 265
+    target 90
+    rank 20
+  ]
+  edge
+  [
+    source 266
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 266
+    target 89
+    rank 4
+  ]
+  edge
+  [
+    source 266
+    target 180
+    rank 5
+  ]
+  edge
+  [
+    source 266
+    target 144
+    rank 8
+  ]
+  edge
+  [
+    source 266
+    target 151
+    rank 10
+  ]
+  edge
+  [
+    source 266
+    target 43
+    rank 11
+  ]
+  edge
+  [
+    source 266
+    target 310
+    rank 13
+  ]
+  edge
+  [
+    source 266
+    target 228
+    rank 14
+  ]
+  edge
+  [
+    source 266
+    target 126
+    rank 15
+  ]
+  edge
+  [
+    source 266
+    target 204
+    rank 16
+  ]
+  edge
+  [
+    source 266
+    target 147
+    rank 17
+  ]
+  edge
+  [
+    source 266
+    target 59
+    rank 19
+  ]
+  edge
+  [
+    source 267
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 267
+    target 329
+    rank 10
+  ]
+  edge
+  [
+    source 268
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 268
+    target 370
+    rank 7
+  ]
+  edge
+  [
+    source 268
+    target 16
+    rank 13
+  ]
+  edge
+  [
+    source 268
+    target 115
+    rank 14
+  ]
+  edge
+  [
+    source 268
+    target 0
+    rank 17
+  ]
+  edge
+  [
+    source 268
+    target 382
+    rank 19
+  ]
+  edge
+  [
+    source 268
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 269
+    target 139
+    rank 6
+  ]
+  edge
+  [
+    source 269
+    target 31
+    rank 7
+  ]
+  edge
+  [
+    source 269
+    target 115
+    rank 11
+  ]
+  edge
+  [
+    source 269
+    target 370
+    rank 12
+  ]
+  edge
+  [
+    source 269
+    target 74
+    rank 16
+  ]
+  edge
+  [
+    source 269
+    target 9
+    rank 19
+  ]
+  edge
+  [
+    source 269
+    target 0
+    rank 20
+  ]
+  edge
+  [
+    source 270
+    target 150
+    rank 2
+  ]
+  edge
+  [
+    source 270
+    target 66
+    rank 9
+  ]
+  edge
+  [
+    source 270
+    target 120
+    rank 17
+  ]
+  edge
+  [
+    source 270
+    target 0
+    rank 20
+  ]
+  edge
+  [
+    source 271
+    target 150
+    rank 4
+  ]
+  edge
+  [
+    source 271
+    target 66
+    rank 5
+  ]
+  edge
+  [
+    source 271
+    target 205
+    rank 7
+  ]
+  edge
+  [
+    source 271
+    target 52
+    rank 11
+  ]
+  edge
+  [
+    source 271
+    target 167
+    rank 14
+  ]
+  edge
+  [
+    source 271
+    target 270
+    rank 18
+  ]
+  edge
+  [
+    source 272
+    target 370
+    rank 3
+  ]
+  edge
+  [
+    source 272
+    target 42
+    rank 4
+  ]
+  edge
+  [
+    source 272
+    target 75
+    rank 5
+  ]
+  edge
+  [
+    source 272
+    target 98
+    rank 6
+  ]
+  edge
+  [
+    source 272
+    target 143
+    rank 7
+  ]
+  edge
+  [
+    source 272
+    target 141
+    rank 11
+  ]
+  edge
+  [
+    source 272
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 272
+    target 22
+    rank 13
+  ]
+  edge
+  [
+    source 272
+    target 15
+    rank 14
+  ]
+  edge
+  [
+    source 272
+    target 202
+    rank 16
+  ]
+  edge
+  [
+    source 272
+    target 313
+    rank 17
+  ]
+  edge
+  [
+    source 272
+    target 127
+    rank 18
+  ]
+  edge
+  [
+    source 272
+    target 133
+    rank 19
+  ]
+  edge
+  [
+    source 272
+    target 117
+    rank 20
+  ]
+  edge
+  [
+    source 273
+    target 288
+    rank 3
+  ]
+  edge
+  [
+    source 273
+    target 192
+    rank 6
+  ]
+  edge
+  [
+    source 273
+    target 37
+    rank 8
+  ]
+  edge
+  [
+    source 273
+    target 190
+    rank 9
+  ]
+  edge
+  [
+    source 273
+    target 45
+    rank 11
+  ]
+  edge
+  [
+    source 273
+    target 55
+    rank 12
+  ]
+  edge
+  [
+    source 273
+    target 54
+    rank 15
+  ]
+  edge
+  [
+    source 273
+    target 73
+    rank 16
+  ]
+  edge
+  [
+    source 273
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 273
+    target 84
+    rank 19
+  ]
+  edge
+  [
+    source 274
+    target 287
+    rank 1
+  ]
+  edge
+  [
+    source 274
+    target 188
+    rank 3
+  ]
+  edge
+  [
+    source 274
+    target 75
+    rank 4
+  ]
+  edge
+  [
+    source 274
+    target 370
+    rank 6
+  ]
+  edge
+  [
+    source 274
+    target 42
+    rank 7
+  ]
+  edge
+  [
+    source 274
+    target 185
+    rank 8
+  ]
+  edge
+  [
+    source 274
+    target 136
+    rank 12
+  ]
+  edge
+  [
+    source 274
+    target 9
+    rank 13
+  ]
+  edge
+  [
+    source 274
+    target 237
+    rank 17
+  ]
+  edge
+  [
+    source 275
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 275
+    target 158
+    rank 5
+  ]
+  edge
+  [
+    source 275
+    target 22
+    rank 6
+  ]
+  edge
+  [
+    source 275
+    target 370
+    rank 8
+  ]
+  edge
+  [
+    source 275
+    target 64
+    rank 16
+  ]
+  edge
+  [
+    source 275
+    target 0
+    rank 17
+  ]
+  edge
+  [
+    source 275
+    target 9
+    rank 18
+  ]
+  edge
+  [
+    source 275
+    target 6
+    rank 20
+  ]
+  edge
+  [
+    source 276
+    target 104
+    rank 4
+  ]
+  edge
+  [
+    source 276
+    target 227
+    rank 6
+  ]
+  edge
+  [
+    source 276
+    target 116
+    rank 8
+  ]
+  edge
+  [
+    source 276
+    target 108
+    rank 15
+  ]
+  edge
+  [
+    source 276
+    target 209
+    rank 19
+  ]
+  edge
+  [
+    source 276
+    target 201
+    rank 20
+  ]
+  edge
+  [
+    source 277
+    target 155
+    rank 4
+  ]
+  edge
+  [
+    source 277
+    target 4
+    rank 8
+  ]
+  edge
+  [
+    source 277
+    target 9
+    rank 9
+  ]
+  edge
+  [
+    source 277
+    target 20
+    rank 12
+  ]
+  edge
+  [
+    source 277
+    target 89
+    rank 13
+  ]
+  edge
+  [
+    source 277
+    target 116
+    rank 14
+  ]
+  edge
+  [
+    source 277
+    target 208
+    rank 17
+  ]
+  edge
+  [
+    source 277
+    target 32
+    rank 19
+  ]
+  edge
+  [
+    source 278
+    target 386
+    rank 6
+  ]
+  edge
+  [
+    source 278
+    target 167
+    rank 10
+  ]
+  edge
+  [
+    source 278
+    target 90
+    rank 11
+  ]
+  edge
+  [
+    source 278
+    target 128
+    rank 13
+  ]
+  edge
+  [
+    source 279
+    target 168
+    rank 2
+  ]
+  edge
+  [
+    source 280
+    target 65
+    rank 2
+  ]
+  edge
+  [
+    source 280
+    target 198
+    rank 5
+  ]
+  edge
+  [
+    source 280
+    target 184
+    rank 9
+  ]
+  edge
+  [
+    source 280
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 280
+    target 396
+    rank 19
+  ]
+  edge
+  [
+    source 280
+    target 166
+    rank 20
+  ]
+  edge
+  [
+    source 281
+    target 114
+    rank 2
+  ]
+  edge
+  [
+    source 281
+    target 248
+    rank 11
+  ]
+  edge
+  [
+    source 281
+    target 244
+    rank 12
+  ]
+  edge
+  [
+    source 281
+    target 199
+    rank 13
+  ]
+  edge
+  [
+    source 281
+    target 71
+    rank 19
+  ]
+  edge
+  [
+    source 282
+    target 246
+    rank 9
+  ]
+  edge
+  [
+    source 282
+    target 39
+    rank 11
+  ]
+  edge
+  [
+    source 282
+    target 220
+    rank 16
+  ]
+  edge
+  [
+    source 282
+    target 9
+    rank 20
+  ]
+  edge
+  [
+    source 283
+    target 109
+    rank 2
+  ]
+  edge
+  [
+    source 283
+    target 190
+    rank 5
+  ]
+  edge
+  [
+    source 283
+    target 84
+    rank 13
+  ]
+  edge
+  [
+    source 283
+    target 70
+    rank 15
+  ]
+  edge
+  [
+    source 284
+    target 193
+    rank 4
+  ]
+  edge
+  [
+    source 285
+    target 31
+    rank 2
+  ]
+  edge
+  [
+    source 285
+    target 370
+    rank 5
+  ]
+  edge
+  [
+    source 285
+    target 300
+    rank 9
+  ]
+  edge
+  [
+    source 285
+    target 75
+    rank 12
+  ]
+  edge
+  [
+    source 285
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 285
+    target 136
+    rank 16
+  ]
+  edge
+  [
+    source 285
+    target 280
+    rank 17
+  ]
+  edge
+  [
+    source 285
+    target 198
+    rank 19
+  ]
+  edge
+  [
+    source 286
+    target 172
+    rank 4
+  ]
+  edge
+  [
+    source 286
+    target 161
+    rank 5
+  ]
+  edge
+  [
+    source 286
+    target 49
+    rank 10
+  ]
+  edge
+  [
+    source 286
+    target 38
+    rank 13
+  ]
+  edge
+  [
+    source 287
     target 188
     rank 1
   ]
   edge
   [
-    source 497
+    source 287
+    target 75
+    rank 5
+  ]
+  edge
+  [
+    source 287
+    target 370
+    rank 6
+  ]
+  edge
+  [
+    source 287
+    target 237
+    rank 7
+  ]
+  edge
+  [
+    source 287
+    target 185
+    rank 8
+  ]
+  edge
+  [
+    source 287
+    target 25
+    rank 13
+  ]
+  edge
+  [
+    source 287
+    target 396
+    rank 16
+  ]
+  edge
+  [
+    source 287
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 288
+    target 37
+    rank 9
+  ]
+  edge
+  [
+    source 288
+    target 45
+    rank 10
+  ]
+  edge
+  [
+    source 288
+    target 38
+    rank 11
+  ]
+  edge
+  [
+    source 288
+    target 54
+    rank 13
+  ]
+  edge
+  [
+    source 288
+    target 73
+    rank 17
+  ]
+  edge
+  [
+    source 288
+    target 273
+    rank 18
+  ]
+  edge
+  [
+    source 288
+    target 125
+    rank 19
+  ]
+  edge
+  [
+    source 288
+    target 109
+    rank 20
+  ]
+  edge
+  [
+    source 289
+    target 176
+    rank 1
+  ]
+  edge
+  [
+    source 289
+    target 43
+    rank 5
+  ]
+  edge
+  [
+    source 289
+    target 278
+    rank 6
+  ]
+  edge
+  [
+    source 289
+    target 59
+    rank 7
+  ]
+  edge
+  [
+    source 289
+    target 260
+    rank 8
+  ]
+  edge
+  [
+    source 289
+    target 128
+    rank 9
+  ]
+  edge
+  [
+    source 289
+    target 126
+    rank 14
+  ]
+  edge
+  [
+    source 289
+    target 90
+    rank 15
+  ]
+  edge
+  [
+    source 289
+    target 4
+    rank 17
+  ]
+  edge
+  [
+    source 289
+    target 147
+    rank 18
+  ]
+  edge
+  [
+    source 290
+    target 174
+    rank 4
+  ]
+  edge
+  [
+    source 291
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 291
+    target 351
+    rank 12
+  ]
+  edge
+  [
+    source 292
+    target 125
+    rank 5
+  ]
+  edge
+  [
+    source 292
+    target 245
+    rank 18
+  ]
+  edge
+  [
+    source 293
+    target 25
+    rank 14
+  ]
+  edge
+  [
+    source 294
+    target 221
+    rank 6
+  ]
+  edge
+  [
+    source 295
+    target 55
+    rank 6
+  ]
+  edge
+  [
+    source 295
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 295
+    target 207
+    rank 13
+  ]
+  edge
+  [
+    source 296
+    target 315
+    rank 8
+  ]
+  edge
+  [
+    source 296
+    target 13
+    rank 17
+  ]
+  edge
+  [
+    source 296
+    target 242
+    rank 18
+  ]
+  edge
+  [
+    source 296
+    target 187
+    rank 20
+  ]
+  edge
+  [
+    source 297
+    target 191
+    rank 2
+  ]
+  edge
+  [
+    source 297
+    target 185
+    rank 4
+  ]
+  edge
+  [
+    source 297
+    target 174
+    rank 7
+  ]
+  edge
+  [
+    source 297
+    target 25
+    rank 15
+  ]
+  edge
+  [
+    source 297
+    target 396
+    rank 16
+  ]
+  edge
+  [
+    source 297
+    target 99
+    rank 18
+  ]
+  edge
+  [
+    source 298
+    target 93
+    rank 7
+  ]
+  edge
+  [
+    source 299
+    target 217
+    rank 1
+  ]
+  edge
+  [
+    source 299
+    target 225
+    rank 4
+  ]
+  edge
+  [
+    source 300
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 300
+    target 128
+    rank 6
+  ]
+  edge
+  [
+    source 300
+    target 280
+    rank 9
+  ]
+  edge
+  [
+    source 300
+    target 4
+    rank 15
+  ]
+  edge
+  [
+    source 300
+    target 25
+    rank 16
+  ]
+  edge
+  [
+    source 300
+    target 74
+    rank 19
+  ]
+  edge
+  [
+    source 301
+    target 240
+    rank 1
+  ]
+  edge
+  [
+    source 301
+    target 23
+    rank 7
+  ]
+  edge
+  [
+    source 301
+    target 247
+    rank 8
+  ]
+  edge
+  [
+    source 301
+    target 27
+    rank 13
+  ]
+  edge
+  [
+    source 301
+    target 257
+    rank 15
+  ]
+  edge
+  [
+    source 301
+    target 102
+    rank 20
+  ]
+  edge
+  [
+    source 302
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 302
+    target 194
+    rank 2
+  ]
+  edge
+  [
+    source 302
+    target 99
+    rank 14
+  ]
+  edge
+  [
+    source 303
+    target 109
+    rank 14
+  ]
+  edge
+  [
+    source 304
+    target 140
+    rank 9
+  ]
+  edge
+  [
+    source 305
+    target 396
+    rank 2
+  ]
+  edge
+  [
+    source 305
+    target 25
+    rank 16
+  ]
+  edge
+  [
+    source 306
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 306
+    target 302
+    rank 8
+  ]
+  edge
+  [
+    source 306
+    target 99
+    rank 12
+  ]
+  edge
+  [
+    source 307
+    target 32
+    rank 3
+  ]
+  edge
+  [
+    source 307
+    target 109
+    rank 11
+  ]
+  edge
+  [
+    source 307
+    target 4
+    rank 14
+  ]
+  edge
+  [
+    source 307
+    target 19
+    rank 18
+  ]
+  edge
+  [
+    source 308
+    target 396
+    rank 3
+  ]
+  edge
+  [
+    source 308
+    target 365
+    rank 4
+  ]
+  edge
+  [
+    source 308
+    target 99
+    rank 16
+  ]
+  edge
+  [
+    source 309
+    target 49
+    rank 14
+  ]
+  edge
+  [
+    source 309
+    target 109
+    rank 16
+  ]
+  edge
+  [
+    source 310
+    target 43
+    rank 1
+  ]
+  edge
+  [
+    source 310
+    target 147
+    rank 2
+  ]
+  edge
+  [
+    source 310
+    target 89
+    rank 4
+  ]
+  edge
+  [
+    source 310
+    target 235
+    rank 5
+  ]
+  edge
+  [
+    source 310
+    target 126
+    rank 7
+  ]
+  edge
+  [
+    source 310
+    target 4
+    rank 10
+  ]
+  edge
+  [
+    source 310
+    target 151
+    rank 11
+  ]
+  edge
+  [
+    source 310
+    target 144
+    rank 13
+  ]
+  edge
+  [
+    source 311
+    target 101
+    rank 8
+  ]
+  edge
+  [
+    source 311
+    target 167
+    rank 11
+  ]
+  edge
+  [
+    source 312
+    target 20
+    rank 12
+  ]
+  edge
+  [
+    source 312
+    target 150
+    rank 20
+  ]
+  edge
+  [
+    source 313
+    target 143
+    rank 2
+  ]
+  edge
+  [
+    source 313
+    target 316
+    rank 4
+  ]
+  edge
+  [
+    source 313
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 313
+    target 22
+    rank 7
+  ]
+  edge
+  [
+    source 313
+    target 141
+    rank 9
+  ]
+  edge
+  [
+    source 313
+    target 98
+    rank 10
+  ]
+  edge
+  [
+    source 313
+    target 117
+    rank 15
+  ]
+  edge
+  [
+    source 313
+    target 202
+    rank 17
+  ]
+  edge
+  [
+    source 313
+    target 68
+    rank 20
+  ]
+  edge
+  [
+    source 314
+    target 309
+    rank 4
+  ]
+  edge
+  [
+    source 314
+    target 109
+    rank 10
+  ]
+  edge
+  [
+    source 315
+    target 187
+    rank 13
+  ]
+  edge
+  [
+    source 316
+    target 117
+    rank 4
+  ]
+  edge
+  [
+    source 316
+    target 143
+    rank 6
+  ]
+  edge
+  [
+    source 316
+    target 86
+    rank 7
+  ]
+  edge
+  [
+    source 316
+    target 141
+    rank 11
+  ]
+  edge
+  [
+    source 316
+    target 42
+    rank 13
+  ]
+  edge
+  [
+    source 316
+    target 27
+    rank 17
+  ]
+  edge
+  [
+    source 316
+    target 26
+    rank 19
+  ]
+  edge
+  [
+    source 317
+    target 396
+    rank 6
+  ]
+  edge
+  [
+    source 318
+    target 306
+    rank 20
+  ]
+  edge
+  [
+    source 319
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 319
+    target 370
+    rank 8
+  ]
+  edge
+  [
+    source 319
+    target 16
+    rank 10
+  ]
+  edge
+  [
+    source 319
+    target 72
+    rank 11
+  ]
+  edge
+  [
+    source 319
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 319
+    target 74
+    rank 17
+  ]
+  edge
+  [
+    source 319
+    target 9
+    rank 18
+  ]
+  edge
+  [
+    source 320
+    target 125
+    rank 5
+  ]
+  edge
+  [
+    source 320
+    target 73
+    rank 10
+  ]
+  edge
+  [
+    source 320
+    target 55
+    rank 17
+  ]
+  edge
+  [
+    source 321
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 321
+    target 194
+    rank 3
+  ]
+  edge
+  [
+    source 321
+    target 302
+    rank 10
+  ]
+  edge
+  [
+    source 321
+    target 99
+    rank 14
+  ]
+  edge
+  [
+    source 322
+    target 317
+    rank 9
+  ]
+  edge
+  [
+    source 323
+    target 38
+    rank 4
+  ]
+  edge
+  [
+    source 324
+    target 233
+    rank 6
+  ]
+  edge
+  [
+    source 324
+    target 102
+    rank 9
+  ]
+  edge
+  [
+    source 324
+    target 240
+    rank 13
+  ]
+  edge
+  [
+    source 324
+    target 130
+    rank 17
+  ]
+  edge
+  [
+    source 324
+    target 162
+    rank 20
+  ]
+  edge
+  [
+    source 325
+    target 127
+    rank 6
+  ]
+  edge
+  [
+    source 325
+    target 26
+    rank 15
+  ]
+  edge
+  [
+    source 325
+    target 54
+    rank 16
+  ]
+  edge
+  [
+    source 325
+    target 67
+    rank 17
+  ]
+  edge
+  [
+    source 325
+    target 59
+    rank 20
+  ]
+  edge
+  [
+    source 326
+    target 271
+    rank 5
+  ]
+  edge
+  [
+    source 326
+    target 173
+    rank 6
+  ]
+  edge
+  [
+    source 327
+    target 38
+    rank 11
+  ]
+  edge
+  [
+    source 327
+    target 214
+    rank 16
+  ]
+  edge
+  [
+    source 327
+    target 101
+    rank 20
+  ]
+  edge
+  [
+    source 328
+    target 99
+    rank 1
+  ]
+  edge
+  [
+    source 328
+    target 167
+    rank 3
+  ]
+  edge
+  [
+    source 328
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 328
+    target 114
+    rank 7
+  ]
+  edge
+  [
+    source 328
+    target 41
+    rank 20
+  ]
+  edge
+  [
+    source 329
+    target 25
+    rank 13
+  ]
+  edge
+  [
+    source 329
+    target 185
+    rank 17
+  ]
+  edge
+  [
+    source 330
+    target 37
+    rank 14
+  ]
+  edge
+  [
+    source 331
+    target 94
+    rank 15
+  ]
+  edge
+  [
+    source 331
+    target 57
+    rank 20
+  ]
+  edge
+  [
+    source 332
+    target 282
+    rank 11
+  ]
+  edge
+  [
+    source 333
+    target 25
+    rank 4
+  ]
+  edge
+  [
+    source 333
+    target 4
+    rank 5
+  ]
+  edge
+  [
+    source 333
+    target 61
+    rank 10
+  ]
+  edge
+  [
+    source 333
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 334
+    target 292
+    rank 19
+  ]
+  edge
+  [
+    source 335
+    target 21
+    rank 3
+  ]
+  edge
+  [
+    source 335
+    target 396
+    rank 6
+  ]
+  edge
+  [
+    source 335
+    target 100
+    rank 7
+  ]
+  edge
+  [
+    source 335
+    target 39
+    rank 12
+  ]
+  edge
+  [
+    source 335
+    target 3
+    rank 13
+  ]
+  edge
+  [
+    source 335
+    target 104
+    rank 16
+  ]
+  edge
+  [
+    source 336
+    target 51
+    rank 7
+  ]
+  edge
+  [
+    source 336
+    target 110
+    rank 8
+  ]
+  edge
+  [
+    source 336
+    target 38
+    rank 9
+  ]
+  edge
+  [
+    source 337
+    target 67
+    rank 20
+  ]
+  edge
+  [
+    source 338
+    target 288
+    rank 2
+  ]
+  edge
+  [
+    source 338
+    target 69
+    rank 5
+  ]
+  edge
+  [
+    source 338
+    target 11
+    rank 18
+  ]
+  edge
+  [
+    source 339
+    target 196
+    rank 11
+  ]
+  edge
+  [
+    source 340
+    target 25
+    rank 8
+  ]
+  edge
+  [
+    source 340
+    target 16
+    rank 10
+  ]
+  edge
+  [
+    source 340
+    target 158
+    rank 11
+  ]
+  edge
+  [
+    source 340
+    target 189
+    rank 12
+  ]
+  edge
+  [
+    source 340
+    target 72
+    rank 14
+  ]
+  edge
+  [
+    source 340
+    target 156
+    rank 18
+  ]
+  edge
+  [
+    source 341
+    target 235
+    rank 3
+  ]
+  edge
+  [
+    source 341
+    target 236
+    rank 8
+  ]
+  edge
+  [
+    source 342
+    target 9
+    rank 12
+  ]
+  edge
+  [
+    source 343
+    target 31
+    rank 10
+  ]
+  edge
+  [
+    source 344
+    target 55
+    rank 15
+  ]
+  edge
+  [
+    source 345
+    target 236
+    rank 1
+  ]
+  edge
+  [
+    source 345
+    target 32
+    rank 2
+  ]
+  edge
+  [
+    source 345
+    target 126
+    rank 18
+  ]
+  edge
+  [
+    source 346
+    target 33
+    rank 14
+  ]
+  edge
+  [
+    source 346
+    target 263
+    rank 15
+  ]
+  edge
+  [
+    source 347
+    target 25
+    rank 3
+  ]
+  edge
+  [
+    source 347
+    target 284
+    rank 4
+  ]
+  edge
+  [
+    source 347
+    target 193
+    rank 5
+  ]
+  edge
+  [
+    source 347
+    target 370
+    rank 10
+  ]
+  edge
+  [
+    source 348
+    target 238
+    rank 3
+  ]
+  edge
+  [
+    source 348
+    target 174
+    rank 6
+  ]
+  edge
+  [
+    source 348
+    target 185
+    rank 18
+  ]
+  edge
+  [
+    source 349
+    target 55
+    rank 2
+  ]
+  edge
+  [
+    source 350
+    target 92
+    rank 18
+  ]
+  edge
+  [
+    source 351
+    target 396
+    rank 8
+  ]
+  edge
+  [
+    source 352
+    target 9
+    rank 2
+  ]
+  edge
+  [
+    source 352
+    target 0
+    rank 15
+  ]
+  edge
+  [
+    source 353
+    target 199
+    rank 8
+  ]
+  edge
+  [
+    source 353
+    target 80
+    rank 14
+  ]
+  edge
+  [
+    source 354
+    target 287
+    rank 2
+  ]
+  edge
+  [
+    source 354
+    target 188
+    rank 8
+  ]
+  edge
+  [
+    source 354
+    target 370
+    rank 14
+  ]
+  edge
+  [
+    source 354
+    target 181
+    rank 15
+  ]
+  edge
+  [
+    source 355
+    target 20
+    rank 8
+  ]
+  edge
+  [
+    source 355
+    target 39
+    rank 10
+  ]
+  edge
+  [
+    source 355
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 356
+    target 236
+    rank 11
+  ]
+  edge
+  [
+    source 356
+    target 127
+    rank 17
+  ]
+  edge
+  [
+    source 356
+    target 50
+    rank 19
+  ]
+  edge
+  [
+    source 356
+    target 51
+    rank 20
+  ]
+  edge
+  [
+    source 357
+    target 396
+    rank 4
+  ]
+  edge
+  [
+    source 357
+    target 32
+    rank 12
+  ]
+  edge
+  [
+    source 357
+    target 9
+    rank 13
+  ]
+  edge
+  [
+    source 357
+    target 266
+    rank 18
+  ]
+  edge
+  [
+    source 357
+    target 31
+    rank 19
+  ]
+  edge
+  [
+    source 358
+    target 12
+    rank 7
+  ]
+  edge
+  [
+    source 358
+    target 242
+    rank 17
+  ]
+  edge
+  [
+    source 359
+    target 49
+    rank 2
+  ]
+  edge
+  [
+    source 359
+    target 55
+    rank 3
+  ]
+  edge
+  [
+    source 359
+    target 69
+    rank 7
+  ]
+  edge
+  [
+    source 359
+    target 77
+    rank 16
+  ]
+  edge
+  [
+    source 360
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 360
+    target 228
+    rank 4
+  ]
+  edge
+  [
+    source 360
+    target 43
+    rank 13
+  ]
+  edge
+  [
+    source 360
+    target 59
+    rank 14
+  ]
+  edge
+  [
+    source 360
+    target 144
+    rank 20
+  ]
+  edge
+  [
+    source 361
+    target 283
+    rank 14
+  ]
+  edge
+  [
+    source 362
+    target 69
+    rank 16
+  ]
+  edge
+  [
+    source 363
+    target 51
+    rank 6
+  ]
+  edge
+  [
+    source 363
+    target 242
+    rank 9
+  ]
+  edge
+  [
+    source 363
+    target 91
+    rank 15
+  ]
+  edge
+  [
+    source 363
+    target 31
+    rank 17
+  ]
+  edge
+  [
+    source 363
+    target 105
+    rank 18
+  ]
+  edge
+  [
+    source 363
+    target 67
+    rank 20
+  ]
+  edge
+  [
+    source 364
+    target 25
+    rank 2
+  ]
+  edge
+  [
+    source 364
+    target 9
+    rank 3
+  ]
+  edge
+  [
+    source 364
+    target 99
+    rank 9
+  ]
+  edge
+  [
+    source 364
+    target 396
+    rank 10
+  ]
+  edge
+  [
+    source 364
+    target 4
+    rank 12
+  ]
+  edge
+  [
+    source 364
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 364
+    target 74
+    rank 18
+  ]
+  edge
+  [
+    source 365
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 365
+    target 25
+    rank 11
+  ]
+  edge
+  [
+    source 366
+    target 19
+    rank 6
+  ]
+  edge
+  [
+    source 367
+    target 370
+    rank 5
+  ]
+  edge
+  [
+    source 367
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 367
+    target 251
+    rank 12
+  ]
+  edge
+  [
+    source 368
+    target 25
+    rank 6
+  ]
+  edge
+  [
+    source 369
+    target 185
+    rank 6
+  ]
+  edge
+  [
+    source 370
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 370
+    target 74
+    rank 4
+  ]
+  edge
+  [
+    source 370
+    target 72
+    rank 7
+  ]
+  edge
+  [
+    source 370
+    target 22
+    rank 14
+  ]
+  edge
+  [
+    source 370
+    target 0
+    rank 15
+  ]
+  edge
+  [
+    source 370
+    target 9
+    rank 16
+  ]
+  edge
+  [
+    source 370
+    target 6
+    rank 17
+  ]
+  edge
+  [
+    source 370
+    target 2
+    rank 18
+  ]
+  edge
+  [
+    source 371
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 371
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 371
+    target 24
+    rank 8
+  ]
+  edge
+  [
+    source 371
+    target 9
+    rank 13
+  ]
+  edge
+  [
+    source 371
+    target 104
+    rank 14
+  ]
+  edge
+  [
+    source 371
+    target 26
+    rank 15
+  ]
+  edge
+  [
+    source 371
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 371
+    target 2
+    rank 19
+  ]
+  edge
+  [
+    source 372
+    target 193
+    rank 15
+  ]
+  edge
+  [
+    source 373
+    target 174
+    rank 17
+  ]
+  edge
+  [
+    source 373
+    target 25
+    rank 18
+  ]
+  edge
+  [
+    source 373
+    target 126
+    rank 19
+  ]
+  edge
+  [
+    source 374
+    target 167
+    rank 2
+  ]
+  edge
+  [
+    source 374
+    target 173
+    rank 6
+  ]
+  edge
+  [
+    source 374
+    target 111
+    rank 9
+  ]
+  edge
+  [
+    source 374
+    target 0
+    rank 16
+  ]
+  edge
+  [
+    source 375
+    target 38
+    rank 9
+  ]
+  edge
+  [
+    source 376
+    target 128
+    rank 2
+  ]
+  edge
+  [
+    source 376
+    target 174
+    rank 5
+  ]
+  edge
+  [
+    source 376
+    target 370
+    rank 7
+  ]
+  edge
+  [
+    source 376
+    target 134
+    rank 9
+  ]
+  edge
+  [
+    source 376
+    target 167
+    rank 14
+  ]
+  edge
+  [
+    source 376
+    target 59
+    rank 18
+  ]
+  edge
+  [
+    source 377
+    target 184
+    rank 4
+  ]
+  edge
+  [
+    source 378
+    target 150
+    rank 7
+  ]
+  edge
+  [
+    source 379
+    target 4
+    rank 6
+  ]
+  edge
+  [
+    source 379
+    target 0
+    rank 7
+  ]
+  edge
+  [
+    source 380
+    target 386
+    rank 1
+  ]
+  edge
+  [
+    source 380
+    target 389
+    rank 2
+  ]
+  edge
+  [
+    source 381
+    target 49
+    rank 3
+  ]
+  edge
+  [
+    source 381
+    target 38
+    rank 14
+  ]
+  edge
+  [
+    source 382
+    target 31
+    rank 1
+  ]
+  edge
+  [
+    source 382
+    target 0
+    rank 6
+  ]
+  edge
+  [
+    source 382
+    target 74
+    rank 10
+  ]
+  edge
+  [
+    source 382
+    target 22
+    rank 11
+  ]
+  edge
+  [
+    source 382
+    target 370
+    rank 12
+  ]
+  edge
+  [
+    source 382
+    target 72
+    rank 13
+  ]
+  edge
+  [
+    source 382
+    target 9
+    rank 14
+  ]
+  edge
+  [
+    source 382
+    target 268
+    rank 15
+  ]
+  edge
+  [
+    source 382
+    target 6
+    rank 17
+  ]
+  edge
+  [
+    source 382
+    target 2
+    rank 20
+  ]
+  edge
+  [
+    source 383
+    target 13
+    rank 3
+  ]
+  edge
+  [
+    source 383
+    target 187
+    rank 4
+  ]
+  edge
+  [
+    source 383
+    target 161
+    rank 6
+  ]
+  edge
+  [
+    source 383
+    target 61
+    rank 8
+  ]
+  edge
+  [
+    source 383
+    target 17
+    rank 10
+  ]
+  edge
+  [
+    source 383
+    target 38
+    rank 11
+  ]
+  edge
+  [
+    source 383
+    target 67
+    rank 13
+  ]
+  edge
+  [
+    source 383
+    target 242
+    rank 15
+  ]
+  edge
+  [
+    source 383
+    target 108
+    rank 16
+  ]
+  edge
+  [
+    source 383
+    target 45
+    rank 18
+  ]
+  edge
+  [
+    source 383
+    target 34
+    rank 19
+  ]
+  edge
+  [
+    source 384
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 384
+    target 128
+    rank 11
+  ]
+  edge
+  [
+    source 384
+    target 90
+    rank 12
+  ]
+  edge
+  [
+    source 384
+    target 59
+    rank 14
+  ]
+  edge
+  [
+    source 384
+    target 99
+    rank 15
+  ]
+  edge
+  [
+    source 384
+    target 396
+    rank 19
+  ]
+  edge
+  [
+    source 385
+    target 25
+    rank 9
+  ]
+  edge
+  [
+    source 385
+    target 396
+    rank 15
+  ]
+  edge
+  [
+    source 385
+    target 99
+    rank 16
+  ]
+  edge
+  [
+    source 386
+    target 389
+    rank 1
+  ]
+  edge
+  [
+    source 386
+    target 380
+    rank 11
+  ]
+  edge
+  [
+    source 387
+    target 152
+    rank 1
+  ]
+  edge
+  [
+    source 387
+    target 32
+    rank 2
+  ]
+  edge
+  [
+    source 387
+    target 51
+    rank 9
+  ]
+  edge
+  [
+    source 387
+    target 66
+    rank 10
+  ]
+  edge
+  [
+    source 387
+    target 91
+    rank 11
+  ]
+  edge
+  [
+    source 387
+    target 0
+    rank 13
+  ]
+  edge
+  [
+    source 387
+    target 38
+    rank 17
+  ]
+  edge
+  [
+    source 387
+    target 68
+    rank 19
+  ]
+  edge
+  [
+    source 387
+    target 143
+    rank 20
+  ]
+  edge
+  [
+    source 388
+    target 113
+    rank 1
+  ]
+  edge
+  [
+    source 388
+    target 187
+    rank 6
+  ]
+  edge
+  [
+    source 388
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 388
+    target 49
+    rank 11
+  ]
+  edge
+  [
+    source 388
+    target 25
+    rank 15
+  ]
+  edge
+  [
+    source 388
+    target 128
+    rank 20
+  ]
+  edge
+  [
+    source 389
+    target 386
+    rank 1
+  ]
+  edge
+  [
+    source 389
+    target 380
+    rank 6
+  ]
+  edge
+  [
+    source 389
+    target 90
+    rank 7
+  ]
+  edge
+  [
+    source 390
+    target 396
+    rank 5
+  ]
+  edge
+  [
+    source 390
+    target 174
+    rank 8
+  ]
+  edge
+  [
+    source 390
+    target 351
+    rank 10
+  ]
+  edge
+  [
+    source 391
+    target 4
+    rank 8
+  ]
+  edge
+  [
+    source 391
+    target 86
+    rank 18
+  ]
+  edge
+  [
+    source 392
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 392
+    target 177
+    rank 11
+  ]
+  edge
+  [
+    source 392
+    target 51
+    rank 12
+  ]
+  edge
+  [
+    source 393
+    target 137
+    rank 4
+  ]
+  edge
+  [
+    source 393
+    target 4
+    rank 11
+  ]
+  edge
+  [
+    source 394
+    target 238
+    rank 1
+  ]
+  edge
+  [
+    source 394
+    target 9
+    rank 9
+  ]
+  edge
+  [
+    source 394
+    target 128
+    rank 19
+  ]
+  edge
+  [
+    source 395
+    target 51
+    rank 2
+  ]
+  edge
+  [
+    source 395
+    target 63
+    rank 15
+  ]
+  edge
+  [
+    source 395
+    target 190
+    rank 19
+  ]
+  edge
+  [
+    source 395
+    target 37
+    rank 20
+  ]
+  edge
+  [
+    source 396
+    target 174
+    rank 5
+  ]
+  edge
+  [
+    source 396
+    target 25
+    rank 11
+  ]
+  edge
+  [
+    source 397
+    target 67
+    rank 3
+  ]
+  edge
+  [
+    source 397
+    target 30
+    rank 6
+  ]
+  edge
+  [
+    source 398
+    target 315
+    rank 1
+  ]
+  edge
+  [
+    source 399
+    target 49
+    rank 4
+  ]
+  edge
+  [
+    source 399
+    target 30
+    rank 9
+  ]
+  edge
+  [
+    source 399
+    target 422
+    rank 16
+  ]
+  edge
+  [
+    source 400
+    target 370
+    rank 1
+  ]
+  edge
+  [
+    source 400
+    target 219
+    rank 2
+  ]
+  edge
+  [
+    source 400
+    target 161
+    rank 4
+  ]
+  edge
+  [
+    source 400
+    target 263
+    rank 11
+  ]
+  edge
+  [
+    source 400
+    target 82
+    rank 14
+  ]
+  edge
+  [
+    source 400
+    target 61
+    rank 15
+  ]
+  edge
+  [
+    source 400
+    target 49
+    rank 20
+  ]
+  edge
+  [
+    source 401
+    target 94
+    rank 5
+  ]
+  edge
+  [
+    source 401
+    target 58
+    rank 19
+  ]
+  edge
+  [
+    source 402
+    target 9
+    rank 6
+  ]
+  edge
+  [
+    source 402
+    target 32
+    rank 7
+  ]
+  edge
+  [
+    source 402
+    target 50
+    rank 17
+  ]
+  edge
+  [
+    source 402
+    target 51
+    rank 18
+  ]
+  edge
+  [
+    source 402
+    target 176
+    rank 19
+  ]
+  edge
+  [
+    source 403
+    target 125
+    rank 6
+  ]
+  edge
+  [
+    source 403
+    target 187
+    rank 9
+  ]
+  edge
+  [
+    source 403
+    target 157
+    rank 11
+  ]
+  edge
+  [
+    source 403
+    target 9
+    rank 12
+  ]
+  edge
+  [
+    source 403
+    target 406
+    rank 13
+  ]
+  edge
+  [
+    source 403
+    target 11
+    rank 15
+  ]
+  edge
+  [
+    source 404
+    target 9
+    rank 1
+  ]
+  edge
+  [
+    source 404
+    target 370
+    rank 7
+  ]
+  edge
+  [
+    source 404
+    target 263
+    rank 12
+  ]
+  edge
+  [
+    source 404
+    target 25
+    rank 13
+  ]
+  edge
+  [
+    source 404
+    target 50
+    rank 15
+  ]
+  edge
+  [
+    source 404
+    target 161
+    rank 17
+  ]
+  edge
+  [
+    source 404
+    target 219
+    rank 18
+  ]
+  edge
+  [
+    source 404
+    target 0
+    rank 19
+  ]
+  edge
+  [
+    source 405
+    target 177
+    rank 8
+  ]
+  edge
+  [
+    source 405
+    target 67
+    rank 13
+  ]
+  edge
+  [
+    source 405
+    target 126
+    rank 18
+  ]
+  edge
+  [
+    source 405
+    target 95
+    rank 20
+  ]
+  edge
+  [
+    source 406
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 406
+    target 187
+    rank 7
+  ]
+  edge
+  [
+    source 406
+    target 49
+    rank 13
+  ]
+  edge
+  [
+    source 406
+    target 50
+    rank 18
+  ]
+  edge
+  [
+    source 406
+    target 4
+    rank 20
+  ]
+  edge
+  [
+    source 407
+    target 126
+    rank 9
+  ]
+  edge
+  [
+    source 407
+    target 185
+    rank 15
+  ]
+  edge
+  [
+    source 407
+    target 75
+    rank 18
+  ]
+  edge
+  [
+    source 407
+    target 0
+    rank 20
+  ]
+  edge
+  [
+    source 408
+    target 13
+    rank 5
+  ]
+  edge
+  [
+    source 408
+    target 32
+    rank 7
+  ]
+  edge
+  [
+    source 409
+    target 49
+    rank 3
+  ]
+  edge
+  [
+    source 409
+    target 30
+    rank 11
+  ]
+  edge
+  [
+    source 410
+    target 68
+    rank 1
+  ]
+  edge
+  [
+    source 410
+    target 128
+    rank 3
+  ]
+  edge
+  [
+    source 410
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 410
+    target 13
+    rank 6
+  ]
+  edge
+  [
+    source 410
+    target 265
+    rank 13
+  ]
+  edge
+  [
+    source 410
+    target 44
+    rank 15
+  ]
+  edge
+  [
+    source 410
+    target 260
+    rank 16
+  ]
+  edge
+  [
+    source 410
+    target 41
+    rank 18
+  ]
+  edge
+  [
+    source 410
+    target 16
+    rank 19
+  ]
+  edge
+  [
+    source 411
+    target 51
+    rank 2
+  ]
+  edge
+  [
+    source 411
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 411
+    target 50
+    rank 8
+  ]
+  edge
+  [
+    source 411
+    target 81
+    rank 12
+  ]
+  edge
+  [
+    source 411
+    target 10
+    rank 13
+  ]
+  edge
+  [
+    source 411
+    target 12
+    rank 15
+  ]
+  edge
+  [
+    source 411
+    target 30
+    rank 16
+  ]
+  edge
+  [
+    source 412
+    target 423
+    rank 13
+  ]
+  edge
+  [
+    source 413
+    target 176
+    rank 1
+  ]
+  edge
+  [
+    source 413
+    target 224
+    rank 2
+  ]
+  edge
+  [
+    source 413
+    target 58
+    rank 3
+  ]
+  edge
+  [
+    source 414
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 414
+    target 30
+    rank 2
+  ]
+  edge
+  [
+    source 415
+    target 51
+    rank 4
+  ]
+  edge
+  [
+    source 415
+    target 41
+    rank 7
+  ]
+  edge
+  [
+    source 415
+    target 12
+    rank 8
+  ]
+  edge
+  [
+    source 415
+    target 50
+    rank 9
+  ]
+  edge
+  [
+    source 415
+    target 4
+    rank 14
+  ]
+  edge
+  [
+    source 415
+    target 10
+    rank 15
+  ]
+  edge
+  [
+    source 415
+    target 105
+    rank 16
+  ]
+  edge
+  [
+    source 415
+    target 30
+    rank 19
+  ]
+  edge
+  [
+    source 416
+    target 157
+    rank 1
+  ]
+  edge
+  [
+    source 416
+    target 51
+    rank 2
+  ]
+  edge
+  [
+    source 416
+    target 105
+    rank 9
+  ]
+  edge
+  [
+    source 416
+    target 288
+    rank 12
+  ]
+  edge
+  [
+    source 416
+    target 242
+    rank 15
+  ]
+  edge
+  [
+    source 416
+    target 214
+    rank 16
+  ]
+  edge
+  [
+    source 416
+    target 45
+    rank 18
+  ]
+  edge
+  [
+    source 417
+    target 238
+    rank 1
+  ]
+  edge
+  [
+    source 417
+    target 128
+    rank 5
+  ]
+  edge
+  [
+    source 417
+    target 192
+    rank 7
+  ]
+  edge
+  [
+    source 417
+    target 242
+    rank 19
+  ]
+  edge
+  [
+    source 418
+    target 230
+    rank 1
+  ]
+  edge
+  [
+    source 419
+    target 50
+    rank 6
+  ]
+  edge
+  [
+    source 420
+    target 32
+    rank 1
+  ]
+  edge
+  [
+    source 420
+    target 5
+    rank 2
+  ]
+  edge
+  [
+    source 420
+    target 82
+    rank 3
+  ]
+  edge
+  [
+    source 420
+    target 147
+    rank 4
+  ]
+  edge
+  [
+    source 420
+    target 132
+    rank 10
+  ]
+  edge
+  [
+    source 420
+    target 89
+    rank 14
+  ]
+  edge
+  [
+    source 421
+    target 51
+    rank 2
+  ]
+  edge
+  [
+    source 422
+    target 399
+    rank 6
+  ]
+  edge
+  [
+    source 422
+    target 179
+    rank 17
+  ]
+  edge
+  [
+    source 423
+    target 412
+    rank 3
+  ]
+  edge
+  [
+    source 423
+    target 84
+    rank 5
+  ]
+  edge
+  [
+    source 423
+    target 112
+    rank 13
+  ]
+  edge
+  [
+    source 424
+    target 73
+    rank 1
+  ]
+  edge
+  [
+    source 424
+    target 187
+    rank 2
+  ]
+  edge
+  [
+    source 424
+    target 273
+    rank 4
+  ]
+  edge
+  [
+    source 424
+    target 242
+    rank 7
+  ]
+  edge
+  [
+    source 424
+    target 49
+    rank 8
+  ]
+  edge
+  [
+    source 424
+    target 110
+    rank 16
+  ]
+  edge
+  [
+    source 425
+    target 49
+    rank 1
+  ]
+  edge
+  [
+    source 426
+    target 4
+    rank 3
+  ]
+  edge
+  [
+    source 426
+    target 50
+    rank 8
+  ]
+  edge
+  [
+    source 426
+    target 49
+    rank 10
+  ]
+  edge
+  [
+    source 426
+    target 30
+    rank 13
+  ]
+  edge
+  [
+    source 426
+    target 179
+    rank 17
+  ]
+  edge
+  [
+    source 427
+    target 94
+    rank 2
+  ]
+  edge
+  [
+    source 427
+    target 19
+    rank 5
+  ]
+  edge
+  [
+    source 428
+    target 49
+    rank 2
+  ]
+  edge
+  [
+    source 428
+    target 30
+    rank 3
+  ]
+  edge
+  [
+    source 429
+    target 31
+    rank 4
+  ]
+  edge
+  [
+    source 429
+    target 229
+    rank 16
+  ]
+  edge
+  [
+    source 430
+    target 125
+    rank 7
+  ]
+  edge
+  [
+    source 430
+    target 245
+    rank 15
+  ]
+  edge
+  [
+    source 431
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 431
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 431
+    target 32
+    rank 4
+  ]
+  edge
+  [
+    source 431
+    target 128
+    rank 5
+  ]
+  edge
+  [
+    source 431
+    target 9
+    rank 6
+  ]
+  edge
+  [
+    source 431
+    target 187
+    rank 8
+  ]
+  edge
+  [
+    source 431
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 431
+    target 49
+    rank 15
+  ]
+  edge
+  [
+    source 432
+    target 4
+    rank 4
+  ]
+  edge
+  [
+    source 432
+    target 187
+    rank 8
+  ]
+  edge
+  [
+    source 432
+    target 242
+    rank 10
+  ]
+  edge
+  [
+    source 432
+    target 179
+    rank 20
+  ]
+  edge
+  [
+    source 433
+    target 57
+    rank 4
+  ]
+  edge
+  [
+    source 433
+    target 45
+    rank 14
+  ]
+  edge
+  [
+    source 433
+    target 252
+    rank 16
+  ]
+  edge
+  [
+    source 434
+    target 126
+    rank 1
+  ]
+  edge
+  [
+    source 434
+    target 49
+    rank 13
+  ]
+  edge
+  [
+    source 435
+    target 25
+    rank 1
+  ]
+  edge
+  [
+    source 435
+    target 50
+    rank 6
+  ]
+  edge
+  [
+    source 435
+    target 5
+    rank 9
+  ]
+  edge
+  [
+    source 435
+    target 43
+    rank 13
+  ]
+  edge
+  [
+    source 435
+    target 126
+    rank 14
+  ]
+  edge
+  [
+    source 436
+    target 4
+    rank 7
+  ]
+  edge
+  [
+    source 437
+    target 50
+    rank 5
+  ]
+  edge
+  [
+    source 438
+    target 110
+    rank 4
+  ]
+  edge
+  [
+    source 438
+    target 5
+    rank 5
+  ]
+  edge
+  [
+    source 438
+    target 187
+    rank 7
+  ]
+  edge
+  [
+    source 438
+    target 4
+    rank 9
+  ]
+  edge
+  [
+    source 438
+    target 128
+    rank 10
+  ]
+  edge
+  [
+    source 438
+    target 288
+    rank 12
+  ]
+  edge
+  [
+    source 438
+    target 13
+    rank 13
+  ]
+  edge
+  [
+    source 438
+    target 0
+    rank 17
+  ]
+  edge
+  [
+    source 438
+    target 49
+    rank 18
+  ]
+  edge
+  [
+    source 439
+    target 187
+    rank 1
+  ]
+  edge
+  [
+    source 439
+    target 38
+    rank 5
+  ]
+  edge
+  [
+    source 439
+    target 49
+    rank 11
+  ]
+  edge
+  [
+    source 439
+    target 315
+    rank 16
+  ]
+  edge
+  [
+    source 440
+    target 32
+    rank 18
+  ]
+  edge
+  [
+    source 441
+    target 38
+    rank 7
+  ]
+  edge
+  [
+    source 442
+    target 49
+    rank 4
+  ]
+  edge
+  [
+    source 442
+    target 242
+    rank 12
+  ]
+  edge
+  [
+    source 443
+    target 212
+    rank 1
+  ]
+  edge
+  [
+    source 443
+    target 236
+    rank 10
+  ]
+  edge
+  [
+    source 443
+    target 176
+    rank 13
+  ]
+  edge
+  [
+    source 444
+    target 113
+    rank 1
+  ]
+  edge
+  [
+    source 445
+    target 51
+    rank 1
+  ]
+  edge
+  [
+    source 446
+    target 187
+    rank 2
+  ]
+  edge
+  [
+    source 447
+    target 44
+    rank 14
+  ]
+  edge
+  [
+    source 448
+    target 25
+    rank 7
+  ]
+  edge
+  [
+    source 448
+    target 185
+    rank 8
+  ]
+  edge
+  [
+    source 448
+    target 99
+    rank 12
+  ]
+  edge
+  [
+    source 448
+    target 174
+    rank 20
+  ]
+  edge
+  [
+    source 449
+    target 4
+    rank 1
+  ]
+  edge
+  [
+    source 450
+    target 30
+    rank 1
+  ]
+  edge
+  [
+    source 451
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 451
+    target 176
+    rank 9
+  ]
+  edge
+  [
+    source 451
+    target 38
+    rank 19
+  ]
+  edge
+  [
+    source 452
+    target 49
+    rank 3
+  ]
+  edge
+  [
+    source 452
+    target 50
+    rank 7
+  ]
+  edge
+  [
+    source 452
+    target 177
+    rank 12
+  ]
+  edge
+  [
+    source 453
+    target 187
+    rank 1
+  ]
+  edge
+  [
+    source 453
     target 73
     rank 2
   ]
   edge
   [
-    source 497
+    source 453
     target 110
     rank 3
   ]
   edge
   [
-    source 497
+    source 453
     target 5
     rank 4
   ]
   edge
   [
-    source 497
-    target 279
+    source 453
+    target 273
     rank 6
   ]
   edge
   [
-    source 497
+    source 453
     target 51
     rank 8
   ]
   edge
   [
-    source 497
-    target 331
+    source 453
+    target 320
     rank 20
-  ]
-  edge
-  [
-    source 503
-    target 105
-    rank 5
   ]
 ]

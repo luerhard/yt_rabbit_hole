@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 16:13:33 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 18:32:33 2022"
 Version 1
 graph
 [
@@ -6,25 +6,7 @@ graph
   node
   [
     id 0
-    label "B8ofWFx525s"
-    step 0
-    date "2011-05-02T15:36:46Z"
-    title "Beware online  | Eli Pariser"
-    description "http://www.ted.com As web companies strive to tailor their services (including news and search results) to our personal tastes, there's a dangerous unintended consequence: We get trapped in a &#34;filter bubble&#34; and don't get exposed to information that could challenge or broaden our worldview. Eli Pariser argues powerfully that this will ultimately prove to be bad for us and bad for democracy.&#13;&#10;Read our community Q&#38;A with Eli (featuring 10 ways to turn off the filter bubble): http://on.ted.com/PariserQA"
-    channeltitle "TED"
-    channelid "UCAuUUnT6oDeKwE6v1NGQxug"
-    favcount 0
-    viewcount 1399626
-    likecount 19066
-    commentcount 986
-    duration "PT9M5S"
-    indegree 66
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 1
+    name "1"
     label "pT-k1kDIRnw"
     step 0
     date "2018-11-29T15:37:28Z"
@@ -38,12 +20,23 @@ graph
     commentcount 25
     duration "PT2M38S"
     indegree 23
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 2
+    id 1
+    name "2"
     label "Zk1o2BpC79g"
     step 0
     date "2016-12-28T10:20:00Z"
@@ -57,12 +50,23 @@ graph
     commentcount 47
     duration "PT3M18S"
     indegree 31
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 3
+    id 2
+    name "3"
     label "doWZHFnVPQ8"
     step 0
     date "2016-12-19T16:55:01Z"
@@ -76,12 +80,23 @@ graph
     commentcount 25
     duration "PT1M32S"
     indegree 23
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Mainstream News"
+    leftright "C"
+    cluster 3
   ]
   node
   [
-    id 4
+    id 3
+    name "4"
     label "jtVIDBs60S8"
     step 0
     date "2018-01-12T18:19:42Z"
@@ -95,12 +110,23 @@ graph
     commentcount 153
     duration "PT9M19S"
     indegree 14
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Educational"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 5
+    id 4
+    name "5"
     label "JT2kxvmhhkA"
     step 0
     date "2021-08-09T19:33:11Z"
@@ -114,12 +140,23 @@ graph
     commentcount 237
     duration "PT19M15S"
     indegree 9
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 6
+    id 5
+    name "6"
     label "4w48Ip-KPRs"
     step 0
     date "2013-03-22T20:11:37Z"
@@ -133,12 +170,23 @@ graph
     commentcount 42
     duration "PT9M5S"
     indegree 36
-    sentiment 1
-    cluster 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 7
+    id 6
+    name "7"
     label "eaolE1blpWk"
     step 0
     date "2018-08-31T11:00:06Z"
@@ -152,12 +200,23 @@ graph
     commentcount 3
     duration "PT3M9S"
     indegree 8
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 8
+    id 7
+    name "8"
     label "prx9bxzns3g"
     step 0
     date "2018-12-18T16:33:06Z"
@@ -171,12 +230,23 @@ graph
     commentcount 110
     duration "PT4M59S"
     indegree 16
-    sentiment 1
-    cluster 4
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Educational"
+    leftright "C"
+    cluster 2
   ]
   node
   [
-    id 9
+    id 8
+    name "9"
     label "dOkTadfd4Mw"
     step 0
     date "2018-02-06T20:28:04Z"
@@ -190,12 +260,23 @@ graph
     commentcount 4
     duration "PT7M15S"
     indegree 5
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "Educational"
+    leftright "C"
+    cluster 3
   ]
   node
   [
-    id 10
+    id 9
+    name "10"
     label "1z2kiU13Axc"
     step 0
     date "2019-10-08T09:57:08Z"
@@ -209,12 +290,23 @@ graph
     commentcount 0
     duration "PT1M38S"
     indegree 1
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 11
+    id 10
+    name "11"
     label "bTbZ2oqZ5jM"
     step 0
     date "2020-01-24T15:18:02Z"
@@ -228,12 +320,23 @@ graph
     commentcount 0
     duration "PT35M11S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 12
+    id 11
+    name "12"
     label "ouzPhoSSGYw"
     step 0
     date "2019-06-05T23:17:24Z"
@@ -247,12 +350,23 @@ graph
     commentcount -1
     duration "PT1H17M53S"
     indegree 1
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 13
+    id 12
+    name "13"
     label "O5RRvqWk1N8"
     step 0
     date "2019-08-01T23:57:03Z"
@@ -266,12 +380,23 @@ graph
     commentcount -1
     duration "PT12M6S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 14
+    id 13
+    name "14"
     label "GA9NO8jDSl0"
     step 0
     date "2022-03-30T13:06:57Z"
@@ -285,12 +410,23 @@ graph
     commentcount 8
     duration "PT10M52S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 15
+    id 14
+    name "15"
     label "3PR9e5AXgMQ"
     step 0
     date "2016-11-13T22:29:48Z"
@@ -304,12 +440,23 @@ graph
     commentcount 1
     duration "PT2M36S"
     indegree 10
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 16
+    id 15
+    name "16"
     label "dnSd4YgsRqA"
     step 0
     date "2018-06-04T02:38:29Z"
@@ -323,12 +470,23 @@ graph
     commentcount 0
     duration "PT4M39S"
     indegree 0
-    sentiment 1
-    cluster 5
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 17
+    id 16
+    name "17"
     label "iMaqa8VMzko"
     step 0
     date "2021-05-26T11:43:38Z"
@@ -342,31 +500,53 @@ graph
     commentcount 0
     duration "PT5M38S"
     indegree 5
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
+  ]
+  node
+  [
+    id 17
+    name "18"
+    label "r98HbsaN9nw"
+    step 0
+    date "2021-06-08T16:16:18Z"
+    title "Why Does YouTube Recommend Conspiracy Theories? Mozilla Explains: Filter Bubbles"
+    description "YouTube&#8217;s recommendation engine, or recommendation algorithm, is intended to keep you on the site watching videos for as long as possible so they can earn advertising revenue. But the content that keeps you on the platform isn&#8217;t always factually correct, and videos that are fun to share may not always convey a message worth spreading. &#10;&#10;&#10;Guillaume Chaslot explains more about filter bubbles, and why YouTube sometimes recommends conspiracy theories.&#10;&#10;&#10;Featured in this video, their.tube is a project from Mozilla Creative Media awardee Tomo Kihara. Visit http://www.their.tube to learn more about recommendation algorithms and how they can trap you in a bubble."
+    channeltitle "Mozilla"
+    channelid "UCajipi80aORRDz6gZ8ZyCWw"
+    favcount 0
+    viewcount 5212
+    likecount 205
+    commentcount 37
+    duration "PT2M"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 19
-    label "EgTxb6T_aKs"
-    step 0
-    date "2012-02-16T14:51:51Z"
-    title "Eli Pariser - Beware online filter bubbles 2011 480p.mp4"
-    description "As web companies strive to tailor their services (including news and search results) to our personal tastes, there's a dangerous unintended consequence: We get trapped in a 'filter bubble' and don't get exposed to information that could challenge or broaden our worldview. Eli Pariser argues powerfully that this will ultimately prove to be bad for us and bad for democracy.&#10;&#10;Pioneering online organizer Eli Pariser is the author of 'The Filter Bubble,' about how personalized search might be narrowing our worldview.&#10;&#10;'Your filter bubble is your own personal, unique universe of information that you live in online. What's in your filter bubble depends on who you are, and it depends on what you do. But you don't decide what gets in &#8212; and more importantly, you don't see what gets edited out.' Eli Pariser"
-    channeltitle "zar athustra"
-    channelid "UCg7SooCn8kyu03zjc_mOa8g"
-    favcount 0
-    viewcount 4073
-    likecount 51
-    commentcount 1
-    duration "PT12M19S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 20
+    id 18
+    name "20"
     label "EsjQLB_jTBA"
     step 0
     date "2012-03-23T23:51:37Z"
@@ -380,12 +560,23 @@ graph
     commentcount 13
     duration "PT11M53S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 21
+    id 19
+    name "21"
     label "4KQ-mJVGiw4"
     step 0
     date "2018-02-13T16:48:26Z"
@@ -399,31 +590,53 @@ graph
     commentcount 505
     duration "PT10M55S"
     indegree 11
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiSJW"
+    leftright "C"
+    cluster 1
   ]
   node
   [
-    id 23
-    label "ZXiyojUkbNg"
+    id 20
+    name "22"
+    label "nr7qKnqEldY"
     step 0
-    date "2019-06-07T02:45:21Z"
-    title "Filter Bubbles  Echo Chambers"
-    description "Rachel(Zhang Haoyi),Joey(Zang Zijun), Samuel(Li Qishuo), Scott(Liu Yanglin)"
-    channeltitle "Digital Culture"
-    channelid "UCSK9Kf7EFaqh2heLknCm75A"
+    date "2021-04-26T20:36:49Z"
+    title "Concepts in Soundbites: Filter Bubbles"
+    description "A fragment of the main video https://www.youtube.com/watch?v=WQDFlKMwG2g&#38;t=21s&#10;&#10;Support me on https://www.patreon.com/7minscifi&#8203;&#10;Script with citations on https://7minscifi.substack.com/p/the-bubbles-of-your-life-conspiracy"
+    channeltitle "7minscifi &#19971;&#20998;&#31185;&#24187;"
+    channelid "UCw4obleECqFJGaxBLP36hdA"
     favcount 0
-    viewcount 278
-    likecount 2
-    commentcount 0
-    duration "PT5M30S"
+    viewcount 1654
+    likecount 46
+    commentcount 1
+    duration "PT3M55S"
     indegree 1
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 24
+    id 21
+    name "24"
     label "yglh0jnhshY"
     step 0
     date "2020-09-02T20:00:11Z"
@@ -437,50 +650,83 @@ graph
     commentcount 106
     duration "PT12M49S"
     indegree 12
-    sentiment 1
-    cluster 6
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 26
-    label "ZkV7anCPfaY"
+    id 22
+    name "25"
+    label "0__ckYYld1c"
     step 0
-    date "2019-03-20T20:00:00Z"
-    title "Stuart J. Russell on Filter Bubbles and the Future of Artificial Intelligence"
-    description "&#34;The purpose that we put into the machine has to be the purpose that we desire, otherwise we're toast.&#34;  &#10;&#10;Computer scientist Stuart Russell discusses the future and possible risks of artificial intelligence, focusing specifically on the problem of filter bubbles on social media. &#10;&#10;From John Brockman's Long Now Seminar &#8220;Possible Minds&#8221;:&#10;http://longnow.org/seminars/02019/feb/25/possible-minds/&#10;&#10;Subscribe to our podcasts: http://longnow.org/seminars/podcast/&#10;Explore the full series: http://longnow.org/seminars&#10;More ideas on long-term thinking: http://blog.longnow.org/&#10;&#10;The Long Now Foundation is a non-profit dedicated to fostering long-term thinking and responsibility. Our projects include a 10,000 Year Clock, endangered language preservation, thousand year+ data storage, and Long Bets, an arena for accountable predictions.&#10;&#10;Become a Long Now member to support this series, join our community, and connect with our ongoing work to explore and deepen long-term thinking: http://longnow.org/membership&#10;&#10;Like us on Facebook: https://www.facebook.com/longnow&#10;Follow us on Twitter: https://www.twitter.com/longnow&#10;Subscribe to our channel: https://www.youtube.com/longnow"
-    channeltitle "Long Now Foundation"
-    channelid "UCT1yd7gEOrja_gecmA1lT0Q"
+    date "2022-01-30T12:43:47Z"
+    title "An Audit of Misinformation Filter Bubbles on YouTube: Bubble Bursting and Recent Behavior Changes"
+    description "An Audit of Misinformation Filter Bubbles on YouTube: Bubble Bursting and Recent Behavior Changes&#10;&#10;Authors: Matus Tomlein, Kempelen Institute of Intelligent Technologies | Branislav Pecher, Kempelen Institute of Intelligent Technologies | Jakub Simko, Kempelen Institute of Intelligent Technologies | Ivan Srba, Kempelen Institute of Intelligent Technologies | Robert Moro, Kempelen Institute of Intelligent Technologies | Elena Stefancova, Kempelen Institute of Intelligent Technologies | Michal Kompan, Kempelen Institute of Intelligent Technologies | Andrea Hrckova, Kempelen Institute of Intelligent Technologies | Juraj Podrouzek, Kempelen institute of intelligent technologies | Maria Bielikova, Kempelen Institute of Intelligent Technologies&#10;&#10;Abstract: The negative effects of misinformation filter bubbles in adaptive systems have been known to researchers for some time. Several studies investigated, most prominently on YouTube, how fast a user can get into a misinformation filter bubble simply by selecting &#34;wrong choices&#34; from the items offered. Yet, no studies so far have investigated what it takes to &#34;burst the bubble&#34;, i.e., revert the bubble enclosure. We present a study in which pre-programmed agents (acting as YouTube users) delve into misinformation filter bubbles by watching misinformation promoting content (for various topics). Then, by watching misinformation debunking content, the agents try to burst the bubbles and reach more balanced recommendation mixes. We recorded the search results and recommendations, which the agents encountered, and analyzed them for the presence of misinformation. Our key finding is that bursting of a filter bubble is possible, albeit it manifests differently from topic to topic. Moreover, we also observe that filter bubbles do not truly appear in some situations. We also draw a direct comparison with a previous study. Sadly, we did not find much improvements in misinformation occurrences, despite recent pledges by YouTube.&#10;&#10;DOI: https://doi.org/10.1145/3460231.3474241"
+    channeltitle "ACM RecSys"
+    channelid "UC2nEn-yNA1BtdDNWziphPGA"
     favcount 0
-    viewcount 1919
-    likecount 67
-    commentcount 4
-    duration "PT6M7S"
-    indegree 3
-    sentiment 1
+    viewcount 47
+    likecount 1
+    commentcount 0
+    duration "PT15M28S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 23
+    name "27"
+    label "yvp0c19qZ_0"
+    step 0
+    date "2022-03-29T15:35:11Z"
+    title "Ep. #185: John McPhees Writing Process, Admin Overload, and Filter Bubbles | Deep Questions Podcast"
+    description "Full Length Episode #185 from the Deep Questions Podcast with Cal Newport. &#10;&#10;Cal begins the episode with a #DeepDive on the topic, &#34;Is Friction Bad?&#34;&#10;&#10;Cal answers questions about pursuing Deep Work, administrative creep, and the optimal duration of Deep Work.&#10;&#10;Cal also talks about Shabbat, a digital detox, and how to escape filter bubbles.&#10;&#10;Thanks to our Sponsors:&#10;&#10;MunkPack.com&#10;Stamps.com&#10;Headspace.com/Questions&#10;Magicmind.co/DEEP&#10;&#10;Listen to Episode Here (Scroll down to #185DeepQuestionsPodcast) :  https://bit.ly/3eEefHK&#10;&#10;0:00 Cal's intro&#10;0:10 Cal and Jesse talk about a book purchase&#10;5:30 Deep Dive, &#34;Is Friction Bad?&#34;&#10;16:25 Cal talks about Magic Mind and Munk Pack  &#10;21:35 Should a stay-at-home parent pursue deep work? &#10;29:20 How do we combat administrative creep?&#10;38:45 Has Cal changed his mind on optimal duration of deep work sessions?&#10;44:08 Should we all practice Shabbat?&#10;48:30 Cal talks about Stamps.com and Headspace&#10;52:10 Why do I keep failing to complete my digital detox?&#10;56:03 How do I escape filter bubbles?&#10;&#10;Connect with Cal Newport:&#10;&#10;&#128308;Visit Cal's BLOG and website:             https://bit.ly/3luGhca&#10;&#128308;Check out Cal's books:                         https://bit.ly/3ppaafc&#10;&#10;About Cal Newport:&#10;Cal Newport is a computer science professor at Georgetown University. In addition to his academic research, he writes about the intersection of digital technology and culture. Cal's particularly interested in our struggle to deploy these tools in ways that support instead of subvert the things we care about in both our personal and professional lives.&#10;&#10;Cal is a New York Times bestselling author of seven books, including, most recently, A World Without Email, Digital Minimalism, and Deep Work. He's also the creator of The Time-Block Planner.&#10;&#10;The videos are considered to be used under the &#34;Fair Use Doctrine&#34; of United States Copyright Law, Title 17 U.S. Code Sections 107-118. Videos are used for editorial and educational purposes only and I do not claim ownership of any original video content. I don't use said video clips in advertisements, marketing or for direct financial gain. All video content in each clip is considered owned by the individual broadcast companies.&#10;&#10;#CalNewport #DeepWork #DeepLife #DeepQuestions #TimeblockPlanner&#10;#WorldWithoutEmail #DeepQuestionsPodcast"
+    channeltitle "Cal Newport"
+    channelid "UCIhJnsJ0IHlVNnYfp-gw_5Q"
+    favcount 0
+    viewcount 2256
+    likecount 51
+    commentcount 2
+    duration "PT1H6M45S"
+    indegree 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 30
-    label "ESHFQOJqwH0"
-    step 0
-    date "2019-12-04T03:39:08Z"
-    title "Fluval HOB Filter Bubbles  Noise part 1 of 2"
-    description "My temporary test Fluval HOB filter fills the tank with micro bubbles when I run the tank at a low water height.  I was playing aound with way to stop the splashing - and came up with a really funny way.  Looks stupid but works.  NO WAY would this go in my tank with fish in it"
-    channeltitle "Dr Durso"
-    channelid "UCHQ1gGZ5qsLMs9PVA9GvX3g"
-    favcount 0
-    viewcount 207
-    likecount 1
-    commentcount 0
-    duration "PT2M1S"
-    indegree 1
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 31
+    id 24
+    name "31"
     label "_-vjMwF9GaQ"
     step 0
     date "2018-06-01T11:05:23Z"
@@ -494,31 +740,53 @@ graph
     commentcount 3
     duration "PT4M39S"
     indegree 2
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 33
-    label "yVWmYnLVfWA"
+    id 25
+    name "32"
+    label "c4lGlFycm0w"
     step 0
-    date "2019-03-05T16:44:55Z"
-    title "Filter Bubbles and Algorithm Manipulation  Steve El-Sharawy"
-    description "NOTE: unfortunately the beginning of the lecture is mute, the sound starts at 3:23 // Steve has worked with data across social media platforms, TV and online for the past 13 years. In the lecture, he will explain and give concrete examples of filter bubbles and how the algorithms distributing news to us can be manipulated on a large scale."
-    channeltitle "Aalto University"
-    channelid "UCLIDbYJCT0oxtd2Esk0-OoQ"
+    date "2016-07-15T14:27:26Z"
+    title "Filter Bubbles - Viral Marketing Video 2"
+    description "GET FREE ACCESS TO FULL COURSE, TOOLS AND RESOURCES: http://bit.ly/28NqEa8&#10;&#10;FACEBOOK GROUP (Discussions, extra videos and more): http://bit.ly/29Klf81&#10;&#10;This video will take you through the theory of &#34;Filter bubbles&#34;. It might not be intuitive that filter bubbles have anything to do with viral marketing, but they really do as they set the limit to your organic growth. The best way to consider filter bubbles is that some information is indexed and some information is not. Some platforms have tough indexes and others don't. The way you navigate between indexed and non indexed platforms is one of the keys for viral success. &#10;&#10;Or as I like to say. The best strategy for viral success on Facebook, is NOT being on Facebook.&#10;&#10;Read the theory of the Index - http://bit.ly/1owe6ZA&#10;&#10;Read the theory about Gatekeepers - http://bit.ly/1vf2UDq"
+    channeltitle "Jesper &#197;str&#246;m"
+    channelid "UCSvebArL5vzP3NNbWQs564g"
     favcount 0
-    viewcount 3095
+    viewcount 1523
     likecount 20
     commentcount 0
-    duration "PT1H1M5S"
+    duration "PT6M9S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 4
   ]
   node
   [
-    id 34
+    id 26
+    name "34"
     label "4GDSrFOPvv8"
     step 0
     date "2020-08-15T01:39:05Z"
@@ -532,12 +800,23 @@ graph
     commentcount 2
     duration "PT8M39S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 35
+    id 27
+    name "35"
     label "m09acUI0vXI"
     step 0
     date "2020-10-05T14:39:00Z"
@@ -551,31 +830,53 @@ graph
     commentcount 132
     duration "PT17M52S"
     indegree 6
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 37
-    label "MeSuXQuwPcc"
-    step 0
-    date "2020-12-01T16:37:27Z"
-    title "Two Minute Tuesday #50 - Filter Bubbles"
-    description "It's episode #50 of Two Minute Tuesday! &#127881; This week, Sam talks about Filter Bubbles. A term conceived by Eli Pariser, a Filter Bubble refers to the results of the algorithms that dictate what we encounter online.&#10;&#10;Eli Pariser TED talk: https://www.youtube.com/watch?v=B8ofWFx525s&#10;Follow Sam on Twitter: https://twitter.com/hehooleehoo&#10;&#10;Two Minute Tuesday is a weekly series in which our award-winning team of creative geeks, thinkers and grafters discuss their favourite tech in bitesize chunks.&#10;&#10;Gravitywell is a boutique creative digital agency in Bristol, UK. We use technology and design to transform businesses and delight users.&#10;&#10;Gravitywell: https://www.gravitywell.co.uk/&#10;Follow Gravitywell on Twitter: https://twitter.com/gravitywelluk"
-    channeltitle "Gravitywell"
-    channelid "UCNboY3WoOtu1Dhdqv-uzgcA"
-    favcount 0
-    viewcount 32
-    likecount 1
-    commentcount 0
-    duration "PT2M30S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 38
+    id 28
+    name "36"
+    label "G5OyAePnonM"
+    step 0
+    date "2017-06-25T22:27:36Z"
+    title "Whats the impact of filter bubbles?"
+    description "What's the impact of filter bubbles? Find out from Frederik Fischer, speaker at the DW Deutsche Welle Global Media Forum 2017."
+    channeltitle "Orange Magazine - European Youth Press"
+    channelid "UCbhOIuV0j9HYVqAVqEGA5vg"
+    favcount 0
+    viewcount 16
+    likecount 0
+    commentcount 0
+    duration "PT1M34S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 29
+    name "38"
     label "_hxWzFPksxA"
     step 0
     date "2018-11-19T16:45:36Z"
@@ -589,50 +890,83 @@ graph
     commentcount 0
     duration "PT7M4S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 41
-    label "0iWgeo5PkJY"
+    id 30
+    name "39"
+    label "0n3CpvIvqDU"
     step 0
-    date "2016-07-10T18:11:13Z"
-    title "Filter Bubbles - How to break through - Facebook Live Session"
-    description "I held a Filter bubble session today on Facebook Live. Since Filter bubbles are heavily discussed right now, I wanted to add some of the mechanical thinking behind how to break through them.&#10;&#10;RESOURCES&#10;&#10;1. TEDxAlmedalen&#10;Listen to Kajsas talk about Filter Bubbles and how they effect what we see online. Kajsas talk starts 1:11:00 in to this clip - https://www.youtube.com/watch?v=aLt7jhsqVFY&#10;&#10;2. Theoretical blog posts on tactics&#10;The Index where Filter bubbles are one part&#10;http://jesperastrom.com/viral-campaigns/the-index-the-most-important-piece-of-content-i-have-written-only-a-few-people-will-ever-read/&#10;&#10;The Gatekeeper dilemma, about how to reach out through people.&#10;http://jesperastrom.com/uncategorized/importance-of-gatekeepers-on-an-indexed-web/&#10;&#10;3. Theoretical explanation of Filter Bubbles&#10;Explanation of how filter bubbles work.&#10;https://www.youtube.com/watch?v=c4lGlFycm0w&#10;&#10;4. Full course in how to work with viral marketing in an indexed world where filter bubbles and algorithms are as important as people.&#10;http://viralhack.com/&#10;&#10;All videos are added with Creative Commons License and can be remixed and used as long as you give proper acknowledgements either in the video or in the description of the video or blog post."
-    channeltitle "Jesper &#197;str&#246;m"
-    channelid "UCSvebArL5vzP3NNbWQs564g"
+    date "2020-03-16T05:24:56Z"
+    title "Filter Bubbles and Algorithms PSA"
+    description "This video is about My Movie"
+    channeltitle "Zeeeeee"
+    channelid "UCCySDWxXgwSbExU6Dh5chaw"
     favcount 0
-    viewcount 550
-    likecount 4
-    commentcount 0
-    duration "PT13M25S"
-    indegree 2
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 43
-    label "LWtQfaKNVGM"
-    step 0
-    date "2021-08-16T13:31:30Z"
-    title "Filter Bubbles and Echo Chambers Trim"
-    description ""
-    channeltitle " NASCAR ALLY 400 "
-    channelid "UC_tY36_R4oUX6dN9oYQaP1A"
-    favcount 0
-    viewcount 222
+    viewcount 11
     likecount 0
     commentcount 0
-    duration "PT1M37S"
-    indegree 1
-    sentiment 1
-    cluster 4
+    duration "PT36S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 44
+    id 31
+    name "42"
+    label "AbVvoP808iI"
+    step 0
+    date "2017-06-29T00:17:54Z"
+    title "Filter Bubbles"
+    description ""
+    channeltitle "Bryce Cicero"
+    channelid "UCFVrFVEIaYRfGTOIUJAnrWA"
+    favcount 0
+    viewcount 13
+    likecount 0
+    commentcount 0
+    duration "PT4M19S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 32
+    name "44"
     label "EFvBNlkPRO0"
     step 0
     date "2021-04-23T05:11:10Z"
@@ -646,69 +980,113 @@ graph
     commentcount 0
     duration "PT52M43S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 46
-    label "6hXzVJClZZE"
+    id 33
+    name "45"
+    label "rJ-3RCOSLFg"
     step 0
-    date "2017-06-28T20:16:21Z"
+    date "2014-06-25T03:06:12Z"
     title "Filter Bubbles"
-    description "Personalized information"
-    channeltitle "Grace"
-    channelid "UCeWSuy42CJMKYcwpGpkQbyQ"
+    description "Filter bubbles"
+    channeltitle "xoxo-89"
+    channelid "UCuuQ65B9esQmBZ5dDcydWtQ"
     favcount 0
-    viewcount 24
-    likecount 1
-    commentcount 0
-    duration "PT2M38S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 48
-    label "4UMeaLVIX6M"
-    step 0
-    date "2018-05-15T07:22:12Z"
-    title "Barker - Filter Bubbles [Ostgut Ton]"
-    description "Read: http://inverted-audio.com/premiere-barker-filter-bubbles&#10;'Filter Bubbles'&#160;is a beautifully fluid dancefloor tool formed from fluorescent synths that circle endlessly in head-spinning polyrhythms. Bringing to mind the visionary sound design of fellow envelope-pushers Second Woman, this one's an&#160;effervescent bubblebath of sound that you won't want to get out of.&#10;&#10;Buy: http://bit.ly/barker-debiasing&#10;Subscribe: http://smarturl.it/IASubscribe&#10;&#10;FB: https://www.facebook.com/InvertedAudio&#10;Twitter: https://twitter.com/InvertedAudio&#10;G+: http://smarturl.it/IAGooglePlus"
-    channeltitle "Inverted Audio"
-    channelid "UC8hpODHgkN2yjumo0Q-iwAg"
-    favcount 0
-    viewcount 8470
-    likecount 245
-    commentcount 8
-    duration "PT4M39S"
-    indegree 2
-    sentiment 1
-    cluster 5
-  ]
-  node
-  [
-    id 51
-    label "_H0XmsgHUJY"
-    step 0
-    date "2013-02-05T17:40:08Z"
-    title "TED Talks: Eli Pariser, "
-    description "Eli Pariser describing the concept of the algorithmic information gate keepers. &#10;No Copyright Intended."
-    channeltitle "whammycami"
-    channelid "UCXJEt_X6547af2tfld8cKKg"
-    favcount 0
-    viewcount 277
+    viewcount 22
     likecount 0
     commentcount 0
-    duration "PT46S"
-    indegree 3
-    sentiment 1
+    duration "PT2M49S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 34
+    name "47"
+    label "Z0hQ0-Mz5oY"
+    step 0
+    date "2018-04-20T09:16:07Z"
+    title "BURST Filter Bubbles Project"
+    description "RMIT Student Project&#10;&#10;music: Bloom, Gypsy and the Cat"
+    channeltitle "Laura Thistlethwaite"
+    channelid "UCRr9YljrCeIUQF3lXcBUC_A"
+    favcount 0
+    viewcount 20
+    likecount 1
+    commentcount 1
+    duration "PT49S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 35
+    name "49"
+    label "Z5Tgox8J5RQ"
+    step 0
+    date "2019-05-01T22:16:52Z"
+    title "How to wear filter bubbles"
+    description "This video is about Filter Bubbles"
+    channeltitle "Sloane Lieberman"
+    channelid "UCQbMwOu7zU7ZyYoBuEiAeAw"
+    favcount 0
+    viewcount 9
+    likecount 1
+    commentcount 0
+    duration "PT3M9S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 52
+    id 36
+    name "52"
     label "ttEp3mve5FE"
     step 0
     date "2020-05-17T23:00:23Z"
@@ -722,12 +1100,23 @@ graph
     commentcount 0
     duration "PT3M23S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
   ]
   node
   [
-    id 53
+    id 37
+    name "53"
     label "2XOtr0xhDGg"
     step 0
     date "2020-04-01T22:47:48Z"
@@ -741,88 +1130,143 @@ graph
     commentcount 0
     duration "PT1M4S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 62
-    label "1VKVFJ3pdJw"
+    id 38
+    name "54"
+    label "g2hBXiqs_44"
     step 0
-    date "2020-06-15T08:08:23Z"
-    title "NLP vs Filter Bubbles"
-    description "I discuss the Common Ground algorithm, an attempt to use topic modelling and sentiment analysis to break down filter bubbles by finding common ground between people of differing opinions.&#10;&#10;&#10;Links&#10;Playful Technology Limited https://playfultechnology.co.uk/PlayfulTechnology/front-page&#10;Kaggle kernel https://www.kaggle.com/petebleackley/the-common-ground-algorithm&#10;Ask A Data Scientist https://playfultechnology.co.uk/PlayfulTechnology/ask-a-data-scientist"
-    channeltitle "Peter Bleackley"
-    channelid "UCx20P1dncSSFqwusJ6uNUbg"
+    date "2020-07-18T12:34:37Z"
+    title "BLACK SONAR - Filter bubbles"
+    description "Track from Sonic blur sessions, a concept album inspired by Domenico Grenci&#8217;s works.&#10;It is a soundscape designed to accompany his paintings, projecting his art in a new dimension. The sonic one. &#10;&#10;Order now on Bandcamp.&#10;https://blacksonar.bandcamp.com/album/sonic-blur-sessions&#10;&#10;- 12&#34; Vinyl (limited edition / 100 copies available / Domenico Grenci's artwork poster included)&#10;- Digital version (high-quality download in MP3 and FLAC + streaming via the free Bandcamp app)&#10;&#10;2020 &#169; all rights reserved&#10;&#10;https://blacksonar.bandcamp.com&#10;https://www.domenicogrenci.it/"
+    channeltitle "BLACK SONAR"
+    channelid "UC2I0bKlAJPcWrFDiiAz0byA"
     favcount 0
-    viewcount 247
-    likecount 6
-    commentcount 1
-    duration "PT7M51S"
-    indegree 2
-    sentiment 1
+    viewcount 371
+    likecount 25
+    commentcount 2
+    duration "PT2M49S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 39
+    name "63"
+    label "euqsrx2GfXY"
+    step 0
+    date "2011-05-17T12:57:19Z"
+    title "WebBeatTV 113 The Offline Social Network, and Beware Online Filter Bubbles! (Eli Pariser)"
+    description "&#34;Why personalizing the web might not necessarily be a good thing, and a guy finds his stolen laptop with realtime web tools!&#13;&#10;&#13;&#10;Guy finds stolen laptop with Prey &#38; Twitter&#13;&#10;When Sean Power's laptop was stolen in New York City, the  Canadian web consultant used real time web tools to find his MacBook Pro. Power had installed Prey, a free tracking tool. It told him his MacBook pro was being used at a restaurant in downtown Manhattan, but it also gave him screenshots of his scree, and it turned on the webcam. So, this guy was in Canada, looking at the man using his stolen laptop 500 miles away. Sean tweeted it out to his 13-thousand followers on Twitter, and a bunch of them went to the bar to confront the user and get back his laptop. Days later, he is re-united with his precious Macbook Pro, cellphone, and papers.&#13;&#10;&#13;&#10;Downsides of a personalized web&#13;&#10;Watch the full video here: http://webbeat.tv/persweb&#13;&#10;&#13;&#10;Hover.com discount code 'WebBeat' - get 10% off!&#13;&#10;You might have heard that Cali Lewis, John P, pretty much the entire Livid Lobster team, we've transferred al our domains to Hover.com. That's because Hover is the exact opposite of all the loud and confusing domain register sites. It's clean, simple and to the point. You know what you're paying exactly - at FIRST glance. Come along with us and transfer all your existing domains, or get new ones, with 10% off! Just go to webbeat.tv/domains to get YOUR 10 percent off, or use the code 'WebBeat' on Hover.com.&#13;&#10;&#13;&#10;Viral Video: Offline Social Network&#13;&#10;Hilarious: two guys ask people the same questions they get asked when they sign up on Facebook:&#13;&#10;&#13;&#10;Website of the Day: Scoville! &#13;&#10;Scoville is a brand new site, and a new way to discover the best places to visit. When you see all your friends checking in at a restaurant, the library, day care, the gas station - who knows what REALLY is the hot place to be? Most people don't check in at the gas station because it's just the coolest place on earth. No, you just need gas. Well, Scoville lets you tell your friends what IS the coolest bar or the best business in town. More: http://webeat.tv/scoville&#34;"
+    channeltitle "webbeattv"
+    channelid "UCLGxFW9mPjYliJKy3586uVA"
+    favcount 0
+    viewcount 582
+    likecount 11
+    commentcount 2
+    duration "PT5M41S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 40
+    name "68"
+    label "mWL6N_PHQHU"
+    step 0
+    date "2012-12-11T21:13:23Z"
+    title "filter bubbles CA 200"
+    description " "
+    channeltitle "swimmer7171"
+    channelid "UCFtIEkG7JXl96gXYXXOWecA"
+    favcount 0
+    viewcount 33
+    likecount 0
+    commentcount 0
+    duration "PT2M36S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 67
-    label "uwxXAn_50eU"
+    id 41
+    name "71"
+    label "a67O0ndzKek"
     step 0
-    date "2013-02-05T17:43:56Z"
-    title "TED Talks: Eli Pariser, "
-    description "Eli Pariser describing how Google personalizes your search results. &#10;No Copyright Intended."
-    channeltitle "whammycami"
-    channelid "UCXJEt_X6547af2tfld8cKKg"
+    date "2015-12-17T05:28:14Z"
+    title "Coexisting Separately on the Internet: Filter Bubbles"
+    description "Danielle Stroud gives a Ted Talk in Madison, Wisconsin about the troubles of filter bubbles."
+    channeltitle "Danella Stroudle"
+    channelid "UCK_B1UxQeNCDsWkGYKtTPpg"
     favcount 0
-    viewcount 396
+    viewcount 4
     likecount 0
     commentcount 0
-    duration "PT42S"
-    indegree 1
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 70
-    label "C1giEOVi0pY"
-    step 0
-    date "2020-10-19T23:06:52Z"
-    title "RecSys 2020 Session P4B: Fairness, Filter Bubbles, and Ethical Concerns"
-    description "Session P4B: Fairness, Filter Bubbles, and Ethical Concerns&#10;Session Chairs: Bamshad Mobasher and Alex Tuzhilin&#10;&#10;Revisiting Adversarially Learned Injection Attacks Against Recommender Systems&#10;by Jiaxi Tang (Simon Fraser University), Hongyi Wen (Cornell Tech, Cornell University), Ke Wang (Simon Fraser University)&#10;&#10;Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems&#10;by Guy Aridor (Columbia University), Duarte Gon&#231;alves (Columbia University), Shan Sikdar (Everquote)&#10;&#10;Towards Safety and Sustainability: Designing Local Recommendations for Post-pandemic World&#10;by Gourab K Patro (Indian Institute of Technology), Abhijnan Chakraborty (Max-Planck Institute for Software Systems), Ashmi Banerjee (Technical University of Munich), Niloy Ganguly (Indian Institute of Technology)&#10;&#10;Global and Local Differential Privacy for Collaborative Bandits&#10;by Huazheng Wang (University of Virginia), Qian Zhao (Bloomberg L.P.), Qingyun Wu (University of Virginia), Shubham Chopra (Bloomberg L.P.), Abhinav Khaitan (Bloomberg L.P.), Hongning Wang (University of Virginia)&#10;&#10;Theoretical Modeling of the Iterative Properties of User Discovery in a Collaborative Filtering Recommender System&#10;by Sami Khenissi (Knowledge Discovery &#38; Web Mining Lab, University of Louisville), Boujelbene Mariem (Knowledge Discovery &#38; Web Mining Lab, University of Louisville), Olfa Nasraoui (Knowledge Discovery &#38; Web Mining Lab, University of Louisville)&#10;&#10;Debiasing Item-to-Item Recommendations With Small Annotated Datasets&#10;by Tobias Schnabel (Microsoft), Paul N. Bennett (Microsoft)"
-    channeltitle "ACM RecSys"
-    channelid "UC2nEn-yNA1BtdDNWziphPGA"
-    favcount 0
-    viewcount 161
-    likecount 3
-    commentcount 0
-    duration "PT1H34M15S"
+    duration "PT6S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 76
-    label "H3Oya4H61Xw"
-    step 0
-    date "2020-12-10T07:37:53Z"
-    title "Filter Bubbles, Strategery, and Technology OH MY!"
-    description ""
-    channeltitle "Schmidt List"
-    channelid "UCV2qI5ShuoQkqc1hz07BQ9g"
-    favcount 0
-    viewcount 13
-    likecount 1
-    commentcount 0
-    duration "PT35M26S"
-    indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 77
+    id 42
+    name "77"
     label "hmNc7Ymogak"
     step 0
     date "2018-03-14T11:36:45Z"
@@ -836,107 +1280,173 @@ graph
     commentcount -1
     duration "PT2M39S"
     indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 80
-    label "mz7HEwAJdJg"
-    step 0
-    date "2019-09-25T04:48:47Z"
-    title "Filter Bubbles"
-    description "Using semi-transparent coloured spheres, we can place 3D tinted areas in the real world. This can be used for highlighting spaces, extended into a lighting design tool, or just for creating fun photo lenses.&#10;&#10;https://wiarfra.me/n3XZbv0hg0"
-    channeltitle "wiarframe"
-    channelid "UCRKlS_ZY8yg6TmOCfaSOgmw"
-    favcount 0
-    viewcount 77
-    likecount 1
-    commentcount 0
-    duration "PT39S"
-    indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 83
-    label "osUeD8JFRTM"
-    step 0
-    date "2018-01-31T16:00:03Z"
-    title "Filter Bubbles and Privacy (ft. Anne-Marie Kermarrec)"
-    description "The proliferation of personalized recommended systems on the Internet raises concerns about filter bubbles and privacy. We discuss solutions with Anne-Marie Kermarrec, Director of Research at INRIA, Rennes, scientist of the IC School at EPFL, and CEO of Mediego.&#10;https://people.epfl.ch/184811"
-    channeltitle "ZettaBytes, EPFL"
-    channelid "UCfY6ovyFMaw30NRs-KrxrWw"
-    favcount 0
-    viewcount 573
-    likecount 9
-    commentcount 0
-    duration "PT7M24S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 86
-    label "4kkG3KdgfCY"
-    step 0
-    date "2013-02-05T17:34:45Z"
-    title "TED Talks: Eli Pariser, "
-    description "Eli Pariser describing the concept of the filter bubble. &#10;No Copyright Intended."
-    channeltitle "whammycami"
-    channelid "UCXJEt_X6547af2tfld8cKKg"
-    favcount 0
-    viewcount 415
-    likecount 1
-    commentcount 0
-    duration "PT24S"
-    indegree 1
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 89
-    label "Nl3jjrdmkCc"
-    step 0
-    date "2018-10-18T08:17:39Z"
-    title "2d57 - Stop blaming filter bubbles, theyre nothing new!"
-    description "Filterbubbles, echo chambers, network effects... there are many ways to claim that the new media world and especially the social media giants in Silicon Valley are to blame for everything that goes wrong these days. Who knows, maybe this is even a threat to democracy itself? Today Sebastian will argue that this is nothing but a relabeling of something that is as old as humankind and Dirk will make a case for the differences in a hyperconnected world..."
-    channeltitle "2debate"
-    channelid "UCfgeE_WxOzx5T91z417Vy_Q"
-    favcount 0
-    viewcount 6
-    likecount 0
-    commentcount 0
-    duration "PT33M32S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 91
-    label "EO1CnYGzZjI"
-    step 0
-    date "2021-03-03T08:24:24Z"
-    title "Are filter bubbles real?"
-    description "My thoughts on Axel Bruns&#8217; book &#8220;Are Filter Bubbles Real?&#8221; &#10;Video 4/100&#10;&#10;Buy the book: https://politybooks.com/bookdetail/?isbn=9781509536443&#10;Article mentioned suggesting social media causes de-polarisation: https://doi.org/10.1080/1369118X.2018.1444783"
-    channeltitle "Harley Gray"
-    channelid "UCeqfT7X4odnfvBr5jt9tcGw"
-    favcount 0
-    viewcount 32
-    likecount 3
-    commentcount 2
-    duration "PT6M15S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 92
+    id 43
+    name "78"
+    label "0DTU1iaP-lI"
+    step 0
+    date "2017-01-16T18:09:26Z"
+    title "14. Laurent Haug on Filter Bubbles - The Real Problem and Solution"
+    description "www.futuristmatt.com - 'Filter Bubbles': What's really happening and how we can better educate ourselves to avoid one sided perspective"
+    channeltitle "The Future is Now - Video Channel"
+    channelid "UC-0Sfu6JdZ7v7BNMhK8wPog"
+    favcount 0
+    viewcount 18
+    likecount 0
+    commentcount 0
+    duration "PT4M54S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 44
+    name "81"
+    label "O22VC4kqOCA"
+    step 0
+    date "2017-03-12T23:37:50Z"
+    title "Filter Bubbles en Fake News | IMPAKT Event 2017"
+    description "Met als sprekers:&#10;Brenno de Winter&#10;Dan Hassler-Forest&#10;Annabel Nanninga&#10;Matthijs Pontier&#10;&#10;Moderator: Chris Keulemans"
+    channeltitle "IMPAKT NL "
+    channelid "UCNB6fluQdWhvwkI9-N2wMAQ"
+    favcount 0
+    viewcount 222
+    likecount 1
+    commentcount 0
+    duration "PT1H31M8S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 45
+    name "84"
+    label "hk9Di23N8ko"
+    step 0
+    date "2021-05-26T22:13:58Z"
+    title "John Gable on filter bubbles"
+    description "Inspired? Join us: http://www.americanpromise.net"
+    channeltitle "American Promise"
+    channelid "UC3O-4la8h59ldgOQLdZMjUQ"
+    favcount 0
+    viewcount 4
+    likecount 0
+    commentcount 0
+    duration "PT52S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 46
+    name "87"
+    label "WmR9tLM_MGs"
+    step 0
+    date "2011-06-27T08:05:31Z"
+    title "Filter Bubbles"
+    description "A short discussion of the importance and concerns of internet filter bubbles. Made for Joyce Valenca's Family Feud presentation at the ISTE Conference, 27 June 2011."
+    channeltitle "Darren Kuropatwa"
+    channelid "UCLOq535DKkxOWNQ46srCBUQ"
+    favcount 0
+    viewcount 204
+    likecount 1
+    commentcount 0
+    duration "PT2M3S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 47
+    name "90"
+    label "1ZDlSx2gdXw"
+    step 0
+    date "2019-04-26T03:53:56Z"
+    title "Why Filter Bubbles are Dangerous to Intellectual and Political Development"
+    description "SI 110 Infomaven - Filter Bubbles"
+    channeltitle "Jessica Zhang"
+    channelid "UCiMAEj3egMnpFNVXqcJl3Jg"
+    favcount 0
+    viewcount 15
+    likecount 1
+    commentcount 0
+    duration "PT5M30S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 48
+    name "92"
     label "W5J1aIx2658"
     step 0
     date "2018-10-24T22:57:50Z"
@@ -950,50 +1460,83 @@ graph
     commentcount 0
     duration "PT2M1S"
     indegree 1
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 95
-    label "aivn_ARUer8"
+    id 49
+    name "93"
+    label "iU3vR_Or21k"
     step 0
-    date "2020-02-05T23:30:00Z"
-    title "How to be a Good Citizen in the Age of Filter Bubbles"
-    description "A discussion about the impact of information ubiquity on personal, political, and political decision-making. &#10;&#10;Check out the full podcast: &#10;https://youtu.be/g1HNnGAiRjo&#10;&#10;Gabe's channel:&#10;https://www.youtube.com/channel/UCdz5...&#10;&#10;grey space Patreon: &#10;https://www.patreon.com/greyspacepodcast&#10;&#10;#filterbubble #coronavirus #news"
-    channeltitle "grey space"
-    channelid "UCkP2MaWHHY8iwMf3nfxkXXA"
+    date "2022-02-16T00:46:43Z"
+    title "Video Discussion: Filter Bubbles"
+    description ""
+    channeltitle "CloBug"
+    channelid "UC2LxHqvJ6iJJnCMyn9cB_Qg"
     favcount 0
-    viewcount 5
-    likecount 1
-    commentcount 0
-    duration "PT7M45S"
+    viewcount 0
+    likecount 0
+    commentcount -1
+    duration "PT1M26S"
     indegree 0
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 97
-    label "VeY2GcsWCLs"
+    id 50
+    name "96"
+    label "g-hnCxJ84LM"
     step 0
-    date "2021-03-23T22:45:46Z"
-    title "Filtering, Filter Bubbles and Utahs Online Library - Tuesday Tech Talk for March 23, 2021"
-    description "We all know that districts need to filter school Internet to keep students safe from harmful materials, but what happens when it becomes so restrictive that students cannot find correct information to do research? Are the students really able to find unbiased information in a Google search, which is largely controlled by their search history in Google?&#10;&#10;Did you know that, thanks to UEN and state legislators, all students in Utah have access to Utah&#8217;s Online Databases. This is a place where students can safely search topics and practice their digital literacy skills.&#10;&#10;Join Clint and Chris for a look at UOL, we&#8217;ll look at Topic Finder and show you how you can help students do research and explore topics."
-    channeltitle "Clint Stephens"
-    channelid "UCyy3Mj0SkdwohsS93pA0HwA"
+    date "2021-01-05T19:58:53Z"
+    title "Filter Bubbles"
+    description "This is a Pecha-Kucha Presentation on Eli Pariser's concept of the Filter Bubble"
+    channeltitle "Aoife Bulman"
+    channelid "UCKsXHTzYLYGl7uwvcEeOmnw"
     favcount 0
-    viewcount 22
+    viewcount 24
     likecount 0
     commentcount 0
-    duration "PT29M18S"
+    duration "PT6M40S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 98
+    id 51
+    name "98"
     label "s1-kNzyR2go"
     step 0
     date "2017-02-24T04:03:57Z"
@@ -1007,31 +1550,53 @@ graph
     commentcount 0
     duration "PT5M10S"
     indegree 0
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 101
-    label "9rznCPg_bos"
+    id 52
+    name "99"
+    label "M6pwWo_7sTY"
     step 0
-    date "2020-02-29T00:47:34Z"
-    title "Filter Bubbles (SI 110)"
-    description "Filter bubbles &#38; 2 types of personlisation"
-    channeltitle "Jianglai Zhang"
-    channelid "UCnp2niYbZmZzb1OqAbFSYog"
+    date "2018-02-22T16:16:07Z"
+    title "Privacy Camp 2018: from  filter bubbles to political microtargeting."
+    description "From &#8220;old&#8221; filter bubbles to political microtargeting. How powerful is the profiling on social media? How to increase its accountability?&#10;&#10;&#10;Social media companies have undoubtedly a great impact on the shape of public discourse and how we access information. For the majority of internet users, social media is the gateway to learn about the news, get a sense of what other think and to share their own opinions.&#10;&#10;At the same time those companies are not taking civic responsibilities even though their algorithms are central to how information is consumed in the world today. The business model of social media platforms such as Facebook and Twitter is based on monetising user traffic which enable clickbait and misinformation to proliferate.&#10;&#10;While filter bubbles are not unique to social networks, we are still far from understanding their mechanics and potential effects on the society. Similar concerns relate to the use of microtargeting in social media&#8230;&#10;&#10;Is election politics being re-shaped in the digital age? Should we expect more transparency and accountability from social media companies with regard to algorithms and targeting techniques they use and how those tools are used in political campaigns? Can data protection law help us in this fight?&#10;&#10;Speakers:&#10;&#10;Katarzyna Szymielewicz, Panoptykon Foundation (PL)&#10;Jeffrey Chester, Center for Digital Democracy (USA)&#10;Frederike Kaltheuner, Privacy International (UK)&#10;Moderator:&#10;&#10;Rocco Bellanova, University of Amsterdam and Universit&#233; Saint-Louis &#8211; Bruxelles"
+    channeltitle "CPDPConferences"
+    channelid "UCnb-zwdhW2BbI9V_Yq5OvFQ"
     favcount 0
-    viewcount 9
-    likecount 1
-    commentcount 0
-    duration "PT5M26S"
+    viewcount 101
+    likecount -1
+    commentcount -1
+    duration "PT1H24M20S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 102
+    id 53
+    name "102"
     label "_MYDKHe_A3k"
     step 0
     date "2018-09-27T17:07:55Z"
@@ -1045,88 +1610,143 @@ graph
     commentcount 13
     duration "PT5M7S"
     indegree 11
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 104
-    label "yZXHKY8Mgbw"
-    step 0
-    date "2016-11-14T02:53:43Z"
-    title "Filter Bubbles Explained"
-    description "A crash course on filter bubbles using stickmen and colorful shapes."
-    channeltitle "Graham Swaney"
-    channelid "UCugUzONXbFAq4osFafJ6G1Q"
-    favcount 0
-    viewcount 36
-    likecount 0
-    commentcount 0
-    duration "PT2M57S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 107
-    label "IPdlpq3hJT0"
+    id 54
+    name "103"
+    label "7NZop9L6vdQ"
     step 0
-    date "2019-01-14T15:06:46Z"
-    title "Day 3: Filter Bubbles, by Guido Stevens"
-    description "Guido riffs on the links between knowledge management theory, agile methodologies, the cold war, and more. October 21, 2016. https://2016.ploneconf.org/talks/filter-bubbles"
-    channeltitle "Plone"
-    channelid "UCbyShiqfZ7Xg_n3R1gynpxw"
+    date "2012-05-24T02:15:17Z"
+    title "Keynote Theater #005: Filter Bubbles"
+    description ""
+    channeltitle "Daniel Rezac"
+    channelid "UC_YElXKHs-PfuIjSJfpLDPw"
     favcount 0
-    viewcount 7
+    viewcount -1
     likecount 0
     commentcount 0
-    duration "PT38M22S"
+    duration "PT45M36S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
+  ]
+  node
+  [
+    id 55
+    name "105"
+    label "Oibx1zr8geI"
+    step 0
+    date "2021-02-19T01:08:33Z"
+    title "Filter Bubbles"
+    description ""
+    channeltitle "Skylar S."
+    channelid "UCnjwIantOL-OrsnQWEQObMw"
+    favcount 0
+    viewcount 8
+    likecount 1
+    commentcount 0
+    duration "PT2M45S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 56
+    name "108"
+    label "9DDjZdCka3w"
+    step 0
+    date "2017-05-11T23:11:22Z"
+    title "RWS Research Paper Extension: Filter Bubbles Project"
+    description "This video is about RWS Research Paper Extension: Filter Bubbles Project"
+    channeltitle "wettongue"
+    channelid "UC085i9702oF2Y0ROd0YZCYQ"
+    favcount 0
+    viewcount 28
+    likecount 0
+    commentcount 0
+    duration "PT4M58S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 109
-    label "FYZzqtbN9TA"
+    id 57
+    name "110"
+    label "g2xC05VbFpI"
     step 0
-    date "2020-06-28T09:16:47Z"
-    title "How Opinions are shaped by Social Media/Search Engine | Filter Bubbles  Echo Chambers (Tamil)"
-    description "In this video, we would be explaining How even educated people become biased sometimes through Filter Bubbles &#38; Echo Chambers. We also explain the problems related and tips to minimize this effect. People's views of Search Engines and Social Media will no longer be the same after watching this video.&#10;&#10;Credit to @elipariser&#10;&#10;We vouch that views expressed are personal and based on facts without any bias. These views and facts will also be useful for students, who are preparing for exams like Tamilnadu Public Service Commission (TNPSC) &#38; Union Public Service Commission (UPSC) also.&#10;&#10;Subscribe to Channel : https://www.youtube.com/channel/UC5IOZB4hDLlK7UfXYXesM5A&#10;Connect to Common Man at&#10;Twitter : https://twitter.com/pdevakumar&#10;Website: https://devap.in/"
-    channeltitle "Common Man"
-    channelid "UC5IOZB4hDLlK7UfXYXesM5A"
+    date "2017-02-23T21:30:20Z"
+    title "WVU Festival of Ideas: Truth and Consequences: Fake News, Filter Bubbles and Democracy"
+    description "(web) http://festivalofideas.wvu.edu/events/spring-2016-series/panel-discussion&#10;&#10;Fake news is nothing new, but the anonymity of the social web has allowed it to spread faster and farther than ever before.  At the same time, people are seeking and sharing information that reinforces their political views, added by algorithms that targets stories directly to them. The end result is a public that is finding it harder to discern fact from fiction, and a nation further divided. This event is co-sponsored by the David C. Hardesty Jr. Festival of Ideas and the WVU Reed College of Media. Sponsored in part by the Ogden Newspapers Seminar Series and WVU Libraries."
+    channeltitle "WVU Teaching and Learning Commons"
+    channelid "UC0qk-ZfGkUXXNGMCNm3fGhw"
     favcount 0
-    viewcount 209
-    likecount 17
-    commentcount 0
-    duration "PT2M57S"
+    viewcount 357
+    likecount -1
+    commentcount -1
+    duration "PT1H21M21S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 111
-    label "x-t5ivvT098"
-    step 0
-    date "2019-04-29T11:23:29Z"
-    title "Pop: Bursting Filter Bubbles"
-    description "Chrome extension that bursts filter bubbles on your Twitter news feed by bringing in diverse perspectives.&#10;&#10;Check it out here at: https://github.com/reddykvishal/Pop/"
-    channeltitle "Vishal Reddy"
-    channelid "UCLZqPtSkrP_G4vmx4F8NgmA"
-    favcount 0
-    viewcount 25
-    likecount 0
-    commentcount 0
-    duration "PT31S"
-    indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 112
+    id 58
+    name "112"
     label "_NBhDFxgvsQ"
     step 0
     date "2020-11-09T07:15:01Z"
@@ -1140,145 +1760,233 @@ graph
     commentcount 0
     duration "PT3M25S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 116
-    label "OvkdwrMwk7U"
+    id 59
+    name "113"
+    label "la9ATbaOhEQ"
     step 0
-    date "2020-07-02T15:52:39Z"
-    title "Project RiPOST: How to penetrate filter bubbles to fight false information"
-    description "On 29 June, EU DisinfoLab held a webinar with Tristan Mend&#232;s France where he spoke about RiPOST - an intiative designed to counter false information and hate speech by using social media and search engines. In this way, RiPOST uses Twitter and online advertising on search engines to respond to false information with accurate, reliable information."
-    channeltitle "EU DisinfoLab"
-    channelid "UCK6EIqjgi_epFCtGPeAm6tw"
+    date "2018-06-05T20:43:18Z"
+    title "Filter(bubbles)"
+    description ""
+    channeltitle "Mia Taylor"
+    channelid "UCdc32x3TCbzN4rKn4_B7SCg"
     favcount 0
-    viewcount 60
-    likecount 1
-    commentcount 0
-    duration "PT59M36S"
-    indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 118
-    label "Iuhqzn8aCj0"
-    step 0
-    date "2011-09-28T17:37:55Z"
-    title "THE GOOGLE BUBBLE online filter bubbles"
-    description "We get trapped in a &#34;filter bubble&#34; and don't get exposed to information that could challenge or broaden our worldview. Eli Pariser argues powerfully that this will ultimately prove to be bad for us and bad for democracy."
-    channeltitle "tietze1987"
-    channelid "UC5g5ABhAqOQLd6N0pW0pSmw"
-    favcount 0
-    viewcount 556
-    likecount 3
-    commentcount 0
-    duration "PT3M41S"
-    indegree 4
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 123
-    label "7XiNJWl24f0"
-    step 0
-    date "2019-05-27T05:15:36Z"
-    title "Filter Bubbles and Echo Chamber Debate"
-    description "Assignment Two - CCQ103 - Debates in Digital Culture - Aroha Liebhart - Graduate Certificate in Digital Communications - OLA Robert Haubt."
-    channeltitle "Aroha Liebhart"
-    channelid "UCMUuvsEvg28oedasnHuRgLA"
-    favcount 0
-    viewcount 65
-    likecount 1
-    commentcount 0
-    duration "PT14M15S"
-    indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 125
-    label "Jwx0u8nPpmc"
-    step 0
-    date "2018-12-26T18:46:32Z"
-    title "Fighting Fake News  Filter Bubbles"
-    description "Mary Buelow, Head of Information Services at Hedberg Public Library in Janesville, WI talks about spotting errors, bias &#38; fraud in todays news.  Is that article you just read news, opinion or fake?  Discover ways to fact-check stories and think critically about your own news consumption.  Recorded by JATV Media Services on September 11, 2018."
-    channeltitle "JATVMedia"
-    channelid "UCiLOPcFtMO1jAiFdoKv5mZA"
-    favcount 0
-    viewcount 39
+    viewcount 15
     likecount 1
     commentcount -1
-    duration "PT1H18M35S"
+    duration "PT4M26S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 60
+    name "117"
+    label "LpWJ51UWuek"
+    step 0
+    date "2017-02-12T03:21:43Z"
+    title "Echo Chambers and Filter Bubbles"
+    description ""
+    channeltitle "Keith Boesky"
+    channelid "UCV56DlUbMP0XNEJBc3-EoLg"
+    favcount 0
+    viewcount 181
+    likecount 2
+    commentcount 0
+    duration "PT18M49S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 127
-    label "IHw7AT4lAWk"
+    id 61
+    name "119"
+    label "dDnQ8532gFs"
     step 0
-    date "2018-09-28T12:00:41Z"
-    title "MCE 2018: Anti-social effects of filter bubbles | Jasson Schrock"
-    description "Before the news was reporting on unsavory organizations manipulating people on social media, Jasson had founded a startup to push back on the anti-social aspects of social media. His startup focused on empowering users to break out of their content filter bubbles.He did extensive research on the topic with experts from around the world (e.g., Harvard, MIT, Google, and others). In his presentation, he will share the key insights he learned as well as pitfalls to keep in mind.&#10;&#10;Social media is ripe for reform and armed with this new knowledge hopefully you can help reshape it.&#10;&#10;https://2018.mceconf.com/"
-    channeltitle "MCE Conference"
-    channelid "UCVmsyhkifdHTomiVlA11FgQ"
+    date "2011-06-24T14:22:36Z"
+    title "Google Panda 2.2 Out, +1 Updates, AdWords Targeting, Filter Bubbles  Poop"
+    description "http://www.SERoundtable.com/ - There are some fun topics towards the end of this show but you have to suffer through the boring stuff first.  Panda 2.2 is officially out and about and some sites recovered and some sites did not.  I think Google should send out Panda notifications via Webmaster Tools.  Google is showing the raw +1 counts in the search results for some searchers and some queries.  Google released HTTP header support for the canonical tag.  Google tests a new grayed out design.  There are reports of Google testing infinite scrolling web search results.  AdWords is removing the custom map based location targeting.  AdSense publishers are complaining about earnings.  Google beat Facebook to 1 billion visitors in a single month.  DuckDuckGo uses the Filter Bubble concept to market against Google, but Google actually responds.  Don't blame others if your rankings suck.  Google Places now gets hit by the flaming bag of poop.  Dilbert had two cartoons on the darker side of SEO.  Finally, we had Father's Day logos and Summer logos from Google, Yahoo, Bing and other places.  That was this past week at the Search Engine Roundtable.&#10;&#10;Panda 2.2 Results In Casualties &#38; Some Recoveries : http://www.seroundtable.com/google-panda-22-hits-13586.html&#10;Time For Google Panda Webmaster Notifications? : http://www.seroundtable.com/google-panda-notifications-13599.html&#10;Google +1 Showing Raw Counts In Search Results : http://www.seroundtable.com/google-plus-one-signed-out-13604.html&#10;Use Rel=Canonical Within HTTP Headers : http://www.seroundtable.com/google-canonical-http-headers-13584.html&#10;Google Goes Gray With New Design Test : http://www.seroundtable.com/google-gray-layout-13583.html&#10;Google Instant Scrolling Search Results Test? : http://www.seroundtable.com/google-instant-scroll-results-13585.html&#10;AdWords Sunsetting Multi-Point Location Targeting : http://www.seroundtable.com/adwords-shape-targeting-sunset-13605.html&#10;Google AdSense Earnings Down? Join The Club : http://www.seroundtable.com/adsense-earnings-june2011-13597.html&#10;Sorry Facebook, Google Beat You To One Billion Visitors : http://www.seroundtable.com/google-one-billion-13603.html&#10;Duck! Google's Cutts Responds To Search Filter Bubbles : http://www.seroundtable.com/google-search-bubble-response-13591.html&#10;Blaming Others As A Ranking Factor In Google? No! : http://www.seroundtable.com/google-seo-blame-game-13592.html&#10;Google Places Hit By Flaming Bag Of Poop : http://www.seroundtable.com/google-maps-poop-trick-13610.html&#10;Dilbert Features The Darker Side Of SEO : http://www.seroundtable.com/dilbert-seo-cartoons-13611.html&#10;Happy Father's Day From The Search Industry : http://www.seroundtable.com/fathers-day-2011-13580.html&#10;First Day Of Summer Logos From Google, Bing &#38; Yahoo : http://www.seroundtable.com/summer-solstice-logo-13589.html"
+    channeltitle "RustyBrick Barry Schwartz Search Engine Roundtable"
+    channelid "UCp8Kv-cF9YfA-G33CRxv6SQ"
     favcount 0
-    viewcount 26
+    viewcount 843
+    likecount 8
+    commentcount 0
+    duration "PT13M46S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 62
+    name "124"
+    label "1-njka7_dlo"
+    step 0
+    date "2018-05-23T09:28:36Z"
+    title "Special Shifted removing filter bubbles"
+    description "Video courtesy of Shifted News&#10;&#10;http://shiftednews.org/"
+    channeltitle "HMKW Official"
+    channelid "UCzUWGgCGVvjotzOy9z4DLyg"
+    favcount 0
+    viewcount 15
     likecount 0
     commentcount 0
-    duration "PT17M49S"
+    duration "PT38S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 129
-    label "rU4lhAZlfzI"
+    id 63
+    name "126"
+    label "f61x9SBOmvM"
     step 0
-    date "2016-09-29T20:36:43Z"
-    title "How to Fix Air Bubbles In Pool Pump Basket  Filter System"
-    description "#PumpBasket #FilterSystem&#10;&#10;For more details, and to purchase, please visit: https://www.eztestpools.com/&#10;Pump Baskets: https://www.eztestpools.com/parts-pumps/&#10;Gaskets &#38; O-Rings: https://www.eztestpools.com/gaskets/&#10;Lube Tube: https://www.eztestpools.com/search-results-page?q=lube+tube&#10;&#10;How to get air out of pool pump. What happens when I see air bubble in my pump basket?&#10;How can I prevent air in pool filter? How to get air out of pool pump?&#10;&#10;This is a common question that many swimming pool owners ask and the answer can be a quick fix or a major problem.  Remember the problem lies from the pump forward. If you are taking in air you will be putting out air.&#10;&#10;Here is a checklist that includes a few areas to check and why:&#10;&#10;The strainer o-ring gasket make sure it is not dried out cut or broken.  &#8220;Lube Tube&#8221; is a great product to lubricate dry o-rings. Check the drain plugs on the pump. Are they threaded all the way in? Do they have Teflon tape on them? Check the pump housing for any visible cracks.  Have someone shut the power off while you listen carefully down by the pump area for any air leaks when the pump shuts off.&#10;&#10;Check all clamps from the pump forward make sure they are tight.  Pay attention to the first fitting coming out of the front of the pump make sure it is not loose. If it is, remove and use Teflon tape and then thread it back in hand tight plus 1/4 of a turn with with a wrench.&#10;If you have a ball valve in the front or a 3 way valve, check the o-rings here as well.  Check the handle on both the ball valve and the 3 way valves as they loosen with age.&#10;&#10;Family-owned since 1989, E-Z Test Pool Supplies has 3 retail stores in the Southern NH and Metro-Boston area, plus an extensive online store for all things pool related. Shop over 20,000 pool products at https://www.eztestpools.com"
-    channeltitle "E-Z Test Pool Supplies"
-    channelid "UCEOhImuLSIIjyMYxvaYVyyg"
+    date "2011-06-08T20:26:44Z"
+    title "Eli Pariser Beware online filter bubbles (NL ondertiteling)"
+    description "Beschrijving op Ted.com: Webbedrijven streven naar het aanpassen van hun diensten (inclusief nieuws en zoekresultaten) aan onze persoonlijke smaak. Er hangt een gevaarlijk en onbedoeld gevolg aan vast: we komen vast te zitten in een &#34;filterbubble&#34; en komen niet in contact met informatie die ons wereldbeeld ter discussie stelt en verbreedt. Eli Pariser beargumenteert krachtig dat dit uiteindelijk slechte gevolgen voor onszelf en de democratie zal hebben.&#13;&#10;&#13;&#10;Placed on Youtube, to show on my blog with subtitles."
+    channeltitle "Anja Wessels"
+    channelid "UCB2zDHBvQxHTPFNubhxg_CA"
     favcount 0
-    viewcount 333451
-    likecount 331
-    commentcount 6
-    duration "PT3M54S"
-    indegree 8
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 134
-    label "8j05fk3pel0"
-    step 0
-    date "2019-05-30T08:00:00Z"
-    title "3 ways to burst filter bubbles in your Global Shapers hub"
-    description "Your filter bubble is your personal world of information in which you only see content that confirms your views. Burst your filter bubble in your Global Shapers Hubs.&#10;www.globalshapersvienna.org"
-    channeltitle "Global Shapers Vienna"
-    channelid "UCsBu4jbLVxWO5l8fJJ5R5kw"
-    favcount 0
-    viewcount 13
-    likecount 1
+    viewcount 2364
+    likecount 10
     commentcount 0
-    duration "PT1M7S"
-    indegree 0
-    sentiment 1
+    duration "PT9M10S"
+    indegree 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 135
+    id 64
+    name "128"
+    label "emwhhmj8pTE"
+    step 0
+    date "2019-11-16T04:06:20Z"
+    title "InfoMaven: Filter Bubbles"
+    description ""
+    channeltitle "Rachna Munagala"
+    channelid "UCezOj2s3sI7Uk_qKpSVjNew"
+    favcount 0
+    viewcount 10
+    likecount 0
+    commentcount 0
+    duration "PT5M2S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 65
+    name "130"
+    label "cghFFfuCQu0"
+    step 0
+    date "2011-09-26T03:41:51Z"
+    title "Filter Bubbles final"
+    description ""
+    channeltitle "lgymnast329"
+    channelid "UC-uGgEiB2Do-d5aqrQ9nQyw"
+    favcount 0
+    viewcount 46
+    likecount 0
+    commentcount 0
+    duration "PT1M27S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
+  ]
+  node
+  [
+    id 66
+    name "135"
     label "QeaLjWXsNjM"
     step 0
     date "2020-04-13T16:46:05Z"
@@ -1292,69 +2000,113 @@ graph
     commentcount 0
     duration "PT15M42S"
     indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 137
-    label "cc4BshB2L1U"
-    step 0
-    date "2020-10-12T13:20:19Z"
-    title "AI risks: job loss, filter bubbles, unfair AI | AI for Humans 5.1"
-    description "In this video: Will AI take over my job? Let's uncover the risks of artificial intelligence.&#10;&#10;This video is from my free course &#8220;AI for Humans&#8221;, an introductory course on Artificial Intelligence.&#10;AI4Humans is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives &#8211; with no complicated math or programming required.&#10;&#10;You can follow it on the website of the AI Academy school for a better learning experience and earn your completion certificate!&#10;&#10;&#128071;&#127996; JOIN HERE &#128071;&#127996;&#10;http://bit.ly/ai4humans-youtube"
-    channeltitle "Gianluca Mauro"
-    channelid "UCtUxjIi642KGNk1g1AktXew"
-    favcount 0
-    viewcount 54
-    likecount 2
-    commentcount 0
-    duration "PT5M27S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 143
-    label "gYqihvFvR_Y"
+    id 67
+    name "136"
+    label "6T6EQB23gJI"
     step 0
-    date "2019-01-02T14:30:38Z"
-    title "Myles, Efe  Fusion discuss: What are filter bubbles?"
-    description "Clip from The Quest For Global Empathy #2 with Efe Ezekiel &#38; Alain 'Fusion' Clapham: https://youtu.be/cElUg0AlwEM&#10;Help us make more episodes &#9658; http://patreon.com/MylesDyer&#10;&#10;Download #QuestForEmpathy podcast via:&#10;Spotify &#9658; https://open.spotify.com/show/6Vty4ceV9phhMxwCvT6Gqa&#10;Apple podcasts &#9658; https://podcasts.apple.com/gb/podcast/the-quest-for-global-empathy/id1441925674&#10;Google podcasts &#9658; https://podcasts.google.com/?feed=aHR0cHM6Ly9teWxlc2R5ZXIucG9kYmVhbi5jb20vZmVlZC54bWw&#10;Podbean &#9658; https://mylesdyer.podbean.com/&#10;Pocket Casts &#9658; https://pca.st/HE07&#10;&#10;'The Quest for Global Empathy' is a podcast show by cyber-philanthropist Myles Dyer, containing open, honest &#38; free-flowing conversations with guests from around the world about their life stories and what it can teach us about the human condition. More from MylesDyer.com&#10;&#10;STAY CONNECTED:&#10;Facebook &#9658; http://www.facebook.com/QuestforEmpathy&#10;Instagram &#9658; http://www.instagram.com/MylesDyerOfficial&#10;Twitter &#9658; http://www.twitter.com/MylesDyer"
-    channeltitle "The Quest for Global Empathy"
-    channelid "UCm2pf4XpMhWFO19AhO14Klg"
+    date "2020-02-05T05:22:41Z"
+    title "Filter Bubbles Week 4"
+    description ""
+    channeltitle "Hanna Lurtz"
+    channelid "UCpgG3zPGBfIuXw0kaiSnqCA"
     favcount 0
-    viewcount 9
+    viewcount 5
     likecount 0
     commentcount 0
-    duration "PT4M7S"
+    duration "PT3M39S"
     indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 148
-    label "Glbd9q0OGSY"
-    step 0
-    date "2020-10-02T08:20:30Z"
-    title "Filter Bubbles  Media Literacy"
-    description "Priyanka Sachdeva's presenatation &#10;&#34;Are Filter Bubbles an impediment to Media Literacy&#34;"
-    channeltitle "PRIYANKA SACHDEVA"
-    channelid "UC4lc5Exog-OXA5slECQ13fA"
-    favcount 0
-    viewcount 109
-    likecount 6
-    commentcount 0
-    duration "PT19M28S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 149
+    id 68
+    name "138"
+    label "p0osNNTI4F4"
+    step 0
+    date "2014-11-19T01:10:31Z"
+    title "Filter Bubbles in the Digital Age"
+    description "A short commentary on the state of online data filtering throughout web 2.0"
+    channeltitle "Jahan Hayes"
+    channelid "UCNkbVzyItK1te5fPAYu3i0Q"
+    favcount 0
+    viewcount 5
+    likecount 0
+    commentcount 0
+    duration "PT5M32S"
+    indegree 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 69
+    name "144"
+    label "XTt9IyX880I"
+    step 0
+    date "2018-07-25T15:25:56Z"
+    title "Barker - Filter Bubbles"
+    description "Artist: Barker&#13;&#10;Release: Debiasing&#13;&#10;Label: Ostgut Ton &#8206;&#8211; o-ton112&#13;&#10;Release Date: 01 June 2018&#13;&#10;&#13;&#10;https://www.discogs.com/Barker-Debiasing/master/1375059&#13;&#10;https://sambarker.bandcamp.com/album/debiasing&#13;&#10;https://hardwax.com/19636/barker/debiasing/&#13;&#10;https://www.beatport.com/release/debiasing-ep/2296825&#13;&#10;&#13;&#10;Copyright owned by label and artists."
+    channeltitle "Deep Sleep Operative"
+    channelid "UCiIfFXNVhutOpTFM3J880CQ"
+    favcount 0
+    viewcount 221
+    likecount 8
+    commentcount 0
+    duration "PT4M40S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 70
+    name "149"
     label "1apI9BYp7oQ"
     step 0
     date "2021-01-07T13:30:00Z"
@@ -1368,12 +2120,23 @@ graph
     commentcount 3
     duration "PT8M29S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 150
+    id 71
+    name "150"
     label "47Ll1VTb5ew"
     step 0
     date "2017-02-06T00:03:31Z"
@@ -1387,69 +2150,113 @@ graph
     commentcount 0
     duration "PT45S"
     indegree 0
-    sentiment 1
-    cluster 4
-  ]
-  node
-  [
-    id 158
-    label "JHtRgLWewNE"
-    step 0
-    date "2020-10-19T22:54:29Z"
-    title "RecSys 2020 Session P4A: Fairness, Filter Bubbles, and Ethical Concerns"
-    description "Session P4A: Fairness, Filter Bubbles, and Ethical Concerns&#10;&#10;Revisiting Adversarially Learned Injection Attacks Against Recommender Systems&#10;by Jiaxi Tang (Simon Fraser University), Hongyi Wen (Cornell Tech, Cornell University), Ke Wang (Simon Fraser University)&#10;&#10;Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems&#10;by Guy Aridor (Columbia University), Duarte Gon&#231;alves (Columbia University), Shan Sikdar (Everquote)&#10;&#10;Towards Safety and Sustainability: Designing Local Recommendations for Post-pandemic World&#10;by Gourab K Patro (Indian Institute of Technology), Abhijnan Chakraborty (Max-Planck Institute for Software Systems), Ashmi Banerjee (Technical University of Munich), Niloy Ganguly (Indian Institute of Technology)&#10;&#10;Global and Local Differential Privacy for Collaborative Bandits&#10;by Huazheng Wang (University of Virginia), Qian Zhao (Bloomberg L.P.), Qingyun Wu (University of Virginia), Shubham Chopra (Bloomberg L.P.), Abhinav Khaitan (Bloomberg L.P.), Hongning Wang (University of Virginia)&#10;&#10;Theoretical Modeling of the Iterative Properties of User Discovery in a Collaborative Filtering Recommender System&#10;by Sami Khenissi (Knowledge Discovery &#38; Web Mining Lab, University of Louisville), Boujelbene Mariem (Knowledge Discovery &#38; Web Mining Lab, University of Louisville), Olfa Nasraoui (Knowledge Discovery &#38; Web Mining Lab, University of Louisville)&#10;&#10;Debiasing Item-to-Item Recommendations With Small Annotated Datasets&#10;by Tobias Schnabel (Microsoft), Paul N. Bennett (Microsoft)"
-    channeltitle "ACM RecSys"
-    channelid "UC2nEn-yNA1BtdDNWziphPGA"
-    favcount 0
-    viewcount 197
-    likecount 2
-    commentcount 0
-    duration "PT1H31M8S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 162
-    label "xRm17kXC2OI"
+    id 72
+    name "151"
+    label "iLd60GziYnE"
     step 0
-    date "2019-10-26T06:14:36Z"
-    title "Anna Riedl: The Cognitive Science of Filter Bubbles @ShapersUnited Vienna 2019"
-    description "The Global Shapers conference ShapersUnited Vienna 2019 is themed around the idea of bursting filter bubbles. But what exactly are filter bubbles and where do they come from? Our very own Anna Riedl gave the attendees 10 short insights into the cognitive science of filter bubbles to kick off the day and before heading into our &#34;bubble meetings&#34;."
-    channeltitle "Global Shapers Vienna"
-    channelid "UCsBu4jbLVxWO5l8fJJ5R5kw"
+    date "2017-01-06T03:48:05Z"
+    title "Orandas playing with the filter bubbles"
+    description "My 2 new Orandas are happy with their new home..playing with the filter bubbles &#38; readily scavenging for food.."
+    channeltitle "Foxyturby Turf"
+    channelid "UC5gHMs7O57rwI_ymc-llZuw"
     favcount 0
-    viewcount 1160
-    likecount 23
+    viewcount 60
+    likecount 1
     commentcount 0
-    duration "PT12M4S"
-    indegree 1
-    sentiment 1
+    duration "PT23S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 73
+    name "159"
+    label "FpzUYK1_uWs"
+    step 0
+    date "2021-04-21T14:00:15Z"
+    title "369 Busting Filter Bubbles with Jeremy Fisher @ River"
+    description "River is a new content discovery &#38; news platform - the culmination of a 2+ year project by Jeremy whose investors include Founders Fund, .406, Box Group, Josh Kushner, and Scooter Braun. Similar to observations that led Jeremy to first conceptualized the 24-hour video sharing format (which we know as Stories) in 2012, he realized the need for a platform to act as a native home for a wide breadth of content. River puts context at the forefront of a rapidly shifting news cycle, and triangulates between different perspectives, whether it&#8217;s on NYTimes.com, Twitter, or TikTok.&#10;&#10;support the show: https://anchor.fm/thinkfuture/support"
+    channeltitle "thinkfuture: innovation, startups and the future"
+    channelid "UC87W-ucWcd_uzGRuIBNpFMg"
+    favcount 0
+    viewcount 82
+    likecount 0
+    commentcount 0
+    duration "PT53M20S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 74
+    name "163"
+    label "k6uAVfVZi_4"
+    step 0
+    date "2013-10-12T02:42:30Z"
+    title "Lemon Oscar playing in filter bubbles"
+    description "This is a short video of my lemon oscar (Big Bird) playing in the stream and bubbles from the filter.  He did this all day long, and never got tired of it."
+    channeltitle "Trina H"
+    channelid "UC9ZWRitr7_aV127czXjSAmA"
+    favcount 0
+    viewcount 527
+    likecount 2
+    commentcount 4
+    duration "PT1M2S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 167
-    label "-1w2Eps53Ds"
-    step 0
-    date "2020-08-06T16:59:36Z"
-    title "Should fish tank filter make bubbles?"
-    description "Oscar Fish Air Pump &#8226; Should fish tank filter make bubbles?&#10;&#10;&#10;----------&#10;&#10;Our mission is informing people correctly. This video was also made on the basis of these guidelines. In order to fully present the topic, it may be necessary in some cases to include details that may be objectionable to some."
-    channeltitle "Ask About MOVIES"
-    channelid "UCbuD8T_MRTDTeLBp-3yYeNQ"
-    favcount 0
-    viewcount 86
-    likecount 0
-    commentcount 1
-    duration "PT55S"
-    indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 168
+    id 75
+    name "168"
     label "mojj6BesuEQ"
     step 0
     date "2016-11-19T17:22:20Z"
@@ -1463,12 +2270,23 @@ graph
     commentcount 1
     duration "PT3M53S"
     indegree 0
-    sentiment 1
-    cluster 4
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 169
+    id 76
+    name "169"
     label "-gg0_aBqn3k"
     step 0
     date "2020-04-13T23:48:23Z"
@@ -1482,31 +2300,53 @@ graph
     commentcount 1
     duration "PT16M37S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 174
-    label "i4AyFzkIYpI"
+    id 77
+    name "170"
+    label "Xo63B-NrFcQ"
     step 0
-    date "2020-08-23T13:59:34Z"
-    title "Are Aquarium Air Pumps Oxygen Tanks? Fish Tank Bubbles, Do You Need Them?"
-    description "&#128104;&#8205;&#128104;&#8205;&#128103;&#8205;&#128102; Get all the extra benefits by becoming a channel member. https://www.youtube.com/channel/UCyyGJeKITfR7Y5cq2zX4-oQ/join&#10;&#10;Check out our brand new website and shop for all of your aquarium supplies and fun merch!&#10;https://keepfishkeeping.com&#10;&#10;Wanna send us something? &#10;PO BOX 742&#10;Edenton NC, 27932&#10;&#10;&#128722; Links to popular products we use:&#10;Seachem Tidal Filters: https://bit.ly/3fjkjXF&#10;Sicce Shark ADV Internal Filter: https://bit.ly/390JuKn&#10;Fritz Guard: https://bit.ly/3csfNUR&#10;Fritz Complete: https://bit.ly/3spgtQi&#10;Fritz Dark Water: https://bit.ly/3sx49gQ&#10;Fritz Betta Guard: https://bit.ly/3svhExw&#10;Aquarium Salt: https://bit.ly/3svcIsz&#10;Algae Remover: https://bit.ly/3sx8nVR&#10;Plant Fertilizer: https://bit.ly/31lwGKy&#10;General Cure: https://bit.ly/2PcjXr1&#10;Paracleanse: https://bit.ly/2NXlqkm&#10;Maracyn: https://bit.ly/31n8dVh&#10;Ick Medication: https://bit.ly/3fkZZoS &#128104;&#8205;&#128104;&#8205;&#128103;&#8205;&#128102; Get all the extra benefits by becoming a channel member. https://www.youtube.com/channel/UCyyGJeKITfR7Y5cq2zX4-oQ/join&#10;&#10;Check out our brand new website and shop for all of your aquarium supplies and fun merch!&#10;https://keepfishkeeping.com&#10;&#10;&#128722; Links to popular products we use:&#10;Seachem Tidal Filters: https://bit.ly/3fjkjXF&#10;Sicce Shark ADV Internal Filter: https://bit.ly/390JuKn&#10;Fritz Guard: https://bit.ly/3csfNUR&#10;Fritz Complete: https://bit.ly/3spgtQi&#10;Fritz Dark Water: https://bit.ly/3sx49gQ&#10;Fritz Betta Guard: https://bit.ly/3svhExw&#10;Aquarium Salt: https://bit.ly/3svcIsz&#10;Algae Remover: https://bit.ly/3sx8nVR&#10;Plant Fertilizer: https://bit.ly/31lwGKy&#10;General Cure: https://bit.ly/2PcjXr1&#10;Paracleanse: https://bit.ly/2NXlqkm&#10;Maracyn: https://bit.ly/31n8dVh&#10;Ick Medication: https://bit.ly/3fkZZoS"
-    channeltitle "KGTropicals"
-    channelid "UCyyGJeKITfR7Y5cq2zX4-oQ"
+    date "2018-11-18T19:42:49Z"
+    title "The Age of Discovery: Filter bubbles"
+    description ""
+    channeltitle "Barrie Schank"
+    channelid "UCLh3_8wymP4VpoQoULdJ7IA"
     favcount 0
-    viewcount 467962
-    likecount 9917
-    commentcount 756
-    duration "PT10M20S"
-    indegree 14
-    sentiment 1
-    cluster 6
+    viewcount 22
+    likecount 3
+    commentcount 0
+    duration "PT4M8S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 175
+    id 78
+    name "175"
     label "H5KLLXm5Bm8"
     step 0
     date "2018-02-22T19:00:00Z"
@@ -1520,12 +2360,23 @@ graph
     commentcount 22
     duration "PT10M36S"
     indegree 4
-    sentiment 1
-    cluster 2
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "AntiSJW|AntiTheist"
+    leftright "C"
+    cluster 5
   ]
   node
   [
-    id 176
+    id 79
+    name "176"
     label "zoaminipwXg"
     step 0
     date "2021-01-30T03:00:20Z"
@@ -1539,12 +2390,23 @@ graph
     commentcount 14
     duration "PT56M18S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
   ]
   node
   [
-    id 177
+    id 80
+    name "177"
     label "Lxa7jC9tiS4"
     step 0
     date "2020-05-29T01:46:25Z"
@@ -1558,31 +2420,53 @@ graph
     commentcount 0
     duration "PT15M30S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 182
-    label "suw8UAWiDwM"
+    id 81
+    name "178"
+    label "zK0GAn0oda0"
     step 0
-    date "2020-10-13T04:19:07Z"
-    title "FILTER BUBBLES | SOCIAL DILEMMA"
-    description "The term &#8220;Filter Bubble&#8221; refers to the results of the algorithms that dictate what we encounter online.  &#10;&#10;DON&#8217;T MISS THIS! DICTATE WHAT WE ENCOUNTER ONLINE.&#10;&#10;REFLECT &#10;&#10;Think about your social network both online and in person.  &#10;&#10;How diverse are the opinions and conversations with those you spend most of your time with?  &#10;&#10;How might you challenge yourselves to understand different thoughts about the world around you? &#10;&#10;LINKS AND QUOTS:&#10;&#10;The Social Dilemma Documentary &#10;https://www.youtube.com/watch?v=uaaC57tcci0&#38;ab_channel=Netflix&#10;&#10;Roger Ebert  &#10;https://www.rogerebert.com/reviews/the-social-dilemma-movie-review-2020 &#10;&#10;DigitalSpy 10/09/2020 &#10;https://www.digitalspy.com/tv/ustv/a33978478/social-dilemma-netflix/ &#10;&#10;Wall Street Journal&#10;http://graphics.wsj.com/blue-feed-red-feed/#/president-trump&#10;&#10;Watch Pariser&#8217;s TedTalk: &#8220;Beware Online Filter Bubbles&#8221;. &#10;https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles &#10;&#10;Center for Humane Technology &#10;https://www.humanetech.com/"
-    channeltitle "Rob Haslam"
-    channelid "UCAqwJTDeaduAS49A9DVdCgA"
+    date "2019-03-29T00:48:36Z"
+    title "FIlter Bubbles Priya Gandhi"
+    description ""
+    channeltitle "Priya Gandhi"
+    channelid "UCkPGTckgsOLjpUvGFJjK4QQ"
     favcount 0
-    viewcount 387
-    likecount 21
-    commentcount 2
-    duration "PT19M34S"
-    indegree 1
-    sentiment 1
-    cluster 2
+    viewcount 19
+    likecount 0
+    commentcount 0
+    duration "PT5M21S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 183
+    id 82
+    name "183"
     label "1dbCmIHsmxQ"
     step 0
     date "2020-05-26T12:53:07Z"
@@ -1596,31 +2480,53 @@ graph
     commentcount 0
     duration "PT3M57S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 83
+    name "184"
+    label "rYgNEbckr7w"
+    step 0
+    date "2016-08-04T23:11:18Z"
+    title "How to Modify Your Sponge Filter to Create Smaller Bubbles"
+    description "TL;DR: This is a guide on how to modify an Aquatop Sponge Filter to create smaller bubbles. &#10;&#10;I made this video as away to give back to the community. &#10;&#10;The Sponge Filters work great when you have multiple aquariums and need a way to create circulation and filter the water without have multiple Power Filters. &#10;&#10;However, they do make a lot of noise due to the huge bubbles they create. The massive bubbles are also ugly, IMHO."
+    channeltitle "Dan Truong"
+    channelid "UCvDL_aeKAuV2rngYSBx8emA"
+    favcount 0
+    viewcount 82890
+    likecount 761
+    commentcount 42
+    duration "PT6M10S"
+    indegree 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 186
-    label "CtvklyqUHZY"
-    step 0
-    date "2020-07-28T14:45:01Z"
-    title "7 Reasons Why Your Fish Tank Has Bubbles"
-    description "Does your aquarium have strange bubbles or foam? Here are 7 reasons why bubbles could be popping up.&#10;&#127793; Buy plants, lights, food, chemicals and more from our online store: https://aquariumcoop.com/&#10;&#128213; Want in-depth articles on freshwater aquariums? Visit our blog: https://aquariumcoop.com/blogs/aquarium&#10;&#128031; Searching for that respectful community to talk about fish? Join our forum: https://forum.aquariumcoop.com/&#10;&#10;WHO WE ARE&#10;------------------------------------------------&#10;At Aquarium Co-Op, we focus on your aquariums. We specialize in freshwater tropical fish, aquatic plants, and the overall betterment of the freshwater fish keeping hobby. Our goal is to help you with your first pet fish and graduate you to an advanced aquarium hobbyist. If you'd like to take it to the next level, subscribe to Aquarium Co-Op and check out our weekly videos. &#10;&#10;Cory McElroy is employed by Aquarium Co-Op LLC. He also owns Aquarium Co-Op LLC. Therefore, all content is sponsored by Aquarium Co-Op.&#10;&#10;0:00 Intro&#10;0:28 #1 Air-driven devices&#10;0:53 #2 Water change&#10;2:00 #3 Fish medications&#10;3:01 #4 Film on water surface&#10;4:15 #5 Excess ammonia&#10;4:56 #6 Bubble nests&#10;5:32 #7 Pearling plants&#10;&#10;#Aquariumcoop #Aquariumfish #Fishtank"
-    channeltitle "Aquarium Co-Op"
-    channelid "UCNJuJfXCKNWu4-VifYixs8A"
-    favcount 0
-    viewcount 168722
-    likecount 2954
-    commentcount 150
-    duration "PT6M46S"
-    indegree 14
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 187
+    id 84
+    name "187"
     label "6fFahTCaMaw"
     step 0
     date "2021-04-09T20:56:03Z"
@@ -1634,50 +2540,83 @@ graph
     commentcount 0
     duration "PT14M24S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 85
+    name "188"
+    label "Cp4TcWxapLw"
+    step 0
+    date "2013-10-16T03:41:41Z"
+    title "Week 4 - Evidence Based/Informed Practice and Filter Bubbles"
+    description "Artefacts:&#10;&#10;http://www.youtube.com/watch?v=SxQShnkhGFg&#10;&#10;http://searchenginewatch.com/topic/targeting&#10;&#10;http://www.wired.com/business/2012/01/google-filter-bubble/&#10;&#10;http://ieeexplore.ieee.org.proxy1.lib.uwo.ca/stamp/stamp.jsp?tp=&#38;arnumber=5945209"
+    channeltitle "DA0617011"
+    channelid "UCxjh3IWpUnD-drrLdhY1rWQ"
+    favcount 0
+    viewcount 31
+    likecount 0
+    commentcount -1
+    duration "PT11M1S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 193
-    label "J5dGSI8pIi4"
+    id 86
+    name "194"
+    label "nBdTvkFObJ8"
     step 0
-    date "2020-12-11T22:40:46Z"
-    title "TopicForest - Escape filter bubbles + more holistic news consumption - Dec 11th - Daily news"
-    description "At TopicForest we devise algorithms that summarize large document sets into hierarchies of key terms that allow for more efficient exploration. Here the daily news summary for December 12th 2020 is being demoed. &#10;&#10;Daily News Summary:&#10;http://topicforest.com/queryterm/Daily%20News%20-%20Multiple%20Sources/topictree?domain=newsapi&#10;&#10;TopicForest is domain agnostic and can be applied to research documents, product reviews, etc."
-    channeltitle "soheil danesh"
-    channelid "UCbwOvqPVQ8UBCjQsZ1K7iAg"
+    date "2022-04-03T14:23:02Z"
+    title "Bursting Scientific Filter Bubbles: Boosting Innovation Via Novel Author Discovery"
+    description "Bursting Scientific Filter Bubbles: Boosting Innovation Via Novel Author Discovery&#10;Jason Portenoy, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, Tom Hope&#10;&#10;CHI'22: ACM Conference on Human Factors in Computing Systems&#10;Session: Creativity Support Tools&#10;&#10;Abstract&#10;Isolated silos of scientific research and the growing challenge of information overload limit awareness across the literature and hinder innovation. Algorithmic curation and recommendation, which often prioritize relevance, can further reinforce these informational &#34;filter bubbles.&#34; In response, we describe Bridger, a system for facilitating discovery of scholars and their work. We construct a faceted representation of authors with information gleaned from their papers and inferred author personas, and use it to develop an approach that locates commonalities and contrasts between scientists to balance relevance and novelty. In studies with computer science researchers, this approach helps users discover authors considered useful for generating novel research directions. We also demonstrate an approach for displaying information about authors, boosting the ability to understand the work of new, unfamiliar scholars. Our analysis reveals that Bridger connects authors who have different citation profiles and publish in different venues, raising the prospect of bridging diverse scientific communities.&#10;&#10;WEB:: https://chi2022.acm.org/&#10;&#10;Pre-recorded presentations of CHI 2022"
+    channeltitle "ACM SIGCHI"
+    channelid "UCEfEi-IMiB87UsxY3765P6w"
     favcount 0
-    viewcount 29
-    likecount 0
+    viewcount 57
+    likecount 2
     commentcount 0
-    duration "PT1M44S"
+    duration "PT8M39S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 197
-    label "PvpXXXOt2aA"
-    step 0
-    date "2019-10-14T18:12:24Z"
-    title "Filter Bubbles by ESL Brains - Annas favourite video quizzes EP 05"
-    description "In this episode we are showcasing a video quiz by our user ESL Brains, a great blog written by two English teachers who produce lesson plans around hot topics that will be relevant for most of the adult students you teach. Apart from showing you parts of the quiz, we will also give you a quick tour of the ESL Brains blog and say what we particularly like about their lesson plans - and talk about our shared mission! :)&#10;&#10;The original video quiz can be found here on our site: &#10;https://en.islcollective.com/video-lessons/esl-brains-filter-bubbles-online&#10;&#10;And here is the full lesson plan on the ESL Brains blog: &#10;https://eslbrains.com/filter-bubbles/ &#10;&#10;Enjoy!"
-    channeltitle "iSLCollective Video Quiz Tutorials"
-    channelid "UCLHDq7KxGQHLK_noFfABzmQ"
-    favcount 0
-    viewcount 1944
-    likecount 7
-    commentcount 2
-    duration "PT5M10S"
-    indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 198
+    id 87
+    name "198"
     label "kSIiB9UqBN8"
     step 0
     date "2020-04-18T01:30:04Z"
@@ -1691,31 +2630,53 @@ graph
     commentcount 0
     duration "PT8M20S"
     indegree 0
-    sentiment 1
-    cluster 2
-  ]
-  node
-  [
-    id 200
-    label "SVy5mxku9g4"
-    step 0
-    date "2020-04-12T10:36:12Z"
-    title "Filter Bubbles"
-    description "Provided to YouTube by Label Engine&#10;&#10;Filter Bubbles &#183; E.T.H (Italy)&#10;&#10;Various Artist&#10;&#10;&#8471; Osixnine&#10;&#10;Released on: 2020-03-30&#10;&#10;Author: Riccardo Pazzaglia&#10;&#10;Auto-generated by YouTube."
-    channeltitle "E.T.H (Italy) - Topic"
-    channelid "UCsuBjWh2pI6uY-pz6usj7Bw"
-    favcount 0
-    viewcount 211
-    likecount 5
-    commentcount 0
-    duration "PT7M51S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 201
+    id 88
+    name "199"
+    label "rfQ1JpqY7Pc"
+    step 0
+    date "2020-04-07T00:57:32Z"
+    title "Filter Bubbles"
+    description "Recorded with https://screencast-o-matic.com"
+    channeltitle "Isaac Mendez"
+    channelid "UCxAQPy6WhOp8aY_I-L5MOTQ"
+    favcount 0
+    viewcount 5
+    likecount 0
+    commentcount 0
+    duration "PT3M16S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 2
+  ]
+  node
+  [
+    id 89
+    name "201"
     label "2lXykrRUcK0"
     step 0
     date "2020-05-30T10:00:00Z"
@@ -1729,31 +2690,53 @@ graph
     commentcount 7
     duration "PT4M37S"
     indegree 9
-    sentiment 1
-    cluster 7
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 214
-    label "SiEOIxYpJ5g"
+    id 90
+    name "202"
+    label "8ZRL06v4mNk"
     step 0
-    date "2021-04-12T19:52:05Z"
-    title "Air Bubbles in your Pool Pump? | Dealing With Suction Leaks"
-    description "So you have air bubbles in your pump and want to know why? Commonly these are caused by suction leaks and in this video, Mark goes over the different ways to isolate the problem helping you locate the potential leak more easily. If you have any questions, feel free to contact us at hallmarkpoolsupplies@gmail.com &#10;&#10;Visit https://hallmarkpoolsupplies.com&#8203; for all your pool supplies, and needs&#10;&#10;Like us on Facebook: https://www.facebook.com/Hallmark-Pool-Supplies-426794114071294/&#10;&#10;Music: Zach Scholz"
-    channeltitle "Hallmark Pool Supplies"
-    channelid "UCaZf9B6wukztcSIBk9j-kgA"
+    date "2018-08-01T23:04:16Z"
+    title "Ethan plays with filter bubbles"
+    description ""
+    channeltitle "RandomEthan3679"
+    channelid "UCZSRYmHrad4_2zIWNu3RG5w"
     favcount 0
-    viewcount 38077
-    likecount 743
-    commentcount 51
-    duration "PT9M10S"
-    indegree 11
-    sentiment 1
-    cluster 7
+    viewcount 29
+    likecount 2
+    commentcount 5
+    duration "PT11S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 215
+    id 91
+    name "215"
     label "jxhTy3tyukY"
     step 0
     date "2018-08-16T16:19:53Z"
@@ -1767,12 +2750,23 @@ graph
     commentcount 0
     duration "PT4M"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 216
+    id 92
+    name "216"
     label "dpqgU35TAq8"
     step 0
     date "2019-02-28T20:13:12Z"
@@ -1786,12 +2780,23 @@ graph
     commentcount -1
     duration "PT6M57S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 217
+    id 93
+    name "217"
     label "ls3FK1NfT0k"
     step 0
     date "2020-02-12T01:48:36Z"
@@ -1805,12 +2810,23 @@ graph
     commentcount 263
     duration "PT7M54S"
     indegree 6
-    sentiment 1
-    cluster 6
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 218
+    id 94
+    name "218"
     label "k0U8dAr-YPg"
     step 0
     date "2018-09-30T09:05:56Z"
@@ -1824,31 +2840,53 @@ graph
     commentcount 1
     duration "PT3M42S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 95
+    name "219"
+    label "Ici1K6LAvZg"
+    step 0
+    date "2020-05-09T14:35:52Z"
+    title "Filter bubbles"
+    description ""
+    channeltitle "Juanita Pardo Garc&#237;a"
+    channelid "UCaV-BJkyStNRU-7Tcmsr0Xw"
+    favcount 0
+    viewcount 10
+    likecount 0
+    commentcount 0
+    duration "PT2M33S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 223
-    label "T55ieHRTI9U"
-    step 0
-    date "2018-07-30T02:17:05Z"
-    title "Micro bubbles gone from canister filter marineland c360 mag"
-    description ""
-    channeltitle "James Tate"
-    channelid "UCYIi-gWXUKQOPBs6Ktr8kzQ"
-    favcount 0
-    viewcount 5479
-    likecount 44
-    commentcount 17
-    duration "PT4M"
-    indegree 1
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 224
+    id 96
+    name "224"
     label "Y_oRR3C2mZ0"
     step 0
     date "2018-02-12T19:02:46Z"
@@ -1862,88 +2900,143 @@ graph
     commentcount 0
     duration "PT2M4S"
     indegree 0
-    sentiment 1
-    cluster 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 228
-    label "IttJUzubCbQ"
+    id 97
+    name "225"
+    label "u9tj9KFVdPg"
     step 0
-    date "2019-02-04T23:02:43Z"
-    title "Jack Dorsey: "
-    description "Rolf Vennenbernd | dpa | picture alliance | Getty Images         Jack Dorsey, CEO of Twitter                                                       Twitter  CEO Jack Dorsey is grappling with the unintended consequences of his invention, like many of his peers in the technology industry.                                                                                      On stage at Wireds 25th anniversary summit  on Monday, he spoke in a forthright way about the problem of users only see views, news and opinions from one perspective.                                                              I   think Twitter does contribute to filter bubbles and I think thats wrong of us, we need to fix it, he said.                                                                             In his view, a big reason for that is the fact that users only follow accounts they agree with. And that means its very unlikely that theyll see tweets that share an opposing point of view.                                                             He gave an example of how during the social media firestorm in the months before the Brexit vote, many users only saw tweets from people advocating for or against the United Kingdom remaining within the European Union.                                                             A solution to that problem, in his view, is to provide them with a way to see tweets from both sides by following a topic rather than a person.                                                             If Im following an account with a particular viewpoint versus the ability to follow a topic or interest or event ... like Brexit to vote leave... there might be a few tweets that counter it, he said.                                                             At present, Dorsey admitted, were not giving them (users) the tools to have the opportunity to break down the filter bubble.                                                                                                                                                                                                                                                                                                                                                  show chapters                                                                                                                                                                                                                                                      Twitter permanently suspends Alex Jones and Infowars accounts                               7:19  PM ET Thu,  6 Sept 2018 |  01:52                                                                                                                                                                                                                                          var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.mpsinit=mps._queue.mpsinit||[];     mps._queue.mpsinit.push(function() {       mps.insertComponent(#taboola_article_you_may_like, taboola-article-you-may-like)     });"
-    channeltitle "news"
-    channelid "UC8NC0cSdlTgZXPMIWyK3QcA"
+    date "2022-06-12T02:59:59Z"
+    title "ASMR 20 mins filter bubbles"
+    description "Doee the goldfish swimming to the gentle rumble of the filter bubbles"
+    channeltitle "Jefferson Hernandez"
+    channelid "UC1Yddwi-2kmTb0ICarjaMUw"
     favcount 0
-    viewcount 5
+    viewcount 4
     likecount 0
     commentcount 0
-    duration "PT2M24S"
+    duration "PT19M33S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 230
-    label "Uaf7JiwbwlI"
+    id 98
+    name "229"
+    label "DQwfuZqCc9w"
     step 0
-    date "2018-02-15T19:55:43Z"
-    title "Hettinger Lecture - Fake News and Filter Bubbles Amelia Koford"
-    description "Real or Fake? How do we best determine what is real and what is not across today's media landscape?"
-    channeltitle "Texas Lutheran University"
-    channelid "UCFmGY_va_avYXROkHspFNZQ"
+    date "2016-02-19T23:34:17Z"
+    title "arp 2500 - 1045 module - filter bubbles"
+    description "A third video of the 1045 module which is the ARP 2500's single voice.&#10;The filter cutoff is being modulated with a 1023 VCO which I'm using as a LFO.&#10; I'm also using an envelope and some random voltages to modulate the LFO speed.&#10;&#10;http://djjondent.blogspot.com.au/2016/02/arp-2500-filter-bubbles.html"
+    channeltitle "DJjondent"
+    channelid "UCQl1kdSkkq15KJPQsBmbXVw"
     favcount 0
-    viewcount 415
-    likecount 4
-    commentcount 2
-    duration "PT12M30S"
+    viewcount 1117
+    likecount 18
+    commentcount 0
+    duration "PT2M5S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 233
-    label "vsRZ5tRs9Qw"
+    id 99
+    name "231"
+    label "mdqBC2W-Akw"
     step 0
-    date "2015-07-15T04:04:26Z"
-    title "Fluval 406 Canister Bubbles Issue"
-    description "I have a 6 month old Fluval 406 that's spewing tones of micro bubbles, and I can't figure it out. Any help would be awesome. Thanks!&#10;&#10;FIXED! See here https://youtu.be/QIezAtMl85g"
-    channeltitle "Aquatic Logic"
-    channelid "UCPZzN4hPiPk7PLa2KL_FNjw"
+    date "2019-12-03T00:46:22Z"
+    title "Filter Bubbles: An algorithmic evil"
+    description "DIY 3"
+    channeltitle "Kendra Kalish"
+    channelid "UCEn8JzF7VCMlqTXKELthN5g"
     favcount 0
-    viewcount 20423
-    likecount 79
-    commentcount 53
-    duration "PT1M34S"
-    indegree 1
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 235
-    label "prwPLXrGwrs"
-    step 0
-    date "2019-12-04T03:45:28Z"
-    title "Fluval HOB Filter Bubbles  Noise part 2"
-    description "Part 2 of the Fluval Shop Vac Method"
-    channeltitle "Dr Durso"
-    channelid "UCHQ1gGZ5qsLMs9PVA9GvX3g"
-    favcount 0
-    viewcount 137
+    viewcount 11
     likecount 0
     commentcount 0
-    duration "PT1M3S"
+    duration "PT3M57S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 236
+    id 100
+    name "234"
+    label "vvjbnVgO5rY"
+    step 0
+    date "2018-03-12T12:36:19Z"
+    title "The effects of filter bubbles and can we pop them?"
+    description "-- Created using PowToon -- Free sign up at http://www.powtoon.com/youtube/ -- Create animated videos and animated presentations for free.  PowToon is a free tool that allows you to develop cool animated clips and animated presentations for your website, office meeting, sales pitch, nonprofit fundraiser, product launch, video resume, or anything else you could use an animated explainer video. PowToon's animation templates help you create animated presentations and animated explainer videos from scratch.  Anyone can produce awesome animations quickly with PowToon, without the cost or hassle other professional animation services require."
+    channeltitle "Will Jones"
+    channelid "UCXc4P0QIbv-FvMXWdlzUcWg"
+    favcount 0
+    viewcount 19
+    likecount 0
+    commentcount 0
+    duration "PT1M22S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 101
+    name "236"
     label "jRA4HB8R0jo"
     step 0
     date "2021-02-01T08:42:51Z"
@@ -1957,12 +3050,23 @@ graph
     commentcount 0
     duration "PT2H52M36S"
     indegree 1
-    sentiment 1
-    cluster 3
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 237
+    id 102
+    name "237"
     label "I_xT6I2mO8c"
     step 0
     date "2016-09-21T08:05:45Z"
@@ -1976,31 +3080,53 @@ graph
     commentcount 15
     duration "PT1M36S"
     indegree 7
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 103
+    name "238"
+    label "Qmuwldw9U3w"
+    step 0
+    date "2021-02-24T12:40:21Z"
+    title "Girlfriend Tutorial Filter: Bubbles"
+    description "last one :/&#10;&#10;do not own friday night funkin"
+    channeltitle "JustMeSamurai"
+    channelid "UC-qRVd5eLkfyNISvktMd5_Q"
+    favcount 0
+    viewcount 11
+    likecount 4
+    commentcount 1
+    duration "PT1M3S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 240
-    label "1THFbPbr6iI"
-    step 0
-    date "2021-03-04T05:43:14Z"
-    title "How to fix Air leaks in Pool Pump: fix Air Bubbles in Pool Pump: Pool Pump not priming"
-    description "Air leaks and Bubbles in pool pump. Four big reasons Pool Pumps start Sucking Air. We go over why there is Air Bubbles in your Pool Pump and the Most common Air leaks in your Swimming Pool Pump Suction side. Then explain how to fix them. Pool Pump not Priming then Fix the Air Leaks in your Pool Pump and it will prime and run like a dream! Included in video are  Swimming Pool Pump Lid Gasket replacement or lid o-ring. Swimming Pool Pump Suction side plumbing fix. Pool union replacement and pool winterizing plug or pool line access plug replacement. fix that air leak in your pool in five minutes&#10;&#10;Product links:&#10;&#10;Blue Monster Teflon tape for Threaded pipe fittings&#10;https://amzn.to/3iTtK0Z"
-    channeltitle "Pool elementary"
-    channelid "UC5UrTUwG5N4EC6YXt8u7-OQ"
-    favcount 0
-    viewcount 23702
-    likecount 183
-    commentcount 23
-    duration "PT9M19S"
-    indegree 11
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 241
+    id 104
+    name "241"
     label "QEKluFseGe0"
     step 0
     date "2018-04-11T02:00:00Z"
@@ -2014,88 +3140,143 @@ graph
     commentcount 480
     duration "PT4M16S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 245
-    label "czcs4nMcqZ8"
+    id 105
+    name "242"
+    label "8AR-qF3nu5g"
     step 0
-    date "2020-06-03T06:22:12Z"
-    title "WIN 20200603 13 53 21 Pro Filter Bubbles are not a threat"
-    description "this video seeks to assure us that FilterBubbles are no longer a threat"
-    channeltitle "Margaret hamilton"
-    channelid "UCbR3uqKSU4yUG68GyAqQnFw"
+    date "2017-05-28T15:58:54Z"
+    title "Male Molly Playing in Filter Bubbles After Feeding"
+    description "Marineland 30 Gallon Halfmoon Aquarium with Male Molly Playing in Filter Bubbles. Seems to happen everyday after feeding."
+    channeltitle "theclearwaterdiver"
+    channelid "UC9Md1Wo1ENa3DWFcVOfciUg"
     favcount 0
-    viewcount 5
+    viewcount 26
     likecount 0
-    commentcount 1
-    duration "PT14M21S"
-    indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 247
-    label "lC1rczQK1IQ"
-    step 0
-    date "2020-12-10T01:51:38Z"
-    title "Pool Basics: Why are there Air Bubbles in my Pool?"
-    description "I briefly describe the 3 MAIN REASONS why air bubbles come out of your pool returns and HOW TO FIX THEM."
-    channeltitle "True Light Pools, LLC"
-    channelid "UCigVrvs83E1zvzQbUgmIZPg"
-    favcount 0
-    viewcount 1579
-    likecount 12
     commentcount 0
-    duration "PT2M"
-    indegree 1
-    sentiment 1
-    cluster 7
+    duration "PT57S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 249
-    label "PICTJbUaesA"
+    id 106
+    name "246"
+    label "Aiv6HK-hGLQ"
     step 0
-    date "2014-01-06T16:41:01Z"
-    title "Trouble shooting Air bubbles in the pool"
-    description "If your pool pump is having trouble priming or you're getting air bubbles coming through your returns then this video is for you.  We will go step by step in trouble shooting all the problem areas where air can leak into the system on the above ground plumbing and show you some simple ways to stop the leaks. While there's no substitute for the true fix of correct plumbing methods and protection from the sun, these tricks will get you by until it's time to redo the plumbing.&#10;&#10;&#10;Swimming Pool Science is a full service Pool, spa, and fountain repair and maintenance company located in Phoenix, Arizona 85018, 85016 . Locally we provide weekly pool maintenance both residential and commercial, pool repairs including Filter cleans, pump installs, filter installs, heater installs, automation system installs, variable speed pump installs and programming, acid washes, filter cleanings, sand changes, green pool turnarounds, and Pool 101 classes for homeowners. Nationally and internationally we provide phone consults, video chat consults, and pool 101 classes and Pool advice. &#10;&#10;Like us on Facebook at: https://www.facebook.com/SwimmingPoolScience/&#10;&#10;Subscribe to us on YouTube at: https://www.youtube.com/user/SwimmingPoolAZ&#10;&#10;Instagram: @swimmingpoolscience&#10;&#10;To schedule a pool 101 or phone consult, you can call or text us. Our phone number and email can be found at: www.swimmingpoolscience.com &#10;&#10;Media requests, stock footage, video licensing, and other inquiries, please contact us at swimmingpoolscience@hotmail.com&#10;&#10;ALL RIGHTS RESERVED. Any unauthorized use of this video or screenshots of this video is prohibited by copyright"
-    channeltitle "Swimming Pool Science"
-    channelid "UCyvXeLc-7pi36y7KfV-NVQQ"
+    date "2022-06-22T21:10:13Z"
+    title "Arca  June 3rd 2020"
+    description "some thoughts on pride &#38; filter bubbles // esp: porq nunca escucho la palabra en espa&#241;ol:&#10;&#34;La interseccionalidad es un enfoque que subraya que el g&#233;nero, la etnia, la clase u orientaci&#243;n sexual, como otras categor&#237;as sociales, lejos de ser &#8220;naturales&#8221; o &#8220;biol&#243;gicas&#8221;, son construidas y est&#225;n interrelacionadas.&#8203; Es el estudio de las identidades sociales solapadas o intersecadas y sus respectivos sistemas de opresi&#243;n, dominaci&#243;n o discriminaci&#243;n. La teor&#237;a sugiere y examina c&#243;mo varias categor&#237;as biol&#243;gicas, sociales y culturales como el g&#233;nero, la etnia, la clase, la discapacidad, la orientaci&#243;n sexual, la religi&#243;n, la casta, la edad, la nacionalidad y otros ejes de identidad interaccionan en m&#250;ltiples y a menudo simult&#225;neos niveles. La teor&#237;a propone que se debe pensar en cada elemento o rasgo de una persona como unido de manera inextricable con todos los dem&#225;s elementos, para poder comprender de forma completa la propia identidad. Este marco puede usarse para comprender c&#243;mo ocurre la injusticia sistem&#225;tica y la desigualdad social desde una base multidimensional.&#8203; El t&#233;rmino fue introducido formalmente en las ciencias sociales por la jurista afroamericana Kimberl&#233; Crenshaw en 1989 y permite ver la interacci&#243;n e intersecci&#243;n de los distintos sistemas de opresi&#243;n y sus consecuencias para los derechos humanos de las mujeres. La interseccionalidad es un enfoque que subraya que el g&#233;nero, la etnia, la clase u orientaci&#243;n sexual, como otras categor&#237;as sociales, lejos de ser &#8220;naturales&#8221; o &#8220;biol&#243;gicas&#8221;, son construidas y est&#225;n interrelacionadas.&#8203; Es el estudio de las identidades sociales solapadas o intersecadas y sus respectivos sistemas de opresi&#243;n, dominaci&#243;n o discriminaci&#243;n. La teor&#237;a sugiere y examina c&#243;mo varias categor&#237;as biol&#243;gicas, sociales y culturales como el g&#233;nero, la etnia, la clase, la discapacidad, la orientaci&#243;n sexual, la religi&#243;n, la casta, la edad, la nacionalidad y otros ejes de identidad interaccionan en m&#250;ltiples y a menudo simult&#225;neos niveles. La teor&#237;a propone que se debe pensar en cada elemento o rasgo de una persona como unido de manera inextricable con todos los dem&#225;s elementos, para poder comprender de forma completa la propia identidad.&#34;"
+    channeltitle "RippedSlit"
+    channelid "UC7KhEDFA4R8cDfRP4QZOsZg"
     favcount 0
-    viewcount 191379
-    likecount 663
-    commentcount 46
-    duration "PT6M41S"
-    indegree 9
-    sentiment 1
-    cluster 7
+    viewcount 566
+    likecount 59
+    commentcount 4
+    duration "PT17M3S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 251
-    label "Sil4e-8zuV0"
+    id 107
+    name "248"
+    label "Yj_WgleJq3w"
     step 0
-    date "2020-04-22T15:41:17Z"
-    title "No Bubbles from aquarium air pump? | Learn to fix it | Indian aquarium air pump l Easy tips"
-    description "This video will explain how to fix aquarium air bubble issue. Basically you need to clean the the filter sponge properly and still if it&#8217;s not working then you need to clean circular magnetic fan in the motor &#38; after that your filter will release bubbles for 100% . Please do watch full video for proper understanding and do like &#38; subscribe my channel &#128591;&#128522; #aquariumfilterairbubblesnotmaking #filterairbubbles #indianaquaboy03"
-    channeltitle "Indian Aqua Boy03"
-    channelid "UC4Gzv-xTqVmB6jUkDGUNfZQ"
+    date "2018-11-04T18:07:38Z"
+    title "Any idea why I have so many bubbles in the fuel filter?"
+    description ""
+    channeltitle "Patrick Sheridan"
+    channelid "UCjQWrp_yaTdICuA6vN_SNJQ"
     favcount 0
-    viewcount 30262
-    likecount 396
-    commentcount 76
-    duration "PT5M4S"
-    indegree 3
-    sentiment 1
+    viewcount 495
+    likecount 1
+    commentcount 1
+    duration "PT31S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 252
+    id 108
+    name "250"
+    label "ztjs1xhi-eY"
+    step 0
+    date "2015-01-11T20:30:20Z"
+    title "Fuel filter bubbles"
+    description ""
+    channeltitle "gazz90"
+    channelid "UCVHRC7cM_t5AvuJmLQEBX8g"
+    favcount 0
+    viewcount 126
+    likecount 0
+    commentcount 0
+    duration "PT42S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
+  ]
+  node
+  [
+    id 109
+    name "252"
     label "DR--PunkXzo"
     step 0
     date "2022-04-11T18:55:34Z"
@@ -2109,50 +3290,83 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 110
+    name "253"
+    label "JiPCYj9Tz8k"
+    step 0
+    date "2021-07-19T17:38:23Z"
+    title "Bubbles in filter"
+    description ""
+    channeltitle "S M"
+    channelid "UCF0papWkvQ6NTMrgzHPY9UQ"
+    favcount 0
+    viewcount 19
+    likecount 0
+    commentcount 0
+    duration "PT31S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 254
-    label "PT88JcRVGhk"
+    id 111
+    name "255"
+    label "K7BtmMWB6WI"
     step 0
-    date "2022-05-30T09:37:10Z"
-    title "Filter Bubbles | How to get out from them #shorts"
-    description "Hello stranger&#128075; &#10;Smile Please &#9786;&#10;In this video, we tried to explain what are filter bubbles and how you can get out from it.&#10;&#10;Eli Pariser (Activist and Entrepreneur), the person who gave the term &#34;Filter Bubble&#34; consider them the biggest threat to humanity.&#10;&#10;Filter buubles are an intellectual isolation that can occur when websites make use of algorithms to selectively assume the information a user would want to see, and then give information to the user according to this assumption&#10;&#10;As a result we become separated from information that disagrees with our viewpoints, effectively isolating us in our own cultural and ideological bubbles.&#10;&#10;----------------------------------------------------------------------------&#10;Resources &#128071;&#10;&#10;~Ted Talk 1-https://youtu.be/B8ofWFx525s&#10;&#10;~Ted Talk 2-https://youtu.be/4w48Ip-KPRs&#10;&#10;~Techopedia-https://www.techopedia.com/definition/28556/filter-bubble&#10;&#10;~Medium-https://medium.com/@heidigilbert_98098/intellectually-isolated-d5cca210cc3a&#10;&#10;~NBC News-https://www.nbcnews.com/better/lifestyle/problem-social-media-reinforcement-bubbles-what-you-can-do-about-ncna1063896&#10;&#10;----------------------------------------------------------------------------------------&#10;&#10;On this channel, you will find content about the practical ways that can help bring changes in our world &#127758;&#10;&#10;&#10;Become part of our community by subscribing - https://youtube.com/channel/UCArmpQM7x4sinAC4wmjWRSw&#10;&#10;&#10;Thank you for watching &#9829;&#10;&#10;&#10;--------------------------------------------------------------&#10;Tags (Nevermind &#128521;)&#10;&#10;#Filterbubbles&#10;#Socialmedia&#10;#Filter&#10;#Bubble&#10;#Advantages&#10;#Disadvantages&#10;#NotANormie&#10;#social&#10;#media&#10;__________________________&#10;&#10;Disclaimer&#10;Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
-    channeltitle "Not A Normie"
-    channelid "UCArmpQM7x4sinAC4wmjWRSw"
+    date "2020-02-19T08:01:09Z"
+    title "Vincent F. Hendricks - Filter bubbles, sustainability and the model of a liberal democracy"
+    description "Tv Drama Vision 2020 - G&#246;teborg Film Festival&#10;Opening speaker: Vincent F. Hendricks&#10;&#10;We are delighted to present this year&#8217;s opening speaker: Vincent F. Hendricks, Professor of formal philosophy at Copenhagen University and the Director of the Center for Information and Bubble Studies.&#8239;Vincent will open TV Drama Vision with a speech focusing on filter bubbles, sustainability and the model of a liberal democracy. Presented in collaboration with Copenhagen Film Fund.&#10;&#10;Filming and Editing: Josef G&#246;therskj&#246;ld&#10;&#10;Produced for K-PLAY by Kulturakademin"
+    channeltitle "KULTURAKADEMIN K-PLAY"
+    channelid "UCy0HB84UQmO6I3WTP9Flo2Q"
     favcount 0
-    viewcount 59
-    likecount 8
-    commentcount 2
-    duration "PT51S"
+    viewcount 175
+    likecount 10
+    commentcount 0
+    duration "PT18M51S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 260
-    label "PjADHwOLWlA"
-    step 0
-    date "2020-06-02T14:35:23Z"
-    title "No Bubbles from aquarium air pump? | Learn to fix it | Indian aquarium air filter l Easy tips"
-    description "Part -2 This video will explain how to fix aquarium air bubble issue. Basically you need to clean the the filter sponge properly and still if it&#8217;s not working then you need to clean circular magnetic fan in the motor &#38; after that your filter will release bubbles for 100% . Please do watch full video for proper understanding and do like &#38; subscribe my channel &#128591;&#128522; #aquariumfilterairbubblesnotmaking #Filterairbubbles #indianaquaboy03"
-    channeltitle "Indian Aqua Boy03"
-    channelid "UC4Gzv-xTqVmB6jUkDGUNfZQ"
-    favcount 0
-    viewcount 4433
-    likecount 118
-    commentcount 35
-    duration "PT4M19S"
-    indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 261
+    id 112
+    name "261"
     label "VUMJdNyQM5o"
     step 0
     date "2009-04-30T13:18:05Z"
@@ -2166,12 +3380,23 @@ graph
     commentcount 363
     duration "PT7M55S"
     indegree 19
-    sentiment 1
-    cluster 7
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 262
+    id 113
+    name "262"
     label "iFTAuo6c468"
     step 0
     date "2018-12-07T14:29:20Z"
@@ -2185,88 +3410,143 @@ graph
     commentcount 3
     duration "PT7M26S"
     indegree 0
-    sentiment 1
-    cluster 1
-  ]
-  node
-  [
-    id 267
-    label "yp81ZQ7VHZU"
-    step 0
-    date "2016-09-22T19:22:07Z"
-    title "Why Are There Air Bubbles In My Pool or Pool Pump"
-    description "Possible causes of air bubbles in pool pump or in the pool. The most common question why is there air in my pump or getting back into my pool. On the pump in the sight glass it should be totally clear without any air if not you know that there's a problem. First thing you want to check is the skimmer you can see the water is too low on the skimmer it should be between those two screws (about halfway up the faceplate) and it's right at the bottom of that one so it's barely getting enough water in the skimmer. The air we were talking about in this pool is right here from the return you can see there's air stream coming out here and there's bubbles on the surface. So let's go find out what the problem is here. From the skimmer these pipes come out of the ground to any of these connections that could be leaking, there is an o-ring in this valve that could be cracked so you need to take it apart and check that. Other connections, from the bottom drain that can also be pulling air, the threaded connection on the front of the pump that could be leaking just from movement, from people stepping on stuff for moving the pump around to get in places. The other thing you want to check if there's an o-ring on this winterizing plug, this part of the pump is under suction so if this o-ring is missing or cracked it'll definitely be pulling an air. Same thing here there is a black o-ring and it goes all the way around this lid. Turn the pump off pull this lid off and check the o-ring if it's missing or if it's you stretched or cracked then it will need to be replaced. One of the things you will see is scaling build up, that's how you know the pump was leaking but that's not the problem with the pump pulling air but you can tell the pump is on its last legs.&#10;&#10;UV Pools&#10;4304 Henderson Hwy Narol, MB R1C 0A1&#10;(204) 414-1200&#10;http://www.uvpools.com/&#10;&#10;We are located just outside the Winnipeg city limits."
-    channeltitle "UV Pools"
-    channelid "UCxXCLNkqRi48ML6-O1LX_Fw"
-    favcount 0
-    viewcount 35049
-    likecount 51
-    commentcount 2
-    duration "PT2M26S"
-    indegree 7
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 272
-    label "w1XjanyC-bA"
-    step 0
-    date "2015-11-07T03:17:45Z"
-    title "How to Get Rid of Micro-Bubbles in Freshwater Aquarium | African Cichlid Tank | Planted Tank"
-    description "Microbubbles are truly tiny, tiny bubbles, pinhead-size and smaller -- microscopic. Many types of aquarium equipment can generate microbubbles but, paradoxically, they can interfere with many other types of aquarium equipment. You can prevent or mitigate microbubbles a handful of ways.&#10;&#10;Microbubbles&#10;Many types of aquarium equipment can generate microbubbles, including water pumps, spray bars and power heads. In fact, some aquarium equipment intentionally creates them. For example, without microbubbles, protein skimmers could not purify aquarium water. Unfortunately, microbubbles tend to collect in aquarium plumbing, merging to form bigger and bigger bubbles that block the plumbing, causing floods and other aquarium disasters.&#10;&#10;Screens&#10;You can build special screens to prevent microbubbles. Screens usually consist of filter floss or sponges. Positioning them in front of inlets and plumbing vulnerable to forming bubbles can reduce microbubbles. As a bonus, these screens can help collect debris. This is also the downside to screens: If they collect enough debris, screens can clog, blocking the plumbing and causing the problem they were meant to prevent. If you use this method, you need to check your screens daily to weekly, depending on how much debris is present in your aquarium.&#10;&#10;Baffles&#10;Baffles are just little mazes that microbubbles have to navigate as they propel upward. Baffles guide bubbles away from sensitive equipment and plumbing. Unlike screens, they cannot be blocked by debris. However, baffles require implementation from the very start of setting up your aquarium. It is next to impossible to install baffles on a running aquarium. Additionally, they may require wide sumps to accommodate them.&#10;&#10;Float Switch&#10;A float switch does not prevent microbubbles but can prevent the serious flooding they cause. A float switch consists of a float attached to two contacts. You can wire a float switch so that the sump's return pump shuts off if the main aquarium's water level rises too high. This way, if microbubbles break your siphon, the return pump shuts off instead of continuing to pump.&#10;&#10;My 90 Gallon Lake Malawi African Cichlid Aquarium:&#10;&#10;Stock List&#10;___________________________________________________&#10;Synodontis Multipunctatus Catfish Hypostomus plecostomus / Common Pleco&#10;Protomelas taeniolatus / Red Empress&#10;Protomelas spilonotus / Mara Rocks &#10;Nimbochromis Venustus / Giraffe Cichlid&#10;Cyrtocara Moori / Blue Dolphin Cichlid&#10;Placidochromis Milomo / VC 10 Cichlid&#10;Protomelas sp. &#34; Steveni Taiwan &#34;  / Taiwan Reef&#10;Tramitichromis sp. &#34;Intermedius&#34; / Green Face&#10;Dimidiochromis Compressiceps / Malawi Eye Biter&#10;Lethrinops sp. Red Cap / Red Top Lethrinops Haplochromis xystichromis Phytophagus / Christmas Fulu&#10;Chilotilapia Rhoadesii / Rhoadesii&#10;Placidochromis sp. &#34; Phenochilus Tanzania &#34; / Star Sapphire Cichlid&#10;Placidochromis Phenochilus Mdoka White Lips / White Lips Pheno&#10;Otopharynx Lithobates &#34; Zimbawe Rock &#34;  / Z Rock&#10;OB Peacock Cichlid / Hybrid / Orange Blotch &#10;Aulonocara Kandeense / Blue Orchid Cichlid&#10;Fossorochromis Rostratus / Malawi Sand Diver&#10;Nototaenia Buccochromis / Stripe Back Hap&#10;Sciaenochromis Ahli Electric Blue / Iceberg Hap&#10;___________________________________________________&#10;Filtration:&#10;Sun Sun 525 Canister Filter / Aqua Top&#10;Fluval 305 Canister Filter&#10;___________________________________________________&#10;Media: &#10;Ploy Fill&#10;Seachem Matrix&#10;Seachem Denitrate&#10;Seachem Purigen&#10;Biochem Zorb&#10;Boyd Enterprises Chemi Pure Blue&#10;Coarse Media Pads&#10;Fine Media Pads&#10;___________________________________________________&#10;Lighting System:&#10;2 Fluval Ecobright 48 inch&#10;___________________________________________________&#10;Aquascape / Rockscape:&#10;75 pounds Moss Boulders&#10;50 pounds Pool Filter Sand / Silica Sand&#10;Universal Rocks Custom 3D Background&#10;___________________________________________________&#10;Surface Agitation:&#10;Aqueon 950 Wave Maker&#10;___________________________________________________"
-    channeltitle "IFG"
-    channelid "UCdoTLGNr42oONz4RLzilBKA"
-    favcount 0
-    viewcount 118162
-    likecount 396
-    commentcount 47
-    duration "PT2M15S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 275
-    label "7y3kpad7oxQ"
+    id 114
+    name "263"
+    label "WQDFlKMwG2g"
     step 0
-    date "2020-08-07T10:50:36Z"
-    title "Why is my filter not making bubbles?"
-    description "Oscar Fish Air Pump &#8226; Why is my filter not making bubbles?&#10;&#10;&#10;----------&#10;&#10;Our mission is informing people correctly. This video was also made on the basis of these guidelines. In order to fully present the topic, it may be necessary in some cases to include details that may be objectionable to some."
-    channeltitle "Ask About MOVIES"
-    channelid "UCbuD8T_MRTDTeLBp-3yYeNQ"
+    date "2021-04-19T00:43:54Z"
+    title "The Bubbles in your Life/ Echo Chambers, Opinion Influencers, etc."
+    description "The Bubbles in your Life: Conspiracy Theories, Opinion Influencers, Path-Dependence, Metal Gear Solid 2, Echo Chambers, Filter Bubbles, Ideology, New Media, Network Culture, and so on and so on. &#10;&#10;Support this channel on https://www.patreon.com/7minscifi&#10;&#10;For the text version with citations, see https://7minscifi.substack.com/p/the-bubbles-of-your-life-conspiracy&#10;&#10;Chapters:&#10;0:00 Introduction&#10;3:15 Echo Chambers&#10;8:29 Conspiracy Thinking&#10;11:54 Filter Bubbles&#10;16:48 The Individual Angle: Simplification&#10;22:21 The Social Angle: Relating&#10;30:22 The Historical Angle: Path-Dependence&#10;37:20 Conclusion&#10;40:24 Thanking Patreon patrons"
+    channeltitle "7minscifi &#19971;&#20998;&#31185;&#24187;"
+    channelid "UCw4obleECqFJGaxBLP36hdA"
     favcount 0
-    viewcount 1567
-    likecount 3
-    commentcount 2
-    duration "PT55S"
+    viewcount 5438
+    likecount 482
+    commentcount 67
+    duration "PT40M57S"
     indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 279
-    label "fv7WZ0VveWc"
-    step 0
-    date "2019-11-04T01:53:07Z"
-    title "AS! (FILTER BUBBLES)"
-    description "Te diremos algo espeluznante, digno de ponerte tu mejor casco de papel aluminio, pero por favor no grites, &#191;ok? Los dispositivos con Internet nos escuchan. &#161;Pero que no cunda el p&#225;nico! Ac&#225; est&#225; el Capit&#225;n Paprika para salvar el d&#237;a y contarte todo al respecto.&#10;&#10;Durante el episodio mencionamos dos Ted Talks, interesantes y bases para el desarrollo del tema: &#10;&#10;(&#34;Filter Bubbles&#34;: se acu&#241;a por primera vez el t&#233;rmino)&#10;https://www.youtube.com/watch?v=B8ofWFx525s&#10;&#10;(Big data: se plantea el desarrollo de softwares que pueden pronosticar epidemias y desastres naturales)&#10;https://www.youtube.com/watch?v=gAifa_CVGCY"
-    channeltitle "Capit&#225;n Paprika"
-    channelid "UCh67ZvPw0rHOKY5YnBK2ZKg"
-    favcount 0
-    viewcount 35
-    likecount 8
-    commentcount 2
-    duration "PT21M25S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 280
+    id 115
+    name "268"
+    label "XBD8UcQCRTo"
+    step 0
+    date "2019-12-18T23:44:10Z"
+    title "German Nerd talks about Star Wars 9 and its Different Filter Bubbles"
+    description "#episode9 #starwars &#10;example movie of recent overcompensating:&#10;Der unverhoffte Charme des Geldes (2018)&#10;La chute de l'empire am&#233;ricain (original title)&#10;&#10;to understand what im talking about when i say 'influencer'&#10;https://youtu.be/Ex_hcVESsMg&#10;to understand the deeper problem with that development&#10;https://youtu.be/rLAkaFeKyUw&#10;and if u feel offended by some random opinion in the interwebs&#10;https://youtu.be/W2nc0r0c5CE&#10;then u will probably feel the need to defend yourself against this opinion&#10;https://youtu.be/Hjaf0b5FLnI&#10;&#10;and btw,... just in case if u dont know whats wrong with society&#10;https://youtu.be/IOu2SYoD6ek&#10;&#10;__________________________________________&#10;&#10;morflink, a (bad english speaking) german physicist, gamer, nerd and&#10;&#10;hobby -philosopher, -movie critic, -metal head, -intellectual, -geostrategic expert, -marxist, -scifi veteran, -politic enthusiast, -anarchist, -mathematician, &#10;&#10;&#10;&#10;and father.&#10;&#10;talking about his potential polarizing opinions. encourages discussion and wants to share his thoughts cuz of his narcissism to spread the word out.&#10;&#10;__________________________________________"
+    channeltitle "MorfHasGotAnOpinion"
+    channelid "UC1QugCUMNx9Jw2PQgnEne_A"
+    favcount 0
+    viewcount 124
+    likecount 2
+    commentcount 0
+    duration "PT21M22S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
+  ]
+  node
+  [
+    id 116
+    name "273"
+    label "dWx8S6PMaho"
+    step 0
+    date "2022-02-21T11:03:03Z"
+    title "The Shrimp Bubbles: NEW Shrimp Setup for Neocaridina Aquascape Tutorial"
+    description "&#128071;&#128071;MD MERCH CLICK HERE&#128071;&#128071;: &#10;THICC CORY: https://md-fish-tanks.creator-spring.com/listing/md-thicc-cory&#10;FULL SHOP: https://md-fish-tanks.creator-spring.com&#10;&#10;The shrimp collection continues with this little nano tank for my Rili Neocaridina shrimp. I saw these bubbles on amazon and thought they looked cool and I'm so glad I got them because I love the final look of the the tank. Hope you like it too and is something you are interested in giving a go :)&#10;&#10;Equipment (all links affiliate):&#10;LARGE GLASS BUBBLES: US https://amzn.to/3p26GQH  UK https://amzn.to/3p3vcAF&#10;SMALL BUBBLES: US https://amzn.to/3JEHqaX  UK https://amzn.to/3v4zTy0&#10;AQUA SOIL: US https://amzn.to/3vnxUoX  UK https://amzn.to/3I9fZ8M&#10;NANO FILTER: US https://amzn.to/3JK55aa  UK https://amzn.to/3sTjwBQ&#10;NANO TANK: US https://amzn.to/3uYRxmW  UK https://amzn.to/3sXCAyK&#10;STRIP LIGHT IN VIDEO: US https://amzn.to/3sRFiWt  UK https://amzn.to/3H48aQA&#10;FEEDING TUBE: US https://amzn.to/3HaXvnc  UK https://amzn.to/3LSHENo&#10;MINERAL ROCK: US https://amzn.to/35dWc9G  UK https://amzn.to/3h5ZFKa&#10;CATAPPA LEAVES: US https://amzn.to/35jAJfH  UK https://amzn.to/3v3sAGZ&#10;CATAPPA BARK: US https://amzn.to/3BDjCkQ  UK https://amzn.to/3JGXZTC&#10;ALDER CONES: US https://amzn.to/36lfzOy  UK https://amzn.to/3HcX8IC&#10;MOSS BALLS: US https://amzn.to/3s6nbwY  UK https://amzn.to/3534gu2&#10;COCONUT HIDE: US https://amzn.to/3s7pgbS  UK https://amzn.to/3H5CZEl&#10;&#10;LED FLOODLIGHTS:   US  https://amzn.to/3m3cEz9  UK   https://amzn.to/3orIdRv&#10;GOOD BUDGET LIGHT:: US https://amzn.to/2MDfjk1   UK https://amzn.to/3iYlfQQ&#10;SMALL HANG ON BACK FILTER:  US https://amzn.to/2Mw63OO  UK https://amzn.to/39rx3b5&#10;NANO INTERNAL FILTER: US https://amzn.to/3oxGBWm   UK&#10;CANISTER FILTER: US https://amzn.to/3iNeVtW   UK https://amzn.to/2Fo774a&#10;GOOSENECK CLIP ON LAMP: (similar as product is now discontinued) US    https://amzn.to/2IlwLVA UK https://amzn.to/2LNat13&#10;MINI WATER PUMP: US  https://amzn.to/2oAmf5y   UK  https://amzn.to/2mjHDez&#10;TANKS: US https://amzn.to/2SOocHG  UK https://amzn.to/2SPA24i&#10;STRIP LED LIGHT: US (similar)  https://amzn.to/2SNgbm7  UK https://amzn.to/2Fn9aW1&#10;ASTA LED LIGHT: US https://amzn.to/3k9EmpY    UK https://amzn.to/3p5XUPY&#10;AQUARIUM RACKING: Shelving:  US https://amzn.to/2SrYZ5k UK https://amzn.to/2GFWKJ2&#10;AIRPUMP (FILTER SYSTEM): US https://amzn.to/31z8FA9 UK https://amzn.to/37GIoUa&#10;FILTER SPONGES: US https://amzn.to/3dQLUfM UK https://amzn.to/3dS2k7K&#10;MEDIA BAGS: US https://amzn.to/34Kaf2N   UK  https://amzn.to/3lAj3z1&#10;STAINLESS LILY PIPES: US https://amzn.to/2FqHpvR  UK https://amzn.to/2RlfrnC&#10;BOWL AQUARIUMS:   US   https://amzn.to/2M4FwFO  UK: https://amzn.to/2Vx73CL&#10;&#10;API&#174; products&#10;Subscribe to API on YouTube: https://www.youtube.com/apifishcare&#10;USA consumers purchase API products on Amazon: https://www.amazon.com/stores/page/2193F555-CE5F-4A6B-BDC4-F315CB7F175D?channel=MDTanks&#10;UK consumers purchase API products on Amazon: https://www.amazon.co.uk/stores/page/25663644-6C8C-432C-9E6A-0A85082C3E3C&#10;&#10;AQUARIAN&#174; products&#10;Follow AQUARIAN on YouTube: https://www.youtube.com/channel/UCNxaNWKoWr_ztSgXgPj9r8A&#10;Purchase AQUARIAN products here: https://aquarian.co.uk/where-to-buy/&#10;&#10;AWESOME MEMBERSHIP COMMUNITY https://www.youtube.com/channel/UC3uQXzXSPspf2LoGdtYGiHw/join&#10;&#10;FOLLOW MY INSTAGRAM: https://www.instagram.com/md_fishtanks/&#10;&#10;FOR BUSINESS ENQUIRIES: admin@mdfishtanks.com"
+    channeltitle "MD Fish Tanks"
+    channelid "UC3uQXzXSPspf2LoGdtYGiHw"
+    favcount 0
+    viewcount 465456
+    likecount 11378
+    commentcount 587
+    duration "PT22M21S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 117
+    name "276"
+    label "k9_k2-zgUYU"
+    step 0
+    date "2017-03-30T08:10:17Z"
+    title "Filter Bubbles, Social Media, Digitalisierung | Bro-Talk #4"
+    description "Was ist Eure Meinung zu Filter Bubbles? Ab in die Kommentare damit! ^.^&#10;&#10;&#10047; Der Bro neben mir:&#10;https://www.youtube.com/channel/UChnS1Xc5RTgz6l_toV5SKJg&#10;&#10;&#10047; Ihr wollt mehr sehen?&#10;Facebook: https://www.facebook.com/mary.bright.eyes.hope&#10;Twitter: http://twitter.com/Brighteyes_Hope&#10;Instagram: http://www.instagram.com/brighteyes_hope&#10;Tumblr: http://bright-eyes-hope.tumblr.com/&#10;&#10;&#10047; Ihr wollt mich treffen?&#10;PSN: BrightEyesHope&#10;Steam: Brighteyes_Hope&#10;LoL (EuW): Brighteyes Hope&#10;Battle.net: Sturmfeder#2546&#10;Nintendo Network ID: AsToldByGinger"
+    channeltitle "Brighteyes Hope"
+    channelid "UC0l0y6S9w_-2_79hMU-brTw"
+    favcount 0
+    viewcount 100
+    likecount 5
+    commentcount 4
+    duration "PT45M32S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 118
+    name "280"
     label "oRBaSPhcvf8"
     step 0
     date "2014-01-22T21:38:01Z"
@@ -2280,12 +3560,23 @@ graph
     commentcount 30
     duration "PT1M15S"
     indegree 2
-    sentiment 1
-    cluster 6
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
   ]
   node
   [
-    id 281
+    id 119
+    name "281"
     label "Ne5Td8FmNFE"
     step 0
     date "2014-03-23T10:27:10Z"
@@ -2299,31 +3590,53 @@ graph
     commentcount 34
     duration "PT4M10S"
     indegree 5
-    sentiment 1
-    cluster 6
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 283
-    label "heJC1OTPGSk"
+    id 120
+    name "282"
+    label "-1NDcgow7dk"
     step 0
-    date "2016-07-05T15:30:49Z"
-    title "Air Bubbles Coming From Pool Returns"
-    description "From https://www.swimmingpoolsteve.com/pages/leak-detection.html - Air bubbles coming from your pool returns, unless you have an ozone injection system, means that you have a leak somewhere in your plumbing system.  Air can be drawn in through cracks as well as pipe fittings and this is a problem for your pool system.  You can try to bleed the air out of the system manually with your filter however the bubbles are likely to return unless you find the source.  A good idea would be to do a static water test to see if you lose the same amount of water over a 24 hour period when the pump is running versus when the pump is turned off.&#10;&#10;To see some of the most common ways that pool systems and pool equipment leak, and how to fix them, you can read this article by Steve:  http://www.swimmingpoolsteve.com/pages/plumbing-leaks.html&#10;&#10;#swimmingpoolsteve #poolleak #leakdetection"
-    channeltitle "Swimming Pool Steve"
-    channelid "UCbNBM6s09xhYD4i_mjnEoLA"
+    date "2022-02-27T12:00:00Z"
+    title "Blowing Bubbles | D Billions Kids Songs"
+    description "Lyrics:&#10;&#10;Hello Lya-Lya!&#10;Hi Chacha!&#10;What are you doing,&#10;What is this? &#10;I'm playing bubbles,&#10;Do you want to try it? &#10;Sure!!!&#10;&#10;Funny, funny bubbles.&#10;Magic, magic bubbles.&#10;Everyone likes bubbles.&#10;Ba-ba-ba bubbles!&#10;&#10;Hi guys!&#10;What are you doing? &#10;We are playing Bubbles!&#10;Do you want to try it? &#10; &#10;Funny, funny bubbles.&#10;Magic, magic bubbles.&#10;Everyone likes bubbles.&#10;Ba-ba-ba bubbles!&#10;&#10;Hi guys!&#10;What are you doing? &#10;We are playing Bubbles!&#10;Do you want to try it? &#10;No!&#10;&#10;Funny, funny bubbles.&#10;Magic, magic bubbles.&#10;Everyone likes bubbles.&#10;Ba-ba-ba bubbles!&#10;&#10;#DBillions&#10;Copyright AWA LLC 2022. All Rights Reserved"
+    channeltitle "D Billions"
+    channelid "UCi3onjs7UU2Z64i3RrVci-Q"
     favcount 0
-    viewcount 103440
-    likecount 1176
-    commentcount 24
-    duration "PT2M10S"
-    indegree 10
-    sentiment 1
-    cluster 7
+    viewcount 12579062
+    likecount 9861
+    commentcount -1
+    duration "PT1M34S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 284
+    id 121
+    name "284"
     label "ScBaxaRHAEg"
     step 0
     date "2008-09-26T17:04:17Z"
@@ -2337,202 +3650,323 @@ graph
     commentcount 5
     duration "PT1M1S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 289
-    label "bwezhsNXs9c"
+    id 122
+    name "285"
+    label "d815lZOeFNs"
     step 0
-    date "2021-08-08T16:59:31Z"
-    title "youtube bubbles filter #bubble #filter #short"
-    description ""
-    channeltitle "Anurag lyrics"
-    channelid "UCJokBQgrJ0TyF1QfQHxcmzQ"
+    date "2021-11-18T15:44:23Z"
+    title "How to make a  Filter | Beginner Spark AR Tutorial"
+    description "#SparkAR #SparkARStudio #facefilter&#10;&#10;This is a beginner-friendly Spark AR Studio tutorial. &#10;&#10;In this video, I have explained in detail how to create a simple &#34;Bubbles Underwater&#34; Instagram &#38; Facebook face filter using Spark AR Studio and publish it."
+    channeltitle "Anmol Jha"
+    channelid "UCvQFhnfe1QGnjlbcpN0FibA"
     favcount 0
-    viewcount 15
+    viewcount 231
+    likecount 9
+    commentcount 0
+    duration "PT11M"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 123
+    name "290"
+    label "Q8p9ciSAmlw"
+    step 0
+    date "2013-03-27T02:32:20Z"
+    title "Aquarium Filter Bubbles S100"
+    description "Previous video shot with Sanyo VPC-FH1A, this shot with Canon Powershot S100 in iFrame mode (25Mb/s)"
+    channeltitle "Quilia"
+    channelid "UC52R2OgOjGUAqyEJ8TXdERQ"
+    favcount 0
+    viewcount 224
     likecount 2
     commentcount 0
-    duration "PT12S"
+    duration "PT2M1S"
     indegree 0
-    sentiment 1
-    cluster 7
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 6
   ]
   node
   [
-    id 293
-    label "4Hot0n6_lfg"
+    id 124
+    name "294"
+    label "rD6qyO-H-kQ"
     step 0
-    date "2018-10-08T23:11:14Z"
-    title "Internet Filter Bubbles"
-    description "&#3335;&#3368;&#3405;&#3368;&#3398;&#3452;&#3368;&#3398;&#3377;&#3405; &#3337;&#3370;&#3375;&#3403;&#3351;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3381;&#3452; &#3333;&#3364;&#3405; &#3371;&#3399;&#3384;&#3405;&#8204;&#3372;&#3393;&#3349;&#3405;&#3349;&#3405; &#3334;&#3375;&#3390;&#3378;&#3393;&#3330;, &#3359;&#3405;&#3381;&#3391;&#3377;&#3405;&#3377;&#3398;&#3452; &#3334;&#3375;&#3390;&#3378;&#3393;&#3330;, &#3351;&#3394;&#3351;&#3391;&#3454; &#3384;&#3399;&#3452;&#3354;&#3405;&#3354;&#3405; &#3334;&#3375;&#3390;&#3378;&#3393;&#3330; , &#3375;&#3394;&#3359;&#3405;&#3375;&#3394;&#3372;&#3405; &#3334;&#3375;&#3390;&#3378;&#3393;&#3330; &#3382;&#3405;&#3376;&#3366;&#3405;&#3367;&#3391;&#3354;&#3405;&#3354;&#3391;&#3359;&#3405;&#3359;&#3393;&#3379;&#3405;&#3379; &#3349;&#3390;&#3376;&#3405;&#3375;&#3374;&#3390;&#3375;&#3391;&#3376;&#3391;&#3349;&#3405;&#3349;&#3393;&#3330; &#3368;&#3374;&#3393;&#3349;&#3405;&#3349;&#3405; &#3335;&#3383;&#3405;&#3359;&#3370;&#3398;&#3359;&#3393;&#3368;&#3405;&#3368; &#3333;&#3378;&#3405;&#3378;&#3398;&#3353;&#3405;&#3349;&#3391;&#3453; &#3364;&#3390;&#3378;&#3405;&#3370;&#3376;&#3405;&#3375;&#3330; &#3356;&#3368;&#3391;&#3370;&#3405;&#3370;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368; &#3370;&#3403;&#3384;&#3405;&#3377;&#3405;&#3377;&#3393;&#3349;&#3379;&#3393;&#3330; &#3381;&#3392;&#3361;&#3391;&#3375;&#3403;&#3349;&#3379;&#3393;&#3330; &#3334;&#3363;&#3405; &#3368;&#3374;&#3393;&#3349;&#3405;&#3349;&#3405; &#3381;&#3399;&#3363;&#3405;&#3359;&#3391; &#3335;&#3368;&#3405;&#3368;&#3398;&#3452;&#3368;&#3398;&#3377;&#3405; &#3349;&#3374;&#3405;&#3370;&#3368;&#3391;&#3349;&#3454; &#3342;&#3370;&#3405;&#3370;&#3403;&#3380;&#3393;&#3330; &#3374;&#3393;&#3368;&#3405;&#3368;&#3403;&#3359;&#3405;&#3359;&#3405; &#3381;&#3398;&#3349;&#3405;&#3349;&#3390;&#3377;&#3393;&#3379;&#3405;&#3379;&#3364;&#3405; . &#3335;&#3364;&#3405; &#3384;&#3390;&#3367;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3364;&#3405; &#3335;&#3364;&#3405;&#3364;&#3376;&#3330; &#3384;&#3452;&#3381;&#3392;&#3384;&#3393;&#3349;&#3379;&#3393;&#3359;&#3398; &#3370;&#3391;&#3368;&#3405;&#3368;&#3391;&#3453; &#3370;&#3405;&#3376;&#3381;&#3452;&#3364;&#3405;&#3364;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368; &#3333;&#3453;&#3351;&#3403;&#3376;&#3391;&#3364;&#3364;&#3405;&#3364;&#3391;&#3368;&#3405;&#3377;&#3398; &#3384;&#3385;&#3390;&#3375;&#3364;&#3405;&#3364;&#3390;&#3453; &#3334;&#3363;&#3405;.&#10;&#10;&#3368;&#3391;&#3353;&#3405;&#3353;&#3454; &#3343;&#3364;&#3398;&#3353;&#3405;&#3349;&#3391;&#3378;&#3393;&#3330; &#3381;&#3405;&#3375;&#3349;&#3405;&#3364;&#3391;&#3375;&#3393;&#3359;&#3398;&#3375;&#3403; &#3334;&#3382;&#3375;&#3364;&#3405;&#3364;&#3391;&#3368;&#3405;&#3377;&#3398;&#3375;&#3403; &#3370;&#3403;&#3384;&#3405;&#3377;&#3405;&#3377;&#3393;&#3349;&#3454; &#3349;&#3394;&#3359;&#3393;&#3364;&#3453; &#3364;&#3390;&#3378;&#3405;&#3370;&#3376;&#3405;&#3375;&#3330; &#3349;&#3390;&#3363;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368;&#3393;&#3363;&#3405;&#3359;&#3398;&#3353;&#3405;&#3349;&#3391;&#3453; &#3333;&#3381;&#3375;&#3398; &#3349;&#3393;&#3377;&#3391;&#3354;&#3405;&#3354;&#3405; &#3349;&#3394;&#3359;&#3393;&#3364;&#3453; &#3349;&#3390;&#3363;&#3391;&#3349;&#3405;&#3349;&#3390;&#3451; &#3336; &#3333;&#3453;&#3351;&#3403;&#3376;&#3391;&#3364;&#3330; &#3382;&#3405;&#3376;&#3366;&#3405;&#3367;&#3391;&#3349;&#3405;&#3349;&#3393;&#3330;. &#3384;&#3452;&#3381;&#3392;&#3384;&#3405; &#3337;&#3370;&#3375;&#3403;&#3351;&#3391;&#3349;&#3405;&#3349;&#3393;&#3368;&#3405;&#3368; &#3368;&#3374;&#3405;&#3374;&#3379;&#3398; &#3384;&#3330;&#3372;&#3368;&#3405;&#3367;&#3391;&#3354;&#3405;&#3354;&#3391;&#3359;&#3364;&#3405;&#3364;&#3403;&#3379;&#3330; &#3335;&#3364;&#3402;&#3376;&#3393; &#3368;&#3378;&#3405;&#3378; &#3349;&#3390;&#3376;&#3405;&#3375;&#3374;&#3390;&#3363;&#3405; . &#3364;&#3390;&#3364;&#3405;&#3370;&#3376;&#3405;&#3375;&#3374;&#3375;&#3391;&#3378;&#3405;&#3378;&#3390;&#3364;&#3405;&#3364; &#3349;&#3390;&#3376;&#3405;&#3375;&#3353;&#3405;&#3353;&#3379;&#3398; &#3349;&#3393;&#3377;&#3391;&#3354;&#3405;&#3354;&#3405; &#3349;&#3390;&#3363;&#3399;&#3363;&#3405;&#3359; &#3334;&#3381;&#3382;&#3405;&#3375;&#3374;&#3399;&#3375;&#3391;&#3378;&#3405;&#3378;. &#3333;&#3370;&#3405;&#3370;&#3393;&#3377;&#3364;&#3405;&#3364;&#3398; &#3381;&#3392;&#3359;&#3405;&#3359;&#3391;&#3378;&#3398; &#3354;&#3399;&#3359;&#3405;&#3359;&#3451; &#3333;&#3378;&#3405;&#3378;&#3398;&#3353;&#3405;&#3349;&#3391;&#3453; &#3354;&#3399;&#3354;&#3405;&#3354;&#3391; &#3335;&#3359;&#3405;&#3359; &#3361;&#3372;&#3405;&#8204;&#3384;&#3405;&#3374;&#3390;&#3383;&#3405; &#3381;&#3392;&#3361;&#3391;&#3375;&#3403; &#3334;&#3375;&#3391;&#3376;&#3391;&#3349;&#3405;&#3349;&#3393;&#3330; &#3372;&#3391;&#3385;&#3390;&#3377;&#3391;&#3378;&#3398; &#3346;&#3376;&#3393; &#3349;&#3402;&#3378;&#3370;&#3390;&#3364;&#3349; &#3381;&#3390;&#3452;&#3364;&#3405;&#3364;&#3375;&#3399;&#3349;&#3405;&#3349;&#3390;&#3454; &#3368;&#3391;&#3353;&#3405;&#3353;&#3454;&#3349;&#3405; &#3333;&#3377;&#3391;&#3375;&#3390;&#3451; &#3364;&#3390;&#3378;&#3405;&#3370;&#3376;&#3405;&#3375;&#3330;."
-    channeltitle "White Glass"
-    channelid "UCp7xj7BsVAx2eogia_AbCHg"
+    date "2022-03-31T10:48:34Z"
+    title "Bubbles Filter"
+    description "via magisto.com"
+    channeltitle "Narasimha Sn"
+    channelid "UCZzK41RRmOlQA0GRvZ53viA"
     favcount 0
-    viewcount 42
-    likecount 5
+    viewcount 109
+    likecount 12
     commentcount 0
-    duration "PT6M42S"
+    duration "PT15S"
     indegree 0
-    sentiment 1
-    cluster 3
-  ]
-  node
-  [
-    id 298
-    label "hO95VQG1aWE"
-    step 0
-    date "2016-11-12T21:38:11Z"
-    title "Bi-Weekly Water Change With Micro Bubbles  Cleaning Filter Socks"
-    description "Bi-Weekly Water Change With Micro Bubbles &#38; Cleaning Filter Socks&#10;In this video i will be doing my bi-weekly water change on the 125 gallon reef aquarium. I first start by using a razor to clean the front and side glass after i start sucking out the ditritus pockets within the reef. Once all that is complete i use the jebao wp40 and pp8 powerheads to blast the rock structures and coral colonies with micro bubbles. I do this to help clean not only the rock but the coral. During this process i use two or three filter socks as they fill up quickly from all the detritus. Once that is complete i continue to remove the rest of my 30 gallon water change. At this time i fill the tank back up with a pvc adapter i made for water changes. During this video i will also be cleaning my homemade felt filter socks approx 200. Now that i have so many i only need to clean them every 6-7 months. with that being said i first start by soaking the filter socks for a couple days breaking up the junk within them. once that is done i put them in the water with hot water and bleach. I run the water a few time until the bleach smell is gone then put them in the dryer. &#10;&#10;Come Join &#38; Ask Your Questions On Our Facebook Group: https://www.facebook.com/groups/BuildingASuccessfulReef/&#10;&#10;125 Gallon Reef Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-qZiboMWjYNtQNMLlxiHhVF&#10;&#10;Zeovit Tank Build Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-rtT_B_gLcyWBWUdbvlBgEJ&#10;&#10;How To Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-qTgkRrs5wrIE086wL9Gikd&#10;&#10;Aquatic Log Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-rjb4q8rB1S-ZwnEuCCR2Ga&#10;&#10;Neptune Apex Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-rwKS3T-gW-eQAT-skoi92m&#10;&#10;Beginner Guide Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-o8wXkbVMIZUd9eYVfo0P-T&#10;&#10;60 Gallon Freshwater Planted Tank Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-ppGwibzUjAkuGqum4mUb64&#10;&#10;Tips &#38; Tricks Playlist: https://www.youtube.com/playlist?list=PLlyrWzDlRs-oPvUGif9tzAGJL4xaVv00w&#10;&#10;Frag Tank: https://www.youtube.com/playlist?list=PLlyrWzDlRs-rFSnKRoOX4pQW79k2qtkyA&#10;&#10;Quarantine Tank: https://www.youtube.com/playlist?list=PLlyrWzDlRs-p7OZoT5Sicbs3GvYDk4hpT&#10;&#10;Korallen-Zucht Coral System: https://www.youtube.com/playlist?list=PLlyrWzDlRs-o-XQ2ZzOLbIcQIm0-k5-6i&#10;&#10;Subscriber Contest: https://www.youtube.com/playlist?list=PLlyrWzDlRs-oTdWZenQ2-JSXerh1BHEDd&#10;&#10;Subscriber Request Videos: https://www.youtube.com/playlist?list=PLlyrWzDlRs-q8ZJGvYK0Pj4Mq17tIOxwm&#10;&#10;Subscriber Q@A: https://www.youtube.com/playlist?list=PLlyrWzDlRs-p9jnMdAWevl-RtTHdEHJQR&#10;&#10;Follow me on Aquatic Log: http://www.aquaticlog.com/users/hexdex&#10;&#10;Facebook: https://www.facebook.com/Fish-Of-Hex-389648551215254&#10;&#10;Twitter: https://twitter.com/FishOfHex&#10;&#10;End Music: http://www.bensound.com"
-    channeltitle "FishOfHex Aquatics"
-    channelid "UC5YGnUBjwEyjS5xJaEZFJDw"
-    favcount 0
-    viewcount 11158
-    likecount 198
-    commentcount 58
-    duration "PT6M36S"
-    indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 307
-    label "YSHlf357Vek"
-    step 0
-    date "2016-01-18T03:01:47Z"
-    title "How to fix Micro bubbles/milky water"
-    description "By Paul Talbot http://www.majesticaquariums.com.au"
-    channeltitle "Majestic AquariumsTV"
-    channelid "UCcR7p2jjl4e4ukRjxkYAJvQ"
-    favcount 0
-    viewcount 22242
-    likecount 45
-    commentcount 10
-    duration "PT56S"
-    indegree 1
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 313
-    label "RbaZztaD4XA"
-    step 0
-    date "2020-10-14T13:15:04Z"
-    title "How To Fix Air Bubbles In Pool Pump Basket And Filter System Hindi"
-    description "Swimming pool Tips Urdu Hindi &#10;&#10;1 .How to operate multiport valve full video complete details urdu hindi &#10;Video link &#10;https://youtu.be/1ggl8AapqUM&#10;&#10;2. swimming pool operating and line details&#10;Video Link &#10;https://youtu.be/jT7hR9bBbF8&#10;&#10;3. Swimming pool sand filter backwash demo complete details &#10;video link &#10;https://youtu.be/fwCRa2zCJuc&#10;&#10;4. Swimming pool valve setting&#10;Video link&#10;https://youtu.be/9p_SseiPkxE&#10;&#10;5. Swimming pool Water Heater Complete Details &#10;Video Link&#10;https://youtu.be/DjMfr3bd-lU&#10;&#10;How To Fix Air Bubbles In Pool Pump  Basket And Filter System  urdu hindi&#10;&#10;pool store , air bubbles , pump filter , pump basket , air in pool filtration , how to get air out of pool pump , prevent air in pool filter , inground pool , above ground pool , eztestpools , pool pump problems , problem with my pool pump , pool air leak , air bubbles in pool pump basket , air bubbles in pool skimmer , air bubbles in pool pump filter , how to fix air bubbles in pool pump , air bubbles in pool pump , air bubbles in pump basket , air bubbles in filter system&#10;how&#10;to&#10;swimming pool&#10;pool air leak&#10;pool not priming&#10;why is my pool not priming&#10;swimming pool leak&#10;pool pump priming&#10;air bubbles in pool&#10;Pump leaks&#10;pool pump leak&#10;air in pool pump&#10;air in pool system&#10;DIY pool service&#10;pool service&#10;DIY pool maintenance&#10;pool maintenance&#10;Pool School&#10;Pool Guy&#10;Pool Equipment Leak&#10;leak&#10;air&#10;water&#10;draining&#10;out&#10;of&#10;in&#10;basket&#10;starting&#10;won't&#10;pressure&#10;suction&#10;how to&#10;air&#10;flow&#10;leak&#10;leaks&#10;find&#10;troubleshoot&#10;discover&#10;solve&#10;pool&#10;water&#10;filter&#10;system&#10;pump&#10;pumps&#10;suction&#10;replace&#10;identify&#10;swim&#10;swimming&#10;pools&#10;repairman&#10;repair&#10;technician&#10;tip&#10;tips&#10;low&#10;level&#10;skimmer&#10;flap&#10;stuck&#10;up&#10;upright&#10;open&#10;lid&#10;o-ring&#10;intake&#10;valve&#10;valves&#10;manifold&#10;clog&#10;clogged&#10;ozone&#10;o2&#10;purification&#10;bonus&#10;shave&#10;shaving&#10;cream&#10;under&#10;ground&#10;underground&#10;filters&#10;smoke&#10;easy&#10;easily&#10;shaft&#10;impeller&#10;wier&#10;weir&#10;holderness&#10;family&#10;thanethebrain&#10;temple&#10;lds&#10;bsa&#10;pine&#10;wood&#10;derby&#10;car&#10;race&#10;pinewood"
-    channeltitle "Sada Apna Punjab"
-    channelid "UCoRRPc2PZ8K6SOTVBvwAjyg"
-    favcount 0
-    viewcount 233
-    likecount 8
-    commentcount 1
-    duration "PT9M5S"
-    indegree 0
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 316
-    label "0yvHug_1JnM"
-    step 0
-    date "2012-06-12T03:06:09Z"
-    title "Fighting bubbles in the sump"
-    description "In this video I talk about the causes of bubbles being introduced into&#10;my sump. I make some modifications to combat the bbubles and talk about&#10;their success."
-    channeltitle "Brian Greul"
-    channelid "UCzGNLR91HOgektBrTNZ4b5g"
-    favcount 0
-    viewcount 21996
-    likecount 48
-    commentcount 7
-    duration "PT3M44S"
-    indegree 0
-    sentiment 1
-    cluster 6
-  ]
-  node
-  [
-    id 325
-    label "wgMpbkC32UU"
-    step 0
-    date "2021-04-23T09:30:16Z"
-    title ""
-    description "#artificialintelligence #predictiveanalytics #facebook #google&#10;&#10;&#2477;&#2476;&#2495;&#2487;&#2509;&#2479;&#2470;&#2509;&#2476;&#2494;&#2467;&#2496;&#2478;&#2498;&#2482;&#2453; &#2476;&#2495;&#2486;&#2509;&#2482;&#2503;&#2487;&#2467;' &#2447;&#2476;&#2434; &#8216;&#2475;&#2495;&#2482;&#2509;&#2463;&#2494;&#2480; &#2476;&#2494;&#2476;&#2482;&#8217; &#2453;&#2495;&#2477;&#2494;&#2476;&#2503; &#2438;&#2478;&#2494;&#2470;&#2503;&#2480; &#2458;&#2495;&#2472;&#2509;&#2468;&#2494; &#2458;&#2503;&#2468;&#2472;&#2494;&#2453;&#2503; &#2474;&#2509;&#2480;&#2477;&#2494;&#2476;&#2495;&#2468; &#2453;&#2480;&#2503; &#2488;&#2503; &#2488;&#2478;&#2509;&#2474;&#2480;&#2509;&#2453;&#2503; &#2447;&#2453;&#2463;&#2495; &#2488;&#2434;&#2453;&#2509;&#2487;&#2495;&#2474;&#2509;&#2468; &#2438;&#2482;&#2507;&#2458;&#2472;&#2494;&#2404; &#2404; &#2447;&#2439; &#2477;&#2495;&#2465;&#2495;&#2451;&#2463;&#2495; &#2478;&#2498;&#2482;&#2468; &#2536;&#2534;&#2535;&#2543; &#2488;&#2494;&#2482;&#2503; &#2453;&#2509;&#2482;&#2494;&#2488;&#2480;&#2497;&#2478; &#2482;&#2503;&#2453;&#2458;&#2494;&#2480;&#2503;&#2480; &#2488;&#2478;&#2479;&#2492; &#2480;&#2503;&#2453;&#2480;&#2509;&#2465; &#2453;&#2480;&#2494; &#2489;&#2479;&#2492;&#2503;&#2459;&#2495;&#2482; &#2404; &#10;A brief discussion of how predictive analysis and filter bubble affect our thinking consciousness. . This video was originally recorded during a classroom lecture in 2019.&#10;&#10;Visit Facebook page: https://www.facebook.com/bobby.hajjaj &#10;Visit Website: http://bobbyhajjaj.com/ &#10;Visit Instagram: https://www.instagram.com/bobby.hajjaj/?hl=en &#10;Visit NDM Website: http://ndmbd.org/ &#10;&#10;#bobbyhajjaj #northsouthuniversity #nsu 3nationalistdemocraticmovement #ndm    #democracy #governance&#10;#analytics #ai #predictiveanalytics #predictiveanalysis #analytics #predictiveanalyticstools #artificialintelligence #whatisartificialintelligence #artificialintelligenceexplained #futureofartificialintelligence #google #googleanalytics #facebook #facebookanalytics #youtube #youtubeanalytics #instagram #instagramanalytics #socialization #socialmedia #informationtechnoloogy #informationsystem &#10;&#10;&#2447;&#2439; &#2476;&#2495;&#2487;&#2527;&#2503; &#2438;&#2480;&#2451; &#2476;&#2495;&#2488;&#2509;&#2468;&#2494;&#2480;&#2495;&#2468; &#2438;&#2482;&#2507;&#2458;&#2472;&#2494;&#2480; &#2460;&#2472;&#2509;&#2479; &#2474;&#2524;&#2503; &#2470;&#2503;&#2454;&#2468;&#2503; &#2474;&#2494;&#2480;&#2503;&#2472;-&#10;1. The Filter Bubble - Eli Pariser&#10;2. The Age of Surveillance Capitalism - Shoshana Zuboff&#10;3. The Propaganda Model Today - Broudy, Klaehn, et. al.  &#10;4. Online News Consumption and Public Sentiment Toward Refugees - Joris, Heinderycks, et. al. &#10;&#10;Academic Articles - &#10;1. Echo Chambers Online - R K Garrett&#10;2. Democracy &#38; Filtering - C. Sunstien&#10;3. The rise of the social algorithm - David Lazer&#10;4. The Spreading of Misinformation Online - Vicario, Zollo, et. al."
-    channeltitle "Bobby Hajjaj"
-    channelid "UCec2KPl90ZYZICRvHb_89Kg"
-    favcount 0
-    viewcount 1087
-    likecount 76
-    commentcount 17
-    duration "PT18M9S"
-    indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 331
-    label "p4YDNTmRloc"
+    id 125
+    name "299"
+    label "AvuL6mlkAGs"
     step 0
-    date "2018-10-09T02:04:55Z"
-    title "Why Are There Air Bubbles in My Pool Return or Pump Basket"
-    description "Why are there Air Bubbles in My Pool Return or Pump Basket &#10;http://www.loceypool.com&#10;See how to diagnose and correct air bubbles and air leaks in your pool, pool return, skimmer, pool pump, or basket.  Nicole Locey from Locey Swim &#38; Spa walks you through common issues related to air bubbles in pool, clogged impellers, and humming motors..Subscribe to our channel for helpful tips and advice from the pros at Locey Swim &#38; Spa!&#10;Topic Preview: How to Fix Air Bubbles in Your Pool - Locey Swim &#38; Spa pool-air-bubbles Got air bubbles in pool coming out of the return jets? ... Make sure your skimmer baskets are not damaged and seated ... Check the pump lid.&#10;Air Bubbles in Pool Returns - Swimming Pool  - &#10;Air bubbles in the pool return inlets means that your pump is not pumping only water, but also pumping air through the pipes too. Air in the pool pipes is a problem because it causes poor water filtration when the filter tank and pump are half-full of air, which can quickly lead to water problems.&#10;Common Causes of Air in Your Pool's Pump &#38; Filter System - Test common-causes-of-air-in-your-pools-pump-filter-syst...&#10;Excess air in your pool's pump and filter is much more than just a nuisance. ... Bubbles passing through the return may result in poor filtration, which means ..."
-    channeltitle "Locey Swim &#38; Spa"
-    channelid "UCG54ahfvsWSaoQpKoP5ojBg"
+    date "2018-05-12T17:35:47Z"
+    title "I Filled My Shower With 10,000,000 Bubbles!"
+    description "&#10132; WATCH MY NEWEST VIDEO: https://youtu.be/zzfkA1_X2tA&#10;I filled my entire shower/ bathroom with 10,000,000 bubbles!&#10;Download TUB TAPPER for FREE! &#10173; http://hyperurl.co/tubtapper&#10;&#10;Subscribe and become a GUAV! &#10173; https://goo.gl/B1gCsc&#10;&#10;Buy Guava Toys at Target! &#10173; http://guavatoys.com&#10;&#10;Get a Guava Juice Box &#10173; https://goo.gl/0dTjI7&#10;&#10;Merchandise &#10173; http://crowdmade.com/guavajuice&#10;&#10;Download the Stay Juicy album  &#10173; https://itunes.apple.com/us/album/stay-juicy/1335287379&#10;&#10;&#10;Want a shoutout? &#10173; http://https://www.bookcameo.com/guavajuice&#10;&#10;Watch some of these AWESOME playlists!&#10;----------------------------------------------------------------&#10;Do Not Do This! &#10173; https://youtube.com/watch?v=jO19XxEXmmQ&#38;list=PLg8oaaTdoHzMxpqfzRHzxC-qf9Ej60dBK&#38;index=1&#10;Fun Experiments! &#10173; https://youtube.com/watch?v=_3BY6iOVyEE&#38;index=1&#38;list=PLg8oaaTdoHzPwBKFOjf5JSlvsloSJAC-S&#10;Bath Tub Challenges! &#10173; https://youtube.com/watch?v=dIR-a2__vBU&#38;index=1&#38;list=PLg8oaaTdoHzNfQc-PFaKBVTe_-1f1NUeu&#10;Your Favorite Videos! &#10173; https://youtube.com/watch?v=_3BY6iOVyEE&#38;list=PLg8oaaTdoHzO9kk-v-DYwYECfiWwHNm0v&#38;index=1&#10;&#10;Follow me on the Social Media!&#10;----------------------------------------------------------------&#10;Twitter &#10173; http://twitter.com/GuavaJuice&#10;Instagram &#10173;  http://instagram.com/GuavaRoi&#10;Facebook &#10173; http://facebook.com/GuavaJuice&#10;Snapchat &#10173;  WhereIsRoi&#10;&#10;Become a true Guava Juice fan!&#10;----------------------------------------------------------------&#10;Wanna help do my captions?  &#10173; http://bit.ly/2pDaiIV&#10;Send me some FAN ART! &#10173;  http://bit.ly/GuavaFB&#10;&#10;&#9560;[&#9673;&#65091;&#9673;]&#9557; &#9560;[&#9673;&#65091;&#9673;]&#9557;&#9560;[&#9673;&#65091;&#9673;]&#9557;&#10;&#10;What's up YouTube! Welcome to Guava Juice! I post a video every day at 12PM PST! You may know me as Roi Wassabi from Wassabi Productions.&#10;&#10;On here, you'll find INSANE challenges, filling up my BATH TUB with random things, COOL experiments, SILLY DIY, and random shenanigans that you'll love! I also have played games from Roblox and Happy Wheels, Horror Games, and random games you've never heard of. You'll also find Subscribe and become a GUAV! You won't be disappointed!&#10;&#10; ( &#769; &#9685;&#9694;&#949;&#9695;&#9685;`)&#10;&#10;Thanks for reading the end of this description!&#10;&#10;#stayjuicy #guavajuice&#10;&#10;Join the Guava Juice Gang:&#10;&#10132; JOIN NOW: https://www.youtube.com/channel/UCMNmwqCtCSpftrbvR3KkHDA/join&#10;Shoutout to these GUAVA GODS Members:&#10;Joker Pro&#10;Tricia T&#10;Chris Fardell&#10;&#10;&#10;Thanks for reading the end of this description!"
+    channeltitle "Guava Juice"
+    channelid "UCMNmwqCtCSpftrbvR3KkHDA"
     favcount 0
-    viewcount 5750
-    likecount 16
+    viewcount 14195455
+    likecount 320321
+    commentcount 36112
+    duration "PT7M43S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 126
+    name "308"
+    label "bQkBFjbjKI0"
+    step 0
+    date "2021-07-06T10:58:38Z"
+    title "bubbles painting #jimin#jiminfilter#filter#filterpianoversion"
+    description ""
+    channeltitle "&#120432;&#120462;&#120476;&#120477;&#120465;&#120462;&#120477;&#120466;&#120460;_&#120458;&#120475;&#120477;"
+    channelid "UCTzVQ53PNAJYF4W45BddPcQ"
+    favcount 0
+    viewcount 1297
+    likecount 69
+    commentcount 12
+    duration "PT16S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 127
+    name "314"
+    label "zTGld9CGzmc"
+    step 0
+    date "2014-09-12T01:37:29Z"
+    title "No ozone bubbles from your Freshwater ozone unit?"
+    description "Troubleshooting no flow or low flow of ozone bubbles in a Hot Spring spa, Tiger River spa and Limelight spa. Here are links to parts mentioned in this video:&#10;&#10;Circulation pump: https://backyardplus.com/parts/74427-circ-pump-e5-silentflo-5000-and-5002-factory-replacement/&#10;Ozonator: https://backyardplus.com/parts/72602-freshwater-iii-corona-discharge-ozonator/&#10;Filters: https://backyardplus.com/parts/71825-filter-cartridge-hot-spring-hot-spot-and-solana/&#10;Ozone Injector Tee: https://backyardplus.com/parts/74078-injector-freshwater-ozone-black/&#10;Ozone Check valve: https://backyardplus.com/parts/1044101-check-valve-ozone-freshwater-ozone-1-4in-o-d/&#10;&#10;Check out our website http://www.backyardplus.com/ ! we offer FREE shipping, FREE tech support and thousands of parts!&#10;&#10;Timecodes&#10;0:00 Intro&#10;0:30 Remove The Filters&#10;0:58 Remove Ozone Line&#10;1:46 Inspect the Check Valve&#10;2:10 Check the Injector for Clogs"
+    channeltitle "backyardplus"
+    channelid "UCezBMRimcpYwVFvTZ-AJ-XQ"
+    favcount 0
+    viewcount 88565
+    likecount -1
     commentcount 0
-    duration "PT3M46S"
-    indegree 0
-    sentiment 1
-    cluster 7
-  ]
-  node
-  [
-    id 336
-    label "o0mzTUcAqMg"
-    step 0
-    date "2014-11-03T03:29:42Z"
-    title "No Pump Bubbles!!!"
-    description "Here is a method of free bubbles for my fish tank. Only need a small length of air hose. Booya!"
-    channeltitle "Brandon's Turtles"
-    channelid "UC1X8k89BZgBTmDrvNGtoqRA"
-    favcount 0
-    viewcount 20547
-    likecount 107
-    commentcount 10
-    duration "PT1M36S"
-    indegree 0
-    sentiment 1
+    duration "PT3M58S"
+    indegree 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 394
-    label "D0yDQE6XsSM"
+    id 128
+    name "317"
+    label "zxlESeiMJwI"
     step 0
-    date "2018-01-23T03:05:17Z"
-    title "A Powerhead Gives Me Micro-Bubbles In My Native Tank"
-    description "Get a Hydor Koralia Evolution Aquarium Circulation Pump here: http://amzn.to/2G6CdIR&#10;Get a Tetra Whisper Air Pump here: http://amzn.to/2E1BUib&#10;Check out my Patreon page https://www.patreon.com/danielhiteshew&#10;I use a 1500 gph powerhead (Koralia Hydor) to create micro-bubbles in my 125 gallon Native Tank"
-    channeltitle "Everyday Fishkeeping"
-    channelid "UCBdxLXjOdp26Ke8NQRt7eBg"
+    date "2021-02-02T04:01:51Z"
+    title "Bubbles Filter FULL HD"
+    description ""
+    channeltitle "SUPERASES100"
+    channelid "UCWiEh0wT639b9JeixAM-SSA"
     favcount 0
-    viewcount 4942
-    likecount 84
-    commentcount 24
-    duration "PT2M48S"
+    viewcount 2
+    likecount 0
+    commentcount -1
+    duration "PT2M7S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 129
+    name "326"
+    label "pOjlUZW9bG8"
+    step 0
+    date "2017-08-07T00:36:31Z"
+    title " With the Bubbles Filter--Yay or Nay?"
+    description "&#128514;&#128514;&#128514;.&#129300;.&#128064;&#128064;&#128099;&#128664;&#127902;&#127950;&#128525;.The Late Night Show host Chichi Stylxz, enters season two with Bubbles!!!! Let's check out these classic beauties together!&#128566;&#128518; #capitalcityautoshow #chitv #latenightshow #chitravelssaga&#128747;&#128070; #brainmassage&#128134;&#128518; #bubblesinmotion"
+    channeltitle "Chichi Movies"
+    channelid "UCfUxCtJPJ0vs1Brc_dVIJwA"
+    favcount 0
+    viewcount 834
+    likecount 17
+    commentcount 0
+    duration "PT9M48S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 1
+  ]
+  node
+  [
+    id 130
+    name "332"
+    label "Rvy0DFVwrIY"
+    step 0
+    date "2015-01-09T04:47:15Z"
+    title "Bubbles in fuel filter. Land Rover Series 2A"
+    description "I've got these bubbles that look like they are coming through my fuel (gas/petrol, not diesel) line. Too cold for it to be vapour lock. Any ideas?"
+    channeltitle "Hectorious2"
+    channelid "UCRo32y1CgkjsupXWq915YHA"
+    favcount 0
+    viewcount 753
+    likecount 0
+    commentcount 1
+    duration "PT25S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 395
+    id 131
+    name "337"
+    label "8G-wIwb_SQw"
+    step 0
+    date "2022-05-24T21:37:38Z"
+    title "Fish Tank Dos Bubbles, Filter, Ambience, Relax, Sleep, Chill, Natural Real Sounds"
+    description "Provided to YouTube by DistroKid&#10;&#10;Fish Tank Dos Bubbles, Filter, Ambience, Relax, Sleep, Chill, Natural Real Sounds &#183; Fabian's Relaxing Ambience&#10;&#10;Relax, Chill, Sleep, Study, Background Noise, Vol. 1 Fish Tank&#10;&#10;&#8471; 3969428 Records DK&#10;&#10;Released on: 2022-05-23&#10;&#10;Auto-generated by YouTube."
+    channeltitle "Fabian's Relaxing Ambience - Topic"
+    channelid "UCnKn8gS6iDNYzI86ifpmlfw"
+    favcount 0
+    viewcount 8
+    likecount 1
+    commentcount 0
+    duration "PT2M38S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 132
+    name "395"
     label "JZBLyi8Rr2A"
     step 0
     date "2022-04-01T03:48:01Z"
@@ -2546,46 +3980,108 @@ graph
     commentcount 0
     duration "PT1M7S"
     indegree 0
-    sentiment 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
+  ]
+  node
+  [
+    id 133
+    name "396"
+    label "1UJed469hAs"
+    step 0
+    date "2022-05-12T19:36:57Z"
+    title "Blowing Bubble Gum Bubbles ASMR Kendall Jenner Filter"
+    description ""
+    channeltitle "Exist With Me ASMR"
+    channelid "UCRepNmKCZ2hMpWZbrdV0kBQ"
+    favcount 0
+    viewcount 163
+    likecount 3
+    commentcount 3
+    duration "PT34S"
+    indegree 0
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 408
-    label "xKYSr50NUQI"
+    id 134
+    name "409"
+    label "S34jZCEv9tk"
     step 0
-    date "2019-03-25T10:07:55Z"
-    title "Clear water small bubbles aquarium filter"
-    description "Small bubbles water aquarium air filter"
-    channeltitle "Sea Marine Blessings Fish Aquarium &#38; pet shop"
-    channelid "UCaOHa6vGgzTMcHnUKon6wtg"
+    date "2022-07-11T17:01:25Z"
+    title "Media Literacy, Critical Thinking, and the News with Arjun Moorthy"
+    description "Arjun Moorthy is the Co-Founder and CEO of The Factual , a subscription-based, ad-free news app that aggregates and curates the news based on its credibility. He joins host Mike Palmer to talk about the importance of media literacy and critical thinking in a world with increasing partisanship and misinformation.&#13;&#10;&#13;&#10;We hear Arjun's origin story which began as a paperboy in Canada before being educated as an engineer, working at Hubspot in its startup phase, and ultimately founding The Factual with Ajoy Sojan in 2016. We hear how he and team have navigated the years since launch and how the app has evolved over time. We learn how The Factual assesses the credibility of articles collected from over 2000 different news sites, giving each a rating between 1-100 to help the reader understand the quality of the information.&#13;&#10;&#13;&#10;Arjun shares his perspectives on the challenges we face with the filter bubbles we experience today, especially through social media and how he and team are making design choices to address them. He also shares his thoughts on how this all relates to learning and educational discourse in a thought-provoking conversation you don't want to miss.&#13;&#10;&#13;&#10;Subscribe to Trending in Education wherever you get your podcasts. Visit us at TrendinginEd.com for more insightful takes on what's new and emerging in learning and beyond.&#10;&#10;Listen to the full episode here:"
+    channeltitle "Palmer Media"
+    channelid "UCPQUTT3Ef0eYNTDf3WEHU9g"
     favcount 0
-    viewcount 84
-    likecount 3
+    viewcount 0
+    likecount 0
     commentcount 0
-    duration "PT1M51S"
+    duration "PT39M34S"
     indegree 0
-    sentiment 1
-    cluster 6
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   node
   [
-    id 485
-    label "cVvmPNqhLao"
+    id 135
+    name "486"
+    label "3Za5qnlnfjU"
     step 0
-    date "2022-07-05T13:00:20Z"
-    title "Super Quiet, Reliable, Low Vibration Air Pump - Oase OxyMax 200 Unboxing, Review, Test and Setup"
-    description "Please Comment, Like &#38; Subscribe.&#10;&#10;This video is sponsored by Aquarium Universe.&#10;Visit https://www.aquariumuniverse.com.au/ and enter code &#34;BlakesAquatics&#34; to get 10% off your order.&#10;&#10;For the best quality, healthiest fish order online today from Allfish2u. Shipping Australia wide (with some exceptions) visit https://allfish2u.com/ and use code 'BLAKE10' for 10% off your order.&#10;&#10;Buy my Aquarium 3D Prints on Etsy;&#10;https://www.etsy.com/au/shop/BlakesAquaticsStore&#10;Become a Blake's Aquatics member;&#10;https://www.youtube.com/channel/UCH4bU9JT600hL8nbDUel63Q/join&#10;Facebook;&#10;https://www.facebook.com/BlakesAquatics&#10;Instagram;&#10;https://www.instagram.com/blakes.aquatics/&#10;Blake's Aquatics Discord Server;&#10;https://discord.gg/CCnvKYU&#10;Merchandise available at;&#10;https://www.blakesaquatics.theprintbar.com&#10;Podcast episodes are also available as an audio podcast on your favourite platforms such as;&#10;Spotify, Apple Podcasts or via; https://blakesaquatics.podbean.com&#10;&#10;# # #BlakesAquatics&#10;Please Comment, Like &#38; Subscribe to Help us to our Goal!&#10;||||||||||||||| 72% |||||||........ 18K/25K &#10;&#10;This video is sponsored by Aquarium Universe.&#10;Visit https://www.aquariumuniverse.com.au/ and enter code &#34;BlakesAquatics&#34; to get 10% off your order.&#10;&#10;For the best quality, healthiest fish order online today from Allfish2u. Shipping Australia wide (with some exceptions) visit https://allfish2u.com/ and use code 'BLAKE10' for 10% off your order.&#10;&#10;Buy my Aquarium 3D Prints on Etsy;&#10;https://www.etsy.com/au/shop/BlakesAquaticsStore&#10;&#10;Become a Blake's Aquatics member;&#10;https://www.youtube.com/channel/UCH4bU9JT600hL8nbDUel63Q/join&#10;&#10;Shout Outs!&#10;D B &#10;Aidoss Gaming - Level 1 &#10;Menace&#9839;8501 &#10; &#10;&#10;Facebook;&#10;https://www.facebook.com/BlakesAquatics&#10;Instagram;&#10;https://www.instagram.com/blakes.aquatics/&#10;Blake's Aquatics Discord Server;&#10;https://discord.gg/CCnvKYU&#10;Merchandise available at;&#10;https://www.blakesaquatics.theprintbar.com&#10;Podcast episodes are also available as an audio podcast on your favourite platforms such as;&#10;Spotify, Apple Podcasts or via; https://blakesaquatics.podbean.com&#10;&#10;# # #BlakesAquatics"
-    channeltitle "Blake's Aquatics"
-    channelid "UCH4bU9JT600hL8nbDUel63Q"
+    date "2022-07-05T22:43:11Z"
+    title "Blowing Bubble Gum Bubbles ASMR"
+    description ""
+    channeltitle "Exist With Me ASMR"
+    channelid "UCRepNmKCZ2hMpWZbrdV0kBQ"
     favcount 0
-    viewcount 1289
-    likecount 104
-    commentcount 17
-    duration "PT12M4S"
-    indegree 0
-    sentiment 1
-    cluster 6
+    viewcount 2949
+    likecount 68
+    commentcount 2
+    duration "PT25S"
+    indegree 1
+    PERSPECTIVEIDENTITYATTACK NaN
+    PERSPECTIVEPROFANITY NaN
+    PERSPECTIVETHREAT NaN
+    PERSPECTIVEINFLAMMATORY NaN
+    PERSPECTIVETOXICITY NaN
+    PERSPECTIVEINSULT NaN
+    PERSPECTIVEFLIRTATION NaN
+    PERSPECTIVESEXUALLYEXPLICIT NaN
+    sentiment NaN
+    channeltags "NA"
+    leftright "NA"
+    cluster 5
   ]
   edge
   [
@@ -2860,7 +4356,7 @@ graph
   edge
   [
     source 10
-    target 26
+    target 23
     rank 7
   ]
   edge
@@ -2896,7 +4392,7 @@ graph
   edge
   [
     source 13
-    target 62
+    target 39
     rank 20
   ]
   edge
@@ -2920,50 +4416,68 @@ graph
   edge
   [
     source 15
-    target 21
+    target 20
     rank 8
   ]
   edge
   [
     source 16
-    target 31
+    target 25
     rank 6
   ]
   edge
   [
     source 16
-    target 48
+    target 35
     rank 7
   ]
   edge
   [
-    source 19
+    source 18
     target 0
     rank 1
   ]
   edge
   [
-    source 19
+    source 18
     target 6
     rank 4
   ]
   edge
   [
-    source 19
+    source 18
     target 15
     rank 8
   ]
   edge
   [
-    source 20
+    source 19
     target 0
     rank 1
   ]
   edge
   [
-    source 20
+    source 19
     target 6
     rank 13
+  ]
+  edge
+  [
+    source 20
+    target 8
+    rank 3
+  ]
+  edge
+  [
+    source 21
+    target 2
+    rank 16
+  ]
+  edge
+  [
+    source 21
+    target 4
+    rank 2
   ]
   edge
   [
@@ -2973,609 +4487,1515 @@ graph
   ]
   edge
   [
-    source 23
-    target 2
-    rank 16
-  ]
-  edge
-  [
-    source 23
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 23
-    target 8
-    rank 3
-  ]
-  edge
-  [
-    source 24
-    target 174
+    source 22
+    target 78
     rank 1
   ]
   edge
   [
-    source 24
-    target 186
+    source 22
+    target 84
     rank 6
   ]
   edge
   [
-    source 26
+    source 23
     target 6
     rank 3
   ]
   edge
   [
-    source 26
+    source 23
     target 8
     rank 5
   ]
   edge
   [
-    source 30
-    target 186
+    source 24
+    target 84
     rank 20
   ]
   edge
   [
-    source 33
+    source 26
     target 0
     rank 3
   ]
   edge
   [
-    source 33
+    source 26
     target 6
     rank 6
   ]
   edge
   [
-    source 34
+    source 27
     target 0
     rank 2
   ]
   edge
   [
-    source 34
+    source 27
     target 4
     rank 11
   ]
   edge
   [
-    source 34
+    source 27
     target 6
     rank 7
   ]
   edge
   [
-    source 34
+    source 27
     target 9
     rank 10
   ]
   edge
   [
-    source 34
-    target 26
+    source 27
+    target 23
     rank 3
   ]
   edge
   [
-    source 34
-    target 237
+    source 27
+    target 103
     rank 19
   ]
   edge
   [
-    source 34
-    target 261
+    source 27
+    target 113
     rank 17
   ]
   edge
   [
-    source 35
-    target 24
+    source 28
+    target 22
     rank 5
   ]
   edge
   [
-    source 35
-    target 174
+    source 28
+    target 78
     rank 6
   ]
   edge
   [
-    source 35
-    target 217
+    source 28
+    target 94
     rank 9
   ]
   edge
   [
-    source 35
-    target 251
+    source 28
+    target 109
     rank 2
   ]
   edge
   [
-    source 37
+    source 29
     target 0
     rank 3
   ]
   edge
   [
-    source 37
+    source 29
     target 1
     rank 2
   ]
   edge
   [
-    source 37
+    source 29
     target 3
     rank 8
   ]
   edge
   [
-    source 37
+    source 29
     target 6
     rank 1
   ]
   edge
   [
-    source 37
-    target 261
+    source 29
+    target 113
     rank 9
   ]
   edge
   [
-    source 38
+    source 30
     target 1
     rank 1
   ]
   edge
   [
-    source 41
+    source 31
     target 0
     rank 1
   ]
   edge
   [
-    source 41
+    source 31
     target 1
     rank 2
   ]
   edge
   [
-    source 43
+    source 32
     target 8
     rank 1
   ]
   edge
   [
-    source 44
+    source 33
     target 2
     rank 1
   ]
   edge
   [
-    source 46
+    source 34
     target 2
     rank 1
   ]
   edge
   [
-    source 48
+    source 35
     target 0
     rank 3
   ]
   edge
   [
-    source 48
+    source 35
     target 2
     rank 12
   ]
   edge
   [
-    source 48
-    target 31
+    source 35
+    target 25
     rank 14
   ]
   edge
   [
-    source 51
+    source 36
     target 8
     rank 1
   ]
   edge
   [
-    source 52
+    source 37
     target 0
     rank 1
   ]
   edge
   [
-    source 53
+    source 38
     target 0
     rank 1
   ]
   edge
   [
-    source 62
+    source 39
     target 0
     rank 8
   ]
   edge
   [
-    source 62
+    source 39
     target 1
+    rank 3
+  ]
+  edge
+  [
+    source 39
+    target 2
+    rank 13
+  ]
+  edge
+  [
+    source 39
+    target 6
+    rank 10
+  ]
+  edge
+  [
+    source 39
+    target 15
+    rank 16
+  ]
+  edge
+  [
+    source 39
+    target 103
+    rank 5
+  ]
+  edge
+  [
+    source 40
+    target 36
+    rank 1
+  ]
+  edge
+  [
+    source 40
+    target 46
+    rank 2
+  ]
+  edge
+  [
+    source 41
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 41
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 42
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 42
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 43
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 44
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 44
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 44
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 44
+    target 103
+    rank 5
+  ]
+  edge
+  [
+    source 45
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 46
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 46
+    target 8
+    rank 4
+  ]
+  edge
+  [
+    source 46
+    target 36
+    rank 1
+  ]
+  edge
+  [
+    source 46
+    target 40
+    rank 2
+  ]
+  edge
+  [
+    source 47
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 47
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 48
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 49
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 50
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 50
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 50
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 50
+    target 15
+    rank 15
+  ]
+  edge
+  [
+    source 51
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 52
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 53
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 54
+    target 65
+    rank 10
+  ]
+  edge
+  [
+    source 54
+    target 91
+    rank 4
+  ]
+  edge
+  [
+    source 54
+    target 108
+    rank 2
+  ]
+  edge
+  [
+    source 54
+    target 113
+    rank 3
+  ]
+  edge
+  [
+    source 54
+    target 115
+    rank 20
+  ]
+  edge
+  [
+    source 54
+    target 121
+    rank 18
+  ]
+  edge
+  [
+    source 55
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 56
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 56
+    target 113
+    rank 19
+  ]
+  edge
+  [
+    source 57
+    target 0
+    rank 5
+  ]
+  edge
+  [
+    source 57
+    target 1
+    rank 9
+  ]
+  edge
+  [
+    source 57
+    target 2
+    rank 13
+  ]
+  edge
+  [
+    source 57
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 57
+    target 79
+    rank 10
+  ]
+  edge
+  [
+    source 58
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 58
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 58
+    target 113
+    rank 7
+  ]
+  edge
+  [
+    source 59
+    target 0
+    rank 15
+  ]
+  edge
+  [
+    source 59
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 59
+    target 5
+    rank 17
+  ]
+  edge
+  [
+    source 59
+    target 6
+    rank 11
+  ]
+  edge
+  [
+    source 59
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 59
+    target 8
+    rank 5
+  ]
+  edge
+  [
+    source 59
+    target 9
+    rank 2
+  ]
+  edge
+  [
+    source 59
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 60
+    target 0
+    rank 13
+  ]
+  edge
+  [
+    source 60
+    target 1
+    rank 4
+  ]
+  edge
+  [
+    source 60
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 60
+    target 15
+    rank 7
+  ]
+  edge
+  [
+    source 60
+    target 61
+    rank 17
+  ]
+  edge
+  [
+    source 61
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 62
+    target 0
     rank 3
   ]
   edge
   [
     source 62
     target 2
-    rank 13
-  ]
-  edge
-  [
-    source 62
-    target 6
-    rank 10
+    rank 4
   ]
   edge
   [
     source 62
     target 15
-    rank 16
+    rank 1
   ]
   edge
   [
-    source 62
-    target 237
+    source 63
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 64
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 65
+    target 54
+    rank 11
+  ]
+  edge
+  [
+    source 65
+    target 91
+    rank 3
+  ]
+  edge
+  [
+    source 65
+    target 104
+    rank 15
+  ]
+  edge
+  [
+    source 65
+    target 108
+    rank 6
+  ]
+  edge
+  [
+    source 65
+    target 113
+    rank 1
+  ]
+  edge
+  [
+    source 65
+    target 115
+    rank 8
+  ]
+  edge
+  [
+    source 66
+    target 74
+    rank 1
+  ]
+  edge
+  [
+    source 67
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 67
+    target 2
     rank 5
   ]
   edge
   [
     source 67
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 67
-    target 86
+    target 6
     rank 2
   ]
   edge
   [
-    source 70
+    source 68
     target 0
-    rank 11
+    rank 2
   ]
   edge
   [
-    source 70
+    source 69
+    target 0
+    rank 8
+  ]
+  edge
+  [
+    source 69
     target 6
     rank 4
   ]
   edge
   [
-    source 76
+    source 70
     target 0
+    rank 2
+  ]
+  edge
+  [
+    source 70
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 70
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 71
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 71
+    target 2
+    rank 5
+  ]
+  edge
+  [
+    source 71
+    target 20
+    rank 19
+  ]
+  edge
+  [
+    source 72
+    target 8
+    rank 2
+  ]
+  edge
+  [
+    source 72
+    target 36
     rank 1
   ]
   edge
   [
-    source 76
+    source 73
+    target 0
+    rank 10
+  ]
+  edge
+  [
+    source 73
+    target 2
+    rank 8
+  ]
+  edge
+  [
+    source 73
     target 6
+    rank 3
+  ]
+  edge
+  [
+    source 74
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 75
+    target 28
+    rank 8
+  ]
+  edge
+  [
+    source 75
+    target 78
+    rank 5
+  ]
+  edge
+  [
+    source 75
+    target 84
+    rank 6
+  ]
+  edge
+  [
+    source 76
+    target 8
+    rank 1
+  ]
+  edge
+  [
+    source 77
+    target 0
     rank 2
   ]
   edge
   [
     source 77
     target 1
-    rank 1
-  ]
-  edge
-  [
-    source 80
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 80
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 80
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 80
-    target 237
-    rank 5
-  ]
-  edge
-  [
-    source 83
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 86
-    target 2
     rank 3
   ]
   edge
   [
-    source 86
-    target 8
-    rank 4
-  ]
-  edge
-  [
-    source 86
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 86
-    target 67
-    rank 2
-  ]
-  edge
-  [
-    source 89
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 89
-    target 2
-    rank 9
-  ]
-  edge
-  [
-    source 91
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 92
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 95
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 95
-    target 4
-    rank 2
-  ]
-  edge
-  [
-    source 95
+    source 77
     target 6
-    rank 3
+    rank 7
   ]
   edge
   [
-    source 95
+    source 77
     target 15
-    rank 15
-  ]
-  edge
-  [
-    source 97
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 98
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 101
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 102
-    target 129
-    rank 10
-  ]
-  edge
-  [
-    source 102
-    target 214
-    rank 4
-  ]
-  edge
-  [
-    source 102
-    target 249
-    rank 2
-  ]
-  edge
-  [
-    source 102
-    target 261
-    rank 3
-  ]
-  edge
-  [
-    source 102
-    target 267
-    rank 20
-  ]
-  edge
-  [
-    source 102
-    target 283
-    rank 18
-  ]
-  edge
-  [
-    source 104
-    target 7
-    rank 1
-  ]
-  edge
-  [
-    source 107
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 107
-    target 261
-    rank 19
-  ]
-  edge
-  [
-    source 109
-    target 0
-    rank 5
-  ]
-  edge
-  [
-    source 109
-    target 1
-    rank 9
-  ]
-  edge
-  [
-    source 109
-    target 2
     rank 13
   ]
   edge
   [
-    source 109
-    target 6
-    rank 3
+    source 79
+    target 1
+    rank 4
   ]
   edge
   [
-    source 109
-    target 175
-    rank 10
+    source 79
+    target 8
+    rank 1
   ]
   edge
   [
-    source 111
+    source 80
     target 0
     rank 1
   ]
   edge
   [
-    source 111
-    target 3
-    rank 4
-  ]
-  edge
-  [
-    source 111
-    target 261
-    rank 7
-  ]
-  edge
-  [
-    source 112
-    target 0
-    rank 15
-  ]
-  edge
-  [
-    source 112
-    target 1
-    rank 7
-  ]
-  edge
-  [
-    source 112
-    target 5
-    rank 17
-  ]
-  edge
-  [
-    source 112
+    source 80
     target 6
-    rank 11
+    rank 2
   ]
   edge
   [
-    source 112
-    target 7
-    rank 3
+    source 81
+    target 0
+    rank 1
   ]
   edge
   [
-    source 112
-    target 8
+    source 82
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 82
+    target 2
+    rank 16
+  ]
+  edge
+  [
+    source 82
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 82
+    target 5
     rank 5
   ]
   edge
   [
-    source 112
+    source 82
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 82
+    target 7
+    rank 18
+  ]
+  edge
+  [
+    source 82
     target 9
     rank 2
   ]
   edge
   [
-    source 112
-    target 17
+    source 82
+    target 15
+    rank 12
+  ]
+  edge
+  [
+    source 82
+    target 31
+    rank 17
+  ]
+  edge
+  [
+    source 83
+    target 0
     rank 1
   ]
   edge
   [
-    source 116
-    target 0
+    source 83
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 84
+    target 22
     rank 13
   ]
   edge
   [
-    source 116
-    target 1
-    rank 4
+    source 85
+    target 0
+    rank 7
   ]
   edge
   [
-    source 116
+    source 85
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 86
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 86
+    target 1
+    rank 3
+  ]
+  edge
+  [
+    source 86
+    target 2
+    rank 7
+  ]
+  edge
+  [
+    source 86
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 86
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 87
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 88
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 89
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 89
     target 6
     rank 3
   ]
   edge
   [
-    source 116
-    target 15
+    source 89
+    target 113
+    rank 4
+  ]
+  edge
+  [
+    source 90
+    target 54
+    rank 20
+  ]
+  edge
+  [
+    source 90
+    target 91
+    rank 1
+  ]
+  edge
+  [
+    source 90
+    target 104
     rank 7
   ]
   edge
   [
+    source 90
+    target 108
+    rank 3
+  ]
+  edge
+  [
+    source 90
+    target 113
+    rank 16
+  ]
+  edge
+  [
+    source 90
+    target 121
+    rank 6
+  ]
+  edge
+  [
+    source 91
+    target 104
+    rank 9
+  ]
+  edge
+  [
+    source 91
+    target 113
+    rank 6
+  ]
+  edge
+  [
+    source 91
+    target 121
+    rank 20
+  ]
+  edge
+  [
+    source 92
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 92
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 92
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 92
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 92
+    target 61
+    rank 7
+  ]
+  edge
+  [
+    source 92
+    target 103
+    rank 5
+  ]
+  edge
+  [
+    source 93
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 94
+    target 22
+    rank 19
+  ]
+  edge
+  [
+    source 94
+    target 28
+    rank 1
+  ]
+  edge
+  [
+    source 94
+    target 84
+    rank 9
+  ]
+  edge
+  [
+    source 94
+    target 109
+    rank 6
+  ]
+  edge
+  [
+    source 95
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 95
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 95
+    target 7
+    rank 7
+  ]
+  edge
+  [
+    source 95
+    target 31
+    rank 18
+  ]
+  edge
+  [
+    source 95
+    target 103
+    rank 5
+  ]
+  edge
+  [
+    source 96
+    target 78
+    rank 3
+  ]
+  edge
+  [
+    source 96
+    target 100
+    rank 15
+  ]
+  edge
+  [
+    source 97
+    target 49
+    rank 1
+  ]
+  edge
+  [
+    source 98
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 99
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 101
+    target 24
+    rank 1
+  ]
+  edge
+  [
+    source 102
+    target 5
+    rank 3
+  ]
+  edge
+  [
+    source 102
+    target 39
+    rank 5
+  ]
+  edge
+  [
+    source 103
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 103
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 103
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 103
+    target 6
+    rank 4
+  ]
+  edge
+  [
+    source 103
+    target 7
+    rank 18
+  ]
+  edge
+  [
+    source 103
+    target 23
+    rank 5
+  ]
+  edge
+  [
+    source 104
+    target 54
+    rank 5
+  ]
+  edge
+  [
+    source 104
+    target 91
+    rank 1
+  ]
+  edge
+  [
+    source 104
+    target 113
+    rank 9
+  ]
+  edge
+  [
+    source 105
+    target 78
+    rank 3
+  ]
+  edge
+  [
+    source 106
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 106
+    target 6
+    rank 3
+  ]
+  edge
+  [
+    source 106
+    target 15
+    rank 4
+  ]
+  edge
+  [
+    source 106
+    target 22
+    rank 7
+  ]
+  edge
+  [
+    source 106
+    target 94
+    rank 8
+  ]
+  edge
+  [
+    source 107
+    target 113
+    rank 2
+  ]
+  edge
+  [
+    source 107
+    target 115
+    rank 7
+  ]
+  edge
+  [
+    source 108
+    target 54
+    rank 9
+  ]
+  edge
+  [
+    source 108
+    target 90
+    rank 19
+  ]
+  edge
+  [
+    source 108
+    target 104
+    rank 12
+  ]
+  edge
+  [
+    source 108
+    target 113
+    rank 3
+  ]
+  edge
+  [
+    source 108
+    target 115
+    rank 16
+  ]
+  edge
+  [
+    source 109
+    target 28
+    rank 1
+  ]
+  edge
+  [
+    source 109
+    target 78
+    rank 4
+  ]
+  edge
+  [
+    source 109
+    target 94
+    rank 14
+  ]
+  edge
+  [
+    source 110
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 111
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 111
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 111
+    target 2
+    rank 10
+  ]
+  edge
+  [
+    source 111
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 111
+    target 5
+    rank 11
+  ]
+  edge
+  [
+    source 111
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 112
+    target 28
+    rank 1
+  ]
+  edge
+  [
+    source 112
+    target 94
+    rank 7
+  ]
+  edge
+  [
+    source 112
+    target 109
+    rank 2
+  ]
+  edge
+  [
+    source 113
+    target 54
+    rank 12
+  ]
+  edge
+  [
+    source 113
+    target 65
+    rank 6
+  ]
+  edge
+  [
+    source 113
+    target 91
+    rank 1
+  ]
+  edge
+  [
+    source 113
+    target 104
+    rank 18
+  ]
+  edge
+  [
+    source 113
+    target 108
+    rank 16
+  ]
+  edge
+  [
+    source 114
+    target 0
+    rank 4
+  ]
+  edge
+  [
+    source 114
+    target 6
+    rank 2
+  ]
+  edge
+  [
+    source 115
+    target 54
+    rank 7
+  ]
+  edge
+  [
+    source 115
+    target 65
+    rank 8
+  ]
+  edge
+  [
+    source 115
+    target 91
+    rank 5
+  ]
+  edge
+  [
+    source 115
+    target 107
+    rank 2
+  ]
+  edge
+  [
+    source 115
+    target 108
+    rank 9
+  ]
+  edge
+  [
+    source 115
+    target 113
+    rank 1
+  ]
+  edge
+  [
     source 116
-    target 118
-    rank 17
+    target 84
+    rank 3
+  ]
+  edge
+  [
+    source 116
+    target 119
+    rank 11
+  ]
+  edge
+  [
+    source 116
+    target 120
+    rank 2
+  ]
+  edge
+  [
+    source 117
+    target 28
+    rank 11
+  ]
+  edge
+  [
+    source 117
+    target 84
+    rank 8
   ]
   edge
   [
@@ -3585,1154 +6005,230 @@ graph
   ]
   edge
   [
-    source 123
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 123
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 123
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 125
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 127
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 129
-    target 102
-    rank 11
-  ]
-  edge
-  [
-    source 129
-    target 214
-    rank 3
-  ]
-  edge
-  [
-    source 129
-    target 240
+    source 119
+    target 78
     rank 15
   ]
   edge
   [
-    source 129
-    target 249
-    rank 6
-  ]
-  edge
-  [
-    source 129
-    target 261
-    rank 1
-  ]
-  edge
-  [
-    source 129
-    target 267
-    rank 8
-  ]
-  edge
-  [
-    source 134
-    target 162
-    rank 1
-  ]
-  edge
-  [
-    source 135
-    target 0
-    rank 4
-  ]
-  edge
-  [
-    source 135
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 135
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 137
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 143
-    target 0
-    rank 8
-  ]
-  edge
-  [
-    source 143
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 148
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 148
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 148
-    target 17
+    source 119
+    target 84
     rank 3
   ]
   edge
   [
-    source 149
-    target 0
+    source 119
+    target 120
     rank 2
   ]
   edge
   [
-    source 149
-    target 2
-    rank 5
-  ]
-  edge
-  [
-    source 149
-    target 21
-    rank 19
-  ]
-  edge
-  [
-    source 150
-    target 8
-    rank 2
-  ]
-  edge
-  [
-    source 150
-    target 51
-    rank 1
-  ]
-  edge
-  [
-    source 158
-    target 0
-    rank 10
-  ]
-  edge
-  [
-    source 158
-    target 2
-    rank 8
-  ]
-  edge
-  [
-    source 158
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 162
-    target 0
-    rank 11
-  ]
-  edge
-  [
-    source 167
-    target 35
-    rank 8
-  ]
-  edge
-  [
-    source 167
-    target 174
-    rank 5
-  ]
-  edge
-  [
-    source 167
-    target 186
-    rank 6
-  ]
-  edge
-  [
-    source 168
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 169
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 169
-    target 1
-    rank 3
-  ]
-  edge
-  [
-    source 169
-    target 6
-    rank 7
-  ]
-  edge
-  [
-    source 169
-    target 15
-    rank 13
-  ]
-  edge
-  [
-    source 175
-    target 1
-    rank 4
-  ]
-  edge
-  [
-    source 175
-    target 8
-    rank 1
-  ]
-  edge
-  [
-    source 176
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 176
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 177
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 182
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 182
-    target 2
-    rank 16
-  ]
-  edge
-  [
-    source 182
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 182
-    target 5
-    rank 5
-  ]
-  edge
-  [
-    source 182
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 182
-    target 7
+    source 120
+    target 22
     rank 18
   ]
   edge
   [
-    source 182
-    target 9
-    rank 2
-  ]
-  edge
-  [
-    source 182
-    target 15
-    rank 12
-  ]
-  edge
-  [
-    source 182
-    target 41
-    rank 17
-  ]
-  edge
-  [
-    source 183
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 183
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 186
-    target 24
-    rank 13
-  ]
-  edge
-  [
-    source 187
-    target 0
-    rank 7
-  ]
-  edge
-  [
-    source 187
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 193
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 193
-    target 1
+    source 120
+    target 84
     rank 3
   ]
   edge
   [
-    source 193
-    target 2
-    rank 7
-  ]
-  edge
-  [
-    source 193
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 193
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 197
-    target 0
-    rank 9
-  ]
-  edge
-  [
-    source 198
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 200
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 200
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 200
-    target 261
+    source 121
+    target 54
     rank 4
   ]
   edge
   [
-    source 201
-    target 102
+    source 121
+    target 90
+    rank 8
+  ]
+  edge
+  [
+    source 121
+    target 91
+    rank 15
+  ]
+  edge
+  [
+    source 121
+    target 104
+    rank 3
+  ]
+  edge
+  [
+    source 121
+    target 108
+    rank 6
+  ]
+  edge
+  [
+    source 121
+    target 113
+    rank 2
+  ]
+  edge
+  [
+    source 122
+    target 78
     rank 20
   ]
   edge
   [
-    source 201
-    target 214
+    source 122
+    target 84
     rank 1
   ]
   edge
   [
-    source 201
-    target 240
-    rank 7
-  ]
-  edge
-  [
-    source 201
-    target 249
-    rank 3
-  ]
-  edge
-  [
-    source 201
-    target 261
-    rank 16
-  ]
-  edge
-  [
-    source 201
-    target 283
-    rank 6
-  ]
-  edge
-  [
-    source 214
-    target 240
-    rank 9
-  ]
-  edge
-  [
-    source 214
-    target 261
-    rank 6
-  ]
-  edge
-  [
-    source 214
-    target 283
-    rank 20
-  ]
-  edge
-  [
-    source 215
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 215
-    target 2
-    rank 4
-  ]
-  edge
-  [
-    source 215
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 215
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 215
-    target 118
-    rank 7
-  ]
-  edge
-  [
-    source 215
-    target 237
-    rank 5
-  ]
-  edge
-  [
-    source 216
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 217
-    target 24
-    rank 19
-  ]
-  edge
-  [
-    source 217
-    target 35
-    rank 1
-  ]
-  edge
-  [
-    source 217
-    target 186
-    rank 9
-  ]
-  edge
-  [
-    source 217
-    target 251
-    rank 6
-  ]
-  edge
-  [
-    source 218
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 218
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 218
-    target 7
-    rank 7
-  ]
-  edge
-  [
-    source 218
-    target 41
-    rank 18
-  ]
-  edge
-  [
-    source 218
-    target 237
-    rank 5
-  ]
-  edge
-  [
-    source 223
-    target 174
-    rank 3
-  ]
-  edge
-  [
-    source 223
-    target 233
-    rank 15
-  ]
-  edge
-  [
-    source 224
-    target 92
-    rank 1
-  ]
-  edge
-  [
-    source 228
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 230
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 235
-    target 30
-    rank 1
-  ]
-  edge
-  [
-    source 236
-    target 5
-    rank 3
-  ]
-  edge
-  [
-    source 236
-    target 62
-    rank 5
-  ]
-  edge
-  [
-    source 237
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 237
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 237
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 237
-    target 6
-    rank 4
-  ]
-  edge
-  [
-    source 237
-    target 7
-    rank 18
-  ]
-  edge
-  [
-    source 237
-    target 26
-    rank 5
-  ]
-  edge
-  [
-    source 240
-    target 102
-    rank 5
-  ]
-  edge
-  [
-    source 240
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 240
-    target 261
-    rank 9
-  ]
-  edge
-  [
-    source 241
-    target 174
-    rank 3
-  ]
-  edge
-  [
-    source 245
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 245
-    target 6
-    rank 3
-  ]
-  edge
-  [
-    source 245
-    target 15
-    rank 4
-  ]
-  edge
-  [
-    source 245
-    target 24
-    rank 7
-  ]
-  edge
-  [
-    source 245
-    target 217
-    rank 8
-  ]
-  edge
-  [
-    source 247
-    target 261
-    rank 2
-  ]
-  edge
-  [
-    source 247
-    target 267
-    rank 7
-  ]
-  edge
-  [
-    source 249
-    target 102
-    rank 9
-  ]
-  edge
-  [
-    source 249
-    target 201
-    rank 19
-  ]
-  edge
-  [
-    source 249
-    target 240
-    rank 12
-  ]
-  edge
-  [
-    source 249
-    target 261
-    rank 3
-  ]
-  edge
-  [
-    source 249
-    target 267
-    rank 16
-  ]
-  edge
-  [
-    source 251
-    target 35
-    rank 1
-  ]
-  edge
-  [
-    source 251
-    target 174
-    rank 4
-  ]
-  edge
-  [
-    source 251
-    target 217
-    rank 14
-  ]
-  edge
-  [
-    source 252
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 254
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 254
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 254
-    target 2
-    rank 10
-  ]
-  edge
-  [
-    source 254
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 254
-    target 5
+    source 123
+    target 113
     rank 11
   ]
   edge
   [
-    source 254
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 260
-    target 35
-    rank 1
-  ]
-  edge
-  [
-    source 260
-    target 217
-    rank 7
-  ]
-  edge
-  [
-    source 260
-    target 251
-    rank 2
-  ]
-  edge
-  [
-    source 261
-    target 102
-    rank 12
-  ]
-  edge
-  [
-    source 261
-    target 129
-    rank 6
-  ]
-  edge
-  [
-    source 261
-    target 214
-    rank 1
-  ]
-  edge
-  [
-    source 261
-    target 240
-    rank 18
-  ]
-  edge
-  [
-    source 261
-    target 249
-    rank 16
-  ]
-  edge
-  [
-    source 262
-    target 0
-    rank 4
-  ]
-  edge
-  [
-    source 262
-    target 6
-    rank 2
-  ]
-  edge
-  [
-    source 267
-    target 102
-    rank 7
-  ]
-  edge
-  [
-    source 267
-    target 129
-    rank 8
-  ]
-  edge
-  [
-    source 267
-    target 214
-    rank 5
-  ]
-  edge
-  [
-    source 267
-    target 247
-    rank 2
-  ]
-  edge
-  [
-    source 267
-    target 249
+    source 123
+    target 121
     rank 9
   ]
   edge
   [
-    source 267
-    target 261
-    rank 1
-  ]
-  edge
-  [
-    source 272
-    target 186
-    rank 3
-  ]
-  edge
-  [
-    source 272
-    target 280
-    rank 11
-  ]
-  edge
-  [
-    source 272
-    target 281
-    rank 2
-  ]
-  edge
-  [
-    source 275
-    target 35
-    rank 11
-  ]
-  edge
-  [
-    source 275
-    target 186
-    rank 8
-  ]
-  edge
-  [
-    source 279
+    source 124
     target 0
     rank 1
   ]
   edge
   [
-    source 280
-    target 174
-    rank 15
-  ]
-  edge
-  [
-    source 280
-    target 186
-    rank 3
-  ]
-  edge
-  [
-    source 280
-    target 281
-    rank 2
-  ]
-  edge
-  [
-    source 281
-    target 24
-    rank 18
-  ]
-  edge
-  [
-    source 281
-    target 186
-    rank 3
-  ]
-  edge
-  [
-    source 283
-    target 102
-    rank 4
-  ]
-  edge
-  [
-    source 283
-    target 201
-    rank 8
-  ]
-  edge
-  [
-    source 283
-    target 214
-    rank 15
-  ]
-  edge
-  [
-    source 283
-    target 240
-    rank 3
-  ]
-  edge
-  [
-    source 283
-    target 249
-    rank 6
-  ]
-  edge
-  [
-    source 283
-    target 261
-    rank 2
-  ]
-  edge
-  [
-    source 284
-    target 174
-    rank 20
-  ]
-  edge
-  [
-    source 284
-    target 186
-    rank 1
-  ]
-  edge
-  [
-    source 289
-    target 261
-    rank 11
-  ]
-  edge
-  [
-    source 289
-    target 283
-    rank 9
-  ]
-  edge
-  [
-    source 293
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 293
+    source 124
     target 2
     rank 3
   ]
   edge
   [
-    source 293
+    source 124
     target 4
     rank 8
   ]
   edge
   [
-    source 298
-    target 24
+    source 125
+    target 22
     rank 6
   ]
   edge
   [
-    source 307
-    target 24
+    source 126
+    target 22
     rank 7
   ]
   edge
   [
-    source 307
-    target 186
+    source 126
+    target 84
     rank 8
   ]
   edge
   [
-    source 307
-    target 281
+    source 126
+    target 120
     rank 2
   ]
   edge
   [
-    source 313
-    target 214
+    source 127
+    target 91
     rank 5
   ]
   edge
   [
-    source 313
-    target 240
+    source 127
+    target 104
     rank 10
   ]
   edge
   [
-    source 316
-    target 281
+    source 128
+    target 120
     rank 1
   ]
   edge
   [
-    source 325
+    source 129
     target 0
     rank 3
   ]
   edge
   [
-    source 331
-    target 201
+    source 130
+    target 90
     rank 18
   ]
   edge
   [
-    source 331
-    target 214
+    source 130
+    target 91
     rank 17
   ]
   edge
   [
-    source 331
-    target 240
+    source 130
+    target 104
     rank 8
   ]
   edge
   [
-    source 331
-    target 249
+    source 130
+    target 108
     rank 2
   ]
   edge
   [
-    source 331
-    target 261
+    source 130
+    target 113
     rank 3
   ]
   edge
   [
-    source 336
-    target 24
+    source 131
+    target 22
     rank 3
   ]
   edge
   [
-    source 394
-    target 24
+    source 132
+    target 22
     rank 9
   ]
   edge
   [
-    source 394
-    target 186
+    source 132
+    target 84
     rank 8
   ]
   edge
   [
-    source 395
-    target 21
+    source 133
+    target 20
     rank 9
   ]
   edge
   [
-    source 408
-    target 24
+    source 134
+    target 22
     rank 8
   ]
   edge
   [
-    source 408
-    target 280
+    source 134
+    target 119
     rank 15
   ]
   edge
   [
-    source 485
-    target 174
+    source 135
+    target 78
     rank 3
   ]
 ]

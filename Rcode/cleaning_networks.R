@@ -2,7 +2,10 @@ library('dplyr')
 library('igraph')
 library('textclean')
 library('DescTools')
+library('tidyverse')
+library('here')
 
+here::i_am("README.md")
 
 ## FUNCTIONS ----
 
@@ -16,7 +19,7 @@ clean_network <- function(g){
   # g <- delete_vertices(g, V(g)[V(g)$view_count < 100])
   # # delete vertices with low indegree
   # g <- delete_vertices(g, V(g)[V(g)$indegree > 0])
-  
+
   ## EDGE SELECTION
   # selecting edges
   g <- delete_edges(g, E(g)[E(g)$samechannel == FALSE])
@@ -27,16 +30,16 @@ clean_network <- function(g){
 add_sentiment <- function(g,i){
   perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
   title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
-  
+
   V(g)$sentiment <- NA
-  
+
   for(j in V(g)$label){
     if(length(title_sentiments$sentiment[title_sentiments$id==j]) > 0){
       V(g)$sentiment[V(g)$label == j] <- title_sentiments$sentiment[title_sentiments$id==j]
     }
     #set_vertex_attr(g, "sentiment", )
   }
-  
+
   return(g)
 }
 
@@ -44,7 +47,7 @@ get_network_metadata <- function(g, networkName=NA){
   ## COMPONENT SELECTION
   # identifying components
   components <- components(g)
-  
+
   MD1 <- data.frame(
     name = networkName,
     size_clean = length(V(g)),
@@ -55,17 +58,17 @@ get_network_metadata <- function(g, networkName=NA){
     viewcount_clean = sum(V(g)$view_count),
     gini_clean = Gini(V(g)$view_count)
   )
-  
+
   # selecting largest connected component
   g <- induced_subgraph(g, vids = V(g)[components$membership %in% which.max(components$csize)])
-  
+
   ## COMMUNITY DETECTION
   cl <- cluster_louvain(as.undirected(g))
   V(g)$cluster <- cl$membership
 
   # DEFINE HUBS
   hubs <- V(g)[order(V(g)$indegree,decreasing=T)][1:10]
-  
+
   MD2 <- data.frame(
     no_clusters = length(unique(cl$membership)),
     modularity = cl$modularity[1],
@@ -76,7 +79,7 @@ get_network_metadata <- function(g, networkName=NA){
     avg_sentiment = mean(V(g)$sentiment)
   )
 
-  return(cbind(MD1,MD2))  
+  return(cbind(MD1,MD2))
 }
 
 clean_titles <- function(g){
@@ -91,17 +94,67 @@ clean_descriptions <- function(g){
   # TO DO
 }
 
+add_channel_metadata <- function(g) {
+
+  channel_infos = read_csv(here("data/external/recfluence_channel_review.csv"), show_col_types=F)
+
+  for (node in V(g)) {
+    channel <- V(g)$channel_id[node]
+
+    tags <- channel_infos %>%
+      dplyr::filter(CHANNEL_ID == channel) %>%
+      select(TAGS) %>%
+      pull()
+
+    lr <- channel_infos %>%
+      dplyr::filter(CHANNEL_ID == channel) %>%
+      select(LR) %>%
+      pull()
+
+    if (length(tags) != 0) {
+      tags <- unique(tags)
+      tags <- str_c(tags, collapse=",")
+      V(g)[node]$channeltags <- tags
+    }
+
+    if (length(lr) != 0) {
+      lr <- unique(lr)
+      V(g)[node]$leftright <- lr
+    }
+
+  }
+
+  return(g)
+}
+
+add_sentiment <- function(g,i){
+  perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
+  title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
+  colnames(perspective_data)[colnames(perspective_data)=="video_id"] <- "id"
+  colnames(title_sentiments)[colnames(title_sentiments)=="video_id"] <- "id"
+
+  network_data <- igraph::as_data_frame(g, 'both')
+
+  network_data$vertices <- merge(network_data$vertices, perspective_data, by="id", all.x = TRUE)
+  network_data$vertices <- merge(network_data$vertices, title_sentiments, by="id", all.x = TRUE)
+
+  g <- graph_from_data_frame(network_data$edges[network_data$edges$from %in% network_data$vertices$id | network_data$edges$from %in% network_data$vertices$id,],
+                             directed = T,
+                             vertices = network_data$vertices)
+  return(g)
+}
+
 community_detect_and_select <- function(g){
   ## COMPONENT SELECTION
   # identifying components
   components <- components(g)
   # selecting largest connected component
   g <- induced_subgraph(g, vids = V(g)[components$membership %in% which.max(components$csize)])
-  
+
   ## COMMUNITY DETECTION
   cl <- cluster_louvain(as.undirected(g))
   V(g)$cluster <- cl$membership
-  
+
   return(g)
 }
 
@@ -116,6 +169,7 @@ for(i in network_files) {
   g <- read_graph(paste0("../data/interim/networks/",i), format = "gml")
   g <- clean_network(g)
   g <- add_sentiment(g,i)
+  g <- add_channel_metadata(g)
   md <- rbind(md,get_network_metadata(g, substr(i,1,nchar(i)-4)))
   g <- clean_titles(g)
   g <- community_detect_and_select(g)
@@ -126,5 +180,3 @@ for(i in network_files) {
 ## SAVE METADATA
 
 write.csv(md, file='../data/clean/metadata/metadata_networks.csv', row.names = F)
-
-
