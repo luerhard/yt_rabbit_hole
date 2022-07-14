@@ -88,6 +88,19 @@ ggplot(df, aes(x=category, y=gini, label=name)) +
   ylab('gini of viewcount (LCC)') +
   geom_text(color = '#658DA0', size=3, alpha=1)
 
+ggplot(df, aes(x=category, y=avg_sentiment, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
+  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
+  ylab('average sentiment') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
+
+ggplot(df, aes(x=category, y=hub10_distance, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
+  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
+  ylab('hub distance') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
+
+
 
 ## STATISTICAL MODELS ----
 
