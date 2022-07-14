@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:44:59 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:14 2022"
 Version 1
 graph
 [
@@ -9,7 +9,7 @@ graph
     label "m6kFCNsnQpQ"
     step 0
     date "2011-06-01T09:43:36Z"
-    title "Fear and Loathing in Las Vegas (10/10) Movie CLIP - Too Much Adrenochrome (199 smiley HD"
+    title "Fear and Loathing in Las Vegas (10/10) Movie CLIP - Too Much Adrenochrome (1998) HD"
     description "Fear and Loathing in Las Vegas movie clips: http://j.mp/1yzoXod&#10;BUY THE MOVIE: http://amzn.to/ufvdw9&#10;Don't miss the HOTTEST NEW TRAILERS: http://bit.ly/1u2y6pr&#10;&#10;CLIP DESCRIPTION:&#10;Duke (Johnny Depp) takes too much Adrenochrome while Dr. Gonzo (Benicio Del Toro) gets rid of Lucy.&#10;&#10;FILM DESCRIPTION:&#10;Terry Gilliam (Brazil, Twelve Monkeys, The Fisher King) directed this colorful, stylized, pseudo-psychedelic $21-million adaptation of the 1971 Hunter S. Thompson classic, Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream, about stoned sportswriter Raoul Duke, Thompson's alter ego, on a wild drug-crazed road trip, a paranoid plummet into the belly of the beast, with his pal, lawyer Oscar Zeta Acosta. Originally serialized in Rolling Stone (November 1971), the book catapulted Thompson headfirst toward the Kerouac-Mailer-Capote pantheon and jump-started the entire movement of &#34;gonzo journalism.&#34; Carrying a suitcase of drugs, Raoul Duke (Johnny Depp with shaved pate) and his attorney Dr. Gonzo (Benicio Del Toro) drive a red convertible across the Mojave from L.A. to Vegas, where Duke has an assignment to cover the Mint 400 desert motorcycle race. As the drugs kick in, Duke ventures into voiceover, filling in the blank spots and narrative gaps. &#34;This is not a good town for psychedelic drugs,&#34; says Duke, but even so, they consume vast quantities, eventually escalating to ether. Duke notes that with ether &#34;you can actually watch yourself behaving this terrible way, but you can't control it.&#34; The two trash their hotel room, and Gonzo goes back to L.A. Thinking the hotel room holocaust will lead to an arrest, Duke begins a drive back to L.A., but after an odd encounter with a highway patrolman (Gary Busey) and a telephone conversation with Gonzo, he returns to Vegas to cover the District Attorney Convention on Narcotics and Dangerous Drugs in the glitzy Flamingo Hotel. This time the drugged-out duo trash their Flamingo room. The crazed carnival atmosphere segues into a carney casino, Bazooko's Circus, where a barker (Penn Jillette) spiels amid aerialists, clowns, and a rotating carousel bar. Gonzo worries over runaway teen Lucy (Christina Ricci), who paints portraits of Barbra Streisand. Soon the hallucinations begin: Duke sees Gonzo transmogrify into a demon with breasts on its back, and an acid vision of a Vegas bar features large legit lounge lizards (courtesy of monster makeup man Rob Bottin). Flashbacks depicting Duke's intro to the drug scene jump back to love-Haight relationships in San Francisco's Summer of Love. Cameos and guest stars include Mark Harmon, Cameron Diaz, Flea, Lyle Lovett, Harry Dean Stanton, Ellen Barkin, Tobey Maguire, and Hunter S. Thompson himself. The film features a Geffen Records soundtrack mixing rock of the period with Vegas lounge tunes. Over the years, various script adaptations came and went as did numerous talents; people connected with past efforts to film Thompson's book include Martin Scorsese, Jack Nicholson, Dan Aykroyd, John Belushi, and writer-director Alex Cox. Shown in competition at the 1998 Cannes Film Festival.&#10;&#10;CREDITS:&#10;TM &#38; &#169; Universal (1998)&#10;Cast: Johnny Depp, Benicio Del Toro&#10;Director: Terry Gilliam&#10;Producers: Harold Bronson, Patrick Cassavetti, Richard Foos, John Jergens, Laila Nabulsi, Stephen Nemeth, Elliot Lewis Rosenblatt&#10;Screenwriters: Hunter S. Thompson, Terry Gilliam, Tony Grisoni, Tod Davies, Alex Cox&#10;&#10;WHO ARE WE?&#10;The MOVIECLIPS channel is the largest collection of licensed movie clips on the web. Here you will find unforgettable moments, scenes and lines from all your favorite films. Made by movie fans, for movie fans.&#10;&#10;SUBSCRIBE TO OUR MOVIE CHANNELS:&#10;MOVIECLIPS: http://bit.ly/1u2yaWd&#10;ComingSoon: http://bit.ly/1DVpgtR&#10;Indie &#38; Film Festivals: http://bit.ly/1wbkfYg&#10;Hero Central: http://bit.ly/1AMUZwv&#10;Extras: http://bit.ly/1u431fr&#10;Classic Trailers: http://bit.ly/1u43jDe&#10;Pop-Up Trailers: http://bit.ly/1z7EtZR&#10;Movie News: http://bit.ly/1C3Ncd2&#10;Movie Games: http://bit.ly/1ygDV13&#10;Fandango: http://bit.ly/1Bl79ye&#10;Fandango FrontRunners: http://bit.ly/1CggQfC&#10;&#10;HIT US UP:&#10;Facebook: http://on.fb.me/1y8M8ax&#10;Twitter: http://bit.ly/1ghOWmt&#10;Pinterest: http://bit.ly/14wL9De&#10;Tumblr: http://bit.ly/1vUwhH7"
     channeltitle "Movieclips"
     channelid "UC3gNmTGu-TTbFPpfSs5kNkg"
@@ -181,7 +181,7 @@ graph
     commentcount 0
     duration "PT5M51S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 0
     duration "PT4M2S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -243,7 +243,7 @@ graph
     label "9Om51NLL4UI"
     step 0
     date "2020-09-16T05:58:38Z"
-    title "CBI Enquiry Day 26: How Salman Khan Extract from Child Trafficking -Vibhor Anand"
+    title "CBI Enquiry Day 26: How Salman Khan Extract  from Child Trafficking -Vibhor Anand"
     description "Subscribe us: https://bit.ly/30g0IiZ Thank you for your support.&#10;&#10;Check CBI Case daily Updates: https://bit.ly/3bPhFFg &#10;#SalmanKhan #SushantSinghRajput #Darkweb&#10;&#10;CBI Enquiry Day 26: How Salman Khan Extract &#34;Adrenochrome Drug&#34; from Child Trafficking exposed by Vibhor Anand&#10;-Advocate Vibhor Anand reveals about sushant murder in Dark web, drugs, disha murder, Sushant's last moment &#10;-Jaya Baachan support for Bollywood&#10;&#10;Instagram: https://www.instagram.com/cinesamugam/?hl=en&#10;Twitter: https://twitter.com/cinesamugam&#10;Pinterest: https://www.pinterest.co.uk/tamilcinemaking/"
     channeltitle "Cine Samugam"
     channelid "UCebODn_sBnUkbHF4hchpnLQ"
@@ -253,7 +253,7 @@ graph
     commentcount 419
     duration "PT16M38S"
     indegree 4
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 3244
     duration "PT11M26S"
     indegree 6
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 24
     duration "PT3M"
     indegree 14
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -297,7 +297,7 @@ graph
     label "weq5GSakK7g"
     step 0
     date "2012-02-28T21:13:55Z"
-    title "Applaud The Impaler - (Official Music Video)"
+    title "Applaud The Impaler -  (Official Music Video)"
     description "Applaud The Impaler &#34;Adrenochrome&#34; video taken from their debut release Anthropophagi.&#10;www.indiemerch.com/uniqueleader/band/applaud-the-impaler&#10;https://itunes.apple.com/us/artist/applaud-the-impaler/id403868498"
     channeltitle "Unique Leader Records"
     channelid "UC-6umqcTBkl9IH4Z8Z-O1jg"
@@ -325,7 +325,7 @@ graph
     commentcount 15699
     duration "PT13M37S"
     indegree 43
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 20
     duration "PT17M40S"
     indegree 7
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount 90
     duration "PT7M34S"
     indegree 44
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount 172
     duration "PT2M58S"
     indegree 14
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -433,7 +433,7 @@ graph
     commentcount 2
     duration "PT1M5S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -451,7 +451,7 @@ graph
     commentcount 62
     duration "PT25M12S"
     indegree 20
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 2
     duration "PT2M5S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount 1
     duration "PT7M9S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -523,7 +523,7 @@ graph
     commentcount 0
     duration "PT5M50S"
     indegree 0
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -541,7 +541,7 @@ graph
     commentcount 0
     duration "PT8M11S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -559,7 +559,7 @@ graph
     commentcount 16
     duration "PT3M17S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 25
     duration "PT3M15S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 114
     duration "PT6M27S"
     indegree 8
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 6
     duration "PT3M29S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount -1
     duration "PT2M19S"
     indegree 15
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 1
     duration "PT3M35S"
     indegree 15
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 48
     duration "PT3M4S"
     indegree 9
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 3
     duration "PT20M13S"
     indegree 1
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 0
     duration "PT3M6S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -811,7 +811,7 @@ graph
     commentcount 0
     duration "PT7M29S"
     indegree 1
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 0
     duration "PT46S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -837,7 +837,7 @@ graph
     label "Y-Yat-F8Ujs"
     step 0
     date "2008-04-16T02:12:24Z"
-    title "Sisters of mercy - Teachers and Adrenochrome"
+    title "Sisters of mercy - Teachers  and Adrenochrome"
     description "I met a man who lost his mind&#13;&#10;In some lost place I had to find&#13;&#10;Follow me the wise man said&#13;&#10;But he walked behind&#13;&#10;&#13;&#10;I walked into a hospital&#13;&#10;Where none were sick and none was well,&#13;&#10;When at night the Sisters left&#13;&#10;I could not walk at all.&#13;&#10;&#13;&#10;Some girls wander by mistake&#13;&#10;Into the mess that scalpals make.&#13;&#10;Are you the teachers of my heart&#13;&#10;We teach old hearts to break.&#13;&#10;&#13;&#10;A met a woman long ago&#13;&#10;Her hair the black the black can go&#13;&#10;Are you the teacher of the heart?&#13;&#10;Soft she whispered, no&#13;&#10;&#13;&#10;I met a girl across the sea,&#13;&#10;Her hair the gold that gold could be.&#13;&#10;Are you the teacher of the heart?&#13;&#10;Yes, but not for thee.&#13;&#10;&#13;&#10;I spent my hatred every place,&#13;&#10;On every work, on every face&#13;&#10;Is my passion perfect,&#13;&#10;No! Do it once again.&#13;&#10;&#13;&#10;Oh teachers are my lessons done?&#13;&#10;I cannot do another one,&#13;&#10;They laughed and laughed and laughed and said,&#13;&#10;Child are your lessons done?&#13;&#10;&#13;&#10;I was handsome, I was strong,&#13;&#10;I knew the words of every song&#13;&#10;Did my singing please you?&#13;&#10;No, the words you sang were wrong &#13;&#10;&#13;&#10;------------------------------------&#13;&#10;&#13;&#10;We&#65533;ll turn away in a passive decision&#13;&#10;We&#65533;ll take the steps through the unmarked door&#13;&#10;A look back for another collision&#13;&#10;But the boys of the spires&#13;&#10;Are boys no more&#13;&#10;&#13;&#10;Not black and red boys&#13;&#10;Frightened by the night&#13;&#10;By the catholic monochrome&#13;&#10;The catholic girls now&#13;&#10;Stark in their dark and white&#13;&#10;Dread in monochrome&#13;&#10;The sisters of mercy&#13;&#10;High tide&#13;&#10;Wide eyed&#13;&#10;Sped on adrenochrome&#13;&#10;For the sisters of mercy&#13;&#10;Filled with&#13;&#10;Panic in their eyes&#13;&#10;Rise&#13;&#10;Dead on adrenochrome&#13;&#10;&#13;&#10;We had the power&#13;&#10;We had the space&#13;&#10;We had a sense of time and place&#13;&#10;We knew the words&#13;&#10;We knew the score&#13;&#10;We knew what we were fighting for&#13;&#10;For the freedom&#13;&#10;The time to choose&#13;&#10;But time to think&#13;&#10;Is time to lose&#13;&#10;The signals clash&#13;&#10;And disappear&#13;&#10;The shade too loud&#13;&#10;And the sound unclear&#13;&#10;For the&#13;&#10;&#13;&#10;High tide&#13;&#10;Wide eyed&#13;&#10;Dread in monochrome&#13;&#10;Denied in spite&#13;&#10;Disliked in monochrome&#13;&#10;Panic in their eyes&#13;&#10;Rise&#13;&#10;Dead and monochrome&#13;&#10;The sisters of mercy&#13;&#10;Spite&#13;&#10;On adrenochrome&#13;&#10;&#13;&#10;The way is clear&#13;&#10;The road is closed&#13;&#10;The damage done&#13;&#10;And the course&#13;&#10;Imposed you"
     channeltitle "verrybadman"
     channelid "UCYKzwF5z7K5rJh6Ks2CqMhw"
@@ -847,7 +847,7 @@ graph
     commentcount 29
     duration "PT6M48S"
     indegree 5
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount 0
     duration "PT46S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount 0
     duration "PT5M31S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount 0
     duration "PT4M"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 2
     duration "PT7M12S"
     indegree 2
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -999,7 +999,7 @@ graph
     label "kBrtrFTzzcE"
     step 0
     date "2017-12-22T15:38:31Z"
-    title "THE SISTERS OF MERCY HQ AUDIO"
+    title "THE SISTERS OF MERCY  HQ AUDIO"
     description "&#34; I don't own any of this. No infringement intended. Non-profit use.&#34;&#10;&#10;TRACKLIST &#127925;&#9658;&#10;00:00  Body Electric&#10;04:18  Adrenochrome"
     channeltitle "Ani Malet NEW"
     channelid "UCxcZnJnhE9MUV8RMKbcS1qQ"
@@ -1009,7 +1009,7 @@ graph
     commentcount 3
     duration "PT7M17S"
     indegree 2
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 4
     duration "PT20M39S"
     indegree 6
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 0
     duration "PT6M26S"
     indegree 18
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 1
     duration "PT7M40S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1125,7 +1125,7 @@ graph
     label "KndylQiVD_A"
     step 0
     date "2016-11-28T04:44:55Z"
-    title "ADRENOCHROME Movie Official Teaser Trailer #1 (2017) Action Horror"
+    title "ADRENOCHROME  Movie Official Teaser Trailer #1 (2017) Action Horror"
     description "Watch the movie  https://www.amazon.com/Adrenochrome-Trevor-Simms/dp/B078WFQ9S9&#10;&#10;subscribe= https://www.youtube.com/subscription_center?add_user=trevorsimms&#10;&#10;https://www.facebook.com/adrenochromemovie/"
     channeltitle "Trevor Simms"
     channelid "UChonncuU36suXoDSBLFtrvQ"
@@ -1135,7 +1135,7 @@ graph
     commentcount 75
     duration "PT2M10S"
     indegree 16
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 0
     duration "PT1M"
     indegree 45
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -1189,7 +1189,7 @@ graph
     commentcount 2
     duration "PT5M32S"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 3
     duration "PT3M20S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1215,7 +1215,7 @@ graph
     label "Aq8I63bcS9k"
     step 0
     date "2016-09-07T15:23:33Z"
-    title "THE SISTERS OF MERCY - single 1982"
+    title "THE SISTERS OF MERCY -  single 1982"
     description "7&#34; single - CNT Productions &#8206;(CNT 002) - Leeds, England,1982&#10;Tracklist&#10;A  -  Body Electric&#10;AA- Adrenochrome"
     channeltitle "RnRRaul"
     channelid "UCtN3XatZ9Svi9NueUZ1XZ5Q"
@@ -1225,7 +1225,7 @@ graph
     commentcount 21
     duration "PT7M16S"
     indegree 6
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 8
     duration "PT2M44S"
     indegree 14
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 27
     duration "PT6M50S"
     indegree 7
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount 66
     duration "PT1M51S"
     indegree 2
-    cluster 11
+    cluster 5
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount -1
     duration "PT51S"
     indegree 33
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount 331
     duration "PT2M59S"
     indegree 10
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "bdfPanvCn1o"
     step 0
     date "2021-06-30T21:00:06Z"
-    title "ADRENOCHROME - POR ISSO QUE ELES NAO ENVELHECEM"
+    title "ADRENOCHROME -  POR ISSO QUE ELES NAO ENVELHECEM"
     description "Instagram: @omarcelomilos&#10;Twitter: @omarcelomilos&#10;Email para contato: contatonaoadivinho@gmail.com&#10;&#10;Edi&#231;&#227;o:@flashinhoo&#10;Roteiro: @omarcelomilos&#10;Thumb: @maferrera_"
     channeltitle "N&#227;o Adivinho "
     channelid "UCtjGoeeemrRzYxUAGSXQb7g"
@@ -1423,7 +1423,7 @@ graph
     commentcount 0
     duration "PT4M1S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -1441,7 +1441,7 @@ graph
     commentcount 3
     duration "PT6M3S"
     indegree 3
-    cluster 8
+    cluster 1
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 82
     duration "PT4M33S"
     indegree 3
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1477,7 +1477,7 @@ graph
     commentcount 8
     duration "PT54S"
     indegree 50
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 0
     duration "PT2M56S"
     indegree 20
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 4
     duration "PT4M6S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 38
     duration "PT13M10S"
     indegree 14
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 0
     duration "PT3M15S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 6
     duration "PT20S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 0
     duration "PT1M51S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 617
     duration "PT12M2S"
     indegree 0
-    cluster 11
+    cluster 5
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 1
     duration "PT24S"
     indegree 1
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 36
     duration "PT6M5S"
     indegree 2
-    cluster 11
+    cluster 5
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 3
     duration "PT3M12S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 0
     duration "PT2M58S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -1719,7 +1719,7 @@ graph
     label "eYhh5-N-hlw"
     step 0
     date "2020-11-06T05:00:34Z"
-    title "ANCIENT (Official Video)"
+    title "ANCIENT  (Official Video)"
     description "#MOSTANCIENT The Album !! NOW AVAILABLE EVERYWHERE!! GET THE ALBUM HERE: https://mostancient.hearnow.com&#10;&#10;#STRONGARMMUSICGROUP LL(C) *2020*&#10;&#10;Instagram: https://www.instagram.com/ancient_the_architect/&#10;&#10;&#128253; Video :Jayfilmz &#10;Producer: Hippie Rockso&#10;Engineer: Hebrew Beatz &#10;Location: Hartford, CT&#10;Album: MOST ANCIENT&#10;Track 1 : ADRENOCHROME"
     channeltitle "Strong Arm Music Group"
     channelid "UCIqgaHrKpSoNkvfgvf2IUBQ"
@@ -1729,7 +1729,7 @@ graph
     commentcount 8
     duration "PT3M6S"
     indegree 2
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 3
     duration "PT2M43S"
     indegree 31
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 9
     duration "PT3M23S"
     indegree 2
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 4
     duration "PT8M56S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 0
     duration "PT3M41S"
     indegree 15
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1837,7 +1837,7 @@ graph
     commentcount 0
     duration "PT3M17S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 70
     duration "PT31S"
     indegree 39
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 2
-    cluster 10
+    cluster 6
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 7
     duration "PT2M2S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 2
     duration "PT1M49S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 0
     duration "PT5M39S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -1945,7 +1945,7 @@ graph
     commentcount 26
     duration "PT2M1S"
     indegree 12
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 907
     duration "PT29M1S"
     indegree 19
-    cluster 10
+    cluster 5
   ]
   node
   [
@@ -1981,7 +1981,7 @@ graph
     commentcount 153
     duration "PT3M21S"
     indegree 19
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 0
     duration "PT5M48S"
     indegree 9
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 0
     duration "PT4M12S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 1
     duration "PT2M58S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 6
     duration "PT4M33S"
     indegree 1
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2143,7 +2143,7 @@ graph
     commentcount 23
     duration "PT3M2S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2151,7 +2151,7 @@ graph
     label "ylMG79DyRGQ"
     step 0
     date "2020-10-17T14:30:07Z"
-    title "Alex Jones Democrat Adrenochrome cult! [Super human abilities from childs blood?!]"
+    title "Alex Jones  Democrat Adrenochrome cult! [Super human abilities from childs blood?!]"
     description "The man with the smoothest ad pivots around returns to classic form!&#10;&#10;Click&#9660;&#10;If you enjoy what you see and hear don't feel shy about subscribing, liking or sharing our channel. Our main channel dedicated to political comedy is: http://www.youtube.com/theserfstv&#10;Edited by Olive (please visit her Twitter!): https://twitter.com/olivemaybe&#10;Cover art by Kyle G: https://twitter.com/ItIsMeKyleG&#10;We broadcast live 5 days a week on TWITCH. Come join us and if you have Amazon Prime you can subscribe for free and help support the show.&#10;&#10;&#9658;TWITCH - http://www.twitch.tv/theserfstv&#10;&#9658;TWITTER - http://www.twitter.com/theserfstv&#10;&#9658;INSTAGRAM - https://www.instagram.com/theserfstv&#10;&#9658;SOUNDCLOUD - https://soundcloud.com/theserfstv&#10;&#9658;DISCORD - https://discord.gg/BztHb9M&#10;&#9658;REDDIT - https://www.reddit.com/r/theserfstv&#10;&#9658;OG WEBSITE - https://www.weareserfs.com&#10;&#10;Support the Serfs&#10;&#9658;PATREON - http://www.patreon.com/theserfs&#10;&#9658;MERCH - https://streamlabs.com/theserfstv1/merch&#10;&#10;or use The Serfs affiliate link to buy anything: http://www.amazon.ca/?tag=marxcapital-20&#10;&#9658;DISCORD - https://discord.gg/P9T9Z3fUrG&#10;&#9658;REDDIT - https://www.reddit.com/r/theserfstv&#10;&#9658;OG WEBSITE - https://www.weareserfs.com&#10;&#10;Support the Serfs&#10;&#9658;PATREON - http://www.patreon.com/theserfs&#10;&#9658;MERCH - https://streamlabs.com/theserfstv1/merch&#10;&#9658;BITCOIN - 3FxZvUqBiXN9ZJ7KGETo81KgK1WFHykKZQ&#10;&#9658;LITECOIN - MNyAmy6rbv3H8VavFeZSqeQ1Ahw3hEfj2Y&#10;&#9658;ETHERIUM - 0x9D7F5eCA542181437340FD07C91494F0a2697Ff1&#10;&#10;&#10;or use The Serfs affiliate link to buy anything: http://www.amazon.ca/?tag=marxcapital-20&#10;&#10;HARASSMENT NOTICE:&#10;This channel does not support or condone the harassment or brigading of any of the content creators we review or criticize. We provide commentary and criticism of their work and do not condone attacking or doxing in any way shape or form. While we have automatic filters on our comments for hate speech we do not control or endorse whatever public posts made on this channel. &#10;&#10;&#10;&#9658;TWITCH - http://www.twitch.tv/theserfstv&#10;&#9658;TWITTER - http://www.twitter.com/theserfstv&#10;&#9658;INSTAGRAM - https://www.instagram.com/theserfstv&#10;&#9658;SOUNDCLOUD - https://soundcloud.com/theserfstv &#10;&#9658;DISCORD - https://discord.gg/P9T9Z3fUrG&#10;&#9658;REDDIT - https://www.reddit.com/r/theserfstv&#10;&#9658;OG WEBSITE - https://www.weareserfs.com&#10;&#10;Support the Serfs&#10;&#9658;PATREON - http://www.patreon.com/theserfs&#10;&#9658;MERCH - https://streamlabs.com/theserfstv1/merch&#10;&#9658;BITCOIN - 3FxZvUqBiXN9ZJ7KGETo81KgK1WFHykKZQ&#10;&#9658;LITECOIN - MNyAmy6rbv3H8VavFeZSqeQ1Ahw3hEfj2Y&#10;&#9658;ETHERIUM - 0x9D7F5eCA542181437340FD07C91494F0a2697Ff1&#10;&#10;&#10;or use The Serfs affiliate link to buy anything: http://www.amazon.ca/?tag=marxcapital-20&#10;&#10;HARASSMENT NOTICE:&#10;This channel does not support or condone the harassment or brigading of any of the content creators we review or criticize. We provide commentary and criticism of their work and do not condone attacking or doxing in any way shape or form. While we have automatic filters on our comments for hate speech we do not control or endorse whatever public posts made on this channel."
     channeltitle "The Serf Times"
     channelid "UCm7Dm_26h4qkhlNCRJSctBw"
@@ -2161,7 +2161,7 @@ graph
     commentcount 349
     duration "PT23M23S"
     indegree 31
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 0
     duration "PT1M7S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 7
     duration "PT1M36S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -2233,7 +2233,7 @@ graph
     commentcount 4
     duration "PT20S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 3
     duration "PT1M58S"
     indegree 19
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 4
     duration "PT30S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 1
     duration "PT12S"
     indegree 4
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 0
     duration "PT1H3M44S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 1
     duration "PT3M7S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 10
     duration "PT2M23S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 4
     duration "PT8M39S"
     indegree 0
-    cluster 12
+    cluster 1
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 0
     duration "PT4M36S"
     indegree 0
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -2457,7 +2457,7 @@ graph
     label "5550Qo-U8ew"
     step 0
     date "2022-05-14T20:07:10Z"
-    title "OLD FUTURE - (instrumental) (Stoupe type beat)"
+    title "OLD FUTURE -  (instrumental) (Stoupe type beat)"
     description "Track 1 off  &#34;ADRENOCHROME&#34; (2022)"
     channeltitle "Out To Launch Productions"
     channelid "UCQQGesXYiXa_SmCBAUEexRw"
@@ -2485,7 +2485,7 @@ graph
     commentcount 5
     duration "PT39S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 103
     duration "PT1M36S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 0
     duration "PT9M32S"
     indegree 21
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2539,7 +2539,7 @@ graph
     commentcount 54
     duration "PT6M44S"
     indegree 12
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 2
     duration "PT23S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2593,7 +2593,7 @@ graph
     commentcount 0
     duration "PT3M16S"
     indegree 0
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 2
     duration "PT1H36M40S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2665,7 +2665,7 @@ graph
     commentcount 14
     duration "PT1M48S"
     indegree 34
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -2673,7 +2673,7 @@ graph
     label "4tLWMqSxUhE"
     step 0
     date "2020-05-31T06:09:47Z"
-    title "Porphyria - Vampires Adrenochrome"
+    title "Porphyria - Vampires  Adrenochrome"
     description "porphyria cutanea tarda + C&#8329;H&#8329;NO&#8323;&#10;6 gorillion views and I'll finish it"
     channeltitle "Sebastien Engelhardt"
     channelid "UC5xCpJPJKlunooWGG1EhPHw"
@@ -2683,7 +2683,7 @@ graph
     commentcount 5
     duration "PT3M11S"
     indegree 1
-    cluster 9
+    cluster 8
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 10
     duration "PT8M49S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 51
     duration "PT1M37S"
     indegree 1
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2727,7 +2727,7 @@ graph
     label "zCaKRUcSNPU"
     step 0
     date "2021-04-17T20:44:49Z"
-    title "Actor Jim Caviezel at the conference talks about adrenochrome."
+    title "Actor Jim Caviezel at the conference  talks about adrenochrome."
     description "Actor Jim Caviezel at the conference &#34;Health and Freedom&#34; talks about adrenochrome, and also talks about the film &#34;The Sound of Freedom&#34;, which is due to be released soon:&#10;&#10;- 4,500 people in the audience, half a million online (note: millions of viewers will watch it on the record). Can you explain to people what it means (adrenochrome)? Because many people have already heard about it, and we need to discuss it.&#10;&#10;&#34;I'll simplify it. When you experience fear, adrenaline is released into your bloodstream. When a child knows that he is about to be killed, his blood is filled with adrenaline. Even if I'd never seen it, and only heard the screams... This is the worst thing that can happen. This is unthinkable. And these people... There will be no mercy for them.&#10;&#10;#JimCaviezel #SoundOfFreedom"
     channeltitle "Mitch Smoove Show"
     channelid "UCm1CLzILKOw2_I1LYNBkIyw"
@@ -2737,7 +2737,7 @@ graph
     commentcount 251
     duration "PT4M3S"
     indegree 30
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 36
     duration "PT5M47S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2781,7 +2781,7 @@ graph
     label "9UcF0slpKA4"
     step 0
     date "2021-01-18T16:02:25Z"
-    title "Hurricane Joe Adrenochrome"
+    title "Hurricane Joe  Adrenochrome"
     description "Music by Hurricane Joe for Narco Entertainment&#10;Vokills by Bully the bastard"
     channeltitle "Hurricane Joe"
     channelid "UCwl0ic2T_zv89w13XABrzFA"
@@ -2791,7 +2791,7 @@ graph
     commentcount 0
     duration "PT4M17S"
     indegree 17
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2799,7 +2799,7 @@ graph
     label "lxrjv_p3wpA"
     step 0
     date "2018-02-10T16:23:02Z"
-    title "Making of aka Misirlou movie"
+    title "Making of  aka Misirlou movie"
     description "Full movie is now available to stream at: http://a.co/1H2JoDg"
     channeltitle "Trevor Simms"
     channelid "UChonncuU36suXoDSBLFtrvQ"
@@ -2845,7 +2845,7 @@ graph
     commentcount 0
     duration "PT2M15S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 0
     duration "PT2M52S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 1
     duration "PT11S"
     indegree 2
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount 0
     duration "PT7M25S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2971,7 +2971,7 @@ graph
     commentcount 2
     duration "PT2M1S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 5
     duration "PT24M11S"
     indegree 16
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 1
     duration "PT24S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 3
     duration "PT1H29M52S"
     indegree 24
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 164
     duration "PT1H10M58S"
     indegree 0
-    cluster 8
+    cluster 7
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 10
     duration "PT14M18S"
     indegree 15
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount 170
     duration "PT6M30S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3177,7 +3177,7 @@ graph
     label "ZASV6FtIgxo"
     step 0
     date "2021-11-28T11:46:46Z"
-    title "Adrenochrome e tongue sticking out lained in 2007 show Inspector Lewis, season one, episode one."
+    title "Adrenochrome explained in 2007 show Inspector Lewis, season one, episode one."
     description "Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research, etc"
     channeltitle "The Hit Lister"
     channelid "UC7G2_1dWdQAQDw5sg-I5EDQ"
@@ -3187,7 +3187,7 @@ graph
     commentcount 3
     duration "PT1M36S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3195,7 +3195,7 @@ graph
     label "9YL9Njk82iY"
     step 0
     date "2016-08-15T03:22:55Z"
-    title " (201 smiley MOVIE TRAILER"
+    title " (2018) MOVIE TRAILER"
     description "Watch the movie here: http://a.co/ipaaFsh"
     channeltitle "Chilla Network"
     channelid "UCrrJI2luzUh4ytd9Nfbq2Yw"
@@ -3241,7 +3241,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -3259,7 +3259,7 @@ graph
     commentcount 20
     duration "PT13M26S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3267,7 +3267,7 @@ graph
     label "F-1CypDZnt0"
     step 0
     date "2021-04-21T03:26:35Z"
-    title "Toe Dropping! Media ~ Jim Caviezal on - Passion of Christ"
+    title "Toe Dropping! Media ~ Jim Caviezal on  - Passion of Christ"
     description ""
     channeltitle "Raj Habid"
     channelid "UClneXkng65r0p4ROWi99ovg"
@@ -3277,7 +3277,7 @@ graph
     commentcount 4
     duration "PT2M21S"
     indegree 1
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 0
     duration "PT3M52S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 0
     duration "PT2M15S"
     indegree 0
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 0
     duration "PT1M47S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3385,7 +3385,7 @@ graph
     commentcount 3
     duration "PT1H1M28S"
     indegree 2
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 3
     duration "PT59S"
     indegree 0
-    cluster 3
+    cluster 10
   ]
   node
   [
@@ -3411,7 +3411,7 @@ graph
     label "3oOVA9rIpxA"
     step 0
     date "2020-06-20T07:19:00Z"
-    title "Nick Fuentes e tongue sticking out lains conspiracy theories (Poison the Wells, Adrenochrome) on TikTok Zoom Call"
+    title "Nick Fuentes explains conspiracy theories (Poison the Wells, Adrenochrome) on TikTok Zoom Call"
     description "Adrenochrome. &#10;&#10;Discord: Aleczaender#3086&#10;Twitter: https://twitter.com/aleczaender&#10;Telegram: https://t.me/ZoomerAleczaender&#10;Gab: https://gab.com/Aleczaender&#10;Alt: https://www.youtube.com/channel/UCzcx9WELPiqtW13z6Ww4lCQ"
     channeltitle "Zoomer Content"
     channelid "UCefl8NxGCklmljTRAtEaxag"
@@ -3421,7 +3421,7 @@ graph
     commentcount 11
     duration "PT6M33S"
     indegree 4
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount 0
     duration "PT1M28S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 98
     duration "PT3M34S"
     indegree 2
-    cluster 3
+    cluster 10
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 0
     duration "PT4M"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount 8
     duration "PT3M35S"
     indegree 7
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount 0
     duration "PT19S"
     indegree 5
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 0
     duration "PT2M23S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 2
     duration "PT32S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3655,7 +3655,7 @@ graph
     commentcount 0
     duration "PT3M14S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 3
     duration "PT4M46S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 7
     duration "PT44S"
     indegree 3
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 0
     duration "PT9M21S"
     indegree 2
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 0
     duration "PT1M17S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -3807,7 +3807,7 @@ graph
     label "Tp0cejmwRPM"
     step 0
     date "2022-06-09T08:30:12Z"
-    title "ADRENOCHROME E tongue sticking out OSED PART III"
+    title "ADRENOCHROME EXPOSED PART III"
     description "Fuck the queen Hollywood and Joker &#10;Also how bout yall type George Floyd in the gematrinator &#10;https://twitter.com/CBSSunday that sun got panda eyes plus you looking like a lizard"
     channeltitle "Cookin-J"
     channelid "UCh9mJyemfjra_v0_LcE9crQ"
@@ -3817,7 +3817,7 @@ graph
     commentcount 1
     duration "PT2M24S"
     indegree 7
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount 2
     duration "PT58S"
     indegree 0
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 0
     duration "PT1M30S"
     indegree 0
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -3871,7 +3871,7 @@ graph
     commentcount 0
     duration "PT2M51S"
     indegree 7
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 1
     duration "PT4M31S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 30
     duration "PT2M19S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 6
     duration "PT10M15S"
     indegree 5
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 4
     duration "PT30S"
     indegree 24
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -3987,7 +3987,7 @@ graph
     label "0h3yhNjNwos"
     step 0
     date "2021-04-29T05:00:00Z"
-    title "Adrenochrome Elite Blood Suckers Hunter S Thompson | Ep61 Steve Chrome"
+    title "Adrenochrome Elite Blood Suckers  Hunter S Thompson | Ep61 Steve Chrome"
     description "Adrenochrome Elite Blood Suckers &#38; Hunter S Thompson Ep61 Steve Chrome.&#10;Steve began his life in music putting on Smokescreen parties in the woods in the very early 90&#8217;s and has continued to make fantastic music while maintaining the DIY ethics that made music great once upon a time.&#10;There is an exclusive first play of our next single &#8216;Fear &#38; Loathing&#8217; released May 7th 2021&#10;We get DEEP into music and the namesake ANDRENACHROME we address the blood drinking elite and all the other mystery behind the name.&#10;&#10;SHOW LINKS &#10;Subscribe to Andrenachromes Youtube channel: https://www.youtube.com/channel/UCIQB...&#10;Follow: Andrenachrome&#10;http://www.andrenachrome.com&#10;Twitter: https://mobile.twitter.com/andrenachr...&#10;Facebook: https://www.facebook.com/andrenachrome1/&#10;Instagram: https://www.instagram.com/andrenachro...&#10;&#10;Order:&#10;Spotify: https://open.spotify.com/artist/75P7W...&#10;iTunes: https://music.apple.com/gb/artist/and...&#10;&#10;Credits: Produced by Andrenachrome  -Sam Souls Steve Chrome&#10;Audio: Mixed &#38; Mastered by George Shilling http://www.georgeshilling.com&#10;&#10;Find Out Whats Actually Happening in the Uk:&#10;***UK COLUMN***: &#10;https://www.youtube.com/user/ukcolumn&#10;&#10;Podbible Magazine:&#10;https://podbiblemag.com/&#8203;&#8203;&#8203;&#10;&#10;PRODUCTION:&#10;Aidan Turner inceres: http://inceres.co.uk/Entrance/&#8203;&#8203;&#8203;&#10;&#10;SUBSCRIBE &#38; LISTEN: to Chew The Chat Podcast HERE:&#10;WEBSITE: https://chewthechat.com/&#10;INSTAGRAM: https://www.instagram.com/chewthechatpodcast/&#10;&#10;APPLE: https://podcasts.apple.com/gb/podcast/chew-the-chat-podcast-with-sam-souls/id1474055505&#10;SPOTIFY: https://open.spotify.com/show/0KdbTGauvrpAmo0C3RGt17&#10;ANCHOR: https://anchor.fm/chew-the-chat-podcast/episodes/Ep26-Connor-Hazelwood---Chew-The-Chat-Podcast-with-Sam-Souls-eii9li&#10;ACAST: https://play.acast.com/s/chewthechatp&#8203;&#8203;&#8203;...&#10;EMAIL: hello@chewthechat.com&#10;&#10;QUESTION &#8212; Have a question about topics, stories, appearances, or Anything Else? &#10;Post in comments section of this video!"
     channeltitle "Chew The Chat Podcast With Sam Souls"
     channelid "UCwh7lNk8x0Tm5DHuJzWrGtQ"
@@ -4015,7 +4015,7 @@ graph
     commentcount 0
     duration "PT10S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount -1
     duration "PT1M1S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -4041,7 +4041,7 @@ graph
     label "HuzGOWJEPVI"
     step 0
     date "2022-06-05T17:40:42Z"
-    title "How Hollywood Stars Stay Looking Young - Ep 2"
+    title "How Hollywood Stars Stay Looking Young -  Ep 2"
     description "How Hollywood Stars Stay Looking Young- &#34;The Truth About Adrenochrome&#34; Ep 2&#10;#Adrenochrome #DoYouBelieve #Conspiracy"
     channeltitle "Do You Believe"
     channelid "UCSLc0OL_EYQqrUxxtOsFwaA"
@@ -4087,7 +4087,7 @@ graph
     commentcount 1
     duration "PT2M18S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 0
     duration "PT1M38S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 2
     duration "PT24M40S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4149,7 +4149,7 @@ graph
     label "PxMPwNTmIDI"
     step 0
     date "2021-07-14T07:03:35Z"
-    title "person e tongue sticking out laining what adrenochrome is"
+    title "person explaining what adrenochrome is"
     description ""
     channeltitle "1salahudin"
     channelid "UCElLbZrk1xt5uuVSbrNPw9A"
@@ -4159,7 +4159,7 @@ graph
     commentcount 0
     duration "PT1M4S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 0
     duration "PT14S"
     indegree 7
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4195,7 +4195,7 @@ graph
     commentcount 6
     duration "PT7M45S"
     indegree 0
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount -1
     duration "PT7M51S"
     indegree 4
-    cluster 11
+    cluster 5
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 0
     duration "PT8S"
     indegree 4
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 0
     duration "PT20S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4275,7 +4275,7 @@ graph
     label "eP2gnOw-f4o"
     step 0
     date "2018-05-26T06:13:31Z"
-    title "CLOT INJECTION ( adrenochrome monosemicarbazone ) use blood clotting side effect"
+    title "CLOT INJECTION ( adrenochrome monosemicarbazone ) use blood clotting  side effect"
     description "Clot injection &#10;      adrenochrome monosemicarbazone ,  this is rasaynik Sandesh vahak . Blood clotting &#2350;&#2375;&#2306; &#2350;&#2342;&#2342; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376; &#2404; bleeding &#2325;&#2379; &#2348;&#2344;&#2381;&#2342; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376; &#2404;&#10;     Allergy inflammatory disease , gathiya , Poshak tatva ki Kami &#2325;&#2375; &#2354;&#2367;&#2351;&#2375; &#2349;&#2368; &#2311;&#2360; &#2311;&#2306;&#2332;&#2375;&#2325;&#2381;&#2358;&#2344; &#2325;&#2379; &#2346;&#2381;&#2352;&#2351;&#2379;&#2327; &#2350;&#2375;&#2306; &#2354;&#2366;&#2351;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2404;&#10; Side effect :. Video &#2342;&#2375;&#2326;&#2375;&#2306; &#2404;&#10; &#2346;&#2375;&#2335; &#2350;&#2375;&#2306; &#2360;&#2370;&#2332;&#2344; , peptic ulcer ,  liver disease , pregnant women, breastfeeding &#2311;&#2344; &#2350;&#2352;&#2368;&#2332;&#2379; &#2325;&#2379; &#2351;&#2361; &#2311;&#2306;&#2332;&#2375;&#2325;&#2381;&#2358;&#2344; &#2348;&#2367;&#2344;&#2366; doctor &#2325;&#2368; &#2352;&#2366;&#2351; &#2360;&#2375; &#2311;&#2360; &#2311;&#2306;&#2332;&#2375;&#2325;&#2381;&#2358;&#2344; &#2325;&#2379; &#2344; &#2354;&#2327;&#2366;&#2351;&#2375;&#2306; &#2404;"
     channeltitle "Public Welfare &#38; Health Organisation"
     channelid "UCUcJLCOjCR4_Tkt0XzRoQEQ"
@@ -4285,7 +4285,7 @@ graph
     commentcount 25
     duration "PT2M18S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 9
     duration "PT3M33S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4339,7 +4339,7 @@ graph
     commentcount 14
     duration "PT36M8S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4347,7 +4347,7 @@ graph
     label "MUZ2zeI-zX0"
     step 0
     date "2021-10-05T03:31:23Z"
-    title "Adrenochrome: Before After"
+    title "Adrenochrome: Before  After"
     description "Real Life: I tried Adrenochrome"
     channeltitle "EL Man"
     channelid "UC-O0CNlF_JuQ-9YgZwCuRow"
@@ -4357,7 +4357,7 @@ graph
     commentcount 10
     duration "PT1M"
     indegree 0
-    cluster 10
+    cluster 5
   ]
   node
   [
@@ -4375,7 +4375,7 @@ graph
     commentcount 0
     duration "PT19M59S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4393,7 +4393,7 @@ graph
     commentcount 20
     duration "PT24M52S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4411,7 +4411,7 @@ graph
     commentcount 4
     duration "PT2M20S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4447,7 +4447,7 @@ graph
     commentcount 49
     duration "PT3M58S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4465,7 +4465,7 @@ graph
     commentcount 0
     duration "PT2M12S"
     indegree 0
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 0
     duration "PT10M3S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 1
     duration "PT15M4S"
     indegree 9
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 1
     duration "PT7M31S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4555,7 +4555,7 @@ graph
     commentcount 10
     duration "PT11M48S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4573,7 +4573,7 @@ graph
     commentcount 2
     duration "PT50S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -4581,7 +4581,7 @@ graph
     label "ZjBHrkbH8tw"
     step 0
     date "2019-07-20T05:09:41Z"
-    title "Adrenochrome - E tongue sticking out osed In The Industry"
+    title "Adrenochrome - Exposed In The Industry"
     description "Adrenochrome exposed in movies and television."
     channeltitle "3rdEyeAmAwakened"
     channelid "UC_kJJq_2jzIYbG1o-IpKv-w"
@@ -4591,7 +4591,7 @@ graph
     commentcount 3
     duration "PT4M56S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -4609,7 +4609,7 @@ graph
     commentcount 4
     duration "PT6M30S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4645,7 +4645,7 @@ graph
     commentcount 1
     duration "PT9M8S"
     indegree 0
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -4663,7 +4663,7 @@ graph
     commentcount 3
     duration "PT4M33S"
     indegree 0
-    cluster 10
+    cluster 1
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount 1
     duration "PT1M"
     indegree 0
-    cluster 4
+    cluster 10
   ]
   node
   [
@@ -4707,7 +4707,7 @@ graph
     label "pImK8txteX0"
     step 0
     date "2022-06-07T01:12:49Z"
-    title "Adrenochrome General Butt Naked"
+    title "Adrenochrome  General Butt Naked"
     description "Thanks for tuning in! Please feel free to like, comment &#38; share. Remember to Subscribe &#38; hit the notification bell. Thanks!&#10;&#10;Visit our websites &#38; connect with us on social media&#10;&#10;XROADZ LINKTREE&#10;https://linktr.ee/xroadz&#10;&#10;SOULFIRE WEBSITE www.soulfireunlimited.com"
     channeltitle "XROADZ PODCAST"
     channelid "UCsaaESh2Yi4FazIaE6moAyw"
@@ -4717,7 +4717,7 @@ graph
     commentcount 0
     duration "PT4M15S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 9
     duration "PT10M56S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 10
     duration "PT14M52S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 7
     duration "PT1M15S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4807,7 +4807,7 @@ graph
     commentcount 1
     duration "PT11S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4833,7 +4833,7 @@ graph
     label "bs94AXrDaTc"
     step 0
     date "2022-05-21T04:59:16Z"
-    title "Project BLUEBEAM e tongue sticking out lained and E tongue sticking out osed - DISCLOSURE ADRENOCHROME"
+    title "Project BLUEBEAM explained and Exposed - DISCLOSURE ADRENOCHROME"
     description ""
     channeltitle "Juba Report"
     channelid "UCGjVfGxR1XqI0Jwm9Qkalhw"
@@ -4843,7 +4843,7 @@ graph
     commentcount 0
     duration "PT4M13S"
     indegree 0
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -4861,7 +4861,7 @@ graph
     commentcount 1
     duration "PT10S"
     indegree 0
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -4879,7 +4879,7 @@ graph
     commentcount 0
     duration "PT4M24S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 0
     duration "PT1M32S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4933,7 +4933,7 @@ graph
     commentcount 6
     duration "PT46S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -4969,7 +4969,7 @@ graph
     commentcount 0
     duration "PT58S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 0
     duration "PT47S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -4995,7 +4995,7 @@ graph
     label "-gahiKpoDUA"
     step 0
     date "2020-05-06T14:41:41Z"
-    title "Elite torture children drink their adrenalized blood.#RobertDavidSteele #Adrenochrome #Pizzagate"
+    title "Elite torture children  drink their adrenalized blood.#RobertDavidSteele #Adrenochrome #Pizzagate"
     description "Adrenochrome is a chemical compound with the molecular formula C9H9NO3 produced by the oxidation of adrenaline (epinephrine). The derivativecarbazochrome is a hemostatic medication. Despite a similarity in chemical names, it is unrelated to chrome or chromium. In popular culture Author Hunter S. Thompson mentioned adrenochrome in his book Fear and Loathing in Las Vegas. &#10;&#10;The adrenochrome scene also appears in the novel's film adaptation. In the DVD commentary, director Terry Gilliam admits that his and Thompson's portrayal is a fictional exaggeration. In fact, Gilliam insists that the drug is entirely fictional and seems unaware of the existence of a substance with even a similar name. Hunter S. Thompson also mentions adrenochrome in his book Fear and Loathing on the Campaign Trail '72. I&#10;n the footnotes in chapter April, page 140 he says, &#34;It was sometime after midnight in a ratty hotel room and my memory of the conversation is haze, due to massive ingestion of booze, fatback, and forty cc's of adrenochrome.&#34; The harvesting of an adrenal gland from a live victim to obtain adrenochrome for drug abuse is a plot feature in the first episode &#34;Whom the Gods would Destroy&#34;, of Series 1 of the British TV series Lewis (2008).[11] In Anthony Burgess' 1962 novel A Clockwork Orange, &#34;drencrom&#34; (presumably the Nadsat term for adrenochrome) is listed as one of the potential drugs that can be added to milk-plus (milk laced with a drug of the consumer's choice). Law &#10;Adrenochrome is unscheduled by the Controlled Substances Act in the United States, but if sold as a supplement, sales must conform to U.S. supplement laws. If sold for consumption as a food or drug, sales are regulated by the FDA. Research #adrenochrome and The International Tribunal for Natural Justice #ITNJ (Source: Wikipedia)&#10;&#10;#Adrenachrome, #Adrenochrome, #Pizzagate, #PizzaGateIsReal, #PIZZAGATEISREAL, #Pedogate, #PedogateIsReal, #MassCorruption, #PedogateExposed2020, #PizzagateArrests2020, #PedogateArrests2020, #TrumpArrestsCelebrities, #TomHanks, #FollowTheRabbit, #WillFerralArrested, #EllenPedogate, #OprahArrested, #PizzagateOprah, #TomHanksPizzagate, #TomHanksOprah, #ArrestsWorldWide, #CelebritiesCoronavirus, #COVID19, #CoronaVirus, #CoronaVirusUpdate, #FallOfHollywood, #CelebrityArrests, #pedovores, #HillaryClinton, #pedos, #Trending #Adrenochrome #RobertDavidSteele #SeekTruth #destroyingtheillusion #unsettlingstories #chillingtalesfordarknights #chillingtales #Elite #Hollywood #Bankers #Illuminati #Freemasions #Billgates #Hollywood #Music #Ladygaga"
     channeltitle "Seek Truth"
     channelid "UCVfNZQwhGhWsOtw82KdL5Ww"
@@ -5041,7 +5041,7 @@ graph
     commentcount 8
     duration "PT4M58S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 23
     duration "PT53M48S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 116
     duration "PT4M15S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 0
     duration "PT16M17S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 0
     duration "PT4M27S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 8
     duration "PT19M54S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -5203,7 +5203,7 @@ graph
     commentcount 27
     duration "PT10M9S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 0
     duration "PT2M20S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 0
     duration "PT3M4S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 1
     duration "PT25S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 0
     duration "PT5M6S"
     indegree 0
-    cluster 12
+    cluster 10
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 3
     duration "PT10M35S"
     indegree 0
-    cluster 12
+    cluster 1
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     commentcount 2
     duration "PT1M10S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -5401,7 +5401,7 @@ graph
     commentcount 2
     duration "PT11M30S"
     indegree 0
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -5419,7 +5419,7 @@ graph
     commentcount 0
     duration "PT1M18S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 0
     duration "PT48S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -5445,7 +5445,7 @@ graph
     label "15G669Mk_ao"
     step 0
     date "2021-09-30T00:07:41Z"
-    title "5D Mystery School Adrenochrome- Phil Schneider"
+    title "5D Mystery School  Adrenochrome- Phil Schneider"
     description ""
     channeltitle "Astro 5D"
     channelid "UC-Uz74dhktp1GNtBFDdHH0Q"
@@ -5455,7 +5455,7 @@ graph
     commentcount 4
     duration "PT1M50S"
     indegree 0
-    cluster 10
+    cluster 2
   ]
   node
   [
@@ -5463,7 +5463,7 @@ graph
     label "6liNH5vu3Mo"
     step 0
     date "2021-02-05T14:16:42Z"
-    title "Cloning, Adrenochrome The Cabal"
+    title "Cloning, Adrenochrome  The Cabal"
     description "Addressing the many stories and leaks on Cloning, Adrenochrome and other shocking leaks."
     channeltitle "Red Pilled Reason"
     channelid "UC1si9IQm-4IUjVQ2TRxZA9g"
@@ -5473,7 +5473,7 @@ graph
     commentcount 0
     duration "PT30M14S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 3
     duration "PT11M4S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -5571,7 +5571,7 @@ graph
     label "uEQCR8zd1NQ"
     step 0
     date "2020-06-06T12:28:15Z"
-    title "Die NWO-Alien Agenda / The NWO-Alien Agenda e tongue sticking out osed Adrenochrome"
+    title "Die NWO-Alien Agenda / The NWO-Alien Agenda exposed Adrenochrome"
     description ""
     channeltitle "peter peppig"
     channelid "UCP9ckPg_yq6KHlq9Obk2JeA"
@@ -5617,7 +5617,7 @@ graph
     commentcount 10
     duration "PT6M2S"
     indegree 0
-    cluster 6
+    cluster 9
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 0
     duration "PT4M41S"
     indegree 0
-    cluster 12
+    cluster 2
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 0
     duration "PT51S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   edge
   [

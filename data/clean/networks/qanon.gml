@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:08 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:23 2022"
 Version 1
 graph
 [
@@ -37,7 +37,7 @@ graph
     commentcount 7352
     duration "PT6M32S"
     indegree 13
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -55,7 +55,7 @@ graph
     commentcount 12874
     duration "PT8M59S"
     indegree 73
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -73,7 +73,7 @@ graph
     commentcount 12251
     duration "PT14M15S"
     indegree 113
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -91,7 +91,7 @@ graph
     commentcount 18214
     duration "PT46M30S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -99,7 +99,7 @@ graph
     label "gufvLjAQsQs"
     step 0
     date "2022-06-07T03:13:47Z"
-    title "Where the QAnon slogan likely came from"
+    title "Where the QAnon slogan  likely came from"
     description "CNN's Donie O'Sullivan spoke with three long-shot Republican House candidates about references they've made to the QAnon conspiracy theory online.&#10; #cnn  #ac360 #DonieOSullivan"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -109,7 +109,7 @@ graph
     commentcount 1652
     duration "PT7M56S"
     indegree 23
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 8616
     duration "PT7M41S"
     indegree 77
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 17580
     duration "PT6M21S"
     indegree 15
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -181,7 +181,7 @@ graph
     commentcount -1
     duration "PT21M2S"
     indegree 98
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 6
     duration "PT59M44S"
     indegree 5
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 16971
     duration "PT11M32S"
     indegree 12
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -261,7 +261,7 @@ graph
     label "q1fdIP_KyL0"
     step 0
     date "2020-08-14T19:15:01Z"
-    title "Tim Dillon E tongue sticking out lains QAnon"
+    title "Tim Dillon Explains QAnon"
     description "Taken from JRE #1525 w/Tim Dillon:&#10;https://youtu.be/h9XzuUXj6Gc"
     channeltitle "JRE Clips"
     channelid "UCnxGkOGNMqQEUMvroOWps6Q"
@@ -289,7 +289,7 @@ graph
     commentcount 2384
     duration "PT16M"
     indegree 28
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -307,7 +307,7 @@ graph
     commentcount -1
     duration "PT6M59S"
     indegree 28
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 9068
     duration "PT11M32S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount 3841
     duration "PT8M26S"
     indegree 39
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount 3573
     duration "PT16M18S"
     indegree 27
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -397,7 +397,7 @@ graph
     commentcount 2431
     duration "PT3M24S"
     indegree 9
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -433,7 +433,7 @@ graph
     commentcount -1
     duration "PT50M11S"
     indegree 75
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -451,7 +451,7 @@ graph
     commentcount 270
     duration "PT7M4S"
     indegree 12
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 9094
     duration "PT2M24S"
     indegree 15
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount 9981
     duration "PT15M22S"
     indegree 24
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -495,7 +495,7 @@ graph
     label "E3_euRauzwo"
     step 0
     date "2021-04-07T15:59:48Z"
-    title "Who is Behind QAnon? Filmmaker Cullen Hoback E tongue sticking out lores"
+    title "Who is Behind QAnon? Filmmaker Cullen Hoback Explores"
     description "Could this be the person behind QAnon? Documentary filmmaker Cullen Hoback believes so &#8212; here&#8217;s why.&#10;&#187; Subscribe to NowThis: http://go.nowth.is/News_Subscribe&#10;&#187; Sign up for our newsletter KnowThis to get the biggest stories of the day delivered straight to your inbox: https://go.nowth.is/KnowThis&#10;&#10;For more U.S. politics and world news, subscribe to NowThis News.&#10;&#10;#QAnon #CullenHoback #Conspiracy #Politics #News #NowThis&#10;&#10;Connect with NowThis&#10;&#187; Like us on Facebook: http://go.nowth.is/News_Facebook&#10;&#187; Tweet us on Twitter: http://go.nowth.is/News_Twitter&#10;&#187; Follow us on Instagram: http://go.nowth.is/News_Instagram&#10;&#187; Find us on Snapchat Discover: http://go.nowth.is/News_Snapchat&#10;&#10;NowThis is your premier news outlet providing you with all the videos you need to stay up to date on all the latest in trending news. From entertainment to politics, to viral videos and breaking news stories, we&#8217;re delivering all you need to know straight to your social feeds. We live where you live.&#10;&#10;http://www.youtube.com/nowthisnews&#10;@nowthisnews"
     channeltitle "NowThis News"
     channelid "UCn4sPeUomNGIr26bElVdDYg"
@@ -505,7 +505,7 @@ graph
     commentcount 387
     duration "PT4M58S"
     indegree 7
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -513,7 +513,7 @@ graph
     label "KBnsuTcfWeQ"
     step 0
     date "2022-04-11T02:57:43Z"
-    title "How a QAnon conspiracy theory about Ukraine went mainstream"
+    title "How a QAnon conspiracy theory about Ukraine  went mainstream"
     description "Investigative reporter Justin Ling exposes how a QAnon conspiracy theory about U.S.-funded 'biolabs' in Ukraine morphed into mainstream disinformation, and what that could suggest about Russia's own dangerous ambitions. &#10;&#10;#Biolabs #Ukraine #Bioweapons&#10;&#10;Watch The National live on YouTube Sunday-Friday at 9 p.m. ET&#10;&#10;Subscribe to The National: &#10;https://www.youtube.com/user/CBCTheNational?sub_confirmation=1&#10;&#10;Connect with The National online:&#10;Facebook | https://www.facebook.com/thenational&#10;Twitter | https://twitter.com/CBCTheNational&#10;Instagram | https://www.instagram.com/cbcthenational&#10;&#10;More from CBC News | https://www.cbc.ca/news&#10;&#10;The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism, with hosts Adrienne Arsenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver and the CBC's chief political correspondent, Rosemary Barton in Ottawa."
     channeltitle "CBC News: The National"
     channelid "UCKjU3KzdbJE1EFcHVqXC3_g"
@@ -523,7 +523,7 @@ graph
     commentcount -1
     duration "PT8M59S"
     indegree 14
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -541,7 +541,7 @@ graph
     commentcount 4586
     duration "PT27M14S"
     indegree 68
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -559,7 +559,7 @@ graph
     commentcount 9111
     duration "PT3M53S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 11890
     duration "PT10M44S"
     indegree 60
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 200
     duration "PT5M23S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 1862
     duration "PT4M22S"
     indegree 9
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -621,7 +621,7 @@ graph
     label "ceeuHC_xPKA"
     step 0
     date "2020-09-11T09:19:31Z"
-    title "Conspiracy theory group QAnon e tongue sticking out lained | Download This Show"
+    title "Conspiracy theory group QAnon explained | Download This Show"
     description "US President Donald Trump has praised the followers of QAnon as &#8216;people that love our country&#8217;. Where did the conspiracy theory group come from, how widespread is it and where is it all headed? Host of Download This Show Marc Fennell asks Sarah Moran, CEO, Girl Geek Academy and Seamus Byrne, editor &#38; host of the Byteside podcast.&#10;&#10;More Download This Show podcasts at https://www.abc.net.au/radionational/programs/downloadthisshow/"
     channeltitle "ABC News (Australia)"
     channelid "UCVgO39Bk5sMo66-6o6Spn6Q"
@@ -631,7 +631,7 @@ graph
     commentcount -1
     duration "PT6M37S"
     indegree 7
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount 136
     duration "PT10M33S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount 1202
     duration "PT2M21S"
     indegree 13
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 3375
     duration "PT9M34S"
     indegree 14
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 1369
     duration "PT10M2S"
     indegree 27
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 3413
     duration "PT10M6S"
     indegree 10
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -793,7 +793,7 @@ graph
     commentcount 2650
     duration "PT4M10S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -811,7 +811,7 @@ graph
     commentcount 342
     duration "PT7M5S"
     indegree 3
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 3266
     duration "PT10M27S"
     indegree 40
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 1715
     duration "PT12M51S"
     indegree 3
-    cluster 6
+    cluster 10
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 4534
     duration "PT10M13S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount 283
     duration "PT2M57S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount 2865
     duration "PT3M56S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -927,7 +927,7 @@ graph
     label "zxBchA7mrLE"
     step 0
     date "2020-09-03T07:19:12Z"
-    title "Unfounded conspiracy theory gains traction in politics | Nightline"
+    title "Unfounded  conspiracy theory gains traction in politics | Nightline"
     description "Followers believe the baseless idea that a secret network of celebrities and politicians is working to promote its evil agenda. Some Republicans running for office have expressed support for it.&#10;&#10;WATCH NIGHTLINE EPISODES:&#10;https://abc.go.com/shows/nightline &#10;&#10;ALSO AVAILABLE ON HULU: https://hulu.tv/2wSmSrZ&#10;&#10;#Nightline #Qanon #Republicans #Trump #Conspiracy #ConspiracyTheory #Politics"
     channeltitle "ABC News"
     channelid "UCBi2mrWuNuyYy4gbM6fU18Q"
@@ -937,7 +937,7 @@ graph
     commentcount 1313
     duration "PT11M50S"
     indegree 23
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 363
     duration "PT48S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 1635
     duration "PT19M12S"
     indegree 3
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -999,7 +999,7 @@ graph
     label "E5a7CV8U6vM"
     step 0
     date "2021-09-02T23:00:04Z"
-    title "QAnon Sovereign Citizens Are Coming for the Child Welfare System"
+    title "QAnon  Sovereign Citizens Are Coming for the Child Welfare System"
     description "The conspiracy theory that powerful government insiders are involved in child trafficking is having consequences. Disgruntled parents say that social workers are agents of a deep state, plotting to kidnap their children. They're being encouraged by a fake Navy SEAL who says that &#34;sovereign&#34; individuals don't have to follow laws.&#10;&#13;&#10;Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News&#13;&#10;&#13;&#10;Check out VICE News for more: http://vicenews.com&#13;&#10;&#13;&#10;Follow VICE News here:&#13;&#10;Facebook: https://www.facebook.com/vicenews&#13;&#10;Twitter: https://twitter.com/vicenews&#13;&#10;Tumblr: http://vicenews.tumblr.com/&#13;&#10;Instagram: http://instagram.com/vicenews&#13;&#10;More videos from the VICE network: https://www.fb.com/vicevideo&#13;&#10;&#13;&#10;#VICENews #News"
     channeltitle "VICE News"
     channelid "UCZaT_X_mc0BI-djXOlfhqWQ"
@@ -1027,7 +1027,7 @@ graph
     commentcount 796
     duration "PT3M36S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1035,7 +1035,7 @@ graph
     label "EZcSWCfbB-c"
     step 0
     date "2022-06-29T11:00:08Z"
-    title "QAnon Wackos Struggle To E tongue sticking out lain What Q Is (Video)"
+    title "QAnon Wackos Struggle To Explain What Q Is (Video)"
     description "After nearly 2 years of silence, QAnon's 'Q' re-emerges on far-right message boards with their first message. QAnon cultists stumble over their words in explaining who 'Q' is. Richard Ojeda breaks it down.&#10;&#10;Follow Richard on&#10;Twitter - https://twitter.com/Ojeda4America &#10;Instagram - https://www.instagram.com/richardojeda2570 &#10;&#10;#RichardOjeda #RebelHQ #Politics"
     channeltitle "Rebel HQ"
     channelid "UCuMo0RRtnNDuMB8DV5stEag"
@@ -1045,7 +1045,7 @@ graph
     commentcount 2122
     duration "PT5M42S"
     indegree 7
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -1053,7 +1053,7 @@ graph
     label "NuDmm39p4wk"
     step 0
     date "2019-06-12T21:25:08Z"
-    title "QAnon E tongue sticking out lained In Less Than 2 Minutes"
+    title "QAnon Explained In Less Than 2 Minutes"
     description "QAnon is a lot of nonsense that has emerged from the swampy corners of the internet into the mainstream. We&#8217;re giving you a rundown of what you need to know about this baseless conspiracy theory. Some of the false allegations wrapped up in it include a global pedophilia ring, Trump and Mueller working together, and Kim Jong Un being a CIA asset.&#10;&#10;SUBSCRIBE TO THE FAKE NEWSLETTER: https://www.buzzfeednews.com/article/janelytvynenko/hoaxes-fake-news-misinformation-newsletter-update&#10;&#10;#trackback #QAnon&#10;&#10;Credits: https://www.buzzfeed.com/bfmp/videos/85486&#10;&#10;GET MORE BUZZFEED NEWS&#10;https://www.buzzfeednews.com&#10;&#10;DOWNLOAD THE BUZZFEED APP&#10;For iPhone &#8212; http://bzfd.it/2pinEdx&#10;For Android &#8212; http://bzfd.it/2n0Pf03&#10;&#10;FOLLOW BUZZFEED NEWS&#10;On Twitter &#8212; https://twitter.com/buzzfeednews&#10;On Facebook &#8212; https://www.facebook.com/buzzfeednews&#10;On Instagram &#8212; https://www.instagram.com/buzzfeednews&#10;&#10;SUBSCRIBE TO THE BUZZFEED NEWS NEWSLETTER&#10;https://www.buzzfeed.com/newsletters/news&#10;&#10;MUSIC&#10;&#10;Licensed via Audio Network"
     channeltitle "BuzzFeed News"
     channelid "UCf4FYTsGFFcdc68AUPIU3RA"
@@ -1063,7 +1063,7 @@ graph
     commentcount 5177
     duration "PT3M8S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 8313
     duration "PT12M57S"
     indegree 4
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount -1
     duration "PT1M48S"
     indegree 1
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1125,7 +1125,7 @@ graph
     label "JE2YphT9UAU"
     step 0
     date "2021-07-30T00:15:50Z"
-    title "Asmongold Reacts to | By Channel 5"
+    title "Asmongold Reacts to  | By Channel 5"
     description "Asmongold reacts to Channel 5 with Andrew Callaghan, best known as All Gas No Brakes before losing control of his original channel. Andrew and its crew joined the &#34;God and Country Patriot Roundup&#34; meetup and interviewed some really interesting individuals; what is the Q Anon conspiracy? Let's find out...&#10;&#10;Make sure to support Channel 5 if you enjoyed this, here's his Patreon: https://www.patreon.com/channel5&#10; &#10;Original Video: https://www.youtube.com/watch?v=KYKOLwt8pwo (Q Conference)&#10;&#10;SUBSCRIBE TO CHANNEL 5: https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg&#10;&#10;&#9658; Asmongold's Twitch: https://www.twitch.tv/asmongold&#10;&#9658; Asmongold's Twitter: https://twitter.com/asmongold&#10;&#9658; Asmongold's 2nd YT Channel: https://www.youtube.com/user/ZackRawrr&#10;&#9658; Asmongold's Sub-Reddit: https://www.reddit.com/r/Asmongold/&#10;&#10;Thank you all for watching! Stay tuned and subscribe to the official Asmongold YouTube Channel to always be kept up to date about the best Asmongold Highlights, Asmongold Reacts and funniest Asmongold moments from World of Warcraft, Final Fantasy 14 (FFXIV) and other games played on stream!&#10;&#10;Channel Editors: CatDany &#38; Daily Dose of Asmongold&#10;&#10;&#9658; Outro song: CatDany - Get Enough&#10;&#10; If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact::&#10;&#9658; https://twitter.com/CatDanyRU&#10;&#9658; catdanyru@gmail.com&#10;&#10;#Asmongold"
     channeltitle "Asmongold TV"
     channelid "UCQeRaTukNYft1_6AZPACnog"
@@ -1135,7 +1135,7 @@ graph
     commentcount 2642
     duration "PT31M14S"
     indegree 11
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount 56
     duration "PT1M36S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 2528
     duration "PT3M51S"
     indegree 4
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -1197,7 +1197,7 @@ graph
     label "NjBi93thNFo"
     step 0
     date "2021-09-02T16:05:16Z"
-    title "60 Minutes+ e tongue sticking out lores how QAnon is tearing loved ones apart"
+    title "60 Minutes+ explores how QAnon is tearing loved ones apart"
     description "60 Minutes+ correspondent Laurie Segall sat down with a group of people who say a loved one's beliefs in internet conspiracies and QAnon have torn apart their families and relationships. Segall joined CBSN to talk about about the interview and a support group some are turning to for help.&#10;&#10;CBSN is CBS News&#8217; 24/7 digital streaming news service featuring live, anchored coverage available for free across all platforms. Launched in November 2014, the service is a premier destination for breaking news and original storytelling from the deep bench of CBS News correspondents and reporters. CBSN features the top stories of the day as well as deep dives into key issues facing the nation and the world. CBSN has also expanded to launch local news streaming services in major markets across the country. CBSN is currently available on CBSNews.com and the CBS News app across more than 20 platforms, as well as the Paramount+ subscription service.&#10;&#10;Subscribe to the CBS News YouTube channel: http://youtube.com/cbsnews&#8203;&#10;Watch CBSN live: http://cbsn.ws/1PlLpZ7c&#8203;&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#8203;&#10;Follow CBS News on Instagram: https://www.instagram.com/cbsnews/&#8203;&#10;Like CBS News on Facebook: http://facebook.com/cbsnews&#8203;&#10;Follow CBS News on Twitter: http://twitter.com/cbsnews&#8203;&#10;Subscribe to our newsletters: http://cbsn.ws/1RqHw7T&#8203;&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS News"
     channelid "UC8p1vwvWtl6T73JiExfWs1g"
@@ -1225,7 +1225,7 @@ graph
     commentcount 8452
     duration "PT13M32S"
     indegree 31
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 840
     duration "PT12M56S"
     indegree 4
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1251,7 +1251,7 @@ graph
     label "QKwrhnh3Hj0"
     step 0
     date "2021-08-17T16:28:21Z"
-    title "QAnon Alien Lizard Homicides | Matthew Taylor Coleman Case Analysis"
+    title "QAnon  Alien Lizard Homicides | Matthew Taylor Coleman Case Analysis"
     description "This video answers the question: Can I analyze the case of Matthew Taylor Coleman?&#10;Support Dr. Grande on Patreon: https://www.patreon.com/drgrande&#10;&#10;Subscribe to the Bella Grande Media Podcast: https://www.youtube.com/channel/UCFhTghsZxD25yV24hrfkMPw&#10;&#10;Dr. Grande&#8217;s book Harm Reduction: &#10;https://www.amazon.com/Harm-Reduction-Todd-Grande-PhD/dp/1950057313&#10;&#10;Dr. Grande's book Psychology of Notorious Serial Killers: https://www.amazon.com/Psychology-Notorious-Serial-Killers-Intersection/dp/1950057259&#10;&#10;Check out Dr. Grande&#8217;s merchandise at: https://teespring.com/stores/dr-grandes-store&#10;&#10;References:&#10;&#10;https://www.scribd.com/document/519920521/Matthew-Taylor-Coleman-Complaint&#10;&#10;https://www.nytimes.com/2021/08/12/us/matthew-coleman-children-mexico.html&#10;&#10;https://www.washingtonpost.com/nation/2021/08/12/california-father-killed-children-qanon-illuminati/&#10;&#10;https://people.com/crime/dad-accused-of-killing-kids-with-spear-gun-over-qanon-theories-believed-some-weird-stuff-says-friend/&#10;&#10;https://www.instagram.com/matthewtaylorcoleman/"
     channeltitle "Dr. Todd Grande"
     channelid "UCC_0vyFTKk1Nlodo4QsiQkw"
@@ -1261,7 +1261,7 @@ graph
     commentcount 2160
     duration "PT16M19S"
     indegree 11
-    cluster 6
+    cluster 10
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 2639
     duration "PT11M36S"
     indegree 3
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1287,7 +1287,7 @@ graph
     label "A1IDYHEdZpE"
     step 0
     date "2021-10-06T02:56:23Z"
-    title "Trump Dragged by Former Staffers Facebook Outage Sends QAnon Crazies Into Conspiracy Meltdown"
+    title "Trump Dragged by Former Staffers  Facebook Outage Sends QAnon Crazies Into Conspiracy Meltdown"
     description "Rain and lightning hit LA for the first time in a while causing a delay at the Chargers/Raiders game, Facebook released the reason for their outage yesterday and many QAnonners believe it was the start of the &#8220;Blackout&#8221; where major public figures will be arrested for sex trafficking, Mark Zuckerberg released an apology for disruption in their services, Democrats and Republicans finally agree on something, Donald Trump didn&#8217;t make the Forbes 400 list of richest people in America, we got some fresh insight about our Crazy Ex-President from a new tell-all book, we ask people on the street to name a Nobel Prize winner, and we go back a year ago this week for a new edition of This Week in COVID History.&#10;&#10;SUBSCRIBE to get the latest #Kimmel: http://bit.ly/JKLSubscribe&#10;&#10;Watch Mean Tweets: http://bit.ly/KimmelMT10&#10;&#10;Connect with Jimmy Kimmel Live Online:&#10;&#10;Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite&#10;Like Jimmy Kimmel on FACEBOOK: http://bit.ly/KimmelFB&#10;Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook&#10;Follow @JimmyKimmel on TWITTER: http://bit.ly/KimmelTW&#10;Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter&#10;Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram&#10;&#10;About Jimmy Kimmel Live:&#10;&#10;Jimmy Kimmel serves as host and executive producer of Emmy&#174;-nominated &#8220;Jimmy Kimmel Live!,&#8221; ABC&#8217;s late-night talk show. &#8220;Jimmy Kimmel Live!&#8221; is well known for its huge viral video successes, with over 11 billion views and more than 15 million subscribers on the show&#8217;s YouTube channel. Some of Kimmel&#8217;s most popular comedy bits include &#8220;Celebrities Read Mean Tweets,&#8221; &#8220;Lie Witness News,&#8221; &#8220;Unnecessary Censorship,&#8221; &#8220;Halloween Candy YouTube Challenge,&#8221; and music videos like &#8220;I (Wanna) Channing All Over Your Tatum.&#8221;"
     channeltitle "Jimmy Kimmel Live"
     channelid "UCa6vGFO9ty8v5KZJXQxdhaw"
@@ -1297,7 +1297,7 @@ graph
     commentcount 2446
     duration "PT14M37S"
     indegree 6
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -1305,7 +1305,7 @@ graph
     label "jOeDnvxYgIw"
     step 0
     date "2021-10-25T12:05:09Z"
-    title "Reveale tongue sticking out How Facebook promoted QAnon to a "
+    title "Revealed: How Facebook promoted QAnon to a "
     description "Leaked Facebook documents detail how an internal experiment showed how the company was promoting conspiracy theories to users. CNN's Donie O'Sullivan reports.&#10;&#10;#CNN&#10;#Facebook&#10;#Business"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -1315,7 +1315,7 @@ graph
     commentcount 1882
     duration "PT2M32S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 12440
     duration "PT10M1S"
     indegree 33
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 6360
     duration "PT5M"
     indegree 12
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount 5846
     duration "PT3M32S"
     indegree 9
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount 12815
     duration "PT7M59S"
     indegree 16
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -1405,7 +1405,7 @@ graph
     commentcount 8967
     duration "PT5M53S"
     indegree 11
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1423,7 +1423,7 @@ graph
     commentcount 970
     duration "PT7M50S"
     indegree 3
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 2335
     duration "PT25M44S"
     indegree 74
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1477,7 +1477,7 @@ graph
     commentcount 977
     duration "PT8M18S"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 4380
     duration "PT12M7S"
     indegree 6
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 1796
     duration "PT7M34S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1531,7 +1531,7 @@ graph
     commentcount 3067
     duration "PT12M26S"
     indegree 4
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 9466
     duration "PT11M22S"
     indegree 16
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 2037
     duration "PT26M9S"
     indegree 74
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 5496
     duration "PT5M36S"
     indegree 21
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -1629,7 +1629,7 @@ graph
     label "K_qQuZkodNQ"
     step 0
     date "2021-02-02T14:05:54Z"
-    title "Former QAnon follower e tongue sticking out lains why she left the movement"
+    title "Former QAnon follower explains why she left the movement"
     description "A former follower of the QAnon movement tells CNN's Don Lemon how she came to believe in the movement and ultimately decided to leave.&#10;&#10;#CNNTonight #CNN #News"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -1639,7 +1639,7 @@ graph
     commentcount 5181
     duration "PT4M56S"
     indegree 11
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 70
     duration "PT2M"
     indegree 1
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 2939
     duration "PT4M53S"
     indegree 17
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 1725
     duration "PT3M48S"
     indegree 1
-    cluster 6
+    cluster 10
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 49
     duration "PT8M"
     indegree 0
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 1067
     duration "PT6M47S"
     indegree 2
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 425
     duration "PT31S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 1880
     duration "PT5M42S"
     indegree 1
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 5465
     duration "PT8M33S"
     indegree 18
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 706
     duration "PT6M52S"
     indegree 4
-    cluster 2
+    cluster 12
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 6559
     duration "PT10M54S"
     indegree 22
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 311
     duration "PT5M33S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1891,7 +1891,7 @@ graph
     commentcount 6561
     duration "PT5M53S"
     indegree 4
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 1654
     duration "PT14M49S"
     indegree 19
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount -1
     duration "PT4M57S"
     indegree 7
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -1945,7 +1945,7 @@ graph
     commentcount 445
     duration "PT10M32S"
     indegree 3
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 6690
     duration "PT3M23S"
     indegree 13
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1981,7 +1981,7 @@ graph
     commentcount 7647
     duration "PT7M22S"
     indegree 9
-    cluster 6
+    cluster 10
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 124
     duration "PT1M48S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 178
     duration "PT1M46S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 1532
     duration "PT6M27S"
     indegree 4
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount -1
     duration "PT2M22S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 1979
     duration "PT3M22S"
     indegree 8
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 2535
     duration "PT32M5S"
     indegree 5
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 361
     duration "PT1M46S"
     indegree 3
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 3275
     duration "PT12M44S"
     indegree 12
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2143,7 +2143,7 @@ graph
     commentcount 2950
     duration "PT10M20S"
     indegree 15
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2151,7 +2151,7 @@ graph
     label "gyzbHFYs3pg"
     step 0
     date "2021-11-16T01:40:43Z"
-    title "Karl denies being in bizarre QAnon conspiracy theory | Today Show Australia"
+    title "Karl denies being  in bizarre QAnon conspiracy theory | Today Show Australia"
     description "Subscribe &#128073; https://bit.ly/2n4QLnx | Today host Karl Stefanovic has denied being a &#8216;lizard person&#8217; in a bizarre QAnon conspiracy theory as author Van Badham discussed the growing threats of these far-right conspiracies in her new book &#8216;QAnon and On&#8217;. &#10;&#10;(Broadcast November 16, 2021) Get more TODAY at: http://9Soci.al/KzNl50GjSJk&#10;&#10;Join the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle. &#10;&#10;Like TODAY on Facebook: http://facebook.com/IWakeUpWithTODAY &#10;Follow TODAY on Twitter: http://twitter.com/thetodayshow  &#10;Follow TODAY on Instagram: https://www.instagram.com/thetodayshow &#10;&#10;#TodayShowAustralia #KarlStefanovic #AllisonLangdon"
     channeltitle "TODAY"
     channelid "UC5G0-uMcGFhNts84d24BZqw"
@@ -2161,7 +2161,7 @@ graph
     commentcount -1
     duration "PT6M10S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 691
     duration "PT7M12S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -2197,7 +2197,7 @@ graph
     commentcount 9919
     duration "PT4M51S"
     indegree 20
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 340
     duration "PT1M49S"
     indegree 2
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2233,7 +2233,7 @@ graph
     commentcount 8756
     duration "PT8M6S"
     indegree 9
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 1443
     duration "PT59S"
     indegree 1
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 1836
     duration "PT5M4S"
     indegree 3
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -2277,7 +2277,7 @@ graph
     label "qQbACnrgc2o"
     step 0
     date "2021-09-02T12:53:22Z"
-    title "Loved ones mourn on 60 Minutes+"
+    title "Loved ones mourn  on 60 Minutes+"
     description "60 Minutes+ correspondent Laurie Segall sat down with a group of people who say they are bound by the loss of relationships due to QAnon. In this preview, they describe the frustration and loss they feel at watching their loved ones whom, they say, have fallen into the web of right-wing conspiracy theories.&#10;&#10;Each weekday morning, &#34;CBS This Morning&#34; co-hosts Gayle King, Anthony Mason and Tony Dokoupil deliver two hours of original reporting, breaking news and top-level newsmaker interviews in an engaging and informative format that challenges the norm in network morning news programs.&#10;&#10;Subscribe to &#8220;CBS This Morning&#8221; on YouTube: https://www.youtube.com/user/CBSThisMorning&#10;Watch CBSN live: http://cbsn.ws/1PlLpZ7c&#8203;&#10;Download the CBS News app: http://cbsn.ws/1Xb1WC8&#8203;&#10;Follow &#34;CBS This Morning&#34; on Instagram: http://bit.ly/1Q7NGnY&#10;Like &#34;CBS This Morning&#34; on Facebook: http://on.fb.me/1LhtdvI&#10;Follow &#34;CBS This Morning&#34; on Twitter: http://bit.ly/1Xj5W3p&#10;Subscribe to our newsletter: http://cbsn.ws/1RqHw7T&#8203;&#10;Try Paramount+ free: https://bit.ly/2OiW1kZ&#10;&#10;For video licensing inquiries, contact: licensing@veritone.com"
     channeltitle "CBS Mornings"
     channelid "UC-SJ6nODDmufqBzPBwCvYvQ"
@@ -2305,7 +2305,7 @@ graph
     commentcount 5309
     duration "PT7M20S"
     indegree 1
-    cluster 2
+    cluster 11
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 79
     duration "PT3M2S"
     indegree 5
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -2331,7 +2331,7 @@ graph
     label "U_Pr7lS6zU0"
     step 0
     date "2021-11-18T03:22:34Z"
-    title "MyPillow Mike Sits Down with Trump, QAnon Shaman Gets Prison Time New Spider-Man Trailer"
+    title "MyPillow Mike Sits Down with Trump, QAnon Shaman Gets Prison Time  New Spider-Man Trailer"
     description "We celebrate the 11th anniversary of Jimmy creating National Unfriend Day for those who are still on Facebook, a professor in Glasgow has developed an electronic device that allows dogs to video call their owner, MyPillow Mike Lindell sat down with Donald Trump for an interview highlighting every debunked claim of election fraud, the QAnon Shaman was sentenced to 41 months in prison, the Staples Center in Los Angeles will now be known as the Crypto.com arena, outgoing New York City Mayor Bill de Blasio reminded us why we will miss his special brand of pizzaz, &#8220;Tiger King 2&#8221; came out today on Netflix and with their star in the slammer a character from the first season will now be the focus, and Jimmy reveals the sixth member of the Sinister Six in a second first look at the trailer for Spider-Man: No Way Home.&#10;&#10;SUBSCRIBE to get the latest #Kimmel: http://bit.ly/JKLSubscribe&#10;&#10;Watch Mean Tweets: http://bit.ly/KimmelMT10&#10;&#10;Connect with Jimmy Kimmel Live Online:&#10;&#10;Visit the Jimmy Kimmel Live WEBSITE: http://bit.ly/JKLWebsite&#10;Like Jimmy Kimmel on FACEBOOK: http://bit.ly/KimmelFB&#10;Like Jimmy Kimmel Live on FACEBOOK: http://bit.ly/JKLFacebook&#10;Follow @JimmyKimmel on TWITTER: http://bit.ly/KimmelTW&#10;Follow Jimmy Kimmel Live on TWITTER: http://bit.ly/JKLTwitter&#10;Follow Jimmy Kimmel Live on INSTAGRAM: http://bit.ly/JKLInstagram&#10;&#10;About Jimmy Kimmel Live:&#10;&#10;Jimmy Kimmel serves as host and executive producer of Emmy&#174;-nominated &#8220;Jimmy Kimmel Live!,&#8221; ABC&#8217;s late-night talk show. &#8220;Jimmy Kimmel Live!&#8221; is well known for its huge viral video successes, with over 11 billion views and more than 15 million subscribers on the show&#8217;s YouTube channel. Some of Kimmel&#8217;s most popular comedy bits include &#8220;Celebrities Read Mean Tweets,&#8221; &#8220;Lie Witness News,&#8221; &#8220;Unnecessary Censorship,&#8221; &#8220;Halloween Candy YouTube Challenge,&#8221; and music videos like &#8220;I (Wanna) Channing All Over Your Tatum.&#8221;"
     channeltitle "Jimmy Kimmel Live"
     channelid "UCa6vGFO9ty8v5KZJXQxdhaw"
@@ -2341,7 +2341,7 @@ graph
     commentcount 2351
     duration "PT11M43S"
     indegree 2
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 6566
     duration "PT9M8S"
     indegree 7
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 2565
     duration "PT11M27S"
     indegree 7
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 18493
     duration "PT5M8S"
     indegree 3
-    cluster 6
+    cluster 12
   ]
   node
   [
@@ -2403,7 +2403,7 @@ graph
     label "r3rVGrTknIk"
     step 0
     date "2021-03-16T23:59:12Z"
-    title "New video of at Capitol riot angers judge"
+    title "New video of  at Capitol riot angers judge"
     description "CNN's Brian Todd reports on newly released video of the &#34;QAnon Shaman&#34; Jacob Chansley walking into the Capitol. The footage angered the judge after Chansley lied in a &#34;60 Minutes&#34; interview and said police waved rioters in on January 6th.&#10;&#10;#CNN #News"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -2413,7 +2413,7 @@ graph
     commentcount 11983
     duration "PT3M25S"
     indegree 14
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 76
     duration "PT7M51S"
     indegree 5
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 1465
     duration "PT3M6S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 2
     duration "PT5M19S"
     indegree 2
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2475,7 +2475,7 @@ graph
     label "awLgMJeD0Os"
     step 0
     date "2022-02-22T11:13:56Z"
-    title "Qanon, scoperti gli ideatori della teoria della cospirazione globale: ecco come nata"
+    title "Qanon, scoperti gli ideatori della teoria della cospirazione globale: ecco come  nata"
     description "QAnon &#232; il movimento cospirazionista pi&#249; diffuso al mondo. Un complessop sistema di fake news ha persuaso milioni di persone dell&#34;    esistenza di uno stato parallelo costituito da poteri occulti dediti alla pedofilia e al satanismo. Ora, a distanza di cinque anni dalla pubblicazione del primo messaggio dell&#34;    ideatore di questa teoria, due team di detective hanno scoperto l&#34;    identit&#224; di &#34;    mister Q&#34;    , sono due uomini: un sudafricano e uno statunitense. Insieme animano un movimento ritenuto pericoloso perch&#233; in grado di attingere dalle paure e dal disagio per istigare comportamenti violenti. LEGGI L'ARTICOLO&#160; (A cura di Sofia Gadici)"
     channeltitle "La Repubblica"
     channelid "UC9ePmjVRHLL8x8vq5fOKflg"
@@ -2485,7 +2485,7 @@ graph
     commentcount 29
     duration "PT2M52S"
     indegree 2
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 3384
     duration "PT11M41S"
     indegree 10
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 6323
     duration "PT5M22S"
     indegree 2
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -2529,7 +2529,7 @@ graph
     label "Yb7YTarMtzI"
     step 0
     date "2021-02-20T15:15:02Z"
-    title "QAnon: Former conspiracy theorist e tongue sticking out lains why she stopped believing - DailyMail TV"
+    title "QAnon: Former conspiracy theorist explains why she stopped believing - DailyMail TV"
     description "A South Carolina mom not interested in politics has revealed how she was lured into QAnon conspiracy theories on TikTok when she lost her job during the pandemic.&#10;&#10;Ashley Vanderbilt, 27, has broken her silence to share how she became so indoctrinated by the extreme right-wing conspiracy that even her&#160;four-year-old daughter Emmerson knew 'something was wrong with her mom.'&#10;&#10;Before getting caught up in QAnon, Vanderbilt said she was passive with politics, didn't read the news and had always been someone 'that you just tell me what to do and I do it.'&#10;&#10;She said she had always been a Republican as she grew up being told to be and was a Donald Trump supporter but ended up so far 'down the rabbit hole' she started viewing him as being&#160;above God.&#10;&#10;&#10;Original Video: http://www.dailymail.co.uk/video/dailymailtv/video-2359502/Former-conspiracy-theorist-details-left-QAnon.html&#10;&#10;Daily Mail Facebook: http://facebook.com/dailymail&#10;Daily Mail IG: http://instagram.com/dailymail&#10;Daily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033&#10;Daily Mail Twitter: http://twitter.com/MailOnline&#10;Daily Mail Pinterest: http://pinterest.co.uk/dailymail&#10;Daily Mail Google+: https://plus.google.com/+DailyMail&#10;&#10;Get the free Daily Mail mobile app: http://dailymail.co.uk/mobile"
     channeltitle "Daily Mail"
     channelid "UCw3fku0sH3qA3c3pZeJwdAw"
@@ -2539,7 +2539,7 @@ graph
     commentcount 10
     duration "PT3M36S"
     indegree 2
-    cluster 7
+    cluster 1
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 3241
     duration "PT49S"
     indegree 0
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount -1
     duration "PT3M9S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2593,7 +2593,7 @@ graph
     commentcount 5430
     duration "PT5M32S"
     indegree 4
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 33
     duration "PT11M26S"
     indegree 3
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2619,7 +2619,7 @@ graph
     label "m9F3ayPoDIA"
     step 0
     date "2020-08-28T14:00:28Z"
-    title "QAnon E tongue sticking out laine tongue sticking out How The Conspiracy Became Mainstream - TLDR News"
+    title "QAnon Explained: How The Conspiracy Became Mainstream - TLDR News"
     description "QAnon is a conspiracy theory that's been around for a few years now, but since COVID the theory seems to have really taken off. Believers think there's a secret underground group of people committing horrific crimes and that Trump's the only person who can stop them. In this video, we explain the theory, but more importantly how it took off and the social media platforms that allowed the theory to become mainstream.&#10;&#10;Follow TLDR on Facebook: http://www.facebook.com/tldrnewsus&#10;Follow TLDR on Instagram: http://www.instagram.com/tldrnewsus&#10;Follow TLDR on Twitter: https://twitter.com/tldrnewsus&#10;Discord: https://discord.gg/BMrk6MC&#10;&#10;Support TLDR on Patreon: http://www.patreon.com/tldrnews&#10;TLDR News Store: https://www.tldrnews.co.uk/store&#10;TeeSpring Store: https://teespring.com/en-GB/stores/tldr-news-us&#10;Donate by PayPal: https://tldrnews.co.uk/funding&#10;Learn About Our Funding: https://tldrnews.co.uk/funding&#10;&#10;TLDR is a super small company, run by few people with the help of some amazing volunteers. We are primarily fan sourced with most of our funding coming from donations and ad revenue. No shady corporations, no one telling us what to say. We can't wait to grow further and help more people get informed. Help support us by subscribing, following and backing on Patreon. Thanks!&#10;&#10;&#10;////////////////////////////////////////&#10;&#10;1 - https://www.dailydot.com/debug/qanon-failed-predictions/&#10;2 - https://arxiv.org/pdf/1912.11211.pdf&#10;3 - https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html&#10;4 - https://www.buzzfeednews.com/article/skbaer/qanon-believer-arrested-hoover-dam&#10;5 - https://www.newsbreak.com/new-york/new-york/news/1557512969857/nypd-arrests-qanon-conspiracist-who-allegedly-threatened-to-kill-joe-biden-had-car-full-of-knives"
     channeltitle "TLDR News US"
     channelid "UCGg5QDOcFZYS3FbLVHRvJUw"
@@ -2629,7 +2629,7 @@ graph
     commentcount 1907
     duration "PT11M37S"
     indegree 17
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2637,7 +2637,7 @@ graph
     label "L4DkztDjlak"
     step 0
     date "2020-09-06T22:59:41Z"
-    title "Reformed Neo-Nazi E tongue sticking out lains How People Fall Prey to QAnon Online | MSNBC"
+    title "Reformed Neo-Nazi Explains How People Fall Prey to QAnon Online | MSNBC"
     description "Shannon Foley-Martinez, a former violent white supremacist now working to extract others from extremist groups, says QAnon attracts people looking for a meaningful connection and a way to navigate a world that feels unsafe.&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, Hardball, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;&#10;Reformed Neo-Nazi Explains How People Fall Prey to QAnon Online | MSNBC"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -2647,7 +2647,7 @@ graph
     commentcount 10229
     duration "PT9M23S"
     indegree 3
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -2665,7 +2665,7 @@ graph
     commentcount 5463
     duration "PT10M54S"
     indegree 6
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -2683,7 +2683,7 @@ graph
     commentcount 387
     duration "PT3M11S"
     indegree 2
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 2112
     duration "PT7M41S"
     indegree 2
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -2737,7 +2737,7 @@ graph
     commentcount 51
     duration "PT2M6S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 2
     duration "PT7M42S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -2763,7 +2763,7 @@ graph
     label "trB06rINhKI"
     step 0
     date "2021-01-21T19:13:06Z"
-    title "Meet the behind the horns at the Capitol insurrection"
+    title "Meet the  behind the horns at the Capitol insurrection"
     description "While there'll be many people breathing a sigh of relief that Donald Trump has left the White House - millions of his supporters still don't accept the fact of his defeat, and Americans are now divided not so much by their support for different politicians but more by their belief in polar opposite versions of the truth. (Subscribe: https://bit.ly/C4_News_Subscribe)&#10;&#10;Jake Angeli was one of the rioters who stormed the Capitol - he's now facing multiple charges for his role in the attack which left five people dead. Photographs of him, clad in horns and fur was one of the more bizzare and defining images of that day. But what drives someone like him? &#10;&#10;The filmmaker Alex Lockett came across Angeli before the election in his home town of Phoenix Arizona and followed him for several weeks - here's what happened next - narrated by Krishnan Guru-Murthy.&#10;&#10;Filmed and Directed by Alex Lockett. Edited by Aggie Liggett. Produced by Amy Howerska.&#10;&#10;Researchers: Talah Kaddourah, Ashley Markle and Isobel Ray. Field assistant: Travis Upright. Executive Producer: Nevine Mabro. &#10;&#10;-----&#13;&#10;&#13;&#10;Watch more of our explainer series here - https://www.youtube.com/playlist?list=PLXjqQf1xYLQ6bu-iixvoFTVsiXQVlVniX&#13;&#10;Get more news at our site - https://www.channel4.com/news/ &#13;&#10;&#13;&#10;Follow us:&#13;&#10;Facebook - https://www.facebook.com/Channel4News/&#13;&#10;Twitter - https://twitter.com/Channel4News"
     channeltitle "Channel 4 News"
     channelid "UCTrQ7HXWRRxr7OsOtodr2_w"
@@ -2773,7 +2773,7 @@ graph
     commentcount 3936
     duration "PT11M47S"
     indegree 41
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2781,7 +2781,7 @@ graph
     label "Hs7UZ5y4L_8"
     step 0
     date "2021-11-03T20:30:02Z"
-    title "QAnon Supporters Gathered in Dallas, E tongue sticking out ecting JFK Jr. to Reappear"
+    title "QAnon Supporters Gathered in Dallas, Expecting JFK Jr. to Reappear"
     description "Hundreds of Trump and QAnon supporters gathered Tuesday along the Grassy Knoll in Dallas, the site of the assassination of President John F. Kennedy, believing the president's late son, John F. Kennedy Jr., would miraculously reappear and that he would help former President Donald Trump reclaim power. &#10;&#10;#QAnon #JFK #JFKJr&#10;&#10;---&#10;&#10;Daily Blast LIVE: Your Daytime Destination.&#10;&#10;Live on TV. Live Streaming. | DailyBlastLive.com | Check Your Local Listings &#10;&#10;Join the conversation and share your #DBLtake! &#10;&#10;Monday - Friday&#10;12:30  p.m. - 1 p.m. ET&#10;1:30 p.m. - 5 p.m. ET&#10;7:30 p.m. - 8 p.m. ET"
     channeltitle "Daily Blast LIVE"
     channelid "UCypeFpwuQcq-G-UpEFkmJzg"
@@ -2791,7 +2791,7 @@ graph
     commentcount 168
     duration "PT3M26S"
     indegree 1
-    cluster 1
+    cluster 4
   ]
   node
   [
@@ -2809,7 +2809,7 @@ graph
     commentcount 65
     duration "PT2M17S"
     indegree 3
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -2827,7 +2827,7 @@ graph
     commentcount 11163
     duration "PT15M3S"
     indegree 12
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2835,7 +2835,7 @@ graph
     label "GtSQvYlLweM"
     step 0
     date "2020-09-04T17:57:35Z"
-    title "Biden Warns Of Democratic System | MSNBC"
+    title "Biden Warns  Of Democratic System | MSNBC"
     description "Democratic candidate Joe Biden criticizes President Trump&#8217;s for not publicly rejecting QAnon conspiracy theories. Aired on 09/04/2020.&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, Hardball, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;Biden Warns 'Bizarre' QAnon Conspiracies Are 'Deconstruction' Of Democratic System | MSNBC"
     channeltitle "MSNBC"
     channelid "UCaXkIU1QidjPwiAYu6GcHjg"
@@ -2845,7 +2845,7 @@ graph
     commentcount 1615
     duration "PT3M11S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 388
     duration "PT15M50S"
     indegree 14
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -2881,7 +2881,7 @@ graph
     commentcount 1075
     duration "PT2M23S"
     indegree 5
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 6570
     duration "PT7M42S"
     indegree 4
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 22
     duration "PT1M14S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount -1
     duration "PT7M8S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 57
     duration "PT4M28S"
     indegree 5
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -2961,7 +2961,7 @@ graph
     label "G-WCG_T9-bo"
     step 0
     date "2020-10-23T16:30:01Z"
-    title "Borat Learns About The | Borat: Subsequent Moviefilm | Prime Video"
+    title "Borat Learns About The  | Borat: Subsequent Moviefilm | Prime Video"
     description "Borat is lucky enough to be taken in by &#34;two of America's greatest scientists&#34; where he learns about the dangers of the Democrats, how to kill the Coronavirus, and more!&#10;&#187; SUBSCRIBE: http://www.youtube.com/channel/UCwSIJCMWZC5GDM59wj7pMsg?sub_confirmation=1&#10;&#10;Get More Prime Video: &#10;Watch More: http://bit.ly/WatchPrimeVideoUKNow&#10;Facebook: http://bit.ly/PrimeVideoUKFacebook&#10;Twitter: http://bit.ly/PrimeVideoUKTwitter&#10;Instagram: http://bit.ly/PrimeVideoUKInstagram&#10;&#10;About Prime Video:&#10;Want to watch it now? We've got it. This week's newest movies, last night's TV shows, classic favourites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Over 150,000 movies and TV episodes, including thousands for Amazon Prime members at no additional cost."
     channeltitle "Amazon Prime Video UK"
     channelid "UCwSIJCMWZC5GDM59wj7pMsg"
@@ -2971,7 +2971,7 @@ graph
     commentcount 1424
     duration "PT6M29S"
     indegree 4
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 1047
     duration "PT11M11S"
     indegree 13
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -2997,7 +2997,7 @@ graph
     label "VH9ukM11INY"
     step 0
     date "2021-11-19T02:42:41Z"
-    title "Judge sentences Jacob Chansley for role in Capitol riot"
+    title "Judge sentences  Jacob Chansley for role in Capitol riot"
     description "CNN's Chris Cuomo and Attorney Albert Watkins discuss his client Jacob Chansley, who was sentenced to 41 months in prison for his role in the US Capitol riot.&#10;&#10;#CNN #News"
     channeltitle "CNN"
     channelid "UCupvZG-5ko_eiXAupbDfxWw"
@@ -3007,7 +3007,7 @@ graph
     commentcount 2641
     duration "PT8M6S"
     indegree 8
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 897
     duration "PT25M5S"
     indegree 55
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 614
     duration "PT1H6S"
     indegree 4
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3061,7 +3061,7 @@ graph
     commentcount 3863
     duration "PT6M44S"
     indegree 4
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 19938
     duration "PT17M54S"
     indegree 6
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount 2151
     duration "PT6M44S"
     indegree 0
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 50
     duration "PT1M32S"
     indegree 4
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3123,7 +3123,7 @@ graph
     label "vwV-rqMmQtE"
     step 0
     date "2021-11-24T13:47:28Z"
-    title "QAnon E tongue sticking out osed By Journalist Cullen Hoback - HBO Documentary"
+    title "QAnon Exposed By Journalist Cullen Hoback - HBO Documentary"
     description "Patrick Bet-David sits down with Cullen Hoback. Cullen James Hoback is an American filmmaker, film producer and director.  Let Cullen know your thoughts on the interview here: https://bit.ly/3xihmgR&#10;&#10;Recommended videos: &#10;- Alex Jones &#8220;I&#8217;m Ready to Die&#8221; - Exclusive Interview After Being Banned: https://youtu.be/xvqdhphHrh0&#10;&#10;Check out Official Valuetainment Merch here: https://vtmerch.com/&#10;&#10;Reach Cullen Here:&#10;Twitter: https://bit.ly/3xihmgR&#10;&#10;About Guest:&#10;Cullen James Hoback is an American filmmaker, film producer and director. He is also an occasional columnist and speaker. His documentary films include Monster Camp (2007), Terms and Conditions May Apply (2013), and What Lies Upstream (2018), as well as the HBO mini-series Q: Into the Storm (2021). His documentary style has been described as non-fiction horror with a comedic tone. He appears on-camera as a central character in Terms and Conditions May Apply and What Lies Upstream. Following the release of Terms and Conditions May Apply, Hoback has written op-eds for many journals including The Guardian, presented as faculty at The American Bar Association Section of Antitrust Law Spring Meeting, and has appeared as a privacy expert on networks and shows including MSNBC, CNN, NPR, Huffington Post, Stossel, and The Young Turks.&#10;Hoback has been overtly critical of the relationship between corporations and the government, and how they've been complicit in the surveillance system. On December 25, 2013, Cullen Hoback and Ondi Timoner released a lengthy conversation about how the surveillance situation has evolved since her film, We Live in Public. In an interview with The Guardian earlier that month in December 2013, Hoback commented that whistleblower Edward Snowden should be granted immunity by the US government.&#10;&#10;Music selection used through agreement with Epidemic Sound http://bit.ly/2B8DxK1&#10;&#10;Make sure to subscribe to Valuetainment for the updates: http://bit.ly/2aPEwD4&#10;&#10;About Valuetainment: &#10;Founded in 2012 by Patrick Bet-David, our goal is to impact entrepreneurs around the world through value and entertainment. We are the #1 channel for entrepreneurs because of the best interviews, best how to videos, best case studies and because we defend capitalism and educate entrepreneurs. &#10;&#10;Follow Patrick on social media:&#10;Website: http://www.patrickbetdavid.com&#10;Facebook: https://www.facebook.com/PatrickBetDavid.Valuetainment/&#10;Instagram:https://www.instagram.com/patrickbetdavid&#10;Twitter:https://twitter.com/patrickbetdavid&#10;LinkedIn: https://www.linkedin.com/in/patrick-bet-david-3731553&#10;&#10;To reach the Valuetainment team, you can email: info@valuetainment.com&#10;&#10;#PatrickBetDavid #Valuetainment"
     channeltitle "Valuetainment"
     channelid "UCIHdDJ0tjn_3j-FS7s_X1kQ"
@@ -3133,7 +3133,7 @@ graph
     commentcount 1156
     duration "PT58M56S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3151,7 +3151,7 @@ graph
     commentcount 1230
     duration "PT7M5S"
     indegree 13
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 1849
     duration "PT8M27S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3187,7 +3187,7 @@ graph
     commentcount 1854
     duration "PT12M37S"
     indegree 21
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount -1
     duration "PT16M27S"
     indegree 13
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 3734
     duration "PT53M15S"
     indegree 4
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 359
     duration "PT53S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -3259,7 +3259,7 @@ graph
     commentcount 799
     duration "PT7M31S"
     indegree 2
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -3277,7 +3277,7 @@ graph
     commentcount 3590
     duration "PT12M7S"
     indegree 2
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 2556
     duration "PT32S"
     indegree 0
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 171
     duration "PT4M1S"
     indegree 2
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -3331,7 +3331,7 @@ graph
     commentcount 2249
     duration "PT9M12S"
     indegree 3
-    cluster 6
+    cluster 10
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 98
     duration "PT5M56S"
     indegree 0
-    cluster 6
+    cluster 12
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 64
     duration "PT4M12S"
     indegree 2
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -3375,7 +3375,7 @@ graph
     label "TCs-nVQcn5g"
     step 0
     date "2022-05-10T20:38:40Z"
-    title "Alex Joness Head E tongue sticking out LODES Over QAnon Phone Call"
+    title "Alex Joness Head EXPLODES Over QAnon Phone Call"
     description "Alex Jones goes nuts and completely destroys a caller during his show, InfoWars, for asking a QAnon related question. John Iadarola and Yasmin Khan break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;Alex Jones Rips Caller for Invoking QAnon Conspiracy Theory: &#8216;I&#8217;m Tired of It&#8230; Q is the Worst People in the World&#8217; - https://www.mediaite.com/news/alex-jones-rips-caller-for-invoking-qanon-conspiracy-theory-im-tired-of-it-q-is-the-worst-people-in-the-world/&#10;&#10;&#34;Conspiracy theorist Alex Jones has had enough of the QAnon crowd.&#10;&#10;The InfoWars founder and host ripped a caller who invoked the popular theory on his show.&#10;&#10;A clip posted online highlighted a moment in Jones&#8217; daily, hours-long broadcast in which he ripped QAnon to shreds after it was brought into the conversation by a caller.&#10;&#10;Jones went into a screed in which he screamed at the man &#8212; and everyone who bought into QAnon &#8212; in the years leading up to the 2020 election.&#34;&#10;&#10;**&#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks"
     channeltitle "The Damage Report"
     channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
@@ -3385,7 +3385,7 @@ graph
     commentcount 663
     duration "PT5M46S"
     indegree 1
-    cluster 7
+    cluster 9
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 2499
     duration "PT2M52S"
     indegree 10
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 1238
     duration "PT7M5S"
     indegree 2
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount 373
     duration "PT1M12S"
     indegree 1
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount -1
     duration "PT2M42S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -3475,7 +3475,7 @@ graph
     commentcount 1881
     duration "PT4M20S"
     indegree 3
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3501,7 +3501,7 @@ graph
     label "tJgwZa3IxPw"
     step 0
     date "2021-02-03T17:30:03Z"
-    title "E tongue sticking out laining Qanon: The Bad, The Ugly, and the Headaches | Corporate Casket"
+    title "Explaining Qanon: The Bad, The Ugly, and the Headaches | Corporate Casket"
     description "Go to http://mintmobile.com/casket to get your new wireless plan for just $15 a month and free shipping!&#10;&#10;Welcome to the Corporate Casket, a weekly series where bad businesses go to die. &#10;&#10;Connect with me: https://linktr.ee/iilluminaughtii&#10;Sources: https://pastebin.com/hRLeF3A5&#10;&#10;Writers/Researchers/Helpers:&#10;Ali Zagame&#10;&#10;This episode's audio was mixed by:&#10;G. Thomas Craig &#10;&#10;Artists:&#10;Sprites made by https://plegberb.tumblr.com/&#10;&#10;Outro song is Cake by Retrovision&#10;&#10;You made it all the way to the bottom of my description box so, hello there.&#10;&#10;#iilluminaughtii #qanon #conspiracy"
     channeltitle "iilluminaughtii"
     channelid "UCpDmn2FfVYdPIDwRTcf5-OA"
@@ -3511,7 +3511,7 @@ graph
     commentcount 3407
     duration "PT39M1S"
     indegree 2
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -3529,7 +3529,7 @@ graph
     commentcount -1
     duration "PT42M32S"
     indegree 9
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount -1
     duration "PT30M48S"
     indegree 3
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3565,7 +3565,7 @@ graph
     commentcount 18
     duration "PT3M43S"
     indegree 0
-    cluster 6
+    cluster 2
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount -1
     duration "PT2M13S"
     indegree 2
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 1335
     duration "PT9M15S"
     indegree 18
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 1439
     duration "PT10M16S"
     indegree 16
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3655,7 +3655,7 @@ graph
     commentcount 2134
     duration "PT7M14S"
     indegree 9
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 33
     duration "PT10M23S"
     indegree 2
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3691,7 +3691,7 @@ graph
     commentcount 6010
     duration "PT7M26S"
     indegree 14
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 465
     duration "PT3M5S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3727,7 +3727,7 @@ graph
     commentcount 4818
     duration "PT28M39S"
     indegree 5
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3735,7 +3735,7 @@ graph
     label "kBZNFhbKqsc"
     step 0
     date "2021-11-30T14:30:06Z"
-    title "Xeno Reacts to By Channel 5"
+    title "Xeno Reacts to  By Channel 5"
     description "People are weird, man. In this video Xeno reacts to a conference for conspiracy theory believers. This was hard to watch. This video was made by Channel 5 with Andrew Callaghan, previously known as All Gas No Brakes. Andrew and the Channel 5 crew joined the &#34;God and Country Patriot Roundup&#34; meetup and interviewed some interesting folks out there. What is QAnon conspiracy? Who are the people who believe in it? Stay tuned to find out.&#10;&#10;Original video: https://www.youtube.com/watch?v=KYKOLwt8pwo (Q Conference)&#10;&#10;&#9658; Xeno's Twitch: https://www.twitch.tv/xenosysvex&#10;&#9658; Xeno's Twitter: https://twitter.com/xenosysvex&#10;&#9658; Xeno's Discord: https://discord.gg/xenosysvex&#10;&#9658; Xeno's fflogs: https://www.fflogs.com/character/id/27629&#10;&#10;Thank you for watching! Don't forget to subscribe to Xeno's YouTube Channel so you can stay up to date with the best Xeno Highlights, Xeno Reacts, Xeno Guides and the funniest Xeno moments from Final Fantasy 14 (FFXIV) and other games played on stream! &#10;&#10;#Xeno #FFXIV #Channel5&#10;&#10;Channel Editor: Leo Coman (Discord: Leo#9926)&#10;&#10;Outro song: Sirius Beat - The Chosen&#10;Link: http://youtu.be/JuaM1romA3c&#10;&#10;Background music by Sirius Beat&#10;Link: https://www.youtube.com/c/siriusbeat&#10;&#10;If you own the copyright of content showed in this video and would like it to be removed or the Ad-Revenue made from it please contact:&#10;&#9658; leocoman3@gmail.com"
     channeltitle "Xenosys Vex"
     channelid "UCufmMfFTkZSi0sHWBhzz9yg"
@@ -3745,7 +3745,7 @@ graph
     commentcount 93
     duration "PT25M10S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 2011
     duration "PT16M11S"
     indegree 13
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 1817
     duration "PT7M2S"
     indegree 6
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 231
     duration "PT5M48S"
     indegree 3
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3817,7 +3817,7 @@ graph
     commentcount 449
     duration "PT40S"
     indegree 6
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount 188
     duration "PT5M39S"
     indegree 4
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 160
     duration "PT4M7S"
     indegree 0
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -3861,7 +3861,7 @@ graph
     label "bD9U9bQUlSs"
     step 0
     date "2021-03-13T05:15:35Z"
-    title "The Q in Conspiracy: Wu Ming 1 and Florian Cramer on QAnon Conspiracies #DisruptiveFridays"
+    title "The Q in Conspiracy: Wu Ming 1 and Florian Cramer on QAnon  Conspiracies #DisruptiveFridays"
     description "THE Q IN QONSPIRACY: QAnon as a Paradigm for Future Social-media-driven Conspiracism&#183; Disruptive Fridays #19&#10;&#10;Wu Ming 1 and Florian Cramer, moderated by Tatiana Bazzichelli &#10;&#10;In this conversation between Wu Ming 1 and Florian Cramer, QAnon is discussed as a template for contemporary social-media-driven conspiracy fantasies that work simultaneously as games and a new kind of cults. By focusing on the mutation of conspiracy myths from countercultural phenomena to contemporary meme and influencer culture, they will focus on three conspiracy narratives: &#34;The Great Replacement&#34; (from Renaud Camus to Charlottesville), QAnon (from Pizzagate to the Capitol storming) and &#34;The Great Reset&#34; (as a set of pandemic-inspired variations on the old New World Order trope).&#10;&#10;https://www.disruptionlab.org/fridays&#10;&#10;00:00. Introduction by Tatiana Bazzichelli&#10;3:55.  Wu Ming 1: The Q in Qonspiracy - Background&#10;7:05  Qanons dynamics &#38; context: social media &#38; algorithms&#10;9:00. Real Conspiracies vs Conspiracy Fantasies&#10;11:50. Qanons evolution&#10;14:22. Florian Cramer: Gamification &#38; Qanon as a Collaborative Game&#10;20:44. Forerunners to Qanon: The Zeitgeist Movement, Occupy Wall Street&#10;22:33. Global Scale &#38; Success; Qanons Plane of Immanence&#10;26:35. Rhizomatic Fascism&#10;29:31. Similarities to the Q novel by Wu Ming / Luther Blissett&#10;33:21. The Kernel of Truth of Qanon; Europe, Corona, Conspirituality, The Great Reset&#10;37:41. Bill Gates, the WHO &#38; Neoliberalism&#10;39:31. The trap of defending Bill Gates, avoiding the binary; Snowden&#10;48:03. Suspicion, Mistrust, Big Pharma&#10;46:31. New narratives: The Great Replacement, The Great Reset&#10;46:49. The assault on Capitol Hill - an apex and swan song of Qanon  &#10;55:48. The Great Reset, World Economic Forum, Covid-19&#10;57:06. The Catholic Church&#10;1:01:00. Outro"
     channeltitle "Disruption Network Lab"
     channelid "UCxiH37LS3aCEPQlq5Bh4oAQ"
@@ -3871,7 +3871,7 @@ graph
     commentcount 8
     duration "PT1H5M51S"
     indegree 2
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 2040
     duration "PT17M42S"
     indegree 1
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 78
     duration "PT2M48S"
     indegree 6
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 150
     duration "PT22M45S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 136
     duration "PT7M11S"
     indegree 6
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 2054
     duration "PT6M53S"
     indegree 1
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 233
     duration "PT6M32S"
     indegree 5
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -3987,7 +3987,7 @@ graph
     label "JV4QnalowwE"
     step 0
     date "2022-05-07T13:00:07Z"
-    title "QAnon Finally Decodes Covfefe"
+    title "QAnon  Finally Decodes Covfefe"
     description "This is the most astoundingly dumbest theorist by this qanon self-proclaimed &#8220;prophet&#8221; Johnny Enlow. Jayar Jackson and Yasmin Khan break it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;See more HERE: https://twitter.com/RightWingWatch/status/1521880722281222147?s=20&#38;t=k8wM4GpwP5RrJuFT5JMmaA&#10;&#10;*** &#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://youtube.com/watchlisttyt&#10;FACEBOOK: &#9758; http://www.facebook.com/watchlisttyt&#10;TWITTER: &#9758; https://twitter.com/watchlisttyt&#10;INSTAGRAM: &#9758; https://instagram.com/watchlisttyt&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#10; Merch: http://shoptyt.com&#10;&#10; Donate: http://www.tyt.com/go&#10;&#10; Website: https://www.tyt.com&#10;&#10;App: http://www.tyt.com/app&#10;&#10; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;Indisputable  https://www.youtube.com/indisputabletyt&#10;&#10;The Young Turks  https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report  https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports  https://www.youtube.com/tytsports&#10;&#10;The Conversation  https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ  https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates  https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;#TYT #TheWatchlist #JayarJackson&#10;&#10;&#10;220505__WL04_Qanon_Conspiracist"
     channeltitle "WatchlistTYT"
     channelid "UCdUdP5BeOsua_j3u-0ZbL5w"
@@ -3997,7 +3997,7 @@ graph
     commentcount 95
     duration "PT5M57S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4005,7 +4005,7 @@ graph
     label "-Rd3leXFcmI"
     step 0
     date "2022-04-16T13:00:16Z"
-    title "Michael Cohen E tongue sticking out OSES QAnon Republican Takeover with Investigative Journalist Kurt Eichenwald"
+    title "Michael Cohen EXPOSES QAnon Republican Takeover with Investigative Journalist Kurt Eichenwald"
     description "The GOP has unleashed a terrifying new plot to harness the collective voting power of millions of QAnon adherents and sympathizers in their quest to retake the Congressional majority in this year&#8217;s midterm elections. By doing so they have purposely unleashed a dangerous, uncontrollable virus into American politics. We talk with former New York Times investigative reporter and bestselling author Kurt Eichenwald about what it all means.&#10;&#10;Subscribe to Mea Culpa with Michael Cohen: https://www.audioup.com/shows/meaculpa"
     channeltitle "MeidasTouch"
     channelid "UC9r9HYFxEQOBXSopFS61ZWg"
@@ -4015,7 +4015,7 @@ graph
     commentcount 1747
     duration "PT1H4M31S"
     indegree 0
-    cluster 4
+    cluster 7
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 3929
     duration "PT14M37S"
     indegree 12
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 1
     duration "PT4M15S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 564
     duration "PT5M32S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount -1
     duration "PT1H1M49S"
     indegree 4
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 3888
     duration "PT14M16S"
     indegree 23
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4123,7 +4123,7 @@ graph
     commentcount 3022
     duration "PT6M6S"
     indegree 3
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4141,7 +4141,7 @@ graph
     commentcount 720
     duration "PT6M17S"
     indegree 2
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -4159,7 +4159,7 @@ graph
     commentcount 143
     duration "PT33S"
     indegree 0
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 119
     duration "PT57S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4185,7 +4185,7 @@ graph
     label "4BrtBmhhohE"
     step 0
     date "2020-07-16T14:00:00Z"
-    title "QAnon, E tongue sticking out lained"
+    title "QAnon, Explained"
     description "&#34;Deep state,&#34; pizza, pedophiles, the number 17...This conspiracy theory is trickling into mainstream politics from the Web's dark recesses. Here's QAnon.&#10;&#10;Subscribe to Brut America: https://bit.ly/BrutAmericaYT&#10;&#10;&#128242;Watch the newest Brut videos on our mobile apps: &#10;&#9654;&#65038;https://apps.apple.com/us/app/brut/id1401241655&#10;&#9654;&#65038;https://play.google.com/store/apps/details?id=media.brut.brut&#10;&#10;Discover More Brut:&#10;&#9654;&#65038; https://brut.media/us&#10;&#9654;&#65038; FB: https://facebook.com/brutamerica&#10;&#9654;&#65038; IG: https://instagram.com/brutamerica&#10;&#9654;&#65038; TW: https://twitter.com/brutamerica"
     channeltitle "Brut America"
     channelid "UCFZ1Dv_jsdIIUgnJVVcbqKQ"
@@ -4195,7 +4195,7 @@ graph
     commentcount 309
     duration "PT5M13S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4213,7 +4213,7 @@ graph
     commentcount 2560
     duration "PT2M10S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount 482
     duration "PT7M29S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 0
     duration "P0D"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 3215
     duration "PT9M37S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 774
     duration "PT31M49S"
     indegree 5
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4293,7 +4293,7 @@ graph
     label "cR5H-tlTtY0"
     step 0
     date "2020-10-21T11:30:02Z"
-    title "QAnon? Non un gioco"
+    title "QAnon? Non  un gioco"
     description "Come si spiega il successo di una teoria del complotto assurda come quella di QAnon? Un'ipotesi &#232; che sia vissuta dai suoi seguaci come un ARG, cio&#232; un &#34;Alternate Reality Game&#34;, un gioco calato in una realt&#224; alternativa. Ma &#232; un gioco molto pericoloso... Di questo parliamo oggi a &#34;Il complotto quotidiano&#34;.&#10;&#10;Aderisci alla pagina PATREON e sostieni i miei progetti e il mio lavoro: http://patreon.com/massimopolidoro&#10;&#10;Iscriviti alla mia NEWSLETTER: L' &#34;AVVISO AI NAVIGANTI&#34;: &#10;https://mailchi.mp/massimopolidoro/avvisoainaviganti e partecipa alle scelte della mia community&#10;&#10;LEGGI il mio libro &#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;&#10;Iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;e non perdere i prossimi video&#10;&#10;Lasciami sotto i tuoi commenti e i suggerimenti per nuovi misteri da indagare!&#10;&#10;PER APPROFONDIRE&#10;&#10;&#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;Warzel, C.: &#34;Is QAnon the Most Dangerous Conspiracy Theory of the 21st Century?&#34;, The New York Times, 4 agosto 2020: https://www.nytimes.com/2020/08/04/opinion/qanon-conspiracy-theory-arg.html&#10;Kaminska, I. &#34;The &#8220;game theory&#8221; in the Qanon conspiracy theory&#34;, Financial Times, 16 ottobre 2020: https://ftalphaville.ft.com/2020/10/16/1602828074000/The--game-theory--in-the-Qanon-conspiracy-theory/&#10;Puente, D. &#34;*** a processo per le falsit&#224; su Valeria Solesin. I complottisti prima o poi pagano&#34;: https://www.open.online/2020/10/19/rosario-marciano-processo-falsita-valeria-solesin/&#10;Wu Ming 1 &#34;Come entrare e uscire da QAnon&#34;: Parte 1 https://bit.ly/2SbRgZc - Parte 2 https://bit.ly/33h8jza&#10;Queryonline: &#34;QAnon perch&#233; funziona?&#34;: https://bit.ly/30lkzNh&#10;ValigiaBlu: &#34;QAnon: la nuova religione complottista&#34;: https://bit.ly/34fASMK&#10;Wu Ming 1 su Internazionale: &#34;Come nasce una teoria del complotto e come affrontarla&#34;: https://bit.ly/2WSoaQv&#10;WuMing1: &#8220;Come nasce una teoria del complotto e come affrontarla: il caso QAnon&#8221; (conferenza live): https://www.youtube.com/watch?v=76yMhwUfoys&#10;&#10;BuzzFeed: &#8220;An Armed Man Spouting A Bizarre Right-Wing Conspiracy Theory Was Arrested After A Standoff At The Hoover Dam&#8221;: https://bit.ly/2LrEdj2&#10;&#10;I miei ultimi libri:&#10;&#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;&#34;La libreria dei misteri&#34;: https://amzn.to/3bHBU7E&#10;&#34;Grandi misteri della storia&#34;: https://amzn.to/2U5hcHe&#10;&#34;Atlante dei luoghi misteriosi d'Italia&#34;: https://amzn.to/2OWmjrX&#10;Io, Leonardo Da Vinci: https://amzn.to/2XUeHXA&#10;&#34;Leonardo. Il romanzo di un genio ribelle&#34;: https://amzn.to/2D80WgX&#10;&#10;Iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;e non perdere i prossimi video&#10;&#10;Lasciami sotto i tuoi commenti e i suggerimenti per nuovi misteri da indagare!&#10;&#10;I miei ultimi libri:&#10;&#34;Il mondo sottosopra&#34;: https://amzn.to/2nk0QNG&#10;&#34;Grandi misteri della storia&#34;: https://amzn.to/3f3xaKG&#10;&#34;Atlante dei luoghi misteriosi d'Italia&#34;: https://amzn.to/2OWmjrX&#10;&#34;Io, Leonardo Da Vinci&#34;: https://amzn.to/2XUeHXA&#10;&#34;Leonardo. Il romanzo di un genio ribelle&#34;: https://amzn.to/2D80WgX&#10;&#10;E qui l&#8217;elenco completo dei miei libri disponibili: http://amzn.to/2G49XGw&#10;&#10;Non perdere i prossimi video, iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;&#10;&#10;RESTIAMO IN CONTATTO:&#10;&#10;Ricevi l'Avviso ai Naviganti, la mia newsletter settimanale: https://mailchi.mp/massimopolidoro/avvisoainaviganti&#10;e partecipa alle scelte della mia community&#10;&#10;Seguimi:&#10;Patreon: http://patreon.com/massimopolidoro&#10;Instagram: https://www.instagram.com/massimopolidoro&#10;Gruppo FB: https://www.facebook.com/groups/MassimoPolidoroFanClub&#10;Pagina FB: https://www.facebook.com/Official.Massimo.Polidoro&#10;Twitter: https://twitter.com/massimopolidoro&#10;&#10;Sito e blog: http://www.massimopolidoro.com&#10;&#10;Iscriviti al mio canale: https://goo.gl/Xkzh8A&#10;&#10;IIscriviti al mio canale: https://goo.gl/Xkzh8A&#10;&#10;IIdeato da Massimo Polidoro&#10;&#10;Ha collaborato Roberta Baria&#10;&#10;Grazie a Francesco Miceli&#10;&#10;Le immagini del canale spesso provengono da Wikimedia Commons, dalla Collezione James Randi, dalla Collezione CICAP e dalla mia Collezione personale &#10;&#10;Questa descrizione contiene link affiliati, il che significa che in caso di acquisto di qualcuno dei libri segnalati ricever&#242; una piccola commissione: un piccolo contributo per sostenere il canale e la realizzazione di questi video. Grazie per il sostegno!"
     channeltitle "Massimo Polidoro"
     channelid "UCSKSPISyIsexROCyKZLkD9w"
@@ -4303,7 +4303,7 @@ graph
     commentcount 759
     duration "PT20M27S"
     indegree 6
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4311,7 +4311,7 @@ graph
     label "swHsbunOGH4"
     step 0
     date "2022-02-10T11:20:32Z"
-    title "QAnon - e tongue sticking out osing extremists views within the ranks ICYMI"
+    title "QAnon - exposing extremists views within the ranks ICYMI"
     description "We are revisiting our Qanon episode, in which we explored the murky world of QAnon, the far-right conspiracy theory that falsely claims President Donald Trump is fighting a shadowy cabal of Satanist pedophiles.&#13;&#10;&#13;&#10; To find out how child pedophilia rings, Pizzagate, and the existence of a deep state made their way into the mainstream consciousness, and also to learn about the conspiracy theory&#8217;s links to the military and veteran community, we talk with QAnon Anonymous podcast co-host and Washington Post contributor Travis View, as well as with journalist and former Green Beret Jack Murphy.&#13;&#10;&#13;&#10; Does QAnon have the potential for stoking extremist violence? Why do it and other extremist organizations work to recruit service members and veterans?"
     channeltitle "Stars and Stripes"
     channelid "UC3faT_bgElexFnqg100gUGw"
@@ -4329,7 +4329,7 @@ graph
     label "kQ4AaIGxLxs"
     step 0
     date "2021-11-03T00:05:32Z"
-    title "QAnon cult humiliated after JFK Jr. fails to in Dallas, declare Trump king"
+    title "QAnon cult humiliated after JFK Jr. fails to  in Dallas, declare Trump king"
     description "These are deeply disturbed people.&#10;&#10;Donate to MeidasTouch: https://secure.actblue.com/donate/meidastouch&#10;Buy MeidasTouch Merch: https://store.meidastouch.com&#10;&#10;Follow MeidasTouch on Twitter: https://twitter.com/meidastouch&#10;Follow MeidasTouch on Facebook: https://facebook.com/meidastouch&#10;Follow MeidasTouch on Instagram: https://instagram.com/meidastouch&#10;&#10;#MeidasTouch #Disinformation #JFK"
     channeltitle "MeidasTouch"
     channelid "UC9r9HYFxEQOBXSopFS61ZWg"
@@ -4339,7 +4339,7 @@ graph
     commentcount 1907
     duration "PT2M39S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4357,7 +4357,7 @@ graph
     commentcount -1
     duration "PT11M32S"
     indegree 5
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4375,7 +4375,7 @@ graph
     commentcount 2441
     duration "PT11M20S"
     indegree 8
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4383,7 +4383,7 @@ graph
     label "n-DO-tE7dsk"
     step 0
     date "2021-11-01T01:00:09Z"
-    title "UNCOVERE tongue sticking out This QAnon Influencer Is A CONVICTED Sex Offender"
+    title "UNCOVERED: This QAnon Influencer Is A CONVICTED Sex Offender"
     description "It was revealed recently that QAnon influencer David Trent, aka David Todeschini, who has contributed to spreading misinformation and conspiracy theories about pedophile Democrats, is actually a convicted pedophile himself. Cenk Uygur, Jayar Jackson, and Aida Rodriguez discuss on The Young Turks.&#160;Watch LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live&#10;&#10;Read more HERE:&#160; &#10;https://www.vice.com/en/article/4awydp/qanon-figure-david-trent-convicted-child-abuser&#10;&#10;&#34;QAnon promoter David Trent has spent the last four years telling his tens of thousands of followers that the Democrats are pedophiles working as part of a global child sex trafficking ring run by the world&#8217;s elite.&#10;&#10;What he didn&#8217;t tell them was that he was the real pedophile: In 1999, he was found guilty of coercing an 8-year-old boy into sexual acts three years earlier, and spent almost five years in prison.&#34;&#10;&#10;&#10;*** &#10;&#10;The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;FACEBOOK: &#9758; http://www.facebook.com/TheYoungTurks&#10;TWITTER: &#9758; http://www.twitter.com/TheYoungTurks&#10;INSTAGRAM: &#9758; http://www.instagram.com/TheYoungTurks&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If&#160;you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;&#10;The&#160;Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;TYT&#160;Sports &#9654;&#160;https://www.youtube.com/tytsports&#10;&#10;The&#160;Conversation &#9654;&#160;https://www.youtube.com/tytconversation&#10;&#10;Rebel&#160;HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT&#160;Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #TheYoungTurks #BreakingNews&#10;&#10;211029__TB03Qanon"
     channeltitle "The Young Turks"
     channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
@@ -4411,7 +4411,7 @@ graph
     commentcount -1
     duration "PT1H34S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount 1561
     duration "PT22M15S"
     indegree 5
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -4447,7 +4447,7 @@ graph
     commentcount 2082
     duration "PT9M16S"
     indegree 10
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4455,7 +4455,7 @@ graph
     label "rZWf48jSvXQ"
     step 0
     date "2020-09-12T22:25:48Z"
-    title "Dr. Phil - Talks New Season, QAnon, Politics Families, and Kids Should Be Back in School | Pt 1"
+    title "Dr. Phil - Talks New Season, QAnon, Politics  Families, and Kids Should Be Back in School | Pt 1"
     description "Dr. Phil checks in with Crisco Kidd to talk about the new season of the Dr. Phil Show starting September 14.&#10;&#10;Dr. Phil On:&#10;0:54 - What's changing on-set this season during COVID-19&#10;3:02 - Students returning to the classroom and their mental health &#10;6:08 - QAnon, divorce rates during COVID-19, quarantine stress, and more topics this season&#10;8:00 - Protecting and saving our children&#10;9:43 - How to have real political conversations without yelling and breaking up families and friendships&#10;&#10;&#10;Subscribe to Crisco Kidd Block Party: https://www.youtube.com/channel/UCSK0eokUkJKGrXhkmGqaRCw?sub_confirmation=1&#10;&#10;Official Site: http://criscokiddblockparty.com&#10;Follow us on Twitter: http://www.twitter.com/CriscoKidd&#10;Follow us on Instagram: http://www.twitter.com/CriscoKidd&#10;&#10;#drphil #criscokidd #thedrphilshow"
     channeltitle "Crisco Kidd Block Party"
     channelid "UCSK0eokUkJKGrXhkmGqaRCw"
@@ -4465,7 +4465,7 @@ graph
     commentcount 3
     duration "PT12M5S"
     indegree 0
-    cluster 1
+    cluster 9
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 3051
     duration "PT11M47S"
     indegree 11
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount 894
     duration "PT3M54S"
     indegree 2
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -4519,7 +4519,7 @@ graph
     commentcount 4016
     duration "PT12M51S"
     indegree 3
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 418
     duration "PT6M13S"
     indegree 4
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4555,7 +4555,7 @@ graph
     commentcount 5
     duration "PT1H8M54S"
     indegree 1
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4591,7 +4591,7 @@ graph
     commentcount 969
     duration "PT8M12S"
     indegree 2
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -4609,7 +4609,7 @@ graph
     commentcount 3079
     duration "PT50M17S"
     indegree 6
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4627,7 +4627,7 @@ graph
     commentcount 349
     duration "PT2M53S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -4635,7 +4635,7 @@ graph
     label "mxvQdjdKP78"
     step 0
     date "2020-10-30T09:16:56Z"
-    title "QAnon on salaliittoteorioista huuruisin miten siihen uskotaan Suomessakin? HS MINIDOKUMENTTI"
+    title "QAnon on salaliittoteorioista huuruisin  miten siihen uskotaan Suomessakin? HS MINIDOKUMENTTI"
     description "QAnon on pinnalta tarkastellen k&#228;sitt&#228;m&#228;tt&#246;m&#228;n typer&#228; salaliittoteoria. Se pohjaa ajatukseen, jonka mukaan Yhdysvaltoja ja maailmaa yritt&#228;&#228; hallita salainen eliitti, joka on mieltynyt milloin satanismiin, milloin pedofiliaan, milloin mihinkin. Ja ett&#228; t&#228;t&#228; salaista eliitti&#228; vastaan taistelee, kukas muu kuin Donald Trump. &#10;&#10;Mutta miten t&#228;m&#228; kaikki alkoi menn&#228; l&#228;pi my&#246;s Suomessa? Katso HS Minidokumentti, tilaa kanava ja kommentoi alla!&#10;&#10;Lue t&#228;st&#228; lis&#228;&#228; Qanonista: https://www.hs.fi/nyt/art-2000006706094.html"
     channeltitle "Helsingin Sanomat"
     channelid "UCjchIbq7CGYxApD2k2kW4zA"
@@ -4663,7 +4663,7 @@ graph
     commentcount 1516
     duration "PT9M52S"
     indegree 3
-    cluster 1
+    cluster 9
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     commentcount 1565
     duration "PT13M6S"
     indegree 14
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount -1
     duration "PT11M17S"
     indegree 2
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 0
     duration "PT2M12S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 220
     duration "PT2M11S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 57
     duration "PT16M32S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 1062
     duration "PT14M47S"
     indegree 1
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4789,7 +4789,7 @@ graph
     commentcount 22631
     duration "PT1H16M17S"
     indegree 10
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -4797,7 +4797,7 @@ graph
     label "qWMW-LKgXVc"
     step 0
     date "2022-01-11T20:00:26Z"
-    title "QAnon Star Who Says Only Get Vaxxed Dies Of Covid | The Kyle Kulinski Show"
+    title "QAnon Star Who Says Only  Get Vaxxed Dies Of Covid | The Kyle Kulinski Show"
     description "Support The Show On Patreon!:&#10;https://www.patreon.com/seculartalk&#10;&#10;Subscribe to Krystal Kyle &#38; Friends On Substack!:&#10;https://krystalkyleandfriends.substack.com&#10;&#10;Follow Kyle on Twitter:&#10;http://www.twitter.com/kylekulinski&#10;&#10;#KyleKulinski #SecularTalk"
     channeltitle "Secular Talk"
     channelid "UCldfgbzNILYZA4dmDt4Cd6A"
@@ -4807,7 +4807,7 @@ graph
     commentcount 2493
     duration "PT10M15S"
     indegree 1
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -4825,7 +4825,7 @@ graph
     commentcount 446
     duration "PT6M18S"
     indegree 2
-    cluster 11
+    cluster 3
   ]
   node
   [
@@ -4833,7 +4833,7 @@ graph
     label "8khVKFGHnhI"
     step 0
     date "2022-04-23T22:15:48Z"
-    title "QAnon Weirdos E tongue sticking out lain Their UNHINGED Conspiracies"
+    title "QAnon Weirdos Explain Their UNHINGED Conspiracies"
     description "Republican politicians and far-right conspiracists are gathering at a QAnon sponsored event in Pennsylvania, blurring the lines between the two groups. Yasmin Khan breaks it down.&#10;&#10;Follow Yasmin on&#10;TikTok - https://www.tiktok.com/@yazzzzzk&#10;Instagram - https://www.instagram.com/yazzzzzk&#10;Twitter - https://twitter.com/YazzieK&#10;&#10;#YasminKhan #News #Politics&#10;&#10;Delivered by @tyt/studio"
     channeltitle "Rebel HQ"
     channelid "UCuMo0RRtnNDuMB8DV5stEag"
@@ -4843,7 +4843,7 @@ graph
     commentcount 2076
     duration "PT10M51S"
     indegree 3
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4861,7 +4861,7 @@ graph
     commentcount 23350
     duration "PT44M38S"
     indegree 1
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -4879,7 +4879,7 @@ graph
     commentcount 1010
     duration "PT6M34S"
     indegree 0
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 111
     duration "PT46S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 475
     duration "PT24M26S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -4933,7 +4933,7 @@ graph
     commentcount 17
     duration "PT2M17S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 1
     duration "PT1H29S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 2
     duration "PT2M20S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount 6
     duration "PT8M19S"
     indegree 0
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -5023,7 +5023,7 @@ graph
     commentcount 11
     duration "PT25M35S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 171
     duration "PT11M14S"
     indegree 0
-    cluster 2
+    cluster 12
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 2268
     duration "PT7M47S"
     indegree 4
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 113
     duration "PT14M54S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -5095,7 +5095,7 @@ graph
     commentcount 787
     duration "PT10M34S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -5113,7 +5113,7 @@ graph
     commentcount 922
     duration "PT23M32S"
     indegree 11
-    cluster 2
+    cluster 12
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 119
     duration "PT6M14S"
     indegree 4
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 1355
     duration "PT4M16S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -5157,7 +5157,7 @@ graph
     label "rXVCUpuvn0w"
     step 0
     date "2021-08-17T10:00:11Z"
-    title "The rise, fall for Alex Jones | MINI-DOCUMENTARY"
+    title "The rise, fall  for Alex Jones | MINI-DOCUMENTARY"
     description "SUBSCRIBE HERE: https://www.youtube.com/six_news_australia?sub_confirmation=1&#10;&#10;DONATE ON PATREON FOR $4 A MONTH: https://www.patreon.com/6newsau&#10;&#10;FOLLOW US ON SOCIAL MEDIA:&#10;Facebook: https://bit.ly/31MlrvP&#10;Twitter: https://bit.ly/3lw5Vfa&#10;Instagram: https://bit.ly/2DbXV1y&#10;TikTok: https://bit.ly/3aSXyae&#10;LITT: https://bit.ly/3syT1zV&#10;Rumble: https://bit.ly/3lYRN0F&#10;&#10;FOLLOW OUR PODCAST: &#10;Spotify: https://spoti.fi/3AoQKMh&#10;Apple Podcasts: https://apple.co/3yolYS6&#10;&#10;VISIT OUR WEBSITE: https://www.6newsau.com&#10;&#10;FOLLOW OUR TEAM ON TWITTER:&#10;@Leo_Puglisi6, @darby_travers6, @lincoln_holmes6, @HollyShields_6, @JGosnellNews, @cpenny_6 &#38; @dusty_fitz6.&#10;&#10;#6NewsAU #QAnon #Trump #COVID #COVID19 #Vaccine #AlexJones #Conspiracy"
     channeltitle "SIX News Australia"
     channelid "UCw4G4L-F-mD5zMljpvc2gtA"
@@ -5167,7 +5167,7 @@ graph
     commentcount 19
     duration "PT21M53S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5175,7 +5175,7 @@ graph
     label "3wgEvNw-YQA"
     step 0
     date "2022-02-24T00:00:14Z"
-    title "QAnon SLAMS Flat Earthers In Conspiracy Fight"
+    title "QAnon SLAMS  Flat Earthers In Conspiracy Fight"
     description "Support our Channel:  http://www.patreon.com/JeffWaldorf&#10;&#10;Weill recalls learning about the flat-earth movement while covering extremist groups for The Daily Beast. &#8220;I thought flat earth was such an interesting parable about how people can believe anything,&#8221; she says, &#8220;because we see other conspiracy theories that might be more reality-adjacent, or you can understand someone&#8217;s political motivations. But flat earth seemed so out there that I wanted to understand it better.&#8221;&#10;&#10;https://www.thedailybeast.com/flat-earthers-keep-alienating-other-conspiracy-theorists-even-qanon-believers?fbclid=IwAR3KqtUZklYE5Ih2R6MAqPpw8fx_SbySy0ZaZcT-S0RnLljUAshI5EqKNdU&#10;&#10;Or become a channel member: https://www.youtube.com/channel/UCIAXaU6LIcZyoHYWqVLM4wg/join&#10;&#10;Subscribe for daily videos!&#10;&#10;Reddit: https://www.reddit.com/r/WaldorfNation/&#10;Like Our Facebook Page! http://www.Facebook.com/JeffWaldorfShow&#10;Find me on Twitch! https://www.twitch.tv/jeff_waldorf&#10;Follow me on Twitter: @JeffsPolitics"
     channeltitle "Waldorf Nation"
     channelid "UCIAXaU6LIcZyoHYWqVLM4wg"
@@ -5185,7 +5185,7 @@ graph
     commentcount 190
     duration "PT11M30S"
     indegree 0
-    cluster 8
+    cluster 2
   ]
   node
   [
@@ -5203,7 +5203,7 @@ graph
     commentcount 0
     duration "PT2M39S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 50
     duration "PT3H13M3S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5239,7 +5239,7 @@ graph
     commentcount 23
     duration "PT3M33S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5257,7 +5257,7 @@ graph
     commentcount 46
     duration "PT1H6M7S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5265,7 +5265,7 @@ graph
     label "ra_C49I91sk"
     step 0
     date "2021-06-03T22:47:09Z"
-    title "I Snuck Into a QAnon Conference Excuse Me, What?"
+    title "I Snuck Into a QAnon Conference  Excuse Me, What?"
     description "I snuck into a QAnon conference in Dallas, Texas and interviewed conspiracy theorists who said some really absurd things.&#10;&#10;Season 4, Episode 1&#10;&#10;Early drops and more exclusive interviews:&#10;https://patreon.com/excusemewhat&#10;&#10;Hosted by Luke Touma"
     channeltitle "Excuse Me, What?"
     channelid "UCIobJt6byBqnEkUZuJnuCDA"
@@ -5275,7 +5275,7 @@ graph
     commentcount 320
     duration "PT11M29S"
     indegree 0
-    cluster 2
+    cluster 12
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 57
     duration "PT3M52S"
     indegree 0
-    cluster 7
+    cluster 10
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 0
     duration "PT11S"
     indegree 0
-    cluster 2
+    cluster 4
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount 9
     duration "PT3M39S"
     indegree 0
-    cluster 6
+    cluster 10
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 29
     duration "PT1H12M20S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 61
     duration "PT1H10M21S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     commentcount 1
     duration "PT14M47S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -5419,7 +5419,7 @@ graph
     commentcount 4
     duration "PT1H2M19S"
     indegree 1
-    cluster 2
+    cluster 12
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 20
     duration "PT38S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5445,7 +5445,7 @@ graph
     label "EfU6Wsbzuq8"
     step 0
     date "2022-06-10T21:00:10Z"
-    title "Has QAnon Infiltrated the GOP? | Hell High Water"
+    title "Has QAnon Infiltrated the GOP? | Hell  High Water"
     description "John Heilemann talks with Denver Riggleman, former Republican congressman from Virginia, and, until recently, 1/6 committee staffer. Heilemann and Riggleman discuss the part Q-Anon played in ending Riggleman&#8217;s career in Congress, the centrality of conspiracy theories to the identity of today&#8217;s GOP, the powerful speech Riggleman gave on the House floor denouncing Q-Anon, and the strange tale of how Riggleman&#8217;s interest in Bigfoot became part of his public profile. Tune in to the full episode to hear about the staggering scope of what Jan. 6 House Select Committee has learned since its inception about the involvement of Donald Trump and his inner circle in the attempt to overturn the 2020 election; how the story of the pressures placed on Mike Pence to prevent Joe Biden from taking office will be among the key facets of the hearings; and Riggleman&#8217;s assessment of the case for bringing criminal charges against Trump for his role in the 1/6 insurrection.&#10;&#10;#republicans #qanon #politics &#10;&#10;Subscribe to The Recount&#10;https://www.youtube.com/channel/UCmsrXvrQ1S_61vVO-fNL-Mg?sub_confirmation=1&#10;&#10;Watch Chatterbrain on Twitch every Wednesday at 5p.m. ET - https://www.twitch.tv/therecount&#10;&#10;Read The Recount Newsletter&#10;https://therecount.com/newsletter&#10;Twitter&#160;&#10;https://twitter.com/therecount&#10;Instagram&#10;https://www.instagram.com/TheRecount/&#10;TikTok&#10;https://www.tiktok.com/@therecount&#10;Facebook&#160;&#10;https://www.facebook.com/TheRecount/&#10;Hell &#38; High Water podcast&#160;&#10;https://therecount.com/podcasts/hell-and-high-water&#10;Website&#160;&#10;https://therecount.page.link/Home&#10;Twitch&#10;https://www.twitch.tv/therecount"
     channeltitle "The Recount"
     channelid "UCmsrXvrQ1S_61vVO-fNL-Mg"
@@ -5455,7 +5455,7 @@ graph
     commentcount 1
     duration "PT11M5S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 444
     duration "PT6M1S"
     indegree 11
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 2
     duration "PT19S"
     indegree 1
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5527,7 +5527,7 @@ graph
     commentcount 88
     duration "PT26M50S"
     indegree 0
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 23
     duration "PT52M43S"
     indegree 2
-    cluster 6
+    cluster 10
   ]
   node
   [
@@ -5563,7 +5563,7 @@ graph
     commentcount 460
     duration "PT17M49S"
     indegree 6
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 4
     duration "PT1H20M13S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 0
     duration "PT1M47S"
     indegree 0
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 32
     duration "PT3H49M5S"
     indegree 1
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 12
     duration "PT25M33S"
     indegree 1
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -5671,7 +5671,7 @@ graph
     commentcount 626
     duration "PT3M7S"
     indegree 0
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -5679,7 +5679,7 @@ graph
     label "1QbEcG8O-L8"
     step 0
     date "2020-10-22T18:10:12Z"
-    title "TE horror MidAtlantic Dismantling QAnon"
+    title "TEDxMidAtlantic  Dismantling QAnon"
     description "This event was recorded on October 21, 2020. As part of our ongoing series on defending democracy from unethical manipulation, we are honored to bring you a very special 90 minute program explaining what's behind the QAnon movement. We looked at where it came from, its true nature, and how it might end safely.&#10;&#10;At its root, the scheme functions as an authoritarian cult. Through that lens, it can be properly understood as being based in a crisis of connection. During this pandemic, when so many people are feeling disconnected and off-balance, we are all more susceptible than ever to undue influence and unethical manipulation. We'll look at ways we can become more resilient against it.&#10;&#10;This program, featuring alternate reality gaming expert Jim Stewartson, cult expert Steven Hassan, multimedia journalist Desiree Kane, in conversation with TEDxMidAtlantic co-curator (and disifnformation specialist) Dave Troy offers a broad overview of the networks involved &#8212; with clear-headed ideas about how this destructive movement can be ended safely.&#10;&#10;Among the areas covered: QAnon has its roots in the internet puzzle &#34;Cicada 3301&#34;; that a network of former disgruntled military and intelligence professionals has collaborated to lend the scheme legitimacy; that various people involved are connected to a 1930's cult called &#34;I AM&#34;; that many people involved with QAnon were also involved in the 2011 &#34;Occupy&#34; protests and NODAPL protests at Standing Rock in 2016-2017 &#8212; and even connected to the makers of the 2020 disinformation film, &#34;Plandemic.&#34;&#10;&#10;Please take a moment to watch and share this important program with the people in your network. If you have family members or friends affected by this or other similar destructive movements, there is hope, and help is available. And if you are involved with the media or research community, feel free to follow up with our presenters. Together, we can help slow the growth of harmful authoritarian movements. #igotout&#10;&#10;We'd also like to give special thanks to Arturo Tafoya for his support with research and video production. Please check out his channel here: https://www.youtube.com/c/BMHC2CSi&#10;&#10;Please see additional coverage from Financial Times and Heavy.com:&#10;https://www.ft.com/video/372cac40-0f6f-498b-8c19-7b635142296e?playlist-name=editors-picks&#38;playlist-offset=0&#10;&#10;https://heavy.com/news/thomas-schoenberger-qanon/"
     channeltitle "tedxmidatlantic"
     channelid "UCoMAwX_UwViSeMdMKZnOBFg"
@@ -5707,7 +5707,7 @@ graph
     commentcount 243
     duration "PT9M38S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -5725,7 +5725,7 @@ graph
     commentcount 0
     duration "PT13S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 199
     duration "PT2M19S"
     indegree 0
-    cluster 2
+    cluster 11
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount 10
     duration "PT7M20S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5769,7 +5769,7 @@ graph
     label "CpfvjOIot0A"
     step 0
     date "2021-11-02T19:44:45Z"
-    title "QAnon supporters chant banner"
+    title "QAnon supporters chant  banner"
     description "https://www.rawstory.com/qanon-jfk-jr-2024/&#10;&#10;QAnon supporters gathered in Dallas on Tuesday in the hopes that John F. Kennedy, Jr. would make major revelations.&#10;&#10;&#34;QAnon supporters are gathering for an event in Texas on Tuesday at which they falsely believe JFK junior will reveal he is not dead and announce a 2024 presidential run with Donald Trump, the former president,&#34; the Independent reports.&#10;&#10;The son of America's 35th president died in 1999.&#10;&#10;Journalist Steven Monacelli posted a video of members of the crowd chanting a euphemism for &#34;f*ck Joe Biden&#34; while holding a Trump-Kennedy QAnon banner. Although, the banner is from 2020, showing yet another &#34;prophecy&#34; that did not occur.&#10;&#10;To see the full twitter thread of Steven Monacelli: https://twitter.com/stevanzetti/status/1455583375385837581?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1455584854624645131%7Ctwgr%5E%7Ctwcon%5Es2_&#38;ref_url=https%3A%2F%2Fwww.rawstory.com%2Fqanon-jfk-jr-2024%2F"
     channeltitle "Raw Story"
     channelid "UCt6tgXcL1hC9gItUIgiDvMQ"
@@ -5779,7 +5779,7 @@ graph
     commentcount 86
     duration "PT1M32S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5797,7 +5797,7 @@ graph
     commentcount 8
     duration "PT1M51S"
     indegree 0
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 333
     duration "PT8M4S"
     indegree 2
-    cluster 9
+    cluster 4
   ]
   node
   [
@@ -5833,7 +5833,7 @@ graph
     commentcount 2830
     duration "PT31S"
     indegree 0
-    cluster 2
+    cluster 8
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 3
     duration "PT41S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 5
     duration "PT16M34S"
     indegree 1
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -5905,7 +5905,7 @@ graph
     commentcount 1
     duration "PT11M48S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 5
     duration "PT11M15S"
     indegree 2
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5941,7 +5941,7 @@ graph
     commentcount 3
     duration "PT1H2M21S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -5959,7 +5959,7 @@ graph
     commentcount 0
     duration "PT29M59S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 1
     duration "PT52S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 85
     duration "PT5M"
     indegree 1
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 9
     duration "PT2H13M58S"
     indegree 2
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount 319
     duration "PT18M39S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 4
     duration "PT15M50S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6085,7 +6085,7 @@ graph
     commentcount 9
     duration "PT8M17S"
     indegree 0
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 1
     duration "PT33M29S"
     indegree 0
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -6139,7 +6139,7 @@ graph
     commentcount 15
     duration "PT1H20M51S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6157,7 +6157,7 @@ graph
     commentcount 47
     duration "PT39M31S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -6175,7 +6175,7 @@ graph
     commentcount 48
     duration "PT3H20M11S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6193,7 +6193,7 @@ graph
     commentcount 1
     duration "PT51S"
     indegree 0
-    cluster 6
+    cluster 12
   ]
   node
   [
@@ -6211,7 +6211,7 @@ graph
     commentcount 163
     duration "PT1H42M21S"
     indegree 0
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -6229,7 +6229,7 @@ graph
     commentcount 0
     duration "PT9M39S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6247,7 +6247,7 @@ graph
     commentcount 2
     duration "PT2H31M16S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6265,7 +6265,7 @@ graph
     commentcount 1
     duration "PT47S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6283,7 +6283,7 @@ graph
     commentcount 4
     duration "PT14M35S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6337,7 +6337,7 @@ graph
     commentcount 803
     duration "PT3M43S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -6355,7 +6355,7 @@ graph
     commentcount 2681
     duration "PT27M58S"
     indegree 0
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -6373,7 +6373,7 @@ graph
     commentcount 681
     duration "PT43M25S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -6391,7 +6391,7 @@ graph
     commentcount 3421
     duration "PT10M26S"
     indegree 0
-    cluster 4
+    cluster 3
   ]
   node
   [
@@ -6409,7 +6409,7 @@ graph
     commentcount 33
     duration "PT3M13S"
     indegree 5
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     commentcount 16
     duration "PT33M26S"
     indegree 1
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -6445,7 +6445,7 @@ graph
     commentcount 2
     duration "PT14M57S"
     indegree 0
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -6463,7 +6463,7 @@ graph
     commentcount 19
     duration "PT27M29S"
     indegree 0
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -6481,7 +6481,7 @@ graph
     commentcount 12
     duration "PT1H24M16S"
     indegree 0
-    cluster 3
+    cluster 6
   ]
   node
   [
@@ -6499,7 +6499,7 @@ graph
     commentcount 29
     duration "PT6M35S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 7
     duration "PT9M57S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6535,7 +6535,7 @@ graph
     commentcount 6
     duration "PT11M40S"
     indegree 0
-    cluster 8
+    cluster 9
   ]
   node
   [
@@ -6553,7 +6553,7 @@ graph
     commentcount 57
     duration "PT6M59S"
     indegree 0
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -6571,7 +6571,7 @@ graph
     commentcount 24
     duration "PT49M31S"
     indegree 0
-    cluster 12
+    cluster 13
   ]
   node
   [
@@ -6579,7 +6579,7 @@ graph
     label "ObsT7VwR6cw"
     step 0
     date "2021-03-17T13:45:01Z"
-    title "NEWS: What is Qanon? Qanon E tongue sticking out lained | #Qanon | Almas Jacob"
+    title "NEWS: What is Qanon? Qanon Explained | #Qanon | Almas Jacob"
     description "#whatisqanon #qanon #qanonexplained&#10;&#10;&#10;&#10;Technical Almas Jacob Channel Link: https://www.youtube.com/channel/UCofRMbAjA2XCKidI2X9euOw&#10;&#10;&#10;NEWS: What is Qanon? Qanon Explained | #Qanon | Almas Jacob&#10;&#10;&#10;NEWS: What is Qanon? Qanon Explained | #Qanon | Almas Jacob&#10;-------------------------------------------------------------------------------------------&#10;Follow Me On FaceBook: https://web.facebook.com/WeAreWatchersEndTimesNWO&#10;&#10;Follow Me On Instagram: https://www.instagram.com/almasjacoblive&#10;&#10;Follow Me On TikTok: https://vm.tiktok.com/p2QxDc&#10;&#10;Follow Me On Pinterest: https://www.pinterest.com/rickyjacob_1988&#10;&#10;Join Our Telegram Channel: t.me/almasjacoblive&#10;&#10;----------------------------------------------------------------------------------------------------------&#10;Facts: What They Don't Tell You About | Bill Gates 2020 | Mark Of Beast | END TIMES | ABP NEWS&#10;https://youtu.be/HkxMq9IR2O0&#10;Facts: What They Don't Tell You About | Gray State Movie | New World Order | &#10;https://youtu.be/RgD-OAwsOl8&#10;Facts: What They Don't Tell You About | Corona Virus | 2020 | Urdu/Hindi&#10;https://youtu.be/Op9ctT68kGg&#10;Facts: What They Don't Tell You About | 29 April 2020 Nasa | Nasa 29th April 2020 | Hindi | Urdu&#10;https://youtu.be/fxsnLDLFjP8&#10;&#10;------------------------------------------------------------------------------------------------------------------------&#10;rahul gandhi | george soros | abhishek sagar | vladtv | technical sagar | lebron james |"
     channeltitle "Facts: Almas Jacob [LIVE]"
     channelid "UCg4KoRUPRqCW2wjrew7UqZg"
@@ -6607,7 +6607,7 @@ graph
     commentcount 18
     duration "PT1H35M41S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -6615,7 +6615,7 @@ graph
     label "3CTkrQAFplA"
     step 0
     date "2020-11-18T18:00:29Z"
-    title "Judeo-Christian Neocon QAnon PsyOp E tongue sticking out osed"
+    title "Judeo-Christian Neocon QAnon PsyOp Exposed"
     description "Major General Paul E Vallely has many interesting links to major events in US history - From the authoring of  Psy Ops to MindWar with Michael Aquino, founding of USAISA that are linked to Delta Force, inserting himself into Plamegate in an attempt to help the disgraced Scooter Libby, being hired as the head of military analysts by Fox News the week after 9/11, being recruited to be part of the Pentagon's military analyst program to propagandize the public into supporting an invasion of Iraq in 2003, to his involvement in promoting unhinged conspiracy theories in the alternative media community including trying to legitimize QAnon. Oh...and his links to CNP and Russia.&#10;&#10;Paul E Vallely wiki - https://en.wikipedia.org/wiki/Paul_E._Vallely&#10;&#10;Paul E Valley profile on Militarist Monitor https://militarist-monitor.org/profile/paul-vallely/&#10;&#10;SourceWatch profile on Paul E Vallely https://www.sourcewatch.org/index.php?title=Paul_E._Vallely&#10;&#10;Retired Major General Paul E Vallely interview with Pete Santilli https://www.bitchute.com/video/RvSxjpOBjIMb/&#10;&#10;Blackwater's Christian Crusaders - Keith Olbermann https://www.youtube.com/watch?v=Kq6E0MIeGvQ&#10;&#10;The DeVos Dynasty: A Family of Extremists https://www.americanprogress.org/issues/default/news/2017/01/23/296947/the-devos-dynasty-a-family-of-extremists/&#10;&#10;Richard and Helen DeVos Foundation&#10;https://en.wikipedia.org/wiki/Richard_and_Helen_DeVos_Foundation&#10;&#10;Retired Major General Paul E Vallely interview on Americanuck Radio &#10;https://www.spreaker.com/user/icrn/americanuck-radio-20191014?fbclid=IwAR3Ikh2f0Ni7r8UJn_lE0u48ERBiBnNYGJe16evmJLQiQRMEyeIA4WN_8gk#&#10;&#10;Jerusalem Summit https://militarist-monitor.org/profile/jerusalem_summit/&#10;&#10;Plamegate - https://en.wikipedia.org/wiki/Plame_affair&#10;&#10;Two years into leak investigation, Gen. Vallely suddenly claims, in contradictory statements, that Wilson revealed Plame's identity to him&#10;https://www.mediamatters.org/war-iraq/two-years-leak-investigation-gen-vallely-suddenly-claims-contradictory-statements-wilson&#10;&#10;Trump Pardons Scooter Libby https://www.nytimes.com/2018/04/13/us/politics/trump-pardon-scooter-libby.html&#10;&#10;Pentagon military analyst program https://www.sourcewatch.org/index.php/Pentagon_military_analyst_program&#10;&#10;From Psyops To Mindwars by Colonel Paul E Vallely (Commander) and Michael Aquino (PSYOPS and Research Team Leader) https://projectspeak.net/from-psyop-to-mindwar-the-psychology-of-victory-by-paul-e-vallely-michael-a-aquino&#10;&#10;Michael Aquino Says MindWar Came From Esalen&#8217;s Transformation Project and the Russians https://vimeo.com/179318378&#10;&#10;Intelligence Support Activity (USAISA / Army of Northern Virginia) https://en.wikipedia.org/wiki/Intelligence_Support_Activity&#10;&#10;TruNews connections https://podimo.com/en/shows/15ed0028-5952-45b2-a415-c4fba7602546&#10;TRUNEWS 6/12/14: Ret. MG Paul E. Vallely, Claire Lopez https://www.blogtalkradio.com/trunews/2014/06/12/trunews-61214-ret-mg-paul-e-vallely-claire-lopez&#10;&#10;Retired Army General To Tea Party Group: I Would Lead A Coup Against The U.S. Government&#10;https://archive.thinkprogress.org/retired-army-general-to-tea-party-group-i-would-lead-a-coup-against-the-u-s-government-43a91f51de8a/&#10;&#10;Paul E Vallely Valdai Club - https://valdaiclub.com/about/experts/5298/&#10;&#10;U.S. General: Trump won&#8217;t take confrontational approach with Russia https://www.rbth.com/international/2017/03/03/us-general-trump-wont-take-confrontational-approach-with-russia_712923&#10;&#10;Make sure you check out the website https://www.exposetheenemy.com/ and The AnteDote podcast. You can become a patron here https://www.patreon.com/Theantedote&#10;&#10;Jaleel https://www.bitchute.com/channel/4cmxFm2SX0fg/&#10;John Brisson - https://www.youtube.com/channel/UC7vqQJCxvXl2tZ_V5P-gYJQ"
     channeltitle "Expose The Enemy"
     channelid "UCGWDf326tLO00ul8yjIdg9w"
@@ -6625,7 +6625,7 @@ graph
     commentcount 19
     duration "PT37M15S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 834
     duration "PT25M13S"
     indegree 0
-    cluster 9
+    cluster 11
   ]
   node
   [
@@ -6679,7 +6679,7 @@ graph
     commentcount 24
     duration "PT13M29S"
     indegree 0
-    cluster 5
+    cluster 7
   ]
   node
   [
@@ -6697,7 +6697,7 @@ graph
     commentcount 48
     duration "PT1H5M21S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   edge
   [

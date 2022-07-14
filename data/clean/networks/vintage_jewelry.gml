@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:45:10 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:24 2022"
 Version 1
 graph
 [
@@ -37,7 +37,7 @@ graph
     commentcount 143
     duration "PT17M38S"
     indegree 64
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -55,7 +55,7 @@ graph
     commentcount 3468
     duration "PT23M1S"
     indegree 79
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -63,7 +63,7 @@ graph
     label "tR_9zzuDn-s"
     step 0
     date "2020-09-19T14:15:02Z"
-    title "THRIFTING For VINTAGE JEWELRY With An E tongue sticking out ert!!"
+    title "THRIFTING For VINTAGE JEWELRY With An Expert!!"
     description "How to  thrift for vintage jewelry!  How does a vintage jewelry expert thrift for jewelry?  Very carefully!  The answer is be picky, do your research, and the first three rules, condition, condition, condition!  Or~ just keep an expert like me in your back pocket! &#10;&#10;&#9829;&#65038; SELL OR CONSIGN: hudsonvintage@me.com SUBJECT: Help! &#10;&#9829;&#65038;  TEXT ME:  917-809-7250  For Live Auction Alerts&#10;&#9829;&#65038;  GALAXY SHOP:  973-949-0785  https://shopgalaxy.com/hudson-vintage/profile&#10;&#9829;&#65038;  MEMBERSHIP PATREON:  &#10; https://www.patreon.com/hudsonvintage&#10;&#9829;&#65038;  MEMBERSHIP YOUTUBE:  https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#9829;&#65038; SOCIALS:&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#10;&#9829;&#65038; AMAZON:  https://www.amazon.com/shop/hudsonvintage&#10;&#9829;&#65038; FRIEND MAIL&#10;Hudson Vintage&#10;P.O. BOX 526&#10;Blairstown NJ&#10;07825&#10;&#9829;&#65038; CONTACT ME:&#10;EMAIL: hudsonvintage@me.com&#10;TEXT:  917-809-7250&#10;&#9829;&#65038; JOIN this channel to get access to perks:&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#10;&#10;I am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#10;&#10;MOST POPULAR VIDEO&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;LAST WEEK'S UPLOAD:&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#10;&#10;CHANNEL INTRO: &#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#10;&#10;EMAIL: hudsonvintage@me.com&#10;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -73,7 +73,7 @@ graph
     commentcount 108
     duration "PT11M54S"
     indegree 58
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -91,7 +91,7 @@ graph
     commentcount 137
     duration "PT34M45S"
     indegree 115
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -109,7 +109,7 @@ graph
     commentcount 50
     duration "PT28M14S"
     indegree 91
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -127,7 +127,7 @@ graph
     commentcount 311
     duration "PT16M4S"
     indegree 81
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -145,7 +145,7 @@ graph
     commentcount 32
     duration "PT7M11S"
     indegree 5
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -163,7 +163,7 @@ graph
     commentcount 55
     duration "PT22M26S"
     indegree 95
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -181,7 +181,7 @@ graph
     commentcount 89
     duration "PT18M25S"
     indegree 22
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -199,7 +199,7 @@ graph
     commentcount 90
     duration "PT5M10S"
     indegree 21
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 317
     duration "PT15M5S"
     indegree 22
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -225,7 +225,7 @@ graph
     label "hVyCpQmXec8"
     step 0
     date "2022-03-10T01:00:28Z"
-    title "SCARCELY SEEN VINTAGE STYLE | DESIGNER ANTIQUES | JEWELRY MORE"
+    title "SCARCELY SEEN VINTAGE STYLE | DESIGNER ANTIQUES | JEWELRY  MORE"
     description "HARD-TO-FIND VINTAGE | ANTIQUE SHOW | RESELLER SHOP ALONG&#10;&#10;What's in a name? A whole lot, if you're a serious collector or fan of stylish vintage and antiques! We do a lot of name dropping in this video, showing you some of the better names we're finding in the winter antique show circuit, and talking about what makes them special--and why they're getting harder to find every day.&#10;&#10;This one's a feast for the eyes, whether your eye goes to fab 50's furniture, antique silver, vivid wall art or sparkling signed jewelry. Bejeweled boxes, Pucci boots, Italian furnishings and designer pottery pieces are the order of the day here, with a lot of wonderful things packed into a tremendous antique show!&#10;&#10;We spend time helping you discern good old pieces from fakes, present a mystery piece we're trying to understand and talk extensively with a high-end costume jewelry dealer about why those pieces are disappearing from American antique shops. We hope this delightful array of items will help whet your appetite for good vintage design...maybe we'll get to see you at our next antique show!&#10;&#10;Here's some of the great designer items we encounter on our shop-along:&#10;&#10;Heywood-Wakefield table, Piretti chairs, Eames style chair, TI-99 computer, 1970s pedestal tv, horse measure, chimney sweep, iron hitching post, cast iron banks, Peter Max World Cup Soccer poster, Blenko decanter, Jonathan Adler pot, Roseville bud vases, Carol Staub acrylic art, butterfly wing table, Lucite table, Polaroid 330, Zippo lighters, French crest bracelet, Fiesta Lilac trivet, Red Wing console bowl, signed designer jewelry, signed fashion jewelry, bakelite and copper jewelry, cameos, dresser boxes, gilded metal boudoir accessories, dresser mirrors, Lucite purses, mesh purses, Rookwood tile, figural match striker, Niloak ewer, silver overlay glass, thimbles, Snoopy/Woodstock phone, Cowboy radio, Gibson Girl postcard set, Rembrandt candlestick, perpetual calendar, Heisey Chanticleer cocktail shaker, Tiffany sterling, WWI bonds poster, grain linen, barkcloth, etc.&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;&#9728;&#65039;  Do you want more info about an item you own? I am a certified appraiser!&#10;Whether you need a &#34;verbal approximation of value&#34; or a &#34;formal written appraisal,&#34; I can do it all&#8212;in person or remotely.&#10;Submit your information here: https://bit.ly/3kxiNUb&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;&#9728;&#65039;  Subscribe to my NEW LIVE CHANNEL! https://bit.ly/3e6wi9B&#10;&#10;&#9728;&#65039;  Check out my NEW WEBSITE! https://bit.ly/3BfVNPt&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Are you interested in exclusive content and special perks that help support this channel?&#10;&#9728;&#65039;  Become a member today at the following link! https://bit.ly/32dfTcz&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Follow me on social media, check out my eBay listings, and buy my book!&#10;&#10;&#9728;&#65039;  Buy Me a Coffee: https://bit.ly/3r7KSUM&#10;&#9728;&#65039;  Facebook http://bit.ly/33TG9J9&#10;&#9728;&#65039;  Instagram http://bit.ly/2KOJcur&#10;&#9728;&#65039;  TikTok http://bit.ly/3oTA4FQ&#10;&#9728;&#65039;  Minds https://bit.ly/3aWsPcA&#10;&#9728;&#65039;  Odysee https://bit.ly/2ZUep69&#10;&#10;&#9728;&#65039;  My eBay listings: https://ebay.to/2mg7yDM&#10;&#10;&#9728;&#65039;  My book on Treasure Craft Pottery: https://bit.ly/3eAfaZM&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;If you love what we do, consider donating to the channel!&#10;&#9728;&#65039;  PayPal: https://bit.ly/3dLxmx3&#10;&#9728;&#65039;  Venmo: https://bit.ly/380DIHH&#10;&#9728;&#65039;  Cash App: https://bit.ly/3ANanNi&#10;&#9728;&#65039;  BTC: bc1qhcx6e3gp5kxv3rx696mhmsqfe0pv3chvpps0ku&#10;&#9728;&#65039;  ETH: 0xBbddAF1231944e7E6D0EA097Cb0609F1640537eF&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;&#9728;&#65039;  Send me stuff:&#10;&#10;The Antique Nomad&#10;PO Box 33&#10;Dawson Springs, KY 42408&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;Music from https://filmmusic.io&#10;&#34;Sweeter Vermouth&#34; by Kevin MacLeod (https://incompetech.com)&#10;License: CC BY (http://creativecommons.org/licenses/by/4.0/)&#10;&#10;Icons made by: https://www.flaticon.com/authors/smashicons&#10;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#10;&#10;#Antiques #Vintage #Reselling #ShopWithMe #ThriftShopping #AntiqueMall #PickingForProfit #Thrifting #AntiqueShopping #Reseller #ShoppingForResale #VintageResale #ShoppingVlog #ResellingAntiques #TheAntiqueNomad"
     channeltitle "The Antique Nomad"
     channelid "UCWYCpXmczmgdDwHTYKAKyVg"
@@ -235,7 +235,7 @@ graph
     commentcount 312
     duration "PT33M28S"
     indegree 26
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 91
     duration "PT46M49S"
     indegree 40
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount 573
     duration "PT12M49S"
     indegree 29
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount 296
     duration "PT35M21S"
     indegree 34
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -307,7 +307,7 @@ graph
     commentcount 42
     duration "PT15M37S"
     indegree 29
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 127
     duration "PT8M50S"
     indegree 18
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 238
     duration "PT24M4S"
     indegree 15
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -361,7 +361,7 @@ graph
     commentcount 147
     duration "PT21M44S"
     indegree 66
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount 38
     duration "PT25M39S"
     indegree 90
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -387,7 +387,7 @@ graph
     label "Y-EWqyUzu0A"
     step 0
     date "2019-12-08T22:00:04Z"
-    title "Value Find Antique Jewelry and Earrings by Dr. Lori"
+    title "Value  Find Antique Jewelry and Earrings by Dr. Lori"
     description "Are you looking to value your #antique #jewelry and earrings? Watch Ph.D. Antiques Appraiser Dr. Lori reveal secrets to find and value jade, coral, gold and pearl antique earrings and jewelry. Discover how to identify pearls and what not to do to pearls to ruin them. Plus, jewelry storage and care tips and learn how to get a better price when thrift store shopping for jewelry. Don't miss out on possible #ThriftStoreFinds. Ask Dr. Lori to appraise your antique jewelry, earrings or thrift store find. Attend her antiques appraisal events near you or submit photos on Dr. Lori's website."
     channeltitle "Dr. Lori"
     channelid "UCyld4DZKdnx-VcH0mqpOClg"
@@ -397,7 +397,7 @@ graph
     commentcount 260
     duration "PT11M50S"
     indegree 31
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -415,7 +415,7 @@ graph
     commentcount 201
     duration "PT17M16S"
     indegree 16
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -433,7 +433,7 @@ graph
     commentcount 148
     duration "PT14M26S"
     indegree 12
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -451,7 +451,7 @@ graph
     commentcount 22
     duration "PT25M30S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 65
     duration "PT24M"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount 46
     duration "PT36M10S"
     indegree 14
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -505,7 +505,7 @@ graph
     commentcount 15
     duration "PT15M16S"
     indegree 24
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -523,7 +523,7 @@ graph
     commentcount 250
     duration "PT20M48S"
     indegree 34
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -541,7 +541,7 @@ graph
     commentcount 45
     duration "PT38M9S"
     indegree 5
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -559,7 +559,7 @@ graph
     commentcount 56
     duration "PT23M44S"
     indegree 97
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 40
     duration "PT28M8S"
     indegree 87
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 67
     duration "PT13M23S"
     indegree 20
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -613,7 +613,7 @@ graph
     commentcount 48
     duration "PT32M33S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount 66
     duration "PT22M22S"
     indegree 8
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount 90
     duration "PT46M47S"
     indegree 26
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 12
     duration "PT4M51S"
     indegree 5
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount 53
     duration "PT22M56S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 27
     duration "PT3M5S"
     indegree 0
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount 216
     duration "PT9M41S"
     indegree 12
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -739,7 +739,7 @@ graph
     commentcount 17
     duration "PT12M9S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 326
     duration "PT24M41S"
     indegree 38
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -765,7 +765,7 @@ graph
     label "1-DTDLh8JvQ"
     step 0
     date "2021-02-14T22:00:15Z"
-    title "Valuing Vintage Watches - Dr. Lori"
+    title "Valuing Vintage  Watches - Dr. Lori"
     description "Pick the most valuable piece of jewelry! Watch Ph.D. Antiques Appraiser Dr. Lori valuing vintage &#38; antique jewelry including costume jewelry bracelets, platinum, diamond, gemstones, and sapphire rings plus railroad grade pocket watches. See #bargains found at online auctions like eBay including a GIA certified Cat's Eye Tourmaline ring and a Palladium tested monogrammed ring. See platinum rings valued as you learn #jewelry cleaning and jewelry care tips. Also, discover tips about Austrian crystal stones which look like gemstones. Dr. Lori also offers tips about earrings, necklaces, brooches and faceted cut stones. &#10;&#10;Discover jewelry shopping tips as Dr. Lori appraises a 14 carat diamond and sapphire ring and a sterling silver piece marked 925 that is worth ten times what someone paid for it in an online auction.&#10;&#10;Ask Dr. Lori about valuing vintage &#38; antique jewelry that you think are #thriftstorefinds and bargains. Attend her antiques appraisal events near you or submit photos on Dr. Lori's website."
     channeltitle "Dr. Lori"
     channelid "UCyld4DZKdnx-VcH0mqpOClg"
@@ -775,7 +775,7 @@ graph
     commentcount 160
     duration "PT15M35S"
     indegree 25
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -793,7 +793,7 @@ graph
     commentcount 35
     duration "PT1M35S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -811,7 +811,7 @@ graph
     commentcount 50
     duration "PT16M39S"
     indegree 81
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 245
     duration "PT11M2S"
     indegree 7
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 33
     duration "PT13M32S"
     indegree 11
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount 29
     duration "PT20M4S"
     indegree 61
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -883,7 +883,7 @@ graph
     commentcount 77
     duration "PT10M41S"
     indegree 18
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount 96
     duration "PT11M51S"
     indegree 9
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount 8
     duration "PT6M24S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     commentcount 58
     duration "PT7M12S"
     indegree 19
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 32
     duration "PT30M9S"
     indegree 11
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -973,7 +973,7 @@ graph
     commentcount 4
     duration "PT1H2M2S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 7
     duration "PT23M13S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -999,7 +999,7 @@ graph
     label "Lh8wp2ntbZs"
     step 0
     date "2021-11-28T20:27:06Z"
-    title "How to Identify and Date Vintage Retro Costume Jewelry Brooches"
+    title "How to Identify and Date Vintage  Retro Costume Jewelry Brooches"
     description "This video is to help you learn how to identify and date Retro/Vintage brooches from the 1930s to 1950s. It details the hallmarks, colors, style, and maker marks on individual pieces. There is also dating sheets to help you learn which marks go to which year.  (Give away at the end!)&#10;&#10;Website: www.OVM.Shop&#10;Instagram: OVM.shop&#10;Facebook: https://www.facebook.com/OVM.shop&#10;&#10;Links for Hallmark Dating&#10;https://theassayoffice.com/date-letters&#10;https://silvermakersmarks.co.uk/Dates/index.html&#10;https://theassayoffice.com/anatomy-of-a-hallmark&#10;http://www.thebigworld.co.uk/dating_english_hallmarks_silver_and_gold.htm"
     channeltitle "Olive's Vintage Market"
     channelid "UCTmssxYnnc0ALTnXvGz-LMw"
@@ -1009,7 +1009,7 @@ graph
     commentcount 90
     duration "PT24M5S"
     indegree 23
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 31
     duration "PT11M12S"
     indegree 21
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1045,7 +1045,7 @@ graph
     commentcount 30
     duration "PT16M7S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1063,7 +1063,7 @@ graph
     commentcount 25
     duration "PT45M16S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1081,7 +1081,7 @@ graph
     commentcount 186
     duration "PT39M16S"
     indegree 33
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1099,7 +1099,7 @@ graph
     commentcount 318
     duration "PT12M34S"
     indegree 3
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount 6
     duration "PT4M41S"
     indegree 6
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1135,7 +1135,7 @@ graph
     commentcount 76
     duration "PT18M19S"
     indegree 4
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount 168
     duration "PT9M49S"
     indegree 8
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 38
     duration "PT31M34S"
     indegree 8
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1179,7 +1179,7 @@ graph
     label "avybPsagN_E"
     step 0
     date "2020-05-01T01:00:22Z"
-    title "Vintage Jewelry Jar $19.99 Jackpot! Gold Silver"
+    title "Vintage Jewelry Jar $19.99 Jackpot! Gold  Silver"
     description "Vintage Jewelry Haul Vintage Jewelry Jar&#10;&#10;Vintage jewelry and modern designer brand jewelry thrift haul from a jewelry sale. Found sterling vintage Native Jewelry, gold, and others !&#10;&#10;ThredUp $10 off your first order:&#10;http://www.thredup.com/r/XQ1JU7&#10;Etsy: PrincessCasseroleUS&#10;40 Free Listings: https://www.etsy.com/invites/sell/?iid=4aM6lvR7BGanPlkH3rhSKxPvPSLU-YMLx2HAGzmy0h0&#10;Mercari $10 coupon off your first order:&#10;Sign up for Mercari and get $10 off your first purchase. Here's my invitation link : https://merc.li/bMyF3Qb&#10;Poshmark: @CarlaCasserole&#10;https://bnc.lt/focc/2ec05Gtl2N&#10;Use Code CARLACASSEROLE for $5 Poshmark Credit&#10;Email: PrincessCasserole@gmail.com&#10;Follow my Facebook page at:&#10;https://www.facebook.com/princesscasserole/&#10;Follow me on instagram:&#10;https://www.instagram.com/princess_casserole/&#10;&#10;Disclaimer: This is not a sponsored video.  All things were bought with my own money.  All opinions are my own."
     channeltitle "Princess Casserole"
     channelid "UC5KLVmlc3uVMzw0AFUhMlFg"
@@ -1189,7 +1189,7 @@ graph
     commentcount 77
     duration "PT1H7M39S"
     indegree 19
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 22
     duration "PT15M22S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 264
     duration "PT18M9S"
     indegree 19
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1261,7 +1261,7 @@ graph
     commentcount 158
     duration "PT18M29S"
     indegree 11
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1269,7 +1269,7 @@ graph
     label "JS0agRI0f_g"
     step 0
     date "2022-03-04T19:19:15Z"
-    title "Vintage Jewelry How to: Restore, Repair Reclaim Costume Jewelry Touch Up Pens"
+    title "Vintage Jewelry How to: Restore, Repair  Reclaim Costume Jewelry Touch Up Pens"
     description "Touch Up Pens can save your vintage costume jewelry; use theses easy techniques and tools  &#10;#repairjewelry #jewelry #vintagejewelry &#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCAvAaPlXvgsL0fZBHmQejrw/join&#10;For business inquiries please contact me directly: email thelmahoards@gmail.com&#10;Please LIKE my Facebook Public Page by clicking this link https://www.facebook.com/ConnoisseurCollectorCurator &#10;If Interested in my private, yet FREE auction group on FACEBOOk, please request to join by clicking the link. Thelma Thrift Members Only Auction &#38; Sale. https://www.facebook.com/groups/856784751335050/ REMEMBER to agree to the policies. Thank you leaving a thumbs up and a comment. FOLLOW me on INSTAGRAM:https://www.instagram.com/thelmathrift/ &#10;Thank you for supporting my channel as a member https://www.youtube.com/channel/UCAvAaPlXvgsL0fZBHmQejrw/join"
     channeltitle "Thelma Thrift"
     channelid "UCAvAaPlXvgsL0fZBHmQejrw"
@@ -1279,7 +1279,7 @@ graph
     commentcount 62
     duration "PT26M51S"
     indegree 5
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 37
     duration "PT9M49S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1315,7 +1315,7 @@ graph
     commentcount 15
     duration "PT19M48S"
     indegree 6
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 249
     duration "PT8M34S"
     indegree 7
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 386
     duration "PT15M26S"
     indegree 11
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount 15
     duration "PT10M26S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1395,7 +1395,7 @@ graph
     label "FpU7uvPtvd8"
     step 0
     date "2022-03-08T01:30:41Z"
-    title "WOW! Jewelry Hoard in Chicago! Entire Estate of Vintage Antique Jewelry!"
+    title "WOW! Jewelry Hoard in Chicago! Entire Estate of Vintage  Antique Jewelry!"
     description "My trip to Chicago to check out an entire estate of vintage jewelry. I man contacted me about an entire lifetime supply of amazing jewelry! There were prototypes of Stanley Hagler, Miriam Haskell, Hattie Carnegie, Givenchy, Coro, Trifari, Sterling, Art Deco, Victorian, and the list goes on! We only stayed in Chicago for a total of 16 hours, but it was an awesome 16 hours full of pizza, jewelry, and good conversation! I bet there were over 20k pieces of jewelry and I am not even lying! &#10;&#10;* For the giveaway please comment to be entered. This is so I can reply to your comment if you win. It is hard to contact people otherwise so please keep checking back. I will announce the winner on 3/14/2022! &#10;&#10;* Everyone keeps asking for the names of the songs so I will start listing them here for everyone:    Geminii - Little Sister III&#10;&#10;*Contact me at any of these:&#10;www.OVM.shop&#10;Instagram: @Ovm.shop&#10;https://www.facebook.com/OVM.shop&#10;Email: Kaciepaige03@hotmail.com"
     channeltitle "Olive's Vintage Market"
     channelid "UCTmssxYnnc0ALTnXvGz-LMw"
@@ -1405,7 +1405,7 @@ graph
     commentcount 100
     duration "PT22M16S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1423,7 +1423,7 @@ graph
     commentcount 47
     duration "PT32M27S"
     indegree 6
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1431,7 +1431,7 @@ graph
     label "9P_TSwJBmpU"
     step 0
     date "2021-02-26T23:09:57Z"
-    title "Part 6 ANTIQUE Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education"
+    title "Part 6 ANTIQUE  Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education"
     description "Welcome to part 6 of a recent antique and vintage jewelry haul I got from a former jewelry store owner. You will see (and learn about!) some beautiful vintage and antique jewelry pieces including a lovely scarab cuff bracelet, an art deco pin with a pretty blue stone,  a Morpho butterfly necklace and much MORE. Brands include Monet, Castlecliff, Les Bernard, Crown Trifari, Marvella, Napier and others.  I hope you enjoy my haul. There are bracelets, brooches, necklaces, rings, etc. You'll likely learn a few new things about old jewelry. Thanks so much for watching, please share and like this video if you're so inclined!  I hope you enjoy my jewelry haul! xo  &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelery101 #jewelryidentification #testingbakelite #testingsterlingsilver #learnaboutvintagejewelry #jewelryeducation #vintagejewelryforbeginners"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -1441,7 +1441,7 @@ graph
     commentcount 123
     duration "PT28M40S"
     indegree 17
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 111
     duration "PT3M35S"
     indegree 4
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -1477,7 +1477,7 @@ graph
     commentcount 108
     duration "PT21M31S"
     indegree 26
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 12
     duration "PT5M43S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1513,7 +1513,7 @@ graph
     commentcount 256
     duration "PT24M38S"
     indegree 7
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1531,7 +1531,7 @@ graph
     commentcount 135
     duration "PT29M51S"
     indegree 11
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1549,7 +1549,7 @@ graph
     commentcount 21
     duration "PT12M42S"
     indegree 11
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 122
     duration "PT21M11S"
     indegree 8
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -1585,7 +1585,7 @@ graph
     commentcount 97
     duration "PT33M4S"
     indegree 37
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 108
     duration "PT9M11S"
     indegree 24
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 14
     duration "PT4M25S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 45
     duration "PT21M52S"
     indegree 27
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1657,7 +1657,7 @@ graph
     commentcount 49
     duration "PT29M47S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -1675,7 +1675,7 @@ graph
     commentcount 152
     duration "PT22M15S"
     indegree 43
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1693,7 +1693,7 @@ graph
     commentcount 22
     duration "PT18M31S"
     indegree 7
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 7
     duration "PT7M46S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 35
     duration "PT17M27S"
     indegree 82
-    cluster 4
+    cluster 1
   ]
   node
   [
@@ -1747,7 +1747,7 @@ graph
     commentcount 6
     duration "PT4M43S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 35
     duration "PT8M48S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 204
     duration "PT10M43S"
     indegree 5
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1791,7 +1791,7 @@ graph
     label "R8bNv2d_q3c"
     step 0
     date "2022-01-22T05:00:22Z"
-    title "Vintage Jewelry Unbagging Sterling Silver, Gemstones More"
+    title "Vintage Jewelry Unbagging Sterling Silver, Gemstones  More"
     description "Come see our Vintage Jewelry Unbagging from our Local Jewelry Auction. We have Sapphires, Jade, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -1801,7 +1801,7 @@ graph
     commentcount 44
     duration "PT19M32S"
     indegree 4
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 35
     duration "PT40M40S"
     indegree 15
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 102
     duration "PT26M35S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 90
     duration "PT2M1S"
     indegree 1
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -1881,7 +1881,7 @@ graph
     label "1H8Epk6qpdY"
     step 0
     date "2020-10-29T22:00:02Z"
-    title "Vintage Jewelry Unboxing - Found 14k GOLD Diamond Brooch 2020 Haul"
+    title "Vintage Jewelry Unboxing - Found 14k GOLD  Diamond Brooch 2020 Haul"
     description "Vintage Jewelry Unboxing - Found 14k Gold &#38; Diamond Brooch2020 Ebay Haul&#10;#jewelry #unboxing #gold #diamonds&#10;&#10;Watch to see what I find in this 12 pound mystery box of vintage brooches. I paid 648 total for the box. Was it worth it? Watch and let me know what you think in the comments below. Not only did a find a 14k white gold brooch adorned with baguette and pear diamonds, but I found so much more !We offer our brooches on Ebay auctions starting and $2.50 or $5.00 and we also give away one free brooch a month on our facebook page. Links are below. Thanks for watching, subscribing and feel free to comment below. I look forward to hearing from my viewers!&#10;&#10;---------------------------------------&#10;https://linktr.ee/vintagevagabond&#10;email - vintagevagabondvends@gmail.com"
     channeltitle "Vintage Vagabond Vends"
     channelid "UCgMFmm3R5e8KB2LIQkhC3Pw"
@@ -1891,7 +1891,7 @@ graph
     commentcount 17
     duration "PT18M7S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -1899,7 +1899,7 @@ graph
     label "JmlGLgvAVhc"
     step 0
     date "2021-02-03T02:37:21Z"
-    title "Vintage Jewelry Identification Appraisals"
+    title "Vintage Jewelry Identification  Appraisals"
     description "Please see below for full access to Creative Unique's:&#10;&#10;Tik Tok: creativeuniques&#10;Facebook Page: fb.me/creativeuniques&#10;Facebook Message: m.me/creativeuniques&#10;Instagram: CreativeUniques &#10;Website: CUniques.com &#10;Poshmark: CreativeUniques &#10;Ebay Store: ebay.com/usr/niftythriftiesinajiffy&#10;Etsy Store: EfficientlyCreative1 &#10;Mercari Store: Creative Uniques &#10;Youtube Channel: Creative Unique's&#10;Linked-in: https://www.linkedin.com/in/brooke-silva-06187445/&#10;Youtube Channels:  &#34;GoBetween&#34; &#38; &#34;Taboo Schitt&#34;&#10;&#10;PLEASE COMMENT BELOW!! I LOVE TO HEAR FEEDBACK!! I WANT TO HEAR FROM YOU! WE APPRECIATE YOUR SUPPORT!!! THANK YOU!!"
     channeltitle "Creative Unique's"
     channelid "UCXdcmJ5RejMxaSU_XfOwDpg"
@@ -1909,7 +1909,7 @@ graph
     commentcount 0
     duration "PT14M39S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 50
     duration "PT26M8S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1935,7 +1935,7 @@ graph
     label "V4ynAA7ohoo"
     step 0
     date "2021-02-02T00:25:52Z"
-    title "Vintage Jewelry STICK PIN Collection MY JEWELRY BOX Haul Victorian Edwardian Costume Real"
+    title "Vintage Jewelry STICK PIN Collection MY JEWELRY BOX Haul Victorian Edwardian Costume  Real"
     description "Hello and welcome to my STICK PIN jewelry collection!  This video features some Victorian &#38; Edwardian pieces including some snakes, hearts, moons and more. A few are real gold with gemstones, and some are costume. I will also test some of them with my Presidium Gem Tester!!!!  Thanks for coming, please see my other videos for more beautiful old jewelry.  Kindly like, subscribe and share. Peace. xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;&#10;&#10;#jewelry101 #jewelry education #learningaboutjewelry #howtoidentifyvintagejewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -1945,7 +1945,7 @@ graph
     commentcount 86
     duration "PT31M52S"
     indegree 6
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -1963,7 +1963,7 @@ graph
     commentcount 19
     duration "PT34M52S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -1981,7 +1981,7 @@ graph
     commentcount 9
     duration "PT12M52S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2017,7 +2017,7 @@ graph
     commentcount 72
     duration "PT24M14S"
     indegree 5
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount 114
     duration "PT1H54M5S"
     indegree 27
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 5
     duration "PT3M20S"
     indegree 1
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2071,7 +2071,7 @@ graph
     commentcount 117
     duration "PT13M13S"
     indegree 6
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 244
     duration "PT19M15S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 52
     duration "PT24M21S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2115,7 +2115,7 @@ graph
     label "C1c5pw8_0eQ"
     step 0
     date "2021-02-17T06:50:16Z"
-    title "Vintage more PART#1"
+    title "Vintage  more PART#1"
     description "Hello friends and family =FRAMILY;) &#10; If you LOVE vintage, antique, and learning about makers 'marks jewelry please stay tuned. Join me in the fun and excitement of un-bagging my vintage and or antique costume jewelry.&#10; I go out to Arizona and come home with these goodies, I stash them away until I have time to sort through them again with you. I think it's much more fun revisiting my Jewls on camera with you all.  I wish I could do a live stream for us (one day soon I hope). Well had a lot more jewelry then thought so I will have to make a part two. Please stay on board w me this is only the beginning! Part 2 is going to be me finishing up my Arizona savers vintage jewelry haul. I'm so excited!!! I'm really looking forward to read your comments and hear what you have to say, and hopefully I will learn some new things. Anyway I'm going to post this and continue part 2. Thank you for watching ,and sticking with me you all are the best!  Love love love from Me 2 you all. God Bless"
     channeltitle "SpicyDames Vintage Jewelry &#38; Things"
     channelid "UCqf8T_YPcmRe99TJmTbWxLw"
@@ -2125,7 +2125,7 @@ graph
     commentcount 3
     duration "PT28M16S"
     indegree 10
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2143,7 +2143,7 @@ graph
     commentcount 25
     duration "PT1H32M47S"
     indegree 15
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 70
     duration "PT2M31S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 55
     duration "PT22M53S"
     indegree 4
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2197,7 +2197,7 @@ graph
     commentcount 23
     duration "PT12M2S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2215,7 +2215,7 @@ graph
     commentcount 30
     duration "PT15M15S"
     indegree 13
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -2223,7 +2223,7 @@ graph
     label "_wK-m0IImmQ"
     step 0
     date "2022-07-08T12:21:15Z"
-    title "Anti Inflation Sale! 8% Off Vintage Jewelry PART 2!"
+    title "Anti Inflation Sale! 8% Off Vintage Jewelry  PART 2!"
     description "Anti Inflation Sale! 8% Off Vintage Jewelry &#128141; PART 2!  &#10;Jomaz Earrings https://py.pl/dLi79&#10;Day and Bight Earrings  https://py.pl/VmEF2&#10;Monet Horn Necklace https://py.pl/1gnn7v&#10;Live shopping vintage jewelry auction!&#13;&#10;&#9829;&#65038;  TEXT ME:  917-809-7250  For Live Auction Alerts&#13;&#10;&#9829;&#65038; SELL OR CONSIGN: hudsonvintage@me.com SUBJECT: Help! &#13;&#10;&#9829;&#65038;  MEMBERSHIP PATREON:  &#13;&#10; https://www.patreon.com/hudsonvintage&#13;&#10;&#9829;&#65038;  MEMBERSHIP YOUTUBE:  https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#13;&#10;&#9829;&#65038;  GALAXY SHOP:  973-949-0785  https://shopgalaxy.com/hudson-vintage/profile&#13;&#10;&#9829;&#65038; SOCIALS:&#13;&#10;Facebook: https://www.facebook.com/hudsonvintageny/&#13;&#10;Instagram:  https://www.instagram.com/hudsonvintage/&#13;&#10;&#9829;&#65038; AMAZON:  https://www.amazon.com/shop/hudsonvintage&#13;&#10;&#9829;&#65038; FRIEND MAIL&#13;&#10;Hudson Vintage&#13;&#10;P.O. BOX 526&#13;&#10;Blairstown NJ&#13;&#10;07825&#13;&#10;&#9829;&#65038; CONTACT ME:&#13;&#10;EMAIL: hudsonvintage@me.com&#13;&#10;TEXT:  917-809-7250&#13;&#10;&#9829;&#65038; JOIN this channel to get access to perks:&#13;&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA/join&#13;&#10;&#13;&#10;I am a vintage jewelry expert and have a vast collection of vintage jewelry and clothes. I have been a source for movies and TV,  (the last being &#34;The Irishman&#34;).  I make videos on creating personal style with modern clothes we buy everyday, and adding vintage finds and thrifted treasure!  I'm a long time vintage professional. I've been a high-end NY vintage shop owner,  and my personal collection remains a source closet for designers and wardrobe directors. I make new videos every week (or almost every week) subscribe now to see them all!   xo ~D Hudson Vintage&#13;&#10;&#13;&#10;MOST POPULAR VIDEO&#13;&#10;https://www.tubebuddy.com/quicknav/mostpopular/UCZBYmN6psJwd2S_8-WxtUHA&#13;&#10;&#13;&#10;LAST WEEK'S UPLOAD:&#13;&#10;https://www.tubebuddy.com/quicknav/latest/UCZBYmN6psJwd2S_8-WxtUHA&#13;&#10;&#13;&#10;CHANNEL INTRO: &#13;&#10;https://www.youtube.com/channel/UCZBYmN6psJwd2S_8-WxtUHA?sub_confirmation=1&#13;&#10;&#13;&#10;EMAIL: hudsonvintage@me.com&#13;&#10;&#13;&#10;As an Amazon Associate I earn from qualifying purchases"
     channeltitle "HUDSON VINTAGE - How To Collect And Wear It"
     channelid "UCZBYmN6psJwd2S_8-WxtUHA"
@@ -2233,7 +2233,7 @@ graph
     commentcount 0
     duration "PT1H12M3S"
     indegree 7
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2251,7 +2251,7 @@ graph
     commentcount 45
     duration "PT23M49S"
     indegree 2
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2269,7 +2269,7 @@ graph
     commentcount 102
     duration "PT9M41S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 38
     duration "PT34M56S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2305,7 +2305,7 @@ graph
     commentcount 16
     duration "PT9M43S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 40
     duration "PT24M32S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 10
     duration "PT3M32S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 6
     duration "PT4H6M7S"
     indegree 6
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount 72
     duration "PT23M3S"
     indegree 32
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 123
     duration "PT21M54S"
     indegree 5
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 46
     duration "PT24M44S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 13
     duration "PT14M28S"
     indegree 3
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2449,7 +2449,7 @@ graph
     commentcount 18
     duration "PT20M24S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 52
     duration "PT24M46S"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2485,7 +2485,7 @@ graph
     commentcount 17
     duration "PT4M33S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 8
     duration "PT24M6S"
     indegree 2
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2511,7 +2511,7 @@ graph
     label "MM3YvEDmkOU"
     step 0
     date "2021-05-03T15:00:14Z"
-    title "Vintage Jewelry Identification Appraisals"
+    title "Vintage Jewelry Identification  Appraisals"
     description "Episode 10&#10;&#10;Facebook Page: fb.me/creativeuniques&#10;Facebook Message: m.me/creativeuniques &#10;Instagram: CreativeUniques &#10;&#10;Store: &#10;Etsy Store: EfficientlyCreative1 &#10;Ebay Store: ebay.com/usr/niftythriftiesinajiffy&#10;Website: CUniques.com&#10;&#10;Other Channels:&#10;Taboo Schitt (also on Anchor and Spotify)&#10;GoBetween&#10;&#10;P.O. Box 354&#10;Canton, TX 75103"
     channeltitle "Creative Unique's"
     channelid "UCXdcmJ5RejMxaSU_XfOwDpg"
@@ -2521,7 +2521,7 @@ graph
     commentcount 0
     duration "PT10M39S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2539,7 +2539,7 @@ graph
     commentcount 49
     duration "PT22M20S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 20
     duration "PT16M3S"
     indegree 8
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 127
     duration "PT21M52S"
     indegree 10
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -2593,7 +2593,7 @@ graph
     commentcount 38
     duration "PT55M52S"
     indegree 5
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2629,7 +2629,7 @@ graph
     commentcount 23
     duration "PT2M31S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2637,7 +2637,7 @@ graph
     label "PpzhqTvy9NY"
     step 0
     date "2022-06-22T23:39:52Z"
-    title "Antique AUCTION Ride Along Adventure Vintage Jewelry More!"
+    title "Antique AUCTION Ride Along Adventure Vintage Jewelry  More!"
     description "Here's a fun jewelry haul that I hope you enjoy! I found some &#10;As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -2647,7 +2647,7 @@ graph
     commentcount 46
     duration "PT25M24S"
     indegree 12
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2665,7 +2665,7 @@ graph
     commentcount 2
     duration "PT11M21S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2683,7 +2683,7 @@ graph
     commentcount 429
     duration "PT23M52S"
     indegree 12
-    cluster 5
+    cluster 6
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 879
     duration "PT18M50S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -2719,7 +2719,7 @@ graph
     commentcount 69
     duration "PT27M1S"
     indegree 9
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2737,7 +2737,7 @@ graph
     commentcount 9
     duration "PT4M50S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 202
     duration "PT28M55S"
     indegree 0
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2773,7 +2773,7 @@ graph
     commentcount 109
     duration "PT5M31S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -2791,7 +2791,7 @@ graph
     commentcount 37
     duration "PT9M26S"
     indegree 3
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -2809,7 +2809,7 @@ graph
     commentcount 44
     duration "PT26M42S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -2827,7 +2827,7 @@ graph
     commentcount 13
     duration "PT15M20S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -2835,7 +2835,7 @@ graph
     label "_6rPpNJ2nes"
     step 0
     date "2022-01-03T05:00:25Z"
-    title "Vintage Jewelry Unbagging First Auction Bags of the Year Sterling, Weiss, Rubies Amber"
+    title "Vintage Jewelry Unbagging First Auction Bags of the Year Sterling, Weiss, Rubies  Amber"
     description "Come see our Vintage Jewelry Unbagging from our Local Jewelry Auction. We have Weiss, Monet, Rubies, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -2845,7 +2845,7 @@ graph
     commentcount 68
     duration "PT27M16S"
     indegree 7
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 2
     duration "PT1H35M2S"
     indegree 9
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -2881,7 +2881,7 @@ graph
     commentcount 52
     duration "PT27M6S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2889,7 +2889,7 @@ graph
     label "HWruQIY59-Y"
     step 0
     date "2021-12-14T18:32:35Z"
-    title "Interesting EGYPTIAN REVIVAL Vintage Jewelry Collection from Yard Sales Thrift Stores !"
+    title "Interesting EGYPTIAN REVIVAL Vintage Jewelry Collection from Yard Sales  Thrift Stores !"
     description "Welcome to another installment of &#34;My Jewelry Box&#34;. I hope you enjoy seeing some of my Egyptian-themed jewelry. Near the end, I also include a few ancient-style pieces too. As always, thanks so much for watching, I hope you will consider subscribing so you don't miss any videos in the future!  Oh, and buy me a coffee if you want. Hugs, Sandra. xo&#10;#yardsalefinds #garagesalefinds #vintagejewelry #jewelryhaul #unboxing &#10;&#10;Buy me a coffee here:&#10;https://www.buymeacoffee.com/TheFunkyPickle&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -2899,7 +2899,7 @@ graph
     commentcount 83
     duration "PT20M34S"
     indegree 6
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -2917,7 +2917,7 @@ graph
     commentcount 54
     duration "PT44M15S"
     indegree 21
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2935,7 +2935,7 @@ graph
     commentcount 25
     duration "PT28M31S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 70
     duration "PT31M59S"
     indegree 4
-    cluster 1
+    cluster 5
   ]
   node
   [
@@ -2971,7 +2971,7 @@ graph
     commentcount 80
     duration "PT35M35S"
     indegree 5
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -2989,7 +2989,7 @@ graph
     commentcount 27
     duration "PT8M49S"
     indegree 1
-    cluster 2
+    cluster 7
   ]
   node
   [
@@ -3007,7 +3007,7 @@ graph
     commentcount 29
     duration "PT12M47S"
     indegree 17
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 221
     duration "PT15M46S"
     indegree 4
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -3033,7 +3033,7 @@ graph
     label "jMYTqp6hj14"
     step 0
     date "2022-06-30T13:29:50Z"
-    title "2022.06.30 (EP27) - Vintage Jewelry"
+    title "2022.06.30  (EP27) - Vintage Jewelry"
     description "My eMail address: VintageBoutiqueCali@Yahoo.com&#10;&#10;2022.06.30 &#8220;What&#8217;s in the Box?&#8221; (EP27) - Vintage Jewelry&#10;&#10;I thoroughly enjoy hunting/searching for and picking specific pieces of vintage sterling silver and costume jewelry I like and then offering them to people like you who may want to purchase and/or collect them from the comfort of your own living room. &#10;&#10;For today, however, just sit back, relax and come see what fun treasures are in this box of jewelry!  I am in the process of sorting through a bunch of boxes that were in my storage unit because I am getting ready for a large jewelry sale in July, and I'll be wanting to include pieces that are in these boxes as well.  &#10;&#10;If jewelry and this kind of content interests you, I invite you to subscribe to my channel and click the notification bell to make sure you receive notifications when I go live or upload content. &#10;&#10;Lastly, if you have any constructive feedback and/or recommendations for me on how I can improve my YouTube content, I solicit and welcome your ideas! &#10;&#10;Thanks! &#10;Doug &#10;&#10;#sandiego #sterling #vintagejewelry #midcentury #jewelry"
     channeltitle "Doug / Vintage Boutique Cali"
     channelid "UCmdKgXreKn0H-AuVMXh69ew"
@@ -3061,7 +3061,7 @@ graph
     commentcount 38
     duration "PT35M4S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 40
     duration "PT23M14S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3097,7 +3097,7 @@ graph
     commentcount 84
     duration "PT26M19S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 180
     duration "PT29M34S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     commentcount 48
     duration "PT29M55S"
     indegree 8
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3151,7 +3151,7 @@ graph
     commentcount 12
     duration "PT18M32S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 17
     duration "PT6M18S"
     indegree 2
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3187,7 +3187,7 @@ graph
     commentcount 5
     duration "PT5M57S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 45
     duration "PT29M13S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 3
     duration "PT1M55S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -3241,7 +3241,7 @@ graph
     commentcount 34
     duration "PT1H26M25S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3259,7 +3259,7 @@ graph
     commentcount 18
     duration "PT2H6M3S"
     indegree 11
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3267,7 +3267,7 @@ graph
     label "ePL704RhBnk"
     step 0
     date "2021-09-05T10:18:22Z"
-    title "Vintage Jewelry Identification Kenneth J Lane Giveaway Winner"
+    title "Vintage Jewelry Identification Kenneth J Lane  Giveaway Winner"
     description "Vintage jewelry identification for Kenneth J Lane jewelry &#38; Giveaway Winner. All winners and friend mail recipients have been contacted but I will be announcing the three YouTubers I sent friend mail to along with the giveaway winner. &#10;Giveaway &#38; friend mail https://youtu.be/qEtHzxXB9ws&#10;My pink bag https://youtube.com/user/ginagay&#10;Vintage jewelry galore https://youtube.com/channel/UC-SY2UDSOmvdmjtA-i8oJdg&#10;Sugarvission https://youtube.com/user/SUGARVISSION&#10;Halies jewelry &#38; crafts https://youtube.com/channel/UCC7_3uNPb7UnQpDOcmznMzw"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -3277,7 +3277,7 @@ graph
     commentcount 31
     duration "PT10M46S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3295,7 +3295,7 @@ graph
     commentcount 30
     duration "PT27M52S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 51
     duration "PT11M58S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3331,7 +3331,7 @@ graph
     commentcount 7
     duration "PT20M10S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3349,7 +3349,7 @@ graph
     commentcount 3
     duration "PT1M52S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 21
     duration "PT11M10S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3385,7 +3385,7 @@ graph
     commentcount 40
     duration "PT9M1S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 0
     duration "PT30S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 43
     duration "PT11M25S"
     indegree 25
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount 75
     duration "PT16M21S"
     indegree 25
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3465,7 +3465,7 @@ graph
     label "lb_QVJqYsHc"
     step 0
     date "2010-10-14T19:37:12Z"
-    title "E tongue sticking out loring a Vintage Jewelry Warehouse"
+    title "Exploring a Vintage Jewelry Warehouse"
     description "I snuck into a NYC wholesale vintage jewelry warehouse with friend and jewelry design Kim to learn how she gets her top secret supplies ... shhh! Whisper or I might get into trouble! &#13;&#10;&#13;&#10;MY SITE: http://www.sammydvintage.com&#13;&#10;&#13;&#10;TWEET ME: http://www.twitter.com/sammydvintage&#13;&#10;&#13;&#10;FAN ME: http://www.facebook.com/sammydavisvin...&#13;&#10;&#13;&#10;EMAIL ME: sammy@sammydvintage.com&#13;&#10;&#13;&#10;Sammy D Loves ... and says THANKS!&#13;&#10;&#13;&#10;Shop K Designs:  http://www.wix.com/kdesignsbyme/new-kdesigns-site&#13;&#10;Email Kim (kdabagian4@aol.com) for 10% off your purchase when you mention Sammy Davis Vintage!&#13;&#10;&#13;&#10;CJS Whole Vintage Jewelry &#38; Supplies Warehouse&#13;&#10;http://www.cjssales.com"
     channeltitle "Sammy Davis"
     channelid "UCFSv3M8gm-eS4iNEY9Hut5A"
@@ -3475,7 +3475,7 @@ graph
     commentcount 22
     duration "PT4M42S"
     indegree 3
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 40
     duration "PT11M5S"
     indegree 27
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     commentcount 8
     duration "PT2H13M4S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3519,7 +3519,7 @@ graph
     label "bq6Gkv01d1c"
     step 0
     date "2019-08-21T22:37:40Z"
-    title "VINTAGE JEWELRY HAUL / THRIFTED JEWELRY, GOLD DAINTY || MEGAN ELIZABETH"
+    title "VINTAGE JEWELRY HAUL / THRIFTED JEWELRY, GOLD  DAINTY || MEGAN ELIZABETH"
     description "Hi guys!!! This is my first Youtube video ever so the editing is not perfect and I'm super camera shy and awkward right now but I promise the editing will get better with time and I'll get more comfy in front of the camera so I can share my personality with you guys a little bit better!!! &#10;&#10;I'm so excited for you guys to see all the vintage gold jewelry I've picked up from different thrift stores and antique stores lately!! I love thrifting and checking out different antique stores so I wanted to show you that you can find some really cool vintage pieces if you just do some digging!&#10;&#10;I hope you all enjoy this video and if you did make sure you give this video a like and subscribe to my channel! It would mean the absolute world to me to receive your support and love!! ALSO, LEAVE A COMMENT BELOW AND LET ME KNOW WHAT YOUR FAVORITE PIECE WAS IN THIS HAUL!!! Love you guys!!! &#10;&#10;&#10;&#10032; Hi I'm Megan!! &#10032; Come hang for some videos about fashion, beauty, home decor, thrifting, and hauls! &#10;&#10;&#10032; MY SOCIAL MEDIA  &#10032;&#10;IG: https://www.instagram.com/meganelizabeth__xx/&#10;DEPOP:  depop.com/dirtgirl"
     channeltitle "Megan Elizabeth"
     channelid "UCZ-HD1CxODXNzgxZNq6DinQ"
@@ -3529,7 +3529,7 @@ graph
     commentcount 7
     duration "PT14M4S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -3547,7 +3547,7 @@ graph
     commentcount 64
     duration "PT29M57S"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3565,7 +3565,7 @@ graph
     commentcount 53
     duration "PT22M"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 8
     duration "PT8M47S"
     indegree 1
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount 32
     duration "PT17M48S"
     indegree 1
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 66
     duration "PT36M50S"
     indegree 21
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3637,7 +3637,7 @@ graph
     commentcount 0
     duration "PT20M20S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -3655,7 +3655,7 @@ graph
     commentcount 53
     duration "PT24M27S"
     indegree 10
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 6
     duration "PT1M12S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3691,7 +3691,7 @@ graph
     commentcount 48
     duration "PT31M22S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 30
     duration "PT42M56S"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3717,7 +3717,7 @@ graph
     label "trvjMtxF3VY"
     step 0
     date "2020-12-25T03:30:35Z"
-    title "VINTAGE JEWELRY HAUL Estate Reseller"
+    title "VINTAGE JEWELRY HAUL Estate  Reseller"
     description "Here's a fun jewelry haul that I hope you enjoy! I don't usually pay more than a couple dollars for the jewelry I buy.  I've recently found some Danbury Mint, a 14k gold pin, Damascene / Toledoware, Sterling Silver, costume jewelry, blue rhinestone cufflinks, Honora pearl earrings, a KJL necklace, a frog ring and much more!&#10;&#10;As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#ebaypowerseller #ebayreseller #vintage jewelry #howtocollectjewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -3727,7 +3727,7 @@ graph
     commentcount 30
     duration "PT18M38S"
     indegree 14
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 75
     duration "PT1H7M10S"
     indegree 33
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 25
     duration "PT19M30S"
     indegree 50
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -3781,7 +3781,7 @@ graph
     commentcount 34
     duration "PT34M7S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 86
     duration "PT39M29S"
     indegree 16
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3817,7 +3817,7 @@ graph
     commentcount 168
     duration "PT43M5S"
     indegree 16
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount 16
     duration "PT7M48S"
     indegree 4
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -3853,7 +3853,7 @@ graph
     commentcount 29
     duration "PT1H3M26S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3871,7 +3871,7 @@ graph
     commentcount 24
     duration "PT20M57S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 65
     duration "PT32M30S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3907,7 +3907,7 @@ graph
     commentcount 87
     duration "PT23M41S"
     indegree 6
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -3925,7 +3925,7 @@ graph
     commentcount 29
     duration "PT22M"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 113
     duration "PT7M25S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3961,7 +3961,7 @@ graph
     commentcount 29
     duration "PT10M4S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     commentcount 4
     duration "PT14M25S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     commentcount 89
     duration "PT39M51S"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4015,7 +4015,7 @@ graph
     commentcount 54
     duration "PT26M53S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 141
     duration "PT54M18S"
     indegree 27
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 119
     duration "PT35M51S"
     indegree 14
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 48
     duration "PT16M51S"
     indegree 3
-    cluster 4
+    cluster 8
   ]
   node
   [
@@ -4087,7 +4087,7 @@ graph
     commentcount 67
     duration "PT27M41S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4105,7 +4105,7 @@ graph
     commentcount 119
     duration "PT16M15S"
     indegree 20
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4113,7 +4113,7 @@ graph
     label "ii5Ol0HfTns"
     step 0
     date "2021-09-15T11:00:32Z"
-    title "Vintage Jewelry Thrift Haul Most recent Finds"
+    title "Vintage Jewelry Thrift Haul  Most recent Finds"
     description "Vintage jewelry thrift haul and my most recent vintage jewelry finds. Come with me to Athens Ga as I browse my favorite thrift store for vintage jewelry. I&#8217;ll also show you my most recent purchases and tell you a little about them.&#10;Carol Duplaise Vintage Jewelry Identification Carol Duplaise https://youtu.be/F-GGl8s11yE"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -4123,7 +4123,7 @@ graph
     commentcount 18
     duration "PT14M43S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4131,7 +4131,7 @@ graph
     label "yKhjk2g3rOs"
     step 0
     date "2022-06-29T01:52:07Z"
-    title "2022.06.28 Sterling Silver Video: What Did I Pick?"
+    title "2022.06.28 Sterling Silver  Video: What Did I Pick?"
     description "My eMail address: VintageBoutiqueCali@Yahoo.com&#10;&#10;2022.06.28 Sterling Silver &#38; Vintage Costume Jewelry &#8220;Haul&#8221; Video: What Did I Pick?&#10;&#10;I thoroughly enjoy hunting/searching for and picking specific pieces of vintage sterling silver and costume jewelry I like and then offering them to people like you who may want to purchase and/or collect them from the comfort of your own living room. &#10;&#10;For today, however, just sit back, relax and come see what fun treasures I could not leave behind! These pieces are not for sale yet (at the time of this video posting) because I still have to clean, test and thoroughly inspect them for condition, makers marks, etc. &#8230; but know that I will be having several upcoming sales and auctions on my YouTube channel in the very near future ... so if this content interests you, I invite you to subscribe to my channel and click the notification bell to make sure you receive notifications when I go live or upload content. &#10;&#10;Lastly, if you have any constructive feedback and/or recommendations for me on how I can improve my YouTube content, I solicit and welcome your ideas! &#10;&#10;Thanks! &#10;Doug &#10;&#10;#sandiego #sterling #vintagejewelry #midcentury #jewelry"
     channeltitle "Doug / Vintage Boutique Cali"
     channelid "UCmdKgXreKn0H-AuVMXh69ew"
@@ -4159,7 +4159,7 @@ graph
     commentcount 6
     duration "PT10S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4177,7 +4177,7 @@ graph
     commentcount 30
     duration "PT42M3S"
     indegree 10
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -4195,7 +4195,7 @@ graph
     commentcount 14
     duration "PT29M27S"
     indegree 10
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4213,7 +4213,7 @@ graph
     commentcount 29
     duration "PT15M36S"
     indegree 10
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4231,7 +4231,7 @@ graph
     commentcount 51
     duration "PT23M32S"
     indegree 3
-    cluster 4
+    cluster 8
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 63
     duration "PT36M58S"
     indegree 13
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 54
     duration "PT30M45S"
     indegree 4
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 4
     duration "PT25M4S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4303,7 +4303,7 @@ graph
     commentcount 105
     duration "PT25M3S"
     indegree 19
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4321,7 +4321,7 @@ graph
     commentcount 0
     duration "PT15M52S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4339,7 +4339,7 @@ graph
     commentcount 152
     duration "PT25M49S"
     indegree 11
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4357,7 +4357,7 @@ graph
     commentcount 60
     duration "PT1H1M53S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4365,7 +4365,7 @@ graph
     label "MFJRy8IE1Ls"
     step 0
     date "2021-11-16T22:52:05Z"
-    title "14k Gold VINTAGE JEWELRY HAUL from THRIFT STORES Costume Jewelry"
+    title "14k Gold VINTAGE JEWELRY HAUL from THRIFT STORES  Costume Jewelry"
     description "I found some nice 14k gold jewelry along with a Miriam Haskell necklace and a Hattie Carnegie brooch, plus other costume jewelry pieces. As always, thanks so much for watching -- please pass the word! Big Hugs, SANDRA &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4375,7 +4375,7 @@ graph
     commentcount 49
     duration "PT17M53S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4393,7 +4393,7 @@ graph
     commentcount 2
     duration "PT1H31M53S"
     indegree 5
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4411,7 +4411,7 @@ graph
     commentcount 32
     duration "PT13M28S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount 107
     duration "PT46M35S"
     indegree 20
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4447,7 +4447,7 @@ graph
     commentcount 31
     duration "PT28M24S"
     indegree 6
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -4465,7 +4465,7 @@ graph
     commentcount 76
     duration "PT13M50S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4483,7 +4483,7 @@ graph
     commentcount 50
     duration "PT34M53S"
     indegree 29
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4501,7 +4501,7 @@ graph
     commentcount 88
     duration "PT13M56S"
     indegree 17
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4537,7 +4537,7 @@ graph
     commentcount 48
     duration "PT21M26S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4555,7 +4555,7 @@ graph
     commentcount 103
     duration "PT16M44S"
     indegree 10
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4563,7 +4563,7 @@ graph
     label "j-6ktntDuBM"
     step 0
     date "2021-01-20T06:14:03Z"
-    title "Part 2 ANTIQUE Vintage JEWELRY HAUL Victorian and More! How to Identify Old Jewelry Unboxing"
+    title "Part 2 ANTIQUE  Vintage JEWELRY HAUL Victorian and More! How to Identify Old Jewelry Unboxing"
     description "This is part 2 of a recent antique and vintage jewelry haul I got from a lady who used to own a jewelry store. You will see (and learn about!) some beautiful Victorian pieces including a mourning  brooch, a celluloid necklace, some sterling silver, amber, carved bone, wedding cake beads and much MORE. Brands include Trifari, Kramer, De Nicola and others.  I hope you enjoy my haul.  There are bracelets, brooches, necklaces, rings, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelry101 #learning #jewelryforbeginners #howtoidentifyjewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4573,7 +4573,7 @@ graph
     commentcount 129
     duration "PT34M20S"
     indegree 17
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4591,7 +4591,7 @@ graph
     commentcount 45
     duration "PT29M29S"
     indegree 6
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4609,7 +4609,7 @@ graph
     commentcount 56
     duration "PT13M44S"
     indegree 2
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4627,7 +4627,7 @@ graph
     commentcount 3
     duration "PT2M15S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4645,7 +4645,7 @@ graph
     commentcount 80
     duration "PT18M6S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4653,7 +4653,7 @@ graph
     label "-5fjenKN_Ig"
     step 0
     date "2020-10-28T04:24:18Z"
-    title "Antique Bakelite"
+    title "Antique  Bakelite"
     description "Part 1 of my VACATION jewelry haul.  I bought a huge box of OLD jewelry on a recent vacation to New England.  Some Victorian, Edwardian, vintage and a few modern pieces. I found a beautiful and ornate sterling silver lorgnette, mother of pearl, rhinestones, brass, copper, bakelite and MORE. Brands include Krementz, Avon, Coro and others.  I found a few pieces at a thrift store.  I hope you enjoy my haul.  There are bracelets, necklaces, rings, brooches, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo&#10;&#10;eBay = @FunkyPickleStore&#10;Facebook = @yPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4663,7 +4663,7 @@ graph
     commentcount 49
     duration "PT24M30S"
     indegree 17
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     commentcount 28
     duration "PT15M34S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4699,7 +4699,7 @@ graph
     commentcount 23
     duration "PT28M25S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4717,7 +4717,7 @@ graph
     commentcount 66
     duration "PT20M11S"
     indegree 1
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -4735,7 +4735,7 @@ graph
     commentcount 50
     duration "PT29M31S"
     indegree 11
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4753,7 +4753,7 @@ graph
     commentcount 11
     duration "PT7M43S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4771,7 +4771,7 @@ graph
     commentcount 89
     duration "PT38M3S"
     indegree 8
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4797,7 +4797,7 @@ graph
     label "NBL1dDrdTWA"
     step 0
     date "2020-10-29T05:17:27Z"
-    title "Antique Vintage JEWELRY HAUL Turquoise Wedding Cake Bead Necklace Sterling Silver Bakelite + More"
+    title "Antique  Vintage JEWELRY HAUL Turquoise Wedding Cake Bead Necklace Sterling Silver Bakelite + More"
     description "Part 2 of my VACATION jewelry haul!  I bought all these pieces on a recent trip to New England.  Some nice estate turquoise, sterling silver, bakelite, glass faceted necklaces, amber, brooches, earrings, cufflinks, rings, wedding cake beads, Victorian, men's jewelry &#38; more!  Enjoy. xo"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -4807,7 +4807,7 @@ graph
     commentcount 29
     duration "PT21M38S"
     indegree 9
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4825,7 +4825,7 @@ graph
     commentcount 3
     duration "PT58S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -4843,7 +4843,7 @@ graph
     commentcount 57
     duration "PT25M29S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4861,7 +4861,7 @@ graph
     commentcount 89
     duration "PT33M55S"
     indegree 5
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4879,7 +4879,7 @@ graph
     commentcount 69
     duration "PT33M40S"
     indegree 2
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -4897,7 +4897,7 @@ graph
     commentcount 4
     duration "PT14M54S"
     indegree 1
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     commentcount 74
     duration "PT16M5S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -4933,7 +4933,7 @@ graph
     commentcount 40
     duration "PT20M38S"
     indegree 5
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -4951,7 +4951,7 @@ graph
     commentcount 22
     duration "PT18M19S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -4969,7 +4969,7 @@ graph
     commentcount 60
     duration "PT37M19S"
     indegree 12
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -4987,7 +4987,7 @@ graph
     commentcount 156
     duration "PT45M3S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5005,7 +5005,7 @@ graph
     commentcount 18
     duration "PT36M44S"
     indegree 3
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5023,7 +5023,7 @@ graph
     commentcount 193
     duration "PT1H13M51S"
     indegree 42
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5041,7 +5041,7 @@ graph
     commentcount 39
     duration "PT39M12S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5059,7 +5059,7 @@ graph
     commentcount 15
     duration "PT28M40S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5077,7 +5077,7 @@ graph
     commentcount 184
     duration "PT25M45S"
     indegree 3
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5085,7 +5085,7 @@ graph
     label "-0lE1c78DLg"
     step 0
     date "2014-11-04T12:57:23Z"
-    title "Argo Lehne Jewelers - Retro Jewelry, Vintage Jewelry, Custom Jewelry, and Engagement RIngs"
+    title "Argo  Lehne Jewelers - Retro Jewelry, Vintage Jewelry, Custom Jewelry, and Engagement RIngs"
     description "www.argolehne.com&#10;&#10;Contact us at:&#10;Argo &#38; Lehne Jewelers, Inc.&#10;3100 Tremont Rd.&#10;Upper Arlington, OH 43221&#10;Phone: 614-457-6261 &#10;Email: info@argolehne.com&#10;&#10;Facebook: https://www.facebook.com/ArgoLehne&#10;Twitter: https://twitter.com/ArgoLehne&#10;Instagram: @argolehnejewelers"
     channeltitle "Argo Lehne"
     channelid "UCVp5ECT6KPrQf5b5l_6uRQg"
@@ -5095,7 +5095,7 @@ graph
     commentcount 1
     duration "PT2M17S"
     indegree 0
-    cluster 6
+    cluster 5
   ]
   node
   [
@@ -5113,7 +5113,7 @@ graph
     commentcount 31
     duration "PT17M40S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5131,7 +5131,7 @@ graph
     commentcount 158
     duration "PT38M48S"
     indegree 46
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     commentcount 2
     duration "PT4M56S"
     indegree 1
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5167,7 +5167,7 @@ graph
     commentcount 6
     duration "PT1H48M3S"
     indegree 11
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5185,7 +5185,7 @@ graph
     commentcount 79
     duration "PT22M41S"
     indegree 5
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5203,7 +5203,7 @@ graph
     commentcount 38
     duration "PT29M10S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5221,7 +5221,7 @@ graph
     commentcount 64
     duration "PT22M59S"
     indegree 0
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -5229,7 +5229,7 @@ graph
     label "AgKef-ZRDaQ"
     step 0
     date "2022-04-08T04:00:03Z"
-    title "Vintage Jewelry Unbagging Costume Jewelry, Salvatore Ferragamo, Art Deco, Pearls more"
+    title "Vintage Jewelry Unbagging Costume Jewelry, Salvatore Ferragamo, Art Deco, Pearls  more"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;International Shipping&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -5239,7 +5239,7 @@ graph
     commentcount 43
     duration "PT22M3S"
     indegree 0
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5257,7 +5257,7 @@ graph
     commentcount 4
     duration "PT2H10M21S"
     indegree 9
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5265,7 +5265,7 @@ graph
     label "BLAt187K_mA"
     step 0
     date "2020-11-05T22:13:04Z"
-    title "Antique Vintage JEWELRY HAUL Blister Pearl Earrings Sterling FLAMINGO Brooch w Marcasites Brooches"
+    title "Antique  Vintage JEWELRY HAUL Blister Pearl Earrings Sterling FLAMINGO Brooch w Marcasites Brooches"
     description "Here are some of my recent pieces I've gotten at estate sales, yard sales and thrift stores. Some nice estate sterling silver, antique blister pearl earrings, brooches, a sterling silver and marcasite flamingo(!) &#38; more!  I very rarely pay more than $1 or $2 for each piece. I enjoy the hunt!!! Enjoy. xo"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -5275,7 +5275,7 @@ graph
     commentcount 15
     duration "PT16M30S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5293,7 +5293,7 @@ graph
     commentcount 89
     duration "PT1H2M40S"
     indegree 6
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5311,7 +5311,7 @@ graph
     commentcount 32
     duration "PT19M9S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5329,7 +5329,7 @@ graph
     commentcount 6
     duration "PT19M38S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5347,7 +5347,7 @@ graph
     commentcount 92
     duration "PT25M4S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5365,7 +5365,7 @@ graph
     commentcount 48
     duration "PT21M11S"
     indegree 4
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     commentcount 69
     duration "PT1H10M1S"
     indegree 8
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5401,7 +5401,7 @@ graph
     commentcount 34
     duration "PT19M27S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5419,7 +5419,7 @@ graph
     commentcount 47
     duration "PT31M19S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5437,7 +5437,7 @@ graph
     commentcount 77
     duration "PT57M15S"
     indegree 24
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5455,7 +5455,7 @@ graph
     commentcount 222
     duration "PT44M21S"
     indegree 7
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5473,7 +5473,7 @@ graph
     commentcount 42
     duration "PT37M58S"
     indegree 11
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5491,7 +5491,7 @@ graph
     commentcount 75
     duration "PT1H6M45S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -5509,7 +5509,7 @@ graph
     commentcount 5
     duration "PT26M27S"
     indegree 17
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5527,7 +5527,7 @@ graph
     commentcount 137
     duration "PT1H5M12S"
     indegree 55
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5545,7 +5545,7 @@ graph
     commentcount 73
     duration "PT43M34S"
     indegree 38
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5571,7 +5571,7 @@ graph
     label "5TZmwBvrOyE"
     step 0
     date "2021-12-30T05:00:02Z"
-    title "Part 2 Vintage Jewelry Unbagging Sterling Silver More"
+    title "Part 2 Vintage Jewelry Unbagging Sterling Silver  More"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. We have Amethyst, Jade, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -5581,7 +5581,7 @@ graph
     commentcount 43
     duration "PT45M34S"
     indegree 9
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -5599,7 +5599,7 @@ graph
     commentcount 3
     duration "PT3H5M8S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     commentcount 13
     duration "PT14M40S"
     indegree 3
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5635,7 +5635,7 @@ graph
     commentcount 10
     duration "PT11M15S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5653,7 +5653,7 @@ graph
     commentcount 133
     duration "PT47M26S"
     indegree 53
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5661,7 +5661,7 @@ graph
     label "yE58XnHoazE"
     step 0
     date "2022-01-14T23:10:11Z"
-    title "My FAVORITE VINTAGE JEWELRY Finds of 2021 ! Brooches Sterling Silver Rhinestones Crystals MORE!"
+    title "My FAVORITE VINTAGE JEWELRY Finds of 2021 ! Brooches Sterling Silver Rhinestones Crystals  MORE!"
     description "Woot! Woot! Here are some of my faves that I found in 2021 at yard sales, thrift stores, and from an out of business jewelry store. I hope you enjoy seeing some of my lovelies. As always, thanks so much for watching -- please pass the word! xo&#10;#vintagejewelryhaul #jewelryunboxing #ebayreseller #antiquejewelry&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -5671,7 +5671,7 @@ graph
     commentcount 88
     duration "PT40M59S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5689,7 +5689,7 @@ graph
     commentcount 42
     duration "PT51M6S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5707,7 +5707,7 @@ graph
     commentcount 54
     duration "PT51M23S"
     indegree 14
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -5715,7 +5715,7 @@ graph
     label "jjS8lz4wanQ"
     step 0
     date "2022-02-05T19:58:18Z"
-    title "2/5/22 Part 1 - Sarah Coventry Avon Vintage Jewelry Haul!!"
+    title "2/5/22 Part 1 - Sarah Coventry  Avon Vintage Jewelry Haul!!"
     description "2/5/22 Part 1 - Sarah Coventry &#38; Avon Vintage Jewelry Haul!! &#10;&#10;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#128717;&#10;To purchase:&#10;* Email dragonflybeez@gmail.com&#10;&#10;* Include either a time stamp, screenshot or screen title of item(s)&#10;&#10;* PayPal Only&#10;&#10;* USPS First Class shipping is a flat fee of $5.00, for all JEWELRY orders less than one pound***USA only&#10;&#10;* USPS First Class shipping cost for NON-JEWELRY items are determined by weight and destination from NYC. I go by USPS shipping rates via PirateShip USA only&#10;&#10;* Outside of the USA, Intl shipping &#10;cost will be determined by weight and destination&#10;&#10;* Payment due upon receipt of invoice&#10;&#10;** IF THIS IS YOUR 1st TIME PURCHASING with me, please provide:&#10;1. YouTube name&#10;2. Full name&#10;3. PayPal email address&#10;4. Mailing address&#10;&#10;***If order weighs more than one pound, buyer&#8217;s location will determine additional cost calculated by USPS via PirateShip, the platform I use for all my shipping needs.&#10;&#10;&#127801;Dragonfly Beez Resell Journey, inspired by a sweet, beautiful young boy gone too soon...&#10;&#10;*Copyright&#169;&#65039;2022 by Dragonfly Beez Resell Journey. All rights reserved."
     channeltitle "Dragonfly Beez Resell Journey"
     channelid "UCmvvKGX-LqbnuCBWpwkuTpw"
@@ -5725,7 +5725,7 @@ graph
     commentcount 33
     duration "PT37M19S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -5743,7 +5743,7 @@ graph
     commentcount 11
     duration "PT34M22S"
     indegree 0
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5761,7 +5761,7 @@ graph
     commentcount 89
     duration "PT31M9S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -5779,7 +5779,7 @@ graph
     commentcount 6
     duration "PT1H58M21S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -5797,7 +5797,7 @@ graph
     commentcount 23
     duration "PT30M8S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5815,7 +5815,7 @@ graph
     commentcount 121
     duration "PT16M16S"
     indegree 6
-    cluster 2
+    cluster 1
   ]
   node
   [
@@ -5823,7 +5823,7 @@ graph
     label "nAHEC8y0U8Y"
     step 0
     date "2022-01-03T20:25:42Z"
-    title "Vintage Jewelry Haul 025 | Cameos, Les Bernard, Givenchy More!"
+    title "Vintage Jewelry Haul 025 | Cameos, Les Bernard, Givenchy  More!"
     description "Do you like vintage jewelry? In this video I will be going over some vintage jewelry I bought from an estate. I hope you enjoy!&#10;&#10;&#128210; &#128210;SOLD&#128210; &#128210;&#10;14:42 09 - Vintage Japan Necklace - SOLD&#10;16:09 10 - Vintage Sarah Cov. Bracelet &#38; Brooch - SOLD&#10;&#10;You can find us on Rumble:&#10;https://rumble.com/register/KrakenKrates/&#10;&#10;You can also visit our online stores:&#10;&#10;Kraken Krates eBay store:&#10;https://www.ebay.com/str/krakenkrates&#10;&#10;*If you click on the &#8220;Save this seller&#8221; on our eBay store, you will receive an auto notification when we list new items.&#10;&#10;Kraken Krates Poshmark closet: &#10;https://poshmark.com/closet/kraken_krates&#10;&#10;Mandalay Jewelry Set: Park Lane 2008 Online Catalog&#10;https://issuu.com/evevalle/docs/jbpl-2008_catalog_fall&#10;&#10;Granduer Necklace: Park Lane 2013 Online Catalog&#10;https://www.yumpu.com/en/document/read/11421990/park-lane-jewelry-2013-catalog-us&#10;&#10;Vc Les Bernard - Is It Really Vintage Valentino?&#10;https://www.carries-couture.com/single-post/2016/07/20/is-it-really-vintage-valentino&#10;&#10;How To Pronounce Givenchy (CORRECTLY)&#10;https://youtu.be/Gyd8foV6deQ&#10;&#10;#krakenkrates&#8203;&#8203; #jewelry #reseller&#10;&#10;&#128210; &#128210; Timecodes &#128210; &#128210;&#10;00:00 Intro&#10;00:42 01 - Park Lane - Mandalay Necklace &#38; Bracelet Set&#10;02:20 02 - Park Lane - Granduer Necklace&#10;03:20 03 - Vintage Cha Cha Bracelets&#10;05:31 04 - Vintage Vc Les Bernard&#10;07:11 05 - Vintage Givenchy Earrings&#10;09:55 06 - Vintage Lapis Necklace&#10;11:13 07 - Vintage Anne Klein Necklace&#10;12:39 08 - Chico's Necklaces&#10;14:42 09 - Vintage Japan Necklace - SOLD&#10;16:09 10 - Vintage Bracelets: Precious Moments, Sarah Cov. &#38; Coro&#10;19:21 11 - Vintage Cameo Necklace &#38; Brooch&#10;23:08 12 - Vintage Blackinton Pendant&#10;26:28 End&#10;&#10;Music: Music featured on this video is provided by Canva.com.&#10;&#10;About:&#10;Thank you for visiting Kraken Reseller with Kristeen on YouTube!&#10;I'm a full-time mom and a part-time reseller on eBay.  I'm based out of sunny, family-friendly (not to mention hot) Surprise, Arizona! I'm a second generation reseller and learned everything I know from my mother, auction houses, swap meets, and doing tons of research over the years! I opened my first eBay account in 1999 and then began reselling LEGO as a hobby with my husband. I have since expanded my catalog to include anything and everything I can to flip for a profit to help support my family of seven.&#10;&#10;Join me on my journey to search for items I can resell from estate sales, local and online auctions, yard sales, thrift stores, charity shops, and basically any weird stuff left on the curb. I will also share my tips and tricks!"
     channeltitle "Kraken Reseller"
     channelid "UCWVwOGc42CGCRJQ7Ohhv-cw"
@@ -5833,7 +5833,7 @@ graph
     commentcount 18
     duration "PT26M44S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     commentcount 54
     duration "PT39M5S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5869,7 +5869,7 @@ graph
     commentcount 35
     duration "PT1M4S"
     indegree 0
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -5887,7 +5887,7 @@ graph
     commentcount 40
     duration "PT1H22M45S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5905,7 +5905,7 @@ graph
     commentcount 59
     duration "PT50M42S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5923,7 +5923,7 @@ graph
     commentcount 80
     duration "PT30M38S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   node
   [
@@ -5941,7 +5941,7 @@ graph
     commentcount 1
     duration "PT14M4S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -5949,7 +5949,7 @@ graph
     label "JAsYldLHVwQ"
     step 0
     date "2022-03-09T05:00:13Z"
-    title "Vintage Jewelry Costume Brooches Rhinestones, Glass Aurora Borealis"
+    title "Vintage Jewelry Costume Brooches Rhinestones, Glass  Aurora Borealis"
     description "Come see our Vintage Jewelry Costume Brooches Rhinestones, Glass &#38; Aurora Borealis &#38; more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We also do International&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -5959,7 +5959,7 @@ graph
     commentcount 32
     duration "PT22M59S"
     indegree 4
-    cluster 4
+    cluster 8
   ]
   node
   [
@@ -5977,7 +5977,7 @@ graph
     commentcount 55
     duration "PT45M25S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -5995,7 +5995,7 @@ graph
     commentcount 144
     duration "PT25M34S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6013,7 +6013,7 @@ graph
     commentcount 44
     duration "PT33M8S"
     indegree 24
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6031,7 +6031,7 @@ graph
     commentcount 30
     duration "PT22M49S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6049,7 +6049,7 @@ graph
     commentcount 99
     duration "PT26M55S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -6067,7 +6067,7 @@ graph
     commentcount 36
     duration "PT15M6S"
     indegree 0
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -6085,7 +6085,7 @@ graph
     commentcount 71
     duration "PT34M42S"
     indegree 3
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -6103,7 +6103,7 @@ graph
     commentcount 68
     duration "PT19M19S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6121,7 +6121,7 @@ graph
     commentcount 9
     duration "PT4M13S"
     indegree 16
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6129,7 +6129,7 @@ graph
     label "Txi_1QeVvFE"
     step 0
     date "2021-10-01T11:00:28Z"
-    title "Vintage Jewelry Thrift Haul From 2 Thrift Stores Newest Vintage Jewelry Finds"
+    title "Vintage Jewelry Thrift Haul From 2 Thrift Stores  Newest Vintage Jewelry Finds"
     description "Vintage jewelry thrift haul from 2 thrift stores &#38; newest vintage jewelry finds. Join me as I share my latest vintage jewelry finds! Trifari, natural stone, KJL, and Miriam Haskell.&#10;&#10;Vintage jewelry identification Trifari &#10;https://youtu.be/NQ1hgy0aT6g&#10;&#10;Vintage Jewelry Identification Kenneth J Lane &#10;https://youtu.be/ePL704RhBnk&#10;&#10;Vintage Jewelry Identification Carol Duplaise &#10;https://youtu.be/F-GGl8s11yE"
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -6139,7 +6139,7 @@ graph
     commentcount 20
     duration "PT12M33S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6157,7 +6157,7 @@ graph
     commentcount 32
     duration "PT17M48S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6175,7 +6175,7 @@ graph
     commentcount 11
     duration "PT7M57S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6183,7 +6183,7 @@ graph
     label "1iFkZZYlFzc"
     step 0
     date "2020-11-26T18:10:22Z"
-    title "Vintage JEWELRY HAUL Sterling Silver Onyx Necklace Bone China Flowers Elvis Presley Earrings"
+    title "Vintage JEWELRY HAUL Sterling Silver Onyx Necklace Bone China Flowers  Elvis Presley Earrings"
     description "Here is a recent jewelry haul.  I don't usually pay more than $1 or $2 since I get my items at yard sales and thrift stores.  I hope you enjoy. xo"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -6193,7 +6193,7 @@ graph
     commentcount 28
     duration "PT22M48S"
     indegree 11
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6211,7 +6211,7 @@ graph
     commentcount 25
     duration "PT15M35S"
     indegree 16
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6219,7 +6219,7 @@ graph
     label "yqcABTjygW4"
     step 0
     date "2022-06-09T02:00:17Z"
-    title "Vintage Jewelry Unbagging Costume Jewelry, Miriam Haskell, Castlecliff, Weiss More"
+    title "Vintage Jewelry Unbagging Costume Jewelry, Miriam Haskell, Castlecliff, Weiss  More"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;&#10;International Shipping&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6229,7 +6229,7 @@ graph
     commentcount 31
     duration "PT21M23S"
     indegree 16
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -6247,7 +6247,7 @@ graph
     commentcount 27
     duration "PT16M40S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6255,7 +6255,7 @@ graph
     label "pS4i42E1AVs"
     step 0
     date "2021-12-01T05:02:05Z"
-    title "Vintage Jewelry Extravaganza Of Amber Sterling Costume More!"
+    title "Vintage Jewelry Extravaganza Of Amber Sterling Costume  More!"
     description "Vintage Jewelry Extravaganza With Sterling Amber Brooches Necklaces &#38; More!&#10;&#10;A recent shopping haul from a couple local estate sales and finds. I have brooches, necklaces, pendants, Rings and more!&#10;&#10;Auction Schedule &#10;&#10;SUGARVISSION 12-2-21 @ 5:00 PM PST"
     channeltitle "SUGARVISSION"
     channelid "UC2W4gmkZfxW6P2O09qmtrCg"
@@ -6265,7 +6265,7 @@ graph
     commentcount 26
     duration "PT17M51S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6283,7 +6283,7 @@ graph
     commentcount 66
     duration "PT34M43S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6301,7 +6301,7 @@ graph
     commentcount 35
     duration "PT20M57S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6319,7 +6319,7 @@ graph
     commentcount 28
     duration "PT29M55S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6337,7 +6337,7 @@ graph
     commentcount 23
     duration "PT21M43S"
     indegree 4
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -6355,7 +6355,7 @@ graph
     commentcount 100
     duration "PT43M14S"
     indegree 17
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -6373,7 +6373,7 @@ graph
     commentcount 40
     duration "PT1H7M10S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6391,7 +6391,7 @@ graph
     commentcount 32
     duration "PT11M24S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6409,7 +6409,7 @@ graph
     commentcount 25
     duration "PT24M47S"
     indegree 7
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6427,7 +6427,7 @@ graph
     commentcount 83
     duration "PT30M15S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6445,7 +6445,7 @@ graph
     commentcount 22
     duration "PT14M3S"
     indegree 2
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6463,7 +6463,7 @@ graph
     commentcount 32
     duration "PT25M33S"
     indegree 9
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6481,7 +6481,7 @@ graph
     commentcount 35
     duration "PT9M4S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6499,7 +6499,7 @@ graph
     commentcount 4
     duration "PT3M58S"
     indegree 2
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6517,7 +6517,7 @@ graph
     commentcount 55
     duration "PT1H6M6S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6525,7 +6525,7 @@ graph
     label "7Lhy6PD-5EU"
     step 0
     date "2022-02-03T05:00:03Z"
-    title "Vintage Jewelry Unbagging Gemstones, Glass Pearl Jewelry with Sterling Silver"
+    title "Vintage Jewelry Unbagging Gemstones, Glass  Pearl Jewelry with Sterling Silver"
     description "Come see what we found at Our local Auction jewelry counter. We found Gemstones and Glass Necklaces &#38; More.  Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We ship Internationally&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6535,7 +6535,7 @@ graph
     commentcount 41
     duration "PT31M15S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -6553,7 +6553,7 @@ graph
     commentcount 48
     duration "PT18M41S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6571,7 +6571,7 @@ graph
     commentcount 116
     duration "PT33M25S"
     indegree 10
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6589,7 +6589,7 @@ graph
     commentcount 99
     duration "PT2H11M44S"
     indegree 22
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6597,7 +6597,7 @@ graph
     label "w5-qL4qweCw"
     step 0
     date "2022-05-25T04:00:16Z"
-    title "300th Video Giveaway Results Vintage Jewelry Sale"
+    title "300th Video Giveaway Results  Vintage Jewelry Sale"
     description "Come see our 300th Video Giveaway Results &#38; Victorian, Art Deco &#38; Vintage Jewelry Sale &#38; more!  Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We ship Internationally&#10;All sales are Final!&#10;&#10;What you Win:&#10;1. One (1) piece of Curated Jewelry. This giveaway is open to USA and current deliverable addresses using USPS outside the USA. &#10;&#10;&#10;How to Enter:&#10;1. Like and Subscribe to ShadyNY &#10;2. Comment on our giveaway video(ONLY THIS VIDEO'S COMMENTS COUNT TOWARD THE GIVEAWAY) - &#10;1)What was your first piece of jewelry ever?&#10;3) Hit the Bell Icon to All&#10;---------------&#10;- Official Rules: It is free to enter to win. &#10;- The contest opens at 12 AM EST on May 18, 2022&#10;- The contest closes at 5 PM EST on May 24 2022&#10;- Participants must have a valid Gmail account to comment on the video for contest entry. &#10;- The winner will be chosen randomly with a YouTube comment picker at 5:00 PM EST on May 24 2022 and will be announced on the May 25, 2022 at midnight EST. &#10;If the winner has not followed the rules of the contest they will be disqualified. &#10;- The winner must contact us to claim their prize. We will validate you are the account holder with a keyword that must be edited into the winning comment.&#10;- If the winner does not respond within 1 week they will be disqualified and a new winner will be chosen.&#10;- Any information collected will be used for the sole purpose of delivering the prize to the winner. &#10;- This contest is not sponsored by YouTube. We, here at ShadyNY are solely responsible for the contest and delivering the prize to the winner."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6607,7 +6607,7 @@ graph
     commentcount 77
     duration "PT29M57S"
     indegree 2
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6615,7 +6615,7 @@ graph
     label "WZsCBpjXZoc"
     step 0
     date "2021-11-21T00:04:33Z"
-    title "Thrifting Vintage Jewelry"
+    title "Thrifting  Vintage Jewelry"
     description "Hey All, wanted to share my haul with you from my recent trip to Pennsylvania! I hit several antique stores and malls. There is plenty of vintage goodness to be found! Let me know what you think and I thank you for tuning in. Have a great weekend!&#10;&#10;Stores mentioned in this video:&#10;&#10;Phillipsburg Antique Mall&#10;340 Fleming Drive&#10;Phillipsburg, NJ 08865&#10;https://phillipsburgantiquemall.com/&#10;&#10;S.Seem Antiques &#38; Artisans&#10;100 S. Chestnut St.&#10;Bath, PA 18014&#10;&#10;Steckel House Antiques And Bed &#38; Breakfast&#10;207 W. Northhampton St.&#10;Bath, PA 18014&#10;&#10;Enjoy, like and subscribe if you appreciate this kind of content!&#10;Thank you for your support! Stay safe, stay healthy!&#10;&#10;Shop Links&#10;Ebay - https://www.ebay.com/str/nolacollectibles&#10;&#10;See something you like? Email me at Nolacollectibles@yahoo.com&#10;&#10;Interested in the tools I use? Below are my Amazon links. I reach for these guys DAILY.&#10;Acid Testing Kit (essential and easy for testing precious metals)&#10;https://amzn.to/2WgMRXu&#10;Telescoping Magnet (for detecting precious metals or picking up coins, whatever you prefer)&#10;https://amzn.to/2Ca9TIz&#10;Jewelry Loupe (to see all the teeny tiny purity marks)&#10;https://amzn.to/3euFGAW&#10;Jewelry Bags (To help me stay organized)&#10;https://amzn.to/2OqqA56&#10;Postal Scale (Keep everything accurate)&#10;https://amzn.to/3fvKF5PHey All, hope you are all doing well! I recently took a trip up North to visit my family in New York and Pennsylvania. It was SO LOVELY being in the North East for Halloween, where it was cool and the leaves were in their peak form, turning all kinds of beautiful colors. Of course I hit some antique malls, thrift stores and more. I visited some great places which are listed below. Show these guys some love if you happen to be in the area! Hope you enjoy and have a great weekend.&#10;&#10;Stores mentioned in this video:&#10;&#10;Phillipsburg Antique Mall&#10;340 Fleming Drive&#10;Phillipsburg, NJ 08865&#10;https://phillipsburgantiquemall.com/&#10;&#10;S.Seem Antiques &#38; Artisans&#10;100 S. Chestnut St.&#10;Bath, PA 18014&#10;&#10;Steckel House Antiques And Bed &#38; Breakfast&#10;207 W. Northhampton St.&#10;Bath, PA 18014&#10;&#10;Enjoy, like and subscribe if you appreciate this kind of content!&#10;Thank you for your support! Stay safe, stay healthy!&#10;&#10;Shop Links&#10;Ebay - https://www.ebay.com/str/nolacollectibles&#10;&#10;See something you like? Email me at Nolacollectibles@yahoo.com&#10;&#10;Interested in the tools I use? Below are my Amazon links. I reach for these guys DAILY.&#10;Acid Testing Kit (essential and easy for testing precious metals)&#10;https://amzn.to/2WgMRXu&#10;Telescoping Magnet (for detecting precious metals or picking up coins, whatever you prefer)&#10;https://amzn.to/2Ca9TIz&#10;Jewelry Loupe (to see all the teeny tiny purity marks)&#10;https://amzn.to/3euFGAW&#10;Jewelry Bags (To help me stay organized)&#10;https://amzn.to/2OqqA56&#10;Postal Scale (Keep everything accurate)&#10;https://amzn.to/3fvKF5P"
     channeltitle "NolaCollectibles"
     channelid "UCl_onZk5_XuM3L4gVgyqd2g"
@@ -6625,7 +6625,7 @@ graph
     commentcount 29
     duration "PT32M11S"
     indegree 2
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6643,7 +6643,7 @@ graph
     commentcount 115
     duration "PT35M44S"
     indegree 24
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6651,7 +6651,7 @@ graph
     label "waLswdv0IDI"
     step 0
     date "2021-02-19T03:22:38Z"
-    title "Part 5 ANTIQUE Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education Amber"
+    title "Part 5 ANTIQUE  Vintage JEWELRY HAUL How to Identify Old Jewelry 101 Learning Education Amber"
     description "Welcome to part 5 of a recent antique and vintage jewelry haul I got from a former jewelry store owner. You will see (and learn about!) some beautiful Victorian &#38; other vintage pieces including a 14k gold &#38; diamond tennis bracelet, a bakelite bracelet (we will test it!) , a highly unusual thermoset moon glow ring,  a Charles Horner Art Nouveau pin, some AMBER (we will test that too!) and much MORE. Brands include Monet, Alice Caviness, Sarah Coventry, Mexican modernist designer Alicia De La Paz and others.  We will also show you how to differentiate between damascene, fake damascene &#38; Siam Sterling / Nielloware. I hope you enjoy my haul.  There are bracelets, brooches, necklaces, rings, etc. You'll likely learn a few new things about old jewelry. Thanks so much for watching, please share and like this video if you're so inclined!  I hope you enjoy my jewelry haul! xo  &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelery101 #jewelryidentification #testingbakelite #testingsterlingsilver #learnaboutvintagejewelry #jewelryeducation"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -6661,7 +6661,7 @@ graph
     commentcount 108
     duration "PT37M50S"
     indegree 22
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6679,7 +6679,7 @@ graph
     commentcount 22
     duration "PT20M38S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6687,7 +6687,7 @@ graph
     label "ecPGYSWBFd4"
     step 0
     date "2021-05-06T20:01:46Z"
-    title "Antique Vintage JEWELRY HAUL Thrifting Unboxing Betsey Johnson Necklace !"
+    title "Antique  Vintage JEWELRY HAUL Thrifting Unboxing Betsey Johnson Necklace !"
     description "Here's a fun jewelry haul that I hope you enjoy! I found some cool stuff including an antique bracelet, a Betsey Johnson snake necklace, a 14k gold ring and MORE! As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -6697,7 +6697,7 @@ graph
     commentcount 61
     duration "PT21M41S"
     indegree 6
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6705,7 +6705,7 @@ graph
     label "8dZg48rpFlw"
     step 0
     date "2022-01-29T05:00:03Z"
-    title "Vintage Jewelry Unbagging Copper Mixed Metal, Crown Trifari Renoir"
+    title "Vintage Jewelry Unbagging Copper Mixed Metal, Crown Trifari  Renoir"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Great Mixed Metal Collection &#38; Vintage Jewelry! Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -6715,7 +6715,7 @@ graph
     commentcount 48
     duration "PT26M35S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6733,7 +6733,7 @@ graph
     commentcount 8
     duration "PT28M31S"
     indegree 16
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6751,7 +6751,7 @@ graph
     commentcount 72
     duration "PT37M56S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6769,7 +6769,7 @@ graph
     commentcount 15
     duration "PT11M25S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6787,7 +6787,7 @@ graph
     commentcount 56
     duration "PT27M37S"
     indegree 4
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6805,7 +6805,7 @@ graph
     commentcount 99
     duration "PT38M25S"
     indegree 9
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6823,7 +6823,7 @@ graph
     commentcount 57
     duration "PT19M47S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -6841,7 +6841,7 @@ graph
     commentcount 17
     duration "PT1M44S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -6859,7 +6859,7 @@ graph
     commentcount 48
     duration "PT51M46S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6877,7 +6877,7 @@ graph
     commentcount 96
     duration "PT45M7S"
     indegree 14
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6895,7 +6895,7 @@ graph
     commentcount 4
     duration "PT2H12M40S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -6913,7 +6913,7 @@ graph
     commentcount 65
     duration "PT43M11S"
     indegree 42
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6931,7 +6931,7 @@ graph
     commentcount 172
     duration "PT30M32S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -6949,7 +6949,7 @@ graph
     commentcount 39
     duration "PT52M43S"
     indegree 26
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6967,7 +6967,7 @@ graph
     commentcount 56
     duration "PT20M11S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -6985,7 +6985,7 @@ graph
     commentcount 32
     duration "PT41M36S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -6993,7 +6993,7 @@ graph
     label "Ye2J86y0VLg"
     step 0
     date "2021-02-21T14:23:49Z"
-    title "MINI Vintage Antique Estate JEWELRY MYSTERY UNBOXING Unjarring I Paid $5! Unbagging"
+    title "MINI Vintage  Antique Estate JEWELRY MYSTERY UNBOXING Unjarring I Paid $5! Unbagging"
     description "Welcome to a mini mystery unboxing! I found this little bag of jewelry for $5 at a thrift store and I bought it 'cos it looked like there was some pieces that were plenty old! It's a fun little bag and I hope you enjoy discovering its contents with me! Some was broken / tarnished / wrecked -- but I found a few keepers.  As always, thanks so much for watching -- please pass the word! xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7003,7 +7003,7 @@ graph
     commentcount 110
     duration "PT25M56S"
     indegree 14
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7021,7 +7021,7 @@ graph
     commentcount 39
     duration "PT22M42S"
     indegree 4
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7039,7 +7039,7 @@ graph
     commentcount 26
     duration "PT8M9S"
     indegree 0
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7057,7 +7057,7 @@ graph
     commentcount 23
     duration "PT11M1S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7075,7 +7075,7 @@ graph
     commentcount 111
     duration "PT27M18S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7093,7 +7093,7 @@ graph
     commentcount 54
     duration "PT24M57S"
     indegree 3
-    cluster 7
+    cluster 4
   ]
   node
   [
@@ -7111,7 +7111,7 @@ graph
     commentcount 60
     duration "PT31M32S"
     indegree 20
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7129,7 +7129,7 @@ graph
     commentcount 78
     duration "PT44M51S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7147,7 +7147,7 @@ graph
     commentcount 41
     duration "PT37M12S"
     indegree 14
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7165,7 +7165,7 @@ graph
     commentcount 10
     duration "PT31M19S"
     indegree 1
-    cluster 7
+    cluster 3
   ]
   node
   [
@@ -7183,7 +7183,7 @@ graph
     commentcount 15
     duration "PT1H33M59S"
     indegree 7
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -7201,7 +7201,7 @@ graph
     commentcount 64
     duration "PT1H1M15S"
     indegree 3
-    cluster 2
+    cluster 6
   ]
   node
   [
@@ -7209,7 +7209,7 @@ graph
     label "JdMedfTSODA"
     step 0
     date "2021-01-19T00:39:08Z"
-    title "Part 1 ANTIQUE Vintage JEWELRY HAUL Victorian Mourning Bakelite Estate Unboxing 101 Learning About"
+    title "Part 1 ANTIQUE  Vintage JEWELRY HAUL Victorian Mourning Bakelite Estate Unboxing 101 Learning About"
     description "This is part 1 of a recent antique and vintage jewelry haul I got from a lady who used to own a jewelry store.  You will see (and learn about!) some beautiful Victorian pieces including two mourning brooches, some bakelite items, sterling silver, deco dress clips, a vintage Pierre Cardin modernist cuff bracelet and much MORE. Brands include Trifari, Monet, Leru, Jomaz, Bell Trading Post and others.  I hope you enjoy my haul.  There are bracelets, brooches, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7219,7 +7219,7 @@ graph
     commentcount 192
     duration "PT53M39S"
     indegree 31
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7237,7 +7237,7 @@ graph
     commentcount 6
     duration "PT53S"
     indegree 0
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7273,7 +7273,7 @@ graph
     commentcount 59
     duration "PT30M48S"
     indegree 5
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -7291,7 +7291,7 @@ graph
     commentcount 4
     duration "PT1H32M58S"
     indegree 0
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -7309,7 +7309,7 @@ graph
     commentcount 25
     duration "PT23M47S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7317,7 +7317,7 @@ graph
     label "89wCC-ub-XI"
     step 0
     date "2021-01-24T18:51:12Z"
-    title "Part 3 ANTIQUE Vintage JEWELRY HAUL! How to Identify Old Costume Jewelry Unboxing 101 Learning"
+    title "Part 3 ANTIQUE  Vintage JEWELRY HAUL! How to Identify Old Costume Jewelry Unboxing 101 Learning"
     description "This is part 3 of a recent antique and vintage jewelry haul I got from a former jewelry store owner. You will see (and learn about!) some beautiful Victorian &#38; other vintage pieces including sterling silver, carved bone, copper, abalone shell, MCM, modernist, reverse-painted glass and much MORE. Brands include Trifari, Weiss and others.  I hope you enjoy my haul.  There are bracelets, brooches, necklaces, rings, etc.  Thanks so much for watching, please share and like this video if you're so inclined!  xo  &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#jewelry101 #learningaboutoldjewelry #vintagejewelrycourse #vintagejewelryforbeginners"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7327,7 +7327,7 @@ graph
     commentcount 84
     duration "PT26M42S"
     indegree 12
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7345,7 +7345,7 @@ graph
     commentcount 6
     duration "PT13M26S"
     indegree 1
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7353,7 +7353,7 @@ graph
     label "DrFE5dtxFp0"
     step 0
     date "2022-03-05T05:00:09Z"
-    title "Vintage Jewelry Gemstones, Costume, Sterling Silver Amber with Bugs"
+    title "Vintage Jewelry Gemstones, Costume, Sterling Silver  Amber with Bugs"
     description "Come see what we found at Our local Auction jewelry counter. We found Gemstones, Costume, Sterling Silver &#38; Amber with Bugs &#38; More.  Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight.&#10;We ship Internationally&#10;All Sales are Final"
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7363,7 +7363,7 @@ graph
     commentcount 49
     duration "PT36M37S"
     indegree 1
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -7381,7 +7381,7 @@ graph
     commentcount 136
     duration "PT44M33S"
     indegree 2
-    cluster 1
+    cluster 7
   ]
   node
   [
@@ -7389,7 +7389,7 @@ graph
     label "G66FEFr_eXo"
     step 0
     date "2021-10-22T04:00:05Z"
-    title "Estate Sale Vintage Jewelry Hobe Taxco Gemstones"
+    title "Estate Sale Vintage Jewelry Hobe Taxco  Gemstones"
     description "Hello Hello and welcome to another Vintage Jewelry Estate Collection . This Estate had some Hope, Taxco Sterling Silver and Vintage Finds &#38; more. Be sure to join us to see what we uncover from this Estate. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at mhl22@ymail.com &#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy-  etsy.com/shop/TheVintageMouseFinds&#10;Poshmark- poshmark.com/closet/thevintagemouse&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at mhl22@ymail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7417,7 +7417,7 @@ graph
     commentcount 23
     duration "PT15M45S"
     indegree 3
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7425,7 +7425,7 @@ graph
     label "s59j_x4pZ4M"
     step 0
     date "2021-05-29T22:24:34Z"
-    title "Latest Vintage Jewelry Finds Garden"
+    title "Latest Vintage Jewelry Finds  Garden"
     description "Latest Vintage Jewelry finds and garden. Join me as I show you my latest finds and show what&#8217;s growing this year in our garden."
     channeltitle "Vintage Variety"
     channelid "UCWjRzoJovsgZzhtQwYvxA3Q"
@@ -7435,7 +7435,7 @@ graph
     commentcount 12
     duration "PT16M28S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -7453,7 +7453,7 @@ graph
     commentcount 96
     duration "PT56M47S"
     indegree 13
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7471,7 +7471,7 @@ graph
     commentcount 359
     duration "PT44M42S"
     indegree 7
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7489,7 +7489,7 @@ graph
     commentcount 36
     duration "PT43M9S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7507,7 +7507,7 @@ graph
     commentcount 83
     duration "PT39M27S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7525,7 +7525,7 @@ graph
     commentcount 54
     duration "PT31M6S"
     indegree 28
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7543,7 +7543,7 @@ graph
     commentcount 44
     duration "PT31M47S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7561,7 +7561,7 @@ graph
     commentcount 50
     duration "PT34M42S"
     indegree 8
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7579,7 +7579,7 @@ graph
     commentcount 67
     duration "PT21M28S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7587,7 +7587,7 @@ graph
     label "7visepRWMKE"
     step 0
     date "2022-01-14T05:00:04Z"
-    title "Vintage Jewelry Unbagging Clear Rhinestone, Weiss, Trifari, GFMW Krementz"
+    title "Vintage Jewelry Unbagging Clear Rhinestone, Weiss, Trifari, GFMW  Krementz"
     description "Come see our Vintage  Jewelry Unbagging from our Local Jewelry Auction. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com or &#10;&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7597,7 +7597,7 @@ graph
     commentcount 48
     duration "PT28M3S"
     indegree 3
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -7615,7 +7615,7 @@ graph
     commentcount 73
     duration "PT34M37S"
     indegree 7
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7633,7 +7633,7 @@ graph
     commentcount 43
     duration "PT1H10M8S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7651,7 +7651,7 @@ graph
     commentcount 5
     duration "PT22M14S"
     indegree 7
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7669,7 +7669,7 @@ graph
     commentcount 85
     duration "PT40M29S"
     indegree 67
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7687,7 +7687,7 @@ graph
     commentcount 7
     duration "PT12M45S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7705,7 +7705,7 @@ graph
     commentcount 54
     duration "PT58M21S"
     indegree 18
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     commentcount 2
     duration "PT2H56M59S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7731,7 +7731,7 @@ graph
     label "3Rb0Ln9Ysj4"
     step 0
     date "2021-12-31T05:00:01Z"
-    title "Vintage Jewelry Unbagging Art Deco Cameo, Sterling Silver, Taxco Gemstones"
+    title "Vintage Jewelry Unbagging Art Deco Cameo, Sterling Silver, Taxco  Gemstones"
     description "Come see our Vintage Jewelry Unbagging from our Local Jewelry Auction. We have Art Deco, Amethyst, Jade, Sterling Silver and more. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at 1ShadyNY@gmail.com&#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- TheVintageMouseFinds&#10;Poshmark- @thevintagemouse&#10;&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at 1ShadyNY@gmail.com o&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you. Shipping is $5 under a pound in the US and over a pound and outside US is based on location &#38; weight."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -7741,7 +7741,7 @@ graph
     commentcount 74
     duration "PT22M41S"
     indegree 7
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -7759,7 +7759,7 @@ graph
     commentcount 106
     duration "PT17M24S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7777,7 +7777,7 @@ graph
     commentcount 57
     duration "PT33M17S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7795,7 +7795,7 @@ graph
     commentcount 54
     duration "PT13M53S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -7803,7 +7803,7 @@ graph
     label "UKyWCuk4-tE"
     step 0
     date "2021-04-27T02:52:11Z"
-    title "WeiRd WonDeRfUL Vintage Jewelry Collection HAUL Estate Unusual Odd Strange"
+    title "WeiRd  WonDeRfUL Vintage Jewelry Collection HAUL Estate Unusual Odd Strange"
     description "Oh, but they're weird and they're wonderful! Hello and welcome to my &#34;unusual&#34; jewelry collection! This video features some very cool &#38; different pieces! Thanks for coming, please see my other videos for more beautiful old jewelry.  Kindly like, subscribe and share. Big Hugs. xo&#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter&#10;&#10;#weirdjewelry #oddcollectables #learningaboutjewelry #funjewelry @modjewelry"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7813,7 +7813,7 @@ graph
     commentcount 77
     duration "PT16M31S"
     indegree 5
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7831,7 +7831,7 @@ graph
     commentcount 45
     duration "PT41M1S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7849,7 +7849,7 @@ graph
     commentcount 15
     duration "PT33M8S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7857,7 +7857,7 @@ graph
     label "uqdGMWJRx5A"
     step 0
     date "2020-12-11T03:12:08Z"
-    title "Vintage JEWELRY HAUL Estate Costume Thrifter"
+    title "Vintage JEWELRY HAUL Estate  Costume Thrifter"
     description "Here is a recent jewelry haul.  I don't usually pay more than $1 or $2 since I usually get things in thrift stores or garage sales.  You'll see some sterling silver including a cute seahorse necklace, two Danbury Mint necklaces, some 1950s rhinestones, a Ledo turtle brooch from 1962 and much more!  I hope you enjoy. xo&#10;&#10;https://www.ebay.com/usr/thefunkypicklestore"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -7867,7 +7867,7 @@ graph
     commentcount 27
     duration "PT13M17S"
     indegree 4
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -7885,7 +7885,7 @@ graph
     commentcount 47
     duration "PT39M8S"
     indegree 38
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -7903,7 +7903,7 @@ graph
     commentcount 80
     duration "PT32M48S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7921,7 +7921,7 @@ graph
     commentcount 39
     duration "PT22M32S"
     indegree 9
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7939,7 +7939,7 @@ graph
     commentcount 165
     duration "PT25M45S"
     indegree 6
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -7957,7 +7957,7 @@ graph
     commentcount 18
     duration "PT57M25S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -7975,7 +7975,7 @@ graph
     commentcount 61
     duration "PT26M28S"
     indegree 1
-    cluster 4
+    cluster 2
   ]
   node
   [
@@ -7993,7 +7993,7 @@ graph
     commentcount 11
     duration "PT1H6M1S"
     indegree 0
-    cluster 6
+    cluster 1
   ]
   node
   [
@@ -8011,7 +8011,7 @@ graph
     commentcount 74
     duration "PT27M6S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8019,7 +8019,7 @@ graph
     label "USIjuibPWLo"
     step 0
     date "2022-05-19T06:14:29Z"
-    title "Vintage Jewelry Haul More!"
+    title "Vintage Jewelry Haul  More!"
     description "Join me for some open coffee chat while I show you my latest vintage jewelry haul! No sales during this live session, just some great people and fun jewelry! Hope to see you there!&#13;&#10;&#13;&#10;Check out my online stores:&#13;&#10;&#13;&#10;Kraken Krates eBay store:&#13;&#10;https://www.ebay.com/str/krakenkrates&#13;&#10;&#13;&#10;*If you click on the &#8220;Save this seller&#8221; on our eBay store, you will receive an auto notification when we list new items.&#13;&#10;&#13;&#10;Kraken Krates Poshmark closet: &#13;&#10;https://poshmark.com/closet/kraken_krates&#13;&#10;&#13;&#10;Register here for upcoming sales/auctions:&#13;&#10;https://form.jotform.com/220755815831155&#13;&#10;&#13;&#10;**Upcoming Events**&#13;&#10;&#13;&#10;Thursday, June 23rd, 2022 @ 4:30pm MST | 6:30 pm CST&#13;&#10;Special Guest: Bridget w/ The Baker's Daughters, LLC&#13;&#10;Bridget's Channel: https://www.youtube.com/channel/UCtskdZN2HtWnbqkwpr3HiDw&#13;&#10;&#13;&#10;Christmas in July&#13;&#10;All Live Sales will be Holiday themed!&#13;&#10;&#13;&#10;#sales #jewellery #reseller&#13;&#10;&#13;&#10;Music:&#13;&#10;&#13;&#10;Intro and outro music provided by Canva.com&#13;&#10;&#13;&#10;Every Day 80&#8217;s&#13;&#10;&#34;Wayne John Bradley - Every Day&#34; is under a Creative Commons (cc-by) license&#13;&#10;Music promoted by BreakingCopyright: https://bit.ly/bkc-every-day&#13;&#10;&#13;&#10;So Happy&#13;&#10;Track: Raven &#38; Kreyn - So Happy [NCS Official Video]&#13;&#10;Music provided by NoCopyrightSounds.&#13;&#10;Watch: https://youtu.be/cmVdgWL5548&#13;&#10;Free Download / Stream: http://ncs.io/SoHappyYO&#13;&#10;&#13;&#10;Running Out Of Time&#13;&#10;Track: Anna Yvette - Running Out Of Time [NCS Release]&#13;&#10;Music provided by NoCopyrightSounds.&#13;&#10;Watch: https://youtu.be/sRjBFf0zi3Y&#13;&#10;Free Download / Stream: https://ncs.io/RunningOutOfTime&#13;&#10;&#13;&#10;About:&#13;&#10;Thank you for visiting Kraken Reseller with Kristeen (Kris-Teen) on YouTube!&#13;&#10;I'm a full-time mom and a part-time reseller on eBay.  I'm based out of sunny, family-friendly (not to mention hot) Surprise, Arizona! I'm a second generation reseller and learned everything I know from my mother, auction houses, swap meets, and doing tons of research over the years! I opened my first eBay account in 1999 and then began reselling LEGO as a hobby with my husband Paul. I have since expanded my catalog to include anything and everything I can to flip for a profit to help support my family of seven.&#13;&#10;&#13;&#10;Join me on my journey to search for items I can resell from estate sales, local and online auctions, yard sales, thrift stores, charity shops, and basically any weird stuff left on the curb. I will also share my tips and tricks!"
     channeltitle "Kraken Reseller"
     channelid "UCWVwOGc42CGCRJQ7Ohhv-cw"
@@ -8029,7 +8029,7 @@ graph
     commentcount 5
     duration "PT1H8M49S"
     indegree 1
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -8047,7 +8047,7 @@ graph
     commentcount 21
     duration "PT16M36S"
     indegree 8
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8055,7 +8055,7 @@ graph
     label "mlyA5KjmIvI"
     step 0
     date "2021-08-21T04:00:24Z"
-    title "Vintage Jewelry Jar Unjarring Part 2 More Gold, Sterling Vintage"
+    title "Vintage Jewelry Jar Unjarring Part 2 More Gold, Sterling  Vintage"
     description "Here in Part 2 of our Vintage Jewelry Jar!!  In this video we went back to the same Antique Vintage Shop.This time we bought a Jar from a different Booth! In Part 2 we have more Vintage Gold &#38; Sterling brooches! Be sure to join us to see what we uncover in this jar. Thanks for watching and be sure to Subscribe and hit the bell to be reminded of when we come out with a new video.&#10;&#10;Contact us at mhl22@ymail.com &#10;&#10;Ebay- https://www.ebay.com/str/thevintagemouse&#10;Etsy- https://www.etsy.com/shop/TheVintageMouseFinds&#10;Poshmark- https://poshmark.com/closet/thevintagemouse&#10;&#10;If you see anything that Interests you &#38; you want to purchase from the video? &#10;Just Email us at mhl22@ymail.com&#10;Just include the time stamp and/or screenshot of item(s) please.&#10;We accept PayPal and will invoice you."
     channeltitle "ShadyNY"
     channelid "UCDMRHJi_2azAA5yKdmCNYzw"
@@ -8065,7 +8065,7 @@ graph
     commentcount 40
     duration "PT37M24S"
     indegree 2
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -8083,7 +8083,7 @@ graph
     commentcount 41
     duration "PT31M10S"
     indegree 2
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -8101,7 +8101,7 @@ graph
     commentcount 20
     duration "PT40M34S"
     indegree 0
-    cluster 7
+    cluster 2
   ]
   node
   [
@@ -8119,7 +8119,7 @@ graph
     commentcount 96
     duration "PT25M31S"
     indegree 2
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -8137,7 +8137,7 @@ graph
     commentcount 27
     duration "PT40M58S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8155,7 +8155,7 @@ graph
     commentcount 81
     duration "PT17M50S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8173,7 +8173,7 @@ graph
     commentcount 2
     duration "PT2M15S"
     indegree 17
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8191,7 +8191,7 @@ graph
     commentcount 52
     duration "PT37M18S"
     indegree 2
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -8209,7 +8209,7 @@ graph
     commentcount 45
     duration "PT11M35S"
     indegree 1
-    cluster 1
+    cluster 2
   ]
   node
   [
@@ -8245,7 +8245,7 @@ graph
     commentcount 1
     duration "PT2H32M53S"
     indegree 8
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8263,7 +8263,7 @@ graph
     commentcount 0
     duration "PT21M52S"
     indegree 0
-    cluster 3
+    cluster 4
   ]
   node
   [
@@ -8281,7 +8281,7 @@ graph
     commentcount 26
     duration "PT10M33S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8299,7 +8299,7 @@ graph
     commentcount 8
     duration "PT3H31M36S"
     indegree 1
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8317,7 +8317,7 @@ graph
     commentcount 2
     duration "PT23M19S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8325,7 +8325,7 @@ graph
     label "qVxXj-nZonU"
     step 0
     date "2022-07-07T19:50:53Z"
-    title "ANTIQUE Georgian Victorian Jewelry Ready for Repair by My Jeweler REAL GOLD"
+    title "ANTIQUE Georgian  Victorian Jewelry Ready for Repair by My Jeweler REAL GOLD"
     description "Welcome to my video. I will show you some broken pieces (mostly gold) that I will be bringing in for repair shortly. (I am FINALLY getting around to getting my Grand Tour Victorian micromosaic bracelet fixed -- he couldn't do it until I found a finding that fits.)  I will do a follow-up video when the repairs have been completed. Thanks as always for watching. Hugs, SANDRA  xo&#10;#antiquejewelry #georgianjewelry #victorianjewelry #grandtourbracelet &#10;&#10;eBay = https://www.ebay.com/usr/TheFunkyPickleStore&#10;Facebook = https://www.facebook.com/TheFunkyPickleThrifter&#10;Instagram = @TheFunkyPickleThrifter"
     channeltitle "The Funky Pickle Thrifter"
     channelid "UC4YDrQu3fKoaKla-STrpgLw"
@@ -8335,7 +8335,7 @@ graph
     commentcount 49
     duration "PT23M42S"
     indegree 26
-    cluster 5
+    cluster 3
   ]
   node
   [
@@ -8343,7 +8343,7 @@ graph
     label "9jMOtpC03rk"
     step 0
     date "2022-07-08T03:18:31Z"
-    title "Day 4: LIVE STERLING SILVER COSTUME JEWELRY SALE --- A 5 DAY EVENT"
+    title "Day 4: LIVE STERLING SILVER  COSTUME JEWELRY SALE --- A 5 DAY EVENT"
     description "If you are interested in jewelry -- sterling silver, vintage costume, artisan, contemporary -- or know someone who is, please mark your calendars for a 5-day special live sale event that I will be hosting from 4:00PM - 7:00PM every day from Monday, July 4th through Friday, July 8th here on my channel. &#13;&#10;&#13;&#10;If you have not subscribed to my channel yet, I certainly invite you to do so and also be sure to click the notification bell so you can be notified when I go live and when I upload additional content. &#13;&#10;&#13;&#10;I have some great things in store for you during this 5-day special event, including free giveaways, so please consider joining us. As usual, you don't have to purchase anything ... just come join the chat and let's have some fun!!! :) &#13;&#10;&#13;&#10;Thanks!&#13;&#10;Doug&#13;&#10;VintageBoutiqueCali@yahoo.com"
     channeltitle "Doug / Vintage Boutique Cali"
     channelid "UCmdKgXreKn0H-AuVMXh69ew"
@@ -8371,7 +8371,7 @@ graph
     commentcount 18
     duration "PT1H21M20S"
     indegree 1
-    cluster 2
+    cluster 3
   ]
   node
   [
@@ -8389,7 +8389,7 @@ graph
     commentcount 94
     duration "PT14M54S"
     indegree 4
-    cluster 7
+    cluster 6
   ]
   node
   [
@@ -8407,7 +8407,7 @@ graph
     commentcount 1
     duration "PT31S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -8415,7 +8415,7 @@ graph
     label "oYMW1JDPJBU"
     step 0
     date "2022-07-09T20:50:46Z"
-    title "Estate Sale Finds Video #320: Antique Easter Eggs, Jewelry, Mid Century Decor More"
+    title "Estate Sale Finds Video #320: Antique Easter Eggs, Jewelry, Mid Century Decor  More"
     description "I've found some really neat antique Easter eggs, MCM glass, and miscellaneous other items this week."
     channeltitle "Living The Good Life"
     channelid "UCMttLGl-lMgyE6RztpSBP1A"
@@ -8443,7 +8443,7 @@ graph
     commentcount 0
     duration "PT40M21S"
     indegree 2
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -8461,7 +8461,7 @@ graph
     commentcount 7
     duration "PT44M43S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8479,7 +8479,7 @@ graph
     commentcount 1
     duration "PT5H21M56S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8497,7 +8497,7 @@ graph
     commentcount 1
     duration "PT47M6S"
     indegree 0
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -8515,7 +8515,7 @@ graph
     commentcount 0
     duration "PT38M27S"
     indegree 2
-    cluster 3
+    cluster 7
   ]
   node
   [
@@ -8533,7 +8533,7 @@ graph
     commentcount 0
     duration "PT19S"
     indegree 4
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8551,7 +8551,7 @@ graph
     commentcount 0
     duration "PT51S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8569,7 +8569,7 @@ graph
     commentcount 20
     duration "PT26M58S"
     indegree 18
-    cluster 7
+    cluster 8
   ]
   node
   [
@@ -8577,7 +8577,7 @@ graph
     label "mmDsGHT_M4k"
     step 0
     date "2022-07-10T16:04:09Z"
-    title "vintage locket prints ur names or ur loved ones, link is in description"
+    title "vintage locket  prints ur names or ur loved ones, link is in description"
     description "Dm to order at Instagram- &#10;https://instagram.com/clay_studio9/&#10;gmail- aariclaystudio9@gmail.com&#10;Facebook -&#10;https://www.facebook.com/profile.php?id=100080474813"
     channeltitle "claystudio9"
     channelid "UC3T68Rwlpn6ApBfv8tvPVYg"
@@ -8587,7 +8587,7 @@ graph
     commentcount 0
     duration "PT14S"
     indegree 0
-    cluster 4
+    cluster 5
   ]
   node
   [
@@ -8605,7 +8605,7 @@ graph
     commentcount 1
     duration "PT11S"
     indegree 0
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8623,7 +8623,7 @@ graph
     commentcount 0
     duration "PT17S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8641,7 +8641,7 @@ graph
     commentcount 0
     duration "PT28S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   node
   [
@@ -8659,7 +8659,7 @@ graph
     commentcount 0
     duration "PT16S"
     indegree 3
-    cluster 6
+    cluster 7
   ]
   edge
   [

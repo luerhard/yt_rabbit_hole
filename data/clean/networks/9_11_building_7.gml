@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 09:44:58 2022"
+Creator "igraph version 1.3.1 Thu Jul 14 11:01:12 2022"
 Version 1
 graph
 [
@@ -91,7 +91,7 @@ graph
     commentcount 8181
     duration "PT55M36S"
     indegree 32
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -109,7 +109,7 @@ graph
     commentcount 17679
     duration "PT8M40S"
     indegree 56
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -117,7 +117,7 @@ graph
     label "FeasKVBFySw"
     step 0
     date "2009-08-31T15:43:23Z"
-    title "E tongue sticking out losive 9/11 Claims | National Geographic"
+    title "Explosive 9/11 Claims | National Geographic"
     description "Could the towers have been brought down by controlled demolition? Blasting a college dorm helps answer that question.&#10;&#10145; Subscribe: http://bit.ly/NatGeoSubscribe&#10;&#10;About National Geographic:&#10;National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.&#10;&#10;Get More National Geographic:&#10;Official Site: http://bit.ly/NatGeoOfficialSite&#10;Facebook: http://bit.ly/FBNatGeo&#10;Twitter: http://bit.ly/NatGeoTwitter&#10;Instagram: http://bit.ly/NatGeoInsta&#10;&#10;9/11: Science and Conspiracy : http://channel.nationalgeographic.com/episode/9-11-science-and-conspiracy-4067/Overview&#10;&#10;Explosive 9/11 Claims | National Geographic&#10;https://youtu.be/FeasKVBFySw&#10;&#10;National Geographic&#10;https://www.youtube.com/natgeo"
     channeltitle "National Geographic"
     channelid "UCpVm7bg6pXKo1Pr6k5kxG9A"
@@ -163,7 +163,7 @@ graph
     commentcount 6645
     duration "PT8M44S"
     indegree 36
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -189,7 +189,7 @@ graph
     label "vzInIjD6nKw"
     step 0
     date "2015-08-28T17:53:33Z"
-    title "This Computer Simulation E tongue sticking out lains How the Twin Towers Fell"
+    title "This Computer Simulation Explains How the Twin Towers Fell"
     description "To understand what happened to the Twin Towers on 9/11, a scientist set up an elaborate computer simulation of the event. It ended up not just predicting the manner of the collapse, but also its speed.&#10;&#10;Watch the Full Episode with your FREE trial for Smithsonian Channel Plus by signing up today at https://watch.smithsonianchannel.com/&#10;&#10;From: THE MISSING EVIDENCE: 9/11 Secret Explosions  in the Towers&#10;http://bit.ly/1hhMyEr"
     channeltitle "Smithsonian Channel"
     channelid "UCWqPRUsJlZaDp-PVbqEch9g"
@@ -199,7 +199,7 @@ graph
     commentcount 16544
     duration "PT4M1S"
     indegree 31
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -217,7 +217,7 @@ graph
     commentcount 24793
     duration "PT4M18S"
     indegree 37
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -235,7 +235,7 @@ graph
     commentcount 7683
     duration "PT4M17S"
     indegree 5
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -253,7 +253,7 @@ graph
     commentcount 8219
     duration "PT7M29S"
     indegree 51
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -271,7 +271,7 @@ graph
     commentcount -1
     duration "PT1M51S"
     indegree 18
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -289,7 +289,7 @@ graph
     commentcount -1
     duration "PT4M47S"
     indegree 49
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -307,7 +307,7 @@ graph
     commentcount 11915
     duration "PT3M21S"
     indegree 19
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -325,7 +325,7 @@ graph
     commentcount 3347
     duration "PT4M44S"
     indegree 7
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -343,7 +343,7 @@ graph
     commentcount 13301
     duration "PT5M51S"
     indegree 29
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -379,7 +379,7 @@ graph
     commentcount 1700
     duration "PT12M42S"
     indegree 24
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -397,7 +397,7 @@ graph
     commentcount 25073
     duration "PT27M16S"
     indegree 21
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -415,7 +415,7 @@ graph
     commentcount 4439
     duration "PT6M59S"
     indegree 26
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -423,7 +423,7 @@ graph
     label "itBC228XSh4"
     step 0
     date "2021-09-08T12:17:28Z"
-    title "How 9/11 conspiracy theories fueled the war on reality | Opinion"
+    title "How 9/11  conspiracy theories fueled the war on reality | Opinion"
     description "Conspiracy theories blaming George W. Bush for the Sept. 11, 2001, terrorist attacks have been debunked, yet millions of Americans still believe them. When Osama bin Laden was the obvious &#34;outsider,&#34; why did so many people turn against Bush and what does it say about U.S. society today? In this short film, conspiracy theory researchers Evan Laine and Raju Parakkal connect the dots between 9/11 &#34;trutherism&#34; and the &#34;Big Lie.&#34; #September11 #911 #washingtonpost&#10;&#10;Director/Producer: Kate Woodsome&#10;Associate Producer: David Byler&#10;Editors: Andrew van Baal, George M. Murphy&#10;Director of Photography: Jay Miller&#10;First Assistant Camera: Aly Spengler&#10;Motion Graphics Editor: Danielle Kunitz&#10;&#10;. Read more: https://wapo.st/3DZGH28. Subscribe to The Washington Post on YouTube: https://wapo.st/2QOdcqK&#10;&#10;Follow us:&#10;Twitter: https://twitter.com/washingtonpost&#10;Instagram: https://www.instagram.com/washingtonpost/&#10;Facebook: https://www.facebook.com/washingtonpost/"
     channeltitle "Washington Post"
     channelid "UCHd62-u_v4DvJ8TCFtpi4GA"
@@ -451,7 +451,7 @@ graph
     commentcount 22
     duration "PT2M54S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     commentcount 15357
     duration "PT14M48S"
     indegree 11
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -487,7 +487,7 @@ graph
     commentcount -1
     duration "PT1M57S"
     indegree 7
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -505,7 +505,7 @@ graph
     commentcount 1497
     duration "PT12M9S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -523,7 +523,7 @@ graph
     commentcount 10639
     duration "PT12M4S"
     indegree 33
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -559,7 +559,7 @@ graph
     commentcount -1
     duration "PT4M7S"
     indegree 8
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -577,7 +577,7 @@ graph
     commentcount 8205
     duration "PT4M47S"
     indegree 19
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -595,7 +595,7 @@ graph
     commentcount 3468
     duration "PT4M52S"
     indegree 5
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -631,7 +631,7 @@ graph
     commentcount 6064
     duration "PT14M11S"
     indegree 36
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -649,7 +649,7 @@ graph
     commentcount 3724
     duration "PT6M21S"
     indegree 3
-    cluster 8
+    cluster 3
   ]
   node
   [
@@ -667,7 +667,7 @@ graph
     commentcount 24583
     duration "PT2M6S"
     indegree 7
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -685,7 +685,7 @@ graph
     commentcount -1
     duration "PT45M35S"
     indegree 22
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     commentcount 8982
     duration "PT18M49S"
     indegree 4
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -721,7 +721,7 @@ graph
     commentcount -1
     duration "PT25M57S"
     indegree 35
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -757,7 +757,7 @@ graph
     commentcount 654
     duration "PT4M54S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -793,7 +793,7 @@ graph
     commentcount 5591
     duration "PT10M51S"
     indegree 11
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -811,7 +811,7 @@ graph
     commentcount -1
     duration "PT2M31S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -829,7 +829,7 @@ graph
     commentcount 14
     duration "PT1M40S"
     indegree 11
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -847,7 +847,7 @@ graph
     commentcount 8
     duration "PT4M7S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -865,7 +865,7 @@ graph
     commentcount 0
     duration "PT4M23S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -873,7 +873,7 @@ graph
     label "DYBhgEm3j7A"
     step 0
     date "2011-09-10T06:22:57Z"
-    title "9/11 ATC Transcripts Audio - FAA NORAD Tapes"
+    title "9/11 ATC Transcripts  Audio - FAA NORAD Tapes"
     description "Click to subscribe! http://bit.ly/subAIRBOYD &#10;&#10;Courtesy: Rutgers Law Review &#10;&#10;A New Type of War - The Story of the FAA and NORAD Response to the September 11, 2001 Attacks Full PDF transcript here: http://bit.ly/pANwPq &#10;&#10;http://www.rutgerslawreview.com/2011/a-new-type-of-war/&#10;&#10;Video transcript is not 100% synched, but included for reference.  &#10;&#10;AIRBOYD - &#10;&#10; AIRBOYD #AvGeek #911"
     channeltitle "AIRBOYD"
     channelid "UClyDDqcDsXp3KQ7J5gyIMuQ"
@@ -883,7 +883,7 @@ graph
     commentcount 6983
     duration "PT1H51M32S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -901,7 +901,7 @@ graph
     commentcount -1
     duration "PT33S"
     indegree 3
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -919,7 +919,7 @@ graph
     commentcount -1
     duration "PT7M29S"
     indegree 6
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     commentcount 1580
     duration "PT16M25S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -955,7 +955,7 @@ graph
     commentcount 11
     duration "PT2M"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -963,7 +963,7 @@ graph
     label "-YBOZYcBg68"
     step 0
     date "2021-09-09T17:33:31Z"
-    title "Building 7 Twin Towers / Remembering 9/11 - Archive Footage Part 3"
+    title "Building 7  Twin Towers / Remembering 9/11 - Archive Footage Part 3"
     description "When 9-11 occurred, 20 years ago, it devastated our Nation. It was the first attack on US soil since Pearl Harbor, in 1941. Seeing it all unfold was extremely shocking. I began recording various news stories with my VCR, and now (after 20 years) I&#8217;m sharing what I recorded with the World. So many questions left un-answered, even after all this time. Will we ever know the truth of what happened that day? Time will tell. For now, may we remember those who were killed, those who sacrificed their lives to save others, those left behind who&#8217;s lives were changed forever, and the way we came together as a Nation. #9-11 #building7 #remembering9-11"
     channeltitle "unclevroomvroom"
     channelid "UCbrqdj5yDaTOPISwwmWZR7A"
@@ -973,7 +973,7 @@ graph
     commentcount 3
     duration "PT3M22S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -991,7 +991,7 @@ graph
     commentcount 201
     duration "PT14M51S"
     indegree 13
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -1009,7 +1009,7 @@ graph
     commentcount 21
     duration "PT33S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1027,7 +1027,7 @@ graph
     commentcount 10
     duration "PT33S"
     indegree 3
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1035,7 +1035,7 @@ graph
     label "4LUDXpMhkNk"
     step 0
     date "2017-09-08T07:15:43Z"
-    title "Building 7 E tongue sticking out laine tongue sticking out The Tube That Crumpled"
+    title "Building 7 Explained: The Tube That Crumpled"
     description "**THIS VIDEO HAS BEEN UPDATED**&#10;Please watch: https://youtu.be/nP3TNHPCIVU&#10;&#10;Comments on this older video will no longer be approved and will not appear here. Watch the new video and comment there instead, please.&#10;-----&#10;&#10;Long-debunked talking points:&#10;&#10;1. &#34;7WTC collapsed into its own footprint.&#34; There is no evidence of that. The animation at 5:00 is scale-accurate: The east face of the frame tipped that much to the north (the smaller building shown is Fiterman Hall). Meanwhile, the west face appears to have rotated to the south. The photos at the end of the video disprove the &#34;footprint&#34; talking point.&#10;&#10;2. &#34;Thousands of architects and engineers disagree.&#34; Actual skyscraper experts don't disagree. I made comedy out of the petition put forward by Architects &#38; Engineers for 9/11 Truth: https://youtu.be/lpEnvGBfgnI&#10;&#10;3. &#34;A collapse with (a brief period of) freefall violates the laws of physics.&#34; Point to one paper in a peer-reviewed journal that supports this claim. I apparently violated the same laws in this experiment: https://twitter.com/edwardcurrent/status/924052742338834432&#10;&#10;4. &#34;WTC7's collapse and fire were totally different from the Tehran building&#34; Yes, and the difference in their collapses is explained beginning at 3:34. They were also very different in size and mass https://www.metabunk.org/attachments/20170119-095743-d00ca-jpg.24118/ which affected not only their collapses but also how their fires appeared from the outside. WTC7 as seen from the south was also a raging fire https://www.youtube.com/watch?v=8k0-CFGP9ZQ . &#10;&#10;5. &#34;Professor Dr. Leroy Hulsey Ph.D. of the University of Alaska's two-year study&#8230;&#34; With funding by Architects &#38; Engineers for 9/11 Truth, Hulsey (an expert on bridges, not buildings, who had never done fire analysis) and two graduate students computer-modeled two floors where NIST found that collapse initiation *might* have taken place, and found scenarios where the collapse did not initiate. AE911Truth would like you to believe that fire, therefore, was ruled out. This is *not* a scientific conclusion, it's a sensational statement bought and paid for by a 9/11 profiteering group. The study has been comprehensively debunked at https://www.metabunk.org/debunked-uaf-study-shows-wtc7-could-not-have-collapsed-from-fire.t9056/.&#10;&#10;6. &#34;Witnesses heard explosions.&#34; Lots of things explode in fires: transformers, gas lines, water lines, air compressors, fire extinguishers, propane tanks, refrigeration systems. An &#34;explosion sound&#34; is different from the high-brisance detonation necessary to cut even one 14&#34; x 22&#34; steel column of a major skyscraper (let alone 58&#8211;82 of them), which would exceed 140 decibels a half mile away and be clearly audible from New Jersey. Meanwhile, seismographs picked up the collapse of the interior (preceding the collapse of the exterior frame), but no detonations. Regardless, such blasts would be loudly audible on all of the camera footage, seconds before the collapse began. There's nothing on the tapes.&#10;This is how demolitions actually sound: https://www.youtube.com/watch?v=eem7d58gjno&#10;Here are 12&#34; steel pins failing, producing &#34;explosion&#34; sounds: (at 0:40)&#10;https://youtu.be/ZXr1IeWbP10?t=40&#10;&#10;7. &#34;The BBC reported that WTC7 had collapsed before it actually did.&#34; There was confusion and chaos on 9/11. Firefighters had cleared the area, because 7WTC was at risk of collapsing ( https://sites.google.com/site/wtc7lies/eyewitnessaccountsofthewithdrawalfromwtc?pageId=104443402069968647957 ). This was misreported by Reuters. BBC explains (at 43:32): https://youtu.be/vZbMfTtHkYM?t=43m32s Anyway, that's a far less complicated explanation than that the BBC or Reuters were in on a conspiracy, and/or made a massive on-air blunder in a secret operation that remains perfectly covered up 19 years later.&#10;&#10;8. &#34;Larry Silverstein confessed to demolishing the building when he said it was pulled.&#34; He said the firefighting was pulled out. Watch FDNY chief Daniel Nigro discuss this decision (at 22:09): https://youtu.be/vZbMfTtHkYM?t=22m9s &#10;&#34;Pull&#34; is not a term used in demolition except to yank small buildings down with cables. Silverstein didn't confess to massive insurance fraud in a scheduled sit-down PBS interview, only for that confession to be ignored by the insurers. One of the dumbest talking points ever.&#10;&#10;9. &#34;You must be paid by the government to make these videos.&#34; And your standards for evidence must be extremely low, if you're willing to convince yourself that this wild claim is true. (It's not. I make nothing from these videos.)&#10;&#10;10. &#34;Why not just set steel buildings on fire when they need to be demolished, instead of using explosives?&#34; Because they might land on other buildings and destroy them, as WTC7 did. And maybe set them on fire, too. Setting a skyscraper on fire in a city, and letting it belch out toxic smoke from burning plastics for hours, is a very stupid idea. Okay, this is officially the dumbest talking point ever."
     channeltitle "EdwardCurrent"
     channelid "UC20U2rjFhakOCOlvJn0MAGg"
@@ -1045,7 +1045,7 @@ graph
     commentcount 2424
     duration "PT6M3S"
     indegree 30
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1071,7 +1071,7 @@ graph
     label "gy9zM2Kf57A"
     step 0
     date "2018-08-10T18:53:59Z"
-    title "Building 7 collapse. (E tongue sticking out losives used)"
+    title "Building 7 collapse. (Explosives used)"
     description "Pay attention to the Windows gettimg blown out"
     channeltitle "Rob Steiner"
     channelid "UCzSTKI715LTHfU6GwQNtiuA"
@@ -1099,7 +1099,7 @@ graph
     commentcount 276
     duration "PT7M16S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -1117,7 +1117,7 @@ graph
     commentcount -1
     duration "PT7M29S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1153,7 +1153,7 @@ graph
     commentcount 24
     duration "PT4M15S"
     indegree 2
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     commentcount 606
     duration "PT4M50S"
     indegree 18
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1189,7 +1189,7 @@ graph
     commentcount 863
     duration "PT1M20S"
     indegree 7
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1207,7 +1207,7 @@ graph
     commentcount 21
     duration "PT41S"
     indegree 0
-    cluster 3
+    cluster 5
   ]
   node
   [
@@ -1225,7 +1225,7 @@ graph
     commentcount 7
     duration "PT1M17S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -1243,7 +1243,7 @@ graph
     commentcount 39
     duration "PT2M14S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1279,7 +1279,7 @@ graph
     commentcount 6
     duration "PT31S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1297,7 +1297,7 @@ graph
     commentcount 6
     duration "PT33S"
     indegree 5
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -1333,7 +1333,7 @@ graph
     commentcount 51
     duration "PT13S"
     indegree 6
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1351,7 +1351,7 @@ graph
     commentcount 0
     duration "PT10M28S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1369,7 +1369,7 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1387,7 +1387,7 @@ graph
     commentcount -1
     duration "PT2M31S"
     indegree 7
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -1405,7 +1405,7 @@ graph
     commentcount 548
     duration "PT5M19S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -1423,7 +1423,7 @@ graph
     commentcount 3
     duration "PT36S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1441,7 +1441,7 @@ graph
     commentcount 2
     duration "PT7M3S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1459,7 +1459,7 @@ graph
     commentcount 2
     duration "PT1M25S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1477,7 +1477,7 @@ graph
     commentcount 2
     duration "PT35S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1495,7 +1495,7 @@ graph
     commentcount 0
     duration "PT2M31S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1567,7 +1567,7 @@ graph
     commentcount 5
     duration "PT52S"
     indegree 3
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1603,7 +1603,7 @@ graph
     commentcount 0
     duration "PT1M2S"
     indegree 6
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1621,7 +1621,7 @@ graph
     commentcount 4
     duration "PT2M31S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     commentcount 19
     duration "PT31S"
     indegree 1
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1665,7 +1665,7 @@ graph
     label "C3E-26oVIIs"
     step 0
     date "2006-06-05T17:25:21Z"
-    title "WTC Owner Larry Silverstein gave order to Building 7"
+    title "WTC Owner Larry Silverstein gave order to  Building 7"
     description "In America Rebuilds, a PBS documentary, World Trade Center owner Larry Silverstein admits to giving the order to &#34;pull&#34; building seven.  What is the significance of this, you may ask?  It takes weeks to set up a controlled demolition and on 9-11, Mr. Silverstein did not have weeks of preparation unless he knew building needed to be brought down due to a terrorist attack ahead of time."
     channeltitle "Veggivore"
     channelid "UCfMBDT1QXLQf4U_A0tBADUQ"
@@ -1693,7 +1693,7 @@ graph
     commentcount -1
     duration "PT11M8S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1711,7 +1711,7 @@ graph
     commentcount 0
     duration "PT31S"
     indegree 4
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1729,7 +1729,7 @@ graph
     commentcount 1
     duration "PT1M25S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1747,7 +1747,7 @@ graph
     commentcount -1
     duration "PT4M47S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1765,7 +1765,7 @@ graph
     commentcount 2
     duration "PT44S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1783,7 +1783,7 @@ graph
     commentcount 21
     duration "PT2M14S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -1801,7 +1801,7 @@ graph
     commentcount 17
     duration "PT11M8S"
     indegree 5
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -1819,7 +1819,7 @@ graph
     commentcount 4
     duration "PT33S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1827,7 +1827,7 @@ graph
     label "FWkUxr_fuU4"
     step 0
     date "2020-04-19T15:17:42Z"
-    title "9 11 Building 7 Collapse. E tongue sticking out losions and close-up."
+    title "9 11 Building 7 Collapse. Explosions and close-up."
     description "Building 7 was the first steel framed skyscraper in history to be brought down purely by fire (according to the government, burning office furnishings caused the collapse).  No aircraft came near the building. Other steel-framed skyscrapers have experienced far more serious fires than Building 7.&#10;WTC 7 fell straight down, which necessitated that all of the load-bearing columns be broken at the same moment. Inflicting such damage with the precision required to prevent a building from toppling and damaging adjacent buildings is what the science of controlled demolition is all about. No random events, such as the debris damage and fires envisioned by the official reports, or explosions from fuel tanks proposed by some, could be expected to result in such a tidy and complete collapse.&#10;WTC 7 fell precipitously, at a rate closely approaching the speed of gravitational free-fall. That necessitated the sudden removal of structure near ground level that would have impeded its descent.&#10;The collapse of WTC 7 exhibited all of the features of a standard controlled demolition. To suppose that a cause other than controlled demolition could produce an event with all of the features uniquely characteristic of controlled demolition defies logic."
     channeltitle "Waking up the World"
     channelid "UCl4QVzxRmSHK2hScoNglk9Q"
@@ -1837,7 +1837,7 @@ graph
     commentcount 3
     duration "PT54S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1855,7 +1855,7 @@ graph
     commentcount 0
     duration "PT37S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     commentcount 9
     duration "PT45S"
     indegree 2
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -1909,7 +1909,7 @@ graph
     commentcount 3
     duration "PT1M2S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -1927,7 +1927,7 @@ graph
     commentcount 39
     duration "PT51S"
     indegree 3
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -1935,7 +1935,7 @@ graph
     label "DwgHorgDPGo"
     step 0
     date "2009-10-09T03:49:47Z"
-    title "New York tongue sticking out BC News Reporters WTC 7 Building Collapse. Full Report"
+    title "New York:BBC News Reporters  WTC 7 Building Collapse. Full Report"
     description "BBC Reporting collapse before it happens"
     channeltitle "Iamawarpig"
     channelid "UCVHkPAGv4Y-W6f1oehOcVCg"
@@ -1963,7 +1963,7 @@ graph
     commentcount 919
     duration "PT1M1S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -1971,7 +1971,7 @@ graph
     label "u7yRJ8AlhdA"
     step 0
     date "2022-04-24T15:36:12Z"
-    title "New #WTC #WTC7 Building 7 E tongue sticking out losion CNN"
+    title "New #WTC #WTC7 Building 7 Explosion CNN"
     description "New #WTC #WTC7 Building 7 Explosion CNN What the hell is that?"
     channeltitle "Rare 9/11 Facts"
     channelid "UCOch_SItPku1FqXKLMe9lqg"
@@ -1981,7 +1981,7 @@ graph
     commentcount 6
     duration "PT3M6S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -1999,7 +1999,7 @@ graph
     commentcount 0
     duration "PT15S"
     indegree 2
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -2007,7 +2007,7 @@ graph
     label "nP3TNHPCIVU"
     step 0
     date "2021-09-06T16:21:52Z"
-    title "Building 7 E tongue sticking out laine tongue sticking out Comprehensive Final Edition"
+    title "Building 7 Explained: Comprehensive Final Edition"
     description "The last word on the collapse of the original 7 World Trade Center on September 11, 2001. Running down the mainstream engineering explanation, debunking common Truther myths, and answering frequently asked questions. Comments may be intentionally demolished...make your own video if you want to spread misinformation about this engineering disaster, or about anything else.&#10;&#10;Interesting video #1: ABC News reports some time in the afternoon that 7 World Trade Center is expected to collapse due to fire: https://youtu.be/vrSCQeJb2CI?t=20&#10;&#10;Interesting video #2: Building 7 collapses in the background during a live interview. Notice how the sight of the building coming down startles people, but no one seemed to notice any sounds from demolition detonations that were supposedly taking down what would be the tallest building ever imploded in the world. Also this angle gives you a good idea of the height of Building 7 &#8212; it was a very tall office building by any city's standards. (Warning to sensitive viewers, emotionally intense) https://www.youtube.com/watch?v=_5XAUUnBYpY&#10;&#10;Thank you for supporting me on Patreon: http://patreon.com/edwardcurrent"
     channeltitle "EdwardCurrent"
     channelid "UC20U2rjFhakOCOlvJn0MAGg"
@@ -2017,7 +2017,7 @@ graph
     commentcount 549
     duration "PT18M37S"
     indegree 2
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2035,7 +2035,7 @@ graph
     commentcount -1
     duration "PT2M5S"
     indegree 2
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -2053,7 +2053,7 @@ graph
     commentcount 0
     duration "PT2M31S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -2089,7 +2089,7 @@ graph
     commentcount 0
     duration "PT1M12S"
     indegree 0
-    cluster 3
+    cluster 2
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     commentcount 0
     duration "PT10M32S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -2125,7 +2125,7 @@ graph
     commentcount 84
     duration "PT1H1M20S"
     indegree 7
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2143,7 +2143,7 @@ graph
     commentcount 0
     duration "PT58S"
     indegree 2
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -2161,7 +2161,7 @@ graph
     commentcount 924
     duration "PT1M40S"
     indegree 5
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2179,7 +2179,7 @@ graph
     commentcount 1
     duration "PT14M37S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2197,7 +2197,7 @@ graph
     commentcount 65
     duration "PT37S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2223,7 +2223,7 @@ graph
     label "dXrT6h2oepc"
     step 0
     date "2013-03-23T22:37:21Z"
-    title "WTC 9/11 Building 7 - CLEARLY DETONATED! 2013 NEW FOOTAGE OF E tongue sticking out LOSIONS!"
+    title "WTC 9/11 Building 7 - CLEARLY DETONATED! 2013 NEW FOOTAGE OF EXPLOSIONS!"
     description "BUILDING SEVEN DETONATED.. NEW FOOTAGE.. MAKE VIRAL ALL!!!!&#10;&#10;MAKE VIRAL ALL!!"
     channeltitle "TheGoldenAgeOfUs"
     channelid "UCZ9GoO534PwljBp-FHuLYaw"
@@ -2251,7 +2251,7 @@ graph
     commentcount 109
     duration "PT1M35S"
     indegree 8
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2287,7 +2287,7 @@ graph
     commentcount 69
     duration "PT51M16S"
     indegree 8
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2323,7 +2323,7 @@ graph
     commentcount 342
     duration "PT4M53S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     commentcount 49
     duration "PT2M13S"
     indegree 4
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2359,7 +2359,7 @@ graph
     commentcount 1
     duration "PT1M39S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2377,7 +2377,7 @@ graph
     commentcount -1
     duration "PT3M35S"
     indegree 2
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -2395,7 +2395,7 @@ graph
     commentcount 66
     duration "PT37S"
     indegree 1
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -2413,7 +2413,7 @@ graph
     commentcount 1
     duration "PT3M7S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2431,7 +2431,7 @@ graph
     commentcount 14
     duration "PT1M36S"
     indegree 1
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -2467,7 +2467,7 @@ graph
     commentcount 106
     duration "PT4M15S"
     indegree 5
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2503,7 +2503,7 @@ graph
     commentcount 0
     duration "PT45S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2521,7 +2521,7 @@ graph
     commentcount 3
     duration "PT32S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -2539,7 +2539,7 @@ graph
     commentcount 1
     duration "PT4M6S"
     indegree 1
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -2557,7 +2557,7 @@ graph
     commentcount 0
     duration "PT23M5S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     commentcount 2
     duration "PT6M56S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -2593,7 +2593,7 @@ graph
     commentcount 36
     duration "PT2M52S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2611,7 +2611,7 @@ graph
     commentcount 16
     duration "PT4M15S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2619,7 +2619,7 @@ graph
     label "8dFQ9pmAo5E"
     step 0
     date "2014-06-28T21:06:16Z"
-    title "LARRY SILVERSTEIN THE BUILDING 7 PULL IT RAP wink "
+    title "LARRY SILVERSTEIN THE BUILDING 7 PULL IT RAP ;)"
     description "Larry A. Silverstein was born May 30, 1931 in Brooklyn, and became involved in real estate, together with his father, establishing Silverstein Properties. Silverstein separated from his business partner, Bernard Mendik, in 1977, and bought a number of large office buildings in Midtown and Lower Manhattan in the late 1970s. In 1980, Silverstein won a bid from the Port Authority of New York and New Jersey to construct 7 World Trade Center, to the north of the World Trade Center site. Silverstein was interested in acquiring the entire World Trade Center complex, and put in a bid when the Port Authority put it up for lease in 2000. Silverstein won the bid when a deal between the initial winner and the Port Authority fell through, and he signed the lease on July 24, 2001.&#10;Soon after the September 11 attacks, Silverstein declared his intent to rebuild, though he and his insurers became embroiled in a multi-year dispute over whether the attacks had constituted one event or two under the terms of the insurance policy, which provided for a maximum of $3.55 billion coverage per event. A settlement was reached in 2007, with insurers agreeing to pay out $4.55 billion, which was not as much as Silverstein had sought. Silverstein also ran into multiple disputes with other parties in the rebuilding effort, including with the Port Authority. In an agreement reached in April 2006, Silverstein retained rights to build three office towers (150 Greenwich Street, 175 Greenwich Street, and 200 Greenwich Street), while One World Trade Center ( previously referred to as the &#34;Freedom Tower&#34; ) would be owned by the Port Authority, as would Tower Five, which it would have the option of leasing to a different private developer and having redesigned as a residential building.Beskrivelse.&#10;&#10;Edit By Thomas Koitzsch &#10;New Earth World Production June 2014"
     channeltitle "NewEarthWorld"
     channelid "UCn0OkeW4lBi88evVw4Cbqow"
@@ -2629,7 +2629,7 @@ graph
     commentcount 74
     duration "PT1M30S"
     indegree 2
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -2647,7 +2647,7 @@ graph
     commentcount 0
     duration "PT3M54S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2665,7 +2665,7 @@ graph
     commentcount 118
     duration "PT8M31S"
     indegree 4
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2683,7 +2683,7 @@ graph
     commentcount 77
     duration "PT58M3S"
     indegree 11
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2701,7 +2701,7 @@ graph
     commentcount 6
     duration "PT7M49S"
     indegree 2
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2755,7 +2755,7 @@ graph
     commentcount 17
     duration "PT4M30S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2773,7 +2773,7 @@ graph
     commentcount 12
     duration "PT4M15S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2845,7 +2845,7 @@ graph
     commentcount -1
     duration "PT3M28S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2863,7 +2863,7 @@ graph
     commentcount 10
     duration "PT39M"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -2881,7 +2881,7 @@ graph
     commentcount 0
     duration "PT6M2S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -2899,7 +2899,7 @@ graph
     commentcount 3291
     duration "PT15M"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2907,7 +2907,7 @@ graph
     label "rZTk3Y_HRoM"
     step 0
     date "2020-08-28T20:08:32Z"
-    title "NWO E tongue sticking out osed The Truth About 9/11 WTC Twin Towers Building 7 Controlled Demo Pentagon September 11"
+    title "NWO Exposed  The Truth About 9/11 WTC Twin Towers Building 7 Controlled Demo Pentagon September 11"
     description "False flag event made to usher in the New World Order. Precursor to todays COVID Crap. What are they planning? ..Evidence of complete government planning, manipulation, &#38; coverup! &#10;World Trade Center Building 7 perfectly imploded at the rate of free-fall from only a few small office fires after only about an hour.   How could jet fuel melt steel beams if a plane never touched the building? Controlled Demolition!  ...2 planes 3 buildings &#129300;&#10;Jet fuel can NOT melt steel beams, look at the images showing perfectly straight cut massive I beams.&#10;Puppet President controlled by shadow government &#38; super rich global elite.&#10;&#10;Question the official government narrative &#38; always follow the money- Oil Wars!&#10;#NeverForget #jetfuelcantmeltsteelbeams&#10;&#10;&#128085;&#129506; SHOW YOUR SUPPORT WITH MY FUN MERCH &#10145;&#65039; https://teespring.com/stores/livingthegoodlifenow&#10;&#10;LivingTheGoodLife&#10;LTGL MultiMedia&#10;LTGLN Media&#10;The Good Life&#10;ASMR Sound Source&#10;Living The Good Life&#10;LivingTheGoodLifeNow &#10;Living The Good Life Now"
     channeltitle "LivingTheGoodLife"
     channelid "UCFdTmWygiLXgRNwkOOyNcig"
@@ -2917,7 +2917,7 @@ graph
     commentcount 89
     duration "PT33M14S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -2925,7 +2925,7 @@ graph
     label "uFJa9WUy5QI"
     step 0
     date "2011-09-06T08:10:04Z"
-    title "Building 7 E tongue sticking out lained"
+    title "Building 7 Explained"
     description "**THIS VIDEO HAS BEEN UPDATED**&#10;Please watch: https://youtu.be/nP3TNHPCIVU&#10;&#10;Comments on this (much) older video will no longer be approved and will not appear here. Watch the new video and comment there instead, please.&#10;-----&#10;&#10;1. Things conspiracy believers do not want you to know:&#10;(a) WTC7 underwent a slow, internal progressive collapse. There was nothing symmetrical about it, except superficially, the last part of the collapse.&#10;(b) WTC7 actually did NOT collapse straight down or &#34;into its own footprint.&#34; Three buildings, across the 4-lane Barclay St., were heavily damaged. See photo: http://www.debunking911.com/wtc7pile.jpg&#10;(c) The &#34;experts&#34; at ae911truth.org are mostly electrical and chemical engineers, residential architects, students, etc. with little or no experience in steel tube-frame skyscraper construction. &#10;(d) A high-rise in Tehran collapsed due to fire in January 2017. However, the exterior did not hold together to the end as it did in WTC, because of major design differences.&#10;(e) The &#34;explosive traces&#34; or &#34;thermite&#34; claim comes from non-chemist Steven E. Jones, who analyzed samples sent to him privately with no chain of custody. His paper appeared in a journal that charges $800 to publish; Google &#34;CRAP Paper Accepted by Journal&#34; to read about its &#34;peer review&#34; process.&#10;(f) No &#34;molten metal&#34; was ever collected from WTC7 and analyzed.&#10;(g) Rigging a large building for demolition cannot be done &#34;over the weekend,&#34; nor would such preparation escape the notice of office workers. Demolition professionals laugh at this claim.&#10;(h) There exist NO peer-reviewed papers supporting controlled demolition, in any engineering journal. &#10;&#10;2. Examples of intellectual dishonesty or ignorance:&#10;(a) &#34;The fires did not burn hot enough to melt steel.&#34; Nobody claims that fire melted steel. Steel framing members expanded beyond tolerances, subjecting connections to failure. The heat also reduced the steel's capacity to support loads. No melting required.&#10;(b) &#34;BBC reported WTC7's collapse before it happened.&#34; Firefighters had predicted the collapse and cleared the area, and apparently one reporter misheard something. That's a far simpler explanation than conspiracy. Also on 9/11, CNN reported that the Washington Mall was on fire. That never happened.&#10;(c) &#34;The 9/11 Commission Report didn't even mention WTC7.&#34; It was done years before the WTC7 study was completed, and wasn't an engineering report.&#10;(d) &#34;NIST changed its story several times.&#34; Science refines its position over time. This is a strength, not a weakness. Alternatively we can start with a story, stick to that story, and look only for evidence that supports that story. The latter is what creationists and conspiracy believers do.&#10;(e) &#34;Larry Silverstein ordered to 'pull' WTC7, a slang term in the demolition industry.&#34; He was referring to pulling back firefighting efforts, as the building was considered lost. &#34;Pull&#34; is not demolition slang. Larry Silverstein is a real-estate investor, not a demolition worker.&#10;(f) &#34;Why not just light steel skyscrapers on fire when they need to be demolished?&#34; Because fires are dirty and dangerous. You could equally ask why wood-frame houses are demolished with bulldozers, when they could just be set on fire.&#10;(g) &#34;You are working for the government.&#34; This is a case of believing a bold premise with no evidence, merely because it fits the believer's worldview &#8212; a characteristic that seems common among conspiracy believers.&#10;&#10;3. Simple fallacies of logic:&#10;(a) &#34;No tall building had ever collapsed from fire. Therefore WTC7 could not have collapsed from fire.&#34; There is a first time for everything. Equivalent: &#34;No species before humans had ever invented the computer. Therefore humans could not have invented the computer.&#34;&#10;(b) &#34;Other tall buildings burned without collapsing; therefore WTC7 could not have collapsed due to fire.&#34; Besides the fact that these other cases were more fire-robust than the all-steel-framed WTC7, just because something does not always happen does not mean it will never happen. Equivalent: &#34;There exist primates that have not invented computers. Therefore humans could not have invented the computer.&#34;&#10;(c) &#34;The government has lied before, therefore it must have lied about 9/11.&#34; Just because A has done B does not imply that A always does B. Equivalent: &#34;The government must have also lied when it said aspirin is safe and effective.&#34;&#10;(d) &#34;Prove that it wasn't a controlled demolition.&#34; The burden of proof is on the person making the assertion. Equivalent: &#34;Prove that humans are not descended from reptiles of the planet Nbiru.&#34;"
     channeltitle "EdwardCurrent"
     channelid "UC20U2rjFhakOCOlvJn0MAGg"
@@ -2935,7 +2935,7 @@ graph
     commentcount 8445
     duration "PT3M31S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -2953,7 +2953,7 @@ graph
     commentcount 240
     duration "PT3M33S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -3025,7 +3025,7 @@ graph
     commentcount 0
     duration "PT11M36S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     commentcount 920
     duration "PT8M35S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -3061,7 +3061,7 @@ graph
     commentcount 25
     duration "PT4M17S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3079,7 +3079,7 @@ graph
     commentcount 2
     duration "PT58S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -3115,7 +3115,7 @@ graph
     commentcount 1
     duration "PT3M45S"
     indegree 0
-    cluster 3
+    cluster 8
   ]
   node
   [
@@ -3133,7 +3133,7 @@ graph
     commentcount 516
     duration "PT15M22S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3151,7 +3151,7 @@ graph
     commentcount 3
     duration "PT1M"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3169,7 +3169,7 @@ graph
     commentcount 836
     duration "PT3M28S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3177,7 +3177,7 @@ graph
     label "b4z-Wrp1pY8"
     step 0
     date "2009-05-19T06:43:57Z"
-    title "Kevin Mcpadden 9/11 First Responder: Building 7 Countdown, E tongue sticking out losions, Controlled Demolition"
+    title "Kevin Mcpadden 9/11 First Responder: Building 7 Countdown, Explosions, Controlled Demolition"
     description "Kevin Mcpadden experienced the collapse of WTC 7 firsthand. He was told that Building 7 was going to be brought down. He heard the countdown to the controlled demolition, heard the explosions, felt the ground shake, and ran from the smoke. Filmed at the World Trade Center in New York, he stands below where the Twin Towers used to stand, part of a feature documentary &#34;The Elephant In the Room&#34;.&#13;&#10;&#13;&#10;The Elephant in the Room is a documentary following British filmmaker Dean Puckett through his journey into the 9/11 Truth Movement: a global movement of 'conspiracy theorists' who hold as their primary belief that the official explanation about what happened on 9/11 is totally or partially inaccurate. The filmmakers travel from middle England, across Europe and to New York for the six year anniversary of the attacks, where the film takes one final twist as we are introduced to the 9/11 first responders who are suffering from various grave health difficulties due to the toxic dust that they breathed in trying to help their country during the weeks after this tragic event. Told with a personal hands on approach that avoids advancing any one position, the film asks the question: Are these crazy conspiracy theorists? Or is 9/11 Truth a credible political movement?"
     channeltitle "911TruthVideos"
     channelid "UCExZBT0BpFdRlR59WbrxM_g"
@@ -3187,7 +3187,7 @@ graph
     commentcount 29
     duration "PT2M38S"
     indegree 0
-    cluster 8
+    cluster 4
   ]
   node
   [
@@ -3205,7 +3205,7 @@ graph
     commentcount 7
     duration "PT9M1S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -3223,7 +3223,7 @@ graph
     commentcount 11
     duration "PT3M33S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3267,7 +3267,7 @@ graph
     label "HV1dVA0nhr8"
     step 0
     date "2021-04-21T08:28:06Z"
-    title "9/11 Advance Knowledge - The BBC Building 7"
+    title "9/11 Advance Knowledge - The BBC  Building 7"
     description "The BBC's Jane Stanley reports the collapse of the Saloman Brothers building, now known as WTC-7 or simply Building 7, around twenty minutes before it actually collapsed on 9/11. As the BBC reports the collapse, the building can still be seen smoking but standing behind Stanley.&#10;A recent University of Alaska study on the anomalous collapse of Building 7 showed the NIST claims that the building collapsed due to fire &#38; fire alone is wrong. &#34;The principal conclusion of our study is that fire did not cause the collapse of WTC 7 on 9/11, contrary to the conclusions of NIST and private engineering firms that studied the collapse. The secondary conclusion of our study is that the collapse of WTC 7 was a global failure involving the near-simultaneous failure of every column in the building.&#34; - https://ine.uaf.edu/wtc7"
     channeltitle "Alternative Narrative"
     channelid "UCnkuYv7Zjxn1g1hbcESqXQQ"
@@ -3295,7 +3295,7 @@ graph
     commentcount 39
     duration "PT15M46S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3313,7 +3313,7 @@ graph
     commentcount 1031
     duration "PT1M"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3339,7 +3339,7 @@ graph
     label "Zk3YUb1HCE4"
     step 0
     date "2020-07-14T00:54:39Z"
-    title "Demolition E tongue sticking out erts Reaction; Building 7 Collapse on 9/11"
+    title "Demolition Experts Reaction; Building 7 Collapse on 9/11"
     description "Danny Jowenko is a Dutch Demolition Expert and his REACTION WHEN SEEING THE COLLAPSE OF BUILDING 7 FOR THE FIRST TIME, INCREDIBLE. HE WAS LATER KILLED WHEN HIS CAR 'HIT A TREE'. RIP DANNY, &#38; THANKYOU"
     channeltitle "Crypto Knight"
     channelid "UC91lZeN3K7Wy8GnqFImfFBA"
@@ -3349,7 +3349,7 @@ graph
     commentcount 0
     duration "PT2M37S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -3367,7 +3367,7 @@ graph
     commentcount 0
     duration "PT48S"
     indegree 0
-    cluster 5
+    cluster 2
   ]
   node
   [
@@ -3403,7 +3403,7 @@ graph
     commentcount 93
     duration "PT9M11S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3421,7 +3421,7 @@ graph
     commentcount 1527
     duration "PT8M10S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3439,7 +3439,7 @@ graph
     commentcount -1
     duration "PT35M39S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -3457,7 +3457,7 @@ graph
     commentcount 7
     duration "PT2M17S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3493,7 +3493,7 @@ graph
     commentcount 1
     duration "PT17M28S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3501,7 +3501,7 @@ graph
     label "CmrjJaIb_6k"
     step 0
     date "2014-08-27T08:39:20Z"
-    title "9/11 Building 7 Controlled Demolition E tongue sticking out osed on C-SPAN, Aug 2014"
+    title "9/11 Building 7 Controlled Demolition Exposed on C-SPAN, Aug 2014"
     description "Originally broadcast on C-SPAN.  The use of media materials is protected by the Fair Use Clause of the U.S. Copyright Act of 1976, which allows for the rebroadcast of copyrighted materials for the purpose of commentary, criticism, and education. &#10;&#10;The implications of this evidence revealed on C-SPAN affects much of U.S. domestic and foreign policy since 2001.  It also involves the death of some 3,000 American citizens during the incident in question, and the subsequent use of United States military resources, the invasion of several countries negatively impacting millions of innocent people, and a dramatic erosion of US civil liberties at home based upon an incident which is now know to be based on a false narrative. &#10;&#10;The evidence highlighted requires a much larger investigation and follow-up after careful consideration of the truth and the evidence at hand.  Based on the conclusions, appropriate action must be taken against those who are at fault."
     channeltitle "faithmix"
     channelid "UCZDk9ub6AuNtGqDeANXvyaQ"
@@ -3511,7 +3511,7 @@ graph
     commentcount 1
     duration "PT40M10S"
     indegree 0
-    cluster 9
+    cluster 7
   ]
   node
   [
@@ -3519,7 +3519,7 @@ graph
     label "AgksqYdRCPU"
     step 0
     date "2012-02-23T03:48:37Z"
-    title "Building 7 Collapse E tongue sticking out loding Twin Tower on 9/11 at World Trade Center David Chandler"
+    title "Building 7 Collapse  Exploding Twin Tower on 9/11 at World Trade Center David Chandler"
     description "See http://www.youtube.com/user/Destitutebroadcast for more videos.&#10;&#10;This video shows the 3rd tower WTC7 that collapsed at free-fall speed and the North Tower explosively demolished and it's concrete floors pulverized to dust. &#10;&#10;David Chandler discussed the WTC7 collapse in greater detail and analyzed the North Tower's explosions on two separate occasions. &#10;David did not object to my combining the two talks.&#10;&#10;World Trade Center &#10;Building 7 &#10;controlled demolition&#10;9/11 &#10;Twin Towners explode&#10;WTC7 collapse&#10;911 False Flag&#10;Reichstag Fire"
     channeltitle "Destitutebroadcast"
     channelid "UC9O0UYrdvqCOplMXEaErOUA"
@@ -3529,7 +3529,7 @@ graph
     commentcount 1
     duration "PT8M4S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -3565,7 +3565,7 @@ graph
     commentcount 0
     duration "PT3M33S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3583,7 +3583,7 @@ graph
     commentcount 0
     duration "PT15M39S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -3601,7 +3601,7 @@ graph
     commentcount -1
     duration "PT9M50S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3619,7 +3619,7 @@ graph
     commentcount 0
     duration "PT3M28S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3637,7 +3637,7 @@ graph
     commentcount 9
     duration "PT3M8S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3645,7 +3645,7 @@ graph
     label "eJBUedWFJ40"
     step 0
     date "2011-09-15T14:34:01Z"
-    title "PROOF of WTC Building 7 E tongue sticking out losive Charges Going Off!!"
+    title "PROOF of WTC Building 7 Explosive Charges Going Off!!"
     description "In this video, you can see the bombs going off in WTC Building Seven which caused it to collapse. 9/11 was an inside job, wake up people and take back what has been stolen from you!"
     channeltitle "TheFactsoverFiction"
     channelid "UCsSlm9Qp6uLgOXOBF-Vd_7g"
@@ -3655,7 +3655,7 @@ graph
     commentcount 104
     duration "PT48S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3673,7 +3673,7 @@ graph
     commentcount 0
     duration "PT8M10S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -3691,7 +3691,7 @@ graph
     commentcount 25
     duration "PT16M54S"
     indegree 0
-    cluster 6
+    cluster 4
   ]
   node
   [
@@ -3709,7 +3709,7 @@ graph
     commentcount 6
     duration "PT17M57S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     commentcount 0
     duration "PT9M1S"
     indegree 0
-    cluster 5
+    cluster 4
   ]
   node
   [
@@ -3763,7 +3763,7 @@ graph
     commentcount 5
     duration "PT6M10S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -3799,7 +3799,7 @@ graph
     commentcount 54
     duration "PT21M23S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3807,7 +3807,7 @@ graph
     label "uI5HjltI_xw"
     step 0
     date "2022-04-05T07:50:34Z"
-    title "Early WTC Building 7 E tongue sticking out losion Reports"
+    title "Early WTC Building 7 Explosion Reports"
     description "Early WTC Building 7 Explosion Reports"
     channeltitle "Rare 9/11 Facts"
     channelid "UCOch_SItPku1FqXKLMe9lqg"
@@ -3817,7 +3817,7 @@ graph
     commentcount 0
     duration "PT9M51S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -3835,7 +3835,7 @@ graph
     commentcount -1
     duration "PT8M13S"
     indegree 0
-    cluster 3
+    cluster 9
   ]
   node
   [
@@ -3871,7 +3871,7 @@ graph
     commentcount 0
     duration "PT9M9S"
     indegree 0
-    cluster 10
+    cluster 6
   ]
   node
   [
@@ -3889,7 +3889,7 @@ graph
     commentcount 2
     duration "PT15M"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -3915,7 +3915,7 @@ graph
     label "1CJQDXZ-RzM"
     step 0
     date "2010-09-20T08:17:38Z"
-    title "9/11 - LOWKEY on building 7, controlled demolition, nano thermite PLUS Richard Gage"
+    title "9/11 - LOWKEY on building 7, controlled demolition,  nano thermite PLUS Richard Gage"
     description "9/11 - LOWKEY on building 7, controlled demolition, &#38; nano thermite PLUS Richard Gage&#13;&#10;&#13;&#10;1. Do you know about OPERATION NORTHWOODS?&#13;&#10;2. How can you look at the way the THREE world trade center buildings fell &#38; not see controlled demolition?&#13;&#10;3. What caused building 7 to fall?&#13;&#10;4. Where did the nano thermite come from?&#13;&#10;5. Who were the people arrested on the George Washington Bridge &#38; what did they have in their van?&#13;&#10;&#13;&#10;high profile people who have acknowledged the ISRAELI MOSSAD involvement in the  9/11 attacks&#13;&#10;&#13;&#10;I can list several off the top of my head:&#13;&#10;&#13;&#10;former head of the US ARMY WAR COLLEGE, Dr Alan Sabrosky&#13;&#10;former PRESIDENT OF ITALY, Francesco Cossiga&#13;&#10;former MI5 agent, Annie Machon&#13;&#10;renowned BBC correspondent Alan Hart&#13;&#10;US Marine Ken O'keefe&#13;&#10;&#13;&#10;there are more, but these are the ones I can list off the top of my head"
     channeltitle "TheFlex21"
     channelid "UCNA357ElFO86UBlE3HwN9AA"
@@ -3925,7 +3925,7 @@ graph
     commentcount 5
     duration "PT4M25S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3943,7 +3943,7 @@ graph
     commentcount 1
     duration "PT3M28S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -3997,7 +3997,7 @@ graph
     commentcount 29
     duration "PT7M17S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4033,7 +4033,7 @@ graph
     commentcount 0
     duration "PT9M9S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -4051,7 +4051,7 @@ graph
     commentcount 2
     duration "PT12M35S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -4069,7 +4069,7 @@ graph
     commentcount 105
     duration "PT59M1S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4095,7 +4095,7 @@ graph
     label "7ak-fI7HH0c"
     step 0
     date "2020-05-23T17:45:04Z"
-    title "Danny Jowenko DEMOLITION E tongue sticking out ERT SAYING ON RECORD BUILDING 7 ON 9 11 WAS A CONTROLLED DEMOLITION"
+    title "Danny Jowenko DEMOLITION EXPERT SAYING ON RECORD BUILDING 7 ON 9 11 WAS A CONTROLLED DEMOLITION"
     description ""
     channeltitle "Behold A Pale Horse"
     channelid "UCEKpsEAAHms6uX4AtYOOQcg"
@@ -4123,7 +4123,7 @@ graph
     commentcount 0
     duration "PT3M28S"
     indegree 0
-    cluster 5
+    cluster 1
   ]
   node
   [
@@ -4195,7 +4195,7 @@ graph
     commentcount 6
     duration "PT4M50S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -4213,7 +4213,7 @@ graph
     commentcount 4
     duration "PT14M40S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -4249,7 +4249,7 @@ graph
     commentcount 24
     duration "PT56M27S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -4267,7 +4267,7 @@ graph
     commentcount 2
     duration "PT4M45S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -4285,7 +4285,7 @@ graph
     commentcount 0
     duration "PT4M24S"
     indegree 0
-    cluster 8
+    cluster 6
   ]
   node
   [
@@ -4293,7 +4293,7 @@ graph
     label "iesJHl-FnmI"
     step 0
     date "2015-03-23T15:34:48Z"
-    title "Follow the MONEY The Corbett Report"
+    title "Follow the MONEY  The Corbett Report"
     description "Check Out My INFO WAR - DOCUMENTARIES PLAY LIST &#10;http://www.youtube.com/playlist?list=PLZWK79zvK-Z3raAqBgpQoFzyjsEqkNA9Y&#10;Please visit the FACEBOOK page http://www.facebook.com/WeWontGetFooledAgain &#10;Corbett Report YouTube Channel https://www.youtube.com/user/corbettreport/featured&#10;Who Was Really Behind the 9/11 Attacks? &#10;https://www.youtube.com/watch?v=mWLis-TVB2w&#10;&#10;July 2001! - U.S. plans to invade Afghanistan for an attack on Osama bin Laden and the Taliban by October 2001.&#10;a) http://news.bbc.co.uk/2/hi/south_asia...&#10;b) http://www.guardian.co.uk/world/2001/...&#10;&#10;Sep 4, 2001 - The White House approves plans to invade Afghanistan&#10;http://www.usatoday.com/news/washington/2004-03-23-war-analysis_x.htm&#10;&#10;Sep 5, 2001 - U.S. pulls the plug on Muslim websites.&#10;http://www.guardian.co.uk/technology/2001/sep/10/internetnews.worlddispatch&#10;&#10;Friday, 7 September, 2001 - FBI accused of anti-Muslim bias&#10;http://news.bbc.co.uk/2/hi/science/nature/1530361.stm&#10;&#10;Sep10, 2001 - The White House's battle plan to invade Afghanistan and topple the Taliban and Osama bin Laden awaits President Bush's approval&#10;http://www.msnbc.msn.com/id/4585010/&#10;&#10;Kissinger &#38; Carlyle Group Connections to yet more financial interests:&#10;http://911review.com/articles/ryan/carlyle_kissinger_saic_halliburton.html&#10;&#10;Rumsfeld Trillions:&#10;1. September 10, 2001 - Secretary of Defense Donald Rumsfeld announces that the Pentagon has lost track of $2.3 TRILLION DOLLARS of military spending. http://www.cbsnews.com/stories/2002/01/29/eveningnews/main325985.shtml&#10;http://www.defenselink.mil/speeches/2001/s20010910-secdef.html&#10;9/10/2001: Rumsfeld says $2.3 TRILLION Missing from Pentagon (DOD) (Live footage of the speech)&#10;http://www.youtube.com/watch?v=xU4GdHLUHwU&#10;&#10;&#10;1. September 6, 2001 - Large number of &#34;put&#34; options are placed on United Airlines stock betting that the stock price would fall.&#10;a) http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/09/29/MN186128.DTL&#10;b) http://tinyurl.com/ygxsls8 (Chicago Tribune)&#10;&#10;2. September 6, 2001 - Some of the put options placed on United Airlines stock were purchased through the investment banking firm of Deutsche Banc Alex. Brown in which the current Executive Director of the CIA, A.B. &#34;Buzzy&#34; Krongard, used to be the company's CEO up until 1998.&#10;http://web.archive.org/web/20041011182446/http://www.cia.gov/cia/information/krongard.htm&#10;(CIA.gov took this down in 2005, Why?)&#10;&#10;3.  All the proof you need. (Insider Trading) &#10;http://tvnewslies.org/html/9_11_-_all_the_proof_you_need.html/&#10;&#10;Ex. CIA-director, former President, and President Bush's Dad, George H.W. Bush, meets with one of Osama Bin Laden's brothers at a Carlyle business conference in Washington D.C.&#10;http://www.guardian.co.uk/theobserver/2002/jun/16/features.magazine57/&#10;http://www.economist.com/books/displaystory.cfm?story_id=1875084/&#10;&#10;9/11 - Sen. Bob Graham (D-FL) and Rep. Porter Goss (R-FL) -- the chairmen of the Senate and House Intelligence Committees -- along with Sen. John Kyl (R-AZ) and some other members of the House Intelligence Committee are in a meeting at the Capital building with the director of Pakistani intelligence (ISI), Lt. Gen. Mahmud Ahmad, who authorized a $100,000 wire transfer to alleged lead 9/11 hijacker, Mohamed Atta.&#10;http://www.salon.com/politics/feature/2001/09/14/human_spies/index.html/&#10;&#10;Any Broken Links use: http://www.Archive.org/&#10;&#10;Major Federal Reserve motivations for 9/11:&#10;Iraq nets handsome profit by dumping Dollar for Euro:&#10;http://www.guardian.co.uk/business/2003/feb/16/iraq.theeuro/&#10;&#10;U.N. to let Iraq sell oil for euros:&#10;http://www.defenseindustrydaily.com/commanders-in-iraq-urgently-request-renewable-power-options-02548/&#10;http://www.energybulletin.net/node/7707/&#10;&#10;Cheney, Energy, and Iraq Invasion (Supreme Court)&#10;http://articles.sfgate.com/2004-03-21/opinion/17417765_1_russia-s-lukoil-judicial-watch-future-oil/&#10;&#10;Henry Kissinger&#10;1. November 29, 2002 - President Bush names former Secretary of State, former National Security advisor, and former Unocal consultant Henry Kissinger to head the &#34;independent&#34; 9/11 investigations. &#10;http://archives.cnn.com/2002/ALLPOLITICS/11/27/intelligence.probe/index.html&#10;http://www.cbsnews.com/stories/2002/12/12/politics/main532794.shtml&#10;&#10;2. December 12, 2002 - Democrats want Henry Kissinger to name his business clients. &#10;http://www.cbsnews.com/news/dems-want-kissinger-to-name-clients/&#10;&#10;December 13, 2002 - Henry Kissinger resigns as head of 9/11 commission. &#10;http://news.bbc.co.uk/2/hi/americas/2574741.stm&#10;&#10;Norad Wargames:&#10;1. 9/11 (6:00 am) - NORAD was in day two of a week long exercise called &#34;Vigilant Guardian&#34; in which some of it's military participants thought the first reports of the hijackings later on in the day were &#34;part of the exercise.&#34;"
     channeltitle "We Wont Get Fooled Again"
     channelid "UCHVZieiuuekr2_pGDLT8Glg"
@@ -4321,7 +4321,7 @@ graph
     commentcount 0
     duration "PT57S"
     indegree 0
-    cluster 3
+    cluster 1
   ]
   node
   [
@@ -4329,7 +4329,7 @@ graph
     label "90ip8LquBIM"
     step 0
     date "2012-03-30T16:03:54Z"
-    title "HOW AND WHY DID WTC 7 WORLD TRADE CENTER BUILDING 7 WAS DOWN?"
+    title "HOW AND WHY DID WTC 7 WORLD TRADE CENTER BUILDING 7 WAS  DOWN?"
     description "Solomon's Brothers Building. &#10;On September 11 2001 extrange things happened in the skies of Lady Liberty and the Land of the Free... &#10;IN WTC7 THE OFFICE INVESTIGATING INSIDE TRADE AND MISHANDLING OF THE SEC WERE DESTROYED BY FIRE AND THEN BY THE BUILDING'S COLLAPSE...&#10;THE BBC even reported its collapse 10 MINUTES BEFORE OCCURRED!!!&#10;How DO you ORDER TO PULL a 50 stories tall building on the spot?&#10;LARRY, YOU ARE THE MAN!&#10;On July 24th 2001 - 6 WEEKS BEFORE THE &#34;TERRORIST ATTACK&#34; - Larry A: Silverstein Renwed the Lease for the WTC BUILDINGS including a suspicious specific clause for Act of Terrorists!&#10;This video - courtesy of Dr. Robert M. Bowman web site - is free to download, to copy and to share at: http://www.thepatriots.us/"
     channeltitle "ATTOPONE"
     channelid "UCryU1Xbc6VVyWeXNO62bImg"
@@ -4339,7 +4339,7 @@ graph
     commentcount 10
     duration "PT2M55S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -4375,7 +4375,7 @@ graph
     commentcount 2090
     duration "PT47M1S"
     indegree 0
-    cluster 1
+    cluster 3
   ]
   node
   [
@@ -4411,7 +4411,7 @@ graph
     commentcount 15
     duration "PT27S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -4429,7 +4429,7 @@ graph
     commentcount 0
     duration "PT11M1S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -4437,7 +4437,7 @@ graph
     label "UwaKvlBS7B0"
     step 0
     date "2011-01-23T18:27:17Z"
-    title "911 Mysteries-WTCs 1, 2 and BUILDING 7 were planted with E tongue sticking out LOSIVES by the U.S. Government!"
+    title "911 Mysteries-WTCs 1, 2 and BUILDING 7 were planted with EXPLOSIVES by the U.S. Government!"
     description "Douglas Bickford 360-773-1318  Whitehouse 202-456-1414"
     channeltitle "DandDBroadCasting43"
     channelid "UCgxG6Px9MhvJRUEpdJnSe9g"
@@ -4447,7 +4447,7 @@ graph
     commentcount 3
     duration "PT1H30M42S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -4465,7 +4465,7 @@ graph
     commentcount 0
     duration "PT10M6S"
     indegree 0
-    cluster 10
+    cluster 8
   ]
   node
   [
@@ -4473,7 +4473,7 @@ graph
     label "tlRmaUCE8sM"
     step 0
     date "2010-08-19T01:15:46Z"
-    title "Building 7 - Sound Evidence for E tongue sticking out losions (10 min)"
+    title "Building 7 - Sound Evidence for Explosions (10 min)"
     description "High school physics teacher refutes the claim made by the National Institute of Standards and Technology (NIST) that there was no evidence of explosions by examining eyewitness accounts and sound recordings on a nearby microphone.  Mr. Chandler also reviews the various news reports showing foreknowledge that Building 7 would come down."
     channeltitle "BuildingWhat"
     channelid "UCygqn62_I9q51mgFE9UWKAA"
@@ -4483,7 +4483,7 @@ graph
     commentcount -1
     duration "PT9M57S"
     indegree 0
-    cluster 4
+    cluster 9
   ]
   node
   [
@@ -4491,7 +4491,7 @@ graph
     label "5ArcMOkuoK0"
     step 0
     date "2009-06-07T04:54:18Z"
-    title "Building 7: Truth Lies of 9/11. Architect Richard Gage Speaks of Freefall Speed E tongue sticking out losions"
+    title "Building 7: Truth  Lies of 9/11. Architect Richard Gage Speaks of Freefall Speed Explosions"
     description "WTC 7 collapsed rapidly and symmetrically, even though fires were randomly scattered in the building. WTC 7 fell about seven hours after the Towers collapsed, even though no major persistent fires were visible.&#13;&#10;&#13;&#10;There were twenty-four huge steel support columns inside WTC 7 as well as huge trusses, arranged asymmetrically, along with approximately 57 perimeter columns. A symmetrical collapse, as observed, evidently requires the simultaneous pulling of most or all of the support columns. &#13;&#10;&#13;&#10;The Second Law of Thermodynamics implies that the likelihood of complete and symmetrical collapse due to random fires as in the official theory is small, since asymmetrical failure is so much more likely. On the other hand, a major goal of controlled demolition using explosives is the complete and symmetrical collapse of buildings.&#13;&#10;&#13;&#10;Concluding remarks in the FEMA report on the WTC 7 collapse lend support to my arguments:&#13;&#10;&#13;&#10;The specifics of the fires in WTC 7 and how they caused the building to collapse [official theory] remain unknown at this time. Although the total diesel fuel on the premises contained massive potential energy, the best hypothesis [fire/damage-caused collapse] has only a low probability of occurrence. Further research, investigation, and analyses are needed to resolve this issue.&#13;&#10;&#13;&#10;- Steven Jones&#13;&#10;&#34;Why Indeed Did the WTC Buildings Collapse?&#34;&#13;&#10;Department of Physics and Astronomy&#13;&#10;Brigham Young University"
     channeltitle "911TruthVideos"
     channelid "UCExZBT0BpFdRlR59WbrxM_g"
@@ -4501,7 +4501,7 @@ graph
     commentcount 16
     duration "PT10M9S"
     indegree 0
-    cluster 7
+    cluster 5
   ]
   node
   [
@@ -4527,7 +4527,7 @@ graph
     label "Yd9iv9sHPm8"
     step 0
     date "2022-06-11T16:15:09Z"
-    title "The Hidden Path To 9/11 - WTC BOMBING OF 1993: False Flag Terrorism, Cover-Ups, Missing Links Pt 1"
+    title "The Hidden Path To 9/11 - WTC BOMBING OF 1993: False Flag Terrorism, Cover-Ups,  Missing Links Pt 1"
     description "[Part 1 - Egypt and rise of Muslim Brotherhood - Call for Modern Jihad - Tradebom]&#10;&#10;1. - The Last Man Out of 9/11 - 1993 Intro&#10;2. 13:37 - Story of Sayyid Qutb: Nasserism Vs. The Muslim Brotherhood&#10;3. 23:44- Sadat Vs. Islamic Jihad -  Rise of the Blind Sheikh and Ayman al-Zawahiri&#10;4. 33:34 - Afghan War and the Mujahedeen - The fall of Abdullah Azzam and the rise of Bin Laden&#10;5. 42:30 - The story of Sheik Omar Abdel Rahman and his move to the U.S.&#10;6. 48:10 - El Sayyid Nosair assassinates Rabbi Meir Kahane [Nov 5, 1990]&#10;7. 54:18 - Murder of Mustafa Shalaby + Ali Mohamed &#38; Wadih El-Hage pre-1993 activities&#10;8. 59:53 - Funding, Defense, and Verdict of Nosair's case 1991 + Kahane supporters' reactions&#10;9. 01:10:18 - Meet Egyptian FBI informant, Emad Salem - Infiltrating Nosair's circles&#10;10. 01:19:27 - 1992 - Ramzi Yousef first arrives in the U.S. at JFK Airport - Preparations to build a bomb&#10;11. 01:26:51 - Feb 26, 1993, BOOM! - The Bombing of the World Trade Center&#10;12. 01:38:05 - Bomb and Ryder Van detections lead to arrests&#10;13. 01:44:43 - Nabbing the first 3 suspects; Mohamed Salameh, Nidal Ayyad, and Ibrahim Elgabrowny&#10;14. 01:53:25 - Blind Sheikh speaks + capture of Mahmoud Abouhalima and surrender of Bilal Alkaisi&#10;&#10;The Hidden Path To 9/11 - WORLD TRADE CENTER BOMBING OF 1993: False Flag Terrorism, Cover-Ups, and Missing Links is a 4 part expansive revised film produced and narrated by Thermal Detonator (Truther TV /We Are Change LA) with writing, research, and narration assistance by Adam Fitzgerald (The Darkened Hour: https://adamfitzgerald.podbean.com/). &#8216;The Hidden Path&#8230;&#8217; is a compendium of other documentaries originating from Truther TV's &#8216;AN INCONVENIENT 9/11 TRUTH [Part II]: Roads from NYC to OKC&#8217; [2015]. This film is not just about the 1993 WTC bombing but also a chain of events before and right after, including some instances on the cusp of the September 11th attacks&#8230;&#10;&#10;The remaining parts of the film will be released in the next coming months by the coming 21-year anniversary of 9/11 on September 11th, 2022.&#10;&#10;Please consider donating or becoming a Patreon if you would like to see improvements, as well as advanced viewing of the film: https://www.patreon.com/thermaldetonator&#10;&#10;For questions regarding info on how to get a DVD or file, or if you'd like to donate and contribute to more film-making and collecting archives, email, or Paypal: wacwood@gmail.com. Please subscribe to the channels. Thank you for viewing."
     channeltitle "Truther TV"
     channelid "UCGeJFkzITCvgspePZPfngTw"
@@ -4537,7 +4537,7 @@ graph
     commentcount 32
     duration "PT2H1M59S"
     indegree 0
-    cluster 6
+    cluster 3
   ]
   edge
   [
