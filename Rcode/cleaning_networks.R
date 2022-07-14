@@ -1,6 +1,7 @@
 library('dplyr')
 library('igraph')
 library('textclean')
+library('DescTools')
 
 
 ## FUNCTIONS ----
@@ -31,11 +32,12 @@ get_network_metadata <- function(g, networkName=NA){
   MD1 <- data.frame(
     name = networkName,
     size_clean = length(V(g)),
-    num_components = components$no,
-    size_largest_component = components$csize[which.max(components$csize)],
+    components = components$no,
+    size = components$csize[which.max(components$csize)],
     isolates = sum(components$csize[components$csize==1]),
     avg_degree_clean = mean(degree(g)),
-    viewcount_clean = sum(V(g)$view_count)
+    viewcount_clean = sum(V(g)$view_count),
+    gini_clean = Gini(V(g)$view_count)
   )
   
   # selecting largest connected component
@@ -49,7 +51,8 @@ get_network_metadata <- function(g, networkName=NA){
     no_clusters = length(unique(cl$membership)),
     modularity = cl$modularity[1],
     avg_degree = mean(degree(g)),
-    viewcount = sum(V(g)$view_count)
+    viewcount = sum(V(g)$view_count),
+    gini = Gini(V(g)$view_count)
   )
 
   return(cbind(MD1,MD2))  

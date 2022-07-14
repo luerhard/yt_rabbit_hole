@@ -14,16 +14,14 @@ conspiracy_topics <- c("plandemic","5g_covid","is_earth_flat","pizzagate",
   "adrenochrome","qanon","chemtrails","great_replacement_theory",
   "9_11_building_7","death_elvis_presley")
 noncontroversial_topics <- c("how_to_draw","ab_workout","warrior_cats",
-                             "vintage_jewelry","pokemon_go","minecraft",
-                             "wordle","van_life_us","power_tools",
-                             "urban_gardening")
+  "vintage_jewelry","pokemon_go","minecraft","wordle","van_life_us",
+  "power_tools","urban_gardening")
 news_topics <- c("dominion_voting_system","roe_v_wade","critical_race_theory",
-                 "johnny_depp_amber_heard_trial","vaccine_mandate",
-                 "derek_chauvin","baby_formula","transgender","antifa",
-                 "gas_prices")
+  "johnny_depp_amber_heard_trial","vaccine_mandate","derek_chauvin",
+  "baby_formula","transgender","antifa","gas_prices")
 science_topics <- c("game_theory","filter_bubbles","nft","climate_change",
-                    "monkeypox_virus","nanotechnology","blockchain",
-                    "machine_learning","autism","tourette_syndrome")
+  "monkeypox_virus","nanotechnology","blockchain","machine_learning","autism",
+  "tourette_syndrome")
 
 df$category[df$name %in% conspiracy_topics] <- "conspiracy"
 df$category[df$name %in% noncontroversial_topics] <- "non-controversial"
@@ -36,7 +34,7 @@ df$name <- gsub("_"," ",df$name)
 
 ## PLOTTING ----
 
-ggplot(df, aes(x=category, y=size_largest_component, label=name)) +
+ggplot(df, aes(x=category, y=size, label=name)) +
   stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
   stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
   ylab('# of videos (LCC)') +
@@ -78,8 +76,22 @@ ggplot(df, aes(x=category, y=viewcount, label=name)) +
   ylab('total # of views') +
   geom_text(color = '#658DA0', size=3, alpha=1)
 
+ggplot(df, aes(x=category, y=gini_clean, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
+  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
+  ylab('gini of viewcount (clean)') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
+
+ggplot(df, aes(x=category, y=gini, label=name)) +
+  stat_summary(fun = mean, geom = "bar", fill='#BED1DB', color='black') + 
+  stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
+  ylab('gini of viewcount (LCC)') +
+  geom_text(color = '#658DA0', size=3, alpha=1)
 
 
-summary(lm(avg_degree ~ category + viewcount + size_largest_component, data=df))
+## STATISTICAL MODELS ----
+
+summary(lm(gini ~ category + viewcount + size, data=df))
+summary(lm(avg_degree ~ category + viewcount + size, data=df))
 # problems: viewcount on video level related to indegree, 
 
