@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 18:33:00 2022"
+Creator "igraph version 1.3.1 Fri Jul 15 01:39:23 2022"
 Version 1
 graph
 [
@@ -6,7 +6,33 @@ graph
   node
   [
     id 0
-    name "1"
+    label "pyUQP-R48yg"
+    step 0
+    date "2022-07-08T19:14:03Z"
+    title "The Great Replacement Theory Explained"
+    description "Mr. Beat explains the Great Replacement Theory and how manipulative propaganda fools us into believing white nationalist talking points.&#10;&#10;Produced by Matt Beat. All images and video by Matt Beat, used under fair use guidelines, or found in the public domain. Animations by Rob Bellon. Illustrations by Omar K. Music by @Electric Needle Room (Mr. Beat's band), @bad snacks, and @TrackTribe. A special thanks to Define American for support with this video and Shauna Siggelkow, Beth Goldberg, and Brian Hughes.&#10;&#10;Sources/further reading:&#10;https://www.scientificamerican.com/article/race-is-a-social-construct-scientists-argue/ &#10;https://www.science.org/content/article/how-europeans-evolved-white-skin &#10;https://www.pewresearch.org/politics/2011/08/30/section-1-a-demographic-portrait-of-muslim-americans/ &#10;https://www.ispu.org/who-are-white-muslims/ &#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4641149/&#10;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969091/ &#10;https://www.thejournal.ie/debunk-flight-afghanistan-men-5525177-Aug2021/ &#10;https://www.snopes.com/fact-check/isis-flag-refugees-germany/ &#10;https://www.hamhigh.co.uk/news/camden-council-appoints-mayor-sabrina-francis-7947908 &#10;https://immigrationforum.org/wp-content/uploads/2021/12/Replacement-Theory-Explainer-1122.pdf&#10;https://www.adl.org/resources/backgrounders/the-great-replacement-an-explainer&#10;https://en.wikipedia.org/wiki/Great_Replacement&#10;https://www.newyorker.com/magazine/2017/12/04/the-french-origins-of-you-will-not-replace-us&#10;https://www.youtube.com/watch?v=G8LGX8o2fw8 &#10;https://scholar.princeton.edu/sites/default/files/lboustan/files/aeri.20190079.pdf&#10;https://rumble.com/vmvv07-tucker-carlson-blasts-biden-for-championing-the-so-called-great-replacement.html &#10;https://nationalvanguard.org/2017/02/whites-the-new-visible-minority/&#10;https://rhyclearinghouse.acf.hhs.gov/sites/default/files/docs/20068-The_Adaptation_of_Migrant.pdf &#10;&#10;For business inquiries or to send snail mail to Mr. Beat: &#10;https://www.iammrbeat.com/contact.html&#10;https://www.youtube.com/c/iammrbeat/about&#10;&#10;Buy Mr. Beat merch:&#10;https://matt-beat-shop.fourthwall.com/&#10;https://www.bonfire.com/store/mr-beat/&#10;https://sfsf.shop/support-mrbeat/&#10;&#10;Buy Mr. Beat's book:&#10;https://amzn.to/386g7cz&#10;&#10;How to support Mr. Beat: &#10;Donate to Mr. Beat for great perks on Patreon: https://www.patreon.com/iammrbeat&#10;Donate to Mr. Beat on Paypal: https://www.paypal.me/mrbeat&#10;Buy Mr. Beat a coffee: https://ko-fi.com/iammrbeat&#10;&#8220;Free&#8221; ways to show support:&#10;Subscribe to my channel&#10;Turn on notifications&#10;Like, share, and comment on my videos&#10;&#10;Connect:&#10;Mr. Beat on Cameo, yo: https://www.cameo.com/iammrbeat?qid=1...&#10;Mr. Beat on Reddit: https://www.reddit.com/r/mrbeat/&#10;Mr. Beat on Twitter: https://twitter.com/beatmastermatt&#10;Mr. Beat on Facebook: https://www.facebook.com/iammrbeat/&#10;Mr. Beat on Instagram: https://www.instagram.com/iammrbeat&#10;Mr. Beat's Discord server: https://discord.gg/g8cZPjt&#10;Mr. Beat's TikTok: https://www.tiktok.com/@iammrbeat?lan...&#10;Mr. Beat&#8217;s website: https://www.iammrbeat.com/&#10;Mr. Beat's band: http://electricneedleroom.net/&#10;Mr. Beat's Pinterest: https://www.pinterest.com/iammrbeat/&#10;Linktree: https://linktr.ee/iammrbeat&#10;&#10;#mrbeat #socialstudies #politicalscience &#10;&#10;Mr. Beat&#8217;s second channel: https://www.youtube.com/channel/UCJYl...&#10;Listen on Spotify: https://open.spotify.com/artist/62BsM...&#10;&#10;Mr. Beat favorites: &#10;POP! Icons: George Washington https://go.magik.ly/ml/11jrb/&#10;Shampoo: https://rb.gy/vlqeym&#10;Acne fighter: https://rb.gy/a6dnb0&#10;Wallet: https://shop.ekster.com/mr-beat2&#10;&#10;Recommended books: &#10;Republic, Lost by Lawrence Lessing https://go.magik.ly/ml/11jul/&#10;Truman by David McCullough https://go.magik.ly/ml/11jwc/&#10;How the States Got Their Shapes by Mark Stein https://go.magik.ly/ml/1fdvf/&#10;Command and Control by Eric Scholosser https://go.magik.ly/ml/1fdvi/&#10;The Age of Fracture by Daniel Rodgers https://go.magik.ly/ml/1fdvn/&#10;Blowback by Chalmers Johnson https://go.magik.ly/ml/1fdvw/&#10;The Third Reich at War by Richard Evans https://go.magik.ly/ml/1fdvt/&#10;Railroaded by Richard White https://go.magik.ly/ml/1fdwq/&#10;The War on Normal People by Andrew Yang https://go.magik.ly/ml/1fdwi/&#10;A Short History of Reconstruction by Eric Foner https://go.magik.ly/ml/1fdwk/&#10;The Righteous Mind by Jonathan Haidt https://go.magik.ly/ml/1fdwn/&#10;&#10;Studio equipment:&#10;Canon EOS M50 Camera EF-M 15-45mm Lens https://amzn.to/3dcNPen&#10;Samtian LED Video Light Kit https://amzn.to/3llDwHO&#10;TroyStudio Acoustic Panel https://amzn.to/33CkqHn&#10;Blue Snowball iCE USB Mic https://amzn.to/2GseOHa&#10;&#10;Affiliate Links: &#10;Useful Charts: https://usefulcharts.com/?aff=12&#10;Typesy: https://ereflect.postaffiliatepro.com...&#10;Kids Connect: https://kidskonnect.com/?ref=iammrbeat&#10;Ekster: https://ekster.com?sca_ref=444709.jvl...&#10;&#10;I use MagicLinks for all my ready-to-shop product links. Check it out here:&#10;https://www.magiclinks.com/rewards/re...&#10;FTC Disclosure: This post or video contains affiliate links, which means I may receive a commission for purchases made through my links."
+    channeltitle "Mr. Beat"
+    channelid "UCmYesELO6axBrCuSpf7S9DQ"
+    favcount 0
+    viewcount 192718
+    likecount 14118
+    commentcount 8426
+    duration "PT24M31S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.062689655
+    PERSPECTIVEPROFANITY 0.051374685
+    PERSPECTIVEFLIRTATION 0.2642034
+    PERSPECTIVETHREAT 0.09121074
+    PERSPECTIVETOXICITY 0.022213135
+    PERSPECTIVEINSULT 0.04473864
+    PERSPECTIVEIDENTITYATTACK 0.06055432
+    PERSPECTIVEINFLAMMATORY 0.10331684
+    indegree 2
+    cluster 1
+  ]
+  node
+  [
+    id 1
     label "8KB62ySUVcE"
     step 0
     date "2022-05-17T19:08:37Z"
@@ -19,24 +45,21 @@ graph
     likecount 222
     commentcount -1
     duration "PT2M47S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.031224508
+    PERSPECTIVEPROFANITY 0.048276495
+    PERSPECTIVEFLIRTATION 0.27986875
+    PERSPECTIVETHREAT 0.13482213
+    PERSPECTIVETOXICITY 0.09333697
+    PERSPECTIVEINSULT 0.09351425
+    PERSPECTIVEIDENTITYATTACK 0.1589021
+    PERSPECTIVEINFLAMMATORY 0.17929171
     indegree 27
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 1
-    name "2"
+    id 2
     label "xj1xDfJ3D_o"
     step 0
     date "2022-07-03T13:15:05Z"
@@ -49,24 +72,21 @@ graph
     likecount 779
     commentcount 667
     duration "PT7M20S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.040006544
+    PERSPECTIVEPROFANITY 0.061631095
+    PERSPECTIVEFLIRTATION 0.28738806
+    PERSPECTIVETHREAT 0.5669531
+    PERSPECTIVETOXICITY 0.1473238
+    PERSPECTIVEINSULT 0.06591297
+    PERSPECTIVEIDENTITYATTACK 0.117734045
+    PERSPECTIVEINFLAMMATORY 0.34698522
     indegree 10
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|StateFunded"
-    leftright "C"
-    cluster 2
+    cluster 3
   ]
   node
   [
-    id 2
-    name "3"
+    id 3
     label "FUripP2c5dE"
     step 0
     date "2022-05-17T03:47:56Z"
@@ -79,24 +99,21 @@ graph
     likecount 556
     commentcount 1590
     duration "PT5M47S"
+    sentiment -0.1531
+    PERSPECTIVESEXUALLYEXPLICIT 0.082848676
+    PERSPECTIVEPROFANITY 0.17129436
+    PERSPECTIVEFLIRTATION 0.30902752
+    PERSPECTIVETHREAT 0.4149035
+    PERSPECTIVETOXICITY 0.22990796
+    PERSPECTIVEINSULT 0.27369702
+    PERSPECTIVEIDENTITYATTACK 0.45740572
+    PERSPECTIVEINFLAMMATORY 0.6494217
     indegree 62
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 3
-    name "4"
+    id 4
     label "AXTys4QQvlo"
     step 0
     date "2022-05-16T13:15:00Z"
@@ -109,24 +126,21 @@ graph
     likecount 2557
     commentcount 2554
     duration "PT6M29S"
+    sentiment 0.7269
+    PERSPECTIVESEXUALLYEXPLICIT 0.058354035
+    PERSPECTIVEPROFANITY 0.045274705
+    PERSPECTIVEFLIRTATION 0.41251594
+    PERSPECTIVETHREAT 0.21012586
+    PERSPECTIVETOXICITY 0.10300289
+    PERSPECTIVEINSULT 0.052053344
+    PERSPECTIVEIDENTITYATTACK 0.1298567
+    PERSPECTIVEINFLAMMATORY 0.13876052
     indegree 48
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 4
-    name "5"
+    id 5
     label "WjuxxBRP-hM"
     step 0
     date "2021-12-01T13:46:39Z"
@@ -139,24 +153,21 @@ graph
     likecount 77
     commentcount 220
     duration "PT19M36S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.04983451
+    PERSPECTIVEPROFANITY 0.032401953
+    PERSPECTIVEFLIRTATION 0.29760635
+    PERSPECTIVETHREAT 0.13170673
+    PERSPECTIVETOXICITY 0.025692256
+    PERSPECTIVEINSULT 0.029685033
+    PERSPECTIVEIDENTITYATTACK 0.041366357
+    PERSPECTIVEINFLAMMATORY 0.16419637
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 5
-    name "6"
+    id 6
     label "yQ4IuoJL8g0"
     step 0
     date "2022-05-17T03:19:43Z"
@@ -169,24 +180,21 @@ graph
     likecount 168
     commentcount 509
     duration "PT2M52S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.04286564
+    PERSPECTIVEPROFANITY 0.051448833
+    PERSPECTIVEFLIRTATION 0.3292178
+    PERSPECTIVETHREAT 0.16628137
+    PERSPECTIVETOXICITY 0.11021292
+    PERSPECTIVEINSULT 0.06557876
+    PERSPECTIVEIDENTITYATTACK 0.20217063
+    PERSPECTIVEINFLAMMATORY 0.037938844
     indegree 47
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia"
-    leftright "C"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 6
-    name "7"
+    id 7
     label "3J4r74YlCZE"
     step 0
     date "2022-05-18T22:43:40Z"
@@ -199,24 +207,21 @@ graph
     likecount 664
     commentcount 1148
     duration "PT9M56S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15536289
+    PERSPECTIVEPROFANITY 0.1089346
+    PERSPECTIVEFLIRTATION 0.40112802
+    PERSPECTIVETHREAT 0.23962429
+    PERSPECTIVETOXICITY 0.07011723
+    PERSPECTIVEINSULT 0.06956801
+    PERSPECTIVEIDENTITYATTACK 0.12233242
+    PERSPECTIVEINFLAMMATORY 0.012453403
     indegree 49
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 2
+    cluster 1
   ]
   node
   [
-    id 7
-    name "8"
+    id 8
     label "AYG6iKt6Owo"
     step 0
     date "2022-05-16T23:35:21Z"
@@ -229,24 +234,21 @@ graph
     likecount 2517
     commentcount 4393
     duration "PT9M25S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.058633108
+    PERSPECTIVEPROFANITY 0.06949199
+    PERSPECTIVEFLIRTATION 0.2615004
+    PERSPECTIVETHREAT 0.16043048
+    PERSPECTIVETOXICITY 0.31693128
+    PERSPECTIVEINSULT 0.09764115
+    PERSPECTIVEIDENTITYATTACK 0.341662
+    PERSPECTIVEINFLAMMATORY 0.18939641
     indegree 51
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
     cluster 4
   ]
   node
   [
-    id 8
-    name "9"
+    id 9
     label "9QPyPy3ifwg"
     step 0
     date "2022-05-26T22:41:25Z"
@@ -259,24 +261,21 @@ graph
     likecount 9351
     commentcount 2586
     duration "PT25M12S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17595844
+    PERSPECTIVEPROFANITY 0.077286415
+    PERSPECTIVEFLIRTATION 0.47556758
+    PERSPECTIVETHREAT 0.19600056
+    PERSPECTIVETOXICITY 0.015688026
+    PERSPECTIVEINSULT 0.07327667
+    PERSPECTIVEIDENTITYATTACK 0.05503945
+    PERSPECTIVEINFLAMMATORY 0.12712434
     indegree 39
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft|SocialJustice|StateFunded"
-    leftright "L"
     cluster 3
   ]
   node
   [
-    id 9
-    name "10"
+    id 10
     label "1XX88B9QR_Q"
     step 0
     date "2022-05-27T19:03:14Z"
@@ -289,24 +288,21 @@ graph
     likecount 2064
     commentcount 2428
     duration "PT5M12S"
+    sentiment 0.25
+    PERSPECTIVESEXUALLYEXPLICIT 0.06518385
+    PERSPECTIVEPROFANITY 0.06686382
+    PERSPECTIVEFLIRTATION 0.4000585
+    PERSPECTIVETHREAT 0.27194226
+    PERSPECTIVETOXICITY 0.23365098
+    PERSPECTIVEINSULT 0.062828355
+    PERSPECTIVEIDENTITYATTACK 0.13964283
+    PERSPECTIVEINFLAMMATORY 0.10435464
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Libertarian"
-    leftright "R"
     cluster 5
   ]
   node
   [
-    id 10
-    name "11"
+    id 11
     label "_kSigGDhlXA"
     step 0
     date "2020-01-21T05:00:10Z"
@@ -319,24 +315,21 @@ graph
     likecount 1191
     commentcount 2853
     duration "PT9M25S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.07112964
+    PERSPECTIVEPROFANITY 0.053118803
+    PERSPECTIVEFLIRTATION 0.2937945
+    PERSPECTIVETHREAT 0.1084959
+    PERSPECTIVETOXICITY 0.04406188
+    PERSPECTIVEINSULT 0.05089139
+    PERSPECTIVEIDENTITYATTACK 0.081739806
+    PERSPECTIVEINFLAMMATORY 0.13048165
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW"
-    leftright "C"
-    cluster 4
+    cluster 5
   ]
   node
   [
-    id 11
-    name "12"
+    id 12
     label "xF63xhZ-X4w"
     step 0
     date "2022-05-18T12:46:32Z"
@@ -349,24 +342,21 @@ graph
     likecount 192
     commentcount 196
     duration "PT2M47S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.040776946
+    PERSPECTIVEPROFANITY 0.06973982
+    PERSPECTIVEFLIRTATION 0.36229032
+    PERSPECTIVETHREAT 0.68003774
+    PERSPECTIVETOXICITY 0.16758743
+    PERSPECTIVEINSULT 0.09468514
+    PERSPECTIVEIDENTITYATTACK 0.24713162
+    PERSPECTIVEINFLAMMATORY 0.32527778
     indegree 15
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|StateFunded"
-    leftright "C"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 12
-    name "13"
+    id 13
     label "UrFWkoGMbi0"
     step 0
     date "2021-10-03T19:18:19Z"
@@ -379,24 +369,21 @@ graph
     likecount 6494
     commentcount 4275
     duration "PT6M29S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.0628807
+    PERSPECTIVEPROFANITY 0.026018087
+    PERSPECTIVEFLIRTATION 0.3281645
+    PERSPECTIVETHREAT 0.10095296
+    PERSPECTIVETOXICITY 0.05493369
+    PERSPECTIVEINSULT 0.022042438
+    PERSPECTIVEIDENTITYATTACK 0.06929285
+    PERSPECTIVEINFLAMMATORY 0.1304657
     indegree 38
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 13
-    name "14"
+    id 14
     label "3kqf5hgRwqw"
     step 0
     date "2022-05-18T17:03:15Z"
@@ -409,24 +396,21 @@ graph
     likecount 1306
     commentcount 813
     duration "PT13M"
+    sentiment -0.8225
+    PERSPECTIVESEXUALLYEXPLICIT 0.10546446
+    PERSPECTIVEPROFANITY 0.11096338
+    PERSPECTIVEFLIRTATION 0.36810786
+    PERSPECTIVETHREAT 0.6101832
+    PERSPECTIVETOXICITY 0.17173064
+    PERSPECTIVEINSULT 0.1764825
+    PERSPECTIVEIDENTITYATTACK 0.29465586
+    PERSPECTIVEINFLAMMATORY 0.283828
     indegree 48
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|StateFunded"
-    leftright "C"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 14
-    name "15"
+    id 15
     label "IOn_gL3HpJo"
     step 0
     date "2022-05-20T18:16:28Z"
@@ -439,24 +423,21 @@ graph
     likecount 125
     commentcount 315
     duration "PT4M38S"
+    sentiment 0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.059731018
+    PERSPECTIVEPROFANITY 0.06819812
+    PERSPECTIVEFLIRTATION 0.40138376
+    PERSPECTIVETHREAT 0.44166958
+    PERSPECTIVETOXICITY 0.086087525
+    PERSPECTIVEINSULT 0.09489837
+    PERSPECTIVEIDENTITYATTACK 0.110275656
+    PERSPECTIVEINFLAMMATORY 0.43897226
     indegree 7
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 3
+    cluster 6
   ]
   node
   [
-    id 15
-    name "16"
+    id 16
     label "vnBduzGRtHU"
     step 0
     date "2021-04-13T19:00:18Z"
@@ -469,24 +450,21 @@ graph
     likecount 6024
     commentcount 5715
     duration "PT3M57S"
+    sentiment 0.128
+    PERSPECTIVESEXUALLYEXPLICIT 0.031275783
+    PERSPECTIVEPROFANITY 0.038889993
+    PERSPECTIVEFLIRTATION 0.28810972
+    PERSPECTIVETHREAT 0.19192737
+    PERSPECTIVETOXICITY 0.06971766
+    PERSPECTIVEINSULT 0.04137554
+    PERSPECTIVEIDENTITYATTACK 0.12125352
+    PERSPECTIVEINFLAMMATORY 0.0070984215
     indegree 68
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 16
-    name "17"
+    id 17
     label "I2mx-hZQWF0"
     step 0
     date "2022-05-19T05:32:05Z"
@@ -499,24 +477,21 @@ graph
     likecount 43
     commentcount 41
     duration "PT8M10S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.053653315
+    PERSPECTIVEPROFANITY 0.03934813
+    PERSPECTIVEFLIRTATION 0.35035816
+    PERSPECTIVETHREAT 0.11268884
+    PERSPECTIVETOXICITY 0.043718524
+    PERSPECTIVEINSULT 0.05515837
+    PERSPECTIVEIDENTITYATTACK 0.111830704
+    PERSPECTIVEINFLAMMATORY 0.033321775
     indegree 21
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 17
-    name "18"
+    id 18
     label "4PfZlxhvdkM"
     step 0
     date "2022-07-08T15:00:02Z"
@@ -529,24 +504,21 @@ graph
     likecount 18456
     commentcount 6887
     duration "PT11M1S"
+    sentiment -0.6486
+    PERSPECTIVESEXUALLYEXPLICIT 0.09841954
+    PERSPECTIVEPROFANITY 0.2828791
+    PERSPECTIVEFLIRTATION 0.22760378
+    PERSPECTIVETHREAT 0.5636519
+    PERSPECTIVETOXICITY 0.20522906
+    PERSPECTIVEINSULT 0.35130897
+    PERSPECTIVEIDENTITYATTACK 0.3212336
+    PERSPECTIVEINFLAMMATORY 0.46857744
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
     cluster 2
   ]
   node
   [
-    id 18
-    name "19"
+    id 19
     label "IoHVnWmHhFU"
     step 0
     date "2022-05-17T01:00:06Z"
@@ -559,24 +531,21 @@ graph
     likecount 39596
     commentcount 6168
     duration "PT9M7S"
+    sentiment -0.8442
+    PERSPECTIVESEXUALLYEXPLICIT 0.13504031
+    PERSPECTIVEPROFANITY 0.49883497
+    PERSPECTIVEFLIRTATION 0.4180221
+    PERSPECTIVETHREAT 0.41861373
+    PERSPECTIVETOXICITY 0.5810591
+    PERSPECTIVEINSULT 0.8301602
+    PERSPECTIVEIDENTITYATTACK 0.68645906
+    PERSPECTIVEINFLAMMATORY 0.8026303
     indegree 124
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "LateNightTalkShow|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 19
-    name "20"
+    id 20
     label "SOahJtcq91c"
     step 0
     date "2022-05-16T14:22:13Z"
@@ -589,24 +558,21 @@ graph
     likecount 7136
     commentcount 6930
     duration "PT14M10S"
+    sentiment -0.1027
+    PERSPECTIVESEXUALLYEXPLICIT 0.08175988
+    PERSPECTIVEPROFANITY 0.17843895
+    PERSPECTIVEFLIRTATION 0.3856844
+    PERSPECTIVETHREAT 0.6956589
+    PERSPECTIVETOXICITY 0.28923595
+    PERSPECTIVEINSULT 0.33388782
+    PERSPECTIVEIDENTITYATTACK 0.5259318
+    PERSPECTIVEINFLAMMATORY 0.4482146
     indegree 71
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 20
-    name "21"
+    id 21
     label "sB7TsLfHLGM"
     step 0
     date "2022-05-18T19:11:07Z"
@@ -619,24 +585,21 @@ graph
     likecount 5763
     commentcount 4060
     duration "PT14M22S"
+    sentiment -0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.030736616
+    PERSPECTIVEPROFANITY 0.017869188
+    PERSPECTIVEFLIRTATION 0.2866879
+    PERSPECTIVETHREAT 0.34619582
+    PERSPECTIVETOXICITY 0.064523295
+    PERSPECTIVEINSULT 0.028060002
+    PERSPECTIVEIDENTITYATTACK 0.024614
+    PERSPECTIVEINFLAMMATORY 0.27721938
     indegree 66
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "C"
-    cluster 1
+    cluster 5
   ]
   node
   [
-    id 21
-    name "22"
+    id 22
     label "eidisPTsMyE"
     step 0
     date "2022-05-16T23:19:18Z"
@@ -649,24 +612,21 @@ graph
     likecount 217
     commentcount 482
     duration "PT2M13S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.10103983
+    PERSPECTIVEPROFANITY 0.21218431
+    PERSPECTIVEFLIRTATION 0.29175648
+    PERSPECTIVETHREAT 0.3264467
+    PERSPECTIVETOXICITY 0.39230084
+    PERSPECTIVEINSULT 0.3889289
+    PERSPECTIVEIDENTITYATTACK 0.68797934
+    PERSPECTIVEINFLAMMATORY 0.71774614
     indegree 42
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 22
-    name "23"
+    id 23
     label "V2spdl5OUj4"
     step 0
     date "2022-04-19T21:00:23Z"
@@ -679,24 +639,21 @@ graph
     likecount 49
     commentcount 44
     duration "PT4M34S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.05596573
+    PERSPECTIVEPROFANITY 0.05218598
+    PERSPECTIVEFLIRTATION 0.29354864
+    PERSPECTIVETHREAT 0.29822242
+    PERSPECTIVETOXICITY 0.020408317
+    PERSPECTIVEINSULT 0.04480951
+    PERSPECTIVEIDENTITYATTACK 0.14656489
+    PERSPECTIVEINFLAMMATORY 0.062344406
     indegree 53
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 23
-    name "24"
+    id 24
     label "gAMBsFUnGb0"
     step 0
     date "2022-06-05T17:27:18Z"
@@ -709,24 +666,21 @@ graph
     likecount 625
     commentcount 991
     duration "PT5M25S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.2127419
+    PERSPECTIVEPROFANITY 0.18028776
+    PERSPECTIVEFLIRTATION 0.500582
+    PERSPECTIVETHREAT 0.29265723
+    PERSPECTIVETOXICITY 0.055333257
+    PERSPECTIVEINSULT 0.26359293
+    PERSPECTIVEIDENTITYATTACK 0.24450785
+    PERSPECTIVEINFLAMMATORY 0.19172627
     indegree 9
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 7
   ]
   node
   [
-    id 24
-    name "25"
+    id 25
     label "CxUoWEGojwc"
     step 0
     date "2022-05-17T00:00:09Z"
@@ -739,24 +693,21 @@ graph
     likecount 689
     commentcount 1037
     duration "PT3M11S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.04452337
+    PERSPECTIVEPROFANITY 0.05867939
+    PERSPECTIVEFLIRTATION 0.37296095
+    PERSPECTIVETHREAT 0.27917033
+    PERSPECTIVETOXICITY 0.101391904
+    PERSPECTIVEINSULT 0.06386166
+    PERSPECTIVEIDENTITYATTACK 0.15104821
+    PERSPECTIVEINFLAMMATORY 0.18554313
     indegree 14
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 3
+    cluster 4
   ]
   node
   [
-    id 25
-    name "26"
+    id 26
     label "aVA0-XgN80A"
     step 0
     date "2022-05-17T20:30:01Z"
@@ -769,24 +720,21 @@ graph
     likecount 243
     commentcount 385
     duration "PT2M32S"
+    sentiment 0.4404
+    PERSPECTIVESEXUALLYEXPLICIT 0.025772668
+    PERSPECTIVEPROFANITY 0.04220396
+    PERSPECTIVEFLIRTATION 0.30438086
+    PERSPECTIVETHREAT 0.6034077
+    PERSPECTIVETOXICITY 0.17449278
+    PERSPECTIVEINSULT 0.07314176
+    PERSPECTIVEIDENTITYATTACK 0.11177588
+    PERSPECTIVEINFLAMMATORY 0.06949902
     indegree 15
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 26
-    name "27"
+    id 27
     label "hLX0I0XiYoE"
     step 0
     date "2021-04-14T01:15:19Z"
@@ -799,24 +747,21 @@ graph
     likecount 950
     commentcount 448
     duration "PT16M8S"
+    sentiment 0.6808
+    PERSPECTIVESEXUALLYEXPLICIT 0.21430385
+    PERSPECTIVEPROFANITY 0.3082626
+    PERSPECTIVEFLIRTATION 0.51773673
+    PERSPECTIVETHREAT 0.76733565
+    PERSPECTIVETOXICITY 0.28825936
+    PERSPECTIVEINSULT 0.44497326
+    PERSPECTIVEIDENTITYATTACK 0.7614976
+    PERSPECTIVEINFLAMMATORY 0.6287694
     indegree 44
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 8
   ]
   node
   [
-    id 27
-    name "28"
+    id 28
     label "Cjlte4xVu_Q"
     step 0
     date "2022-05-17T02:57:46Z"
@@ -829,24 +774,21 @@ graph
     likecount 33
     commentcount -1
     duration "PT2M21S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.035795983
+    PERSPECTIVEPROFANITY 0.07506133
+    PERSPECTIVEFLIRTATION 0.29802054
+    PERSPECTIVETHREAT 0.38305637
+    PERSPECTIVETOXICITY 0.19239926
+    PERSPECTIVEINSULT 0.04752598
+    PERSPECTIVEIDENTITYATTACK 0.08418055
+    PERSPECTIVEINFLAMMATORY 0.109243624
     indegree 23
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 28
-    name "29"
+    id 29
     label "ixF6pDTInak"
     step 0
     date "2022-05-24T19:27:03Z"
@@ -859,24 +801,21 @@ graph
     likecount 11
     commentcount 66
     duration "PT5M33S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.036412608
+    PERSPECTIVEPROFANITY 0.028294157
+    PERSPECTIVEFLIRTATION 0.23463817
+    PERSPECTIVETHREAT 0.05232961
+    PERSPECTIVETOXICITY 0.046465382
+    PERSPECTIVEINSULT 0.021411376
+    PERSPECTIVEIDENTITYATTACK 0.033359997
+    PERSPECTIVEINFLAMMATORY 0.048214406
     indegree 18
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 2
+    cluster 5
   ]
   node
   [
-    id 29
-    name "30"
+    id 30
     label "OjBGADt2jdY"
     step 0
     date "2022-05-17T18:09:20Z"
@@ -889,24 +828,21 @@ graph
     likecount 269
     commentcount 371
     duration "PT2M44S"
+    sentiment -0.6124
+    PERSPECTIVESEXUALLYEXPLICIT 0.05127495
+    PERSPECTIVEPROFANITY 0.14507368
+    PERSPECTIVEFLIRTATION 0.24982424
+    PERSPECTIVETHREAT 0.11745455
+    PERSPECTIVETOXICITY 0.23014031
+    PERSPECTIVEINSULT 0.3387539
+    PERSPECTIVEIDENTITYATTACK 0.48931825
+    PERSPECTIVEINFLAMMATORY 0.722318
     indegree 25
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 4
+    cluster 6
   ]
   node
   [
-    id 30
-    name "31"
+    id 31
     label "IvI2YJA1pm8"
     step 0
     date "2022-05-17T16:10:40Z"
@@ -919,24 +855,21 @@ graph
     likecount 5556
     commentcount 2759
     duration "PT8M34S"
+    sentiment -0.7184
+    PERSPECTIVESEXUALLYEXPLICIT 0.050822392
+    PERSPECTIVEPROFANITY 0.12228704
+    PERSPECTIVEFLIRTATION 0.21672189
+    PERSPECTIVETHREAT 0.041332126
+    PERSPECTIVETOXICITY 0.2459383
+    PERSPECTIVEINSULT 0.4387444
+    PERSPECTIVEIDENTITYATTACK 0.47246417
+    PERSPECTIVEINFLAMMATORY 0.6172057
     indegree 51
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 4
+    cluster 1
   ]
   node
   [
-    id 31
-    name "32"
+    id 32
     label "4fRSLY7ZYO0"
     step 0
     date "2022-06-08T01:30:00Z"
@@ -949,24 +882,21 @@ graph
     likecount 1716
     commentcount 734
     duration "PT57S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.21114747
+    PERSPECTIVEPROFANITY 0.13295878
+    PERSPECTIVEFLIRTATION 0.41860652
+    PERSPECTIVETHREAT 0.21696614
+    PERSPECTIVETOXICITY 0.089577995
+    PERSPECTIVEINSULT 0.13573033
+    PERSPECTIVEIDENTITYATTACK 0.15071897
+    PERSPECTIVEINFLAMMATORY 0.38983926
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 4
+    cluster 5
   ]
   node
   [
-    id 32
-    name "33"
+    id 33
     label "nEQxv0OQ4Y4"
     step 0
     date "2019-09-24T14:40:13Z"
@@ -979,24 +909,21 @@ graph
     likecount 38
     commentcount 26
     duration "PT33M31S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.055608414
+    PERSPECTIVEPROFANITY 0.037215896
+    PERSPECTIVEFLIRTATION 0.2806171
+    PERSPECTIVETHREAT 0.08076299
+    PERSPECTIVETOXICITY 0.017631676
+    PERSPECTIVEINSULT 0.02793763
+    PERSPECTIVEIDENTITYATTACK 0.043305397
+    PERSPECTIVEINFLAMMATORY 0.10180764
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 8
   ]
   node
   [
-    id 33
-    name "34"
+    id 34
     label "wubP6CIKAc4"
     step 0
     date "2022-05-17T16:08:45Z"
@@ -1009,24 +936,21 @@ graph
     likecount 232
     commentcount 191
     duration "PT34M39S"
+    sentiment 0.0516
+    PERSPECTIVESEXUALLYEXPLICIT 0.07555861
+    PERSPECTIVEPROFANITY 0.18957919
+    PERSPECTIVEFLIRTATION 0.3412833
+    PERSPECTIVETHREAT 0.22188231
+    PERSPECTIVETOXICITY 0.28923595
+    PERSPECTIVEINSULT 0.34007293
+    PERSPECTIVEIDENTITYATTACK 0.6350989
+    PERSPECTIVEINFLAMMATORY 0.115821764
     indegree 35
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 5
   ]
   node
   [
-    id 34
-    name "35"
+    id 35
     label "674kFkrggZ4"
     step 0
     date "2022-05-17T00:03:33Z"
@@ -1039,24 +963,21 @@ graph
     likecount 25
     commentcount 151
     duration "PT5M41S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.02410553
+    PERSPECTIVEPROFANITY 0.088853724
+    PERSPECTIVEFLIRTATION 0.3475442
+    PERSPECTIVETHREAT 0.8393977
+    PERSPECTIVETOXICITY 0.15859914
+    PERSPECTIVEINSULT 0.1974156
+    PERSPECTIVEIDENTITYATTACK 0.18433549
+    PERSPECTIVEINFLAMMATORY 0.1357988
     indegree 8
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 35
-    name "36"
+    id 36
     label "k3bWN0MiYKA"
     step 0
     date "2021-10-15T00:45:01Z"
@@ -1069,24 +990,21 @@ graph
     likecount 7053
     commentcount 2640
     duration "PT18M3S"
+    sentiment -0.4019
+    PERSPECTIVESEXUALLYEXPLICIT 0.090491705
+    PERSPECTIVEPROFANITY 0.21856262
+    PERSPECTIVEFLIRTATION 0.42567706
+    PERSPECTIVETHREAT 0.31940833
+    PERSPECTIVETOXICITY 0.39206567
+    PERSPECTIVEINSULT 0.660731
+    PERSPECTIVEIDENTITYATTACK 0.7261412
+    PERSPECTIVEINFLAMMATORY 0.70809436
     indegree 38
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 6
+    cluster 4
   ]
   node
   [
-    id 36
-    name "37"
+    id 37
     label "mc2TAjeok10"
     step 0
     date "2022-05-20T01:15:01Z"
@@ -1099,24 +1017,21 @@ graph
     likecount 3641
     commentcount 1640
     duration "PT9M33S"
+    sentiment 0.6808
+    PERSPECTIVESEXUALLYEXPLICIT 0.06177467
+    PERSPECTIVEPROFANITY 0.03204582
+    PERSPECTIVEFLIRTATION 0.307486
+    PERSPECTIVETHREAT 0.23669551
+    PERSPECTIVETOXICITY 0.015340946
+    PERSPECTIVEINSULT 0.024903243
+    PERSPECTIVEIDENTITYATTACK 0.050486572
+    PERSPECTIVEINFLAMMATORY 0.5294315
     indegree 21
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
     cluster 1
   ]
   node
   [
-    id 37
-    name "38"
+    id 38
     label "v5Y3DGzWAzw"
     step 0
     date "2022-05-17T01:45:00Z"
@@ -1129,24 +1044,21 @@ graph
     likecount 525
     commentcount 439
     duration "PT9M35S"
+    sentiment -0.7717
+    PERSPECTIVESEXUALLYEXPLICIT 0.13909486
+    PERSPECTIVEPROFANITY 0.18665004
+    PERSPECTIVEFLIRTATION 0.33677766
+    PERSPECTIVETHREAT 0.53639585
+    PERSPECTIVETOXICITY 0.44670263
+    PERSPECTIVEINSULT 0.28610262
+    PERSPECTIVEIDENTITYATTACK 0.48575628
+    PERSPECTIVEINFLAMMATORY 0.6835888
     indegree 11
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
     cluster 4
   ]
   node
   [
-    id 38
-    name "39"
+    id 39
     label "rZVlqVrz9Bc"
     step 0
     date "2022-05-20T20:37:18Z"
@@ -1159,24 +1071,21 @@ graph
     likecount 9
     commentcount 9
     duration "PT26M48S"
+    sentiment 0.7579
+    PERSPECTIVESEXUALLYEXPLICIT 0.05065085
+    PERSPECTIVEPROFANITY 0.05763698
+    PERSPECTIVEFLIRTATION 0.43496686
+    PERSPECTIVETHREAT 0.45391768
+    PERSPECTIVETOXICITY 0.03994159
+    PERSPECTIVEINSULT 0.10510023
+    PERSPECTIVEIDENTITYATTACK 0.1360081
+    PERSPECTIVEINFLAMMATORY 0.019549847
     indegree 25
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 7
   ]
   node
   [
-    id 39
-    name "40"
+    id 40
     label "zD5ayknDVJc"
     step 0
     date "2022-05-23T16:00:36Z"
@@ -1189,24 +1098,21 @@ graph
     likecount 13
     commentcount 21
     duration "PT4M21S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.28716835
+    PERSPECTIVEPROFANITY 0.08490521
+    PERSPECTIVEFLIRTATION 0.59340435
+    PERSPECTIVETHREAT 0.14499724
+    PERSPECTIVETOXICITY 0.015549194
+    PERSPECTIVEINSULT 0.051229645
+    PERSPECTIVEIDENTITYATTACK 0.06544995
+    PERSPECTIVEINFLAMMATORY 0.114695914
     indegree 8
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 40
-    name "41"
+    id 41
     label "I3-7fJX7m3M"
     step 0
     date "2022-07-11T11:57:32Z"
@@ -1219,24 +1125,21 @@ graph
     likecount 3564
     commentcount 876
     duration "PT29M20S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.05979921
+    PERSPECTIVEPROFANITY 0.028075421
+    PERSPECTIVEFLIRTATION 0.32920325
+    PERSPECTIVETHREAT 0.08744873
+    PERSPECTIVETOXICITY 0.017006932
+    PERSPECTIVEINSULT 0.020270545
+    PERSPECTIVEIDENTITYATTACK 0.03718143
+    PERSPECTIVEINFLAMMATORY 0.06202575
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Socialist"
-    leftright "L"
-    cluster 6
+    cluster 3
   ]
   node
   [
-    id 41
-    name "42"
+    id 42
     label "Qtv74QgJibE"
     step 0
     date "2022-06-08T01:00:03Z"
@@ -1249,24 +1152,21 @@ graph
     likecount 278
     commentcount 217
     duration "PT3M7S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.058009043
+    PERSPECTIVEPROFANITY 0.05103864
+    PERSPECTIVEFLIRTATION 0.47438106
+    PERSPECTIVETHREAT 0.14797343
+    PERSPECTIVETOXICITY 0.119228795
+    PERSPECTIVEINSULT 0.069241986
+    PERSPECTIVEIDENTITYATTACK 0.14036697
+    PERSPECTIVEINFLAMMATORY 0.081438094
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 8
+    cluster 5
   ]
   node
   [
-    id 42
-    name "43"
+    id 43
     label "sefo_-QZZ9k"
     step 0
     date "2022-05-26T15:00:34Z"
@@ -1279,24 +1179,21 @@ graph
     likecount 213
     commentcount 151
     duration "PT3M3S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.09859177
+    PERSPECTIVEPROFANITY 0.10092428
+    PERSPECTIVEFLIRTATION 0.4409647
+    PERSPECTIVETHREAT 0.4445266
+    PERSPECTIVETOXICITY 0.21804169
+    PERSPECTIVEINSULT 0.17779166
+    PERSPECTIVEIDENTITYATTACK 0.29186106
+    PERSPECTIVEINFLAMMATORY 0.026500713
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 6
+    cluster 7
   ]
   node
   [
-    id 43
-    name "44"
+    id 44
     label "LQQAhvnhPWg"
     step 0
     date "2022-05-19T00:35:10Z"
@@ -1309,24 +1206,21 @@ graph
     likecount 25157
     commentcount 8950
     duration "PT10M21S"
+    sentiment -0.6808
+    PERSPECTIVESEXUALLYEXPLICIT 0.10326528
+    PERSPECTIVEPROFANITY 0.1510474
+    PERSPECTIVEFLIRTATION 0.38979965
+    PERSPECTIVETHREAT 0.8763936
+    PERSPECTIVETOXICITY 0.13476147
+    PERSPECTIVEINSULT 0.15460253
+    PERSPECTIVEIDENTITYATTACK 0.25775358
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 81
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 5
+    cluster 4
   ]
   node
   [
-    id 44
-    name "45"
+    id 45
     label "L07RcsSLt4s"
     step 0
     date "2022-06-09T06:27:19Z"
@@ -1339,24 +1233,21 @@ graph
     likecount 32
     commentcount -1
     duration "PT1H2M7S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.059729457
+    PERSPECTIVEPROFANITY 0.06863799
+    PERSPECTIVEFLIRTATION 0.37189555
+    PERSPECTIVETHREAT 0.15823777
+    PERSPECTIVETOXICITY 0.05253629
+    PERSPECTIVEINSULT 0.06792692
+    PERSPECTIVEIDENTITYATTACK 0.054957416
+    PERSPECTIVEINFLAMMATORY 0.0945719
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 45
-    name "46"
+    id 46
     label "iEB7CiEuk44"
     step 0
     date "2021-12-07T13:28:36Z"
@@ -1369,24 +1260,21 @@ graph
     likecount 523
     commentcount 1225
     duration "PT1M15S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.052827854
+    PERSPECTIVEPROFANITY 0.04173319
+    PERSPECTIVEFLIRTATION 0.3251428
+    PERSPECTIVETHREAT 0.16862862
+    PERSPECTIVETOXICITY 0.039598234
+    PERSPECTIVEINSULT 0.028547218
+    PERSPECTIVEIDENTITYATTACK 0.1449656
+    PERSPECTIVEINFLAMMATORY 0.20063856
     indegree 25
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 46
-    name "47"
+    id 47
     label "lcChIH7l5zE"
     step 0
     date "2022-06-15T14:36:46Z"
@@ -1399,24 +1287,21 @@ graph
     likecount 3
     commentcount -1
     duration "PT44S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.13666658
+    PERSPECTIVEPROFANITY 0.36056635
+    PERSPECTIVEFLIRTATION 0.35373473
+    PERSPECTIVETHREAT 0.337425
+    PERSPECTIVETOXICITY 0.41256893
+    PERSPECTIVEINSULT 0.50011533
+    PERSPECTIVEIDENTITYATTACK 0.80377114
+    PERSPECTIVEINFLAMMATORY 0.8147743
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 47
-    name "48"
+    id 48
     label "E4v097IOr9A"
     step 0
     date "2022-05-24T15:09:52Z"
@@ -1429,24 +1314,21 @@ graph
     likecount 31
     commentcount 5
     duration "PT3M30S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.057696346
+    PERSPECTIVEPROFANITY 0.02425866
+    PERSPECTIVEFLIRTATION 0.43814558
+    PERSPECTIVETHREAT 0.057361487
+    PERSPECTIVETOXICITY 0.012425472
+    PERSPECTIVEINSULT 0.03471005
+    PERSPECTIVEIDENTITYATTACK 0.033718646
+    PERSPECTIVEINFLAMMATORY 0.06975725
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 5
   ]
   node
   [
-    id 48
-    name "49"
+    id 49
     label "maxEnHrG9wQ"
     step 0
     date "2022-06-09T01:07:12Z"
@@ -1459,24 +1341,21 @@ graph
     likecount 4
     commentcount 7
     duration "PT2M15S"
+    sentiment 0.7783
+    PERSPECTIVESEXUALLYEXPLICIT 0.029420462
+    PERSPECTIVEPROFANITY 0.022806019
+    PERSPECTIVEFLIRTATION 0.2757803
+    PERSPECTIVETHREAT 0.12470952
+    PERSPECTIVETOXICITY 0.018464668
+    PERSPECTIVEINSULT 0.025887275
+    PERSPECTIVEIDENTITYATTACK 0.026496038
+    PERSPECTIVEINFLAMMATORY 0.18602464
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 49
-    name "50"
+    id 50
     label "CqSylNeHjI0"
     step 0
     date "2019-05-29T18:00:00Z"
@@ -1489,24 +1368,21 @@ graph
     likecount 2509
     commentcount 1755
     duration "PT6M21S"
+    sentiment 0.128
+    PERSPECTIVESEXUALLYEXPLICIT 0.2141604
+    PERSPECTIVEPROFANITY 0.2693265
+    PERSPECTIVEFLIRTATION 0.31216177
+    PERSPECTIVETHREAT 0.24976073
+    PERSPECTIVETOXICITY 0.34388447
+    PERSPECTIVEINSULT 0.353982
+    PERSPECTIVEIDENTITYATTACK 0.6100483
+    PERSPECTIVEINFLAMMATORY 0.6311331
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 2
+    cluster 8
   ]
   node
   [
-    id 50
-    name "51"
+    id 51
     label "rHoerys1jw8"
     step 0
     date "2022-05-17T07:26:00Z"
@@ -1519,24 +1395,21 @@ graph
     likecount 261
     commentcount 172
     duration "PT2M27S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.0152063845
+    PERSPECTIVEPROFANITY 0.016783765
+    PERSPECTIVEFLIRTATION 0.26106358
+    PERSPECTIVETHREAT 0.30282274
+    PERSPECTIVETOXICITY 0.089041
+    PERSPECTIVEINSULT 0.029247643
+    PERSPECTIVEIDENTITYATTACK 0.023620369
+    PERSPECTIVEINFLAMMATORY 0.454271
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|StateFunded"
-    leftright "C"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 51
-    name "52"
+    id 52
     label "o5MNSTY8HpY"
     step 0
     date "2022-05-17T03:50:00Z"
@@ -1549,24 +1422,21 @@ graph
     likecount 39562
     commentcount 5238
     duration "PT11M16S"
+    sentiment -0.7096
+    PERSPECTIVESEXUALLYEXPLICIT 0.08085704
+    PERSPECTIVEPROFANITY 0.14842194
+    PERSPECTIVEFLIRTATION 0.28600726
+    PERSPECTIVETHREAT 0.28597555
+    PERSPECTIVETOXICITY 0.09709594
+    PERSPECTIVEINSULT 0.12788004
+    PERSPECTIVEIDENTITYATTACK 0.11814754
+    PERSPECTIVEINFLAMMATORY 0.4440127
     indegree 93
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "LateNightTalkShow|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 52
-    name "53"
+    id 53
     label "zUSlOmu15jE"
     step 0
     date "2022-05-17T02:19:29Z"
@@ -1579,24 +1449,21 @@ graph
     likecount 3
     commentcount 6
     duration "PT3M"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.039398503
+    PERSPECTIVEPROFANITY 0.05155671
+    PERSPECTIVEFLIRTATION 0.29666218
+    PERSPECTIVETHREAT 0.5036304
+    PERSPECTIVETOXICITY 0.08290337
+    PERSPECTIVEINSULT 0.049754985
+    PERSPECTIVEIDENTITYATTACK 0.061137892
+    PERSPECTIVEINFLAMMATORY 0.45873362
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 53
-    name "54"
+    id 54
     label "sJ32nkEV1zw"
     step 0
     date "2022-05-16T18:00:31Z"
@@ -1609,24 +1476,21 @@ graph
     likecount 3668
     commentcount 1893
     duration "PT4M56S"
+    sentiment -0.9042
+    PERSPECTIVESEXUALLYEXPLICIT 0.120001346
+    PERSPECTIVEPROFANITY 0.21318479
+    PERSPECTIVEFLIRTATION 0.3154335
+    PERSPECTIVETHREAT 0.71204126
+    PERSPECTIVETOXICITY 0.1884524
+    PERSPECTIVEINSULT 0.16831885
+    PERSPECTIVEIDENTITYATTACK 0.19165196
+    PERSPECTIVEINFLAMMATORY 0.33132473
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
     cluster 2
   ]
   node
   [
-    id 54
-    name "55"
+    id 55
     label "4WVKsNNASUY"
     step 0
     date "2022-05-17T13:31:21Z"
@@ -1639,24 +1503,21 @@ graph
     likecount 0
     commentcount 1
     duration "PT2M26S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.027560854
+    PERSPECTIVEPROFANITY 0.083819315
+    PERSPECTIVEFLIRTATION 0.23823483
+    PERSPECTIVETHREAT 0.37071666
+    PERSPECTIVETOXICITY 0.07251463
+    PERSPECTIVEINSULT 0.11361223
+    PERSPECTIVEIDENTITYATTACK 0.27564234
+    PERSPECTIVEINFLAMMATORY 0.80792975
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 2
   ]
   node
   [
-    id 55
-    name "56"
+    id 56
     label "fe2b09H-TfI"
     step 0
     date "2022-04-12T12:15:02Z"
@@ -1669,24 +1530,21 @@ graph
     likecount 4157
     commentcount 1774
     duration "PT16M39S"
+    sentiment -0.8074
+    PERSPECTIVESEXUALLYEXPLICIT 0.1726588
+    PERSPECTIVEPROFANITY 0.1678624
+    PERSPECTIVEFLIRTATION 0.446547
+    PERSPECTIVETHREAT 0.6409846
+    PERSPECTIVETOXICITY 0.26132804
+    PERSPECTIVEINSULT 0.22385198
+    PERSPECTIVEIDENTITYATTACK 0.3897743
+    PERSPECTIVEINFLAMMATORY 0.65040326
     indegree 36
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 56
-    name "57"
+    id 57
     label "XmEvn5j0z7Q"
     step 0
     date "2022-05-18T15:46:17Z"
@@ -1699,24 +1557,21 @@ graph
     likecount 5371
     commentcount 3473
     duration "PT17M51S"
+    sentiment 0.836
+    PERSPECTIVESEXUALLYEXPLICIT 0.020589013
+    PERSPECTIVEPROFANITY 0.01139585
+    PERSPECTIVEFLIRTATION 0.32289973
+    PERSPECTIVETHREAT 0.040492687
+    PERSPECTIVETOXICITY 0.018187003
+    PERSPECTIVEINSULT 0.015175147
+    PERSPECTIVEIDENTITYATTACK 0.01589308
+    PERSPECTIVEINFLAMMATORY 0.11358089
     indegree 50
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
     cluster 1
   ]
   node
   [
-    id 57
-    name "58"
+    id 58
     label "LOhjHwrk5Nc"
     step 0
     date "2022-04-11T09:00:50Z"
@@ -1729,24 +1584,21 @@ graph
     likecount 209
     commentcount 395
     duration "PT3M57S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.02018733
+    PERSPECTIVEPROFANITY 0.018645113
+    PERSPECTIVEFLIRTATION 0.19614755
+    PERSPECTIVETHREAT 0.054747198
+    PERSPECTIVETOXICITY 0.046465382
+    PERSPECTIVEINSULT 0.037955076
+    PERSPECTIVEIDENTITYATTACK 0.08485035
+    PERSPECTIVEINFLAMMATORY 0.18522783
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 5
   ]
   node
   [
-    id 58
-    name "59"
+    id 59
     label "UhJvV4qSC3U"
     step 0
     date "2019-12-19T16:55:37Z"
@@ -1759,24 +1611,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT1H7M26S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.14564298
+    PERSPECTIVEPROFANITY 0.21956296
+    PERSPECTIVEFLIRTATION 0.5202501
+    PERSPECTIVETHREAT 0.76272553
+    PERSPECTIVETOXICITY 0.25676212
+    PERSPECTIVEINSULT 0.39126426
+    PERSPECTIVEIDENTITYATTACK 0.2669383
+    PERSPECTIVEINFLAMMATORY 0.27660942
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 8
   ]
   node
   [
-    id 59
-    name "60"
+    id 60
     label "SCs_1WT2LzU"
     step 0
     date "2022-05-17T00:30:08Z"
@@ -1789,24 +1638,21 @@ graph
     likecount 25519
     commentcount 11460
     duration "PT8M"
+    sentiment -0.7783
+    PERSPECTIVESEXUALLYEXPLICIT 0.041558754
+    PERSPECTIVEPROFANITY 0.049038716
+    PERSPECTIVEFLIRTATION 0.29905722
+    PERSPECTIVETHREAT 0.5819444
+    PERSPECTIVETOXICITY 0.10515087
+    PERSPECTIVEINSULT 0.03467944
+    PERSPECTIVEIDENTITYATTACK 0.04472595
+    PERSPECTIVEINFLAMMATORY 0.440231
     indegree 80
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 60
-    name "61"
+    id 61
     label "7deTQz2YMxI"
     step 0
     date "2021-07-16T15:00:03Z"
@@ -1819,24 +1665,21 @@ graph
     likecount 19198
     commentcount 14068
     duration "PT13M20S"
+    sentiment -0.5719
+    PERSPECTIVESEXUALLYEXPLICIT 0.098155044
+    PERSPECTIVEPROFANITY 0.17085354
+    PERSPECTIVEFLIRTATION 0.25169787
+    PERSPECTIVETHREAT 0.42649102
+    PERSPECTIVETOXICITY 0.14193995
+    PERSPECTIVEINSULT 0.21285875
+    PERSPECTIVEIDENTITYATTACK 0.30921412
+    PERSPECTIVEINFLAMMATORY 0.37593427
     indegree 21
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 61
-    name "62"
+    id 62
     label "Y5VXExIHrZM"
     step 0
     date "2022-06-08T19:24:22Z"
@@ -1849,24 +1692,21 @@ graph
     likecount 23
     commentcount 103
     duration "PT8M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.036834866
+    PERSPECTIVEPROFANITY 0.039407752
+    PERSPECTIVEFLIRTATION 0.29092747
+    PERSPECTIVETHREAT 0.104392685
+    PERSPECTIVETOXICITY 0.0765103
+    PERSPECTIVEINSULT 0.055539723
+    PERSPECTIVEIDENTITYATTACK 0.107267715
+    PERSPECTIVEINFLAMMATORY 0.026428785
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 2
+    cluster 7
   ]
   node
   [
-    id 62
-    name "63"
+    id 63
     label "2Md3wAZSVb4"
     step 0
     date "2022-05-17T03:19:26Z"
@@ -1879,24 +1719,21 @@ graph
     likecount 14
     commentcount 8
     duration "PT3M10S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.101259954
+    PERSPECTIVEPROFANITY 0.1616747
+    PERSPECTIVEFLIRTATION 0.38464984
+    PERSPECTIVETHREAT 0.6390797
+    PERSPECTIVETOXICITY 0.22986074
+    PERSPECTIVEINSULT 0.22418392
+    PERSPECTIVEIDENTITYATTACK 0.30978182
+    PERSPECTIVEINFLAMMATORY 0.07128842
     indegree 10
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 63
-    name "64"
+    id 64
     label "jwhnYTwDxU4"
     step 0
     date "2022-05-16T20:31:08Z"
@@ -1909,24 +1746,21 @@ graph
     likecount 1537
     commentcount 522
     duration "PT14M21S"
+    sentiment 0.2732
+    PERSPECTIVESEXUALLYEXPLICIT 0.06855129
+    PERSPECTIVEPROFANITY 0.1419835
+    PERSPECTIVEFLIRTATION 0.448599
+    PERSPECTIVETHREAT 0.60909665
+    PERSPECTIVETOXICITY 0.19535941
+    PERSPECTIVEINSULT 0.21452159
+    PERSPECTIVEIDENTITYATTACK 0.3054078
+    PERSPECTIVEINFLAMMATORY 0.11605824
     indegree 19
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanRight"
-    leftright "R"
-    cluster 2
+    cluster 9
   ]
   node
   [
-    id 64
-    name "65"
+    id 65
     label "XNJLpsAAGDo"
     step 0
     date "2022-05-16T21:44:59Z"
@@ -1939,24 +1773,21 @@ graph
     likecount 25
     commentcount 18
     duration "PT2M26S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.13202947
+    PERSPECTIVEPROFANITY 0.24780014
+    PERSPECTIVEFLIRTATION 0.39459386
+    PERSPECTIVETHREAT 0.5045947
+    PERSPECTIVETOXICITY 0.5024423
+    PERSPECTIVEINSULT 0.49548084
+    PERSPECTIVEIDENTITYATTACK 0.7997585
+    PERSPECTIVEINFLAMMATORY 0.33276895
     indegree 13
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 65
-    name "66"
+    id 66
     label "mE4UhROjVxM"
     step 0
     date "2021-02-12T16:00:11Z"
@@ -1969,24 +1800,21 @@ graph
     likecount 4878
     commentcount 2719
     duration "PT7M46S"
+    sentiment -0.8591
+    PERSPECTIVESEXUALLYEXPLICIT 0.15553427
+    PERSPECTIVEPROFANITY 0.14250147
+    PERSPECTIVEFLIRTATION 0.38421273
+    PERSPECTIVETHREAT 0.5070222
+    PERSPECTIVETOXICITY 0.26589394
+    PERSPECTIVEINSULT 0.17432253
+    PERSPECTIVEIDENTITYATTACK 0.12358357
+    PERSPECTIVEINFLAMMATORY 0.44732913
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 2
+    cluster 8
   ]
   node
   [
-    id 66
-    name "67"
+    id 67
     label "qwB-BJgza0o"
     step 0
     date "2021-09-29T01:15:01Z"
@@ -1999,24 +1827,21 @@ graph
     likecount 368
     commentcount 132
     duration "PT7M5S"
+    sentiment -0.8126
+    PERSPECTIVESEXUALLYEXPLICIT 0.061030626
+    PERSPECTIVEPROFANITY 0.14350304
+    PERSPECTIVEFLIRTATION 0.34052068
+    PERSPECTIVETHREAT 0.36064953
+    PERSPECTIVETOXICITY 0.15042676
+    PERSPECTIVEINSULT 0.48877147
+    PERSPECTIVEIDENTITYATTACK 0.57836527
+    PERSPECTIVEINFLAMMATORY 0.81549376
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 67
-    name "68"
+    id 68
     label "PQKgDFA96us"
     step 0
     date "2022-05-18T01:45:00Z"
@@ -2029,24 +1854,21 @@ graph
     likecount 19844
     commentcount 7765
     duration "PT9M38S"
+    sentiment -0.6808
+    PERSPECTIVESEXUALLYEXPLICIT 0.07728508
+    PERSPECTIVEPROFANITY 0.16123703
+    PERSPECTIVEFLIRTATION 0.32868502
+    PERSPECTIVETHREAT 0.8908898
+    PERSPECTIVETOXICITY 0.13146462
+    PERSPECTIVEINSULT 0.141716
+    PERSPECTIVEIDENTITYATTACK 0.2666007
+    PERSPECTIVEINFLAMMATORY 0.46885762
     indegree 52
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 7
+    cluster 4
   ]
   node
   [
-    id 68
-    name "69"
+    id 69
     label "1Lf7_iIE7w0"
     step 0
     date "2021-09-24T18:20:51Z"
@@ -2059,24 +1881,21 @@ graph
     likecount 550
     commentcount 304
     duration "PT10M46S"
+    sentiment 0.2263
+    PERSPECTIVESEXUALLYEXPLICIT 0.066109344
+    PERSPECTIVEPROFANITY 0.08417784
+    PERSPECTIVEFLIRTATION 0.33053246
+    PERSPECTIVETHREAT 0.19252351
+    PERSPECTIVETOXICITY 0.355017
+    PERSPECTIVEINSULT 0.1397835
+    PERSPECTIVEIDENTITYATTACK 0.42415792
+    PERSPECTIVEINFLAMMATORY 0.1296472
     indegree 22
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "SocialJustice"
-    leftright "L"
-    cluster 4
+    cluster 1
   ]
   node
   [
-    id 69
-    name "70"
+    id 70
     label "LQiqlG_wpz4"
     step 0
     date "2021-10-07T00:45:39Z"
@@ -2089,54 +1908,48 @@ graph
     likecount 523
     commentcount 85
     duration "PT8M25S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.13323742
+    PERSPECTIVEPROFANITY 0.099210024
+    PERSPECTIVEFLIRTATION 0.33379257
+    PERSPECTIVETHREAT 0.14512467
+    PERSPECTIVETOXICITY 0.01665985
+    PERSPECTIVEINSULT 0.07473736
+    PERSPECTIVEIDENTITYATTACK 0.12050595
+    PERSPECTIVEINFLAMMATORY 0.2452868
     indegree 25
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 70
-    name "71"
-    label "Xh4m9cfkYo0"
+    id 72
+    label "ls8x3JzL_rk"
     step 0
-    date "2022-05-27T00:00:07Z"
-    title "The Racist Conspiracy Theory Conservatives Are Helping Spread"
-    description "Many mass shooters have cited the same racist conspiracy as motivation: the Great Replacement Theory. Now, the theory has found its way into American politics. VICE News breaks down how a dangerous idea moved from the fringes to the mainstream.&#10;&#10;Help keep VICE News&#8217; fearless reporting free for millions by making a one time or ongoing contribution here. - https://vice.com/contribute&#10;&#10;Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News&#10;&#10;Check out VICE News for more: http://vicenews.com&#10;&#10;Follow VICE News here:&#10;Facebook: https://www.facebook.com/vicenews&#10;Twitter: https://twitter.com/vicenews&#10;Tumblr: http://vicenews.tumblr.com/&#10;Instagram: http://instagram.com/vicenews&#10;More videos from the VICE network: https://www.fb.com/vicevideo&#10;&#10;#VICENews #News"
-    channeltitle "VICE News"
-    channelid "UCZaT_X_mc0BI-djXOlfhqWQ"
+    date "2021-09-25T02:03:55Z"
+    title "Chris Hayes Takes Apart The Racist Right-Wing Immigration Theory"
+    description "&#8220;Many people have been shocked by how audaciously racist this argument is&#8212;and it is indeed,&#8221; says Chris Hayes on right-wing anti-migrant rhetoric. &#8220;But it is also worth actually confronting it because it is not just racist&#8212;it is also stupid.&#8221;&#10;&#10;&#187; Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc&#10;&#10;MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.&#10;&#10;Connect with MSNBC Online&#10;Visit msnbc.com: http://on.msnbc.com/Readmsnbc&#10;Subscribe to MSNBC Newsletter: http://http://MSNBC.com/NewslettersYouTube&#10;Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc&#10;Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc&#10;Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc&#10;&#10;#ChrisHayes #GOP #RightWing"
+    channeltitle "MSNBC"
+    channelid "UCaXkIU1QidjPwiAYu6GcHjg"
     favcount 0
-    viewcount 325131
-    likecount 9821
-    commentcount 4704
-    duration "PT4M43S"
-    indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 1
+    viewcount 132844
+    likecount 4185
+    commentcount 1526
+    duration "PT8M26S"
+    sentiment -0.6124
+    PERSPECTIVESEXUALLYEXPLICIT 0.07455623
+    PERSPECTIVEPROFANITY 0.18206644
+    PERSPECTIVEFLIRTATION 0.26214808
+    PERSPECTIVETHREAT 0.110675536
+    PERSPECTIVETOXICITY 0.34684154
+    PERSPECTIVEINSULT 0.5290387
+    PERSPECTIVEIDENTITYATTACK 0.58523935
+    PERSPECTIVEINFLAMMATORY 0.8147743
+    indegree 31
+    cluster 4
   ]
   node
   [
-    id 71
-    name "73"
+    id 73
     label "UYK_9gH7d7U"
     step 0
     date "2022-05-17T12:15:00Z"
@@ -2149,24 +1962,21 @@ graph
     likecount 2997
     commentcount 1273
     duration "PT8M38S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.043634575
+    PERSPECTIVEPROFANITY 0.03467998
+    PERSPECTIVEFLIRTATION 0.27506652
+    PERSPECTIVETHREAT 0.082025714
+    PERSPECTIVETOXICITY 0.015340946
+    PERSPECTIVEINSULT 0.048413213
+    PERSPECTIVEIDENTITYATTACK 0.056496534
+    PERSPECTIVEINFLAMMATORY 0.09483533
     indegree 30
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 72
-    name "74"
+    id 74
     label "ZVjxrij2W2Q"
     step 0
     date "2019-05-17T13:19:49Z"
@@ -2179,24 +1989,21 @@ graph
     likecount 111
     commentcount 174
     duration "PT14M3S"
+    sentiment 0.2263
+    PERSPECTIVESEXUALLYEXPLICIT 0.067754515
+    PERSPECTIVEPROFANITY 0.0568619
+    PERSPECTIVEFLIRTATION 0.37448826
+    PERSPECTIVETHREAT 0.1575151
+    PERSPECTIVETOXICITY 0.089041
+    PERSPECTIVEINSULT 0.08268945
+    PERSPECTIVEIDENTITYATTACK 0.17087182
+    PERSPECTIVEINFLAMMATORY 0.11589125
     indegree 8
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 8
   ]
   node
   [
-    id 73
-    name "75"
+    id 75
     label "n8mMW8f_19c"
     step 0
     date "2022-05-17T16:38:17Z"
@@ -2209,24 +2016,21 @@ graph
     likecount 7
     commentcount 19
     duration "PT1M13S"
+    sentiment -0.5106
+    PERSPECTIVESEXUALLYEXPLICIT 0.044683296
+    PERSPECTIVEPROFANITY 0.12224425
+    PERSPECTIVEFLIRTATION 0.24553095
+    PERSPECTIVETHREAT 0.2472058
+    PERSPECTIVETOXICITY 0.10892494
+    PERSPECTIVEINSULT 0.20768906
+    PERSPECTIVEIDENTITYATTACK 0.21102196
+    PERSPECTIVEINFLAMMATORY 0.1757025
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 7
+    cluster 5
   ]
   node
   [
-    id 74
-    name "76"
+    id 76
     label "VUbxVfSqtt8"
     step 0
     date "2017-07-09T17:11:49Z"
@@ -2239,24 +2043,21 @@ graph
     likecount 68046
     commentcount 31108
     duration "PT29M16S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.09996741
+    PERSPECTIVEPROFANITY 0.14166863
+    PERSPECTIVEFLIRTATION 0.444091
+    PERSPECTIVETHREAT 0.27895007
+    PERSPECTIVETOXICITY 0.09279997
+    PERSPECTIVEINSULT 0.1818864
+    PERSPECTIVEIDENTITYATTACK 0.3479668
+    PERSPECTIVEINFLAMMATORY 0.27451828
     indegree 43
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "SocialJustice|Socialist"
-    leftright "L"
-    cluster 7
+    cluster 6
   ]
   node
   [
-    id 75
-    name "77"
+    id 77
     label "mHcVYEKFjp8"
     step 0
     date "2022-06-08T18:28:52Z"
@@ -2269,24 +2070,21 @@ graph
     likecount 300
     commentcount 98
     duration "PT47M30S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.10277389
+    PERSPECTIVEPROFANITY 0.055633288
+    PERSPECTIVEFLIRTATION 0.36849666
+    PERSPECTIVETHREAT 0.12919554
+    PERSPECTIVETOXICITY 0.019852988
+    PERSPECTIVEINSULT 0.06422684
+    PERSPECTIVEIDENTITYATTACK 0.07627652
+    PERSPECTIVEINFLAMMATORY 0.20062405
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 1
+    cluster 7
   ]
   node
   [
-    id 76
-    name "78"
+    id 78
     label "GOt3WljFM7o"
     step 0
     date "2022-05-22T16:04:54Z"
@@ -2299,24 +2097,21 @@ graph
     likecount 1350
     commentcount 1358
     duration "PT6M"
+    sentiment -0.802
+    PERSPECTIVESEXUALLYEXPLICIT 0.1334712
+    PERSPECTIVEPROFANITY 0.27559987
+    PERSPECTIVEFLIRTATION 0.43135908
+    PERSPECTIVETHREAT 0.33329794
+    PERSPECTIVETOXICITY 0.35336453
+    PERSPECTIVEINSULT 0.62516093
+    PERSPECTIVEIDENTITYATTACK 0.7445612
+    PERSPECTIVEINFLAMMATORY 0.2936842
     indegree 18
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 77
-    name "79"
+    id 79
     label "lP5rv7_SW1g"
     step 0
     date "2022-05-17T02:41:40Z"
@@ -2329,24 +2124,21 @@ graph
     likecount 44
     commentcount -1
     duration "PT3M24S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.032725308
+    PERSPECTIVEPROFANITY 0.08123421
+    PERSPECTIVEFLIRTATION 0.30641603
+    PERSPECTIVETHREAT 0.74516827
+    PERSPECTIVETOXICITY 0.1894391
+    PERSPECTIVEINSULT 0.08375912
+    PERSPECTIVEIDENTITYATTACK 0.14042903
+    PERSPECTIVEINFLAMMATORY 0.0131523665
     indegree 7
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 78
-    name "80"
+    id 80
     label "S_E6feZVjyE"
     step 0
     date "2022-05-18T18:00:16Z"
@@ -2359,24 +2151,21 @@ graph
     likecount 1035
     commentcount 748
     duration "PT4M22S"
+    sentiment -0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.2144826
+    PERSPECTIVEPROFANITY 0.14769758
+    PERSPECTIVEFLIRTATION 0.34302297
+    PERSPECTIVETHREAT 0.41690212
+    PERSPECTIVETOXICITY 0.2712817
+    PERSPECTIVEINSULT 0.12682362
+    PERSPECTIVEIDENTITYATTACK 0.2400634
+    PERSPECTIVEINFLAMMATORY 0.63045645
     indegree 7
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
     cluster 2
   ]
   node
   [
-    id 79
-    name "81"
+    id 81
     label "PGUApnrJfH0"
     step 0
     date "2021-03-01T05:00:06Z"
@@ -2389,24 +2178,21 @@ graph
     likecount 123
     commentcount 0
     duration "PT5M7S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.05292182
+    PERSPECTIVEPROFANITY 0.039174315
+    PERSPECTIVEFLIRTATION 0.25816464
+    PERSPECTIVETHREAT 0.0831241
+    PERSPECTIVETOXICITY 0.01999182
+    PERSPECTIVEINSULT 0.032757398
+    PERSPECTIVEIDENTITYATTACK 0.04741616
+    PERSPECTIVEINFLAMMATORY 0.11206639
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 8
   ]
   node
   [
-    id 80
-    name "82"
+    id 82
     label "Y2eJ_MRQ3OE"
     step 0
     date "2022-04-14T01:00:06Z"
@@ -2419,24 +2205,21 @@ graph
     likecount 1751
     commentcount 761
     duration "PT7M34S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.32098174
+    PERSPECTIVEPROFANITY 0.31531525
+    PERSPECTIVEFLIRTATION 0.602585
+    PERSPECTIVETHREAT 0.6253974
+    PERSPECTIVETOXICITY 0.28874767
+    PERSPECTIVEINSULT 0.33344662
+    PERSPECTIVEIDENTITYATTACK 0.7006494
+    PERSPECTIVEINFLAMMATORY 0.18983805
     indegree 26
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 7
+    cluster 10
   ]
   node
   [
-    id 81
-    name "83"
+    id 83
     label "UkO2ZkxdzoA"
     step 0
     date "2021-03-02T00:38:42Z"
@@ -2449,24 +2232,21 @@ graph
     likecount 20
     commentcount 2
     duration "PT1H10M21S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.13709566
+    PERSPECTIVEPROFANITY 0.12268612
+    PERSPECTIVEFLIRTATION 0.5340107
+    PERSPECTIVETHREAT 0.28901753
+    PERSPECTIVETOXICITY 0.03994159
+    PERSPECTIVEINSULT 0.12265851
+    PERSPECTIVEIDENTITYATTACK 0.29944482
+    PERSPECTIVEINFLAMMATORY 0.02513088
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    cluster 8
   ]
   node
   [
-    id 82
-    name "84"
+    id 84
     label "L4gvHnpiwpc"
     step 0
     date "2022-05-17T04:45:00Z"
@@ -2479,24 +2259,21 @@ graph
     likecount 919
     commentcount 3102
     duration "PT4M21S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.06883083
+    PERSPECTIVEPROFANITY 0.14527415
+    PERSPECTIVEFLIRTATION 0.37198442
+    PERSPECTIVETHREAT 0.8763936
+    PERSPECTIVETOXICITY 0.17957193
+    PERSPECTIVEINSULT 0.1462355
+    PERSPECTIVEIDENTITYATTACK 0.2925186
+    PERSPECTIVEINFLAMMATORY 0.1090845
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 5
+    cluster 4
   ]
   node
   [
-    id 83
-    name "85"
+    id 85
     label "QLH1-H0lBf0"
     step 0
     date "2022-06-07T05:06:51Z"
@@ -2509,24 +2286,21 @@ graph
     likecount 1
     commentcount 2
     duration "PT2M53S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.03164253
+    PERSPECTIVEPROFANITY 0.02793207
+    PERSPECTIVEFLIRTATION 0.21527423
+    PERSPECTIVETHREAT 0.03918999
+    PERSPECTIVETOXICITY 0.017423427
+    PERSPECTIVEINSULT 0.023476308
+    PERSPECTIVEIDENTITYATTACK 0.0333674
+    PERSPECTIVEINFLAMMATORY 0.2608449
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
     cluster 3
   ]
   node
   [
-    id 84
-    name "86"
+    id 86
     label "S1QR2Vl97WI"
     step 0
     date "2022-05-16T11:43:30Z"
@@ -2539,24 +2313,21 @@ graph
     likecount 8868
     commentcount 7097
     duration "PT10M45S"
+    sentiment -0.4767
+    PERSPECTIVESEXUALLYEXPLICIT 0.074577354
+    PERSPECTIVEPROFANITY 0.5054517
+    PERSPECTIVEFLIRTATION 0.32458156
+    PERSPECTIVETHREAT 0.3912456
+    PERSPECTIVETOXICITY 0.62792164
+    PERSPECTIVEINSULT 0.8301602
+    PERSPECTIVEIDENTITYATTACK 0.423697
+    PERSPECTIVEINFLAMMATORY 0.37086242
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 8
+    cluster 4
   ]
   node
   [
-    id 85
-    name "87"
+    id 87
     label "L_YCzrB6UOQ"
     step 0
     date "2022-05-17T15:46:28Z"
@@ -2569,24 +2340,21 @@ graph
     likecount 286
     commentcount 29
     duration "PT6M28S"
+    sentiment 0.6369
+    PERSPECTIVESEXUALLYEXPLICIT 0.10738109
+    PERSPECTIVEPROFANITY 0.091162585
+    PERSPECTIVEFLIRTATION 0.35542357
+    PERSPECTIVETHREAT 0.14735465
+    PERSPECTIVETOXICITY 0.17034957
+    PERSPECTIVEINSULT 0.15898195
+    PERSPECTIVEIDENTITYATTACK 0.30444843
+    PERSPECTIVEINFLAMMATORY 0.51168483
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 86
-    name "88"
+    id 88
     label "HnGDQJcCRLk"
     step 0
     date "2022-05-17T01:45:00Z"
@@ -2599,24 +2367,21 @@ graph
     likecount 4592
     commentcount 3185
     duration "PT12M54S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13984193
+    PERSPECTIVEPROFANITY 0.10286977
+    PERSPECTIVEFLIRTATION 0.3422158
+    PERSPECTIVETHREAT 0.60740787
+    PERSPECTIVETOXICITY 0.29756662
+    PERSPECTIVEINSULT 0.11056784
+    PERSPECTIVEIDENTITYATTACK 0.25508282
+    PERSPECTIVEINFLAMMATORY 0.62096757
     indegree 11
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 87
-    name "89"
+    id 89
     label "TUGplcrQx18"
     step 0
     date "2022-05-17T13:38:08Z"
@@ -2629,24 +2394,21 @@ graph
     likecount 1174
     commentcount 1544
     duration "PT14M18S"
+    sentiment 0.6369
+    PERSPECTIVESEXUALLYEXPLICIT 0.15329373
+    PERSPECTIVEPROFANITY 0.085908264
+    PERSPECTIVEFLIRTATION 0.5199221
+    PERSPECTIVETHREAT 0.69306606
+    PERSPECTIVETOXICITY 0.16620636
+    PERSPECTIVEINSULT 0.073584594
+    PERSPECTIVEIDENTITYATTACK 0.086153075
+    PERSPECTIVEINFLAMMATORY 0.36754867
     indegree 7
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 9
+    cluster 4
   ]
   node
   [
-    id 88
-    name "90"
+    id 90
     label "Y_REAzKPFrs"
     step 0
     date "2022-05-18T14:20:22Z"
@@ -2659,24 +2421,21 @@ graph
     likecount 4486
     commentcount 2449
     duration "PT6M53S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.0599418
+    PERSPECTIVEPROFANITY 0.07012625
+    PERSPECTIVEFLIRTATION 0.27715605
+    PERSPECTIVETHREAT 0.08409446
+    PERSPECTIVETOXICITY 0.25676212
+    PERSPECTIVEINSULT 0.1214349
+    PERSPECTIVEIDENTITYATTACK 0.19520669
+    PERSPECTIVEINFLAMMATORY 0.8147743
     indegree 24
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 89
-    name "91"
+    id 91
     label "1icsroWbKJU"
     step 0
     date "2022-05-17T02:45:00Z"
@@ -2689,24 +2448,21 @@ graph
     likecount 42
     commentcount 168
     duration "PT2M15S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.09272662
+    PERSPECTIVEPROFANITY 0.11472634
+    PERSPECTIVEFLIRTATION 0.30440074
+    PERSPECTIVETHREAT 0.62781286
+    PERSPECTIVETOXICITY 0.23803931
+    PERSPECTIVEINSULT 0.18850392
+    PERSPECTIVEIDENTITYATTACK 0.31403473
+    PERSPECTIVEINFLAMMATORY 0.1793593
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 90
-    name "92"
+    id 92
     label "-0nGeHIbvts"
     step 0
     date "2022-05-24T13:00:11Z"
@@ -2719,24 +2475,21 @@ graph
     likecount 121
     commentcount 23
     duration "PT46S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.061604656
+    PERSPECTIVEPROFANITY 0.056964777
+    PERSPECTIVEFLIRTATION 0.25132236
+    PERSPECTIVETHREAT 0.088877544
+    PERSPECTIVETOXICITY 0.052136723
+    PERSPECTIVEINSULT 0.053282782
+    PERSPECTIVEIDENTITYATTACK 0.07944704
+    PERSPECTIVEINFLAMMATORY 0.44803867
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 7
   ]
   node
   [
-    id 91
-    name "93"
+    id 93
     label "tRIytjRNucs"
     step 0
     date "2021-05-11T16:58:22Z"
@@ -2749,24 +2502,21 @@ graph
     likecount 20
     commentcount 11
     duration "PT1M47S"
+    sentiment -0.8271
+    PERSPECTIVESEXUALLYEXPLICIT 0.12416394
+    PERSPECTIVEPROFANITY 0.32509145
+    PERSPECTIVEFLIRTATION 0.3533774
+    PERSPECTIVETHREAT 0.22565946
+    PERSPECTIVETOXICITY 0.5124461
+    PERSPECTIVEINSULT 0.660731
+    PERSPECTIVEIDENTITYATTACK 0.6544445
+    PERSPECTIVEINFLAMMATORY 0.13157481
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 10
   ]
   node
   [
-    id 92
-    name "94"
+    id 94
     label "HncFO8Sujvk"
     step 0
     date "2020-09-30T17:47:26Z"
@@ -2779,24 +2529,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT2M24S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.064083785
+    PERSPECTIVEPROFANITY 0.01049752
+    PERSPECTIVEFLIRTATION 0.23308656
+    PERSPECTIVETHREAT 0.076983646
+    PERSPECTIVETOXICITY 0.09065199
+    PERSPECTIVEINSULT 0.008585441
+    PERSPECTIVEIDENTITYATTACK 0.009695794
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 9
+    cluster 5
   ]
   node
   [
-    id 93
-    name "95"
+    id 95
     label "KdKWGgCnYX4"
     step 0
     date "2022-05-19T01:00:08Z"
@@ -2809,24 +2556,21 @@ graph
     likecount 2227
     commentcount 744
     duration "PT11M47S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.038325828
+    PERSPECTIVEPROFANITY 0.031433918
+    PERSPECTIVEFLIRTATION 0.23350768
+    PERSPECTIVETHREAT 0.060650647
+    PERSPECTIVETOXICITY 0.033761155
+    PERSPECTIVEINSULT 0.024016367
+    PERSPECTIVEIDENTITYATTACK 0.02958182
+    PERSPECTIVEINFLAMMATORY 0.15478832
     indegree 9
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 2
+    cluster 10
   ]
   node
   [
-    id 94
-    name "96"
+    id 96
     label "vzR8aoDQ8W8"
     step 0
     date "2022-06-03T12:00:35Z"
@@ -2839,24 +2583,21 @@ graph
     likecount 2680
     commentcount 483
     duration "PT8M52S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.20418055
+    PERSPECTIVEPROFANITY 0.186986
+    PERSPECTIVEFLIRTATION 0.51133174
+    PERSPECTIVETHREAT 0.26069096
+    PERSPECTIVETOXICITY 0.031357653
+    PERSPECTIVEINSULT 0.25201285
+    PERSPECTIVEIDENTITYATTACK 0.18510929
+    PERSPECTIVEINFLAMMATORY 0.24623552
     indegree 13
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Socialist"
-    leftright "L"
-    cluster 9
+    cluster 3
   ]
   node
   [
-    id 95
-    name "97"
+    id 97
     label "DT1Ee1AQqhI"
     step 0
     date "2022-05-19T10:18:40Z"
@@ -2869,24 +2610,21 @@ graph
     likecount 2
     commentcount 6
     duration "PT1H4M20S"
+    sentiment 0.8271
+    PERSPECTIVESEXUALLYEXPLICIT 0.042972945
+    PERSPECTIVEPROFANITY 0.036876872
+    PERSPECTIVEFLIRTATION 0.23018715
+    PERSPECTIVETHREAT 0.065623134
+    PERSPECTIVETOXICITY 0.01631277
+    PERSPECTIVEINSULT 0.038738545
+    PERSPECTIVEIDENTITYATTACK 0.06243449
+    PERSPECTIVEINFLAMMATORY 0.15783218
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 2
   ]
   node
   [
-    id 96
-    name "98"
+    id 98
     label "nr7P8a5MCWg"
     step 0
     date "2022-06-24T17:08:47Z"
@@ -2899,24 +2637,21 @@ graph
     likecount 0
     commentcount 6
     duration "PT14M25S"
+    sentiment 0.4588
+    PERSPECTIVESEXUALLYEXPLICIT 0.14275034
+    PERSPECTIVEPROFANITY 0.61173755
+    PERSPECTIVEFLIRTATION 0.28394747
+    PERSPECTIVETHREAT 0.11372465
+    PERSPECTIVETOXICITY 0.45045215
+    PERSPECTIVEINSULT 0.8018725
+    PERSPECTIVEIDENTITYATTACK 0.37224117
+    PERSPECTIVEINFLAMMATORY 0.45378307
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 2
   ]
   node
   [
-    id 97
-    name "99"
+    id 99
     label "gogCccQsum4"
     step 0
     date "2021-02-25T02:40:10Z"
@@ -2929,24 +2664,21 @@ graph
     likecount 12768
     commentcount 3735
     duration "PT15M48S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.094526
+    PERSPECTIVEPROFANITY 0.15463309
+    PERSPECTIVEFLIRTATION 0.2865257
+    PERSPECTIVETHREAT 0.16446821
+    PERSPECTIVETOXICITY 0.07131593
+    PERSPECTIVEINSULT 0.28834566
+    PERSPECTIVEIDENTITYATTACK 0.43811285
+    PERSPECTIVEINFLAMMATORY 0.80792975
     indegree 71
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanRight"
-    leftright "R"
-    cluster 1
+    cluster 8
   ]
   node
   [
-    id 98
-    name "100"
+    id 100
     label "bGBE4LH30jg"
     step 0
     date "2022-05-22T02:30:10Z"
@@ -2959,24 +2691,21 @@ graph
     likecount 1107
     commentcount 422
     duration "PT3M17S"
+    sentiment 0.4215
+    PERSPECTIVESEXUALLYEXPLICIT 0.16706055
+    PERSPECTIVEPROFANITY 0.08003967
+    PERSPECTIVEFLIRTATION 0.39592844
+    PERSPECTIVETHREAT 0.09834853
+    PERSPECTIVETOXICITY 0.03770977
+    PERSPECTIVEINSULT 0.05352334
+    PERSPECTIVEIDENTITYATTACK 0.08545848
+    PERSPECTIVEINFLAMMATORY 0.14548089
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 99
-    name "101"
+    id 101
     label "QsiH_we4K0I"
     step 0
     date "2021-09-24T10:55:10Z"
@@ -2989,24 +2718,21 @@ graph
     likecount 4744
     commentcount 4354
     duration "PT4M32S"
+    sentiment -0.296
+    PERSPECTIVESEXUALLYEXPLICIT 0.025568014
+    PERSPECTIVEPROFANITY 0.051826734
+    PERSPECTIVEFLIRTATION 0.28786743
+    PERSPECTIVETHREAT 0.27182266
+    PERSPECTIVETOXICITY 0.1621016
+    PERSPECTIVEINSULT 0.08007505
+    PERSPECTIVEIDENTITYATTACK 0.11523798
+    PERSPECTIVEINFLAMMATORY 0.19458802
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 4
+    cluster 11
   ]
   node
   [
-    id 100
-    name "102"
+    id 102
     label "ssKsRsDu-as"
     step 0
     date "2022-05-20T03:30:54Z"
@@ -3019,24 +2745,21 @@ graph
     likecount 120
     commentcount 152
     duration "PT1M21S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.06293713
+    PERSPECTIVEPROFANITY 0.07177094
+    PERSPECTIVEFLIRTATION 0.37018353
+    PERSPECTIVETHREAT 0.18283139
+    PERSPECTIVETOXICITY 0.03358948
+    PERSPECTIVEINSULT 0.104089916
+    PERSPECTIVEIDENTITYATTACK 0.17462134
+    PERSPECTIVEINFLAMMATORY 0.0007239497
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 101
-    name "103"
+    id 103
     label "1ZcHSfdl1_M"
     step 0
     date "2022-05-19T11:44:13Z"
@@ -3049,24 +2772,21 @@ graph
     likecount 12
     commentcount 4
     duration "PT40M48S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.060022596
+    PERSPECTIVEPROFANITY 0.12852481
+    PERSPECTIVEFLIRTATION 0.34200197
+    PERSPECTIVETHREAT 0.14089349
+    PERSPECTIVETOXICITY 0.056931525
+    PERSPECTIVEINSULT 0.12849273
+    PERSPECTIVEIDENTITYATTACK 0.39422655
+    PERSPECTIVEINFLAMMATORY 0.06816821
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 10
   ]
   node
   [
-    id 102
-    name "104"
+    id 104
     label "R1et4QjhQ8Y"
     step 0
     date "2022-05-22T20:30:55Z"
@@ -3079,24 +2799,21 @@ graph
     likecount 20
     commentcount 16
     duration "PT1M40S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.04443693
+    PERSPECTIVEPROFANITY 0.056770626
+    PERSPECTIVEFLIRTATION 0.27341974
+    PERSPECTIVETHREAT 0.15625413
+    PERSPECTIVETOXICITY 0.04131502
+    PERSPECTIVEINSULT 0.05130647
+    PERSPECTIVEIDENTITYATTACK 0.14869764
+    PERSPECTIVEINFLAMMATORY 0.06486053
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 103
-    name "105"
+    id 105
     label "JcBKjIdpbqo"
     step 0
     date "2022-05-17T19:31:55Z"
@@ -3109,24 +2826,21 @@ graph
     likecount 1233
     commentcount 333
     duration "PT7M3S"
+    sentiment 0.4295
+    PERSPECTIVESEXUALLYEXPLICIT 0.30246845
+    PERSPECTIVEPROFANITY 0.21109565
+    PERSPECTIVEFLIRTATION 0.4341235
+    PERSPECTIVETHREAT 0.29128402
+    PERSPECTIVETOXICITY 0.42616197
+    PERSPECTIVEINSULT 0.26662445
+    PERSPECTIVEIDENTITYATTACK 0.31520778
+    PERSPECTIVEINFLAMMATORY 0.45712543
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
     cluster 1
   ]
   node
   [
-    id 104
-    name "106"
+    id 106
     label "d_fHkt4EURA"
     step 0
     date "2022-05-21T03:30:12Z"
@@ -3139,54 +2853,48 @@ graph
     likecount 2696
     commentcount 1442
     duration "PT15M2S"
+    sentiment -0.5574
+    PERSPECTIVESEXUALLYEXPLICIT 0.38204813
+    PERSPECTIVEPROFANITY 0.440379
+    PERSPECTIVEFLIRTATION 0.4830368
+    PERSPECTIVETHREAT 0.70977056
+    PERSPECTIVETOXICITY 0.44298556
+    PERSPECTIVEINSULT 0.6331893
+    PERSPECTIVEIDENTITYATTACK 0.7315832
+    PERSPECTIVEINFLAMMATORY 0.88178986
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 9
+    cluster 10
   ]
   node
   [
-    id 105
-    name "107"
-    label "IOer0Oy-pyA"
+    id 108
+    label "HOab0eMgyJE"
     step 0
-    date "2022-06-12T20:06:54Z"
-    title "Mark Takano Promotes Resolution Decrying Great Replacement Theory And White Supremacy"
-    description "On Wednesday, Rep. Mark Takano (D-CA) promoted a resolution decrying great replacement theory and white supremacy.&#10;&#10;Stay Connected&#10;Forbes on Facebook: http://fb.com/forbes&#10;Forbes Video on Twitter: http://www.twitter.com/forbes&#10;Forbes Video on Instagram: http://instagram.com/forbes&#10;More From Forbes:  http://forbes.com"
-    channeltitle "Forbes Breaking News"
-    channelid "UCg40OxZ1GYh3u3jBntB6DLg"
+    date "2022-05-17T02:00:02Z"
+    title "Tucker: Our leaders stand in the way of fixing this"
+    description "Fox News host points out how President Biden and Democrats are using race politics to capitalize on the deadly Buffalo shooting on 'Tucker Carlson Tonight.' #FoxNews #Tucker&#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
+    channeltitle "Fox News"
+    channelid "UCXIJgqnII2ZOINSWNOGFThA"
     favcount 0
-    viewcount 501
-    likecount -1
-    commentcount -1
-    duration "PT1M12S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    viewcount 1256045
+    likecount 45802
+    commentcount 10076
+    duration "PT9M32S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.055764023
+    PERSPECTIVEPROFANITY 0.03548168
+    PERSPECTIVEFLIRTATION 0.2878489
+    PERSPECTIVETHREAT 0.13789713
+    PERSPECTIVETOXICITY 0.016521018
+    PERSPECTIVEINSULT 0.03801023
+    PERSPECTIVEIDENTITYATTACK 0.060294684
+    PERSPECTIVEINFLAMMATORY 0.271288
+    indegree 63
+    cluster 1
   ]
   node
   [
-    id 106
-    name "109"
+    id 109
     label "yT2iysFEsrM"
     step 0
     date "2022-05-17T22:45:02Z"
@@ -3199,24 +2907,21 @@ graph
     likecount 3060
     commentcount 1645
     duration "PT8M58S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.041182008
+    PERSPECTIVEPROFANITY 0.04437235
+    PERSPECTIVEFLIRTATION 0.2318618
+    PERSPECTIVETHREAT 0.05975715
+    PERSPECTIVETOXICITY 0.05493369
+    PERSPECTIVEINSULT 0.06984364
+    PERSPECTIVEIDENTITYATTACK 0.052915577
+    PERSPECTIVEINFLAMMATORY 0.44688106
     indegree 16
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 107
-    name "110"
+    id 110
     label "aSU4dziByyo"
     step 0
     date "2022-05-19T23:45:27Z"
@@ -3229,24 +2934,21 @@ graph
     likecount 1688
     commentcount 298
     duration "PT3M55S"
+    sentiment 0.765
+    PERSPECTIVESEXUALLYEXPLICIT 0.06359002
+    PERSPECTIVEPROFANITY 0.07690655
+    PERSPECTIVEFLIRTATION 0.4896008
+    PERSPECTIVETHREAT 0.23568623
+    PERSPECTIVETOXICITY 0.016521018
+    PERSPECTIVEINSULT 0.074407555
+    PERSPECTIVEIDENTITYATTACK 0.042229857
+    PERSPECTIVEINFLAMMATORY 0.029282605
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 7
   ]
   node
   [
-    id 108
-    name "111"
+    id 111
     label "D7QdcDSLTfY"
     step 0
     date "2022-05-20T21:56:18Z"
@@ -3259,54 +2961,48 @@ graph
     likecount 56
     commentcount 16
     duration "PT47S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.089331776
+    PERSPECTIVEPROFANITY 0.0462113
+    PERSPECTIVEFLIRTATION 0.3785816
+    PERSPECTIVETHREAT 0.08978686
+    PERSPECTIVETOXICITY 0.023803791
+    PERSPECTIVEINSULT 0.03950088
+    PERSPECTIVEIDENTITYATTACK 0.048230555
+    PERSPECTIVEINFLAMMATORY 0.14395612
     indegree 6
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 7
   ]
   node
   [
-    id 109
-    name "112"
-    label "_k4ekuFwGIM"
+    id 113
+    label "dgCPd4qoKXw"
     step 0
-    date "2022-06-26T23:00:19Z"
-    title "Tucker Carlsons Great Replacement Plan For Power"
-    description "Tucker Carlson, Fox News host, continues to push the Great Replacement Theory even though it enables radicalized white nationalists which has proven deadly, famously followed by the Buffalo mass shooting gunman. Elise Stefanik is another far-right republican representative who proudly promotes the Great Replacement Theory. Francesca Fiorentini, Ana Kasparian and Dan Evans break it down on The Damage Report. &#10;&#10;Read more here:&#10;&#10;&#10;Watch Francesca on The Bitchuation Room Sundays at 5/8EST http://www.youtube.com/franifio &#10;&#10;Follow Francesca: http://www.twitter.com/franifio &#10;&#10;Become a TDR YouTube Member: http://www.youtube.com/thedamagereport/join &#10;&#10;Follow The Damage Report on Facebook: https://www.facebook.com/TheDamageReportTYT/&#10;&#10;Help build the Home of the Progressives http://tyt.com/JOIN&#10;&#10;Subscribe to The Damage Report YouTube channel: https://www.youtube.com/thedamagereport?sub_confirmation=1&#10;&#10;Follow The Damage Report on TikTok: https://www.tiktok.com/@thedamagereport?lang=en&#10;&#10;Follow The Damage Report on Instagram: http://www.instagram.com/thedamagereport/ &#10;&#10;Follow The Damage Report on Twitter: https://twitter.com/TheDamageReport&#10;&#10;#TheDamageReport #JohnIadarola #TheYoungTurks&#10;&#10;Tags: breaking news, The Damage Report, TDR, John Iadarola, Dan Evans, Francesca Fiorentini, Newsbroke, AJ+, The Bitchuation Room, The Young Turks, tyt, progressive news, progressive media, progressives,"
-    channeltitle "The Damage Report"
-    channelid "UCl9roQQwv4o4OuBj3FhQdDQ"
+    date "2021-04-13T21:30:01Z"
+    title "Tucker Carlson Goes Full  on Fox News"
+    description "--Fox News propagandist goes full &#34;white replacement theory&#34; during a recent segment&#10;&#128085; Get 15% off Teddy Stratford shirts by using code PAKMAN at https://davidpakman.com/teddy&#10;&#10;Support The David Pakman Show:&#10;-Become a Member: https://www.davidpakman.com/membership&#10;-Become a Patron: https://www.patreon.com/davidpakmanshow&#10;-Book David Pakman: https://www.cameo.com/davidpakman&#10;&#10;Engage with us on social media:&#10;-Join on YouTube: https://www.youtube.com/channel/UCvixJtaXuNdMPUGdOPcY8Ag/join&#10;-David on Twitter: http://www.twitter.com/dpakman&#10;-TDPS on Twitter: http://www.twitter.com/davidpakmanshow&#10;-David on Instagram: http://www.instagram.com/david.pakman&#10;-TDPS on Instagram: https://www.instagram.com/davidpakmanshow/&#10;-Discuss on TDPS Subreddit: http://www.reddit.com/r/thedavidpakmanshow/&#10;-Discuss on TDPS Discord: https://discord.com/invite/DZcYXhy&#10;-TDPS Facebook: http://www.facebook.com/davidpakmanshow&#10;-Call the 24/7 Voicemail Line: (219)-2DAVIDP&#10;&#10;-Timely news is important! We upload new clips every day! Make sure to subscribe!&#10;&#10;Broadcast on April 13, 2021&#10;&#10;#davidpakmanshow #tuckercarlson #foxnews"
+    channeltitle "David Pakman Show"
+    channelid "UCvixJtaXuNdMPUGdOPcY8Ag"
     favcount 0
-    viewcount 27013
-    likecount 1131
-    commentcount 420
-    duration "PT7M47S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 4
+    viewcount 153697
+    likecount 5134
+    commentcount 1515
+    duration "PT8M43S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.11938612
+    PERSPECTIVEPROFANITY 0.15365374
+    PERSPECTIVEFLIRTATION 0.31199858
+    PERSPECTIVETHREAT 0.1998207
+    PERSPECTIVETOXICITY 0.22990796
+    PERSPECTIVEINSULT 0.16539729
+    PERSPECTIVEIDENTITYATTACK 0.30379376
+    PERSPECTIVEINFLAMMATORY 0.2880822
+    indegree 12
+    cluster 8
   ]
   node
   [
-    id 110
-    name "114"
+    id 114
     label "lxVq4U5jkAw"
     step 0
     date "2022-05-19T13:21:08Z"
@@ -3319,24 +3015,21 @@ graph
     likecount 19
     commentcount 19
     duration "PT5M22S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.049770344
+    PERSPECTIVEPROFANITY 0.035134695
+    PERSPECTIVEFLIRTATION 0.2584146
+    PERSPECTIVETHREAT 0.070688106
+    PERSPECTIVETOXICITY 0.018325835
+    PERSPECTIVEINSULT 0.02561866
+    PERSPECTIVEIDENTITYATTACK 0.034059763
+    PERSPECTIVEINFLAMMATORY 0.09028102
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 111
-    name "115"
+    id 115
     label "LRPAYzIzy_A"
     step 0
     date "2022-05-17T02:30:06Z"
@@ -3349,54 +3042,48 @@ graph
     likecount 3076
     commentcount 1304
     duration "PT13M34S"
+    sentiment 0.0772
+    PERSPECTIVESEXUALLYEXPLICIT 0.14133848
+    PERSPECTIVEPROFANITY 0.06624154
+    PERSPECTIVEFLIRTATION 0.26249608
+    PERSPECTIVETHREAT 0.09083928
+    PERSPECTIVETOXICITY 0.23452865
+    PERSPECTIVEINSULT 0.06630739
+    PERSPECTIVEIDENTITYATTACK 0.12198225
+    PERSPECTIVEINFLAMMATORY 0.6889842
     indegree 10
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 2
+    cluster 10
   ]
   node
   [
-    id 112
-    name "116"
-    label "G1umsL-GhYM"
+    id 117
+    label "Z_0iFBJPWoY"
     step 0
-    date "2022-06-29T23:21:09Z"
-    title "Beloved Community Talks | The Replacement Theory and White Fear: It Starts in Our Minds"
-    description "This Wednesday, June 29th at 6:30PM join us for another #CriticalConversation with Tim Wise, Scott Shepherd and Arno Michaelis as we discuss &#8216;The Replacement Theory and White Fear.&#8217; America has been wrestling with white supremacy and alt-right ideologies since it&#8217;s foundation. This conversation will helps us to understand why this happens and how we can use nonviolence to help change the way we think about each other. &#13;&#10;&#13;&#10;#BCT #BelovedCommunityTalks"
-    channeltitle "The Martin Luther King, Jr. Center for Nonviolent Social Change"
-    channelid "UCm4vHROaPm_syaXTZK08Gag"
+    date "2021-09-23T01:04:05Z"
+    title "Tucker: Why would Biden do this to his own country?"
+    description "'Tucker Carlson Tonight' host explains why the president favors mass immigration #FoxNews&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity:  http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
+    channeltitle "Fox News"
+    channelid "UCXIJgqnII2ZOINSWNOGFThA"
     favcount 0
-    viewcount 806
-    likecount 61
-    commentcount 0
-    duration "PT48M8S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 9
+    viewcount 1732786
+    likecount 72030
+    commentcount 20231
+    duration "PT10M42S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.051371563
+    PERSPECTIVEPROFANITY 0.043979038
+    PERSPECTIVEFLIRTATION 0.23159026
+    PERSPECTIVETHREAT 0.12484712
+    PERSPECTIVETOXICITY 0.03187269
+    PERSPECTIVEINSULT 0.092025064
+    PERSPECTIVEIDENTITYATTACK 0.1360646
+    PERSPECTIVEINFLAMMATORY 0.1464284
+    indegree 48
+    cluster 11
   ]
   node
   [
-    id 113
-    name "118"
+    id 118
     label "XCs1_uRmL94"
     step 0
     date "2022-05-17T16:00:24Z"
@@ -3409,24 +3096,21 @@ graph
     likecount 328
     commentcount 80
     duration "PT1H50M29S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.0702441
+    PERSPECTIVEPROFANITY 0.053377353
+    PERSPECTIVEFLIRTATION 0.3643918
+    PERSPECTIVETHREAT 0.27719226
+    PERSPECTIVETOXICITY 0.04406188
+    PERSPECTIVEINSULT 0.053200107
+    PERSPECTIVEIDENTITYATTACK 0.08103939
+    PERSPECTIVEINFLAMMATORY 0.012658654
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 114
-    name "119"
+    id 119
     label "9fr7Zh2Twbk"
     step 0
     date "2022-05-19T04:00:56Z"
@@ -3439,24 +3123,21 @@ graph
     likecount 8
     commentcount 7
     duration "PT30M3S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.05228656
+    PERSPECTIVEPROFANITY 0.033445083
+    PERSPECTIVEFLIRTATION 0.24004713
+    PERSPECTIVETHREAT 0.071730375
+    PERSPECTIVETOXICITY 0.024662184
+    PERSPECTIVEINSULT 0.032786466
+    PERSPECTIVEIDENTITYATTACK 0.04949128
+    PERSPECTIVEINFLAMMATORY 0.09181308
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 115
-    name "120"
+    id 120
     label "gX0ZqT5JFIw"
     step 0
     date "2022-06-07T15:07:25Z"
@@ -3469,24 +3150,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT6M35S"
+    sentiment -0.5859
+    PERSPECTIVESEXUALLYEXPLICIT 0.7407407
+    PERSPECTIVEPROFANITY 0.6222302
+    PERSPECTIVEFLIRTATION 0.50083995
+    PERSPECTIVETHREAT 0.7628173
+    PERSPECTIVETOXICITY 0.33600304
+    PERSPECTIVEINSULT 0.5638929
+    PERSPECTIVEIDENTITYATTACK 0.58523935
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 116
-    name "121"
+    id 121
     label "edyzX41nEnM"
     step 0
     date "2022-05-16T18:51:22Z"
@@ -3499,24 +3177,21 @@ graph
     likecount 315
     commentcount 329
     duration "PT1M52S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.055628456
+    PERSPECTIVEPROFANITY 0.042137906
+    PERSPECTIVEFLIRTATION 0.27246478
+    PERSPECTIVETHREAT 0.124547966
+    PERSPECTIVETOXICITY 0.015132698
+    PERSPECTIVEINSULT 0.038520027
+    PERSPECTIVEIDENTITYATTACK 0.040779978
+    PERSPECTIVEINFLAMMATORY 0.29587683
     indegree 10
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 6
+    cluster 1
   ]
   node
   [
-    id 117
-    name "122"
+    id 122
     label "cK-zzj8L7Mc"
     step 0
     date "2021-03-20T17:00:08Z"
@@ -3529,54 +3204,48 @@ graph
     likecount 147
     commentcount 136
     duration "PT17M12S"
+    sentiment 0.4404
+    PERSPECTIVESEXUALLYEXPLICIT 0.05296429
+    PERSPECTIVEPROFANITY 0.047380555
+    PERSPECTIVEFLIRTATION 0.21280403
+    PERSPECTIVETHREAT 0.093139276
+    PERSPECTIVETOXICITY 0.035134587
+    PERSPECTIVEINSULT 0.042189255
+    PERSPECTIVEIDENTITYATTACK 0.060554523
+    PERSPECTIVEINFLAMMATORY 0.14980674
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 5
   ]
   node
   [
-    id 118
-    name "123"
-    label "N1cE6JLiqA4"
+    id 124
+    label "UkxDUaFdz6w"
     step 0
-    date "2022-06-11T10:00:11Z"
-    title "Why I Have This Alternative Great Replacement Theory"
-    description "Are white supremacists going overboard with &#8220;The Great Replacement Theory&#8221;? Many really believe that there&#8217;s some conspiracy to stamp out the white race. Isn&#8217;t it just demographic changes based on human behavior taking their natural course? However, there is an &#8220;Alternative Great Replacement Theory&#8221; that may shed some light on why there&#8217;s so much evil in the world. &#8220;The Book of Life&#8221; written in the 13th century outlines the commonly-held belief at the time that humans were created by God so that their souls would one day replace the fallen angels who were cast out of heaven for their rebellion. &#10;&#10;Well, the plan didn&#8217;t go as quickly as God had hoped because the fallen angels are hell-bent on keeping humans from reaching their highest selves. Perhaps white supremacists have been possessed by demons who really are paranoid that they will be replaced. Not on the earth, but in heaven. Thus, this rise in hate isn&#8217;t random or irrational. It&#8217;s part of a strategy, metaphysical or not, to keep people in a perpetual state of chaos and conflict. It&#8217;s our job to keep working on ourselves to rise above because we have to claim our reservation among the angels.&#10;&#10;Paradise Lost In Plain English:&#10;https://amzn.to/3QjZHP8&#10;&#10;Dr. PAWPAW Multipurpose Hair &#38; Body Cleanse and Condition&#10;https://amzn.to/3t9v3h9&#10;&#10;KF94 Face Masks&#10;https://amzn.to/3MR73b&#10;&#10;Save $50 on the Eco Face Platinum Mask with coupon: SAVE50&#10;https://www.ecofaceplatinum.com&#10;&#10;Seoulite TV | Intellectual ammunition for the digital revolution.&#10;&#175;\_(&#12484;)_/&#175; I'm sorry I said it, but I'm glad they heard it. &#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCrO8Z4deCmHPPfw1jodLT-w/join&#10;&#10;Donate: https://www.seoulite.tv/donate&#10;Shop: https://www.amazon.com/shop/theseoulite&#10;Free Audiobook Trial: https://amzn.to/3Cgum98&#10;Audible Premium Plus: https://amzn.to/3HTjFe8&#10;&#10;Instagram: theseoulite&#10;Twitter: theseoulite&#10;Facebook: seoulitetv&#10;Medium: theseoulite&#10;Bitclout: theseoulite&#10;&#10;Support the channel by shopping with the affiliate links above.&#10;&#10;0:00 Introduction&#10;1:00 Great Replacement Theory&#10;2:00 Battle Between Man vs. Fallen Angels?&#10;3:00 The Real Replacement Theory&#10;4:45 Empty Vacuum in Heaven for Human Souls&#10;6:10 White Supremacists and Great Replacement Theory&#10;7:05 Renaud Camus Published Great Replacement in 2011&#10;8:25 Genesis Chapter Six Refers to Angels Interacting with Humans&#10;9:25 Book of Enoch Refers to Fallen Angels Teaching Humans How to Sin&#10;10:00 The Book of Life Explains Humans&#8217; Goal to Ascend to Heaven&#10;11:20 Fallen Angels are Jealous and Keep Humans from their Highest Selves&#10;13:00 Natural Human Inclination to Rise to Higher Self&#10;13:40 Ten Levels of Heaven?&#10;16:00 Humans Carved by Angelic Light&#10;17:00 Angels and Demons Responsible for Our Vibe Check?&#10;17:50 Thomas Aquinas Created Chrisitan Version of Replacement Theory&#10;18:40 Greatest Trap for Man is Sensuality&#10;21:00 Isn&#8217;t it a Relief?&#10;22:30 What are the Foundations of Faith and Belief?&#10;23:10 RSVP to Heaven&#10;24:30 What Did the Rabbi Conclude?"
-    channeltitle "Seoulite TV"
-    channelid "UCrO8Z4deCmHPPfw1jodLT-w"
+    date "2022-05-17T00:54:14Z"
+    title "Wheres Racial Scapegoating, Cultural Anxiety, Great Replacement Nonsense?"
+    description "Where's Dems Response For GOP's Racial Scapegoating, Cultural Anxiety, Great Replacement Nonsense?"
+    channeltitle "Roland S. Martin"
+    channelid "UCjXB7nX8bL2U2sje8d212Yw"
     favcount 0
-    viewcount 1065
-    likecount 80
-    commentcount 19
-    duration "PT26M40S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    viewcount 3839
+    likecount 169
+    commentcount 23
+    duration "PT21M10S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.11812821
+    PERSPECTIVEPROFANITY 0.1420726
+    PERSPECTIVEFLIRTATION 0.54867566
+    PERSPECTIVETHREAT 0.6162385
+    PERSPECTIVETOXICITY 0.39694545
+    PERSPECTIVEINSULT 0.48810384
+    PERSPECTIVEIDENTITYATTACK 0.48299444
+    PERSPECTIVEINFLAMMATORY 0.6180473
+    indegree 2
+    cluster 4
   ]
   node
   [
-    id 119
-    name "125"
+    id 125
     label "dskVval50AE"
     step 0
     date "2021-05-06T23:16:22Z"
@@ -3589,24 +3258,21 @@ graph
     likecount 22429
     commentcount 6804
     duration "PT17M46S"
+    sentiment 0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.03145763
+    PERSPECTIVEPROFANITY 0.03156333
+    PERSPECTIVEFLIRTATION 0.2797744
+    PERSPECTIVETHREAT 0.16535656
+    PERSPECTIVETOXICITY 0.029640866
+    PERSPECTIVEINSULT 0.021077612
+    PERSPECTIVEIDENTITYATTACK 0.027529538
+    PERSPECTIVEINFLAMMATORY 0.38896874
     indegree 14
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanLeft"
-    leftright "L"
-    cluster 1
+    cluster 11
   ]
   node
   [
-    id 120
-    name "126"
+    id 126
     label "l2gkQBvomq8"
     step 0
     date "2022-05-25T17:07:30Z"
@@ -3619,24 +3285,21 @@ graph
     likecount 73
     commentcount 30
     duration "PT2M28S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.24384807
+    PERSPECTIVEPROFANITY 0.43912673
+    PERSPECTIVEFLIRTATION 0.48917645
+    PERSPECTIVETHREAT 0.29246658
+    PERSPECTIVETOXICITY 0.1024659
+    PERSPECTIVEINSULT 0.43769044
+    PERSPECTIVEIDENTITYATTACK 0.5384388
+    PERSPECTIVEINFLAMMATORY 0.009327778
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 121
-    name "127"
+    id 127
     label "RPN9Pn8PvI4"
     step 0
     date "2022-06-04T16:38:13Z"
@@ -3649,24 +3312,21 @@ graph
     likecount 11
     commentcount 0
     duration "PT19S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06180265
+    PERSPECTIVEPROFANITY 0.07275688
+    PERSPECTIVEFLIRTATION 0.2725846
+    PERSPECTIVETHREAT 0.09618922
+    PERSPECTIVETOXICITY 0.03856816
+    PERSPECTIVEINSULT 0.14052337
+    PERSPECTIVEIDENTITYATTACK 0.2212973
+    PERSPECTIVEINFLAMMATORY 0.519848
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 122
-    name "128"
+    id 128
     label "YxezPMSjAlU"
     step 0
     date "2022-05-16T20:00:07Z"
@@ -3679,54 +3339,48 @@ graph
     likecount 2408
     commentcount 966
     duration "PT10M11S"
+    sentiment -0.5423
+    PERSPECTIVESEXUALLYEXPLICIT 0.060031433
+    PERSPECTIVEPROFANITY 0.24928617
+    PERSPECTIVEFLIRTATION 0.3287625
+    PERSPECTIVETHREAT 0.28638735
+    PERSPECTIVETOXICITY 0.42465788
+    PERSPECTIVEINSULT 0.6297716
+    PERSPECTIVEIDENTITYATTACK 0.73078966
+    PERSPECTIVEINFLAMMATORY 0.583182
     indegree 14
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 5
+    cluster 7
   ]
   node
   [
-    id 123
-    name "129"
-    label "apnH_5VTCCk"
+    id 130
+    label "EKa9dZiufLM"
     step 0
-    date "2022-07-12T21:01:31Z"
-    title "The  Theory"
-    description "Provided to YouTube by DistroKid&#10;&#10;The &#8216;Great Replacement&#8217; Theory &#183; Terri Skillz&#10;&#10;The &#8216;Great Replacement&#8217; Theory&#10;&#10;&#8471; 575349 Records DK&#10;&#10;Released on: 2022-07-12&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Terri Skillz - Topic"
-    channelid "UCWL0FlByoBvnfKXmBXTdHpQ"
+    date "2022-05-18T14:07:57Z"
+    title "White Replacement Theory | LivingUNDIVIDED"
+    description "We are still processing the tragic event this past week in Buffalo, New York. Chuck Mingo shares the truth behind  &#34;replacement theory&#34; and how this conspiracy is not consistent with a biblical worldview."
+    channeltitle "LivingUNDIVIDED"
+    channelid "UCDCVXPwwBL990se27ty2owA"
     favcount 0
-    viewcount 17
-    likecount 1
-    commentcount 0
-    duration "PT3M52S"
+    viewcount 1044
+    likecount 39
+    commentcount 6
+    duration "PT7M51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13228858
+    PERSPECTIVEPROFANITY 0.110173844
+    PERSPECTIVEFLIRTATION 0.2948545
+    PERSPECTIVETHREAT 0.25311184
+    PERSPECTIVETOXICITY 0.19338597
+    PERSPECTIVEINSULT 0.111970305
+    PERSPECTIVEIDENTITYATTACK 0.20587066
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 124
-    name "131"
+    id 131
     label "VULFUKUf_ks"
     step 0
     date "2022-05-20T15:41:47Z"
@@ -3739,24 +3393,21 @@ graph
     likecount 164
     commentcount 49
     duration "PT1M3S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.07034299
+    PERSPECTIVEPROFANITY 0.07611943
+    PERSPECTIVEFLIRTATION 0.5434351
+    PERSPECTIVETHREAT 0.28813663
+    PERSPECTIVETOXICITY 0.09387396
+    PERSPECTIVEINSULT 0.04090733
+    PERSPECTIVEIDENTITYATTACK 0.044682328
+    PERSPECTIVEINFLAMMATORY 0.04493878
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 2
+    cluster 1
   ]
   node
   [
-    id 125
-    name "132"
+    id 132
     label "9DfgsM8mgA0"
     step 0
     date "2022-05-19T16:00:07Z"
@@ -3769,24 +3420,21 @@ graph
     likecount 71
     commentcount 98
     duration "PT5M7S"
+    sentiment 0.4019
+    PERSPECTIVESEXUALLYEXPLICIT 0.07792239
+    PERSPECTIVEPROFANITY 0.086643405
+    PERSPECTIVEFLIRTATION 0.34349272
+    PERSPECTIVETHREAT 0.115970954
+    PERSPECTIVETOXICITY 0.0801064
+    PERSPECTIVEINSULT 0.07623679
+    PERSPECTIVEIDENTITYATTACK 0.089931116
+    PERSPECTIVEINFLAMMATORY 0.29503456
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 126
-    name "133"
+    id 133
     label "FEhdgkNpReM"
     step 0
     date "2022-04-07T16:00:06Z"
@@ -3799,24 +3447,21 @@ graph
     likecount 622
     commentcount 333
     duration "PT17M19S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.06798082
+    PERSPECTIVEPROFANITY 0.10798522
+    PERSPECTIVEFLIRTATION 0.27282003
+    PERSPECTIVETHREAT 0.07327273
+    PERSPECTIVETOXICITY 0.2088965
+    PERSPECTIVEINSULT 0.17710018
+    PERSPECTIVEIDENTITYATTACK 0.16546577
+    PERSPECTIVEINFLAMMATORY 0.6632957
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 7
   ]
   node
   [
-    id 127
-    name "134"
+    id 134
     label "wwhEsm1neHE"
     step 0
     date "2022-05-19T11:57:48Z"
@@ -3829,54 +3474,48 @@ graph
     likecount 10
     commentcount 1
     duration "PT1H11M55S"
+    sentiment 0.6486
+    PERSPECTIVESEXUALLYEXPLICIT 0.19518523
+    PERSPECTIVEPROFANITY 0.116362736
+    PERSPECTIVEFLIRTATION 0.42157432
+    PERSPECTIVETHREAT 0.42181644
+    PERSPECTIVETOXICITY 0.2712817
+    PERSPECTIVEINSULT 0.11778937
+    PERSPECTIVEIDENTITYATTACK 0.2577744
+    PERSPECTIVEINFLAMMATORY 0.40546936
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 4
   ]
   node
   [
-    id 128
-    name "135"
-    label "mrFiwjhLVbw"
+    id 136
+    label "0fUk0rtUDUY"
     step 0
-    date "2022-06-24T17:12:42Z"
-    title "Trumps Border Wall and Travel Bans are Great Replacement Theory Paranoia #shorts"
-    description "JRP Clip from episode JRP0275: The Great Replacement Theory vs The Pursuit of Happiness. This is just a short segment of the podcast episode.&#10;&#10;For the full John Riley Project episode please visit:&#10;&#10;Video: https://www.youtube.com/watch?v=DT1Ee1AQqhI&#10;&#10;Audio: https://johnrileyproject.com/great-replacement-theory-pursuit-of-happiness/&#10;&#10;&#10;Get proven and easy-to-implement strategies to build your business and pursue your happiness. Sign up now. It's FREE! https://johnrileyproject.com/ &#10;&#10;Be sure to share this video with a friend! &#10;&#10;&#9734;&#9734; STAY CONNECTED &#9734;&#9734; SUBSCRIBE for more reactions, upcoming shows and more! &#9658; https://www.youtube.com/channel/UCJJSzeIW2A-AeT7gwonglMA &#10;&#10;FACEBOOK &#10145; https://www.facebook.com/johnrileyproject/ &#10;&#10;TWITTER &#10145; https://twitter.com/JohnRileyPoway &#10;&#10;INSTAGRAM &#10145; https://www.instagram.com/johnrileypoway/ &#10;&#10;Sponsorship Inquiries https://johnrileyproject.com/sponsorship/"
-    channeltitle "John Riley Project"
-    channelid "UCJJSzeIW2A-AeT7gwonglMA"
+    date "2021-10-19T02:39:58Z"
+    title "Great Replacement Debate Veers Completely Off Topic"
+    description "DEBATE: Destiny and Sean Last go off-script after realizing the broadness of the debate topic.&#10;&#10;Date: 18 Oct, 2021&#10;&#10;Follow Destiny&#10;&#9658;STREAM - http://www.destiny.gg/bigscreen&#10;&#9658;DISCORD - https://discordapp.com/invite/destiny&#10;&#9658;REDDIT - https://www.reddit.com/r/Destiny&#10;&#9658;INSTAGRAM - https://www.instagram.com/destiny&#10;&#9658;MERCH - https://shop.destiny.gg/&#10;&#10;Politically Provoked&#10;&#9658;https://www.youtube.com/c/PoliticallyProvoked/videos&#10;&#10;We are giants - Epidemic Sounds (INTRO SONG)&#10;&#10;Check Out My Amazon: https://www.amazon.com/shop/destiny&#10;Buy My Merch: https://shop.destiny.gg/&#10;&#10;0:00 - Teaser/Intro&#10;0:44 - Sean's opening&#10;8:08 - Destiny's opening&#10;9:53 - Immigration moves institution to the left?&#10;19:20 - Anti-white bias and narrative, academics&#10;27:58 - Destiny's biggest problem with these line of arguments&#10;32:45 - White ethnic identity in the United States&#10;42:37 - University admissions&#10;54:33 - Job performance gap&#10;1:16:45 - Q&#38;A&#10;2:42:22 - Post debate thoughts&#10;&#10;#Destiny"
+    channeltitle "Destiny"
+    channelid "UC554eY5jNUfDq3yDOJYirOQ"
     favcount 0
-    viewcount 1
-    likecount 0
-    commentcount 0
-    duration "PT46S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    viewcount 162617
+    likecount 2337
+    commentcount 1522
+    duration "PT2H49M48S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.14724784
+    PERSPECTIVEPROFANITY 0.11817416
+    PERSPECTIVEFLIRTATION 0.42061168
+    PERSPECTIVETHREAT 0.34266672
+    PERSPECTIVETOXICITY 0.04818217
+    PERSPECTIVEINSULT 0.08726272
+    PERSPECTIVEIDENTITYATTACK 0.12670511
+    PERSPECTIVEINFLAMMATORY 0.15520431
+    indegree 30
+    cluster 11
   ]
   node
   [
-    id 129
-    name "137"
+    id 137
     label "19B2HZejCoQ"
     step 0
     date "2022-03-24T13:12:17Z"
@@ -3889,24 +3528,21 @@ graph
     likecount 152
     commentcount 107
     duration "PT52S"
+    sentiment -0.3818
+    PERSPECTIVESEXUALLYEXPLICIT 0.07389012
+    PERSPECTIVEPROFANITY 0.22565559
+    PERSPECTIVEFLIRTATION 0.3005695
+    PERSPECTIVETHREAT 0.11602136
+    PERSPECTIVETOXICITY 0.29045674
+    PERSPECTIVEINSULT 0.43581864
+    PERSPECTIVEIDENTITYATTACK 0.6104908
+    PERSPECTIVEINFLAMMATORY 0.7991844
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 6
+    cluster 4
   ]
   node
   [
-    id 130
-    name "138"
+    id 138
     label "Q2M_mBj0Q1M"
     step 0
     date "2022-05-26T13:16:57Z"
@@ -3919,84 +3555,75 @@ graph
     likecount 802
     commentcount 531
     duration "PT9M37S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.1898037
+    PERSPECTIVEPROFANITY 0.16283798
+    PERSPECTIVEFLIRTATION 0.5322457
+    PERSPECTIVETHREAT 0.5019661
+    PERSPECTIVETOXICITY 0.0669207
+    PERSPECTIVEINSULT 0.094979905
+    PERSPECTIVEIDENTITYATTACK 0.12074617
+    PERSPECTIVEINFLAMMATORY 0.009468459
     indegree 7
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 131
-    name "139"
-    label "asUpBdDlyPA"
+    id 140
+    label "EHrqFde2Aek"
     step 0
-    date "2022-07-05T18:16:41Z"
-    title "Weekend Special Ep. 4. The True Face of Great Replacement Theory"
-    description "Great Replacement Theory (GRT) is used to malign those who question modern immigration practices, both legal and illegal, as hallmarks of racism and prejudice. Omitted from this conversation is the historical roots of the Democratic Party in perpetuating actual GRT propaganda to uphold slavery and later Jim Crowism and the violent murder of blacks and immigrants seeking employment in Northern industrial cities.&#10;&#10;Hidden behind this facade is a very real political strategy employed openly and lauded by every Leftist-Democrat spokesperson and publication, from the Democrat President Joe Biden to Salon magazine as early as the 2000s.&#10;&#10;One might ask: Why invite Southern Hispanic illegal immigrants and refugees, while outright rejecting Cubans? The answer is a simple one: the acclimation of political power.&#10;&#10;Home Page: www.1787Project.com&#10;Buy on Amazon: https://www.amazon.com/~/e/B098PFYV7D&#10;RedCircle: https://redcircle.com/shows/shane-caraway-show&#10;Spotify: https://open.spotify.com/show/6HBiMx25FQNDocdKZ3QSJh&#10;Facebook: http://www.facebook.com/wellnessandstrength&#10;Truth Social: https://truthsocial.com/@1787Project"
-    channeltitle "Shane Caraway"
-    channelid "UCqt83b0FRdsyQbGo6hQOxRw"
+    date "2022-05-18T17:51:28Z"
+    title "Tucker Carlson Distances Himself From Great Replacement Theory"
+    description "With all the controversy surrounding Fox News, Tucker is now deflecting that the democrats are pushing the &#8220;great replacement theory.&#8221;  Jayar Jackson and Adrienne Lawrence break it down on The Watchlist. Watch LIVE weekdays at noon ET. http://youtube.com/watchlisttyt/live&#10;&#10;Read more HERE: https://www.mediaite.com/tv/tucker-carlson-claims-hes-not-sure-exactly-what-great-replacement-is/&#10;&#34;Tucker Carlson claimed not to know what great replacement theory is on Tuesday night despite having explicitly espoused the idea in previous shows.&#10;&#10;The theory holds that elites are plotting to dilute the political power of White people in the United States, particularly via the immigration of non-Whites. This topic has been a subject of national discussion in the media since Saturday when police say a white gunman murdered 10 Black people at a grocery store in Buffalo. The suspected had cited the theory in a rambling and racist screed.&#34;&#10;*** &#10;&#10;Host Jayar Jackson reacts to a must-watch list of videos of the day, which will cover news, politics, society, culture, current events, and more. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks:  https://www.tyt.com/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://youtube.com/watchlisttyt&#10;FACEBOOK: &#9758; http://www.facebook.com/watchlisttyt&#10;TWITTER: &#9758; https://twitter.com/watchlisttyt&#10;INSTAGRAM: &#9758; https://instagram.com/watchlisttyt&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#10; Merch: http://shoptyt.com&#10;&#10; Donate: http://www.tyt.com/go&#10;&#10; Website: https://www.tyt.com&#10;&#10;App: http://www.tyt.com/app&#10;&#10; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;Indisputable  https://www.youtube.com/indisputabletyt&#10;&#10;The Young Turks  https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report  https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports  https://www.youtube.com/tytsports&#10;&#10;The Conversation  https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ  https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates  https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;#TYT #TheWatchlist #JayarJackson&#10;&#10;&#10;220518__WL04_Tucker_Claims"
+    channeltitle "WatchlistTYT"
+    channelid "UCdUdP5BeOsua_j3u-0ZbL5w"
     favcount 0
-    viewcount 1
-    likecount 0
-    commentcount 0
-    duration "PT56M13S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 5197
+    likecount 315
+    commentcount 173
+    duration "PT5M17S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.12573592
+    PERSPECTIVEPROFANITY 0.13490823
+    PERSPECTIVEFLIRTATION 0.35730037
+    PERSPECTIVETHREAT 0.2052603
+    PERSPECTIVETOXICITY 0.04165838
+    PERSPECTIVEINSULT 0.13851395
+    PERSPECTIVEIDENTITYATTACK 0.1604609
+    PERSPECTIVEINFLAMMATORY 0.37583494
+    indegree 1
     cluster 8
   ]
   node
   [
-    id 132
-    name "141"
-    label "M7-itrUUxvE"
+    id 142
+    label "uXipalRQIg4"
     step 0
-    date "2022-05-31T13:00:11Z"
-    title "Fear of Mutants is a Comic Analogy for the Great Replacement Theory"
-    description "A viewer checks in to make sense of this mutant issue.&#10;&#10;Follow Perch at...&#10;&#9989; Substack: https://perch.substack.com&#10;&#9989; Twitter: https://twitter.com/ComicPerch&#10;&#9989; Facebook: https://www.facebook.com/perch.comments&#10;&#9989; Email at: comicsperch@gmail.com&#10;&#10;&#127897;&#65039; iTunes Podcast: https://podcasts.apple.com/us/podcast/comics-by-perch/id1554376336&#10;&#127897;&#65039; Spotify: https://open.spotify.com/show/79oLwtpFnrxEeOYxbchjMB&#10;&#127897;&#65039; Google Podcasts: https://podcastsmanager.google.com/show?show=show:GbeSmxSFlYFYAOxgyFysRg &#10;&#127897;&#65039; Amazon Music: https://music.amazon.com/podcasts/c95e12d4-f503-4c09-ab2b-d6026d1cbcfe/Comics-by-Perch&#10;&#127897;&#65039; Podbean: https://feed.podbean.com/perch/feed.xml&#10;&#10;#ComicBooks #TopComics #GraphicNovels"
-    channeltitle "Comics by Perch"
-    channelid "UCw4ivsPeqZVtHD85VjVnNaw"
+    date "2021-10-30T23:08:55Z"
+    title "Nick Estes on the "
+    description "Red Nation Podcast co-host Nick Estes on John Carpenter's Halloween (1978)&#10;&#10;Support Red Media on Patreon to listen to the entire episode&#10;https://www.patreon.com/redmediapr"
+    channeltitle "The Red Nation"
+    channelid "UCLWlIHx5dZiPfCosHk0YqFQ"
     favcount 0
-    viewcount 2477
-    likecount 182
-    commentcount 152
-    duration "PT15M46S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    viewcount 432
+    likecount 58
+    commentcount 6
+    duration "PT1M52S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1797778
+    PERSPECTIVEPROFANITY 0.37185594
+    PERSPECTIVEFLIRTATION 0.52442497
+    PERSPECTIVETHREAT 0.81433123
+    PERSPECTIVETOXICITY 0.44805592
+    PERSPECTIVEINSULT 0.53393537
+    PERSPECTIVEIDENTITYATTACK 0.8008965
+    PERSPECTIVEINFLAMMATORY 0.00038036585
+    indegree 2
+    cluster 8
   ]
   node
   [
-    id 133
-    name "143"
+    id 143
     label "dwgsbZ1MsAE"
     step 0
     date "2021-08-07T03:02:06Z"
@@ -4009,24 +3636,21 @@ graph
     likecount 110221
     commentcount 86645
     duration "PT9M31S"
+    sentiment -0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.058758326
+    PERSPECTIVEPROFANITY 0.049518112
+    PERSPECTIVEFLIRTATION 0.3873861
+    PERSPECTIVETHREAT 0.2193729
+    PERSPECTIVETOXICITY 0.10634898
+    PERSPECTIVEINSULT 0.09228334
+    PERSPECTIVEIDENTITYATTACK 0.15750381
+    PERSPECTIVEINFLAMMATORY 0.45994157
     indegree 30
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "LateNightTalkShow|PartisanLeft"
-    leftright "L"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 134
-    name "144"
+    id 144
     label "rfaxtACt7TA"
     step 0
     date "2022-05-20T21:00:31Z"
@@ -4039,24 +3663,21 @@ graph
     likecount 5
     commentcount 3
     duration "PT36M39S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.09061524
+    PERSPECTIVEPROFANITY 0.042872544
+    PERSPECTIVEFLIRTATION 0.40539914
+    PERSPECTIVETHREAT 0.13406454
+    PERSPECTIVETOXICITY 0.02124131
+    PERSPECTIVEINSULT 0.043130394
+    PERSPECTIVEIDENTITYATTACK 0.058774013
+    PERSPECTIVEINFLAMMATORY 0.19979481
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 7
   ]
   node
   [
-    id 135
-    name "145"
+    id 145
     label "4C5gCoElaL4"
     step 0
     date "2022-05-17T11:57:05Z"
@@ -4069,24 +3690,21 @@ graph
     likecount -1
     commentcount 1
     duration "PT2H11M56S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.036206447
+    PERSPECTIVEPROFANITY 0.019457035
+    PERSPECTIVEFLIRTATION 0.24725537
+    PERSPECTIVETHREAT 0.05142601
+    PERSPECTIVETOXICITY 0.016590435
+    PERSPECTIVEINSULT 0.020488277
+    PERSPECTIVEIDENTITYATTACK 0.027408764
+    PERSPECTIVEINFLAMMATORY 0.12403069
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 2
   ]
   node
   [
-    id 136
-    name "146"
+    id 146
     label "-EzgfBMVwFQ"
     step 0
     date "2022-05-18T01:30:00Z"
@@ -4099,54 +3717,48 @@ graph
     likecount 105074
     commentcount 20541
     duration "PT15M9S"
+    sentiment -0.3818
+    PERSPECTIVESEXUALLYEXPLICIT 0.06426002
+    PERSPECTIVEPROFANITY 0.5269355
+    PERSPECTIVEFLIRTATION 0.21925011
+    PERSPECTIVETHREAT 0.18388198
+    PERSPECTIVETOXICITY 0.7007861
+    PERSPECTIVEINSULT 0.85029876
+    PERSPECTIVEIDENTITYATTACK 0.5937892
+    PERSPECTIVEINFLAMMATORY 0.75977004
     indegree 21
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanRight"
-    leftright "R"
-    cluster 5
+    cluster 4
   ]
   node
   [
-    id 137
-    name "147"
-    label "hDXJ9OUco04"
+    id 149
+    label "WfAYsyXcKR8"
     step 0
-    date "2021-01-20T16:00:29Z"
-    title "(UPDATE) United States of Conspiracy (full documentary) | FRONTLINE"
-    description "How trafficking in conspiracy theories went from the fringes of U.S. politics into the White House. This is an update of the 2020 FRONTLINE documentary, &#8220;United States of Conspiracy.&#8221;&#10; &#10;An investigation of the alliance among conspiracy theorist Alex Jones, longtime Trump associate Roger Stone and the president &#8212; and their role in the battle over truth and lies.&#10;&#10;This journalism is made possible by viewers like you. Support your local PBS station here: http://www.pbs.org/donate &#10;&#10;As the coronavirus pandemic continues, America reckons with racism and the 2020 election looms, &#8220;United States of Conspiracy&#8221; investigates how Jones and InfoWars, Stone, and Trump helped to lay the foundation for conspiracy theories to take center stage in America&#8217;s national conversation, how the idea of truth itself became part of America&#8217;s divide, and what it means for the future of our democracy.&#10;&#10;#ConspiracyTheories #USPolitics #Documentaries&#10;&#10;Love FRONTLINE? Find us on the PBS Video App where there are more than 300 FRONTLINE documentaries available for you to watch any time: https://to.pbs.org/FLVideoApp &#10;&#10;Subscribe on YouTube: http://bit.ly/1BycsJW &#10;Instagram: https://www.instagram.com/frontlinepbs &#10;Twitter: https://twitter.com/frontlinepbs &#10;Facebook: https://www.facebook.com/frontline &#10;&#10;Funding for FRONTLINE is provided through the support of PBS viewers and by the Corporation for Public Broadcasting. Major funding for FRONTLINE is provided by the John D. and Catherine T. MacArthur Foundation and the Ford Foundation. Additional funding is provided by the Abrams Foundation; Park Foundation; the Heising-Simons Foundation; the FRONTLINE Journalism Fund with major support from Jon and Jo Ann Hagler on behalf of the Jon L. Hagler Foundation; and Koo and Patricia Yuen."
-    channeltitle "FRONTLINE PBS | Official"
-    channelid "UC3ScyryU9Oy9Wse3a8OAmYQ"
+    date "2022-06-15T16:19:44Z"
+    title "Arun Gupta: Seeing Through The Great Replacement (Conspiracy) Theory"
+    description "This is a segment of episode 323 of Last Born In The Wilderness &#8220;A Very Corporeal Ideology: Seeing Through The Great Replacement (Conspiracy) Theory w/ Arun Gupta.&#8221; Listen to the full episode: https://www.lastborninthewilderness.com/episodes/arun-gupta-2&#10;&#10;Read &#8216;The Replacement Killers: How Trump and Tucker spawned a new breed of terrorists&#8217; and &#8216;Banning abortion is key to Trump&#8217;s fascist agenda&#8217; at Raw Story: https://bit.ly/3xgp6Au / https://bit.ly/3H7yDOT&#10;&#10;Journalist Arun Gupta returns to the podcast to discuss the &#34;very corporeal ideology&#34; of fascism, the so-called &#34;Great Replacement Theory,&#8221; the recent mass shooting in Buffalo, New York, and how each of these subjects tie into the broader sociopolitical project of the far right in the United States.&#10;&#10;The ideological and conspiratorial framework of the &#8220;Great Replacement Theory&#8221; has motivated numerous individuals to commit racist mass violence over the years, with one of the most prominent examples being the recent massacre in Buffalo, New York by an 18-year-old white man on May 14th. It also, as Gupta lucidly articulates in this interview, informs the underlying white grievance politics and goals of the conservative right in the United States, informing the rhetoric of the most popular political commentators in the country, namely Fox News star pundit Tucker Carlson. With the stated aims and motivations laid bare in the manifesto of the mass shooter in Buffalo, and Carlson mainstreaming these ideas in more digestible and politically friendly terms to millions of regular viewers, fascism is alive and well in the United States.&#10;&#10;Arun Gupta is a journalist who has written for the Washington Post, The Nation, Raw Story, The Guardian, and Jacobin. He is a graduate of the French Culinary Institute in New York and author of the upcoming &#8216;Bacon as a Weapon of Mass Destruction: A Junk Food-Loving Chef&#8217;s Inquiry Into Taste&#8217; (The New Press).&#10;&#10;WEBSITE: https://www.lastborninthewilderness.com&#10;&#10;PATREON: https://www.patreon.com/lastborninthewilderness&#10;&#10;DONATE: https://www.paypal.me/lastbornpodcast / https://venmo.com/LastBornPodcast&#10;&#10;BOOK LIST: https://bookshop.org/shop/lastbornpodcast&#10;&#10;EPISODE 300: https://lastborninthewilderness.bandcamp.com&#10;&#10;BOOK: http://bit.ly/ORBITgr&#10;&#10;ATTACK &#38; DETHRONE: https://anchor.fm/adgodcast&#10;&#10;DROP ME A LINE: Call (208) 918-2837 or http://bit.ly/LBWfiledrop&#10;&#10;EVERYTHING ELSE: https://linktr.ee/patterns.of.behavior&#10;&#10;#ArunGupta #GreatReplacementTheory"
+    channeltitle "Last Born in the Wilderness Podcast"
+    channelid "UCivkgaJx8j2UEQIUy8Ei7Wg"
     favcount 0
-    viewcount 334387
-    likecount 4639
-    commentcount 2071
-    duration "PT53M19S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "L"
-    cluster 7
+    viewcount 64
+    likecount -1
+    commentcount 0
+    duration "PT24M17S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.09567941
+    PERSPECTIVEPROFANITY 0.054669026
+    PERSPECTIVEFLIRTATION 0.40925416
+    PERSPECTIVETHREAT 0.101903
+    PERSPECTIVETOXICITY 0.0813051
+    PERSPECTIVEINSULT 0.045162406
+    PERSPECTIVEIDENTITYATTACK 0.047153607
+    PERSPECTIVEINFLAMMATORY 0.3177187
+    indegree 3
+    cluster 3
   ]
   node
   [
-    id 138
-    name "150"
+    id 150
     label "2wWTXbAU2KQ"
     step 0
     date "2022-05-23T18:57:36Z"
@@ -4159,24 +3771,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT3M49S"
+    sentiment 0.0258
+    PERSPECTIVESEXUALLYEXPLICIT 0.12595518
+    PERSPECTIVEPROFANITY 0.29441595
+    PERSPECTIVEFLIRTATION 0.47326404
+    PERSPECTIVETHREAT 0.30133206
+    PERSPECTIVETOXICITY 0.4945446
+    PERSPECTIVEINSULT 0.6541834
+    PERSPECTIVEIDENTITYATTACK 0.6957386
+    PERSPECTIVEINFLAMMATORY 0.7410459
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 5
   ]
   node
   [
-    id 139
-    name "151"
+    id 151
     label "U_1n0hi_pz4"
     step 0
     date "2022-05-22T05:39:30Z"
@@ -4189,24 +3798,21 @@ graph
     likecount 2
     commentcount 1
     duration "PT1H40M28S"
+    sentiment 0.743
+    PERSPECTIVESEXUALLYEXPLICIT 0.05770136
+    PERSPECTIVEPROFANITY 0.031793375
+    PERSPECTIVEFLIRTATION 0.42856216
+    PERSPECTIVETHREAT 0.060857352
+    PERSPECTIVETOXICITY 0.00315843
+    PERSPECTIVEINSULT 0.02760017
+    PERSPECTIVEIDENTITYATTACK 0.034047328
+    PERSPECTIVEINFLAMMATORY 0.027899366
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 140
-    name "152"
+    id 152
     label "DREmnsungVM"
     step 0
     date "2022-01-19T01:45:01Z"
@@ -4219,24 +3825,21 @@ graph
     likecount 167332
     commentcount 36679
     duration "PT15M47S"
+    sentiment -0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.2228459
+    PERSPECTIVEPROFANITY 0.14629261
+    PERSPECTIVEFLIRTATION 0.52668464
+    PERSPECTIVETHREAT 0.41392896
+    PERSPECTIVETOXICITY 0.05613239
+    PERSPECTIVEINSULT 0.10480544
+    PERSPECTIVEIDENTITYATTACK 0.09449971
+    PERSPECTIVEINFLAMMATORY 0.37882292
     indegree 21
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanRight"
-    leftright "R"
-    cluster 2
+    cluster 11
   ]
   node
   [
-    id 141
-    name "153"
+    id 153
     label "EICp1vGlh_U"
     step 0
     date "2022-02-21T07:30:02Z"
@@ -4249,24 +3852,21 @@ graph
     likecount 203766
     commentcount 36001
     duration "PT28M8S"
+    sentiment -0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.0778897
+    PERSPECTIVEPROFANITY 0.04754562
+    PERSPECTIVEFLIRTATION 0.321262
+    PERSPECTIVETHREAT 0.09084182
+    PERSPECTIVETOXICITY 0.07690986
+    PERSPECTIVEINSULT 0.044103004
+    PERSPECTIVEIDENTITYATTACK 0.11650314
+    PERSPECTIVEINFLAMMATORY 0.26292044
     indegree 10
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "LateNightTalkShow|PartisanLeft"
-    leftright "L"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 142
-    name "154"
+    id 154
     label "X_tzrg8e1d0"
     step 0
     date "2022-05-17T18:38:50Z"
@@ -4279,24 +3879,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT16S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.053323973
+    PERSPECTIVEPROFANITY 0.08199372
+    PERSPECTIVEFLIRTATION 0.28599626
+    PERSPECTIVETHREAT 0.10512303
+    PERSPECTIVETOXICITY 0.42092466
+    PERSPECTIVEINSULT 0.18501027
+    PERSPECTIVEIDENTITYATTACK 0.1114525
+    PERSPECTIVEINFLAMMATORY 0.41370848
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 1
   ]
   node
   [
-    id 143
-    name "155"
+    id 155
     label "XMGxxRRtmHc"
     step 0
     date "2021-03-15T07:00:16Z"
@@ -4309,24 +3906,21 @@ graph
     likecount 335413
     commentcount 55387
     duration "PT24M53S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.049223162
+    PERSPECTIVEPROFANITY 0.03102697
+    PERSPECTIVEFLIRTATION 0.3471496
+    PERSPECTIVETHREAT 0.08371471
+    PERSPECTIVETOXICITY 0.015757442
+    PERSPECTIVEINSULT 0.036441363
+    PERSPECTIVEIDENTITYATTACK 0.07322759
+    PERSPECTIVEINFLAMMATORY 0.13386759
     indegree 29
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "LateNightTalkShow|PartisanLeft"
-    leftright "L"
-    cluster 2
+    cluster 8
   ]
   node
   [
-    id 144
-    name "156"
+    id 156
     label "YdxfoMCfi2E"
     step 0
     date "2022-05-18T02:00:11Z"
@@ -4339,24 +3933,21 @@ graph
     likecount 3044
     commentcount 1811
     duration "PT11M39S"
+    sentiment 0.128
+    PERSPECTIVESEXUALLYEXPLICIT 0.29290333
+    PERSPECTIVEPROFANITY 0.5176799
+    PERSPECTIVEFLIRTATION 0.4944484
+    PERSPECTIVETHREAT 0.5876412
+    PERSPECTIVETOXICITY 0.5038962
+    PERSPECTIVEINSULT 0.6393663
+    PERSPECTIVEIDENTITYATTACK 0.8008965
+    PERSPECTIVEINFLAMMATORY 0.8147743
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 7
+    cluster 10
   ]
   node
   [
-    id 145
-    name "157"
+    id 157
     label "hParR3-4mgQ"
     step 0
     date "2022-05-26T16:00:21Z"
@@ -4369,24 +3960,21 @@ graph
     likecount 3532
     commentcount 727
     duration "PT52M46S"
+    sentiment 0.2732
+    PERSPECTIVESEXUALLYEXPLICIT 0.07959942
+    PERSPECTIVEPROFANITY 0.098008335
+    PERSPECTIVEFLIRTATION 0.33146676
+    PERSPECTIVETHREAT 0.08502168
+    PERSPECTIVETOXICITY 0.13700475
+    PERSPECTIVEINSULT 0.17374234
+    PERSPECTIVEIDENTITYATTACK 0.19692487
+    PERSPECTIVEINFLAMMATORY 0.27768606
     indegree 10
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 9
+    cluster 6
   ]
   node
   [
-    id 146
-    name "158"
+    id 158
     label "be9D06BG6u8"
     step 0
     date "2022-05-19T15:32:06Z"
@@ -4399,24 +3987,21 @@ graph
     likecount 42535
     commentcount 7016
     duration "PT1H9M27S"
+    sentiment 0.8481
+    PERSPECTIVESEXUALLYEXPLICIT 0.058936864
+    PERSPECTIVEPROFANITY 0.039553177
+    PERSPECTIVEFLIRTATION 0.38137436
+    PERSPECTIVETHREAT 0.2580164
+    PERSPECTIVETOXICITY 0.083939545
+    PERSPECTIVEINSULT 0.0452327
+    PERSPECTIVEIDENTITYATTACK 0.04682856
+    PERSPECTIVEINFLAMMATORY 0.2671476
     indegree 11
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW|PartisanRight"
-    leftright "R"
-    cluster 5
+    cluster 1
   ]
   node
   [
-    id 147
-    name "159"
+    id 159
     label "WhQzig1XZq0"
     step 0
     date "2022-07-12T14:00:30Z"
@@ -4429,84 +4014,75 @@ graph
     likecount 1103
     commentcount 265
     duration "PT4M47S"
+    sentiment 0.4168
+    PERSPECTIVESEXUALLYEXPLICIT 0.04108854
+    PERSPECTIVEPROFANITY 0.05588155
+    PERSPECTIVEFLIRTATION 0.29324883
+    PERSPECTIVETHREAT 0.18111707
+    PERSPECTIVETOXICITY 0.13969667
+    PERSPECTIVEINSULT 0.11851373
+    PERSPECTIVEIDENTITYATTACK 0.12296651
+    PERSPECTIVEINFLAMMATORY 0.18453497
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Socialist"
-    leftright "L"
-    cluster 2
+    cluster 3
   ]
   node
   [
-    id 148
-    name "160"
-    label "4CqDfLX26SM"
+    id 162
+    label "ZqBX-vPV-sI"
     step 0
-    date "2022-05-17T19:13:09Z"
-    title "Great Replacement Theory Isns Historic."
-    description "Buffalo, NY's tragic shooting wasn't new. It's all too familiar. On Saturday afternoon a heavily armed, body armor wearing young man, walked into a Buffalo New York grocery store called Tops Friendly Market &#8212; a cornerstone of the community &#8212; and killed 10 Black people. This young man, Payton Gendron, chose the store after learning that the area it serves is 78% Black. And it has since been revealed that he planned to drive around the neighborhood picking people off after he was done.&#10;&#10;Like Roof, Gendron posted a manifesto listing his reasons as to why. Like Roof, one of them is the belief that Black people are &#8220;taking over the country&#8221;. That White people, and their sphere of influence, are being replaced by Black, Brown, and other undesirables. It&#8217;s belief known as the &#8220;Great Replacement Theory&#8221; and it has fueled murderous racist attacks, both here and overseas."
-    channeltitle "Reese Waters"
-    channelid "UCCcr-MvAMettt8yktc9t4ag"
+    date "2022-07-06T12:06:17Z"
+    title "What is The Great Replacement Theory?"
+    description "Racist rhetoric or valid concern?"
+    channeltitle "Fireside Creators"
+    channelid "UCOe2hMPcr1QWg7C9_LuGnew"
     favcount 0
-    viewcount 335
-    likecount 78
-    commentcount 5
-    duration "PT4M6S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
-  ]
-  node
-  [
-    id 149
-    name "163"
-    label "HsdC0zWLA3Q"
-    step 0
-    date "2021-07-11T19:12:50Z"
-    title "Teen Titans Go! See Space Jam - Robin Espouses Great Replacement Theory"
-    description "Teen Titans Go! See Space Jam is probably going to be the only good thing to come out of Space Jam 2."
-    channeltitle "Sorting Algorithms"
-    channelid "UCcwcoJegvfWIipOx4EOEUww"
-    favcount 0
-    viewcount 426
-    likecount 5
-    commentcount -1
-    duration "PT9S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 164
+    likecount 3
+    commentcount 2
+    duration "PT1H1M12S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.030157628
+    PERSPECTIVEPROFANITY 0.015170442
+    PERSPECTIVEFLIRTATION 0.23589522
+    PERSPECTIVETHREAT 0.041941877
+    PERSPECTIVETOXICITY 0.016451603
+    PERSPECTIVEINSULT 0.015567417
+    PERSPECTIVEIDENTITYATTACK 0.023384213
+    PERSPECTIVEINFLAMMATORY 0.10564373
+    indegree 2
     cluster 1
   ]
   node
   [
-    id 150
-    name "165"
+    id 164
+    label "ToUPgntSfZw"
+    step 0
+    date "2022-05-26T18:15:02Z"
+    title "61% Of GOP Believes In Great Replacement Theory | The Kyle Kulinski Show"
+    description "Support The Show On Patreon!:&#10;https://www.patreon.com/seculartalk&#10;&#10;Subscribe to Krystal Kyle &#38; Friends On Substack!:&#10;https://krystalkyleandfriends.substack.com&#10;&#10;Follow Kyle on Twitter:&#10;http://www.twitter.com/kylekulinski&#10;&#10;&#34;The first time I ever really listened to Kyle Kulinski&#8217;s show was in the back of a cab last summer. The driver had his phone hooked up through the stereo and was pumping out an episode through the car speakers &#8212; loudly, as if looking to convert a captive audience.&#10;&#10;&#8220;Do you like Kyle Kulinski?&#8221;&#10;&#10;The driver, Ahmed, was a recent immigrant and apparently a die-hard fan of Secular Talk, the political talk show that Kulinski broadcasts on YouTube. I told him, yes, in fact. I do like Kulinski, had come across his show several years ago, and, all things considered, he seemed pretty good.&#10;&#10;&#8220;He understands what we&#8217;re up against,&#8221; Ahmed said. &#8220;Like Bernie.&#8221;&#10;&#10;But I was surprised to hear Kulinski&#8217;s name mentioned in the same breath as Bernie Sanders, particularly with such adoration. Because what I did remember about Kulinski&#8217;s show struck me as mostly capital-P &#8220;progressive&#8221; takes on the news &#8212; the left wing of the Netroots crowd more than the democratic socialism Sanders has popularized.&#10;&#10;It&#8217;s an impression that wasn&#8217;t entirely incorrect.&#10;&#10;&#8220;I have no time for philosophical, airy bullshit,&#8221; Kulinski tells me from his home in Westchester, New York. &#8220;I don&#8217;t want to hear about Lenin. I don&#8217;t want to hear about Marx. I just want a super plainspoken, straightforward agenda with a straightforward way of selling it.&#8221;&#10;&#10;With over 800,000 subscribers and nearly 670 million total views on YouTube, selling a progressive agenda is clearly something Kulinski knows how to do &#8212; even Democracy Now, the long-standing flagship of progressive media, cannot match his reach on the platform. Chapo Trap House can certainly boast a wildly devoted fan base (and a not insignificant degree of media influence), but their audience is roughly half the size of Kulinski&#8217;s.&#10;&#10;While Secular Talk might be more likely to be looped in with the progressive networks around Air America and Pacifica alums like Sam Seder than the more resolutely socialist world, Kulinski&#8217;s fiery rhetoric, razor-sharp class instincts, and knack for withering takedowns sets him apart from his peers. Judging by his rhetoric alone, he&#8217;s closer to a Eugene Debs than a Chris Hayes.&#10;&#10;But unlike Hayes, Amy Goodman, or his friend Cenk Uygur of The Young Turks &#8212; who began airing Secular Talk on his web network seven years ago &#8212; the thirty-two-year-old Kulinski is virtually invisible in the mainstream media. Despite his enormous fan base, his show has never once been mentioned in the obligatory trend pieces on &#8220;the Millennial Left&#8221; pumped out by the prestige media. Nor has Kulinski&#8217;s name ever popped up at all in the New York Times, Vox, the New Yorker, New York Magazine, or the Washington Post, despite his leading role in cofounding Justice Democrats, the organization widely credited with sweeping Alexandria Ocasio-Cortez and the rest of &#8220;the Squad&#8221; to power.&#10;&#10;Just last week, his Wikipedia page was deleted. The reason? &#8220;There is very simply no [reliable source] coverage of this person,&#8221; according to one moderator. In new media, he&#8217;s king &#8212; the Sean Hannity of the Berniecrat left. In old media, he&#8217;s nobody.&#10;&#10;I suspect there are a few reasons for that. There is nothing &#8220;cool&#8221; about Kulinski&#8217;s show. (As a friend put it, &#8220;&#8216;Welcome to Secular Talk&#8217; sounds like something you&#8217;d hear on Egyptian radio.&#8221;) His no-nonsense social-democratic politics won&#8217;t get him much cred with the Full Communism crowd. He records his show not in Brooklyn or Los Angeles, but in a studio he built himself in his modest Westchester home. His hair is too groomed and his taste in clothes too preppy to qualify as &#8220;Dirtbag Left.&#8221; Nor has he ever attended an n+1 release party. &#8220;Not only have I not attended one,&#8221; he says, &#8220;I have no idea what that means.&#8221;&#10;&#10;And yet he&#8217;s astonishingly plugged-in for a young man in the suburbs. Wondering how Sanders ended up on the Joe Rogan Experience? Kulinski, a frequent guest on Rogan&#8217;s wildly popular show, introduced them. &#8220;You make the most sense to me,&#8221; Rogan told Kulinski on a recent episode. &#8220;You&#8217;re a normal person.&#8221;&#10;&#10;Much like Sanders himself, Kulinski&#8217;s show has a massive audience that just doesn&#8217;t compute with our media&#8217;s understanding of &#8220;what the kids want&#8221; or even &#8220;what the left-wing kids want.&#8221;&#10;&#10;It&#8217;s probably for the best &#8212; the very woke and very WASP-ish decorum haunting much of the media world is nowhere to be found in Secular Talk. &#8220;Corporate Democrats over-focus on identity as a trick to divert you from the issues that unite us all &#8212; class issues,&#8221; he said on a recent episode. &#8220;That Raytheon decided they don&#8217;t hate gays or trans people &#8212; frankly, I don&#8217;t really give a shit what their take on that is...&#34;&#10;&#10;Read More Here!:&#10;https://jacobinmag.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube&#10;&#10;#KyleKulinski #SecularTalk"
+    channeltitle "Secular Talk"
+    channelid "UCldfgbzNILYZA4dmDt4Cd6A"
+    favcount 0
+    viewcount 56899
+    likecount 3111
+    commentcount 1938
+    duration "PT10M45S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.050935693
+    PERSPECTIVEPROFANITY 0.039212923
+    PERSPECTIVEFLIRTATION 0.29364204
+    PERSPECTIVETHREAT 0.30904934
+    PERSPECTIVETOXICITY 0.033932835
+    PERSPECTIVEINSULT 0.053889003
+    PERSPECTIVEIDENTITYATTACK 0.08602994
+    PERSPECTIVEINFLAMMATORY 0.41787627
+    indegree 3
+    cluster 7
+  ]
+  node
+  [
+    id 165
     label "lil0z6MD9yg"
     step 0
     date "2021-09-25T02:00:19Z"
@@ -4519,24 +4095,21 @@ graph
     likecount 1397
     commentcount 397
     duration "PT5M15S"
+    sentiment 0.128
+    PERSPECTIVESEXUALLYEXPLICIT 0.16771384
+    PERSPECTIVEPROFANITY 0.16226195
+    PERSPECTIVEFLIRTATION 0.34951332
+    PERSPECTIVETHREAT 0.31942695
+    PERSPECTIVETOXICITY 0.2995453
+    PERSPECTIVEINSULT 0.2917712
+    PERSPECTIVEIDENTITYATTACK 0.52962136
+    PERSPECTIVEINFLAMMATORY 0.8602323
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 5
+    cluster 11
   ]
   node
   [
-    id 151
-    name "166"
+    id 166
     label "6txTouUTVvg"
     step 0
     date "2022-05-16T08:11:22Z"
@@ -4549,24 +4122,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT2M41S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06723484
+    PERSPECTIVEPROFANITY 0.056399453
+    PERSPECTIVEFLIRTATION 0.34927148
+    PERSPECTIVETHREAT 0.1536896
+    PERSPECTIVETOXICITY 0.11600884
+    PERSPECTIVEINSULT 0.055187855
+    PERSPECTIVEIDENTITYATTACK 0.11735406
+    PERSPECTIVEINFLAMMATORY 0.013038779
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 152
-    name "167"
+    id 167
     label "xF0AW1Y-qTU"
     step 0
     date "2022-06-01T18:03:44Z"
@@ -4579,24 +4149,21 @@ graph
     likecount 0
     commentcount 3
     duration "PT1H3M39S"
+    sentiment 0.7783
+    PERSPECTIVESEXUALLYEXPLICIT 0.032522906
+    PERSPECTIVEPROFANITY 0.015808875
+    PERSPECTIVEFLIRTATION 0.3089653
+    PERSPECTIVETHREAT 0.0568974
+    PERSPECTIVETOXICITY 0.022213135
+    PERSPECTIVEINSULT 0.019452145
+    PERSPECTIVEIDENTITYATTACK 0.022651833
+    PERSPECTIVEINFLAMMATORY 0.13288336
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 5
   ]
   node
   [
-    id 153
-    name "168"
+    id 168
     label "DJLPNKi-AGE"
     step 0
     date "2021-09-01T12:48:03Z"
@@ -4609,24 +4176,21 @@ graph
     likecount 11
     commentcount 14
     duration "PT14M46S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.046912502
+    PERSPECTIVEPROFANITY 0.031657808
+    PERSPECTIVEFLIRTATION 0.20570463
+    PERSPECTIVETHREAT 0.07802253
+    PERSPECTIVETOXICITY 0.022351967
+    PERSPECTIVEINSULT 0.029377898
+    PERSPECTIVEIDENTITYATTACK 0.062709324
+    PERSPECTIVEINFLAMMATORY 0.09957187
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 8
   ]
   node
   [
-    id 154
-    name "169"
+    id 169
     label "Q8iCbuvA1-g"
     step 0
     date "2022-05-24T14:03:56Z"
@@ -4639,24 +4203,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT22M7S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.033994123
+    PERSPECTIVEPROFANITY 0.033022225
+    PERSPECTIVEFLIRTATION 0.40355787
+    PERSPECTIVETHREAT 0.09665233
+    PERSPECTIVETOXICITY 0.021380141
+    PERSPECTIVEINSULT 0.04142602
+    PERSPECTIVEIDENTITYATTACK 0.032382246
+    PERSPECTIVEINFLAMMATORY 0.013406756
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 5
   ]
   node
   [
-    id 155
-    name "170"
+    id 170
     label "OfsrjxAjO3w"
     step 0
     date "2022-05-21T17:56:54Z"
@@ -4669,24 +4230,21 @@ graph
     likecount 2
     commentcount 1
     duration "PT10M7S"
+    sentiment 0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.10830913
+    PERSPECTIVEPROFANITY 0.14972422
+    PERSPECTIVEFLIRTATION 0.51380366
+    PERSPECTIVETHREAT 0.33916804
+    PERSPECTIVETOXICITY 0.18253209
+    PERSPECTIVEINSULT 0.16843733
+    PERSPECTIVEIDENTITYATTACK 0.24175198
+    PERSPECTIVEINFLAMMATORY 0.0013321629
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 4
   ]
   node
   [
-    id 156
-    name "171"
+    id 171
     label "VwN2z9H8wNU"
     step 0
     date "2022-05-17T22:12:29Z"
@@ -4699,24 +4257,21 @@ graph
     likecount 128
     commentcount 35
     duration "PT14M23S"
+    sentiment 0.4019
+    PERSPECTIVESEXUALLYEXPLICIT 0.04623468
+    PERSPECTIVEPROFANITY 0.061046354
+    PERSPECTIVEFLIRTATION 0.26039967
+    PERSPECTIVETHREAT 0.19457056
+    PERSPECTIVETOXICITY 0.22986074
+    PERSPECTIVEINSULT 0.093992956
+    PERSPECTIVEIDENTITYATTACK 0.21768773
+    PERSPECTIVEINFLAMMATORY 0.17769346
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 157
-    name "172"
+    id 172
     label "qhFc3AbdIxQ"
     step 0
     date "2022-05-21T15:20:40Z"
@@ -4729,24 +4284,21 @@ graph
     likecount 4451
     commentcount 1142
     duration "PT58M32S"
+    sentiment -0.5574
+    PERSPECTIVESEXUALLYEXPLICIT 0.067219526
+    PERSPECTIVEPROFANITY 0.08350705
+    PERSPECTIVEFLIRTATION 0.356541
+    PERSPECTIVETHREAT 0.34197783
+    PERSPECTIVETOXICITY 0.31661135
+    PERSPECTIVEINSULT 0.19175917
+    PERSPECTIVEIDENTITYATTACK 0.12268664
+    PERSPECTIVEINFLAMMATORY 0.27570358
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|Socialist"
-    leftright "L"
-    cluster 2
+    cluster 12
   ]
   node
   [
-    id 158
-    name "173"
+    id 173
     label "BA-9s4p4MpY"
     step 0
     date "2022-06-01T13:30:06Z"
@@ -4759,24 +4311,21 @@ graph
     likecount 45
     commentcount 1
     duration "PT7M30S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.058668572
+    PERSPECTIVEPROFANITY 0.038562864
+    PERSPECTIVEFLIRTATION 0.39664954
+    PERSPECTIVETHREAT 0.09209872
+    PERSPECTIVETOXICITY 0.09118898
+    PERSPECTIVEINSULT 0.07610899
+    PERSPECTIVEIDENTITYATTACK 0.15764247
+    PERSPECTIVEINFLAMMATORY 0.45123786
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 3
   ]
   node
   [
-    id 159
-    name "174"
+    id 174
     label "Ofg1llnTxh0"
     step 0
     date "2022-04-19T20:44:21Z"
@@ -4789,24 +4338,21 @@ graph
     likecount 4
     commentcount 0
     duration "PT57M17S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.10563721
+    PERSPECTIVEPROFANITY 0.16403694
+    PERSPECTIVEFLIRTATION 0.44049528
+    PERSPECTIVETHREAT 0.3155246
+    PERSPECTIVETOXICITY 0.15451296
+    PERSPECTIVEINSULT 0.3141822
+    PERSPECTIVEIDENTITYATTACK 0.50666094
+    PERSPECTIVEINFLAMMATORY 0.09397279
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 2
   ]
   node
   [
-    id 160
-    name "175"
+    id 175
     label "UWDiVPnS1tg"
     step 0
     date "2022-06-04T18:05:46Z"
@@ -4819,24 +4365,21 @@ graph
     likecount 316848
     commentcount 25568
     duration "PT13M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.061049987
+    PERSPECTIVEPROFANITY 0.050957814
+    PERSPECTIVEFLIRTATION 0.38914424
+    PERSPECTIVETHREAT 0.12591319
+    PERSPECTIVETOXICITY 0.25447917
+    PERSPECTIVEINSULT 0.08768705
+    PERSPECTIVEIDENTITYATTACK 0.05828811
+    PERSPECTIVEINFLAMMATORY 0.4650552
     indegree 5
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    cluster 11
   ]
   node
   [
-    id 161
-    name "176"
+    id 176
     label "fnhXuVEtA2A"
     step 0
     date "2021-10-14T18:00:09Z"
@@ -4849,24 +4392,21 @@ graph
     likecount 55
     commentcount 10
     duration "PT1M20S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.10304917
+    PERSPECTIVEPROFANITY 0.10994536
+    PERSPECTIVEFLIRTATION 0.43230355
+    PERSPECTIVETHREAT 0.1101542
+    PERSPECTIVETOXICITY 0.053335425
+    PERSPECTIVEINSULT 0.09772093
+    PERSPECTIVEIDENTITYATTACK 0.077292204
+    PERSPECTIVEINFLAMMATORY 0.0020601805
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 162
-    name "177"
+    id 177
     label "piwdZ5c3DVc"
     step 0
     date "2021-12-27T14:05:17Z"
@@ -4879,24 +4419,21 @@ graph
     likecount 203
     commentcount 132
     duration "PT3M5S"
+    sentiment 0.128
+    PERSPECTIVESEXUALLYEXPLICIT 0.07343809
+    PERSPECTIVEPROFANITY 0.2079432
+    PERSPECTIVEFLIRTATION 0.3084907
+    PERSPECTIVETHREAT 0.43223175
+    PERSPECTIVETOXICITY 0.39230084
+    PERSPECTIVEINSULT 0.4566591
+    PERSPECTIVEIDENTITYATTACK 0.7444311
+    PERSPECTIVEINFLAMMATORY 0.708072
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 1
+    cluster 8
   ]
   node
   [
-    id 163
-    name "178"
+    id 178
     label "WVwg_v2mlRo"
     step 0
     date "2022-06-09T23:33:09Z"
@@ -4909,114 +4446,102 @@ graph
     likecount 0
     commentcount 0
     duration "PT1H27M16S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.110618
+    PERSPECTIVEPROFANITY 0.16016342
+    PERSPECTIVEFLIRTATION 0.35094848
+    PERSPECTIVETHREAT 0.27811584
+    PERSPECTIVETOXICITY 0.1414913
+    PERSPECTIVEINSULT 0.33376384
+    PERSPECTIVEIDENTITYATTACK 0.7175866
+    PERSPECTIVEINFLAMMATORY 0.7294914
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    cluster 3
+  ]
+  node
+  [
+    id 180
+    label "yCDgaQaJLmk"
+    step 0
+    date "2022-05-19T22:03:09Z"
+    title "What is the Great Replacement Theory?"
+    description "La Shawn K. Ford gets into the Great Replacement Theory with Meleika Gardner and Mark Peysakhovich on Chicago Heal."
+    channeltitle "Chicago Heal"
+    channelid "UCcWh2araKdWPujhbsyP5a6Q"
+    favcount 0
+    viewcount 36
+    likecount 3
+    commentcount 0
+    duration "PT1M45S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.029854858
+    PERSPECTIVEPROFANITY 0.014903679
+    PERSPECTIVEFLIRTATION 0.2472633
+    PERSPECTIVETHREAT 0.036316015
+    PERSPECTIVETOXICITY 0.01527153
+    PERSPECTIVEINSULT 0.015210276
+    PERSPECTIVEIDENTITYATTACK 0.020936077
+    PERSPECTIVEINFLAMMATORY 0.10564373
+    indegree 4
     cluster 7
   ]
   node
   [
-    id 164
-    name "179"
-    label "xAtD9DyBoQ0"
+    id 182
+    label "6ITDwip2wno"
     step 0
-    date "2022-07-09T15:22:21Z"
-    title "How to Be an Antiracist: Ibram X. Kendi in conversation with Mirjam Zadoff"
-    description "Antiracism is a transformative concept that reorients and reenergizes the conversation about racism&#8212;and, even more fundamentally, points us toward liberating new ways of thinking about ourselves and each other. At its core, racism is a powerful system that creates false hierarchies of human value; its warped logic extends beyond race, from the way we regard people of different ethnicities or skin colors to the way we treat people of different sexes, gender identities, and body types. Racism intersects with class and culture and geography and even changes the way we see and value ourselves. In &#34;How to Be an Antiracist&#34;, Kendi takes readers through a widening circle of antiracist ideas&#8212;from the most basic concepts to visionary possibilities&#8212;that will help readers see all forms of racism clearly, understand their poisonous consequences, and work to oppose them in our systems and in ourselves.&#10;&#10;Kendi weaves an electrifying combination of ethics, history, law, and science with his own personal story of awakening to antiracism. This is an essential work for anyone who wants to go beyond the awareness of racism to the next step: contributing to the formation of a just and equitable society.&#10;&#10;Welcome Remarks and Introduction:&#10;Heike Paul (Bavarian American Academy, FAU Erlangen-N&#252;rnberg)&#10;&#10;This event is part of the lecture series &#34;This is America. Reflections on a Divided Country&#34;. It started as a collaboration between the Bavarian American Academy and the Munich Documentation Centre for the History of National Socialism. In this series, renowned intellectuals are invited to examine historical developments and discuss the current political and cultural state of affairs in the United States.&#10;&#10;__________________________&#10;&#10;ABOUT IBRAM X. KENDI&#10;&#10;Ibram X. Kendi is the Andrew W. Mellon Professor in the Humanities at Boston University and the founding director of the BU Center for Antiracist Research. He is a contributing writer at &#34;The Atlantic&#34; and a CBS News racial justice contributor. He is the host of the new action podcast &#34;Be Antiracist&#34;. Kendi is the author of many highly acclaimed books including &#34;Stamped from the Beginning: The Definitive History of Racist Ideas in America&#34;, which won the National Book Award for Nonfiction, making him the youngest-ever winner of that award. He has also produced five straight #1 New York Times bestsellers, including &#34;How to Be an Antiracist&#34;, &#34;Antiracist Baby&#34;, and &#34;Stamped: Racism, Antiracism, and You&#34;, co-authored by Jason Reynolds. In 2020, Time magazine named Kendi one of the 100 most influential people in the world. He was awarded a 2021 MacArthur Fellowship, popularly known as the Genius Grant.&#10;&#10;&#10;ABOUT MIRJAM ZADOFF&#10;&#10;Mirjam Zadoff has been Director of the Munich Documentation Center for the History of National Socialism since May 2018. From 2014 to summer 2019 she occupied the Alvin H. Rosenfeld Chair in Jewish Studies and Professor of Modern History at Indiana University Bloomington. She studied in Vienna, received her doctorate and qualified as a university lecturer in Munich and held guest professorships and fellowships in Zurich, Berkeley, Berlin and Augsburg. Zadoff is the author of numerous articles and the monographs &#34;The Red Job. The Life of Werner Scholem&#34; and &#34;Next Year in Marianske Lazne. Counter-worlds of Jewish Cultures of Modernity&#34;, which are translated into several languages.&#10;&#10;&#10;PLEASE NOTE:&#10;Due to an illness, Mirjam Zadoff was not able to attend the event. Instead, the conversation was lead by Heike Paul.&#10;&#10;_______________________&#10;&#10;ORGANIZERS: &#10;Bayerische Amerika-Akademie - Bavarian American Academy, NS Dokuzentrum - Munich Documentation Centre for the History of National Socialism, btb Verlag, U.S. Consulate General Munich&#10;&#10;_____________&#10;&#10;LINKS:&#10;https://www.ns-dokuzentrum-muenchen.de/en/home/&#10;https://www.penguinrandomhouse.de/Verlag/btb/2000.rhd&#10;https://de.usembassy.gov/location/munich/&#10;&#10;https://www.amerikahaus.de/akademie&#10;https://www.facebook.com/BayerischeAm...&#10;&#10;https://www.amerikahaus.de&#10;https://www.facebook.com/amerikahaus&#10;https://www.instagram.com/amerikahaus&#10;https://www.twitter.com/amerikahaus"
-    channeltitle "amerikahaus"
-    channelid "UC7p2k38GJprqYhEOlEHNBAw"
+    date "2022-06-11T00:36:56Z"
+    title "Irami Osei-Frimpong On The Great Replacement Theory"
+    description "Luke shows a clip from Breaking Points ft. Irami Osei-Frimpong the Funky Academic who discusses the Great Replacement Theory in the wake of the Buffalo shooting last month that claimed the lives of 11 people, 9 of them black, by a white supremacist who was a staunch proponent of the theory as well as the need for the left to build more social institutions.   &#10; &#10;#Racism #GreatReplacementTheory #Buffalo #Shooting #WhiteSupremacy #Conspiracy #GunControl #MentalHealth #FJG #UBI  #IramiOseiFrimpong #FunkyAcademic #BreakingPoints #KrystalBall #SaagarEnjeti #LukeParcher #RealProgressives #RealProgressInAction  &#10; &#10;Follow @IramiOF on Twitter.  &#10;&#10;Follow @PointsCommunity on Twitter.  &#10; &#10;Follow @krystalball on Twitter. &#10;&#10;Follow @esaagar on Twitter. &#10; &#10;Follow @LukeParcherShow on Twitter.&#10;&#10;We believe all materials used in this video fall under Fair Use as defined in Section 107 of the Copyright Act of 1976. &#10;&#10;What is Modern Monetary Theory? &#10;Modern Monetary Theory is the correct understanding of Macroeconomics. &#10;It proves the following: &#10;1) Taxes don't fund government spending and &#10;2) Deficit spending is good most of the time. &#10;&#10;Simple Economics Facts: &#10;Government deficit  = Private sector surplus&#10;Government debt = private sector savings &#10;The constraint on government spending is the availability of real assets/resources in an economy, not the federal budget! &#10;&#10;To learn more about Modern Monetary Theory, check out our podcasts! &#10;https://www.macroncheese.com &#10;&#10;Please help our Real Progressives efforts and become a monthly donor!&#10;&#10;At PayPal&#10;https://paypal.me/RealProgress&#10;At Patreon&#10;https://www.patreon.com/realprogressives&#10;RealProgressives.org&#10;https://realprogressives.org/donate/&#10;&#10;Check our website:&#10;https://action.realprogressives.org&#10;Macro N Cheese Podcasts:&#10;https://realprogressives.org/macro-n-cheese-podcast/&#10;Follow us on Facebook! &#10;https://www.facebook.com/RPinAction&#10;Follow us on YouTube: &#10;https://www.youtube.com/c/realprogressives&#10;Follow us on Periscope: &#10;https://www.periscope.tv/RP_In_Action/&#10;Follow us on Twitter: &#10;https://Twitter.com/RP_In_Action&#10;Follow us on Instagram: &#10;https://www.instagram.com/rpinaction&#10;Follow us on Twitch:&#10;https://www.twitch.tv/realprogressinaction&#10;&#10;#MMT&#10;#MMTARMY&#10;#RealProgressInAction"
+    channeltitle "Real Progress In Action"
+    channelid "UC1jfVFBZxRUk4M2_3J4ikMw"
     favcount 0
-    viewcount 156
-    likecount -1
-    commentcount 0
-    duration "PT1H7M15S"
+    viewcount 367
+    likecount 69
+    commentcount 10
+    duration "PT32M39S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.11035541
+    PERSPECTIVEPROFANITY 0.07103945
+    PERSPECTIVEFLIRTATION 0.474763
+    PERSPECTIVETHREAT 0.20296349
+    PERSPECTIVETOXICITY 0.048868883
+    PERSPECTIVEINSULT 0.06446272
+    PERSPECTIVEIDENTITYATTACK 0.10687957
+    PERSPECTIVEINFLAMMATORY 0.20079488
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 3
   ]
   node
   [
-    id 165
-    name "181"
-    label "05seE9lfU2U"
+    id 184
+    label "WNGOIVdjL4s"
     step 0
-    date "2021-11-06T13:00:10Z"
-    title "The Great (Pence) Replacement Theory"
-    description "It appears that Mike Pence is the most recent useless white guy to be  considered for 'replacement', and it has got to raise heck with his self esteem.  Many insecure white guys live in fear that they will be replaced by Muslims or Mexicans or Monsters from the Black Lagoon, but at least most of those 'replacements' are alive. With some QAnon folks, they have already replaced Pence with JFK Jr., who departed this life 22 years ago. It seems the Q's believe that a dark and handsome deceased guy is more exciting and a better candidate than the whiter shade of pale Mike.  When you are no longer competitive in the job market, even when up against dead folks, that is what job counselors over the age of 60 call &#34;a major bummer&#34;. &#10;Mangy Fetlock, who lives in fear that he will be replaced by a nice cassette deck with auto-reverse,  felt a kinship with Pence over this and wanted Pence to know that, although it is sad to be replaced by a dead guy, it could indeed be worse, for instance, his wife might dump him for some kind of hand-held appliance, so as long as that doesn't happen, Mike should count his blessings and look for a job that he is qualified for, perhaps as the manager of a KFC, so that if Trump stops in for the 32-piece extra-crispy bucket, Mike might at least have the satisfaction of spitting in his coleslaw.  Lyrics below:&#10;&#10;Mike Pence must feel awful, &#10;You see it on his face.&#10;Like other useless white guys,&#10;it seems he&#8217;s being replaced.&#10;The QAnons don&#8217;t want him for 2024&#10;They still want Trump, but Pence, it&#8217;s clear&#10;is being shown the door.&#10;&#10;It&#8217;s JFK, the junior&#10;with Donald for their team.&#10;Replaced by one deceased&#10;surely destroys your self-esteem.&#10;And that&#8217;s just fine with Donald&#10;At Mike, seems he&#8217;s still pissed.&#10;Trump blames him quite exclusively&#10;for what he feels he missed. &#10;&#10;It&#8217;s insult paired with injury&#10;domestically for Mike&#10;His Karen bought a 9-volt &#8220;wand&#8221;&#10;and told him, &#8220;Take a hike&#8221;.&#10;So even, in his own home,&#10;The Great Replacement&#8217;s come&#10;and so&#8217;s his wife, &#10;and that&#8217;s why Pence is feeling mighty glum.&#10;                      copyright 2021, Bruce W. Nelson"
-    channeltitle "Bruce W. Nelson"
-    channelid "UC-MgavIdxnjVMmIWonFl0sQ"
+    date "2022-05-19T19:00:48Z"
+    title "Is Tucker Carlson Right About ?"
+    description "This week, Briahna was joined by host of The Funky Academic, Irami Osei-Frimpong, to do a deep dive into Great Replacement Theory and the manifesto written by the Buffalo shooter. They acknowledge that on some level Tucker Carlson was right: Democrats have long been vocal about their hope that &#34;the browning of America&#34; will inure to their electoral benefit. But where is the line between observing geographic trends as disadvantageous, and seeing immigration as a form of genocide? Who is responsible for the liberal discourse getting so nonsensical that it is easily co-opted and flipped by conservatives? What are the parallels between America's preemptive military &#34;invasions&#34; and the mass murders conducted by those who see themselves as soldiers in a race war? And is Irami right that there is a serious &#34;white culture&#34; problem afoot?"
+    channeltitle "Bad Faith"
+    channelid "UCLNw2JNuTUWFdilpzOXLa5A"
     favcount 0
-    viewcount 597
-    likecount 159
-    commentcount 26
-    duration "PT1M56S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    viewcount 19424
+    likecount 1142
+    commentcount 718
+    duration "PT1H15M59S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.050535828
+    PERSPECTIVEPROFANITY 0.047185287
+    PERSPECTIVEFLIRTATION 0.36347914
+    PERSPECTIVETHREAT 0.057934258
+    PERSPECTIVETOXICITY 0.05413456
+    PERSPECTIVEINSULT 0.05754875
+    PERSPECTIVEIDENTITYATTACK 0.048099954
+    PERSPECTIVEINFLAMMATORY 0.0043670535
+    indegree 2
+    cluster 6
   ]
   node
   [
-    id 166
-    name "183"
-    label "anNWIoRflPY"
-    step 0
-    date "2022-07-13T00:00:09Z"
-    title ""
-    description "&#119819;&#119808;&#119827;&#119812;&#119826;&#119827; &#119809;&#119825;&#119812;&#119808;&#119818;&#119816;&#119821;&#119814; &#119821;&#119812;&#119830;&#119826;: &#119808;&#119821; &#119812;&#119820;&#119812;&#119825;&#119814;&#119812;&#119821;&#119810;&#119832; &#119815;&#119808;&#119826; &#119809;&#119812;&#119812;&#119821; &#119811;&#119812;&#119810;&#119819;&#119808;&#119825;&#119812;&#119811; &#119827;&#119822;&#119811;&#119808;&#119832; &#119809;&#119816;&#119814; &#119828;&#119823;&#119811;&#119808;&#119827;&#119812;"
-    channeltitle "Azad Nebu"
-    channelid "UCe9LPls-mB_TTbY1vadxIdg"
-    favcount 0
-    viewcount 25154
-    likecount 989
-    commentcount 96
-    duration "PT26M37S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
-  ]
-  node
-  [
-    id 167
-    name "185"
+    id 185
     label "uFOEiwGOMSg"
     step 0
     date "2022-05-14T19:30:02Z"
@@ -5029,54 +4554,48 @@ graph
     likecount 20936
     commentcount 2431
     duration "PT11M56S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.11346263
+    PERSPECTIVEPROFANITY 0.06352638
+    PERSPECTIVEFLIRTATION 0.34383926
+    PERSPECTIVETHREAT 0.11662124
+    PERSPECTIVETOXICITY 0.012703137
+    PERSPECTIVEINSULT 0.046395563
+    PERSPECTIVEIDENTITYATTACK 0.05872453
+    PERSPECTIVEINFLAMMATORY 0.11182706
     indegree 6
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
-    leftright "R"
-    cluster 5
+    cluster 9
   ]
   node
   [
-    id 168
-    name "186"
-    label "L2AtTfW99B4"
+    id 188
+    label "HNCFndhE7Xw"
     step 0
-    date "2022-05-20T17:21:50Z"
-    title "Gunman Cites Great Replacement Theory For Buffalo Massacre"
-    description "A white supremacist 18-year-old gunman allegedly carried out a mass shooting at a supermarket in Buffalo, N.Y., killing 10 people and injuring three others, citing Great Replacement Theory. Almost all of the victims were Black and community volunteers. The white gunman was apprehended alive.  Dr. Rashad Richey and Dina Sayegh Doll discuss on Indisputable. Tell us what you think in the comments below. &#10;&#10;Read more here: https://www.npr.org/2022/05/15/1099028397/buffalo-shooting-what-we-know&#10;&#10;&#34;A white, 18-year-old gunman allegedly carried out a racist attack at a supermarket in Buffalo, N.Y., on Saturday, killing 10 people and injuring three others, according to authorities. Almost all of the victims were Black. The suspect, who livestreamed the mass shooting, is believed to be the author of a screed posted online detailing his white supremacist ideologies and his plan to target a Black community in New York.&#10;&#10;The suspect has been charged with first-degree murder. If convicted, he would face a maximum sentence of life without parole.&#34;&#10;&#10;*** &#10;&#10;Indisputable, features Dr. Richey talking about the top news stories of the day, reading viewer comments, and engaging in debates and conversations with guests.&#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/IndisputableTYT&#10;FACEBOOK: &#9758; http://www.facebook.com/IndisputableTYT&#10;TWITTER: &#9758; http://www.twitter.com/IndisputableTYT&#10;INSTAGRAM: &#9758; http://www.instagram.com/IndisputableTYT&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;The Young Turks &#9654; https://www.youtube.com/theyoungturks&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #IndisputableTYT #News&#10;&#10;220516__ID0110Dead3Wounded_Censored"
-    channeltitle "Indisputable with Dr. Rashad Richey"
-    channelid "UC9bMcW0MFzOAgfQ-7et47zw"
+    date "2022-05-17T20:55:23Z"
+    title "The Great Replacement FACT?"
+    description "Want to see more from this contributor? Visit their Instagram https://www.instagram.com/carsonwolfofficial/&#10;&#10;#Shorts #Tucker #CarsonWolf&#10;&#10;Visit our website: https://www.populistunion.com&#10;Follow us on Instagram: http://instagram.com/populistunion&#10;Follow us on Twitter: https://twitter.com/PopulistUnion&#10;&#10;The American Populist Union is a non-profit organization that advocates for reform from within the conservative movement to put family, tradition, and the common American back at the center of national policy. Unlike the conservative establishment, we recognize that the most important metric in measuring our society's success is not our GDP or profit margins, but the health of our nation's families. We are conservatives who stand for the American worker and the American family over the interests of big business and foreign entities."
+    channeltitle "American Populist Union"
+    channelid "UCwiVXwm_CKcpNl17Gk1S5Hg"
     favcount 0
-    viewcount 42973
-    likecount 2438
-    commentcount 1096
-    duration "PT13M18S"
-    indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 8
+    viewcount 1801
+    likecount 211
+    commentcount 30
+    duration "PT59S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.037420694
+    PERSPECTIVEPROFANITY 0.021175673
+    PERSPECTIVEFLIRTATION 0.28774458
+    PERSPECTIVETHREAT 0.06230656
+    PERSPECTIVETOXICITY 0.015826859
+    PERSPECTIVEINSULT 0.026080873
+    PERSPECTIVEIDENTITYATTACK 0.03065931
+    PERSPECTIVEINFLAMMATORY 0.1308427
+    indegree 7
+    cluster 1
   ]
   node
   [
-    id 169
-    name "189"
+    id 189
     label "cduFJ30KcCg"
     step 0
     date "2021-04-11T10:29:28Z"
@@ -5089,24 +4608,21 @@ graph
     likecount 13
     commentcount 1
     duration "PT1M18S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06836725
+    PERSPECTIVEPROFANITY 0.043548036
+    PERSPECTIVEFLIRTATION 0.299971
+    PERSPECTIVETHREAT 0.0786752
+    PERSPECTIVETOXICITY 0.012564304
+    PERSPECTIVEINSULT 0.026850706
+    PERSPECTIVEIDENTITYATTACK 0.038205124
+    PERSPECTIVEINFLAMMATORY 0.09861664
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 170
-    name "190"
+    id 190
     label "fVoQ613cRSM"
     step 0
     date "2022-05-17T20:42:21Z"
@@ -5119,24 +4635,21 @@ graph
     likecount 3
     commentcount 3
     duration "PT1H53M25S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.07903995
+    PERSPECTIVEPROFANITY 0.048522998
+    PERSPECTIVEFLIRTATION 0.2965219
+    PERSPECTIVETHREAT 0.0696917
+    PERSPECTIVETOXICITY 0.17518331
+    PERSPECTIVEINSULT 0.043042894
+    PERSPECTIVEIDENTITYATTACK 0.09904298
+    PERSPECTIVEINFLAMMATORY 0.37415567
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 10
   ]
   node
   [
-    id 171
-    name "191"
+    id 191
     label "Bpt-HL0FWvM"
     step 0
     date "2021-04-14T15:31:31Z"
@@ -5149,24 +4662,21 @@ graph
     likecount 180
     commentcount 151
     duration "PT3M54S"
+    sentiment 0.4767
+    PERSPECTIVESEXUALLYEXPLICIT 0.108418435
+    PERSPECTIVEPROFANITY 0.18823858
+    PERSPECTIVEFLIRTATION 0.27771342
+    PERSPECTIVETHREAT 0.15070444
+    PERSPECTIVETOXICITY 0.355017
+    PERSPECTIVEINSULT 0.49557137
+    PERSPECTIVEIDENTITYATTACK 0.68396735
+    PERSPECTIVEINFLAMMATORY 0.5739393
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 9
+    cluster 8
   ]
   node
   [
-    id 172
-    name "192"
+    id 192
     label "pA97dubN8i8"
     step 0
     date "2022-03-30T16:02:59Z"
@@ -5179,24 +4689,21 @@ graph
     likecount 2214
     commentcount 133
     duration "PT13M21S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06861928
+    PERSPECTIVEPROFANITY 0.0565564
+    PERSPECTIVEFLIRTATION 0.36490226
+    PERSPECTIVETHREAT 0.095273785
+    PERSPECTIVETOXICITY 0.02809576
+    PERSPECTIVEINSULT 0.07011887
+    PERSPECTIVEIDENTITYATTACK 0.13831608
+    PERSPECTIVEINFLAMMATORY 0.2548798
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 173
-    name "193"
+    id 193
     label "pEYjxVMXDVY"
     step 0
     date "2022-05-24T21:21:16Z"
@@ -5209,24 +4716,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT1H7M26S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.0459218
+    PERSPECTIVEPROFANITY 0.0324431
+    PERSPECTIVEFLIRTATION 0.38319334
+    PERSPECTIVETHREAT 0.090004385
+    PERSPECTIVETOXICITY 0.078108564
+    PERSPECTIVEINSULT 0.036248263
+    PERSPECTIVEIDENTITYATTACK 0.059010595
+    PERSPECTIVEINFLAMMATORY 0.16814014
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 174
-    name "194"
+    id 194
     label "9JfYsugxHb0"
     step 0
     date "2022-05-30T15:42:50Z"
@@ -5239,54 +4743,48 @@ graph
     likecount 3817
     commentcount 2161
     duration "PT1H13M57S"
+    sentiment 0.1796
+    PERSPECTIVESEXUALLYEXPLICIT 0.28983235
+    PERSPECTIVEPROFANITY 0.14066526
+    PERSPECTIVEFLIRTATION 0.64741594
+    PERSPECTIVETHREAT 0.43005955
+    PERSPECTIVETOXICITY 0.31714454
+    PERSPECTIVEINSULT 0.09747281
+    PERSPECTIVEIDENTITYATTACK 0.15419528
+    PERSPECTIVEINFLAMMATORY 0.049982388
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 8
+    cluster 12
   ]
   node
   [
-    id 175
-    name "195"
-    label "-gtgbIzNPrc"
+    id 196
+    label "-WenQQW8jyk"
     step 0
-    date "2022-05-17T16:16:04Z"
-    title "Glenn Greenwalds Great Replacement Hysteria"
-    description "SUPPORT Status Coup's ON-THE-GROUND and investigative reporting on the stories the corporate media COVERS UP: https://www.StatusCoup.com/Join&#10;&#10;Jordan Chariton and videojournalist/documentary filmmaker Ty Bayliss react to Tucker Carlson's continued great replacement hysteria and journalist Glenn Greenwald's defense of him.&#10;&#10;Shop our collection of clothes that are both high quality, and from sustainable sources: Get shirts based on different quotes from Jordan Chariton such as 'The United Corporations of America' Now! Get yours at https://www.StatusCoup.com/Store&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UC0pCsHlEEmCfxllZSlRB2Og/join&#10;&#10;Other ways to support Status Coup&#10;https://www.gofundme.com/f/statuscoup&#10;https://www.paypal.com/paypalme/StatusCoup&#10;$StatusCoup on CashApp &#10;&#10;SIGN UP for our email list for breaking news alerts and alerts when we're LIVE: https://statuscoup.pub/email&#10;&#10;SIGN UP for our text alerts to get a message as soon as we're LIVE&#10;https://statuscoup.com/text/&#10;&#10;Wholesome by Kevin MacLeod&#10;Link: https://incompetech.filmmusic.io/song/5050-wholesome&#10;License: https://filmmusic.io/standard-license&#10;&#10;#StatusCoup #FoxNews #TuckerCarlson #GlennGreenwald #GreatReplacement #BuffaloNY #PaytonGendron"
-    channeltitle "Status Coup News"
-    channelid "UC0pCsHlEEmCfxllZSlRB2Og"
+    date "2022-05-30T17:00:53Z"
+    title "60% Of Trump Supporters Believe Parts Of "
+    description "According to a new survey, 6 in 10 Trump supporters believe in at least one of the core tenets of the &#34;great replacement theory.&#34; The theory is a racist belief that white people are being pushed out (replaced) as the majority in the country and that this is somehow going to be horrible for them. But the fact that so many Trump supporters believe in parts of this racist theory is beyond troubling, as Ring of Fire's Farron Cousins explains. &#10;&#10;Link - https://thehill.com/news/state-watch/3499877-6-in-10-trump-voters-agree-with-core-tenet-of-great-replacement-theory-survey/&#10;&#10;Become a member today!: https://www.youtube.com/channel/UCYWIEbibRcZav6xMLo9qWWw/join&#10;&#10;Support us by becoming a monthly patron on Patreon, and help keep progressive media alive!: https://www.patreon.com/TheRingofFire&#10;&#10;Find our merchandise at Teespring: https://teespring.com/stores/rof-store&#10;&#10;Spread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!&#10;&#10;Support Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/theringoffire&#10;&#10;Be sociable! Follow us on:&#10;Facebook: http://www.facebook.com/RingofFireRadio&#10;Twitter: http://www.twitter.com/RingofFireRadio&#10;Google+: http://plus.google.com/118415831573195648557&#10;Instagram: https://www.instagram.com/ringoffirenetwork/&#10;&#10;Follow more of our stories at http://www.TROFIRE.com&#10;&#10;Subscribe to our podcast: http://www.ROFPodcast.com&#10;&#10;*This transcript was generated by a third-party transcription software company, so please excuse any typos.&#10;&#10;According to a new survey, more than 60% of Trump's supporters here in the United States, believe at least one core tenant of the so-called great replacement theory and that core tenant that more than 60 believes some of them believe more than just this one. But the core tenant is quote, a group of people in this country are trying to replace native born Americans with immigrants and people of color who share their political views. So the great replacement theory is not just that demographics shift naturally over time. It's not that there's more people of color here in the United States and white people are dwindling. It's that it's intentional. And that is the part that I think a lot of people always miss about this great replacement theory, because we have been reading studies reports and all of that for years and years and years saying that yes, demographics over time will shift. There will come a time, you know, probably decades, maybe even centuries into the future where white people are absolutely the minority here in the United States. It's going to happen. It's been predicted by everybody that looks at these kinds of things, but the great replacement theory says that it's happening intentionally, that Democrats, you know, are bringing in these illegal aliens. They're encouraging people to come across the Southern border. They're I guess helping black people reproduce more so that they can take over the country. &#10;&#10;And that of course is the danger of this theory. If it was just people freaking out about regular shifts and demographics, it'd be easier to dismiss. But the fact that they think that it is intentional, that this is being carried out so that they get replay at they get replaced. That's what makes this so dangerous. That's why we see incidents like what we saw last week. This is what happens when you push this narrative that you are being oppressed by the democratic party. You are being replaced by people with darker skin, which is not a thing by the way that is happening. But a vast majority of these Trump supporters actually do believe this more than 60% of them think that this is happening. This is a portion of the population that is lost. They're lost. You can't talk reason with them. You can't, you know, rationally, bring them back. I think, I think they're gone. And I think they're gone forever. And that's an even more terrifying thought to have, because if these people are truly that lost, if they truly hold these deeply racist beliefs, which is what this is, &#10;&#10;I don't know that you can bring them back. So what do we do? Well, we continue trying to educate them. You never give up, right? It may seem like a fruitless task, but every now and then you're gonna find a nut that you can crack. And I don't mean, you know, nut in the offensive term, I'm using it as a metaphor. You'll find somebody that might be willing to listen. You can knock on a hundred doors and even if 99 slam them in your face, one of them might be willing to listen to you. And so that's what we have to keep doing slowly, but surely trying to deprogram these people. It will not be easy. It will not be fun, but it's either that, or we just give up and let it spread. And that is definitely not an option."
+    channeltitle "The Ring of Fire"
+    channelid "UCYWIEbibRcZav6xMLo9qWWw"
     favcount 0
-    viewcount 5514
-    likecount 531
-    commentcount 548
-    duration "PT22M44S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 10
+    viewcount 21397
+    likecount 1966
+    commentcount 647
+    duration "PT4M15S"
+    sentiment 0.7906
+    PERSPECTIVESEXUALLYEXPLICIT 0.04386225
+    PERSPECTIVEPROFANITY 0.041644573
+    PERSPECTIVEFLIRTATION 0.26970547
+    PERSPECTIVETHREAT 0.060015462
+    PERSPECTIVETOXICITY 0.030670939
+    PERSPECTIVEINSULT 0.10955778
+    PERSPECTIVEIDENTITYATTACK 0.06506995
+    PERSPECTIVEINFLAMMATORY 0.39089245
+    indegree 2
+    cluster 5
   ]
   node
   [
-    id 176
-    name "197"
+    id 197
     label "kr67U_PIwCA"
     step 0
     date "2021-08-04T19:52:46Z"
@@ -5299,24 +4797,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT1M5S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.039004307
+    PERSPECTIVEPROFANITY 0.032137435
+    PERSPECTIVEFLIRTATION 0.20885468
+    PERSPECTIVETHREAT 0.046746325
+    PERSPECTIVETOXICITY 0.03839648
+    PERSPECTIVEINSULT 0.030112684
+    PERSPECTIVEIDENTITYATTACK 0.03930607
+    PERSPECTIVEINFLAMMATORY 0.19934846
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 177
-    name "198"
+    id 198
     label "H9HPp6DxA3Q"
     step 0
     date "2022-04-07T22:35:52Z"
@@ -5329,24 +4824,21 @@ graph
     likecount 18
     commentcount 0
     duration "PT1M"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.045384955
+    PERSPECTIVEPROFANITY 0.024428207
+    PERSPECTIVEFLIRTATION 0.3033238
+    PERSPECTIVETHREAT 0.067226246
+    PERSPECTIVETOXICITY 0.013466713
+    PERSPECTIVEINSULT 0.027849147
+    PERSPECTIVEIDENTITYATTACK 0.0331451
+    PERSPECTIVEINFLAMMATORY 0.10323304
     indegree 3
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 178
-    name "199"
+    id 199
     label "V30XeuZW84U"
     step 0
     date "2022-05-17T02:53:41Z"
@@ -5359,24 +4851,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT10M6S"
+    sentiment -0.8074
+    PERSPECTIVESEXUALLYEXPLICIT 0.68371606
+    PERSPECTIVEPROFANITY 0.692618
+    PERSPECTIVEFLIRTATION 0.40596026
+    PERSPECTIVETHREAT 0.85836655
+    PERSPECTIVETOXICITY 0.40326482
+    PERSPECTIVEINSULT 0.660731
+    PERSPECTIVEIDENTITYATTACK 0.738392
+    PERSPECTIVEINFLAMMATORY 0.64942795
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 179
-    name "200"
+    id 200
     label "wbWB1sfqWx0"
     step 0
     date "2022-05-18T02:27:39Z"
@@ -5389,84 +4878,75 @@ graph
     likecount 0
     commentcount 0
     duration "PT2M24S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.04099222
+    PERSPECTIVEPROFANITY 0.049425457
+    PERSPECTIVEFLIRTATION 0.35690525
+    PERSPECTIVETHREAT 0.094238825
+    PERSPECTIVETOXICITY 0.05253629
+    PERSPECTIVEINSULT 0.045851853
+    PERSPECTIVEIDENTITYATTACK 0.09926016
+    PERSPECTIVEINFLAMMATORY 0.043195367
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 180
-    name "201"
-    label "2dVOW21zQxU"
+    id 205
+    label "RmdRCbtWY0E"
     step 0
-    date "2022-07-11T17:34:26Z"
-    title "C of C 7-9-2022 Discussion of the White Supremacist Great Replacement Theory."
-    description "July 9&#10;A Report / Discussion of the white supremacist Great Replacement Theory&#10;Illinois Young Communist League YCL&#10;&#10;Meeting # 3,674 - Jake Chappell Young Communists&#10;&#10;&#34;For democracy. For equality. For socialism. For a sustainable future and a world that puts people before profits.&#34;&#10;&#10;The Great Replacement (French: Grand Remplacement), also known as replacement theory, is a white nationalist far-right conspiracy theory disseminated by French author Renaud Camus. The original theory states that, with the complicity or cooperation of &#34;replacist&#34; elites, white European populations are being demographically and culturally replaced with non-white peoples&#8212;especially from Muslim-majority countries&#8212;through mass migration, demographic growth and a drop in the birth rate of white Europeans. Since then, similar claims have been advanced in other national contexts, notably in the United States where white genocide conspiracy theories directly foment violence against nonwhite and nonchristian people as well as shape policy surrounding abortion healthcare, voting access, immigration policy, and almost every other pervasive talking point of modern US politics."
-    channeltitle "Tim Bolger"
-    channelid "UCJQPMVxtQJ11cL55KiM7lvA"
+    date "2022-04-06T00:19:54Z"
+    title "Hasanabi Talks About Zemmour, The Great Replacement Theory, s Himbos"
+    description "Hit that subscribe button to become one of Hasan's Himbos!&#10;&#10;Stay Connected:&#10;&#9658; Hasanabi is live daily 11am PST on https://www.twitch.tv/hasanabi&#10;&#9658; Twitter: https://twitter.com/hasanthehun&#10;&#9658; YouTube: https://www.youtube.com/c/HasanAbi&#10;&#9658; Instagram: https://www.instagram.com/hasandpiker/&#10;&#10;Thank you all for watching!&#10;&#10;#hasanabi #twitch #react"
+    channeltitle "Hasan's Himbos"
+    channelid "UC7ZFh8vIhWXa8G-zmbbm6qw"
     favcount 0
-    viewcount 12
-    likecount 1
+    viewcount 271
+    likecount 4
     commentcount 0
-    duration "PT2H32M5S"
+    duration "PT42M25S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.21597838
+    PERSPECTIVEPROFANITY 0.24992202
+    PERSPECTIVEFLIRTATION 0.5270261
+    PERSPECTIVETHREAT 0.54129535
+    PERSPECTIVETOXICITY 0.015479778
+    PERSPECTIVEINSULT 0.15577619
+    PERSPECTIVEIDENTITYATTACK 0.23428154
+    PERSPECTIVEINFLAMMATORY 0.017834945
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 8
   ]
   node
   [
-    id 181
-    name "206"
-    label "wNPMtPrAp_4"
+    id 208
+    label "PXNmcC19NJs"
     step 0
-    date "2022-06-08T13:30:10Z"
-    title "Immigration News : The Great Replacement Theory Rises Again - Undocumented Immigrant, Tucker Carlson"
-    description "Immigration News : The Great Replacement Theory Rises Again - Undocumented Immigrant, Tucker Carlson &#10;Welcome to our Just Immigration News channel this is a place where you will learn all about Immigration Changes, from Immigration news, Immigration Updates and we provide all information you need to make your Immigration Process Easy &#38; less stressful.&#10;&#10;The information in this video has been presented for informational purposes only and are not legal advice or a substitute for legal counsel. This information is not intended to create, and receipt of it does not constitute, an attorney-client relationship. You should not rely or act upon this information without seeking professional counsel. If you need specific legal advice please book a Immigration Lawyer.&#10;&#10;Related Tags :"
-    channeltitle "Just Immigration News"
-    channelid "UCqhCSsKCMqpq45R3FEzBxxQ"
+    date "2021-04-09T16:46:00Z"
+    title "Tucker Carlson defends the Great Replacement theory on Fox News"
+    description "Fox News April 2021&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;OLD MESSAGES&#10;IMPORTANT NOTICE: The restriction mentioned below is now in effect. (28 October 2018)&#10;&#10;PREVIOUS MESSAGES: &#10;In the next few weeks the volume of uploads to all of my channels will reduce substantially. I have edited, tagged and described some 5,000 videos for my three channels over the last few years and it represents an investment of 1,000s of hours of my time (unpaid). It has now reached a point where I can no longer afford to continue incurring the opportunity cost in time and &#163;&#163;&#163;s that investment represents.&#10;&#10;For the 30,000 of you who have been kind enough to subscribe to this channel, thank you for your support.&#10;&#10;_____________&#10;I rotate uploads between my three YouTube channels: for more like this search for: &#34;Still Incorrigible&#34; &#38; &#34;Incorrigible Forever&#34;&#10;You can also view my blog here: https://imincorrigible.wordpress.com/"
+    channeltitle "I Am Incorrigible"
+    channelid "UCq-PzlLuePFoR_XRzwQZGyA"
     favcount 0
-    viewcount 2163
-    likecount 32
-    commentcount 2
-    duration "PT10M11S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    viewcount 15243
+    likecount 234
+    commentcount 494
+    duration "PT1M51S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06919046
+    PERSPECTIVEPROFANITY 0.088328555
+    PERSPECTIVEFLIRTATION 0.35176724
+    PERSPECTIVETHREAT 0.16220358
+    PERSPECTIVETOXICITY 0.04268845
+    PERSPECTIVEINSULT 0.08653576
+    PERSPECTIVEIDENTITYATTACK 0.094260775
+    PERSPECTIVEINFLAMMATORY 0.27763465
+    indegree 11
+    cluster 8
   ]
   node
   [
-    id 182
-    name "209"
+    id 209
     label "8SMLQzvFiNw"
     step 0
     date "2022-05-15T17:01:25Z"
@@ -5479,24 +4959,21 @@ graph
     likecount 661
     commentcount 329
     duration "PT2M13S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1496893
+    PERSPECTIVEPROFANITY 0.11791445
+    PERSPECTIVEFLIRTATION 0.38746655
+    PERSPECTIVETHREAT 0.31840843
+    PERSPECTIVETOXICITY 0.2286382
+    PERSPECTIVEINSULT 0.14069337
+    PERSPECTIVEIDENTITYATTACK 0.37681738
+    PERSPECTIVEINFLAMMATORY 0.39916793
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 183
-    name "210"
+    id 210
     label "-QJZW7VNzhY"
     step 0
     date "2022-06-27T21:03:42Z"
@@ -5509,24 +4986,21 @@ graph
     likecount 6
     commentcount -1
     duration "PT15M16S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.043398637
+    PERSPECTIVEPROFANITY 0.09979046
+    PERSPECTIVEFLIRTATION 0.24181728
+    PERSPECTIVETHREAT 0.4857721
+    PERSPECTIVETOXICITY 0.11600884
+    PERSPECTIVEINSULT 0.09450647
+    PERSPECTIVEIDENTITYATTACK 0.43812054
+    PERSPECTIVEINFLAMMATORY 0.66992533
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 184
-    name "211"
+    id 211
     label "rwzRjeExMaw"
     step 0
     date "2022-05-15T12:27:49Z"
@@ -5539,84 +5013,75 @@ graph
     likecount 10
     commentcount 19
     duration "PT43S"
+    sentiment -0.0772
+    PERSPECTIVESEXUALLYEXPLICIT 0.18049484
+    PERSPECTIVEPROFANITY 0.08684504
+    PERSPECTIVEFLIRTATION 0.63220626
+    PERSPECTIVETHREAT 0.29472002
+    PERSPECTIVETOXICITY 0.08796701
+    PERSPECTIVEINSULT 0.06473895
+    PERSPECTIVEIDENTITYATTACK 0.1572566
+    PERSPECTIVEINFLAMMATORY 0.10831928
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 11
   ]
   node
   [
-    id 185
-    name "212"
-    label "Sx6iAfmgHmE"
+    id 213
+    label "f9jLJhSZDrM"
     step 0
-    date "2022-07-10T15:00:15Z"
-    title "The Greatest Starcraft 2 Defense Ever: Maru vs. Reynor"
-    description "One of the greatest matches of Starcraft 2 ever, with Maru vs. Reynor playing another epic Best of 5 that goes back and forth. Maru displaying one of the best starcraft defenses of all time. &#10;&#10;Match: Maru vs. Reynor&#10;Tournament: ESL Pro Tour - Valencia 2022 Finals &#10;VODs: http://twitch.tv/esl_sc2 &#10;&#10;&#9658; Enjoy the content? Buy me a coffee! https://www.ko-fi.com/SC2HL&#10;&#9658; SUBSCRIBE to SC2HL! http://bit.ly/SC2HLsubscribe &#10;&#10;&#10;Thank you for watching our videos! Subscribe for more StarCraft 2 esports content, professional games, highlights and much more! &#10;&#10;StarCraft 2 is a military science fiction real-time strategy video game developed and released by Blizzard Entertainment."
-    channeltitle "SC2HL"
-    channelid "UC9C07cryUrKzLuAzwITPA3A"
+    date "2022-05-27T23:00:24Z"
+    title "Mini - Not so great replacement theory"
+    description "For entertainment purposes only.&#10;To support Ellie as a Patron visit https://www.patreon.com/elliedreamsdownunder&#10;To donate visit https://www.paypal.me/elliedreamsdownunder or click DONATE on my About tab.&#10;&#10;If you have questions you want answered about US politics, world affairs, celebrities and human interest topics, you can post your question on Ellie's welcome video here: https://youtu.be/F3awWye91-kS&#10;&#10;Like, Share, Subscribe... &#10;Sorry, no personal readings for sale here.&#10;&#10;Thank you for supporting this channel!"
+    channeltitle "Ellie Dreams Down Under"
+    channelid "UCB4NVLYNaO_QUFqh1nr-72w"
     favcount 0
-    viewcount 118238
-    likecount 2032
-    commentcount 251
-    duration "PT1H8M10S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    viewcount 2956
+    likecount 568
+    commentcount 45
+    duration "PT12M43S"
+    sentiment -0.6296
+    PERSPECTIVESEXUALLYEXPLICIT 0.074768245
+    PERSPECTIVEPROFANITY 0.05131817
+    PERSPECTIVEFLIRTATION 0.2662498
+    PERSPECTIVETHREAT 0.10606128
+    PERSPECTIVETOXICITY 0.023803791
+    PERSPECTIVEINSULT 0.07015319
+    PERSPECTIVEIDENTITYATTACK 0.082587026
+    PERSPECTIVEINFLAMMATORY 0.10771253
+    indegree 2
+    cluster 5
   ]
   node
   [
-    id 186
-    name "214"
-    label "ecCYcCL6yDU"
+    id 216
+    label "_BxNY7X8sCE"
     step 0
-    date "2022-06-12T17:01:11Z"
-    title "A Lesson in Racial Deconstruction / CRT vs white replacement theory"
-    description "Learn how to deconstruct race ideology from your thinking:&#10;&#10;http://www.amazon.com/George-Middleton/e/B001KI9BTC%3Fref=dbs_a_mng_rwt_scns_share"
-    channeltitle "The George Middleton"
-    channelid "UCZuPAWbowmytFFapXVveEMQ"
+    date "2022-05-22T10:14:09Z"
+    title "Replacement Theory Explained"
+    description "The Great Replacement or Replacement Theory&#10;The Great Replacement also known as the replacement Theory is a White Nationalist Far-Right Conspiracy Theory.&#10; &#8220;The Great Replacement&#8221; theory has its roots in the early 20th century French nationalism and books by French nationalist and author Maurice Barres. &#10;Later on the great replacement theory was popularized by Renaud Camus in his 2011 book Le Grand Remplacement.&#10; It specifically associated the presence of Muslims in France with potential danger and destruction of French culture and civilization. &#10;The theory states that with the complicity or cooperation of &#34;replacist&#34; elites mostly jews, the white European populations are being demographically and culturally replaced with non-white people, especially from Muslim-majority countries through mass migration, demographic growth and a drop in the birth rate of white Europeans.&#10;An extension of colonialist theory, it is predicated on the notion that white women are not having enough children and that falling birthrates will lead to white people around the world being replaced by nonwhite people.  And like so many fundamentalist ideologies, the foundation of this one requires the subjugation of women.&#10;The &#8220;great replacement&#8221; philosophy was quickly adopted and promoted by the white supremacist  movement, as it fit into their conspiracy theory about the impending destruction of the white race, also know as &#8220;white genocide.&#8221; &#10;Many Americans first became familiar with the term in 2017 when alt-right activists organized a rally in Charlottesville, Virginia, where activists chanted, &#34;You will not replace us,&#34; and &#34;Jews will not replace us.&#34;The rally turned deadly when a neo-Nazi sympathizer drove his truck into counter-protesters, killing 32-year-old Heather Heyer.&#10;Camus denies his words have inspired violence. But extremism experts say the replacement idea has helped propel a string of deadly attacks by white supremacists on Jews, Muslims, Hispanics and Blacks in recent years.&#10;&#8226; Inside a Pittsburgh synagogue in 2018, a white man with a history of antisemitic internet posts gunned down 11 worshipers, blaming Jews for allowing immigrant &#8220;invaders&#8221; into the United States.&#10;&#8226; The next year, another white man, angry over what he called &#8220;the Hispanic invasion of Texas,&#8221; opened fire on shoppers at an El Paso Walmart, leaving 23 people dead, and later telling the police he had sought to kill Mexicans as they are replacing white in America&#10;&#8226; And in yet another deadly mass shooting, unfolding in Buffalo on Saturday, a heavily armed white man killed 10 people after targeting a supermarket on the city&#8217;s predominantly Black east side, writing in a lengthy screed posted online that the shoppers there came from a culture that sought to &#8220;ethnically replace my own people.&#8221;&#10;&#8226; Three shootings, three different targets &#8212; but all linked by one sprawling, ever-mutating belief now commonly known as replacement theory. &#10;&#8226; Multiple iterations of the &#8220;great replacement&#8221; theory have been and continue to be used by antiimmigrant groups, white supremacists, and others. Prominent iterations include: Rhetoric of invasion: The theory often uses martial and violent rhetoric of a migrant &#8220;invasion&#8221; that must be stopped before it &#8220;conquers&#8221; &#8220;white America.&#8221; Voter replacement: The theory also sometimes incorporates the inaccurate assumption that nonwhite immigrants will vote a certain way, and therefore pro-immigration policies are designed by elites to diminish the political influence of white Americans. Anti-Semitism: In still other iterations, the theory can be found embedded in a web of other xenophobic conspiracies, including antisemitic notions that Jewish elites are responsible for the &#8220;replacement&#8221; plot. &#10;Camus denies his words have inspired violence. But extremism experts say the replacement idea has helped propel a string of deadly attacks by white supremacists on Jews, Muslims, Hispanics and Blacks in recent years.&#10;&#8226; Republicans have become more explicit about embracing the Great Replacement theory helped by the amplification of Fox News, particularly prime-time host Tucker Carlson. Rather than implying it, as many on the right previously had, Carlson is explicit &#8212; even if he denies somehow that he's talking about the &#34;racist fantasy&#34;"
+    channeltitle "Social Science School"
+    channelid "UCWPUkFGhqkKeTyXoZQTOPlA"
     favcount 0
-    viewcount 31
-    likecount 3
-    commentcount 1
-    duration "PT53S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    viewcount 187
+    likecount 28
+    commentcount 8
+    duration "PT4M5S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.056105647
+    PERSPECTIVEPROFANITY 0.048862886
+    PERSPECTIVEFLIRTATION 0.19199188
+    PERSPECTIVETHREAT 0.09279386
+    PERSPECTIVETOXICITY 0.015757442
+    PERSPECTIVEINSULT 0.03353145
+    PERSPECTIVEIDENTITYATTACK 0.04412918
+    PERSPECTIVEINFLAMMATORY 0.08054293
+    indegree 1
+    cluster 5
   ]
   node
   [
-    id 187
-    name "217"
+    id 217
     label "1-LRKoAQUR8"
     step 0
     date "2022-05-22T14:58:35Z"
@@ -5629,24 +5094,21 @@ graph
     likecount 726
     commentcount 249
     duration "PT53M33S"
+    sentiment 0.7096
+    PERSPECTIVESEXUALLYEXPLICIT 0.047881536
+    PERSPECTIVEPROFANITY 0.03274532
+    PERSPECTIVEFLIRTATION 0.35125777
+    PERSPECTIVETHREAT 0.29548702
+    PERSPECTIVETOXICITY 0.047495455
+    PERSPECTIVEINSULT 0.035201862
+    PERSPECTIVEIDENTITYATTACK 0.080349125
+    PERSPECTIVEINFLAMMATORY 0.4189179
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 8
+    cluster 1
   ]
   node
   [
-    id 188
-    name "218"
+    id 218
     label "UbKhuN8tWLI"
     step 0
     date "2022-05-17T21:30:02Z"
@@ -5659,54 +5121,48 @@ graph
     likecount 108
     commentcount 75
     duration "PT23M52S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.085095465
+    PERSPECTIVEPROFANITY 0.11064596
+    PERSPECTIVEFLIRTATION 0.31003526
+    PERSPECTIVETHREAT 0.18824187
+    PERSPECTIVETOXICITY 0.1668969
+    PERSPECTIVEINSULT 0.2491384
+    PERSPECTIVEIDENTITYATTACK 0.29898748
+    PERSPECTIVEINFLAMMATORY 0.7083323
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Libertarian"
-    leftright "R"
-    cluster 4
+    cluster 7
   ]
   node
   [
-    id 189
-    name "219"
-    label "WsNtN5FHJA4"
+    id 220
+    label "R_xkB6S87OA"
     step 0
-    date "2022-06-09T00:30:05Z"
-    title ": Pelosi Condemns The Great Replacement Theory, Calls It Very Dangerous"
-    description "In a public address Wednesday, Speaker of the House Pelosi condemned the Great Replacement Theory and called it very dangerous.&#10;&#10;For the latest news visit: https://thehill.com/ &#10;Stay Connected: &#10;Like The Hill on Facebook: https://twitter.com/thehill&#10;Follow The Hill on Twitter: https://www.facebook.com/TheHill/&#10;Follow The Hill on Instagram: https://instagram.com/thehill"
-    channeltitle "The Hill Just In"
-    channelid "UC-C6gdv6JDwv6PuRDrZghfg"
+    date "2022-05-20T17:27:00Z"
+    title "AVC - Buffalo Shooting and Replacement Theory"
+    description "Join Jesse Curtis as he offers a historical perspective on the replacement theory mentioned by the Buffalo shooter in his manifesto."
+    channeltitle "American Values Coalition"
+    channelid "UCTeLwUu7ICO-qA9g8aEBu6Q"
     favcount 0
-    viewcount 7
-    likecount 0
+    viewcount 90
+    likecount 4
     commentcount 0
-    duration "PT5M4S"
-    indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    duration "PT58M47S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.06673248
+    PERSPECTIVEPROFANITY 0.06082297
+    PERSPECTIVEFLIRTATION 0.3518765
+    PERSPECTIVETHREAT 0.674954
+    PERSPECTIVETOXICITY 0.08330294
+    PERSPECTIVEINSULT 0.04628437
+    PERSPECTIVEIDENTITYATTACK 0.055773176
+    PERSPECTIVEINFLAMMATORY 0.58975697
+    indegree 0
+    cluster 1
   ]
   node
   [
-    id 190
-    name "221"
+    id 221
     label "JNbh8F0_92g"
     step 0
     date "2020-12-02T06:34:42Z"
@@ -5719,24 +5175,21 @@ graph
     likecount 1148
     commentcount 1017
     duration "PT9M"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.046018913
+    PERSPECTIVEPROFANITY 0.028165948
+    PERSPECTIVEFLIRTATION 0.2629658
+    PERSPECTIVETHREAT 0.0662761
+    PERSPECTIVETOXICITY 0.015132698
+    PERSPECTIVEINSULT 0.024442015
+    PERSPECTIVEIDENTITYATTACK 0.050861407
+    PERSPECTIVEINFLAMMATORY 0.14911135
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Educational"
-    leftright "C"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 191
-    name "222"
+    id 222
     label "U1DzbJBmf9E"
     step 0
     date "2022-05-23T17:55:32Z"
@@ -5749,24 +5202,21 @@ graph
     likecount 1
     commentcount 2
     duration "PT48M51S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.059656072
+    PERSPECTIVEPROFANITY 0.0452479
+    PERSPECTIVEFLIRTATION 0.40047383
+    PERSPECTIVETHREAT 0.15538074
+    PERSPECTIVETOXICITY 0.04268845
+    PERSPECTIVEINSULT 0.046312284
+    PERSPECTIVEIDENTITYATTACK 0.14725453
+    PERSPECTIVEINFLAMMATORY 0.022744829
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 5
   ]
   node
   [
-    id 192
-    name "223"
+    id 223
     label "OEPrMpjWv5A"
     step 0
     date "2022-05-26T15:51:47Z"
@@ -5779,24 +5229,21 @@ graph
     likecount 2
     commentcount 0
     duration "PT1H30M55S"
+    sentiment 0.0772
+    PERSPECTIVESEXUALLYEXPLICIT 0.51547265
+    PERSPECTIVEPROFANITY 0.95197904
+    PERSPECTIVEFLIRTATION 0.34623703
+    PERSPECTIVETHREAT 0.16440313
+    PERSPECTIVETOXICITY 0.8393344
+    PERSPECTIVEINSULT 0.660731
+    PERSPECTIVEIDENTITYATTACK 0.2606613
+    PERSPECTIVEINFLAMMATORY 0.3711684
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 4
   ]
   node
   [
-    id 193
-    name "224"
+    id 224
     label "SUMMBS6fIyA"
     step 0
     date "2022-06-09T00:21:58Z"
@@ -5809,24 +5256,21 @@ graph
     likecount 4
     commentcount 4
     duration "PT59S"
+    sentiment 0.765
+    PERSPECTIVESEXUALLYEXPLICIT 0.035849895
+    PERSPECTIVEPROFANITY 0.02527641
+    PERSPECTIVEFLIRTATION 0.3647875
+    PERSPECTIVETHREAT 0.07426141
+    PERSPECTIVETOXICITY 0.032387726
+    PERSPECTIVEINSULT 0.06946409
+    PERSPECTIVEIDENTITYATTACK 0.09955749
+    PERSPECTIVEINFLAMMATORY 0.30716985
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 8
   ]
   node
   [
-    id 194
-    name "225"
+    id 225
     label "Y6Yp28Fyjnk"
     step 0
     date "2022-05-17T17:12:51Z"
@@ -5839,24 +5283,21 @@ graph
     likecount 9
     commentcount 2
     duration "PT56S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16458417
+    PERSPECTIVEPROFANITY 0.09438026
+    PERSPECTIVEFLIRTATION 0.35891104
+    PERSPECTIVETHREAT 0.15999034
+    PERSPECTIVETOXICITY 0.19535941
+    PERSPECTIVEINSULT 0.0478237
+    PERSPECTIVEIDENTITYATTACK 0.14022605
+    PERSPECTIVEINFLAMMATORY 0.5378281
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 5
   ]
   node
   [
-    id 195
-    name "226"
+    id 226
     label "lNOn4hpXTAg"
     step 0
     date "2022-05-17T09:47:37Z"
@@ -5869,24 +5310,21 @@ graph
     likecount 909
     commentcount 758
     duration "PT1H5M3S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.026449721
+    PERSPECTIVEPROFANITY 0.039008815
+    PERSPECTIVEFLIRTATION 0.20096725
+    PERSPECTIVETHREAT 0.060974456
+    PERSPECTIVETOXICITY 0.026207292
+    PERSPECTIVEINSULT 0.030801997
+    PERSPECTIVEIDENTITYATTACK 0.07847253
+    PERSPECTIVEINFLAMMATORY 0.08570018
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 4
   ]
   node
   [
-    id 196
-    name "227"
+    id 227
     label "kKVmv8gxT-I"
     step 0
     date "2022-05-17T19:50:36Z"
@@ -5899,24 +5337,21 @@ graph
     likecount 114
     commentcount 29
     duration "PT6M43S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.033802617
+    PERSPECTIVEPROFANITY 0.032211985
+    PERSPECTIVEFLIRTATION 0.23105901
+    PERSPECTIVETHREAT 0.22877842
+    PERSPECTIVETOXICITY 0.009648831
+    PERSPECTIVEINSULT 0.02157161
+    PERSPECTIVEIDENTITYATTACK 0.04796385
+    PERSPECTIVEINFLAMMATORY 0.12088085
     indegree 11
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanRight"
-    leftright "R"
     cluster 1
   ]
   node
   [
-    id 197
-    name "228"
+    id 228
     label "puOzVAGcChU"
     step 0
     date "2022-05-25T20:30:58Z"
@@ -5929,24 +5364,21 @@ graph
     likecount 7
     commentcount 0
     duration "PT8M50S"
+    sentiment -0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.0718489
+    PERSPECTIVEPROFANITY 0.14219512
+    PERSPECTIVEFLIRTATION 0.446317
+    PERSPECTIVETHREAT 0.49932402
+    PERSPECTIVETOXICITY 0.44428605
+    PERSPECTIVEINSULT 0.25151572
+    PERSPECTIVEIDENTITYATTACK 0.2679022
+    PERSPECTIVEINFLAMMATORY 0.41318703
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 9
   ]
   node
   [
-    id 198
-    name "229"
+    id 229
     label "fh4uQeoi5wY"
     step 0
     date "2022-05-18T14:41:54Z"
@@ -5959,24 +5391,21 @@ graph
     likecount 3383
     commentcount 550
     duration "PT17M23S"
+    sentiment 0.2023
+    PERSPECTIVESEXUALLYEXPLICIT 0.14389044
+    PERSPECTIVEPROFANITY 0.24506068
+    PERSPECTIVEFLIRTATION 0.40274462
+    PERSPECTIVETHREAT 0.32005483
+    PERSPECTIVETOXICITY 0.37647265
+    PERSPECTIVEINSULT 0.3102889
+    PERSPECTIVEIDENTITYATTACK 0.5998169
+    PERSPECTIVEINFLAMMATORY 0.87841624
     indegree 9
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiTheist|SocialJustice"
-    leftright "L"
-    cluster 8
+    cluster 5
   ]
   node
   [
-    id 199
-    name "230"
+    id 230
     label "FDebNswITeM"
     step 0
     date "2022-06-16T04:49:10Z"
@@ -5989,24 +5418,21 @@ graph
     likecount 0
     commentcount 1
     duration "PT1M42S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.049770344
+    PERSPECTIVEPROFANITY 0.035134695
+    PERSPECTIVEFLIRTATION 0.2584146
+    PERSPECTIVETHREAT 0.070688106
+    PERSPECTIVETOXICITY 0.018325835
+    PERSPECTIVEINSULT 0.02561866
+    PERSPECTIVEIDENTITYATTACK 0.034059763
+    PERSPECTIVEINFLAMMATORY 0.09028102
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 3
   ]
   node
   [
-    id 200
-    name "231"
+    id 231
     label "WbbheoIq4Qc"
     step 0
     date "2022-05-27T01:02:44Z"
@@ -6019,24 +5445,21 @@ graph
     likecount 106
     commentcount -1
     duration "PT1H53M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.051929973
+    PERSPECTIVEPROFANITY 0.07142633
+    PERSPECTIVEFLIRTATION 0.29724208
+    PERSPECTIVETHREAT 0.35142845
+    PERSPECTIVETOXICITY 0.0068721883
+    PERSPECTIVEINSULT 0.06312643
+    PERSPECTIVEIDENTITYATTACK 0.13756123
+    PERSPECTIVEINFLAMMATORY 0.084669754
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 3
   ]
   node
   [
-    id 201
-    name "232"
+    id 232
     label "9hXDP0hb0uc"
     step 0
     date "2022-05-19T00:00:10Z"
@@ -6049,54 +5472,48 @@ graph
     likecount 236
     commentcount 65
     duration "PT16M8S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.0708908
+    PERSPECTIVEPROFANITY 0.104432695
+    PERSPECTIVEFLIRTATION 0.34424278
+    PERSPECTIVETHREAT 0.583196
+    PERSPECTIVETOXICITY 0.14552918
+    PERSPECTIVEINSULT 0.090546384
+    PERSPECTIVEIDENTITYATTACK 0.16276377
+    PERSPECTIVEINFLAMMATORY 0.25501382
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 5
+    cluster 1
   ]
   node
   [
-    id 202
-    name "233"
-    label "kwt_iOUx1VM"
+    id 234
+    label "E0V5BjLDfVo"
     step 0
-    date "2019-04-02T15:00:05Z"
-    title "Shane Burley: White Identity  Theory"
-    description "This is a segment of episode #181 of Last Born In The Wilderness &#8220;The Violent Myth Of White Erasure: Terror In Christchurch w/ Shane Burley.&#8221; Listen to the full episode: http://bit.ly/LBWburley2&#10;&#10;Read Shane Burley and Alexander Reid Ross&#8217; Op-Ed in The Independent on the mass shooting in Christchurch: https://ind.pn/2uwtF9X&#10;&#10;In this segment with journalist and political researcher Shane Burley, we touch on an Op-Ed Alexander Reid Ross and Shane very recently co-wrote for The Independent, titled &#8216;How to defeat the cretinous &#8216;great replacement&#8217; theory at the heart of the Christchurch mosque attack,&#8217; in which they respond to the recent mass shooting in Christchurch by self-proclaimed white supremacist Brenton Tarrant. Aside from embodying the most vile and insurgent aspects of white supremacist ideological violence, Tarrant live-streamed the mass killing of 50 Muslim worshippers at the Al Noor and Linwood mosques on platforms such as Facebook and YouTube. Along his eagerness to share his violent acts with the world, Tarrant left a &#34;manifesto&#34; of sorts, which clearly defines what his motivations were for the targeted attacks, including the highly dubious claims that the &#34;white race&#34; is being systematically replaced and displaced from their position of dominance in European and European-in-origin societies (United States, Australia, New Zealand, and the like) by &#34;Non-European&#34; races through mass migration and high birthrates.&#160;We place this mass shooting in Christchurch within Shane's robust analysis of the patterns of far right insurgent violence, as demonstrated by the long and growing list of so-called &#8221;lone wolf&#34; attacks on minority groups in predominantly European and European-in-origin societies over the past several decades, and especially in the past five years or less. What is fueling these attacks, and how do we combat these horrible ideologies that embolden individuals to &#34;take matters into their own hands&#34;? We examine possible answers to this question by identifying the root of the anxiety inherent in white identity in the modern era, including the role late-stage capitalism and ecological collapse plays in giving rise to these outbursts of violence around the world.&#10;&#10;Shane Burley is a writer and filmmaker who regularly reports on far-right movements in the US, as well as anti-fascist resistance, workers rights, and class struggle. He is the author of&#160;&#8216;Fascism Today: What It Is and How to End It&#8217;&#160;from AK Press, and his work has appeared in numerous publications, such as Jacobin, Truthout, and Commune Magazine.&#160;&#10;&#10;WEBSITE: https://www.lastborninthewilderness.com&#10;&#10;PATREON: http://bit.ly/LBWPATREON&#10;&#10;STORE: http://bit.ly/LBWmerch&#10;&#10;DONATE:&#10;Paypal: http://bit.ly/LBWPAYPAL&#10;&#10;DROP ME A LINE: (208) 918-2837&#10;&#10;FOLLOW &#38; LISTEN:&#10;SoundCloud: http://bit.ly/LBWSOUNDCLOUD&#10;iTunes: http://bit.ly/LBWITUNES&#10;Google Play: http://bit.ly/LBWGOOGLE&#10;Stitcher: http://bit.ly/LBWSTITCHER&#10;RadioPublic: http://bit.ly/LBWRADIOPUB&#10;YouTube: http://bit.ly/LBWYOUTUBE&#10;&#10;NEWSLETTER: http://bit.ly/LBWnewsletter&#10;&#10;SOCIAL MEDIA:&#10;Facebook: http://bit.ly/LBWFACEBOOK&#10;Twitter: http://bit.ly/LBWTWITTER&#10;Instagram: http://bit.ly/LBWINSTA"
-    channeltitle "Last Born in the Wilderness Podcast"
-    channelid "UCivkgaJx8j2UEQIUy8Ei7Wg"
+    date "2022-07-12T12:00:07Z"
+    title "What You Need to Understand About Automation  Job Loss - Economic Update with Richard Wolff"
+    description "Richard Wolff explains why automation is not to blame for job loss- it's the system of business owners and employers that decide to fire people when it's more profitable for them. &#10;&#10;&#34;Well, machines don't come into the business on their own. Somebody brings the machine. Somebody buys the machine and pays somebody to bring it. Who is it? And the answer is the employer, the capitalist. And the only reason machines are brought in to replace workers is if it's more profitable to have a machine than a worker.&#34; - Richard Wolff&#10;&#10;This is a clip from S12 E26 of Economic Update: The Great Replacement Theory&#10;Watch the full episode on our YouTube channel at https://youtu.be/I3-7fJX7m3M&#10;&#10;You can also listen to this show on our website or as a podcast on your favorite podcast player.&#10;______________________________________________________________________________________&#10;We make it a point to provide the show free of ads. Please consider supporting our work. &#10;&#10;Become an EU patron on Patreon: https://www.patreon.com/economicupdate&#10;Become a monthly donor via our website: https://www.democracyatwork.info/donate&#10;_______________________________________________________________________________________&#10;Check out the NEW 2021 Hardcover edition of &#8220;Understanding Marxism,&#8221; with a new, lengthy introduction by Richard Wolff! &#10;www.democracyatwork.info/books&#10;&#10;&#8220;Marxism always was the critical shadow of capitalism. Their interactions changed them both. Now Marxism is once again stepping into the light as capitalism shakes from its own excesses and confronts decline.&#8221;&#10;&#10;Check out all of d@w&#8217;s books: &#34;The Sickness is the System,&#34; &#34;Understanding Socialism,&#34; by Richard D. Wolff, and &#8220;Stuck Nation&#8221; by Bob Hennelly&#10;http://www.lulu.com/spotlight/democracyatwork&#10;_________________________________________________________________________________________&#10;Want to help us translate and transcribe our videos? &#10;Learn about joining our translation team: http://bit.ly/2J2uIHH&#10;Jump right in: http://bit.ly/2J3bEZR&#10;&#10;Follow us ONLINE: &#10;Patreon: https://www.patreon.com/economicupdate&#10;Websites: http://www.democracyatwork.info/economicupdate&#10;                  http://www.rdwolff.com&#10;DailyMotion: http://www.dailymotion.com/democracyatwrk&#10;Facebook: http://www.facebook.com/RichardDWolff&#10;                   http://www.facebook.com/DemocracyatWrk&#10;Twitter: http://twitter.com/profwolff&#10;              http://twitter.com/democracyatwrk&#10;Instagram: http://instagram.com/democracyatwrk&#10;Subscribe to our podcast: http://economicupdate.libsyn.com&#10;Shop our Store: http://bit.ly/2JkxIfy"
+    channeltitle "Democracy At Work"
+    channelid "UCK-6FjMu9OI8i0Fo6bkW0VA"
     favcount 0
-    viewcount 641
-    likecount 12
-    commentcount 0
-    duration "PT7M43S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    viewcount 3276
+    likecount 309
+    commentcount 89
+    duration "PT2M54S"
+    sentiment -0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.06584827
+    PERSPECTIVEPROFANITY 0.08433931
+    PERSPECTIVEFLIRTATION 0.31519195
+    PERSPECTIVETHREAT 0.23587944
+    PERSPECTIVETOXICITY 0.019575324
+    PERSPECTIVEINSULT 0.054713123
+    PERSPECTIVEIDENTITYATTACK 0.04951644
+    PERSPECTIVEINFLAMMATORY 0.13720542
+    indegree 1
+    cluster 3
   ]
   node
   [
-    id 203
-    name "235"
+    id 235
     label "f9zHymqYYYc"
     step 0
     date "2022-05-17T13:23:05Z"
@@ -6109,24 +5526,21 @@ graph
     likecount 11
     commentcount 0
     duration "PT4M42S"
+    sentiment -0.4588
+    PERSPECTIVESEXUALLYEXPLICIT 0.08984301
+    PERSPECTIVEPROFANITY 0.19373778
+    PERSPECTIVEFLIRTATION 0.35635585
+    PERSPECTIVETHREAT 0.17646073
+    PERSPECTIVETOXICITY 0.42750368
+    PERSPECTIVEINSULT 0.5872347
+    PERSPECTIVEIDENTITYATTACK 0.6062132
+    PERSPECTIVEINFLAMMATORY 0.6296572
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 8
   ]
   node
   [
-    id 204
-    name "236"
+    id 236
     label "-P_ldteuKWc"
     step 0
     date "2022-05-19T18:01:56Z"
@@ -6139,24 +5553,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT2M13S"
+    sentiment 0.7506
+    PERSPECTIVESEXUALLYEXPLICIT 0.028912002
+    PERSPECTIVEPROFANITY 0.021066196
+    PERSPECTIVEFLIRTATION 0.3352129
+    PERSPECTIVETHREAT 0.06457747
+    PERSPECTIVETOXICITY 0.037023053
+    PERSPECTIVEINSULT 0.06509218
+    PERSPECTIVEIDENTITYATTACK 0.07841022
+    PERSPECTIVEINFLAMMATORY 0.19796066
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 205
-    name "237"
+    id 237
     label "9T3nCj_e2s0"
     step 0
     date "2022-05-31T16:27:24Z"
@@ -6169,24 +5580,21 @@ graph
     likecount 12
     commentcount 0
     duration "PT12M45S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.03484775
+    PERSPECTIVEPROFANITY 0.020115213
+    PERSPECTIVEFLIRTATION 0.28666958
+    PERSPECTIVETHREAT 0.07527194
+    PERSPECTIVETOXICITY 0.020130653
+    PERSPECTIVEINSULT 0.025249913
+    PERSPECTIVEIDENTITYATTACK 0.03029369
+    PERSPECTIVEINFLAMMATORY 0.25587147
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 6
   ]
   node
   [
-    id 206
-    name "238"
+    id 238
     label "A5q2nhK66GQ"
     step 0
     date "2022-05-18T15:29:17Z"
@@ -6199,24 +5607,21 @@ graph
     likecount 4
     commentcount 5
     duration "PT1H2M3S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.053172197
+    PERSPECTIVEPROFANITY 0.05400746
+    PERSPECTIVEFLIRTATION 0.33503088
+    PERSPECTIVETHREAT 0.60300237
+    PERSPECTIVETOXICITY 0.16413476
+    PERSPECTIVEINSULT 0.043230712
+    PERSPECTIVEIDENTITYATTACK 0.0819579
+    PERSPECTIVEINFLAMMATORY 0.44853005
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 207
-    name "239"
+    id 239
     label "oKRus5JP0XY"
     step 0
     date "2022-05-26T20:00:21Z"
@@ -6229,54 +5634,48 @@ graph
     likecount 4807
     commentcount 2276
     duration "PT16M30S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.0714456
+    PERSPECTIVEPROFANITY 0.048896715
+    PERSPECTIVEFLIRTATION 0.3005634
+    PERSPECTIVETHREAT 0.10521331
+    PERSPECTIVETOXICITY 0.01631277
+    PERSPECTIVEINSULT 0.03929788
+    PERSPECTIVEIDENTITYATTACK 0.059768446
+    PERSPECTIVEINFLAMMATORY 0.09080381
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW"
-    leftright "R"
-    cluster 2
+    cluster 12
   ]
   node
   [
-    id 208
-    name "240"
-    label "PcWWZIt8Fz4"
+    id 241
+    label "3AFZu5Njts0"
     step 0
-    date "2022-07-08T08:45:17Z"
-    title "Angela Rayner Reacts To Boris Johnsons Wink | Good Morning Britain"
-    description "&#8216;We can&#8217;t stomach another minute of Boris Johnson, he&#8217;s been proven as a liar and a cheat.&#8217; Labour Deputy Leader Angela Rayner tells GMB &#8216;the country knows we need a change of Prime Minister immediately'.  She says Johnson is a national security risk.&#10;Broadcast on 08/07/22&#10;&#10;Stream Good Morning Britain live, every weekday from 6am on the ITV Hub &#128242; http://daytimelink.itv.com/WatchGMBYT&#10;Subscribe now for more! http://bit.ly/1NbomQa&#10;Like, follow and subscribe to Good Morning Britain!&#10;&#10;The Good Morning Britain YouTube channel delivers you the news that you&#8217;re waking up to in the morning. From exclusive interviews with some of the biggest names in politics and showbiz to heartwarming human interest stories and unmissable watch again moments. &#10;&#10;Join Susanna Reid, Ben Shephard, Kate Garraway, Charlotte Hawkins and Sean Fletcher every weekday on ITV from 6am until 9 every weekday!&#10;&#10;ITV Hub: http://daytimelink.itv.com/WatchGMBYT&#10;Website: http://bit.ly/1GsZuha&#10;YouTube: http://bit.ly/1Ecy0g1&#10;Facebook: http://on.fb.me/1HEDRMb&#10;Twitter: http://bit.ly/1xdLqU3&#10;http://www.itv.com&#10;&#10;#GMB"
-    channeltitle "Good Morning Britain"
-    channelid "UCq18eeL7D9Vd8DhjMcLh9QQ"
+    date "2022-05-24T09:10:50Z"
+    title "Which Political Party is More Like The Nazis? + Great Replacement Theory Thoughts"
+    description "To ask questions comment or message me on Instagram: https://www.instagram.com/casey_burns206/ Snapchat: tldnr80&#10;&#10;Facebook Group: https://www.facebook.com/groups/174839040509379/?ref=share&#10;&#10;Books with great info to teach during these times.&#10;&#10;Basic Economics: https://amzn.to/3qdiGh1&#10;&#10;How to Be Black: https://amzn.to/302VpDX&#10;&#10;The Color of Law: https://amzn.to/36XHbWk&#10;&#10;The Lies My Teacher Told Me: https://amzn.to/36Z4hMc&#10;&#10;&#10;The Richest Man in Babylon: https://amzn.to/3d5qiKK&#10;&#10;The Little Common Sense Book of Investing: https://amzn.to/3dXaVFs&#10;&#10;The Intelligent Investor: https://amzn.to/3e3qOtY&#10;&#10;The Little Book That Still Beats the Market: https://www.amazon.com/gp/product/B003VWCQB0/ref=as_li_tl?ie=UTF8&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B003VWCQB0&#38;linkCode=as2&#38;tag=casey05d-20&#38;linkId=a4ffccaa6433fa6112596ba71c936693&#10;&#10;Rich Dad Poor Dad: https://amzn.to/3hpRSWt&#10;&#10;Free Money for signing up below:&#10;&#10;Robinhood: http://join.robinhood.com/caseyb-a3e7867 (free stock)&#10;&#10;M1 Finance: https://m1.finance/x9e1LL6-iqbH&#10;&#10;Airbnb (Host): https://abnb.me/e/d1s8lS6qE3&#10;&#10;Discover It Referral: https://refer.discover.com/s/caseyburns80&#10;&#10;Webull 2 Free Stocks: https://act.webull.com/i/4VvkJJyBpDpq/n66/&#10;&#10;Chime Get $50.00 for a direct deposit of $200.00: https://chime.com/r/caseyburns7&#10;&#10;Capital One SavorOne Referral Link: https://capital.one/3l82bk4&#10;&#10;Get 10 dollars of free Bitcoin by signing up for Coinbase: https://coinbase.com/join/burns%20_zt?src=ios-link&#10;&#10;Ibotta Coupon app, get 5 dollars for signing up: Scan Your Receipt&#8217;s and earn: https://ibotta.onelink.me/iUfE/8cc13c64?friend_code=qmsldki&#10;&#10;HMBradley 3% Savings Account: https://hmb.to/signup?code=GiaRrioV&#10;&#10;Hey! I&#8217;ve been using Cash App to send money and spend using the Cash Card. Try it using my code and we&#8217;ll each get $5. CMFQBGD https://cash.app/app/CMFQBGD&#10;&#10;Chase Freedom Referral Link: https://www.referyourchasecard.com/m/18/6L5/GBH6/1573783112&#10;&#10;Vinovest (Get 3 Months of Free Storage): https://app.vinovest.co?grsf=6bfh6a&#10;&#10;MaxRewards Referral (1 month of free gold): https://maxrewards.app.link/caseyb7627 (Use code caseyb7627)&#10;&#10;Sofi Money ($50 Sign Up Bonus): https://www.sofi.com/invite/money?gcp=921ff11e-ce57-45da-96ed-929df5deaf20&#10;&#10;BlockFi (Up to $250 in BTC for signing up): https://blockfi.com/?ref=23dcc1ef&#10;&#10;Apply for an American Express Card with this link. We can both get rewarded if you're approved! http://refer.amex.us/CASEYB0Y7A?XLINK=MYCP&#10;&#10;0:00 - What is left and right actually?&#10;4:00 - Great Replacement Theory isn&#8217;t a racial thing, it&#8217;s a taxpayer thing&#10;5:50 - The Racist motivations behind the Gray Society Programs&#10;9:05 - Which Party is more like the Nazis?"
+    channeltitle "Casey Burns Investing"
+    channelid "UCvc0Yn5gRrXtpngKSLHPG3w"
     favcount 0
-    viewcount 235609
-    likecount 2240
-    commentcount -1
-    duration "PT8M3S"
+    viewcount 411
+    likecount 46
+    commentcount 51
+    duration "PT24M8S"
+    sentiment 0.8622
+    PERSPECTIVESEXUALLYEXPLICIT 0.069642104
+    PERSPECTIVEPROFANITY 0.1404318
+    PERSPECTIVEFLIRTATION 0.31342882
+    PERSPECTIVETHREAT 0.18193004
+    PERSPECTIVETOXICITY 0.3437808
+    PERSPECTIVEINSULT 0.2616644
+    PERSPECTIVEIDENTITYATTACK 0.48842567
+    PERSPECTIVEINFLAMMATORY 0.8602323
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News"
-    leftright "C"
-    cluster 10
+    cluster 5
   ]
   node
   [
-    id 209
-    name "242"
+    id 242
     label "SktqqJQ9Whg"
     step 0
     date "2022-05-31T12:00:25Z"
@@ -6289,24 +5688,21 @@ graph
     likecount 125
     commentcount 102
     duration "PT14M23S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.053177238
+    PERSPECTIVEPROFANITY 0.045862496
+    PERSPECTIVEFLIRTATION 0.37181985
+    PERSPECTIVETHREAT 0.099440984
+    PERSPECTIVETOXICITY 0.024833864
+    PERSPECTIVEINSULT 0.06726979
+    PERSPECTIVEIDENTITYATTACK 0.12906171
+    PERSPECTIVEINFLAMMATORY 0.52203006
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 210
-    name "243"
+    id 243
     label "ZszQB1Yy0qw"
     step 0
     date "2022-05-17T17:26:13Z"
@@ -6319,54 +5715,48 @@ graph
     likecount 1777
     commentcount 255
     duration "PT1H21M5S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.04057764
+    PERSPECTIVEPROFANITY 0.039151162
+    PERSPECTIVEFLIRTATION 0.32747295
+    PERSPECTIVETHREAT 0.19131844
+    PERSPECTIVETOXICITY 0.049212243
+    PERSPECTIVEINSULT 0.09241298
+    PERSPECTIVEIDENTITYATTACK 0.13528515
+    PERSPECTIVEINFLAMMATORY 0.33489788
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 5
+    cluster 10
   ]
   node
   [
-    id 211
-    name "244"
-    label "B0r41lLOVnM"
+    id 245
+    label "wekjPZPcBns"
     step 0
-    date "2022-05-18T19:00:04Z"
-    title "Tucker RESPONDS To  Buffalo Killer | The Kyle Kulinski Show"
-    description "Support The Show On Patreon!:&#10;https://www.patreon.com/seculartalk&#10;&#10;Subscribe to Krystal Kyle &#38; Friends On Substack!:&#10;https://krystalkyleandfriends.substack.com&#10;&#10;Follow Kyle on Twitter:&#10;http://www.twitter.com/kylekulinski&#10;&#10;&#34;The first time I ever really listened to Kyle Kulinski&#8217;s show was in the back of a cab last summer. The driver had his phone hooked up through the stereo and was pumping out an episode through the car speakers &#8212; loudly, as if looking to convert a captive audience.&#10;&#10;&#8220;Do you like Kyle Kulinski?&#8221;&#10;&#10;The driver, Ahmed, was a recent immigrant and apparently a die-hard fan of Secular Talk, the political talk show that Kulinski broadcasts on YouTube. I told him, yes, in fact. I do like Kulinski, had come across his show several years ago, and, all things considered, he seemed pretty good.&#10;&#10;&#8220;He understands what we&#8217;re up against,&#8221; Ahmed said. &#8220;Like Bernie.&#8221;&#10;&#10;But I was surprised to hear Kulinski&#8217;s name mentioned in the same breath as Bernie Sanders, particularly with such adoration. Because what I did remember about Kulinski&#8217;s show struck me as mostly capital-P &#8220;progressive&#8221; takes on the news &#8212; the left wing of the Netroots crowd more than the democratic socialism Sanders has popularized.&#10;&#10;It&#8217;s an impression that wasn&#8217;t entirely incorrect.&#10;&#10;&#8220;I have no time for philosophical, airy bullshit,&#8221; Kulinski tells me from his home in Westchester, New York. &#8220;I don&#8217;t want to hear about Lenin. I don&#8217;t want to hear about Marx. I just want a super plainspoken, straightforward agenda with a straightforward way of selling it.&#8221;&#10;&#10;With over 800,000 subscribers and nearly 670 million total views on YouTube, selling a progressive agenda is clearly something Kulinski knows how to do &#8212; even Democracy Now, the long-standing flagship of progressive media, cannot match his reach on the platform. Chapo Trap House can certainly boast a wildly devoted fan base (and a not insignificant degree of media influence), but their audience is roughly half the size of Kulinski&#8217;s.&#10;&#10;While Secular Talk might be more likely to be looped in with the progressive networks around Air America and Pacifica alums like Sam Seder than the more resolutely socialist world, Kulinski&#8217;s fiery rhetoric, razor-sharp class instincts, and knack for withering takedowns sets him apart from his peers. Judging by his rhetoric alone, he&#8217;s closer to a Eugene Debs than a Chris Hayes.&#10;&#10;But unlike Hayes, Amy Goodman, or his friend Cenk Uygur of The Young Turks &#8212; who began airing Secular Talk on his web network seven years ago &#8212; the thirty-two-year-old Kulinski is virtually invisible in the mainstream media. Despite his enormous fan base, his show has never once been mentioned in the obligatory trend pieces on &#8220;the Millennial Left&#8221; pumped out by the prestige media. Nor has Kulinski&#8217;s name ever popped up at all in the New York Times, Vox, the New Yorker, New York Magazine, or the Washington Post, despite his leading role in cofounding Justice Democrats, the organization widely credited with sweeping Alexandria Ocasio-Cortez and the rest of &#8220;the Squad&#8221; to power.&#10;&#10;Just last week, his Wikipedia page was deleted. The reason? &#8220;There is very simply no [reliable source] coverage of this person,&#8221; according to one moderator. In new media, he&#8217;s king &#8212; the Sean Hannity of the Berniecrat left. In old media, he&#8217;s nobody.&#10;&#10;I suspect there are a few reasons for that. There is nothing &#8220;cool&#8221; about Kulinski&#8217;s show. (As a friend put it, &#8220;&#8216;Welcome to Secular Talk&#8217; sounds like something you&#8217;d hear on Egyptian radio.&#8221;) His no-nonsense social-democratic politics won&#8217;t get him much cred with the Full Communism crowd. He records his show not in Brooklyn or Los Angeles, but in a studio he built himself in his modest Westchester home. His hair is too groomed and his taste in clothes too preppy to qualify as &#8220;Dirtbag Left.&#8221; Nor has he ever attended an n+1 release party. &#8220;Not only have I not attended one,&#8221; he says, &#8220;I have no idea what that means.&#8221;&#10;&#10;And yet he&#8217;s astonishingly plugged-in for a young man in the suburbs. Wondering how Sanders ended up on the Joe Rogan Experience? Kulinski, a frequent guest on Rogan&#8217;s wildly popular show, introduced them. &#8220;You make the most sense to me,&#8221; Rogan told Kulinski on a recent episode. &#8220;You&#8217;re a normal person.&#8221;&#10;&#10;Much like Sanders himself, Kulinski&#8217;s show has a massive audience that just doesn&#8217;t compute with our media&#8217;s understanding of &#8220;what the kids want&#8221; or even &#8220;what the left-wing kids want.&#8221;&#10;&#10;It&#8217;s probably for the best &#8212; the very woke and very WASP-ish decorum haunting much of the media world is nowhere to be found in Secular Talk. &#8220;Corporate Democrats over-focus on identity as a trick to divert you from the issues that unite us all &#8212; class issues,&#8221; he said on a recent episode. &#8220;That Raytheon decided they don&#8217;t hate gays or trans people &#8212; frankly, I don&#8217;t really give a shit what their take on that is...&#34;&#10;&#10;Read More Here!:&#10;https://jacobinmag.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube&#10;&#10;#KyleKulinski #SecularTalk"
-    channeltitle "Secular Talk"
-    channelid "UCldfgbzNILYZA4dmDt4Cd6A"
+    date "2022-06-22T11:58:17Z"
+    title "The deadly  conspiracy theory has gone viral"
+    description "The white supremacist &#34;Great Replacement&#34; conspiracy theory inspires terrorism and mass murder.  Mainstream politicians know this, and yet they continue to spread these lies. And, social media companies let them. We must stop the spread of the Great Replacement."
+    channeltitle "Global Project Against Hate and Extremism"
+    channelid "UCmbRfXgz3f8t2Q6XWhWgygA"
     favcount 0
-    viewcount 68567
-    likecount 3659
-    commentcount 1225
-    duration "PT14M39S"
+    viewcount 131
+    likecount 0
+    commentcount 0
+    duration "PT2M33S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.07381753
+    PERSPECTIVEPROFANITY 0.081974745
+    PERSPECTIVEFLIRTATION 0.31260628
+    PERSPECTIVETHREAT 0.2594514
+    PERSPECTIVETOXICITY 0.19862764
+    PERSPECTIVEINSULT 0.10338081
+    PERSPECTIVEIDENTITYATTACK 0.09356687
+    PERSPECTIVEINFLAMMATORY 0.04183455
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiTheist|PartisanLeft"
-    leftright "L"
     cluster 4
   ]
   node
   [
-    id 212
-    name "246"
+    id 246
     label "U5pQQbu0hc4"
     step 0
     date "2022-05-18T22:54:04Z"
@@ -6379,24 +5769,21 @@ graph
     likecount 66
     commentcount 30
     duration "PT4M1S"
+    sentiment -0.7184
+    PERSPECTIVESEXUALLYEXPLICIT 0.1456156
+    PERSPECTIVEPROFANITY 0.3151211
+    PERSPECTIVEFLIRTATION 0.43154675
+    PERSPECTIVETHREAT 0.26095203
+    PERSPECTIVETOXICITY 0.5026305
+    PERSPECTIVEINSULT 0.6591964
+    PERSPECTIVEIDENTITYATTACK 0.8008965
+    PERSPECTIVEINFLAMMATORY 0.64978987
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 213
-    name "247"
+    id 247
     label "9kGtJPouAOg"
     step 0
     date "2021-09-23T16:57:56Z"
@@ -6409,54 +5796,48 @@ graph
     likecount 24
     commentcount 18
     duration "PT2M13S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.073566854
+    PERSPECTIVEPROFANITY 0.14321294
+    PERSPECTIVEFLIRTATION 0.35301986
+    PERSPECTIVETHREAT 0.344737
+    PERSPECTIVETOXICITY 0.2712817
+    PERSPECTIVEINSULT 0.22539528
+    PERSPECTIVEIDENTITYATTACK 0.58523935
+    PERSPECTIVEINFLAMMATORY 0.13219646
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
     cluster 8
   ]
   node
   [
-    id 214
-    name "248"
-    label "HQuDXsSxgl4"
+    id 249
+    label "19eTJu2koRI"
     step 0
-    date "2022-07-07T06:59:43Z"
-    title "Maria Ressa, Nobel Peace Prize 2021: Nobel Prize Conversations"
-    description "&#34;We must get up, we must work like maniacs &#8211; because time is running out.&#34; Maria Ressa speaks passionately as she discusses how authoritarians exploit social media to unravel democracy, what needs to be done to fight this and when she thinks the damage might become irreversible.&#10;&#10;2021 Nobel Peace Prize laureate Maria Ressa is one of the founders of @Rappler an independent website for investigative journalism in the Philippines that is facing a threat of shutdown by the authorities in that country. In 2016 Rappler sounded the alarm on the social media revolution &#8211; two years later Facebook admitted responsibility for letting their platform be used as a weapon in the genocide of the Rohingyas of Myanmar.&#10;&#10;Your host is Adam Smith, chief scientific officer at Nobel Prize Outreach. &#10;&#10;Through their lives and work, failures and successes &#8211; get to know the individuals who have been awarded the Nobel Prize on the Nobel Prize Conversations podcast. Find it on Acast, or wherever you listen to pods. https://shows.acast.com/nobelprizeconversations"
-    channeltitle "Nobel Prize"
-    channelid "UC-V6odR7HzLCuqjYeowPjLA"
+    date "2022-05-24T12:19:37Z"
+    title "Whats New with Gas Prices and The Great Replacement Theory"
+    description "Increasing gas prices, The Great Replacement Theory, Jessie Williams  convo with The Fellas"
+    channeltitle "Just Our Thoughts"
+    channelid "UCsqv00LFAT3Avp9RdWJPv0g"
     favcount 0
-    viewcount 1338
-    likecount 66
+    viewcount 15
+    likecount 2
     commentcount 0
-    duration "PT39M15S"
+    duration "PT1H2M56S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.050914183
+    PERSPECTIVEPROFANITY 0.08539032
+    PERSPECTIVEFLIRTATION 0.36181068
+    PERSPECTIVETHREAT 0.65270555
+    PERSPECTIVETOXICITY 0.057331093
+    PERSPECTIVEINSULT 0.07994079
+    PERSPECTIVEIDENTITYATTACK 0.17865643
+    PERSPECTIVEINFLAMMATORY 0.116712056
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 215
-    name "250"
+    id 250
     label "EujGQOrGFi0"
     step 0
     date "2022-06-28T06:45:22Z"
@@ -6469,54 +5850,48 @@ graph
     likecount 3
     commentcount 0
     duration "PT1M"
+    sentiment 0.4767
+    PERSPECTIVESEXUALLYEXPLICIT 0.05258234
+    PERSPECTIVEPROFANITY 0.03462284
+    PERSPECTIVEFLIRTATION 0.24975464
+    PERSPECTIVETHREAT 0.0646174
+    PERSPECTIVETOXICITY 0.12888865
+    PERSPECTIVEINSULT 0.028661015
+    PERSPECTIVEIDENTITYATTACK 0.030965375
+    PERSPECTIVEINFLAMMATORY 0.1955579
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 5
   ]
   node
   [
-    id 216
-    name "251"
-    label "05dqEj9Y3cA"
+    id 253
+    label "IWDlbU9cmiw"
     step 0
-    date "2022-07-06T21:26:02Z"
-    title "Lizardmen Gor-Rok Livestream Campaign Part 4"
-    description "Total War: Warhammer 2. Playing as Gor-Rok on Legendary difficulty on Mortal Empires. Goal: No rants. &#10;&#10;Check out Instant Gaming for some great deals on Total War products. https://www.instant-gaming.com/igr/legendoftotalwar/ Remember to check if the key is region locked before purchasing!&#10;&#10;Here is a link to the official discord for this channel: https://discord.gg/6ustjZ3&#10;&#10;Chat Rules:&#10;          [General]&#10;               - Please just stay on topic. Just stick to whatever game we're playing&#10;               - Please don't be overly negative or toxic. It brings everyone's mood down.&#10;          [Superchats]&#10;              - Every Super Chat is appreciated greatly&#10;              - Please do not try to get me to say anything obscene&#10;              - Please stay on topic and do not ask anything too personal&#10;          [Time out offenses]&#10;             - Spamming&#10;             - Self promotion (if you want a shout out do something worthy of one)&#10;             - Donation Shaming. If someone donates do not insult them&#10;          [Ban Offenses]&#10;            - Starting arguments about non related topics (religion, politics, etc)&#10;            - Insulting me or my moderators - Keep it civil please&#10;            - 3 time outs&#10;&#10;If you feel you have been unfairly banned or that you feel you've time-served then feel free to email me at totalwarlegend@gmail.com and put in the message title &#34;Unban Request&#34;&#10;&#10;Please note this is an unofficial video and is not endorsed by SEGA or the Creative Assembly in any way. For more information on Total War, please visit http://www.totalwar.com&#10;&#10;Support the stream: https://streamlabs.com/LegendofTotalWar1"
-    channeltitle "LegendofTotalWar"
-    channelid "UCwgoZXczzKRm4eurUNL9srg"
+    date "2022-05-27T14:00:09Z"
+    title "The Truth About The Great Replacement"
+    description "1:08 Internet Pundits&#10;6:33 Immigration Concerns&#10;9:28 Renaud Camus&#10;14:51 Replacement Migration&#10;20:04 Tradition &#38; Identity&#10;&#10;Socials:&#10;Website - https://www.counterpoints.gg&#10;&#10;Reddit - https://www.reddit.com/r/Counterpoints/&#10;&#10;Twitter - https://twitter.com/_counterpoints_&#10;&#10;Twitch - https://www.twitch.tv/counterpoints&#10;&#10;&#10;Support &#38; Donations:&#10;Patreon - https://www.patreon.com/counterpoints&#10;&#10;Donations - https://streamelements.com/counterpoi..."
+    channeltitle "Counterpoints"
+    channelid "UC9bnvsu0ZYzNFijp6mWLUjQ"
     favcount 0
-    viewcount 39460
-    likecount 1158
-    commentcount 16
-    duration "PT6H52M43S"
+    viewcount 3864
+    likecount 299
+    commentcount 252
+    duration "PT33M3S"
+    sentiment 0.7506
+    PERSPECTIVESEXUALLYEXPLICIT 0.089962184
+    PERSPECTIVEPROFANITY 0.045848604
+    PERSPECTIVEFLIRTATION 0.3115296
+    PERSPECTIVETHREAT 0.08767723
+    PERSPECTIVETOXICITY 0.017423427
+    PERSPECTIVEINSULT 0.027246282
+    PERSPECTIVEIDENTITYATTACK 0.050460912
+    PERSPECTIVEINFLAMMATORY 0.102220625
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 217
-    name "254"
+    id 254
     label "9OUmaLCZaZ0"
     step 0
     date "2022-05-24T01:30:01Z"
@@ -6529,84 +5904,75 @@ graph
     likecount 3
     commentcount 27
     duration "PT2M13S"
+    sentiment -0.6124
+    PERSPECTIVESEXUALLYEXPLICIT 0.04495591
+    PERSPECTIVEPROFANITY 0.1467725
+    PERSPECTIVEFLIRTATION 0.24431206
+    PERSPECTIVETHREAT 0.1273284
+    PERSPECTIVETOXICITY 0.15859914
+    PERSPECTIVEINSULT 0.45859733
+    PERSPECTIVEIDENTITYATTACK 0.5409976
+    PERSPECTIVEINFLAMMATORY 0.75058323
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 9
   ]
   node
   [
-    id 218
-    name "255"
-    label "gg-GyGZeU24"
+    id 256
+    label "yRt5Xp8OMmA"
     step 0
-    date "2022-06-28T06:44:19Z"
-    title "Great Replacement 2 (Jewish Victims)"
-    description "The Great Replacement (French: Grand Remplacement), also known as replacement theory or great replacement theory, is a white nationalist far-right conspiracy theory disseminated by French author Renaud Camus. The original theory states that, with the complicity or cooperation of &#34;replacist&#34; elites, white European populations are being demographically and culturally replaced with non-white peoples&#8212;especially from Muslim-majority countries&#8212;through mass migration, demographic growth and a drop in the birth rate of white Europeans. Since then, similar claims have been advanced in other national contexts, notably in the United States. Mainstream scholars have dismissed these claims as rooted in a misunderstanding of demographic statistics and premised upon an unscientific, racist worldview. According to the Encyclop&#230;dia Britannica, the Great Replacement &#34;has been widely ridiculed for its blatant absurdity"
-    channeltitle "Lo-Fi Enjoy The Music"
-    channelid "UCCy1lYl6dYNqKBEzjshDD-g"
+    date "2022-05-30T18:14:32Z"
+    title "Great Replacement Theory - Whered it Come From and Why Are Far-Right Extremists Citing it?"
+    description "Recent attacks by far-right extremists such as the racially motivated attack on an East Side neighborhood in Buffalo has introduced the so-called &#34;Great Replacement Theory&#34; or &#34;Grand Remplacement&#34; into public discourse. In this audiogram, DNC Cybersecurity Managing Director, John Daniele explains the little known origins of these distorted ideas and how they are influencing mainstream political narratives today.&#10;&#10;Many Ideologically Motivated Violent Extremism (IMVE) analysts have described these ideas as an &#34;anti-Semitic conspiracy theory&#34;. This framing is inaccurate, as these ideas have in many ways crept into mainstream political discourse and its adherents span from center to center-right. &#10;&#10;The narrative of the &#34;cultural, ethical or demographic displacement&#34; of a dominant majority, has been leveraged by populist political candidates across North America and Europe who have pursued nativist policies on immigration as a remedy. In Canada, fears of such displacement have resulted in popular calls for instituting a &#34;values test&#34; for economic immigrants.&#10;&#10;#greatreplacement #grandremplacement #maligninfluence #narrativewarfare #onlineextremism #extremism #farright #CVE #IMVE #violentextremism #counterterrorism #nouvelledroit #newright #terrorism #influenceoperations #disinformation"
+    channeltitle "DNC Cybersecurity"
+    channelid "UC4As6XauFTxAyyScXymEp_Q"
     favcount 0
-    viewcount 54
-    likecount 3
+    viewcount 4
+    likecount 1
     commentcount 0
-    duration "PT44S"
+    duration "PT1M27S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.12218196
+    PERSPECTIVEPROFANITY 0.14355965
+    PERSPECTIVEFLIRTATION 0.49779993
+    PERSPECTIVETHREAT 0.3226068
+    PERSPECTIVETOXICITY 0.16151784
+    PERSPECTIVEINSULT 0.2111312
+    PERSPECTIVEIDENTITYATTACK 0.21675715
+    PERSPECTIVEINFLAMMATORY 0.28600547
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    cluster 4
+  ]
+  node
+  [
+    id 259
+    label "0c7AzetunMA"
+    step 0
+    date "2021-04-15T21:51:50Z"
+    title "Tucker Carlson doubles down on immigration "
+    description "@Daily Kos"
+    channeltitle "Daily Kos"
+    channelid "UC1Z1i5ClfrJhyu9z1hlmDkQ"
+    favcount 0
+    viewcount 1495
+    likecount 30
+    commentcount 6
+    duration "PT9M51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.075607695
+    PERSPECTIVEPROFANITY 0.10050894
+    PERSPECTIVEFLIRTATION 0.3696077
+    PERSPECTIVETHREAT 0.28783593
+    PERSPECTIVETOXICITY 0.10300289
+    PERSPECTIVEINSULT 0.11300769
+    PERSPECTIVEIDENTITYATTACK 0.38018438
+    PERSPECTIVEINFLAMMATORY 0.087586306
+    indegree 0
     cluster 8
   ]
   node
   [
-    id 219
-    name "257"
-    label "nsqauodcM5Q"
-    step 0
-    date "2022-07-12T21:07:24Z"
-    title "Bucs X-Factor Players In 2022"
-    description "The Pewter Report squad discusses which players on the Bucs will be the X-factors on offense and defense this season. They will talk about players such as Donovan Smith, Shaq Barrett and Joe Tryon-Shoyinka as some of the people that could decide whether the Bucs get back to the Super Bowl. &#13;&#10;&#13;&#10;#Bucs #DonovanSmith #ShaqBarrett &#13;&#10;&#13;&#10;FAST Protein Bars Variety Pack: https://www.amazon.com/gp/product/B0949S5TRR?pf_rd_r=Z9T3A65RMESTT5YKS5KP&#38;pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&#38;pd_rd_r=feb6245f-9ee2-46d6-8d0c-3667944f6a0c&#38;pd_rd_w=4QotI&#38;pd_rd_wg=VfjC6&#38;ref_=pd_gw_unk&#38;th=1&#13;&#10;&#13;&#10;Underdog Fantasy: https://underdogfantasy.com/login?next=%2Flobby%3F_branch_match_id%3D868894955799217895&#38;utm_source=partner&#38;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL8hJrNQrzUtJLUrJT09LzCtJLK7US87P1S%2FQLUgtL0kt0i1KLcgvKgEAQCi6NTAAAAA%3D&#13;&#10;&#13;&#10;Energized by Celsius.com #JoeTryonShoyinka #CyrilGraysonJr #ToddBowles #ByronLeftwich #TampaBay"
-    channeltitle "Pewter Report"
-    channelid "UCwqeh84GMm9Hf7365M9lRYw"
-    favcount 0
-    viewcount 1324
-    likecount 87
-    commentcount 7
-    duration "PT1H1M19S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 220
-    name "260"
+    id 260
     label "1ddAK4sM_Eo"
     step 0
     date "2022-05-15T12:06:52Z"
@@ -6619,114 +5985,102 @@ graph
     likecount 1
     commentcount 0
     duration "PT11S"
+    sentiment 0.4404
+    PERSPECTIVESEXUALLYEXPLICIT 0.056719046
+    PERSPECTIVEPROFANITY 0.112484656
+    PERSPECTIVEFLIRTATION 0.38849252
+    PERSPECTIVETHREAT 0.811132
+    PERSPECTIVETOXICITY 0.23277332
+    PERSPECTIVEINSULT 0.12512723
+    PERSPECTIVEIDENTITYATTACK 0.24196947
+    PERSPECTIVEINFLAMMATORY 0.026509238
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 221
-    name "261"
-    label "cHrqjoykzhc"
+    id 262
+    label "EVJ4eUGjNJ8"
     step 0
-    date "2022-05-16T19:42:37Z"
-    title "Social Justice delusion : racial violence and the great replacement theory"
-    description "Critical race theory, racial violence, Tucker Carlson, white nationalism, the great replacement theory, conspiracy, #DeconstructingSocialJustice"
-    channeltitle "Gerhardt Blume"
-    channelid "UCDvMr01R-mVImO9gVz0dNYw"
+    date "2022-05-18T10:52:47Z"
+    title ""
+    description "Big Dawg079 Talks about the Boston mass shooting victims, the shooter and the &#34;Great Replacement&#34; theory that fueled this senseless act of violence on a community. He also talks about, &#34;Rich Niggas doing Broke Nigga shit&#34; as well as the baby formula shortage and what he thinks the solution is.&#10;&#10;#bigdawg079allthingsconsidered #bigdawg079 #hiphopmediabartv #entertainment #news"
+    channeltitle "Big Dawg079 (Official Channel)"
+    channelid "UCsnFe8OUKWIz6lB3Re_byew"
     favcount 0
-    viewcount 61
-    likecount 5
+    viewcount 2276
+    likecount 298
     commentcount 0
-    duration "PT11M29S"
+    duration "PT21M34S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.24034084
+    PERSPECTIVEPROFANITY 0.20660296
+    PERSPECTIVEFLIRTATION 0.6286379
+    PERSPECTIVETHREAT 0.21243042
+    PERSPECTIVETOXICITY 0.1510105
+    PERSPECTIVEINSULT 0.27992237
+    PERSPECTIVEIDENTITYATTACK 0.17220277
+    PERSPECTIVEINFLAMMATORY 0.11226929
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 222
-    name "263"
-    label "HsuqzV1hCIc"
+    id 264
+    label "IKdUEG3Uc9I"
     step 0
-    date "2022-05-21T17:48:34Z"
-    title "STEVE CHAPMAN: T BE..."
-    description "Steve Chapman: &#8216;Great replacement&#8217; theory is pure idiocy. America wouldn&#8217;t be America without immigrants.&#13;&#10;&#13;&#10;For those who believe in the &#8220;great replacement&#8221; theory. I can affirm: Yes. we Americans today are going to be replaced with people very different from us. They are called descendants. and they will turn out in such ways that we would barely recognize them. My Confederate forebears would be displeased to find that I would sooner burn a Confederate flag than fly one &#8212; and that I live in the Land of. yes. Lincoln. My agrarian ancestors would lament that I couldn&#8217;t farm my way out of an NPR tote bag. Present day white supremacists and others who believe there is a master plan to change America. of course. are not focused on how little their grandchildren and great grandchildren will resemble them. They are obsessed with racial identity and the prospect that white people will see their dominance erode. One adherent is the man accused of targeting and killing 10 Black people at a supermarket in Buffalo. New York. But the gravity of his alleged crime should not obscure the howling idiocy of the theory that inspired him. Demographic shifts are hardly at odds with our national history and character. In fact. nothing could be more quintessentially American. The settlers who first came to these shores to displace the original inhabitants were overwhelmingly from the British Isles. but it didn&#8217;t take long for migrants from elsewhere to show up uninvited. There was a time when other Europeans were seen as alien. indigestible and not white. Benjamin Franklin objected that &#8220;the Spaniards. Italians. French. Russians and Swedes. are generally of what we call a swarthy complexion; as are the Germans also. the Saxons only excepted.&#8221; Today. their descendants are deemed part of the same race &#8212; because race is a social concept. not a biological fact. Later. it was widely feared that Roman Catholics could never be loyal Americans. Today. prominent Catholics include the president of the United States. the speaker of the House and six members of the Supreme Court. The great replacement theory posits that evil elites are bringing in dark complexioned immigrants to take power away from white people. But the vast majority of African Americans didn&#8217;t immigrate in the last few decades; they arrived centuries ago against their will. Even if the fantastical plot were real. African Americans wouldn&#8217;t be part of it. Why white people should worry about the foreigners who come here is a mystery. Without the many hued immigrants who have streamed in over the past two centuries. America would be far less populous. innovative and rich. Immigration is a big reason that the U.S. has long been one of the fastest growing nations in the industrialized world. Contrast it with Japan. which is largely closed to immigration and whose population has steadily shrunk over the past decade. Innovation? Since 2000. 39% of the Americans awarded Nobel Prizes in chemistry. medicine and physics have been immigrants. Foreign born inventors are overrepresented among new patent holders. Asian Americans. who are just 7% of the population. make up 17% of all practicing physicians. Immigrants are crucial to a host of vital industries. from computers to meatpacking to long term care. White supremacists fear that immigration will make the country unrecognizable. But the America they know would not exist if not for immigration. Our music. movies. cuisine and literature have been shaped in countless ways by the customs and creativity of foreign born people and their offspring. America without immigrants would be the equivalent of Colorado without mountains. Republicans fear that immigration will work to their political disadvantage. But demography is not destiny. The 1965 Immigration and Nationality Act overhauled our immigration system to admit far more people from Africa. Asia and Latin America. That led to a demographic transformation &#8212; which happened to coincide with the Republican Party&#8217;s ascendance to power in the 1980s and &#8217;90s. Back then. Asian Americans...&#13;&#10;&#13;&#10;&#13;&#10;#News"
-    channeltitle "Today News"
-    channelid "UC_IhNdUopvN_6lN4--TEyxw"
+    date "2022-05-30T19:37:03Z"
+    title "Steven Crowders Awful Great Replacement Take"
+    description "Patreon: https://www.patreon.com/lonerbox&#10;Paypal: https://paypal.me/lonerbox&#10;Twitter: https://twitter.com/BoxLoner&#10;Twitch: https://www.twitch.tv/lonerbox&#8203;&#10;Discord: https://discord.gg/Y5hFCzPqGH"
+    channeltitle "LonerBox Live"
+    channelid "UCPhY6C7nQd43YJEmJOqxm9g"
     favcount 0
-    viewcount 2
-    likecount 0
-    commentcount 0
-    duration "PT5M17S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    viewcount 16168
+    likecount 587
+    commentcount 246
+    duration "PT56M9S"
+    sentiment 0.2732
+    PERSPECTIVESEXUALLYEXPLICIT 0.1802658
+    PERSPECTIVEPROFANITY 0.25326928
+    PERSPECTIVEFLIRTATION 0.48035857
+    PERSPECTIVETHREAT 0.4579347
+    PERSPECTIVETOXICITY 0.39206567
+    PERSPECTIVEINSULT 0.37296695
+    PERSPECTIVEIDENTITYATTACK 0.38929752
+    PERSPECTIVEINFLAMMATORY 0.19770168
+    indegree 1
+    cluster 12
   ]
   node
   [
-    id 223
-    name "265"
-    label "SFybPOH0w4U"
+    id 268
+    label "yrQAvn_HfgA"
     step 0
-    date "2022-07-05T23:00:14Z"
-    title "The Fives recent declaration regarding the border"
-    description "&#8216;The Five&#8217; discuss the ongoing border crisis as Texas counties declare an &#8216;invasion.&#8217;&#10;&#10;Subscribe to Fox News! https://bit.ly/2vBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/longform-the-five/&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/&#10;The Story with Martha MacCallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/&#10;Hannity: http://video.foxnews.com/playlist/longform-hannity/&#10;The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/&#10;Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
-    channeltitle "Fox News"
-    channelid "UCXIJgqnII2ZOINSWNOGFThA"
+    date "2021-09-29T21:30:41Z"
+    title "031: The Great Replacement is NOT About Race"
+    description "&#34;What's the point of having `fuck you` money, if you never say `fuck you`?&#34; -- Bobby Axelrod, Billions"
+    channeltitle "Dark Jaxel"
+    channelid "UCx1oOyDtVR5rn1h0_7cDvyw"
     favcount 0
-    viewcount 445324
-    likecount 14730
-    commentcount 3035
-    duration "PT7M30S"
+    viewcount 33
+    likecount 3
+    commentcount 2
+    duration "PT10M28S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.084103316
+    PERSPECTIVEPROFANITY 0.0834158
+    PERSPECTIVEFLIRTATION 0.2634439
+    PERSPECTIVETHREAT 0.13802944
+    PERSPECTIVETOXICITY 0.094410956
+    PERSPECTIVEINSULT 0.09418316
+    PERSPECTIVEIDENTITYATTACK 0.25736585
+    PERSPECTIVEINFLAMMATORY 0.18426266
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanRight"
-    leftright "R"
-    cluster 10
+    cluster 4
   ]
   node
   [
-    id 224
-    name "269"
+    id 269
     label "dVqVkIOugac"
     step 0
     date "2022-05-27T17:50:28Z"
@@ -6739,24 +6093,21 @@ graph
     likecount 104
     commentcount 55
     duration "PT2M19S"
+    sentiment 0.2023
+    PERSPECTIVESEXUALLYEXPLICIT 0.09184005
+    PERSPECTIVEPROFANITY 0.052350193
+    PERSPECTIVEFLIRTATION 0.4199356
+    PERSPECTIVETHREAT 0.068774864
+    PERSPECTIVETOXICITY 0.07011723
+    PERSPECTIVEINSULT 0.07572822
+    PERSPECTIVEIDENTITYATTACK 0.042577818
+    PERSPECTIVEINFLAMMATORY 0.16487668
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "WhiteIdentitarian"
-    leftright "R"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 225
-    name "270"
+    id 270
     label "SXG9tf-Rz1k"
     step 0
     date "2022-05-18T20:19:29Z"
@@ -6769,84 +6120,75 @@ graph
     likecount -1
     commentcount -1
     duration "PT1M42S"
+    sentiment -0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.15341134
+    PERSPECTIVEPROFANITY 0.22306485
+    PERSPECTIVEFLIRTATION 0.5746273
+    PERSPECTIVETHREAT 0.26642892
+    PERSPECTIVETOXICITY 0.3897707
+    PERSPECTIVEINSULT 0.5663498
+    PERSPECTIVEIDENTITYATTACK 0.6350989
+    PERSPECTIVEINFLAMMATORY 0.18805294
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 1
   ]
   node
   [
-    id 226
-    name "271"
-    label "Pjzb5uT-5bs"
+    id 272
+    label "WKUKk8K4IiU"
     step 0
-    date "2022-06-04T18:00:18Z"
-    title "Great Replacement Theory vs Critical Race Theory"
-    description "Every time a mass shooting grasps our attention, those who caused it blame the libs, and the libs blame guns. Right wing propaganda consistently sensationalizes nothing-burgers in an effort to distract its audience from their typical daily messaging designed to incite violence against minorities, and the liberals keep plugging away at their typical agenda of nothing, nothing, and nothing. Shootings aren't shocking anymore, but only here.&#10;&#10;#crt #replacement #republican #gun #nra"
-    channeltitle "Grumpy Penguine"
-    channelid "UC8AeyeIdkS9j_r_GWhAxzYQ"
+    date "2022-05-22T14:26:19Z"
+    title "Curb Your  Great Replacement Theory"
+    description "Left Wing activists, politicians and media personalities would have you believe that the &#34;Great Replacement Theory&#34;, or at least some varied versions of it, are being propagated primarily by Tucker Carlson and the right wing in the U.S. It doesn't take any great effort to find out this is not true"
+    channeltitle "Lost but Found"
+    channelid "UCYacBqAE-AHGElu9JHq9kfw"
     favcount 0
-    viewcount 9
-    likecount 0
-    commentcount 0
-    duration "PT5M10S"
+    viewcount 29
+    likecount 9
+    commentcount 2
+    duration "PT2M45S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.13138784
+    PERSPECTIVEPROFANITY 0.3098533
+    PERSPECTIVEFLIRTATION 0.37754506
+    PERSPECTIVETHREAT 0.4573117
+    PERSPECTIVETOXICITY 0.18746567
+    PERSPECTIVEINSULT 0.3283682
+    PERSPECTIVEIDENTITYATTACK 0.1539954
+    PERSPECTIVEINFLAMMATORY 0.0060062455
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 227
-    name "273"
-    label "U57AADkzGN8"
+    id 274
+    label "EvZvdMwIVnQ"
     step 0
-    date "2022-07-11T15:16:18Z"
-    title "Digitalization and sustainability"
-    description "A major reason why companies should increase their focus on sustainability is to achieve future competitiveness, yet only about one third of leading organizations have adopted digitalization solutions that enable improved decision-making processes to help them achieve sustainability goals. This webinar will examine why embracing technology, digital solutions and standardization as part of a well-planned and executed sustainability strategy at all levels will lead to better results."
-    channeltitle "BSI Group"
-    channelid "UCKoZP4QGZnccJpjXeXvpkgQ"
+    date "2022-05-22T04:20:22Z"
+    title "Great Replacement Theory"
+    description "My take on the constant dog whistling of the &#34;po white trash&#34;, by the Eugenicists. I feel for the wonderful humans who have been pumped full of religion, since birth, and are filled with fear, and the inability to think logically. We are one race, human.  Check DNA science, people. Thanks. Peace, always."
+    channeltitle "4wEBand"
+    channelid "UCBQIM8hS_AvkPhk3V_OtA1Q"
     favcount 0
-    viewcount 37
+    viewcount 14
     likecount 1
     commentcount 0
-    duration "PT1H32M55S"
+    duration "PT4M59S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.049770344
+    PERSPECTIVEPROFANITY 0.035134695
+    PERSPECTIVEFLIRTATION 0.2584146
+    PERSPECTIVETHREAT 0.070688106
+    PERSPECTIVETOXICITY 0.018325835
+    PERSPECTIVEINSULT 0.02561866
+    PERSPECTIVEIDENTITYATTACK 0.034059763
+    PERSPECTIVEINFLAMMATORY 0.09028102
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 5
   ]
   node
   [
-    id 228
-    name "275"
+    id 275
     label "Vra_dozRDD8"
     step 0
     date "2022-05-25T11:49:39Z"
@@ -6859,114 +6201,102 @@ graph
     likecount 0
     commentcount 0
     duration "PT1H42M59S"
+    sentiment -0.2263
+    PERSPECTIVESEXUALLYEXPLICIT 0.1335205
+    PERSPECTIVEPROFANITY 0.07942673
+    PERSPECTIVEFLIRTATION 0.5500129
+    PERSPECTIVETHREAT 0.24462198
+    PERSPECTIVETOXICITY 0.042001735
+    PERSPECTIVEINSULT 0.11329397
+    PERSPECTIVEIDENTITYATTACK 0.11033856
+    PERSPECTIVEINFLAMMATORY 0.26872584
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 7
   ]
   node
   [
-    id 229
-    name "276"
-    label "OaD4uR_7Vzs"
+    id 278
+    label "akkHfj0enPM"
     step 0
-    date "2022-07-13T21:00:10Z"
-    title "Nats Birthday - Class 03 - Gelatin"
-    description "Third class from Nat's Birthday event"
-    channeltitle "Nat&#225;lia Mendon&#231;a"
-    channelid "UCHwXJjk7GfbpLFmaIxS1OCA"
+    date "2022-05-28T15:59:47Z"
+    title "A STUNNING Number of Trump Voters Believe in  Conspiracy Theory"
+    description "Get early access to videos by supporting us on Patreon, YouTube or PayPal! Sign up here: http://www.patreon.com/humanistreport or here: http://www.humanistreport.com/support.html or here: https://www.youtube.com/channel/UC7Q4rvzJDbHeBHYk5rnvZeA/join&#10;&#10;Read More About This Story Here:&#10;https://thehill.com/news/state-watch/3499877-6-in-10-trump-voters-agree-with-core-tenet-of-great-replacement-theory-survey/&#10;&#10;**************&#10;Visit Our Website: http://www.humanistreport.com/&#10;Like Us on Facebook: http://www.facebook.com/humanistreport&#10;Follow Us on TikTok: https://www.tiktok.com/@humanistreport&#10;Follow Us on Twitter: http://www.twitter.com/HumanistReport&#10;Follow Mike on Instagram: https://www.instagram.com/mike.figueredo/&#10;Follow Mike on Twitch: https://www.twitch.tv/humanistreport&#10;Download the Opt-Out App: https://www.optout.news/&#10;**************&#10;The Humanist Report (THR) is a progressive political podcast that discusses and analyzes current news events and pressing political issues. Our analyses are guided by humanism and political progressivism. Each news story we cover is supplemented with thought-provoking, fact-based commentary that aims for the highest level of objectivity.&#10;&#10;#HumanistReport #THR #MikeFigueredo"
+    channeltitle "The Humanist Report"
+    channelid "UC7Q4rvzJDbHeBHYk5rnvZeA"
     favcount 0
-    viewcount 46
-    likecount 14
-    commentcount 0
-    duration "PT37M50S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 12588
+    likecount 1458
+    commentcount 599
+    duration "PT9M12S"
+    sentiment 0.5574
+    PERSPECTIVESEXUALLYEXPLICIT 0.028467584
+    PERSPECTIVEPROFANITY 0.024822421
+    PERSPECTIVEFLIRTATION 0.2824062
+    PERSPECTIVETHREAT 0.06587092
+    PERSPECTIVETOXICITY 0.06492286
+    PERSPECTIVEINSULT 0.06945747
+    PERSPECTIVEIDENTITYATTACK 0.055966225
+    PERSPECTIVEINFLAMMATORY 0.27296922
+    indegree 4
     cluster 5
   ]
   node
   [
-    id 230
-    name "279"
-    label "9e-wgJ9oQjM"
+    id 280
+    label "whALvPyj3VE"
     step 0
-    date "2022-07-08T18:01:41Z"
-    title "Building Community to Confront Extremism: Matthias Lehmann, Confronting Antisemitism"
-    description "What are the best strategies to build community amid extreme ideologies and behaviors that are far outside of the norms for verdant and democratic values? We inhabit a world where extremism co-exists with our aspirations for a better society. In this public forum, awardees from several Confronting Extremism project grants provide TED-style brief presentations about the key learning from their pilots and interventions to enhance community engagement, actions and support for social justice, diversity, and equity."
-    channeltitle "Inclusion UCI"
-    channelid "UC7J3pQc9a4bbJc35patgyCA"
+    date "2022-05-18T06:01:52Z"
+    title "Great Replacement Theory"
+    description "Black on White on Black Crime.&#10;It's all Tucker Carlson's fault?&#10;Racially motivated attacks and killings have been happening on BOTH sides recently.&#10;And it is WRONG on BOTH sides.&#10;The ones at fault are:&#10;1. The perpetuators.&#10;2. The media.&#10;3. The government (working with the media).&#10;We have to come together and interact with what we LOVE about each other and not hate."
+    channeltitle "Chris Pardal"
+    channelid "UCXpsoqkCNDRoD89ku72WICA"
     favcount 0
-    viewcount 5
+    viewcount 18
+    likecount 2
+    commentcount 0
+    duration "PT9M45S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.049770344
+    PERSPECTIVEPROFANITY 0.035134695
+    PERSPECTIVEFLIRTATION 0.2584146
+    PERSPECTIVETHREAT 0.070688106
+    PERSPECTIVETOXICITY 0.018325835
+    PERSPECTIVEINSULT 0.02561866
+    PERSPECTIVEIDENTITYATTACK 0.034059763
+    PERSPECTIVEINFLAMMATORY 0.09028102
+    indegree 4
+    cluster 5
+  ]
+  node
+  [
+    id 282
+    label "5LvqktnxdFA"
+    step 0
+    date "2021-09-19T09:00:12Z"
+    title "Pro Trump Rep Elise Stefanik blasted by hometown paper ad"
+    description "Pro-Trump Republican Rep.Elise Stefanik was blasted as 'low' by her hometown newspaper's editorial after she paid for Facebook ads pushing the 'great replacement' theory.In Stefanik's ads, which appeared on Facebook Wednesday, Joe Biden was seen wearing his trademark aviator sunglasses, with scores of migrants pictured in their reflection walking toward him.The image was a riff on a Time magazine cover that saw Putin reflected in Biden's shades.Stefanik's ad text said 'Democrats are planning their most aggressive move yet: a PERMANANT ELECTION INSURRECTION.' 'Their plan to grant amnesty to 11 MILLION illegal immigrants will overthrow our current electorate and create a permanent liberal majority in Washington,' the ad continues on to say.The Times Union editorial - titled 'How low, Ms.Stefanik?'&#160;-&#160;sunk its teeth into the advertisement.'Quite a choice of words, of course, considering that the country is still suffering the aftershocks of the Jan.6 insurrection in Washington by supporters of Mr.Trump who tried to overturn Democrat Joe Biden's victory in the 2020 presidential election.' The op-ed ripped the advertisements as 'fear-based political tactics' and didn't mince words in the last paragraph.'If there&#8217;s anything that needs replacing in this country &#8212; and in the Republican party &#8212; it&#8217;s the hateful rhetoric that Ms.Stefanik and far too many of her colleagues so shamelessly spew.' The great replacement theory claims white people are intentionally being replaced in the U.S.by migrants.It has a long history in the country that included periods when Catholics, Jews or Muslims were hailed as the 'replacements' who were out to change the country's 'culture.' The theory also triggered scares that Irish, Italian, Asian or eastern European immigrants would take the white, Protestant people's jobs.The third-ranking house Republican's ads echoed Donald Trump's attacks on Muslim and Mexican immigrants while seemingly mocking Time magazine's June cover of an aviator-clad Joe Biden with Vladimir Putin in the reflection ahead of the Biden-Putin meetup.The Times Union op-ed included contributions immigrants are making in the U.S.and argued that their work is integral a healthy American economy.'Today, according to the American Immigration Council, they make up over a third of the farming, fishing, and forestry workforce, and one-fourth of those working in computer and math sciences,' the op-ed said.'Over four million immigrants work in the health care and social service industry.In many cases, they are doing jobs American citizens don&#8217;t want to do.' Stefanik has represented New York's 21st Congressional District, which is mostly rural and&#160; includes all of Clinton, Essex, Franklin, Fulton, Hamilton, Jefferson, Lewis, St.Lawrence, Warren, and Washington counties, and parts of Herkimer and Saratoga counties, since 2015.The district includes most of the Adirondack Mountains and the Thousand Islands region.It borders Vermont to the east and Canada to the north.It also includes Fort Drum of the U.S.Army.The ads come at a time when the country encountered more than 195,000 migrants at the Mexican border in August, according to government data released on Wednesday.The Biden administration has begun preparing deportation flights to Haiti in order to curb the number of undocumented migrants flooding into Del Rio, Texas, after nearly 14,000 immigrants began camping in the area as thousands continue to arrive.Department of Homeland Security officials are planning as many as eight flights per day to Haiti, starting on Sunday, about a week since President Joe Biden cancelled repatriation flights to Haiti.Haiti - which is recovering from a magnitude 7.2earthquake that killed more than 2,000 people and damaged more than 100,000 homes - is prepared to only accept at least three flights a day, but Biden's administration will push for the eight, The Washington Post reported."
+    channeltitle "24h News"
+    channelid "UCB6XV5VKOgmroUU-wRmqZNA"
+    favcount 0
+    viewcount 85
     likecount 0
     commentcount 0
-    duration "PT9M40S"
+    duration "PT4M47S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.057968214
+    PERSPECTIVEPROFANITY 0.17999394
+    PERSPECTIVEFLIRTATION 0.41140732
+    PERSPECTIVETHREAT 0.34698057
+    PERSPECTIVETOXICITY 0.16482529
+    PERSPECTIVEINSULT 0.26618615
+    PERSPECTIVEIDENTITYATTACK 0.190904
+    PERSPECTIVEINFLAMMATORY 0.11914297
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 11
   ]
   node
   [
-    id 231
-    name "281"
-    label "5QlMNl9j2Nk"
-    step 0
-    date "2022-07-10T14:42:55Z"
-    title "The Vermander Curse STORY  ALL ENDINGS EXPLAINED"
-    description "the vermander curse from the same dev of the man from the window, is back again with another intriguing story.&#10;&#10;Gaming channel: https://www.youtube.com/channel/UCRQA_7BsmRzJXEZX6-T2iCA&#10;&#10;Sub to gamersault/ gamer sault for more horror game related content.&#10;&#10;The Vermander Curse STORY &#38; ALL ENDINGS EXPLAINED, the vermander curse story explained, the vermander curse explained, the vermander curse story, the vermander curse all endings, the vermander curse all endings explained, the vermander curse endings explained, the vermander curse ending explained, the vermander curse ending, the vermander curse game, the vermander curse full game, the vermander curse"
-    channeltitle "GamerSault"
-    channelid "UCZ9zJNZDmuQQ7Uw97Kdjwkw"
-    favcount 0
-    viewcount 73529
-    likecount 3441
-    commentcount 199
-    duration "PT17M15S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 232
-    name "283"
+    id 283
     label "XlDGRqqlWIQ"
     step 0
     date "2022-05-19T22:36:51Z"
@@ -6979,54 +6309,48 @@ graph
     likecount 246
     commentcount 17
     duration "PT1M"
+    sentiment 0.3716
+    PERSPECTIVESEXUALLYEXPLICIT 0.07126948
+    PERSPECTIVEPROFANITY 0.08843476
+    PERSPECTIVEFLIRTATION 0.34285355
+    PERSPECTIVETHREAT 0.22880693
+    PERSPECTIVETOXICITY 0.036336336
+    PERSPECTIVEINSULT 0.2250094
+    PERSPECTIVEIDENTITYATTACK 0.20713581
+    PERSPECTIVEINFLAMMATORY 0.34634614
     indegree 11
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW|PartisanRight"
-    leftright "R"
     cluster 7
   ]
   node
   [
-    id 233
-    name "284"
-    label "OdPBMImos6M"
+    id 287
+    label "HnjfSxg1nxE"
     step 0
-    date "2022-06-15T13:00:13Z"
-    title "The Great Replacement Theory Podcast Clip: #29 What s Song Actually Is"
-    description "This is a clip from a larger political conversation about what 'The System' actually is in Tom MacDonalds music references.&#10;&#10;Original Video: #29 What &#34;The System&#34; In Tom MacDonald's Song Actually Is- Our Christian Reaction&#10;https://www.youtube.com/watch?v=0AQG6OLmou4&#38;t=1049s&#10;&#10;Tom MacDonald, King of conscientious rap! Today, us newbie fans and Christians look at  &#34;The System&#34; and share our opinions and questions. We cover what we think the system that Tom MacDonald references actually is. We have a conversation about the Illuminati, end times prophecy, and the political left media manipulation.&#10;&#10;Original Video Link:&#10;The System by Tom MacDonald&#10;https://www.youtube.com/watch?v=OshNa...&#10;&#10;Not Gospel Studio PODCAST &#8211; Unapologetic Christian Commentary &#10;Cliff Williams of 7eventh Time Down and friend Chandra discuss current topics.&#10;#keepbeingawesome&#10;&#10;Follow Not Gospel Studios YouTube to stay up to date on original music, books, podcast, and a streaming webs-series and Christian mokumenterary series (BIG little Church). &#10;&#10;Follow the PODCAST Extras channel for unseen clips:&#10;https://www.youtube.com/channel/UCVvm...&#10;&#10;Listen to the Not Gospel Podcast everywhere Podcasts are streamed!&#10;Spotify @  shorturl.at/egET0&#10;Player FM @ https://player.fm/series/2976179&#10;Apple Podcasts @  https://podcasts.apple.com/us/podcast...&#10;&#10;Please LIKE my pages and Follow!&#10;Stay up to date on my website www.wordsbycliff.com&#10;Follow me on: &#10;Facebook @ https://www.facebook.com/NotGospelbyC...&#10;&#10;Amazon @ shorturl.at/moHP8&#10;Man Of God Paperback available NOW!&#10;&#10;#HOG #hangovergang #Tommacdonald  #HANGOVERGANG4EVER #HOGARMY"
-    channeltitle "Not Gospel Studios"
-    channelid "UCLdO0xZ-tPQdtwMQl1NexpQ"
+    date "2022-05-16T23:26:09Z"
+    title "White Replacement Theory That Inspired Buffalo Shooter Lives Inside The GOP"
+    description "GOP Caucus chairwoman Elise Stefanik&#8217;s &#38; Many Other Republicans Pushed  'Replacement Theory' that Inspired the Buffalo shooter&#10;&#10;What do we do when the extremist ideologies of murderous white supremacists are inside Congress and the mainstream media? &#10;&#10;&#128308; Subscribe for more clips like this: https://www.youtube.com/user/thomhartmann?sub_confirmation=1 &#10;&#10;&#10;&#11088; Join our Membership and Support the Channel:  https://www.youtube.com/user/thomhartmann/join&#10;&#10;MORE FROM THOM&#10;&#127910; Watch a full program re-run anytime: http://www.patreon.com/thomhartmann&#10;&#127911; Audio Podcast: http://www.thomhartmann.com/podcast&#10;&#128220; Free Newsletter: http://www.thomhartmann.com/podcast&#10;&#128085; Merchandise: https://teespring.com/stores/thom-hartmann-program-2&#10;&#127866; Thom Merchandise: https://teespring.com/thom-hartmann-mug?pid=522&#38;cid=101870&#10;&#10;FOLLOW THOM&#10;&#128213; AMAZON: http://amzn.to/2hS4UwY&#10;&#128221; BLOG: http://www.thomhartmann.com/thom/blog&#10;&#128101; FACEBOOK: http://www.facebook.com/ThomHartmannProgram/&#10;&#128248; INSTAGRAM: http://www.instagram.com/Thom_Hartmann&#10;&#127910; PATREON: http://www.patreon.com/thomhartmann &#10;&#128038; TWITTER: http://www.twitter.com/thom_hartmann&#10;&#127760; WEBSITE: http://www.thomhartmann.com&#10;&#128250; YOUTUBE: http://www.youtube.com/subscription_center?add_user=thomhartmann&#10;&#10;ABOUT THE PROGRAM&#10;The Thom Hartmann Program is the leading progressive political talk radio show for political news and comments about Government politics, be it Liberal or Conservative, plus special guests and callers.&#10;&#10;#MoreFromThom&#10;&#10;&#10004; Amazon links are affiliate links"
+    channeltitle "Thom Hartmann Program"
+    channelid "UCbjBOso0vpWgDht9dPIVwhQ"
     favcount 0
-    viewcount 71
-    likecount 16
-    commentcount 8
-    duration "PT7M39S"
-    indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    viewcount 3737
+    likecount 312
+    commentcount 88
+    duration "PT2M59S"
+    sentiment 0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.13631412
+    PERSPECTIVEPROFANITY 0.14078498
+    PERSPECTIVEFLIRTATION 0.29045117
+    PERSPECTIVETHREAT 0.21296023
+    PERSPECTIVETOXICITY 0.2936093
+    PERSPECTIVEINSULT 0.21740526
+    PERSPECTIVEIDENTITYATTACK 0.4013395
+    PERSPECTIVEINFLAMMATORY 0.8570018
+    indegree 1
+    cluster 10
   ]
   node
   [
-    id 234
-    name "288"
+    id 288
     label "gWZa-OVFnYI"
     step 0
     date "2022-05-22T22:22:04Z"
@@ -7039,114 +6363,102 @@ graph
     likecount 144
     commentcount 46
     duration "PT10M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.090277165
+    PERSPECTIVEPROFANITY 0.16203877
+    PERSPECTIVEFLIRTATION 0.32567918
+    PERSPECTIVETHREAT 0.7373
+    PERSPECTIVETOXICITY 0.34575438
+    PERSPECTIVEINSULT 0.19807261
+    PERSPECTIVEIDENTITYATTACK 0.3936967
+    PERSPECTIVEINFLAMMATORY 0.7252745
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    cluster 5
   ]
   node
   [
-    id 235
-    name "289"
-    label "-9arnYaTr20"
+    id 292
+    label "sIZWBDseNRo"
     step 0
-    date "2022-06-02T14:07:37Z"
-    title "Shifting demographics at the root of  theory"
-    description "The gunman responsible for the mass shooting in a Tops grocery store in Buffalo, New York, was reportedly motivated in part by the &#8220;great replacement&#8221; theory. He referenced the ideas that comprise the theory in a 180-page document he allegedly wrote before the attack.&#10;&#10;Rate this story: https://santv.co/3GHRIGV&#10;&#10;Mass shooters in El Paso, Texas and Christchurch, New Zealand also subscribed to the idea that white citizens are being replaced by minorities.&#10;&#10;While the theory has been adopted by white supremacists around the world, it is connected to a real change in the United States, where the nation&#8217;s demographics are shifting.&#10;&#10;According to the 2020 Census, the white population decreased by more than 8 percent since 2010, while the multiracial population grew by more than 270 percent. Democrats have hoped the shift would work in their favor.&#10;&#10;Follow Straight Arrow News on social media &#8212;&#10;Facebook: https://www.facebook.com/straightarrownews&#10;Twitter: https://twitter.com/StraightArrow__&#10;Instagram: https://www.instagram.com/straightarrownews/&#10;TikTok: https://www.tiktok.com/@straightarrownews&#10;&#10;Subscribe to Straight Arrow News emails --&#10;Weekly Newsletter: http://eepurl.com/hxuRdj&#10;Opinion Newsletter: http://eepurl.com/hS5VIX"
-    channeltitle "Straight Arrow News"
-    channelid "UCuL3xV8AqD3sekKOhhyZqOA"
+    date "2022-06-12T00:31:48Z"
+    title "Great Replacement Theory? Really?"
+    description "I speak my thoughts on this poll that shows 58% of Republicans saying that white people are being replaced by people of color. Great Replacement Theory is a far right conspiracy theory which is used to fearmonger white conservatives or whites in general. Not only this is ignorant, this is completely racist. This is pretty much the far right version of Critical Race Theory.&#10;Here's the link: https://www.mediaite.com/news/new-poll-a-full-58-of-republicans-say-white-people-in-this-country-are-being-replaced-by-non-white-people/"
+    channeltitle "kRose&#9875;"
+    channelid "UCFEyucZHxKZKtNrQ37hBPYA"
     favcount 0
-    viewcount 50
-    likecount 2
+    viewcount 16
+    likecount -1
     commentcount 0
-    duration "PT3M50S"
+    duration "PT5M45S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.024006475
+    PERSPECTIVEPROFANITY 0.012097746
+    PERSPECTIVEFLIRTATION 0.24874541
+    PERSPECTIVETHREAT 0.029505644
+    PERSPECTIVETOXICITY 0.015826859
+    PERSPECTIVEINSULT 0.016065637
+    PERSPECTIVEIDENTITYATTACK 0.017056983
+    PERSPECTIVEINFLAMMATORY 0.08813892
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 3
   ]
   node
   [
-    id 236
-    name "293"
-    label "2kUAnejx800"
+    id 294
+    label "J5cHG1M9WHY"
     step 0
-    date "2022-07-11T17:28:29Z"
-    title "Conspiracy Theories and Truth in Christ"
-    description "Permission to stream the music in this service obtained from ONE LICENSE, License #A-729442 . All rights reserved."
-    channeltitle "St. Hilda St. Patrick Episcopal Church"
-    channelid "UCzBM2OMeqNdTrRqT2obikpg"
+    date "2022-05-21T23:12:53Z"
+    title "Velshi - The Rise of  Theory"
+    description "Ali Velshi is joined by Larry Platt, Co-Founder and Co-Executive Director at The Philadelphia Citizen, Ned Foley, Director of Election Law and Constitutional Law Chair at Ohio State Contributing Columnist at The Washington Post, Heather Long, Economic Columnist and Editorial Board member at The Washington Post, Spencer Glendon, Senior Fellow at Woodwell Climate Research Center, Ian Bremmer, President &#38; Founder at Eurasia Group &#38; GZERO Media, Steve Benen, Editor at The Maddow Blog, Michael Steele, Former RNC Chairman, Caleb Silver, Editor-in-Chief at Investopedia, and Karen J. Greenberg, Director at Fordham University&#8217;s Center on National Security.&#10;&#10;Episode link: https://velshi.simplecast.com/episodes/the-rise-of-the-great-replacement-theory-iLl3d00R&#10;&#10;(video made with https://www.headliner.app)"
+    channeltitle "K1V Account"
+    channelid "UC_obRxqeZSBlVc5edOQZHQg"
     favcount 0
-    viewcount 4
+    viewcount 13
     likecount 0
     commentcount 0
-    duration "PT13M20S"
+    duration "PT1H28M23S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.03981268
+    PERSPECTIVEPROFANITY 0.019592017
+    PERSPECTIVEFLIRTATION 0.2728926
+    PERSPECTIVETHREAT 0.037811864
+    PERSPECTIVETOXICITY 0.0224908
+    PERSPECTIVEINSULT 0.017546808
+    PERSPECTIVEIDENTITYATTACK 0.02402076
+    PERSPECTIVEINFLAMMATORY 0.07415147
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 1
   ]
   node
   [
-    id 237
-    name "295"
-    label "YETt1adRdI4"
+    id 296
+    label "NbX4ZZlaahI"
     step 0
-    date "2022-07-06T23:10:55Z"
-    title "July 6th, 2022 - Future of Filmmaking  New Challenge!"
-    description "Here we are again! It's still strange only doing these monthly.&#10;&#10;This week we will chat about where we think virtual production is headed with tools like UE5, projectors, green screens, LED volumes, trackers, etc., and what that might mean down the road for the people (us), that don't have huge Hollywood budgets. &#10;&#10;We will also try to sort out a new challenge for August 3rd (next month's stream), and answer your general production questions.&#10;&#10;It's Camera &#38; Flask Time!&#10;Grab a drink (leaded or unleaded), and join in!&#10;&#10;Subscribe to theC47's YouTube Channel:  http://www.youtube.com/theC47&#10;&#10;Need more C&#38;F? Watch old episodes here: https://www.youtube.com/watch?v=X4Sqnpu9Io0&#38;list=PLJr_wxggDGuebkoirs0In8PPYCjjprodZ&#10;&#10;YOUR HOSTS...&#10;&#10;JEM SCHOFIELD&#10;Jem is a producer, DP, educator and the founder of theC47 (a full service production company that focuses on video production, filmmaking, consulting &#38; education). He spends his time producing content, educating others and otherwise being almost borderline obsessed with cameras and lighting.&#10;&#10;Visit theC47' web site for more content &#38; equipment recommendations: &#10;&#10;http://www.thec47.com&#10;&#10;CALEB PIKE&#10;Caleb is the founder of DSLR Video Shooter where he creates tutorials and reviews for filmmakers and YouTubers. Before going full time on Youtube, Caleb was a camera operator in Chicago shooting corporate video and documentary work.&#10;&#10;Youtube Channel &#9658; &#10;&#10;https://youtube.com/dslrvideoshooter&#10;&#10;Website: &#10;http://www.dslrvideoshooter.com&#10;&#10;BEN BARDEN&#10;Ben is a professional commercial photographer, award-winning filmmaker, teacher and location manager/scout. Specializing in tourism, food and drink, rope access, aerial, offshore, lifestyle, interiors, landscape, travel and architecture.&#10;&#10;Website: &#10;http://www.benbarden.co.uk/about&#10;&#10;SOME OF theC47's FAVORITE STUFF...&#10;&#10;COLLABORATION&#10;FRAME.IO&#10;Video review &#38; collaboration, solved!&#10;http://r.frame.io/theC47&#10;&#10;FujiFilm X-T3&#10;B&#38;H: https://bhpho.to/2BYPyBM&#10;&#10;FujiFilm X-T4 &#10;B&#38;H: https://bhpho.to/2VlvtRC&#10;&#10;16MM F/2.8 WR LENS&#10;B&#38;H: https://bhpho.to/3a1caRu&#10;&#10;23MM F/2 WR LENS&#10;B&#38;H: https://bhpho.to/32Ge5HV&#10;&#10;35MM F/2 WR LENS&#10;B&#38;H: https://bhpho.to/2N7hpoM&#10;&#10;50MM F/2 WR LENS&#10;B&#38;H: https://bhpho.to/2MBY7cr&#10;&#10;56MM F/1.2 LENS&#10;B&#38;H: https://bhpho.to/2PabX4l&#10;&#10;LAOWA 9MM ZERO-D LENS&#10;B&#38;H: https://bhpho.to/2PmS1gP&#10;&#10;18-55MM F/2.8-4 LENS&#10;B&#38;H: https://bhpho.to/2pEAUxb&#10;&#10;ZHIYUN TECH WEEBILL-S&#10;B&#38;H: https://bhpho.to/2wILRkM&#10;&#10;ATOMOS Ninja V&#10;B&#38;H: https://bhpho.to/2BSHi6u&#10;&#10;R&#216;DE Wireless GO&#10;B&#38;H: https://bhpho.to/30GRdY3&#10;&#10;Matthews Infinity Arm&#10;B&#38;H: https://bhpho.to/3a2V06b&#10;&#10;Aputure 120DII&#10;B&#38;H: https://bhpho.to/30FCNal&#10;&#10;Aputure MC&#10;B&#38;H: https://bhpho.to/2uRbz5R&#10;&#10;Luxli Cello&#10;B&#38;H: https://bhpho.to/2NlmLvZ&#10;AMAZON: http://geni.us/33WEv&#10;&#10;SmallHD &#10;B&#38;H: https://bhpho.to/2oe0y82&#10;&#10;Tenba Roadie Cases&#10;B&#38;H: https://bhpho.to/2P8zu5n&#10;&#10;&#8212;&#10;&#10;DISCLAIMERS&#10;Content on theC47&#8217;s YouTube Channel is not aggregated content. It is created by Jem Schofield and theC47. Any playlists included on this channel are done so because they contain work that was produced, directed and/or dp&#8217;d by Jem Schofield and theC47. &#10;&#10;Gearbox 2.0 and Camera &#38; Flask are not sponsored. &#10;&#10;Many external links to products on this YouTube channel are to affiliates of theC47. Links were current at time of posting. There is no additional cost to buyers if they purchase products using these links and those purchases help theC47 continue to create free content on this channel!&#10;&#10;Notes: 1) As with any Amazon purchase you make, please do your research when choosing a reseller for the product/s you are purchasing. Check ratings and read reviews. 2) If you find a link is not working please let us know by visiting www.thec47.com/contact&#10;&#10;To read theC47's full copyright, terms &#38; disclosures you can visit theC47.com web site.&#10;&#10;#cameraandflask  #thec47 #dslrvideoshooter #benbarden #ep143"
-    channeltitle "theC47"
-    channelid "UCepecuejtz08zIcjYAXSdLw"
+    date "2022-05-19T18:32:55Z"
+    title "Kristal Knight Calls out Fox News Network Live on Air for Spewing the Great Replacement Theory"
+    description "Thanks for Watching, Don't Forget to hit SUBSCRIBE, LIKE and SHARE, for More Videos like this. &#10;&#10;On Thursday Harris Faulkner Show, Democratic Strategist Kristal Knight, Calls out network Live on Air for Pushing the Great Replacement Theory. &#10;&#10;&#10;&#10;Fair Use:&#10;Fair Use is a U.S. law that allows the reuse of copyright-protected material under certain circumstances without getting permission from the copyright owner. However, Fair Use is determined on a case by case basis, and different countries have different rules about when it&#8217;s okay to use material without the copyright owner&#8217;s permission. In the U.S., works of commentary, criticism, research, teaching, or news reporting might be considered fair use, but it can depend on the situation."
+    channeltitle "Daily News With Dobbie"
+    channelid "UCjGzYNsR7D5xIoTvPQXWMDQ"
     favcount 0
-    viewcount 229
-    likecount -1
-    commentcount 3
-    duration "PT1H3M9S"
+    viewcount 11634
+    likecount 41
+    commentcount 100
+    duration "PT1M45S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.029787537
+    PERSPECTIVEPROFANITY 0.034556884
+    PERSPECTIVEFLIRTATION 0.31394184
+    PERSPECTIVETHREAT 0.09602866
+    PERSPECTIVETOXICITY 0.12631269
+    PERSPECTIVEINSULT 0.059672806
+    PERSPECTIVEIDENTITYATTACK 0.06737711
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 238
-    name "297"
+    id 297
     label "lycU7-uyr_Y"
     step 0
     date "2022-05-16T21:15:00Z"
@@ -7159,24 +6471,21 @@ graph
     likecount 33
     commentcount 6
     duration "PT6M45S"
+    sentiment -0.6124
+    PERSPECTIVESEXUALLYEXPLICIT 0.18565129
+    PERSPECTIVEPROFANITY 0.43947086
+    PERSPECTIVEFLIRTATION 0.47127596
+    PERSPECTIVETHREAT 0.765407
+    PERSPECTIVETOXICITY 0.529921
+    PERSPECTIVEINSULT 0.660731
+    PERSPECTIVEIDENTITYATTACK 0.74469256
+    PERSPECTIVEINFLAMMATORY 0.8554552
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 5
   ]
   node
   [
-    id 239
-    name "298"
+    id 298
     label "-nfyurSULoU"
     step 0
     date "2022-05-25T03:12:30Z"
@@ -7189,54 +6498,48 @@ graph
     likecount 67
     commentcount 31
     duration "PT13M48S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.11758188
+    PERSPECTIVEPROFANITY 0.21428357
+    PERSPECTIVEFLIRTATION 0.29205498
+    PERSPECTIVETHREAT 0.2119763
+    PERSPECTIVETOXICITY 0.33859563
+    PERSPECTIVEINSULT 0.3083629
+    PERSPECTIVEIDENTITYATTACK 0.23715939
+    PERSPECTIVEINFLAMMATORY 0.43782893
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 9
   ]
   node
   [
-    id 240
-    name "299"
-    label "p89uOKQRPMw"
+    id 305
+    label "2fNOJYg2e0s"
     step 0
-    date "2022-05-24T17:13:03Z"
-    title "Great Replacement Theory Proven"
-    description ""
-    channeltitle "Fish Pawnz"
-    channelid "UCPa5xwL8d5ZATlV6pBF3uMA"
+    date "2022-05-18T00:57:12Z"
+    title "Republicans Just Love Great Replacement Theory (Full Episode)"
+    description "Support Independent Media: https://patreon.com/chainsawccc&#10;You Gotta Start Tanning Your Balls Bro: https://youtu.be/-s5VIMzvOZw&#10;Chat with Chainsaw: https://discord.gg/97H9XxD2&#10;&#10;&#129297;&#129297;&#129297;Free $$$ From Chainsaw NOW!!!&#10;Click the link, sign up, and deposit just $100 into your account and you'll get two free stocks totaling $21-$1600. Keep them or cash out for an instant return. &#10;https://chainsawccc.com/webull&#10;Click the link, sign up, and deposit just $100 into your account and you'll get $30 in cold hard cash. This is by far the easiest way to make a quick 30% investment return. &#10;https://chainsawccc.com/m1&#10;&#10;Limitations may apply. &#10;&#10;&#128241;Follow Chainsaw On Social&#128241;&#10;Facebook: http://www.facebook.com/chainsawmoney&#10;Twitter: http://twitter.com/chainsawccc&#10;Instagram: http://instagram.com/chainsawccc&#10;&#10;&#127919;&#127919;&#127919; #chainsaw #tuckercarlson #greatreplacementtheory &#127919;&#127919;&#127919; &#10;&#10;Chloe Maxmin's Book&#10;https://www.amazon.com/Dirt-Road-Revival-Rebuild-Politics-ebook/dp/B0989FD5S4&#10;&#10;&#128680;This content is for entertainment purposes only and should not to be construed as tax, legal, or financial advice. This content should not be considered a replacement for tax, legal or financial advice. Any use of other media is by fair-use or license only. Chainsaw is not a licensed attorney, CPA, or financial advisor. &#10;&#10;&#10;Music by:&#10;Beach Buggy Ride by Elexive https://soundcloud.com/sirpricedj&#8203;&#10;Creative Commons &#8212; Attribution 3.0 Unported&#8212; CC BY 3.0 &#10;Free Download / Stream: https://bit.ly/beach-buggy-ride&#8203;&#10;Music promoted by Audio Library https://youtu.be/qpxGxqhVXLA&#8203;&#10;Track Info:&#10;Title: Beach Buggy Ride by Elexive &#10;Genre and Mood: Dance &#38; Electronic + Bright&#10;Available on: &#10;SoundCloud: https://soundcloud.com/sirpricedj/ele...&#10;Contact the Artist:&#10;sirpricedj@gmail.com&#10;https://soundcloud.com/sirpricedj&#8203;&#10;https://youtube.com/user/DerAdryan&#8203;&#10;https://instagram.com/sirpricedj&#8203;&#10;https://facebook.com/sirpricedj&#8203;&#10;https://twitter.com/sirpricedj"
+    channeltitle "Chainsaw - Cash, Coffee, &#38; Chaos"
+    channelid "UC-ca9tXYh5vlMKnsa_-3KJQ"
     favcount 0
-    viewcount 25
-    likecount 1
-    commentcount 0
-    duration "PT11S"
+    viewcount 149
+    likecount 8
+    commentcount 6
+    duration "PT35M10S"
+    sentiment 0.8519
+    PERSPECTIVESEXUALLYEXPLICIT 0.059159964
+    PERSPECTIVEPROFANITY 0.038570493
+    PERSPECTIVEFLIRTATION 0.5915349
+    PERSPECTIVETHREAT 0.09856467
+    PERSPECTIVETOXICITY 0.11729682
+    PERSPECTIVEINSULT 0.054093327
+    PERSPECTIVEIDENTITYATTACK 0.12155312
+    PERSPECTIVEINFLAMMATORY 0.23973732
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 1
   ]
   node
   [
-    id 241
-    name "306"
+    id 306
     label "q0JF4Q8VBK8"
     step 0
     date "2022-05-16T02:38:47Z"
@@ -7249,24 +6552,21 @@ graph
     likecount 398
     commentcount 190
     duration "PT5H18M43S"
+    sentiment 0.8176
+    PERSPECTIVESEXUALLYEXPLICIT 0.052295852
+    PERSPECTIVEPROFANITY 0.07681084
+    PERSPECTIVEFLIRTATION 0.35072324
+    PERSPECTIVETHREAT 0.7093886
+    PERSPECTIVETOXICITY 0.1250247
+    PERSPECTIVEINSULT 0.060296047
+    PERSPECTIVEIDENTITYATTACK 0.109293364
+    PERSPECTIVEINFLAMMATORY 0.20303269
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 11
   ]
   node
   [
-    id 242
-    name "307"
+    id 307
     label "ld2hGc_9aB0"
     step 0
     date "2022-06-17T04:31:15Z"
@@ -7279,204 +6579,183 @@ graph
     likecount 0
     commentcount 0
     duration "PT38S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.053357814
+    PERSPECTIVEPROFANITY 0.041785166
+    PERSPECTIVEFLIRTATION 0.26482686
+    PERSPECTIVETHREAT 0.092560135
+    PERSPECTIVETOXICITY 0.02262963
+    PERSPECTIVEINSULT 0.031064475
+    PERSPECTIVEIDENTITYATTACK 0.03959205
+    PERSPECTIVEINFLAMMATORY 0.1833656
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 1
   ]
   node
   [
-    id 243
-    name "308"
-    label "RzqNC26XzGQ"
+    id 317
+    label "Dk-5G3FvqxU"
     step 0
-    date "2022-07-13T20:11:41Z"
-    title "Stroke Risk  Transcatheter Aortic Valve Replacement (TAVR) with Dr. Isaac George"
-    description "https://www.Heart-Valve-Surgery.com - While transcatheter aortic valve replacement (TAVR) is considered one of the greatest advances in the aortic stenosis treatment, patients are often confused and concerned about the stroke risk associated with this non-invasive procedure. &#10;&#10;To learn more about the TAVR stroke risk, we interviewed Dr. Isaac George, the Surgical Director of the Structural Heart Disease at NewYork-Presbyterian Hospital in New York City. During his extraordinary career, Dr. George has performed over 6,000 TAVR procedures. &#10;&#10;Key questions answered by Dr. George in this video include: &#10;&#10;1. How common is stroke during a TAVR procedure? What is the current patient stroke rate during TAVR?&#10;&#10;2. Is it true that 100% of patients who undergo TAVR have some calcium travel to the brain?&#10;&#10;3. How is the SENTINEL Cerebral Protection System, a new FDA-approved therapy, helping doctors prevent strokes during TAVR?  What are the theoretical benefits of the SENTINEL?&#10;&#10;4. How do SENTINEL filters collect calcium debris during a TAVR operation?&#10;&#10;5. Why is the SENTINEL only used at 20% of cardiac centers that perform TAVR?&#10;&#10;6. How might the PROTECT TAVR clinical trial impact the utility of the SENTINEL Cerebral Protection System during TAVR to minimize stroke risk?&#10;&#10;To learn more or schedule a second opinion with Dr. Isaac George, please call (516) 259-6953 or visit https://www.heart-valve-surgery.com/surgeons/dr-Isaac-George-New+York+City-New%20York.php."
-    channeltitle "HeartValveSurgery.com"
-    channelid "UC_m5PLx2TBwLVfmm0OloBBw"
-    favcount 0
-    viewcount 123
-    likecount 11
-    commentcount 1
-    duration "PT6M19S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
-  ]
-  node
-  [
-    id 244
-    name "318"
-    label "rIgdJCDWmqI"
-    step 0
-    date "2022-05-17T03:36:43Z"
-    title "Elise Stefanik Denies Promoting  But Amps Up Rhetoric Anyway"
-    description "Rep. Elise Stefanik (R-N.Y.) tried to have it both ways on Monday, first by denying she ever promoted the &#8220;great replacement&#8221; theory that reportedly inspired a &#8220;racially motivated&#8221; mass shooting in Buffalo, New York, over the weekend, then by amping up anti-immigrant rhetoric a short time later. &#10;Recent Facebook ads from the lawmaker have alluded to the far-right conspiracy theory, which claims that white people are being intentionally replaced by minorities and immigrants as part of a &#8220;permane"
+    date "2022-05-18T03:34:49Z"
+    title "Tucker Carlson  About Great Replacement Theory After Pushing It 400 Times"
+    description "Fox News host Tucker Carlson tried to distance himself Tuesday from the white supremacist &#8220;great replacement&#8221; theory he&#8217;s peddled on his prime time show for years, before launching into a long rant about Democratic plots to encourage immigration to win elections, a key tenet of the conspiracy idea. &#10;Carlson opened his program Tuesday denouncing the 18-year-old suspect accused of killing 10 people at a grocery store in Buffalo, New York last week. The man, Payton Gendron, is accused of targeting"
     channeltitle "Ashleigh Kman"
     channelid "UC4ldztgLyJUSVSJkiknVSNw"
     favcount 0
-    viewcount 11
+    viewcount 22
     likecount 0
     commentcount 0
-    duration "PT2M24S"
+    duration "PT3M31S"
+    sentiment -0.6435
+    PERSPECTIVESEXUALLYEXPLICIT 0.062472995
+    PERSPECTIVEPROFANITY 0.09774109
+    PERSPECTIVEFLIRTATION 0.25888538
+    PERSPECTIVETHREAT 0.14205359
+    PERSPECTIVETOXICITY 0.029984225
+    PERSPECTIVEINSULT 0.111046575
+    PERSPECTIVEIDENTITYATTACK 0.08399445
+    PERSPECTIVEINFLAMMATORY 0.19141716
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
-  ]
-  node
-  [
-    id 245
-    name "320"
-    label "3jedYV_5pnk"
-    step 0
-    date "2022-07-04T02:50:47Z"
-    title "3 Tiers Cleared? Haslab HISS Tank Breaks Records!"
-    description "Join Jay with special guest Ryan Doell from YHS's Toy Anxiety as they break down the biggest toy news from the past week. The GI Joe team at Hasbro has to be thrilled with the success of their Classified Series HISS Tank. It has nearly blown through all stretch goals within a week while still having over 40 days left to collect orders. What will the last Tier be? Will they add more? Join us live as we break down the results and hypothesize what is to come!"
-    channeltitle "Geek. Dad. Life."
-    channelid "UCLuS93Q133qInyESjfdGVYA"
-    favcount 0
-    viewcount 7330
-    likecount 575
-    commentcount 44
-    duration "PT1H39M48S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
-  ]
-  node
-  [
-    id 246
-    name "322"
-    label "QzW3Jg-rBZ0"
-    step 0
-    date "2022-05-22T18:21:56Z"
-    title "Democrats promote "
-    description "While Democrats accuse prominent Republicans and Conservatives of promoting the &#34;Great Replacement Theory&#34; that was espoused by the Buffalo, NY mass-shooter, archive video, news articles, and social media posts show Democrats --including President Biden-- promoting the theory and insisting that it's a good thing.&#10;&#10;This video is not monetized. It is for informational purposes only. The background music in this video was created by @vdublu909. Use of the music does not indicate an endorsement of the video content nor any association between the artist and MOVE News. Hear the full original song here:&#10;https://youtu.be/PA5qjPu31Tg"
-    channeltitle "MOVE - Mid-Ohio Valley Entertainment &#38; News"
-    channelid "UCgFt1M1RhjG0exAQVQMSeUg"
-    favcount 0
-    viewcount 16
-    likecount 2
-    commentcount 1
-    duration "PT2M40S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 8
   ]
   node
   [
-    id 247
-    name "327"
-    label "GPoZOgWOKgI"
+    id 319
+    label "EsXqvLNFnJA"
     step 0
-    date "2022-07-12T19:00:06Z"
-    title "4K DOMINION T-REX! - Replacement Mod! - Jurassic World Evolution 2 - #shorts"
-    description "My Latest Ultimate JWE2 Modding Guide Video linked here;&#10;https://www.youtube.com/watch?v=ur23O7I3x8Q&#10;&#10;Hello there and welcome to a whole slew of new replacement species and skins short videos being released over the next couple of days.&#10;&#10;This awesome skin mod converts your standard resolution dinosaur model and upscales it to an ultra crisp 4K for those who are using high end rigs.&#10;&#10;Great work on this mod by Viral Cyclopes&#10;&#10;Mod Link for the Higher Texture Resolution Scarred T-Rex;&#10;https://www.nexusmods.com/jurassicworldevolution2/mods/835"
-    channeltitle "Wondersgta Gaming"
-    channelid "UC33sQzw_nwujLO1aRtiHVjw"
+    date "2022-05-17T20:22:21Z"
+    title "Representative Elise Stefanik, Republican of New York Replacement Theory Expert Vote GOP"
+    description "Racist Attack Spotlights Stefanik&#8217;s Echo of Replacement Theory&#10;Annie Karni&#10;May 16, 2022, 8:13 p.m. ETMay 16, 2022&#10;May 16, 2022&#10;Annie Karni&#10;Representative Elise Stefanik, Republican of New York, is under scrutiny for having echoed the racist &#8220;great replacement&#8221; theory in campaign advertisements.&#10;Representative Elise Stefanik, Republican of New York, is under scrutiny for having echoed the racist &#8220;great replacement&#8221; theory in campaign advertisements.Credit...Tom Brenner for The New York Times&#10;&#10;WASHINGTON &#8212; Over the past week, Representative Elise Stefanik of New York, the third-ranking House Republican, has blasted President Biden for providing infant formula to undocumented immigrants while &#8220;American mothers&#8221; suffer amid a nationwide formula shortage.&#10;&#10;She has attacked Democrats and &#8220;pedo grifters,&#8221; borrowing language from the baseless pro-Trump QAnon conspiracy theory that claims there is a Satan-worshipping cabal of liberal pedophiles, which has evolved into a movement on the right.&#10;&#10;ADVERTISEMENT&#10;&#10;Continue reading the main story&#10;Subscribe to The Times to read as many articles as you like.&#10;nytimes.com/subscription&#10;Site Information Navigation&#10;&#169; 2022 The New York Times Company&#10;NYTCoContact UsAccessibilityWork with usAdvertiseT Brand StudioYour Ad ChoicesPrivacy PolicyTerms of ServiceTerms of SaleSite MapHelpSubscriptions&#10;You&#8217;ve reached your limit of free articles.&#10;Special offer:&#10;&#10;Get unlimited access for $1 a week.&#10;&#10;$4.25 $1/week&#10;&#10;Billed as $17 $4 every 4 weeks for one year&#10;&#10;You can cancel anytime.&#10;&#10;SUBSCRIBE"
+    channeltitle "Republican Replacement Theory | GOP Party Racist"
+    channelid "UCFTKB1LuBf_1lesfJuhmL_Q"
     favcount 0
-    viewcount 370
-    likecount 19
-    commentcount 2
-    duration "PT29S"
+    viewcount 16
+    likecount 1
+    commentcount 0
+    duration "PT11S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.025969934
+    PERSPECTIVEPROFANITY 0.027762562
+    PERSPECTIVEFLIRTATION 0.23851189
+    PERSPECTIVETHREAT 0.08142238
+    PERSPECTIVETOXICITY 0.017770508
+    PERSPECTIVEINSULT 0.04908788
+    PERSPECTIVEIDENTITYATTACK 0.0805375
+    PERSPECTIVEINFLAMMATORY 0.56123126
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 4
   ]
   node
   [
-    id 248
-    name "329"
-    label "FtnsFh2ZcVA"
+    id 321
+    label "uy1OFH_7XBo"
     step 0
-    date "2022-05-18T21:51:34Z"
-    title "The Great Replacement Theory"
-    description "The evidence is coming to light that the attacks against our people are because of the fear of The Great Replacement. Do they know something most of us do not know? Is bible prophecy coming to pass?"
-    channeltitle "Teotw Ministries"
-    channelid "UCMXvwL_5wkwFutGEC4VaLlw"
+    date "2022-05-18T18:50:18Z"
+    title "REPLACEMENT THEORY AND/OR CRITICAL RACE THEORY; WHY YOU MAD AT ME?  #comediccommentary #jokes"
+    description "soooooooooo #replacementtheory is the new term? i thought we were steal dealing with #criticalracetheory &#129335;&#127998;&#8205;&#9794;&#65039;&#10;&#10;#IasIjswithTheoBPodcast #IasIjswithTheoB #TheoB #socialissues #jokes #comediccommentary #buffalo #buffalomarket #buffalomassacre #worldhistory #history #americanhistory #blackhistory #slavetrade #slaveauction #truthtoldinajoke #IaintsayingImjustsaying&#10;#men #women #sex #biracialcouple #paperbagtest #barackobama #replacement #replacementtheory #criticalracetheory"
+    channeltitle "Ias-Ijs with Theo B."
+    channelid "UCw-diV2HPJEhXE8aMJbOfKA"
     favcount 0
-    viewcount 18027
-    likecount 1346
-    commentcount 319
-    duration "PT1H15M34S"
-    indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Black|ReligiousConservative"
-    leftright "C"
+    viewcount 144
+    likecount 16
+    commentcount 6
+    duration "PT14M12S"
+    sentiment -0.5423
+    PERSPECTIVESEXUALLYEXPLICIT 0.11535439
+    PERSPECTIVEPROFANITY 0.15180448
+    PERSPECTIVEFLIRTATION 0.3324286
+    PERSPECTIVETHREAT 0.10300002
+    PERSPECTIVETOXICITY 0.2712817
+    PERSPECTIVEINSULT 0.4523433
+    PERSPECTIVEIDENTITYATTACK 0.22819242
+    PERSPECTIVEINFLAMMATORY 0.2697245
+    indegree 0
     cluster 9
   ]
   node
   [
-    id 249
-    name "331"
+    id 326
+    label "xvOJqzKHgw4"
+    step 0
+    date "2022-05-25T13:14:41Z"
+    title "Steven Crowder Is Racist"
+    description "I'm sure you are surprised to learn this. In this video Crowder re-hashes the Great Replacement bullshit theory and I promise it will give you an aneurysm.&#10;&#10;&#128308; Website  - https://www.vaush.gg/&#10;&#128181; Patreon  - https://www.patreon.com/vaush&#10;&#10;&#127775; Other Socials &#127775;&#10;&#10;&#11088;&#65039; 2nd Channel - https://www.youtube.com/c/thevaushpit&#10;&#128038; Twitter - https://twitter.com/VaushV&#10;&#128126; Twitch - https://www.twitch.tv/vaushvidya&#10;&#128248; Instagram - https://www.instagram.com/vaushv/&#10;&#128309; Facebook - https://www.facebook.com/vaushvidya&#10;&#127925; TikTok - https://www.tiktok.com/@vaushvidya&#10;&#127897;Podcast - https://anchor.fm/vaush&#10;&#10;Intro animation credit goes to https://twitter.com/ItIsMeKyleG &#38; https://twitter.com/honeybunnbadger for the visuals, and https://twitter.com/sound_sierra for the audio! Thank you!&#10;&#10;#StevenCrowder #CrowderClips&#10;&#10;0:00 Teaser / Intro&#10;0:33 Crowder &#34;Great Replacement&#34; Video Reaction&#10;1:00:33 Final Thoughts: The difference between Crowder's Rhetoric and Nazi Rhetoric"
+    channeltitle "Vaush"
+    channelid "UC1E-JS8L0j1Ei70D9VEFrPQ"
+    favcount 0
+    viewcount 283267
+    likecount 10397
+    commentcount 2496
+    duration "PT1H28M46S"
+    sentiment -0.6124
+    PERSPECTIVESEXUALLYEXPLICIT 0.09677051
+    PERSPECTIVEPROFANITY 0.34553808
+    PERSPECTIVEFLIRTATION 0.2882206
+    PERSPECTIVETHREAT 0.18410653
+    PERSPECTIVETOXICITY 0.53837943
+    PERSPECTIVEINSULT 0.660731
+    PERSPECTIVEIDENTITYATTACK 0.73454607
+    PERSPECTIVEINFLAMMATORY 0.62833256
+    indegree 3
+    cluster 12
+  ]
+  node
+  [
+    id 328
+    label "1HeY4RxO3Ik"
+    step 0
+    date "2022-05-22T06:53:56Z"
+    title "What the Great Replacement Theory Really Is. | Ep.3"
+    description "The left misrepresents the buffalo mass shooting by blaming the right and Tucker Carlson. Then I'll explain what the Great Replacement Theory is and what it isn't. Then lastly I explain MORE GUNS= LESS CRIME. &#10;#poltics #conservative #fox #tuckercarlson #guncontrol"
+    channeltitle "The Solo Show"
+    channelid "UCh5_0NF0PGX1F1BoalTd-tQ"
+    favcount 0
+    viewcount 27
+    likecount 5
+    commentcount 1
+    duration "PT14M13S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.10436914
+    PERSPECTIVEPROFANITY 0.043272823
+    PERSPECTIVEFLIRTATION 0.5433109
+    PERSPECTIVETHREAT 0.3338794
+    PERSPECTIVETOXICITY 0.027065687
+    PERSPECTIVEINSULT 0.023991933
+    PERSPECTIVEIDENTITYATTACK 0.046369843
+    PERSPECTIVEINFLAMMATORY 0.07541345
+    indegree 0
+    cluster 10
+  ]
+  node
+  [
+    id 330
+    label "RABtKJu6ydY"
+    step 0
+    date "2022-07-05T14:19:09Z"
+    title "The GREAT REPLACEMENT! || Lets talk about it! Can I pass the test to become a U.S. Citizen?"
+    description "I hope everyone is having a great day! :)&#10;&#10;Link to Whiteshift: https://books.google.co.kr/books/about/Whiteshift.html?id=tFZWDwAAQBAJ&#38;printsec=frontcover&#38;source=kp_read_button&#38;hl=en&#38;redir_esc=y#v=onepage&#38;q&#38;f=false&#10;&#10;Chad Community Discord: https://discord.gg/ht68APzBdR&#10;&#10;I will be uploading more videos like this in the future I hope you all have a great day!&#10;&#10;If you have any issues with the video please let me know.&#10;&#10;TAGS: dw news&#10;great replacement&#10;conspiracy theory&#10;identitarianism&#10;politics&#10;school shootings&#10;zenmour&#10;breaking news&#10;conspiracy theories&#10;the great replacement conspiracy&#10;news&#10;tucker carlson&#10;happening now&#10;&#10;HASHTAGS: #funny #politics #conspiracy &#10;&#10;TITLE: The GREAT REPLACEMENT! || Lets talk about it! Can I pass the test to become a U.S. Citizen?"
+    channeltitle "BFISTMP"
+    channelid "UCHOuYcNefYMoMJb8Olk5Npg"
+    favcount 0
+    viewcount 30
+    likecount 2
+    commentcount 5
+    duration "PT7M15S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.11222478
+    PERSPECTIVEPROFANITY 0.04763118
+    PERSPECTIVEFLIRTATION 0.458663
+    PERSPECTIVETHREAT 0.30181772
+    PERSPECTIVETOXICITY 0.12116077
+    PERSPECTIVEINSULT 0.04650085
+    PERSPECTIVEIDENTITYATTACK 0.1132219
+    PERSPECTIVEINFLAMMATORY 0.19080713
+    indegree 1
+    cluster 6
+  ]
+  node
+  [
+    id 331
     label "grrFVLhjlow"
     step 0
     date "2022-05-17T20:36:48Z"
@@ -7489,24 +6768,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT30S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.027620025
+    PERSPECTIVEPROFANITY 0.03819078
+    PERSPECTIVEFLIRTATION 0.30605853
+    PERSPECTIVETHREAT 0.20134565
+    PERSPECTIVETOXICITY 0.06132676
+    PERSPECTIVEINSULT 0.08261162
+    PERSPECTIVEIDENTITYATTACK 0.1329526
+    PERSPECTIVEINFLAMMATORY 0.5879333
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 250
-    name "332"
+    id 332
     label "w3PyPzzicSs"
     step 0
     date "2022-05-17T12:15:01Z"
@@ -7519,54 +6795,48 @@ graph
     likecount 49
     commentcount 15
     duration "PT25M13S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.14940152
+    PERSPECTIVEPROFANITY 0.13315316
+    PERSPECTIVEFLIRTATION 0.4002989
+    PERSPECTIVETHREAT 0.25686166
+    PERSPECTIVETOXICITY 0.14014533
+    PERSPECTIVEINSULT 0.09443383
+    PERSPECTIVEIDENTITYATTACK 0.139225
+    PERSPECTIVEINFLAMMATORY 0.6434755
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 5
   ]
   node
   [
-    id 251
-    name "333"
-    label "Sni0EJgJrls"
+    id 336
+    label "eXTh2VKumt0"
     step 0
-    date "2022-07-12T14:15:04Z"
-    title "The Snowmen Attacked My Possessed Car in The Long Drive Mods!"
-    description "The Snowmen Attacked My Possessed Car in The Long Drive Mods! Today Camodo Gaming looks for the Karl in The Long Drive game. This is an apocalyptic driving game like Jalopy.&#10;&#10;Check out these games:&#10;&#10;The Long Drive: https://www.youtube.com/playlist?list=PLN_hC9GPyucwUl8MIACEqN0qQSejFUHBP&#10;&#10;BeamNG: https://www.youtube.com/watch?v=R0V-xHav8ro&#38;list=PLN_hC9GPyucyNDVlMqVfHHa4c_5QlALZU&#10;&#10;Stormworks: https://www.youtube.com/watch?v=9MzzaCQ3vI4&#38;list=PLN_hC9GPyucy8yGaIx77x32jWnc-yuf8z&#10;&#10;Follow me! &#10;Twitter: https://twitter.com/Camodo_Gaming&#10;Instagram: https://www.instagram.com/camodo_yt/&#10;Merch: https://teespring.com/stores/camodo-gamin&#10;Discord of mods: https://discord.gg/ftxZDVEzzT"
-    channeltitle "Camodo Gaming"
-    channelid "UCC6ulNJ-KDoIa3VI2gcvQpA"
+    date "2022-05-18T11:34:01Z"
+    title "The Great Replacement Theory"
+    description "Today we go in depth with recent massacre at Tops Grocery Store, Buffalo New York . We discuss the Great Replacement Theory as well | we also discuss the recent passing of Kevin Samuel as well, also misunderstandings in dating dynamics."
+    channeltitle "West Coast&#8217;s Greatest Voice"
+    channelid "UCKGcqtSU0hnvpFjAIKFnrIg"
     favcount 0
-    viewcount 81385
-    likecount 3323
-    commentcount 342
-    duration "PT14M56S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    viewcount 15
+    likecount 0
+    commentcount 0
+    duration "PT45M38S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.05292182
+    PERSPECTIVEPROFANITY 0.039174315
+    PERSPECTIVEFLIRTATION 0.25816464
+    PERSPECTIVETHREAT 0.0831241
+    PERSPECTIVETOXICITY 0.01999182
+    PERSPECTIVEINSULT 0.032757398
+    PERSPECTIVEIDENTITYATTACK 0.04741616
+    PERSPECTIVEINFLAMMATORY 0.11206639
+    indegree 1
+    cluster 11
   ]
   node
   [
-    id 252
-    name "337"
+    id 337
     label "_ijLyTCVNng"
     step 0
     date "2022-05-17T20:19:34Z"
@@ -7579,54 +6849,48 @@ graph
     likecount 1
     commentcount 0
     duration "PT11S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.0356109
+    PERSPECTIVEPROFANITY 0.048743766
+    PERSPECTIVEFLIRTATION 0.22872368
+    PERSPECTIVETHREAT 0.15627213
+    PERSPECTIVETOXICITY 0.039254878
+    PERSPECTIVEINSULT 0.07425997
+    PERSPECTIVEIDENTITYATTACK 0.1468288
+    PERSPECTIVEINFLAMMATORY 0.7079002
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 253
-    name "338"
-    label "thYIBWWsUx0"
+    id 341
+    label "hG1wh665EYc"
     step 0
-    date "2022-06-27T13:31:31Z"
-    title "Conservative Confederate Republican White Nazionalist Replacement Theory Nutshelled"
-    description ""
-    channeltitle "Josh Brandon Media"
-    channelid "UCUzc42WGyC18vzfaJIs8aaw"
+    date "2022-05-16T19:33:45Z"
+    title "Buffalo Shooting  The Great Replacement Theory || EP 726"
+    description "10 people killed in a racially motivated mass shooting at a Buffalo supermarket, police say. The 18-year-old suspect is in custody&#10;&#10;https://www.cnn.com/2022/05/14/us/buffalo-ny-supermarket-multiple-shooting/index.html&#10;&#10;Hochul saying social media company CEO&#8217;s must be held accountable&#10;&#10;https://thehill.com/news/sunday-talk-shows/3489008-hochul-saying-social-media-company-ceos-must-be-held-accountable/&#10;&#10;Buffalo Shooting Will Prompt Measures 'To Combat Domestic Terrorism,' Says Pelosi&#10;&#10;https://reason.com/2022/05/16/buffalo-shooting-will-prompt-measures-to-combat-domestic-terrorism-says-pelosi/&#10;&#10;Conservative media is familiar with Buffalo suspect&#8217;s alleged &#8216;theory&#8217;&#10;&#10;https://www.washingtonpost.com/media/2022/05/15/buffalo-suspect-great-replacement-theory-conservative-media/&#10;&#10;Buffalo Shooter Put Name of Waukesha Christmas Parade Victim on Rifle&#10;&#10;https://news.yahoo.com/did-buffalo-shooter-put-names-041343261.html&#10;&#10;&#10;&#10;&#10;&#10;Fight back against what&#8217;s happening in the world. Stand up,&#10;&#10;protect yourself, and find out how to secure your new life abroad&#10;&#10;Register now free!&#10;&#10;https://www.ExpatMoneySummit.com&#10;&#10;Join the private discord &#38; chat during the show!&#10;&#10;joingml.com&#10;&#10;Need someone to talk to?&#10;&#10;Betterhelp.com/gml&#10;&#10;Interested in learning how to Day Trade?&#10;&#10;Mastermytrades.com&#10;&#10;Like our intro song?&#10;&#10;https://www.3pillmorning.com&#10;&#10;Advertise on our podcast!"
+    channeltitle "Good Morning Liberty"
+    channelid "UCz3YDYP6bFMR4BAPCZdvk1g"
     favcount 0
-    viewcount 9
-    likecount 1
-    commentcount 0
-    duration "PT1M39S"
+    viewcount 45
+    likecount -1
+    commentcount 1
+    duration "PT46M40S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.13165788
+    PERSPECTIVEPROFANITY 0.15302277
+    PERSPECTIVEFLIRTATION 0.39547175
+    PERSPECTIVETHREAT 0.6817855
+    PERSPECTIVETOXICITY 0.12116077
+    PERSPECTIVEINSULT 0.066375606
+    PERSPECTIVEIDENTITYATTACK 0.12321175
+    PERSPECTIVEINFLAMMATORY 0.13380867
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 10
   ]
   node
   [
-    id 254
-    name "342"
+    id 342
     label "rEuSmWTqZOs"
     step 0
     date "2022-05-18T19:00:30Z"
@@ -7639,144 +6903,129 @@ graph
     likecount 25
     commentcount 7
     duration "PT22M29S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.16046129
+    PERSPECTIVEPROFANITY 0.1073795
+    PERSPECTIVEFLIRTATION 0.35716778
+    PERSPECTIVETHREAT 0.19888784
+    PERSPECTIVETOXICITY 0.09978092
+    PERSPECTIVEINSULT 0.040336672
+    PERSPECTIVEIDENTITYATTACK 0.077065185
+    PERSPECTIVEINFLAMMATORY 0.31637445
     indegree 6
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "L"
-    cluster 9
-  ]
-  node
-  [
-    id 255
-    name "343"
-    label "KlYRg9h3pSU"
-    step 0
-    date "2022-05-20T14:27:52Z"
-    title "OOSAB: Live-Steam EP:19 Buffalo, NY Mass Shooting, The Great Replacement Theory, Random S*** Tal"
-    description "Welcome to the Opinions of Some Average Bros podcast!! Just Some Average Bros giving their Opinions on current events, trending topics, societal problems, films, movies, gender relations, relationships and so much more. #comedy #opentalk #goodvibesonly"
-    channeltitle "Opinions of Some Average Bros "
-    channelid "UCrx3R5IMsWSvHbpVEy67aug"
-    favcount 0
-    viewcount 9
-    likecount 2
-    commentcount 0
-    duration "PT1H22M10S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 256
-    name "345"
-    label "K20pe6JNScQ"
-    step 0
-    date "2022-07-11T18:17:18Z"
-    title "The Great Replacement - Nationalist Motivation - Death Before Dishonour"
-    description ""
-    channeltitle "White Lad Minority"
-    channelid "UCjATZ9JU9bbsxcGEndwo2eg"
-    favcount 0
-    viewcount 11
-    likecount 2
-    commentcount 0
-    duration "PT44S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 257
-    name "350"
-    label "ZaXtBbzqv1o"
-    step 0
-    date "2022-07-08T13:07:30Z"
-    title "Commonwealth Transportation Board Meeting - June 21, 2022"
-    description "2:00&#10;Federal Multimodal Project Discretionary Grants&#10;Virginia 2022 Applications&#10;Ben Mannell, Virginia Department of Transportation&#10;&#10;24:50&#10;Bowers Hill Environmental Impact Statement&#10;Chris Swanson, Virginia Department of Transportation&#10;&#10;58:17&#10;2021 Transportation Initiative Final Report&#10;Wendy Thomas, Virginia Department of Transportation&#10;&#10;1:06:32&#10;Rail Industrial Access&#10;Mike Todd, Virginia Department of Rail and Public Transportation&#10;&#10;1:34:04&#10;FY 2023 - 2028 CTF Six-Year Financial Plan and&#10;FY 2023 CTF and VDOT Budget&#10;Laura Farmer, Virginia Department of Transportation&#10;&#10;2:34:54&#10;FY 2023 &#8211; DRPT Budget and Six-Year Improvement Program&#10;Tanyea Darrisaw, Virginia Department of Rail and Public Transportation&#10;Grant Sparks, Virginia Department of Rail and Public Transportation&#10;Emily Stock, Virginia Department of Rail and Public Transportation&#10;&#10;2:52:19&#10;Final FY 2023 &#8211; 2028&#10;Six-Year Improvement Program&#10;Kimberly Pryor, Virginia Department of Transportation&#10;&#10;2:57:04&#10;SMART SCALE Proposed Project Cancellation&#10;Brambleton Ave/Tidewater Drive Intersection Improvements UPC&#10;111017- Located in the Hampton Roads District&#10;Kimberly Pryor, Virginia Department of Transportation&#10;&#10;3:00:57&#10;SMART SCALE Budget Increase Request&#10;Brambleton Ave/Park Ave Intersection Improvements&#10;UPC 111019- Located in the Hampton Roads District&#10;Kimberly Pryor, Virginia Department of Transportation"
-    channeltitle "VDOT LIVE"
-    channelid "UCrUxIE2IC-oT99Ij2X5TGig"
-    favcount 0
-    viewcount 48
-    likecount 0
-    commentcount -1
-    duration "PT4H24M37S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 258
-    name "352"
-    label "U5cfFLLmGA8"
-    step 0
-    date "2022-07-10T18:18:27Z"
-    title "Has Russia  into British politics? | Andrew Tettenborn | TVP World"
-    description "Our guest summarized Boris Johnson's term of office and took on who might become next British PM.&#10;&#10;Bringing you all the latest daily news and updates, TVP World is Poland's first English-language channel where you can find world news as seen from the Polish perspective and the latest news from the CEE region. Follow us on Twitter, Facebook, Instagram. &#10; &#10;https://tvpworld.com/ &#10;https://www.facebook.com/tvpworldcom &#10;https://twitter.com/TVPWorld_com &#10;https://www.instagram.com/tvp_world/"
-    channeltitle "TVP World"
-    channelid "UCBjUPsHj7bXt24SUWNoZ0zA"
-    favcount 0
-    viewcount 2189
-    likecount 72
-    commentcount 23
-    duration "PT15M25S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 259
-    name "356"
+    id 344
+    label "UyU5Ps5ESJ0"
+    step 0
+    date "2022-05-18T13:01:10Z"
+    title "Another Fox News Host Goes All In On "
+    description "Fox News host Mark Levin blatantly supported the &#8220;great replacement theory&#8221; Tuesday on his radio show, joining colleague Tucker Carlson and top House Republican Elise Stefanik (R-N.Y.) in pushing a racist conspiracy embraced by the gunman charged in the Buffalo, New York, mass killing. (Listen below.) &#10;Carlson, denounced by political leaders for promoting the baseless idea hundreds of times on his prime time show, on Tuesday attempted to dance around the controversy by declaring he wasn&#8217;t sure"
+    channeltitle "Ashleigh Kman"
+    channelid "UC4ldztgLyJUSVSJkiknVSNw"
+    favcount 0
+    viewcount 11
+    likecount 0
+    commentcount 0
+    duration "PT2M47S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.074168175
+    PERSPECTIVEPROFANITY 0.09798929
+    PERSPECTIVEFLIRTATION 0.3733551
+    PERSPECTIVETHREAT 0.2604413
+    PERSPECTIVETOXICITY 0.13700475
+    PERSPECTIVEINSULT 0.15968923
+    PERSPECTIVEIDENTITYATTACK 0.2617319
+    PERSPECTIVEINFLAMMATORY 0.26541677
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 349
+    label "nLkPwx_nI4A"
+    step 0
+    date "2022-07-11T04:18:39Z"
+    title "Reaction and thoughts on the Great Replacement theory explained by Mr. Beat pt 3"
+    description "Conclusion. &#10;&#10;Here's the link to the content &#10;https://youtu.be/pyUQP-R48yg&#10;&#10;YT: https://youtube.com/channel/UCHISMWJS5F3ifF85LxLDmmA&#10;&#10;Please share, like, comment, and subscribe."
+    channeltitle "Zachariah Laryea"
+    channelid "UCHISMWJS5F3ifF85LxLDmmA"
+    favcount 0
+    viewcount 1
+    likecount 0
+    commentcount 0
+    duration "PT2M1S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.036021627
+    PERSPECTIVEPROFANITY 0.022300286
+    PERSPECTIVEFLIRTATION 0.46655875
+    PERSPECTIVETHREAT 0.21465015
+    PERSPECTIVETOXICITY 0.013397297
+    PERSPECTIVEINSULT 0.030354733
+    PERSPECTIVEIDENTITYATTACK 0.024198564
+    PERSPECTIVEINFLAMMATORY 0.10499504
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 351
+    label "TgQ5K0CHL1Y"
+    step 0
+    date "2022-05-19T18:43:52Z"
+    title "Democrats Have Been Pushing The Great Replacement Theory FOR YEARS"
+    description "Share this with everyone you know!!!"
+    channeltitle "Dan Adams"
+    channelid "UCGLYdO_3eADVmU8Lx55Vy4Q"
+    favcount 0
+    viewcount 51
+    likecount 1
+    commentcount 2
+    duration "PT2M20S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.08304063
+    PERSPECTIVEPROFANITY 0.10742557
+    PERSPECTIVEFLIRTATION 0.32521677
+    PERSPECTIVETHREAT 0.28995413
+    PERSPECTIVETOXICITY 0.07730943
+    PERSPECTIVEINSULT 0.15589626
+    PERSPECTIVEIDENTITYATTACK 0.25291756
+    PERSPECTIVEINFLAMMATORY 0.32050768
+    indegree 3
+    cluster 7
+  ]
+  node
+  [
+    id 355
+    label "dWPDYVz04Gg"
+    step 0
+    date "2022-05-20T12:59:50Z"
+    title "The Great Replacement Theory isnt what the MSM claims"
+    description "The mainstream media is deliberately misrepresenting the Great Replacement Theory in order to associate the Buffalo shooter with conservatives and Republicans.&#10;&#10;--&#10;&#10;Click the subscribe button above to make sure you don't miss a single video from Liz Wheeler.&#10;&#10;The Liz Wheeler Show is a personal, researched, and unapologetic take on how we think about our culture&#8212;or what's left of it. This courageous new show shines a floodlight on the shadows cast by the mainstream media, illuminating what they don't want you to see and elucidating their murky motives along the way.&#10;&#10;--&#10;&#10;Get VIP access to The Liz Wheeler Show and join her censorship-free community on Locals at https://lizwheelershow/locals.&#10;&#10;-- &#10;&#10;Stay in touch with Liz on social media:&#10;&#10;Facebook: https://www.facebook.com/OfficialLizWheeler&#10;Twitter: https://twitter.com/Liz_Wheeler&#10;Instagram: https://www.instagram.com/liz_oann&#10;Rumble: https://rumble.com/LizWheeler&#10;Website: https://lizwheelershow.com&#10;&#10;--&#10;&#10;Soundfront is a premium podcast creative company based in New York. Soundfront partners with top content creators to launch best-in-class video podcasts, including the likes of Verdict with Ted Cruz, The Liz Wheeler Show, and Young Heretics with Spencer Klavan. Learn more: https://soundfront.com&#10;&#10;#LizWheeler #TheLizWheelerShow #Politics #News #ConservativeMedia"
+    channeltitle "Liz Wheeler"
+    channelid "UCXdOgiTcdHCpQOyDxgwHdDg"
+    favcount 0
+    viewcount 7082
+    likecount 928
+    commentcount 127
+    duration "PT6M19S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.04219282
+    PERSPECTIVEPROFANITY 0.049598716
+    PERSPECTIVEFLIRTATION 0.22729494
+    PERSPECTIVETHREAT 0.07448472
+    PERSPECTIVETOXICITY 0.029984225
+    PERSPECTIVEINSULT 0.0698425
+    PERSPECTIVEIDENTITYATTACK 0.07222838
+    PERSPECTIVEINFLAMMATORY 0.37176618
+    indegree 3
+    cluster 1
+  ]
+  node
+  [
+    id 356
     label "sNgeX4BL6zo"
     step 0
     date "2021-04-23T15:40:57Z"
@@ -7789,24 +7038,21 @@ graph
     likecount 0
     commentcount 1
     duration "PT18S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.118434094
+    PERSPECTIVEPROFANITY 0.27461302
+    PERSPECTIVEFLIRTATION 0.35874367
+    PERSPECTIVETHREAT 0.23417372
+    PERSPECTIVETOXICITY 0.37083253
+    PERSPECTIVEINSULT 0.48227072
+    PERSPECTIVEIDENTITYATTACK 0.71668684
+    PERSPECTIVEINFLAMMATORY 0.7279288
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 8
   ]
   node
   [
-    id 260
-    name "357"
+    id 357
     label "cjT50Bmq5Rg"
     step 0
     date "2022-05-17T06:22:32Z"
@@ -7819,24 +7065,21 @@ graph
     likecount 0
     commentcount 1
     duration "PT3M19S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.042837944
+    PERSPECTIVEPROFANITY 0.036661226
+    PERSPECTIVEFLIRTATION 0.17974919
+    PERSPECTIVETHREAT 0.07375741
+    PERSPECTIVETOXICITY 0.017562259
+    PERSPECTIVEINSULT 0.024233846
+    PERSPECTIVEIDENTITYATTACK 0.034097634
+    PERSPECTIVEINFLAMMATORY 0.08352181
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 4
   ]
   node
   [
-    id 261
-    name "358"
+    id 358
     label "f9agK_O01Ic"
     step 0
     date "2022-05-17T20:29:36Z"
@@ -7849,54 +7092,48 @@ graph
     likecount 0
     commentcount 0
     duration "PT31S"
+    sentiment -0.25
+    PERSPECTIVESEXUALLYEXPLICIT 0.01772275
+    PERSPECTIVEPROFANITY 0.12865034
+    PERSPECTIVEFLIRTATION 0.18966496
+    PERSPECTIVETHREAT 0.057845477
+    PERSPECTIVETOXICITY 0.31725118
+    PERSPECTIVEINSULT 0.3240488
+    PERSPECTIVEIDENTITYATTACK 0.4050794
+    PERSPECTIVEINFLAMMATORY 0.62832505
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 4
   ]
   node
   [
-    id 262
-    name "359"
-    label "_EfBkRFV2UI"
+    id 361
+    label "uj_52ylmUSU"
     step 0
-    date "2022-07-10T16:00:20Z"
-    title "All of Columbos Real Wife Appearances in Columbo | Columbo"
-    description "Shera Danese featured in more episodes of Columbo than any other actress. &#10;&#10;Stream Columbo now on Peacock: https://pck.tv/3oBPwpJ&#10;&#10;Clips from:&#10;Fade In to Murder&#10;Murder Under Glass&#10;Murder, a Self Portrait&#10;Columbo and the Murder of a Rock Star&#10;A Trace of Murder&#10;Undercover&#10;&#10;Your favorite shows, movies and more are here. Stream now on Peacock: www.peacocktv.com&#10;&#10;He's the greatest detective of all time, and he finally has his own official channel! Follow us for the clips and compilations of the most iconic murders and moments from the classic series.&#10;&#10;Just one more thing... Don't forget to subscribe: https://bit.ly/Columbo_YT&#10;and watch the full episodes on iTunes: https://bit.ly/Columbo_FullEpisodes&#10;&#10;#Columbo #PeterFalk #SheraDanese"
-    channeltitle "Columbo"
-    channelid "UCzXwq43cFscWT4ZX9QbWwZw"
+    date "2021-10-03T14:09:18Z"
+    title "What is the Great Replacement Theory?"
+    description ""
+    channeltitle "Lefty Philosophy"
+    channelid "UCg9SlItxjwkg0rrtr_LHY1A"
     favcount 0
-    viewcount 58730
-    likecount 969
-    commentcount 202
-    duration "PT10M25S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    viewcount 84
+    likecount 11
+    commentcount 4
+    duration "PT46S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.029854858
+    PERSPECTIVEPROFANITY 0.014903679
+    PERSPECTIVEFLIRTATION 0.2472633
+    PERSPECTIVETHREAT 0.036316015
+    PERSPECTIVETOXICITY 0.01527153
+    PERSPECTIVEINSULT 0.015210276
+    PERSPECTIVEIDENTITYATTACK 0.020936077
+    PERSPECTIVEINFLAMMATORY 0.10564373
+    indegree 1
+    cluster 4
   ]
   node
   [
-    id 263
-    name "362"
+    id 362
     label "5V4mx83CTzs"
     step 0
     date "2020-01-03T22:13:08Z"
@@ -7909,54 +7146,48 @@ graph
     likecount 420
     commentcount 144
     duration "PT33M15S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.072517365
+    PERSPECTIVEPROFANITY 0.090390176
+    PERSPECTIVEFLIRTATION 0.490313
+    PERSPECTIVETHREAT 0.118463
+    PERSPECTIVETOXICITY 0.10515087
+    PERSPECTIVEINSULT 0.098319136
+    PERSPECTIVEIDENTITYATTACK 0.112647526
+    PERSPECTIVEINFLAMMATORY 0.031360786
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 264
-    name "363"
-    label "3iDO3Mf4O7w"
-    step 0
-    date "2021-06-15T11:00:01Z"
-    title "Truth and The Great Replacement"
-    description "The January 6th Capitol insurrection was a divisive moment in recent history that has scarred the country&#8217;s heart and soul. Changes in society has spurred many to believe in the great replacement, yet what is it, really? Our host Bill Stierle and his co-host, Tom, discuss the events of January 6th and the surprising results of the research of Mr. Robert Pape on the insurrectionists. Bill and Tom analyze the events and talk about why they think the events of January 6th happened. Join in as they look at things from a different perspective and share their insights on these events.&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;Bill Stierle is a communication specialist who has been working with individuals and businesses for over 27 years. Bill combines two powerful communication techniques to help people understand and apply thinking styles, personal strengths, and increasing sales and marketing exposure (HBDI &#38; NVC).&#10;&#10;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#9644;&#10;&#10;&#9658; Contact his team to discuss you or your team&#8217;s needs today!&#10;bill@corporateculturedevelopment.com&#10;&#10;&#9658;Website&#10;billstierle.com&#10;&#10;&#9658;Facebook&#10;facebook.com/corporateculturedevelopment/&#10;&#10;&#9658;Instagram&#10;https://www.instagram.com/billstierle/"
-    channeltitle "Bill Stierle"
-    channelid "UCSO_ZBWR6vY4bmEusroNHaw"
-    favcount 0
-    viewcount 75
-    likecount 1
-    commentcount 0
-    duration "PT32M9S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 265
-    name "365"
+    id 364
+    label "5MZkI4seTR8"
+    step 0
+    date "2022-05-26T10:58:45Z"
+    title "What is race replacement theory"
+    description "What is race replacement theory"
+    channeltitle "Lav Luv"
+    channelid "UCphJhhCfG6wS2NMUqvktYDw"
+    favcount 0
+    viewcount 90
+    likecount 8
+    commentcount 3
+    duration "PT5M57S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.07506634
+    PERSPECTIVEPROFANITY 0.119880795
+    PERSPECTIVEFLIRTATION 0.20529649
+    PERSPECTIVETHREAT 0.14669305
+    PERSPECTIVETOXICITY 0.08850401
+    PERSPECTIVEINSULT 0.11074571
+    PERSPECTIVEIDENTITYATTACK 0.2466198
+    PERSPECTIVEINFLAMMATORY 0.44014716
+    indegree 0
+    cluster 9
+  ]
+  node
+  [
+    id 365
     label "W8j-c3DpAc0"
     step 0
     date "2022-05-18T00:47:53Z"
@@ -7969,24 +7200,21 @@ graph
     likecount 2
     commentcount 1
     duration "PT20S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.025480248
+    PERSPECTIVEPROFANITY 0.021868387
+    PERSPECTIVEFLIRTATION 0.20967159
+    PERSPECTIVETHREAT 0.052353017
+    PERSPECTIVETOXICITY 0.022945397
+    PERSPECTIVEINSULT 0.024890019
+    PERSPECTIVEIDENTITYATTACK 0.025729384
+    PERSPECTIVEINFLAMMATORY 0.23681268
     indegree 2
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 1
   ]
   node
   [
-    id 266
-    name "366"
+    id 366
     label "9XmmPAheIfQ"
     step 0
     date "2021-04-15T16:39:52Z"
@@ -7999,54 +7227,48 @@ graph
     likecount 6
     commentcount 7
     duration "PT5M49S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.053323217
+    PERSPECTIVEPROFANITY 0.04789503
+    PERSPECTIVEFLIRTATION 0.30527088
+    PERSPECTIVETHREAT 0.10252612
+    PERSPECTIVETOXICITY 0.03049926
+    PERSPECTIVEINSULT 0.0665552
+    PERSPECTIVEIDENTITYATTACK 0.11771856
+    PERSPECTIVEINFLAMMATORY 0.14237952
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 267
-    name "367"
-    label "iBcEZMtU0cM"
+    id 369
+    label "QabYOjtNguA"
     step 0
-    date "2017-07-19T21:22:58Z"
-    title "[Mirror] The Great Replacement Isnt Real Shaun and Jen"
-    description "So now the false flagging of videos has hit Shaun and Jen.&#10;It's important for us to show that this false flagging will only result in even more people seeing the video than would have if it hadn't been flagged. So that's why I'm mirroring it here.&#10;&#10;Facebook: https://www.facebook.com/HogandDice/&#10;Twitter: https://twitter.com/TheHogandDice&#10;Redbubble: http://www.redbubble.com/people/hog-and-dice/shop?asc=u&#10;Bandcamp: https://thehoganddice.bandcamp.com/"
-    channeltitle "Hog and Dice"
-    channelid "UC6Nvx8uIm_zBe6tCfTvNsFQ"
+    date "2022-05-18T18:49:50Z"
+    title "Replacement Theory Pushed By Bernie  The Clintons (Video)"
+    description "The mainstream left liberals have predictably responded to the Buffalo mass shooting by pointing the finger of blame at Tucker Carlson for his promotion of the &#34;Great Replacement Theory&#34; -- the idea that Democrats are encouraging brown-skinned immigrant to come to the United States to &#34;replace&#34; white people and forever change the nation's demographics. But you know who else used to demonize immigrants in a similar manner? The answer might surprise you.&#10;&#10;Jimmy and American comedian Kurt Metzger discuss prominent Democrats' past statements that they'd prefer you not remember.&#10;&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;Go to a Live Show: https://jimmydorecomedy.com/tour &#10;Subscribe to Our Newsletter: https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;The Jimmy Dore Show Website:  https://jimmydorecomedy.com/&#10;&#10;Kurt Metzger on Twitter: https://twitter.com/kurtmetzger&#10;Kurt&#8217;s website: http://www.KurtMetzgerComedy.com&#10; &#10;LIVESTREAM &#38; LIVE SHOW ANNOUNCEMENTS: &#10;Join the Email list:  https://mailchi.mp/jimmydorecomedy/ytlivestreams&#10;Twitter: https://twitter.com/jimmy_dore&#10;Facebook:  https://www.facebook.com/JimmyDoreShow&#10;Instagram: https://www.instagram.com/thejimmydoreshow&#10; &#10;WATCH / LISTEN FREE:&#10;Videos: https://jimmydorecomedy.com/watch &#10;&#10;Podcasts: https://jimmydorecomedy.com/podcasts &#10;(Also available on iTunes, Apple Podcasts, Spotify, Google Podcasts, or your favorite podcast player.)&#10; &#10;ACCESS TO FULL REPLAYABLE LIVESTREAMS:&#10;Become a Premium Member: https://jimmydorecomedy.com/join&#10;&#10;SUPPORT THE JIMMY DORE SHOW:&#10;Make a Donation:  https://jimmydorecomedy.com/donate&#10;Buy Official Merch (Tees, Sweatshirts, Hats, Bags):  https://jimmydorecomedy.com/store&#10; &#10;DOWNLOAD OUR MOBILE APP:&#10;App Store: https://apps.apple.com/us/app/jimmy-dore/id839294547&#10;Google Play: https://play.google.com/store/apps/details?id=com.jimmydore.jimmydore&#10;&#10;Jimmy Dore on Twitter: https://twitter.com/Jimmy_Dore&#10;Stef Zamorano on Twitter: https://twitter.com/miserablelib&#10;&#10;About The Jimmy Dore Show:&#10;#TheJimmyDoreShow is a hilarious and irreverent take on news, politics and culture featuring Jimmy Dore, a professional stand up comedian, author and podcaster. The show is also broadcast on Pacifica Radio Network stations throughout the country."
+    channeltitle "The Jimmy Dore Show"
+    channelid "UC3M7l8ved_rYQ45AVzS0RGA"
     favcount 0
-    viewcount 323
-    likecount 8
-    commentcount 1
-    duration "PT29M16S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    viewcount 183848
+    likecount 11520
+    commentcount 3702
+    duration "PT23M17S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.24177666
+    PERSPECTIVEPROFANITY 0.24776094
+    PERSPECTIVEFLIRTATION 0.4902641
+    PERSPECTIVETHREAT 0.34784046
+    PERSPECTIVETOXICITY 0.060927194
+    PERSPECTIVEINSULT 0.19670004
+    PERSPECTIVEIDENTITYATTACK 0.1740596
+    PERSPECTIVEINFLAMMATORY 0.10873441
+    indegree 1
+    cluster 4
   ]
   node
   [
-    id 268
-    name "370"
+    id 370
     label "tAcTndagmPQ"
     step 0
     date "2022-06-10T22:15:09Z"
@@ -8059,24 +7281,21 @@ graph
     likecount 4
     commentcount 1
     duration "PT11M36S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.21893127
+    PERSPECTIVEPROFANITY 0.1799162
+    PERSPECTIVEFLIRTATION 0.39740753
+    PERSPECTIVETHREAT 0.0860437
+    PERSPECTIVETOXICITY 0.31714454
+    PERSPECTIVEINSULT 0.20618936
+    PERSPECTIVEIDENTITYATTACK 0.307244
+    PERSPECTIVEINFLAMMATORY 0.47288558
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 1
   ]
   node
   [
-    id 269
-    name "371"
+    id 371
     label "Awd2HdYiwZc"
     step 0
     date "2022-05-29T10:33:09Z"
@@ -8089,24 +7308,21 @@ graph
     likecount 2879
     commentcount 1596
     duration "PT7M2S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.018441856
+    PERSPECTIVEPROFANITY 0.010785686
+    PERSPECTIVEFLIRTATION 0.17675763
+    PERSPECTIVETHREAT 0.024806693
+    PERSPECTIVETOXICITY 0.013258465
+    PERSPECTIVEINSULT 0.016622989
+    PERSPECTIVEIDENTITYATTACK 0.036316797
+    PERSPECTIVEINFLAMMATORY 0.15062346
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Educational"
-    leftright "C"
     cluster 2
   ]
   node
   [
-    id 270
-    name "372"
+    id 372
     label "lUSlBVjGqrQ"
     step 0
     date "2022-05-19T11:00:30Z"
@@ -8119,234 +7335,210 @@ graph
     likecount 35
     commentcount 35
     duration "PT12M34S"
+    sentiment -0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.08410997
+    PERSPECTIVEPROFANITY 0.15287432
+    PERSPECTIVEFLIRTATION 0.3927003
+    PERSPECTIVETHREAT 0.24960786
+    PERSPECTIVETOXICITY 0.20302857
+    PERSPECTIVEINSULT 0.3000124
+    PERSPECTIVEIDENTITYATTACK 0.54114723
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 8
   ]
   node
   [
-    id 271
-    name "373"
-    label "mgrTchMXL5Q"
+    id 374
+    label "YKaYIN8TR-8"
     step 0
-    date "2022-07-10T16:15:02Z"
-    title "Hermitcraft RECAP - Season 9 Week 18"
-    description "This week, on Hermitcraft!&#10;&#10;This episode covers videos released between Saturday July 2 and Friday July 8, 2022.&#10;&#10;Wide-eyed Warden in the thumbnail is an actual texture someone's made! You can download it here:&#10;https://www.planetminecraft.com/mob-skin/worried-warden-and-eyes/&#10;Awesome job juanclack9878!&#10;&#10;JOIN OUR DISCORD SERVER! https://discord.gg/GpNhcD5&#10;&#8594; r/hermitcraft Discord: https://discord.gg/U5QbH9pWG4&#10;&#8594; Website: http://www.hermitcraft.com &#10;&#8594; Twitter: https://twitter.com/hermitcraft_ &#10;&#8594; Reddit: http://www.reddit.com/r/HermitCraft &#10;&#8594; Twitch Channel: http://www.twitch.tv/hermitcraft_/ &#10;&#8594; Background music: http://www.bensound.com/&#10;&#10;Hardcore 1.19 series:&#10;Zloy's first episode: https://www.youtube.com/watch?v=bI1jsF12pjw&#10;Lyarrah's first episode: https://www.youtube.com/watch?v=gVaa3i3V8co"
-    channeltitle "Hermitcraft Recap - a show by fans for fans"
-    channelid "UC32w6uX5qtmUtF4QQQ2PKaQ"
+    date "2022-07-11T04:07:30Z"
+    title "Reaction and thoughts on the Great Replacement theory explained by Mr. Beat pt 2"
+    description "Here's the link to the content &#10;https://youtu.be/pyUQP-R48yg&#10;&#10;YT: https://youtube.com/channel/UCHISMWJS5F3ifF85LxLDmmA&#10;&#10;Please share, like, comment, and subscribe."
+    channeltitle "Zachariah Laryea"
+    channelid "UCHISMWJS5F3ifF85LxLDmmA"
     favcount 0
-    viewcount 160694
-    likecount 10568
-    commentcount 226
-    duration "PT14M44S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 2
+    likecount 0
+    commentcount 0
+    duration "PT1M51S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.032859698
+    PERSPECTIVEPROFANITY 0.021620847
+    PERSPECTIVEFLIRTATION 0.45042828
+    PERSPECTIVETHREAT 0.22456451
+    PERSPECTIVETOXICITY 0.012841969
+    PERSPECTIVEINSULT 0.02950033
+    PERSPECTIVEIDENTITYATTACK 0.020902436
+    PERSPECTIVEINFLAMMATORY 0.101182416
+    indegree 1
+    cluster 4
+  ]
+  node
+  [
+    id 376
+    label "vJ9uKiyiX6c"
+    step 0
+    date "2022-05-18T03:41:37Z"
+    title "H.O.I. Qadash Alahayam : The Brutal Truth About The Great Replacement Theory"
+    description ""
+    channeltitle "H.O.I. Las Vegas"
+    channelid "UCT0rIqRz_r3zAORIrLWoWyQ"
+    favcount 0
+    viewcount 131
+    likecount 12
+    commentcount 4
+    duration "PT27M14S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.10359986
+    PERSPECTIVEPROFANITY 0.06964221
+    PERSPECTIVEFLIRTATION 0.47226423
+    PERSPECTIVETHREAT 0.19891536
+    PERSPECTIVETOXICITY 0.039598234
+    PERSPECTIVEINSULT 0.057306614
+    PERSPECTIVEIDENTITYATTACK 0.16326551
+    PERSPECTIVEINFLAMMATORY 0.22881897
+    indegree 4
+    cluster 5
+  ]
+  node
+  [
+    id 378
+    label "-OPcLiokyxw"
+    step 0
+    date "2022-05-20T19:00:01Z"
+    title "The Great Replacement Theory Is Real and Hispanics are Taking Over"
+    description "Taken from EP 68 of the Ob and Danny Podcast.&#10;https://youtu.be/ySwkVr5ms9o"
+    channeltitle "Ob and Danny Clips"
+    channelid "UClIov0sy_sEHP9DCdAEu4tQ"
+    favcount 0
+    viewcount 19
+    likecount 0
+    commentcount 1
+    duration "PT8M26S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06002436
+    PERSPECTIVEPROFANITY 0.05401813
+    PERSPECTIVEFLIRTATION 0.2875087
+    PERSPECTIVETHREAT 0.13123134
+    PERSPECTIVETOXICITY 0.2889918
+    PERSPECTIVEINSULT 0.103664
+    PERSPECTIVEIDENTITYATTACK 0.305193
+    PERSPECTIVEINFLAMMATORY 0.72745925
+    indegree 2
     cluster 7
   ]
   node
   [
-    id 272
-    name "375"
-    label "eoiD0FSXUEs"
+    id 384
+    label "luUL__OsJBc"
     step 0
-    date "2022-07-07T20:05:04Z"
-    title "Musk Comments On Having Twins With Top Employee Doing My Best To Help"
-    description "The world&#8217;s wealthiest man Elon Musk apparently confirmed a report from Insider that he had twins with an executive at his company Neuralink last year in a characteristically cheeky tweet Thursday.&#8220;Population of Mars is still zero people!,&#8221; Musk said in a follow-up tweet referring to his hopes to colonize the planet. Musk&#8217;s $230.8 billion fortune is by far the largest in the world, according to Forbes&#8217; calculations. Musk had six children with his first wife Justine Wilson, though one of his children died in 2002. He fathered two children with his former partner, the singer Grimes, in 2020 and 2021. The couple famously named their son &#8220;X &#198; A-12&#8221; in May 2020 (Grimes says the name is pronounced &#8220;X A. I. Archangel&#8221;). Critics of the population collapse theory touted by Musk cast the idea as racist and anti-immigrant. Though Musk is right that the fertility rate declined in the U. S. from 3.67 total births per woman to 1.6 births per woman from 1960 to 2020, the U. S. population nearly doubled from 179 million to 331 million over the same time period. Recent population growth has largely been driven by immigrants. Obsession over birth rates is common among supporters of the &#8220;Great Replacement&#8221; conspiracy theory that white people are being replaced in America by people of color. Musk didn&#8217;t comment on recent pushback about the often problematic links to birth rate concerns, but said in 2019 his worries about potential population decline aren't anti-immigrant, explaining, &#8220;The common rebuttal is like, &#8216;Well what about immigration?&#8217; I&#8217;m like, &#8216;From where?&#8217;&#8221;Elon Musk Secretly Fathered Twins With Neuralink Executive, Report Says (Forbes)&#10;&#10;&#10;All data is taken from the source: http://forbes.com&#10;Article Link: https://www.forbes.com/sites/dereksaul/2022/07/07/musk-comments-on-having-twins-with-top-employee-doing-my-best-to-help-the-underpopulation-crisis/&#10;&#10;&#10;#musk #news #newstodaymsnbc #newsworldfox #newsworldwide #bbcnewsworld #"
-    channeltitle "Business News"
-    channelid "UC4RRuJzR6YbXkdUKaA1aPuw"
+    date "2022-05-16T02:42:20Z"
+    title "Payton Gendron As Buffalo Mass Shooting Inspiration"
+    description "Black Gen Z Mindset Speaks on 18-year-old White Supremacist's Glider Gremlin Payton Gendron charged in  Buffalo Mass Shooting...&#13;&#10;&#13;&#10;Instagram:&#13;&#10;https://www.instagram.com/blackgenzmi...&#13;&#10;&#13;&#10;Tik Tok: &#13;&#10;https://www.tiktok.com/@blackgenzmind...&#13;&#10;&#13;&#10;FaceBook:&#13;&#10;https://www.facebook.com/profile.php?...&#13;&#10;https://www.facebook.com/Black-Gen-Z-...&#13;&#10;&#13;&#10;&#13;&#10;Odysse:&#13;&#10;https://odysee.com/@BlackGenZMindset:22&#13;&#10;&#13;&#10;Join The Patreon:&#13;&#10;https://www.patreon.com/blackgenzmindset&#13;&#10;&#13;&#10;Email Me for Business Inquiries:&#13;&#10;blackgenzmindset@gmail.com   &#13;&#10;&#13;&#10;PayPal:&#13;&#10;&#13;&#10;https://paypal.me/blackgenzmindset?co...&#13;&#10;&#13;&#10;blackgenzmindset@gmail.com   &#13;&#10;&#13;&#10;Cash App: &#13;&#10;&#13;&#10;https://cash.app/$AutumnSaintsEnt&#13;&#10;&#13;&#10;$AutumnSaintsEnt"
+    channeltitle "Quarantino Da GAWD"
+    channelid "UCvBxYLnHf9wBGLcVQ-xf1XQ"
     favcount 0
-    viewcount 19
-    likecount 0
-    commentcount 0
-    duration "PT2M8S"
+    viewcount 132
+    likecount 8
+    commentcount 3
+    duration "PT5H18M43S"
+    sentiment 0.8176
+    PERSPECTIVESEXUALLYEXPLICIT 0.052295852
+    PERSPECTIVEPROFANITY 0.07681084
+    PERSPECTIVEFLIRTATION 0.35072324
+    PERSPECTIVETHREAT 0.7093886
+    PERSPECTIVETOXICITY 0.1250247
+    PERSPECTIVEINSULT 0.060296047
+    PERSPECTIVEIDENTITYATTACK 0.109293364
+    PERSPECTIVEINFLAMMATORY 0.20303269
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 8
   ]
   node
   [
-    id 273
-    name "377"
-    label "xChimDxvuHs"
+    id 387
+    label "Jx6jdgyrEWE"
     step 0
-    date "2022-05-31T02:51:05Z"
-    title "What is the great replacement theory? #TGR #grt"
-    description "What is the great replacement theory? #TGR"
-    channeltitle "Vital Info"
-    channelid "UCbElTLhdpDPHAD4LY7s4Eiw"
+    date "2022-05-25T22:00:32Z"
+    title "... Is This Karma? | The G.A.B. Episode 73"
+    description "On this weeks episode of The G.A.B&#8230;&#10;Kamal goes over how Replacement Theory, what it is and how these white folks is scared as hell from it&#8230; (01:27)&#10;&#10;On this weeks SAF Segment&#8230;&#10;Kamal goes over the documentary &#8220;Our Father&#8221; on Netflix review... (12:56)&#10;&#10;On this weeks Meme Time Segment&#8230;&#10;Kamal go over memes Dilbert looking characters want that white privilege (30:36), white men also including themselves in the minority groups (31:21) &#38; Ron Burgundy says that white men are angry and confused as hell&#8230; (32:17)&#10;&#10;The links below are for the podcast. It be greatly appreciated if you take a listen if you don't want to watch the show&#8230;&#10;&#10;SoundCloud: https://soundcloud.com/kamaljohnson/the-great-replacement-is-this-karma-the-gab-episode-73&#10;&#10;Apple Podcast: https://podcasts.apple.com/us/podcast/the-g-a-b/id1547660066?i=1000563708058&#10;&#10;Podpage: https://www.podpage.com/the-gab/&#10;&#10;Follow kamal johnson ent:&#10;&#10;TikTok: https://www.tiktok.com/@kamaljohnsonent?is_from_webapp=1&#38;sender_device=pc&#10;&#10;Twitter: https://twitter.com/kamaljohnsonent&#10;&#10;IG: https://www.instagram.com/kamaljohnsonent/&#10;&#10;FB: https://www.facebook.com/kamal.johnson.33&#10;&#10;We Like to Thank our Sponsors. Links Below&#8230;&#10;&#10;https://first-place-loser.myspreadshop.com/&#10;&#10;*Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS*&#10;&#10;#TheGAB&#10;#TheGreatReplacement&#10;#Karma"
+    channeltitle "Kamal Johnson Ent (The Black Seinfeld)"
+    channelid "UCEX4dFt_sMWr5rBwIaNZLIQ"
     favcount 0
-    viewcount 9
+    viewcount 28
     likecount 1
-    commentcount 0
-    duration "PT2M29S"
-    indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    commentcount 1
+    duration "PT35M46S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.054062493
+    PERSPECTIVEPROFANITY 0.049841348
+    PERSPECTIVEFLIRTATION 0.40208247
+    PERSPECTIVETHREAT 0.40204298
+    PERSPECTIVETOXICITY 0.08420804
+    PERSPECTIVEINSULT 0.067456305
+    PERSPECTIVEIDENTITYATTACK 0.050474234
+    PERSPECTIVEINFLAMMATORY 0.23102364
+    indegree 0
+    cluster 11
+  ]
+  node
+  [
+    id 389
+    label "vjbp9NsCtO4"
+    step 0
+    date "2022-05-22T08:31:25Z"
+    title "All about the Great Replacement (Also Tucker Carlson is a Weasel) - Politics  Art Stream"
+    description "We talk about the Buffalo shooter, The Great Replacement conspiracy theory, conservatives who provide cover for violent white nationalist criminals, and how Tucker Carlson is trying to weasel his way out of it all."
+    channeltitle "Why I Hate the World"
+    channelid "UCt6_5w_LV10dItcfOE4Ag_w"
+    favcount 0
+    viewcount 68
+    likecount 7
+    commentcount 3
+    duration "PT2H21M11S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.14928028
+    PERSPECTIVEPROFANITY 0.23336959
+    PERSPECTIVEFLIRTATION 0.39369094
+    PERSPECTIVETHREAT 0.26128846
+    PERSPECTIVETOXICITY 0.32563272
+    PERSPECTIVEINSULT 0.34223238
+    PERSPECTIVEIDENTITYATTACK 0.2273782
+    PERSPECTIVEINFLAMMATORY 0.733316
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 392
+    label "nJD7jWQ9zBk"
+    step 0
+    date "2022-05-24T12:49:13Z"
+    title "Lauren Southern - The Great Replacement statistics"
+    description "Lauren Southern's video on the Great Replacement that has since been deleted."
+    channeltitle "Contemporary Political Podcast Collective"
+    channelid "UCaYPux77881FCiYN1qN_59w"
+    favcount 0
+    viewcount 378
+    likecount 17
+    commentcount 18
+    duration "PT11M1S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06005925
+    PERSPECTIVEPROFANITY 0.049463935
+    PERSPECTIVEFLIRTATION 0.3333208
+    PERSPECTIVETHREAT 0.091568425
+    PERSPECTIVETOXICITY 0.023460433
+    PERSPECTIVEINSULT 0.05413807
+    PERSPECTIVEIDENTITYATTACK 0.12182851
+    PERSPECTIVEINFLAMMATORY 0.4519977
+    indegree 2
     cluster 6
   ]
   node
   [
-    id 274
-    name "379"
-    label "diVUB-Ph91o"
-    step 0
-    date "2022-05-17T00:00:15Z"
-    title "CNN was talking about the great replacement theory in 2018"
-    description ""
-    channeltitle "Mad Maad World"
-    channelid "UCEpeUcxnCmbZE4xwd3qGiMw"
-    favcount 0
-    viewcount 46
-    likecount 4
-    commentcount 0
-    duration "PT1M54S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
-  ]
-  node
-  [
-    id 275
-    name "385"
-    label "BXPebfR1lH4"
-    step 0
-    date "2022-05-16T20:06:01Z"
-    title "Column: Is not what believers say it is"
-    description "A fringe far-right theory seems to be gaining traction, as people of color are well aware.&#13;&#10;#BreakingNews #News #News2Vid&#13;&#10;&#13;&#10; News2Vid is an AI PROJECT&#13;&#10; Created by LOSMEDIA&#13;&#10; news2vid@losmedia.com"
-    channeltitle "News2Vid"
-    channelid "UCWqYLcFmJ2EeGTz6HNcMdSQ"
-    favcount 0
-    viewcount 0
-    likecount 0
-    commentcount 0
-    duration "PT31S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
-  ]
-  node
-  [
-    id 276
-    name "388"
-    label "fcoM2BSbDVM"
-    step 0
-    date "2022-05-21T11:58:21Z"
-    title "Transphobia and the Great Replacement - RE: Police Commissioner Lisa Townsend"
-    description "[Script &#38; References]&#10;https://docs.google.com/document/d/1phsoZ8v1p_Jp2Z6wAEUjTa9wAXRSJpIif8JTLX9p8Dw/edit?usp=sharing&#10;&#10;[Corrections]&#10;- I got the order of the comics shown at 09:30 wrong. Turns out they were published the other way around. This would have made more sense narratively, but I guess I gave the creator too much credit.&#10;&#10;[Chapters]&#10;00:00 - Intro &#38; Content Warning&#10;02:12 - Understanding the Great Replacement Conspiracy Theory&#10;04:20 - Antisemitism &#38; the Buffalo Shooter&#10;09:03 - Antisemitism &#38; Gender Critical Ideology&#10;18:27 - Lisa Townsend&#8217;s Antisemitic Rhetoric&#10;&#10;Hi, welcome to the Essence Of Thought YouTube channel!&#10;&#10;Please help support us and our work!&#10;http://www.patreon.com/EssenceOfThought&#10;&#10;Join our Discord!&#10;https://discord.gg/u2QMXPcAKW&#10;&#10;Feel free to follow us on FB, Twitter &#38; Instgram!&#10;https://www.facebook.com/EssenceOfThought&#10;https://twitter.com/EssenceOfTweet&#10;https://www.instagram.com/essenceofproduction/&#10;&#10;Art commissioned from M N Starr;&#10;https://twitter.com/M_NStarr&#10;(Views expressed in this video do not reflect on the views of M N Starr)"
-    channeltitle "EssenceOfThought"
-    channelid "UCmFJ77PwU4PD4Im3s9kiWCg"
-    favcount 0
-    viewcount 3446
-    likecount 310
-    commentcount 41
-    duration "PT26M33S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "LGBT|SocialJustice"
-    leftright "L"
-    cluster 7
-  ]
-  node
-  [
-    id 277
-    name "390"
-    label "yHGDFAi3l7s"
-    step 0
-    date "2022-05-21T23:34:46Z"
-    title "Diversity and Replacement"
-    description "Let's talk about two interconnected concepts. &#10;&#10;UK Census Data article: https://www.lotuseaters.com/the-census-data-proves-britain-is-not-a-nation-of-immigrants-26-03-2022"
-    channeltitle "Sargon of Akkad"
-    channelid "UC-yewGHQbNFpDrGM0diZOLA"
-    favcount 0
-    viewcount 126728
-    likecount 8239
-    commentcount 2303
-    duration "PT1H21M23S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW"
-    leftright "R"
-    cluster 7
-  ]
-  node
-  [
-    id 278
-    name "393"
+    id 393
     label "vUejfsJJQwQ"
     step 0
     date "2022-05-20T00:04:20Z"
@@ -8359,24 +7551,21 @@ graph
     likecount 4
     commentcount 0
     duration "PT27M14S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.10800927
+    PERSPECTIVEPROFANITY 0.068110794
+    PERSPECTIVEFLIRTATION 0.4592602
+    PERSPECTIVETHREAT 0.20486003
+    PERSPECTIVETOXICITY 0.101391904
+    PERSPECTIVEINSULT 0.08178308
+    PERSPECTIVEIDENTITYATTACK 0.1637005
+    PERSPECTIVEINFLAMMATORY 0.17375752
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 7
   ]
   node
   [
-    id 279
-    name "394"
+    id 394
     label "RQa-QfMCI1Q"
     step 0
     date "2022-05-20T15:03:45Z"
@@ -8389,24 +7578,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT3M4S"
+    sentiment 0.296
+    PERSPECTIVESEXUALLYEXPLICIT 0.19349566
+    PERSPECTIVEPROFANITY 0.26819
+    PERSPECTIVEFLIRTATION 0.475377
+    PERSPECTIVETHREAT 0.5760113
+    PERSPECTIVETOXICITY 0.35227737
+    PERSPECTIVEINSULT 0.34245324
+    PERSPECTIVEIDENTITYATTACK 0.6350989
+    PERSPECTIVEINFLAMMATORY 0.7511284
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 7
   ]
   node
   [
-    id 280
-    name "395"
+    id 395
     label "h0DNUBCJsvU"
     step 0
     date "2022-05-19T02:59:49Z"
@@ -8419,24 +7605,21 @@ graph
     likecount 192
     commentcount 28
     duration "PT49M29S"
+    sentiment 0.7269
+    PERSPECTIVESEXUALLYEXPLICIT 0.0548171
+    PERSPECTIVEPROFANITY 0.029095227
+    PERSPECTIVEFLIRTATION 0.26590642
+    PERSPECTIVETHREAT 0.07312624
+    PERSPECTIVETOXICITY 0.07371333
+    PERSPECTIVEINSULT 0.029521888
+    PERSPECTIVEIDENTITYATTACK 0.036816012
+    PERSPECTIVEINFLAMMATORY 0.10835343
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 4
   ]
   node
   [
-    id 281
-    name "396"
+    id 396
     label "0RQc74xp6-s"
     step 0
     date "2021-11-26T17:59:13Z"
@@ -8449,54 +7632,48 @@ graph
     likecount 2
     commentcount 0
     duration "PT3M48S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.049373493
+    PERSPECTIVEPROFANITY 0.02309233
+    PERSPECTIVEFLIRTATION 0.2910998
+    PERSPECTIVETHREAT 0.053293094
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.021282112
+    PERSPECTIVEIDENTITYATTACK 0.03062676
+    PERSPECTIVEINFLAMMATORY 0.114164084
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 8
   ]
   node
   [
-    id 282
-    name "397"
-    label "u9DtlzyO3GQ"
+    id 398
+    label "NAnwkRoyXtA"
     step 0
-    date "2022-07-07T21:51:53Z"
-    title "LOL: Tucker Carlson STEAMROLLS Lefty Debate Host"
-    description "&#128081; SUBSCRIBE: https://www.youtube.com/user/DronetekPolitics?sub_confirmation=1&#10;&#128056; Chat on Guilded: https://www.guilded.gg/i/EoeQqrbk&#10;&#128076;  Follow on Twitter: https://twitter.com/Stootstek&#10;&#129297; Donate Crypto: https://1upcoin.com/donate/youtube/dronetek&#10;&#128077; Like the Wooden American Flag: https://www.facebook.com/myerswoodworkingnc&#10;&#127866; Tip me on Paypal: https://paypal.me/DronetekPolitics&#10;&#127758; Sponsor me on Patreon: https://www.patreon.com/dronetek&#10;&#127775; Sponsor me on SubscribeStar: https://www.subscribestar.com/Dronetek&#10;&#10;&#128056; Follow me here: &#10;https://dronetekpolitics.com/&#10;https://rumble.com/c/c-364115&#10;https://www.bitchute.com/channel/dronetek/&#10;https://app.clouthub.com/private/de121e4a-52d0-4c40-8e96-67a2b587537b&#10;https://gab.com/Dronetek&#10;https://www.twitch.tv/dronetek&#10;https://odysee.com/@DronetekPolitics:8&#10;https://dlive.tv/Dronetek&#10;&#10;#Dronetek #TuckerCarlson &#10;&#10;&#9193; Outro:  Free Twitch Streaming MIX - Strange Aeons // Royalty Free Copyright Safe Synthwave Music&#10;https://www.youtube.com/watch?v=DMc641-k9B8&#38;t=3652s&#10;&#10;&#10145;&#65039; Sources:&#10;&#10;Signal &#38; Noise: Polarization &#38; Trust in News&#10;https://www.youtube.com/watch?v=PIqfD2oOK6c&#10;&#10;The Establishment Media Routinely Promote 'Replacement Theory'&#10;https://www.newsbusters.org/blogs/nb/bill-dagostino/2022/05/18/establishment-media-routinely-promote-replacement-theory&#10;&#10;Dangerous Demagogues Spread 'Great Replacement Theory'&#10;https://twitter.com/tomselliott/status/1526698619390382080&#10;&#10;&#9888;&#65039; FAIR USE NOTICE &#9888;&#65039;&#10;This video may contain copyrighted material; the use of which has not been specifically authorized by the copyright owner. We are making such material available for the purpose of criticism, comment, review and new reporting which constitute the 'fair use' of any such copyrighted material as provided for in section 107 of the US copyright law. Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work for the purposes such as criticism, comment, review and new reporting is not an infringement of copyright."
-    channeltitle "Dronetek"
-    channelid "UCavk8KLWg5sWuDGrNIiqZ4A"
+    date "2022-05-21T04:01:13Z"
+    title "NAACP  Replacement Theory Michelle Thomas is an embarrassment to her own radical movement"
+    description "On 5/20/22, Michelle Thomas, Loudoun County NAACP President held a &#34;vigil&#34; today for the (10) people that were senselessly murdered in a Buffalo, NY grocery store by a lunatic.  Thomas doesn't care about what happened in Buffalo, she only sees it as breathing new life into her &#34;white supremacy&#34; rhetoric.  However, since &#34;white supremacy&#34; has been played out, Thomas tries to act intelligent and warns of the new &#34;Hate&#34; Replacement Theory.  Hate to break the news to the Loudoun County race hustler, but it's actually called &#34;The GREAT Replacement Theory&#34;, not &#34;Hate&#34; and it's not new.  It's been around since at least the 19th century.  Then, the felony fraud tells the crowd of 7 or 8 people that the &#34;Hate&#34; Replacement Theory is the same thing as Critical Race Theory.  Just because both terms have the word &#34;theory&#34; in them doesn't actually make them the same.&#10;&#10;So while trying to inject the new and improved &#34;white supremacy&#34; phrase of &#34;The Great Replacement Theory&#34;, Thomas butchers the hell out of it and thinks it's the same as CRT.&#10;&#10;Just to recap Michelle Thomas's history:&#10;- She fled Florida while wanted on a felony warrant&#10;- Spent lavishly on luxuries despite multiple many bankruptcies &#10;- She is NOT a descendent of American slaves&#10;- She hijacked Loudoun County Public Schools using a false discrimination narrative&#10;- Self-appointed &#34;pastor&#34;&#10;&#10;In other words, Michelle Thomas is Loudoun's biggest fraud.  She is not to be trusted or believed.  Ask her how many times she's been busted for writing bad checks.  Leopards don't change their spots.&#10;&#10;- https://stoplcpscrt.com/2022/05/20/wextons-loudoun-naacp-head-&#10;- https://stoplcpscrt.com/2022/04/29/wextons-loudoun-naacp-triggers-racist-staged-and-faux-outrage-in-2019-the-start-of-lcps-va10-demise/claims-embarrassing-comments-were-made-by-an-imposter-lol-busted/"
+    channeltitle "PACT: Parents Against Critical Theory"
+    channelid "UCa0LKooI4lmGNAaJv_ux9lw"
     favcount 0
-    viewcount 10905
-    likecount 1878
-    commentcount 366
-    duration "PT10M51S"
-    indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanRight"
-    leftright "R"
-    cluster 7
+    viewcount 31
+    likecount 3
+    commentcount 0
+    duration "PT37S"
+    sentiment -0.4404
+    PERSPECTIVESEXUALLYEXPLICIT 0.155902
+    PERSPECTIVEPROFANITY 0.3694818
+    PERSPECTIVEFLIRTATION 0.25027922
+    PERSPECTIVETHREAT 0.111206785
+    PERSPECTIVETOXICITY 0.5149511
+    PERSPECTIVEINSULT 0.8453147
+    PERSPECTIVEIDENTITYATTACK 0.60145193
+    PERSPECTIVEINFLAMMATORY 0.28801572
+    indegree 0
+    cluster 11
   ]
   node
   [
-    id 283
-    name "399"
+    id 399
     label "_kjqkUN10X0"
     step 0
     date "2021-04-10T06:07:20Z"
@@ -8509,54 +7686,48 @@ graph
     likecount 17
     commentcount 0
     duration "PT4M55S"
+    sentiment -0.6124
+    PERSPECTIVESEXUALLYEXPLICIT 0.1277135
+    PERSPECTIVEPROFANITY 0.2234458
+    PERSPECTIVEFLIRTATION 0.3483945
+    PERSPECTIVETHREAT 0.17536382
+    PERSPECTIVETOXICITY 0.30337667
+    PERSPECTIVEINSULT 0.49797618
+    PERSPECTIVEIDENTITYATTACK 0.54597265
+    PERSPECTIVEINFLAMMATORY 0.7079539
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 284
-    name "400"
-    label "BPCp3DTej8c"
+    id 401
+    label "vO9dzgoTwbo"
     step 0
-    date "2022-05-21T22:13:25Z"
-    title "Anthony Cumia and Gavin McInnes Discuss The Great Replacement Conspiracy Theory"
-    description "Support this channel by:&#10;Joining as a member - https://www.youtube.com/channel/UChkKKsRlqUUxS5w3pt-8P-A/join&#10;Buy Me A Beer - https://ko-fi.com/nochance&#8203;&#10;PayPal: https://www.paypal.com/paypalme/NoChanceYT&#10;Patreon - https://www.patreon.com/NaeChance&#10;Entropy: https://entropystream.live/NoChance&#8203;&#10;&#10;Links to me&#10;&#10;Twitter - https://twitter.com/MrNChance&#10;Telegram - https://t.me/NoChanceYT&#8203;&#10;Gab - https://gab.com/NoChance&#10;Gttr - https://www.gettr.com/user/naechance&#10;Odysee - &#8203;https://odysee.com/@NoChance:e&#10;2nd Channel: https://www.youtube.com/channel/UC18Xt-vN6mqXm0v7baHkyIQ&#10;Bitchute - https://www.bitchute.com/channel/NoChance/&#10;DLive - https://dlive.tv/NoChanceMate&#8203;&#10;Parler - https://parler.com/profile/NoChanceYT&#8203;&#10;&#10;Cheers"
-    channeltitle "No Chance"
-    channelid "UChkKKsRlqUUxS5w3pt-8P-A"
+    date "2022-05-24T15:37:56Z"
+    title "We are Surrounded By Believers of The Great Replacement Theory - MOXY APPROVED"
+    description "#GreatReplacementTheory #SystematicRacism #MoxyApproved&#13;&#10;After Payton Grendon went into a Tops Grocery Store he term Great Replacement Theory has been Trending. Don't be confused.... You are surrounded by believers of this theory!&#10;&#10;Installment to this YouTube channel: Moxy Approved. I cover manosphere topics with Reaction videos, self care tips, and of course dating. &#10;&#10;Send me video topics thru email or DM me on Instagram. &#10;&#10;Like, Subscribe, Share&#10;&#10;Press Notifications bell.&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCNO3c2k-hQVb-hNyQtloefw/join&#10;&#10;Follow on Social Media: &#10;FB, TWITTER, INSTAGRAM: MOXYAPPROVED&#10;Send me video topics thru email or DM me on Instagram. &#10;Email: MoxyApproved@gmail.com  &#10;CashApp: $MoxyApproved&#10;IG: https://www.instagram.com/moxyapproved/&#10;&#10;I Get Consent Gear: https://teespring.com/stores/igetconsent"
+    channeltitle "Moxy Approved"
+    channelid "UCNO3c2k-hQVb-hNyQtloefw"
     favcount 0
-    viewcount 4455
-    likecount 263
-    commentcount 164
-    duration "PT10M15S"
-    indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    viewcount 1511
+    likecount 265
+    commentcount 16
+    duration "PT1H51M51S"
+    sentiment 0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.091446534
+    PERSPECTIVEPROFANITY 0.069915816
+    PERSPECTIVEFLIRTATION 0.34175262
+    PERSPECTIVETHREAT 0.14231801
+    PERSPECTIVETOXICITY 0.05373499
+    PERSPECTIVEINSULT 0.05569343
+    PERSPECTIVEIDENTITYATTACK 0.08285232
+    PERSPECTIVEINFLAMMATORY 0.26510286
+    indegree 0
+    cluster 11
   ]
   node
   [
-    id 285
-    name "402"
+    id 402
     label "vXusAtKxiY0"
     step 0
     date "2019-08-16T11:00:14Z"
@@ -8569,24 +7740,21 @@ graph
     likecount 828
     commentcount 293
     duration "PT6M43S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.049770344
+    PERSPECTIVEPROFANITY 0.035134695
+    PERSPECTIVEFLIRTATION 0.2584146
+    PERSPECTIVETHREAT 0.070688106
+    PERSPECTIVETOXICITY 0.018325835
+    PERSPECTIVEINSULT 0.02561866
+    PERSPECTIVEIDENTITYATTACK 0.034059763
+    PERSPECTIVEINFLAMMATORY 0.09028102
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Socialist"
-    leftright "L"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 286
-    name "403"
+    id 403
     label "ES3agY8QNNE"
     step 0
     date "2022-05-18T02:00:05Z"
@@ -8599,24 +7767,21 @@ graph
     likecount 1
     commentcount 1
     duration "PT1M10S"
+    sentiment 0.7684
+    PERSPECTIVESEXUALLYEXPLICIT 0.1399372
+    PERSPECTIVEPROFANITY 0.24228258
+    PERSPECTIVEFLIRTATION 0.28770795
+    PERSPECTIVETHREAT 0.17748548
+    PERSPECTIVETOXICITY 0.44298556
+    PERSPECTIVEINSULT 0.81318927
+    PERSPECTIVEIDENTITYATTACK 0.2143746
+    PERSPECTIVEINFLAMMATORY 0.51933753
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 1
   ]
   node
   [
-    id 287
-    name "404"
+    id 404
     label "Nkcf2XWpShA"
     step 0
     date "2022-05-18T01:07:15Z"
@@ -8629,84 +7794,75 @@ graph
     likecount 323
     commentcount 42
     duration "PT1H8S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.030594511
+    PERSPECTIVEPROFANITY 0.03540635
+    PERSPECTIVEFLIRTATION 0.303043
+    PERSPECTIVETHREAT 0.103083335
+    PERSPECTIVETOXICITY 0.024147147
+    PERSPECTIVEINSULT 0.035069454
+    PERSPECTIVEIDENTITYATTACK 0.10741224
+    PERSPECTIVEINFLAMMATORY 0.10447417
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 288
-    name "405"
-    label "uO_wbQzIm_c"
+    id 406
+    label "6v06j4CrJ2M"
     step 0
-    date "2022-07-09T21:38:40Z"
-    title "How Canada Could End"
-    description "Three scenarios about the end of Canada. Could the country split apart? Fall into tyranny? Join the United States? Let's discuss! &#10;&#10;SUBSCRIBE: https://www.youtube.com/jjmccullough?sub_confirmation=1&#10;&#10;FOLLOW ME:&#10;&#10;&#127464;&#127462;Support me on Patreon! https://www.patreon.com/jjmccullough&#10;&#129302;Join my Discord! https://discord.gg/3X64ww7&#10;&#127482;&#127480;Follow me on Instagram! https://www.instagram.com/jjmccullough/&#10;&#127464;&#127462;Read my latest Washington Post columns: https://www.washingtonpost.com/people/jj-mccullough&#10;&#127464;&#127462;Visit my Canada Website http://thecanadaguide.com&#10;&#10;Some music by:&#10;Craig Henderson- https://www.youtube.com/channel/UCtJbyhf1DnfQoVhwCJ6MIEQ&#10;ComradeF- https://www.youtube.com/c/ComradeF&#10;&#10;HASHTAGS: #canada #future #history"
-    channeltitle "J.J. McCullough"
-    channelid "UCyhOl6uRlxryALlT5yifldw"
+    date "2022-05-17T10:57:51Z"
+    title "ANOTHER DAY; ANOTHER MASS SHOOTING- IS THE GREAT REPLACEMENT THEORY THE CAUSE?"
+    description "Payton Gendron, an 18-year-old man, shot 13 people &#8212; 11 of whom are Black and two who are white &#8212; at the Tops Friendly Market. 10 arw now dead. Were there signs? Could this have been avoided? Also, shootings in both California and Houston."
+    channeltitle "ARandom Podcast"
+    channelid "UCQyvK7S64yw8ddRRE77tuzg"
     favcount 0
-    viewcount 206631
-    likecount 12810
-    commentcount 2607
-    duration "PT25M48S"
+    viewcount 238
+    likecount 38
+    commentcount 1
+    duration "PT1H49M9S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.031221941
+    PERSPECTIVEPROFANITY 0.03152903
+    PERSPECTIVEFLIRTATION 0.26623157
+    PERSPECTIVETHREAT 0.11844607
+    PERSPECTIVETOXICITY 0.31671798
+    PERSPECTIVEINSULT 0.119784415
+    PERSPECTIVEIDENTITYATTACK 0.07086287
+    PERSPECTIVEINFLAMMATORY 0.4597617
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Educational"
-    leftright "R"
-    cluster 3
+    cluster 4
   ]
   node
   [
-    id 289
-    name "407"
-    label "vyV5OqajoHo"
+    id 408
+    label "pkU9QbOZkGc"
     step 0
-    date "2022-05-22T12:36:45Z"
-    title "Great Replacement Theory vs White Genetic Annihilation - Dr Frances Cress Welsing Vindicated"
-    description "Join this channel to get access to perks:&#13;&#10;https://www.youtube.com/channel/UCPeiUFct-2zqa4nAqZqKJjA/join&#13;&#10;&#13;&#10;Salaam 'Alaikum, welcome to The Feachaz!  Where my haters are also my imitators.&#13;&#10;_________________________________________________&#13;&#10;Support the channel here:&#13;&#10;* Donate: https://ws.cash/$thefeachaz/tip&#13;&#10;* Receive $25 promo on WS cash for signing up with The Feachaz: https://ws.cash/invite/$thefeachaz/&#13;&#10;* PayPal: https://www.paypal.com/paypalme/thefeachaz&#13;&#10;* Patreon: https://www.patreon.com/thefeachaz&#13;&#10;* Teespring: https://teespring.com/thefeachaz&#13;&#10;_________________________________________________&#13;&#10;Follow me at:&#13;&#10;* Instagram: https://instagram.com/thefeachaz&#13;&#10;* Facebook: https://www.facebook.com/thefeachaz&#13;&#10;&#13;&#10;We appreciate all our subscribers and those who aid this channel with du'a, likes, shares.  As you know, our channel gets regularly attacked, and we are asking you to please subscribe to our mirror sites.  It's safe to say that it's only a matter of time before something happens to this channel again.  So we are requesting your support, likes, shares, and subscribes on the following:&#13;&#10;&#13;&#10;On Library (lbry.com):&#13;&#10;https://odysee.com/$/invite/@thefeachaz:6&#13;&#10;&#13;&#10;The Infamous Feachaz on YouTube:&#13;&#10;https://www.youtube.com/channel/UCADWi8a6YREZgAEBHPCpY7g speakers corner neely fuller mufti menk madkhali"
-    channeltitle "The Feachaz"
-    channelid "UCPeiUFct-2zqa4nAqZqKJjA"
+    date "2022-05-20T07:47:14Z"
+    title "Viktor Orban: West engaged in "
+    description "Source: https://t.ly/eNMl&#10;&#10;During his speech opening parliament, Hungarian Prime Minister Viktor Orb&#225;n slammed the west for engaging in mass migration policies, claiming western countries were experimenting with a &#8220;great replacement.&#8221;&#10;&#10;Prime Minister Orb&#225;n was sworn in as Hungarian government leader for the fifth time this week and spoke out about various topics in his speech to the parliament, including commenting on the mass migration policies of Western Europe.&#10;&#10;According to Orb&#225;n, the West is engaging in a &#8220;suicidal wave&#8221; and stated that western countries were &#8220;experimenting with the programme of great replacement,&#8221; referring to the theory of population exchange and demographic shifts coined by French writer Renaud Camus, newspaper Le Figaro reports.&#10;&#10;According to Orb&#225;n, the programme of replacement &#8220;wants to replace endangered Christian children with migrants from other civilizations,&#8221; and stated he saw gender ideology in the same manner, referring to it as &#8220;madness.&#8221;&#10;&#10;&#8220;Brussels is abusing its powers every single day and trying to force bad and foreign things upon us,&#8221; Orb&#225;n said and added, &#8220;But we&#8217;re not going to give up our border protection.&#8221;&#10;&#10;&#8220;We won&#8217;t allow migrants in, and we&#8217;ll protect our families, and we won&#8217;t allow gender activists into our schools,&#8221; he said.&#10;&#10;Orb&#225;n has been a critic of mass migration in western Europe for years, going as far as stating in 2018 that mass migration was a threat to women&#8217;s rights.&#10;&#10;Last year, Orb&#225;n claimed that the migration agenda was part of a larger plan to create a &#8220;new proletariat&#8221; saying, &#8220;The West&#8230; just does not want to maintain itself. Let&#8217;s not beat around the bush: certain civilisations are able to reproduce; the Western civilisation is not able to reproduce &#8212; so much so that they are unable to decide whether this is a problem at all.&#8221;&#10;&#10;&#8220;And there are others who sense the problem of declining demographics and they want migration. They believe alien peoples from distant lands should be moved in and that will stop the demographic decline. But mass migration&#8230; the millions of people who have been lured here, are basically a global plan of moving in the new proletariat,&#8221; he said.&#10;&#10;The theory of the &#8220;Great Replacement&#8221; or Grand Remplacement in French, has been gaining traction in France in recent years and was often invoked by former presidential candidate Eric Zemmour during the first round of the presidential race this year.&#10;&#10;A poll from November of last year revealed that half of the French public believes in the Great Replacement, the theory that mass migration and demographic changes are being orchestrated by elites who view human beings as replaceable units in what Camus describes as &#8220;undifferentiated human matter.&#8221;&#10;&#10;&#8220;The change of people and civilisation for the sake of the industry of man, the economic system which produces the Undifferentiated Human Matter, the human Nutella, spreadable at will,&#8221; Camus told Breitbart London in November of 2018."
+    channeltitle "Anthony Foster"
+    channelid "UCAMGq4RbsDzWsgeL-kJeK8A"
     favcount 0
-    viewcount 339
-    likecount 18
-    commentcount 14
-    duration "PT1H57M53S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 46
+    likecount 5
+    commentcount -1
+    duration "PT2M56S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.06672946
+    PERSPECTIVEPROFANITY 0.1346067
+    PERSPECTIVEFLIRTATION 0.269761
+    PERSPECTIVETHREAT 0.6697947
+    PERSPECTIVETOXICITY 0.2406723
+    PERSPECTIVEINSULT 0.12972678
+    PERSPECTIVEIDENTITYATTACK 0.13938937
+    PERSPECTIVEINFLAMMATORY 0.70842326
+    indegree 2
     cluster 7
   ]
   node
   [
-    id 290
-    name "409"
+    id 409
     label "1EpulHZOVEI"
     step 0
     date "2022-05-31T19:56:53Z"
@@ -8719,144 +7875,129 @@ graph
     likecount 7
     commentcount 0
     duration "PT18M11S"
+    sentiment 0.3716
+    PERSPECTIVESEXUALLYEXPLICIT 0.027000124
+    PERSPECTIVEPROFANITY 0.02367311
+    PERSPECTIVEFLIRTATION 0.38528824
+    PERSPECTIVETHREAT 0.10804307
+    PERSPECTIVETOXICITY 0.048868883
+    PERSPECTIVEINSULT 0.094923
+    PERSPECTIVEIDENTITYATTACK 0.071249105
+    PERSPECTIVEINFLAMMATORY 0.24475
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
-  ]
-  node
-  [
-    id 291
-    name "410"
-    label "lAZsbLno3qw"
-    step 0
-    date "2022-07-13T05:40:05Z"
-    title "SAP SD Introduction | SAP S4 HANA SD | S4 HANA SD Tutorial | S4 HANA SD real time training"
-    description "SAP SD Module is the most important of all primary ERP modules. Join training with expert consultant.&#10;For more information, please contact on :&#10;Nikita: + 91 8379811100&#10;Email Id: nikita@bestonlinecareer.com&#10;Click here for inquiry  https://forms.gle/BqE8KQctpz25svXY7"
-    channeltitle "Best Online Career Nikita"
-    channelid "UC4OdN7i19bQ1F_sQJ-fdaIA"
-    favcount 0
-    viewcount 4
-    likecount 0
-    commentcount 0
-    duration "PT53M9S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 292
-    name "415"
-    label "jNMcbFbqbmk"
-    step 0
-    date "2022-07-07T20:30:10Z"
-    title "Learn this song to Weave In and Out of Keys while Improvising on the Piano | Strategies Included!"
-    description "Have you wondered how top gospel musicians like Cory Henry and Quennel Gaskins seem to go OUTSIDE the key while playing them come back to the original? How do they do that? How do they know what keys to go to? Is there a trick you can use to know what keys you can use when you are going outside the key? This video will show you how to seamlessly switch between keys while playing&#10;&#10;&#9656; The Take 6 Song by Quincy Jones is Here https://youtu.be/iKKyiFH2gbw &#10;&#10;&#9656; Quennel's Master Class is Here https://youtu.be/tC-jPgrdqVo &#10;&#10;&#9656; &#128205;Check out our Musician Training Program Here https://seanwilsonpiano.com/join&#10;&#10;&#9656; The piano that I use to show the notes is a software called Chordie... get it here https://seanwilsonpiano.com/chordie&#10;&#10;0:00 Switching between keys overview&#10;0:22 Learn this song to switch between keys&#10;2:03 Use the Minor 3rd to switch keys&#10;3:04 Switch keys on Twinkle Twinkle Little Star&#10;4:46 Chords can belong to multiple keys&#10;9:34 How to play Setembro by Take 6&#10;12:33 Use this exercise to switch between keys&#10;14:35 Use Mary had a Little Lamb to practice switching keys&#10;17:03 Powerful reason play in every key"
-    channeltitle "Sean Wilson Piano"
-    channelid "UCkq8-7WvC5vvPlSs3pd80Mg"
-    favcount 0
-    viewcount 14640
-    likecount -1
-    commentcount 127
-    duration "PT20M11S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 293
-    name "417"
-    label "aVKxCpYLbiY"
+    id 414
+    label "HSwHdqJUKzc"
     step 0
-    date "2021-08-09T12:55:04Z"
-    title "Former Speaker Newt Gingrich Now OPENLY Pushing White Replacement Theory In  Fight"
-    description "Interesting segment on CNN's NewDay with Briana Keilar (08/09/21) on how Former House Speaker #NewtGingrich and other Trumpers are now OPENLY pushing the White Replacement Theory in their messaging against the supposed southern #BorderCrisis.&#10;&#10;Prior to the Trump presidency, the White Replacement Theory was only heard from the KKK and other fringe White supremacy groups. Turns out it's now a mainstream GOP philosophy&#10;&#10;#WhiteReplacementTheory"
-    channeltitle "Emoluments Clause"
-    channelid "UCOQEYWGQzfOWMRiAHQZAuHQ"
+    date "2022-05-16T02:38:50Z"
+    title "Payton Gendron As Buffalo Mass Shooting Inspiration"
+    description "Black Gen Z Mindset Speaks on 18-year-old White Supremacist's Glider Gremlin Payton Gendron charged in  Buffalo Mass Shooting...&#13;&#10;&#13;&#10;Instagram:&#13;&#10;https://www.instagram.com/blackgenzmi...&#13;&#10;&#13;&#10;Tik Tok: &#13;&#10;https://www.tiktok.com/@blackgenzmind...&#13;&#10;&#13;&#10;FaceBook:&#13;&#10;https://www.facebook.com/profile.php?...&#13;&#10;https://www.facebook.com/Black-Gen-Z-...&#13;&#10;&#13;&#10;&#13;&#10;Odysse:&#13;&#10;https://odysee.com/@BlackGenZMindset:22&#13;&#10;&#13;&#10;Join The Patreon:&#13;&#10;https://www.patreon.com/blackgenzmindset&#13;&#10;&#13;&#10;Email Me for Business Inquiries:&#13;&#10;blackgenzmindset@gmail.com   &#13;&#10;&#13;&#10;PayPal:&#13;&#10;&#13;&#10;https://paypal.me/blackgenzmindset?co...&#13;&#10;&#13;&#10;blackgenzmindset@gmail.com   &#13;&#10;&#13;&#10;Cash App: &#13;&#10;&#13;&#10;https://cash.app/$AutumnSaintsEnt&#13;&#10;&#13;&#10;$AutumnSaintsEnt"
+    channeltitle "Quarantino DA GAWD Live Stream"
+    channelid "UC6Gbs6MfBrkn6y6xXEBmi5A"
     favcount 0
-    viewcount 188
-    likecount 6
-    commentcount 5
-    duration "PT4M14S"
+    viewcount 90
+    likecount 5
+    commentcount 1
+    duration "PT5H18M43S"
+    sentiment 0.8176
+    PERSPECTIVESEXUALLYEXPLICIT 0.052295852
+    PERSPECTIVEPROFANITY 0.07681084
+    PERSPECTIVEFLIRTATION 0.35072324
+    PERSPECTIVETHREAT 0.7093886
+    PERSPECTIVETOXICITY 0.1250247
+    PERSPECTIVEINSULT 0.060296047
+    PERSPECTIVEIDENTITYATTACK 0.109293364
+    PERSPECTIVEINFLAMMATORY 0.20303269
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 11
   ]
   node
   [
-    id 294
-    name "420"
-    label "GeyeLToEzl8"
+    id 416
+    label "RZEAVb5CJRI"
     step 0
-    date "2022-07-12T16:00:08Z"
-    title "CYAN P1800, Escalade SuperCruise Test, HELISH 135i | Matt Farah / Zack Klapman - TST Podcast #742"
-    description "Matt's back from the East Coast where he spent a week testing the new Cadillac Escalade's Super Cruise! How does it compare to Ford's system and others in the space? Plus, the Farahs ordered a custom Cayenne; a Citroen designer wants to get rid of screen; someone spent $18000 repairing a 135i; what's &#34;crazy fast&#34; for $15k?; and more! &#10;&#10;Recorded July 9, 2022&#10;&#10;Go to https://www.blackvue.com/TST and use the promo code TIRE to get 10% off of any BlackVue dash cam. Free shipping for orders over $200.&#10;&#10;Berryman Products. All-American Made since 1918. Berryman is Available at your favorite automotive retailer or automotive parts store. https://www.berrymanproducts.com.&#10;&#10;Use Off The Record! and ALWAYS fight your tickets! Enter code TST10 for a 10% discount on your first case on the Off The Record app, or go to http://www.offtherecord.com/TST.&#10;&#10;Want your question answered? To listen to the episode the day it's recorded? Want to watch the live stream, get ad-free podcasts, or exclusive podcasts? Join our Patreon: https://www.patreon.com/thesmokingtirepodcast&#10;&#10;Spotify: https://open.spotify.com/episode/4CVvzv3FKr7eSf3JUIlHcK?si=Jv63ykvnTkmRPtjEB-FqcQ&#10;Apple Podcasts: https://podcasts.apple.com/us/podcast/cyan-p1800-escalade-supercruise-test-helish-135i/id496797178?i=1000569656027&#10;Google Music: https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9jMlJ6VEd0YQ/episode/ZTNjZTk2NDMtMjQxYy00NjI2LWE5ZDItNjEzNWIwNTkxMDky?sa=X&#38;ved=0CAUQkfYCahcKEwjg0-HOjvT4AhUAAAAAHQAAAAAQDA&#10;Web player: https://the-smoking-tire.simplecast.com/episodes/cyan-p1800-escalade-supercruise-test-helish-135i&#10;&#10;#cars #comedy #podcast&#10;Tweet at us!&#10;https://www.Twitter.com/thesmokingtire &#10;https://www.Twitter.com/zackklapman &#10;&#10;Instagram:&#10;https://www.Instagram.com/thesmokingtire &#10;https://www.Instagram.com/therealzackklapman &#10;&#10;&#10;Click here for the most honest car reviews out there: https://www.youtube.com/thesmokingtire &#10;&#10;Want shorter podcasts? Subscribe to our new CLIPS channel! https://www.youtube.com/channel/UCD4WGV-W5zD1MK4yHbNGwmw"
-    channeltitle "TheSmokingTirePodcast"
-    channelid "UC-4H50_RIqgXol2GlEdhxQQ"
+    date "2022-05-28T00:06:08Z"
+    title "The Great Replacement Theory | The BLK Aristocrat 02"
+    description "#thegreatreplacementtheory #replacementtheory #theblkaristocrat&#10;&#10;In this video, we discuss the great replacement theory,  its affects on the American people, how politics have been using it for political gain, and the reason why it holds no merit as a theory in the first place.&#10;&#10;Chapters:&#10;0:00 Intro&#10;2:27 What Is The Great Replacement Theory?&#10;3:00 White Extinction Anxiety&#10;4:20 Racially Motivated Killings&#10;5:36 Debunking The Theory&#10;6:28 Final Thoughts&#10;&#10;// S O U R C E S&#10;https://en.wikipedia.org/wiki/Christchurch_mosque_shootings&#10;https://en.wikipedia.org/wiki/Great_Replacement&#10;https://en.wikipedia.org/wiki/Renaud_Camus&#10;https://www.statista.com/statistics/476456/mass-shootings-in-the-us-by-shooter-s-race/&#10;&#10;// F O L L O W&#10;instagram | https://www.instagram.com/rasheed.payne&#10;twitter | https://www.twitter.com/blk_aristocrat&#10;&#10;// S U B S C R I B E&#10;https://www.youtube.com/channel/UC9gD..."
+    channeltitle "Rasheed Payne&#9475;The BLK Aristocrat"
+    channelid "UC9gDs5vWUOYtcmPzcj9L0Ig"
     favcount 0
-    viewcount 8905
-    likecount 332
-    commentcount 52
-    duration "PT1H47M57S"
+    viewcount 36
+    likecount 2
+    commentcount 0
+    duration "PT7M7S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06683193
+    PERSPECTIVEPROFANITY 0.05119192
+    PERSPECTIVEFLIRTATION 0.29947737
+    PERSPECTIVETHREAT 0.3134258
+    PERSPECTIVETOXICITY 0.13610743
+    PERSPECTIVEINSULT 0.035754073
+    PERSPECTIVEIDENTITYATTACK 0.06687454
+    PERSPECTIVEINFLAMMATORY 0.31798834
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 1
   ]
   node
   [
-    id 295
-    name "424"
+    id 419
+    label "cRqOW9wG8Ik"
+    step 0
+    date "2022-05-18T00:43:31Z"
+    title "Carlson lies that he doesnt know what Great Replacement Theory is"
+    description "&#34;You've heard a lot about the Great Replacement Theory.&#160; It's everywhere in the last two days, and we're still not sure exactly what it is,&#34; abashed white nationalist and Hungarian Is For Lovers pitchman Tucker Carlson said on his Fox show, claiming complete ignorance about its very meaning.&#160; &#34;Here's what we do know for a fact,&#34; Carlson continues, signaling in his characteristic way that what he's about to say is not, in fact, a fact.&#160; &#34;There's a strong political component to the Democratic Party's immigration policy.&#160; We're not guessing this.&#160; [Yes, he is.&#160; And who's &#34;we&#34;?]. We know this [Only true in Tucker's brain cell.] and we know it because they have said so.&#160; They've said it again, and again, and again.&#160; [Who is &#34;they&#34; and what have they said again, and again, and again?]&#160; They've written books on it.&#160; [So show one.]&#160; And monographs.&#160; [&#34;Monographs&#34;?&#160; What kind of pretentious twat uses the word &#34;monographs&#34; instead of studies or papers?] And magazine articles!&#160; They've bragged about it endlessly.&#160; They talk about it on cable news constantly.&#160; [The only one who talks about it constantly is Tucker Carlson.&#160; The only network where it's seriously discussed is Fox.] And they say, out loud, we are doing this because it helps us to win elections.&#160; [No Democratic politician has said shit about The Great Replacement being a Party directive, and no one--other than Tucker--is talking about it constantly.]. It's not something they've said once.&#160; It's something they've gloated about again, and again, and again [Again with the &#34;again, and again, and again,&#34; Tucker?&#160; Get a new writer.] and we think that's wrong, and in case you doubt us, here they are.&#34;&#160; He then cuts to a clip from Barack Obama.&#160; No... no... from Joe Biden!&#160; No... no.&#160; He cuts to a clip of.... [checks notes].... Joe Scarborough."
+    channeltitle "NatZero Deux"
+    channelid "UCUgvg4jCx3EfJjivg8WzNyQ"
+    favcount 0
+    viewcount 51
+    likecount 1
+    commentcount 0
+    duration "PT42S"
+    sentiment -0.7264
+    PERSPECTIVESEXUALLYEXPLICIT 0.044983517
+    PERSPECTIVEPROFANITY 0.23263645
+    PERSPECTIVEFLIRTATION 0.27570805
+    PERSPECTIVETHREAT 0.17135508
+    PERSPECTIVETOXICITY 0.3282253
+    PERSPECTIVEINSULT 0.50756085
+    PERSPECTIVEIDENTITYATTACK 0.2422693
+    PERSPECTIVEINFLAMMATORY 0.40880948
+    indegree 3
+    cluster 7
+  ]
+  node
+  [
+    id 423
+    label "gcEpavZONSs"
+    step 0
+    date "2022-05-17T02:55:13Z"
+    title "White Supremacy, The Great Replacement, s Himbos"
+    description "Hit that subscribe button to become one of Hasan's Himbos!&#10;&#10;Stay Connected:&#10;&#9658; Hasanabi is live daily 11am PST on https://www.twitch.tv/hasanabi&#10;&#9658; Twitter: https://twitter.com/hasanthehun&#10;&#9658; YouTube: https://www.youtube.com/c/HasanAbi&#10;&#9658; Instagram: https://www.instagram.com/hasandpiker/&#10;&#10;Thank you all for watching! &#10;&#10;#hasanabi #twitch #react"
+    channeltitle "Hasan's Himbos"
+    channelid "UC7ZFh8vIhWXa8G-zmbbm6qw"
+    favcount 0
+    viewcount 33
+    likecount 3
+    commentcount 0
+    duration "PT45M27S"
+    sentiment 0.6486
+    PERSPECTIVESEXUALLYEXPLICIT 0.2716676
+    PERSPECTIVEPROFANITY 0.304128
+    PERSPECTIVEFLIRTATION 0.54504544
+    PERSPECTIVETHREAT 0.63498867
+    PERSPECTIVETOXICITY 0.38959074
+    PERSPECTIVEINSULT 0.2977933
+    PERSPECTIVEIDENTITYATTACK 0.6350989
+    PERSPECTIVEINFLAMMATORY 0.3892335
+    indegree 1
+    cluster 11
+  ]
+  node
+  [
+    id 424
     label "ESyY6uD4vWg"
     step 0
     date "2022-05-16T20:04:57Z"
@@ -8869,24 +8010,21 @@ graph
     likecount 5
     commentcount 0
     duration "PT1H47M39S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.08813394
+    PERSPECTIVEPROFANITY 0.08244584
+    PERSPECTIVEFLIRTATION 0.3776288
+    PERSPECTIVETHREAT 0.10361266
+    PERSPECTIVETOXICITY 0.15042676
+    PERSPECTIVEINSULT 0.08675394
+    PERSPECTIVEIDENTITYATTACK 0.117957875
+    PERSPECTIVEINFLAMMATORY 0.0025560514
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 296
-    name "425"
+    id 425
     label "GTopEp3TMes"
     step 0
     date "2022-05-16T21:31:26Z"
@@ -8899,24 +8037,21 @@ graph
     likecount 570
     commentcount 212
     duration "PT24M"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.037627716
+    PERSPECTIVEPROFANITY 0.0417768
+    PERSPECTIVEFLIRTATION 0.35862523
+    PERSPECTIVETHREAT 0.62360996
+    PERSPECTIVETOXICITY 0.13251819
+    PERSPECTIVEINSULT 0.06928257
+    PERSPECTIVEIDENTITYATTACK 0.06541941
+    PERSPECTIVEINFLAMMATORY 0.25961185
     indegree 4
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW|PartisanRight"
-    leftright "R"
-    cluster 1
+    cluster 5
   ]
   node
   [
-    id 297
-    name "426"
+    id 426
     label "gLVkU-shWy8"
     step 0
     date "2022-06-02T23:42:48Z"
@@ -8929,24 +8064,21 @@ graph
     likecount 25
     commentcount 12
     duration "PT22M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.051240843
+    PERSPECTIVEPROFANITY 0.0364715
+    PERSPECTIVEFLIRTATION 0.18176527
+    PERSPECTIVETHREAT 0.0755308
+    PERSPECTIVETOXICITY 0.01263372
+    PERSPECTIVEINSULT 0.02464845
+    PERSPECTIVEIDENTITYATTACK 0.03774583
+    PERSPECTIVEINFLAMMATORY 0.08352181
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 298
-    name "427"
+    id 427
     label "-Ty-Y9eN0_o"
     step 0
     date "2022-05-23T21:03:13Z"
@@ -8959,24 +8091,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT2M8S"
+    sentiment 0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.03481209
+    PERSPECTIVEPROFANITY 0.032487236
+    PERSPECTIVEFLIRTATION 0.25999564
+    PERSPECTIVETHREAT 0.07822833
+    PERSPECTIVETOXICITY 0.062925026
+    PERSPECTIVEINSULT 0.048901394
+    PERSPECTIVEIDENTITYATTACK 0.06836707
+    PERSPECTIVEINFLAMMATORY 0.5611505
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 4
   ]
   node
   [
-    id 299
-    name "428"
+    id 428
     label "FFw08E7UJEs"
     step 0
     date "2022-06-30T02:39:35Z"
@@ -8989,24 +8118,21 @@ graph
     likecount 153
     commentcount 16
     duration "PT1H4M49S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.02747298
+    PERSPECTIVEPROFANITY 0.010661946
+    PERSPECTIVEFLIRTATION 0.14797983
+    PERSPECTIVETHREAT 0.0042657247
+    PERSPECTIVETOXICITY 0.15918289
+    PERSPECTIVEINSULT 0.009871988
+    PERSPECTIVEIDENTITYATTACK 0.0076746214
+    PERSPECTIVEINFLAMMATORY 0.6522843
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 300
-    name "429"
+    id 429
     label "u0KgnbwG5cI"
     step 0
     date "2022-05-22T21:19:24Z"
@@ -9019,84 +8145,75 @@ graph
     likecount 2
     commentcount 11
     duration "PT12M2S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.1895641
+    PERSPECTIVEPROFANITY 0.098812595
+    PERSPECTIVEFLIRTATION 0.43790868
+    PERSPECTIVETHREAT 0.14212544
+    PERSPECTIVETOXICITY 0.20522906
+    PERSPECTIVEINSULT 0.07160473
+    PERSPECTIVEIDENTITYATTACK 0.121434405
+    PERSPECTIVEINFLAMMATORY 0.3648638
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 301
-    name "430"
-    label "WvB7k1KglqQ"
+    id 436
+    label "kYC7LR5aoDA"
     step 0
-    date "2021-09-23T02:53:37Z"
-    title "Tucker Spouting the Great Replacement Theory again."
-    description "Tucker the Fucker is at it again.&#128580;"
-    channeltitle "Kevin Snow 5"
-    channelid "UCk1iEqkHli6cBofBhaOd0yQ"
+    date "2022-05-19T19:06:14Z"
+    title "Liberals Spin Up Replacement Theory Stories, Paint GOP Racist | DHS Truth Board Going Away | Ep 400"
+    description "The new phrase du-jour that is being spun by the left is 'replacement theory&#34; and they are again attacking conservatives to distract from their own plans to overhaul the country and how things are done. Plus, the Ministry of Truth is done? Jancowicz is out as DHS says the governance board will be paused. And what is going on with the WHO, as well as a several other stories.&#13;&#10;&#13;&#10;&#13;&#10;LIKE &#38; SUBSCRIBE for new content every day.&#13;&#10;&#13;&#10;RUMBLE:&#13;&#10;See the full LIVE show on Rumble. &#13;&#10;Subscribe, Watch and Engage at https://rumble.com/DrewBerquist&#13;&#10;&#13;&#10;LOCALS:&#13;&#10;Get Booze &#38; Banter and Exclusive Content at https://DrewBerquist.Locals.com&#13;&#10;&#13;&#10;SUPPORT THE SHOW:&#13;&#10;Love Common Sense And Want To Keep Free Speech Alive? Support the Show.&#13;&#10;https://www.drewberquist.com/support/&#13;&#10;&#13;&#10;SHOW SPONSORS AND AUDIENCE DISCOUNTS&#13;&#10;Mammoth Nation - Shop Conservative and push back against the woke left. Become a member at https://mammothnation.com/ and use promo code DREW to save 30% on your membership.&#13;&#10;&#13;&#10;Red Beach Nation -  Whether you live at the beach, are traveling to one or just want to imagine yourself there&#8230;Red Beach&#8217;s comfy patriotic apparel is sure to lift your spirits. &#13;&#10;Use promo code DREW and save 10% at https://RedBeachNation.com&#13;&#10;&#13;&#10;My Patriot Supply - Every family should have at least one three-month supply of food per person. Go to www.SurviveWithDrew.com to SAVE $150 and get FREE SHIPPING on your 3-Month Food Kits.&#13;&#10;&#13;&#10;My Pillow - Get the best night's sleep of your life and save!&#13;&#10;Use Promo Code DREW to save up to 66% off your purchase at https://MyPillow.com&#13;&#10;&#13;&#10;Strikeman - Save big on costly trips to the range, conserve ammunition, and train effectively in the comfort of your own home. Try Strikeman risk free for 15 days. If it doesnt improve your accuracy, they'll refund you in full. Try Strikeman for $79 with promo code: TRAININGDAY at https://strikeman.io &#13;&#10;&#13;&#10;GoldCo - Protect your savings and don't let inflation get you down. Call Goldco at 855-717-3188 or visit https://goldco.com/drew  To Get A Free Gold IRA Kit&#8230;&#13;&#10;&#13;&#10;The Root Brands-Get rid of heavy metals and toxins in your body!&#13;&#10;Purchase Clean Slate and other Root Brands products here:&#13;&#10;https://therootbrands.com/product/trinity-pack/drewberquist&#13;&#10;&#13;&#10;Bottom Gun Coffee Co. &#13;&#10;Support veteran owned companies and start your day with U.S. Submarine Inspired Coffee at https://bottomguncoffee.com/&#13;&#10;Use Promo Code &#34;DREW&#8221; To Save 10%&#13;&#10;&#13;&#10;Aura - The New Standard in Digital Security&#13;&#10;Honest Pricing. Serious Protection. Help When You Need It.&#13;&#10;Visit Aura.com/DREWBERQUIST and Save 40%"
+    channeltitle "Drew Berquist"
+    channelid "UC4FYwBasJ4MTe9iV-Ofykeg"
     favcount 0
-    viewcount 32
-    likecount 2
-    commentcount 1
-    duration "PT46S"
+    viewcount 810
+    likecount 74
+    commentcount 86
+    duration "PT57M26S"
+    sentiment -0.4019
+    PERSPECTIVESEXUALLYEXPLICIT 0.06329119
+    PERSPECTIVEPROFANITY 0.10773042
+    PERSPECTIVEFLIRTATION 0.34404993
+    PERSPECTIVETHREAT 0.3283556
+    PERSPECTIVETOXICITY 0.22333995
+    PERSPECTIVEINSULT 0.43652984
+    PERSPECTIVEIDENTITYATTACK 0.53292435
+    PERSPECTIVEINFLAMMATORY 0.72489476
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 4
   ]
   node
   [
-    id 302
-    name "437"
-    label "HEL3Lh7Feco"
+    id 439
+    label "albq6CZhG9w"
     step 0
-    date "2022-07-10T17:00:12Z"
-    title "Will Austin Theory Cash In MITB On Roman Reigns and Brock Lesnar at WWE Summerslam 2022?"
-    description "Just a week ago, WWE superstar Austin Theory won the Money in the Bank briefcase to earn a title opportunity. The decision surprised the WWE Universe and his win came out of the blue. Austin Theory has to use the briefcase to the best of his advantage as he will win the top championship if the cash-in is successful. &#10;&#10;Roman Reigns will be defending his Undisputed WWE Universal Championship against Brock Lesnar in a Last Man Standing Match in the main event of SummerSlam later this month. Since it's a Last Man Standing Match, both the superstars will be outspent by the end of it and Theory will have the best chance to cash in the briefcase and walk out with 2 titles.&#10;&#10;Do you see Austin Theory cashing in on Roman Reigns and Brock Lesnar at WWE Summerslam 2022? Let's talk about it.&#10;&#10;Follow Alyx on Social Media: https://linktr.ee/Just_Alyx&#10;&#10;===================================================&#10;&#10;SUBSCRIBE TO MY NEW PODCAST RAW COGNIZANCE TODAY: https://www.youtube.com/channel/UCxUXP_Pf9QoHEbIL7SQCHAg&#10;&#10;Facebook: https://www.facebook.com/JustAlyxCentral &#10;Twitter: https://twitter.com/JustAlyxCentral&#10;Tiktok: https://www.tiktok.com/@justalyx&#10;Spotify: https://open.spotify.com/artist/1GYUuKRvQNeiBK5FUeWBzQ?si=VfOq-2cgSxq5u6rR4M96pg&#38;dl_branch=1&#10;Cash App: $ANH1990&#10;Venmo: $ANH1990&#10;Patreon: https://www.patreon.com/JustAlyxCentral&#10;WWE Mashups: https://www.youtube.com/c/alyxmusicv3wwemashups&#10;Instagram: https://www.instagram.com/ahix0790/&#10;Paypal: https://www.paypal.me/dalyxman &#10;Buy the brand new JUST ALYX/Dalyxman t-shirts HERE:  https://www.prowrestlingtees.com/dalyxmantees&#10;New Business Email For Inquiries and Q&#38;A: JustAlyxsWorld@Gmail.com &#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCIr5p9znjWkmlUebyBvqZmQ/join&#10;&#10;SIGN UP FOR AMAZON MUSIC UNLIMITED FOR A 90 DAY FREE TRIAL: http://getamazonmusic.com/justalyx&#10;&#10;Shoutout to Youtube &#38; Professional Wrestling Designers: &#10;JayNox: https://twitter.com/Planet9Designs&#10;Mark Studio: https://twitter.com/MSTUDIO2018&#10;&#10;Shout out to all my promoters: &#10;SubmitHub: https://www.submithub.com/&#10;Submit your music to me here: https://www.submithub.com/to/just-alyx&#10;NoDQ.com: http://www.nodq.com/ &#10;The Spotlight: https://www.facebook.com/PWSpotlight/&#10;&#10;#WWE #Summerslam #MITB"
-    channeltitle "Just Alyx"
-    channelid "UCIr5p9znjWkmlUebyBvqZmQ"
+    date "2022-05-18T12:10:04Z"
+    title "Understanding #AntiBlackRacism and The Great Replacement Theory #WhiteViolence"
+    description "Talking about the ideology of #AntiBlackRacism #kylerittenhouseeffect  #NewBlackMedia&#13;&#10;&#13;&#10;Follow me on IG@Beatzillapdx,Twitter@Beatzillapdx,OurRealTruth With Beatzillapdx Official/Anchor.FM/Ourrealtruth@gmail.com &#13;&#10;CashApp/$beatzillapdx&#13;&#10;https://www.paypal.me/ZillaMuzak&#13;&#10;&#13;&#10;&#13;&#10;https://www.facebook.com/JusticeforMichelleAvan/&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Due to the Fair Use Act of 1976 We Are Sharing This Information For Educational Purposes. Content.https://en.m.wikipedia.org/"
+    channeltitle "BeatZillaPDX Official"
+    channelid "UCM2G2ZS_ACVdpReVy7-2VTg"
     favcount 0
-    viewcount 1581
-    likecount 133
-    commentcount 104
-    duration "PT11M2S"
+    viewcount 199
+    likecount 46
+    commentcount 2
+    duration "PT46M40S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.13398765
+    PERSPECTIVEPROFANITY 0.12163652
+    PERSPECTIVEFLIRTATION 0.4530645
+    PERSPECTIVETHREAT 0.36600292
+    PERSPECTIVETOXICITY 0.3437808
+    PERSPECTIVEINSULT 0.16917117
+    PERSPECTIVEIDENTITYATTACK 0.3928155
+    PERSPECTIVEINFLAMMATORY 0.07510081
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    cluster 2
   ]
   node
   [
-    id 303
-    name "440"
+    id 440
     label "ieE2wHgkQUM"
     step 0
     date "2022-05-25T20:47:35Z"
@@ -9109,84 +8226,75 @@ graph
     likecount 3
     commentcount 1
     duration "PT21M59S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.06031832
+    PERSPECTIVEPROFANITY 0.05690507
+    PERSPECTIVEFLIRTATION 0.19419137
+    PERSPECTIVETHREAT 0.10974729
+    PERSPECTIVETOXICITY 0.05653196
+    PERSPECTIVEINSULT 0.044339877
+    PERSPECTIVEIDENTITYATTACK 0.0680949
+    PERSPECTIVEINFLAMMATORY 0.18754938
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 9
   ]
   node
   [
-    id 304
-    name "441"
-    label "QVdbbaSl0GQ"
+    id 442
+    label "BRfszwy9gMk"
     step 0
-    date "2022-05-19T03:53:10Z"
-    title "(Ep. 52) Buffalo Shooting, Othering, White Supremacy, Great Replacement BS, and Media Complicity"
-    description "A white supremacist murdered multiple people in Buffalo, NY, driven to murder by, at least in part, the so-called Great Replacement conspiracy theory which is extremely popular amongst racists, nazis, white supremacists all across the globe, and the alt-right in the United States.&#10;&#10;This racist theory has been trumpeted all across the media, but nowhere more loudly than FOX News, and its most popular host, Tucker Carlson.&#10;&#10;Join me as we suss out how, why, and where these theories are spread and how they connect to the idea of othering and white supremacy.&#10;&#10;-----------------------------------------&#10;&#10;This podcast and related works take a lot of effort and time to produce!&#10;&#10;Please help us keep it going if you are able with a one-time donation or recurring subscription at Buy Me A Coffee!&#10;&#10;LINK: www.buymeacoffee.com/tribunusplebis&#10;&#10;Please, if you have a moment, take a second to rate and review on Apple! It's the single best way you can help us grow aside from word of mouth!&#10;&#10;Apple Podcasts: https://apple.co/2Fa69IA&#10;&#10;Check out all of our links at our LinkTree!&#10;&#10;https://linktr.ee/TribunusPlebisMedia"
-    channeltitle "Tribunus Plebis Media"
-    channelid "UCIdkBWzR_2e9QwYkCzI21jQ"
+    date "2022-05-17T16:49:03Z"
+    title "Tucker Carlson spreading the  lie."
+    description "A short compilation of Fox News host Tucker Carlson spreading the neo-Nazi conspiracy theory called the great replacement theory -- often also referred to as the white genocide conspiracy theory."
+    channeltitle "The AAve Report"
+    channelid "UCD78E4d2NgBtykOCAYyaFJw"
     favcount 0
-    viewcount 26
-    likecount 4
-    commentcount 2
-    duration "PT30M36S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
-  ]
-  node
-  [
-    id 305
-    name "443"
-    label "wjSN9hjqSQo"
-    step 0
-    date "2022-01-17T18:56:51Z"
-    title "The Political Psychology Behind The Replacement Theory"
-    description "The subconscious impact of the &#34;Replacement Theory&#34;. This is what conservatives are triggering over and over again.&#10;&#10;This is from the series Hacking the Mind.&#10;&#10;PLEASE seek out and view the entire series."
-    channeltitle "OfSoundMInd"
-    channelid "UCj7iNE9Lkb4PD6-jtSs2tfw"
-    favcount 0
-    viewcount 12
+    viewcount 18
     likecount 0
     commentcount 0
-    duration "PT4M45S"
-    indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    duration "PT1M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.018990085
+    PERSPECTIVEPROFANITY 0.07663795
+    PERSPECTIVEFLIRTATION 0.23387975
+    PERSPECTIVETHREAT 0.10313184
+    PERSPECTIVETOXICITY 0.37954164
+    PERSPECTIVEINSULT 0.35257697
+    PERSPECTIVEIDENTITYATTACK 0.07775521
+    PERSPECTIVEINFLAMMATORY 0.006657856
+    indegree 0
     cluster 2
   ]
   node
   [
-    id 306
-    name "446"
+    id 445
+    label "S3MGB7i8I3U"
+    step 0
+    date "2022-05-16T17:42:22Z"
+    title "WHITE REPLACEMENT THEORY?"
+    description ""
+    channeltitle "VOVO RANTS"
+    channelid "UCgYwq23-lUVJIzuJdXMnNOw"
+    favcount 0
+    viewcount 169
+    likecount 33
+    commentcount 18
+    duration "PT13M9S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.044618577
+    PERSPECTIVEPROFANITY 0.05552099
+    PERSPECTIVEFLIRTATION 0.245677
+    PERSPECTIVETHREAT 0.061774183
+    PERSPECTIVETOXICITY 0.17380224
+    PERSPECTIVEINSULT 0.091976285
+    PERSPECTIVEIDENTITYATTACK 0.265007
+    PERSPECTIVEINFLAMMATORY 0.5720031
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 446
     label "zZwprcSZmGQ"
     step 0
     date "2022-07-09T03:46:38Z"
@@ -9199,24 +8307,21 @@ graph
     likecount 14
     commentcount 0
     duration "PT30M16S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.056072973
+    PERSPECTIVEPROFANITY 0.052086636
+    PERSPECTIVEFLIRTATION 0.4342014
+    PERSPECTIVETHREAT 0.09151446
+    PERSPECTIVETOXICITY 0.059728492
+    PERSPECTIVEINSULT 0.052201774
+    PERSPECTIVEIDENTITYATTACK 0.040225513
+    PERSPECTIVEINFLAMMATORY 0.0021076691
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 307
-    name "447"
+    id 447
     label "uYEIrhdXfCE"
     step 0
     date "2022-05-15T03:40:46Z"
@@ -9229,114 +8334,102 @@ graph
     likecount 2
     commentcount 5
     duration "PT1H9M9S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.110074654
+    PERSPECTIVEPROFANITY 0.117861286
+    PERSPECTIVEFLIRTATION 0.406181
+    PERSPECTIVETHREAT 0.7649583
+    PERSPECTIVETOXICITY 0.1464265
+    PERSPECTIVEINSULT 0.0853072
+    PERSPECTIVEIDENTITYATTACK 0.10773716
+    PERSPECTIVEINFLAMMATORY 0.5296546
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 1
   ]
   node
   [
-    id 308
-    name "448"
-    label "f2hYygLnI6Y"
+    id 451
+    label "57mvka5gSH0"
     step 0
-    date "2021-08-22T23:38:45Z"
-    title "EPISODE 8 - CAPITOL BOMBING AND GREAT REPLACEMENT LONGING"
-    description "Today we delve into one of the republican party's favorite talking points - the great replacement theory, and how we as a nation can begin to tackle issues with our voting system, namely, the electoral college."
-    channeltitle "Chadvocate"
-    channelid "UCdMvQKZa1ZHu4L2I-_GkZ0A"
+    date "2021-06-16T05:34:01Z"
+    title "RE:Tim Pool Ep 1 The Great Replacement?"
+    description "In this episode, I give a breakdown of Tim Pool's video from Mon 6/14/21."
+    channeltitle "Amber Racek"
+    channelid "UCnbtR3e3HrO5OGGW0DKPydg"
     favcount 0
-    viewcount 7
+    viewcount 42
+    likecount 2
+    commentcount 0
+    duration "PT9M33S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.05927806
+    PERSPECTIVEPROFANITY 0.02647023
+    PERSPECTIVEFLIRTATION 0.40955368
+    PERSPECTIVETHREAT 0.07317502
+    PERSPECTIVETOXICITY 0.0142302895
+    PERSPECTIVEINSULT 0.031137815
+    PERSPECTIVEIDENTITYATTACK 0.035757717
+    PERSPECTIVEINFLAMMATORY 0.18234657
+    indegree 1
+    cluster 5
+  ]
+  node
+  [
+    id 454
+    label "96GRdNu7xpc"
+    step 0
+    date "2022-05-18T00:24:40Z"
+    title "The  Theory"
+    description "The 12 Tribes Of The Nation Of Israel&#10;&#10;Judah African Americans&#10;Benjamin West Indians&#10;Levi Haitians&#10;Ephraim Puerto Ricans&#10;Simeon Dominicans&#10;Manassah Cubans&#10;Zebulon Guatemalans To Panamanians&#10;Gad North American Indians&#10;Reuben Seminole Indians&#10;Napthali Argentinians To Chileans&#10;Asher Colombians To Uruguayans&#10;Issachar Mexicans&#10;&#10;You Are The True Biblical Hebrew Israelites According To The Holy Bible... Shalawam!!!"
+    channeltitle "Gms fortheelectsake2"
+    channelid "UCP2SH7BHijoqJAoQfeJ3s-g"
+    favcount 0
+    viewcount 5
     likecount 0
     commentcount 0
-    duration "PT47M24S"
+    duration "PT28M32S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.054746814
+    PERSPECTIVEPROFANITY 0.06676095
+    PERSPECTIVEFLIRTATION 0.32873112
+    PERSPECTIVETHREAT 0.16119231
+    PERSPECTIVETOXICITY 0.038224805
+    PERSPECTIVEINSULT 0.074724816
+    PERSPECTIVEIDENTITYATTACK 0.06536583
+    PERSPECTIVEINFLAMMATORY 0.000787651
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 309
-    name "452"
-    label "BKWUREF3Of4"
+    id 456
+    label "SyOZpymqqNI"
     step 0
-    date "2021-05-05T07:30:59Z"
-    title "Shelli Debunks The Great Replacement Theory"
-    description "Shelli Knowledge PSA @AllAccountable #AccountabilityNOW #AskShelli"
-    channeltitle "All Accountable"
-    channelid "UC8wBks2Xghw7bjlz55gc4-A"
+    date "2022-07-09T02:54:11Z"
+    title "Tucker Carlson EXPOSES Media Manipulation. Heres how."
+    description "Tucker Carlson was recently interviewed by Ben Smith at the launch of Semafor, a new digital media company. The interview was widely panned in conservative media as evidence of Tucker Carlson &#34;steamrolling&#34; Ben Smith for constantly calling Tucker Carlson a white supremacist, racist, and extoller of the Great Replacement Theory. Mr. Watson analyzes a few instances form the Smith-Carlson exchange and explains how Carlson thoroughly exposed media manipulation in that moment. Mr. Watson furthermore makes several points about epistemology, including about the importance of understanding the relationship between concepts and action. Watch for more!&#10;&#10;#tuckercarlson #bensmith #semafor #mediaexposed #politics #media #conservativemedia #propaganda #news #libertarianism #commentary #foxnews"
+    channeltitle "Christian Watson"
+    channelid "UCuIAz0mwMNVP0o7Wn5jMKQA"
     favcount 0
-    viewcount 25
-    likecount 0
-    commentcount 0
-    duration "PT27M47S"
+    viewcount 344
+    likecount 75
+    commentcount 14
+    duration "PT16M11S"
+    sentiment -0.4019
+    PERSPECTIVESEXUALLYEXPLICIT 0.06813404
+    PERSPECTIVEPROFANITY 0.09817523
+    PERSPECTIVEFLIRTATION 0.4214494
+    PERSPECTIVETHREAT 0.30904925
+    PERSPECTIVETOXICITY 0.2936093
+    PERSPECTIVEINSULT 0.13983747
+    PERSPECTIVEIDENTITYATTACK 0.19258815
+    PERSPECTIVEINFLAMMATORY 0.22876917
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 8
   ]
   node
   [
-    id 310
-    name "455"
-    label "i9w-LuZkK_c"
-    step 0
-    date "2022-07-12T05:45:00Z"
-    title "Bidens approval continues to plummet as crises mount"
-    description "Former Trump White House counselor Kellyanne Conway and ex-Chief of Staff Mark Meadows join 'Hannity' with reaction and analysis. #foxnews #hannity  &#10;&#10;Subscribe to Fox News! https://bit.ly/2vaBUvAS&#10;Watch more Fox News Video: http://video.foxnews.com&#10;Watch Fox News Channel Live: http://www.foxnewsgo.com/&#10;&#10;FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.&#10;&#10;Watch full episodes of your favorite shows&#10;The Five: http://video.foxnews.com/playlist/lon...&#10;Special Report with Bret Baier: http://video.foxnews.com/playlist/lon...&#10;Fox News Primetime: https://video.foxnews.com/playlist/on...&#10;Tucker Carlson Tonight: http://video.foxnews.com/playlist/lon...&#10;Hannity:  http://video.foxnews.com/playlist/lon...&#10;The Ingraham Angle: http://video.foxnews.com/playlist/lon...&#10;Fox News @ Night: http://video.foxnews.com/playlist/lon...&#10;&#10;Follow Fox News on Facebook: https://www.facebook.com/FoxNews/&#10;Follow Fox News on Twitter: https://twitter.com/FoxNews/&#10;Follow Fox News on Instagram: https://www.instagram.com/foxnews/"
-    channeltitle "Fox News"
-    channelid "UCXIJgqnII2ZOINSWNOGFThA"
-    favcount 0
-    viewcount 70869
-    likecount 2890
-    commentcount 699
-    duration "PT6M9S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "Mainstream News|PartisanRight"
-    leftright "R"
-    cluster 4
-  ]
-  node
-  [
-    id 311
-    name "457"
+    id 457
     label "D2f9Niy9dII"
     step 0
     date "2022-05-19T04:15:11Z"
@@ -9349,114 +8442,102 @@ graph
     likecount 3
     commentcount 1
     duration "PT22M42S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.16900988
+    PERSPECTIVEPROFANITY 0.13266635
+    PERSPECTIVEFLIRTATION 0.50546724
+    PERSPECTIVETHREAT 0.14567919
+    PERSPECTIVETOXICITY 0.024662184
+    PERSPECTIVEINSULT 0.13442849
+    PERSPECTIVEIDENTITYATTACK 0.13543655
+    PERSPECTIVEINFLAMMATORY 0.21264245
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 5
   ]
   node
   [
-    id 312
-    name "458"
-    label "e_FwMayQmuc"
+    id 459
+    label "-HwiqIhlzjc"
     step 0
-    date "2021-11-06T05:37:22Z"
-    title "7 MINUTE DEBUNK..Shelli Debunks The Great Replacement Theory! #ThereAreNoRaces"
-    description "7 MINUTE DEBUNK...Shelli Debunks The Great Replacement Theory! #BonusInfo #StopBeingCrazy #FixYourSelfEsteem #LeavePeopleAlone #GoldenRule #AskShelli"
-    channeltitle "ASK SHELLI THE PODCAST!"
-    channelid "UCWdWybtP5d7y0T_8SWSFFlw"
+    date "2022-05-25T12:00:11Z"
+    title "REPUBLICANS PROMOTED GREAT REPLACEMENT THEORY, NOT HELD ACCOUNTABLE FOR BUFFALO SHOOTING"
+    description "Republicans in Congress aggressively pushed back against charges their rhetoric may have helped fuel the hate of the 18-year-old Buffalo shooter who allegedly committed one of the deadliest racist murder sprees in recent history Saturday, even as one of their GOP colleagues accused them of enabling white nationalism.&#10;&#10;ARTICLE : https://www.bostonglobe.com/2022/05/16/nation/republicans-who-helped-advance-racist-theory-connected-buffalo-shooting-dont-repudiate-their-rhetoric/?p1=BGSearch_Advanced_Results&#10;&#10;#GREATREPLACEMENTTHEORY #Republicans #RACIST &#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;Fat Caps by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/&#10;&#10;Artist: http://audionautix.com/&#10;&#10;1. Are You Pro 2a &#38; a firearm Enthusiast ? Follow my channel Government Issued : https://www.youtube.com/channel/UCwvdznaABxNyL7_TiGzytLA&#10;&#10;2. Are You a Video Game Enthusiast ? Follow my channel LTR Game Streams With Troy : https://www.youtube.com/channel/UCd4Ho24x4VglNB92vrgQUdA&#10;&#10;3. Are You a Drone Pilot and enjoy the hobby ? Follow My channel Troy Drone Flights : https://www.youtube.com/channel/UC2ZqPCTs-4qNWCQR9QMdR0A&#10;&#10;Equipment That Make The Dream Work :&#10;&#10;Canon M50 -  https://www.amazon.com/Canon-M50-Mirrorless-Accessory-Including/dp/B07KMHTZVS/ref=sr_1_5?crid=3CEU9X6RT7D9Q&#38;keywords=canon%2Bm50&#38;qid=1643950847&#38;sprefix=canon%2Bm50%2Caps%2C197&#38;sr=8-5&#38;th=1&#10;&#10;Sony ZV - https://www.amazon.com/Sony-Content-Creators-Vlogging-Microphone/dp/B08965JV8D/ref=sr_1_1?crid=18UOG31VZNFH2&#38;keywords=ZV-1sony&#38;qid=1643951324&#38;s=electronics&#38;sprefix=zv-1sony%2B%2Celectronics%2C235&#38;sr=1-1&#38;th=1&#10;&#10;Rode Wireless Mic - https://www.amazon.com/Rode-Wireless-II-Microphone-Professional/dp/B09RBFVFZZ/ref=sr_1_6?crid=1URLIVYW3R44I&#38;keywords=rode+wireless+go+2&#38;qid=1643951404&#38;s=electronics&#38;sprefix=rode+%2Celectronics%2C100&#38;sr=1-6&#10;&#10;Camtasia - https://www.amazon.com/Camtasia-2021-Screen-Recorder-Editor/dp/B091J6BD2Y/ref=sr_1_1_sspa?keywords=camtasia&#38;qid=1643951588&#38;sr=8-1-spons&#38;psc=1&#38;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRUFZXWTFaT1pINDYmZW5jcnlwdGVkSWQ9QTAyNzc3NjAyNTVGV1YyMktTWTAmZW5jcnlwdGVkQWRJZD1BMDgxNzU0NzM4STZXSlVQR0JQTlQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&#10;&#10;Blueyeti Microphone - https://www.amazon.com/Camtasia-2021-Screen-Recorder-Editor/dp/B091J6BD2Y/ref=sr_1_1_sspa?keywords=camtasia&#38;qid=1643951588&#38;sr=8-1-spons&#38;psc=1&#38;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRUFZXWTFaT1pINDYmZW5jcnlwdGVkSWQ9QTAyNzc3NjAyNTVGV1YyMktTWTAmZW5jcnlwdGVkQWRJZD1BMDgxNzU0NzM4STZXSlVQR0JQTlQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&#10;&#10;Support The Channel By Donating Via Cash App Link Below&#10;http://cash.app/$TroyBk7&#10;&#10;Support The Channel By Donating Via Pay Pal Link Below &#10;https://www.paypal.com/donate?hosted_button_id=BASM4D4CCCW9L"
+    channeltitle "BLACK TALK TODAY"
+    channelid "UCMIrXd0uDytJu6aP3Q7cMjA"
     favcount 0
-    viewcount 203
+    viewcount 7
+    likecount 1
+    commentcount 1
+    duration "PT20M6S"
+    sentiment 0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.067709394
+    PERSPECTIVEPROFANITY 0.19202277
+    PERSPECTIVEFLIRTATION 0.27178454
+    PERSPECTIVETHREAT 0.15787876
+    PERSPECTIVETOXICITY 0.23365098
+    PERSPECTIVEINSULT 0.6436917
+    PERSPECTIVEIDENTITYATTACK 0.19290492
+    PERSPECTIVEINFLAMMATORY 0.6621332
+    indegree 0
+    cluster 8
+  ]
+  node
+  [
+    id 463
+    label "O8Zql38B_mU"
+    step 0
+    date "2022-05-17T08:03:39Z"
+    title " IS TRENDING BECAUSE WE SET THE TRENDS HERE!"
+    description "GIVE US A BREAK!!"
+    channeltitle "Nays Garden"
+    channelid "UCPKOeMXpjaAyHIY05hR_dcQ"
+    favcount 0
+    viewcount 6
     likecount 0
-    commentcount 6
-    duration "PT27M47S"
+    commentcount 0
+    duration "PT1H47M40S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.08813394
+    PERSPECTIVEPROFANITY 0.08244584
+    PERSPECTIVEFLIRTATION 0.3776288
+    PERSPECTIVETHREAT 0.10361266
+    PERSPECTIVETOXICITY 0.15042676
+    PERSPECTIVEINSULT 0.08675394
+    PERSPECTIVEIDENTITYATTACK 0.117957875
+    PERSPECTIVEINFLAMMATORY 0.0025560514
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 11
   ]
   node
   [
-    id 313
-    name "460"
-    label "heCwCwSMQH8"
+    id 465
+    label "sICE3reTNrQ"
     step 0
-    date "2022-07-12T10:58:19Z"
-    title "Sentinels SIGN Zellsis, BENCH Kanpeki!! More Signings Soon?  VALORANT News"
-    description "Follow me on Twitter: https://www.twitter.com/tacticalrab&#10;__________________________________________________________________&#10;&#10;Join My Discord Server: https://discord.gg/kagp4yK&#10;&#10;Support the channel via Paypal: https://www.paypal.me/TacticalRab&#10;&#10;Support the channel via Amazon Affiliate Link: https://amzn.to/2CN4Fm5&#10;My Recording Equipment: https://www.amazon.co.uk/shop/tactica...&#10;&#10;Looking to record or stream your gameplay? Choose Elgato:&#10;https://e.lga.to/BreakingPoint&#10;&#10;---&#10;&#10;References:&#10;https://twitter.com/playvalorant/status/1546509673624485888?s=21&#38;t=jG9QiaUmMlMqZzS8W1KlBQ&#10;https://twitter.com/pprxteam/status/1546520121136627713?s=21&#38;t=P_aCpz6GZE0EDwdsEmhyFQ&#10;https://twitter.com/FPX_Esports/status/1546425533445001217&#10;https://twitter.com/ValorantEsports/status/1546557234628333568&#10;https://twitter.com/ValorantEsports/status/1546582971645173761&#10;https://twitter.com/ValorantEsports/status/1546596531498758144&#10;https://twitter.com/ValorantEsports/status/1546614011290038272&#10;https://www.vlr.gg/112284/guild-esports-vs-kr-esports-valorant-champions-tour-stage-2-masters-copenhagen-winners-a/?game=90561&#38;tab=overview&#10;https://twitter.com/fullsquadgaming/status/1546489906872164353&#10;https://twitter.com/GeorgeCGed/status/1546574672925425670&#10;https://twitter.com/Sentinels/status/1546616404085915649&#10;https://twitter.com/Zellsis/status/1546710758817468416&#10;https://twitter.com/ShahZaMk/status/1546662212336492545/photo/1&#10;https://twitter.com/Rawkus/status/1546617177805135873&#10;https://twitter.com/zander_fps/status/1546617386123644928&#10;https://twitter.com/zombs/status/1546617478679240704&#10;https://twitter.com/robmooreEsports/status/1546635872757420034&#10;https://twitter.com/willminder/status/1546654120513265665&#10;https://www.vlr.gg/player/729/zellsis/?timespan=90d&#10;https://www.vlr.gg/player/848/kanpeki/?timespan=90d&#10;https://twitter.com/yayFPS/status/1518332717225504769&#10;https://twitter.com/valesports_na/status/1546645515063918600&#10;&#10;Breaking Point: https://www.breakingpoint.gg&#10;&#10;Timestamps:&#10;0:00 Alright guys&#10;0:30 Masters Copenhagen&#10;4:15 Zellsis to Sentinels&#10;11:00 OpTic vs LOUD&#10;&#10;---&#10;&#10;TacticalRab, VALORANT, valorant esports, valorant competitive, gameplay, montage, 100 thieves, 100t, 100thieves, Team Sentinels, TenZ, Asuna, SicK, Hiko, ShahZaM, Steel, FNS, dapr, mixwell, ScreaM, FaZe Clan, TSM, OpTic, G2, Gambit, rostermania, esports, roster changes, roster news, valorant news, best plays, highlights, pro, sinatraa, drama, esports news, tacticalrab, babybay, zyppan, wardell, BuZz, cNed, Mako, nAts, Turko, Dephh, Doma, Immortals, GenG, Gen.G, valorant scores, valorant results, Sentinels SIGN Zellsis, BENCH Kanpeki!! More Signings Soon? &#128561; VALORANT News&#10;&#10;___&#10;&#10;To keep up with the latest competitive VALORANT esports news, please LIKE and consider subscribing to keep up to date.&#10;&#10;__________________________________________________________________&#10;#VALORANT #VCT #VCT2022"
-    channeltitle "VALORANT News - TacticalRab"
-    channelid "UC5MpUQ8KYNo1lPG6bApEb8w"
+    date "2022-05-16T03:03:53Z"
+    title "Buffalo Shooter/Terrorist Tucker Carlsons White Replacement Theory To Commit Murder"
+    description "Follow me on IG: Everydaythang_PJ&#10;&#10;For Promo or Business Inquiries: EverydaythangwithPJ@gmail.com&#10;&#10;Subscribe to Gaming with PJ YouTuber Channel: &#10;https://youtube.com/channel/UC4OQf0uhqQgAfVg7_Rknvow&#10;&#10;Follow me on Nike Run Club: Everyday Thang PJ Youtube&#10;&#10;Follow my Facebook: https://www.facebook.com/Everyday-Thang-With-PJ-103411717980745/&#10;&#10;ShoNuff Soundz: https://www.youtube.com/channel/UC-7N6OmvvbjLmg_a3uaDecg"
+    channeltitle "EVERYDAY PJ"
+    channelid "UCfbnj8G41uKDMxiwSZEu3FA"
     favcount 0
-    viewcount 24151
-    likecount 712
-    commentcount 148
-    duration "PT12M5S"
+    viewcount 76
+    likecount 7
+    commentcount 0
+    duration "PT9M47S"
+    sentiment -0.5423
+    PERSPECTIVESEXUALLYEXPLICIT 0.1315575
+    PERSPECTIVEPROFANITY 0.32105795
+    PERSPECTIVEFLIRTATION 0.3536248
+    PERSPECTIVETHREAT 0.8763936
+    PERSPECTIVETOXICITY 0.5835036
+    PERSPECTIVEINSULT 0.569397
+    PERSPECTIVEIDENTITYATTACK 0.8008965
+    PERSPECTIVEINFLAMMATORY 0.6503084
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 314
-    name "464"
-    label "_yBEU0LT3kA"
-    step 0
-    date "2022-07-08T13:38:43Z"
-    title "1997 Suzuki RM250 Classic Motocross Review"
-    description "This is a look back at Suzuki's controversial 1997 RM250. A machine that ended Jeremy McGrath's streak of Supercross championship victories. Today, the machine gets painted as a failure but the reality is that the RM was far from the epic turd many would have you believe. While perhaps not a great pro machine, the 1997 RM had a lot of good things going for it in 1997. &#10;&#10;Support The Motocross -&#10;Motocross Vault Merch here - https://teespring.com/stores/the-motocross-vault&#10;Patreon here- https://www.patreon.com/themotocrossvault&#10;Book the adventure ride of a lifetime at https://www.speedandsportadventures.com&#10;If you are in the market for some oil head on over to Blendzall.com and use the discount code VAUlT20 at checkout to same 20%&#10;&#10;&#10;&#10;&#10;Follow the motocross vault -&#10;https://www.facebook.com/TheMotocrossVault/&#10;https://www.instagram.com/tonyblazier/&#10;&#10;My classic racing channel-&#10;https://www.youtube.com/channel/UCKCNJkofVMF7i4yLxLAmG9g/channels?view_as=subscriber"
-    channeltitle "The Motocross Vault"
-    channelid "UCbYRYiHqEqWKIOL4HbwS20g"
-    favcount 0
-    viewcount 2282
-    likecount 146
-    commentcount 39
-    duration "PT20M46S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 315
-    name "466"
+    id 466
     label "Qjyk8iEyFQ4"
     step 0
     date "2022-05-29T01:17:26Z"
@@ -9469,84 +8550,75 @@ graph
     likecount 30
     commentcount 0
     duration "PT1H36M7S"
+    sentiment 0.765
+    PERSPECTIVESEXUALLYEXPLICIT 0.028205156
+    PERSPECTIVEPROFANITY 0.03923725
+    PERSPECTIVEFLIRTATION 0.25395256
+    PERSPECTIVETHREAT 0.22485983
+    PERSPECTIVETOXICITY 0.17661177
+    PERSPECTIVEINSULT 0.15967697
+    PERSPECTIVEIDENTITYATTACK 0.21359958
+    PERSPECTIVEINFLAMMATORY 0.7907267
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 316
-    name "467"
-    label "gRsCK2UHy5s"
+    id 472
+    label "tMrj8G3COqE"
     step 0
-    date "2022-07-11T07:17:25Z"
-    title "Conspiracy Theories: Cern, Great Replacement, Georgia Guidestones, Crisis Actors, Critical Theory"
-    description ""
-    channeltitle "Mythic Politics"
-    channelid "UCK4C3OluhyMkjLKUpUaIReQ"
+    date "2022-05-26T04:41:38Z"
+    title "A Comment on Louder with Crowders Take on The Great Replacement Theory"
+    description "Twitter:&#10;https://twitter.com/themagicconch16&#10;Patreon:&#10;https://www.patreon.com/themagicconch17&#10;Subscribe Star:&#10;https://www.bitchute.com/membership/configure/&#10;&#10;#louderwithcrowder #greatreplacementtheory"
+    channeltitle "itreadonyou"
+    channelid "UCoN-URBU7fBHW-aGiqDw_7g"
     favcount 0
-    viewcount 226
-    likecount 145
-    commentcount 3
-    duration "PT5H45S"
-    indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 317
-    name "473"
-    label "UCRAvR2--Nc"
-    step 0
-    date "2022-05-18T16:20:46Z"
-    title "Kinzinger calls out GOP leaders for tolerating White replacement theory"
-    description "Kinzinger calls out GOP leaders for tolerating White replacement theory&#10;&#10;&#10;&#10;#MSN #MSN_GLOBALink #MSN_News&#10;Twitter :- @MsnGlobalink&#10;Facebook:-@MsnGlobalink&#10; www.msn.com"
-    channeltitle "MSN GLOBALink"
-    channelid "UCfbhn92TawtIKRZd8M2doyQ"
-    favcount 0
-    viewcount 5
-    likecount 0
+    viewcount 44
+    likecount 2
     commentcount 0
-    duration "PT1M53S"
+    duration "PT17M32S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.05962337
+    PERSPECTIVEPROFANITY 0.05946504
+    PERSPECTIVEFLIRTATION 0.4451823
+    PERSPECTIVETHREAT 0.27542537
+    PERSPECTIVETOXICITY 0.038053125
+    PERSPECTIVEINSULT 0.05698539
+    PERSPECTIVEIDENTITYATTACK 0.13607284
+    PERSPECTIVEINFLAMMATORY 0.1237463
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 9
   ]
   node
   [
-    id 318
-    name "475"
+    id 474
+    label "ZgXY30mKrLA"
+    step 0
+    date "2022-05-15T19:59:36Z"
+    title "The Great Replacement Theory that lead to the Buffalo massacre: a lie from Hell"
+    description "Another mass shooting committed by a white supremacist who was spoon fed hate from Tucker Carlson and the MAGA cult. these people may think they are Christians but they are not they are Satan's spawn"
+    channeltitle "AVoiceCrying33"
+    channelid "UCS3vUUOSDA_7AC_xKtUD1Jg"
+    favcount 0
+    viewcount 47
+    likecount 1
+    commentcount 0
+    duration "PT6M34S"
+    sentiment -0.128
+    PERSPECTIVESEXUALLYEXPLICIT 0.1378258
+    PERSPECTIVEPROFANITY 0.43744364
+    PERSPECTIVEFLIRTATION 0.35807657
+    PERSPECTIVETHREAT 0.63033384
+    PERSPECTIVETOXICITY 0.39010584
+    PERSPECTIVEINSULT 0.441661
+    PERSPECTIVEIDENTITYATTACK 0.28817478
+    PERSPECTIVEINFLAMMATORY 0.72782934
+    indegree 0
+    cluster 2
+  ]
+  node
+  [
+    id 475
     label "vGGwoBDWgGQ"
     step 0
     date "2022-05-17T22:59:12Z"
@@ -9559,144 +8631,129 @@ graph
     likecount 2
     commentcount 3
     duration "PT36S"
+    sentiment 0.8126
+    PERSPECTIVESEXUALLYEXPLICIT 0.06929714
+    PERSPECTIVEPROFANITY 0.055623353
+    PERSPECTIVEFLIRTATION 0.3165282
+    PERSPECTIVETHREAT 0.097684935
+    PERSPECTIVETOXICITY 0.05653196
+    PERSPECTIVEINSULT 0.055605624
+    PERSPECTIVEIDENTITYATTACK 0.051785972
+    PERSPECTIVEINFLAMMATORY 0.19717847
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 5
   ]
   node
   [
-    id 319
-    name "476"
-    label "D3nRPJrPocI"
+    id 478
+    label "wa3-TP5S0Sc"
     step 0
-    date "2022-05-20T13:15:15Z"
-    title "The Great Replacement Hoax | Plausible Foolishness Episode 262"
-    description "The tragic shooting in Buffalo has given the Democrats a new talking point. The Great Replacement Theory. It's typical B.S.&#10;Support the stream: https://streamlabs.com/plausiblefoolishness"
-    channeltitle "Plausible Foolishness"
-    channelid "UCAB6FHTVJoqqYghib4Q9lbw"
+    date "2022-06-05T04:21:16Z"
+    title "PAYTON GENDRON  theory #iaintblacknomoor/#iwannabewhite"
+    description "December 21, 2012 was the transition between the 5th Sun of Light (Divine Masculine--Left Brain; Rationality, Material Hording, etc)  and the 6th Sun of Darkness (Divine Femi9--Right Brain; The Dream World, Realms of the Psyche).  &#13;&#10;This Transition continued until approximately 4:45 a.m. Tuesday, December 21, 2021.  We are now FULLY in the Age of the 6th Sun.&#13;&#10;#DarkRift #2012 #SunCycle #SolCycle #SolarCycle #EndOfTheWorld&#13;&#10;******************************&#13;&#10;PATH OF THE PRIESTESS:&#13;&#10;She teaches through Joy and Sorrow, Pain and Pleasure, Passion and Coldness.&#13;&#10;*****************************&#13;&#10;Shen Pe Uts Taa-Neter&#13;&#10;buy me a coffee&#13;&#10;cash app: $ShenPe9&#13;&#10;paypal.me/shenpe9&#13;&#10;email/text me with any questions in reference to the videos:&#13;&#10;email me: shenpe9@gmail.com&#13;&#10;text me: 347-861-1413"
+    channeltitle "High Priestess of Babelon"
+    channelid "UCz6NbghgbXgl4DkkIrNN3zg"
     favcount 0
-    viewcount 13
-    likecount 3
-    commentcount 0
-    duration "PT1H24M44S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 4998
+    likecount 374
+    commentcount 3
+    duration "PT3H15M55S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.10661327
+    PERSPECTIVEPROFANITY 0.15443462
+    PERSPECTIVEFLIRTATION 0.30685717
+    PERSPECTIVETHREAT 0.17798701
+    PERSPECTIVETOXICITY 0.14104263
+    PERSPECTIVEINSULT 0.15125248
+    PERSPECTIVEIDENTITYATTACK 0.30229342
+    PERSPECTIVEINFLAMMATORY 0.0002490808
+    indegree 1
     cluster 4
   ]
   node
   [
-    id 320
-    name "479"
-    label "9Im3Qi_5mQU"
+    id 481
+    label "dMpcRSautQk"
     step 0
-    date "2022-07-10T04:52:13Z"
-    title "Shinzo Abe Conspiracy | Georgia Guidestones | Great Replacement Theory | Who are the Anti-Vaxxers"
-    description ""
-    channeltitle "Mythic Politics"
-    channelid "UCK4C3OluhyMkjLKUpUaIReQ"
+    date "2022-05-25T14:00:15Z"
+    title "DCA69 - FURRY REPLACEMENT THEORY"
+    description "In this episode, Dale and Kurt discuss news items including redistricting in Kansas, inflation, monkey pox, and mail in voting. Then, a deep dive on abortion and the so-called &#34;great replacement theory&#34; being touted by the media after the Buffalo shooting. Plus, Dale doesn't know what a furry is."
+    channeltitle "Dale Carter's America"
+    channelid "UCv8cDEw8lcsj3PRERRKn-sw"
     favcount 0
-    viewcount 151
-    likecount 10
-    commentcount 0
-    duration "PT2H41M9S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
-  ]
-  node
-  [
-    id 321
-    name "482"
-    label "DyZ8cjrkX78"
-    step 0
-    date "2022-07-08T15:30:51Z"
-    title "My Favorite LPVO Kinda Sucks"
-    description "You can't spell Credo without REEEEEEEEEE&#10;&#10;On paper, the Trijicon Credo 1-4 is the perfect LPVO, at least for me. I don't care about illumination, I just want a lightweight scope with a good reticle, and the Credo's segmented circle 55 gr BDC reticle delivers. But there's something seriously wrong with this thing.&#10;&#10;Support this channel on Subscribestar (or else):&#10;https://www.subscribestar.com/hoplopfheil&#10;&#10;Amazon links:&#10;https://amzn.to/3alEuEd - &#34;what backpack is that?&#34;&#10;https://amzn.to/3apT11F - Normal LPVO for Normal People (i.e. not me)"
-    channeltitle "Hoplopfheil"
-    channelid "UCCL9yfm-6Jbv9OxWi44-Zdw"
-    favcount 0
-    viewcount 54821
-    likecount 3011
-    commentcount 565
-    duration "PT13M22S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 322
-    name "486"
-    label "tFAm4OivRMk"
-    step 0
-    date "2021-05-25T00:06:58Z"
-    title "The great replacement theory is a lie"
-    description "This is a crazy right wing conspiracy in bedded with much racism, and anti-immigration beliefs. Most recognizably brought up I Tucker Carlson a Fox News. This has been around much longer than Tucker Carlson. So sit back and enjoy&#127871;&#128250;"
-    channeltitle "You&#8217;ve been Mungaid"
-    channelid "UCATOukIOde1TpBV-vqxoyPA"
-    favcount 0
-    viewcount 25
+    viewcount 36
     likecount 2
-    commentcount 8
-    duration "PT1M40S"
+    commentcount 1
+    duration "PT1H5M22S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.33004126
+    PERSPECTIVEPROFANITY 0.186852
+    PERSPECTIVEFLIRTATION 0.4885263
+    PERSPECTIVETHREAT 0.1481571
+    PERSPECTIVETOXICITY 0.067320265
+    PERSPECTIVEINSULT 0.1283729
+    PERSPECTIVEIDENTITYATTACK 0.10971089
+    PERSPECTIVEINFLAMMATORY 0.18443651
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 11
   ]
   node
   [
-    id 323
-    name "488"
+    id 485
+    label "s1Tgn2XGYpU"
+    step 0
+    date "2022-05-19T04:43:23Z"
+    title "Democrats have promoted replacement theory for years and that is why people talk about it now"
+    description "Yellowhammer Now - 5/18/22"
+    channeltitle "The Dale Jackson Show"
+    channelid "UCGH4YAITwDPV8dff-wJGmYw"
+    favcount 0
+    viewcount 11
+    likecount 0
+    commentcount 1
+    duration "PT7M15S"
+    sentiment 0.4215
+    PERSPECTIVESEXUALLYEXPLICIT 0.032295212
+    PERSPECTIVEPROFANITY 0.047696617
+    PERSPECTIVEFLIRTATION 0.1855247
+    PERSPECTIVETHREAT 0.037390925
+    PERSPECTIVETOXICITY 0.053335425
+    PERSPECTIVEINSULT 0.104608275
+    PERSPECTIVEIDENTITYATTACK 0.1325369
+    PERSPECTIVEINFLAMMATORY 0.36599535
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 487
+    label "7orBHegLAjg"
+    step 0
+    date "2022-07-11T19:00:09Z"
+    title "Lauren Southern: Why She Left The Internet, Exposing Fake Conservatives,  Her Controversies"
+    description "Youtuber &#38; political commentator Lauren Southern spills the tea on the inner workings of the online rightwing political sphere, debunks lies told about her, and Candian vs American politics.&#10;&#10;Listen on Apple Podcasts: https://bit.ly/TheBlaireWhiteProjectApple&#10;Listen on Spotify Podcasts: https://bit.ly/TheBlaireWhiteProjectSpotify&#10;&#10;&#8226; Subscribe to  on YT: https://www.youtube.com/c/LaurenSouthernOfficial  &#10;&#8226; Follow Lauren Southern on Twitter: @Lauren_Southern&#10;&#10;&#8226; Blaire's Main Youtube channel: https://www.youtube.com/blairewhitex&#10;&#8226; Blaire on Twitter &#38; IG: @msblairewhite &#10;&#8226; Buy Blaire White Merch: https://www.blairemerch.com/ &#10;&#8226; You can listen to this podcast on Spotify, Apple Podcasts, Amazon Music, and any platform you get podcasts.&#10;&#10;&#8226; Episode 6 with  @Tom MacDonald   : https://youtu.be/pDWRHXiXHTk&#10;&#8226; Episode 5 with   @Sydney Watson    : https://youtu.be/jGAhlZ196Hw&#10;&#8226; Episode 4 with    @Arielle Scarcella     : https://youtu.be/iUdMwCRQsHU&#10;&#8226; Episode 3 with Buck Angel: https://youtu.be/wY0v1lDz9h0&#10;&#8226; Episode 2 with Alex Jones: https://youtu.be/9BPPjxI61MY&#10;&#8226; Episode 1 with   @Michael Malice    : https://youtu.be/oOTH1F-sNXg&#10;&#10;- JOIN THIS CONVERSATION ON IBBLE&#10;Download the App to Talk directly with Blaire: https://www.getibble.com/&#10;The Blaire White Project Group on ibble - https://short.getibble.com/groups/LKjTzzRxjWx9V&#10;ibble Politics Group on ibble - https://short.getibble.com/groups/JhCjWxGZZzVdN"
+    channeltitle "The Blaire White Project"
+    channelid "UCa38X3NJPVlVIYlOg9R7FYw"
+    favcount 0
+    viewcount 63393
+    likecount 4053
+    commentcount 800
+    duration "PT1H35S"
+    sentiment -0.6369
+    PERSPECTIVESEXUALLYEXPLICIT 0.24402405
+    PERSPECTIVEPROFANITY 0.34200865
+    PERSPECTIVEFLIRTATION 0.51261204
+    PERSPECTIVETHREAT 0.32701388
+    PERSPECTIVETOXICITY 0.34388447
+    PERSPECTIVEINSULT 0.5665721
+    PERSPECTIVEIDENTITYATTACK 0.4276021
+    PERSPECTIVEINFLAMMATORY 0.45161092
+    indegree 1
+    cluster 5
+  ]
+  node
+  [
+    id 488
     label "fQ9WgGJm28Q"
     step 0
     date "2022-05-18T01:02:32Z"
@@ -9709,204 +8766,183 @@ graph
     likecount 0
     commentcount 0
     duration "PT5M17S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14028716
+    PERSPECTIVEPROFANITY 0.10523365
+    PERSPECTIVEFLIRTATION 0.2886812
+    PERSPECTIVETHREAT 0.11823324
+    PERSPECTIVETOXICITY 0.16151784
+    PERSPECTIVEINSULT 0.10935662
+    PERSPECTIVEIDENTITYATTACK 0.23187876
+    PERSPECTIVEINFLAMMATORY 0.64947635
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 324
-    name "489"
-    label "ydXdpHPNQ2U"
+    id 492
+    label "b3FI8id2wEM"
     step 0
-    date "2022-05-26T18:00:15Z"
-    title "THIS IS YOUR COUNTRY Ep. 11 | Replacement Theory and Practice"
-    description "It is irrefutably true that the United States government replaces its obligation to the interests of the American people with ever-expanding commitments to global causes and fealty to powerful Washington swamp factions and lobbies. The most concerning way in which they do this is with policy designed to maximize immigration, no matter the cost, downside, or destructive consequences to the people of this country.&#160;&#10;&#10;This episode explores the government's shockingly exploitative, unjust, and cruel immigration policy that harms American citizens and even the new arrivals under the guise of compassion and humanitarianism. Illustrating the depths of the depravity, this episode features a discovery Paige made that the government resettles the most unaccompanied illegal immigrant children in areas of the country where industries that seek cheap foreign labor, such as meatpacking plants, are located.&#10;&#10;Links to the show notes:&#10;https://im1776.com/2022/05/17/renaud-camus-interview/&#10;https://www.vox.com/world/2017/8/15/16141456/renaud-camus-the-great-replacement-you-will-not-replace-us-charlottesville-white&#10;https://www.washingtonpost.com/local/immigration/immigrant-kids-fill-this-towns-schools-their-bus-driver-resents-the-system-that-brought-them-here/2019/09/22/861c0fb4-d321-11e9-9610-fb56c5522e1c_story.html&#10;https://thehill.com/regulation/healthcare/246960-hhs-expands-protections-for-unaccompanied-children-immigrants/&#10;https://www.axios.com/2021/09/01/migrant-children-biden-administration&#10;https://www.washingtonpost.com/business/2020/04/20/meat-plant-pork-close/&#10;&#10;====&#10;About THIS IS YOUR COUNTRY:&#10;Former White House political adviser Paige Willey delivers a relentless deep dive into the current American condition. Drawing on her experience in Washington, she studies the dysfunction facing our country and outlines the way forward to restore our nation&#8217;s promise.&#10;&#10;Paige believes the great questions of our time will not be resolved with talking points and platitudes. THIS IS YOUR COUNTRY gets straight to the heart of the matter. Politics and strategy will be studied. The corrupt and craven ruling class will be skewered. Our degraded economy, society and culture will be scrutinized. Why? Because the American ethos has always been to believe a better way is possible&#8212;then to make it happen.&#10;&#10;Americans deserve a champion. The promise of our nation is slipping away. It&#8217;s time to build the great American revival.&#10;&#10;Remember to subscribe to catch new episodes of THIS IS YOUR COUNTRY every week. &#10;&#10;Apple Podcasts: https://podcasts.apple.com/us/podcast...&#10;Twitter: https://twitter.com/midwesterneur&#10;Instagram: https://www.instagram.com/paige__willey&#10;&#10;====&#10;&#128293; LEARN MORE ABOUT AMERICAN FIREBRAND &#128293;&#10; &#10;Website: https://americanfirebrand.com/&#10;&#10;===&#10;&#10;&#128293; OUR SOCIALS &#128293;&#10;&#10;Facebook: https://www.facebook.com/AmericanFire...&#10;&#10;Twitter: https://twitter.com/FirebrandPAC&#10;&#10;Instagram: https://www.instagram.com/americanfir...&#10;&#10;Gab: https://gab.com/AmericanFirebrand&#10;&#10;Gettr: https://gettr.com/user/amfirebrand"
-    channeltitle "American Firebrand"
-    channelid "UCMB3YoENtyzDVzenYusBLSw"
+    date "2022-06-05T15:00:12Z"
+    title "Why The White Genocide or Replacement Theory Is a Conspiracy PT 2"
+    description "Southern Poverty Law Center &#8211; Polls for the Great Replacement &#10;https://www.splcenter.org/news/2022/06/01/poll-finds-support-great-replacement-hard-right-ideas&#10;&#10;Booking edu &#8211; US white population declines and Gen Z + is minority white &#10;https://www.brookings.edu/blog/the-avenue/2018/06/21/us-white-population-declines-and-generation-z-plus-is-minority-white-census-shows/&#10;&#10;Pew Research &#8211; How most feel about the declining population of white people &#10;https://www.pewresearch.org/fact-tank/2021/08/23/most-americans-say-the-declining-share-of-white-people-in-the-u-s-is-neither-good-nor-bad-for-society/&#10;&#10;Here&#8217;s the 2021 US census &#10;https://www.census.gov/quickfacts/fact/table/US/PST045221&#10;White people are not going extinct or whatever this is ridiculous  &#10;&#10;Ghost DNA - https://www.npr.org/2020/02/12/805237120/ghost-dna-in-west-africans-complicates-story-of-human-origins&#10;&#10;Human Genome - https://www.genome.gov/dna-day/15-ways/human-origins-ancestry"
+    channeltitle "Jinks"
+    channelid "UC-x1PlKQjXjHMwxk5mDw1vA"
     favcount 0
-    viewcount 240
-    likecount 22
-    commentcount 5
-    duration "PT41M13S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 325
-    name "493"
-    label "j3NRcq9-P4c"
-    step 0
-    date "2022-07-08T17:57:47Z"
-    title "ALIENS (1986) - what the haters missed - film analysis / review"
-    description "Analysis / review of story structure and plot logistics in James Cameron's classic sci-fi sequel ALIENS (1986).&#10;&#10;Full 2 hr version (called ALIENS - Story structure, plot logistics and physicality) of this video is available at&#10;http://www.collativelearning.com/FILMS%20reviews%20BY%20ROB%20AGER.html and soon to my Patreon supporters. https://www.patreon.com/RobAger&#10;Collative Learning Merchandise at https://www.redbubble.com/people/Collative/shop&#10;And follow me on FB and Twitter for latest updates&#10;FACEBOOK: https://en-gb.facebook.com/RobAgerpublic/&#10;TWITTER: https://twitter.com/RobAger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&#10;I also have a FB membership page - Film, game and media analysis. Join up for discussions. https://www.facebook.com/groups/4637000646361309"
-    channeltitle "Collative Learning"
-    channelid "UC9wMJIgU25UtMV3arDeHDyA"
-    favcount 0
-    viewcount 28174
-    likecount 2076
-    commentcount 651
-    duration "PT20M44S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
-  ]
-  node
-  [
-    id 326
-    name "496"
-    label "OhBGzLbpghA"
-    step 0
-    date "2022-07-11T19:00:10Z"
-    title "Finding Jed Hall, Parents Speak Out! | Profiling Evil"
-    description "#JedHall #missingperson for 5 years until @ProfilingEvil and @AdventureswithPurpose #AWP joined forces to bring him home. #exclusive #interview with his parents. #Found #bodyfound &#10;=======================================&#10;Try Truthfinder: https://www.truthfinder.com/p/home/?irclickid=zxy1vhQR6xyIWtnWAQWxETBSUkDwYCVFRxhUUM0&#38;irmpname=Profiling%20Evil%2C%20LLC&#38;ircid=15694&#38;irpid=3466408&#38;irgwc=1&#38;subtheme=fathers-day&#10;&#10;&#128373;&#65039;JOIN THE PE ACADEMY: https://www.youtube.com/profilingevil/join&#10;&#10;&#128214; You can now get our new book Deceived on AMAZON: &#10;https://amzn.to/3eI8byo&#10;&#10;&#127897; Profiling Evil Podcast &#10;https://profilingevilpodcast.buzzsprout.com&#10;&#10;&#127897; Mapping Evil Podcast &#10;https://mappingevil.com&#10;&#10;&#128233; Profiling Evil B.O.L.O. Newsletter:&#10;https://www.profilingevil.com/newslettersignup&#10;&#10;Have a tip or a case you would like us to look at? &#10;&#128452; EVIDENCE ROOM SUBMISSIONS &#10;https://www.profilingevil.com/evidenceroom&#10;&#10;========================================&#10;&#10;Here are a few ways you can support Profiling Evil: &#10;&#10;&#128179; DONATE: https://profilingevil.com/donate&#10;&#128181; PayPal: https://paypal.me/profilingevil&#10;&#128373;&#65039;BECOME A MEMBER: https://www.youtube.com/profilingevil/join&#10;&#128722;SHOP MERCH: https://www.profilingevil.com/profilingevilshop&#10;&#128214;SHOP BOOKS: https://www.profilingevil.com/store&#10;&#10;&#129689;BITCOIN DONATIONS: bc1qk65vcsa3sra884za3e62hkak0mfzjn7cccwfvk&#10;&#10;========================================&#10;&#10;Where else you can find us:         &#10;&#9989;INSTAGRAM: https://cutt.ly/peinstagram @profilingevil&#10;&#9989;TWITTER: https://cutt.ly/petwitter @profilingevil&#10;&#9989;FACEBOOK:https://cutt.ly/pefacebook @profilingevil&#10;&#9989;WEBSITE: https://profilingevil.com&#10;&#9989;DISCORD: https://cutt.ly/pediscord&#10;&#10;========================================&#10;&#10;&#128506; PROFILING EVIL STORYMAPS: https://www.profilingevil.com/storymaps&#10;&#10;&#9993;&#65039; BUSINESS INQUIRIES: profilingevil@gmail.com&#10;&#10;&#128110;&#8205;&#9794;&#65039;CREATED BY: Mike King https://profilingevil.com&#10;&#127916; PRODUCED BY: CIRCA3 https://circa3.com&#10;&#127932; ORIGINAL MUSIC BY: Clifford W King https://cliffordwking.com&#10;&#10;Want to livestream try Streamyard: https://streamyard.com?pal=5466142729043968&#10;&#10;COPYRIGHT DISCLAIMER UNDER SECTION 107&#10;OF THE COPYRIGHT ACT 1976, ALLOWANCE IS&#10;MADE FOR &#8216;FAIR USE&#8217; FOR PURPOSES SUCH AS&#10;CRITICISM, COMMENT, NEWS REPORTING, TEACHING, &#10;SCHOLARSHIP AND RESEARCH. &#10;&#10;THE VIEWS AND OPINIONS IN THIS VIDEO ARE OUR&#10;OWN BASED ON A COMBINATION OF PERSONAL &#10;FACT CHECKING, ONLINE RESEARCH AND VERIFIABLE&#10;SOURCES UNLESS OTHERWISE NOTED. WE RESERVE &#10;THE RIGHT TO MODERATE DISCUSSION AND REMOVE &#10;COMMENTS/USERS AT OUR OWN DISCRETION. &#10;THIS VIDEO AND COMMENTS HEREIN IS INTENDED&#10;FOR ENTERTAINMENT PURPOSES ONLY. ALL SUSPECTS&#10;IN ALLEGED CRIMES ARE INNOCENT UNTIL PROVEN&#10;GUILTY IN A COURT OF LAW."
-    channeltitle "Profiling Evil"
-    channelid "UCVxvknxY87GXuteBkjkaj8A"
-    favcount 0
-    viewcount 10466
-    likecount 1231
-    commentcount 104
-    duration "PT54M53S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 327
-    name "498"
-    label "Iir7VRepr-E"
-    step 0
-    date "2022-06-01T09:37:29Z"
-    title "Alex Jones Bankruptcy | RussiaGate | Great Replacement | Who Conspiracy | FarCry5"
-    description "Reading conspiracy news, catching up with breadtube, and playing FarCry5. #farcry5 #cosnpiracy"
-    channeltitle "Mythic Politics"
-    channelid "UCK4C3OluhyMkjLKUpUaIReQ"
-    favcount 0
-    viewcount 287
-    likecount 35
-    commentcount 0
-    duration "PT6H59M25S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 328
-    name "501"
-    label "HChhpeLX-fc"
-    step 0
-    date "2022-05-18T17:18:59Z"
-    title "Mike Gallagher: Debating Bidens Replacement Theory Narrative With Democrat Caller"
-    description ""
-    channeltitle "Salem News Channel"
-    channelid "UCgV4zjmG_mUuCl_VwcXoRgg"
-    favcount 0
-    viewcount 29
+    viewcount 35
     likecount 1
-    commentcount 1
-    duration "PT9M3S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    commentcount 27
+    duration "PT51M55S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.17694737
+    PERSPECTIVEPROFANITY 0.31324017
+    PERSPECTIVEFLIRTATION 0.44254532
+    PERSPECTIVETHREAT 0.77859324
+    PERSPECTIVETOXICITY 0.38965073
+    PERSPECTIVEINSULT 0.40899256
+    PERSPECTIVEIDENTITYATTACK 0.74227625
+    PERSPECTIVEINFLAMMATORY 0.74053717
+    indegree 1
     cluster 6
   ]
   node
   [
-    id 329
-    name "503"
-    label "Vw6mCxVQI1A"
+    id 495
+    label "AANhStPbBKA"
     step 0
-    date "2022-07-11T23:38:07Z"
-    title "UC Council Meeting, JUL 11"
-    description ""
-    channeltitle "KISS TV"
-    channelid "UCUVH3SB54JHvHSKWiVVmmbg"
+    date "2020-10-17T09:35:53Z"
+    title "Le grand replacement of ."
+    description "White erasure, house by house, street by street, town by town, province by province, state by state, country by country until no European man, woman , child is left. You've seen it too right?&#10;&#10;(Wonder if this video will be glitch-hushed or if it'll be promoted. Hm.)"
+    channeltitle "Hanz Hugren"
+    channelid "UCb27bHaX-VUyAWQFDVFLggQ"
     favcount 0
-    viewcount 342
-    likecount 6
-    commentcount 7
-    duration "PT1H34M1S"
+    viewcount 111
+    likecount 18
+    commentcount 8
+    duration "PT14M22S"
+    sentiment 0.7964
+    PERSPECTIVESEXUALLYEXPLICIT 0.01578575
+    PERSPECTIVEPROFANITY 0.017018113
+    PERSPECTIVEFLIRTATION 0.375672
+    PERSPECTIVETHREAT 0.061554678
+    PERSPECTIVETOXICITY 0.006525108
+    PERSPECTIVEINSULT 0.026087139
+    PERSPECTIVEIDENTITYATTACK 0.06807738
+    PERSPECTIVEINFLAMMATORY 0.006311271
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 330
-    name "507"
+    id 497
+    label "zStSpmvhO_k"
+    step 0
+    date "2022-05-20T04:36:28Z"
+    title "Fox News  Theory Inspired Payton Gendron in Buffalo Supermarket Shootings"
+    description "Fox News &#34;great replacement' Theory Inspired Payton Gendron in Buffalo Supermarket Shootings&#13;&#10;&#13;&#10;payton gendron,&#13;&#10;payton gendron exposed,&#13;&#10;payton gendron tucker&#13;&#10;&#13;&#10;Payton Gendron, who officials said traveled &#8220;several hours&#8221; claimed in a 180-page diatribe that he was &#8220;radicalized&#8221; on the internet while he was bored during the early days of the pandemic, not by any people he has met personally.&#13;&#10;&#13;&#10;Through his &#8220;research,&#8221; the self-described white supremacist and anti-Semite came to see low white birth rates around the world as a &#8220;crisis&#8221; that &#8220;will ultimately result in the complete racial and cultural replacement of the European people,&#8221; he wrote.&#13;&#10;&#13;&#10;Investigators believe the manifesto is authentic and matches key personal details of the suspect and how the crime unfolded, law enforcement sources told The Post.&#13;&#10;&#13;&#10;&#10004;&#65039;Subscribe to FYF Sports https://www.youtube.com/channel/UCX9T2vC1e3gsd-VHeJlk4jQ&#13;&#10;&#9658; Follow on Twitter: http://www.twitter.com/fyfsports&#13;&#10;&#9658; Like on Facebook: http://www.facebook.com/fyfsportsdebates&#13;&#10;&#9658; Follow on Instagram: http://www.instagram.com/fyfsportsdebates&#13;&#10;&#9658;Buy Merchandise At:  https://teespring.com/stores/fyf-sports-podcast-storerts&#13;&#10;&#13;&#10;fox news,&#13;&#10;fox news live,&#13;&#10;fox news 5/18/22,&#13;&#10;fox news today,&#13;&#10;fox news the five,&#13;&#10;fox news live stream,&#13;&#10;fox news live stream now,&#13;&#10;fox news live stream today,&#13;&#10;fox news elon musk,&#13;&#10;elon musk twitter fox news,&#13;&#10;tucker carlson,&#13;&#10;tucker carlson tonight,&#13;&#10;tucker carlson tonight 5/18/22 full show,&#13;&#10;tucker carlson ukraine debate,&#13;&#10;great replacement theory,&#13;&#10;great replacement theory ben shapiro,&#13;&#10;great replacement theory explained&#13;&#10;&#13;&#10;USA, SPAIN, AUSTRALIA, ARGENTINA, SERBIA, FRANCE, GREECE, LITHUANIA,&#13;&#10;RUSSIA, BRAZIL, CZECH REPUBLIC, ITALY, POLAND, CROATIA, TURKEY, SLOVENIA, GERMANY, PUERTO RICO, DOMINICAN REPUBLIC, VENEZUELA, CANADA, NIGERIA, IRAN, MEXICO, NEW ZEALAND, MONTENEGRO, LATVIA, CHINA, UKRAINE, KOREA, PHILIPPINES, ANGOLA, TUNISIA, FINLAND, SENEGAL, GEORGIA, BELGIUM, JORDAN, ISRAEL, HUNGARY, JAPAN, GREAT BRITAIN, URUGUAY, NETHERLANDS, BOSNIA AND HERZEGOVINA, ICELAND, PANAMA, COTE D IVOIRE, BULGARIA, ESTONIA, US VIRGIN ISLANDS, BELARUS, NORTH MACEDONIA, ROMANIA, SWEDEN, DENMARK, AUSTRIA, LEBANON, BAHAMAS, EGYPT, SWITZERLAND, PORTUGAL, CUBA, CAMEROON, CHINESE TAIPEI, SLOVAKIA, COLOMBIA, CHILE, MOROCCO, KOSOVO, PARAGUAY, QATAR, INDIA, LUXEMBOURG, MALI, CYPRUS, IRAQ, CENTRAL AFRICAN REP. KAZAKHSTAN, ANDORRA, MALTA, ANTIGUA &#38; BARBUDA, ARMENIA, CONGO DR, GUAM, NORWAY, BARBADOS, JAMAICA, INDONESIA, SYRIA, SAUDI ARABIA, TAHITI, CAPE VERDE, RWANDA, MOZAMBIQUE, UGANDA, SOUTH SUDAN, ALBANIA, GUYANA, THAILAND, ALGERIA, IRELAND, AZERBAIJAN, CHAD, COSTA RICA, BAHRAIN, HONDURAS, ST.VINCENT AND THE GRENADINES, SINGAPORE, BERMUDA,SURINAME,HONGKONG,CONGO, KENYA, NICARAGUA,BOLIVIA, GRENADA,BELIZE, SAN MARINO, MALAYSIA, SAMOA, SRI LANKA, MADAGASCAR, SOUTH AFRICA, BURUNDI, &#13;&#10;&#13;&#10;FAIR-USE COPYRIGHT DISCLAIMER : Copyright Disclaimer Under Section 107 of the Copyrights Act 1976, all the videos, songs, images and graphics in the video belong to their respective owners and I or this channel does not claim any right over them."
+    channeltitle "Whatever Happened to the News?"
+    channelid "UCPtDm78lKfVRzFyc2NLyN6w"
+    favcount 0
+    viewcount 425
+    likecount 240
+    commentcount 0
+    duration "PT4H55M15S"
+    sentiment 0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.13820496
+    PERSPECTIVEPROFANITY 0.23291549
+    PERSPECTIVEFLIRTATION 0.42357942
+    PERSPECTIVETHREAT 0.31942728
+    PERSPECTIVETOXICITY 0.13879937
+    PERSPECTIVEINSULT 0.30181116
+    PERSPECTIVEIDENTITYATTACK 0.30251
+    PERSPECTIVEINFLAMMATORY 0.08453209
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 500
+    label "_VAXW09QaUo"
+    step 0
+    date "2022-05-01T19:07:37Z"
+    title "The Great Replacement Theory Debunked, And Taken Apart With Logic"
+    description "The Great Replacement Theory Debunked, And Taken Apart With Logic"
+    channeltitle "Seamus Raffetty"
+    channelid "UCtZd3QpOg4XizQh7tGqCoJw"
+    favcount 0
+    viewcount 23
+    likecount 0
+    commentcount 2
+    duration "PT22M52S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.058575995
+    PERSPECTIVEPROFANITY 0.03155817
+    PERSPECTIVEFLIRTATION 0.3043262
+    PERSPECTIVETHREAT 0.059216723
+    PERSPECTIVETOXICITY 0.07451247
+    PERSPECTIVEINSULT 0.029370472
+    PERSPECTIVEIDENTITYATTACK 0.041749287
+    PERSPECTIVEINFLAMMATORY 0.19267766
+    indegree 0
+    cluster 11
+  ]
+  node
+  [
+    id 502
+    label "Bd_h_RdObW0"
+    step 0
+    date "2022-05-24T02:37:14Z"
+    title "TR Live: The Corporate Press Pushed the Great Replacement Theory for Decades."
+    description "Hello my name is Trevor Brown and I am the Chief Editor of Acropolis News Network&#10;(If you want to Support me)&#10;Become a member and Enjoy our Premium content for as little as $5 a month:&#10;https://theacropolisnews.com/products/&#10;Governments should get a warrant if they wanna spy on you:&#10;https://nordvpn.com/special/?utm_medium=affiliate&#38;utm_term&#38;utm_content&#38;utm_campaign=off15&#38;utm_source=aff66848&#10;CashApp: &#10;cash.app/$ThisJustTrevor&#10;Bitcoin Address: &#10;1DUz7Eu2mGQE3ddQxZr2rMaUBEyGrJgp2F&#10;Ethereum Address: &#10;0xeC0470c1dF729b6DB0D1884aFCB4a50B1F4fd5B7&#10;Linktree: &#10;https://theacropolisnews.com/trevorbrown/&#10;Odysee Invite Link: &#10;https://odysee.com/$/invite/GmBpMRFLGzatXsZt7Da4Jet3e2ufV3Pm&#10;Brand New Odysee Exclusive Channel:&#10;https://odysee.com/@TJTCulture:5&#10;&#10;Sources:&#10;{clips}&#10;https://www.youtube.com/watch?v=PvUL0i-xaKs&#10;{All Previous TrevorReports and ANN articles}&#10;https://odysee.com/@ThisJustTrevor:e?view=lists&#10;https://www.bitchute.com/playlist/qhW6StdUPYGY/&#10;https://www.bitchute.com/playlist/WFMfVCH8kTLl/&#10;https://www.bitchute.com/playlist/lM69SQHXi2Ou/&#10;https://theacropolisnews.com/library-of-alexandrialibrary-of-alexandria/&#10;&#10;[Democrats keep failing](Segment 1)&#10;https://www.breitbart.com/border/2022/05/21/exclusive-half-million-migrants-cross-border-in-ten-weeks/&#10;https://gettr.com/post/p1aqbu4afc9&#10;https://civiqs.com/results/favorable_democrats?uncertainty=true&#38;annotations=true&#38;zoomIn=true&#38;party=Independent&#10;https://civiqs.com/results/approve_president_biden?uncertainty=true&#38;annotations=true&#38;zoomIn=true&#38;party=Democrat&#10;[The Uniparty is Trash](Segment 2) &#10;https://www.politico.com/news/2022/05/19/senate-40-billion-ukraine-aid-bill-00033719&#10;https://www.congress.gov/bill/117th-congress/house-bill/350/text&#10;[Establishment Republicans are Trash](Segment 3)&#10;https://twitter.com/RepMTG/status/1524484621278363649&#10;https://twitter.com/DanCrenshawTX/status/1524497730827173892&#10;[The Corporate Press and Democrat Party are Racists](Segment 4)&#10;https://grabien.com/story.php?id=378761&#10;https://news.grabien.com/story-supercut-dangerous-democratic-demagogues-spread-great-replac&#10;https://web.archive.org/web/20181101005852/https://www.nytimes.com/2018/10/29/opinion/stacey-abrams-georgia-governor-election-brian-kemp.html&#10;https://www.reuters.com/world/us/hispanics-lose-faith-democrats-over-inflation-us-elections-loom-2022-05-02/&#10;[Elon Musk pulls a Project Veritas](Segment 5)&#10;https://www.businessinsider.com/spacex-paid-250000-to-a-flight-attendant-who-accused-elon-musk-of-sexual-misconduct-2022-5&#10;https://twitter.com/elonmusk/status/1527774704018280448?cxt=HHwWgMCynfa_37MqAAAA&#10;https://www.projectveritas.com/wall-of-shame-retracto/&#10; &#10;FAIR USE NOTICE&#10;This video may contain copyrighted material; the use of which has not been specifically authorized by the copyright owner. We are making such material available for the purposes of criticism, comment, review and news reporting which constitute the fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law. Not withstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work for purposes such as criticism, comment, review and news reporting is not an infringement of copyright."
+    channeltitle "Acropolis News Network"
+    channelid "UCN2zXO1zbB1NyuXdf-mM-og"
+    favcount 0
+    viewcount 4
+    likecount 0
+    commentcount 0
+    duration "PT34M10S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.02347741
+    PERSPECTIVEPROFANITY 0.016243806
+    PERSPECTIVEFLIRTATION 0.3235377
+    PERSPECTIVETHREAT 0.09478831
+    PERSPECTIVETOXICITY 0.027752401
+    PERSPECTIVEINSULT 0.0333481
+    PERSPECTIVEIDENTITYATTACK 0.026440626
+    PERSPECTIVEINFLAMMATORY 0.10141658
+    indegree 0
+    cluster 11
+  ]
+  node
+  [
+    id 506
+    label "LjEMRrW0gJA"
+    step 0
+    date "2022-05-19T03:32:44Z"
+    title "The Great Replacement Is Not Theory, But Biblical Prophecy - #ISUPK"
+    description "#ISUPK #1West #NoCowards #Law Class #BuffaloMassShooting&#13;&#10;#ReplacementTheory"
+    channeltitle "ISUPK KILLEEN"
+    channelid "UCIC63W8pczk6w7KT9IwfDCA"
+    favcount 0
+    viewcount 50
+    likecount 7
+    commentcount 0
+    duration "PT2H22M6S"
+    sentiment 0.3716
+    PERSPECTIVESEXUALLYEXPLICIT 0.08491412
+    PERSPECTIVEPROFANITY 0.03839995
+    PERSPECTIVEFLIRTATION 0.39086604
+    PERSPECTIVETHREAT 0.116164684
+    PERSPECTIVETOXICITY 0.021657806
+    PERSPECTIVEINSULT 0.03884185
+    PERSPECTIVEIDENTITYATTACK 0.04949581
+    PERSPECTIVEINFLAMMATORY 0.25777665
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 507
     label "dEvaLUPFEl0"
     step 0
     date "2022-05-19T21:33:29Z"
@@ -9919,174 +8955,156 @@ graph
     likecount 6
     commentcount 3
     duration "PT6M1S"
+    sentiment -0.3875
+    PERSPECTIVESEXUALLYEXPLICIT 0.08408166
+    PERSPECTIVEPROFANITY 0.08994669
+    PERSPECTIVEFLIRTATION 0.27398548
+    PERSPECTIVETHREAT 0.14425056
+    PERSPECTIVETOXICITY 0.22980565
+    PERSPECTIVEINSULT 0.16007765
+    PERSPECTIVEIDENTITYATTACK 0.35370883
+    PERSPECTIVEINFLAMMATORY 0.6445926
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 331
-    name "508"
-    label "FrVWYS7Ns50"
+    id 509
+    label "XxkjRa1rrkw"
     step 0
-    date "2022-07-10T15:07:46Z"
-    title "Keir Starmer  of Kemi Badenoch, says Tory MP Lee Rowley"
-    description "Watch on TV: Freeview 236, Sky 515, Virgin 626&#10;Listen on DAB+ Radio&#10;&#10;Download the GB News App to watch live wherever you are, catch up with all our shows and get the latest news from the GBN family.  https://www.gbnews.uk/freegbapp&#10;&#10;Don't forget to follow us on social media too!&#10;&#10;Twitter: https://twitter.com/GBNEWS&#10;Facebook: https://www.facebook.com/GBNewsOnline&#10;Instagram: https://www.instagram.com/gbnewsonline/&#10;LinkedIn: https://www.linkedin.com/company/gb-news/&#10;TikTok: https://www.tiktok.com/@gbnews"
-    channeltitle "GBNews"
-    channelid "UC0vn8ISa4LKMunLbzaXLnOQ"
+    date "2021-12-23T23:00:16Z"
+    title "WHAT IS WHITE REPLACEMENT THEORY ? (2022)"
+    description "&#9679;WHAT IS WHITE REPLACEMENT THEORY BY TUCKER CARLSON? THIS VIDEO ANSWERS THE QUESTION OF WHAT WHITE REPLACEMENT THEORY IS ADVOCATEDBY TUCKER CARLSON.&#10;&#10;#SocialProblem &#10;#GlobalProblem&#10;#LifeProblem&#10;#DrSamurai &#10;#SocialIssue &#10;#SocialDisorder&#10;#GlobalIssue&#10;#InternationalProblem&#10;#Prison &#10;#Crime&#10;#Dictator&#10;#InternationalSocialPathology&#10;&#10;THE BEST OF SOCIAL PROBLEMS PLAYLIST &#10;https://www.youtube.com/playlist?list=PLfjzNKXm0zSFMcX37Ng2siTq4pdUpWJ7f&#10;&#10;THE BEST OF VIOLENCE PLAYLIST&#10;https://www.youtube.com/playlist?list=PLfjzNKXm0zSEA5uCMbTNIWInLNlEZxp06&#10;&#10;INSTANT SUBSCRIPTION&#10;https://www.youtube.com/channel/UCpP4q2JOTZ4P-v0DXgRZQgw/featured?sub_confirmation=1&#10;&#10;&#8213; Dr. SamuraI (Social Pathology Professor/ Prison Counselor/ Former Nobel Peace Official Guest) discusses various SOCIAL PROBLEMS with you MUCH DEEPER than anywhere. EACH VIDEO provides you CLEAR VALUE, which you feel lucky to learn. &#127795;&#127795;&#127794;&#127795;&#127795;&#10;&#10;&#8213; Disclaimer:  The information in all Dr. Samurai's Minute Lecture videos is not official medical diagnosis. The general information on the subjects is all publicly available, all episodes being my personal memoirs with the persons with no intention to harm any person or organization"
+    channeltitle "Dr.Samurai's minute lecture"
+    channelid "UCpP4q2JOTZ4P-v0DXgRZQgw"
     favcount 0
-    viewcount 42057
-    likecount 1208
-    commentcount 608
-    duration "PT6M47S"
+    viewcount 77
+    likecount 2
+    commentcount 4
+    duration "PT17M7S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.09164391
+    PERSPECTIVEPROFANITY 0.10202017
+    PERSPECTIVEFLIRTATION 0.3548579
+    PERSPECTIVETHREAT 0.18201031
+    PERSPECTIVETOXICITY 0.12051678
+    PERSPECTIVEINSULT 0.14929575
+    PERSPECTIVEIDENTITYATTACK 0.46560106
+    PERSPECTIVEINFLAMMATORY 0.6444104
+    indegree 0
+    cluster 4
+  ]
+  node
+  [
+    id 512
+    label "FlXLyYwsxTo"
+    step 0
+    date "2022-06-04T18:03:15Z"
+    title "Why The White Genocide or Replacement Theory Is a Conspiracy PT 1"
+    description "Southern Poverty Law Center &#8211; Polls for the Great Replacement &#10;https://www.splcenter.org/news/2022/06/01/poll-finds-support-great-replacement-hard-right-ideas&#10;&#10;Booking edu &#8211; US white population declines and Gen Z + is minority white &#10;https://www.brookings.edu/blog/the-avenue/2018/06/21/us-white-population-declines-and-generation-z-plus-is-minority-white-census-shows/&#10;&#10;Pew Research &#8211; How most feel about the declining population of white people &#10;https://www.pewresearch.org/fact-tank/2021/08/23/most-americans-say-the-declining-share-of-white-people-in-the-u-s-is-neither-good-nor-bad-for-society/&#10;&#10;Here&#8217;s the 2021 US census &#10;https://www.census.gov/quickfacts/fact/table/US/PST045221&#10;White people are not going extinct or whatever this is ridiculous  &#10;&#10;Ghost DNA - https://www.npr.org/2020/02/12/805237120/ghost-dna-in-west-africans-complicates-story-of-human-origins&#10;&#10;Human Genome - https://www.genome.gov/dna-day/15-ways/human-origins-ancestry"
+    channeltitle "Jinks"
+    channelid "UC-x1PlKQjXjHMwxk5mDw1vA"
+    favcount 0
+    viewcount 58
+    likecount 1
+    commentcount 13
+    duration "PT45M27S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.18000917
+    PERSPECTIVEPROFANITY 0.3126911
+    PERSPECTIVEFLIRTATION 0.43319303
+    PERSPECTIVETHREAT 0.7838175
+    PERSPECTIVETOXICITY 0.39206567
+    PERSPECTIVEINSULT 0.39804095
+    PERSPECTIVEIDENTITYATTACK 0.7404805
+    PERSPECTIVEINFLAMMATORY 0.75058323
     indegree 1
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW|Mainstream News|PartisanRight"
-    leftright "R"
-    cluster 8
+    cluster 6
   ]
   node
   [
-    id 332
-    name "510"
-    label "CrEwu91qiVg"
+    id 514
+    label "c_dwPVKYdjE"
     step 0
-    date "2022-05-18T04:17:08Z"
-    title "White replacement theory causes 10 people to be killed!?"
-    description "David and Basanta were out but we had a great episode with Angel today. Hope y'all enjoy:)"
-    channeltitle "Speak Buddy"
-    channelid "UCZpUnRrL8CmUodhtKKT-8uw"
+    date "2022-06-22T13:34:42Z"
+    title "EP. 61 : The Great Replacement - The White Wing Goes Mainstream"
+    description "The world keeps changing and some people have had just about enough. So they revert to tried and true paradigms that worked for them in the past, but with a new twist. Like the Great Replacement - the idea that white people are being systematically replaced by non-white people with an eye to eliminating whites altogether. They say the puppet masters are probably Jews, though maybe Muslims, liberals or women. It may seem like a new idea, but it's really just pseudoscientific lipstick on a racist pig.&#10;&#10;Like what we do? Then buy us a beer or three via our page on Buy Me a Coffee. https://www.buymeacoffee.com/Conspira...&#10;#ConspiracyClearinghouse #sharingiscaring #donations #support #buymeacoffee&#10;&#10;You can also SUBSCRIBE to this podcast. Review us here, on Podbean or on IMDb. https://www.imdb.com/title/tt17489198/&#10;&#10;SECTIONS&#10;02:03 - Gay Icon Turns White Wing - Renaud Camus coins Great Replacement, runs for office, gets supporters (like LePen, Finkielkraut &#38; Zemmour)&#10;08:28 - Them Heavy People - Islamophobia &#38; anti-Semitism are alive and well, Great Replacement gains traction with PEGIDA &#38; Identitarians, Lauren Southern, Heinz-Christian Strache, and Steve King&#10;15:09 - Attacks in Pittsburgh, Christchurch, Poway, El Paso &#38; Buffalo&#10;16:54 - Januray 6, 2021, psychological projection, US ethnic demographics, Tucker &#34;Ballcock&#34; Carlson&#10;21:40 - But They're Scary! - The Yellow Peril, anti-Semitism, &#201;douard Drumont's La France juive (Jewish France), Maurice Barr&#232;s, Eugenics, The Passing of the Great Race by Madison Grant (Hitler's favourite book), &#34;white genocide&#34;, Aryans, Edward Alsworth Ross's race suicide, miscegenation, Lothrop Stoddard's two books plus the Under-Man&#10;29:17 - The Secret Life of Arabia - The Counter-Jihad Movement (CJM), Bat Ye&#8217;or &#38; Eurabia, Steve Bannon, fake sharia law&#10; 36:16 - Your Body, My Choice - Misogyny in Great Replacement, &#34;pure womanhood&#34;, the Mann Act, Brevik also hates feminists, coverture&#10;41:48 - Ethnicities around the world, Africa is the most ethnically diverse continent &#10;&#10;Music by Fanette Ronjat&#10;&#10;More info and lots of links can be found in the episode description here: &#10;https://conspiracyclearinghouse.podbean.com/e/the-great-replacement-the-white-wing-goes-mainstream/&#10;&#10;More videos on these topics can be found here: https://youtube.com/playlist?list=PLQQyDiohNbatxPtZsIM346yF0Qwf8l9jJ&#10;&#10;Other Podcasts by Derek DeWitt: https://youtube.com/playlist?list=PLQQyDiohNbatxPtZsIM346yF0Qwf8l9jJ&#10;&#10;DIGITAL SIGNAGE DONE RIGHT - Winner of a 2022 Gold Quill, 2021 AVA Digital Award Gold, 2021 Davey Award (Silver) &#38; 2020 Communicator Award of Excellence for Podcasts and on numerous top 10 podcast lists.  https://www.youtube.com/playlist?list=PLvLGXYhk7heY8-aP14GpSN1Dyb5Kc2qDk&#10;&#10;PRAGUE TIMES - This podcast looks at Prague, in the center of Europe, from a number of perspectives, including what it is now, what is has been and where it&#8217;s going. &#10;https://www.youtube.com/channel/UCPGHBt8jyhZVoYsLmlnsPCA"
+    channeltitle "Conspiracy Clearinghouse"
+    channelid "UCdP1ldsOqFLXq71M4OWZywA"
     favcount 0
-    viewcount 15
+    viewcount 60
     likecount 5
     commentcount 0
-    duration "PT51M9S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    duration "PT45M17S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.103599906
+    PERSPECTIVEPROFANITY 0.073928475
+    PERSPECTIVEFLIRTATION 0.36496788
+    PERSPECTIVETHREAT 0.13233337
+    PERSPECTIVETOXICITY 0.10956893
+    PERSPECTIVEINSULT 0.11722139
+    PERSPECTIVEIDENTITYATTACK 0.2186865
+    PERSPECTIVEINFLAMMATORY 0.8038528
+    indegree 1
+    cluster 11
   ]
   node
   [
-    id 333
-    name "513"
-    label "By-ZwOha-HY"
+    id 519
+    label "70zjjZy0xHQ"
     step 0
-    date "2022-07-11T22:19:37Z"
-    title "Making Sense of Chaos in the UK, the Netherlands  Sri Lanka | Guest: Calvin Robinson | Ep 640"
-    description "Today we're talking about some things that are going on outside the United States &#8212; specifically farmer protests in the Netherlands, the storming of the president's palace in Sri Lanka, and the resignation of British Prime Minister Boris Johnson. In the Netherlands, the government is cracking down on farmers' ability to do their jobs ... in the middle of a global food shortage. The Dutch farmers are protesting this, and for their efforts some of them have been shot at by police. In Sri Lanka, there's massive civil unrest due to a lack of food. And to help us understand what's going on in the U.K., we welcome Calvin Robinson back to the show. He explains just what happened with Boris Johnson and what's next for the British government as a whole.&#10;&#10;---&#10;&#10;Timecodes: &#10;&#10;(0:00) Introduction&#10;(2:40) Dutch farmers are protesting - why?&#10;(14:33) Sri Lanka protesters storm the president's palace&#10;(22:46) Interview with Calvin Robinson&#10;(47:15) Some biblical perspective in the midst of chaos around the world&#10;&#10;---&#10;&#10;Today's Sponsors: &#10;&#10;A'del Natural Cosmetics &#8212; visit AdelNaturalCosmetics.com &#38; use promo code 'ALLIE' for 25% off your first order!&#10;&#10;My Patriot Supply &#8212; visit PrepareWithAllie.com right now to save $150 on a 3-month emergency food kit!&#10;&#10;Reliefband &#8212; head to Reliefband.com &#38; use promo code 'ALLIE' to save 20% off your order, plus free shipping!&#10;&#10;Good Ranchers &#8212; go to GoodRanchers.com/ALLIE &#38; use promo code 'ALLIE' to save $30 on your order, plus free express shipping!&#10;&#10;---&#10;&#10;Previous Episodes Mentioned: &#10;&#10;Ep 625: The Church of England, Academia, &#38; Meghan Markle: The UK's Progressive Problem | Guest: Calvin Robinson https://apple.co/3awD4H4&#10;&#10;Ep 631: Allie's Dad on the Economy, Fatherhood &#38; Raising Christian Kids | Guest: Ron Simmons https://apple.co/3IygdHx&#10;&#10;Ep 580: The REAL Reason for High Gas Prices | Guest: Jacki Daily https://apple.co/3RmKcpY&#10;&#10;Ep 344: The Great Reset: Everything You Need to Know | Guest: Justin Haskins https://apple.co/3yoQyfS&#10;&#10;Ep 470: BlackRock, Bill Gates &#38; the Great Reset | Guest: Justin Haskins https://apple.co/3P63632&#10;&#10;&#9658; Buy Allie's book, &#34;You're Not Enough (&#38; That's Okay): Escaping the Toxic Culture of Self-Love&#34;: https://alliebethstuckey.com/book&#10;&#10;&#9658; Subscribe to the podcast:&#10;iTunes: https://apple.co/2UVssnP&#10;Spotify: https://spoti.fi/2FwkXxj&#10;Google Play: http://bit.ly/2HJ3CVu&#10;&#10;&#9658; Connect with Allie on Social Media: &#10;https://twitter.com/conservmillen&#10;https://www.instagram.com/alliebstuckey/&#10;https://facebook.com/allieBlazeTV/&#10;&#10;&#9658; &#34;Relatable&#34; merchandise: https://shop.blazemedia.com/collections/allie-stuckey&#10;&#10;Making Sense of Chaos in the UK, the Netherlands &#38; Sri Lanka | Guest: Calvin Robinson | Ep 640"
-    channeltitle "Allie Beth Stuckey"
-    channelid "UCx_2Vso6Qz76n-w5KV8DZcA"
+    date "2022-05-21T05:00:03Z"
+    title "Changing The Mind That Holds The Gun - Replacement Theory Debunked"
+    description "After a shooting in Buffalo. After a manifesto containing language used to spark hate division and a race war. Jeffrey and Jason do what we do and discuss all of it. Other shows talk about the who that is to blame. but we discuss the how to stop it all. Replacement theory is a myth and a conspiracy of misinformation. So we debunk it. As only Public Access America &#10;&#10;00:00 Just The Tip - Getting younger representation - vote for it&#10;01:00 Great theme song  - It is time now, for something positive&#10;02:00 Buffalo means something - Ignoring domestic terror - Turns out a good guy with a gun doesn&#8217;t help much at all&#10;05:00 Rage and preparation out matches any response - Where did the shooter get his information - We don&#8217;t need to attack each-other - Myths to dispel - The Evangelist theory - Why we need separation of church and state - You&#8217;re attacking us&#10;10:00 Abortion is a religious debate and not a governmental division - Let the faiths fight it out - Abortion is not being used and contraception - Abortion is the best of the bad decision - Gun free zones don&#8217;t work - Criminals don&#8217;t follow societies rules&#10;15:00 where in the constitution does it say we can have guns - A reference to an outdated reason to own weapons - equality&#10;20:00 Hanging the mid that holds the gun - Calls to violence are not free speech - but what is a call to violence - a legal call defined as - Oh shoot. I wasn&#8217;t serious though says Tucker&#10; 25:00 there are limits to freedom - Your rights are equally their rights too - My agreement was with the constitution not republicans or democrats - 28:00 Replacement theory is a myth&#10;30:00 Why is America becoming less white? Climate change - It&#8217;s really hot near the equator - Opportunity - Doing the jobs no one is willing to do - Necessity - We need professionals to fill crucial jobs - Education - Making the world better by educating everyone - Theft - This is where the brown people are from&#10;35:00 Welcome Africa - i can&#8217;t wait to learn more - Join us - We are the United States - We are all hemispheric Americans - War - Migration spurred by conflict - Be the government you want but let the people decide to stay or go - We don&#8217;t have to be the victims &#10;40:00 Kim Kardashian - People around the world want a life like hers - Does anyone care about celebrities anymore - Hate the office&#10;45:00 America isn&#8217;t a color - It&#8217;s an ideal - It&#8217;s a mix - It&#8217;s freedom - End the covid restrictions but not Title42 - Trump hollowed out our infrastructure to save money and spent it some where else - Vladimir Putin had a bad may day - Russia&#8217;s major lose of life &#10;50:00 How do you explain the missing Russian soldiers - Hacked - As Russian kleptocracy expanded - Russia&#8217;s supremacy wained - The blood cancer rumor does what again? Ukraine won&#8217;t stop at&#10;55:00 There is no excuse for war - There&#8217;s only the end now - Russia wants it&#8217;s WWII spoils - I would want to find the filtration camps and stolen kidnapped innocent Ukrainians - Sweden and Finland join the party - We aren&#8217;t a military society - It&#8217;s our stuff&#10;Trevor squirts ageism into the discourse making it ok now&#10;&#10;Public Access America Sunday A.M #LiveStream &#10;Noon Eastern 9 A.M Pacific 11 A.M Central&#10;https://youtu.be/PgQ38hm8_Es&#10;&#10;Apple &#10;https://podcasts.apple.com/us/podcast/public-access-america/id1118000423?i=1000515737702&#10;&#10;@Spotify&#10;https://open.spotify.com/episode/589U8kzclmVd3Ny3Dyh3t2?si=q5AWhmzSRX23_AL4mI8Jpg&#10;&#10;@Stitcher&#10;https://www.stitcher.com/show/public-access-america&#10;&#10;@RadioPublic&#10;https://radiopublic.com/public-access-america-WPD3XR&#10;&#10;@AmazonMusic&#10;https://music.amazon.com/podcasts/36eeac72-&#10;&#10;@RedCircle&#10;https://redcircle.com/shows/public-access-america"
+    channeltitle "Public Access America"
+    channelid "UCgQdy5FdAAjcTFkGaNGYV4A"
     favcount 0
-    viewcount 13960
-    likecount 904
-    commentcount 181
-    duration "PT54M47S"
+    viewcount 5
+    likecount 0
+    commentcount -1
+    duration "PT1H6M40S"
+    sentiment -0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.14463806
+    PERSPECTIVEPROFANITY 0.09461127
+    PERSPECTIVEFLIRTATION 0.39966097
+    PERSPECTIVETHREAT 0.32296348
+    PERSPECTIVETOXICITY 0.05773066
+    PERSPECTIVEINSULT 0.08441152
+    PERSPECTIVEIDENTITYATTACK 0.10351321
+    PERSPECTIVEINFLAMMATORY 0.45833638
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanRight|ReligiousConservative"
-    leftright "R"
-    cluster 5
+    cluster 4
   ]
   node
   [
-    id 334
-    name "515"
-    label "XkUR6jNvnJg"
+    id 524
+    label "MmILBQHC4Ic"
     step 0
-    date "2021-10-10T16:33:34Z"
-    title "Tories and White genocide / Great replacement Theory"
-    description "Unmasked: Tory councillor is secret supporter of UK fascist organisation:&#10;https://hopenothate.org.uk/2021/10/06/unmasked-tory-councillor-is-secret-supporter-of-uk-fascist-organisation/&#10;&#10;New Tory MP pictured with alleged far-right activists:&#10;&#160;https://www.theguardian.com/politics/2020/feb/14/dehenna-davison-new-tory-mp-pictured-with-alleged-far-right-activists&#160;&#10;&#10;Boris Johnson condemned for &#8216;appalling&#8217; Tory alliance with neo-Nazi and anti-Muslim parties across Europe:&#10;https://www.jewishvoiceforlabour.org.uk/article/boris-johnson-condemned-for-appalling-tory-alliance-with-neo-nazi-and-anti-muslim-parties-across-europe/&#160;&#10;&#10;GOVERNMENT&#8217;S TIES&#160;To Racist &#8216;Hate&#8217; Groups:&#10;https://bylinetimes.com/2021/03/17/the-governments-ties-to-racist-hate-groups-part-one/"
-    channeltitle "Rosa &#38; The Intolerant Left"
-    channelid "UCltLuhuxtZwfuT4p5i8uFig"
+    date "2022-05-22T22:23:54Z"
+    title "The Truth About Replacement Theory"
+    description "&#34;Sorry. Anyway I'm glad it went through&#34;, doesn't cover for what we all see occurring."
+    channeltitle "Raphael Rae"
+    channelid "UCcDJO8jZnXdHxvrb2VhHOPQ"
     favcount 0
-    viewcount 64
-    likecount 10
-    commentcount 2
-    duration "PT31M46S"
+    viewcount 54
+    likecount 0
+    commentcount 1
+    duration "PT6M31S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.072195776
+    PERSPECTIVEPROFANITY 0.034784224
+    PERSPECTIVEFLIRTATION 0.20266983
+    PERSPECTIVETHREAT 0.07125183
+    PERSPECTIVETOXICITY 0.015688026
+    PERSPECTIVEINSULT 0.018363506
+    PERSPECTIVEIDENTITYATTACK 0.04024163
+    PERSPECTIVEINFLAMMATORY 0.15924996
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 335
-    name "520"
-    label "MVdGAj-LyDc"
-    step 0
-    date "2022-05-18T00:30:10Z"
-    title "The Buffalo Mass Shooting: Is This Part Of The  Replacement"
-    description "On Saturday  May 14th, a #massshooting took place at a Tops Grocery Store that left 10 people dead at the hands of an 18 year old white supremacist Payton S. Gendron. This event along with other mass shootings have been tied to a movement and belief system known as #thegreatreplacement. A ideology that states that anyone who is not &#34;Anglo Saxon&#34; or pure american should not have a place in political  systems of practice. Do you believe after the information I have presented that this event is directly tied to this belief system that incorporates terrorism, racism and hateful speech and crimes? Leave your comments and lets talk about it !&#10;&#10;To Donate and Assist those affected by this mass shooting in #buffalo #newyork please visit this website&#10;https://www.feedmorewny.org/donate/&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UCiHcEOVQ_zIjBurIvc63-9w/join&#10;&#10;For Amazing Childrens Books Please Visit&#10;https://arthur-childs.com/&#10;&#10;SUBSCRIBE TO MY 2nd Channel CROWNING GLORY ORACLE https://youtube.com/channel/UCyFavyGqeL_Cs1X2VhK7fBQ&#10;&#10;&#10;&#10;FOLLOW ME ON STATIONHEAD FOR ALIEN GANG RADIO &#10;&#10;https://share.stationhead.com/kz23n0rvhdG&#10;&#10;&#10;&#10;FOLLOW THE TIARA LATRESE SHOW ON INSTAGRAM, FACEBOOK AND TWITTER!!&#10;&#10;&#10;&#10;Disclaimer: The topics, views and opinions expressed in this video and on The Tiara Latrese Show Youtube Channel  and Alien Gang Podcast Episodes are for entertainment/educational/reaction and commentary purposes only! None of the information presented in this video should be taken as fact and everything is alleged until proven otherwise.&#10;&#10;&#10;&#10;Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use."
-    channeltitle "THE TIARA LATRESE SHOW"
-    channelid "UCiHcEOVQ_zIjBurIvc63-9w"
-    favcount 0
-    viewcount 63
-    likecount 10
-    commentcount 4
-    duration "PT1H47S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 336
-    name "525"
+    id 525
     label "EEfG_0acVf0"
     step 0
     date "2022-05-17T17:00:08Z"
@@ -10099,84 +9117,75 @@ graph
     likecount 12939
     commentcount 2973
     duration "PT47M35S"
+    sentiment -0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.20407563
+    PERSPECTIVEPROFANITY 0.20304826
+    PERSPECTIVEFLIRTATION 0.48418123
+    PERSPECTIVETHREAT 0.51848125
+    PERSPECTIVETOXICITY 0.22987647
+    PERSPECTIVEINSULT 0.21199735
+    PERSPECTIVEIDENTITYATTACK 0.19472426
+    PERSPECTIVEINFLAMMATORY 0.20951495
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "AntiSJW|PartisanRight|ReligiousConservative"
-    leftright "R"
+    cluster 9
+  ]
+  node
+  [
+    id 528
+    label "sKIcgLQXrmY"
+    step 0
+    date "2022-07-10T01:37:17Z"
+    title "Tucker Carlson exposes Joe Biden pushing The Replacement Theory!"
+    description "https://www.politifact.com/article/2022/may/19/tucker-carlson-feigned-ignorance-over-great-replac/&#10;&#10;#tuckercarlson #tunnelvision #breaking #woke #replacementtheory #joebiden #democrats #stopblackhate #buffalomassshooting #viralvideo #viral #blacklivesmatter #alllivesmatter #politics #protectionforblacks #ados #reparations #waronukraine #immigration #bordercontrol"
+    channeltitle "Mr. Uncut Consciousness"
+    channelid "UC71GZhb3c1qd8wgxgYoeCPg"
+    favcount 0
+    viewcount 13
+    likecount 5
+    commentcount 2
+    duration "PT14M41S"
+    sentiment -0.128
+    PERSPECTIVESEXUALLYEXPLICIT 0.0531933
+    PERSPECTIVEPROFANITY 0.029485784
+    PERSPECTIVEFLIRTATION 0.41322526
+    PERSPECTIVETHREAT 0.18778394
+    PERSPECTIVETOXICITY 0.019158829
+    PERSPECTIVEINSULT 0.04286362
+    PERSPECTIVEIDENTITYATTACK 0.047103487
+    PERSPECTIVEINFLAMMATORY 0.3087583
+    indegree 0
     cluster 8
   ]
   node
   [
-    id 337
-    name "526"
-    label "m6YxuumFc5c"
+    id 532
+    label "k_2Eqvr-ZoI"
     step 0
-    date "2022-07-08T02:45:01Z"
-    title "Boris Johnson Resigns As UK Prime Minister Amid Mass Exodus Of Tory Allies"
-    description "After much pressure from his own party to do so, UK PM Boris Johnson has resigned from his role as Prime Minister following a mutiny and mass exodus of cabinet members and Tory Party legislators. Cenk Uygur and Ana Kasparian discuss on The Young Turks. Watch LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live&#10;&#10;Read more HERE:  &#10;https://www.nbcnews.com/news/world/will-boris-johnson-resign-uk-pm-rocked-new-wave-resignations-rcna37043&#10;&#10;&#34;Scandal-ridden Prime Minister Boris Johnson capitulated to mounting pressure Thursday and announced his decision to step down after days of high-profile government resignations and calls from fellow Conservative Party members to quit. &#10;&#10;&#8220;In the past few weeks, I have been trying to convince my colleagues it would be eccentric to change governments when we have achieved so much,&#8221; he said in his speech outside No. 10 Downing St. amid loud booing from the crowd nearby. &#8220;I regret not to be successful in those arguments and, of course, it&#8217;s painful not to be able to see through those projects myself.&#8221; &#10;&#10;Johnson said he planned to remain as prime minister until a successor was chosen &#8212; a move that was already facing opposition in an increasingly hostile Parliament.&#34;&#10;&#10;***&#10;&#10;The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. &#10;&#10;Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: &#9654; https://www.youtube.com/TheYoungTurks/join&#10;&#10;&#10;SUBSCRIBE on YOUTUBE: &#9758; http://www.youtube.com/subscription_center?add_user=theyoungturks&#10;FACEBOOK: &#9758; http://www.facebook.com/TheYoungTurks&#10;TWITTER: &#9758; http://www.twitter.com/TheYoungTurks&#10;INSTAGRAM: &#9758; http://www.instagram.com/TheYoungTurks&#10;TWITCH: &#9758; http://www.twitch.com/tyt&#10;&#10;&#128085; Merch: http://shoptyt.com&#10;&#10;&#10084; Donate: http://www.tyt.com/go&#10;&#10;&#128279; Website: https://www.tyt.com&#10;&#10;&#128241;App: http://www.tyt.com/app&#10;&#10;&#128236; Newsletters: https://www.tyt.com/newsletters/&#10;&#10;&#10;If you want to watch more videos from TYT, consider subscribing to other channels in our network:&#10;&#10;&#10;&#10;The Damage Report &#9654; https://www.youtube.com/thedamagereport&#10;&#10;Indisputable with Dr. Rashad Richey &#9654; https://www.youtube.com/indisputabletyt&#10;&#10;Watchlist with Jayar Jackson &#9654; https://www.youtube.com/watchlisttyt&#10;&#10;TYT Sports &#9654; https://www.youtube.com/tytsports&#10;&#10;The Conversation &#9654; https://www.youtube.com/tytconversation&#10;&#10;Rebel HQ &#9654; https://www.youtube.com/rebelhq&#10;&#10;TYT Investigates &#9654; https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA&#10;&#10;&#10;#TYT #TheYoungTurks #BreakingNews&#10;&#10;220707__TB01_Boris_Johnson_Resigns"
-    channeltitle "The Young Turks"
-    channelid "UC1yBKRuGpC1tSM73A0ZjYjQ"
+    date "2022-05-22T16:00:26Z"
+    title "Tucker Carlson and White Replacement Theory CANCEL Life and Liberty"
+    description "Clip from the 5/21 Cult Of Dusty livestream, Mondays and Fridays at 9pm.&#10;&#10;5/21 Full Stream video: &#10;https://www.youtube.com/watch?v=mUjgWOp5dPw&#38;ab_channel=CultofDusty&#10;&#10;Subscribe to the CoD channel: https://www.youtube.com/user/CultOfDusty&#10;&#10;The CoDcast Patreon: https://www.patreon.com/Codcast&#10;&#10;The CoDcast on Twitter: https://twitter.com/cultofdusty1"
+    channeltitle "CoDcast RECALL"
+    channelid "UCP689mMW_8BRn3NeS6O8TjQ"
     favcount 0
-    viewcount 104724
-    likecount 4219
-    commentcount 1749
-    duration "PT12M25S"
+    viewcount 138
+    likecount 8
+    commentcount 0
+    duration "PT4M3S"
+    sentiment 0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.08470212
+    PERSPECTIVEPROFANITY 0.019548396
+    PERSPECTIVEFLIRTATION 0.27986065
+    PERSPECTIVETHREAT 0.03948055
+    PERSPECTIVETOXICITY 0.2459383
+    PERSPECTIVEINSULT 0.01889978
+    PERSPECTIVEIDENTITYATTACK 0.01814605
+    PERSPECTIVEINFLAMMATORY 0.7079002
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 7
+    cluster 4
   ]
   node
   [
-    id 338
-    name "529"
-    label "NDYAcuYsYTw"
-    step 0
-    date "2022-07-07T21:58:22Z"
-    title "Tucker Carlson RAGES at Journalist on White Replacement, Greenwald  Carlson Whitewash Bolsonaro"
-    description "SUPPORT Status Coup's ON-THE-GROUND and investigative reporting on the stories the corporate media COVERS UP: https://www.StatusCoup.com/Join&#10;&#10;Shop our collection of clothes that are both high quality, and from sustainable sources: Get shirts based on different quotes from Jordan Chariton such as 'The United Corporations of America' Now! Get yours at https://www.StatusCoup.com/Store&#10;&#10;Join this channel to get access to perks:&#10;https://www.youtube.com/channel/UC0pCsHlEEmCfxllZSlRB2Og/join&#10;&#10;Other ways to support Status Coup&#10;https://www.gofundme.com/f/statuscoup&#10;https://www.paypal.com/paypalme/StatusCoup&#10;$StatusCoup on CashApp &#10;&#10;SIGN UP for our email list for breaking news alerts and alerts when we're LIVE: https://statuscoup.pub/email&#10;&#10;SIGN UP for our text alerts to get a message as soon as we're LIVE&#10;https://statuscoup.com/text/&#10;&#10;Wholesome by Kevin MacLeod&#10;Link: https://incompetech.filmmusic.io/song/5050-wholesome&#10;License: https://filmmusic.io/standard-license&#10;&#10;#StatusCoup #TuckerCarlson #GlennGreenwald #FoxNews #Censorship #bigtechcensorship #BigTech"
-    channeltitle "Status Coup News"
-    channelid "UC0pCsHlEEmCfxllZSlRB2Og"
-    favcount 0
-    viewcount 6653
-    likecount 939
-    commentcount 243
-    duration "PT58M51S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "PartisanLeft"
-    leftright "L"
-    cluster 7
-  ]
-  node
-  [
-    id 339
-    name "533"
+    id 533
     label "I4PxnsSV_Oc"
     step 0
     date "2022-05-16T02:28:43Z"
@@ -10189,24 +9198,21 @@ graph
     likecount 17
     commentcount 11
     duration "PT18M59S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.11801978
+    PERSPECTIVEPROFANITY 0.25762942
+    PERSPECTIVEFLIRTATION 0.3261297
+    PERSPECTIVETHREAT 0.3656204
+    PERSPECTIVETOXICITY 0.38953075
+    PERSPECTIVEINSULT 0.5937954
+    PERSPECTIVEIDENTITYATTACK 0.2395599
+    PERSPECTIVEINFLAMMATORY 0.6501225
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 11
   ]
   node
   [
-    id 340
-    name "534"
+    id 534
     label "Y5M6osWqjuQ"
     step 0
     date "2022-07-06T21:02:40Z"
@@ -10219,84 +9225,75 @@ graph
     likecount 10
     commentcount 9
     duration "PT9M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.03658394
+    PERSPECTIVEPROFANITY 0.018466847
+    PERSPECTIVEFLIRTATION 0.33915365
+    PERSPECTIVETHREAT 0.07516043
+    PERSPECTIVETOXICITY 0.076110736
+    PERSPECTIVEINSULT 0.018968532
+    PERSPECTIVEIDENTITYATTACK 0.02625755
+    PERSPECTIVEINFLAMMATORY 0.14630511
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 3
   ]
   node
   [
-    id 341
-    name "535"
-    label "OJpVulyf4q8"
+    id 537
+    label "dqzJmdlJx0k"
     step 0
-    date "2022-07-12T01:00:06Z"
-    title "Netherlands CRUMBLES into WEF run dictatorship, Dutch uprising spreads | Redacted w/ Clayton Morris"
-    description "Dutch farmers are protesting new laws that would all but shut down animal farming in the name of climate change. Is this an example of the government disenfranchising small businesses and small farmers? Is this a power grab by Bill Gates to increase dependency on factory-made food? We discuss! &#10;&#10;&#128680; We're being censored, and it's more important than ever to have a home away from these big tech oligarchs. That's why we built https://redacted.inc Please come on over and sign up for FREE, so we always have a way to stay in touch. &#128680;&#10;&#10;&#9989; Sign up for our Free DAILY newsletter delivered right to your inbox first thing in the morning. &#10140; https://morninginvest.com &#10;&#10;&#128293;Open a fantastic 5% interest savings account alternative and get free money in the process with our link: &#10140; https://morninginvest.com/outlet &#128293;&#10;&#10;&#128250; Become a Redacted Channel Member right here: https://www.youtube.com/channel/UCoJhK5kMc4LjBKdiYrDtzlA/join&#10;&#10;&#128293; Join our FREE Financial Freedom 90 Day Bootcamp. Totally Free. Download it here: &#10140; https://morninginvest.com/Bootcamp &#128293;&#10;&#10;#redacted #claytonmorris #dutch &#10;-----&#10;&#10;DISCLAIMER: I am not a financial adviser. I only express my opinion based on my experience. Your experience may be different. These videos are for educational and inspirational purposes only. Investing of any kind involves risk. While it is possible to minimize risk, your investments are solely your responsibility. It is imperative that you conduct your own research. There is no guarantee of gains or losses on investments.&#10;&#10;AFFILIATE DISCLOSURE: Some of the links on this channel are affiliate links, meaning, at NO additional cost to you, I may earn a commission if you click through and make a purchase and/or subscribe. However, this does not impact my opinion. We recommend them because they are helpful and useful, not because of the small commissions we make if you decide to use their services. Please do not spend any money on these products unless you feel you need them or that they will help you achieve your goals."
-    channeltitle "Redacted"
-    channelid "UCoJhK5kMc4LjBKdiYrDtzlA"
+    date "2022-07-11T19:18:01Z"
+    title "The WHOLE Truth."
+    description "Everything I ever did in politics was made possible by the many many people who helped me and supported me.&#10;&#10;This video is for them. This video is for the support staff who never got acknowledged. Those whose lives were ruined in the dynamo of the dissident right. Those who believed in us all. Also for my own sanity.&#10;&#10;If you have any questions I'll be live this evening on my other channel! (JK I'll be live on this channel, but I'll be live on this backup channel starting Thursday)&#10;&#10;https://www.youtube.com/channel/UCLSFRBzoxTQrz61kjA7Y6SQ&#10;&#10;TIMESTAMPS&#10;&#10;00:00 - START&#10;&#10;01:18 - REBEL REBEL - Why I joined politics&#10;&#10;18:40 - KILLER QUEEN - Meeting Milo&#10;&#10;33:46 - SMOOTH CRIMINAL - Blackmail &#38; Privilege Grant&#10;&#10;50:12 - ANARCHY IN THE UK - Meeting Tommy, Caolan &#38; George&#10;&#10;57:04 - LUCY IN THE SKY WITH DIAMONDS - Day For Freedom&#10;&#10;1:13:03 - THE WINNER TAKES IT ALL - Faith Goldy&#10;&#10;1:27:15 - LAND DOWN UNDER - Australia Tour&#10;&#10;1:41:24 - MOVIN OUT - My blackpill moment&#10;&#10;1:59:50 - WELCOME TO THE MACHINE - The real reason I left&#10;&#10;2:03:54 - DIRTY LAUNDRY - The lies spread about me&#10;&#10;2:39:12 - MANEATER - Paul Joseph Watson&#10;&#10;2:44:29 - EVERYBODY WANTS TO RULE THE WORLD - Conclusion&#10;&#10;&#10;&#128308; Support&#10;Subscribestar: https://www.subscribestar.com/lauren-southern&#10;Paypal: https://www.paypal.com/paypalme/LAURENSOUTHERNCA&#10;Bitcoin Wallet: 1JLM6GJwaPdNv4dM8K5KkcFHeziXXXMGKT&#10;Other Crypto Options: https://laurensouthern.net/support/&#10;&#10;&#128308; Social Media&#10;Website: https://laurensouthern.net/&#10;Twitter: https://twitter.com/Lauren_Southern&#10;Odysee: https://odysee.com/@LaurenSouthern:2&#10;Instagram: https://www.instagram.com/laurencheriie/&#10;Facebook: https://www.facebook.com/LaurenCSouthern/&#10;&#10;&#128308; My Kids Books&#10;The ABCs of Morality (US): shorturl.at/dsvCM&#10;The ABCs of Morality (CA): shorturl.at/yMN02&#10;Henry the Sheepdog (US): shorturl.at/euN18&#10;Henry the Sheepdog (CA): shorturl.at/gFHNW&#10;&#10;&#128308; Mailing Address&#10;PO BOx 93041&#10;Willowbrook PO&#10;Langley, BC V3A 8H2&#10;Canada"
+    channeltitle "Lauren Southern"
+    channelid "UCla6APLHX6W3FeNLc8PYuvg"
     favcount 0
-    viewcount 98631
-    likecount 7841
-    commentcount 1939
-    duration "PT14M3S"
+    viewcount 209779
+    likecount 18260
+    commentcount 5251
+    duration "PT2H51M46S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.06672571
+    PERSPECTIVEPROFANITY 0.017701624
+    PERSPECTIVEFLIRTATION 0.29843414
+    PERSPECTIVETHREAT 0.04325664
+    PERSPECTIVETOXICITY 0.017909339
+    PERSPECTIVEINSULT 0.011514306
+    PERSPECTIVEIDENTITYATTACK 0.016797084
+    PERSPECTIVEINFLAMMATORY 0.11625891
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 342
-    name "538"
-    label "7kvuSR4DG4Q"
+    id 541
+    label "Gmt1rAIpmoE"
     step 0
-    date "2022-07-12T16:53:10Z"
-    title "But What if the Americans had been in Control?"
-    description "The only version of White Replacement I've Heard, was European countries, like Germans Angela Merkel, seeking compelled interbreeding couplings. but that seemed more like, the Australian breading the Black out, kinda feel to it, but marketed in reverse. The Secret Terrorism plots, like Plato's Conspiracy, was similar, aimed to Dune's Jezereat breading, for breading Superior Races, over compelled inferior breads. Like Communism, for the Sexual Market, which I Know People targeted victims, in those programs, by a very abusive Hate Group, with access to government Tools, and Contracts, without Constitutional Limits. Their virtue signaling systems are, somehow worst, then before, in the Racist Supremacy schemes. They have many who's entire life revolves, around #WaronDavid, through its Racist aspects, concealed by Secret Policies, which does have a Jewish Mafia, but I'm pretty sure, many of them are effected by threats, and solutions, by its origins, compelling limited security options. Identity Politics, is a tools to divide and Conquer Society, in these mechanisms, for Heredity Social Status, for all posterity, until outside Identities, are sacrificed, until, the core group is left. &#10;The They are usually, the Intelligence, or Espionage Organizations, and their Secret Societies, like the Great Reset's supporting systems, which are secret protected Double Agents, like the Nazi loyal FBI, that sought to overthrow the Government, as a continuation of repurposing the Confederates. &#10;&#34;We hang the petty thieves and appoint the great ones to public office.&#34; Aesop&#10;&#34;The falsification of history has done more to impede human development than any one thing known to mankind.&#34; Rousseau&#10;&#34;Liberty is to be free from restraint and violence from others.&#34; John Locke&#10;&#34;Men who reject the responsibility of thought and reason can only exist as parasites on the thinking of others.&#34; Ayn Rand&#10;&#34;If you punish a child for being naughty, and reward him for being good, he will do right merely for the sake of the reward; and when he goes out into the world and finds that goodness is not always rewarded, nor wickedness always punished, he will grow into a man who only thinks about how he may get on in the world, and does right or wrong according as he finds advantage to himself.&#34; Immanuel Kant&#10;&#34;Any Law not warranted by the Constitution is a bare-faced usurpation.&#34; James Iredell&#10;LEGAL&#10;***Whats up with SCOTUS***&#10;https://www.youtube.com/watch?v=PI5ytd8hGR8&#10;After Roe v. Wade, Whats Next?&#10;https://www.youtube.com/watch?v=DsWsALacMCs&#10;*Treason, Sedition, and High Crimes, require National Security for the Rule of Law&#10;https://www.youtube.com/watch?v=DK7NESUwH2c&#38;t=7s&#10;Corporptocracy uses Threats, Bribes, Extortion, Debt, Deception, Coups, Assassinations 2016&#10;https://www.youtube.com/watch?v=N3THaO1HBsI&#10;Safer Communities Act&#10;https://www.youtube.com/watch?v=ELrm9wkx608&#10;WEF Charmian Threats over Vaccines&#10;https://www.youtube.com/watch?v=P74MU6gERN0&#10;No Duty to Protect and Serve, Remember? &#10;https://www.youtube.com/watch?v=FxnfPCa9bYE&#10;Kidnapping the President 18 U.S.C. 1751(B) #WaronDavid Facts&#10;https://www.justice.gov/archives/jm/criminal-resource-manual-1538-kidnapping-president-18-usc-1751b&#10;POLITICAL&#10;Dictator Envy&#10;https://www.youtube.com/watch?v=CAVxJ4TP9n4&#10;FBI Wants Photos of Your Children&#10;https://www.youtube.com/watch?v=v3CE1Rq0nI4&#10;It's All Bullsh*t&#10;https://www.youtube.com/watch?v=QEjs_LO9cJo&#10;Wolves at the Door&#10;https://www.youtube.com/watch?v=HMJvt7Kecgk&#10;Great Replacement Theory &#10;https://www.youtube.com/watch?v=pyUQP-R48yg&#10;We're Hiding Reality from You&#10;https://www.youtube.com/watch?v=sIAtSjQB2nA&#10;https://www.youtube.com/shorts/SK5rlBF8_JM&#10;Stop Lying to America: Parents can't stop puberty blocks, but also can't save child from shooters&#10;https://www.youtube.com/watch?v=bsQd9DiHQeg&#10;Can't Believe this Happened!&#10;https://www.youtube.com/watch?v=6wuX50aE878&#10;They Can't Stop&#10;https://www.youtube.com/watch?v=O6cmH0KaDgk&#10;Brought to you by Big Pharma&#10;https://www.youtube.com/watch?v=efqiodBykEM&#10;DeDollarization&#10;https://www.youtube.com/watch?v=wJ14xYKKe8g&#10;Government Secrets&#10;https://www.youtube.com/watch?v=AwJnXsXnd60&#10;History of Gun Violence&#10;https://www.youtube.com/watch?v=SpCMvMUU8WA&#10;Uprising Has Begun&#10;https://www.youtube.com/watch?v=qepKiYNPsvE&#10;Jan 6 Committee was to &#34;Kill&#34; Republican Party&#10;https://www.youtube.com/watch?v=qzCC7sDe9PY&#10;SOCIAL&#10;you don't have a right to smack someone in the face, because they said words&#10;https://www.youtube.com/shorts/jZWXci9bM7A&#10;Believe Amber Heard&#10;https://www.youtube.com/shorts/mQPI7eW4wCg&#10;FOREIGN&#10;Shinzo Abe Assassination Show Global Order is Collapsing&#10;https://www.youtube.com/watch?v=NtdMKaQXM8A&#10;https://www.youtube.com/watch?v=XY2lhmktcq0&#10;Ukraine Proxy War [Russia v. Confederates] #WaronDavid&#10;https://www.youtube.com/watch?v=FlPv2J8dpSk&#10;ENTERTAINMENT&#10;Unpatriotic History&#10;https://www.youtube.com/watch?v=Q-7AbIvP3HA&#10;Meme&#10;https://www.youtube.com/watch?v=FkkbssWc1e&#10;https://www.youtube.com/shorts/rSyJWb4J-Eg&#10;https://www.youtube.com/watch?v=msROUe0NJ08"
-    channeltitle "David Boles"
-    channelid "UCvTkdyuh73U7-fcVwTIsO8Q"
+    date "2019-05-20T14:56:43Z"
+    title "The : Myth, conspiracy theory or reality? Part 1. Definitions"
+    description "The &#34;Great Replacement&#34; has been intensely debated in recent years. Right-wing authors, politicians and political movements like the Identitarian Movement use it to describe the process of mass migration to the West as a &#34;replacement&#34; of Western populations. Left wing critics denounce it as a &#34;conspiracy theory&#34;. &#10;This video - the first Part in a series about this topic - attempts a clear definition and analysis of the term. It relies mainly on writings by Renaud Camus, the French writer, who coined it. In later Parts the criticisms will be described and it will be examined how justified these are. &#10;&#10;Literature:&#10;Camus, R. (2016). Revolte gegen den Grossen Austausch. Schnellroda: Antaios.&#10;&#10;PATREON: https://www.patreon.com/the_european_perspective&#10;PAYPAL EMAIL: the.european.perspective.mag@gmail.com"
+    channeltitle "The European Perspective"
+    channelid "UCFwbc949qP3QeNKMbTpdFrQ"
     favcount 0
-    viewcount 1
-    likecount 0
-    commentcount 0
-    duration "PT22M50S"
+    viewcount 7141
+    likecount 306
+    commentcount 107
+    duration "PT18M52S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.05204383
+    PERSPECTIVEPROFANITY 0.047572996
+    PERSPECTIVEFLIRTATION 0.38373867
+    PERSPECTIVETHREAT 0.10467181
+    PERSPECTIVETOXICITY 0.030155903
+    PERSPECTIVEINSULT 0.1043361
+    PERSPECTIVEIDENTITYATTACK 0.067372926
+    PERSPECTIVEINFLAMMATORY 0.11350352
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 343
-    name "542"
+    id 542
     label "bSDN1LTIWuc"
     step 0
     date "2022-05-19T20:00:06Z"
@@ -10309,24 +9306,21 @@ graph
     likecount 26
     commentcount 9
     duration "PT5M17S"
+    sentiment 0.4767
+    PERSPECTIVESEXUALLYEXPLICIT 0.04183031
+    PERSPECTIVEPROFANITY 0.026824346
+    PERSPECTIVEFLIRTATION 0.42411986
+    PERSPECTIVETHREAT 0.17505637
+    PERSPECTIVETOXICITY 0.21036349
+    PERSPECTIVEINSULT 0.05599934
+    PERSPECTIVEIDENTITYATTACK 0.17047897
+    PERSPECTIVEINFLAMMATORY 0.35510668
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 9
   ]
   node
   [
-    id 344
-    name "543"
+    id 543
     label "mjVmz_t7wVo"
     step 0
     date "2019-08-05T18:59:56Z"
@@ -10339,24 +9333,21 @@ graph
     likecount 97
     commentcount 14
     duration "PT13M20S"
+    sentiment -0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.25064826
+    PERSPECTIVEPROFANITY 0.39051938
+    PERSPECTIVEFLIRTATION 0.4650338
+    PERSPECTIVETHREAT 0.5167873
+    PERSPECTIVETOXICITY 0.2885035
+    PERSPECTIVEINSULT 0.6356477
+    PERSPECTIVEIDENTITYATTACK 0.6828112
+    PERSPECTIVEINFLAMMATORY 0.8586774
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 6
   ]
   node
   [
-    id 345
-    name "544"
+    id 544
     label "MWqI9yApu7M"
     step 0
     date "2022-05-18T17:14:39Z"
@@ -10369,84 +9360,75 @@ graph
     likecount 1
     commentcount 27
     duration "PT14M27S"
+    sentiment 0.1779
+    PERSPECTIVESEXUALLYEXPLICIT 0.07180767
+    PERSPECTIVEPROFANITY 0.8052676
+    PERSPECTIVEFLIRTATION 0.1867053
+    PERSPECTIVETHREAT 0.11894877
+    PERSPECTIVETOXICITY 0.6221407
+    PERSPECTIVEINSULT 0.9091764
+    PERSPECTIVEIDENTITYATTACK 0.30166182
+    PERSPECTIVEINFLAMMATORY 0.5869931
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 346
-    name "545"
-    label "IQUwcYwMYVY"
+    id 546
+    label "IFFMaLM0Puw"
     step 0
-    date "2015-09-05T16:32:50Z"
-    title "The Great Replacement / Le Grand Remplacement [Renaud Camus]"
-    description "What makes us what we are? What is at the foundation of the various historical communities that we belong to? What gives them a sense of continuity despite the multiple changes they go through over time? Can this sense of continuity be irreparably broken? In other words, can we cease being what we are? &#10;&#10;Excerpts from a speech given by the writer Renaud Camus in November 2014 in Paris. &#10;&#10;Music: Edvard Grieg - The Death of &#197;se, Peer Gynt, Op. 23 - Barbara Hendricks &#38; Esa-Pekka Salonen &#38; Oslo Philharmonic Orchestra.&#10;______________&#10;&#10;Please consider supporting this channel with a PayPal donation: https://tinyurl.com/yasolo93"
-    channeltitle "Expanding Overton"
-    channelid "UCiMqxHU8Mlf_zGY-BlmqOLA"
+    date "2022-05-26T00:15:31Z"
+    title "The Great Replacement Theory: Social Media Racism- Rappers VS Mass Shooters"
+    description "#youngthug #thereplacementtheory #massshooting #casanova #thebreakfastclub #charlemagne #bigu #nipseyhussle #hassancampbell #yukmouth"
+    channeltitle "BayStar Magazine"
+    channelid "UC60dRxJV8xJKi_0jhDUF-vQ"
     favcount 0
-    viewcount 24913
-    likecount 674
-    commentcount 96
-    duration "PT5M59S"
+    viewcount 56
+    likecount 6
+    commentcount 4
+    duration "PT10M13S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13261285
+    PERSPECTIVEPROFANITY 0.17377985
+    PERSPECTIVEFLIRTATION 0.37628698
+    PERSPECTIVETHREAT 0.2719613
+    PERSPECTIVETOXICITY 0.29021257
+    PERSPECTIVEINSULT 0.29123226
+    PERSPECTIVEIDENTITYATTACK 0.5334722
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 347
-    name "547"
-    label "Rqk7p2hp9OQ"
+    id 548
+    label "7trPvpAe7wU"
     step 0
-    date "2022-06-04T18:41:44Z"
-    title "The Great Replacement or the GREAT LIE ?"
-    description "There's no better foot soldiers than the white people."
-    channeltitle "Aladin B. Belarbi"
-    channelid "UChr4kLgLZPlariSB5PyhsYw"
+    date "2022-06-12T03:51:07Z"
+    title "The truth concerning operation great replacement."
+    description ""
+    channeltitle "Ahman Ban Yasharahla"
+    channelid "UCO4gt2Ug0PEnOXbn4IIsiXA"
     favcount 0
-    viewcount 51
-    likecount 3
-    commentcount 3
-    duration "PT8M37S"
+    viewcount 6
+    likecount 0
+    commentcount 0
+    duration "PT13M57S"
+    sentiment 0.7506
+    PERSPECTIVESEXUALLYEXPLICIT 0.027832882
+    PERSPECTIVEPROFANITY 0.022551209
+    PERSPECTIVEFLIRTATION 0.21745484
+    PERSPECTIVETHREAT 0.055881057
+    PERSPECTIVETOXICITY 0.014438537
+    PERSPECTIVEINSULT 0.021881612
+    PERSPECTIVEIDENTITYATTACK 0.039269708
+    PERSPECTIVEINFLAMMATORY 0.18067822
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 11
   ]
   node
   [
-    id 348
-    name "549"
+    id 549
     label "rFspzWDVimo"
     step 0
     date "2022-05-23T05:07:53Z"
@@ -10459,24 +9441,21 @@ graph
     likecount 21
     commentcount 5
     duration "PT1H16M11S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.044437867
+    PERSPECTIVEPROFANITY 0.06948539
+    PERSPECTIVEFLIRTATION 0.28530937
+    PERSPECTIVETHREAT 0.20568237
+    PERSPECTIVETOXICITY 0.12180476
+    PERSPECTIVEINSULT 0.08269145
+    PERSPECTIVEIDENTITYATTACK 0.17522962
+    PERSPECTIVEINFLAMMATORY 0.012576097
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 5
   ]
   node
   [
-    id 349
-    name "550"
+    id 550
     label "WpL12sf4U6A"
     step 0
     date "2022-06-11T22:22:26Z"
@@ -10489,24 +9468,21 @@ graph
     likecount 5
     commentcount 0
     duration "PT6M18S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.08548037
+    PERSPECTIVEPROFANITY 0.24849156
+    PERSPECTIVEFLIRTATION 0.28247783
+    PERSPECTIVETHREAT 0.16109571
+    PERSPECTIVETOXICITY 0.13386416
+    PERSPECTIVEINSULT 0.2612481
+    PERSPECTIVEIDENTITYATTACK 0.23469596
+    PERSPECTIVEINFLAMMATORY 0.62195563
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 3
   ]
   node
   [
-    id 350
-    name "551"
+    id 551
     label "AH8QJ_FasJo"
     step 0
     date "2022-05-29T18:23:58Z"
@@ -10519,24 +9495,21 @@ graph
     likecount 0
     commentcount 2
     duration "PT4M16S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.072791554
+    PERSPECTIVEPROFANITY 0.100557506
+    PERSPECTIVEFLIRTATION 0.16944185
+    PERSPECTIVETHREAT 0.064322844
+    PERSPECTIVETOXICITY 0.19936113
+    PERSPECTIVEINSULT 0.11295476
+    PERSPECTIVEIDENTITYATTACK 0.21528317
+    PERSPECTIVEINFLAMMATORY 0.64931047
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 9
   ]
   node
   [
-    id 351
-    name "552"
+    id 552
     label "mCUVmDnm-Y4"
     step 0
     date "2022-04-06T00:52:03Z"
@@ -10549,24 +9522,21 @@ graph
     likecount 5
     commentcount 0
     duration "PT8M40S"
+    sentiment 0.5574
+    PERSPECTIVESEXUALLYEXPLICIT 0.019351415
+    PERSPECTIVEPROFANITY 0.033537064
+    PERSPECTIVEFLIRTATION 0.19806662
+    PERSPECTIVETHREAT 0.04031024
+    PERSPECTIVETOXICITY 0.103539884
+    PERSPECTIVEINSULT 0.25937006
+    PERSPECTIVEIDENTITYATTACK 0.109717086
+    PERSPECTIVEINFLAMMATORY 0.5680319
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 8
   ]
   node
   [
-    id 352
-    name "553"
+    id 553
     label "kovcmuls_18"
     step 0
     date "2022-05-16T01:54:57Z"
@@ -10579,24 +9549,21 @@ graph
     likecount 9
     commentcount 2
     duration "PT18M59S"
+    sentiment 0.6249
+    PERSPECTIVESEXUALLYEXPLICIT 0.11801974
+    PERSPECTIVEPROFANITY 0.25762945
+    PERSPECTIVEFLIRTATION 0.32612982
+    PERSPECTIVETHREAT 0.36562052
+    PERSPECTIVETOXICITY 0.38953075
+    PERSPECTIVEINSULT 0.5937954
+    PERSPECTIVEIDENTITYATTACK 0.23955996
+    PERSPECTIVEINFLAMMATORY 0.6501225
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 353
-    name "554"
+    id 554
     label "rXWgFnLTEQg"
     step 0
     date "2022-05-26T01:30:10Z"
@@ -10609,49 +9576,17 @@ graph
     likecount 7891
     commentcount 1135
     duration "PT48M10S"
+    sentiment -0.3818
+    PERSPECTIVESEXUALLYEXPLICIT 0.1446649
+    PERSPECTIVEPROFANITY 0.23267601
+    PERSPECTIVEFLIRTATION 0.41674754
+    PERSPECTIVETHREAT 0.73176146
+    PERSPECTIVETOXICITY 0.20816301
+    PERSPECTIVEINSULT 0.18164735
+    PERSPECTIVEIDENTITYATTACK 0.39234668
+    PERSPECTIVEINFLAMMATORY 0.18010852
     indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanRight|ReligiousConservative"
-    leftright "R"
-    cluster 6
-  ]
-  node
-  [
-    id 354
-    name "555"
-    label "QK1AJKq0cbc"
-    step 0
-    date "2022-05-24T20:59:20Z"
-    title "Protocols of Zion + Bohemian Grove + Chemtrails + Covid-19 + Great Replacement"
-    description "Let's see what context box pops up :)"
-    channeltitle "Coding Sensei"
-    channelid "UCXviyidbD6bOL5VcgKEVRPw"
-    favcount 0
-    viewcount 15
-    likecount 1
-    commentcount 0
-    duration "PT2M38S"
-    indegree 0
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINSULT NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVETOXICITY NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   edge
   [
@@ -10800,7 +9735,7 @@ graph
   edge
   [
     source 3
-    target 98
+    target 99
     rank 18
   ]
   edge
@@ -10878,7 +9813,7 @@ graph
   edge
   [
     source 5
-    target 117
+    target 121
     rank 18
   ]
   edge
@@ -10926,7 +9861,7 @@ graph
   edge
   [
     source 6
-    target 72
+    target 73
     rank 13
   ]
   edge
@@ -10938,7 +9873,7 @@ graph
   edge
   [
     source 6
-    target 89
+    target 90
     rank 16
   ]
   edge
@@ -10950,13 +9885,13 @@ graph
   edge
   [
     source 6
-    target 77
+    target 78
     rank 18
   ]
   edge
   [
     source 6
-    target 98
+    target 99
     rank 19
   ]
   edge
@@ -10992,7 +9927,7 @@ graph
   edge
   [
     source 7
-    target 89
+    target 90
     rank 6
   ]
   edge
@@ -11016,7 +9951,7 @@ graph
   edge
   [
     source 7
-    target 72
+    target 73
     rank 12
   ]
   edge
@@ -11028,7 +9963,7 @@ graph
   edge
   [
     source 7
-    target 98
+    target 99
     rank 17
   ]
   edge
@@ -11040,7 +9975,7 @@ graph
   edge
   [
     source 7
-    target 106
+    target 108
     rank 20
   ]
   edge
@@ -11064,7 +9999,7 @@ graph
   edge
   [
     source 8
-    target 137
+    target 146
     rank 8
   ]
   edge
@@ -11136,7 +10071,7 @@ graph
   edge
   [
     source 10
-    target 74
+    target 75
     rank 13
   ]
   edge
@@ -11184,7 +10119,7 @@ graph
   edge
   [
     source 11
-    target 75
+    target 76
     rank 11
   ]
   edge
@@ -11196,7 +10131,7 @@ graph
   edge
   [
     source 11
-    target 98
+    target 99
     rank 15
   ]
   edge
@@ -11304,7 +10239,7 @@ graph
   edge
   [
     source 13
-    target 113
+    target 117
     rank 7
   ]
   edge
@@ -11334,13 +10269,13 @@ graph
   edge
   [
     source 13
-    target 98
+    target 99
     rank 14
   ]
   edge
   [
     source 13
-    target 75
+    target 76
     rank 19
   ]
   edge
@@ -11412,13 +10347,13 @@ graph
   edge
   [
     source 15
-    target 75
+    target 76
     rank 16
   ]
   edge
   [
     source 15
-    target 89
+    target 90
     rank 17
   ]
   edge
@@ -11430,13 +10365,13 @@ graph
   edge
   [
     source 16
-    target 144
+    target 155
     rank 3
   ]
   edge
   [
     source 16
-    target 137
+    target 146
     rank 4
   ]
   edge
@@ -11466,7 +10401,7 @@ graph
   edge
   [
     source 16
-    target 106
+    target 108
     rank 18
   ]
   edge
@@ -11496,7 +10431,7 @@ graph
   edge
   [
     source 17
-    target 106
+    target 108
     rank 11
   ]
   edge
@@ -11508,13 +10443,13 @@ graph
   edge
   [
     source 17
-    target 98
+    target 99
     rank 18
   ]
   edge
   [
     source 17
-    target 129
+    target 136
     rank 20
   ]
   edge
@@ -11538,13 +10473,13 @@ graph
   edge
   [
     source 20
-    target 144
+    target 155
     rank 2
   ]
   edge
   [
     source 20
-    target 137
+    target 146
     rank 3
   ]
   edge
@@ -11604,7 +10539,7 @@ graph
   edge
   [
     source 22
-    target 106
+    target 108
     rank 6
   ]
   edge
@@ -11628,19 +10563,19 @@ graph
   edge
   [
     source 22
-    target 72
+    target 73
     rank 11
   ]
   edge
   [
     source 22
-    target 77
+    target 78
     rank 12
   ]
   edge
   [
     source 22
-    target 113
+    target 117
     rank 13
   ]
   edge
@@ -11652,13 +10587,13 @@ graph
   edge
   [
     source 22
-    target 98
+    target 99
     rank 16
   ]
   edge
   [
     source 22
-    target 147
+    target 158
     rank 20
   ]
   edge
@@ -11808,25 +10743,25 @@ graph
   edge
   [
     source 27
-    target 120
+    target 125
     rank 7
   ]
   edge
   [
     source 27
-    target 106
+    target 108
     rank 11
   ]
   edge
   [
     source 27
-    target 98
+    target 99
     rank 12
   ]
   edge
   [
     source 27
-    target 182
+    target 208
     rank 20
   ]
   edge
@@ -11880,7 +10815,7 @@ graph
   edge
   [
     source 28
-    target 78
+    target 79
     rank 20
   ]
   edge
@@ -11922,7 +10857,7 @@ graph
   edge
   [
     source 29
-    target 72
+    target 73
     rank 13
   ]
   edge
@@ -11934,7 +10869,7 @@ graph
   edge
   [
     source 29
-    target 77
+    target 78
     rank 20
   ]
   edge
@@ -11970,7 +10905,7 @@ graph
   edge
   [
     source 30
-    target 98
+    target 99
     rank 7
   ]
   edge
@@ -11982,13 +10917,13 @@ graph
   edge
   [
     source 30
-    target 72
+    target 73
     rank 12
   ]
   edge
   [
     source 30
-    target 106
+    target 108
     rank 16
   ]
   edge
@@ -12024,13 +10959,13 @@ graph
   edge
   [
     source 31
-    target 72
+    target 73
     rank 16
   ]
   edge
   [
     source 31
-    target 89
+    target 90
     rank 17
   ]
   edge
@@ -12090,7 +11025,7 @@ graph
   edge
   [
     source 33
-    target 98
+    target 99
     rank 7
   ]
   edge
@@ -12108,7 +11043,7 @@ graph
   edge
   [
     source 33
-    target 73
+    target 74
     rank 13
   ]
   edge
@@ -12132,7 +11067,7 @@ graph
   edge
   [
     source 34
-    target 98
+    target 99
     rank 12
   ]
   edge
@@ -12144,7 +11079,7 @@ graph
   edge
   [
     source 34
-    target 146
+    target 157
     rank 19
   ]
   edge
@@ -12180,13 +11115,13 @@ graph
   edge
   [
     source 35
-    target 72
+    target 73
     rank 13
   ]
   edge
   [
     source 35
-    target 75
+    target 76
     rank 15
   ]
   edge
@@ -12204,7 +11139,7 @@ graph
   edge
   [
     source 36
-    target 71
+    target 72
     rank 3
   ]
   edge
@@ -12246,7 +11181,7 @@ graph
   edge
   [
     source 37
-    target 89
+    target 90
     rank 14
   ]
   edge
@@ -12306,7 +11241,7 @@ graph
   edge
   [
     source 39
-    target 134
+    target 143
     rank 5
   ]
   edge
@@ -12372,7 +11307,7 @@ graph
   edge
   [
     source 40
-    target 95
+    target 96
     rank 7
   ]
   edge
@@ -12408,13 +11343,13 @@ graph
   edge
   [
     source 40
-    target 106
+    target 108
     rank 16
   ]
   edge
   [
     source 40
-    target 138
+    target 149
     rank 18
   ]
   edge
@@ -12450,7 +11385,7 @@ graph
   edge
   [
     source 42
-    target 72
+    target 73
     rank 9
   ]
   edge
@@ -12468,13 +11403,13 @@ graph
   edge
   [
     source 43
-    target 115
+    target 119
     rank 12
   ]
   edge
   [
     source 44
-    target 144
+    target 155
     rank 3
   ]
   edge
@@ -12486,7 +11421,7 @@ graph
   edge
   [
     source 44
-    target 137
+    target 146
     rank 5
   ]
   edge
@@ -12606,7 +11541,7 @@ graph
   edge
   [
     source 46
-    target 75
+    target 76
     rank 20
   ]
   edge
@@ -12678,7 +11613,7 @@ graph
   edge
   [
     source 49
-    target 95
+    target 96
     rank 3
   ]
   edge
@@ -12726,13 +11661,13 @@ graph
   edge
   [
     source 50
-    target 98
+    target 99
     rank 2
   ]
   edge
   [
     source 50
-    target 144
+    target 155
     rank 16
   ]
   edge
@@ -12780,7 +11715,7 @@ graph
   edge
   [
     source 51
-    target 104
+    target 105
     rank 19
   ]
   edge
@@ -12828,7 +11763,7 @@ graph
   edge
   [
     source 54
-    target 79
+    target 80
     rank 6
   ]
   edge
@@ -12870,7 +11805,7 @@ graph
   edge
   [
     source 56
-    target 120
+    target 125
     rank 11
   ]
   edge
@@ -12906,7 +11841,7 @@ graph
   edge
   [
     source 57
-    target 89
+    target 90
     rank 5
   ]
   edge
@@ -12942,7 +11877,7 @@ graph
   edge
   [
     source 59
-    target 71
+    target 72
     rank 2
   ]
   edge
@@ -12954,7 +11889,7 @@ graph
   edge
   [
     source 59
-    target 98
+    target 99
     rank 17
   ]
   edge
@@ -12978,13 +11913,13 @@ graph
   edge
   [
     source 60
-    target 137
+    target 146
     rank 10
   ]
   edge
   [
     source 60
-    target 72
+    target 73
     rank 20
   ]
   edge
@@ -13032,7 +11967,7 @@ graph
   edge
   [
     source 63
-    target 78
+    target 79
     rank 11
   ]
   edge
@@ -13044,7 +11979,7 @@ graph
   edge
   [
     source 64
-    target 137
+    target 146
     rank 1
   ]
   edge
@@ -13068,19 +12003,19 @@ graph
   edge
   [
     source 64
-    target 98
+    target 99
     rank 6
   ]
   edge
   [
     source 64
-    target 106
+    target 108
     rank 8
   ]
   edge
   [
     source 64
-    target 123
+    target 128
     rank 12
   ]
   edge
@@ -13110,7 +12045,7 @@ graph
   edge
   [
     source 66
-    target 98
+    target 99
     rank 17
   ]
   edge
@@ -13128,13 +12063,13 @@ graph
   edge
   [
     source 67
-    target 98
+    target 99
     rank 7
   ]
   edge
   [
     source 67
-    target 144
+    target 155
     rank 9
   ]
   edge
@@ -13158,7 +12093,7 @@ graph
   edge
   [
     source 68
-    target 137
+    target 146
     rank 15
   ]
   edge
@@ -13176,7 +12111,7 @@ graph
   edge
   [
     source 69
-    target 144
+    target 155
     rank 3
   ]
   edge
@@ -13188,7 +12123,7 @@ graph
   edge
   [
     source 69
-    target 113
+    target 117
     rank 10
   ]
   edge
@@ -13206,7 +12141,7 @@ graph
   edge
   [
     source 69
-    target 98
+    target 99
     rank 15
   ]
   edge
@@ -13218,7 +12153,7 @@ graph
   edge
   [
     source 69
-    target 106
+    target 108
     rank 17
   ]
   edge
@@ -13236,7 +12171,7 @@ graph
   edge
   [
     source 70
-    target 71
+    target 72
     rank 9
   ]
   edge
@@ -13259,5018 +12194,5018 @@ graph
   ]
   edge
   [
-    source 71
+    source 72
     target 36
     rank 1
   ]
   edge
   [
-    source 71
+    source 72
     target 19
     rank 2
   ]
   edge
   [
-    source 71
+    source 72
     target 56
     rank 5
   ]
   edge
   [
-    source 71
+    source 72
     target 16
     rank 6
   ]
   edge
   [
-    source 71
+    source 72
     target 34
     rank 10
   ]
   edge
   [
-    source 71
+    source 72
     target 20
     rank 11
   ]
   edge
   [
-    source 71
+    source 72
     target 27
     rank 18
   ]
   edge
   [
-    source 71
+    source 72
     target 4
     rank 19
   ]
   edge
   [
-    source 72
+    source 73
     target 52
     rank 3
   ]
   edge
   [
-    source 72
+    source 73
     target 19
     rank 4
   ]
   edge
   [
-    source 72
+    source 73
     target 31
     rank 6
   ]
   edge
   [
-    source 72
+    source 73
     target 68
     rank 12
   ]
   edge
   [
-    source 73
+    source 74
     target 23
     rank 2
   ]
   edge
   [
-    source 73
-    target 98
+    source 74
+    target 99
     rank 7
   ]
   edge
   [
-    source 74
+    source 75
     target 34
     rank 3
   ]
   edge
   [
-    source 74
+    source 75
     target 23
     rank 4
   ]
   edge
   [
-    source 74
-    target 98
+    source 75
+    target 99
     rank 12
   ]
   edge
   [
-    source 74
-    target 106
+    source 75
+    target 108
     rank 14
   ]
   edge
   [
-    source 75
+    source 76
     target 69
     rank 6
   ]
   edge
   [
-    source 75
+    source 76
     target 36
     rank 13
   ]
   edge
   [
-    source 75
+    source 76
     target 27
     rank 15
   ]
   edge
   [
-    source 76
+    source 77
     target 22
     rank 4
   ]
   edge
   [
-    source 76
+    source 77
     target 24
     rank 9
   ]
   edge
   [
-    source 77
+    source 78
     target 44
     rank 1
   ]
   edge
   [
-    source 77
+    source 78
     target 19
     rank 2
   ]
   edge
   [
-    source 77
+    source 78
     target 28
     rank 12
   ]
   edge
   [
-    source 77
+    source 78
     target 68
     rank 13
   ]
   edge
   [
-    source 77
+    source 78
     target 37
     rank 14
   ]
   edge
   [
-    source 77
-    target 103
+    source 78
+    target 104
     rank 16
   ]
   edge
   [
-    source 78
+    source 79
     target 15
     rank 1
   ]
   edge
   [
-    source 78
+    source 79
     target 21
     rank 2
   ]
   edge
   [
-    source 78
+    source 79
     target 7
     rank 6
   ]
   edge
   [
-    source 78
+    source 79
     target 8
     rank 8
   ]
   edge
   [
-    source 78
+    source 79
     target 51
     rank 9
   ]
   edge
   [
-    source 78
+    source 79
     target 28
     rank 13
   ]
   edge
   [
-    source 78
+    source 79
     target 60
     rank 14
   ]
   edge
   [
-    source 78
+    source 79
     target 53
     rank 16
   ]
   edge
   [
-    source 78
+    source 79
     target 9
     rank 17
   ]
   edge
   [
-    source 78
+    source 79
     target 1
     rank 18
   ]
   edge
   [
-    source 80
+    source 81
     target 23
     rank 1
   ]
   edge
   [
-    source 80
+    source 81
     target 70
     rank 5
   ]
   edge
   [
-    source 80
-    target 98
+    source 81
+    target 99
     rank 8
   ]
   edge
   [
-    source 80
-    target 73
+    source 81
+    target 74
     rank 9
   ]
   edge
   [
-    source 81
-    target 98
+    source 82
+    target 99
     rank 2
   ]
   edge
   [
-    source 81
-    target 120
+    source 82
+    target 125
     rank 3
   ]
   edge
   [
-    source 81
-    target 94
+    source 82
+    target 95
     rank 5
   ]
   edge
   [
-    source 81
-    target 87
+    source 82
+    target 88
     rank 11
   ]
   edge
   [
-    source 82
+    source 83
     target 39
     rank 7
   ]
   edge
   [
-    source 82
-    target 98
+    source 83
+    target 99
     rank 11
   ]
   edge
   [
-    source 82
+    source 83
     target 9
     rank 12
   ]
   edge
   [
-    source 82
-    target 73
+    source 83
+    target 74
     rank 13
   ]
   edge
   [
-    source 83
+    source 84
     target 52
     rank 2
   ]
   edge
   [
-    source 83
+    source 84
     target 8
     rank 6
   ]
   edge
   [
-    source 83
+    source 84
     target 19
     rank 8
   ]
   edge
   [
-    source 83
+    source 84
     target 60
     rank 12
   ]
   edge
   [
-    source 83
+    source 84
     target 20
     rank 17
   ]
   edge
   [
-    source 84
-    target 95
+    source 85
+    target 96
     rank 4
   ]
   edge
   [
-    source 84
+    source 85
     target 70
     rank 9
   ]
   edge
   [
-    source 85
+    source 86
     target 44
     rank 1
   ]
   edge
   [
-    source 85
-    target 137
+    source 86
+    target 146
     rank 3
   ]
   edge
   [
-    source 85
+    source 86
     target 19
     rank 8
   ]
   edge
   [
-    source 85
+    source 86
     target 52
     rank 11
   ]
   edge
   [
-    source 85
+    source 86
     target 68
     rank 12
   ]
   edge
   [
-    source 85
-    target 144
+    source 86
+    target 155
     rank 13
   ]
   edge
   [
-    source 85
+    source 86
     target 60
     rank 15
   ]
   edge
   [
-    source 86
+    source 87
     target 1
     rank 2
   ]
   edge
   [
-    source 86
+    source 87
     target 23
     rank 4
   ]
   edge
   [
-    source 86
-    target 93
+    source 87
+    target 94
     rank 9
   ]
   edge
   [
-    source 86
-    target 95
+    source 87
+    target 96
     rank 10
   ]
   edge
   [
-    source 86
-    target 264
+    source 87
+    target 362
     rank 17
   ]
   edge
   [
-    source 87
+    source 88
     target 52
     rank 1
   ]
   edge
   [
-    source 87
+    source 88
     target 19
     rank 2
   ]
   edge
   [
-    source 87
+    source 88
     target 60
     rank 3
   ]
   edge
   [
-    source 87
-    target 112
+    source 88
+    target 115
     rank 19
   ]
   edge
   [
-    source 88
+    source 89
     target 44
     rank 1
   ]
   edge
   [
-    source 88
+    source 89
     target 19
     rank 2
   ]
   edge
   [
-    source 88
-    target 89
+    source 89
+    target 90
     rank 3
   ]
   edge
   [
-    source 88
-    target 106
+    source 89
+    target 108
     rank 6
   ]
   edge
   [
-    source 88
+    source 89
     target 36
     rank 8
   ]
   edge
   [
-    source 88
+    source 89
     target 64
     rank 11
   ]
   edge
   [
-    source 88
+    source 89
     target 57
     rank 12
   ]
   edge
   [
-    source 88
+    source 89
     target 52
     rank 14
   ]
   edge
   [
-    source 89
+    source 90
     target 37
     rank 8
   ]
   edge
   [
-    source 89
+    source 90
     target 52
     rank 11
   ]
   edge
   [
-    source 89
+    source 90
     target 44
     rank 14
   ]
   edge
   [
-    source 89
+    source 90
     target 68
     rank 15
   ]
   edge
   [
-    source 89
+    source 90
     target 31
     rank 17
   ]
   edge
   [
-    source 89
+    source 90
     target 19
     rank 20
   ]
   edge
   [
-    source 90
+    source 91
     target 23
     rank 1
   ]
   edge
   [
-    source 90
+    source 91
     target 1
     rank 5
   ]
   edge
   [
-    source 90
+    source 91
     target 52
     rank 6
   ]
   edge
   [
-    source 90
+    source 91
     target 65
     rank 11
   ]
   edge
   [
-    source 90
+    source 91
     target 34
     rank 19
   ]
   edge
   [
-    source 91
-    target 109
+    source 92
+    target 111
     rank 20
   ]
   edge
   [
-    source 92
+    source 93
     target 23
     rank 4
   ]
   edge
   [
-    source 92
+    source 93
     target 46
     rank 15
   ]
   edge
   [
-    source 92
-    target 98
+    source 93
+    target 99
     rank 18
   ]
   edge
   [
-    source 92
-    target 81
+    source 93
+    target 82
     rank 20
   ]
   edge
   [
-    source 94
+    source 95
     target 21
     rank 4
   ]
   edge
   [
-    source 94
-    target 145
+    source 95
+    target 156
     rank 10
   ]
   edge
   [
-    source 95
+    source 96
     target 41
     rank 12
   ]
   edge
   [
-    source 96
+    source 97
     target 39
     rank 7
   ]
   edge
   [
-    source 96
-    target 77
+    source 97
+    target 78
     rank 12
   ]
   edge
   [
-    source 97
-    target 71
+    source 98
+    target 72
     rank 1
   ]
   edge
   [
-    source 97
+    source 98
     target 34
     rank 3
   ]
   edge
   [
-    source 97
+    source 98
     target 19
     rank 6
   ]
   edge
   [
-    source 97
+    source 98
     target 22
     rank 7
   ]
   edge
   [
-    source 97
-    target 77
+    source 98
+    target 78
     rank 10
   ]
   edge
   [
-    source 97
-    target 81
+    source 98
+    target 82
     rank 15
   ]
   edge
   [
-    source 97
-    target 106
+    source 98
+    target 108
     rank 16
   ]
   edge
   [
-    source 97
+    source 98
     target 57
     rank 19
   ]
   edge
   [
-    source 98
+    source 99
     target 52
     rank 6
   ]
   edge
   [
-    source 98
-    target 113
+    source 99
+    target 117
     rank 13
   ]
   edge
   [
-    source 99
+    source 100
     target 7
     rank 1
   ]
   edge
   [
-    source 99
+    source 100
     target 57
     rank 20
   ]
   edge
   [
-    source 100
-    target 113
+    source 101
+    target 117
     rank 4
   ]
   edge
   [
-    source 100
-    target 144
+    source 101
+    target 155
     rank 8
   ]
   edge
   [
-    source 101
+    source 102
     target 21
     rank 5
   ]
   edge
   [
-    source 101
+    source 102
     target 68
     rank 6
   ]
   edge
   [
-    source 101
-    target 89
+    source 102
+    target 90
     rank 12
   ]
   edge
   [
-    source 102
-    target 95
+    source 103
+    target 96
     rank 1
   ]
   edge
   [
-    source 102
+    source 103
     target 40
     rank 2
   ]
   edge
   [
-    source 102
-    target 72
+    source 103
+    target 73
     rank 4
   ]
   edge
   [
-    source 102
+    source 103
     target 14
     rank 6
   ]
   edge
   [
-    source 102
+    source 103
     target 21
     rank 7
   ]
   edge
   [
-    source 102
+    source 103
     target 12
     rank 8
   ]
   edge
   [
-    source 102
-    target 81
+    source 103
+    target 82
     rank 10
   ]
   edge
   [
-    source 102
+    source 103
     target 25
     rank 11
   ]
   edge
   [
-    source 102
+    source 103
     target 39
     rank 13
   ]
   edge
   [
-    source 102
-    target 94
+    source 103
+    target 95
     rank 15
   ]
   edge
   [
-    source 102
-    target 169
+    source 103
+    target 188
     rank 16
   ]
   edge
   [
-    source 102
-    target 197
+    source 103
+    target 227
     rank 17
   ]
   edge
   [
-    source 102
+    source 103
     target 64
     rank 19
   ]
   edge
   [
-    source 104
+    source 105
     target 34
     rank 1
   ]
   edge
   [
-    source 104
-    target 81
+    source 105
+    target 82
     rank 6
   ]
   edge
   [
-    source 104
-    target 87
+    source 105
+    target 88
     rank 14
   ]
   edge
   [
-    source 104
+    source 105
     target 57
     rank 16
   ]
   edge
   [
-    source 105
-    target 112
+    source 106
+    target 115
     rank 14
   ]
   edge
   [
-    source 106
+    source 108
     target 44
     rank 6
   ]
   edge
   [
-    source 107
+    source 109
     target 7
     rank 1
   ]
   edge
   [
-    source 107
-    target 134
+    source 109
+    target 143
     rank 2
   ]
   edge
   [
-    source 107
+    source 109
     target 19
     rank 3
   ]
   edge
   [
-    source 107
+    source 109
     target 31
     rank 4
   ]
   edge
   [
-    source 107
+    source 109
     target 68
     rank 6
   ]
   edge
   [
-    source 107
+    source 109
     target 22
     rank 7
   ]
   edge
   [
-    source 107
+    source 109
     target 3
     rank 8
   ]
   edge
   [
-    source 107
+    source 109
     target 4
     rank 11
   ]
   edge
   [
-    source 107
+    source 109
     target 57
     rank 12
   ]
   edge
   [
-    source 107
+    source 109
     target 26
     rank 13
   ]
   edge
   [
-    source 107
+    source 109
     target 29
     rank 14
   ]
   edge
   [
-    source 107
+    source 109
     target 65
     rank 17
   ]
   edge
   [
-    source 108
+    source 110
     target 44
     rank 1
   ]
   edge
   [
-    source 108
+    source 110
     target 8
     rank 17
   ]
   edge
   [
-    source 109
+    source 111
     target 21
     rank 2
   ]
   edge
   [
-    source 109
+    source 111
     target 29
     rank 3
   ]
   edge
   [
-    source 109
+    source 111
     target 44
     rank 4
   ]
   edge
   [
-    source 109
+    source 111
     target 14
     rank 5
   ]
   edge
   [
-    source 109
+    source 111
     target 7
     rank 7
   ]
   edge
   [
-    source 109
-    target 89
+    source 111
+    target 90
     rank 9
   ]
   edge
   [
-    source 109
+    source 111
     target 70
     rank 10
   ]
   edge
   [
-    source 109
+    source 111
     target 39
     rank 11
   ]
   edge
   [
-    source 109
+    source 111
     target 68
     rank 12
   ]
   edge
   [
-    source 109
+    source 111
     target 34
     rank 14
   ]
   edge
   [
-    source 109
-    target 72
+    source 111
+    target 73
     rank 15
   ]
   edge
   [
-    source 109
-    target 123
+    source 111
+    target 128
     rank 20
   ]
   edge
   [
-    source 110
-    target 144
+    source 113
+    target 155
     rank 1
   ]
   edge
   [
-    source 110
-    target 98
+    source 113
+    target 99
     rank 3
   ]
   edge
   [
-    source 110
+    source 113
     target 19
     rank 4
   ]
   edge
   [
-    source 111
+    source 114
     target 23
     rank 4
   ]
   edge
   [
-    source 111
+    source 114
     target 21
     rank 6
   ]
   edge
   [
-    source 111
+    source 114
     target 29
     rank 10
   ]
   edge
   [
-    source 111
+    source 114
     target 57
     rank 11
   ]
   edge
   [
-    source 111
+    source 114
     target 65
     rank 12
   ]
   edge
   [
-    source 111
+    source 114
     target 1
     rank 13
   ]
   edge
   [
-    source 111
-    target 199
+    source 114
+    target 229
     rank 18
   ]
   edge
   [
-    source 112
+    source 115
     target 44
     rank 1
   ]
   edge
   [
-    source 112
+    source 115
     target 7
     rank 2
   ]
   edge
   [
-    source 112
+    source 115
     target 52
     rank 3
   ]
   edge
   [
-    source 112
+    source 115
     target 19
     rank 8
   ]
   edge
   [
-    source 112
-    target 89
+    source 115
+    target 90
     rank 11
   ]
   edge
   [
-    source 113
-    target 141
+    source 117
+    target 152
     rank 13
   ]
   edge
   [
-    source 113
-    target 137
+    source 117
+    target 146
     rank 14
   ]
   edge
   [
-    source 114
+    source 118
     target 52
     rank 12
   ]
   edge
   [
-    source 115
+    source 119
     target 39
     rank 5
   ]
   edge
   [
-    source 116
+    source 120
     target 32
     rank 16
   ]
   edge
   [
-    source 117
+    source 121
     target 27
     rank 2
   ]
   edge
   [
-    source 117
+    source 121
     target 19
     rank 5
   ]
   edge
   [
-    source 117
+    source 121
     target 23
     rank 6
   ]
   edge
   [
-    source 117
+    source 121
     target 22
     rank 7
   ]
   edge
   [
-    source 117
+    source 121
     target 44
     rank 10
   ]
   edge
   [
-    source 117
+    source 121
     target 68
     rank 12
   ]
   edge
   [
-    source 117
+    source 121
     target 65
     rank 13
   ]
   edge
   [
-    source 117
-    target 98
+    source 121
+    target 99
     rank 15
   ]
   edge
   [
-    source 117
-    target 106
+    source 121
+    target 108
     rank 16
   ]
   edge
   [
-    source 117
+    source 121
     target 60
     rank 17
   ]
   edge
   [
-    source 117
+    source 121
     target 31
     rank 18
   ]
   edge
   [
-    source 117
-    target 123
+    source 121
+    target 128
     rank 19
   ]
   edge
   [
-    source 117
+    source 121
     target 28
     rank 20
   ]
   edge
   [
-    source 119
+    source 124
     target 19
     rank 2
   ]
   edge
   [
-    source 119
+    source 124
     target 44
     rank 3
   ]
   edge
   [
-    source 119
+    source 124
     target 52
     rank 4
   ]
   edge
   [
-    source 119
+    source 124
     target 7
     rank 5
   ]
   edge
   [
-    source 119
+    source 124
     target 60
     rank 8
   ]
   edge
   [
-    source 121
-    target 106
+    source 126
+    target 108
     rank 13
   ]
   edge
   [
-    source 122
+    source 127
     target 39
     rank 4
   ]
   edge
   [
-    source 122
-    target 197
+    source 127
+    target 227
     rank 16
   ]
   edge
   [
-    source 123
+    source 128
     target 44
     rank 1
   ]
   edge
   [
-    source 123
+    source 128
     target 19
     rank 2
   ]
   edge
   [
-    source 123
+    source 128
     target 60
     rank 5
   ]
   edge
   [
-    source 123
+    source 128
     target 57
     rank 9
   ]
   edge
   [
-    source 123
-    target 106
+    source 128
+    target 108
     rank 10
   ]
   edge
   [
-    source 124
+    source 130
     target 22
     rank 2
   ]
   edge
   [
-    source 124
+    source 130
     target 65
     rank 6
   ]
   edge
   [
-    source 124
+    source 130
     target 6
     rank 8
   ]
   edge
   [
-    source 124
+    source 130
     target 3
     rank 20
   ]
   edge
   [
-    source 125
+    source 131
     target 37
     rank 1
   ]
   edge
   [
-    source 125
-    target 101
+    source 131
+    target 102
     rank 2
   ]
   edge
   [
-    source 125
+    source 131
     target 42
     rank 3
   ]
   edge
   [
-    source 125
+    source 131
     target 21
     rank 5
   ]
   edge
   [
-    source 125
+    source 131
     target 27
     rank 16
   ]
   edge
   [
-    source 125
-    target 104
+    source 131
+    target 105
     rank 18
   ]
   edge
   [
-    source 125
+    source 131
     target 17
     rank 19
   ]
   edge
   [
-    source 126
+    source 132
     target 60
     rank 1
   ]
   edge
   [
-    source 126
+    source 132
     target 39
     rank 2
   ]
   edge
   [
-    source 126
+    source 132
     target 28
     rank 3
   ]
   edge
   [
-    source 126
+    source 132
     target 63
     rank 8
   ]
   edge
   [
-    source 126
+    source 132
     target 57
     rank 12
   ]
   edge
   [
-    source 127
-    target 75
+    source 133
+    target 76
     rank 2
   ]
   edge
   [
-    source 128
-    target 134
+    source 134
+    target 143
     rank 4
   ]
   edge
   [
-    source 128
+    source 134
     target 52
     rank 6
   ]
   edge
   [
-    source 128
+    source 134
     target 19
     rank 11
   ]
   edge
   [
-    source 128
+    source 134
     target 34
     rank 14
   ]
   edge
   [
-    source 128
-    target 72
+    source 134
+    target 73
     rank 19
   ]
   edge
   [
-    source 130
+    source 137
     target 23
     rank 3
   ]
   edge
   [
-    source 130
+    source 137
     target 46
     rank 10
   ]
   edge
   [
-    source 132
-    target 144
+    source 140
+    target 155
     rank 3
   ]
   edge
   [
-    source 132
-    target 106
+    source 140
+    target 108
     rank 6
   ]
   edge
   [
-    source 132
-    target 98
+    source 140
+    target 99
     rank 9
   ]
   edge
   [
-    source 133
-    target 120
+    source 142
+    target 125
     rank 6
   ]
   edge
   [
-    source 133
+    source 142
     target 44
     rank 10
   ]
   edge
   [
-    source 133
+    source 142
     target 60
     rank 11
   ]
   edge
   [
-    source 133
+    source 142
     target 23
     rank 12
   ]
   edge
   [
-    source 133
-    target 98
+    source 142
+    target 99
     rank 16
   ]
   edge
   [
-    source 135
+    source 144
     target 44
     rank 1
   ]
   edge
   [
-    source 135
+    source 144
     target 19
     rank 2
   ]
   edge
   [
-    source 135
-    target 144
+    source 144
+    target 155
     rank 3
   ]
   edge
   [
-    source 135
-    target 108
+    source 144
+    target 110
     rank 7
   ]
   edge
   [
-    source 135
-    target 115
+    source 144
+    target 119
     rank 8
   ]
   edge
   [
-    source 135
-    target 146
+    source 144
+    target 157
     rank 11
   ]
   edge
   [
-    source 136
+    source 145
     target 22
     rank 3
   ]
   edge
   [
-    source 136
+    source 145
     target 39
     rank 11
   ]
   edge
   [
-    source 136
-    target 82
+    source 145
+    target 83
     rank 14
   ]
   edge
   [
-    source 136
+    source 145
     target 53
     rank 17
   ]
   edge
   [
-    source 137
+    source 146
     target 44
     rank 8
   ]
   edge
   [
-    source 138
-    target 95
+    source 149
+    target 96
     rank 5
   ]
   edge
   [
-    source 139
+    source 150
     target 40
     rank 2
   ]
   edge
   [
-    source 140
+    source 151
     target 23
     rank 3
   ]
   edge
   [
-    source 140
+    source 151
     target 46
     rank 5
   ]
   edge
   [
-    source 142
-    target 134
+    source 153
+    target 143
     rank 7
   ]
   edge
   [
-    source 142
-    target 144
+    source 153
+    target 155
     rank 13
   ]
   edge
   [
-    source 143
+    source 154
     target 70
     rank 1
   ]
   edge
   [
-    source 143
+    source 154
     target 22
     rank 2
   ]
   edge
   [
-    source 143
+    source 154
     target 6
     rank 3
   ]
   edge
   [
-    source 143
+    source 154
     target 64
     rank 6
   ]
   edge
   [
-    source 143
+    source 154
     target 27
     rank 8
   ]
   edge
   [
-    source 143
+    source 154
     target 69
     rank 9
   ]
   edge
   [
-    source 143
-    target 197
+    source 154
+    target 227
     rank 19
   ]
   edge
   [
-    source 144
-    target 142
+    source 155
+    target 153
     rank 3
   ]
   edge
   [
-    source 145
-    target 134
+    source 156
+    target 143
     rank 1
   ]
   edge
   [
-    source 145
-    target 112
+    source 156
+    target 115
     rank 16
   ]
   edge
   [
-    source 146
+    source 157
     target 9
     rank 2
   ]
   edge
   [
-    source 146
+    source 157
     target 56
     rank 3
   ]
   edge
   [
-    source 146
+    source 157
     target 34
     rank 6
   ]
   edge
   [
-    source 146
+    source 157
     target 39
     rank 18
   ]
   edge
   [
-    source 147
+    source 158
     target 17
     rank 8
   ]
   edge
   [
-    source 148
+    source 159
     target 41
     rank 2
   ]
   edge
   [
-    source 149
+    source 162
     target 9
     rank 1
   ]
   edge
   [
-    source 149
-    target 120
+    source 162
+    target 125
     rank 2
   ]
   edge
   [
-    source 149
+    source 162
     target 2
     rank 3
   ]
   edge
   [
-    source 149
+    source 162
     target 19
     rank 4
   ]
   edge
   [
-    source 149
+    source 162
     target 56
     rank 5
   ]
   edge
   [
-    source 149
+    source 162
     target 0
     rank 6
   ]
   edge
   [
-    source 149
+    source 162
     target 20
     rank 7
   ]
   edge
   [
-    source 149
-    target 77
+    source 162
+    target 78
     rank 8
   ]
   edge
   [
-    source 149
-    target 161
+    source 162
+    target 175
     rank 9
   ]
   edge
   [
-    source 149
-    target 81
+    source 162
+    target 82
     rank 12
   ]
   edge
   [
-    source 149
+    source 162
     target 57
     rank 13
   ]
   edge
   [
-    source 149
-    target 107
+    source 162
+    target 109
     rank 14
   ]
   edge
   [
-    source 149
-    target 147
+    source 162
+    target 158
     rank 15
   ]
   edge
   [
-    source 149
+    source 162
     target 31
     rank 20
   ]
   edge
   [
-    source 151
-    target 81
+    source 165
+    target 82
     rank 4
   ]
   edge
   [
-    source 151
+    source 165
     target 70
     rank 5
   ]
   edge
   [
-    source 151
-    target 98
+    source 165
+    target 99
     rank 6
   ]
   edge
   [
-    source 151
-    target 113
+    source 165
+    target 117
     rank 7
   ]
   edge
   [
-    source 152
+    source 166
     target 23
     rank 3
   ]
   edge
   [
-    source 152
+    source 166
     target 65
     rank 13
   ]
   edge
   [
-    source 152
-    target 182
+    source 166
+    target 208
     rank 20
   ]
   edge
   [
-    source 153
+    source 167
     target 42
     rank 9
   ]
   edge
   [
-    source 154
+    source 168
     target 70
     rank 3
   ]
   edge
   [
-    source 154
+    source 168
     target 27
     rank 6
   ]
   edge
   [
-    source 154
+    source 168
     target 23
     rank 10
   ]
   edge
   [
-    source 154
-    target 81
+    source 168
+    target 82
     rank 12
   ]
   edge
   [
-    source 154
-    target 98
+    source 168
+    target 99
     rank 18
   ]
   edge
   [
-    source 154
-    target 110
+    source 168
+    target 113
     rank 19
   ]
   edge
   [
-    source 154
-    target 114
+    source 168
+    target 118
     rank 20
   ]
   edge
   [
-    source 155
+    source 169
     target 48
     rank 1
   ]
   edge
   [
-    source 155
-    target 187
+    source 169
+    target 216
     rank 19
   ]
   edge
   [
-    source 156
-    target 134
+    source 170
+    target 143
     rank 3
   ]
   edge
   [
-    source 156
-    target 137
+    source 170
+    target 146
     rank 4
   ]
   edge
   [
-    source 156
+    source 170
     target 52
     rank 5
   ]
   edge
   [
-    source 156
+    source 170
     target 44
     rank 6
   ]
   edge
   [
-    source 156
-    target 106
+    source 170
+    target 108
     rank 11
   ]
   edge
   [
-    source 156
+    source 170
     target 57
     rank 12
   ]
   edge
   [
-    source 157
+    source 171
     target 21
     rank 5
   ]
   edge
   [
-    source 157
+    source 171
     target 1
     rank 6
   ]
   edge
   [
-    source 157
-    target 106
+    source 171
+    target 108
     rank 8
   ]
   edge
   [
-    source 157
+    source 171
     target 17
     rank 11
   ]
   edge
   [
-    source 157
-    target 112
+    source 171
+    target 115
     rank 18
   ]
   edge
   [
-    source 158
+    source 172
     target 57
     rank 2
   ]
   edge
   [
-    source 158
-    target 247
+    source 172
+    target 326
     rank 6
   ]
   edge
   [
-    source 159
-    target 95
+    source 173
+    target 96
     rank 5
   ]
   edge
   [
-    source 160
+    source 174
     target 23
     rank 3
   ]
   edge
   [
-    source 160
-    target 81
+    source 174
+    target 82
     rank 7
   ]
   edge
   [
-    source 160
+    source 174
     target 12
     rank 14
   ]
   edge
   [
-    source 160
-    target 94
+    source 174
+    target 95
     rank 16
   ]
   edge
   [
-    source 162
-    target 169
+    source 176
+    target 188
     rank 7
   ]
   edge
   [
-    source 162
+    source 176
     target 14
     rank 10
   ]
   edge
   [
-    source 162
+    source 176
     target 37
     rank 11
   ]
   edge
   [
-    source 162
+    source 176
     target 46
     rank 13
   ]
   edge
   [
-    source 162
+    source 176
     target 38
     rank 14
   ]
   edge
   [
-    source 162
-    target 130
+    source 176
+    target 137
     rank 15
   ]
   edge
   [
-    source 163
+    source 177
     target 27
     rank 7
   ]
   edge
   [
-    source 163
-    target 182
+    source 177
+    target 208
     rank 8
   ]
   edge
   [
-    source 163
-    target 172
+    source 177
+    target 191
     rank 11
   ]
   edge
   [
-    source 163
-    target 73
+    source 177
+    target 74
     rank 12
   ]
   edge
   [
-    source 163
-    target 117
+    source 177
+    target 121
     rank 13
   ]
   edge
   [
-    source 163
-    target 110
+    source 177
+    target 113
     rank 14
   ]
   edge
   [
-    source 163
-    target 133
+    source 177
+    target 142
     rank 15
   ]
   edge
   [
-    source 164
+    source 178
     target 9
     rank 3
   ]
   edge
   [
-    source 165
+    source 180
     target 12
     rank 7
   ]
   edge
   [
-    source 165
+    source 180
     target 37
     rank 14
   ]
   edge
   [
-    source 165
-    target 233
+    source 180
+    target 283
     rank 16
   ]
   edge
   [
-    source 166
-    target 95
+    source 182
+    target 96
     rank 2
   ]
   edge
   [
-    source 166
+    source 182
     target 3
     rank 5
   ]
   edge
   [
-    source 166
-    target 138
+    source 182
+    target 149
     rank 11
   ]
   edge
   [
-    source 167
+    source 184
     target 57
     rank 8
   ]
   edge
   [
-    source 168
-    target 134
+    source 185
+    target 143
     rank 4
   ]
   edge
   [
-    source 169
+    source 188
     target 23
     rank 1
   ]
   edge
   [
-    source 169
-    target 106
+    source 188
+    target 108
     rank 5
   ]
   edge
   [
-    source 169
+    source 188
     target 69
     rank 9
   ]
   edge
   [
-    source 169
+    source 188
     target 57
     rank 14
   ]
   edge
   [
-    source 169
-    target 197
+    source 188
+    target 227
     rank 18
   ]
   edge
   [
-    source 170
-    target 133
+    source 189
+    target 142
     rank 9
   ]
   edge
   [
-    source 171
-    target 71
+    source 190
+    target 72
     rank 5
   ]
   edge
   [
-    source 171
+    source 190
     target 27
     rank 6
   ]
   edge
   [
-    source 171
-    target 112
+    source 190
+    target 115
     rank 9
   ]
   edge
   [
-    source 171
-    target 81
+    source 190
+    target 82
     rank 10
   ]
   edge
   [
-    source 171
-    target 234
+    source 190
+    target 287
     rank 16
   ]
   edge
   [
-    source 172
+    source 191
     target 70
     rank 1
   ]
   edge
   [
-    source 172
+    source 191
     target 56
     rank 2
   ]
   edge
   [
-    source 172
+    source 191
     target 27
     rank 3
   ]
   edge
   [
-    source 172
+    source 191
     target 44
     rank 5
   ]
   edge
   [
-    source 172
-    target 144
+    source 191
+    target 155
     rank 7
-  ]
-  edge
-  [
-    source 172
-    target 106
-    rank 14
-  ]
-  edge
-  [
-    source 172
-    target 98
-    rank 16
-  ]
-  edge
-  [
-    source 172
-    target 182
-    rank 18
-  ]
-  edge
-  [
-    source 173
-    target 73
-    rank 11
-  ]
-  edge
-  [
-    source 174
-    target 131
-    rank 2
-  ]
-  edge
-  [
-    source 174
-    target 225
-    rank 4
-  ]
-  edge
-  [
-    source 176
-    target 29
-    rank 3
-  ]
-  edge
-  [
-    source 177
-    target 16
-    rank 2
-  ]
-  edge
-  [
-    source 177
-    target 20
-    rank 3
-  ]
-  edge
-  [
-    source 178
-    target 70
-    rank 8
-  ]
-  edge
-  [
-    source 178
-    target 71
-    rank 9
-  ]
-  edge
-  [
-    source 178
-    target 98
-    rank 17
-  ]
-  edge
-  [
-    source 178
-    target 27
-    rank 19
-  ]
-  edge
-  [
-    source 178
-    target 69
-    rank 20
-  ]
-  edge
-  [
-    source 179
-    target 106
-    rank 2
-  ]
-  edge
-  [
-    source 180
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 180
-    target 157
-    rank 9
-  ]
-  edge
-  [
-    source 181
-    target 98
-    rank 5
-  ]
-  edge
-  [
-    source 182
-    target 27
-    rank 2
-  ]
-  edge
-  [
-    source 182
-    target 106
-    rank 9
-  ]
-  edge
-  [
-    source 182
-    target 98
-    rank 11
-  ]
-  edge
-  [
-    source 183
-    target 98
-    rank 2
-  ]
-  edge
-  [
-    source 183
-    target 113
-    rank 16
-  ]
-  edge
-  [
-    source 183
-    target 106
-    rank 17
-  ]
-  edge
-  [
-    source 183
-    target 16
-    rank 20
-  ]
-  edge
-  [
-    source 184
-    target 70
-    rank 12
-  ]
-  edge
-  [
-    source 184
-    target 134
-    rank 17
-  ]
-  edge
-  [
-    source 185
-    target 178
-    rank 6
-  ]
-  edge
-  [
-    source 185
-    target 183
-    rank 7
-  ]
-  edge
-  [
-    source 185
-    target 46
-    rank 17
-  ]
-  edge
-  [
-    source 185
-    target 106
-    rank 18
-  ]
-  edge
-  [
-    source 185
-    target 141
-    rank 20
-  ]
-  edge
-  [
-    source 186
-    target 21
-    rank 1
-  ]
-  edge
-  [
-    source 186
-    target 131
-    rank 6
-  ]
-  edge
-  [
-    source 186
-    target 230
-    rank 18
-  ]
-  edge
-  [
-    source 187
-    target 52
-    rank 7
-  ]
-  edge
-  [
-    source 187
-    target 134
-    rank 18
-  ]
-  edge
-  [
-    source 188
-    target 19
-    rank 3
-  ]
-  edge
-  [
-    source 188
-    target 57
-    rank 11
-  ]
-  edge
-  [
-    source 189
-    target 137
-    rank 3
-  ]
-  edge
-  [
-    source 189
-    target 19
-    rank 7
-  ]
-  edge
-  [
-    source 189
-    target 39
-    rank 10
-  ]
-  edge
-  [
-    source 189
-    target 123
-    rank 15
-  ]
-  edge
-  [
-    source 190
-    target 101
-    rank 10
-  ]
-  edge
-  [
-    source 190
-    target 259
-    rank 14
-  ]
-  edge
-  [
-    source 190
-    target 125
-    rank 17
-  ]
-  edge
-  [
-    source 190
-    target 37
-    rank 19
   ]
   edge
   [
     source 191
-    target 23
-    rank 1
+    target 108
+    rank 14
   ]
   edge
   [
     source 191
-    target 270
-    rank 6
+    target 99
+    rank 16
+  ]
+  edge
+  [
+    source 191
+    target 208
+    rank 18
   ]
   edge
   [
     source 192
-    target 40
-    rank 2
-  ]
-  edge
-  [
-    source 192
-    target 106
-    rank 6
-  ]
-  edge
-  [
-    source 192
-    target 235
-    rank 10
-  ]
-  edge
-  [
-    source 193
-    target 68
-    rank 2
-  ]
-  edge
-  [
-    source 193
-    target 71
-    rank 3
-  ]
-  edge
-  [
-    source 193
-    target 56
-    rank 4
-  ]
-  edge
-  [
-    source 194
-    target 27
-    rank 7
-  ]
-  edge
-  [
-    source 194
-    target 57
+    target 74
     rank 11
   ]
   edge
   [
-    source 195
-    target 34
+    source 193
+    target 138
+    rank 2
+  ]
+  edge
+  [
+    source 193
+    target 269
     rank 4
   ]
   edge
   [
     source 196
-    target 19
-    rank 1
+    target 29
+    rank 3
   ]
   edge
   [
     source 197
+    target 16
+    rank 2
+  ]
+  edge
+  [
+    source 197
+    target 20
+    rank 3
+  ]
+  edge
+  [
+    source 198
     target 70
-    rank 1
-  ]
-  edge
-  [
-    source 197
-    target 22
-    rank 6
-  ]
-  edge
-  [
-    source 197
-    target 39
     rank 8
   ]
   edge
   [
-    source 197
-    target 21
+    source 198
+    target 72
+    rank 9
+  ]
+  edge
+  [
+    source 198
+    target 99
+    rank 17
+  ]
+  edge
+  [
+    source 198
+    target 27
+    rank 19
+  ]
+  edge
+  [
+    source 198
+    target 69
+    rank 20
+  ]
+  edge
+  [
+    source 199
+    target 108
+    rank 2
+  ]
+  edge
+  [
+    source 200
+    target 17
+    rank 4
+  ]
+  edge
+  [
+    source 200
+    target 171
+    rank 9
+  ]
+  edge
+  [
+    source 205
+    target 99
+    rank 5
+  ]
+  edge
+  [
+    source 208
+    target 27
+    rank 2
+  ]
+  edge
+  [
+    source 208
+    target 108
+    rank 9
+  ]
+  edge
+  [
+    source 208
+    target 99
     rank 11
   ]
   edge
   [
-    source 197
-    target 57
-    rank 12
+    source 209
+    target 99
+    rank 2
   ]
   edge
   [
-    source 197
-    target 104
-    rank 15
-  ]
-  edge
-  [
-    source 197
+    source 209
     target 117
     rank 16
   ]
   edge
   [
-    source 197
-    target 169
-    rank 20
-  ]
-  edge
-  [
-    source 198
-    target 131
-    rank 6
-  ]
-  edge
-  [
-    source 199
-    target 21
-    rank 6
-  ]
-  edge
-  [
-    source 200
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 200
-    target 95
-    rank 2
-  ]
-  edge
-  [
-    source 200
-    target 138
-    rank 3
-  ]
-  edge
-  [
-    source 201
-    target 95
-    rank 4
-  ]
-  edge
-  [
-    source 201
-    target 9
-    rank 5
-  ]
-  edge
-  [
-    source 202
-    target 44
-    rank 2
-  ]
-  edge
-  [
-    source 202
-    target 98
-    rank 5
-  ]
-  edge
-  [
-    source 202
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 202
-    target 17
-    rank 7
-  ]
-  edge
-  [
-    source 202
-    target 57
-    rank 10
-  ]
-  edge
-  [
-    source 202
-    target 104
-    rank 12
-  ]
-  edge
-  [
-    source 202
-    target 157
-    rank 13
-  ]
-  edge
-  [
-    source 202
-    target 107
-    rank 14
-  ]
-  edge
-  [
-    source 202
-    target 147
-    rank 18
-  ]
-  edge
-  [
-    source 203
-    target 41
-    rank 1
-  ]
-  edge
-  [
-    source 204
-    target 27
-    rank 7
-  ]
-  edge
-  [
-    source 205
-    target 233
-    rank 2
-  ]
-  edge
-  [
-    source 206
-    target 36
-    rank 5
-  ]
-  edge
-  [
-    source 206
-    target 75
+    source 209
+    target 108
     rank 17
   ]
   edge
   [
-    source 207
-    target 26
-    rank 6
-  ]
-  edge
-  [
-    source 207
-    target 64
+    source 209
+    target 16
     rank 20
   ]
   edge
   [
-    source 208
-    target 175
+    source 210
+    target 70
     rank 12
   ]
   edge
   [
-    source 209
-    target 48
-    rank 8
-  ]
-  edge
-  [
-    source 209
-    target 36
-    rank 14
+    source 210
+    target 143
+    rank 17
   ]
   edge
   [
     source 211
-    target 94
-    rank 7
-  ]
-  edge
-  [
-    source 211
-    target 123
-    rank 15
-  ]
-  edge
-  [
-    source 212
-    target 44
-    rank 2
-  ]
-  edge
-  [
-    source 212
-    target 52
+    target 198
     rank 6
   ]
   edge
   [
-    source 212
-    target 19
+    source 211
+    target 209
     rank 7
   ]
   edge
   [
-    source 212
-    target 9
-    rank 8
+    source 211
+    target 46
+    rank 17
   ]
   edge
   [
-    source 212
-    target 56
+    source 211
+    target 108
     rank 18
   ]
   edge
   [
-    source 212
-    target 142
-    rank 19
-  ]
-  edge
-  [
-    source 212
-    target 106
+    source 211
+    target 152
     rank 20
   ]
   edge
   [
     source 213
-    target 1
-    rank 8
+    target 21
+    rank 1
   ]
   edge
   [
     source 213
-    target 79
-    rank 11
+    target 138
+    rank 6
   ]
   edge
   [
-    source 214
-    target 70
-    rank 7
-  ]
-  edge
-  [
-    source 215
-    target 36
-    rank 9
+    source 213
+    target 278
+    rank 18
   ]
   edge
   [
     source 216
-    target 34
-    rank 15
+    target 52
+    rank 7
+  ]
+  edge
+  [
+    source 216
+    target 143
+    rank 18
   ]
   edge
   [
     source 217
-    target 55
-    rank 2
+    target 19
+    rank 3
   ]
   edge
   [
-    source 219
-    target 60
-    rank 13
+    source 217
+    target 57
+    rank 11
   ]
   edge
   [
-    source 220
-    target 27
-    rank 10
+    source 218
+    target 146
+    rank 3
   ]
   edge
   [
-    source 220
-    target 98
-    rank 16
-  ]
-  edge
-  [
-    source 221
-    target 178
-    rank 4
-  ]
-  edge
-  [
-    source 222
+    source 218
     target 19
     rank 7
   ]
   edge
   [
-    source 222
-    target 137
-    rank 13
+    source 218
+    target 39
+    rank 10
   ]
   edge
   [
-    source 222
-    target 36
-    rank 16
+    source 218
+    target 128
+    rank 15
   ]
   edge
   [
-    source 222
-    target 44
-    rank 18
+    source 220
+    target 102
+    rank 10
   ]
   edge
   [
-    source 222
-    target 34
+    source 220
+    target 355
+    rank 14
+  ]
+  edge
+  [
+    source 220
+    target 131
+    rank 17
+  ]
+  edge
+  [
+    source 220
+    target 37
     rank 19
   ]
   edge
   [
-    source 222
-    target 60
-    rank 20
+    source 221
+    target 23
+    rank 1
   ]
   edge
   [
-    source 223
-    target 247
+    source 221
+    target 371
+    rank 6
+  ]
+  edge
+  [
+    source 222
+    target 40
+    rank 2
+  ]
+  edge
+  [
+    source 222
+    target 108
+    rank 6
+  ]
+  edge
+  [
+    source 222
+    target 288
     rank 10
   ]
   edge
   [
     source 223
-    target 175
-    rank 19
+    target 68
+    rank 2
+  ]
+  edge
+  [
+    source 223
+    target 72
+    rank 3
+  ]
+  edge
+  [
+    source 223
+    target 56
+    rank 4
   ]
   edge
   [
     source 224
-    target 263
-    rank 14
+    target 27
+    rank 7
+  ]
+  edge
+  [
+    source 224
+    target 57
+    rank 11
   ]
   edge
   [
     source 225
-    target 134
-    rank 8
-  ]
-  edge
-  [
-    source 225
-    target 131
-    rank 15
-  ]
-  edge
-  [
-    source 225
-    target 218
-    rank 19
-  ]
-  edge
-  [
-    source 226
-    target 101
+    target 34
     rank 4
   ]
   edge
   [
     source 226
-    target 68
+    target 19
+    rank 1
+  ]
+  edge
+  [
+    source 227
+    target 70
+    rank 1
+  ]
+  edge
+  [
+    source 227
+    target 22
     rank 6
   ]
   edge
   [
     source 227
+    target 39
+    rank 8
+  ]
+  edge
+  [
+    source 227
+    target 21
+    rank 11
+  ]
+  edge
+  [
+    source 227
+    target 57
+    rank 12
+  ]
+  edge
+  [
+    source 227
+    target 105
+    rank 15
+  ]
+  edge
+  [
+    source 227
+    target 121
+    rank 16
+  ]
+  edge
+  [
+    source 227
+    target 188
+    rank 20
+  ]
+  edge
+  [
+    source 228
+    target 138
+    rank 6
+  ]
+  edge
+  [
+    source 229
+    target 21
+    rank 6
+  ]
+  edge
+  [
+    source 230
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 230
+    target 96
+    rank 2
+  ]
+  edge
+  [
+    source 230
+    target 149
+    rank 3
+  ]
+  edge
+  [
+    source 231
+    target 96
+    rank 4
+  ]
+  edge
+  [
+    source 231
+    target 9
+    rank 5
+  ]
+  edge
+  [
+    source 232
+    target 44
+    rank 2
+  ]
+  edge
+  [
+    source 232
+    target 99
+    rank 5
+  ]
+  edge
+  [
+    source 232
+    target 1
+    rank 6
+  ]
+  edge
+  [
+    source 232
+    target 17
+    rank 7
+  ]
+  edge
+  [
+    source 232
+    target 57
+    rank 10
+  ]
+  edge
+  [
+    source 232
+    target 105
+    rank 12
+  ]
+  edge
+  [
+    source 232
+    target 171
+    rank 13
+  ]
+  edge
+  [
+    source 232
+    target 109
+    rank 14
+  ]
+  edge
+  [
+    source 232
+    target 158
+    rank 18
+  ]
+  edge
+  [
+    source 234
+    target 41
+    rank 1
+  ]
+  edge
+  [
+    source 235
+    target 27
+    rank 7
+  ]
+  edge
+  [
+    source 236
+    target 283
+    rank 2
+  ]
+  edge
+  [
+    source 237
+    target 36
+    rank 5
+  ]
+  edge
+  [
+    source 237
+    target 76
+    rank 17
+  ]
+  edge
+  [
+    source 238
+    target 26
+    rank 6
+  ]
+  edge
+  [
+    source 238
+    target 64
+    rank 20
+  ]
+  edge
+  [
+    source 239
+    target 194
+    rank 12
+  ]
+  edge
+  [
+    source 241
+    target 48
+    rank 8
+  ]
+  edge
+  [
+    source 241
+    target 36
+    rank 14
+  ]
+  edge
+  [
+    source 243
+    target 95
+    rank 7
+  ]
+  edge
+  [
+    source 243
+    target 128
+    rank 15
+  ]
+  edge
+  [
+    source 245
+    target 44
+    rank 2
+  ]
+  edge
+  [
+    source 245
+    target 52
+    rank 6
+  ]
+  edge
+  [
+    source 245
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 245
+    target 9
+    rank 8
+  ]
+  edge
+  [
+    source 245
+    target 56
+    rank 18
+  ]
+  edge
+  [
+    source 245
+    target 153
+    rank 19
+  ]
+  edge
+  [
+    source 245
+    target 108
+    rank 20
+  ]
+  edge
+  [
+    source 246
+    target 1
+    rank 8
+  ]
+  edge
+  [
+    source 246
+    target 80
+    rank 11
+  ]
+  edge
+  [
+    source 247
+    target 70
+    rank 7
+  ]
+  edge
+  [
+    source 249
+    target 36
+    rank 9
+  ]
+  edge
+  [
+    source 250
+    target 34
+    rank 15
+  ]
+  edge
+  [
+    source 253
+    target 55
+    rank 2
+  ]
+  edge
+  [
+    source 256
+    target 60
+    rank 13
+  ]
+  edge
+  [
+    source 259
+    target 27
+    rank 10
+  ]
+  edge
+  [
+    source 259
+    target 99
+    rank 16
+  ]
+  edge
+  [
+    source 260
+    target 198
+    rank 4
+  ]
+  edge
+  [
+    source 262
+    target 19
+    rank 7
+  ]
+  edge
+  [
+    source 262
+    target 146
+    rank 13
+  ]
+  edge
+  [
+    source 262
+    target 36
+    rank 16
+  ]
+  edge
+  [
+    source 262
+    target 44
+    rank 18
+  ]
+  edge
+  [
+    source 262
+    target 34
+    rank 19
+  ]
+  edge
+  [
+    source 262
+    target 60
+    rank 20
+  ]
+  edge
+  [
+    source 264
+    target 326
+    rank 10
+  ]
+  edge
+  [
+    source 264
+    target 194
+    rank 19
+  ]
+  edge
+  [
+    source 268
+    target 361
+    rank 14
+  ]
+  edge
+  [
+    source 269
+    target 143
+    rank 8
+  ]
+  edge
+  [
+    source 269
+    target 138
+    rank 15
+  ]
+  edge
+  [
+    source 269
+    target 254
+    rank 19
+  ]
+  edge
+  [
+    source 270
+    target 102
+    rank 4
+  ]
+  edge
+  [
+    source 270
+    target 68
+    rank 6
+  ]
+  edge
+  [
+    source 272
     target 60
     rank 3
   ]
   edge
   [
-    source 228
+    source 274
     target 44
     rank 7
   ]
   edge
   [
-    source 228
+    source 274
     target 21
     rank 20
   ]
   edge
   [
-    source 229
+    source 275
     target 39
     rank 1
   ]
   edge
   [
-    source 229
-    target 115
+    source 275
+    target 119
     rank 3
   ]
   edge
   [
-    source 229
+    source 275
     target 24
     rank 8
   ]
   edge
   [
-    source 229
-    target 127
+    source 275
+    target 133
     rank 11
   ]
   edge
   [
-    source 229
-    target 150
+    source 275
+    target 164
     rank 12
   ]
   edge
   [
-    source 229
+    source 275
     target 32
     rank 13
   ]
   edge
   [
-    source 230
+    source 278
     target 21
     rank 1
   ]
   edge
   [
-    source 231
+    source 280
     target 70
     rank 2
   ]
   edge
   [
-    source 231
+    source 280
     target 14
     rank 6
   ]
   edge
   [
-    source 231
+    source 280
     target 12
     rank 8
   ]
   edge
   [
-    source 231
+    source 280
     target 34
     rank 11
   ]
   edge
   [
-    source 231
+    source 280
     target 69
     rank 14
   ]
   edge
   [
-    source 231
-    target 129
+    source 280
+    target 136
     rank 16
   ]
   edge
   [
-    source 231
-    target 255
+    source 280
+    target 342
     rank 17
   ]
   edge
   [
-    source 231
-    target 151
+    source 280
+    target 165
     rank 18
   ]
   edge
   [
-    source 231
-    target 98
+    source 280
+    target 99
     rank 19
   ]
   edge
   [
-    source 231
+    source 280
     target 21
     rank 20
   ]
   edge
   [
-    source 232
-    target 113
+    source 282
+    target 117
     rank 6
   ]
   edge
   [
-    source 233
-    target 108
+    source 283
+    target 110
     rank 12
   ]
   edge
   [
-    source 233
-    target 98
+    source 283
+    target 99
     rank 14
   ]
   edge
   [
-    source 233
+    source 283
     target 39
     rank 16
   ]
   edge
   [
-    source 234
+    source 287
     target 22
     rank 4
   ]
   edge
   [
-    source 234
-    target 112
+    source 287
+    target 115
     rank 8
   ]
   edge
   [
-    source 234
+    source 287
     target 69
     rank 9
   ]
   edge
   [
-    source 235
+    source 288
     target 40
     rank 3
   ]
   edge
   [
-    source 235
-    target 192
+    source 288
+    target 222
     rank 20
   ]
   edge
   [
-    source 236
-    target 95
+    source 292
+    target 96
     rank 5
   ]
   edge
   [
-    source 236
-    target 134
+    source 292
+    target 143
     rank 7
   ]
   edge
   [
-    source 237
+    source 294
     target 19
     rank 1
   ]
   edge
   [
-    source 237
+    source 294
     target 17
     rank 2
   ]
   edge
   [
-    source 237
-    target 125
+    source 294
+    target 131
     rank 6
   ]
   edge
   [
-    source 238
-    target 89
+    source 296
+    target 90
     rank 9
   ]
   edge
   [
-    source 238
+    source 296
     target 39
     rank 14
   ]
   edge
   [
-    source 238
+    source 296
     target 28
     rank 15
   ]
   edge
   [
-    source 238
-    target 79
+    source 296
+    target 80
     rank 16
   ]
   edge
   [
-    source 239
-    target 123
+    source 297
+    target 128
     rank 16
   ]
   edge
   [
-    source 239
-    target 199
+    source 297
+    target 229
     rank 18
   ]
   edge
   [
-    source 240
-    target 134
+    source 298
+    target 143
     rank 11
   ]
   edge
   [
-    source 241
+    source 305
     target 19
     rank 8
   ]
   edge
   [
-    source 241
-    target 107
+    source 305
+    target 109
     rank 10
   ]
   edge
   [
-    source 242
+    source 306
     target 20
     rank 11
   ]
   edge
   [
-    source 242
-    target 183
+    source 306
+    target 209
     rank 18
   ]
   edge
   [
-    source 243
+    source 307
     target 47
     rank 5
   ]
   edge
   [
-    source 243
-    target 106
+    source 307
+    target 108
     rank 11
   ]
   edge
   [
-    source 243
-    target 98
+    source 307
+    target 99
     rank 14
   ]
   edge
   [
-    source 244
-    target 144
+    source 317
+    target 155
     rank 6
   ]
   edge
   [
-    source 244
+    source 317
     target 60
     rank 8
   ]
   edge
   [
-    source 244
-    target 108
+    source 317
+    target 110
     rank 17
   ]
   edge
   [
-    source 244
-    target 106
+    source 317
+    target 108
     rank 19
   ]
   edge
   [
-    source 244
-    target 98
+    source 317
+    target 99
     rank 20
   ]
   edge
   [
-    source 245
-    target 253
+    source 319
+    target 337
     rank 2
   ]
   edge
   [
-    source 245
-    target 72
+    source 319
+    target 73
     rank 6
   ]
   edge
   [
-    source 245
+    source 319
     target 31
     rank 9
   ]
   edge
   [
-    source 246
-    target 134
+    source 321
+    target 143
     rank 4
   ]
   edge
   [
-    source 246
-    target 142
+    source 321
+    target 153
     rank 11
   ]
   edge
   [
-    source 246
+    source 321
     target 64
     rank 17
   ]
   edge
   [
-    source 248
-    target 81
+    source 328
+    target 82
     rank 11
   ]
   edge
   [
-    source 248
-    target 107
+    source 328
+    target 109
     rank 13
   ]
   edge
   [
-    source 248
+    source 328
     target 44
     rank 18
   ]
   edge
   [
-    source 249
+    source 330
     target 30
     rank 5
   ]
   edge
   [
-    source 251
-    target 144
+    source 332
+    target 155
     rank 6
   ]
   edge
   [
-    source 251
+    source 332
     target 21
     rank 7
   ]
   edge
   [
-    source 251
+    source 332
     target 34
     rank 10
   ]
   edge
   [
-    source 251
-    target 75
+    source 332
+    target 76
     rank 11
   ]
   edge
   [
-    source 251
-    target 255
+    source 332
+    target 342
     rank 19
   ]
   edge
   [
-    source 251
-    target 231
+    source 332
+    target 280
     rank 20
   ]
   edge
   [
-    source 252
+    source 336
     target 36
     rank 3
   ]
   edge
   [
-    source 252
-    target 75
+    source 336
+    target 76
     rank 6
   ]
   edge
   [
-    source 252
-    target 120
+    source 336
+    target 125
     rank 7
   ]
   edge
   [
-    source 252
-    target 119
+    source 336
+    target 124
     rank 9
   ]
   edge
   [
-    source 252
-    target 110
+    source 336
+    target 113
     rank 10
   ]
   edge
   [
-    source 252
-    target 129
+    source 336
+    target 136
     rank 12
   ]
   edge
   [
-    source 252
-    target 141
+    source 336
+    target 152
     rank 13
   ]
   edge
   [
-    source 252
-    target 151
+    source 336
+    target 165
     rank 18
   ]
   edge
   [
-    source 253
+    source 337
     target 52
     rank 16
   ]
   edge
   [
-    source 254
-    target 199
+    source 341
+    target 229
     rank 18
   ]
   edge
   [
-    source 254
-    target 94
+    source 341
+    target 95
     rank 20
   ]
   edge
   [
-    source 255
+    source 342
     target 21
     rank 3
   ]
   edge
   [
-    source 255
+    source 342
     target 19
     rank 7
   ]
   edge
   [
-    source 255
+    source 342
     target 34
     rank 8
   ]
   edge
   [
-    source 255
-    target 199
+    source 342
+    target 229
     rank 9
   ]
   edge
   [
-    source 255
-    target 129
+    source 342
+    target 136
     rank 13
   ]
   edge
   [
-    source 255
-    target 231
+    source 342
+    target 280
     rank 16
   ]
   edge
   [
-    source 256
+    source 344
     target 52
     rank 6
   ]
   edge
   [
-    source 257
+    source 349
     target 44
     rank 1
   ]
   edge
   [
-    source 257
-    target 134
+    source 349
+    target 143
     rank 2
   ]
   edge
   [
-    source 257
-    target 272
+    source 349
+    target 374
     rank 6
   ]
   edge
   [
-    source 257
+    source 349
     target 60
     rank 9
   ]
   edge
   [
-    source 259
+    source 355
     target 39
     rank 6
   ]
   edge
   [
-    source 259
-    target 101
+    source 355
+    target 102
     rank 8
   ]
   edge
   [
-    source 259
-    target 98
+    source 355
+    target 99
     rank 12
   ]
   edge
   [
-    source 260
-    target 144
+    source 356
+    target 155
     rank 14
   ]
   edge
   [
-    source 261
+    source 357
     target 52
     rank 7
   ]
   edge
   [
-    source 262
-    target 253
+    source 358
+    target 337
     rank 6
   ]
   edge
   [
-    source 262
-    target 250
+    source 358
+    target 331
     rank 12
   ]
   edge
   [
-    source 262
+    source 358
     target 52
     rank 20
   ]
   edge
   [
-    source 263
-    target 71
+    source 361
+    target 72
     rank 2
   ]
   edge
   [
-    source 265
-    target 134
+    source 364
+    target 143
     rank 9
   ]
   edge
   [
-    source 265
-    target 142
+    source 364
+    target 153
     rank 16
   ]
   edge
   [
-    source 266
-    target 106
+    source 365
+    target 108
     rank 6
   ]
   edge
   [
-    source 266
-    target 98
+    source 365
+    target 99
     rank 9
   ]
   edge
   [
-    source 266
-    target 157
+    source 365
+    target 171
     rank 11
   ]
   edge
   [
-    source 267
-    target 264
+    source 366
+    target 362
     rank 4
   ]
   edge
   [
-    source 269
+    source 370
     target 47
     rank 1
   ]
   edge
   [
-    source 271
-    target 98
+    source 372
+    target 99
     rank 13
   ]
   edge
   [
-    source 272
+    source 374
     target 44
     rank 2
   ]
   edge
   [
-    source 272
-    target 134
+    source 374
+    target 143
     rank 3
   ]
   edge
   [
-    source 272
+    source 374
     target 60
     rank 5
   ]
   edge
   [
-    source 273
-    target 199
+    source 376
+    target 229
     rank 3
   ]
   edge
   [
-    source 273
-    target 118
+    source 376
+    target 122
     rank 8
   ]
   edge
   [
-    source 273
-    target 169
+    source 376
+    target 188
     rank 9
   ]
   edge
   [
-    source 273
-    target 309
+    source 376
+    target 451
     rank 12
   ]
   edge
   [
-    source 273
-    target 297
+    source 376
+    target 425
     rank 13
   ]
   edge
   [
-    source 273
-    target 75
+    source 376
+    target 76
     rank 16
   ]
   edge
   [
-    source 273
-    target 129
+    source 376
+    target 136
     rank 17
   ]
   edge
   [
-    source 274
+    source 378
     target 19
     rank 4
   ]
   edge
   [
-    source 274
+    source 378
     target 44
     rank 5
   ]
   edge
   [
-    source 274
-    target 108
+    source 378
+    target 110
     rank 9
   ]
   edge
   [
-    source 274
-    target 120
+    source 378
+    target 125
     rank 10
   ]
   edge
   [
-    source 274
-    target 106
+    source 378
+    target 108
     rank 11
   ]
   edge
   [
-    source 274
+    source 378
     target 39
     rank 13
   ]
   edge
   [
-    source 274
-    target 98
+    source 378
+    target 99
     rank 16
   ]
   edge
   [
-    source 274
-    target 167
+    source 378
+    target 184
     rank 18
   ]
   edge
   [
-    source 274
-    target 109
+    source 378
+    target 111
     rank 19
   ]
   edge
   [
-    source 275
+    source 384
     target 50
     rank 5
   ]
   edge
   [
-    source 275
+    source 384
     target 20
     rank 14
   ]
   edge
   [
-    source 276
-    target 113
+    source 387
+    target 117
     rank 14
   ]
   edge
   [
-    source 277
+    source 389
     target 44
     rank 2
   ]
   edge
   [
-    source 277
+    source 389
     target 16
     rank 6
   ]
   edge
   [
-    source 278
-    target 249
+    source 392
+    target 330
     rank 14
   ]
   edge
   [
-    source 279
+    source 393
     target 39
     rank 1
   ]
   edge
   [
-    source 279
-    target 233
+    source 393
+    target 283
     rank 11
   ]
   edge
   [
-    source 279
-    target 274
+    source 393
+    target 378
     rank 13
   ]
   edge
   [
-    source 279
-    target 258
+    source 393
+    target 351
     rank 14
   ]
   edge
   [
-    source 279
-    target 109
+    source 393
+    target 111
     rank 15
   ]
   edge
   [
-    source 279
-    target 273
+    source 393
+    target 376
     rank 18
   ]
   edge
   [
-    source 280
+    source 394
     target 39
     rank 1
   ]
   edge
   [
-    source 280
-    target 108
+    source 394
+    target 110
     rank 2
   ]
   edge
   [
-    source 280
-    target 233
+    source 394
+    target 283
     rank 4
   ]
   edge
   [
-    source 280
+    source 394
     target 60
     rank 6
   ]
   edge
   [
-    source 280
-    target 109
+    source 394
+    target 111
     rank 11
   ]
   edge
   [
-    source 281
-    target 120
+    source 395
+    target 125
     rank 4
   ]
   edge
   [
-    source 281
-    target 71
+    source 395
+    target 72
     rank 7
   ]
   edge
   [
-    source 281
+    source 395
     target 68
     rank 8
   ]
   edge
   [
-    source 281
+    source 395
     target 52
     rank 10
   ]
   edge
   [
-    source 281
+    source 395
     target 44
     rank 11
   ]
   edge
   [
-    source 281
+    source 395
     target 36
     rank 12
   ]
   edge
   [
-    source 281
+    source 395
     target 37
     rank 13
   ]
   edge
   [
-    source 281
+    source 395
     target 8
     rank 16
   ]
   edge
   [
-    source 281
+    source 395
     target 19
     rank 18
   ]
   edge
   [
-    source 281
+    source 395
     target 56
     rank 19
   ]
   edge
   [
-    source 281
+    source 395
     target 60
     rank 20
   ]
   edge
   [
-    source 282
+    source 396
     target 36
     rank 8
   ]
   edge
   [
-    source 282
-    target 110
+    source 396
+    target 113
     rank 11
   ]
   edge
   [
-    source 283
-    target 113
+    source 398
+    target 117
     rank 20
   ]
   edge
   [
-    source 284
-    target 144
+    source 399
+    target 155
     rank 11
   ]
   edge
   [
-    source 285
-    target 120
+    source 401
+    target 125
     rank 2
   ]
   edge
   [
-    source 285
-    target 77
+    source 401
+    target 78
     rank 5
   ]
   edge
   [
-    source 286
-    target 264
+    source 402
+    target 362
     rank 17
   ]
   edge
   [
-    source 287
-    target 157
+    source 403
+    target 171
     rank 1
   ]
   edge
   [
-    source 287
+    source 403
     target 57
     rank 2
   ]
   edge
   [
-    source 287
+    source 403
     target 44
     rank 7
   ]
   edge
   [
-    source 287
-    target 89
+    source 403
+    target 90
     rank 8
   ]
   edge
   [
-    source 287
+    source 403
     target 17
     rank 10
   ]
   edge
   [
-    source 287
+    source 403
     target 12
     rank 11
   ]
   edge
   [
-    source 287
+    source 403
     target 19
     rank 12
   ]
   edge
   [
-    source 287
+    source 403
     target 3
     rank 13
   ]
   edge
   [
-    source 287
-    target 79
+    source 403
+    target 80
     rank 14
   ]
   edge
   [
-    source 287
-    target 107
+    source 403
+    target 109
     rank 17
   ]
   edge
   [
-    source 288
+    source 404
     target 52
     rank 6
   ]
   edge
   [
-    source 289
-    target 137
+    source 406
+    target 146
     rank 2
   ]
   edge
   [
-    source 289
+    source 406
     target 19
     rank 4
   ]
   edge
   [
-    source 289
+    source 406
     target 52
     rank 10
   ]
   edge
   [
-    source 289
-    target 106
+    source 406
+    target 108
     rank 19
   ]
   edge
   [
-    source 290
-    target 98
+    source 408
+    target 99
     rank 6
   ]
   edge
   [
-    source 290
-    target 165
+    source 408
+    target 180
     rank 20
   ]
   edge
   [
-    source 291
-    target 75
+    source 409
+    target 76
     rank 12
   ]
   edge
   [
-    source 292
-    target 242
+    source 414
+    target 306
     rank 14
   ]
   edge
   [
-    source 292
-    target 129
+    source 414
+    target 136
     rank 19
   ]
   edge
   [
-    source 293
-    target 89
+    source 416
+    target 90
     rank 2
   ]
   edge
   [
-    source 293
+    source 416
     target 31
     rank 3
   ]
   edge
   [
-    source 293
-    target 146
+    source 416
+    target 157
     rank 4
   ]
   edge
   [
-    source 293
-    target 230
+    source 416
+    target 278
     rank 5
   ]
   edge
   [
-    source 293
-    target 298
+    source 416
+    target 426
     rank 6
   ]
   edge
   [
-    source 294
+    source 419
     target 70
     rank 5
   ]
   edge
   [
-    source 294
-    target 106
+    source 419
+    target 108
     rank 15
   ]
   edge
   [
-    source 294
-    target 233
+    source 419
+    target 283
     rank 19
   ]
   edge
   [
-    source 294
-    target 165
+    source 419
+    target 180
     rank 20
   ]
   edge
   [
-    source 295
+    source 423
     target 23
     rank 2
   ]
   edge
   [
-    source 295
-    target 88
+    source 423
+    target 89
     rank 5
   ]
   edge
   [
-    source 295
-    target 129
+    source 423
+    target 136
     rank 8
   ]
   edge
   [
-    source 296
+    source 424
     target 1
     rank 6
   ]
   edge
   [
-    source 296
+    source 424
     target 19
     rank 9
   ]
   edge
   [
-    source 296
+    source 424
     target 35
     rank 13
   ]
   edge
   [
-    source 296
-    target 120
+    source 424
+    target 125
     rank 16
   ]
   edge
   [
-    source 297
+    source 425
     target 21
     rank 4
   ]
   edge
   [
-    source 297
+    source 425
     target 19
     rank 6
   ]
   edge
   [
-    source 297
-    target 199
+    source 425
+    target 229
     rank 8
   ]
   edge
   [
-    source 298
-    target 142
+    source 426
+    target 153
     rank 6
   ]
   edge
   [
-    source 299
+    source 427
     target 60
     rank 12
   ]
   edge
   [
-    source 300
+    source 428
     target 14
     rank 1
   ]
   edge
   [
-    source 300
+    source 428
     target 2
     rank 4
   ]
   edge
   [
-    source 301
-    target 77
+    source 429
+    target 78
     rank 7
   ]
   edge
   [
-    source 301
-    target 98
+    source 429
+    target 99
     rank 11
   ]
   edge
   [
-    source 301
-    target 134
+    source 429
+    target 143
     rank 12
   ]
   edge
   [
-    source 301
-    target 106
+    source 429
+    target 108
     rank 14
   ]
   edge
   [
-    source 301
-    target 79
+    source 429
+    target 80
     rank 15
   ]
   edge
   [
-    source 302
+    source 436
     target 44
     rank 1
   ]
   edge
   [
-    source 302
+    source 436
     target 19
     rank 2
   ]
   edge
   [
-    source 302
+    source 436
     target 52
     rank 5
   ]
   edge
   [
-    source 302
+    source 436
     target 39
     rank 6
   ]
   edge
   [
-    source 302
-    target 81
+    source 436
+    target 82
     rank 7
   ]
   edge
   [
-    source 303
+    source 439
     target 22
     rank 1
   ]
   edge
   [
-    source 303
+    source 439
     target 68
     rank 4
   ]
   edge
   [
-    source 303
+    source 439
     target 8
     rank 6
   ]
   edge
   [
-    source 303
+    source 439
     target 6
     rank 7
   ]
   edge
   [
-    source 303
+    source 439
     target 60
     rank 9
   ]
   edge
   [
-    source 303
+    source 439
     target 31
     rank 12
   ]
   edge
   [
-    source 303
+    source 439
     target 3
     rank 13
   ]
   edge
   [
-    source 303
+    source 439
     target 30
     rank 15
   ]
   edge
   [
-    source 303
+    source 439
     target 20
     rank 16
   ]
   edge
   [
-    source 303
+    source 439
     target 44
     rank 17
   ]
   edge
   [
-    source 303
+    source 439
     target 26
     rank 18
   ]
   edge
   [
-    source 304
-    target 134
+    source 440
+    target 143
     rank 4
   ]
   edge
   [
-    source 304
-    target 144
+    source 440
+    target 155
     rank 16
   ]
   edge
   [
-    source 304
-    target 142
+    source 440
+    target 153
     rank 17
   ]
   edge
   [
-    source 305
+    source 442
     target 3
     rank 5
   ]
   edge
   [
-    source 306
-    target 144
+    source 445
+    target 155
     rank 4
   ]
   edge
   [
-    source 306
+    source 445
     target 16
     rank 10
   ]
   edge
   [
-    source 306
+    source 445
     target 4
     rank 11
   ]
   edge
   [
-    source 306
+    source 445
     target 8
     rank 12
   ]
   edge
   [
-    source 306
+    source 445
     target 20
     rank 13
   ]
   edge
   [
-    source 307
+    source 446
     target 7
     rank 4
   ]
   edge
   [
-    source 307
+    source 446
     target 30
     rank 12
   ]
   edge
   [
-    source 308
-    target 169
+    source 447
+    target 188
     rank 19
   ]
   edge
   [
-    source 309
-    target 93
+    source 451
+    target 94
     rank 1
   ]
   edge
   [
-    source 309
-    target 199
+    source 451
+    target 229
     rank 2
   ]
   edge
   [
-    source 309
-    target 255
+    source 451
+    target 342
     rank 3
   ]
   edge
   [
-    source 309
-    target 297
+    source 451
+    target 425
     rank 7
   ]
   edge
   [
-    source 309
-    target 273
+    source 451
+    target 376
     rank 8
   ]
   edge
   [
-    source 310
+    source 454
     target 52
     rank 2
   ]
   edge
   [
-    source 310
-    target 129
+    source 454
+    target 136
     rank 6
   ]
   edge
   [
-    source 310
-    target 189
+    source 454
+    target 218
     rank 7
   ]
   edge
   [
-    source 310
+    source 454
     target 31
     rank 12
   ]
   edge
   [
-    source 310
+    source 454
     target 30
     rank 13
   ]
   edge
   [
-    source 311
+    source 456
     target 44
     rank 3
   ]
   edge
   [
-    source 311
-    target 144
+    source 456
+    target 155
     rank 12
   ]
   edge
   [
-    source 312
+    source 457
     target 34
     rank 8
   ]
   edge
   [
-    source 312
-    target 231
+    source 457
+    target 280
     rank 16
   ]
   edge
   [
-    source 312
-    target 255
+    source 457
+    target 342
     rank 20
   ]
   edge
   [
-    source 313
+    source 459
     target 27
     rank 6
   ]
   edge
   [
-    source 313
-    target 144
+    source 459
+    target 155
     rank 8
   ]
   edge
   [
-    source 313
+    source 459
     target 44
     rank 10
   ]
   edge
   [
-    source 314
-    target 141
+    source 463
+    target 152
     rank 20
   ]
   edge
   [
-    source 315
-    target 123
+    source 465
+    target 128
     rank 16
   ]
   edge
   [
-    source 316
+    source 466
     target 36
     rank 12
   ]
   edge
   [
-    source 317
-    target 142
+    source 472
+    target 153
     rank 1
   ]
   edge
   [
-    source 318
+    source 474
     target 46
     rank 6
   ]
   edge
   [
-    source 318
+    source 474
     target 23
     rank 7
   ]
   edge
   [
-    source 319
+    source 475
     target 29
     rank 8
   ]
   edge
   [
-    source 320
+    source 478
     target 52
     rank 2
   ]
   edge
   [
-    source 320
+    source 478
     target 44
     rank 3
   ]
   edge
   [
-    source 320
-    target 137
+    source 478
+    target 146
     rank 6
   ]
   edge
   [
-    source 320
+    source 478
     target 19
     rank 7
   ]
   edge
   [
-    source 320
-    target 144
+    source 478
+    target 155
     rank 14
   ]
   edge
   [
-    source 320
-    target 106
+    source 478
+    target 108
     rank 20
   ]
   edge
   [
-    source 321
-    target 129
+    source 481
+    target 136
     rank 3
   ]
   edge
   [
-    source 322
+    source 485
     target 19
     rank 2
   ]
   edge
   [
-    source 324
+    source 488
     target 22
     rank 3
   ]
   edge
   [
-    source 324
+    source 488
     target 19
     rank 4
   ]
   edge
   [
-    source 324
+    source 488
     target 52
     rank 6
   ]
   edge
   [
-    source 324
+    source 488
     target 60
     rank 10
   ]
   edge
   [
-    source 324
-    target 81
+    source 488
+    target 82
     rank 16
   ]
   edge
   [
-    source 324
+    source 488
     target 56
     rank 18
   ]
   edge
   [
-    source 324
-    target 72
+    source 488
+    target 73
     rank 20
   ]
   edge
   [
-    source 325
+    source 492
     target 44
     rank 2
   ]
   edge
   [
-    source 325
-    target 146
+    source 492
+    target 157
     rank 10
   ]
   edge
   [
-    source 325
-    target 75
+    source 492
+    target 76
     rank 11
   ]
   edge
   [
-    source 325
-    target 333
+    source 492
+    target 512
     rank 17
   ]
   edge
   [
-    source 326
-    target 75
+    source 495
+    target 76
     rank 2
   ]
   edge
   [
-    source 327
-    target 141
+    source 497
+    target 152
     rank 3
   ]
   edge
   [
-    source 327
+    source 497
     target 52
     rank 5
   ]
   edge
   [
-    source 327
+    source 497
     target 13
     rank 13
   ]
   edge
   [
-    source 328
+    source 500
     target 23
     rank 1
   ]
   edge
   [
-    source 328
-    target 129
+    source 500
+    target 136
     rank 8
   ]
   edge
   [
-    source 328
-    target 71
-    rank 17
-  ]
-  edge
-  [
-    source 329
-    target 129
-    rank 11
-  ]
-  edge
-  [
-    source 330
-    target 141
-    rank 1
-  ]
-  edge
-  [
-    source 330
-    target 52
-    rank 3
-  ]
-  edge
-  [
-    source 330
-    target 19
-    rank 16
-  ]
-  edge
-  [
-    source 330
+    source 500
     target 72
     rank 17
   ]
   edge
   [
-    source 331
-    target 134
+    source 502
+    target 136
+    rank 11
+  ]
+  edge
+  [
+    source 506
+    target 152
+    rank 1
+  ]
+  edge
+  [
+    source 506
+    target 52
+    rank 3
+  ]
+  edge
+  [
+    source 506
+    target 19
+    rank 16
+  ]
+  edge
+  [
+    source 506
+    target 73
+    rank 17
+  ]
+  edge
+  [
+    source 507
+    target 143
     rank 12
   ]
   edge
   [
-    source 332
+    source 509
     target 46
     rank 9
   ]
   edge
   [
-    source 333
+    source 512
     target 15
     rank 1
   ]
   edge
   [
-    source 333
+    source 512
     target 44
     rank 2
   ]
   edge
   [
-    source 333
+    source 512
     target 65
     rank 5
   ]
   edge
   [
-    source 333
-    target 146
+    source 512
+    target 157
     rank 12
   ]
   edge
   [
-    source 333
-    target 75
+    source 512
+    target 76
     rank 15
   ]
   edge
   [
-    source 333
-    target 210
+    source 512
+    target 242
     rank 19
   ]
   edge
   [
-    source 333
-    target 167
+    source 512
+    target 184
     rank 20
   ]
   edge
   [
-    source 334
-    target 120
+    source 514
+    target 125
     rank 2
   ]
   edge
   [
-    source 334
-    target 141
+    source 514
+    target 152
     rank 15
   ]
   edge
   [
-    source 334
+    source 514
     target 40
     rank 16
   ]
   edge
   [
-    source 334
+    source 514
     target 19
     rank 19
   ]
   edge
   [
-    source 334
-    target 161
+    source 514
+    target 175
     rank 20
   ]
   edge
   [
-    source 335
+    source 519
     target 44
     rank 4
   ]
   edge
   [
-    source 335
+    source 519
     target 14
     rank 6
   ]
   edge
   [
-    source 335
+    source 519
     target 19
     rank 11
   ]
   edge
   [
-    source 335
+    source 519
     target 52
     rank 14
   ]
   edge
   [
-    source 336
-    target 106
+    source 524
+    target 108
     rank 7
   ]
   edge
   [
-    source 336
-    target 134
+    source 524
+    target 143
     rank 10
   ]
   edge
   [
-    source 336
+    source 524
     target 60
     rank 18
   ]
   edge
   [
-    source 336
+    source 524
     target 52
     rank 20
   ]
   edge
   [
-    source 337
-    target 137
+    source 525
+    target 146
     rank 1
   ]
   edge
   [
-    source 337
-    target 134
+    source 525
+    target 143
     rank 4
   ]
   edge
   [
-    source 337
-    target 106
+    source 525
+    target 108
     rank 7
   ]
   edge
   [
-    source 338
-    target 144
+    source 528
+    target 155
     rank 4
   ]
   edge
   [
-    source 339
-    target 268
+    source 532
+    target 369
     rank 12
   ]
   edge
   [
-    source 339
+    source 532
     target 68
     rank 19
   ]
   edge
   [
-    source 340
-    target 129
+    source 533
+    target 136
     rank 13
   ]
   edge
   [
-    source 341
+    source 534
     target 9
     rank 4
   ]
   edge
   [
-    source 342
-    target 93
+    source 537
+    target 94
     rank 12
   ]
   edge
   [
-    source 342
-    target 323
+    source 537
+    target 487
     rank 14
   ]
   edge
   [
-    source 343
-    target 264
+    source 541
+    target 362
     rank 14
   ]
   edge
   [
-    source 344
-    target 134
+    source 542
+    target 143
     rank 10
   ]
   edge
   [
-    source 345
-    target 75
+    source 543
+    target 76
     rank 2
   ]
   edge
   [
-    source 346
+    source 544
     target 19
     rank 5
   ]
   edge
   [
-    source 346
-    target 75
+    source 544
+    target 76
     rank 18
   ]
   edge
   [
-    source 347
+    source 546
     target 1
     rank 10
   ]
   edge
   [
-    source 347
-    target 134
+    source 546
+    target 143
     rank 11
   ]
   edge
   [
-    source 348
-    target 161
+    source 548
+    target 175
     rank 11
   ]
   edge
   [
-    source 349
+    source 549
     target 40
     rank 3
   ]
   edge
   [
-    source 349
+    source 549
     target 34
     rank 19
   ]
   edge
   [
-    source 350
-    target 95
+    source 550
+    target 96
     rank 3
   ]
   edge
   [
-    source 350
-    target 134
+    source 550
+    target 143
     rank 12
   ]
   edge
   [
-    source 350
+    source 550
     target 9
     rank 13
   ]
   edge
   [
-    source 350
+    source 550
     target 57
     rank 14
   ]
   edge
   [
-    source 350
+    source 550
     target 52
     rank 18
   ]
   edge
   [
-    source 351
-    target 134
+    source 551
+    target 143
     rank 7
   ]
   edge
   [
-    source 352
+    source 552
     target 23
     rank 3
   ]
   edge
   [
-    source 352
+    source 552
     target 27
     rank 11
   ]
   edge
   [
-    source 353
-    target 129
+    source 553
+    target 136
     rank 7
   ]
   edge
   [
-    source 354
+    source 554
     target 28
     rank 6
   ]
   edge
   [
-    source 354
-    target 103
+    source 554
+    target 104
     rank 8
   ]
 ]

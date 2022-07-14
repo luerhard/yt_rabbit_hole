@@ -87,7 +87,7 @@ science_topics <- c(
 
 ```{r}
 senti_df <- df %>%
-  left_join(sentiments, by = c("label" = "video_id")) %>%
+  left_join(sentiments, by = c("label" = "video_id"), ) %>%
   mutate(
     topic_group = case_when(
       network %in% conspiracy_topics ~ "conspiracy",
@@ -103,7 +103,7 @@ senti_df <- df %>%
 senti_df %>%
   group_by(topic_group, network) %>%
   summarize(
-    avg_sentiment = mean(sentiment)
+    avg_sentiment = mean(sentiment.y)
   ) %>%
   ggplot(aes(x = reorder(network, avg_sentiment), y = avg_sentiment, fill = topic_group)) +
   geom_col() +
@@ -116,11 +116,14 @@ senti_df %>%
 senti_df %>%
   group_by(topic_group) %>%
   summarize(
-    avg_sentiment = mean(sentiment)
+    avg_sentiment = mean(sentiment.y)
   ) %>%
   ggplot(aes(x = reorder(topic_group, avg_sentiment), y = avg_sentiment)) +
   geom_col() +
+  xlab("Group") +
   coord_flip()
+
+#ggsave(here("sentiment_basic.pdf"), width = 6, height = 3)
 ```
 
 # Perspective API Analysis
@@ -152,9 +155,9 @@ perspective_df <- df %>%
 
 ```{r, fig.width=15, fig.height=7}
 
-perspective_df %>%
-  select(-c(PERSPECTIVE_FLIRTATION, PERSPECTIVE_THREAT)) %>%
-  pivot_longer(starts_with("PERSPECTIVE"), names_to = "perspective_type") %>%
+perspective_plot <- perspective_df %>%
+  select(-c(PERSPECTIVE_FLIRTATION, PERSPECTIVE_THREAT, PERSPECTIVE_SEXUALLY_EXPLICIT, PERSPECTIVE_PROFANITY)) %>%
+  pivot_longer(starts_with("PERSPECTIVE_"), names_to = "perspective_type") %>%
   group_by(topic_group, network, perspective_type) %>%
   summarize(avg_val = mean(value)) %>%
   ungroup() %>%
@@ -163,5 +166,9 @@ perspective_df %>%
   stat_summary(fun.data = mean_se, geom = "errorbar", width=.2) +
   ylab('Avg. probability') +
   geom_text(color = '#658DA0', size=3, alpha=1) +
-  facet_wrap(~perspective_type, ncol = 3, scales="free")
+  facet_wrap(~perspective_type, ncol = 2, scales="free")
+
+perspective_plot
+
+#ggsave(here("perspective_plot.pdf"), width = 16, height=9)
 ```

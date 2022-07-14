@@ -1,4 +1,4 @@
-Creator "igraph version 1.3.1 Thu Jul 14 18:31:54 2022"
+Creator "igraph version 1.3.1 Fri Jul 15 01:39:17 2022"
 Version 1
 graph
 [
@@ -6,7 +6,33 @@ graph
   node
   [
     id 0
-    name "1"
+    label "m6kFCNsnQpQ"
+    step 0
+    date "2011-06-01T09:43:36Z"
+    title "Fear and Loathing in Las Vegas (10/10) Movie CLIP - Too Much Adrenochrome (1998) HD"
+    description "Fear and Loathing in Las Vegas movie clips: http://j.mp/1yzoXod&#10;BUY THE MOVIE: http://amzn.to/ufvdw9&#10;Don't miss the HOTTEST NEW TRAILERS: http://bit.ly/1u2y6pr&#10;&#10;CLIP DESCRIPTION:&#10;Duke (Johnny Depp) takes too much Adrenochrome while Dr. Gonzo (Benicio Del Toro) gets rid of Lucy.&#10;&#10;FILM DESCRIPTION:&#10;Terry Gilliam (Brazil, Twelve Monkeys, The Fisher King) directed this colorful, stylized, pseudo-psychedelic $21-million adaptation of the 1971 Hunter S. Thompson classic, Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream, about stoned sportswriter Raoul Duke, Thompson's alter ego, on a wild drug-crazed road trip, a paranoid plummet into the belly of the beast, with his pal, lawyer Oscar Zeta Acosta. Originally serialized in Rolling Stone (November 1971), the book catapulted Thompson headfirst toward the Kerouac-Mailer-Capote pantheon and jump-started the entire movement of &#34;gonzo journalism.&#34; Carrying a suitcase of drugs, Raoul Duke (Johnny Depp with shaved pate) and his attorney Dr. Gonzo (Benicio Del Toro) drive a red convertible across the Mojave from L.A. to Vegas, where Duke has an assignment to cover the Mint 400 desert motorcycle race. As the drugs kick in, Duke ventures into voiceover, filling in the blank spots and narrative gaps. &#34;This is not a good town for psychedelic drugs,&#34; says Duke, but even so, they consume vast quantities, eventually escalating to ether. Duke notes that with ether &#34;you can actually watch yourself behaving this terrible way, but you can't control it.&#34; The two trash their hotel room, and Gonzo goes back to L.A. Thinking the hotel room holocaust will lead to an arrest, Duke begins a drive back to L.A., but after an odd encounter with a highway patrolman (Gary Busey) and a telephone conversation with Gonzo, he returns to Vegas to cover the District Attorney Convention on Narcotics and Dangerous Drugs in the glitzy Flamingo Hotel. This time the drugged-out duo trash their Flamingo room. The crazed carnival atmosphere segues into a carney casino, Bazooko's Circus, where a barker (Penn Jillette) spiels amid aerialists, clowns, and a rotating carousel bar. Gonzo worries over runaway teen Lucy (Christina Ricci), who paints portraits of Barbra Streisand. Soon the hallucinations begin: Duke sees Gonzo transmogrify into a demon with breasts on its back, and an acid vision of a Vegas bar features large legit lounge lizards (courtesy of monster makeup man Rob Bottin). Flashbacks depicting Duke's intro to the drug scene jump back to love-Haight relationships in San Francisco's Summer of Love. Cameos and guest stars include Mark Harmon, Cameron Diaz, Flea, Lyle Lovett, Harry Dean Stanton, Ellen Barkin, Tobey Maguire, and Hunter S. Thompson himself. The film features a Geffen Records soundtrack mixing rock of the period with Vegas lounge tunes. Over the years, various script adaptations came and went as did numerous talents; people connected with past efforts to film Thompson's book include Martin Scorsese, Jack Nicholson, Dan Aykroyd, John Belushi, and writer-director Alex Cox. Shown in competition at the 1998 Cannes Film Festival.&#10;&#10;CREDITS:&#10;TM &#38; &#169; Universal (1998)&#10;Cast: Johnny Depp, Benicio Del Toro&#10;Director: Terry Gilliam&#10;Producers: Harold Bronson, Patrick Cassavetti, Richard Foos, John Jergens, Laila Nabulsi, Stephen Nemeth, Elliot Lewis Rosenblatt&#10;Screenwriters: Hunter S. Thompson, Terry Gilliam, Tony Grisoni, Tod Davies, Alex Cox&#10;&#10;WHO ARE WE?&#10;The MOVIECLIPS channel is the largest collection of licensed movie clips on the web. Here you will find unforgettable moments, scenes and lines from all your favorite films. Made by movie fans, for movie fans.&#10;&#10;SUBSCRIBE TO OUR MOVIE CHANNELS:&#10;MOVIECLIPS: http://bit.ly/1u2yaWd&#10;ComingSoon: http://bit.ly/1DVpgtR&#10;Indie &#38; Film Festivals: http://bit.ly/1wbkfYg&#10;Hero Central: http://bit.ly/1AMUZwv&#10;Extras: http://bit.ly/1u431fr&#10;Classic Trailers: http://bit.ly/1u43jDe&#10;Pop-Up Trailers: http://bit.ly/1z7EtZR&#10;Movie News: http://bit.ly/1C3Ncd2&#10;Movie Games: http://bit.ly/1ygDV13&#10;Fandango: http://bit.ly/1Bl79ye&#10;Fandango FrontRunners: http://bit.ly/1CggQfC&#10;&#10;HIT US UP:&#10;Facebook: http://on.fb.me/1y8M8ax&#10;Twitter: http://bit.ly/1ghOWmt&#10;Pinterest: http://bit.ly/14wL9De&#10;Tumblr: http://bit.ly/1vUwhH7"
+    channeltitle "Movieclips"
+    channelid "UC3gNmTGu-TTbFPpfSs5kNkg"
+    favcount 0
+    viewcount 2957207
+    likecount 18429
+    commentcount 6413
+    duration "PT3M27S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.08414657
+    PERSPECTIVEPROFANITY 0.041949168
+    PERSPECTIVEFLIRTATION 0.46258876
+    PERSPECTIVETHREAT 0.08859033
+    PERSPECTIVETOXICITY 0.13082063
+    PERSPECTIVEINSULT 0.05643677
+    PERSPECTIVEIDENTITYATTACK 0.024486735
+    PERSPECTIVEINFLAMMATORY 0.076563396
+    indegree 91
+    cluster 1
+  ]
+  node
+  [
+    id 1
     label "UAeAKitFdJo"
     step 0
     date "2021-05-03T23:00:06Z"
@@ -19,24 +45,21 @@ graph
     likecount 493
     commentcount 370
     duration "PT3M24S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.12991442
+    PERSPECTIVEPROFANITY 0.08813817
+    PERSPECTIVEFLIRTATION 0.503705
+    PERSPECTIVETHREAT 0.18317565
+    PERSPECTIVETOXICITY 0.19716066
+    PERSPECTIVEINSULT 0.13081
+    PERSPECTIVEIDENTITYATTACK 0.063877404
+    PERSPECTIVEINFLAMMATORY 0.12221826
     indegree 33
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 1
-    name "2"
+    id 2
     label "xZRnil8wi58"
     step 0
     date "2020-09-08T08:22:47Z"
@@ -49,24 +72,21 @@ graph
     likecount 5646
     commentcount 3131
     duration "PT3M34S"
+    sentiment -0.7003
+    PERSPECTIVESEXUALLYEXPLICIT 0.21839303
+    PERSPECTIVEPROFANITY 0.17474647
+    PERSPECTIVEFLIRTATION 0.31021857
+    PERSPECTIVETHREAT 0.5130132
+    PERSPECTIVETOXICITY 0.21109697
+    PERSPECTIVEINSULT 0.23530124
+    PERSPECTIVEIDENTITYATTACK 0.42740923
+    PERSPECTIVEINFLAMMATORY 0.6507735
     indegree 45
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 2
-    name "3"
+    id 3
     label "SbEOTZPgTvw"
     step 0
     date "2018-01-28T00:00:01Z"
@@ -79,24 +99,21 @@ graph
     likecount 23414
     commentcount 5839
     duration "PT5M17S"
+    sentiment -0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.14257947
+    PERSPECTIVEPROFANITY 0.09986719
+    PERSPECTIVEFLIRTATION 0.4720142
+    PERSPECTIVETHREAT 0.25117713
+    PERSPECTIVETOXICITY 0.1550967
+    PERSPECTIVEINSULT 0.08187938
+    PERSPECTIVEIDENTITYATTACK 0.08218362
+    PERSPECTIVEINFLAMMATORY 0.08330955
     indegree 97
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 3
   ]
   node
   [
-    id 3
-    name "4"
+    id 4
     label "-7o3bVInA2A"
     step 0
     date "2021-01-20T20:00:00Z"
@@ -109,24 +126,21 @@ graph
     likecount 43755
     commentcount 16583
     duration "PT6M47S"
+    sentiment -0.8347
+    PERSPECTIVESEXUALLYEXPLICIT 0.12433408
+    PERSPECTIVEPROFANITY 0.07678486
+    PERSPECTIVEFLIRTATION 0.30473664
+    PERSPECTIVETHREAT 0.32292506
+    PERSPECTIVETOXICITY 0.06252546
+    PERSPECTIVEINSULT 0.052975487
+    PERSPECTIVEIDENTITYATTACK 0.0847929
+    PERSPECTIVEINFLAMMATORY 0.32950464
     indegree 8
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "MissingLinkMedia|PartisanLeft|SocialJustice"
-    leftright "L"
-    cluster 3
+    cluster 1
   ]
   node
   [
-    id 4
-    name "5"
+    id 5
     label "G1y38N4LQiU"
     step 0
     date "2021-03-16T07:00:02Z"
@@ -139,24 +153,21 @@ graph
     likecount 30541
     commentcount 16846
     duration "PT1H27M3S"
+    sentiment -0.6597
+    PERSPECTIVESEXUALLYEXPLICIT 0.49198994
+    PERSPECTIVEPROFANITY 0.7289069
+    PERSPECTIVEFLIRTATION 0.50391525
+    PERSPECTIVETHREAT 0.30778664
+    PERSPECTIVETOXICITY 0.20742953
+    PERSPECTIVEINSULT 0.7611835
+    PERSPECTIVEIDENTITYATTACK 0.5757265
+    PERSPECTIVEINFLAMMATORY 0.08155044
     indegree 8
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 4
   ]
   node
   [
-    id 5
-    name "6"
+    id 6
     label "rN6GOxTy3b4"
     step 0
     date "2018-08-24T17:10:42Z"
@@ -169,24 +180,21 @@ graph
     likecount 5028
     commentcount 352
     duration "PT4M7S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20147593
+    PERSPECTIVEPROFANITY 0.16371849
+    PERSPECTIVEFLIRTATION 0.36942402
+    PERSPECTIVETHREAT 0.13097373
+    PERSPECTIVETOXICITY 0.0014143519
+    PERSPECTIVEINSULT 0.2627224
+    PERSPECTIVEIDENTITYATTACK 0.13531387
+    PERSPECTIVEINFLAMMATORY 0.17132379
     indegree 3
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 5
   ]
   node
   [
-    id 6
-    name "7"
+    id 7
     label "9twiJbZ9-nQ"
     step 0
     date "2019-11-24T19:28:59Z"
@@ -199,24 +207,21 @@ graph
     likecount 4660
     commentcount 404
     duration "PT3M50S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22522536
+    PERSPECTIVEPROFANITY 0.122673154
+    PERSPECTIVEFLIRTATION 0.4902837
+    PERSPECTIVETHREAT 0.45344925
+    PERSPECTIVETOXICITY 0.021380141
+    PERSPECTIVEINSULT 0.09919794
+    PERSPECTIVEIDENTITYATTACK 0.09679433
+    PERSPECTIVEINFLAMMATORY 0.038325995
     indegree 30
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 3
   ]
   node
   [
-    id 7
-    name "8"
+    id 8
     label "QDRh5PS5Ynw"
     step 0
     date "2021-06-04T01:15:07Z"
@@ -229,24 +234,21 @@ graph
     likecount 6
     commentcount 0
     duration "PT2M18S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 1
   ]
   node
   [
-    id 8
-    name "9"
+    id 9
     label "jb9-eq40MAU"
     step 0
     date "2021-09-02T10:01:51Z"
@@ -259,24 +261,21 @@ graph
     likecount 18
     commentcount 0
     duration "PT5M51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 3
   ]
   node
   [
-    id 9
-    name "10"
+    id 10
     label "vZVu3Syj1c4"
     step 0
     date "2015-04-24T21:05:16Z"
@@ -289,24 +288,21 @@ graph
     likecount 132
     commentcount 192
     duration "PT30S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1693332
+    PERSPECTIVEPROFANITY 0.10282057
+    PERSPECTIVEFLIRTATION 0.27842578
+    PERSPECTIVETHREAT 0.08720836
+    PERSPECTIVETOXICITY 0.016937515
+    PERSPECTIVEINSULT 0.085433364
+    PERSPECTIVEIDENTITYATTACK 0.059347518
+    PERSPECTIVEINFLAMMATORY 0.15642217
     indegree 7
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 1
   ]
   node
   [
-    id 10
-    name "11"
+    id 11
     label "jFDPIsCg05g"
     step 0
     date "2021-09-10T14:19:05Z"
@@ -319,24 +315,21 @@ graph
     likecount 89
     commentcount 0
     duration "PT4M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 11
-    name "12"
+    id 12
     label "vo2FLlvP6PY"
     step 0
     date "2021-12-21T19:30:04Z"
@@ -349,54 +342,48 @@ graph
     likecount 402
     commentcount 31
     duration "PT3M3S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.36442637
+    PERSPECTIVEPROFANITY 0.20539561
+    PERSPECTIVEFLIRTATION 0.46221623
+    PERSPECTIVETHREAT 0.17220044
+    PERSPECTIVETOXICITY 0.014716201
+    PERSPECTIVEINSULT 0.1489966
+    PERSPECTIVEIDENTITYATTACK 0.10297369
+    PERSPECTIVEINFLAMMATORY 0.09035004
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 12
-    name "13"
-    label "xwx8tTbStJw"
-    step 0
-    date "2021-08-08T17:40:07Z"
-    title "Somanylynx - Adrenochrome"
-    description "&#10004;&#65039; Subscribe To Geometry Dash Radio --- http://tinyurl.com/m5y5gjr&#13;&#10;&#128247; Instagram : https://www.instagram.com/geometrydashradio/&#13;&#10;&#127925; Spotify Playlist : https://tinyurl.com/y34fo5nr&#13;&#10;&#13;&#10;Geometry Dash Radio is your #1 Source for all your favorite Geometry Dash Music ! Hit Subscribe and turn on notifications for all the latest uploads !&#13;&#10;&#13;&#10;Support Somanylynx below &#128522;&#9660;&#13;&#10;Soundcloud : https://soundcloud.com/somanylynx&#10;Youtube : https://www.youtube.com/channel/UCgPUo-eq6dBDiYTaMr9DKFg&#10;Facebook : https://www.facebook.com/somanylynx/&#10;Spotify : https://open.spotify.com/artist/4aZgS4310tz5aE0ArBC1ut&#10;Newgrounds : https://somanylynx.newgrounds.com/&#10;&#10;SONG ID : 1032224&#10;&#10;Artwork by Piguilipe &#11015;&#65039;&#13;&#10;Twitter : https://twitter.com/Piguilipe&#13;&#10;Deviant Art : https://www.deviantart.com/piguilipe&#13;&#10;&#13;&#10;Animations by Lars Hellhammer &#11015;&#65039;&#13;&#10;Twitter : https://twitter.com/HellLars&#13;&#10;Website : https://larshellhammer.pb.design&#13;&#10;&#13;&#10;#GeometryDash&#13;&#10;#GDMusic&#13;&#10;#GDR"
-    channeltitle "Geometry Dash R&#8710;dio"
-    channelid "UCEk9BN0ifUZCbGnyZnvDsog"
-    favcount 0
-    viewcount 10170
-    likecount 370
-    commentcount 28
-    duration "PT3M40S"
-    indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 13
-    name "16"
+    id 15
+    label "9Om51NLL4UI"
+    step 0
+    date "2020-09-16T05:58:38Z"
+    title "CBI Enquiry Day 26: How Salman Khan Extract  from Child Trafficking -Vibhor Anand"
+    description "Subscribe us: https://bit.ly/30g0IiZ Thank you for your support.&#10;&#10;Check CBI Case daily Updates: https://bit.ly/3bPhFFg &#10;#SalmanKhan #SushantSinghRajput #Darkweb&#10;&#10;CBI Enquiry Day 26: How Salman Khan Extract &#34;Adrenochrome Drug&#34; from Child Trafficking exposed by Vibhor Anand&#10;-Advocate Vibhor Anand reveals about sushant murder in Dark web, drugs, disha murder, Sushant's last moment &#10;-Jaya Baachan support for Bollywood&#10;&#10;Instagram: https://www.instagram.com/cinesamugam/?hl=en&#10;Twitter: https://twitter.com/cinesamugam&#10;Pinterest: https://www.pinterest.co.uk/tamilcinemaking/"
+    channeltitle "Cine Samugam"
+    channelid "UCebODn_sBnUkbHF4hchpnLQ"
+    favcount 0
+    viewcount 56973
+    likecount 2298
+    commentcount 419
+    duration "PT16M38S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17258741
+    PERSPECTIVEPROFANITY 0.14809518
+    PERSPECTIVEFLIRTATION 0.42117846
+    PERSPECTIVETHREAT 0.15082408
+    PERSPECTIVETOXICITY 0.22598907
+    PERSPECTIVEINSULT 0.14349216
+    PERSPECTIVEIDENTITYATTACK 0.14219584
+    PERSPECTIVEINFLAMMATORY 0.048715666
+    indegree 4
+    cluster 1
+  ]
+  node
+  [
+    id 16
     label "lnWs5I95MH4"
     step 0
     date "2020-08-01T05:27:32Z"
@@ -409,24 +396,21 @@ graph
     likecount 26812
     commentcount 3244
     duration "PT11M26S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.09364917
+    PERSPECTIVEPROFANITY 0.08337144
+    PERSPECTIVEFLIRTATION 0.35594946
+    PERSPECTIVETHREAT 0.099983975
+    PERSPECTIVETOXICITY 0.0042864406
+    PERSPECTIVEINSULT 0.09606778
+    PERSPECTIVEIDENTITYATTACK 0.11238617
+    PERSPECTIVEINFLAMMATORY 0.0053152945
     indegree 6
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 6
   ]
   node
   [
-    id 14
-    name "17"
+    id 17
     label "Kdgh5K_URu4"
     step 0
     date "2021-09-10T08:20:38Z"
@@ -439,54 +423,48 @@ graph
     likecount 244
     commentcount 24
     duration "PT3M"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.17198257
+    PERSPECTIVEPROFANITY 0.13052785
+    PERSPECTIVEFLIRTATION 0.25873902
+    PERSPECTIVETHREAT 0.092404954
+    PERSPECTIVETOXICITY 0.023632111
+    PERSPECTIVEINSULT 0.09140271
+    PERSPECTIVEIDENTITYATTACK 0.07563058
+    PERSPECTIVEINFLAMMATORY 0.32850233
     indegree 14
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 15
-    name "18"
-    label "z227xkrK0_8"
+    id 19
+    label "weq5GSakK7g"
     step 0
-    date "2022-02-23T10:01:08Z"
-    title "Adrenochrome"
-    description "Provided to YouTube by Label Engine&#10;&#10;Adrenochrome &#183; Jellyheadz&#10;&#10;Karman Ligne&#10;&#10;&#8471; The 5th Element Records&#10;&#10;Released on: 2022-02-24&#10;&#10;Author: Robert Gressier&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Various Artists - Topic"
-    channelid "UC0BrlVtQffmLvvGy2s2_YGg"
+    date "2012-02-28T21:13:55Z"
+    title "Applaud The Impaler -  (Official Music Video)"
+    description "Applaud The Impaler &#34;Adrenochrome&#34; video taken from their debut release Anthropophagi.&#10;www.indiemerch.com/uniqueleader/band/applaud-the-impaler&#10;https://itunes.apple.com/us/artist/applaud-the-impaler/id403868498"
+    channeltitle "Unique Leader Records"
+    channelid "UC-6umqcTBkl9IH4Z8Z-O1jg"
     favcount 0
-    viewcount 228
-    likecount 4
-    commentcount 0
-    duration "PT6M55S"
+    viewcount 23920
+    likecount 182
+    commentcount 204
+    duration "PT4M6S"
+    sentiment 0.4588
+    PERSPECTIVESEXUALLYEXPLICIT 0.14176373
+    PERSPECTIVEPROFANITY 0.13292372
+    PERSPECTIVEFLIRTATION 0.42024586
+    PERSPECTIVETHREAT 0.11714617
+    PERSPECTIVETOXICITY 0.040971663
+    PERSPECTIVEINSULT 0.17008866
+    PERSPECTIVEIDENTITYATTACK 0.082658924
+    PERSPECTIVEINFLAMMATORY 0.00059998233
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 5
   ]
   node
   [
-    id 16
-    name "20"
+    id 20
     label "Acn4GSLVAyA"
     step 0
     date "2017-05-05T10:00:54Z"
@@ -499,24 +477,21 @@ graph
     likecount 70464
     commentcount 15699
     duration "PT13M37S"
+    sentiment -0.0516
+    PERSPECTIVESEXUALLYEXPLICIT 0.12117163
+    PERSPECTIVEPROFANITY 0.10036904
+    PERSPECTIVEFLIRTATION 0.29484823
+    PERSPECTIVETHREAT 0.14776134
+    PERSPECTIVETOXICITY 0.16965903
+    PERSPECTIVEINSULT 0.07957329
+    PERSPECTIVEIDENTITYATTACK 0.11665965
+    PERSPECTIVEINFLAMMATORY 0.4877133
     indegree 43
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 1
   ]
   node
   [
-    id 17
-    name "21"
+    id 21
     label "N1IcakgZAKk"
     step 0
     date "2018-03-12T13:00:02Z"
@@ -529,24 +504,21 @@ graph
     likecount 659
     commentcount 20
     duration "PT17M40S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.12158194
+    PERSPECTIVEPROFANITY 0.069456026
+    PERSPECTIVEFLIRTATION 0.36898446
+    PERSPECTIVETHREAT 0.100770555
+    PERSPECTIVETOXICITY 0.05413456
+    PERSPECTIVEINSULT 0.09659919
+    PERSPECTIVEIDENTITYATTACK 0.06351389
+    PERSPECTIVEINFLAMMATORY 0.127631
     indegree 7
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 8
   ]
   node
   [
-    id 18
-    name "22"
+    id 22
     label "392BwAcQKyk"
     step 0
     date "2020-08-23T06:18:03Z"
@@ -559,24 +531,21 @@ graph
     likecount 176
     commentcount 90
     duration "PT7M34S"
+    sentiment -0.296
+    PERSPECTIVESEXUALLYEXPLICIT 0.19356646
+    PERSPECTIVEPROFANITY 0.21176217
+    PERSPECTIVEFLIRTATION 0.5591243
+    PERSPECTIVETHREAT 0.5020952
+    PERSPECTIVETOXICITY 0.13924801
+    PERSPECTIVEINSULT 0.20081365
+    PERSPECTIVEIDENTITYATTACK 0.19953793
+    PERSPECTIVEINFLAMMATORY 0.2820343
     indegree 44
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    cluster 1
   ]
   node
   [
-    id 19
-    name "23"
+    id 23
     label "tspSeo_rHxo"
     step 0
     date "2008-07-27T16:26:29Z"
@@ -589,54 +558,48 @@ graph
     likecount 943
     commentcount 172
     duration "PT2M58S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.09757559
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435555
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898768
     indegree 14
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 7
   ]
   node
   [
-    id 20
-    name "24"
-    label "Nvc8cwMjUaU"
+    id 25
+    label "lgF0Ff22EXA"
     step 0
-    date "2020-10-22T18:00:03Z"
-    title "Lutez - Adrenochrome"
-    description "&#9835; Don't forget to Subscribe, leave a Comment and Thumbs Up!&#10;&#10;&#9658; &#9835;TRACK&#9835;: https://soundcloud.com/lutez/adrenochrome&#10;&#10;&#9658; Follow Lutez&#10;https://soundcloud.com/lutez&#10;http://instagram.com/lutez_&#10;http://www.facebook.com/lutez&#10;http://twitter.com/Lutez&#10;https://open.spotify.com/artist/0PHF5hC5g9Pe7cBzSVlTFD&#10;&#10;&#9658; Follow HARD TRAP&#10;https://youtube.com/c/hardtrap&#10;https://instagram.com/hardtrapofficial"
-    channeltitle "HARD TRAP"
-    channelid "UCsfJpZ5QIUz4IcJ4U0IBR7w"
+    date "2020-10-12T16:45:01Z"
+    title "brokeboys - adrenochrome (lyrics) "
+    description "different vibe&#10;&#10;Discord (Join the community): &#10;https://discord.gg/j6mm2MX &#10;&#10;Spotify Playlists:&#10;https://open.spotify.com/playlist/3Kz5KBE3Ksupz9odBGwze6?si=qgmJeillTr2NvRuDmtYufg&#10;https://open.spotify.com/playlist/2bhNLlRhkrLObFNaECtA76?si=6MMwZkPcTFmFDa7E7iUJHg&#10;&#10;Submit your songs: &#10;https://www.bitekivibes.com/submissions/&#10;&#10;Stream &#34;ADRENOCHROME: &#10;https://www.soundcloud.com/wearebrokeboys/adrenochrome&#10;&#10;Support brokeboys:&#10;https://www.soundcloud.com/wearebrokeboys&#10;https://www.youtube.com/channel/UCS82t3ojW4rkqgaVbqLMTfQ&#10;https://www.instagram.com/yorganmager/&#10;https://www.instagram.com/halfykubrick/&#10;https://www.instagram.com/wearebrokeboys/&#10;https://open.spotify.com/artist/6G7Fbku8sSRQpoOqtTPzOG&#10;&#10;Produced by young apollo.&#10;&#10;Anime:&#10;Jujutsu Kaisen&#10;&#10;Biteki: &#10;https://www.soundcloud.com/bitekivibes &#10;https://www.twitter.com/bitekivibes&#10;https://www.facebook.com/bitekivibes&#10;https://www.instagram.com/bitekivibes&#10;&#10;Lyrics:&#10;i level up from adrenochrome inside the womb i consumed my identical ay&#10;tracking you down like a sentinel taking society out with a chemical ay&#10;after ingesting an edible my f*cking body go inter-dimensional ay&#10;i got your head in my reticle i go insane and i turn you to vegetable ay&#10;shorty p*ssy  sweeter than some wild cherry pepsi&#10;i'm just trynna f*ck why she always trynna text me&#10;if you run your mouth you gon' end up just like epstein&#10;50 round clip i'ma spray it til' it's empty&#10;scroll a j with rogan in an alternate dimension&#10;why i feel like tesla with the ultimate invention&#10;i can see the future ai standing at attention&#10;take em all out with a platinum intervention&#10;i got some money but i could burn it i don't give a sh*t&#10;uppercut to combo with fatality to finish him&#10;i get some b*tch es you prolly couldn't get a min*te with&#10;everything is simulated get your sh*t together kid&#10;i can't trust an op cuz they always f*cking listen in&#10;hundred on my watch yea my clock f*cking glistenin'&#10;shorty on my crotch yeah my c*ck steady stiffening&#10;break out of the box that society imprisoned in&#10;shorty p*ssy  sweeter than some wild cherry pepsi&#10;i'm just trynna f*ck why she always trynna text me&#10;if you run your mouth you gon' end up just like epstein&#10;50 round clip i'ma spray it til' it's empty&#10;i level up from adrenochrome inside the womb i consumed my identical ay&#10;tracking you down like a sentinel taking society out with a chemical ay&#10;after ingesting an edible my f*cking body go inter-dimensional ay&#10;i got your head in my reticle i go insane and i turn you to vegetable ay&#10;&#10;#amv&#10;#anime&#10;#JujutsuKaisen&#10;&#10;Patreon Supporters:&#10;Torva&#10;Sabishi&#10;SadZilla"
+    channeltitle "Biteki &#12403;&#12390;&#12365;"
+    channelid "UCsUeNbrb8t2Td1faP1VbK2g"
     favcount 0
-    viewcount 3647
-    likecount 180
-    commentcount 19
-    duration "PT3M17S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    viewcount 38862
+    likecount 1281
+    commentcount 81
+    duration "PT2M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.07517291
+    PERSPECTIVEPROFANITY 0.056124825
+    PERSPECTIVEFLIRTATION 0.27035582
+    PERSPECTIVETHREAT 0.06459796
+    PERSPECTIVETOXICITY 0.00040565
+    PERSPECTIVEINSULT 0.07160401
+    PERSPECTIVEIDENTITYATTACK 0.038000163
+    PERSPECTIVEINFLAMMATORY 0.042167302
+    indegree 15
+    cluster 3
   ]
   node
   [
-    id 21
-    name "26"
+    id 26
     label "ClCHdbeQJI4"
     step 0
     date "2020-08-19T10:01:03Z"
@@ -649,24 +612,21 @@ graph
     likecount 4
     commentcount 1
     duration "PT3M54S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 22
-    name "27"
+    id 27
     label "ZHp9WJ7EcyE"
     step 0
     date "2021-04-29T04:13:39Z"
@@ -679,24 +639,21 @@ graph
     likecount 13
     commentcount 2
     duration "PT1M5S"
+    sentiment 0.6124
+    PERSPECTIVESEXUALLYEXPLICIT 0.10090084
+    PERSPECTIVEPROFANITY 0.0007093211
+    PERSPECTIVEFLIRTATION 0.2024682
+    PERSPECTIVETHREAT 0.00046710175
+    PERSPECTIVETOXICITY 0.011314815
+    PERSPECTIVEINSULT 0.00082315854
+    PERSPECTIVEIDENTITYATTACK 8.407778e-05
+    PERSPECTIVEINFLAMMATORY 0.057495497
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 7
   ]
   node
   [
-    id 23
-    name "28"
+    id 28
     label "_7WBgUhu9Es"
     step 0
     date "2020-07-12T13:48:23Z"
@@ -709,24 +666,21 @@ graph
     likecount 756
     commentcount 62
     duration "PT25M12S"
+    sentiment -0.5994
+    PERSPECTIVESEXUALLYEXPLICIT 0.13296914
+    PERSPECTIVEPROFANITY 0.27173805
+    PERSPECTIVEFLIRTATION 0.40764138
+    PERSPECTIVETHREAT 0.2000209
+    PERSPECTIVETOXICITY 0.23891698
+    PERSPECTIVEINSULT 0.5344911
+    PERSPECTIVEIDENTITYATTACK 0.2450084
+    PERSPECTIVEINFLAMMATORY 0.02651525
     indegree 20
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 9
   ]
   node
   [
-    id 24
-    name "29"
+    id 29
     label "xjxlYS2YX8o"
     step 0
     date "2019-03-12T17:17:12Z"
@@ -739,84 +693,75 @@ graph
     likecount 7
     commentcount 2
     duration "PT2M5S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.09757568
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.06636688
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 8
   ]
   node
   [
-    id 25
-    name "30"
-    label "Ndb1OZkDadY"
+    id 32
+    label "l4ao-cEzxUk"
     step 0
-    date "2015-09-30T03:30:13Z"
-    title "Adrenochrome"
-    description "Provided to YouTube by CDBaby&#10;&#10;Adrenochrome &#183; Aztek the Barfly&#10;&#10;Bar Bully&#10;&#10;&#8471; 2015 Aztek the Barfly&#10;&#10;Released on: 2015-09-18&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Aztek the Barfly - Topic"
-    channelid "UCRIhhhkza8oWr_Xqf-K66ig"
+    date "2017-03-25T10:40:39Z"
+    title "Digital Phaze - Adrenochrome"
+    description "With allready some hot remixes on our label, its finally time for Digital Phaze to make their debut with a rather unique original track on our Above Allternative imprint. &#10;&#10;Adrenochrome is a tasty mix between techno and trance and will be one the highlights of your set. If you like the old Picotto &#38; DJ Choose style this is your track!&#10;&#10;Release: 10 April 2017 - Above Allternative / Above All Records"
+    channeltitle "AboveAllMusic"
+    channelid "UCbXAexPN9xgSaJyhIOF17gQ"
     favcount 0
-    viewcount 817
-    likecount 16
+    viewcount 1203
+    likecount 14
     commentcount 1
-    duration "PT2M50S"
+    duration "PT7M9S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22392546
+    PERSPECTIVEPROFANITY 0.113757335
+    PERSPECTIVEFLIRTATION 0.39118212
+    PERSPECTIVETHREAT 0.10116542
+    PERSPECTIVETOXICITY 0.011384231
+    PERSPECTIVEINSULT 0.122589976
+    PERSPECTIVEIDENTITYATTACK 0.07862955
+    PERSPECTIVEINFLAMMATORY 0.1053247
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    cluster 8
   ]
   node
   [
-    id 26
-    name "33"
-    label "VYz_fr8Gnzw"
+    id 34
+    label "KDfTKUYPP38"
     step 0
-    date "2018-02-17T14:00:05Z"
-    title "Luna Nueva:  - Alternate Solo Takes"
-    description "Happy 9th Anniversary, Luna Nueva! I found some rough mixes of Jason Rebello's &#38; Eric Marienthal's alternate solo takes on &#34;Adrenochrome&#34; that I thought I'd share with you guys. It's great to hear these again (literally the first time since we recorded the album), sure brings back a lot of memories! Enjoy!&#10;&#10;W E B S I T E : http://johanneszetterberg.com&#10;C D  B A B Y : http://cdbaby.com/Artist/johanneszetterberg&#10;I T U N E S : http://itunes.apple.com/us/artist/johannes-zetterberg/id305556116?trackPage=1#trackPage&#10;A M A Z O N : http://amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&#38;field-keywords=Johannes+Zetterberg&#10;&#10;T W I T T E R : http://twitter.com/jayzbass&#10;F A C E B O O K : http://facebook.com/johanneszetterbergmusic&#10;I N S T A G R  A M : http://instagram.com/johanneszetterberg&#10;S O U N D C L O U D : http://soundcloud.com/innate-groove-music"
-    channeltitle "Johannes Zetterberg"
-    channelid "UC8DwX1cDQ2RDEargR9BklAA"
+    date "2021-06-03T00:16:34Z"
+    title "frequency 03/45 (Recreational. very strong)"
+    description ".&#10;psychotrance frequency aged in a CD-ROM from c.2010s&#10;.&#10;all audio base is pre youtube-age&#10;.&#10;improve your trip with this sound&#10;.&#10;.&#10;series 03/45&#10;."
+    channeltitle "fukinsei"
+    channelid "UCeyxXzWiHWFV_1tbaHLA9UQ"
     favcount 0
-    viewcount 235
-    likecount 7
-    commentcount 1
-    duration "PT2M40S"
+    viewcount 1942
+    likecount 37
+    commentcount 4
+    duration "PT30M6S"
+    sentiment 0.5563
+    PERSPECTIVESEXUALLYEXPLICIT 0.09997872
+    PERSPECTIVEPROFANITY 0.06295532
+    PERSPECTIVEFLIRTATION 0.4037255
+    PERSPECTIVETHREAT 0.06981127
+    PERSPECTIVETOXICITY 0.0036964044
+    PERSPECTIVEINSULT 0.054877646
+    PERSPECTIVEIDENTITYATTACK 0.04529573
+    PERSPECTIVEINFLAMMATORY 0.04738708
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    cluster 3
   ]
   node
   [
-    id 27
-    name "35"
+    id 35
     label "_ofI8UQp-9g"
     step 0
     date "2022-02-17T23:34:12Z"
@@ -829,114 +774,102 @@ graph
     likecount 8
     commentcount 0
     duration "PT5M50S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16708626
+    PERSPECTIVEPROFANITY 0.30775812
+    PERSPECTIVEFLIRTATION 0.3092009
+    PERSPECTIVETHREAT 0.24534537
+    PERSPECTIVETOXICITY 0.0070804367
+    PERSPECTIVEINSULT 0.23792164
+    PERSPECTIVEIDENTITYATTACK 0.32029855
+    PERSPECTIVEINFLAMMATORY 0.13898768
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 28
-    name "36"
-    label "8S8Er7aWQSk"
+    id 37
+    label "RzAXnu0KsHE"
     step 0
-    date "2015-09-16T16:15:06Z"
+    date "2015-09-16T16:57:21Z"
     title "Adrenochrome"
-    description "Provided to YouTube by Ingrooves&#10;&#10;Adrenochrome &#183; Para Halu&#10;&#10;Remixes II: Adrenochrome&#10;&#10;&#8471; 2014 Psylife Records&#10;&#10;Released on: 2014-04-09&#10;&#10;Remixer: Neuromotor&#10;Writer: Para Halu&#10;&#10;Auto-generated by YouTube."
+    description "Provided to YouTube by Ingrooves&#10;&#10;Adrenochrome &#183; Para Halu&#10;&#10;Remixes II: Adrenochrome&#10;&#10;&#8471; 2014 Psylife Records&#10;&#10;Released on: 2014-04-09&#10;&#10;Remixer: Electrypnose&#10;Writer: Para Halu&#10;&#10;Auto-generated by YouTube."
     channeltitle "Para Halu - Topic"
     channelid "UCigD9jTBw_TsRXTorCjLZCQ"
     favcount 0
-    viewcount 46
+    viewcount 88
     likecount 3
     commentcount 0
-    duration "PT9M24S"
+    duration "PT8M11S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 29
-    name "38"
-    label "hweaZdbPJK0"
+    id 39
+    label "jJRS939FRwM"
     step 0
-    date "2021-11-03T14:00:16Z"
-    title "Verjngung durch Adrenochrom: Gibt es die teuflische Promi-Droge wirklich? | 1/2 | SAT.1-Reportage"
-    description "&#34;Adrenochrom&#34; und die &#34;Verchippung der Menschheit&#34; sind nicht erst seit der Pandemie mit SARS-COVID-19 bei vielen Menschen ein Thema. Verschw&#246;rungsideologen sind inzwischen Teil einer weltweiten Bewegung. In den USA beeinflusste die QAnon-Bewegung sogar den Wahlkampf und auch hierzulande gewinnen derartige Bewegungen an Einfluss. Die SAT.1 Reportage &#34;Verschw&#246;rungsideologien auf dem Pr&#252;fstand - Uke am Rand der Welt&#34; begleitet Professor Uke Bosse auf der Suche nach Antworten.&#10;&#10;*Empfohlen ab 12 Jahren*&#10;&#10;#Reportage #Sat1Reportage #Sat1&#10;&#10;&#9658; Hier geht&#8217;s zu Teil 2 &#10;der Folge &#8222;Verschw&#246;rungsideologien auf dem Pr&#252;fstand - Uke am Rand der Welt &#8220;&#10;https://youtu.be/apBXtKrTwdo&#10;&#10;&#9658; Abonniere den Kanal, um keine Folge zu verpassen!&#10;&#10;https://www.youtube.com/channel/UCjIcbyvVQm_alh_Qn5OIgWQ&#10;&#10;&#9658; Ganze Folge online sehen: &#10;&#10;https://www.sat1.de/tv/die-sat-1-reportage&#10;&#10;&#10;Menschen - Geschichten - Schicksale! &#34;SAT.1 Reportage&#34; taucht tief in den deutschen Alltag ein - in Themen, die alle betreffen. Reporter vor Ort erz&#228;hlen lebensnahe Geschichten, treffen beeindruckende Menschen und machen au&#223;ergew&#246;hnliche Service-Experimente.&#10;&#10;&#10;********************************************************************&#10;&#10;Impressum: &#10;https://www.sat1.de/service/impressum"
-    channeltitle "SAT.1"
-    channelid "UCjIcbyvVQm_alh_Qn5OIgWQ"
+    date "2017-08-02T22:05:33Z"
+    title "Waking Android - Adrenochrome (Belfast rap / hip-hop)"
+    description "https://www.facebook.com/WakingAndroid/&#10;&#10;Opening track of the Adrenochrome EP featuring John King on scratches.&#10;&#10;Full project available for free at &#10;https://wakingandroid.bandcamp.com/album/adrenochrome&#10;&#10;Adrenochrome &#10;&#10;&#10;His performance had given me a bad jolt, &#10;For a moment I thought his mind had snapped &#10;That he actually believed he was being attacked by invisible enemies &#10;&#34;As your attorney, I advise you not to worry. &#10;Take a hit out of that little brown bottle on my shaving kit. &#10;That stuff makes pure mescaline seem like ginger beer.&#34; &#10;&#34;What is it?&#34; &#10;&#34;Adrenochrome....you'll go completely crazy if you take too much&#34; &#10;I got the bottle and dipped the head of a paper match in it and licked it.&#10;&#34;Where'd you get this?&#34; &#10;&#34;There's only one source for that stuff &#10;..Adrenaline glands.. &#10;..Of a living human body!&#34; &#10;&#10;(dsgrace) &#10;A head of gems lie behind the emerald glint in my eyes // &#10;I bet guys thought we were extinct like Jedi // &#10;But you'd be out your mind thinkin I'd retired // &#10;Just had to defuse a few bombs while wired // &#10;Still chill with writers and bulk wine buyers // &#10;And we're still lightin fires while you sulk right by us // &#10;But there's no bias when it comes to the art // &#10;With spoken darts leave a smokin hole through your heart // &#10;&#10;(Kronus) &#10;You wanna stir the shit pot? You can lick the ladle // &#10;Type to neck a pint of whiskey then flip the table // &#10;When I say my name's Kane people joke &#34;Where's Able?&#34; // &#10;I strangled him to death with a cordless mic cable // &#10;I'm the little mouse that churned the cream to butter // &#10;Sputter shit grimy like the gack up in your gutter // &#10;The butterfly that fluttered by and caught your attention // &#10;And caused a whirlwind of changes throughout infinite dimensions // &#10;&#10;(Dialect) &#10;The psychoactive effects of adrenochrome may include &#10;Euphoria, confusion, a change in train of thought, &#10;Lack of judgment, poor insight and an inability to concentrate. &#10;&#10;(dsgrace) &#10;From a pair of perpetual piss heads the word spreads // &#10;We set trends venturing back from worlds end // &#10;And taunt the frauds that only damage debutantes // &#10;I flex my lexicon upon Decepticons // &#10;Abusing brews, modify sight views // &#10;Identify another crew to drag the scythe through // &#10;No trophies on the mantel but I don't need to battle // &#10;Cus my 16s crunch like Keane in the tackle // &#10;&#10;(Kronus) &#10;I raise more brows than the rock when I drop shit // &#10;Like a peoples elbow to the heart of hip-hop kids // &#10;Smell what I'm cooking, While I'm frying your loaf // &#10;I'm Leaving you confused with the Adrenochrome dose // &#10;I Move crowds and rock beats without a breather // &#10;Spit lyrics so vivid they give a synesthete a seizure // &#10;Not even a rapper just a cocky Caucasian // &#10;So sorry if my rhymes don't match expectations // &#10;&#10;All lyrics by dsgrace &#38; Kronus &#10;Beats by Kronus"
+    channeltitle "Rusty Shackleford"
+    channelid "UCvRkls6oY2LlmzGhzInVKUA"
     favcount 0
-    viewcount 20036
-    likecount 176
-    commentcount 277
-    duration "PT24M44S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 30
-    name "40"
-    label "UAypfgriizw"
-    step 0
-    date "2020-06-28T16:00:10Z"
-    title "KADAVERFICKER - Adrenochrome Orgy (Official Video)"
-    description "The song &#34;Adrenochrome Orgy&#34; is featured on the album &#34;Kaos Nekros Kosmos&#34;!&#10;To be released on the 7th of August 2020 on Supreme Chaos Records and Rotten Roll Rex. &#10;&#10;Preorder the LP here:&#10;https://scrmetal.de/de/shop/search/scr073/&#10;&#10;Preorder the CD here:&#10;https://rottenrollrex.com/en/kadaverficker-cd-kaos-nekros-kosmos-pre-order-7th-aug-2020&#10;&#10;Join the Kadaverficker Nekro Kvlt on...&#10;Facebook: https://www.facebook.com/Kadaverficker&#10;Bandcamp: https://kadaverficker.bandcamp.com&#10;Instagram: https://www.instagram.com/kdvrfckr&#10;&#10;&#10;CHECK OUT BLANTE ON YOUTUBE:&#10;https://www.youtube.com/channel/UCqz0gNT5_NaJPu89WNo9Ssg&#10;&#10;&#10;&#10;ROTTEN ROLL REX:&#10;Facebook: https://www.facebook.com/rottenrollrex.de&#10;Instagram: https://www.instagram.com/rottenrollrex&#10;Web: www.rottenrollrex.com&#10;&#10;SUPREME CHAOS RECORDS:&#10;Facebook: https://www.facebook.com/scrmetal&#10;Instagram: https://www.instagram.com/scrmetal&#10;Web: https://scrmetal.de/de"
-    channeltitle "KADAVERFICKER TV"
-    channelid "UC-WVEJQQMOK-PXUoTL4IFgA"
-    favcount 0
-    viewcount 10512
-    likecount -1
-    commentcount 118
-    duration "PT2M37S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 2755
+    likecount 49
+    commentcount 16
+    duration "PT3M17S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1666532
+    PERSPECTIVEPROFANITY 0.0759495
+    PERSPECTIVEFLIRTATION 0.43297508
+    PERSPECTIVETHREAT 0.16338244
+    PERSPECTIVETOXICITY 0.059328925
+    PERSPECTIVEINSULT 0.08055558
+    PERSPECTIVEIDENTITYATTACK 0.05256085
+    PERSPECTIVEINFLAMMATORY 0.24355944
+    indegree 1
     cluster 3
   ]
   node
   [
-    id 31
-    name "43"
+    id 42
+    label "sPVfpOB3awU"
+    step 0
+    date "2017-01-13T17:16:54Z"
+    title "Awwen - Adrenochrome"
+    description "Artist - Awwen&#10;Album - Organic Modulation EP&#10;Label - GloOm Music&#10;Country - Spain&#10;Released - 31 Dec 2016&#10;Genre - Electronic&#10;Style - Forest Trance&#10;Buy here - https://gloommusic.bandcamp.com/album/gloomcd01-awwen-organic-modulation-ep&#10;&#10;No Copyright intended, for promotional use only, if anything should be deleted, please contact me and i will remove it!"
+    channeltitle "xpl017"
+    channelid "UCkXwJATLGa-rqWm1iKekhOg"
+    favcount 0
+    viewcount 2910
+    likecount 53
+    commentcount 2
+    duration "PT6M57S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.35945946
+    PERSPECTIVEPROFANITY 0.1666098
+    PERSPECTIVEFLIRTATION 0.48927292
+    PERSPECTIVETHREAT 0.13510358
+    PERSPECTIVETOXICITY 0.013119632
+    PERSPECTIVEINSULT 0.15718442
+    PERSPECTIVEIDENTITYATTACK 0.111622244
+    PERSPECTIVEINFLAMMATORY 0.15544023
+    indegree 0
+    cluster 3
+  ]
+  node
+  [
+    id 43
     label "HiojaPhpZLQ"
     step 0
     date "2021-05-14T07:00:14Z"
@@ -949,54 +882,48 @@ graph
     likecount 181
     commentcount 25
     duration "PT3M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1593233
+    PERSPECTIVEPROFANITY 0.11280322
+    PERSPECTIVEFLIRTATION 0.41367638
+    PERSPECTIVETHREAT 0.12049905
+    PERSPECTIVETOXICITY 0.10031791
+    PERSPECTIVEINSULT 0.14948449
+    PERSPECTIVEIDENTITYATTACK 0.051081434
+    PERSPECTIVEINFLAMMATORY 0.15377714
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 8
   ]
   node
   [
-    id 32
-    name "44"
-    label "aXguCYJqgL8"
+    id 45
+    label "3jNEbuPay_k"
     step 0
-    date "2022-06-20T13:05:15Z"
-    title "Adrenochrome - In Memoriam"
-    description "Like the song?&#10;Follow and Support the artist!&#10;https://adrenochromeoakland.bandcamp.com/&#10;https://facebook.com/Adrenochrome-175010976456330/&#10;--------------------------------------------------------------------------&#10;I receive no financial benefit from these videos. All copyright remains with the artists and labels involved. The material is only used to support the group and promote their music. If the legitimate copyright holder wishes this video withdrawn, please notify me and it will be removed immediately. Thank you and enjoy!"
-    channeltitle "Deaddeadcool"
-    channelid "UCIP3-RXrJI1WbLw-6_a2xbw"
+    date "2013-01-07T01:44:46Z"
+    title "the sisters of mercy - adrenochrome - extend version (rare)"
+    description " "
+    channeltitle "Dj Marcelo Kpta"
+    channelid "UCY96ciyTeGLIy6EsLSK9YHg"
     favcount 0
-    viewcount 197
-    likecount 13
-    commentcount 0
-    duration "PT2M51S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    viewcount 50056
+    likecount 519
+    commentcount 114
+    duration "PT6M27S"
+    sentiment 0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.14915845
+    PERSPECTIVEPROFANITY 0.07744804
+    PERSPECTIVEFLIRTATION 0.46802822
+    PERSPECTIVETHREAT 0.14045408
+    PERSPECTIVETOXICITY 0.04680874
+    PERSPECTIVEINSULT 0.0549311
+    PERSPECTIVEIDENTITYATTACK 0.084440686
+    PERSPECTIVEINFLAMMATORY 0.038981427
+    indegree 8
+    cluster 7
   ]
   node
   [
-    id 33
-    name "46"
+    id 46
     label "5PY7nJe2kxw"
     step 0
     date "2021-06-20T02:00:01Z"
@@ -1009,24 +936,21 @@ graph
     likecount 1258
     commentcount 204
     duration "PT1H33M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15319028
+    PERSPECTIVEPROFANITY 0.098038375
+    PERSPECTIVEFLIRTATION 0.45340106
+    PERSPECTIVETHREAT 0.13692088
+    PERSPECTIVETOXICITY 0.05253629
+    PERSPECTIVEINSULT 0.08863066
+    PERSPECTIVEIDENTITYATTACK 0.12924904
+    PERSPECTIVEINFLAMMATORY 0.07859562
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 1
   ]
   node
   [
-    id 34
-    name "47"
+    id 47
     label "otphsTWroSc"
     step 0
     date "2012-11-27T10:16:59Z"
@@ -1039,54 +963,48 @@ graph
     likecount 57
     commentcount 3
     duration "PT6M11S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.2997756
+    PERSPECTIVEPROFANITY 0.13919984
+    PERSPECTIVEFLIRTATION 0.4935009
+    PERSPECTIVETHREAT 0.13685068
+    PERSPECTIVETOXICITY 0.008364634
+    PERSPECTIVEINSULT 0.14407608
+    PERSPECTIVEIDENTITYATTACK 0.24171253
+    PERSPECTIVEINFLAMMATORY 0.108116016
     indegree 4
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 35
-    name "48"
-    label "Brd_7XjhEWA"
-    step 0
-    date "2013-03-15T05:49:14Z"
-    title "OTEP Adrenochrome Dreams"
-    description "song from Oteps 2007 album The Ascension. No copyright infringement intended, all rights go to Otep. Buy her new album Hydra"
-    channeltitle "OtepShamayaFan"
-    channelid "UCenMPCk-CNUi9Xv0pR1ochw"
-    favcount 0
-    viewcount 5032
-    likecount 35
-    commentcount 5
-    duration "PT6M30S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 36
-    name "50"
+    id 49
+    label "A3q9F5C25co"
+    step 0
+    date "2011-08-22T20:54:10Z"
+    title "Applaud The Impaler - Adrenochrome"
+    description "Sick&#13;&#10;http://www.myspace.com/applaudtheimpaler&#13;&#10;http://www.facebook.com/pages/APPLAUD-THE-IMPALER&#13;&#10;http://applaudtheimpaler.bigcartel.com/"
+    channeltitle "SkateMyKeyboard"
+    channelid "UCMdKKaw5A2VhTE944IjDjOw"
+    favcount 0
+    viewcount 4222
+    likecount 55
+    commentcount 6
+    duration "PT3M29S"
+    sentiment 0.4588
+    PERSPECTIVESEXUALLYEXPLICIT 0.17828849
+    PERSPECTIVEPROFANITY 0.090285964
+    PERSPECTIVEFLIRTATION 0.35891178
+    PERSPECTIVETHREAT 0.098510005
+    PERSPECTIVETOXICITY 0.03753809
+    PERSPECTIVEINSULT 0.07872754
+    PERSPECTIVEIDENTITYATTACK 0.056486193
+    PERSPECTIVEINFLAMMATORY 0.34281957
+    indegree 0
+    cluster 6
+  ]
+  node
+  [
+    id 50
     label "g1n1CyKVdkc"
     step 0
     date "2020-07-09T00:00:11Z"
@@ -1099,24 +1017,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT2M19S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.081079595
+    PERSPECTIVEPROFANITY 0.04216556
+    PERSPECTIVEFLIRTATION 0.36892352
+    PERSPECTIVETHREAT 0.07120473
+    PERSPECTIVETOXICITY 0.07091636
+    PERSPECTIVEINSULT 0.0765866
+    PERSPECTIVEIDENTITYATTACK 0.049336832
+    PERSPECTIVEINFLAMMATORY 0.111183956
     indegree 15
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 6
   ]
   node
   [
-    id 37
-    name "51"
+    id 51
     label "rVUru5Gwagc"
     step 0
     date "2018-06-22T22:08:58Z"
@@ -1129,24 +1044,21 @@ graph
     likecount 19
     commentcount 1
     duration "PT3M35S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.30701983
+    PERSPECTIVEPROFANITY 0.34487015
+    PERSPECTIVEFLIRTATION 0.49406344
+    PERSPECTIVETHREAT 0.27621555
+    PERSPECTIVETOXICITY 0.17518331
+    PERSPECTIVEINSULT 0.44445896
+    PERSPECTIVEIDENTITYATTACK 0.31295687
+    PERSPECTIVEINFLAMMATORY 0.16769236
     indegree 15
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 6
   ]
   node
   [
-    id 38
-    name "52"
+    id 52
     label "KA1dlOm01IQ"
     step 0
     date "2012-03-27T19:56:03Z"
@@ -1159,54 +1071,48 @@ graph
     likecount 693
     commentcount 48
     duration "PT3M4S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.1503227
+    PERSPECTIVEPROFANITY 0.07312054
+    PERSPECTIVEFLIRTATION 0.2934094
+    PERSPECTIVETHREAT 0.073020056
+    PERSPECTIVETOXICITY 0.030327583
+    PERSPECTIVEINSULT 0.08415362
+    PERSPECTIVEIDENTITYATTACK 0.06674264
+    PERSPECTIVEINFLAMMATORY 0.2699915
     indegree 9
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 7
   ]
   node
   [
-    id 39
-    name "53"
-    label "BAGOfliy2NQ"
+    id 54
+    label "ZeSeYbLqCyY"
     step 0
-    date "2021-08-31T15:34:28Z"
-    title "Adrenochrome, 8a. Stair Hole."
-    description "A couple of chancers try their luck on the classic Dorset Deep Water Solo."
-    channeltitle "Making Other Plans"
-    channelid "UCdAiFi7AGc24Gmm8Tmyxetg"
+    date "2018-09-28T03:09:31Z"
+    title "Adrenochrome (live) @ Near Dark Fest Vol 2 Day-1 2018.9.13 at The Golden Bull (Oakland) full set"
+    description "Adrenochrome (Oakland, CA) performing at Day 1 of Near Dark Fest Vol 2, Thursday Sept 13, 2018 at the Golden Bull in Oakland. &#10;Also performing were Rubella Ballet, Kommunity FK (40th anniversary tour), Nox Novacula (SEA), plus Riki &#38; Manfactory (members of Crimson Scarlet)."
+    channeltitle "roseman127"
+    channelid "UCns4PW-j_OSu8iaBs1NpgkQ"
     favcount 0
-    viewcount 1903
-    likecount 34
-    commentcount 10
-    duration "PT7M27S"
+    viewcount 2940
+    likecount 65
+    commentcount 3
+    duration "PT20M13S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1367329
+    PERSPECTIVEPROFANITY 0.095976196
+    PERSPECTIVEFLIRTATION 0.44796443
+    PERSPECTIVETHREAT 0.12811142
+    PERSPECTIVETOXICITY 0.0034881562
+    PERSPECTIVEINSULT 0.06392275
+    PERSPECTIVEIDENTITYATTACK 0.028894287
+    PERSPECTIVEINFLAMMATORY 0.16266137
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 8
   ]
   node
   [
-    id 40
-    name "55"
+    id 55
     label "U9o2bgQGyzY"
     step 0
     date "2020-12-20T10:12:26Z"
@@ -1219,24 +1125,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT3M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 9
   ]
   node
   [
-    id 41
-    name "56"
+    id 56
     label "BhcErtG4pKQ"
     step 0
     date "2008-09-04T03:24:22Z"
@@ -1249,24 +1152,21 @@ graph
     likecount 23
     commentcount 2
     duration "PT9M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20935701
+    PERSPECTIVEPROFANITY 0.13136156
+    PERSPECTIVEFLIRTATION 0.39569128
+    PERSPECTIVETHREAT 0.101833016
+    PERSPECTIVETOXICITY 0.0095794145
+    PERSPECTIVEINSULT 0.1419723
+    PERSPECTIVEIDENTITYATTACK 0.10116532
+    PERSPECTIVEINFLAMMATORY 0.3156113
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 3
   ]
   node
   [
-    id 42
-    name "57"
+    id 57
     label "39fW_MKh_2A"
     step 0
     date "2022-02-13T17:30:10Z"
@@ -1279,54 +1179,48 @@ graph
     likecount 51
     commentcount 12
     duration "PT3M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1487119
+    PERSPECTIVEPROFANITY 0.09648338
+    PERSPECTIVEFLIRTATION 0.38286692
+    PERSPECTIVETHREAT 0.07402286
+    PERSPECTIVETOXICITY 0.09279997
+    PERSPECTIVEINSULT 0.114387475
+    PERSPECTIVEIDENTITYATTACK 0.062987745
+    PERSPECTIVEINFLAMMATORY 0.076468855
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 43
-    name "58"
-    label "v4g6ZWE8_R4"
+    id 59
+    label "eT7Hjwb-5vc"
     step 0
-    date "2022-02-28T02:21:17Z"
-    title "Jellyheadz - Adrenochrome (Original Mix)"
-    description "No copyright intended, for promotional use only! For any issues, please send me a private message and I will remove it in 24/48 hours. &#13;&#10;&#13;&#10;Album: Karman Ligne (2022)&#13;&#10;Label: The 5th Element Records"
-    channeltitle "dizzy lizard"
-    channelid "UCsJcCP8yVxFOsuY9TzXPByg"
+    date "2022-03-09T07:10:39Z"
+    title "Adrenochrome - Schwebebalken"
+    description "Adrenochrome &#8211; It's About...&#10;Label: Not On Label &#8211; none&#10;Format: &#10;CDr, CD-ROM&#10;Country: Germany&#10;Released: 2003&#10;Genre: Electronic&#10;Style: Psy-Trance, Progressive Trance, Ambient"
+    channeltitle "dejanprogtrens"
+    channelid "UCYMuMhIWjl817Bef9S65KhA"
     favcount 0
-    viewcount 186
-    likecount 13
+    viewcount 372
+    likecount 12
     commentcount 0
-    duration "PT7M"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    duration "PT7M29S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22386757
+    PERSPECTIVEPROFANITY 0.14149368
+    PERSPECTIVEFLIRTATION 0.43228617
+    PERSPECTIVETHREAT 0.13914704
+    PERSPECTIVETOXICITY 0.0012147808
+    PERSPECTIVEINSULT 0.121188566
+    PERSPECTIVEIDENTITYATTACK 0.07295751
+    PERSPECTIVEINFLAMMATORY 0.1692067
+    indegree 1
+    cluster 8
   ]
   node
   [
-    id 44
-    name "60"
+    id 60
     label "kV-jXScUpuk"
     step 0
     date "2022-03-23T23:25:35Z"
@@ -1339,54 +1233,48 @@ graph
     likecount 5
     commentcount 0
     duration "PT46S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
-  ]
-  node
-  [
-    id 45
-    name "61"
-    label "jMUYA4ROH2k"
-    step 0
-    date "2019-10-23T10:03:27Z"
-    title "Adrenochrome"
-    description "Provided to YouTube by The Orchard Enterprises&#10;&#10;Adrenochrome &#183; Weathered Statues&#10;&#10;Desolation&#10;&#10;&#8471; 2019 Snappy Little Numbers&#10;&#10;Released on: 2019-10-24&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Weathered Statues - Topic"
-    channelid "UCuvgYhCbXTZV-HtwxLqDnDA"
-    favcount 0
-    viewcount 211
-    likecount 2
-    commentcount 0
-    duration "PT2M55S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 46
-    name "64"
+    id 63
+    label "Y-Yat-F8Ujs"
+    step 0
+    date "2008-04-16T02:12:24Z"
+    title "Sisters of mercy - Teachers  and Adrenochrome"
+    description "I met a man who lost his mind&#13;&#10;In some lost place I had to find&#13;&#10;Follow me the wise man said&#13;&#10;But he walked behind&#13;&#10;&#13;&#10;I walked into a hospital&#13;&#10;Where none were sick and none was well,&#13;&#10;When at night the Sisters left&#13;&#10;I could not walk at all.&#13;&#10;&#13;&#10;Some girls wander by mistake&#13;&#10;Into the mess that scalpals make.&#13;&#10;Are you the teachers of my heart&#13;&#10;We teach old hearts to break.&#13;&#10;&#13;&#10;A met a woman long ago&#13;&#10;Her hair the black the black can go&#13;&#10;Are you the teacher of the heart?&#13;&#10;Soft she whispered, no&#13;&#10;&#13;&#10;I met a girl across the sea,&#13;&#10;Her hair the gold that gold could be.&#13;&#10;Are you the teacher of the heart?&#13;&#10;Yes, but not for thee.&#13;&#10;&#13;&#10;I spent my hatred every place,&#13;&#10;On every work, on every face&#13;&#10;Is my passion perfect,&#13;&#10;No! Do it once again.&#13;&#10;&#13;&#10;Oh teachers are my lessons done?&#13;&#10;I cannot do another one,&#13;&#10;They laughed and laughed and laughed and said,&#13;&#10;Child are your lessons done?&#13;&#10;&#13;&#10;I was handsome, I was strong,&#13;&#10;I knew the words of every song&#13;&#10;Did my singing please you?&#13;&#10;No, the words you sang were wrong &#13;&#10;&#13;&#10;------------------------------------&#13;&#10;&#13;&#10;We&#65533;ll turn away in a passive decision&#13;&#10;We&#65533;ll take the steps through the unmarked door&#13;&#10;A look back for another collision&#13;&#10;But the boys of the spires&#13;&#10;Are boys no more&#13;&#10;&#13;&#10;Not black and red boys&#13;&#10;Frightened by the night&#13;&#10;By the catholic monochrome&#13;&#10;The catholic girls now&#13;&#10;Stark in their dark and white&#13;&#10;Dread in monochrome&#13;&#10;The sisters of mercy&#13;&#10;High tide&#13;&#10;Wide eyed&#13;&#10;Sped on adrenochrome&#13;&#10;For the sisters of mercy&#13;&#10;Filled with&#13;&#10;Panic in their eyes&#13;&#10;Rise&#13;&#10;Dead on adrenochrome&#13;&#10;&#13;&#10;We had the power&#13;&#10;We had the space&#13;&#10;We had a sense of time and place&#13;&#10;We knew the words&#13;&#10;We knew the score&#13;&#10;We knew what we were fighting for&#13;&#10;For the freedom&#13;&#10;The time to choose&#13;&#10;But time to think&#13;&#10;Is time to lose&#13;&#10;The signals clash&#13;&#10;And disappear&#13;&#10;The shade too loud&#13;&#10;And the sound unclear&#13;&#10;For the&#13;&#10;&#13;&#10;High tide&#13;&#10;Wide eyed&#13;&#10;Dread in monochrome&#13;&#10;Denied in spite&#13;&#10;Disliked in monochrome&#13;&#10;Panic in their eyes&#13;&#10;Rise&#13;&#10;Dead and monochrome&#13;&#10;The sisters of mercy&#13;&#10;Spite&#13;&#10;On adrenochrome&#13;&#10;&#13;&#10;The way is clear&#13;&#10;The road is closed&#13;&#10;The damage done&#13;&#10;And the course&#13;&#10;Imposed you"
+    channeltitle "verrybadman"
+    channelid "UCYKzwF5z7K5rJh6Ks2CqMhw"
+    favcount 0
+    viewcount 46381
+    likecount 303
+    commentcount 29
+    duration "PT6M48S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.24343944
+    PERSPECTIVEPROFANITY 0.14320718
+    PERSPECTIVEFLIRTATION 0.44236562
+    PERSPECTIVETHREAT 0.23662826
+    PERSPECTIVETOXICITY 0.03049926
+    PERSPECTIVEINSULT 0.070553504
+    PERSPECTIVEIDENTITYATTACK 0.07294065
+    PERSPECTIVEINFLAMMATORY 0.388344
+    indegree 5
+    cluster 7
+  ]
+  node
+  [
+    id 64
     label "jMc2TDA8Vcg"
     step 0
     date "2018-10-09T22:01:28Z"
@@ -1399,54 +1287,48 @@ graph
     likecount 7
     commentcount 0
     duration "PT46S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 6
   ]
   node
   [
-    id 47
-    name "65"
-    label "nbFBTqAtbTQ"
+    id 66
+    label "p7TRjikdQng"
     step 0
-    date "2018-03-17T07:21:43Z"
-    title "Adrenochrome - Optical Feedback"
-    description "Adrenochrome &#8206;&#8211; Soul Ham / Optical Feedback&#10;Label:&#10;Plastik Park Records &#8206;&#8211; PARK 007&#10;Format:&#10;Vinyl, 12&#34; &#10;Country:&#10;Germany&#10;Released:&#10;2001&#10;Genre:&#10;Electronic&#10;Style:&#10;Tribal, Goa Trance"
-    channeltitle "dejanprogtrens"
-    channelid "UCYMuMhIWjl817Bef9S65KhA"
+    date "2011-08-11T11:24:35Z"
+    title "Nhar Adrenochrome"
+    description "Nhar -- Adrenochrome EP&#10;Label: Plak Records&#10;Catalog#: PLK07&#10;Format: Vinyl, 12&#34;&#10;Country: Switzerland&#10;Released: Oct 2005&#10;Genre: Electronic&#10;Style: Techno, Minimal"
+    channeltitle "beta-v"
+    channelid "UC9UmQ27eTZVoZExbh8U-vWA"
     favcount 0
-    viewcount 861
-    likecount 22
-    commentcount 0
-    duration "PT9M12S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    viewcount 3896
+    likecount 38
+    commentcount 1
+    duration "PT7M55S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.24971642
+    PERSPECTIVEPROFANITY 0.22958332
+    PERSPECTIVEFLIRTATION 0.30020025
+    PERSPECTIVETHREAT 0.17629188
+    PERSPECTIVETOXICITY 0.0038005284
+    PERSPECTIVEINSULT 0.2091924
+    PERSPECTIVEIDENTITYATTACK 0.16990899
+    PERSPECTIVEINFLAMMATORY 0.14614867
+    indegree 2
+    cluster 5
   ]
   node
   [
-    id 48
-    name "67"
+    id 67
     label "5swecHtTpN0"
     step 0
     date "2020-11-25T04:22:51Z"
@@ -1459,24 +1341,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT5M31S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 9
   ]
   node
   [
-    id 49
-    name "68"
+    id 68
     label "wb1O8McS2wg"
     step 0
     date "2021-09-23T02:11:45Z"
@@ -1489,24 +1368,21 @@ graph
     likecount 31
     commentcount 0
     duration "PT4M"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20559585
+    PERSPECTIVEPROFANITY 0.18909006
+    PERSPECTIVEFLIRTATION 0.39246577
+    PERSPECTIVETHREAT 0.55171824
+    PERSPECTIVETOXICITY 0.12824467
+    PERSPECTIVEINSULT 0.1543655
+    PERSPECTIVEIDENTITYATTACK 0.11689636
+    PERSPECTIVEINFLAMMATORY 0.2356177
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 50
-    name "69"
+    id 69
     label "5Cni1EQNPx0"
     step 0
     date "2020-10-26T19:10:46Z"
@@ -1519,24 +1395,21 @@ graph
     likecount 1437
     commentcount 330
     duration "PT5M59S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.13452561
+    PERSPECTIVEPROFANITY 0.20089842
+    PERSPECTIVEFLIRTATION 0.25367653
+    PERSPECTIVETHREAT 0.23444214
+    PERSPECTIVETOXICITY 0.0253489
+    PERSPECTIVEINSULT 0.17247875
+    PERSPECTIVEIDENTITYATTACK 0.2882065
+    PERSPECTIVEINFLAMMATORY 0.17933856
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 3
   ]
   node
   [
-    id 51
-    name "70"
+    id 70
     label "XFUfOA5Jqdg"
     step 0
     date "2021-11-01T20:49:55Z"
@@ -1549,24 +1422,21 @@ graph
     likecount 39
     commentcount 1
     duration "PT9M5S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.7407407
+    PERSPECTIVEPROFANITY 0.9493458
+    PERSPECTIVEFLIRTATION 0.41985407
+    PERSPECTIVETHREAT 0.28211573
+    PERSPECTIVETOXICITY 0.50994116
+    PERSPECTIVEINSULT 0.9091764
+    PERSPECTIVEIDENTITYATTACK 0.58523935
+    PERSPECTIVEINFLAMMATORY 0.44052744
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 1
   ]
   node
   [
-    id 52
-    name "71"
+    id 71
     label "I7FhcSbZkgI"
     step 0
     date "2011-02-12T04:29:52Z"
@@ -1579,24 +1449,21 @@ graph
     likecount 182
     commentcount 53
     duration "PT5M3S"
+    sentiment -0.4404
+    PERSPECTIVESEXUALLYEXPLICIT 0.1290592
+    PERSPECTIVEPROFANITY 0.11390711
+    PERSPECTIVEFLIRTATION 0.35035056
+    PERSPECTIVETHREAT 0.1056929
+    PERSPECTIVETOXICITY 0.16344422
+    PERSPECTIVEINSULT 0.13607287
+    PERSPECTIVEIDENTITYATTACK 0.086435996
+    PERSPECTIVEINFLAMMATORY 0.0020270883
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 5
   ]
   node
   [
-    id 53
-    name "72"
+    id 72
     label "TqrF9gP1NaQ"
     step 0
     date "2016-09-02T19:08:21Z"
@@ -1609,24 +1476,21 @@ graph
     likecount 46
     commentcount 2
     duration "PT7M12S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.1314092
+    PERSPECTIVEPROFANITY 0.07626965
+    PERSPECTIVEFLIRTATION 0.30914482
+    PERSPECTIVETHREAT 0.08130913
+    PERSPECTIVETOXICITY 0.018048171
+    PERSPECTIVEINSULT 0.079879984
+    PERSPECTIVEIDENTITYATTACK 0.080544434
+    PERSPECTIVEINFLAMMATORY 0.15630136
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 7
   ]
   node
   [
-    id 54
-    name "73"
+    id 73
     label "kBrtrFTzzcE"
     step 0
     date "2017-12-22T15:38:31Z"
@@ -1639,24 +1503,21 @@ graph
     likecount 30
     commentcount 3
     duration "PT7M17S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.11882442
+    PERSPECTIVEPROFANITY 0.10240453
+    PERSPECTIVEFLIRTATION 0.32371062
+    PERSPECTIVETHREAT 0.15280771
+    PERSPECTIVETOXICITY 0.028782474
+    PERSPECTIVEINSULT 0.086953275
+    PERSPECTIVEIDENTITYATTACK 0.108063504
+    PERSPECTIVEINFLAMMATORY 0.146951
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 7
   ]
   node
   [
-    id 55
-    name "74"
+    id 74
     label "pe6WD7XFz_s"
     step 0
     date "2020-11-04T00:49:24Z"
@@ -1669,54 +1530,48 @@ graph
     likecount 4
     commentcount 4
     duration "PT20M39S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16609776
+    PERSPECTIVEPROFANITY 0.0810969
+    PERSPECTIVEFLIRTATION 0.5949277
+    PERSPECTIVETHREAT 0.26039344
+    PERSPECTIVETOXICITY 0.043031808
+    PERSPECTIVEINSULT 0.10385686
+    PERSPECTIVEIDENTITYATTACK 0.15973753
+    PERSPECTIVEINFLAMMATORY 0.03508194
     indegree 6
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 9
   ]
   node
   [
-    id 56
-    name "75"
-    label "XWy-UDy8Ub0"
+    id 78
+    label "HgzzK1_Tq00"
     step 0
-    date "2017-03-27T10:49:55Z"
-    title "Mayaxperience  Artyficial - Adrenochrome (CD1)"
-    description "Flow Ev Records presents the 3rd chapter of the successful Fow Event series.&#10;Flow EV Records is proud to present an extended compilation featuring 19 massive tracks compiled by Aioaska and Artyficial. It starts with atmospheric daytime psy around 136 bpm and progresses to a faster psychedelic sound up to 160 bpm for the night on the dancefloor.&#10;&#10;International artists joined forces with uprising national artists to bring your personal soundtrack for the upcoming open air season to play on repeat.&#10;&#10;Whether at the studio or on the dancefloor, Flow Festival and its affiliated label Flow EV Records again prove to have a good sense for parties and music alike.&#10;&#10;records.flow-events.at/"
-    channeltitle "FLOW EV RECORDS"
-    channelid "UCyi-Dwq5hXDLN0NXpkl2kHw"
+    date "2014-06-20T01:11:09Z"
+    title "Adrenochrome Dreams - The Ascension - Otep"
+    description "I do not own the rights to this content."
+    channeltitle "The Playlist Channel"
+    channelid "UCxxfs8exdtEGdQNkhOHJ9TQ"
     favcount 0
-    viewcount 603
-    likecount 7
+    viewcount 484
+    likecount 4
     commentcount 0
-    duration "PT8M7S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    duration "PT6M26S"
+    sentiment 0.4019
+    PERSPECTIVESEXUALLYEXPLICIT 0.20738631
+    PERSPECTIVEPROFANITY 0.08491441
+    PERSPECTIVEFLIRTATION 0.456284
+    PERSPECTIVETHREAT 0.09536876
+    PERSPECTIVETOXICITY 0.011314815
+    PERSPECTIVEINSULT 0.081746094
+    PERSPECTIVEIDENTITYATTACK 0.054459956
+    PERSPECTIVEINFLAMMATORY 0.27317035
+    indegree 18
     cluster 6
   ]
   node
   [
-    id 57
-    name "79"
+    id 79
     label "xFIz0xW5tWA"
     step 0
     date "2022-03-09T07:07:26Z"
@@ -1729,54 +1584,48 @@ graph
     likecount 19
     commentcount 1
     duration "PT7M40S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.18193659
+    PERSPECTIVEPROFANITY 0.10751268
+    PERSPECTIVEFLIRTATION 0.4188148
+    PERSPECTIVETHREAT 0.19437149
+    PERSPECTIVETOXICITY 0.0028807658
+    PERSPECTIVEINSULT 0.0925652
+    PERSPECTIVEIDENTITYATTACK 0.08901883
+    PERSPECTIVEINFLAMMATORY 0.1692067
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 8
   ]
   node
   [
-    id 58
-    name "80"
-    label "xADVK6VieB4"
+    id 81
+    label "20XeaOPzSMo"
     step 0
-    date "2019-05-04T15:57:43Z"
-    title " - Travis Scott Type Beat"
-    description "prod by casso blvck + pluggonthatrack&#10;&#128176; Download (untagged): https://bsta.rs/46fec05&#10;(BUY 2, GET 1 FREE)&#10;&#127925; Download my &#34;XTACY&#34; Sample Kit: https://www.beatstars.com/cassoblvck/sound-kits/xtacy-sample-kit-11794&#10;&#128010; Drumkits: https://www.snareboy.com/&#10;&#128038; Twitter: https://www.twitter.com/cassoblvcc &#10;&#127753; IG: https://www.instagram.com/cassoblvck&#10;&#128248; Snapchat:  http://www.snapchat.com/add/nickel2355&#10;&#10;pluggonthatrack: https://www.youtube.com/channel/UCcwr_PDJieHszP26ANByYtg&#10;&#10;#travisscott&#10;&#10;- - - - - - - - - - - - - - - - - - - - - - - -&#10;Tory Lanez, Tory Lanez Type Beat, free tory lanez type beat, tory lanez 2017, tory lanez type beat 2017, new toronto type beat 2017, free tory lanez instrumental, tory lanez beats free, Drake, Drake 2015, Drake Type Beat, Drake Instrumenta,l Drake New Album, Drake New Song, Drake, Views from the 6, Views from the 6, Drake Type Beat 2017, Drake New Type Beat, OVO Type Beat, OVO 2017, Bryson Tiller 2017, Bryson Tiller Type Beat, Bryson Tiller Instrumental, Hip Hop Type Beatbryson tiller type beat, free bryson tiller type beat 2019, free bryson tiller type beat, bryson tiller type beat 2019, drake type beat, free drake type beat, free pnd type beat, free partynextdoor type beat, ovo type beat, pnd type beat 2019, 2019 drake type beat, 2019 partynextdoor type beat, drake type beat 2019, partynextdoorpartynextdoor type beat, pnd type beat, drake type beat, free drake type beat, free pnd type beat, post malone type beat, free partynextdoor type beat, ovo type beat, free hip hop beat, pnd type beat 2017, 2019 drake type beat, 2019 partynextdoor type beat, drake type beat 2015, partynextdoor, the weeknd type beat, free the weeknd type beat, the weeknd, smooth beat 2017, Big Sean Type Beat, Big Sean, Sean Type Beat, Big Sean 2017, Free Big Sean Type Beat, Big sean type beat 2019, beat sean 2017, big sean instrumental, big sean type instrumental, schoolboy q crash talk, schoolboy q crash talk type beat, 21 savage type beat 2019&#10;&#10;Free Drake Views Type Beat&#10;&#10;Free Partynextdoor Type Beat 2017&#10;&#10;Free Partynextdoor instrumental&#10;&#10;FREE J. Cole Type Beat&#10;&#10;J. Cole Type Beat&#10;&#10;Future Type Beat&#10;&#10;Bryson Tiller Type Beat&#10;&#10;Drake Type Beat"
-    channeltitle "CASSO BLVCK"
-    channelid "UCcHXw3FuBWnlDS4S-YIHHXg"
+    date "2021-11-13T22:00:00Z"
+    title "MONSTERS INC PREDICTED ADRENOCHROME? (PIZZA GATE)"
+    description "Did Monsters Inc predict the Adrenochrome &#38; Pizza Gate conspiracy???&#10;&#10;Clip from Episode 46 https://youtu.be/FMPTSJ4G-Ak&#10;&#10;GET OUR COFFEE HERE! - http://www.kramoda.com&#10;&#10;GET MERCH HERE! - https://www.fanjoy.co/zaneandheath&#10;&#10;Business email: unfiltered@28thave.com &#10;&#10;Email us with any concerns, questions, and crazy stories here! - zaneandheathunfiltered@gmail.com&#10;&#10;SUBSCRIBE TO OUR CHANNELS:&#10;Zane - http://www.youtube.com/zanehijazi&#10;Heath - http://www.youtube.com/heathhussar&#10;&#10;FOLLOW US ON INSTAGRAM AND TWITTER:&#10;Instagram:&#10;Zane - http://www.instagram.com/zane&#10;Heath - http://www.instagram.com/heathhussar&#10;Mariah - http://www.instagram.com/mariahamato&#10;Matt - http://www.instagram.com/mattrking&#10;&#10;Twitter:&#10;Zane - http://www.twitter.com/zane&#10;Heath - http://www.twitter.com/heathhussar&#10;Mariah - http://www.twitter.com/mariahamato&#10;Matt - http://www.twitter.com/mattrking"
+    channeltitle "Zane and Heath: UNFILTERED Highlights"
+    channelid "UC0gTgIEGiV5gvE2vN8cTS1g"
     favcount 0
-    viewcount 3870
-    likecount 144
-    commentcount 27
-    duration "PT3M37S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    viewcount 7145
+    likecount 230
+    commentcount 13
+    duration "PT7M22S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.10452894
+    PERSPECTIVEPROFANITY 0.31168422
+    PERSPECTIVEFLIRTATION 0.36452538
+    PERSPECTIVETHREAT 0.1934118
+    PERSPECTIVETOXICITY 0.16035037
+    PERSPECTIVEINSULT 0.6099004
+    PERSPECTIVEIDENTITYATTACK 0.2685793
+    PERSPECTIVEINFLAMMATORY 0.08826671
+    indegree 2
+    cluster 1
   ]
   node
   [
-    id 59
-    name "82"
+    id 82
     label "Yd5lAnDMY1w"
     step 0
     date "2021-10-21T02:48:46Z"
@@ -1789,54 +1638,48 @@ graph
     likecount 4
     commentcount 0
     duration "PT16S"
+    sentiment -0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.36829776
+    PERSPECTIVEPROFANITY 0.24332778
+    PERSPECTIVEFLIRTATION 0.4795318
+    PERSPECTIVETHREAT 0.4705686
+    PERSPECTIVETOXICITY 0.21036349
+    PERSPECTIVEINSULT 0.23434515
+    PERSPECTIVEIDENTITYATTACK 0.20176671
+    PERSPECTIVEINFLAMMATORY 0.36475313
     indegree 4
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    cluster 6
+  ]
+  node
+  [
+    id 84
+    label "x7oYn8AeqeM"
+    step 0
+    date "2020-08-16T12:34:30Z"
+    title "Fear And Loathing In Las Vegas - Adrenochrome Scene HD"
+    description "CLIP DESCRIPTION: Hallucinating on acid, Duke (Johnny Depp) checks into the hotel with Dr. Gonzo (Benicio Del Toro). FILM DESCRIPTION: Terry Gilliam (Brazil, Twelve Monkeys, The Fisher King) directed this colorful, stylized, pseudo-psychedelic $21-million adaptation of the 1971 Hunter S. Thompson classic, Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream, about stoned sportswriter Raoul Duke, Thompson's alter ego, on a wild drug-crazed road trip, a paranoid plummet into the belly of the beast, with his pal, lawyer Oscar Zeta Acosta. Originally serialized in Rolling Stone (November 1971), the book catapulted Thompson headfirst toward the Kerouac-Mailer-Capote pantheon and jump-started the entire movement of &#34;gonzo journalism.&#34; Carrying a suitcase of drugs, Raoul Duke (Johnny Depp with shaved pate) and his attorney Dr. Gonzo (Benicio Del Toro) drive a red convertible across the Mojave from L.A. to Vegas, where Duke has an assignment to cover the Mint 400 desert motorcycle race. As the drugs kick in, Duke ventures into voiceover, filling in the blank spots and narrative gaps. &#34;This is not a good town for psychedelic drugs,&#34; says Duke, but even so, they consume vast quantities, eventually escalating to ether. Duke notes that with ether &#34;you can actually watch yourself behaving this terrible way, but you can't control it.&#34; The two trash their hotel room, and Gonzo goes back to L.A. Thinking the hotel room holocaust will lead to an arrest, Duke begins a drive back to L.A., but after an odd encounter with a highway patrolman (Gary Busey) and a telephone conversation with Gonzo, he returns to Vegas to cover the District Attorney Convention on Narcotics and Dangerous Drugs in the glitzy Flamingo Hotel. This time the drugged-out duo trash their Flamingo room. The crazed carnival atmosphere segues into a carney casino, Bazooko's Circus, where a barker (Penn Jillette) spiels amid aerialists, clowns, and a rotating carousel bar. Gonzo worries over runaway teen Lucy (Christina Ricci), who paints portraits of Barbra Streisand. Soon the hallucinations begin: Duke sees Gonzo transmogrify into a demon with breasts on its back, and an acid vision of a Vegas bar features large legit lounge lizards (courtesy of monster makeup man Rob Bottin). Flashbacks depicting Duke's intro to the drug scene jump back to love-Haight relationships in San Francisco's Summer of Love. Cameos and guest stars include Mark Harmon, Cameron Diaz, Flea, Lyle Lovett, Harry Dean Stanton, Ellen Barkin, Tobey Maguire, and Hunter S. Thompson himself. The film features a Geffen Records soundtrack mixing rock of the period with Vegas lounge tunes. Over the years, various script adaptations came and went as did numerous talents; people connected with past efforts to film Thompson's book include Martin Scorsese, Jack Nicholson, Dan Aykroyd, John Belushi, and writer-director Alex Cox. Shown in competition at the 1998 Cannes Film Festival. &#10;&#10;CREDITS: TM &#38; &#169; Universal (1998) Cast: Johnny Depp, Benicio Del Toro Director: Terry Gilliam Producers: Harold Bronson, Patrick Cassavetti, Richard Foos, John Jergens, Laila Nabulsi, Stephen Nemeth, Elliot Lewis Rosenblatt Screenwriters: Hunter S. Thompson, Terry Gilliam, Tony Grisoni, Tod Davies, Alex Cox"
+    channeltitle "Leonidas"
+    channelid "UCwUmWT9bI_DY65V32yIlMsQ"
+    favcount 0
+    viewcount 74623
+    likecount 615
+    commentcount 330
+    duration "PT5M20S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.1563166
+    PERSPECTIVEPROFANITY 0.13430342
+    PERSPECTIVEFLIRTATION 0.41961893
+    PERSPECTIVETHREAT 0.14608718
+    PERSPECTIVETOXICITY 0.10828095
+    PERSPECTIVEINSULT 0.18497992
+    PERSPECTIVEIDENTITYATTACK 0.08426741
+    PERSPECTIVEINFLAMMATORY 0.073318996
+    indegree 0
     cluster 1
   ]
   node
   [
-    id 60
-    name "83"
-    label "zeWpnPKwltU"
-    step 0
-    date "2020-09-15T17:46:54Z"
-    title "Adrenochrome - Raumsimulation"
-    description "Non-Toxic Frequencies [FLR0104] | &#169; Flow Records 2001 | &#10;&#10;Info:&#10;https://www.discogs.com/artist/163803-Adrenochrome&#10;https://www.discogs.com/label/7818-Flow-Records"
-    channeltitle "Karma Flage"
-    channelid "UCfTfQ6uUHmbfy_ZDn_oiT0A"
-    favcount 0
-    viewcount 217
-    likecount 11
-    commentcount 1
-    duration "PT7M40S"
-    indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
-  ]
-  node
-  [
-    id 61
-    name "85"
+    id 85
     label "KndylQiVD_A"
     step 0
     date "2016-11-28T04:44:55Z"
@@ -1849,24 +1692,21 @@ graph
     likecount 153
     commentcount 75
     duration "PT2M10S"
+    sentiment -0.6908
+    PERSPECTIVESEXUALLYEXPLICIT 0.08595912
+    PERSPECTIVEPROFANITY 0.20564279
+    PERSPECTIVEFLIRTATION 0.35118222
+    PERSPECTIVETHREAT 0.24789092
+    PERSPECTIVETOXICITY 0.1464265
+    PERSPECTIVEINSULT 0.2580704
+    PERSPECTIVEIDENTITYATTACK 0.20451461
+    PERSPECTIVEINFLAMMATORY 0.011775047
     indegree 16
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 62
-    name "86"
+    id 86
     label "xTh8nztslRk"
     step 0
     date "2021-07-14T03:46:02Z"
@@ -1879,24 +1719,21 @@ graph
     likecount 65
     commentcount 4
     duration "PT1M59S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17878535
+    PERSPECTIVEPROFANITY 0.10052791
+    PERSPECTIVEFLIRTATION 0.30862632
+    PERSPECTIVETHREAT 0.09614206
+    PERSPECTIVETOXICITY 0.02124131
+    PERSPECTIVEINSULT 0.101780474
+    PERSPECTIVEIDENTITYATTACK 0.056328073
+    PERSPECTIVEINFLAMMATORY 0.089318775
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 1
   ]
   node
   [
-    id 63
-    name "87"
+    id 87
     label "37ERC3ucKBQ"
     step 0
     date "2022-03-14T19:41:27Z"
@@ -1909,24 +1746,21 @@ graph
     likecount 7
     commentcount 0
     duration "PT1M"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.078372724
+    PERSPECTIVEPROFANITY 0.03976697
+    PERSPECTIVEFLIRTATION 0.33186406
+    PERSPECTIVETHREAT 0.13235678
+    PERSPECTIVETOXICITY 0.015757442
+    PERSPECTIVEINSULT 0.0379179
+    PERSPECTIVEIDENTITYATTACK 0.03168729
+    PERSPECTIVEINFLAMMATORY 0.16123225
     indegree 45
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 64
-    name "88"
+    id 88
     label "_tXlFPxLzDQ"
     step 0
     date "2022-06-07T21:30:33Z"
@@ -1939,24 +1773,21 @@ graph
     likecount 6
     commentcount 2
     duration "PT5M32S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22130783
+    PERSPECTIVEPROFANITY 0.15607211
+    PERSPECTIVEFLIRTATION 0.48267555
+    PERSPECTIVETHREAT 0.4520251
+    PERSPECTIVETOXICITY 0.0825038
+    PERSPECTIVEINSULT 0.20490186
+    PERSPECTIVEIDENTITYATTACK 0.1623011
+    PERSPECTIVEINFLAMMATORY 0.092113525
     indegree 4
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 3
   ]
   node
   [
-    id 65
-    name "89"
+    id 89
     label "jiucnGbVVo8"
     step 0
     date "2018-01-19T23:47:41Z"
@@ -1969,24 +1800,21 @@ graph
     likecount 46
     commentcount 3
     duration "PT3M20S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.09797861
+    PERSPECTIVEPROFANITY 0.030725243
+    PERSPECTIVEFLIRTATION 0.2616615
+    PERSPECTIVETHREAT 0.04227903
+    PERSPECTIVETOXICITY 0.011592479
+    PERSPECTIVEINSULT 0.027863128
+    PERSPECTIVEIDENTITYATTACK 0.017616445
+    PERSPECTIVEINFLAMMATORY 0.26335707
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 7
   ]
   node
   [
-    id 66
-    name "90"
+    id 90
     label "Aq8I63bcS9k"
     step 0
     date "2016-09-07T15:23:33Z"
@@ -1999,24 +1827,21 @@ graph
     likecount 170
     commentcount 21
     duration "PT7M16S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.09276992
+    PERSPECTIVEPROFANITY 0.09746228
+    PERSPECTIVEFLIRTATION 0.3612726
+    PERSPECTIVETHREAT 0.11689788
+    PERSPECTIVETOXICITY 0.054534122
+    PERSPECTIVEINSULT 0.11794048
+    PERSPECTIVEIDENTITYATTACK 0.111895405
+    PERSPECTIVEINFLAMMATORY 0.00054144877
     indegree 6
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 7
   ]
   node
   [
-    id 67
-    name "91"
+    id 91
     label "vYSRTMHdXo8"
     step 0
     date "2021-04-10T18:51:57Z"
@@ -2029,24 +1854,21 @@ graph
     likecount 10
     commentcount 8
     duration "PT2M44S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1718524
+    PERSPECTIVEPROFANITY 0.09596334
+    PERSPECTIVEFLIRTATION 0.4747983
+    PERSPECTIVETHREAT 0.105318084
+    PERSPECTIVETOXICITY 0.0019262952
+    PERSPECTIVEINSULT 0.09215573
+    PERSPECTIVEIDENTITYATTACK 0.069582246
+    PERSPECTIVEINFLAMMATORY 0.1979492
     indegree 14
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 6
   ]
   node
   [
-    id 68
-    name "92"
+    id 92
     label "ZeFHR19k-RY"
     step 0
     date "2022-03-29T14:13:01Z"
@@ -2059,24 +1881,21 @@ graph
     likecount 115
     commentcount 17
     duration "PT4M55S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 1
   ]
   node
   [
-    id 69
-    name "93"
+    id 93
     label "psrtppZUuPM"
     step 0
     date "2010-08-11T20:17:02Z"
@@ -2089,84 +1908,75 @@ graph
     likecount 483
     commentcount 27
     duration "PT6M50S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.090156935
+    PERSPECTIVEPROFANITY 0.0038971088
+    PERSPECTIVEFLIRTATION 0.26897627
+    PERSPECTIVETHREAT 0.007657206
+    PERSPECTIVETOXICITY 0.013952625
+    PERSPECTIVEINSULT 0.0033653767
+    PERSPECTIVEIDENTITYATTACK 0.0015230493
+    PERSPECTIVEINFLAMMATORY 0.18417962
     indegree 7
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 7
   ]
   node
   [
-    id 70
-    name "94"
-    label "gcsl6866niU"
+    id 95
+    label "uQEuotJzx50"
     step 0
-    date "2022-07-08T14:56:55Z"
-    title "Reaction To Joe Rogan REFUSING To Host Trump On His Podcast"
-    description "Patrick Bet-David Podcast Episode 169. In this short clip, Rick Sanchez, Vincent Oshana, Patrick Bet-David, and Adam Sosnick discuss Joe Rogan's claim that he will never interview Donald Trump on his podcast.  &#10;&#10;Watch the full podcast: https://www.youtube.com/watch?v=aB4l9J-Fvr4&#38;t=5575s&#10;&#10;Subscribe for weekly videos: https://bit.ly/3IOBnQU&#10; &#10;To reach the Valuetainment team you can email: booking@valuetainment.com  &#10;&#10;#pbdpodcast  #valuetainmentshortclips"
-    channeltitle "Valuetainment"
-    channelid "UCIHdDJ0tjn_3j-FS7s_X1kQ"
+    date "2022-03-26T18:28:05Z"
+    title "ADRENOCHROME - Pierce Me"
+    description "Lyric video for Adrenochrome - Pierce Me &#10;&#10;Adrenochrome is an essence, a state of mind, a choice, to play and create exciting and passionate music.&#10;In early 2019 Alfio Caracciolo (Drums) called Mattia Maniezzo (Bass) and Simone Romanato (Voice and guitar) to let them hear a few tracks he made. After a few listening to his tracks, the very next month they joined the band, they rolled up their sleeves and they became: Adrenochrome.&#10;&#10;Influenced by Queen, The Darkness, Muse and many other,&#10;they eat and drink music every moment they breathe,  because for them, Rock 'n' roll is not dead.&#10;&#10;PLEASE SUBSCRIBE TO STAY UPDATED&#10;&#10;FOLLOW US ON: &#10;https://www.instagram.com/adrenochromeofficialband/&#10;https://open.spotify.com/album/5ensJ3N1cG2IRviQRntnfK&#10;http://itunes.apple.com/album/id1612417510?ls=1&#38;app=itunes&#10;http://itunes.apple.com/album/id/1612417510&#10;&#10;LYRICS&#10;&#10;Breaking times, to get back to the past&#10;I feel the faith, to go ahead and look at myself, &#10;through the mirror, through the mirror,&#10;through the mirror.&#10;&#10;Chains to my ankles, constrict my feet on the ground&#10;When the bad news comes, I feel like immaterial&#10;Immaterial.&#10;&#10;Pierce me, with your words&#10;do as if I were a ghost.&#10;Pierce me, with your words&#10;do as if I were a ghost.&#10;&#10;They cut me down,&#10;I don&#8217;t feel in need of nothing else.&#10;I&#8217;m feeling satisfied ,&#10;Because I got you inside myself, inside myself.&#10;&#10;Pierce me, with your words&#10;do as if I were a ghost.&#10;Pierce me, with your words&#10;do as if I were a ghost.&#10;&#10;Immaterial words, I&#8217;m bulletproof.&#10;Immaterial presence, I&#8217;d like to see you soon. &#10;No, you can&#8217;t hit me, because I&#8217;m awesome.&#10;Because I feel, immaterial.&#10;&#10;Pierce me, with your words&#10;do as if I were a ghost.&#10;Pierce me, with your words&#10;do as if I were a ghost."
+    channeltitle "Adrenochrome"
+    channelid "UC1OYUKgXXwAKRrYUs8QiNDg"
     favcount 0
-    viewcount 292924
-    likecount 7493
-    commentcount 5476
-    duration "PT9M46S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
-  ]
-  node
-  [
-    id 71
-    name "96"
-    label "N24fbeXEilw"
-    step 0
-    date "2014-06-25T17:19:23Z"
-    title "Para Halu - Adrenochrome (Onkel Dunkel Remix)"
-    description "Subscribe: http://bit.ly/SubscribeParvati&#10;Get it: http://bit.ly/2cZ9rN0&#10;Para Halu - Adrenochrome (Onkel Dunkel Remix) from the album Brainzcrew 3, released on 2014-06-23&#10;&#10;Parvati Records is proud to present the final chapter of the BrainZcrew trilogy, assembled again, as for the previous two, by Label-DJ Ilse. Brainzcrew 3, the 27th cd released by the Danish Label, will take the listener through an exciting and twisted psychedelic trip thanks to brand new tracks written by old and new composer of the Parvati Artist&#180;s Group. The v/a opens with a smooth remix of a Para Halu tune, worked out by Onkel Dunkel who also have done the mastering of the whole compilation, remix which paves the way for a proper audio enjoyment: scrolling down the tracklist we find two exciting collaboration tracks by Jahbo &#38; Red Eye Jedi and by Ectogasmics and Claw followed by the groovy rhythms of Farebi Jalebi and Gu, the twisted psychedelia of Zoobivore, the atmospheric soundscapes of Archaic and Confo and to close this v/a properly we have a fresh remix by Atriohm of his old track &#8220;Rings Of Fairy&#8221;. All tracks have been tested on dancefloors and we hope that this v/a will follow the listeners through the summer festival season 2014 !!!&#10;&#10;Follow us:&#10;Website: http://parvati-records.com/&#10;Facebook: https://www.facebook.com/ParvatiRecords&#10;Soundcloud: https://soundcloud.com/p-30&#10;Beatport: https://www.beatport.com/label/parvati-records/23616&#10;&#10;Parvati Records is an independent record label started in Denmark during the summer 2000 by Dj Giuseppe with the wish to contribute actively to the growth of the Psychedelic-trance scene. our goal is to discover and present quality music to party people all around the world.&#10;&#10;our artists include Giuseppe, Jahbo, Zoolog, Arjuna, Onkel Dunkel, Atriohm, Encephalopaticys, Farebi Jalebi, Archaic, ECT, Mubali,Ulvae, Petran and many more.&#10;&#10;Our V/A serieses include Psychedelically Yours, Psy Stories, Parvatrip etc."
-    channeltitle "Parvati Records"
-    channelid "UCNzIzprSyTizN24d608skDg"
-    favcount 0
-    viewcount 12868
-    likecount 131
-    commentcount 7
-    duration "PT6M55S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 198
+    likecount 7
+    commentcount 2
+    duration "PT3M37S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.2220344
+    PERSPECTIVEPROFANITY 0.27885458
+    PERSPECTIVEFLIRTATION 0.45786378
+    PERSPECTIVETHREAT 0.22811085
+    PERSPECTIVETOXICITY 0.0076010567
+    PERSPECTIVEINSULT 0.1936379
+    PERSPECTIVEIDENTITYATTACK 0.21545584
+    PERSPECTIVEINFLAMMATORY 0.18132791
+    indegree 1
     cluster 3
   ]
   node
   [
-    id 72
-    name "98"
+    id 97
+    label "-J4jHennAFM"
+    step 0
+    date "2020-08-08T20:19:52Z"
+    title "ADRENOCHROME VE PEDOFTIR..."
+    description "V&#304;DEONUN UZUN VERS&#304;YONU YOUTUBE TARAFINDAN KALDIRILDI. &#10;&#10;&#304;T&#304;RAZLARIMIZ REDDED&#304;LD&#304;.&#10;&#10;V&#304;DEOMUZUN UZUN VERS&#304;YONUNA FACEBOOK SAYFAMIZDAN ULA&#350;AB&#304;L&#304;RS&#304;N&#304;Z...&#10;&#10;https://www.facebook.com/kitaptayazmaz&#10;&#10;&#10;ABD'nin &#246;nde gelen online mobilya ma&#287;azas&#305; Wayfair'&#305;n &#231;ocuk ka&#231;ak&#231;&#305;l&#305;&#287;&#305; yapt&#305;&#287;&#305;na dair iddialarla birlikte kimyasal bir bile&#351;ik olan &#34;Adrenochrome&#34; (Adrenokrom) da g&#252;ndeme geldi. Sosyal medyada yer alan iddialara g&#246;re sadece &#231;ocuklar&#305;n beyinlerinde &#252;retilen bu maddeyi elde etmek i&#231;in, k&#252;&#231;&#252;k &#231;ocuklar ka&#231;&#305;r&#305;larak &#246;ld&#252;r&#252;l&#252;yor. Adrenochrome, milyarlarca dolar de&#287;erinde d&#252;nyan&#305;n en g&#252;&#231;l&#252; uyu&#351;turucusu ve adrenalin t&#252;revi bir ila&#231; olarak anlat&#305;l&#305;yor. Oysa bir uyu&#351;turucu dahi olmayan adrenochrome bir sentez olarak mevcut ve yasal olarak da sat&#305;l&#305;yor.&#10;&#10;&#10;&#9658;&#9658; &#304;lginizi &#231;ekebilecek benzer videolar;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Kay&#305;p Malezya U&#231;a&#287;&#305; ve Uranyum ; &#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;https://www.youtube.com/watch?v=kbOO5...&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Neden Mutlu Olam&#305;yoruz?&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;https://www.youtube.com/watch?v=vrqJo...&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#199;in 51.B&#246;lge&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;https://www.youtube.com/watch?v=WZ1-Q...&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;~&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;M&#252;zikler&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Kevin MacLeod (incompetech.com)&#13;&#10;&#13;&#10;Licensed under Creative Commons: By Attribution 3.0 License&#13;&#10;&#13;&#10;http://creativecommons.org/licenses/b...&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Attribution 4.0 International (CC BY 4.0)&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;FUAR KULLANIMI TEL&#304;F HAKKI SORUMLUSU&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;* Telif Hakk&#305; Yasal Uyar&#305; 1976 Telif Hakk&#305; Yasas&#305;'n&#305;n 107. B&#246;l&#252;m&#252; uyar&#305;nca, ele&#351;tiri, yorumlama, habercilik, &#246;&#287;retim, burs ve ara&#351;t&#305;rma gibi ama&#231;larla &#34;adil kullan&#305;m&#34; i&#231;in &#246;denek verilir. Adil kullan&#305;m, ba&#351;ka t&#252;rl&#252; hak ihlalinde bulunabilecek telif hakk&#305; stat&#252;s&#252; taraf&#305;ndan izin verilen bir kullan&#305;md&#305;r. K&#226;r amac&#305; g&#252;tmeyen, e&#287;itici veya ki&#351;isel kullan&#305;m dengeyi adil kullan&#305;m lehine ipucu verir.&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;1) Bu video orijinal eserler &#252;zerinde olumsuz bir etkiye sahip de&#287;ildir (Asl&#305;nda onlar i&#231;in olumlu olur)&#13;&#10;&#13;&#10;2) Bu video ayn&#305; zamanda &#246;&#287;retim ama&#231;l&#305;d&#305;r.&#13;&#10;&#13;&#10;3) Do&#287;ada d&#246;n&#252;&#351;t&#252;r&#252;c&#252;d&#252;r.&#13;&#10;&#13;&#10;4) Gerekli yerlerde noktaya ula&#351;mak i&#231;in sadece bit ve video par&#231;alar&#305; kulland&#305;m.&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Video &#214;nerileri, bu video kliplerin haklar&#305;na sahip de&#287;ildir. Adil kullan&#305;ma uygun olarak, ba&#351;kalar&#305;n&#305; e&#287;itmek ve ilham vermek maksad&#305;yla yeniden kullan&#305;lm&#305;&#351;t&#305;r. Ancak, herhangi bir i&#231;erik sahibi resimleri kald&#305;r&#305;lmas&#305;n&#305; istiyorsa, l&#252;tfen kitaptayazmaz@gmail.com adresinden e-posta ile bize ula&#351;&#305;n.&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;~&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Kitaptayazmaz, Pop&#252;ler bilim, Teknoloji, Tarih, Diplomasi, Sanat, Evren ve Uzay ile &#231;&#246;z&#252;lememi&#351; gizemli vakalar&#305;n anlat&#305;laca&#287;&#305; YouTube kanal&#305;d&#305;r. Kitaptayazmaz yap&#305;lan bilimsel ara&#351;t&#305;rmalar&#305;n derlemelerini, kendi ara&#351;t&#305;rma ekibi ile de yaz&#305;l&#305; kaynaklarda yer almayan  bilgilerle ilgi &#231;ekici analizler sunar. &#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;~&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Videolar&#305;n devam&#305; i&#231;in be&#287;enmeyi unutmay&#305;n !&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;~&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Yeni videolar&#305; ka&#231;&#305;rmamak i&#231;in https://www.youtube.com/channel/UCfIO... t&#305;klayarak abone olabilirsiniz !&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;~&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;Sosyal medyadan takip edin!&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;- Web : http://www.kitaptayazmaz.com/&#13;&#10;&#13;&#10;- Instagram : https://www.instagram.com/kitaptayazm...&#13;&#10;&#13;&#10;- Facebook : https://www.facebook.com/kitaptayazmaz/&#13;&#10;&#13;&#10;- Twitter : https://twitter.com/kitaptayazmaz"
+    channeltitle "kitaptayazmaz"
+    channelid "UCfIOP1Mr4v_yTSWmCuVxoRQ"
+    favcount 0
+    viewcount 14477
+    likecount 381
+    commentcount 66
+    duration "PT1M51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.367193
+    PERSPECTIVEPROFANITY 0.36010525
+    PERSPECTIVEFLIRTATION 0.536154
+    PERSPECTIVETHREAT 0.33166376
+    PERSPECTIVETOXICITY 0.355017
+    PERSPECTIVEINSULT 0.35823336
+    PERSPECTIVEIDENTITYATTACK 0.2794209
+    PERSPECTIVEINFLAMMATORY 0.06320341
+    indegree 2
+    cluster 10
+  ]
+  node
+  [
+    id 98
     label "0mw0Li3OmAE"
     step 0
     date "2021-07-18T04:15:18Z"
@@ -2179,24 +1989,21 @@ graph
     likecount 6
     commentcount 1
     duration "PT3M26S"
+    sentiment 0.5719
+    PERSPECTIVESEXUALLYEXPLICIT 0.3988786
+    PERSPECTIVEPROFANITY 0.22782907
+    PERSPECTIVEFLIRTATION 0.6785098
+    PERSPECTIVETHREAT 0.30841374
+    PERSPECTIVETOXICITY 0.045091953
+    PERSPECTIVEINSULT 0.22809818
+    PERSPECTIVEIDENTITYATTACK 0.21065578
+    PERSPECTIVEINFLAMMATORY 0.12747875
     indegree 11
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 3
   ]
   node
   [
-    id 73
-    name "99"
+    id 99
     label "RjfM01iX_0I"
     step 0
     date "2022-04-07T06:22:40Z"
@@ -2209,24 +2016,21 @@ graph
     likecount -1
     commentcount -1
     duration "PT51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1897207
+    PERSPECTIVEPROFANITY 0.3041045
+    PERSPECTIVEFLIRTATION 0.32756883
+    PERSPECTIVETHREAT 0.3129571
+    PERSPECTIVETOXICITY 0.023117077
+    PERSPECTIVEINSULT 0.24724296
+    PERSPECTIVEIDENTITYATTACK 0.3947648
+    PERSPECTIVEINFLAMMATORY 0.09621838
     indegree 33
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 74
-    name "100"
+    id 100
     label "3kDmqYxgjSk"
     step 0
     date "2020-02-22T21:17:31Z"
@@ -2239,24 +2043,21 @@ graph
     likecount 2
     commentcount 0
     duration "PT6M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 75
-    name "101"
+    id 101
     label "vIljE2K3h40"
     step 0
     date "2019-04-03T16:04:34Z"
@@ -2269,24 +2070,21 @@ graph
     likecount 701
     commentcount 331
     duration "PT2M59S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.14467189
+    PERSPECTIVEPROFANITY 0.060260646
+    PERSPECTIVEFLIRTATION 0.32249382
+    PERSPECTIVETHREAT 0.08221884
+    PERSPECTIVETOXICITY 0.037023053
+    PERSPECTIVEINSULT 0.054673534
+    PERSPECTIVEIDENTITYATTACK 0.056642726
+    PERSPECTIVEINFLAMMATORY 0.26910865
     indegree 10
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 7
   ]
   node
   [
-    id 76
-    name "102"
+    id 102
     label "bdfPanvCn1o"
     step 0
     date "2021-06-30T21:00:06Z"
@@ -2299,84 +2097,75 @@ graph
     likecount 58410
     commentcount 5076
     duration "PT11M32S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17213765
+    PERSPECTIVEPROFANITY 0.22574642
+    PERSPECTIVEFLIRTATION 0.38189033
+    PERSPECTIVETHREAT 0.21990158
+    PERSPECTIVETOXICITY 0.0471521
+    PERSPECTIVEINSULT 0.17056634
+    PERSPECTIVEIDENTITYATTACK 0.20304517
+    PERSPECTIVEINFLAMMATORY 0.023070913
     indegree 23
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
-  ]
-  node
-  [
-    id 77
-    name "103"
-    label "_-qgdijctPk"
-    step 0
-    date "2022-07-09T12:00:19Z"
-    title "Top 10 Things You Missed in Thor Love and Thunder"
-    description "Only Heimdall could have spotted all of these epic easter eggs! For this list, we&#8217;ll be looking at the best callbacks, comic references and cool details from the god of thunder&#8217;s electrifying fourth film. Our countdown includes The Jean-Claude Van Damme Reference Wasn&#8217;t Just a Gag, Jane Parodies a Scene from &#8220;Interstellar&#8221;, &#8220;Love and Thunder&#8221; Features Tons of Hemsworths, and more! What was your favorite scene in &#8220;Love and Thunder&#8221;? And would you eat at the Infinity Conez ice cream shop that just opened in New Asgard? Let us know in the comments!&#10;&#10;Watch more great Marvel videos here: &#13;&#10;Top 10 Best Superhero Team Ups in the MCU: https://youtu.be/rA-xtVRgu5o  &#13;&#10;Top 10 MCU Characters with the Coolest Superpowers: https://youtu.be/dyg7OLas0Mo  &#13;&#10;Every MCU Movie Ranked: https://youtu.be/8exIAuQTokM  &#13;&#10;&#10;Test your Trivia Power!&#10;https://www.watchmojo.com/play/id/55013&#10;&#10;Have Your Idea Become A Video!&#10;https://wmojo.com/suggest&#10;&#10;Subscribe for more great content!&#10;https://wmojo.com/watchmojo-subscribe&#10;&#10;Visit WatchMojo Club for Great Deals!&#10;https://wmojo.com/WatchMojoClub&#10;&#10;Your trusted authority for Top 10 lists, reviews, tips and tricks, biographies, origins, and entertainment news on Film, TV, Video Games, Comics, Celeb, Music and Superheroes.&#10;&#10;#ThorLoveAndThunder&#10;#Thor&#10;#Marvel&#10;#MCU&#10;#LoveAndThunder&#10;#Superhero&#10;#EasterEggs&#10;#ThingsYouMissed&#10;#Thor4&#10;#ChrisHemsworth"
-    channeltitle "WatchMojo.com"
-    channelid "UCaWd5_7JhbQBe4dknZhsHJg"
-    favcount 0
-    viewcount 108299
-    likecount 2622
-    commentcount 278
-    duration "PT12M10S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 78
-    name "105"
-    label "rQibyy60YPY"
+    id 104
+    label "EzvufTJK7SM"
     step 0
-    date "2020-06-16T14:24:55Z"
-    title "Adrenochrome - Welcome Back"
-    description "Adrenochrome &#8206;&#8211; It's About...&#10;Label:&#10;Not On Label &#8206;&#8211; none&#10;Format:&#10;CDr, CD-ROM&#10;Country:&#10;Germany&#10;Released:&#10;2003&#10;Genre:&#10;Electronic&#10;Style:&#10;Psy-Trance, Progressive Trance, Ambient"
-    channeltitle "dejanprogtrens"
-    channelid "UCYMuMhIWjl817Bef9S65KhA"
+    date "2018-08-11T11:07:00Z"
+    title "Adrenochrome (Original Mix)"
+    description "Provided to YouTube by Label Worx Ltd&#10;&#10;Adrenochrome (Original Mix) &#183; Smoking Kills&#10;&#10;Constructor&#10;&#10;&#8471; Universe Axiom&#10;&#10;Released on: 2014-10-01&#10;&#10;Composer: Smoking Kills&#10;&#10;Auto-generated by YouTube."
+    channeltitle "the smoking kills - Topic"
+    channelid "UCtz-N3yi-utuqw6X_W2TRog"
     favcount 0
-    viewcount 3779
-    likecount 39
-    commentcount 5
-    duration "PT7M49S"
+    viewcount 164
+    likecount 3
+    commentcount 0
+    duration "PT4M1S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.14875303
+    PERSPECTIVEPROFANITY 0.06827825
+    PERSPECTIVEFLIRTATION 0.38060004
+    PERSPECTIVETHREAT 0.06100053
+    PERSPECTIVETOXICITY 0.03427619
+    PERSPECTIVEINSULT 0.041509416
+    PERSPECTIVEIDENTITYATTACK 0.027887976
+    PERSPECTIVEINFLAMMATORY 0.12911667
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 79
-    name "107"
+    id 106
+    label "xjorPBbz87Q"
+    step 0
+    date "2022-06-01T16:42:26Z"
+    title "When Theia Created the Moon - Killing on Adrenochrome (Official Music Video) 2022"
+    description "WTCtM Lineup is:&#10;&#10;Marius Tausch - Vocals&#10;Christian E. Wei&#223;gerber - Guitars and Vocals&#10;Sascha B&#252;hl - Drums and audio production&#10;Thomas Lade - Bass &#10;Klaudiu &#34;Klod&#34; Oros - Guest solo guitar&#10;&#10;Song and lyrics written by Christian E. Wei&#223;gerber&#10;Recorded, mixed and mastered by Sascha B&#252;hl&#10;&#10;Video by Nicolai Kary&#10;Script by WTCtM&#10;&#10;Visit us on:&#10;https://linktr.ee/whentheiacreatedthemoon&#10;https://wtctm.bandcamp.com/releases&#10;https://www.facebook.com/WTCTM&#10;https://www.instagram.com/wtctm/&#10;https://open.spotify.com/album/3opOeZIGJfSGBcsQZJdX14?si=r1FHB6uFSU6p-7repZfgJg&#38;nd=1&#10;&#10;Lyrics:&#10;&#10;Killing on Adrenochrome&#10;&#10;I wanted to know&#10;for certain&#10;what's going on&#10;behind the curtains. &#10;&#10;I gulped down&#10;all the red pills&#10;and steped down&#10;from my treadmill&#10;&#10;I became a truth snoop&#10;When I entered into that chat group&#10;at first I was just curious&#10;But now Im dead serious&#10;&#10;to mainstream lies&#10;I do not listen&#10;because i&#8217;m no longer&#10;a cog in their system&#10;&#10;I dedicate my life&#10;fighting darkness and evil&#10;I allready prepaired&#10;for the coming upheaval&#10;&#10;I&#8217;ve grown a habit&#10;of following the white rabbit&#10;I&#8216;ve seen how deep the hole goes&#10;in fact the whole Earth is hollow&#10;&#10;on the inner surface&#10;reptiloids breed&#10;And they feed their offspring &#10;with illuminati &#10;&#10;Nothing is what it seems&#10;&#10;I deciphered all the hidden&#10;signs in Harry Potter&#10;I&#8217;m not one of the sheep&#10;bringing themselves to the slaughter&#10;&#10;Alas, I know&#10;that we&#8217;ll only be liberated&#10;Long after the population&#10;has been decimated&#10;&#10;To be or not to be&#10;no longer a question of thruth&#10;when opinion dictates fact&#10;prejudice becomes oh so smooth&#10;Fantasies born from &#8211; anxiety&#10;What we believe &#8211; is reality&#10;&#10;I think it&#8216;s just lazy&#10;When others say that I am crazy&#10;I guess they&#8217;re just fearing&#10;the truth that they&#8217;re hearing&#10;&#10;The moon landing was a hoax&#10;cause the earth ain&#8217;t no globe&#10;we&#8217;re ruled by misanthropes&#10;Who are feeding on our hopes&#10;&#10;Nothing is what it seems&#10;&#10;quite literally&#10;In a pizza shop dungeon&#10;globalists are extracting&#10;adrenochrome&#10;little children spat on&#10;raped and killed&#10;By this secret&#10;satanic guild&#10;&#10;To be or not to be&#10;is no longer a question of thruth&#10;When prejudice informs fact,&#10;lies become absolute&#10;Fantasies born from &#8211; anxiety&#10;What we believe &#8211; is reality &#10;&#10;Killing on adrenochrome &#10;&#10;Take a peak behind the curtain&#10;I can tell you what you&#8216;re gonna see:&#10;a whole bunch of nothing but complexity"
+    channeltitle "When Theia Created the Moon"
+    channelid "UCDhQuYteUSiT5e5ZUb5CPmw"
+    favcount 0
+    viewcount 342
+    likecount 20
+    commentcount 3
+    duration "PT6M3S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.08337315
+    PERSPECTIVEPROFANITY 0.07975141
+    PERSPECTIVEFLIRTATION 0.43165988
+    PERSPECTIVETHREAT 0.5999725
+    PERSPECTIVETOXICITY 0.1609341
+    PERSPECTIVEINSULT 0.08273831
+    PERSPECTIVEIDENTITYATTACK 0.0714286
+    PERSPECTIVEINFLAMMATORY 0.20204163
+    indegree 3
+    cluster 2
+  ]
+  node
+  [
+    id 107
     label "gMQhb7NKOm0"
     step 0
     date "2018-02-06T02:08:50Z"
@@ -2389,24 +2178,21 @@ graph
     likecount 96
     commentcount 82
     duration "PT4M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.03466078
+    PERSPECTIVEPROFANITY 0.0072423047
+    PERSPECTIVEFLIRTATION 0.28623903
+    PERSPECTIVETHREAT 0.016259497
+    PERSPECTIVETOXICITY 0.0037137584
+    PERSPECTIVEINSULT 0.007871846
+    PERSPECTIVEIDENTITYATTACK 0.003285138
+    PERSPECTIVEINFLAMMATORY 0.079131
     indegree 3
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 80
-    name "108"
+    id 108
     label "NGJE8l155tI"
     step 0
     date "2022-03-06T01:39:48Z"
@@ -2419,24 +2205,21 @@ graph
     likecount 220
     commentcount 8
     duration "PT54S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14979215
+    PERSPECTIVEPROFANITY 0.11781298
+    PERSPECTIVEFLIRTATION 0.29913014
+    PERSPECTIVETHREAT 0.23230979
+    PERSPECTIVETOXICITY 0.03616466
+    PERSPECTIVEINSULT 0.1289399
+    PERSPECTIVEIDENTITYATTACK 0.12831062
+    PERSPECTIVEINFLAMMATORY 0.18523115
     indegree 50
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 81
-    name "109"
+    id 109
     label "zTQqlDrfPF4"
     step 0
     date "2020-04-22T15:26:40Z"
@@ -2449,24 +2232,21 @@ graph
     likecount 574
     commentcount 133
     duration "PT2M2S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.14531244
+    PERSPECTIVEPROFANITY 0.09680268
+    PERSPECTIVEFLIRTATION 0.43875206
+    PERSPECTIVETHREAT 0.13311285
+    PERSPECTIVETOXICITY 0.017701091
+    PERSPECTIVEINSULT 0.14736915
+    PERSPECTIVEIDENTITYATTACK 0.06291072
+    PERSPECTIVEINFLAMMATORY 0.0010709118
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 1
   ]
   node
   [
-    id 82
-    name "110"
+    id 110
     label "EKMtE62aTpI"
     step 0
     date "2022-04-04T14:04:51Z"
@@ -2479,54 +2259,48 @@ graph
     likecount 5
     commentcount 0
     duration "PT2M56S"
+    sentiment 0.25
+    PERSPECTIVESEXUALLYEXPLICIT 0.15802234
+    PERSPECTIVEPROFANITY 0.20175715
+    PERSPECTIVEFLIRTATION 0.46342993
+    PERSPECTIVETHREAT 0.22727469
+    PERSPECTIVETOXICITY 0.031701013
+    PERSPECTIVEINSULT 0.1479293
+    PERSPECTIVEIDENTITYATTACK 0.18437065
+    PERSPECTIVEINFLAMMATORY 0.19380064
     indegree 20
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 83
-    name "111"
-    label "WmG2jDuxvnw"
+    id 112
+    label "ctzdNvppFT0"
     step 0
-    date "2010-03-15T09:23:10Z"
-    title "Applaud The Impaler - Adrenochrome"
-    description "i don't own the rights, i only uploaded it for the fans of Applaud The Impaler&#13;&#10;&#13;&#10;Director: Scott Hansen&#13;&#10;www.shpro.tv"
-    channeltitle "humanrejector"
-    channelid "UCqJS7JvSJItARmrGzFkLbFQ"
+    date "2020-11-11T19:26:37Z"
+    title "ZeroTheGod - Adrenochrome"
+    description "ZeroTheGod - Adrenochrome"
+    channeltitle "PHANTOMN&#9650;TION"
+    channelid "UC7BcfP2iotM5K90yOx0nnfg"
     favcount 0
-    viewcount 59686
-    likecount 506
-    commentcount 137
-    duration "PT4M6S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    viewcount 3117
+    likecount 95
+    commentcount 15
+    duration "PT2M32S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.0992137
+    PERSPECTIVEPROFANITY 0.054627407
+    PERSPECTIVEFLIRTATION 0.27662164
+    PERSPECTIVETHREAT 0.06780077
+    PERSPECTIVETOXICITY 0.036508016
+    PERSPECTIVEINSULT 0.068283886
+    PERSPECTIVEIDENTITYATTACK 0.088301174
+    PERSPECTIVEINFLAMMATORY 0.14717397
+    indegree 2
+    cluster 3
   ]
   node
   [
-    id 84
-    name "113"
+    id 113
     label "1gwLekBt3wA"
     step 0
     date "2010-09-20T22:58:21Z"
@@ -2539,114 +2313,102 @@ graph
     likecount 22
     commentcount 4
     duration "PT4M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.21598025
+    PERSPECTIVEPROFANITY 0.21197213
+    PERSPECTIVEFLIRTATION 0.47896475
+    PERSPECTIVETHREAT 0.1640053
+    PERSPECTIVETOXICITY 0.059728492
+    PERSPECTIVEINSULT 0.24289943
+    PERSPECTIVEIDENTITYATTACK 0.115292475
+    PERSPECTIVEINFLAMMATORY 0.10835516
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 85
-    name "114"
-    label "ORdu_L2oc0c"
+    id 115
+    label "ue69I3v32hQ"
     step 0
-    date "2020-04-27T23:28:52Z"
-    title "AdrenochromE"
-    description "Provided to YouTube by Black Hole Recordings&#10;&#10;AdrenochromE &#183; Digital Phaze&#10;&#10;AdrenochromE&#10;&#10;&#8471; Above All Records&#10;&#10;Released on: 2017-04-03&#10;&#10;Artist: Digital Phaze&#10;Producer: Digital Phaze&#10;Music  Publisher: Copyright Control&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Digital Phaze - Topic"
-    channelid "UCECIw4ZSKJj8BOZgM7y1EfA"
+    date "2020-09-03T01:17:27Z"
+    title "BLOOD OF THE LAMB | ADRENOCHROME | WHAT IS HALAL | KINDNESS TO ANIMALS | POWER OF BLOOD"
+    description "Glory takes you around her town in the Dakotas for a trip to a Halal Grocery Store and explains why it is best to always eat food that is pure and meat of animals that are permitted by God and processed in a humane way. The power and chemicals within the blood of humans and animals changes with stress and fear. #adrenochrome #power #revertstories&#10;&#10;Subscribe to my channel: https://www.youtube.com/muslimahofthewest&#10;&#10;I accepted Islam. Real story. #revert #converts #Islam #newmuslims #hijabi #niqab&#10;&#10;DO YOU want to learn a new online career FAST? Or how to become a YouTuber? :-) Click here to SIGN UP: https://track.fiverr.com/visit/?bta=120459&#38;brand=fiverrlearn&#38;utm_campaign=&#38;afp=yt&#10;&#10;If you would like to support my channel, or are looking for a spouse please visit my Patreon page today : https://www.patreon.com/MuslimahOfTheWEST  &#1573;&#1584;&#1575; &#1603;&#1606;&#1578; &#1578;&#1585;&#1594;&#1576; &#1601;&#1610; &#1583;&#1593;&#1605; &#1602;&#1606;&#1575;&#1578;&#1610; &#1548; &#1571;&#1608; &#1578;&#1576;&#1581;&#1579; &#1593;&#1606; &#1586;&#1608;&#1580; &#1610;&#1585;&#1580;&#1609; &#1586;&#1610;&#1575;&#1585;&#1577; &#1589;&#1601;&#1581;&#1577; Patreon &#1575;&#1604;&#1610;&#1608;&#1605;&#10;&#10;&#1575;&#1604;&#1578;&#1594;&#1585;&#1610;&#1583; Twitter: https://twitter.com/4GloryDays&#10;&#10;&#1575;&#1610;&#1606;&#1587;&#1578;&#1575;&#1580;&#1585;&#1575;&#1605; Instagram: https://www.instagram.com/muslimah_of_the_west&#10;&#10;&#1601; &#1610;&#1587;&#1576;&#1608;&#1603; Facebook: fb.Me/MuslimahOfTheWEST&#10;&#10;TikTok @muslimahofthewest &#10;&#10;&#10;#&#1575;&#1604;&#1593;&#1608;&#1583;&#1607;  #&#1575;&#1604;&#1586;&#1608;&#1575;&#1580;  #&#1605;&#1587;&#1604;&#1605;  #&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1607; epic masjid mufti menk free quran education ghamidi yasir qadhi"
+    channeltitle "Muslimah of the West"
+    channelid "UCrGNRCSTK3c7LV9Yf7zFCqA"
     favcount 0
-    viewcount 240
-    likecount 0
-    commentcount 0
-    duration "PT8M11S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    viewcount 4547
+    likecount 133
+    commentcount 38
+    duration "PT13M10S"
+    sentiment 0.4588
+    PERSPECTIVESEXUALLYEXPLICIT 0.14940645
+    PERSPECTIVEPROFANITY 0.40477788
+    PERSPECTIVEFLIRTATION 0.36744314
+    PERSPECTIVETHREAT 0.7181356
+    PERSPECTIVETOXICITY 0.19042583
+    PERSPECTIVEINSULT 0.48590577
+    PERSPECTIVEIDENTITYATTACK 0.49193516
+    PERSPECTIVEINFLAMMATORY 0.17911264
+    indegree 14
+    cluster 9
   ]
   node
   [
-    id 86
-    name "116"
-    label "1pC7Oy08iHY"
+    id 117
+    label "r-Eh3wxjStI"
     step 0
-    date "2020-11-09T01:49:31Z"
-    title "Lutez - Adrenochrome"
-    description "Stream &#38; Download &#10145;&#65039;: https://thehusk.ca/fan.asp?t=23939&#10;&#10;&#10;Lutez&#10;https://soundcloud.com/lutez&#10;http://instagram.com/lutez_&#10;http://www.facebook.com/lutez&#10;http://twitter.com/Lutez&#10;https://open.spotify.com/artist/0PHF5...&#10;&#10;&#10;&#128444;&#65039;background image:&#10;&#10;&#128293;Subscribe&#128293;: https://www.youtube.com/channel/UCTj-...&#10;&#10; &#129497;Carnival witch:&#10;https://www.facebook.com/Carnival-Wit...&#10;https://www.instagram.com/carnival_wi...&#10;https://soundcloud.com/witches-in-danger&#10;&#10;&#10;#Dubstep"
-    channeltitle "Carnival Witch"
-    channelid "UCTj-7yTWWO0ufd5go8Hb1kw"
-    favcount 0
-    viewcount 38
-    likecount 1
-    commentcount 2
-    duration "PT3M17S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 87
-    name "118"
-    label "PtexYUHWu1Q"
-    step 0
-    date "2012-08-27T23:17:50Z"
-    title "The Sisters of Mercy - Adrenochrome (I-Beam, San Francisco 31-Oct-1983)"
+    date "2011-07-04T22:14:25Z"
+    title "The Sisters of Mercy - Adrenochrome (Essex University 20th Oct 1984)"
     description " "
     channeltitle "endemoniada75"
     channelid "UCbakFy7XowP6znyMNyvINEA"
     favcount 0
-    viewcount 243
-    likecount 3
+    viewcount 456
+    likecount 8
     commentcount 0
-    duration "PT3M51S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    duration "PT3M15S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.07977391
+    PERSPECTIVEPROFANITY 0.017409807
+    PERSPECTIVEFLIRTATION 0.30923918
+    PERSPECTIVETHREAT 0.020651577
+    PERSPECTIVETOXICITY 0.0112454
+    PERSPECTIVEINSULT 0.014332158
+    PERSPECTIVEIDENTITYATTACK 0.009003309
+    PERSPECTIVEINFLAMMATORY 0.037538014
+    indegree 1
+    cluster 7
   ]
   node
   [
-    id 88
-    name "120"
+    id 119
+    label "jGYTPelFoQg"
+    step 0
+    date "2021-01-27T21:53:44Z"
+    title "THE SIMPSONS - ADRENOCHROME"
+    description "The Simpspns shows Mr. Smithers bragging about using young blood to rejuvinate him. Young blood, boy blood.&#10;&#10;#adrenochrome&#10;#thesimpsonsmrsmithers&#10;#cabal&#10;#theelite&#10;#newworldorder&#10;#nwo&#10;#deepstate&#10;#illuminate&#10;#stolenelection&#10;#electioncoupcoupdetat&#10;#federalreserve&#10;#jfk&#10;#Q&#10;#Qanon&#10;#SaveTheRepublic&#10;#savethechildren"
+    channeltitle "fuzzymaiden1"
+    channelid "UC40_0BdlFQr2sWVRXHJZWWw"
+    favcount 0
+    viewcount 4423
+    likecount 69
+    commentcount 6
+    duration "PT20S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15294835
+    PERSPECTIVEPROFANITY 0.21659544
+    PERSPECTIVEFLIRTATION 0.30301508
+    PERSPECTIVETHREAT 0.24901146
+    PERSPECTIVETOXICITY 0.028610796
+    PERSPECTIVEINSULT 0.20920968
+    PERSPECTIVEIDENTITYATTACK 0.3051413
+    PERSPECTIVEINFLAMMATORY 0.09227386
+    indegree 0
+    cluster 3
+  ]
+  node
+  [
+    id 120
     label "S1EM-uf17PU"
     step 0
     date "2021-01-03T03:41:58Z"
@@ -2659,24 +2421,21 @@ graph
     likecount 2
     commentcount 0
     duration "PT1M51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 9
   ]
   node
   [
-    id 89
-    name "121"
+    id 121
     label "SygZ1m_LXXQ"
     step 0
     date "2020-08-13T16:45:11Z"
@@ -2689,24 +2448,21 @@ graph
     likecount 5898
     commentcount 617
     duration "PT12M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.24109381
+    PERSPECTIVEPROFANITY 0.09816702
+    PERSPECTIVEFLIRTATION 0.41374305
+    PERSPECTIVETHREAT 0.13394915
+    PERSPECTIVETOXICITY 0.00069416047
+    PERSPECTIVEINSULT 0.18874982
+    PERSPECTIVEIDENTITYATTACK 0.15663216
+    PERSPECTIVEINFLAMMATORY 0.115788214
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 10
   ]
   node
   [
-    id 90
-    name "122"
+    id 122
     label "UgbqcJZBKDw"
     step 0
     date "2019-02-08T21:55:00Z"
@@ -2719,174 +2475,156 @@ graph
     likecount 6
     commentcount 1
     duration "PT24S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16804567
+    PERSPECTIVEPROFANITY 0.10159685
+    PERSPECTIVEFLIRTATION 0.38068008
+    PERSPECTIVETHREAT 0.3376962
+    PERSPECTIVETOXICITY 0.024833864
+    PERSPECTIVEINSULT 0.08804115
+    PERSPECTIVEIDENTITYATTACK 0.06962247
+    PERSPECTIVEINFLAMMATORY 0.15500325
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    cluster 9
+  ]
+  node
+  [
+    id 124
+    label "zitxIbmh-Og"
+    step 0
+    date "2021-02-13T10:16:50Z"
+    title "AVRUPA) | B PLANI"
+    description "Merhaba arkada&#351;lar, sizlerin de &#231;ok sevece&#287;ini d&#252;&#351;&#252;nd&#252;&#287;&#252;m&#252;z yeni program&#305;m&#305;z &#8220;B Plan&#305;&#8221;, ilk b&#246;l&#252;m&#252; ile sizlerle.&#10;&#10;&#10;ABD'nin &#246;nde gelen online mobilya ma&#287;azas&#305; Wayfair'&#305;n &#231;ocuk ka&#231;ak&#231;&#305;l&#305;&#287;&#305; yapt&#305;&#287;&#305;na dair iddialarla birlikte kimyasal bir bile&#351;ik olan &#34;Adrenochrome&#34; (Adrenokrom) da g&#252;ndeme geldi. Sosyal medyada yer alan iddialara g&#246;re; &#231;ocuklar&#305;n korktuklar&#305;nda salg&#305;lad&#305;&#287;&#305; adrenalinden &#252;retilen bu maddeyi elde etmek i&#231;in, k&#252;&#231;&#252;k &#231;ocuklar ka&#231;&#305;r&#305;larak korkudan &#246;ld&#252;r&#252;l&#252;yor.&#10;&#10;Bug&#252;n d&#252;nya genelinde zorla yerinden edilmi&#351; 68,5 milyon m&#252;lteci var ve bunlar&#305;n %52&#8217;sini (36 milyon) 18 ya&#351;&#305;n alt&#305;ndaki &#231;ocuklardan olu&#351;maktad&#305;r.&#10;&#10;Avrupa'ya giden 96 bin m&#252;lteci &#231;ocu&#287;un ise kay&#305;p oldu&#287;u iddia ediliyor. Peki nerede bu &#231;ocuklar?&#10;&#10;&#10;&#9658;https://www.youtube.com/c/Mikrofesto&#8203; &#10;&#9658;https://www.instagram.com/mikrofesto/&#8203;&#10;&#9658;t.me/mikrofesto"
+    channeltitle "Mikrofesto"
+    channelid "UCAXsl4MCMrK4qQkfR2nMcxA"
+    favcount 0
+    viewcount 8216
+    likecount 364
+    commentcount 36
+    duration "PT6M5S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1953701
+    PERSPECTIVEPROFANITY 0.24561898
+    PERSPECTIVEFLIRTATION 0.4831779
+    PERSPECTIVETHREAT 0.34150383
+    PERSPECTIVETOXICITY 0.0041649626
+    PERSPECTIVEINSULT 0.16739582
+    PERSPECTIVEIDENTITYATTACK 0.1763988
+    PERSPECTIVEINFLAMMATORY 0.06316324
+    indegree 2
+    cluster 10
+  ]
+  node
+  [
+    id 126
+    label "AUZmVlZSZyo"
+    step 0
+    date "2020-07-08T03:19:46Z"
+    title "ADRENOCHROME"
+    description "In world where all its dark secrets are being revealed, ADRENOCHROME is a song by KingDarius TheGreat where he sheds light on some of Hollywood Celebs, politicians, and the &#34;Elite's&#34; evil ritual pastimes. Without saying to much in this description, lets just say this song is a real eye opener down a white a &#34;white rabbit&#34; hole."
+    channeltitle "KingDarius TheGreat"
+    channelid "UCW6LZsVnhDkVfD6JdMrAr_Q"
+    favcount 0
+    viewcount 869
+    likecount 30
+    commentcount 3
+    duration "PT3M12S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16708632
+    PERSPECTIVEPROFANITY 0.30775815
+    PERSPECTIVEFLIRTATION 0.3092006
+    PERSPECTIVETHREAT 0.24534544
+    PERSPECTIVETOXICITY 0.0070804367
+    PERSPECTIVEINSULT 0.23792174
+    PERSPECTIVEIDENTITYATTACK 0.32029846
+    PERSPECTIVEINFLAMMATORY 0.13898772
+    indegree 0
+    cluster 9
+  ]
+  node
+  [
+    id 128
+    label "gkZLWpQtkIQ"
+    step 0
+    date "2020-10-10T03:58:32Z"
+    title "Adrenochrome - Sisters of mercy"
+    description "enjoy it! and don't forget subscribe! &#129415;&#128156; &#10;thanks for watching &#129415;"
+    channeltitle "Bloody ImI"
+    channelid "UClf5XrZhEKGD5d_8JIIOzQw"
+    favcount 0
+    viewcount 363
+    likecount 13
+    commentcount 0
+    duration "PT2M58S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.15472588
+    PERSPECTIVEPROFANITY 0.1002274
+    PERSPECTIVEFLIRTATION 0.37449712
+    PERSPECTIVETHREAT 0.11046055
+    PERSPECTIVETOXICITY 0.029469188
+    PERSPECTIVEINSULT 0.09889096
+    PERSPECTIVEIDENTITYATTACK 0.06240531
+    PERSPECTIVEINFLAMMATORY 0.21153235
+    indegree 1
+    cluster 7
+  ]
+  node
+  [
+    id 132
+    label "eYhh5-N-hlw"
+    step 0
+    date "2020-11-06T05:00:34Z"
+    title "ANCIENT  (Official Video)"
+    description "#MOSTANCIENT The Album !! NOW AVAILABLE EVERYWHERE!! GET THE ALBUM HERE: https://mostancient.hearnow.com&#10;&#10;#STRONGARMMUSICGROUP LL(C) *2020*&#10;&#10;Instagram: https://www.instagram.com/ancient_the_architect/&#10;&#10;&#128253; Video :Jayfilmz &#10;Producer: Hippie Rockso&#10;Engineer: Hebrew Beatz &#10;Location: Hartford, CT&#10;Album: MOST ANCIENT&#10;Track 1 : ADRENOCHROME"
+    channeltitle "Strong Arm Music Group"
+    channelid "UCIqgaHrKpSoNkvfgvf2IUBQ"
+    favcount 0
+    viewcount 1870
+    likecount 25
+    commentcount 8
+    duration "PT3M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1716512
+    PERSPECTIVEPROFANITY 0.31734782
+    PERSPECTIVEFLIRTATION 0.40375683
+    PERSPECTIVETHREAT 0.27255872
+    PERSPECTIVETOXICITY 0.032902762
+    PERSPECTIVEINSULT 0.39307868
+    PERSPECTIVEIDENTITYATTACK 0.3115509
+    PERSPECTIVEINFLAMMATORY 0.0008919939
+    indegree 2
+    cluster 1
+  ]
+  node
+  [
+    id 134
+    label "G2LPZfos2lg"
+    step 0
+    date "2020-03-07T05:12:08Z"
+    title "Adrenochrome"
+    description "Provided to YouTube by IIP-DDS&#10;&#10;Adrenochrome &#183; Hsu&#10;&#10;Hsu Works&#10;&#10;&#8471; Plusquam Publishing&#10;&#10;Released on: 2015-08-14&#10;&#10;Artist: Hsu&#10;&#10;Auto-generated by YouTube."
+    channeltitle "HSU - Topic"
+    channelid "UCmVBpJPKaoDqSXyuzOmF7ew"
+    favcount 0
+    viewcount 107
+    likecount 2
+    commentcount 0
+    duration "PT6M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
+    indegree 0
     cluster 5
   ]
   node
   [
-    id 91
-    name "123"
-    label "uCF_PHC17Hw"
-    step 0
-    date "2021-01-22T19:15:00Z"
-    title "Nick Nittoli -  (Official Music Video) REACTION VIDEO"
-    description "Enjoy my reaction to Nick Nittoli - &#34;Adrenochrome&#34; (Official Music Video)&#10;&#10;Link to original video &#10;https://www.youtube.com/watch?v=TZEeNpOHNks&#10;&#10;Like comment subscribe to the best looking family on the TUBE #WETHESEXY"
-    channeltitle "ITS EMOTION-O"
-    channelid "UCs8LEo4k8Ku2MW6VUtlc3cw"
-    favcount 0
-    viewcount 149
-    likecount 9
-    commentcount 27
-    duration "PT12M34S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 92
-    name "125"
-    label "bgB53NinCCA"
-    step 0
-    date "2021-03-21T10:04:56Z"
-    title "Adrenochrome"
-    description "Provided to YouTube by Symphonic Distribution&#10;&#10;Adrenochrome &#183; Barmohak&#10;&#10;Progressive Goa Trance 2020 Top 100 Hits DJ Mix&#10;&#10;&#8471; 2021 Geomagnetic Records&#10;&#10;Released on: 2021-03-22&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Barmohak - Topic"
-    channelid "UCty48zkGb0HzjVmV2KQRcxg"
-    favcount 0
-    viewcount 80
-    likecount 0
-    commentcount 0
-    duration "PT8M40S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
-  ]
-  node
-  [
-    id 93
-    name "127"
-    label "Ji_PXWGs97Q"
-    step 0
-    date "2021-06-30T10:09:10Z"
-    title "Adrenochrome"
-    description "Provided to YouTube by Ditto Music&#10;&#10;Adrenochrome &#183; Tourettes&#10;&#10;Mugwump&#10;&#10;&#8471; Matt Dowding&#10;&#10;Released on: 2021-07-01&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Tourettes - Topic"
-    channelid "UCfRuB9q6TigxKW5niLQhT0A"
-    favcount 0
-    viewcount 10
-    likecount 0
-    commentcount 0
-    duration "PT2M29S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 94
-    name "129"
-    label "P0KCQjsA1ek"
-    step 0
-    date "2016-12-06T12:29:49Z"
-    title "Adrenochrome"
-    description "Provided to YouTube by Symphonic Distribution&#10;&#10;Adrenochrome &#183; Power Muscle Djs &#183; Power Muscle Djs&#10;&#10;50 Best Underground EDM Party Hits 2017&#10;&#10;&#8471; 2016 Violeta Music EMS&#10;&#10;Released on: 2016-12-07&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Power Muscle DJs - Topic"
-    channelid "UC3gZAiVjWHTlfHFrzHoUN7g"
-    favcount 0
-    viewcount 103
-    likecount 1
-    commentcount 0
-    duration "PT7M41S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
-  ]
-  node
-  [
-    id 95
-    name "133"
-    label "ME7ile63xe8"
-    step 0
-    date "2021-07-21T08:46:39Z"
-    title "P.m.Grands  (ADRENOCHROME)"
-    description "&#8473;.&#120158;.&#120126;&#120163;&#120146;&#120159;&#120149;&#120164; &#120132;&#120166;&#120164;&#120154;&#120148; &#128309; &#10;P.m.Grands &#10;&#34;Need Somebody Now&#34; {NEW}&#10;&#10;EVER HEARD A (ADRENOCHROME)&#10; &#10;LIKE + FOLLOW + COMMENT &#9745; &#10;&#10;#pmgrands #trending #viralvideos #bandlab #2021 #fire #spitgame #lit #independent #artist #rapper #singer #songwriter #producer #vocalist #review #reaction #mostviewed #nolifeshaq #stevieknight #drake #fatjoeshow #eminem #tommacdonald #withdrawls #dontlookdown #nf #daxx #demolitionranch #deermeatfordinner #markdice #alexjones #jre # #hiphop #rap #rnb #trap #beat #july #listen #like #follow #comment #share #subscribe #top #hot #new #music #Illuminati #exposed #freemasons #evil #music #kids #children #baby #trump #hollywood #blood #sacrifice #satanic #bohemiangrove #cabal #glennbeck #oan #consciousrapper #woke #pedos #adrenochrome #nwo #deepstate #newworldorder #hollyweird #help the kids #p.m.grandsvsnwo #rapperexposesnwo&#10;#satanic #devils #popular #playlists&#10;&#10;https://youtube.com/user/PMGRANDS"
-    channeltitle "P.m.Grands"
-    channelid "UCUJP4UbEecOkT8MesnNmAZA"
-    favcount 0
-    viewcount 447
-    likecount 24
-    commentcount 19
-    duration "PT3M30S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
-  ]
-  node
-  [
-    id 96
-    name "135"
+    id 135
     label "ELthERxjxLU"
     step 0
     date "2022-01-09T23:28:08Z"
@@ -2899,114 +2637,102 @@ graph
     likecount 6
     commentcount 3
     duration "PT2M43S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.151712
+    PERSPECTIVEPROFANITY 0.16776678
+    PERSPECTIVEFLIRTATION 0.27299717
+    PERSPECTIVETHREAT 0.14008191
+    PERSPECTIVETOXICITY 0.022213135
+    PERSPECTIVEINSULT 0.18881372
+    PERSPECTIVEIDENTITYATTACK 0.11169746
+    PERSPECTIVEINFLAMMATORY 0.23764002
     indegree 31
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 2
   ]
   node
   [
-    id 97
-    name "136"
-    label "cz_7VkFYd5g"
+    id 137
+    label "uqu1hSww0_s"
     step 0
-    date "2018-10-28T12:19:54Z"
-    title "Adrenochrome | Wikipedia audio article"
-    description "This is an audio version of the Wikipedia Article:&#13;&#10;Adrenochrome&#13;&#10;&#13;&#10;Listening is a more natural way of learning, when compared to reading. Written&#13;&#10;language only began at around 3200 BC, but spoken language has existed long ago.&#13;&#10;&#13;&#10;Learning by listening is a great way to:&#13;&#10;- increases imagination and understanding&#13;&#10;- improves your listening skills&#13;&#10;- improves your own spoken accent&#13;&#10;- learn while on the move&#13;&#10;- reduce eye strain&#13;&#10;&#13;&#10;Now learn the vast amount of general knowledge available on Wikipedia through&#13;&#10;audio (audio article). You could even learn subconsciously by playing the audio&#13;&#10;while you are sleeping! If you are planning to listen a lot, you could try using&#13;&#10;a bone conduction headphone, or a standard speaker instead of an earphone.&#13;&#10;&#13;&#10;&#13;&#10;You can find other Wikipedia audio articles too at:&#13;&#10;https://www.youtube.com/channel/UCuKfABj2eGyjH3ntPxp4YeQ&#13;&#10;&#13;&#10;In case you don't find one that you were looking for, put a comment.&#13;&#10;This video uses Google TTS en-US-Standard-D voice.&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;SUMMARY&#13;&#10;=======&#13;&#10;Adrenochrome is a chemical compound with the molecular formula C9H9NO3 produced by the oxidation of adrenaline (epinephrine). The derivative carbazochrome is a hemostatic medication. Despite a similarity in chemical names, it is unrelated to chrome or chromium."
-    channeltitle "wikipedia tts"
-    channelid "UCuKfABj2eGyjH3ntPxp4YeQ"
+    date "2018-02-28T19:55:08Z"
+    title "Adrenochrome ~ Sanction"
+    description "Dark punk band from Oakland CA.&#10;Excerpt from &#34;Buzz or Howl Sessions&#34;, released February 28, 2018&#10;https://adrenochromeoakland.bandcamp.com/album/buzz-or-howl-sessions&#10;https://www.facebook.com/Adrenochrome-175010976456330/&#10;I do not claim ownership of this song nor picture. I am not making a profit from this, all credit goes to the author. If the rightful owner wants to remove it only has to notify me. Enjoy and support the artists."
+    channeltitle "George Chlioumis"
+    channelid "UC3QjybsMPd7jFZdg4KVh5PQ"
     favcount 0
-    viewcount 10736
-    likecount 140
-    commentcount 31
-    duration "PT4M28S"
+    viewcount 4748
+    likecount -1
+    commentcount 9
+    duration "PT3M23S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14353958
+    PERSPECTIVEPROFANITY 0.060161397
+    PERSPECTIVEFLIRTATION 0.2998415
+    PERSPECTIVETHREAT 0.0768942
+    PERSPECTIVETOXICITY 0.016729267
+    PERSPECTIVEINSULT 0.036923718
+    PERSPECTIVEIDENTITYATTACK 0.07225788
+    PERSPECTIVEINFLAMMATORY 0.10760383
+    indegree 2
+    cluster 8
+  ]
+  node
+  [
+    id 139
+    label "_nWzBvU5tR4"
+    step 0
+    date "2011-09-21T15:30:01Z"
+    title "Safi Connection - Adrenochrome"
+    description "you took too much man, too much too much"
+    channeltitle "InfinityKeeper"
+    channelid "UCn2HMJY1Q63rXxrJQm8y0sQ"
+    favcount 0
+    viewcount 1949
+    likecount 34
+    commentcount 4
+    duration "PT8M56S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.21467501
+    PERSPECTIVEPROFANITY 0.10754451
+    PERSPECTIVEFLIRTATION 0.39204454
+    PERSPECTIVETHREAT 0.08989577
+    PERSPECTIVETOXICITY 0.0067680646
+    PERSPECTIVEINSULT 0.1064778
+    PERSPECTIVEIDENTITYATTACK 0.06927913
+    PERSPECTIVEINFLAMMATORY 0.12598038
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 98
-    name "138"
-    label "dV9cMMgQSIw"
+    id 141
+    label "EwQHiHJtFrA"
     step 0
-    date "2021-05-27T11:09:52Z"
-    title "Adrenochrome (Sofia Alcon Remix)"
-    description "Provided to YouTube by Symphonic Distribution&#10;&#10;Adrenochrome (Sofia Alcon Remix) &#183; FAK (ARG) &#183; Sofia Alcon&#10;&#10;Adrenochrome&#10;&#10;&#8471; 2021 Survival Alliance Records&#10;&#10;Released on: 2021-05-28&#10;&#10;Auto-generated by YouTube."
-    channeltitle "FAK (ARG) - Topic"
-    channelid "UCgDci-_Q6flyIxN0Ew0dZJw"
+    date "2021-12-11T20:32:13Z"
+    title "Ancient "
+    description "#Adrenochrome #MostAncient #StrongArmMusicGroup&#10;&#10;&#10;Everything Produced by Hippie Rockso"
+    channeltitle "Strong Arm Music Group"
+    channelid "UCIqgaHrKpSoNkvfgvf2IUBQ"
     favcount 0
-    viewcount 13
-    likecount 3
+    viewcount 50
+    likecount 2
     commentcount 0
-    duration "PT6M54S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
+    duration "PT3M41S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13105896
+    PERSPECTIVEPROFANITY 0.07482839
+    PERSPECTIVEFLIRTATION 0.32783005
+    PERSPECTIVETHREAT 0.111722834
+    PERSPECTIVETOXICITY 0.01631277
+    PERSPECTIVEINSULT 0.05089182
+    PERSPECTIVEIDENTITYATTACK 0.05680232
+    PERSPECTIVEINFLAMMATORY 0.026357958
+    indegree 15
+    cluster 6
   ]
   node
   [
-    id 99
-    name "140"
-    label "fxOAGGPDEUU"
-    step 0
-    date "2020-11-26T00:39:14Z"
-    title "Pocilga - Adrenochrome"
-    description "Mix and Master in 78 records"
-    channeltitle "78 Records"
-    channelid "UCOX-NmlzwcAPrZwe8QyPsdQ"
-    favcount 0
-    viewcount 26
-    likecount 1
-    commentcount 0
-    duration "PT2M18S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
-  ]
-  node
-  [
-    id 100
-    name "142"
+    id 142
     label "pjb7c98HDWQ"
     step 0
     date "2020-12-15T15:10:49Z"
@@ -3019,24 +2745,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT3M17S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.1217437
+    PERSPECTIVEPROFANITY 0.08033575
+    PERSPECTIVEFLIRTATION 0.3456581
+    PERSPECTIVETHREAT 0.09695459
+    PERSPECTIVETOXICITY 0.0005987134
+    PERSPECTIVEINSULT 0.08455643
+    PERSPECTIVEIDENTITYATTACK 0.08780869
+    PERSPECTIVEINFLAMMATORY 0.077346854
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 9
   ]
   node
   [
-    id 101
-    name "143"
+    id 143
     label "bht-htJ9Tcw"
     step 0
     date "2020-06-25T17:20:46Z"
@@ -3049,24 +2772,21 @@ graph
     likecount 160
     commentcount 70
     duration "PT31S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15877138
+    PERSPECTIVEPROFANITY 0.09364743
+    PERSPECTIVEFLIRTATION 0.28628182
+    PERSPECTIVETHREAT 0.08196513
+    PERSPECTIVETOXICITY 0.17957193
+    PERSPECTIVEINSULT 0.076392315
+    PERSPECTIVEIDENTITYATTACK 0.066676855
+    PERSPECTIVEINFLAMMATORY 0.15276764
     indegree 39
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 11
   ]
   node
   [
-    id 102
-    name "144"
+    id 144
     label "fb6VNI03Y9c"
     step 0
     date "2022-05-09T23:02:54Z"
@@ -3079,24 +2799,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT16S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.119807206
+    PERSPECTIVEPROFANITY 0.0873735
+    PERSPECTIVEFLIRTATION 0.38881806
+    PERSPECTIVETHREAT 0.16100398
+    PERSPECTIVETOXICITY 0.052935857
+    PERSPECTIVEINSULT 0.09303657
+    PERSPECTIVEIDENTITYATTACK 0.049848728
+    PERSPECTIVEINFLAMMATORY 0.0033483938
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 6
   ]
   node
   [
-    id 103
-    name "145"
+    id 145
     label "7bfvlvLq0fk"
     step 0
     date "2020-10-10T01:01:06Z"
@@ -3109,24 +2826,21 @@ graph
     likecount 29
     commentcount 7
     duration "PT2M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22773345
+    PERSPECTIVEPROFANITY 0.29890266
+    PERSPECTIVEFLIRTATION 0.3619035
+    PERSPECTIVETHREAT 0.28903514
+    PERSPECTIVETOXICITY 0.03839648
+    PERSPECTIVEINSULT 0.23891038
+    PERSPECTIVEIDENTITYATTACK 0.31870487
+    PERSPECTIVEINFLAMMATORY 0.19203404
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 9
   ]
   node
   [
-    id 104
-    name "146"
+    id 146
     label "lB6YSovv0wo"
     step 0
     date "2020-11-28T03:59:57Z"
@@ -3139,24 +2853,21 @@ graph
     likecount 28
     commentcount 2
     duration "PT1M49S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16708626
+    PERSPECTIVEPROFANITY 0.30775812
+    PERSPECTIVEFLIRTATION 0.3092009
+    PERSPECTIVETHREAT 0.24534537
+    PERSPECTIVETOXICITY 0.0070804367
+    PERSPECTIVEINSULT 0.2379216
+    PERSPECTIVEIDENTITYATTACK 0.32029855
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 105
-    name "147"
+    id 147
     label "VXORqXpjRIU"
     step 0
     date "2022-05-13T05:00:11Z"
@@ -3169,54 +2880,48 @@ graph
     likecount 2
     commentcount 0
     duration "PT5M39S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.4878441
+    PERSPECTIVEPROFANITY 0.43547568
+    PERSPECTIVEFLIRTATION 0.57121354
+    PERSPECTIVETHREAT 0.3935415
+    PERSPECTIVETOXICITY 0.025692256
+    PERSPECTIVEINSULT 0.29558924
+    PERSPECTIVEIDENTITYATTACK 0.35821027
+    PERSPECTIVEINFLAMMATORY 0.15188642
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 106
-    name "148"
-    label "GjJo8SRVFV0"
+    id 149
+    label "Wx52tCkg5Lg"
     step 0
-    date "2021-07-23T15:10:51Z"
-    title "Adrenochrome (Smoked Out Mix)"
-    description "Provided to YouTube by DistroKid&#10;&#10;Adrenochrome (Smoked Out Mix) &#183; Jazon Dion Fletcher&#10;&#10;The Supplicants Present The Art of Supplication, Vol. 03&#10;&#10;&#8471; TDPLA Records&#10;&#10;Released on: 2021-07-21&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Jazon Dion Fletcher - Topic"
-    channelid "UCbZkTJTpqrGdpJfbiVheSKg"
+    date "2020-04-24T20:39:09Z"
+    title "ADRENOCHROME - THEY ARE USING THE EARTH AS A FARM"
+    description "From the film JUPITER ASCENDING 2015. &#10;&#10;&#10;&#10;Not to speak of the incestuous marriage proposal. She is supposed to be a reincarnation of their mother. &#10;&#10;&#10;."
+    channeltitle "True Lies"
+    channelid "UC5lHDYC3MBvQvnQBQvLpjcQ"
     favcount 0
-    viewcount 4
-    likecount 0
-    commentcount 0
-    duration "PT8M33S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    viewcount 2347
+    likecount 67
+    commentcount 26
+    duration "PT2M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.18224293
+    PERSPECTIVEPROFANITY 0.23246811
+    PERSPECTIVEFLIRTATION 0.39618137
+    PERSPECTIVETHREAT 0.3361392
+    PERSPECTIVETOXICITY 0.2299237
+    PERSPECTIVEINSULT 0.22056225
+    PERSPECTIVEIDENTITYATTACK 0.30499277
+    PERSPECTIVEINFLAMMATORY 0.32059866
+    indegree 12
+    cluster 11
   ]
   node
   [
-    id 107
-    name "150"
+    id 150
     label "wh4CRqTHrEI"
     step 0
     date "2022-05-11T15:30:19Z"
@@ -3229,54 +2934,48 @@ graph
     likecount 2945
     commentcount 907
     duration "PT29M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15011692
+    PERSPECTIVEPROFANITY 0.16484669
+    PERSPECTIVEFLIRTATION 0.49896985
+    PERSPECTIVETHREAT 0.18084203
+    PERSPECTIVETOXICITY 0.1689685
+    PERSPECTIVEINSULT 0.17684302
+    PERSPECTIVEIDENTITYATTACK 0.18965665
+    PERSPECTIVEINFLAMMATORY 0.15432991
     indegree 19
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 108
-    name "151"
-    label "u9YmrLi610A"
+    id 152
+    label "lYT0Jpfm7tI"
     step 0
-    date "2022-03-23T19:50:15Z"
-    title "Adrenochrome - Guitar cover of The Sisters of Mercy"
-    description "Drums and vocal isolated from &#34;They Shall Not Pass&#34; compilation version and pitch corrected. Guitar parts on the original are hard panned left and right so I've copied that."
-    channeltitle "The Andersons"
-    channelid "UCtnlj1vPPfwrcozefCMf6Iw"
+    date "2019-01-26T23:58:02Z"
+    title "Daylyt - ADRENOCHROME"
+    description "Follow him on IG @daylyt2k"
+    channeltitle "T RAW5657"
+    channelid "UC1-d8LCgRpLCQSCJseaeW3Q"
     favcount 0
-    viewcount 24
-    likecount 1
-    commentcount 0
-    duration "PT3M1S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    viewcount 50589
+    likecount 1179
+    commentcount 153
+    duration "PT3M21S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1754094
+    PERSPECTIVEPROFANITY 0.2927349
+    PERSPECTIVEFLIRTATION 0.36034176
+    PERSPECTIVETHREAT 0.23816402
+    PERSPECTIVETOXICITY 0.025692256
+    PERSPECTIVEINSULT 0.26997137
+    PERSPECTIVEIDENTITYATTACK 0.3201958
+    PERSPECTIVEINFLAMMATORY 0.1495207
+    indegree 19
+    cluster 6
   ]
   node
   [
-    id 109
-    name "153"
+    id 153
     label "WwAR_BUFeTM"
     step 0
     date "2021-10-17T02:00:22Z"
@@ -3289,24 +2988,21 @@ graph
     likecount 6
     commentcount 18
     duration "PT1M56S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.57097846
+    PERSPECTIVEPROFANITY 0.69309914
+    PERSPECTIVEFLIRTATION 0.47206852
+    PERSPECTIVETHREAT 0.35415307
+    PERSPECTIVETOXICITY 0.3093897
+    PERSPECTIVEINSULT 0.36593336
+    PERSPECTIVEIDENTITYATTACK 0.2514552
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 12
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 3
   ]
   node
   [
-    id 110
-    name "154"
+    id 154
     label "bZN4vM8LScM"
     step 0
     date "2021-02-07T07:36:01Z"
@@ -3319,24 +3015,21 @@ graph
     likecount 2
     commentcount 0
     duration "PT3M28S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22154345
+    PERSPECTIVEPROFANITY 0.20424148
+    PERSPECTIVEFLIRTATION 0.43467093
+    PERSPECTIVETHREAT 0.13350067
+    PERSPECTIVETOXICITY 0.00041432702
+    PERSPECTIVEINSULT 0.16423886
+    PERSPECTIVEIDENTITYATTACK 0.13499366
+    PERSPECTIVEINFLAMMATORY 0.017519983
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 111
-    name "155"
+    id 155
     label "eKYK2VgF23k"
     step 0
     date "2021-05-16T16:03:13Z"
@@ -3349,24 +3042,21 @@ graph
     likecount 6
     commentcount 0
     duration "PT5M48S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14938016
+    PERSPECTIVEPROFANITY 0.22898366
+    PERSPECTIVEFLIRTATION 0.4139174
+    PERSPECTIVETHREAT 0.2828403
+    PERSPECTIVETOXICITY 0.050585672
+    PERSPECTIVEINSULT 0.25886887
+    PERSPECTIVEIDENTITYATTACK 0.2509278
+    PERSPECTIVEINFLAMMATORY 0.0015299862
     indegree 9
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 6
   ]
   node
   [
-    id 112
-    name "156"
+    id 156
     label "m3CFrkSO9-I"
     step 0
     date "2021-12-09T10:03:27Z"
@@ -3379,24 +3069,21 @@ graph
     likecount 8
     commentcount 0
     duration "PT2M8S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.087189734
+    PERSPECTIVEPROFANITY 0.09372628
+    PERSPECTIVEFLIRTATION 0.21072116
+    PERSPECTIVETHREAT 0.10754673
+    PERSPECTIVETOXICITY 0.00614332
+    PERSPECTIVEINSULT 0.08575916
+    PERSPECTIVEIDENTITYATTACK 0.07066763
+    PERSPECTIVEINFLAMMATORY 0.15966111
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 1
   ]
   node
   [
-    id 113
-    name "157"
+    id 157
     label "i9WI4Y3LohM"
     step 0
     date "2022-03-26T17:45:46Z"
@@ -3409,24 +3096,21 @@ graph
     likecount 5
     commentcount 0
     duration "PT4M12S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.45675305
+    PERSPECTIVEPROFANITY 0.30903593
+    PERSPECTIVEFLIRTATION 0.73547167
+    PERSPECTIVETHREAT 0.28021267
+    PERSPECTIVETOXICITY 0.04406188
+    PERSPECTIVEINSULT 0.20323837
+    PERSPECTIVEIDENTITYATTACK 0.19412911
+    PERSPECTIVEINFLAMMATORY 0.061455816
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 114
-    name "158"
+    id 158
     label "N-wIizb8zbI"
     step 0
     date "2016-03-13T20:02:52Z"
@@ -3439,24 +3123,21 @@ graph
     likecount 4
     commentcount 0
     duration "PT42M17S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15220743
+    PERSPECTIVEPROFANITY 0.2292208
+    PERSPECTIVEFLIRTATION 0.3518599
+    PERSPECTIVETHREAT 0.2707746
+    PERSPECTIVETOXICITY 0.020408317
+    PERSPECTIVEINSULT 0.18524599
+    PERSPECTIVEIDENTITYATTACK 0.23403585
+    PERSPECTIVEINFLAMMATORY 0.19044715
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 2
   ]
   node
   [
-    id 115
-    name "159"
+    id 159
     label "cWLZ9kOuPl8"
     step 0
     date "2022-03-26T18:36:40Z"
@@ -3469,24 +3150,21 @@ graph
     likecount 10
     commentcount 1
     duration "PT2M58S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.24508694
+    PERSPECTIVEPROFANITY 0.28625235
+    PERSPECTIVEFLIRTATION 0.38316923
+    PERSPECTIVETHREAT 0.22223136
+    PERSPECTIVETOXICITY 0.010551238
+    PERSPECTIVEINSULT 0.18235825
+    PERSPECTIVEIDENTITYATTACK 0.2621042
+    PERSPECTIVEINFLAMMATORY 0.071031764
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 6
   ]
   node
   [
-    id 116
-    name "160"
+    id 160
     label "uxn1Lx-RPds"
     step 0
     date "2011-04-17T15:08:10Z"
@@ -3499,24 +3177,21 @@ graph
     likecount 111
     commentcount 6
     duration "PT4M33S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.23204699
+    PERSPECTIVEPROFANITY 0.099211134
+    PERSPECTIVEFLIRTATION 0.38989466
+    PERSPECTIVETHREAT 0.14157249
+    PERSPECTIVETOXICITY 0.04234509
+    PERSPECTIVEINSULT 0.11031127
+    PERSPECTIVEIDENTITYATTACK 0.14572744
+    PERSPECTIVEINFLAMMATORY 0.11505185
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 7
   ]
   node
   [
-    id 117
-    name "161"
+    id 161
     label "ncGe2sgQCOg"
     step 0
     date "2021-04-19T00:30:37Z"
@@ -3529,24 +3204,21 @@ graph
     likecount 39
     commentcount 23
     duration "PT3M2S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.11613838
+    PERSPECTIVEPROFANITY 0.15785398
+    PERSPECTIVEFLIRTATION 0.35854554
+    PERSPECTIVETHREAT 0.21421267
+    PERSPECTIVETOXICITY 0.059728492
+    PERSPECTIVEINSULT 0.1394259
+    PERSPECTIVEIDENTITYATTACK 0.173959
+    PERSPECTIVEINFLAMMATORY 0.1111447
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 7
   ]
   node
   [
-    id 118
-    name "162"
+    id 162
     label "ylMG79DyRGQ"
     step 0
     date "2020-10-17T14:30:07Z"
@@ -3559,24 +3231,21 @@ graph
     likecount 852
     commentcount 349
     duration "PT23M23S"
+    sentiment 0.7096
+    PERSPECTIVESEXUALLYEXPLICIT 0.117979474
+    PERSPECTIVEPROFANITY 0.23938926
+    PERSPECTIVEFLIRTATION 0.39126354
+    PERSPECTIVETHREAT 0.40558708
+    PERSPECTIVETOXICITY 0.36667302
+    PERSPECTIVEINSULT 0.5141028
+    PERSPECTIVEIDENTITYATTACK 0.29828128
+    PERSPECTIVEINFLAMMATORY 0.48144364
     indegree 31
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "SocialJustice|Socialist"
-    leftright "L"
-    cluster 8
+    cluster 11
   ]
   node
   [
-    id 119
-    name "163"
+    id 163
     label "CRD84P6JSMc"
     step 0
     date "2022-02-12T12:46:55Z"
@@ -3589,24 +3258,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT1M7S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 120
-    name "164"
+    id 164
     label "c_4Ifs6ElDs"
     step 0
     date "2022-02-12T03:10:06Z"
@@ -3619,54 +3285,48 @@ graph
     likecount 0
     commentcount 0
     duration "PT1M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13793907
+    PERSPECTIVEPROFANITY 0.15624125
+    PERSPECTIVEFLIRTATION 0.23496231
+    PERSPECTIVETHREAT 0.10059316
+    PERSPECTIVETOXICITY 0.027580723
+    PERSPECTIVEINSULT 0.13595483
+    PERSPECTIVEIDENTITYATTACK 0.07760223
+    PERSPECTIVEINFLAMMATORY 0.18906893
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
-  ]
-  node
-  [
-    id 121
-    name "165"
-    label "VurgOwcFQ-Q"
-    step 0
-    date "2021-01-11T15:51:40Z"
-    title "Adrenochrome Party People (feat. Liggy  Elena)"
-    description "Provided to YouTube by DistroKid&#10;&#10;Adrenochrome Party People (feat. Liggy &#38; Elena) &#183; Kool B&#10;&#10;Bohemian Grove Rap City&#10;&#10;&#8471; 1420188 Records DK&#10;&#10;Released on: 2021-01-06&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Kool B - Topic"
-    channelid "UCykqlRozsccm7iKyd4vZLGQ"
-    favcount 0
-    viewcount 101
-    likecount 6
-    commentcount 0
-    duration "PT4M13S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 122
-    name "168"
+    id 167
+    label "cHv78jmeYIQ"
+    step 0
+    date "2022-05-06T10:02:06Z"
+    title "A.d.r.e.n.o.c.h.r.o.m.e."
+    description ""
+    channeltitle "Trizah Truth Media"
+    channelid "UCIZY23HvDKZOGZ8h9d1trSA"
+    favcount 0
+    viewcount 52
+    likecount 3
+    commentcount 7
+    duration "PT1M36S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.567515
+    PERSPECTIVEPROFANITY 0.69309914
+    PERSPECTIVEFLIRTATION 0.456323
+    PERSPECTIVETHREAT 0.33557543
+    PERSPECTIVETOXICITY 0.29855597
+    PERSPECTIVEINSULT 0.42812186
+    PERSPECTIVEIDENTITYATTACK 0.2625108
+    PERSPECTIVEINFLAMMATORY 0.13898769
+    indegree 0
+    cluster 2
+  ]
+  node
+  [
+    id 168
     label "7BlrLNE8lFs"
     step 0
     date "2022-01-04T01:56:56Z"
@@ -3679,24 +3339,21 @@ graph
     likecount 16
     commentcount 4
     duration "PT20S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17545341
+    PERSPECTIVEPROFANITY 0.033630736
+    PERSPECTIVEFLIRTATION 0.24180406
+    PERSPECTIVETHREAT 0.03414068
+    PERSPECTIVETOXICITY 0.1019289
+    PERSPECTIVEINSULT 0.027729334
+    PERSPECTIVEIDENTITYATTACK 0.020094132
+    PERSPECTIVEINFLAMMATORY 0.437255
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 6
   ]
   node
   [
-    id 123
-    name "169"
+    id 169
     label "xJYBWeT3yfE"
     step 0
     date "2020-10-12T17:46:04Z"
@@ -3709,24 +3366,21 @@ graph
     likecount 29
     commentcount 3
     duration "PT1M58S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.26566565
+    PERSPECTIVEPROFANITY 0.3379066
+    PERSPECTIVEFLIRTATION 0.37215465
+    PERSPECTIVETHREAT 0.24112861
+    PERSPECTIVETOXICITY 0.025005542
+    PERSPECTIVEINSULT 0.29737383
+    PERSPECTIVEIDENTITYATTACK 0.31161252
+    PERSPECTIVEINFLAMMATORY 0.16436628
     indegree 19
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 11
   ]
   node
   [
-    id 124
-    name "170"
+    id 170
     label "PmRZMgqEWr8"
     step 0
     date "2021-03-29T03:11:30Z"
@@ -3739,54 +3393,48 @@ graph
     likecount 2
     commentcount 4
     duration "PT30S"
+    sentiment -0.1531
+    PERSPECTIVESEXUALLYEXPLICIT 0.14757212
+    PERSPECTIVEPROFANITY 0.23444195
+    PERSPECTIVEFLIRTATION 0.28252342
+    PERSPECTIVETHREAT 0.22702564
+    PERSPECTIVETOXICITY 0.046465382
+    PERSPECTIVEINSULT 0.17752546
+    PERSPECTIVEIDENTITYATTACK 0.2485769
+    PERSPECTIVEINFLAMMATORY 0.1100215
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 125
-    name "171"
-    label "wwjNJCKc-iE"
+    id 172
+    label "eLFTRAjbSzQ"
     step 0
-    date "2022-03-25T13:11:51Z"
-    title "Adrenochrome"
-    description "Provided to YouTube by DistroKid&#10;&#10;Adrenochrome &#183; Scott Saunders &#183; Scott Saunders&#10;&#10;Adrenochrome&#10;&#10;&#8471; Scott Saunders&#10;&#10;Released on: 2022-03-25&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Scott Saunders - Topic"
-    channelid "UCgn_UJKFbKIPJlF2ykZDsug"
+    date "2021-11-07T10:24:41Z"
+    title "Benderheads "
+    description "https://benderheads.bandcamp.com/album/adrenochrome-motherfuckers&#10;&#10;1. Benderheads &#10;2. Thin Blue Fuck Off&#10;3. Adrenochrome Motherfuckers&#10;4. Burn It All"
+    channeltitle "tadpole records"
+    channelid "UCCNQ94EnA_DMB-9wd9eilmg"
     favcount 0
-    viewcount 20817
-    likecount 5513
-    commentcount 0
-    duration "PT2M45S"
+    viewcount 186
+    likecount 8
+    commentcount 2
+    duration "PT9M5S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.7407407
+    PERSPECTIVEPROFANITY 0.9604114
+    PERSPECTIVEFLIRTATION 0.41218382
+    PERSPECTIVETHREAT 0.30791232
+    PERSPECTIVETOXICITY 0.9320454
+    PERSPECTIVEINSULT 0.93234444
+    PERSPECTIVEIDENTITYATTACK 0.62350565
+    PERSPECTIVEINFLAMMATORY 0.0009811611
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 1
   ]
   node
   [
-    id 126
-    name "173"
+    id 173
     label "0SMvXhVSXB0"
     step 0
     date "2021-02-11T02:03:31Z"
@@ -3799,114 +3447,102 @@ graph
     likecount 18
     commentcount 1
     duration "PT12S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.2581236
+    PERSPECTIVEPROFANITY 0.10083462
+    PERSPECTIVEFLIRTATION 0.5295986
+    PERSPECTIVETHREAT 0.23780614
+    PERSPECTIVETOXICITY 0.16965903
+    PERSPECTIVEINSULT 0.1432371
+    PERSPECTIVEIDENTITYATTACK 0.11755519
+    PERSPECTIVEINFLAMMATORY 0.2796591
     indegree 4
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 11
   ]
   node
   [
-    id 127
-    name "174"
-    label "gjAlxJrvqfc"
+    id 175
+    label "p4I3bpJAsjk"
     step 0
-    date "2011-04-30T23:59:14Z"
-    title "Latexxx Teens - Adrenochrome"
-    description " "
-    channeltitle "darktube777"
-    channelid "UC7QsVL5YqQrQD9CIoXcPPMw"
+    date "2022-05-12T23:51:58Z"
+    title "[a tribute to] The Sisters of Mercy | Black Waves of Adrenochrome"
+    description "[a tribute to] The Sisters of Mercy | Black Waves of Adrenochrome"
+    channeltitle "Crates Clouds"
+    channelid "UCBcUwHNz1i8cmC14kJPocZQ"
     favcount 0
-    viewcount 1741
-    likecount 11
-    commentcount 5
-    duration "PT3M47S"
+    viewcount 87
+    likecount 3
+    commentcount 0
+    duration "PT1H3M44S"
+    sentiment 0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.09902249
+    PERSPECTIVEPROFANITY 0.0044588544
+    PERSPECTIVEFLIRTATION 0.19292183
+    PERSPECTIVETHREAT 0.009609344
+    PERSPECTIVETOXICITY 0.010273575
+    PERSPECTIVEINSULT 0.0052094366
+    PERSPECTIVEIDENTITYATTACK 0.001861905
+    PERSPECTIVEINFLAMMATORY 0.43848643
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 7
   ]
   node
   [
-    id 128
-    name "176"
-    label "VptZBGHNUx0"
+    id 177
+    label "TqgnqizHzaw"
     step 0
-    date "2015-01-19T13:14:03Z"
-    title "Mariohannacore - Adrenochrome Muss Flieen"
-    description ""
-    channeltitle "mAriO HaNnA cOrE"
-    channelid "UC3Yzu-R2kV5mFcYpA9vMc2g"
+    date "2020-11-21T04:22:23Z"
+    title "Adrenochrome"
+    description "Adrenochrome eat the rich fuck every politician and officer every cia fbi dea cnn fuck. piss on flags and other symbolism drop nukes on the white house give your neighbor a hug and organise to give everyone free drugs for life"
+    channeltitle "The Manson Blues"
+    channelid "UC75Mdq7d8o9fdiKMccn51_w"
     favcount 0
-    viewcount 1040
-    likecount 7
+    viewcount 136
+    likecount 3
     commentcount 1
-    duration "PT4M25S"
+    duration "PT3M7S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 6
   ]
   node
   [
-    id 129
-    name "178"
-    label "ng9wfSPCfxY"
+    id 180
+    label "CtIYqkqN2Bg"
     step 0
-    date "2019-05-29T21:26:02Z"
-    title "HORROR GMV - Adrenochrome (Konceal)"
-    description "Song: Adrenochrome by Konceal&#10;https://www.youtube.com/watch?v=95MttFz1Yw0"
-    channeltitle "REDRUM GMV"
-    channelid "UChrTfOhk-SEB8XDZ7FrQUXg"
+    date "2020-12-10T17:57:52Z"
+    title "- U-Foe (Underground Trap/Hip-hop/Rap Artist)- FEAR AND LOATHING IN LAS VEGAS INSPIRED"
+    description "#fearandloathingmusic #orangeacid #ufoe&#10;&#10;Produced by Boxtrumental.&#10;&#10;This mixtape was inspired by my love for Fear and Loathing in Las Vegas, Hunter S. Thompson n all things trippy.&#10;&#10;All lyrics copyright of U-Foe 2020."
+    channeltitle "U- Foe [Upcoming Hip hop Rap Trap Artist]"
+    channelid "UCHtx_ooKuSJJ4kXRcvdvOtQ"
     favcount 0
-    viewcount 1756
-    likecount 35
-    commentcount 5
-    duration "PT5M6S"
+    viewcount 89
+    likecount 12
+    commentcount 10
+    duration "PT2M44S"
+    sentiment -0.5719
+    PERSPECTIVESEXUALLYEXPLICIT 0.19982909
+    PERSPECTIVEPROFANITY 0.18012565
+    PERSPECTIVEFLIRTATION 0.49632132
+    PERSPECTIVETHREAT 0.18952234
+    PERSPECTIVETOXICITY 0.355017
+    PERSPECTIVEINSULT 0.19620275
+    PERSPECTIVEIDENTITYATTACK 0.106839694
+    PERSPECTIVEINFLAMMATORY 0.04940607
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 1
   ]
   node
   [
-    id 130
-    name "181"
+    id 181
     label "wTEC319belg"
     step 0
     date "2021-05-11T17:31:04Z"
@@ -3919,24 +3555,21 @@ graph
     likecount 8
     commentcount 10
     duration "PT2M23S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20971519
+    PERSPECTIVEPROFANITY 0.12710613
+    PERSPECTIVEFLIRTATION 0.30469522
+    PERSPECTIVETHREAT 0.17654169
+    PERSPECTIVETOXICITY 0.015688026
+    PERSPECTIVEINSULT 0.09321964
+    PERSPECTIVEIDENTITYATTACK 0.10561961
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 131
-    name "182"
+    id 182
     label "ZuJqPtPjD5c"
     step 0
     date "2022-01-19T02:23:33Z"
@@ -3949,24 +3582,21 @@ graph
     likecount 2
     commentcount 0
     duration "PT2M30S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1827763
+    PERSPECTIVEPROFANITY 0.10837063
+    PERSPECTIVEFLIRTATION 0.37387112
+    PERSPECTIVETHREAT 0.10380033
+    PERSPECTIVETOXICITY 0.039254878
+    PERSPECTIVEINSULT 0.13096061
+    PERSPECTIVEIDENTITYATTACK 0.07607671
+    PERSPECTIVEINFLAMMATORY 0.14717397
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 3
   ]
   node
   [
-    id 132
-    name "183"
+    id 183
     label "nnPf7Uwm9zE"
     step 0
     date "2011-05-26T11:07:49Z"
@@ -3979,24 +3609,21 @@ graph
     likecount 10
     commentcount 4
     duration "PT8M39S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13845156
+    PERSPECTIVEPROFANITY 0.064479284
+    PERSPECTIVEFLIRTATION 0.29793656
+    PERSPECTIVETHREAT 0.07972646
+    PERSPECTIVETOXICITY 0.0168681
+    PERSPECTIVEINSULT 0.043434795
+    PERSPECTIVEIDENTITYATTACK 0.034663036
+    PERSPECTIVEINFLAMMATORY 0.0982586
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 11
   ]
   node
   [
-    id 133
-    name "184"
+    id 184
     label "GIjIx9FUvxY"
     step 0
     date "2019-09-18T16:04:53Z"
@@ -4009,24 +3636,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT3M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.29332426
+    PERSPECTIVEPROFANITY 0.15317026
+    PERSPECTIVEFLIRTATION 0.46039185
+    PERSPECTIVETHREAT 0.19168298
+    PERSPECTIVETOXICITY 0.04680874
+    PERSPECTIVEINSULT 0.12824872
+    PERSPECTIVEIDENTITYATTACK 0.10911251
+    PERSPECTIVEINFLAMMATORY 0.1354851
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 3
   ]
   node
   [
-    id 134
-    name "185"
+    id 185
     label "wVQsOrE3syY"
     step 0
     date "2022-05-21T04:59:19Z"
@@ -4039,84 +3663,75 @@ graph
     likecount 4
     commentcount 0
     duration "PT4M36S"
+    sentiment -0.296
+    PERSPECTIVESEXUALLYEXPLICIT 0.15950668
+    PERSPECTIVEPROFANITY 0.23008288
+    PERSPECTIVEFLIRTATION 0.36303276
+    PERSPECTIVETHREAT 0.17678027
+    PERSPECTIVETOXICITY 0.101391904
+    PERSPECTIVEINSULT 0.21983561
+    PERSPECTIVEIDENTITYATTACK 0.26578423
+    PERSPECTIVEINFLAMMATORY 0.27539843
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 135
-    name "186"
-    label "dxgRPAc1DTQ"
-    step 0
-    date "2022-01-04T05:18:43Z"
-    title "Inspector Lewis: Adrenochrome"
-    description "Harry is asked to do something he does not want to do... so the antagonist brings up a painful subject to change his mind."
-    channeltitle "WhiteStone Foundation"
-    channelid "UCr3f-FfgW2qOXtxln30bhPw"
-    favcount 0
-    viewcount 68
-    likecount 4
-    commentcount 0
-    duration "PT56S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 136
-    name "188"
-    label "Swn_PAn-pHE"
+    id 187
+    label "5550Qo-U8ew"
     step 0
-    date "2020-04-01T05:44:12Z"
-    title "Adrenochrome; Chief Counsel Robert David Steele (ITNJ Seating)"
-    description "Edited Version; Child Sacrifice &#38; Drinking Blood &#10;All videos from the London seating are available at https://commission.itnj.org&#10;Original FULL UNEDITED Version; &#10;&#10;https://www.youtube.com/watch?time_continue=112&#38;v=PU0YDyThImk&#38;feature=emb_logo"
-    channeltitle "Crypto Knight"
-    channelid "UC91lZeN3K7Wy8GnqFImfFBA"
+    date "2022-05-14T20:07:10Z"
+    title "OLD FUTURE -  (instrumental) (Stoupe type beat)"
+    description "Track 1 off  &#34;ADRENOCHROME&#34; (2022)"
+    channeltitle "Out To Launch Productions"
+    channelid "UCQQGesXYiXa_SmCBAUEexRw"
     favcount 0
-    viewcount 15531
-    likecount 412
-    commentcount 51
-    duration "PT8M15S"
+    viewcount 71
+    likecount 2
+    commentcount 2
+    duration "PT2M21S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.09411856
+    PERSPECTIVEPROFANITY 0.10625368
+    PERSPECTIVEFLIRTATION 0.47297552
+    PERSPECTIVETHREAT 0.46152043
+    PERSPECTIVETOXICITY 0.09978092
+    PERSPECTIVEINSULT 0.12274831
+    PERSPECTIVEIDENTITYATTACK 0.06932586
+    PERSPECTIVEINFLAMMATORY 9.774344e-05
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 137
-    name "190"
+    id 189
+    label "D4UVYbgwD5w"
+    step 0
+    date "2021-02-22T22:50:32Z"
+    title "ADRENOCHROME [JJK AMV]"
+    description "Wassup y'all it's ya boy skinny penis back with another AMV&#10;I made one on JJK since I've been enjoying the anime as well as a secondary reason which will be explained after the following ad&#10;&#10;&#10;Yeah like I'm getting paid to do anything these days lol. I made this amv on a song and with the same clip as a biteki amv, i wanted to see what my amv's would be like compared to his even tho he makes them twice a day and about 3 mins long lmao. Anyway if you wanna check it out for yourself the link is right below this bullshit that I'm saying so go check it out (if you want you can comment 'Biteki is a horndog' under the video that'd be pretty cool) anyways laters &#10;&#10;&#10;Original biteki amv: https://www.youtube.com/watch?v=lgF0Ff22EXA&#10;&#10;Song: https://www.youtube.com/watch?v=r4_oPySHvtI&#10;&#10;&#10;twitter: https://twitter.com/CloudyRuben"
+    channeltitle "ASURA"
+    channelid "UCOFyNpT-caTLVqODIhx3JCw"
+    favcount 0
+    viewcount 90
+    likecount 3
+    commentcount 5
+    duration "PT39S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20877184
+    PERSPECTIVEPROFANITY 0.30698738
+    PERSPECTIVEFLIRTATION 0.3152587
+    PERSPECTIVETHREAT 0.24278043
+    PERSPECTIVETOXICITY 0.0041302545
+    PERSPECTIVEINSULT 0.28125903
+    PERSPECTIVEIDENTITYATTACK 0.3147732
+    PERSPECTIVEINFLAMMATORY 0.06933182
+    indegree 0
+    cluster 9
+  ]
+  node
+  [
+    id 190
     label "t99lCiQY_wQ"
     step 0
     date "2022-04-03T04:49:44Z"
@@ -4129,24 +3744,21 @@ graph
     likecount 629
     commentcount 103
     duration "PT1M36S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14111748
+    PERSPECTIVEPROFANITY 0.06791467
+    PERSPECTIVEFLIRTATION 0.38692695
+    PERSPECTIVETHREAT 0.09086033
+    PERSPECTIVETOXICITY 0.015757442
+    PERSPECTIVEINSULT 0.07128206
+    PERSPECTIVEIDENTITYATTACK 0.05015765
+    PERSPECTIVEINFLAMMATORY 0.1536983
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 138
-    name "191"
+    id 191
     label "msqFo2UGpj4"
     step 0
     date "2021-09-14T21:22:35Z"
@@ -4159,54 +3771,48 @@ graph
     likecount 8
     commentcount 0
     duration "PT9M32S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.13528384
+    PERSPECTIVEPROFANITY 0.09690321
+    PERSPECTIVEFLIRTATION 0.42587045
+    PERSPECTIVETHREAT 0.3462298
+    PERSPECTIVETOXICITY 0.08050597
+    PERSPECTIVEINSULT 0.10433945
+    PERSPECTIVEIDENTITYATTACK 0.114574835
+    PERSPECTIVEINFLAMMATORY 0.10031621
     indegree 21
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 6
   ]
   node
   [
-    id 139
-    name "192"
-    label "7cTLXT9F6-0"
+    id 193
+    label "_lgINJxOolo"
     step 0
-    date "2021-10-01T15:01:30Z"
-    title "Adrenochrome, book trailer"
-    description "Available on Amazon.com or www.johntheo.com&#10;&#10;A contemporary, Christian mystery pulled straight from today&#8217;s headlines.&#10;&#10;Cattle farmer, and part time Private Investigator, Brandon Hall is still recovering from the loss of his herd when government agent Roger Drake shows up with a side job. Billionaire playboy Geoffrey Cavendish, recently arrested for sex trafficking, is found dead in prison of an apparent suicide.&#10;&#10;Brandon is tasked with retrieving Cavendish&#8217;s sole business partner, Gabrielle Maxine Walters, and escort her to Washington DC where she has agreed to exchange information for clemency. What promises to be a simple babysitting job turns out to be far more dangerous than Brandon ever expected.&#10;&#10;Alone, and on the run, Brandon must protect Gabrielle Walters at all costs and deliver her safely to the Attorney General while being pursued by treasonous deep-state cells within the government.&#10;&#10;*As with all of John Theo Jr.&#8217;s novels, Adrenochrome is devoid of foul language, and gratuitous sex scenes, but does contain tough subject matter."
-    channeltitle "John Theo"
-    channelid "UC_tXTp-mEENYHe2Ex3LJeXg"
+    date "2020-08-06T03:34:20Z"
+    title "Is Alibaba selling ADRENOCHROME!?"
+    description "I typed adrenochrome into the search on alibaba and here&#8217;s what I found. Is this real? Does anyone know what this actually is and where it came from? Sorry there&#8217;s no sound, I did a quick screen recording on my phone."
+    channeltitle "audrey.9640"
+    channelid "UCY2mu4nIE1k37Wdzbqpo01A"
     favcount 0
-    viewcount 146
-    likecount 3
-    commentcount 2
-    duration "PT1M3S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    viewcount 6358
+    likecount 77
+    commentcount 54
+    duration "PT6M44S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.12448185
+    PERSPECTIVEPROFANITY 0.17665778
+    PERSPECTIVEFLIRTATION 0.40385878
+    PERSPECTIVETHREAT 0.14834614
+    PERSPECTIVETOXICITY 0.016035106
+    PERSPECTIVEINSULT 0.15932667
+    PERSPECTIVEIDENTITYATTACK 0.20426844
+    PERSPECTIVEINFLAMMATORY 0.25146556
+    indegree 12
+    cluster 9
   ]
   node
   [
-    id 140
-    name "194"
+    id 194
     label "YVaH0_tdJQQ"
     step 0
     date "2018-08-22T21:16:34Z"
@@ -4219,24 +3825,21 @@ graph
     likecount 9
     commentcount 2
     duration "PT23S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1715721
+    PERSPECTIVEPROFANITY 0.13255595
+    PERSPECTIVEFLIRTATION 0.31631655
+    PERSPECTIVETHREAT 0.106055945
+    PERSPECTIVETOXICITY 0.042001735
+    PERSPECTIVEINSULT 0.13619457
+    PERSPECTIVEIDENTITYATTACK 0.06496278
+    PERSPECTIVEINFLAMMATORY 0.1560282
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 141
-    name "195"
+    id 195
     label "zfeefIbqr-Q"
     step 0
     date "2020-05-24T07:27:21Z"
@@ -4249,54 +3852,48 @@ graph
     likecount 4
     commentcount 2
     duration "PT27S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20058271
+    PERSPECTIVEPROFANITY 0.13681173
+    PERSPECTIVEFLIRTATION 0.33723915
+    PERSPECTIVETHREAT 0.1828712
+    PERSPECTIVETOXICITY 0.0681194
+    PERSPECTIVEINSULT 0.12283722
+    PERSPECTIVEIDENTITYATTACK 0.091580175
+    PERSPECTIVEINFLAMMATORY 0.1794413
     indegree 12
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 142
-    name "196"
-    label "SKUSnzVP8K8"
-    step 0
-    date "2021-10-30T18:55:09Z"
-    title "Adrenochrome EP (Full Album)"
-    description "i procrastinated this video a lot&#10;&#10;Adrenochrome (0:00)&#10;Schizophrine (3:39)&#10;Adrenaline (7:51)&#10;&#10;stream adrenochrome: https://open.spotify.com/album/7xDzpBz2he6o9wZpG6XBnE?si=uXz0A83ERcGwYZHZ6TVvgA&#38;nd=1&#10;&#10;buy adrenochrome: https://somanylynx.bandcamp.com/album/adrenochrome-ep"
-    channeltitle "somanylynx"
-    channelid "UCgPUo-eq6dBDiYTaMr9DKFg"
-    favcount 0
-    viewcount 205
-    likecount 16
-    commentcount 6
-    duration "PT11M43S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 143
-    name "198"
+    id 197
+    label "poLKyOYCQ3w"
+    step 0
+    date "2021-06-05T03:14:48Z"
+    title "THE KNIFE BY ADRENOCHROME"
+    description "The Knife by Adrenochrome 2021&#10;&#10;Band: Gina Marie vocals, Alex bass, Brianne drums, Andres guitar&#10;&#10;Music Video Directed by Marcelle Marais&#10;Song Recorded by Justin Ennis&#10;Song Mixed by Skot Brown&#10;&#10;Adrenochrome is a dark wave punk band from Oakland CA, started in 2017. We do NOT participate in or tolerate dangerous conspiracy theories and Qanon ideologies.&#10;&#10;https://adrenochromeoakland.bandcamp.com/releases"
+    channeltitle "Marcelle Marais"
+    channelid "UCm00kALtCZUexyIaNkk5X8g"
+    favcount 0
+    viewcount 122
+    likecount 0
+    commentcount 0
+    duration "PT3M16S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13348083
+    PERSPECTIVEPROFANITY 0.20419958
+    PERSPECTIVEFLIRTATION 0.248081
+    PERSPECTIVETHREAT 0.26049644
+    PERSPECTIVETOXICITY 0.1580154
+    PERSPECTIVEINSULT 0.18216603
+    PERSPECTIVEIDENTITYATTACK 0.2985953
+    PERSPECTIVEINFLAMMATORY 0.19897759
+    indegree 0
+    cluster 8
+  ]
+  node
+  [
+    id 198
     label "qSaNq_CPB70"
     step 0
     date "2014-05-06T00:19:14Z"
@@ -4309,54 +3906,48 @@ graph
     likecount 161
     commentcount 15
     duration "PT1M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13717811
+    PERSPECTIVEPROFANITY 0.091470726
+    PERSPECTIVEFLIRTATION 0.3179554
+    PERSPECTIVETHREAT 0.10388809
+    PERSPECTIVETOXICITY 0.012217224
+    PERSPECTIVEINSULT 0.154188
+    PERSPECTIVEIDENTITYATTACK 0.1186193
+    PERSPECTIVEINFLAMMATORY 0.17583549
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 9
-  ]
-  node
-  [
-    id 144
-    name "199"
-    label "fJlGyxHDCNI"
-    step 0
-    date "2021-09-06T16:03:36Z"
-    title "Trephine - Adrenochrome"
-    description "Trephine - Adrenochrome&#10;Public Guilt  (2005)&#10;https://www.discogs.com/Trephine-Trephine/release/1226081"
-    channeltitle "Noise Floor"
-    channelid "UCpKEE-KdTHsirPEsZPySJ3g"
-    favcount 0
-    viewcount 123
-    likecount 2
-    commentcount 0
-    duration "PT6M43S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 145
-    name "202"
+    id 201
+    label "b8vG6Hwf26Y"
+    step 0
+    date "2022-01-20T04:51:26Z"
+    title "GOOD MORNING CYBERTRON! Red Lobster Adrenochrome"
+    description "GOOD MORNING CYBERTRON IS AN ADULT SHOW AND NOT MEANT FOR THOSE UNDER THE AGE OF 18. VIEWER DISCRETION IS ADVISED. &#10;&#10;TREAT YOURSELF TO OUR MERCH&#10;https://www.redbubble.com/people/GMCybertron/shop?asc=u&#10;&#10;SOCIAL MEDIA&#10;https://www.facebook.com/groups/GoodMorningCybertron&#10;https://www.thingiverse.com/blunghole/designs&#10;https://twitter.com/GMCybertron&#10;&#10;&#10;&#10;BUY OUR FRIEND'S TOYS! http://sirtoys.com/?a=16&#8203;&#8203;&#10;&#10;&#10;&#10;PATREON MAKES YOUR MONEY OUR MONEY! https://www.patreon.com/gmcentertainment"
+    channeltitle "blunghole"
+    channelid "UCdp0zWN2uhITZOiKS5ULV4g"
+    favcount 0
+    viewcount 172
+    likecount 14
+    commentcount 2
+    duration "PT1H36M40S"
+    sentiment 0.4404
+    PERSPECTIVESEXUALLYEXPLICIT 0.17308556
+    PERSPECTIVEPROFANITY 0.1307886
+    PERSPECTIVEFLIRTATION 0.39458168
+    PERSPECTIVETHREAT 0.13837382
+    PERSPECTIVETOXICITY 0.0753116
+    PERSPECTIVEINSULT 0.1235764
+    PERSPECTIVEIDENTITYATTACK 0.12449294
+    PERSPECTIVEINFLAMMATORY 0.061094876
+    indegree 0
+    cluster 6
+  ]
+  node
+  [
+    id 202
     label "c743mqIwLZA"
     step 0
     date "2012-03-29T15:46:47Z"
@@ -4369,24 +3960,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT3M45S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20721841
+    PERSPECTIVEPROFANITY 0.114615664
+    PERSPECTIVEFLIRTATION 0.3603038
+    PERSPECTIVETHREAT 0.12213356
+    PERSPECTIVETOXICITY 0.008711713
+    PERSPECTIVEINSULT 0.10066107
+    PERSPECTIVEIDENTITYATTACK 0.081974894
+    PERSPECTIVEINFLAMMATORY 0.1495207
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 3
   ]
   node
   [
-    id 146
-    name "203"
+    id 203
     label "o2VpRp258bg"
     step 0
     date "2020-06-27T00:23:09Z"
@@ -4399,24 +3987,21 @@ graph
     likecount 138
     commentcount 14
     duration "PT1M48S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17319472
+    PERSPECTIVEPROFANITY 0.25853705
+    PERSPECTIVEFLIRTATION 0.29198298
+    PERSPECTIVETHREAT 0.22995453
+    PERSPECTIVETOXICITY 0.015549194
+    PERSPECTIVEINSULT 0.19002533
+    PERSPECTIVEIDENTITYATTACK 0.2576624
+    PERSPECTIVEINFLAMMATORY 0.15423565
     indegree 34
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 11
   ]
   node
   [
-    id 147
-    name "204"
+    id 204
     label "4tLWMqSxUhE"
     step 0
     date "2020-05-31T06:09:47Z"
@@ -4429,24 +4014,21 @@ graph
     likecount 31
     commentcount 5
     duration "PT3M11S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13754885
+    PERSPECTIVEPROFANITY 0.12760209
+    PERSPECTIVEFLIRTATION 0.33113113
+    PERSPECTIVETHREAT 0.15997134
+    PERSPECTIVETOXICITY 0.042001735
+    PERSPECTIVEINSULT 0.06718633
+    PERSPECTIVEIDENTITYATTACK 0.08694723
+    PERSPECTIVEINFLAMMATORY 0.07926133
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 8
   ]
   node
   [
-    id 148
-    name "205"
+    id 205
     label "3-AiAv5sS7o"
     step 0
     date "2014-10-23T18:18:00Z"
@@ -4459,24 +4041,21 @@ graph
     likecount 56
     commentcount 10
     duration "PT8M49S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.11069099
+    PERSPECTIVEPROFANITY 0.037697107
+    PERSPECTIVEFLIRTATION 0.517935
+    PERSPECTIVETHREAT 0.05363755
+    PERSPECTIVETOXICITY 0.15334547
+    PERSPECTIVEINSULT 0.070972286
+    PERSPECTIVEIDENTITYATTACK 0.044683896
+    PERSPECTIVEINFLAMMATORY 0.18696554
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 9
   ]
   node
   [
-    id 149
-    name "206"
+    id 206
     label "xMY_ZSnj2NU"
     step 0
     date "2019-05-04T13:55:36Z"
@@ -4489,84 +4068,75 @@ graph
     likecount 157
     commentcount 51
     duration "PT1M37S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1374308
+    PERSPECTIVEPROFANITY 0.16444753
+    PERSPECTIVEFLIRTATION 0.24332586
+    PERSPECTIVETHREAT 0.09742905
+    PERSPECTIVETOXICITY 0.015549194
+    PERSPECTIVEINSULT 0.11936964
+    PERSPECTIVEIDENTITYATTACK 0.23563011
+    PERSPECTIVEINFLAMMATORY 0.09287363
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 150
-    name "207"
-    label "yv_EO5UxEMg"
+    id 209
+    label "zCaKRUcSNPU"
     step 0
-    date "2021-11-13T18:50:20Z"
-    title "Adrenochrome - i wanne be your dog"
-    description ""
-    channeltitle "SKATZ - SK music label"
-    channelid "UCLIJwkMx1EiIhUjLZxugJWA"
+    date "2021-04-17T20:44:49Z"
+    title "Actor Jim Caviezel at the conference  talks about adrenochrome."
+    description "Actor Jim Caviezel at the conference &#34;Health and Freedom&#34; talks about adrenochrome, and also talks about the film &#34;The Sound of Freedom&#34;, which is due to be released soon:&#10;&#10;- 4,500 people in the audience, half a million online (note: millions of viewers will watch it on the record). Can you explain to people what it means (adrenochrome)? Because many people have already heard about it, and we need to discuss it.&#10;&#10;&#34;I'll simplify it. When you experience fear, adrenaline is released into your bloodstream. When a child knows that he is about to be killed, his blood is filled with adrenaline. Even if I'd never seen it, and only heard the screams... This is the worst thing that can happen. This is unthinkable. And these people... There will be no mercy for them.&#10;&#10;#JimCaviezel #SoundOfFreedom"
+    channeltitle "Mitch Smoove Show"
+    channelid "UCm1CLzILKOw2_I1LYNBkIyw"
     favcount 0
-    viewcount 85
-    likecount 4
-    commentcount 1
-    duration "PT4M35S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    viewcount 29697
+    likecount 997
+    commentcount 251
+    duration "PT4M3S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.10699315
+    PERSPECTIVEPROFANITY 0.05139192
+    PERSPECTIVEFLIRTATION 0.38786334
+    PERSPECTIVETHREAT 0.071569815
+    PERSPECTIVETOXICITY 0.11794081
+    PERSPECTIVEINSULT 0.092129424
+    PERSPECTIVEIDENTITYATTACK 0.042523008
+    PERSPECTIVEINFLAMMATORY 0.041294742
+    indegree 30
+    cluster 9
   ]
   node
   [
-    id 151
-    name "210"
-    label "3Fou0p7oz9o"
+    id 211
+    label "lrZfP1HpRZ8"
     step 0
-    date "2016-01-12T17:19:39Z"
-    title "Adrenochrome (Original Mix)"
-    description "Provided to YouTube by IIP-DDS&#10;&#10;Adrenochrome (Original Mix) &#183; Push'n'Ball&#10;&#10;X-Massive&#10;&#10;&#8471; BeMassive Records&#10;&#10;Released on: 2016-01-11&#10;&#10;Artist: Push'n'Ball&#10;&#10;Auto-generated by YouTube."
-    channeltitle "Push'n'Ball - Topic"
-    channelid "UChzRibUgQC52jICDJthcYTg"
+    date "2020-08-17T16:00:53Z"
+    title "Adrenochrome | Official Music Video"
+    description "Don't be fooled, Adrenochrome is very real... and it's the greatest thing ever! You can get it here: https://soundcloud.com/derelictmusicofficial/adrenochrome"
+    channeltitle "BIMODAL"
+    channelid "UCL6IqLzEsJXmfmn3LqQBtGg"
     favcount 0
-    viewcount 52
-    likecount 1
-    commentcount 0
-    duration "PT7M28S"
+    viewcount 6400
+    likecount 48
+    commentcount 36
+    duration "PT5M47S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1533124
+    PERSPECTIVEPROFANITY 0.14552306
+    PERSPECTIVEFLIRTATION 0.3196518
+    PERSPECTIVETHREAT 0.28270394
+    PERSPECTIVETOXICITY 0.0765103
+    PERSPECTIVEINSULT 0.14268334
+    PERSPECTIVEIDENTITYATTACK 0.077970214
+    PERSPECTIVEINFLAMMATORY 0.0927434
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 1
   ]
   node
   [
-    id 152
-    name "212"
+    id 212
     label "s4IKYYrQlgc"
     step 0
     date "2020-04-22T00:24:11Z"
@@ -4579,144 +4149,129 @@ graph
     likecount 101
     commentcount 3
     duration "PT1M37S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.09412021
+    PERSPECTIVEPROFANITY 0.07006737
+    PERSPECTIVEFLIRTATION 0.2941368
+    PERSPECTIVETHREAT 0.058920916
+    PERSPECTIVETOXICITY 0.022773718
+    PERSPECTIVEINSULT 0.043930605
+    PERSPECTIVEIDENTITYATTACK 0.036219034
+    PERSPECTIVEINFLAMMATORY 0.031999853
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 153
-    name "213"
-    label "KfkvL7kVg_k"
+    id 217
+    label "9UcF0slpKA4"
     step 0
-    date "2020-05-12T11:43:55Z"
-    title "The Simpsons (adreno.chrome)"
-    description "#adrenochrome"
-    channeltitle "Maraql&#305; ara&#351;d&#305;rmalar"
-    channelid "UCI-GUwtwtCPP-cqi6f7V3BA"
+    date "2021-01-18T16:02:25Z"
+    title "Hurricane Joe  Adrenochrome"
+    description "Music by Hurricane Joe for Narco Entertainment&#10;Vokills by Bully the bastard"
+    channeltitle "Hurricane Joe"
+    channelid "UCwl0ic2T_zv89w13XABrzFA"
     favcount 0
-    viewcount 760
-    likecount 11
-    commentcount 2
-    duration "PT19S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    viewcount 141
+    likecount 8
+    commentcount 0
+    duration "PT4M17S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17434923
+    PERSPECTIVEPROFANITY 0.14385568
+    PERSPECTIVEFLIRTATION 0.3497748
+    PERSPECTIVETHREAT 0.1491953
+    PERSPECTIVETOXICITY 0.023460433
+    PERSPECTIVEINSULT 0.11143274
+    PERSPECTIVEIDENTITYATTACK 0.12907112
+    PERSPECTIVEINFLAMMATORY 0.18890692
+    indegree 17
+    cluster 6
   ]
   node
   [
-    id 154
-    name "218"
-    label "YkWiOsiBGcU"
+    id 219
+    label "lxrjv_p3wpA"
     step 0
-    date "2019-02-23T19:27:58Z"
-    title "Sisters Of Mercy - Adrenochrome"
-    description "Created with Wondershare Filmora"
-    channeltitle "Mike Petersen"
-    channelid "UClhQCJPoTtEk6QyaeVr2OQQ"
+    date "2018-02-10T16:23:02Z"
+    title "Making of  aka Misirlou movie"
+    description "Full movie is now available to stream at: http://a.co/1H2JoDg"
+    channeltitle "Trevor Simms"
+    channelid "UChonncuU36suXoDSBLFtrvQ"
     favcount 0
-    viewcount 8689
-    likecount 93
-    commentcount 58
-    duration "PT3M2S"
+    viewcount 984
+    likecount 5
+    commentcount 1
+    duration "PT1M48S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19015263
+    PERSPECTIVEPROFANITY 0.15260102
+    PERSPECTIVEFLIRTATION 0.42349368
+    PERSPECTIVETHREAT 0.15884154
+    PERSPECTIVETOXICITY 0.103539884
+    PERSPECTIVEINSULT 0.14649333
+    PERSPECTIVEIDENTITYATTACK 0.095303304
+    PERSPECTIVEINFLAMMATORY 0.00050080236
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
-  ]
-  node
-  [
-    id 155
-    name "220"
-    label "qSTbNles8uU"
-    step 0
-    date "2020-09-14T11:30:32Z"
-    title "Vibhor Anand Exposed US Dr. Vijay Tiwari || Salman Khan || Adrenochrome || SSR || Part 1"
-    description "Advocate Vibhor Anand Exposed USA American Doctor Vijay Tiwari || Salman Khan || Adrenochrome || SSR || Part 1 || Sushant Singh Rajput || Child Trafficking || Disha Salian || Rhea Chakraborty || Varun Kapoor Show&#10;&#10;vibhor anand deleted video&#10;varun kapur deleted video&#10;varun kapoor deleted video&#10;advocate vibhor anand deleted video&#10;vibhor anand nepali minor girl&#10;&#10;#vibhoranand #ssr #vijaytiwari #varunkapur #sushantsinghrajput #engineerinside #ishkaransinghbhandari #salmankhan #dishasalian&#10;&#10;vibhor anand&#10;vibhor anand advocate&#10;vibhor anand live&#10;vibhor anand sushant&#10;vibhor anand latest video&#10;vibhor anand salman khan&#10;vibhor anand akshay kumar&#10;vibhor anand interview&#10;vibhor anand on ssr&#10;vibhor anand twitter&#10;vibhor anand exposed&#10;vibhor anand engineer&#10;vibhor anand engineer inside&#10;vibhor anand vs ishkaran&#10;vibhor anand ujjawal trivedi&#10;vibhor anand and varun kapoor&#10;vibhor anand and varun&#10;vibhor anand twitter&#10;vibhor anand tweets&#10;adv vibhor anand twitter&#10;advocate vibhor anand twitter&#10;vibhor anand latest tweet&#10;vibhor anand advocate&#10;vibhor anand advocate live&#10;vibhor anand advocate on salman khan&#10;vibhor anand advocate nirbhaya&#10;vibhor anand advocate latest news&#10;vibhor anand advocate today&#10;vibhor anand advocate channel&#10;vibhor anand advocate biography&#10;vibhor anand adv&#10;vibhor anand advocate latest&#10;vibhor anand sushant&#10;vibhor anand sushant latest&#10;vibhor anand sushant singh&#10;advocate vibhor anand on sushant singh rajput&#10;vibhor anand varun kapoor&#10;vibhor anand varun&#10;vibhor anand advocate varun&#10;vibhor anand news&#10;vibhor anand new video&#10;vibhor anand latest news&#10;vibhor anand advocate latest news&#10;vibhor anand latest video&#10;vibhor anand latest&#10;vibhor anand latest news&#10;vibhor anand latest interview&#10;vibhor anand latest live&#10;vibhor anand latest update&#10;vibhor anand advocate latest news&#10;vibhor anand advocate latest&#10;advocate vibhor anand latest video&#10;adv vibhor anand latest&#10;sushant singh rajput&#10;sushant singh rajput songs&#10;sushant singh rajput news&#10;sushant singh rajput movies&#10;sushant singh rajput death&#10;sushant singh rajput spirit news&#10;sushant singh rajput news today&#10;sushant singh&#10;sushant rajput&#10;sushant singh rajput funeral&#10;varun kapoor&#10;varun kapoor live&#10;varun kapur&#10;varun kapoor vibhor anand&#10;varun kapoor show&#10;varun kapil sharma show&#10;ishkaran singh bhandari&#10;ishkaran singh bhandari english&#10;ishkaran singh bhandari live&#10;ishkaran bhandari siddharth pithani&#10;ishkaran singh bhandari subramanian swamy&#10;ishkaran singh bhandari siddharth pithani&#10;ishkaran singh bhandari times now&#10;ishkaran singh bhandari biography&#10;ishkaran singh bhandari debate&#10;ishkaran bhandari english&#10;&#10;vibhor anand, vibhor anand advocate, vibhor anand live, vibhor anand sushant, vibhor anand latest video, vibhor anand salman khan, vibhor anand akshay kumar, vibhor anand interview, vibhor anand on ssr, vibhor anand twitter, vibhor anand exposed, vibhor anand engineer, vibhor anand engineer inside, vibhor anand vs ishkaran, vibhor anand ujjawal trivedi, vibhor anand and varun kapoor, sushant singh rajput, salman khan, ishkaran singh bhandari, child trafficking, ssr&#10;&#10;SHOCKING UPDATES: ADV Vibhor Anand | Sushant Latest Updates | Tamil | Dubai Tamizhan | SSR&#10;Sonu Sood and his Fake Acts Of Kindness - Explosive Revelation by Vibhor Anand&#10;Adv. Vibhor Anand &#38; His Big Breaking Tweets Regarding Sushant Singh Rajput Case&#10;Ishkaran Singh Bhandari vs Vibhor Anand fight to give Justice to Sushant or Opportunists | Decide&#10;Where Salman Khan's famliy leaving?? Dubai?? IPL2020 betting?? by Adv Vibhor Anand and Varun Kapur&#10;VIBHOR ANAND'S SHOCKING REVELATIONS  | SUSHANT SINGH DEATH SECRETS EXPOSED | TAMIL&#10;Vibhor Anand Answering Questions For Sushant Singh Rajput Warriors&#10;Session 2: Bollywood Mafia Exposed - Pooja Misra Validates Vibhor's Revelations&#10;Which Big Fish in Line After Rhea Chakraborty - Vibhor Anand Breaks The News.&#10;Vibhor Anand's Khulasa with Ujjawal Trivedi, Lovely Choubey, and Varun Kapur"
-    channeltitle "Instagram Live"
-    channelid "UCSULiLEUSYJDq-n65V8gKlQ"
-    favcount 0
-    viewcount 103157
-    likecount 1764
-    commentcount 1248
-    duration "PT8M8S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 156
-    name "222"
-    label "MmfiiQEAAfQ"
+    id 221
+    label "mS5e_kQhxP0"
     step 0
-    date "2020-06-19T02:52:09Z"
-    title "Simpsons and Adrenochrome"
-    description ""
-    channeltitle "Our God Is A Consuming Fire"
-    channelid "UCL3QmxIh14-n2YfjEiAjevw"
+    date "2018-09-13T18:58:28Z"
+    title "Debridement - Adrenochrome"
+    description "Taken from the debut album &#34;Drowning in a cesspool of malform and malady&#34; available now on Rotten Roll Rex.&#10;&#10;Pick it up here https://debridementofficial.bandcamp.com/album/drowning-in-a-cesspool-of-malform-and-malady"
+    channeltitle "DEBRIDEMENT OFFICIAL"
+    channelid "UCof3bsJX1QXJRSqokNZRa1g"
     favcount 0
-    viewcount 2096
-    likecount 30
-    commentcount 2
-    duration "PT20S"
+    viewcount 544
+    likecount 19
+    commentcount 1
+    duration "PT3M28S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19919683
+    PERSPECTIVEPROFANITY 0.12312567
+    PERSPECTIVEFLIRTATION 0.40295887
+    PERSPECTIVETHREAT 0.108060665
+    PERSPECTIVETOXICITY 0.008746422
+    PERSPECTIVEINSULT 0.13294831
+    PERSPECTIVEIDENTITYATTACK 0.093154535
+    PERSPECTIVEINFLAMMATORY 0.14717397
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 5
   ]
   node
   [
-    id 157
-    name "224"
+    id 223
+    label "lbz0aeVUYKI"
+    step 0
+    date "2021-07-12T22:34:55Z"
+    title "Adrenochrome ((part one))"
+    description "song 2 in the conspiracy synth series^^&#10;(an original synth sound design that explores the mind altering effects of the drug known as Adrenochrome)"
+    channeltitle "Doctor Vortex"
+    channelid "UCVhfYNRTonRsn2DqhEZyFgA"
+    favcount 0
+    viewcount 69
+    likecount 2
+    commentcount 0
+    duration "PT2M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1908085
+    PERSPECTIVEPROFANITY 0.108204216
+    PERSPECTIVEFLIRTATION 0.44178003
+    PERSPECTIVETHREAT 0.12436167
+    PERSPECTIVETOXICITY 0.0168681
+    PERSPECTIVEINSULT 0.082557544
+    PERSPECTIVEIDENTITYATTACK 0.0621238
+    PERSPECTIVEINFLAMMATORY 0.14426745
+    indegree 0
+    cluster 11
+  ]
+  node
+  [
+    id 224
     label "VwrWvzkthOk"
     step 0
     date "2019-09-02T16:23:11Z"
@@ -4729,24 +4284,21 @@ graph
     likecount 5
     commentcount 1
     duration "PT6M5S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14700906
+    PERSPECTIVEPROFANITY 0.12311153
+    PERSPECTIVEFLIRTATION 0.36546236
+    PERSPECTIVETHREAT 0.11663828
+    PERSPECTIVETOXICITY 0.0801064
+    PERSPECTIVEINSULT 0.17313074
+    PERSPECTIVEIDENTITYATTACK 0.082599536
+    PERSPECTIVEINFLAMMATORY 0.09640626
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 5
   ]
   node
   [
-    id 158
-    name "225"
+    id 225
     label "6Jehh4qUGwY"
     step 0
     date "2008-10-03T23:29:32Z"
@@ -4759,84 +4311,75 @@ graph
     likecount 340
     commentcount 230
     duration "PT4M10S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.24795061
+    PERSPECTIVEPROFANITY 0.26358992
+    PERSPECTIVEFLIRTATION 0.3946305
+    PERSPECTIVETHREAT 0.3712724
+    PERSPECTIVETOXICITY 0.1609341
+    PERSPECTIVEINSULT 0.3894362
+    PERSPECTIVEIDENTITYATTACK 0.30897024
+    PERSPECTIVEINFLAMMATORY 0.45741835
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
-  ]
-  node
-  [
-    id 159
-    name "226"
-    label "iltd4ieueHc"
-    step 0
-    date "2020-09-17T08:25:31Z"
-    title "What is Adrenochrome | Illuminati group | Sushant ki maut kya live streamed hui thi ?"
-    description "#Justice4SSR&#10;Hey guys , please subscribe to my channel . &#10;&#10;Follow me on Instagram -&#10;I'm on Instagram as @zennisdasofficial&#10;&#10;Follow me on Facebook - &#10;https://m.facebook.com/Zennis4u/?tsid=0.25289085385395293&#38;source=result&#10;&#10;Copyright Disclaimer Under Section 107 of the Copyright Act 1976 allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profite, educational or personal use tips the balance in favour of fair use."
-    channeltitle "Zennis Das"
-    channelid "UC_Q1jZUqV4ELcDBh1ukeRqg"
-    favcount 0
-    viewcount 136560
-    likecount 6037
-    commentcount 1278
-    duration "PT4M19S"
-    indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 160
-    name "228"
-    label "ti1MZfBUSSo"
+    id 227
+    label "qxlab9fMUak"
     step 0
-    date "2020-09-25T08:20:51Z"
-    title "Adrenochrome kya hai? Why adrenochrome is in news (In Hindi by Author Anuj)"
-    description "Shocking truth about adrenochrome #adrenochrome"
-    channeltitle "The Sadhu perspective @Andarkyahai"
-    channelid "UCeV5sfBYUGpeQJi8HzA0CUA"
+    date "2016-08-06T00:30:46Z"
+    title "Weenersoup Adrenochrome"
+    description "Adrenochrome by Weenersoup&#10;Off Summer 16 Demo&#10;&#10;All music and lyrics performed by Weenersoup, of Toledo, OH."
+    channeltitle "Weenersoup Music"
+    channelid "UCRi96akCRT171YowifmSuww"
     favcount 0
-    viewcount 1125
-    likecount 68
-    commentcount 16
-    duration "PT4M18S"
+    viewcount 117
+    likecount 2
+    commentcount 0
+    duration "PT2M52S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.2630261
+    PERSPECTIVEPROFANITY 0.14573057
+    PERSPECTIVEFLIRTATION 0.3530581
+    PERSPECTIVETHREAT 0.110343926
+    PERSPECTIVETOXICITY 0.015896274
+    PERSPECTIVEINSULT 0.11072297
+    PERSPECTIVEIDENTITYATTACK 0.08137467
+    PERSPECTIVEINFLAMMATORY 0.13401067
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 161
-    name "230"
+    id 229
+    label "38wYeoP8zIg"
+    step 0
+    date "2021-03-07T15:05:22Z"
+    title "ADRENOCHROME"
+    description "Address : &#10;&#10;FIFA F&#233;d&#233;ration Internationale de Football Association&#10;FIFA-Strasse 20&#10;8044 Z&#252;rich"
+    channeltitle "Owen"
+    channelid "UCyRffUJg8XGSHNxcGsz1hXQ"
+    favcount 0
+    viewcount 560
+    likecount 9
+    commentcount 1
+    duration "PT11S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16708626
+    PERSPECTIVEPROFANITY 0.30775812
+    PERSPECTIVEFLIRTATION 0.3092009
+    PERSPECTIVETHREAT 0.24534537
+    PERSPECTIVETOXICITY 0.0070804367
+    PERSPECTIVEINSULT 0.2379216
+    PERSPECTIVEIDENTITYATTACK 0.32029855
+    PERSPECTIVEINFLAMMATORY 0.13898769
+    indegree 2
+    cluster 9
+  ]
+  node
+  [
+    id 230
     label "IA3mFMwlBmE"
     step 0
     date "2022-05-19T15:32:09Z"
@@ -4849,24 +4392,21 @@ graph
     likecount -1
     commentcount 0
     duration "PT7M25S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.11873092
+    PERSPECTIVEPROFANITY 0.16620041
+    PERSPECTIVEFLIRTATION 0.26445603
+    PERSPECTIVETHREAT 0.23619866
+    PERSPECTIVETOXICITY 0.03444787
+    PERSPECTIVEINSULT 0.15571502
+    PERSPECTIVEIDENTITYATTACK 0.23585457
+    PERSPECTIVEINFLAMMATORY 0.064829126
     indegree 3
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 6
   ]
   node
   [
-    id 162
-    name "231"
+    id 231
     label "80awYGQ8OVk"
     step 0
     date "2014-06-23T19:34:58Z"
@@ -4879,84 +4419,75 @@ graph
     likecount 12
     commentcount 2
     duration "PT2M19S"
+    sentiment -0.25
+    PERSPECTIVESEXUALLYEXPLICIT 0.14657499
+    PERSPECTIVEPROFANITY 0.20034488
+    PERSPECTIVEFLIRTATION 0.29084203
+    PERSPECTIVETHREAT 0.19512108
+    PERSPECTIVETOXICITY 0.09494796
+    PERSPECTIVEINSULT 0.14910202
+    PERSPECTIVEIDENTITYATTACK 0.1856549
+    PERSPECTIVEINFLAMMATORY 0.20244859
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
-  ]
-  node
-  [
-    id 163
-    name "232"
-    label "P23uv0SD0RU"
-    step 0
-    date "2022-03-10T10:03:26Z"
-    title "Nebyl jsi tu"
-    description "Provided to YouTube by Believe SAS&#10;&#10;Nebyl jsi tu &#183; NIK&#216;TIN &#183; Dominik Pokorn&#253; &#183; Dominik Pokorn&#253;&#10;&#10;Adrenochrome&#10;&#10;&#8471; NIK&#216;TIN&#10;&#10;Released on: 2022-01-21&#10;&#10;Auto-generated by YouTube."
-    channeltitle "NIK&#216;TIN - Topic"
-    channelid "UC-t8g1nff82LZ5NGw9u74aQ"
-    favcount 0
-    viewcount 2061
-    likecount 29
-    commentcount 0
-    duration "PT2M39S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 164
-    name "235"
-    label "Pn2zdx1om6A"
+    id 234
+    label "12aPfn-liY4"
     step 0
-    date "2020-10-28T05:36:03Z"
-    title "The Adrenochrome Conspiracy #Reality OR #Hoax #You decide #adrenochrome"
-    description "The Adrenochrome Conspiracy #Reality OR #Hoax #You  decide #adrenochrome&#10;The Dark Ages were rife with plague, fanaticism, and accusations that Jews secretly fed off the blood of children. In 2020, we too are beset with plague, rampant&#160;medical misinformation, and a persistent rumor that &#8220;global elites&#8221; torture children to harvest the chemical adrenochrome from their blood, which they then inject in order to stay healthy and young.&#10;&#10;A favorite topic of interconnected&#160;QAnon&#160;and&#160;Pizzagate&#160;conspiracy communities, so-called &#8220;adrenochrome harvesting&#8221; long predates these groups. It has, however, resurrected during the Covid-19 pandemic. Google Trends shows&#160;significant spikes&#160;in searches for adrenochrome in March and June of 2020. It&#8217;s prevalent on&#160;TikTok,&#160;Youtube, and&#160;Instagram. Reddit removed a dedicated adrenochrome subreddit on July 30. On Friday, July 31, conspiracy theorists plan to hold the first &#8220;Child Lives Matter&#8221; protest in Hollywood to &#8220;expose&#8221; child trafficking, advertising the event with references to #adrenochrome.&#10;&#10;The adrenochrome harvesting conspiracy theory is a potent example of &#8220;hidden virality&#8221; and the ways in which unpopular culture animate social media platforms outside of the mainstream view. Named by researchers&#160;Britt Parris and Joan Donovan, hidden virality describes dominant content in specific pockets of the internet that are largely unseen by journalists and mass audiences, making them difficult for social media companies to identify and act upon. The impact of hidden virality can&#8217;t be stopped by retroactively banning a few thousand Twitter accounts; it is an iterative, memetic phenomenon that outpaces terms of service. Even with early intervention by&#160;Reddit&#160;and recent movements by&#160;Twitter,&#160;Facebook&#160;and&#160;TikTok&#160;to crack down on QAnon, adrenochrome harvesting remains a mainstream conversation for some online communities.&#10;&#10;Toxic social attitudes&#160;spread virally alongside hoaxes and disinformation. Adrenochrome harvesting isn&#8217;t outwardly blamed on Jews, but on &#8220;satanic&#8221; and &#8220;globalist&#8221; elites&#8212;dog whistle terms for the far right. The modern adrenochrome obsession is a permutation of&#160;blood libel, an anti-Semitic myth that&#160;pervaded&#160;Europe throughout the middle ages, and a mutated strain of medical misinformation.&#10;&#10;The most effective conspiracy theories are built around kernels of truth. Adrenochrome is a compound that occurs in the body, but about which little scientific research has been done beyond a few studies in the mid-20th century on whether it could play a role in schizophrenia. The question transfixed the writers Aldous Huxley and Hunter S. Thompson, who were obsessed with mind-altering substances. To them, adrenochrome became a psychotropic, akin to mescaline. In his famous&#160;Doors of Perception, written just after the first adrenochrome studies, Huxley described adrenochrome as a clue that was &#8220;being systematically followed.&#8221; &#8220;The sleuths&#8212;biochemists, psychiatrists, psychologists&#8212;are on the trail,&#8221; he wrote. Biologists didn&#8217;t find much of interest.&#10;&#10;Nearly 20 years later, Thompson cast adrenochrome as a psychedelic that must be violently extracted from human glands in his novel&#160;Fear and Loathing in Las Vegas. The scene was immortalized in Terry Gilliam&#8217;s 1998 film; a&#160;YouTube clip&#160;of Johnny Depp&#8217;s character taking adrenochrome, which to date has more than 1.7 million views, has drawn thousands of comments referencing the conspiracy.&#10;&#10;Thompson is explicitly invoked in what seems to be the earliest recorded posts about adrenochrome harvesting on 4Chan&#8217;s /x/ and /pol/ boards, in 2013 and 2014 respectively. In an anti-Semitic 4chan /pol/ thread an anonymous poster linked a restricted, unsearchable video named &#8220;Jew Ritual BLOOD LIBEL Sacrifice is #ADRENOCHROME Harvesting.&#8221; Within these same online communities, Pizzagate formalized and grew in 2015&#8211;2016 before spreading to more mainstream social media.&#10;&#10;In 2016 this same video was shared in a Pizzagate thread about the artist&#160;Marina Abromovich&#160;and her &#8220;spirit cooking&#8221; ceremonies. The next several months saw increasingly outlandish claims online, particularly that the Pixar film&#160;Monsters Inc.&#160;was a&#160;cryptic reference&#160;to adrenochrome harvesting. As some Pizzagate adherents&#160;entered the burgeoning QAnon community&#160;in 2017, they brought the adrenochrome conspiracy with them.&#10;&#10;These factions expanded their audiences in 2018, citing new &#8220;investigations&#8221; and circulating the rumor that a (hoax) website sold adrenochrome in exchange for cryptocurrency. Conspiracy filmmaker Jay Myers released a video, &#8220;Adrenochrome The Elite's Secret Super Drug!&#8221; While the original video was taken down, it remains live on his backup channel and has been uploaded elsewhere online.&#10;&#10;this conspiracy theory has now been hijacked by few Indian YouTubers claiming that big Bollywood stars and elite politicians are consuming this drug and also adding spice of claims that they are involved in child trafficking and pedophilia.&#10;beware of rumours."
-    channeltitle "MIND OVER MATTER with Chirag Bhatt"
-    channelid "UC4EVJrt8uOK1ViHKcYZgGzA"
+    date "2022-05-09T17:42:21Z"
+    title "Adrenochrome Harvesting"
+    description "Pineal Gland extraction."
+    channeltitle "Wisnu Anggoro"
+    channelid "UC1ViaMXODu4k1ON5JIiFq6Q"
     favcount 0
-    viewcount 3003
-    likecount 22
-    commentcount 26
-    duration "PT7M36S"
+    viewcount 95
+    likecount 7
+    commentcount 2
+    duration "PT2M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.34733388
+    PERSPECTIVEPROFANITY 0.20043598
+    PERSPECTIVEFLIRTATION 0.41837454
+    PERSPECTIVETHREAT 0.23497017
+    PERSPECTIVETOXICITY 0.021518974
+    PERSPECTIVEINSULT 0.1341073
+    PERSPECTIVEIDENTITYATTACK 0.110888086
+    PERSPECTIVEINFLAMMATORY 0.18902643
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 165
-    name "238"
+    id 237
+    label "FbI62YIf-UQ"
+    step 0
+    date "2021-02-26T15:00:11Z"
+    title "Adrenochrome"
+    description "Adrenochrome is one of the most mysterious and confusing substances in the pharmacopeia. It has a rich, dark history and has been featured in The Doors of Perception by Aldous Huxley and Fear and Loathing in Las Vegas by Hunter S. Thompson.&#10;&#10;Vanadium features video explorations of the many fascinations of Christopher Rankin. &#10;&#10;See more at:&#10;www.christopherrankin.net&#10;Conspiracy Brothers on YouTube&#10;Instagram&#10;@vanadiumpodcast&#10;@conspiracybrothers&#10;Twitter&#10;@realchrisrankin&#10;&#10;Christopher Rankin is a scientist and the author of Enter the Uncreated Night, Ann Marie's Asylum (Volume One: Master and Apprentice), Creating Monsters and his latest novel, Break the Bastion. He studied engineering at Rutgers University and received a Ph.D. from the University of Pennsylvania.&#10;&#10;Enter the Uncreated Night&#10;Psychologist Oscar Loste is facing the most confusing and frightening case of his career. Six-year-old Beth Bardo is displaying bizarre behavior, including interaction with an imaginary friend she calls Mister Smiler. This invented character supplies Beth with an impossible degree of knowledge about everything from science to ancient cultures to Oscar&#8217;s own secrets. The little girl&#8217;s parents, a highly-educated couple who also happen to be one of the wealthiest in the country, seem as bewildered as Oscar over Beth. The more he gets to know the little girl and her family, the more Oscar slips into chaos. Self-medication with a mysterious cough syrup recently taken off the market is plaguing him with strange hallucinations and fueling his obsession with the case. As the chilling truth about Beth and Mister Smiler unfolds during her therapy sessions, Oscar must face consequences beyond his imagination.&#10;www.amazon.com/Enter-Uncreated-Night-Christopher-Rankin-ebook/dp/B00PMY57KM/&#10;&#10;Break the Bastion&#10;Morgan Battle grows up in the shadow of the Bastion, the barrier between what remains of civilization and the void.&#10;&#10;A wall of titanium climbing over four-thousand feet tall, the Bastion is the world&#8217;s grandest structure and all that&#8217;s left to protect America&#8217;s East Coast from the ocean, which has become humanity&#8217;s most dreaded monster. Global climate change and fracking have reshaped the Earth&#8217;s landscape and raised the Atlantic over a thousand feet. The Bastion has held steady against the abyss for over seventy years.&#10;&#10;Morgan lives in the slums at the base of the colossal structure and he&#8217;s been chosen by its mysterious architect for a secret experiment, known as Strix. He meets the two other fourteen-year-old subjects, beautiful but brooding Callista and Lucas, a bullied boy afflicted with a puzzling and incurable illness. The experiment brings their lives together in extraordinary ways as they race to solve a frightening mystery and stop something sinister on the horizon.&#10;www.amazon.com/gp/product/B01KKUXMOU/&#10;&#10;Creating Monsters&#10;In modern Philadelphia, where a deep economic depression has left the city near collapse and most of its inhabitants in gruesome poverty, Mitchell Gray, a twenty-year-old graduate student in a beleaguered university physics department, spends most of his time playing piano and touring the city&#8217;s worst slums in stolen cars. He is a technical virtuoso whose scientific ideas challenge the foundations of his field but he lives in hiding from one of the world's most powerful billionaires who is obsessed with Mitchell and determined to capitalize on his strange inventions.&#10;&#10;When he falls in love with an older woman, the wife of a wealthy pharmaceutical executive, their relationship inspires him with a mad plan to use his creations to change the world. With the help of a brilliant and neurotic chemistry student named Charlie Nolan and technology so advanced that it resembles magic, Mitchell devises horrifying yet harmless schemes and supernatural hoaxes, causing an uproar in the city.&#10;&#10;His nights as a modern day robin hood also raise the alarm of some of the real monsters in Philadelphia, including a mysterious child murderer rumored to possess supernatural powers, known only as &#34;The Demon.&#34; Christopher Rankin's debut novel is a haunting story of love, friendship and survival in a world of revolution.&#10;www.amazon.com/gp/product/B006W41EYE/"
+    channeltitle "Vanadium"
+    channelid "UCkl2548mscWJIfNFUNsvVGg"
+    favcount 0
+    viewcount 4667
+    likecount 182
+    commentcount 5
+    duration "PT24M11S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
+    indegree 16
+    cluster 9
+  ]
+  node
+  [
+    id 238
     label "N9OH24hjTEE"
     step 0
     date "2020-02-12T22:47:51Z"
@@ -4969,24 +4500,21 @@ graph
     likecount 22
     commentcount 1
     duration "PT24S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.25315648
+    PERSPECTIVEPROFANITY 0.18516
+    PERSPECTIVEFLIRTATION 0.36514875
+    PERSPECTIVETHREAT 0.16883653
+    PERSPECTIVETOXICITY 0.062125895
+    PERSPECTIVEINSULT 0.15229201
+    PERSPECTIVEIDENTITYATTACK 0.08989506
+    PERSPECTIVEINFLAMMATORY 0.11752102
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 166
-    name "239"
+    id 239
     label "auD-c-OzkgM"
     step 0
     date "2022-05-03T22:28:42Z"
@@ -4999,54 +4527,48 @@ graph
     likecount 3
     commentcount 3
     duration "PT1H29M52S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 24
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 167
-    name "240"
-    label "sOx_F4TTjQQ"
+    id 241
+    label "nmhd9rNSAEs"
     step 0
-    date "2022-07-10T22:40:10Z"
-    title "Adrenochrome - Reprogramacin"
-    description "Advance taken from the album: Transicion&#10;Adrenochrome - Reprogramaci&#243;n&#10;&#10;Letra:&#10;&#10;Repletos de tanta informacion&#10;Sin usarla para darnos atencion&#10;Fiestas y TV en cada rinc&#243;n&#10;&#161;&#161;&#161;Olvidar lo que eres la nueva adicci&#243;n!!!&#10;&#10;En la programaci&#243;n tan banal&#10;Bronceado artificial y enfermiza&#10;La dependencia emocional&#10;&#161;Medicada y consumista!&#10;&#10;Obedeciendo a las jerarqu&#237;as&#10;Maquinarias y policias&#10;Prohibiendo el ver m&#225;s all&#225;&#10;Tantos sacrificios parecen fallar&#10;&#10;Infelices y ahora enfermos&#10;En la rueda normal del obrero&#10;Los recursos de la fuerte y el clero&#10;La herencia gen&#233;tica &#161;Dejar el vuelo!&#10;&#10;&#10;Cuerpos, muriendo&#10;cuerpos, naciendo&#10;Tan poco tiempo en el juego&#10;Y tu solo encerrado en esto&#10;&#10;&#10;Cuerpos Muriendo&#10;Cuerpos Naciendo&#10;Todo siempre en movimiento&#10;&#191;Y prefieres quedarte quieto?&#10;&#10;&#10;La verdad siempre tan oculta&#10;Mas no dificil de encontrar&#10;Sino de desear mirarla&#10;&#161;Por el mismo miedo de despegar!&#10;En el tiempo que logres desprender&#10;Con ojos de juicio dejar de ver&#10;Los pensamientos externos alejarse&#10;&#161;Dejar de lado eso y reprogramar!&#10;&#10;&#10;Cuerpos, muriendo&#10;cuerpos, naciendo&#10;Tan poco tiempo en el juego&#10;Y tu solo encerrado en esto&#10;Cuerpos, muriendo&#10;cuerpos, naciendo&#10;Todos los V&#243;rtices fluyendo&#10;&#191;Y prefieres quedarte quieto?&#10;&#10;&#10;El poder ver&#10;El mas alla de la sombra&#10;Saliendo de la caverna&#10;Ha llegado la hora&#10;La sangre ardiendo&#10;Pidiendo el momento&#10;Gastando todo el aliento&#10;No ser&#233; m&#225;s alimento&#10;&#10;Cuerpos, muriendo&#10;cuerpos, naciendo&#10;Tan poco tiempo en el juego&#10;Y tu solo encerrado en esto&#10;Cuerpos, muriendo&#10;cuerpos, naciendo&#10;Toda la sangre en movimiento&#10;&#191;Y prefieres quedarte quieto?&#10;&#10;&#10;Lycris:&#10;&#10;Packed with so much information.&#10;Without using it to give us attention&#10;Parties and TV in every corner&#10;Forget what you are the new addiction!!!&#10;&#10;In programming so banal&#10;Artificial and sickly tan&#10;emotional dependency&#10;Medicated and consumerist!&#10;&#10;Obeying the hierarchies&#10;machinery and police&#10;Forbidding to see beyond&#10;So many sacrifices seem to fail&#10;&#10;Unhappy and now sick&#10;In the normal wheel of the worker&#10;The resources of the strong and the clergy&#10;Genetic inheritance Leave the flight!&#10;&#10;&#10;bodies, dying&#10;bodies, being born&#10;So little time in the game&#10;And you just locked in this&#10;&#10;&#10;dying bodies&#10;bodies being born&#10;Everything always in motion&#10;And do you prefer to stay still?&#10;&#10;&#10;The truth always so hidden&#10;But not hard to find&#10;But to want to look at her&#10;For the very fear of taking off!&#10;In the time that you manage to detach&#10;With eyes of judgment fail to see&#10;External thoughts walk away&#10;Put that aside and reschedule!&#10;&#10;&#10;bodies, dying&#10;bodies, being born&#10;So little time in the game&#10;And you just locked in this&#10;bodies, dying&#10;bodies, being born&#10;All the Vortexes flowing&#10;And do you prefer to stay still?&#10;&#10;&#10;the power to see&#10;beyond the shadow&#10;coming out of the cave&#10;The time has come&#10;the burning blood&#10;asking for the moment&#10;Wasting all my breath&#10;I will no longer be food&#10;&#10;&#10;&#10;bodies, dying&#10;bodies, being born&#10;So little time in the game&#10;And you just locked in this&#10;bodies, dying&#10;bodies, being born&#10;All the blood in motion&#10;And do you prefer to stay still?"
-    channeltitle "Adrenochrome_Official"
-    channelid "UC55XO-pkD7xmTy8RndIMW4w"
+    date "2021-07-16T15:54:12Z"
+    title "Is Adrenochrome real? with Sanjat Patnaik"
+    description ""
+    channeltitle "Candid Meena"
+    channelid "UCfVEGelUceTvYhQ-r5PxtZg"
     favcount 0
-    viewcount 5
-    likecount 0
-    commentcount 0
-    duration "PT7M15S"
+    viewcount 10828
+    likecount 547
+    commentcount 164
+    duration "PT1H10M58S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.07638413
+    PERSPECTIVEPROFANITY 0.05324816
+    PERSPECTIVEFLIRTATION 0.27786067
+    PERSPECTIVETHREAT 0.06221821
+    PERSPECTIVETOXICITY 0.019714156
+    PERSPECTIVEINSULT 0.0709167
+    PERSPECTIVEIDENTITYATTACK 0.107168
+    PERSPECTIVEINFLAMMATORY 0.19989361
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 7
   ]
   node
   [
-    id 168
-    name "242"
+    id 242
     label "V9ACMX_gDuA"
     step 0
     date "2020-12-05T22:12:07Z"
@@ -5059,24 +4581,21 @@ graph
     likecount 4
     commentcount 3
     duration "PT51S"
+    sentiment -0.3612
+    PERSPECTIVESEXUALLYEXPLICIT 0.31956592
+    PERSPECTIVEPROFANITY 0.62219465
+    PERSPECTIVEFLIRTATION 0.5187904
+    PERSPECTIVETHREAT 0.6519963
+    PERSPECTIVETOXICITY 0.3983115
+    PERSPECTIVEINSULT 0.68588215
+    PERSPECTIVEIDENTITYATTACK 0.5872703
+    PERSPECTIVEINFLAMMATORY 0.05519929
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 8
+    cluster 3
   ]
   node
   [
-    id 169
-    name "243"
+    id 243
     label "aiOWz9OCZIY"
     step 0
     date "2022-03-29T02:40:25Z"
@@ -5089,24 +4608,21 @@ graph
     likecount 21
     commentcount 10
     duration "PT14M18S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.06026483
+    PERSPECTIVEPROFANITY 0.045403324
+    PERSPECTIVEFLIRTATION 0.25997522
+    PERSPECTIVETHREAT 0.07022189
+    PERSPECTIVETOXICITY 0.119872786
+    PERSPECTIVEINSULT 0.06823622
+    PERSPECTIVEIDENTITYATTACK 0.115813024
+    PERSPECTIVEINFLAMMATORY 0.43302616
     indegree 15
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 170
-    name "244"
+    id 244
     label "B8vPaRJXroU"
     step 0
     date "2020-04-20T09:37:41Z"
@@ -5119,24 +4635,21 @@ graph
     likecount 280
     commentcount 170
     duration "PT6M30S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.098156385
+    PERSPECTIVEPROFANITY 0.10809206
+    PERSPECTIVEFLIRTATION 0.35677782
+    PERSPECTIVETHREAT 0.08012559
+    PERSPECTIVETOXICITY 0.24242763
+    PERSPECTIVEINSULT 0.19782273
+    PERSPECTIVEIDENTITYATTACK 0.13014041
+    PERSPECTIVEINFLAMMATORY 0.036599424
     indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "Conspiracy"
-    leftright "R"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 171
-    name "245"
+    id 245
     label "iAIn4y3KZV4"
     step 0
     date "2020-06-21T22:30:00Z"
@@ -5149,24 +4662,21 @@ graph
     likecount 12145
     commentcount 2837
     duration "PT59M40S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.23985735
+    PERSPECTIVEPROFANITY 0.21934243
+    PERSPECTIVEFLIRTATION 0.5751714
+    PERSPECTIVETHREAT 0.41745862
+    PERSPECTIVETOXICITY 0.0060739038
+    PERSPECTIVEINSULT 0.20708801
+    PERSPECTIVEIDENTITYATTACK 0.14059097
+    PERSPECTIVEINFLAMMATORY 0.14028051
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 5
   ]
   node
   [
-    id 172
-    name "246"
+    id 246
     label "xWM1lu6I4b0"
     step 0
     date "2022-04-01T02:19:46Z"
@@ -5179,174 +4689,156 @@ graph
     likecount 27
     commentcount 5
     duration "PT1H17M17S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
-  ]
-  node
-  [
-    id 173
-    name "247"
-    label "bP63IYHFCzg"
-    step 0
-    date "2021-11-20T09:00:30Z"
-    title "Whats Adrenochrome and Young Blood?"
-    description "Thank you OnTen Inc Subscribers &#38; Viewers!&#10;&#10; We cover all types of topics like economic, social, scientific, cultural, artistic, and so on...&#10;&#10;We hope you find it useful.&#10;Please share your comments with us"
-    channeltitle "OnTen Inc"
-    channelid "UCcouwNT3UwURBRgGxcWk2Bg"
-    favcount 0
-    viewcount 2034
-    likecount 85
-    commentcount 31
-    duration "PT8M7S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 174
-    name "249"
-    label "TE1HMpkyOzs"
+    id 248
+    label "COY4XKV2d38"
     step 0
-    date "2022-07-05T14:00:12Z"
-    title "Thiago Gagliasso s Feios"
-    description "O irm&#227;o in&#250;til de Bruno Gagliasso foi condenado a pagar 10 mil reais para uma m&#227;e da trag&#233;dia do Jacarezinho. Thiago havia associado a m&#227;e a uma imagem de uma mulher com arma. Helder e Bezzi comentam.&#10;&#10;Seja membro deste canal e ganhe benef&#237;cios:&#10;https://www.youtube.com/channel/UC2bZgihqibFD_vhaYEXQZFg/join&#10;&#10;V&#237;deo e edi&#231;&#227;o por: Marco Bezzi (https://www.instagram.com/marcobezzi/) &#10;&#10;Se inscreva no nosso canal e n&#227;o deixe de ativar as notifica&#231;&#245;es no sininho para n&#227;o perder mais nenhum epis&#243;dio: https://goo.gl/9l6Elt&#10;&#10;Instagram: https://instagram.com/galasfeiosoficial&#10;&#10;Facebook: https://www.facebook.com/galasfeios &#10;&#10;Twitter: https://twitter.com/galas_oficial&#10;&#10;Assessoria e comercial: comercial@galasfeios.com&#10;&#10;#RolouNaLive"
-    channeltitle "Gal&#227;s Feios"
-    channelid "UC2bZgihqibFD_vhaYEXQZFg"
+    date "2021-10-21T09:13:11Z"
+    title " Star Jim Caviezel Pushes Adrenochrome Conspiracy"
+    description "The guy who played Jesus in 'Passion of the Christ' is leaning into a QAnon conspiracy theory ... which believes children are being blood-drained for a chemical in their body. &#10;Jim Caviezel made a guest appearance Friday at a right-wing convention called Clay Clark&#8217;s Health and Freedom Conference n"
+    channeltitle "Good News"
+    channelid "UC5M6ckPROXPvvwFPv7z4FXA"
     favcount 0
-    viewcount 82537
-    likecount 11684
-    commentcount 327
-    duration "PT4M46S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 677
+    likecount 12
+    commentcount 3
+    duration "PT4M49S"
+    sentiment -0.1027
+    PERSPECTIVESEXUALLYEXPLICIT 0.17807283
+    PERSPECTIVEPROFANITY 0.24847169
+    PERSPECTIVEFLIRTATION 0.500641
+    PERSPECTIVETHREAT 0.28836492
+    PERSPECTIVETOXICITY 0.22983712
+    PERSPECTIVEINSULT 0.21345964
+    PERSPECTIVEIDENTITYATTACK 0.60858023
+    PERSPECTIVEINFLAMMATORY 0.1849641
+    indegree 4
     cluster 2
   ]
   node
   [
-    id 175
-    name "251"
-    label "57MVQ6VTSog"
+    id 250
+    label "M1etjQd_rDQ"
     step 0
-    date "2021-04-27T18:41:29Z"
-    title "ENFANTS en Direct VOSTFR"
-    description ""
-    channeltitle "moony &#10024;&#127769;"
-    channelid "UCpZtGlvFWA0SPLMnTIzCtNw"
+    date "2022-02-08T04:51:07Z"
+    title "Adrenochrome factory in Russia Oak street"
+    description "Adrenochrome factory in Russia Oak street 71 c 1"
+    channeltitle "Victoria Mortis"
+    channelid "UCiwYzrHKAOy0uACuXCOlXcw"
     favcount 0
-    viewcount 8726
-    likecount 210
-    commentcount 12
-    duration "PT3M9S"
+    viewcount 207
+    likecount -1
+    commentcount -1
+    duration "PT16S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13284886
+    PERSPECTIVEPROFANITY 0.061430555
+    PERSPECTIVEFLIRTATION 0.2895373
+    PERSPECTIVETHREAT 0.053510234
+    PERSPECTIVETOXICITY 0.013605545
+    PERSPECTIVEINSULT 0.043053426
+    PERSPECTIVEIDENTITYATTACK 0.049822513
+    PERSPECTIVEINFLAMMATORY 0.18602051
+    indegree 2
+    cluster 1
+  ]
+  node
+  [
+    id 252
+    label "ZASV6FtIgxo"
+    step 0
+    date "2021-11-28T11:46:46Z"
+    title "Adrenochrome explained in 2007 show Inspector Lewis, season one, episode one."
+    description "Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research, etc"
+    channeltitle "The Hit Lister"
+    channelid "UC7G2_1dWdQAQDw5sg-I5EDQ"
+    favcount 0
+    viewcount 184
+    likecount 10
+    commentcount 3
+    duration "PT1M36S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.017524078
+    PERSPECTIVEPROFANITY 0.00080980663
+    PERSPECTIVEFLIRTATION 0.24423681
+    PERSPECTIVETHREAT 0.00753761
+    PERSPECTIVETOXICITY 0.008815838
+    PERSPECTIVEINSULT 0.0018543185
+    PERSPECTIVEIDENTITYATTACK 0.00036543203
+    PERSPECTIVEINFLAMMATORY 0.07681081
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    cluster 11
+  ]
+  node
+  [
+    id 254
+    label "9YL9Njk82iY"
+    step 0
+    date "2016-08-15T03:22:55Z"
+    title " (2018) MOVIE TRAILER"
+    description "Watch the movie here: http://a.co/ipaaFsh"
+    channeltitle "Chilla Network"
+    channelid "UCrrJI2luzUh4ytd9Nfbq2Yw"
+    favcount 0
+    viewcount 165189
+    likecount 782
+    commentcount 273
+    duration "PT2M5S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13273518
+    PERSPECTIVEPROFANITY 0.23871312
+    PERSPECTIVEFLIRTATION 0.31638384
+    PERSPECTIVETHREAT 0.24139929
+    PERSPECTIVETOXICITY 0.036336336
+    PERSPECTIVEINSULT 0.24694186
+    PERSPECTIVEIDENTITYATTACK 0.24871176
+    PERSPECTIVEINFLAMMATORY 0.04770323
+    indegree 0
     cluster 4
   ]
   node
   [
-    id 176
-    name "253"
-    label "OMfZvzDUppk"
+    id 257
+    label "J-LJuyQbsHw"
     step 0
-    date "2020-04-20T03:32:53Z"
-    title "The Truth About Adrenochrome featuring Jordan Sather of Destroying the Illusion"
-    description "#adrenochrome #andrenochrone #jordansather&#10;I just learned the horrible, impossible truth about a drug called &#8220;adrenochrome.&#8221; &#9654; New 2018 Creepypasta Scary Story, performed by Jordan Sather of Destroying the Illusion &#10;#adrenochrome #andrenochrone #jordansather #destroyingtheillusion #unsettlingstories #chillingtalesfordarknights #chillingtales #ctfdn #podcast #podcasts #creepypasta #creepypastas #scarystories #horrorstories #nosleepstories #nosleep #scary #horror #creepy #audiobook #audiobooks #audiohorror #horroraudio"
-    channeltitle "The Great Awakening 2020"
-    channelid "UCHbEz0D0syMMbJnZTZLVmpQ"
+    date "2022-01-31T01:45:02Z"
+    title "Adrenochrome "
+    description "'Inspector Lewis' S01 E02 (2006)"
+    channeltitle "Rawi La YASHARAHLA YAHAWASHI Is Coming Back 144K"
+    channelid "UCq7S3_nstCwlmR711Fhhr4Q"
     favcount 0
-    viewcount 3703
-    likecount 70
-    commentcount 32
-    duration "PT5M17S"
+    viewcount 250
+    likecount 40
+    commentcount 1
+    duration "PT1M30S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14174163
+    PERSPECTIVEPROFANITY 0.08747098
+    PERSPECTIVEFLIRTATION 0.28473398
+    PERSPECTIVETHREAT 0.076475844
+    PERSPECTIVETOXICITY 0.0072886846
+    PERSPECTIVEINSULT 0.06624715
+    PERSPECTIVEIDENTITYATTACK 0.044985298
+    PERSPECTIVEINFLAMMATORY 0.0106916055
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 177
-    name "255"
-    label "4rRDw4WE4_o"
-    step 0
-    date "2020-09-19T12:05:40Z"
-    title "ADVOCATE VIBHOR ANAND TELLING THE TRUTH?? | Adrenochrome | Tamil"
-    description "Is Advocate Vibhor Anand telling the truth about child-trafficking and Adrenochrome? &#10;Hope CBI will expose the truth.&#10;#JUSTICEFORSUSHANT&#10;#SUSHANTSINGHRAJPUT&#10;&#10;Disclaimer: Information given by Bachant Kaur has been taken from other online videos or news or personal views of guests, not to defame anyone"
-    channeltitle "Bachant Kaur"
-    channelid "UCkvQBulhiyC586DG-Zj5TJg"
-    favcount 0
-    viewcount 34121
-    likecount 822
-    commentcount 188
-    duration "PT9M9S"
-    indegree 3
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
-  ]
-  node
-  [
-    id 178
-    name "258"
+    id 258
     label "esWW_AglHS4"
     step 0
     date "2022-02-04T00:28:46Z"
@@ -5359,84 +4851,75 @@ graph
     likecount 5
     commentcount 0
     duration "PT16S"
+    sentiment 0.1027
+    PERSPECTIVESEXUALLYEXPLICIT 0.14350247
+    PERSPECTIVEPROFANITY 0.123972245
+    PERSPECTIVEFLIRTATION 0.25903067
+    PERSPECTIVETHREAT 0.15573668
+    PERSPECTIVETOXICITY 0.35227737
+    PERSPECTIVEINSULT 0.18849413
+    PERSPECTIVEIDENTITYATTACK 0.13621691
+    PERSPECTIVEINFLAMMATORY 0.4802914
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 179
-    name "259"
-    label "yXBKjFFEFTE"
-    step 0
-    date "2021-09-06T23:56:33Z"
-    title "[YEBO REUPLOAD] ADRENOCHROME 113: SOUTH PARK"
-    description "South Park repeatedly makes reference to adrenochrome, child abuse and blood lust."
-    channeltitle "&#127817; Theodosius Gottlieb"
-    channelid "UCbHshnZBYxWwzcRZmo92FXg"
-    favcount 0
-    viewcount 200
-    likecount 6
-    commentcount 3
-    duration "PT3M47S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 180
-    name "265"
-    label "2_-bDE5-Rx4"
+    id 264
+    label "JXqS8t0_2Rk"
     step 0
-    date "2021-12-27T00:21:57Z"
-    title "Adrenochrome Fluglotse"
-    description ""
-    channeltitle "ivan valadares"
-    channelid "UC7vHc-lFyY1cnOQx2inKtug"
+    date "2021-02-02T11:45:02Z"
+    title "RAHASIA AWET MUDA ADRENOCHROME! Terbuat dari 100% Bahan Alami..."
+    description "Welcome to my channel TussyStory :)&#10;Ok Guys di video kali ini, aku akan bercerita mengenai TEORI KONSPIRASI TERGILA yaitu  ADRENOCHROME yang bisa membuat orang awet muda, sehat dan ga luntur ketampanannya! Nah, apasih sebenernya ADRENOCHROME itu? Kenapa banyak teori konspirasinya?&#10;Yuk langsung aja di play videonya!&#10;&#10;Terima kasih yang sudah nonton, jangan lupa subscribe dan like video ini yaa and i'll see you on the next video :)&#10;&#10;My Links :&#10;Instagram: https://www.instagram.com/tussy.md/&#10;Facebook: https://www.facebook.com/tussy.mutyandini&#10;Twitter: https://twitter.com/tussymd&#10;Tiktok: https://vt.tiktok.com/ZSfNgW4E/&#10;&#10;#ADRENOCHROME #teorikonspirasiADRENOCHROME #tussystory #tussymd #pizzagate"
+    channeltitle "Tussy Story"
+    channelid "UCYqEcseqd-OkBbsqmYCCAlA"
     favcount 0
-    viewcount 10
-    likecount 0
-    commentcount 0
-    duration "PT7M47S"
+    viewcount 1614
+    likecount 65
+    commentcount 20
+    duration "PT13M26S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15462685
+    PERSPECTIVEPROFANITY 0.18430471
+    PERSPECTIVEFLIRTATION 0.5595037
+    PERSPECTIVETHREAT 0.2648056
+    PERSPECTIVETOXICITY 0.004373211
+    PERSPECTIVEINSULT 0.19766372
+    PERSPECTIVEIDENTITYATTACK 0.23649871
+    PERSPECTIVEINFLAMMATORY 0.046894226
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 181
-    name "268"
+    id 267
+    label "F-1CypDZnt0"
+    step 0
+    date "2021-04-21T03:26:35Z"
+    title "Toe Dropping! Media ~ Jim Caviezal on  - Passion of Christ"
+    description ""
+    channeltitle "Raj Habid"
+    channelid "UClneXkng65r0p4ROWi99ovg"
+    favcount 0
+    viewcount 385
+    likecount 21
+    commentcount 4
+    duration "PT2M21S"
+    sentiment 0.4588
+    PERSPECTIVESEXUALLYEXPLICIT 0.12829766
+    PERSPECTIVEPROFANITY 0.19800214
+    PERSPECTIVEFLIRTATION 0.34556612
+    PERSPECTIVETHREAT 0.1483616
+    PERSPECTIVETOXICITY 0.39230084
+    PERSPECTIVEINSULT 0.20630002
+    PERSPECTIVEIDENTITYATTACK 0.42489237
+    PERSPECTIVEINFLAMMATORY 0.029744303
+    indegree 1
+    cluster 9
+  ]
+  node
+  [
+    id 268
     label "khVUf4ZrWEU"
     step 0
     date "2022-01-21T07:51:34Z"
@@ -5449,24 +4932,21 @@ graph
     likecount 5
     commentcount 0
     duration "PT3M52S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.17462115
+    PERSPECTIVEPROFANITY 0.13826796
+    PERSPECTIVEFLIRTATION 0.41862
+    PERSPECTIVETHREAT 0.20141944
+    PERSPECTIVETOXICITY 0.11600884
+    PERSPECTIVEINSULT 0.094082944
+    PERSPECTIVEIDENTITYATTACK 0.12364126
+    PERSPECTIVEINFLAMMATORY 0.04678125
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 182
-    name "269"
+    id 269
     label "Ib5d8H5zKWc"
     step 0
     date "2022-06-01T14:57:54Z"
@@ -5479,24 +4959,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT2M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15453447
+    PERSPECTIVEPROFANITY 0.08208557
+    PERSPECTIVEFLIRTATION 0.33025718
+    PERSPECTIVETHREAT 0.19827597
+    PERSPECTIVETOXICITY 0.032902762
+    PERSPECTIVEINSULT 0.06965457
+    PERSPECTIVEIDENTITYATTACK 0.061775327
+    PERSPECTIVEINFLAMMATORY 0.4405854
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 183
-    name "270"
+    id 270
     label "q_TX4-S4j_Q"
     step 0
     date "2018-09-07T07:31:44Z"
@@ -5509,54 +4986,48 @@ graph
     likecount 37
     commentcount 10
     duration "PT1M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1339459
+    PERSPECTIVEPROFANITY 0.09274778
+    PERSPECTIVEFLIRTATION 0.2944573
+    PERSPECTIVETHREAT 0.1083154
+    PERSPECTIVETOXICITY 0.067320265
+    PERSPECTIVEINSULT 0.12138986
+    PERSPECTIVEIDENTITYATTACK 0.07444679
+    PERSPECTIVEINFLAMMATORY 0.14683461
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
-  ]
-  node
-  [
-    id 184
-    name "271"
-    label "H4RPkKAlKNY"
-    step 0
-    date "2021-01-29T15:41:56Z"
-    title "Adrenochrome"
-    description ""
-    channeltitle "Juliet Amy"
-    channelid "UCAjDZd_xuc8IcDA61RjNh5g"
-    favcount 0
-    viewcount 471
-    likecount 11
-    commentcount 2
-    duration "PT20S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 185
-    name "274"
+    id 273
+    label "K2AEPJs2tzk"
+    step 0
+    date "2022-01-13T23:40:33Z"
+    title "Adrenochrome"
+    description "Source:&#10;https://www.spreaker.com/user/oppermanreport/adrenochrome"
+    channeltitle "Ed Opperman"
+    channelid "UC_1U_Gglxd_7TPE_a8p2G3w"
+    favcount 0
+    viewcount 1963
+    likecount 57
+    commentcount 5
+    duration "PT1H1M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
+    indegree 8
+    cluster 2
+  ]
+  node
+  [
+    id 274
     label "N9q0k8Co-Hk"
     step 0
     date "2014-04-27T16:52:15Z"
@@ -5569,54 +5040,48 @@ graph
     likecount 3
     commentcount 0
     duration "PT1M47S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.21817069
+    PERSPECTIVEPROFANITY 0.09730222
+    PERSPECTIVEFLIRTATION 0.42114103
+    PERSPECTIVETHREAT 0.10164629
+    PERSPECTIVETOXICITY 0.033246122
+    PERSPECTIVEINSULT 0.075722456
+    PERSPECTIVEIDENTITYATTACK 0.05768427
+    PERSPECTIVEINFLAMMATORY 0.11496918
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 11
   ]
   node
   [
-    id 186
-    name "275"
-    label "Vy34LZV3TTM"
+    id 276
+    label "QYLHWf3BMlQ"
     step 0
-    date "2022-07-03T04:38:51Z"
-    title "Altered Beast Vs The Indol-Gents - Captain adrenochrome and the Antarctic mycelium conspiracy"
-    description ""
-    channeltitle "Gareth Alien"
-    channelid "UCwIiA9C-xq_fPsH-R_47kfw"
+    date "2022-05-22T22:08:00Z"
+    title "Immortality and Adrenochrome"
+    description "What's up horror Fam? Who wants to live forever? We may have the answers. Today we talk about some of the oldest cases of some of the seekers who wanted to delay death and how they planned to do so. We briefly get into the science of extending life and then we talk a little about the dark and strange world of Adrenochrome harvesting (it gets weird). So lake a listen, hope you enjoy, and as always ... KEEP IT CREEPY!&#10;&#10;Contact us at:&#10;&#10;https://www.facebook.com/thehorrorchroniclespodcast/&#10;&#10; &#10;&#10;https://www.facebook.com/groups/2524868434460676/?source_id=245567162773099&#10;&#10; &#10;&#10;https://www.youtube.com/channel/UC2GysDofaXYuhGtSrD1XOjg&#10;&#10; &#10;&#10;Find merch at:&#10;&#10;https://www.teepublic.com/user/the-horror-chronicles&#10;&#10; &#10;&#10;All Music written and performed by:&#10;&#10;LUNATIC&#10;&#10;https://www.facebook.com/lunaticmetal/"
+    channeltitle "The Horror Chronicles Podcast"
+    channelid "UC2GysDofaXYuhGtSrD1XOjg"
     favcount 0
-    viewcount 19
-    likecount 2
-    commentcount 0
-    duration "PT10M24S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    viewcount 34
+    likecount 4
+    commentcount 3
+    duration "PT1H1M28S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20256865
+    PERSPECTIVEPROFANITY 0.127718
+    PERSPECTIVEFLIRTATION 0.31736812
+    PERSPECTIVETHREAT 0.12085782
+    PERSPECTIVETOXICITY 0.036508016
+    PERSPECTIVEINSULT 0.13289315
+    PERSPECTIVEIDENTITYATTACK 0.084350064
+    PERSPECTIVEINFLAMMATORY 0.15958083
+    indegree 2
+    cluster 1
   ]
   node
   [
-    id 187
-    name "277"
+    id 277
     label "Idf5FDbktJc"
     step 0
     date "2021-01-25T20:40:09Z"
@@ -5629,54 +5094,48 @@ graph
     likecount 7
     commentcount 3
     duration "PT59S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16880067
+    PERSPECTIVEPROFANITY 0.046129525
+    PERSPECTIVEFLIRTATION 0.23136412
+    PERSPECTIVETHREAT 0.03876681
+    PERSPECTIVETOXICITY 0.02655065
+    PERSPECTIVEINSULT 0.032889504
+    PERSPECTIVEIDENTITYATTACK 0.036965
+    PERSPECTIVEINFLAMMATORY 0.4544532
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 3
   ]
   node
   [
-    id 188
-    name "278"
-    label "ong1jVZTbAs"
+    id 279
+    label "3oOVA9rIpxA"
     step 0
-    date "2020-10-08T17:51:12Z"
-    title "DETAILED ANALYSIS OF ADRENOCHROME CONSPIRACY THEORY"
-    description "The adrenochrome harvesting conspiracy theory is a potent example of &#8220;hidden virality&#8221; and the ways in which unpopular culture animate social media platforms outside of the mainstream view.&#10;&#10;#Adrenochrome&#10;#DiscoveryDimensions&#10;#ConspiracyTheory&#10;&#10;&#10;TOPICS COVERED&#10;&#10;ADRENOCHROME&#10;ADRENOCHROME Harvesting&#10;adrenochrome celebrities&#10;adrenochrome documentary&#10;adrenochrome conspiracy&#10;adrenochrome monosemicarbazone injection&#10;adrenochrome daylyt&#10;adrenochrome fear and loathing in las vegas&#10;adrenochrome trailer&#10;adrenochrome before and after"
-    channeltitle "Discovery Dimensions"
-    channelid "UCGBHojCd3luQsebZADZWm0Q"
+    date "2020-06-20T07:19:00Z"
+    title "Nick Fuentes explains conspiracy theories (Poison the Wells, Adrenochrome) on TikTok Zoom Call"
+    description "Adrenochrome. &#10;&#10;Discord: Aleczaender#3086&#10;Twitter: https://twitter.com/aleczaender&#10;Telegram: https://t.me/ZoomerAleczaender&#10;Gab: https://gab.com/Aleczaender&#10;Alt: https://www.youtube.com/channel/UCzcx9WELPiqtW13z6Ww4lCQ"
+    channeltitle "Zoomer Content"
+    channelid "UCefl8NxGCklmljTRAtEaxag"
     favcount 0
-    viewcount 670
-    likecount 5
-    commentcount 3
-    duration "PT6M42S"
-    indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    viewcount 4524
+    likecount 192
+    commentcount 11
+    duration "PT6M33S"
+    sentiment -0.7096
+    PERSPECTIVESEXUALLYEXPLICIT 0.04703597
+    PERSPECTIVEPROFANITY 0.022845568
+    PERSPECTIVEFLIRTATION 0.35451895
+    PERSPECTIVETHREAT 0.27106038
+    PERSPECTIVETOXICITY 0.08850401
+    PERSPECTIVEINSULT 0.065448835
+    PERSPECTIVEIDENTITYATTACK 0.038225584
+    PERSPECTIVEINFLAMMATORY 0.23579305
+    indegree 4
+    cluster 9
   ]
   node
   [
-    id 189
-    name "280"
+    id 280
     label "G6J1Mh4kMV0"
     step 0
     date "2021-07-14T16:43:42Z"
@@ -5689,24 +5148,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT1M28S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 11
   ]
   node
   [
-    id 190
-    name "281"
+    id 281
     label "mt08AtjnlhU"
     step 0
     date "2019-03-02T00:09:21Z"
@@ -5719,24 +5175,21 @@ graph
     likecount 187
     commentcount 98
     duration "PT3M34S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.2391606
+    PERSPECTIVEPROFANITY 0.119272694
+    PERSPECTIVEFLIRTATION 0.4116291
+    PERSPECTIVETHREAT 0.15685853
+    PERSPECTIVETOXICITY 0.06012806
+    PERSPECTIVEINSULT 0.0970959
+    PERSPECTIVEIDENTITYATTACK 0.11167794
+    PERSPECTIVEINFLAMMATORY 0.27500138
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 3
   ]
   node
   [
-    id 191
-    name "282"
+    id 282
     label "OxN-2pcrOiw"
     step 0
     date "2021-02-13T05:04:13Z"
@@ -5749,24 +5202,21 @@ graph
     likecount 4
     commentcount 1
     duration "PT12S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 12
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 192
-    name "283"
+    id 283
     label "_YWFhdwD17c"
     step 0
     date "2020-12-25T05:00:10Z"
@@ -5779,24 +5229,21 @@ graph
     likecount 3
     commentcount 0
     duration "PT4M"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1309269
+    PERSPECTIVEPROFANITY 0.09107474
+    PERSPECTIVEFLIRTATION 0.4074938
+    PERSPECTIVETHREAT 0.13531096
+    PERSPECTIVETOXICITY 0.0035228643
+    PERSPECTIVEINSULT 0.067485675
+    PERSPECTIVEIDENTITYATTACK 0.05013728
+    PERSPECTIVEINFLAMMATORY 0.21050182
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 9
   ]
   node
   [
-    id 193
-    name "284"
+    id 284
     label "49uMzV2_WGo"
     step 0
     date "2020-03-03T07:36:52Z"
@@ -5809,24 +5256,21 @@ graph
     likecount 84
     commentcount 8
     duration "PT3M35S"
+    sentiment -0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.16365011
+    PERSPECTIVEPROFANITY 0.18839216
+    PERSPECTIVEFLIRTATION 0.3463676
+    PERSPECTIVETHREAT 0.30999377
+    PERSPECTIVETOXICITY 0.14552918
+    PERSPECTIVEINSULT 0.31161404
+    PERSPECTIVEIDENTITYATTACK 0.19218563
+    PERSPECTIVEINFLAMMATORY 0.40777484
     indegree 7
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 194
-    name "285"
+    id 285
     label "q7ueqJawlE4"
     step 0
     date "2021-03-21T19:19:10Z"
@@ -5839,54 +5283,48 @@ graph
     likecount 5
     commentcount 0
     duration "PT6M41S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.12406667
+    PERSPECTIVEPROFANITY 0.0644933
+    PERSPECTIVEFLIRTATION 0.3312618
+    PERSPECTIVETHREAT 0.06285057
+    PERSPECTIVETOXICITY 0.032559406
+    PERSPECTIVEINSULT 0.058192443
+    PERSPECTIVEIDENTITYATTACK 0.03309517
+    PERSPECTIVEINFLAMMATORY 0.19979672
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 195
-    name "286"
-    label "f1Gdo3TaXRk"
-    step 0
-    date "2020-09-13T19:53:51Z"
-    title "Is Monsters Inc Based on True Events? | What is Adrenochrome"
-    description "Angela Nguyen brings up the Possibility of monsters once being a possibility in our real world."
-    channeltitle "Not History. Ourstory"
-    channelid "UCcqt5yZSWtjZOXBh06Z2WaA"
-    favcount 0
-    viewcount 1301
-    likecount 27
-    commentcount 1
-    duration "PT3M9S"
-    indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 196
-    name "288"
+    id 287
+    label "ht1GhLR6lAA"
+    step 0
+    date "2022-06-27T01:48:40Z"
+    title "Adrenochrome Has A Patent? #shorts #hollywood #conspiracy"
+    description "Adrenochrome is a famous blood harvesting chemical made from instilling fear into kids. Does Hollywood actually do this as a ritual? Or is it all imaginary? There is a patent number you should maybe pay attention too."
+    channeltitle "Dosed After Dark"
+    channelid "UClHoSyASD8fe8FFps4WullA"
+    favcount 0
+    viewcount 14
+    likecount 1
+    commentcount 0
+    duration "PT19S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.09858751
+    PERSPECTIVEPROFANITY 0.054722387
+    PERSPECTIVEFLIRTATION 0.38210034
+    PERSPECTIVETHREAT 0.06416308
+    PERSPECTIVETOXICITY 0.07850813
+    PERSPECTIVEINSULT 0.08839305
+    PERSPECTIVEIDENTITYATTACK 0.03842013
+    PERSPECTIVEINFLAMMATORY 0.28988513
+    indegree 5
+    cluster 2
+  ]
+  node
+  [
+    id 288
     label "xEsSkfLTigQ"
     step 0
     date "2022-04-30T06:43:16Z"
@@ -5899,84 +5337,75 @@ graph
     likecount 3
     commentcount 1
     duration "PT33S"
+    sentiment -0.34
+    PERSPECTIVESEXUALLYEXPLICIT 0.12062402
+    PERSPECTIVEPROFANITY 0.10171334
+    PERSPECTIVEFLIRTATION 0.4181515
+    PERSPECTIVETHREAT 0.16417739
+    PERSPECTIVETOXICITY 0.22978203
+    PERSPECTIVEINSULT 0.12632987
+    PERSPECTIVEIDENTITYATTACK 0.092144996
+    PERSPECTIVEINFLAMMATORY 0.12865366
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 197
-    name "289"
-    label "9-JX2xLV9ss"
+    id 290
+    label "GoK1cDAaYOA"
     step 0
-    date "2021-06-09T12:45:32Z"
-    title "Jeanette, adrenochrome, trigger warning "
-    description ""
-    channeltitle "Shellie mote"
-    channelid "UC7kNQOVGeRgNwzv64uNQKFg"
+    date "2020-04-20T01:32:12Z"
+    title "An Ode to Adrenochrome"
+    description "A haunting melody that is almost a beautiful as it is inspirational"
+    channeltitle "fattywarbucks"
+    channelid "UCpebo9kVkK_I6FsqzngCltw"
     favcount 0
-    viewcount 324
-    likecount 24
-    commentcount -1
-    duration "PT3M28S"
+    viewcount 193
+    likecount 2
+    commentcount 2
+    duration "PT50S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13430393
+    PERSPECTIVEPROFANITY 0.08121348
+    PERSPECTIVEFLIRTATION 0.2543617
+    PERSPECTIVETHREAT 0.08978567
+    PERSPECTIVETOXICITY 0.01492445
+    PERSPECTIVEINSULT 0.082749136
+    PERSPECTIVEIDENTITYATTACK 0.0601293
+    PERSPECTIVEINFLAMMATORY 0.15954642
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 198
-    name "291"
-    label "CMJht5QmpWY"
+    id 293
+    label "NO8U5JVXMpY"
     step 0
-    date "2020-10-05T09:30:48Z"
-    title "ADRENOCHROME - SHERLOCK HOLMES - A GAME OF SHADOWS (2011)"
-    description "A113 - Adrenochrome&#10;&#10;11 x 3 = 33&#10;&#10;113 - 311 - 3rd November&#10;&#10;&#10;2:03  He does the 666 hand sign"
-    channeltitle "True Lies"
-    channelid "UC5lHDYC3MBvQvnQBQvLpjcQ"
+    date "2021-11-20T20:20:51Z"
+    title "Its In Your Face, Lesser Magick #Reptilians #Adrenochrome #Sodom #Gomorrah #WakeUp #BOI"
+    description "The New Age of Truth is Blood Over Intent&#10;There are 144,000 Names in the Book of Life&#10;Heaven is Coming to Earth in your Lifetime&#10;#FlatEarth #GardenOfEden #BloodOverIntent&#10;#ReverseSpeech #HeavenOnEarth #SaturnComputer&#10;Kate Sugak interviews Dr. Stefan Lanka&#10;https://odysee.com/@DeansDanes:1/Stefan-Dean-and-Kate:8?r=CSdnV99Ro5N5Kf1h1m1gCsPHpXr1c1GT&#38;fbclid=IwAR3iE-AUhG29MINxoo-M9DGOBCYkfEi2zaiLZ2lOr2frKkvn8tw6n2uy80E &#10;&#10;The Anti-Christ Satan, King of Hell, Mark Braun Owns the Universe II Corinthians 4:4&#10;&#10;Familiarize yourself with Truth at Mr Satan Channel &#10;https://www.youtube.com/channel/UCZgrhxlWUFR_eaEkYQFbwfA&#10;https://www.youtube.com/channel/UCJFL6RIJ66kH4pM3eMT3C0A&#10;&#10;#SpaceHoax #AlienHoax #NasaFraud #WorthlessMoney #Firmament #HolyGrail #FlatEarthPlane"
+    channeltitle "Pancake Earth"
+    channelid "UCkrVQVoyRgze_u94em7b4hw"
     favcount 0
-    viewcount 1133
-    likecount 62
-    commentcount 29
-    duration "PT3M48S"
-    indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    viewcount 81
+    likecount -1
+    commentcount 0
+    duration "PT2M23S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.32176468
+    PERSPECTIVEPROFANITY 0.22557372
+    PERSPECTIVEFLIRTATION 0.3477152
+    PERSPECTIVETHREAT 0.12629613
+    PERSPECTIVETOXICITY 0.26817688
+    PERSPECTIVEINSULT 0.26339948
+    PERSPECTIVEIDENTITYATTACK 0.14940362
+    PERSPECTIVEINFLAMMATORY 0.42380294
+    indegree 0
+    cluster 11
   ]
   node
   [
-    id 199
-    name "294"
+    id 294
     label "1Gvtw5kSDVo"
     step 0
     date "2021-12-17T22:15:42Z"
@@ -5989,24 +5418,21 @@ graph
     likecount 10
     commentcount 2
     duration "PT32S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 11
   ]
   node
   [
-    id 200
-    name "295"
+    id 295
     label "nuanm3HHPpQ"
     step 0
     date "2022-04-05T22:52:58Z"
@@ -6019,24 +5445,21 @@ graph
     likecount 5
     commentcount 0
     duration "PT23S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.06666985
+    PERSPECTIVEPROFANITY 0.041261673
+    PERSPECTIVEFLIRTATION 0.36691576
+    PERSPECTIVETHREAT 0.11200568
+    PERSPECTIVETOXICITY 0.04818217
+    PERSPECTIVEINSULT 0.057016857
+    PERSPECTIVEIDENTITYATTACK 0.028969234
+    PERSPECTIVEINFLAMMATORY 0.30285245
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 201
-    name "296"
+    id 296
     label "NAHA5Y8brf8"
     step 0
     date "2022-06-09T01:29:16Z"
@@ -6049,54 +5472,48 @@ graph
     likecount 0
     commentcount 0
     duration "PT3M14S"
+    sentiment 0.4215
+    PERSPECTIVESEXUALLYEXPLICIT 0.08861438
+    PERSPECTIVEPROFANITY 0.050765887
+    PERSPECTIVEFLIRTATION 0.44974384
+    PERSPECTIVETHREAT 0.092878565
+    PERSPECTIVETOXICITY 0.036851373
+    PERSPECTIVEINSULT 0.058824554
+    PERSPECTIVEIDENTITYATTACK 0.049560245
+    PERSPECTIVEINFLAMMATORY 0.28330278
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 3
   ]
   node
   [
-    id 202
-    name "297"
-    label "urkBFDxPoZw"
+    id 298
+    label "3w-0wd7jndQ"
     step 0
-    date "2020-09-17T10:43:33Z"
-    title "this is the real pandemic.. do your research (pizzagate, adrenochrome and more) #SaveOurChildren"
-    description "ctto of this video"
-    channeltitle "Beng Labrador"
-    channelid "UCW_j8n4G9PRZk8IJtqdpbkg"
+    date "2022-03-27T14:33:57Z"
+    title "Fungus_Attack - Adrenochrome"
+    description "On part sur un style tribecore hardcore ! &#10;Compo faite par le frangin ;-)&#10;Bonne &#233;coute ! &#10;&#10;Sound Cloud: https://soundcloud.com/fungus_attack/adrenochrome"
+    channeltitle "Fungus_Attack"
+    channelid "UClcovqo71-kIGkq3vbVAH8A"
     favcount 0
-    viewcount 2052
-    likecount 55
-    commentcount 2
-    duration "PT30S"
+    viewcount 11
+    likecount 0
+    commentcount 0
+    duration "PT4M55S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20848826
+    PERSPECTIVEPROFANITY 0.13210621
+    PERSPECTIVEFLIRTATION 0.4049084
+    PERSPECTIVETHREAT 0.46038103
+    PERSPECTIVETOXICITY 0.042001735
+    PERSPECTIVEINSULT 0.09350832
+    PERSPECTIVEIDENTITYATTACK 0.10167223
+    PERSPECTIVEINFLAMMATORY 0.175101
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 203
-    name "299"
+    id 299
     label "WP60L6PqK8w"
     step 0
     date "2020-07-10T01:01:20Z"
@@ -6109,24 +5526,21 @@ graph
     likecount 11
     commentcount 5
     duration "PT47S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19784008
+    PERSPECTIVEPROFANITY 0.19079578
+    PERSPECTIVEFLIRTATION 0.3388329
+    PERSPECTIVETHREAT 0.15738423
+    PERSPECTIVETOXICITY 0.15451296
+    PERSPECTIVEINSULT 0.25362024
+    PERSPECTIVEIDENTITYATTACK 0.15616286
+    PERSPECTIVEINFLAMMATORY 0.12909995
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 204
-    name "300"
+    id 300
     label "bwuCIdPCsVg"
     step 0
     date "2021-06-17T02:41:34Z"
@@ -6139,54 +5553,48 @@ graph
     likecount 1
     commentcount 3
     duration "PT4M46S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.075805426
+    PERSPECTIVEPROFANITY 0.06001324
+    PERSPECTIVEFLIRTATION 0.29438096
+    PERSPECTIVETHREAT 0.21910124
+    PERSPECTIVETOXICITY 0.13082063
+    PERSPECTIVEINSULT 0.061951373
+    PERSPECTIVEIDENTITYATTACK 0.09771537
+    PERSPECTIVEINFLAMMATORY 0.3330471
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 205
-    name "301"
-    label "qqfWj-vdMMs"
+    id 303
+    label "zwGMR8SiBT4"
     step 0
-    date "2022-07-12T20:30:17Z"
-    title "Adrenochrome | "
-    description "&#1670;&#1607;&#1575;&#1585;&#1605;&#1740;&#1606; &#1608;&#1740;&#1583;&#1740;&#1608; &#1705;&#1575;&#1606;&#1575;&#1604; &#1740;&#1608;&#1578;&#1740;&#1608;&#1576;&#1605; &#1575;&#1605;&#1740;&#1583;&#1608;&#1575;&#1585;&#1605; &#1705;&#1607; &#1582;&#1608;&#1588;&#1578;&#1608;&#1606; &#1576;&#1740;&#1575;&#1583; &#1608; &#1604;&#1584;&#1578; &#1576;&#1576;&#1585;&#1740;&#1583;&#10;&#1587;&#1575;&#1576;&#1587;&#1705;&#1585;&#1575;&#1740;&#1576; &#1705;&#1575;&#1606;&#1575;&#1604; &#1608; &#1604;&#1575;&#1740;&#1705; &#1608; &#1705;&#1575;&#1605;&#1606;&#1578; &#1740;&#1575;&#1583;&#1578;&#1608;&#1606; &#1606;&#1585;&#1607;&#129680;&#10084;&#65039;&#8205;&#128293;&#10;&#10;#celebrity #fact #facts #human #&#1601;&#1705;&#1578; #&#1593;&#1580;&#1740;&#1576; #&#1582;&#1575;&#1589; #&#1576;&#1575;&#1586;&#1740;&#1711;&#1585;"
-    channeltitle "Morteza Barg"
-    channelid "UCK0Qva-Zbxn0zUNCudcZwag"
+    date "2021-09-15T12:28:57Z"
+    title "HIDDEN IN PLAIN SIGHT - ADRENOCHROME IN MOVIES"
+    description "Fighting for World Peace please help me via crypto!&#10;DOGE : D75gkcbcSDjWYi4H8FDSDncVJbwG8VWu3w"
+    channeltitle "Raw Leak"
+    channelid "UC-6B4RzVQTskCiEfL7sm8GQ"
     favcount 0
-    viewcount 21
-    likecount 11
-    commentcount 8
-    duration "PT7M26S"
+    viewcount 777
+    likecount 33
+    commentcount 14
+    duration "PT15M31S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1561335
+    PERSPECTIVEPROFANITY 0.15859728
+    PERSPECTIVEFLIRTATION 0.3742735
+    PERSPECTIVETHREAT 0.26688176
+    PERSPECTIVETOXICITY 0.04818217
+    PERSPECTIVEINSULT 0.12639546
+    PERSPECTIVEIDENTITYATTACK 0.20550646
+    PERSPECTIVEINFLAMMATORY 0.10189438
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 206
-    name "304"
+    id 304
     label "MrTvi69UonI"
     step 0
     date "2021-01-27T19:50:01Z"
@@ -6199,24 +5607,21 @@ graph
     likecount 13
     commentcount 7
     duration "PT44S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.43296567
+    PERSPECTIVEPROFANITY 0.21038397
+    PERSPECTIVEFLIRTATION 0.47338432
+    PERSPECTIVETHREAT 0.2631179
+    PERSPECTIVETOXICITY 0.21109697
+    PERSPECTIVEINSULT 0.24420658
+    PERSPECTIVEIDENTITYATTACK 0.49924356
+    PERSPECTIVEINFLAMMATORY 0.72159785
     indegree 3
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 11
   ]
   node
   [
-    id 207
-    name "305"
+    id 305
     label "XKYExdw71Fo"
     step 0
     date "2022-05-19T16:13:18Z"
@@ -6229,54 +5634,48 @@ graph
     likecount -1
     commentcount 0
     duration "PT9M21S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.11304581
+    PERSPECTIVEPROFANITY 0.1641014
+    PERSPECTIVEFLIRTATION 0.275405
+    PERSPECTIVETHREAT 0.2312415
+    PERSPECTIVETOXICITY 0.040971663
+    PERSPECTIVEINSULT 0.15072443
+    PERSPECTIVEIDENTITYATTACK 0.2117945
+    PERSPECTIVEINFLAMMATORY 0.061636172
     indegree 2
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
-  ]
-  node
-  [
-    id 208
-    name "306"
-    label "eGgK2gVIjfw"
-    step 0
-    date "2021-01-18T22:33:24Z"
-    title "CERB BABY - TRUDEAU NEEDS ADRENOCHROME"
-    description "Trudeau has just announced he will be prime minister for life.  In order to stay youthful, Trudeau instructs his minions to find him a succulent &#8220;CERB baby&#8221;. A basement dwelling millennial who never got their shit together. Drink your Adrenochrome responsibly!&#10;&#10;Follow @theyoungcuckspodcast and @benbankas for more content.&#10;&#10;Support the channel at patreon.com/benbankas and be first to see sketches."
-    channeltitle "BenBankasComedy"
-    channelid "UC2O0u4qk8pF5fjs94kN1CUQ"
-    favcount 0
-    viewcount 1033
-    likecount 71
-    commentcount 12
-    duration "PT2M26S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 209
-    name "310"
+    id 309
+    label "ZNjTZVrLENc"
+    step 0
+    date "2022-05-09T21:21:10Z"
+    title "Adrenochrome Japanese trailer"
+    description "#newrelease #movie #teaser #trailer"
+    channeltitle "Chilla Network"
+    channelid "UCrrJI2luzUh4ytd9Nfbq2Yw"
+    favcount 0
+    viewcount 101
+    likecount 5
+    commentcount 0
+    duration "PT1M17S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.10108957
+    PERSPECTIVEPROFANITY 0.05329169
+    PERSPECTIVEFLIRTATION 0.20410652
+    PERSPECTIVETHREAT 0.053413436
+    PERSPECTIVETOXICITY 0.06532243
+    PERSPECTIVEINSULT 0.04720429
+    PERSPECTIVEIDENTITYATTACK 0.06463667
+    PERSPECTIVEINFLAMMATORY 0.5680319
+    indegree 1
+    cluster 6
+  ]
+  node
+  [
+    id 310
     label "IzdBJAXkNZY"
     step 0
     date "2022-04-07T01:38:33Z"
@@ -6289,24 +5688,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT3M9S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.15445343
+    PERSPECTIVEPROFANITY 0.13428041
+    PERSPECTIVEFLIRTATION 0.40604916
+    PERSPECTIVETHREAT 0.18356569
+    PERSPECTIVETOXICITY 0.0741129
+    PERSPECTIVEINSULT 0.18502712
+    PERSPECTIVEIDENTITYATTACK 0.088087544
+    PERSPECTIVEINFLAMMATORY 0.26212755
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
+    cluster 2
   ]
   node
   [
-    id 210
-    name "311"
+    id 311
     label "Tp0cejmwRPM"
     step 0
     date "2022-06-09T08:30:12Z"
@@ -6319,54 +5715,48 @@ graph
     likecount 0
     commentcount 1
     duration "PT2M24S"
+    sentiment -0.0772
+    PERSPECTIVESEXUALLYEXPLICIT 0.16973667
+    PERSPECTIVEPROFANITY 0.26885775
+    PERSPECTIVEFLIRTATION 0.32722226
+    PERSPECTIVETHREAT 0.27604493
+    PERSPECTIVETOXICITY 0.032731086
+    PERSPECTIVEINSULT 0.20944603
+    PERSPECTIVEIDENTITYATTACK 0.28652027
+    PERSPECTIVEINFLAMMATORY 0.14099902
     indegree 7
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 211
-    name "312"
-    label "f8KnTbw49UY"
+    id 313
+    label "pj21soPjCIU"
     step 0
-    date "2022-07-13T01:06:04Z"
-    title "Critical Scenes - Return [Full Album]"
-    description "7/12/2022&#10;Tracks:&#10;00:00 Impermanent&#10;03:00 High Voltage Impulses&#10;05:00 Critical Scenes&#10;08:40 Awakenings&#10;13:01 Commercial Break&#10;15:13 Adrenochrome&#10;17:54 Hivemind&#10;19:12 Eyes &#38; Voices&#10;23:32 Adrenaline&#10;25:32 Distress&#10;27:12 Unraveling&#10;29:16 Healing&#10;32:16 Letting Go&#10;35:16 Keep Going&#10;38:06 Return"
-    channeltitle "Critical Scenes"
-    channelid "UCu1J-lIrpqmp6pQlc9Ph5fw"
+    date "2022-05-02T21:03:43Z"
+    title "**GRAPHIC CONTENT** Organ harvesting is real , adrenochrome is real , These poor babies "
+    description ""
+    channeltitle "The Seer Artemis"
+    channelid "UCtYsLlTkNhK8uQKzR5iy9rQ"
     favcount 0
-    viewcount 38
+    viewcount 348
     likecount 6
-    commentcount 0
-    duration "PT40M13S"
+    commentcount 2
+    duration "PT58S"
+    sentiment -0.4767
+    PERSPECTIVESEXUALLYEXPLICIT 0.43944123
+    PERSPECTIVEPROFANITY 0.50907207
+    PERSPECTIVEFLIRTATION 0.41907755
+    PERSPECTIVETHREAT 0.30397046
+    PERSPECTIVETOXICITY 0.22982138
+    PERSPECTIVEINSULT 0.612315
+    PERSPECTIVEIDENTITYATTACK 0.22871429
+    PERSPECTIVEINFLAMMATORY 0.61602384
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 1
   ]
   node
   [
-    id 212
-    name "314"
+    id 314
     label "PK9Hs7AluWA"
     step 0
     date "2022-05-10T03:14:44Z"
@@ -6379,84 +5769,75 @@ graph
     likecount 0
     commentcount 0
     duration "PT1M30S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.107826285
+    PERSPECTIVEPROFANITY 0.035738483
+    PERSPECTIVEFLIRTATION 0.3977183
+    PERSPECTIVETHREAT 0.07000476
+    PERSPECTIVETOXICITY 0.058130227
+    PERSPECTIVEINSULT 0.04781224
+    PERSPECTIVEIDENTITYATTACK 0.03669169
+    PERSPECTIVEINFLAMMATORY 0.17228648
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 213
-    name "315"
-    label "7I2Zef5opKE"
-    step 0
-    date "2022-07-05T16:32:30Z"
-    title "admit it"
-    description "Provided to YouTube by DistroKid&#10;&#10;admit it &#183; de$ire &#183; siem spark &#183; ayoleybeats&#10;&#10;admit it&#10;&#10;&#8471; Adrenochrome Records&#10;&#10;Released on: 2022-06-10&#10;&#10;Auto-generated by YouTube."
-    channeltitle "de$ire - Topic"
-    channelid "UCZnQF2w90xonz3ZqsPTFp5w"
-    favcount 0
-    viewcount 1
-    likecount 1
-    commentcount 0
-    duration "PT1M59S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
-  ]
-  node
-  [
-    id 214
-    name "319"
-    label "rFM84LOpoTg"
-    step 0
-    date "2022-01-28T17:49:22Z"
-    title "Stephen King  Adrenochrome: Doctor Sleep - The Shining 2 - IT Book Ends With Child Orgy WTF"
-    description "&#128308; Enchanted LifePath Spotify Podcast&#10;https://open.spotify.com/show/4DnlSd7yCF0Vbg0UpekOPf&#10;&#10;&#128308; Enchanted LifePath Apple Podcast&#10;https://podcasts.apple.com/us/podcast/enchanted-lifepath-podcast/id1607354229 &#128308; Visit #EnchantedLifePath Website&#10;https://EnchantedLifePath.com&#10;&#10;&#10;&#10;&#128308; Donate To Enchanted LifePath&#10;https://buynowplus.com/checkout/59aecf24e73b9b000486c9ef&#10;&#10;&#128308; PayPal Donations&#10;https://www.paypal.com/donate/?hosted_button_id=UBJVLAMJANN3J&#10;&#10;&#128308; Powered By Restream &#10;https://restream.io/join/enchantedlifepath&#10;&#10;&#128308; Join Enchanted LifePath on #Odysee&#10;https://odysee.com/$/invite/@EnchantedLifePath:f&#10;&#10;&#128308; Main #YouTube Channel&#10;https://www.youtube.com/channel/UCCgIpvJ6BoXfYXJbARR6yHQ&#10;&#10;&#128308; #Bitchute: Enchanted LifePath Channel&#10;https://www.bitchute.com/channel/bOoiX1hdHMDP/&#10;&#10;&#128308; #Rumble&#10;https://rumble.com/register/EnchantedLifePath/&#10;&#10;&#128308; 153News Enchanted LifePath Channel&#10;https://153news.net/view_channel.php?user=Enchanted LifePath&#10;&#10;&#128308; #Periscope&#10;https://www.periscope.tv/TruthWeRTheNews/1OyJAgkoXDqKb&#10;&#10;&#128308; #DLive&#10;https://dlive.tv/Enchanted_LifePath&#10;&#10;&#128308; #Twitch TV&#10;https://www.twitch.tv/enchantedlifepath/&#10;&#10;&#128308; #Ustream&#10;http://www.ustream.tv/channel/enchanted-lifepath-tv-live/&#10;&#10;&#128308; #Facebook&#10;https://www.facebook.com/EnchantedLifePath/&#10;&#10;&#128308; #Twitter&#10;https://twitter.com/TruthWeRTheNews/&#10;&#10;&#128308; Reddit&#10;https://www.reddit.com/user/EnchantedLifePath/&#10;&#10;&#128308; #Instagram&#10;https://www.instagram.com/enchantedlifepath2020/&#10;&#10;&#128308; #Tumblr&#10;https://www.tumblr.com/blog/enchanted-lifepath/&#10;&#10;&#128308; Follow Enchanted On #Patreon Free&#10;https://www.patreon.com/EnchantedLifePath&#10;&#10;Stepping Stones Like Stars&#10;&#10;THE WAR IS ON HUMANITY NOT TERROR&#10;&#10;Daily Alternative Media Reports From Enchanted LifePath, An Alternative Media News Channel On YouTube Supported By The Website Delivering More Truth In A Day Than The Mainstream Media Has Reported In My Entire Life. Opening One Set Of Eyes At A Time.&#10;&#10;Follow My Journey And Gain Insights Into Multiple Topics On #YouTube, #Bitchute, #Rumble, Odysee, #153News, #Periscope, #Twitch TV, #Twitter, #Facebook, #Tumblr, #Instagram, #Reddit, #Ustream &#38; #DailyMotion.&#10;&#10;COPYRIGHT DISCLAIMER:&#10;&#10;Under Section 107 of the Copyright Act 1976, allowance is made for &#34;fair use&#34; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. FAIR USE is a use PERMITTED by copyright statute that might otherwise be infringing. Non-profit, ''educational'' or personal use tips the balance in favour of FAIR USE.&#10;&#10;DISCLAIMER: Enchanted LifePath is not responsible for there views of others on this platform. Any comments are made by people thinking and speaking for themselves."
-    channeltitle "Enchanted LifePath TV"
-    channelid "UCnDFhamsEE2po40KIlVQEpA"
-    favcount 0
-    viewcount 122
-    likecount 4
-    commentcount 2
-    duration "PT41M3S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 215
-    name "322"
+    id 318
+    label "6250sTn9p8o"
+    step 0
+    date "2022-01-19T20:37:14Z"
+    title "Randy Prozac - The Adrenochrome Is Still Alive"
+    description "Produced By Randy Prozac"
+    channeltitle "randy"
+    channelid "UCJhPrZBeTI7PNEKQRlLmItA"
+    favcount 0
+    viewcount 160
+    likecount 1
+    commentcount 0
+    duration "PT2M51S"
+    sentiment 0.3818
+    PERSPECTIVESEXUALLYEXPLICIT 0.13272785
+    PERSPECTIVEPROFANITY 0.06583766
+    PERSPECTIVEFLIRTATION 0.40330023
+    PERSPECTIVETHREAT 0.06545858
+    PERSPECTIVETOXICITY 0.016937515
+    PERSPECTIVEINSULT 0.06531894
+    PERSPECTIVEIDENTITYATTACK 0.043677274
+    PERSPECTIVEINFLAMMATORY 0.44224963
+    indegree 7
+    cluster 2
+  ]
+  node
+  [
+    id 321
+    label "srNJzOtcdqw"
+    step 0
+    date "2014-12-01T21:34:23Z"
+    title "Adrenochrome - old school trailer"
+    description "https://www.amazon.com/Adrenochrome-Trevor-Simms/dp/B078WFQ9S9"
+    channeltitle "Chilla Network"
+    channelid "UCrrJI2luzUh4ytd9Nfbq2Yw"
+    favcount 0
+    viewcount 1563
+    likecount 11
+    commentcount 3
+    duration "PT1M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.10295351
+    PERSPECTIVEPROFANITY 0.09106947
+    PERSPECTIVEFLIRTATION 0.23292318
+    PERSPECTIVETHREAT 0.06063172
+    PERSPECTIVETOXICITY 0.05653196
+    PERSPECTIVEINSULT 0.16765177
+    PERSPECTIVEIDENTITYATTACK 0.102168895
+    PERSPECTIVEINFLAMMATORY 0.6070924
+    indegree 1
+    cluster 1
+  ]
+  node
+  [
+    id 322
     label "z7g-4T9Qus4"
     step 0
     date "2020-04-19T20:06:05Z"
@@ -6469,24 +5850,21 @@ graph
     likecount 26
     commentcount 1
     duration "PT4M31S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.117601216
+    PERSPECTIVEPROFANITY 0.061159585
+    PERSPECTIVEFLIRTATION 0.29212812
+    PERSPECTIVETHREAT 0.058506623
+    PERSPECTIVETOXICITY 0.01999182
+    PERSPECTIVEINSULT 0.06815863
+    PERSPECTIVEIDENTITYATTACK 0.047148548
+    PERSPECTIVEINFLAMMATORY 0.17167881
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 216
-    name "323"
+    id 323
     label "UZ4hDWmNXZk"
     step 0
     date "2021-10-03T10:58:46Z"
@@ -6499,24 +5877,21 @@ graph
     likecount 101
     commentcount 30
     duration "PT2M19S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.06461218
+    PERSPECTIVEPROFANITY 0.07291378
+    PERSPECTIVEFLIRTATION 0.34700787
+    PERSPECTIVETHREAT 0.075797856
+    PERSPECTIVETOXICITY 0.30788645
+    PERSPECTIVEINSULT 0.26826316
+    PERSPECTIVEIDENTITYATTACK 0.06451699
+    PERSPECTIVEINFLAMMATORY 0.70790786
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 11
   ]
   node
   [
-    id 217
-    name "324"
+    id 324
     label "7tQuq4QeO9w"
     step 0
     date "2021-05-31T18:03:58Z"
@@ -6529,24 +5904,21 @@ graph
     likecount 2
     commentcount 6
     duration "PT10M15S"
+    sentiment -0.5719
+    PERSPECTIVESEXUALLYEXPLICIT 0.20109934
+    PERSPECTIVEPROFANITY 0.16546787
+    PERSPECTIVEFLIRTATION 0.41792315
+    PERSPECTIVETHREAT 0.2837885
+    PERSPECTIVETOXICITY 0.21892473
+    PERSPECTIVEINSULT 0.15241946
+    PERSPECTIVEIDENTITYATTACK 0.2088236
+    PERSPECTIVEINFLAMMATORY 0.34475604
     indegree 5
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 11
   ]
   node
   [
-    id 218
-    name "325"
+    id 325
     label "lY9WGa2rm58"
     step 0
     date "2021-09-10T20:13:56Z"
@@ -6559,54 +5931,48 @@ graph
     likecount 7
     commentcount 0
     duration "PT15M31S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1560059
+    PERSPECTIVEPROFANITY 0.05711969
+    PERSPECTIVEFLIRTATION 0.45522758
+    PERSPECTIVETHREAT 0.15684785
+    PERSPECTIVETOXICITY 0.024833864
+    PERSPECTIVEINSULT 0.09710696
+    PERSPECTIVEIDENTITYATTACK 0.051004846
+    PERSPECTIVEINFLAMMATORY 0.1425635
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 219
-    name "326"
-    label "p0hEZ5bIKl4"
+    id 327
+    label "q7mj0-VlUYE"
     step 0
-    date "2019-01-13T08:11:15Z"
-    title "Adrenochrome (2018) Trailer"
-    description "A young American Veteran gets involved with a gang of Venice Beach psychos who are killing people to extract a psychedelic compound from their victim's adrenal glands.&#10;&#10;Review and watch full movie at https://mymovieguides.com/adrenochrome-2018/"
-    channeltitle "Michael Russell"
-    channelid "UCnAJgtmgLNI8MsF24Ly56cA"
+    date "2021-07-24T17:00:43Z"
+    title "Biden - Adrenochrome 2"
+    description ""
+    channeltitle "Someday Dead"
+    channelid "UCHU1L6ai2Ddn2vZDfLDk6_Q"
     favcount 0
-    viewcount 373
-    likecount 1
-    commentcount 0
-    duration "PT2M5S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    viewcount 272
+    likecount 7
+    commentcount 4
+    duration "PT30S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20050897
+    PERSPECTIVEPROFANITY 0.09830848
+    PERSPECTIVEFLIRTATION 0.45135754
+    PERSPECTIVETHREAT 0.094857164
+    PERSPECTIVETOXICITY 0.13969667
+    PERSPECTIVEINSULT 0.08439473
+    PERSPECTIVEIDENTITYATTACK 0.063467324
+    PERSPECTIVEINFLAMMATORY 0.27148387
+    indegree 24
+    cluster 2
   ]
   node
   [
-    id 220
-    name "328"
+    id 328
     label "0h3yhNjNwos"
     step 0
     date "2021-04-29T05:00:00Z"
@@ -6619,24 +5985,21 @@ graph
     likecount 6
     commentcount 2
     duration "PT4M40S"
+    sentiment -0.5106
+    PERSPECTIVESEXUALLYEXPLICIT 0.513549
+    PERSPECTIVEPROFANITY 0.5669456
+    PERSPECTIVEFLIRTATION 0.5204317
+    PERSPECTIVETHREAT 0.5452523
+    PERSPECTIVETOXICITY 0.2459383
+    PERSPECTIVEINSULT 0.5164465
+    PERSPECTIVEIDENTITYATTACK 0.21234308
+    PERSPECTIVEINFLAMMATORY 0.47717217
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 1
   ]
   node
   [
-    id 221
-    name "329"
+    id 329
     label "Vql-vSlRF18"
     step 0
     date "2022-06-02T15:11:34Z"
@@ -6649,24 +6012,21 @@ graph
     likecount 6
     commentcount 0
     duration "PT10S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.12437524
+    PERSPECTIVEPROFANITY 0.12141989
+    PERSPECTIVEFLIRTATION 0.25559995
+    PERSPECTIVETHREAT 0.2660526
+    PERSPECTIVETOXICITY 0.010481823
+    PERSPECTIVEINSULT 0.12998056
+    PERSPECTIVEIDENTITYATTACK 0.21722431
+    PERSPECTIVEINFLAMMATORY 0.062129382
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 11
   ]
   node
   [
-    id 222
-    name "330"
+    id 330
     label "qb7odyhSTTA"
     step 0
     date "2018-12-09T19:11:27Z"
@@ -6679,54 +6039,48 @@ graph
     likecount 11
     commentcount -1
     duration "PT1M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.124177895
+    PERSPECTIVEPROFANITY 0.104779616
+    PERSPECTIVEFLIRTATION 0.5051079
+    PERSPECTIVETHREAT 0.30834237
+    PERSPECTIVETOXICITY 0.10461388
+    PERSPECTIVEINSULT 0.19143589
+    PERSPECTIVEIDENTITYATTACK 0.19624974
+    PERSPECTIVEINFLAMMATORY 0.13382149
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 223
-    name "331"
-    label "KrzTo46Igm4"
+    id 333
+    label "HuzGOWJEPVI"
     step 0
-    date "2020-11-02T12:02:11Z"
-    title "MIA (Robotaki Remix)"
-    description "Provided to YouTube by Ninja Tune&#10;&#10;MIA (Robotaki Remix) &#183; RAC &#183; Danny Dwyer&#10;&#10;MIA (Robotaki Remix)&#10;&#10;&#8471; Counter Records&#10;&#10;Released on: 2020-11-02&#10;&#10;Producer: Andr&#233; Allen Anjos&#10;Mixer: Andr&#233; Allen Anjos&#10;Featuring: Danny Dwyer&#10;Remixer: Robotaki&#10;Music  Publisher: All The Noise / Sony/ATV&#10;Music  Publisher: Cobra Kai Publishing (ASCAP)&#10;Composer  Lyricist: Andr&#233; Allen Anjos&#10;Composer  Lyricist: Danny Dwyer&#10;&#10;Auto-generated by YouTube."
-    channeltitle "RAC - Topic"
-    channelid "UCBPZWPYu8DiFdPWc9dGlh4w"
+    date "2022-06-05T17:40:42Z"
+    title "How Hollywood Stars Stay Looking Young -  Ep 2"
+    description "How Hollywood Stars Stay Looking Young- &#34;The Truth About Adrenochrome&#34; Ep 2&#10;#Adrenochrome #DoYouBelieve #Conspiracy"
+    channeltitle "Do You Believe"
+    channelid "UCSLc0OL_EYQqrUxxtOsFwaA"
     favcount 0
-    viewcount 56424
-    likecount 633
-    commentcount 0
-    duration "PT4M1S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    viewcount 85
+    likecount 14
+    commentcount 4
+    duration "PT15M14S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.13683988
+    PERSPECTIVEPROFANITY 0.08865972
+    PERSPECTIVEFLIRTATION 0.4536246
+    PERSPECTIVETHREAT 0.07115719
+    PERSPECTIVETOXICITY 0.0495556
+    PERSPECTIVEINSULT 0.091886766
+    PERSPECTIVEIDENTITYATTACK 0.076184556
+    PERSPECTIVEINFLAMMATORY 0.02721407
+    indegree 1
+    cluster 1
   ]
   node
   [
-    id 224
-    name "334"
+    id 334
     label "KLy1Y2Uc0h4"
     step 0
     date "2020-05-05T04:07:56Z"
@@ -6739,24 +6093,21 @@ graph
     likecount 105
     commentcount 0
     duration "PT3M23S"
+    sentiment 0.4588
+    PERSPECTIVESEXUALLYEXPLICIT 0.16404355
+    PERSPECTIVEPROFANITY 0.10161011
+    PERSPECTIVEFLIRTATION 0.42949033
+    PERSPECTIVETHREAT 0.07060833
+    PERSPECTIVETOXICITY 0.016173938
+    PERSPECTIVEINSULT 0.11802414
+    PERSPECTIVEIDENTITYATTACK 0.078380056
+    PERSPECTIVEINFLAMMATORY 0.06990575
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 225
-    name "335"
+    id 335
     label "UxGZnjvcTmM"
     step 0
     date "2020-10-14T21:29:53Z"
@@ -6769,24 +6120,21 @@ graph
     likecount 0
     commentcount 1
     duration "PT2M18S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15216707
+    PERSPECTIVEPROFANITY 0.13003482
+    PERSPECTIVEFLIRTATION 0.23654944
+    PERSPECTIVETHREAT 0.17997731
+    PERSPECTIVETOXICITY 0.014160873
+    PERSPECTIVEINSULT 0.120654635
+    PERSPECTIVEIDENTITYATTACK 0.07502189
+    PERSPECTIVEINFLAMMATORY 0.080153964
     indegree 4
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 6
   ]
   node
   [
-    id 226
-    name "336"
+    id 336
     label "RGVaHHr69eA"
     step 0
     date "2020-05-30T17:08:01Z"
@@ -6799,54 +6147,48 @@ graph
     likecount 37
     commentcount 14
     duration "PT1M1S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15423104
+    PERSPECTIVEPROFANITY 0.08788374
+    PERSPECTIVEFLIRTATION 0.35254648
+    PERSPECTIVETHREAT 0.16025774
+    PERSPECTIVETOXICITY 0.103539884
+    PERSPECTIVEINSULT 0.07299531
+    PERSPECTIVEIDENTITYATTACK 0.108316995
+    PERSPECTIVEINFLAMMATORY 0.2758073
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 10
-  ]
-  node
-  [
-    id 227
-    name "337"
-    label "f5-pwztd6LM"
-    step 0
-    date "2021-07-22T13:12:26Z"
-    title "Adrenochrome| Season 3 Episode 2 | | Queen Elizabeth, Nicki Minaj, YN Jay, Kevin Gates, Cleopatra"
-    description "In this episode we talk about the effects of drugs on the brain and if the drugs are really to blame. Ha! That shit rhymed!&#10;&#10;https://anchor.fm/nightbanter/episodes/S3-Ep-2-Effects-of-Drugs-on-the-Brain-e10kcsb&#10;&#10;https://www.facebook.com/nightbanterr&#10;&#10;https://www.instagram.com/invites/contact/?i=1t95iq56ez88b&#38;utm_content=lznpks6&#10;&#10;DISCLAIMER:&#10;No drugs or alcohol were consumed, possessed or distributed during the making of this episode."
-    channeltitle "The Night Banter Podcast"
-    channelid "UC-vV_50RoVd5-wK5lKXXMbg"
-    favcount 0
-    viewcount 68
-    likecount -1
-    commentcount 0
-    duration "PT41M12S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 228
-    name "339"
+    id 338
+    label "0s00xzMsY8A"
+    step 0
+    date "2022-04-25T06:24:08Z"
+    title "Adrenochrome"
+    description "Slang flashcards:&#13;&#10;           https://amzn.to/3uwkcfN&#13;&#10;           &#13;&#10;           Disclaimer: &#13;&#10;           The information contained in the multimedia content (&#8220;Video Content&#8221;) posted doesn't represents the views and opinions of the creator of such Video Content. The Video Content has been made available for informational and educational purposes only. The creator does not make any representation or warranties with respect to the accuracy, applicability, fitness, or completeness of the Video Content."
+    channeltitle "Urban Dictionary"
+    channelid "UCfJrWBiTnQW90yI5MLfP7QA"
+    favcount 0
+    viewcount 15
+    likecount 1
+    commentcount 0
+    duration "PT1M38S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
+    indegree 0
+    cluster 1
+  ]
+  node
+  [
+    id 339
     label "4GFQiJwn4Vo"
     step 0
     date "2021-12-15T21:57:18Z"
@@ -6859,24 +6201,21 @@ graph
     likecount 8
     commentcount 2
     duration "PT24M40S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16649002
+    PERSPECTIVEPROFANITY 0.09606704
+    PERSPECTIVEFLIRTATION 0.38101897
+    PERSPECTIVETHREAT 0.13530353
+    PERSPECTIVETOXICITY 0.013813793
+    PERSPECTIVEINSULT 0.061032295
+    PERSPECTIVEIDENTITYATTACK 0.075859286
+    PERSPECTIVEINFLAMMATORY 0.3977139
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 229
-    name "340"
+    id 340
     label "PxMPwNTmIDI"
     step 0
     date "2021-07-14T07:03:35Z"
@@ -6889,24 +6228,21 @@ graph
     likecount 2
     commentcount 0
     duration "PT1M4S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.11345592
+    PERSPECTIVEPROFANITY 0.09847296
+    PERSPECTIVEFLIRTATION 0.2776088
+    PERSPECTIVETHREAT 0.08340888
+    PERSPECTIVETOXICITY 0.043375164
+    PERSPECTIVEINSULT 0.11648653
+    PERSPECTIVEIDENTITYATTACK 0.07389878
+    PERSPECTIVEINFLAMMATORY 0.18544768
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 1
   ]
   node
   [
-    id 230
-    name "341"
+    id 341
     label "boPVYo2lcJw"
     step 0
     date "2022-05-04T22:03:56Z"
@@ -6919,234 +6255,210 @@ graph
     likecount 1
     commentcount 0
     duration "PT14S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13516228
+    PERSPECTIVEPROFANITY 0.06229577
+    PERSPECTIVEFLIRTATION 0.41495693
+    PERSPECTIVETHREAT 0.08907976
+    PERSPECTIVETOXICITY 0.032559406
+    PERSPECTIVEINSULT 0.072710045
+    PERSPECTIVEIDENTITYATTACK 0.041976824
+    PERSPECTIVEINFLAMMATORY 0.100515395
     indegree 7
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
-  ]
-  node
-  [
-    id 231
-    name "342"
-    label "AKh3EA4Qt0Q"
-    step 0
-    date "2022-01-31T20:00:06Z"
-    title "Adrenochrome - Raider Renounce x Nic Beige"
-    description "Goo, drippin off the whole globe.&#10;&#10;Connect on Instagram:&#10;@RaiderRenounce / @Nicbeige / @GooGlobalEnt&#10;&#10;Record Label: Goo Global Entertainment&#10;&#10;Lyrics:&#10;I came with 30 that&#8217;s a full Glock &#10;That frazzledrip Moloch &#10;Head spinning Bread winning &#10;30 racks in my trap spot&#10;I&#8217;m a Viking boy took a liking boy &#10;To that pillage and the purging &#10;Got the sheriffs daughter in the pool water &#10;Out in Sin City twerking &#10;My life&#8217;s a movie About to go write a movie &#10;At the corner store with all my guns and all my jewelry &#10;Lil bitch came with cooties &#10;That&#8217;s cool there&#8217;s a pill for that &#10;Got a bitch that would kill for me &#10;Got a shooter that would kill for less &#10;I took the red pill and the blue pill &#10;Just to see how it&#8217;s feels &#10;Said fuck the fame but the devil came &#10;And gave us that deal &#10;Signed in blood with that quill &#10;Dipped in red will congeal &#10;Sold my soul won&#8217;t miss it though &#10;Got big scripts to fill &#10;See I don&#8217;t been all around the fuckin world ain&#8217;t met a motherfucker quite like me &#10;See I&#8217;m everything wrong with the country &#10;They should build a fucking wall around me &#10;&#10;They only came for my drenny&#10;Baby ate me up like Denny's&#10;Cup full / no henny&#10;Now the slut spending stimmies&#10;I'm mad max like gibbi&#10;Fury road / sin city &#10;Chromeo all in me&#10;Valhalla where my friends be&#10;Frazzle got me feeling elite&#10;This aint no q annon / aint no monsters inc&#10;She wanna harvest me, sucking on my feet&#10;My pituitary dripping ink&#10;I got her giving shots over kitchen sinks&#10;Came back from the grove with a change of vocation, &#10;match names with them faces, got influential patients, got a whole trunk of cases, the price right you can taste it, locked doors/ secret phrases whole globe ima take it.&#10;&#10;Video Directed By: Deep Field Media @deepfieldmedia&#10;Produced By: Millz @LucidHouseLV&#10;Goo Global Entertainment&#10;&#10;#RaiderRenounce #NicBeige #GooGlobal"
-    channeltitle "Goo Global"
-    channelid "UCcOwmzN_37t6_GTT8BNV0sw"
-    favcount 0
-    viewcount 197
-    likecount 9
-    commentcount 3
-    duration "PT3M31S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 232
-    name "345"
-    label "E0xg9TsL00I"
+    id 344
+    label "eBNHTBRHADU"
     step 0
-    date "2020-05-15T14:00:13Z"
-    title "Hindsight 2020 Episode 20 (Tesla  Adrenochrome)"
+    date "2021-10-26T20:47:22Z"
+    title "Truth in the form of comedy to disarm the sheep. (Adrenochrome)"
     description ""
-    channeltitle "Its Not Sus"
-    channelid "UC9GooB6fZfoDtAQyro3HKMQ"
+    channeltitle "Big Boss"
+    channelid "UC9yxkj79TlA1yLrWdj97tAg"
     favcount 0
-    viewcount 70
-    likecount 4
-    commentcount 0
-    duration "PT55M2S"
+    viewcount 256
+    likecount 21
+    commentcount 6
+    duration "PT7M45S"
+    sentiment 0.5859
+    PERSPECTIVESEXUALLYEXPLICIT 0.14667805
+    PERSPECTIVEPROFANITY 0.073041745
+    PERSPECTIVEFLIRTATION 0.3949616
+    PERSPECTIVETHREAT 0.08614568
+    PERSPECTIVETOXICITY 0.11472086
+    PERSPECTIVEINSULT 0.16106981
+    PERSPECTIVEIDENTITYATTACK 0.055380277
+    PERSPECTIVEINFLAMMATORY 0.71222615
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 233
-    name "349"
-    label "B8_JEmmq2GA"
+    id 348
+    label "9-pLwi9i75A"
     step 0
-    date "2022-07-13T18:19:36Z"
-    title "This is me now. i kinda like the change"
-    description "I didn't eat for three whole months because the University of Maryland Medical Center gave me nothing I could eat drank water from the sink. Schalud kept me alive. See if it's true touch base with them. They can easily kill you if you have dietary needs. They have been doing it for a very long time this is how Apartied works they own the store. They finally released me almost got raped by a church thug ( in defense of &#34; have a blessed day&#34; greeter at the Walmart)They needed to put a turnstile in so many groups took part, the piss drinkers against covid where there. After my fasting I heard the Social Worker say as she passed my room to someone next to her &#34;At least she'll be out of here&#34;. Guess they had a big enough piece of me. Only my Schaludie DNA could keep me alive they tortured me everyday for the whole time I was incarcerated there. Medical facilities are part if the Apartied Apparatus run by the Lycanthropic Plantation Theocracy. The civil war didn't count. The system has to be examained in it's entirety.&#10;The hereditary disease brought from England is not rare too much is written about it. https://www.google.com/search?q=how+many+articles+on+porphyria+on+Google+&#38;client=ms-android-tmus-us-revc&#38;sxsrf=ALiCzsZqfvj4d0POpQ4bZ_j1sgU8-z6q0g%3A1657740612340&#38;ei=RB3PYqm5FLOgptQPtPOU-As&#38;oq=how+many+articles+on+porphyria+on+Google+&#38;gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBQghEKABMgUIIRCgATIFCCEQoAEyBQghEKABMgUIIRCrAjIFCCEQqwI6BwgAEEcQsANKBAhBGABQkQxY_zdgrj5oAXABeACAAegBiAGaD5IBBTAuOS4ymAEAoAEByAEIwAEB&#38;sclient=mobile-gws-wiz-serp&#10;Why I call them Lycanthropes is because their thirst for human blood plus the dehumanizing of peoples through slavery allowed to commit unthinkable torture and mutilation to obtain adrenochrome without being hung for murdering them. Their lifestyle has been &#34;Grandfathered&#34; in their communities making them above the law. Adrenochrome can only be produced under extremely torturous conditions resulting in death not before they are bleed out. It is socially acceptable that NIH has used it to study the effects of adrenochrome on schizophrenics look it up if you don't believe me.&#10;I am a thorn in their side I live in their neighborhood.  If it were not for the part of me that's not human they would have murdered me a long time ago. I can do without which I have had to do multiple times. Please remember that the system is always in use it was not created specifically for me however I have suffered but survived to give you a &#34;Beispiel&#34;.&#10;This property is bought and paid for it has been for 13 years owned by my younger daughter it has been  stolen my daughter went to court &#34; county tax error&#34;.That did not replace my personal belongings including 5 years worth of hand knitting they removed when they &#34;shued&#34; me like a fly.  Now I have moved back after and the harassment is on.&#10;I invested 20K into it the first time now I had to put in a new dishwasher for 1 the smell of the old one made me throw up. The tenant ripped out the microwave and broke the toilet. It got a new paint job. I don't want to out another penny into it because after what this town did to le it has no resale value at all. I will not move we are not rich and have no money to lose. It's my retirement home. Someone needs to tell these rednecks and their slaves to buzz off and they used the cops on me they entered my house without a warrant. If you open your door they will rush in.&#10;I was never much of a looker. I went to elementary school with all Jews so I blended right in 10% Asia Minor we had the same stone age stomping ground could explain my nose.&#10;My DNA holds my &#34;Aufgabe&#34; about 40,000 years ago Jessie James and I had a common grandmother thats how the Lycanthropic Plantation Theocracy survived took a lesson from Jessie's fate and kept a low profile incorporating ever aspect of life into their underground network using subterfuge and terrorism on the local level then branching out using their education of their children to go upwards in the economy and all it's branches. Now the have control of the legislature and want the feather in their cap Donald Trump as President.&#10;I'm what Nat Geo Helix Project calls a Add Mixture it makes it very complicated to profile me and Schaludie it makes more complicated still."
-    channeltitle "Lucy Brunson 2"
-    channelid "UC0C_jh1E2sy0KwXBDeoh7Zg"
+    date "2020-09-17T14:27:52Z"
+    title "Pt. 3 | What You Didnt Know About Adrenochrome: Where are the Missing Children? Pt. 3"
+    description "This one of a kind video will leave you spellbound. Enjoy! @Joseph Okechukwu @Channels Television @Plus TV Africa @Africa Independent Television - AIT @Candace Owens @TERRENCE @CHARLIE K @Diamond and Silk - The Viewers View @African Diaspora News Channel &#10;&#10;&#10;SUPPORT JOSEPH OKECHUKWU&#10;&#10;Nigerian Accounts:&#10;Joseph C. Okechukwu | 206 664 6659 | UBA Nigeria OR&#10;Joseph C. Okechukwu | 623 685 8014 | Fidelity Bank Nigeria &#10;&#10;PAYPAL: paypal.me/jcokechukwu (copy this to your browser and click enter. It will take you to my account. It's Universal.)&#10;ZELLE: joke0524@yahoo.com&#10;GOFUNDME: THE BIG PICTURE BY JO&#10;&#10;Contact Joseph&#10;Email: kingestjoe@gmail.com &#10;Tel: +2348021025467 (Whatsapp) | +1 678 908 8852 (Whatsapp)&#10;Twitter: @jcokechukwu &#10;Instagram: @kingestjoe &#10;Facebook: Joseph Okechukwu"
+    channeltitle "Joseph Okechukwu"
+    channelid "UCk4nAIu1RfciUA7FRliRgJA"
     favcount 0
-    viewcount 5
-    likecount 0
-    commentcount 1
-    duration "PT24S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 30308
+    likecount 1610
+    commentcount 294
+    duration "PT21M48S"
+    sentiment -0.296
+    PERSPECTIVESEXUALLYEXPLICIT 0.15966938
+    PERSPECTIVEPROFANITY 0.11339643
+    PERSPECTIVEFLIRTATION 0.6784734
+    PERSPECTIVETHREAT 0.41405606
+    PERSPECTIVETOXICITY 0.07211506
+    PERSPECTIVEINSULT 0.14222385
+    PERSPECTIVEIDENTITYATTACK 0.19059663
+    PERSPECTIVEINFLAMMATORY 0.040771402
+    indegree 1
     cluster 3
   ]
   node
   [
-    id 234
-    name "355"
-    label "iGLfpn1_ff0"
+    id 354
+    label "EDzaofHy7QU"
     step 0
-    date "2022-07-12T07:28:23Z"
-    title "Still got visitors. Our bill is paid and they still try to knock the door down"
-    description "This is the bill paid in full it must be because they manufacture adrenochrome that the put so much pressure on me again. They tried to bang my door down again. &#10;https://photos.app.goo.gl/WRRbbDf7H2wCrNfq8"
-    channeltitle "Lucy Brunson 2"
-    channelid "UC0C_jh1E2sy0KwXBDeoh7Zg"
+    date "2020-07-24T20:39:55Z"
+    title "ADRENOCHROME NEDR ?"
+    description "Adrenochrome nas&#305;l elde edilir ve nas&#305;l kullan&#305;l&#305;r.?&#10;Simyada bahsi ge&#231;en k&#305;z&#305;l ejder kan&#305; nedir. nas&#305;l elde edilir. &#10;Elitlerin gizli gen&#231;lik iksiri ve Black eyes di&#287;er ismi ile kara g&#246;zler kl&#252;b&#252;  ve ili&#351;kileri derin ba&#287;lant&#305;lar&#305;.&#10;Adrenochrome hangi deneylerde denenmi&#351;tir.&#10;Bu tarz videolar&#305;n daha fazla olmas&#305;n&#305; istiyorsan&#305;z &#10;ABONE OLUP V&#304;DEO'lar&#305;m&#305;z&#305; be&#287;enip bizlere destek olabilirsiniz.&#10;&#10;SOSYAL MEDYA HESAPLARIMIZ &#10;https://www.instagram.com/heyula_frekans&#10;https://www.facebook.com/heyulafrekans&#10;https://www.twitter.com/heyula_frekans"
+    channeltitle "Mustafa Kurnaz"
+    channelid "UCRERyK4YIlRu5LJB_1gX_Mw"
     favcount 0
-    viewcount 108
-    likecount 0
-    commentcount 0
-    duration "PT16S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    viewcount 18358
+    likecount 924
+    commentcount -1
+    duration "PT7M51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.09479108
+    PERSPECTIVEPROFANITY 0.15312111
+    PERSPECTIVEFLIRTATION 0.43723464
+    PERSPECTIVETHREAT 0.2959889
+    PERSPECTIVETOXICITY 0.1019289
+    PERSPECTIVEINSULT 0.23749124
+    PERSPECTIVEIDENTITYATTACK 0.59808385
+    PERSPECTIVEINFLAMMATORY 0.008347012
+    indegree 4
+    cluster 10
   ]
   node
   [
-    id 235
-    name "357"
-    label "vR8Qvywo7E4"
+    id 356
+    label "rCv60fxyEpI"
     step 0
-    date "2020-09-21T06:44:58Z"
-    title "100mg Adrenochrome - Killing the Myth | Trip Report Readings"
-    description "100mg Adrenochrome - Killing the Myth | Trip Report Readings&#10;&#10;Author of original thread: genaro&#10;Trip Report Link: https://erowid.org/experiences/exp.php?ID=51847&#10;Business Email: se0taibusiness@protonmail.com&#10;Discord Link: https://discord.com/invite/DPgSSnu&#10;&#10;Adrenochrome&#10;Drencrum&#10;Adrenochrome trip report&#10;Adrenochrome experience&#10;Adrenochrome effects&#10;&#10;Chemistry&#10;Education&#10;Substance Abuse&#10;Trip report reading&#10;AngryAztecSun"
-    channeltitle "AngryAztecSun"
-    channelid "UCfWLPMZIxCxqIXmJjbeknVw"
+    date "2022-03-09T23:46:52Z"
+    title "#frazzledrip #adrenochrome #nswpremier #pedovore #thesepeoplearesick"
+    description "NSW Premier Dominic PerroTwat showing his loyalties...shown twice on tv with the frazzledrip Wilson ball.  Adrenochrome signalling. And don't tell me just because he showed it doesn't mean he's into it. There is a MASSIVE MASSIVE awakening about this stuff by now and anyone who continues to signal the frazzledrip symbolism, ESPECIALLY anyone in higher levels, it is &#128175;% symbolic that they are &#34;part of the club&#34; &#10;These people are SICK"
+    channeltitle "Kristi-Lee Expelling the Spells"
+    channelid "UC89d2jz7y_bz59-QmMA-bew"
     favcount 0
-    viewcount 775
-    likecount 37
-    commentcount 3
-    duration "PT4M49S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
+    viewcount 202
+    likecount 4
+    commentcount 0
+    duration "PT8S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.7407407
+    PERSPECTIVEPROFANITY 0.62180316
+    PERSPECTIVEFLIRTATION 0.47220063
+    PERSPECTIVETHREAT 0.56113416
+    PERSPECTIVETOXICITY 0.28517663
+    PERSPECTIVEINSULT 0.5860334
+    PERSPECTIVEIDENTITYATTACK 0.4900203
+    PERSPECTIVEINFLAMMATORY 0.09488967
+    indegree 4
     cluster 1
   ]
   node
   [
-    id 236
-    name "360"
-    label "dQi1kMTJciI"
+    id 359
+    label "F0_hm8vWrqs"
     step 0
-    date "2022-07-11T10:21:12Z"
-    title "We Will Adopt Your Mole Baby"
-    description "SHOW NOTES:&#13;&#10;&#13;&#10; This Podcast Respects Your Time - they should have called him Jimmy Malfunctioning Teddy Ruxpin&#13;&#10;&#13;&#10; Welcome to New York - it don&#8217;t matter what color your goblin is&#13;&#10;&#13;&#10; Carnival of Gastronomy - oh no snake&#8217;s pooping in its own mouth&#13;&#10;&#13;&#10; The New Flag for a New America: the Healing Balm this Divided Nation Needs - Momma don&#8217;t take my adrenochrome away&#13;&#10;&#13;&#10; Podcast That Syncs Up With Pink Floyd - Uncle Tom&#8217;s Wonder Magorium&#13;&#10;&#13;&#10; Me and My Dude - Don&#8217;t Underestimate Discipleship Education&#13;&#10;&#13;&#10; What to Do When You&#8217;re Down to One Beer - you need to admit you have a problem&#13;&#10;&#13;&#10; Why Pox - is it a Crieghdyn or a Hayshleigh?&#13;&#10;&#13;&#10; Right Here, Right Now - I didn&#8217;t expect an alligator to jump out"
-    channeltitle "We Don't Have a Podcast Yet"
-    channelid "UCWi-Kau2DyGBMvphpnM1tRg"
+    date "2021-12-06T02:44:40Z"
+    title "dans le faux il y a beaucoup de v.adrenochrome .(2)"
+    description "oxydation de l'adr&#233;naline ."
+    channeltitle "L&#201;VEILL&#201;"
+    channelid "UCswG1rGBQtdXYgbZV52YVzw"
     favcount 0
-    viewcount 0
-    likecount 0
+    viewcount 12
+    likecount 2
     commentcount 0
-    duration "PT59M49S"
+    duration "PT20S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.36722085
+    PERSPECTIVEPROFANITY 0.3634529
+    PERSPECTIVEFLIRTATION 0.6266237
+    PERSPECTIVETHREAT 0.52039933
+    PERSPECTIVETOXICITY 0.04234509
+    PERSPECTIVEINSULT 0.33541852
+    PERSPECTIVEIDENTITYATTACK 0.23652789
+    PERSPECTIVEINFLAMMATORY 0.18341096
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 237
-    name "366"
-    label "dWbdlyuD_eQ"
+    id 365
+    label "eP2gnOw-f4o"
     step 0
-    date "2021-05-10T15:13:57Z"
-    title "Jim Caviezel on The Sound of Freedom interview CPAC mentioning Adrenochrome"
-    description ""
-    channeltitle "TruthAnon"
-    channelid "UCictcC2xTIRlfGq4JFaKlxw"
+    date "2018-05-26T06:13:31Z"
+    title "CLOT INJECTION ( adrenochrome monosemicarbazone ) use blood clotting  side effect"
+    description "Clot injection &#10;      adrenochrome monosemicarbazone ,  this is rasaynik Sandesh vahak . Blood clotting &#2350;&#2375;&#2306; &#2350;&#2342;&#2342; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376; &#2404; bleeding &#2325;&#2379; &#2348;&#2344;&#2381;&#2342; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376; &#2404;&#10;     Allergy inflammatory disease , gathiya , Poshak tatva ki Kami &#2325;&#2375; &#2354;&#2367;&#2351;&#2375; &#2349;&#2368; &#2311;&#2360; &#2311;&#2306;&#2332;&#2375;&#2325;&#2381;&#2358;&#2344; &#2325;&#2379; &#2346;&#2381;&#2352;&#2351;&#2379;&#2327; &#2350;&#2375;&#2306; &#2354;&#2366;&#2351;&#2366; &#2332;&#2366;&#2340;&#2366; &#2361;&#2376; &#2404;&#10; Side effect :. Video &#2342;&#2375;&#2326;&#2375;&#2306; &#2404;&#10; &#2346;&#2375;&#2335; &#2350;&#2375;&#2306; &#2360;&#2370;&#2332;&#2344; , peptic ulcer ,  liver disease , pregnant women, breastfeeding &#2311;&#2344; &#2350;&#2352;&#2368;&#2332;&#2379; &#2325;&#2379; &#2351;&#2361; &#2311;&#2306;&#2332;&#2375;&#2325;&#2381;&#2358;&#2344; &#2348;&#2367;&#2344;&#2366; doctor &#2325;&#2368; &#2352;&#2366;&#2351; &#2360;&#2375; &#2311;&#2360; &#2311;&#2306;&#2332;&#2375;&#2325;&#2381;&#2358;&#2344; &#2325;&#2379; &#2344; &#2354;&#2327;&#2366;&#2351;&#2375;&#2306; &#2404;"
+    channeltitle "Public Welfare &#38; Health Organisation"
+    channelid "UCUcJLCOjCR4_Tkt0XzRoQEQ"
     favcount 0
-    viewcount 579
-    likecount -1
-    commentcount 4
-    duration "PT2M36S"
+    viewcount 13229
+    likecount 116
+    commentcount 25
+    duration "PT2M18S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.36535418
+    PERSPECTIVEPROFANITY 0.40408516
+    PERSPECTIVEFLIRTATION 0.3805822
+    PERSPECTIVETHREAT 0.58435476
+    PERSPECTIVETOXICITY 0.09172598
+    PERSPECTIVEINSULT 0.30695546
+    PERSPECTIVEIDENTITYATTACK 0.25605008
+    PERSPECTIVEINFLAMMATORY 0.10480608
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 238
-    name "370"
+    id 369
+    label "-FwJKvcJs8A"
+    step 0
+    date "2020-10-19T14:51:48Z"
+    title "History Of Humans + Adrenochrome In Jupiter Ascending (Enlightenment Video)"
+    description "This video had copyright in my other channel. So I had to edit and deleted it from my other channel. So I put it here. I will repost this video in my other channel in do time&#10;&#10;History with #humans and #dracos + #adrenochrome in #JupiterAscending these film maker knew what they were doing and it's the people who made the Matrix films. This movie is the #redpill to the truth&#10;---------------------------------------------------------------&#10;Kingdom Hearts 3 TGS BIG Hero 6 Trailer https://youtu.be/LNzxgjIRXWk&#10;&#10;Wwe Money In The BANK 2018 Review/My Thoughts&#10;https://youtu.be/rrjucEf0E2I&#10;&#10;Klown RANT: GOTHAM Series HATERS&#10;https://youtu.be/GXCd9TVEXTs&#10;&#10;Klown RANT: Can't Wait For Kingdom Hearts 3 Only Played Kingdom Hearts 1 &#38; 2 https://youtu.be/2__O_MNo5Ck&#10;&#10;Its Hard To Watch CHANNEL AWESOME&#10;https://youtu.be/ZE9SHmFJ7rw&#10;&#10;Oswald The Lucky Rabbit In A Future KINGDOM HEARTS Game&#10;https://youtu.be/Nv-oOFVeXOE&#10;&#10;TheSkullKlown Thoughts On MGM Rebooting CHILD'S Play Skit&#10;https://youtu.be/BlxIMqiH3V0&#10;&#10;Godzilla KING OF THE MONSTERS 2019 Trailer Reaction Video&#10;https://youtu.be/y_Ihhx6rahU&#10;&#10;Halloween 2018 Disrespected The Fans&#10;https://youtu.be/9ydxEvmsY0A&#10;&#10;The CHILD'S PLAY Reboot Will Always Be Hated&#10;https://youtu.be/yp1X5dRFvg8&#10;&#10;Klown RANT: Wwe&#10;https://youtu.be/3-DhQkIxENo&#10;&#10;Wwe Crown Jewel (SIGH)&#10;https://youtu.be/xvsLzJQcljw&#10;&#10;FORGOTTEN WORLDS PS2 Review  (HAPPY HALLOWEEN)&#10;https://youtu.be/V47XxG0J7Sk&#10;&#10;HALLOWEEN 2018 Review&#10;https://youtu.be/nbUP0eiohG4&#10;&#10;CHILD'S PLAY Remake V. Toy Story 4 2019 WHAT A HUGE FAIL&#10;https://youtu.be/Im_CpC8-fmc&#10;&#10;Don Mancini Is Hurt About CHILD'S PLAY Remake My Thoughts&#10;https://youtu.be/YnY55RYsWK4&#10;&#10;Kingdom Hearts 3 Opening Movie Cutscene Trailer Reaction Video&#10;https://youtu.be/Vs-I8Xq_5t8&#10;&#10;CHILD'S PLAY 2019 (CHUCKY Is Possessed?!)&#10;https://youtu.be/JRd3FKAfRfw&#10;&#10;Kingdom Hearts 3 Got Leaked WTF&#10;https://youtu.be/uEuhqcjks9Q&#10;&#10;Klown RANT: School System&#10;https://youtu.be/XCVeTEvuOas&#10;&#10;Kingdom Hearts 3 Reaction and Kingdom Hearts 3 Review (Spoilers) https://youtu.be/EIvtIsDAjk8&#10;&#10;Child's Play 2019 Remake Teaser Trailer My Thoughts&#10;https://youtu.be/kAMGAjfbCAc&#10;&#10;Let's Show Them We Don't Care&#10;https://youtu.be/GjIghCnoK_c&#10;&#10;KINGDOM HEARTS &#8546;: Ansem &#38; Xemnas Wanted The Player To Use RAGE Form?&#10;https://youtu.be/T2-Nt0g9mdE&#10;&#10;WWE 2K18: Bubba Dunk Funkin Vs. TheSkullKlown At American Bash For The Television Championship&#10;https://youtu.be/3M5Krc8FAW0&#10;&#10;Wwe2k18: Seth Rollins Vs. TheSkullKlown @ ECW one night stand: Extreme Rules Match https://youtu.be/XzYjSujYP2Q&#10;&#10;The THING 1982 Review&#10;https://youtu.be/1vK7DSRtU-g&#10;&#10;Klown RANT: I Barely Go To The Movies Anymore&#10;https://youtu.be/FYRvr8Km1ig&#10;&#10;Klown RANT: Brie Larson Untouchable&#10;https://youtu.be/vc_93jPm8xU"
+    channeltitle "NinTen Skull"
+    channelid "UCR6QVl8vAKT_X4_taHzhqAA"
+    favcount 0
+    viewcount 4165
+    likecount 68
+    commentcount 9
+    duration "PT3M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.10880958
+    PERSPECTIVEPROFANITY 0.08272426
+    PERSPECTIVEFLIRTATION 0.37293017
+    PERSPECTIVETHREAT 0.09394319
+    PERSPECTIVETOXICITY 0.068918526
+    PERSPECTIVEINSULT 0.09412765
+    PERSPECTIVEIDENTITYATTACK 0.11113059
+    PERSPECTIVEINFLAMMATORY 0.10143151
+    indegree 0
+    cluster 9
+  ]
+  node
+  [
+    id 370
     label "sU0wkIf68TQ"
     step 0
     date "2020-10-29T18:19:02Z"
@@ -7159,114 +6471,102 @@ graph
     likecount 2
     commentcount 1
     duration "PT5M14S"
+    sentiment -0.7845
+    PERSPECTIVESEXUALLYEXPLICIT 0.18906789
+    PERSPECTIVEPROFANITY 0.21129571
+    PERSPECTIVEFLIRTATION 0.3291235
+    PERSPECTIVETHREAT 0.23898797
+    PERSPECTIVETOXICITY 0.19535941
+    PERSPECTIVEINSULT 0.26287934
+    PERSPECTIVEIDENTITYATTACK 0.11867663
+    PERSPECTIVEINFLAMMATORY 0.32935414
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 239
-    name "371"
-    label "hGywbJ5hVtY"
-    step 0
-    date "2021-12-06T02:44:47Z"
-    title "dans le faux il y a beaucoup de v.adrenochrome .(1)"
-    description "oxydation de l'adr&#233;naline ."
-    channeltitle "L&#201;VEILL&#201;"
-    channelid "UCswG1rGBQtdXYgbZV52YVzw"
-    favcount 0
-    viewcount 26
-    likecount 0
-    commentcount 0
-    duration "PT11S"
-    indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 240
-    name "404"
-    label "aghcgOEA920"
+    id 403
+    label "bp3kSBQutR4"
     step 0
-    date "2020-09-01T10:00:01Z"
-    title "Grete Marie On Satanists, Adrenochrome, Child Trafficking,  The Global Elite Conspiracy Theories"
-    description "Thanks for watching!  I hope you enjoyed my video! If you did: please like, share, subscribe and turn on notifications! - you'd really be helping me out! &#10;&#10;&#10;&#10;Listen to the full episode here: https://www.youtube.com/watch?v=GJTVtIePo-U&#38;t=7252s&#10;&#10;&#10;&#10;Listen to the Christian Reeve Podcast:&#10;&#10;Spotify: https://open.spotify.com/show/5nC7VOHrW3hPMkEgJFmPQY?si=KLSOPIwJTWiBuSNPNwdSMA&#10;&#10;Apple Podcasts: https://podcasts.apple.com/gb/podcast/the-christian-reeve-podcast/id1524362379&#10;&#10;Anchor: https://anchor.fm/christian-reeve&#10;&#10;Breaker: https://www.breaker.audio/the-christian-reeve-podcast&#10;&#10;Pocket Casts: https://pca.st/ph7uj2sx&#10;&#10;RadioPublic: https://radiopublic.com/the-christian-reeve-podcast-WlApx0&#10;&#10;Google Podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2JkODI3MC9wb2RjYXN0L3Jzcw==&#10;&#10;Overcast FM: https://overcast.fm/itunes1524362379/the-christian-reeve-podcast&#10;&#10;&#10;Check out my website:&#10;&#10;- https://www.christianreeve.com/&#10;&#10;Subscribe to my 2nd channel:&#10;&#10;- https://www.youtube.com/channel/UC_YvFMagiGOuuy-h5MlVNRA&#10;&#10;Join my Discord!&#10;&#10;- https://discord.gg/chkZ5GK&#10;&#10;Join Dr Rab's Discord! &#10;&#10;- https://discord.gg/FFkbStU&#10;&#10;Follow me on social media:&#10;&#10;- Twitch: https://www.twitch.tv/christianreeve &#10;- Twitter: https://twitter.com/CPKReeve&#10;- Instagram: https://www.instagram.com/christian_reeve/&#10;- Linkedin: https://www.linkedin.com/in/christianreeve/&#10;- Facebook: https://www.facebook.com/christianreeveofficial/&#10;- Reddit: https://www.reddit.com/r/ChristianReeve/&#10;&#10;Support me&#10;&#10;- https://www.paypal.me/ChristianReeve&#10;&#10;Contact me:&#10;&#10;- christianreeve93@gmail.com&#10;&#10;&#10;#adrenochrome #childtrafficking #theglobalelite"
-    channeltitle "Christian PK Reeve"
-    channelid "UC6RPwr4o9Lqdvwzm_Kbs1_w"
+    date "2020-03-25T23:59:36Z"
+    title "Adrenochrome The Darkest Drug of Them All !"
+    description "Documentary 2020&#10;&#10;&#10;Jer 11,18 &#10;And the LORD hath given me knowledge of it , and I know it : then thou shewedst me their doings.&#10;&#10;Dan 2,22 &#10;He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him."
+    channeltitle "FrAnk groove und ja, Heimlich Gest&#246;rt"
+    channelid "UCkc3M4WJjiHF1QbSt6OmqtA"
     favcount 0
-    viewcount 462
-    likecount 8
+    viewcount 5222
+    likecount 133
+    commentcount 14
+    duration "PT36M8S"
+    sentiment -0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.16186513
+    PERSPECTIVEPROFANITY 0.11570722
+    PERSPECTIVEFLIRTATION 0.36609584
+    PERSPECTIVETHREAT 0.1183352
+    PERSPECTIVETOXICITY 0.10634898
+    PERSPECTIVEINSULT 0.14526808
+    PERSPECTIVEIDENTITYATTACK 0.09573275
+    PERSPECTIVEINFLAMMATORY 0.5412825
+    indegree 0
+    cluster 9
+  ]
+  node
+  [
+    id 405
+    label "MUZ2zeI-zX0"
+    step 0
+    date "2021-10-05T03:31:23Z"
+    title "Adrenochrome: Before  After"
+    description "Real Life: I tried Adrenochrome"
+    channeltitle "EL Man"
+    channelid "UC-O0CNlF_JuQ-9YgZwCuRow"
+    favcount 0
+    viewcount 597
+    likecount 11
     commentcount 10
-    duration "PT8M15S"
+    duration "PT1M"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20601413
+    PERSPECTIVEPROFANITY 0.16754302
+    PERSPECTIVEFLIRTATION 0.5695992
+    PERSPECTIVETHREAT 0.24165842
+    PERSPECTIVETOXICITY 0.019019997
+    PERSPECTIVEINSULT 0.08840631
+    PERSPECTIVEIDENTITYATTACK 0.13461281
+    PERSPECTIVEINFLAMMATORY 0.08280996
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 241
-    name "406"
-    label "-FcU7nBnooc"
+    id 412
+    label "nQ-SGBZmEhk"
     step 0
-    date "2020-08-30T20:30:01Z"
-    title "Lets Talk Conspiracies | Reptilians, Adrenochrome and the Illuminati"
-    description "This video I talk about some different conspiracies that are floating around. I wonder if some of them are true??&#10;Life would be interesting if some of these are true. &#10;Tell me some additional conspiracies down in the comments and I'll research them and try to make an interesting video from it.&#10;&#10;&#8220;ROCKER&#8221; music video: https://youtu.be/N_0szZGhONQ&#10;&#10;&#34;PLEIADIAN DREAM&#34; available on all platforms!&#10;&#10;SPOTIFY LINK : https://open.spotify.com/album/1o2dCQ7pmgkBkREAAV4AAB&#10;APPLE MUSIC LINK : https://music.apple.com/us/album/pleiadian-dream-single/1528652148 &#10;YOUTUBE LINK : https://www.youtube.com/watch?v=s4lk7tpJcE8&#38;feature=youtu.be &#10;&#10;&#10;&#34;SKY VIBES&#34; available on all Platforms!&#10;&#10;YOUTUBE LINK: https://www.youtube.com/watch?v=mT_bN1Qh34M&#10;SPOTIFY LINK: https://open.spotify.com/album/2DnHpZSD3xkQyhx1IisHTb&#10;APPLE MUSIC LINK: https://music.apple.com/us/album/sky-vibes-single/1528757080&#10;&#10;&#10;Listen to my EP titled &#34;Savage Pisces&#34; &#10;&#10;SPOTIFY LINK: https://open.spotify.com/album/0O96qoFLU51eorktH2B007&#10;APPLE MUSIC LINK: https://music.apple.com/us/album/savage-pisces/1521144647?uo=4&#38;app=music&#38;at=1001lry3&#38;ct=dashboard&#10;YOUTUBE LINK: https://www.youtube.com/playlist?list=PL0YoLONh9uzm-XvhQFoCihPt6gKsU77tj&#10;&#10;&#10;FOLLOW ME!&#10;&#10;My Instagram: https://www.instagram.com/brandonrashad_/&#10;My Twitter: https://twitter.com/brandonrashad_&#10;&#10;&#10;Original Video: https://www.youtube.com/watch?v=fWQd_-9OaQY&#38;t=9s&#10;&#10;&#10;For Business Inquiries: brandonnrashad@gmail.com"
-    channeltitle "xNeptune"
-    channelid "UCLLjj4KdG8fcONR-PGA46Aw"
+    date "2022-07-05T01:31:15Z"
+    title "950 children missing and Adrenochrome may be responsible"
+    description "950 children are missing in Missouri. Adrenochrome Is a possibility for where these kids may have gone aside for the extreme amount of child trafficking. All The While not much news is reported on these matters."
+    channeltitle "Verily I Say"
+    channelid "UCKv3z462ctdutYrKT_WJiYg"
     favcount 0
-    viewcount 13249
-    likecount 476
-    commentcount 301
-    duration "PT9M35S"
+    viewcount 80
+    likecount 8
+    commentcount 0
+    duration "PT19M59S"
+    sentiment 0.0258
+    PERSPECTIVESEXUALLYEXPLICIT 0.12204385
+    PERSPECTIVEPROFANITY 0.06948674
+    PERSPECTIVEFLIRTATION 0.24243177
+    PERSPECTIVETHREAT 0.18101272
+    PERSPECTIVETOXICITY 0.12309273
+    PERSPECTIVEINSULT 0.100328065
+    PERSPECTIVEIDENTITYATTACK 0.11002796
+    PERSPECTIVEINFLAMMATORY 0.38706446
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 9
   ]
   node
   [
-    id 242
-    name "413"
+    id 413
     label "cuEmmYa5Gb4"
     step 0
     date "2020-07-24T19:31:04Z"
@@ -7279,24 +6579,21 @@ graph
     likecount 17
     commentcount 20
     duration "PT24M52S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.08566889
+    PERSPECTIVEPROFANITY 0.07021988
+    PERSPECTIVEFLIRTATION 0.4018794
+    PERSPECTIVETHREAT 0.47204053
+    PERSPECTIVETOXICITY 0.10699297
+    PERSPECTIVEINSULT 0.07874724
+    PERSPECTIVEIDENTITYATTACK 0.13612756
+    PERSPECTIVEINFLAMMATORY 0.18490016
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 243
-    name "414"
+    id 414
     label "08K7cixiHvE"
     step 0
     date "2022-05-15T16:27:44Z"
@@ -7309,24 +6606,21 @@ graph
     likecount 40
     commentcount 4
     duration "PT2M20S"
+    sentiment -0.5994
+    PERSPECTIVESEXUALLYEXPLICIT 0.19710238
+    PERSPECTIVEPROFANITY 0.17382166
+    PERSPECTIVEFLIRTATION 0.38965595
+    PERSPECTIVETHREAT 0.54487985
+    PERSPECTIVETOXICITY 0.1539292
+    PERSPECTIVEINSULT 0.1422865
+    PERSPECTIVEIDENTITYATTACK 0.28551063
+    PERSPECTIVEINFLAMMATORY 0.27974153
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 1
   ]
   node
   [
-    id 244
-    name "415"
+    id 415
     label "MshXPdBY5OU"
     step 0
     date "2020-11-10T04:30:52Z"
@@ -7339,24 +6633,21 @@ graph
     likecount 9
     commentcount 1
     duration "PT4M32S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.07504706
+    PERSPECTIVEPROFANITY 0.045360718
+    PERSPECTIVEFLIRTATION 0.2931868
+    PERSPECTIVETHREAT 0.27612257
+    PERSPECTIVETOXICITY 0.08635602
+    PERSPECTIVEINSULT 0.05649697
+    PERSPECTIVEIDENTITYATTACK 0.056855455
+    PERSPECTIVEINFLAMMATORY 0.12240112
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 3
   ]
   node
   [
-    id 245
-    name "416"
+    id 416
     label "u7g1WjED4gY"
     step 0
     date "2020-03-25T16:00:38Z"
@@ -7369,54 +6660,48 @@ graph
     likecount 454
     commentcount 49
     duration "PT3M58S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.09778268
+    PERSPECTIVEPROFANITY 0.09755816
+    PERSPECTIVEFLIRTATION 0.26196668
+    PERSPECTIVETHREAT 0.076451525
+    PERSPECTIVETOXICITY 0.22982138
+    PERSPECTIVEINSULT 0.15247034
+    PERSPECTIVEIDENTITYATTACK 0.15270042
+    PERSPECTIVEINFLAMMATORY 0.3171722
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 1
   ]
   node
   [
-    id 246
-    name "417"
-    label "JXJRmhWhb2s"
+    id 421
+    label "uwwi3YlrDsc"
     step 0
-    date "2021-02-24T19:55:16Z"
-    title "Adrenochrome"
-    description ""
-    channeltitle "Scottie7464 !"
-    channelid "UCfMmV90fLdeeIbb1WGx1QPA"
+    date "2022-05-21T13:44:16Z"
+    title "WTCtM - Killing on Adrenochrome - Teaser"
+    description "Teaser for our upcoming video to our song 'Killing on Adrenochrome' - a track inspired by all those insanities that have become popular enough to disrupt whole societies as well as family structures. Coming soooooooooon!"
+    channeltitle "When Theia Created the Moon"
+    channelid "UCDhQuYteUSiT5e5ZUb5CPmw"
     favcount 0
-    viewcount 23
-    likecount 0
+    viewcount 42
+    likecount 5
     commentcount 0
-    duration "PT44S"
+    duration "PT2M12S"
+    sentiment -0.7506
+    PERSPECTIVESEXUALLYEXPLICIT 0.07774075
+    PERSPECTIVEPROFANITY 0.12585926
+    PERSPECTIVEFLIRTATION 0.3516485
+    PERSPECTIVETHREAT 0.7631064
+    PERSPECTIVETOXICITY 0.31650472
+    PERSPECTIVEINSULT 0.1324035
+    PERSPECTIVEIDENTITYATTACK 0.10916427
+    PERSPECTIVEINFLAMMATORY 0.19545358
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 247
-    name "422"
+    id 422
     label "dhzFQSUM_YM"
     step 0
     date "2022-05-20T04:09:23Z"
@@ -7429,114 +6714,102 @@ graph
     likecount 3
     commentcount 0
     duration "PT10M3S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 248
-    name "423"
-    label "Jw_Ecd4k2Dc"
-    step 0
-    date "2020-08-25T23:51:23Z"
-    title "Presidential Powers - Adrenochrome (Official Video)"
-    description "Presidential Powers -  Adrenochrome (Official Video)&#10;&#10;Are the rumors about &#34;Adrenochrome&#34; true?   What about that website selling children in cabinets?  This shocking video exposes everything! &#10;&#10;#conspiracy #truth #hiphop #indie #lyrical #wayfair #america #presidential&#10;&#10;Presidential Powers is an independent artist from New York, who cites George Carlin and Nas among his biggest influences. &#10;&#10;Song Produced by Domincello for DAPLyfe Records&#10;Video Edited and Produced by Dominic Acello and Reesa Myers&#10;Additional Production and Direction by Sean Powers&#10;Off the upcoming release, &#34;the Inaugural Balls Tape&#34;, coming soon&#10;&#10;For more Presidential Powers info, news, and releases-&#10;&#10;Social Media&#10;Facebook: Presidential Powers&#10;IG: @presidentialpowpow&#10;Twitter: @allthispowers&#10;&#10;Streaming:&#10;Spotify: https://open.spotify.com/artist/2CkoSWHRKB4fd7nWcHCXrD?si=50Isz9HdQYqflqBZCelVfA&#10;iTunes: https://music.apple.com/us/artist/presidential-powers/1136108676&#10;&#10;&#10;https://distrokid.com/hyperfollow/presidentialpowers2/adrenochrome"
-    channeltitle "PREZZY"
-    channelid "UCWuMcDwuc4mwZF67xJdZr0g"
-    favcount 0
-    viewcount 400
-    likecount 10
-    commentcount 5
-    duration "PT4M6S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 249
-    name "426"
-    label "WcQmzu-_ZBk"
+    id 425
+    label "UttQNlsdLIs"
     step 0
-    date "2020-04-25T16:08:08Z"
-    title "Sacha Stone talks about Adrenochrome on Camelot TV Network"
-    description "Sacha Stone talks about Adrenochrome on Camelot TV Network with John and Irina Mappin&#10;#sachastone&#10;#johnmappin&#10;#irinamappin"
-    channeltitle "marekdjw"
-    channelid "UCx_ZwIcmVJe1Rm50kguXkdg"
+    date "2022-04-25T07:15:28Z"
+    title "THE ADRENOCHROME CONSPIRACY"
+    description "INTRO CREATOR : https://koolskull.com/&#10;&#10;MY SOCIAL MEDIA&#10;email:breanneclarkee@gmail.com&#10;Snapchat- breebreeclarke&#10;instagram- @breebreeclarke&#10;tiktok-@breanneclarke&#10;&#10;Disclaimer: All of the information that was used is information that I have found from other sources and believe to be true. However, if that is not the case I apologize profusely and invite you to please correct me in the comments."
+    channeltitle "Breanne Clarke"
+    channelid "UCW6ArFh6jh2fpGE0pPilcww"
     favcount 0
-    viewcount 13940
-    likecount 390
-    commentcount 21
-    duration "PT12M6S"
+    viewcount 713
+    likecount 80
+    commentcount 65
+    duration "PT19M49S"
+    sentiment -0.5267
+    PERSPECTIVESEXUALLYEXPLICIT 0.11270166
+    PERSPECTIVEPROFANITY 0.15873423
+    PERSPECTIVEFLIRTATION 0.22781721
+    PERSPECTIVETHREAT 0.24216093
+    PERSPECTIVETOXICITY 0.14822112
+    PERSPECTIVEINSULT 0.14842023
+    PERSPECTIVEIDENTITYATTACK 0.26673406
+    PERSPECTIVEINFLAMMATORY 0.36765876
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 250
-    name "429"
-    label "r2wQ02hq0hk"
+    id 428
+    label "UNPgttPBrYI"
     step 0
-    date "2022-03-05T13:17:42Z"
-    title "(Adrenochrome) when you get it thats when they start lying"
-    description "lets take a ride"
-    channeltitle "The LightShow"
-    channelid "UCXMas42NqdOiM2zC3ZRYtbg"
+    date "2022-06-07T19:58:03Z"
+    title "Adrenochrome "
+    description "It's pronounced e-puh-neh-phrun apparently &#10;&#128518;"
+    channeltitle "Kerrie Robbins"
+    channelid "UCWVZr121rbGTJ4klSQal5jg"
     favcount 0
-    viewcount 185
+    viewcount 29
+    likecount 2
+    commentcount 1
+    duration "PT15M4S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19569965
+    PERSPECTIVEPROFANITY 0.11427133
+    PERSPECTIVEFLIRTATION 0.46452627
+    PERSPECTIVETHREAT 0.27490652
+    PERSPECTIVETOXICITY 0.012772553
+    PERSPECTIVEINSULT 0.0671169
+    PERSPECTIVEIDENTITYATTACK 0.11058468
+    PERSPECTIVEINFLAMMATORY 0.11820536
+    indegree 9
+    cluster 2
+  ]
+  node
+  [
+    id 430
+    label "KuPlGJKJ09E"
+    step 0
+    date "2022-05-29T18:31:58Z"
+    title "Evidence the US Military has been harboring adrenochrome harvesting aliens at dougway proving ground"
+    description "TheOrionLines.com"
+    channeltitle "The Orion Lines Ryushin Malone "
+    channelid "UCKqIiqdR-TEB6WHv75kv1Ig"
+    favcount 0
+    viewcount 261
     likecount 16
-    commentcount 5
-    duration "PT57M52S"
+    commentcount 1
+    duration "PT7M31S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.139873
+    PERSPECTIVEPROFANITY 0.10813985
+    PERSPECTIVEFLIRTATION 0.33794728
+    PERSPECTIVETHREAT 0.28337902
+    PERSPECTIVETOXICITY 0.1539292
+    PERSPECTIVEINSULT 0.1569932
+    PERSPECTIVEIDENTITYATTACK 0.21601552
+    PERSPECTIVEINFLAMMATORY 0.6081177
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 251
-    name "431"
+    id 431
     label "zj-ENAB-W74"
     step 0
     date "2020-08-24T20:49:53Z"
@@ -7549,114 +6822,102 @@ graph
     likecount 32
     commentcount 10
     duration "PT11M48S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.16674256
+    PERSPECTIVEPROFANITY 0.08062176
+    PERSPECTIVEFLIRTATION 0.5066776
+    PERSPECTIVETHREAT 0.16410704
+    PERSPECTIVETOXICITY 0.15976663
+    PERSPECTIVEINSULT 0.08917407
+    PERSPECTIVEIDENTITYATTACK 0.06759415
+    PERSPECTIVEINFLAMMATORY 0.22343665
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 252
-    name "432"
-    label "rgCPJplIkJQ"
+    id 434
+    label "MQKqgs3iCAc"
     step 0
-    date "2019-03-25T16:26:57Z"
-    title "Adrenochrome ... what YOU need to know about the meat you eat"
-    description "I tell you something you have never heard about the meat you eat, you may never eat meat again"
-    channeltitle "Julie Marie"
-    channelid "UCVVEgUKIrraOj4t0Hqiv4PA"
+    date "2021-07-31T04:05:58Z"
+    title "Adrenochrome Ultra Commercial"
+    description "Our 3rd annual beer release will take place as a celebration of our congregation's 4th anniversary! Our wonderful friends at Black Sky have helped bring Adrenochrome Ultra into the world! A pomegranate saison made from conspiracy theorists, because they're always afraid!"
+    channeltitle "The Satanic Temple Colorado"
+    channelid "UCR9gzEil4sPshRjBaCZJ97A"
     favcount 0
-    viewcount 8322
-    likecount 189
-    commentcount 62
-    duration "PT12M16S"
+    viewcount 474
+    likecount 25
+    commentcount 2
+    duration "PT50S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.21371876
+    PERSPECTIVEPROFANITY 0.1498101
+    PERSPECTIVEFLIRTATION 0.3242038
+    PERSPECTIVETHREAT 0.118231334
+    PERSPECTIVETOXICITY 0.018881164
+    PERSPECTIVEINSULT 0.123037405
+    PERSPECTIVEIDENTITYATTACK 0.07503346
+    PERSPECTIVEINFLAMMATORY 0.20386867
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 11
   ]
   node
   [
-    id 253
-    name "435"
-    label "AQItl7-7R6M"
+    id 437
+    label "ZjBHrkbH8tw"
     step 0
-    date "2020-07-16T17:58:54Z"
-    title "Exposing Rick And Morty: The Adrenochrome Reference."
-    description ""
-    channeltitle "&#351;&#248;rr&#248;w &#355;h&#281; magp&#238;&#281; - New Videos On Bitchute"
-    channelid "UC_xB_JL71YyPSMJhptr7Vlg"
+    date "2019-07-20T05:09:41Z"
+    title "Adrenochrome - Exposed In The Industry"
+    description "Adrenochrome exposed in movies and television."
+    channeltitle "3rdEyeAmAwakened"
+    channelid "UC_kJJq_2jzIYbG1o-IpKv-w"
     favcount 0
-    viewcount 807
-    likecount 11
+    viewcount 173
+    likecount -1
     commentcount 3
-    duration "PT10M"
+    duration "PT4M56S"
+    sentiment -0.0772
+    PERSPECTIVESEXUALLYEXPLICIT 0.116448544
+    PERSPECTIVEPROFANITY 0.05650228
+    PERSPECTIVEFLIRTATION 0.295165
+    PERSPECTIVETHREAT 0.05724442
+    PERSPECTIVETOXICITY 0.0112454
+    PERSPECTIVEINSULT 0.051002983
+    PERSPECTIVEIDENTITYATTACK 0.038463783
+    PERSPECTIVEINFLAMMATORY 0.18135343
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 254
-    name "438"
-    label "vMvQRrrC8FM"
+    id 439
+    label "BFFrIpGnLy0"
     step 0
-    date "2022-07-06T10:25:41Z"
-    title "Ga pas tout dit..."
-    description "Interview de G&#233;rard Faur&#233;&#10;https://youtu.be/pYANv0N2ILY&#10;&#10;Les marocains ne sont pas dupes!&#10;https://www.youtube.com/watch?v=g8kT2_ktY2w&#10;&#10;T'a le look coco!&#10;https://youtu.be/e8xulGnK4c4"
-    channeltitle "MaquisTV"
-    channelid "UCM1dPrcar1pIz0EwfXDHzBQ"
+    date "2022-05-16T23:30:01Z"
+    title "Jeff Talks about Adrenochrome in Ukraine"
+    description "You Are Up : After Dark.&#10;&#10;Welcome to this Weeks podcast of Dosed After Dark. The TinFoil Hat Outdoorsman - Jeff talked about the ins and outs of the Hollywood Blood Conspiracy Adrenochrome. Is it real? Does it pertain to hollywood elites or do we have more evidence of it existing?&#10;&#10;Bucks of America's Links :&#10;Soundcloud : https://soundcloud.com/bucksofamericapodcast&#10;YouTube : https://www.youtube.com/channel/UCxq5tFddf0_Y_j1YnGhBzAg&#10;iTunes : https://podcasts.apple.com/us/podcast/bucks-of-america-podcast/id1473352745&#10;TikTok : https://www.tiktok.com/@bucksofamericapodcast&#10;FaceBook : https://www.facebook.com/BucksofAmericaPodcast&#10;&#10;Overdose's Links : &#10;Twitch for Day Streams : https://www.twitch.tv/overdoseontwitch&#10;Follow OD on Twitter : https://twitter.com/BitcoinOverdose&#10;Crypto Channel : https://www.youtube.com/c/bitcoinoverdose&#10;Gaming Channel : https://www.youtube.com/c/OverdoseGaming8&#10;Discord Chat : https://discord.com/invite/aU5F7wx&#10;Website : https://bitcoinoverdose.com/&#10;&#10;Music Rights Fall Under the Standard Music License Bought through Audio Jungle - used for General Purpose Youtube Videos and Otherwise. ( Single Use Project or Product )&#10;&#10;Info At : https://audiojungle.net/licenses/terms/music_standard/2.0&#10;&#10;Hip-Hop On By cinematic_alex&#10;Gangsta Hit By RedFlagMusic&#10;Back From the Dead By ionics&#10;Hip-Hop Future Beat By Bransboynd&#10;Epic Dark Dubstep By Bransboynd"
+    channeltitle "Dosed After Dark"
+    channelid "UClHoSyASD8fe8FFps4WullA"
     favcount 0
-    viewcount 7929
-    likecount 1467
-    commentcount 248
-    duration "PT21M20S"
+    viewcount 63
+    likecount 4
+    commentcount 4
+    duration "PT6M30S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.108893186
+    PERSPECTIVEPROFANITY 0.065089025
+    PERSPECTIVEFLIRTATION 0.36780104
+    PERSPECTIVETHREAT 0.1256407
+    PERSPECTIVETOXICITY 0.03736641
+    PERSPECTIVEINSULT 0.064241484
+    PERSPECTIVEIDENTITYATTACK 0.11046544
+    PERSPECTIVEINFLAMMATORY 0.18003638
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 2
   ]
   node
   [
-    id 255
-    name "440"
+    id 440
     label "2OfWiQ732Yc"
     step 0
     date "2022-03-14T07:41:19Z"
@@ -7669,24 +6930,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT52S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15863869
+    PERSPECTIVEPROFANITY 0.14303091
+    PERSPECTIVEFLIRTATION 0.50152457
+    PERSPECTIVETHREAT 0.39889866
+    PERSPECTIVETOXICITY 0.06492286
+    PERSPECTIVEINSULT 0.16346371
+    PERSPECTIVEIDENTITYATTACK 0.28437296
+    PERSPECTIVEINFLAMMATORY 0.0039680116
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 1
   ]
   node
   [
-    id 256
-    name "441"
+    id 441
     label "hQbKsJdUm2o"
     step 0
     date "2021-01-24T23:33:47Z"
@@ -7699,54 +6957,48 @@ graph
     likecount 21
     commentcount 1
     duration "PT9M8S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19503042
+    PERSPECTIVEPROFANITY 0.250035
+    PERSPECTIVEFLIRTATION 0.38010937
+    PERSPECTIVETHREAT 0.22867376
+    PERSPECTIVETOXICITY 0.015479778
+    PERSPECTIVEINSULT 0.2010782
+    PERSPECTIVEIDENTITYATTACK 0.21177445
+    PERSPECTIVEINFLAMMATORY 0.14031339
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 1
   ]
   node
   [
-    id 257
-    name "442"
-    label "OAkImDMVzIk"
+    id 443
+    label "Tf49eOOUo58"
     step 0
-    date "2022-07-03T09:39:57Z"
-    title "Adrenochrome,Bowies Staged Death, Celebrity Signs and Secrets"
-    description "Adrenochrome Mix&#10;&#10;Bowie's Staged Death&#10;&#10;The One Eye &#128065; is a reference to the pineal gland/ 3rd Eye &#10;&#10;And 666 / OK &#128076; means the sun /enlightenment&#10;&#34;illuminati&#34; &#10;Basically they&#8217;ve been given the secrets to the world . &#10;&#10;So its not the symbols they&#8217;re doing which are bad, its the secrecy and the machine they're helping by &#10;&#34;Selling Their Souls&#34; and showing they&#8217;re part of the club. &#10;&#10;The Elite&#10;&#10;Garry&#8217;s video &#10;https://youtu.be/hHM-n0flZXo"
-    channeltitle "Awaken"
-    channelid "UCI6TtI1A35S9sqeQ7tpUnRw"
+    date "2022-05-08T23:37:51Z"
+    title "Adrenochrome - The Elites Drug"
+    description "The theory that the entertainment industry and other elites are harvesting children by using the oxidation of adrenaline as a high end drug stronger than pure cocaine"
+    channeltitle "Music Business Informant"
+    channelid "UCqCUD4LVkYAQwbcLjTeyoWQ"
     favcount 0
-    viewcount 489
-    likecount 46
-    commentcount 16
-    duration "PT10M20S"
+    viewcount 125
+    likecount 3
+    commentcount 3
+    duration "PT4M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15149611
+    PERSPECTIVEPROFANITY 0.12765712
+    PERSPECTIVEFLIRTATION 0.42688215
+    PERSPECTIVETHREAT 0.25531176
+    PERSPECTIVETOXICITY 0.14956708
+    PERSPECTIVEINSULT 0.18596093
+    PERSPECTIVEIDENTITYATTACK 0.2406899
+    PERSPECTIVEINFLAMMATORY 0.17316885
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 2
   ]
   node
   [
-    id 258
-    name "444"
+    id 444
     label "EuMQr8OUbWw"
     step 0
     date "2021-01-25T20:03:51Z"
@@ -7759,114 +7011,102 @@ graph
     likecount 0
     commentcount 0
     duration "PT59S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20298359
+    PERSPECTIVEPROFANITY 0.046308696
+    PERSPECTIVEFLIRTATION 0.32861212
+    PERSPECTIVETHREAT 0.05683024
+    PERSPECTIVETOXICITY 0.047495455
+    PERSPECTIVEINSULT 0.014180849
+    PERSPECTIVEIDENTITYATTACK 0.019961357
+    PERSPECTIVEINFLAMMATORY 0.39760175
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
-  ]
-  node
-  [
-    id 259
-    name "445"
-    label "ShAnStJvK3o"
-    step 0
-    date "2021-08-21T06:08:27Z"
-    title "The Alien Adrenochrome Harvest of Humanity"
-    description "The BEST TRUTH video is here.  Please do like and subscribe and you see more incredible TRUTH videos on this channel! Thank you for your support! :)"
-    channeltitle "The Truth of The Universe &#23431;&#23449;&#30340;&#30495;&#30456;"
-    channelid "UCTFQcOuqehGC6CmLiAh2RSQ"
-    favcount 0
-    viewcount 205
-    likecount 10
-    commentcount 0
-    duration "PT23M48S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 260
-    name "447"
-    label "mu3GHQ4arIg"
+    id 446
+    label "AZNvkBtbbxU"
     step 0
-    date "2019-02-26T02:34:45Z"
-    title "Adrenochrome Ambrosia And How America Eats Its Young"
-    description "Adrenochrome Ambrosia And How America Eats Its Young"
-    channeltitle "news today"
-    channelid "UChtIxMKSiskUFFlaRphLfUw"
+    date "2021-03-21T21:52:25Z"
+    title "The WHY (adrenochrome)"
+    description "Save our Children"
+    channeltitle "Merideth Hicks"
+    channelid "UCFo2xCEt0BSbpDnYx8PgopA"
     favcount 0
-    viewcount 412
-    likecount 16
+    viewcount 644
+    likecount 13
     commentcount 1
-    duration "PT5M6S"
+    duration "PT1M"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.18024041
+    PERSPECTIVEPROFANITY 0.09592201
+    PERSPECTIVEFLIRTATION 0.2923798
+    PERSPECTIVETHREAT 0.1165319
+    PERSPECTIVETOXICITY 0.042001735
+    PERSPECTIVEINSULT 0.074478626
+    PERSPECTIVEIDENTITYATTACK 0.07716628
+    PERSPECTIVEINFLAMMATORY 0.16529715
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 11
   ]
   node
   [
-    id 261
-    name "450"
-    label "wNsWPAOWpvk"
+    id 449
+    label "pImK8txteX0"
     step 0
-    date "2019-02-16T17:57:28Z"
-    title "#Rabbitholegate Adrenochrome and Alien Agenda"
-    description "#Missing Children&#10;#SRA&#10;#Spiritual Warfare&#10;#Targeted Individuals&#10;#Gangstalking&#10;#Organized Stalking&#10;#Electronic Harrassment&#10;#cults"
-    channeltitle "Delilah Discusses"
-    channelid "UCBFfxrCtqZIKIpetVZ03HfA"
+    date "2022-06-07T01:12:49Z"
+    title "Adrenochrome  General Butt Naked"
+    description "Thanks for tuning in! Please feel free to like, comment &#38; share. Remember to Subscribe &#38; hit the notification bell. Thanks!&#10;&#10;Visit our websites &#38; connect with us on social media&#10;&#10;XROADZ LINKTREE&#10;https://linktr.ee/xroadz&#10;&#10;SOULFIRE WEBSITE www.soulfireunlimited.com"
+    channeltitle "XROADZ PODCAST"
+    channelid "UCsaaESh2Yi4FazIaE6moAyw"
     favcount 0
-    viewcount 9143
-    likecount 229
-    commentcount 26
-    duration "PT1H30S"
+    viewcount 7
+    likecount 0
+    commentcount 0
+    duration "PT4M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.85549694
+    PERSPECTIVEPROFANITY 0.5791547
+    PERSPECTIVEFLIRTATION 0.6759653
+    PERSPECTIVETHREAT 0.25082254
+    PERSPECTIVETOXICITY 0.49309984
+    PERSPECTIVEINSULT 0.24986999
+    PERSPECTIVEIDENTITYATTACK 0.18593496
+    PERSPECTIVEINFLAMMATORY 0.4544956
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 1
   ]
   node
   [
-    id 262
-    name "452"
+    id 451
+    label "SC2BJs1D4KA"
+    step 0
+    date "2020-08-26T13:23:21Z"
+    title "Adrenochrome Hops"
+    description ""
+    channeltitle "LightBeings"
+    channelid "UCMRRcVlc6tlhMfrTa7O-9sw"
+    favcount 0
+    viewcount 570
+    likecount 5
+    commentcount 9
+    duration "PT10M56S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.2809991
+    PERSPECTIVEPROFANITY 0.15673324
+    PERSPECTIVEFLIRTATION 0.39227134
+    PERSPECTIVETHREAT 0.10902893
+    PERSPECTIVETOXICITY 0.020824814
+    PERSPECTIVEINSULT 0.112451755
+    PERSPECTIVEIDENTITYATTACK 0.09445564
+    PERSPECTIVEINFLAMMATORY 0.1588961
+    indegree 0
+    cluster 11
+  ]
+  node
+  [
+    id 452
     label "Q8EFm602oAY"
     step 0
     date "2018-11-06T16:12:30Z"
@@ -7879,24 +7119,21 @@ graph
     likecount 70
     commentcount 10
     duration "PT14M52S"
+    sentiment -0.296
+    PERSPECTIVESEXUALLYEXPLICIT 0.14459226
+    PERSPECTIVEPROFANITY 0.10568055
+    PERSPECTIVEFLIRTATION 0.4029015
+    PERSPECTIVETHREAT 0.18504722
+    PERSPECTIVETOXICITY 0.08581903
+    PERSPECTIVEINSULT 0.18949127
+    PERSPECTIVEIDENTITYATTACK 0.17319147
+    PERSPECTIVEINFLAMMATORY 0.373697
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 263
-    name "453"
+    id 453
     label "GJlcEBqOnpE"
     step 0
     date "2018-09-11T18:21:40Z"
@@ -7909,114 +7146,102 @@ graph
     likecount 76
     commentcount 7
     duration "PT1M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.12375112
+    PERSPECTIVEPROFANITY 0.06817111
+    PERSPECTIVEFLIRTATION 0.32958558
+    PERSPECTIVETHREAT 0.054009736
+    PERSPECTIVETOXICITY 0.13251819
+    PERSPECTIVEINSULT 0.060581192
+    PERSPECTIVEIDENTITYATTACK 0.032807857
+    PERSPECTIVEINFLAMMATORY 0.14125225
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 264
-    name "454"
-    label "KjB6oS92zrM"
+    id 455
+    label "J_sqZM0Rlf0"
     step 0
-    date "2020-09-15T12:25:52Z"
-    title "Adrenochrome I Salman Khan Bhi I Children Harvesting I News vs Music I"
-    description "SSR Warriors We thought  SSR was killed because he was going to raise his voice against these bad elements in the society .But now we know He is safe .&#10;All the incidents ,including his cremation were mere a drama.You will find proofs if you observe his pics  minutely .&#10;There is a cut mark visible on his nose in the middle of his both eyes .In the pic at the cremation that cut mark is not there .was it a dummy body ?&#10;   Check this out &#10;Adrenochrome users &#10;Children are Kept in Chambers ,threatened &#10;Adrenochrome  is a chemical that our body produces when we are extremely  fearful .So children  are kept in torture chambers in order to produce the drug .when their adrenaline gets decomposed , doctors extract their cells and take out the fluid which is used as a drug .they believe such chemicals help us stay young ...Rejuvenate our blood cells .&#10;#Adrenochrome &#10;#SalmanKhan &#10;HighlyAddictiveDrug &#10;#HollywoodDrug"
-    channeltitle "NikunjaBK News"
-    channelid "UC5IIyFU_RNOHKlF--GYfiEQ"
+    date "2021-03-24T13:27:02Z"
+    title "Astrazeneca manufactures Adrenochrome"
+    description "Astrazeneca is the major shareholder in medimmune&#10;&#10;https://find-and-update.company-information.service.gov.uk/company/03854275/persons-with-significant-control&#10;&#10;Research adrenochrome &#38; where it comes from"
+    channeltitle "Chanel 0151"
+    channelid "UC9XXx5y5vC3CFm4J9aVO-hw"
     favcount 0
-    viewcount 159753
-    likecount 3534
-    commentcount 628
-    duration "PT7M5S"
+    viewcount 178
+    likecount 4
+    commentcount 0
+    duration "PT49S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20352507
+    PERSPECTIVEPROFANITY 0.13932912
+    PERSPECTIVEFLIRTATION 0.34502536
+    PERSPECTIVETHREAT 0.18671355
+    PERSPECTIVETOXICITY 0.008191093
+    PERSPECTIVEINSULT 0.118180595
+    PERSPECTIVEIDENTITYATTACK 0.12202289
+    PERSPECTIVEINFLAMMATORY 0.13476966
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 265
-    name "456"
-    label "2Q5I3G_UrqY"
-    step 0
-    date "2021-04-17T16:42:28Z"
-    title "Shocking Truth About Adrenochrome And Child Trafficking  Jim Caviezel 4-16-2021"
-    description "Jim Caviezel bursts into tears while explaining the background of his new film &#34;Sound Of Freedom&#34;. He talks about the horror of adrenochrome and child trafficking. Over 10 million kids are sex trafficked each year around the world by many of the most famous people in Hollywood, big business, and politics. They are slaughtered and tortured like animals according to Caviezel."
-    channeltitle "ProjectClarity"
-    channelid "UCA_-ibO7B74pc7HmNnikDMw"
-    favcount 0
-    viewcount 70624
-    likecount 2808
-    commentcount 282
-    duration "PT19M28S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "Conspiracy|PartisanRight"
-    leftright "R"
     cluster 2
   ]
   node
   [
-    id 266
-    name "458"
-    label "4OfguhPoNFA"
+    id 457
+    label "p3C2rRqc82c"
     step 0
-    date "2020-03-24T17:36:08Z"
-    title "Madonna Adrenochrome Shortage Update"
-    description "We saw what the lack of Adrenochrome has been doing to several Celebrities since the Quarantine......none impacted MORE perhaps than Madonna, as evidenced by her Bathtub rant yesterday. &#10;&#10;Let's check in and see how she's dealing...."
-    channeltitle "Couch Pimps Troll Team"
-    channelid "UCbPrI-uLk4oFJEuTlPFhBgQ"
+    date "2021-03-09T10:09:57Z"
+    title "Adrenochrome Delivery really sad / Adrenocromo a domicilio que tristeza"
+    description "English:&#10;Satanism in its purest manifestation, adrenochrome (drug based on the blood of children who kill them once they have been tortured) is taken to people's homes in the great money laundering machine called switzerland.&#10;&#10;Espa&#241;ol:&#10;Satanismo en su mas pura manifestacion, adrenocromo (droga a base de la sangre de los ni&#241;os que los matan una vez los han torturado) se lo llevan a la casas de las personas en la gran maquina de lavar dinero llamada suiza&#10;&#10;Enlaces de informaci&#243;n:&#10;&#10;!!!!!! AYUDA A COMPARTIR !!!!!!&#10;&#10;Es hora de abrir los ojos&#10;&#10;WhatsApp&#10;https://chat.whatsapp.com/FS4FetbzaKBFBSPXb5SpFT&#10;&#10;Facebook&#10;https://www.facebook.com/juan.f.castaneda.96&#10;https://www.facebook.com/groups/708465066389049/?ref=share&#10;&#10;Grupos Telegram&#10;Por el de Telegram se puede mirar la informaci&#243;n desde un inicio&#10;https://t.me/joinchat/FRYRCBdtjgTcQJto&#10;https://t.me/MRCAPACHOTV&#10;https://t.me/areyouawake2021&#10;https://t.me/nosmintierontv&#10;https://t.me/estructurascolapsando&#10;https://t.me/zamna_patriotasunidos&#10;https://t.me/despertadordelamatrix&#10;https://t.me/unidosporlaverdadQanonypatriotas&#10;https://t.me/tierrapura&#10;https://t.me/tierrapuraforo&#10;https://t.me/elinvestigador_org&#10;https://t.me/conspiranoicos&#10;https://t.me/BLesNoticias&#10;https://t.me/CharlieWard&#10;https://t.me/GhostEzra"
+    channeltitle "Juan Francisco Casta&#241;eda"
+    channelid "UCTf4xvjnqKhbBHXLE-DXLnw"
     favcount 0
-    viewcount 10135
-    likecount 58
-    commentcount 40
-    duration "PT27S"
+    viewcount 423
+    likecount 8
+    commentcount 1
+    duration "PT11S"
+    sentiment -0.5256
+    PERSPECTIVESEXUALLYEXPLICIT 0.22234058
+    PERSPECTIVEPROFANITY 0.2741182
+    PERSPECTIVEFLIRTATION 0.52125514
+    PERSPECTIVETHREAT 0.27812925
+    PERSPECTIVETOXICITY 0.005865656
+    PERSPECTIVEINSULT 0.1991932
+    PERSPECTIVEIDENTITYATTACK 0.26142135
+    PERSPECTIVEINFLAMMATORY 0.1629415
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 267
-    name "462"
+    id 461
+    label "XIfo4BcahVE"
+    step 0
+    date "2022-05-20T12:43:49Z"
+    title "Adrenochromes a helluva drug..."
+    description ""
+    channeltitle "&#9889;&#8469;&#120154;&#120148;&#120156; &#120126;&#120153;&#120166;&#120163;&#120171;&#120150;&#9889;"
+    channelid "UCZLWS_b-Ntjd3UYLRNkuQGQ"
+    favcount 0
+    viewcount 19
+    likecount 0
+    commentcount 0
+    duration "PT2M37S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.08358033
+    PERSPECTIVEPROFANITY 0.1130613
+    PERSPECTIVEFLIRTATION 0.34999138
+    PERSPECTIVETHREAT 0.25194502
+    PERSPECTIVETOXICITY 0.22977416
+    PERSPECTIVEINSULT 0.3395937
+    PERSPECTIVEIDENTITYATTACK 0.2423776
+    PERSPECTIVEINFLAMMATORY 0.3005043
+    indegree 0
+    cluster 2
+  ]
+  node
+  [
+    id 462
     label "bs94AXrDaTc"
     step 0
     date "2022-05-21T04:59:16Z"
@@ -8029,24 +7254,21 @@ graph
     likecount 3
     commentcount 0
     duration "PT4M13S"
+    sentiment -0.0772
+    PERSPECTIVESEXUALLYEXPLICIT 0.13706748
+    PERSPECTIVEPROFANITY 0.1582168
+    PERSPECTIVEFLIRTATION 0.32518193
+    PERSPECTIVETHREAT 0.18822575
+    PERSPECTIVETOXICITY 0.048868883
+    PERSPECTIVEINSULT 0.13306831
+    PERSPECTIVEIDENTITYATTACK 0.15871176
+    PERSPECTIVEINFLAMMATORY 0.15367357
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 268
-    name "463"
+    id 463
     label "Jpb0QKIBxTk"
     step 0
     date "2022-06-05T17:48:17Z"
@@ -8059,24 +7281,21 @@ graph
     likecount 0
     commentcount 1
     duration "PT10S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15506698
+    PERSPECTIVEPROFANITY 0.10794532
+    PERSPECTIVEFLIRTATION 0.39291257
+    PERSPECTIVETHREAT 0.12820356
+    PERSPECTIVETOXICITY 0.01596569
+    PERSPECTIVEINSULT 0.10849633
+    PERSPECTIVEIDENTITYATTACK 0.097620755
+    PERSPECTIVEINFLAMMATORY 0.16735266
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 269
-    name "464"
+    id 464
     label "2Ag7pbgUSrs"
     step 0
     date "2022-03-16T17:14:53Z"
@@ -8089,24 +7308,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT4M24S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 270
-    name "465"
+    id 465
     label "znEdM-zJ7iQ"
     step 0
     date "2022-04-26T16:37:13Z"
@@ -8119,24 +7335,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT1M32S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.21865654
+    PERSPECTIVEPROFANITY 0.15394498
+    PERSPECTIVEFLIRTATION 0.46523824
+    PERSPECTIVETHREAT 0.5342116
+    PERSPECTIVETOXICITY 0.20009461
+    PERSPECTIVEINSULT 0.12189732
+    PERSPECTIVEIDENTITYATTACK 0.11177236
+    PERSPECTIVEINFLAMMATORY 0.16442676
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 271
-    name "466"
+    id 466
     label "dtupw3BW22s"
     step 0
     date "2020-03-30T02:54:10Z"
@@ -8149,24 +7362,21 @@ graph
     likecount 10
     commentcount 1
     duration "PT9S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.06591935
+    PERSPECTIVEPROFANITY 0.052857287
+    PERSPECTIVEFLIRTATION 0.21796179
+    PERSPECTIVETHREAT 0.08758971
+    PERSPECTIVETOXICITY 0.025863936
+    PERSPECTIVEINSULT 0.06504315
+    PERSPECTIVEIDENTITYATTACK 0.044955507
+    PERSPECTIVEINFLAMMATORY 0.32692695
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 4
   ]
   node
   [
-    id 272
-    name "467"
+    id 467
     label "Ll4ORKFt-E4"
     step 0
     date "2020-10-20T01:40:19Z"
@@ -8179,24 +7389,21 @@ graph
     likecount 16
     commentcount 6
     duration "PT46S"
+    sentiment -0.7351
+    PERSPECTIVESEXUALLYEXPLICIT 0.16931172
+    PERSPECTIVEPROFANITY 0.13451199
+    PERSPECTIVEFLIRTATION 0.35724363
+    PERSPECTIVETHREAT 0.43999094
+    PERSPECTIVETOXICITY 0.22775516
+    PERSPECTIVEINSULT 0.115432575
+    PERSPECTIVEIDENTITYATTACK 0.106980264
+    PERSPECTIVEINFLAMMATORY 0.70798254
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 11
   ]
   node
   [
-    id 273
-    name "468"
+    id 468
     label "yKwxsWwHetE"
     step 0
     date "2020-09-26T14:27:24Z"
@@ -8209,24 +7416,21 @@ graph
     likecount 12
     commentcount 6
     duration "PT6M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.24927902
+    PERSPECTIVEPROFANITY 0.07606609
+    PERSPECTIVEFLIRTATION 0.45037794
+    PERSPECTIVETHREAT 0.10433546
+    PERSPECTIVETOXICITY 0.25219622
+    PERSPECTIVEINSULT 0.061714143
+    PERSPECTIVEIDENTITYATTACK 0.077601716
+    PERSPECTIVEINFLAMMATORY 0.19772151
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 1
   ]
   node
   [
-    id 274
-    name "469"
+    id 469
     label "nFlFNEUBPtw"
     step 0
     date "2021-04-17T17:38:45Z"
@@ -8239,24 +7443,21 @@ graph
     likecount 11
     commentcount 0
     duration "PT58S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15120699
+    PERSPECTIVEPROFANITY 0.08200476
+    PERSPECTIVEFLIRTATION 0.31927383
+    PERSPECTIVETHREAT 0.08535182
+    PERSPECTIVETOXICITY 0.036508016
+    PERSPECTIVEINSULT 0.07277188
+    PERSPECTIVEIDENTITYATTACK 0.055593874
+    PERSPECTIVEINFLAMMATORY 0.4016108
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 9
   ]
   node
   [
-    id 275
-    name "470"
+    id 470
     label "09F9DXb5ehI"
     step 0
     date "2021-03-22T03:45:42Z"
@@ -8269,24 +7470,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT47S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 276
-    name "471"
+    id 471
     label "-gahiKpoDUA"
     step 0
     date "2020-05-06T14:41:41Z"
@@ -8299,114 +7497,102 @@ graph
     likecount 165
     commentcount 16
     duration "PT57S"
+    sentiment -0.5994
+    PERSPECTIVESEXUALLYEXPLICIT 0.2927397
+    PERSPECTIVEPROFANITY 0.35409275
+    PERSPECTIVEFLIRTATION 0.43901628
+    PERSPECTIVETHREAT 0.9128398
+    PERSPECTIVETOXICITY 0.5933793
+    PERSPECTIVEINSULT 0.24602573
+    PERSPECTIVEIDENTITYATTACK 0.30074152
+    PERSPECTIVEINFLAMMATORY 0.6286091
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 3
   ]
   node
   [
-    id 277
-    name "472"
-    label "hbI2GVLG20M"
+    id 474
+    label "sBgo0LEm9WA"
     step 0
-    date "2021-10-29T21:48:27Z"
-    title "Adrenochrome and Reparations"
-    description "This video talks about adrenochrome and how it's being dispersed in the world and how reparations aren't being dispersed to the people that deserve them.&#10;&#10;Links:&#10;&#10;1)&#10;https://www.amazon.com/dp/B09BM38L26?ref_=pe_3052080_397514860&#10;2)&#10;http://episodeinteractive.com/r/s/5407192639799296&#10;3)&#10;https://m.barnesandnoble.com/w/mr-balloons-technical-romance-ashley-azairis-adderley/1127903478&#10;4)&#10;https://www.amazon.com.au/Flowers-that-August-Ashley-Adderley-ebook/dp/B07VXKPVJ8&#10;5)&#10;https://m.twitch.tv/ashazairis&#10;&#10;6)&#10;https://www.google.com/amp/s/nypost.com/2021/10/29/gop-blast-possible-450k-illegal-immigrant-by-biden-admin/amp/"
-    channeltitle "Ash Azairis"
-    channelid "UC4XGiEjwLgQg5OHvuEf536g"
+    date "2020-04-20T07:52:53Z"
+    title "The Truth About Adrenochrome - vol.1"
+    description "&#34;Andrenochome&#34;  -  Wikipedia &#10;&#10;Chemistry&#10;In vivo, adrenochrome is synthesized by the oxidation of epinephrine. In vitro, silver oxide (Ag2O) is used as an oxidizing agent.[1] Its presence is detected in solution by a pink color. The color turns brown upon polymerization. &#10;&#10;Effect on the brain&#10;Several small-scale studies (involving 15 or fewer test subjects) conducted in the 1950s and 1960s reported that adrenochrome triggered psychotic reactions such as thought disorder, derealization, and euphoria.[2] Researchers Abram Hoffer and Humphry Osmond claimed that adrenochrome is a neurotoxic, psychotomimetic substance and may play a role in schizophrenia and other mental illnesses.[3] In what they called the &#34;adrenochrome hypothesis&#34;,[4] they speculated that megadoses of vitamin C and niacin could cure schizophrenia by reducing brain adrenochrome.[5][6] The treatment of schizophrenia with such potent anti-oxidants is highly contested. In 1973, the American Psychiatric Association reported methodological flaws in Hoffer's work on niacin as a schizophrenia treatment and referred to follow-up studies that did not confirm any benefits of the treatment.[7] Multiple additional studies in the United States,[8] Canada,[9] and Australia[10] similarly failed to find benefits of megavitamin therapy to treat schizophrenia. The adrenochrome theory of schizophrenia waned, despite some evidence that it may be psychotomimetic, as adrenochrome was not detectable in schizophrenics. In the early 2000s, interest was renewed by the discovery that adrenochrome may be produced normally as an intermediate in the formation of neuromelanin. This finding may be significant because adrenochrome is detoxified at least partially by glutathione-S-transferase. Some studies have found genetic defects in the gene for this enzyme."
+    channeltitle "Arcturian Starseed"
+    channelid "UCVL35T6te64Wn1YM3sA3IQA"
     favcount 0
-    viewcount 34
-    likecount 1
+    viewcount 366
+    likecount 13
     commentcount 1
-    duration "PT3M24S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 278
-    name "475"
-    label "aXBwfZ5R_4U"
-    step 0
-    date "2021-04-21T14:36:56Z"
-    title "Adrenochrome Y Carne Humana en pastillas ( Viral )"
-    description ""
-    channeltitle "NUEVO AMANECER HD"
-    channelid "UCqhrPxrDPdJPgI-aaAiE3PQ"
-    favcount 0
-    viewcount 22
-    likecount 0
-    commentcount 0
-    duration "PT54S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 279
-    name "478"
-    label "L4Sj1xMJS_M"
-    step 0
-    date "2021-06-11T16:30:12Z"
-    title "Adrenochrome"
-    description ""
-    channeltitle "Sylvain Le Bouthillier"
-    channelid "UCf92VUXVNMJOLUW03w0IUtw"
-    favcount 0
-    viewcount 30
-    likecount 0
-    commentcount 0
     duration "PT5M17S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.11698302
+    PERSPECTIVEPROFANITY 0.03421211
+    PERSPECTIVEFLIRTATION 0.35931382
+    PERSPECTIVETHREAT 0.055133037
+    PERSPECTIVETOXICITY 0.015549194
+    PERSPECTIVEINSULT 0.02788597
+    PERSPECTIVEIDENTITYATTACK 0.0366591
+    PERSPECTIVEINFLAMMATORY 0.10312345
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 3
   ]
   node
   [
-    id 280
-    name "482"
+    id 477
+    label "IQvj2kYF8Xw"
+    step 0
+    date "2022-03-19T21:59:01Z"
+    title "Truth about Adrenochrome"
+    description "https://youtu.be/SbEOTZPgTvw&#10;&#10;$jemmytothetoes. cashapp&#10;&#10;folderforimportant@gmail.com PayPal&#10;&#10;if would like to donate"
+    channeltitle "&#358;&#1103;&#181;&#8224;&#1106; &#593;&#1080;&#8706; &#916;&#2749;&#961;&#305;&#1103;&#949;(Jen)"
+    channelid "UC3ZPPxooXcSIhmdxeFpS3pA"
+    favcount 0
+    viewcount 172
+    likecount 17
+    commentcount 8
+    duration "PT4M58S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.15972367
+    PERSPECTIVEPROFANITY 0.077922635
+    PERSPECTIVEFLIRTATION 0.33214524
+    PERSPECTIVETHREAT 0.09304931
+    PERSPECTIVETOXICITY 0.018464668
+    PERSPECTIVEINSULT 0.06896028
+    PERSPECTIVEIDENTITYATTACK 0.071424946
+    PERSPECTIVEINFLAMMATORY 0.15295555
+    indegree 0
+    cluster 11
+  ]
+  node
+  [
+    id 481
+    label "2JTfDYeFZdw"
+    step 0
+    date "2021-01-20T02:53:06Z"
+    title "Adrenochrome C9H9NO3"
+    description "missing children &#10;elixir of life"
+    channeltitle "MIKE ALVARADO CERT"
+    channelid "UCSW9G943SdeUy_9rTIjbhiw"
+    favcount 0
+    viewcount 62
+    likecount 0
+    commentcount 0
+    duration "PT3M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.23873085
+    PERSPECTIVEPROFANITY 0.1339936
+    PERSPECTIVEFLIRTATION 0.33173746
+    PERSPECTIVETHREAT 0.1443298
+    PERSPECTIVETOXICITY 0.006525108
+    PERSPECTIVEINSULT 0.11012291
+    PERSPECTIVEIDENTITYATTACK 0.09979223
+    PERSPECTIVEINFLAMMATORY 0.13250615
+    indegree 0
+    cluster 3
+  ]
+  node
+  [
+    id 482
     label "60YP2CNY5U0"
     step 0
     date "2018-05-16T01:01:09Z"
@@ -8419,54 +7605,48 @@ graph
     likecount 52
     commentcount 23
     duration "PT53M48S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.096225984
+    PERSPECTIVEPROFANITY 0.040228285
+    PERSPECTIVEFLIRTATION 0.33393416
+    PERSPECTIVETHREAT 0.09585808
+    PERSPECTIVETOXICITY 0.09602194
+    PERSPECTIVEINSULT 0.035498243
+    PERSPECTIVEIDENTITYATTACK 0.038566295
+    PERSPECTIVEINFLAMMATORY 0.17675617
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 11
   ]
   node
   [
-    id 281
-    name "483"
-    label "KqAII6EYKXk"
+    id 485
+    label "HsGdfiY64lc"
     step 0
-    date "2020-07-19T23:36:44Z"
-    title "Adrenochrome, Clone Or Botox?"
-    description "It&#8217;s so hard to tell these days. More vids comin soon my main men I&#8217;ve been on vacation. Hope all&#8217;s well with everybody. Special shout out to my /SPP nibs"
-    channeltitle "FedEx MeYourDrugs"
-    channelid "UCBIEHtRv4Fp_tHuCh-bcJ8Q"
+    date "2020-10-20T00:38:11Z"
+    title "CYM CORP Adrenochrome update"
+    description "The children were held at the military bases? So was the corporation detention facility on military bases? I'll read the names out loud on another video (several) and do a meme."
+    channeltitle "Rachel Johnson"
+    channelid "UCkjBoLGgUvHV4NZiiFqJt8A"
     favcount 0
-    viewcount 1402
-    likecount 39
-    commentcount 37
-    duration "PT41S"
+    viewcount 7942
+    likecount 119
+    commentcount 116
+    duration "PT4M15S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.1357499
+    PERSPECTIVEPROFANITY 0.06740442
+    PERSPECTIVEFLIRTATION 0.42333594
+    PERSPECTIVETHREAT 0.080069885
+    PERSPECTIVETOXICITY 0.008885254
+    PERSPECTIVEINSULT 0.035821117
+    PERSPECTIVEIDENTITYATTACK 0.037293494
+    PERSPECTIVEINFLAMMATORY 0.25306943
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 282
-    name "486"
+    id 486
     label "geVMTb99srs"
     step 0
     date "2021-01-19T16:56:18Z"
@@ -8479,24 +7659,21 @@ graph
     likecount 0
     commentcount 0
     duration "PT3M33S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14453322
+    PERSPECTIVEPROFANITY 0.21566993
+    PERSPECTIVEFLIRTATION 0.31482172
+    PERSPECTIVETHREAT 0.57448256
+    PERSPECTIVETOXICITY 0.044405237
+    PERSPECTIVEINSULT 0.22335964
+    PERSPECTIVEIDENTITYATTACK 0.19566205
+    PERSPECTIVEINFLAMMATORY 0.27351087
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 3
   ]
   node
   [
-    id 283
-    name "487"
+    id 487
     label "stoagyj4YcA"
     step 0
     date "2020-09-25T14:09:48Z"
@@ -8509,54 +7686,48 @@ graph
     likecount -1
     commentcount 0
     duration "PT16M17S"
+    sentiment 0.4939
+    PERSPECTIVESEXUALLYEXPLICIT 0.1556367
+    PERSPECTIVEPROFANITY 0.19537084
+    PERSPECTIVEFLIRTATION 0.4351968
+    PERSPECTIVETHREAT 0.2812299
+    PERSPECTIVETOXICITY 0.124380715
+    PERSPECTIVEINSULT 0.23149954
+    PERSPECTIVEIDENTITYATTACK 0.21043634
+    PERSPECTIVEINFLAMMATORY 0.43851468
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 9
   ]
   node
   [
-    id 284
-    name "488"
-    label "SRmKitw3Aqs"
+    id 489
+    label "mSY-UFx9Hgw"
     step 0
-    date "2018-04-16T21:58:15Z"
-    title "AWAKENED - Why Does EVIL Want ADRENOCHROME, Going to ANY Lengths to Get It?"
-    description "Find out how Adrenochrome is being linked to the rampant child-trafficking rings around the world, and how it's being incorporated into movie scripts, as if it's just another recreational drug, when it's anything but; even some covert messages in film are being shown right in front of our faces!&#10;&#10;Attention: &#10;This  NOT-FOR-PROFIT video is protected by the 1st Amendment right to free speech and is the intellectual property of this channel.&#10;&#10;Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for &#8220;fair use&#8221; for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.&#10;Fair use is a use permitted by copyright statute that might otherwise be infringing. &#10;Non-profit, educational or personal use tips the balance in favor of fair use&#10;&#10;If you've liked what you've seen/heard, please press LIKE.&#10;If you've liked the content of my channel, please SUBSRIBE!&#10;I don't mind if you SHARE this footage, just as long as you include my link as the original source.&#10;&#10;Please check out my series, AWAKENING: Secrets of the Dark Side, which I'll leave a link to the first segment, here, entitled:&#10;AWAKENING: Secrets of the Dark Side: &#34;J&#34; and &#34;JESUS&#34; Created Only 500 Years Ago!&#34; &#10;https://www.youtube.com/watch?v=WQ0XNlJoDCE&#10;&#10;============ Source References ========&#10;&#10;1998 - Fear and Loathing in Las Vegas - Universal Pictures&#10;1988 - They LIVE - ALIVE Films&#10;2001 - Monster's Inc: Disney Picture (Pixar Film)&#10;&#10;http://aprillajune.com/explosive-pedophile-ring-linked-adrenochrome-drug-trafficking/&#10;&#10;http://www.voxfux.com/features/hinckley_bush_connection.html&#10;&#10;The best worldwide forensic-economist-whistleblower outfit in the world -- headed by Field McConnell and David Hawkins!&#10;https://www.abeldanger.org"
-    channeltitle "Awakened to My Aha Moment"
-    channelid "UClGGebbF13MZK5cj98prLHw"
+    date "2022-05-21T04:59:20Z"
+    title "8 Millions Children Missing every year - DISCLOSURE ADRENOCHROME"
+    description "the reason why 8 millions children are reported missing each year"
+    channeltitle "Juba Report"
+    channelid "UCGjVfGxR1XqI0Jwm9Qkalhw"
     favcount 0
-    viewcount 173215
-    likecount 3721
-    commentcount 1582
-    duration "PT24M59S"
+    viewcount 28
+    likecount 3
+    commentcount 0
+    duration "PT4M27S"
+    sentiment -0.296
+    PERSPECTIVESEXUALLYEXPLICIT 0.10773602
+    PERSPECTIVEPROFANITY 0.14928062
+    PERSPECTIVEFLIRTATION 0.30584434
+    PERSPECTIVETHREAT 0.25239947
+    PERSPECTIVETOXICITY 0.0741129
+    PERSPECTIVEINSULT 0.1514921
+    PERSPECTIVEIDENTITYATTACK 0.2173108
+    PERSPECTIVEINFLAMMATORY 0.36510283
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 285
-    name "490"
+    id 490
     label "pcPgTwjn4is"
     step 0
     date "2020-07-04T22:22:35Z"
@@ -8569,144 +7740,129 @@ graph
     likecount 16
     commentcount 8
     duration "PT19M54S"
+    sentiment 0.6369
+    PERSPECTIVESEXUALLYEXPLICIT 0.13609754
+    PERSPECTIVEPROFANITY 0.070195
+    PERSPECTIVEFLIRTATION 0.66568094
+    PERSPECTIVETHREAT 0.1473557
+    PERSPECTIVETOXICITY 0.01631277
+    PERSPECTIVEINSULT 0.09421732
+    PERSPECTIVEIDENTITYATTACK 0.080807574
+    PERSPECTIVEINFLAMMATORY 0.16035146
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 9
   ]
   node
   [
-    id 286
-    name "491"
-    label "F-Ky9bOqBQw"
+    id 493
+    label "3UAQ6N6e1T8"
     step 0
-    date "2020-06-03T22:35:57Z"
-    title "ADRENOCHROME"
+    date "2021-11-23T15:11:52Z"
+    title "Adrenochrome!!! Watch your kids!!!"
     description ""
-    channeltitle "Luis Angel"
-    channelid "UCdkD-P4L6v2QgDk7xb5Cw4Q"
+    channeltitle "S.O.Y.W.Y Gadal Gabar"
+    channelid "UCRGUTywT9e0ALfg0B58eUrg"
     favcount 0
-    viewcount 151
-    likecount 2
-    commentcount 1
-    duration "PT6M16S"
+    viewcount 98
+    likecount 8
+    commentcount 0
+    duration "PT10M55S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.08807138
+    PERSPECTIVEPROFANITY 0.08431255
+    PERSPECTIVEFLIRTATION 0.27939954
+    PERSPECTIVETHREAT 0.47771797
+    PERSPECTIVETOXICITY 0.14687516
+    PERSPECTIVEINSULT 0.28172714
+    PERSPECTIVEIDENTITYATTACK 0.11643093
+    PERSPECTIVEINFLAMMATORY 0.16062352
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 287
-    name "494"
-    label "8Ylf4XkAtns"
-    step 0
-    date "2022-07-11T03:56:24Z"
-    title "A Great Harlots Judgement !"
-    description ""
-    channeltitle "Ahmawan Ibad 444"
-    channelid "UCxd0V8Zp6_W0rYdKmtkiRxQ"
-    favcount 0
-    viewcount 241
-    likecount 43
-    commentcount 5
-    duration "PT1H43M17S"
-    indegree 1
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 4
   ]
   node
   [
-    id 288
-    name "496"
-    label "cZ281JHlWz8"
+    id 495
+    label "XIAgnIK7NM8"
     step 0
-    date "2022-01-08T01:20:19Z"
-    title "Adrenochrome Is Still Practiced"
-    description "Sick elites and the rich and famous behind the drug. While some use the dried out chemical version then you have those who practice the real deal. #anonymous #truth #lulz #5h09un53c"
-    channeltitle "Shogunsec"
-    channelid "UCKoCqTBy4cOApQy_lLuxRrg"
+    date "2020-04-06T16:07:23Z"
+    title "Children Abuse and The Elite: Sex Trade and Adrenochrome"
+    description "The International Tribunal for Natural Justice launched the Judicial Commission of Inquiry into Human Trafficking and Child Sex Abuse at an inaugural seating in Westminster, London on April 16-18th 2018. The filmed testimonies are now available via this Official Commission site to the Press, Public and all interested institutions and organs of government. The principal intention behind this Commission is not to instigate witch-hunts or target individuals, but to set in motion a culture that ensures restoration of truth, disclosure and reconciliation around the subject of human trafficking and child sex abuse."
+    channeltitle "Matthew McDonald"
+    channelid "UCqhsnCxWdRegNdvLqA352DA"
     favcount 0
-    viewcount 47
-    likecount 2
+    viewcount 2673
+    likecount 59
+    commentcount 27
+    duration "PT10M9S"
+    sentiment -0.6369
+    PERSPECTIVESEXUALLYEXPLICIT 0.8777541
+    PERSPECTIVEPROFANITY 0.37751946
+    PERSPECTIVEFLIRTATION 0.7180712
+    PERSPECTIVETHREAT 0.30763394
+    PERSPECTIVETOXICITY 0.39284727
+    PERSPECTIVEINSULT 0.19244486
+    PERSPECTIVEIDENTITYATTACK 0.19568236
+    PERSPECTIVEINFLAMMATORY 0.6495338
+    indegree 0
+    cluster 11
+  ]
+  node
+  [
+    id 497
+    label "nc3fjmeNqmQ"
+    step 0
+    date "2020-03-26T17:04:15Z"
+    title "Adrenochrome Nightmare"
+    description "When movies reveal a hidden truth... a horrible, evil truth...&#10;&#10;From the movie Fear and Loathing in Las Vegas.&#10;&#10;Watch your children, and never let your guard down. The real pandemic in this country is missing children. These people get high at the expense of their lives!&#10;400,000+ children a year go missing!"
+    channeltitle "Gospel Truth"
+    channelid "UCZ6BID8_cdCxaOXFnmxLQyw"
+    favcount 0
+    viewcount 157
+    likecount 5
     commentcount 0
-    duration "PT1M32S"
+    duration "PT2M20S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15530847
+    PERSPECTIVEPROFANITY 0.09734817
+    PERSPECTIVEFLIRTATION 0.28873903
+    PERSPECTIVETHREAT 0.09529967
+    PERSPECTIVETOXICITY 0.06532243
+    PERSPECTIVEINSULT 0.08333312
+    PERSPECTIVEIDENTITYATTACK 0.07066797
+    PERSPECTIVEINFLAMMATORY 0.16299523
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 289
-    name "498"
-    label "Njfey_laYgw"
+    id 500
+    label "8cb_6JEOc1M"
     step 0
-    date "2021-04-17T06:37:20Z"
-    title "Jim caviezel on adrenochrome"
-    description ""
-    channeltitle "Justin cookiefiend1228"
-    channelid "UCqD139TzOKAakzluoviAlNQ"
+    date "2020-07-27T02:34:34Z"
+    title "Al Gore, Alex Jones, Adrenochrome"
+    description "https://www.amazon.com/Adrenochrome-Trevor-Simms/dp/B078WFQ9S9"
+    channeltitle "Chilla Network"
+    channelid "UCrrJI2luzUh4ytd9Nfbq2Yw"
     favcount 0
-    viewcount 21769
-    likecount 1068
-    commentcount 344
-    duration "PT2M36S"
+    viewcount 1534
+    likecount 42
+    commentcount 15
+    duration "PT10M26S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13899007
+    PERSPECTIVEPROFANITY 0.07384255
+    PERSPECTIVEFLIRTATION 0.46504575
+    PERSPECTIVETHREAT 0.082338504
+    PERSPECTIVETOXICITY 0.023632111
+    PERSPECTIVEINSULT 0.060851175
+    PERSPECTIVEIDENTITYATTACK 0.05580163
+    PERSPECTIVEINFLAMMATORY 0.27297613
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 3
   ]
   node
   [
-    id 290
-    name "501"
+    id 501
     label "wc1usteNECI"
     step 0
     date "2019-10-14T01:21:37Z"
@@ -8719,54 +7875,48 @@ graph
     likecount 25
     commentcount 6
     duration "PT10M56S"
+    sentiment -0.6369
+    PERSPECTIVESEXUALLYEXPLICIT 0.46484268
+    PERSPECTIVEPROFANITY 0.5239903
+    PERSPECTIVEFLIRTATION 0.4531803
+    PERSPECTIVETHREAT 0.6248689
+    PERSPECTIVETOXICITY 0.34684154
+    PERSPECTIVEINSULT 0.48198262
+    PERSPECTIVEIDENTITYATTACK 0.490047
+    PERSPECTIVEINFLAMMATORY 0.74921334
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 291
-    name "502"
-    label "XP4rP2l82f8"
+    id 504
+    label "C-3Gk-Epi-4"
     step 0
-    date "2020-10-12T17:11:41Z"
-    title "Aliens  Adrenochrome"
-    description "Clip from Apocalypse LIVE # 19  &#10;Full Show available on all streaming services!&#10;&#10;Aliens harvesting Adrenochrome from humans being trafficked through underground bases... buckle up."
-    channeltitle "ApocalypseMEDIA"
-    channelid "UCf2dzkr_j8QGHjd5OqQyohg"
+    date "2020-10-13T23:48:29Z"
+    title "Adrenalin to Adrenochrome"
+    description ""
+    channeltitle "Truth Is Essential"
+    channelid "UC1YdsKgfdrLWjgJHZ9z2HYQ"
     favcount 0
-    viewcount 417
-    likecount 9
-    commentcount 2
-    duration "PT6M59S"
+    viewcount 123
+    likecount 2
+    commentcount 1
+    duration "PT3M41S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14714324
+    PERSPECTIVEPROFANITY 0.09211685
+    PERSPECTIVEFLIRTATION 0.27824572
+    PERSPECTIVETHREAT 0.09457762
+    PERSPECTIVETOXICITY 0.017423427
+    PERSPECTIVEINSULT 0.089732885
+    PERSPECTIVEIDENTITYATTACK 0.0567654
+    PERSPECTIVEINFLAMMATORY 0.17230718
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
+    cluster 2
   ]
   node
   [
-    id 292
-    name "505"
+    id 505
     label "0mPnV6ipCEE"
     step 0
     date "2022-03-26T03:03:23Z"
@@ -8779,24 +7929,21 @@ graph
     likecount 4
     commentcount 0
     duration "PT3M4S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14087895
+    PERSPECTIVEPROFANITY 0.087835126
+    PERSPECTIVEFLIRTATION 0.31578892
+    PERSPECTIVETHREAT 0.089044005
+    PERSPECTIVETOXICITY 0.015479778
+    PERSPECTIVEINSULT 0.07562248
+    PERSPECTIVEIDENTITYATTACK 0.06212436
+    PERSPECTIVEINFLAMMATORY 0.16571343
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 293
-    name "506"
+    id 506
     label "wZJ2QhFi00Q"
     step 0
     date "2021-07-26T01:09:59Z"
@@ -8809,24 +7956,21 @@ graph
     likecount 8
     commentcount 1
     duration "PT25S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.10380892
+    PERSPECTIVEPROFANITY 0.037059866
+    PERSPECTIVEFLIRTATION 0.3734289
+    PERSPECTIVETHREAT 0.061255723
+    PERSPECTIVETOXICITY 0.16035037
+    PERSPECTIVEINSULT 0.03968904
+    PERSPECTIVEIDENTITYATTACK 0.046115402
+    PERSPECTIVEINFLAMMATORY 0.27411136
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 1
+    cluster 2
   ]
   node
   [
-    id 294
-    name "507"
+    id 507
     label "Lr92MigQEFo"
     step 0
     date "2021-09-18T20:23:44Z"
@@ -8839,24 +7983,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT44S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.23350856
+    PERSPECTIVEPROFANITY 0.20258188
+    PERSPECTIVEFLIRTATION 0.4351866
+    PERSPECTIVETHREAT 0.1605749
+    PERSPECTIVETOXICITY 0.24769363
+    PERSPECTIVEINSULT 0.24845462
+    PERSPECTIVEIDENTITYATTACK 0.1258889
+    PERSPECTIVEINFLAMMATORY 0.6314732
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 295
-    name "508"
+    id 508
     label "7kAXxHQ7sX4"
     step 0
     date "2020-10-19T03:31:20Z"
@@ -8869,24 +8010,21 @@ graph
     likecount 12
     commentcount 0
     duration "PT5M6S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.08067491
+    PERSPECTIVEPROFANITY 0.07675764
+    PERSPECTIVEFLIRTATION 0.31432053
+    PERSPECTIVETHREAT 0.042858005
+    PERSPECTIVETOXICITY 0.1008549
+    PERSPECTIVEINSULT 0.18517342
+    PERSPECTIVEIDENTITYATTACK 0.14861225
+    PERSPECTIVEINFLAMMATORY 0.3936476
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
+    cluster 11
   ]
   node
   [
-    id 296
-    name "509"
+    id 509
     label "JN6n9Yc81-k"
     step 0
     date "2020-12-10T20:59:42Z"
@@ -8899,24 +8037,21 @@ graph
     likecount 4
     commentcount 3
     duration "PT10M35S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14476871
+    PERSPECTIVEPROFANITY 0.119131595
+    PERSPECTIVEFLIRTATION 0.34376827
+    PERSPECTIVETHREAT 0.09928199
+    PERSPECTIVETOXICITY 0.04543531
+    PERSPECTIVEINSULT 0.17389654
+    PERSPECTIVEIDENTITYATTACK 0.15220447
+    PERSPECTIVEINFLAMMATORY 0.38405287
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 11
   ]
   node
   [
-    id 297
-    name "510"
+    id 510
     label "IYVNp99RJfc"
     step 0
     date "2021-02-25T11:10:27Z"
@@ -8929,24 +8064,21 @@ graph
     likecount 1
     commentcount 2
     duration "PT1M10S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.19010848
+    PERSPECTIVEPROFANITY 0.10903265
+    PERSPECTIVEFLIRTATION 0.27992168
+    PERSPECTIVETHREAT 0.097575635
+    PERSPECTIVETOXICITY 0.012911384
+    PERSPECTIVEINSULT 0.08435559
+    PERSPECTIVEIDENTITYATTACK 0.066366784
+    PERSPECTIVEINFLAMMATORY 0.13898769
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 298
-    name "511"
+    id 511
     label "YDP2J4WNZSY"
     step 0
     date "2021-08-18T02:23:55Z"
@@ -8959,24 +8091,21 @@ graph
     likecount 7
     commentcount 2
     duration "PT11M30S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.09633938
+    PERSPECTIVEPROFANITY 0.08544407
+    PERSPECTIVEFLIRTATION 0.46227598
+    PERSPECTIVETHREAT 0.10653365
+    PERSPECTIVETOXICITY 0.09655894
+    PERSPECTIVEINSULT 0.18111375
+    PERSPECTIVEIDENTITYATTACK 0.15519999
+    PERSPECTIVEINFLAMMATORY 0.38338348
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 11
   ]
   node
   [
-    id 299
-    name "512"
+    id 512
     label "x6pCaMGl4p4"
     step 0
     date "2022-05-20T01:25:31Z"
@@ -8989,24 +8118,21 @@ graph
     likecount 1
     commentcount 0
     duration "PT1M18S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.12362492
+    PERSPECTIVEPROFANITY 0.19776389
+    PERSPECTIVEFLIRTATION 0.31558305
+    PERSPECTIVETHREAT 0.2472693
+    PERSPECTIVETOXICITY 0.036851373
+    PERSPECTIVEINSULT 0.22316094
+    PERSPECTIVEIDENTITYATTACK 0.43153244
+    PERSPECTIVEINFLAMMATORY 0.29020947
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 300
-    name "513"
+    id 513
     label "jSUygQzkPeE"
     step 0
     date "2020-10-12T05:51:02Z"
@@ -9019,54 +8145,48 @@ graph
     likecount 1
     commentcount 0
     duration "PT48S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.13741551
+    PERSPECTIVEPROFANITY 0.117048405
+    PERSPECTIVEFLIRTATION 0.30715892
+    PERSPECTIVETHREAT 0.1531878
+    PERSPECTIVETOXICITY 0.055333257
+    PERSPECTIVEINSULT 0.15373962
+    PERSPECTIVEIDENTITYATTACK 0.119025245
+    PERSPECTIVEINFLAMMATORY 0.18615137
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 301
-    name "514"
-    label "ypJhd8WFuxY"
+    id 515
+    label "15G669Mk_ao"
     step 0
-    date "2020-07-29T09:14:01Z"
-    title "Did the Beatles do Adrenochrome?"
-    description "Evidence suggesting a relationship between the Beatles and the Adrenochrome/Cannibalism/Pedo cults. &#10;&#10;DISCLAIMER&#10;*I DO NOT BELIEVE THIS IS FACT I AM MERELY IDENTIFYING REOCCURRING SYMBOLISM *"
-    channeltitle "Magicka Luxor"
-    channelid "UCdo4wSrQp0qdGk3HxDP_auA"
+    date "2021-09-30T00:07:41Z"
+    title "5D Mystery School  Adrenochrome- Phil Schneider"
+    description ""
+    channeltitle "Astro 5D"
+    channelid "UC-Uz74dhktp1GNtBFDdHH0Q"
     favcount 0
-    viewcount 471
-    likecount 13
-    commentcount 11
-    duration "PT10M23S"
+    viewcount 314
+    likecount 25
+    commentcount 4
+    duration "PT1M50S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.11694213
+    PERSPECTIVEPROFANITY 0.063276805
+    PERSPECTIVEFLIRTATION 0.35292843
+    PERSPECTIVETHREAT 0.14822212
+    PERSPECTIVETOXICITY 0.010204159
+    PERSPECTIVEINSULT 0.05673247
+    PERSPECTIVEIDENTITYATTACK 0.03928279
+    PERSPECTIVEINFLAMMATORY 0.01240054
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 302
-    name "516"
+    id 516
     label "6liNH5vu3Mo"
     step 0
     date "2021-02-05T14:16:42Z"
@@ -9079,174 +8199,156 @@ graph
     likecount 6
     commentcount 0
     duration "PT30M14S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22521389
+    PERSPECTIVEPROFANITY 0.15620576
+    PERSPECTIVEFLIRTATION 0.38939753
+    PERSPECTIVETHREAT 0.18391861
+    PERSPECTIVETOXICITY 0.038053125
+    PERSPECTIVEINSULT 0.0680619
+    PERSPECTIVEIDENTITYATTACK 0.07219487
+    PERSPECTIVEINFLAMMATORY 0.42657578
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
+    cluster 9
   ]
   node
   [
-    id 303
-    name "517"
-    label "0MaMD6ToS1o"
+    id 519
+    label "ow6Oua1LjD4"
     step 0
-    date "2022-05-31T22:16:10Z"
-    title "Gematria Breakdown: Ice Cream, Fema Camp, Adrenochrome, Why The Wicked Are Reckless"
-    description "Subscribe to my Ministry channel here: Youtube.com/HamashiachMinistry&#10;&#10;Follow my official twitter here: Twitter.com/HoIisticrypto &#10;&#10;Support this Ministry with Cash APP: Cash.app/$KeepersofTheCovenant&#10;&#10;Links used for this video: &#10;https://biblehub.com/revelation/12-12.htm&#10;https://www.gematrix.org/?word=master+p&#10;https://www.gematrix.org/?word=ice+cream&#10;https://www.gematrix.org/?word=rodney+adams&#10;https://www.gematrix.org/?word=gregg+huguley&#10;https://www.gematrix.org/?word=cabbage+patch&#10;&#10;#Subscribe &#38; Hit The Bell For #Daily Updates excluding The Sabbath!"
-    channeltitle "Hamashiach Bible"
-    channelid "UCkZ56snkQI3Wxy0mv2Vy2Ow"
+    date "2020-10-01T21:55:59Z"
+    title "Chrissy Teagen Sacrifice child for Adrenochrome Tweet"
+    description "My account on twitter temorarily suspended instantly after tweet  in response to news story about #christyteagan losing her baby that she was about to give birth. &#10;&#10;My tweet was &#34; yall really getting desperate for that #adrenocrhome &#34;&#10;&#10;the other times ive had this issue was when i reply to a tweet from my president #trump. Weird how these companies get away with this soft deplatforming"
+    channeltitle "The Above Limits Podcast"
+    channelid "UCUoQhKkSCFNkypMfeJ1hy6A"
     favcount 0
-    viewcount 42
-    likecount 4
-    commentcount 0
-    duration "PT25M4S"
+    viewcount 167
+    likecount 2
+    commentcount 3
+    duration "PT11M4S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.20289575
+    PERSPECTIVEPROFANITY 0.29670084
+    PERSPECTIVEFLIRTATION 0.30141953
+    PERSPECTIVETHREAT 0.71731955
+    PERSPECTIVETOXICITY 0.22990009
+    PERSPECTIVEINSULT 0.4498507
+    PERSPECTIVEIDENTITYATTACK 0.29054162
+    PERSPECTIVEINFLAMMATORY 0.40747193
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 9
   ]
   node
   [
-    id 304
-    name "520"
-    label "7ixTHNUL1ps"
+    id 524
+    label "YvBmuOiP4-4"
     step 0
-    date "2020-03-25T11:59:49Z"
-    title "Google Uncensored and Adrenochrome - David Wilcock March 2020"
-    description ""
-    channeltitle "anarkest"
-    channelid "UCzDTQSeBAstpxCe691B9L7g"
+    date "2008-12-04T17:42:11Z"
+    title "Al Gore Addicted To Blood??!!! Adrenochrome (interlude) - XO"
+    description "Adrenochrome is an oxidation product of adrenaline (ephinephrine, norepinephrine). It is somewhat of a myth -- boosted by H.S. Thompson's Fear and Loathing in Las Vegas -- that it is a deliberately-ingested psychoactive. Adrenochrome monosemicarbazone, a derivative of adrenochrome, is marketed in some countries for the prevention of certain types of bleeding.&#13;&#10;Interest in adrenochrome as a deliberately administered psychoactive is largely a persisting myth popularized by Hunter S. Thompson's writing. The oral ingestion of a vial by the main character of Fear and Loathing in Las Vegas is not substantiated by published research or reports, which usually refer to the endogenous metabolite."
+    channeltitle "XXOrcizt"
+    channelid "UC2V5Ncje0PxTN7xu-M2dqow"
     favcount 0
-    viewcount 4956
-    likecount 99
-    commentcount 19
-    duration "PT2M45S"
+    viewcount 43109
+    likecount 414
+    commentcount 85
+    duration "PT3M7S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.0960258
+    PERSPECTIVEPROFANITY 0.07264603
+    PERSPECTIVEFLIRTATION 0.48179367
+    PERSPECTIVETHREAT 0.37916034
+    PERSPECTIVETOXICITY 0.36553472
+    PERSPECTIVEINSULT 0.11421378
+    PERSPECTIVEIDENTITYATTACK 0.08500407
+    PERSPECTIVEINFLAMMATORY 0.32946637
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
-  ]
-  node
-  [
-    id 305
-    name "525"
-    label "MwTOwrtV7Ik"
-    step 0
-    date "2020-06-29T10:19:30Z"
-    title "Tbersetzung"
-    description "[Part 2] #DasSindUnsereKinder&#10;&#10;Sandra Bullock gibt &#246;ffentlich zu, dass sie alle &#8222;etwas&#8220; einnehmen umj&#252;nger zu bleiben, es w&#252;rde aus einem fernen Ort aus Korea kommen, es w&#228;re ein St&#252;ck haut von einem jungen Kind.&#129327;&#129327;&#129327;&#129327;&#129327;&#129327;&#129327;&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-&#10;https://youtu.be/agyxp2NvC5E&#10;&#10;Deutsch synchronisiert&#10;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-&#10;Der Moderator sagt, sie geben es &#246;ffentlich zu!&#10;Sie L&#252;gen ohne rot zu werden, sagt er.&#10;Er fragt wie am Tag 2500 Kinder verschwinden.&#10;Er sagt, hier haben sie die Eliten die es alle einnehmen.&#10;Es sind alle ranghohe.&#10;Politiker, Staatsm&#228;nner, Gro&#223;konzern-Besitzer.&#10;Stars und Musiker.&#10;&#10;Alle die, die Erfolg haben!&#10;An ihren Symbolen und an ihrem Erfolg erkennst du [SIE].&#10;#FakeNews Medien sind ihre Waffe.&#10;&#10;Sie reden ganz offen und normal dar&#252;ber, als w&#228;re es was ganz harmloses.&#10;&#10;Bitte, teilt es damit JEDER ENDLICH MERKT, dass selbst der [TEUFEL] sich versteckt hat, weil der Mensch solche grauenhafte Taten zu l&#228;sst!&#10;Ihr habt keine Ahnung was sie den Kindern antun!&#10;#Adrenochrome #PizzaGateIsReal #PizzaGate #SaveTheChildrens"
-    channeltitle "Jana K. 17"
-    channelid "UC4fRRKJs40Tyn8BP1qWrMFA"
-    favcount 0
-    viewcount 4135
-    likecount 73
-    commentcount 0
-    duration "PT6M31S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 306
-    name "527"
-    label "Aej84WrWY9U"
+    id 526
+    label "lAGLRrg903A"
     step 0
-    date "2019-01-14T16:12:07Z"
-    title "AdrenoChrome 1 6 18"
-    description "To see more of her work, or to ask a question of your own, visit www.PsychicFocus.Blogspot.com"
-    channeltitle "PsychicFocus2.0 Lynn"
-    channelid "UC7vUK_UUHeiGCzJcrne_vsw"
+    date "2020-03-18T15:01:32Z"
+    title "RWW News: Liz Crokin Claims Celebrities Are Getting Coronavirus From Tainted "
+    description "https://www.rightwingwatch.org/post/liz-crokin-claims-celebrities-are-getting-coronavirus-from-tainted-adrenochrome-supply/&#10;&#10;Right Wing Watch reports on the extreme rhetoric and activities of key right-wing figures and organizations by showing their views in their own words. In this clip, Liz Crokin says the coronavirus was created by Bill Gates with intentions to carry out a false flag, but the plot was intercepted by Trump and is being used instead to carry out QAnon's mass arrests."
+    channeltitle "RWW Blog"
+    channelid "UCMXqRHe8n1TX5iDvkLS62rw"
     favcount 0
-    viewcount 11
+    viewcount 4882
+    likecount 176
+    commentcount 240
+    duration "PT2M"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.22667658
+    PERSPECTIVEPROFANITY 0.17163965
+    PERSPECTIVEFLIRTATION 0.5791394
+    PERSPECTIVETHREAT 0.41326144
+    PERSPECTIVETOXICITY 0.26817688
+    PERSPECTIVEINSULT 0.19582517
+    PERSPECTIVEIDENTITYATTACK 0.378817
+    PERSPECTIVEINFLAMMATORY 0.099551015
+    indegree 0
+    cluster 3
+  ]
+  node
+  [
+    id 529
+    label "cPU4yLjHrBk"
+    step 0
+    date "2020-11-17T11:21:02Z"
+    title "Adrenochrome thirsty shapshifting news anchor nov. 15th 2020"
+    description ""
+    channeltitle "Ill Shocka"
+    channelid "UCsZ_SXtwlLxygmhk0wURYoQ"
+    favcount 0
+    viewcount 76
     likecount 1
     commentcount 0
-    duration "PT6M47S"
+    duration "PT46S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.14164256
+    PERSPECTIVEPROFANITY 0.11027405
+    PERSPECTIVEFLIRTATION 0.39802155
+    PERSPECTIVETHREAT 0.12664738
+    PERSPECTIVETOXICITY 0.062925026
+    PERSPECTIVEINSULT 0.12262241
+    PERSPECTIVEIDENTITYATTACK 0.09608892
+    PERSPECTIVEINFLAMMATORY 0.22096762
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 3
-  ]
-  node
-  [
-    id 307
-    name "530"
-    label "x3s6_Y5EHpc"
-    step 0
-    date "2021-10-26T14:34:56Z"
-    title "29 06 20 Tbersetzung"
-    description ""
-    channeltitle "Kyrandia ja"
-    channelid "UCfVNS2jU-DObZ2Z-Fp-866Q"
-    favcount 0
-    viewcount 35
-    likecount 3
-    commentcount 0
-    duration "PT6M32S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 2
   ]
   node
   [
-    id 308
-    name "533"
+    id 532
+    label "WED1pDWAjqM"
+    step 0
+    date "2020-09-15T23:26:44Z"
+    title "Adrenochrome Beast Daenerys of Windsor, the soulless Tyrant of all kingdoms, breaker of Souls..."
+    description "Children are free of prejudice. This puts them way ahead of us. I remember that as a child I had exactly the same feeling of panic with very special personalities. Children can sense the &#34;real&#34; evil. We have to go back to honor the childhood (Germany especially) &#10;&#10;Adrenochrome is a real Drug and should be taken seriously. Everybody has the responsibilty to educate themselves about this cruel ritual that is about drinking terrorized Childrens Blood to regulate aging Process of the Human Body. Its highly addictive, no comparison to any other Drug."
+    channeltitle "Raein X"
+    channelid "UCwWE_Hk2gF9UBbO7cX5QAqQ"
+    favcount 0
+    viewcount 127
+    likecount 4
+    commentcount 0
+    duration "PT42S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.103227384
+    PERSPECTIVEPROFANITY 0.09176611
+    PERSPECTIVEFLIRTATION 0.4325821
+    PERSPECTIVETHREAT 0.087355606
+    PERSPECTIVETOXICITY 0.2936093
+    PERSPECTIVEINSULT 0.25246865
+    PERSPECTIVEIDENTITYATTACK 0.06964896
+    PERSPECTIVEINFLAMMATORY 0.6302638
+    indegree 0
+    cluster 2
+  ]
+  node
+  [
+    id 533
     label "uEQCR8zd1NQ"
     step 0
     date "2020-06-06T12:28:15Z"
@@ -9259,54 +8361,48 @@ graph
     likecount 11
     commentcount 0
     duration "PT3M27S"
+    sentiment -0.6369
+    PERSPECTIVESEXUALLYEXPLICIT 0.2283557
+    PERSPECTIVEPROFANITY 0.27779368
+    PERSPECTIVEFLIRTATION 0.42981663
+    PERSPECTIVETHREAT 0.76067406
+    PERSPECTIVETOXICITY 0.1414913
+    PERSPECTIVEINSULT 0.26183927
+    PERSPECTIVEIDENTITYATTACK 0.16645509
+    PERSPECTIVEINFLAMMATORY 0.6671383
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 2
-  ]
-  node
-  [
-    id 309
-    name "534"
-    label "1wEfBbV5050"
-    step 0
-    date "2022-07-06T11:00:02Z"
-    title "Complothque 7 Adrenochrome 1/ 2"
-    description "Musique g&#233;n&#233;rique : &#10;&#1055;&#1105;&#1090;&#1088; &#1048;&#1083;&#1100;&#1080;&#1095; &#1063;&#1072;&#1081;&#1082;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081;,Piotr Ilitch Tcha&#239;ckovski, Swan Lake op20.&#10;Carl Orff, Carmina Burana : cantiones profanae, cantoribus et choris cantandae, comintantibus             instrumentis atque imaginibus magicis,1935- 1936, extraits&#10;Philip Glass, Dracula 1931, scene 14 attack, extraits.&#10;Mixage Laur&#233;e du Bois.&#10;Comploth&#232;que #7&#10;Bartolomeo de Las Casas : Historia de las Indias et Brevisima Relacion de la destruccion de las Indias. &#10;&#10;Note: Je cite ici les travaux de Las Casas qui t&#233;moigne avoir vu des boucheries de chair humaine d'indiens que les conquistadors avaient mis en place allant jusqu'&#224; obliger les indiens &#224; manger leur cong&#233;n&#232;re. J'ai omis de citer ce contrepoint dans la partie qui traite des mythes, mythologies et rituels anciens de sacrifice humain pourtant reproch&#233;s aux indiens qui &#233;taient bien souvent v&#233;g&#233;tariens. Cet argument fut avanc&#233; par celui que l'on nomme &#34;le d&#233;fenseur des indiens&#34;.&#10;&#10;Doctor Sleep, r&#233;alis&#233; par Mike Flanagan avec Stephen King, Ewan Mc Gregor et Rebecca Fergusson.&#10;Rosemary&#8217;s baby 1968, r&#233;alis&#233; par Roman Polanski.&#10;Adrenochrome, film r&#233;alis&#233; par Trevor Simms, avec Trevor Simms, Larry Bishop, Tom Sizemore, Adam Huss. Film que je n&#8217;ai pas encore vu&#8230;"
-    channeltitle "Les sommes de toutes les peurs"
-    channelid "UCsTvKpNWFzFDBge1BkvdlqA"
-    favcount 0
-    viewcount 6
-    likecount 1
-    commentcount 0
-    duration "PT11M54S"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
     cluster 3
   ]
   node
   [
-    id 310
-    name "538"
+    id 537
+    label "3hZeYqnrwns"
+    step 0
+    date "2020-08-07T19:56:19Z"
+    title "An Adrenochrome rabbit hole"
+    description "Down we go to the bottom, when we stop surely we got 'em!"
+    channeltitle "Thoughtless Jester"
+    channelid "UCrKmHOFWLg6gN1ta6-Kf1Rw"
+    favcount 0
+    viewcount 212
+    likecount 21
+    commentcount 11
+    duration "PT2M12S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.5293152
+    PERSPECTIVEPROFANITY 0.32368943
+    PERSPECTIVEFLIRTATION 0.52549624
+    PERSPECTIVETHREAT 0.106584534
+    PERSPECTIVETOXICITY 0.16275369
+    PERSPECTIVEINSULT 0.20912077
+    PERSPECTIVEIDENTITYATTACK 0.10690872
+    PERSPECTIVEINFLAMMATORY 0.19705442
+    indegree 0
+    cluster 5
+  ]
+  node
+  [
+    id 538
     label "P0JwC5WNLlQ"
     step 0
     date "2020-09-25T11:33:52Z"
@@ -9319,24 +8415,21 @@ graph
     likecount 32
     commentcount 10
     duration "PT6M2S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.30183205
+    PERSPECTIVEPROFANITY 0.19163819
+    PERSPECTIVEFLIRTATION 0.5859856
+    PERSPECTIVETHREAT 0.18076599
+    PERSPECTIVETOXICITY 0.14687516
+    PERSPECTIVEINSULT 0.1325838
+    PERSPECTIVEIDENTITYATTACK 0.16832292
+    PERSPECTIVEINFLAMMATORY 0.052339617
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 5
+    cluster 9
   ]
   node
   [
-    id 311
-    name "539"
+    id 539
     label "Ht-UMC_m8dw"
     step 0
     date "2022-03-16T18:27:33Z"
@@ -9349,24 +8442,21 @@ graph
     likecount 6
     commentcount 0
     duration "PT4M41S"
+    sentiment 0.3182
+    PERSPECTIVESEXUALLYEXPLICIT 0.13410631
+    PERSPECTIVEPROFANITY 0.03676877
+    PERSPECTIVEFLIRTATION 0.3433097
+    PERSPECTIVETHREAT 0.056682423
+    PERSPECTIVETOXICITY 0.02262963
+    PERSPECTIVEINSULT 0.025042418
+    PERSPECTIVEIDENTITYATTACK 0.035441853
+    PERSPECTIVEINFLAMMATORY 0.16000754
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 6
+    cluster 2
   ]
   node
   [
-    id 312
-    name "540"
+    id 540
     label "MBG5gsxVuoc"
     step 0
     date "2020-12-26T10:59:05Z"
@@ -9379,49 +8469,17 @@ graph
     likecount 2
     commentcount 0
     duration "PT51S"
+    sentiment 0
+    PERSPECTIVESEXUALLYEXPLICIT 0.15652218
+    PERSPECTIVEPROFANITY 0.16733225
+    PERSPECTIVEFLIRTATION 0.3235088
+    PERSPECTIVETHREAT 0.34122422
+    PERSPECTIVETOXICITY 0.1530536
+    PERSPECTIVEINSULT 0.18286145
+    PERSPECTIVEIDENTITYATTACK 0.09795463
+    PERSPECTIVEINFLAMMATORY 0.2801372
     indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 7
-  ]
-  node
-  [
-    id 313
-    name "541"
-    label "9UXmBSC4HJA"
-    step 0
-    date "2020-11-29T19:16:27Z"
-    title "adrenochrome.gitmo.cia.redrum.2020"
-    description ""
-    channeltitle "Amelia Adams"
-    channelid "UC7ibqn5eViZUo17i0UkX8mA"
-    favcount 0
-    viewcount 147
-    likecount 1
-    commentcount 0
-    duration "PT1M"
-    indegree 0
-    PERSPECTIVETHREAT NaN
-    PERSPECTIVEINFLAMMATORY NaN
-    PERSPECTIVESEXUALLYEXPLICIT NaN
-    PERSPECTIVEIDENTITYATTACK NaN
-    PERSPECTIVETOXICITY NaN
-    PERSPECTIVEPROFANITY NaN
-    PERSPECTIVEFLIRTATION NaN
-    PERSPECTIVEINSULT NaN
-    sentiment NaN
-    channeltags "NA"
-    leftright "NA"
-    cluster 4
+    cluster 1
   ]
   edge
   [
@@ -9450,7 +8508,7 @@ graph
   edge
   [
     source 9
-    target 65
+    target 88
     rank 15
   ]
   edge
@@ -9474,19 +8532,19 @@ graph
   edge
   [
     source 11
-    target 17
+    target 20
     rank 15
   ]
   edge
   [
     source 11
-    target 24
+    target 28
     rank 16
   ]
   edge
   [
     source 11
-    target 19
+    target 22
     rank 18
   ]
   edge
@@ -9503,642 +8561,342 @@ graph
   ]
   edge
   [
-    source 13
+    source 15
     target 0
     rank 3
   ]
   edge
   [
-    source 13
-    target 17
+    source 15
+    target 20
     rank 18
   ]
   edge
   [
-    source 13
-    target 19
+    source 15
+    target 22
     rank 20
   ]
   edge
   [
-    source 14
+    source 16
     target 4
     rank 14
   ]
   edge
   [
-    source 15
+    source 17
     target 0
     rank 5
   ]
   edge
   [
-    source 15
-    target 39
+    source 17
+    target 52
     rank 14
   ]
   edge
   [
-    source 15
-    target 70
+    source 17
+    target 93
     rank 17
   ]
   edge
   [
-    source 16
+    source 19
     target 6
     rank 5
   ]
   edge
   [
-    source 16
+    source 19
     target 0
     rank 14
   ]
   edge
   [
-    source 19
-    target 17
+    source 22
+    target 20
     rank 16
   ]
   edge
   [
-    source 20
-    target 15
+    source 23
+    target 17
     rank 1
   ]
   edge
   [
-    source 20
-    target 39
+    source 23
+    target 52
     rank 5
   ]
   edge
   [
-    source 20
-    target 33
+    source 23
+    target 45
     rank 6
   ]
   edge
   [
-    source 20
-    target 76
+    source 23
+    target 101
     rank 8
   ]
   edge
   [
-    source 20
-    target 67
+    source 23
+    target 90
     rank 10
   ]
   edge
   [
-    source 21
+    source 25
     target 7
     rank 17
   ]
   edge
   [
-    source 22
+    source 26
     target 0
     rank 2
   ]
   edge
   [
-    source 22
+    source 26
     target 7
     rank 20
-  ]
-  edge
-  [
-    source 23
-    target 15
-    rank 14
-  ]
-  edge
-  [
-    source 23
-    target 20
-    rank 16
-  ]
-  edge
-  [
-    source 25
-    target 18
-    rank 1
-  ]
-  edge
-  [
-    source 26
-    target 18
-    rank 11
-  ]
-  edge
-  [
-    source 26
-    target 7
-    rank 13
   ]
   edge
   [
     source 27
-    target 7
-    rank 18
-  ]
-  edge
-  [
-    source 28
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 28
-    target 19
+    target 17
     rank 14
   ]
   edge
   [
-    source 28
-    target 167
-    rank 17
-  ]
-  edge
-  [
-    source 28
-    target 97
-    rank 18
+    source 27
+    target 23
+    rank 16
   ]
   edge
   [
     source 29
-    target 161
-    rank 4
-  ]
-  edge
-  [
-    source 30
-    target 7
-    rank 13
-  ]
-  edge
-  [
-    source 30
-    target 57
-    rank 17
-  ]
-  edge
-  [
-    source 30
-    target 94
-    rank 19
-  ]
-  edge
-  [
-    source 31
-    target 7
-    rank 8
+    target 21
+    rank 1
   ]
   edge
   [
     source 32
-    target 40
-    rank 8
-  ]
-  edge
-  [
-    source 33
-    target 39
-    rank 3
-  ]
-  edge
-  [
-    source 33
-    target 15
-    rank 4
-  ]
-  edge
-  [
-    source 33
-    target 67
-    rank 7
-  ]
-  edge
-  [
-    source 33
-    target 20
-    rank 9
-  ]
-  edge
-  [
-    source 33
-    target 70
-    rank 10
-  ]
-  edge
-  [
-    source 33
-    target 46
-    rank 14
-  ]
-  edge
-  [
-    source 33
-    target 76
-    rank 15
-  ]
-  edge
-  [
-    source 34
-    target 0
+    target 21
     rank 11
   ]
   edge
   [
-    source 35
-    target 86
+    source 32
+    target 7
     rank 13
   ]
   edge
   [
-    source 35
+    source 34
     target 7
-    rank 15
-  ]
-  edge
-  [
-    source 36
-    target 139
     rank 18
   ]
   edge
   [
-    source 36
-    target 57
-    rank 20
-  ]
-  edge
-  [
-    source 37
+    source 35
     target 0
     rank 1
   ]
   edge
   [
-    source 37
-    target 24
-    rank 7
+    source 35
+    target 22
+    rank 14
+  ]
+  edge
+  [
+    source 35
+    target 239
+    rank 17
+  ]
+  edge
+  [
+    source 35
+    target 135
+    rank 18
   ]
   edge
   [
     source 37
-    target 171
-    rank 13
-  ]
-  edge
-  [
-    source 38
-    target 7
-    rank 3
-  ]
-  edge
-  [
-    source 38
-    target 139
+    target 229
     rank 4
   ]
   edge
   [
-    source 38
-    target 19
-    rank 11
-  ]
-  edge
-  [
-    source 38
-    target 234
-    rank 12
-  ]
-  edge
-  [
-    source 38
-    target 119
+    source 39
+    target 7
     rank 13
   ]
   edge
   [
     source 39
-    target 20
-    rank 9
-  ]
-  edge
-  [
-    source 40
-    target 18
+    target 78
     rank 17
   ]
   edge
   [
-    source 41
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 41
-    target 194
-    rank 11
-  ]
-  edge
-  [
-    source 41
-    target 140
-    rank 13
+    source 39
+    target 128
+    rank 19
   ]
   edge
   [
     source 42
     target 7
-    rank 18
-  ]
-  edge
-  [
-    source 43
-    target 7
-    rank 4
-  ]
-  edge
-  [
-    source 43
-    target 21
-    rank 6
-  ]
-  edge
-  [
-    source 43
-    target 73
-    rank 7
-  ]
-  edge
-  [
-    source 43
-    target 110
     rank 8
   ]
   edge
   [
     source 43
-    target 19
-    rank 9
-  ]
-  edge
-  [
-    source 43
-    target 64
-    rank 10
-  ]
-  edge
-  [
-    source 43
-    target 3
-    rank 16
-  ]
-  edge
-  [
-    source 43
-    target 81
-    rank 19
-  ]
-  edge
-  [
-    source 44
-    target 18
-    rank 19
+    target 54
+    rank 8
   ]
   edge
   [
     source 45
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 45
-    target 103
-    rank 5
-  ]
-  edge
-  [
-    source 45
-    target 64
-    rank 7
-  ]
-  edge
-  [
-    source 45
-    target 81
-    rank 11
-  ]
-  edge
-  [
-    source 45
-    target 1
-    rank 15
-  ]
-  edge
-  [
-    source 45
-    target 2
-    rank 16
-  ]
-  edge
-  [
-    source 45
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 46
-    target 15
+    target 52
     rank 3
   ]
   edge
   [
-    source 46
-    target 76
-    rank 8
-  ]
-  edge
-  [
-    source 46
-    target 70
-    rank 11
-  ]
-  edge
-  [
-    source 46
-    target 33
-    rank 14
-  ]
-  edge
-  [
-    source 47
-    target 68
-    rank 8
-  ]
-  edge
-  [
-    source 47
-    target 139
-    rank 9
-  ]
-  edge
-  [
-    source 47
-    target 99
-    rank 10
-  ]
-  edge
-  [
-    source 47
-    target 48
-    rank 11
-  ]
-  edge
-  [
-    source 47
-    target 38
-    rank 12
-  ]
-  edge
-  [
-    source 47
-    target 35
-    rank 15
-  ]
-  edge
-  [
-    source 47
-    target 77
-    rank 16
-  ]
-  edge
-  [
-    source 47
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 47
-    target 57
-    rank 18
-  ]
-  edge
-  [
-    source 47
-    target 100
-    rank 19
-  ]
-  edge
-  [
-    source 47
-    target 154
-    rank 20
-  ]
-  edge
-  [
-    source 48
-    target 108
-    rank 20
-  ]
-  edge
-  [
-    source 49
-    target 24
-    rank 15
-  ]
-  edge
-  [
-    source 49
-    target 86
-    rank 18
-  ]
-  edge
-  [
-    source 49
-    target 150
-    rank 19
-  ]
-  edge
-  [
-    source 49
-    target 124
-    rank 20
-  ]
-  edge
-  [
-    source 50
-    target 139
-    rank 9
-  ]
-  edge
-  [
-    source 50
-    target 7
-    rank 11
-  ]
-  edge
-  [
-    source 50
-    target 68
-    rank 16
-  ]
-  edge
-  [
-    source 50
-    target 21
-    rank 18
-  ]
-  edge
-  [
-    source 50
-    target 38
-    rank 20
-  ]
-  edge
-  [
-    source 51
-    target 3
+    source 45
+    target 17
     rank 4
   ]
   edge
   [
-    source 52
-    target 0
-    rank 1
+    source 45
+    target 90
+    rank 7
   ]
   edge
   [
-    source 52
-    target 1
-    rank 5
+    source 45
+    target 23
+    rank 9
   ]
   edge
   [
-    source 52
-    target 4
-    rank 8
+    source 45
+    target 93
+    rank 10
   ]
   edge
   [
-    source 52
-    target 39
+    source 45
+    target 63
     rank 14
   ]
   edge
   [
+    source 45
+    target 101
+    rank 15
+  ]
+  edge
+  [
+    source 46
+    target 0
+    rank 11
+  ]
+  edge
+  [
+    source 47
+    target 115
+    rank 13
+  ]
+  edge
+  [
+    source 47
+    target 7
+    rank 15
+  ]
+  edge
+  [
+    source 49
+    target 191
+    rank 18
+  ]
+  edge
+  [
+    source 49
+    target 78
+    rank 20
+  ]
+  edge
+  [
+    source 50
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 50
+    target 28
+    rank 7
+  ]
+  edge
+  [
+    source 50
+    target 244
+    rank 13
+  ]
+  edge
+  [
+    source 51
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 51
+    target 191
+    rank 4
+  ]
+  edge
+  [
+    source 51
+    target 22
+    rank 11
+  ]
+  edge
+  [
+    source 51
+    target 354
+    rank 12
+  ]
+  edge
+  [
+    source 51
+    target 162
+    rank 13
+  ]
+  edge
+  [
+    source 52
+    target 23
+    rank 9
+  ]
+  edge
+  [
+    source 54
+    target 21
+    rank 17
+  ]
+  edge
+  [
     source 55
     target 0
     rank 1
@@ -10146,20 +8904,14 @@ graph
   edge
   [
     source 55
-    target 15
-    rank 6
-  ]
-  edge
-  [
-    source 55
-    target 20
+    target 284
     rank 11
   ]
   edge
   [
     source 55
-    target 23
-    rank 20
+    target 193
+    rank 13
   ]
   edge
   [
@@ -10170,2882 +8922,2042 @@ graph
   edge
   [
     source 57
-    target 147
-    rank 14
+    target 7
+    rank 4
   ]
   edge
   [
-    source 58
-    target 44
-    rank 2
+    source 57
+    target 25
+    rank 6
   ]
   edge
   [
-    source 59
-    target 1
+    source 57
+    target 98
     rank 7
   ]
   edge
   [
-    source 59
-    target 77
-    rank 20
+    source 57
+    target 153
+    rank 8
   ]
   edge
   [
-    source 60
-    target 37
+    source 57
+    target 22
+    rank 9
+  ]
+  edge
+  [
+    source 57
+    target 87
     rank 10
   ]
   edge
   [
+    source 57
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 57
+    target 108
+    rank 19
+  ]
+  edge
+  [
+    source 59
+    target 21
+    rank 19
+  ]
+  edge
+  [
     source 60
-    target 17
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 60
+    target 144
+    rank 5
+  ]
+  edge
+  [
+    source 60
+    target 87
+    rank 7
+  ]
+  edge
+  [
+    source 60
+    target 108
+    rank 11
+  ]
+  edge
+  [
+    source 60
+    target 1
     rank 15
   ]
   edge
   [
     source 60
-    target 62
+    target 2
     rank 16
   ]
   edge
   [
     source 60
-    target 109
-    rank 18
-  ]
-  edge
-  [
-    source 60
-    target 147
-    rank 19
-  ]
-  edge
-  [
-    source 61
-    target 1
-    rank 14
+    target 3
+    rank 17
   ]
   edge
   [
     source 63
-    target 0
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 63
+    target 101
+    rank 8
+  ]
+  edge
+  [
+    source 63
+    target 93
+    rank 11
+  ]
+  edge
+  [
+    source 63
+    target 45
+    rank 14
+  ]
+  edge
+  [
+    source 64
+    target 91
+    rank 8
+  ]
+  edge
+  [
+    source 64
+    target 191
     rank 9
   ]
   edge
   [
     source 64
-    target 19
+    target 139
     rank 10
   ]
   edge
   [
     source 64
-    target 81
+    target 66
     rank 11
   ]
   edge
   [
     source 64
-    target 86
+    target 51
     rank 12
   ]
   edge
   [
     source 64
-    target 214
-    rank 14
+    target 47
+    rank 15
   ]
   edge
   [
-    source 66
-    target 15
-    rank 3
+    source 64
+    target 102
+    rank 16
   ]
   edge
   [
-    source 66
-    target 20
-    rank 14
-  ]
-  edge
-  [
-    source 67
-    target 33
-    rank 3
-  ]
-  edge
-  [
-    source 67
-    target 20
+    source 64
+    target 3
     rank 17
   ]
   edge
   [
+    source 64
+    target 78
+    rank 18
+  ]
+  edge
+  [
+    source 64
+    target 141
+    rank 19
+  ]
+  edge
+  [
+    source 64
+    target 217
+    rank 20
+  ]
+  edge
+  [
+    source 66
+    target 150
+    rank 20
+  ]
+  edge
+  [
+    source 67
+    target 28
+    rank 15
+  ]
+  edge
+  [
+    source 67
+    target 115
+    rank 18
+  ]
+  edge
+  [
+    source 67
+    target 206
+    rank 19
+  ]
+  edge
+  [
+    source 67
+    target 169
+    rank 20
+  ]
+  edge
+  [
     source 68
-    target 37
-    rank 12
+    target 191
+    rank 9
   ]
   edge
   [
     source 68
     target 7
-    rank 14
+    rank 11
   ]
   edge
   [
     source 68
-    target 139
-    rank 17
+    target 91
+    rank 16
   ]
   edge
   [
     source 68
-    target 21
-    rank 19
+    target 25
+    rank 18
   ]
   edge
   [
     source 68
-    target 38
+    target 51
     rank 20
   ]
   edge
   [
     source 69
-    target 77
-    rank 6
-  ]
-  edge
-  [
-    source 69
-    target 139
-    rank 13
-  ]
-  edge
-  [
-    source 70
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 70
-    target 39
-    rank 5
-  ]
-  edge
-  [
-    source 71
     target 3
-    rank 1
+    rank 4
   ]
   edge
   [
-    source 71
-    target 83
-    rank 3
-  ]
-  edge
-  [
-    source 73
+    source 70
     target 0
     rank 1
   ]
   edge
   [
-    source 73
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 73
-    target 110
+    source 70
+    target 1
     rank 5
   ]
   edge
   [
-    source 73
-    target 21
-    rank 6
+    source 70
+    target 4
+    rank 8
   ]
   edge
   [
-    source 75
-    target 77
-    rank 5
-  ]
-  edge
-  [
-    source 77
-    target 0
-    rank 5
-  ]
-  edge
-  [
-    source 78
-    target 102
-    rank 7
-  ]
-  edge
-  [
-    source 79
-    target 15
+    source 70
+    target 52
     rank 14
   ]
   edge
   [
-    source 79
+    source 73
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 73
+    target 17
+    rank 6
+  ]
+  edge
+  [
+    source 73
+    target 23
+    rank 11
+  ]
+  edge
+  [
+    source 73
+    target 27
+    rank 20
+  ]
+  edge
+  [
+    source 74
     target 7
     rank 18
   ]
   edge
   [
+    source 78
+    target 203
+    rank 14
+  ]
+  edge
+  [
     source 79
-    target 139
-    rank 20
+    target 59
+    rank 2
   ]
   edge
   [
     source 81
-    target 19
-    rank 10
+    target 1
+    rank 7
   ]
   edge
   [
     source 81
-    target 97
+    target 102
     rank 20
   ]
   edge
   [
     source 82
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 83
-    target 71
-    rank 2
-  ]
-  edge
-  [
-    source 83
-    target 37
-    rank 5
-  ]
-  edge
-  [
-    source 83
-    target 139
-    rank 7
-  ]
-  edge
-  [
-    source 83
-    target 154
-    rank 9
-  ]
-  edge
-  [
-    source 83
-    target 68
-    rank 12
-  ]
-  edge
-  [
-    source 83
-    target 38
-    rank 13
-  ]
-  edge
-  [
-    source 83
-    target 62
-    rank 14
-  ]
-  edge
-  [
-    source 83
-    target 74
-    rank 16
-  ]
-  edge
-  [
-    source 83
-    target 57
-    rank 17
-  ]
-  edge
-  [
-    source 83
-    target 100
-    rank 18
-  ]
-  edge
-  [
-    source 83
-    target 151
-    rank 19
-  ]
-  edge
-  [
-    source 84
-    target 14
-    rank 9
-  ]
-  edge
-  [
-    source 84
-    target 3
+    target 50
     rank 10
   ]
   edge
   [
-    source 85
-    target 24
-    rank 17
-  ]
-  edge
-  [
-    source 85
-    target 80
-    rank 19
-  ]
-  edge
-  [
-    source 85
-    target 19
-    rank 20
-  ]
-  edge
-  [
-    source 86
-    target 56
-    rank 3
-  ]
-  edge
-  [
-    source 86
-    target 24
-    rank 5
-  ]
-  edge
-  [
-    source 87
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 87
-    target 15
-    rank 3
-  ]
-  edge
-  [
-    source 87
+    source 82
     target 20
-    rank 10
-  ]
-  edge
-  [
-    source 87
-    target 55
-    rank 12
-  ]
-  edge
-  [
-    source 87
-    target 62
-    rank 19
-  ]
-  edge
-  [
-    source 88
-    target 7
-    rank 3
-  ]
-  edge
-  [
-    source 88
-    target 147
     rank 15
   ]
   edge
   [
-    source 88
-    target 167
-    rank 20
-  ]
-  edge
-  [
-    source 89
-    target 147
-    rank 9
-  ]
-  edge
-  [
-    source 89
-    target 194
-    rank 11
-  ]
-  edge
-  [
-    source 90
-    target 92
-    rank 5
-  ]
-  edge
-  [
-    source 90
-    target 72
-    rank 11
-  ]
-  edge
-  [
-    source 90
-    target 234
+    source 82
+    target 85
     rank 16
   ]
   edge
   [
-    source 90
+    source 82
+    target 152
+    rank 18
+  ]
+  edge
+  [
+    source 82
+    target 203
+    rank 19
+  ]
+  edge
+  [
+    source 84
+    target 1
+    rank 14
+  ]
+  edge
+  [
+    source 86
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 87
+    target 22
+    rank 10
+  ]
+  edge
+  [
+    source 87
     target 108
+    rank 11
+  ]
+  edge
+  [
+    source 87
+    target 115
+    rank 12
+  ]
+  edge
+  [
+    source 87
+    target 318
+    rank 14
+  ]
+  edge
+  [
+    source 89
+    target 17
+    rank 3
+  ]
+  edge
+  [
+    source 89
+    target 23
+    rank 14
+  ]
+  edge
+  [
+    source 90
+    target 45
+    rank 3
+  ]
+  edge
+  [
+    source 90
+    target 23
     rank 17
   ]
   edge
   [
     source 91
-    target 56
-    rank 7
+    target 50
+    rank 12
+  ]
+  edge
+  [
+    source 91
+    target 7
+    rank 14
+  ]
+  edge
+  [
+    source 91
+    target 191
+    rank 17
+  ]
+  edge
+  [
+    source 91
+    target 25
+    rank 19
+  ]
+  edge
+  [
+    source 91
+    target 51
+    rank 20
   ]
   edge
   [
     source 92
-    target 72
-    rank 4
+    target 102
+    rank 6
   ]
   edge
   [
     source 92
-    target 234
-    rank 10
+    target 191
+    rank 13
   ]
   edge
   [
     source 93
-    target 56
-    rank 13
+    target 17
+    rank 1
   ]
   edge
   [
-    source 94
-    target 39
-    rank 7
-  ]
-  edge
-  [
-    source 94
-    target 46
-    rank 11
-  ]
-  edge
-  [
-    source 94
-    target 20
-    rank 12
-  ]
-  edge
-  [
-    source 94
-    target 76
-    rank 13
-  ]
-  edge
-  [
-    source 94
-    target 33
-    rank 15
-  ]
-  edge
-  [
-    source 94
-    target 54
-    rank 16
-  ]
-  edge
-  [
-    source 94
-    target 70
-    rank 17
-  ]
-  edge
-  [
-    source 94
-    target 67
-    rank 18
+    source 93
+    target 52
+    rank 5
   ]
   edge
   [
     source 95
-    target 19
-    rank 10
+    target 3
+    rank 1
   ]
   edge
   [
-    source 96
-    target 48
-    rank 7
-  ]
-  edge
-  [
-    source 96
-    target 35
-    rank 8
-  ]
-  edge
-  [
-    source 96
-    target 53
-    rank 9
-  ]
-  edge
-  [
-    source 97
-    target 139
-    rank 9
-  ]
-  edge
-  [
-    source 97
-    target 37
-    rank 10
-  ]
-  edge
-  [
-    source 97
-    target 68
-    rank 11
-  ]
-  edge
-  [
-    source 97
-    target 38
-    rank 14
-  ]
-  edge
-  [
-    source 97
-    target 57
-    rank 15
-  ]
-  edge
-  [
-    source 97
-    target 19
-    rank 17
-  ]
-  edge
-  [
-    source 97
-    target 109
-    rank 18
-  ]
-  edge
-  [
-    source 97
-    target 83
-    rank 19
+    source 95
+    target 110
+    rank 3
   ]
   edge
   [
     source 98
-    target 18
-    rank 5
+    target 0
+    rank 1
   ]
   edge
   [
-    source 99
-    target 83
-    rank 2
-  ]
-  edge
-  [
-    source 99
-    target 147
-    rank 12
-  ]
-  edge
-  [
-    source 99
-    target 68
-    rank 13
-  ]
-  edge
-  [
-    source 99
-    target 139
-    rank 14
-  ]
-  edge
-  [
-    source 99
-    target 37
-    rank 16
-  ]
-  edge
-  [
-    source 99
-    target 62
-    rank 17
-  ]
-  edge
-  [
-    source 99
-    target 109
-    rank 18
-  ]
-  edge
-  [
-    source 99
-    target 100
-    rank 20
-  ]
-  edge
-  [
-    source 100
-    target 95
+    source 98
+    target 17
     rank 3
   ]
   edge
   [
-    source 100
-    target 68
-    rank 11
+    source 98
+    target 153
+    rank 5
+  ]
+  edge
+  [
+    source 98
+    target 25
+    rank 6
   ]
   edge
   [
     source 100
-    target 37
-    rank 12
-  ]
-  edge
-  [
-    source 100
-    target 139
-    rank 14
-  ]
-  edge
-  [
-    source 100
-    target 38
-    rank 18
-  ]
-  edge
-  [
-    source 101
-    target 194
-    rank 11
+    target 102
+    rank 5
   ]
   edge
   [
     source 102
-    target 81
-    rank 13
-  ]
-  edge
-  [
-    source 103
-    target 106
-    rank 1
-  ]
-  edge
-  [
-    source 103
-    target 162
-    rank 3
-  ]
-  edge
-  [
-    source 103
-    target 220
-    rank 6
-  ]
-  edge
-  [
-    source 103
-    target 64
-    rank 8
-  ]
-  edge
-  [
-    source 103
-    target 81
-    rank 9
+    target 0
+    rank 5
   ]
   edge
   [
     source 104
-    target 165
-    rank 10
-  ]
-  edge
-  [
-    source 104
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 105
-    target 3
-    rank 8
-  ]
-  edge
-  [
-    source 105
-    target 24
-    rank 9
-  ]
-  edge
-  [
-    source 105
-    target 165
-    rank 18
-  ]
-  edge
-  [
-    source 106
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 106
-    target 68
+    target 143
     rank 7
   ]
   edge
   [
     source 106
-    target 37
-    rank 8
-  ]
-  edge
-  [
-    source 106
-    target 139
-    rank 9
-  ]
-  edge
-  [
-    source 106
-    target 38
-    rank 12
-  ]
-  edge
-  [
-    source 106
-    target 57
+    target 17
     rank 14
   ]
   edge
   [
     source 106
-    target 154
-    rank 16
-  ]
-  edge
-  [
-    source 106
-    target 100
-    rank 17
-  ]
-  edge
-  [
-    source 106
-    target 83
+    target 7
     rank 18
   ]
   edge
   [
     source 106
-    target 74
-    rank 19
-  ]
-  edge
-  [
-    source 106
-    target 62
+    target 191
     rank 20
   ]
   edge
   [
+    source 108
+    target 22
+    rank 10
+  ]
+  edge
+  [
+    source 108
+    target 135
+    rank 20
+  ]
+  edge
+  [
+    source 109
+    target 0
+    rank 3
+  ]
+  edge
+  [
     source 110
-    target 7
+    target 95
+    rank 2
+  ]
+  edge
+  [
+    source 110
+    target 50
+    rank 5
+  ]
+  edge
+  [
+    source 110
+    target 191
     rank 7
   ]
   edge
   [
     source 110
-    target 21
+    target 217
     rank 9
   ]
   edge
   [
     source 110
-    target 77
-    rank 11
-  ]
-  edge
-  [
-    source 110
-    target 3
+    target 91
     rank 12
   ]
   edge
   [
     source 110
-    target 73
-    rank 14
-  ]
-  edge
-  [
-    source 111
-    target 7
-    rank 1
-  ]
-  edge
-  [
-    source 112
-    target 151
-    rank 1
-  ]
-  edge
-  [
-    source 112
-    target 0
-    rank 5
-  ]
-  edge
-  [
-    source 112
-    target 147
-    rank 7
-  ]
-  edge
-  [
-    source 112
-    target 154
-    rank 16
-  ]
-  edge
-  [
-    source 112
-    target 62
-    rank 17
-  ]
-  edge
-  [
-    source 112
-    target 38
-    rank 20
-  ]
-  edge
-  [
-    source 113
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 113
-    target 1
-    rank 16
-  ]
-  edge
-  [
-    source 114
-    target 116
-    rank 1
-  ]
-  edge
-  [
-    source 114
-    target 83
-    rank 9
-  ]
-  edge
-  [
-    source 114
-    target 73
-    rank 15
-  ]
-  edge
-  [
-    source 115
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 116
-    target 83
-    rank 3
-  ]
-  edge
-  [
-    source 116
-    target 74
-    rank 4
-  ]
-  edge
-  [
-    source 117
-    target 70
-    rank 6
-  ]
-  edge
-  [
-    source 117
-    target 20
-    rank 7
-  ]
-  edge
-  [
-    source 117
-    target 46
-    rank 12
-  ]
-  edge
-  [
-    source 117
-    target 33
-    rank 15
-  ]
-  edge
-  [
-    source 117
-    target 76
-    rank 16
-  ]
-  edge
-  [
-    source 117
-    target 67
-    rank 19
-  ]
-  edge
-  [
-    source 118
-    target 39
-    rank 6
-  ]
-  edge
-  [
-    source 118
-    target 20
-    rank 8
-  ]
-  edge
-  [
-    source 118
-    target 33
-    rank 10
-  ]
-  edge
-  [
-    source 118
-    target 76
-    rank 17
-  ]
-  edge
-  [
-    source 120
-    target 97
-    rank 11
-  ]
-  edge
-  [
-    source 120
-    target 74
-    rank 18
-  ]
-  edge
-  [
-    source 120
-    target 107
-    rank 19
-  ]
-  edge
-  [
-    source 121
-    target 7
-    rank 1
-  ]
-  edge
-  [
-    source 121
-    target 21
-    rank 2
-  ]
-  edge
-  [
-    source 121
-    target 64
-    rank 4
-  ]
-  edge
-  [
-    source 121
-    target 3
-    rank 6
-  ]
-  edge
-  [
-    source 121
-    target 81
-    rank 9
-  ]
-  edge
-  [
-    source 122
-    target 147
-    rank 5
-  ]
-  edge
-  [
-    source 122
-    target 81
-    rank 6
-  ]
-  edge
-  [
-    source 122
-    target 64
-    rank 7
-  ]
-  edge
-  [
-    source 122
-    target 211
-    rank 10
-  ]
-  edge
-  [
-    source 123
-    target 68
-    rank 19
-  ]
-  edge
-  [
-    source 124
-    target 1
-    rank 5
-  ]
-  edge
-  [
-    source 125
-    target 165
-    rank 3
-  ]
-  edge
-  [
-    source 125
-    target 151
-    rank 6
-  ]
-  edge
-  [
-    source 125
-    target 86
-    rank 11
-  ]
-  edge
-  [
-    source 126
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 128
-    target 70
-    rank 15
-  ]
-  edge
-  [
-    source 129
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 129
-    target 68
-    rank 6
-  ]
-  edge
-  [
-    source 129
-    target 139
-    rank 9
-  ]
-  edge
-  [
-    source 129
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 129
-    target 57
+    target 51
     rank 13
   ]
   edge
   [
-    source 129
-    target 154
+    source 110
+    target 85
     rank 14
   ]
   edge
   [
-    source 129
-    target 100
-    rank 15
+    source 110
+    target 99
+    rank 16
   ]
   edge
   [
-    source 129
-    target 83
-    rank 18
-  ]
-  edge
-  [
-    source 129
-    target 109
-    rank 19
-  ]
-  edge
-  [
-    source 130
-    target 0
-    rank 9
-  ]
-  edge
-  [
-    source 131
-    target 81
-    rank 4
-  ]
-  edge
-  [
-    source 131
-    target 64
-    rank 5
-  ]
-  edge
-  [
-    source 132
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 132
-    target 7
-    rank 3
-  ]
-  edge
-  [
-    source 132
-    target 21
-    rank 4
-  ]
-  edge
-  [
-    source 132
-    target 73
-    rank 5
-  ]
-  edge
-  [
-    source 132
-    target 110
-    rank 6
-  ]
-  edge
-  [
-    source 132
-    target 250
-    rank 10
-  ]
-  edge
-  [
-    source 132
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 132
-    target 97
+    source 110
+    target 78
     rank 17
   ]
   edge
   [
-    source 132
-    target 167
+    source 110
+    target 141
     rank 18
   ]
   edge
   [
-    source 133
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 133
-    target 119
-    rank 18
-  ]
-  edge
-  [
-    source 134
-    target 7
-    rank 2
-  ]
-  edge
-  [
-    source 134
-    target 21
-    rank 3
-  ]
-  edge
-  [
-    source 134
-    target 73
-    rank 4
-  ]
-  edge
-  [
-    source 134
-    target 3
-    rank 5
-  ]
-  edge
-  [
-    source 134
-    target 110
-    rank 6
-  ]
-  edge
-  [
-    source 135
-    target 1
-    rank 7
-  ]
-  edge
-  [
-    source 135
-    target 187
-    rank 14
-  ]
-  edge
-  [
-    source 135
-    target 19
-    rank 16
-  ]
-  edge
-  [
-    source 136
-    target 21
-    rank 13
-  ]
-  edge
-  [
-    source 136
-    target 73
-    rank 16
-  ]
-  edge
-  [
-    source 137
-    target 86
-    rank 9
-  ]
-  edge
-  [
-    source 137
-    target 19
-    rank 13
-  ]
-  edge
-  [
-    source 137
-    target 3
-    rank 17
-  ]
-  edge
-  [
-    source 138
-    target 81
-    rank 12
-  ]
-  edge
-  [
-    source 138
-    target 214
-    rank 16
-  ]
-  edge
-  [
-    source 138
-    target 64
-    rank 18
-  ]
-  edge
-  [
-    source 139
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 139
-    target 1
-    rank 15
-  ]
-  edge
-  [
-    source 139
-    target 7
-    rank 19
-  ]
-  edge
-  [
-    source 141
-    target 56
-    rank 5
-  ]
-  edge
-  [
-    source 141
-    target 86
-    rank 10
-  ]
-  edge
-  [
-    source 141
-    target 194
-    rank 11
-  ]
-  edge
-  [
-    source 141
-    target 189
-    rank 12
-  ]
-  edge
-  [
-    source 143
-    target 18
-    rank 7
-  ]
-  edge
-  [
-    source 144
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 145
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 145
-    target 1
-    rank 9
-  ]
-  edge
-  [
-    source 145
-    target 14
-    rank 16
-  ]
-  edge
-  [
-    source 145
-    target 37
-    rank 19
-  ]
-  edge
-  [
-    source 145
-    target 139
-    rank 20
-  ]
-  edge
-  [
-    source 146
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 146
-    target 7
-    rank 3
-  ]
-  edge
-  [
-    source 146
-    target 21
-    rank 5
-  ]
-  edge
-  [
-    source 146
-    target 3
-    rank 10
-  ]
-  edge
-  [
-    source 146
-    target 64
-    rank 14
-  ]
-  edge
-  [
-    source 146
-    target 81
-    rank 15
-  ]
-  edge
-  [
-    source 147
-    target 17
-    rank 8
-  ]
-  edge
-  [
-    source 147
-    target 170
-    rank 12
-  ]
-  edge
-  [
-    source 148
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 148
-    target 98
-    rank 9
-  ]
-  edge
-  [
-    source 149
-    target 24
-    rank 5
-  ]
-  edge
-  [
-    source 149
-    target 165
-    rank 9
-  ]
-  edge
-  [
-    source 152
-    target 17
-    rank 5
-  ]
-  edge
-  [
-    source 153
-    target 5
-    rank 16
-  ]
-  edge
-  [
-    source 154
-    target 74
-    rank 19
-  ]
-  edge
-  [
-    source 155
-    target 62
-    rank 3
-  ]
-  edge
-  [
-    source 155
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 156
-    target 6
-    rank 1
-  ]
-  edge
-  [
-    source 156
-    target 35
-    rank 4
-  ]
-  edge
-  [
-    source 157
-    target 127
-    rank 17
-  ]
-  edge
-  [
-    source 157
-    target 19
-    rank 18
-  ]
-  edge
-  [
-    source 158
-    target 6
-    rank 5
-  ]
-  edge
-  [
-    source 159
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 160
-    target 120
-    rank 1
-  ]
-  edge
-  [
-    source 160
-    target 17
-    rank 2
-  ]
-  edge
-  [
-    source 160
-    target 81
-    rank 10
-  ]
-  edge
-  [
-    source 160
-    target 192
-    rank 11
-  ]
-  edge
-  [
-    source 161
-    target 165
-    rank 1
-  ]
-  edge
-  [
-    source 162
-    target 208
-    rank 7
-  ]
-  edge
-  [
-    source 162
-    target 154
-    rank 12
-  ]
-  edge
-  [
-    source 162
-    target 83
-    rank 16
-  ]
-  edge
-  [
-    source 162
-    target 151
-    rank 20
-  ]
-  edge
-  [
-    source 163
-    target 19
-    rank 10
-  ]
-  edge
-  [
-    source 163
-    target 142
-    rank 11
-  ]
-  edge
-  [
-    source 164
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 164
-    target 74
-    rank 5
-  ]
-  edge
-  [
-    source 164
-    target 147
-    rank 6
-  ]
-  edge
-  [
-    source 164
-    target 97
-    rank 7
-  ]
-  edge
-  [
-    source 164
-    target 214
-    rank 9
-  ]
-  edge
-  [
-    source 164
-    target 165
-    rank 10
-  ]
-  edge
-  [
-    source 164
-    target 64
-    rank 11
-  ]
-  edge
-  [
-    source 164
-    target 220
-    rank 12
-  ]
-  edge
-  [
-    source 164
-    target 250
-    rank 14
-  ]
-  edge
-  [
-    source 164
-    target 211
-    rank 15
-  ]
-  edge
-  [
-    source 165
-    target 46
-    rank 9
-  ]
-  edge
-  [
-    source 165
-    target 24
-    rank 11
-  ]
-  edge
-  [
-    source 165
-    target 13
-    rank 14
-  ]
-  edge
-  [
-    source 166
-    target 24
-    rank 12
-  ]
-  edge
-  [
-    source 166
-    target 19
-    rank 15
-  ]
-  edge
-  [
-    source 166
-    target 165
-    rank 16
-  ]
-  edge
-  [
-    source 166
-    target 189
-    rank 18
-  ]
-  edge
-  [
-    source 167
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 167
-    target 3
-    rank 13
-  ]
-  edge
-  [
-    source 168
-    target 15
-    rank 1
-  ]
-  edge
-  [
-    source 169
-    target 3
-    rank 18
-  ]
-  edge
-  [
-    source 170
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 172
-    target 77
-    rank 1
-  ]
-  edge
-  [
-    source 173
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 173
-    target 1
-    rank 5
-  ]
-  edge
-  [
-    source 173
-    target 77
-    rank 7
-  ]
-  edge
-  [
-    source 173
-    target 17
-    rank 9
-  ]
-  edge
-  [
-    source 174
-    target 1
-    rank 6
-  ]
-  edge
-  [
-    source 175
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 175
-    target 1
-    rank 4
-  ]
-  edge
-  [
-    source 175
-    target 74
-    rank 15
-  ]
-  edge
-  [
-    source 175
-    target 17
-    rank 16
-  ]
-  edge
-  [
-    source 175
-    target 102
-    rank 17
-  ]
-  edge
-  [
-    source 175
-    target 19
-    rank 20
-  ]
-  edge
-  [
-    source 176
-    target 102
-    rank 10
-  ]
-  edge
-  [
-    source 177
-    target 5
-    rank 3
-  ]
-  edge
-  [
-    source 177
-    target 142
-    rank 4
-  ]
-  edge
-  [
-    source 178
-    target 235
-    rank 4
-  ]
-  edge
-  [
-    source 178
-    target 0
-    rank 9
-  ]
-  edge
-  [
-    source 179
-    target 102
-    rank 13
-  ]
-  edge
-  [
-    source 179
-    target 231
-    rank 16
-  ]
-  edge
-  [
-    source 179
-    target 64
-    rank 17
-  ]
-  edge
-  [
-    source 179
-    target 214
-    rank 18
-  ]
-  edge
-  [
-    source 179
-    target 220
-    rank 20
-  ]
-  edge
-  [
-    source 180
-    target 24
-    rank 8
-  ]
-  edge
-  [
-    source 181
-    target 189
-    rank 19
-  ]
-  edge
-  [
-    source 182
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 182
-    target 74
-    rank 9
-  ]
-  edge
-  [
-    source 182
-    target 147
-    rank 10
-  ]
-  edge
-  [
-    source 182
-    target 102
-    rank 12
-  ]
-  edge
-  [
-    source 182
-    target 97
-    rank 14
-  ]
-  edge
-  [
-    source 182
-    target 124
-    rank 15
-  ]
-  edge
-  [
-    source 182
-    target 167
-    rank 19
-  ]
-  edge
-  [
-    source 183
-    target 74
-    rank 1
-  ]
-  edge
-  [
-    source 183
-    target 81
-    rank 12
-  ]
-  edge
-  [
-    source 184
-    target 142
-    rank 8
-  ]
-  edge
-  [
-    source 186
-    target 74
-    rank 1
-  ]
-  edge
-  [
-    source 186
-    target 102
-    rank 2
-  ]
-  edge
-  [
-    source 186
-    target 147
-    rank 7
-  ]
-  edge
-  [
-    source 186
-    target 124
-    rank 16
-  ]
-  edge
-  [
-    source 186
+    source 110
     target 209
     rank 19
   ]
   edge
   [
-    source 187
-    target 208
-    rank 11
-  ]
-  edge
-  [
-    source 188
-    target 19
-    rank 7
-  ]
-  edge
-  [
-    source 188
-    target 191
-    rank 8
-  ]
-  edge
-  [
-    source 188
-    target 3
-    rank 14
-  ]
-  edge
-  [
-    source 189
-    target 56
-    rank 3
-  ]
-  edge
-  [
-    source 190
-    target 74
-    rank 3
-  ]
-  edge
-  [
-    source 190
-    target 147
-    rank 4
-  ]
-  edge
-  [
-    source 190
-    target 124
-    rank 7
-  ]
-  edge
-  [
-    source 190
-    target 102
-    rank 10
-  ]
-  edge
-  [
-    source 192
-    target 165
-    rank 6
-  ]
-  edge
-  [
-    source 192
-    target 17
-    rank 19
-  ]
-  edge
-  [
-    source 193
-    target 86
-    rank 8
-  ]
-  edge
-  [
-    source 193
-    target 140
-    rank 10
-  ]
-  edge
-  [
-    source 193
-    target 119
-    rank 20
-  ]
-  edge
-  [
-    source 195
-    target 7
-    rank 2
-  ]
-  edge
-  [
-    source 195
-    target 21
-    rank 3
-  ]
-  edge
-  [
-    source 195
-    target 73
-    rank 4
-  ]
-  edge
-  [
-    source 195
-    target 110
-    rank 5
-  ]
-  edge
-  [
-    source 195
-    target 192
-    rank 11
-  ]
-  edge
-  [
-    source 195
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 197
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 197
-    target 1
-    rank 5
-  ]
-  edge
-  [
-    source 197
-    target 3
-    rank 7
-  ]
-  edge
-  [
-    source 197
-    target 59
-    rank 8
-  ]
-  edge
-  [
-    source 197
-    target 17
+    source 112
+    target 16
     rank 9
   ]
   edge
   [
-    source 197
-    target 19
-    rank 13
-  ]
-  edge
-  [
-    source 197
-    target 170
-    rank 16
-  ]
-  edge
-  [
-    source 197
-    target 4
-    rank 18
-  ]
-  edge
-  [
-    source 198
-    target 0
-    rank 16
-  ]
-  edge
-  [
-    source 199
-    target 2
-    rank 3
-  ]
-  edge
-  [
-    source 199
-    target 74
-    rank 4
-  ]
-  edge
-  [
-    source 199
-    target 147
-    rank 5
-  ]
-  edge
-  [
-    source 199
-    target 102
-    rank 7
-  ]
-  edge
-  [
-    source 199
-    target 124
-    rank 8
-  ]
-  edge
-  [
-    source 200
-    target 74
-    rank 3
-  ]
-  edge
-  [
-    source 200
-    target 0
-    rank 7
-  ]
-  edge
-  [
-    source 200
-    target 102
-    rank 8
-  ]
-  edge
-  [
-    source 201
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 201
+    source 112
     target 3
-    rank 4
-  ]
-  edge
-  [
-    source 201
-    target 74
-    rank 5
-  ]
-  edge
-  [
-    source 201
-    target 102
-    rank 6
-  ]
-  edge
-  [
-    source 201
-    target 147
-    rank 8
-  ]
-  edge
-  [
-    source 201
-    target 214
     rank 10
   ]
   edge
   [
-    source 201
-    target 64
-    rank 11
-  ]
-  edge
-  [
-    source 201
-    target 204
-    rank 12
-  ]
-  edge
-  [
-    source 201
-    target 174
-    rank 13
-  ]
-  edge
-  [
-    source 201
-    target 207
+    source 113
+    target 28
     rank 17
   ]
   edge
   [
-    source 201
-    target 185
-    rank 19
-  ]
-  edge
-  [
-    source 202
-    target 65
-    rank 1
-  ]
-  edge
-  [
-    source 203
-    target 1
-    rank 1
-  ]
-  edge
-  [
-    source 203
-    target 192
-    rank 12
-  ]
-  edge
-  [
-    source 205
-    target 74
-    rank 14
-  ]
-  edge
-  [
-    source 205
-    target 147
-    rank 15
-  ]
-  edge
-  [
-    source 205
-    target 124
-    rank 19
-  ]
-  edge
-  [
-    source 206
-    target 1
-    rank 9
-  ]
-  edge
-  [
-    source 206
-    target 0
-    rank 14
-  ]
-  edge
-  [
-    source 206
-    target 59
-    rank 16
-  ]
-  edge
-  [
-    source 207
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 207
-    target 127
-    rank 2
-  ]
-  edge
-  [
-    source 207
-    target 102
-    rank 6
-  ]
-  edge
-  [
-    source 207
-    target 147
-    rank 9
-  ]
-  edge
-  [
-    source 207
-    target 192
-    rank 11
-  ]
-  edge
-  [
-    source 207
-    target 124
-    rank 19
-  ]
-  edge
-  [
-    source 208
-    target 162
-    rank 8
-  ]
-  edge
-  [
-    source 209
-    target 37
-    rank 11
-  ]
-  edge
-  [
-    source 209
-    target 139
-    rank 12
-  ]
-  edge
-  [
-    source 209
-    target 74
-    rank 13
-  ]
-  edge
-  [
-    source 209
-    target 14
-    rank 14
-  ]
-  edge
-  [
-    source 209
-    target 62
-    rank 15
-  ]
-  edge
-  [
-    source 209
-    target 100
-    rank 17
-  ]
-  edge
-  [
-    source 209
-    target 83
-    rank 18
-  ]
-  edge
-  [
-    source 209
-    target 154
-    rank 19
-  ]
-  edge
-  [
-    source 209
-    target 57
-    rank 20
-  ]
-  edge
-  [
-    source 210
-    target 185
-    rank 1
-  ]
-  edge
-  [
-    source 210
-    target 2
-    rank 2
-  ]
-  edge
-  [
-    source 211
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 211
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 211
-    target 102
-    rank 6
-  ]
-  edge
-  [
-    source 211
-    target 65
-    rank 10
-  ]
-  edge
-  [
-    source 211
-    target 64
-    rank 18
-  ]
-  edge
-  [
-    source 212
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 212
-    target 170
-    rank 7
-  ]
-  edge
-  [
-    source 212
-    target 19
-    rank 8
-  ]
-  edge
-  [
-    source 212
-    target 165
-    rank 11
-  ]
-  edge
-  [
-    source 212
-    target 167
-    rank 12
-  ]
-  edge
-  [
-    source 212
-    target 4
-    rank 18
-  ]
-  edge
-  [
-    source 213
-    target 19
-    rank 1
-  ]
-  edge
-  [
-    source 213
-    target 97
-    rank 5
-  ]
-  edge
-  [
-    source 213
-    target 175
-    rank 6
-  ]
-  edge
-  [
-    source 213
-    target 220
-    rank 7
-  ]
-  edge
-  [
-    source 213
-    target 64
-    rank 8
-  ]
-  edge
-  [
-    source 213
-    target 0
-    rank 9
-  ]
-  edge
-  [
-    source 213
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 213
-    target 102
-    rank 17
-  ]
-  edge
-  [
-    source 213
-    target 81
-    rank 18
-  ]
-  edge
-  [
-    source 213
-    target 167
-    rank 20
-  ]
-  edge
-  [
-    source 214
-    target 0
-    rank 5
-  ]
-  edge
-  [
-    source 215
-    target 4
-    rank 16
-  ]
-  edge
-  [
-    source 216
-    target 165
-    rank 3
-  ]
-  edge
-  [
-    source 217
-    target 102
-    rank 5
-  ]
-  edge
-  [
-    source 217
-    target 191
-    rank 18
-  ]
-  edge
-  [
-    source 217
+    source 113
     target 107
     rank 19
   ]
   edge
   [
-    source 217
-    target 124
+    source 113
+    target 22
     rank 20
   ]
   edge
   [
-    source 218
-    target 148
-    rank 12
+    source 115
+    target 74
+    rank 3
   ]
   edge
   [
-    source 218
-    target 147
-    rank 15
+    source 115
+    target 28
+    rank 5
   ]
   edge
   [
-    source 218
-    target 124
-    rank 20
+    source 117
+    target 0
+    rank 1
   ]
   edge
   [
-    source 219
-    target 13
-    rank 8
+    source 117
+    target 17
+    rank 3
   ]
   edge
   [
-    source 219
-    target 120
+    source 117
+    target 23
     rank 10
   ]
   edge
   [
-    source 219
-    target 142
-    rank 11
-  ]
-  edge
-  [
-    source 219
-    target 147
+    source 117
+    target 73
     rank 12
   ]
   edge
   [
-    source 219
-    target 64
+    source 117
+    target 85
     rank 19
   ]
   edge
   [
-    source 220
+    source 119
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 119
+    target 203
+    rank 15
+  ]
+  edge
+  [
+    source 119
+    target 239
+    rank 20
+  ]
+  edge
+  [
+    source 120
+    target 203
+    rank 9
+  ]
+  edge
+  [
+    source 120
+    target 284
+    rank 11
+  ]
+  edge
+  [
+    source 121
+    target 124
+    rank 5
+  ]
+  edge
+  [
+    source 121
+    target 97
+    rank 11
+  ]
+  edge
+  [
+    source 121
+    target 354
+    rank 16
+  ]
+  edge
+  [
+    source 121
+    target 150
+    rank 17
+  ]
+  edge
+  [
+    source 122
     target 74
-    rank 2
+    rank 7
   ]
   edge
   [
-    source 221
-    target 0
-    rank 2
+    source 124
+    target 97
+    rank 4
   ]
   edge
   [
-    source 222
-    target 127
+    source 124
+    target 354
+    rank 10
+  ]
+  edge
+  [
+    source 126
+    target 74
     rank 13
   ]
   edge
   [
-    source 222
-    target 74
+    source 128
+    target 52
+    rank 7
+  ]
+  edge
+  [
+    source 128
+    target 63
+    rank 11
+  ]
+  edge
+  [
+    source 128
+    target 23
+    rank 12
+  ]
+  edge
+  [
+    source 128
+    target 101
+    rank 13
+  ]
+  edge
+  [
+    source 128
+    target 45
+    rank 15
+  ]
+  edge
+  [
+    source 128
+    target 72
+    rank 16
+  ]
+  edge
+  [
+    source 128
+    target 93
+    rank 17
+  ]
+  edge
+  [
+    source 128
+    target 90
+    rank 18
+  ]
+  edge
+  [
+    source 132
+    target 22
+    rank 10
+  ]
+  edge
+  [
+    source 134
+    target 66
+    rank 7
+  ]
+  edge
+  [
+    source 134
+    target 47
+    rank 8
+  ]
+  edge
+  [
+    source 134
+    target 71
+    rank 9
+  ]
+  edge
+  [
+    source 135
+    target 191
+    rank 9
+  ]
+  edge
+  [
+    source 135
+    target 50
+    rank 10
+  ]
+  edge
+  [
+    source 135
+    target 91
+    rank 11
+  ]
+  edge
+  [
+    source 135
+    target 51
     rank 14
   ]
   edge
   [
-    source 223
-    target 102
+    source 135
+    target 78
+    rank 15
+  ]
+  edge
+  [
+    source 135
+    target 22
+    rank 17
+  ]
+  edge
+  [
+    source 135
+    target 152
+    rank 18
+  ]
+  edge
+  [
+    source 135
+    target 110
+    rank 19
+  ]
+  edge
+  [
+    source 137
+    target 21
+    rank 5
+  ]
+  edge
+  [
+    source 139
+    target 110
     rank 2
   ]
   edge
   [
-    source 224
-    target 0
+    source 139
+    target 203
+    rank 12
+  ]
+  edge
+  [
+    source 139
+    target 91
+    rank 13
+  ]
+  edge
+  [
+    source 139
+    target 191
+    rank 14
+  ]
+  edge
+  [
+    source 139
+    target 50
+    rank 16
+  ]
+  edge
+  [
+    source 139
+    target 85
+    rank 17
+  ]
+  edge
+  [
+    source 139
+    target 152
+    rank 18
+  ]
+  edge
+  [
+    source 139
+    target 141
+    rank 20
+  ]
+  edge
+  [
+    source 141
+    target 132
+    rank 3
+  ]
+  edge
+  [
+    source 141
+    target 91
+    rank 11
+  ]
+  edge
+  [
+    source 141
+    target 50
+    rank 12
+  ]
+  edge
+  [
+    source 141
+    target 191
+    rank 14
+  ]
+  edge
+  [
+    source 141
+    target 51
+    rank 18
+  ]
+  edge
+  [
+    source 142
+    target 284
+    rank 11
+  ]
+  edge
+  [
+    source 143
+    target 108
+    rank 13
+  ]
+  edge
+  [
+    source 144
+    target 147
+    rank 1
+  ]
+  edge
+  [
+    source 144
+    target 230
+    rank 3
+  ]
+  edge
+  [
+    source 144
+    target 327
+    rank 6
+  ]
+  edge
+  [
+    source 144
+    target 87
+    rank 8
+  ]
+  edge
+  [
+    source 144
+    target 108
+    rank 9
+  ]
+  edge
+  [
+    source 145
+    target 237
     rank 10
+  ]
+  edge
+  [
+    source 145
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 146
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 146
+    target 28
+    rank 9
+  ]
+  edge
+  [
+    source 146
+    target 237
+    rank 18
+  ]
+  edge
+  [
+    source 147
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 147
+    target 91
+    rank 7
+  ]
+  edge
+  [
+    source 147
+    target 50
+    rank 8
+  ]
+  edge
+  [
+    source 147
+    target 191
+    rank 9
+  ]
+  edge
+  [
+    source 147
+    target 51
+    rank 12
+  ]
+  edge
+  [
+    source 147
+    target 78
+    rank 14
+  ]
+  edge
+  [
+    source 147
+    target 217
+    rank 16
+  ]
+  edge
+  [
+    source 147
+    target 141
+    rank 17
+  ]
+  edge
+  [
+    source 147
+    target 110
+    rank 18
+  ]
+  edge
+  [
+    source 147
+    target 99
+    rank 19
+  ]
+  edge
+  [
+    source 147
+    target 85
+    rank 20
+  ]
+  edge
+  [
+    source 153
+    target 7
+    rank 7
+  ]
+  edge
+  [
+    source 153
+    target 25
+    rank 9
+  ]
+  edge
+  [
+    source 153
+    target 102
+    rank 11
+  ]
+  edge
+  [
+    source 153
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 153
+    target 98
+    rank 14
+  ]
+  edge
+  [
+    source 154
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 155
+    target 209
+    rank 1
+  ]
+  edge
+  [
+    source 155
+    target 0
+    rank 5
+  ]
+  edge
+  [
+    source 155
+    target 203
+    rank 7
+  ]
+  edge
+  [
+    source 155
+    target 217
+    rank 16
+  ]
+  edge
+  [
+    source 155
+    target 85
+    rank 17
+  ]
+  edge
+  [
+    source 155
+    target 51
+    rank 20
+  ]
+  edge
+  [
+    source 156
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 156
+    target 1
+    rank 16
+  ]
+  edge
+  [
+    source 157
+    target 159
+    rank 1
+  ]
+  edge
+  [
+    source 157
+    target 110
+    rank 9
+  ]
+  edge
+  [
+    source 157
+    target 98
+    rank 15
+  ]
+  edge
+  [
+    source 158
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 159
+    target 110
+    rank 3
+  ]
+  edge
+  [
+    source 159
+    target 99
+    rank 4
+  ]
+  edge
+  [
+    source 160
+    target 93
+    rank 6
+  ]
+  edge
+  [
+    source 160
+    target 23
+    rank 7
+  ]
+  edge
+  [
+    source 160
+    target 63
+    rank 12
+  ]
+  edge
+  [
+    source 160
+    target 45
+    rank 15
+  ]
+  edge
+  [
+    source 160
+    target 101
+    rank 16
+  ]
+  edge
+  [
+    source 160
+    target 90
+    rank 19
+  ]
+  edge
+  [
+    source 161
+    target 52
+    rank 6
+  ]
+  edge
+  [
+    source 161
+    target 23
+    rank 8
+  ]
+  edge
+  [
+    source 161
+    target 45
+    rank 10
+  ]
+  edge
+  [
+    source 161
+    target 101
+    rank 17
+  ]
+  edge
+  [
+    source 163
+    target 135
+    rank 11
+  ]
+  edge
+  [
+    source 163
+    target 99
+    rank 18
+  ]
+  edge
+  [
+    source 163
+    target 149
+    rank 19
+  ]
+  edge
+  [
+    source 164
+    target 7
+    rank 1
+  ]
+  edge
+  [
+    source 164
+    target 25
+    rank 2
+  ]
+  edge
+  [
+    source 164
+    target 87
+    rank 4
+  ]
+  edge
+  [
+    source 164
+    target 3
+    rank 6
+  ]
+  edge
+  [
+    source 164
+    target 108
+    rank 9
+  ]
+  edge
+  [
+    source 167
+    target 203
+    rank 5
+  ]
+  edge
+  [
+    source 167
+    target 108
+    rank 6
+  ]
+  edge
+  [
+    source 167
+    target 87
+    rank 7
+  ]
+  edge
+  [
+    source 167
+    target 311
+    rank 10
+  ]
+  edge
+  [
+    source 168
+    target 91
+    rank 19
+  ]
+  edge
+  [
+    source 169
+    target 1
+    rank 5
+  ]
+  edge
+  [
+    source 170
+    target 237
+    rank 3
+  ]
+  edge
+  [
+    source 170
+    target 209
+    rank 6
+  ]
+  edge
+  [
+    source 170
+    target 115
+    rank 11
+  ]
+  edge
+  [
+    source 172
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 175
+    target 93
+    rank 15
+  ]
+  edge
+  [
+    source 177
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 177
+    target 91
+    rank 6
+  ]
+  edge
+  [
+    source 177
+    target 191
+    rank 9
+  ]
+  edge
+  [
+    source 177
+    target 50
+    rank 11
+  ]
+  edge
+  [
+    source 177
+    target 78
+    rank 13
+  ]
+  edge
+  [
+    source 177
+    target 217
+    rank 14
+  ]
+  edge
+  [
+    source 177
+    target 141
+    rank 15
+  ]
+  edge
+  [
+    source 177
+    target 110
+    rank 18
+  ]
+  edge
+  [
+    source 177
+    target 152
+    rank 19
+  ]
+  edge
+  [
+    source 180
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 181
+    target 108
+    rank 4
+  ]
+  edge
+  [
+    source 181
+    target 87
+    rank 5
+  ]
+  edge
+  [
+    source 182
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 182
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 182
+    target 25
+    rank 4
+  ]
+  edge
+  [
+    source 182
+    target 98
+    rank 5
+  ]
+  edge
+  [
+    source 182
+    target 153
+    rank 6
+  ]
+  edge
+  [
+    source 182
+    target 428
+    rank 10
+  ]
+  edge
+  [
+    source 182
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 182
+    target 135
+    rank 17
+  ]
+  edge
+  [
+    source 182
+    target 239
+    rank 18
+  ]
+  edge
+  [
+    source 183
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 183
+    target 162
+    rank 18
+  ]
+  edge
+  [
+    source 184
+    target 7
+    rank 2
+  ]
+  edge
+  [
+    source 184
+    target 25
+    rank 3
+  ]
+  edge
+  [
+    source 184
+    target 98
+    rank 4
+  ]
+  edge
+  [
+    source 184
+    target 3
+    rank 5
+  ]
+  edge
+  [
+    source 184
+    target 153
+    rank 6
+  ]
+  edge
+  [
+    source 185
+    target 1
+    rank 7
+  ]
+  edge
+  [
+    source 185
+    target 276
+    rank 14
+  ]
+  edge
+  [
+    source 185
+    target 22
+    rank 16
+  ]
+  edge
+  [
+    source 187
+    target 25
+    rank 13
+  ]
+  edge
+  [
+    source 187
+    target 98
+    rank 16
+  ]
+  edge
+  [
+    source 189
+    target 115
+    rank 9
+  ]
+  edge
+  [
+    source 189
+    target 22
+    rank 13
+  ]
+  edge
+  [
+    source 189
+    target 3
+    rank 17
+  ]
+  edge
+  [
+    source 190
+    target 108
+    rank 12
+  ]
+  edge
+  [
+    source 190
+    target 318
+    rank 16
+  ]
+  edge
+  [
+    source 190
+    target 87
+    rank 18
+  ]
+  edge
+  [
+    source 191
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 191
+    target 1
+    rank 15
+  ]
+  edge
+  [
+    source 191
+    target 7
+    rank 19
+  ]
+  edge
+  [
+    source 194
+    target 74
+    rank 5
+  ]
+  edge
+  [
+    source 194
+    target 115
+    rank 10
+  ]
+  edge
+  [
+    source 194
+    target 284
+    rank 11
+  ]
+  edge
+  [
+    source 194
+    target 279
+    rank 12
+  ]
+  edge
+  [
+    source 197
+    target 21
+    rank 7
+  ]
+  edge
+  [
+    source 198
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 201
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 201
+    target 1
+    rank 9
+  ]
+  edge
+  [
+    source 201
+    target 16
+    rank 16
+  ]
+  edge
+  [
+    source 201
+    target 50
+    rank 19
+  ]
+  edge
+  [
+    source 201
+    target 191
+    rank 20
+  ]
+  edge
+  [
+    source 202
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 202
+    target 7
+    rank 3
+  ]
+  edge
+  [
+    source 202
+    target 25
+    rank 5
+  ]
+  edge
+  [
+    source 202
+    target 3
+    rank 10
+  ]
+  edge
+  [
+    source 202
+    target 87
+    rank 14
+  ]
+  edge
+  [
+    source 202
+    target 108
+    rank 15
+  ]
+  edge
+  [
+    source 203
+    target 20
+    rank 8
+  ]
+  edge
+  [
+    source 203
+    target 243
+    rank 12
+  ]
+  edge
+  [
+    source 204
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 204
+    target 137
+    rank 9
+  ]
+  edge
+  [
+    source 205
+    target 28
+    rank 5
+  ]
+  edge
+  [
+    source 205
+    target 237
+    rank 9
+  ]
+  edge
+  [
+    source 211
+    target 20
+    rank 5
+  ]
+  edge
+  [
+    source 212
+    target 5
+    rank 16
+  ]
+  edge
+  [
+    source 217
+    target 99
+    rank 19
+  ]
+  edge
+  [
+    source 219
+    target 85
+    rank 3
+  ]
+  edge
+  [
+    source 219
+    target 3
+    rank 14
+  ]
+  edge
+  [
+    source 221
+    target 6
+    rank 1
+  ]
+  edge
+  [
+    source 221
+    target 47
+    rank 4
+  ]
+  edge
+  [
+    source 223
+    target 173
+    rank 17
+  ]
+  edge
+  [
+    source 223
+    target 22
+    rank 18
+  ]
+  edge
+  [
+    source 224
+    target 6
+    rank 5
   ]
   edge
   [
     source 225
     target 0
-    rank 2
-  ]
-  edge
-  [
-    source 226
-    target 37
-    rank 6
-  ]
-  edge
-  [
-    source 226
-    target 68
-    rank 7
-  ]
-  edge
-  [
-    source 226
-    target 139
-    rank 10
-  ]
-  edge
-  [
-    source 226
-    target 74
-    rank 11
-  ]
-  edge
-  [
-    source 226
-    target 100
-    rank 13
-  ]
-  edge
-  [
-    source 226
-    target 154
-    rank 14
-  ]
-  edge
-  [
-    source 226
-    target 109
-    rank 15
-  ]
-  edge
-  [
-    source 226
-    target 57
-    rank 16
-  ]
-  edge
-  [
-    source 226
-    target 83
-    rank 19
-  ]
-  edge
-  [
-    source 226
-    target 62
-    rank 20
+    rank 1
   ]
   edge
   [
     source 227
-    target 3
-    rank 20
+    target 163
+    rank 1
   ]
   edge
   [
-    source 228
-    target 97
-    rank 16
+    source 227
+    target 20
+    rank 2
   ]
   edge
   [
-    source 228
-    target 64
-    rank 18
+    source 227
+    target 108
+    rank 10
   ]
   edge
   [
-    source 228
-    target 0
-    rank 20
+    source 227
+    target 282
+    rank 11
   ]
   edge
   [
     source 229
-    target 17
-    rank 15
+    target 237
+    rank 1
   ]
   edge
   [
     source 230
-    target 17
-    rank 17
-  ]
-  edge
-  [
-    source 231
-    target 196
+    target 305
     rank 7
   ]
   edge
   [
-    source 231
-    target 214
-    rank 11
-  ]
-  edge
-  [
-    source 231
-    target 64
+    source 230
+    target 217
     rank 12
   ]
   edge
   [
-    source 232
-    target 74
-    rank 14
+    source 230
+    target 110
+    rank 16
   ]
   edge
   [
-    source 233
-    target 3
-    rank 3
+    source 230
+    target 209
+    rank 20
+  ]
+  edge
+  [
+    source 231
+    target 22
+    rank 10
+  ]
+  edge
+  [
+    source 231
+    target 195
+    rank 11
   ]
   edge
   [
     source 234
-    target 92
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 234
+    target 99
+    rank 5
+  ]
+  edge
+  [
+    source 234
+    target 203
     rank 6
   ]
   edge
   [
-    source 235
-    target 97
-    rank 6
-  ]
-  edge
-  [
-    source 235
-    target 170
+    source 234
+    target 135
     rank 7
   ]
   edge
   [
-    source 235
-    target 0
-    rank 20
+    source 234
+    target 318
+    rank 9
   ]
   edge
   [
-    source 236
-    target 64
-    rank 5
+    source 234
+    target 237
+    rank 10
+  ]
+  edge
+  [
+    source 234
+    target 87
+    rank 11
+  ]
+  edge
+  [
+    source 234
+    target 327
+    rank 12
+  ]
+  edge
+  [
+    source 234
+    target 428
+    rank 14
+  ]
+  edge
+  [
+    source 234
+    target 311
+    rank 15
   ]
   edge
   [
     source 237
-    target 24
-    rank 20
+    target 63
+    rank 9
+  ]
+  edge
+  [
+    source 237
+    target 28
+    rank 11
+  ]
+  edge
+  [
+    source 237
+    target 15
+    rank 14
   ]
   edge
   [
     source 238
-    target 24
-    rank 20
+    target 28
+    rank 12
   ]
   edge
   [
-    source 239
-    target 1
-    rank 1
+    source 238
+    target 22
+    rank 15
+  ]
+  edge
+  [
+    source 238
+    target 237
+    rank 16
+  ]
+  edge
+  [
+    source 238
+    target 279
+    rank 18
   ]
   edge
   [
@@ -13055,81 +10967,33 @@ graph
   ]
   edge
   [
-    source 240
-    target 24
-    rank 5
-  ]
-  edge
-  [
-    source 241
-    target 19
-    rank 4
-  ]
-  edge
-  [
-    source 241
-    target 102
-    rank 5
-  ]
-  edge
-  [
-    source 241
-    target 81
-    rank 12
-  ]
-  edge
-  [
-    source 241
-    target 2
-    rank 14
-  ]
-  edge
-  [
-    source 241
-    target 108
-    rank 17
-  ]
-  edge
-  [
-    source 242
-    target 181
-    rank 8
-  ]
-  edge
-  [
-    source 242
-    target 1
+    source 239
+    target 3
     rank 13
+  ]
+  edge
+  [
+    source 241
+    target 17
+    rank 1
+  ]
+  edge
+  [
+    source 242
+    target 3
+    rank 18
   ]
   edge
   [
     source 243
-    target 140
-    rank 11
-  ]
-  edge
-  [
-    source 244
-    target 97
-    rank 7
-  ]
-  edge
-  [
-    source 244
-    target 218
-    rank 10
-  ]
-  edge
-  [
-    source 244
     target 0
-    rank 18
+    rank 3
   ]
   edge
   [
     source 245
-    target 3
-    rank 15
+    target 102
+    rank 1
   ]
   edge
   [
@@ -13140,1093 +11004,2287 @@ graph
   edge
   [
     source 246
-    target 17
-    rank 16
+    target 1
+    rank 5
   ]
   edge
   [
-    source 247
-    target 79
+    source 246
+    target 102
+    rank 7
+  ]
+  edge
+  [
+    source 246
+    target 20
     rank 9
   ]
   edge
   [
-    source 247
-    target 64
-    rank 10
-  ]
-  edge
-  [
-    source 247
-    target 167
-    rank 14
-  ]
-  edge
-  [
-    source 247
-    target 0
-    rank 16
-  ]
-  edge
-  [
     source 248
-    target 220
-    rank 4
-  ]
-  edge
-  [
-    source 248
-    target 81
+    target 1
     rank 6
   ]
   edge
   [
-    source 248
-    target 192
-    rank 7
-  ]
-  edge
-  [
-    source 249
-    target 0
-    rank 3
-  ]
-  edge
-  [
-    source 249
-    target 1
-    rank 14
-  ]
-  edge
-  [
     source 250
-    target 2
+    target 0
     rank 1
   ]
   edge
   [
     source 250
-    target 192
-    rank 5
+    target 1
+    rank 4
   ]
   edge
   [
     source 250
-    target 220
-    rank 7
+    target 99
+    rank 15
   ]
   edge
   [
     source 250
-    target 211
-    rank 9
+    target 20
+    rank 16
   ]
   edge
   [
     source 250
-    target 108
-    rank 10
-  ]
-  edge
-  [
-    source 250
-    target 231
-    rank 13
-  ]
-  edge
-  [
-    source 250
-    target 81
-    rank 14
-  ]
-  edge
-  [
-    source 251
-    target 74
-    rank 12
-  ]
-  edge
-  [
-    source 251
-    target 170
-    rank 14
-  ]
-  edge
-  [
-    source 251
-    target 220
-    rank 20
-  ]
-  edge
-  [
-    source 252
-    target 86
-    rank 13
-  ]
-  edge
-  [
-    source 252
-    target 119
-    rank 20
-  ]
-  edge
-  [
-    source 253
-    target 102
+    target 143
     rank 17
   ]
   edge
   [
-    source 253
-    target 231
-    rank 19
+    source 250
+    target 22
+    rank 20
+  ]
+  edge
+  [
+    source 252
+    target 143
+    rank 10
   ]
   edge
   [
     source 254
-    target 14
+    target 5
     rank 3
   ]
   edge
   [
     source 254
-    target 19
-    rank 5
-  ]
-  edge
-  [
-    source 254
-    target 147
-    rank 7
-  ]
-  edge
-  [
-    source 254
-    target 81
-    rank 10
-  ]
-  edge
-  [
-    source 254
-    target 124
-    rank 11
-  ]
-  edge
-  [
-    source 254
-    target 218
-    rank 13
-  ]
-  edge
-  [
-    source 254
-    target 0
-    rank 16
-  ]
-  edge
-  [
-    source 255
-    target 170
-    rank 12
-  ]
-  edge
-  [
-    source 255
-    target 97
-    rank 13
-  ]
-  edge
-  [
-    source 255
-    target 196
-    rank 17
-  ]
-  edge
-  [
-    source 255
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 256
-    target 175
-    rank 14
+    target 195
+    rank 4
   ]
   edge
   [
     source 257
-    target 19
-    rank 11
-  ]
-  edge
-  [
-    source 258
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 258
-    target 74
-    rank 5
-  ]
-  edge
-  [
-    source 258
-    target 170
-    rank 11
-  ]
-  edge
-  [
-    source 258
-    target 187
-    rank 15
-  ]
-  edge
-  [
-    source 258
-    target 64
-    rank 17
-  ]
-  edge
-  [
-    source 258
-    target 167
-    rank 18
-  ]
-  edge
-  [
-    source 259
-    target 174
-    rank 2
-  ]
-  edge
-  [
-    source 259
-    target 2
-    rank 6
-  ]
-  edge
-  [
-    source 259
-    target 185
-    rank 7
-  ]
-  edge
-  [
-    source 260
-    target 3
-    rank 12
-  ]
-  edge
-  [
-    source 260
-    target 17
-    rank 17
-  ]
-  edge
-  [
-    source 260
-    target 102
-    rank 18
-  ]
-  edge
-  [
-    source 261
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 261
-    target 17
-    rank 12
-  ]
-  edge
-  [
-    source 261
-    target 19
-    rank 13
-  ]
-  edge
-  [
-    source 262
-    target 102
-    rank 8
-  ]
-  edge
-  [
-    source 263
-    target 147
-    rank 5
-  ]
-  edge
-  [
-    source 263
-    target 218
-    rank 12
-  ]
-  edge
-  [
-    source 263
-    target 124
-    rank 14
-  ]
-  edge
-  [
-    source 263
-    target 0
-    rank 17
-  ]
-  edge
-  [
-    source 263
-    target 3
-    rank 18
-  ]
-  edge
-  [
-    source 263
-    target 102
-    rank 19
-  ]
-  edge
-  [
-    source 264
-    target 151
-    rank 7
-  ]
-  edge
-  [
-    source 265
-    target 220
-    rank 1
-  ]
-  edge
-  [
-    source 265
-    target 192
-    rank 2
-  ]
-  edge
-  [
-    source 266
-    target 165
-    rank 2
-  ]
-  edge
-  [
-    source 267
-    target 220
-    rank 3
-  ]
-  edge
-  [
-    source 267
-    target 2
+    target 356
     rank 4
   ]
   edge
   [
-    source 267
-    target 192
-    rank 5
-  ]
-  edge
-  [
-    source 268
+    source 257
     target 0
-    rank 1
+    rank 9
   ]
   edge
   [
-    source 268
-    target 74
-    rank 8
+    source 258
+    target 143
+    rank 13
   ]
   edge
   [
-    source 268
-    target 170
-    rank 19
+    source 258
+    target 341
+    rank 16
   ]
   edge
   [
-    source 269
-    target 74
-    rank 1
-  ]
-  edge
-  [
-    source 269
-    target 220
-    rank 3
-  ]
-  edge
-  [
-    source 270
-    target 74
-    rank 2
-  ]
-  edge
-  [
-    source 270
-    target 97
-    rank 6
-  ]
-  edge
-  [
-    source 270
-    target 235
-    rank 7
-  ]
-  edge
-  [
-    source 270
-    target 64
-    rank 8
-  ]
-  edge
-  [
-    source 270
-    target 0
-    rank 10
-  ]
-  edge
-  [
-    source 270
-    target 2
-    rank 15
-  ]
-  edge
-  [
-    source 270
-    target 81
+    source 258
+    target 87
     rank 17
   ]
   edge
   [
-    source 270
-    target 185
+    source 258
+    target 318
     rank 18
   ]
   edge
   [
-    source 270
-    target 167
+    source 258
+    target 327
     rank 20
   ]
   edge
   [
-    source 271
-    target 97
-    rank 3
-  ]
-  edge
-  [
-    source 271
-    target 214
-    rank 4
-  ]
-  edge
-  [
-    source 271
-    target 64
-    rank 5
-  ]
-  edge
-  [
-    source 271
-    target 231
-    rank 6
-  ]
-  edge
-  [
-    source 271
-    target 0
+    source 264
+    target 28
     rank 8
   ]
   edge
   [
-    source 271
-    target 220
-    rank 11
+    source 267
+    target 279
+    rank 19
   ]
   edge
   [
-    source 271
-    target 170
-    rank 12
-  ]
-  edge
-  [
-    source 271
-    target 167
-    rank 13
-  ]
-  edge
-  [
-    source 272
-    target 142
-    rank 5
-  ]
-  edge
-  [
-    source 273
-    target 102
-    rank 3
-  ]
-  edge
-  [
-    source 274
+    source 268
     target 0
     rank 2
   ]
   edge
   [
-    source 275
-    target 151
-    rank 3
+    source 268
+    target 99
+    rank 9
   ]
   edge
   [
-    source 276
-    target 64
+    source 268
+    target 203
+    rank 10
+  ]
+  edge
+  [
+    source 268
+    target 143
+    rank 12
+  ]
+  edge
+  [
+    source 268
+    target 135
+    rank 14
+  ]
+  edge
+  [
+    source 268
+    target 169
+    rank 15
+  ]
+  edge
+  [
+    source 268
+    target 239
+    rank 19
+  ]
+  edge
+  [
+    source 269
+    target 99
+    rank 1
+  ]
+  edge
+  [
+    source 269
+    target 108
+    rank 12
+  ]
+  edge
+  [
+    source 270
+    target 195
+    rank 8
+  ]
+  edge
+  [
+    source 274
+    target 99
+    rank 1
+  ]
+  edge
+  [
+    source 274
+    target 143
     rank 2
   ]
   edge
   [
+    source 274
+    target 203
+    rank 7
+  ]
+  edge
+  [
+    source 274
+    target 169
+    rank 16
+  ]
+  edge
+  [
+    source 274
+    target 309
+    rank 19
+  ]
+  edge
+  [
     source 276
-    target 220
-    rank 5
+    target 305
+    rank 11
+  ]
+  edge
+  [
+    source 277
+    target 22
+    rank 7
+  ]
+  edge
+  [
+    source 277
+    target 281
+    rank 8
   ]
   edge
   [
     source 277
     target 3
-    rank 8
-  ]
-  edge
-  [
-    source 278
-    target 3
-    rank 2
+    rank 14
   ]
   edge
   [
     source 279
-    target 102
+    target 74
+    rank 3
+  ]
+  edge
+  [
+    source 280
+    target 99
+    rank 3
+  ]
+  edge
+  [
+    source 280
+    target 203
     rank 4
   ]
   edge
   [
     source 280
-    target 3
-    rank 2
+    target 169
+    rank 7
   ]
   edge
   [
-    source 281
-    target 0
-    rank 1
+    source 280
+    target 143
+    rank 10
   ]
   edge
   [
-    source 281
-    target 147
-    rank 4
+    source 282
+    target 237
+    rank 6
   ]
   edge
   [
-    source 281
-    target 218
-    rank 8
-  ]
-  edge
-  [
-    source 281
-    target 124
-    rank 9
-  ]
-  edge
-  [
-    source 281
-    target 3
-    rank 15
-  ]
-  edge
-  [
-    source 281
-    target 102
-    rank 16
-  ]
-  edge
-  [
-    source 281
-    target 119
-    rank 17
-  ]
-  edge
-  [
-    source 281
-    target 207
+    source 282
+    target 20
     rank 19
-  ]
-  edge
-  [
-    source 282
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 282
-    target 102
-    rank 8
-  ]
-  edge
-  [
-    source 282
-    target 147
-    rank 9
-  ]
-  edge
-  [
-    source 282
-    target 124
-    rank 16
-  ]
-  edge
-  [
-    source 282
-    target 119
-    rank 20
   ]
   edge
   [
     source 283
-    target 3
-    rank 3
-  ]
-  edge
-  [
-    source 284
-    target 24
-    rank 12
-  ]
-  edge
-  [
-    source 285
-    target 74
-    rank 3
-  ]
-  edge
-  [
-    source 285
-    target 81
-    rank 7
-  ]
-  edge
-  [
-    source 285
-    target 64
+    target 115
     rank 8
   ]
   edge
   [
-    source 285
-    target 220
-    rank 9
-  ]
-  edge
-  [
-    source 286
-    target 56
-    rank 5
-  ]
-  edge
-  [
-    source 287
-    target 17
-    rank 4
-  ]
-  edge
-  [
-    source 287
-    target 220
+    source 283
+    target 193
     rank 10
   ]
   edge
   [
-    source 287
-    target 5
-    rank 14
+    source 283
+    target 162
+    rank 20
   ]
   edge
   [
-    source 288
-    target 127
-    rank 13
-  ]
-  edge
-  [
-    source 288
-    target 147
-    rank 15
-  ]
-  edge
-  [
-    source 289
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 289
-    target 147
-    rank 5
-  ]
-  edge
-  [
-    source 289
-    target 124
-    rank 7
-  ]
-  edge
-  [
-    source 289
-    target 102
-    rank 16
-  ]
-  edge
-  [
-    source 289
-    target 81
-    rank 18
-  ]
-  edge
-  [
-    source 289
-    target 119
-    rank 19
-  ]
-  edge
-  [
-    source 290
-    target 233
-    rank 3
-  ]
-  edge
-  [
-    source 291
-    target 3
-    rank 1
-  ]
-  edge
-  [
-    source 292
-    target 2
-    rank 13
-  ]
-  edge
-  [
-    source 293
-    target 0
-    rank 1
-  ]
-  edge
-  [
-    source 293
-    target 4
+    source 285
+    target 7
     rank 2
   ]
   edge
   [
-    source 293
-    target 97
-    rank 5
+    source 285
+    target 25
+    rank 3
   ]
   edge
   [
-    source 293
-    target 170
-    rank 12
-  ]
-  edge
-  [
-    source 293
-    target 64
-    rank 13
-  ]
-  edge
-  [
-    source 293
-    target 167
-    rank 14
-  ]
-  edge
-  [
-    source 293
-    target 81
-    rank 15
-  ]
-  edge
-  [
-    source 293
-    target 231
-    rank 16
-  ]
-  edge
-  [
-    source 293
-    target 196
-    rank 17
-  ]
-  edge
-  [
-    source 294
-    target 250
+    source 285
+    target 98
     rank 4
   ]
   edge
   [
-    source 294
-    target 64
-    rank 11
-  ]
-  edge
-  [
-    source 294
-    target 81
-    rank 18
-  ]
-  edge
-  [
-    source 295
-    target 174
-    rank 1
-  ]
-  edge
-  [
-    source 295
-    target 250
-    rank 6
-  ]
-  edge
-  [
-    source 295
-    target 2
-    rank 9
-  ]
-  edge
-  [
-    source 295
-    target 185
-    rank 10
-  ]
-  edge
-  [
-    source 295
-    target 192
-    rank 12
-  ]
-  edge
-  [
-    source 295
-    target 81
-    rank 14
-  ]
-  edge
-  [
-    source 296
-    target 102
+    source 285
+    target 153
     rank 5
   ]
   edge
   [
-    source 297
+    source 285
+    target 282
+    rank 11
+  ]
+  edge
+  [
+    source 285
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 288
     target 0
     rank 1
   ]
   edge
   [
-    source 297
-    target 119
-    rank 11
+    source 288
+    target 1
+    rank 5
   ]
   edge
   [
-    source 298
-    target 165
-    rank 13
-  ]
-  edge
-  [
-    source 298
+    source 288
     target 3
-    rank 20
+    rank 7
   ]
   edge
   [
-    source 299
-    target 250
-    rank 6
-  ]
-  edge
-  [
-    source 299
-    target 119
-    rank 14
-  ]
-  edge
-  [
-    source 300
+    source 288
     target 81
+    rank 8
+  ]
+  edge
+  [
+    source 288
+    target 20
+    rank 9
+  ]
+  edge
+  [
+    source 288
+    target 22
     rank 13
   ]
   edge
   [
-    source 300
-    target 97
-    rank 14
+    source 288
+    target 243
+    rank 16
   ]
   edge
   [
-    source 300
-    target 64
-    rank 15
+    source 288
+    target 4
+    rank 18
   ]
   edge
   [
-    source 301
-    target 220
+    source 290
+    target 0
+    rank 16
+  ]
+  edge
+  [
+    source 293
+    target 2
+    rank 3
+  ]
+  edge
+  [
+    source 293
+    target 99
+    rank 4
+  ]
+  edge
+  [
+    source 293
+    target 203
+    rank 5
+  ]
+  edge
+  [
+    source 293
+    target 143
+    rank 7
+  ]
+  edge
+  [
+    source 293
+    target 169
+    rank 8
+  ]
+  edge
+  [
+    source 294
+    target 99
+    rank 3
+  ]
+  edge
+  [
+    source 294
+    target 0
+    rank 7
+  ]
+  edge
+  [
+    source 294
+    target 143
+    rank 8
+  ]
+  edge
+  [
+    source 295
+    target 0
     rank 1
   ]
   edge
   [
-    source 302
-    target 218
+    source 295
+    target 3
+    rank 4
+  ]
+  edge
+  [
+    source 295
+    target 99
+    rank 5
+  ]
+  edge
+  [
+    source 295
+    target 143
+    rank 6
+  ]
+  edge
+  [
+    source 295
+    target 203
+    rank 8
+  ]
+  edge
+  [
+    source 295
+    target 318
     rank 10
   ]
   edge
   [
-    source 302
-    target 64
+    source 295
+    target 87
+    rank 11
+  ]
+  edge
+  [
+    source 295
+    target 299
     rank 12
   ]
   edge
   [
-    source 302
-    target 250
+    source 295
+    target 248
+    rank 13
+  ]
+  edge
+  [
+    source 295
+    target 304
+    rank 17
+  ]
+  edge
+  [
+    source 295
+    target 273
+    rank 19
+  ]
+  edge
+  [
+    source 296
+    target 88
+    rank 1
+  ]
+  edge
+  [
+    source 298
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 298
+    target 282
+    rank 12
+  ]
+  edge
+  [
+    source 300
+    target 99
+    rank 14
+  ]
+  edge
+  [
+    source 300
+    target 203
+    rank 15
+  ]
+  edge
+  [
+    source 300
+    target 169
     rank 19
   ]
   edge
   [
     source 303
+    target 1
+    rank 9
+  ]
+  edge
+  [
+    source 303
+    target 0
+    rank 14
+  ]
+  edge
+  [
+    source 303
+    target 81
+    rank 16
+  ]
+  edge
+  [
+    source 304
     target 0
     rank 1
   ]
   edge
   [
-    source 303
-    target 151
-    rank 7
+    source 304
+    target 173
+    rank 2
   ]
   edge
   [
-    source 303
-    target 165
+    source 304
+    target 143
+    rank 6
+  ]
+  edge
+  [
+    source 304
+    target 203
     rank 9
   ]
   edge
   [
     source 304
-    target 194
-    rank 5
+    target 282
+    rank 11
   ]
   edge
   [
     source 304
-    target 140
-    rank 9
-  ]
-  edge
-  [
-    source 304
-    target 3
-    rank 16
+    target 169
+    rank 19
   ]
   edge
   [
     source 305
-    target 3
-    rank 9
-  ]
-  edge
-  [
-    source 306
-    target 3
-    rank 20
-  ]
-  edge
-  [
-    source 307
-    target 192
-    rank 10
-  ]
-  edge
-  [
-    source 308
-    target 192
+    target 230
     rank 8
   ]
   edge
   [
     source 309
-    target 3
-    rank 7
+    target 50
+    rank 11
+  ]
+  edge
+  [
+    source 309
+    target 191
+    rank 12
+  ]
+  edge
+  [
+    source 309
+    target 99
+    rank 13
+  ]
+  edge
+  [
+    source 309
+    target 16
+    rank 14
+  ]
+  edge
+  [
+    source 309
+    target 85
+    rank 15
+  ]
+  edge
+  [
+    source 309
+    target 141
+    rank 17
+  ]
+  edge
+  [
+    source 309
+    target 110
+    rank 18
+  ]
+  edge
+  [
+    source 309
+    target 217
+    rank 19
+  ]
+  edge
+  [
+    source 309
+    target 78
+    rank 20
   ]
   edge
   [
     source 310
-    target 35
+    target 273
+    rank 1
+  ]
+  edge
+  [
+    source 310
+    target 2
+    rank 2
+  ]
+  edge
+  [
+    source 311
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 311
+    target 20
+    rank 4
+  ]
+  edge
+  [
+    source 311
+    target 143
     rank 6
   ]
   edge
   [
-    source 310
-    target 172
+    source 311
+    target 88
     rank 10
   ]
   edge
   [
     source 311
-    target 140
-    rank 18
-  ]
-  edge
-  [
-    source 312
-    target 0
-    rank 2
-  ]
-  edge
-  [
-    source 312
-    target 74
-    rank 13
-  ]
-  edge
-  [
-    source 312
-    target 97
+    target 87
     rank 18
   ]
   edge
   [
     source 313
-    target 17
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 313
+    target 243
+    rank 7
+  ]
+  edge
+  [
+    source 313
+    target 22
+    rank 8
+  ]
+  edge
+  [
+    source 313
+    target 237
+    rank 11
+  ]
+  edge
+  [
+    source 313
+    target 239
+    rank 12
+  ]
+  edge
+  [
+    source 313
+    target 4
+    rank 18
+  ]
+  edge
+  [
+    source 314
+    target 22
+    rank 1
+  ]
+  edge
+  [
+    source 314
+    target 135
+    rank 5
+  ]
+  edge
+  [
+    source 314
+    target 250
+    rank 6
+  ]
+  edge
+  [
+    source 314
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 314
+    target 87
+    rank 8
+  ]
+  edge
+  [
+    source 314
+    target 0
+    rank 9
+  ]
+  edge
+  [
+    source 314
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 314
+    target 143
+    rank 17
+  ]
+  edge
+  [
+    source 314
+    target 108
+    rank 18
+  ]
+  edge
+  [
+    source 314
+    target 239
+    rank 20
+  ]
+  edge
+  [
+    source 318
+    target 0
+    rank 5
+  ]
+  edge
+  [
+    source 321
+    target 4
+    rank 16
+  ]
+  edge
+  [
+    source 322
+    target 237
+    rank 3
+  ]
+  edge
+  [
+    source 323
+    target 143
+    rank 5
+  ]
+  edge
+  [
+    source 323
+    target 281
+    rank 18
+  ]
+  edge
+  [
+    source 323
+    target 149
+    rank 19
+  ]
+  edge
+  [
+    source 323
+    target 169
+    rank 20
+  ]
+  edge
+  [
+    source 324
+    target 204
+    rank 12
+  ]
+  edge
+  [
+    source 324
+    target 203
+    rank 15
+  ]
+  edge
+  [
+    source 324
+    target 169
+    rank 20
+  ]
+  edge
+  [
+    source 325
+    target 15
+    rank 8
+  ]
+  edge
+  [
+    source 325
+    target 163
+    rank 10
+  ]
+  edge
+  [
+    source 325
+    target 195
+    rank 11
+  ]
+  edge
+  [
+    source 325
+    target 203
+    rank 12
+  ]
+  edge
+  [
+    source 325
+    target 87
+    rank 19
+  ]
+  edge
+  [
+    source 327
+    target 99
+    rank 2
+  ]
+  edge
+  [
+    source 328
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 329
+    target 173
+    rank 13
+  ]
+  edge
+  [
+    source 329
+    target 99
+    rank 14
+  ]
+  edge
+  [
+    source 330
+    target 143
+    rank 2
+  ]
+  edge
+  [
+    source 333
+    target 0
+    rank 10
+  ]
+  edge
+  [
+    source 334
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 335
+    target 50
+    rank 6
+  ]
+  edge
+  [
+    source 335
+    target 91
+    rank 7
+  ]
+  edge
+  [
+    source 335
+    target 191
+    rank 10
+  ]
+  edge
+  [
+    source 335
+    target 99
+    rank 11
+  ]
+  edge
+  [
+    source 335
+    target 141
+    rank 13
+  ]
+  edge
+  [
+    source 335
+    target 217
+    rank 14
+  ]
+  edge
+  [
+    source 335
+    target 152
+    rank 15
+  ]
+  edge
+  [
+    source 335
+    target 78
+    rank 16
+  ]
+  edge
+  [
+    source 335
+    target 110
+    rank 19
+  ]
+  edge
+  [
+    source 335
+    target 85
+    rank 20
+  ]
+  edge
+  [
+    source 336
+    target 3
+    rank 20
+  ]
+  edge
+  [
+    source 338
+    target 135
+    rank 16
+  ]
+  edge
+  [
+    source 338
+    target 87
+    rank 18
+  ]
+  edge
+  [
+    source 338
+    target 0
+    rank 20
+  ]
+  edge
+  [
+    source 339
+    target 20
+    rank 15
+  ]
+  edge
+  [
+    source 340
+    target 20
+    rank 17
+  ]
+  edge
+  [
+    source 341
+    target 287
+    rank 7
+  ]
+  edge
+  [
+    source 341
+    target 318
+    rank 11
+  ]
+  edge
+  [
+    source 341
+    target 87
+    rank 12
+  ]
+  edge
+  [
+    source 344
+    target 99
+    rank 14
+  ]
+  edge
+  [
+    source 348
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 354
+    target 124
+    rank 6
+  ]
+  edge
+  [
+    source 356
+    target 135
+    rank 6
+  ]
+  edge
+  [
+    source 356
+    target 243
+    rank 7
+  ]
+  edge
+  [
+    source 356
+    target 0
+    rank 20
+  ]
+  edge
+  [
+    source 359
+    target 87
+    rank 5
+  ]
+  edge
+  [
+    source 365
+    target 28
+    rank 20
+  ]
+  edge
+  [
+    source 369
+    target 28
+    rank 20
+  ]
+  edge
+  [
+    source 370
+    target 1
+    rank 1
+  ]
+  edge
+  [
+    source 370
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 403
+    target 28
+    rank 5
+  ]
+  edge
+  [
+    source 405
+    target 22
+    rank 4
+  ]
+  edge
+  [
+    source 405
+    target 143
+    rank 5
+  ]
+  edge
+  [
+    source 405
+    target 108
+    rank 12
+  ]
+  edge
+  [
+    source 405
+    target 2
+    rank 14
+  ]
+  edge
+  [
+    source 405
+    target 150
+    rank 17
+  ]
+  edge
+  [
+    source 412
+    target 267
+    rank 8
+  ]
+  edge
+  [
+    source 412
+    target 1
+    rank 13
+  ]
+  edge
+  [
+    source 413
+    target 193
+    rank 11
+  ]
+  edge
+  [
+    source 414
+    target 135
+    rank 7
+  ]
+  edge
+  [
+    source 414
+    target 324
+    rank 10
+  ]
+  edge
+  [
+    source 414
+    target 0
+    rank 18
+  ]
+  edge
+  [
+    source 415
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 416
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 416
+    target 20
+    rank 16
+  ]
+  edge
+  [
+    source 421
+    target 106
+    rank 9
+  ]
+  edge
+  [
+    source 421
+    target 87
+    rank 10
+  ]
+  edge
+  [
+    source 421
+    target 239
+    rank 14
+  ]
+  edge
+  [
+    source 421
+    target 0
+    rank 16
+  ]
+  edge
+  [
+    source 422
+    target 327
+    rank 4
+  ]
+  edge
+  [
+    source 422
+    target 108
+    rank 6
+  ]
+  edge
+  [
+    source 422
+    target 282
+    rank 7
+  ]
+  edge
+  [
+    source 425
+    target 0
+    rank 3
+  ]
+  edge
+  [
+    source 425
+    target 1
+    rank 14
+  ]
+  edge
+  [
+    source 428
+    target 2
+    rank 1
+  ]
+  edge
+  [
+    source 428
+    target 282
+    rank 5
+  ]
+  edge
+  [
+    source 428
+    target 327
+    rank 7
+  ]
+  edge
+  [
+    source 428
+    target 311
+    rank 9
+  ]
+  edge
+  [
+    source 428
+    target 150
+    rank 10
+  ]
+  edge
+  [
+    source 428
+    target 341
+    rank 13
+  ]
+  edge
+  [
+    source 428
+    target 108
+    rank 14
+  ]
+  edge
+  [
+    source 430
+    target 99
+    rank 12
+  ]
+  edge
+  [
+    source 430
+    target 243
+    rank 14
+  ]
+  edge
+  [
+    source 430
+    target 327
+    rank 20
+  ]
+  edge
+  [
+    source 431
+    target 115
+    rank 13
+  ]
+  edge
+  [
+    source 431
+    target 162
+    rank 20
+  ]
+  edge
+  [
+    source 434
+    target 143
+    rank 17
+  ]
+  edge
+  [
+    source 434
+    target 341
+    rank 19
+  ]
+  edge
+  [
+    source 437
+    target 16
+    rank 3
+  ]
+  edge
+  [
+    source 437
+    target 22
+    rank 5
+  ]
+  edge
+  [
+    source 437
+    target 203
+    rank 7
+  ]
+  edge
+  [
+    source 437
+    target 108
+    rank 10
+  ]
+  edge
+  [
+    source 437
+    target 169
+    rank 11
+  ]
+  edge
+  [
+    source 437
+    target 324
+    rank 13
+  ]
+  edge
+  [
+    source 437
+    target 0
+    rank 16
+  ]
+  edge
+  [
+    source 439
+    target 243
+    rank 12
+  ]
+  edge
+  [
+    source 439
+    target 135
+    rank 13
+  ]
+  edge
+  [
+    source 439
+    target 287
+    rank 17
+  ]
+  edge
+  [
+    source 439
+    target 162
+    rank 19
+  ]
+  edge
+  [
+    source 440
+    target 250
+    rank 14
+  ]
+  edge
+  [
+    source 441
+    target 22
+    rank 11
+  ]
+  edge
+  [
+    source 443
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 443
+    target 99
+    rank 5
+  ]
+  edge
+  [
+    source 443
+    target 243
+    rank 11
+  ]
+  edge
+  [
+    source 443
+    target 276
+    rank 15
+  ]
+  edge
+  [
+    source 443
+    target 87
+    rank 17
+  ]
+  edge
+  [
+    source 443
+    target 239
+    rank 18
+  ]
+  edge
+  [
+    source 444
+    target 248
+    rank 2
+  ]
+  edge
+  [
+    source 444
+    target 2
+    rank 6
+  ]
+  edge
+  [
+    source 444
+    target 273
+    rank 7
+  ]
+  edge
+  [
+    source 446
+    target 3
+    rank 12
+  ]
+  edge
+  [
+    source 446
+    target 20
+    rank 17
+  ]
+  edge
+  [
+    source 446
+    target 143
+    rank 18
+  ]
+  edge
+  [
+    source 449
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 449
+    target 20
+    rank 12
+  ]
+  edge
+  [
+    source 449
+    target 22
+    rank 13
+  ]
+  edge
+  [
+    source 451
+    target 143
+    rank 8
+  ]
+  edge
+  [
+    source 452
+    target 203
+    rank 5
+  ]
+  edge
+  [
+    source 452
+    target 324
+    rank 12
+  ]
+  edge
+  [
+    source 452
+    target 169
+    rank 14
+  ]
+  edge
+  [
+    source 452
+    target 0
+    rank 17
+  ]
+  edge
+  [
+    source 452
+    target 3
+    rank 18
+  ]
+  edge
+  [
+    source 452
+    target 143
+    rank 19
+  ]
+  edge
+  [
+    source 453
+    target 209
+    rank 7
+  ]
+  edge
+  [
+    source 455
+    target 327
+    rank 1
+  ]
+  edge
+  [
+    source 455
+    target 282
+    rank 2
+  ]
+  edge
+  [
+    source 457
+    target 237
+    rank 2
+  ]
+  edge
+  [
+    source 461
+    target 327
+    rank 3
+  ]
+  edge
+  [
+    source 461
+    target 2
+    rank 4
+  ]
+  edge
+  [
+    source 461
+    target 282
+    rank 5
+  ]
+  edge
+  [
+    source 462
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 462
+    target 99
+    rank 8
+  ]
+  edge
+  [
+    source 462
+    target 243
+    rank 19
+  ]
+  edge
+  [
+    source 463
+    target 99
+    rank 1
+  ]
+  edge
+  [
+    source 463
+    target 327
+    rank 3
+  ]
+  edge
+  [
+    source 464
+    target 99
+    rank 2
+  ]
+  edge
+  [
+    source 464
+    target 135
+    rank 6
+  ]
+  edge
+  [
+    source 464
+    target 356
+    rank 7
+  ]
+  edge
+  [
+    source 464
+    target 87
+    rank 8
+  ]
+  edge
+  [
+    source 464
+    target 0
+    rank 10
+  ]
+  edge
+  [
+    source 464
+    target 2
+    rank 15
+  ]
+  edge
+  [
+    source 464
+    target 108
+    rank 17
+  ]
+  edge
+  [
+    source 464
+    target 273
+    rank 18
+  ]
+  edge
+  [
+    source 464
+    target 239
+    rank 20
+  ]
+  edge
+  [
+    source 465
+    target 135
+    rank 3
+  ]
+  edge
+  [
+    source 465
+    target 318
+    rank 4
+  ]
+  edge
+  [
+    source 465
+    target 87
+    rank 5
+  ]
+  edge
+  [
+    source 465
+    target 341
+    rank 6
+  ]
+  edge
+  [
+    source 465
+    target 0
+    rank 8
+  ]
+  edge
+  [
+    source 465
+    target 327
+    rank 11
+  ]
+  edge
+  [
+    source 465
+    target 243
+    rank 12
+  ]
+  edge
+  [
+    source 465
+    target 239
+    rank 13
+  ]
+  edge
+  [
+    source 466
+    target 195
+    rank 5
+  ]
+  edge
+  [
+    source 467
+    target 143
+    rank 3
+  ]
+  edge
+  [
+    source 468
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 469
+    target 209
+    rank 3
+  ]
+  edge
+  [
+    source 470
+    target 87
+    rank 2
+  ]
+  edge
+  [
+    source 470
+    target 327
+    rank 5
+  ]
+  edge
+  [
+    source 471
+    target 3
+    rank 8
+  ]
+  edge
+  [
+    source 474
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 477
+    target 143
+    rank 4
+  ]
+  edge
+  [
+    source 481
+    target 3
+    rank 2
+  ]
+  edge
+  [
+    source 482
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 482
+    target 203
+    rank 4
+  ]
+  edge
+  [
+    source 482
+    target 324
+    rank 8
+  ]
+  edge
+  [
+    source 482
+    target 169
+    rank 9
+  ]
+  edge
+  [
+    source 482
+    target 3
+    rank 15
+  ]
+  edge
+  [
+    source 482
+    target 143
+    rank 16
+  ]
+  edge
+  [
+    source 482
+    target 162
+    rank 17
+  ]
+  edge
+  [
+    source 482
+    target 304
+    rank 19
+  ]
+  edge
+  [
+    source 485
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 485
+    target 143
+    rank 8
+  ]
+  edge
+  [
+    source 485
+    target 203
+    rank 9
+  ]
+  edge
+  [
+    source 485
+    target 169
+    rank 16
+  ]
+  edge
+  [
+    source 485
+    target 162
+    rank 20
+  ]
+  edge
+  [
+    source 486
+    target 3
+    rank 3
+  ]
+  edge
+  [
+    source 487
+    target 28
+    rank 12
+  ]
+  edge
+  [
+    source 489
+    target 99
+    rank 3
+  ]
+  edge
+  [
+    source 489
+    target 108
+    rank 7
+  ]
+  edge
+  [
+    source 489
+    target 87
+    rank 8
+  ]
+  edge
+  [
+    source 489
+    target 327
+    rank 9
+  ]
+  edge
+  [
+    source 490
+    target 74
+    rank 5
+  ]
+  edge
+  [
+    source 493
+    target 20
+    rank 4
+  ]
+  edge
+  [
+    source 493
+    target 327
+    rank 10
+  ]
+  edge
+  [
+    source 493
+    target 5
+    rank 14
+  ]
+  edge
+  [
+    source 495
+    target 173
+    rank 13
+  ]
+  edge
+  [
+    source 495
+    target 203
+    rank 15
+  ]
+  edge
+  [
+    source 497
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 497
+    target 203
+    rank 5
+  ]
+  edge
+  [
+    source 497
+    target 169
+    rank 7
+  ]
+  edge
+  [
+    source 497
+    target 143
+    rank 16
+  ]
+  edge
+  [
+    source 497
+    target 108
+    rank 18
+  ]
+  edge
+  [
+    source 497
+    target 162
+    rank 19
+  ]
+  edge
+  [
+    source 500
+    target 348
+    rank 3
+  ]
+  edge
+  [
+    source 501
+    target 3
+    rank 1
+  ]
+  edge
+  [
+    source 504
+    target 2
+    rank 13
+  ]
+  edge
+  [
+    source 505
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 505
+    target 4
+    rank 2
+  ]
+  edge
+  [
+    source 505
+    target 135
+    rank 5
+  ]
+  edge
+  [
+    source 505
+    target 243
+    rank 12
+  ]
+  edge
+  [
+    source 505
+    target 87
+    rank 13
+  ]
+  edge
+  [
+    source 505
+    target 239
+    rank 14
+  ]
+  edge
+  [
+    source 505
+    target 108
+    rank 15
+  ]
+  edge
+  [
+    source 505
+    target 341
+    rank 16
+  ]
+  edge
+  [
+    source 505
+    target 287
+    rank 17
+  ]
+  edge
+  [
+    source 506
+    target 428
+    rank 4
+  ]
+  edge
+  [
+    source 506
+    target 87
+    rank 11
+  ]
+  edge
+  [
+    source 506
+    target 108
+    rank 18
+  ]
+  edge
+  [
+    source 507
+    target 248
+    rank 1
+  ]
+  edge
+  [
+    source 507
+    target 428
+    rank 6
+  ]
+  edge
+  [
+    source 507
+    target 2
+    rank 9
+  ]
+  edge
+  [
+    source 507
+    target 273
+    rank 10
+  ]
+  edge
+  [
+    source 507
+    target 282
+    rank 12
+  ]
+  edge
+  [
+    source 507
+    target 108
+    rank 14
+  ]
+  edge
+  [
+    source 508
+    target 143
+    rank 5
+  ]
+  edge
+  [
+    source 509
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 509
+    target 162
+    rank 11
+  ]
+  edge
+  [
+    source 510
+    target 237
+    rank 13
+  ]
+  edge
+  [
+    source 510
+    target 3
+    rank 20
+  ]
+  edge
+  [
+    source 511
+    target 428
+    rank 6
+  ]
+  edge
+  [
+    source 511
+    target 162
+    rank 14
+  ]
+  edge
+  [
+    source 512
+    target 108
+    rank 13
+  ]
+  edge
+  [
+    source 512
+    target 135
+    rank 14
+  ]
+  edge
+  [
+    source 512
+    target 87
+    rank 15
+  ]
+  edge
+  [
+    source 513
+    target 327
+    rank 1
+  ]
+  edge
+  [
+    source 515
+    target 324
+    rank 10
+  ]
+  edge
+  [
+    source 515
+    target 87
+    rank 12
+  ]
+  edge
+  [
+    source 515
+    target 428
+    rank 19
+  ]
+  edge
+  [
+    source 516
+    target 0
+    rank 1
+  ]
+  edge
+  [
+    source 516
+    target 209
+    rank 7
+  ]
+  edge
+  [
+    source 516
+    target 237
+    rank 9
+  ]
+  edge
+  [
+    source 519
+    target 284
+    rank 5
+  ]
+  edge
+  [
+    source 519
+    target 193
+    rank 9
+  ]
+  edge
+  [
+    source 519
+    target 3
+    rank 16
+  ]
+  edge
+  [
+    source 524
+    target 3
+    rank 9
+  ]
+  edge
+  [
+    source 526
+    target 3
+    rank 20
+  ]
+  edge
+  [
+    source 529
+    target 282
+    rank 10
+  ]
+  edge
+  [
+    source 532
+    target 282
+    rank 8
+  ]
+  edge
+  [
+    source 533
+    target 3
+    rank 7
+  ]
+  edge
+  [
+    source 537
+    target 47
+    rank 6
+  ]
+  edge
+  [
+    source 537
+    target 245
+    rank 10
+  ]
+  edge
+  [
+    source 538
+    target 193
+    rank 18
+  ]
+  edge
+  [
+    source 539
+    target 0
+    rank 2
+  ]
+  edge
+  [
+    source 539
+    target 99
+    rank 13
+  ]
+  edge
+  [
+    source 539
+    target 135
+    rank 18
+  ]
+  edge
+  [
+    source 540
+    target 20
     rank 6
   ]
 ]

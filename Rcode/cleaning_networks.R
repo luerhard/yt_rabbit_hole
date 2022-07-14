@@ -27,22 +27,6 @@ clean_network <- function(g){
   # g <- delete_edges(g, E(g)[E(g)$rank > 25])
 }
 
-add_sentiment <- function(g,i){
-  perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
-  title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
-
-  V(g)$sentiment <- NA
-
-  for(j in V(g)$label){
-    if(length(title_sentiments$sentiment[title_sentiments$id==j]) > 0){
-      V(g)$sentiment[V(g)$label == j] <- title_sentiments$sentiment[title_sentiments$id==j]
-    }
-    #set_vertex_attr(g, "sentiment", )
-  }
-
-  return(g)
-}
-
 get_network_metadata <- function(g, networkName=NA){
   ## COMPONENT SELECTION
   # identifying components
@@ -94,56 +78,6 @@ clean_descriptions <- function(g){
   # TO DO
 }
 
-add_channel_metadata <- function(g) {
-
-  channel_infos = read_csv(here("data/external/recfluence_channel_review.csv"), show_col_types=F)
-
-  for (node in V(g)) {
-    channel <- V(g)$channel_id[node]
-
-    tags <- channel_infos %>%
-      dplyr::filter(CHANNEL_ID == channel) %>%
-      select(TAGS) %>%
-      pull()
-
-    lr <- channel_infos %>%
-      dplyr::filter(CHANNEL_ID == channel) %>%
-      select(LR) %>%
-      pull()
-
-    if (length(tags) != 0) {
-      tags <- unique(tags)
-      tags <- str_c(tags, collapse=",")
-      V(g)[node]$channeltags <- tags
-    }
-
-    if (length(lr) != 0) {
-      lr <- unique(lr)
-      V(g)[node]$leftright <- lr
-    }
-
-  }
-
-  return(g)
-}
-
-add_sentiment <- function(g,i){
-  perspective_data <- read.csv(paste0("../data/interim/perspective_data/",substr(i,1,nchar(i)-4),".csv"))
-  title_sentiments <- read.csv(paste0("../data/interim/title_sentiments/",substr(i,1,nchar(i)-4),".csv"))
-  colnames(perspective_data)[colnames(perspective_data)=="video_id"] <- "id"
-  colnames(title_sentiments)[colnames(title_sentiments)=="video_id"] <- "id"
-
-  network_data <- igraph::as_data_frame(g, 'both')
-
-  network_data$vertices <- merge(network_data$vertices, perspective_data, by="id", all.x = TRUE)
-  network_data$vertices <- merge(network_data$vertices, title_sentiments, by="id", all.x = TRUE)
-
-  g <- graph_from_data_frame(network_data$edges[network_data$edges$from %in% network_data$vertices$id | network_data$edges$from %in% network_data$vertices$id,],
-                             directed = T,
-                             vertices = network_data$vertices)
-  return(g)
-}
-
 community_detect_and_select <- function(g){
   ## COMPONENT SELECTION
   # identifying components
@@ -168,8 +102,6 @@ md <- data.frame()
 for(i in network_files) {
   g <- read_graph(paste0("../data/interim/networks/",i), format = "gml")
   g <- clean_network(g)
-  g <- add_sentiment(g,i)
-  g <- add_channel_metadata(g)
   md <- rbind(md,get_network_metadata(g, substr(i,1,nchar(i)-4)))
   g <- clean_titles(g)
   g <- community_detect_and_select(g)
